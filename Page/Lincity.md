@@ -16,7 +16,7 @@
 
 [Lincity.png](https://zh.wikipedia.org/wiki/File:Lincity.png "fig:Lincity.png") 此遊戲原本名為「」（C字大寫）。此遊戲的原版並不需要3D显示卡，对应硬件要求较低电脑，且僅使用[2D俯视视角](../Page/二维图像引擎.md "wikilink")。原版需求的[記憶容量較少](../Page/随机存取存储器.md "wikilink")，且需求的[中央处理器](../Page/中央处理器.md "wikilink")功率亦較低。儘管此遊戲持續更新至2004年8月，但遊戲实際上自1999年以來已没有什么大改動。\[4\]
 
-《Lincity》原本是為[Linux](../Page/Linux.md "wikilink")而設，但也支援[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[BeOS](../Page/BeOS.md "wikilink")、[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")、[AmigaOS 4](../Page/AmigaOS_4.md "wikilink")、以及其他[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")。但是，玩家若使用[Mac OS X遊玩](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，則需要用[GCC编译](https://zh.wikipedia.org/wiki/GNU_Compiler_Collection "wikilink")，並使用[X11.app运行](https://zh.wikipedia.org/wiki/X11 "wikilink")。在Unix类系统中，此遊戲則使用[SVGALib或](https://zh.wikipedia.org/wiki/SVGALib "wikilink")[X11作为用戶界面和](https://zh.wikipedia.org/wiki/X11 "wikilink")[应用程序接口](https://zh.wikipedia.org/wiki/API "wikilink")。\[5\]
+《Lincity》原本是為[Linux](../Page/Linux.md "wikilink")而設，但也支援[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[BeOS](../Page/BeOS.md "wikilink")、[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")、[AmigaOS 4](../Page/AmigaOS_4.md "wikilink")、以及其他[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")。但是，玩家若使用[Mac OS X遊玩](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，則需要用[GCC编译](https://zh.wikipedia.org/wiki/GNU_Compiler_Collection "wikilink")，並使用[X11.app运行](https://zh.wikipedia.org/wiki/X11 "wikilink")。在Unix类系统中，此遊戲則使用[SVGALib](../Page/SVGALib.md "wikilink")或[X11作为用戶界面和](https://zh.wikipedia.org/wiki/X11 "wikilink")[应用程序接口](https://zh.wikipedia.org/wiki/API "wikilink")。\[5\]
 
 ### LinCity-NG
 
@@ -48,15 +48,10 @@
 [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink") [Category:经营模拟游戏](https://zh.wikipedia.org/wiki/Category:经营模拟游戏 "wikilink") [Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink")
 
 1.
-
 2.
 3.
 4.  [Lincity for Win32 - OoCities](http://www.oocities.org/gregsharp.geo/lincity.html)
-
 5.  [Lincity - A City Simulation Game](http://lincity.sourceforge.net/)
-
 6.  [lincity-ng should be updated to 1.1.2 – MacPorts](http://lincity-ng.berlios.de/wiki/index.php/Download/Installation)
-
 7.  [Debian -- Details of package lincity-ng in wheezy](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=404396)
-
-8.  [lincity-ng -- NeedleSeek](http://needleseek.msra.cn/result.aspx?query=lincity-ng)
+8.

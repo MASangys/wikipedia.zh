@@ -12,8 +12,8 @@
 
 ## 参见
 
-  - [POI官方網站](http://poi.apache.org/)
-  - [POI API DOCUMENTS](http://poi.apache.org/apidocs/index.html)
-  - [NPOI元件](http://npoi.codeplex.com/)
+  - [POI官方網站](https://poi.apache.org/)
+  - [POI API DOCUMENTS](https://poi.apache.org/apidocs/index.html)
+  - [NPOI元件](https://npoi.codeplex.com/)
 
 [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink") [Category:程序设计工具](https://zh.wikipedia.org/wiki/Category:程序设计工具 "wikilink") [Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink")

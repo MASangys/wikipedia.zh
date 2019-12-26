@@ -79,6 +79,6 @@
 
 ## 外部連結
 
-  - [公式網站](http://www.hakusensha.co.jp/cgi-bin/mag/magazine.cgi?mode=magazine&magmode=mag03&day=now)
+  - [公式網站](https://web.archive.org/web/20080507023357/http://www.hakusensha.co.jp/cgi-bin/mag/magazine.cgi?mode=magazine&magmode=mag03&day=now)
 
 [Category:LaLa](https://zh.wikipedia.org/wiki/Category:LaLa "wikilink") [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:少女漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少女漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:白泉社](https://zh.wikipedia.org/wiki/Category:白泉社 "wikilink") [Category:花與夢](https://zh.wikipedia.org/wiki/Category:花與夢 "wikilink")

@@ -60,40 +60,22 @@ TechCrunch 有數個附屬網站，故被稱為TechCrunch網絡，自2004年12�
 [Category:2005年建立的网站](https://zh.wikipedia.org/wiki/Category:2005年建立的网站 "wikilink") [Category:技術網站](https://zh.wikipedia.org/wiki/Category:技術網站 "wikilink") [Category:網誌](https://zh.wikipedia.org/wiki/Category:網誌 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:美國線上公司](https://zh.wikipedia.org/wiki/Category:美國線上公司 "wikilink")
 
 1.  <http://www.nytimes.com/2011/09/05/business/media/michael-arringtons-audacious-venture.html/>
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.  <http://www.pcmag.com/article2/0,2817,2421359,00.asp>
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.

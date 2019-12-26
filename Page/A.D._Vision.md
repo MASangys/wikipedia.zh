@@ -123,6 +123,6 @@ Section23 Films公司由「Sentai Filmworks」和「AEsir Holdings」兩間公�
 ## 相關連結
 
   - [ADV Films 官方網頁](https://web.archive.org/web/20140101054539/http://www.advfilms.com/)
-  - [Sentai Filmworks 官方網頁](http://www.sentai-filmworks.com/)
+  - [Sentai Filmworks 官方網頁](https://web.archive.org/web/20131104112905/http://www.sentai-filmworks.com/)
 
 [Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink") [Category:美國已結業公司](https://zh.wikipedia.org/wiki/Category:美國已結業公司 "wikilink") [Category:1992年成立的公司](https://zh.wikipedia.org/wiki/Category:1992年成立的公司 "wikilink") [Category:2009年結業公司](https://zh.wikipedia.org/wiki/Category:2009年結業公司 "wikilink")

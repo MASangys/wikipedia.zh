@@ -97,27 +97,16 @@
 [Category:沙巴建筑物](https://zh.wikipedia.org/wiki/Category:沙巴建筑物 "wikilink")
 
 1.  [业主组7人管委会·1 Borneo管理层易手](http://www.sinchew.com.my/node/1827418)星洲网，2019年1月4日
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
 13.
-
 14.

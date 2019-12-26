@@ -119,7 +119,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>卡巴</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/野田順子" title="wikilink">野田順子</a></p></td>
+<td><p><a href="../Page/野田順子.md" title="wikilink">野田順子</a></p></td>
 <td><p><a href="../Page/許淑嬪.md" title="wikilink">許淑嬪</a></p></td>
 </tr>
 <tr class="even">

@@ -174,125 +174,69 @@ A字裝飾</p></td>
 <!-- end list -->
 
   -
-[Category:約克鎮級航空母艦](https://zh.wikipedia.org/wiki/Category:約克鎮級航空母艦 "wikilink") [Category:1937年竣工的船只](https://zh.wikipedia.org/wiki/Category:1937年竣工的船只 "wikilink") [Category:第二次世界大戰航空母艦](https://zh.wikipedia.org/wiki/Category:第二次世界大戰航空母艦 "wikilink") [Category:二戰美國軍艦](https://zh.wikipedia.org/wiki/Category:二戰美國軍艦 "wikilink") [Category:潜艇击沉](https://zh.wikipedia.org/wiki/Category:潜艇击沉 "wikilink")
+[Category:約克鎮級航空母艦](https://zh.wikipedia.org/wiki/Category:約克鎮級航空母艦 "wikilink") [Category:1936年下水](https://zh.wikipedia.org/wiki/Category:1936年下水 "wikilink") [Category:第二次世界大戰航空母艦](https://zh.wikipedia.org/wiki/Category:第二次世界大戰航空母艦 "wikilink") [Category:二戰美國軍艦](https://zh.wikipedia.org/wiki/Category:二戰美國軍艦 "wikilink") [Category:潜艇击沉](https://zh.wikipedia.org/wiki/Category:潜艇击沉 "wikilink")
 
 1.  [美國海軍軍艦字典（DANFS）簡介](http://www.hazegray.org/danfs/carriers/cv5.htm)
-
 2.
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18. 第1冊。
-
 19. 第1冊。
-
 20.
 21.
 22. 第3冊。
-
 23. 第3冊。
-
 24. 第3冊。
-
 25. 第3冊。
-
 26. 第3冊。
-
 27. 第3冊。
-
 28.
 29. 第3冊。
-
 30. 第4冊。
-
 31.
-
 32. 第4冊。
-
 33. 第4冊。
-
 34.
-
 35. 第4冊。
-
 36.
-
 37.
-
 38.
-
 39. 第4冊。
-
 40. 第4冊。
-
 41. 第4冊。
-
 42.
-
 43.
-
 44. 第4冊。
-
 45. 第4冊。
-
 46. 第4冊。
-
 47. 第4冊。
-
 48. 第4冊。
-
 49.
-
 50. 第4冊；
-
 51. 第4冊。
-
 52. 第4冊。
-
 53. 第4冊；；[Yorktown (CV-5) War Damage Report - March 9, 1943 (Midway), p. 25](http://wwiiarchives.net/servlet/document/1283/24/0)；
-
 54. 第4冊；
-
 55. 第4冊；
-
 56. 第4冊。
-
 57. 第4冊；
-
 58. 第4冊；
-
 59. 第4冊；；[Yorktown (CV-5) War Damage Report - March 9, 1943 (Midway), p. 26](http://wwiiarchives.net/servlet/document/1283/25/0)
-
 60. 第4冊；；[Yorktown (CV-5) Action Report - June 17, 1942 (Midway), p. 6](http://wwiiarchives.net/servlet/document/1319/5/0)
-
 61. [Navsource:Aircraft Carrier Photo Index: USS YORKTOWN (CV-5)](http://www.navsource.org/archives/02/05.htm)
-
 62. 第4冊；；
-
 63.
-
 64.

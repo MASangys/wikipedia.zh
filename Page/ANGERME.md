@@ -130,7 +130,8 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td></td>
 <td><p>六期</p></td>
 <td><p><strong>黃綠</strong></p></td>
-<td><p>從Country Girls移籍，兼任<a href="../Page/Country_Girls.md" title="wikilink">Country Girls</a>。　</p></td>
+<td><p>從Country Girls移籍，兼任<a href="../Page/Country_Girls.md" title="wikilink">Country Girls</a><br />
+2020年3月畢業預定。　</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/川村文乃" title="wikilink">川村文乃</a></p></td>
@@ -480,7 +481,9 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 ### 2019
 
   - 5月25日，於「ANGERME Concert Tour 春 \~輪迴轉生\~」千葉午場公演宣布在[和田彩花](../Page/和田彩花.md "wikilink")畢業後由二期成員[竹內朱莉擔任隊長](https://zh.wikipedia.org/wiki/竹內朱莉 "wikilink")。另外，由同樣也是二期成員的[中西香菜](../Page/中西香菜.md "wikilink")續任副隊長及六期成員[川村文乃擔任新副隊長](https://zh.wikipedia.org/wiki/川村文乃 "wikilink")。
-  - 6月26日，二期成員[勝田里奈於Hello](https://zh.wikipedia.org/wiki/勝田里奈 "wikilink")\!Project官方網頁中發表，以因「希望從事時妝有關的工作」為由，於同年9月25日在パシフィコ横浜で的演唱會中,從Angerme和Hello\!Project畢業。畢業後的演藝活動仍是未定。
+  - 6月26日，二期成員[勝田里奈於Hello](https://zh.wikipedia.org/wiki/勝田里奈 "wikilink")\!Project官方網頁中發表，以因「希望從事時裝有關的工作」為由，於同年9月25日在パシフィコ横浜で的演唱會中,從ANGERME和Hello\!Project畢業。畢業後將以自己喜歡且感興趣的「時尚」做為主要演藝活動。
+  - 9月30日，於[早安家族](../Page/早安家族.md "wikilink")官方網站上公布，二期成員[中西香菜](../Page/中西香菜.md "wikilink")將在12月10日於豊洲PIT的演唱會後，從ANGERME以及早安家族畢業。畢業後也將從藝能界引退。
+  - 10月18日，於早安家族官方網站上宣布，六期成員[船木結](../Page/船木結.md "wikilink")將於2020年3月從ANGERME以及早安家族畢業。畢業後會先暫停所有藝能活動。
 
 ## 作品
 
@@ -826,13 +829,23 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 <td><p>26th</p></td>
 <td><p>2019年4月10日</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戀愛是Accha_Accha_/_夢到了15年" title="wikilink">戀愛是Accha Accha / 夢到了15年</a></p></td>
 <td><p>2</p></td>
 <td><p>51,698</p></td>
-<td><p>一期成員<a href="../Page/和田彩花.md" title="wikilink">和田彩花</a>的畢業單曲、第七張2A單曲、第七期成員<a href="https://zh.wikipedia.org/wiki/太田遙香" title="wikilink">太田遙香</a>、<a href="https://zh.wikipedia.org/wiki/伊勢鈴蘭" title="wikilink">伊勢鈴蘭加入後第一張單曲</a>。</p></td>
+<td><p>一期成員<a href="../Page/和田彩花.md" title="wikilink">和田彩花</a>的畢業單曲、二期成員<a href="https://zh.wikipedia.org/wiki/勝田里奈" title="wikilink">勝田里奈最後一張單曲</a>、第七張2A單曲、第七期成員<a href="https://zh.wikipedia.org/wiki/太田遙香" title="wikilink">太田遙香</a>、<a href="https://zh.wikipedia.org/wiki/伊勢鈴蘭" title="wikilink">伊勢鈴蘭加入後第一張單曲</a>。</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>27th</p></td>
+<td><p>2019年11月20日</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我創造了我_/_根本無法起床的SUNDAY" title="wikilink">我創造了我 / 根本無法起床的SUNDAY</a></p></td>
+<td><p>1</p></td>
+<td><p>71,457+</p></td>
+<td><p>二期成員<a href="../Page/中西香菜.md" title="wikilink">中西香菜</a>的畢業單曲、第八張2A單曲、第八期成員<a href="https://zh.wikipedia.org/wiki/橋迫鈴" title="wikilink">橋迫鈴加入後第一張單曲</a>。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -847,14 +860,14 @@ S/mileage時期代表色為<font color = #0f2f9e>藍色</font>。</p></td>
 
 #### 單曲在[Oricon](../Page/Oricon.md "wikilink")成績統計
 
-  - 最高銷量單曲：[接連不斷 / 糸島Distance / 戀愛已經開始](https://zh.wikipedia.org/wiki/接連不斷_/_糸島Distance_/_戀愛已經開始 "wikilink")，賣出 56,865張
+  - 最高銷量單曲：[我創造了我 / 根本無法起床的SUNDAY](https://zh.wikipedia.org/wiki/我創造了我_/_根本無法起床的SUNDAY "wikilink")，賣出 71,457張
   - 最高銷量排名單曲：[神秘的夜晚\! / 十八歲的情感](https://zh.wikipedia.org/wiki/神秘的夜晚!_/_十八歲的情感 "wikilink")、[大器晩成 / 少女的逆襲](https://zh.wikipedia.org/wiki/大器晩成_/_少女的逆襲 "wikilink")、[七轉八起 / 臥薪嘗膽 / 魔法使莎莉](https://zh.wikipedia.org/wiki/七轉八起_/_臥薪嘗膽_/_魔法使莎莉 "wikilink")、[高人一等就不會被打壓 / 逆轉勝 / 我](https://zh.wikipedia.org/wiki/高人一等就不會被打壓_/_逆轉勝_/_我 "wikilink")、[接連不斷 / 糸島Distance / 戀愛已經開始](https://zh.wikipedia.org/wiki/接連不斷_/_糸島Distance_/_戀愛已經開始 "wikilink")，皆第2位
   - 最低銷量單曲：[噓聲的愛 Buu\!](../Page/噓聲的愛_Buu!.md "wikilink")，賣出20,954張
   - 最低銷量排名單曲：[喜歡喔、純情反抗期。](../Page/喜歡喔、純情反抗期。.md "wikilink")，第7位
-  - 銷量創新高的單曲：[以相同時薪工作著朋友的美人媽媽](../Page/以相同時薪工作著朋友的美人媽媽.md "wikilink")、[有頂天LOVE](../Page/有頂天LOVE.md "wikilink")、[Please Miniskirt Postwoman\!](../Page/Please_Miniskirt_Postwoman!.md "wikilink")、[明白嗎\!? / 「好男人」](https://zh.wikipedia.org/wiki/明白嗎!?_/_「好男人」 "wikilink")、[大器晩成 / 少女的逆襲](https://zh.wikipedia.org/wiki/大器晩成_/_少女的逆襲 "wikilink")、[接連不斷 / 糸島Distance / 戀愛已經開始](https://zh.wikipedia.org/wiki/接連不斷_/_糸島Distance_/_戀愛已經開始 "wikilink")，共六首
-  - 銷量創新低的單曲：[短髮](https://zh.wikipedia.org/wiki/短髮 "wikilink")、[噓聲的愛 Buu\!](../Page/噓聲的愛_Buu!.md "wikilink")，共兩首
-  - 週間第一位的單曲：/
-  - 日間第一位的單曲：[啟程出發的春天來了](../Page/啟程出發的春天來了.md "wikilink")、[大器晩成 / 少女的逆襲](https://zh.wikipedia.org/wiki/大器晩成_/_少女的逆襲 "wikilink")、[高人一等就不會被打壓 / 逆轉勝 / 我](https://zh.wikipedia.org/wiki/高人一等就不會被打壓_/_逆轉勝_/_我 "wikilink")
+  - 銷量創新高的單曲：[以相同時薪工作著朋友的美人媽媽](../Page/以相同時薪工作著朋友的美人媽媽.md "wikilink")、[有頂天LOVE](../Page/有頂天LOVE.md "wikilink")、[Please Miniskirt Postwoman\!](../Page/Please_Miniskirt_Postwoman!.md "wikilink")、[明白嗎\!? / 「好男人」](https://zh.wikipedia.org/wiki/明白嗎!?_/_「好男人」 "wikilink")、[大器晩成 / 少女的逆襲](https://zh.wikipedia.org/wiki/大器晩成_/_少女的逆襲 "wikilink")、[接連不斷 / 糸島Distance / 戀愛已經開始](https://zh.wikipedia.org/wiki/接連不斷_/_糸島Distance_/_戀愛已經開始 "wikilink")、[我創造了我 / 根本無法起床的SUNDAY](https://zh.wikipedia.org/wiki/我創造了我_/_根本無法起床的SUNDAY "wikilink")，共七首
+  - 銷量創新低的單曲：[短髮](https://zh.wikipedia.org/wiki/短髮 "wikilink")、[噓聲的愛 Buu\!](../Page/噓聲的愛_Buu!.md "wikilink")，共兩首。
+  - 週間第一位的單曲：27th。
+  - 日間第一位的單曲：[啟程出發的春天來了](../Page/啟程出發的春天來了.md "wikilink")、[大器晩成 / 少女的逆襲](https://zh.wikipedia.org/wiki/大器晩成_/_少女的逆襲 "wikilink")、[高人一等就不會被打壓 / 逆轉勝 / 我](https://zh.wikipedia.org/wiki/高人一等就不會被打壓_/_逆轉勝_/_我 "wikilink")、[我創造了我 / 根本無法起床的SUNDAY](https://zh.wikipedia.org/wiki/我創造了我_/_根本無法起床的SUNDAY "wikilink")
   - 所有單曲均在Oricon週間銷量排名7位或以上。
 
 ### 專輯

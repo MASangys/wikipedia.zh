@@ -2,7 +2,7 @@
 
 JR-Maglev在[愛知世博會上向公眾展示](https://zh.wikipedia.org/wiki/愛知世博會 "wikilink")“超導磁浮列車館”。該車MLX01重量約為30[噸](https://zh.wikipedia.org/wiki/噸 "wikilink")，由[三菱重工生產](https://zh.wikipedia.org/wiki/三菱重工 "wikilink")。車輛兩側配有由4個超導線圈組成的超導裝置。這種由[鈮](https://zh.wikipedia.org/wiki/鈮 "wikilink")[鈦](https://zh.wikipedia.org/wiki/鈦 "wikilink")（NbTi）線材製成的超導裝置在[液態氦和](https://zh.wikipedia.org/wiki/液態氦 "wikilink")[液態氮中冷卻至](https://zh.wikipedia.org/wiki/液態氮 "wikilink")-269[℃](https://zh.wikipedia.org/wiki/℃ "wikilink")。
 
-該展館還展出由[鉍線材製成新型](https://zh.wikipedia.org/wiki/鉍 "wikilink")[高溫超導](../Page/高溫超導.md "wikilink")線圈，在-253℃下就能達到[超導狀態](https://zh.wikipedia.org/wiki/超導 "wikilink")。因為其超導狀態所需溫度較高，可以直接冷凍設備冷卻，毋須使用較昂貴的液態氦系統，因此有望降低[成本](../Page/成本.md "wikilink")，並通過簡化結構提高產品可靠性。該線圈的電流衰減率每天僅為0.5%左右，損耗非常低。此外，館內還利用超導線圈進行了現場演示。
+該展館還展出由[鉍線材製成新型](https://zh.wikipedia.org/wiki/鉍 "wikilink")[超導線圈](https://zh.wikipedia.org/wiki/超導 "wikilink")，在-253℃下就能達到[超導狀態](https://zh.wikipedia.org/wiki/超導 "wikilink")。因為其超導狀態所需溫度較高，可以直接冷凍設備冷卻，毋須使用較昂貴的液態氦系統，因此有望降低[成本](../Page/成本.md "wikilink")，並通過簡化結構提高產品可靠性。該線圈的電流衰減率每天僅為0.5%左右，損耗非常低。此外，館內還利用超導線圈進行了現場演示。
 
 ## 載具型號發展
 

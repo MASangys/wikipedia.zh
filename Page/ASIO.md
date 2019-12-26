@@ -24,7 +24,7 @@ ASIO 1.0的後繼規格。最大的不同點為，支援輸入訊號在合適的
 
 ## 開發
 
-Steinberg提供免費的[SDK](https://zh.wikipedia.org/wiki/SDK "wikilink")。
+Steinberg提供免費的[SDK](https://zh.wikipedia.org/wiki/SDK "wikilink")，包含用於開發宿主和驅動程序的原始碼。但根據其授權許可協議的限制，用戶不能對原始碼進行二次分發。
 
 ## 於音樂播放的應用
 
@@ -44,6 +44,7 @@ Steinberg提供免費的[SDK](https://zh.wikipedia.org/wiki/SDK "wikilink")。
 
 ## 外部連結
 
-  - [ASIO SDK](http://www.steinberg.de/329+M52087573ab0.html) - Steinberg免費SDK發布申請網頁。
+  - [Steinberg Developers](https://www.steinberg.net/en/company/developers.html) - Steinberg免費SDK發布網頁，可直接下載到ASIO、VST等SDK的原始碼與授權協議。
+  - [ASIO SDK](https://www.steinberg.net/asiosdk) - Steinberg ASIO SDK直接下載鏈接。
 
 [Category:聲音技術](https://zh.wikipedia.org/wiki/Category:聲音技術 "wikilink")

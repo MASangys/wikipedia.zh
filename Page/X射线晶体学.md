@@ -156,21 +156,12 @@ Patterson法：
 [Category:X射线晶体学](https://zh.wikipedia.org/wiki/Category:X射线晶体学 "wikilink") [Category:晶体学](https://zh.wikipedia.org/wiki/Category:晶体学 "wikilink") [Category:繞射](https://zh.wikipedia.org/wiki/Category:繞射 "wikilink") [Category:X射线](https://zh.wikipedia.org/wiki/Category:X射线 "wikilink") [Category:蛋白質結構](https://zh.wikipedia.org/wiki/Category:蛋白質結構 "wikilink") [Category:蛋白质方法](https://zh.wikipedia.org/wiki/Category:蛋白质方法 "wikilink") [Category:同步加速器相关技术](https://zh.wikipedia.org/wiki/Category:同步加速器相关技术 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.

@@ -9,7 +9,7 @@ TACACS在RFC 1492中定义，默认使用[TCP或](https://zh.wikipedia.org/wiki/
 软件实现：
 
   - [TACACS+](http://www.shrubbery.net/tac_plus/)
-  - [tac_plus](http://www.networkforums.net/)
+  - [tac_plus](https://web.archive.org/web/20061004062254/http://networkforums.net/)
   - [DialWays 3.0](http://www.mastersoft-usa.com/products/dialways_std.asp)
   - [TacacsPlus](https://web.archive.org/web/20090106145514/http://rubyforge.org/projects/tacacs-plus/)
 

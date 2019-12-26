@@ -4,21 +4,26 @@
 
 ## 作品
 
-  - *Whose Body?* (1923)
-  - *Clouds of Witness* (1926)
-  - *Unnatural Death* (1927)
-  - *The Unpleasantness at the Bellona Club* (1928)
-  - *Lord Peter Views the Body* (1928) (12 short stories)
-  - *Strong Poison* (1930)
-  - *The Five Red Herrings* (1931)
-  - *Have His Carcase* (1932)
-  - *Hangman's Holiday* (1933) (12 short stories, 4 including Lord Peter)
-  - *Murder Must Advertise* (1933)
-  - *The Nine Tailors* (1934)
-  - *Gaudy Night* (1935)
-  - *The Silent Passenger* (1935) a film based on the novel
-  - *Busman's Honeymoon* (1937)
-  - *In the Teeth of the Evidence*
+  - 《誰的屍體》*Whose Body?* (1923)
+  - 《證言疑雲》*Clouds of Witness* (1926)
+  - 《非自然死亡》/《非常死亡》 *Unnatural Death* (1927)
+      -   - 繁體中文版：1998年11月 遠流,ISBN 9573236230
+  - 《貝羅那俱樂部的不快事件》 *The Unpleasantness at the Bellona Club* (1928)
+  - 《彼得爵爺查看屍體》 *Lord Peter Views the Body* (1928) (12篇短篇集)
+  - 《強力毒藥》 *Strong Poison* (1930)
+      - 繁體中文版：2006年1月 臉譜,ISBN 9867335899
+  - 《五條紅鯡魚》 *The Five Red Herrings* (1931)
+  - 《失衡的時間》/《尋屍》*Have His Carcase* (1932)
+  - 《絞刑官的假日》 *Hangman's Holiday* (1933) (12篇短篇集,4篇關於彼得爵爺)
+  - 《謀殺也得做廣告》/《殺人廣告》 *Murder Must Advertise* (1933)
+      - 繁體中文版：1997年9月 遠流,ISBN 9789573232391
+  - 《九曲喪鐘》/《喪鍾九鳴》 *The Nine Tailors* (1934)
+      - 繁體中文版：2006年8月 臉譜,ISBN 9867058305
+  - 《俗麗之夜》 *Gaudy Night* (1935)
+  - 《沉默的乘客》 *The Silent Passenger* (1935) a film based on the novel
+  - 《巴士司機的蜜月》 *Busman's Honeymoon* (1937)
+  - 《以齒為證》*In the Teeth of the Evidence*
+  - *Striding Folly* （1972）(短篇集,)
 
 ## 外部連結
 

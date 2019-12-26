@@ -176,36 +176,20 @@ Chocoolate The ONE分店職員昨回應指，昨晚會暫停亮燈，有待了�
 [Category:尖沙咀](https://zh.wikipedia.org/wiki/Category:尖沙咀 "wikilink") [Category:彌敦道](https://zh.wikipedia.org/wiki/Category:彌敦道 "wikilink") [Category:油尖旺區](https://zh.wikipedia.org/wiki/Category:油尖旺區 "wikilink") [Category:油尖旺區商場](https://zh.wikipedia.org/wiki/Category:油尖旺區商場 "wikilink") [Category:2010年完工建築物](https://zh.wikipedia.org/wiki/Category:2010年完工建築物 "wikilink") [Category:華人置業物業](https://zh.wikipedia.org/wiki/Category:華人置業物業 "wikilink") [Category:幻彩詠香江](https://zh.wikipedia.org/wiki/Category:幻彩詠香江 "wikilink")
 
 1.  [尖沙咀The ONE意向呎租50元起](http://www.singtao.com/yesterday/pro/0617ho01.html)，[星島日報](../Page/星島日報.md "wikilink")，2009年6月17日
-
 2.  亞洲電視《我要做特首》2011年4月1日晚
-
 3.  [大劉 The ONE商廈 賀嘉欣生日](http://hk.apple.nextmedia.com/realtime/art_main.php?iss_id=20090617&sec_id=7018882&art_id=12886604)，[蘋果日報](../Page/蘋果日報_\(香港\).md "wikilink")，2009年6月17日
-
 4.
-
 5.  [全新尖沙咀會所7月15日正式開幕](http://www.californiafitness.com/hk/zh/clubs/tsim-sha-tsui-zh.html) ，[California Fitness](../Page/加州健身.md "wikilink")，2010年7月
-
 6.  [尖沙咀全新矚目地標 彌敦道100號正式命名為The ONE 演繹獨一無二的消閒新體驗](http://www.the-one.hk/UserFiles/press/PressReleaseTChi-20090616.pdf)  華人置業集團新聞稿，2009年6月16日
-
 7.  忽然一周：直擊The One萬呎私竇大劉搞親子嘉年華（2010年10月22日）
-
 8.  明報：華置The ONE 出租率近九成半 2010（2010年10月30日）
-
 9.  [Executive日記—大劉放售「舖王」 The ONE值150億 (2012年7月17日)](http://news.hkheadline.com/dailynews/headline_news_detail_columnist.asp?id=198995&section_name=wtt&kw=0)
-
 10.
-
 11. 香港經濟日報：開燈至夜 The ONE遭投訴 2010-11-04
-
 12. \[<http://www.foe.org.hk/welcome/gettc.asp?id_path=1>, 7, 28, 151, 4572, 4624 光污染也有階級之分？- 朱漢強，星島日報，2011年2月21日\]
-
 13. 商場地鋪「燈場」被投訴 星島日報 2011-02-21
-
 14. [1](http://www.youtube.com/watch?v=wn_SVhgJBEo) Chocolate滋擾短片 - 朱漢強，2011年2月18日
-
 15.
 16. 劉鳴煒指揮保安 力拒社民連（香港經濟日報）2010年10月9日
-
 17. [YouTube：深夜突發 尖沙嘴THE ONE水浸頓成澤國](http://www.youtube.com/watch?v=u3sn7MtwW_0)
-
 18.

@@ -489,15 +489,9 @@ I'm Enterprise的政策與母公司ARTSVISION有些微分別，雖然主要仍�
 [Category:ARTSVISION集團](https://zh.wikipedia.org/wiki/Category:ARTSVISION集團 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:I'm_Enterprise](https://zh.wikipedia.org/wiki/Category:I'm_Enterprise "wikilink")
 
 1.
-
 2.  牽涉的聲優同好會：山本麻里安『』、中原麻衣『』、森久保祥太郎（VIMS）『Clap！』。至於2007年4月加入的田村由香里，其同好會「Mellow Pretty」在加入前都是獨立營運，因此不包括在內。
-
 3.  添田哲郎「」《》2007年12月號，第106－111頁。
-
 4.
-
 5.  2008年3月31日因所屬劇團不再繼續與I'm Enterprise的合作關係而離所，翌年4月1日重新加入。
-
 6.
-
 7.

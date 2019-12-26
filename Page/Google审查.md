@@ -48,8 +48,6 @@ YouTube曾屏蔽[Wael Abbas的帐户](https://zh.wikipedia.org/wiki/Wael_Abbas "
 
 2008年2月22日，[巴基斯坦](../Page/巴基斯坦.md "wikilink")电信公司依据政府的要求禁止本国网民访问YouTube。四日之后，当YouTube删除了[荷兰](../Page/荷兰.md "wikilink")政府官员关于伊斯兰的宗教争议性评论后\[22\]，巴基斯坦电信解除了YouTube的封锁\[23\] 。
 
-### 適合廣告用戶的內容
-
 ## 参考资料
 
 ## 外部链接
@@ -63,45 +61,25 @@ YouTube曾屏蔽[Wael Abbas的帐户](https://zh.wikipedia.org/wiki/Wael_Abbas "
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  Liedtke, Michael. "[Google Agrees to Censor Results in China](http://www.breitbart.com/news/2006/01/24/D8FBCF686.html) ." *[Breitbart.com](http://www.breitbart.com/).* 2006-01-24.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10. ["Race to the Bottom": Corporate Complicity in Chinese Internet Censorship: II. How Censorship Works in China: A Brief Overview](http://www.hrw.org/reports/2006/china0806/5.htm#_Toc142395827)
-
 11. [Amnesty International](http://web.amnesty.org/pages/internet-110506-action-eng)
-
 12.
-
 13. Fung, Amanda. "[Midtown protest targets Google's China site](http://www.newyorkbusiness.com/news.cms?id=12962)." *New York Business.* 2006-02-14.
-
 14. [NO LUV 4 Google Website](http://www.noluv4google.com/).
-
 15. Cohn, William A. (2 – Autumn/2007) *Yahoo's China Defense.* "The New Presence."
-
 16.
-
 17.
-
 18.
 19.
-
 20.
-
 21. [YouTube stops account of Egypt anti-torture activist](http://africa.reuters.com/wire/news/usnL27590430.html)
-
 22.
-
 23.

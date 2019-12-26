@@ -75,67 +75,39 @@ FreeType 2.0版于2000年发布，带来完全重写的代码以使之模块化�
 [Category:數碼字體排印](https://zh.wikipedia.org/wiki/Category:數碼字體排印 "wikilink") [Category:C函式庫](https://zh.wikipedia.org/wiki/Category:C函式庫 "wikilink") [Category:自由排版软件](https://zh.wikipedia.org/wiki/Category:自由排版软件 "wikilink") [Category:字体格式](https://zh.wikipedia.org/wiki/Category:字体格式 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
 12.
-
 13.
 14.
 15.
 16. [ft2faq](https://web.archive.org/web/20090718090712/http://www.cs.sunysb.edu/documentation/freetype-2.1.9/docs/ft2faq.html)
-
 17.
-
 18.
-
 19.
 20.
-
 21.
-
 22.
 23.
-
 24. [adobe-contributes-cff-rasterizer-to-freetype](http://blog.typekit.com/2013/05/01/adobe-contributes-cff-rasterizer-to-freetype/)
-
 25. [youve-got-cff](http://google-opensource.blogspot.de/2013/06/youve-got-cff.html)
-
 26.
-
 27.
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33. 遊戲公司[遺迹娛樂](../Page/遺迹娛樂.md "wikilink")在他們的遊戲Dawn of War及Company of Heroes當中使用FreeType，以其在載入屏幕方面視為可靠。
-
 34. FreeType也被用於《A Treehouse of My Own》及《Julie Saves The Eagles》之類的PC版遊戲。
-
 35. [Wii](../Page/Wii.md "wikilink")上的Opera 9控制台使用FreeType，可以通過能以下列途徑在Wii中搜尋到的Third-party information頁面找到：[Internet Channel](https://zh.wikipedia.org/wiki/Internet_Channel "wikilink") \> Operations Guide \> About \> Opera 9 for Wii — Third-party information
-
 36.
-
 37.

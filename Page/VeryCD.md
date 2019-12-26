@@ -99,93 +99,54 @@ VeryCD上一些未合法获得版权的资源链接曾经多次引来诉讼，�
 [Category:中國網站](https://zh.wikipedia.org/wiki/Category:中國網站 "wikilink") [Category:EDonkey网络](https://zh.wikipedia.org/wiki/Category:EDonkey网络 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  bbs.verycd.com
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.  verycd.com/groups/
-
 10.
 11.
-
 12.
-
 13.
-
 14. <http://twitter.com/DashHuang/status/2015685640>
-
 15. 见该文评论
-
 16.
-
 17. <http://twitter.com/DashHuang/status/6490460525>
-
 18.
-
 19.
 20.
-
 21.
-
 22.
-
 23.
 24.
 25.
-
 26.
-
 27.
 28.
-
 29. [VeryCD社区经验手册](http://home.verycd.com/space.php?uid=8973111&do=thread&id=376427)
-
 30.
-
 31.
-
 32.
 33.
-
 34.
-
 35.
 36.
-
 37.
 38.
-
 39.
-
 40.
-
 41.
-
 42.
 43.
-
 44.
-
 45.
-
 46.
-
 47.
 48.
-
 49.
-
 50.
-
 51.
 52.

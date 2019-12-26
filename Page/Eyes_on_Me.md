@@ -23,31 +23,18 @@
 [Category:1999年單曲](https://zh.wikipedia.org/wiki/Category:1999年單曲 "wikilink") [Category:王菲歌曲](https://zh.wikipedia.org/wiki/Category:王菲歌曲 "wikilink") [Category:EMI日本歌曲](https://zh.wikipedia.org/wiki/Category:EMI日本歌曲 "wikilink") [Category:最终幻想的音乐](https://zh.wikipedia.org/wiki/Category:最终幻想的音乐 "wikilink") [Category:遊戲主題曲](https://zh.wikipedia.org/wiki/Category:遊戲主題曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.  Maeda, Yoshitake (1999). Final Fantasy VIII Original Soundtrack (Limited Edition). [DigiCube](../Page/DigiCube.md "wikilink").
-
 8.
-
 9.  2001年2月16日《寓言》日文版中的王菲介紹頁：「」
-
 10.
 11.
-
 12. 2001年2月16日《寓言》日文版中的王菲介紹頁：「」
-
 13.
-
 14. 2001年2月16日《寓言》日文版中的王菲介紹頁：「」
-
 15.
-
 16.

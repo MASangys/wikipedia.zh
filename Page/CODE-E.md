@@ -365,7 +365,7 @@
 
 <!-- end list -->
 
-  - [avex 的介紹](http://avexmovie.jp/lineup/code-e/)
+  - [avex 的介紹](https://web.archive.org/web/20070830224145/http://avexmovie.jp/lineup/code-e/)
 
   - [Studio DEEN 的介紹](https://web.archive.org/web/20080913181721/http://deen.co.jp/works/codee/)
 
@@ -377,6 +377,6 @@
 
 <!-- end list -->
 
-  - [avex 的介紹](http://avexmovie.jp/lineup/mission-e/)
+  - [avex 的介紹](https://web.archive.org/web/20080501024741/http://avexmovie.jp/lineup/mission-e/)
 
 [Category:Gagaga文庫](https://zh.wikipedia.org/wiki/Category:Gagaga文庫 "wikilink") [Category:2007年UHF動畫](https://zh.wikipedia.org/wiki/Category:2007年UHF動畫 "wikilink") [Category:2008年UHF動畫](https://zh.wikipedia.org/wiki/Category:2008年UHF動畫 "wikilink") [Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:名古屋電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:名古屋電視台深夜動畫 "wikilink") [Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink") [Category:吉祥寺_(武藏野市)背景作品](https://zh.wikipedia.org/wiki/Category:吉祥寺_\(武藏野市\)背景作品 "wikilink") [Category:超能力題材動畫](https://zh.wikipedia.org/wiki/Category:超能力題材動畫 "wikilink") [Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")

@@ -72,7 +72,7 @@ Pacman也被移植到[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
 
 ### 更新
 
-在终端机中输入：
+在終端機中输入：
 
   - pacman -U <package>
 

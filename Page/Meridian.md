@@ -35,7 +35,7 @@
   - [樂評︰這是黎明眼中楊千嬅的高峰？](http://3cmusic.com/home/?p=729)
   - [MOOV Live](http://moov.netvigator.com/music/static/moovlive/aftershow_miriam.jsp)
   - [新浪網唱片介紹](https://web.archive.org/web/20070820184004/http://music.sina.com.hk/mu/supplement07/miriam/)
-  - [電子明週評論](http://www.mingpaoweekly.com/htm/2024/da02.htm)
+  - [電子明週評論](https://web.archive.org/web/20071031050546/http://www.mingpaoweekly.com/htm/2024/da02.htm)
   - [騰迅音樂評論](http://ent.qq.com/a/20070824/000076.htm)
   - [TOM.com音樂評論](https://web.archive.org/web/20081007010214/http://music.ent.tom.com/2007-08-28/002F/12206884.html)
   - [南方都市報評論](http://www.nanfangdaily.com.cn/southnews/dd/dsb/B10/200708250230.asp)

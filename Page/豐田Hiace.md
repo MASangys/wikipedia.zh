@@ -6,6 +6,9 @@
   - 引擎規格：[直列式4氣缸](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")[柴油引擎](../Page/柴油引擎.md "wikilink")或者[汽油引擎](../Page/汽油引擎.md "wikilink")
   - 變速箱：5前速[自動排檔](https://zh.wikipedia.org/wiki/自動排檔 "wikilink")（於2004年起提供4前速自動排檔予顧客選擇）
   - 最高載重量：約2.8噸
+  - 2019年提供6前速自動排檔予顧客選擇
+
+最高載重量：約3.3噸
 
 ## 歷史
 

@@ -90,7 +90,7 @@ Sea Gripen: 準備研發的航空母艦起降型號，銷售對象為[英國皇�
 
 <!-- end list -->
 
-  - [塞爾維亞空防軍](https://zh.wikipedia.org/wiki/塞爾維亞空防軍 "wikilink")：塞爾維亞政府宣布有意從[F-16戰鬥機](https://zh.wikipedia.org/wiki/F-16戰鬥機 "wikilink")、[F-18戰鬥機](https://zh.wikipedia.org/wiki/F-18戰鬥機 "wikilink")、[疾風戰鬥機](https://zh.wikipedia.org/wiki/疾風戰鬥機 "wikilink")、[JAS 39戰鬥機](https://zh.wikipedia.org/wiki/JAS_39戰鬥機 "wikilink")、[颱風戰機](https://zh.wikipedia.org/wiki/颱風戰機 "wikilink")、[Su-30或](https://zh.wikipedia.org/wiki/Su-30 "wikilink")[MiG-29M中揀選一種並訂購](https://zh.wikipedia.org/wiki/MiG-29 "wikilink")12～16架戰機以替換老舊的[MiG-21和](https://zh.wikipedia.org/wiki/MiG-21 "wikilink")[MiG-29](https://zh.wikipedia.org/wiki/MiG-29 "wikilink")。\[6\]\[7\]
+  - [塞爾維亞空防軍](https://zh.wikipedia.org/wiki/塞爾維亞空防軍 "wikilink")：塞爾維亞政府宣布有意從[F-16戰鬥機](https://zh.wikipedia.org/wiki/F-16戰鬥機 "wikilink")、[F-18戰鬥機](https://zh.wikipedia.org/wiki/F-18戰鬥機 "wikilink")、[疾風戰鬥機](https://zh.wikipedia.org/wiki/疾風戰鬥機 "wikilink")、[JAS 39戰鬥機](https://zh.wikipedia.org/wiki/JAS_39戰鬥機 "wikilink")、[颱風戰機](https://zh.wikipedia.org/wiki/颱風戰機 "wikilink")、[Su-30或](https://zh.wikipedia.org/wiki/Su-30 "wikilink")[MiG-29M中揀選一種並訂購](https://zh.wikipedia.org/wiki/MiG-29M戰鬥機 "wikilink")12～16架戰機以替換老舊的[MiG-21和](https://zh.wikipedia.org/wiki/MiG-21 "wikilink")[MiG-29](https://zh.wikipedia.org/wiki/MiG-29 "wikilink")。\[6\]\[7\]
 
 ## 國際任務
 

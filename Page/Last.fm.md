@@ -51,12 +51,8 @@ Audioscrobbler與Last.fm的工作團隊逐漸合作，並共同搬至位在[倫�
 [Category:虛擬社群](https://zh.wikipedia.org/wiki/Category:虛擬社群 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:網絡電台](https://zh.wikipedia.org/wiki/Category:網絡電台 "wikilink") [Category:2002年英國建立](https://zh.wikipedia.org/wiki/Category:2002年英國建立 "wikilink")
 
 1.
-
 2.  <http://www.last.fm/announcements/radio2013> Radio changes to Last.fm from Tuesday 15 January 2013
-
 3.
-
 4.
-
 5.
 6.  <http://www.last.fm/announcements/radio2013> Radio changes to Last.fm from Tuesday 15 January 2013

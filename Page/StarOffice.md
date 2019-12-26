@@ -106,15 +106,9 @@ Oracle于2010年1月收购Sun，不久将StarOffice更名为Oracle Open Office�
 [Category:办公室自动化软件](https://zh.wikipedia.org/wiki/Category:办公室自动化软件 "wikilink") [Category:OpenOffice.org](https://zh.wikipedia.org/wiki/Category:OpenOffice.org "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.

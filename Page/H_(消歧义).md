@@ -55,9 +55,7 @@
   - [单倍群 H](https://zh.wikipedia.org/wiki/单倍群_H "wikilink")
   - [Н](../Page/Н.md "wikilink")，一个[西里尔字母](../Page/西里尔字母.md "wikilink")
   - [Η](https://zh.wikipedia.org/wiki/Η "wikilink")，一個希臘字母
-  - 铁路线路：
-      - [H (S-train)](https://zh.wikipedia.org/wiki/H_\(S-train\) "wikilink")，[丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink")[哥本哈根的一条](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")[区域铁路线路](https://zh.wikipedia.org/wiki/区域铁路 "wikilink")
-      - H，一条[紐約地鐵洛克威公園接駁線](https://zh.wikipedia.org/wiki/紐約地鐵洛克威公園接駁線 "wikilink")
+  - 多个国家的交通路线[H线](https://zh.wikipedia.org/wiki/H线 "wikilink")
   - H，[日立公司移动电话](https://zh.wikipedia.org/wiki/日立 "wikilink")
   - [桥牌的叫牌过程中](https://zh.wikipedia.org/wiki/桥牌 "wikilink")，H表示[红心](https://zh.wikipedia.org/wiki/红心 "wikilink")（Heart），如“2红心”记作“2H”
   - [H股](../Page/H股.md "wikilink")，[中国股市中](https://zh.wikipedia.org/wiki/中国股市 "wikilink")“[恒生中国企业指数](https://zh.wikipedia.org/wiki/恒生中国企业指数 "wikilink")”的代称

@@ -28,7 +28,7 @@ Y染色體亞當在[人類](../Page/人類.md "wikilink")传说中的亞當並�
   -
 ## 外部連結
 
-  - [Mitochondrial Eve and Y-chromosomal Adam Diagrams](http://www.chartsgraphsdiagrams.com/evolution/mitochondrial-eve.html)
+  - [Mitochondrial Eve and Y-chromosomal Adam Diagrams](https://web.archive.org/web/20140921071442/http://www.chartsgraphsdiagrams.com/evolution/mitochondrial-eve.html)
   - [Y-Chromosome Biallelic Haplogroups](http://www.roperld.com/YBiallelicHaplogroups.htm)
 
 {{-}}

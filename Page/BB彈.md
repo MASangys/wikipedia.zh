@@ -52,5 +52,4 @@ BB弹还有个著名的传说，说明“BB弹”的称呼一部分还是来自�
 [Category:弹药](https://zh.wikipedia.org/wiki/Category:弹药 "wikilink")
 
 1.
-
 2.

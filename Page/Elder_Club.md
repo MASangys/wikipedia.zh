@@ -74,7 +74,7 @@
 
 ## 外部連結
 
-  - [早安家族台灣私設FC族譜](http://wiki.helloproject.tw/%E3%82%A8%E3%83%AB%E3%83%80%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96)
+  - [早安家族台灣私設FC族譜](https://web.archive.org/web/20081023012419/http://wiki.helloproject.tw/%E3%82%A8%E3%83%AB%E3%83%80%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%96)
   - [Hatena Keyword](http://d.hatena.ne.jp/keyword/%A5%A8%A5%EB%A5%C0%A1%BC%A5%AF%A5%E9%A5%D6)
 
 [Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink")

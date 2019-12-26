@@ -3,7 +3,7 @@
 ## 成员
 
   - 北川勝利（きたがわかつとし 10月18日）
-      - [贝斯](https://zh.wikipedia.org/wiki/贝斯 "wikilink")・[吉他](../Page/吉他.md "wikilink")・[歌手](../Page/歌手.md "wikilink")・[和声](https://zh.wikipedia.org/wiki/和声 "wikilink")・[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")・[作曲担当](https://zh.wikipedia.org/wiki/作曲 "wikilink")
+      - [贝斯](https://zh.wikipedia.org/wiki/贝斯 "wikilink")・[吉他](../Page/吉他.md "wikilink")・[歌手](../Page/歌手.md "wikilink")・[和声](../Page/和声.md "wikilink")・[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")・[作曲担当](https://zh.wikipedia.org/wiki/作曲 "wikilink")
   - 伊藤利恵子（いとうりえこ 8月4日）
       - [键盘](https://zh.wikipedia.org/wiki/键盘 "wikilink")・歌手・和声・作詞・作曲担当
   - Nino（にの 4月4日－O型）

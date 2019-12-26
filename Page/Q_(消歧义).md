@@ -123,14 +123,14 @@
 
   - [Q文档](https://zh.wikipedia.org/wiki/Q文档 "wikilink")
 
-  - [紐約地鐵Q線](../Page/紐約地鐵Q線.md "wikilink")
+  - 交通路線[Q線](https://zh.wikipedia.org/wiki/Q線 "wikilink")
 
   - Q，[阿布奎基 (新墨西哥州)的官方昵称](../Page/阿布奎基_\(新墨西哥州\).md "wikilink")
 
   - Q，[国际象棋和](https://zh.wikipedia.org/wiki/国际象棋 "wikilink")[扑克中指](https://zh.wikipedia.org/wiki/扑克 "wikilink")[女王](../Page/女王.md "wikilink")（Queen）
 
-<!-- end list -->
-
   - [季度](https://zh.wikipedia.org/wiki/季度 "wikilink")，如[Q1](../Page/Q1.md "wikilink")指一季度
+
   - 在台灣以台語發音**Q**表示食物的口感有彈性。[臺灣閩南語推薦用字使用](https://zh.wikipedia.org/wiki/臺灣閩南語推薦用字 "wikilink")**[𩚨](https://zh.wikipedia.org/wiki/:wikt:𩚨 "wikilink")**為正字。
+
   - [Q版有时作为形容词](https://zh.wikipedia.org/wiki/Q版 "wikilink")，如“很Q”，形容可爱或感官上让人感觉很有嚼头，亦有说源于英语单词Cute的说法（与Q发音相似）

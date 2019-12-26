@@ -17,7 +17,7 @@ kiki， 一个理智的纳米机器人来到一个到处都是发傻纳米机器
 
 ## 得奖
 
-赢得了 'Best Graphics', 'Best Originality' 和 'Best Overall Game' [uDevGame Game Programming Contest](http://www.idevgames.com/) 2002 \[4\]\[5\]。
+赢得了 'Best Graphics', 'Best Originality' 和 'Best Overall Game' [uDevGame Game Programming Contest](https://web.archive.org/web/20090106042129/http://idevgames.com/) 2002 \[4\]\[5\]。
 
 ## 其他
 

@@ -57,7 +57,7 @@ N系列的第一部手机N90，使用旧款的[Symbian](https://zh.wikipedia.org
 ## 外部链接
 
   - [Nokia Nseries](https://web.archive.org/web/20080517082145/http://nseries.com/)
-  - [Nokia Royal Artist Club](http://www.royalartistclub.com)
+  - [Nokia Royal Artist Club](https://web.archive.org/web/20071012085036/http://www.royalartistclub.com/)
 
 ## 参见條目
 

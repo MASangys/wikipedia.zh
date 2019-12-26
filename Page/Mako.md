@@ -144,7 +144,7 @@
 
 ## 外部链接
 
-  - [アイムエンタープライズ公式ホームページ Talent Profile](http://www.imenterprise.jp/data.php?id=100) - 官方档案
+  - [アイムエンタープライズ公式ホームページ Talent Profile](https://web.archive.org/web/20181207235415/http://www.imenterprise.jp/data.php?id=100) - 官方档案
   - [MAKO Official Blog Honey Dairy](https://web.archive.org/web/20131023103848/http://ameblo.jp/makochannano/) - 官方部落格
 
 ## 参考资料

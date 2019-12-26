@@ -18,7 +18,13 @@
 
 ### 日本以外的人氣
 
-#### 香港
+#### 中國
+
+##### 大陸地區
+
+2002年4月，專門為[三得利](../Page/三得利.md "wikilink")[烏龍茶創作的](https://zh.wikipedia.org/wiki/烏龍茶 "wikilink")《風潮current》廣告曲在[上海地區播放](https://zh.wikipedia.org/wiki/上海 "wikilink")，特別收錄了《風潮current》的中國版專輯《trip trip》也在大陸限量發行。[2016年](../Page/2016年.md "wikilink")至[2019年](../Page/2019年.md "wikilink")，連續四年在上海舉辦演唱會；同時，[2017年](../Page/2017年.md "wikilink")和[2018年](../Page/2018年.md "wikilink")連續兩年在[廣州舉辦演唱會](https://zh.wikipedia.org/wiki/廣州 "wikilink")。
+
+##### 香港地區
 
 1999年，專輯《songbird》在[香港](../Page/香港.md "wikilink")發售，其中收錄的第三張單曲《》在同年的[香港國際流行音樂大獎中獲得了第三名的成績](https://zh.wikipedia.org/wiki/香港國際流行音樂大獎 "wikilink")，並被[鄭秀文](../Page/鄭秀文.md "wikilink")用[粵語翻唱為](https://zh.wikipedia.org/wiki/粵語 "wikilink")《Arigatou》並獲得第一名。同時，專輯收錄曲《》被港劇《[妙手仁心](../Page/妙手仁心.md "wikilink")》选为插曲，又因為为[化妝品](../Page/化妝品.md "wikilink")《[Fancl無添加](https://zh.wikipedia.org/wiki/Fancl "wikilink")》的广告歌而在香港廣為人知。2001年，第五張單曲《Say Hi！！》作為化妝品[資生堂](../Page/資生堂.md "wikilink")的廣告歌，在日本以外的[亞洲地區播放](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。同年年末，在香港的除夕四大倒計時活動中演出。包括上述在香港的成功，KOKIA確立了自己在亞洲範圍內的風靡。
 
@@ -26,11 +32,7 @@
 
 2003年，[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")《[海豚灣戀人](../Page/海豚灣戀人.md "wikilink")》將KOKIA首張專輯中的《I catch a cold》和《》用作該劇的靈魂插曲。該劇捧紅了[張韶涵](../Page/張韶涵.md "wikilink")的同時，借由劇集的收視效應擴大了KOKIA的知名度。2005年，在日本以外亞洲地域播出的[奧林巴斯](../Page/奧林巴斯.md "wikilink")[相機廣告](https://zh.wikipedia.org/wiki/數位相機 "wikilink")，亦採用了新作《This is your life》，引發了熱烈的討論。
 
-#### 中華人民共和國
-
-2002年4月，專門為[三得利](../Page/三得利.md "wikilink")[烏龍茶創作的](https://zh.wikipedia.org/wiki/烏龍茶 "wikilink")《風潮current》廣告曲在[中國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[上海地區播放](https://zh.wikipedia.org/wiki/上海 "wikilink")，特別收錄了《風潮current》的中國版專輯《trip trip》也在中國限量發行。
-
-#### 國際
+#### 歐美
 
 2002年，第二張專輯裡的《a gift》為[斯巴鲁汽車的廣告歌](https://zh.wikipedia.org/wiki/斯巴鲁汽車 "wikilink")，在[歐洲全境播放](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。
 
@@ -84,7 +86,7 @@
     3.  iしてる
     4.  so much love for you（Instrumental Version）
 11. 夢がチカラ（2004年6月23日推出）
-    1.  夢がチカラ（「[2004年夏季奥林匹克运动会](https://zh.wikipedia.org/wiki/2004年夏季奥林匹克运动会 "wikilink")」日本代表選手団公式応援ソング）
+    1.  夢がチカラ（「[2004年夏季奥林匹克运动会](../Page/2004年夏季奥林匹克运动会.md "wikilink")」日本代表選手団公式応援ソング）
     2.  人魚の夢
     3.  夢がチカラ（Instrumental Version）
 12. dandelion（2005年2月23日推出）

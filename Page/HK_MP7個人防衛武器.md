@@ -151,7 +151,7 @@ MP7採用4.6×30毫米是以早年的實驗性[HK36突擊步槍](../Page/HK36突
 
       - [英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[特種空勤團](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")
 
-      - [倫敦警察廳](../Page/倫敦警察廳.md "wikilink")[專業槍械司令部](../Page/專業槍械司令部.md "wikilink")（MP7SF）
+      - [倫敦都市警部](../Page/倫敦警察廳.md "wikilink")[特種槍械司令部](https://zh.wikipedia.org/wiki/特種槍械司令部 "wikilink")（MP7SF）
 
   -   - [美國海軍特種作戰開發組](../Page/美國海軍特種作戰開發組.md "wikilink")\[39\]\[40\]
       - [部份地方警察單位](../Page/美國警察.md "wikilink")\[41\]\[42\]\[43\]
@@ -205,10 +205,11 @@ Image:BundeswehrMP7.JPG|
   - 2013年—《[-{zh-hans:收获日; zh-hant:劫薪日;}-2](../Page/劫薪日2.md "wikilink")》：型號為MP7A2，命名為「Spec-Ops SMG」，預設使用20發彈匣供彈。
   - 2015年—《[-{zh-hans:彩虹六号：围攻; zh-hant:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》：型號為MP7A1，命名為「MP7」，使用40發彈匣卻只有30發，被[德國聯邦警察第九國境守備隊](../Page/德國聯邦警察第九國境守備隊.md "wikilink")（簡稱GSG9）所使用。
   - 2015年—《[-{zh-hans:战地：硬仗; zh-hant:戰地風雲：強硬路線;}-](../Page/战地：硬仗.md "wikilink")》：型號為MP7A1，命名為「MP7」，歸類為衝鋒槍，為資料片「劫案」新增武器，40+1發彈匣，被警匪雙方所有職階所使用，價格為$36,000。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro T1、SRS 02、[Comp M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍） 、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")）及槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）。
-  - 2016年—《[殺戮空間2](https://zh.wikipedia.org/wiki/殺戮空間2 "wikilink")》：型號為MP7A1，命名為「MP7 SMG」，使用40發彈匣但只有30發，裝有抑制器和C-More紅點鏡。
+  - 2016年—《[殺戮空間2](../Page/殺戮空間2.md "wikilink")》：型號為MP7A1，命名為「MP7 SMG」，使用40發彈匣但只有30發，裝有抑制器和C-More紅點鏡。
   - 2016年（台版2017年）—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：[擬人化角色](../Page/萌擬人化.md "wikilink")，配有T1瞄具及專用消音管，40發彈匣，首次登場為2018年「塌縮點」資料片。
   - 2016年—《》：登場型號為MP7A1及MP7A2。
   - 2018年—《[SCP秘密實驗室](https://zh.wikipedia.org/wiki/SCP秘密實驗室 "wikilink")》:開局為保安的主武器，還有一把在輕收容區被標為\[\#\#00\]的武器庫內。
+  - 2019年—《[-{zh-cn:使命召唤：现代战争; zh-tw:決勝時刻：現代戰爭; zh-hk:使命召喚：現代戰爭}-](https://zh.wikipedia.org/wiki/使命召唤：现代战争_\(2019年遊戲\) "wikilink")》：型號為MP7A2，命名為“MP7”，黑色槍身，可進行自定義改裝。
 
 ### 動畫
 
@@ -260,71 +261,45 @@ Image:BundeswehrMP7.JPG|
 
 1.
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.   Media Permata|last=Faizal|website=mediapermata.com.bn|access-date=2016-12-13|deadurl=yes|archiveurl=[https://web.archive.org/web/20161220103800/http://mediapermata.com.bn/terima-anugerah-warga-kehormat-rpk/|archivedate=2016-12-20](https://web.archive.org/web/20161220103800/http://mediapermata.com.bn/terima-anugerah-warga-kehormat-rpk/%7Carchivedate=2016-12-20)}}
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15. Gourley, S.; Kemp, I (November 26, 2003). "The Duellists". Jane's Defence Weekly (), Volume 40 Issue 21, pp 26–28.
-
 16.
 17.
-
 18.
 19.
-
 20.
-
 21.
 22.
-
 23.
-
 24.
 25.
-
 26.
-
 27.
 28. Jones, Richard D. *Jane's Infantry Weapons 2009/2010*. Jane's Information Group; 35 edition (January 27, 2009). ISBN 978-0-7106-2869-5.
-
 29.
-
 30.
 31.
 32.
 33.
 34.
-
 35.
-
 36.
 37.
 38.
-
 39.
 40.
-
 41.
 42.
-
 43.
-
 44.

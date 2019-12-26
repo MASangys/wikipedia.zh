@@ -34,16 +34,10 @@ rogue的馬力為170hp，2.5升[直四QR](https://zh.wikipedia.org/wiki/直列�
 [Category:2007年面世的汽車](https://zh.wikipedia.org/wiki/Category:2007年面世的汽車 "wikilink") [Category:日產車輛](https://zh.wikipedia.org/wiki/Category:日產車輛 "wikilink") [Category:运动型多用途车](https://zh.wikipedia.org/wiki/Category:运动型多用途车 "wikilink") [Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink") [Category:前輪驅動](https://zh.wikipedia.org/wiki/Category:前輪驅動 "wikilink") [Category:四輪驅動](https://zh.wikipedia.org/wiki/Category:四輪驅動 "wikilink") [Category:CVT變速系統車輛](https://zh.wikipedia.org/wiki/Category:CVT變速系統車輛 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.  [Nissan Rogue vs. Toyota RAV4](http://tw.autos.yahoo.com/auto_information_article2/url/d/a/090602/10/2qvx.html) - Yahoo奇摩汽車情報
-
 7.
-
 8.

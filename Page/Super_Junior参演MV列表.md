@@ -316,10 +316,17 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>10月4日</p></td>
+<td><p>I Think I</p></td>
+<td><p>《<a href="../Page/Time_Slip.md" title="wikilink">Time_Slip</a>》</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=CbFh06IpSwA&amp;feature=youtu.be">Music Video</a></p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+</tr>
+<tr class="even">
+<td><p>10月17日</p></td>
+<td><p>SUPER Clap</p></td>
+<td><p>《<a href="../Page/Time_Slip.md" title="wikilink">Time_Slip</a>》</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=9yimV9i-dY0">Music Video</a></p></td>
 <td></td>
 </tr>
 </tbody>

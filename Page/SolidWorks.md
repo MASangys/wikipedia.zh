@@ -208,5 +208,4 @@ SolidWorks的合作夥伴與具有黃金夥伴稱號的應用程式都是經由S
 [Category:三維圖像軟體](https://zh.wikipedia.org/wiki/Category:三維圖像軟體 "wikilink") [Category:電腦輔助設計軟體](https://zh.wikipedia.org/wiki/Category:電腦輔助設計軟體 "wikilink")
 
 1.  [SolidWorks公司概况-英文版-2011年4月30日更新](http://www.solidworks.com/sw/images/content/Other/Corp_FactSheet_Q1_043011.pdf)
-
 2.

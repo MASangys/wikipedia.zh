@@ -27,10 +27,7 @@
 [Category:關淑怡音樂專輯](https://zh.wikipedia.org/wiki/Category:關淑怡音樂專輯 "wikilink") [Category:1994年音樂專輯](https://zh.wikipedia.org/wiki/Category:1994年音樂專輯 "wikilink")
 
 1.  [難得有情人 關淑怡](http://news.stheadline.com/figure/?id=341)，[頭條網](https://zh.wikipedia.org/wiki/頭條網 "wikilink")
-
 2.
-
 3.
 4.  [難得有情人 關淑怡](http://news.stheadline.com/figure/?id=341)，[頭條網](https://zh.wikipedia.org/wiki/頭條網 "wikilink")
-
 5.

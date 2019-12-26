@@ -18,9 +18,9 @@
 
 ## 連載漫畫
 
-|  |                           |
-|  | ------------------------- |
-|  | 2019年9月4日（2019年10月號）現在連載中 |
+|  |                            |
+|  | -------------------------- |
+|  | 2019年11月2日（2019年12月號）現在連載中 |
 
 <table>
 <thead>
@@ -1014,7 +1014,7 @@
 </tr>
 <tr class="even">
 <td><p>97</p></td>
-<td><p><strong></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/弩級戰隊HXEROS" title="wikilink">弩級戰隊HXEROS</a></strong></p></td>
 <td></td>
 <td><p>－</p></td>
 <td><p>2017.06</p></td>
@@ -1042,11 +1042,11 @@
 </tr>
 <tr class="odd">
 <td><p>100</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p><a href="../Page/黑羽.md" title="wikilink">黑羽</a></p></td>
 <td><p>－</p></td>
 <td><p>2017.08</p></td>
-<td><p>連載中</p></td>
+<td><p>2019.10</p></td>
 <td><p>每月連載2-3話</p></td>
 </tr>
 <tr class="even">
@@ -1144,11 +1144,11 @@
 </tr>
 <tr class="even">
 <td><p>110</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/曉月明" title="wikilink">曉月明</a>（作畫）</p></td>
 <td><p>酒井敦朗（原作）</p></td>
 <td><p>2018.12</p></td>
-<td><p>連載中</p></td>
+<td><p>2019.10</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1185,6 +1185,24 @@
 <td><p>近藤憲一</p></td>
 <td><p>－</p></td>
 <td><p>2019.04</p></td>
+<td><p>連載中</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>114</p></td>
+<td><p><strong></strong></p></td>
+<td></td>
+<td><p>－</p></td>
+<td><p>2019.11</p></td>
+<td><p>連載中</p></td>
+<td><p>每月連載2話</p></td>
+</tr>
+<tr class="even">
+<td><p>115</p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/親愛的召喚師" title="wikilink">親愛的召喚師</a> '''</p></td>
+<td></td>
+<td><p>－</p></td>
+<td><p>2019.12</p></td>
 <td><p>連載中</p></td>
 <td></td>
 </tr>

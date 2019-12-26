@@ -71,40 +71,23 @@ Google文件在中国大陆处于不稳定状态，時常無法打開頁面。
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:网络应用程序](https://zh.wikipedia.org/wiki/Category:网络应用程序 "wikilink") [Category:云存储](https://zh.wikipedia.org/wiki/Category:云存储 "wikilink") [Category:数据同步](https://zh.wikipedia.org/wiki/Category:数据同步 "wikilink") [Category:文件共享服务](https://zh.wikipedia.org/wiki/Category:文件共享服务 "wikilink") [Category:在线备份服务](https://zh.wikipedia.org/wiki/Category:在线备份服务 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
 
 1.  [Google文件編輯器說明](https://support.google.com/docs?hl=zh-Hant#topic=1382883)
-
 2.
-
 3.  ["Official Google Blog: 'Writely so'"](http://googleblog.blogspot.com/2006/03/writely-so.html)
-
 4.
-
 5.
 6.  ["The Writely Blog: 'Google Account Sign-in LIVE'"](http://writely.blogspot.com/2006/09/google-account-sign-in-live.html)
-
 7.  ["Site report for www.writely.com"](http://toolbar.netcraft.com/site_report?url=http://www.writely.com)
-
 8.  ["News from Google: 'Google has acquired Tonic Systems'"](https://googlepress.blogspot.com/2007/04/google-has-acquired-tonic-systems.html)
-
 9.  ["Official Google Blog: 'Our feature presentation'"](http://googleblog.blogspot.com/2007/09/our-feature-presentation.html)
-
 10. ["Official Google Docs Blog: 'Bringing cloud with you'"](http://googledocs.blogspot.com/2008/03/bringing-cloud-with-you.html)
-
 11. {{ cite news | author = Kristen Nicole| title = "Google Docs Adds PDF Uploads and Previews" | date = June 13, 2008 | publisher = Mashable | url = <http://mashable.com/2008/06/13/google-docs-pdf/> | accessdate = 2008-06-14 | language = en}}
-
 12. ["Official Google Docs Blog: 'Drawing on your creativity in Docs'"](http://googledocs.blogspot.com/2009/03/drawing-on-your-creativity-in-docs.html)
-
 13.
-
 14. [Introducing Google Drive](http://googleblog.blogspot.de/2012/04/introducing-google-drive-yes-really.html)
-
 15. ["Google文件帮助：'上传和导出：上传文件'"](http://docs.google.com/support/bin/answer.py?answer=50092)
-
 16. ["Google文件帮助：'了解Google文档：大小限制'"](http://docs.google.com/support/bin/answer.py?answer=37603)
-
 17.
 18.
 19. ["文件編輯器說明：'系統需求和瀏覽器'"](https://support.google.com/docs/answer/2375082)
-
 20. [Google software bug shared private online documents](http://www.breitbart.com/article.php?id=CNG.54c3200989573ae4c9282658f91276df.481&show_article=1) , AFP, March 10, 2009
-
 21. [Google文件移动版](http://docs.google.com/m)

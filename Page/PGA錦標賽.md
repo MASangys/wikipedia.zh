@@ -1,4 +1,4 @@
-**PGA锦标赛** （，又称“PGA高尔夫球锦标赛”，也被美国以外地区称为“美国PGA锦标赛”），是在[美国](../Page/美国.md "wikilink")举行的每年一度的[高尔夫球顶级赛事](https://zh.wikipedia.org/wiki/高尔夫球 "wikilink")，其主办方为[美國職業高爾夫球員協會](https://zh.wikipedia.org/wiki/美國職業高爾夫球員協會 "wikilink")（，简称**USPGA**）。该项赛事也是世界职业高尔夫球坛[四大赛中之一](https://zh.wikipedia.org/wiki/四大赛 "wikilink")（其余三项为[英国公开赛](../Page/英国高尔夫球公开赛.md "wikilink")、[美国名人赛和](https://zh.wikipedia.org/wiki/美国名人赛 "wikilink")[美国公开赛](../Page/美國高爾夫公開賽.md "wikilink")），於2018年前都在每年的8月中旬举行（一般与英国公开赛相隔四周）。在此之前由于它是每年四大满贯赛事中最后一项，因此也被戏称为“Glory的最后一击”。这项赛事也是[PGA巡回赛](../Page/PGA巡回赛.md "wikilink")、[PGA欧洲巡回赛和](https://zh.wikipedia.org/wiki/PGA欧洲巡回赛 "wikilink")[日本高尔夫球巡回赛中的一环](https://zh.wikipedia.org/wiki/日本高尔夫球巡回赛 "wikilink")，2008年奖金总额达到750万美元。
+**PGA锦标赛**（，又称“PGA高尔夫球锦标赛”，也被美国以外地区称为“美国PGA锦标赛”），是在[美国](../Page/美国.md "wikilink")举行的每年一度的[高尔夫球顶级赛事](https://zh.wikipedia.org/wiki/高尔夫球 "wikilink")，其主办方为[美國職業高爾夫球員協會](https://zh.wikipedia.org/wiki/美國職業高爾夫球員協會 "wikilink")（，简称**USPGA**）。该项赛事也是世界职业高尔夫球坛[四大赛中之一](https://zh.wikipedia.org/wiki/四大赛 "wikilink")（其余三项为[英国公开赛](../Page/英国高尔夫球公开赛.md "wikilink")、[美国名人赛和](https://zh.wikipedia.org/wiki/美国名人赛 "wikilink")[美国公开赛](../Page/美國高爾夫公開賽.md "wikilink")），於2018年前都在每年的8月中旬举行（一般与英国公开赛相隔四周）。在此之前由于它是每年四大满贯赛事中最后一项，因此也被戏称为“Glory的最后一击”。这项赛事也是[PGA巡回赛](../Page/PGA巡回赛.md "wikilink")、[PGA欧洲巡回赛和](https://zh.wikipedia.org/wiki/PGA欧洲巡回赛 "wikilink")[日本高尔夫球巡回赛中的一环](https://zh.wikipedia.org/wiki/日本高尔夫球巡回赛 "wikilink")，2008年奖金总额达到750万美元。
 
 但由於美國8月氣候的不確定性，加上為了避免[聯邦快遞杯季後賽賽事與歐洲各國足球賽季衝突](https://zh.wikipedia.org/wiki/聯邦快遞杯 "wikilink")，以及[奧運重新將高爾夫列為比賽項目等諸多因素](https://zh.wikipedia.org/wiki/奧運 "wikilink")，因此自2019年起，賽事更改為每年5月舉辦。
 
@@ -971,7 +971,7 @@ PGA锦标赛在美国众多球场都举办过，早期的一些球场并不太�
 
 ## 外部链接
 
-  - [PGA媒体介绍](http://www.pgamediaguide.com/pgachampionship.cfm)
+  - [PGA媒体介绍](https://web.archive.org/web/20130123033540/http://www.pgamediaguide.com/pgachampionship.cfm)
   - [2009年赛事网页](http://www.pga.com/pgachampionship/2009/index.html)
   - [2008年赛事网页](http://www.pga.com/pgachampionship/2008/index.html)
   - [2007年赛事网页](http://www.pga.com/pgachampionship/2007/index.html)

@@ -82,5 +82,5 @@ MK車大部份有改裝過，而且一起步就會發出巨大嘈音或行駛中
 
 [Category:香港文化](https://zh.wikipedia.org/wiki/Category:香港文化 "wikilink")
 
-1.  [MK發源地 瓊華再見](http://hk.news.yahoo.com/mk%E7%99%BC%E6%BA%90%E5%9C%B0-%E7%93%8A%E8%8F%AF%E5%86%8D%E8%A6%8B-224518090.html) 《晴報》 2013年4月30日
+1.  [MK發源地 瓊華再見](https://skypost.ulifestyle.com.hk/article/1752889/MK發源地%20瓊華再見) 《晴報》 2013年4月30日
 2.

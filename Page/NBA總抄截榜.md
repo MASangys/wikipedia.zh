@@ -637,11 +637,8 @@
 [Category:NBA數據統計](https://zh.wikipedia.org/wiki/Category:NBA數據統計 "wikilink")
 
 1.  排名統計至2017年12月17日。
-
 2.  總計統計至2017年12月17日。
-
 3.  每場平均統計至2017年12月17日。
-
 4.
 5.
 6.

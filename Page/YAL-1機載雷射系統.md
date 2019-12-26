@@ -90,30 +90,19 @@ ABL使用類似火箭的化學燃料產生雷射能量。目前每架可以攜�
 [Category:飛彈防禦](https://zh.wikipedia.org/wiki/Category:飛彈防禦 "wikilink") [Category:雷射](https://zh.wikipedia.org/wiki/Category:雷射 "wikilink") [Category:波音747](https://zh.wikipedia.org/wiki/Category:波音747 "wikilink") [Category:美国空军](https://zh.wikipedia.org/wiki/Category:美国空军 "wikilink")
 
 1.  [Airborne Laser returns for more testing](http://www.afmc.af.mil/news/story.asp?id=123038913)
-
 2.  [DoD 4120.15-L，Model Designation of Military Aerospace Vehicles](http://www.dtic.mil/whs/directives/corres/pdf/412015l.pdf)，美國國防部於2004/5/12.
-
 3.  [FAS Airborne Laser Laboratory news](http://www.fas.org/spp/starwars/program/all.htm)
-
 4.  [U.S。Missile Defense Agency Budget Funds ABL](http://www.defensenews.com/story.php?F=3044313&C=airwar)
-
 5.  [APS Study](http://www.aps.org/about/pressreleases/boosts2.cfm)
-
 6.  [Anti-Satellite Capabilities of Planned US Missile Defense Systems](http://www.ucsusa.org/global_security/space_weapons/asat-capabilities-of-us-missile-defense-systems.html)
-
 7.  Grill，Eric M.，"Airborne Laser fires tracking laser，hits target", *Aerotech News and Review*，2007年3月23日，第22卷第8期
-
 8.  [Boeing AL Timeline](http://www.boeing.com/special/abl/news/)
-
 9.  [Boeing Airborne Laser Background presentation](http://www.boeing.com/defense-space/military/abl/doc_src/ABL_overview.pdf)
-
 10.
 11.
 12.
 13. Radecki, Alan K, *A Mojave Scrapbook*, MojaveBooks, 2005年
-
 14. [Hernandez，Jason，"Testers end high-energy laser tests，dismantle Airborne Laser SIL facility",USAF press release，March 29，2007](http://www.edwards.af.mil/news/story.asp?id=123046780)
-
 15.
 16.
 17.

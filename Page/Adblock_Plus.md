@@ -68,47 +68,28 @@ Adblock Plus的Google Chrome版本自2010年12月推出以來，擁有超過1000
 [Category:网络广告](https://zh.wikipedia.org/wiki/Category:网络广告 "wikilink") [Category:2006年軟體](https://zh.wikipedia.org/wiki/Category:2006年軟體 "wikilink") [Category:广告拦截软件](https://zh.wikipedia.org/wiki/Category:广告拦截软件 "wikilink") [Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink") [Category:Google_Chrome扩展](https://zh.wikipedia.org/wiki/Category:Google_Chrome扩展 "wikilink") [Category:Internet_Explorer加载项](https://zh.wikipedia.org/wiki/Category:Internet_Explorer加载项 "wikilink") [Category:Microsoft_Edge扩展](https://zh.wikipedia.org/wiki/Category:Microsoft_Edge扩展 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
-
 8.
 9.
 10.
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17. [How does element hiding work?](http://adblockplus.org/en/faq_internal#elemhide)
-
 18. [Adblock Plus Documentation - Specifying Filter Options](http://adblockplus.org/zh_CN/filters#options)
-
 19.
-
 20.
-
 21.
-
 22. [Ad Blocking is Immoral](http://www.thegooglecache.com/white-hat-seo/ad-blocking-is-immoral/)
-
 23. [So, Blocking ads is stealing?](http://bloggles.blogireland.ie/post/1/906)
-
 24. [Firefox ad-blocker extension causes angst](http://www.infoworld.com/article/07/08/23/Firefox-ad-blocker-extension-causes-angst_1.html)
-
 25. [Adblock Plus and (a little) more](http://adblockplus.org/blog/ads-dont-generate-money)
-
 26. [Google Search](http://www.google.co.uk/search?q=%22why+firefox+is+blocked%22)

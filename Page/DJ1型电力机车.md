@@ -81,30 +81,18 @@ DJ1型机车装载了西门子公司开发的“SIBAS 32”[-{zh-hans:32位; zh-
 [Category:中国进口电力机车](https://zh.wikipedia.org/wiki/Category:中国进口电力机车 "wikilink") [Category:Bo-Bo+Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo+Bo-Bo軸式機車 "wikilink") [Category:25千伏50赫兹交流电力机车](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力机车 "wikilink") [Category:西门子制铁路机车](https://zh.wikipedia.org/wiki/Category:西门子制铁路机车 "wikilink") [Category:中车株机制铁路机车](https://zh.wikipedia.org/wiki/Category:中车株机制铁路机车 "wikilink") [Category:其他中国电力机车](https://zh.wikipedia.org/wiki/Category:其他中国电力机车 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.  同时，配属湖东机务段的100台韶山4型电力机车，被安排转配上海铁路局（40台）和南昌铁路局（60台），由杭州机务段、向塘机务段支配运用，担当沪昆线货运列车牵引任务。
-
 10. 该次调整主要目的为扩充入川铁路运输能力，以满足四川省在2008年汶川大地震灾后重建需要；新丰镇机务段除了调入20台DJ1型电力机车，同时又配属120台HXD3型电力机车，部分由秦岭补机队使用。
-
 11.
-
 12.
 13.
-
 14.
 15.
-
 16.

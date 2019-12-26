@@ -58,5 +58,4 @@
 [Category:美国电影奖项](https://zh.wikipedia.org/wiki/Category:美国电影奖项 "wikilink") [Category:美國電影學會](https://zh.wikipedia.org/wiki/Category:美國電影學會 "wikilink") [Category:终身成就奖](https://zh.wikipedia.org/wiki/Category:终身成就奖 "wikilink")
 
 1.  [美国电影学会官方网站关于AFI终身成就奖介绍及历届获奖人名单](http://www.afi.com/laa)
-
 2.

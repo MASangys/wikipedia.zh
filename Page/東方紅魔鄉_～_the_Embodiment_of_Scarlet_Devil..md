@@ -100,14 +100,9 @@ ZUN認為，東方紅魔鄉作為上海愛麗絲幻樂團的第一部作品和�
 [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:吸血鬼題材遊戲](https://zh.wikipedia.org/wiki/Category:吸血鬼題材遊戲 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink") [Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
 
 1.
-
 2.
-
 3.  。
-
 4.
 5.
-
 6.  [「システム」「スペルカードボーナス」](https://web.archive.org/web/20050408091352/http://gensou.s93.xrea.com/world/qa0207.html#02112501), 幻想掲示板 (ZUN's guestbook) via webarchives. 2002-11.
-
 7.  ZUN, ["Shanghai Alice Correspondence Vol.1"](http://en.touhouwiki.net/wiki/Embodiment_of_Scarlet_Devil:_Afterword) . *Embodiment of Scarlet Devil* Afterword. 2002-8-11.

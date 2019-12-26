@@ -1,14 +1,10 @@
 [W_Hotel_Hong_Kong_Level_6_Lobby.jpg](https://zh.wikipedia.org/wiki/File:W_Hotel_Hong_Kong_Level_6_Lobby.jpg "fig:W_Hotel_Hong_Kong_Level_6_Lobby.jpg") [W_Hotel_Hong_Kong_Kirchen_Restaurant_Interior.jpg](https://zh.wikipedia.org/wiki/File:W_Hotel_Hong_Kong_Kirchen_Restaurant_Interior.jpg "fig:W_Hotel_Hong_Kong_Kirchen_Restaurant_Interior.jpg") [W_Hotel_Hong_Kong_Bar.jpg](https://zh.wikipedia.org/wiki/File:W_Hotel_Hong_Kong_Bar.jpg "fig:W_Hotel_Hong_Kong_Bar.jpg")
 
-**香港W酒店**（**W Hong Kong**），是一所位於[香港](../Page/香港.md "wikilink")[九龍站的一間酒店](https://zh.wikipedia.org/wiki/九龍站 "wikilink")，於2008年1月末試業，於2008年8月8日正式開業。酒店位於[西九龍](../Page/西九龍.md "wikilink")[柯士甸道西](https://zh.wikipedia.org/wiki/柯士甸道西 "wikilink")1號[天璽](../Page/天璽_\(香港\).md "wikilink")1至38樓，是[新鴻基地產](../Page/新鴻基地產.md "wikilink")的物業，酒店的建築為一座[摩天大樓](../Page/摩天大樓.md "wikilink")，合共設有393間客房，部份客房可觀賞海景。W酒店[總統套房位於](https://zh.wikipedia.org/wiki/總統套房 "wikilink")38樓高層（E-WOW），佔地2,152方呎，報稱日租4萬多港元。
+**香港W酒店**（**W Hong Kong**），是一所位於[香港](../Page/香港.md "wikilink")[九龍站的一間酒店](https://zh.wikipedia.org/wiki/九龍站 "wikilink")，於2008年1月末試業，於2008年8月8日正式開業。酒店位於[西九龍](../Page/西九龍.md "wikilink")[柯士甸道西](https://zh.wikipedia.org/wiki/柯士甸道西 "wikilink")1號，是[新鴻基地產](../Page/新鴻基地產.md "wikilink")的物業，酒店的建築為一座[摩天大樓](../Page/摩天大樓.md "wikilink")，合共設有393間客房，部份客房可觀賞海景。香港W酒店[總統套房位於](https://zh.wikipedia.org/wiki/總統套房 "wikilink")38樓高層（E-WOW），佔地2,152方呎。
 
 ## 設計
 
-香港W酒店以自然及五行（金、木、水、火、土）作設計概念，並由澳洲室內設計公司g+a（nicholas graham + associates），以及日本的Glamorous包辦設計。W酒店與一般酒店最大差別，是每間客房有不同風格各異的主題設計。客房還配備[i-Pod外接裝置及多線道IP電話連視像會議設備](https://zh.wikipedia.org/wiki/i-Pod "wikilink")\[1\]。
-
-## 設施
-
-酒店地下為售賣W品牌產品OVO；72樓為Bliss水療中心，佔地超過9,000平方呎。此外，美甲部內附設的壽司吧，以輸送帶設計運送不同工具予美容師，讓顧客等候修甲過程中，能欣賞各項流轉中的工具和飾品。酒店76樓則設有游泳池（73樓為運動場）。
+香港W酒店以自然及五行（金、木、水、火、土）作設計概念，並由澳洲室內設計公司g+a（nicholas graham + associates），以及日本的Glamorous包辦設計。香港W酒店與一般酒店最大差別，是每間客房有不同風格各異的主題設計。
 
 ## 餐廳酒廊
 
@@ -37,5 +33,3 @@
   - [香港W酒店 官方網](http://www.starwoodhotels.com/whotels/property/overview/index.html?propertyID=1965)
 
 [Category:西九龍酒店](https://zh.wikipedia.org/wiki/Category:西九龍酒店 "wikilink") [Category:新鴻基地產物業](https://zh.wikipedia.org/wiki/Category:新鴻基地產物業 "wikilink") [Category:2008年完工建築物](https://zh.wikipedia.org/wiki/Category:2008年完工建築物 "wikilink") [Category:W酒店](https://zh.wikipedia.org/wiki/Category:W酒店 "wikilink")
-
-1.  太陽報 ：大熱W先食為快，2008-08-21

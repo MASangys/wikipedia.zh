@@ -100,12 +100,9 @@ Extra關卡的劇情發生在故事模式之後。由於主角在故事模式中
 [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:死後世界背景作品](https://zh.wikipedia.org/wiki/Category:死後世界背景作品 "wikilink") [Category:鬼題材作品](https://zh.wikipedia.org/wiki/Category:鬼題材作品 "wikilink") [Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
 7.

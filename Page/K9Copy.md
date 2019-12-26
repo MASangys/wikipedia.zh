@@ -18,5 +18,4 @@ K9Copy能夠將雙層DVD-9的內容移到一個單層DVD-5 。界面允許用戶
 [Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")
 
 1.  [1](http://www.linux.com/feature/144541)
-
 2.

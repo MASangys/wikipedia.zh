@@ -61,24 +61,14 @@ ABC模型最初主要基于两个核心真双子叶植物拟南芥和金鱼草�
 [Category:被子植物](https://zh.wikipedia.org/wiki/Category:被子植物 "wikilink") [Category:遗传学](https://zh.wikipedia.org/wiki/Category:遗传学 "wikilink") [Category:突变](https://zh.wikipedia.org/wiki/Category:突变 "wikilink") [Category:演化生物學](https://zh.wikipedia.org/wiki/Category:演化生物學 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.

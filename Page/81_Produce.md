@@ -20,11 +20,8 @@
 
 <!-- end list -->
 
-  - [青山耕平](../Page/青山耕平.md "wikilink")
-
   -
-  - 畦地守
-
+  -
   -
   -
   -
@@ -33,12 +30,13 @@
   -
   - [糸博](../Page/糸博.md "wikilink")
 
-  -
-  - 植木慎英
+  - 豬股速十
 
+  -
+  -
   - [上田敏也](../Page/上田敏也.md "wikilink")
 
-  - 上西哲平
+  - [上西哲平](../Page/上西哲平.md "wikilink")
 
   - [宇垣秀成](../Page/宇垣秀成.md "wikilink")
 
@@ -48,8 +46,7 @@
 
   - [江口拓也](../Page/江口拓也.md "wikilink")
 
-  - 江田拓寬
-
+  -
   -
   -
   - [大竹宏](../Page/大竹宏.md "wikilink")
@@ -58,12 +55,12 @@
 
   - [大林隆介](../Page/大林隆介.md "wikilink")
 
-  - 岡野友佑
-
+  -
   - 岡本幸輔
 
   - [小川輝晃](../Page/小川輝晃.md "wikilink")
 
+  -
   -
 <!-- end list -->
 
@@ -80,15 +77,14 @@
   - [金光宣明](../Page/金光宣明.md "wikilink")
 
   -
-  -
   - [川島得愛](../Page/川島得愛.md "wikilink")
 
   -
   -
   -
-  -
-  - 木村隼人
+  - 桑田直樹
 
+  -
   -
   - [玄田哲章](../Page/玄田哲章.md "wikilink")
 
@@ -97,6 +93,8 @@
   -
   -
   -
+  - 合田葵
+
 <!-- end list -->
 
   - 行
@@ -106,8 +104,7 @@
   - [齊藤壯馬](https://zh.wikipedia.org/wiki/齊藤壯馬 "wikilink")
 
   -
-  - \-{榊}-原優希
-
+  -
   -
   -
   - [櫻井敏治](../Page/櫻井敏治.md "wikilink")
@@ -117,15 +114,12 @@
   - 佐藤智
 
   -
-  - 地藏堂武大
-
   -
-  - 白石兼斗
-
+  -
+  -
   -
   - [鈴木勝美](../Page/鈴木勝美.md "wikilink")
 
-  -
   -
   - [鈴木琢磨](../Page/鈴木琢磨.md "wikilink")
 
@@ -133,6 +127,8 @@
 
   -
   - [關根信昭](../Page/關根信昭.md "wikilink")
+
+  - 千先廣大
 
   -
   -
@@ -148,13 +144,11 @@
   - [武内駿輔](https://zh.wikipedia.org/wiki/武内駿輔 "wikilink")
 
   -
-  - 多田啓太
-
+  -
   - [田所陽向](../Page/田所陽向.md "wikilink")
 
   - [田中完](../Page/田中完.md "wikilink")
 
-  -
   - 谷川立紀
 
   -
@@ -190,6 +184,8 @@
 
   -
   -
+  - 成瀨一興
+
   -
   - [西本理一](../Page/西本理一.md "wikilink")
 
@@ -210,13 +206,9 @@
   -
   -
   -
-  - 深谷悠
-
   -
-  - 藤井隼
-
-  - [藤本讓](../Page/藤本讓.md "wikilink")
-
+  -
+  -
   -
   -
   -
@@ -287,8 +279,7 @@
 
   - [青山吉能](../Page/青山吉能.md "wikilink")
 
-  - 青山玲菜
-
+  -
   - [赤崎千夏](../Page/赤崎千夏.md "wikilink")
 
   - [茜屋日海夏](../Page/茜屋日海夏.md "wikilink")
@@ -313,14 +304,14 @@
 
   - 井上美-{咲}-
 
+  -
   - [植竹香菜](../Page/植竹香菜.md "wikilink")
 
   - [上田麗奈](../Page/上田麗奈.md "wikilink")
 
   - [鵜飼留美子](../Page/鵜飼留美子.md "wikilink")
 
-  - 內山茉莉
-
+  -
   - [永野愛理](../Page/永野愛理.md "wikilink")
 
   - [江口菜子](../Page/江口菜子.md "wikilink")
@@ -331,8 +322,7 @@
   - [大久保瑠美](../Page/大久保瑠美.md "wikilink")
 
   -
-  - 萩野葉月
-
+  -
   -
   - [奧野香耶](../Page/奧野香耶.md "wikilink")
 
@@ -356,11 +346,9 @@
   -
   - [加藤英美里](../Page/加藤英美里.md "wikilink")
 
-  - [佳穗成美](../Page/佳穗成美.md "wikilink")
-
-  - 川上弘美
-
   -
+  - 川原伶奈
+
   - [神田理江](../Page/神田理江.md "wikilink")
 
   - [菊池泉](../Page/菊池泉.md "wikilink")
@@ -368,8 +356,7 @@
   -
   -
   -
-  - 久遠繪理沙
-
+  -
   - [鯨](../Page/鯨_\(配音員\).md "wikilink")
 
   - [久保田未夢](../Page/久保田未夢.md "wikilink")
@@ -390,10 +377,14 @@
 
   -
   -
+  - 木間萌
+
   -
   - [小林優子](../Page/小林優子.md "wikilink")
 
   - 小針彩希
+
+  - 小孫櫻
 
   - [小宮悅子](https://zh.wikipedia.org/wiki/小宮悅子 "wikilink")（自由播報員）
 
@@ -408,6 +399,8 @@
   -
   - [阪田伊都](../Page/阪田伊都.md "wikilink")
 
+  - 佐佐木奈緒
+
   - [佐佐木日菜子](../Page/佐佐木日菜子.md "wikilink")
 
   -
@@ -418,8 +411,9 @@
 
   - [篠原惠美](../Page/篠原惠美.md "wikilink")
 
-  - 柴田芽衣
+  - 柴崎麻里奈
 
+  -
   -
   - 柴田倫佳
 
@@ -442,6 +436,8 @@
 
   - [芹澤優](../Page/芹澤優.md "wikilink")
 
+  - 成花
+
 <!-- end list -->
 
   - 行
@@ -463,6 +459,8 @@
 
   -
   - [竹內惠美子](../Page/竹內惠美子.md "wikilink")
+
+  - 竹內裕香
 
   - [伊達朱里紗](../Page/伊達朱里紗.md "wikilink")
 
@@ -494,9 +492,10 @@
 
 <!-- end list -->
 
-  - 中井美琴
-
+  -
   - 中尾友美
+
+  - 永崎舞彌
 
   -
   -
@@ -517,7 +516,7 @@
 
   - [根本圭子](../Page/根本圭子.md "wikilink")
 
-  - 納富桃仔
+  - 納富桃子
 
   - [野村真弓](../Page/野村真弓.md "wikilink")
 
@@ -531,6 +530,8 @@
   -
   -
   -
+  - [馬場澄江](../Page/馬場澄江.md "wikilink")
+
   - [林鼓子](../Page/林鼓子.md "wikilink")
 
   - 林田智惠里
@@ -538,7 +539,7 @@
   - [原紗友里](../Page/原紗友里.md "wikilink")
 
   -
-  - [馬場澄江](../Page/馬場澄江.md "wikilink")
+  - 春風友紀
 
   - [稗田寧寧](../Page/稗田寧寧.md "wikilink")
 
@@ -557,14 +558,11 @@
 
   -
   -
-  - 伏見春香
-
+  -
   - 別府成美
 
-  - 星乃葉月
-
-  - 星南
-
+  -
+  -
   - [本泉莉奈](../Page/本泉莉奈.md "wikilink")
 
   - 本間沙智子
@@ -584,16 +582,16 @@
   -
   - [間宮久留美](../Page/間宮久留美.md "wikilink")
 
-  - 三重野帆貴
+  -
+  -
+  -
+  -
+  -
+  - 光延真鈴
 
-  -
-  -
-  -
-  -
   - [南早紀](https://zh.wikipedia.org/wiki/南早紀_\(聲優\) "wikilink")
 
-  - 南波由紀
-
+  -
   -
   - [宮崎羽衣](../Page/宮崎羽衣.md "wikilink")
 
@@ -603,8 +601,7 @@
   -
   -
   -
-  - 望田陽葵（舊藝名：永田優美）
-
+  -
   - [望月久代](../Page/望月久代.md "wikilink")
 
   -
@@ -619,6 +616,8 @@
 
   -
   - 藪內裕友實
+
+  - 柳田神奈
 
   - [山北早紀](../Page/山北早紀.md "wikilink")
 
@@ -638,12 +637,16 @@
 
   - [柚木涼香](../Page/柚木涼香.md "wikilink")
 
+  - 弓野真紀
+
+  - 橫林奈津子
+
   -
   - [吉岡茉祐](../Page/吉岡茉祐.md "wikilink")
 
-  - 吉田早南
-
   - [米澤圓](../Page/米澤圓.md "wikilink")
+
+  - 吉田早南
 
 <!-- end list -->
 
@@ -667,7 +670,7 @@
 
 ## 過往所屬聲優
 
-下面包含了該經紀公司官網（於「Memorial」列出）在籍中死去的男性、女性聲優。
+下面包含了該經紀公司官網（於「Memorial」列出）在籍中過世的男性、女性聲優。
 
 ### 男性
 
@@ -675,11 +678,7 @@
 
 <!-- end list -->
 
-  - 相原瑞樹
-
-  - 石井宏明
-
-  - 石塚雅博
+  - [青山耕平](../Page/青山耕平.md "wikilink")
 
   -
   -
@@ -726,9 +725,10 @@
 
   - （現所屬：）
 
-  - （現所屬：[Fedoo劇場](http://ameblo.jp/fedoogekijyou/)）
+  - （在籍中死去）
 
-  - 北纓裕紀
+  -
+  - （現所屬：[Fedoo劇場](http://ameblo.jp/fedoogekijyou/)）
 
   - [肝付兼太](../Page/肝付兼太.md "wikilink")（在籍中死去）
 
@@ -772,8 +772,9 @@
 
   - （自由職業）
 
-  - [下和田裕貴](../Page/下和田裕貴.md "wikilink")（現所屬：[Office PAC](../Page/Office_PAC.md "wikilink")）
+  - [下和田裕貴](../Page/下和田裕貴.md "wikilink")（現所屬：[KeKKe Corporation](../Page/KeKKe_Corporation.md "wikilink")）
 
+  -
 <!-- end list -->
 
   - 行
@@ -789,7 +790,8 @@
 
   -
   -
-  - 田端裕人
+  -
+  - （在籍中死去）
 
   -
 <!-- end list -->
@@ -801,8 +803,6 @@
   - 中井正則
 
   - （現所屬：[dandelion](https://zh.wikipedia.org/wiki/dandelion "wikilink")）
-
-  - 長野敦志
 
   - （自由職業)
 
@@ -817,7 +817,8 @@
 
   - [西村朋紘](../Page/西村朋紘.md "wikilink")（自由職業）
 
-  -
+  - （自由職業）
+
 <!-- end list -->
 
   - 行
@@ -835,6 +836,8 @@
   -
   - （在籍中死去）
 
+  - [藤本讓](../Page/藤本讓.md "wikilink")（在籍中死去）
+
   -
   - 細川祥央（現所屬：D-COLRO）
 
@@ -844,13 +847,12 @@
 
 <!-- end list -->
 
-  - [牧野良樹](../Page/永野椎菜.md "wikilink")（藝名永野椎菜，音樂組合[TWO-MIX](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")（與[高山南](../Page/高山南.md "wikilink")組成）的男性成員。於1992年曾經投入聲優活動）
+  - [牧野良樹](../Page/永野椎菜.md "wikilink")\[11\]
 
   -
   -
   - （現所屬：D-COLOR）
 
-  -
   - [水島裕](../Page/水島裕.md "wikilink")（現所屬：[Knot Communications](http://www.knot-com.com/)）
 
   -
@@ -917,8 +919,6 @@
 
   - [石上靜香](../Page/石上靜香.md "wikilink")（現所屬：[Pro-Fit](../Page/Pro-Fit.md "wikilink")）
 
-  - 石崎花澄子
-
   - [石原繪理子](../Page/石原繪理子.md "wikilink")（引退）
 
   - （現所屬：Production Ace）
@@ -926,8 +926,6 @@
   - （引退）
 
   - [岩男潤子](../Page/岩男潤子.md "wikilink")（現所屬：J. Island）
-
-  - 上神真由美
 
   - （現所屬：）
 
@@ -940,13 +938,11 @@
 
   - （現所屬：Across Entertainment）
 
-  - [岡本麻彌](../Page/岡本麻彌.md "wikilink")（現所屬：）
+  - [岡本麻彌](../Page/岡本麻彌.md "wikilink")（現所屬：[Dana Works](http://www.dana-works.co.jp/)）
 
   - （現所屬：「語日和 」）
 
   - 小口貴子（現所屬：大澤事務所）
-
-  - 小澤美樹
 
   -
 <!-- end list -->
@@ -965,6 +961,8 @@
   -
   - （引退）
 
+  - [佳穗成美](../Page/佳穗成美.md "wikilink")（現所屬：[東京俳優生活協同組合](../Page/東京俳優生活協同組合.md "wikilink")）
+
   - [川田妙子](../Page/川田妙子.md "wikilink")（自由職業）
 
   -
@@ -973,13 +971,9 @@
   - [木藤聰子](../Page/木藤聰子.md "wikilink")（現所屬：[ARTSVISION](../Page/ARTSVISION.md "wikilink")）
 
   -
-  - 栗林泰子
-
   - [小櫻悅子](../Page/小櫻悅子.md "wikilink")（現所屬：[Little Portal](http://little-portal.com/)代表）
 
   - [後藤沙緒里](../Page/後藤沙緒里.md "wikilink")（自由職業）
-
-  - 古森奈保子
 
   -
 <!-- end list -->
@@ -1014,8 +1008,6 @@
   - [白石文子](../Page/白石文子.md "wikilink")（引退）
 
   -
-  - 關川真佐美
-
   - [空見雪](../Page/空見雪.md "wikilink")（自由職業）
 
 <!-- end list -->
@@ -1038,20 +1030,19 @@
   - [津津見沙月](../Page/津津見沙月.md "wikilink")（現所屬：ARTSVISION）
 
   -
-  -
 <!-- end list -->
 
   - 行
 
 <!-- end list -->
 
+  - （自由職業
+
   - （自由職業）
 
   -
   -
   - [中野聖子](../Page/中野聖子.md "wikilink")（引退）
-
-  - 中原美佐緒
 
   - （自由職業）
 
@@ -1076,9 +1067,13 @@
 
   - （自由職業）
 
+  - （自由職業）
+
   - [花形惠子](../Page/花形惠子.md "wikilink")（在籍中死去）
 
   - （引退）
+
+  - [春野菜菜美](../Page/春野菜菜美.md "wikilink")（自由職業）
 
   - [潘惠子](../Page/潘惠子.md "wikilink")（現所屬：）
 
@@ -1097,7 +1092,7 @@
   -
   - [本名陽子](../Page/本名陽子.md "wikilink")（現所屬：remax）
 
-  - （現所屬：[Production baobab](../Page/Production_baobab.md "wikilink")）
+  - （自由職業）
 
 <!-- end list -->
 
@@ -1134,10 +1129,6 @@
 
   - [山口理惠](../Page/山口理惠.md "wikilink")（引退）
 
-  - 山下繪利架
-
-  - 遊木風彌
-
   - [雪繪玲那](https://zh.wikipedia.org/wiki/雪繪玲那 "wikilink")
 
   -
@@ -1148,8 +1139,6 @@
   - 行
 
 <!-- end list -->
-
-  - 若林由乃
 
   - （現所屬：picante）
 
@@ -1176,24 +1165,24 @@
 <tr class="odd">
 <td><p>第1回</p></td>
 <td><p>2007年</p></td>
-<td><p>優秀獎：<a href="../Page/江口拓也.md" title="wikilink">江口拓也</a>、<a href="../Page/森優子.md" title="wikilink">森優子</a>[11]</p></td>
+<td><p>優秀獎：<a href="../Page/江口拓也.md" title="wikilink">江口拓也</a>、<a href="../Page/森優子.md" title="wikilink">森優子</a>[12]</p></td>
 </tr>
 <tr class="even">
 <td><p>第2回</p></td>
 <td><p>2008年</p></td>
-<td><p>優秀獎：<a href="https://zh.wikipedia.org/wiki/齊藤壯馬" title="wikilink">齊藤壯馬</a>、<a href="../Page/原紗友里.md" title="wikilink">原紗友里</a>[12]</p></td>
+<td><p>優秀獎：<a href="https://zh.wikipedia.org/wiki/齊藤壯馬" title="wikilink">齊藤壯馬</a>、<a href="../Page/原紗友里.md" title="wikilink">原紗友里</a>[13]</p></td>
 </tr>
 <tr class="odd">
 <td><p>第3回</p></td>
 <td><p>2009年</p></td>
 <td><p>優秀獎：<a href="../Page/大久保瑠美.md" title="wikilink">大久保瑠美</a><br />
-特別獎：寺本和泉、<a href="../Page/西山宏太朗.md" title="wikilink">西山宏太朗</a>、吉谷彰彥[13]</p></td>
+特別獎：寺本和泉、<a href="../Page/西山宏太朗.md" title="wikilink">西山宏太朗</a>、吉谷彰彥[14]</p></td>
 </tr>
 <tr class="even">
 <td><p>第4回</p></td>
 <td><p>2010年</p></td>
 <td><p>優秀獎：（同時獲頒<a href="../Page/小學館.md" title="wikilink">小學館</a>獎）<br />
-特別獎：地藏堂武大、平山寬子[14]</p></td>
+特別獎：地藏堂武大、平山寬子[15]</p></td>
 </tr>
 <tr class="odd">
 <td><p>第5回</p></td>
@@ -1201,7 +1190,7 @@
 <td><p>優秀獎：（同時獲頒<a href="../Page/文化放送_(日本).md" title="wikilink">文化放送獎</a>、獎）<br />
 特別獎：<a href="../Page/春野菜菜美.md" title="wikilink">石渕菜菜美</a>（同時獲頒小學館獎）、<br />
 <a href="../Page/上田麗奈.md" title="wikilink">上田麗奈</a>（同時獲頒小學館獎）、<br />
-<a href="../Page/高橋李依.md" title="wikilink">高橋李依</a>（同時獲頒<a href="../Page/日本BS放送.md" title="wikilink">日本BS放送</a>獎）[15]</p></td>
+<a href="../Page/高橋李依.md" title="wikilink">高橋李依</a>（同時獲頒<a href="../Page/日本BS放送.md" title="wikilink">日本BS放送</a>獎）[16]</p></td>
 </tr>
 <tr class="even">
 <td><p>第6回</p></td>
@@ -1210,7 +1199,7 @@
 （同時獲頒E-XING獎、長崎音響監督獎）<br />
 特別獎：（同時獲頒BS11獎、文化放送獎）、<br />
 <a href="../Page/稗田寧寧.md" title="wikilink">稗田寧寧</a>（同時獲頒小學館獎）、<br />
-渡邊保渚美（同時獲頒<a href="../Page/萬代頻道.md" title="wikilink">萬代頻道</a>獎、<a href="https://zh.wikipedia.org/wiki/颯美" title="wikilink">Sammy獎</a>）[16]</p></td>
+渡邊保渚美（同時獲頒<a href="../Page/萬代頻道.md" title="wikilink">萬代頻道</a>獎、<a href="https://zh.wikipedia.org/wiki/颯美" title="wikilink">Sammy獎</a>）[17]</p></td>
 </tr>
 <tr class="odd">
 <td><p>第7回</p></td>
@@ -1218,7 +1207,7 @@
 <td><p>優秀獎：<a href="https://zh.wikipedia.org/wiki/南早紀_(聲優)" title="wikilink">南早紀</a>（同時獲頒Sammy獎、BS11獎）、<br />
 （同時獲頒E-XING獎）<br />
 特別獎：小林祐太（同時獲頒文化放送獎）、<br />
-永田優美（同時獲頒文化放送獎、小學館獎）[17]</p></td>
+永田優美（同時獲頒文化放送獎、小學館獎）[18]</p></td>
 </tr>
 <tr class="even">
 <td><p>第8回</p></td>
@@ -1227,7 +1216,7 @@
 <a href="../Page/天海由梨奈.md" title="wikilink">渡部由梨奈</a>（同時獲頒Sammy獎、NOTTV獎）<br />
 特別獎：白石兼斗（同時獲頒文化放送獎、Sammy獎、<a href="../Page/STUDIO_DEEN.md" title="wikilink">STUDIO DEEN獎</a>)<br />
 森岡健太郎（同時獲頒文化放送獎、E-XING獎）、<br />
-（同時獲頒小學館獎、E-XING獎）[18]</p></td>
+（同時獲頒小學館獎、E-XING獎）[19]</p></td>
 </tr>
 <tr class="odd">
 <td><p>第9回</p></td>
@@ -1236,13 +1225,13 @@
 新津實稀奈（同時獲頒文化放送獎、STUDIO DEEN獎、長崎音響監督獎)<br />
 特別獎：松井梨央奈（同時獲頒Sammy獎）、<br />
 宮城一貴（同時獲頒JOYSOUND獎）、<br />
-（同時獲頒Sammy獎、MiMi獎）[19]</p></td>
+（同時獲頒Sammy獎、MiMi獎）[20]</p></td>
 </tr>
 <tr class="even">
 <td><p>第10回</p></td>
 <td><p>2016年</p></td>
 <td><p>特別獎：大岡繪理沙、鈴江祐里奈、<br />
-宮原颯希（同時獲頒STUDIO DEEN獎、文化放送獎、小學館獎）[20]</p></td>
+宮原颯希（同時獲頒STUDIO DEEN獎、文化放送獎、小學館獎）[21]</p></td>
 </tr>
 <tr class="odd">
 <td><p>第11回</p></td>
@@ -1250,7 +1239,24 @@
 <td><p>優秀獎：折原秋良（同時獲頒Sammy獎）、合田葵（同時獲頒Sammy獎）<br />
 特別獎：後藤彩佐（同時獲頒文化放送獎）、<br />
 齋藤峻（同時獲頒JOYSOUND獎、STUDIO DEEN獎、文化放送獎）、<br />
-柴田真璃奈（同時獲頒JOYSOUND獎）、鈴木花[21]</p></td>
+柴田真璃奈（同時獲頒JOYSOUND獎）、鈴木花[22]</p></td>
+</tr>
+<tr class="even">
+<td><p>第12回</p></td>
+<td><p>2018年</p></td>
+<td><p>優秀獎：藤繩郁花（同時獲頒文化放送獎）、<br />
+山一茉希（同時獲頒長崎音響監督獎）<br />
+特別獎：國須奈緒（同時獲頒Sammy獎）、<br />
+延次莉衣奈（同時獲頒JOYSOUND獎、文化放送獎）、林寬太郎[23]</p></td>
+</tr>
+<tr class="odd">
+<td><p>第13回</p></td>
+<td><p>2019年</p></td>
+<td><p>優秀獎：土池悠介（同時獲頒文化放送獎、小學館獎）、<br />
+山本真綺（同時獲頒<a href="https://zh.wikipedia.org/wiki/SHIN-EI動畫" title="wikilink">SHIN-EI動畫獎</a>）<br />
+特別獎：高-{畑}-廉太（同時獲頒文化放送獎、小學館獎）、<br />
+田中詩織（同時獲頒<a href="../Page/Production_I.G.md" title="wikilink">Production I.G獎</a>、Sammy獎）、<br />
+松本大輝（同時獲頒文化放送獎）[24]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1291,7 +1297,7 @@
 8.  例如《[天才兒童MAX](../Page/天才兒童MAX.md "wikilink")》內播出的單元動畫《》、《》等。
 9.  例如由81 Produce進行新人聲優公開進行徵選而誕生的聲優組合『[i☆Ris](https://zh.wikipedia.org/wiki/i☆Ris "wikilink")』、『[Wake Up, Girls！](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")』。
 10.
-11.
+11. 音樂組合[TWO-MIX](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")（與[高山南](../Page/高山南.md "wikilink")組成）的男性成員。於1992年曾經投入配音事業。
 12.
 13.
 14.
@@ -1302,3 +1308,6 @@
 19.
 20.
 21.
+22.
+23.
+24.

@@ -44,15 +44,9 @@ S-過程週期終止於： <font size= "-1"><sup>209</sup>[</font>Bi](https://zh
 [Category:原子核物理学](https://zh.wikipedia.org/wiki/Category:原子核物理学 "wikilink") [Category:中子](https://zh.wikipedia.org/wiki/Category:中子 "wikilink") [Category:核合成](https://zh.wikipedia.org/wiki/Category:核合成 "wikilink") [Category:天体物理学](https://zh.wikipedia.org/wiki/Category:天体物理学 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.

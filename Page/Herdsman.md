@@ -34,10 +34,7 @@
 [Category:猪场管理软件](https://zh.wikipedia.org/wiki/Category:猪场管理软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.

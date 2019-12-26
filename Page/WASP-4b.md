@@ -20,7 +20,6 @@
 [Category:太陽系外行星](https://zh.wikipedia.org/wiki/Category:太陽系外行星 "wikilink") [Category:2007年發現的系外行星](https://zh.wikipedia.org/wiki/Category:2007年發現的系外行星 "wikilink") [Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink") [Category:熱木星](https://zh.wikipedia.org/wiki/Category:熱木星 "wikilink") [Category:凌日系外行星](https://zh.wikipedia.org/wiki/Category:凌日系外行星 "wikilink") [Category:鳳凰座](https://zh.wikipedia.org/wiki/Category:鳳凰座 "wikilink")
 
 1.  Table 3, Improved parameters for the transiting hot Jupiters WASP-4b and WASP-5b, M. Gillon et al., *Astronomy and Astrophysics* **496**, \#1 (2009), pp. 259–267, , .
-
 2.
 3.
 4.

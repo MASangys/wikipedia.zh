@@ -117,9 +117,18 @@
 <td><p>2019年</p></td>
 <td><p><a href="../Page/YU-NO_在這世界盡頭詠唱愛的少女.md" title="wikilink">YU-NO 在這世界盡頭詠唱愛的少女</a></p></td>
 <td></td>
-<td><p>4月－預定</p></td>
+<td><p>4月2日－10月1日</p></td>
 <td><p><a href="../Page/平川哲生.md" title="wikilink">平川哲生</a></p></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>尚未宣布</p></td>
+<td><p><a href="../Page/滿溢的水果塔.md" title="wikilink">滿溢的水果塔</a></p></td>
+<td></td>
+<td><p>尚未宣布</p></td>
+<td><p><a href="../Page/川口敬一郎.md" title="wikilink">川口敬一郎</a></p></td>
+<td><p>漫畫</p></td>
 <td></td>
 </tr>
 </tbody>

@@ -144,10 +144,10 @@
 <tr class="odd">
 <td></td>
 <td></td>
+<td><p>1月28日</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>漫畫</p></td>
+<td><p>短篇動畫</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
@@ -160,13 +160,13 @@
 <tr class="odd">
 <td><p><a href="../Page/續·終物語.md" title="wikilink">續·終物語</a></p></td>
 <td></td>
-<td><p>5月18日－預定</p></td>
+<td><p>5月18日－6月23日</p></td>
 <td><p><a href="../Page/新房昭之.md" title="wikilink">新房昭之</a></p></td>
 <td><p>輕小說</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>時期未定</p></td>
+<td><p>2020年</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -176,18 +176,19 @@
 <tr class="odd">
 <td><p><a href="../Page/魔法紀錄_魔法少女小圓外傳.md" title="wikilink">魔法紀錄 魔法少女小圓外傳</a></p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>1月－預定</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劇團狗咖哩" title="wikilink">劇團狗咖哩</a><br />
+宮本幸裕</p></td>
 <td><p>遊戲</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>突擊莉莉 BOUQUET</p></td>
 <td></td>
 <td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐伯昭志" title="wikilink">佐伯昭志</a></p></td>
+<td><p>多媒體</p></td>
 <td></td>
-<td></td>
-<td><p>漫畫</p></td>
-<td><p>短篇動畫</p></td>
 </tr>
 </tbody>
 </table>
@@ -639,12 +640,6 @@
   - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
 
 ## 脚注
-
-<div class="references-small">
-
-<references />
-
-</div>
 
 ## 外部链接
 

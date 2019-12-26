@@ -37,7 +37,7 @@ Pygame應用程式能夠在Android手機和平板執行，採用Pygame對於Ando
   - [Game Programming the L Line](https://web.archive.org/web/20110906045624/http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470068221.html) -- A book that introduces programming and game development with Python and pygame
   - [pyOpenGL](http://pyopengl.sourceforge.net/) - Python OpenGL Bindings
 
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink") [Category:电子游戏研发](https://zh.wikipedia.org/wiki/Category:电子游戏研发 "wikilink") [Category:遊戲製作軟件](https://zh.wikipedia.org/wiki/Category:遊戲製作軟件 "wikilink") [Category:Python库](https://zh.wikipedia.org/wiki/Category:Python库 "wikilink")
+[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink") [Category:电子游戏研发](https://zh.wikipedia.org/wiki/Category:电子游戏研发 "wikilink") [Category:電子遊戲開發軟件](https://zh.wikipedia.org/wiki/Category:電子遊戲開發軟件 "wikilink") [Category:Python库](https://zh.wikipedia.org/wiki/Category:Python库 "wikilink")
 
 1.  [Libregamewiki's article on Pygame](http://libregamewiki.org/Pygame)
 2.  <http://pygame.renpy.org/>

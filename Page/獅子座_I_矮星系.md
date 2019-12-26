@@ -13,13 +13,10 @@
 [sk:Trpasličia galaxia Lev I](https://zh.wikipedia.org/wiki/sk:Trpasličia_galaxia_Lev_I "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
 7.
 8.

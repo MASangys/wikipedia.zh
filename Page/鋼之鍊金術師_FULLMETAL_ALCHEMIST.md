@@ -1712,7 +1712,7 @@
   - [鋼之鍊金術師（FUNimation）](http://www.fullmetalalchemist.com)
   - [YouTube - FMA Brotherhood](http://www.youtube.com/fmabrotherhood)
   - [FULLMETAL ALCHEMIST: Brotherhood（Dybex）](http://www.fma-brotherhood.net)
-  - [鋼之鍊金術師-{}-FA - J2](http://b.tvb.com/j2/c/%E5%8B%95%E7%95%AB/%E9%8B%BC%E4%B9%8B%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%ABfa/) - [TVB](https://zh.wikipedia.org/wiki/TVB "wikilink") 動畫鋼之鍊金術師-{}-FA預告
+  - [鋼之鍊金術師-{}-FA - J2](https://web.archive.org/web/20090707090256/http://b.tvb.com/j2/c/%E5%8B%95%E7%95%AB/%E9%8B%BC%E4%B9%8B%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%ABfa/) - [TVB](https://zh.wikipedia.org/wiki/TVB "wikilink") 動畫鋼之鍊金術師-{}-FA預告
   - [鋼之鍊金術師-{}-BROTHERHOOD（Taiwan Animax）](https://web.archive.org/web/20100222022449/http://www.animax-taiwan.com/shows/%E9%8B%BC%E4%B9%8B%E9%8D%8A%E9%87%91%E8%A1%93%E5%B8%ABbrotherhood)
   - [鋼之鍊金術師-{}-BROTHERHOOD（普威爾）](https://web.archive.org/web/20090805073527/http://www.prowaremedia.com.tw/BH/BH_main.htm)
   - [官方網站](http://www.hagaren-movie.net/)
@@ -1720,27 +1720,18 @@
 [Category:鋼之鍊金術師](https://zh.wikipedia.org/wiki/Category:鋼之鍊金術師 "wikilink") [Category:2009年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2009年TBS電視網動畫 "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:香港深夜動畫](https://zh.wikipedia.org/wiki/Category:香港深夜動畫 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
 12.
-
 13. [GANGAN ONLINE](http://www.square-enix.com/jp/magazine/ganganonline/comic/hagane/)亦刊載其[FLASH動畫版](../Page/Adobe_Flash.md "wikilink")。
-
 14.
 15.
 16.

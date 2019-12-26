@@ -235,7 +235,7 @@ M4半自動霰彈槍可以通過伯奈利戰術購買可[槍托](../Page/槍托.
   - 2014年—《[幽靈行動：魅影](../Page/幽靈行動：魅影.md "wikilink")》（Tom Clancy's Ghost Recon Phantoms）：型號為民用固定槍托型，命名為“M1014”，7發彈倉，攜彈量為63發。
   - 2014年—《[看門狗](../Page/看門狗_\(遊戲\).md "wikilink")》（Watch Dogs）：型號為伸縮槍托型，命名為“M1014”，發射[12鉛徑3英吋麥格農霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")，最高攜彈量為96發，可被主角艾登·皮爾斯（Aiden Pearce，由[諾姆·詹金斯配音](https://zh.wikipedia.org/wiki/諾姆·詹金斯 "wikilink")）所使用。
   - 2015年－《[-{zh-hans:战地：硬仗; zh-hant:戰地風雲：強硬路線;}-](../Page/战地：硬仗.md "wikilink")》（Battlefield Hardline）：型號為固定槍托型（實際上為[伯奈利M1 Super 90霰彈槍](https://zh.wikipedia.org/wiki/伯奈利M1_Super_90霰彈槍 "wikilink")），[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")「背叛」（Betrayal）武器之一。命名為「M4」，發射[12G](https://zh.wikipedia.org/wiki/霰彈 "wikilink")[鹿彈](https://zh.wikipedia.org/wiki/鹿彈 "wikilink")，8+1發[彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，武器商店中價格為$21,000，被雙方執行者（Enforcer）所使用。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro T1、SRS 02、[Comp M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍） 、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、戰術燈、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、12鉛徑金屬彈頭、破門彈）及槍口零件（全收束器、改良型收束器）。
-  - 2015年—《[殺戮空間2](https://zh.wikipedia.org/wiki/殺戮空間2 "wikilink")》（Killing Floor 2）：隨遊戲登場武器，預設裝上[戰術燈](../Page/戰術燈.md "wikilink")和小型[眼鏡蛇](../Page/紅點鏡.md "wikilink")，6發[管式彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，可被支援專家（Support specialist）職業所使用。
+  - 2015年—《[殺戮空間2](../Page/殺戮空間2.md "wikilink")》（Killing Floor 2）：隨遊戲登場武器，預設裝上[戰術燈](../Page/戰術燈.md "wikilink")和小型[眼鏡蛇](../Page/紅點鏡.md "wikilink")，6發[管式彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，可被支援專家（Support specialist）職業所使用。
   - 2015年—《[-{zh-cn:彩虹六号：围攻;zh-hant:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》：被[FBI SWAT所使用](../Page/聯邦調查局特種武器和戰術部隊.md "wikilink")，命名為「M1014」，奇怪地使用了民用型4發彈倉卻可裝填8發。
   - 2016年—《[湯姆克蘭西：全境封鎖](../Page/湯姆克蘭西：全境封鎖.md "wikilink")》（Tom Clancy's The Division）：型號為黑色合成固定槍托型和伸縮槍托型：
       - 黑色合成固定槍托型命名為“Super 90”，8發[管式彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")；衍生型為“戰術型超級90”（具有普通手槍握把與滑動式槍托）、“戰術超級90 SBS”（戰術型超級90的短管版本）和“海軍陸戰型超級90”（未知）。
@@ -297,7 +297,7 @@ M4半自動霰彈槍可以通過伯奈利戰術購買可[槍托](../Page/槍托.
 
       - 2009年12月下號：[2009布鲁加-托梅警用武器展轻武器呈现(下)](https://web.archive.org/web/20150213090054/http://gdwap.dooland.com/article.php?id=24754)
       - 2012年3月上号：[第34届SHOT展轻武器精选（上）](http://www.qbq.com.cn/a/bencandy.php?fid=3&id=2717)
-      - 2012年12月下號：[欧洲萨托利防务展上的轻武器](http://www.xzbu.com/8/view-3808969.htm)
+      - 2012年12月下號：[欧洲萨托利防务展上的轻武器](https://web.archive.org/web/20141202024200/http://www.xzbu.com/8/view-3808969.htm)
 
 ## 外部連結
 

@@ -38,8 +38,8 @@ Mk 2手榴彈採用[TNT作爆炸填充物](https://zh.wikipedia.org/wiki/TNT "wi
 
 ## 相關條目
 
+  - [M26手榴彈](../Page/M26手榴彈.md "wikilink")
   - [M67手榴彈](../Page/M67手榴彈.md "wikilink")
-  - [M61手榴彈](https://zh.wikipedia.org/wiki/M61手榴彈 "wikilink")
 
 ## 參考資料
 

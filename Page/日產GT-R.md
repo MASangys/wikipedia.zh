@@ -211,7 +211,7 @@ GT-R50 by Italdesign以2017年式GT-R Nismo為藍本，Italdesign在外型上進
       - 台灣售價（台幣/萬）： 490～640
       - 香港售價（港元/萬）： 100～180
       - 中國大陸售價（人民幣/萬）： 160\[27\]
-      - 产量：2500台每年*（美国）*
+      - 产量：每年2500台*（美国）*
 
 ## 比赛
 
@@ -240,60 +240,32 @@ GT-R50 by Italdesign以2017年式GT-R Nismo為藍本，Italdesign在外型上進
 [Category:2007年面世的汽車](https://zh.wikipedia.org/wiki/Category:2007年面世的汽車 "wikilink") [Category:日產車輛](https://zh.wikipedia.org/wiki/Category:日產車輛 "wikilink") [Category:跑车](https://zh.wikipedia.org/wiki/Category:跑车 "wikilink") [Category:中置引擎](https://zh.wikipedia.org/wiki/Category:中置引擎 "wikilink") [Category:四輪驅動](https://zh.wikipedia.org/wiki/Category:四輪驅動 "wikilink") [Category:雙門轎跑車](https://zh.wikipedia.org/wiki/Category:雙門轎跑車 "wikilink") [Category:豪華旅行車](https://zh.wikipedia.org/wiki/Category:豪華旅行車 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  《名車志》2009年
-
 5.  ["NISMO NEWS RELEASE"（日文）.](http://www.nismo.co.jp/news_list/2008/news_flash/080005.html)
-
 6.  ["NISMO NEWS RELEASE"（日文）](http://www.nismo.co.jp/news_list/2008/news_flash/080005_1.html)
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
-
 14.
-
 15. [Ultimate Nissan GT-R](http://www.autoexpress.co.uk/news/autoexpressnews/216951/ultimate_nissan_gtr.html)
-
 16. [日產香港：全新日產GT-R隆重登場](http://www.nissan.com.hk/tc/web/news/All_New_Nissan_GT-R.htm)
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
-27. [有赞有弹GTR—型车杂志—无敌改装网—汽车改装最强中文原创门户](http://www.modi-auto.com.cn/html/ModiCar/Special/5309/index5.htm)
-
+27.
 28. ["「NISSAN GT-R」がSUPER GTに参戦"（日文）. Nissan Motorsports.](http://www.nismo.co.jp/M_SPORTS/news/070009.html).
-
 29. [Autocar - Meet the V8 Nissan GT-R](http://www.autocar.co.uk/News/NewsArticle/Nissan-GT-R/230696/)
-
-30. [有赞有弹GTR—型车杂志—无敌改装网—汽车改装最强中文原创门户](http://www.modi-auto.com.cn/html/ModiCar/Special/5309/index2.htm)
+30.

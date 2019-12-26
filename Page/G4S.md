@@ -6,7 +6,7 @@
 
 2001年12月17日　SecuricorG4S与怡和集团联合宣布，Securicor Plc已收购怡和集团于怡和保安—双方于亚洲的合资保安服务企业—之股份。Jardine Securicor的核心业务计划有：安保服务、押钞、贵重物品专递及储存服务及电子安全业务等，服务遍及文莱、中国、香港、印尼、澳门、马来西亚、泰国及台湾。Jardine S ecuricor拥有超过800辆安保车辆，并为亚洲各地2,000多部自动柜员机提供服务。此外，Jardine Securicor被誉为亚洲首屈一指的商业保全服务公司。 [HK_H\&M_Fashion_Shop_Grand_Open_Day_customers.jpg](https://zh.wikipedia.org/wiki/File:HK_H&M_Fashion_Shop_Grand_Open_Day_customers.jpg "fig:HK_H&M_Fashion_Shop_Grand_Open_Day_customers.jpg")物業管理員（**G4S**）\]\]
 
-2011年10月17日，G4S以52億英鎊（82億美元）收購丹麥[ISS集團](https://zh.wikipedia.org/wiki/ISS集團 "wikilink")。G4S稱將向ISS單一股東FS Invest II以一半現金一半股票的形式支付15.3億英鎊﹐相當於每股130丹麥克朗，並承擔後者36.7億英鎊的債務，總計將支付52億英鎊；此外，該公司還通過配股的方式籌資20億英鎊為該交易融資。
+2011年10月17日，G4S以52億英鎊（82億美元）收購丹麥[ISS集團](../Page/ISS集團.md "wikilink")。G4S稱將向ISS單一股東FS Invest II以一半現金一半股票的形式支付15.3億英鎊﹐相當於每股130丹麥克朗，並承擔後者36.7億英鎊的債務，總計將支付52億英鎊；此外，該公司還通過配股的方式籌資20億英鎊為該交易融資。
 
 2011年11月1日由於股東反對，英國G4S放棄了對[丹麥服務公司](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[ISS的收購](https://zh.wikipedia.org/wiki/ISS "wikilink")。
 
@@ -42,7 +42,5 @@ G4S目前在香港擁有以下公司：
 [Category:英國公司](https://zh.wikipedia.org/wiki/Category:英國公司 "wikilink") [Category:保全公司](https://zh.wikipedia.org/wiki/Category:保全公司 "wikilink") [Category:服務業](https://zh.wikipedia.org/wiki/Category:服務業 "wikilink")
 
 1.  [G4S: History](http://www.g4s.com/en/Who%20we%20are/History/)
-
 2.
-
 3.

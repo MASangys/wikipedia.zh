@@ -1925,8 +1925,6 @@ Park Chi Man</p></td>
 
 1.
 2.  VJump Books編集部著『遊戯王 10th Anniversary Animation Book』（集英社、2010年1月21日）135項
-
 3.  高橋和希著『遊☆戯☆王 文庫版21巻』（集英社、2008年3月18日）後記
-
 4.
 5.  [遊戲王5D's動畫官方網站](http://www.tv-tokyo.co.jp/anime/yugioh/)

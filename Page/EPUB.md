@@ -90,82 +90,50 @@ EPUB规范没有强制或推荐使用特定的[数字版权管理](../Page/数�
 
 #### Windows
 
-  - [Firefox](../Page/Firefox.md "wikilink") EpubReader擴充元件：EPUBReader是一個可以閱讀ePub格式文件的[Firefox](../Page/Firefox.md "wikilink")擴充程式。你無須安裝額外的軟體，在Firefox瀏覽器中便可閱讀ePub格式文件。
-
-  - [Google Chrome](../Page/Google_Chrome.md "wikilink") EpubReader擴充元件：EPUBReader是一個可以閱讀ePub格式文件的[Chrome擴充程式](../Page/Google_Chrome.md "wikilink")。
-
-  - [Google Chrome](../Page/Google_Chrome.md "wikilink") Readium擴充元件：Readium可以阅读网络上的epub文件，或者从你的电脑上选择一个epub文件。
-
-  - [FBReader](../Page/FBReader.md "wikilink")：可在Windows、Linux、macOS、iOS、Android，以及多種PDA上使用的開放原始碼閱讀軟體，支援多種檔案格式。
-
-  - [calibre](../Page/Calibre.md "wikilink")：一個自由開源的電子書軟體套裝，可以用來組織、存放以及管理電子書，支援大多數的電子書格式。同時也支援與許多流行的電子書閱讀器進行同步，並可能在数字版权管理的限制下轉換電子書的格式。
-
-  - [Mobipocket](../Page/Mobipocket.md "wikilink") ：PDA、智慧型手機和[電子書設備](https://zh.wikipedia.org/wiki/电子书 "wikilink")（[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink"), [Windows Mobile](../Page/Windows_Mobile.md "wikilink"), [Palm OS](../Page/Palm_OS.md "wikilink"), [webOS](https://zh.wikipedia.org/wiki/webOS "wikilink"), [Java ME](../Page/Java_ME.md "wikilink"), [BlackBerry](https://zh.wikipedia.org/wiki/BlackBerry "wikilink"), Psion, [Kindle](https://zh.wikipedia.org/wiki/Amazon_Kindle "wikilink") and iLiad），[Mobipocket](../Page/Mobipocket.md "wikilink")於2005年被[Amazon收購](https://zh.wikipedia.org/wiki/亚马孙 "wikilink")。
-
+  - [Microsoft Edge](../Page/Microsoft_Edge.md "wikilink") ：微軟為[Edge加入支持打開](../Page/Microsoft_Edge.md "wikilink")[EPUB](../Page/EPUB.md "wikilink")、[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink") 的功能。
   - [SumatraPDF](https://zh.wikipedia.org/wiki/SumatraPDF "wikilink")：Windows平台上一款免費閱讀器，支持打開PDF, ePub, MOBI, XPS, DjVu, CHM, CBZ和CBR格式。
-
   - [Universal Reader](https://zh.wikipedia.org/wiki/Universal_Reader "wikilink")（至善閱讀）：支持包括epub在內的多種格式單頁和雙頁真書模式閱讀，支持中文豎排，有漢語、英語、法語界面，完全免費。
-
-  -
-  - [Microsoft Edge](../Page/Microsoft_Edge.md "wikilink") ：微軟為[Edge加入的功能](../Page/Microsoft_Edge.md "wikilink")。
-
   - [Talking Clipboard](https://zh.wikipedia.org/wiki/Talking_Clipboard "wikilink")：文字轉換語音軟體，可讀出ePub書籍內容。
-
-  - [Lovelyreader](https://zh.wikipedia.org/wiki/Lovelyreader "wikilink")：瀏覽器與桌面（win、mac、linux）通用的epub閱讀軟體，支持中文直排與多欄版型，完全免費。
 
 #### Linux
 
-  - [Firefox](../Page/Firefox.md "wikilink") EpubReader擴充元件：EPUBReader是一個可以閱讀ePub格式文件的[Firefox](../Page/Firefox.md "wikilink")擴充程式。你無須安裝額外的軟體，在Firefox瀏覽器中便可閱讀ePub格式文件。
-  - [Google Chrome](../Page/Google_Chrome.md "wikilink") EpubReader擴充元件：EPUBReader是一個可以閱讀ePub格式文件的[Chrome擴充程式](../Page/Google_Chrome.md "wikilink")。
-  - [Google Chrome](../Page/Google_Chrome.md "wikilink") Readium擴充元件：Readium可以阅读网络上的epub文件，或者从你的电脑上选择一个epub文件。
-  - [calibre](../Page/Calibre.md "wikilink")：一個自由開源的電子書軟體套裝，可以用來組織、存放以及管理電子書，支援大多數的電子書格式。同時也支援與許多流行的電子書閱讀器進行同步，並可能在数字版权管理的限制下轉換電子書的格式。
-  - [FBReader](../Page/FBReader.md "wikilink")：可在Windows、Linux、macOS、iOS、Android，以及多種PDA上使用的開放原始碼閱讀軟體，支援多種檔案格式。
-  - [Lovelyreader](https://zh.wikipedia.org/wiki/Lovelyreader "wikilink")：瀏覽器與桌面（win、mac、linux）通用的epub閱讀軟體，支持中文直排與多欄版型，完全免費。
-  - [BookGlutton](https://zh.wikipedia.org/wiki/BookGlutton "wikilink")：以閱讀社群為主的免費線上ePub閱讀工具。
-
+  - [Okular](../Page/Okular.md "wikilink")：2005年[Google Summer of Code開發的專案](https://zh.wikipedia.org/wiki/Google_Summer_of_Code "wikilink")、以[KPDF](../Page/KPDF.md "wikilink")為基礎、並代替[KPDF](../Page/KPDF.md "wikilink")、KGhostView、KFax、KFaxview、與KDVI，成為[KDE 4的文件檢視器](https://zh.wikipedia.org/wiki/KDE_4 "wikilink")，支援下述檔案： [PDF](../Page/可移植文档格式.md "wikilink")、[PostScript](../Page/PostScript.md "wikilink")、[TIFF](../Page/TIFF.md "wikilink")、[CHM](../Page/微软HTML帮助集.md "wikilink")、[DjVu](../Page/DjVu.md "wikilink")、DVI、[XPS](../Page/XML纸张规范.md "wikilink")、[ODF](../Page/开放文档格式.md "wikilink")、[FictionBook](../Page/FictionBook.md "wikilink")、Comicbook、Plucker、[EPUB](../Page/EPUB.md "wikilink")、[Mobi](../Page/Mobipocket.md "wikilink") 。
+  -
 #### macOS
 
-  - [Firefox](../Page/Firefox.md "wikilink") EpubReader擴充元件：EPUBReader是一個可以閱讀ePub格式文件的[Firefox](../Page/Firefox.md "wikilink")擴充程式。你無須安裝額外的軟體，在Firefox瀏覽器中便可閱讀ePub格式文件。
-
-  - [Google Chrome](../Page/Google_Chrome.md "wikilink") EpubReader擴充元件：EPUBReader是一個可以閱讀ePub格式文件的[Chrome擴充程式](../Page/Google_Chrome.md "wikilink")。
-
-  - [Google Chrome](../Page/Google_Chrome.md "wikilink") Readium擴充元件：Readium可以阅读网络上的epub文件，或者从你的电脑上选择一个epub文件。
-
-  - [calibre](../Page/Calibre.md "wikilink")：一個自由開源的電子書軟體套裝，可以用來組織、存放以及管理電子書，支援大多數的電子書格式。同時也支援與許多流行的電子書閱讀器進行同步，並可能在数字版权管理的限制下轉換電子書的格式。
-
-  - [FBReader](../Page/FBReader.md "wikilink")：可在Windows、Linux、macOS、iOS、Android，以及多種PDA上使用的開放原始碼閱讀軟體，支援多種檔案格式。
-
   - [iBooks](https://zh.wikipedia.org/wiki/iBooks "wikilink")：Apple的電子書閱讀工具，支援書面材質、翻頁特效、標註、Spotlight、字典功能，能夠透過自家iBooks Store下載電子書。
-
-  -
   - [Murasaki](https://zh.wikipedia.org/wiki/Murasaki "wikilink")：[official site](http://genjiapp.com/mac/murasaki/index_en.html)
-
-  - [Lovelyreader](https://zh.wikipedia.org/wiki/Lovelyreader "wikilink")：瀏覽器與桌面（win、mac、linux）通用的epub閱讀軟體，支持中文直排與多欄版型，完全免費。
 
 #### iOS
 
   - [iBooks](https://zh.wikipedia.org/wiki/iBooks "wikilink")：Apple的電子書閱讀工具，支援書面材質、翻頁特效、標註、Spotlight、字典功能，能夠透過自家iBooks Store下載電子書。
-  - [BookU趣看書](https://zh.wikipedia.org/wiki/BookU趣看書 "wikilink")（iPad版）：即時繁簡互換，支持中文豎排，支持New iPad高解析度，ePub閱讀器免費使用。
-  - [sReader](https://zh.wikipedia.org/wiki/sReader "wikilink")（iPhone版）：於2012年1月11日作為iPhone和iPod touch的電子書閱讀器發布。
-  - [FBReader](../Page/FBReader.md "wikilink")：可在Windows、Linux、macOS、iOS、Android，以及多種PDA上使用的開放原始碼閱讀軟體，支援多種檔案格式。
-  - 京东读书
-  - 掌阅
-  - 得到APP
-  - [Bookworm](https://zh.wikipedia.org/wiki/Bookworm "wikilink") Free：線上ePub閱讀工具（亦適用於[行動設備](http://mobile.bookworm.oreilly.com)）。
+  - [BookU趣看書](https://zh.wikipedia.org/wiki/BookU趣看書 "wikilink")：即時繁簡互換，支持中文豎排，支持New iPad高解析度，ePub閱讀器免費使用。
+  - [sReader](https://zh.wikipedia.org/wiki/sReader "wikilink")：於2012年1月11日作為iPhone和iPod touch的電子書閱讀器發布。
 
 #### Android
 
-  - [Mantano Reader](https://zh.wikipedia.org/wiki/Mantano_Reader "wikilink")（Android版）：支持epub、pdf格式文件，对epub格式有相当完美的解析，是安卓系统极少的既能完全支持css又能支持多字体显示的epub阅读软件。
-  - [Moon+ Reader](https://zh.wikipedia.org/wiki/Moon+_Reader "wikilink")（Android版）：支持epub、txt格式文件，html、epub、umd、zip及多個在線書庫，支持翻頁效果，並可更換字型，支持注释导出。
-  - [iReader掌閱](https://zh.wikipedia.org/wiki/iReader掌閱 "wikilink")（Android版、iPhone版）：iReader是一款五星級閱讀軟件，支持EBK2/TXT/UMD/PDB/CHM/EPUB全主流閱讀格式。
-  - [Aldiko](https://zh.wikipedia.org/wiki/Aldiko "wikilink")（Android版）
-  - [掌上书苑](https://zh.wikipedia.org/wiki/掌上书苑 "wikilink")（Android版）：epub電子書閱讀軟件，支持從掌上書苑下載、閱讀數萬部epub格式電子書。
-  - [Anyview](https://zh.wikipedia.org/wiki/Anyview "wikilink")（Android版）：具有舒适页面阅读体验的知名阅读软件。
-  - [多看阅读](https://zh.wikipedia.org/wiki/多看阅读 "wikilink") （Android版）:专门针对epub的电子书阅读器，完美支持epub格式，可以实现图片全屏放大，弹出注释，还可以很方便的做笔记！
-  - [奇特阅读(Gitden Reader)](https://zh.wikipedia.org/wiki/奇特阅读\(Gitden_Reader\) "wikilink")（Android版、IOS版）：针对epub书籍推出的电子书阅读器，支持epub2.0规格标准，并且支持epub3.0最高规格。
+  - [Mantano Reader](https://zh.wikipedia.org/wiki/Mantano_Reader "wikilink")：支持epub、pdf格式文件，对epub格式有相当完美的解析，是安卓系统极少的既能完全支持css又能支持多字体显示的epub阅读软件。
+  - [Moon+ Reader](https://zh.wikipedia.org/wiki/Moon+_Reader "wikilink")：支持epub、txt格式文件，html、epub、umd、zip及多個在線書庫，支持翻頁效果，並可更換字型，支持注释导出。
+  - [掌上书苑](https://zh.wikipedia.org/wiki/掌上书苑 "wikilink")：epub電子書閱讀軟件，支持從掌上書苑下載、閱讀數萬部epub格式電子書。
+  - [Anyview](https://zh.wikipedia.org/wiki/Anyview "wikilink")：具有舒适页面阅读体验的知名阅读软件。
+  - [多看阅读](https://zh.wikipedia.org/wiki/多看阅读 "wikilink") :专门针对epub的电子书阅读器，完美支持epub格式，可以实现图片全屏放大，弹出注释，还可以很方便的做笔记！
+  - [Reasily](https://zh.wikipedia.org/wiki/Reasily "wikilink")：支持 EPUB2 与 EPUB3 规格，包含 MathML 等。可同时开启多本书籍。反应速度快。可高亮，注释，并云同步至 Google 云端硬碟。可自订 CSS 与字型档。
+
+#### 跨平台
+
+  - [Firefox](../Page/Firefox.md "wikilink") EpubReader擴充元件：EPUBReader是一個可以閱讀ePub格式文件的[Firefox](../Page/Firefox.md "wikilink")擴充程式。你無須安裝額外的軟體，在Firefox瀏覽器中便可閱讀ePub格式文件。
+  - [Google Chrome](../Page/Google_Chrome.md "wikilink") EpubReader擴充元件：EPUBReader是一個可以閱讀ePub格式文件的[Chrome擴充程式](../Page/Google_Chrome.md "wikilink")。
+  - [Google Chrome](../Page/Google_Chrome.md "wikilink") Readium擴充元件：Readium可以阅读网络上的epub文件，或者从你的电脑上选择一个epub文件。
   - [FBReader](../Page/FBReader.md "wikilink")：可在Windows、Linux、macOS、iOS、Android，以及多種PDA上使用的開放原始碼閱讀軟體，支援多種檔案格式。
-  - [Reasily](https://zh.wikipedia.org/wiki/Reasily "wikilink")（Android版）：支持 EPUB2 与 EPUB3 规格，包含 MathML 等。可同时开启多本书籍。反应速度快。可高亮，注释，并云同步至 Google 云端硬碟。可自订 CSS 与字型档。
+  - [calibre](https://zh.wikipedia.org/wiki/calibre "wikilink")：一個自由開源的電子書軟體套裝，可以用來組織、存放以及管理電子書，支援大多數的電子書格式。同時也支援與許多流行的電子書閱讀器進行同步，並可能在数字版权管理的限制下轉換電子書的格式。
+  - [Mobipocket](../Page/Mobipocket.md "wikilink") ：[PC](../Page/个人电脑.md "wikilink")、[PDA](../Page/个人数码助理.md "wikilink")、[電子書設備](https://zh.wikipedia.org/wiki/电子书 "wikilink")（[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")、 [Windows Mobile](../Page/Windows_Mobile.md "wikilink")、 [Palm OS](../Page/Palm_OS.md "wikilink")、 [webOS](https://zh.wikipedia.org/wiki/webOS "wikilink")、[Java ME](../Page/Java_ME.md "wikilink")、 [BlackBerry](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")、 Psion、[Kindle](https://zh.wikipedia.org/wiki/Amazon_Kindle "wikilink") and iLiad），[Mobipocket](../Page/Mobipocket.md "wikilink")於2005年被[Amazon收購](../Page/亞馬遜公司.md "wikilink")。
+  - [Google Play圖書](../Page/Google_Play图书.md "wikilink")：用戶可以從[Google Play購買和下載](../Page/Google_Play.md "wikilink")[電子書](../Page/電子書.md "wikilink")，該服務提供超過500萬本[電子書](../Page/電子書.md "wikilink")，Google聲稱它是全球最大的電子書商店。用戶還可以向他們的Google Play圖書帳戶雲端儲存中上傳多達1000個[PDF或EPUB格式的電子書](https://zh.wikipedia.org/wiki/便携式文档格式 "wikilink")，並在多個裝置之間同步。但不支援上傳受到Google Play圖書 [數字著作權管理](../Page/数字版权管理.md "wikilink")（DRM）保護的電子書。
   - [Bookworm](https://zh.wikipedia.org/wiki/Bookworm "wikilink") Free：線上ePub閱讀工具（亦適用於[行動設備](http://mobile.bookworm.oreilly.com)）。
+  - Adobe Digital Editions：（Windows版、macOS版）這是一款免費軟體，可讓您從其他來源向 Kobo eReader 新增電子書。
+  - [奇特阅读(Gitden Reader)](https://zh.wikipedia.org/wiki/奇特阅读\(Gitden_Reader\) "wikilink")（Android版、IOS版）：针对epub书籍推出的电子书阅读器，支持epub2.0规格标准，并且支持epub3.0最高规格。
+  - [iReader掌閱](https://zh.wikipedia.org/wiki/iReader掌閱 "wikilink")（Android版、iPhone版）：iReader是一款五星級閱讀軟件，支持EBK2/TXT/UMD/PDB/CHM/EPUB全主流閱讀格式。
+  - [Lovelyreader](https://zh.wikipedia.org/wiki/Lovelyreader "wikilink")：瀏覽器與桌面（win、mac、linux）通用的epub閱讀軟體，支持中文直排與多欄版型，完全免費。
+  - [BookGlutton](https://zh.wikipedia.org/wiki/BookGlutton "wikilink")：以閱讀社群為主的免費線上ePub閱讀工具。
 
 ### Epub製作軟體
 
@@ -175,7 +143,6 @@ EPUB规范没有强制或推荐使用特定的[数字版权管理](../Page/数�
   - [LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")：開放的辦公室套裝軟體，在6.0版中增加「匯出為EPUB」之選項。支援Windows 、 Mac 及 Linux。
   - [calibre](https://zh.wikipedia.org/wiki/calibre "wikilink")：一個自由開源的電子書軟體套裝，可以用來組織、存放以及管理電子書，支援大多數的電子書格式。同時也支援與許多流行的電子書閱讀器進行同步，並可能在数字版权管理的限制下轉換電子書的格式。
   - [AZARDI ePub Desktop Reader](https://zh.wikipedia.org/wiki/AZARDI_ePub_Desktop_Reader "wikilink")（僅有Windows版）：內建epub編輯和重新壓縮打包功能。
-  - [eScape](https://zh.wikipedia.org/wiki/eScape "wikilink")：供自由軟體Open Office使用的epub製作工具；適用於Windows與Linux系統。
   - [epubBuilder](https://zh.wikipedia.org/wiki/epubBuilder "wikilink")：功能强大的epub电子书制作软件，多种格式导入。支持Stanza, Sony 505, Adobe DE等多种阅读器。
   - [EpubSTAR](https://zh.wikipedia.org/wiki/EpubSTAR "wikilink")：出色的epub轉換生成軟體，即word to epub和text to epub轉換程式。可以利用現成的word文檔（word 97/2003/2007/2010）或純文字的text文檔，自動生成epub格式電子書。其特色是簡單易學，一鍵轉換，操作方便。只需三步，就可製作一本成熟的印刷品質般的電子書，讓初學者也有機會體驗高品質電子書製作的機會。
   - [八千卷图片epub](https://zh.wikipedia.org/wiki/八千卷图片epub "wikilink")：提供在线生成epub格式的电子书，可以将图片、照片等导入加上文字说明生成电子书，以方便传阅，即时导入即时生成，支持ibook等多种阅读器。
@@ -196,48 +163,29 @@ EPUB规范没有强制或推荐使用特定的[数字版权管理](../Page/数�
 [Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink") [Category:自由文件格式](https://zh.wikipedia.org/wiki/Category:自由文件格式 "wikilink")
 
 1.  [EPUB 101](http://www.idpf.org/digitalbook09/Presentations/EPUB%20101.pdf)
-
 2.  [IDPF EPub常見問答](https://www.idpf.org/forums/viewtopic.php?t=22)
-
-3.  [國際數位出版論壇（IDPF）首頁](http://www.idpf.org/)
-
+3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
 15.
 16.
 17.
 18.
-
 19.
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
 27.

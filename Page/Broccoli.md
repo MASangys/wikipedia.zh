@@ -33,7 +33,6 @@
   - [新世紀福音戰士](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")
       -
       - 綾波育成計畫with明日香補完計畫
-
       - [新世紀福音戰士：Battle Orchestra](https://zh.wikipedia.org/wiki/新世紀福音戰士：Battle_Orchestra "wikilink")
   - Sweets團隊作品
       - [Gift -Prism-](https://zh.wikipedia.org/wiki/Gift_\(遊戲\) "wikilink")

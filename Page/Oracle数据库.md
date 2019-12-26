@@ -73,6 +73,7 @@ Oracle公司给数据库开发人员提供产生国际化的数据库应用程�
 ## 参见
 
   - [PL-SQL](../Page/PL-SQL.md "wikilink")
+  - [OceanBase](https://zh.wikipedia.org/wiki/OceanBase "wikilink")
 
 {{-}}
 

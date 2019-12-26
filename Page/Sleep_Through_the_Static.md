@@ -59,23 +59,15 @@
 [Category:傑克·強森音樂專輯](https://zh.wikipedia.org/wiki/Category:傑克·強森音樂專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink") [Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink")
 
 1.  Katie Hasty，["下載銷量推進強森第二次第一"](http://www.billboard.com/bbcom/news/article_display.jsp?vnu_content_id=1003710309)，Billboard.com ，2008年2月13日。
-
 2.  Katie Hasty，["強森依舊第一;Winehouse, Hancock Soar"](http://www.billboard.com/bbcom/news/article_display.jsp?vnu_content_id=1003712744)，Billboard.com，2008年2月20日。
-
 3.  Katie Hasty，["強森的「沉靜」(Static)再度躍上排行榜第一"](http://www.billboard.com/bbcom/news/article_display.jsp?vnu_content_id=1003716062)，billboard.com，2008年2月27日。
-
 4.  Katie Hasty，["Janet將傑克從Billboard 200趕下來了"](http://www.billboard.com/bbcom/news/article_display.jsp?vnu_content_id=1003719609)，billboard.com，2008年3月5日。
-
 5.  ["傑克·強森 - Sleep Through The Static的世界排行位置與軌跡"](http://acharts.us/album/33526)，*aCharts.us*，2008年2月15日查閱。
-
 6.
 7.  [CD銷售前30名](http://www.hot100brasil.com/chtalbums.html)
-
 8.  [加拿大前100排行榜](http://jam.canoe.ca/Music/Charts/ALBUMS.html)
-
 9.
 10. [希臘前50排行榜](http://www.ifpi.gr/chart04.htm)
-
 11.
 12.
 13.
@@ -84,9 +76,6 @@
 16.
 17.
 18. [澳洲唱片工業協會](http://www.ariacharts.com.au/pages/charts_display.asp?chart=1G50)
-
 19. [1](http://www.bpi.co.uk/platinum/platinum.html)
-
 20. [最新白金專輯認證](http://www.billboard.com/bbcom/riaa/index.jsp)
-
 21. [世界排行榜](http://www.mediatraffic.de/albums.htm)

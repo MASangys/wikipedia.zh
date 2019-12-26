@@ -1,4 +1,4 @@
-**SIG SG 550**（Sturmgewehr 90）是由[Swiss Arms AG](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")（前身為SIG Arms AG）設計及製造的[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。在多种突擊步槍中被認為是最準確的。SG 550使用折疊式[槍托](../Page/槍托.md "wikilink")，附帶可折式腳架，槍機設計與[AK-47類似](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")，半透明彈匣。在法語稱為**Fass 90**（**F**usil d**ass**aut **90**），德語稱為**Stgw 90**（**St**urm**g**e**w**ehr **90**）。
+**SIG SG 550**（Sturmgewehr 90）是由[Swiss Arms AG](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")（前身為SIG Arms AG）設計及製造的[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。在多种突擊步槍中被認為是最準確的。SG 550使用折疊式[槍托](../Page/槍托.md "wikilink")，附帶可折式腳架，槍機設計與[AK類似](https://zh.wikipedia.org/wiki/卡拉什尼科夫自動步槍 "wikilink")，半透明彈匣。在法語稱為**Fass 90**（**F**usil d**ass**aut **90**），德語稱為**Stgw 90**（**St**urm**g**e**w**ehr **90**）。
 
 ## 發展
 
@@ -12,7 +12,7 @@
 
 ### 內部結構
 
-基本上，SG 550/551/552/553系列為SG-540/541的改進型，其結構與[FN FNC和](../Page/FN_FNC突擊步槍.md "wikilink")[AK-47較為相似](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")，該槍採用長行程導氣活塞的自動方式，活塞桿與機框相連，槍機頭有兩個大型閉鎖凸耳。但不同的是，SG 550/551/553的複進簧是繞在活塞桿上，位於槍管上方。而槍管和活塞桿都很短的SG 552則把復進簧移到[機匣後面](https://zh.wikipedia.org/wiki/機匣 "wikilink")，位於機框內部的上方。這樣的複進簧位置可能使其受到的導氣活塞和活塞筒的極端工作溫度影響，縮短了彈簧的使用壽命，但瑞士軍隊通過試驗認為這樣的設計有利於提供連發射擊的精度。
+基本上，SG 550/551/552/553系列為SG-540/541的改進型，其結構與[FN FNC和](../Page/FN_FNC突擊步槍.md "wikilink")[AK較為相似](https://zh.wikipedia.org/wiki/卡拉什尼科夫自動步槍 "wikilink")，該槍採用長行程導氣活塞的自動方式，活塞桿與機框相連，槍機頭有兩個大型閉鎖凸耳。但不同的是，SG 550/551/553的複進簧是繞在活塞桿上，位於槍管上方。而槍管和活塞桿都很短的SG 552則把復進簧移到[機匣後面](https://zh.wikipedia.org/wiki/機匣 "wikilink")，位於機框內部的上方。這樣的複進簧位置可能使其受到的導氣活塞和活塞筒的極端工作溫度影響，縮短了彈簧的使用壽命，但瑞士軍隊通過試驗認為這樣的設計有利於提供連發射擊的精度。
 
 與AK系列步槍不同的是，SG 550的活塞頭有自動關閉功能，當進入導氣箍內的少量火藥氣體推動活塞後坐，使機框後坐的時候，活塞頭又會暫時關閉導氣孔，減少了進入導氣管中的氣體，而且導氣管上有一個向外排泄多餘氣體的氣孔，因此導氣管中的氣體量有限，這樣可避免活動部件的劇烈運動。在導氣箍上還有氣體調節器，有兩個大小不同的導氣量和一個關閉檔位（後者用於發射[槍榴彈](../Page/步槍用榴彈.md "wikilink")）。
 
@@ -44,6 +44,8 @@ SG 550系列的主要優點是精度高及可靠性優異。而其主要的缺�
   -   - 特警單位（SG551-2P-SWAT）
 
   -   - [巴西聯邦警察](https://zh.wikipedia.org/wiki/巴西聯邦警察 "wikilink")（SG550、SG551）
+
+      - （SG 551）
 
   -
   -

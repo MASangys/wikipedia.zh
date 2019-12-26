@@ -171,170 +171,91 @@ Windows\[80\]是除Mac OS X\[81\]外另一个得到WebKit.org官方支持的版�
 [Category:Webkit衍生軟體](https://zh.wikipedia.org/wiki/Category:Webkit衍生軟體 "wikilink") [Category:自由排版引擎](https://zh.wikipedia.org/wiki/Category:自由排版引擎 "wikilink") [Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
 11.
-
 12. KWQ（讀作「quack」）是an implementation of the subset of Qt required to make KHTML work on OS X。它is written in Objective C++。
-
 13.
-
 14.
-
 15. [The bitter failure named "safari and khtml"](http://www.kdedevelopers.org/node/1002)
-
 16. [Open-source divorce for Apple's Safari?](http://news.cnet.com/Open-source-divorce-for-Apples-Safari/2100-1032_3-5703819.html)
-
 17. [WebCore – KHTML – Firefox: Know your facts\!](http://www.kdedevelopers.org/node/1049)
-
 18. [Konqueror now passes Acid2](https://blogs.kde.org/node/1129)
-
 19.
-
 20. [Ars at WWDC: Interview with Lars Knoll, creator of KHTML](http://arstechnica.com/journals/apple.ars/2007/06/12/ars-at-wwdc-interview-with-lars-knoll-creator-of-khtml)
-
 21.
-
 22. [KDE Development Platform 4.5.0 gains performance, stability, new high-speed cache and support for WebKit](http://kde.org/announcements/4.5/platform.php)
-
 23.
 24. [Next Generation KDE Technologies Ported to WebCore](http://dot.kde.org/1121021917/)
-
 25. [*CSS Transforms*](http://webkit.org/blog/130/css-transforms/)
-
 26. [*CSS3 Animations*](http://dev.w3.org/csswg/css3-animations/)
-
 27. [*HTML5 Media Support*](http://webkit.org/blog/140/html5-media-support/) by Antti Koivisto, *Surfin' Safari* blog, November 12, 2007
-
 28. [Announcing SquirrelFish](http://webkit.org/blog/189/announcing-squirrelfish/)
-
 29. [SquirrelFish project](http://trac.webkit.org/wiki/SquirrelFish)
-
 30. [Introducing SquirrelFish Extreme](http://webkit.org/blog/214/introducing-squirrelfish-extreme/)
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
 36. [300 million users and move to WebKit](https://web.archive.org/web/20130214043259/http://my.opera.com/ODIN/blog/300-million-users-and-move-to-webkit)
-
 37. [Nokia S60 Webkit Browser](http://opensource.nokia.com/projects/S60browser/)
-
 38. [Google Chrome, Google’s Browser Project](http://blogoscoped.com/archive/2008-09-01-n47.html)
-
 39. [Comic describing the Google Chrome Project](http://www.google.com/googlebooks/chrome/)
-
 40.
-
 41. [Epiphany Mailing list – *Announcement: The Future of Epiphany*](http://mail.gnome.org/archives/epiphany-list/2008-April/msg00000.html)
-
 42.
-
 43. [A Brand New Steam](http://store.steampowered.com/uiupdate/)
-
 44.
-
 45.
-
 46.
-
 47.
-
 48. [Android Uses WebKit](http://webkit.org/blog/142/android-uses-webkit/)
-
 49. [Palm Pre in-depth impressions, video, and huge hands-on gallery](http://www.engadget.com/2009/01/08/palm-pre-in-depth-impressions-video-and-huge-hands-on-gallery/)
-
 50.
-
 51. [Syllable WebKit Port, Syllable Server](http://www.osnews.com/story.php/18165/Syllable-WebKit-Port-Syllable-Server/)
-
 52.
-
 53. [Cow launched\! |Robert Norris’ Blog on porting WebKit to AROS](http://cataclysm.cx/2008/02/18/cow-launched/)
-
 54. [WebKitGTK+ project website](http://webkitgtk.org/)
-
 55. [Alp Toker – WebKit/Gtk+ is coming](http://www.atoker.com/blog/2007/06/12/webkitgtk-is-coming/)
-
 56. [QT WebKit](http://www.qtsoftware.com/products/library/modular-class-library#info_webkit)
-
 57. [WebKitClutter project website](http://trac.webkit.org/wiki/clutter)
-
 58.
 59.
-
 60. [pleyo](http://www.pleyo.org)
-
 61. [See OWB forge](http://www.sand-labs.org/owb)
-
 62. [AmigaOS OWB official page](http://strohmayer.org/)
-
 63.
-
 64. [AROS OWB developer page](http://sszymczy.rootnode.net/index.php?menu=projects&submenu=owb)
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
 71. [The WebKit Open Source Project – JavaScript](http://webkit.org/projects/javascript/index.html)
-
 72.
-
 73.
 74.
 75.
 76. WebKit.org [Drosera](http://trac.webkit.org/projects/webkit/wiki/Drosera) wiki article
-
 77.
-
 78.
-
 79. [DeadLink](http://developer.apple.com/safari/mobile.php)
-
 80. [Deadlink](http://nightly.webkit.org/builds/trunk/win/1)
-
 81. [Archived Nightly Builds of Trunk](http://nightly.webkit.org/builds/trunk/mac/1)
-
 82. [Deadlink](http://labs.trolltech.com/page/Projects/Internet/WebKit)
-
 83. [關於Avant瀏覽器](http://browser.avantforce.com/)
-
 84. [Lunascape - simple easy to use multi-featured web browser](http://www.lunascape.tv/)
-
 85. [Fenrir Inc. - Free Sleipnir Web browser](http://www.fenrir-inc.com/jp/sleipnir/note.html)
-
 86. [搜狗高速浏览器首页](http://ie.sogou.com/?f=pinyingw)
-
 87. [QQ浏览器官方网站](http://browser.qq.com)
-
 88. [Opera網誌：每月三億用戶及轉用Webkit](https://web.archive.org/web/20130213134814/http://my.opera.com/haavard/blog/2013/02/13/webkit)，2013年2月13日
-
 89. [Opera月活躍用戶數突破三億大關，將轉向WebKit引擎](http://chinese.engadget.com/2013/02/13/opera-300-million-webkit-switch/)，2013年2月14日

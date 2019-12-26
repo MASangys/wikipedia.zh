@@ -125,6 +125,14 @@
 
 人工量產iDOL，由AI操控，不需要駕駛員。
 
+## 制作緣由
+
+2005年「街機版 THE IDOLM@STER」剛開始時，運營方 NAMCO 不能預知市場接受度、在企劃時就想藉著[跨媒體來宣傳](https://zh.wikipedia.org/wiki/跨媒體 "wikilink")「THE IDOLM@STER」。恰巧當時 NAMCO 正在和 Bandai 協調雙方合併。在此繁忙背景下，運營方 NAMCO 只向負責制作動畫、隸屬於 Bandai 的[日昇動畫](../Page/日昇動畫.md "wikilink")提出關鍵字「THE IDOLM@STER」，之後就完全放手讓[日昇動畫](../Page/日昇動畫.md "wikilink")自由發揮。[日昇動畫](../Page/日昇動畫.md "wikilink")在不了解 THE IDOLM@STER 是什麼的狀況下、將它做成己方擅長的機器人動畫。
+
+遊戲運營方 NAMCO 接著因為忙著發展「Xbox 360版 THE IDOLM@STER」，無暇兼顧動畫的制作過程。運營方和動畫制作方真正碰面，是在動畫制作已經接近尾聲的「THE IDOLM@STER XENOGLOSSIA」第1話試映會時。後來只好將這部偏離「THE IDOLM@STER」旨趣、已經制作完成的動畫，按原定的日期在2007年播映。
+
+符合「THE IDOLM@STER」旨趣、真正意義上的動畫版則是這之後2011年才播映。
+
 ## 制作人员
 
   - 原案：[NAMCO](https://zh.wikipedia.org/wiki/NAMCO "wikilink")「THE IDOLM@STER」より

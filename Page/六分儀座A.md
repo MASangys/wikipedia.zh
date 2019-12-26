@@ -13,15 +13,11 @@
 [Category:矮星系](https://zh.wikipedia.org/wiki/Category:矮星系 "wikilink") [Category:不规则星系](https://zh.wikipedia.org/wiki/Category:不规则星系 "wikilink") [Category:低表面亮度星系](https://zh.wikipedia.org/wiki/Category:低表面亮度星系 "wikilink") [Category:六分儀座](https://zh.wikipedia.org/wiki/Category:六分儀座 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.

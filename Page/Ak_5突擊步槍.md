@@ -2,9 +2,9 @@
 
 ## 設計及歷史
 
-Ak 5 與 [FN FNC](../Page/FN_FNC突擊步槍.md "wikilink") 的內部設計相同，採用 30 發 M16 標準彈匣（又稱[STANAG彈匣](../Page/STANAG彈匣.md "wikilink")），可半自動及全自動發射，所有衍生型皆可裝上 [M203榴彈發射器](../Page/M203榴彈發射器.md "wikilink")，Ak 5/FNC 的導氣系統是基於 [AK-47](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink") 改進而成，但比 AK-47 現代化。
+Ak 5 與 [FN FNC](../Page/FN_FNC突擊步槍.md "wikilink") 的內部設計相同，採用30發M16標準彈匣（又稱[STANAG彈匣](../Page/STANAG彈匣.md "wikilink")），可半自動及全自動發射，所有衍生型皆可裝上[M203榴彈發射器](../Page/M203榴彈發射器.md "wikilink")，Ak 5/FNC 的導氣系統是基於[AK改進而成](https://zh.wikipedia.org/wiki/卡拉什尼科夫自動步槍 "wikilink")，但比AK現代化。
 
-7.62×51mm 口徑的 [Ak 4](../Page/Ak_4自動步槍.md "wikilink") 存在着重量大、體積大、後座力大等的缺點，瑞典在 1970 年代中期尋求取代 Ak 4 的小口徑步槍，入選的是仿自以色列Galil的 FFV890C 及 FNC，瑞典最後選擇了 FNC，改良後命名 Ak 5. 其實有一些原理彷制了西德的HK G 3半自動步槍
+7.62×51mm口徑的[Ak 4存在着重量大](../Page/Ak_4自動步槍.md "wikilink")、體積大、後座力大等的缺點，瑞典在1970年代中期尋求取代Ak 4 的小口徑步槍，入選的是仿自以色列Galil的 FFV890C及FNC，瑞典最後選擇了FNC，改良後命名Ak 5。另有一些原理是仿自西德的[HK G3自動步槍](../Page/HK_G3自動步槍.md "wikilink")。
 
 ## 衍生型
 
@@ -75,7 +75,7 @@ CGA5C2（）是用於替代原型Ak 5的所推出測驗型。
 
 [Swedish_Soldiers_Aiming.jpg](https://zh.wikipedia.org/wiki/File:Swedish_Soldiers_Aiming.jpg "fig:Swedish_Soldiers_Aiming.jpg")
 
-  - －被海軍特种部隊蛙人兵團所採用。
+  -   - 海軍蛙人兵團
 
   -
   -
@@ -109,5 +109,4 @@ CGA5C2（）是用於替代原型Ak 5的所推出測驗型。
 [Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink") [Category:瑞典槍械](https://zh.wikipedia.org/wiki/Category:瑞典槍械 "wikilink")
 
 1.  [The Swedish AK 5 Rifle Upgrade Program(PDF)](http://www.dtic.mil/ndia/2006smallarms/arvidsson2.pdf)
-
 2.

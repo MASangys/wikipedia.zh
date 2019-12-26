@@ -19,9 +19,6 @@
 [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink") [Category:免費遊戲](https://zh.wikipedia.org/wiki/Category:免費遊戲 "wikilink") [Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink") [Category:回合制策略遊戲](https://zh.wikipedia.org/wiki/Category:回合制策略遊戲 "wikilink") [Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink")
 
 1.  [Crimson Fields - About](http://crimson.seul.org/about.php)
-
 2.  [Crimson Fields - Downloads](http://crimson.seul.org/download.php)
-
 3.  Crimson Fields [manual](http://crimson.seul.org/docs/crimson.html)
-
 4.

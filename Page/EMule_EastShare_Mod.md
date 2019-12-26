@@ -25,6 +25,6 @@
   - [eMule官方网站](http://www.emule-project.net/)
   - [EastShare主頁](http://eastshare.ml/)
   - [EastShare論壇](https://web.archive.org/web/20081204022926/http://www.eastshare.tw/)
-  - [emulefans.com（电骡爱好者）blog上的EastShare页面](http://emulefans.com/news/emule/eastshare/)
+  - [emulefans.com（电骡爱好者）blog上的EastShare页面](https://web.archive.org/web/20100705124751/http://emulefans.com/news/emule/eastshare/)
 
 [Category:eMule](https://zh.wikipedia.org/wiki/Category:eMule "wikilink")

@@ -128,30 +128,17 @@
 [Category:2009年台灣建立](https://zh.wikipedia.org/wiki/Category:2009年台灣建立 "wikilink") [Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink") [Category:2011年建立的網站](https://zh.wikipedia.org/wiki/Category:2011年建立的網站 "wikilink") [Category:總部位於臺北市大安區的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於臺北市大安區的工商業機構 "wikilink") [Category:台灣新聞網站](https://zh.wikipedia.org/wiki/Category:台灣新聞網站 "wikilink")
 
 1.
-
 2.
-
 3.  部落小工，[〈當ETtoday接上bloguide〉](http://blog.nownews.com/article.php?bid=119&tid=19998) ，《Bloguide》2006年5月16日。原文現存於[今日新聞網部落格](https://zh.wikipedia.org/wiki/今日新聞網 "wikilink")（blog.nownews.com）。
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.

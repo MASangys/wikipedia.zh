@@ -11,12 +11,6 @@
 
 ## 參考資料
 
-<div class="references-small">
-
-<references/>
-
-</div>
-
 [Category:遥远星系](https://zh.wikipedia.org/wiki/Category:遥远星系 "wikilink") [Category:后发座](https://zh.wikipedia.org/wiki/Category:后发座 "wikilink")
 
 1.  McMahon, R. (2006). *Journey to the birth of the Universe*. *Nature*: vol. 443, issue of September 14, 2006.

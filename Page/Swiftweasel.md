@@ -73,18 +73,13 @@ Swiftweasel工程同样也编译了为32和64位优化过和[Thunderbird邮件�
 [Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink") [Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
 
 1.  Using url of *<about:buildconfig>* to check the details of the all builds
-
 2.  Using url of *<about:buildconfig>* to check the details of the 2.0 builds
-
 3.
-
 4.
-
 5.
 6.
 7.
 8.
-
 9.
 10.
 11.

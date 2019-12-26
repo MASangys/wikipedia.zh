@@ -71,7 +71,7 @@ udev由[Greg Kroah-Hartman和](https://zh.wikipedia.org/wiki/Greg_Kroah-Hartman 
 
   - [udev和devfs的对比](https://web.archive.org/web/20071127023736/http://www.kernel.org/pub/linux/utils/kernel/hotplug/udev_vs_devfs)
 
-  - [Linux1394常见问题：在不同驱动器上创建设备节点要如何设置udev规则](http://www.linux1394.org/faq.php#udev)
+  - [Linux1394常见问题：在不同驱动器上创建设备节点要如何设置udev规则](https://web.archive.org/web/20071114171832/http://www.linux1394.org/faq.php#udev)
 
   - [udev教程](https://web.archive.org/web/20070928142915/http://www.linuxformat.co.uk/pdfs/LXF66.tut_udev.pdf)
 

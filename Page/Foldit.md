@@ -43,10 +43,7 @@ Foldit嘗試利用人腦天生的三維图形匹配能力。目前該程式出�
 [Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink") [Category:Mac_OS游戏](https://zh.wikipedia.org/wiki/Category:Mac_OS游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:益智游戏](https://zh.wikipedia.org/wiki/Category:益智游戏 "wikilink") [Category:蛋白质结构](https://zh.wikipedia.org/wiki/Category:蛋白质结构 "wikilink") [Category:计算生物学](https://zh.wikipedia.org/wiki/Category:计算生物学 "wikilink")
 
 1.
-
 2.  <https://www.nature.com/articles/nature09304>
-
 3.
 4.
-
 5.

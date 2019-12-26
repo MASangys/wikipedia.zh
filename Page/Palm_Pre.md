@@ -70,25 +70,15 @@ Palm为需要与桌面软件（比如[Palm Desktop](https://zh.wikipedia.org/wik
 [Category:智能手机](https://zh.wikipedia.org/wiki/Category:智能手机 "wikilink") [Category:触控手机](https://zh.wikipedia.org/wiki/Category:触控手机 "wikilink") [Category:Palm公司](https://zh.wikipedia.org/wiki/Category:Palm公司 "wikilink") [Category:2009年面世的產品](https://zh.wikipedia.org/wiki/Category:2009年面世的產品 "wikilink")
 
 1.
-
 2.
-
 3.  [CES 2009 - Consumer Electronics Show - Best of CES Awards: Nominees](http://ces.cnet.com/best-of-ces/)  - CNET.com
-
 4.  [Palm Pre Wins CNET Best of CES Awards](http://www.palminfocenter.com/news/9679/palm-pre-wins-cnet-best-of-ces-awards/) Posted By: Kris Keilhack Saturday, January 10, 2009
-
 5.
-
 6.
-
 7.
 8.  [Palm Pre - Touchstone™ Charging Kit](http://www.palm.com/us/products/accessories/dock.html)  - Palm.com Shop
-
 9.
 10.
-
 11.
-
 12.
-
 13.

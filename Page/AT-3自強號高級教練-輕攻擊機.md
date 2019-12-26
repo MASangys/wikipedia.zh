@@ -1,6 +1,6 @@
 **AIDC AT-3**是[中華民國空軍](../Page/中華民國空軍.md "wikilink")現役的高級[教練](../Page/教練機.md "wikilink")／[輕攻擊機](https://zh.wikipedia.org/wiki/攻擊機 "wikilink")，由[中山科學研究院](https://zh.wikipedia.org/wiki/中山科學研究院 "wikilink")[航空工業發展中心](https://zh.wikipedia.org/wiki/航空工業發展中心 "wikilink")（Aerospace Industrial Development Corporation, AIDC，現已改制為[漢翔航空工業股份有限公司](https://zh.wikipedia.org/wiki/漢翔航空工業股份有限公司 "wikilink")）與[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[諾斯諾普](https://zh.wikipedia.org/wiki/諾斯諾普 "wikilink")（Northrop）公司（購併[格魯曼](https://zh.wikipedia.org/wiki/格魯曼 "wikilink")（Grumman）公司後，改名為[諾斯諾普·格魯曼](https://zh.wikipedia.org/wiki/諾斯諾普·格魯曼 "wikilink")（Northrop Grumman）公司）合作研發，共生產65架。
 
-AT-3的AT是Advanced Training，3是代表航發中心自力設計、生產的第三種軍用機。
+AT-3的AT是Attack(攻擊)，Trainer(教練機)，因此AT-3除了平時教練用途外，戰時也可擔任輕攻擊,對地炸射等任務
 
 本機被命名為**「自強」**（Tzu Chung），其意為『自強不息』(其研發生產的背景時空歷經退出[聯合國](https://zh.wikipedia.org/wiki/聯合國 "wikilink")、中美斷交，當時掀起自製武備與捐款建軍風潮([自強救國基金](https://zh.wikipedia.org/wiki/自強救國基金 "wikilink"))，出現陸軍M48A3戰車自強連、海軍飛彈快艇自強中隊、空軍F-5E/F戰鬥機自強中隊)
 
@@ -352,9 +352,7 @@ AT-3武器酬載能力為5,998磅（2,727公斤），A-3攻擊機武器酬載能
 [Category:中華民國軍用教練機](https://zh.wikipedia.org/wiki/Category:中華民國軍用教練機 "wikilink") [Category:中華民國空軍攻擊機](https://zh.wikipedia.org/wiki/Category:中華民國空軍攻擊機 "wikilink") [Category:雙發噴射機](https://zh.wikipedia.org/wiki/Category:雙發噴射機 "wikilink")
 
 1.  虹翔一號為T-CH-1[中興號教練機](../Page/中興號教練機.md "wikilink")開發代號，虹翔三號則是[XC-2運輸機開發代號](https://zh.wikipedia.org/wiki/XC-2運輸機 "wikilink")
-
 2.  [XA-3雷鳴機 首飛30週年](http://www.cna.com.tw/News/aIPL/201207150019.aspx) （中央社、2012年7月15日）
-
 3.
 4.
 5.
@@ -362,11 +360,7 @@ AT-3武器酬載能力為5,998磅（2,727公斤），A-3攻擊機武器酬載能
 7.
 8.
 9.  [雷鳴30年前首飛 茶會變酒會](https://tw.news.yahoo.com/%E9%9B%B7%E9%B3%B430%E5%B9%B4%E5%89%8D%E9%A6%96%E9%A3%9B-%E8%8C%B6%E6%9C%83%E8%AE%8A%E9%85%92%E6%9C%83-023913175.html)（Yahoo奇摩新聞轉載中央社、2012年7月16日）
-
 10.
-
 11.
-
 12.
-
 13.

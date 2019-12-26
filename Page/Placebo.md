@@ -176,24 +176,14 @@
 [Category:另類搖滾樂團](https://zh.wikipedia.org/wiki/Category:另類搖滾樂團 "wikilink") [Category:英國搖滾樂團](https://zh.wikipedia.org/wiki/Category:英國搖滾樂團 "wikilink") [Category:LGBT音樂團體](https://zh.wikipedia.org/wiki/Category:LGBT音樂團體 "wikilink") [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink") [Category:1994年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1994年成立的音樂團體 "wikilink") [Category:1994年英格蘭建立](https://zh.wikipedia.org/wiki/Category:1994年英格蘭建立 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.

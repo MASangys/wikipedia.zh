@@ -231,48 +231,26 @@
 [Category:電子遊戲列表](https://zh.wikipedia.org/wiki/Category:電子遊戲列表 "wikilink") [Category:Wii](https://zh.wikipedia.org/wiki/Category:Wii "wikilink")
 
 1.  Nintendo（2006年9月14日）[Nintendo's Incomparable Wii Console Launches Nov. 19; MSRP -{zh-cn:￥; zh-hant:$;}-250.00](http://www.nintendo.com/newsarticle?articleid=aT85VZmuLFtGkO9m1HSsJ2PdSlh7Sc0b&page=) ，*Nintendo.com*
-
 2.  CNW Group（2006年9月17日）[Nintendo's Incomparable Wii Console Launches Nov. 19; MSRP -{zh-cn:￥; zh-hant:$;}-279.95](http://www.newswire.ca/en/releases/archive/September2006/14/c6047.html) ，*Newswire.ca*
-
 3.
-
 4.  ZMART [Wii](http://www.zmart.cl/Scripts/prodView.asp?idProduct=2184)
-
 5.  NintendoLife.com（2006年12月2日），[Brazilian Wii to cost over USD 1,100](http://www.nintendolife.com/articles/2006/11/07/brazilian_wii_to_cost_over_usd1100)，*nintendolife.com*
-
 6.  Kathleen Sanders（2006年9月13日）[Japanese Wii Price, Release Date Revealed](http://wii.ign.com/articles/732/732644p1.html) ，*IGN.com*
-
 7.  Nintendo（2006年9月15日）[Wii Australian details](http://www.planetgamecube.com/newsArt.cfm?artid=12068)，*Planetgamecube.com*
-
 8.
-
 9.  Nintendo（2006年11月4日）[1](http://ms.nintendo-europe.com/wii/?site=pr_virtualconsole.html&l=itIT)，*Wii.com*
-
 10.
-
 11. Planet GameCube（2006年9月15日）[Europe Gets Wii Last](http://www.nintendoworldreport.com/newsArt.cfm?artid=12069)，*Planetgamecube.com*
-
 12.
 13.
-
 14. Hardware.no - Prisguide ，*Hardware.no*
-
 15. Hardware.no - Prisguide [2](http://prisguide.hardware.no/product.php?productId=31928), *hardware.no*
-
 16.
-
 17.
-
 18. Nintendo.com（2006年11月4日）[Wii](http://ms.nintendo-europe.com/wii/?l=esES)，*Wii.com*
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.

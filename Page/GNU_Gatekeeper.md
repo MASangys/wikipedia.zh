@@ -67,7 +67,5 @@ Jan Willamowius是目前計劃的協調人與維護者。
 [Category:VoIP軟體](https://zh.wikipedia.org/wiki/Category:VoIP軟體 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink") [Category:SourceForge專案](https://zh.wikipedia.org/wiki/Category:SourceForge專案 "wikilink") [Category:视频通讯](https://zh.wikipedia.org/wiki/Category:视频通讯 "wikilink")
 
 1.  [ICOS 2003論文](http://www.cwhuang.idv.tw/download/icos2003-paper.html)
-
 2.  [2003開放源碼競賽結案報告書](http://www.cwhuang.idv.tw/download/contest2003-report.pdf)
-
 3.

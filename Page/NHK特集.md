@@ -85,7 +85,7 @@
 ## 外部連結
 
   - [NHK特集](http://www.nhk.or.jp/special/)
-  - [（播放過的專題一覽）](https://web.archive.org/web/20070528192553/http://www.nhk.or.jp/archives/nhk-special/)
-  - [（播放過的專題一覽）](https://web.archive.org/web/20110927011938/http://www.nhk.or.jp/archives/nhk-tokushu/)
+  - [（播放過的專題一覽）](https://web.archive.org/web/20070528192553if_/http://www.nhk.or.jp/archives/nhk-special/)
+  - [（播放過的專題一覽）](https://web.archive.org/web/20110927011938if_/http://www.nhk.or.jp/archives/nhk-tokushu/)
 
 [Category:NHK特集](https://zh.wikipedia.org/wiki/Category:NHK特集 "wikilink") [Category:橋田賞獲獎作品](https://zh.wikipedia.org/wiki/Category:橋田賞獲獎作品 "wikilink")

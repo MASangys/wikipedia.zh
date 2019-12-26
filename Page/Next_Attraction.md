@@ -8,24 +8,6 @@
 
 另外，這專輯原定於2008年10月初推出，但因洪卓立當時患上[肺積水而被迫延期](https://zh.wikipedia.org/wiki/肺積水 "wikilink")。
 
-## CD
+## 曲目列表
 
-1.  愛在通脹蔓延時
-2.  吃得到的葡萄也是酸的
-3.  男孩看見野玫瑰
-4.  陳友
-5.  憑甚麼愛你
-6.  很想和你在一起（電影‘很想和你在一起’ 主題曲）
-7.  阿曼的球場
-8.  一個人等咖啡
-9.  早熟
-10. 男孩看見野玫瑰（國語）
-
-## DVD
-
-1.  陳友 MV
-2.  憑甚麼愛你 MV
-3.  男孩看見野玫瑰 MV
-4.  男孩看見野玫瑰（國語）MV
-
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:洪卓立音樂專輯](https://zh.wikipedia.org/wiki/Category:洪卓立音樂專輯 "wikilink")
+[Category:洪卓立音樂專輯](https://zh.wikipedia.org/wiki/Category:洪卓立音樂專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

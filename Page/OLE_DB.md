@@ -25,7 +25,7 @@ OLE DB用一组抽象概念（包括数据源、会话、命令和行集）将�
 
   - [Microsoft](http://msdn.microsoft.com/data/)随MDAC和[JET工具包推出了一些OLE](https://zh.wikipedia.org/wiki/Jet_Database_Engine "wikilink") DB提供者
   - [Simba技术公司](http://www.simba.com/)推出了SimbaProvider，一个软件开发套件（SDK），用于建造自定义OLE提供者，通过OLAP访问多维数据库和星形数据库。
-  - [OpenLink Software](http://uda.openlinksw.com/oledb/)为许多[SQL](../Page/SQL.md "wikilink")数据库管理系统推出OLE DB提供者，也提供了OLE DB到ODBC和JDBC的桥接。
+  - [OpenLink Software](https://web.archive.org/web/20090826194206/http://uda.openlinksw.com/oledb/)为许多[SQL](../Page/SQL.md "wikilink")数据库管理系统推出OLE DB提供者，也提供了OLE DB到ODBC和JDBC的桥接。
   - [SQLSummit.com: OLE DB提供者目录](http://www.sqlsummit.com/oledbVen.htm)
   - [支持Interbase和Firebird的OLE DB提供者（支持14种数据库类型，有免费和高级两种版本）](http://www.ibprovider.com/)
 
@@ -41,4 +41,4 @@ OLE DB用一组抽象概念（包括数据源、会话、命令和行集）将�
 
 {{-}}
 
-[Category:数据库](https://zh.wikipedia.org/wiki/Category:数据库 "wikilink")
+[Category:数据库](https://zh.wikipedia.org/wiki/Category:数据库 "wikilink") [Category:数据库API](https://zh.wikipedia.org/wiki/Category:数据库API "wikilink")

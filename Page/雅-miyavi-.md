@@ -30,6 +30,9 @@
   - 2014年12月31日，為[SMAP](../Page/SMAP.md "wikilink")演奏「Top Of The World」而登上了日本[NHK電視台](https://zh.wikipedia.org/wiki/NHK "wikilink")[第65回NHK紅白歌合戰](../Page/第65回NHK紅白歌合戰.md "wikilink")。
   - 2015年4月15日，發行睽違兩年專輯『The Others』。
   - 2016年8月31日，發行睽違專輯『Fire Bird』。
+  - 2017年4月，發行精選輯『ALL TIME BEST "DAY 2"』\[1\]。
+  - 2018年4月3日，「MIYAVI “DAY 2” World Tour 2018 In Taipei」在三創舉行\[2\]\[3\]。
+  - 2019年，發行專輯『NO SLEEP TILL TOKYO』，專輯封面設計由人氣漫畫『東京喰種』作者石田翠所擔綱，並收錄由蜷川實花執導電影『Diner殺手餐廳』的主題曲、同時也是與東瀛新生代歌姬DAOKO首度合作的「千客萬來」為BONUS TRACK\[4\]。
 
 ## SINGLE 單曲
 
@@ -101,6 +104,7 @@
   - 2014年《[-{zh-tw:永不屈服; zh-hk:非凡生命歷; zh-cn:坚不可摧;}-](../Page/坚不可摧.md "wikilink")》飾演：渡邊睦裕
   - 2017年《[金剛：骷髏島](../Page/金剛：骷髏島.md "wikilink")》客串：碇 軍平(グンペイ・イカリ)
   - 2018年《[BLEACH：死神](https://zh.wikipedia.org/wiki/BLEACH：死神 "wikilink")》飾演：朽木白哉
+  - 2019年 《［［沉睡魔咒：恶魔夫人］］》
 
 ## 使用吉他
 
@@ -133,3 +137,8 @@
 ## 参考文献
 
 [Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:視覺系音樂家](https://zh.wikipedia.org/wiki/Category:視覺系音樂家 "wikilink") [Category:兵庫縣出身人物](https://zh.wikipedia.org/wiki/Category:兵庫縣出身人物 "wikilink") [Category:日裔混血儿](https://zh.wikipedia.org/wiki/Category:日裔混血儿 "wikilink") [Category:韓裔混血兒](https://zh.wikipedia.org/wiki/Category:韓裔混血兒 "wikilink") [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink") [Category:韓裔日本人](https://zh.wikipedia.org/wiki/Category:韓裔日本人 "wikilink")
+
+1.
+2.
+3.
+4.

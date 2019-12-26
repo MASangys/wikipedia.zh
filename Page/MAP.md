@@ -4,79 +4,89 @@
 
 ## 電腦
 
-  - [移动应用部分](../Page/移动应用部分.md "wikilink")（Mobile Application Part）, 一种手机网络协议
+  - [移动应用部分](../Page/移动应用部分.md "wikilink")（Mobile Application Part），一种手机网络协议
 
-  - Multiple Address and Port, a feature of  products
+  - 多地址和端口（Multiple Address and Port），产品的一种功能
 
-  - , a set of computer network communication protocols
+  - ，一组计算机网络通信协议
 
   -
-  - [藍牙規範](../Page/藍牙規範.md "wikilink")（Message Access Profile）：a Bluetooth profile for exchange of messages between devices
+  - [藍牙規範](../Page/藍牙規範.md "wikilink")（消息访问配置文件）：用于在设备之间交换信息的蓝牙配置文件
 
-  - , an IPv6 transition technology
+  - ，一种IPv6过渡技术
 
 ## 數學及程式
 
-  - [映射](https://zh.wikipedia.org/wiki/映射 "wikilink")（Map）
+  - ，并行计算中的一种习惯用法
 
-  - , used to apply a function to a list of values and return another list with the results
+  - ，用于将一个函数应用于一个值列表，并返回另一个带有结果的列表
 
-  - [关联数组](../Page/关联数组.md "wikilink")（Map）：or associative array, a data type composed of a collection of key/value pairs
+  - [关联数组](../Page/关联数组.md "wikilink")（Map），是一种由键/值对组成的数据类型
 
-      - , an implementation in the C++ language
+      - ，[C++](../Page/C++.md "wikilink")语言中的一个实现
 
 ## 醫學或生物學
 
-  - , a member of proteins that interact with the microtubules of the cellular cytoskeleton
+  - ，蛱蝶科的一种蝴蝶
 
-  - [平均動脈壓](../Page/平均動脈壓.md "wikilink")（Mean Arterial Pressure）：the driving force of blood flow
+  - ，一种与细胞骨架的微管相互作用的蛋白质
 
-  - , a mediator of intracellular signaling
+  - [平均動脈壓](../Page/平均動脈壓.md "wikilink")（Mean Arterial Pressure），血液流动的驱动力
 
-  - **, a strain of pathogenic bacteria
+  - ，一个细胞内信号调节器
+
+<!-- end list -->
+
+  - （*Mycobacterium avium* subspecies *paratuberculosis*），一种病原菌分枝杆菌
+
+<!-- end list -->
+
+  - [贻贝粘附蛋白](https://zh.wikipedia.org/wiki/生物附着 "wikilink")（Mussel adhesive protein）
 
 ## 組織
 
-  - , the official Moroccan news agency
+  - ，[摩洛哥官方新闻机构](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")
 
-  - , a UK charity
+  - ，一家英国慈善机构
 
-  - , a network to promote peace in the Middle East
+  - ，一个促进中东和平的网络
 
-  - , a Peruvian art museum
+  - ，一家[秘鲁](../Page/秘鲁.md "wikilink")艺术博物馆
 
-  - , a political party in the Gold Coast (now Ghana)
+  - ，黄金海岸（现在[加纳](../Page/加纳.md "wikilink")）的一个政党
 
-  - , a motorists' safety training program
+  - ，一个摩托车手安全训练计划
 
-  - , a communications policy law firm and advocacy organization
+  - ，一个沟通政策律师事务所及辩护组织
 
-  - , a Puerto Rican art museum
+  - ，波多黎各的艺术博物馆
 
 ## 科學及科技
 
-  - [疟疾地图计划](../Page/疟疾地图计划.md "wikilink")（Malaria Atlas Project）
+  - [疟疾地图计划](../Page/疟疾地图计划.md "wikilink")（Malaria Atlas Project），一项非牟利数据发布项目
 
-  - , in an internal combustion engine
+  - ，内燃机术语
 
-  - , in queueing theory
+  - ，排队论术语
 
-  - , in applied probability
+  - ，应用概率术语
 
   - [最大后验概率](../Page/最大后验概率.md "wikilink")（Maximum a posteriori estimation）：統計學術語。
 
   - [信息檢索](../Page/信息檢索.md "wikilink")（Mean average precision）
 
-  - , an enzyme
+  - ，一种酶
 
-  - [威尔金森微波各向异性探测器](https://zh.wikipedia.org/wiki/威尔金森微波各向异性探测器 "wikilink")（Microwave Anisotropy Probe）：an unmanned space mission
+  - [威尔金森微波各向异性探测器](https://zh.wikipedia.org/wiki/威尔金森微波各向异性探测器 "wikilink")（Microwave Anisotropy Probe），一个无人驾驶的空间任务
 
-  - , in aviation
+  - ，航空学术语
 
-  -
-  - **, a bacterium associated with Crohn's disease
+  - ，一种食品包装技术
 
-  - , commonly referred to simply as "map", mental representations of physical locations
+<!-- end list -->
+
+  - [磷酸一铵](../Page/磷酸二氢铵.md "wikilink")（Monoammonium phosphate），一种铵盐化合物和肥料
+  - [认知地图](https://zh.wikipedia.org/wiki/认知地图 "wikilink")（Cognitive map），通常简称为“地图” ，是对物理位置的心理表征
 
 ## 大眾文化
 
@@ -86,15 +96,20 @@
 
 ## 其他用法
 
-  -
+  - ，一种用于人力资源的方法
+
   - [關卡](../Page/關卡_\(電子遊戲\).md "wikilink")（電子遊戲）
 
-  -
   - [南島語系](../Page/南島語系.md "wikilink")的[ISO 639-2語言編碼](../Page/ISO_639-2.md "wikilink")。
 
-  - [北約擴張](../Page/北約擴張.md "wikilink")（Membership action plan）：a stage for countries that are on their way to joining NATO
+  - [北約擴張](../Page/北約擴張.md "wikilink")（Membership action plan），加入北约国家的成员行动计划
 
-  - [Ministry of Aviation Industry](https://zh.wikipedia.org/wiki/Ministry_of_Aviation_Industry "wikilink"), a former
+  - ，原
 
-  -
-  -
+  - ，美国密苏里州对学生采取的一年一度的强制性标准化测试
+
+  - ，美国海军陆战队下属的一支行动单位
+
+<!-- end list -->
+
+  - [广告最低价格](https://zh.wikipedia.org/wiki/建议售价 "wikilink")（Minimum advertised price）

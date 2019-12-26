@@ -216,7 +216,7 @@
 
 ## 參考資料
 
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
+[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:2002年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2002年成立的音樂團體 "wikilink") [Category:三人組](https://zh.wikipedia.org/wiki/Category:三人組 "wikilink")
 
-1.  [【大師兄返嚟喇】MK-Pop始祖E-kids宣佈重組！](http://sina.com.hk/news/article/20160821/0/3/1/%E5%A4%A7%E5%B8%AB%E5%85%84%E8%BF%94%E5%9A%9F%E5%96%87-MK-Pop%E5%A7%8B%E7%A5%96E-kids%E5%AE%A3%E4%BD%88%E9%87%8D%E7%B5%84-6199913.html)
-2.  [E-kids演唱會門票一日賣清光 Tim: 希望再開多場](http://hk.apple.nextmedia.com/nextplus/%E5%A8%9B%E6%A8%82%E8%A6%81%E8%81%9E/article/20161130/2_456645_0/E-kids%E6%BC%94%E5%94%B1%E6%9C%83%E9%96%80%E7%A5%A8%E4%B8%80%E6%97%A5%E8%B3%A3%E6%B8%85%E5%85%89-Tim-%E5%B8%8C%E6%9C%9B%E5%86%8D%E9%96%8B%E5%A4%9A%E5%A0%B4)
+1.
+2.

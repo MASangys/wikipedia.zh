@@ -946,7 +946,7 @@
 
 ## 外部链接
 
-  - [竹劍漫画版日本官方网页](http://www.square-enix.co.jp/magazine/yg/introduction/bamboo/)
+  - [竹劍漫画版日本官方网页](https://web.archive.org/web/20121101001608/http://www.square-enix.co.jp/magazine/yg/introduction/bamboo/)
   - [竹劍动画版日本官方网站](http://www.bambooblade.jp/)
   - [Anti-Heroine通信](https://web.archive.org/web/20081225231042/http://antiheroine.cool.ne.jp/)（漫畫畫者的个人网页）
 

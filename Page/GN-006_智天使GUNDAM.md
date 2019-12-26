@@ -101,7 +101,7 @@
 
 可從本體分離、連結與單獨遙控（類似[座天使GUNDAM二型的GN浮游砲](https://zh.wikipedia.org/wiki/座天使GUNDAM二型 "wikilink")）。除可作為實體盾牌防禦，也可利用內藏之GN光束槍（GN Beam Gun）進行射擊，4個GN浮游盾結合即成為攻擊模式（Assault Mode），但因沒有尖銳的外型而不能如GN浮游砲般進行實體攻擊。
 
-### GN飛彈（GN Missile）×32
+### GN飛彈（GN Missile）×8
 
 8發GN飛彈藏於4個裙甲中。
 
@@ -170,7 +170,7 @@
   -
     GN狙擊步槍Ⅱ（GN Sniper Rifle II）
     GN光束手槍Ⅱ（GN Beam Pistol II）×4
-    GN浮游盾（GN Shield Bit）×9
+    GN浮游盾（GN Shield Bit）×7
     GN飛彈（GN Missile）×8
     GN步槍bit（GN Rifle Bit）×6
 

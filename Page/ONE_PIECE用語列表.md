@@ -920,41 +920,46 @@ Q彈鎮<br />
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><strong>河童鯨魚</strong></p></td>
+<td><p>是一種頭部類似於河童的鯨魚。斯摩格與達絲琪在前往阿拉巴斯坦的途中看到牠在海上游泳。</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong>島嶼龜</strong></p></td>
 <td><p>出現於劇場版《<a href="../Page/ONE_PIECE_機關城的機械巨兵.md" title="wikilink">ONE PIECE 機關城的機械巨兵</a>》中。和島上的居民共生，海龜提供居所，而島上的居民負責叫醒海龜生蛋。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>功夫海牛</strong></p></td>
 <td><p>棲息在<a href="../Page/阿拉巴斯坦王國.md" title="wikilink">阿拉巴斯坦王國</a>綠洲「愛爾馬魯」岸邊的<a href="../Page/儒艮.md" title="wikilink">儒艮</a>，上半身擁有甲殼包覆。擁有非常喜歡格鬥，只要有人來挑戰就會來者不拒的習性。但是它們只要打輸了就要拜勝者為師也在「3D劇場版一暴衝！機關塔的大冒險」出現。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>大王烏賊</strong></p></td>
 <td><p>棲息在雙子岬，在海上突然出現並且攻擊船隻的巨大烏賊，曾出現在拉布的肚子裡，只是後來被雙子岬的燈塔管理員可樂克斯給收拾掉了。是很普遍的海洋生物。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>食島怪</strong></p></td>
 <td><p>專吃島嶼的巨大<a href="https://zh.wikipedia.org/wiki/金魚" title="wikilink">金魚</a>，連拉來的糞便也和島嶼一樣大。騙人布曾說過關於這種金魚的謊話，沒想到卻真的存在。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>聖多稀有捻魚</strong></p></td>
 <td><p>棲息在<a href="../Page/阿拉巴斯坦王國.md" title="wikilink">阿拉巴斯坦王國</a>「聖多河」的巨大捻魚，喜歡的食物是人類。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>特快蝦</strong></p></td>
 <td><p>白海名產，可以背著船從天國之門一路衝向空島的蝦子。位在上層的白白海，還有一種比特快蝦還快的超特快蝦。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>章魚熱氣球</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/空島_(ONE_PIECE)" title="wikilink">空島名產</a>，一吹哨就會出現的章魚，身體充滿空氣時會膨脹成氣球狀。柯妮絲在送別魯夫等人回到藍海的時候，曾呼喚這種章魚擔任<a href="https://zh.wikipedia.org/wiki/前進梅莉號" title="wikilink">前進梅莉號的臨時漂浮氣囊</a>，後由於章魚耗盡體內的空氣而先行離去，導致前進梅莉號在失去浮力的情況下，從高空直接墜落藍海。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>牛魚（BULL）</strong></p></td>
 <td><p>又稱作「布魯」或「駝獸」，生長在<a href="../Page/水之七島.md" title="wikilink">水之七島</a>，一種外型類似馬的浮在水上的生物，喜愛吃水之七都的特產--「水水肉」。分為「<strong>小牛魚</strong>」、「<strong>中牛魚</strong>」、「<strong>大牛魚</strong>」3種類，可以背著船行動，水面上行進速度很快且力量很大，是當地人的主要交通工具，甚至還可以幫忙搬家。</p>
 <p>:*<strong>亞伽拉</strong>（）：小型牛魚，獨特叫聲為「呢～」，因為體型小而常被一般居民飼養在家中，出租方面則是一隻2千貝里（搭配雙人座椅）。</p>
@@ -962,117 +967,117 @@ Q彈鎮<br />
 <p>:*<strong>肯古</strong>（）：帝王牛魚，外型比「小牛魚」更像馬，是種相當稀有、高級的牛魚，只要魚鰭旁邊安裝輪子，陸地上牠們照樣能行動自如，目前登場的帝王牛魚是<a href="../Page/佛朗基.md" title="wikilink">佛朗基</a>所飼養的索德姆和哥摩拉。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>七彩韌魚兄弟</strong></p></td>
 <td><p>擁有各種不同顏色的七隻大<a href="https://zh.wikipedia.org/wiki/鱔魚" title="wikilink">鱔魚</a>，容易被美妙的音樂吸引。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>遊蛇</strong></p></td>
 <td><p>一種兇猛的巨大毒海蛇，一般海王類不敢靠近，王下七武海之一的<a href="../Page/波雅·漢考克.md" title="wikilink">波雅·漢考克</a>飼養了兩頭，負責拖行她的海賊船航海。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>多蒙企鵝</strong>（動畫原創）</p></td>
 <td><p>一種棲息在「冰海道」的凶暴企鵝。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>水陸運送龜</strong></p></td>
 <td><p>一種不管在水面會陸地上都能自由行動的烏龜，奔跑速度也比一般烏龜快，巨大的體型而可以載人，克洛克達爾飼養了一隻負責接送高級特務。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>庫拉肯（<a href="../Page/挪威海怪.md" title="wikilink">挪威海怪</a>）</strong></p></td>
 <td><p>生長於北極，外型是隻遠遠超越一般海王類體積常識的巨型章魚，棲息在下降海流的匯集處。人們稱庫拉肯為瘋狂殺戮、破壞船隻而潛伏於汪洋大海的「惡魔」、「人類的天敵」，來往的船隻若是經過牠棲息的地方，將會被牠用觸手緊緊纏住，船上的人也會成為牠的食物。魯夫稱其為「魷魚」。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>鮟鱇魚</strong></p></td>
 <td><p>體型巨大的鮟鱇魚，大入道海神的寵物鮟鱇郎即為此種生物。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>扁面螃蟹</strong></p></td>
 <td><p>一隻沒有可見眼睛的巨型螃蟹，草帽稱之為“ 扁面螃蟹 ”。它是非常兇猛的生物，有像人一樣的嘴。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="../Page/隱棘杜父魚科.md" title="wikilink">水滴魚</a></strong></p></td>
 <td><p>棲息在深海，一種長相奇特的怪魚，一度被魯夫等人認為是「大叔」，雖然故事中的身型等同一艘船，但現實世界的水滴魚其實只約為60公分左右。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>海龜電梯</strong></p></td>
 <td><p>是已被馴化的魚人島的一隻大海龜。它被人們（儘管最可能主要是人類）用於將它從珊瑚大廈的較低層面運送到地面並再次返回。烏龜的外殼足夠大，幾個普通大小的人可以舒適地站立，並有一個覆蓋它的氣泡，可以讓人類呼吸空氣。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>魚出租車和魚巴士</strong></p></td>
 <td><p>是一種大型的魚，由於塗層的泡沫，能夠懸停在土地並在海中游泳，被用作運輸穿過這兩個地形的交通工具。塗層氣泡在其背面，座椅對齊背鰭。它還戴著帽子。另外還有魚巴士 ，用於以類似於普通巴士的方式環島。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>長比目魚</strong></p></td>
 <td><p>是龍宮內一種已經被訓練和使用的魚的種類。像正常的比目魚一樣，它們非常平坦，雙眼都在背側，而它們的嘴則在對面。但牠們的體型很長，類似鰻魚。此外，它們足夠大，可以在上方攜帶幾個人。在背側塗上塗層氣泡後，它們被用作一個平台，可以承載在水下環境中舉辦活動和派對時需要呼吸空氣的人。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>斑點鯊魚</strong></p></td>
 <td><p>生活在新大陸水域的大鯊魚。比人類大十倍，它們的身體被斑點覆蓋。當魯夫等人在穿過位於島中心的湖泊時被半人馬射中並翻船時，鯊魚出現在該湖泊中。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>海貓頭鷹</strong></p></td>
 <td><p>出現在龐克哈薩特與多雷斯羅薩之間的水域中的貓頭鷹型水生生物。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>海拉邦</strong> (動畫原創)</p></td>
 <td><p>是一種水生哺乳動物，是陸生哺乳動物拉邦的遠親。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>黑帶企鵝</strong> (動畫原創)</p></td>
 <td><p>一種具有類似人類的身材的大型企鵝，通常穿著空手道服。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>相撲水豚</strong> (動畫原創)</p></td>
 <td><p>是一種站姿像人的大型水豚，通常穿著兜襠布。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>章魚拳擊手</strong> (動畫原創)</p></td>
 <td><p>是一種巨大的章魚，通常戴著拳擊手套。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>鬥魚</strong></p></td>
 <td><p>於200年前開始出現於多雷斯羅薩和格林比特水域，身上長著怪角擁有<a href="../Page/鬥牛.md" title="wikilink">鬥牛</a>外貌的的海魚，性情兇猛，習慣成群結隊地行動，能夠輕易地將船隻掀至翻覆，由於鬥魚會主動襲擊靠近牠們的船隻，所以許多航海者都會極力避免經過鬥魚出沒的水域。和食島怪為同種魚類，肉質味道同海獸的肉類。另外還有體型較小但更加兇猛的種類-迷你鬥魚。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>鎧甲毒魚</strong></p></td>
 <td><p>生長在熾熱海域的毒魚，其皮膚擁有能夠瞬間殺死巨人族的劇毒，誤食者將會肌膚出現大範圍的濕疹，若沒能即時解毒便會在短時間內死亡（此為具備高毒抗性的情況下，一般人會直接死亡）。但魚肉本身沒有毒性，因此算可食用魚類。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>水果足球魚</strong>（動畫原創）</p></td>
 <td><p>類似巨型水果的魚，他們的外表讓它們引誘飢餓的獵物。他們住在萬國的混合果汁島中，每個海域都有一種水果足球魚。有桃子、柳橙和西瓜外貌等各種種類。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>地盤海牛</strong></p></td>
 <td><p>居住在萬國水域的生物。 每當有人到達目的地時，它們就會發出“警告波”。他們被證明喜歡聽夏洛特·普萊麗芮的歌聲。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>巨型海蜈蚣</strong></p></td>
 <td><p>這些海洋生物類似於大蜈蚣，牙齒非常鋒利，舌頭長。其中一隻巨型海蜈蚣居住在萬國水域，襲擊了千陽號。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1210,22 +1215,34 @@ Q彈鎮<br />
 <td><p>和之國特有的大型犬類，體型較人類高大，外形如其名仿似現實的日本神社狛犬。小玉的護衛兼寵物狛千代正是此類生物。</p></td>
 </tr>
 <tr class="even">
+<td><p><strong>狛虎</strong></p></td>
+<td><p>和之國特有的虎，有著火焰般的眉毛。</p></td>
+</tr>
+<tr class="odd">
 <td><p><strong>狛鹿</strong></p></td>
 <td><p>和之國特有的鹿，有著火焰般的鬃毛。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>狛丹犬</strong></p></td>
 <td><p>和之國特有的犬類，外形如丹犬，有著火焰般的鬃毛。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>鱷鯊</strong></p></td>
 <td><p>和之國特有的肉食性爬蟲類生物，有著半鯊魚半-{鱷魚}-的外型。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>狛狐</strong></p></td>
 <td><p>和之國特有的狐狸，有著火焰般的鬃毛和變身成人的能力。</p></td>
 </tr>
+<tr class="odd">
+<td><p><strong>狛豬</strong></p></td>
+<td><p>和之國特有的豬，有著火焰般的鬃毛。</p></td>
+</tr>
 <tr class="even">
+<td><p><strong>山神</strong></p></td>
+<td><p>和之國特有的巨型白豬，體型像山一般高大，對其幼崽極為呵護，平時不會主動攻擊人，然而一旦發怒時便會吞下許多房子和人們。</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 </tr>
@@ -1246,8 +1263,18 @@ Q彈鎮<br />
 </thead>
 <tbody>
 <tr class="odd">
+<td><p><strong>怪鳥</strong></p></td>
+<td><p>一種巨大的粉紅色的鳥，帶有向下彎曲的米色鳥喙，在翅膀和尾巴的邊緣以及頭頂上均有深藍色的羽毛</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong>送報鷗</strong></p></td>
 <td><p>就如同牠的名字一樣，是一隻負責發送報紙和傳單的偉大海鷗，但有時會因為報紙費太貴而招來不少顧客的抱怨。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>巨鳥</strong></p></td>
+<td><p>一隻非常巨大的深藍色鳥，有著髮髻，他試圖吃掉巴奇來報復他，因為巴奇試圖吃掉他的一隻小孩，但是由於巴奇的味道不好，所以他把他吐掉了。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1409,7 +1436,7 @@ Q彈鎮<br />
 <td><p>第596話</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>陽樹<a href="https://zh.wikipedia.org/wiki/夏娃" title="wikilink">夏娃</a></strong><br />
+<td><p><strong>陽樹<a href="../Page/夏娃.md" title="wikilink">夏娃</a></strong><br />
 （）</p></td>
 <td><p>在魚人島篇中出現的稀少巨大樹木，陽樹夏娃能藉由樹頂吸收陽光傳導至其根部，使其在深海的根部散發出如同陽光般的強烈光芒。</p></td>
 <td><p>第612話</p></td>
@@ -1754,8 +1781,8 @@ Q彈鎮<br />
       - **黑刀**（）
     <!-- end list -->
       -
-        顧名思義是指刀身為黑色的刀，由於密度比一般工法的刀要更高，因此有著極為堅固的特性，據說被恐龍踩到也不會彎曲一厘米，但相對的其重量不是一般人能輕易拿起。
-        使用者能將刀纏上武裝色霸氣而有如黑刀，若是刀吸收了相當程度的武裝色霸氣甚至能完全煉成黑刀，進而提升排行。
+        顧名思義是指刀身為黑色的刀，因其密度高於一般工法的刀而有著極為堅固的特性，據說被恐龍踩到也不會彎曲一厘米，但相對地其重量不是一般人能輕易拿起。
+        使用者能將刀纏上武裝色霸氣而有如黑刀，若是刀吸收了相當程度的武裝色霸氣就能完全煉成黑刀，由此可能提高刀的等級。
 
 <!-- end list -->
 
@@ -2754,8 +2781,7 @@ Q彈鎮<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/革命軍_(ONE_PIECE)#巴索羅繆·大熊" title="wikilink">「暴君」巴索羅繆·大熊</a></p></td>
 <td><p>無<br />
 （實際身份為<a href="https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#革命軍" title="wikilink">革命軍幹部</a>）</p></td>
-<td><p>2億9,600萬<br />
-（待更新）</p></td>
+<td><p>2億9,600萬</p></td>
 <td><p>肉球果實</p></td>
 <td><p>原索爾貝王國國王、末任王下七武海，已被世界政府完全改造失去自我意識</p></td>
 </tr>
@@ -2987,11 +3013,11 @@ Q彈鎮<br />
 </tr>
 <tr class="even">
 <td><p>46</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#其他海賊" title="wikilink">「重傷」艾爾比歐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#其他海賊_2" title="wikilink">「重傷」艾爾比歐</a></p></td>
 <td><p>未知（被捕）</p></td>
 <td><p>9,200萬</p></td>
 <td><p>無</p></td>
-<td><p>—</p></td>
+<td><p>被冒牌草帽海賊團欺騙召入麾下</p></td>
 </tr>
 <tr class="odd">
 <td><p>47</p></td>
@@ -3005,11 +3031,11 @@ Q彈鎮<br />
 </tr>
 <tr class="even">
 <td><p>48</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#其他海賊" title="wikilink">「服務生」利普·多提</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#其他海賊_2" title="wikilink">「厚唇」利普·多提</a></p></td>
 <td><p>未知（被捕）</p></td>
 <td><p>8,800萬</p></td>
 <td><p>無</p></td>
-<td><p>—</p></td>
+<td><p>被冒牌草帽海賊團欺騙召入麾下</p></td>
 </tr>
 <tr class="odd">
 <td><p>49</p></td>
@@ -3068,7 +3094,7 @@ Q彈鎮<br />
 </tr>
 <tr class="odd">
 <td><p>55</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#其他海賊" title="wikilink">「蟹手」甲羅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#其他海賊_2" title="wikilink">「蟹手」甲羅</a></p></td>
 <td><p><s>甲羅海賊團</s>（已滅）<br />
 <em>船長</em></p></td>
 <td><p>7,300萬<br />
@@ -3869,7 +3895,7 @@ Q彈鎮<br />
 </tr>
 <tr class="even">
 <td><p>25</p></td>
-<td><p>比利</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#其他海賊_2" title="wikilink">比利</a></p></td>
 <td><p>椰斯海賊團船長<br />
 </p></td>
 <td><p>300萬</p></td>
@@ -3962,7 +3988,7 @@ Q彈鎮<br />
   - [哈格瓦爾·D·薩烏羅](https://zh.wikipedia.org/wiki/海軍_\(ONE_PIECE\)#哈古瓦爾·D·薩烏羅 "wikilink")（下落不明）
   - [馬歇爾·D·汀奇](../Page/馬歇爾·D·汀奇.md "wikilink")（白鬍子知曉「D的意志」，否定他）
   - [托拉法爾加·D·瓦特爾·羅](../Page/托拉法爾加·D·瓦特爾·羅.md "wikilink")
-  - [洛克斯·D·吉貝克](https://zh.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#洛克斯·D·吉貝克 "wikilink")
+  - [洛克斯·D·吉貝克](https://zh.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#洛克斯·D·吉貝克 "wikilink")（已歿）
 
 ### 歷史本文
 
@@ -6904,36 +6930,21 @@ Q彈鎮<br />
 [Category:ONE_PIECE](https://zh.wikipedia.org/wiki/Category:ONE_PIECE "wikilink") [Category:动漫用语表](https://zh.wikipedia.org/wiki/Category:动漫用语表 "wikilink")
 
 1.  《ONE PIECE》15周年纪念册《DIVE TO GRAND WORLD》。
-
 2.  海賊王20周年雜誌《ONE PIECE magazine VOL.1》
-
 3.  《ONE PIECE》漫畫第924話
-
 4.  雖是天狗山飛徹擁有，但只有謹慎收藏，並未當成佩刀使用。
-
 5.  《ONE PIECE》漫畫第597話。
-
 6.
 7.  《ONE PIECE》漫畫第594話。
-
 8.
 9.  ONEPIECE原作597話。
-
 10. 作者尾田透過DEEP BLUE書籍說明
-
 11. 《ONE PIECE》漫畫第519話。
-
 12.
 13. 使用上並非在字面上只有六招，而是可依個人訓練方式作延伸使用。
-
 14. 斯帕達姆為例外
-
 15. 但是原CP9的賈布拉能夠全身發動鐵塊且自由移動施展特有的「鐵塊拳法」作戰
-
 16. 目前只有路基會使用
-
 17. 目前只有梟會使用
-
 18. 《ONE PIECE》漫畫第909話
-
 19. 《ONE PIECE》漫畫第908話

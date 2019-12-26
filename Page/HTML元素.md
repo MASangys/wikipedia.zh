@@ -559,33 +559,18 @@ HTML第一个标准（[HTML 2.0](https://zh.wikipedia.org/wiki/HTML#First_specif
 [Category:HTML元素](https://zh.wikipedia.org/wiki/Category:HTML元素 "wikilink")
 
 1.  [XHTML 1.0](https://zh.wikipedia.org/wiki/#XHTML10 "wikilink") §4.6. & C.2
-
 2.  [XHTML 1.0](https://zh.wikipedia.org/wiki/#XHTML10 "wikilink") §4.2
-
 3.  [XML 1.0](https://zh.wikipedia.org/wiki/#XML10 "wikilink")
-
 4.  [XHTML 1.1](https://zh.wikipedia.org/wiki/#XHTML11 "wikilink") §A
-
 5.  [HTML 4.01](https://zh.wikipedia.org/wiki/#HTML401 "wikilink") §12.3
-
 6.  [HTML 4.01](https://zh.wikipedia.org/wiki/#HTML401 "wikilink") §14.3.2
-
 7.  [HTML 4.01](https://zh.wikipedia.org/wiki/#HTML401 "wikilink") §18
-
 8.  [CSS](https://zh.wikipedia.org/wiki/#CSS1 "wikilink") §1.1
-
 9.
-
 10.
-
 11. .
-
 12.
-
 13. [HTML 4 for dummies](https://zh.wikipedia.org/wiki/HTML_4_for_dummies "wikilink"), 5th edition, 2005, By Ed Tittel, Mary C. Burmeister, p. 96.
-
 14.
-
 15.
-
 16.

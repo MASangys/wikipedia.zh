@@ -22,7 +22,7 @@ Kross提供下列優於其他的方法以使腳本用於桌面應用程序或桌
 
 ## 外部連結
 
-  - [Kross home page (documentation for developers)](http://kross.dipe.org/)
+  - [Kross home page (documentation for developers)](https://web.archive.org/web/20080328125811/http://kross.dipe.org/)
   - [Interview with Kross developer](http://dot.kde.org/1152490640/)
   - [Kross tutorial](http://techbase.kde.org/Development/Tutorials/Kross-Tutorial)
   - [aKademy 2006 conference talk on Kross](http://conference2006.kde.org/conference/talks/2.php)

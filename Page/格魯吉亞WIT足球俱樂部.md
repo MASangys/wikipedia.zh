@@ -15,9 +15,9 @@
 <!-- end list -->
 
   -
-    2004年、2009年
+    2004, 2009
 
-## 歐戰
+## 歐洲賽成績
 
 <table>
 <thead>
@@ -32,55 +32,55 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2000/01賽季歐洲足協盃" title="wikilink">2000-01</a></p></td>
+<td><p><a href="../Page/2000–01年歐洲足協盃.md" title="wikilink">2000–01</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/歐洲足協盃" title="wikilink">歐洲足協盃外圍賽第一圈</a></p></td>
 <td><p><a href="../Page/耶路撒冷比達足球會.md" title="wikilink">耶路撒冷比達</a></p></td>
-<td><p>0-3</p></td>
-<td><p>1-1</p></td>
-<td><p>1-4</p></td>
+<td><p>0–3</p></td>
+<td><p>1–1</p></td>
+<td><p>1–4</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2004/05賽季歐洲聯賽冠軍盃" title="wikilink">2004-05</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2004–05年歐洲冠軍聯賽" title="wikilink">2004–05</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/歐洲聯賽冠軍盃" title="wikilink">歐洲聯賽冠軍盃外圍賽第一圈</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/HB托爾斯港" title="wikilink">HB拖錫雲</a></p></td>
-<td><p>5-0</p></td>
-<td><p>3-0</p></td>
-<td><p>5-3</p></td>
+<td><p>5–0</p></td>
+<td><p>3–0</p></td>
+<td><p>5–3</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/歐洲聯賽冠軍盃" title="wikilink">歐洲聯賽冠軍盃外圍賽第二圈</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/維斯瓦克拉科夫足球俱樂部" title="wikilink">克拉科夫</a></p></td>
-<td><p>2-8</p></td>
-<td><p>3-0</p></td>
-<td><p>2-11</p></td>
+<td><p>2–8</p></td>
+<td><p>3–0</p></td>
+<td><p>2–11</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2007/08賽季歐洲足協盃" title="wikilink">2007-08</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2007–08年歐洲足協盃" title="wikilink">2007–08</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/歐洲足協盃" title="wikilink">歐洲足協盃外圍賽第一圈</a></p></td>
 <td><p><a href="../Page/帕沙卡學院足球會.md" title="wikilink">巴迪斯拉華</a></p></td>
-<td><p>0-2</p></td>
-<td><p>1-2</p></td>
-<td><p>2-3</p></td>
+<td><p>0–2</p></td>
+<td><p>1–2</p></td>
+<td><p>2–3</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2008/09賽季歐洲足協盃" title="wikilink">2008-09</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2008–09年歐洲足協盃" title="wikilink">2008–09</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/歐洲足協盃" title="wikilink">歐洲足協盃外圍賽第一圈</a></p></td>
 <td><p><a href="../Page/特尔纳瓦斯巴达克足球俱乐部.md" title="wikilink">泰拿華斯巴達</a></p></td>
-<td><p>2-2</p></td>
-<td><p>0-1</p></td>
-<td><p>3-2</p></td>
+<td><p>2–2</p></td>
+<td><p>0–1</p></td>
+<td><p>3–2</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/歐洲足協盃" title="wikilink">歐洲足協盃外圍賽第二圈</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/奧地利維也納足球俱樂部" title="wikilink">奧地利維也納</a></p></td>
 <td><p>N/A</p></td>
-<td><p>0-2</p></td>
-<td><p>0-2</p></td>
+<td><p>0–2</p></td>
+<td><p>0–2</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2009/10賽季歐洲聯賽冠軍盃" title="wikilink">2009-10</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2009–10年歐洲冠軍聯賽" title="wikilink">2009–10</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/歐洲聯賽冠軍盃" title="wikilink">歐洲聯賽冠軍盃外圍賽第一圈</a></p></td>
 <td><p><a href="../Page/馬里博爾足球俱樂部.md" title="wikilink">馬里博爾</a></p></td>
 <td></td>

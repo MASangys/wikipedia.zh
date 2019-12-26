@@ -109,10 +109,7 @@ Extra關的劇情發生在永夜異變解決一個月之後。蓬萊山輝夜向
 [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:竹取物語題材改編作品](https://zh.wikipedia.org/wiki/Category:竹取物語題材改編作品 "wikilink") [Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
 
 1.
-
 2.  [ZUN於2004年10月30日舉辦的講座《東方の夜明け》](http://animeiji.jp.land.to/easterndawn/report1.html)
-
 3.  「永夜抄 體驗版」附帶的Omake.txt。
-
 4.
 5.

@@ -76,8 +76,8 @@
 
   - The TeX users group ([TUG](https://zh.wikipedia.org/wiki/TeX_Users_Group "wikilink")) <http://www.tug.org/> has a page devoted to MetaPost: <http://www.tug.org/metapost.html>
   - Active development of MetaPost continues at <https://web.archive.org/web/20070929092912/http://foundry.supelec.fr/projects/metapost/>
-  - [Functional MetaPost](http://cryp.to/funcmp/) allows MetaPost to be used from the functional programming language [Haskell](https://zh.wikipedia.org/wiki/Haskell_\(programming_language\) "wikilink")
-  - John D. Hobby has a homepage at <http://ect.bell-labs.com/who/hobby/index.shtml> and some other pages and publications devoted to MetaPost, though these are now a little dated
+  - [Functional MetaPost](https://web.archive.org/web/20081113124212/http://cryp.to/funcmp/) allows MetaPost to be used from the functional programming language [Haskell](https://zh.wikipedia.org/wiki/Haskell_\(programming_language\) "wikilink")
+  - John D. Hobby has a homepage at <https://web.archive.org/web/20131003040005/http://ect.bell-labs.com/who/hobby/index.shtml> and some other pages and publications devoted to MetaPost, though these are now a little dated
       - Historic MetaPost homepage: <https://web.archive.org/web/20081212090123/http://ect.bell-labs.com/who/hobby/MetaPost.shtml>
       - *A User's Manual for MetaPost* John D. Hobby. Available as a file mpman.ps distributed with MetaPost, or from the [Bell Labs web site](https://web.archive.org/web/20051217231314/http://cm.bell-labs.com/cm/cs/doc/92/2-21.ps.gz). Also available in [PDF format](http://www.tug.org/tutorials/mp/mpman.pdf) from [CTAN](https://zh.wikipedia.org/wiki/CTAN "wikilink").
 

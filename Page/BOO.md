@@ -37,7 +37,7 @@ print "Hello, world!"
 
 ## 外部連結
 
-  - [BOO官方網站](http://boo-lang.org/)
+  - [BOO官方網站](https://web.archive.org/web/20151225214729/http://boo-lang.org/)
 
   - [Boo附加元件](http://code.google.com/boo-extensions)
 

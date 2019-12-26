@@ -19,6 +19,7 @@
   - 2013年4月20日與4月21日在[橫濱體育館](../Page/橫濱體育館.md "wikilink")舉辦單獨演唱會。
   - 預定2014年1月5日於[埼玉超級體育館](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")，2月16日於大阪城ホール舉辦單獨演唱會。
   - 2018年3月10、11日與FLOW一同來台進行《FLOW×GRANRODEO 1st LIVE TOUR “Howling”》巡迴演唱\[2\]。
+  - 2019年發行新專輯「FAB LOVE」，並展開日本巡迴『GRANRODEO LIVE TOUR 2019 "FAB LOVE"』。專輯收錄曲「JUNK-YARD DOG」和「Take it easy」特別到美國加州洛杉磯錄音\[3\]。
 
 ### 音樂性．演唱會
 
@@ -549,3 +550,4 @@
 
 1.  出自雜誌hm3 men's special vol.2
 2.  <https://memeon-music.com/2018/03/11/flow-granrodeo-livereport/>
+3.

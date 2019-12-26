@@ -1,6 +1,6 @@
 **UP-FRONT GROUP Co., Ltd.**（），簡稱「UFG」，是[日本](../Page/日本.md "wikilink")Up-Front集團現時[控股公司](../Page/控股公司.md "wikilink")的名稱。Up-Front早期只有「Up-Front Agency」（UFA）一間公司，其後集團規模逐漸龐大，曾一度改名為「Up-Front Agency Group」。現時Up-Front集團的架構則改由「Up-Front Group」作為[母公司去統括Up](https://zh.wikipedia.org/wiki/母公司 "wikilink")-Front Agency及轄下多間[經紀公司](../Page/經紀公司.md "wikilink")、[唱片公司](../Page/唱片公司.md "wikilink")、[出版社](../Page/出版社.md "wikilink")、[食肆](https://zh.wikipedia.org/wiki/食肆 "wikilink")、[牧場等等](https://zh.wikipedia.org/wiki/牧場 "wikilink")。
 
-Up-Front集團以[演藝事業作為業務核心](https://zh.wikipedia.org/wiki/演藝 "wikilink")，旗下歌手大致可分為偶像派及實力派兩大類。以「[早安少女組。](../Page/早安少女組。.md "wikilink")」為首的[Hello\! Project及](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")[TNX公司的](https://zh.wikipedia.org/wiki/TNX "wikilink")[Nice Girl Project\!全是偶像派女歌手](https://zh.wikipedia.org/wiki/Nice_Girl_Project! "wikilink")，至於[堀內孝雄](https://zh.wikipedia.org/wiki/堀內孝雄 "wikilink")、[森高千里](../Page/森高千里.md "wikilink")等人則屬於實力派歌手。Up-Front集團旗下唱片公司Up-Front Works（UFW），共擁有13個唱片品牌之多，部份品牌更是被Up-Front合併的前唱片公司。Up-Front集團亦擁有自己的影片網站「[Dohhh UP\!](http://www.dohhhup.com/)」，透過互聯網提供免費的影像資訊。2010年1月更在[YouTube](../Page/YouTube.md "wikilink")增設「[UP-FRONT Channel](http://www.youtube.com/upfrontchannel)」。
+Up-Front集團以[演藝事業作為業務核心](https://zh.wikipedia.org/wiki/演藝 "wikilink")，旗下歌手大致可分為偶像派及實力派兩大類。以「[早安少女組。](../Page/早安少女組。.md "wikilink")」為首的[Hello\! Project及](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")[TNX公司的](https://zh.wikipedia.org/wiki/TNX "wikilink")[Nice Girl Project\!全是偶像派女歌手](https://zh.wikipedia.org/wiki/Nice_Girl_Project! "wikilink")，至於[堀內孝雄](https://zh.wikipedia.org/wiki/堀內孝雄 "wikilink")、[森高千里](../Page/森高千里.md "wikilink")等人則屬於實力派歌手。Up-Front集團旗下唱片公司Up-Front Works（UFW），共擁有13個唱片品牌之多，部份品牌更是被Up-Front合併的前唱片公司。Up-Front集團亦擁有自己的影片網站「[Dohhh UP\!](https://web.archive.org/web/20070203115415/http://www.dohhhup.com/)」，透過互聯網提供免費的影像資訊。2010年1月更在[YouTube](../Page/YouTube.md "wikilink")增設「[UP-FRONT Channel](http://www.youtube.com/upfrontchannel)」。
 
 ## 公司簡介及環保理念
 
@@ -229,7 +229,7 @@ Up-Front集團旗下擁有多家食肆與牧場，以下只列出部份較具代
   - [UP-FRONT PLANNING](https://web.archive.org/web/20081219231427/http://www.ufp.co.jp/)
   - [UP-FRONT WORKS](http://www.up-front-works.jp/)
   - [UFInews](http://www.uf-fc.jp/)
-  - [Dohhh UP\!](http://www.dohhhup.com/)
+  - [Dohhh UP\!](https://web.archive.org/web/20070203115415/http://www.dohhhup.com/)
   - [YouTube - upfrontchannel 的頻道](http://www.youtube.com/upfrontchannel)
   - [Happy Style Official Site : Enjoy your Happy "Live" Style\!](http://happy-style.cc/)
   - [](http://www.jp-r.co.jp/)

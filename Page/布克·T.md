@@ -26,11 +26,8 @@
 [Category:美國職業摔角手](https://zh.wikipedia.org/wiki/Category:美國職業摔角手 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.

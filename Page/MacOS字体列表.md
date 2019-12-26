@@ -1,4 +1,4 @@
-此列表包含[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 10.0至10.4的所有[电脑字体](https://zh.wikipedia.org/wiki/电脑字体 "wikilink")，包括所有[苹果公司为其他语言专用升级包中的字体](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")（主要是[韩文和](https://zh.wikipedia.org/wiki/韩文 "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")）。对于 Mac OS 10.4中的字体列表请参见 [Apple's documentation](http://docs.info.apple.com/article.html?artnum=301332)。關於 MAC OS X 10.5中的字體列表請參閱[蘋果支持中心-關於OSX10.5的字體列表(EN)](http://support.apple.com/kb/HT1642)
+此列表包含[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 10.0至10.4的所有[电脑字体](https://zh.wikipedia.org/wiki/电脑字体 "wikilink")，包括所有[苹果公司为其他语言专用升级包中的字体](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")（主要是[韩文和](https://zh.wikipedia.org/wiki/韩文 "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")）。对于 Mac OS 10.4中的字体列表请参见 [Apple's documentation](https://web.archive.org/web/20071012042043/http://docs.info.apple.com/article.html?artnum=301332)。關於 MAC OS X 10.5中的字體列表請參閱[蘋果支持中心-關於OSX10.5的字體列表(EN)](http://support.apple.com/kb/HT1642)
 
 ## 系统字体
 
@@ -182,8 +182,8 @@ Matrix Ticker位于：
 
 ## 外部链接
 
-  - [苹果10.3字体列表](http://docs.info.apple.com/article.html?artnum=25710)（仅有名称，没有图像）
-  - [苹果10.4字体列表](http://docs.info.apple.com/article.html?artnum=301332)（仅有名称，没有图像）
+  - [苹果10.3字体列表](https://web.archive.org/web/20071106154954/http://docs.info.apple.com/article.html?artnum=25710)（仅有名称，没有图像）
+  - [苹果10.4字体列表](https://web.archive.org/web/20071012042043/http://docs.info.apple.com/article.html?artnum=301332)（仅有名称，没有图像）
   - [Mac OS X Tiger中的高级字体设计](https://web.archive.org/web/20070225172636/http://images.apple.com/pro/pdf/L311277A_FontTT_v4.pdf)（附录B 包含Mac OS X 10.4 Tiger中拉丁字体的演示）
   - [微软为Mac OS X所安装字体做的列表](http://www.microsoft.com/typography/fonts/mac.htm)
   - [Alan Wood做的常用Mac OS X字体列表](http://www.alanwood.net/unicode/fonts_macosx.html)

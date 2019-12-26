@@ -4,15 +4,13 @@
 
 ## 歷史和發展
 
-1998年3月，Netscape分離了大部分Communicator程式碼並在開放原始碼授權下發佈\[1\]。該項目被稱為[Mozilla](https://zh.wikipedia.org/wiki/Mozilla#開放原始碼計畫 "wikilink")。據估計，將支離破碎的原始碼（必須移除所有專有內容）轉換為新的瀏覽器版本可能需要一年時間，因此決定下一版本的[Netscape 5.0瀏覽器版本將以此為基礎](https://zh.wikipedia.org/wiki/Netscape_5.0 "wikilink")。Netscape指派瀏覽器開發工程師協助完成該項目。
+1998年3月，Netscape分離了大部分通訊家族程式碼並在開放原始碼授權下發佈\[1\]。據估計，將核心的原始碼（移除所有專有內容）轉換為新的瀏覽器版本可能需要一年時間，因此決定下一版本的[Netscape 5.0瀏覽器版本將以此為基礎](https://zh.wikipedia.org/wiki/Netscape_5.0 "wikilink")。
 
-然而，Mozilla的開發進展並不快，所以Netscape將其部分工程師重新分配到一個新的Communicator 4.5版本。這導致了瀏覽器的部分工作被迫停擺，而Internet Explorer 5.0仍然在發展階段。
+然而，開放原始碼計劃進展緩慢，因此Netscape將部分工程師重新分配到一個新的通訊家族4.5版本，而[Internet Explorer 5.0已經在發展階段](https://zh.wikipedia.org/wiki/Internet_Explorer_5.0 "wikilink")。
 
-在[Internet Explorer 5.0發表了一年半之後](https://zh.wikipedia.org/wiki/Internet_Explorer_5.0 "wikilink")，Netscape 5.0版本被跳過了。原本有計劃發表以4.x為基礎的代碼庫幾乎就緒的5.0版本，但是這個想法被放棄了\[2\]。1998年10月底，Mozilla的工程師們決定放棄Communicator程式碼，使用符合標準的[Gecko](../Page/Gecko.md "wikilink")排版引擎重新開始\[3\]。所有的資源都必須使用Gecko來完成Netscape 6.0，一些Netscape員工仍然認為這是公司歷史上最大的錯誤之一\[4\]。
+在Internet Explorer 5.0發表了之後，Netscape 5.0版本終止了，原先計劃發表以4.x為基礎的代碼庫幾乎就緒的5.0版本，但是這個想法被放棄了\[2\]。1998年10月，Netscape的工程師們決定放棄通訊家族程式碼，使用符合標準化的[Gecko](../Page/Gecko.md "wikilink")排版引擎從零開始開發Netscape 6.0\[3\]，一些人仍然認為這是公司歷史上最大的錯誤之一\[4\]。
 
-兩年後（2000年）Netscape 6.0的首次公開發布版本相當令人失望，因速度慢和不穩定而飽受批評。Netscape 6.0於4月\[5\]、8月\[6\]和10月\[7\]發布公開測試版本，Netscape 6.0於2000年11月發布\[8\]。
-
-2001年發布的6.1和6.2版本解決了穩定性問題，儘管得到了一些的關注，但使用者數量仍然相對偏少，Netscape 6正面臨著2001年夏季發布的[Internet Explorer 6.0的新競爭](https://zh.wikipedia.org/wiki/Internet_Explorer_6.0 "wikilink")。
+兩年後（2000年）Netscape 6.0的首次公開發布版本相當令人失望，因執行緩慢和不穩定而飽受批評。2001年發布的6.1和6.2版本解決了穩定性問題，儘管得到了一些的關注，但使用者數量仍然相對偏少，Netscape 6正面臨著2001年夏季發布的[Internet Explorer 6.0的新競爭](https://zh.wikipedia.org/wiki/Internet_Explorer_6.0 "wikilink")。
 
 ## 版本歷史
 
@@ -25,11 +23,6 @@
   - Netscape 6.2.3 – 2002年5月15日（基於Mozilla Suite 0.9.4.1）
 
 ## 參考資料
-
-## 外部連結
-
-  - [下載各舊版本的Netscape瀏覽器和網路套件](http://sillydog.org/narchive/full123.php)
-  - [由MozTW製作的非官方中文化版本](http://www.moztw.org/dl/ns/)
 
 ## 相關文章
 
@@ -45,7 +38,3 @@
 2.
 3.
 4.
-5.
-6.
-7.
-8.

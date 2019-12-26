@@ -22,23 +22,15 @@ The Edge大概在他20歲左右就有掉髮的現象，也因此以穿戴毛帽�
 [Category:結他手](https://zh.wikipedia.org/wiki/Category:結他手 "wikilink") [Category:人物排名表](https://zh.wikipedia.org/wiki/Category:人物排名表 "wikilink") [Category:愛爾蘭歌手](https://zh.wikipedia.org/wiki/Category:愛爾蘭歌手 "wikilink") [Category:U2](https://zh.wikipedia.org/wiki/Category:U2 "wikilink") [Category:另类摇滚吉他手](https://zh.wikipedia.org/wiki/Category:另类摇滚吉他手 "wikilink") [Category:摇滚名人堂入选者](https://zh.wikipedia.org/wiki/Category:摇滚名人堂入选者 "wikilink")
 
 1.  [滚石雜誌：最偉大的一百名吉他手](http://www.rollingstone.com/news/story/5937559/the_100_greatest_guitarists_of_all_time)
-
 2.  [滚石杂志：最伟大的一百名吉他手](http://www.rollingstone.com/music/lists/100-greatest-guitarists-20111123)
-
 3.
-
 4.
-
 5.
-
 6.  U2 Limited (2006). U2 by U2. London: HarperCollinsPublishers, 117-120. ISBN 0-00-719668-7
-
 7.
 8.
-
 9.
 10.
-
 11.
 12.
 13.

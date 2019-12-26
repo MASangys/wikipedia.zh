@@ -646,9 +646,6 @@
 [Category:Key_Sounds_Label](https://zh.wikipedia.org/wiki/Category:Key_Sounds_Label "wikilink") [Category:Key_(遊戲品牌)](https://zh.wikipedia.org/wiki/Category:Key_\(遊戲品牌\) "wikilink") [Category:遊戲音樂](https://zh.wikipedia.org/wiki/Category:遊戲音樂 "wikilink") [Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink")
 
 1.  作品信息取自[官方网站Discography](http://key.soundslabel.com/discography.html)
-
 2.  [『Girls Dead Monster starring LiSA Tour 2010 Final -Keep The Angel Beats\!-』](http://key.soundslabel.com/discography.html?kslv0001/kslv0001)
-
 3.  [日本亚马逊商品链接](http://www.amazon.co.jp/VisualArts-ビジュアルアーツ大感謝祭-LIVE2012-YOKOHAMA-~きみとかなでるあしたへのうた~/dp/B00AO069FG)
-
 4.

@@ -28,4 +28,4 @@ RTP是一個官方素材集，包含RPG Maker 2000中內建供使用的圖片檔
 
 ## 遊戲
 
-[Category:电子角色扮演游戏](https://zh.wikipedia.org/wiki/Category:电子角色扮演游戏 "wikilink") [Category:电子游戏研发](https://zh.wikipedia.org/wiki/Category:电子游戏研发 "wikilink") [Category:遊戲製作軟件](https://zh.wikipedia.org/wiki/Category:遊戲製作軟件 "wikilink") [Category:RPG製作大師](https://zh.wikipedia.org/wiki/Category:RPG製作大師 "wikilink")
+[Category:电子角色扮演游戏](https://zh.wikipedia.org/wiki/Category:电子角色扮演游戏 "wikilink") [Category:电子游戏研发](https://zh.wikipedia.org/wiki/Category:电子游戏研发 "wikilink") [Category:電子遊戲開發軟件](https://zh.wikipedia.org/wiki/Category:電子遊戲開發軟件 "wikilink") [Category:RPG製作大師](https://zh.wikipedia.org/wiki/Category:RPG製作大師 "wikilink")

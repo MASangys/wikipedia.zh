@@ -53,4 +53,4 @@
   - 2005年12月27日：正式版（1片CD、1片[VCD](../Page/VCD.md "wikilink")（收錄39分鐘工作日誌））
   - 2006年2月14日：慶功版（1片CD、1片[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（收錄「王心凌NO.1慶功演唱會」實況+30分鐘幕後花絮））
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink") [Category:王心凌音樂專輯](https://zh.wikipedia.org/wiki/Category:王心凌音樂專輯 "wikilink")
+[Category:王心凌音乐专辑](https://zh.wikipedia.org/wiki/Category:王心凌音乐专辑 "wikilink") [Category:2005年音乐专辑](https://zh.wikipedia.org/wiki/Category:2005年音乐专辑 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")

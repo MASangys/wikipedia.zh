@@ -298,150 +298,78 @@
 [Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:X战警电影](https://zh.wikipedia.org/wiki/Category:X战警电影 "wikilink") [Category:系列电影](https://zh.wikipedia.org/wiki/Category:系列电影 "wikilink") [Category:美國科幻片](https://zh.wikipedia.org/wiki/Category:美國科幻片 "wikilink") [Category:虛構宇宙](https://zh.wikipedia.org/wiki/Category:虛構宇宙 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21. [台粉看得到！《羅根》跟進北美放送《死侍2》彩蛋](http://ent.ltn.com.tw/news/breakingnews/1999410),2017.3.9 自由時報
-
 22. [滿滿X戰警電影！《新變種人》、《死侍2》、《黑暗火鳳凰》2018年登場](http://www.gq.com.tw/entertainment/movie/content-32054.html) 2017.4.26 GQ Taiwan
-
 23. [《羅根》完了然後呢？X 戰警系列未來可能發展](http://punchline.asia/archives/40615),2017.3.9 娛樂重擊
-
 24.
-
 25.
-
 26. [滿滿X戰警電影！《新變種人》、《死侍2》、《黑暗火鳳凰》2018年登場](http://www.gq.com.tw/entertainment/movie/content-32054.html) 2017.4.26 GQ Taiwan
-
 27.
-
 28.
-
 29. [福斯「變種人」新宇宙：X戰警序曲 新變種人和死侍3](http://www.ifuun.com/a20161111574742/),2016.11.11 IFUUN
-
 30. [搭擋說溜嘴？ X教授確定加入《X戰警4》](http://ent.ltn.com.tw/news/breakingnews/1940505),2017.1.7 自由時報
-
 31. [传X战警新片《新变种人》确定明年5月开拍](http://ent.sina.com.cn/m/f/2016-12-08/doc-ifxypipu7341730.shtml),2016.12.8 SINA
-
 32. [滿滿X戰警電影！《新變種人》、《死侍2》、《黑暗火鳳凰》2018年登場](http://www.gq.com.tw/entertainment/movie/content-32054.html) 2017.4.26 GQ Taiwan
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42. [1](https://twitter.com/channingtatum/status/552276922890485760)
-
 43.
-
 44. [2](https://twitter.com/elmayimbe/status/588793359197675520)
-
 45.
-
 46. [Entourage News, World War Z 2, and El Mayombe\! - May 22nd, 2015 - Meet the Movie Press](https://www.youtube.com/watch?v=2mT1xo3ltmU)
-
 47.
-
 48. [3](http://www.reddit.com/r/IAmA/comments/3a7irw/i_am_channing_tatum_ama/cs9zqh6)
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58. [4](https://twitter.com/TheInSneider/status/655802223742464000)
-
 59.
-
 60.
-
 61.
-
 62.
-
 63. [5](https://twitter.com/JarettSays/status/819626387178823680)
-
 64.
-
 65.
-
 66.
-
 67. [福斯「變種人」新宇宙：X戰警序曲 新變種人和死侍3](http://www.ifuun.com/a20161111574742/),2016.11.11 IFUUN
-
 68.
-
 69.
-
 70. [「卡利班」太不連戲？「羅根」導演有話說](https://udn.com/news/story/8/2337742) 2017.03.12 聯合新聞網
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.

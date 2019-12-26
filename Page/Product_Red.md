@@ -326,6 +326,16 @@ Product Red的主要原則為[1](https://web.archive.org/web/20070522015335/http
 <td><p>$199(32GB) $299(64GB)</p>
 <p>$399(256GB)</p></td>
 </tr>
+<tr class="even">
+<td><p>2019年9月10日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/手機" title="wikilink">手機</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘋果公司" title="wikilink">蘋果公司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_11" title="wikilink">iPhone 11</a> (PRODUCT)Red Special Edition</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPhone_11" title="wikilink">iPhone 11</a> 的(PRODUCT) Red版本。</p></td>
+<td><p>N/A</p></td>
+<td><p>$699(64GB) $749(128GB)</p>
+<p>$849(256GB)</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -354,7 +364,7 @@ Product Red的主要原則為[1](https://web.archive.org/web/20070522015335/http
 
 ### 官方鏈接
 
-  - [Joinred.com](http://www.joinred.com/) - 官方網站
+  - [Joinred.com](https://web.archive.org/web/20120714042810/http://www.joinred.com/) - 官方網站
 
   -
   - [全球基金網站上的Product Red頁面](https://web.archive.org/web/20070518165822/http://www.theglobalfund.org/en/partners/private/red/)
@@ -377,31 +387,18 @@ Product Red的主要原則為[1](https://web.archive.org/web/20070522015335/http
 [Category:品牌](https://zh.wikipedia.org/wiki/Category:品牌 "wikilink") [Category:HIV/AIDS](https://zh.wikipedia.org/wiki/Category:HIV/AIDS "wikilink")
 
 1.  Global Business Coalition (2006年1月27日). *Ethical shopping: The Red Revolution* - 於2007年1月4日檢索，來自[businessfightsaids.org](http://www.businessfightsaids.org/site/apps/nl/content2.asp?c=gwKXJfNVJtF&b=1028663&content_id=%7B468280BB-D666-4904-BADD-820DE4F90141%7D&notoc=1)
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.

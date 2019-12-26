@@ -143,8 +143,6 @@
 
 ## 外部連結
 
-  - [官方網站](http://www.artland.co.jp/)
-
   - [製作探訪](http://www.style.fm/as/13_special/pro_070109a.shtml)
 
 [Category:绘梦动画](https://zh.wikipedia.org/wiki/Category:绘梦动画 "wikilink") [Category:ARTLAND](https://zh.wikipedia.org/wiki/Category:ARTLAND "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink") [Category:武藏野市](https://zh.wikipedia.org/wiki/Category:武藏野市 "wikilink") [Category:1978年成立的公司](https://zh.wikipedia.org/wiki/Category:1978年成立的公司 "wikilink")

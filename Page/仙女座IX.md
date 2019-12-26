@@ -8,12 +8,6 @@
 
 ## 參考資料
 
-<div class="references-small">
-
-<references/>
-
-</div>
-
 [Category:矮橢球星系](https://zh.wikipedia.org/wiki/Category:矮橢球星系 "wikilink") [Category:仙女座次集團](https://zh.wikipedia.org/wiki/Category:仙女座次集團 "wikilink") [Category:仙女座](https://zh.wikipedia.org/wiki/Category:仙女座 "wikilink")
 
 1.

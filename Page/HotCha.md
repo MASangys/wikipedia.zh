@@ -547,6 +547,7 @@ HotCha官方國際歌迷會於2008年1月19日成立，名為「喝茶會(取同
   - 2012年7月19日 《Winkie潮遊岡山‧東京》（Winkie）．
   - 2013年7月17日 《聽瘋說的女孩》（Crystal）．
   - 2013年7月17日 《Regen大步走》（Regen）．
+  - 2014年7月16日 《一個人也要幸福》（Crystal）．
 
 ## 表演嘉賓
 
@@ -576,27 +577,17 @@ HotCha官方國際歌迷會於2008年1月19日成立，名為「喝茶會(取同
   - 微博：[Regen](http://t.sina.com.cn/1708101572)、[Crystal](http://t.sina.com.cn/quicheung)、[Winkie](http://t.sina.com.cn/winkielai)
   - Facebook：[Regen](http://www.facebook.com/RegenC)、[Crystal](http://www.facebook.com/CrystalCheungManKa)、[Winkie](http://www.facebook.com/winkielaimeiyin)
 
-[Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink") [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink")
+[Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink") [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink") [Category:三人組](https://zh.wikipedia.org/wiki/Category:三人組 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.

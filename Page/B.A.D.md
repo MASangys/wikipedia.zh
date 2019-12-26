@@ -86,11 +86,7 @@ DANNY（1978年7月9日-），本名黃柏文，是一名[台灣歌手](https://
 [Category:已解散的演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的演唱團體 "wikilink") [Category:2000年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2000年成立的音樂團體 "wikilink") [Category:2004年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年解散的音樂團體 "wikilink")
 
 1.  [黃明和一家掌秀傳 么兒是前男團B.A.D成員](http://news.ltn.com.tw/news/society/breakingnews/1116168)自由時報 2014-09-26
-
 2.  [楊晴瑄今早登記 正式成為秀傳醫院少奶奶](http://www.appledaily.com.tw/realtimenews/article/new/20130619/213201/)蘋果日報 2013年06月19日
-
 3.  [前B.A.D成員Danny大婚！求婚2年娶「小林志玲」楊晴瑄](http://star.ettoday.net/news/229135)ETtoday娛樂星光雲 2013年06月23日
-
 4.  [侯湘婷為吳克群當「未婚媽媽」](http://old.ltn.com.tw/2001/new/nov/14/today-show3.htm)自由電子新聞網 民國90年11月14日
-
 5.

@@ -61,14 +61,9 @@ Mathomatic可以运行在任何一台带有至少1[兆](../Page/兆.md "wikilink
 
 1.
 2.  [Mathomatic on the Cygwin website](http://cygwin.com/packages/mathomatic)
-
 3.
 4.  [Mathomatic for the iPhone](http://www.gotow.net/mathomatic/)
-
 5.  [Mathomatic - DSLinux Wiki](http://dslinux.org/wiki/Mathomatic)
-
 6.  [Mathomatic ported to the Nintendo DS](http://blog.davr.org/category/nintendo-ds/mathomatic/)
-
 7.  [Debian - Package Search Results - mathomatic](http://packages.debian.org/mathomatic)
-
 8.  Found on the Mathomatic home page

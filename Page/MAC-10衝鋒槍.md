@@ -1,4 +1,4 @@
-**MAC-10**（，意為：**軍事裝備公司10型**，正式稱呼：**M-10**）是一系列由於1964年為[特種部隊](../Page/特種部隊.md "wikilink")而設計，[開放式槍栓](../Page/開放式槍栓.md "wikilink")及[反沖作用操作的輕型](../Page/反沖作用_\(槍械\).md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")（[衝鋒手槍](../Page/全自動手槍.md "wikilink")），發射[.45 ACP或](../Page/.45_ACP.md "wikilink")[9×19毫米兩種](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**MAC-10**（，意為：**軍事裝備公司10型**，正式稱呼：**M-10**）是一系列由於1964年為[特種部隊](../Page/特種部隊.md "wikilink")而設計，[開放式槍栓](../Page/開放式槍栓.md "wikilink")及[反沖作用操作的輕型](../Page/反沖作用_\(槍械\).md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")（[衝鋒手槍](../Page/全自動手槍.md "wikilink")），發射[.45 ACP或](../Page/.45_ACP.md "wikilink")[9×19毫米兩種](../Page/9×19mm魯格彈.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 這是一種款簡單、低成本的設計、幾乎沒有可轉換零件的槍械，因此亦很容易製造和維修。MAC-10冲锋枪（衝鋒手槍）槍族，例如其衍生型：[MAC-11](../Page/MAC-11衝鋒槍.md "wikilink")（M-11A1），MAC-10的版本；MAC-11/9（M-11/9），是由[SWD](https://zh.wikipedia.org/wiki/SWD "wikilink")（[英文](../Page/英语.md "wikilink")：Sylvia and Wayne Daniel）和[Leinad所生產的一種長射程和短側面的小型](https://zh.wikipedia.org/wiki/Leinad "wikilink")9毫米版本。
 
@@ -208,13 +208,13 @@ T77衝鋒槍是[中華民國](../Page/中華民國.md "wikilink")[聯勤](https:
 </tr>
 <tr class="even">
 <td></td>
-<td><p>_</p></td>
-<td><p>_</p></td>
+<td><p><a href="../Page/臺灣警備總司令部.md" title="wikilink">臺灣警備總司令部</a></p></td>
+<td><p>A1/A3</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>特警單位</p></td>
-<td><p>_</p></td>
+<td><p>A1</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -310,7 +310,7 @@ MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[�
   - 1999年—《[-{zh-hans:反恐精英; zh-hant:絕對武力;}-](../Page/反恐精英.md "wikilink")》（Counter-Strike）：為.45 ACP型。Beta 5以後登場，命名為「-{zh-hans:MAC-10; zh-hant:英格拉姆 MAC-10;}-」，為[恐怖份子的專屬武器](https://zh.wikipedia.org/wiki/恐怖份子 "wikilink")，武器模組採用鏡像佈局（右手持槍時拋殼口在左邊）。奇怪地使用。
   - 2004年—《[-{zh-hans:反恐精英：零点行动; zh-hant:絕對武力：一觸即發;}-](../Page/絕對武力：一觸即發.md "wikilink")》（Counter-Strike: Condition Zero）：為.45 ACP型，把1.6版本中錯誤使用的修正為[開放式槍栓](../Page/開放式槍栓.md "wikilink")。命名為「-{zh-hans:MAC-10; zh-hant:英格拉姆 MAC-10;}-」，為恐怖份子的專屬武器，模組仍然採用鏡像佈局（右手持槍時拋殼口在左邊）。
   - 2004年—《[-{zh-hans:反恐精英：起源; zh-hant:絕對武力：次世代;}-](../Page/絕對武力：次世代.md "wikilink")》（Counter-Strike: Source）：為.45 ACP型，把1.6版本中錯誤使用的修正為開放式槍栓，並把拋殼口修正至右邊（左手持槍時為左邊），不再採用鏡像佈局。命名為「-{zh-hans:MAC-10; zh-hant:英格拉姆 MAC-10;}-」，為恐怖份子的專屬武器。
-  - 2007年—《[-{zh-hans:反恐精英; zh-hant:絕對武力;}-Online](../Page/絕對武力Online.md "wikilink")》（Counter Strike Online）：為.45 ACP型，遊戲模型繼承自CS 1.6版本，因此也錯誤的使用閉鎖式槍機運作，武器模組也採用鏡像佈局（右手持槍時拋殼口在左邊）。隨遊戲登場武器，在遊戲中使用30發容量彈匣，命名為「-{zh-hans:MAC-10; zh-hant:英格倫 MAC-10;}-」，為恐怖份子的專屬武器；在各地版本均已開放使用。
+  - 2007年—《[-{zh-hans:反恐精英; zh-hant:絕對武力;}-Online](../Page/絕對武力Online.md "wikilink")》（Counter Strike Online）：為.45 ACP型，遊戲模型繼承自CS 1.6版本，因此也錯誤的使用閉鎖式槍栓運作，武器模組也採用鏡像佈局（右手持槍時拋殼口在左邊）。隨遊戲登場武器，在遊戲中使用30發容量彈匣，命名為「-{zh-hans:MAC-10; zh-hant:英格倫 MAC-10;}-」，為恐怖份子的專屬武器；在各地版本均已開放使用。
   - 2001年—《[-{zh-cn:闪点行动：雷霆救兵; zh-tw:閃擊點行動：冷戰危機;}-](https://zh.wikipedia.org/wiki/閃點行動：雷霆救兵 "wikilink")》（Operation Flashpoint: Cold War Crisis）
   - 2003年—《[-{zh-cn:秘密潜入2：隐秘行动; zh-tw:核武浩劫2;}-](../Page/秘密潜入2：隐秘行动.md "wikilink")》（IGI2：Covert Strike）
   - 2003年—《[-{zh-cn:马克思·佩恩2：马克思·佩恩的堕落; zh-tw:江湖本色2; zh-hk:英雄本色2;}-](../Page/江湖本色2.md "wikilink")》（Max Payne 2: The Fall of Max Payne）：命名為「英格拉姆」，可[雙持](../Page/雙持.md "wikilink")。
@@ -349,7 +349,7 @@ MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[�
   - 2001年—《[NOIR](../Page/NOIR.md "wikilink")》
   - 2002年—《[-{zh-hans:黑礁; zh-tw:企業傭兵; zh-hk:黑礁;}-](../Page/企業傭兵.md "wikilink")》（Black Lagoon）
   - 2003年—《[神槍少女](../Page/神槍少女.md "wikilink")》（Gunslinger Girl）：被喬瑟和多名[恐怖份子所使用](https://zh.wikipedia.org/wiki/恐怖份子 "wikilink")。
-  - 2006年—《[名偵探柯南：偵探們的鎮魂歌](https://zh.wikipedia.org/wiki/名偵探柯南：偵探們的鎮魂歌 "wikilink")》（Detective Conan: The Private Eyes' Requiem）：被[怪盜基德所使用](https://zh.wikipedia.org/wiki/黑羽快斗 "wikilink")。
+  - 2006年—《[名偵探柯南：偵探們的鎮魂歌](https://zh.wikipedia.org/wiki/名偵探柯南：偵探們的鎮魂歌 "wikilink")》（Detective Conan: The Private Eyes' Requiem）：被[怪盜基德所使用](../Page/黑羽快斗.md "wikilink")。
   - 2008年—《[蝙蝠俠：高譚騎士](../Page/蝙蝠俠：高譚騎士.md "wikilink")》（Batman: Gotham Knight）
   - 2009年—《[幻靈鎮魂曲](../Page/Phantom_-PHANTOM_OF_INFERNO-.md "wikilink")》（Phantom: Requiem for the Phantom）：被中國黑幫所使用。
   - 2009年—《[肯普法](../Page/肯普法.md "wikilink")》（Kämpfer）：被山川 涼花所使用。
@@ -454,37 +454,23 @@ MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[�
 [Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:衝鋒手槍](https://zh.wikipedia.org/wiki/Category:衝鋒手槍 "wikilink") [Category:包絡式槍機衝鋒槍](https://zh.wikipedia.org/wiki/Category:包絡式槍機衝鋒槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:.45_ACP口徑槍械](https://zh.wikipedia.org/wiki/Category:.45_ACP口徑槍械 "wikilink") [Category:美國衝鋒槍](https://zh.wikipedia.org/wiki/Category:美國衝鋒槍 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
 
 1.  —http://mgdb.himitsukichi.com/pukiwiki/?cmd=read\&page=AAI%20M10\&word=MAC%2010
-
 2.
 3.  Future Weapons, Kevin Dockery, pages 213–215.
-
 4.
-
 5.  <http://clintongunban.com/FactSheets.aspx?i=80&a=Fact%20Sheet>
-
 6.
 7.  [Machinegunprices.com](http://www.machinegunprices.com/html/subguns.html)
-
 8.  <https://www.masterpiecearms.com/proddetail.php?prod=MPA10T-A>
-
 9.  [Practical Solutions](http://www.practicalpage.com/)
-
 10. [RPB Industries MAC Submachineguns](http://www.gunmallusa.com/gunmallusa/prepareInventory.do?cat=18&storeNumber=1)
-
 11. [Cobray Company](http://www.cobray.com/)
-
 12. [Jersey Arms Works, Inc. v. Secretary of Treasury, No. 83-1130 (D.N.J. July 25, 1983)](http://www.cs.cmu.edu/afs/cs/usr/wbardwel/public/nfalist/jersey_arms_v_secretary.txt)
-
 13.
 14. [MAC-10 From the U.K.](http://www.securityarms.com/20010315/galleryfiles/2900/2939.htm)
-
 15. [A MAC History Lesson](http://www.firearmsid.com/Feature%20Articles/012001/Mac10History.htm)
-
 16.
-
 17.
 18. Brassey's Infantry Weapons of the World, 1950-1975, J.I.H Owen (1975), p. 45
-
 19.
 20.
 21.
@@ -495,11 +481,8 @@ MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[�
 26.
 27.
 28. Diez, Octavio (2000). Armament and Technology. Lema Publications, S.L. ISBN 84-8463-013-7.
-
 29.
 30. 有一批數量不詳的9毫米[口徑MAC](https://zh.wikipedia.org/wiki/口徑 "wikilink")-10是由*[第五部門火器](https://zh.wikipedia.org/wiki/第五部門火器 "wikilink")*（）有限公司所生產的，第五部門火器有限公司所製造的MAC-10採用和烏茲衝鋒槍一樣外型的握把和[彈匣](../Page/彈匣.md "wikilink")釋放按鈕）
-
 31.
 32.
-
 33.

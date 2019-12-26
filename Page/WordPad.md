@@ -4,7 +4,7 @@ WordPad的功能包括處理文字格式，或者將文字列印出來。但它�
 
 WordPad原生支援[RTF](../Page/RTF.md "wikilink")，亦利用到微軟的[RichEdit控制](https://zh.wikipedia.org/wiki/RichEdit "wikilink")。從[Windows XP](../Page/Windows_XP.md "wikilink") SP1之後的作業系統，版本是4.1，\[1\]包括[Windows Vista](../Page/Windows_Vista.md "wikilink")。之前的作業系統亦支援“Word for Windows 6.0”格式，與Microsoft Word的檔案格式相容。
 
-Windows 95首次內建了WordPad，用以取代[Windows Write](../Page/Windows_Write.md "wikilink")。Windows3.1版本和之前的作業系統，都捆了[Windows Write](../Page/Windows_Write.md "wikilink")。而WordPad的源代碼，微軟已在[MFC类別库版本](https://zh.wikipedia.org/wiki/MFC "wikilink")3.2後公開，成為一個範例軟體。公開的時候在Windows 95發佈前。現在仍可以在[MSDN的網站下載](https://zh.wikipedia.org/wiki/MSDN "wikilink")\[<http://msdn2.microsoft.com/en-us/library/51y8h3tk(vs.71>).aspx Web site\]。
+Windows 95首次內建了WordPad，用以取代[Windows Write](../Page/Windows_Write.md "wikilink")。Windows3.1版本和之前的作業系統，都捆了[Windows Write](../Page/Windows_Write.md "wikilink")。而WordPad的源代碼，微軟已在[MFC类別库版本](https://zh.wikipedia.org/wiki/MFC "wikilink")3.2後公開，成為一個範例軟體。公開的時候在Windows 95發佈前。現在仍可以在[MSDN的網站下載](https://zh.wikipedia.org/wiki/MSDN "wikilink")\[<https://web.archive.org/web/20070429125746/http://msdn2.microsoft.com/en-us/library/51y8h3tk(vs.71>).aspx Web site\]。
 
 直到現在，WordPad和Microsoft Word仍然是微軟唯一支援讀寫Windows Write建立的WRI檔案的軟體。
 

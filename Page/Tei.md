@@ -42,18 +42,19 @@
   - 2015年7月28日、8月11日：JTBC《[百人百曲-走到最後](../Page/百人百曲-走到最後.md "wikilink")》
   - 2015年10月17日：JTBC《[隱藏歌手](../Page/隱藏歌手.md "wikilink")》（[閔庚勳](../Page/閔庚勳.md "wikilink")篇）
   - 2015年10月24日－11月7日：KBS《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》
-  - 2016年2月7日－2月14日：MBC《神秘音樂秀：蒙面歌王》
+  - 2016年2月7日－2月14日：MBC《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》
   - 2016年6月17日：MBC《[二重唱歌謠祭](https://zh.wikipedia.org/wiki/二重唱歌謠祭 "wikilink")》
   - 2016年6月22日：MBC《[黃金漁場 Radio Star](https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star "wikilink")》
-  - 2016年9月2日－9月9日：MBC《二重唱歌謠祭》
-  - 2016年10月30日－11月6日：MBC《神秘音樂秀：蒙面歌王》
-  - 2016年12月3日：KBS《不朽的名曲：傳說在歌唱》
+  - 2016年9月2日－9月9日：MBC《[二重唱歌謠祭](https://zh.wikipedia.org/wiki/二重唱歌謠祭 "wikilink")》
+  - 2016年10月30日－11月6日：MBC《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》
+  - 2016年12月3日：KBS《[不朽的名曲](https://zh.wikipedia.org/wiki/不朽的名曲 "wikilink")》
   - 2016年12月16日：KBS《[歌曲之爭—勝負](../Page/歌曲之爭—勝負.md "wikilink")》
-  - 2016年12月24日－12月31日：KBS《不朽的名曲：傳說在歌唱》
+  - 2016年12月24日－12月31日：KBS《[不朽的名曲](https://zh.wikipedia.org/wiki/不朽的名曲 "wikilink")》
   - 2017年2月16日：MBC《[Video Star](../Page/Video_Star.md "wikilink")》
-  - 2017年2月18日：KBS《不朽的名曲：傳說在歌唱》
+  - 2017年2月18日：KBS《[不朽的名曲](https://zh.wikipedia.org/wiki/不朽的名曲 "wikilink")》
   - 2017年4月1日－4月8日：tvN《[我耳邊的糖果](../Page/我耳邊的糖果.md "wikilink")2》
-  - 2017年4月15日：KBS《不朽的名曲：傳說在歌唱》
+  - 2017年4月15日：KBS《[不朽的名曲](https://zh.wikipedia.org/wiki/不朽的名曲 "wikilink")》
+  - 2019年：MBC 《[全知干預視角](../Page/全知干預視角.md "wikilink")》 67-68、73、74
 
 ## 外部連結
 

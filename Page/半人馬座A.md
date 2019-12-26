@@ -60,72 +60,44 @@ Image:Centaurus A halo.jpg|半人馬座A的光晕 Image:Radio galaxy Centaurus A
   -
 ## 參考資料
 
-  - STScI. [Hubble Provides Multiple Views of How to Feed a Black Hole](http://hubblesite.org/newscenter/newsdesk/archive/releases/1998/14/text/). Press release: *Space Telescope Science Institute*. March 14, 1998.
-  - Chandra X-Ray Observatory Photo Album [Centaurus A Jet](http://chandra.harvard.edu/photo/2003/cenajet/)
-
-<div class="references-small">
-
-<references/>
-
-</div>
+1.  STScI. [Hubble Provides Multiple Views of How to Feed a Black Hole](http://hubblesite.org/newscenter/newsdesk/archive/releases/1998/14/text/). Press release: *Space Telescope Science Institute*. March 14, 1998.
+2.  Chandra X-Ray Observatory Photo Album [Centaurus A Jet](http://chandra.harvard.edu/photo/2003/cenajet/)
 
 [Category:透鏡狀星系](https://zh.wikipedia.org/wiki/Category:透鏡狀星系 "wikilink") [Category:特殊星系](https://zh.wikipedia.org/wiki/Category:特殊星系 "wikilink") [Category:電波星系](https://zh.wikipedia.org/wiki/Category:電波星系 "wikilink") [Category:星暴星系](https://zh.wikipedia.org/wiki/Category:星暴星系 "wikilink") [Category:半人馬座A/M83星系團](https://zh.wikipedia.org/wiki/Category:半人馬座A/M83星系團 "wikilink") [Category:半人馬座NGC天體](https://zh.wikipedia.org/wiki/Category:半人馬座NGC天體 "wikilink") [Category:PGC天體](https://zh.wikipedia.org/wiki/Category:PGC天體 "wikilink") [Category:阿普天體](https://zh.wikipedia.org/wiki/Category:阿普天體 "wikilink") [Category:科德韦尔天体](https://zh.wikipedia.org/wiki/Category:科德韦尔天体 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
 14.
-
 15.
 16.
 17.
 18.
 19.
-
 20.
-
 21.
-
 22.
 23.
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
 33.
 34.
 35.
-
 36.

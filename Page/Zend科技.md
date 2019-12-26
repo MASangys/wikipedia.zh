@@ -65,7 +65,7 @@ PHP代码优化加速软件，已停止使用
 
   - [Zend Technologies](http://www.zend.com)
   - [Zend Certification Home](http://www.zend.com/certification/)
-  - [Yellow Pages for PHP Professionals](http://www.zend.com/store/education/certification/yellow-pages.php)
+  - [Yellow Pages for PHP Professionals](https://web.archive.org/web/20091001032935/http://www.zend.com/store/education/certification/yellow-pages.php)
   - [Zend Japan](http://www.zend.co.jp/)
   - [Zeev Suraski spoke at OSS Technical Seminar in Hong Kong](http://www.swpearl.com/eng/scripts/events/viewnews.php?id=1449706232)
   - [Zend partners](https://web.archive.org/web/20080913054156/http://www.zend.com/en/partners/reseller-partners)

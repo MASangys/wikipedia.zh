@@ -23,7 +23,7 @@
 
 ## 外部链接
 
-  - [Comodo Firewall Pro官方网站](http://www.personalfirewall.comodo.com/)
+  - [Comodo Firewall Pro官方网站](https://web.archive.org/web/20090115201816/http://www.personalfirewall.comodo.com/)
   - 在[知名信息安全机构Matousec.com对个人防火墙进行的防漏洞测试（Leak test）](http://www.matousec.com/projects/firewall-challenge/results.php)中Comodo Firewall排名第一。（测试）
   - [COMODO V5.9版防火牆用的正體中文語系檔](http://home.gamer.com.tw/creationDetail.php?sn=1509180)
 

@@ -20,7 +20,7 @@ Qomo 4.9.1 2015年1月1日发布 此版主要为bug fix版本，修复了几个�
 
 ## 外部連結
 
-[Linux人](http://www.linux-ren.org)（已恢复）
+[Linux人](https://web.archive.org/web/20100615232731/http://linux-ren.org/)（已恢复）
 
 [Category:Linux发行版](https://zh.wikipedia.org/wiki/Category:Linux发行版 "wikilink")
 

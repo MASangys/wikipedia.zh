@@ -16,7 +16,7 @@ Comic Sans後來受到一些[平面設計師的反對](https://zh.wikipedia.org/
 
 ## 反Comic Sans風潮
 
-《[波士頓鳳凰報](https://zh.wikipedia.org/wiki/波士頓鳳凰報 "wikilink")》（*The Boston Phoenix*）報導，此反對風潮從兩個[印第安那波利斯的平面設計師](https://zh.wikipedia.org/wiki/印第安那波利斯 "wikilink")[戴夫·康斯](https://zh.wikipedia.org/wiki/戴夫·康斯 "wikilink")（Dave Combs）和[賀利·康斯](https://zh.wikipedia.org/wiki/賀利·康斯 "wikilink")（Holly Combs）開始，他們發現大量錯用此字體後，架設了名为[“Ban Comic Sans”](http://www.bancomicsans.com)（抵制Comic Sans）的网站。此風潮帶動了更多批評的聲音，但也有支持者，如Comic Sans Appreciation Society。
+《[波士頓鳳凰報](https://zh.wikipedia.org/wiki/波士頓鳳凰報 "wikilink")》（*The Boston Phoenix*）報導，此反對風潮從兩個[印第安那波利斯的平面設計師](https://zh.wikipedia.org/wiki/印第安那波利斯 "wikilink")[戴夫·康斯](https://zh.wikipedia.org/wiki/戴夫·康斯 "wikilink")（Dave Combs）和[賀利·康斯](https://zh.wikipedia.org/wiki/賀利·康斯 "wikilink")（Holly Combs）開始，他們發現大量錯用此字體後，架設了名为[“Ban Comic Sans”](https://web.archive.org/web/20140911052339/http://www.bancomicsans.com/)（抵制Comic Sans）的网站。此風潮帶動了更多批評的聲音，但也有支持者，如Comic Sans Appreciation Society。
 
 Snog部落格訪談文生·康奈爾本人之後，戴夫承認他未經康奈爾允許就使用了其網站的圖片，康奈爾沒允許的原因是Dave的電子郵件內容並沒有與他的使用目的相符。之後，戴夫受到[Shepard Fairey的](https://zh.wikipedia.org/wiki/Shepard_Fairey "wikilink")「[Obey Giant](https://zh.wikipedia.org/wiki/Obey_Giant "wikilink")」街頭塗鴉藝術的啟發。
 

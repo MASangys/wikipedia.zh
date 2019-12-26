@@ -2,7 +2,7 @@
 
 除此之外，A还可以指代：
 
-## 科学
+## 科学aw2w
 
 ### 数学
 
@@ -101,7 +101,7 @@
 
 ### 电影
 
-  - [A (Kannada电影)](https://zh.wikipedia.org/wiki/A_\(Kannada电影\) "wikilink")，由[Upendra](https://zh.wikipedia.org/wiki/Upendra "wikilink")[执导](https://zh.wikipedia.org/wiki/导演 "wikilink")
+  - [A (Kannada电影)](https://zh.wikipedia.org/wiki/A_\(Kannada电影\) "wikilink")，由[Upendra](https://zh.wikipedia.org/wiki/Upendra "wikilink")[执导](../Page/导演.md "wikilink")
   - [A (电影)](https://zh.wikipedia.org/wiki/A_\(电影\) "wikilink")，一部1965年的电影
   - A，印度[Central Board of Film Certification的一个评级](https://zh.wikipedia.org/wiki/Central_Board_of_Film_Certification "wikilink")
   - [A证书](https://zh.wikipedia.org/wiki/A证书 "wikilink")，一个[加拿大](../Page/加拿大.md "wikilink")电影评级
@@ -116,6 +116,8 @@
   - a，[国际音标中表示](https://zh.wikipedia.org/wiki/国际音标 "wikilink")[開前不圓唇元音](../Page/開前不圓唇元音.md "wikilink")
   - ɑ，[国际音标中表示](https://zh.wikipedia.org/wiki/国际音标 "wikilink")[開後不圓唇元音](../Page/開後不圓唇元音.md "wikilink")
 
+## 交通
+
 ## 其他
 
   - A，Annum，[拉丁语](../Page/拉丁语.md "wikilink")中表示“[年](../Page/年.md "wikilink")”
@@ -124,8 +126,6 @@
   - A，[纽约证券交易所](../Page/纽约证券交易所.md "wikilink")中[安捷伦科技有限公司的代码](https://zh.wikipedia.org/wiki/安捷伦科技有限公司 "wikilink")
   - [Anarchy-symbol.svg](https://zh.wikipedia.org/wiki/File:Anarchy-symbol.svg "fig:Anarchy-symbol.svg")，[无政府主义](../Page/无政府主义.md "wikilink")的符号
   - A，[Alton Railroad](https://zh.wikipedia.org/wiki/Alton_Railroad "wikilink")
-  - [紐約地鐵A線](../Page/紐約地鐵A線.md "wikilink")
-  - [A (S-train)](https://zh.wikipedia.org/wiki/A_\(S-train\) "wikilink")，一条[哥本哈根地铁线路](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")
   - A，[扑克牌](../Page/扑克牌.md "wikilink")中的一张牌
   - A系列，[ISO 216定义的一系列纸张大小](../Page/ISO_216.md "wikilink")
   - [A股](https://zh.wikipedia.org/wiki/A股 "wikilink")

@@ -12,16 +12,12 @@ V模型的左側是需求的分解，並且產生系統的規格，V模型的右
 
 {{-}}
 
-[Category:项目管理](https://zh.wikipedia.org/wiki/Category:项目管理 "wikilink")
+[Category:项目管理](https://zh.wikipedia.org/wiki/Category:项目管理 "wikilink") [Category:软件工程](https://zh.wikipedia.org/wiki/Category:软件工程 "wikilink") [Category:軟體開發](https://zh.wikipedia.org/wiki/Category:軟體開發 "wikilink")
 
 1.  [*Clarus Concept of Operations.*](http://www.itsdocs.fhwa.dot.gov/jpodocs/repts_te/14158.htm)  Publication No. FHWA-JPO-05-072, Federal Highway Administration (FHWA), 2005
-
 2.  ["The Dangerous & Seductive V Model"](http://www.clarotesting.com/page11.htm#coherence), accessed January 9, 2013.
-
 3.
 4.
 5.
-
 6.
-
 7.  Forsberg, K. and Mooz, H., "[The Relationship of Systems Engineering to the Project Cycle](http://www.csm.com/repository/model/rep/o/pdf/Relationship%20of%20SE%20to%20Proj%20Cycle.pdf) ," First Annual Symposium of the National Council On Systems Engineering (NCOSE), October 1991

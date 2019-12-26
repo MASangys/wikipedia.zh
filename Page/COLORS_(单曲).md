@@ -83,7 +83,7 @@
 
 ## 外部連結
 
-  - [Utada Hikaru's Website](http://www.emimusic.jp/hikki/) — Official EMI Music website
+  - [Utada Hikaru's Website](https://web.archive.org/web/20081118160943/http://www.emimusic.jp/hikki/) — Official EMI Music website
   - [The Colors Fanlisting](https://web.archive.org/web/20070928034210/http://caged-child.net/dreams/extras) — Includes further information about the song and PV
 
 [Category:宇多田光歌曲](https://zh.wikipedia.org/wiki/Category:宇多田光歌曲 "wikilink") [Category:宇多田光影像作品](https://zh.wikipedia.org/wiki/Category:宇多田光影像作品 "wikilink") [Category:2003年單曲](https://zh.wikipedia.org/wiki/Category:2003年單曲 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:2003年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2003年Oricon單曲月榜冠軍作品 "wikilink") [Category:2003年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2003年Oricon單曲週榜冠軍作品 "wikilink") [Category:顏色題材樂曲](https://zh.wikipedia.org/wiki/Category:顏色題材樂曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:遊戲主題曲](https://zh.wikipedia.org/wiki/Category:遊戲主題曲 "wikilink")

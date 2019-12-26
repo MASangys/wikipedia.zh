@@ -56,12 +56,9 @@ T-85型:T-85 X翼战机是X翼战机在[恩多战役后的最新機型](https://
 [Category:星際大戰太空船艦](https://zh.wikipedia.org/wiki/Category:星際大戰太空船艦 "wikilink") [Category:星際大戰武裝載具](https://zh.wikipedia.org/wiki/Category:星際大戰武裝載具 "wikilink") [Category:虛構交通工具](https://zh.wikipedia.org/wiki/Category:虛構交通工具 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
 7.

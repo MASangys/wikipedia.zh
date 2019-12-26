@@ -77,7 +77,7 @@ Virtual Boy是一个非常注重三维运动的主机，而这需要一个支持
 
 [Virtual_Boy_-_Akihabara,_Otaku_Style.jpg](https://zh.wikipedia.org/wiki/File:Virtual_Boy_-_Akihabara,_Otaku_Style.jpg "fig:Virtual_Boy_-_Akihabara,_Otaku_Style.jpg") Virtual Boy被评论家压倒性地抨击并且是一个。\[84\]Virtual Boy的失败的原因有很多，其中包括它的高价，游玩时给玩家带来的不适以及被广泛认为是一个处理不当的营销活动。\[85\]
 
-1994年在初心会节目中体验Virtual Boy的游戏玩家抱怨说“马里奥”游戏演示不够逼真，不是全彩色，并且游戏画面不能“跟踪”玩家的头部运动。\[86\]节目结束后的《[电子游戏月刊](../Page/电子游戏月刊.md "wikilink")》的主编Ed Semrad预测Virtual Boy会由于其单色屏幕，缺乏便携性以及在Shoshinkai节目上的表现导致其首发时销量过低。而至于价格，虽然已经低到硬件的成本价格了，但对于游戏机给玩家的体验来说依旧太贵了。\[87\]《》的编辑在Virtual Boy发售时也对其前景产生了怀疑，并在他们的文章中通过评论的方式来总结了该游戏机：“但是谁会买它？这个游戏机并不真正的便携，而且用起来很尴尬。它100%的反社会（不像[SNES](https://zh.wikipedia.org/wiki/SNES "wikilink")/[Genesis游戏](https://zh.wikipedia.org/wiki/Sega_Genesis "wikilink")），它很贵，而且最重要的“VR”（或者说3D效果），并不会增加游戏的内容，它只是一个很新奇的事物而已。”\[88\]
+1994年在初心会节目中体验Virtual Boy的游戏玩家抱怨说“马里奥”游戏演示不够逼真，不是全彩色，并且游戏画面不能“跟踪”玩家的头部运动。\[86\]节目结束后的《[电子游戏月刊](../Page/电子游戏月刊.md "wikilink")》的主编Ed Semrad预测Virtual Boy会由于其单色屏幕，缺乏便携性以及在Shoshinkai节目上的表现导致其首发时销量过低。而至于价格，虽然已经低到硬件的成本价格了，但对于游戏机给玩家的体验来说依旧太贵了。\[87\]《》的编辑在Virtual Boy发售时也对其前景产生了怀疑，并在他们的文章中通过评论的方式来总结了该游戏机：“但是谁会买它？这个游戏机并不真正的便携，而且用起来很尴尬。它100%的反社交（不像[SNES](https://zh.wikipedia.org/wiki/SNES "wikilink")/[Genesis游戏](https://zh.wikipedia.org/wiki/Sega_Genesis "wikilink")），它很贵，而且最重要的“VR”（或者说3D效果），并不会增加游戏的内容，它只是一个很新奇的事物而已。”\[88\]
 
 在发布之后，Virtual Boy的评论倾向于赞美其新颖性，但质疑其最终目的和长期可行性。《[洛杉矶时报](https://zh.wikipedia.org/wiki/洛杉矶时报 "wikilink")》描述其游戏玩法“既熟悉又奇怪"，\[89\]其专栏里赞扬了Virtual Boy的运动质量和沉浸式的图形，但认为硬件本身使用起来既乏味又不便携。同一评论者后来的专栏发现Virtual Boy有点，但它对游戏机的未来抱有希望。\[90\]在北美推出后不久再来回顾该游戏机，《Next Generation》说：“不同寻常和创新，Virtual Boy可以像Game Boy一样被视为一场赌博，但是要看到Virtual Boy成功的达到Game Boy一样的征服世界要困难得多。”。他们详细说明，虽然清晰的显示效果和独特的3D效果令人印象深刻，但单色的游戏画面显示和对年轻游戏玩家的潜在视力损害等方面严重限制了游戏机的吸引力。他们补充说游戏库很不错，但未能充分利用任天堂最畅销的游戏系列（《塞尔达》和《银河战士》系列游戏的缺席，《马里奥》系列游戏的风格改变 ）。\[91\]
 
@@ -146,13 +146,11 @@ Virtual Boy在游戏《[任天堂明星大亂鬥DX](https://zh.wikipedia.org/wik
 3.
 4.
 5.
-
 6.
 7.
 8.
 9.
 10.
-
 11.
 12.
 13.
@@ -161,128 +159,83 @@ Virtual Boy在游戏《[任天堂明星大亂鬥DX](https://zh.wikipedia.org/wik
 16.
 17.
 18. Rafferty, Kevin. "Super Mario Takes Leap into Three Dimensional Space." The Guardian (1959-2003): 2. ProQuest Historical Newspapers: The Guardian (1821-2003) and The Observer (1791-2003). November 16, 1994. Web. May 24, 2012.
-
 19.
 20.
 21.
 22.
-
 23.
-
 24.
-
 25.
-
 26.
 27.
-
 28. John Markoff. "Nintendo Counts on a New 'Virtual' Game." New York Times (1923-Current file): 2. November 14, 1994. ProQuest. Web. July 8, 2013.
-
 29.
-
 30.
 31. Boyer, Steven. "A Virtual Failure: Evaluating the Success of Nintendos Virtual Boy." Velvet Light Trap.64 (2009): 23-33. ProQuest Research Library. Web. May 24, 2012.
-
 32.
 33.
-
 34.
 35.
-
 36. "BreakTime: Virtual Boy Updates the Viewmaster Idea." Design News. 6 (1995): 192.
-
 37.
-
 38. Curtiss, Aaron. "Valley Weekend; VIDEO GAMES; Virtual Boy a Blend of Familiar and Strange; although Hardware for the Latest Nintendo Offering is Odd and Cumbersome, the Play Action is Big and Loud." Los Angeles Times (pre-1997 Fulltext): 14. Los Angeles Times. August 31, 1995. Web. May 24, 2012.
-
 39.
-
 40.
 41.
 42. "Introduction by Nintendo." New York Times: D.7. New York Times. August 22, 1995. Web. May 24, 2012.
-
 43. [Nintendo co.: U.S. unit begins shipping virtual boy video system](http://search.proquest.com/docview/398447594?accountid=14749). (August 22, 1995). Wall Street Journal, pp. B10-B10.
-
 44. Ahmad-Taylor, Ty. "A Crowded Field: Portable Video Games." New York Times (1923-Current file): D5. ProQuest Historical Newspapers: The New York Times (1851-2008). December 4, 1995. Web. May 24, 2012.
-
 45.
-
 46.
-
 47.
 48.
 49.
-
 50.
 51.
 52.
 53.
 54.
-
 55. Elliott, Stuart. "THE MEDIA BUSINESS: ADVERTISING -- ADDENDA; CBS and NBC Take Promotion Partners." New York TimesJun 01 1995. ProQuest. Web. July 8, 2013.
-
 56.
 57. "Nintendo/Nickelodeon/Blockbuster." Mediaweek 6.30 (1996): 36-. ABI/INFORM Global; ProQuest Research Library. Web. May 24, 2012.
-
 58.
 59.
-
 60.
 61.
 62.
-
 63.
-
 64.
 65.
 66. Powell, Doug. "A Virtual Backlash." Computing Canada December 21, 1994: 1,1,4. ABI/INFORM Global. Web. May 24, 2012.
-
 67.
-
 68.
 69.
 70.
-
 71. KEVIN RAFFERTY, IN T. "Super Mario Takes Leap into Three Dimensional Space." The Guardian (pre-1997 Fulltext): 0. November 16, 1994. ProQuest. Web. July 8, 2013.
-
 72.
-
 73.
-
 74.
-
 75.
 76.
 77.
-
 78.
-
 79.
 80.
-
 81.
-
 82.
-
 83.
 84.
-
 85.
 86.
 87.
-
 88.
-
 89.
 90. Curtiss, Aaron. "VALLEY WEEKEND; Nintendo Virtual Boy Measures Up to Billing; as its Library of Titles Slowly Grows, the 3-D System is Becoming More Well-Rounded and Less of a Headache." Los Angeles Times (pre-1997 Fulltext): 15. Los Angeles Times. May 2, 1996. Web. May 24, 2012.
-
 91.
-
 92.
 93.
 94.
 95. Frischling, Bill. "Sideline Play." The Washington Post (1974-Current file): 11. ProQuest Historical Newspapers: The Washington Post (1877-1995). October 25, 1995. Web. May 24, 2012.
-
 96.
 97.
 98.
@@ -290,36 +243,22 @@ Virtual Boy在游戏《[任天堂明星大亂鬥DX](https://zh.wikipedia.org/wik
 100.
 101.
 102.
-
 103.
 104.
 105.
-
 106.
-
 107.
-
 108.
-
 109.
 110. "Introduction." Velvet Light Trap.64 (2009): 1-2. ProQuest Research Library. Web. May 24, 2012.
-
 111.
 112.
-
 113.
 114.
-
 115.
-
 116.
-
 117.
-
 118.
-
 119.
-
 120.
-
 121.

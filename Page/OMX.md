@@ -1,6 +1,6 @@
 [Borshuset-2003-04-14.jpg](https://zh.wikipedia.org/wiki/File:Borshuset-2003-04-14.jpg "fig:Borshuset-2003-04-14.jpg")\]\]
 
-**OMX AB**（**A**ktie**B**olaget **O**ptions**M**äklarna/Helsinki Stock E**X**change）是一家跨国[金融服务公司](https://zh.wikipedia.org/wiki/金融服务 "wikilink")，OMX AB由**OM AB**和**HEX plc**于2003年合并而成，在2008年2月成为了[纳斯达克OMX集团旗下子公司](https://zh.wikipedia.org/wiki/纳斯达克OMX集团 "wikilink")\[1\]。OMX AB有两个分支机构：在[北欧和](https://zh.wikipedia.org/wiki/北欧 "wikilink")[波罗的海国家](../Page/波罗的海国家.md "wikilink")运营着8个[证券交易所](../Page/证券交易所.md "wikilink")的“OMX 证券交易所（OMX Exchanges）”和为OMX和其它证券交易所研发所用作金融交易服务的市场分析系统的“OMX科技（OMX Technology）”，同时，OMX科技也是全球领先的金融工具交易系统开发商。
+**OMX AB**（）是一家跨国[金融服务公司](https://zh.wikipedia.org/wiki/金融服务 "wikilink")，OMX AB由**OM AB**和**HEX plc**于2003年合并而成，在2008年2月成为了[纳斯达克OMX集团旗下子公司](https://zh.wikipedia.org/wiki/纳斯达克OMX集团 "wikilink")\[1\]。OMX AB有两个分支机构：在[北欧和](https://zh.wikipedia.org/wiki/北欧 "wikilink")[波罗的海国家](../Page/波罗的海国家.md "wikilink")运营着8个[证券交易所](../Page/证券交易所.md "wikilink")的“OMX 证券交易所（OMX Exchanges）”和为OMX和其它证券交易所研发所用作金融交易服务的市场分析系统的“OMX科技（OMX Technology）”，同时，OMX科技也是全球领先的金融工具交易系统开发商。
 
 ## 历史
 
@@ -114,33 +114,19 @@ OMX的技术客户包括：
 [Category:瑞典公司](https://zh.wikipedia.org/wiki/Category:瑞典公司 "wikilink") [Category:芬兰公司](https://zh.wikipedia.org/wiki/Category:芬兰公司 "wikilink") [Category:2003年成立的公司](https://zh.wikipedia.org/wiki/Category:2003年成立的公司 "wikilink")
 
 1.  <http://www.securitiesindustry.com/news/22064-1.html> Article on Nasdaq's Acquisition of OMX
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.

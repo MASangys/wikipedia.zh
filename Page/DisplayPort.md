@@ -157,7 +157,7 @@ DisplayPort 1.2支援MST（Multi-Stream Transport），單個DP可連接到多�
 
 1.
 2.
-3.  Tony Smith, ["DisplayPort revision to get mini connector, stereo 3D"](http://www.reghardware.co.uk/2009/01/13/displayport_1dot2_basics/), *The Register*, 13 January 2009
+3.  Tony Smith, ["DisplayPort revision to get mini connector, stereo 3D"](http://www.reghardware.co.uk/2009/01/13/displayport_1dot2_basics/) , *The Register*, 13 January 2009
 4.
 5.
 6.

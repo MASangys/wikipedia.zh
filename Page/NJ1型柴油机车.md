@@ -62,17 +62,11 @@ NJ1型机车采用交流辅助传动系统，并采用[可编程控制器](https
 [Category:中国柴油机车](https://zh.wikipedia.org/wiki/Category:中国柴油机车 "wikilink") [Category:中车四方制铁路机车](https://zh.wikipedia.org/wiki/Category:中车四方制铁路机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink") [Category:调车机车](https://zh.wikipedia.org/wiki/Category:调车机车 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
-
 9.

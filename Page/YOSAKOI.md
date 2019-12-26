@@ -77,4 +77,4 @@
 17. [2006台灣燈會節目表](http://www.tncg.gov.tw/pda_01.asp?id=%7BE94573A5-5615-4A37-AF22-BD1DAFA71357%7D)
 18. [2007台灣燈會燈會報導](http://www.motc.gov.tw/mocwebGIP/wSite/ct?xItem=3687&ctNode=145&mp=1)
 19. [2008臺灣燈會報導](http://www.epochtimes.com/b5/8/2/21/n2018726.htm)
-20. [2009台灣燈會節目表](http://taiwan.net.tw/2009TaiwanLantern/tw/performances_3.html)
+20.

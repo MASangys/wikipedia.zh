@@ -57,5 +57,4 @@
 
 1.
 2.  Shikano Atsushi. *Rockin'on Japan*. February 2001. Volume 165.
-
 3.  「Maria」一詞在日語中，通常就指的是聖母瑪利亞。

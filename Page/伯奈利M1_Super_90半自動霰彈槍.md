@@ -59,7 +59,7 @@
 
   - —[Remtek.com—Benelli M1 Super 90](http://remtek.com/arms/hk/civ/benelli/m1s90.htm)
 
-  - —[American Rifleman's Exploded-View Diagram of the Benelli M1 Super 90 Montefeltro Edition](http://americanrifleman.org/ArticlePage.aspx?id=1496&cid=15)
+  - —[American Rifleman's Exploded-View Diagram of the Benelli M1 Super 90 Montefeltro Edition](https://web.archive.org/web/20110911130709/http://www.americanrifleman.org/ArticlePage.aspx?id=1496&cid=15)
 
   - —The Firearm Blog—
 

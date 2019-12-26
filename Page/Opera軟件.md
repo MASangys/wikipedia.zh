@@ -33,32 +33,18 @@ Opera軟件於1995年由Jon Stephenson von Tetzchner和GeirIvarsøy作為一家�
 [Category:Opera_Software](https://zh.wikipedia.org/wiki/Category:Opera_Software "wikilink") [Category:挪威软件公司](https://zh.wikipedia.org/wiki/Category:挪威软件公司 "wikilink") [Category:奥斯陆公司](https://zh.wikipedia.org/wiki/Category:奥斯陆公司 "wikilink") [Category:跨國軟件公司](https://zh.wikipedia.org/wiki/Category:跨國軟件公司 "wikilink") [Category:1995年成立的公司](https://zh.wikipedia.org/wiki/Category:1995年成立的公司 "wikilink") [Category:2018年IPO](https://zh.wikipedia.org/wiki/Category:2018年IPO "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  [Revealing the new Opera brand](https://www.youtube.com/watch?t=8&v=KvJJk5Z-iZE). Opera, on YouTube. 21 September 2015. Retrieved 2018-01-04.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.

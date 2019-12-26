@@ -19,7 +19,7 @@
 ## 支援格式
 
   - Mp3tag可支援的音樂檔案格式
-    [AAC](https://zh.wikipedia.org/wiki/AAC "wikilink")、[ALAC](https://zh.wikipedia.org/wiki/ALAC "wikilink")、[AIFF](https://zh.wikipedia.org/wiki/AIFF "wikilink")（AIF／AIFC／AIFF）、[DSF](../Page/Direct_Stream_Digital.md "wikilink")、[FLAC](../Page/FLAC.md "wikilink")、[Matroska](../Page/Matroska.md "wikilink")（MKA／MKV）、[APE](../Page/Monkey's_Audio.md "wikilink")、[MP3](../Page/MP3.md "wikilink")、[MPEG-4](../Page/MPEG-4.md "wikilink")（MP4／[M4A](../Page/進階音訊編碼.md "wikilink")／[M4B](../Page/進階音訊編碼.md "wikilink")／[M4V](https://zh.wikipedia.org/wiki/M4V "wikilink")／iTunes）、[MPC](../Page/Musepack.md "wikilink")、[OGG](../Page/Ogg.md "wikilink")、（OFR／OFS）、[SPX](https://zh.wikipedia.org/wiki/Speex "wikilink")、[TAK](../Page/TAK.md "wikilink")、[TTA](../Page/TTA.md "wikilink")、WMA、[WV](../Page/WavPack.md "wikilink")、[WAV](../Page/WAV.md "wikilink")
+    [AAC](https://zh.wikipedia.org/wiki/AAC "wikilink")、[ALAC](https://zh.wikipedia.org/wiki/ALAC "wikilink")、[AIFF](https://zh.wikipedia.org/wiki/AIFF "wikilink")（AIF／AIFC／AIFF）、[DSF](../Page/Direct_Stream_Digital.md "wikilink")、[FLAC](../Page/FLAC.md "wikilink")、[Matroska](../Page/Matroska.md "wikilink")（MKA／MKV）、[APE](../Page/Monkey's_Audio.md "wikilink")、[MP3](../Page/MP3.md "wikilink")、[MPEG-4](../Page/MPEG-4.md "wikilink")（MP4／[M4A](../Page/進階音訊編碼.md "wikilink")／[M4B](../Page/進階音訊編碼.md "wikilink")／[M4V](https://zh.wikipedia.org/wiki/M4V "wikilink")／iTunes）、[MPC](../Page/Musepack.md "wikilink")、[OGG](../Page/Ogg.md "wikilink")、[OptimFROG](../Page/OptimFROG.md "wikilink")（OFR／OFS）、[SPX](https://zh.wikipedia.org/wiki/Speex "wikilink")、[TAK](../Page/TAK.md "wikilink")、[TTA](../Page/TTA.md "wikilink")、WMA、[WV](../Page/WavPack.md "wikilink")、[WAV](../Page/WAV.md "wikilink")
 
 ## 相關條目
 

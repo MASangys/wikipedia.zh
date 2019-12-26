@@ -68,7 +68,9 @@ Lubuntu計劃由[LXDE](../Page/LXDE.md "wikilink")團隊推出，原本預計在
 | 17.10 | *Artful Aardvark*   | 2017年10月19日 | 2018年7月  |                                                                             |
 | 18.04 | *Bionic Beaver*     | 2018年4月27日  | 2021年4月  | 第三個官方的長期支援版本                                                                |
 | 18.10 | *Cosmic Cuttlefish* | 2018年10月19日 | 2019年7月  | 將桌面環境切換為基於[Qt](../Page/Qt.md "wikilink")的[LXQt](../Page/LXQt.md "wikilink") |
-| 19.04 | *Disco Dingo*       | 2019年4月18日  | 2020年1月  | 當前版本                                                                        |
+| 19.04 | *Disco Dingo*       | 2019年4月18日  | 2020年1月  |                                                                             |
+| 19.10 | *Eoan Ermine*       | 2019年10月17日 | 2020年7月  | 當前版本                                                                        |
+| 20.04 | *Focal Fossa*       | 2020年4月23日  | 2023年4月  | 第四個官方的長期支援版本                                                                |
 
 | 色彩 | 意義      |
 | -- | ------- |

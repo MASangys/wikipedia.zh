@@ -10,7 +10,7 @@
 
 ### 第一版及加熱版
 
-這張專輯收錄了六首新歌及一首Remix，其中《Vanilla》、《不要防曬》、《你的味道》及《煙花祭》於專輯發行前已經派台，《煙花祭》更為2007年度[兒歌金曲頒獎典禮](../Page/兒歌金曲頒獎典禮.md "wikilink")的後選歌曲。全碟歌曲監製為[Edward Chan](https://zh.wikipedia.org/wiki/Edward_Chan "wikilink")、Charles Lee及King Kong。
+這張專輯收錄了六首新歌及一首Remix，其中《Vanilla》、《不要防曬》、《你的味道》及《煙花祭》於專輯發行前已經派台，《煙花祭》更為2007年度[兒歌金曲頒獎典禮](../Page/兒歌金曲頒獎典禮.md "wikilink")的候選歌曲。全碟歌曲監製為[Edward Chan](https://zh.wikipedia.org/wiki/Edward_Chan "wikilink")、Charles Lee及King Kong。
 
 <table>
 <thead>

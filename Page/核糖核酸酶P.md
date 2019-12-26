@@ -25,38 +25,23 @@
 [Category:核糖核酸酶](https://zh.wikipedia.org/wiki/Category:核糖核酸酶 "wikilink") [Category:核酶](https://zh.wikipedia.org/wiki/Category:核酶 "wikilink") [Category:RNA剪接](https://zh.wikipedia.org/wiki/Category:RNA剪接 "wikilink") [Category:核糖核蛋白](https://zh.wikipedia.org/wiki/Category:核糖核蛋白 "wikilink")
 
 1.
-
 2.  [1989年度诺贝尔化学奖](http://nobelprize.org/chemistry/laureates/1989/)
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
 16.
-
 17.
-
 18.
-
 19.
-
 20.
 21.

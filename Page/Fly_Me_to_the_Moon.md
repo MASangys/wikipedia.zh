@@ -18,9 +18,9 @@
 
 1962年[Joe Harnell改编并录制的](https://zh.wikipedia.org/wiki/Joe_Harnell "wikilink")[巴薩諾瓦](../Page/巴薩諾瓦.md "wikilink")风格的器乐版本并于当年年底作为单曲发行\[29\]。这首歌1963年在[告示牌百强单曲榜](../Page/告示牌百强单曲榜.md "wikilink")排名第14位\[30\]并帮助获得格莱美奖\[31\]。Harnell录制的版本同时也收录于他的专辑《Fly Me To The Moon And The Bossa Nova Pops》中于1963年初发行\[32\]并在[公告牌二百强专辑榜](../Page/公告牌二百强专辑榜.md "wikilink")上排名第3位\[33\]。20世纪60年代，许多歌手，如\[34\]、[Al Hirt](https://zh.wikipedia.org/wiki/Al_Hirt "wikilink")\[35\]和\[36\]等都曾翻唱过这首歌。
 
-## 被确认为"标志性歌曲"
+## 被确认为“标志性歌曲”
 
-1999年，美国 将"Fly Me to the Moon"确立为"标志性歌曲"，\[37\] 这是用来奖励"...每年最具代表性的歌曲，从而来肯定其对于人类文化历史上的独特贡献。”\[38\]
+1999年，美国 将“Fly Me to the Moon”确立为“标志性歌曲”，\[37\] 这是用来奖励“……每年最具代表性的歌曲，从而来肯定其对于人类文化历史上的独特贡献。”\[38\]
 
 ## 使用作品
 
@@ -68,82 +68,44 @@
 
 1.
 2.
-
 3.
-
 4.  James Gavin, "Intimate Nights: The Golden age Of New York Cabaret", New York, Back Stage Books, 2006 cited in <http://greatamericansongbook.net/pages/songs/f/fly_me_to_the_moon.html>, Retrieved 26 November 2013
-
 5.  Will Friedwald, "Sinatra\! The Song Is You: A Singer's Art", Scribner, New York, 1995, page 411
-
 6.  Stephen Holden, "Product of 20 Minutes: A Million Dollar Song", New York Times, Published December 19, 1988 <http://www.nytimes.com/1988/12/19/arts/product-of-20-minutes-a-million-dollar-song.html>, Retrieved 26 November 2013
-
 7.
 8.
-
 9.
-
 10. 45cat, Decca, 9-29114,http://www.45cat.com/record/929114, Retrieved 27 November 2013
-
 11. YouTube, In Other Words (original) - Kaye Ballard 1954, Uploaded 14 May 2010:<https://www.youtube.com/watch?v=mcwlGjDNkkw>, Retrieved 16 April 2014
-
 12.
-
 13.
-
 14. Johnny Mathis, "Johnny Mathis", Columbia CL 887,1956 <http://www.discogs.com/Johnny-Mathis-Johnny-Mathis/master/543310>, Retrieved 26 November 2013
-
 15. Portia Nelson, "Let Me Love You: Portia Nelson Sings the Songs of Bart Howard", New Sound (NS)3002, 1956, <http://www.discogs.com/Portia-Nelson-Bart-Howard-Let-Me-Love-You/release/5592051>, Retrieved 16 April 2014
-
 16. Nancy Wilson, "Like in Love", Capitol Records, T-1319/ST-1319, 1960 <http://www.discogs.com/Nancy-Wilson-Like-In-Love/master/543319>, Retrieved 27 November 2013
-
 17. "Eydie In Love", ABC Paramount ABC/ABCS 246, 1958 as detailed in David Edwards, Patrice Eyries, and Mike Callahan, "ABC-Paramount Album Discography, Part 2 ABC-200 to 299 (1957-1959)", <http://www.bsnpubs.com/abc/abc200.html>, Retrieved 26 November 2013
-
 18. Cashbox Charts, Week of 18 October 1958, <http://hitsofalldecades.com/chart_hits/index.php?option=com_content&task=view&id=1887&Itemid=52>, Retrieved 1 December 2013
-
 19. "Grammy Award for Best Female Pop Vocal Performance", <https://en.wikipedia.org/wiki/Grammy_Award_for_Best_Female_Pop_Vocal_Performance>, Retrieved 14 April 2014
-
 20.
-
 21.
 22. Todd S. Jenkins, "Bart Howard: Composer of 'Fly Me To The Moon', 'Let Me Love You' ", <http://www.jazzhouse.org/gone/lastpost2.php3?edit=1078245748>, Retrieved 26 November 2013
-
 23.
 24. Nat King Cole and George Shearing, Nat King Cole Sings George Shearing Plays, Capitol Records SM-1675, 1962, <http://www.discogs.com/Nat-King-Cole-George-Shearing-Nat-King-Cole-Sings-George-Shearing-Plays/release/2656427>, Retrieved 1 December 2013
-
 25. Sarah Vaughan, "You're Mine You", Roulette Records, SR 52082, 1962, <http://www.discogs.com/Sarah-Vaughan-Youre-Mine-You/release/3178058>, Retrieved 1 December 2013
-
 26. Brenda Lee, "All Alone Am I", Decca DL 74370 , 1963, <http://www.discogs.com/Brenda-Lee-All-Alone-Am-I/release/3036469>, Retrieved 1 December 2013
-
 27. 45cat, MGM K 2078, 1963 <http://www.45cat.com/record/k2078>
-
 28. 45cat, MGM, HT 057-78, 1963,http://www.45cat.com/record/ht05778
-
 29. Joe Harnell & His Orchestra, "Fly Me To The Moon", Kapp Records K-497X, <http://www.discogs.com/Joe-Harnell-And-His-Orchestra-Fly-Me-To-The-Moon-Harlem-Nocturne/master/278847>
-
 30. [Nielsen Business Media, Inc., *Billboard*, 23 February 1963, Page 28](http://books.google.com.au/books?id=dgsEAAAAMBAJ&pg=PA51&redir_esc=y#v=snippet&q=hot%201oo%20harnell%2028&f=false), Retrieved 15 April 2014
-
 31.
-
 32. Joe Harnell His Piano and Orchestra, "Fly Me to the Moon Bossa Nova Pops", <http://www.discogs.com/Joe-Harnell-His-Piano-And-Orchestra-Fly-Me-To-The-Moon-And-The-Bossa-Nova-Pops/master/231087>, Retrieved 29 November 20132
-
 33. [Nielsen Business Media, Inc., *Billboard*, 16 March 1963, Page 66](http://books.google.com.au/books?id=eQsEAAAAMBAJ&pg=66&redir_esc=y#v=snippet&q=harnell%2050%20150%20stereo%20monaural&f=false), Retrieved 15 April 2014
-
 34. Roy Haynes Quartet, "Out in the Afternoon", <http://www.discogs.com/Roy-Haynes-Quartet-Out-Of-The-Afternoon/master/266318>, Retrieved 30 November 2013
-
 35. Al Hirt, "Honey in the Horn", RCA Victor, LPM 2763, 1963, <http://www.discogs.com/Al-Hirt-Honey-In-The-Horn/release/1336377>, Retrieved 14 April 2014
-
 36. The Oscar Peterson Trio, *The Oscar Peterson Trio Plays*, Verve Records, V-8591 and VS-8591, 1964: <http://www.discogs.com/Oscar-Peterson-Trio-The-Oscar-Peterson-Trio-Plays/master/414161>, Retrieved 15 April 2014
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43. IMBD, "Wall Street" 1987, Soundtrack, <http://www.imdb.com/title/tt0094291/soundtrack?ref_=tt_trv_snd>, Retrieved 30 November 2013

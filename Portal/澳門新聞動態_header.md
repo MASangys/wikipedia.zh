@@ -1,9 +1,9 @@
 __NOTOC__
 
-|                                                                |
-| :------------------------------------------------------------- |
-| [澳門首頁新聞焦點](https://zh.wikipedia.org/wiki/Portal:澳門 "wikilink") |
-| <span style="float: right; "></span>                           |
+|                                             |
+| :------------------------------------------ |
+| [澳門首頁新聞焦點](../Page/Portal:澳門.md "wikilink") |
+| <span style="float: right; "></span>        |
 
 <table>
 <tbody>

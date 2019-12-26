@@ -1,6 +1,6 @@
 [LSQ_2.jpg](https://zh.wikipedia.org/wiki/File:LSQ_2.jpg "fig:LSQ_2.jpg")
 
-**V字手勢**（[Emoji](https://zh.wikipedia.org/wiki/Emoji "wikilink")：[✌](https://zh.wikipedia.org/wiki/✌ "wikilink")），手勢的做法除[食指及](https://zh.wikipedia.org/wiki/食指 "wikilink")[中指豎起外其他手指向手心彎曲](https://zh.wikipedia.org/wiki/中指 "wikilink")。通常，手心向內或外並無區別，但手心向內的手勢在某些西方國家有[侮辱含義](https://zh.wikipedia.org/wiki/侮辱 "wikilink")。
+**V字手勢**（[Emoji](https://zh.wikipedia.org/wiki/Emoji "wikilink")：[✌](https://zh.wikipedia.org/wiki/✌ "wikilink")），手勢的做法除[食指及](https://zh.wikipedia.org/wiki/食指 "wikilink")[中指豎起外其他手指向手心彎曲](https://zh.wikipedia.org/wiki/中指 "wikilink")。通常，手心向內或外並無區別，但手心向內的手勢在某些西方國家有[侮辱](../Page/侮辱.md "wikilink")含義。
 
 [英國首相](https://zh.wikipedia.org/wiki/英國首相 "wikilink")[邱吉爾於](https://zh.wikipedia.org/wiki/邱吉爾 "wikilink")[第二次世界大戰帶起V字手勢的風潮](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")。他以V字手勢代表[勝利](https://zh.wikipedia.org/wiki/勝利 "wikilink")（Victory）的第一個字母「V」，所以又名**勝利手勢**\[1\]\[2\]。
 
@@ -63,7 +63,7 @@ V字手勢在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")1960年代
 
 ### 来源
 
-一個普遍的V字手势起源傳說指出V字手势源自[英法百年戰爭中](https://zh.wikipedia.org/wiki/英法百年戰爭 "wikilink")[阿金庫爾戰役的弓箭手](https://zh.wikipedia.org/wiki/阿金庫爾戰役 "wikilink")。根據此故事指出，由於[法國人鄙視](https://zh.wikipedia.org/wiki/法國人 "wikilink")[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[弓箭手的低微](https://zh.wikipedia.org/wiki/弓箭手 "wikilink")，戰前宣稱說一旦抓住俘虜，會剁去他們的[中指和](https://zh.wikipedia.org/wiki/中指 "wikilink")[食指讓他們一輩子不能再張弓射箭](https://zh.wikipedia.org/wiki/食指 "wikilink")。但後來[英軍打敗了](https://zh.wikipedia.org/wiki/英軍 "wikilink")[法軍](https://zh.wikipedia.org/wiki/法軍 "wikilink")，勝利後，[英國人伸直](https://zh.wikipedia.org/wiki/英國人 "wikilink")[中指和](https://zh.wikipedia.org/wiki/中指 "wikilink")[食指](https://zh.wikipedia.org/wiki/食指 "wikilink")，掌心向內，向[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[俘虜示威](https://zh.wikipedia.org/wiki/俘虜 "wikilink")，意思是：我們的手指頭是完整的\[29\]\[30\]\[31\]。但是，至今仍沒有證據顯示當時的法國人有剁去英國弓箭手手指的習慣。當時的法國人會將戰俘集體處決，因為戰俘們沒有價值\[32\]。
+一個普遍的V字手势起源傳說指出V字手势源自[英法百年戰爭中](https://zh.wikipedia.org/wiki/英法百年戰爭 "wikilink")[阿金庫爾戰役的弓箭手](https://zh.wikipedia.org/wiki/阿金庫爾戰役 "wikilink")。根據此故事指出，由於[法國人鄙視](https://zh.wikipedia.org/wiki/法國人 "wikilink")[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[弓箭手的低微](https://zh.wikipedia.org/wiki/弓箭手 "wikilink")，戰前宣稱說一旦抓住俘虜，會剁去他們的[中指和](https://zh.wikipedia.org/wiki/中指 "wikilink")[食指讓他們一輩子不能再張弓射箭](https://zh.wikipedia.org/wiki/食指 "wikilink")。但後來[英軍打敗了](https://zh.wikipedia.org/wiki/英軍 "wikilink")[法軍](https://zh.wikipedia.org/wiki/法軍 "wikilink")，勝利後，[英國人伸直](https://zh.wikipedia.org/wiki/英國人 "wikilink")[中指和](https://zh.wikipedia.org/wiki/中指 "wikilink")[食指](https://zh.wikipedia.org/wiki/食指 "wikilink")，掌心向內，向[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[俘虜示威](https://zh.wikipedia.org/wiki/俘虜 "wikilink")，意思是：我們的手指頭是完整的\[29\]\[30\]\[31\]。然而，至今仍無證據顯示此事為真史——因當時法國人多將無利用價值的戰俘集體處決\[32\]。
 
 最早擁有確鑿證據顯示人們使用V字手势作侮辱的年份為1901年。當時，一位羅瑟勒姆工人向鏡頭擺出V字手势，以表示自己不願意被攝錄\[33\]。
 
@@ -114,64 +114,35 @@ V字手勢在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")1960年代
 
 1.
 2.  Ronald A. Smith, *Churchill: images of greatness*, 1988, p. 31
-
 3.  [V for Victory: The History of the "V" Sign for Victory and Peace](http://voices.yahoo.com/v-victory-history-v-sign-victory-851497.html)
-
 4.  Staff. [American Manual Alphabet Chart](http://www.iidc.indiana.edu/cedir/kidsweb/asl.html) Center for Disability Information & Referral (CeDIR), Indiana Institute on Disability and Community at Indiana University
-
 5.  Eric Patridge, Tom Dalzell, Terry Victor. (2008.) *[The Concise New Partridge Dictionary of Slang and Unconventional English](http://books.google.com/books?id=7UIjVGcSe8MC&pg=PA683#v=onepage&q&f=false)*, Routledge, p. 683. ISBN 0-203-96211-7
-
 6.  [Air quotes](http://www.phrases.org.uk/meanings/air-quotes.html) entry on [www.phrases.org.uk](http://www.phrases.org.uk/) by [Gary Martin](http://www.phrases.org.uk/gary-martin.html).
-
 7.  [See](http://www.lifeprint.com/asl101/pages-signs/s/see.htm), [ASL University](http://www.lifeprint.com/asl101/)
-
 8.  [Cardinal and Ordinal numbers](http://www.lifeprint.com/asl101/pages-signs/n/numbersordianlandcardinal.htm)
-
 9.  <http://qph.cf.quoracdn.net/main-qimg-6579398286cfe0ec1698231160b64512>
-
 10. <http://3.bp.blogspot.com/-cHxqAN-RIUg/Tvk0RmJVaTI/AAAAAAAAD_k/N3VVQp77Sv4/s1600/jyj_photowall_black_suits_v_sign.jpg> 站在紅毯上的南韓男子團體JYJ的成員
-
 11. 音：Yeah
-
 12.
 13. <http://dic.pixiv.net/a/%E3%82%A2%E3%83%98%E9%A1%94%E3%83%80%E3%83%96%E3%83%AB%E3%83%94%E3%83%BC%E3%82%B9>
-
 14. 另「啊嘿顏」（）是一種有時會出現在日本動漫或相關衍生作品，尤其十八禁作品中的一種扭曲的快樂表情，以眼神失焦、舌頭吐出為其特徵
-
 15. [The V-campaign](https://web.archive.org/web/20050312223729/http://home.luna.nl/~arjan-muil/radio/history/ww-2/v-campaign.html) at the virtual radiomuseum
-
 16.
 17. C. Sterling, 2003, *Encyclopedia of Radio* London: Taylor and Francis, page 359. [at Google Books](http://books.google.co.uk/books?id=Z4XJQD4O_TkC&pg=PA359&dq=v+for+victory+campaign+bbc&hl=en&ei=u3XGTbjlL4zA8QPJ7tj2Bw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCsQ6AEwAA#v=onepage&q=v%20for%20victory%20campaign%20bbc&f=false)
-
 18.
-
 19.
-
 20.
-
 21.
-
 22. Staff. [The V Sign](http://postalheritage.org.uk/page/icons-vsign)  The British Postal Museum & Archive (BPMA).
-
 23. [Archive video of Charles de Gaulle's speech at the London Albert Hall](http://www.ina.fr/art-et-culture/arts-du-spectacle/video/I00011986/discours-de-charles-de-gaulle-a-l-albert-hall.fr.html), 11 November 1942
-
 24. Staff. [The Japanese Version (the Sign of Peace)](https://web.archive.org/web/20080621122852/http://www.icons.org.uk/theicons/collection/the-v-sign/a-harvey-smith-to-you/the-asian-v-sign-in-progress) [ICONS. A portrait of England](https://web.archive.org/web/20070623145709/http://www.icons.org.uk/about-us). Accessed 1 June 2008
-
 25. Tony Keim ["Long tradition of flipping the bird"](http://www.couriermail.com.au/lifestyle/tradition-behind-the-bird/story-e6frer4f-1111118071016), *Courier Mail*, 2008-11-18
-
 26. Staff [Henry V](https://web.archive.org/web/20080607024254/http://www.britishshakespearecompany.com/synopsis.html), British Shakespeare Company
-
 27.
-
 28.
-
 29.
 30. Glyn Harper [Just the Answer](http://www.massey.ac.nz/~wwpubafs/magazine/2002_Nov/stories/questions.html) Alumni Magazine \[Massey University\] November 2002.
-
 31. Agincourt: The King, the Campaign, the Battle Pub: Little, Brown. ISBN 978-0-316-72648-1 (UK). ISBN 978-0-316-01503-5 (U.S.: Agincourt: Henry V and the Battle That Made England (2006)). p. 284
-
 32. David Wilton, *Word Myths: Debunking Linguistic Urban Legends*, Oxford University Press, 2008, ISBN 978-0-19-537557-2.
-
 33. Staff. [The V sign](https://web.archive.org/web/20081018230141/http://www.icons.org.uk/theicons/collection/the-v-sign/biography/v-for-get-stuffed), [www.icons.org.uk](https://web.archive.org/web/20070623145709/http://www.icons.org.uk/about-us).
-
 34.

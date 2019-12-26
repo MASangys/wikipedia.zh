@@ -48,7 +48,7 @@ PDCA循环也用来指导思维模式的建立。丰田汽车经常引用的一�
 
   - [质量管理](https://zh.wikipedia.org/wiki/质量管理 "wikilink")
 
-  - [OODA循環](https://zh.wikipedia.org/wiki/OODA循環 "wikilink")
+  - [OODA循環](../Page/OODA循環.md "wikilink")
 
   -
   - [A3報告](../Page/A3報告.md "wikilink")

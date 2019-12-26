@@ -103,4 +103,4 @@ Bing Maps提供了17款地图应用。其中包括[Twitter Maps等功能](https:
 
 {{-}}
 
-[Category:Windows_Live](https://zh.wikipedia.org/wiki/Category:Windows_Live "wikilink") [Category:地图学](https://zh.wikipedia.org/wiki/Category:地图学 "wikilink") [Category:虛擬地球](https://zh.wikipedia.org/wiki/Category:虛擬地球 "wikilink") [Category:电子地图](https://zh.wikipedia.org/wiki/Category:电子地图 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")
+[Category:Windows_Live](https://zh.wikipedia.org/wiki/Category:Windows_Live "wikilink") [Category:地图学](https://zh.wikipedia.org/wiki/Category:地图学 "wikilink") [Category:虛擬地球](https://zh.wikipedia.org/wiki/Category:虛擬地球 "wikilink") [Category:电子地图](https://zh.wikipedia.org/wiki/Category:电子地图 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:路線規劃軟體](https://zh.wikipedia.org/wiki/Category:路線規劃軟體 "wikilink")

@@ -1,4 +1,4 @@
-**Mi-8直升機**是由[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[米爾飛機公司研制的雙引擎中型](../Page/米尔莫斯科直升机工厂.md "wikilink")[直升機](https://zh.wikipedia.org/wiki/直升機 "wikilink")，该机于1967年进入[苏联空军服役](https://zh.wikipedia.org/wiki/苏联空军 "wikilink")，除了擔任運輸任務以外，该机還能夠加裝武器进行火力支援。
+**Mi-8直升機**（Ми-8）是由[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[米爾飛機公司研制的雙引擎中型](../Page/米尔莫斯科直升机工厂.md "wikilink")[直升機](https://zh.wikipedia.org/wiki/直升機 "wikilink")，该机于1967年进入[苏联空军服役](https://zh.wikipedia.org/wiki/苏联空军 "wikilink")，除了擔任運輸任務以外，该机還能夠加裝武器进行火力支援。
 
 Mi-8除了基本型号外，還有三種衍生型：與蘇聯本身使用的Mi-8M相近的外銷版稱為[Mi-17](https://zh.wikipedia.org/wiki/Mi-17 "wikilink")，海軍版稱為[Mi-14](https://zh.wikipedia.org/wiki/Mi-14 "wikilink")，陸軍使用的为[Mi-24攻擊直升機](https://zh.wikipedia.org/wiki/Mi-24 "wikilink")，[Mi-24攻擊直升機为改變最大的版本](https://zh.wikipedia.org/wiki/Mi-24 "wikilink")。
 
@@ -40,10 +40,9 @@ Mi-8除了基本型号外，還有三種衍生型：與蘇聯本身使用的Mi-8
   - [Mi-8/Mi-17 section at aviation.ru](https://web.archive.org/web/20060514065019/http://www.aviation.ru/Mi/#17#17)
   - [Mi-8 DataBase](http://www.helicopter-database.net/mi8.php) and [photo gallery at helicopter-database.net](http://www.helicopter-database.net/photo.php)
   - [Mi-8 walkaround from Lutzk](http://scalemodels.ru/modules/photo/viewcat_cid_87.html) and [Mi-8PPA walkaround on ScaleModels.ru](http://scalemodels.ru/modules/photo/viewcat_cid_135.html)
-  - [Mi-8 and Mi-17 helicopters in China](http://www.airforceworld.com/pla/mi8-mi17-helicopter-china.htm)
+  - [Mi-8 and Mi-17 helicopters in China](https://web.archive.org/web/20141008091345/http://airforceworld.com/pla/mi8-mi17-helicopter-china.htm)
 
 [Category:中型直升機](https://zh.wikipedia.org/wiki/Category:中型直升機 "wikilink") [Category:蘇聯航空器](https://zh.wikipedia.org/wiki/Category:蘇聯航空器 "wikilink") [Category:俄羅斯航空器](https://zh.wikipedia.org/wiki/Category:俄羅斯航空器 "wikilink") [Category:軍用直升機](https://zh.wikipedia.org/wiki/Category:軍用直升機 "wikilink") [Category:米爾設計局](https://zh.wikipedia.org/wiki/Category:米爾設計局 "wikilink") [Category:中國解放軍直昇機](https://zh.wikipedia.org/wiki/Category:中國解放軍直昇機 "wikilink")
 
 1.  [永远的河马：苏俄米-8/17直升机家族(组图)](http://mil.news.sina.com.cn/2005-07-13/1004305449.html)
-
 2.

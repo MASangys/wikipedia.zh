@@ -57,12 +57,6 @@
 
 ## 脚注
 
-<div class="references-small">
-
-<references />
-
-</div>
-
 ## 外部連結
 
   - [官方網頁專輯介紹](https://archive.is/20090121183423/http://www.geneon-ent.co.jp/music/elisa/gnca1198/index.html)

@@ -159,7 +159,5 @@
 [Category:志水淳兒電影](https://zh.wikipedia.org/wiki/Category:志水淳兒電影 "wikilink") [Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink") [Category:2002年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2002年日本劇場動畫 "wikilink")
 
 1.  劇場版第14部有提及。
-
 2.  劇場版第9部有提及。
-
 3.

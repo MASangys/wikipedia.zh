@@ -134,7 +134,7 @@
 
   - [Russian/Soviet KPV MACHINE GUN ON WHEELED MOUNT (MARKOV'S MOUNT) IN 14.5 x 114 calibre (M41/44) – Walk around photos](http://www.thetankmaster.com/ENGLISH/AFV/KPV.asp)
 
-  - [ZPU-2 - TWIN MOUNT 14.5MM ANTI-AIRCRAFT GUNS (Twin mount anti-aircraft 14.5mm KPV machine guns) – Walk around photos](http://www.thetankmaster.com/ENGLISH/AFV/ZPU2.asp)
+  - [ZPU-2 - TWIN MOUNT 14.5MM ANTI-AIRCRAFT GUNS (Twin mount anti-aircraft 14.5mm KPV machine guns) – Walk around photos](https://web.archive.org/web/20090307233629/http://thetankmaster.com/ENGLISH/AFV/ZPU2.asp)
 
 [Category:重機槍](https://zh.wikipedia.org/wiki/Category:重機槍 "wikilink") [Category:14.5×114毫米槍械](https://zh.wikipedia.org/wiki/Category:14.5×114毫米槍械 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink") [Category:捷格加廖夫工廠](https://zh.wikipedia.org/wiki/Category:捷格加廖夫工廠 "wikilink")
 

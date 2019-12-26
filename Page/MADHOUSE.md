@@ -90,7 +90,7 @@
 
   - [幻影死神](https://zh.wikipedia.org/wiki/幻影死神 "wikilink")（）（協力製作：TRIANGLE STAFF）
 
-  - （）
+  - [隨風飄的月影蘭](https://zh.wikipedia.org/wiki/隨風飄的月影蘭 "wikilink")（）
 
   - （）
 
@@ -489,70 +489,120 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/不吉波普不笑" title="wikilink">不吉波普不笑</a></p></td>
 <td></td>
-<td><p>1月5日－<strong>播放中</strong></p></td>
-<td><p>-</p></td>
+<td><p>1月5日－3月29日</p></td>
+<td><p><a href="../Page/渡部高志.md" title="wikilink">渡部高志</a></p></td>
 <td><p>小說</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>未定</p></td>
+<td><p><a href="../Page/消滅都市.md" title="wikilink">消滅都市</a></p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>4月7日－6月23日</p></td>
+<td><p><a href="../Page/宮繁之.md" title="wikilink">宮繁之</a></p></td>
+<td><p>遊戲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/花牌情緣" title="wikilink">花牌情緣</a></p></td>
+<td><p><a href="../Page/No_Guns_Life.md" title="wikilink">No Guns Life</a></p></td>
 <td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
+<td><p>10月10日－預定</p></td>
+<td><p>伊藤尚往</p></td>
 <td><p>漫畫</p></td>
-<td><p>第3期</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/消滅都市.md" title="wikilink">消滅都市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/花牌情緣" title="wikilink">花牌情緣</a></p></td>
 <td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>遊戲</p></td>
-<td></td>
+<td><p>10月22日－預定</p></td>
+<td><p><a href="../Page/淺香守生.md" title="wikilink">淺香守生</a></p></td>
+<td><p>漫畫</p></td>
+<td><p>第3期</p></td>
 </tr>
 </tbody>
 </table>
 
 ### 電視動畫特別篇
 
-  - [少爺](../Page/少爺.md "wikilink")（）（1980年6月13日，東京電影新社）
+<table>
+<thead>
+<tr class="header">
+<th><p>播放日期</p></th>
+<th><p>中文名稱</p></th>
+<th><p>日文名稱</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1980年6月13日</p></td>
+<td><p><a href="../Page/少爺.md" title="wikilink">少爺</a></p></td>
+<td></td>
+<td><p>製作：東京電影新社</p></td>
+</tr>
+<tr class="even">
+<td><p>1988年8月7日</p></td>
+<td><p>夏日服飾的少女 ～廣島，昭和20年8月6日～</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1989年8月27日</p></td>
+<td><p>手塚治虫物語 我是孫悟空</p></td>
+<td></td>
+<td><p>製作：手塚製作公司</p></td>
+</tr>
+<tr class="even">
+<td><p>1993年8月6日</p></td>
+<td><p>火車運行最多在廣島 ～來自300通被爆體驗手記～</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1996年7月19日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2003年4月18日</p></td>
+<td><p><a href="../Page/第一神拳.md" title="wikilink">第一神拳 Champion Road</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2003年12月22日</p></td>
+<td><p><a href="../Page/銀河天使.md" title="wikilink">銀河天使</a>SP</p></td>
+<td></td>
+<td><p>DVD化時改名《銀河天使S》。</p></td>
+</tr>
+<tr class="even">
+<td><p>2006年9月17日</p></td>
+<td><p>前篇「海峽」</p></td>
+<td></td>
+<td><p>協力製作：</p></td>
+</tr>
+<tr class="odd">
+<td><p>2006年9月18日</p></td>
+<td><p>太陽默示錄 後篇「國境」</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2007年8月31日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/死亡筆記本_(動畫)" title="wikilink">死亡筆記本 導演剪接完全終结版 ～幻影之神～</a></p></td>
+<td></td>
+<td><p>DVD化時改名《死亡筆記 ～幻影之神～》。</p></td>
+</tr>
+<tr class="odd">
+<td><p>2008年8月22日</p></td>
+<td><p>死亡筆記本 L的繼承者</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-  - （1988年8月7日）
-
-  - （手塚製作公司，1989年8月27日）
-
-  - （1993年8月6日）
-
-  - [柔道英雌特別篇](https://zh.wikipedia.org/wiki/以柔克剛#電視動畫特別篇 "wikilink")（）（1996年7月19日）
-
-  - [第一神拳](../Page/第一神拳.md "wikilink")TV特別版『冠軍之路』（）（2003年4月18日）
-
-  - [銀河天使](../Page/銀河天使.md "wikilink")S（）（2003年12月22日）
-
-  - （）（協力製作：，2006年）
-
-      - 前篇「海峽」9月17日公開，後篇「國境」9月18日公開。
-
-  - 死亡筆記 加長完全決着版 ～幻影之神～（）（2007年8月31日）
-
-<!-- end list -->
-
-  -
-    *DVD發行時改名《死亡筆記 〜幻影之神〜（）》。*
-
-<!-- end list -->
-
-  - 死亡筆記 L的繼承者（）（2008年8月22日）
-
-### 動畫電影
+### 電影動畫
 
 #### 1970年代
 
@@ -726,29 +776,306 @@
   - （ 2007年）
   - CLAMP夢遊仙境（CLAMP IN WONDERLAND 2 1995-2006 2007年）
 
-### 其他動畫
+### 遊戲
 
-  - [池田聰](https://zh.wikipedia.org/wiki/池田聰 "wikilink")/Je Reviens 音樂影像特輯插播動畫（1987年）
-  - Let's Talk\!（瀬戸大橋博'88・NTT「宇宙帆船NTT号」内宣傳動畫）（1988年）
-  - PlayStation電玩[狂野兵器內插播動畫](https://zh.wikipedia.org/wiki/狂野兵器系列 "wikilink")（1996年）
-  - 龍神沼（石ノ森萬画館館內宣傳主題動畫 2001年）
-  - 消えた赤ずきんちゃん（石ノ森萬画館館內宣傳主題動畫 2001年）
-  - 小川のメダカ（石ノ森萬画館館內宣傳主題動畫 2002年）
-  - MMORPG[仙境傳說](https://zh.wikipedia.org/wiki/仙境傳說 "wikilink")（網絡遊戲宣傳動畫 2002年）
-  - Playstation2電玩[狂野兵器F內插播動畫](https://zh.wikipedia.org/wiki/狂野兵器系列 "wikilink")（2003年）
-  - [Young Alive\! iPS細胞がひらく未来](https://zh.wikipedia.org/wiki/Young_Alive!_iPS細胞がひらく未来 "wikilink") （[日本科学未来館館內宣傳動畫](https://zh.wikipedia.org/wiki/日本科学未来館 "wikilink") 2010年）
-  - NintendoDS電玩[天空機器人](https://zh.wikipedia.org/wiki/天空機器人 "wikilink")（[Solatorobo それからCODAへ內插播動畫](https://zh.wikipedia.org/wiki/Solatorobo_それからCODAへ "wikilink") 2010年）
-  - 柏青歌遊藝機[侍魂主題動畫](https://zh.wikipedia.org/wiki/侍魂 "wikilink")（2011年）
-  - [株式会社明治Tweet](https://zh.wikipedia.org/wiki/株式会社明治 "wikilink") Love Story動畫廣告（2011年）
-  - [学校法人モード学園](https://zh.wikipedia.org/wiki/学校法人モード学園 "wikilink") HAL TVCM「強く望め」篇 動畫廣告（2011年）
-  - [のらのらの〜ら電視綜藝特邀製作動畫項目](https://zh.wikipedia.org/wiki/声優バラエティー_SAY!YOU!SAY!ME!#のらのらの〜ら "wikilink")（2011年）
+<table>
+<thead>
+<tr class="header">
+<th><p>發行年份</p></th>
+<th><p>中文名稱</p></th>
+<th><p>日文名稱</p></th>
+<th><p>負責工作</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1996年</p></td>
+<td><p><a href="../Page/狂野歷險_(遊戲).md" title="wikilink">WILD ARMS</a></p></td>
+<td></td>
+<td><p>動畫製作</p></td>
+</tr>
+<tr class="even">
+<td><p>2003年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2010年</p></td>
+<td><p><a href="../Page/蒼空騎士～飛向CODA～.md" title="wikilink">蒼空騎士～飛向CODA～</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2012年</p></td>
+<td><p><a href="../Page/女神異聞錄2.md" title="wikilink">女神異聞錄2</a>罰</p></td>
+<td></td>
+<td><p>OP動畫製作</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/女神異聞錄4.md" title="wikilink">女神異聞錄4 黃金版</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/女神異聞錄4_終極深夜鬥技場.md" title="wikilink">女神異聞錄4 終極深夜鬥技場</a></p></td>
+<td></td>
+<td><p>動畫製作</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2013年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2014年</p></td>
+<td></td>
+<td></td>
+<td><p>OP動畫製作</p></td>
+</tr>
+<tr class="odd">
+<td><p>2016年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 其它動畫
+
+  - /Je Reviens 音樂影像特輯插播動畫（1987年）
+
+  - ～～ Let's Talk！（瀨戶大橋博'88，NTT「宇宙帆船NTT號」內宣傳動畫）（1988年）
+
+  - 龍神沼（2001年）
+
+<!-- end list -->
+
+  -
+
+    （[宮城縣](../Page/宮城縣.md "wikilink")[石卷市](https://zh.wikipedia.org/wiki/石卷市 "wikilink")）館內宣傳主題動畫。
+
+<!-- end list -->
+
+  - （2001年）
+
+<!-- end list -->
+
+  -
+    石之森萬畫館館內宣傳主題動畫。
+
+<!-- end list -->
+
+  - （2002年）
+
+<!-- end list -->
+
+  -
+    [石之森章太郎](../Page/石之森章太郎.md "wikilink")家鄉紀念館（宮城縣[登米市](https://zh.wikipedia.org/wiki/登米市 "wikilink")）館內宣傳主題動畫。導演：村野守美
+
+<!-- end list -->
+
+  - 『[RAGNAROK ONLINE](https://zh.wikipedia.org/wiki/仙境傳說 "wikilink")』RAGNAROK ONLINE 網絡遊戲宣傳影像（2002年）
+
+<!-- end list -->
+
+  -
+    人物設定由[結城信輝](../Page/結城信輝.md "wikilink")擔任。
+
+<!-- end list -->
+
+  - Young Alive！ iPS（2010年）
+
+<!-- end list -->
+
+  -
+    [日本科學未來館](../Page/日本科學未來館.md "wikilink")館內宣傳[3D電影](../Page/3D電影.md "wikilink")主題動畫。
+
+<!-- end list -->
+
+  - [明治](../Page/明治_\(企業\).md "wikilink")  Tweet Love Story 「」（2011年）
+
+<!-- end list -->
+
+  -
+    廣告動畫製作。
+
+<!-- end list -->
+
+  - HAL 電視廣告「」篇（2011年）
+
+<!-- end list -->
+
+  -
+    廣告動畫製作。
+
+<!-- end list -->
+
+  - （2011年）
+
+<!-- end list -->
+
+  -
+    電視綜藝節目『』單元「SKE48 ！」特邀製作動畫作品。
+
+## 相關人物
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+
+  - [丸山正雄](../Page/丸山正雄.md "wikilink")
+
+  -
+  -
+  -
+  - [川尻善昭](../Page/川尻善昭.md "wikilink")
+
+  -
+  - [淺香守生](../Page/淺香守生.md "wikilink")
+
+  -
+  - [佐藤雄三](../Page/佐藤雄三.md "wikilink")
+
+  - [荒木哲郎](../Page/荒木哲郎.md "wikilink")
+
+  - [濱田邦彥](../Page/濱田邦彥.md "wikilink")
+
+  -
+  - [石田敦子](../Page/石田敦子.md "wikilink")
+
+  - [出崎統](../Page/出崎統.md "wikilink")
+
+  - [杉野昭夫](../Page/杉野昭夫.md "wikilink")
+
+  - [中村隆太郎](../Page/中村隆太郎.md "wikilink")
+
+  - [今敏](../Page/今敏.md "wikilink")
+
+  -
+
+</div>
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+
+  - [福島敦子](https://zh.wikipedia.org/wiki/福島敦子 "wikilink")
+
+  - [森本晃司](../Page/森本晃司.md "wikilink")
+
+  - [細田守](../Page/細田守.md "wikilink")
+
+  - [松尾衡](../Page/松尾衡.md "wikilink")
+
+  - [高-{坂}-希太郎](../Page/高坂希太郎.md "wikilink")
+
+  -
+  - 福田紀之
+
+  - [高橋久美子](../Page/高橋久美子.md "wikilink")
+
+  - 酒井明雄（代表）
+
+  - [岡村豐](../Page/岡村天齋.md "wikilink")
+
+  - [小島正幸](../Page/小島正幸.md "wikilink")
+
+  - [片渕須直](../Page/片渕須直.md "wikilink")
+
+  - [佐藤竜雄](https://zh.wikipedia.org/wiki/佐藤竜雄 "wikilink")
+
+  - [-{坂}-田純一](../Page/坂田純一.md "wikilink")
+
+  - [浜崎博嗣](https://zh.wikipedia.org/wiki/浜崎博嗣 "wikilink")
+
+  - [神志那弘志](../Page/神志那弘志.md "wikilink")
+
+  - [迫井政行](../Page/迫井政行.md "wikilink")
+
+  - [水島精二](../Page/水島精二.md "wikilink")
+
+</div>
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+
+  - [板垣伸](../Page/板垣伸.md "wikilink")
+
+  - [磯光雄](../Page/磯光雄.md "wikilink")
+
+  - [吉松孝博](../Page/吉松孝博.md "wikilink")（別名：吉松）
+
+  -
+  -
+  - [山本沙代](../Page/山本沙代.md "wikilink")
+
+  - 金英姬
+
+  - 中原清隆
+
+  - 石井久美
+
+  - [大島美和](https://zh.wikipedia.org/wiki/大島美和 "wikilink")
+
+  -
+  - [本田雄](../Page/本田雄.md "wikilink")
+
+  - [井上俊之](../Page/井上俊之.md "wikilink")
+
+  - [加加美高浩](../Page/加加美高浩.md "wikilink")
+
+  - [馬越嘉彥](https://zh.wikipedia.org/wiki/馬越嘉彥 "wikilink")
+
+  - 笠井信兒
+
+  - [竹井正樹](../Page/竹井正樹.md "wikilink")
+
+  - [西田正義](../Page/西田正義.md "wikilink")
+
+  -
+  -
+
+</div>
+
+<div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
+
+  -
+  - Cindy H.Yamauchi（山內英子）
+
+  - [伊藤智彥](../Page/伊藤智彥.md "wikilink")
+
+  - 田崎聰
+
+  - [高屋敷英夫](../Page/高屋敷英夫.md "wikilink")
+
+  - [浦-{畑}-達彥](../Page/浦畑達彥.md "wikilink")
+
+  - [筆安一幸](../Page/筆安一幸.md "wikilink")（別名：）
+
+  - [井上敏樹](../Page/井上敏樹.md "wikilink")
+
+  - （別名：大泉學、早川）
+
+  - [湯淺政明](../Page/湯淺政明.md "wikilink")
+
+  - [中村亮介](../Page/中村亮介.md "wikilink")
+
+  - [立川讓](../Page/立川讓.md "wikilink")
+
+  - [宮繁之](../Page/宮繁之.md "wikilink")
+
+</div>
+
+### 外部相關人物
+
+  - －[蟲製作公司](../Page/蟲製作公司.md "wikilink")所屬的[剪輯](../Page/剪輯.md "wikilink")技師。賽璐片製作時期多次參加MADHOUSE作品的影片剪輯工作。
 
 ## 相關項目
 
   - [MAPPA](../Page/MAPPA.md "wikilink")－由MADHOUSE創設元老之一的[丸山正雄](../Page/丸山正雄.md "wikilink")退職之後創社，2011年6月成立\[4\]。
   - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
 
-## 參考文獻
+## 參考資料
 
 ## 外部連結
 
@@ -760,7 +1087,7 @@
 
 [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:Madhouse](https://zh.wikipedia.org/wiki/Category:Madhouse "wikilink") [Category:中野區公司](https://zh.wikipedia.org/wiki/Category:中野區公司 "wikilink") [Category:1972年成立的公司](https://zh.wikipedia.org/wiki/Category:1972年成立的公司 "wikilink")
 
-1.  [阿佐ヶ谷探偵団第一回：「マッドハウスのネーミングの由来は？」](https://web.archive.org/web/20040205024039/http://www.madhouse.co.jp/column/asagaya/asagaya1.html) - 2004年2月5日
+1.  \[<https://web.archive.org/web/20040205024039/http://www.madhouse.co.jp/column/asagaya/asagaya1.html>  - 2004年2月5日
 2.  第112話（最終話）ED字幕
 3.
 4.

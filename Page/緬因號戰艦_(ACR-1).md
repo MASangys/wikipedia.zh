@@ -16,4 +16,4 @@
 
   - [美西战争](../Page/美西战争.md "wikilink")
 
-[Category:美国海军战列舰](https://zh.wikipedia.org/wiki/Category:美国海军战列舰 "wikilink") [Category:1895年竣工的船只](https://zh.wikipedia.org/wiki/Category:1895年竣工的船只 "wikilink") [Category:美國陰謀論](https://zh.wikipedia.org/wiki/Category:美國陰謀論 "wikilink")
+[Category:美国海军战列舰](https://zh.wikipedia.org/wiki/Category:美国海军战列舰 "wikilink") [Category:1889年下水](https://zh.wikipedia.org/wiki/Category:1889年下水 "wikilink") [Category:美國陰謀論](https://zh.wikipedia.org/wiki/Category:美國陰謀論 "wikilink")

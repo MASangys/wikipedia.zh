@@ -205,7 +205,7 @@ Dir en grey於歐洲巡迴時參加數場音樂季，還與[終極殺戮樂團](
 
 ## 外部連結
 
-  - [官方網站](http://www.direngrey.co.jp)
+  - [官方網站](https://web.archive.org/web/20080926070635/http://www.direngrey.co.jp/)
   - [Twitter (日文)](https://twitter.com/DIRENGREY_JP)
   - [Twitter (英文)](https://twitter.com/DIRENGREY_web)
   - [facebook](https://www.facebook.com/direngreyofficial)
@@ -214,90 +214,50 @@ Dir en grey於歐洲巡迴時參加數場音樂季，還與[終極殺戮樂團](
 [Category:另類搖滾樂團](https://zh.wikipedia.org/wiki/Category:另類搖滾樂團 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:視覺系](https://zh.wikipedia.org/wiki/Category:視覺系 "wikilink") [Category:1997年日本建立](https://zh.wikipedia.org/wiki/Category:1997年日本建立 "wikilink") [Category:日本重金屬樂團](https://zh.wikipedia.org/wiki/Category:日本重金屬樂團 "wikilink") [Category:實驗音樂樂團](https://zh.wikipedia.org/wiki/Category:實驗音樂樂團 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.
-
 17.
-
 18.
-
 19.
-
 20.
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
 28.
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
 46.
-
 47.
-
 48.

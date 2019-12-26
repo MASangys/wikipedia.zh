@@ -109,7 +109,7 @@
 
 [Category:王菀之音樂專輯](https://zh.wikipedia.org/wiki/Category:王菀之音樂專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
 
-1.  <http://www.mingpaoweekly.com/htm/20081210/mcr1.htm>
+1.
 2.  [ontv訪問 – 王菀之翻唱別人的歌另有驚喜](http://tv.on.cc/index.html?s=4&ss=4&i=OEN081006-11436-211M-G01&d=1226979740)
 3.
 4.   搜尋王菀之

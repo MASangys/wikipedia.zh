@@ -57,7 +57,7 @@ __NOTOC__
 <li><a href="https://zh.wikipedia.org/wiki/Category:澳門新聞動態" title="wikilink">澳門新聞動態分類</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/Wikipedia:澳門維基人佈告板" title="wikilink">澳門維基人佈告板</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/Portal:澳門/當年今月" title="wikilink">澳門大事記</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/Portal:香港新聞動態" title="wikilink">香港新聞動態</a></li>
+<li><a href="../Page/Portal:香港新聞動態.md" title="wikilink">香港新聞動態</a></li>
 </ul></td>
 </tr>
 </tbody>

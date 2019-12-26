@@ -135,20 +135,12 @@ Phenom II是AMD第一個修正“cold bug”問題的處理器系列。“cold b
 [Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink") [Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink")
 
 1.  <http://anandtech.com/cpuchipsets/showdoc.aspx?i=3512>
-
 2.
-
 3.  [Stepping codes of AMD K10 microprocessors](http://www.cpu-world.com/info/AMD/K10_stepping_codes.html)
-
 4.  <http://www.anandtech.com/cpuchipsets/showdoc.aspx?i=3492&p=3>
-
 5.  <http://www.anandtech.com/cpuchipsets/showdoc.aspx?i=3492&p=9>
-
 6.  <http://www.anandtech.com/cpuchipsets/showdoc.aspx?i=3492&p=6>
-
 7.
-
 8.
 9.  <http://www.techspot.com/news/32576-amd-shows-off-phenom-ii-overclocked-to-63ghz.html> AMD Shows Off Phenom II OverClocked to 6.5GHz
-
 10. <http://blogs.zdnet.com/hardware/?p=3082> AMD's Phenom II Show Overclocking Potential

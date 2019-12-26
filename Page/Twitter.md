@@ -1,6 +1,6 @@
-**Twitter**（官方中文譯名**推特**\[1\]）是一个[社交网络與](https://zh.wikipedia.org/wiki/社交网络 "wikilink")[微博客服务](https://zh.wikipedia.org/wiki/微博客 "wikilink")，它可以让用户更新不超过140个[字符](../Page/字符.md "wikilink")的消息，现除[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[日文和](https://zh.wikipedia.org/wiki/日文 "wikilink")[韩文外已提高上限至](https://zh.wikipedia.org/wiki/韩文 "wikilink")280个字符，这些消息也被称作“推文（Tweet）”。这个服务是由[傑克·多西在](https://zh.wikipedia.org/wiki/傑克·多西 "wikilink")2006年3月创办并在当年7月启动的。Twitter風行於全世界多個國家，是[網際網路上访问量最大的十个网站之一](https://zh.wikipedia.org/wiki/網際網路 "wikilink")\[2\]。据Twitter现任[行政總裁迪克](https://zh.wikipedia.org/wiki/行政總裁 "wikilink")·科斯特洛（Dick Costolo）宣布，截至2018年3月，Twitter共有3.36億活跃用户\[3\]，这些用户每天会发表约3.4亿条推文\[4\]。同时，Twitter每天还会处理约16亿的网络搜索请求\[5\]\[6\]。公司總部设立在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[旧金山](../Page/旧金山.md "wikilink")，其部分办公室及[服务器](../Page/服务器.md "wikilink")位于[纽约](../Page/纽约.md "wikilink")。
+**Twitter**（官方中文譯名**推特**\[1\]）是一个[-{zh-cn:社交网络; zh-tw:社群網路; zh-hk:社交網絡;}-與](https://zh.wikipedia.org/wiki/社交网络 "wikilink")[-{zh-hans:微博客; zh-hant:微部落格;}-服务](https://zh.wikipedia.org/wiki/微博客 "wikilink")，它可以让用户更新不超过140个[-{zh-cn:字符; zh-tw:字元; zh-hk:字元;}-的](../Page/字符.md "wikilink")-{zh-cn:消息; zh-tw:訊息;}-，现除[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[日文和](https://zh.wikipedia.org/wiki/日文 "wikilink")[韩文外已提高上限至](https://zh.wikipedia.org/wiki/韩文 "wikilink")280个字符，这些消息也被称作“推文（Tweet）”。这个服务是由[傑克·多西在](https://zh.wikipedia.org/wiki/傑克·多西 "wikilink")2006年3月创办并在当年7月启动的。Twitter風行於全世界多個國家，是[網際網路上访问量最大的十个网站之一](https://zh.wikipedia.org/wiki/網際網路 "wikilink")\[2\]。据Twitter现任[行政總裁迪克](https://zh.wikipedia.org/wiki/行政總裁 "wikilink")·科斯特洛（Dick Costolo）宣布，截至2018年3月，Twitter共有3.36億活跃用户\[3\]，这些用户每天会发表约3.4亿条推文\[4\]。同时，Twitter每天还会处理约16亿的-{zh-cn:网络搜索; zh-tw:網路搜尋; zh-hk:網絡搜尋;}-请求\[5\]\[6\]。公司總部设立在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[旧金山](../Page/旧金山.md "wikilink")，其部分办公室及[-{zh-cn:服务器; zh-tw:伺服器; zh-hk:伺服器;}-位于](../Page/服务器.md "wikilink")[纽约](../Page/纽约.md "wikilink")。
 
-Twitter被形容为“[互联网](../Page/互联网.md "wikilink")的[短信服务](https://zh.wikipedia.org/wiki/短信服务 "wikilink")”\[7\]。网站的非注册用户可以阅读公开的推文，而注册用户则可以通过Twitter网站、短信或者各种各样的[应用软件来发布消息](https://zh.wikipedia.org/wiki/应用软件 "wikilink")\[8\]。同时，Twitter还被认为在[阿拉伯之春](../Page/阿拉伯之春.md "wikilink")、以及2010年代後期以來全球的政治活动中扮演重要角色\[9\]。
+Twitter被形容为“[-{zh-cn:互联网; zh-tw:網際網路; zh-hk:互聯網;}-的](../Page/互联网.md "wikilink")[-{zh-cn:短信服务; zh-tw:簡訊服務; zh-hk:短訊服務;}-](https://zh.wikipedia.org/wiki/短信服务 "wikilink")”\[7\]。网站的非注册用户可以阅读公开的推文，而注册用户则可以通过Twitter网站、-{zh-cn:短信; zh-tw:簡訊; zh-hk:短訊;}-或者各种各样的[-{zh-cn:应用软件; zh-tw:應用軟體; zh-hk:應用軟件;}-来发布消息](https://zh.wikipedia.org/wiki/应用软件 "wikilink")\[8\]。同时，Twitter还被认为在[阿拉伯之春](../Page/阿拉伯之春.md "wikilink")、以及2010年代後期以來全球的政治活动中扮演重要角色\[9\]。
 
 2013年9月，Twitter進行[首次公開募股](https://zh.wikipedia.org/wiki/首次公開募股 "wikilink")：同年11月7日，Twitter股票在[纽約證券交易所挂牌上市](https://zh.wikipedia.org/wiki/纽約證券交易所 "wikilink")，开盘45.1亿美元，较发行价大涨73.46%\[10\]。在歷過近十年的發展後，Twitter已成為現今全球新聞、娛樂和評論的重要來源，卻也開始面臨諸多經營困境，包括用戶成長趨於停滯，廣告銷售疲軟，以及近年持續虧損數億美元，而有出售的打算\[11\]。
 
@@ -172,135 +172,135 @@ Twitter官方在2010年3月20日的博客文章中宣布最热门的话题将会
 
 ### 政策
 
-2019年2月，Twitter導入防止兒童色情的新政策。\[100\]\[101\]\[102\]
+2019年2月，Twitter導入防止兒童色情的新政策。\[100\]\[101\]\[102\]11月，Twitter開始禁止投放政治宣传广告\[103\]。
 
 ## 财政
 
 ### 资金
 
-总体来说，Twitter已经从美国[风险投资](../Page/风险投资.md "wikilink")中获得了5700万美元的资金，至于具体的资金数额至今也没有公开过。Twitter获得的第一笔资金是从未公开过的，据传言这笔资金为10000美元到50000美元之间，\[103\]它在2008年的B轮融资是2200万美元，\[104\]而Twitter的C轮融资则包括来自Institutional Venture Partners和Benchmark Capital的3500万美元，以及来自包括Union Square Ventures公司、Spark Capital（[星火资本](https://zh.wikipedia.org/wiki/星火资本 "wikilink")）公司和Insight Venture Partners公司在内的未知数额的投资。\[105\]可以这样说，Twitter是由[Union Square Ventures](https://zh.wikipedia.org/wiki/Union_Square_Ventures "wikilink")、Digital Garage、Spark Capital和Bezos Expeditions这些公司共同支撑起来的。\[106\]
+总体来说，Twitter已经从美国[风险投资](../Page/风险投资.md "wikilink")中获得了5700万美元的资金，至于具体的资金数额至今也没有公开过。Twitter获得的第一笔资金是从未公开过的，据传言这笔资金为10000美元到50000美元之间，\[104\]它在2008年的B轮融资是2200万美元，\[105\]而Twitter的C轮融资则包括来自Institutional Venture Partners和Benchmark Capital的3500万美元，以及来自包括Union Square Ventures公司、Spark Capital（[星火资本](https://zh.wikipedia.org/wiki/星火资本 "wikilink")）公司和Insight Venture Partners公司在内的未知数额的投资。\[106\]可以这样说，Twitter是由[Union Square Ventures](https://zh.wikipedia.org/wiki/Union_Square_Ventures "wikilink")、Digital Garage、Spark Capital和Bezos Expeditions这些公司共同支撑起来的。\[107\]
 
-The Industry Standard网站曾表示Twitter的长期存活力受到资金不足的限制。\[107\]Twitter的董事会成员Tood Chaffee则预测说公司将会从电子商务中获益，他提到用户可能会希望直接购买那些在推特上进行推荐和推广的产品。\[108\]
+The Industry Standard网站曾表示Twitter的长期存活力受到资金不足的限制。\[108\]Twitter的董事会成员Tood Chaffee则预测说公司将会从电子商务中获益，他提到用户可能会希望直接购买那些在推特上进行推荐和推广的产品。\[109\]
 
-在2010年12月Twitter获得了2亿美元的风险投资，使公司价值达到37亿美元\[109\]。在2011年3月，Twitter在股权交易网站SharesPost将35000股的股票以每股美元$34.50元的价格进行出售，此时的公司价值为78亿美元\[110\]。在当年8月，Twitter宣布获得了来自[数码天空科技](../Page/数码天空科技.md "wikilink")8亿美元的风险投资\[111\]。
+在2010年12月Twitter获得了2亿美元的风险投资，使公司价值达到37亿美元\[110\]。在2011年3月，Twitter在股权交易网站SharesPost将35000股的股票以每股美元$34.50元的价格进行出售，此时的公司价值为78亿美元\[111\]。在当年8月，Twitter宣布获得了来自[数码天空科技](../Page/数码天空科技.md "wikilink")8亿美元的风险投资\[112\]。
 
-Twitter公司已经确认成为2013年[首次公开募股的候选人之一](https://zh.wikipedia.org/wiki/首次公开募股 "wikilink")。\[112\]
+Twitter公司已经确认成为2013年[首次公开募股的候选人之一](https://zh.wikipedia.org/wiki/首次公开募股 "wikilink")。\[113\]
 
-2011年12月，[沙特阿拉伯](../Page/沙特阿拉伯.md "wikilink")王子[瓦利德·本·塔拉勒·阿勒沙特](../Page/瓦利德·本·塔拉勒·阿勒沙特.md "wikilink")向Twitter投资了3亿美元，这个时候该公司的价值为84亿美元\[113\]。
+2011年12月，[沙特阿拉伯](../Page/沙特阿拉伯.md "wikilink")王子[瓦利德·本·塔拉勒·阿勒沙特](../Page/瓦利德·本·塔拉勒·阿勒沙特.md "wikilink")向Twitter投资了3亿美元，这个时候该公司的价值为84亿美元\[114\]。
 
 ### 收入来源
 
-在[黑客](../Page/黑客.md "wikilink")盗取了一些包含Twitter的收入和用户增长的情况的文件后，这些文件也通过[TechCrunch](../Page/TechCrunch.md "wikilink")被公布出来。这些文件包括Twitter的内部财政预测资料，包含对第三季度的40万美元的收入预测，以及在第四季度实现400万美元的收入和2500万的用户数量，文件还预测在2013年底，Twitter的年收入将达到15.4亿美元，净收入达1.11亿美元，同时拥有10亿用户。\[114\]但是有关如何实现这些目标的文件并没有被公布出来，与此同时，比兹·斯通在他的博客中也提到对于这些商业细节的透露可能会采取法律行动的可能性。\[115\]
+在[黑客](../Page/黑客.md "wikilink")盗取了一些包含Twitter的收入和用户增长的情况的文件后，这些文件也通过[TechCrunch](../Page/TechCrunch.md "wikilink")被公布出来。这些文件包括Twitter的内部财政预测资料，包含对第三季度的40万美元的收入预测，以及在第四季度实现400万美元的收入和2500万的用户数量，文件还预测在2013年底，Twitter的年收入将达到15.4亿美元，净收入达1.11亿美元，同时拥有10亿用户。\[115\]但是有关如何实现这些目标的文件并没有被公布出来，与此同时，比兹·斯通在他的博客中也提到对于这些商业细节的透露可能会采取法律行动的可能性。\[116\]
 
-2010年4月13日，Twitter宣布将会向企业公司提供付费广告业务，这些广告将会在用户进行推文搜索的结果中以专门的推文形式显示出来，有些类似于Google的[AdWords广告模型](https://zh.wikipedia.org/wiki/AdWords "wikilink")，并且Twitter还说已经有包括[索尼影视娱乐](https://zh.wikipedia.org/wiki/索尼影视娱乐 "wikilink")、[红牛](../Page/红牛公司.md "wikilink")、[百思买](../Page/百思买.md "wikilink")和[星巴克在内的公司已经表达了使用此项业务的意愿](https://zh.wikipedia.org/wiki/星巴克 "wikilink")\[116\]\[117\]。为了进一步扩大其广告业务的覆盖范围，2012年3月20日Twitter宣布将在移动设备上显示广告推文。在2011年Twitter通过广告业务获得大约1亿4千万美元的收入，并预计2012年这项收入将增长86.3%达到2亿6千万美元左右\[118\]。
+2010年4月13日，Twitter宣布将会向企业公司提供付费广告业务，这些广告将会在用户进行推文搜索的结果中以专门的推文形式显示出来，有些类似于Google的[AdWords广告模型](https://zh.wikipedia.org/wiki/AdWords "wikilink")，并且Twitter还说已经有包括[索尼影视娱乐](https://zh.wikipedia.org/wiki/索尼影视娱乐 "wikilink")、[红牛](../Page/红牛公司.md "wikilink")、[百思买](../Page/百思买.md "wikilink")和[星巴克在内的公司已经表达了使用此项业务的意愿](https://zh.wikipedia.org/wiki/星巴克 "wikilink")\[117\]\[118\]。为了进一步扩大其广告业务的覆盖范围，2012年3月20日Twitter宣布将在移动设备上显示广告推文。在2011年Twitter通过广告业务获得大约1亿4千万美元的收入，并预计2012年这项收入将增长86.3%达到2亿6千万美元左右\[119\]。
 
-虽然Twitter公司从2010年春季末期才开始销售广告，但是其依然成功创造了4500万美元的年收入。即使公司在2010年的大部分时期是亏本运营，其还是吸引了2亿美元的风险投资。Twitter与[国际娱乐新闻网](https://zh.wikipedia.org/wiki/国际娱乐新闻网 "wikilink")（WENN）在2011年5月签订的一项协议可以使Twitter从用户发布的照片中获得免税收入。2011年6月，Twitter宣布他们将会为小型企业提供一个自助广告平台。\[119\]
+虽然Twitter公司从2010年春季末期才开始销售广告，但是其依然成功创造了4500万美元的年收入。即使公司在2010年的大部分时期是亏本运营，其还是吸引了2亿美元的风险投资。Twitter与[国际娱乐新闻网](https://zh.wikipedia.org/wiki/国际娱乐新闻网 "wikilink")（WENN）在2011年5月签订的一项协议可以使Twitter从用户发布的照片中获得免税收入。2011年6月，Twitter宣布他们将会为小型企业提供一个自助广告平台。\[120\]
 
 ## 技术
 
 ### 架构
 
-Twitter被描述为一个基于Web的[中继聊天](https://zh.wikipedia.org/wiki/中继聊天 "wikilink")（IRC）客户端。\[120\] Twitter网站早期采用[Ruby on Rails框架语言编写](../Page/Ruby_on_Rails.md "wikilink")\[121\]，在Ruby的企业版本上进行部署，由于考虑到执行效率等因素并没有采用[Vanilla的](https://zh.wikipedia.org/wiki/Vanilla_software "wikilink")[Ruby进行部署](https://zh.wikipedia.org/wiki/Ruby_MRI "wikilink")\[122\]。
+Twitter被描述为一个基于Web的[中继聊天](https://zh.wikipedia.org/wiki/中继聊天 "wikilink")（IRC）客户端。\[121\] Twitter网站早期采用[Ruby on Rails框架语言编写](../Page/Ruby_on_Rails.md "wikilink")\[122\]，在Ruby的企业版本上进行部署，由于考虑到执行效率等因素并没有采用[Vanilla的](https://zh.wikipedia.org/wiki/Vanilla_software "wikilink")[Ruby进行部署](https://zh.wikipedia.org/wiki/Ruby_MRI "wikilink")\[123\]。
 
-从2007年春季一直到2008年，这一期间Twitter的原始消息都是通过一个名叫[Starling](https://zh.wikipedia.org/wiki/Starling_\(software\) "wikilink")\[123\]的持续性数据结构服务器进行处理的，但是从2009年开始，Twitter已经开始逐渐在用[Scala编写的程序来进行消息处理](https://zh.wikipedia.org/wiki/Scala_\(programming_language\) "wikilink")。\[124\]同时，这项服务提供的[API允许众多网站与Twitter进行整合](https://zh.wikipedia.org/wiki/API "wikilink")。\[125\]
+从2007年春季一直到2008年，这一期间Twitter的原始消息都是通过一个名叫[Starling](https://zh.wikipedia.org/wiki/Starling_\(software\) "wikilink")\[124\]的持续性数据结构服务器进行处理的，但是从2009年开始，Twitter已经开始逐渐在用[Scala编写的程序来进行消息处理](https://zh.wikipedia.org/wiki/Scala_\(programming_language\) "wikilink")。\[125\]同时，这项服务提供的[API允许众多网站与Twitter进行整合](https://zh.wikipedia.org/wiki/API "wikilink")。\[126\]
 
-2011年，Twitter從Ruby on Rails交替到[Java](../Page/Java.md "wikilink")，從[MySQL](../Page/MySQL.md "wikilink")交替到[Lucene](../Page/Lucene.md "wikilink")；\[126\]新的核心框架使Twitter增加3倍的效能。\[127\]
+2011年，Twitter從Ruby on Rails交替到[Java](../Page/Java.md "wikilink")，從[MySQL](../Page/MySQL.md "wikilink")交替到[Lucene](../Page/Lucene.md "wikilink")；\[127\]新的核心框架使Twitter增加3倍的效能。\[128\]
 
 ### 用户界面
 
-2009年4月30日Twitter修改了其网站界面，添加了一个搜索框和一个名为“全球趋势”的侧边栏，这一侧边栏用来显示在每天推文中出现频率最多的词。[比兹·斯通](../Page/比兹·斯通.md "wikilink")说所有发布在Twitter上的消息会被迅速索引，这样的一个功能让Twitter真正成为了一个发现引擎，让用户来发现这个世界上正在发生什么\[128\]。
+2009年4月30日Twitter修改了其网站界面，添加了一个搜索框和一个名为“全球趋势”的侧边栏，这一侧边栏用来显示在每天推文中出现频率最多的词。[比兹·斯通](../Page/比兹·斯通.md "wikilink")说所有发布在Twitter上的消息会被迅速索引，这样的一个功能让Twitter真正成为了一个发现引擎，让用户来发现这个世界上正在发生什么\[129\]。
 
-2012年3月，Twitter推出了[阿拉伯语](https://zh.wikipedia.org/wiki/阿拉伯语 "wikilink")、[波斯语](../Page/波斯语.md "wikilink")、[希伯来语](../Page/希伯来语.md "wikilink")以及[乌尔都语](../Page/乌尔都语.md "wikilink")版本，这是Twitter第一次推出从右到左书写语言的版本。大约有13000多名志愿者参与到了菜单选项的翻译工作中\[129\]。
+2012年3月，Twitter推出了[阿拉伯语](https://zh.wikipedia.org/wiki/阿拉伯语 "wikilink")、[波斯语](../Page/波斯语.md "wikilink")、[希伯来语](../Page/希伯来语.md "wikilink")以及[乌尔都语](../Page/乌尔都语.md "wikilink")版本，这是Twitter第一次推出从右到左书写语言的版本。大约有13000多名志愿者参与到了菜单选项的翻译工作中\[130\]。
 
 ### 宕机
 
-当Twitter遇到宕机情况时，用户可以看到一幅八只橙色的飞鸟将一只大鲸鱼用网打捞起来的图像，并且会给出“太多推文！请稍后再试！”的消息\[130\]。这幅图画是由Yiying Lu\[131\]创作的。
+当Twitter遇到宕机情况时，用户可以看到一幅八只橙色的飞鸟将一只大鲸鱼用网打捞起来的图像，并且会给出“太多推文！请稍后再试！”的消息\[131\]。这幅图画是由Yiying Lu\[132\]创作的。
 
-2007年Twitter的[上线率为](../Page/上线时间.md "wikilink")98%（宕机时间总计大约6天）\[132\]，在一些大型活动譬如2008年的[MacWorld大会上Twitter的宕机现象尤为突出](https://zh.wikipedia.org/wiki/MacWorld "wikilink")\[133\]\[134\]。
+2007年Twitter的[上线率为](../Page/上线时间.md "wikilink")98%（宕机时间总计大约6天）\[133\]，在一些大型活动譬如2008年的[MacWorld大会上Twitter的宕机现象尤为突出](https://zh.wikipedia.org/wiki/MacWorld "wikilink")\[134\]\[135\]。
 
 以下列出了几次主要的宕机事件：
 
   - 2008年5月：Twitter新的工程师团队在对构架进行更改，以应对网站规模的增长。由于系统的不稳定导致了宕机事件以及临时性的功能丢失。
-  - 2008年8月：Twitter停止了对英国用户的免费短消息服务\[135\]，随后的五个月中，一个通过[XMPP机器人的即时信息服务也处于不可用状态](https://zh.wikipedia.org/wiki/XMPP "wikilink")\[136\]。
-  - 2008年10月：Twitter的工作状态博客发布公告说Twitter的[即时通讯服务已经不属于临时宕机](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")，而是需要进行修理。同时还宣布Twitter将会暂停许多主要工作，重新开始其即时通讯服务。\[137\]
-  - 2009年6月12日：Twitter遇到了所谓的“Twitpocalypse”问题。由于每一条推文都对应一个独特的数字ID，而当时的推文数字ID增长已接近[32位计算机运算时最大的有符号整数值](https://zh.wikipedia.org/wiki/32位 "wikilink")（总共有2,147,483,647条消息）\[138\]。虽然说Twitter网站本身没有任何故障出现，但是许多第三方应用程序却无法再访问最近所发表的推文了。随后Twitter发布了[补丁](https://zh.wikipedia.org/wiki/补丁 "wikilink")，修正了这一缺陷，但依然有一些[iPhone应用程序由于在苹果](https://zh.wikipedia.org/wiki/iPhone "wikilink")[App Store中需要审核而被迫将这一修复时间延长](https://zh.wikipedia.org/wiki/App_Store "wikilink")\[139\]。
-  - 2009年6月25日：Twitter在当天宕机了至少一次，并且网站运行缓慢。这段时间内曾经有记录显示在一个小时内出现了超过50000条有关于[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")去世消息的推文\[140\]，当时迈克尔·杰克逊在热门话题上排名第七。
-  - 2009年8月6日：Twitter和Facebook受到了[分散式阻断服务攻击](https://zh.wikipedia.org/wiki/分散式阻断服务攻击 "wikilink")，这次网络攻击导致Twitter被迫下线数小时\[141\]。后来经查明，这次攻击是针对在[2008年南奥塞梯战争一周年纪念日时一名支持](https://zh.wikipedia.org/wiki/2008年南奥塞梯战争 "wikilink")[格鲁吉亚](../Page/格鲁吉亚.md "wikilink")的Twitter用户的，而非是针对网站本身\[142\]。
-  - 2009年9月22日：Twitter网站的消息总量超过了32位计算机运算时最大的无符号整数值（总共有4,294,967,296条消息），一些第三方应用软件再一次无法正常工作\[143\]。
-  - 2009年12月17日：Twitter网站被黑客攻击，网站的欢迎页面被替换成一张绿色旗帜图像，并且写有“该站点已被[伊朗网络军攻击](https://zh.wikipedia.org/wiki/伊朗网络军 "wikilink")”。但是黑客与伊朗之间并没有任何联系\[144\]。
-  - 2010年6月-7月：Twitter在这段时间的[2010年世界杯足球赛期间曾经有相当高的服务拒绝率](https://zh.wikipedia.org/wiki/2010年世界杯足球赛 "wikilink")（10%-20%），同时服务响应的延迟也有所增加\[145\]。
+  - 2008年8月：Twitter停止了对英国用户的免费短消息服务\[136\]，随后的五个月中，一个通过[XMPP机器人的即时信息服务也处于不可用状态](https://zh.wikipedia.org/wiki/XMPP "wikilink")\[137\]。
+  - 2008年10月：Twitter的工作状态博客发布公告说Twitter的[即时通讯服务已经不属于临时宕机](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")，而是需要进行修理。同时还宣布Twitter将会暂停许多主要工作，重新开始其即时通讯服务。\[138\]
+  - 2009年6月12日：Twitter遇到了所谓的“Twitpocalypse”问题。由于每一条推文都对应一个独特的数字ID，而当时的推文数字ID增长已接近[32位计算机运算时最大的有符号整数值](https://zh.wikipedia.org/wiki/32位 "wikilink")（总共有2,147,483,647条消息）\[139\]。虽然说Twitter网站本身没有任何故障出现，但是许多第三方应用程序却无法再访问最近所发表的推文了。随后Twitter发布了[补丁](https://zh.wikipedia.org/wiki/补丁 "wikilink")，修正了这一缺陷，但依然有一些[iPhone应用程序由于在苹果](https://zh.wikipedia.org/wiki/iPhone "wikilink")[App Store中需要审核而被迫将这一修复时间延长](https://zh.wikipedia.org/wiki/App_Store "wikilink")\[140\]。
+  - 2009年6月25日：Twitter在当天宕机了至少一次，并且网站运行缓慢。这段时间内曾经有记录显示在一个小时内出现了超过50000条有关于[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")去世消息的推文\[141\]，当时迈克尔·杰克逊在热门话题上排名第七。
+  - 2009年8月6日：Twitter和Facebook受到了[分散式阻断服务攻击](https://zh.wikipedia.org/wiki/分散式阻断服务攻击 "wikilink")，这次网络攻击导致Twitter被迫下线数小时\[142\]。后来经查明，这次攻击是针对在[2008年南奥塞梯战争一周年纪念日时一名支持](https://zh.wikipedia.org/wiki/2008年南奥塞梯战争 "wikilink")[格鲁吉亚](../Page/格鲁吉亚.md "wikilink")的Twitter用户的，而非是针对网站本身\[143\]。
+  - 2009年9月22日：Twitter网站的消息总量超过了32位计算机运算时最大的无符号整数值（总共有4,294,967,296条消息），一些第三方应用软件再一次无法正常工作\[144\]。
+  - 2009年12月17日：Twitter网站被黑客攻击，网站的欢迎页面被替换成一张绿色旗帜图像，并且写有“该站点已被[伊朗网络军攻击](https://zh.wikipedia.org/wiki/伊朗网络军 "wikilink")”。但是黑客与伊朗之间并没有任何联系\[145\]。
+  - 2010年6月-7月：Twitter在这段时间的[2010年世界杯足球赛期间曾经有相当高的服务拒绝率](https://zh.wikipedia.org/wiki/2010年世界杯足球赛 "wikilink")（10%-20%），同时服务响应的延迟也有所增加\[146\]。
   - 2010年11月：一部分用户遇到了服务错误，当他们登录到自己的账户的时候，看到的却是大鲸鱼的错误页面。这些账户并不是被锁定的账号，同时使用者依旧可以看到回复自己的消息并可以发表内容，但是时间线以及其它功能则出现不正常。
   - 2013年8月27日：Twitter出現宕机，疑似遭到[黑客](../Page/黑客.md "wikilink")组织“[叙利亚电子军](https://zh.wikipedia.org/wiki/叙利亚电子军 "wikilink")”的攻击，该组织表示对此事负责。此外，[纽约时报](../Page/纽约时报.md "wikilink")、[赫芬顿邮报](../Page/赫芬顿邮报.md "wikilink")等几家媒体的网站均遭到该组织的攻击。
 
 ### 隐私与安全
 
-Twitter上发表的信息默认都是公开的，但是用户可以给其他用户发送私人信息。Twitter也会以非匿名的形式收集用户的个人信息并与其合作伙伴进行分享，并且如果公司更换领导层，那么公司保留出售用户信息的权利\[146\]。虽然说Twitter不显示广告，但是广告商可以收集用户所发送的历史信息，并将其用于自己的广告中\[147\]，且可以指明用户名。
+Twitter上发表的信息默认都是公开的，但是用户可以给其他用户发送私人信息。Twitter也会以非匿名的形式收集用户的个人信息并与其合作伙伴进行分享，并且如果公司更换领导层，那么公司保留出售用户信息的权利\[147\]。虽然说Twitter不显示广告，但是广告商可以收集用户所发送的历史信息，并将其用于自己的广告中\[148\]，且可以指明用户名。
 
-2007年4月7日，Nitesh Dhanjani和Rujith指出Twitter存在安全隐患，而隐患是由其短信服务造成的。由于Twitter使用用户的移动电话号码作为验证手段，导致攻击者可以使用[短信欺骗的方式](https://zh.wikipedia.org/wiki/短信欺骗 "wikilink")，将短消息的来源伪造成用户手机号码\[148\]，从而可以随意更新受害者的消息。这个安全隐患公布数周之后，Twitter增加了[PIN码验证的可选方式](https://zh.wikipedia.org/wiki/PIN "wikilink")，来保证用户短信的来源正确性\[149\]。
+2007年4月7日，Nitesh Dhanjani和Rujith指出Twitter存在安全隐患，而隐患是由其短信服务造成的。由于Twitter使用用户的移动电话号码作为验证手段，导致攻击者可以使用[短信欺骗的方式](https://zh.wikipedia.org/wiki/短信欺骗 "wikilink")，将短消息的来源伪造成用户手机号码\[149\]，从而可以随意更新受害者的消息。这个安全隐患公布数周之后，Twitter增加了[PIN码验证的可选方式](https://zh.wikipedia.org/wiki/PIN "wikilink")，来保证用户短信的来源正确性\[150\]。
 
-2009年1月5日，在Twitter的一个管理员密码被[字典破解后](https://zh.wikipedia.org/wiki/字典破解 "wikilink")，有33个知名的账户遭到纂改和冒用\[150\]，并发布了一些有关于性和毒品的消息\[151\]。
+2009年1月5日，在Twitter的一个管理员密码被[字典破解后](https://zh.wikipedia.org/wiki/字典破解 "wikilink")，有33个知名的账户遭到纂改和冒用\[151\]，并发布了一些有关于性和毒品的消息\[152\]。
 
-2009年6月11日，Twitter发布了[测试版本的](https://zh.wikipedia.org/wiki/软件版本周期#Beta "wikilink")“验证账号”功能。这项功能可以让名人来验证自己的账户为自己本人所拥有而非伪造的，通过验证的用户在其个人用户页上将会出现相应的标识\[152\]。
+2009年6月11日，Twitter发布了[测试版本的](https://zh.wikipedia.org/wiki/软件版本周期#Beta "wikilink")“验证账号”功能。这项功能可以让名人来验证自己的账户为自己本人所拥有而非伪造的，通过验证的用户在其个人用户页上将会出现相应的标识\[153\]。
 
-2010年5月，土耳其网站[İnci Sözlük发现了Twitter网站的一个漏洞](https://zh.wikipedia.org/wiki/İnci_Sözlük "wikilink")，这个漏洞可以让攻击者在被攻击者完全不知情的情况下，操纵修改其账户所关注的人的列表。例如喜剧演员[康纳·欧布莱恩的账户就受到该漏洞影响](https://zh.wikipedia.org/wiki/康纳·欧布莱恩 "wikilink")，他的账户本来只设置了关注一个人，被攻击后被恶意增加了200多个关注的人\[153\]。
+2010年5月，土耳其网站[İnci Sözlük发现了Twitter网站的一个漏洞](https://zh.wikipedia.org/wiki/İnci_Sözlük "wikilink")，这个漏洞可以让攻击者在被攻击者完全不知情的情况下，操纵修改其账户所关注的人的列表。例如喜剧演员[康纳·欧布莱恩的账户就受到该漏洞影响](https://zh.wikipedia.org/wiki/康纳·欧布莱恩 "wikilink")，他的账户本来只设置了关注一个人，被攻击后被恶意增加了200多个关注的人\[154\]。
 
-由于Twitter屡次出现安全问题，美国[联邦贸易委员会在](https://zh.wikipedia.org/wiki/联邦贸易委员会 "wikilink")2010年6月24号对Twitter提起诉讼，这也是该委员会第一次针对社交网站的安全漏洞采取行动。委员会要求Twitter必须采取众多措施来保障用户个人信息的安全，包括通过“综合性的信息安全保护程序”对用户信息进行保护，并且要求每两年接受一次审查\[154\]。
+由于Twitter屡次出现安全问题，美国[联邦贸易委员会在](https://zh.wikipedia.org/wiki/联邦贸易委员会 "wikilink")2010年6月24号对Twitter提起诉讼，这也是该委员会第一次针对社交网站的安全漏洞采取行动。委员会要求Twitter必须采取众多措施来保障用户个人信息的安全，包括通过“综合性的信息安全保护程序”对用户信息进行保护，并且要求每两年接受一次审查\[155\]。
 
-2010年9月21日，由于一个[XXS蠕虫导致的](https://zh.wikipedia.org/wiki/XXS蠕虫 "wikilink")“鼠标悬停”安全漏洞在Twitter上传播开来。当用户将鼠标光标移到一条包含有方框的特定消息上时，该漏洞即被触发，自动打开一个链接并且自动通过用户的账户发布包含有相同内容的恶意消息\[155\]，这个漏洞以前曾被用于弹出广告以及一些色情站点的链接上。这个蠕虫的来源尚不清楚，但是Pearce H. Delphin（Twitter用户名为@zzap）和一位斯堪的纳维亚的程序员Magnus Holm都宣称自己利用了之前可能是开发彩色推文的作者Masato Kinugawa所发现的一个漏洞\[156\]。在8月14日的时候，Masato Kinugawa就已向Twitter提交了有关于XXS安全隐患的消息，后来当他发现这一安全隐患在一次出现的时候，他创建了名为“RainbowTwtr”的账号并发布一些包含彩色文字的消息\[157\]。Delphin宣称自己利用这个安全隐患创造了一段包含有“onMouseOver”鼠标悬停事件的JavaScript脚本\[158\]，而Magnus Holm则宣称自己编写并发布了这条可以通过自我ReTweet的方式来进行自我复制的XXS蠕虫\[159\]。安全公司Sophos说这个病毒是一群人纯属娱乐才编写的，但是这个漏洞还可以被用于[网络犯罪](https://zh.wikipedia.org/wiki/网络犯罪 "wikilink")\[160\]。随后Twitter官方的状态博客在UTC时间13:50的时候发布消息说“该漏洞已经被完全修补”\[161\]\[162\]，同时公司的代表Carolyn Penner说不会因为此事件而发起任何指控\[163\]。
+2010年9月21日，由于一个[XXS蠕虫导致的](https://zh.wikipedia.org/wiki/XXS蠕虫 "wikilink")“鼠标悬停”安全漏洞在Twitter上传播开来。当用户将鼠标光标移到一条包含有方框的特定消息上时，该漏洞即被触发，自动打开一个链接并且自动通过用户的账户发布包含有相同内容的恶意消息\[156\]，这个漏洞以前曾被用于弹出广告以及一些色情站点的链接上。这个蠕虫的来源尚不清楚，但是Pearce H. Delphin（Twitter用户名为@zzap）和一位斯堪的纳维亚的程序员Magnus Holm都宣称自己利用了之前可能是开发彩色推文的作者Masato Kinugawa所发现的一个漏洞\[157\]。在8月14日的时候，Masato Kinugawa就已向Twitter提交了有关于XXS安全隐患的消息，后来当他发现这一安全隐患在一次出现的时候，他创建了名为“RainbowTwtr”的账号并发布一些包含彩色文字的消息\[158\]。Delphin宣称自己利用这个安全隐患创造了一段包含有“onMouseOver”鼠标悬停事件的JavaScript脚本\[159\]，而Magnus Holm则宣称自己编写并发布了这条可以通过自我ReTweet的方式来进行自我复制的XXS蠕虫\[160\]。安全公司Sophos说这个病毒是一群人纯属娱乐才编写的，但是这个漏洞还可以被用于[网络犯罪](https://zh.wikipedia.org/wiki/网络犯罪 "wikilink")\[161\]。随后Twitter官方的状态博客在UTC时间13:50的时候发布消息说“该漏洞已经被完全修补”\[162\]\[163\]，同时公司的代表Carolyn Penner说不会因为此事件而发起任何指控\[164\]。
 
-2010年12月14日，[美国司法部](../Page/美国司法部.md "wikilink")发出一张传票，要求Twitter提供涉及到[维基解密的用户的账户资料](https://zh.wikipedia.org/wiki/维基解密 "wikilink")\[164\]。Twitter通知了其用户，并且在发布的一份声明中称“我们的政策要求当用户的个人信息被通过法律强制手段或者政府请求的方式被他人所获取时，我们需要通知用户，除非有相关法律禁止我们这样做。\[165\]”
+2010年12月14日，[美国司法部](../Page/美国司法部.md "wikilink")发出一张传票，要求Twitter提供涉及到[维基解密的用户的账户资料](https://zh.wikipedia.org/wiki/维基解密 "wikilink")\[165\]。Twitter通知了其用户，并且在发布的一份声明中称“我们的政策要求当用户的个人信息被通过法律强制手段或者政府请求的方式被他人所获取时，我们需要通知用户，除非有相关法律禁止我们这样做。\[166\]”
 
-2011年5月，在[CTB与新闻集团报纸一案中的原告CTB](https://zh.wikipedia.org/wiki/CTB与新闻集团报纸 "wikilink")（后来被确认是[瑞恩·吉格斯](../Page/瑞恩·吉格斯.md "wikilink")）在[英格兰及威尔士高等法院要求Twitter公布几个用户的资料](https://zh.wikipedia.org/wiki/英格兰及威尔士高等法院 "wikilink")\[166\]。这是由于之前在Twitter网站有用户发布了涉及吉格斯个人私生活的消息，并引起了有关隐私禁令的争议\[167\]\[168\]。Twitter欧洲区的领导Tony Wang说，在网站上“做坏事”的用户需要在这场由这一案件引发的争议中为自己辩护，同时Twitter将在司法请求的情况下向有关部门移交用户的信息\[169\]。他同时表示Twitter将服从英国法庭的命令，将这次“非法行为”的相关用户的名字公布出来\[170\]。
+2011年5月，在[CTB与新闻集团报纸一案中的原告CTB](https://zh.wikipedia.org/wiki/CTB与新闻集团报纸 "wikilink")（后来被确认是[瑞恩·吉格斯](../Page/瑞恩·吉格斯.md "wikilink")）在[英格兰及威尔士高等法院要求Twitter公布几个用户的资料](https://zh.wikipedia.org/wiki/英格兰及威尔士高等法院 "wikilink")\[167\]。这是由于之前在Twitter网站有用户发布了涉及吉格斯个人私生活的消息，并引起了有关隐私禁令的争议\[168\]\[169\]。Twitter欧洲区的领导Tony Wang说，在网站上“做坏事”的用户需要在这场由这一案件引发的争议中为自己辩护，同时Twitter将在司法请求的情况下向有关部门移交用户的信息\[170\]。他同时表示Twitter将服从英国法庭的命令，将这次“非法行为”的相关用户的名字公布出来\[171\]。
 
-2011年5月29日，[南泰因赛德市政委员会成功地在美国](https://zh.wikipedia.org/wiki/南泰因赛德 "wikilink")[加利福尼亚的一个法庭通过法律手段要求Twitter公布](https://zh.wikipedia.org/wiki/加利福尼亚 "wikilink")5名用户的资料，这些用户资料被用来鉴别一个名为“Mr Monkey”博客的真实身份，据称这一博客发布了[诽谤](../Page/诽谤.md "wikilink")当地3名议员的消息\[171\]\[172\]。
+2011年5月29日，[南泰因赛德市政委员会成功地在美国](https://zh.wikipedia.org/wiki/南泰因赛德 "wikilink")[加利福尼亚的一个法庭通过法律手段要求Twitter公布](https://zh.wikipedia.org/wiki/加利福尼亚 "wikilink")5名用户的资料，这些用户资料被用来鉴别一个名为“Mr Monkey”博客的真实身份，据称这一博客发布了[诽谤](../Page/诽谤.md "wikilink")当地3名议员的消息\[172\]\[173\]。
 
-2012年1月23号，Twitter收购了一家名为Dasient的公司，这家公司主要提供针对恶意软件的保护。Twitter希望能够通过这家公司来清除Twitter网站上恶意的广告发布者\[173\]。
+2012年1月23号，Twitter收购了一家名为Dasient的公司，这家公司主要提供针对恶意软件的保护。Twitter希望能够通过这家公司来清除Twitter网站上恶意的广告发布者\[174\]。
 
-2012年1月26日，Twitter发布了一项功能，这项功能允许按照国家对一些消息进行选择性删除。例如对于法国和德国而言，有关新[纳粹的消息是违法的](https://zh.wikipedia.org/wiki/纳粹 "wikilink")，在这些国家内包含有这样内容的消息将会被删除。在此之前，违法的消息在所有国家地区都会被删除\[174\]\[175\]。
+2012年1月26日，Twitter发布了一项功能，这项功能允许按照国家对一些消息进行选择性删除。例如对于法国和德国而言，有关新[纳粹的消息是违法的](https://zh.wikipedia.org/wiki/纳粹 "wikilink")，在这些国家内包含有这样内容的消息将会被删除。在此之前，违法的消息在所有国家地区都会被删除\[175\]\[176\]。
 
-2012年5月17日，Twitter宣布将会提供“Do Not Track”隐私保护选项，这是[Firefox](../Page/Firefox.md "wikilink")浏览器的一个功能，用来阻止网站在计算机上留下[Cookie](../Page/Cookie.md "wikilink")\[176\]。
+2012年5月17日，Twitter宣布将会提供“Do Not Track”隐私保护选项，这是[Firefox](../Page/Firefox.md "wikilink")浏览器的一个功能，用来阻止网站在计算机上留下[Cookie](../Page/Cookie.md "wikilink")\[177\]。
 
 ### 开源
 
-Twitter在提高自身技术发展的过程中发布了许多[开源项目](https://zh.wikipedia.org/wiki/开源 "wikilink")\[177\]，其中较为著名的项目包括用于创建分布式数据存储的[Gizzard框架以及用于创建分布式图片数据库的](https://zh.wikipedia.org/wiki/Gizzard "wikilink")[FlockDB项目](https://zh.wikipedia.org/wiki/FlockDB "wikilink")。
+Twitter在提高自身技术发展的过程中发布了许多[开源项目](https://zh.wikipedia.org/wiki/开源 "wikilink")\[178\]，其中较为著名的项目包括用于创建分布式数据存储的[Gizzard框架以及用于创建分布式图片数据库的](https://zh.wikipedia.org/wiki/Gizzard "wikilink")[FlockDB项目](https://zh.wikipedia.org/wiki/FlockDB "wikilink")。
 
 ### 创新者专利协议
 
-2012年4月27日，Twitter宣布将会履行一项名为《创新者专利协议》（Innovators Patent Agreement，简称IPA）的协议，这项协议将要求Twitter只能将其专利用于自卫目的。这项协议将于2012年后期开始执行\[178\]。
+2012年4月27日，Twitter宣布将会履行一项名为《创新者专利协议》（Innovators Patent Agreement，简称IPA）的协议，这项协议将要求Twitter只能将其专利用于自卫目的。这项协议将于2012年后期开始执行\[179\]。
 
 ### 网址缩短服务
 
-Twitter自己开发了一个名为t.co的[网址缩短服务](https://zh.wikipedia.org/wiki/网址缩短服务 "wikilink")\[179\]，这项服务仅用于缩短發布在Twitter上的网址链接\[180\]，而不允许外部使用\[181\]。Twitter希望通过这样的网址缩短服务帮助用户远离恶意网站\[182\]，并且能够追踪用户对网址的点击等相关情况\[183\]\[184\]。
+Twitter自己开发了一个名为t.co的[网址缩短服务](https://zh.wikipedia.org/wiki/网址缩短服务 "wikilink")\[180\]，这项服务仅用于缩短發布在Twitter上的网址链接\[181\]，而不允许外部使用\[182\]。Twitter希望通过这样的网址缩短服务帮助用户远离恶意网站\[183\]，并且能够追踪用户对网址的点击等相关情况\[184\]\[185\]。
 
-最初Twitter上的网址缩短服务由第三方网站如bit.ly和TinyURL等提供\[185\]，后来Twitter在2010年3月首先在私信服务中试验了自己的网址缩短服务，当时Twitter使用的是twt.tl这一域名\[186\]，随后哥伦比亚域名注册机构向Twitter赠送t.co这个域名。这项服务后来在@TwitterAPI、@rsarver和@raffi这三个账号上进行了测试\[187\]。2010年9月2日，Twitter向所有用户发布了一封电子邮件称，这项服务将会推广至所有用户。在2011年6月7日，Twitter正式宣布了这项服务的启动\[188\]。
+最初Twitter上的网址缩短服务由第三方网站如bit.ly和TinyURL等提供\[186\]，后来Twitter在2010年3月首先在私信服务中试验了自己的网址缩短服务，当时Twitter使用的是twt.tl这一域名\[187\]，随后哥伦比亚域名注册机构向Twitter赠送t.co这个域名。这项服务后来在@TwitterAPI、@rsarver和@raffi这三个账号上进行了测试\[188\]。2010年9月2日，Twitter向所有用户发布了一封电子邮件称，这项服务将会推广至所有用户。在2011年6月7日，Twitter正式宣布了这项服务的启动\[189\]。
 
 ### 内置图片分享服务
 
-2011年6月1日，Twitter宣布启用内置的图片分享服务，用户将可以通过网站内置的功能上传图片进行分享\[189\]，同时用户还可以给包含图片链接的消息中加入标签，使得消息可以在搜索系统中被搜索到\[190\]。Twitter还计划开发图片库功能，将用户通过官方图片分享服务以及其它第三方服务发布的图片全部收集并集中同步在一起\[191\]。
+2011年6月1日，Twitter宣布启用内置的图片分享服务，用户将可以通过网站内置的功能上传图片进行分享\[190\]，同时用户还可以给包含图片链接的消息中加入标签，使得消息可以在搜索系统中被搜索到\[191\]。Twitter还计划开发图片库功能，将用户通过官方图片分享服务以及其它第三方服务发布的图片全部收集并集中同步在一起\[192\]。
 
 ## 影响
 
-由于Twitter是消息传播最快速和便捷的通道，它的影响力在[2008年美国总统选举](https://zh.wikipedia.org/wiki/2008年美国总统选举 "wikilink")、[伊朗綠色革命](../Page/伊朗綠色革命.md "wikilink")、丹佛飞机脱离跑道事件、[印度孟买连环恐怖袭击事件](../Page/2008年孟買連環恐怖襲擊.md "wikilink")、[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")逝世，到中国大陆的[中央电视台新台址大火](https://zh.wikipedia.org/wiki/中央电视台 "wikilink")、[石首事件](../Page/石首事件.md "wikilink")、[新疆骚乱事件等都能体现出来](https://zh.wikipedia.org/wiki/2009年7月乌鲁木齐骚乱 "wikilink")。\[192\]在伊朗总统大选事件中，美国政府更罕有地要求Twitter延后原本已经安排好的维修工作至伊朗当地时间的凌晨时分进行，好让网站在白天能继续正常运作。不过此举被外界批评有干涉伊朗內政之嫌，[美国国务院](../Page/美国国务院.md "wikilink")则辩称Twitter是伊朗民众在总统大选后的重要联络工具，所以才下达此要求。Twitter则表示此决定是出自其网络服务供应商，而非国务院的强制规定。\[193\]
+由于Twitter是消息传播最快速和便捷的通道，它的影响力在[2008年美国总统选举](https://zh.wikipedia.org/wiki/2008年美国总统选举 "wikilink")、[伊朗綠色革命](../Page/伊朗綠色革命.md "wikilink")、丹佛飞机脱离跑道事件、[印度孟买连环恐怖袭击事件](../Page/2008年孟買連環恐怖襲擊.md "wikilink")、[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")逝世，到中国大陆的[中央电视台新台址大火](https://zh.wikipedia.org/wiki/中央电视台 "wikilink")、[石首事件](../Page/石首事件.md "wikilink")、[新疆骚乱事件等都能体现出来](https://zh.wikipedia.org/wiki/2009年7月乌鲁木齐骚乱 "wikilink")。\[193\]在伊朗总统大选事件中，美国政府更罕有地要求Twitter延后原本已经安排好的维修工作至伊朗当地时间的凌晨时分进行，好让网站在白天能继续正常运作。不过此举被外界批评有干涉伊朗內政之嫌，[美国国务院](../Page/美国国务院.md "wikilink")则辩称Twitter是伊朗民众在总统大选后的重要联络工具，所以才下达此要求。Twitter则表示此决定是出自其网络服务供应商，而非国务院的强制规定。\[194\]
 
 ### 在示威游行中的影响
 
-2009年6月，在宣称伊朗总统大选舞弊之后，示威者利用Twitter作为串联和与外界通信的工具。\[194\]\[195\]\[196\]\[197\]6月15日，因为几位用户和美国国务院的要求，Twitter取消了计划中的90分钟的离线维修。\[198\]\[199\]CNN在这一事件中的报道被批评并被标签为\#CNNfail\[200\]。Twitter同时被用于组织对伊朗政府网页的DDoS攻击。\[201\]
+2009年6月，在宣称伊朗总统大选舞弊之后，示威者利用Twitter作为串联和与外界通信的工具。\[195\]\[196\]\[197\]\[198\]6月15日，因为几位用户和美国国务院的要求，Twitter取消了计划中的90分钟的离线维修。\[199\]\[200\]CNN在这一事件中的报道被批评并被标签为\#CNNfail\[201\]。Twitter同时被用于组织对伊朗政府网页的DDoS攻击。\[202\]
 
-2009年8月，当美国总统奥巴马的医疗改革计划的反对者攻击英国的全国医疗体系（NHS）时，上千NHS的用户利用Twitter的\#welovetheNHS标签进行支持NHS并反对美国右派的运动，并得到了英国首相高登布朗的支持。\[202\]\[203\]\[204\]\[205\]
+2009年8月，当美国总统奥巴马的医疗改革计划的反对者攻击英国的全国医疗体系（NHS）时，上千NHS的用户利用Twitter的\#welovetheNHS标签进行支持NHS并反对美国右派的运动，并得到了英国首相高登布朗的支持。\[203\]\[204\]\[205\]\[206\]
 
-2009年G-20峰会在匹兹堡召开时，纽约市的异议人士艾略特麦迪逊（Elliot Madison）利用Twitter报道组织示威者避开警察的阻挠。警察袭击了麦迪逊的宾馆房间，一周后他在纽约的家也被FBI袭击并搜查了长达16个小时。麦迪逊被指利用计算机和无线电设备跟踪会议当天警察的行动并用手机和社交网络工具Twitter向示威者传递消息；他被指控妨碍公务，用通信设施犯罪和拥有犯罪工具。儘管搜查-{令只}-授权FBI探员搜查有可能违反联邦反暴乱法定证据，他们将冰箱磁铁，玩具猴等杂物统统没收。\[206\]\[207\]\[208\]
+2009年G-20峰会在匹兹堡召开时，纽约市的异议人士艾略特麦迪逊（Elliot Madison）利用Twitter报道组织示威者避开警察的阻挠。警察袭击了麦迪逊的宾馆房间，一周后他在纽约的家也被FBI袭击并搜查了长达16个小时。麦迪逊被指利用计算机和无线电设备跟踪会议当天警察的行动并用手机和社交网络工具Twitter向示威者传递消息；他被指控妨碍公务，用通信设施犯罪和拥有犯罪工具。儘管搜查-{令只}-授权FBI探员搜查有可能违反联邦反暴乱法定证据，他们将冰箱磁铁，玩具猴等杂物统统没收。\[207\]\[208\]\[209\]
 
 ### 在名人社會中的影响
 
-现在，前美国总统[奥巴马](https://zh.wikipedia.org/wiki/巴拉克·奥巴马 "wikilink")、NBA球星[奥尼尔](../Page/沙奎尔·奥尼尔.md "wikilink")、[Google](../Page/Google.md "wikilink")、[白宫和诸多新闻媒体等也先后在Twitter上开设帐号](https://zh.wikipedia.org/wiki/白宫 "wikilink")。而[谷歌大中华区前总裁](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[李开复开设的帐号更使Twitter在中国大陆提高了知名度](https://zh.wikipedia.org/wiki/李开复 "wikilink")。不过，Twitter上也有大量各式各样的假冒名人用户，以名人们的名义发表不实或不当言论。受害者包括[伊旺·麥奎格](https://zh.wikipedia.org/wiki/伊万·迈克格雷戈 "wikilink")、[布兰妮](../Page/布蘭妮·斯皮爾斯.md "wikilink")、美国前总统[乔治·W·布什及英国女王等](https://zh.wikipedia.org/wiki/乔治·W·布什 "wikilink")。李开复的英文名“Kaifulee”在之前就曾被人捷足先登，在Twitter开设了账号，以他的名义来发布消息，被众多媒体引用。后来李开复与Twitter进行了沟通，才拿回了账号。\[209\]对于此现象，Twitter已开始改变先前放任不管的态度。目前公司正测试一款新系统，以确保用户能辨别出哪些是真正的名人用户。\[210\]
+现在，前美国总统[奥巴马](https://zh.wikipedia.org/wiki/巴拉克·奥巴马 "wikilink")、NBA球星[奥尼尔](../Page/沙奎尔·奥尼尔.md "wikilink")、[Google](../Page/Google.md "wikilink")、[白宫和诸多新闻媒体等也先后在Twitter上开设帐号](https://zh.wikipedia.org/wiki/白宫 "wikilink")。而[谷歌大中华区前总裁](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[李开复开设的帐号更使Twitter在中国大陆提高了知名度](https://zh.wikipedia.org/wiki/李开复 "wikilink")。不过，Twitter上也有大量各式各样的假冒名人用户，以名人们的名义发表不实或不当言论。受害者包括[伊旺·麥奎格](https://zh.wikipedia.org/wiki/伊万·迈克格雷戈 "wikilink")、[布兰妮](../Page/布蘭妮·斯皮爾斯.md "wikilink")、美国前总统[乔治·W·布什及英国女王等](https://zh.wikipedia.org/wiki/乔治·W·布什 "wikilink")。李开复的英文名“Kaifulee”在之前就曾被人捷足先登，在Twitter开设了账号，以他的名义来发布消息，被众多媒体引用。后来李开复与Twitter进行了沟通，才拿回了账号。\[210\]对于此现象，Twitter已开始改变先前放任不管的态度。目前公司正测试一款新系统，以确保用户能辨别出哪些是真正的名人用户。\[211\]
 
-据美国《[商业周刊](https://zh.wikipedia.org/wiki/商业周刊 "wikilink")》在2009年5月的统计，使用Twitter的美国大公司[執行長已经由](https://zh.wikipedia.org/wiki/執行長 "wikilink")2008年8月的18位增长至48位。\[211\]
+据美国《[商业周刊](https://zh.wikipedia.org/wiki/商业周刊 "wikilink")》在2009年5月的统计，使用Twitter的美国大公司[執行長已经由](https://zh.wikipedia.org/wiki/執行長 "wikilink")2008年8月的18位增长至48位。\[212\]
 
-2009年下半年，Twitter被收录入《[柯林斯英文词典](https://zh.wikipedia.org/wiki/柯林斯英文词典 "wikilink")》（*Collins English Dictionary*）30周年版中，“Twitter”的释义为“一个让人们发表有关个人现状的短消息的网站”，动词“tweet”的释义为“在Twitter网站上写短消息”。\[212\]
+2009年下半年，Twitter被收录入《[柯林斯英文词典](https://zh.wikipedia.org/wiki/柯林斯英文词典 "wikilink")》（*Collins English Dictionary*）30周年版中，“Twitter”的释义为“一个让人们发表有关个人现状的短消息的网站”，动词“tweet”的释义为“在Twitter网站上写短消息”。\[213\]
 
 ### 年齡生日填入後造成大量誤鎖
 
-歐盟通過最新的「歐盟資料保護規範」（General Data Protection Regulation)，規定未滿16歲(各成員國可選擇下修至未滿13歲)兒童或青少年個資之取得及處理，須事先獲得父母或監護人同意。 \[213\] 許多用戶填入自己的正確生日後，就遭到Twitter封鎖帳戶(因為Twitter判定該帳號申辦時未滿13歲)，部分用戶向Twitter請求解鎖後幾天甚至幾個小時就解鎖，但部分用戶等了好幾個月甚至半年都不見Twitter解鎖。 有國外的網友在[Reddit](../Page/Reddit.md "wikilink")寫了個最終解決方法\[214\]，有部分用戶表示Twitter願意解鎖，但也有部分用戶表示Twitter拒絕解鎖。
+歐盟通過最新的「歐盟資料保護規範」（General Data Protection Regulation)，規定未滿16歲(各成員國可選擇下修至未滿13歲)兒童或青少年個資之取得及處理，須事先獲得父母或監護人同意。 \[214\] 許多用戶填入自己的正確生日後，就遭到Twitter封鎖帳戶(因為Twitter判定該帳號申辦時未滿13歲)，部分用戶向Twitter請求解鎖後幾天甚至幾個小時就解鎖，但部分用戶等了好幾個月甚至半年都不見Twitter解鎖。 有國外的網友在[Reddit](../Page/Reddit.md "wikilink")寫了個最終解決方法\[215\]，有部分用戶表示Twitter願意解鎖，但也有部分用戶表示Twitter拒絕解鎖。
 
 ## 應用程序外掛
 
@@ -316,29 +316,29 @@ Twitter自己开发了一个名为t.co的[网址缩短服务](https://zh.wikiped
 
 ## Twitpic
 
-由於Twitter初期並不支援貼圖功能，在2008年2月出現第三方圖片分享服務的**Twitpic**。然而Twitter於2011年6月內建圖片分享服務後，2012年9月取消[App第三方圖片分享服務功能](https://zh.wikipedia.org/wiki/App "wikilink")\[215\]，Twitpic因此逐漸式微。2014年9月，受Twitter商標侵權控訴及威脅收回[API服務權限之下](https://zh.wikipedia.org/wiki/API "wikilink")，宣告將被迫關閉。2014年10月，與Twitter協議收購其[域名](../Page/域名.md "wikilink")和照片存檔，Twitpic網站存續以便Twitter用戶保留過往資料、不再更新\[216\]。
+由於Twitter初期並不支援貼圖功能，在2008年2月出現第三方圖片分享服務的**Twitpic**。然而Twitter於2011年6月內建圖片分享服務後，2012年9月取消[App第三方圖片分享服務功能](https://zh.wikipedia.org/wiki/App "wikilink")\[216\]，Twitpic因此逐漸式微。2014年9月，受Twitter商標侵權控訴及威脅收回[API服務權限之下](https://zh.wikipedia.org/wiki/API "wikilink")，宣告將被迫關閉。2014年10月，與Twitter協議收購其[域名](../Page/域名.md "wikilink")和照片存檔，Twitpic網站存續以便Twitter用戶保留過往資料、不再更新\[217\]。
 
 ## 封锁
 
 ### 埃及
 
-  - 受反政府示威影响，[埃及](../Page/埃及.md "wikilink")当局曾短暂封锁Twitter。\[217\]
+  - 受反政府示威影响，[埃及](../Page/埃及.md "wikilink")当局曾短暂封锁Twitter。\[218\]
 
 ### 伊朗
 
-  - 德黑兰时间2009年5月23日15点Twitter被[伊朗政府封鎖](https://zh.wikipedia.org/wiki/伊朗 "wikilink")。\[218\]
+  - 德黑兰时间2009年5月23日15点Twitter被[伊朗政府封鎖](https://zh.wikipedia.org/wiki/伊朗 "wikilink")。\[219\]
 
 ### 中国大陸
 
-  - 2009年6月4日下午，[中国大陸](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")[防火长城](../Page/防火长城.md "wikilink")封锁Twitter。据报道，此次网络封锁估计与[1989年天安门事件二十周年有关](https://zh.wikipedia.org/wiki/1989年天安门事件 "wikilink")。中国大陸Twitter网民对此反应剧烈，并纷纷在更新中加入“\#Fuck[GFW](https://zh.wikipedia.org/wiki/GFW "wikilink")”等字句表示抗议，“\#FuckGFW”亦很快登上Twitter热门关键词榜并曾超越关于[法国航空447号班机事故的关键词](https://zh.wikipedia.org/wiki/法国航空447号班机 "wikilink")“\#Air France”位列第二位，后被“\#China Blocks Twitter”代替。\[219\]\[220\]\[221\]\[222\] 2009年6月8日中午，封锁解除。
+  - 2009年6月4日下午，[中国大陸](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")[防火长城](../Page/防火长城.md "wikilink")封锁Twitter。据报道，此次网络封锁估计与[1989年天安门事件二十周年有关](https://zh.wikipedia.org/wiki/1989年天安门事件 "wikilink")。中国大陸Twitter网民对此反应剧烈，并纷纷在更新中加入“\#Fuck[GFW](https://zh.wikipedia.org/wiki/GFW "wikilink")”等字句表示抗议，“\#FuckGFW”亦很快登上Twitter热门关键词榜并曾超越关于[法国航空447号班机事故的关键词](https://zh.wikipedia.org/wiki/法国航空447号班机 "wikilink")“\#Air France”位列第二位，后被“\#China Blocks Twitter”代替。\[220\]\[221\]\[222\]\[223\] 2009年6月8日中午，封锁解除。
 
 <!-- end list -->
 
-  - 2009年7月5日，[乌鲁木齐市](../Page/乌鲁木齐市.md "wikilink")发生[七五骚乱事件](https://zh.wikipedia.org/wiki/2009年7月乌鲁木齐骚乱 "wikilink")。翌日下午，Twitter再次被封锁。[Facebook](../Page/Facebook.md "wikilink")也在7月7日遭到封锁至今未解除。\[223\]\[224\] 8月6日，《[中国国防报](https://zh.wikipedia.org/wiki/中国国防报 "wikilink")》发表文章指出Twitter、Facebook、Flickr和[YouTube](../Page/YouTube.md "wikilink")可以被“[西方敌对势力](https://zh.wikipedia.org/wiki/反华势力 "wikilink")”用作宣传与颠覆工具，并称“要加快提高网络隔绝、屏蔽、锁定和反击网上攻击的能力”。\[225\]\[226\]\[227\]雖然被封锁，但還有中国用户通过各种手段来登录与使用Twitter，如修改[Hosts文件](../Page/Hosts文件.md "wikilink")，使用[twip](https://zh.wikipedia.org/wiki/twip "wikilink")，tweetr等搭建twitter API proxy，或使用[Dabr](https://zh.wikipedia.org/wiki/Dabr "wikilink")、[推特中文圈](https://zh.wikipedia.org/wiki/推特中文圈 "wikilink")（或者基于推特中文圈的修改版本Rabr）等第三方站点或软件。\[228\]\[229\]
+  - 2009年7月5日，[乌鲁木齐市](../Page/乌鲁木齐市.md "wikilink")发生[七五骚乱事件](https://zh.wikipedia.org/wiki/2009年7月乌鲁木齐骚乱 "wikilink")。翌日下午，Twitter再次被封锁。[Facebook](../Page/Facebook.md "wikilink")也在7月7日遭到封锁至今未解除。\[224\]\[225\] 8月6日，《[中国国防报](https://zh.wikipedia.org/wiki/中国国防报 "wikilink")》发表文章指出Twitter、Facebook、Flickr和[YouTube](../Page/YouTube.md "wikilink")可以被“[西方敌对势力](https://zh.wikipedia.org/wiki/反华势力 "wikilink")”用作宣传与颠覆工具，并称“要加快提高网络隔绝、屏蔽、锁定和反击网上攻击的能力”。\[226\]\[227\]\[228\]雖然被封锁，但還有中国用户通过各种手段来登录与使用Twitter，如修改[Hosts文件](../Page/Hosts文件.md "wikilink")，使用[twip](https://zh.wikipedia.org/wiki/twip "wikilink")，tweetr等搭建twitter API proxy，或使用[Dabr](https://zh.wikipedia.org/wiki/Dabr "wikilink")、[推特中文圈](https://zh.wikipedia.org/wiki/推特中文圈 "wikilink")（或者基于推特中文圈的修改版本Rabr）等第三方站点或软件。\[229\]\[230\]
 
 <!-- end list -->
 
-  - 2011年2月19日，有網民在[博訊新聞網上發出](https://zh.wikipedia.org/wiki/博訊 "wikilink")[中國茉莉花革命](../Page/中國茉莉花革命.md "wikilink")的號召，號召網民於次日（即2月20日）上街集會。而當晚有部分中國大陸境內的網民反映能通過[SSL直接連接Twitter和Facebook而無需翻牆](https://zh.wikipedia.org/wiki/SSL "wikilink")。21日起，多个Google的IP及免费主机被封锁，以阻止中国大陸网民使用自己搭建的API（GTAP或Twip等）访问Twitter。\[230\]
+  - 2011年2月19日，有網民在[博訊新聞網上發出](https://zh.wikipedia.org/wiki/博訊 "wikilink")[中國茉莉花革命](../Page/中國茉莉花革命.md "wikilink")的號召，號召網民於次日（即2月20日）上街集會。而當晚有部分中國大陸境內的網民反映能通過[SSL直接連接Twitter和Facebook而無需翻牆](https://zh.wikipedia.org/wiki/SSL "wikilink")。21日起，多个Google的IP及免费主机被封锁，以阻止中国大陸网民使用自己搭建的API（GTAP或Twip等）访问Twitter。\[231\]
 
 目前中国大陆地区无法直接登录Twitter，可通过[突破网络审查](../Page/突破网络审查.md "wikilink")的相关方法访问Twitter官网。
 
@@ -346,9 +346,9 @@ Twitter自己开发了一个名为t.co的[网址缩短服务](https://zh.wikiped
 
 ### 对封锁的反制
 
-  - 由于Twitter开放[应用程序接口](../Page/应用程序接口.md "wikilink")，众多使用者搭建了大量的Twitter第三方应用，其中部分未被封锁。用户可通过未被封锁的Twitter第三方应用免“[翻墙](https://zh.wikipedia.org/wiki/翻墙 "wikilink")”的使用Twitter的服务。由于使用Twitter第三方应用有泄露密码的风险，2010年8月开始Twitter已经逐步停止未经OAuth认证的第三方应用，但用户仍无法避免第三方应用对自己的帐号发送广告或恶意链接的情况。
-  - 2010年1月27日，Twitter称正在研发新技术，此项技术将被用于保护Twitter用户免遭来自中国和伊朗政府的网络审查。\[231\]
-  - 2015年8月19日，Twitter以服務[大中華區](https://zh.wikipedia.org/wiki/大中華區 "wikilink")[廣告](../Page/廣告.md "wikilink")主的變通方式在中國大陸啟用，僅對海外發布產品消息而非[社群網路性質](https://zh.wikipedia.org/wiki/社群網路 "wikilink")，對內仍屏蔽\[232\]\[233\]\[234\]。
+  - 由于Twitter开放[-{zh-hans:应用程序接口; zh-hant:應用程式介面;}-](../Page/应用程序接口.md "wikilink")，众多使用者搭建了大量的Twitter第三方应用，其中部分未被封锁。用户可通过未被封锁的Twitter第三方应用免“[翻墙](https://zh.wikipedia.org/wiki/翻墙 "wikilink")”的使用Twitter的服务。由于使用Twitter第三方应用有泄露密码的风险，2010年8月开始Twitter已经逐步停止未经OAuth认证的第三方应用，但用户仍无法避免第三方应用对自己的帐号发送广告或恶意链接的情况。
+  - 2010年1月27日，Twitter称正在研发新技术，此项技术将被用于保护Twitter用户免遭来自中国和伊朗政府的-{zh-cn:网络审查; zh-tw:網路審查; zh-hk:網絡審查;}-。\[232\]
+  - 2015年8月19日，Twitter以服務[大中華區](https://zh.wikipedia.org/wiki/大中華區 "wikilink")[廣告](../Page/廣告.md "wikilink")主的變通方式在中國大陸啟用，僅對海外發布產品消息而非[社群網路性質](https://zh.wikipedia.org/wiki/社群網路 "wikilink")，對內仍-{zh:封鎖; zh-cn:屏蔽; zh-tw:封鎖; zh-hk:封鎖;}-\[233\]\[234\]\[235\]。
 
 ## 參見
 
@@ -368,444 +368,237 @@ Twitter自己开发了一个名为t.co的[网址缩短服务](https://zh.wikiped
 [Category:Twitter](https://zh.wikipedia.org/wiki/Category:Twitter "wikilink") [Category:网站](https://zh.wikipedia.org/wiki/Category:网站 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:微博客](https://zh.wikipedia.org/wiki/Category:微博客 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink") [Category:虚拟社群](https://zh.wikipedia.org/wiki/Category:虚拟社群 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:Firefox_OS軟體](https://zh.wikipedia.org/wiki/Category:Firefox_OS軟體 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Windows_Phone軟體](https://zh.wikipedia.org/wiki/Category:Windows_Phone軟體 "wikilink") [Category:2006年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2006年加利福尼亞州建立 "wikilink") [Category:2006年建立的网站](https://zh.wikipedia.org/wiki/Category:2006年建立的网站 "wikilink") [Category:2013年IPO](https://zh.wikipedia.org/wiki/Category:2013年IPO "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.  [1](http://old.news.yahoo.com/s/mashable/20110716/tc_mashable/reaching_200_million_accounts_twitters_explosive_growth_infographic)
-
 7.
-
 8.  [via SMS FAQ](http://support.twitter.com/groups/34-apps-sms-and-mobile/topics/153-twitter-via-sms/articles/14014-twitter-via-sms-faq#Twitter)  Retrieved April 13, 2012.
-
 9.
-
 10. [twitter上市专题](http://tech.sina.com.cn/z/Twitteripo/)
-
 11. [推特再傳求售 谷歌、Salesforce有興趣](https://web.archive.org/web/20160925152724/http://www.cna.com.tw/news/afe/201609240126-1.aspx)
-
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21. [Press release](https://zh.wikipedia.org/wiki/Press_release "wikilink")（January 22, 2010）. ["Media Advisory M10-012 – NASA Extends the World Wide Web Out into Space"](http://www.nasa.gov/home/hqnews/2010/jan/HQ_M10-011_Hawaii221169.html). [NASA](https://zh.wikipedia.org/wiki/NASA "wikilink"). Retrieved February 5, 2011.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52. [推特傳Google想買 股價飆](http://money.udn.com/money/story/5599/1980714)  2016-09-24 經濟日報
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
 74.
 75.
-
 76.
 77.
-
 78.
-
 79.
-
 80.
-
 81. Laura Locke,["Twitter video-sharing service nabs $6.5 million "](http://news.cnet.com/8301-1023_3-20113426-93/twitter-video-sharing-service-nabs-$6.5-million/), CNET, September 29, 2011
-
 82.
-
 83.
-
 84.
-
 85.
-
 86.
-
 87.
-
 88.
-
 89.
-
 90.
-
 91. [Twitter for Firefox OS](https://blog.twitter.com/2013/twitter-for-firefox-os)
-
 92. [Twitter sets max user caps for 3rd party clients, tightens API rules to direct users to official apps](http://thenextweb.com/twitter/2012/08/17/twitter-4/)
-
 93.
-
 94.
 95.
-
 96.
-
 97.
-
 98.
-
 99. Yarrow, Jay,[There's Only One Place In The World Where Twitter Is Bigger Than Facebook](http://www.businessinsider.com/theres-only-one-place-in-the-world-where-twitter-is-bigger-than-facebook-2012-1), *[Business Insider](https://zh.wikipedia.org/wiki/Business_Insider "wikilink")*, January 6, 2012. Retrieved January 11, 2012.
-
 100.
-
 101.
-
 102.
-
-103.
-
+103. [不甩脸书做法 推特禁政治宣传广告](https://www.dw.com/zh/%E4%B8%8D%E7%94%A9%E8%84%B8%E4%B9%A6%E5%81%9A%E6%B3%95-%E6%8E%A8%E7%89%B9%E7%A6%81%E6%94%BF%E6%B2%BB%E5%AE%A3%E4%BC%A0%E5%B9%BF%E5%91%8A/a-51060710)
 104.
-
 105.
 106.
-
 107.
-
 108.
-
 109.
-
 110.
-
 111.
-
 112.
-
 113.
-
 114.
 115.
-
 116.
-
 117.
-
 118.
-
-119. [Twitter Will Automate Ad-Buying by the End of the Year](http://mashable.com/2011/06/09/twitter-ad-buying/)
-
-120.
-
+119.
+120. [Twitter Will Automate Ad-Buying by the End of the Year](http://mashable.com/2011/06/09/twitter-ad-buying/)
 121.
-
 122.
-
 123.
-
 124.
-
 125.
-
-126. [Twitter's New Search Architecture](http://engineering.twitter.com/2010/10/twitters-new-search-architecture.html)
-
-127. [Twitter Search is Now 3x Faster](http://engineering.twitter.com/2011/04/twitter-search-is-now-3x-faster_1656.html)
-
-128.
-
+126.
+127. [Twitter's New Search Architecture](http://engineering.twitter.com/2010/10/twitters-new-search-architecture.html)
+128. [Twitter Search is Now 3x Faster](http://engineering.twitter.com/2011/04/twitter-search-is-now-3x-faster_1656.html)
 129.
-
 130.
-
 131.
-
 132.
-
 133.
-
 134.
-
 135.
-
 136.
-
 137.
-
 138.
-
 139.
-
 140.
-
 141.
-
 142.
-
 143.
-
 144.
-
 145.
-
 146.
-
 147.
-
 148.
-
 149.
-
 150.
-
 151.
-
 152.
-
 153.
-
 154.
-
 155.
 156.
-
 157.
 158.
 159.
 160.
-
 161.
 162.
-
 163.
-
 164.
-
 165.
-
-166. [Twitter Inc., Unknown Posters Sued by Athlete Known as ‘CTB’ at U.K. Court](http://www.bloomberg.com/news/2011-05-20/twitter-inc-unknown-posters-sued-by-athlete-known-as-ctb-at-u-k-court.html) ''From: ''bloomberg.com *Date:* May 20, 2011
-
-167.
-
+166.
+167. [Twitter Inc., Unknown Posters Sued by Athlete Known as ‘CTB’ at U.K. Court](http://www.bloomberg.com/news/2011-05-20/twitter-inc-unknown-posters-sued-by-athlete-known-as-ctb-at-u-k-court.html) ''From: ''bloomberg.com *Date:* May 20, 2011
 168.
-
 169.
-
 170.
-
-171. ["Mr Monkey"](http://mrmonkeysblog.wordpress.com/) accessed 30 May 2011
-
-172.
-
+171.
+172. ["Mr Monkey"](http://mrmonkeysblog.wordpress.com/) accessed 30 May 2011
 173.
-
 174.
-
-175. [Twitter Blog - Tweets still must flow](http://blog.twitter.com/2012/01/tweets-still-must-flow.html) 26 January 2012. Retrieved 27 January 2012.
-
-176.
-
+175.
+176. [Twitter Blog - Tweets still must flow](http://blog.twitter.com/2012/01/tweets-still-must-flow.html) 26 January 2012. Retrieved 27 January 2012.
 177.
-
-178. [Terrence O’Brien “Twitter introduces Innovators Patent Agreement, vows to not abuse patent system”, Engadget, 17 April 2012](http://www.engadget.com/2012/04/17/twitter-introduces-innovators-patent-agreement/)
-
-179.
+178.
+179. [Terrence O’Brien “Twitter introduces Innovators Patent Agreement, vows to not abuse patent system”, Engadget, 17 April 2012](http://www.engadget.com/2012/04/17/twitter-introduces-innovators-patent-agreement/)
 180.
-
 181.
 182.
 183.
 184.
-
 185.
-
 186.
 187.
 188.
-
 189.
-
-190. Mike Flacy, Digital Trends. "[Twitter photo sharing goes live for all users](http://www.digitaltrends.com/photography/twitter-photo-sharing-goes-live-for-all-users/)." August 9, 2011. Retrieved August 10, 2011.
-
-191.
+190.
+191. Mike Flacy, Digital Trends. "[Twitter photo sharing goes live for all users](http://www.digitaltrends.com/photography/twitter-photo-sharing-goes-live-for-all-users/)." August 9, 2011. Retrieved August 10, 2011.
 192.
-
 193.
-
 194.
-
 195.
-
 196.
-
 197.
-
 198.
-
 199.
-
 200.
-
 201.
-
-202. Mann, Bill. ["Graham Linehan’s We Love the NHS campaign shows political power of Twitter"](http://www.thefirstpost.co.uk/52231,news,graham-linehan-we-love-the-nhs-twitter-campaign-and-the-power-of-twitter-brown-cameron-hannan), "The First Post", 2009-8-14.
-
-203. [Gordon and Sarah Brown join US pro-NHS Twitter campaign](http://www.telegraph.co.uk/technology/twitter/6021362/Gordon-and-Sarah-Brown-join-US-pro-NHS-Twitter-campaign.html)
-
-204.
-
+202.
+203. Mann, Bill. ["Graham Linehan’s We Love the NHS campaign shows political power of Twitter"](http://www.thefirstpost.co.uk/52231,news,graham-linehan-we-love-the-nhs-twitter-campaign-and-the-power-of-twitter-brown-cameron-hannan), "The First Post", 2009-8-14.
+204. [Gordon and Sarah Brown join US pro-NHS Twitter campaign](http://www.telegraph.co.uk/technology/twitter/6021362/Gordon-and-Sarah-Brown-join-US-pro-NHS-Twitter-campaign.html)
 205.
-
 206.
-
 207.
-
 208.
-
 209.
-
 210.
-
 211.
 212.
-213. <http://iknow.stpi.narl.org.tw/post/Read.aspx?PostID=11949> 專利情報 ： 歐盟新資料保護法 擴及非歐盟企業 - 科技產業資訊室
-
-214. <https://www.reddit.com/r/Twitter/comments/945t3e/twitter_age_ban_selected_the_second_option_heres/> Twitter Age Ban: Selected the second option? Here's how to unlock. : Twitter
-
-215. [Twitter to Dump Third-Party Image Hosts From Apps](http://mashable.com/2012/09/18/twitter-third-party-image/). [Mashable](../Page/Mashable.md "wikilink"). 2012-09-18.
-
-216. [Twitpic Blog](http://blog.twitpic.com/)
-
-217.
-
+213.
+214. <http://iknow.stpi.narl.org.tw/post/Read.aspx?PostID=11949> 專利情報 ： 歐盟新資料保護法 擴及非歐盟企業 - 科技產業資訊室
+215. <https://www.reddit.com/r/Twitter/comments/945t3e/twitter_age_ban_selected_the_second_option_heres/> Twitter Age Ban: Selected the second option? Here's how to unlock. : Twitter
+216. [Twitter to Dump Third-Party Image Hosts From Apps](http://mashable.com/2012/09/18/twitter-third-party-image/). [Mashable](../Page/Mashable.md "wikilink"). 2012-09-18.
+217. [Twitpic Blog](http://blog.twitpic.com/)
 218.
-
 219.
-
 220.
-
 221.
-
 222.
-
 223.
-
 224.
-
 225.
-
 226.
-
 227.
-
 228.
-
 229.
-
 230.
-
 231.
-
 232.
-
 233.
-
 234.
+235.

@@ -10,7 +10,7 @@ S波移动时是剪切波或[横波](https://zh.wikipedia.org/wiki/横波 "wikil
 
 \[\tau_{ij}=\lambda\delta_{ij}e_{kk}+2\mu e_{ij}\\]
 
-其中\(\tau\)是应力，\(\lambda\)和\(\mu\)是[拉梅参数](https://zh.wikipedia.org/wiki/拉梅参数 "wikilink")（\(\mu\)是[剪切模量](https://zh.wikipedia.org/wiki/剪切模量 "wikilink")），\(\delta_{ij}\)是[克罗内克函数](https://zh.wikipedia.org/wiki/克罗内克函数 "wikilink")，而应变张量定义为
+其中\(\tau\)是应力，\(\lambda\)和\(\mu\)是[拉梅参数](https://zh.wikipedia.org/wiki/拉梅参数 "wikilink")（\(\mu\)是[剪切模量](../Page/剪切模量.md "wikilink")），\(\delta_{ij}\)是[克罗内克函数](https://zh.wikipedia.org/wiki/克罗内克函数 "wikilink")，而应变张量定义为
 
 \[e_{ij}=\frac{1}{2}\left( \partial_i u_j+\partial_j u_i \right)\]
 

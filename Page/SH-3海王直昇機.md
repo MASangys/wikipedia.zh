@@ -184,10 +184,8 @@ HAS 5
   - [AN/ALE-47反制灑佈器](https://zh.wikipedia.org/wiki/AN/ALE-47反制灑佈器 "wikilink")
   - [尼米茲級核動力航空母艦](https://zh.wikipedia.org/wiki/尼米茲級核動力航空母艦 "wikilink")
 
-[Category:賽考斯基飛行器](https://zh.wikipedia.org/wiki/Category:賽考斯基飛行器 "wikilink") [Category:軍用直升機](https://zh.wikipedia.org/wiki/Category:軍用直升機 "wikilink") [Category:反潛機](https://zh.wikipedia.org/wiki/Category:反潛機 "wikilink") [Category:中型直升機](https://zh.wikipedia.org/wiki/Category:中型直升機 "wikilink")
+[Category:塞考斯基飛行器](https://zh.wikipedia.org/wiki/Category:塞考斯基飛行器 "wikilink") [Category:軍用直升機](https://zh.wikipedia.org/wiki/Category:軍用直升機 "wikilink") [Category:反潛機](https://zh.wikipedia.org/wiki/Category:反潛機 "wikilink") [Category:中型直升機](https://zh.wikipedia.org/wiki/Category:中型直升機 "wikilink")
 
 1.  United States, 1974. pg. A-40; 1998. pg. A-43; 2004. pg. 43
-
 2.
-
 3.

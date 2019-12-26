@@ -233,9 +233,9 @@ LGBT的領養權一直是LGBT權利中一個非常活躍的討論話題，目前
 
 2010年發表了首個使用了大型隨機樣本，支持同性家庭領養的研究。Rosenfeld於2010年發表的研究，使用2000年美國戶口普查的資料，（可供公眾使用的5%樣本）比較各種家庭型態中孩子的留級率。發現異性戀婚姻下的孩子留級率最低，但未婚的男女同性戀伴侶(當時美國沒有同性婚姻)的小孩留級率低於同居而未結婚的異性戀伴侶、單身女性、單身男性的小孩，處各種家庭型態中的小孩留級率都遠低於處在社福機構中者。而控制了家長的教育程度、收入、種族、城鄉、小孩是否有身心障礙等人口學變項後，同性戀家庭和異性戀家庭小孩的留級率未達統計上顯著。因此Rosenfeld認為，父母的性傾向本身對於小孩的發展沒有影響。\[90\]
 
-Rosenfeld的研究受到質疑。Allen et al. (2012)指Rosenfeld為了增加樣本家庭中的「穩定性」(household stability)，將領養(adopted child/foster child)及繼養(stepchild)兒童，以及在過去5年內曾經遷居的家庭剔除在樣本以外，只計算孩子與同性雙親其中一方有血緣關係的同性家庭。\[91\]結果是將超過一半以上的樣本排除，只餘下3502個樣本家庭數目，亦由於樣本數量太少，導致了難以測出統計學上顯著差異，做成統計學上的Type-II error。Allen et al.將原先被排除的樣本加入再分析，發現已婚異性雙親家庭的孩子比同性雙親家庭的孩子多35%正常發展(p\<.01)。
+Rosenfeld的研究受到質疑。Allen et al. (2012)認為Rosenfeld為了增加樣本家庭中的「穩定性」(household stability)，將領養(adopted child/foster child)及繼養(stepchild)兒童，以及在過去5年內曾經遷居的家庭剔除在樣本以外，只計算孩子與同性雙親其中一方有血緣關係的同性家庭。\[91\]超過一半以上的樣本排除，只餘下3502個樣本家庭數目，所以才難以測出統計學上顯著差異。Allen et al.將原先被排除的樣本加入分析，發現已婚異性雙親家庭的孩子比同性雙親家庭的孩子多35%的良好發展(p\<.01)。
 
-Rosenfeld回應時指出Allen et al.的作法並非在研究「長期共同居住的家庭」而加入了其他類型\[92\]，因此無法準確測量真正由同性雙親撫養小孩家庭的學業表現。
+Rosenfeld回應時指出Allen et al.的作法並非在研究「長期共同居住的家庭」而加入了其他類型的樣本\[92\]，因此無法準確測量真正由同性雙親家庭撫養小孩的學業表現。
 
 ### 反對
 
@@ -285,17 +285,15 @@ Rosenfeld回應時指出Allen et al.的作法並非在研究「長期共同居�
 ## 參考文章
 
   - [同性伴侶對領養小孩有負面影響嗎？](http://www.businessweekly.com.tw/KBlogArticle.aspx?ID=5241&pnumber=1) 有關Justin Lehmiller,Regnerus的研究。
-
   - [同性戀者收養小孩的政策面思考](http://lescholar.pixnet.net/blog/post/78558018-%E5%90%8C%E6%80%A7%E6%88%80%E8%80%85%E6%94%B6%E9%A4%8A%E5%B0%8F%E5%AD%A9%E7%9A%84%E6%94%BF%E7%AD%96%E9%9D%A2%E6%80%9D%E8%80%83) M. J. Rosenfeld(2010)
-
   - [同性戀的親密關係與家庭功能之剖析](https://tapcpr.files.wordpress.com/2013/11/e5908ce680a7e5a99ae5a7bbe7a094e7a9b6e695b4e79086_final.pdf)
-
   -
   - [支持同性婚姻或同性收養的專業組織 @ lescholar :: 痞客邦 PIXNET ::](http://lescholar.pixnet.net/blog/post/169147275)
 
 ## 參考研究
 
   - [What does the scholarly research say about the wellbeing of children with gay or lesbian parents?](https://whatweknow.inequality.cornell.edu/topics/lgbt-equality/what-does-the-scholarly-research-say-about-the-wellbeing-of-children-with-gay-or-lesbian-parents/)
+  - American Psychological Associations：[Lesbian and Gay Parenting](https://www.apa.org/pi/lgbt/resources/parenting)
 
 ## 參見條目
 
@@ -324,83 +322,49 @@ Rosenfeld回應時指出Allen et al.的作法並非在研究「長期共同居�
 [Category:LGBT權利](https://zh.wikipedia.org/wiki/Category:LGBT權利 "wikilink") [Category:收養](https://zh.wikipedia.org/wiki/Category:收養 "wikilink") [Category:親屬關係](https://zh.wikipedia.org/wiki/Category:親屬關係 "wikilink")
 
 1.  [UNITED STATES DISTRICT COURT DISTRICT OF MASSACHUSETTS July 8, 2010 (PDF)](http://docfiles.justia.com/cases/federal/district-courts/massachusetts/madce/1:2009cv10309/120672/70/0.pdf)
-
 2.  [IN THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF CALIFORNIA - August 4, 2010 (PDF)](https://ecf.cand.uscourts.gov/cand/09cv2292/files/09cv2292-ORDER.pdf)
-
 3.
-
 4.
-
 5.  David Morton Rayside. *Queer inclusions, continental divisions: public recognition of sexual diversity in Canada and the United States*. University of Toronto Press, 2008. p. 388 (p. 20). ISBN 0802086292.
-
 6.  David Morton Rayside. *Queer inclusions, continental divisions: public recognition of sexual diversity in Canada and the United States*. University of Toronto Press, 2008. p. 388 (p. 21). ISBN 0802086292.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15. [人權再進步！全美同性伴侶都可領養小孩](http://www.appledaily.com.tw/realtimenews/article/new/20160402/830300/)
-
 16.
-
 17.
-
 18.
 19.
 20.
 21. [〈士林地方法院103年度司養聲第126號裁定〉](http://itdels.digital.ntu.edu.tw/Item.php?ID=A_0002_0006_0009_0001)\[A_0002_0006_0009_0001\]，收錄於臺灣法實證研究資料庫，法律文件資料庫。\[2019/08/05\]
-
 22. [〈士林地方法院104年度家聲抗字第31號裁定〉](http://itdels.digital.ntu.edu.tw/Item.php?ID=A_0002_0006_0009_0002)\[A_0002_0006_0009_0002\]，收錄於臺灣法實證研究資料庫，法律文件資料庫。\[2019/08/05\]
-
 23.
 24.
 25. [〈最高法院106年度台簡抗字第95號民事裁定〉](http://itdels.digital.ntu.edu.tw/Item.php?ID=A_0002_0006_0009_0005)\[A_0002_0006_0009_0005\]，收錄於臺灣法實證研究資料庫，法律文件資料庫。\[2019/08/05\]
-
 26. [Ruling](http://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000007052082) of the Court of Cassation, first civil chamber, on recourse 04-17090
-
 27. [04-15676](http://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000017636127)
-
 28. [06-15647](http://www.legifrance.gouv.fr/affichJuriJudi.do?idTexte=JURITEXT000017636211)
-
 29. [Ruling in E.B. v. France](http://cmiskp.echr.coe.int/tkp197/view.asp?action=html&documentId=827961&portal=hbkm&source=externalbydocnumber&table=F69A27FD8FB86142BF01C1166DEA398649) from the [歐洲人權法院](https://zh.wikipedia.org/wiki/歐洲人權法院 "wikilink")
-
 30. [Council of State (France)](../Page/法国最高行政法院.md "wikilink"), [ruling 230533](http://www.legifrance.gouv.fr/affichJuriAdmin.do?idTexte=CETATEXT000008117315)
-
 31.
 32. BBC, [France chided over gay adoption](http://news.bbc.co.uk/2/hi/europe/7202521.stm), 22 January 2008
-
 33.
-
 34. [Gay News From 365Gay.com](http://www.365gay.com/newscon05/01/011005isAdopt.htm)
-
 35. [AG okays wider adoption rights for same-sex couples](http://www.haaretz.com/hasen/spages/953097.html), By Yuval Yoaz, February 12, 2008.
-
 36.
-
 37. Romero, Adam, Census Snapshot, [Williams Institute](http://www.law.ucla.edu/williamsinstitute/publications/USCensusSnapshot.pdf), December 2007
-
 38. [Utah Code Section 78-30-1](http://le.utah.gov/~code/TITLE78/htm/78_29002.htm)
-
 39.
 40. Robert Crooks, Karla Baur. *Our sexuality*. 10th Edition. Cengage Learning, 2008. p. 520 (p. 255). ISBN 0495095540.
-
 41.
 42.
 43.
 44.
-
 45.
 46.
 47.
@@ -408,97 +372,51 @@ Rosenfeld回應時指出Allen et al.的作法並非在研究「長期共同居�
 49.
 50.
 51. [人權再進步！全美同性伴侶都可領養小孩](http://www.appledaily.com.tw/realtimenews/article/new/20160402/830300/)
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
 60.
-
 61.
-
 62.
-
 63. Charlotte Patterson, et. al, "Adolescents with Same-Sex Parents: Findings from the National Longitudinal Study of Adolescent Health, November 7, 2007, pg. 2
-
 64.
-65. [Gordon Moyes](http://www.gordonmoyes.com/2009/02/26/parliamentary-inquiries-same-sex-adoption/)
-
+65.
 66. [PSYCHOLOGICAL ANDROGYNY AND CREATIVITY: DYNAMICS OF GENDER-ROLE AND PERSONALITY TRAIT](http://www.ingentaconnect.com/content/sbp/sbp/2000/00000028/00000005/art00002)
-
 67. Paige, R. U. (2005). Proceedings of the American Psychological Association, Incorporated, for the legislative year 2004. Minutes of the meeting of the Council of Representatives July 28 & 30, 2004, Honolulu, HI. Retrieved November 18, 2004, from the World Wide Web <http://www.apa.org/governance/>. (To be published in Volume 60, Issue Number 5 of the American Psychologist.)
-
 68. ["Resolution on Sexual Orientation and Marriage"](http://www.apa.org/pi/lgbc/policy/marriage.pdf), Study finds gay moms equally-good parents, July 2004.
-
 69. ["Position Statement: Adoption and Co-parenting of Children by Same-sex Couples"](http://www.psych.org/edu/other_res/lib_archives/archives/200214.pdf), American Psychological Association, November 2002.
-
 70.
-
 71.
-
 72.
-
 73. ["BRIEF OF THE AMERICAN PSYCHOLOGICAL ASSOCIATION, THE AMERICAN ACADEMY OF PEDIATRICS, THE AMERICAN MEDICAL ASSOCIATION, THE AMERICAN PSYCHIATRIC ASSOCIATION, THE AMERICAN PSYCHOANALYTIC ASSOCIATION, THE CALIFORNIA MEDICAL ASSOCIATION, THE NATIONAL ASSOCIATION OF SOCIAL WORKERS AND ITS NEW YORK CITY AND STATE CHAPTERS, AND THE NEW YORK STATE PSYCHOLOGICAL ASSOCIATION AS AMICI CURIAE ON THE MERITS IN SUPPORT OF AFFIRMANCE"](http://www.apa.org/about/offices/ogc/amicus/windsor-us.pdf)
-
 74. ["BRIEF OF AMICUS CURIAE AMERICAN SOCIOLOGICAL ASSOCIATION IN SUPPORT OF RESPONDENT KRISTIN M.PERRY AND RESPONDENT EDITH SCHLAIN WINDSOR"](http://www.asanet.org/documents/ASA/pdfs/12-144_307_Amicus_%20\(C_%20Gottlieb\)_ASA_Same-Sex_Marriage.pdf)
-
 75. [1](http://www.apa.org/about/offices/ogc/amicus/windsor-us.pdf)
-
 76. [2](http://www.asanet.org/documents/ASA/pdfs/12-144_307_Amicus_%20\(C_%20Gottlieb\)_ASA_Same-Sex_Marriage.pdf)
-
 77.
-
 78. [3](http://www.aacap.org/cs/root/policy_statements/gay_lesbian_transgender_and_bisexual_parents_policy_)
-
 79.
-
 80.
-
 81.
-
 82.
-
 83.
-
 84.
-
 85.
-
 86.
-
 87.
-
 88.
-
 89.
-
 90. Michael J. Rosenfeld (2010). ["NONTRADITIONAL FAMILIES AND CHILDHOOD PROGRESS THROUGH SCHOOL"](http://www.stanford.edu/~mrosenfe/Rosenfeld_Nontraditional_Families_Demography.pdf)
-
 91. Allen, W., Pakaluk, C. & Price J. (2012). ["Nontraditional Families and Childhood Progress Through School: A Comment on Rosenfeld"](http://www.maggiegallagher.com/wp-content/uploads/2012/11/Allen-et-al-Demography-2012.pdf), Demography. 50(3), pp.955-61.
-
 92. Rosenfeld, M. (2012). ["Reply to Allen et al."](http://www.stanford.edu/~mrosenfe/Rosenfeld_Demography_reply_to_Allen_etal.pdf), Demography. 50(3), pp.963-69.
-
 93. Marks, L. (2012). ["Same-sex parenting and children's outcomes: A closer examination of the American psychological association's brief on lesbian and gay parenting"](http://www.sciencedirect.com/science/article/pii/S0049089X12000580),Social Science Research. 41, pp.735-751.
-
 94. Allen, D. (2013). ["High school graduation rates among children of same-sex households"](http://www.terpconnect.umd.edu/~pnc/allen-ss-grad.pdf), Review of Economics of the Household. 11(4), pp.635-658.
-
 95.
-
 96. [Gay News From 365Gay.com](http://www.365gay.com/newscon05/01/011005isAdopt.htm)
-
 97. [AG okays wider adoption rights for same-sex couples](http://www.haaretz.com/hasen/spages/953097.html), By Yuval Yoaz, February 12, 2008.
-
 98. [Federal Court Overturns Mississippi Adoption Ban](https://oblogdeeoblogda.me/2016/03/31/federal-court-overturns-mississippi-adoption-ban/)
-
 99. [4](https://www.youtube.com/watch?v=7EsZiUGPIxo)

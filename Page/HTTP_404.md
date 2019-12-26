@@ -1,4 +1,4 @@
-**HTTP 404**或**Not Found**錯誤訊息是[HTTP的其中一種](https://zh.wikipedia.org/wiki/HTTP "wikilink")「標準回應訊息」（[HTTP状态码](../Page/HTTP状态码.md "wikilink")），此訊息代表客戶端在瀏覽網頁時，伺服器無法正常提供訊息，或是伺服器無法回應且不知原因。通常是因为用户所访问的对应网页已被被移动或从未存在。404也是互联网上最常见的错误之一。404錯誤訊息可能與「server not found」（無法找到伺服器）或其他類似訊息產生混淆。
+**HTTP 404**或**Not Found**錯誤訊息是[HTTP的其中一種](https://zh.wikipedia.org/wiki/HTTP "wikilink")「標準回應訊息」（[HTTP状态码](../Page/HTTP状态码.md "wikilink")），此訊息代表客戶端在瀏覽網頁時，伺服器無法正常提供訊息，或是伺服器無法回應且不知原因。通常是因为用户所访问的对应网页已被、移动或从未存在。404也是互联网上最常见的错误之一。404錯誤訊息可能與「server not found」（無法找到伺服器）或其他類似訊息產生混淆。
 
 ## 概要
 

@@ -58,8 +58,8 @@
     被告知真相後一度意志消沉，並放棄唱歌。但在Vajra島內襲擊事件中，當“希望歌姬”蘭花以負向感情的歌聲引來更多Vajra襲擊時，雪露以其歌聲安慰避難所內的市民，在V型感染后藥物停用和精神波動使得Vajra細菌擴散進入腦部，并獲得與蘭花類似的發出fold波能力，並成為Macross Frontier的歌聲兵器。解除Galaxy伪装后，三人协力击败葛蕾丝。
     被有人營救回來的蘭花當面「宣戰」，表示無論是工作還是愛情上都不會輸給自己，雪露作出「キラッ☆」的手勢接受挑戰。
     在剧场版中，注射兰花的血清得以救助，成为和兰花一样的共存者，但陷入昏迷狀態，最後在耳環傳來的思念下甦醒，再度重返舞台。
-    在以雪露為主角的独立剧情授权漫畫中與蘭花一起掉入Vajra女王拯救了有人和布雷拉的地並將二人救出，最終與有人結婚。
     在以雪露為主角的独立剧情授权漫畫中表示出，雙親因反對Galaxy船民身體改造義務化而遭殺害，使得雪露流落街頭。
+    在以雪露為主角的独立剧情授权漫畫中與蘭花一起掉入Vajra女王拯救了有人和布雷拉的地並將二人救出，最終與有人結婚。
 
 <!-- end list -->
 
@@ -1166,9 +1166,9 @@ KIM YONG-SIK</p></td>
 
 ## 外部链接
 
-  - [Macross F 官方网页](http://www.macrossf.com/)
+  - [Macross F 官方网页](https://web.archive.org/web/20080327230407/http://www.macrossf.com/)
 
-      - [劇場版 Macross F 虛空歌姬](http://www.macrossf.com/movie/)
+      - [劇場版 Macross F 虛空歌姬](https://web.archive.org/web/20120905123358/http://www.macrossf.com/movie/)
 
       - [劇場版 Macross F 戀離飛翼](https://web.archive.org/web/20120905115053/http://www.macrossf.com/movie2/)
 
@@ -1185,26 +1185,15 @@ KIM YONG-SIK</p></td>
 [Category:超时空要塞](https://zh.wikipedia.org/wiki/Category:超时空要塞 "wikilink") [Category:2008年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2008年TBS電視網動畫 "wikilink") [Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink") [Category:每日放送深夜動畫](https://zh.wikipedia.org/wiki/Category:每日放送深夜動畫 "wikilink") [Category:日本漫画作品](https://zh.wikipedia.org/wiki/Category:日本漫画作品 "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink") [Category:2009年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2009年日本劇場動畫 "wikilink") [Category:月刊少年Ace連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年Ace連載作品 "wikilink") [Category:2011年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2011年日本劇場動畫 "wikilink") [Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")
 
 1.
-
 2.
-
 3.  第四话3:49，入队训练时拉姆·荷阿透露
-
 4.  第四话18:49资料，生日是2043年4月29日，血型O型，体重42kg，身高156cm
-
 5.  雜誌PASH\! 2008年7月號專訪
-
 6.  由於刻意情報操作，一開始劇情說法為失事地點不明
-
 7.  鳥の人事件即是原始文化以其為原型所製造出來
-
 8.  TV版最終話提及
-
 9.
-
 10.
 11. 「Macross Ace VOL.002」，2009年6月24日。标题中的日文「」既是「虚空歌姫」之意
-
 12.
-
 13.

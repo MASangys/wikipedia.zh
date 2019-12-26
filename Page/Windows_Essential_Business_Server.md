@@ -28,9 +28,6 @@ Windows Essential Business Server基于[Windows Server 2008](../Page/Windows_Ser
 [Category:Windows服务器](https://zh.wikipedia.org/wiki/Category:Windows服务器 "wikilink")
 
 1.
-
 2.
-
 3.  [Microsoft Essential Business Server 2008 (EBS 2008) finalised - incl Forefront TMG 2008](http://www.geekzone.co.nz/paulspain/5772)
-
 4.

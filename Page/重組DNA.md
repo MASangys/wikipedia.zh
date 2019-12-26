@@ -1,6 +1,6 @@
-**重組DNA**是一种人工合成的[脱氧核糖核酸](../Page/脱氧核糖核酸.md "wikilink")。它是把一般不同时出现的[DNA序列组合到一起而产生的](https://zh.wikipedia.org/wiki/DNA序列 "wikilink")\[1\]。从[遺傳工程的观点来看重組](https://zh.wikipedia.org/wiki/遺傳工程 "wikilink")是把相关的添加到已有生物的[基因組](../Page/基因組.md "wikilink")中，比如细菌的[质粒](../Page/质粒.md "wikilink")中，其目的是为了改变或者添加特别是的特性，比如免疫\[2\]。重組与[遺傳重組不是一回事](https://zh.wikipedia.org/wiki/遺傳重組 "wikilink")。它不是重组细胞内或者染色体上已经存在的基因组，而完全是通过外部工程达到的\[3\]。重组蛋白质是从重組合成出来的蛋白质\[4\]。
+**重組DNA**是一种人工合成的[脱氧核糖核酸](../Page/脱氧核糖核酸.md "wikilink")。它是把一般不同时出现的[DNA序列组合到一起而产生的](https://zh.wikipedia.org/wiki/DNA序列 "wikilink")\[1\]。从[遺傳工程的观点来看重組](https://zh.wikipedia.org/wiki/遺傳工程 "wikilink")是把相关的添加到已有生物的[基因組](../Page/基因組.md "wikilink")中，比如细菌的[质粒](../Page/质粒.md "wikilink")中，其目的是为了改变或者添加特别的特性，比如免疫\[2\]。重組与[遺傳重組不是一回事](https://zh.wikipedia.org/wiki/遺傳重組 "wikilink")。它不是重组细胞内或者染色体上已经存在的基因组，而完全是通过外部工程达到的\[3\]。重组蛋白质是从重組合成出来的蛋白质\[4\]。
 
-重組技术是1973年由[斯坦利·诺曼·科恩](../Page/斯坦利·诺曼·科恩.md "wikilink")和[赫伯特·玻意尔设计的](https://zh.wikipedia.org/wiki/赫伯特·玻意尔 "wikilink")。1974年他们发表了他们的设计\[5\]。在这篇论文中他们描述了分离和放大基因或者片段，然后精确地把它们插入其它细胞中，由此制造出[转基因细菌](https://zh.wikipedia.org/wiki/转基因细菌 "wikilink")。[沃納·亞伯](../Page/沃納·亞伯.md "wikilink")、[丹尼爾·那森斯和](https://zh.wikipedia.org/wiki/丹尼爾·那森斯 "wikilink")[漢彌爾頓·史密斯发明了](https://zh.wikipedia.org/wiki/漢彌爾頓·史密斯 "wikilink")[限制酶](../Page/限制酶.md "wikilink")才使得重組技术可行，为此他们获得了1978年[诺贝尔医学奖](../Page/诺贝尔奖.md "wikilink")。
+重組技术是1973年由[斯坦利·诺曼·科恩](../Page/斯坦利·诺曼·科恩.md "wikilink")和[赫伯特·玻意尔设计的](https://zh.wikipedia.org/wiki/赫伯特·玻意尔 "wikilink")。1974年他们发表了他们的设计\[5\]。在这篇论文中他们描述了分离和放大基因或者片段，然后精确地把它们插入其它细胞中，由此制造出[转基因细菌](https://zh.wikipedia.org/wiki/转基因细菌 "wikilink")。[沃納·亞伯](../Page/沃納·亞伯.md "wikilink")、[丹尼爾·那森斯](../Page/丹尼爾·那森斯.md "wikilink")和[漢彌爾頓·史密斯发明了](https://zh.wikipedia.org/wiki/漢彌爾頓·史密斯 "wikilink")[限制酶](../Page/限制酶.md "wikilink")才使得重組技术可行，为此他们获得了1978年[诺贝尔医学奖](../Page/诺贝尔奖.md "wikilink")。
 
 ## 介绍
 
@@ -61,15 +61,11 @@
 [Category:生物技術](https://zh.wikipedia.org/wiki/Category:生物技術 "wikilink") [Category:分子遺傳學](https://zh.wikipedia.org/wiki/Category:分子遺傳學 "wikilink")
 
 1.
-
 2.
 3.
 4.  [合成蛋白质手册](http://www.biochem.uiowa.edu/donelson/Database%20items/recombinant_protein_handbook.pdf)
-
 5.
-
 6.
-
 7.
 8.
 9.
@@ -82,10 +78,8 @@
 16.
 17.
 18.
-
 19.
 20.
 21.
 22. （1987年）
-
 23. [Human insulin from recombinant DNA technology - Johnson 219 (4585): 632 - Science](http://www.sciencemag.org/cgi/content/abstract/219/4585/632)

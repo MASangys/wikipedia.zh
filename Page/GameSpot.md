@@ -142,110 +142,57 @@ GameCenter（遊戲中心）是一個允許玩家包辦個人化的主機（cust
 [Category:1996年建立的网站](https://zh.wikipedia.org/wiki/Category:1996年建立的网站 "wikilink") [Category:電子遊戲新聞網站](https://zh.wikipedia.org/wiki/Category:電子遊戲新聞網站 "wikilink") [Category:電子遊戲網路論壇](https://zh.wikipedia.org/wiki/Category:電子遊戲網路論壇 "wikilink")
 
 1.
-
-2.  [Gamespot attracts 60 m visitors yearly](http://siteanalytics.compete.com/gamespot.com?metric=uv)
-
+2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10. [Jeff Gerstmann - Virtual Fools](http://www.virtualfools.com/games/jeff-gerstmann/)
-
 11.
-
 12. Vestal, Andrew. [*Crono Cross* (PlayStation) review](http://www.gamespot.com/ps/rpg/chronocross/review.html). GameSpot. 2000-01-06.
-
 13. Gerstmann, Jeff. [*The Legend of Zelda: Ocarina of Time* (Nintendo 64) review](http://www.gamespot.com/n64/adventure/legendofzeldaoot/review.html). GameSpot. 1998-11-23.
-
 14. Mielke, James. [*Soul Calibur* (Dreamcast) review](http://www.gamespot.com/dreamcast/action/soulcalibur/review.html). GameSpot. 1999-08-09.
-
 15. Gerstmann, Jeff. [*Tony Hawk Pro Skater 3* (PlayStation 2) review](http://www.gamespot.com/ps2/sports/tonyhawksproskater3/review.html). GameSpot. 2001-10-29.
-
 16. Calvert, Justin.[*Grand Theft Auto IV* (Xbox 360) review](http://www.gamespot.com/xbox360/action/grandtheftauto4/review.html) Gamespot. 2008-04-28.
-
 17. VanOrd, Kevin [*Metal Gear Solid 4: Guns of the Patriots* (PlayStation 3) review](http://www.gamespot.com/ps3/adventure/metalgearsolid4/review.html?om_act=convert&om_clk=gssummary&tag=summary;review). GameSpot. 2008-06-12.
-
 18. Mac Donald, Ryan. [*NFL 2K* (Dreamcast) review](http://www.gamespot.com/dreamcast/sports/nfl2k/review.html). GameSpot. 1999-09-01.
-
 19. Mac Donald, Ryan. [*NFL 2K1* (Dreamcast) review](http://www.gamespot.com/dreamcast/sports/nfl2k1/review.html). GameSpot. 2000-09-08.
-
 20. Fielder, Joe. [*Perfect Dark* (Nintendo 64) review](http://www.gamespot.com/n64/action/perfectdark/review.html). GameSpot. 2000-05-22.
-
 21. Davis, Cameron. [*Super Mario Bros. Deluxe* (Game Boy Color) review](http://www.gamespot.com/gbc/action/supermariodx/review.html). GameSpot. 2000-01-28.
-
 22. Gerstmann, Jeff. [*Tekken 3* (PlayStation) review](http://www.gamespot.com/ps/action/tekken3/review.html). GameSpot. 1998-03-30.
-
 23. Gerstmann, Jeff. [*Tony Hawk's Pro Skater 2* (Dreamcast) review](http://www.gamespot.com/dreamcast/sports/tonyhawksproskater2/review.html). GameSpot. 2000-11-07.
-
 24. Gerstmann, Jeff. [*Tony Hawk's Pro Skater 2* (PlayStation) review](http://www.gamespot.com/ps/sports/tonyhawksproskater2/review.html). GameSpot. 2000-09-20.
-
 25. Narvarro, Alex. [*Big Rigs: Over the Road Racing* (PC) review](http://www.gamespot.com/pc/driving/bigrigsotrr/review.html). GameSpot. 2004-01-14.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51. [Gamespot exodus continues: Ryan Davis to leave - Joystiq](http://www.joystiq.com/2008/02/04/gamespot-exodus-continues-ryan-davis-to-leave/)
-
 52.
-
 53.
-
 54.
 55.

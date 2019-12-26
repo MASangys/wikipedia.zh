@@ -404,332 +404,169 @@ Facebook為避免分身帳號、廣告帳號浮濫，經常以「保護帳號」
 [Category:標準普爾500指數成分股](https://zh.wikipedia.org/wiki/Category:標準普爾500指數成分股 "wikilink") [Category:Facebook](https://zh.wikipedia.org/wiki/Category:Facebook "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:虛擬社群](https://zh.wikipedia.org/wiki/Category:虛擬社群 "wikilink") [Category:网络相册](https://zh.wikipedia.org/wiki/Category:网络相册 "wikilink") [Category:網誌軟體](https://zh.wikipedia.org/wiki/Category:網誌軟體 "wikilink") [Category:虛構世界](https://zh.wikipedia.org/wiki/Category:虛構世界 "wikilink") [Category:社会信息处理](https://zh.wikipedia.org/wiki/Category:社会信息处理 "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:黑莓软件](https://zh.wikipedia.org/wiki/Category:黑莓软件 "wikilink") [Category:Firefox_OS軟體](https://zh.wikipedia.org/wiki/Category:Firefox_OS軟體 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink") [Category:2004年建立的网站](https://zh.wikipedia.org/wiki/Category:2004年建立的网站 "wikilink") [Category:2004年成立的公司](https://zh.wikipedia.org/wiki/Category:2004年成立的公司 "wikilink") [Category:美国互联网公司](https://zh.wikipedia.org/wiki/Category:美国互联网公司 "wikilink") [Category:部落格代管服務](https://zh.wikipedia.org/wiki/Category:部落格代管服務 "wikilink") [Category:多語言網站](https://zh.wikipedia.org/wiki/Category:多語言網站 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink") [Category:舊金山灣區](https://zh.wikipedia.org/wiki/Category:舊金山灣區 "wikilink") [Category:学生文化](https://zh.wikipedia.org/wiki/Category:学生文化 "wikilink") [Category:門洛公園公司](https://zh.wikipedia.org/wiki/Category:門洛公園公司 "wikilink") [Category:2004年面世的產品](https://zh.wikipedia.org/wiki/Category:2004年面世的產品 "wikilink") [Category:2012年IPO](https://zh.wikipedia.org/wiki/Category:2012年IPO "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  [Facebook 的真正起源：從Zuck高中母校說起 - 譯言翻譯](http://www.yeeyan.com/articles/view/pestwave/40626)
-
 7.
-
 8.
-
 9.
-
 10.
-
 11. COOPER SMITH, [Facebook Users Are Uploading 350 Million New Photos Each Day](http://www.businessinsider.com/facebook-350-million-photos-each-day-2013-9) , *Business Insider*, 2013-09-18
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.  The author is quoting facebook founder Mark Zuckerberg who is cites unnamed [Associated Press](https://zh.wikipedia.org/wiki/Associated_Press "wikilink") reports
-
 23.
-
 24.
-
 25.
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
 46.
-
 47.
-
 48.
-
 49.
-
 50. Parr, Ben. ["These Are Facebook's New Offices \[PHOTOS](http://mashable.com/2011/02/07/facebook-menlo-park-pics/)"\] . *Mashable* (New York). 2011-02-07 \[2011-04-06\].
-
 51. Brundage, Sandy. ["Facebook moving headquarters to Menlo Park: Social-networking giant to move into former Sun/Oracle campus"](http://www.almanacnews.com/news/show_story.php?id=8270) . *The Almanac* (Menlo Park, CA). 2011-02-08.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58. Claburn, Thomas (2013-01-16). ["Meet Facebook's Graph Search Tool"](http://www.informationweek.com/security/privacy/meet-facebooks-graph-search-tool/240146350) . *Information Week*.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73. [臉書創舉 性別選項不侷限男女](http://www.cna.com.tw/news/firstnews/201402140013-1.aspx) ，中央社，2014年2月14日
-
 74. [WhatsApp 臉書花190億美元買下](http://www.cna.com.tw/news/firstnews/201402200003-1.aspx) ，中央社，2014年2月20日
-
 75. [Facebook收购健康跟踪移动应用Moves](http://tech.qq.com/a/20140425/000776.htm) ,腾讯科技，2014年4月25日
-
 76. [Facebook推出新闻服务FB Newswire](http://finance.sina.com/gb/tech/sinacn/20140424/10121018890.html) ,新浪金融理财，2014年4月25日
-
 77. [Facebook收购芬兰创业公司Pryte](http://finance.sina.com/gb/tech/sinacn/20140603/07481047028.html) ,新浪网，2014年6月3日
-
 78.
-
 79.  萌芽綜合天地 |access-date=2017-02-25 |archive-url=<https://web.archive.org/web/20170225182132/https://mnya.tw/cc/word/372.html> |archive-date=2017-02-25 |dead-url=no }}
-
 80.  TechNews 科技新報 |access-date=2014-08-13 |archive-url=<https://web.archive.org/web/20140809231946/http://technews.tw/2014/08/02/facebook-down-for-many-users/> |archive-date=2014-08-09 |dead-url=no }}
-
 81.
-
 82. [扎克伯格、Facebook与中国的八卦与事实](http://web2.iresearch.cn/web2/20141028/240429.shtml)
-
 83. ex.[Agency Partner, SEA - Facebook Careers](https://www.facebook.com/careers/department?dept=grad&req=a0IA000000G3eoBMAR)
-
 84. [在台設點？ 臉書徵駐台員工](http://www.chinatimes.com/newspapers/20141108000650-260110) . [中國時報](../Page/中國時報.md "wikilink"). 2014-11-08.
-
 85. [fb傳來台設點 徵業務行銷員](http://www.appledaily.com.tw/appledaily/article/headline/20141108/36195352/) . [蘋果日報 (台灣)](https://zh.wikipedia.org/wiki/蘋果日報_\(台灣\) "wikilink"). 2014-11-08.
-
 86. [Agency Partner - Facebook Careers](https://www.facebook.com/careers/department?dept=sales&req=a0IA000000G3rAYMAZ) （[原文段落](http://buzzoo.tw/t/11874/p/1) ）
-
 87.
-
 88.
-
 89.
-
 90. 約在2014、2015年開始
-
 91.
-
 92.
-
 93.  The Spirit of Openness
-
 94.
-
 95. [看看Facebook網站都用什麼開源軟件](http://oss.org.cn/?action-viewnews-itemid-25096)
-
 96.
-
 97.
-
 98.
-
 99.
-
 100.
-
 101.
-
 102.
-
 103.
-
 104.
-
 105.
-
 106.
-
 107.
-
 108.
-
 109.
-
 110.
-
 111.
-
 112.
-
 113.
-
 114.
-
 115.
-
 116. [世界傳真：社交媒體惹爭議 美祭出嚴規](http://www.lihpao.com/?action-viewnews-itemid-114375)
-
 117.
-
 118.
-
 119.
-
 120.
-
 121.
-
 122.
-
 123.
-
 124.
-
 125.
-
 126. [Facebook数据泄露丑闻发酵 剑桥分析CEO被停职](http://www.sohu.com/a/225982670_656058) .搜狐网.\[2018-03-21\].
-
 127. [用户数据泄露 脸书市值蒸发500亿美元](http://www.xinhuanet.com/fortune/2018-03/22/c_129834556.htm) .新华网.\[2018-03-22\].
-
 128. [网友暴怒！Twitter 爆发Facebook 删除热潮](https://www.newmobilelife.com/2018/03/20/deletefacebook/) .流动日报.\[2018-03-20\].
-
 129. [扎克伯格道歉了，美国民众满意吗？](http://www.shobserver.com/news/detail?id=83556) .上观新闻.\[2018-03-22\].
-
 130. [股价暴跌23%！Facebook二季度业绩惨遭欧盟新规及“泄密门”冲击](http://www.nbd.com.cn/articles/2018-07-26/1238748.html) .每经网.
-
 131. [美媒说美政府向脸书开出50亿美元罚单](http://www.xinhuanet.com/world/2019-07/13/c_1124748875.htm)
-
 132.
-
 133.
-
 134. 2019-3-30，南洋商報報道
-
 135.
-
 136.
-
 137.
-
 138.
-
 139.
-
 140.
-
 141.
-
 142.
-
 143.
 144. Facebook，[中國茉莉花革命](http://www.facebook.com/jasminerevolution.cn)
-
 145.
-
 146.
-
 147.
-
 148.
-
 149.
-
 150. [Facebook在华子公司注册许可为何被撤？](https://cn.nytimes.com/china/20180726/facebook-china/) .纽约时报中文网.
-
 151.
-
 152.
-
 153.
-
 154.
-
 155.
-
 156.
-
 157.
-
 158.
-
 159.
-
 160.
-
 161.
-
 162.
-
 163. 知情人士称Facebook欲在上海设立办公室，纽约时报，2017年9月8日。
-
 164.
-
 165.
-
 166.
-
 167.

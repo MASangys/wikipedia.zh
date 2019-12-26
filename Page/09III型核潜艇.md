@@ -92,49 +92,27 @@
 [Category:中国人民解放军海军潜艇](https://zh.wikipedia.org/wiki/Category:中国人民解放军海军潜艇 "wikilink") [Category:核动力潜艇](https://zh.wikipedia.org/wiki/Category:核动力潜艇 "wikilink") [Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")
 
 1.  [深海蓝鲨—中国海军091，093型攻击核潜艇（二）](http://war.163.com/09/0725/22/5F3P8GRF00011232_2.html)
-
 2.  [国产最强核潜艇照首次公开 神秘侧突抢眼](http://mil.sohu.com/20160621/n455476923.shtml)
-
 3.  [央视证实我海军核潜艇近日完成亚丁湾护航返回青岛](http://www.guancha.cn/military-affairs/2015_04_27_317393.shtml)
-
 4.  [英媒曝疑似中国093G导弹核潜艇 可载巡航导弹](http://mil.news.sina.com.cn/china/2016-06-25/doc-ifxtmwei9281375.shtml)
-
 5.  [中国海军潜舰编队通过马六甲海峡](http://slide.mil.news.sina.com.cn/h/slide_8_203_43355.html#p=1)
-
 6.  [中国最新型093核潜艇首次在世界亮相，携带一型刚刚获奖的武器](http://www.sohu.com/a/216336407_730060)
-
 7.  [具体到舰！详解南海大阅兵中国海军八个编队](http://slide.mil.news.sina.com.cn/h/slide_8_203_62673.html?cre=picpagepc&mod=picg&loc=1&r=0&doct=0&rfunc=32&tj=none#p=2)
-
 8.  [习近平检阅海上编队 含48艘战舰76架战机](http://news.sina.com.cn/o/2018-04-12/doc-ifyzeyqc1907780.shtml)
-
 9.  [南海阅兵海军7个作战群48艘战舰亮相:有哪些类型?](http://news.sina.com.cn/o/2018-04-12/doc-ifyzeyqc2349700.shtml)
-
 10. [国内某港神盾舰054A舰云集 多条大黑鱼特抢眼](http://slide.mil.news.sina.com.cn/h/slide_8_203_43150.html#p=4)
-
 11. [深度：印度紧张中国核潜艇频繁进印度洋 急租俄核潜艇](http://mil.news.sina.com.cn/2015-11-03/1656842957.html)
-
 12. [央視-093G照片曝光](http://news.cntv.cn/2015/03/29/VIDE1427644536028556.shtml)
-
 13. [垂发装置抢眼！海军093B型攻击核潜艇首露真容](http://slide.mil.news.sina.com.cn/h/slide_8_203_43220.html#p=1)
-
 14. [深度：中国同时改装3艘093B核潜艇 2艘正进行海试](http://mil.news.sina.com.cn/china/2016-07-27/doc-ifxuhukz1133226.shtml)
-
 15. [深度：093B核潜艇可主动攻击越南基洛 将大造12艘](http://mil.news.sina.com.cn/jssd/2016-10-02/doc-ifxwkzyh4104671.shtml)
-
 16.
 17.
 18. [央視-093改亮相](http://news.cntv.cn/2015/02/17/VIDE1424147403372448.shtml)
-
 19. [093G核潜艇换垂发可360°攻击 领先俄奥斯卡](http://news.ifeng.com/a/20150331/43452742_0.shtml)
-
 20. [美军赞中国新导弹完美：飞行末端突然提速没法拦](http://mil.news.sina.com.cn/2015-04-15/1222827917.html?from=wap)
-
 21. [美媒称中国鹰击18导弹让美军舰艇不堪一击](http://mil.news.sina.com.cn/2015-04-08/1625827158.html)
-
 22. [鹰击18首露真容 现役战舰均可装备非052D专属(图)](http://mil.news.sina.com.cn/china/2016-11-20/doc-ifxxwrwk1502325.shtml)
-
 23. [让美日潜艇沉海底！中国曝光疑似鱼11反潜导弹](http://slide.mil.news.sina.com.cn/h/slide_8_203_46729.html#p=1)
-
 24. [中国新研水下杀手露面 射程从42公里猛增至600公里](http://mil.news.sina.com.cn/jssd/2018-01-26/doc-ifyqyuhy6587428.shtml)
-
 25. [中国公布三款“重量级”武器：展现中国军事威慑力量](http://mil.news.sina.com.cn/jssd/2018-04-22/doc-ifznefkh6294750.shtml)

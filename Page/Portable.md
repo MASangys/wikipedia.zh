@@ -16,7 +16,7 @@
 
 </div>
 
-  - [Portable 軟體的中文官網](http://www.cosa.org.tw/portable/) - 具有最適合『[PortableApps](https://zh.wikipedia.org/wiki/PortableApps "wikilink")』的可攜式軟體。
+  - [Portable 軟體的中文官網](https://web.archive.org/web/20081031135818/http://www.cosa.org.tw/portable/) - 具有最適合『[PortableApps](https://zh.wikipedia.org/wiki/PortableApps "wikilink")』的可攜式軟體。
   - [Portable 軟體的中文官網](http://www.winpenpack.com/main/news.php) - 具有最適合『[WinPenPack](https://zh.wikipedia.org/wiki/WinPenPack "wikilink")』的可攜式軟體。
   - [PortableApps.com](http://portableapps.com/) - Portable software for USB drives（[PortableApps](https://zh.wikipedia.org/wiki/PortableApps "wikilink") 官網，具 **Portable** 軟體的最新資訊）
 

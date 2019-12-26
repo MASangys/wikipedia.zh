@@ -59,7 +59,7 @@ gtk.main()
 ## 外部連結
 
   - [PyGTK首頁](http://www.pygtk.org/)
-  - [PyGTK常見問題](http://www.async.com.br/faq/pygtk/index.py?req=all)
+  - [PyGTK常見問題](https://web.archive.org/web/20070410140700/http://www.async.com.br/faq/pygtk/index.py?req=all)
   - [PyGTK教程](http://pygtk.org/pygtk2tutorial/index.html)
   - [PyGTK系列学习笔记](https://web.archive.org/web/20121005071209/http://www.dawndiy.com/archives/tag/pygtk)
 

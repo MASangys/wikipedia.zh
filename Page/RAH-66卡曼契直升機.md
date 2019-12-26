@@ -40,7 +40,7 @@
 
 ## 相關內容
 
-[Category:美国军用直升机](https://zh.wikipedia.org/wiki/Category:美国军用直升机 "wikilink") [Category:军用直升机](https://zh.wikipedia.org/wiki/Category:军用直升机 "wikilink") [Category:波音](https://zh.wikipedia.org/wiki/Category:波音 "wikilink") [Category:賽考斯基飛行器](https://zh.wikipedia.org/wiki/Category:賽考斯基飛行器 "wikilink")
+[Category:美国军用直升机](https://zh.wikipedia.org/wiki/Category:美国军用直升机 "wikilink") [Category:军用直升机](https://zh.wikipedia.org/wiki/Category:军用直升机 "wikilink") [Category:波音](https://zh.wikipedia.org/wiki/Category:波音 "wikilink") [Category:塞考斯基飛行器](https://zh.wikipedia.org/wiki/Category:塞考斯基飛行器 "wikilink")
 
 1.  [RAH-66 Comanche history on GlobalSecurity.org](http://www.globalsecurity.org/military/systems/aircraft/rah-66-history.htm)
 2.

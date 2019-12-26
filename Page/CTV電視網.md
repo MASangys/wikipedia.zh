@@ -2,7 +2,7 @@
 
 除了CTV電視網之外，「CTV」這個品牌還應用於貝爾傳媒的其他廣播資產，包括24小時收費電視新闻频道[CTV新闻台以及次要](https://zh.wikipedia.org/wiki/CTV新闻台 "wikilink")[CTV第二台](../Page/CTV第二台.md "wikilink")，而贝尔传媒亦於2018年宣布旗下部分收費電視頻道将在未来使用「CTV」廣播品牌。
 
-此电视网开播前曾計劃取名為「加拿大電視網」（），但當時[加拿大广播公司宣称对](https://zh.wikipedia.org/wiki/加拿大广播公司 "wikilink")“”一詞拥有专属使用权，網絡名稱因此改為「CTV」三個字母並不附加任何注釋。然而，CTV於1998年引入全新企業識別系統時亦曾以「」作其口號。
+此电视网开播前曾計劃取名為「加拿大電視網」（），但當時[加拿大广播公司宣称对](https://zh.wikipedia.org/wiki/加拿大广播公司 "wikilink")“”一詞拥有专属使用权，電視台名稱因此改為「CTV」三個字母並不附加任何注釋。然而，CTV於1998年引入全新企業識別系統時亦曾以「」作其口號。
 
 ## 歷史
 
@@ -242,9 +242,9 @@ CTV的直屬地區分台過往都各自使用獨有的名稱，如其[呼號或�
 
 [CTV_2_2018.svg](https://zh.wikipedia.org/wiki/File:CTV_2_2018.svg "fig:CTV_2_2018.svg")
 
-2007年时，[CTV环球传媒从](../Page/貝爾傳媒.md "wikilink")收购了部分“A频道（）”的股份。当时有媒体分析师推测CTV公司会将其主要电视系统CTV电视网的品牌内容推广至该电视系统内。A频道于2008年更名为“A”，然后于2011年8月29日更名为“[CTV第二台](../Page/CTV第二台.md "wikilink")”。CTV第二台目前在[安大略省](../Page/安大略省.md "wikilink")拥有4个自营自有的无线电视台站；在[不列颠哥伦比亚省拥有](https://zh.wikipedia.org/wiki/不列颠哥伦比亚省 "wikilink")3个；以及在[加拿大大西洋省份](../Page/加拿大大西洋省份.md "wikilink")和[艾伯塔省](../Page/艾伯塔省.md "wikilink")的区域性有线频道。CTV第二台所提供的补充节目的收视人数要远远少于CTV电视网。
+2007年时，[CTV环球传媒从](../Page/貝爾傳媒.md "wikilink")收购了部分“A频道（）”的股份。当时有媒体分析师推测CTV公司会将CTV的品牌内容擴展至A频道上。A频道于2008年更名为“A”，然后于2011年8月29日更名为“[CTV第二台](../Page/CTV第二台.md "wikilink")”。CTV第二台目前在[安大略省](../Page/安大略省.md "wikilink")拥有4个自营自有的无线电视台站；在[不列颠哥伦比亚省拥有](https://zh.wikipedia.org/wiki/不列颠哥伦比亚省 "wikilink")3个；以及在[加拿大大西洋省份](../Page/加拿大大西洋省份.md "wikilink")和[艾伯塔省](../Page/艾伯塔省.md "wikilink")的区域性有线频道。CTV第二台所提供的补充节目的收视人数要远远少于CTV电视网。
 
-2018年6月，[贝尔传媒宣布将重新命名CTV母品牌下的四个专业频道](https://zh.wikipedia.org/wiki/贝尔传媒 "wikilink")，该计划预计将在2019年生效。、、和[太空频道将分别更名为CTV戏剧台](../Page/SPACE_\(电视频道\).md "wikilink")、CTV喜剧台、CTV生活台和CTV科幻台。同时在2018年，贝尔传媒还开播了两条有广告播出的[视频点播服务](../Page/隨選視訊.md "wikilink")——CTV电影频道和CTV回放频道，分别播出二轮片或压库电视剧。\[25\] 目前CTV所有品牌内容都可以通过[移动网络或](https://zh.wikipedia.org/wiki/移动网络 "wikilink")[流媒体](../Page/流媒体.md "wikilink")[APP播放](https://zh.wikipedia.org/wiki/APP "wikilink")，贝尔传媒将这个业务称之为“超级樞紐（）”。\[26\]\[27\]
+2018年6月，[贝尔传媒宣布将重新命名CTV母品牌下的四个专业频道](https://zh.wikipedia.org/wiki/贝尔传媒 "wikilink")，该计划预计将在2019年生效。、、和[太空频道将分别更名为CTV戏集台](../Page/SPACE_\(电视频道\).md "wikilink")、CTV喜剧台、CTV生活台和CTV科幻台。同时在2018年，贝尔传媒还开播了两条有广告播出的[视频点播服务](../Page/隨選視訊.md "wikilink")——CTV电影频道和CTV回放频道，分别播出二轮片或压库电视剧。\[25\] 目前CTV所有品牌内容都可以通过[移动网络或](https://zh.wikipedia.org/wiki/移动网络 "wikilink")[串流媒體](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")[APP播出](https://zh.wikipedia.org/wiki/APP "wikilink")，贝尔传媒将这个业务称之为“超级媒体中轉站（）”。\[26\]\[27\]
 
 曾使用过CTV母品牌的专业频道还有CTV体育网和CTV旅游频道，现已分别改名为[罗杰斯体育网和](../Page/羅渣士體育網.md "wikilink")。
 
@@ -283,56 +283,30 @@ CTV於1998年引入一個以絲帶為題的企業識別系統，部分元素沿�
 [Category:CTV電視網](https://zh.wikipedia.org/wiki/Category:CTV電視網 "wikilink") [Category:加拿大貝爾](https://zh.wikipedia.org/wiki/Category:加拿大貝爾 "wikilink") [Category:多倫多公司](https://zh.wikipedia.org/wiki/Category:多倫多公司 "wikilink") [Category:加拿大電視台](https://zh.wikipedia.org/wiki/Category:加拿大電視台 "wikilink") [Category:1961年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:1961年成立的電視台或電視頻道 "wikilink")
 
 1.  [Gittins 1999](https://zh.wikipedia.org/wiki/#Git99 "wikilink"), pp. 45-51
-
 2.  [Gittins 1999](https://zh.wikipedia.org/wiki/#Git99 "wikilink"), p. 63
-
 3.
-
 4.  [Gittins 1999](https://zh.wikipedia.org/wiki/#Git99 "wikilink"), pp. 72-73
-
 5.  [Gittins 1999](https://zh.wikipedia.org/wiki/#Git99 "wikilink"), p. 86
-
 6.
 7.  [Gittins 1999](https://zh.wikipedia.org/wiki/#Git99 "wikilink"), pp. 131-133
-
 8.  [Gittins 1999](https://zh.wikipedia.org/wiki/#Git99 "wikilink"), p. 248
-
 9.  "[BGM Ownership Deal Closes](http://www.cnw.ca/en/releases/archive/August2006/30/c9716.html) ", BGM press release, August 30, 2006
-
 10.
-
 11.
-
 12.
-
 13. [Bell Globemedia Completes Financing to Pay for CHUM Limited Shares](http://www.newswire.ca/en/releases/archive/September2006/07/c3905.html) , BGM press release, September 7, 2006
-
 14. ["A New Beginning: Fresh New Look for A Unveiled Today"](http://www.ctvmedia.ca/achannel/releases/release.asp?id=10564&yyyy=2008) , CTVglobemedia press release, August 11, 2008.
-
 15.
-
 16.
-
 17. [Bell Media Press Release: "Bell Media's /A\\ Network to Become “CTV Two” This Fall", May 30, 2011.](http://ctvmedia.ca/ctv/releases/release.asp?id=13828&yyyy=2011)
-
 18. [The Hollywood Reporter: "Bell Media Unveils CTV Two For Fall TV Season", May 30, 2011.](http://www.hollywoodreporter.com/news/bell-media-unveils-ctv-two-193065)
-
 19. [CTV Two Launches August 29](http://www.bellmediapr.ca/ctv/releases/release.asp?id=14080&yyyy=2011)
-
 20.
-
 21.
-
 22.
-
 23.
-
 24. [CTV British Columbia goes high definition](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20091123/bc_hd_launch_091123/20091123?hub=EntertainmentV2)
-
 25.
-
 26.
-
 27.
-
 28. [Gittins 1999](https://zh.wikipedia.org/wiki/#Git99 "wikilink"), p. 86

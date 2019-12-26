@@ -22,7 +22,7 @@ AUG是1970至1980年代中少數擁有模組化設計的步槍，它的槍管可
 
 [馬來西亞的SME工廠在](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")1991年獲斯泰爾公司授權生產AUG，並在2004年跟斯泰爾公司共同生產。[澳洲為其授權生產的AUG重新命名為F](https://zh.wikipedia.org/wiki/澳洲 "wikilink")88，[美國的Microtech](https://zh.wikipedia.org/wiki/美國 "wikilink") Small Arms及Tactical Products Design也有生產民用型。
 
-[中華民國](../Page/中華民國.md "wikilink")[聯勤二○五兵工廠曾少量引進](https://zh.wikipedia.org/wiki/聯勤 "wikilink")，並參考AUG仿製成[T68步槍](https://zh.wikipedia.org/wiki/T68步槍 "wikilink")，原先預定換裝空降旅、裝甲旅，但最後沒有列裝，僅少量配發高空排進行測試，後來全數汰除。
+[中華民國](../Page/中華民國.md "wikilink")[聯勤二○五兵工廠曾少量引進](https://zh.wikipedia.org/wiki/聯勤 "wikilink")，並參考AUG仿製成[T68步槍](https://zh.wikipedia.org/wiki/T68步槍 "wikilink")，原先預定換裝空降旅、裝甲旅，但最後沒有列裝，僅少量配發高空排進行測試，後來因未取得專利授權全數汰除，僅留用一把原型槍存放廠內保存。
 
 ## 优缺点
 
@@ -233,7 +233,7 @@ F88及其型號包括：
   - 2015年—《[-{zh-hans:彩虹六号：围攻; zh-hant:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》（Rainbow Six: Siege）：型號為AUG A2、AUG A3 9mm XS以及F90 MBR；
       - AUG A2为隨遊戲登場武器，命名为“AUG A2”，使用軍綠色槍身，被[德國聯邦警察第九國境守備隊](../Page/德國聯邦警察第九國境守備隊.md "wikilink")和“白面具”恐怖份子所使用。
       - AUG A3 9mm XS于第三年追加下载内容“风城行动”（Operation Wind Bastion）中登场，命名为“AUG A3”，被[摩洛哥皇家宪兵干预队的特勤干员Kaid用作他的其中一款主武器](../Page/摩洛哥皇家武装力量.md "wikilink")。
-      - F90 MBR于第四年追加下载内容“燃烧地平线行动”（Operation Burnt Horizon）中登场，命名为“F90”，被[澳大利亚特种空勤团的特勤干员Gridlock用作她的其中一款主武器](https://zh.wikipedia.org/wiki/澳大利亚特种空勤团 "wikilink")。
+      - F90 MBR于第四年追加下载内容“燃烧地平线行动”（Operation Burnt Horizon）中登场，命名为“F90”，被[澳洲特種空勤團的特勤干员Gridlock用作她的其中一款主武器](../Page/特種空勤團_\(澳大利亞\).md "wikilink")。
   - 2015年—《[-{zh-cn:战地：硬仗; zh-tw:戰地風雲：強硬路線;}-](../Page/战地：硬仗.md "wikilink")》（Battlefield Hardline）：型號為AUG A3和AUG A3 9mm XS。
       - AUG A3命名為「AUG A3」，使用黑色槍身，為資料片「叛逃」新增的武器，歸類為突擊步槍，30+1發彈匣，奇怪的能夠手動切換射擊模式，被警匪兩方操作者（Operator）所使用，價格為$48,000。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro T1、SRS 02、[Comp M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍） 、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、延長彈匣（增至40+1發）、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、[穿甲](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")[曳光彈](../Page/曳光彈.md "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。
       - AUG A3 9mm XS命名為「AUG Para」，使用黑色槍身，為資料片「大逃亡」新增的資料片獨有武器，歸類為衝鋒槍，32+1發彈匣，奇怪的能夠手動切換射擊模式，而且還具備三發點放模式。被匪方機械師（Mechanic）所使用（警察解鎖條件為：以任何陣營進行遊戲使用該槍擊殺1250名敵人後購買武器執照），價格為$50,000。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro T1、SRS 02、[Comp M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍） 、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。
@@ -241,6 +241,7 @@ F88及其型號包括：
   - 2017年—《[荒野行動](https://zh.wikipedia.org/wiki/荒野行動 "wikilink")》（Knives Out）：作為空投武器出現，使用小口徑子彈，配備2倍光學瞄準鏡 。
   - 2017年—《[絕地求生](../Page/絕地求生.md "wikilink")》（PlayersUnknown's BattleGrounds）：作為只能夠在空投補給獲得的武器及全自動步槍出現，裝彈量為30（擴容後為40），可配備：所有突擊步槍槍口及彈匣、所有握把、紅點瞄準鏡、全息瞄準鏡、6倍及以下高倍瞄準鏡。
   - 2018年—《[穿越火线高清竞技大区](https://zh.wikipedia.org/wiki/穿越火线高清竞技大区 "wikilink")》（Crossfire HD）：型号为AUG A2，但奇怪的命名为“AUG A1”，沙色枪身，使用30发弹匣装填，奇怪地射击时拉机柄会随枪机一同复进，换弹时会手动锁定枪机，更换弹匣后会使用“HK拍击”上膛。
+  - 2019年—《[-{zh-cn:使命召唤：现代战争; zh-tw:決勝時刻：現代戰爭; zh-hk:使命召喚：現代戰爭}-](https://zh.wikipedia.org/wiki/使命召唤：现代战争_\(2019年遊戲\) "wikilink")》（Call of Duty: Modern Warfare）：型號為AUG A3 9mm XS（預設），命名為“AUG”，可進行自定義改裝，會使用“HK拍擊”上膛。可透過改裝槍管和口徑變更為類似於AUG A3的突擊步槍。故事模式中由哈迪爾·卡里姆（5.56mm版本）和巴爾科夫的俄軍部隊所使用。
 
 ### 動畫
 
@@ -269,7 +270,7 @@ F88及其型號包括：
 
   - —[steyrarms-AUG](http://www.steyrarms.com/index.php?id=37)
 
-  - —[steyraug.net](http://www.steyraug.net)
+  - —[steyraug.net](https://web.archive.org/web/20080915231528/http://www.steyraug.net/)
 
   - —[Steyr-AUG.com](http://www.steyr-aug.com)
 
@@ -287,7 +288,7 @@ F88及其型號包括：
 
   - —[D Boy Gun World（槍炮世界）—斯泰爾AUG](http://firearmsworld.net/austria/steyr/aug/aug.htm)
 
-[Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:精確射手步槍](https://zh.wikipedia.org/wiki/Category:精確射手步槍 "wikilink") [Category:導氣式槍械](https://zh.wikipedia.org/wiki/Category:導氣式槍械 "wikilink") [Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:輕機槍](https://zh.wikipedia.org/wiki/Category:輕機槍 "wikilink") [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink") [Category:犢牛式槍械](https://zh.wikipedia.org/wiki/Category:犢牛式槍械 "wikilink") [Category:1978年面世的產品](https://zh.wikipedia.org/wiki/Category:1978年面世的產品 "wikilink")
+[Category:斯太尔武器](https://zh.wikipedia.org/wiki/Category:斯太尔武器 "wikilink") [Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:精確射手步槍](https://zh.wikipedia.org/wiki/Category:精確射手步槍 "wikilink") [Category:導氣式槍械](https://zh.wikipedia.org/wiki/Category:導氣式槍械 "wikilink") [Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:輕機槍](https://zh.wikipedia.org/wiki/Category:輕機槍 "wikilink") [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink") [Category:犢牛式槍械](https://zh.wikipedia.org/wiki/Category:犢牛式槍械 "wikilink") [Category:1978年面世的產品](https://zh.wikipedia.org/wiki/Category:1978年面世的產品 "wikilink")
 
 1.  [1](http://www.doppeladler.com/oebh/infanterie/stg77.htm)
 2.

@@ -142,45 +142,25 @@ Windows XP發布以來擁有三個不同的中文語言版，即微软（中國�
 [Category:Windows_XP](https://zh.wikipedia.org/wiki/Category:Windows_XP "wikilink")
 
 1.  [Microsoft Windows XP Multilingual User Interface（MUI）Pack](http://download.microsoft.com/download/6/2/e/62e61f10-e106-4f4c-a862-63eec2b41efb/readme.htm)
-
 2.
-
 3.
 4.  <http://www.microsoft.com/taiwan/windowsxp/pro/Evaluation/features.htm>
-
 5.  <http://support.microsoft.com/kb/307853/zh-tw>
-
 6.  <http://support.microsoft.com/kb/307877>
-
 7.
-
 8.
-
 9.  <http://support.microsoft.com/kb/886540>
-
 10. <http://mag.udn.com/mag/dc/forward.jsp?f_ART_ID=15065>
-
 11. <http://support.microsoft.com/kb/886540>
-
 12.
-
 13. <http://www.seattlepi.com/business/205093_msftfolo24.html>
-
 14.
-
 15. <http://news.bbc.co.uk/2/hi/business/4388349.stm>
-
 16.
-
 17.
-
 18. [說明Windows XP Starter Edition](http://www.microsoft.com/presspass/newsroom/winxp/WinXPStarterFS.mspx)
-
 19. [購買方法](http://www.microsoft.com/taiwan/windowsxp/mediacenter/howtobuy/default.mspx)
-
 20. <http://support.microsoft.com/kb/327160/zh-tw>
-
 21. [Windows XP Embedded概觀與利益](http://www.microsoft.com/taiwan/windows/embedded/eval/xpe/default.mspx)
-
 22.
 23.

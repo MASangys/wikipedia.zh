@@ -36,7 +36,7 @@ Image:SliTaz-GNU-Linux 1.png|Stable 1.0 Image:Slitazcooking - screenshot.png|Coo
 <!-- end list -->
 
   -
-  - [Linux.com](http://www.linux.com/feature/140573)
+  - [Linux.com](https://web.archive.org/web/20090210082858/http://www.linux.com/feature/140573)
 
   - [Free Software Magazine](https://web.archive.org/web/20090205020215/http://www.freesoftwaremagazine.com/columns/slitaz_live_cd_small_beautifully_marked)
 

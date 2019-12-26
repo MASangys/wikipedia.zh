@@ -41,12 +41,6 @@
 
 ## 脚注
 
-<div class="references-small">
-
-<references />
-
-</div>
-
 ## 外部連結
 
   - [euphoric field feat. ELISA](https://web.archive.org/web/20071103122400/http://db.geneon-ent.co.jp/search_new/show_detail.php?softid=GNCA-0073) - GENEON ENTERTAINMENT

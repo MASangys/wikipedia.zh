@@ -30,10 +30,7 @@
 [Category:新好男孩成員](https://zh.wikipedia.org/wiki/Category:新好男孩成員 "wikilink") [Category:德國裔美國人](https://zh.wikipedia.org/wiki/Category:德國裔美國人 "wikilink") [Category:蘇格蘭裔美國人](https://zh.wikipedia.org/wiki/Category:蘇格蘭裔美國人 "wikilink") [Category:英格蘭裔美國人](https://zh.wikipedia.org/wiki/Category:英格蘭裔美國人 "wikilink") [Category:爱尔兰裔美国人](https://zh.wikipedia.org/wiki/Category:爱尔兰裔美国人 "wikilink") [Category:古巴裔美國人](https://zh.wikipedia.org/wiki/Category:古巴裔美國人 "wikilink") [Category:美国男歌手](https://zh.wikipedia.org/wiki/Category:美国男歌手 "wikilink") [Category:美国流行音乐歌手](https://zh.wikipedia.org/wiki/Category:美国流行音乐歌手 "wikilink") [Category:21世紀美國歌手](https://zh.wikipedia.org/wiki/Category:21世紀美國歌手 "wikilink")
 
 1.
-
 2.
 3.  <http://www.backstreetmom.com>
-
 4.  [A.J. McLean talks about "Johnny No Name"](http://www.canoe.ca/AllPop-BackstreetBoys/000329_johnny.html)
-
 5.  [JNN Fountation - Founding Story](http://www.johnnyno-name.com/foundation/story.asp)

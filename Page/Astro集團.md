@@ -1,3 +1,5 @@
+**{{Refimprove}} 新条目修饰语句修正笔误内容扩充排版来源内部链接分类消歧义维基化维护清理**<https://www.facebook.com/facebookapp/>
+
 **Astro控股私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Astro Holdings SDN. BHD.，簡稱**Astro集團**）為[馬來西亞一家跨國傳媒娛樂投資公司](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")。
 
 ## 公司簡介
@@ -8,7 +10,7 @@ Astro集團為馬來西亞第二大富豪阿南達克裡斯南（Ananda Krishnan
 
 ## 历年标志
 
-文件:Astro (Satellite TV).png|2013年前旧标志 文件:Astro 2016 logo.svg|2013年后新标志
+文件:Astro (Satellite TV).png|2012年前旧标志 文件:Astro 2016 logo.svg|2012年后新标志
 
 ## 馬來西亞業務
 

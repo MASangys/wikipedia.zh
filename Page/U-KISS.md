@@ -1093,6 +1093,24 @@ Arirang TV《Simply K-Pop》MC Eli
 </ul></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><strong>9th</strong></p></td>
+<td><p>Jun首張日文音樂卡《<strong>My Way （feat. Reddy）（Prod. Sway D）</strong>》</p>
+<ul>
+<li>發行日期：2019年11月6日</li>
+<li>語言：日語、韓語</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>10th</strong></p></td>
+<td><p>秀鉉第三張日文單曲《<strong>Glory</strong>》</p>
+<ul>
+<li>發行日期：2019年12月25日</li>
+<li>語言：日語</li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

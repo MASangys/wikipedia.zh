@@ -23,4 +23,4 @@
 1.  [彩虹版QQ让隐身族形迹暴露](http://www.022net.com/2008/10-24/473828343179237.html)
 2.  [关于“QQ千里眼”功能调整的公告](http://notice.qq.com/dope_1120.jsp)
 3.  [关于手机QQ “关注该好友”功能调整的公告](http://mobile.qq.com/news/news20081127.jsp)
-4.  [51.com承认开发彩虹QQ 腾讯称不排除起诉](http://tech.163.com/08/1127/02/4RNLR1TM000915BF.html)
+4.

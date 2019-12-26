@@ -43,31 +43,18 @@ iPhone 3G搭载了1150 mAh电池，与其他iPhone一样，用户不能随意更
 [Category:IPhone](https://zh.wikipedia.org/wiki/Category:IPhone "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  [iPhone 3G Speed Test: iOS 4.0 versus iOS 4.1](http://gizmodo.com/5629617/iphone-3g-speed-test-ios-40-versus-ios-41)
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
 13.
-
 14.
-
 15.
-
 16.

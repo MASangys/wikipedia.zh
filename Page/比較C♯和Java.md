@@ -236,8 +236,6 @@ C＃中还允许程序员禁用正常类型检查和CLR中其他的安全保证�
 [Category:程序语言比较](https://zh.wikipedia.org/wiki/Category:程序语言比较 "wikilink") [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")
 
 1.
-
 2.
 3.  [August 1998 Java News](http://www.cafeaulait.org/1998august.html)
-
 4.  [Java Language Spec. 3rd Edition 14.20.2 Execution of try-catch-finally](http://java.sun.com/docs/books/jls/third_edition/html/statements.html#14.20.2)

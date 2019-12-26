@@ -21,9 +21,6 @@
 [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:健康题材作品](https://zh.wikipedia.org/wiki/Category:健康题材作品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

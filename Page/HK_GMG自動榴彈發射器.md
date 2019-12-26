@@ -1,10 +1,10 @@
-**HK GMG**（，簡稱**HK GMW**；，簡稱**HK GMG**；意為：**榴彈機槍**）是一挺由[德国](../Page/德国.md "wikilink")槍械製造商[黑克勒-科赫為](../Page/黑克勒&科赫.md "wikilink")[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")而設計和生產的車載用途型40毫米[自動榴弹发射器](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")，發射[40×53毫米高速榴彈](../Page/40毫米榴彈.md "wikilink")。
+**HK GMG**（，簡稱**HK GMW**；，簡稱**HK GMG**；意為：**榴彈機槍**）是一挺由[德国](../Page/德国.md "wikilink")槍械製造商[黑克勒&科赫](../Page/黑克勒&科赫.md "wikilink")為[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")而設計和生產的車載用途型40毫米[自動榴弹发射器](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")，發射[40×53毫米高速榴彈](../Page/40毫米榴彈.md "wikilink")。
 
 ## 歷史
 
-儘管在[阿富汗戰場以上](../Page/苏联－阿富汗战争.md "wikilink")，[自動榴弹发射器的表現不為歐洲各國軍方所動](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")，[黑克勒-科赫公司仍然在](../Page/黑克勒&科赫.md "wikilink")1992年沒有等到[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")要求研發就開始自擔風險研發其全自動型榴弹发射器。直到1995年，生產了4台HK GMG的原型樣機，到1998年中期總共生產了26台。1995年初生產的4台當中的三台當年3月交付德國聯邦國防軍在德國北部的梅彭試驗場進行測試。當年中期開始實用性試驗，其中在哈默貝爾格更進行實彈射擊。1997年7月，HK GMG曾經於[亞利桑那州](../Page/亞利桑那州.md "wikilink")[尤馬的沙漠地區試驗場](../Page/尤馬_\(亞利桑那州\).md "wikilink")，進行熱帶與沙漠地帶可靠性試驗，以爭取[美军](../Page/美军.md "wikilink")在未來的合同。2000年，德國聯邦國防軍終於正式選定改進過後的HK GMG作為制式兵器，並裝備派遣到阿富汗的德軍部隊，經歷了實戰考驗。
+儘管在[阿富汗戰場以上](../Page/苏联－阿富汗战争.md "wikilink")，[自動榴弹发射器的表現不為歐洲各國軍方所動](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")，[黑克勒&科赫](../Page/黑克勒&科赫.md "wikilink")公司仍然在1992年沒有等到[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")要求研發就開始自擔風險研發其全自動型榴弹发射器。直到1995年，生產了4台HK GMG的原型樣機，到1998年中期總共生產了26台。1995年初生產的4台當中的三台當年3月交付德國聯邦國防軍在德國北部的梅彭試驗場進行測試。當年中期開始實用性試驗，其中在哈默貝爾格更進行實彈射擊。1997年7月，HK GMG曾經於[亞利桑那州](../Page/亞利桑那州.md "wikilink")[尤馬的沙漠地區試驗場](../Page/尤馬_\(亞利桑那州\).md "wikilink")，進行熱帶與沙漠地帶可靠性試驗，以爭取[美军](../Page/美军.md "wikilink")在未來的合同。2000年，德國聯邦國防軍終於正式選定改進過後的HK GMG作為制式兵器，並裝備派遣到阿富汗的德軍部隊，經歷了實戰考驗。
 
-自2000年開始，[黑克勒-科赫正在生產其輕版本](../Page/黑克勒&科赫.md "wikilink")**HK GMW, Light**（；；意為：**輕型榴彈機槍**）。HK GMW在不縮短[槍管](../Page/槍管.md "wikilink")以下的總重量和HK GMG相比下降大約23 ％，能使士兵更方便地在野外攜行或操作，尤其是在不適合使用載具的山地。但是HK GMG會繼續生產並對外出口。
+自2000年開始，[黑克勒&科赫](../Page/黑克勒&科赫.md "wikilink")正在生產其輕版本**HK GMW, Light**（；；意為：**輕型榴彈機槍**）。HK GMW在不縮短[槍管](../Page/槍管.md "wikilink")以下的總重量和HK GMG相比下降大約23 ％，能使士兵更方便地在野外攜行或操作，尤其是在不適合使用載具的山地。但是HK GMG會繼續生產並對外出口。
 
 ## 設計特點
 
@@ -282,6 +282,7 @@ N/A</p></td>
   - [HK69榴彈發射器](../Page/HK69榴彈發射器.md "wikilink")
   - [HK79附加型榴彈發射器](../Page/HK79附加型榴彈發射器.md "wikilink")
   - [HK AG36](../Page/HK_AG36附加型榴彈發射器.md "wikilink")、[AG-C/EGLM榴彈發射器](https://zh.wikipedia.org/wiki/HK_AG-C/EGLM附加型榴彈發射器 "wikilink")
+  - [HK369轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/HK369轉輪式榴彈發射器 "wikilink")
   - [M320榴彈發射器](../Page/M320榴彈發射器.md "wikilink")
   - [87式自動榴彈發射器](../Page/87式自動榴彈發射器.md "wikilink")
   - [04式自动榴弹发射器](../Page/04式自动榴弹发射器.md "wikilink")
@@ -314,7 +315,7 @@ N/A</p></td>
 
 <!-- end list -->
 
-  -   - 2013年11月上號：[《2013—2014简氏步兵武器年鉴》前言](http://www.xzbu.com/8/view-4426098.htm)
+  -   - 2013年11月上號：[《2013—2014简氏步兵武器年鉴》前言](https://web.archive.org/web/20140204022132/http://www.xzbu.com/8/view-4426098.htm)
       - 2015年2月下號：[《2014～2015简氏步兵武器年鉴》前言](https://web.archive.org/web/20150218062555/http://gdwap.dooland.com/article.php?id=596424)
       - 2015年5月下號：[2014年国外近战武器发展回顾](https://archive.is/20150603111417/http://gdwap.dooland.com/article.php?id=663702)
       - 2015年11月下號：德国HK公司GMG自动榴弹发射器最新款
@@ -364,44 +365,26 @@ N/A</p></td>
 [Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink") [Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink") [Category:全自動型榴彈發射器](https://zh.wikipedia.org/wiki/Category:全自動型榴彈發射器 "wikilink") [Category:黑克勒-科赫](https://zh.wikipedia.org/wiki/Category:黑克勒-科赫 "wikilink") [Category:黑克勒-科赫榴彈發射器](https://zh.wikipedia.org/wiki/Category:黑克勒-科赫榴彈發射器 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink")
 
 1.
-
 2.
-
 3.  Jones, Richard D. Jane's Infantry Weapons 2009/2010. Jane's Information Group; 35 edition (January 27, 2009). ISBN 978-0710628695.
-
 4.
 5.  [MOWAG CRV with 12.7mm HMG or 40mm Grenade Launcher](http://www.62cavalry.com/html/new_mowags.html)
-
 6.
 7.
 8.  —
-
 9.  <http://kariuomene.kam.lt/lt/ginkluote_ir_karine_technika/granatsvaidziai_ir_priestankiniai_ginklai/automatinis_granatsvaidis_hk_gmg_40_mm.html>
-
 10. —[Army Recognition](http://www.armyrecognition.com/mexico_army_military_equipment/mexico_mexican_army_land_ground_forces_military_equipment_armoured_vehicle_pictures_information_desc.html)
-
 11.
-
 12.
-
 13. <http://www.army.mil.nz/downloads/pdf/army-news/armynews428.pdf>
-
 14.
 15. <http://www.slovenskavojska.si/en/armament-and-equipment/light-infantry-and-support-armament/40-mm-gmg-automatic-grenade-launcher>
-
 16. —[英国出资1800万英镑订购德国GMG榴弹机枪](http://mil.fznews.com.cn/qbq/2008-2-21/2008221ke7rd+kyaa234820.shtml) ，2009年8月9日
-
 17.
-
 18.
 19. [HK GMG](http://www.heckler-koch.com/en/products/40-mm-systems/gmg/gmg/technical-data.html)
-
 20. [АГС-40](http://world.guns.ru/grenade/rus/balkan-r.html)
-
 21. [Mk.47 mod.0](http://www.gdatp.com/factsheets/A047_MK47.pdf)
-
 22. [40mm Y3 MK1 Automatic Grenade Launcher](http://www.army.mil.za/equipment/weaponsystems/infantry/Y2_Y3_Grenade_Launchers.htm)
-
 23. [Daewoo K4](http://www.army-guide.com/rus/product2292.html)
-
 24. [Howa Type 96](http://www15.tok2.com/home/lttom/military-powers_jgsdf/shokaki/40mm_granade/military-powers_granadeframe.html)

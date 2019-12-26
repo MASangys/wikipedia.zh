@@ -844,17 +844,11 @@ LIVE HOUSE TOUR 2008 ～STARs TOURS～
 [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:日本搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本搖滾歌手 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink") [Category:日本女性模特兒](https://zh.wikipedia.org/wiki/Category:日本女性模特兒 "wikilink") [Category:21世纪歌手](https://zh.wikipedia.org/wiki/Category:21世纪歌手 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink") [Category:英國裔日本人](https://zh.wikipedia.org/wiki/Category:英國裔日本人 "wikilink") [Category:Seventeen模特兒](https://zh.wikipedia.org/wiki/Category:Seventeen模特兒 "wikilink") [Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
 
 1.  [木村KAELA人氣爆發 首度封后](http://tw.news.yahoo.com/article/url/d/a/070214/35/ajy4.html)
-
 2.
 3.
 4.
-
 5.
-
 6.
-
 7.   (subscription only)
-
 8.
-
 9.   (subscription only)

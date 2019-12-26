@@ -93,75 +93,42 @@ Wolfram|Alpha 在美国 *[Popular Science](https://zh.wikipedia.org/wiki/科技�
 [Category:網路搜尋引擎](https://zh.wikipedia.org/wiki/Category:網路搜尋引擎 "wikilink") [Category:语义网](https://zh.wikipedia.org/wiki/Category:语义网 "wikilink") [Category:沃尔夫勒姆研究公司](https://zh.wikipedia.org/wiki/Category:沃尔夫勒姆研究公司 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.  [Wolfram 'search engine' goes live](http://news.bbc.co.uk/1/hi/technology/8052798.stm). [BBC News](https://zh.wikipedia.org/wiki/BBC_News "wikilink").
-
 7.
-
 8.
-
 9.
-
 10.
-
 11. [Wolfram.com](http://www.wolfram.com/products/webmathematica/)
-
-12. [Wolfram|Alpha: Our First Impressions](http://www.readwriteweb.com/archives/wolframalpha_our_first_impressions.php) , [ReadWriteWeb](http://www.readwriteweb.com).
-
+12. [Wolfram|Alpha: Our First Impressions](http://www.readwriteweb.com/archives/wolframalpha_our_first_impressions.php) , [ReadWriteWeb](http://www.readwriteweb.com) .
 13. [Wolfram|Alpha Is Launching: Made Possible by Mathematica](http://blog.wolframalpha.com/2009/05/15/wolframalpha-is-launching-made-possible-by-mathematica/), WolframAlpha Blog, 2009-05-15.
-
 14. [Wolfram Alpha given keys to Bingdom](http://www.theregister.co.uk/2009/11/12/bing_wolfram_alpha_deal/) The Register, 2009-11-12
-
 15.
-
 16. [Bing to use Wolfram Alpha results](http://www.goodgearguide.com.au/article/325937) Good Gadget Guide, 2009-11-12
-
 17.
 18. [Wolframalpha.com](http://www.wolframalpha.com/input/?i=mortgage+6%25%2C+25+year%2C+%24140000)
-
 19. [Wolframalpha.com](http://www.wolframalpha.com/input/?i=life+expectancy+france+25+year+old+male)
-
 20. [Wolframalpha.com](http://www.wolframalpha.com/input/?i=boiling+point+of+water+at+6+atm)
-
 21. [lim(x-\>0) x/sin x](http://www.wolframalpha.com/input/?i=lim\(x-%3E0\)+x%2Fsin+x)
-
 22. Alpha input: *lim(x-\>0) x/sin x*|accessdate=2009-06-21}}
-
 23.
-
 24.
-
 25.
-
 26. [Bing and Wolfram Alpha agree on licensing deal](http://www.zdnet.com/news/bing-wolfram-alpha-agree-on-licensing-deal/333870) ZDNet
-
 27.
-
 28.
-
 29.
-
 30.
 31.
-
 32.
 33.
 34.
-
 35.
-
 36.
 37.
-
-38. [The Answer Man](http://www.popsci.com/bown/2009/innovator/answer-man) *[Popular Science](https://zh.wikipedia.org/wiki/科技新时代 "wikilink")*
-
-39. [Wolfram Research WolframAlpha](http://www.popsci.com/bown/2009/product/wolfram-research-wolframalpha) *[Popular Science](https://zh.wikipedia.org/wiki/科技新时代 "wikilink")*
-
+38. [The Answer Man](http://www.popsci.com/bown/2009/innovator/answer-man)  *[Popular Science](https://zh.wikipedia.org/wiki/科技新时代 "wikilink")*
+39. [Wolfram Research WolframAlpha](http://www.popsci.com/bown/2009/product/wolfram-research-wolframalpha)  *[Popular Science](https://zh.wikipedia.org/wiki/科技新时代 "wikilink")*
 40.

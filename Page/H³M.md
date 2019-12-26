@@ -134,6 +134,6 @@
 5.  [SMOOV: moov撻著理大有得睇喇\!\!](http://moovhk.blogspot.hk/2009/05/moov.html)
 6.  [MOOV 香港音樂庫](http://moov.hk)
 7.  [3cmusic.com：新城極品陳奕迅 SAME WRONG SIN 音樂會 演唱曲目](http://3cmusic.com/home/【新城極品陳奕迅same-wrong-sin音樂會】歌單)
-8.  [詞話詩說：Allegro Opus 3.3am](http://paper.wenweipo.com/2010/08/03/OT1008030006.htm)
+8.
 9.  [斥測樂壇 - 陳奕迅《HHHM》：好‧很好‧Music](http://ccmusichk.blogspot.com/2009/04/hhhmmusic.html)
 10. [公民黨：法政隨筆 - 沙龍](http://www.civicparty.hk/?q=node/866)

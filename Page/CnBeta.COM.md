@@ -105,57 +105,31 @@ cnBeta在2013年6月进行了改版，界面进行了全面调整，但用户一
 [Category:中国网站](https://zh.wikipedia.org/wiki/Category:中国网站 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  [cnBeta.COM公告: 新闻投递处理法则公布](http://www.cnbeta.com/articles/11981.htm)
-
 5.
 6.
-
 7.  [好消息: cnBeta 和 WinBeta 的合作正式开始](http://www.cnbeta.com/articles/9290.htm)
-
 8.  [《倍速周刊》2006 年第 3 期 (Beta1)](http://cnbeta.com/articles/18346.htm)
-
 9.
-
 10. [cnBeta 资讯周刊](http://cnbeta.com/topics/165.htm)
-
 11. [CB优秀评论](http://fanfou.com/quote)
-
 12. [七日谈:图说七日Alpha1(071112)](http://www.cnbeta.com/articles/42949.htm)
-
 13. [没有评论的cnbeta，一点都不吸引人](http://kchx.net/archives/480)
-
 14. 2006年12月31日，来自cnBeta.com的一个 [新年纪念稿件](http://cnbeta.com/articles/20225.htm)  中，第一次官方出现了cnBeta传媒组织的名字，还有当时在任的各位网站编辑的照片。网站的版权声明也由原来的“(C)天堑在线 & cnBeta.com”改成了现在的“(C)cnBeta传媒组织”。
-
 15.
 16. 如 [一直没有变化且不翻译的国外软件更新新闻](http://cnbeta.com/articles/169486.htm)
-
 17. [下方评论](http://cn.engadget.com/2012/05/15/xiaomi-launch-mi-young/2)
-
 18. [1](http://www.douban.com/group/topic/13050001/)
-
 19. [2](http://www.repaik.com/simple/?t3489.html)
-
 20. 如 [中文维基百科已经可以直接访问](http://www.cnbeta.com/articles/61460.htm)
-
 21. [手机软件5秒钟可破解高铁车票个人信息](http://www.cnbeta.com/articles/148962.htm)
-
 22. [第36楼评论支持数和反对数在数小时内发生巨大变化](http://www.cnbeta.com/articles/200190.htm)
-
 23. [cnBeta月光宝盒](https://chrome.google.com/webstore/detail/nkgjnkanhkhlallldojlbekikmeefcje)
-
 24. [cnBeta2011新年贺词](http://www.cnbeta.com/articles/131191.htm)
-
 25. [CNBETA涉嫌欺骗收受红包屏蔽负面新闻](http://society.solidot.org/society/07/05/30/1435232.shtml)
-
 26. 包括Nings的 [谈cnbeta红包事件：新闻是一种信仰](http://nings.cn/2007/05/31/cnbeta.html) ,hidecloud的 [我们没有失声](http://www.hidecloud.com/blog/2007/05/31/we-are-not-losing-sound.html) 和简宁的 [为cnBeta说句话 —— 你们要的CB“官方澄清”](http://www.jianglb.com/2007/12/23/cnbeta-jianning.html)
-
 27. [百度_cnbeta吧_cnbeta服务器故障](http://post.baidu.com/f?kz=210409882)
-
 28. [站点公告 \[070607\]](http://hi.baidu.com/cboffical/blog/item/8ed24908c85cfa31e8248800.html)
-
 29. [cnbeta收红包？是真的还是有人策划的阴谋？？ 新浪博客](http://blog.sina.com.cn/s/blog_55a641f5010009rh.html)

@@ -1,4 +1,4 @@
-《**問問Master Joe**》（）是[香港電視廣播有限公司所製作的兒童節目](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")，於2008年至2013年間的星期六下午播出。
+《**問問Master Joe**》（）是[香港電視廣播有限公司所製作的兒童資訊節目](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")，於2008年至2013年間的星期六下午播出。
 
 ## 節目內容
 
@@ -821,7 +821,7 @@ Y Pro的健康管理專員，所以常常利用舉啞鈴檢查手部機件<br />
 
 ## 電視節目的變遷
 
-[Category:香港兒童節目](https://zh.wikipedia.org/wiki/Category:香港兒童節目 "wikilink") [Category:無綫電視兒童節目](https://zh.wikipedia.org/wiki/Category:無綫電視兒童節目 "wikilink") [Category:2008年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2008年無綫電視節目 "wikilink") [Category:2009年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2009年無綫電視節目 "wikilink") [Category:2010年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年無綫電視節目 "wikilink") [Category:2011年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2011年無綫電視節目 "wikilink") [Category:2012年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2012年無綫電視節目 "wikilink") [Category:2013年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2013年無綫電視節目 "wikilink")
+[Category:香港兒童節目](https://zh.wikipedia.org/wiki/Category:香港兒童節目 "wikilink") [Category:無綫電視兒童節目](https://zh.wikipedia.org/wiki/Category:無綫電視兒童節目 "wikilink") [Category:無綫電視資訊節目](https://zh.wikipedia.org/wiki/Category:無綫電視資訊節目 "wikilink") [Category:2008年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2008年無綫電視節目 "wikilink") [Category:2009年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2009年無綫電視節目 "wikilink") [Category:2010年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年無綫電視節目 "wikilink") [Category:2011年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2011年無綫電視節目 "wikilink") [Category:2012年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2012年無綫電視節目 "wikilink") [Category:2013年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2013年無綫電視節目 "wikilink")
 
 1.  [游莨維於11月15日下午3時48分發出之微博](http://weibo.com/masterjoe?topnav=1&wvr=5&topsug=1#!/p/1005051733729322/weibo?from=page_100505&mod=TAB#place)
 2.  [「Master Joe」游莨維升呢為人父　倒數3個月迎接BB](http://www.singtao.ca/toronto/1644469/2017-04-01/post-%E3%80%8Cmaster-joe%E3%80%8D%E6%B8%B8%E8%8E%A8%E7%B6%AD%E5%8D%87%E5%91%A2%E7%82%BA%E4%BA%BA%E7%88%B6%E3%80%80%E5%80%92%E6%95%B83%E5%80%8B%E6%9C%88%E8%BF%8E%E6%8E%A5bb/?variant=zh-hk?fromG=1)

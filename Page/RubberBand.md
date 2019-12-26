@@ -1,4 +1,6 @@
-**RubberBand**是一支[香港](../Page/香港.md "wikilink")樂隊，於2004年成立。2007年與唱片公司[金牌大風](../Page/金牌大風.md "wikilink")簽約，2013年2月轉投[寰亞唱片](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")\[1\]\[2\]，2016年正式成為獨立樂隊。
+**RubberBand**，[香港](../Page/香港.md "wikilink")著名樂隊，於2004年成立，成員包括[主音](../Page/主音.md "wikilink")[6號](../Page/繆浩昌.md "wikilink")、[結他手兼隊長阿正](https://zh.wikipedia.org/wiki/結他手 "wikilink")、[低音結他手阿偉以及](https://zh.wikipedia.org/wiki/低音結他手 "wikilink")[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")[泥鯭](../Page/黎萬宏.md "wikilink")。2007年與唱片公司[金牌大風](../Page/金牌大風.md "wikilink")簽約，2008年正式出道成為樂壇新力軍，便旋即獲頒[商業電台](https://zh.wikipedia.org/wiki/商業電台 "wikilink")「叱咤樂壇生力軍組合金獎」，成為樂壇新人王。2009年更空降首奪「叱咤樂壇組合金獎」以及「勁歌金曲組合金獎」。2010年再憑《SimpleLoveSong》首奪「叱咤樂壇至尊歌曲大獎」，同年，成員[琴手藝琛宣佈離隊](https://zh.wikipedia.org/wiki/琴手 "wikilink")。2012年憑專輯《[Easy](../Page/Easy.md "wikilink")》首奪「叱咤樂壇至尊唱片大獎」。2013年2月轉投[寰亞唱片](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")\[1\]\[2\]，2016年正式成為獨立樂隊。2018年推出歌曲《[未來見](https://zh.wikipedia.org/wiki/未來見 "wikilink")》獲得極高評價而備受關注。2019年更憑電影《[逆流大叔](https://zh.wikipedia.org/wiki/逆流大叔 "wikilink")》演唱歌曲《逆流之歌》獲頒兩項[香港電影金像獎](../Page/香港電影金像獎.md "wikilink")的歌曲獎項。
+
+除了歌唱事業外，RubberBand的成員亦有涉足[參演及](../Page/演員.md "wikilink")[執導](https://zh.wikipedia.org/wiki/導演 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")、[舞台劇](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")、[廣告](../Page/廣告.md "wikilink")及[廣播劇](../Page/廣播劇.md "wikilink")等，發展全面。
 
 ## 簡介
 
@@ -321,6 +323,23 @@ RubberBand名字來自「[橡筋](https://zh.wikipedia.org/wiki/橡筋 "wikilink
 <li>逆流之歌</li>
 </ol></td>
 </tr>
+<tr class="even">
+<td style="text-align: left;"><p>9th</p></td>
+<td style="text-align: left;"><p>I</p></td>
+<td style="text-align: left;"><p>大碟</p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/R_Flat" title="wikilink">R Flat</a></p></td>
+<td style="text-align: left;"><p>2020年</p></td>
+<td style="text-align: left;"><ol>
+<li>孤島人</li>
+<li>¿醒未?</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol></td>
+</tr>
 </tbody>
 </table>
 
@@ -395,7 +414,7 @@ RubberBand名字來自「[橡筋](https://zh.wikipedia.org/wiki/橡筋 "wikilink
 <td style="text-align: left;"><p>2012年12月6日</p></td>
 <td style="text-align: left;"><p><strong>CD 1</strong></p>
 <ol>
-<li>夥伙（新歌）</li>
+<li><strong>夥伙</strong></li>
 <li>Dedicated to...</li>
 <li>進化論</li>
 <li>衝</li>
@@ -419,7 +438,7 @@ RubberBand名字來自「[橡筋](https://zh.wikipedia.org/wiki/橡筋 "wikilink
 <li>睜開眼</li>
 <li>天連地</li>
 <li>發現號</li>
-<li>鬼叫你窮 - 大AL合唱（新歌）</li>
+<li><strong>鬼叫你窮</strong> （與大AL合唱）（香港電台電視節目《<a href="https://zh.wikipedia.org/wiki/有房出租" title="wikilink">有房出租</a>》第二輯主題曲）</li>
 </ol></td>
 </tr>
 <tr class="even">
@@ -525,15 +544,15 @@ RubberBand名字來自「[橡筋](https://zh.wikipedia.org/wiki/橡筋 "wikilink
 
 ### 未收錄單曲
 
-| 年份   | 歌名    | 備註                                                          |
-| ---- | ----- | ----------------------------------------------------------- |
-| 2010 | 或許黃金  | 香港電台電視節目《[證義搜查線](../Page/證義搜查線.md "wikilink")》主題曲           |
-| 2010 | 鬼叫你窮  | 香港電台電視節目《有房出租 第2輯》主題曲                                       |
-| 2014 | 誓要入刀山 | 電影《[掃毒](../Page/掃毒.md "wikilink")》歌曲                        |
-| 2016 | 天光了   |                                                             |
-| 2018 | 大叔情歌  | 電影《[逆流大叔](https://zh.wikipedia.org/wiki/逆流大叔 "wikilink")》插曲 |
-| 2019 | 孤島人   |                                                             |
-|      |       |                                                             |
+| 年份   | 歌名            | 備註                                                          |
+| ---- | ------------- | ----------------------------------------------------------- |
+| 2010 | 或許黃金          | 香港電台電視節目《[證義搜查線](../Page/證義搜查線.md "wikilink")》主題曲           |
+| 2014 | 誓要入刀山         | 電影《[掃毒](../Page/掃毒.md "wikilink")》歌曲                        |
+| 2017 | One Punch     | 動畫《[一拳超人](../Page/一拳超人.md "wikilink")》主題曲                   |
+| 2016 | 天光了\[10\]     |                                                             |
+| 2018 | 大叔情歌          | 電影《[逆流大叔](https://zh.wikipedia.org/wiki/逆流大叔 "wikilink")》插曲 |
+| 2019 | 天光了2019\[11\] |                                                             |
+|      |               |                                                             |
 
 ### 其他歌曲
 
@@ -1294,11 +1313,11 @@ RubberBand共拍攝了多首歌曲的[音樂錄像](https://zh.wikipedia.org/wik
 
 2010年
 
-  - C+ 音樂：第六集——為城市配樂——Rubberband \[10\]
+  - C+ 音樂：第六集——為城市配樂——Rubberband \[12\]
 
 2011年
 
-  - 《茜嘉團遊•土耳其》： [J2台播映](https://zh.wikipedia.org/wiki/J2台 "wikilink") \[11\]
+  - 《茜嘉團遊•土耳其》： [J2台播映](https://zh.wikipedia.org/wiki/J2台 "wikilink") \[13\]
   - 《女人多自在》第四部：泥猛 飾演 輝雄
 
 2012年
@@ -1332,21 +1351,21 @@ RubberBand共拍攝了多首歌曲的[音樂錄像](https://zh.wikipedia.org/wik
 
 ## 展覽
 
-RubberBand於2009年12月1日至12月6日，舉行了為期一星期的[展覽](https://zh.wikipedia.org/wiki/展覽 "wikilink")《Behind the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展出《RubberBand Concert \#1》 的綵排相片、樂隊成員珍藏如創作手稿及樂器、從未發表的[樣本唱片](../Page/樣本唱片.md "wikilink")（Demo）和播放樂隊的MV 等等\[12\]。
+RubberBand於2009年12月1日至12月6日，舉行了為期一星期的[展覽](https://zh.wikipedia.org/wiki/展覽 "wikilink")《Behind the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展出《RubberBand Concert \#1》 的綵排相片、樂隊成員珍藏如創作手稿及樂器、從未發表的[樣本唱片](../Page/樣本唱片.md "wikilink")（Demo）和播放樂隊的MV 等等\[14\]。
 
 ## 廣告
 
-  - 2010年：[EPS](../Page/EPS.md "wikilink") [泥鯭feat](../Page/黎萬宏.md "wikilink")[林海峰](https://zh.wikipedia.org/wiki/林海峰 "wikilink")（電視廣告）\[13\]
-  - 2010年：[佐丹奴](../Page/佐丹奴.md "wikilink") [Winter Jackets Live](https://zh.wikipedia.org/wiki/Winter_Jackets_Live "wikilink")（硬照）\[14\]
-  - 2011年：[JobMarket求職廣場](https://zh.wikipedia.org/wiki/JobMarket求職廣場 "wikilink")（硬照）\[15\]
-  - 2011年：[家居寬頻電視廣告](../Page/3.md "wikilink")（出任代言人）\[16\]
-  - 2011年：[香港電腦通訊節](../Page/香港電腦通訊節.md "wikilink")2011（出任電腦大使）\[17\]
-  - 2011年：[香港癌症基金會](../Page/香港癌症基金會.md "wikilink")《患癌不是大結局》（出任活動大使）\[18\]
-  - 2011年：[Ellesse Time](https://zh.wikipedia.org/wiki/:en:Ellesse "wikilink") X RubberBand（第525期《[Milk](https://zh.wikipedia.org/wiki/Milk "wikilink")》雜誌硬照及訪問）\[19\]
+  - 2010年：[EPS](../Page/EPS.md "wikilink") [泥鯭feat](../Page/黎萬宏.md "wikilink")[林海峰](https://zh.wikipedia.org/wiki/林海峰 "wikilink")（電視廣告）\[15\]
+  - 2010年：[佐丹奴](../Page/佐丹奴.md "wikilink") [Winter Jackets Live](https://zh.wikipedia.org/wiki/Winter_Jackets_Live "wikilink")（硬照）\[16\]
+  - 2011年：[JobMarket求職廣場](https://zh.wikipedia.org/wiki/JobMarket求職廣場 "wikilink")（硬照）\[17\]
+  - 2011年：[家居寬頻電視廣告](../Page/3.md "wikilink")（出任代言人）\[18\]
+  - 2011年：[香港電腦通訊節](../Page/香港電腦通訊節.md "wikilink")2011（出任電腦大使）\[19\]
+  - 2011年：[香港癌症基金會](../Page/香港癌症基金會.md "wikilink")《患癌不是大結局》（出任活動大使）\[20\]
+  - 2011年：[Ellesse Time](https://zh.wikipedia.org/wiki/:en:Ellesse "wikilink") X RubberBand（第525期《[Milk](https://zh.wikipedia.org/wiki/Milk "wikilink")》雜誌硬照及訪問）\[21\]
   - 2011年：Rubberband x [佐丹奴](https://zh.wikipedia.org/wiki/Giordano "wikilink") 2011 Thinsulate冬日Live輕。薄。暖（出任代言人)
-  - 2012年：T-TECH by TUMI（出任代言人）\[20\]
-  - 2012年：[Carlsberg Chill](../Page/嘉士伯.md "wikilink")（出任代言人）\[21\]
-  - 2012年：[強制性公積金](../Page/強制性公積金.md "wikilink")僱員自選安排（[泥鯭出任代言人](../Page/黎萬宏.md "wikilink")）\[22\]
+  - 2012年：T-TECH by TUMI（出任代言人）\[22\]
+  - 2012年：[Carlsberg Chill](../Page/嘉士伯.md "wikilink")（出任代言人）\[23\]
+  - 2012年：[強制性公積金](../Page/強制性公積金.md "wikilink")僱員自選安排（[泥鯭出任代言人](../Page/黎萬宏.md "wikilink")）\[24\]
 
 ## 獎項
 
@@ -1496,7 +1515,7 @@ RubberBand於2009年12月1日至12月6日，舉行了為期一星期的[展覽](
   -
   -
   -
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
+[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:RubberBand](https://zh.wikipedia.org/wiki/Category:RubberBand "wikilink") [Category:2004年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年成立的音樂團體 "wikilink")
 
 1.
 2.
@@ -1507,16 +1526,18 @@ RubberBand於2009年12月1日至12月6日，舉行了為期一星期的[展覽](
 7.  [RubberBand 鍵琴手退出](http://www.singpao.com/NewsArticle.aspx?NewsID=120363)
 8.
 9.  [Unexpected Fashion Icon RubberBand](https://www.mings-fashion.com/unexpected-fashion-icons-rubberband-irving-cheung-189641/)
-10.
-11.
+10. Youtube - 「RubberBand - 天光了」 <https://www.youtube.com/watch?v=X6rZI13xuHs>
+11. Youtube - 「RubberBand - 天光了」 <https://www.youtube.com/watch?v=GmMFhQma5Dw>
 12.
-13. [EPS 易辦事](http://www.gold-typhoon.com.hk/content/%E6%9E%97%E6%B5%B7%E5%B3%B0%E5%92%8C%E6%B3%A5%E9%AF%ADrubberband%E9%BC%93%E6%89%8B-%E9%A6%96%E5%BA%A6%E5%90%88%E4%BD%9C%E6%8B%8D%E6%94%9Deps-easycash%E5%BB%A3%E5%91%8A)
+13.
 14.
-15. [1](http://www.jobmarket.com.hk/Resources/industry_trend_details.jsp?article_id=4472&cmpy_id)
+15. [EPS 易辦事](http://www.gold-typhoon.com.hk/content/%E6%9E%97%E6%B5%B7%E5%B3%B0%E5%92%8C%E6%B3%A5%E9%AF%ADrubberband%E9%BC%93%E6%89%8B-%E9%A6%96%E5%BA%A6%E5%90%88%E4%BD%9C%E6%8B%8D%E6%94%9Deps-easycash%E5%BB%A3%E5%91%8A)
 16.
-17.
+17. [1](http://www.jobmarket.com.hk/Resources/industry_trend_details.jsp?article_id=4472&cmpy_id)
 18.
-19. [2](http://a5.sphotos.ak.fbcdn.net/hphotos-ak-ash4/223745_269300266417679_100000131237863_1271980_7633482_n.jpg)
+19.
 20.
-21.
+21. [2](http://a5.sphotos.ak.fbcdn.net/hphotos-ak-ash4/223745_269300266417679_100000131237863_1271980_7633482_n.jpg)
 22.
+23.
+24.

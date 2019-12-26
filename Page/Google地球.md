@@ -347,14 +347,6 @@ Google Earth Enterprise是提供大量购买授权使用的企业版。
 
 2012年3月29日起，Google地球海外服务器的多个IP地址被[防火长城](../Page/防火长城.md "wikilink")封锁，在[中国大陆](../Page/中国大陆.md "wikilink")境内的用户开始经常无法直接访问，但由於Google的IP地址众多，用户可变更[Hosts文件](../Page/Hosts文件.md "wikilink")来突破封锁问题。\[39\]Google在更換IP後中國可重新直接使用。
 
-## 参考文献
-
-## 外部連結
-
-  - [Google地球](https://www.google.com/earth/)
-      - [简体](https://www.google.com/intl/zh-CN/earth/)
-      - [繁體](https://www.google.com/intl/zh-TW/earth/)
-
 ## 参见
 
   - [Google产品列表](../Page/Google产品列表.md "wikilink")
@@ -367,82 +359,54 @@ Google Earth Enterprise是提供大量购买授权使用的企业版。
   - [电子地图服务](../Page/电子地图服务.md "wikilink")
   - [Marble (KDE)](../Page/Marble_\(KDE\).md "wikilink")
 
+## 参考文献
+
+## 外部連結
+
+  - [Google地球](https://www.google.com/earth/)
+      - [简体](https://www.google.com/intl/zh-CN/earth/)
+      - [繁體](https://www.google.com/intl/zh-TW/earth/)
+
 {{-}}
 
-[Category:Google地球](https://zh.wikipedia.org/wiki/Category:Google地球 "wikilink") [Category:虛擬地球](https://zh.wikipedia.org/wiki/Category:虛擬地球 "wikilink") [Category:电子地图](https://zh.wikipedia.org/wiki/Category:电子地图 "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
+[Category:Google地球](https://zh.wikipedia.org/wiki/Category:Google地球 "wikilink") [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink") [Category:虛擬地球](https://zh.wikipedia.org/wiki/Category:虛擬地球 "wikilink") [Category:电子地图](https://zh.wikipedia.org/wiki/Category:电子地图 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:GIS软件](https://zh.wikipedia.org/wiki/Category:GIS软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink") [Category:2001年软件](https://zh.wikipedia.org/wiki/Category:2001年软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  <http://www.flickr.com/photos/kateshanley/2811857695/in> /pool-googlestreetviewcar
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11. [Result of Acid3 rendering on Google Earth](../Page/Acid3.md "wikilink")
-
 12.
-
 13.
-
 14. Google Earth: Weather layer, information link -- accessed: 03 March 2009 v5.0.11337.1968 (beta)
-
 15.
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24. [谷歌地球全球搜寻卫星图片全力支持政府赈灾部署──全部图片已向网友开放](http://www.google.com.hk/ggblog/googlechinablog/2008/05/blog-post_5331.html)
-
 25.
-
 26.
-
 27. <https://web.archive.org/web/20070601153059/http://motic.blogspot.com/2007/05/message-au-monde-message-to-world.html> Message au monde - Message to the world
-
 28.
-
 29. <http://www.telegraph.co.uk/news/worldnews/asia/india/3691723/Mumbai-attacks-Indian-suit-against-Google-Earth-over-image-use-by-terrorists.html> "Mumbai attacks: Indian suit against Google Earth over image use by terrorists", The Daily Telegraph, December 9, 2008.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34. [](https://www.thepaper.cn/newsDetail_forward_3878404)
-
 35. [澎湃-三峡大坝变形謠言](https://www.thepaper.cn/newsDetail_forward_3872729)
-
 36.
-
 37.
-
 38. [Google Earth瀋陽 現偽滿洲國時期日文標記](http://blog.myspace.cn/e/403237123.htm)
-
 39.

@@ -69,9 +69,6 @@
 [Category:提督之決斷系列](https://zh.wikipedia.org/wiki/Category:提督之決斷系列 "wikilink") [Category:1994年电子游戏](https://zh.wikipedia.org/wiki/Category:1994年电子游戏 "wikilink") [Category:二战题材电子游戏](https://zh.wikipedia.org/wiki/Category:二战题材电子游戏 "wikilink")
 
 1.  [为了民族的尊严——记天津光荣软件有限公司四青年](http://www.centurychina.com/wiihist/news/recentnews/news.jap.software.gb)－人民日報，1996年8月18日
-
 2.  [抗日游戏抗的到底是什么](http://game.163.com/special/jianzheng_32/)－网易游戏频道
-
 3.  1996年12月4日中國中央電視台的報導
-
 4.

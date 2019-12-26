@@ -110,7 +110,7 @@ iPhone OS 3.1.1 (8 GB "MC" model)</p></td>
 <td><p>iOS 6.1.6</p></td>
 <td><p>iOS 9.3.5</p></td>
 <td><p>iOS 12.3.1</p></td>
-<td><p>iOS 12.3.1</p></td>
+<td><p>iOS 13.1.2</p></td>
 </tr>
 <tr class="even">
 <td><p>colspan="2"  class="table-rh" |屏幕</p></td>
@@ -407,56 +407,31 @@ iPod touch沒有自定義開關，也沒有震動马达，而且是至今所有i
 [Category:多點觸控](https://zh.wikipedia.org/wiki/Category:多點觸控 "wikilink") [Category:IPod](https://zh.wikipedia.org/wiki/Category:IPod "wikilink") [Category:个人数码助理](https://zh.wikipedia.org/wiki/Category:个人数码助理 "wikilink") [Category:2007年面世的產品](https://zh.wikipedia.org/wiki/Category:2007年面世的產品 "wikilink")
 
 1.  [Steve Jobs live - Apple's "The beat goes on" special event](http://www.engadget.com/2007/09/05/steve-jobs-live-apples-the-beat-goes-on-special-event/)（2007年9月5日）於2007年9月5日引用。
-
 2.  [Apple – iPod touch – Features](http://www.apple.com/ipodtouch/features.html?feature=itwfms) （2007年9月5日）於2007年9月5日引用。
-
 3.  [蘋果正式下架 shuffle與nano走入歷史](http://m.cna.com.tw/news/ahel/201707280129.aspx)
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.  [That IPod touch Runs at 533 MHz - PC World](http://www.pcworld.com/article/154518/.html?tk=rss_news)
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
 28.
-
 29.

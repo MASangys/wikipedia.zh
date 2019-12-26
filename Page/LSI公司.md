@@ -40,19 +40,19 @@ LSI推出业界首款ASIC系列产品，可帮助客户利用最先进的专用C
 
 <!-- end list -->
 
-  - 2006年12月，LSI声称希望通过全股票交易方式与Agere进行合并。[3](http://www.lsi.com/news/corporate_news/2006_12_04.html).
+  - 2006年12月，LSI声称希望通过全股票交易方式与Agere进行合并。[3](https://web.archive.org/web/20080501091128/http://www.lsi.com/news/corporate_news/2006_12_04.html).
 
 <!-- end list -->
 
-  - LSI于2007年2月以约5500万现金的价格收购SiliconStor。[4](http://www.lsi.com/news/corporate_news/2007/2007_02_16.html)
+  - LSI于2007年2月以约5500万现金的价格收购SiliconStor。[4](https://web.archive.org/web/20080505073747/http://www.lsi.com/news/corporate_news/2007/2007_02_16.html)
 
 <!-- end list -->
 
-  - LSI于2007年4月2日成功完成与Agere Systems的合并[5](http://www.lsi.com/news/corporate_news/2007/2007_04_02.html)
+  - LSI于2007年4月2日成功完成与Agere Systems的合并[5](https://web.archive.org/web/20080501091138/http://www.lsi.com/news/corporate_news/2007/2007_04_02.html)
 
 <!-- end list -->
 
-  - LSI于2007年6月27日宣布Cirrus Logic视频部的分出公司（Spin-off）Magnum Semiconductor, Inc.收购LSI消费类产品部。[6](http://www.lsi.com/news/corporate_news/2007/2007_06_27a.html)
+  - LSI于2007年6月27日宣布Cirrus Logic视频部的分出公司（Spin-off）Magnum Semiconductor, Inc.收购LSI消费类产品部。[6](https://web.archive.org/web/20070928122300/http://www.lsi.com/news/corporate_news/2007/2007_06_27a.html)
 
 <!-- end list -->
 
@@ -60,11 +60,11 @@ LSI推出业界首款ASIC系列产品，可帮助客户利用最先进的专用C
 
 <!-- end list -->
 
-  - LSI于2007年10月24日完成了将其移动部出售给Infineon Technologies AG的工作。[8](http://www.lsi.com/news/corporate_news/2007/2007_10_24a.html)
+  - LSI于2007年10月24日完成了将其移动部出售给Infineon Technologies AG的工作。[8](https://web.archive.org/web/20080210104241/http://www.lsi.com/news/corporate_news/2007/2007_10_24a.html)
 
 <!-- end list -->
 
-  - LSI于2008年3月10日宣布达成收购Infineon硬盘驱动器业务的协议。[9](http://www.lsi.com/news/corporate_news/2008/2008_03_10.html)
+  - LSI于2008年3月10日宣布达成收购Infineon硬盘驱动器业务的协议。[9](https://web.archive.org/web/20080320014715/http://www.lsi.com/news/corporate_news/2008/2008_03_10.html)
 
 <!-- end list -->
 

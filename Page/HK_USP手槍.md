@@ -2,7 +2,7 @@
 
 ## 設計
 
-HK本來試圖以過去開發成功的槍枝優點作為之後開發手槍的參考，其中過去HK開發的創新手槍包括擁有獨特扳機構造的[P7](../Page/HK_P7手槍.md "wikilink")、純雙動扳機模式的[P9S和](../Page/HK_P9手槍.md "wikilink")[VP70Z等](../Page/HK_VP70手槍.md "wikilink")。1993年HK公司成功研發出了USP手槍後，也代表著HK首次吸收了許多傳統的手槍設計元素，例如[約翰·白朗寧的](https://zh.wikipedia.org/wiki/約翰·白朗寧 "wikilink")[M1911](../Page/M1911手槍.md "wikilink")。槍枝主要根據兩個原则而設計而成，一是聚合物料作為原料，二是[範式手槍的創造](https://zh.wikipedia.org/wiki/範式 "wikilink")。USP使用較多的白朗寧手槍的設計，並與白朗寧的「[Hi Power](../Page/白朗寧大威力半自動手槍.md "wikilink")」類似，另外USP有固鎖待發模式。
+HK本來試圖以過去開發成功的槍枝優點作為之後開發手槍的參考，其中過去HK開發的創新手槍包括擁有獨特扳機構造的[P7](../Page/HK_P7手槍.md "wikilink")、純雙動扳機模式的[P9S和](https://zh.wikipedia.org/wiki/HK_P9S半自動手槍 "wikilink")[VP70Z等](../Page/HK_VP70手槍.md "wikilink")。1993年HK公司成功研發出了USP手槍後，也代表著HK首次吸收了許多傳統的手槍設計元素，例如[約翰·白朗寧的](https://zh.wikipedia.org/wiki/約翰·白朗寧 "wikilink")[M1911](../Page/M1911手槍.md "wikilink")。槍枝主要根據兩個原则而設計而成，一是聚合物料作為原料，二是[範式手槍的創造](https://zh.wikipedia.org/wiki/範式 "wikilink")。USP使用較多的白朗寧手槍的設計，並與白朗寧的「[Hi Power](../Page/白朗寧大威力半自動手槍.md "wikilink")」類似，另外USP有固鎖待發模式。
 
 USP的套筒是以整塊高碳鋼用工作母機加工而成，表面經過高溫並加[氮氣處理](https://zh.wikipedia.org/wiki/氮氣 "wikilink")，這種二次硬化處理能加強活動組件的耐磨性。滑套表面並經特殊防鏽蝕處理，其防鏽層深入金屬表層，使滑套的防鏽性更強。槍管則是由鉻鋼經冷鍛製成（冷鍛不會使金屬晶向改向改變），其槍管材質與砲管是同等級的。
 
@@ -26,7 +26,7 @@ HK USP的重製特色為對於扳機的改變：扳機形式上快速更動，�
 
 HK USP常常被世界各國的警察作為配槍、或是軍隊使用。
 
-世界上有兩個軍隊裝備了改裝過的USP，分別為[希臘及](https://zh.wikipedia.org/wiki/希臘 "wikilink")[馬來西亞的軍隊](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")。黑克勒-科赫根據協議，允許雙方改槍，而馬來西亞版本則供第10傘兵團使用。[馬來西亞皇家警察也使用发射](https://zh.wikipedia.org/wiki/馬來西亞皇家警察 "wikilink")9毫米魯格彈的USP戰術型及緊湊型手槍，並且給底下的[特別行動指揮部](../Page/特別行動指揮部.md "wikilink")菁英使用，取代了過去東馬來西亞警察使用的[白朗寧大威力半自動手槍](../Page/白朗寧大威力半自動手槍.md "wikilink")以及[HK P9S手槍](../Page/HK_P9S手槍.md "wikilink")。
+世界上有兩個軍隊裝備了改裝過的USP，分別為[希臘及](https://zh.wikipedia.org/wiki/希臘 "wikilink")[馬來西亞的軍隊](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")。黑克勒-科赫根據協議，允許雙方改槍，而馬來西亞版本則供第10傘兵團使用。[馬來西亞皇家警察也使用发射](https://zh.wikipedia.org/wiki/馬來西亞皇家警察 "wikilink")9毫米魯格彈的USP戰術型及緊湊型手槍，並且給底下的[特別行動指揮部](../Page/特別行動指揮部.md "wikilink")菁英使用，取代了過去東馬來西亞警察使用的[白朗寧大威力半自動手槍](../Page/白朗寧大威力半自動手槍.md "wikilink")以及[HK P9S半自動手槍](https://zh.wikipedia.org/wiki/HK_P9S半自動手槍 "wikilink")。
 
 ## 使用國
 
@@ -205,7 +205,7 @@ HK USP常常被世界各國的警察作為配槍、或是軍隊使用。
   - 2007年—《[穿越火线](../Page/穿越火线.md "wikilink")》（Cross Fire）：型號為USP.45戰術型，命名為「USP」。
   - 2007年—《[-{zh-hans:半条命2：第二章; zh-hant:戰慄時空2：二部曲;}-](../Page/戰慄時空2：二部曲.md "wikilink")》（Half-Life 2: Episode Two）：型號為USP9比賽型，不鏽鋼套筒，命名為“USP Match”。
   - 《[決勝時刻](../Page/決勝時刻系列.md "wikilink")》（Call of duty）系列的《現代戰爭》系列三部曲：
-      - 2007年—《[-{zh:決勝時刻4：現代戰爭;zh-hans:使命召唤4：现代战争;zh-hant:決勝時刻4：現代戰爭;zh-cn:使命召唤4：现代战争;zh-tw:決勝時刻4：現代戰爭;zh-hk:使命召喚4：現代戰爭;zh-mo:使命召喚4：現代戰爭;}-](../Page/決勝時刻4：現代戰爭.md "wikilink")》（Call of Duty 4: Modern Warfare）：型號為USP.45，黑色槍身並裝上了來自[SOCOM手槍的](../Page/HK_Mk_23_Mod_0手槍.md "wikilink")[LAM模塊](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")（無法使用），使用純雙動板機。故事模式中被[英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[空降特勤隊及中東某國反對派武裝勢力所使用](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")。聯机模式於等級1解鎖，並能加裝[滅音器](../Page/抑制器.md "wikilink")。
+      - 2007年—《[-{zh:決勝時刻4：現代戰爭;zh-hans:使命召唤4：现代战争;zh-hant:決勝時刻4：現代戰爭;zh-cn:使命召唤4：现代战争;zh-tw:決勝時刻4：現代戰爭;zh-hk:使命召喚4：現代戰爭;zh-mo:使命召喚4：現代戰爭;}-](../Page/決勝時刻4：現代戰爭.md "wikilink")》（Call of Duty 4: Modern Warfare）：型號為USP.45，黑色槍身並裝上了來自[SOCOM手槍的](https://zh.wikipedia.org/wiki/HK_Mk_23_Mod_0半自動手槍 "wikilink")[LAM模塊](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")（無法使用），使用純雙動板機。故事模式中被[英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[空降特勤隊及中東某國反對派武裝勢力所使用](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")。聯机模式於等級1解鎖，並能加裝[滅音器](../Page/抑制器.md "wikilink")。
       - 2009年—《[-{zh:決勝時刻：現代戰爭2;zh-hans:使命召唤：现代战争2;zh-hant:決勝時刻：現代戰爭2;zh-cn:使命召唤：现代战争2;zh-tw:決勝時刻：現代戰爭2;zh-hk:使命召喚：現代戰爭2;zh-mo:使命召喚：現代戰爭2;}-](../Page/決勝時刻：現代戰爭2.md "wikilink")》（Call of Duty: Modern Warfare 2）：型號為USP.45，黑色槍身並裝上了[戰術燈](../Page/戰術燈.md "wikilink")（無法使用），使用純雙動板機。故事模式中被141特遣部隊、[極端民族主義黨武裝力量及](https://zh.wikipedia.org/wiki/極端民族主義 "wikilink")[俄羅斯聯邦安全局](https://zh.wikipedia.org/wiki/俄羅斯聯邦安全局 "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")所使用。聯機模式於等級4解鎖，並能使用[消音器](../Page/抑制器.md "wikilink")、、[雙持](../Page/雙持.md "wikilink")、[戰術刀及延長彈匣](https://zh.wikipedia.org/wiki/戰術刀 "wikilink")（增至18發）。
       - 2011年—《[-{zh:決勝時刻：現代戰爭3;zh-hans:使命召唤：现代战争3;zh-hant:決勝時刻：現代戰爭3;zh-cn:使命召唤：现代战争3;zh-tw:決勝時刻：現代戰爭3;zh-hk:使命召喚：現代戰爭3;zh-mo:使命召喚：現代戰爭3;}-](../Page/決勝時刻：現代戰爭3.md "wikilink")》（Call of Duty: Modern Warfare 3）：型號為USP.45（單人模式）和USP.45戰術型（聯機模式），黑色槍身並裝上了[戰術燈](../Page/戰術燈.md "wikilink")（無法使用），使用純雙動板機。故事模式中被[英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[空降特勤隊](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")、[美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")[三角洲特種部隊合金分隊](https://zh.wikipedia.org/wiki/三角洲特種部隊 "wikilink")、141特遣部隊及非洲民兵所使用。聯機模式及生存模式皆於等級1解鎖，並能使用[滅音器](../Page/抑制器.md "wikilink")、[雙持](../Page/雙持.md "wikilink")、[戰術刀及延長彈匣](https://zh.wikipedia.org/wiki/戰術刀 "wikilink")（增至18發）。
   - 2012年—《[-{zh-hans:反恐精英：全球攻势; zh-hant:絕對武力：全球攻勢;}-](https://zh.wikipedia.org/wiki/絕對武力：全球攻勢 "wikilink")》（Counter-Strike: Global Offensive）：型號為USP.45，命名為「USP-S」(取“USP消音版”之意)，黑色槍身，能裝上[滅音器](../Page/抑制器.md "wikilink")。

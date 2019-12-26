@@ -30,6 +30,7 @@
   - 2011 : The Path of Totality
   - 2013 : The Paradigm Shift
   - 2016 : The Serenity of Suffering
+  - 2019 : The Nothing
 
 ### 演唱会专辑
 

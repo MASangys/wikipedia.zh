@@ -33,7 +33,7 @@ Doodle 4 Google是Google举办的一个国际少年绘画大赛，主要面向�
   - \[//www.google.com/intl/en/doodle4google/ Doodle 4 Google网站\]
   - \[//www.google.com/intl/zh-CN/doodle4google/ Doodle 4 Google中国网站\]
   - \[//www.google.com/doodles Google涂鸦官方网站\]
-  - [最全的谷歌图标收集网站](http://www.logocollect.com)
+  - [最全的谷歌图标收集网站](https://web.archive.org/web/20190401054341/http://www.logocollect.com/)
 
 [Category:商标](https://zh.wikipedia.org/wiki/Category:商标 "wikilink") [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
 

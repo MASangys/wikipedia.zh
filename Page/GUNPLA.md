@@ -4,23 +4,21 @@
 
 GUNDAM系列的塑膠模型之英文為Gundam Plastic Model。日本將塑膠模型稱做pla-model（プラモデル），簡稱便成了GUNPLA®（）。GUNPLA®已經是授權的商標，故6個英文字母必須全部大寫。GUNPLA的製造、販售及作品開發為BANDAI的HOBBY事業部所擔當，但「GUNPLA®」則是[創通](../Page/創通.md "wikilink")的登錄商標。
 
-至於台灣的翻譯**鋼普拉**，大陸、香港則翻譯成"高達模型"，以上名至今只是部分人士之俗稱，現今尚未擁有正式中文翻譯，目前正在等待[萬代](../Page/萬代.md "wikilink")的正式譯名。
+至於台灣的翻譯**鋼普拉**，中國大陸、香港則翻譯成"高達模型"，以上名至今只是部分人士之俗稱，現今尚未擁有正式中文翻譯，目前正在等待[萬代](../Page/萬代.md "wikilink")的正式譯名。
 
 ## 歷史
 
 1979年《[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")》上映時，相關的玩具只有傳統的合金玩具。
 
-1980年7月，[萬代](../Page/萬代.md "wikilink")在初代GUNDAM放送後推出首個1/144比例[RX-78-2 GUNDAM](https://zh.wikipedia.org/wiki/RX-78系列機動戰士 "wikilink")。 起初的GUNPLA和當時同期，以孩子為主要取向的機器人塑膠模型是沒有太大分別。但是自從模型師於**[Hobby Japan](https://zh.wikipedia.org/wiki/Hobby_Japan "wikilink")**雜誌的副刊中刊載「How To Build Gundam」一專欄後，GUNPLA隨即在中、小學生中揭起熱潮。
+1980年7月，[萬代](../Page/萬代.md "wikilink")在初代GUNDAM放送後推出首個1/144比例[RX-78-2 GUNDAM](https://zh.wikipedia.org/wiki/RX-78系列機動戰士 "wikilink")。\[1\] 起初的GUNPLA和當時同期，以孩子為主要取向的機器人塑膠模型是沒有太大分別。但是自從模型師於**[Hobby Japan](https://zh.wikipedia.org/wiki/Hobby_Japan "wikilink")**雜誌的副刊中刊載「How To Build Gundam」一專欄後，GUNPLA隨即在中、小學生中揭起熱潮。
 
 1981年，同年10月由[講談社創刊的漫畫雜誌](https://zh.wikipedia.org/wiki/講談社 "wikilink")－**COMIC BonBon「コミックボンボン」**於雜誌前面也刊登了GUNDAM模型，因此加速了熱潮；連由[小學館](../Page/小學館.md "wikilink")發行，非相關取向的雜誌－**TEREBI KUN「てれびくん」**也刊載了一陣子的GUNPLA，也因此奠定了GUNPLA的人氣。
 
-當時的1/144比例的GUNPLA售價在300圓左右，和一般的機器人模型相比，對於少年來說是相當容易入手的價格，因此造成搶購熱潮，使得當時缺貨的小賣店不停的增加。直到1982年在千葉縣的DAIEI新松戶店發生了250名左右的中、小學生在電扶梯上因搶購而擁擠推擠後發生事故，此時大眾才領悟到GUNPLA已經造成社會現象。
-
-之後便乘著這股熱潮，GUNPLA也推出了新系列－未在本篇劇情中登場的兵器系列**Mobile Suit Variation：MSV**。
+當時的1/144比例的GUNPLA售價在300圓左右，和一般的機器人模型相比，對於少年來說是相當容易入手的價格，因此造成搶購熱潮，使得當時缺貨的小賣店不停的增加。直到1982年在千葉縣的DAIEI新松戶店發生了250名左右的中、小學生在電扶梯上因搶購而擁擠推擠後發生事故，此時大眾才領悟到GUNPLA已經造成社會現象。之後便乘著這股熱潮，GUNPLA也推出了新系列－未在本篇劇情中登場的兵器系列**Mobile Suit Variation：MSV**。
 
 這股GUNPLA熱朝一直持續至今日，第一彈商品的1/144GUNDAM在發售10年內總共售出了600萬個。而第2彈1/144的MS-06S也在10年內售出了300萬個。俗稱「敵對角色」的對手機能達到這樣的銷售額，已經是史無前例。
 
-而到2019年5月為止，GUNPLA包含在海外所出貨的商品總數目，已經達到5億個。當年所發行的舊版模，如今依然會再生產，而日本將GUNPLA熱潮稱為「**GUNPLA BOOM**」（「**ガンプラ　ブーム」**）。
+而到2019年5月為止，GUNPLA包含在海外所出貨的商品總數目，已經達到5億個。當年所發行的舊版模如今依然會再生產，而日本將GUNPLA熱潮稱為「**GUNPLA BOOM**」（「**ガンプラ　ブーム」**）。同年9月為了感謝[上海市公安局打擊盜版GUNPLA保護了公司利益的貢獻](https://zh.wikipedia.org/wiki/上海市 "wikilink")，萬代公司製造了全球只有一台的特別版\[2\]“电镀金色觉醒独角兽高達”（1/48的Mega Size）附加特製底座，贈送給公安局。\[3\]\[4\]
 
 ## 分類
 
@@ -83,9 +81,7 @@ HGUC的特點在於重視收藏性，因此機體設定者以[角木肇](../Page
 
 #### SEED HG
 
-HG系列的分支，專門推出C.E.紀元中的機體。
-
-由於HG系列即代表著高價位的1/144系列，因此和低價的系列（COLLECTION SERIES）相較，可動部分也隨之增加，並包含了變形機構。
+HG系列的分支，專門推出C.E.紀元中的機體。 [缩略图](https://zh.wikipedia.org/wiki/File:Odaiba_Tokyo_August_2014_Gundam_014.JPG "fig:缩略图") 由於HG系列即代表著高價位的1/144系列，因此和低價的系列（COLLECTION SERIES）相較，可動部分也隨之增加，並包含了變形機構。
 
 而此系列包含了所有[GUNDAM SEED系列作](https://zh.wikipedia.org/wiki/GUNDAM_SEED "wikilink")，因此商品數目達到58種之多，和HCUC並列為人氣系列之一。但有此一說為此系列是近年來BANDAI新技術的測試品。
 
@@ -203,13 +199,15 @@ PG對象年齡在15歲之上，定價為12000圓以上。雖然有著精密的�
 
 第三十二彈: RX-93 v鋼彈，於2019年8月發售。
 
+第三十三彈: EVA-01 TEST TYPE EVA初號機， 2020年3月預定發售。
+
 ### Hi-Resolution Model（HiRM）
 
 以預先裝組的金屬骨架，配合特殊塗層及隱藏湯口處理技術而製作的高階模型系列。BANDAI 推出此種免除工場併組，改由閣下自由併裝而質素直逼 MB 的新系列。暫時 HiRM 系列只推出了1/100的獵魔鋼彈，於2016年4月上市、1/100飛翼鋼彈零式EW，於2014年9月上市。
 
 ### HYPER HYBRID MODEL ( HY2M 系列)
 
-對應高級模型愛好者的系列，此系列一般都是價格昂貴、限量發售的超大比例模型，如 1/24 的 RX-78-2 GUNDAM、1/12 的 MS-06S ZAKU II 等。1/12 比例的 RX-78-2 GUNDAM，高度達到 1.5米之巨。價格也是達到了驚人的35萬日元。而 HY2M 模型除了 1/12 的比例，主要亦以 1/60 為主。HY2M 的 1/60 模型和 PG 一樣有 Led 燈部件，裝組上亦比 PG 簡單得多。有的還帶有發聲部件，可以通電發出如武器開火、機體啟動的聲音。
+對應高級模型愛好者的系列，此系列一般都是價格昂貴、限量發售的超大比例模型，如 1/24 的 RX-78-2 GUNDAM、1/12 的 MS-06S ZAKU II 等。1/12 比例的 RX-78-2 GUNDAM，高度達到 1.5米之巨。價格也是達到了驚人的35萬日元。而 HY2M 模型除了 1/12 的比例，主要亦以 1/60 為主。HY2M 的 1/60 模型和 PG 一樣有 Led 燈部件，裝組上亦比 PG 簡單得多。有的還帶有發聲部件，可以通電發出如武器開火、機體啟動的聲音。 [缩略图](https://zh.wikipedia.org/wiki/File:Aus_005.jpg "fig:缩略图")
 
 ### [SD GUNDAM系列](../Page/SD_GUNDAM系列.md "wikilink")
 
@@ -233,4 +231,11 @@ SD高達推出首六款模型後，時值《[機動戰士高達 馬沙之反擊]
 
   - [BANDAI HOBBY SITE](http://bandai-hobby.net/)
 
+## 参考文献
+
 [Category:GUNDAM](https://zh.wikipedia.org/wiki/Category:GUNDAM "wikilink") [Category:1980年面世的產品](https://zh.wikipedia.org/wiki/Category:1980年面世的產品 "wikilink") [Category:1980年代玩具](https://zh.wikipedia.org/wiki/Category:1980年代玩具 "wikilink") [Category:1990年代玩具](https://zh.wikipedia.org/wiki/Category:1990年代玩具 "wikilink") [Category:2000年代玩具](https://zh.wikipedia.org/wiki/Category:2000年代玩具 "wikilink") [Category:2010年代玩具](https://zh.wikipedia.org/wiki/Category:2010年代玩具 "wikilink")
+
+1.  徳間書店 『機動戦士ガンダム 新パーフェクトブック』2012年 ISBN 9784197102754
+2.  [上海警方再秀万代赠送全球限量款高达](http://www.guancha.cn/politics/2019_10_30_523277_1.shtml)
+3.  [全球限量高達在公安局](https://v.qq.com/x/page/c30158z7vki.html)
+4.  [上海警方携万代赠送限量款高达模型上节目](https://www.ali213.net/news/html/2019-10/463665.html)

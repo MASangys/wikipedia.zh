@@ -433,7 +433,7 @@ Circus的CD中出現的野蠻遊戲特別篇
       - 水星逆行 - [八三夭](../Page/八三夭.md "wikilink")
       - 我只想唱歌 - [張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink")
       - 風蕭蕭兮 - [信](https://zh.wikipedia.org/wiki/信 "wikilink")
-      - 一起HAPPY - [張震嶽](https://zh.wikipedia.org/wiki/張震嶽 "wikilink")、[MC Hot Dog](https://zh.wikipedia.org/wiki/MC_Hot_Dog "wikilink")
+      - 一起HAPPY - [張震嶽](../Page/張震嶽.md "wikilink")、[MC Hot Dog](https://zh.wikipedia.org/wiki/MC_Hot_Dog "wikilink")
 
 <!-- end list -->
 

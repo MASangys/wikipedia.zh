@@ -1,6 +1,6 @@
 **Pylons**是一个[开放源代码](../Page/开放源代码.md "wikilink")的[Web应用框架](../Page/Web应用框架.md "wikilink")，使用[Python](../Page/Python.md "wikilink")语言编写。它对[WSGI标准进行了扩展应用](https://zh.wikipedia.org/wiki/WSGI "wikilink")，提升了重用性且将功能分割到独立的模块中。
 
-Pylons是最新的[Web应用框架](../Page/Web应用框架.md "wikilink")中的典型，类似于[Django](../Page/Django.md "wikilink")和[TurboGears](../Page/TurboGears.md "wikilink")。Pylons受[Ruby on Rails影响很深](../Page/Ruby_on_Rails.md "wikilink")：它的两个组件，[Routes](http://routes.groovie.org)和[WebHelpers](http://docs.pylonsproject.org/projects/webhelpers/en/latest)是Rails特性的[Python](../Page/Python.md "wikilink")实现。
+Pylons是最新的[Web应用框架](../Page/Web应用框架.md "wikilink")中的典型，类似于[Django](../Page/Django.md "wikilink")和[TurboGears](../Page/TurboGears.md "wikilink")。Pylons受[Ruby on Rails影响很深](../Page/Ruby_on_Rails.md "wikilink")：它的两个组件，[Routes](https://web.archive.org/web/20120205185539/http://routes.groovie.org/)和[WebHelpers](http://docs.pylonsproject.org/projects/webhelpers/en/latest)是Rails特性的[Python](../Page/Python.md "wikilink")实现。
 
 ## 结构
 
@@ -10,7 +10,7 @@ Pylons的官方安装方法是从[Python CheeseShop](http://cheeseshop.python.or
 
 ### URL dispatch
 
-目前，Pylons普遍使用的URL dispatcher是[Routes](http://routes.groovie.org)，实际是[Ruby on Rails的URL](../Page/Ruby_on_Rails.md "wikilink") dispatching的Python重新实现，其他的URL dispatcher只要是[WSGI兼容也可以使用](https://zh.wikipedia.org/wiki/Web_Server_Gateway_Interface "wikilink")，例如[Selector](http://cheeseshop.python.org/pypi/selector)。
+目前，Pylons普遍使用的URL dispatcher是[Routes](https://web.archive.org/web/20120205185539/http://routes.groovie.org/)，实际是[Ruby on Rails的URL](../Page/Ruby_on_Rails.md "wikilink") dispatching的Python重新实现，其他的URL dispatcher只要是[WSGI兼容也可以使用](https://zh.wikipedia.org/wiki/Web_Server_Gateway_Interface "wikilink")，例如[Selector](http://cheeseshop.python.org/pypi/selector)。
 
 ### HTML生成
 
@@ -35,7 +35,7 @@ Packages used by the default Pylons installation, or popular additions:
   - [Mako](http://www.makotemplates.org/docs/) - Alternative template engine to Myghty
   - [Python Paste](http://pythonpaste.org/) - Project setup, testing, and deployment
   - [EasyInstall](http://peak.telecommunity.com/DevCenter/EasyInstall) - Installation and package dependencies
-  - [Routes](http://routes.groovie.org) - Routing implementation based on Rails routes
+  - [Routes](https://web.archive.org/web/20120205185539/http://routes.groovie.org/) - Routing implementation based on Rails routes
   - [FormEncode](http://formencode.org) - Validation and form generation
   - [WebHelpers](https://web.archive.org/web/20080914160852/http://pylonshq.com/WebHelpers/) - HTML Helper functions
 

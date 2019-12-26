@@ -47,12 +47,12 @@ Limesurvey还被用在许多高校中，职员和学生可以管理他们自己�
   - [PHPSurveyor: an appreciation](https://web.archive.org/web/20091121133112/http://blogs.zdnet.com/Murphy/?p=513) - [ZDNet](https://zh.wikipedia.org/wiki/ZDNet "wikilink") 博客文章
   - [PHPSurveyor: a questionable little script](http://blog.uwinnipeg.ca/unlvref/archives/000540.html) - [UNLV](https://zh.wikipedia.org/wiki/University_of_Nevada,_Las_Vegas "wikilink") 博客文章
   - [Web Survey Methodology article](http://www.websm.org/index.php?fl=1&nt=2&m2w=Guides,%20codes,%20best%20practice&sid=1)
-  - [Simple polling with LimeSurvey](http://www.linux.com/articles/62327) - [Linux.com](../Page/Linux.com.md "wikilink") 文章 June 05, 2007
+  - [Simple polling with LimeSurvey](https://web.archive.org/web/20090209085053/http://www.linux.com/articles/62327) - [Linux.com](../Page/Linux.com.md "wikilink") 文章 June 05, 2007
 
 [Category:调查](https://zh.wikipedia.org/wiki/Category:调查 "wikilink") [Category:網站](https://zh.wikipedia.org/wiki/Category:網站 "wikilink")
 
 1.  <http://www.LimeSurvey.org/content/view/41/55/lang,en/>
-2.  <http://www.swsoft.com/en/products/plesk/addons/#app-lin>
+2.
 3.  <http://www.virtualmin.com/news/item?item_id=58722>
 4.  <http://noc.postnuke.com/projects/pn-phpsurveyor/>
 5.  <http://www.xoops.org/modules/news/article.php?storyid=1904>

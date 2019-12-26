@@ -103,7 +103,7 @@ DTMB-A系统于2015年成为国际电联标准。采用多项自主研发的创�
   - [国家标准查询 - GB 20600-2006](http://gb.sac.gov.cn/stdlinfo/servlet/com.sac.sacQuery.GjbzcxDetailServlet?std_code=GB%2020600-2006)
   - [中华人民共和国国家标准批准发布公告－2006年第8号（总第95号）](https://web.archive.org/web/20070115061353/http://www.sac.gov.cn/cgi-bin/bulletin/showbulgb.asp?id=904&year=2006&num=8&tnums=95&cnt=161&pdate=2006-8-24)
   - [地面數字電視自主標准開啟中國數字電視時代](http://www1.chinesenewsnet.com/MainNews/SocDigest/Technology/xhw_2006_09_01_01_42_01_436.html)
-  - [国标委95号公告：批准数字电视地面传输标准](http://www.cnetnews.com.cn/news/electron/story/0,3800060195,39524023,00.htm)
+  - [国标委95号公告：批准数字电视地面传输标准](https://web.archive.org/web/20130616112139/http://www.cnetnews.com.cn/news/electron/story/0,3800060195,39524023,00.htm)
 
 香港：
 
@@ -114,28 +114,16 @@ DTMB-A系统于2015年成为国际电联标准。采用多项自主研发的创�
 [Category:數碼電視](https://zh.wikipedia.org/wiki/Category:數碼電視 "wikilink") [Category:中华人民共和国科技](https://zh.wikipedia.org/wiki/Category:中华人民共和国科技 "wikilink") [Category:电信标准](https://zh.wikipedia.org/wiki/Category:电信标准 "wikilink")
 
 1.  多載波技術源自DMB-T標準，使用多載波的還有[DVB-T](../Page/DVB-T.md "wikilink")之[COFDM技術](https://zh.wikipedia.org/wiki/COFDM "wikilink")；單載波技術源自ADTB-T標準；使用單載波的還有[ATSC](../Page/ATSC.md "wikilink")之[8VSB技術](https://zh.wikipedia.org/wiki/8VSB "wikilink")
-
 2.  電訊管理局（2007年11月12日）：《[政府當局提供有關數位地面電視廣播的文件（投影片資料）](http://www.legco.gov.hk/yr07-08/chinese/panels/itb/papers/itb1112cb1-242-c.pdf)》，立法會資訊科技及廣播事務委員會
-
 3.  [截止20日 8大城市地面数字电视推进情况](http://tech.163.com/digi/08/0821/08/4JRUL713001618VK.html)
-
 4.
-
 5.  [中國數字電視廣播傳輸技術獲得突破](http://www.epochtimes.com/b5/1/5/17/n89415.htm)
-
 6.
-
 7.
-
 8.
-
 9.
-
 10. [數位廣播Q\&A](http://hk.news.yahoo.com/071127/12/2kajq.html) ，原載香港《[明報](../Page/明報.md "wikilink")》，2007-11-28。
-
 11. [供應商憂公共天線未升級 得物無所用](http://hk.news.yahoo.com/071127/12/2kajp.html) , 原載香港《[明報](../Page/明報.md "wikilink")》，2007-11-28。
-
 12.
 13.
-
 14. [CNTV English](http://english.cntv.cn/program/newsupdate/20130320/100031.shtml)  2013年3月21日檢索

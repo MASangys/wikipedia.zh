@@ -374,6 +374,36 @@ SRCL-9764（通常盤）</p></td>
 <td><p>SRCL-9904〜9905（初回生産限定盤）<br />
 SRCL-9906（通常盤）</p></td>
 </tr>
+<tr class="even">
+<td><p>34th</p></td>
+<td><p>2019年2月27日</p></td>
+<td><p>Touch off</p></td>
+<td><p><br />
+CD</p></td>
+<td><p>SRCL-11057〜11058（初回生産限定盤）<br />
+SRCL-11059（通常盤）<br />
+SRCL-11060（期間生産限定盤）</p></td>
+</tr>
+<tr class="odd">
+<td><p>35th</p></td>
+<td><p>2019年10月16日</p></td>
+<td><p>ROB THE FRONTIER</p></td>
+<td><p>SRCL-11303〜11304（初回生産限定盤）<br />
+SRCL-11305（通常盤）<br />
+SRCL-11306（期間生産限定盤）</p></td>
+<td><p>1. ROB THE FRONTIER （動畫《<a href="../Page/七大罪_(漫畫).md" title="wikilink">七大罪 眾神的逆鱗</a>》OP）<br />
+2. EMPTY96 (2019.6.6 at Okinawa MUSIC TOWN OTO-ICHIBA)（初回CD）<br />
+3. 在るべき形（2019.6.6 at Okinawa MUSIC TOWN OTO-ICHIBA)（初回CD）<br />
+4. ODD FUTURE (Remixed by R3HAB)（初回CD）<br />
+5. EDENへ（Remixed by DJ White Shadow)（初回CD）</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

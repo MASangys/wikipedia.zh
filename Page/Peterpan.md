@@ -33,6 +33,6 @@
 
   - [Peterpan Band](http://www.kapanlagi.com/h/0000173551.html)
 
-  - [歌詞翻譯網](http://peterpan.awardspace.com)
+  - [歌詞翻譯網](https://web.archive.org/web/20120420121430/http://peterpan.awardspace.com/)
 
 [Category:印尼文化](https://zh.wikipedia.org/wiki/Category:印尼文化 "wikilink") [Category:印尼音樂](https://zh.wikipedia.org/wiki/Category:印尼音樂 "wikilink") [Category:印尼歌手](https://zh.wikipedia.org/wiki/Category:印尼歌手 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:MTV亞洲大獎獲得者](https://zh.wikipedia.org/wiki/Category:MTV亞洲大獎獲得者 "wikilink")

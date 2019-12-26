@@ -35,6 +35,6 @@
 
   - [Official website](http://www.vvv-venlo.nl/)
   - [Fanclub - Fanclub D'n Twellefde Man](http://www.fanclub-vvv.nl/)
-  - [Fanclub - Alles heej is VVV](http://www.allesheejisvvv.nl/)
+  - [Fanclub - Alles heej is VVV](https://web.archive.org/web/20100708080340/http://www.allesheejisvvv.nl/)
 
 [Category:荷蘭足球俱樂部](https://zh.wikipedia.org/wiki/Category:荷蘭足球俱樂部 "wikilink") [Category:1903年建立的足球會](https://zh.wikipedia.org/wiki/Category:1903年建立的足球會 "wikilink")

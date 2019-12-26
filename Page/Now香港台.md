@@ -1,22 +1,24 @@
-**now香港台**（又稱**now香港**）是[香港](../Page/香港.md "wikilink")[now寬頻電視的一條預覽頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，於2008年12月12日啟播。2016年3月19日起本頻道於不同時間內與now寬頻電視的其中一條頻道作同步預覽。此前本頻道曾是now寬頻電視其中一條香港本地中文資訊娛樂頻道。
+**now香港台**（又稱**now香港**）是[香港](../Page/香港.md "wikilink")[now寬頻電視的一條預覽頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，於2008年12月12日啟播。2016年3月19日起本頻道於不同時間內與now寬頻電視的其中一條頻道作同步預覽。此頻道曾是now寬頻電視其中一條香港本地中文資訊娛樂頻道。此頻道已於2019年11月1日終止廣播。
 
 ## 歷史
 
 now香港台於2008年12月12日晚上7時正在now寬頻電視100頻道啟播。為了讓now香港台能順利啟播，原來台號為100的[節目資訊頻道於同年](https://zh.wikipedia.org/wiki/now寬頻電視節目預告頻道 "wikilink")11月23日停播以騰出頻道位置予now香港台，
 
-自啟播起至2016年3月為止，該頻道是now寬頻電視其中之一的中文資訊娛樂頻道，內容主要播放自製資訊娛樂節目以及由名人主持的清談節目。該頻道開台時的主持有[林姍姍](https://zh.wikipedia.org/wiki/林姍姍 "wikilink")、[鄭經翰](../Page/鄭經翰.md "wikilink")和[鄭丹瑞](../Page/鄭丹瑞.md "wikilink")等。另外，該頻道亦會播放[日本](../Page/日本.md "wikilink")和[韓國的資訊節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")。\[1\]，該頻道初時的副總裁（台長）為擁有20年電視台管理工作經驗，曾擔任《了解．關懷 一百萬人的故事》節目顧問的杜之克（），而音樂創作總監為著名音樂人[金培達](../Page/金培達.md "wikilink")，該台的主題音樂、節目《星期日大班》及《一個地球》的配樂均由他所創作。\[2\]直至改為預覽頻道為止，now香港台的唯一錄影場地為[柴灣](../Page/柴灣.md "wikilink")嘉业街12号百樂門大廈（《星期日大班》及《now週記》錄影廠），與[now sports各錄影場地相鄰](https://zh.wikipedia.org/wiki/Now_Sports "wikilink")。
+自啟播起至2016年3月為止，該頻道是now寬頻電視其中之一的中文資訊娛樂頻道，內容主要播放自製資訊娛樂節目以及由名人主持的清談節目。該頻道開台時的主持有[林姍姍](https://zh.wikipedia.org/wiki/林姍姍 "wikilink")、[鄭經翰](../Page/鄭經翰.md "wikilink")和[鄭丹瑞](../Page/鄭丹瑞.md "wikilink")等。另外，該頻道亦會播放[日本](../Page/日本.md "wikilink")和[韓國的資訊節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")。\[1\]，該頻道初時的副總裁（台長）為擁有20年電視台管理工作經驗，曾擔任《了解．關懷 一百萬人的故事》節目顧問的杜之克（），而音樂創作總監為著名音樂人[金培達](../Page/金培達.md "wikilink")，該台的主題音樂、節目《星期日大班》及《一個地球》的配樂均由他所創作。\[2\]直至改為預覽頻道為止，now香港台的唯一錄影場地為[柴灣](../Page/柴灣.md "wikilink")嘉業街12號百樂門大廈（《星期日大班》及《now週記》錄影廠），與[now sports各錄影場地相鄰](https://zh.wikipedia.org/wiki/Now_Sports "wikilink")。
 
-2011年1月，now香港台曾經暫停高清廣播。同月官方網站改版。
+2011年1月，now香港台曾經暫停高清廣播。同月，官方網站改版。
 
 now香港台部分自製節目於2011年2月9日開始陸續遷往「[now 101台](https://zh.wikipedia.org/wiki/now_101台 "wikilink")」繼續播放，now亦將所有資訊發放目標移向now 101，而now香港台則會增加重播舊節目及與其他台聯播的時間（《Lifetival》除外）；
 
 而2015年3月起，當now香港台與now財經台或now新聞台聯播期間，以及播映4:3節目期間，頻道識別不會再遷就4:3安全區。
 
-2016年3月19日凌晨1時起，now香港台變更為預覽頻道，而now自選服務同now隨身睇當日起終止播放。
+2016年3月19日凌晨1時起，now香港台變更為預覽頻道，第一個預覽中的頻道為[now觀星台](https://zh.wikipedia.org/wiki/now觀星台 "wikilink")。而now自選服務同now隨身睇當日起終止播放。
+
+2019年11月1日，now香港台正式終止廣播，結束十年廣播。並由全新推出的「試睇區」全面取代。而終止廣播前的最後一個預覽中的頻道為[now華劇台](https://zh.wikipedia.org/wiki/now華劇台 "wikilink")。
 
 ## 內容
 
-now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，以下列表為不同時期的預覽內容。
+now香港台曾是一條與[now寬頻電視其中一條頻道作同步預覽的頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，以下列表為不同時期的預覽內容。
 
 <table>
 <thead>
@@ -269,7 +271,7 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 </tr>
 <tr class="odd">
 <td><p>2019年10月1日</p></td>
-<td><p><a href="../Page/Now華劇台.md" title="wikilink">Now華劇台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/now華劇台" title="wikilink">now華劇台</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -346,7 +348,7 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 </tr>
 <tr class="even">
 <td><p>105</p></td>
-<td><p><a href="../Page/Now華劇台.md" title="wikilink">Now華劇台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/now華劇台" title="wikilink">now華劇台</a>（前身now海潤劇集台）</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
@@ -485,6 +487,7 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
   - 《Let's MOOV》
   - [now寬頻電視新聞](https://zh.wikipedia.org/wiki/now寬頻電視新聞#聯播 "wikilink")
   - 102觀星總部
+  - [一個地球](../Page/一個地球.md "wikilink")
 
 ### 外購節目
 
@@ -526,10 +529,9 @@ now香港台藝人部自now 101台啟播後已經結束。
 
 ## 外部連結
 
-  - [now香港台官方網站](http://nowtv.now.com/channel/100)
   - [now香港台-從夢想出發](http://www.youtube.com/watch?v=u3ekTEc6kl0)
 
-[Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:Now_TV](https://zh.wikipedia.org/wiki/Category:Now_TV "wikilink") [Category:粤语电视频道](https://zh.wikipedia.org/wiki/Category:粤语电视频道 "wikilink")
+[Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:Now_TV](https://zh.wikipedia.org/wiki/Category:Now_TV "wikilink") [Category:粤语电视频道](https://zh.wikipedia.org/wiki/Category:粤语电视频道 "wikilink") [Category:香港已停播的電視頻道](https://zh.wikipedia.org/wiki/Category:香港已停播的電視頻道 "wikilink")
 
 1.  [電盈now香港台100頻道將於12月12日啟播](http://hk.biz.yahoo.com/081112/239/34v2m.html)
 2.  [now寬頻電視推出自資製作now香港台](http://www.pccw.com/NASApp/cs/ContentServer?pagename=PCCW/COMMON/newspopup&pageid=1226606423172&pagelang=chi&check=var)

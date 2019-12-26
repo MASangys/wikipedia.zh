@@ -34,24 +34,14 @@ Photobucket上寄存的影像一般會用於[eBay](https://zh.wikipedia.org/wiki
 [Category:网络相册](https://zh.wikipedia.org/wiki/Category:网络相册 "wikilink") [Category:2003年成立的公司](https://zh.wikipedia.org/wiki/Category:2003年成立的公司 "wikilink") [Category:图片分享网站](https://zh.wikipedia.org/wiki/Category:图片分享网站 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  <http://www.pcworld.com/article/id,130488-pg,1/article.html>
-
 8.  [財星雜誌](http://money.cnn.com/2007/03/27/magazines/fortune/fastforward_photobucket.fortune/?postversion=2007032808)
-
 9.  <http://www.techcrunch.com/2007/03/29/how-much-is-photobucket-worth/> TechCrunch
-
 10.
 11.
-
 12.

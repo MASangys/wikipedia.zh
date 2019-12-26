@@ -61,16 +61,10 @@
 [Category:宇多田光專輯](https://zh.wikipedia.org/wiki/Category:宇多田光專輯 "wikilink") [Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink") [Category:Oricon專輯年榜冠軍作品](https://zh.wikipedia.org/wiki/Category:Oricon專輯年榜冠軍作品 "wikilink") [Category:2001年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon專輯月榜冠軍作品 "wikilink") [Category:2001年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon專輯週榜冠軍作品 "wikilink") [Category:EMI日本音樂專輯](https://zh.wikipedia.org/wiki/Category:EMI日本音樂專輯 "wikilink")
 
 1.  <http://www.mediatraffic.de/top-album-achievements.htm>
-
 2.
-
 3.
-
 4.
-
 5.  [ORICON STYLE - 2001年04月第2週專輯榜](http://www.oricon.co.jp/search/result.php?kbn=ja&types=rnk&year=2001&month=4&week=2&submit5.x=16&submit5.y=8)
-
 6.
 7.
-
 8.  web.archive.org/web/20081117003957/[ifpi Top 50 Global Best Selling Albums for 2001](http://www.ifpi.org/content/library/top50-2001.pdf)

@@ -73,6 +73,6 @@ VNC並非是安全的協定，雖然VNC伺服程式需設定密碼才可接受�
   - [UltraVNC](http://ultravnc.com/)
   - [Vine Viewer](https://web.archive.org/web/20071124025542/http://www.redstonesoftware.com/products/vine/viewer/index.html) - A VNC client for OSX
   - [MobileVNC - Server VNC Windows Mobile + Windows CE](http://www.smartlab.at/mobilevnc/)
-  - [Windows版本UltraVNC使用](http://www.ytyzx.net/index.php/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8UltraVNC)
+  - [Windows版本UltraVNC使用](https://www.ytyzx.org/index.php/%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8UltraVNC)
 
 [Category:自由軟體](https://zh.wikipedia.org/wiki/Category:自由軟體 "wikilink") [Category:远程管理软件](https://zh.wikipedia.org/wiki/Category:远程管理软件 "wikilink")

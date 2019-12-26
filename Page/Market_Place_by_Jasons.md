@@ -24,7 +24,7 @@ Market Place by Jasons走中檔連鎖超級市場的路線，其主要對手有[
   - [中環](../Page/中環.md "wikilink")[盈置大廈](../Page/盈置大廈.md "wikilink") 地庫（於2009年2月20日開幕）佔地8,000平方呎
   - [淺水灣](../Page/淺水灣.md "wikilink")[影灣園](../Page/影灣園.md "wikilink") （前[惠康](../Page/惠康.md "wikilink")超級市場）
   - [西營盤](../Page/西營盤.md "wikilink")[縉城峰](../Page/縉城峰.md "wikilink")，於2011年11月4日開幕
-  - [北角](../Page/北角.md "wikilink")[模範里](../Page/模範里.md "wikilink")（前[惠康](../Page/惠康.md "wikilink")超級市場），於2012年2月開幕
+  - [北角](../Page/北角.md "wikilink")[模範里](../Page/模範里.md "wikilink")（前[惠康](../Page/惠康.md "wikilink")超級市場），於2012年2月開幕，但已結業。
   - [半山](https://zh.wikipedia.org/wiki/半山 "wikilink")[梅道](../Page/梅道.md "wikilink")12號嘉富麗園地庫（前[惠康](../Page/惠康.md "wikilink")超級市場），於2012年11月開幕
   - [淺水灣](../Page/淺水灣.md "wikilink")海灘道28號 The Pulse，於2014年8月29日開幕
   - [跑馬地](../Page/跑馬地.md "wikilink")黃泥涌道1號永光苑，於2014年9月5日開幕
@@ -49,7 +49,7 @@ Market Place by Jasons走中檔連鎖超級市場的路線，其主要對手有[
   - [奧海城](../Page/奧海城.md "wikilink")1期地下，佔地約4000平方呎，於2013年9月6日開幕
   - [尖沙嘴](https://zh.wikipedia.org/wiki/尖沙嘴 "wikilink")[中港城](../Page/中港城.md "wikilink")1樓離境層，於2013年9月13日開幕
   - [何文田](../Page/何文田.md "wikilink")[何文田廣場](https://zh.wikipedia.org/wiki/何文田廣場 "wikilink")3樓303號AB鋪（臨時店，2017年4月-7日）
-  - [何文田](../Page/何文田.md "wikilink")[何文田廣場](https://zh.wikipedia.org/wiki/何文田廣場 "wikilink")3樓305號鋪，於2017年7月7日開幕
+  - [何文田](../Page/何文田.md "wikilink")[何文田廣場](https://zh.wikipedia.org/wiki/何文田廣場 "wikilink")3樓305號鋪(前華潤超級市場)，於2017年7月7日開幕
   - [奧海城](../Page/奧海城.md "wikilink")2期北翼中庭（臨時店，2017年7月-12月）
   - [奧海城](../Page/奧海城.md "wikilink")2期地下，於2017年12月開幕，佔地26,000平方呎
   - [尖沙嘴](https://zh.wikipedia.org/wiki/尖沙嘴 "wikilink")[維港文化匯](https://zh.wikipedia.org/wiki/維港文化匯 "wikilink")[K11 MUSEA](../Page/K11_MUSEA.md "wikilink")，於2019年8月26日開幕
@@ -60,7 +60,7 @@ Market Place by Jasons走中檔連鎖超級市場的路線，其主要對手有[
   - [屯門](../Page/屯門.md "wikilink")[香港黃金海岸](../Page/香港黃金海岸.md "wikilink")購物商場（前[惠康](../Page/惠康.md "wikilink")超級市場）
   - [火炭](../Page/火炭.md "wikilink")[御龍山](../Page/御龍山.md "wikilink")商場，於2010年7月2日開幕
   - [將軍澳](../Page/將軍澳.md "wikilink")[PopCorn 2](../Page/PopCorn_2.md "wikilink") G51號舖，於2013年1月11日開幕
-  - [荃灣](../Page/荃灣.md "wikilink")[荃新天地](../Page/荃新天地.md "wikilink")第二期，於2013年11月15日開幕
+  - [荃灣](../Page/荃灣.md "wikilink")[荃新天地](../Page/荃新天地.md "wikilink")第二期(前順豐軒中餐廳)，於2013年11月15日開幕
   - [落禾沙](../Page/落禾沙.md "wikilink")[迎海](../Page/迎海.md "wikilink")商場[迎海薈地下](https://zh.wikipedia.org/wiki/迎海薈 "wikilink")，於2014年5月30日開幕
   - [東涌海濱路](https://zh.wikipedia.org/wiki/東涌 "wikilink")12號[藍天海岸](../Page/藍天海岸.md "wikilink")商場（前[惠康](../Page/惠康.md "wikilink")超級市場）
   - [錦田](../Page/錦田.md "wikilink")映河路1號[爾巒](../Page/爾巒.md "wikilink")商場，佔地約8500平方呎，於2014年12月1日開幕
@@ -71,7 +71,7 @@ Market Place by Jasons走中檔連鎖超級市場的路線，其主要對手有[
   - [西貢](https://zh.wikipedia.org/wiki/西貢 "wikilink")[匡湖居購物商場](https://zh.wikipedia.org/wiki/匡湖居 "wikilink")，（前[惠康](../Page/惠康.md "wikilink")超級市場），於2016年12月16日開幕
   - [荃灣](../Page/荃灣.md "wikilink")[中國染廠大廈](../Page/中國染廠大廈.md "wikilink")[8咪半](https://zh.wikipedia.org/wiki/8咪半 "wikilink")，於2017年8月4日開幕
   - [東涌](https://zh.wikipedia.org/wiki/東涌 "wikilink")[富東邨](../Page/富東邨.md "wikilink")[富東廣場](https://zh.wikipedia.org/wiki/富東廣場 "wikilink")（前[惠康](../Page/惠康.md "wikilink")超級市場），於2017年11月10日開幕
-  - [馬鞍山](https://zh.wikipedia.org/wiki/馬鞍山 "wikilink")[新港城中心](../Page/新港城中心.md "wikilink")，於2017年11月10日開幕
+  - [馬鞍山](https://zh.wikipedia.org/wiki/馬鞍山 "wikilink")[新港城中心](../Page/新港城中心.md "wikilink")(前千色百貨部分)，於2017年11月10日開幕
 
 ## [中國大陆分店](https://zh.wikipedia.org/wiki/中國大陆 "wikilink")
 

@@ -73,7 +73,7 @@ Wings 3D使用上下文相关的菜单，而不是更为图形化、有图标的
 
   - [Wings3d.de | The German language Wings 3D Community](http://www.wings3d.de/)
 
-  - [The Brazilian language Wings 3D Community](http://www.wings3d.com.br/)
+  - [The Brazilian language Wings 3D Community](https://web.archive.org/web/20070114050805/http://www.wings3d.com.br/)
 
   - [Wings 3D](https://zh.wikipedia.org/wiki/Unreal:_Wings3D "wikilink") on the BeyondUnreal.com Wiki
 

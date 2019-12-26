@@ -34,6 +34,6 @@
 
   - [HTC](http://www.htc.com/)
   - [Qtek](https://web.archive.org/web/20080707182953/http://www.myqtek.com/)
-  - [Dopod](http://www.dopod.com/)
+  - [Dopod](https://web.archive.org/web/20080708173628/http://www.dopod.com/)
 
 [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")

@@ -1,6 +1,10 @@
-**[DHL](../Page/DHL.md "wikilink")年度救援王**（**DHL Presents the Delivery Man Of The Year Award**）\[1\]是[美國職棒大聯盟的獎項之一](https://zh.wikipedia.org/wiki/美國職棒大聯盟 "wikilink")，由美國公司[DHL](../Page/DHL.md "wikilink")所贊助，專門頒給良好表現的[救援投手](https://zh.wikipedia.org/wiki/救援投手 "wikilink")，是一種由球迷投票所產的獎項。這個獎項在2005年第一次頒發，得獎者是[紐約洋基](../Page/紐約洋基.md "wikilink")的[馬里安諾·李维拉](https://zh.wikipedia.org/wiki/馬里安諾·李维拉 "wikilink")，當前的年度得主是在2012年所頒給[坦帕灣光芒](../Page/坦帕灣光芒.md "wikilink")的[費南多·羅尼](../Page/費南多·羅尼.md "wikilink")、單月得主則為[2013年5月](../Page/2013年5月.md "wikilink")所表揚給[匹茲堡海盜](../Page/匹茲堡海盜.md "wikilink")的。其中單月的獎項為**DHL單月救援王**（DHL Presents the Delivery Man of the Month Award）是在季中頒發，且不像年度救援王獎項為球迷投票，是由[丹尼斯·艾克斯利](../Page/丹尼斯·艾克斯利.md "wikilink")、、和所組成的四人評審小組所選出的。
+**MLB年度救援王（MLB Reliever Of The Year Award）**2014年起代替 **[DHL](../Page/DHL.md "wikilink")年度救援王**（**DHL Presents the Delivery Man Of The Year Award**）\[1\]是[美國職棒大聯盟的獎項之一](https://zh.wikipedia.org/wiki/美國職棒大聯盟 "wikilink")，曾由美國公司[DHL](../Page/DHL.md "wikilink")所贊助，專門頒給良好表現的[救援投手](https://zh.wikipedia.org/wiki/救援投手 "wikilink")，是一種由球迷投票所產的獎項。這個獎項在2005年第一次頒發，得獎者是[紐約洋基](../Page/紐約洋基.md "wikilink")的[馬里安諾·李维拉](https://zh.wikipedia.org/wiki/馬里安諾·李维拉 "wikilink")，當前的年度得主是在2012年所頒給[坦帕灣光芒](../Page/坦帕灣光芒.md "wikilink")的[費南多·羅尼](../Page/費南多·羅尼.md "wikilink")、單月得主則為[2013年5月](../Page/2013年5月.md "wikilink")所表揚給[匹茲堡海盜](../Page/匹茲堡海盜.md "wikilink")的。其中單月的獎項為**DHL單月救援王**（DHL Presents the Delivery Man of the Month Award）是在季中頒發，且不像年度救援王獎項為球迷投票，是由[丹尼斯·艾克斯利](../Page/丹尼斯·艾克斯利.md "wikilink")、、和所組成的四人評審小組所選出的。
+
+2014年改制後，把獎項分為[李維拉獎](https://zh.wikipedia.org/wiki/馬里安諾·李維拉 "wikilink") （[美聯](https://zh.wikipedia.org/wiki/美國聯盟 "wikilink")）和[赫夫曼獎](https://zh.wikipedia.org/wiki/崔佛·赫夫曼 "wikilink") （[國聯](../Page/國際聯盟_\(棒球\).md "wikilink")），沒有贊助商。歷年得主多是[終結者](../Page/终结者.md "wikilink")，唯一一位非終結者是[賈許·海德](https://zh.wikipedia.org/wiki/賈許·海德 "wikilink")。海德在2018年以[佈局投手](../Page/佈局投手.md "wikilink")拿下赫夫曼獎，2019年以終結者身份蟬聯該獎項。[克雷格·金布雷爾](../Page/克雷格·金布雷爾.md "wikilink")是唯一一位球員拿下DHL救援王獎 （2013）、赫夫曼獎 （2014，效力[亞特蘭大勇士](../Page/亞特蘭大勇士.md "wikilink")隊） 和李維拉獎（2017，效力[波士頓紅襪](../Page/波士頓紅襪.md "wikilink")隊）
 
 ## 年度得主
+
+#### DHL 救援王獎 （2005－2014）
 
   - 2005年－[馬里安諾·李維拉](https://zh.wikipedia.org/wiki/馬里安諾·李維拉 "wikilink")
   - 2006年－[馬里安諾·李维拉](https://zh.wikipedia.org/wiki/馬里安諾·李维拉 "wikilink")(2)\[2\]
@@ -12,7 +16,27 @@
   - 2012年－[費南多·羅尼](../Page/費南多·羅尼.md "wikilink")
   - 2013年－[克雷格·金布雷爾](../Page/克雷格·金布雷爾.md "wikilink")
 
-## 單月得主
+#### MLB 年度救援王獎 （2014至今）
+
+###### 赫夫曼獎 （國聯）
+
+  - 2014年 －克雷格·金布雷爾
+  - 2015年 －[馬克·梅蘭森](../Page/馬克·梅蘭森.md "wikilink")
+  - 2016年 － [肯利·簡森](../Page/肯利·簡森.md "wikilink")
+  - 2017年 － 肯利·簡森 (2)
+  - 2018年 － [賈許·海德](https://zh.wikipedia.org/wiki/賈許·海德 "wikilink") ([佈局投手](../Page/佈局投手.md "wikilink"))
+  - 2019年 － 賈許·海德 （終結者，2）
+
+###### 李維拉獎 （美聯）
+
+  - 2014年 －Greg Holland
+  - 2015年 －[安德魯·米勒](../Page/安德魯·米勒_\(棒球員\).md "wikilink")
+  - 2016年 － [查克·布里頓](../Page/查克·布里頓.md "wikilink")
+  - 2017年 － 克雷格·金布雷爾 (2)
+  - 2018年 － Edwin Díaz
+  - 2019年 － [阿羅魯迪斯·查普曼](https://zh.wikipedia.org/wiki/阿羅魯迪斯·查普曼 "wikilink")
+
+##### 單月得主
 
 <table>
 <thead>

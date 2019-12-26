@@ -50,15 +50,24 @@
 ## 其他
 
   - J，[大麻](../Page/大麻.md "wikilink")的俗称
+
   - J[频段](https://zh.wikipedia.org/wiki/频段 "wikilink")，10-20[GHz的](https://zh.wikipedia.org/wiki/GHz "wikilink")[无线电波频段](https://zh.wikipedia.org/wiki/无线电波 "wikilink")
+
   - [J (迷幻药)](https://zh.wikipedia.org/wiki/J_\(迷幻药\) "wikilink")
-  - [J线](../Page/紐約地鐵J線與Z線.md "wikilink")，一条[纽约地铁线路](https://zh.wikipedia.org/wiki/纽约地铁 "wikilink")
-  - “The J”，指[芝加哥](../Page/芝加哥.md "wikilink")铁路“”
+
+  - [J线](https://zh.wikipedia.org/wiki/J线 "wikilink")，多个国家交通系统路线
+
   - J，[国际汽车牌照中](https://zh.wikipedia.org/wiki/車輛註冊號牌 "wikilink")[日本](../Page/日本.md "wikilink")（Japan）的代码
+
   - J，[魁北克西北地区的](https://zh.wikipedia.org/wiki/魁北克 "wikilink")[邮政编码](../Page/邮政编码.md "wikilink")
+
   - J，代表[德国](../Page/德国.md "wikilink")[汉堡](../Page/汉堡.md "wikilink")的硬币[刻印](https://zh.wikipedia.org/wiki/刻印 "wikilink")
+
   - J，[雅威典](../Page/雅威典.md "wikilink")，《[摩西五经](../Page/摩西五经.md "wikilink")》的主要文本来源之一
+
   - [Ϳ](../Page/Ϳ.md "wikilink")，近现代学者用来模拟原始希腊语发音的特殊字母。
+
+  - ，位于日本福岛县楢叶町和广野町的足球场
 
 ## 参见
 

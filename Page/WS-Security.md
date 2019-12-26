@@ -6,7 +6,7 @@ WS-Security是最初[IBM](../Page/IBM.md "wikilink")，[微软](../Page/微软.m
 
 WS-Security描述了如何将签名和加密头加入SOAP消息。除此以外，还描述了如何在消息中加入[安全令牌](https://zh.wikipedia.org/wiki/安全令牌 "wikilink")，包括二进制安全令牌，如X.509认证证书和Kerberos门票（ticket）。
 
-WS-Security将安全特性放入一个[SOAP消息的消息头中](https://zh.wikipedia.org/wiki/SOAP "wikilink")，在[应用层处理](https://zh.wikipedia.org/wiki/应用层 "wikilink")。这样协议保证了端到端的安全。
+WS-Security将安全特性放入一个[SOAP消息的消息头中](https://zh.wikipedia.org/wiki/SOAP "wikilink")，在[应用层](../Page/应用层.md "wikilink")处理。这样协议保证了端到端的安全。
 
 WS主要是可利用HTTP，穿透防火墙。而Remoting可以利用TCP/IP，二进制传送提高效率。
 

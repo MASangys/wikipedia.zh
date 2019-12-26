@@ -86,9 +86,6 @@
 [Category:香港廣播主持人](https://zh.wikipedia.org/wiki/Category:香港廣播主持人 "wikilink") [Category:香港主持人](https://zh.wikipedia.org/wiki/Category:香港主持人 "wikilink") [Category:拔萃男書院校友](https://zh.wikipedia.org/wiki/Category:拔萃男書院校友 "wikilink") [Category:多倫多大學校友](https://zh.wikipedia.org/wiki/Category:多倫多大學校友 "wikilink") [Category:ViuTV電視藝員](https://zh.wikipedia.org/wiki/Category:ViuTV電視藝員 "wikilink") [Category:曾姓](https://zh.wikipedia.org/wiki/Category:曾姓 "wikilink")
 
 1.  非常人語 -- 阿蘇好帶挈 -- 泰山 壹周刊 982期
-
 2.  [老聽眾踩場 罵商台貪錢](http://www1.hk.apple.nextmedia.com/realtime/art_main.php?iss_id=20100502&sec_id=6996647&art_id=13988278) 蘋果日報 即時港聞 2010年5月2日
-
 3.
-
 4.

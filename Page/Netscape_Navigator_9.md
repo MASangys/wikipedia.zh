@@ -1,6 +1,6 @@
 **Netscape Navigator 9**是[網景領航員](https://zh.wikipedia.org/wiki/網景領航員 "wikilink")[瀏覽器最後的版本](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")，由美國線上旗下的網景製作。
 
-自2004年將第8版的[Netscape Browser委交Mercurial](../Page/Netscape_Browser.md "wikilink") Communications製作以來，第一個重回網景製作的版本\[1\]。Netscape Navigator 9重回最早Navigator的名稱，此名稱曾經被用於Netscape 1到4.08之間，當時的官方翻譯名稱即是「[網景領航員](https://zh.wikipedia.org/wiki/網景領航員 "wikilink")」\[2\]。
+自2004年將第8版的[Netscape Browser委交Mercurial](../Page/Netscape_Browser.md "wikilink") Communications製作以來，第一個重回網景製作的版本\[1\]。Netscape Navigator 9重回最早Navigator的名稱，此名稱曾經被用於Netscape 1到3.0之間，當時的官方翻譯名稱即是「[網景領航員](https://zh.wikipedia.org/wiki/網景領航員 "wikilink")」\[2\]。
 
 ## 特點
 
@@ -44,11 +44,6 @@ Netscape Navigator 9 Beta版中有對於[消息來源](../Page/消息來源.md "
 
 ## 參考文獻
 
-## 外部連結
-
-  - [MozTW的Netscape討論版](http://forum.moztw.org/viewforum.php?f=5)
-  - [MozTW的Netscape FAQ頁面](http://wiki.moztw.org/index.php/Netscape_FAQ)
-
 ## 相關文章
 
   - [Netscape](https://zh.wikipedia.org/wiki/Netscape "wikilink")
@@ -58,48 +53,33 @@ Netscape Navigator 9 Beta版中有對於[消息來源](../Page/消息來源.md "
   - [网页浏览器列表](../Page/网页浏览器列表.md "wikilink")
   - [网页浏览器比较](../Page/网页浏览器比较.md "wikilink")
 
+## 外部連結
+
+  - [Netscape Navigator 9最终版本](http://www.oldversion.com/windows/netscape/)
+  - [MozTW的Netscape討論版](http://forum.moztw.org/viewforum.php?f=5)
+  - [MozTW的Netscape FAQ頁面](http://wiki.moztw.org/index.php/Netscape_FAQ)
+
 [Category:基於Mozilla_Firefox的網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:基於Mozilla_Firefox的網頁瀏覽器 "wikilink") [Category:Netscape](https://zh.wikipedia.org/wiki/Category:Netscape "wikilink") [Category:2007年軟體](https://zh.wikipedia.org/wiki/Category:2007年軟體 "wikilink") [Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink")
 
 1.
-
 2.
-
 3.  [Netscape 9－2007年1月23日通告](https://web.archive.org/web/20071015194947/http://community.netscape.com/n/pfx/forum.aspx?tsn=1&nav=messages&webtag=ws-nscpbrowser&tid=6418) 造訪於 2007年[1月24日](../Page/1月24日.md "wikilink")
-
 4.  [Netscape 9－2007年2月20日通告](https://web.archive.org/web/20071015195013/http://community.netscape.com/n/pfx/forum.aspx?tsn=1&nav=messages&webtag=ws-nscpbrowser&tid=6926) 造訪於 2007年[2月20日](../Page/2月20日.md "wikilink")
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.

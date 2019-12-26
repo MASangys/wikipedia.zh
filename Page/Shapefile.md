@@ -263,10 +263,7 @@ Shapefile无法存储拓扑信息。在ESRI的文件格式中，ArcInfo 的Cover
 [Category:公开格式](https://zh.wikipedia.org/wiki/Category:公开格式 "wikilink") [Category:GIS向量文件格式](https://zh.wikipedia.org/wiki/Category:GIS向量文件格式 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.

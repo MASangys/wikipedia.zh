@@ -33,13 +33,9 @@ ATP原型機於1986年8月6日首飛，1988年3月和8月分別得到歐美適�
 [Category:支线客机](https://zh.wikipedia.org/wiki/Category:支线客机 "wikilink") [Category:英国宇航飞机](https://zh.wikipedia.org/wiki/Category:英国宇航飞机 "wikilink") [Category:英国民航机](https://zh.wikipedia.org/wiki/Category:英国民航机 "wikilink")
 
 1.  [Airliners.net](http://www.airliners.net/aircraft-data/stats.main?id=58)
-
 2.
-
 3.  [Arospace Technology](http://www.aerospace-technology.com/projects/bae_atp/)
-
 4.
 5.
 6.  [BAe System](http://www.regional-services.com/pdf/ATPF_Technical_Data_-_at_a_glance__April_2004.pdf)
-
 7.  [BAe System](http://www.regional-services.com/pdf/BAe_ATP_General_data_brochure.pdf)

@@ -215,11 +215,7 @@
 [Category:2009年UHF動畫](https://zh.wikipedia.org/wiki/Category:2009年UHF動畫 "wikilink")
 
 1.  漫画和动画设定的年份不同，此为漫画内的年份，下同
-
 2.  漫画内为骨折，动画内为[韧带断裂](https://zh.wikipedia.org/wiki/韧带 "wikilink")
-
 3.  漫画中是因为迷路了要找人问路，动画中是为了避雨
-
 4.  漫畫第一冊第5頁。
-
 5.

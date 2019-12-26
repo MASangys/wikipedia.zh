@@ -38,31 +38,20 @@
 [Category:太陽系外行星](https://zh.wikipedia.org/wiki/Category:太陽系外行星 "wikilink") [Category:2008年發現的系外行星](https://zh.wikipedia.org/wiki/Category:2008年發現的系外行星 "wikilink") [Category:類木行星](https://zh.wikipedia.org/wiki/Category:類木行星 "wikilink") [Category:南魚座](https://zh.wikipedia.org/wiki/Category:南魚座 "wikilink") [Category:直接影像法發現的系外行星](https://zh.wikipedia.org/wiki/Category:直接影像法發現的系外行星 "wikilink")
 
 1.
-
 2.
-
 3.  <http://astro.berkeley.edu/~echiang/fomalhaut/fom.html，於2009年4月16日查閱>。
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
 11. Predictions for a planet just inside Fomalhaut's eccentric ring, Alice C. Quillen, *Monthly Notices of the Royal Astronomical Society*, **372**, \#1 (October 2006), pp. L14–L18, , .
-
 12.
-
 13.
 14.
 15.
-
 16.
 17.
 18.

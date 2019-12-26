@@ -43,18 +43,11 @@ Turtle Rock工作室最有名的作品為[Valve公司的](https://zh.wikipedia.o
 [Category:2002年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2002年開業電子遊戲公司 "wikilink") [Category:威爾烏](https://zh.wikipedia.org/wiki/Category:威爾烏 "wikilink") [Category:THQ](https://zh.wikipedia.org/wiki/Category:THQ "wikilink") [Category:Take-Two_Interactive的部门与子公司](https://zh.wikipedia.org/wiki/Category:Take-Two_Interactive的部门与子公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:加利福尼亞州公司](https://zh.wikipedia.org/wiki/Category:加利福尼亞州公司 "wikilink") [Category:2002年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2002年加利福尼亞州建立 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.  [New Turtle Rock Studios Game In The Works](http://www.gamasutra.com/view/news/27712/New_Turtle_Rock_Studios_Game_In_The_Works.php)
-
 6.
-
 7.
-
 8.  <http://twitter.com/TurtleRockGang/status/127074749884006403>''Yes, its ** all true. We are using CryEngine 3 for our next title...''
-
 9.

@@ -34,7 +34,7 @@ khara的[假名是](https://zh.wikipedia.org/wiki/假名 "wikilink")「」，与
   - 动画电影  （2011年・BigWest）
   - [OVA](https://zh.wikipedia.org/wiki/OVA "wikilink") [机动战士鋼彈UC](https://zh.wikipedia.org/wiki/机动战士鋼彈UC "wikilink") episode 3 （2011年・[日升动画](https://zh.wikipedia.org/wiki/日升动画 "wikilink")）
   - 动画电影 [攻壳机动队 S.A.C. Solid State Society 3D](../Page/攻壳机动队_S.A.C._Solid_State_Society.md "wikilink")（2011年・[Production I.G](../Page/Production_I.G.md "wikilink")）
-  - 动画电影 [来自虞美人之坡](https://zh.wikipedia.org/wiki/来自虞美人之坡 "wikilink")（2011年・吉卜力工作室）
+  - 动画电影 [紅花坂上的海](https://zh.wikipedia.org/wiki/紅花坂上的海 "wikilink")（2011年・吉卜力工作室）
 
 ## 相关人物
 

@@ -712,11 +712,7 @@ LASM-34178/79（Type B）</p></td>
 1.
 2.
 3.  關西電台節目《》第22集
-
 4.  『ミュージックレインgirls 春のチョコまつり』での発言及び、『[鷲崎健の超ラジ\!](https://zh.wikipedia.org/wiki/鷲崎健の超ラジ! "wikilink")』第111回放送より。
-
 5.  各成員在網路電台節目「Pl@net Sphere」第19回時談到舉辦活動時參與者使用的[螢光棒](../Page/螢光棒.md "wikilink")的顏色，同時決定自己和團體的代表顏色。此後，於2009年8月30日舉行的活動『Shake X Sphere（シェイクスフィア）〜夏の夜の夢〜』中，開始使用這些代表顏色。
-
 6.
-
 7.  以「[HoneyWorks](../Page/HoneyWorks.md "wikilink") meets Sphere」名義發售。

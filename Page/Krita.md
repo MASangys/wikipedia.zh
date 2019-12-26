@@ -141,7 +141,7 @@ Krita的原生文件格式是Krita Document，扩展名是.kra。它也可以打
 
 ### 吉祥物
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Krita_steam_boxart_Feb_2014.png "fig:缩略图") Krita的[吉祥物是电子松鼠Kiki](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")（Kiki the Cyber Squirrel），她是一位拟人化的机械[松鼠](../Page/松鼠.md "wikilink")卡通角色，设计者是来自中国的钛山（Tyson Tan）。Krita社区之所以选择了一只松鼠作为吉祥物，是因为在[阿尔巴尼亚语](../Page/阿尔巴尼亚语.md "wikilink")中Krita的意思是松鼠。Kiki的首版设计在2012年在KDE社区论坛上投稿，被印在Krita 2.6版的介绍小册子上。\[8\]自2.8版开始Kiki开始作为Krita的启动画面，\[9\]\[10\]迄今为止每个新版本的Krita都会有一个新的Kiki设计。Kiki的商品被放在Krita的筹款商店里出售，\[11\]Kiki的形象也被用在Krita的Steam项目里。\[12\]\[13\]
+[缩略图](https://zh.wikipedia.org/wiki/File:Krita_steam_boxart_Feb_2014.png "fig:缩略图") Krita的[吉祥物是电子松鼠Kiki](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")（Kiki the Cyber Squirrel），她是一位拟人化的机械[松鼠](../Page/松鼠.md "wikilink")卡通角色，设计者是来自中国的[钛山](https://zh.wikipedia.org/wiki/谭代山 "wikilink")（Tyson Tan）。Krita社区之所以选择了一只松鼠作为吉祥物，是因为在[阿尔巴尼亚语](../Page/阿尔巴尼亚语.md "wikilink")中Krita的意思是松鼠。Kiki的首版设计在2012年在KDE社区论坛上投稿，被印在Krita 2.6版的介绍小册子上。\[8\]自2.8版开始Kiki开始作为Krita的启动画面，\[9\]\[10\]迄今为止每个新版本的Krita都会有一个新的Kiki设计。Kiki的商品被放在Krita的筹款商店里出售，\[11\]Kiki的形象也被用在Krita的Steam项目里。\[12\]\[13\]
 
 ## Krita开发人员碰头会
 
@@ -183,42 +183,23 @@ Krita的开发人员遍及世界各地，每隔一两年他们会设法找一个
 [Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink") [Category:KOffice](https://zh.wikipedia.org/wiki/Category:KOffice "wikilink") [Category:Calligra_Suite](https://zh.wikipedia.org/wiki/Category:Calligra_Suite "wikilink") [Category:自由圖像軟件](https://zh.wikipedia.org/wiki/Category:自由圖像軟件 "wikilink") [Category:點陣圖編輯軟體](https://zh.wikipedia.org/wiki/Category:點陣圖編輯軟體 "wikilink") [Category:繪圖軟體](https://zh.wikipedia.org/wiki/Category:繪圖軟體 "wikilink") [Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink")
 
 1.
-
 2.   Krita|accessdate=2017-07-23|last=Foundation|first=Krita|work=krita.org|language=en-US}}
-
 3.
 4.
-
 5.
-
 6.
-
 7.   Krita|last=Foundation|first=Krita|language=en-US|website=krita.org|access-date=2017-07-22}}
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.  Krita|last=Foundation|first=Krita|language=en-US|website=krita.org|access-date=2017-07-23}}
-
 19.  Krita|last=Foundation|first=Krita|language=en-US|website=krita.org|access-date=2017-07-23}}
-
 20.  Krita|last=Foundation|first=Krita|language=en-US|website=krita.org|access-date=2017-07-23|archive-url=[https://web.archive.org/web/20170809212501/https://krita.org/en/download/krita-gemini/|archive-date=2017-08-09|dead-url=yes](https://web.archive.org/web/20170809212501/https://krita.org/en/download/krita-gemini/%7Carchive-date=2017-08-09%7Cdead-url=yes)}}
-
 21.  Krita|last=Foundation|first=Krita|language=fr|website=krita.org|access-date=2017-07-23}}

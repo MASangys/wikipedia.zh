@@ -27,7 +27,5 @@ Sony曾對bleem\!作出起訴，控告bleem\!侵權，指其產品讓用者在�
 [Category:遊戲機模擬器](https://zh.wikipedia.org/wiki/Category:遊戲機模擬器 "wikilink")
 
 1.
-
 2.
-
 3.

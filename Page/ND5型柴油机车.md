@@ -93,28 +93,18 @@ ND5型机车并设有较完善的电子恒功率励磁控制系统（CHEC）、�
 [Category:中國柴油機車](https://zh.wikipedia.org/wiki/Category:中國柴油機車 "wikilink") [Category:GE制铁路机车](https://zh.wikipedia.org/wiki/Category:GE制铁路机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink") [Category:中国铁路上海局集团有限公司](https://zh.wikipedia.org/wiki/Category:中国铁路上海局集团有限公司 "wikilink") [Category:济南铁路局](https://zh.wikipedia.org/wiki/Category:济南铁路局 "wikilink") [Category:中国铁路沈阳局集团有限公司](https://zh.wikipedia.org/wiki/Category:中国铁路沈阳局集团有限公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
 11.
 12.
-
 13.
-
 14.
 15.
-
 16.

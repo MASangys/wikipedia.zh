@@ -100,72 +100,41 @@ HFE遺傳性血色病的普遍成因是C282Y的突變，即282點的[胱氨酸](
 [Category:铁代谢](https://zh.wikipedia.org/wiki/Category:铁代谢 "wikilink") [Category:遗传病](https://zh.wikipedia.org/wiki/Category:遗传病 "wikilink") [Category:胃肠病学](https://zh.wikipedia.org/wiki/Category:胃肠病学 "wikilink") [Category:血液学](https://zh.wikipedia.org/wiki/Category:血液学 "wikilink") [Category:肝脏病学](https://zh.wikipedia.org/wiki/Category:肝脏病学 "wikilink") [Category:关节炎](https://zh.wikipedia.org/wiki/Category:关节炎 "wikilink") [Category:人体色素沉着紊乱](https://zh.wikipedia.org/wiki/Category:人体色素沉着紊乱 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.  [Biography of Daniel von Recklinghausen](http://www.whonamedit.com/doctor.cfm/1174.html)
-
 10.
 11.
 12.
-13. [Hemochromatosis](http://digestive.niddk.nih.gov/ddiseases/pubs/hemochromatosis/index.htm) National Digestive Diseases Information Clearinghouse, National Institutes of Health, U.S. Department of Health and Human Services
-
+13. [Hemochromatosis](http://digestive.niddk.nih.gov/ddiseases/pubs/hemochromatosis/index.htm)  National Digestive Diseases Information Clearinghouse, National Institutes of Health, U.S. Department of Health and Human Services
 14.
-
-15. [Hemochromatosis-Diagnosis](http://digestive.niddk.nih.gov/ddiseases/pubs/hemochromatosis/index.htm) National Digestive Diseases Information Clearinghouse, National Institutes of Health, U.S. Department of Health and Human Services
-
+15. [Hemochromatosis-Diagnosis](http://digestive.niddk.nih.gov/ddiseases/pubs/hemochromatosis/index.htm)  National Digestive Diseases Information Clearinghouse, National Institutes of Health, U.S. Department of Health and Human Services
 16.
-
 17.
 18.
-
 19.
-
 20.
-
-21. [Transferrin and Iron Transport Physiology](http://sickle.bwh.harvard.edu/iron_transport.html)
-
+21.
 22.
-
 23.
-
 24.
 25.
-
 26.
 27.
-
 28.
-
 29.
-
 30.
-
 31. <http://dynaweb.ebscohost.com/Detail.aspx?id=116469&sid=14aa79e5-a881-407c-94e7-339b81c4cd18@sessionmgr3> accessed 2008-10-15
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
 38.
-
 39.

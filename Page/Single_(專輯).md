@@ -34,6 +34,6 @@
 
 1.
 2.
-3.  <http://news.sina.com.hk/cgi-bin/news/show_news.cgi?date=2005-12-31&type=entertain&id=1645849&ct=entertain>
-4.  <http://www.mingpaoweekly.com/showbiz2005/frame.cfm?path=f.htm>
+3.
+4.
 5.  <http://www.epochtimes.com/b5/5/4/19/n893130.htm>

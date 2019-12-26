@@ -195,7 +195,7 @@
   -
     Decade可以用此類卡片變身為卡片所對應的假面騎士，也可以直接變化成不同形態的假面騎士。
     卡片音效為KAMAN RIDE+騎士稱謂＋型態名稱。（若無型態變化就不會再追加型態名稱的音效）
-    例如1:在Decade變身時的音效為-{Kamen Rride Decade}-。
+    例如1:在Decade變身時的音效為-{Kamen Ride Decade}-。
     例如2:使用Kamen Ride Faiz Accel;卡，可以直接變身-{Decade Faiz Accel Form}-
     在BLACK篇，門矢士得到KAMAN RIDE BLACK卡，海東大樹一手搶去，並說：士，這張卡你是沒辦法用的，因为在当时由Diend召唤会比Decade变身更加有利于战局。而后来於[假面騎士x超級戰隊 超級英雄大戰中](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")，Decade成功變身成1號，所以Decade是能變身成平成系以外的假面騎士。另外，玩具也可以變身成平成系以外的假面騎士。
 
@@ -2204,30 +2204,17 @@ Black×Black RX</p></td>
 [Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink") [Category:假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列跨界作品 "wikilink") [Category:平行世界題材電視劇](https://zh.wikipedia.org/wiki/Category:平行世界題材電視劇 "wikilink") [Category:2008年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2008年日本電視劇集 "wikilink") [Category:平成假面騎士系列](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列 "wikilink") [Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:卡片題材作品](https://zh.wikipedia.org/wiki/Category:卡片題材作品 "wikilink")
 
 1.  八手三郎:《[侍戰隊真劍者](../Page/侍戰隊真劍者.md "wikilink")》
-
 2.  例如被Diend召喚出場、或者电王里面异魔神附身过骑士，或是Decade用卡片变假面骑士形态的样子也算，夏海夢中見到的假面騎士和自結界出現的假面騎士，請自行觀看Diend的Kamen Ride卡、上方的鳴瀧和夏海夢中見到的假面騎士。
-
 3.  護星卡。
-
 4.  在劇中，-{Kivat}-三世大叫「Kiva 上吧！」是-{Kivat}-三世原有的風格，與咭片效力無關
-
 5.  劇中劍刃與Kuuga Gouram連接，令攻擊強化了。是編審因為電王篇而特別作出的搞笑效果，而不是卡片效果。
-
 6.  劇中使用的咭片為Diend的Kamen Ride -{Diend}-（非強化版），但聲效則是Final Attack Ride di..di..di..-{Diend}-
-
 7.  以能力上來說實際上最強形態應是Super Climax Form，但由於其沒有在TV版出現，加上其初登場的劇場在Decade開播後才公映，登時大概已完成Final Kamen Ride的設定，故TV版中依然以Liner Form為Den-O的最終形態，到第三劇場版時刀加入Super Climax Form的卡片。
-
 8.
 9.  只能在發動過後現形才能作出攻擊。
-
 10. 這個順序是平成騎士系列播出時的順序
-
 11. 在二十九話中，並沒有讀出-{「Agito」}-與-{「Hibiki」}-的聲效，而且在三十話時更略過了全部變身聲效，直接發出的「Ryuki」召喚聲效
-
 12. 編劇小林靖子本人的想法是以原作的延續來編制劇情的（包括劇場版），至於桃塔羅斯（Momotaros）是否算作主角騎士，其中請參看（[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")）。有傳言是因為請不到飾演野上良太郎（成年版）的佐藤健而令小林靖子出此下策。
-
 13. 6月21日，停播一次
-
 14. 役自体は異なるが、ファンガイアのクイーンという立場は『仮面ライダーキバ』の鈴木深央役と共通する。
-
 15. ビートルファンガイア、パラドキサアンデッド、タイガーオルフェノク、バッファローロード タウルス・バリスタ、アリゲーターイマジン、フィロキセラワームの6体のみ。

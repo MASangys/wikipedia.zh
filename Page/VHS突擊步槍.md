@@ -1,6 +1,6 @@
 **VHS**（，，意為：克羅地亞製多用途機槍）是一系列由[克罗地亚](../Page/克罗地亚.md "wikilink")槍械製造商公司研製及生產的[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")，發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
-VHS突擊步槍首次在2007年的[iKA展覽之中展出](https://zh.wikipedia.org/wiki/iKA展覽 "wikilink")，每年克羅地亞的資料顯示，在[卡爾洛瓦茨市中展出](https://zh.wikipedia.org/wiki/卡爾洛瓦茨 "wikilink")。\[1\]開發的原因是因為[克羅地亞軍隊的一份招標](../Page/克羅埃西亞軍事.md "wikilink")，需要按照著[北約標準設計的新式單兵步槍裝備](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，並且預計會在2012年將克羅地亞軍隊所裝備的各種[AK-47的衍生型](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")（包括[扎斯塔瓦M70](../Page/扎斯塔瓦M70突擊步槍.md "wikilink")、[APS-95](../Page/APS-95突擊步槍.md "wikilink")）全部取代。
+VHS突擊步槍首次在2007年的[iKA展覽之中展出](https://zh.wikipedia.org/wiki/iKA展覽 "wikilink")，每年克羅地亞的資料顯示，在[卡爾洛瓦茨市中展出](https://zh.wikipedia.org/wiki/卡爾洛瓦茨 "wikilink")。\[1\]開發的原因是因為[克羅地亞軍隊的一份招標](../Page/克羅埃西亞軍事.md "wikilink")，需要按照著[北約標準設計的新式單兵步槍裝備](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，並且預計會在2012年將克羅地亞軍隊所裝備的各種[AK的衍生型](https://zh.wikipedia.org/wiki/卡拉什尼科夫自動步槍 "wikilink")（包括[扎斯塔瓦M70](../Page/扎斯塔瓦M70突擊步槍.md "wikilink")、[APS-95](../Page/APS-95突擊步槍.md "wikilink")）全部取代。
 
 [2013年4月](../Page/2013年4月.md "wikilink")，HS Produkt公司推出一款全新的改進型版本，並且命名為**VHS-2**。
 
@@ -8,7 +8,7 @@ VHS突擊步槍首次在2007年的[iKA展覽之中展出](https://zh.wikipedia.o
 
 ### 發展
 
-1990年代初期的[克羅埃西亞戰爭使](https://zh.wikipedia.org/wiki/克羅埃西亞戰爭 "wikilink")[克罗地亚](../Page/克罗地亚.md "wikilink")成功脫離[前南斯拉夫聯邦得以獨立](../Page/南斯拉夫社会主义联邦共和国.md "wikilink")。在該戰爭期間，[克羅地亞軍隊主要使用武器為前南斯拉夫聯邦時期的各種](../Page/克羅埃西亞軍事.md "wikilink")[AK-47的衍生型](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")（包括[扎斯塔瓦M70](../Page/扎斯塔瓦M70突擊步槍.md "wikilink")、[APS-95](../Page/APS-95突擊步槍.md "wikilink")）；一些民兵或[特種部隊](../Page/特種部隊.md "wikilink")單位也使用了[FN FAL或是](../Page/FN_FAL自動步槍.md "wikilink")[SAR 80參戰](../Page/SAR_80突擊步槍.md "wikilink")。
+1990年代初期的[克羅埃西亞戰爭使](https://zh.wikipedia.org/wiki/克羅埃西亞戰爭 "wikilink")[克罗地亚](../Page/克罗地亚.md "wikilink")成功脫離[前南斯拉夫聯邦得以獨立](../Page/南斯拉夫社会主义联邦共和国.md "wikilink")。在該戰爭期間，[克羅地亞軍隊主要使用武器為前南斯拉夫聯邦時期的各種](../Page/克羅埃西亞軍事.md "wikilink")[AK的衍生型](https://zh.wikipedia.org/wiki/卡拉什尼科夫自動步槍 "wikilink")（包括[扎斯塔瓦M70](../Page/扎斯塔瓦M70突擊步槍.md "wikilink")、[APS-95](../Page/APS-95突擊步槍.md "wikilink")）；一些民兵或[特種部隊](../Page/特種部隊.md "wikilink")單位也使用了[FN FAL或是](../Page/FN_FAL自動步槍.md "wikilink")[SAR 80參戰](../Page/SAR_80突擊步槍.md "wikilink")。
 
 1992年，在克羅埃西亞戰爭期間，由克罗地亚的私有的工業零件公司：I.M.金屬工廠（現在名為HS Produkt）以下的[馬爾科·武科維奇](https://zh.wikipedia.org/wiki/馬爾科·武科維奇 "wikilink")（）領導的設計團隊正在開發新的[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")。它們首先製造出一枝犢牛式衍生型的7.62毫米[卡拉什尼科夫突擊步槍](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")。\[2\]\[3\]然而，這枝步槍有不少的設計缺陷，其中一個原因是由於I.M.金屬工廠的研發及生產技術能力有限，而另一個原因由於在克羅埃西亞戰爭期間，大部份的製造業都受到影響，質量是早期產品之中最大困擾的問題。但儘管如此，仍然為公司提供了寶貴的學習經驗，並且為後來新型步槍的研發奠定基礎。\[4\]\[5\]後來曾經在1996年，1999年和2004年展示過更多的原型槍。\[6\]在1990年代中期，就曾經對一枝[延遲後座的型號進行過測試](../Page/後座作用.md "wikilink")，但結果仍不能令人滿意，結果它被一種類似[M16步槍的設計所取代](../Page/M16突擊步槍.md "wikilink")。\[7\]
 
@@ -18,13 +18,13 @@ VHS突擊步槍首次在2007年的[iKA展覽之中展出](https://zh.wikipedia.o
 
 ### 通過
 
-2007年11月19日，[克羅地亞國防部訂購一批共](https://zh.wikipedia.org/wiki/克羅地亞國防部 "wikilink")50枝步槍給予在目前部署阿富汗的國際安全援助部隊的克羅地亞特遣隊以進行實戰測試。大規模生產將會在2008年年底開始，並進行現場測試，預計已經完成。其他國家，包括[科威特](../Page/科威特.md "wikilink")\[14\]和[委內瑞拉](../Page/委內瑞拉.md "wikilink")\[15\]已經表明有興趣購買一批VHS突擊步槍，因為HS Produkt的其中一種很流行的[手枪](../Page/手枪.md "wikilink")，[HS2000](../Page/HS2000手槍.md "wikilink")（在美國以春田XD手槍為名銷售）很受歡迎。
+2007年11月19日，[克羅地亞國防部訂購一批共](https://zh.wikipedia.org/wiki/克羅地亞國防部 "wikilink")50枝步槍給予在目前部署阿富汗的國際安全援助部隊的克羅地亞特遣隊以進行實戰測試。大規模生產將會在2008年年底開始，並進行現場測試，預計已經完成。其他國家，包括[科威特](../Page/科威特.md "wikilink")\[14\]和[委內瑞拉](../Page/委內瑞拉.md "wikilink")\[15\]已經表明有興趣購買一批VHS突擊步槍，因為HS Produkt的其中一種很流行的[手枪](../Page/手枪.md "wikilink")，[HS2000](https://zh.wikipedia.org/wiki/HS2000半自動手槍 "wikilink")（在美國以春田XD半自動手槍為名銷售）很受歡迎。
 
-2008年11月24日，公司介紹了當時VHS突擊步槍的最終版本。第一批共40枝步槍已出廠並且用於測試。最初的測試階段後，再生產了1,000 枝步槍。並且在2009年的首3個月由克羅地亞士兵進行其測試工作。在確定性能優秀以後，[克羅地亞軍隊再訂購另外](../Page/克羅埃西亞軍事.md "wikilink")2,000枝步槍投入服役。而到了2012年，VHS步槍成為克羅地亞軍隊的全新官方制式步槍；2013年，克羅地亞軍隊有3,600 枝VHS步槍正在服役；2014年底，最後一批2,000 枝步槍亦交付給克羅地亞軍隊，同時取代各種服役多年的[AK-47和](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")[AKM的衍生型](https://zh.wikipedia.org/wiki/AKM突击步枪 "wikilink")。
+2008年11月24日，公司介紹了當時VHS突擊步槍的最終版本。第一批共40枝步槍已出廠並且用於測試。最初的測試階段後，再生產了1,000 枝步槍。並且在2009年的首3個月由克羅地亞士兵進行其測試工作。在確定性能優秀以後，[克羅地亞軍隊再訂購另外](../Page/克羅埃西亞軍事.md "wikilink")2,000枝步槍投入服役。而到了2012年，VHS步槍成為克羅地亞軍隊的全新官方制式步槍；2013年，克羅地亞軍隊有3,600 枝VHS步槍正在服役；2014年底，最後一批2,000枝步槍亦交付給克羅地亞軍隊，同時取代各種服役多年的[AK和](https://zh.wikipedia.org/wiki/卡拉什尼科夫自動步槍 "wikilink")[AKM的衍生型](https://zh.wikipedia.org/wiki/AKM突击步枪 "wikilink")。
 
-根據克羅地亞軍隊的規定，他們要求17,000 枝全新的突擊步槍，但隨著VHS-2步槍的推出，極有可能會讓克羅地亞軍隊將會把所有的訂單都轉移到該步槍上。克羅地亞軍隊的一個長期的規定要求50,000突擊步槍，即使一直以來都沒有出口訂單，仍可確保VHS-2步槍的長期生產，但美國國防部已經提出訂購500 枝VHS步槍，未來的訂單數量有可能會提高。\[16\]
+根據克羅地亞軍隊的規定，他們要求17,000枝全新的突擊步槍，但隨著VHS-2步槍的推出，極有可能會讓克羅地亞軍隊將會把所有的訂單都轉移到該步槍上。克羅地亞軍隊的一個長期的規定要求50,000枝突擊步槍，即使一直以來都沒有出口訂單，仍可確保VHS-2步槍的長期生產，但美國國防部已經提出訂購500枝VHS步槍，未來的訂單數量有可能會提高。\[16\]
 
-2009年5月12日，時任[克羅地亞國防部長的](https://zh.wikipedia.org/wiki/克罗地亚国防部 "wikilink")[布兰科·武凯利奇](../Page/布兰科·武凯利奇.md "wikilink")證實VHS突擊步槍已經成功完成所有的[破壞性測試](https://zh.wikipedia.org/wiki/压力测试 "wikilink")。5月15日，克羅地亞國防部正式向公司以平均10,700[克羅埃西亞庫納](../Page/克羅埃西亞庫納.md "wikilink")（約[€](../Page/欧元.md "wikilink") 1,450）一枝的價格訂購第一期的1,000枝VHS突擊步槍（包括兩種的衍生型）。根據2011年臨時預算，預計購入3,000枝步槍。
+2009年5月12日，時任[克羅地亞國防部長的](https://zh.wikipedia.org/wiki/克罗地亚国防部 "wikilink")[布兰科·武凯利奇](../Page/布兰科·武凯利奇.md "wikilink")證實VHS突擊步槍已經成功完成所有的[破壞性測試](https://zh.wikipedia.org/wiki/压力测试 "wikilink")。5月15日，克羅地亞國防部正式向公司以平均10,700[克羅埃西亞庫納](../Page/克羅埃西亞庫納.md "wikilink")（約[€](../Page/欧元.md "wikilink")1,450）一枝的價格訂購第一期的1,000枝VHS突擊步槍（包括兩種的衍生型）。根據2011年臨時預算，預計購入3,000枝步槍。
 
 ## 設計細節
 
@@ -194,11 +194,8 @@ VHS的其中一個缺失是[人體工學差劣](../Page/人因工程学.md "wiki
 [Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink") [Category:克羅地亞槍械](https://zh.wikipedia.org/wiki/Category:克羅地亞槍械 "wikilink") [Category:犢牛式槍械](https://zh.wikipedia.org/wiki/Category:犢牛式槍械 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
@@ -207,37 +204,24 @@ VHS的其中一個缺失是[人體工學差劣](../Page/人因工程学.md "wiki
 9.
 10.
 11.
-
 12. —
-
 13.
 14. [Novih 50.000 jurišnih pušaka izbacuje kalašnjikove iz vojske](http://www.jutarnji.hr/novih-50-000-jurisnih-pusaka-izbacuje-kalasnjikove-iz-vojske/276867/)
-
 15.
-
 16. <http://www.zadarskilist.hr/clanci/30032011/amerikanci-hitno-narucili-500-komada-hrvatske-jurisne-puske>
-
 17.
-
 18.
 19.
 20.
-
 21.
 22. [Croatian VHS](http://sadefensejournal.com/wp/?p=1481) - SAdefensejournal.com, 4 January 2013
-
 23.
 24.
 25.
 26.
-
 27.
-
 28. <http://www.vecernji.hr/hrvatska/morh-nabavlja-opremu-od-hrvatskih-proizvodaca-vrijednu-50-milijuna-kuna-983903>
-
 29.
-
 30. <http://www.jutarnji.hr/veliki-izvozni-posao--vlada-irackoj-vojsci-prodaje-oruzje-i-opremu-vrijednu-700-milijuna-kuna-/1219539/>
-
 31.
 32. [Croatian VHS-D1 rifle in Syria](http://armamentresearch.com/croatian-vhs-d1-rifle-in-syria/)

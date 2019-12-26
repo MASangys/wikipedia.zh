@@ -73,7 +73,7 @@ Jaŋalif (1928–1940)
 | 23 | [R r](../Page/R.md "wikilink")                       | R r   | R r                                                                                             | Р р                   |                       |
 | 24 | [S s](../Page/S.md "wikilink")                       | S s   | S s                                                                                             | С с                   |                       |
 | 25 | [T t](../Page/T.md "wikilink")                       | T t   | T t                                                                                             | Т т                   |                       |
-| 26 | [Th th](https://zh.wikipedia.org/wiki/Th "wikilink") | Ѣ ѣ   | Ś ś                                                                                             | Ҫ ҫ                   | 如同现在的巴什基尔语拉丁转写、或英文的th |
+| 26 | [Th th](../Page/Th_\(二合字母\).md "wikilink")           | Ѣ ѣ   | Ś ś                                                                                             | Ҫ ҫ                   | 如同现在的巴什基尔语拉丁转写、或英文的th |
 | 27 | [U u](https://zh.wikipedia.org/wiki/U "wikilink")    | U u   | U u                                                                                             | У у                   |                       |
 | 28 | [Ü ü](../Page/Ü.md "wikilink")                       | У y   | Ü ü                                                                                             | Ү ү                   | 如同现代字母                |
 | 29 | [W w](../Page/W.md "wikilink")                       | V v   | W w                                                                                             | В в (в, у)            | 如同现代字母                |
@@ -535,6 +535,5 @@ alphabet</p></th>
 [Category:拉丁字母系统](https://zh.wikipedia.org/wiki/Category:拉丁字母系统 "wikilink")
 
 1.   М.З. Закиев. Тюрко-татарское письмо. История, состояние, перспективы. Москва, "Инсан", 2005
-
 2.
 3.

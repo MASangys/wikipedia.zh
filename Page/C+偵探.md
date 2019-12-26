@@ -224,8 +224,6 @@ Settagarn</p></td>
 [Category:寰宇電影](https://zh.wikipedia.org/wiki/Category:寰宇電影 "wikilink") [Category:香港悬疑片](https://zh.wikipedia.org/wiki/Category:香港悬疑片 "wikilink") [Category:2000年代悬疑片](https://zh.wikipedia.org/wiki/Category:2000年代悬疑片 "wikilink") [Category:泰国背景电影](https://zh.wikipedia.org/wiki/Category:泰国背景电影 "wikilink") [Category:泰国取景电影](https://zh.wikipedia.org/wiki/Category:泰国取景电影 "wikilink") [Category:彭顺电影](https://zh.wikipedia.org/wiki/Category:彭顺电影 "wikilink") [Category:2000年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2000年代香港電影作品 "wikilink") [Category:金馬獎最佳美術設計獲獎電影](https://zh.wikipedia.org/wiki/Category:金馬獎最佳美術設計獲獎電影 "wikilink")
 
 1.  [《B+偵探》海報冇鬼用？](http://hongkongfilms.mysinablog.com/index.php?op=ViewArticle&articleId=2905278) 2011年2月23日，講．鏟．片
-
 2.
 3.  [新戲泰國取景大延誤 城城、青雲被紅衫軍玩殘](http://hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20100412&sec_id=462&art_id=13918733) 2010年4月12日，蘋果日報（香港）
-
 4.  [城城險中行無懼泰動亂](http://orientaldaily.on.cc/cnt/entertainment/20100521/00282_020.html?pubdate=20100521) 2010年5月21日，東方日報（香港）

@@ -42,12 +42,8 @@
 [Category:信号转导](https://zh.wikipedia.org/wiki/Category:信号转导 "wikilink") [Category:基因](https://zh.wikipedia.org/wiki/Category:基因 "wikilink")
 
 1.  D. C. Lie, S. A. Colamarino, H. J. Song, L. Desire, H. Mira, A. Consiglio, E. S. Lein, S. Jessberger, H. Lansford, A. R. Dearie and F. H. Gage (2005) "Wnt signalling regulates adult hippocampal neurogenesis" in *[Nature](https://zh.wikipedia.org/wiki/Nature_\(journal\) "wikilink")* Volume 437, pages 1370-1375..
-
 2.
 3.  F. Rijsewijk, M. Schuermann, E. Wagenaar, P. Parren, D. Weigel and R. Nusse (1987) "The Drosophila homolog of the mouse mammary oncogene int-1 is identical to the segment polarity gene wingless" in *Cell* Volume 50, pages 649-657..
-
 4.  C. Nusslein-Volhard and E. Wieschaus (1980) "Mutations affecting segment number and polarity in Drosophila" in *[Nature](https://zh.wikipedia.org/wiki/Nature_\(journal\) "wikilink")* Volume 287, pages 795-801.
-
 5.  J. Wu and S. M Cohen (2002) "Repression of Teashirt marks the initiation of wing development" in *Development* Volume 129, pages 2411-2418..
-
 6.  R. Nusse, A. van Ooyen, D. Cox, Y. K. Fung and H. Varmus (1984) "Mode of proviral activation of a putative mammary [oncogene](https://zh.wikipedia.org/wiki/oncogene "wikilink") (int-1) on mouse chromosome 15" in *[Nature](https://zh.wikipedia.org/wiki/Nature_\(journal\) "wikilink")* Volume 307, pages 131-136..

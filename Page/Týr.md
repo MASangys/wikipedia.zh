@@ -6,7 +6,7 @@
 
 ## 外部链接
 
-  - [官方网站](http://www.tyr.net)
+  - [官方网站](https://web.archive.org/web/20060909052339/http://www.tyr.net/)
   - [Týr](http://www.myspace.com/tyr1)在[MySpace](https://zh.wikipedia.org/wiki/MySpace "wikilink")
 
 [Category:法羅群島](https://zh.wikipedia.org/wiki/Category:法羅群島 "wikilink") [Category:丹麥樂團](https://zh.wikipedia.org/wiki/Category:丹麥樂團 "wikilink") [Category:重金屬樂團](https://zh.wikipedia.org/wiki/Category:重金屬樂團 "wikilink")

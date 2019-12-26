@@ -440,36 +440,22 @@ PVE服务器：彩衣</p></td>
 [Category:仙剑奇侠传系列电子游戏](https://zh.wikipedia.org/wiki/Category:仙剑奇侠传系列电子游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:久游网游戏](https://zh.wikipedia.org/wiki/Category:久游网游戏 "wikilink") [Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink") [Category:遊戲新幹線遊戲](https://zh.wikipedia.org/wiki/Category:遊戲新幹線遊戲 "wikilink")
 
 1.  用作每日活动场地的峨眉峰地图未作更新。
-
 2.
 3.  [巴哈姆特新聞2010.02.02：GAMESTAR票選結果出爐](http://gnn.gamer.com.tw/3/42153.html)
-
 4.  [遊戲基地新聞2010.02.02：2009 數位內容競賽頒獎典禮](http://www.gamebase.com.tw/news/news_content.php?sno=88398209)
-
 5.  [久游公司骗取仙剑Online玩家购买CD-KEY有涉嫌欺诈行为](http://www.315ts.net/archive/tousu/2009/0116/291141.shtml)2009-01-16
-
 6.  [久游仙剑OL官方网游论坛-官方“无收益”问题解答](http://bbs.9you.com/index.jsp?bbs=6&type=Forum&id=8711) 2009.2.25
-
 7.  [久游仙剑OL官方网游论坛](http://bbs.9you.com/index.jsp?bbs=6&type=Forum&id=8711) 每日更新
-
 8.  [久游仙剑OL官方网游论坛-玩家申诉贴](http://bbs6.9you.com/viewThread.jsp?id=1qe8s4GdP) 09-02-24 23:40:06
-
 9.  [久游仙剑OL官方网游论坛-“玄石”问题的官方回复](http://bbs6.9you.com/viewThread.jsp?id=dODgx3quN) 2009-02-25
-
 10. [《仙剑OL》公测引发玩家投诉潮- 京华时报·京华网](http://epaper.jinghua.cn/html/2009-03/04/content_397846.htm)  2009-3-4
-
 11.
 12. [久游网关于《仙剑OL》运营声明](http://gamenews.9you.com/html/art_pal/2009_03/06/CMGBZHFR6Z.html) 2009-3-6
-
 13.
 14.
 15.
 16. [1](http://tw.nextmedia.com/subapple/article/art_id/32214325/IssueID/20100107/sec_id/18) 見此篇新聞之仙劍Online部分。
-
 17.  仙劍2.0 Online改版專區首頁
-
 18. [仙劍online結束營運公告](http://cpo.gameflier.com/news/news.asp?CPO_NoticeType=notice&CPO_NoticeID=2360)
-
 19. 新马地区的2.0版本也包含在台港澳地区《女娲降临》版本内才有的“佛心礼”机制。
-
 20. [2](http://gnn.gamer.com.tw/1/52701.html) 《仙劍 Online》正式授權星、馬地區2.0版即將登場。

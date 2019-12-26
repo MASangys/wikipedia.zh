@@ -56,7 +56,7 @@ REC10為REC7 DI使用[7.62 × 51 NATO的版本](../Page/7.62×51mm_NATO.md "wiki
 
 ## 外部链接
 
-  - —[巴雷特REC7](http://www.barrettrifles.com/rifle_rec7.aspx)
+  - —[巴雷特REC7](https://web.archive.org/web/20090501192334/http://www.barrettrifles.com/rifle_rec7.aspx)
 
 [Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:6.8×43毫米雷明登SPC枪械](https://zh.wikipedia.org/wiki/Category:6.8×43毫米雷明登SPC枪械 "wikilink") [Category:美國步槍](https://zh.wikipedia.org/wiki/Category:美國步槍 "wikilink") [Category:巴雷特槍械](https://zh.wikipedia.org/wiki/Category:巴雷特槍械 "wikilink")
 

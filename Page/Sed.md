@@ -235,9 +235,9 @@ ed/sed命令和语法继续用于派生程序，例如文本编辑器[vi和](../
 
 ### 示例
 
-  - [Major sources for sed scripts, files, usage](http://sed.sourceforge.net)
+  - [Major sources for sed scripts, files, usage](https://web.archive.org/web/20060208161216/http://sed.sourceforge.net/)
   - [Roger Chang's SED and Shell Scripts (2012)](http://main.rtfiber.com.tw/~changyj/sed/)
-  - [Top 'sed' commands – Usage examples](http://www.shell-fu.org/lister.php?tag=sed)
+  - [Top 'sed' commands – Usage examples](https://web.archive.org/web/20181110200025/http://www.shell-fu.org/lister.php?tag=sed)
   - [Sed command examples in Unix & Linux](http://www.techsakh.com/2016/05/12/20160512use-sed-command-linux-unix/)
 
 ### 其他链接
@@ -249,24 +249,15 @@ ed/sed命令和语法继续用于派生程序，例如文本编辑器[vi和](../
 [Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink") [Category:模式匹配编程语言](https://zh.wikipedia.org/wiki/Category:模式匹配编程语言 "wikilink") [Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink") [Category:标准Unix程序](https://zh.wikipedia.org/wiki/Category:标准Unix程序 "wikilink") [Category:面向文本的编程语言](https://zh.wikipedia.org/wiki/Category:面向文本的编程语言 "wikilink") [Category:Unix文字处理实用工具](https://zh.wikipedia.org/wiki/Category:Unix文字处理实用工具 "wikilink") [Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink") [Category:控制台应用](https://zh.wikipedia.org/wiki/Category:控制台应用 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13. 在命令行使用中，表达式周围的引号不是必需的，只有在shell不会将表达式解释为单个字（标记）时才需要。由于脚本`s/x/y/g`没有歧义，所以`generateData | sed s/x/y/g`工作正常。然而，为了清楚起见，通常是要写引号的，特别是对于有空格的时候（例如，`'s/x x/y y/'`）。大多数情况下，使用单引号是为了避免shell将`$`解释为shell变量。使用双引号，如`"s/$1/$2/g"`，是为了让shell替换命令行参数或其他shell变量。

@@ -1,10 +1,6 @@
 《**CROSS†CHANNEL**》是[FlyingShine第一套以自己公司名義制作及發售的](https://zh.wikipedia.org/wiki/FlyingShine "wikilink")[成人游戏](https://zh.wikipedia.org/wiki/成人游戏 "wikilink")，于2003年9月26日发售。\[1\]2004年3月18日再由[KID](../Page/KID.md "wikilink")發售[PlayStation 2版本](../Page/PlayStation_2.md "wikilink")《CROSS†CHANNEL ～To all people～》。\[2\]2012年11月22日由[WillPlus](../Page/WillPlus.md "wikilink")发行复刻版。\[3\]
 
-## 概要
-
-以群青学院的放送部为舞台学園故事。
-
-## 簡介
+## 故事
 
 大家一起度过的去年夏天，面临分裂的广播部所引起的各种矛盾以及和解，学院的漫长暑假。七零八落的广播部的众人的状况也都十分萎靡不振。夏初集训归来之后，团队的凝聚力早已荡然无存。如今还在坚持参加社团活动的，也只剩下一人了。主人公正是广播部的一员。因夏休而变得空旷的校园里，主人公四处漫步，寻觅着零星的友人。来到了屋顶上就会看到部长宫澄见里在架设大型的广播天线。独自一个人。这就是广播部的暑期课题，架设完成后就可以进行无线电广播了。之前都是大家齐心协力的。去年暑假也是如此。而如今，却只剩下部长一人了。昔日的友人们，如今却冷眼旁观着二人。随之而来的还有各种各样的冲突。以及和解。四分五裂的部员们的心，在慢慢地贴，在暑假的最后一天，信号发射装置完工了，装置将信息发送到了世界各处。
 
@@ -53,7 +49,7 @@
 
 Nanaca Crash是一个基于《CROSS†CHANNEL》的[Flash小游戏](../Page/Adobe_Flash.md "wikilink")，目前最新版本为v1.10版\[2014.05.16\]\[4\]。这个游戏的目的是让男主角飞的尽量的远。有时网友们会张贴自己的记录以和同好交流\[5\]。
 
-## 評價、反應
+## 評價
 
 因为之前FlyingShine的作品评价不高，加上和这款游戏同一天发售的游戏很多\[6\]，本作在发售之初受到的关注并不多。但作品中極容易令人悲傷至落淚的故事，在一部分玩家之中评价很高，[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")的劇本家也在「竹箒日記」的2003年10月17日中，称赞本作为「绝对不可能超越的作品」\[7\]。在同類型「鬱遊戲」中是代表性的作品之一。另外，發售前的試看影片和故事序幕的普通戀愛遊戲的感覺，與故事其後的發展有很大的對比\[8\]。
 
@@ -65,21 +61,20 @@ Nanaca Crash是一个基于《CROSS†CHANNEL》的[Flash小游戏](../Page/Adob
 
 <references />
 
-  - [『CROSS†CHANNEL』- Galge.com 作品介紹](https://web.archive.org/web/20080418004059/http://www.galge.com/galge/member/soft/GS00000262/index.html)
-
 </div>
 
 ## 外部链接
 
-  - Windows版
-      - [FlyingShine官方网页](http://www.flyingshine.co.jp/)
-      - [对白保管庫](http://www.geocities.jp/cchokanko/)
-  - PS2版
-      -   -
-  - PS3版、PSV版
-      - [CROSS†CHANNEL ～for all people～](http://5pb.jp/games/crosschannel/)
+  - [官方網站](https://web.archive.org/web/20141226013854/http://www.flyingshine.com/product/crosschannel/)
 
-[Category:2003年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2003年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:PlayStation_3遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_3遊戲 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:KID](https://zh.wikipedia.org/wiki/Category:KID "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
+  - [FINAL COMPLETE官方網站](http://www.crosschannel-game.com/top_complete/)
+
+  - [英文版官方網站](https://moenovel.com/crosschannel)
+
+  -
+  - [CROSS†CHANNEL ～for all people～ PS3版、PSV版官方網站](http://5pb.jp/games/crosschannel/)
+
+[Category:2003年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2003年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:PlayStation_3遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_3遊戲 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:WillPlus](https://zh.wikipedia.org/wiki/Category:WillPlus "wikilink") [Category:KID](https://zh.wikipedia.org/wiki/Category:KID "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
 
 1.
 2.

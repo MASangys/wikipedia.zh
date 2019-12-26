@@ -24,13 +24,15 @@ E-Max是Entertainment Maximized的縮寫，「E」字代表娛樂，亦代表活
 
 地庫1樓及地庫3樓樓面於2017年4月開始工程，改為「九展名店倉E-Max WearHouse」，到2018年8月開幕。主要租戶包括Dr.Martens、Descente、Royal Sporting House、Adidas、New Balance、PUMA，Reebok等。
 
+2019年7月，大快活與九龍電競館合作，在[九龍灣](../Page/九龍灣.md "wikilink")國際展貿中心[E-MaxB](https://zh.wikipedia.org/wiki/E-Max "wikilink")1層開設佔地13000呎的「大快活電競館」，設有六大區域，提供超過100個用餐座位，包括主舞台、用餐區域、酒吧、直播區、電競區及Xengagement Room。\[4\]
+
 結業20年的[歡樂天地](../Page/歡樂天地.md "wikilink")將於B1復業，原定2018年年末開業，現預計於2019年第一季開幕。
 
 ### 地下
 
 商場地下設有[大力游泳會及多間零售店](https://zh.wikipedia.org/wiki/大力游泳會 "wikilink")，包括[7-11便利店](https://zh.wikipedia.org/wiki/7-11 "wikilink")、[萬寧及POPi時裝店等](https://zh.wikipedia.org/wiki/萬寧 "wikilink")，亦有服飾品牌開設特賣場，包括Baleno、Footspot等。食肆包括[Hot Dog Formula](https://zh.wikipedia.org/wiki/Hot_Dog_Formula "wikilink")、[星巴克](https://zh.wikipedia.org/wiki/星巴克 "wikilink")、東昇有機農場餐廳、囍筷自家菜、Bentou豚肉飯專門店等，[Subway](https://zh.wikipedia.org/wiki/賽百味 "wikilink")、[麥當勞](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")、台灣麵及759車仔麵亦於2014年陸續開業。
 
-已結業商戶包括[都會國際免稅廣場糖果店及零食店](https://zh.wikipedia.org/wiki/都會國際免稅廣場 "wikilink")、[Chickeeduck](https://zh.wikipedia.org/wiki/Chickeeduck "wikilink")、TVBuddy@TVB等，商場亦曾設有[香港保齡球城](https://zh.wikipedia.org/wiki/香港保齡球城 "wikilink")，提供48條國際級標準球道，營業至2013年3月31日後結業，原址改建成提供9間戲院合共1100個座位的戲院，設有3間貴賓影院，並提供專業餐飲及貴賓廳服務，戲院名為「[星影匯](../Page/星影匯.md "wikilink")」，於2014年2月14日開幕。\[4\] \[5\] \[6\]
+已結業商戶包括[都會國際免稅廣場糖果店及零食店](https://zh.wikipedia.org/wiki/都會國際免稅廣場 "wikilink")、[Chickeeduck](https://zh.wikipedia.org/wiki/Chickeeduck "wikilink")、TVBuddy@TVB等，商場亦曾設有[香港保齡球城](https://zh.wikipedia.org/wiki/香港保齡球城 "wikilink")，提供48條國際級標準球道，營業至2013年3月31日後結業，原址改建成提供9間戲院合共1100個座位的戲院，設有3間貴賓影院，並提供專業餐飲及貴賓廳服務，戲院名為「[星影匯](../Page/星影匯.md "wikilink")」，於2014年2月14日開幕。\[5\] \[6\] \[7\]
 
 到2016年，合和耗資1.5億港元將商場轉型為Outlet E-Max Wearhouse，第1期位於地面層，佔地逾5萬方呎，出租率達9成，約19個品牌進駐，當中有9個品牌更是首次開設Outlet，包括Vivienne Westwood等。其餘範圍為食肆、 Music Zone @ E-Max表演場地和[ViuTV](../Page/ViuTV.md "wikilink")佔地36,100平方呎的影視製作工作室。
 
@@ -52,7 +54,7 @@ E-Max是Entertainment Maximized的縮寫，「E」字代表娛樂，亦代表活
 
 商場5樓至6樓曾為「家居博覽館」，佔地20多萬平方呎，於2007年5月24日正式開幕，博覽館雲集近百個品牌，並且分為三大主題，分別為「尊尚家居」、「生活品味」以及「建材藝術」，展銷最新時尚傢俬、室內設計、燈飾鎖類、生活精品及各建築工程配件物料等。
 
-2014年5月，合和消息指出，五樓租戶將於7月底租約期滿遷出，不再作零售商場。新租戶則為[醫院管理局](../Page/醫院管理局.md "wikilink")，將租用六樓及七樓共15萬方呎；由於政府已經將一些部門遷至九龍東，政府部門已經成為九展的大租戶。\[7\]2014年11月，4樓部分樓面及5樓全層改為「家居中心」（E-Max Home），並於11月18日舉行開幕典禮。\[8\]
+2014年5月，合和消息指出，五樓租戶將於7月底租約期滿遷出，不再作零售商場。新租戶則為[醫院管理局](../Page/醫院管理局.md "wikilink")，將租用六樓及七樓共15萬方呎；由於政府已經將一些部門遷至九龍東，政府部門已經成為九展的大租戶。\[8\]2014年11月，4樓部分樓面及5樓全層改為「家居中心」（E-Max Home），並於11月18日舉行開幕典禮。\[9\]
 
 ### 13樓
 
@@ -64,7 +66,7 @@ E-Max是Entertainment Maximized的縮寫，「E」字代表娛樂，亦代表活
 
 ## 匯星
 
-綜合表演場館「匯星」，耗資1.3億興建，在2007年11月9日啟用，場館佔地3萬方呎，採長方形及無柱式設計，樓底高50呎，樓頂共設35個吊點，座位更可因應不同節目內容而作出變動，最多可容納3600名觀眾或170圍酒席，多角度舞台設計包括中央舞台、三邊舞台等。除演唱會外，場館亦可在一日內改裝舉辦電影首映禮、展覽、會議、宴會、體育及學術活動等。後台另設貴賓房、更衣室及兩間排練室。[林憶蓮](../Page/林憶蓮.md "wikilink")為首位在E-Max舉行演唱會的歌手。\[9\]
+綜合表演場館「匯星」，耗資1.3億興建，在2007年11月9日啟用，場館佔地3萬方呎，採長方形及無柱式設計，樓底高50呎，樓頂共設35個吊點，座位更可因應不同節目內容而作出變動，最多可容納3600名觀眾或170圍酒席，多角度舞台設計包括中央舞台、三邊舞台等。除演唱會外，場館亦可在一日內改裝舉辦電影首映禮、展覽、會議、宴會、體育及學術活動等。後台另設貴賓房、更衣室及兩間排練室。[林憶蓮](../Page/林憶蓮.md "wikilink")為首位在E-Max舉行演唱會的歌手。\[10\]
 
 ## 大型店舖
 
@@ -83,7 +85,7 @@ E-Max是Entertainment Maximized的縮寫，「E」字代表娛樂，亦代表活
 
 ## 幻彩詠香江
 
-E-Max於2007年6月26日加入[幻彩詠香江](../Page/幻彩詠香江.md "wikilink")匯演行列\[10\]，成為聲光交織的表演舞台一份子，為東九龍首個商場被[旅遊事務署](../Page/旅遊事務署.md "wikilink")邀請成為「幻彩詠香江」表演部份。
+E-Max於2007年6月26日加入[幻彩詠香江](../Page/幻彩詠香江.md "wikilink")匯演行列\[11\]，成為聲光交織的表演舞台一份子，為東九龍首個商場被[旅遊事務署](../Page/旅遊事務署.md "wikilink")邀請成為「幻彩詠香江」表演部份。
 
 ## 交通
 
@@ -140,19 +142,12 @@ E-Max於2007年6月26日加入[幻彩詠香江](../Page/幻彩詠香江.md "wiki
 
 1.
 2.
-
 3.  [E-Max](http://www.emaxhk.com/)
-
-4.  [九展E-Max Cineplex詳情](http://www.hkfilmblog.com/archives/27528)
-
-5.  [星影匯專頁](https://www.facebook.com/TheMetroplexCinema)
-
-6.  [星影匯](http://www.metroplex.com.hk)
-
-7.  Emax走年輕路綫 合和冀提升租金 星島日報 2014年5月14日
-
-8.  [E-Max 家居中心專頁](https://www.facebook.com/emaxhome)
-
-9.  [EMax「匯星」下月啟用](https://web.archive.org/web/20071105005140/http://hk.news.yahoo.com/071029/12/2ifq1.html)， (明報) 10月 30日 星期二 05:10AM
-
-10. [E-Max加入「幻彩詠香江」行列為東九龍發放璀璨光芒](http://www.emaxhk.com/pdf/symphonyoflights_030707_chi.pdf)
+4.
+5.  [九展E-Max Cineplex詳情](http://www.hkfilmblog.com/archives/27528)
+6.  [星影匯專頁](https://www.facebook.com/TheMetroplexCinema)
+7.  [星影匯](http://www.metroplex.com.hk)
+8.  Emax走年輕路綫 合和冀提升租金 星島日報 2014年5月14日
+9.  [E-Max 家居中心專頁](https://www.facebook.com/emaxhome)
+10. [EMax「匯星」下月啟用](https://web.archive.org/web/20071105005140/http://hk.news.yahoo.com/071029/12/2ifq1.html)， (明報) 10月 30日 星期二 05:10AM
+11. [E-Max加入「幻彩詠香江」行列為東九龍發放璀璨光芒](http://www.emaxhk.com/pdf/symphonyoflights_030707_chi.pdf)

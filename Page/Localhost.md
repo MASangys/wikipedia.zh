@@ -4,7 +4,7 @@
 
 運用本地環迴機制，便可在主機上運行網絡服務，期間不須安裝實體網絡介面卡，也無須將該服務開放予主機所在網絡。例如，在设置好本地安装的網站后，可通过`http://localhost`這一網址，来訪問本地網站。
 
-localhost這个主機名稱一般會[解析爲](../Page/域名系统.md "wikilink")[IPv4](../Page/IPv4.md "wikilink")本地环回地址`127.0.0.1`和[IPv6](../Page/IPv6.md "wikilink")本地环回地址`[::1]`。\[1\]
+localhost這个主機名稱一般會[解析為](../Page/域名系统.md "wikilink")[IPv4](../Page/IPv4.md "wikilink")本地环回地址`127.0.0.1`和[IPv6](../Page/IPv6.md "wikilink")本地环回地址`[::1]`。\[1\]
 
 ## 名称解析
 

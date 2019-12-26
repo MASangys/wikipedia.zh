@@ -35,12 +35,8 @@ Knol最初测试阶段只支持英语，到2011年7月初，已可支持[阿拉�
 [Category:已終止的Google服務](https://zh.wikipedia.org/wiki/Category:已終止的Google服務 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:在线百科全书](https://zh.wikipedia.org/wiki/Category:在线百科全书 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.  [Google的维基百科正式登场：Knol](http://news.mydrivers.com/1/112/112056.htm)
-
 6.

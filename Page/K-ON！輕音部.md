@@ -2184,63 +2184,35 @@ DEATH DEVIL</p></td>
 [Category:K-ON\!](https://zh.wikipedia.org/wiki/Category:K-ON! "wikilink") [Category:音樂漫畫](https://zh.wikipedia.org/wiki/Category:音樂漫畫 "wikilink") [Category:高中背景漫画](https://zh.wikipedia.org/wiki/Category:高中背景漫画 "wikilink") [Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink") [Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink") [Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink") [Category:2009年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2009年TBS電視網動畫 "wikilink") [Category:2010年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年TBS電視網動畫 "wikilink") [Category:TBS深夜動畫](https://zh.wikipedia.org/wiki/Category:TBS深夜動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:音樂題材作品](https://zh.wikipedia.org/wiki/Category:音樂題材作品 "wikilink") [Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink") [Category:NHK動畫](https://zh.wikipedia.org/wiki/Category:NHK動畫 "wikilink")
 
 1.
-
 2.  參考動畫第1季第13話及第2季第1話
-
 3.  參考動畫第2季第4話
-
 4.  [1部動畫 救活1間校舍](http://www.libertytimes.com.tw/2010/new/nov/22/today-int7.htm)
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
 14.
 15.
-
 16.
-
 17. 中野梓（CV：竹達彩奈）是自第9话起加入演出的。
-
 18. 動畫內的記法。部分歌詞是直接取自kakifly的原作漫畫；而實際的作曲和編曲為[前澤寬之](../Page/前澤寬之.md "wikilink")負責。
-
 19. 動畫內的記法。實際的作詞為、作曲為[藤末樹](https://zh.wikipedia.org/wiki/藤末樹 "wikilink")、編曲則由[白石元負責](https://zh.wikipedia.org/wiki/白石元 "wikilink")。（記載於[波麗佳音網頁內](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink") [有關CD的介紹](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200900001336&DSP_SKHKETSEQ=001) ）
-
 20. 動畫內的記法。實際的作詞為、作曲和編曲則由[川口進負責](https://zh.wikipedia.org/wiki/川口進 "wikilink")。（記載於[波麗佳音網頁內](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink") [有關CD的介紹](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200900001336&DSP_SKHKETSEQ=001) ）
-
 21. 各話標題中文翻譯以代理商[普威爾的中文字幕為準](https://zh.wikipedia.org/wiki/普威爾 "wikilink")。
-
 22.
-
 23.
-
 24.
-
 25.
 26.
-
 27.
-
 28. [C83轻音少女(K-ON)新出周边一览](http://www.zhaiz.tk/anime-otaku/591.html)
-
 29.
-
 30. [K-ON\!LIVE活動「Let's Go\!」特設網頁](http://www.tbs.co.jp/anime/k-on/special/event091230.html)
-
 31. [中日新聞 CHUNICHI Web 2009年9月22日朝刊。](https://web.archive.org/web/20090925140330/http://www.chunichi.co.jp/article/national/news/CK2009092202000103.html)
-
 32. [豊郷小旧校舎見たい 読売新聞 YOMIURI ONLINE 地域滋賀 2009年9月22日閲覧。](http://www.yomiuri.co.jp/index.htm)
-
 33. [K-ON！！LIVE活動「～Come with Me\!\!～」特設網頁](http://www.tbs.co.jp/anime/k-on/special/event110220.html)

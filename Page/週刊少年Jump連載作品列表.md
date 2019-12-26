@@ -2,13 +2,13 @@
 
 ※連載中的作品以**粗體字**標記。
 
-<onlyinclude>{|class="toc plainlinks" style="font-size:small" \!目錄 |- |　[連載作品](https://zh.wikipedia.org/wiki/#連載作品 "wikilink") |- |　　[1968](https://zh.wikipedia.org/wiki/#1968 "wikilink") - [1969](https://zh.wikipedia.org/wiki/#1969 "wikilink") - [1970](https://zh.wikipedia.org/wiki/#1970 "wikilink") |- |　　[1971](https://zh.wikipedia.org/wiki/#1971 "wikilink") - [1972](https://zh.wikipedia.org/wiki/#1972 "wikilink") - [1973](https://zh.wikipedia.org/wiki/#1973 "wikilink") - [1974](https://zh.wikipedia.org/wiki/#1974 "wikilink") - [1975](https://zh.wikipedia.org/wiki/#1975 "wikilink") - [1976](https://zh.wikipedia.org/wiki/#1976 "wikilink") - [1977](https://zh.wikipedia.org/wiki/#1977 "wikilink") - [1978](https://zh.wikipedia.org/wiki/#1978 "wikilink") - [1979](https://zh.wikipedia.org/wiki/#1979 "wikilink") - [1980](https://zh.wikipedia.org/wiki/#1980 "wikilink")　 |- |　　[1981](https://zh.wikipedia.org/wiki/#1981 "wikilink") - [1982](https://zh.wikipedia.org/wiki/#1982 "wikilink") - [1983](https://zh.wikipedia.org/wiki/#1983 "wikilink") - [1984](https://zh.wikipedia.org/wiki/#1984 "wikilink") - [1985](https://zh.wikipedia.org/wiki/#1985 "wikilink") - [1986](https://zh.wikipedia.org/wiki/#1986 "wikilink") - [1987](https://zh.wikipedia.org/wiki/#1987 "wikilink") - [1988](https://zh.wikipedia.org/wiki/#1988 "wikilink") - [1989](https://zh.wikipedia.org/wiki/#1989 "wikilink") - [1990](https://zh.wikipedia.org/wiki/#1990 "wikilink") |- |　　[1991](https://zh.wikipedia.org/wiki/#1991 "wikilink") - [1992](https://zh.wikipedia.org/wiki/#1992 "wikilink") - [1993](https://zh.wikipedia.org/wiki/#1993 "wikilink") - [1994](https://zh.wikipedia.org/wiki/#1994 "wikilink") - [1995](https://zh.wikipedia.org/wiki/#1995 "wikilink") - [1996](https://zh.wikipedia.org/wiki/#1996 "wikilink") - [1997](https://zh.wikipedia.org/wiki/#1997 "wikilink") - [1998](https://zh.wikipedia.org/wiki/#1998 "wikilink") - [1999](https://zh.wikipedia.org/wiki/#1999 "wikilink") - [2000](https://zh.wikipedia.org/wiki/#2000 "wikilink") |- |　　[2001](https://zh.wikipedia.org/wiki/#2001 "wikilink") - [2002](https://zh.wikipedia.org/wiki/#2002 "wikilink") - [2003](https://zh.wikipedia.org/wiki/#2003 "wikilink") - [2004](https://zh.wikipedia.org/wiki/#2004 "wikilink") - [2005](https://zh.wikipedia.org/wiki/#2005 "wikilink") - [2006](https://zh.wikipedia.org/wiki/#2006 "wikilink") - [2007](https://zh.wikipedia.org/wiki/#2007 "wikilink") - [2008](https://zh.wikipedia.org/wiki/#2008 "wikilink") - [2009](https://zh.wikipedia.org/wiki/#2009 "wikilink") - [2010](https://zh.wikipedia.org/wiki/#2010 "wikilink") |- |　　[2011](https://zh.wikipedia.org/wiki/#2011 "wikilink") - [2012](https://zh.wikipedia.org/wiki/#2012 "wikilink") - [2013](https://zh.wikipedia.org/wiki/#2013 "wikilink") - [2014](https://zh.wikipedia.org/wiki/#2014 "wikilink") - [2015](https://zh.wikipedia.org/wiki/#2015 "wikilink") - [2016](https://zh.wikipedia.org/wiki/#2016 "wikilink") - [2017](https://zh.wikipedia.org/wiki/#2017 "wikilink") - [2018](https://zh.wikipedia.org/wiki/#2018 "wikilink") - [2019](https://zh.wikipedia.org/wiki/#2019 "wikilink") |- |　[參見](https://zh.wikipedia.org/wiki/#參見 "wikilink") |}__NOTOC__</onlyinclude>
+<onlyinclude>{|class="toc plainlinks" style="font-size:small" \!目錄 |- |　[連載作品](https://zh.wikipedia.org/wiki/#連載作品 "wikilink") |- |　　[1968](https://zh.wikipedia.org/wiki/#1968 "wikilink") - [1969](https://zh.wikipedia.org/wiki/#1969 "wikilink") - [1970](https://zh.wikipedia.org/wiki/#1970 "wikilink") |- |　　[1971](https://zh.wikipedia.org/wiki/#1971 "wikilink") - [1972](https://zh.wikipedia.org/wiki/#1972 "wikilink") - [1973](https://zh.wikipedia.org/wiki/#1973 "wikilink") - [1974](https://zh.wikipedia.org/wiki/#1974 "wikilink") - [1975](https://zh.wikipedia.org/wiki/#1975 "wikilink") - [1976](https://zh.wikipedia.org/wiki/#1976 "wikilink") - [1977](https://zh.wikipedia.org/wiki/#1977 "wikilink") - [1978](https://zh.wikipedia.org/wiki/#1978 "wikilink") - [1979](https://zh.wikipedia.org/wiki/#1979 "wikilink") - [1980](https://zh.wikipedia.org/wiki/#1980 "wikilink")　 |- |　　[1981](https://zh.wikipedia.org/wiki/#1981 "wikilink") - [1982](https://zh.wikipedia.org/wiki/#1982 "wikilink") - [1983](https://zh.wikipedia.org/wiki/#1983 "wikilink") - [1984](https://zh.wikipedia.org/wiki/#1984 "wikilink") - [1985](https://zh.wikipedia.org/wiki/#1985 "wikilink") - [1986](https://zh.wikipedia.org/wiki/#1986 "wikilink") - [1987](https://zh.wikipedia.org/wiki/#1987 "wikilink") - [1988](https://zh.wikipedia.org/wiki/#1988 "wikilink") - [1989](https://zh.wikipedia.org/wiki/#1989 "wikilink") - [1990](https://zh.wikipedia.org/wiki/#1990 "wikilink") |- |　　[1991](https://zh.wikipedia.org/wiki/#1991 "wikilink") - [1992](https://zh.wikipedia.org/wiki/#1992 "wikilink") - [1993](https://zh.wikipedia.org/wiki/#1993 "wikilink") - [1994](https://zh.wikipedia.org/wiki/#1994 "wikilink") - [1995](https://zh.wikipedia.org/wiki/#1995 "wikilink") - [1996](https://zh.wikipedia.org/wiki/#1996 "wikilink") - [1997](https://zh.wikipedia.org/wiki/#1997 "wikilink") - [1998](https://zh.wikipedia.org/wiki/#1998 "wikilink") - [1999](https://zh.wikipedia.org/wiki/#1999 "wikilink") - [2000](https://zh.wikipedia.org/wiki/#2000 "wikilink") |- |　　[2001](https://zh.wikipedia.org/wiki/#2001 "wikilink") - [2002](https://zh.wikipedia.org/wiki/#2002 "wikilink") - [2003](https://zh.wikipedia.org/wiki/#2003 "wikilink") - [2004](https://zh.wikipedia.org/wiki/#2004 "wikilink") - [2005](https://zh.wikipedia.org/wiki/#2005 "wikilink") - [2006](https://zh.wikipedia.org/wiki/#2006 "wikilink") - [2007](https://zh.wikipedia.org/wiki/#2007 "wikilink") - [2008](https://zh.wikipedia.org/wiki/#2008 "wikilink") - [2009](https://zh.wikipedia.org/wiki/#2009 "wikilink") - [2010](https://zh.wikipedia.org/wiki/#2010 "wikilink") |- |　　[2011](https://zh.wikipedia.org/wiki/#2011 "wikilink") - [2012](https://zh.wikipedia.org/wiki/#2012 "wikilink") - [2013](https://zh.wikipedia.org/wiki/#2013 "wikilink") - [2014](https://zh.wikipedia.org/wiki/#2014 "wikilink") - [2015](https://zh.wikipedia.org/wiki/#2015 "wikilink") - [2016](https://zh.wikipedia.org/wiki/#2016 "wikilink") - [2017](https://zh.wikipedia.org/wiki/#2017 "wikilink") - [2018](https://zh.wikipedia.org/wiki/#2018 "wikilink") - [2019](https://zh.wikipedia.org/wiki/#2019 "wikilink") - [2020](https://zh.wikipedia.org/wiki/#2020 "wikilink") |- |　[參見](https://zh.wikipedia.org/wiki/#參見 "wikilink") |}__NOTOC__</onlyinclude>
 
 ## 連載作品
 
 |  |                            |
 |  | -------------------------- |
-|  | 截至2019年9月2日（2019年40號）連載中作品 |
+|  | 截至2019年12月2日（2020年1號）連載中作品 |
 
 <table>
 <thead>
@@ -3773,7 +3773,7 @@
 </tr>
 <tr class="odd">
 <td><p>390</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/影武者德川家康" title="wikilink">影武者德川家康</a></p></td>
 <td><p><a href="../Page/原哲夫.md" title="wikilink">原哲夫</a>（漫畫）</p></td>
 <td><p><a href="../Page/隆慶一郎.md" title="wikilink">隆慶一郎</a>（原作）<br />
 <a href="../Page/會川昇.md" title="wikilink">會川昇</a>（劇本）</p></td>
@@ -6672,7 +6672,7 @@
 </tr>
 <tr class="even">
 <td><p>686</p></td>
-<td><p><strong></strong></p></td>
+<td><p><strong><a href="../Page/鏈鋸人.md" title="wikilink">鏈鋸人</a></strong></p></td>
 <td><p>藤本樹</p></td>
 <td><p>－</p></td>
 <td><p>2019.01</p></td>
@@ -6708,16 +6708,16 @@
 </tr>
 <tr class="even">
 <td><p>690</p></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/梳扎頭髮的神緒結衣" title="wikilink">梳扎頭髮的神緒結衣</a> '''</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梳扎頭髮的神緒結衣" title="wikilink">梳扎頭髮的神緒結衣</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/椎橋寛" title="wikilink">椎橋寛</a></p></td>
 <td><p>－</p></td>
 <td><p>2019.15</p></td>
-<td><p>連載中</p></td>
+<td><p>2019.52</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>691</p></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/SAMURAI8～機侍_八丸傳" title="wikilink">SAMURAI8～機侍 八丸傳</a> '''</p></td>
+<td><p><strong></strong></p></td>
 <td><p>大久保彰（作畫）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/岸本齊史" title="wikilink">岸本齊史</a>（原作）</p></td>
 <td><p>2019.24</p></td>
@@ -6726,11 +6726,11 @@
 </tr>
 <tr class="even">
 <td><p>692</p></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/雙心的太星" title="wikilink">雙心的太星</a> '''</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雙心的太星" title="wikilink">雙心的太星</a></p></td>
 <td><p>福田健太郎</p></td>
 <td><p>－</p></td>
 <td><p>2019.25</p></td>
-<td><p>連載中</p></td>
+<td><p>2019.52</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -6770,6 +6770,33 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>697</p></td>
+<td><p><strong><a href="../Page/Dr.STONE_新石紀.md" title="wikilink">Dr.STONE reboot:百夜</a></strong></p></td>
+<td><p><a href="../Page/Boichi.md" title="wikilink">Boichi</a>（故事、漫畫）</p></td>
+<td><p><a href="../Page/稻垣理一郎.md" title="wikilink">稻垣理一郎</a>、<a href="../Page/Boichi.md" title="wikilink">Boichi</a>（原作）</p></td>
+<td><p>2019.48</p></td>
+<td><p>連載中</p></td>
+<td><p>短期集中連載</p></td>
+</tr>
+<tr class="even">
+<td><p><span style="display:none">697.2</span></p></td>
+<td><p><span style="display:none">Ｚ</span></p></td>
+<td><p><span style="display:none">Ｚ</span></p></td>
+<td><p><span style="display:none">Ｚ</span>2020年<span id="2020"></p></td>
+<td><p><span style="display:none">2020 /</span></p></td>
+<td><p><span style="display:none">2020 /</span></p></td>
+<td><p><span style="display:none">Ｚ</span></p></td>
+</tr>
+<tr class="odd">
+<td><p>698</p></td>
+<td><p>'''[[ZIPMAN</p></td>
+<td><p>|ZIPMAN</p></td>
+<td><p>]]'''</p></td>
+<td><p>芝田優作</p></td>
+<td><p>－</p></td>
+<td><p>2020.01</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

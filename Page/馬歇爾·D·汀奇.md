@@ -113,7 +113,7 @@
 <!-- end list -->
 
   -
-    由馬歇爾·D·汀奇所率領的海賊團，擁有恐怖的戰鬥力。兩年前的海賊船是巨大[木筏](https://zh.wikipedia.org/wiki/木筏 "wikilink")，曾經毀滅位於偉大航路的磁鼓王國及襲擊海底監獄[推進城](https://zh.wikipedia.org/wiki/推進城 "wikilink")，「頂點戰爭」時網羅數位LEVEL 6的最強囚犯以及取得震動果實能力。一年後與「不死鳥」馬可率領的白鬍子海賊團餘黨發生了一次大規模衝突，世間稱為「秋後戰爭」，最後馬可那方慘敗，隊長們失去音訊，白鬍子海賊團就此成了傳說，而「黑鬍子」藉此稱霸原本屬於白鬍子海賊團的地盤躋身至四皇之位。兩年後「黑鬍子」號稱提督，在兩年前集結的九名船員都成了幹部級人物，可見黑鬍子海賊團的勢力及人數不斷壯大。
+    由馬歇爾·D·汀奇所率領的海賊團，擁有恐怖的戰鬥力。兩年後「黑鬍子」號稱提督，在兩年前集結的九名船員都成了幹部級人物，可見黑鬍子海賊團的勢力及人數不斷壯大。
 
 ## 參考資料
 
@@ -125,31 +125,20 @@
 
 [fr:Équipage de Barbe Noire\#Barbe Noire](https://zh.wikipedia.org/wiki/fr:Équipage_de_Barbe_Noire#Barbe_Noire "wikilink")
 
-[Category:ONE_PIECE海盜角色](https://zh.wikipedia.org/wiki/Category:ONE_PIECE海盜角色 "wikilink") [Category:王下七武海](https://zh.wikipedia.org/wiki/Category:王下七武海 "wikilink")
+[Category:ONE_PIECE海盜角色](https://zh.wikipedia.org/wiki/Category:ONE_PIECE海盜角色 "wikilink") [Category:王下七武海](https://zh.wikipedia.org/wiki/Category:王下七武海 "wikilink") [Category:2002年首次亮相的漫畫角色](https://zh.wikipedia.org/wiki/Category:2002年首次亮相的漫畫角色 "wikilink")
 
 1.
-
 2.
-
 3.  《ONE PIECE》漫畫第49卷SBS詢問專欄。
-
 4.  《ONE PIECE》動畫第146集
-
 5.  《ONE PIECE》漫畫單行本第63集SBS專欄
-
 6.  《ONE PIECE》動畫第235集
-
 7.  《ONE PIECE》動畫第151集。
-
 8.  《ONE PIECE》動畫第80集
-
 9.
 10.
 11. 《ONE PIECE》動畫第152集
-
 12.
 13. 《ONE PIECE》漫畫第49集
-
 14. 《ONE PIECE》漫畫第595話。
-
 15. 《ONE PIECE》漫畫第650話。

@@ -1,4 +1,4 @@
-**exFAT**（**Extended File Allocation Table**），又名**FAT64**，是一種[微軟公司](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")（Microsoft）開發的[檔案系統](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")，最先從該公司的[Windows Embedded CE 6.0作業系統引入這種檔案系統](../Page/Windows_Embedded_CE_6.0.md "wikilink")，後又延伸到[Windows Vista](../Page/Windows_Vista.md "wikilink") Service Pack 1作業系統中\[1\]。由於[NTFS](../Page/NTFS.md "wikilink")檔案系統的一些資料格式規定所限，對[快閃記憶體而言exFAT顯得更具優勢](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")，是一種較適合於快閃記憶體的檔案系統。
+**exFAT**（**Extended File Allocation Table**），是一種[微軟公司](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")（Microsoft）開發的[檔案系統](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")，最先從該公司的[Windows Embedded CE 6.0作業系統引入這種檔案系統](../Page/Windows_Embedded_CE_6.0.md "wikilink")，後又延伸到[Windows Vista](../Page/Windows_Vista.md "wikilink") Service Pack 1作業系統中\[1\]。由於[NTFS](../Page/NTFS.md "wikilink")檔案系統的一些資料格式規定所限，對[快閃記憶體而言exFAT顯得更具優勢](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")，是一種較適合於快閃記憶體的檔案系統。
 
 ## 優點
 
@@ -28,9 +28,9 @@ exFAT比過去的[FAT](../Page/FAT.md "wikilink")文件系統的劣勢在於：
 
 </ref>、[任天堂分别和微軟达成了exFAT授權協議](https://zh.wikipedia.org/wiki/任天堂株式会社 "wikilink")。存在專利費。微軟曾經為[FAT](../Page/FAT.md "wikilink")的一部分申請專利。\[4\]曾经有用户从三星的Android中分离出不基于[FUSE](../Page/FUSE.md "wikilink")实现的exFAT内核模块代码并按照Linux的GPL协议释放出来，被认为三星得到微软支持下开发的。\[5\]之后三星也正式释放了相应模块代码。
 
-  -   - 2019年8月，微软公开了exFAT的技术文档，并支持将exFAT功能整合到Linux中。\[6\]
+  -   - 2019年8月，微软公开了exFAT的技术文档，并支持将exFAT功能整合到[Linux内核](../Page/Linux内核.md "wikilink")中。\[6\]Linux内核将于版本5.4中提供初步支持。\[7\]\[8\]
 
-  - Windows XP SP3之前的舊版Windows暂时不支援exFAT，Windows XP可以安裝修改更新KB955704來支援exFAT\[7\]，Linux作業系統需要通过第三方开发的文件系统驱动来支援exFAT（例如，[谷歌公司的exfat工具](https://zh.wikipedia.org/wiki/谷歌公司 "wikilink")\[8\]、FUSE exfat、exfat-nofuse\[9\]、sdfat），Mac OS X可透過升級至10.6.5來全面支援exFAT\[10\]。
+  - Windows XP SP3之前的舊版Windows暂时不支援exFAT，Windows XP可以安裝修改更新KB955704來支援exFAT\[9\]，Linux作業系統需要通过第三方开发的文件系统驱动来支援exFAT（例如，[谷歌公司的exfat工具](https://zh.wikipedia.org/wiki/谷歌公司 "wikilink")\[10\]、FUSE exfat、exfat-nofuse\[11\]、sdfat），Mac OS X可透過升級至10.6.5來全面支援exFAT\[12\]。
 
   - [UEFI不支持exFAT](https://zh.wikipedia.org/wiki/UEFI "wikilink")，只支持[FAT](../Page/FAT.md "wikilink")和[FAT32](https://zh.wikipedia.org/wiki/FAT32 "wikilink")，格式化为exFAT的EFI启动磁盘将无法被识别。然而现今支持EFI引导安装的主流操作系统，其安装文件都存在单个文件大于4GB的情况（如[Windows 10的](../Page/Windows_10.md "wikilink")`install.wim`、[Linux发行版](../Page/Linux发行版.md "wikilink")放置系统文件的[SquashFS](../Page/SquashFS.md "wikilink")映像），显然不能再使用[FAT](../Page/FAT.md "wikilink")与[FAT32](https://zh.wikipedia.org/wiki/FAT32 "wikilink")。
 
@@ -60,7 +60,9 @@ exFAT比過去的[FAT](../Page/FAT.md "wikilink")文件系統的劣勢在於：
 4.
 5.
 6.
-7.  [KB955704](http://support.microsoft.com/?kbid=955704)
-8.  [exfat - Free exFAT file system implementation](http://code.google.com/p/exfat/)
-9.  [exfat-nofuse 的 GitHub 项目主页](https://github.com/dorimanx/exfat-nofuse)
-10. [Mac OS X 10.6.5 正式支援 exFAT－蘋果中文知識網](http://macuknow.com/node/7302)
+7.
+8.
+9.  [KB955704](http://support.microsoft.com/?kbid=955704)
+10. [exfat - Free exFAT file system implementation](http://code.google.com/p/exfat/)
+11. [exfat-nofuse 的 GitHub 项目主页](https://github.com/dorimanx/exfat-nofuse)
+12. [Mac OS X 10.6.5 正式支援 exFAT－蘋果中文知識網](http://macuknow.com/node/7302)

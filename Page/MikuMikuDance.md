@@ -1,4 +1,4 @@
-**M**iku**M**iku**D**ance，簡稱為**MMD**，又稱**未來未來舞**、**萌萌躂**，是[日本人](../Page/日本人.md "wikilink")所開發的一款免費的[3D動畫製作軟體](https://zh.wikipedia.org/wiki/3D動畫 "wikilink")，通过其他3D建模軟體將[VOCALOID](../Page/VOCALOID.md "wikilink")的[初音未來](../Page/初音未來.md "wikilink")等角色製作成3D模組后導入MikuMikuDance進行動畫製作。
+**MikuMikuDance**，簡稱為**MMD**，又稱**未來未來舞**、**萌萌躂**，是所開發的一款免費的[3D動畫製作軟體](https://zh.wikipedia.org/wiki/3D動畫 "wikilink")，通过其他3D建模軟體將[VOCALOID](../Page/VOCALOID.md "wikilink")的[初音未來](../Page/初音未來.md "wikilink")等角色製作成3D模組后導入MikuMikuDance進行動畫製作。「MMD」也用來稱呼以此軟件製作的動畫。
 
 ## 概要
 
@@ -35,7 +35,7 @@ MikuMikuDance在2008年2月24日公開，至3月10日已超過11萬人下載\[1\
 目前解決方法有兩個：
 
 1.  將「控制台\>時鐘、語言和區域\>地區及語言\>系統管理\>非Unicode程式的語言」更改為日文（日本），但此解決方法只適用於[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。
-2.  使用非官方編譯的[漢化](../Page/漢化.md "wikilink")版。
+2.  使用非官方編譯的[漢化版](../Page/中文化.md "wikilink")。
 
 ## 角色模組
 

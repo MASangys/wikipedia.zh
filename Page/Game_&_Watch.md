@@ -475,7 +475,8 @@ Game & Watch系列在世界范围内总共发售了59款游戏，加上1款隨�
 <File:Fire> - Game\&Watch - Nintendo.jpg|<small>*FIRE*
 （、RC-04）</small> <File:GameAndWatch> Popeye.jpg|<small>*POPEYE*
 （、PP-23）</small> <File:Festival> du Jeu Vidéo - 2010-09-11 - Game & Watch Donkey Kong.jpg|<small>*DONKEY KONG*
-（、DK-52）</small> <File:Donkey_Kong_jr_Tabletop.jpg>|<small>*DONKEY KONG JR.*
+（、DK-52）</small> <File:Game&watch-donkey-kong-2.jpg>|<small>*DONKEY KONG II*
+（、JR-55）</small> <File:Donkey_Kong_jr_Tabletop.jpg>|<small>*DONKEY KONG JR.*
 （、CJ-71）</small> <File:Snoopy> (Panorama) - Game\&Watch - Nintendo.jpg|<small>*SNOOPY*
 （、SM-91）</small> <File:Spitball> Sparky - Game\&Watch - Nintendo.jpg|<small>*SPITBALL SPARKY*
 （、BU-201）</small> <File:Game&watch-donkey-kong-3.jpg>|<small>*DONKEY KONG 3*

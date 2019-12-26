@@ -26,9 +26,9 @@ D·J·斯特劳伯里在[2007年NBA选秀](../Page/2007年NBA选秀.md "wikilink
 
   - [Draft Express](https://web.archive.org/web/20070912013340/http://www.draftexpress.com/viewprofile.php?p=1076)
   - [Espn](http://scores.espn.go.com/ncb/player/profile?playerId=15354)
-  - [couting the NBA](http://scoutingthenba.com/index.htm)
+  - [couting the NBA](https://web.archive.org/web/20070930070741/http://scoutingthenba.com/index.htm)
   - [Official UMCP Bio](https://web.archive.org/web/20060118035617/http://umterps.collegesports.com/sports/m-baskbl/mtt/strawberry_dj00.html)
-  - [NBA.com Draft Prospect Profile](http://www.nba.com/draft2007/profiles/DJStrawberry.html)
+  - [NBA.com Draft Prospect Profile](https://web.archive.org/web/20151105214203/http://www.nba.com/draft2007/profiles/DJStrawberry.html)
 
 [Category:非洲裔美國籃球運動員](https://zh.wikipedia.org/wiki/Category:非洲裔美國籃球運動員 "wikilink") [Category:美国男子篮球运动员](https://zh.wikipedia.org/wiki/Category:美国男子篮球运动员 "wikilink") [Category:菲尼克斯太阳队球员](https://zh.wikipedia.org/wiki/Category:菲尼克斯太阳队球员 "wikilink")
 

@@ -102,10 +102,7 @@ Favicon功能最早由[微软](../Page/微软.md "wikilink")创设，而微软�
 [Category:電腦圖示](https://zh.wikipedia.org/wiki/Category:電腦圖示 "wikilink") [Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink") [Category:全球資訊網](https://zh.wikipedia.org/wiki/Category:全球資訊網 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.

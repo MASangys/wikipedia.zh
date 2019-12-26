@@ -24,4 +24,4 @@
 
   - —[D Boy Gun World（Steyr ACR）](http://firearmsworld.net/austria/steyr/acr/acr.htm)
 
-[Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink") [Category:試驗和研究槍械](https://zh.wikipedia.org/wiki/Category:試驗和研究槍械 "wikilink")
+[Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink") [Category:斯太尔武器](https://zh.wikipedia.org/wiki/Category:斯太尔武器 "wikilink") [Category:試驗和研究槍械](https://zh.wikipedia.org/wiki/Category:試驗和研究槍械 "wikilink")

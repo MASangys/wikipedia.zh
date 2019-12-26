@@ -25,16 +25,9 @@
 
 ## 參考資料
 
-<div class="references-small">
-
-<references/>
-
-</div>
-
 [Category:矮橢球星系](https://zh.wikipedia.org/wiki/Category:矮橢球星系 "wikilink") [Category:本星系群](https://zh.wikipedia.org/wiki/Category:本星系群 "wikilink") [Category:大熊座](https://zh.wikipedia.org/wiki/Category:大熊座 "wikilink")
 
 1.
-
 2.
 3.
 4.

@@ -9,8 +9,6 @@
 [Category:域名](https://zh.wikipedia.org/wiki/Category:域名 "wikilink") [Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink")
 
 1.  成功大學分散式系統實驗室，《BIND 介紹》，
-
 2.  TWNIC，《Bind 簡介》，http://dns-learning.twnic.net.tw/bind/intro1.html
-
 3.
 4.  <http://portal.acm.org/citation.cfm?id=894488&dl=ACM&coll=portal>

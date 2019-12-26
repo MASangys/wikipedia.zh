@@ -844,14 +844,14 @@ Erlang程式員可以使用[惰性求值](../Page/惰性求值.md "wikilink")。
   - [Apache CouchDB](http://couchdb.apache.org/)，以Erlang編寫的MapReduce文件式資料庫系統。
   - [RabbitMQ](http://www.rabbitmq.com/)，能搭配Erlang運作的訊息佇列系統。
   - [開放電信平台](../Page/開放電信平台.md "wikilink")
-  - [WhatsApp](../Page/WhatsApp.md "wikilink")：其后端服务器应用使用了**Erlang**及[FreeBSD](../Page/FreeBSD.md "wikilink")\[7\]。支持了4.5亿的月活跃用户！
+  - [WhatsApp](../Page/WhatsApp.md "wikilink")：其后端服务器应用使用了**Erlang**及[FreeBSD](../Page/FreeBSD.md "wikilink")\[7\]。支持了4.5亿的活跃用户
   - [ejabberd](http://www.process-one.net/en/ejabberd/),世界上最流行的[XMPP即时通讯服务器](https://zh.wikipedia.org/wiki/XMPP "wikilink")
 
 ## 社区
 
   - [Erlang Central](http://www.erlangcentral.org/)
   - [Erlang Resources 豆瓣小站](http://site.douban.com/204209/)
-  - [Erlang中文社區 erlang-china.org](http://erlang-china.org/)
+  - [Erlang中文社區 erlang-china.org](https://web.archive.org/web/20080401034625/http://erlang-china.org/)
   - [Erlang中文教程 erlang-cn.com](http://www.erlang-cn.com/)
   - [Erlang中文社区 cnerlang.com](http://www.cnerlang.com/)
   - [Erlang中文 erlang-cn.org](https://web.archive.org/web/20141014051225/http://www.erlang-cn.org/)
@@ -860,6 +860,20 @@ Erlang程式員可以使用[惰性求值](../Page/惰性求值.md "wikilink")。
 
 <references/>
 
+## 延伸阅读
+
+  -
+  -
+  - [Early history of Erlang](http://www.erlang.se/publications/bjarnelic.pdf) by Bjarne Däcker
+
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
 ## 外部連結
 
   - [Erlang開放源碼版本](http://www.erlang.org/)
@@ -869,6 +883,8 @@ Erlang程式員可以使用[惰性求值](../Page/惰性求值.md "wikilink")。
   - [因應軟體錯誤建構可靠的分散式系統](http://www.erlang.org/download/armstrong_thesis_2003.pdf)
 
   -
+  - [Erlang教學](http://www.tw511.com/2/20/701.html)
+
 [Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink") [Category:函数式编程语言](https://zh.wikipedia.org/wiki/Category:函数式编程语言 "wikilink") [Category:宣告式編程語言](https://zh.wikipedia.org/wiki/Category:宣告式編程語言 "wikilink") [Category:Erlang](https://zh.wikipedia.org/wiki/Category:Erlang "wikilink") [Category:愛立信](https://zh.wikipedia.org/wiki/Category:愛立信 "wikilink")
 
 1.

@@ -287,7 +287,7 @@ iPhone6.2</p></td>
 <td><p><strong>3.支援的最新<a href="https://zh.wikipedia.org/wiki/作业系统" title="wikilink">作业系统</a></strong></p></td>
 <td><p>iOS 10.3.4</p></td>
 <td><p>iOS 10.3.3</p></td>
-<td><p>iOS 12.4.2</p></td>
+<td><p>iOS 12.4.3</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -485,7 +485,7 @@ WiFi网页浏览：12<br />
 </tr>
 <tr class="even">
 <td><p><strong>支援的最新<a href="https://zh.wikipedia.org/wiki/作业系统" title="wikilink">作业系统</a></strong></p></td>
-<td><p>iOS 13.1.1</p></td>
+<td><p>iOS 13.2.3</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -941,8 +941,8 @@ FaceTime</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>支援的最新<a href="https://zh.wikipedia.org/wiki/作业系统" title="wikilink">作业系统</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.4.2</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 13.1.1</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.4.3</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 13.2.3</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>显示设备</strong></p></td>
@@ -952,28 +952,28 @@ FaceTime</p></td>
 <tr class="even">
 <td><p><strong><a href="../Page/计算机图形学.md" title="wikilink">图像</a></strong></p></td>
 <td><p>PowerVR SGX543MP2</p></td>
-<td></td>
+<td><p>Apple M10 motion</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/储存装置" title="wikilink">储存装置</a></strong></p></td>
 <td><p>16, 32, 64, 及 128 <a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a></p></td>
-<td></td>
+<td><p>32, 128, or 256 GB flash memory</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/中央处理器.md" title="wikilink">处理器</a></strong></p></td>
 <td><p>1 GHz <a href="../Page/Apple_A8.md" title="wikilink">Apple A8</a> （双核心，频率至 800 MHz）</p></td>
-<td></td>
+<td><p>1.63 GHz 64-bit dual-core <a href="../Page/Apple_A10_Fusion.md" title="wikilink">Apple A10</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/记忆体" title="wikilink">记忆体</a></strong></p></td>
 <td><p>1 <a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a> <a href="https://zh.wikipedia.org/wiki/LPDDR3RAM" title="wikilink">LPDDR3RAM</a></p></td>
-<td></td>
+<td><p>2 GB LPDDR4</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>连接</strong></p></td>
-<td><p><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> (<a href="https://zh.wikipedia.org/wiki/802.11b/g" title="wikilink">802.11b/g</a>),<br />
-<a href="../Page/USB.md" title="wikilink">USB 2.0</a>/<a href="https://zh.wikipedia.org/wiki/Dock" title="wikilink">Dock connector</a></p></td>
-<td></td>
+<td><p><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> (<a href="https://zh.wikipedia.org/wiki/802.11b/g/n" title="wikilink">802.11b/g/n</a>),<br />
+<a href="../Page/USB.md" title="wikilink">USB 2.0</a>/<a href="https://zh.wikipedia.org/wiki/lightning_connector" title="wikilink">lightning connector</a></p></td>
+<td><p>Wi-Fi (802.11 a/b/g/n/ac) (802.11n: 2.4 and 5 GHz) Bluetooth 4.1</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>相机</strong></p></td>
@@ -1084,11 +1084,11 @@ FaceTime</p></td>
 <tr class="odd">
 <td><p>|支持的最新操作系统</p></td>
 <td><p>iOS 5.1.1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS_9" title="wikilink">iOS 9.3.6</a></p></td>
-<td><p>iOS 10.3.4</p></td>
-<td><p>iPadOS 13.1.1</p></td>
-<td><p>iPadOS 13.1.1</p></td>
-<td><p>iPadOS 13.1.1</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_9" title="wikilink">iOS 9.3.5/9.3.6</a></p></td>
+<td><p>iOS 10.3.3/10.3.4</p></td>
+<td><p>iPadOS 13.2.2</p></td>
+<td><p>iPadOS 13.2.2</p></td>
+<td><p>iPadOS 13.2.2</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1169,7 +1169,7 @@ LED 背光多點觸控顯示器，採用 IPS 技術<br />
 <td><p>512 MB <a href="https://zh.wikipedia.org/wiki/Mobile_DDR#LPDDR2" title="wikilink">Dual-Channel LPDDR2</a>[29] DRAM[30][31]</p></td>
 <td><p>1 GB [32]</p></td>
 <td><p>2 <a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a> LPDDR4 DRAM</p></td>
-<td></td>
+<td><p>3 GB LPDDR4 DRAM</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1452,12 +1452,12 @@ International: 2011年3月25日</p></td>
 <td><p>colspan=2 |预装的作业系统</p></td>
 <td><p>iOS 7</p></td>
 <td><p>iOS 8</p></td>
-<td><p>iOS 12.1.4</p></td>
+<td><p>iOS 12</p></td>
 </tr>
 <tr class="odd">
 <td><p>colspan=2 |支援最新的作业系统</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.4.2</p></td>
-<td><p>iPadOS 13.1.1</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.4.3</p></td>
+<td><p>iPadOS 13.2.2</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1490,7 +1490,7 @@ International: 2011年3月25日</p></td>
 <td><p>colspan=2 |图像处理器</p></td>
 <td><p>G6300</p></td>
 <td><p>GX6850</p></td>
-<td></td>
+<td><p>Apple G11P</p></td>
 </tr>
 <tr class="odd">
 <td><p>colspan=2 |储存容量</p></td>
@@ -1658,7 +1658,7 @@ Wi-Fi + 4G model: </p></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 |支援最新的作业系统</p></td>
-<td><p>iPadOS 13.1.1</p></td>
+<td><p>iPadOS 13.2.2</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1858,7 +1858,7 @@ Wi-Fi + cellular: </p></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 |支援最新的作业系统</p></td>
-<td><p>iPadOS 13.1.1</p></td>
+<td><p>iPadOS 13.2.2</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2052,11 +2052,11 @@ eSIM</p></td>
 </tr>
 <tr class="odd">
 <td><p>colspan=2 |支持的最新操作系统</p></td>
-<td><p>iOS 9.3.6</p></td>
-<td><p>iOS 12.4.2</p></td>
-<td><p>iOS 12.4.2</p></td>
-<td><p>iPadOS 13.1.1</p></td>
-<td><p>iPadOS 13.1.1</p></td>
+<td><p>iOS 9.3.5/9.3.6</p></td>
+<td><p>iOS 12.4.3</p></td>
+<td><p>iOS 12.4.3</p></td>
+<td><p>iPadOS 13.2.2</p></td>
+<td><p>iPadOS 13.2.2</p></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 |萤幕</p></td>
@@ -3241,7 +3241,7 @@ International: 2014年11月15日</p></td>
 <td><p>4.1</p></td>
 <td><p>6</p></td>
 <td><p>7</p></td>
-<td><p>8 Beta 2</p></td>
+<td></td>
 <td><p>3.1.3</p></td>
 <td><p>4.3.5</p></td>
 <td><p>5.1.1</p></td>
@@ -4517,112 +4517,61 @@ International: 2014年11月15日</p></td>
 [Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink") [Category:iPad](https://zh.wikipedia.org/wiki/Category:iPad "wikilink") [Category:IPhone](https://zh.wikipedia.org/wiki/Category:IPhone "wikilink") [Category:IPod](https://zh.wikipedia.org/wiki/Category:IPod "wikilink") [Category:计算机硬件列表](https://zh.wikipedia.org/wiki/Category:计算机硬件列表 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15. [That IPod Touch Runs at 533 MHz - PC World](http://www.pcworld.com/article/154518/.html?tk=rss_news)
-
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
 38.
-
 39.
-
 40.
-
 41. [全新 iPad 功能特色](http://www.apple.com/hk/ipad/features/)
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
 59.

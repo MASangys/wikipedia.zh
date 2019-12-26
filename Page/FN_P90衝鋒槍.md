@@ -33,7 +33,7 @@ P90小巧而便攜，擁有高容量彈匣，使用的[5.7×28mm](../Page/5.7×2
 
 ### 結構
 
-P90獨特的外形是基於[生物力學而研究的](https://zh.wikipedia.org/wiki/生物力學 "wikilink")：握把參考了競賽用鎗的設計，手握住握把時可以保持射擊姿勢的舒適，最前方垂直向下的凸起物用作防止副手射擊時意外地伸到鎗口，圓滑的外觀也在很大程度上避免了在作戰中意外被衣物纏繞的情況。考慮到作戰時要在狹窄環境中携帶武器通過或使用武器（例如裝甲車輛內部），P90長度被設計為不長於成年人的平均肩寬（0.5m），因此採用無托結構，即[犢牛式設計](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")，這種設計是鎗機藏於後鎗托內，而進彈位則在握把後方，目的是保留鎗管長度的同時，盡量把鎗身縮短。P90鎗身全長只有50公分，但鎗管仍有263毫米長，較長的鎗管讓子彈加速時間較長且彈速高，有助提高射程及穿透力。枪管内有八条右旋膛线，缠距1:9.1英寸。無托結構的設計還有其他優點：鎗身重心部置靠近握把及較貼近射手，因此有利單手操作及可更快速靈活地改變社稷方向。固定鎗托也很大程度上提高了反應速度及射擊精度。
+P90獨特的外形是基於[生物力學而研究的](https://zh.wikipedia.org/wiki/生物力學 "wikilink")：握把參考了競賽用鎗的設計，手握住握把時可以保持射擊姿勢的舒適，最前方垂直向下的凸起物用作防止副手射擊時意外地伸到鎗口，圓滑的外觀也在很大程度上避免了在作戰中意外被衣物纏繞的情況。考慮到作戰時要在狹窄環境中携帶武器通過或使用武器（例如裝甲車輛內部），P90長度被設計為不長於成年人的平均肩寬（0.5m），因此採用無托結構，即[犢牛式設計](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")，這種設計是鎗機藏於後鎗托內，而進彈位則在握把後方，目的是保留鎗管長度的同時，盡量把鎗身縮短。P90鎗身全長只有50公分，但鎗管仍有263毫米長，較長的鎗管讓子彈加速時間較長且彈速高，有助提高射程及穿透力。枪管内有八条右旋膛线，缠距1:9.1英寸。無托結構的設計還有其他優點：鎗身重心部置靠近握把及較貼近射手，因此有利單手操作及可更快速靈活地改變射擊方向。固定鎗托也很大程度上提高了反應速度及射擊精度。
 
 P90的彈匣位於槍管上方，彈匣為長條形且與槍管平行，子彈在彈匣內的方向與槍管垂直，射擊時會通過匣內的螺旋狀滑槽旋轉90度，與槍管平行後入鏜。彈匣容量50發，提供比大部份其他同類鎗械多60%至100%的持續火力，彈匣以半透明[塑膠制成](https://zh.wikipedia.org/wiki/塑膠 "wikilink")，由於彈匣位於槍身正上方，槍手在射擊時可方便地檢視子彈餘量。橫向裝置的彈匣也使得P90比其他同類槍械更為低矮，只有210毫米高，伏射時射手可以伏得更低。
 
@@ -1102,11 +1102,12 @@ P90的首次實戰紀錄是[比利時的特種部隊用於](https://zh.wikipedia
   - 2013年—《[-{zh-hans:战地4;zh-hant:戰地風雲4}-](../Page/戰地風雲4.md "wikilink")》（Battlefield 4）：型號為P90TR，命名為「P90」，50+1發彈匣，使用“機械瞄具”時會配備透過位於上機匣的戰術導軌上安裝的售後市場覘孔式瞄具。單機模式時能夠被主角丹尼爾·雷克（Daniel Recker）所使用，亦是漢娜的常用武器。聯機模式中完成單機戰役小任務「和平使者」後解鎖，被歸類為[個人防衛武器](../Page/個人防衛武器.md "wikilink")，可被工程兵所使用。
   - 2015年—《[-{zh-hans:战地：硬仗; zh-hant:戰地風雲：強硬路線;}-](../Page/战地：硬仗.md "wikilink")》（Battlefield Hardline）：型號為P90TR（改用重槍管後會形如PS90），命名為「P90」，歸類為衝鋒槍，50+1發彈匣，預設裝上重[槍管](../Page/槍管.md "wikilink")，被匪方機械師（Mechanic）所使用（警察解鎖條件為：以任何陣營進行遊戲使用該槍擊殺1250名敵人後購買武器執照），價格為$30,000。使用“機械瞄具”時會配備透過位於上機匣的戰術導軌上安裝的售後市場覘孔式瞄具。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro T1、SRS 02、[Comp M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍） 、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式紅點鏡、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")）及槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）。劇情模式當中則能夠被主角尼古拉斯·門多薩所使用。
   - 2015 年—《[-{zh-hans:彩虹六号：围攻; zh-hant:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》（Rainbow Six: Siege）：型號為P90TR，命名為「P90」，使用“機械瞄具”時會配備透過位於上[機匣的戰術導軌上安裝的售後市場覘孔式瞄具](https://zh.wikipedia.org/wiki/機匣 "wikilink")，被[法國國家憲兵干預組所使用](../Page/國家憲兵干預組.md "wikilink")。
-  - 2016年—《[殺戮空間2](https://zh.wikipedia.org/wiki/殺戮空間2 "wikilink")》：型號為P90TR，命名為「P90 SMG」，可安裝Trijicon RX30紅點鏡。
+  - 2016年—《[殺戮空間2](../Page/殺戮空間2.md "wikilink")》：型號為P90TR，命名為「P90 SMG」，可安裝Trijicon RX30紅點鏡。
   - 2016年—《[-{zh-hans:使命召唤：现代战争;zh-hant:決勝時刻：現代戰爭;zh-hk:使命召喚：現代戰爭}-重製版](../Page/決勝時刻4：現代戰爭.md "wikilink")》（Call of Duty: Modern Warfare Remastered）：型號為P90 TR，外觀比前作更為精細，而且能讓玩家透過彈匣檢視殘彈量。
   - 2017年—《[-{zh-hans:幽灵行动：荒野; zh-hant:火線獵殺：野境;}-](../Page/火線獵殺：野境.md "wikilink")》（Tom Clancy's Ghost Recon: Wildlands)
   - 2019年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：型號為P90，製造時間為2:29。
   - 2019年—《[湯姆克蘭西：全境封鎖2](../Page/湯姆克蘭西：全境封鎖2.md "wikilink")》：共有P90、艾米琳的護衛、奇特武器「失落的話匣子」三種。
+  - 2019年—《[-{zh-cn:使命召唤：现代战争; zh-tw:決勝時刻：現代戰爭; zh-hk:使命召喚：現代戰爭}-](https://zh.wikipedia.org/wiki/使命召唤：现代战争_\(2019年遊戲\) "wikilink")》：型號為P90 TR（預設），命名為“P90”，可進行自定義改裝。
 
 ### 動畫
 
@@ -1173,9 +1174,7 @@ P90的首次實戰紀錄是[比利時的特種部隊用於](https://zh.wikipedia
 [Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:5.7×28毫米槍械](https://zh.wikipedia.org/wiki/Category:5.7×28毫米槍械 "wikilink") [Category:比利時槍械](https://zh.wikipedia.org/wiki/Category:比利時槍械 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
@@ -1184,218 +1183,120 @@ P90的首次實戰紀錄是[比利時的特種部隊用於](https://zh.wikipedia
 8.
 9.
 10. pistol-training.com[1](http://pistol-training.com/archives/1740)
-
 11.
 12. Gourley, S.; Kemp, I (November 26, 2003）. "The Duellists". Jane's Defence Weekly (ISSN: 02653818), Volume 40 Issue 21, pp 26–28.
-
 13. <http://www.fnherstal.com/index.php?id=267> FN的網頁上，在5.7毫米子彈的的資料中加上了北約推薦（recommended by NATO）的描述
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27. Lasterra, Juan Pablo (2008). "La Police Militaire Brésillienne en état de Guerre" (in Spanish). Police Pro No. 11 (September 2008).
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
 33.
-
 34.
-
 35. Cf. Raf Sauviller, l.c.（2004）. "Le Registre est un nid à Problèmes – Des P90 de la FN ont été Livrésau Surinam et en République Dominicaine: de quoi se Scandaliser?" (in French). La Libre Belgique (August 26, 2002).
-
 36.
 37. Montes, Julio (2003). "Unidades de élite en Centroamérica" (in Spanish). Tecnología Militar, 2003. N. 4, pp 16–20.
-
 38.
-
 39.
-
 40.
-
 41.
 42.
-
 43.
 44.
-
 45. <http://www.geo-army.ge/index.php?option=com_content&view=article&id=481%3A2012-10-09-20-44-43&catid=51%3A2012-03-25-05-57-06&Itemid=175&lang=ka>
-
-46. <http://www.geo-army.ge/index.php?option=com_content&view=article&id=819%3A-26052014-&catid=46%3A2&lang=en>
-
+46.
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52. "Col Moschin 9<sup>o</sup> Reggimento d'Assalto Paracadutisti". RAIDS Italia Magazine (ISSN: 1721-3460), 2007.
-
 53.
-
 54.
-
 55.
-
 56.
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
 63.
 64.
 65.
 66.
-
 67.
-
 68.
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.
-
 78.
-
 79.
-
 80. "Small Arms Market Survey: Giat France/FN Herstal Belgium" (January 25, 1992). Jane's Defence Weekly (ISSN: 02653818), Volume 17 Issue 4, p 127.
-
 81.
-
 82.
-
 83.
-
 84.
-
 85.
-
 86.
-
 87.
-
 88.
 89.
-
 90.
 91. "Taiwan Faces G11 Snub" (December 1, 1992). Defence UK, Volume 23 Issue 12, p 6.
-
 92.
-
 93.
-
 94.
-
 95.
-
 96.
 97.
-
 98.
-
 99.
-
 100.
 101.
-
 102.
-
 103.
-
 104.
-
 105.
-
 106.
-
 107.
-
 108.
-
 109.
-
 110.
-
 111.
-
 112.
-
 113.
-
 114.
-
 115.
-
 116.
-
 117.
-
 118.
-
 119.
-
 120.
-
 121.
 122.
 123.
-
 124.
 125.
-
 126.
-
 127. [影片來源](https://www.youtube.com/watch?v=mxm44RxBQBA&feature=youtu.be&t=14m00s)第14分鐘

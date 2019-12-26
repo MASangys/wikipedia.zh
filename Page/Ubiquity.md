@@ -107,7 +107,7 @@ Mozilla已經不再開發Ubiquity，但是仍然有由社群所維護的版本\[
 
 ## 外部链接
 
-  - [Firefox Add-ons上的Ubiquity](https://addons.mozilla.org/zh-tw/firefox/addon/mozilla-labs-ubiquity/)
+  - [Firefox Add-ons上的Ubiquity](https://web.archive.org/web/20160304095548/https://addons.mozilla.org/zh-tw/firefox/addon/mozilla-labs-ubiquity/)
   - [](http://www.vimeo.com/1561578?pg=embed&sec=1561578)
   - [Ubiquity在Google小组中的讨论组](https://groups.google.com/group/ubiquity-firefox)
 

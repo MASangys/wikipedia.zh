@@ -103,134 +103,76 @@ Larrabee顯示卡計劃被取消後，同樣是在2010年，英特爾MIC多處�
 [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:英特爾產品](https://zh.wikipedia.org/wiki/Category:英特爾產品 "wikilink") [Category:并发计算](https://zh.wikipedia.org/wiki/Category:并发计算 "wikilink")
 
 1.  [Intel: Initial Larrabee graphics chip canceled | Nanotech - The Circuits Blog - CNET News](http://news.cnet.com/8301-13924_3-10409715-64.html)
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  [Larrabee 独显很可能采用 32nm 制程工艺](http://www.hardspell.com/doc/hard/79437.htm)
-
 7.
 8.  [奔腾归来：Intel Larrabee 基于 P5 架构](http://news.mydrivers.com/1/110/110657.htm)
-
 9.  [Intel 制霸显卡新起点 Larrabee 全解析](http://www.inpai.com.cn/doc/hard/85725_3.htm)
-
 10.
-
 11.
 12.
 13. [Intel 独立显卡 Larrabee 三季度出样](http://news.mydrivers.com/1/101/101685.htm)
-
 14.
 15.
-
 16.
 17.
 18.
 19. [Intel 独立显卡 Larrabee 支持光线追踪](http://news.mydrivers.com/1/100/100037.htm)
-
 20. [Intel：光线追踪不是 Larrabee 的重点](http://news.mydrivers.com/1/104/104606.htm)
-
 21.
-
 22.
-
 23.
-
 24.
 25. [Intel：Larrabee 浮点运算能力 2TFlops](http://news.mydrivers.com/1/110/110441.htm)
-
 26.
-
 27.
-
 28. [Intel：且看CPU怎么实现MLAA抗锯齿](http://server.zdnet.com.cn/server/2011/0725/2048803.shtml) - zdnet.com.cn
-
 29.
 30. [Intel 透露 Larrabee 架构细节](http://news.mydrivers.com/1/113/113026.htm)
-
 31. [Intel Larrabee：核心翻番、性能翻番](http://news.mydrivers.com/1/113/113034.htm)
-
 32.
 33.
-
 34. [Intel于i7后重大举措 Larrabee显卡雏形](http://digi.163.com/08/1126/09/4RLQ8QKM001618J1.html) - 163.com
-
 35.
 36.
-
 37. [英特尔Larrabee独立显卡发展AIB/AIC](http://tech.sina.com.cn/s/s/2008-04-03/1139623330.shtml) - www.sina.com.cn
-
 38. [三雄争霸！Intel和AIB厂商密谈larrabee显卡事宜](http://www.expreview.com/3734.html) - expreview.com
-
 39. [E3评论：PS4上AMD捡了Intel Larrabee的剩饭？](http://news.mydrivers.com/1/230/230939.htm) - mydrivers.com
-
 40.
-
 41.
-
 42.
-
 43. [Intel kills Larrabee discrete GPU, will focus on integrated graphics](http://www.engadget.com/2010/05/25/intel-kills-larrabee-discrete-gpu-will-focus-on-integrated-grap/)
-
 44. [Intel Larrabee显卡首次现场演示](http://news.mydrivers.com/1/145/145276.htm) - mydrivers.com
-
 45. [Intel's Larrabee GPU put on ice, more news to come in 2010](http://arstechnica.com/hardware/news/2009/12/intels-larrabee-gpu-put-on-ice-more-news-to-come-in-2010.ars)
-
 46. [英特尔:Larrabee 独立显卡项目未取消](http://www.pcpop.com/doc/0/533/533033.shtml)
-
 47. [Intel：Larrabee 显卡初期只是软件开发平台](http://news.mydrivers.com/1/150/150668.htm)
-
 48. [新闻分析：Intel Larrabee 缘何陷入僵局](http://news.mydrivers.com/1/150/150729.htm)
-
 49. [Intel 独立显卡基本泡汤](http://news.mydrivers.com/1/165/165347.htm)
-
 50. [Intel Cancels Larrabee Retail Products, Larrabee Project Lives On - AnandTech :: Your Source for Hardware Analysis and News](http://www.anandtech.com/weblog/showpost.aspx?i=659)
-
 51. [Intel：Larrabee显卡初期只是软件开发平台](http://news.mydrivers.com/1/150/150668.htm) - mydrivers.com
-
 52. [Intel 彻底放弃 Larrabee 架构独立显卡？](http://www.inpai.com.cn/doc/hard/134263.htm)
-
 53. [Intel承认推出Larrabee独立显卡不现实](http://www.expreview.com/12098.html) - expreview.com
-
 54.
 55. [Technology@Intel · An Update On Our Graphics-related Programs](http://blogs.intel.com/technology/2010/05/an_update_on_our_graphics-rela.php)
-
 56. [Intel未来战略解析：Larrabee显卡复活](http://news.chinabyte.com/46/12164546.shtml) - chinabyte.com
-
 57. [PCINLIFE: Intel Larrabee GPU 体系结构初览](http://www.pcinlife.com/article/graphics/2009-06-22/1245662175d828.html)
-
 58.
-
 59.
 60.
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66. [Intel：黄仁勋是 Larrabee 最佳代言人](http://www.hardspell.com/doc/hard/81130.htm)
-
 67.
-
 68.
-
 69.
-
 70. [Larrabee 驱动开发团队有别于 IGP 团队](http://www.hardspell.com/doc/hard/81131.htm)
-
 71.
-
 72.
 73.
-
 74.

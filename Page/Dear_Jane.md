@@ -48,7 +48,7 @@ Dear Jane靠副業撐住Rock下去</ref> ，並在2017年9月14日誕下女兒�
 
   - 伍漢邦（Jackal）
 
-    歲，於Dear Jane樂隊中擔任低音結他手，早期為鼓手。畢業於[香港正形設計學校](https://zh.wikipedia.org/wiki/香港正形設計學校 "wikilink")（商業設計），現為世界著名[銅鈸品牌](https://zh.wikipedia.org/wiki/鈸 "wikilink")[Zildjian香港區代言人之一](../Page/蕭特知音公司.md "wikilink")\[5\]，考獲[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[聖三一音樂學院](../Page/倫敦聖三一學院.md "wikilink")[爵士鼓](../Page/爵士鼓.md "wikilink")8級證書，並曾擔任全職鼓樂導師。於2004年到[日本](../Page/日本.md "wikilink")修讀由著名敲擊樂手——Arthur Hull主辦的工作坊，學習多種集體鼓樂技巧。並擔任[日本](../Page/日本.md "wikilink")Drum Circle指揮。個人演出包括包括《[台灣MTV音樂高峰會](https://zh.wikipedia.org/wiki/台灣 "wikilink")》、《春天吶喊音樂節》、《野台開唱音樂節》、《[生力Wild](../Page/香港生力啤酒廠.md "wikilink") Day Out》，亦曾於《[張震嶽Queen](https://zh.wikipedia.org/wiki/張震嶽 "wikilink")'s突擊派對》、《[周杰倫](../Page/周杰倫.md "wikilink")[深圳演唱會](https://zh.wikipedia.org/wiki/深圳 "wikilink")》中擔任Drum Tech。Jackal 曾為地下樂隊[醒神薑](https://zh.wikipedia.org/wiki/醒神薑 "wikilink")（[Sanskrit](https://zh.wikipedia.org/wiki/Sanskrit "wikilink")）當鼓手；亦於 2006年底至2009年4月為樂隊[野仔](https://zh.wikipedia.org/wiki/野仔 "wikilink")（WildChild）當鼓手，第一首為樂隊野仔所編的鼓譜是《相約在八王子》，此歌曲於電台熱播更令野仔加強信心，因而重組。
+    歲，於Dear Jane樂隊中擔任低音結他手，早期為鼓手。畢業於[香港正形設計學校](https://zh.wikipedia.org/wiki/香港正形設計學校 "wikilink")（商業設計），現為世界著名[銅鈸品牌](https://zh.wikipedia.org/wiki/鈸 "wikilink")[Zildjian香港區代言人之一](../Page/蕭特知音公司.md "wikilink")\[5\]，考獲[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[聖三一音樂學院](../Page/倫敦聖三一學院.md "wikilink")[爵士鼓](../Page/爵士鼓.md "wikilink")8級證書，並曾擔任全職鼓樂導師。於2004年到[日本](../Page/日本.md "wikilink")修讀由著名敲擊樂手——Arthur Hull主辦的工作坊，學習多種集體鼓樂技巧。並擔任[日本](../Page/日本.md "wikilink")Drum Circle指揮。個人演出包括包括《[台灣MTV音樂高峰會](https://zh.wikipedia.org/wiki/台灣 "wikilink")》、《春天吶喊音樂節》、《野台開唱音樂節》、《[生力Wild](../Page/香港生力啤酒廠.md "wikilink") Day Out》，亦曾於《[張震嶽](../Page/張震嶽.md "wikilink")Queen's突擊派對》、《[周杰倫](../Page/周杰倫.md "wikilink")[深圳演唱會](https://zh.wikipedia.org/wiki/深圳 "wikilink")》中擔任Drum Tech。Jackal 曾為地下樂隊[醒神薑](https://zh.wikipedia.org/wiki/醒神薑 "wikilink")（[Sanskrit](https://zh.wikipedia.org/wiki/Sanskrit "wikilink")）當鼓手；亦於 2006年底至2009年4月為樂隊[野仔](https://zh.wikipedia.org/wiki/野仔 "wikilink")（WildChild）當鼓手，第一首為樂隊野仔所編的鼓譜是《相約在八王子》，此歌曲於電台熱播更令野仔加強信心，因而重組。
 
 <!-- end list -->
 
@@ -243,12 +243,12 @@ Dear Jane靠副業撐住Rock下去</ref> ，並在2017年9月14日誕下女兒�
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/The_Timeline_Project" title="wikilink">The Timeline Project</a></p></td>
 <td style="text-align: left;"><p>EP</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/華納唱片_(香港)" title="wikilink">華納唱片 (香港)</a></p></td>
-<td style="text-align: left;"><p>--年--月--日</p></td>
+<td style="text-align: left;"><p>2020年--月--日</p></td>
 <td style="text-align: left;"><p><strong>CD</strong></p>
 <ol>
 <li>碌架床</li>
 <li>2084</li>
-<li>--</li>
+<li>富上代</li>
 <li>--</li>
 <li>--</li>
 </ol></td>
@@ -331,6 +331,7 @@ Dear Jane靠副業撐住Rock下去</ref> ，並在2017年9月14日誕下女兒�
 | Infinity & Eternity                                                                 |
 | **2019年**                                                                           |
 | Infinity & Eternity                                                                 |
+|                                                                                     |
 |                                                                                     |
 |                                                                                     |
 |                                                                                     |

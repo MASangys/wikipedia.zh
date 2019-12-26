@@ -1,4 +1,4 @@
-[Taipei_West_Bus_Station_Terminal_A_inside_2.jpg](https://zh.wikipedia.org/wiki/File:Taipei_West_Bus_Station_Terminal_A_inside_2.jpg "fig:Taipei_West_Bus_Station_Terminal_A_inside_2.jpg") **臺北西站A棟**（[英語譯名](https://zh.wikipedia.org/wiki/英語 "wikilink")：Taipei West Bus Station Terminal A，另有一誤用的名字**交六轉運站**\[1\]、**臺北西A站**或**臺北Ａ站**\[2\]），位於[臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[中正區](https://zh.wikipedia.org/wiki/中正區_\(臺北市\) "wikilink")、[臺北車站特定專用區交通六號用地東南角](https://zh.wikipedia.org/wiki/臺北車站 "wikilink")，為[臺北市](../Page/臺北市.md "wikilink")主要的[公路長途客運](../Page/臺灣汽車客運.md "wikilink")（國道客運）車站之一，其前身為臺北東站、臺北北站及國道客運臺北總站。為了配合[臺北市政府](../Page/臺北市政府.md "wikilink")的[西區門戶計畫](http://tpstation.com.tw/)，在2016年10月30日停止使用、並將予以拆除\[3\]\[4\]。
+[Taipei_West_Bus_Station_Terminal_A_inside_2.jpg](https://zh.wikipedia.org/wiki/File:Taipei_West_Bus_Station_Terminal_A_inside_2.jpg "fig:Taipei_West_Bus_Station_Terminal_A_inside_2.jpg") **臺北西站A棟**（[英語譯名](https://zh.wikipedia.org/wiki/英語 "wikilink")：Taipei West Bus Station Terminal A，另有一誤用的名字**交六轉運站**\[1\]、**臺北西A站**或**臺北Ａ站**\[2\]），位於[臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[中正區](https://zh.wikipedia.org/wiki/中正區_\(臺北市\) "wikilink")、[臺北車站特定專用區交通六號用地東南角](https://zh.wikipedia.org/wiki/臺北車站 "wikilink")，為[臺北市](../Page/臺北市.md "wikilink")主要的[公路長途客運](../Page/臺灣汽車客運.md "wikilink")（國道客運）車站之一，其前身為臺北東站、臺北北站及國道客運臺北總站。為了配合[臺北市政府](../Page/臺北市政府.md "wikilink")的[西區門戶計畫](https://web.archive.org/web/20171031121001/http://tpstation.com.tw/)，在2016年10月30日停止使用、並將予以拆除\[3\]\[4\]。
 
 ## 概要
 
@@ -53,8 +53,8 @@ R7：[館前路](../Page/館前路.md "wikilink")\]\]
 <td><p>2</p></td>
 <td><p><a href="../Page/三重客運.md" title="wikilink">三重客運</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:EasyCard_Color_Sample.svg" title="fig:EasyCard_Color_Sample.svg">EasyCard_Color_Sample.svg</a>1210（往林口長庚醫院、竹林山觀音寺）</p></td>
-<td><p>原改車站站上下客<br />
-2016年11月12日改臺北車站北一門上下客</p></td>
+<td><p>原改「後車站」站上下客<br />
+2016年11月12日改臺北車站北二門上下客</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/三重客運.md" title="wikilink">三重客運</a><br />
@@ -124,7 +124,7 @@ R7：[館前路](../Page/館前路.md "wikilink")\]\]
 ## 參考文獻
 
   -
-  - [西區門戶計畫官網](http://tpstation.com.tw/)
+  - [西區門戶計畫官網](https://web.archive.org/web/20171031121001/http://tpstation.com.tw/)
 
 <div class="references-small">
 

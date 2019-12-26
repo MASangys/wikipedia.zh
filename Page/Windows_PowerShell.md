@@ -24,48 +24,47 @@ Windows PowerShell是以[.NET Framework技術為基礎](../Page/.NET框架.md "w
 
 ## 範例
 
-  - 获取所有命令\[4\]：
-
-`PS> Get-Command`
-
-  - 查看Get-Command命令的用法\[5\]：
-
-`PS> Get-Help Get-Command`
-
   - 停止所有目前執行中的以"p"字元開頭命名的程式：
 
-`PS> get-process p* | stop-process`
+<!-- end list -->
+
+``` powershell
+get-process p* | stop-process
+```
 
   - 停止所有目前執行中的所有使用大於1000MB記憶體的程式：
 
-`PS> get-process | where { $_.WS -gt 1000MB } | stop-process`
+<!-- end list -->
+
+``` powershell
+get-process | where { $_.WS -gt 1000MB } | stop-process
+```
 
   - 計算一個目錄下檔案內的位元組大小：
 
-`PS> get-childitem | measure-object -property length -sum`
+<!-- end list -->
 
-  - 等待一個叫做"notepad"的程式執行結束：
-
-`PS> $processToWatch = get-process notepad`
-`PS> $processToWatch.WaitForExit()`
+``` powershell
+get-childitem | measure-object -property length -sum
+```
 
   - 將"hello, world\!"字串轉為英文大寫字元，成為"HELLO, WORLD\!"：
 
-`PS> "hello, world!".ToUpper()`
+<!-- end list -->
 
-  - 在字串"string"的第1個字元後插入字串"ABC"，成為"sABCtring"：
-
-`PS> "string".Insert(1, "ABC")`
+``` powershell
+"hello, world!".ToUpper()
+```
 
   - 訂閱一個指定的RSS Feed並顯示它最近8個主題：
 
-`PS> $rssUrl = "`<http://blogs.msdn.com/powershell/rss.aspx>`"`
-`PS> $blog = [xml](new-object System.Net.WebClient).DownloadString($rssUrl)`
-`PS> $blog.rss.channel.item | select title -first 8`
+<!-- end list -->
 
-  - 把"$UserProfile"設定成數值"UserProfile"的環境變數：
-
-`PS> $UserProfile = $env:UserProfile`
+``` powershell
+$rssUrl = "http://blogs.msdn.com/powershell/rss.aspx"
+$blog = [xml](new-object System.Net.WebClient).DownloadString($rssUrl)
+$blog.rss.channel.item | select title -first 8
+```
 
 ## 參考文獻
 
@@ -119,5 +118,3 @@ Windows PowerShell是以[.NET Framework技術為基礎](../Page/.NET框架.md "w
 1.
 2.
 3.
-4.
-5.

@@ -2,17 +2,17 @@
 
 ## 介绍
 
-本专辑虽然是一张精选集，但张学友此次摈弃以往只选入主打歌的风格，转而精选一些往往被忽视的歌曲，并对其重新定量编曲\[1\]。除了张学友亲自精选的歌曲外，本专辑还包括五首新歌：《[如果不爱你](https://zh.wikipedia.org/wiki/如果不爱你 "wikilink")》、《[忘了哭](https://zh.wikipedia.org/wiki/忘了哭 "wikilink")》、《[黑白画映](https://zh.wikipedia.org/wiki/黑白画映 "wikilink")》、《[我不明白](https://zh.wikipedia.org/wiki/我不明白 "wikilink")》和《[Sorry](https://zh.wikipedia.org/wiki/Sorry "wikilink")》\[2\]。
+這張『黑與白』精選集收錄5首新歌加21首學友自選情歌。
 
-除了21首精选歌曲、5首新歌外，本专辑还包括10首MV\[3\]。
+舊歌選曲範圍1985\~2004年,由張學友親自參與選歌。學友表示以往的精選集都是由唱片公司自行做決定，但這一次的「黑與白」他則認真的參與了整個選歌過程，也請歌迷能夠重新認識這些歌曲！
 
-張學友曾表示以往的精選專輯都是由唱片公司安排好精選歌曲，但這次是由張學友自己參與製作，並由學友本人挑選歌曲，希望推薦一些非主打的歌曲給大家。
+這張專輯的附標稱為「The Second Best Collection」，就是代表了這張精選集所收錄的歌曲並不像往常精選集只收錄主打歌的方式，而是挑出了所謂的第二主打、甚至隱藏在專輯中無法脫穎而出的好歌，例如曲目中的「離人」、「苦戀」和「最後一封信」等等，也許在當時這些歌曲無法成為專輯主打，但學友表示，在經過一段時間之後，這些歌曲依舊耐聽。
 
-### 曲目
+\[1\]
 
-#### Disc 1
+#### CD 1
 
-#### Disc 2
+#### CD 2
 
 #### DVD
 
@@ -21,5 +21,3 @@
 [Category:張學友音樂專輯](https://zh.wikipedia.org/wiki/Category:張學友音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
 1.
-2.
-3.

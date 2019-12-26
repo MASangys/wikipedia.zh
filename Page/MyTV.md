@@ -136,41 +136,23 @@ myTV+於2010年10月19日起推出測試版，至2011年10月8日結束，已註
 [Category:無綫電視](https://zh.wikipedia.org/wiki/Category:無綫電視 "wikilink") [Category:網路電視](https://zh.wikipedia.org/wiki/Category:網路電視 "wikilink")
 
 1.  [常見問題](http://www.tvb.com/info/faq/facebook.html)
-
 2.  [立即連接facebook-與好友分享你的意見](http://b.tvb.com/whatsnew/tvbcom%E6%98%94%E6%97%A5%E6%B6%88%E6%81%AF/2010/04/22/%E7%AB%8B%E5%8D%B3%E9%80%A3%E6%8E%A5facebook-%E8%88%87%E5%A5%BD%E5%8F%8B%E5%88%86%E4%BA%AB%E4%BD%A0%E7%9A%84%E6%84%8F%E8%A6%8B/) tvb.com最新消息，2010年4月22日
-
 3.  [常見問題-MyTV是什麼](http://mytv.tvb.com/faq.html?lang&lang=zh-hant-hk)
-
 4.  [1](http://b.tvb.com/whatsnew/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/2010/08/02/tvbcom%E2%80%94%E7%B6%B2%E4%B8%8A%E7%9B%B4%E6%92%AD%E9%AB%98%E6%B8%85%E7%BF%A1%E7%BF%A0%E5%8F%B0%E9%BB%83%E9%87%91%E6%99%82%E6%AE%B5%E7%AF%80%E7%9B%AE%EF%B9%97%E5%8D%B3%E4%B8%8Amytv%EF%B9%97/tvb.com—網上直播高清翡翠台黃金時段節目) tvb.com最新消息，2010年8月2日
-
 5.  [myTV 播放音樂節目及網上直播《超級巨聲2》終極決戰](http://b.tvb.com/whatsnew/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/2010/09/07/mytv%E6%92%AD%E6%94%BE%E9%9F%B3%E6%A8%82%E7%AF%80%E7%9B%AE%E5%8F%8A%E7%B6%B2%E4%B8%8A%E7%9B%B4%E6%92%AD%E5%B7%A8%E8%81%B22%E7%B5%82%E6%A5%B5%E6%B1%BA%E6%88%B0/)
-
 6.  [myTV 節目整合改動](http://b.tvb.com/whatsnew/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/2010/09/18/mytv-%E7%AF%80%E7%9B%AE%E6%95%B4%E5%90%88%E6%94%B9%E5%8B%95/) tvb.com最新消息，2010年9月18日
-
 7.  [互動新聞台24小時的網上直播頻道](http://inews.tvb.com)
-
 8.  [MSN 精彩 10 年](http://promotion.hk.msn.com/10)
-
 9.  [mytv x MSN](http://promotion.hk.msn.com/mytvxmsn)
-
-10. [關於myTV未能於外地播放及廣告問題](http://forum.tvb.com/viewtopic.php?f=36&t=70622)
-
+10.
 11. [頂 Cup 世界盃嘉年華 – TVB 現場旁述完整版](http://b.tvb.com/whatsnew/tvbcom%E6%98%94%E6%97%A5%E6%B6%88%E6%81%AF/2010/07/07/%E9%A0%82-cup-%E4%B8%96%E7%95%8C%E7%9B%83%E5%98%89%E5%B9%B4%E8%8F%AF-%E2%80%93-tvb-%E7%8F%BE%E5%A0%B4%E6%97%81%E8%BF%B0%E5%AE%8C%E6%95%B4%E7%89%88/)
-
 12. [tvbcom—網上直播高清翡翠台黃金時段節目﹗即上mytv﹗](http://b.tvb.com/whatsnew/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/2010/08/02/tvbcom%E2%80%94%E7%B6%B2%E4%B8%8A%E7%9B%B4%E6%92%AD%E9%AB%98%E6%B8%85%E7%BF%A1%E7%BF%A0%E5%8F%B0%E9%BB%83%E9%87%91%E6%99%82%E6%AE%B5%E7%AF%80%E7%9B%AE%EF%B9%97%E5%8D%B3%E4%B8%8Amytv%EF%B9%97/) tvb.com最新消息，2010年8月1日
-
 13. [myTV播放音樂節目及網上直播《超級巨聲2》終極決戰](http://b.tvb.com/whatsnew/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/2010/09/07/mytv%E6%92%AD%E6%94%BE%E9%9F%B3%E6%A8%82%E7%AF%80%E7%9B%AE%E5%8F%8A%E7%B6%B2%E4%B8%8A%E7%9B%B4%E6%92%AD%E5%B7%A8%E8%81%B22%E7%B5%82%E6%A5%B5%E6%B1%BA%E6%88%B0/)
-
 14. [mytv播放音樂節目及網上直播巨聲2終極決戰](http://b.tvb.com/whatsnew/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/2010/09/07/mytv%E6%92%AD%E6%94%BE%E9%9F%B3%E6%A8%82%E7%AF%80%E7%9B%AE%E5%8F%8A%E7%B6%B2%E4%B8%8A%E7%9B%B4%E6%92%AD%E5%B7%A8%E8%81%B22%E7%B5%82%E6%A5%B5%E6%B1%BA%E6%88%B0/) tvb.com最新消息，2010年9月7日
-
 15.
 16.
 17. [myTV+ 測試用戶登記經已結束](http://b.tvb.com/whatsnew/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/2011/10/08/mytv-%E6%B8%AC%E8%A9%A6%E8%A8%88%E5%8A%83%E7%B6%93%E5%B7%B2%E5%AE%8C%E7%95%A2-mytv-beta-plan-has-ended/)
-
 18. [全新 myTV 正式登場](http://b.tvb.com/whatsnew/%e6%9c%80%e6%96%b0%e6%b6%88%e6%81%af/2011/11/08/%e5%85%a8%e6%96%b0-mytv-%e6%ad%a3%e5%bc%8f%e7%99%bb%e5%a0%b4/)
-
 19. [myTV 全城獨家．頒獎禮全面直播\!](http://b.tvb.com/whatsnew/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/2011/12/03/mytv-%E5%85%A8%E5%9F%8E%E7%8D%A8%E5%AE%B6%EF%BC%8E%E9%A0%92%E7%8D%8E%E7%A6%AE%E5%85%A8%E9%9D%A2%E7%9B%B4%E6%92%AD/)
-
 20. [《天與地》全劇 30 集 myTV 足本重溫](http://b.tvb.com/whatsnew/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/2012/01/02/%E3%80%8A%E5%A4%A9%E8%88%87%E5%9C%B0%E3%80%8B%E5%85%A8%E5%8A%87-29-%E9%9B%86-mytv-%E8%B6%B3%E6%9C%AC%E9%87%8D%E6%BA%AB/)
-
 21. [myTV 高清．新體驗 — 新版本正式推出](http://b.tvb.com/whatsnew/?p=13081)

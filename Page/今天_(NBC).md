@@ -175,20 +175,12 @@
 [Category:美國電視新聞節目](https://zh.wikipedia.org/wiki/Category:美國電視新聞節目 "wikilink") [Category:早间电视节目](https://zh.wikipedia.org/wiki/Category:早间电视节目 "wikilink") [Category:NBC電視節目](https://zh.wikipedia.org/wiki/Category:NBC電視節目 "wikilink") [Category:NBC新闻](https://zh.wikipedia.org/wiki/Category:NBC新闻 "wikilink")
 
 1.  [A New Dawn for 'Today’ - 8/21/2006 - Broadcasting & Cable](http://www.broadcastingcable.com/article/CA6364164.html)
-
 2.
-
 3.
 4.  [1](http://query.nytimes.com/gst/fullpage.html?res=9B0DEFDD103CF936A35757C0A961948260)
-
 5.  [Monica Collins, "Memo to NBC: We Love Scott", *[USA Today](https://zh.wikipedia.org/wiki/USA_Today "wikilink")*, [March 1](https://zh.wikipedia.org/wiki/March_1 "wikilink"), 1989.](http://pqasb.pqarchiver.com/USAToday/access/4066132.html?dids=4066132&FMT=ABS&FMTS=ABS&date=Mar+1%2C+1989&author=Collins%2C+Monica&pub=USA+TODAY&edition=&startpage=D1&desc=Memo+to+NBC%3A+We+Love+Scott)
-
 6.  [Brian Donlon, "On *Today*, it's kiss and make up", ''[USA Today](https://zh.wikipedia.org/wiki/USA_Today "wikilink"), [March 14](https://zh.wikipedia.org/wiki/March_14 "wikilink"), 1989.](http://pqasb.pqarchiver.com/USAToday/access/55908252.html?dids=55908252:55908252&FMT=ABS&FMTS=ABS:FT&date=Mar+14%2C+1989&author=Brian+Donlon&pub=USA+TODAY+\(pre-1997+Fulltext\)&edition=&startpage=01.D&desc=On+%60Today%2C%27+it%27s+kiss+and+make+up)
-
 7.
-
 8.  [[Redlasso](https://zh.wikipedia.org/wiki/Redlasso "wikilink") - Jane Fonda Video](http://www.redlasso.com/ClipPlayer.aspx?id=45607794-9819-40e8-908e-a72101d8c22a)
-
 9.  [Newsvine - Jane Fonda Uses Vulgar Slang on \`Today'](http://www.newsvine.com/_news/2008/02/14/1301473-jane-fonda-uses-vulgar-slang-on-today)
-
 10. [NBC Assaults Families with Offensive Language on Today Show](http://www.parentstv.org/PTC/publications/release/2008/0214.asp)

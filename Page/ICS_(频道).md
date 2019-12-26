@@ -31,7 +31,6 @@
   - 直播上海（Shanghai Live）
   - 财道（Money Talks）
   - 财智对话（Minds of Millionaires）
-  - 秀真集（Real Fun）
   - 周末真人秀
   - 海外路路通
   - 环球新生活（Travel Front）
@@ -42,8 +41,9 @@
   - 恋上北海道
   - 中日新视界
   - 车游天下（Getaway）
-  - 洋厨房（You Are The Chef）
-  - 白领白话
+  - 洋厨房（You Are The Chef，亦在新闻综合频道播出）
+
+另外，如果[五星体育频道有体育赛事直播](https://zh.wikipedia.org/wiki/五星体育频道 "wikilink")，而[上海广播电视台](../Page/上海广播电视台.md "wikilink")又有其它需要直播的赛事，这些赛事有时会安排在ICS播出。
 
 ### 过往节目
 
@@ -56,6 +56,8 @@
   - 金牌大状
   - 城市节拍（City Beat）
   - [极速前进：冲刺！中国](https://zh.wikipedia.org/wiki/极速前进：冲刺！中国 "wikilink")（第1、2、3季）
+  - 白领白话
+  - 秀真集（Real Fun）
 
 ### 季播节目
 

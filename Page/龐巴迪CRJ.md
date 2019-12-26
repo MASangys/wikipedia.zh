@@ -34,7 +34,7 @@ CRJ-200的[公務機版本](https://zh.wikipedia.org/wiki/公務機 "wikilink")�
 
 ### CRJ-700系列
 
-[Bombardier_CRJ700_vs_CRJ900.jpg](https://zh.wikipedia.org/wiki/File:Bombardier_CRJ700_vs_CRJ900.jpg "fig:Bombardier_CRJ700_vs_CRJ900.jpg") CRJ-700系列是70座级支线喷气飞机，1997年1月21日启动研製計劃，\[7\]最初型号定为CRJ-X。\[8\]
+[Bombardier_CRJ700_vs_CRJ900.jpg](https://zh.wikipedia.org/wiki/File:Bombardier_CRJ700_vs_CRJ900.jpg "fig:Bombardier_CRJ700_vs_CRJ900.jpg")CRJ-700（上）與CRJ-900（下）的對比圖\]\] CRJ-700系列是70座级支线喷气飞机，1997年1月21日启动研製計劃，\[7\]最初型号定为CRJ-X。\[8\]
 
 CRJ-700系列在CRJ-200的基础上，配备前缘缝翼和新的机身结构，並安装推力更大的通用电气CF34-8系列发动机。\[9\]
 
@@ -329,16 +329,12 @@ LR：41.01千牛（9,220磅）</p></td>
 [Category:支线客机](https://zh.wikipedia.org/wiki/Category:支线客机 "wikilink") [Category:庞巴迪宇航公司飞机](https://zh.wikipedia.org/wiki/Category:庞巴迪宇航公司飞机 "wikilink")
 
 1.  [空客预测未来20年中国内地需要3000多架飞机](http://news.eastday.com/c/20070214/u1a2630794.html)
-
 2.  [龐巴迪宇航公司](http://www.bombardier.com/)
-
 3.  [CRJ系列](http://www.xmyzl.com/showart.asp?art_id=10) ，民航休闲小站
-
 4.
 5.
 6.
 7.  [资料：庞巴迪CRJ200、700、900飞机标准型数据](http://mil.news.sina.com.cn/2004-11-21/1134244911.html)，新浪网，2004年11月21日
-
 8.
 9.
 10.
@@ -347,25 +343,14 @@ LR：41.01千牛（9,220磅）</p></td>
 13.
 14.
 15. [CRJ700 Specifications](http://www.crj700.com/CRJ/en/specifications.jsp?langId=en&crjId=700). Bombardier
-
 16. [CRJ700 NextGen Fact Sheet](http://www2.bombardier.com/en/3_0/3_6/pdf/Paris2009/CRJ_700_Factsheet.pdf) . Bombardier, June 2009.
-
 17. [CRJ700 NextGen Fact Sheet](http://www.crjnextgen.com/CRJ/en/NextGen/pdf/CRJ700_EN.pdf) at crjnextgen.com
-
 18. [CRJ705 Specifications](http://www.crj700.com/CRJ/en/specifications.jsp?langId=en&crjId=705). Bombardier
-
 19. [CRJ705 Interior](http://www.crj700.com/CRJ/en/specifications.jsp?langId=en&crjId=705). Bombardier
-
 20. [CRJ900 Specifications](http://www.crj.bombardier.com/CRJ/en/specifications.jsp?langId=en&crjId=900). Bombardier
-
 21. [CRJ900 NextGen Fact Sheet](http://www2.bombardier.com/en/3_0/3_6/pdf/Paris2009/CRJ_900_Factsheet.pdf) . Bombardier, June 2009.
-
 22. [CRJ900 NextGen Fact Sheet](http://www.crjnextgen.com/CRJ/en/NextGen/pdf/CRJ900_EN.pdf) at crjnextgen.com
-
 23. [CRJ1000 NextGen Fact Sheet](http://www2.bombardier.com/en/3_0/3_6/pdf/Paris2009/CRJ_1000_Factsheet.pdf) . Bombardier, June 2009.
-
 24. [CRJ1000 NextGen Fact Sheet](http://crj1000nextgen.bombardier.com/pdf/CRJ1000_factsheet.pdf)  at crjnextgen.com
-
 25. [Bombardier CRJ1000](http://www.globalsecurity.org/military/world/canada/crj1000.htm) at globalsecurity.org
-
 26. [Meet the Bombardier CRJ1000 EuroLite](http://www.flightglobal.com/blogs/runway-girl/2008/07/meet-the-bombardier-crj1000-eu.html) at flightglobal.com

@@ -84,13 +84,9 @@ XF11C-3採用與C-2相同出力但不同型號的懷特[R-1820-80發動機](http
 [Category:美國戰鬥機](https://zh.wikipedia.org/wiki/Category:美國戰鬥機 "wikilink") [Category:艦載機](https://zh.wikipedia.org/wiki/Category:艦載機 "wikilink") [Category:雙翼機](https://zh.wikipedia.org/wiki/Category:雙翼機 "wikilink") [Category:柯蒂斯公司生产的飞机](https://zh.wikipedia.org/wiki/Category:柯蒂斯公司生产的飞机 "wikilink") [Category:中華民國空軍戰鬥機](https://zh.wikipedia.org/wiki/Category:中華民國空軍戰鬥機 "wikilink") [Category:抗戰時期中國空軍戰鬥機](https://zh.wikipedia.org/wiki/Category:抗戰時期中國空軍戰鬥機 "wikilink") [Category:抗戰時期中國武器](https://zh.wikipedia.org/wiki/Category:抗戰時期中國武器 "wikilink")
 
 1.  "The Complete Encyclopedia of World Aircraft" [cover](http://images.barnesandnoble.com/images/5490000/5496066.gif) Editors: Paul Eden & Soph Moeng,（Amber Books Ltd. Bradley's Close, 74-77 White Lion Street, London, NI 9PF, 2002, ISBN 0-7607-3432-1）, 1152 pp.
-
 2.
 3.  "United States Navy Aircraft Since 1911" by Gordon Swanborough & Peter M. Bowers（Naval Institute Press Annapolis, MD, ISBN 0-87021-968-5）1976, 546 pp.
-
 4.
 5.
-
 6.  中山雅洋，{{〈}}中國的天空－沉默的航空戰史{{〉}}，頁149
-
 7.  <http://www.aviastar.org/air/usa/curtiss_hawk3.php>

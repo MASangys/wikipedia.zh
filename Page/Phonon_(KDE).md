@@ -53,12 +53,8 @@ Phonon从一开始就被设计成Qt函数的风格，[Qt](../Page/Qt.md "wikilin
 [Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink") [Category:Qt](https://zh.wikipedia.org/wiki/Category:Qt "wikilink") [Category:多媒体框架](https://zh.wikipedia.org/wiki/Category:多媒体框架 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.

@@ -123,97 +123,62 @@
 [Category:1997年音樂專輯](https://zh.wikipedia.org/wiki/Category:1997年音樂專輯 "wikilink") [Category:国会唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:国会唱片音乐专辑 "wikilink") [Category:Parlophone音乐专辑](https://zh.wikipedia.org/wiki/Category:Parlophone音乐专辑 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  Kent, Nick. "Happy Now?" *Mojo*, June 2001.
-
 5.
 6.
-
 7.
 8.
-
 9.
 10.
 11.
 12.
-
 13.
-
 14.
 15.
-
 16.
-
 17.
 18.
-
 19.
 20.
 21.
 22.
 23.
-
 24.
-
 25.
 26.
 27.
 28.
-
 29.
-
 30.
 31.
 32.
 33.
 34.
-
 35.
-
 36.
 37. 2000年的一首歌「Optimistic」引用了《[動物農莊](https://zh.wikipedia.org/wiki/動物農莊 "wikilink")》；2003年有一首歌稱為「2+2=5」，引用自《一九八四》；2005年，電台司令在他們的部落格引用了歐威爾的文字：「政治語言……是用來讓謊話聽起來誠實、讓殺人變得可敬、讓純粹的空談看似充實的東西。」
-
 38.
-
 39.
-
 40.
-41. Translations into English can be found in an unofficial Radiohead FAQ [here](http://www.radioheadfaq.co.uk/rhfaq.txt).
-
+41. Translations into English can be found in an unofficial Radiohead FAQ [here](http://www.radioheadfaq.co.uk/rhfaq.txt) .
 42.
 43.
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49. Gill, Andy. [First Impression: 'OK Computer' by Radiohead](http://findarticles.com/p/articles/mi_qn4158/is_20050429/ai_n14605169), *The Independent*, 13 June 1997. reprinted in findarticles.com, 2005.
-
 50.
-
 51.
 52.
 53.
-
 54.
-
 55.
-
 56.
-
 57. Guardian, 2007. [1](http://blogs.guardian.co.uk/music/2007/06/ten_years_of_ok_computer_and_w.html)
-
 58. Drowned in Sound interview, 2003. [2](http://www.drownedinsound.com/articles/8568)
-
 59. Washington Post interview, 2007. [3](http://www.washingtonpost.com/wp-dyn/content/article/2007/04/12/AR2007041200693.html)
-
 60. At Ease News. ["Classical conductors on Radiohead and Greenwood",](http://www.ateaseweb.com/2007/04/30/classical-conductors-on-radiohead-greenwood/) April 30 2007

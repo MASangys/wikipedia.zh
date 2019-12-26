@@ -73,11 +73,11 @@ Silver Forest的成名作是收錄於專輯「[東方萃奏樂](../Page/東方�
 
   - （2007年4月22日，Sunshine Creation 35）
 
-  - [Phantasm Brigade](http://www.silver--forest.com/brigade.htm)（2007年5月20日，例大祭4）
+  - [Phantasm Brigade](https://web.archive.org/web/20090831110047/http://www.silver--forest.com/brigade.htm)（2007年5月20日，例大祭4）
 
   - （2007年8月17日，Comic Market 72）
 
-  - [Sentence](http://www.silver--forest.com/sentence.htm)（2007年10月8日，Sunshine Creation 37、M3-2007秋）
+  - [Sentence](https://web.archive.org/web/20090831090132/http://www.silver--forest.com/sentence.htm)（2007年10月8日，Sunshine Creation 37、M3-2007秋）
 
   - （2007年12月31日，Comic Market 73）
 
@@ -89,9 +89,9 @@ Silver Forest的成名作是收錄於專輯「[東方萃奏樂](../Page/東方�
 
   - （2008年5月25日，例大祭5）
 
-  - [Reincarnation](http://www.silver--forest.com/reincarnation.htm)（2008年8月16日，Comic Market 74）
+  - [Reincarnation](https://web.archive.org/web/20090830062447/http://www.silver--forest.com/reincarnation.htm)（2008年8月16日，Comic Market 74）
 
-  - [Rebirth](http://www.silver--forest.com/rebirth.htm)（2008年8月16日，Comic Market 74）
+  - [Rebirth](https://web.archive.org/web/20090806073749/http://www.silver--forest.com/rebirth.htm)（2008年8月16日，Comic Market 74）
 
   - （2008年10月13日，M3-2008秋）
 
@@ -99,7 +99,7 @@ Silver Forest的成名作是收錄於專輯「[東方萃奏樂](../Page/東方�
 
   - （2009年3月8日，例大祭6）
 
-  - [Lunatic Beat](http://www.silver--forest.com/moon.htm)（2009年3月8日，例大祭6）
+  - [Lunatic Beat](https://web.archive.org/web/20090310002221/http://www.silver--forest.com/moon.htm)（2009年3月8日，例大祭6）
 
   - （2009年8月15日，Comic Market 76）
 

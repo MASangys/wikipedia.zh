@@ -43,6 +43,5 @@ H指数的计算基于其研究者的论文数量及其论文被引用的次数�
 [Category:書目計量學](https://zh.wikipedia.org/wiki/Category:書目計量學 "wikilink") [Category:圖書資訊科學](https://zh.wikipedia.org/wiki/Category:圖書資訊科學 "wikilink")
 
 1.  Hirsch, Jorge E., (2005), "An index to quantify an individual's scientific research output," PNAS 102(46):16569-16572
-
 2.
 3.  Lehmann S. L., Lautrup B. E., and Jackson A. D. (December 2006). "Measures for measures". Nature 404 (7122): 1003–1004.

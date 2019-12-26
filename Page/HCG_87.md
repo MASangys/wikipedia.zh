@@ -91,12 +91,6 @@
 
 ## 參考資料
 
-<div class="references-small">
-
-<references/>
-
-</div>
-
 [Category:螺旋星系](https://zh.wikipedia.org/wiki/Category:螺旋星系 "wikilink") [Category:希克斯緻密星系群](https://zh.wikipedia.org/wiki/Category:希克斯緻密星系群 "wikilink") [Category:星系团](https://zh.wikipedia.org/wiki/Category:星系团 "wikilink") [Category:摩羯座](https://zh.wikipedia.org/wiki/Category:摩羯座 "wikilink")
 
 1.

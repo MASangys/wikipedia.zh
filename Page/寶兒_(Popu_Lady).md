@@ -8,6 +8,8 @@
 
 在公司定案要成立新的女子團體之後，於2011年加入[華研國際音樂](../Page/華研國際音樂.md "wikilink")，與[大元](https://zh.wikipedia.org/wiki/林盈臻 "wikilink")、[洪詩](https://zh.wikipedia.org/wiki/洪詩涵_\(藝人\) "wikilink")、[庭萱](https://zh.wikipedia.org/wiki/陳庭萱 "wikilink")、[宇珊所共組五人女子團體](../Page/劉宇珊.md "wikilink")[Popu Lady](../Page/Popu_Lady.md "wikilink")，並且正式將藝名定為“寶兒”，經過一年與團員合宿培訓，在2012年12月14日發行Popu Lady的首張寫真迷你專輯《一直一直愛》正式出道，現為華研旗下女子團體Popu Lady成員。
 
+2018年，成員宇珊、寶兒參與中國偶像選秀實境節目《創造101》錄製，未能進入上位圈即淘汰
+
 ## 音樂作品
 
 ### 團體作品

@@ -121,6 +121,6 @@ marble的音樂風格多為柔和、沉靜、爽快，帶有哀愁感卻使人�
 
   - [marble官方網站](https://web.archive.org/web/20160215231537/http://shop.funfantoday.com/marble/)
 
-  - [marblepedia](http://www.dot-anime.com/music/artist/marble/marblepedia/index.html)
+  - [marblepedia](https://web.archive.org/web/20081121015125/http://www.dot-anime.com/music/artist/marble/marblepedia/index.html)
 
 [Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")

@@ -388,11 +388,8 @@
 <!-- end list -->
 
   - 管理人 - [品川徹](https://zh.wikipedia.org/wiki/品川徹 "wikilink")
-
   - 記者 - [足立龍彌](https://zh.wikipedia.org/wiki/足立龍彌 "wikilink")
-
   - 記者 - [松村千繪](https://zh.wikipedia.org/wiki/松村千繪 "wikilink")
-
   -
 <!-- end list -->
 

@@ -65,7 +65,7 @@
 ## 外部链接
 
   - [Mitomap - 人類粒線體基因組資料庫](http://www.mitomap.org/)
-  - [A polymorphism in mitochondrial DNA associated with IQ?](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6W4M-45RF6M8-2&_coverDate=08%2F31%2F1995&_alid=284977920&_rdoc=1&_fmt=&_orig=search&_qd=1&_cdi=6546&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=8bd4188e19f98026ee147e31d445f4f9)
+  - [A polymorphism in mitochondrial DNA associated with IQ?](https://web.archive.org/web/20090302165026/http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6W4M-45RF6M8-2&_coverDate=08%2F31%2F1995&_alid=284977920&_rdoc=1&_fmt=&_orig=search&_qd=1&_cdi=6546&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=8bd4188e19f98026ee147e31d445f4f9)
   - [mtDNA sequencing information](http://www.dna-bioscience.co.uk/service_mtdna_analysis.shtml)
   - [mtDNA and the global diaspora of modern humans](http://www.bradshawfoundation.com/stephenoppenheimer) Professor Stephen Oppenheimer's Genetic Map
   - [Mitosearch (FTDNA)](http://www.mitosearch.org/)

@@ -970,7 +970,7 @@ Ch：しばざきあやこ</p></td>
 
 [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:英雄傳說系列](https://zh.wikipedia.org/wiki/Category:英雄傳說系列 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:遊戲改編漫畫](https://zh.wikipedia.org/wiki/Category:遊戲改編漫畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:日本Falcom游戏](https://zh.wikipedia.org/wiki/Category:日本Falcom游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:回合制策略遊戲](https://zh.wikipedia.org/wiki/Category:回合制策略遊戲 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
 
-1.  [《英雄傳說VI空之軌跡》動畫化](http://www.falcom.co.jp/falcom30th/animation.html)
+1.  「}}空之軌跡ja{{\!}}」}}》動畫化 |access-date=2011-03-09 |archive-url=<https://web.archive.org/web/20110310155733/http://www.falcom.co.jp/falcom30th/animation.html> |archive-date=2011-03-10 |dead-url=yes }}
 2.
 3.  [空の軌跡開発者インタビュー](http://www.falcom.co.jp/info/staff/2006/interview.html)
 4.  《SC》追擊古代龍時曾經出現；《3rd》突入影之國時，更出現每小時5600～6000賽爾矩

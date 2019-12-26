@@ -29,21 +29,13 @@ NASA 於2009年3月發射在[日心軌道以觀測](https://zh.wikipedia.org/wik
 [Category:2006年發現的系外行星](https://zh.wikipedia.org/wiki/Category:2006年發現的系外行星 "wikilink") [Category:熱木星](https://zh.wikipedia.org/wiki/Category:熱木星 "wikilink") [Category:天龍座](https://zh.wikipedia.org/wiki/Category:天龍座 "wikilink") [Category:凌星現象](https://zh.wikipedia.org/wiki/Category:凌星現象 "wikilink")
 
 1.
-
 2.
-
 3.  {{ cite journal | title=Improving Stellar and Planetary Parameters of Transiting Planet Systems: The Case of TrES-2 | journal=The Astrophysical Journal | url=<http://www.iop.org/EJ/article/0004-637X/664/2/1190/71636.html> | author=Alessandro Sozzetti *et al.* | date= August 1, 2007 | volume=664 | issue=2 | pages=1190–1198 | doi=10.1086/519214 | bibcode=2007ApJ...664.1190S|arxiv = 0704.2938 }}
-
 4.
-
 5.
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.

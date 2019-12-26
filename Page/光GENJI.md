@@ -2,7 +2,7 @@
 
 ## 成員
 
-1995年解散後，[內海光司及](https://zh.wikipedia.org/wiki/內海光司 "wikilink")[佐藤敦啟，现：佐藤アツヒロ（1995年解散改名）至今仍然待在傑尼斯事務所內](https://zh.wikipedia.org/wiki/佐藤敦啟，现：佐藤アツヒロ（1995年解散改名） "wikilink")，繼續舞台活動。
+1995年解散後，[內海光司及](https://zh.wikipedia.org/wiki/內海光司 "wikilink")[佐藤敦啟](https://zh.wikipedia.org/wiki/佐藤敦啟 "wikilink")（後改名為佐藤アツヒロ），至今仍然待在[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")內，繼續舞台活動。
 
 **光**
 

@@ -48,11 +48,13 @@ CHM是一種用[LZX](../Page/LZX.md "wikilink")算法壓縮的HTML文件集，�
 
   - 跨平台
       - [Calibre](../Page/Calibre.md "wikilink")
-      - [ChmFox](https://addons.mozilla.org/zh-CN/firefox/addon/chmfox/)
+      - [ChmFox](https://web.archive.org/web/20150218093418/https://addons.mozilla.org/zh-cn/firefox/addon/chmfox/)
   - Windows
       - [Calibre](../Page/Calibre.md "wikilink")
       - [Sumatra PDF](../Page/Sumatra_PDF.md "wikilink")
   - iOS
+      - [iBooks](https://zh.wikipedia.org/wiki/iBooks "wikilink")：Apple的電子書閱讀工具，支援書面材質、翻頁特效、標註、Spotlight、字典功能，能夠透過自家iBooks Store下載電子書。
+
       - CHMate
 
       - [ChmPlus阅读器](https://itunes.apple.com/cn/app/chmplus-pro-chm-reader/id441521818?ls=1&mt=8)

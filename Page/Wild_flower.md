@@ -24,4 +24,4 @@
 11. Letter
 
 12.
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink") [Category:樹海](https://zh.wikipedia.org/wiki/Category:樹海 "wikilink") [Category:Fate/stay_night](https://zh.wikipedia.org/wiki/Category:Fate/stay_night "wikilink")
+[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink") [Category:樹海](https://zh.wikipedia.org/wiki/Category:樹海 "wikilink") [Category:Fate系列](https://zh.wikipedia.org/wiki/Category:Fate系列 "wikilink")

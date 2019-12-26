@@ -76,6 +76,6 @@
 
   - \[[http://www.animax-hk.com-{T](http://www.animax-hk.com-%7BT)|}- Animax Hong Kong\]
   - \[[http://www.animax-taiwan.com-{T](http://www.animax-taiwan.com-%7BT)|}- Animax Taiwan\]
-  - [LaMB](http://www.animax-lamb.com)
+  - [LaMB](https://web.archive.org/web/20150801045806/http://animax-lamb.com/)
 
 [Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink") [Category:臺灣動畫](https://zh.wikipedia.org/wiki/Category:臺灣動畫 "wikilink") [Category:2000年代科幻片](https://zh.wikipedia.org/wiki/Category:2000年代科幻片 "wikilink") [Category:2009年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2009年日本劇場動畫 "wikilink")

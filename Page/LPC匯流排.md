@@ -15,7 +15,7 @@ LPC訊號有START、STOP、CYCTYPE+DIR、IDSEL、TAR、SIZE/MSIZE、ADDR、CHANN
 ## 外部連結
 
   - [LPC Interface Specification at Intel](http://www.intel.com/design/chipsets/industry/lpc.htm)
-  - [Serialized IRQ Support For PCI Systems](http://www.smsc.com/main/tools/papers/serirq60.doc)（[Microsoft Word](../Page/Microsoft_Word.md "wikilink") format）—used by the LPC bus
+  - [Serialized IRQ Support For PCI Systems](https://web.archive.org/web/20071028030435/http://www.smsc.com/main/tools/papers/serirq60.doc)（[Microsoft Word](../Page/Microsoft_Word.md "wikilink") format）—used by the LPC bus
   - [Open-Source LPC Host and Peripheral Cores](https://web.archive.org/web/20090306232233/http://www.opencores.org/projects.cgi/web/wb_lpc/overview)
 
 [Category:計算機總線](https://zh.wikipedia.org/wiki/Category:計算機總線 "wikilink")

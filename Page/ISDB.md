@@ -131,11 +131,7 @@ ISDB-T中，根据[MPEG-2](../Page/MPEG-2.md "wikilink")实施传送信号的复
 
 ## 注釋
 
-<div class="references-small">
-
-<references />
-
-</div>
+## 参考来源
 
 [Category:數碼電視](https://zh.wikipedia.org/wiki/Category:數碼電視 "wikilink") [Category:高清晰度电视](https://zh.wikipedia.org/wiki/Category:高清晰度电视 "wikilink")
 

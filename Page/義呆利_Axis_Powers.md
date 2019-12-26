@@ -1421,17 +1421,12 @@ ISBN 978-4-344-82868-1（特裝版）</p></td>
 [Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink") [Category:日本網路漫畫](https://zh.wikipedia.org/wiki/Category:日本網路漫畫 "wikilink") [Category:2009年日本網路動畫](https://zh.wikipedia.org/wiki/Category:2009年日本網路動畫 "wikilink") [Category:緯來電視外購動畫](https://zh.wikipedia.org/wiki/Category:緯來電視外購動畫 "wikilink") [Category:漫画书中的国家化身](https://zh.wikipedia.org/wiki/Category:漫画书中的国家化身 "wikilink") [Category:反韓情緒](https://zh.wikipedia.org/wiki/Category:反韓情緒 "wikilink") [Category:國家題材電視節目](https://zh.wikipedia.org/wiki/Category:國家題材電視節目 "wikilink") [Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink") [Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink") [Category:动画短片](https://zh.wikipedia.org/wiki/Category:动画短片 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:国家化身](https://zh.wikipedia.org/wiki/Category:国家化身 "wikilink") [Category:网络动画](https://zh.wikipedia.org/wiki/Category:网络动画 "wikilink") [Category:少年Jump+](https://zh.wikipedia.org/wiki/Category:少年Jump+ "wikilink") [Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink")
 
 1.  她的舊藝名是金田晶代-かなだ あきよ-，後來才改金田-アキ-，固翻譯成「晶」——發音為「あき」——比較恰當。
-
 2.  United States Code Title 36 Chapter 10 §187
-
 3.
-
 4.  {{ Cite book | author = 日丸屋秀和 | title = [義呆利](https://zh.wikipedia.org/wiki/義呆利 "wikilink")3 | location = 台灣 | publisher = 原動力亞細亞 | date = 2010年7月 | pages = P17 | language= zh-hant| quote = 義大利與他愉快的夥伴們：俄羅斯 }}
-
 5.
 6.
 7.
-
 8.
 9.
 10.
@@ -1440,9 +1435,7 @@ ISBN 978-4-344-82868-1（特裝版）</p></td>
 13.
 14.
 15.
-
 16.
 17.
-
 18.
 19.

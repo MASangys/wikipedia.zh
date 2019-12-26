@@ -36,7 +36,7 @@ E65 / E66 / E67 / E68是第一款包含iDrive，“火焰堆焊”外部造型�
 
 ### 第六代(2015-今)
 
-[BMW_7_G11_.jpg](https://zh.wikipedia.org/wiki/File:BMW_7_G11_.jpg "fig:BMW_7_G11_.jpg") [BMW_ActiveHybrid_7_2010_(14405771889).jpg](https://zh.wikipedia.org/wiki/File:BMW_ActiveHybrid_7_2010_\(14405771889\).jpg "fig:BMW_ActiveHybrid_7_2010_(14405771889).jpg") [2016-03-01_Geneva_Motor_Show_1147.JPG](https://zh.wikipedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_1147.JPG "fig:2016-03-01_Geneva_Motor_Show_1147.JPG")  在2015年推出第六代，標準軸距代號為G11，長軸距代號為G12，並新增M760li(G12)，該為7系列首款M車型。 BMW有註冊M7商標，卻從未推出所謂M7車型，僅推出M760Li，該車使用一具6.6升的雙渦輪引擎，能產生610匹馬力
+[BMW_G11_IMG_2002.jpg](https://zh.wikipedia.org/wiki/File:BMW_G11_IMG_2002.jpg "fig:BMW_G11_IMG_2002.jpg") [BMW_ActiveHybrid_7_2010_(14405771889).jpg](https://zh.wikipedia.org/wiki/File:BMW_ActiveHybrid_7_2010_\(14405771889\).jpg "fig:BMW_ActiveHybrid_7_2010_(14405771889).jpg") [2016-03-01_Geneva_Motor_Show_1147.JPG](https://zh.wikipedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_1147.JPG "fig:2016-03-01_Geneva_Motor_Show_1147.JPG")  在2015年推出第六代，標準軸距代號為G11，長軸距代號為G12，並新增M760li(G12)，該為7系列首款M車型。 BMW有註冊M7商標，卻從未推出所謂M7車型，僅推出M760Li，該車使用一具6.6升的雙渦輪引擎，能產生610匹馬力
 
 ## 參考文獻
 

@@ -115,13 +115,6 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>9</p></td>
-<td style="text-align: center;"><p><strong><a href="https://zh.wikipedia.org/wiki/A-Lin_原聲帶" title="wikilink">A-Lin 原聲帶</a></strong></p></td>
-<td style="text-align: center;"><p>2019-08-23</p></td>
-<td style="text-align: center;"><p><a href="../Page/台灣索尼音樂娛樂.md" title="wikilink">台灣索尼音樂娛樂</a></p></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><p>10</p></td>
 <td style="text-align: center;"><p><strong>籌備中</strong></p></td>
 <td style="text-align: center;"><p>預計2020</p></td>
 <td style="text-align: center;"><p><a href="../Page/台灣索尼音樂娛樂.md" title="wikilink">台灣索尼音樂娛樂</a></p></td>
@@ -153,13 +146,14 @@
 </tbody>
 </table>
 
-#### 精選輯
+#### 精選輯/原聲帶
 
-| 依序 |                   專輯名稱                   |    發行日期    |                   發行公司                    |
-| :-: | :--------------------------------------: | :--------: | :---------------------------------------: |
-| 1  | '''精選A-Lin—everlasting best and more ''' | 2014-10-29 | [愛克貝思](../Page/愛貝克思_\(台灣\).md "wikilink") |
-| 2  |        **愛回來ALL THE BEST精選2015**         | 2015-08-28 | [愛克貝思](../Page/愛貝克思_\(台灣\).md "wikilink") |
-| 3  |    '''A-Lin Love Songs 出道十周年 情歌精選 '''    | 2016-08-19 | [愛克貝思](../Page/愛貝克思_\(台灣\).md "wikilink") |
+| 依序 |                   專輯名稱                   |    發行日期    |                    發行公司                    |
+| :-: | :--------------------------------------: | :--------: | :----------------------------------------: |
+| 1  | '''精選A-Lin—everlasting best and more ''' | 2014-10-29 | [愛克貝思](../Page/愛貝克思_\(台灣\).md "wikilink")  |
+| 2  |        **愛回來ALL THE BEST精選2015**         | 2015-08-28 | [愛克貝思](../Page/愛貝克思_\(台灣\).md "wikilink")  |
+| 3  |    '''A-Lin Love Songs 出道十周年 情歌精選 '''    | 2016-08-19 | [愛克貝思](../Page/愛貝克思_\(台灣\).md "wikilink")  |
+| 4  |          '''A-Lin 原聲帶 (影視) '''           | 2019-08-23 | [台灣索尼音樂娛樂](../Page/台灣索尼音樂娛樂.md "wikilink") |
 
 #### 影音專輯
 
@@ -375,9 +369,16 @@ BASSETT、DAVE</p></td>
 <tr class="even">
 <td><p>斷機教子</p></td>
 <td><p>2019-10-20</p></td>
-<td></td>
-<td></td>
+<td><p>陳亞蘭、JOYCE</p></td>
+<td><p>張乃仁</p></td>
 <td><p>《<a href="../Page/楊麗花.md" title="wikilink">楊麗花</a>歌仔戲【忠孝節義】電視連續劇》原聲珍藏輯</p></td>
+</tr>
+<tr class="odd">
+<td><p>旅．課</p></td>
+<td><p>2019-11-19</p></td>
+<td><p>呂易秋</p></td>
+<td><p>A-Lin、貢多杰</p></td>
+<td><p>《Passenger 旅．課》演唱會同名單曲</p></td>
 </tr>
 </tbody>
 </table>
@@ -483,12 +484,30 @@ Rap詞：J.Sheon</p></td>
 </tr>
 <tr class="odd">
 <td><p>現在開始做朋友</p></td>
-<td><p><a href="../Page/徐佳瑩.md" title="wikilink">徐佳瑩</a>、<a href="https://zh.wikipedia.org/wiki/艾怡良" title="wikilink">艾怡良</a>、<a href="../Page/彭佳慧.md" title="wikilink">彭佳慧</a>、<a href="../Page/楊乃文.md" title="wikilink">楊乃文</a>、<a href="../Page/蕭煌奇.md" title="wikilink">蕭煌奇</a>、<a href="../Page/伍思凱.md" title="wikilink">伍思凱</a>、<a href="../Page/黃子佼.md" title="wikilink">黃子佼</a>、<a href="https://zh.wikipedia.org/wiki/陶晶瑩" title="wikilink">陶晶瑩</a>、<a href="../Page/光良.md" title="wikilink">光良</a>、<a href="https://zh.wikipedia.org/wiki/MATZKA" title="wikilink">MATZKA</a>、<br />
-<a href="../Page/魏如萱.md" title="wikilink">魏如萱</a>、<a href="../Page/柯智棠.md" title="wikilink">柯智棠</a>、<a href="../Page/Hush_(歌手).md" title="wikilink">HUSH</a>、A-Lin、<a href="../Page/萬芳.md" title="wikilink">萬芳</a>、<a href="../Page/江美琪.md" title="wikilink">江美琪</a>、<a href="../Page/紀曉君.md" title="wikilink">紀曉君</a>、<a href="../Page/戴愛玲.md" title="wikilink">戴愛玲</a>、<a href="../Page/桑布伊.md" title="wikilink">桑布伊</a></p></td>
-<td><p>2019</p></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/徐佳瑩.md" title="wikilink">徐佳瑩</a>、<a href="../Page/光良.md" title="wikilink">光良</a>、<a href="https://zh.wikipedia.org/wiki/艾怡良" title="wikilink">艾怡良</a>、<a href="https://zh.wikipedia.org/wiki/MATZKA" title="wikilink">MATZKA</a>、<a href="../Page/黃子佼.md" title="wikilink">黃子佼</a>、<a href="https://zh.wikipedia.org/wiki/陶晶瑩" title="wikilink">陶晶瑩</a>、<a href="../Page/魏如萱.md" title="wikilink">魏如萱</a><br />
+、<a href="../Page/柯智棠.md" title="wikilink">柯智棠</a>、<a href="../Page/Hush_(歌手).md" title="wikilink">HUSH</a>、<a href="../Page/楊乃文.md" title="wikilink">楊乃文</a>、<a href="../Page/彭佳慧.md" title="wikilink">彭佳慧</a>、<a href="../Page/黃韻玲.md" title="wikilink">黃韻玲</a>、馬毓芬、<a href="../Page/萬芳.md" title="wikilink">萬芳</a><br />
+、<a href="../Page/江美琪.md" title="wikilink">江美琪</a>、<a href="../Page/伍思凱.md" title="wikilink">伍思凱</a>、<a href="../Page/紀曉君.md" title="wikilink">紀曉君</a>、<a href="../Page/戴愛玲.md" title="wikilink">戴愛玲</a>、<a href="../Page/蕭煌奇.md" title="wikilink">蕭煌奇</a>、<a href="../Page/桑布伊.md" title="wikilink">桑布伊</a>、<a href="../Page/李英宏.md" title="wikilink">李英宏</a><br />
+、<a href="../Page/李壽全.md" title="wikilink">李壽全</a>、<a href="https://zh.wikipedia.org/wiki/郭蘅祈" title="wikilink">郭蘅祈</a>、<a href="../Page/陳建騏.md" title="wikilink">陳建騏</a></p></td>
+<td><p>2019-09-06</p></td>
+<td><p>徐玫怡</p></td>
+<td><p>郭蘅祈</p></td>
 <td><p>第二屆「愛之日常」音樂節主題曲</p></td>
+</tr>
+<tr class="even">
+<td><p>迷路在雲端</p></td>
+<td><p><a href="../Page/蕭煌奇.md" title="wikilink">蕭煌奇</a></p></td>
+<td><p>2019-10-04</p></td>
+<td><p>姚若龍</p></td>
+<td><p>朱康</p></td>
+<td><p>收錄於 蕭煌奇「候鳥」</p></td>
+</tr>
+<tr class="odd">
+<td><p>來互相傷害</p></td>
+<td><p><a href="../Page/八三夭.md" title="wikilink">八三夭</a></p></td>
+<td><p>2019-10-08</p></td>
+<td><p>八三夭阿璞</p></td>
+<td><p>八三夭阿璞</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -1310,6 +1329,77 @@ Rap詞：J.Sheon</p></td>
 </tbody>
 </table>
 
+<table style="width:171%;">
+<caption>Passenger旅.课</caption>
+<colgroup>
+<col style="width: 40%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 15%" />
+<col style="width: 13%" />
+<col style="width: 70%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>場次</p></th>
+<th><p>日期</p></th>
+<th><p>國家/地區</p></th>
+<th><p>城市</p></th>
+<th><p>場地</p></th>
+<th><p>表演嘉賓</p></th>
+<th><p>附註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2020-02-14</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台北小巨蛋" title="wikilink">台北小巨蛋</a></p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2020-02-15</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2020-02-16</p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ### 音樂劇
 
   - 《愛上卡門》（2006年）
@@ -1338,47 +1428,6 @@ Rap詞：J.Sheon</p></td>
 | 老媽拌麵                                                                | 品牌代言人\[37\]                                             | 2018年5月-       |
 
 ## 獎項紀錄
-
-### 金馬獎
-
-<table style="width:144%;">
-<colgroup>
-<col style="width: 72%" />
-<col style="width: 16%" />
-<col style="width: 13%" />
-<col style="width: 13%" />
-<col style="width: 19%" />
-<col style="width: 9%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>年份</p></th>
-<th><p>頒獎典禮</p></th>
-<th><p>獎項</p></th>
-<th><p>歌曲</p></th>
-<th><p>影片</p></th>
-<th><p>結果</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2019年</p></td>
-<td><p><a href="../Page/第56屆金馬獎.md" title="wikilink">第56屆金馬獎</a></p></td>
-<td><p>最佳原創電影歌曲</p></td>
-<td><p>有一種悲傷</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/比悲傷更悲傷的故事" title="wikilink">比悲傷更悲傷的故事</a>》</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 ### 金曲獎
 
@@ -1432,6 +1481,47 @@ Rap詞：J.Sheon</p></td>
 <td><p>最佳國語女歌手獎</p></td>
 <td><p>《罪惡感》</p></td>
 <td><p>索尼唱片</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 金馬獎
+
+<table style="width:144%;">
+<colgroup>
+<col style="width: 72%" />
+<col style="width: 16%" />
+<col style="width: 13%" />
+<col style="width: 13%" />
+<col style="width: 19%" />
+<col style="width: 9%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>頒獎典禮</p></th>
+<th><p>獎項</p></th>
+<th><p>歌曲</p></th>
+<th><p>影片</p></th>
+<th><p>結果</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p><a href="../Page/第56屆金馬獎.md" title="wikilink">第56屆金馬獎</a></p></td>
+<td><p><a href="../Page/金馬獎最佳原創電影歌曲.md" title="wikilink">最佳原創電影歌曲</a></p></td>
+<td><p>有一種悲傷</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/比悲傷更悲傷的故事" title="wikilink">比悲傷更悲傷的故事</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1544,16 +1634,12 @@ Rap詞：J.Sheon</p></td>
 [Category:1983年出生](https://zh.wikipedia.org/wiki/Category:1983年出生 "wikilink") [Category:台灣女歌手](https://zh.wikipedia.org/wiki/Category:台灣女歌手 "wikilink") [Category:台灣華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:台灣華語流行音樂歌手 "wikilink") [Category:台灣原住民歌手](https://zh.wikipedia.org/wiki/Category:台灣原住民歌手 "wikilink") [Category:臺灣天主教徒](https://zh.wikipedia.org/wiki/Category:臺灣天主教徒 "wikilink") [Category:阿美族人](https://zh.wikipedia.org/wiki/Category:阿美族人 "wikilink") [Category:成功人](https://zh.wikipedia.org/wiki/Category:成功人 "wikilink") [Category:苓雅人](https://zh.wikipedia.org/wiki/Category:苓雅人 "wikilink") [Category:高雄市人](https://zh.wikipedia.org/wiki/Category:高雄市人 "wikilink") [Category:臺東人](https://zh.wikipedia.org/wiki/Category:臺東人 "wikilink") [Category:黃姓](https://zh.wikipedia.org/wiki/Category:黃姓 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
-
 6.
 7.
-
 8.
 9.
 10.
@@ -1562,62 +1648,33 @@ Rap詞：J.Sheon</p></td>
 13.
 14.
 15.
-
 16.
-
 17.
-
 18.
-
 19.
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32. [香港演唱會海報](http://www.tickethk.com/images/posters/1390.jpg?v=25544)
-
 33. [美國加州演唱會海報](https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/28379379_1579121998891478_5986702601902135222_n.jpg?_nc_cat=0&oh=d3c21a3625e88106eb0eb341e64b94c5&oe=5B34DC47)
-
 34. [馬來西亞演唱會海報](http://i.epochtimes.com/assets/uploads/2018/03/Alin_2018_Poster-450x676.jpg)
-
 35. [澳門演唱會海報](https://assets.sandsresortsmacao.cn/content/venetianmacao/entertainment/a-lin/a-lin_langding_1900x800_tc.jpg)
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.

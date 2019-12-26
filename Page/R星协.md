@@ -5,9 +5,6 @@
 [Category:星協](https://zh.wikipedia.org/wiki/Category:星協 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

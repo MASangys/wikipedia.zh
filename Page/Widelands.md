@@ -28,4 +28,4 @@
 
 1.
 2.  [计划开始后的变动](http://xoops.widelands.org/modules/mediawiki/index.php/Changelog)  [计划好的变动](http://xoops.widelands.org/modules/mediawiki/index.php/Roadmap)
-3.  [Bugtracker](http://sourceforge.net/tracker/?group_id=40163&atid=427221) [特性申请列表](http://sourceforge.net/tracker/?group_id=40163&atid=427224)
+3.  [Bugtracker](http://sourceforge.net/tracker/?group_id=40163&atid=427221)  [特性申请列表](http://sourceforge.net/tracker/?group_id=40163&atid=427224)

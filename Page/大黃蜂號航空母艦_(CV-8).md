@@ -146,7 +146,7 @@
 <!-- end list -->
 
   -
-[Category:約克鎮級航空母艦](https://zh.wikipedia.org/wiki/Category:約克鎮級航空母艦 "wikilink") [Category:第二次世界大戰航空母艦](https://zh.wikipedia.org/wiki/Category:第二次世界大戰航空母艦 "wikilink") [Category:二戰美國軍艦](https://zh.wikipedia.org/wiki/Category:二戰美國軍艦 "wikilink") [Category:1941年竣工的船只](https://zh.wikipedia.org/wiki/Category:1941年竣工的船只 "wikilink") [Category:飞机炸沉的船只](https://zh.wikipedia.org/wiki/Category:飞机炸沉的船只 "wikilink")
+[Category:約克鎮級航空母艦](https://zh.wikipedia.org/wiki/Category:約克鎮級航空母艦 "wikilink") [Category:第二次世界大戰航空母艦](https://zh.wikipedia.org/wiki/Category:第二次世界大戰航空母艦 "wikilink") [Category:二戰美國軍艦](https://zh.wikipedia.org/wiki/Category:二戰美國軍艦 "wikilink") [Category:1940年下水](https://zh.wikipedia.org/wiki/Category:1940年下水 "wikilink") [Category:飞机炸沉的船只](https://zh.wikipedia.org/wiki/Category:飞机炸沉的船只 "wikilink")
 
 1.
 2.

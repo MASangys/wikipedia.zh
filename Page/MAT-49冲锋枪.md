@@ -139,7 +139,6 @@ MAT-49的槍機種類是[反沖作用](../Page/反沖作用_\(槍械\).md "wikil
 [Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:7.62×25毫米托卡列夫手槍彈槍械](https://zh.wikipedia.org/wiki/Category:7.62×25毫米托卡列夫手槍彈槍械 "wikilink") [Category:法國槍械](https://zh.wikipedia.org/wiki/Category:法國槍械 "wikilink") [Category:法国冷战武器](https://zh.wikipedia.org/wiki/Category:法国冷战武器 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
 
 1.  Jones, Richard D. Jane's Infantry Weapons 2009/2010. Jane's Information Group; 35 edition (January 27, 2009). ISBN 978-0710628695.
-
 2.
 3.
 4.
@@ -153,7 +152,6 @@ MAT-49的槍機種類是[反沖作用](../Page/反沖作用_\(槍械\).md "wikil
 12.
 13.
 14. <http://world.guns.ru/smg/fr/mat-49-e.html>
-
 15.
 16.
 17.
@@ -163,20 +161,15 @@ MAT-49的槍機種類是[反沖作用](../Page/反沖作用_\(槍械\).md "wikil
 21.
 22.
 23.
-
 24.
 25.
 26. <http://www.nickryan.net/articles/sahara.html>
-
 27.
 28.
 29.
 30.
 31.
 32.
-
 33. <http://usacac.army.mil/cac2/cgsc/carl/download/csipubs/ArtOfWar_RhodesianAfricanRifles.pdf>
-
 34.
-
 35. －[Hallan en Francia un viejo arsenal de subfusiles de ETA de los años 70](http://www.elmundo.es/elmundo/2012/02/10/paisvasco/1328900209.html) elmundo.es

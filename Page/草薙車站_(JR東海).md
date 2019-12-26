@@ -24,7 +24,7 @@
 <td><p>1</p></td>
 <td><p>東海道本線</p></td>
 <td><p>下行</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/靜岡站" title="wikilink">靜岡</a>、<a href="https://zh.wikipedia.org/wiki/濱松站" title="wikilink">濱松方向</a>[2]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/靜岡站" title="wikilink">靜岡</a>、<a href="../Page/濱松站.md" title="wikilink">濱松方向</a>[2]</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -52,10 +52,12 @@
 
 <references/>
 
+## 外部連結
+
+[JR東海 – 草薙站](https://railway.jr-central.co.jp/station-guide/shizuoka/kusanagi/index.html)
+
 [Category:日本鐵路車站_Ku](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Ku "wikilink") [Category:東海道本線車站_(東海旅客鐵道)](https://zh.wikipedia.org/wiki/Category:東海道本線車站_\(東海旅客鐵道\) "wikilink") [Category:清水區鐵路車站_(靜岡市)](https://zh.wikipedia.org/wiki/Category:清水區鐵路車站_\(靜岡市\) "wikilink") [Category:1926年启用的铁路车站](https://zh.wikipedia.org/wiki/Category:1926年启用的铁路车站 "wikilink")
 
 1.  「薙」，中文中發音同「替」字。
-
 2.  駅構内の案内表記。これらはJR東海公式サイトの[各駅の時刻表](http://railway.jr-central.co.jp/time-schedule/search/index.html)で参照可能（駅掲示用時刻表のPDFが使われているため。2015年1月現在）。
-
 3.

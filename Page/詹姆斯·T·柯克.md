@@ -63,38 +63,25 @@
 [Category:星際爭霸戰角色](https://zh.wikipedia.org/wiki/Category:星際爭霸戰角色 "wikilink") [Category:星艦奇航記電影角色](https://zh.wikipedia.org/wiki/Category:星艦奇航記電影角色 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
 8.
 9.
 10.
-
 11.
-
 12.
 13. “Commanding a starship is your first, best destiny...anything else is a waste of material.”
-
 14.
-
 15.
 16.
-
 17.
 18.
 19.
-
 20.
 21.
-
 22.
-
 23.

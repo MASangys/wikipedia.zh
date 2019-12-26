@@ -14,16 +14,13 @@ KGS经常转播国际比赛和国家锦标赛的棋局。\[4\] 每月一次的[�
 
 ## 外部链接
 
-  - [KGS Go Server](https://www.gokgs.com/)
+  - [KGS Go Server](https://web.archive.org/web/20190928031924/https://www.gokgs.com/)
   - [Sensei's Library - KGS](https://senseis.xmp.net/?KiseidoGoServer)
 
 [Category:围棋服务器](https://zh.wikipedia.org/wiki/Category:围棋服务器 "wikilink")
 
 1.  [Internet Go](http://www.britgo.org/gopcres/play.html) from the [英国围棋协会](https://zh.wikipedia.org/wiki/英国围棋协会 "wikilink")（British Go Association）
-
 2.  [Top 100 KGS Players](http://www.gokgs.com/top100.jsp) KGS官方网站
-
 3.  [Details of the KGS Rank System](http://www.gokgs.com/help/rmath.html) from KGS
-
 4.
 5.  [Computer Go Tournaments on KGS](http://www.weddslist.com/kgs/index.html) from Nick Wedd's tournament site

@@ -1,4 +1,4 @@
-**B\&T GL-06**（）是一具由位於[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[图恩](../Page/图恩.md "wikilink")（，，）的（簡稱：B\&T或B+T）公司所設計及生產的[肩射型榴弹发射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。
+**B\&T GL-06**（）是一具由位於[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[图恩](../Page/图恩.md "wikilink")（，，）的槍械及其附件生產商（簡稱：B\&T或B+T）公司所設計及生產的[肩射型榴弹发射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。
 
 ## 歷史
 

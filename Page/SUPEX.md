@@ -34,7 +34,7 @@ KFS是指成功完成工作的关键因素，是为了实现Better Company目标
 
 ### MPR/S/T
 
-MPR/S/T是指针对每一种商品，[营销](https://zh.wikipedia.org/wiki/营销 "wikilink")（M）、[生产](https://zh.wikipedia.org/wiki/生产 "wikilink")（P）、[研发](https://zh.wikipedia.org/wiki/研发 "wikilink")（R）等经营活动自开始就组成一个整体，将产品推向市场（MPR）；支援部门（Supporting）尽最大努力领导、帮助、检查，以发挥每个产品的MPR力量（MPR/S）；与此同时，以最高经营者为首的高级管理层（Top Management）进行领导、职员、检查MPR/S的组织运营体系(MPR/S/T).
+MPR/S/T是指针对每一种商品，[营销](https://zh.wikipedia.org/wiki/营销 "wikilink")（M）、[生产](../Page/生产.md "wikilink")（P）、[研发](https://zh.wikipedia.org/wiki/研发 "wikilink")（R）等经营活动自开始就组成一个整体，将产品推向市场（MPR）；支援部门（Supporting）尽最大努力领导、帮助、检查，以发挥每个产品的MPR力量（MPR/S）；与此同时，以最高经营者为首的高级管理层（Top Management）进行领导、职员、检查MPR/S的组织运营体系(MPR/S/T).
 
 ### 处理工作五个阶段
 

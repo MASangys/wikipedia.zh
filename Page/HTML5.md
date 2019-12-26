@@ -4,7 +4,7 @@ HTML5添加了许多新的语法特征，其中包括`<video>`、`<audio>`和`<c
 
 ## 发展历史
 
-[網頁超文本技術工作小組](https://zh.wikipedia.org/wiki/網頁超文本技術工作小組 "wikilink")（WHATWG）於2004年開始制定新標準。當時，HTML 4.01自2000年以來就沒有更新過\[5\]，以及全球資訊網協會（W3C）正在將未來的發展重點放在XHTML 2.0。2009年，W3C允許XHTML 2.0工作組章程結束過期並且決定不再續訂\[6\]。W3C與WHATWG合作共同為發展HTML5而努力\[7\]。
+[網頁超文本技術工作小組](https://zh.wikipedia.org/wiki/網頁超文本技術工作小組 "wikilink")（WHATWG）於2004年開始制定新標準。當時，HTML 4.01自2000年以來從未更新\[5\]，以及全球資訊網協會（W3C）正在將未來的發展重點放在XHTML 2.0。2009年，W3C允許XHTML 2.0工作組章程結束過期並且決定不再續訂\[6\]。W3C與WHATWG合作共同為發展HTML5而努力\[7\]。
 
 2004年6月，[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")和[Opera軟體公司在全球資訊網協會](https://zh.wikipedia.org/wiki/Opera軟體公司 "wikilink")（W3C）所主辦的研討會上提出了一份立場文件\[8\]，其重點是開發與現有瀏覽器向後相容的技術\[9\]，包括Web Forms 2.0最初草案規範。研討會最後以——8票贊成，14票反對——否決繼續對HTML的開發工作\[10\]。這引起一些人的不滿，在研討會之後，立即成立了[網頁超文本技術工作小組](https://zh.wikipedia.org/wiki/網頁超文本技術工作小組 "wikilink")（WHATWG），以根據該目標開始工作，並宣佈第二個草案Web Applications 1.0\[11\]。後來這兩種規範合併形成HTML5\[12\]。2007年，获得W3C接納，并成立了新的HTML工作团队。2008年1月22日，第一份公開工作草案發布\[13\]。
 
@@ -126,113 +126,59 @@ HTML5 Test網站，是用以測試對瀏覽器對熱門新功能的支援。測�
 
 1.
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23. Introduction to HTML5 [video](http://dev.opera.com/articles/view/introduction-html5-video/)
-
 24. IBM Developer Works [New elements in HTML5: Structure and semantics](http://www.ibm.com/developerworks/library/x-html5/?ca=dgr-lnxw01NewHTML)
-
 25. ICAMD.org [Finalcut Silverlight Films that Videographers share Quicktime in a Flash : Video on the Web using HTML5 and other Codecs](http://www.amazon.com/dp/B003H05Q18)
-
 26. [HTML5 DTD](http://www.cs.tut.fi/~jkorpela/html5-dtd.html): "HTML5 is not SGML-based, and there will be no official DTD for it."
-
 27. [HTML 5 Reference](http://dev.w3.org/html5/html-author/): "Although it is inspired by its SGML origins, in practice, it really only shares minor syntactic similarities." "As HTML5 is no longer formally based upon SGML, the DOCTYPE no longer serves this purpose, and thus no longer needs to refer to a DTD."
-
 28.
-
 29.  obsolescence notice
-
 30.
-
 31. ["HTML5 Differences from HTML4 – APIs"](http://dev.w3.org/html5/html4-differences/#syntax). [World Wide Web Consortium](https://zh.wikipedia.org/wiki/World_Wide_Web_Consortium "wikilink").
-
 32. ["Get Started with HTML5 Canvas"](http://www.syntaxxx.com/get-started-with-html5-canvas/). Syntaxxx.
-
 33.
-
 34. ["Offline Web Applications"](http://www.w3.org/TR/offline-webapps/). [World Wide Web Consortium](https://zh.wikipedia.org/wiki/World_Wide_Web_Consortium "wikilink").
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41. ["HTML5 Web Messaging"](http://dev.w3.org/html5/postmsg/). World Wide Web Consortium.
-
 42. ["Web Storage Specification"](http://dev.w3.org/html5/webstorage/). World Wide Web Consortium.
-
 43.
-
 44. ["Web SQL Database"](http://dev.w3.org/html5/webdatabase/). World Wide Web Consortium.
-
 45. ["Indexed Database"](http://www.w3.org/TR/IndexedDB/). World Wide Web Consortium.
-
 46.
-
 47. ["File API"](http://www.w3.org/TR/FileAPI/). World Wide Web Consortium.
-
 48. ["Filesystem API"](http://www.w3.org/TR/file-system-api/). World Wide Web Consortium.
-
 49. ["File API: Writer"](http://www.w3.org/TR/file-writer-api/). World Wide Web Consortium.
-
 50.
-
 51.
-
 52. Web Cryptography Candidate Recommendation: <https://www.w3.org/TR/WebCryptoAPI/>
-
 53. WebRTC Working Draft: <https://www.w3.org/TR/webrtc/>
-
 54.
 55.
-
 56.
-
 57. "[HTML5 Popularity Among Fortune 500 Companies](http://www.incore.com/Fortune500HTML5/#infographic)". INCORE. Retrieved 5 March 2013.
-
 58. [HTML5 Test官方測試數據](https://html5test.com/results/desktop.html)

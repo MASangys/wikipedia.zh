@@ -54,7 +54,7 @@ OneDrive最初是以Windows Live Folders為名推出，且僅開放給[美國的
 
 ## 外部連結
 
-  - [Microsoft OneDrive官方网站](https://onedrive.live.com)
+  - [Microsoft OneDrive官方网站](https://web.archive.org/web/20191004211913/https://onedrive.live.com/)
   - [Microsoft OneDrive官方培训、支持和帮助页面](https://support.office.com/zh-cn/onedrive)
 
 [Category:2007年建立的网站](https://zh.wikipedia.org/wiki/Category:2007年建立的网站 "wikilink") [Category:Windows_Live](https://zh.wikipedia.org/wiki/Category:Windows_Live "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:云存储](https://zh.wikipedia.org/wiki/Category:云存储 "wikilink") [Category:数据同步](https://zh.wikipedia.org/wiki/Category:数据同步 "wikilink") [Category:文件共享服务](https://zh.wikipedia.org/wiki/Category:文件共享服务 "wikilink") [Category:在线备份服务](https://zh.wikipedia.org/wiki/Category:在线备份服务 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")

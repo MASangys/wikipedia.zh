@@ -44,7 +44,6 @@
 [Category:KDE_Extragear](https://zh.wikipedia.org/wiki/Category:KDE_Extragear "wikilink")
 
 1.  [KDE Extragear: Kipi](http://extragear.kde.org/apps/kipi/)
-
 2.
 3.
 4.

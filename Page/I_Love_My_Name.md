@@ -111,7 +111,5 @@
 [Category:王菀之音樂專輯](https://zh.wikipedia.org/wiki/Category:王菀之音樂專輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
 
 1.
-
 2.   搜尋王菀之
-
 3.

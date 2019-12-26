@@ -46,13 +46,9 @@
 [Category:加拿大樂團](https://zh.wikipedia.org/wiki/Category:加拿大樂團 "wikilink") [Category:後搖滾樂團](https://zh.wikipedia.org/wiki/Category:後搖滾樂團 "wikilink") [Category:實驗音樂樂團](https://zh.wikipedia.org/wiki/Category:實驗音樂樂團 "wikilink") [Category:1994年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1994年成立的音樂團體 "wikilink") [Category:1994年魁北克省建立](https://zh.wikipedia.org/wiki/Category:1994年魁北克省建立 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
-
 7.

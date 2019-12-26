@@ -1101,7 +1101,7 @@ A线的中心路网配备了SACEM讯号系统, 可以有效缩短列车时间间
 
 ## 外部链接
 
-[5](http://ratp.fr/) 巴黎大众运输公司网站
+[5](https://web.archive.org/web/20081225184032/http://www.ratp.fr/) 巴黎大众运输公司网站
 
 [6](https://web.archive.org/web/20090612020320/http://www.transilien.com/web/site/) 法国国家铁路公司远郊车网站
 

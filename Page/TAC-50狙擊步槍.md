@@ -66,6 +66,6 @@ TAC-50採用手動[旋轉後拉式槍機系统](https://zh.wikipedia.org/wiki/�
 1.  [Lilja .50 Caliber Precision Barrels](http://www.riflebarrels.com/products/50caliber_lilja_rifle_barrels.htm)
 2.  [Friscolanti, Michael. "We were abandoned", Maclean's, Rogers Publishing, 2006-05-15, pp. 18-25](http://www.macleans.ca/canada/national/article.jsp?content=20060515_126689_126689)
 3.  [Sniping with the .50 BMG in Afghanistan-New long-distance record set\!](http://www.riflebarrels.com/articles/50calibre/50sniping.htm)
-4.  [英國狙擊手2475米外殺死兩敵人解救指揮官](http://news.sina.com.hk/cgi-bin/nw/show.cgi/12/1/1/1504848/1.html)
+4.
 5.
 6.  [D Boy Gun World（McMillan TAC-50狙擊步槍）](http://firearmsworld.net/usa/mcmillan/tac50.htm)

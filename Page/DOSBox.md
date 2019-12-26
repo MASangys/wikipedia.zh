@@ -17,6 +17,8 @@ DOSBox是一個[指令列程式](../Page/命令行界面.md "wikilink")，有兩
 
 DOSBox跟大多的模拟器一样需要比原计算机系统更强大的处理能力，尤其是处理器的运算能力。用户需要根据模拟系统运行的程序需要决定给予必要的计算能力。使用[DOS/4GW等开放源代码的保护模式扩展程序](../Page/DOS扩展器.md "wikilink")[DOS32a](http://dos32a.narechk.net/index_en.html)有时能减小问题。但是，因为该模拟器使用虚拟化方式，保护模式下的DOS程序，包括大多1995年之后的游戏，可能不如在[VMware](../Page/VMware.md "wikilink")或者[Virtual PC运行上有效](https://zh.wikipedia.org/wiki/Virtual_PC "wikilink")。DOSBox与中文系統的配合存在一些问题，早期的5.8版本支持倚天，国桥等DOS中文系統，但之后的版本却出现花屏乱码的情况。
 
+DOSBox似乎不支持在程式運行期間對軟碟映像檔進行替換，這在某些以多個軟碟映像檔形式存在的安裝程序中會構成問題。
+
 ## 前端
 
 DOSBox的配置保存为纯文本文档。不熟悉此配置法的用户可以利用图形界面的[前端](https://zh.wikipedia.org/wiki/前端 "wikilink")。前端也有别的好处，例如游戏收集排序功能。

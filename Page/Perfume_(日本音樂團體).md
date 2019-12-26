@@ -248,7 +248,7 @@ Perfume在6月20日的上憑著全球官方網站計劃「Perfume GLOBAL SITE PR
 
 2月22日，Perfume第二次到訪臺灣，出席了在[台北小巨蛋舉行的](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")「[第九屆KKBOX風雲榜](https://zh.wikipedia.org/wiki/KKBOX數位音樂風雲榜 "wikilink")」頒獎典禮\[158\]。
 
-3月15日至4月20日，Perfume舉行其第二次的「Perfume FES\!\!」，與[東京斯卡](https://zh.wikipedia.org/wiki/東京斯卡 "wikilink")、[屎爛幫](../Page/屎爛幫.md "wikilink")、[9nine](../Page/9nine.md "wikilink")、、、[秦基博](../Page/秦基博.md "wikilink")、[高橋優和](https://zh.wikipedia.org/wiki/高橋優 "wikilink")[Maximum The Hormone合共](../Page/Maximum_The_Hormone.md "wikilink")8個組合共同演出。在Perfume於2000年3月21日發行廣島出道單曲《[魔法★吞下去](https://zh.wikipedia.org/wiki/魔法★吞下去 "wikilink")》的14週年當日，屬[LesPros娛樂](../Page/LesPros娛樂.md "wikilink")事務所旗下的組合[9nine](../Page/9nine.md "wikilink")與Perfume同台演出，其中9nine的成員包括了西脇綾香的妹妹[西脇彩華](../Page/西脇彩華.md "wikilink")，令兩姊妹在雙方出道以來首次在同一舞台上共演，兩人在最後互相穿上對方團體的服裝，分別演出歌曲《[SPICE](../Page/SPICE_\(Perfume單曲\).md "wikilink")》、《[SHINING☆STAR](../Page/SHINING☆STAR.md "wikilink")》和《[Puppy love](../Page/GAME_\(Perfume專輯\).md "wikilink")》，引起傳媒廣泛報道\[159\]\[160\]\[161\]，這次姊妹演出也被收錄在單曲《[Cling Cling](../Page/Cling_Cling.md "wikilink")》和9nine專輯《[MAGI9 PLAYLAND](../Page/MAGI9_PLAYLAND.md "wikilink")》的特典影片中\[162\]。原定於4月20日在[韓國UNIQLO](https://zh.wikipedia.org/wiki/韓國 "wikilink")-AX舉行之「Perfume FES\!\!」尾場公演因當地發生[嚴重海難而取消](https://zh.wikipedia.org/wiki/世越號沉沒事故 "wikilink")。
+3月15日至4月20日，Perfume舉行其第二次的「Perfume FES\!\!」，與[東京斯卡](https://zh.wikipedia.org/wiki/東京斯卡 "wikilink")、[屎爛幫](../Page/屎爛幫.md "wikilink")、[9nine](../Page/9nine.md "wikilink")、、、[秦基博](../Page/秦基博.md "wikilink")、[高橋優和](https://zh.wikipedia.org/wiki/高橋優 "wikilink")[Maximum The Hormone合共](../Page/Maximum_The_Hormone.md "wikilink")8個組合共同演出。在Perfume於2000年3月21日發行廣島出道單曲《[魔法★吞下去](https://zh.wikipedia.org/wiki/魔法★吞下去 "wikilink")》的14週年當日，屬[LesPros娛樂](../Page/LesPros娛樂.md "wikilink")事務所旗下的組合[9nine](../Page/9nine.md "wikilink")與Perfume同台演出，其中9nine的成員包括了西脇綾香的妹妹[西脇彩華](../Page/西脇彩華.md "wikilink")，令兩姊妹在雙方出道以來首次在同一舞台上共演，兩人在最後互相穿上對方團體的服裝，分別演出歌曲《[SPICE](../Page/SPICE_\(Perfume單曲\).md "wikilink")》、《[SHINING☆STAR](../Page/SHINING☆STAR.md "wikilink")》和《[Puppy love](../Page/GAME_\(Perfume專輯\).md "wikilink")》，引起傳媒廣泛報道\[159\]\[160\]\[161\]，這次姊妹演出也被收錄在單曲《[Cling Cling](../Page/Cling_Cling.md "wikilink")》和9nine專輯《[MAGI9 PLAYLAND](../Page/MAGI9_PLAYLAND.md "wikilink")》的特典影片中\[162\]。原定於4月20日在[韓國UNIQLO](https://zh.wikipedia.org/wiki/韓國 "wikilink")-AX舉行之「Perfume FES\!\!」尾場公演因當地發生[世越号沉船事故而取消](https://zh.wikipedia.org/wiki/世越號沉沒事故 "wikilink")（后在10月20日补办）。
 
 4月9日，記錄了其「[Perfume 4th Tour in DOME『LEVEL3』](../Page/Perfume_4th_Tour_in_DOME『LEVEL3』.md "wikilink")」演唱會的DVD和藍光版本影碟推出，首週賣出5.4萬張，並在週榜上分別獲得DVD榜亞軍、藍光榜冠軍，以及兩版本合計的週榜冠軍，是藍光榜設立以來首次有藝人連續兩張作品獲得第一位\[163\]。
 
@@ -314,7 +314,7 @@ Perfume在6月20日的上憑著全球官方網站計劃「Perfume GLOBAL SITE PR
 
 11月8日，與電信公司[NTT docomo合作的](https://zh.wikipedia.org/wiki/NTT_docomo "wikilink")「Future Experiment Vol.1」廣告在全球直播。\[192\]
 
-11月29日，推出為第二張MV合輯。
+11月29日，推出為第二張MV合輯[Perfume Clips 2](https://zh.wikipedia.org/wiki/Perfume_Clips_2 "wikilink")。
 
 12月1日，由三人擔任設計的時尚品牌「Perfume Closet」正式推出，服飾的設計靈感來自於歌曲MV中穿過的服裝，如《TOKYO GIRL》、《FLASH》、《Spring of Life》和《Laser Beam》\[193\]。
 
@@ -370,49 +370,53 @@ Perfume在6月20日的上憑著全球官方網站計劃「Perfume GLOBAL SITE PR
 
 9月15日出演**「KOYABU SONIC 2019」。**\[230\]
 
-9月18日發行首張精選輯**「Perfume The Best “P Cubed”」。**收錄總共52首歌曲，其中包含兩首新曲ナナナナナイロ和Challenger，及其他過去但重製的歌曲，分為3種版本**。**\[231\]此張專輯達到連續八張專輯第一，在女性團體跟AKB48並列第一。\[232\]
+9月18日發行首張精選輯**「[Perfume The Best “P Cubed”](https://zh.wikipedia.org/wiki/Perfume_The_Best_“P_Cubed” "wikilink")」。**收錄總共52首歌曲，其中包含兩首新曲ナナナナナイロ和Challenger，及其他過去但重製的歌曲，分為3種版本**。**\[231\]此張專輯達到連續八張專輯第一，在女性團體跟AKB48並列第一。\[232\]
 
 並宣布以此張專輯為基礎展開2020年的Perfume 8th Tour 2020 “P Cubed” in Dome四大巨蛋演唱會(大阪，福岡，名古屋，東京)。\[233\]
 
-10月16\~27日預計出演**「Reframe 2019」在「LINE CUBE SHIBUYA」(渋谷公会堂)。**\[234\]
+10月16\~27日出演**「Reframe 2019」在「LINE CUBE SHIBUYA」(渋谷公会堂)。**\[234\]
+
+宣布為12月13號上映的**「**屍人莊殺人事件**」**電影版擔任主題曲\[再生\]演唱。\[235\]
+
+宣布預計於12月31日，Perfume連續第十二年登上紅白歌合戰。\[236\]
 
 ## 特色
 
 ### 音樂風格
 
-Perfume的樂曲一般被定位於[浩室音樂](https://zh.wikipedia.org/wiki/浩室音樂 "wikilink")（House）與[流行電音](https://zh.wikipedia.org/wiki/流行電音 "wikilink")（Technopop）之間\[235\]，但多數偏向流行電音一方\[236\]。Perfume在脫離澀谷系形象後的音樂帶有80年代流行電音的特色，同時又採用了[聲碼器](../Page/聲碼器.md "wikilink")來營造出獨一無二的風格\[237\]。在Perfume上京當時，事務所希望可以把她們打造成「電子歌謠風格的偶像」，因此自2003年Perfume在東京出道開始，所有歌曲都是由電子音樂組合[capsule的成員](https://zh.wikipedia.org/wiki/capsule "wikilink")[中田康貴](../Page/中田康貴.md "wikilink")製作\[238\]\[239\]\[240\]。中田康貴最初為Perfume提供歌曲的時候，他的歌曲曾被事務所[Amuse](../Page/Amuse.md "wikilink")指「以偶像歌曲來說太酷」而被拒絕，但他為改變「偶像不能發表過份帥氣的歌曲」的偶像歌謠界不明文規定，而繼續嘗試為Perfume結合新奇的音效和挑戰不同類型的音樂風格\[241\]。
+Perfume的樂曲一般被定位於[浩室音樂](https://zh.wikipedia.org/wiki/浩室音樂 "wikilink")（House）與[流行電音](https://zh.wikipedia.org/wiki/流行電音 "wikilink")（Technopop）之間\[237\]，但多數偏向流行電音一方\[238\]。Perfume在脫離澀谷系形象後的音樂帶有80年代流行電音的特色，同時又採用了[聲碼器](../Page/聲碼器.md "wikilink")來營造出獨一無二的風格\[239\]。在Perfume上京當時，事務所希望可以把她們打造成「電子歌謠風格的偶像」，因此自2003年Perfume在東京出道開始，所有歌曲都是由電子音樂組合[capsule的成員](https://zh.wikipedia.org/wiki/capsule "wikilink")[中田康貴](../Page/中田康貴.md "wikilink")製作\[240\]\[241\]\[242\]。中田康貴最初為Perfume提供歌曲的時候，他的歌曲曾被事務所[Amuse](../Page/Amuse.md "wikilink")指「以偶像歌曲來說太酷」而被拒絕，但他為改變「偶像不能發表過份帥氣的歌曲」的偶像歌謠界不明文規定，而繼續嘗試為Perfume結合新奇的音效和挑戰不同類型的音樂風格\[243\]。
 
-Perfume的歌曲的最大特徵是在歌曲中成員三人都經加工過的聲音\[242\]。製作人中田認為「把偶像的聲音加工，到目前為止仍然是一個禁忌。將這樣的禁忌打破，對我來說是音樂上的一個挑戰。」\[243\]中田把人聲當作音效的一種，他在處理人聲時除了需要透過混音來補足三人的歌唱力外，也會儘量讓3人各自的聲線特質能夠發揮出來，要求成員在錄音的時候以自己的歌唱方法把個性展現出來\[244\]。此外，中田在創作歌詞時除了顧及歌詞的故事性外，也會考慮到字詞本身的聲調和旋律是否協調去製作歌曲\[245\]。
+Perfume的歌曲的最大特徵是在歌曲中成員三人都經加工過的聲音\[244\]。製作人中田認為「把偶像的聲音加工，到目前為止仍然是一個禁忌。將這樣的禁忌打破，對我來說是音樂上的一個挑戰。」\[245\]中田把人聲當作音效的一種，他在處理人聲時除了需要透過混音來補足三人的歌唱力外，也會儘量讓3人各自的聲線特質能夠發揮出來，要求成員在錄音的時候以自己的歌唱方法把個性展現出來\[246\]。此外，中田在創作歌詞時除了顧及歌詞的故事性外，也會考慮到字詞本身的聲調和旋律是否協調去製作歌曲\[247\]。
 
-中田在替三人錄音時，會先把印有歌詞的紙傳給三人，之後三人就會輪流走進一間[電話亭般大小的錄音室進行錄音](https://zh.wikipedia.org/wiki/電話亭 "wikilink")\[246\]\[247\]。錄音時中田不會向三人說明歌詞的意思，只指示三人「像平常說話那樣唱歌」「要不帶任何感情地唱」\[248\]。在組合初期，中田剛開始為三人提供歌曲時，成員均不了解「流行電音」，更不知道這種音樂類型的存在，即使是演藝學校的歌唱課，老師也只會教導她們如何把自己的感情注入歌曲裡，因此3人最初完全無法理解中田的指示，更曾因此而哭著錄音。出於這個原因，在主流出道之後一段時間，三人依然用以往的方法唱歌，結果她們的唱腔與製作出來的歌曲出現了不和諧，《[Sweet Donuts](../Page/Sweet_Donuts.md "wikilink")》就曾被認為是當中一首有「違和感」的歌曲\[249\]\[250\]。由於三人本來不能理解中田的指示，因此即使在合作一段時間後也未能對中田的歌曲產生任何好感，直到一次成員參加夜店活動看見有人在播Perfume的歌曲時興奮熱舞時，才開始對自己的歌曲感到自信，漸漸能夠把握到中田的要求\[251\]。由於中田對Perfume的音樂存在極大影響力，因此有評論指「如果當初三人沒有和中田建立信賴的關係的話，Perfume是不可能有現在的成就」，也有的認為「當中田不再製作歌曲的時候，便是Perfume完結的時候」的說法。\[252\]
+中田在替三人錄音時，會先把印有歌詞的紙傳給三人，之後三人就會輪流走進一間[電話亭般大小的錄音室進行錄音](https://zh.wikipedia.org/wiki/電話亭 "wikilink")\[248\]\[249\]。錄音時中田不會向三人說明歌詞的意思，只指示三人「像平常說話那樣唱歌」「要不帶任何感情地唱」\[250\]。在組合初期，中田剛開始為三人提供歌曲時，成員均不了解「流行電音」，更不知道這種音樂類型的存在，即使是演藝學校的歌唱課，老師也只會教導她們如何把自己的感情注入歌曲裡，因此3人最初完全無法理解中田的指示，更曾因此而哭著錄音。出於這個原因，在主流出道之後一段時間，三人依然用以往的方法唱歌，結果她們的唱腔與製作出來的歌曲出現了不和諧，《[Sweet Donuts](../Page/Sweet_Donuts.md "wikilink")》就曾被認為是當中一首有「違和感」的歌曲\[251\]\[252\]。由於三人本來不能理解中田的指示，因此即使在合作一段時間後也未能對中田的歌曲產生任何好感，直到一次成員參加夜店活動看見有人在播Perfume的歌曲時興奮熱舞時，才開始對自己的歌曲感到自信，漸漸能夠把握到中田的要求\[253\]。由於中田對Perfume的音樂存在極大影響力，因此有評論指「如果當初三人沒有和中田建立信賴的關係的話，Perfume是不可能有現在的成就」，也有的認為「當中田不再製作歌曲的時候，便是Perfume完結的時候」的說法。\[254\]
 
 ### 舞蹈
 
-Perfume的舞蹈表演全部都是由[Amuse](../Page/Amuse.md "wikilink")旗下舞蹈家[MIKIKO](../Page/MIKIKO.md "wikilink")所設計的\[253\]。
+Perfume的舞蹈表演全部都是由[Amuse](../Page/Amuse.md "wikilink")旗下舞蹈家[MIKIKO](../Page/MIKIKO.md "wikilink")所設計的\[255\]。
 
-從Perfume在廣島演藝學校時代出道開始，歌曲的舞蹈設計一直都是由指導她們跳舞，[Amuse](../Page/Amuse.md "wikilink")旗下的舞蹈家[MIKIKO](../Page/MIKIKO.md "wikilink")負責設計的\[254\]，演唱會上的「Perfume的規則」（）環節也是來自MIKIKO的提議\[255\]。據她所述，Perfume的舞蹈乍看是十分簡單，但實際上要做得到卻是頗為困難的\[256\]。MIKIKO目前是廣島演藝學校的常勤導師\[257\]，成員偶爾也會稱呼她作「水野老師」\[258\]。
+從Perfume在廣島演藝學校時代出道開始，歌曲的舞蹈設計一直都是由指導她們跳舞，[Amuse](../Page/Amuse.md "wikilink")旗下的舞蹈家[MIKIKO](../Page/MIKIKO.md "wikilink")負責設計的\[256\]，演唱會上的「Perfume的規則」（）環節也是來自MIKIKO的提議\[257\]。據她所述，Perfume的舞蹈乍看是十分簡單，但實際上要做得到卻是頗為困難的\[258\]。MIKIKO目前是廣島演藝學校的常勤導師\[259\]，成員偶爾也會稱呼她作「水野老師」\[260\]。
 
-MIKIKO表示Perfume的歌曲「給我一種近乎未來的感覺，比起所謂的『有機』更應稱作『無機質』（指給人冰冷的、沒有感情的感覺）的東西。」「我希望能盡量把非人類的質感加入舞蹈裡，透過不同的姿勢和視線，營造一種像假模特兒和玩偶的感覺。」對於三名成員的個性，她認為三人給她的印象是「三個雖然聰明但又不失氣質的女孩子」，因此為突顯這樣的感覺，她經常將一些較難的舞蹈動作跟可愛的動作結合，「希望觀眾感覺到她們的個性。」她覺得Perfume的舞蹈動作「一般被認為有著不可思議的獨特感覺，如果只看一刻的動作而不是以一首歌曲的整體去看的話，是很難才會領略到對當中的獨特性。」\[259\]隨著Perfume在出道後的知名度漸漸上升，MIKIKO也開始將舞蹈的編排變得複雜\[260\]。
+MIKIKO表示Perfume的歌曲「給我一種近乎未來的感覺，比起所謂的『有機』更應稱作『無機質』（指給人冰冷的、沒有感情的感覺）的東西。」「我希望能盡量把非人類的質感加入舞蹈裡，透過不同的姿勢和視線，營造一種像假模特兒和玩偶的感覺。」對於三名成員的個性，她認為三人給她的印象是「三個雖然聰明但又不失氣質的女孩子」，因此為突顯這樣的感覺，她經常將一些較難的舞蹈動作跟可愛的動作結合，「希望觀眾感覺到她們的個性。」她覺得Perfume的舞蹈動作「一般被認為有著不可思議的獨特感覺，如果只看一刻的動作而不是以一首歌曲的整體去看的話，是很難才會領略到對當中的獨特性。」\[261\]隨著Perfume在出道後的知名度漸漸上升，MIKIKO也開始將舞蹈的編排變得複雜\[262\]。
 
 ### 美術設計
 
 從單曲《[Monochrome Effect](../Page/Monochrome_Effect.md "wikilink")》的封面設計開始，以及單曲《[Vitamin Drop](../Page/Vitamin_Drop.md "wikilink")》以後幾乎所有作品的音樂錄影帶（PV）等視覺方式的美術設計，都是由設計師擔任。
 
-組合的和RomanPorsche.的表示，「在這個年代，一般偶像的CD的曲調、封面和PV什麼的都是粗製濫造時，關和亮卻從非主流時期開始，就能具有整合性地，把令人一看便能留下深刻印象的美術設計製作出來。」\[261\]
+組合的和RomanPorsche.的表示，「在這個年代，一般偶像的CD的曲調、封面和PV什麼的都是粗製濫造時，關和亮卻從非主流時期開始，就能具有整合性地，把令人一看便能留下深刻印象的美術設計製作出來。」\[263\]
 
-一直為Perfume擔當美術設計的關和亮習慣以有別於平常的手法去設計其作品，嘗試在創造新奇的同時保存藝人形象的整合性和統一性。關和亮表示「我不是在以三人來作試驗，但從設計過程中的確會產生很多有趣的東西」\[262\]。他表示「我感到三人身上還有很多的可能性」，因此「也希望把更多更多的想法和主意放在她們身上」\[263\]。
+一直為Perfume擔當美術設計的關和亮習慣以有別於平常的手法去設計其作品，嘗試在創造新奇的同時保存藝人形象的整合性和統一性。關和亮表示「我不是在以三人來作試驗，但從設計過程中的確會產生很多有趣的東西」\[264\]。他表示「我感到三人身上還有很多的可能性」，因此「也希望把更多更多的想法和主意放在她們身上」\[265\]。
 
 至於在歌曲《Electro World》、《Twinkle Snow Powdery Snow》、《Polyrhythm》、《love the world》和《Dream Fighter》PV中的[CG效果均是由動畫公司](https://zh.wikipedia.org/wiki/電腦繪圖作品 "wikilink")[GONZO](../Page/GONZO.md "wikilink")所製作，而《Secret Secret》和《[自然愛](https://zh.wikipedia.org/wiki/不自然女孩/自然愛 "wikilink")》的PV是由知名導演執導拍攝。
 
 ### 科技團隊
 
-由[真鍋大度](../Page/真鍋大度.md "wikilink")帶領的Rhizomatiks團隊負責執行企劃，此團隊負責過[里約奧運閉幕式](../Page/2016年夏季奧林匹克運動會.md "wikilink") \[264\]，在2010年首次東京巨蛋演出開始正式合作，從2012年的發光舞衣開始，每年底的[紅白歌合戰幾乎等於當年度的成果發表](../Page/NHK红白歌合战.md "wikilink")，2013年的衣服投影，2014年的無人機，2015年的AR擴增實境，2016年的動態VR，2017年的澀谷頂樓當作背景並合成的現場轉播，2018年的深度學習。\[265\]
+由[真鍋大度](../Page/真鍋大度.md "wikilink")帶領的Rhizomatiks團隊負責執行企劃，此團隊負責過[里約奧運閉幕式](../Page/2016年夏季奧林匹克運動會.md "wikilink") \[266\]，在2010年首次東京巨蛋演出開始正式合作，從2012年的發光舞衣開始，每年底的[紅白歌合戰幾乎等於當年度的成果發表](../Page/NHK红白歌合战.md "wikilink")，2013年的衣服投影，2014年的無人機，2015年的AR擴增實境，2016年的動態VR，2017年的澀谷頂樓當作背景並合成的現場轉播，2018年的深度學習。\[267\]
 
 ### 對話
 
 隨筆作家認為，Perfume與其他偶像組合不同的其中一個特徵就是「在唱完很酷的歌曲後，便馬上開始興高采烈地用談話。」雖然Perfume已經離開廣島，長時間生活在東京，但至今成員之間依然會以廣島方言作共通的語言，在演唱會上的談話環節和各個電視節目上，也會不時說出廣島方言，當中又以西脇最為明顯。3人的自己介紹也有以廣島方言來說的版本，最後的「」會變成「」，但自我介紹時所做的動作是一樣的。談話的內容，多是含有自嘲的意味，或是向觀眾說教，當中帶點「毒舌」（即尖酸刻薄的說話）的成份，甚至會拿所屬事務所Amuse的社長和製作人中田康貴來開玩笑。不過，她們的談話一般被評論為「熱情奔放」和「[天然](../Page/天然呆.md "wikilink")」。
 
-演唱會上的MC時段比其他組合長是Perfume的特徵之一，例如在2008年的「GAME TOUR」演唱會裡，對話部份就已花了1小時\[266\]。在2009年10月10日的「等邊直角三角形TOUR」演唱會，通常3個小時便會結束的演唱會，因對話部份太長而延至3個半小時才結束\[267\] 。
+演唱會上的MC時段比其他組合長是Perfume的特徵之一，例如在2008年的「GAME TOUR」演唱會裡，對話部份就已花了1小時\[268\]。在2009年10月10日的「等邊直角三角形TOUR」演唱會，通常3個小時便會結束的演唱會，因對話部份太長而延至3個半小時才結束\[269\] 。
 
 ### 自我介紹
 
@@ -422,11 +426,11 @@ Perfume不論是上節目還是演出，都有固定的自我介紹方式。她�
 
 ### 歌迷層範圍廣泛
 
-Perfume的樂迷層面廣泛，包括喜歡[Club系音樂及](../Page/迪斯科.md "wikilink")[電子音樂的樂迷層](https://zh.wikipedia.org/wiki/流行電音 "wikilink")、[搖滾樂迷](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")、偶像樂迷\[268\] 、[YMO的樂迷](https://zh.wikipedia.org/wiki/YMO "wikilink")、[少年隊](../Page/少年隊.md "wikilink")世代的中年人等，從現今的音樂人中得到的評價也相當高。此外，其實平常愛聽[西洋音樂](https://zh.wikipedia.org/wiki/西樂 "wikilink")，沒有聽[J-Pop的上班族也是主要樂群](https://zh.wikipedia.org/wiki/J-Pop "wikilink")，當中女性樂迷也不斷增加\[269\]\[270\]。人們又以「喜歡[少年隊](../Page/少年隊.md "wikilink")的人也喜歡Perfume」這句話來描述Perfume的樂迷層之廣\[271\]。
+Perfume的樂迷層面廣泛，包括喜歡[Club系音樂及](../Page/迪斯科.md "wikilink")[電子音樂的樂迷層](https://zh.wikipedia.org/wiki/流行電音 "wikilink")、[搖滾樂迷](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")、偶像樂迷\[270\] 、[YMO的樂迷](https://zh.wikipedia.org/wiki/YMO "wikilink")、[少年隊](../Page/少年隊.md "wikilink")世代的中年人等，從現今的音樂人中得到的評價也相當高。此外，其實平常愛聽[西洋音樂](https://zh.wikipedia.org/wiki/西樂 "wikilink")，沒有聽[J-Pop的上班族也是主要樂群](https://zh.wikipedia.org/wiki/J-Pop "wikilink")，當中女性樂迷也不斷增加\[271\]\[272\]。人們又以「喜歡[少年隊](../Page/少年隊.md "wikilink")的人也喜歡Perfume」這句話來描述Perfume的樂迷層之廣\[273\]。
 
 ### 禮儀
 
-三人在演唱會和現場活動中端正的禮儀，在說話時不論是提到唱片店還是演出場地，後面也會加上敬語「」，甚至是在稱呼[NHK紅白歌合戰時也會稱其為](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")「」，其謙虛的形象令不少人留下深刻印象，Perfume的這個特點就算是Perfume在歌曲《[Polyrhythm](../Page/Polyrhythm_\(Perfume單曲\).md "wikilink")》推出人氣上升後也未有改變\[272\]。在一次擔任電台節目嘉賓時，主持人[木村KAELA](../Page/木村KAELA.md "wikilink")受交通事故影響而遲到，三人便馬上暫代她的位置，顯示出她們對突發事件的應變能力\[273\]。
+三人在演唱會和現場活動中端正的禮儀，在說話時不論是提到唱片店還是演出場地，後面也會加上敬語「」，甚至是在稱呼[NHK紅白歌合戰時也會稱其為](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")「」，其謙虛的形象令不少人留下深刻印象，Perfume的這個特點就算是Perfume在歌曲《[Polyrhythm](../Page/Polyrhythm_\(Perfume單曲\).md "wikilink")》推出人氣上升後也未有改變\[274\]。在一次擔任電台節目嘉賓時，主持人[木村KAELA](../Page/木村KAELA.md "wikilink")受交通事故影響而遲到，三人便馬上暫代她的位置，顯示出她們對突發事件的應變能力\[275\]。
 
 ## 得獎及成績
 
@@ -459,7 +463,7 @@ Perfume的樂迷層面廣泛，包括喜歡[Club系音樂及](../Page/迪斯科.
 <tr class="odd">
 <td style="text-align: center;"><p><strong>2010</strong></p></td>
 <td style="text-align: left;"><ul>
-<li>「<a href="../Page/Mnet亞洲音樂大獎.md" title="wikilink">2010 Mnet亞洲音樂大獎</a>」亞洲最佳流行歌手獎[274]</li>
+<li>「<a href="../Page/Mnet亞洲音樂大獎.md" title="wikilink">2010 Mnet亞洲音樂大獎</a>」亞洲最佳流行歌手獎[276]</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -502,7 +506,7 @@ Perfume的樂迷層面廣泛，包括喜歡[Club系音樂及](../Page/迪斯科.
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019</p></td>
-<td style="text-align: left;"><p>「（第22回）文化廳媒體藝術祭 娛樂部門　優秀獎」　Perfume 「Reframe」[275]</p></td>
+<td style="text-align: left;"><p>「（第22回）文化廳媒體藝術祭 娛樂部門　優秀獎」　Perfume 「Reframe」[277]</p></td>
 </tr>
 </tbody>
 </table>
@@ -540,6 +544,7 @@ Perfume的樂迷層面廣泛，包括喜歡[Club系音樂及](../Page/迪斯科.
 | 5    |
 | 6    |
 | 7    |
+| \-   |
 
 | DVD        |
 | ---------- |
@@ -793,55 +798,55 @@ Perfume的樂迷層面廣泛，包括喜歡[Club系音樂及](../Page/迪斯科.
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>Dream Fighter</p></td>
+<td><p>动画「FASTENING DAYS 4」主题曲</p></td>
+<td><p><a href="../Page/Dream_Fighter.md" title="wikilink">Dream Fighter</a></p></td>
+</tr>
+<tr class="even">
 <td><p>NIGHT FLIGHT</p></td>
 <td><p>森永乳業「」廣告歌</p></td>
 <td><p><a href="../Page/⊿_(Perfume專輯).md" title="wikilink">⊿（Triangle）</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>自然愛（）</p></td>
 <td><p>Sanei International 「RUNWAY DANCE A~chan」篇 廣告歌</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/不自然女孩/自然愛" title="wikilink">不自然女孩/自然愛</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>NATURAL BEAUTY BASIC 「RUNWAY DANCE Kashiyuka」篇 廣告歌</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>NATURAL BEAUTY BASIC 「RUNWAY DANCE Nocchi」篇 廣告歌</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>電影《<a href="../Page/今天開始談戀愛.md" title="wikilink">今天開始談戀愛</a>》主題曲</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>VOICE</p></td>
 <td><p>「<a href="../Page/日產汽車.md" title="wikilink">日產的店舖</a>! 宣傳活動」廣告歌</p></td>
 <td><p><a href="../Page/VOICE_(Perfume單曲).md" title="wikilink">VOICE</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>電子音樂公司「<a href="../Page/RecoChoku.md" title="wikilink">RecoChoku</a>」廣告歌</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>575</p></td>
 <td><p>KDDI 「<a href="https://zh.wikipedia.org/wiki/LIGHTPOOL" title="wikilink">LIGHT POOL</a>」篇 廣告歌</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>欸（）</p></td>
 <td><p>Sanei International NATURAL BEAUTY BASIC 「」篇 廣告歌</p></td>
 <td><p><a href="../Page/欸_(Perfume單曲).md" title="wikilink">欸</a></p></td>
 </tr>
-<tr class="even">
-<td><p>NATURAL BEAUTY BASIC 「」篇 廣告歌</p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td><p>NATURAL BEAUTY BASIC 「」篇 廣告歌</p></td>
 <td></td>
@@ -853,183 +858,193 @@ Perfume的樂迷層面廣泛，包括喜歡[Club系音樂及](../Page/迪斯科.
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>NATURAL BEAUTY BASIC 「」篇 廣告歌</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>奇奇冒險日記 片頭曲</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Laser Beam（）</p></td>
 <td><p><a href="../Page/麒麟啤酒.md" title="wikilink">麒麟啤酒</a>「」（）廣告歌</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Laser_Beam/微香" title="wikilink">Laser Beam/微香</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>微香（）</p></td>
 <td><p>麒麟「CHU-HI 冰結 溫柔的果實的3%」（）廣告歌</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>GLITTER</p></td>
 <td><p>麒麟「CHU-HI 冰結」廣告歌</p></td>
 <td><p><a href="../Page/SPICE_(Perfume單曲).md" title="wikilink">SPICE</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>SPICE（）</p></td>
 <td><p><a href="../Page/TBS.md" title="wikilink">TBS</a>系電視劇「<a href="../Page/我是影子.md" title="wikilink">専業主婦探偵～我是影子</a>」主題曲</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Spring of Life</p></td>
 <td><p>麒麟「CHU-HI 冰結」（MAGICAL MUSIC篇）廣告歌</p></td>
 <td><p><a href="../Page/Spring_of_Life.md" title="wikilink">Spring of Life</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Communication</p></td>
 <td><p>「Puré軟糖」廣告歌</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Point</p></td>
 <td><p>麒麟CHU-HI冰結 溫柔的果實的3%（） 「Balloon篇」及「Triple Screen篇」廣告歌</p></td>
 <td><p><a href="../Page/Spending_all_my_time.md" title="wikilink">Spending all my time</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Hurly Burly</p></td>
 <td><p>麒麟CHU-HI冰結 （）「MAGIC MOMENT篇」廣告歌</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>未來博物館（）</p></td>
 <td><p><a href="../Page/東寶.md" title="wikilink">東寶</a>電影「<a href="../Page/大雄的秘密道具博物館.md" title="wikilink">多啦A夢 大雄的秘密道具博物館</a>」主題曲</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/未來博物館" title="wikilink">未來博物館</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Magic of Love</p></td>
 <td><p>KANRO「Puré軟糖」廣告歌</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Magic_of_Love" title="wikilink">Magic of Love</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Party Maker</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EISAI" title="wikilink">EISAI</a>「ChocolaBB Sparkling」廣告歌</p></td>
 <td><p><a href="../Page/LEVEL3.md" title="wikilink">LEVEL3</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1mm</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EISAI" title="wikilink">EISAI</a>「ChocolaBB Plus」廣告歌</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/EISAI" title="wikilink">EISAI</a>「ChocolaBB 美ChocolaCollagen」廣告歌</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Sweet Refrain</p></td>
 <td><p><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>電視劇「<a href="../Page/都市傳說之女.md" title="wikilink">都市傳說之女</a>2」主題曲</p></td>
 <td><p><a href="../Page/Sweet_Refrain.md" title="wikilink">Sweet Refrain</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Hold Your Hand</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/NHK" title="wikilink">NHK電視劇</a>「」主題曲</p></td>
 <td><p><a href="../Page/Cling_Cling.md" title="wikilink">Cling Cling</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Cling Cling</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EISAI" title="wikilink">EISAI</a>「ChocolaBB系列」廣告歌</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>DISPLAY</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Panasonic" title="wikilink">Panasonic</a> 4K電視主題曲</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Relax In The City</p></td>
 <td><p><a href="../Page/札幌啤酒.md" title="wikilink">札幌啤酒</a>「Sapporo Green Aroma」廣告歌</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Relax_In_The_City/Pick_Me_Up" title="wikilink">Relax In The City/Pick Me Up</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Pick Me Up</p></td>
 <td><p><a href="../Page/伊勢丹.md" title="wikilink">伊勢丹</a>新宿店合作計劃主題曲</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>隱形人（）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EISAI" title="wikilink">EISAI</a>「ChocolaBB Plus」廣告歌</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>TOKIMEKI LIGHTS</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EISAI" title="wikilink">EISAI</a>「ChocolaBB Royal2」廣告歌</p></td>
 <td><p><a href="../Page/STAR_TRAIN.md" title="wikilink">STAR TRAIN</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>STAR TRAIN</p></td>
 <td><p>紀錄片電影「『WE ARE Perfume -WORLD TOUR 3rd DOCUMENT』」主題曲</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Next Stage with YOU</p></td>
 <td><p><a href="../Page/梅賽德斯-賓士.md" title="wikilink">梅賽德斯-賓士</a>「A Class」廣告歌</p></td>
 <td><p><a href="../Page/COSMIC_EXPLORER.md" title="wikilink">COSMIC EXPLORER</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>FLASH</p></td>
 <td><p>(2016年 4月 6日)、 電影《<a href="../Page/花牌情緣_(電影).md" title="wikilink">花牌情緣</a> 上之句」及「花牌情緣 下之句」》主題曲</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Atmospheric Entry</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/UNIQLO" title="wikilink">UNIQLO</a> HEATTECH 廣告歌</p></td>
 <td><p>無</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>TOKYO GIRL</p></td>
 <td><p>(2017年2月15日)、 電視劇 《<a href="https://zh.wikipedia.org/wiki/東京妄想女子" title="wikilink">東京妄想女子</a>》主題曲 <a href="../Page/日本電視台週三連續劇.md" title="wikilink">日本電視台週三連續劇</a></p></td>
 <td><p><a href="../Page/TOKYO_GIRL.md" title="wikilink">TOKYO GIRL</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>寶石之雨</p></td>
 <td><p>Ora2×Perfume 口妝美Project廣告曲</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>If you wanna</p></td>
 <td><p>Ora2×Perfume 口妝美Project「和Ora2外出篇」廣告曲</p></td>
 <td><p><a href="../Page/If_you_wanna.md" title="wikilink">If you wanna</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Everyday</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Panasonic" title="wikilink">Panasonic</a> × Perfume AWA DANCE活動主題曲</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>無限未來</p></td>
 <td><p>電影「<a href="../Page/花牌情緣_(電影).md" title="wikilink">花牌情緣</a> -結-」主題曲</p></td>
 <td><p><a href="../Page/無限未來.md" title="wikilink">無限未來</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>FUSION</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/NTT_docomo" title="wikilink">NTT docomo</a>「FUTURE-EXPERIMENT VOL.01 docomo×Perfume 讓我們沒有距離。」宣傳曲</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Let Me Know</p></td>
 <td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台</a>「爽快資訊綜藝 豁然開朗</p></td>
 <td><p>」8月主題曲</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Future Pop</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/NTT_docomo" title="wikilink">NTT docomo宣傳曲</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Tiny Baby</p></td>
 <td><p>(2018年) 電影《<a href="../Page/鬼靈精.md" title="wikilink">鬼靈精</a>》日版插入曲</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ナナナナナイロ</p></td>
-<td><p>(2019年7月6日) .肌美精廣告曲 《台灣取景拍攝 .高雄六合夜市 .平溪天燈 .》</p></td>
+<td><p>(2019年7月6日) 肌美精廣告曲 《台灣取景拍攝 .高雄六合夜市 .平溪十分老街天燈.烏來福山村.台南四草綠色隧道》</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Perfume_The_Best_“P_Cubed”" title="wikilink">Perfume The Best “P Cubed”</a></strong></p></td>
+</tr>
+<tr class="even">
+<td><p>再生</p></td>
+<td><p>電影「屍人莊殺人事件」主題曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1299,7 +1314,7 @@ OSAKA MUSE<br />
 <td><p>11月8日</p></td>
 <td><p><strong>Perfume ～SEVENTH HEAVEN 感覺良好♪～</strong><br />
 （）</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LIQUIDROOM" title="wikilink">LIQUIDROOM</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1568,9 +1583,13 @@ Perfume、SPECIAL OTHERS</p></td>
 <td><p>2016年</p></td>
 <td><p><strong>5月3日～11月12日</strong></p></td>
 <td><p><strong>Perfume 6th Tour 2016 『COSMIC EXPLORER』</strong></p></td>
-<td><p>宮城県総合運動公園 靜岡縣小笠山綜合運動公園體育場</p>
-<p>(待補)</p></td>
-<td></td>
+<td><p><a href="../Page/幕張展覽館.md" title="wikilink">幕張展覽館</a></p>
+<p><a href="../Page/威尔顿剧院.md" title="wikilink">威爾頓劇院</a></p>
+<p>{{link-en|Warfield Theatre</p></td>
+<td><p>沃菲爾德劇院}}</p>
+<p><a href="../Page/大阪巨蛋.md" title="wikilink">大阪巨蛋</a></p>
+<p><a href="../Page/名古屋巨蛋.md" title="wikilink">名古屋巨蛋</a></p>
+<p><a href="../Page/福岡巨蛋.md" title="wikilink">福岡巨蛋</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
@@ -1588,6 +1607,13 @@ Perfume、SPECIAL OTHERS</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
+<td><p>待補</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020年</p></td>
 <td><p>待補</p></td>
 <td></td>
 <td></td>
@@ -1660,7 +1686,7 @@ Perfume、SPECIAL OTHERS</p></td>
 
   - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")
 
-      - 2009年4月－2016年4月:[NHK電視台](https://zh.wikipedia.org/wiki/NHK電視台 "wikilink")
+      - 2009年4月－2016年4月:[NHK電視台](https://zh.wikipedia.org/wiki/NHK "wikilink")
 
   - [東京白日夢女](../Page/東京白日夢女.md "wikilink")
 
@@ -1741,9 +1767,9 @@ Perfume、SPECIAL OTHERS</p></td>
   - 三色堇
       - [東京電視台](../Page/東京電視台.md "wikilink"): 2017年3月31日 - 4月1日
 
-### 動畫
+### 動畫配音
 
-  - FASTENING DAYS 3 (第一集蛋糕店店員:Yuka、第二集郵差:Nocchi、第三集消防員:Achan) \[276\]
+  - FASTENING DAYS 3 (第一集蛋糕店店員:Yuka、第二集郵差:Nocchi、第三集消防員:Achan) \[278\]
 
 ### 廣告
 
@@ -1784,7 +1810,7 @@ Perfume、SPECIAL OTHERS</p></td>
 
   - [VOGUE JAPAN](https://zh.wikipedia.org/wiki/VOGUE_JAPAN "wikilink")
 
-      - 2012年11月號：「Perfume的大人模式在世界開始！」（）\[277\]
+      - 2012年11月號：「Perfume的大人模式在世界開始！」（）\[279\]
 
   - 待補
 
@@ -1792,7 +1818,7 @@ Perfume、SPECIAL OTHERS</p></td>
 
   - 《Promise》：出演背景的[Hip-hop舞者](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")
 
-  - [色情塗鴉](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink")《》\[278\]
+  - [色情塗鴉](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink")《》\[280\]
 
   - [OK Go](../Page/OK_Go.md "wikilink")《[I Won't Let You Down](https://zh.wikipedia.org/wiki/I_Won't_Let_You_Down "wikilink")》：開頭部分客串出演
 
@@ -1854,533 +1880,281 @@ Perfume、SPECIAL OTHERS</p></td>
 1.
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10. 由於成員的暱稱也被使用於官方網站、音樂錄影帶和CD的歌詞本等地方，因此屬於半官方名字。
-
 11. [富士電視台](../Page/富士電視台.md "wikilink")節目「Music Fair」（2008年2月9日出）
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18. CBC電台「」（2008年2月4日）
-
 19.
-
 20. [富士電視台](../Page/富士電視台.md "wikilink")節目「Music Fair」（2008年2月9日出）
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
 37.
 38.
-
 39.
-
 40.
-
 41. [日本電視台](../Page/日本電視台.md "wikilink")節目「」（2008年2月15日播出）
-
 42.
 
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.
 78.
-
 79.
-
 80.
-
 81.
-
 82.
-
 83.
-
 84.
-
 85.
-
 86.
-
 87.
-
 88.
-
 89.
-
 90.
-
 91.
-
 92.
-
 93.
-
 94.
-
 95.
-
 96.
-
 97.
-
 98.
-
 99.
-
 100.
-
 101.
-
 102.
-
 103.
-
 104.
-
 105.
-
 106.
-
 107.
-
 108.
-
 109.
-
 110.
-
 111.
-
 112.
-
 113.
-
 114.
-
 115.
-
 116.
-
 117.
-
 118.
-
 119.
-
 120.
 121.
-
 122.
-
 123.
-
 124.
-
 125.
-
 126.
-
 127.
-
 128.
-
 129.
-
 130.
-
 131.
-
 132.
-
 133.
-
 134.
-
 135.
-
 136.
 137.
-
 138.
-
 139.
-
 140.
-
 141.
-
 142.
-
 143.
-
 144.
-
 145.
 146.
-
 147.
-
 148.
 149.
-
 150.
-
 151.
-
 152.
-
 153.
-
 154.
-
 155.
-
 156.
-
 157.
-
 158.
-
 159.
-
 160.
-
 161.
-
 162.
-
 163.
-
 164.
-
 165.
-
 166.
-
 167.
-
 168.
-
 169.
-
 170.
 171.
-
 172.
-
 173. [1](http://www.wired.com/2015/03/hot-damn-concert-straight-future/)
-
 174.
-
 175.
-
 176.
-
 177.
-
 178.
-
 179.
-
 180. [Perfume、武道館“すごろく”ライブを映像化 副音声&指示書付き](http://www.oricon.co.jp/news/2062588/full/) オリコン 2015年11月19日
-
 181. \[<https://www.cinra.net/news/20151103-perfume>　Perfumeのアルバム5作品がアナログ盤に、全部入りボックスも登場\]  CINRA 2015年11月3日。
-
 182.
-
 183.
-
 184.
-
 185.
-
 186.
-
 187.
-
 188.
-
 189.
-
 190. [Perfumeが地上波ドラマ初主演　木皿泉が脚本のテレ東ドラマ『パンセ』](http://www.cinra.net/news/20170228-pensees) CINRA 2017年2月27日。
-
 191. [幕張「Perfume FES\!\!」に電気グルーヴ、チャットモンチー出演](http://natalie.mu/music/news/220759) ナタリー 2017年2月14日。
-
 192.
-
 193.
-
 194.
-
 195.
-
 196.
-
 197.
-
 198.
-
 199.
-
 200.
-
 201.
-
 202.
-
 203.
-
 204.
-
 205.
-
 206.
-
 207.
-
 208.
-
 209.
-
 210.
-
 211.
-
 212.
-
 213.
-
 214.
-
 215.
-
 216.
-
 217.
-
 218.
-
 219.  最新情報 {{\!}} RCCテレビ60年特別企画 リリーフドラマ「恋より好きじゃ、ダメですか？」|url=[http://tv.rcc.jp/tv60-koidrama/news/entry-9399.html|work=RCC|accessdate=2019-03-12](http://tv.rcc.jp/tv60-koidrama/news/entry-9399.html%7Cwork=RCC%7Caccessdate=2019-03-12)}}
-
 220.
-
 221.
-
 222.
-
 223.
-
 224.
-
 225.
-
 226.
-
 227.
-
 228.
-
 229.  ARTISTS|url=[https://www.sweetloveshower.com/2019/artist/|work=SPACE](https://www.sweetloveshower.com/2019/artist/%7Cwork=SPACE) SHOWER TV 30TH ANNIVERSARY SWEET LOVE SHOWER 2019|accessdate=2019-05-09|language=ja}}
-
 230.
-
 231.
-
 232.
-
 233.
-
 234.
-
 235.
-
 236.
 237.
-
 238.
-
-239. 「」2008年11月号
-
-240. 「remix」2007年4月号
-
-241.
-
-242.
-
+239.
+240.
+241. 「」2008年11月号
+242. 「remix」2007年4月号
 243.
-244. [富士電視台](../Page/富士電視台.md "wikilink") 「[鬧鐘電視](../Page/鬧鐘電視.md "wikilink")」（2008年6月30日播出）
-
+244.
 245.
-
-246.
+246. [富士電視台](../Page/富士電視台.md "wikilink") 「[鬧鐘電視](../Page/鬧鐘電視.md "wikilink")」（2008年6月30日播出）
 247.
-
 248.
-
 249.
 250.
-
 251.
 252.
-
 253.
-
 254.
-
 255.
-
 256.
-
 257.
-
 258.
 259.
 260.
 261.
-
 262.
 263.
-
 264.
-
 265.
-
 266.
-
 267.
-
 268.
-
 269.
-
 270.
 271.
-
-272. [北海道電視台](../Page/北海道電視台.md "wikilink")「」（2008年3月3日播出）
-
-273. [J-WAVE](../Page/J-WAVE.md "wikilink")「OH\! MY RADIO」（2008年4月22日播出）
-
-274.
-
-275.
-
+272.
+273.
+274. [北海道電視台](../Page/北海道電視台.md "wikilink")「」（2008年3月3日播出）
+275. [J-WAVE](../Page/J-WAVE.md "wikilink")「OH\! MY RADIO」（2008年4月22日播出）
 276.
-
 277.
-
 278.
+279.
+280.

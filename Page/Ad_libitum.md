@@ -16,7 +16,7 @@
 
 ## 戏剧
 
-在[戏剧](../Page/戏剧.md "wikilink")中，表演者临时使用的机智[对白称为](https://zh.wikipedia.org/wiki/对白 "wikilink")“ad-lib”。[导演也会鼓励表演者在特定的表演中进行自由发挥](https://zh.wikipedia.org/wiki/导演 "wikilink")。（术语*ad-lib*常指在演出中更改脚本所设定的内容。如果整个演出都是基于自发的创作，通常称为“即兴表演”）。
+在[戏剧](../Page/戏剧.md "wikilink")中，表演者临时使用的机智[对白称为](https://zh.wikipedia.org/wiki/对白 "wikilink")“ad-lib”。[导演](../Page/导演.md "wikilink")也会鼓励表演者在特定的表演中进行自由发挥。（术语*ad-lib*常指在演出中更改脚本所设定的内容。如果整个演出都是基于自发的创作，通常称为“即兴表演”）。
 
 一些直播活动如[电视](../Page/电视.md "wikilink")[脱口秀](../Page/脱口秀.md "wikilink")的[主持人有时会使用一些表面上是临时发挥](https://zh.wikipedia.org/wiki/主持人 "wikilink")，但实际已经事先写好的台词来显示他们的智慧，也可能有专门的写手来准备这些内容。
 

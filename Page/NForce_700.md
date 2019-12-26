@@ -89,7 +89,7 @@
   - [nForce 700 AMD平臺官方網頁](http://www.nvidia.com/object/nforce_700a.html)
   - [nForce 700 Intel平臺官方網頁](http://www.nvidia.com/object/nforce_700i.html)
 
-[Category:主板](https://zh.wikipedia.org/wiki/Category:主板 "wikilink") [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:nForce系列](https://zh.wikipedia.org/wiki/Category:nForce系列 "wikilink") [Category:2007年面世的產品](https://zh.wikipedia.org/wiki/Category:2007年面世的產品 "wikilink")
 
 1.  [New NVIDIA nForce 780i SLI MCP is The Must-Have Gaming Platform for Intel Yorkfield CPUs](http://www.nvidia.com/object/io_1197897414453.html)
 2.  [nForce 780a SLI芯片组将更名为nForce 980a SLI](http://news.mydrivers.com/1/127/127143.htm)

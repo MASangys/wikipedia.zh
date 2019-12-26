@@ -76,18 +76,11 @@ Mac OS X:
 [Category:BitTorrent客戶端](https://zh.wikipedia.org/wiki/Category:BitTorrent客戶端 "wikilink") [Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  [µTorrent FAQ - Answer about Embedded Tracker](http://www.utorrent.com/faq.php#Does_.C2.B5Torrent_have_an_embedded_tracker.3F)
-
 7.
 8.
-
 9.

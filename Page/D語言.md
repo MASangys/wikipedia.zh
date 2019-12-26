@@ -350,7 +350,7 @@ static assert(false, "My work here is done.");
 
   - [電腦語言評測遊戲](https://www.webcitation.org/5msbXYFX1?url=http://shootout.alioth.debian.org/debian/benchmark.php?test=all)
 
-  - [D文件的維基頁](http://www.docwiki.net/)
+  - [D文件的維基頁](https://web.archive.org/web/20080205020423/http://www.docwiki.net/)
 
   - [D語言特性列表](http://www.digitalmars.com/d/comparison.html)
 

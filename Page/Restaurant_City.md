@@ -60,5 +60,4 @@ Restaurant City的料理分四種：頭盤（Starter）、主菜（Main）、甜
 [Category:Facebook遊戲](https://zh.wikipedia.org/wiki/Category:Facebook遊戲 "wikilink")
 
 1.  [驚！昔日Facebook熱門遊戲　「餐城」6月底停止營運](http://hk.news.yahoo.com/%E9%A9%9A-%E6%98%94%E6%97%A5facebook%E7%86%B1%E9%96%80%E9%81%8A%E6%88%B2-%E9%A4%90%E5%9F%8E-6%E6%9C%88%E5%BA%95%E5%81%9C%E6%AD%A2%E7%87%9F%E9%81%8B-033411306.html?fb_action_ids=10150753403794760&fb_action_types=news.reads&fb_ref=type%3Aread%2Cuser%3AismXpqq_MWtxJAzWsbCQzjTfjqU&fb_source=other_multiline&code=AQAwK2qPEGtdbdcXzAdvt1odn9Qemwuiq2GOhReus1CjTuNvq_RDITMulVdG-PoWTFO_UhhICEblvwnjYsajX60m7FMgo9Evc5Z9ouBYZJO1rjOMdw0IDbx3n4gQewH-UQw2mYoIZAz3AOYNohagAQCSqXt-_11MlIrpDHTxdrpX8fxiylpewoqpfSdLUIY_Y0I#_=_)
-
 2.

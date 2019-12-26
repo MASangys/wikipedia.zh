@@ -26,10 +26,7 @@ Pingus 在图形界面下只有22个冬季主题的教学关卡。可是，还�
 [Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink") [Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink") [Category:益智游戏](https://zh.wikipedia.org/wiki/Category:益智游戏 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  [Unix Review](http://www.unixreview.com/documents/s=9900/ur0510d/ur0510d.html)
-
 5.

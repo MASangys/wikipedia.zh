@@ -110,7 +110,7 @@ GeForce 200顯示核心擁有比以往世代的NVIDIA顯示核心更動態和更
   - [NVIDIA主頁](http://www.nvidia.com)
   - [NVIDIA GeForce產品主頁](http://www.nvidia.com/object/geforce_family.html)
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:GeForce系列](https://zh.wikipedia.org/wiki/Category:GeForce系列 "wikilink") [Category:2008年面世的產品](https://zh.wikipedia.org/wiki/Category:2008年面世的產品 "wikilink")
 
 1.  [四大重要更新 40nm GT220全球抢先详测](http://publish.it168.com/2009/0901/20090901012701.shtml)
 2.  [NVIDIA首款DDR5显卡 GT240性能首次曝光](http://vga.it168.com/a2009/1009/754/000000754803.shtml)

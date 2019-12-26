@@ -15,7 +15,7 @@ Handel-C在被ESL發表之後，被許多大學的硬體研究單位被採用，
 ## 外部連結
 
   - [Oxford Handel-C](http://citeseer.ist.psu.edu/rd/49527001%2C78794%2C1%2C0.25%2CDownload/http://citeseer.ist.psu.edu/cache/papers/cs/3848/ftp:zSzzSzftp.comlab.ox.ac.ukzSzpubzSzDocumentszSztechpaperszSzIan.PagezSzumist.pdf/page96hardwaresoftware.pdf)
-  - [Agility Design Solutions](http://www.agilityds.com) Company behind the DK Design Suite, a Handel-C IDE
+  - [Agility Design Solutions](https://web.archive.org/web/20080613234330/http://www.agilityds.com/) Company behind the DK Design Suite, a Handel-C IDE
   - [Handel-C Language Reference Manual](https://web.archive.org/web/20100331015609/http://www.agilityds.com/literature/HandelC_Language_Reference_Manual.pdf) From Agility Design Solutions
 
 [Category:C語言家族](https://zh.wikipedia.org/wiki/Category:C語言家族 "wikilink") [Category:硬件描述语言](https://zh.wikipedia.org/wiki/Category:硬件描述语言 "wikilink")

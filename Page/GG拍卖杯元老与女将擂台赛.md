@@ -209,8 +209,8 @@
 
 ## 外部链接
 
-  - [韓國GG拍賣杯元老與女將擂台賽歷屆結果 - 韓國棋院官網](http://www.baduk.or.kr/info/gijun_view.asp?cmpt_tnmt_div=1&cmpt_code=6833)
-  - [韩国GG拍卖杯红颜5-1元老 朴志娟四连胜直逼曹薰铉_棋牌_体坛周报·体坛网](http://sports.titan24.com/qipai/2010-08-02/11358.html)
+  - [韓國GG拍賣杯元老與女將擂台賽歷屆結果 - 韓國棋院官網](https://web.archive.org/web/20160910224116/http://www.baduk.or.kr/info/gijun_view.asp?cmpt_tnmt_div=1&cmpt_code=6833)
+  - [韩国GG拍卖杯红颜5-1元老 朴志娟四连胜直逼曹薰铉_棋牌_体坛周报·体坛网](https://web.archive.org/web/20100803063451/http://sports.titan24.com/qipai/2010-08-02/11358.html)
 
 [Category:韩国围棋比赛](https://zh.wikipedia.org/wiki/Category:韩国围棋比赛 "wikilink")
 

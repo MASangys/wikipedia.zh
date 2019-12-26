@@ -85,46 +85,25 @@ Xbox360從發售之初至今，故障問題一直十分嚴重。2005年8月，�
 [Category:Xbox_360](https://zh.wikipedia.org/wiki/Category:Xbox_360 "wikilink") [Category:故障](https://zh.wikipedia.org/wiki/Category:故障 "wikilink")
 
 1.  [微軟工程師自曝 XBOX360三紅率高達68%](http://article.pchome.net/content-710750.html) 電腦之家
-
 2.  [Retailers Estimate Xbox 360 Failure Rate High as 33 Percent](http://www.dailytech.com/Retailers+Estimate+Xbox+360+Failure+Rate+High+as+33+Percent/article7892.htm/)
-
 3.
 4.  ＊新型Xbox 360 Slim發行後　此狀況已不再常見[微軟並未正式公開三紅原因](http://ja.wikipedia.org/wiki/Xbox_360%E3%81%AE%E6%8A%80%E8%A1%93%E7%9A%84%E5%95%8F%E9%A1%8C)
-
 5.  [傳說中的Xbox 360三紅大揭秘](http://games.enet.com.cn/article/A0120080121001_1.html)  遊戲先鋒
-
 6.  [三紅癥結所在 Xbox360 GPU銲接質量問題曝光](http://www.donews.com/Content/200801/5842b495abaa4179b7f4d5d70fc852c1.shtm) DoNews
-
 7.  [微軟人員解釋Xbox360三紅原因](http://www.down.com.cn/game/xbox/5406.html)  中國下載門戶
-
 8.  [Xbox 360 主機正面光環上的三個燈號都閃紅燈](http://support.microsoft.com/kb/907534/zh-hk) Microsoft幫助與支持
-
 9.  [小心\!微軟Xbox 360遊戲機會劃傷光盤](http://diy.pconline.com.cn/other/news/0601/745580.html) 太平洋電腦網
-
 10. [微軟曾明知Xbox 360存在劃盤問題卻不改正](http://news.mydrivers.com/1/123/123883.htm) 驅動之家
-
 11. [微軟Xbox360劃盤故障遭用戶聯合訴訟](http://tech.sina.com.cn/it/2008-12-22/08032676784.shtml) 新浪科技時代
-
 12. [微軟：Xbox360劃盤幾率不到1%](http://www.enet.com.cn/article/2008/1222/A20081222406274.shtml)  E-net硅谷動力
-
 13. [又見三紅？XBOX360新故障「E74」揭秘](http://www.gamespot.com.cn/news/2009/0421/98218.shtml)  gamespot
-
 14. [說明 E74 錯誤訊息的瑕疵擔保擴充功能](http://support.microsoft.com/kb/969905/zh-hk) Microsoft幫助與支持
-
 15. [請問大家的XBOX360會很吵嗎?](http://www.mobile01.com/topicdetail.php?f=282&t=311105&p=1)
-
 16. [XBOX360刷機詳細教程](http://www.64dp.com/forum59372-49001.html)
-
 17. [專題：本土非法盜版的惡果 微軟封鎖非法ID行動](http://pc.ccnec.com/z/xbox360/2007/05/21/006404.shtml) 網元網\]
-
 18. [權威人士透露Xbox360封ID內幕](http://www.xbox-sky.com/showthread.php?t=136320) Xbox-Sky
-
 19. [微軟正式承認三紅事件\!所有360延長保修期](http://game.china228.com/shtml/20070707/23064.shtml) 好得遊戲頻道
-
 20. [Xbox 360的失敗內幕](http://it.sohu.com/20080910/n259487410.shtml) 搜狐IT
-
 21. [微软竟在X360回收及修理上 花了超过30亿美元](http://www.gamedb.com.tw/NewsArticle.aspx?nid=2463l) GameDB
-
 22. [PS3與Wii的壞機率低於1% 而X360壞機率高達33%](http://www.ripten.com/2007/07/03/failure-rate-xbox-360-high-as-33-sony-ps3-less-than-1/)
-
 23.

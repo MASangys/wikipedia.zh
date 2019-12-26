@@ -246,8 +246,8 @@
   - [Marguerite Sphere](https://zh.wikipedia.org/wiki/Marguerite_Sphere "wikilink")（**此花 茉莉**）
   - ひなたテラス 〜We don't abandon you.〜（**梶原 雛**）
   - [11eyes -Resona Forma-](../Page/11eyes_-罪與罰與贖的少女-.md "wikilink")（広原 雪子）
-  - 君を仰ぎ乙女は姫に（**星河 舞輝**）
-  - カミカゼ☆エクスプローラー\!（宇佐美 沙織）
+  - [仰望君之少女成為公主](https://zh.wikipedia.org/wiki/仰望君之少女成為公主 "wikilink")（**星河 舞輝**）
+  - [神風探險者](../Page/神風探險者.md "wikilink")（宇佐美 沙織）
   - ダイヤミック・デイズ（**姫野川 コトラ**）
   - [特別婚\!](https://zh.wikipedia.org/wiki/特別婚! "wikilink")（**佐渡咲**）
   - 妹恋〜しすこい〜（**如月 穂花**）

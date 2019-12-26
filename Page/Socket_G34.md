@@ -83,35 +83,22 @@ Socket G34於2010年3月29日推出，用於取代Socket F/F+，原來也用於�
 [Category:CPU插座](https://zh.wikipedia.org/wiki/Category:CPU插座 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
 11.
 12.
-
 13.
 14.
-
 15.
 16.
-
 17.  [PC Watch report](http://pc.watch.impress.co.jp/docs/2008/0520/kaigai440.htm)，取自2008年8月20號
-
 18.
-
 19.
 20.

@@ -28,8 +28,6 @@ Wapedia可透過[行動電話或](https://zh.wikipedia.org/wiki/行動電話 "wi
 [Category:維基百科](https://zh.wikipedia.org/wiki/Category:維基百科 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

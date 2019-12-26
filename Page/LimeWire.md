@@ -55,23 +55,13 @@ Pro版與Basic版有兩方面的分別：
 [Category:Java平台軟體](https://zh.wikipedia.org/wiki/Category:Java平台軟體 "wikilink") [Category:自由軟體](https://zh.wikipedia.org/wiki/Category:自由軟體 "wikilink") [Category:P2P](https://zh.wikipedia.org/wiki/Category:P2P "wikilink") [Category:自由檔案分享軟體](https://zh.wikipedia.org/wiki/Category:自由檔案分享軟體 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
 
 1.
-
 2.  [Schneier on Security: SHA-1 Broken](http://www.schneier.com/blog/archives/2005/02/sha1_broken.html)
-
 3.
-
 4.
-
 5.  ["FrostWire Beta Released"](http://www.slyck.com/news.php?story=954)，來自[Slyck.com](https://zh.wikipedia.org/wiki/Slyck.com "wikilink")
-
 6.  Tom Zeller，2005年6月28日，"Trying to Tame an Unruly Technology"，*紐約時報*，C版，專欄2，第一頁
-
 7.  <http://www.slyck.com/news.php?story=927>
-
 8.  <http://recordingindustryvspeople.blogspot.com/2006/08/copy-of-complaint-in-arista-v-lime.html>
-
 9.  <http://recordingindustryvspeople.blogspot.com/2006/09/lime-wire-sues-riaa-for-antitrust.html> and <http://recordingindustryvspeople.blogspot.com/2006/11/limewire-files-amended-counterclaims.html>
-
 10. [BBC News: Warning on search engine safety](http://news.bbc.co.uk/1/hi/technology/4765199.stm)
-
 11.

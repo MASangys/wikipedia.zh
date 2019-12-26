@@ -32,10 +32,7 @@
 [Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
 
 1.  GameSpot (2004). [Warhammer Online Killed in Action](http://www.gamespot.com/pc/rpg/whonline/news.html?sid=6100992). [GameSpot](../Page/GameSpot.md "wikilink"). Retrieved on 2007-02-01.
-
 2.  Mythic Entertainment (2007). [Mythic Entertainment Video Podcasts](http://www.warhammeronline.com/english/media/podcast/) . [Mythic Entertainment](../Page/Mythic_Entertainment.md "wikilink").
-
 3.
 4.  MMORPG.com (2008). [Interview with Mark Jacobs](http://www.mmorpg.com/gamelist.cfm/game/239/feature/2041). Retrieved on 2008-[07-11](https://zh.wikipedia.org/wiki/July_11 "wikilink").
-
 5.  [戰鎚OL中文官方网：矮人军团——守誓者](http://www.warhammer-online.com.cn/Careers-oathbearers.htm)

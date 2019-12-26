@@ -20,5 +20,4 @@
 [Category:2002年电影](https://zh.wikipedia.org/wiki/Category:2002年电影 "wikilink") [Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:2000年代特攝作品](https://zh.wikipedia.org/wiki/Category:2000年代特攝作品 "wikilink") [Category:美国电影作品](https://zh.wikipedia.org/wiki/Category:美国电影作品 "wikilink") [Category:星际旅行电影](https://zh.wikipedia.org/wiki/Category:星际旅行电影 "wikilink") [Category:派拉蒙影業電影](https://zh.wikipedia.org/wiki/Category:派拉蒙影業電影 "wikilink")
 
 1.
-
 2.

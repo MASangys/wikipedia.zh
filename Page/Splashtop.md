@@ -42,14 +42,9 @@ Splashtop提供[圖形使用者介面](https://zh.wikipedia.org/wiki/圖形使�
 [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink")
 
 1.  <http://www.phoronix.com/scan.php?page=article&item=870>
-
 2.
-
 3.  <http://www.phoronix.com/scan.php?page=article&item=869>
-
 4.
 5.  <http://www.geek.com/splashtops-instant-on-linux-desktop/>
-
 6.  <http://www.phoronix.net/image.php?id=870ℑ=devicevm_splashtop_4_lrg>
-
 7.  <http://www.splashtop.com/blog/?p=7>

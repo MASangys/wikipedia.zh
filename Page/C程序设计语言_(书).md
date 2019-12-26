@@ -20,8 +20,8 @@
 
 ## 中譯本
 
-  - C程序设计语言，[机械工业出版社](../Page/机械工业出版社.md "wikilink")，2004年。
-  - C 語言程式設計，[蔡文能譯](https://zh.wikipedia.org/wiki/蔡文能 "wikilink")，培生出版，2005年，ISBN 9861541713
+  - 《C程序设计语言》，[机械工业出版社](../Page/机械工业出版社.md "wikilink")，2004年。
+  - 《C 語言程式設計》，[蔡文能譯](https://zh.wikipedia.org/wiki/蔡文能 "wikilink")，培生出版，2005年，ISBN 9861541713
 
 ## 参考资料
 

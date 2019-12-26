@@ -517,6 +517,7 @@ vol6(43)</p></td>
 <th><p>主角</p></th>
 <th><p><a href="../Page/秋田書店.md" title="wikilink">秋田書店</a></p></th>
 <th><p><a href="../Page/玉皇朝.md" title="wikilink">玉皇朝</a></p></th>
+<th><p><a href="../Page/長鴻出版社.md" title="wikilink">長鴻出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -525,7 +526,8 @@ vol6(43)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 <td><p>ISBN</p></td>
-<td></td>
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EAN" title="wikilink">EAN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -533,6 +535,7 @@ vol6(43)</p></td>
 <td><p>雙魚座 雅柏菲卡</p></td>
 <td><p>2011年10月7日</p></td>
 <td><p>ISBN 978-4-253-21644-9</p></td>
+<td><p>2012年2月</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
@@ -540,6 +543,7 @@ vol6(43)</p></td>
 <td><p>天蠍座 卡路狄亞</p></td>
 <td><p>2011年12月8日</p></td>
 <td><p>ISBN 978-4-253-21645-6</p></td>
+<td><p>2012年3月</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
@@ -547,6 +551,7 @@ vol6(43)</p></td>
 <td><p>水瓶座 迪捷路</p></td>
 <td><p>2012年2月9日</p></td>
 <td><p>ISBN 978-4-253-21646-3</p></td>
+<td><p>2012年4月</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
@@ -554,6 +559,7 @@ vol6(43)</p></td>
 <td><p>巨蟹座 馬尼戈特</p></td>
 <td><p>2012年4月6日</p></td>
 <td><p>ISBN 978-4-253-21647-0</p></td>
+<td><p>2012年6月</p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
@@ -561,6 +567,7 @@ vol6(43)</p></td>
 <td><p>山羊座 艾爾熙德</p></td>
 <td><p>2012年7月6日</p></td>
 <td><p>ISBN 978-4-253-21648-7</p></td>
+<td><p>2012年9月</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
@@ -568,6 +575,7 @@ vol6(43)</p></td>
 <td><p>天秤座 童虎</p></td>
 <td><p>2012年12月7日</p></td>
 <td><p>ISBN 978-4-253-21680-7</p></td>
+<td><p>2013年2月</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
@@ -575,6 +583,7 @@ vol6(43)</p></td>
 <td><p>獅子座 雷古魯斯</p></td>
 <td><p>2013年4月8日</p></td>
 <td><p>ISBN 978-4-253-21681-4</p></td>
+<td><p>2013年7月</p></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
@@ -582,6 +591,7 @@ vol6(43)</p></td>
 <td><p>處女座 阿釋密達</p></td>
 <td><p>2013年8月8日</p></td>
 <td><p>ISBN 978-4-253-21682-1</p></td>
+<td><p>2013年11月</p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
@@ -590,6 +600,7 @@ vol6(43)</p></td>
 金牛座 提納奧</p></td>
 <td><p>2013年12月6日</p></td>
 <td><p>ISBN 978-4-253-21683-8</p></td>
+<td><p>2014年3月</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
@@ -597,6 +608,7 @@ vol6(43)</p></td>
 <td><p>射手座 希緒弗斯</p></td>
 <td><p>2014年6月20日</p></td>
 <td><p>ISBN 978-4-253-21684-5</p></td>
+<td><p>2014年7月</p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
@@ -604,6 +616,7 @@ vol6(43)</p></td>
 <td><p>雙子座 德弗特洛斯</p></td>
 <td><p>2014年10月20日</p></td>
 <td><p>ISBN 978-4-253-21685-2</p></td>
+<td><p>2014年12月</p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
@@ -611,6 +624,7 @@ vol6(43)</p></td>
 <td><p>雙子座 阿斯普洛斯</p></td>
 <td><p>2015年1月8日</p></td>
 <td><p>ISBN 978-4-253-21686-9</p></td>
+<td><p>2015年3月</p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
@@ -618,6 +632,7 @@ vol6(43)</p></td>
 <td><p>白羊座 史昂</p></td>
 <td><p>2015年6月8日</p></td>
 <td><p>ISBN 978-4-253-21687-6</p></td>
+<td><p>2015年7月</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
@@ -625,6 +640,7 @@ vol6(43)</p></td>
 <td><p>ISBN 978-4-253-21688-3</p></td>
 <td><p>2016年1月</p></td>
 <td><p>ISBN 978-988-8379-18-7</p></td>
+<td><p>2018年8月1日</p></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
@@ -633,6 +649,7 @@ vol6(43)</p></td>
 祭壇座 白禮</p></td>
 <td><p>2016年3月8日</p></td>
 <td><p>ISBN 978-4-253-21689-0</p></td>
+<td><p>2016年4月</p></td>
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
@@ -640,6 +657,7 @@ vol6(43)</p></td>
 <td><p>ISBN 978-4-253-21702-6</p></td>
 <td><p>2016年7月</p></td>
 <td><p>ISBN 978-988-8379-57-6</p></td>
+<td><p>2019年11月27日</p></td>
 </tr>
 </tbody>
 </table>

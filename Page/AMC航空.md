@@ -32,6 +32,5 @@ AMC航空提供由[阿斯旺](../Page/阿斯旺.md "wikilink")、[洪加達](../
 [Category:埃及航空公司](https://zh.wikipedia.org/wiki/Category:埃及航空公司 "wikilink") [Category:1992年成立的航空公司](https://zh.wikipedia.org/wiki/Category:1992年成立的航空公司 "wikilink")
 
 1.
-
 2.
 3.

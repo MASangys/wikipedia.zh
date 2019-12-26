@@ -28,7 +28,7 @@ http://www.somehost.com/Blogs.aspx?year=2006\&month=12
 ### [Microsoft Internet Information Server](https://zh.wikipedia.org/wiki/IIS "wikilink") (IIS)
 
   - URL Rewrite Module for IIS 7.0，由微軟官方發展
-  - [IIS Mod-Rewrite](http://www.micronovae.com/ModRewrite/ModRewrite.html)。
+  - [IIS Mod-Rewrite](https://web.archive.org/web/20080314161600/http://www.micronovae.com/ModRewrite/ModRewrite.html)。
   - [IISRewrite](https://web.archive.org/web/20081009023202/http://qwerksoft.com/products/iisrewrite/)。
   - [ISAPI_Rewrite](http://www.helicontech.com/)。
   - [URL Replacer](http://www.motobit.com/help/url-replacer-rewriter/iis-mod-rewrite.asp)。

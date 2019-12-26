@@ -91,11 +91,8 @@ KV2並無受到河水氾濫的損陷，而陵墓內牆身上的圖案亦保存�
 [Category:帝王谷](https://zh.wikipedia.org/wiki/Category:帝王谷 "wikilink") [Category:古埃及墓葬](https://zh.wikipedia.org/wiki/Category:古埃及墓葬 "wikilink")
 
 1.  Reeves, N & Wilkinson, R.H. (2008): The Complete Valley of the Kings, P.163, London: Thames and Hudson, 2008. ISBN 978-0-500-28403-2
-
 2.  [Ramesses IV, the Beginning the Empire's Collapse](http://www.touregypt.net/featurestories/ramessesiv.htm)
-
 3.  [Egypt The Tomb of Ramesses IV, Valley of the Kings, Egypt](http://www.touregypt.net/featurestories/ramesses4t.htm)
-
 4.
 5.
 6.

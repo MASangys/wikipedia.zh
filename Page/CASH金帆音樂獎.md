@@ -24,84 +24,84 @@
 <td><p><a href="../Page/CASH金帆音樂獎最佳女歌手演繹.md" title="wikilink">最佳女歌手演繹</a></p></td>
 </tr>
 <tr class="even">
-<td><p>歌曲</p></td>
-<td><p>歌手</p></td>
+<td><p>歌曲 | 歌手</p></td>
+<td><p>歌曲 | 歌手</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2001_CASH金帆音樂獎" title="wikilink">2001</a></p></td>
-<td><p>《有病呻吟》</p>
+<td><p>《有病呻吟》 <a href="https://zh.wikipedia.org/wiki/張學友" title="wikilink">張學友</a></p>
 <hr>
-<p>《K歌之王》</p></td>
+<p>《<a href="../Page/K歌之王.md" title="wikilink">K歌之王</a>》 <a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2002_CASH金帆音樂獎" title="wikilink">2002</a></p></td>
-<td><p>《開不了口》</p></td>
+<td><p>《開不了口》 <a href="../Page/周杰倫.md" title="wikilink">周杰倫</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2003_CASH金帆音樂獎" title="wikilink">2003</a></p></td>
-<td><p>《明年今日》</p></td>
+<td><p>《<a href="../Page/明年今日.md" title="wikilink">明年今日</a>》 <a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2004_CASH金帆音樂獎" title="wikilink">2004</a></p></td>
-<td><p>《寂寞的季節》</p></td>
+<td><p>《寂寞的季節》 <a href="../Page/陶喆.md" title="wikilink">陶喆</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2005_CASH金帆音樂獎" title="wikilink">2005</a></p></td>
-<td><p>《浮誇》</p></td>
+<td><p>《浮誇》 <a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2006_CASH金帆音樂獎" title="wikilink">2006</a></p></td>
-<td><p>《落花流水》</p>
+<td><p>《落花流水》 <a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a></p>
 <hr>
-<p>《花田錯》</p></td>
+<p>《花田錯》 <a href="../Page/王力宏.md" title="wikilink">王力宏</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2007_CASH金帆音樂獎" title="wikilink">2007</a></p></td>
-<td><p>《富士山下》</p></td>
+<td><p>《富士山下》 <a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2008_CASH金帆音樂獎" title="wikilink">2008</a></p></td>
-<td><p>《時代巨輪》</p></td>
+<td><p>《時代巨輪》 <a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2009_CASH金帆音樂獎" title="wikilink">2009</a></p></td>
-<td><p>《七百年後》</p></td>
+<td><p>《七百年後》 <a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2010_CASH金帆音樂獎" title="wikilink">2010</a></p></td>
-<td><p>《玩樂》</p></td>
+<td><p>《玩樂》 <a href="https://zh.wikipedia.org/wiki/方大同" title="wikilink">方大同</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2011_CASH金帆音樂獎" title="wikilink">2011</a></p></td>
-<td><p>《六月飛霜》</p></td>
+<td><p>《六月飛霜》 <a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2012_CASH金帆音樂獎" title="wikilink">2012</a></p></td>
-<td><p>《BB88》</p></td>
+<td><p>《BB88》 <a href="https://zh.wikipedia.org/wiki/方大同" title="wikilink">方大同</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2013_CASH金帆音樂獎" title="wikilink">2013</a></p></td>
-<td><p>《任我行》</p></td>
+<td><p>《任我行》 <a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2014_CASH金帆音樂獎" title="wikilink">2014</a></p></td>
-<td><p>《青春常駐》</p></td>
+<td><p>《青春常駐》 <a href="https://zh.wikipedia.org/wiki/張敬軒" title="wikilink">張敬軒</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2015_CASH金帆音樂獎.md" title="wikilink">2015</a></p></td>
-<td><p>《無條件》</p></td>
+<td><p>《無條件》 <a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2016_CASH金帆音樂獎.md" title="wikilink">2016</a></p></td>
-<td><p>《過客別墅》</p></td>
+<td><p>《過客別墅》 <a href="https://zh.wikipedia.org/wiki/張敬軒" title="wikilink">張敬軒</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2017_CASH金帆音樂獎.md" title="wikilink">2017</a></p></td>
-<td><p>《四季》</p></td>
+<td><p>《四季》 <a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2018_CASH金帆音樂獎.md" title="wikilink">2018</a></p></td>
-<td><p>《缺》</p></td>
+<td><p>《缺》 <a href="https://zh.wikipedia.org/wiki/張敬軒" title="wikilink">張敬軒</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -198,10 +198,10 @@
 
 ## 外部連結
 
-  - [CASH金帆音樂獎](http://www.cash.org.hk/tc/index.php?main=4&id=28&sub=13)
+  - [CASH金帆音樂獎](https://web.archive.org/web/20141104090153/http://www.cash.org.hk/tc/index.php?main=4&id=28&sub=13)
 
 ## 注釋
 
 [Category:CASH金帆音樂獎](https://zh.wikipedia.org/wiki/Category:CASH金帆音樂獎 "wikilink")
 
-1.  [官方目的](http://www.cash.org.hk/tc/index.php?main=4&id=28&sub=13)
+1.

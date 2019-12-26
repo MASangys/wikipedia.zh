@@ -177,20 +177,12 @@ Super Show现场演唱会专辑CD于2008年5月19日在韩国发行。DVD在2008
 [Category:2008年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2008年巡迴演唱會 "wikilink") [Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:Super_Junior巡迴演唱會](https://zh.wikipedia.org/wiki/Category:Super_Junior巡迴演唱會 "wikilink")
 
 1.   [슈퍼주니어 서울 시작으로 첫 아시아투어](http://www.newsen.com/news_view.php?news_uid=197307)
-
 2.
 3.   [슈주 데뷔 3년만에 첫 콘서트 예매 18분만에 매진\! 서버도 마비소동\!](http://www.newsen.com/news_view.php?uid=200801230836261002)
-
 4.   [Super Show 2차 티켓오픈 안내](http://kerio.cafe24.com/sj/view.php?id=superj&page=1&sn1=&divpage=7&sn=off&ss=on&sc=off&select_arrange=headnum&desc=asc&no=43124&PHPSESSID=0ec117262f09e555f203332316281854)
-
 5.   [슈퍼주니어, 첫 단독콘서트 1회 공연 추가](http://osen.stoo.com/news/view_02.php?code=220130&gisano=G0802050031)
-
 6.   [슈퍼주니어 첫 콘서트에 눈물바다 "콘서트는 감동이다"](http://www.newsen.com/news_view.php?news_uid=208343)
-
 7.
-
 8.
-
 9.
-
 10.

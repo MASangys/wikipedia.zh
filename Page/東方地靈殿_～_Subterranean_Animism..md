@@ -457,13 +457,9 @@ Extra中頭目。看見靈夢們來到守矢神社，於是就展開了對決。
 [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:核聚变题材作品](https://zh.wikipedia.org/wiki/Category:核聚变题材作品 "wikilink") [Category:地下空间背景作品](https://zh.wikipedia.org/wiki/Category:地下空间背景作品 "wikilink") [Category:死後世界背景作品](https://zh.wikipedia.org/wiki/Category:死後世界背景作品 "wikilink") [Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
 
 1.  [2007年10月16日](http://kourindou.exblog.jp/6632104/)　博麗幻想書譜
-
 2.  [2008年5月1日](http://kourindou.exblog.jp/7850454/)　博麗幻想書譜
-
 3.  资料出处为该游戏附带的（角色设定.txt）。
-
 4.
 5.
 6.  東方求聞口授 P.157
-
 7.  出现于空的核辐射警告右上叶中

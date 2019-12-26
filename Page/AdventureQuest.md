@@ -1,14 +1,4 @@
-《**AdventureQuest**》〔亦稱**Battleon**（取其網站名）及**AQ**（取其頭字母縮寫）〕是一個由[Artix Entertainment研製的線上單人](https://zh.wikipedia.org/wiki/:en:Artix_Entertainment "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。此遊戲由2002年開始對外開放。[向量圖形](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")、[Flash及](https://zh.wikipedia.org/wiki/Flash "wikilink")[動畫等技術均可以在遊戲中找到](https://zh.wikipedia.org/wiki/動畫 "wikilink")。\[1\]
-
-## 歷史
-
-**AdventureQuest**是[Artix Entertainment的第一個遊戲](https://zh.wikipedia.org/wiki/:en:Artix_Entertainment "wikilink")。這個遊戲越來越流行，[註冊人數不斷急升](https://zh.wikipedia.org/wiki/註冊 "wikilink")，並于[2004年7月](../Page/2004年7月.md "wikilink")註冊人數突破一百萬大關。亦在2005年7月用戶人數更突破五百萬。此驚人的增長使[Artix Entertainment加入一些需要付費才能玩的情節及](https://zh.wikipedia.org/wiki/:en:Artix_Entertainment "wikilink")**Z-Tokens**（一種在遊戲中的虛擬貨幣）。
-
-## 核心員工
-
-整個計劃主要由**Adam Bohn**帶領，而**AdventureQuest**的研發者為**Tony Deller**。**Zhoom**、**Minimal**、**Captain Rhubarb** 及 **Rolith** 負責維護及運作程式部份。**Courtney Nawara**為主要帶領顧客方面者及[Artix Entertainment的求助頁面](https://zh.wikipedia.org/wiki/:en:Artix_Entertainment "wikilink")， **Reens**則是論壇的管理員。
-
-<span style="color: grey;">注意：大部份員工並沒有將真正的名字透露出去，而是使用綽號公佈。</span>
+是一個由研製的線上單人[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。此遊戲由2002年開始對外開放。[向量圖形](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")、[Flash及](https://zh.wikipedia.org/wiki/Flash "wikilink")[動畫等技術均可以在遊戲中找到](https://zh.wikipedia.org/wiki/動畫 "wikilink")。\[1\]
 
 ## 遊戲設定
 
@@ -53,21 +43,18 @@
 
   - HP（Health Point）:
     中文為生命值，[生命值](../Page/生命值.md "wikilink")會被怪獸攻擊而減少。除了可以喝補**HP**藥水補充生命值，還可以使用某些較高級的[武器](../Page/武器.md "wikilink")可以令自己的[生命值](../Page/生命值.md "wikilink")增加。在遊戲中的顏色為[紅色](https://zh.wikipedia.org/wiki/紅色 "wikilink")。
-
-<!-- end list -->
-
   - MP（Mana Point）
     當玩家使用[魔法](../Page/魔法.md "wikilink")、特殊攻擊等較特別的攻擊時會使用到。除了可以喝補**MP**藥水補充**MP**，還可以使用某些較高級的[武器](../Page/武器.md "wikilink")可以令自己的**MP**增加。在遊戲中的[顏色為](https://zh.wikipedia.org/wiki/顏色 "wikilink")[藍色](../Page/藍色.md "wikilink")。
-
-<!-- end list -->
-
   - SP（Skill Point）
     當玩家想在中途離開戰鬥或喝補HP/MP藥水時會被花費**SP**。每一位[玩家](../Page/玩家.md "wikilink")一開始時會有50點**SP**，然後每進一級（Level）時會增加5點。每一回合會自動增加**SP**，增加的量隨等級而不同。如果一位玩家被怪物戰勝，玩家的**SP**便會重新算起。在遊戲中的顏色為[綠色](../Page/綠色.md "wikilink")。\[2\]
-
-<!-- end list -->
-
   - EXP（Experience Point）
     中文為經驗值，每玩家打贏了一隻怪物就會增加[經驗值](https://zh.wikipedia.org/wiki/經驗值 "wikilink")（跟[怪物](../Page/怪物.md "wikilink")的難度有關係）。在遊戲中的顏色為[黃色](https://zh.wikipedia.org/wiki/黃色 "wikilink")。當玩家擁有一定的經驗值時就會升級，這時[經驗值會被重新點算](https://zh.wikipedia.org/wiki/經驗值 "wikilink")。
+
+## 开发
+
+《AdventureQuest》是的第一個遊戲。這個遊戲越來越流行，[註冊人數不斷急升](https://zh.wikipedia.org/wiki/註冊 "wikilink")，並于[2004年7月](../Page/2004年7月.md "wikilink")註冊人數突破一百萬大關。亦在2005年7月用戶人數更突破五百萬。此驚人的增長使[Artix Entertainment加入一些需要付費才能玩的情節及Z](https://zh.wikipedia.org/wiki/:en:Artix_Entertainment "wikilink")-Tokens（一種在遊戲中的虛擬貨幣）。
+
+整個計劃主要由Adam Bohn帶領，而《AdventureQuest》的研發者為Tony Deller。Zhoom、Minimal、Captain Rhubarb 及 Rolith 負責維護及運作程式部份。Courtney Nawara為主要帶領顧客方面者及[Artix Entertainment的求助頁面](https://zh.wikipedia.org/wiki/:en:Artix_Entertainment "wikilink")，Reens則是論壇的管理員。
 
 ## 參考資料或註釋
 

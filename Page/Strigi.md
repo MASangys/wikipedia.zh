@@ -23,7 +23,7 @@ Strigi和[NEPOMUK](../Page/NEPOMUK.md "wikilink")正在共同努力，以幫助�
 
   - [Strigi home page](http://strigi.sourceforge.net/)
   - [Jos van den Oever's own Strigi page](http://www.vandenoever.info/software/strigi/)
-  - [How-to use Strigi, from Linux.com](http://www.linux.com/feature/126312/)
+  - [How-to use Strigi, from Linux.com](https://web.archive.org/web/20090304030646/http://linux.com/feature/126312)
   - [KDE dot article on Strigi in KDE 4](http://dot.kde.org/1176310483/)
   - [Comparison of desktop search software](https://web.archive.org/web/20090207021527/http://www.wikinfo.org/index.php/Comparison_of_desktop_search_software)
 
@@ -31,7 +31,5 @@ Strigi和[NEPOMUK](../Page/NEPOMUK.md "wikilink")正在共同努力，以幫助�
 
 1.
 2.  [Benchmark between Beagle, JIndex, Tracker and Strigi](http://kdedevelopers.org/node/2639)  01-17-2007
-
-3.  <http://www.linux.com/feature/126312>
-
-4.  [Linux.com :: KDE 4's Sonnet will turbocharge language processing](http://www.linux.com/articles/59963)
+3.
+4.

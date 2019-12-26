@@ -219,7 +219,7 @@
 | Q      | [我的野蠻奶奶](../Page/我的野蠻奶奶.md "wikilink")                  | [黃宗澤](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink") | 甯茂春     |
 | R      | [我的野蠻奶奶](../Page/我的野蠻奶奶.md "wikilink")                  | [胡杏兒](../Page/胡杏兒.md "wikilink")                    | 田　力     |
 | S      | [我的野蠻奶奶](../Page/我的野蠻奶奶.md "wikilink")                  | [汪明荃](../Page/汪明荃.md "wikilink")                    | 喜塔臘·鑠蘭  |
-| T      | [酒店風雲](../Page/酒店風雲.md "wikilink")                      | [郭可盈](../Page/郭可盈.md "wikilink")                    | 顧碧琦     |
+| T      | [酒店風雲](../Page/酒店風雲.md "wikilink")                      | [吳卓羲](../Page/吳卓羲.md "wikilink")                    | 王啟傑     |
 
 ## 相關
 

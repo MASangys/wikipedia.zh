@@ -211,21 +211,13 @@ ADULT VIDEO</p></td>
 [Category:東京事變的黑膠碟](https://zh.wikipedia.org/wiki/Category:東京事變的黑膠碟 "wikilink") [Category:東京事變的DVD](https://zh.wikipedia.org/wiki/Category:東京事變的DVD "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.
-
 11.

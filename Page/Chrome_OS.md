@@ -62,47 +62,26 @@ Google鼓勵開發人員不僅為Chrome OS構建傳統的Web應用程序，還�
 [Category:2011年软件](https://zh.wikipedia.org/wiki/Category:2011年软件 "wikilink") [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink") [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink") [Category:Chrome_OS](https://zh.wikipedia.org/wiki/Category:Chrome_OS "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10. [新浪全球新聞：《eWeek：微軟應當擔心Chrome OS十大理由》](http://dailynews.sina.com/bg/news/usa/ussiliconvalley/sinacn/20091119/0739886444.html)
-
 11. [ZDNet首页评论：《Chrome OS！Google拥有了接入互联网的入口》](http://blog.zdnet.com.cn/html/51/246051-2877985.html)
-
 12.
 13.
-
 14.
-
 15.
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22. [進一步整合？Android App及Play Store可執行在Chrome OS上](http://www.ithome.com.tw/news/106053)
-
 23. [Google高層：Android不會與Chrome OS合併，而Pixel是為了打擊iPhone - TechNews 科技新報](https://ccc.technews.tw/2016/12/14/android-issues/)
-
 24. [Zheng, Tim (23 January 2018). "Add Crostini experiment to field trial testing"](https://chromium-review.googlesource.com/c/chromium/src/+/879173)

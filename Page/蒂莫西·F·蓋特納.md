@@ -33,9 +33,9 @@
 
   - Stewart, James (September 14, 2009), ["Eight Days"](http://www.newyorker.com/reporting/2009/09/21/090921fa_fact_stewart), *[The New Yorker](https://zh.wikipedia.org/wiki/The_New_Yorker "wikilink")*, pp. 58–81, summary of occurrences in the eight days September 15–23, 2008, with interviews of Paulson, Bernanke, and Geithner
 
-  - ["Morning Breakfast"](http://fora.tv/2010/07/22/Monitor_Breakfast_US_Treasury_Secretary_Timothy_Geithner#Geithner_Praises_Warren_for_Consumer_Watchdog_Agency) discussion of the Obama administration's 2011 legislative priorities with David Cook of *[The Christian Science Monitor](https://zh.wikipedia.org/wiki/The_Christian_Science_Monitor "wikilink")*, July 2010
+  - ["Morning Breakfast"](https://web.archive.org/web/20120126050037/http://fora.tv/2010/07/22/Monitor_Breakfast_US_Treasury_Secretary_Timothy_Geithner#Geithner_Praises_Warren_for_Consumer_Watchdog_Agency) discussion of the Obama administration's 2011 legislative priorities with David Cook of *[The Christian Science Monitor](https://zh.wikipedia.org/wiki/The_Christian_Science_Monitor "wikilink")*, July 2010
 
-  - ["The State of the Economy""](http://fora.tv/2010/10/18/The_State_of_the_Economy_Timothy_Geithner) at [The Commonwealth Club](https://zh.wikipedia.org/wiki/The_Commonwealth_Club "wikilink"), October 2010
+  - ["The State of the Economy""](https://web.archive.org/web/20111222013910/http://fora.tv/2010/10/18/The_State_of_the_Economy_Timothy_Geithner) at [The Commonwealth Club](https://zh.wikipedia.org/wiki/The_Commonwealth_Club "wikilink"), October 2010
 
 [Category:美国财政部长](https://zh.wikipedia.org/wiki/Category:美国财政部长 "wikilink") [Category:巴拉克·歐巴馬內閣](https://zh.wikipedia.org/wiki/Category:巴拉克·歐巴馬內閣 "wikilink") [Category:美國經濟學家](https://zh.wikipedia.org/wiki/Category:美國經濟學家 "wikilink") [Category:達特茅斯學院校友](https://zh.wikipedia.org/wiki/Category:達特茅斯學院校友 "wikilink") [Category:約翰·霍普金斯大學校友](https://zh.wikipedia.org/wiki/Category:約翰·霍普金斯大學校友 "wikilink") [Category:德國裔美國人](https://zh.wikipedia.org/wiki/Category:德國裔美國人 "wikilink") [Category:紐約市人](https://zh.wikipedia.org/wiki/Category:紐約市人 "wikilink") [Category:北京大學校友](https://zh.wikipedia.org/wiki/Category:北京大學校友 "wikilink") [Category:北京師範大學校友](https://zh.wikipedia.org/wiki/Category:北京師範大學校友 "wikilink")
 

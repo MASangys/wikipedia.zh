@@ -391,22 +391,13 @@ TFMの番組の一部を放送。</p></td>
 [Category:日本媒體](https://zh.wikipedia.org/wiki/Category:日本媒體 "wikilink") [Category:電台網](https://zh.wikipedia.org/wiki/Category:電台網 "wikilink")
 
 1.  [i-dio チャンネル一覧](http://www.i-dio.jp/channels/)
-
 2.  かつてはTOKYO FM上空が悪天候の場合、当局からネットワーク回線が送出される場合があった（[衛星通信用](https://zh.wikipedia.org/wiki/衛星通信 "wikilink")[マイクロ波は雨に弱い](https://zh.wikipedia.org/wiki/マイクロ波 "wikilink")。）。
-
 3.  [radikoでは關東廣域圈扱い](https://zh.wikipedia.org/wiki/radiko "wikilink")
-
 4.  radikoでは中京広域圏扱い
-
 5.  旧法人（岐阜エフエム放送）にて開局
-
 6.  [2013年](../Page/2013年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")設立。[2014年](../Page/2014年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")をもって放送事業・免許人地位を旧法人から継承。
-
 7.  radikoでは近畿広域圏扱い
-
 8.
 9.  旧法人（現在の『株式会社 Kiss-FM KOBE(開局当時の[商号は兵庫エフエムラジオ放送株式会社](https://zh.wikipedia.org/wiki/商号 "wikilink"))』）にて開局
-
 10. [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[5月19日](../Page/5月19日.md "wikilink")設立。同年9月30日をもって放送事業・免許人地位を旧法人（現在の『株式会社 Kiss-FM KOBE』）から継承。[11月4日](../Page/11月4日.md "wikilink")にJFNに加盟。ただし、番組制作・配信・供給自体は旧法人時代から継続されていた。
-
 11. 開局日は社名変更・FM波への変更日。極東放送時代は[AM局でなおかつ](https://zh.wikipedia.org/wiki/AMラジオ "wikilink")[独立局だった](https://zh.wikipedia.org/wiki/独立ラジオ局 "wikilink")。なお、極東放送時代も当時のエフエム東京とネット関係を結び、一部番組を放送していた。

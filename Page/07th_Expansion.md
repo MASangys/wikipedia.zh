@@ -63,4 +63,4 @@
 
 [Category:07th_Expansion](https://zh.wikipedia.org/wiki/Category:07th_Expansion "wikilink") [Category:同人創作者](https://zh.wikipedia.org/wiki/Category:同人創作者 "wikilink")
 
-1.  [竜騎士07の日記 No.512(2009年10月22日)](http://07th-expansion.net/Cgi/clip/clip.cgi)
+1.

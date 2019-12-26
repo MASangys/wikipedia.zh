@@ -30,21 +30,14 @@ Version 2.0 提供[多人游戏](https://zh.wikipedia.org/wiki/多人游戏 "wik
 [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink") [Category:Java游戏](https://zh.wikipedia.org/wiki/Category:Java游戏 "wikilink") [Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink") [Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink")
 
 1.  [Official website](http://www.frozen-bubble.org/)
-
 2.
 3.
-
 4.
 5.
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.

@@ -55,7 +55,9 @@ STANAG彈匣採用的是“直—彎—直”型的設計，即中間有一處�
   - [FN SCAR-L](../Page/FN_SCAR突擊步槍.md "wikilink")
   - [GatMalite](https://zh.wikipedia.org/wiki/GatMalite "wikilink")
   - [HK23](../Page/HK23輕機槍.md "wikilink")
+  - [HK G36](../Page/HK_G36突擊步槍.md "wikilink")（需改裝STANAG彈匣井）
   - [HK G41](../Page/HK_G41突擊步槍.md "wikilink")
+  - [HK433](../Page/HK433突擊步槍.md "wikilink")
   - [IMBEL MD2](../Page/IMBEL_MD突擊步槍.md "wikilink")
   - [IMBEL MD97](../Page/IMBEL_MD97突擊步槍.md "wikilink")
   - [IMBEL IA2](../Page/IMBEL_IA2突擊步槍.md "wikilink")

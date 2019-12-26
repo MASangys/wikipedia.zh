@@ -1,4 +1,4 @@
-[Lei_Feng_1.jpg](https://zh.wikipedia.org/wiki/File:Lei_Feng_1.jpg "fig:Lei_Feng_1.jpg") [Mémorial_uniforme_soviétique_WWII.JPG](https://zh.wikipedia.org/wiki/File:Mémorial_uniforme_soviétique_WWII.JPG "fig:Mémorial_uniforme_soviétique_WWII.JPG") [Berlin_Treptow_Ehrenmal_12.jpg](https://zh.wikipedia.org/wiki/File:Berlin_Treptow_Ehrenmal_12.jpg "fig:Berlin_Treptow_Ehrenmal_12.jpg")的無名戰士紀念碑。\]\] **PPSh-41**（／PPSh，，羅馬化：*Pistolet-Pulemyot Shpagina，*意為**什帕金1941型冲锋枪**），又称「**波波沙**」（）和「**飽嗝槍**」（）是一款由[苏联](../Page/苏联.md "wikilink")在[二战期間研製及生產的](../Page/第二次世界大战.md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")，發射[7.62×25毫米托卡列夫](../Page/7.62×25mm托卡列夫手槍彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+[Lei_Feng_1.jpg](https://zh.wikipedia.org/wiki/File:Lei_Feng_1.jpg "fig:Lei_Feng_1.jpg") [Mémorial_uniforme_soviétique_WWII.JPG](https://zh.wikipedia.org/wiki/File:Mémorial_uniforme_soviétique_WWII.JPG "fig:Mémorial_uniforme_soviétique_WWII.JPG") [Berlin_Treptow_Ehrenmal_12.jpg](https://zh.wikipedia.org/wiki/File:Berlin_Treptow_Ehrenmal_12.jpg "fig:Berlin_Treptow_Ehrenmal_12.jpg")的無名戰士紀念碑。\]\] **PPSh-41**（／PPSh，，羅馬化：*Pistolet-Pulemyot Shpagina，*意為**什帕金1941型冲锋枪**），又称「**波波沙**」（）和「**飽嗝槍**」（）是一款由[苏联](../Page/苏联.md "wikilink")在[二战期間研製及生產的](../Page/第二次世界大战.md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")，發射[7.62×25毫米托卡列夫](../Page/7.62×25mm托卡列夫手槍彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 它是苏联在二战期间生产数量最多的武器。设计该枪的目的是以一款较為廉价的近距离速射武器取代造价高昂工艺复杂的[PPD-40冲锋枪](../Page/PPD-40冲锋枪.md "wikilink")与[PPD-1938冲锋枪](../Page/PPD-40冲锋枪.md "wikilink")。PPSh是一枝使用[開放式槍栓](../Page/開放式槍栓.md "wikilink")（自由枪机）、[反沖作用操作的可選射自動武器](../Page/反沖作用_\(槍械\).md "wikilink")。
 
@@ -14,7 +14,7 @@
 
 截止到1941年11月，该武器的总产量仅有数百支，但在接下来的五个月内，这个数字攀升到了155,000支，而到了1942年春天，工厂一天就能生产出約3,000支PPSh-41。\[2\]战争期间，由于红军部队大量需求，苏军统帅部决定启用更多的非军工厂加入生產的行列，PPSh堪称适应大规模生产的设计典范（类似的还有戰時設計的[M3](../Page/M3衝鋒槍.md "wikilink")，[MP40和](../Page/MP40冲锋枪.md "wikilink")[斯登](../Page/斯登衝鋒槍.md "wikilink")）。在[二战結束以前](../Page/第二次世界大战.md "wikilink")，這些武器共生產了超過6,000,000支。甚至1942年曾提供图纸与制造工具授权伊朗生产，红军也得到过数万支伊朗制造的PPSh-41。
 
-在生产过程中除了枪管需要机床加工以外，其余大部分零件都是采用冲压工艺制造，其主要零件可在汽車修理厂或錫厂由不熟練的勞動力使用非常簡單的設備生產，使得更多熟练的技術工人可以投入其他更为精密的武器的生产。PPSh-41只是分為87件零件，而[PPD-40則是分為](../Page/PPD-40冲锋枪.md "wikilink")95件零件。生产一把PPSh-41仅需7.3个[工时](https://zh.wikipedia.org/wiki/工时 "wikilink")，而一把PPD-40則需要13.7个工时。\[3\]為了可以簡化生產，PPSh-41的[槍管](../Page/槍管.md "wikilink")更可以使用[M1891莫辛-納甘步槍](../Page/莫辛-納甘步槍.md "wikilink")7.62毫米[手動步槍的槍管生產](../Page/手動槍機.md "wikilink")，只要把莫辛-纳甘步槍槍管削为一半，並且進行适合裝填7.62毫米口径蘇聯衝鋒槍[子彈](../Page/子彈.md "wikilink")[膛室](../Page/膛室.md "wikilink")的加工後，就製成的兩枝PPSh的槍管。\[4\]
+在生产过程中除了枪管需要机床加工以外，其余大部分零件都是采用冲压工艺制造，其主要零件可在汽車修理厂或錫厂由不熟練的勞動力使用非常簡單的設備生產，使得更多熟练的技術工人可以投入其他更为精密的武器的生产。PPSh-41只分為87件零件，而[PPD-40則分為](../Page/PPD-40冲锋枪.md "wikilink")95件零件。生产一把PPSh-41仅需7.3个[工时](https://zh.wikipedia.org/wiki/工时 "wikilink")，而一把PPD-40則需要13.7个工时。\[3\]為了可以簡化生產，PPSh-41的[槍管](../Page/槍管.md "wikilink")更可以使用[M1891莫辛-納甘步槍](../Page/莫辛-納甘步槍.md "wikilink")7.62毫米[手動步槍的槍管生產](../Page/手動槍機.md "wikilink")，只要把莫辛-纳甘步槍槍管削为一半，並且進行适合裝填7.62毫米口径蘇聯衝鋒槍[子彈](../Page/子彈.md "wikilink")[膛室](../Page/膛室.md "wikilink")的加工後，就製成的兩枝PPSh的槍管。\[4\]
 
 PPSh-41在戰場上是一件耐用、需要較少維護的武器，這種武器能夠以700－900发／分钟的發射速率射擊。\[5\]PPSh-41亦具有一個較粗的[枪口制退器](../Page/砲口制動器.md "wikilink")，以減少。鉸鏈[機匣在戰場的環境下可以方便地进行](https://zh.wikipedia.org/wiki/機匣 "wikilink")[不完全分解和清潔其槍膛](https://zh.wikipedia.org/wiki/不完全分解 "wikilink")。
 
@@ -178,6 +178,7 @@ PPSh-41普遍的出現在描繪二次大戰[蘇德戰爭的作品](../Page/苏�
   - 2010年—《[-{zh-hans:战地：叛逆连队2; zh-hant:戰地風雲：惡名昭彰2;}-](../Page/战地：叛逆连队2.md "wikilink")》（Battlefield: Bad Company 2）：只於越戰資料片中登場，命名為“PPSh”，以彈鼓供彈然而只有25發，而且射速偏低。
   - 2014年—《》（Survarium）
   - 2014年—《合同戰爭》（Contract Wars）
+  - 2015年—《》（Squad）：命名為“PPSh-41”，以彈匣及彈鼓供彈，由叛軍突擊兵所使用。
   - 2016年—《[-{zh-hans:使命召唤：黑色行动; zh-hant:決勝時刻：黑色行動;}-III](../Page/決勝時刻：黑色行動.md "wikilink")》（Call of Duty: Black Ops III）： 以彈匣及彈鼓供彈，只於聯機模式和殭屍模式中登場。
   - 2016年—《[英雄與將軍](../Page/英雄與將軍.md "wikilink")》（Heroes & Generals）
   - 2016年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》
@@ -232,84 +233,51 @@ PPSh-41普遍的出現在描繪二次大戰[蘇德戰爭的作品](../Page/苏�
 [Category:冲锋枪](https://zh.wikipedia.org/wiki/Category:冲锋枪 "wikilink") [Category:反衝式槍械](https://zh.wikipedia.org/wiki/Category:反衝式槍械 "wikilink") [Category:二戰衝鋒槍](https://zh.wikipedia.org/wiki/Category:二戰衝鋒槍 "wikilink") [Category:二战步兵武器](https://zh.wikipedia.org/wiki/Category:二战步兵武器 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink") [Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink") [Category:7.62×25毫米托卡列夫手槍彈槍械](https://zh.wikipedia.org/wiki/Category:7.62×25毫米托卡列夫手槍彈槍械 "wikilink") [Category:捷格加廖夫工廠](https://zh.wikipedia.org/wiki/Category:捷格加廖夫工廠 "wikilink")
 
 1.
-
 2.  Rodric Braithwaite, *Moscow 1941: A City and its People at War*, London: Profile Books, 2006, p. 236.
-
 3.  [Kalashnikov, Part 2: Soviet Political Economy and the Design Evolution of the Kalashnikov Avtomat](http://www.cruffler.com/trivia-March01.html)
-
 4.  Pauly, Roger (2004). *[Firearms: the life story of a technology](http://books.google.se/books?id=izGOfMdSm2IC&pg=PA141)*, [Greenwood Publishing Group](https://zh.wikipedia.org/wiki/Greenwood_Publishing_Group "wikilink"), p. 141 ISBN 0-313-32796-3
-
 5.
-
 6.
 7.  Mosier, *The Blitzkrieg Myth*, p.86.
-
 8.  [9 mm Conversion of the PPSh-41](http://www.ppsh41.com/ppsh2.html)
-
 9.
-
 10.
-
 11.
 12.
 13.
-
 14. <http://military.wikia.com/wiki/PPSh-41>
-
 15. [The Firearm Blog—Tactical PPSh: One Old, One New](http://www.thefirearmblog.com/blog/2012/06/19/tactical-ppsh-one-old-one-new/)
-
 16.
-
 17. Mosier, *The Blitzkrieg Myth*, p.86.
-
 18.
-
 19. <http://news.sohu.com/2004/06/11/20/news220482067.shtml>
-
 20.
-
 21. Miller, David (2001). The Illustrated Directory of 20th Century Guns. Salamander Books Ltd. ISBN 1-84065-245-4.
-
 22. *The Bay of Pigs: Cuba 1961* by Alejandro Quesada, ISBN 978-1-84603-323-0, p. 62 url: [1](http://books.google.com/books?id=cchLfXrXpH4C&pg=PA62&lpg=PA62)
-
 23.
-
 24.
-
 25. <http://www.bild.bundesarchiv.de/archives/barchpic/search/_1264295403/?search%5Bform%5D%5BSIGNATUR%5D=Bild+116-168-618>
-
 26.
-
 27.
 28.
 29.
-
 30.
 31.
-
 32. US Department of Defense, North Korea Country Handbook 1997, Appendix A: Equipment Recognition, PPSH 1943 SUBMACHINEGUN (TYPE-50 CHINA/MODEL-49 DPRK), p. A-79.
-
 33.
 34.
-
 35.
 36.
 37.
 38.
-
 39.
-
 40.
 41.
 42.
-
 43.
 44.
 45.
-
 46.
 47.
-
 48.
-
 49.

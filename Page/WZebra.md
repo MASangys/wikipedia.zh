@@ -58,4 +58,4 @@ WZebra的歷史很大程度上就是Zebra的歷史，後者是WZebra下棋時使
 
   - [WZebra官方網頁](http://radagast.se/othello/)
 
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink")
+[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink") [Category:黑白棋](https://zh.wikipedia.org/wiki/Category:黑白棋 "wikilink")

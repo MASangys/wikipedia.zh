@@ -78,31 +78,18 @@ MusicXML像所有基于XML的格式一样，用于简单的由自动化工具[�
 [Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink") [Category:樂譜檔案格式](https://zh.wikipedia.org/wiki/Category:樂譜檔案格式 "wikilink") [Category:音乐标记语言](https://zh.wikipedia.org/wiki/Category:音乐标记语言 "wikilink") [Category:W3C标准](https://zh.wikipedia.org/wiki/Category:W3C标准 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
 11.
-
 12.
-
 13.  源码可从[Google Code](https://code.google.com/archive/p/score-library/source/default/commits)、[Github](https://github.com/navigator117/score-library)和[Bitbucket](https://bitbucket.org/navigator117/score-library)获取。
-
 14. Juan Pablo Bello, Elaine Chew, Douglas Turnbull (2008) *ISMIR 2008: Proceedings of the 9th International Conference* [p.365](https://books.google.com/books?id=OHp3sRnZD-oC&pg=PA365)
-
 15.
-
 16.

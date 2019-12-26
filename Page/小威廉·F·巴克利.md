@@ -72,30 +72,17 @@
 [Category:美國作家](https://zh.wikipedia.org/wiki/Category:美國作家 "wikilink") [Category:美國記者](https://zh.wikipedia.org/wiki/Category:美國記者 "wikilink") [Category:愛爾蘭裔美國人](https://zh.wikipedia.org/wiki/Category:愛爾蘭裔美國人 "wikilink") [Category:耶魯大學校友](https://zh.wikipedia.org/wiki/Category:耶魯大學校友 "wikilink") [Category:美國保守主義者](https://zh.wikipedia.org/wiki/Category:美國保守主義者 "wikilink") [Category:美國社會運動者](https://zh.wikipedia.org/wiki/Category:美國社會運動者 "wikilink") [Category:美國反共主義者](https://zh.wikipedia.org/wiki/Category:美國反共主義者 "wikilink") [Category:美國自由意志主義者](https://zh.wikipedia.org/wiki/Category:美國自由意志主義者 "wikilink") [Category:美國第二次世界大戰軍事人物](https://zh.wikipedia.org/wiki/Category:美國第二次世界大戰軍事人物 "wikilink") [Category:国家图书奖得主](https://zh.wikipedia.org/wiki/Category:国家图书奖得主 "wikilink") [Category:20世纪小说家](https://zh.wikipedia.org/wiki/Category:20世纪小说家 "wikilink") [Category:21世纪小说家](https://zh.wikipedia.org/wiki/Category:21世纪小说家 "wikilink") [Category:德國裔美國人](https://zh.wikipedia.org/wiki/Category:德國裔美國人 "wikilink") [Category:英國裔美國人](https://zh.wikipedia.org/wiki/Category:英國裔美國人 "wikilink") [Category:瑞士裔美國人](https://zh.wikipedia.org/wiki/Category:瑞士裔美國人 "wikilink") [Category:美國專欄作家](https://zh.wikipedia.org/wiki/Category:美國專欄作家 "wikilink") [Category:美國政治評論家](https://zh.wikipedia.org/wiki/Category:美國政治評論家 "wikilink") [Category:美国政治作家](https://zh.wikipedia.org/wiki/Category:美国政治作家 "wikilink") [Category:美國天主教徒](https://zh.wikipedia.org/wiki/Category:美國天主教徒 "wikilink") [Category:罗马天主教作家](https://zh.wikipedia.org/wiki/Category:罗马天主教作家 "wikilink") [Category:美國帆船運動員](https://zh.wikipedia.org/wiki/Category:美國帆船運動員 "wikilink") [Category:美国间谍](https://zh.wikipedia.org/wiki/Category:美国间谍 "wikilink") [Category:死于糖尿病的人](https://zh.wikipedia.org/wiki/Category:死于糖尿病的人 "wikilink") [Category:馬爾他騎士團人物](https://zh.wikipedia.org/wiki/Category:馬爾他騎士團人物 "wikilink") [Category:纽约市作家](https://zh.wikipedia.org/wiki/Category:纽约市作家 "wikilink") [Category:曼哈顿人](https://zh.wikipedia.org/wiki/Category:曼哈顿人 "wikilink") [Category:纽约州共和党人](https://zh.wikipedia.org/wiki/Category:纽约州共和党人 "wikilink") [Category:美国中央情报局人物](https://zh.wikipedia.org/wiki/Category:美国中央情报局人物 "wikilink") [Category:總統自由勳章獲得者](https://zh.wikipedia.org/wiki/Category:總統自由勳章獲得者 "wikilink") [Category:美國陸軍軍官](https://zh.wikipedia.org/wiki/Category:美國陸軍軍官 "wikilink") [Category:美国小说家](https://zh.wikipedia.org/wiki/Category:美国小说家 "wikilink") [Category:康乃狄克州人](https://zh.wikipedia.org/wiki/Category:康乃狄克州人 "wikilink") [Category:美国旅游作家](https://zh.wikipedia.org/wiki/Category:美国旅游作家 "wikilink") [Category:21世紀美國小說家](https://zh.wikipedia.org/wiki/Category:21世紀美國小說家 "wikilink")
 
 1.  , 41
-
 2.
-
 3.  [Buckley Retires As Editor; National Review Founder Steps Down After 35 Years](http://www.encyclopedia.com/doc/1P2-1151505.html) June 10, 1990
-
 4.  [A Personal Retrospective](http://www.nationalreview.com/flashback/flashback200511170846.asp) November 17, 2005
-
 5.
-
 6.  Tanenhaus, Sam, [on William F. Buckley](http://papercuts.blogs.nytimes.com/2008/02/27/qa-with-sam-tanenhaus-on-william-f-buckley/), *Paper Cuts* blog at *The New York Times* website, February 27, 2008. Tanenhaus, an editor at the *Times*, was working on a biography of Buckley at the time.
-
 7.  For complete, searchable texts see [Buckley Online](http://cumulus.hillsdale.edu/buckley/Standard/index.html) .
-
 8.  *The Wall Street Journal* 28 February 2008, p. A16
-
 9.  [Buckley: Bush Not A True Conservative](http://www.cbsnews.com/stories/2006/07/22/eveningnews/main1826838.shtml) CBS News, July 22, 2006
-
 10. [Right at the end](http://www.amconmag.com/2008/2008_03_24/article1.html), The American Conservative, March 24, 2008
-
 11.
 12. [Tanglewood Jazz Festival, September 1-3, 2006 in Lenox, Massachusetts](http://www.allaboutjazz.com/php/news.php?id=10676)  Aug. 2, 2006
-
 13. [Once Again, Buckley Takes On Bach](http://www.nytimes.com/books/00/07/16/specials/buckley-bach.html). *[The New York Times](https://zh.wikipedia.org/wiki/The_New_York_Times "wikilink")*. Published October 25, 1992.
-
 14.
-
 15.

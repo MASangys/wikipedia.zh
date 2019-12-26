@@ -130,12 +130,9 @@ Tokyo incidents vol.1</p></td>
 [Category:東京事變的DVD](https://zh.wikipedia.org/wiki/Category:東京事變的DVD "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
 6.
-
 7.

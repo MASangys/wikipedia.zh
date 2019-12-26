@@ -65,53 +65,32 @@ GACKPOID延續了初音未來和鏡音鈴、連的熱潮，發售即日就有不
 [Category:Vocaloid2引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid2引擎产品 "wikilink") [Category:Vocaloid3引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid3引擎产品 "wikilink") [Category:Vocaloid4引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid4引擎产品 "wikilink") [Category:Vocaloid角色](https://zh.wikipedia.org/wiki/Category:Vocaloid角色 "wikilink") [Category:应用软件](https://zh.wikipedia.org/wiki/Category:应用软件 "wikilink") [Category:音樂軟件](https://zh.wikipedia.org/wiki/Category:音樂軟件 "wikilink") [Category:2008年面世的虛構角色](https://zh.wikipedia.org/wiki/Category:2008年面世的虛構角色 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  《DTM MAGAZINE》2008年1月號 P.29
-
 5.  《DTM MAGAZINE》1月號增刊THE VOCALOID CV01初音未來
-
 6.
 7.
-
 8.
 9.
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
 16.
 17.
-
 18.
 19.
-
 20.
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30. 《DTM MAGAZINE》2008年8月號 P.42

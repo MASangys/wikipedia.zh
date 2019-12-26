@@ -67,7 +67,7 @@
 ## 外部連結
 
   - [早安家族日本官方網站](https://web.archive.org/web/20081023223722/http://www.helloproject.com/artistlistindex.html)
-  - [早安家族台灣私設FC族譜](http://wiki.helloproject.tw/Wonderful+Hearts)
+  - [早安家族台灣私設FC族譜](https://web.archive.org/web/20081028193852/http://wiki.helloproject.tw/Wonderful+Hearts)
   - [Hatena Keyword](http://d.hatena.ne.jp/keyword/%A5%EF%A5%F3%A5%C0%A5%D5%A5%EB%A5%CF%A1%BC%A5%C4)
 
 [Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink")

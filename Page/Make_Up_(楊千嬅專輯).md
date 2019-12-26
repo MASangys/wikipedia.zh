@@ -27,4 +27,4 @@
 [Category:楊千嬅音樂專輯](https://zh.wikipedia.org/wiki/Category:楊千嬅音樂專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:香港流行音乐专辑](https://zh.wikipedia.org/wiki/Category:香港流行音乐专辑 "wikilink")
 
 1.
-2.  <http://www.mingpaoweekly.com/htm/1840/Ba01_3.htm>
+2.

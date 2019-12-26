@@ -49,6 +49,6 @@ MicroScript是一个图表式的高级[程序语言](https://zh.wikipedia.org/wi
 5.
 6.
 7.  [T-Engine, arguably the most advanced ubiquitous computing platform in the world](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=1427641)
-8.  <http://www.t-engine.org/forum-guide/t-engine-summary>
+8.
 9.  <http://www.t-engine.org/forum-guide/members-list>
 10. <http://www.linuxinsider.com/story/31855.html>

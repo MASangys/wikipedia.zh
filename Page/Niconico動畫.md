@@ -364,99 +364,56 @@ Niconico市場是一個獨特的廣告系統，是Niconico動畫日本版自2007
 
   -
   -
+  -
 [Category:2006年建立的网站](https://zh.wikipedia.org/wiki/Category:2006年建立的网站 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:niconico動畫](https://zh.wikipedia.org/wiki/Category:niconico動畫 "wikilink") [Category:多玩國](https://zh.wikipedia.org/wiki/Category:多玩國 "wikilink") [Category:日本網站](https://zh.wikipedia.org/wiki/Category:日本網站 "wikilink") [Category:视频弹幕网站](https://zh.wikipedia.org/wiki/Category:视频弹幕网站 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink") [Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
 
 1.  日文的是「影片」的意思，但因為這是商標，所以並沒有翻譯。台灣網站也使用“動畫”。
-
 2.  [niconico、プレミアム会員数が250万人を突破--総登録会員数は5000万人に](http://japan.cnet.com/news/service/35068480/)
-
 3.
-
 4.
-
 5.
-
-6.  [ニワンゴによる推測](http://it.nikkei.co.jp/internet/news/index.aspx?n=MMITba003026022007)
-
+6.
 7.  ※現在はインターネットアーカイブに残存
-
 8.
-
 9.  『アーキテクチャの生態系――情報環境はいかに設計されてきたか』213頁。
-
 10. [なぜ「ニコ動」は盛り上がり、「Second Life」は過疎化するのか (1/2) - ITmedia News](http://www.itmedia.co.jp/news/articles/0711/23/news005.html)
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17. [“総コメント数20億突破\!（運営長コメント付）”.](http://blog.nicovideo.jp/niconews/2009/07/003489.html) . ニコニコニュース (2009年7月8日).
-
 18. [“ニコニコ動画のプレミアム会員数が40万人を突破”](http://internetcom.jp/wmnews/20090727/5.html) . インターネットコム
-
 19. [“ニコニコ動画のプレミアム会員数が50万人を突破”](http://internetcom.jp/wmnews/20090924/4.html)  インターネットコム
-
 20. [“ニコニコ動画のプレミアム会員数が60万人を突破”](http://internetcom.jp/wmnews/20091214/3.html) . インターネットコム
-
 21. '[ニコニコ動画のプレミアム会員数が70万人を突破〜ニコニコ静画もリニューアル](http://internetcom.jp/wmnews/20100305/2.html) ' インターネットコム
-
 22. [プレミアム会員『100万人』突破しました！‐ニコニコニュース](http://blog.nicovideo.jp/niconews/2010/10/009463.html)
-
 23. [まもなく公開「ニコニコ動画：Zero」、川上・夏野氏が注目ポイント解説](http://internet.watch.impress.co.jp/docs/news/20120427_529632.html)
-
 24. [ニコニコの新バージョン「Zero」一般会員も利用可能に！](http://blog.nicovideo.jp/niconews/ni034030.html)
-
 25.
-
 26.
-
 27. [ニュースサイトの記事](http://nlab.itmedia.co.jp/nl/articles/1302/04/news125.html)
-
 28. [祝！プレミアム会員 200万人突破しました！](http://blog.nicovideo.jp/niconews/ni040047.html)
-
 29.
-
 30.
 31.
-
 32.
-
 33.
-
 34.
 35.
 36.
 37.
-
 38.
-
 39.
-
 40.
-
 41.
 42.
-
 43.
-
 44.  [【動画】サーバー・回線増強について](http://blog.nicovideo.jp/niconews/2011/08/015655.html)
-
 45.  [アイヤー！『ニコニコ動画』台湾人は台湾版より日本版が好き！](http://news.livedoor.com/article/detail/3351524/)
-
 46.  [台湾で『ニコニコ動画』がウケない\!?台湾人が語るその理由とは](http://news.livedoor.com/article/detail/3340448/)
-
 47. [中国、ニコニコ動画へのアクセスを遮断](http://www.excite.co.jp/News/net_clm/20101211/Slashdot_10_12_11_0342232.html)
-
 48. [niconico英文版452875894780293](https://www.facebook.com/niconicocom/posts/452875894780293)[niconico英文版452929091441640](https://www.facebook.com/niconicocom/posts/452929091441640)
-
 49. [Niconico入侵事件 - AcFun WIKI天下基友是一家,](https://web.archive.org/web/20140228182723/http://wiki.acfun.tv/index.php/Niconico%E5%85%A5%E4%BE%B5%E4%BA%8B%E4%BB%B6)
-
 50. [『ニコニコ動画』の類似サイト『ビリビリ動画』を中国に作ったアルよ！　本家以上のクオリティにひろゆきも絶賛](http://getnews.jp/archives/288656)

@@ -36,7 +36,7 @@ GA文库出版了相當多原創作品。創刊一年來，主力作品只有《
   - [BOY‧MEETS‧HEART \!](https://zh.wikipedia.org/wiki/BOY‧MEETS‧HEART_! "wikilink")（[鳥羽徹](https://zh.wikipedia.org/wiki/鳥羽徹 "wikilink")／[H2SO4](https://zh.wikipedia.org/wiki/H2SO4 "wikilink")）
   - [雙胞胎與青梅竹馬的四人命案](https://zh.wikipedia.org/wiki/雙胞胎與青梅竹馬的四人命案 "wikilink")（[森田陽一](https://zh.wikipedia.org/wiki/森田陽一 "wikilink")／[saitom](https://zh.wikipedia.org/wiki/saitom "wikilink")）
   - [也許是現在進行式的黑歷史](https://zh.wikipedia.org/wiki/也許是現在進行式的黑歷史 "wikilink")（[あわむら赤光](https://zh.wikipedia.org/wiki/あわむら赤光 "wikilink")／[refeia](https://zh.wikipedia.org/wiki/refeia "wikilink")）
-  - [落第騎士英雄譚](../Page/落第騎士英雄譚.md "wikilink")（[海空陸](../Page/海空陸.md "wikilink")／[WON](https://zh.wikipedia.org/wiki/WON "wikilink")）
+  - [落第騎士英雄譚](../Page/落第騎士英雄譚.md "wikilink")（[海空陸](../Page/海空陸.md "wikilink")／）
   - [日常生活中的異能戰鬥](../Page/日常生活中的異能戰鬥.md "wikilink")（[望公太](https://zh.wikipedia.org/wiki/望公太 "wikilink")／[029](https://zh.wikipedia.org/wiki/029 "wikilink")）
   - [那麼，來攻略異世界吧](https://zh.wikipedia.org/wiki/那麼，來攻略異世界吧 "wikilink")（[おかざき登](https://zh.wikipedia.org/wiki/おかざき登 "wikilink")／[Peco](https://zh.wikipedia.org/wiki/Peco "wikilink")）
 

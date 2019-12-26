@@ -10,7 +10,9 @@ RealNetworks于2018年4月发布的最新的RealVideo HD格式扩展名为`.rmhd
 
 ## 发展前景
 
-随着[网络带宽的提升和](../Page/带宽_\(计算机\).md "wikilink")[存储设备的发展](https://zh.wikipedia.org/wiki/存储设备 "wikilink")，RealVideo在网络传输上不再有体积优势，充裕的网络带宽和更廉价、空间更大的存储设备使人们开始追求更高的画质，因此目前RealVideo已经逐渐被[高级视频编码](https://zh.wikipedia.org/wiki/AVC "wikilink")、[VP9](../Page/VP9.md "wikilink")等新一代视频格式所取代，但最新的RealVideo HD格式将有希望与[高效率视频编码等新兴格式抗衡](https://zh.wikipedia.org/wiki/HEVC "wikilink")
+随着[网络带宽的提升和](../Page/带宽_\(计算机\).md "wikilink")[存储设备的发展](https://zh.wikipedia.org/wiki/存储设备 "wikilink")，RealVideo在网络传输上不再有体积优势，充裕的网络带宽和更廉价、空间更大的存储设备使人们开始追求更高的画质，因此目前RealVideo已经逐渐被[高级视频编码](https://zh.wikipedia.org/wiki/AVC "wikilink")、[VP9](../Page/VP9.md "wikilink")等新一代视频格式所取代。
+
+最新的RealVideo HD格式因其全新的编码算法与高效率压缩被期望着与[高效率视频编码等新兴格式抗衡](https://zh.wikipedia.org/wiki/HEVC "wikilink")，但其仍面临着编解码只能使用RealProducer（编码用）和RealPlayer（解码/播放用）的问题，应用范围十分狭窄，不易被大众所接受。
 
 ## 视频压缩格式与编解码器版本
 
@@ -65,7 +67,9 @@ RealVideo 9 EHQ</p></td>
 <td><p>RV40</p></td>
 <td><p>H.264[3]</p></td>
 <td><p>RealPlayer 10</p></td>
-<td><p>这是RV9的改进编码器，它完全向前支持RealPlayer 9，格式和解码器都没有改变，只对编码器进行了改进，因此它与RV9使用相同的四字符表示</p></td>
+<td><p>这是RV9的改进编码器，它完全向前支持RealPlayer 9</p>
+<p>格式和解码器都没有改变，只对编码器进行了改进</p>
+<p>因此它与RV9使用相同的四字符表示</p></td>
 </tr>
 <tr class="even">
 <td><p>RealVideo 11<br />
@@ -74,14 +78,18 @@ RealVideo HD</p></td>
 <td><p>RV60</p></td>
 <td><p>H.265[4]</p></td>
 <td><p>RealPlayer 16</p></td>
-<td><p>2018年4月，RV60编码器速度和压缩效率的测试结果在网上发布。 该测试将RealMedia HD与<a href="https://zh.wikipedia.org/wiki/HEVC" title="wikilink">高效率视频编码</a>，高级视频编码和VP9进行了比较。 结果显示RealMedia HD可以在更高的视觉质量下提供比高效率视频编码更高的压缩率。 此外，RealMedia HD在相似的复杂度设置下比高效率视频编码和VP9更快</p></td>
+<td><p>2018年4月，RV60编码器速度和压缩效率的测试结果在网上发布。</p>
+<p>该测试将RMHD与<a href="https://zh.wikipedia.org/wiki/HEVC" title="wikilink">高效率视频编码</a>，<a href="https://zh.wikipedia.org/wiki/AVC" title="wikilink">高级视频编码和</a><a href="../Page/VP9.md" title="wikilink">VP9</a>进行了比较。</p>
+<p>结果显示RMHD可以在更高的视觉质量下提供比高效率视频编码更高的压缩率。</p>
+<p>此外，RMHD在相似的复杂度设置下比高效率视频编码和VP9更快</p>
+<p>目前RMHD仅能使用RealProducer编码，也只能使用RealPlayer播放</p></td>
 </tr>
 </tbody>
 </table>
 
-最新版本的RealPlayer可以播放任何RealVideo文件，使用FFmpeg的程序也可以正常播放除RealVideo HD之外的RealVideo文件（截止FFmpeg 4.0.3）
+最新版本的RealPlayer可以播放任何RealVideo文件，使用FFmpeg的程序也可以正常播放除RealVideo HD之外的RealVideo文件（截止FFmpeg 4.2）
 
-其他程序可能不支持所有RealVideo格式，尤其是最新的RealVideo HD格式
+其他程序可能不支持所有RealVideo格式，而最新的RealVideo HD格式*不受任何程序支持*（除RealPlayer）
 
 ## 注释
 
@@ -95,7 +103,6 @@ RealVideo HD</p></td>
 [Category:视频编解码器](https://zh.wikipedia.org/wiki/Category:视频编解码器 "wikilink")
 
 1.  H.264和AVC都是[高级视频编码的格式名](https://zh.wikipedia.org/wiki/AVC "wikilink")
-
 2.
 3.
 4.  H.265是[高效率视频编码（HEVC）的格式名](https://zh.wikipedia.org/wiki/HEVC "wikilink")

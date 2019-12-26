@@ -684,24 +684,14 @@
 [Category:Code_Geass](https://zh.wikipedia.org/wiki/Category:Code_Geass "wikilink") [Category:动漫用语表](https://zh.wikipedia.org/wiki/Category:动漫用语表 "wikilink")
 
 1.  R2 TURN 14
-
 2.  小说第21回
-
 3.  注：在Code Geass的世界中，是沒有核能和核武器的，只有作為元素的鈾235存在。另外，Code Geass世界中，戰鬥機使用的也是電動力飛機引擎。
-
 4.  亚瑟王的姓氏
-
 5.  出处为R2 TURN 4罗洛的刺杀档案
-
 6.  小说版STAGE 2
-
 7.  动画TURN 01提及
-
 8.  <http://www.geass.jp/akito/keyword.html>
-
 9.  《亡国的AKITO》中E.U.军的操作系统语言是法语
-
 10.
 11. 《亡国的AKITO》第四集
-
 12. R2 TURN 9片頭介紹

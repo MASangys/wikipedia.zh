@@ -22,14 +22,9 @@
 [Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:多人線上音樂遊戲](https://zh.wikipedia.org/wiki/Category:多人線上音樂遊戲 "wikilink") [Category:久游网游戏](https://zh.wikipedia.org/wiki/Category:久游网游戏 "wikilink") [Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink")
 
 1.  [九城宣布签下"Audition2" 称对未来发展至关重要](http://www.the9.com/v2/news/070521.htm)
-
 2.  [久游反驳九城强调已注册劲舞团游戏商标](http://news.17173.com/content/2007-07-31/20070731160403651.shtml)
-
 3.
-
 4.  [两个“劲舞团2”都获版号并将同期上市](http://www.donews.com/Content/200903/7bc5e2a49e5a49d8ae402dee3588fb01.shtm)
-
 5.
 6.  [4月17日GT劲舞团2唯美开测 绚丽官网亮相](http://gameonline.yesky.com/371/8793871.shtml)
-
 7.  [《勁舞團MOOV》停止營運公告](http://aum.gameone.com/news_detail.php?id=7948)

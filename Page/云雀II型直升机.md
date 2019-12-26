@@ -114,4 +114,4 @@
   - 最高升限：2250米
   - 爬升率：4.2米/秒
 
-[Category:直升机](https://zh.wikipedia.org/wiki/Category:直升机 "wikilink")
+[Category:法國直升機](https://zh.wikipedia.org/wiki/Category:法國直升機 "wikilink")

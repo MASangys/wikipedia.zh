@@ -484,10 +484,21 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>1800</p></td>
+<td><p>Snapdragon 8cx</p></td>
 </tr>
 <tr class="odd">
+<td><p>Adreno 685</p></td>
+<td><p>?</p></td>
+<td><p>?</p></td>
+<td><p>7</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>2100</p></td>
+<td><p>Microsoft SQ1</p></td>
+</tr>
+<tr class="even">
 <td><p>名称</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/微架构" title="wikilink">微架构</a></p></td>
 <td><p>制程 (<a href="../Page/纳米.md" title="wikilink">nm</a>)</p></td>
@@ -498,7 +509,7 @@
 <td><p>高通芯片中的应用</p></td>
 <td><p>引用</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>架构类型</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/算术逻辑单元" title="wikilink">ALU</a></p></td>
 <td><p>百万三角形/s</p></td>
@@ -573,42 +584,24 @@ Imageon 被设计为[SoC](../Page/系统芯片.md "wikilink")。它于2002年发
 [Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink") [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:圖形處理器](https://zh.wikipedia.org/wiki/Category:圖形處理器 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  [*Snapdragon 400* processor specs](http://www.qualcomm.com/products/snapdragon/processors/400) at **qualcomm.com**
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
-
 14.
 15.
-
 16.
-
 17.
-
 18.
 19.
-
 20.
-
 21.
-
 22.

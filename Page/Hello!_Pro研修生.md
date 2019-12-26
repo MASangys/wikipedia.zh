@@ -149,7 +149,7 @@
 <td></td>
 <td><p>広本瑠璃</p></td>
 <td><p>ひろもと るり</p></td>
-<td><p>広島県</p></td>
+<td><p>広島縣</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -173,7 +173,7 @@
 <tr class="even">
 <td><p>西﨑美空</p></td>
 <td><p>にしざき みく</p></td>
-<td><p>岡山県</p></td>
+<td><p>岡山縣</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -186,7 +186,7 @@
 <tr class="odd">
 <td><p>平山遊季</p></td>
 <td><p>ひらやま ゆき</p></td>
-<td><p>神奈川県</p></td>
+<td><p>神奈川縣</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -251,7 +251,7 @@
 <tr class="even">
 <td><p>村越彩菜</p></td>
 <td><p>むらこし あやな</p></td>
-<td><p>千葉県</p></td>
+<td><p>千葉縣</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -887,11 +887,8 @@
 專頁
 
   - [ハロプロ研修生オフィシャルファンクラブページ頁面](http://www.up-fc.jp/helloproject/member/egg/)
-
   - [ハロプロ研修生 Official YouTube Channel](https://www.youtube.com/helloprokenshusei)
-
   - [ハロプロ研修生官方頁面](http://www.helloproject.com/helloprokenshusei/)
-
   -
   - [ハロプロ研修生北海道官方頁面](http://www.helloproject.com/helloprokenshuseihokkaido/)
 

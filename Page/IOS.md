@@ -185,11 +185,11 @@ iOS系統的Root用户對除了蘋果公司特定私有進程之外的其他進�
 
 ## 解鎖
 
-最初，美國大多數的無線運營商都不允許iPhone用戶將其解鎖，然而，運營商AT＆T為符合其合同要求的iPhone用家裝置進行解鎖\[167\]。蘋果公司提供其解鎖裝置的說明\[168\]，但最終由運營商自行決定授權裝置進行解鎖\[169\]。這個操作讓使用的載體來源的iPhone在其他網絡上使用。現代版本的iOS和iPhone，不管手機最初是從哪裡購買，也能完全支援橫跨多個運營商的LTE\[170\]。現在有一些程序可以刪除SIM鎖定限制，然而都不獲蘋果公司的支援，並且通常都不是永久解鎖 — 只是軟解鎖\[171\]。
+最初，美國大多數的無線網路服務供應商都不允許iPhone用戶將其解鎖，然而，供應商AT＆T為符合其合約要求的iPhone用家裝置進行解鎖\[167\]。蘋果公司提供其解鎖裝置的說明\[168\]，但最終由無線網路服務供應商自行決定授權裝置進行解鎖\[169\]。這個操作讓使用的載體來源的iPhone在其他網路上使用。現代版本的iOS和iPhone，不管手機最初是從哪裡購買，也能完全支援橫跨多個供應商的LTE\[170\]。現在有一些程序可以刪除SIM鎖定限制，然而都不獲蘋果公司的支援，並且通常都不是永久解鎖 — 只是軟解鎖\[171\]。
 
 ## 數碼版權管理
 
-iOS的封閉性和專有性質引起了不少批評，特別是[數碼權利的倡導者](https://zh.wikipedia.org/wiki/数字权利 "wikilink")，例如是[電子前哨基金會](https://zh.wikipedia.org/wiki/電子前哨基金會 "wikilink")、電腦工程師和維權人士[布魯斯特·卡利](../Page/布魯斯特·卡利.md "wikilink")、互聯網法律專家[喬納森·齊特林](https://zh.wikipedia.org/wiki/喬納森·齊特林 "wikilink")、和舉辦抗議iPad介紹活動以及針對iPad的活動《[設計式缺陷](https://zh.wikipedia.org/wiki/設計式缺陷 "wikilink")》之[自由軟件基金會](https://zh.wikipedia.org/wiki/自由軟件基金會 "wikilink")\[172\]\[173\]\[174\]\[175\]。蘋果公司的競爭對手[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")，透過！其公關發言人批評蘋果公司對其平台所作的控制\[176\]。
+iOS的封閉性和專有性質引起了不少批評，特別是[數碼權利的倡導者](https://zh.wikipedia.org/wiki/数字权利 "wikilink")，例如是[電子前哨基金會](https://zh.wikipedia.org/wiki/電子前哨基金會 "wikilink")、電腦工程師和維權人士[布魯斯特·卡利](../Page/布魯斯特·卡利.md "wikilink")、互聯網法律專家[喬納森·齊特林](https://zh.wikipedia.org/wiki/喬納森·齊特林 "wikilink")、和舉辦抗議iPad介紹活動以及針對iPad的活動《[設計式缺陷](https://zh.wikipedia.org/wiki/設計式缺陷 "wikilink")》之[自由軟件基金會](https://zh.wikipedia.org/wiki/自由軟件基金會 "wikilink")\[172\]\[173\]\[174\]\[175\]。蘋果公司的競爭對手[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")，透過其公關發言人批評蘋果公司對其平台所作的控制\[176\]。
 
 問題是iOS的設計所施加的限制，即[數碼權利管理](../Page/数字版权管理.md "wikilink")（DRM）旨在蘋果公司的平台上鎖定已購買的媒體，其發展模式（需要每年訂閱以分發為iOS開發的應用程式），應用程式的集中審批流程，以及蘋果公司對其平台的一般控制和平台本身的鎖定。特別值得一提的是，蘋果公司有能力隨意透過遠程禁用或刪除應用程序。
 
@@ -217,9 +217,7 @@ iOS設備需要一個密碼用於為裝置解鎖、更改系統設定，以及�
 
 ### 触控 ID和面容 ID
 
-触控 ID是以嵌入方式置於主頁按鈕中的指紋掃描器，它可用於為裝置解鎖、進行購買的動作，及登錄其他應用程式等功能。使用時，Touch ID僅將指紋數據臨時存儲於Secure Enclave的加密內存中。裝置的主要處理器或系統的任何其他部分都不可能進入Touch ID傳感器取得原始指紋數據\[184\]。
-
-在iPhone X/XS/XS Plus/XR和新一代iPad Pro中，由于主页按钮被取消，触控 ID也被一并取消并换成了面容 ID。
+触控 ID是以嵌入方式置於主頁按鈕中的指紋掃描器，它可用於為裝置解鎖、進行購買的動作，及登錄其他應用程式等功能。使用時，Touch ID僅將指紋數據臨時存儲於Secure Enclave的加密內存中。裝置的主要處理器或系統的任何其他部分都不可能進入Touch ID傳感器取得原始指紋數據\[184\]。 在iPhone X及以后的iPhone，和iPad Pro（第三代）中，由于主页按钮被取消，触控 ID也被一并取消并换成了面容ID。
 
 ### 地址空間組態
 
@@ -259,7 +257,7 @@ iOS為開發人員提供了包含低階及高階API的[傳輸層安全性協定]
 6.  蘋果公司刻意在iOS系統對藍牙技術上做出限制，只能對iOS裝置間進行連接，其他裝置如Android手機，無法透過iPhone來連接進行傳輸。
 7.  许多用户表示苹果公司透過iOS版本更新的方式拖慢手机執行速度\[198\]，以加速用户换机意愿，使iPhone的销量提高，苹果官方承認為了防止電池老化擅自對系統進行降速\[199\]\[200\]。
 8.  在App Store中超過150MB的應用軟體無法透過行動網路進行下載，只能透過連上WiFi網路來下載。
-9.  蘋果公司為了在行動支付市場取得成功，在自家iPhone限制其NFC技術僅能提供[Apple Pay使用](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink")，將其功能封鎖，導致其他支付業者不能取得其權限，進而讓Apple Pay得到競爭優勢。
+9.  蘋果公司為了在行動支付市場取得成功，在iOS13之前，自家iPhone限制其NFC技術僅能提供[Apple Pay使用](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink")，將其功能封鎖，導致其他支付業者不能取得其權限，進而讓Apple Pay得到競爭優勢。
 
 ## 裝置列表
 
@@ -287,12 +285,16 @@ iOS為開發人員提供了包含低階及高階API的[傳輸層安全性協定]
     [iPhone XS](https://zh.wikipedia.org/wiki/iPhone_XS "wikilink")
     [iPhone XS Max](https://zh.wikipedia.org/wiki/iPhone_XS_Max "wikilink")
     [iPhone XR](https://zh.wikipedia.org/wiki/iPhone_XR "wikilink")
+    [iPhone 11](https://zh.wikipedia.org/wiki/iPhone_11 "wikilink")
+    [iPhone 11 Pro](https://zh.wikipedia.org/wiki/iPhone_11_Pro "wikilink")
+    [iPhone 11 Pro Max](https://zh.wikipedia.org/wiki/iPhone_11_Pro_Max "wikilink")
     [iPod touch (第1代)](https://zh.wikipedia.org/wiki/ipod_touch "wikilink")
     [iPod touch (第2代)](https://zh.wikipedia.org/wiki/iPod_touch#iPod_Touch第二代 "wikilink")
     [iPod touch (第3代)](https://zh.wikipedia.org/wiki/iPod_touch#iPod_Touch第三代 "wikilink")
     [iPod touch (第4代)](https://zh.wikipedia.org/wiki/iPod_touch#iPod_Touch第四代 "wikilink")
     [iPod touch (第5代)](https://zh.wikipedia.org/wiki/iPod_touch#iPod_Touch第五代 "wikilink")
     [iPod touch (第6代)](https://zh.wikipedia.org/wiki/iPod_touch#iPod_Touch第六代 "wikilink")
+    [iPod touch (第7代)](https://zh.wikipedia.org/wiki/iPod_touch#iPod_Touch第六代 "wikilink")
 
 <!-- end list -->
 
@@ -338,180 +340,94 @@ iOS為開發人員提供了包含低階及高階API的[傳輸層安全性協定]
 [Category:苹果公司](https://zh.wikipedia.org/wiki/Category:苹果公司 "wikilink") [Category:嵌入式操作系统](https://zh.wikipedia.org/wiki/Category:嵌入式操作系统 "wikilink") [Category:行动作业系统](https://zh.wikipedia.org/wiki/Category:行动作业系统 "wikilink") [Category:Mach](https://zh.wikipedia.org/wiki/Category:Mach "wikilink") [Category:2007年面世的产品](https://zh.wikipedia.org/wiki/Category:2007年面世的产品 "wikilink") [Category:苹果操作系统](https://zh.wikipedia.org/wiki/Category:苹果操作系统 "wikilink") [Category:蘋果公司軟體](https://zh.wikipedia.org/wiki/Category:蘋果公司軟體 "wikilink") [Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink")
 
 1.  [Mobile Operating System Market Share Worldwide](http://gs.statcounter.com/os-market-share/mobile/worldwide) . Statcounter. \[Aug, 2018\].
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44. {{ cite web | url=<http://www.macworld.co.uk/ipod-itunes/news/index.cfm?newsid=16927> | title=Macworld Expo: Optimised OS X sits on ' versatile' flash | first=Karen | last=Haslam | publisher=*[Macworld](../Page/Macworld.md "wikilink")* | date=2007-01-12 | accessdate=2007-10-15 | archive-url=<https://web.archive.org/web/20070113140529/http://www.macworld.co.uk/ipod-itunes/news/index.cfm?newsid=16927> | archive-date=2007-01-13 | dead-url=no }}
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54. Matthias Böhmer, Antonio Krüger. [A Study on Icon Arrangement by Smartphone Users](http://matthiasboehmer.de/2013/01/study-on-icon-arrangement/) . 在SIGCHI電腦系統的人為因素會議論文集（CHI '13）。 ACM, New York, NY, USA, 2137–2146.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.
-
 78.
-
 79.
-
 80.
-
 81.
-
 82.
-
 83.
-
 84.
-
 85.
 86.
-
 87.
-
 88.
-
 89.
-
 90.
 91.
 92.
@@ -521,194 +437,107 @@ iOS為開發人員提供了包含低階及高階API的[傳輸層安全性協定]
 96.
 97.
 98.
-
 99.
-
 100.
-
 101.
-
 102.
-
 103.
-
 104.
-
 105.
-
 106.
-
 107.
-
 108.
-
 109.
-
 110.
-
 111.
-
 112.
-
 113.
-
 114.
-
 115.
-
 116.
-
 117.
-
 118.
-
 119.
 120.
 121.
-
 122.
-
 123.
-
 124.
-
 125.
-
 126.
-
 127.
-
 128.
-
 129.
-
 130.
-
 131.
-
 132.
 133.
-
 134.
-
 135.
-
 136.
-
 137.
-
 138.
-
 139.
 140.
-
 141.
 142.
-
 143.
-
 144.
 145. [蘋果開發者計劃中的標準計劃和企業計劃](http://www.ioskaifa.com/blog/2012/09/)
-
 146.
-
 147.
-
 148.
-
 149.
-
 150.
-
 151.
-
 152.
-
 153.
-
 154.
-
 155.
-
 156.
-
 157.
-
 158.
-
 159.
-
 160.
-
 161.
-
 162.
-
 163.
-
 164.
-
 165.
-
 166.
-
 167.
-
 168.
-
 169.
-
 170.
-
 171.
-
 172.
-
 173.
-
 174.
-
 175.
-
 176.
-
 177.
-
 178.
-
 179.
-
 180. 在iOS 5至iOS 7內核崩潰後，可透過設定 \> 關於 \> 診斷及用量 \> 診斷及用量資訊 \>(時間及日期).panic.plist進行設定
      在iOS 8至iOS 10，當內存不足時，可透過設定 \> 私隱 \> 診斷及用量 \> 診斷及用量資訊 \> JetsamEvent-(日期及時間).ips進行設定
      在iOS 11至iOS 12，當內存不足時，可透過設定 \> 私隱 \> 分析 \> 分析資訊 \> JetsamEvent-(日期及時間).ips進行設定
-
 181.
-
 182.
 183.
 184.
 185.
-
 186.
 187.
 188.
-
 189.
 190.
-
 191.
 192.
 193.
 194.
-
 195.
-
 196.
-
 197.
-
 198.
-
 199. [Apple 如何进行其产品温室气体生命週期评估？](http://www.apple.com/tw/environment/answers/)
-
 200. [Apple 如何执行产品温室气体排放的生命周期评估？(LCA)](http://www.apple.com/cn/environment/answers/)

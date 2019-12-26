@@ -15,8 +15,6 @@
 [Category:人马座](https://zh.wikipedia.org/wiki/Category:人马座 "wikilink") [Category:黃矮星](https://zh.wikipedia.org/wiki/Category:黃矮星 "wikilink") [Category:太陽系外行星](https://zh.wikipedia.org/wiki/Category:太陽系外行星 "wikilink") [Category:行星凌變星](https://zh.wikipedia.org/wiki/Category:行星凌變星 "wikilink")
 
 1.
-
 2.
 3.
-
 4.

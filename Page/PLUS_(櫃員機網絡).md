@@ -13,7 +13,7 @@ PLUS 於[美國及](https://zh.wikipedia.org/wiki/美國 "wikilink")[加拿大](
 
   - [PLUS Fact Sheet](http://corporate.visa.com/md/fs/consumer/plus.jsp)
   - [Visa ATM locator](http://www.visa.com/atms)
-  - [Visa Plus Review](http://www.visaplus-atm.co.uk)
+  - [Visa Plus Review](https://web.archive.org/web/20181004161841/http://www.visaplus-atm.co.uk/)
 
 ## 参考资料
 

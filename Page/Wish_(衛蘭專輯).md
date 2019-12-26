@@ -463,7 +463,7 @@
 
 ## 軼事
 
-衛蘭首張新曲加精選的唱片封套的瑜珈動作成為焦點。2018年11月6日，[無線電視處境劇集](https://zh.wikipedia.org/wiki/無線電視 "wikilink")《[愛回家之開心速遞](https://zh.wikipedia.org/wiki/愛回家之開心速遞 "wikilink")》中，香港女演員[樊奕敏模仿衛蘭的瑜珈動作](https://zh.wikipedia.org/wiki/樊奕敏 "wikilink")。
+衛蘭首張新曲加精選的唱片封套的瑜珈動作成為焦點。2018年11月6日，[無線電視處境劇集](https://zh.wikipedia.org/wiki/無線電視 "wikilink")《[愛·回家之開心速遞](../Page/愛·回家之開心速遞.md "wikilink")》中，香港女演員[樊奕敏模仿衛蘭的瑜珈動作](https://zh.wikipedia.org/wiki/樊奕敏 "wikilink")。
 
 ## 参考
 

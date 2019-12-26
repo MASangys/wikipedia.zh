@@ -647,12 +647,8 @@
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink") [Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:2009年UHF動畫](https://zh.wikipedia.org/wiki/Category:2009年UHF動畫 "wikilink") [Category:讀賣電視台動畫](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫 "wikilink") [Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink")
 
 1.  名塚佳織的姐姐（網路電台節目第5回）
-
 2.  連載時為汽車整備科，在單行本第二集裡封面則記載為工業科汽車整備班，故以單行本為準。
-
 3.  出自第二卷裡封面。
-
 4.
 5.  電視未收錄，收錄在2010年4月2日發售的全1巻的OVA DVD內，而香港、台灣則以第十三集名義在電視上播放。
-
 6.  [台灣Animax臉書HD部分](https://www.facebook.com/AnimaxTW/photos/a.267985482120.147173.267961307120/10153597235137121/?type=3&theater)，2016/12/20閱覽

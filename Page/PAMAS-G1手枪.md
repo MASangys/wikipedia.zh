@@ -4,7 +4,7 @@
 
 1985年，法國軍隊尋求新的手槍以取代當時服役的[MAC Mle 1950](../Page/MAC_1950手槍.md "wikilink")。經過挑選後，[意大利](../Page/意大利.md "wikilink")[貝瑞塔92G於](../Page/貝瑞塔92手槍.md "wikilink")1987年勝出了其他手槍。不過當時法國政府希望這把手槍在可以由法國自行生產，並且要求將其92G型的保險裝置移除，以代替，其產品就定名為PAMAS-G1（又稱GIAT BM92-G1）。
 
-之後法國政府訂購了約27萬支的[SIG SP2022作為新的制式手槍](../Page/SIG_Pro手槍.md "wikilink")，於2008年交貨\[1\]，並決定同時仍然裝備[MAB PA-15及MAC](https://zh.wikipedia.org/wiki/MAB_PA-15 "wikilink") Mle 1950。
+之後法國政府訂購了約27萬支的[SIG SP2022作為新的制式手槍](https://zh.wikipedia.org/wiki/SIG_Pro半自動手槍 "wikilink")，於2008年交貨\[1\]，並決定同時仍然裝備[MAB PA-15及MAC](https://zh.wikipedia.org/wiki/MAB_PA-15 "wikilink") Mle 1950。
 
 ## 採用
 

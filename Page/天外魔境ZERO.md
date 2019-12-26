@@ -7,6 +7,5 @@
 [Category:1995年电子游戏](https://zh.wikipedia.org/wiki/Category:1995年电子游戏 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink") [Category:天外魔境系列](https://zh.wikipedia.org/wiki/Category:天外魔境系列 "wikilink")
 
 1.
-
 2.
 3.

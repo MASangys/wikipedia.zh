@@ -56,7 +56,7 @@
   - [翻譯新寵寶貝魚](https://web.archive.org/web/20070930180730/http://babelfish.yahoo.com.cn/)
   - [Lost in Translation (round-trip translation)](https://web.archive.org/web/20070701111927/http://www.tashian.com/multibabel/)
   - [Yahoo\!奇摩翻譯](https://web.archive.org/web/20090227012157/http://tw.babelfish.yahoo.com/)
-  - [Bad Translator](http://ackuna.com/badtranslator)
+  - [Bad Translator](https://web.archive.org/web/20131028143548/http://ackuna.com/badtranslator)
 
 [Category:機器翻譯](https://zh.wikipedia.org/wiki/Category:機器翻譯 "wikilink") [Category:2012年关闭的网站](https://zh.wikipedia.org/wiki/Category:2012年关闭的网站 "wikilink") [Category:1997年面世的產品](https://zh.wikipedia.org/wiki/Category:1997年面世的產品 "wikilink")
 

@@ -96,7 +96,7 @@ The original lawsuits in 2005:
 
   - [普林斯頓大學](https://zh.wikipedia.org/wiki/普林斯頓大學 "wikilink")，[Princeton University Library](https://zh.wikipedia.org/wiki/Princeton_University_Library "wikilink")，[Princeton + Google](http://www.princeton.edu/main/news/archive/S16/84/71S02/index.xml?section=topstories)
 
-  - [加利福尼亞大學](https://zh.wikipedia.org/wiki/加利福尼亞大學 "wikilink")，，[California + Google](https://web.archive.org/web/20060815010156/http://www.universityofcalifornia.edu/news/2006/aug09.html)
+  - [加利福尼亞大學](../Page/加利福尼亞大學.md "wikilink")，，[California + Google](https://web.archive.org/web/20060815010156/http://www.universityofcalifornia.edu/news/2006/aug09.html)
 
   - [洛桑大學](https://zh.wikipedia.org/wiki/洛桑大學 "wikilink")（）, ／[Bibliothèque Cantonale et Universitaire/BCU + Google (in French)](https://web.archive.org/web/20071214235636/http://www.unil.ch/bcu/page45509.html)
 
@@ -174,87 +174,50 @@ Google許可的公有領域作品也是一個令人關注的議題。\[40\]一�
 
   - [歐洲圖書館](http://www.theeuropeanlibrary.org/)
 
-  - [Dian Schaffhauser: Google圖書搜尋：The Good, the Bad, & the Ugly：《善、惡、醜》](http://www.campustechnology.com/articles/57064_1/)
+  - [Dian Schaffhauser: Google圖書搜尋：The Good, the Bad, & the Ugly：《善、惡、醜》](https://web.archive.org/web/20081024153901/http://www.campustechnology.com/articles/57064_1/)
 
 [Category:圖書資訊科學](https://zh.wikipedia.org/wiki/Category:圖書資訊科學 "wikilink") [Category:數字圖書館](https://zh.wikipedia.org/wiki/Category:數字圖書館 "wikilink") [Category:搜索](https://zh.wikipedia.org/wiki/Category:搜索 "wikilink") [Category:Google搜尋](https://zh.wikipedia.org/wiki/Category:Google搜尋 "wikilink") [Category:图书馆2.0](https://zh.wikipedia.org/wiki/Category:图书馆2.0 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12. O'Sullivan, Joseph and Adam Smith. ["All booked up,"](http://googleblog.blogspot.com/2004/12/all-booked-up.html) *Googleblog.* December 14, 2004.
-
 13.
-
 14. [UC libraries partner with Google to digitize books](http://www.universityofcalifornia.edu/news/2006/aug09.html)
-
 15. [The University of Virginia Library Joins the Google Books Library Project](http://www.google.com/press/annc/books_uva.html)
-
 16. [Bavarian State Library + Google digitizing project partnership announced](https://archive.is/20120715091914/http://news.com.com/2061-10802_3-6164875.html)
-
 17. [Reed, Brock. "La Bibliothèque, C'est Google" (*Wired Campus Newsletter*),](http://chronicle.com/wiredcampus/article/?id=2077) *[Chronicle of Higher Education](https://zh.wikipedia.org/wiki/Chronicle_of_Higher_Education "wikilink")*. May 17, 2007.
-
 18. [Ghent/Gent + Google digitizing project partnership announced](http://lib1.ugent.be/cmsites/default.aspx?ref=ABAF&lang=NL_BO)
-
 19. [CIC + Google digitizing project partnership announced](http://www.cic.uiuc.edu/programs/CenterForLibraryInitiatives/Archive/PressRelease/LibraryDigitization/index.shtml)
-
 20. [Keio + Google digitizing project partnership announced](http://booksearch.blogspot.com/2007/07/keio-university-joins-googles-library.html)
-
 21. [Cornell + Google digitizing project partnership announced](http://library.cornell.edu/communications/Google/)
-
 22. [Google's "personal library" feature announced](http://books.google.com/googlebooks/mylibrary/)
-
 23. [Columbia + Google digitizing project partnership announced](http://booksearch.blogspot.com/2007/12/columbia-university-joins-google-book.html)
-
 24.
-
 25.
 26.
-
 27.
-
 28.
 29. [Ars Technica](http://arstechnica.com/news.ars/post/20070522-google-to-scan-800000-manuscripts-books-from-indian-university.html)
-
 30. [Hindustani Times "Google to digitise 800,000 books at Mysore varsity"](http://www.hindustantimes.com/StoryPage/Print.aspx?Id=4e4d6d35-ef7f-4e42-808c-589ea4540202)
-
 31. [Google Library Partners](http://books.google.com/googlebooks/partners.html)
-
 32.
 33.
-
 34.
-
 35.
-
 36.
 37.
-
 38. Siva Vaidhyanathan,. -{“The Googlization of Everything and the Future of Copyright,”}- *University of California Davis Law Review* volume 40 (March 2007), pp. 1207–1231, [pdf](http://lawreview.law.ucdavis.edu/articles/Vol40/Issue3/DavisVol40No3_Vaidhyanathan.pdf)
-
 39. [First Monday](http://www.firstmonday.org/podcasts/transcripts/transcripts_siva07.html)  Transcript September 2007
-
 40.
-
 41. Robert B. Townsend, [Google Books: Is It Good for History?](http://www.historians.org/Perspectives/issues/2007/0709/0709vie1.cfm), *Perspectives* (September 2007).
-
 42.
-
 43. Barbara Quint : *[Changes at Google Scholar: A Conversation With Anurag Acharya](http://newsbreaks.infotoday.com/nbReader.asp?ArticleId=37309)* [Information Today](https://zh.wikipedia.org/wiki/Information_Today "wikilink"), August 27, 2007

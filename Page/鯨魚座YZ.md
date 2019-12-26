@@ -20,5 +20,4 @@
 
 1.
 2.  [Page of Tau Ceti](http://www.solstation.com/stars/tau-ceti.htm), see the chapter of *Closest Neighbors*, for YZ Ceti.
-
 3.  ["The HARPS search for southern extra-solar planets XLII. A system of Earth-mass planets around the nearby M dwarf YZ Cet".](https://arxiv.org/pdf/1708.03336.pdf) N. Astudillo-Defru1 , R. F. Díaz, X. Bonfils , J.M. Almenara, J.-B. Delisle, F. Bouchy, X. Delfosse, T. Forveille, C. Lovis, M. Mayor, F. Murgas, F. Pepe, N. C. Santos, D. Ségransan, S. Udry, A. Wünsche (August 10, 2017).

@@ -94,46 +94,29 @@
 [Category:1972年面世的汽車](https://zh.wikipedia.org/wiki/Category:1972年面世的汽車 "wikilink") [Category:BMW車輛](https://zh.wikipedia.org/wiki/Category:BMW車輛 "wikilink") [Category:行政轎車](https://zh.wikipedia.org/wiki/Category:行政轎車 "wikilink") [Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink") [Category:後輪驅動](https://zh.wikipedia.org/wiki/Category:後輪驅動 "wikilink")
 
 1.
-
 2.  <http://www.autointell.com/european_companies/BMW/business-figures/BMW-business-figures-1997-2006-WB.xls>
-
 3.
 4.
 5.
-
 6.
 7.
 8.
-
 9.
 10.
 11.
-
 12.
 13.
-
 14.
 15.
-
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24. <https://www.press.bmwgroup.com/netherlands/pressDetail.html?title=bmw-group-blijft-op-koers-in-2013&outputChannelId=32&id=T0171848NL&left_menu_item=node__804>
-
 25. <http://www.prnewswire.com/news-releases/bmw-group-us-reports-december-and-2013-sales-238625731.html>
-
 26. <http://www.prnewswire.com/news-releases/bmw-group-us-reports-december-and-2014-sales-300015792.html>
-
 27. <https://www.press.bmwgroup.com/usa/article/detail/T0249098EN_US/bmw-group-u-s-reports-december-and-2015-sales>

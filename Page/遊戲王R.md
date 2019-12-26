@@ -434,23 +434,14 @@
 [Category:遊戲王](https://zh.wikipedia.org/wiki/Category:遊戲王 "wikilink") [Category:V_Jump](https://zh.wikipedia.org/wiki/Category:V_Jump "wikilink") [Category:交換卡片遊戲題材作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材作品 "wikilink")
 
 1.  [Yu-Gi-Oh\! R (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=8309)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
-
 2.  漫畫單行本第一集 作者的話
-
 3.  漫畫單行本第二集 決鬥R11
-
 4.  漫畫單行本第二集 決鬥R16
-
 5.  漫畫單行本第一集 決鬥R3
-
 6.  漫畫單行本第一集 決鬥R4
-
 7.
 8.  漫畫單行本第一集 決鬥R7
-
 9.  漫畫單行本第二集 決鬥R12
-
 10.
 11. 漫畫單行本第二集 決鬥R14
-
 12. 在動畫版中，柏伽索斯·J·古諾福特被[貘良了奪去](https://zh.wikipedia.org/wiki/貘良了 "wikilink")[千年眼後仍然生存](https://zh.wikipedia.org/wiki/遊戲王#名詞解釋 "wikilink")。但在漫畫版中則是疑似死亡。

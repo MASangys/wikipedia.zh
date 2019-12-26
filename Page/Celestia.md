@@ -84,7 +84,7 @@ Celestia的地圖影像、星體資料等可在資料夾中找到，亦可任意
 ## 外部連結
 
   - [Celestia 中文维基百科](http://zh.celestia.wikia.com/wiki/)
-  - [Celestia 主站点](http://www.shatters.net/celestia/)
+  - [Celestia 主站点](https://web.archive.org/web/20131016222559/http://www.shatters.net/celestia/)
   - [豆瓣 Celestia 小组](http://www.douban.com/group/celestia/)
   - [Celestia 相册](http://www.douban.com/photos/album/46104763/)
   - [The Celestia Motherlode: Home](http://www.celestiamotherlode.net/) 收入附加元件

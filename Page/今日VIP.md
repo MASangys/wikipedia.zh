@@ -23,8 +23,8 @@
   - [陳永業](../Page/陳永業.md "wikilink")\[1\]
   - [梁嘉琪](../Page/梁嘉琪.md "wikilink")
   - [黎芷珊](../Page/黎芷珊.md "wikilink")
-  - [林溥來](../Page/林溥來.md "wikilink") 自2019年6月4日加入
-  - [崔建邦](../Page/崔建邦.md "wikilink") 自2019年7月24日加入
+  - [林溥來](../Page/林溥來.md "wikilink")
+  - [崔建邦](../Page/崔建邦.md "wikilink")
 
 前任：
 
@@ -197,7 +197,7 @@
 | 2009年7月20日 (\#121) | [曹　格](../Page/曹格.md "wikilink")                                                                                                                                                                           | 梁梓禧    |
 | 2009年7月21日 (\#122) | [周秀娜](../Page/周秀娜.md "wikilink")                                                                                                                                                                          | 吳家樂    |
 | 2009年7月22日 (\#123) | [陳敏之](../Page/陳敏之.md "wikilink")、[鄧健泓](../Page/鄧健泓.md "wikilink")、[張崇基](../Page/張崇基.md "wikilink")                                                                                                        | 陳永業    |
-| 2009年7月23日 (\#124) | [歐陽靖](../Page/歐陽靖_\(饒舌者\).md "wikilink")                                                                                                                                                                  | 梁梓禧    |
+| 2009年7月23日 (\#124) | [MC Jin](../Page/歐陽靖_\(饒舌者\).md "wikilink")                                                                                                                                                               | 梁梓禧    |
 | 2009年7月24日 (\#125) | [陳茵媺](../Page/陳茵媺.md "wikilink")、[黃宗澤](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")                                                                                                                      | 陳永業    |
 | 2009年7月27日 (\#126) | [鍾欣潼](../Page/鍾欣潼.md "wikilink")、[陳淑儀](https://zh.wikipedia.org/wiki/陳淑儀 "wikilink")                                                                                                                      | 梁梓禧    |
 | 2009年7月28日 (\#127) | [陳敏兒](../Page/陳敏兒.md "wikilink")                                                                                                                                                                          | 陳芷菁    |
@@ -693,9 +693,9 @@
 | 2011年1月11日 (\#7)  | [汪明荃](../Page/汪明荃.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                            | 陳芷菁    |
 | 2011年1月12日 (\#8)  | [徐子珊](../Page/徐子珊.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                            | 吳家樂    |
 | 2011年1月13日 (\#9)  | [鄧日昇](https://zh.wikipedia.org/wiki/鄧日昇 "wikilink")、[周佩波](https://zh.wikipedia.org/wiki/周佩波 "wikilink")、[梁欣欣](https://zh.wikipedia.org/wiki/梁欣欣 "wikilink")                                                                                                                                                                                                                                                 | 陳芷菁    |
-| 2011年1月14日 (\#10) | [單立文](../Page/單立文.md "wikilink")、[陳慧瑩](https://zh.wikipedia.org/wiki/陳慧瑩 "wikilink")、[劉致理](https://zh.wikipedia.org/wiki/劉致理 "wikilink")、[謝　穎](https://zh.wikipedia.org/wiki/謝穎 "wikilink")、[張詒博](https://zh.wikipedia.org/wiki/張詒博 "wikilink")、[曾怡婷](https://zh.wikipedia.org/wiki/曾怡婷 "wikilink")、[劉佩芯](https://zh.wikipedia.org/wiki/劉佩芯 "wikilink")、[胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink") | 梁奕倫    |
+| 2011年1月14日 (\#10) | [單立文](../Page/單立文.md "wikilink")、[陳慧瑩](https://zh.wikipedia.org/wiki/陳慧瑩 "wikilink")、[劉致理](https://zh.wikipedia.org/wiki/劉致理 "wikilink")、[謝　穎](https://zh.wikipedia.org/wiki/謝穎 "wikilink")、[張詒博](https://zh.wikipedia.org/wiki/張詒博 "wikilink")、[曾怡婷](https://zh.wikipedia.org/wiki/曾怡婷 "wikilink")、[劉佩芯](https://zh.wikipedia.org/wiki/劉佩芯 "wikilink")、[胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink") | 梁梓禧    |
 | 2011年1月17日 (\#11) | [廖安麗](../Page/廖安麗.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                            | 陳芷菁    |
-| 2011年1月18日 (\#12) | [Lollipop F](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")                                                                                                                                                                                                                                                                                                                                           | 梁奕倫    |
+| 2011年1月18日 (\#12) | [Lollipop F](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")                                                                                                                                                                                                                                                                                                                                           | 梁梓禧    |
 | 2011年1月19日 (\#13) | [廖碧兒](../Page/廖碧兒.md "wikilink")、[曹永廉](../Page/曹永廉.md "wikilink")                                                                                                                                                                                                                                                                                                                                           | 吳家樂    |
 | 2011年1月20日 (\#14) | [余志穩](../Page/余志穩.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                            | 陳芷菁    |
 | 2011年1月21日 (\#15) | [潘迪華](../Page/潘迪華.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                            | 陳永業    |
@@ -819,7 +819,7 @@
 |                    |                                                                                                                                                                           |        |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | **首播日期**           | **嘉賓**                                                                                                                                                                    | **主持** |
-| 2011年6月1日 (\#105)  | [查錫我](https://zh.wikipedia.org/wiki/查錫我 "wikilink")                                                                                                                       | 陳芷菁    |
+| 2011年6月1日 (\#105)  | [查錫我](../Page/查錫我.md "wikilink")                                                                                                                                          | 陳芷菁    |
 | 2011年6月2日 (\#106)  | [蘇民峰](../Page/蘇民峰.md "wikilink")                                                                                                                                          | 吳家樂    |
 | 2011年6月3日 (\#107)  | [施麗珊](https://zh.wikipedia.org/wiki/施麗珊 "wikilink")                                                                                                                       | 陳永業    |
 | 2011年6月6日 (\#108)  | [詹瑞文](../Page/詹瑞文.md "wikilink")、[王　晶](https://zh.wikipedia.org/wiki/王晶_\(導演\) "wikilink")                                                                                | 吳家樂    |
@@ -1276,29 +1276,29 @@
 
 #### 7月
 
-|                    |                                                                                                                                                                           |        |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| **首播日期**           | **嘉賓**                                                                                                                                                                    | **主持** |
-| 2012年7月3日 (\#128)  | [阮兆祥](../Page/阮兆祥.md "wikilink")、[李亞男](https://zh.wikipedia.org/wiki/李亞男 "wikilink")、[喬寶寶](../Page/喬寶寶.md "wikilink")                                                     | 吳家樂    |
-| 2012年7月4日 (\#129)  | [鄭伊健](../Page/鄭伊健.md "wikilink")                                                                                                                                          | 陳芷菁    |
-| 2012年7月5日 (\#130)  | [阮兆輝](../Page/阮兆輝.md "wikilink")                                                                                                                                          | 陳永業    |
-| 2012年7月6日 (\#131)  | [雪　妮](../Page/雪妮.md "wikilink")、[秦　煌](../Page/秦煌.md "wikilink")                                                                                                           | 吳家樂    |
-| 2012年7月9日 (\#132)  | [羅大佑](../Page/羅大佑.md "wikilink")                                                                                                                                          | 李浩林    |
-| 2012年7月10日 (\#133) | [陳法拉](../Page/陳法拉.md "wikilink")                                                                                                                                          | 吳家樂    |
-| 2012年7月11日 (\#134) | [邵音音](https://zh.wikipedia.org/wiki/邵音音 "wikilink")                                                                                                                       | 陳永業    |
-| 2012年7月12日 (\#135) | [曹　格](../Page/曹格.md "wikilink")                                                                                                                                           | 李浩林    |
-| 2012年7月13日 (\#136) | [林穎嫺](../Page/林穎嫺.md "wikilink")                                                                                                                                          | 吳家樂    |
-| 2012年7月17日 (\#137) | [王梓軒](../Page/王梓軒.md "wikilink")                                                                                                                                          | 陳芷菁    |
-| 2012年7月18日 (\#138) | [林　峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")                                                                                                                        | 陳芷菁    |
-| 2012年7月19日 (\#139) | [夏韶聲](../Page/夏韶聲.md "wikilink")、[林志美](../Page/林志美.md "wikilink")                                                                                                         | 陳永業    |
-| 2012年7月20日 (\#140) | [達明一派](../Page/達明一派.md "wikilink")                                                                                                                                        | 陳永業    |
-| 2012年7月23日 (\#141) | [王浩信](../Page/王浩信.md "wikilink")、[羅仲謙](../Page/羅仲謙.md "wikilink")、[梁烈唯](https://zh.wikipedia.org/wiki/梁烈唯 "wikilink")、[馬德鐘](https://zh.wikipedia.org/wiki/馬德鐘 "wikilink") | 吳家樂    |
-| 2012年7月24日 (\#142) | [萬綺雯](../Page/萬綺雯.md "wikilink")                                                                                                                                          | 吳家樂    |
-| 2012年7月25日 (\#143) | [馮蔚衡](https://zh.wikipedia.org/wiki/馮蔚衡 "wikilink")、[劉雅麗](../Page/劉雅麗.md "wikilink")、[蘇玉華](../Page/蘇玉華.md "wikilink")、[羅冠蘭](../Page/羅冠蘭.md "wikilink")                    | 吳家樂    |
-| 2012年7月26日 (\#144) | [梁舜燕](../Page/梁舜燕.md "wikilink")                                                                                                                                          | 陳永業    |
-| 2012年7月27日 (\#145) | [蔣志光](../Page/蔣志光.md "wikilink")                                                                                                                                          | 李浩林    |
-| 2012年7月30日 (\#146) | [鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[胡杏兒](../Page/胡杏兒.md "wikilink")                                                                                                         | 吳家樂    |
-| 2012年7月31日 (\#147) | [RubberBand](../Page/RubberBand.md "wikilink")                                                                                                                            | 李浩林    |
+|                    |                                                                                                                                                        |        |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
+| **首播日期**           | **嘉賓**                                                                                                                                                 | **主持** |
+| 2012年7月3日 (\#128)  | [阮兆祥](../Page/阮兆祥.md "wikilink")、[李亞男](https://zh.wikipedia.org/wiki/李亞男 "wikilink")、[喬寶寶](../Page/喬寶寶.md "wikilink")                                  | 吳家樂    |
+| 2012年7月4日 (\#129)  | [鄭伊健](../Page/鄭伊健.md "wikilink")                                                                                                                       | 陳芷菁    |
+| 2012年7月5日 (\#130)  | [阮兆輝](../Page/阮兆輝.md "wikilink")                                                                                                                       | 陳永業    |
+| 2012年7月6日 (\#131)  | [雪　妮](../Page/雪妮.md "wikilink")、[秦　煌](../Page/秦煌.md "wikilink")                                                                                        | 吳家樂    |
+| 2012年7月9日 (\#132)  | [羅大佑](../Page/羅大佑.md "wikilink")                                                                                                                       | 李浩林    |
+| 2012年7月10日 (\#133) | [陳法拉](../Page/陳法拉.md "wikilink")                                                                                                                       | 吳家樂    |
+| 2012年7月11日 (\#134) | [邵音音](https://zh.wikipedia.org/wiki/邵音音 "wikilink")                                                                                                    | 陳永業    |
+| 2012年7月12日 (\#135) | [曹　格](../Page/曹格.md "wikilink")                                                                                                                        | 李浩林    |
+| 2012年7月13日 (\#136) | [林穎嫺](../Page/林穎嫺.md "wikilink")                                                                                                                       | 吳家樂    |
+| 2012年7月17日 (\#137) | [王梓軒](../Page/王梓軒.md "wikilink")                                                                                                                       | 陳芷菁    |
+| 2012年7月18日 (\#138) | [林　峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")                                                                                                     | 陳芷菁    |
+| 2012年7月19日 (\#139) | [夏韶聲](../Page/夏韶聲.md "wikilink")、[林志美](../Page/林志美.md "wikilink")                                                                                      | 陳永業    |
+| 2012年7月20日 (\#140) | [達明一派](../Page/達明一派.md "wikilink")                                                                                                                     | 陳永業    |
+| 2012年7月23日 (\#141) | [王浩信](../Page/王浩信.md "wikilink")、[羅仲謙](../Page/羅仲謙.md "wikilink")、[梁競徽](../Page/梁競徽.md "wikilink")、[馬德鐘](https://zh.wikipedia.org/wiki/馬德鐘 "wikilink") | 吳家樂    |
+| 2012年7月24日 (\#142) | [萬綺雯](../Page/萬綺雯.md "wikilink")                                                                                                                       | 吳家樂    |
+| 2012年7月25日 (\#143) | [馮蔚衡](https://zh.wikipedia.org/wiki/馮蔚衡 "wikilink")、[劉雅麗](../Page/劉雅麗.md "wikilink")、[蘇玉華](../Page/蘇玉華.md "wikilink")、[羅冠蘭](../Page/羅冠蘭.md "wikilink") | 吳家樂    |
+| 2012年7月26日 (\#144) | [梁舜燕](../Page/梁舜燕.md "wikilink")                                                                                                                       | 陳永業    |
+| 2012年7月27日 (\#145) | [蔣志光](../Page/蔣志光.md "wikilink")                                                                                                                       | 李浩林    |
+| 2012年7月30日 (\#146) | [鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[胡杏兒](../Page/胡杏兒.md "wikilink")                                                                                      | 吳家樂    |
+| 2012年7月31日 (\#147) | [RubberBand](../Page/RubberBand.md "wikilink")                                                                                                         | 李浩林    |
 
 #### 8月
 
@@ -2211,7 +2211,7 @@
 | 2014年6月20日 (\#120) | [C AllStar](../Page/C_AllStar.md "wikilink")                                                            | 吳家樂    |
 | 2014年6月23日 (\#121) | [黃智賢](../Page/黃智賢_\(香港\).md "wikilink")、[梁靖琪](../Page/梁靖琪.md "wikilink")                                | 吳家樂    |
 | 2014年6月24日 (\#122) | [林奕華](../Page/林奕華_\(香港\).md "wikilink")                                                                 | 李浩林    |
-| 2014年6月25日 (\#123) | [天堂鳥](https://zh.wikipedia.org/wiki/天堂鳥_\(組合\) "wikilink")                                              | 陳永業    |
+| 2014年6月25日 (\#123) | [BOP](../Page/BOP_\(組合\).md "wikilink")                                                                 | 陳永業    |
 | 2014年6月26日 (\#124) | [陸浩明](../Page/陸浩明.md "wikilink")                                                                        | 陳永業    |
 | 2014年6月27日 (\#125) | [馬浚偉](../Page/馬浚偉.md "wikilink")                                                                        | 李浩林    |
 | 2014年6月30日 (\#126) | [黃宗澤](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")、[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink") | 李浩林    |
@@ -3079,7 +3079,7 @@
 | 2017年2月2日 (\#23)  | [焦　媛](../Page/焦媛.md "wikilink")、[何遠東](../Page/何遠東.md "wikilink")                                                                                                                                               | 吳家樂    |
 | 2017年2月3日 (\#24)  | [魏德聖](../Page/魏德聖.md "wikilink")、[小　玉](https://zh.wikipedia.org/wiki/小玉_\(藝人\) "wikilink")、[小　球](https://zh.wikipedia.org/wiki/小球 "wikilink")、[舒米恩](../Page/舒米恩.md "wikilink")、[米　非](../Page/米非.md "wikilink") | 陳芷菁    |
 | 2017年2月6日 (\#25)  | [鄧小巧](https://zh.wikipedia.org/wiki/鄧小巧 "wikilink")                                                                                                                                                            | 陳永業    |
-| 2017年2月7日 (\#26)  | [J.Arie](https://zh.wikipedia.org/wiki/雷琛瑜 "wikilink")                                                                                                                                                         | 李浩林    |
+| 2017年2月7日 (\#26)  | [J.Arie](../Page/雷深如.md "wikilink")                                                                                                                                                                            | 李浩林    |
 | 2017年2月8日 (\#27)  | [阿　茵](https://zh.wikipedia.org/wiki/阿茵 "wikilink")、[Jerry.C](https://zh.wikipedia.org/wiki/Jerry.C "wikilink")                                                                                                 | 陳芷菁    |
 | 2017年2月9日 (\#28)  | [Pen So](https://zh.wikipedia.org/wiki/Pen_So "wikilink")                                                                                                                                                      | 李浩林    |
 | 2017年2月10日 (\#29) | [黃德斌](../Page/黃德斌.md "wikilink")                                                                                                                                                                               | 陳芷菁    |
@@ -3144,7 +3144,7 @@
 | 2017年4月19日 (\#76) | [賈思樂](../Page/賈思樂.md "wikilink")                                                                                                                                                                                         | 黎芷珊    |
 | 2017年4月20日 (\#77) | [樊銘恩](https://zh.wikipedia.org/wiki/樊銘恩 "wikilink")                                                                                                                                                                      | 李浩林    |
 | 2017年4月21日 (\#78) | [黃建東](../Page/黃建東.md "wikilink")                                                                                                                                                                                         | 陳永業    |
-| 2017年4月24日 (\#79) | [RX黃浩邦](../Page/黃浩邦.md "wikilink")、[李雯希](../Page/李雯希.md "wikilink")、[Joe Kwok](https://zh.wikipedia.org/wiki/Joe_Kwok "wikilink")、[廖明飛](https://zh.wikipedia.org/wiki/廖明飛 "wikilink")                                    | 陳永業    |
+| 2017年4月24日 (\#79) | [黃浩邦](../Page/黃浩邦.md "wikilink")、[李雯希](../Page/李雯希.md "wikilink")、[Joe Kwok](https://zh.wikipedia.org/wiki/Joe_Kwok "wikilink")、[廖明飛](https://zh.wikipedia.org/wiki/廖明飛 "wikilink")                                      | 陳永業    |
 | 2017年4月25日 (\#80) | [吳家通](https://zh.wikipedia.org/wiki/吳家通 "wikilink")、[李浩翔](https://zh.wikipedia.org/wiki/李浩翔 "wikilink")                                                                                                                  | 吳家樂    |
 | 2017年4月26日 (\#81) | [梁雁翎](../Page/梁雁翎.md "wikilink")                                                                                                                                                                                         | 陳永業    |
 | 2017年4月27日 (\#82) | [Kiny Choi](https://zh.wikipedia.org/wiki/Kiny_Choi "wikilink")                                                                                                                                                          | 陳芷菁    |
@@ -3963,33 +3963,90 @@
 
 #### 10月
 
-|                     |                                                     |        |
-| ------------------- | --------------------------------------------------- | ------ |
-| **首播日期**            | **嘉賓**                                              | **主持** |
-| 2019年10月1日 (\#195)  | [黃仲遠](https://zh.wikipedia.org/wiki/黃仲遠 "wikilink") | 李浩林    |
-| 2019年10月2日 (\#196)  | [黃子雄](../Page/黃子雄.md "wikilink")                    |        |
-| 2019年10月3日 (\#197)  | [張彥博](../Page/張彥博.md "wikilink")                    |        |
-| 2019年10月4日 (\#198)  |                                                     |        |
-| 2019年10月7日 (\#199)  |                                                     |        |
-| 2019年10月8日 (\#200)  |                                                     |        |
-| 2019年10月9日 (\#201)  |                                                     |        |
-| 2019年10月10日 (\#202) |                                                     |        |
-| 2019年10月11日 (\#203) |                                                     |        |
-| 2019年10月14日 (\#204) |                                                     |        |
-| 2019年10月15日 (\#205) |                                                     |        |
-| 2019年10月16日 (\#206) |                                                     |        |
-| 2019年10月17日 (\#207) |                                                     |        |
-| 2019年10月18日 (\#208) |                                                     |        |
-| 2019年10月21日 (\#209) |                                                     |        |
-| 2019年10月22日 (\#210) |                                                     |        |
-| 2019年10月23日 (\#211) |                                                     |        |
-| 2019年10月24日 (\#212) |                                                     |        |
-| 2019年10月25日 (\#213) |                                                     |        |
-| 2019年10月28日 (\#214) |                                                     |        |
-| 2019年10月29日 (\#215) |                                                     |        |
-| 2019年10月30日 (\#216) |                                                     |        |
-| 2019年10月31日 (\#217) |                                                     |        |
-|                     |                                                     |        |
+|                     |                                                                                                                                        |        |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| **首播日期**            | **嘉賓**                                                                                                                                 | **主持** |
+| 2019年10月1日 (\#195)  | [黃仲遠](https://zh.wikipedia.org/wiki/黃仲遠 "wikilink")                                                                                    | 李浩林    |
+| 2019年10月2日 (\#196)  | [黃子雄](../Page/黃子雄.md "wikilink")                                                                                                       | 吳家樂    |
+| 2019年10月3日 (\#197)  | [張彥博](../Page/張彥博.md "wikilink")                                                                                                       | 崔建邦    |
+| 2019年10月4日 (\#198)  | [薛俊朗](https://zh.wikipedia.org/wiki/薛俊朗 "wikilink")                                                                                    | 林溥來    |
+| 2019年10月7日 (\#199)  | [蔣志光](../Page/蔣志光.md "wikilink")、[歐瑞偉](../Page/歐瑞偉.md "wikilink")、[曾偉權](../Page/曾偉權.md "wikilink")、[曾航生](../Page/曾航生.md "wikilink")（上） | 陳永業    |
+| 2019年10月8日 (\#200)  | [蔣志光](../Page/蔣志光.md "wikilink")、[歐瑞偉](../Page/歐瑞偉.md "wikilink")、[曾偉權](../Page/曾偉權.md "wikilink")、[曾航生](../Page/曾航生.md "wikilink")（下） | 陳永業    |
+| 2019年10月9日 (\#201)  | [BOP](../Page/BOP_\(組合\).md "wikilink")                                                                                                | 崔建邦    |
+| 2019年10月10日 (\#202) | [布偉傑](../Page/布偉傑.md "wikilink")、[陳琳欣](https://zh.wikipedia.org/wiki/陳琳欣 "wikilink")                                                   | 林溥來    |
+| 2019年10月11日 (\#203) | [黃慧音](https://zh.wikipedia.org/wiki/黃慧音 "wikilink")、[淨世金剛](https://zh.wikipedia.org/wiki/淨世金剛 "wikilink")                              | 李浩林    |
+| 2019年10月14日 (\#204) | [方力申](../Page/方力申.md "wikilink")                                                                                                       | 吳家樂    |
+| 2019年10月15日 (\#205) | [尹詩沛](../Page/尹詩沛.md "wikilink")                                                                                                       | 李浩林    |
+| 2019年10月16日 (\#206) | [孫慧雪](../Page/孫慧雪.md "wikilink")                                                                                                       | 崔建邦    |
+| 2019年10月17日 (\#207) | [利寶山](https://zh.wikipedia.org/wiki/利寶山 "wikilink")                                                                                    | 李浩林    |
+| 2019年10月18日 (\#208) | [鄧建明](../Page/鄧建明.md "wikilink")                                                                                                       | 崔建邦    |
+| 2019年10月21日 (\#209) | [王浩信](../Page/王浩信.md "wikilink")、[唐詩詠](https://zh.wikipedia.org/wiki/唐詩詠 "wikilink")                                                   | 李浩林    |
+| 2019年10月22日 (\#210) | [Krystal Diaz](https://zh.wikipedia.org/wiki/Krystal_Diaz "wikilink")                                                                  | 陳永業    |
+| 2019年10月23日 (\#211) | [王耀祖](../Page/王耀祖.md "wikilink")、[鄭君熾](../Page/鄭君熾_\(演員\).md "wikilink")                                                               | 李浩林    |
+| 2019年10月24日 (\#212) | [李綺雯](../Page/李綺雯.md "wikilink")                                                                                                       | 黎芷珊    |
+| 2019年10月25日 (\#213) | [溫子傑](https://zh.wikipedia.org/wiki/溫子傑 "wikilink")                                                                                    | 吳家樂    |
+| 2019年10月28日 (\#214) | [葉振棠](../Page/葉振棠.md "wikilink")、[李龍基](../Page/李龍基.md "wikilink")、[陳浩德](../Page/陳浩德.md "wikilink")                                     | 陳永業    |
+| 2019年10月29日 (\#215) | [莊棣華](../Page/莊棣華.md "wikilink")                                                                                                       | 林溥來    |
+| 2019年10月30日 (\#216) | [梁影雪](https://zh.wikipedia.org/wiki/梁影雪 "wikilink")                                                                                    | 吳家樂    |
+| 2019年10月31日 (\#217) | [張崇基](../Page/張崇基.md "wikilink")                                                                                                       | 崔建邦    |
+|                     |                                                                                                                                        |        |
+
+#### 11月
+
+|                     |                                                                                                                                                             |        |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| **首播日期**            | **嘉賓**                                                                                                                                                      | **主持** |
+| 2019年11月1日 (\#218)  | [區永權](../Page/區永權.md "wikilink")                                                                                                                            | 黎芷珊    |
+| 2019年11月4日 (\#219)  | [陳嘉瑩](https://zh.wikipedia.org/wiki/陳嘉瑩 "wikilink")                                                                                                         | 陳永業    |
+| 2019年11月5日 (\#220)  | [袁學謙](https://zh.wikipedia.org/wiki/袁學謙 "wikilink")                                                                                                         | 崔建邦    |
+| 2019年11月6日 (\#221)  | [黎志偉](https://zh.wikipedia.org/wiki/黎志偉 "wikilink")、[梁國斌](https://zh.wikipedia.org/wiki/梁國斌 "wikilink")                                                     | 吳家樂    |
+| 2019年11月7日 (\#222)  | [鄧文瀚](https://zh.wikipedia.org/wiki/鄧文瀚 "wikilink")                                                                                                         | 林溥來    |
+| 2019年11月8日 (\#223)  | [陳庭欣](https://zh.wikipedia.org/wiki/陳庭欣 "wikilink")                                                                                                         | 黎芷珊    |
+| 2019年11月11日 (\#224) | [王梓軒](../Page/王梓軒.md "wikilink")                                                                                                                            | 崔建邦    |
+| 2019年11月12日 (\#225) | [吳嘉善](https://zh.wikipedia.org/wiki/吳嘉善 "wikilink")、[鄧國輝](https://zh.wikipedia.org/wiki/鄧國輝 "wikilink")                                                     | 林溥來    |
+| 2019年11月13日 (\#226) | [Joey Ma](https://zh.wikipedia.org/wiki/Joey_Ma "wikilink")                                                                                                 | 李浩林    |
+| 2019年11月14日 (\#227) | [Jeffrey Andrews](https://zh.wikipedia.org/wiki/Jeffrey_Andrews "wikilink")                                                                                 | 吳家樂    |
+| 2019年11月15日 (\#228) | [黎燕珊](../Page/黎燕珊.md "wikilink")                                                                                                                            | 黎芷珊    |
+| 2019年11月18日 (\#229) | [曾海蘭](https://zh.wikipedia.org/wiki/曾海蘭 "wikilink")、[向柏榮](https://zh.wikipedia.org/wiki/向柏榮 "wikilink")                                                     | 陳永業    |
+| 2019年11月19日 (\#230) | [張之珏](../Page/張之珏.md "wikilink")                                                                                                                            | 李浩林    |
+| 2019年11月20日 (\#231) | [新劍郎](https://zh.wikipedia.org/wiki/新劍郎 "wikilink")                                                                                                         | 陳永業    |
+| 2019年11月21日 (\#232) | [馬浚偉](../Page/馬浚偉.md "wikilink")、[余香凝](../Page/余香凝.md "wikilink")、[黃定謙](../Page/黃定謙.md "wikilink")                                                          | 黎芷珊    |
+| 2019年11月22日 (\#233) | [陳　煒](../Page/陳煒.md "wikilink")                                                                                                                             | 李浩林    |
+| 2019年11月25日 (\#234) | [方力申](../Page/方力申.md "wikilink")                                                                                                                            | 吳家樂    |
+| 2019年11月26日 (\#235) | [甄澤權](../Page/甄澤權.md "wikilink")                                                                                                                            | 李浩林    |
+| 2019年11月27日 (\#236) | [麥蓓蒂](https://zh.wikipedia.org/wiki/麥蓓蒂 "wikilink")、[江倩瑩](https://zh.wikipedia.org/wiki/江倩瑩 "wikilink")、[方麗珠](https://zh.wikipedia.org/wiki/方麗珠 "wikilink") | 吳家樂    |
+| 2019年11月28日 (\#237) | [任卓昇](https://zh.wikipedia.org/wiki/任卓昇 "wikilink")                                                                                                         | 陳永業    |
+| 2019年11月29日 (\#238) | [彭　啤](https://zh.wikipedia.org/wiki/彭啤 "wikilink")                                                                                                          | 林溥來    |
+|                     |                                                                                                                                                             |        |
+
+#### 12月
+
+|                     |                                                                                                             |        |
+| ------------------- | ----------------------------------------------------------------------------------------------------------- | ------ |
+| **首播日期**            | **嘉賓**                                                                                                      | **主持** |
+| 2019年12月2日 (\#239)  | [Hugh](https://zh.wikipedia.org/wiki/Hugh "wikilink")、[Paul](https://zh.wikipedia.org/wiki/Paul "wikilink") |        |
+| 2019年12月3日 (\#240)  | [周華山](../Page/周華山.md "wikilink")、[阿　細](https://zh.wikipedia.org/wiki/阿細 "wikilink")                         |        |
+| 2019年12月4日 (\#241)  | [洪永城](../Page/洪永城.md "wikilink")、[朱晨麗](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")                        |        |
+| 2019年12月5日 (\#242)  | [李浩迅](https://zh.wikipedia.org/wiki/李浩迅 "wikilink")                                                         |        |
+| 2019年12月6日 (\#243)  |                                                                                                             |        |
+| 2019年12月9日 (\#244)  |                                                                                                             |        |
+| 2019年12月10日 (\#245) |                                                                                                             |        |
+| 2019年12月11日 (\#246) |                                                                                                             |        |
+| 2019年12月12日 (\#247) |                                                                                                             |        |
+| 2019年12月13日 (\#248) |                                                                                                             |        |
+| 2019年12月16日 (\#249) |                                                                                                             |        |
+| 2019年12月17日 (\#250) |                                                                                                             |        |
+| 2019年12月18日 (\#251) |                                                                                                             |        |
+| 2019年12月19日 (\#252) |                                                                                                             |        |
+| 2019年12月20日 (\#253) |                                                                                                             |        |
+| 2019年12月23日 (\#254) |                                                                                                             |        |
+| 2019年12月24日 (\#255) |                                                                                                             |        |
+| 2019年12月25日 (\#256) |                                                                                                             |        |
+| 2019年12月26日 (\#257) |                                                                                                             |        |
+| 2019年12月27日 (\#258) |                                                                                                             |        |
+| 2019年12月30日 (\#259) |                                                                                                             |        |
+| 2019年12月31日 (\#260) |                                                                                                             |        |
+|                     |                                                                                                             |        |
 
 ## 參考來源
 
@@ -4001,6 +4058,6 @@
 
 1.  [有話兒：靚聲王開咪 Phone雲再起](http://hk.apple.nextmedia.com/entertainment/art/20110903/15580036)，[蘋果日報](../Page/蘋果日報_\(香港\).md "wikilink")，2011年9月3日
 2.  [《今日VIP》訪問下周一播出](http://hk.on.cc/hk/bkn/cnt/entertainment/20150102/bkn-20150102214233170-0102_00862_001.html)，[東網](https://zh.wikipedia.org/wiki/ON.CC "wikilink")，2015年1月2日
-3.  [﻿拍《使徒》傷舊患 阿佘被建議休息半年](http://www.msn.com/zh-hk/entertainment/news/%EF%BB%BF拍《使徒》傷舊患-阿佘被建議休息半年/ar-BBuwVoh)，[頭條日報](../Page/頭條日報.md "wikilink")，2016年7月19日
+3.  [﻿拍《使徒》傷舊患 阿佘被建議休息半年](http://www.msn.com/zh-hk/entertainment/news/%EF%BB%BF拍《使徒》傷舊患-阿佘被建議休息半年/ar-BBuwVoh) ，[頭條日報](../Page/頭條日報.md "wikilink")，2016年7月19日
 4.  [黃清元不拍戲自認臉太古板](http://johor.chinapress.com.my/20170226/%E9%BB%83%E6%B8%85%E5%85%83%E4%B8%8D%E6%8B%8D%E6%88%B2%E8%87%AA%E8%AA%8D%E8%87%89%E5%A4%AA%E5%8F%A4%E6%9D%BF/)，[中國報新聞網](https://zh.wikipedia.org/wiki/中國報新聞網 "wikilink")，2017年2月26日
 5.  [見盡娛圈人情冷暖　黃翊落淚：遇熟人不敢再打招呼](https://eweekly.hk/article/_title/%E8%A6%8B%E7%9B%A1%E5%A8%9B%E5%9C%88%E4%BA%BA%E6%83%85%E5%86%B7%E6%9A%96_%E9%BB%83%E7%BF%8A%E8%90%BD%E6%B7%9A%E9%81%87%E7%86%9F%E4%BA%BA%E4%B8%8D%E6%95%A2%E5%86%8D%E6%89%93%E6%8B%9B%E5%91%BC__iardepz288) ，[E週刊](https://zh.wikipedia.org/wiki/E週刊 "wikilink")，2017年3月29日

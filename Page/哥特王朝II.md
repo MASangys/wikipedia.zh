@@ -27,15 +27,10 @@
 [Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink") [Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink") [Category:德国开发电子游戏](https://zh.wikipedia.org/wiki/Category:德国开发电子游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:哥特王朝系列](https://zh.wikipedia.org/wiki/Category:哥特王朝系列 "wikilink") [Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink")
 
 1.  [Press reactions on the official web site](http://www.piranha-bytes.com/gothic2/content_english/news_press.php)  *Piranha Bytes*. Retrieved on [August 3](https://zh.wikipedia.org/wiki/August_3 "wikilink"), 2006
-
 2.  [RPGDot Review](http://www.rpgdot.com/index.php?hsaction=10053&ID=690) *rpgdot.com*. Retrieved on [August 3](https://zh.wikipedia.org/wiki/August_3 "wikilink"), 2006
-
 3.  [IGN Review](http://pc.ign.com/articles/440/440104p3.html) *pc.ign.com*. Retrieved on [August 3](https://zh.wikipedia.org/wiki/August_3 "wikilink"), 2006
-
 4.
 5.  [Just RPG Review](http://www.just-rpg.com/default.asp?pid=774)  *just-rpg.com*. Retrieved on [August 4](https://zh.wikipedia.org/wiki/August_4 "wikilink"), 2006
-
 6.
 7.  [Gamepot Review](http://www.gamespot.com/pc/rpg/gothic2/review.html) *gamespot.com*. Retrieved on [August 4](https://zh.wikipedia.org/wiki/August_4 "wikilink"), 2006
-
 8.  [Gamespy Review](http://archive.gamespy.com/reviews/november03/gothic2pc/)  *gamespy.com*. Retrieved on [August 4](https://zh.wikipedia.org/wiki/August_4 "wikilink"), 2006

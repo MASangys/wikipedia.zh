@@ -2,7 +2,7 @@
 
 ## 設計
 
-SIG SG 552發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約標準步槍彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，裝有摺疊[槍托](../Page/槍托.md "wikilink")，9英吋的[槍管](../Page/槍管.md "wikilink")、[扳機護圈亦可翻開以便](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[手套](../Page/手套.md "wikilink")時操作，備有可裝配件的[戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")。SIG SG 552是SIG SG 550槍族一份子，同樣使用改良自[AK-47的導氣系统](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")。
+SIG SG 552發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約標準步槍彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，裝有摺疊[槍托](../Page/槍托.md "wikilink")，9英吋的[槍管](../Page/槍管.md "wikilink")、[扳機護圈亦可翻開以便](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[手套](../Page/手套.md "wikilink")時操作，備有可裝配件的[戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")。SIG SG 552是SIG SG 550槍族一份子，同樣使用改良自[AK的導氣系统](https://zh.wikipedia.org/wiki/卡拉什尼科夫自動步槍 "wikilink")。
 
 目前的SIG SG 552常見於瑞士軍隊及各國的特警隊，在瑞士不向民間發售。
 

@@ -75,9 +75,7 @@
 
   - 生活百貨
       - [統一超商](../Page/統一超商.md "wikilink")（7-11）
-
       - [家樂福](../Page/家樂福.md "wikilink")
-
       -
   - 交通運輸
       - [高雄捷運](../Page/高雄捷運.md "wikilink")各車站服務台
@@ -142,6 +140,15 @@ icash損壞後可向愛金卡公司申請換卡，需掛號郵寄至愛金卡客
 
 <!-- end list -->
 
+  - **輕軌**
+
+<!-- end list -->
+
+  - [淡海輕軌](../Page/淡海輕軌.md "wikilink")
+  - [高雄輕軌](../Page/高雄環狀輕軌.md "wikilink")
+
+<!-- end list -->
+
   - 渡輪
 
 <!-- end list -->
@@ -157,7 +164,7 @@ icash損壞後可向愛金卡公司申請換卡，需掛號郵寄至愛金卡客
   - [新北市公車](../Page/新北市公車.md "wikilink")
   - [臺北聯營公車](https://zh.wikipedia.org/wiki/臺北聯營公車 "wikilink")
   - [基隆市公車](../Page/基隆市公車.md "wikilink")\[14\]
-  - [桃園市市區公車](../Page/桃園市市區公車.md "wikilink")：統聯客運
+  - [桃園市公車](../Page/桃園市市區公車.md "wikilink")：[桃園客運](../Page/桃園客運.md "wikilink")、[中壢客運](../Page/中壢客運.md "wikilink")、[統聯客運](../Page/統聯客運.md "wikilink")、[三重客運](../Page/三重客運.md "wikilink")、[指南客運](https://zh.wikipedia.org/wiki/指南客運 "wikilink")
   - [台中市公車](https://zh.wikipedia.org/wiki/台中市公車 "wikilink")
   - [彰化縣公車](../Page/彰化縣公車.md "wikilink")
   - [南投縣公車](../Page/南投縣市區公車.md "wikilink")
@@ -172,10 +179,36 @@ icash損壞後可向愛金卡公司申請換卡，需掛號郵寄至愛金卡客
 
 <!-- end list -->
 
+  - [基隆客運](../Page/基隆客運.md "wikilink")
+  - [臺北客運](../Page/臺北客運.md "wikilink")
+  - [首都客運](../Page/首都客運.md "wikilink")
+  - [大都會客運](../Page/大都會客運.md "wikilink")
+  - [三重客運](../Page/三重客運.md "wikilink")
+  - [指南客運](https://zh.wikipedia.org/wiki/指南客運 "wikilink")
+  - [中興巴士](https://zh.wikipedia.org/wiki/中興巴士 "wikilink")
+  - [桃園客運](../Page/桃園客運.md "wikilink")
+  - [中壢客運](../Page/中壢客運.md "wikilink")
+  - [苗栗客運](../Page/苗栗客運.md "wikilink")
+  - [豐原客運](https://zh.wikipedia.org/wiki/豐原客運 "wikilink")
+  - [豐榮客運](../Page/豐榮客運.md "wikilink")
+  - [總達客運](../Page/總達客運.md "wikilink")
+  - [南投客運](../Page/南投客運.md "wikilink")
+  - [彰化客運](../Page/彰化客運.md "wikilink")
+  - [員林客運](../Page/員林客運.md "wikilink")
+  - [台西客運](../Page/台西客運.md "wikilink")
+  - [日統客運](../Page/日統客運.md "wikilink")
+  - [新營客運](../Page/新營客運.md "wikilink")
+  - [府城客運](https://zh.wikipedia.org/wiki/府城客運 "wikilink")
+  - [高雄客運](../Page/高雄客運.md "wikilink")
+  - [義大客運](../Page/義大客運.md "wikilink")
+  - [中南客運](../Page/中南客運.md "wikilink")
+  - [屏東客運](../Page/屏東客運.md "wikilink")
   - [葛瑪蘭客運](../Page/葛瑪蘭客運.md "wikilink")
   - [汎航通運](https://zh.wikipedia.org/wiki/汎航通運 "wikilink")
   - [太魯閣客運](../Page/太魯閣客運.md "wikilink")\[17\]
+  - [花蓮客運](../Page/花蓮客運.md "wikilink")
   - [鼎東客運](../Page/鼎東客運.md "wikilink")\[18\]
+  - [豪泰客運](../Page/豪泰客運.md "wikilink")
   - [福和客運](../Page/福和客運.md "wikilink")\[19\]
 
 <!-- end list -->
@@ -194,6 +227,7 @@ icash損壞後可向愛金卡公司申請換卡，需掛號郵寄至愛金卡客
 <!-- end list -->
 
   - 臺南市：[T-Bike](../Page/臺南市公共自行車租賃系統.md "wikilink")
+  - 高雄市：[CityBike](../Page/高雄市公共腳踏車租賃系統.md "wikilink")
 
 #### 休閒遊憩
 
@@ -212,36 +246,21 @@ icash損壞後可向愛金卡公司申請換卡，需掛號郵寄至愛金卡客
 [Category:2004年面世的產品](https://zh.wikipedia.org/wiki/Category:2004年面世的產品 "wikilink") [Category:台灣電子票證](https://zh.wikipedia.org/wiki/Category:台灣電子票證 "wikilink") [Category:台北市交通](https://zh.wikipedia.org/wiki/Category:台北市交通 "wikilink") [Category:新北市交通](https://zh.wikipedia.org/wiki/Category:新北市交通 "wikilink") [Category:桃園市交通](https://zh.wikipedia.org/wiki/Category:桃園市交通 "wikilink") [Category:基隆市交通](https://zh.wikipedia.org/wiki/Category:基隆市交通 "wikilink") [Category:台中市交通](https://zh.wikipedia.org/wiki/Category:台中市交通 "wikilink") [Category:臺南市交通](https://zh.wikipedia.org/wiki/Category:臺南市交通 "wikilink") [Category:高雄市交通](https://zh.wikipedia.org/wiki/Category:高雄市交通 "wikilink") [Category:統一企業集團](https://zh.wikipedia.org/wiki/Category:統一企業集團 "wikilink") [Category:Icash](https://zh.wikipedia.org/wiki/Category:Icash "wikilink") [Category:智慧卡](https://zh.wikipedia.org/wiki/Category:智慧卡 "wikilink") [Category:乘車智慧卡](https://zh.wikipedia.org/wiki/Category:乘車智慧卡 "wikilink") [Category:公共交通付款方式](https://zh.wikipedia.org/wiki/Category:公共交通付款方式 "wikilink")
 
 1.  [icash將於國立傳統藝術中心停用](https://www.icash.com.tw/Home/NewsDetail/8494)
-
 2.  [【馬祖公車】icash2.0正式上線](https://www.icash.com.tw/Home/NewsDetail/8706)
-
 3.  [icash將於新北市瑞芳第二市場停用](https://www.icash.com.tw/Home/NewsDetail/8728)
-
 4.  [2017/1/1起icash可支付代收代售範圍](https://www.icash.com.tw/Home/NewsDetail/8745)2016年12月30日,愛金卡公司
-
 5.
-
 6.  [一代icash停用公告](https://www.icash.com.tw/Home/NewsDetail/9502)
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12. [【新聞稿】桃捷給你滿滿大平台 四大票證攏ㄟ通](https://www.tymetro.com.tw/tymetro-new/tw/_pages/news/show-602-2.html)2017-11-27,[桃園捷運公司](../Page/桃園捷運公司.md "wikilink")
-
 13. [高雄渡輪持icash2.0票證入場，即享OPENPOINT天天5倍送。](https://www.icash.com.tw/Home/NewsDetail/?ID=9131)2017-12-01,愛金卡公司
-
 14. [持icash2.0搭乘基隆市公車即享OPENPOINT點數天天5倍送](https://www.icash.com.tw/Home/NewsDetail/?ID=9147)2017-12-12,愛金卡公司
-
 15.
 16. [歡慶台南公車、高雄公車開通，持icash2.0搭乘台南公車、高雄公車、高雄捷運(含輕軌)、高雄渡輪每趟贈300點OPENPOINT](https://www.icash.com.tw/Home/NewsDetail/?ID=9497)2018-09-08-31,愛金卡公司
-
 17. [指定宜花東公車業者即享OPENPOINT點數天天5倍送](https://www.icash.com.tw/Home/NewsDetail/?ID=9163)2017-12-22,愛金卡公司
-
 18.
 19. [最新消息](http://www.fuhobus.com.tw/img/news/news01.JPG) 福和客運

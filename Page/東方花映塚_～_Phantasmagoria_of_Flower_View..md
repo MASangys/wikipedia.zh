@@ -308,10 +308,7 @@
 [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:死神題材作品](https://zh.wikipedia.org/wiki/Category:死神題材作品 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink") [Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
 
 1.  資料出處為該遊戲附帶的キャラ設定.txt(角色設定.txt)。
-
 2.  鈴蘭日文是すずらん。
-
 3.
 4.  根據花映塚中與映姬的對話，以及求聞史記。
-
 5.  根據《[求聞史紀](https://zh.wikipedia.org/wiki/東方求聞史紀_〜_Perfect_Memento_in_Strict_Sense. "wikilink")》的附錄的角色頁中記述。

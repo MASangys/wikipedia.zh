@@ -21,14 +21,9 @@ eIF1A的[结构采用了与](../Page/蛋白质结构.md "wikilink")[大肠杆菌
 [Category:蛋白质生物合成](https://zh.wikipedia.org/wiki/Category:蛋白质生物合成 "wikilink") [Category:位於人類Y染色體的基因](https://zh.wikipedia.org/wiki/Category:位於人類Y染色體的基因 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.

@@ -11,9 +11,9 @@
   - [Microsoft SQL Server: Reporting Services home page](http://www.microsoft.com/sql/technologies/reporting/default.mspx)
   - [SSW: Rules to Better SQL Reporting Services 2005](http://www.ssw.com.au/Ssw/Standards/Rules/RulesToBetterSQLReportingServices.aspx)
   - [SSW: Microsoft SQL Reporting Services Suggestions](http://www.ssw.com.au/SSW/Standards/BetterSoftwareSuggestions/ReportingServices.aspx)
-  - [DNR TV: Reporting Services Part A](http://www.dnrtv.com/default.aspx?showNum=26)
-  - [DNR TV: Reporting Services Part B](http://www.dnrtv.com/default.aspx?showNum=27)
-  - [DNR TV: Reporting Services Part C](http://www.dnrtv.com/default.aspx?showNum=28)
+  - [DNR TV: Reporting Services Part A](https://web.archive.org/web/20091226220632/http://www.dnrtv.com/default.aspx?showNum=26)
+  - [DNR TV: Reporting Services Part B](https://web.archive.org/web/20090429191722/http://www.dnrtv.com/default.aspx?showNum=27)
+  - [DNR TV: Reporting Services Part C](https://web.archive.org/web/20090429233324/http://www.dnrtv.com/default.aspx?showNum=28)
   - [ReportViewer Control in Visual Studio 2008: Got Report Viewer?](http://www.gotreportviewer.com/)
   - [SQL Server Reporting Services - ProgWiki](http://www.player.idv.tw/prog/index.php/SQL_Server_Reporting_Services)
 

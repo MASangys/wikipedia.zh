@@ -175,19 +175,13 @@
 
 [ca:Llista de personatges de One Piece\#Brook](https://zh.wikipedia.org/wiki/ca:Llista_de_personatges_de_One_Piece#Brook "wikilink") [en:List of One Piece characters\#Brook](https://zh.wikipedia.org/wiki/en:List_of_One_Piece_characters#Brook "wikilink")
 
-[Category:草帽海賊團](https://zh.wikipedia.org/wiki/Category:草帽海賊團 "wikilink") [Category:虛構男性動漫角色](https://zh.wikipedia.org/wiki/Category:虛構男性動漫角色 "wikilink") [Category:虚构不死生物](https://zh.wikipedia.org/wiki/Category:虚构不死生物 "wikilink") [Category:虛構音樂家](https://zh.wikipedia.org/wiki/Category:虛構音樂家 "wikilink")
+[Category:草帽海賊團](https://zh.wikipedia.org/wiki/Category:草帽海賊團 "wikilink") [Category:虛構男性動漫角色](https://zh.wikipedia.org/wiki/Category:虛構男性動漫角色 "wikilink") [Category:虚构不死生物](https://zh.wikipedia.org/wiki/Category:虚构不死生物 "wikilink") [Category:虛構音樂家](https://zh.wikipedia.org/wiki/Category:虛構音樂家 "wikilink") [Category:2007年首次亮相的漫畫角色](https://zh.wikipedia.org/wiki/Category:2007年首次亮相的漫畫角色 "wikilink")
 
 1.  《ONE PIECE》漫畫第858話
-
 2.
 3.  《ONE PIECE》漫畫第86卷SBS詢問專欄。
-
 4.  《ONE PIECE》漫畫第73卷SBS詢問專欄。
-
 5.  《ONE PIECE》漫畫第60卷SBS聲優專訪。
-
 6.  《ONE PIECE》漫畫第74卷SBS詢問專欄。
-
 7.  《ONE PIECE》漫畫第524話。
-
 8.

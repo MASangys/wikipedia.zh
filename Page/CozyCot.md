@@ -39,50 +39,31 @@ CozyCot主办的各项活动，让会员能通过研讨会、专题小组、实�
 [Category:時尚](https://zh.wikipedia.org/wiki/Category:時尚 "wikilink") [Category:美容](https://zh.wikipedia.org/wiki/Category:美容 "wikilink") [Category:網站](https://zh.wikipedia.org/wiki/Category:網站 "wikilink") [Category:虛擬社群](https://zh.wikipedia.org/wiki/Category:虛擬社群 "wikilink") [Category:新加坡報紙](https://zh.wikipedia.org/wiki/Category:新加坡報紙 "wikilink")
 
 1.
-
 2.
 3.  ([Pt. 1](http://www.capital958.sg/download/MDC100602-0000009/web/MDC100602-0000009.mp3) , [Pt. 2](http://www.capital958.sg/download/MDC100602-0000010/web/MDC100602-0000010.mp3) )
-
 4.   (在Entrepreneur[中重新出版](http://www.entrepreneur.com/tradejournals/article/198473955.html))
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
 21.
 22.
 23.
-
 24.
 25.
-
 26.  ([mp3](http://www.938live.sg/download/MDC100519-0000006/web/MDC100519-0000006.mp3))
-
 27.
-
 28.
 29.

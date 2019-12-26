@@ -1376,45 +1376,28 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 
   - [衛視電影台 天才麻將少女官網](http://www.startv.com.tw/cmov/prog.asp?forid=2134&nouse=4517)
 
-  - [-{映画&ドラマ『咲-Saki-}-』官網](http://www.saki-project.jp/)
+  - [-{映画&ドラマ『咲-Saki-}-』官網](https://web.archive.org/web/20160901151010/http://www.saki-project.jp/)
 
   -
 [Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink") [Category:YOUNG_GANGAN](https://zh.wikipedia.org/wiki/Category:YOUNG_GANGAN "wikilink") [Category:麻將漫畫](https://zh.wikipedia.org/wiki/Category:麻將漫畫 "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:2009年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2009年東京電視網動畫 "wikilink") [Category:日本廣播劇](https://zh.wikipedia.org/wiki/Category:日本廣播劇 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:長野縣背景作品](https://zh.wikipedia.org/wiki/Category:長野縣背景作品 "wikilink") [Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink") [Category:咲-Saki-](https://zh.wikipedia.org/wiki/Category:咲-Saki- "wikilink") [Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink") [Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink") [Category:2017年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年日本電視劇集 "wikilink") [Category:2017年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2017年電視特別劇集 "wikilink") [Category:2018年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年日本電視劇集 "wikilink") [Category:2018年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2018年電視特別劇集 "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink") [Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink") [Category:Dramaism](https://zh.wikipedia.org/wiki/Category:Dramaism "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
 
 1.  [作者的個人blog 08.03.06](https://web.archive.org/web/20080512122721/http://sciasta.com/ritz/)（2008年5月12日的[檔案館](https://zh.wikipedia.org/wiki/互聯網檔案館 "wikilink")）的發言中提及。
-
 2.  [『咲-Saki－』 小野学監督インタビュー その1](http://www.animeanime.jp/interview/saki1.html)
-
 3.
 4.
-
 5.
-
 6.
-
 7.  [咲－Saki－：美少女たちの熱血マージャンマンガ　テレビアニメ化決定　「ガンガン」で新連載も - MANTANWEB（まんたんウェブ）](https://archive.is/20120715230234/mantan-web.jp/2011/06/25/20110624dog00m200061000c.html)
-
 8.  [咲－Saki－：新作「阿知賀編」がテレビアニメ化　12年春放送へ - MANTANWEB（まんたんウェブ）](https://archive.is/20120710003526/mantan-web.jp/2011/10/07/20111006dog00m200043000c.html)
-
 9.  『月刊少年ガンガン』2013年2月号「咲取り！！ 阿知賀にゅーす GG版」より
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.
-
 17.
-
 18.
-
 19.
-
 20.

@@ -124,48 +124,27 @@ Linux是Linus Torvalds的注册商标。
 [Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink") [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
 
 1.
-
 2.  {{ cite web | url = <http://www.coe.berkeley.edu/labnotes/history_unix.html> |title=Berkeley UNIX和开源软件的诞生}}
-
 3.  {{ cite web|url=<http://oreilly.com/catalog/opensources/book/kirkmck.html> |title=从AT\&T的BerkeleyUnix到可自由再发布的20年 |author=Marshall Kirk McKusick |deadurl=yes |archiveurl=<https://web.archive.org/web/20091001021430/http://oreilly.com/catalog/opensources/book/kirkmck.html> |archivedate=2009-10-01 }}
-
 4.  {{ cite web | url = <http://people.fluidsignal.com/~luferbu/misc/Linus_vs_Tanenbaum.html> | title = Linus vs. Tanenbaum debate | deadurl = yes | archiveurl = <https://web.archive.org/web/20081202074816/http://people.fluidsignal.com/~luferbu/misc/Linus_vs_Tanenbaum.html> | archivedate = 2008-12-02 }}
-
 5.  {{ cite web | url = <http://gondwanaland.com/meta/history/interview.html> |title=The Choice of a GNU Generation - An Interview With Linus Torvalds }}
-
 6.  Torvalds, Linus and David Diamond, *Just for Fun: The Story of an Accidental Revolutionary*, 2001, ISBN 0-06-662072-4
-
 7.
 8.
 9.  Torvalds, Linus: *[Notes for linux release 0.01](http://www.kernel.org/pub/linux/kernel/Historic/old-versions/RELNOTES-0.01)* kernel.org, 1991.
-
 10. Torvalds, Linus: *[Notes for linux release 0.01](http://www.kernel.org/pub/linux/kernel/Historic/old-versions/RELNOTES-0.01)* kernel.org, 1991.
-
 11.
-
 12. *[z-archive of Linux version 0.99](ftp://ftp.kernel.org/pub/linux/kernel/Historic/v0.99/linux-0.99.tar.Z) *, kernel.org, December 1992
-
 13. *[1](http://www.gnu.org/gnu/gnu-history.html)*
-
-14. Hiroo Yamagata: [*The ragmatist of Free Software*, Linus Torvalds Interview](http://www.tlug.jp/docs/linus.html), 05.08.1997
-
+14. Hiroo Yamagata: [*The ragmatist of Free Software*, Linus Torvalds Interview](http://www.tlug.jp/docs/linus.html) , 05.08.1997
 15. [Linux and GNU - GNU Project - Free Software Foundation (FSF)](http://www.gnu.org/gnu/linux-and-gnu.html)
-
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21. Andrew Tanenbaum, Linus Torvalds and others: *[Linux is obsolete](http://www.educ.umu.se/~bjorn/mhonarc-files/obsolete/msg00009.html) * Usenet post, 29.01.1992
-
 22. *[The GNU Hurd Project](http://www.gnu.org/software/hurd/hurd.html#status)*
-
 23.
-
 24.
-
 25.

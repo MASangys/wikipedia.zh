@@ -12,7 +12,7 @@
 
 ### 台灣
 
-**台灣同人誌販售會**（，簡稱為**CWT**），由[台灣同人誌科技及其後身](https://zh.wikipedia.org/wiki/台灣同人誌科技 "wikilink")[同人誌數位主辦](https://zh.wikipedia.org/wiki/同人誌數位 "wikilink")，每半年舉行一次，分為CWT（台大場）、CWT-T（台中場）、CWT-K（高雄場）、CWT-Party（地下街場），現今多以[國立臺灣大學綜合體育館](../Page/國立臺灣大學綜合體育館.md "wikilink")、[逢甲大學體育館](https://zh.wikipedia.org/wiki/逢甲大學 "wikilink")、[高雄國際會議中心](../Page/高雄國際會議中心.md "wikilink")與[台北地下街](../Page/台北地下街.md "wikilink")為舉辦場地。其觀展族群多以女性為主，參與社團的作品也多為[女性向](https://zh.wikipedia.org/wiki/女性向作品 "wikilink")。另外，也在香港舉辦「Comic World Taiwan - Hong Kong」（簡稱CWT-HK），與CWHK不同。競爭對手為[開拓動漫祭](../Page/開拓動漫祭.md "wikilink")。
+**台灣同人誌販售會**（，簡稱為**CWT**），由[台灣同人誌科技及其後身](https://zh.wikipedia.org/wiki/台灣同人誌科技 "wikilink")[同人誌數位主辦](https://zh.wikipedia.org/wiki/同人誌數位 "wikilink")，每半年舉行一次，分為CWT（簡稱「台大場」）、CWT-T（簡稱「台中場」）、CWT-K（簡稱「高雄場」）、CWT-Party（簡稱「地下街場」），現今多以[國立臺灣大學綜合體育館](../Page/國立臺灣大學綜合體育館.md "wikilink")、[逢甲大學體育館](https://zh.wikipedia.org/wiki/逢甲大學 "wikilink")、[高雄國際會議中心](../Page/高雄國際會議中心.md "wikilink")與[台北地下街](../Page/台北地下街.md "wikilink")為舉辦場地。2019年10月，於[台北市漫畫從業人員職業工會第三屆](https://zh.wikipedia.org/wiki/台北市漫畫從業人員職業工會 "wikilink")[台灣漫畫節場內舉辦首屆CWT原創嘉年華](https://zh.wikipedia.org/wiki/台灣漫畫節 "wikilink")（簡稱「原創場」）。其觀展族群多以女性為主，參與社團的作品也多為[女性向](https://zh.wikipedia.org/wiki/女性向作品 "wikilink")。另外，也在香港舉辦「Comic World Taiwan - Hong Kong」（簡稱CWT-HK），與CWHK不同。競爭對手為[開拓動漫祭](../Page/開拓動漫祭.md "wikilink")。
 
 ### 韓國
 

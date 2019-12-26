@@ -4,7 +4,7 @@
 
 </div>
 
-**凌志ES**（**-{Lexus ES}-**），ES代表Executive Sedan，是[豐田汽車公司旗下](https://zh.wikipedia.org/wiki/豐田汽車公司 "wikilink")[凌志](../Page/凌志.md "wikilink")品牌的中大級豪華轎車／行政坐駕系列。凌志ES前五代是以[豐田凱美瑞作為開平台](https://zh.wikipedia.org/wiki/豐田凱美瑞 "wikilink")，第六代改以尺碼更大的Avalon為基礎設計，搭載了一台[V6](https://zh.wikipedia.org/wiki/V6 "wikilink")[引擎及](https://zh.wikipedia.org/wiki/引擎 "wikilink")[自動變速器](https://zh.wikipedia.org/wiki/自動變速器 "wikilink")，現在已經生產到第七代。在發售的大部份時間，ES都被定位為凌志車系中的入門級豪華轎車，直至2001年引進了[IS型號為止](../Page/凌志IS.md "wikilink")。由1989年至1991年發售的第一代的ES 250，與當時的豐田凱美瑞共用同一個車型。而當時尚未引入凌志品牌的日本本土市場，則以「豐田Windom」的名義推出，期間一直與ES共用同一個車型直至2006年為止。ES型號已成為Lexus家族舒適豪華汽代表。同級車為Mercedes E系列及BMW 5系列。 __TOC__
+**凌志ES**（**-{Lexus ES}-**），ES代表Executive Sedan，是[豐田汽車公司旗下](https://zh.wikipedia.org/wiki/豐田汽車公司 "wikilink")[凌志](../Page/凌志.md "wikilink")品牌的中大級豪華轎車／行政坐駕系列。凌志ES前五代是以[豐田凱美瑞作為開平台](https://zh.wikipedia.org/wiki/豐田凱美瑞 "wikilink")，第六代改以尺碼更大的Avalon為基礎設計，搭載了一顆[V6](https://zh.wikipedia.org/wiki/V6 "wikilink")[引擎及](https://zh.wikipedia.org/wiki/引擎 "wikilink")[自動變速箱](https://zh.wikipedia.org/wiki/自動變速箱 "wikilink")，現在已經生產到第七代。在發售的大部份時間，ES都被定位為凌志車系中的入門級豪華轎車，直至2001年引進了[IS型號為止](../Page/凌志IS.md "wikilink")。由1989年至1991年發售的第一代的ES 250，與當時的豐田凱美瑞共用同一個車型。而當時尚未引入凌志品牌的日本本土市場，則以「豐田Windom」的名義推出，期間一直與ES共用同一個車型直至2006年為止。ES型號已成為Lexus家族舒適豪華汽車代表。同級車為Mercedes E系列及BMW 5系列。 __TOC__
 
 ## 歷史
 
@@ -98,7 +98,7 @@ ES 350在2006年四月下旬運送到美國的代理商手上，以2007年款�
 
 ### 第七代
 
-[Paris_Motor_Show_2018,_Paris_(1Y7A1190).jpg](https://zh.wikipedia.org/wiki/File:Paris_Motor_Show_2018,_Paris_\(1Y7A1190\).jpg "fig:Paris_Motor_Show_2018,_Paris_(1Y7A1190).jpg") 第七代ES在北京車展上正式亮相，基於GA-K架構打造，整個車身尺碼增大來到 4,975 x 1,865 x 1,445mm （軸距 2,870mm，較前代增加 50mm），不僅有旗艦房車的乘坐空間，更擁有更流線、更低重心的視覺效果，車側豐富的摺線更是勾勒出精實的肌肉感受，並且在C柱之後下傾使全車呈現出Four-door-Coupe的跑格感受。全車採用大量高強度鋼材、後排座椅及引擎室都加上V型加強鋼梁、全新開發的多連桿式後懸吊、搭配高精度並行式電動助力轉向系統以及全封閉底盤設計，而且ES首度增加F Sport版(日本國內販售)。
+[Paris_Motor_Show_2018,_Paris_(1Y7A1190).jpg](https://zh.wikipedia.org/wiki/File:Paris_Motor_Show_2018,_Paris_\(1Y7A1190\).jpg "fig:Paris_Motor_Show_2018,_Paris_(1Y7A1190).jpg") 第七代ES在北京車展上正式亮相，基於GA-K架構打造，整個車身尺碼增大來到 4,975 x 1,865 x 1,445mm （軸距 2,870mm，較前代增加 50mm），不僅有旗艦房車的乘坐空間，更擁有更流線、更低重心的視覺效果，車側豐富的摺線更是勾勒出精實的肌肉感受，並且在C柱之後下傾使全車呈現出Four-door-Coupe的跑格感受。全車採用大量高強度鋼材、後排座椅及引擎室都加上V型加強鋼梁、全新開發的多連桿式後懸吊、搭配高精度並行式電動助力轉向系統以及全封閉底盤設計，而且ES首度增加F Sport版及首度於日本國內販售。
 
 內裝更是依照品牌旗艦 LS、LC 的 Seat in Control 設計概念，以簡潔的金屬飾條與大量高級皮質，帶出貴氣的視覺感受以及空間開闊感，另外包含 12.3 吋的中央顯示幕（ES 250 及ES300H 旗艦版專屬）、TFT 液晶儀表與儀表兩側的多重駕駛模式開關，皆有LS車系的概念蘊含其中，同時座椅及全車車門扶手也都經由重新設計使其擁有更出色的舒適感受。
 
@@ -141,38 +141,22 @@ ES 350在2006年四月下旬運送到美國的代理商手上，以2007年款�
 [Category:1989年面世的汽車](https://zh.wikipedia.org/wiki/Category:1989年面世的汽車 "wikilink") [Category:凌志車輛](https://zh.wikipedia.org/wiki/Category:凌志車輛 "wikilink") [Category:中型車](https://zh.wikipedia.org/wiki/Category:中型車 "wikilink")
 
 1.  [凌志ES年表（英語）](http://www.tuninglinx.com/html/lexus-es-chronolgy-1.html)
-
 2.  [消費者指引 - 凌志ES（英語）](http://consumerguideauto.howstuffworks.com/1990-to-1996-lexus-es-250-300.htm)
-
 3.
 4.  Dawson, Chester. *Lexus: The Relentless Pursuit.* 2004: Jon Wiley & Sons, NJ.
-
 5.  [凌志進入豪華汽車市場後重整（英語）](http://findarticles.com/p/articles/mi_m3165/is_2001_Sept_1/ai_78035406)
-
 6.
 7.  [《Motor Trend》2007年款凌志ES 350測試及評價（英語）](http://www.motortrend.com/oftheyear/car/112_0701_2007_coty_testing/2007_lexus_es_350.html)
-
 8.  [汽車設計與生產 - 介紹2007年款凌志ES 350（英語）](http://www.autofieldguide.com/articles/040601.html)
-
 9.  [走在路上 - 2007年款凌志ES 350（英語）](http://www.dfw.com/mld/dfw/classifieds/automotive/16171248.htm)
-
 10.
-
 11.
-
 12.
-
 13.
 14. [CARFAX - 凌志ES（英語）](http://www.carfax.com/car_safety/ratings/SRR.cfm/year/2001/make/LEXUS/model/ES%20SERIES)
-
 15. [Intellichoice 2005年最佳整體價值獎（英語）](http://www.intellichoice.com/press/2005_BOVY_Release)
-
 16. [2006年凌志ES 330 - Intellichoice評價（英語）](http://www.intellichoice.com/reports/vehicleReport/vehicle_nmb/17694/type/new/year//make/Lexus/model/ES%20330)
-
 17. [Intellichoice 2007年最佳整體價值獎（英語）](http://www.intellichoice.com/best_values/bovy/year/2007/bovy_category/Luxury)
-
 18. [《Consumer Reports》可靠度調查（英語）](http://www.denverpost.com/headlines/ci_4638690)
-
 19. [AJAC加拿大全年最佳汽車類別冠軍（英語）](http://www.autoreviewsonline.com/features/article/?article=112200141)
-
 20. [Kiplinger's個人財務2007年最佳汽車（英語）](http://www.kiplinger.com/magazine/archives/2006/12/cars07.html)

@@ -48,13 +48,9 @@
 [Category:EC_6.1](https://zh.wikipedia.org/wiki/Category:EC_6.1 "wikilink") [Category:蛋白质生物合成](https://zh.wikipedia.org/wiki/Category:蛋白质生物合成 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
-
 7.

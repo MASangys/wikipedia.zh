@@ -1108,7 +1108,7 @@ STUDIO DEEN另外還有事角色製作和授權管理，並專注於自家開發
 <td></td>
 </tr>
 <tr class="even">
-<td><p>為美好的世界獻上祝福！2</p></td>
+<td><p><a href="../Page/為美好的世界獻上祝福！.md" title="wikilink">為美好的世界獻上祝福！</a>2</p></td>
 <td></td>
 <td><p>小說</p></td>
 <td></td>
@@ -1245,30 +1245,30 @@ STUDIO DEEN另外還有事角色製作和授權管理，並專注於自家開發
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
-<td><p><strong>播出中</strong></p></td>
 <td><p>BAKUMATSU CRISIS</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>未定</p></td>
 <td><p><a href="../Page/胡蝶綺_～少年信長～.md" title="wikilink">胡蝶綺 ～少年信長～</a></p></td>
 <td></td>
 <td><p>原創</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p>2019年</p></td>
+<td><p>播放中</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/廚病激發Boy" title="wikilink">廚病激發Boy</a></p></td>
 <td></td>
 <td><p>小說</p></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/七大罪_(漫畫).md" title="wikilink">七大罪 諸神的逆鱗</a></p></td>
+<td><p><a href="../Page/七大罪_(漫畫).md" title="wikilink">七大罪 眾神的逆鱗</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td><p>第1～2期原由<a href="../Page/A-1_Pictures.md" title="wikilink">A-1 Pictures製作</a>。</p></td>
@@ -1294,7 +1294,7 @@ STUDIO DEEN另外還有事角色製作和授權管理，並專注於自家開發
 <tbody>
 <tr class="odd">
 <td><p>2020年</p></td>
-<td></td>
+<td><p>預定</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/魔術士歐菲" title="wikilink">-{zh-cn:魔术士欧菲;zh-tw:魔術士歐菲;zh-hk:魔法少年;}-迷途之旅</a></p></td>
 <td></td>
 <td><p>小說</p></td>
@@ -1634,6 +1634,13 @@ STUDIO DEEN另外還有事角色製作和授權管理，並專注於自家開發
 <td><p>遊戲</p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>2020年</p></td>
+<td><p><a href="../Page/美少女戰士Crystal.md" title="wikilink">劇場版 美少女戰士Eternal</a></p></td>
+<td></td>
+<td><p>漫畫</p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/東映動畫" title="wikilink">東映動畫共同製作</a>。</p></td>
 </tr>
 </tbody>
 </table>
@@ -2406,13 +2413,9 @@ STUDIO DEEN另外還有事角色製作和授權管理，並專注於自家開發
 1.
 2.
 3.  動畫人物CRIP：STUDIO DEEN社長「長谷川洋」，出自於《Animage》1989年3月號，[德間書店](../Page/德間書店.md "wikilink")，第182頁。
-
 4.
 5.
 6.  日本消防隊專用的標誌名稱。
-
 7.  [【】](http://www.deen.co.jp/company/hello). 株式會社STUDIO DEEN. \[2018-10-02\] .
-
 8.
-
 9.  負責3DCG製作。

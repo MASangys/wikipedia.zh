@@ -48,12 +48,6 @@
 
 ## 參考資料
 
-<div class="references-small">
-
-<references />
-
-</div>
-
 ## 內部連結
 
   - [Eee PC](https://zh.wikipedia.org/wiki/Eee_PC "wikilink")
@@ -62,6 +56,6 @@
 
   - [華碩電腦](http://tw.ASUS.com/)
 
-[Category:個人電腦](https://zh.wikipedia.org/wiki/Category:個人電腦 "wikilink") [Category:華碩產品](https://zh.wikipedia.org/wiki/Category:華碩產品 "wikilink")
+[Category:個人電腦](https://zh.wikipedia.org/wiki/Category:個人電腦 "wikilink") [Category:華碩桌上型電腦](https://zh.wikipedia.org/wiki/Category:華碩桌上型電腦 "wikilink")
 
 1.  [華碩電腦：Eee BOX數位生活大不同。](http://tw.ASUS.com/news_show.aspx?id=12295)

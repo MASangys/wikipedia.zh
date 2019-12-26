@@ -110,7 +110,7 @@
 ## 相關詞條
 
   - [日本歌謠曲](../Page/日本歌謠曲.md "wikilink")·[日本流行音樂](../Page/日本流行音樂.md "wikilink")·[新音樂](https://zh.wikipedia.org/wiki/日本流行音樂#.E6.96.B0.E9.9F.B3.E6.A8.82.EF.BC.881970.E5.B9.B4_-_1980.E5.B9.B4.EF.BC.89 "wikilink")·[流行樂](../Page/流行_\(音樂類型\).md "wikilink")
-  - [編曲](../Page/改編曲.md "wikilink")·[錄音室](https://zh.wikipedia.org/wiki/錄音室 "wikilink")·[音乐家](https://zh.wikipedia.org/wiki/音乐家 "wikilink")·[导演](https://zh.wikipedia.org/wiki/导演 "wikilink")·[唱片公司](../Page/唱片公司.md "wikilink")
+  - [編曲](../Page/改編曲.md "wikilink")·[錄音室](https://zh.wikipedia.org/wiki/錄音室 "wikilink")·[音乐家](https://zh.wikipedia.org/wiki/音乐家 "wikilink")·[导演](../Page/导演.md "wikilink")·[唱片公司](../Page/唱片公司.md "wikilink")
 
 ## 外部連接
 

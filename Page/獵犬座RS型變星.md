@@ -39,5 +39,4 @@ V.金牛座 V471型系統： 溫度較高的伴星是[白矮星](../Page/白矮�
 
 1.
 2.  [Berdyugina](https://zh.wikipedia.org/wiki/#Berdyugina "wikilink") [2.4 RS CVn stars](http://solarphysics.livingreviews.org/Articles/lrsp-2005-8/articlesu4.html#x9-60002.4)
-
 3.  [卡梅倫](https://zh.wikipedia.org/wiki/#Cameron "wikilink") [Eclipse movies](http://star-www.st-and.ac.uk/~acc4/coolpages/movies.html) showing spots in XY Ursae Majoris binary

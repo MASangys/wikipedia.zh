@@ -547,18 +547,11 @@ ISBN 978-4-80000-296-9<small>（限定版）</small></p></td>
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Mag_Garden](https://zh.wikipedia.org/wiki/Category:Mag_Garden "wikilink") [Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink") [Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink") [Category:2007年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2007年東京電視網動畫 "wikilink") [Category:福岡縣背景作品](https://zh.wikipedia.org/wiki/Category:福岡縣背景作品 "wikilink") [Category:HAL_FILM_MAKER](https://zh.wikipedia.org/wiki/Category:HAL_FILM_MAKER "wikilink") [Category:AT-X製作動畫](https://zh.wikipedia.org/wiki/Category:AT-X製作動畫 "wikilink")
 
 1.  『Sketch book Prefect workbook』，第94頁。
-
 2.  『Sketch book Prefect workbook』，第61頁。
-
 3.  單行本第4卷，第92頁。
-
 4.  《Sketch book Prefect workbook》，第41頁。
-
 5.  《Sketch book Prefect workbook》，第43頁。
-
 6.  單行本第2卷，第123頁。
-
 7.
 8.
-
 9.

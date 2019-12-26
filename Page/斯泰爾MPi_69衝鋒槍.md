@@ -1,4 +1,4 @@
-**斯泰爾MPi 69**（）是一款由[奧地利槍械製造商](https://zh.wikipedia.org/wiki/奧地利 "wikilink")所設計及生產的[冲锋枪](../Page/冲锋枪.md "wikilink")（[衝鋒手槍](../Page/全自動手槍.md "wikilink")），發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**斯泰爾MPi 69**（）是一款由[奧地利槍械製造商](https://zh.wikipedia.org/wiki/奧地利 "wikilink")所設計及生產的[冲锋枪](../Page/冲锋枪.md "wikilink")（[衝鋒手槍](../Page/全自動手槍.md "wikilink")），發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 设计特点
 
@@ -75,9 +75,8 @@
 
   - —[Civilian Gunner—Steyr MPi81](http://www.wargamehk.com/MPi81.htm)
 
-[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:衝鋒手槍](https://zh.wikipedia.org/wiki/Category:衝鋒手槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:包絡式槍機衝鋒槍](https://zh.wikipedia.org/wiki/Category:包絡式槍機衝鋒槍 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink")
+[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:衝鋒手槍](https://zh.wikipedia.org/wiki/Category:衝鋒手槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:包絡式槍機衝鋒槍](https://zh.wikipedia.org/wiki/Category:包絡式槍機衝鋒槍 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink") [Category:斯太尔武器](https://zh.wikipedia.org/wiki/Category:斯太尔武器 "wikilink")
 
 1.  Jones, Richard D. Jane's Infantry Weapons 2009/2010. Jane's Information Group; 35 edition (January 27, 2009). ISBN 978-0710628695.
-
 2.
 3.

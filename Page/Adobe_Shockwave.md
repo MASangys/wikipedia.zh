@@ -1,4 +1,4 @@
-**Adobe Shockwave**（前为Macromedia Shockwave） 是一個基於[網頁瀏覽器的多媒體平台](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，用於交互式應用程式和視頻遊戲。 它是Macromedia在[Flash之前最成功的](../Page/Adobe_Flash.md "wikilink")[多媒体播放器](https://zh.wikipedia.org/wiki/多媒体播放器 "wikilink")。它能将[Adobe Director制作的](../Page/Adobe_Director.md "wikilink")[应用程序](../Page/应用程序.md "wikilink")发布到[互联网](../Page/互联网.md "wikilink")上，被安装有Shockwave[插件](../Page/插件.md "wikilink")的[浏览器浏览](https://zh.wikipedia.org/wiki/浏览器 "wikilink")。Adobe Shockwave是一個基於瀏覽器的多媒體平台，用於交互式應用程序和視頻遊戲。
+**Adobe Shockwave**（前为Macromedia Shockwave）是一個基於[網頁瀏覽器的多媒體平台](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，用於交互式應用程式和視頻遊戲。它是Macromedia在[Flash之前最成功的](../Page/Adobe_Flash.md "wikilink")[多媒体播放器](https://zh.wikipedia.org/wiki/多媒体播放器 "wikilink")。它能将[Adobe Director制作的](../Page/Adobe_Director.md "wikilink")[应用程序](../Page/应用程序.md "wikilink")发布到[互联网](../Page/互联网.md "wikilink")上，被安装有Shockwave[插件](../Page/插件.md "wikilink")的[浏览器浏览](https://zh.wikipedia.org/wiki/浏览器 "wikilink")。Adobe Shockwave是一個基於瀏覽器的多媒體平台，用於交互式應用程序和視頻遊戲。
 
 自2019年4月9日起，Adobe Shockwave將停止營運，Windows的Shockwave播放器將不再可供下載。\[1\]
 
@@ -59,7 +59,7 @@ Macromedia还发布了一款在线查看[Macromedia FreeHand的插件名叫Macro
 
 ## 市场占有率
 
-根据[Adobe的数据](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")，Adobe Shockwave Player在52.3%的PC上安装。\[3\]
+根据[Adobe的数据](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")，截至2007年，Adobe Shockwave Player在52.3%的PC上安装。\[3\]
 
 ## 參考文獻
 

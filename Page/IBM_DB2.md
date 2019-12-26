@@ -92,7 +92,7 @@ IDUG是International DB2 Users Group的缩写，这是一个独立的、非盈�
   - [IBM DB2 Podcast Series](https://web.archive.org/web/20090124011113/http://www-01.ibm.com/software/data/db2/podcast/)
   - [IBM DB2 Support Forums](http://ibmmainframes.com/)
   - [IBM DB2 Training and Certification](http://www-01.ibm.com/software/data/education/)
-  - [DB2 Technical information and blog portal](http://www.db2portal.com/)
+  - [DB2 Technical information and blog portal](https://web.archive.org/web/20190201015310/http://www.db2portal.com/)
   - [DB2 Tutorial](https://web.archive.org/web/20090123174731/http://db2examples.googlepages.com/)
   - [DB2usa - Links to DB2 for z/OS documents available on the web](https://web.archive.org/web/20071122013129/http://db2usa2.free.fr/eliendb2.htm)
   - [IDUG, the International DB2 Users Group](https://web.archive.org/web/20081212022337/http://www.idug.org/wps/portal/idug)

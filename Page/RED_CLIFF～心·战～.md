@@ -54,4 +54,4 @@
 4.  **迷失的祝福**
       - 作词：[崔恕](https://zh.wikipedia.org/wiki/崔恕 "wikilink")　作曲：菊池一仁　编曲：[Kyoda Seiichi](https://zh.wikipedia.org/wiki/Kyoda_Seiichi "wikilink")
 
-[Category:2008年音乐专辑](https://zh.wikipedia.org/wiki/Category:2008年音乐专辑 "wikilink") [Category:中国歌曲](https://zh.wikipedia.org/wiki/Category:中国歌曲 "wikilink") [Category:Alan的歌曲](https://zh.wikipedia.org/wiki/Category:Alan的歌曲 "wikilink") [Category:2008年单曲](https://zh.wikipedia.org/wiki/Category:2008年单曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")
+[Category:2008年音乐专辑](https://zh.wikipedia.org/wiki/Category:2008年音乐专辑 "wikilink") [Category:Alan的歌曲](https://zh.wikipedia.org/wiki/Category:Alan的歌曲 "wikilink") [Category:2008年单曲](https://zh.wikipedia.org/wiki/Category:2008年单曲 "wikilink") [Category:流行歌曲](https://zh.wikipedia.org/wiki/Category:流行歌曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")

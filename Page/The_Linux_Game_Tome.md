@@ -17,8 +17,6 @@ Tessa Lau 在1995年创建了这个网站，她收集Sunsite的Linux游戏目录
 [Category:Linux網站](https://zh.wikipedia.org/wiki/Category:Linux網站 "wikilink") [Category:電子遊戲網站](https://zh.wikipedia.org/wiki/Category:電子遊戲網站 "wikilink") [Category:電子遊戲平台](https://zh.wikipedia.org/wiki/Category:電子遊戲平台 "wikilink")
 
 1.  [The Linux Game Tome: About The Linux Game Tome](http://www.happypenguin.org/about/)
-
 2.
 3.
-
 4.

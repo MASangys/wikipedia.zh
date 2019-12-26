@@ -157,6 +157,6 @@
 [Category:国际围棋比赛](https://zh.wikipedia.org/wiki/Category:国际围棋比赛 "wikilink")
 
 1.  韓國新人王戰1991年－2008，其中前五屆為新王戰，第六屆改制為新人王戰
-2.  [BC信用卡杯完成历史使命 中韩均有望推出新的世界大赛](http://weiqi.sports.tom.com/2013-02-17/00UP/34330748.html)
+2.
 3.  [14岁新锐收到春节大礼 李东勋获赠第4届BC信用卡杯外卡](http://post.weiqi.tom.com/s/250008F65512.html)
 4.  [BC卡杯孔杰牛雨田半目险胜 超新星PK芈昱廷淘汰朴廷桓](http://weiqi.sports.tom.com/2012-03-03/00UP/24060459.html)

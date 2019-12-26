@@ -18,8 +18,8 @@ Pitivi還有為數不少的義務開發者參加了PiTiVi的開發。
 ## 外部連結
 
   - [Pitivi Wiki](https://web.archive.org/web/20070220163941/http://pitivi.sourceforge.net/)
-  - [SourceForge: Pitivi](http://sourceforge.net/projects/PiTiVi/)
-  - [Collabora funds development of open source video editor PiTiVi](http://www.linux.com/feature/152464)
+  - [SourceForge: Pitivi](https://web.archive.org/web/20090309191529/http://sourceforge.net/projects/PiTiVi)
+  - [Collabora funds development of open source video editor PiTiVi](https://web.archive.org/web/20090303143156/http://www.linux.com/feature/152464)
 
 ## 參考資料
 

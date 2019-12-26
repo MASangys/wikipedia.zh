@@ -16,7 +16,7 @@
 <td><p><strong>高彥博</strong></p></td>
 <td><p><strong>Tim Sir、阿博、Tim</strong><br />
 高級化驗師<br />
-楊逸昇、汀汀、莫淑媛等之上司<br />
+楊逸昇、林汀汀、莫淑媛等之上司<br />
 林沛沛之舊情人<br />
 古澤琛之前姊夫<br />
 古澤瑤之前夫<br />
@@ -421,8 +421,13 @@
 <td><p><strong><a href="../Page/陳芷菁.md" title="wikilink">陳芷菁</a></strong></p></td>
 <td><p><strong>林沛沛</strong></p></td>
 <td><p>善終服務醫師<br />
+于第5集回香港参加林汀汀的丧礼<br />
+于第9集返回美国<br />
+于第30集再次回香港参加高彦博和梁小柔的婚礼<br />
 林汀汀之姊<br />
 高彥博之舊情人<br />
+古泽瑶之前同学及好友<br />
+古泽琛之好友<br />
 許立仁之妻</p></td>
 </tr>
 <tr class="even">
@@ -959,7 +964,7 @@ David Leung之顧客<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/林祐飛" title="wikilink">林祐飛</a></p></td>
 <td><p>何廣福</p></td>
 <td><p>消防隊員<br />
-身型健硕<br />
+身型健碩拥有巨大的胸肌<br />
 頭皮糠疹子患者<br />
 半年前救回張朱朱失敗，導致張耀忠患上PTSD<br />
 於第16集被張耀忠以刀割喉身亡</p></td>

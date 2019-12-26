@@ -56,7 +56,7 @@
   - 2017年12月22日－
   - 2018年5月25日－
   - 2019年2月28日－[SPIRAL\!\!](../Page/SPIRAL!!.md "wikilink")
-  - 未定－SHUFFLE\! episode2
+  - 2020年3月27日－SHUFFLE\! episode2
 
 <!-- end list -->
 
@@ -106,7 +106,7 @@
 
   - [Navel Official Website](http://www.project-navel.com/index.html)
 
-  - [Lime Official Website](http://www.project-lime.com/index.html)
+  - [Lime Official Website](https://web.archive.org/web/20081217235344/http://www.project-lime.com/index.html)
 
   - [Navel honeybell Official Website](https://web.archive.org/web/20150725073251/http://www.navel-honeybell.com/index.html)
 

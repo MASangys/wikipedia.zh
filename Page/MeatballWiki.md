@@ -30,16 +30,11 @@ MeatballWiki成员创建了一个由Wiki组成“巴士旅程”。\[9\]
 [Category:2000年建立的网站](https://zh.wikipedia.org/wiki/Category:2000年建立的网站 "wikilink") [Category:Wiki社群](https://zh.wikipedia.org/wiki/Category:Wiki社群 "wikilink")
 
 1.  Ebersbach, Anja; Glaser, Markus; Heigl, Richard; Warta, Alexander (2008). Wiki: Web Collaboration (2nd ed.). [施普林格科学+商业媒体](../Page/施普林格科学+商业媒体.md "wikilink"). p. 430. [ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink") [978-3-540-68173-1](https://zh.wikipedia.org/wiki/Special:BookSources/978-3-540-68173-1 "wikilink"). "a community that has reached cult status and that focuses on virtual communities, network culture and hypermedia"
-
 2.
-
 3.  [SunirShah, Thu Jul 12 02:51:11 2012](http://meatballwiki.org/wiki/RecentChanges).
-
 4.
-
 5.
 6.
 7.
 8.
-
 9.

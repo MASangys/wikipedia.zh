@@ -155,26 +155,18 @@
 ## 外部連結
 
   - [Alias Syndication Site](http://www.watchalias.com/)
-  - [Serial TV - Alias](http://www.serialtv.org/title/alias/)
+  - [Serial TV - Alias](https://web.archive.org/web/20090506093332/http://www.serialtv.org/title/alias)
   - [無綫電視明珠台](http://pearl.tvb.com/series/alias/)
 
 [Category:2000年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2000年代美國電視劇 "wikilink") [Category:2001年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2001年開播的美國電視影集 "wikilink") [Category:2006年停播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2006年停播的美國電視影集 "wikilink") [Category:间谍题材电视剧](https://zh.wikipedia.org/wiki/Category:间谍题材电视剧 "wikilink") [Category:美国动作电视剧](https://zh.wikipedia.org/wiki/Category:美国动作电视剧 "wikilink") [Category:美國廣播公司電視節目](https://zh.wikipedia.org/wiki/Category:美國廣播公司電視節目 "wikilink") [Category:坏机器人制片公司制作](https://zh.wikipedia.org/wiki/Category:坏机器人制片公司制作 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:福斯傳媒集團外購電視劇](https://zh.wikipedia.org/wiki/Category:福斯傳媒集團外購電視劇 "wikilink") [Category:索尼影業電視外購電視劇](https://zh.wikipedia.org/wiki/Category:索尼影業電視外購電視劇 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  [Viewership numbers of primetime programs during the 2004-05 television season](http://www.abcmedianet.com/pressrel/dispDNR.html?id=060204_11)
-
 6.
-
 7.
-
 8.
 9.
-
 10.

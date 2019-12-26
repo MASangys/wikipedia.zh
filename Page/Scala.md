@@ -4,9 +4,9 @@
 
 Scala运行于[Java平台](https://zh.wikipedia.org/wiki/Java平台 "wikilink")（[Java虚拟机](../Page/Java虚拟机.md "wikilink")），并兼容现有的[Java](../Page/Java.md "wikilink")程序。它也能运行于[CLDC](../Page/CLDC.md "wikilink")配置的[Java ME中](../Page/Java_ME.md "wikilink")。曾经有过另一[.NET平台的实现](https://zh.wikipedia.org/wiki/.NET "wikilink")\[2\]，不过该版本已被放弃。\[3\]
 
-Scala的编译模型（独立编译，动态类加载）与[Java](../Page/Java.md "wikilink")和[C\#一样](https://zh.wikipedia.org/wiki/C＃ "wikilink")，所以Scala代码可以调用Java類別庫（对于.NET实现则可调用.NET類別庫）。
+Scala的编译模型（独立编译，动态类加载）与[Java](../Page/Java.md "wikilink")和[C\#一样](https://zh.wikipedia.org/wiki/C＃ "wikilink")，所以Scala代码可以调用Java類別館（对于.NET实现则可调用.NET類別館）。
 
-Scala套件包括编译器和類別庫，以[BSD许可证](../Page/BSD许可证.md "wikilink")发布。\[4\]
+Scala套件包括编译器和類別館，以[BSD许可证](../Page/BSD许可证.md "wikilink")发布。\[4\]
 
 ## 历史
 
@@ -173,29 +173,18 @@ Actor模式可以简化并发编程，好利用多核CPU的能力。
 
 1.
 2.
-
 3.  <https://github.com/scala/scala/pull/1718>
-
 4.  <http://www.scala-lang.org/node/146>
-
 5.  Martin Odersky, ["A Brief History of Scala"](http://www.artima.com/weblogs/viewpost.jsp?thread=163733), Artima.com weblogs, June 9, 2006
-
 6.
 7.
 8.
 9.  Martin Odersky, "The Scala Language Specification Version 2.7"
-
 10.
 11. [Scala 2.8 Preview](http://www.scala-lang.org/node/1564)
-
 12.
-
 13.
-
 14. <http://drdobbs.com/article/print?articleId=231001802&siteSectionName=>
-
 15. <https://tech.coursera.org/blog/2014/02/18/why-we-love-scala-at-coursera/>
-
 16. [Tail calls, @tailrec and trampolines](http://blog.richdougherty.com/2009/04/tail-calls-tailrec-and-trampolines.html)
-
 17. <http://zh.scala-tour.com/#/using-actor>

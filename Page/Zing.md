@@ -52,7 +52,7 @@
 
   - [An article on thanhnien about Zing Chat](http://www.thanhniennews.com/education/?catid=4&newsid=33540)
   - [Zing introduction](http://www.zing.vn/zing/aboutZingE.aspx)
-  - [Zing Angels](http://www.pcworld.com.vn/pcworld/pconline.asp?t=pcolarticle&arid=8531)
+  - [Zing Angels](https://web.archive.org/web/20080316021041/http://www.pcworld.com.vn/pcworld/pconline.asp?t=pcolarticle&arid=8531)
   - [An interview of Muctim with Zing Project Manager](https://web.archive.org/web/20080311115258/http://muctim.com.vn/Vietnam/Van-hoa-Nghe-thuat/Giai-tri/2007/11-1/15306/)
   - [Zing introduction on Tuoitre Online](http://www.tuoitre.com.vn/Tianyon/Index.aspx?ChannelID=16&ArticleID=238019)
   - [An article on Zing Chat on Hoahoctro.com.vn](https://web.archive.org/web/20080212085640/http://www.hoahoctro.vn/nhipsong/8994.hht)

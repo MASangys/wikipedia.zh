@@ -166,17 +166,11 @@ Auto-5在[第一次世界大战](../Page/第一次世界大战.md "wikilink")至
 [Category:半自動霰彈槍](https://zh.wikipedia.org/wiki/Category:半自動霰彈槍 "wikilink") [Category:美國霰彈槍](https://zh.wikipedia.org/wiki/Category:美國霰彈槍 "wikilink") [Category:比利時一戰武器](https://zh.wikipedia.org/wiki/Category:比利時一戰武器 "wikilink") [Category:美國一戰武器](https://zh.wikipedia.org/wiki/Category:美國一戰武器 "wikilink") [Category:美國二戰武器](https://zh.wikipedia.org/wiki/Category:美國二戰武器 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink") [Category:約翰·勃朗寧](https://zh.wikipedia.org/wiki/Category:約翰·勃朗寧 "wikilink") [Category:二战步兵武器](https://zh.wikipedia.org/wiki/Category:二战步兵武器 "wikilink") [Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink") [Category:雷明登槍械](https://zh.wikipedia.org/wiki/Category:雷明登槍械 "wikilink")
 
 1.  Harold Murtz. *Gun Digest Treasury*（DBI Books, 1994）, p.194
-
 2.  Murtz, *ibid.*, pp.193-4
-
 3.
 4.  [Firearm Model History - Remington Model 11](http://www.remington.com/library/history/firearm_models/shotguns/model_11.asp)
-
 5.
 6.
-
 7.  Phillips, John Neal. ["Bonnie & Clyde's Revenge on Eastham."](http://www.historynet.com/bonnie-clydes-revenge-on-eastham.htm) *American History* on HistoryNet.com. 12 June 2006.
-
 8.  [Barrow weapons](http://texashideout.tripod.com/guns.html)
-
 9.  [CRIMINAL BUSINESS－John Herbert Dillinger](http://criminalbusiness.tumblr.com/tagged/john%20dillinger)

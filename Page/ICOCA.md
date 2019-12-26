@@ -14,11 +14,11 @@ ICOCA的名稱源於IC Operating CArd的簡稱，音近日語中的[近畿方言
 
 ### 可以使用的區間
 
-  - ICOCA發行事業者的區間
+  - ICOCA發行事業者的區間，JR西日本內兩站乘車距離於200公里內可以使用ICOCA，亦可以跨區使用，例如京阪神地區與廣島地區可以互相使用，不需購買實體車票。
       - [西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）
   - [大阪環狀線](../Page/大阪環狀線.md "wikilink")
   - [櫻島線](../Page/櫻島線.md "wikilink")（JR夢咲線）
-  - [東海道本線](../Page/東海道本線.md "wikilink")（[琵琶湖線](../Page/琵琶湖線.md "wikilink")、[JR京都線](https://zh.wikipedia.org/wiki/JR京都線 "wikilink")、[JR神戶線](../Page/JR神戶線.md "wikilink")）：[米原站](https://zh.wikipedia.org/wiki/米原站 "wikilink") - [京都站](https://zh.wikipedia.org/wiki/京都站 "wikilink") - [神戶站](../Page/神戶站_\(兵庫縣\).md "wikilink")
+  - [東海道本線](../Page/東海道本線.md "wikilink")（[琵琶湖線](../Page/琵琶湖線.md "wikilink")、[JR京都線](https://zh.wikipedia.org/wiki/JR京都線 "wikilink")、[JR神戶線](../Page/JR神戶線.md "wikilink")）：[米原站](../Page/米原站.md "wikilink") - [京都站](https://zh.wikipedia.org/wiki/京都站 "wikilink") - [神戶站](../Page/神戶站_\(兵庫縣\).md "wikilink")
   - [北陸本線](../Page/北陸本線.md "wikilink")（琵琶湖線）：米原站 - [近江鹽津站](https://zh.wikipedia.org/wiki/近江鹽津站 "wikilink")
   - [山陽本線](../Page/山陽本線.md "wikilink")（JR神戶線、[和田岬線](../Page/和田岬線.md "wikilink")）：神戶站 - [相生站](https://zh.wikipedia.org/wiki/相生站_\(兵庫縣\) "wikilink")、[兵庫站](https://zh.wikipedia.org/wiki/兵庫站 "wikilink") - [和田岬站](../Page/和田岬站.md "wikilink")
   - [福知山線](../Page/福知山線.md "wikilink")（JR宝塚線）：[尼崎站](../Page/尼崎站_\(JR西日本\).md "wikilink") - [篠山口站](../Page/篠山口站.md "wikilink")

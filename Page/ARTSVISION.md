@@ -789,22 +789,13 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
 [Category:ARTSVISION集團](https://zh.wikipedia.org/wiki/Category:ARTSVISION集團 "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:1984年成立的公司](https://zh.wikipedia.org/wiki/Category:1984年成立的公司 "wikilink")
 
 1.
-
 2.
 3.  松田咲實「第1章 優史 設立」《聲優白書》，，第32頁，2000年3月15日 ISBN 4-87278-564-9
-
 4.  [](http://www.youtube.com/watch?v=AXh0D9M_m9c). [YouTube](../Page/YouTube.md "wikilink"). \[2018-12-31\] .
-
 5.  [当声优先过"潜规则"！ArtsVision声优事务所社长被控猥亵少女](http://www.pcgames.com.cn/cartoon/news/guowainews/0705/897955.html) ，太平洋遊戲網
-
 6.  [恋声迷AV社前集体抗议,"猥亵门"波澜又起](http://www.pcgames.com.cn/cartoon/news/guowainews/0706/899710.html) ，太平洋遊戲網
-
 7.  [田村博客言清白，堀江脱社正名节-猥亵门后续报道](http://www.pcgames.com.cn/cartoon/news/guowainews/0706/901726.html) ，太平洋遊戲網
-
 8.
-
 9.
-
 10.
-
 11. 添田哲郎「」《》2007年12月號，第106－111頁。

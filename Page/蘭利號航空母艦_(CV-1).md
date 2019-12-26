@@ -1,4 +1,4 @@
-**蘭利號**（）為[美国海军第一艘](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[航空母艦](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")，由運煤艦**朱比特號**（USS Jupiter AC-3 \[1\]）改裝而成，為美國海軍航空兵力的先驅。1936年退役，改裝為水上機母艦，並改編號為AV-3。[太平洋戰爭爆發後美軍用該艦運補飛機](https://zh.wikipedia.org/wiki/太平洋戰爭 "wikilink")，1942年2月27日在載運[P-40驅逐機至](../Page/P-40戰鷹戰鬥機.md "wikilink")[爪哇時](https://zh.wikipedia.org/wiki/爪哇 "wikilink")，被日機攻擊而重創，棄船後由護航的驅逐艦擊沉。
+**蘭利號**（）為[美国海军第一艘](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[航空母艦](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")，由運煤艦**朱比特號**（USS Jupiter AC-3 \[1\]）改裝而成，為美國海軍航空兵力的先驅。1936年退役，改裝為水上機母艦，並改編號為AV-3。[太平洋戰爭爆發後美軍用該艦運補飛機](https://zh.wikipedia.org/wiki/太平洋戰爭 "wikilink")，1942年2月27日在載運[P-40戰鬥機至](../Page/P-40戰鷹戰鬥機.md "wikilink")[爪哇時](https://zh.wikipedia.org/wiki/爪哇 "wikilink")，被日機攻擊而重創，棄船後由護航的驅逐艦擊沉。
 
 ## 運煤艦
 
@@ -24,7 +24,7 @@
 
 [日本](../Page/日本.md "wikilink")[突襲珍珠港時](https://zh.wikipedia.org/wiki/突襲珍珠港 "wikilink")，蘭利號正泊碇在[菲律賓的](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[甲米地](https://zh.wikipedia.org/wiki/甲米地 "wikilink")。日軍進攻菲律賓時，蘭利號先撤退至荷屬東印度的[巴厘巴板](../Page/巴厘巴板.md "wikilink")港，再撤到[澳洲的](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[達爾文港](https://zh.wikipedia.org/wiki/達爾文港 "wikilink")，並成為[美国-英国-荷兰-澳大利亚司令部的海上武力之一](https://zh.wikipedia.org/wiki/美国-英国-荷兰-澳大利亚司令部 "wikilink")。蘭利號先協助澳洲皇家空軍的反潛巡邏任務，之後前往[西澳的](https://zh.wikipedia.org/wiki/西澳大利亞州 "wikilink")[費利曼圖港](https://zh.wikipedia.org/wiki/費利曼圖 "wikilink")，搭載33名陸軍航空隊飛行員，與32架已組裝完成，屬於第49驅逐大隊的P-40驅逐機，2月22日出發前往爪哇島的芝拉扎港（Tjilatjap）。另一艘貨輪海洋瞭望號（Sea Watch）則搭載其它27架未組裝的P-40，跟蘭利號一同出發。
 
-[USS_Langley_(AV-3)_being_abandoned_south_of_Java_on_27_February_1942_(NH_92472).jpg](https://zh.wikipedia.org/wiki/File:USS_Langley_\(AV-3\)_being_abandoned_south_of_Java_on_27_February_1942_\(NH_92472\).jpg "fig:USS_Langley_(AV-3)_being_abandoned_south_of_Java_on_27_February_1942_(NH_92472).jpg") 蘭利號原本的命令是在2月28日清晨進入港口，這樣可以在夜色的掩護下前進，並避開日本飛機的可能的攻擊。但由於日本的攻擊部隊已經接近爪哇，於是ABDA的海軍指揮官，也是爪哇地區的指揮官，荷蘭籍海軍中將康拉德·海費瑞奇（Conrad E. L. Helfrich），於2月23日要求蘭利號盡速將飛機運抵芝拉扎港。但由於燃油問題使得蘭利號的航速只有10節，加上聯繫問題，讓蘭利號在27日凌晨改變方向去與護航船隻會合，使得蘭利號需要在27日的白天駛進爪哇港。27日上午9:00左右被日機發現，蘭利號艦長羅伯特·麥克康奈爾（Robert P. McConnell）中校曾提出空中掩護的要求，但並無回音。中午11:40，在離芝拉扎港南方120公里處，蘭利號遭到9架[一式陸攻機的攻擊](../Page/一式陸上攻擊機.md "wikilink")，她被擊中五次以及兩個近接彈，造成16人陣亡，並引發無法撲滅的大火。蘭利號在下午13:32分發出棄船命令，護航的兩艘驅逐艦把乘員救起後，以火砲與魚雷將蘭利號擊沉 \[3\]。
+[USS_Langley_(AV-3)_being_abandoned_south_of_Java_on_27_February_1942_(NH_92472).jpg](https://zh.wikipedia.org/wiki/File:USS_Langley_\(AV-3\)_being_abandoned_south_of_Java_on_27_February_1942_\(NH_92472\).jpg "fig:USS_Langley_(AV-3)_being_abandoned_south_of_Java_on_27_February_1942_(NH_92472).jpg") 蘭利號原本的命令是在2月28日清晨進入港口，這樣可以在夜色的掩護下前進，並避開日本飛機的可能的攻擊。但由於日本的攻擊部隊已經接近爪哇，於是ABDA的海軍指揮官，也是爪哇地區的指揮官，荷蘭籍海軍中將康拉德·海費瑞奇（Conrad E. L. Helfrich），於2月23日要求蘭利號盡速將飛機運抵芝拉扎港。但由於燃油問題使得蘭利號的航速只有10節，加上聯繫問題，讓蘭利號在27日凌晨改變方向去與護航船隻會合，使得蘭利號需要在27日的白天駛進爪哇港。27日上午9:00左右被日機發現，蘭利號艦長羅伯特·麥克康奈爾（Robert P. McConnell）中校曾提出空中掩護的要求，但並無回音。中午11:40，在離芝拉扎港南方120公里處，蘭利號遭到9架[一式陸攻機的攻擊](../Page/一式陸上攻擊機.md "wikilink")，她被擊中五次以及兩個近接彈，造成16人陣亡，並引發大火。由於火勢一發不可收拾並傾斜了10度，由於動力系統泡水停擺且吃水過深，蘭利號被判斷無法抵達[爪哇芝扎拉港](https://zh.wikipedia.org/wiki/爪哇 "wikilink")，蘭利號在下午13:32分發出棄船命令，為了避免其落入日本海軍手中護航的兩艘驅逐艦把乘員救起後，一共以九發4英寸炮彈與兩枚魚雷將蘭利號擊沉 \[3\]。
 
 為紀念蘭利號的戰損，美軍將[一艘建造中的獨立級航空母艦更名為蘭利號](https://zh.wikipedia.org/wiki/蘭利號航空母艦_\(CVL-27\) "wikilink")。新蘭利號在1943年5月22日下水，同年8月31日服役，並參與多場反攻戰役。
 
@@ -45,7 +45,7 @@
   - [USS LANGLEY (CV-1)](http://www.navsource.org/archives/02/01.htm)-Navsource
   - [LANGLEY](http://www.hazegray.org/danfs/auxil/ac3.htm)-Dictionary of American Fighting Ships, Vol. IV,. pp. 45-47
 
-[Category:美國海軍航空母艦](https://zh.wikipedia.org/wiki/Category:美國海軍航空母艦 "wikilink") [Category:1913年竣工的船只](https://zh.wikipedia.org/wiki/Category:1913年竣工的船只 "wikilink") [Category:1912年下水](https://zh.wikipedia.org/wiki/Category:1912年下水 "wikilink")
+[Category:美國海軍航空母艦](https://zh.wikipedia.org/wiki/Category:美國海軍航空母艦 "wikilink") [Category:1912年下水](https://zh.wikipedia.org/wiki/Category:1912年下水 "wikilink")
 
 1.  或譯為木星號，但美軍擁有編號的16艘運煤船都是以希臘／羅馬神話的神祇命名，因此以音譯為朱比特號。
 2.  據說奧維爾·萊特因此事對美國政府大表不滿，並引發兩造之間的對立。後來美國海軍的確將一艘輕航艦命名為萊特號（USS Wright，CVL-49），但時間已是1944年。

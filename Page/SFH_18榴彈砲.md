@@ -71,12 +71,8 @@
 [Category:德國火炮](https://zh.wikipedia.org/wiki/Category:德國火炮 "wikilink") [Category:榴弹炮](https://zh.wikipedia.org/wiki/Category:榴弹炮 "wikilink") [Category:中華民國火砲](https://zh.wikipedia.org/wiki/Category:中華民國火砲 "wikilink") [Category:抗戰時期中國武器](https://zh.wikipedia.org/wiki/Category:抗戰時期中國武器 "wikilink")
 
 1.  抗戰時期陸軍武器裝備野戰砲兵篇，頁68
-
 2.  [Haubitzen und Mörser](http://www.lexikon-der-wehrmacht.de/Waffen/haubitzen-R.htm)
-
 3.
 4.  [150mm sFH 18 L / 30](http://www.tarrif.net/cgi/production/all_artillery_adv.php?op=show_art&artilleryZ=11)
-
 5.  二戰火砲大觀，頁61
-
 6.  滕昕雲，抗戰時期陸軍武器裝備野戰砲兵篇62\~68頁，軍事文粹，ISBN 957-30497-9-1

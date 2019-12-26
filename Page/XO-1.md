@@ -176,21 +176,13 @@ OLPC 笔记本使用的是特殊的 [LCD](../Page/液晶显示器.md "wikilink")
 [Category:筆記型電腦](https://zh.wikipedia.org/wiki/Category:筆記型電腦 "wikilink") [Category:Netbook](https://zh.wikipedia.org/wiki/Category:Netbook "wikilink") [Category:美國組織](https://zh.wikipedia.org/wiki/Category:美國組織 "wikilink") [Category:非营利组织](https://zh.wikipedia.org/wiki/Category:非营利组织 "wikilink")
 
 1.  {{ cite web | url = <http://wiki.laptop.org/go/Our_software#What_software_will_be_used_with_the_.24100_laptop.3F> | title = OLPC's Software | publisher = One Laptop Per Child | accessdate = 2006-01-27 }}
-
 2.
 3.  [One million OLPC laptop orders confirmed](http://www.itworld.com/Tech/2987/070215olpc/)
-
 4.  {{ cite web|url=<http://digital50.com/news/items/BW/2001/07/14/20070112005706/one-laptop-per-child-has-no-plans-to-commercialize-xo-computer.html> |title=One Laptop per Child Has No Plans to Commercialize XO Computer |publisher=Business Wire |accessdate=2007-01-16 |deadurl=yes |archiveurl=<https://web.archive.org/web/20070120091352/http://digital50.com/news/items/BW/2001/07/14/20070112005706/one-laptop-per-child-has-no-plans-to-commercialize-xo-computer.html> |archivedate=2007-01-20 }}
-
 5.  {{ cite web | url = <http://arstechnica.com/news.ars/post/20070329-olpc-xo-manufacturer-to-sell-budget-portables-in-developed-countries.html> | title = OLPC manufacturer to sell $200 laptop | publisher = Arstechnica | accessdate = 2007-03-29 }}
-
 6.  {{ cite web | url = <http://lwn.net/Articles/188060/> | title = Interview: Jim Gettys (Part I)|publisher = LWN.net|date = June 28, 2006 | accessdate = }}
-
 7.
 8.  Microsoft looking to run Windows on OLPC, VNUnet, <https://web.archive.org/web/20070927195019/http://www.vnunet.com/vnunet/news/2170209/microsoft-looking-windows-olpc>
-
 9.
-
 10. [For $150, Third-World Laptop Stirs Big Debate](http://www.nytimes.com/2006/11/30/technology/30laptop.html). *The New York Times*, 30 November 2006.
-
 11. [Display — OLPC](http://wiki.laptop.org/go/Display)

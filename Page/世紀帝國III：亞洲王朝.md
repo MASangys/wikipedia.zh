@@ -100,36 +100,26 @@
 [Category:世紀帝國系列](https://zh.wikipedia.org/wiki/Category:世紀帝國系列 "wikilink") [Category:Games_for_Windows认证游戏](https://zh.wikipedia.org/wiki/Category:Games_for_Windows认证游戏 "wikilink") [Category:微軟遊戲](https://zh.wikipedia.org/wiki/Category:微軟遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink") [Category:使用Havok的電子遊戲](https://zh.wikipedia.org/wiki/Category:使用Havok的電子遊戲 "wikilink") [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:官方中文化游戏](https://zh.wikipedia.org/wiki/Category:官方中文化游戏 "wikilink") [Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink")
 
 1.  [The Asian Dynasties親自動手](http://www.gamespot.com/pc/strategy/ageofempiresiiitheasiandynasties/news.html?sid=6178080&om_act=convert&om_clk=multimodule&tag=multimodule;picks;title;8), Gamespot
-
 2.  [FAQ](http://aoe3.heavengames.com/dyn/faq), Heaven Games
-
 3.  [新戰役](http://www.ageofempires3.com/asiandynasties/campaigns.html)
-
 4.
 5.
 6.
 7.
 8.  [英雄與壞人](http://www.ageofempires3.com/asiandynasties/heroesandvillians.html)
-
 9.
 10.
 11.
 12. [遊戲模式](http://www.ageofempires3.com/asiandynasties/gamemodes.html)
-
 13.
 14.
 15.
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
 23.
 24.

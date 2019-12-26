@@ -424,7 +424,7 @@
 
 <!-- end list -->
 
-  - **奈古絲**〔ナイグス/ Nygus〕（聲：日本：[野田順子](https://zh.wikipedia.org/wiki/野田順子 "wikilink")；臺灣：[陶敏嫻](../Page/陶敏嫻.md "wikilink")；香港：[林芷筠](../Page/林芷筠.md "wikilink")）
+  - **奈古絲**〔ナイグス/ Nygus〕（聲：日本：[野田順子](../Page/野田順子.md "wikilink")；臺灣：[陶敏嫻](../Page/陶敏嫻.md "wikilink")；香港：[林芷筠](../Page/林芷筠.md "wikilink")）
 
 <!-- end list -->
 

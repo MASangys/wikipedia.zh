@@ -4,7 +4,7 @@
 
 .WAV 與.AIFF 都是被微軟作業系統、[麥金塔](../Page/麥金塔.md "wikilink")作業系統、[Linux](../Page/Linux.md "wikilink")作業系統所相容的，需要特別注意的是，WAV檔案與無損檔案是不完全相同的，WAV檔案只是不去對原有檔案去做壓縮。
 
-如果原始檔案是無損的，那不能稱WAV就是無損檔案。若是將有損壓縮的檔案（例如: [mp3檔](https://zh.wikipedia.org/wiki/mp3 "wikilink"))轉成WAV檔，那麼WAV檔案也只是忠實地呈現有損檔案而已。
+如果原始檔案是無損的，那能稱WAV就是無損檔案。若是將有損壓縮的檔案（例如: [mp3檔](https://zh.wikipedia.org/wiki/mp3 "wikilink"))轉成WAV檔，那麼WAV檔案也只是忠實地呈現有損檔案而已。
 
 製作WAV檔時，會有一個取樣頻率，根據[取樣定理](https://zh.wikipedia.org/wiki/取樣定理 "wikilink")，若此取樣頻率低於信号最高频率的两倍时，那麼超過此最大頻率的頻段，將會產生[混疊](../Page/混疊.md "wikilink")的情況，使原始訊號受到汙染，亦不能稱此WAV檔就是無損檔案。
 

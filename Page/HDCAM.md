@@ -24,18 +24,10 @@ Sony亦發表了HDCAM SR的高壓縮版本"**SR Lite**"\[5\]。和440 Mbit/s及8
 
 ## 參考文獻
 
-<div class="references-small" >
-
-<references />
-
-</div>
-
 [Category:影像儲存](https://zh.wikipedia.org/wiki/Category:影像儲存 "wikilink")
 
 1.
-
 2.  [Sony HDCAM SR FAQ](http://www.sonybiz.net/biz/view/ShowContent.action?site=biz_en_GB&contentId=1164903089736&parentFlexibleHub=1169220709744)
-
 3.
 4.
 5.

@@ -26,7 +26,7 @@ Joe Kwok（408號）：
   - 2010年，與中國大陸[樂視網簽訂版權協議獨家代理](https://zh.wikipedia.org/wiki/樂視網 "wikilink")。同年擴大規模網站改版。
   - 2011年，加入新主持人：（[小麥](https://zh.wikipedia.org/wiki/小麥 "wikilink")）。同年與中國大陸樂視網續約，並開始主持[網易](https://zh.wikipedia.org/wiki/網易 "wikilink")、土豆網等中國大陸三大車展活動。
   - 2012年，與YouTube成為合作夥伴，與[8891新車網站簽訂影片合作合約](https://zh.wikipedia.org/wiki/8891新車網 "wikilink")。主持人小麥因個人之生涯規劃而退出。
-  - 2013年，《Go車誌》預計將發行影音光碟。與中國大陸[新浪](../Page/新浪.md "wikilink")汽車頻道合作發展中國大陸事業。7月，由於報導[速霸陸汽車](../Page/速霸陸汽車.md "wikilink")的內裝因使用環保材質與消費者造成糾紛的情形\[2\]，遭到速霸陸台灣總代理[台灣意美汽車](../Page/台灣意美汽車.md "wikilink")暫時封殺\[3\]。YouTube影片點閱突破4,000萬、訂閱戶突破10萬，Facebook粉絲數突破8萬。
+  - 2013年，《Go車誌》預計將發行影音光碟。與中國大陸[新浪](../Page/新浪.md "wikilink")汽車頻道合作發展中國大陸事業。7月，由於報導[速霸陸汽車](../Page/速霸陸汽車.md "wikilink")的內裝因使用環保材質與消費者造成糾紛的情形\[2\]，遭到速霸陸台灣總代理[台灣意美汽車](../Page/台灣意美汽車.md "wikilink")暫時封殺\[3\]。YouTube影片點閱突破4,000萬、訂閱戶突破50萬，Facebook粉絲數突破23萬。
   - 2014年，，並邀請中國大陸新浪汽車主持人來台一同試駕與介紹[納智捷新推出的休旅車款](https://zh.wikipedia.org/wiki/納智捷 "wikilink")，也讓來自中國大陸的汽車節目主持人見識到台灣的工業實力與文化特色。由於為許多消費者因[福特汽車](https://zh.wikipedia.org/wiki/福特汽車 "wikilink")、[Volvo車款之PowerShift變速箱漏油事件與速霸陸Forester休旅車之引擎瑕疵問題發聲](https://zh.wikipedia.org/wiki/Volvo "wikilink")，而讓更多人開始重視其車廠之妥善率問題與車輛安全之問題，也被尊稱為「台灣車界的守護神」。7月7日，GO車誌成立滿七周年\[4\]。未來將由嘉偉william與新任主持人兼GO車誌GP車隊車手（[蔡維傑](https://zh.wikipedia.org/wiki/蔡維傑 "wikilink")）為觀眾講解試駕新車。
   - 2015年，Go車誌Youtube頻道點擊率破億大關，其多年成功的案例，開始讓台灣其他汽車媒體也逐漸從平面轉往影音發展。
 
@@ -41,7 +41,7 @@ Joe Kwok（408號）：
   - [Go車誌GP車隊](https://www.facebook.com/buycartvracing?fref=ts)於Facebook
   - [Go車誌嘉偉](https://www.facebook.com/buycartvwilliam?fref=ts)於Facebook
 
-[Category:台灣電視節目](https://zh.wikipedia.org/wiki/Category:台灣電視節目 "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:民視電視節目](https://zh.wikipedia.org/wiki/Category:民視電視節目 "wikilink")
+[Category:台灣電視節目](https://zh.wikipedia.org/wiki/Category:台灣電視節目 "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:民視電視節目](https://zh.wikipedia.org/wiki/Category:民視電視節目 "wikilink") [Category:汽车电视节目](https://zh.wikipedia.org/wiki/Category:汽车电视节目 "wikilink")
 
 1.
 2.

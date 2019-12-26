@@ -146,76 +146,40 @@ Windows 7的第一測試版「Milestone 1（M1）」發現，根據TG Diary所�
 ## 外部連結
 
 1.
-
 2.  [Microsoft pushes back Blackcomb to 2005](http://www.wininsider.com/news/?226)
-
 3.  [.Net Server: Three delays a charm?](http://news.cnet.com/2100-1001-966174.html)
-
 4.
-
 5.
-
 6.  [Blackcomb被命名為「Vienna」](http://www.microsoft-watch.com/article2/0,2180,1912945,00.asp)
-
 7.  [Windows 7預計三年後上市](http://taiwan.cnet.com/news/software/0,2000064574,20121187,00.htm)
-
 8.
-
 9.
-
 10.
-
 11. <http://withinwindows.com/img/6519_superbar.png>
-
 12.
-
 13. [ThinkNext.net: Screenshots from a blogger with Windows 7 M1](http://www.thinknext.net/archives/2150)
-
 14. [TG Daily: Windows 7 M1: Nothing to get excited about](http://www.tgdaily.com/content/view/35936/140/)
-
 15.
-
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28. <http://www.cnbeta.com/articles/75626.htm>
-
 29.
-
 30.
-
 31. <http://www.neowin.net/news/main/09/05/28/windows-7-build-7137-leaked>
-
 32. <http://www.neowin.net/news/main/09/06/03/windows-7-build-7201-leaks>
-
 33.
-
 34.
-
 35. <http://it.hexun.com/2009-02-20/114740301.html> Windows 7 Build7048不存在RC版仍需等待
-
 36. <http://news.mydrivers.com/1/132/132178.htm> Windows 7 Build 7106泄漏
-
 37. <http://news.mydrivers.com/1/133/133294.htm> Windows 7 RC Build 7100镜像泄漏
-
 38. <http://news.mydrivers.com/1/133/133300.htm> Windows XP Mode

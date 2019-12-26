@@ -1,8 +1,6 @@
 **libjpeg**是一个完全用[C语言编写的处理](https://zh.wikipedia.org/wiki/C语言 "wikilink")[JPEG](../Page/JPEG.md "wikilink")图像数据格式的自由[函式庫](../Page/函式庫.md "wikilink")。它包含一个JPEG[编解码器](../Page/编解码器.md "wikilink")的算法实现，以及用于处理JPEG数据的多种实用程序。
 
-该套软件采用[C语言编写](https://zh.wikipedia.org/wiki/C语言 "wikilink")，并分发为附有[源代码](../Page/源代码.md "wikilink")的[自由软件](../Page/自由软件.md "wikilink")，采用自定义的[宽松](../Page/寬鬆自由軟體授權條款.md "wikilink")（[类BSD](../Page/BSD许可证.md "wikilink")）自由软件许可证，权利要求为。
-
-原始变体由独立JPEG工作组（IJG）维护和发布。此外，也有数个提供额外特性的[复刻](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")。
+该套软件采用[C语言编写](https://zh.wikipedia.org/wiki/C语言 "wikilink")，并分发为附有[源代码](../Page/源代码.md "wikilink")的[自由软件](../Page/自由软件.md "wikilink")，采用自定义的[宽松](../Page/寬鬆自由軟體授權條款.md "wikilink")（[类BSD](../Page/BSD许可证.md "wikilink")）自由软件许可证，权利要求为。原始版本由独立JPEG工作组（IJG）维护和发布。此外，也有数个提供额外特性的[分叉（Fork）](https://zh.wikipedia.org/wiki/分叉_\(软件开发\) "wikilink")。
 
 JPEG [JFIF图像在](../Page/JPEG文件交换格式.md "wikilink")[万维网](../Page/万维网.md "wikilink")上被广泛使用。它可以调整压缩量级以实现文件大小与视觉质量之间的期望与权衡。\[1\]
 
@@ -46,24 +44,7 @@ JPEG [JFIF图像在](../Page/JPEG文件交换格式.md "wikilink")[万维网](..
 
 版本6于到来，支持渐进JPEG和第一版jpegtran实用程序。
 
-From version 6b of libjpeg of , Miyasaka Masaru forked a branch named *libjpeg/SIMD*, which included x86 SIMD optimisations. It got substantial contributions from the TigerVNC and the VirtualGL projects in 2009. On that basis the libjpeg-turbo project was created in 2010.\[7\]
-
-After 11 years and a change in leadership, the IJG released new versions of libjpeg (7 through 9), of which each broke ABI compatibility with previous versions.\[8\] The changes that were held in prospect after the 6x series were not delivered.\[9\] In version 7, support for [算术编码](../Page/算术编码.md "wikilink") was introduced, which earlier has been rejected because of the [patent](https://zh.wikipedia.org/wiki/软件专利 "wikilink") situation, as well as the crop feature in jpegtran (`-crop`).\[10\]
-
-Versions 8 and 9 served basically for the introduction of controversial\[11\] incompatible format extensions. These are widely regarded as ineffective and inferior to existing, standardised solutions.\[12\]\[13\] Their standardisation was rejected after submission to the [國際電信聯盟電信標準化部門](../Page/國際電信聯盟電信標準化部門.md "wikilink"). The original organiser Tom Lane and others talk about a break in the goals of the IJG.
-
-On , the first version of the filesize-optimising fork *mozjpeg* was published. For this version Josh Aas from Mozilla Research reworked the [Perl](../Page/Perl.md "wikilink") script *jpegcrush* from [X264](../Page/X264.md "wikilink")'s main developer Loren Merritt and integrated it into the code base of libjpeg-turbo.\[14\]
-
-On , Mozilla released version 2.0, which mainly added trellis quantisation and is now able to reduce the size of baseline JPEGs also. [Facebook](../Page/Facebook.md "wikilink"), Inc. donated  for the development of the next version,\[15\] and [CloudFlare](../Page/CloudFlare.md "wikilink") assigned a developer for the improvement of mozjpeg.\[16\]
-
 ### 摘要
-
-There are currently two conditions that trigger a major version bump of the JPEG library:
-
-1.  New types of files can be created that are not compatible with prior releases.
-2.  Changes in the master records that break the binary compatibility (usually addition of entries for new functions).
-
-In all major upgrades since v6 both conditions came together, while the source compatibility (API) could largely be retained.
 
 <table>
 <thead>
@@ -87,27 +68,25 @@ ISO/IEC IS 10918-1</p></td>
 <td><p>算术编码支持</p></td>
 <td><p>scale_num/scale_denom for<br />
 compression (encoding) ...</p></td>
-<td><p>ITU-T JPEG-Plus Proposal ...[17]</p></td>
+<td><p>ITU-T JPEG-Plus Proposal ...[7]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>SmartScale<br />
 （可变块大小）</p></td>
 <td><p>block_size/lim_Se etc.</p></td>
-<td><p>Evolution of JPEG[18]</p></td>
+<td><p>Evolution of JPEG[8]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>内部颜色转换<br />
 （FF F8 LSE扩展标记）</p></td>
 <td><p>color_transform</p></td>
-<td><p>JPEG 9 Lossless Coding[19]<br />
-<a href="http://www.infai.org/jpeg/">InfAI JPEG Development Site</a>[20]</p></td>
+<td><p>JPEG 9 Lossless Coding[9]<br />
+<a href="http://www.infai.org/jpeg/">InfAI JPEG Development Site</a>[10]</p></td>
 </tr>
 </tbody>
 </table>
-
-For version 7 both conditions were different subjects (arith_code entry already existed), other versions are same subject.
 
 ### 时间线
 
@@ -143,19 +122,19 @@ TextData =
 
 ## 复刻
 
-比较著名的复刻是libjpeg-turbo，它优化了执行的速度；还有mozjpeg，它的优化目标是更小的文件大小。除了这些以外，还有一个出自[國際標準化組織](../Page/國際標準化組織.md "wikilink")（ISO）的libjpeg，其目的是所有JPEG 1标准的完整实现。\[21\]
+比较著名的复刻是libjpeg-turbo，它优化了执行的速度；还有mozjpeg，它的优化目标是更小的文件大小。除了这些以外，还有一个出自[國際標準化組織](../Page/國際標準化組織.md "wikilink")（ISO）的libjpeg，其目的是所有JPEG 1标准的完整实现。\[11\]
 
 ### libjpeg-turbo
 
-libjpeg-turbo是libjpeg的一个[复刻](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")，它采用[单指令流多数据流](https://zh.wikipedia.org/wiki/单指令流多数据流 "wikilink")（SIMD）[指令来加速JPEG编码和解码基础效率](../Page/指令集架構.md "wikilink")。许多项目现在使用libjpeg-turbo而不是libjpeg，包括流行的GNU/Linux发行版（[Fedora](../Page/Fedora.md "wikilink")、[Debian](../Page/Debian.md "wikilink")、[Mageia](../Page/Mageia.md "wikilink")、[OpenSUSE](../Page/OpenSUSE.md "wikilink")等）、[Mozilla](../Page/Mozilla.md "wikilink")和[Chrome](../Page/Google_Chrome.md "wikilink")。\[22\]\[23\]\[24\]除了性能方面，部分项目也因它允许向后保留与旧的libjpeg v6b版本的[ABI兼容性而选择使用libjpeg](../Page/应用二进制接口.md "wikilink")-turbo。\[25\]libjpeg v7、v8和v9已打破与早期版本的ABI兼容性。\[26\]
+libjpeg-turbo是libjpeg的一个[复刻](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")，它采用[单指令流多数据流](https://zh.wikipedia.org/wiki/单指令流多数据流 "wikilink")（SIMD）[指令来加速JPEG编码和解码基础效率](../Page/指令集架構.md "wikilink")。许多项目现在使用libjpeg-turbo而不是libjpeg，包括流行的GNU/Linux发行版（[Fedora](../Page/Fedora.md "wikilink")、[Debian](../Page/Debian.md "wikilink")、[Mageia](../Page/Mageia.md "wikilink")、[OpenSUSE](../Page/OpenSUSE.md "wikilink")等）、[Mozilla](../Page/Mozilla.md "wikilink")和[Chrome](../Page/Google_Chrome.md "wikilink")。\[12\]\[13\]\[14\]除了性能方面，部分项目也因它允许向后保留与旧的libjpeg v6b版本的[ABI兼容性而选择使用libjpeg](../Page/应用二进制接口.md "wikilink")-turbo。\[15\]libjpeg v7、v8和v9已打破与早期版本的ABI兼容性。\[16\]
 
-libjpeg-turbo可以配置为与libjpeg v7或v8 ABI兼容，但，但它并没有实现IJG近期发布的完整的功能集，包括SmartScale格式的扩展名。\[27\]libjpeg-turbo项目已选择不支持SmartScale， citing concerns regarding the fact that it is not an [國際電信聯盟電信標準化部門](../Page/國際電信聯盟電信標準化部門.md "wikilink")标准和，并引用自己的研究质疑功能的实用性。By extension, since the only major new feature in libjpeg v9 is specific to the SmartScale format, the libjpeg-turbo Project has chosen to forgo emulating libjpeg v9.\[28\]因此，通过libjpeg v8和之后版本创建的SmartScale文件将不能被libjpeg-turbo正确解压。
+libjpeg-turbo可以配置为与libjpeg v7或v8 ABI兼容，但，但它并没有实现IJG近期发布的完整的功能集，包括SmartScale格式的扩展名。\[17\]\[18\]因此，通过libjpeg v8和之后版本创建的SmartScale文件将不能被libjpeg-turbo正确解压。
 
 ### mozjpeg
 
-mozjpeg是由Josh Aas和其他Mozilla Research人员完成的libjpeg-turbo的一个复刻。它旨在通过减少文件大小（约10%）来加快网页的加载时间，以及在不改变图像质量的前提下提高编码效率。为达到此目的，它在编码（不对称）方面使用更多处理能力，同时保持与JPEG标准的完全兼容性，不需要在解码器侧做任何改变。
+mozjpeg是由Josh Aas和其他Mozilla Research人员完成的libjpeg-turbo的一个复刻。它旨在通过减少文件大小（约10%）来加快网页的加载时间，以及在不改变图像质量的前提下提高编码效率。为达到此目的，它在编码（不对称）方面使用更多处理能力，同时保持与JPEG标准的完全兼容性，不需要在解码器侧做任何改变。它实际通过优化[霍夫曼编码](../Page/霍夫曼编码.md "wikilink")树完成。
 
-它实际通过优化[霍夫曼编码](../Page/霍夫曼编码.md "wikilink")树完成，using progressive coding with optimised splitting of the spectrum of DCT coefficients into separate scans and through the use of . Additionally, the presets are aggressively tuned towards the minimisation of file sizes. 除了libjpeg-turbo，mozjpeg版本也建立在jpegcrush之上，这是Loren Merritt编写的一个[Perl](../Page/Perl.md "wikilink")脚本。\[29\]\[30\]
+除了libjpeg-turbo，mozjpeg版本也建立在jpegcrush之上，这是Loren Merritt编写的一个[Perl](../Page/Perl.md "wikilink")脚本。\[19\]\[20\]
 
 ## 参见
 
@@ -184,38 +163,22 @@ mozjpeg是由Josh Aas和其他Mozilla Research人员完成的libjpeg-turbo的一
 [Category:C函式庫](https://zh.wikipedia.org/wiki/Category:C函式庫 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink") [Category:繪圖函式庫](https://zh.wikipedia.org/wiki/Category:繪圖函式庫 "wikilink")
 
 1.  [JPEG JFIF](http://www.w3.org/Graphics/JPEG/)
-
 2.
 3.
 4.
 5.
 6.
-7.
-8.
-9.
-10.
-11.
+7.  Contributed document - Word .doc file: [ITU-T JPEG-Plus Proposal R3](http://jpegclub.org/temp/ITU-T-JPEG-Plus-Proposal_R3.doc)
+8.  Contributed document - Word .doc file: [Evolution of JPEG](http://jpegclub.org/temp/Evolution_of_JPEG.doc)
+9.  Contributed document - Word .doc file: [JPEG 9 Lossless Coding](http://jpegclub.org/temp/JPEG_9_Lossless_Coding.doc)
+10. News c't magazine 2012 issue 18 page 43, [Software Links](http://www.heise.de/ct/12/18/links/043.shtml)
+11. <https://github.com/thorfdbg/libjpeg>
 12.
 13.
 14.
 15.
 16.
-17. Contributed document - Word .doc file: [ITU-T JPEG-Plus Proposal R3](http://jpegclub.org/temp/ITU-T-JPEG-Plus-Proposal_R3.doc)
-
-18. Contributed document - Word .doc file: [Evolution of JPEG](http://jpegclub.org/temp/Evolution_of_JPEG.doc)
-
-19. Contributed document - Word .doc file: [JPEG 9 Lossless Coding](http://jpegclub.org/temp/JPEG_9_Lossless_Coding.doc)
-
-20. News c't magazine 2012 issue 18 page 43, [Software Links](http://www.heise.de/ct/12/18/links/043.shtml)
-
-21. <https://github.com/thorfdbg/libjpeg>
-
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
+17.
+18.
+19.
+20.

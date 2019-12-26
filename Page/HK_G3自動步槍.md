@@ -4,9 +4,9 @@
 
 [第二次世界大战](../Page/第二次世界大战.md "wikilink")末期，德國的毛瑟公司設計了一款[滾輪延遲反沖式的步槍Gerät](https://zh.wikipedia.org/wiki/反沖作用_\(槍械\)#滾輪延遲反沖 "wikilink") 06(H)，並在1944年獲得了陸軍統帥部三十支樣槍的訂單並正式命名為[StG45](../Page/StG45突擊步槍.md "wikilink")，不過才快要完成零件生產，[二戰便結束了](https://zh.wikipedia.org/wiki/二戰 "wikilink")，毛瑟公司的一些員工被拘留於[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")，並被[英國人命令完成製造這一小批武器供](https://zh.wikipedia.org/wiki/英國 "wikilink")[同盟國研究](https://zh.wikipedia.org/wiki/同盟國 "wikilink")。
 
-由於二戰後頭幾年德國不被允許進行武器研發，滾輪延遲反沖式閉鎖槍機的發明者[路德維希·福爾格里姆勒以及一群曾參與StG](https://zh.wikipedia.org/wiki/路德維希·福爾格里姆勒 "wikilink")45設計的工程師先被帶往[法國進行研發](https://zh.wikipedia.org/wiki/法國 "wikilink")，1950年時又被帶到了[西班牙](../Page/西班牙.md "wikilink")的[特種材料技術研究中心](https://zh.wikipedia.org/wiki/特種材料技術研究中心 "wikilink")，加入了一個研發新型槍械的專家小組，一開始西班牙方面並不信任他，不過在他的才能顯露出來之後，很快就改變態度，並批准了由他所負責的新槍研發專案，新槍很快地被製造出來，並取名為[CETME步槍](../Page/CETME自動步槍.md "wikilink")（CETME是西班牙特種材料技術研究中心的縮寫），並試驗多種口徑包括與StG45相同的7.92×33mm Kurz彈、具有創新設計的7.92×41mm CETME M53步槍彈（有時稱為7.92×40mm），最終採用7.92×40mm縮小後的7.62×40mm CETME M53彈。
+由於二戰後頭幾年西德不被允許進行武器研發，滾輪延遲反沖式閉鎖槍機的發明者[路德維希·福爾格里姆勒以及一群曾參與StG](https://zh.wikipedia.org/wiki/路德維希·福爾格里姆勒 "wikilink")45設計的工程師先被帶往[法國進行研發](https://zh.wikipedia.org/wiki/法國 "wikilink")，1950年時又被帶到了[西班牙](../Page/西班牙.md "wikilink")的[特種材料技術研究中心](https://zh.wikipedia.org/wiki/特種材料技術研究中心 "wikilink")，加入了一個研發新型槍械的專家小組，一開始西班牙方面並不信任他，不過在他的才能顯露出來之後，很快就改變態度，並批准了由他所負責的新槍研發專案，新槍很快地被製造出來，並取名為[CETME步槍](../Page/CETME自動步槍.md "wikilink")（CETME是西班牙特種材料技術研究中心的縮寫），並試驗多種口徑包括與StG45相同的7.92×33mm Kurz彈、具有創新設計的7.92×41mm CETME M53步槍彈（有時稱為7.92×40mm），最終採用7.92×40mm縮小後的7.62×40mm CETME M53彈。
 
-由於美國的壓力1954年北約正式選定7.62×51mm NATO作為標準彈藥，CETME計畫放棄了其所研發的其他彈藥將步槍改為發射7.62×51mm口徑子彈，這時候，[西德](../Page/西德.md "wikilink")正好需要新槍來裝備新组建的军隊，1956年西德原本選定[FN FAL並給予編號G](../Page/FN_FAL自動步槍.md "wikilink")1作為新的制式步槍，但由於包括比利時不願意出售相關設計讓德國可以自主生產以及聯邦國防軍（Bundeswehr）在此決定後才組建創立等因素，西德放棄原本的計畫重新進行招標測試，CETME步槍（G3）的競爭對手包含瑞士的[SIG SG 510](../Page/SIG_SG_510自動步槍.md "wikilink")（G2）以及美國的[AR-10](https://zh.wikipedia.org/wiki/AR-10 "wikilink")（G4），訂購了400支使用7.62×51mm NATO的CETME步槍進行測試，這些測試用步槍在測試過程中被[黑克勒-科赫公司根據需求逐步修改](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")，最後在1959年聯邦國防軍正式採納CETME步槍改進版的方案，原本西班牙也和比利時相同也不願出售相關設計圖，但德國找上具有CETME步槍海外（西班牙外）銷售權的荷蘭軍火公司Nederlandse Wapen en Munitiefabriek（NWM）以向其簽訂購買空軍20MM彈藥合約作為交換獲得CETME設計圖，這些設計圖被交付由西德的[黑克勒-科赫公司生產](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")，於是路德維希·福爾格里姆勒隨著CETME步槍回到了西德，[黑克勒-科赫將CETME根據測試部隊的意見進行改進](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")，改進後的步槍就是現在的黑克勒-科赫G3自動步槍。\[1\]
+由於美國的壓力1954年北約正式選定7.62×51mm NATO作為標準彈藥，CETME計畫放棄了其所研發的其他彈藥將步槍改為發射7.62×51mm口徑子彈，這時候，[西德](../Page/西德.md "wikilink")正好需要新槍來裝備新组建的军隊，1956年西德原本選定[FN FAL並給予編號G](../Page/FN_FAL自動步槍.md "wikilink")1作為新的制式步槍，但由於包括比利時不願意出售相關設計讓西德可以自主生產以及聯邦國防軍（Bundeswehr）在此決定後才組建創立等因素，西德放棄原本的計畫重新進行招標測試，CETME步槍（G3）的競爭對手包含瑞士的[SIG SG 510](../Page/SIG_SG_510自動步槍.md "wikilink")（G2）以及美國的[AR-10](https://zh.wikipedia.org/wiki/AR-10 "wikilink")（G4），訂購了400支使用7.62×51mm NATO的CETME步槍進行測試，這些測試用步槍在測試過程中被[黑克勒-科赫公司根據需求逐步修改](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")，最後在1959年聯邦國防軍正式採納CETME步槍改進版的方案，原本西班牙也和比利時相同也不願出售相關設計圖，但西德找上具有CETME步槍海外（西班牙外）銷售權的荷蘭軍火公司Nederlandse Wapen en Munitiefabriek（NWM）以向其簽訂購買空軍20毫米彈藥合約作為交換獲得CETME設計圖，這些設計圖被交付由西德的[黑克勒-科赫公司生產](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")，於是路德維希·福爾格里姆勒隨著CETME步槍回到了西德，[黑克勒-科赫將CETME根據測試部隊的意見進行改進](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")，改進後的步槍就是現在的黑克勒-科赫G3自動步槍。\[1\]
 
 HK G3有很高的精度，这是它结构的优点，缺点是射速慢和全自動射擊時後座力大。经过半个世纪，G3成为了最普遍，最通用的自动步枪之一，数量和[FN FAL自動步槍相差无几](../Page/FN_FAL自動步槍.md "wikilink")。
 
@@ -20,7 +20,7 @@ G3自動步槍是一種以[滾輪延遲反沖式機制運作的](https://zh.wiki
 
 G3的[槍管](../Page/槍管.md "wikilink")為多邊形[膛線](../Page/膛線.md "wikilink")設計，上面的開槽式消焰器能夠讓用戶裝上[刺刀](../Page/刺刀.md "wikilink")及發射[22毫米](../Page/22毫米槍榴彈.md "wikilink")[槍榴彈](https://zh.wikipedia.org/wiki/槍榴彈 "wikilink")。其槍膛為凹槽式設計，這樣可令拋殼動作更順暢。供彈具為一個鋼製（260克）或鋁製（140克）的20發雙排式[彈匣](../Page/彈匣.md "wikilink")，另有50發[彈鼓可供選擇](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")。
 
-G3連槍提供的標準配件包括：一具可拆式[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")（不提供予配備穿穴塑膠[護木的G](https://zh.wikipedia.org/wiki/護木 "wikilink")3）、槍帶、清潔套件和快速裝填器。該武器還可裝上的配件包括：刺刀、[HK79下掛式榴彈發射器及空包彈發射器等](https://zh.wikipedia.org/wiki/HK79榴彈發射器 "wikilink")。
+G3連槍提供的標準配件包括：一具可拆式[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")（不提供予配備穿孔式塑膠[護木的G](https://zh.wikipedia.org/wiki/護木 "wikilink")3）、槍帶、清潔套件和快速裝填器。該武器還可裝上的配件包括：刺刀、[HK79下掛式榴彈發射器及空包彈發射器等](https://zh.wikipedia.org/wiki/HK79榴彈發射器 "wikilink")。
 
 該步槍為一種模組化武器系統，其[槍托](../Page/槍托.md "wikilink")、護木和火控組能夠更換成不同的規格以滿足不同需求。
 
@@ -89,7 +89,7 @@ G3步槍在1959年被西德联邦国防军正式裝備，在1997年被[HK G36突
 
       - [英國武裝部隊](https://zh.wikipedia.org/wiki/英國軍事 "wikilink")（G3KA4命名為L100A1、[MC-51](../Page/MC-51卡賓槍.md "wikilink")）
       - [英國特種部隊](https://zh.wikipedia.org/wiki/英國特種部隊 "wikilink")（G3KA4、[G3SG/1及](https://zh.wikipedia.org/wiki/HK_G3SG/1狙擊步槍 "wikilink")[MC-51](../Page/MC-51卡賓槍.md "wikilink")）
-      - [倫敦警察廳](../Page/倫敦警察廳.md "wikilink")[專業槍械司令部](../Page/專業槍械司令部.md "wikilink")（G3KS）
+      - [倫敦都市警部](../Page/倫敦警察廳.md "wikilink")[特種槍械司令部](https://zh.wikipedia.org/wiki/特種槍械司令部 "wikilink")（G3KS）
 
   - —除原廠版本外，葡萄牙亦曾把生產線賣給美國一家槍械製造廠，其後該廠推出半自動民用型（類似[HK91](https://zh.wikipedia.org/wiki/HK91半自動步槍 "wikilink")）及執法部門型。
 
@@ -219,7 +219,6 @@ G3步槍在1959年被西德联邦国防军正式裝備，在1997年被[HK G36突
 
       - [瑞典國防軍](../Page/瑞典國防軍.md "wikilink")（目前正被[Ak 5所取代](../Page/Ak_5突擊步槍.md "wikilink")）
 
-  -
   -
   -
   -
@@ -445,5 +444,5 @@ SD（代表「消聲」）型號：
 [Category:黑克勒-科赫](https://zh.wikipedia.org/wiki/Category:黑克勒-科赫 "wikilink") [Category:自动步枪](https://zh.wikipedia.org/wiki/Category:自动步枪 "wikilink") [Category:戰鬥步槍](https://zh.wikipedia.org/wiki/Category:戰鬥步槍 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:反衝式槍械](https://zh.wikipedia.org/wiki/Category:反衝式槍械 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink") [Category:HK_G3衍生槍](https://zh.wikipedia.org/wiki/Category:HK_G3衍生槍 "wikilink")
 
 1.
-2.  <http://www.mkek.gov.tr/english/main.aspx>
+2.
 3.  [diomil.ir-DIO G3圖片](http://www.diomil.ir/images/product/Original/aig/assault1g3.jpg)

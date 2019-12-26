@@ -12,7 +12,7 @@
 
 ## 知名作品
 
-  - 資料參考來源： [週刊VOCALOIDランキング](http://www.geocities.jp/vocaran_link/)
+  - 資料參考來源： [週刊VOCALOIDランキング](https://web.archive.org/web/20101123054148/http://www.geocities.jp/vocaran_link/)
 
   - ：2008年2月21日上載的原創曲，至2010年10月26日觀看次數超過133萬。
 

@@ -72,7 +72,7 @@ RGSS方便的特性在於：變更文字的大小、變更選單畫面、或更�
 
 ## 外部連結
 
-  - [RPG Maker XP官方網站](http://tkool.jp/)
+  - [RPG Maker XP官方網站](https://web.archive.org/web/20110624000425/http://tkool.jp/)
   - [Ruby語言官方網站](http://www.ruby-lang.org/)
 
 [Category:電腦小作品](https://zh.wikipedia.org/wiki/Category:電腦小作品 "wikilink") [Category:腳本語言](https://zh.wikipedia.org/wiki/Category:腳本語言 "wikilink") [Category:RPG製作大師](https://zh.wikipedia.org/wiki/Category:RPG製作大師 "wikilink") [Category:Ruby](https://zh.wikipedia.org/wiki/Category:Ruby "wikilink")

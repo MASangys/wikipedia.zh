@@ -9,7 +9,7 @@
   - 若有纬度信息，**必须**提供经度信息，反之亦然
   - 所有的值都**应该**有相同位数的小数点后数值，包括后缀的0
 
-注：**必须**和**应该**是[IETF文件](https://zh.wikipedia.org/wiki/IETF "wikilink")[RFC 2119](http://www.ietf.org/rfc/rfc2119.txt)中使用的术语
+注：**必须**和**应该**是[IETF文件](https://zh.wikipedia.org/wiki/IETF "wikilink")[RFC 2119](https://web.archive.org/web/20081206203611/http://www.ietf.org/rfc/rfc2119.txt)中使用的术语
 
 有两种方法可以将普通的（X）HTML转换成Geo微格式：
 

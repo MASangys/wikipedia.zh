@@ -2,7 +2,7 @@
 
 ## 特性
 
-和[Ruby on Rails类似](../Page/Ruby_on_Rails.md "wikilink")，CodeIgniter允许用户使用[Active Record作为](../Page/Active_Record.md "wikilink")[数据库](../Page/数据库.md "wikilink")的接口，并鼓励使用[模型-视图-控制器的](https://zh.wikipedia.org/wiki/模型-视图-控制器 "wikilink")[架构模式](../Page/架构模式.md "wikilink")。
+和[Ruby on Rails类似](../Page/Ruby_on_Rails.md "wikilink")，CodeIgniter允许用户使用[Active Record作为](../Page/Active_Record.md "wikilink")[数据库](../Page/数据库.md "wikilink")的接口，并鼓励使用[模型-视图-控制器](https://zh.wikipedia.org/wiki/模型-视图-控制器 "wikilink")（MVC）的[架构模式](../Page/架构模式.md "wikilink")。
 
   - 基于[MVC](../Page/MVC.md "wikilink")体系
   - 超[轻量级](../Page/轻量级.md "wikilink")

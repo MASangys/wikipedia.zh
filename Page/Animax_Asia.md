@@ -18,6 +18,8 @@ Animax台灣頻道由「美商超躍股份有限公司」（AXN Taiwan-One, LLC.
 
 2019年4月開始，Animax台灣接連在[中華電信MOD](../Page/中華電信MOD.md "wikilink")、HamiVideo、歡樂看Faintv等知名IPTV和OTT平台推出隨選視訊服務。
 
+2019年11月4日起，Animax台灣頻道有線台開始在部分有線電視系統陸續升級為HD高畫質播出。
+
 ### 東南亞
 
 在台灣與香港陸續開台一週後，Animax正式於2004年1月19日於[東南亞開台](https://zh.wikipedia.org/wiki/東南亞 "wikilink")，最初的放送型態主要為[日語原音播放配合](https://zh.wikipedia.org/wiki/日語 "wikilink")[英文字幕播出](https://zh.wikipedia.org/wiki/英文 "wikilink")，為Animax第一個英文電視頻道\[11\]；稍後並導入了[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[配音](../Page/配音.md "wikilink")廣播。\[12\][馬來西亞之Animax頻道則於](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")2006年8月31日開播，主要使用東南亞版本的英語配音，亦使用[日語原音搭配當地語言字幕](https://zh.wikipedia.org/wiki/日語 "wikilink")。該頻道於早期於東南亞的節目包含諸如[Chobits](../Page/Chobits.md "wikilink")、[庫洛魔法使](https://zh.wikipedia.org/wiki/庫洛魔法使 "wikilink")、[麻辣教師GTO](https://zh.wikipedia.org/wiki/麻辣教師GTO "wikilink")、[灰羽連盟](../Page/灰羽連盟.md "wikilink")、[天才醫生俏護士](https://zh.wikipedia.org/wiki/天才醫生俏護士 "wikilink")、[聖天空戰記](../Page/聖天空戰記.md "wikilink")、[美鳥伴身邊](https://zh.wikipedia.org/wiki/美鳥伴身邊 "wikilink")、[足球小將翼](https://zh.wikipedia.org/wiki/足球小將翼 "wikilink")、[狼雨](../Page/狼雨.md "wikilink")、[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")、[星際牛仔](../Page/星際牛仔.md "wikilink")、[攻殼機動隊 STAND ALONE COMPLEX](../Page/攻殼機動隊_STAND_ALONE_COMPLEX.md "wikilink")\[13\]，後來更播出了如[Fate/stay night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")、[血戰](../Page/血戰.md "wikilink")、[蜂蜜幸運草](https://zh.wikipedia.org/wiki/蜂蜜幸運草 "wikilink")、[瑪莉亞的凝望](https://zh.wikipedia.org/wiki/瑪莉亞的凝望 "wikilink")、[巖窟王](../Page/巖窟王.md "wikilink")、[御伽草子](https://zh.wikipedia.org/wiki/御伽草子 "wikilink")、[地獄少女](https://zh.wikipedia.org/wiki/地獄少女 "wikilink")、[銀河天使](../Page/銀河天使.md "wikilink")、[禁獵魔女](../Page/禁獵魔女.md "wikilink")、[七武士](../Page/七武士_\(動畫\).md "wikilink")、[神槍少女](../Page/神槍少女.md "wikilink")、[福星小子](../Page/福星小子.md "wikilink")、[亂馬1/2等系列節目](https://zh.wikipedia.org/wiki/亂馬1/2 "wikilink")\[14\]。
@@ -180,55 +182,33 @@ Animax香港開台時，可愛動畫區塊到後來於星期一至五日間時�
 [Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink") [Category:国际媒体](https://zh.wikipedia.org/wiki/Category:国际媒体 "wikilink") [Category:台灣電視播放頻道](https://zh.wikipedia.org/wiki/Category:台灣電視播放頻道 "wikilink") [Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:索尼影視電視公司](https://zh.wikipedia.org/wiki/Category:索尼影視電視公司 "wikilink")
 
 1.  [Sony Pictures Entertainment to Launch Animax Asia](http://www.animenewsnetwork.com/pressrelease.php?id=124), Press Release, SPE, 2003年10月29日, [Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink").
-
 2.
-
 3.  [Animax2月1日LOGO要換回來上一代的台徽](http://forum.gamer.com.tw/C.php?page=1&bsn=60037&snA=50836)
-
 4.  [NCC](http://www.ncc.gov.tw/chinese/files/13012/68_27554_130122_1.pdf)
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
 12.
 13.
 14.
 15.
 16.
-
 17.
-
 18.
-
 19.
-
 20.
 21.
-
 22.
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.

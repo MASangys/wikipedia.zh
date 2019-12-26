@@ -269,9 +269,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td><p>2020</p></td>
+<td><p>La Résistance</p></td>
+<td><p>抵抗運動</p></td>
+<td><p>未定</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -530,55 +530,30 @@
 [Category:瑞典電子遊戲公司](https://zh.wikipedia.org/wiki/Category:瑞典電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink") [Category:1999年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1999年開業電子遊戲公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.  [Paradox Interactive listing attracts Tencent as fan and long-term investor | Paradox Interactive - Global Games Publisher](https://www.paradoxinteractive.com/en/paradox-interactive-listing-attracts-tencent-as-fan-and-long-term-investor/?cuid=499D7225FAF45F5C19BC56D51C62EA72&urlrefer=238e5a123e8e69f2a42acc16bf5e10de)
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.  Paradox Interactive|accessdate=2018-05-29|work=www.paradoxplaza.com|language=en}}
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21. [Crusader Kings II](https://www.paradoxplaza.com/crusader-kings-2), Paradox Plaza
-
 22.
-
 23. [Ship Simulator Extremes Listing](http://www.paradoxplaza.com/games/ship-simulator-extremes) , Paradox Plaza
-
 24. [The King's Crusade](https://www.paradoxplaza.com/the-kings-crusade), Paradox Plaza
-
 25.
 26.
-
 27.
 28.

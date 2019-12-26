@@ -592,9 +592,9 @@
 
 ## 雙打
 
-  - 最多冠的球員: 伍德布里奇([Todd Woodbridge](https://zh.wikipedia.org/wiki/托德·伍德布里奇 "wikilink")) (澳大利亞), 83冠。
-  - 最多冠的搭擋: 伍德布里奇([Todd Woodbridge](https://zh.wikipedia.org/wiki/托德·伍德布里奇 "wikilink"))和伍德福德(:en:Mark Woodforde|Mark Woodforde) (澳大利亞), 61冠。參見。
-  - 最多大滿貫冠軍球員: 伍德布里奇([Todd Woodbridge](https://zh.wikipedia.org/wiki/托德·伍德布里奇 "wikilink")) (澳大利亞), 16次。
-  - 最多大滿貫冠軍的搭擋: 伍德布里奇([Todd Woodbridge](https://zh.wikipedia.org/wiki/托德·伍德布里奇 "wikilink"))和伍德福德([Mark Woodforde](../Page/馬克·伍德福德.md "wikilink")) (澳大利亞), 11次。
+  - 最多冠的球員: 伍德布里奇([Todd Woodbridge](../Page/托德·伍德布里奇.md "wikilink")) (澳大利亞), 83冠。
+  - 最多冠的搭擋: 伍德布里奇([Todd Woodbridge](../Page/托德·伍德布里奇.md "wikilink"))和伍德福德(:en:Mark Woodforde|Mark Woodforde) (澳大利亞), 61冠。參見。
+  - 最多大滿貫冠軍球員: 伍德布里奇([Todd Woodbridge](../Page/托德·伍德布里奇.md "wikilink")) (澳大利亞), 16次。
+  - 最多大滿貫冠軍的搭擋: 伍德布里奇([Todd Woodbridge](../Page/托德·伍德布里奇.md "wikilink"))和伍德福德([Mark Woodforde](../Page/馬克·伍德福德.md "wikilink")) (澳大利亞), 11次。
 
 [Category:網球紀錄及統計數據](https://zh.wikipedia.org/wiki/Category:網球紀錄及統計數據 "wikilink")

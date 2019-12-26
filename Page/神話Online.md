@@ -18,6 +18,7 @@
 
   - [全球版官方網站](https://web.archive.org/web/20120227104051/http://www.returnofwarrior.com/index.asp)
   - [中國大陸官方網站](https://web.archive.org/web/20120127172855/http://row.ledoware.com/)
+  - [台灣官方網站](http://www.rowplayon.com.tw/Page/tw/main.jsp)
 
 [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:2001年电子游戏](https://zh.wikipedia.org/wiki/Category:2001年电子游戏 "wikilink")
 

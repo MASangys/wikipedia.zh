@@ -56,6 +56,8 @@ ufotable是由出身於[Telecom Animation Film](https://zh.wikipedia.org/wiki/Te
   - 劇場版 [Fate/stay night \[Heaven's Feel](https://zh.wikipedia.org/wiki/Fate/stay_night_Heaven's_Feel "wikilink")\] 全三章（2017年－）
       - 第1章 presage flower（2017年）
       - 第2章 lost butterfly（2019年）
+      - 第3章 spring song（2020年）
+  - [鬼滅之刃 無限列車篇](../Page/鬼滅之刃.md "wikilink")（2020年）
 
 ### 协助制作动画
 

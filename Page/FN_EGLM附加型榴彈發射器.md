@@ -54,13 +54,15 @@ FN40GL比與美國著名的[M203系統的槍管前推打開膛室方式有著數
 
   -   - [比利時國防軍](../Page/比利時國防軍.md "wikilink")
 
-  -   - 特種部隊單位
+  -   - [塞浦路斯國民警衛隊特種部隊單位](https://zh.wikipedia.org/wiki/塞浦路斯國民警衛隊 "wikilink")
 
   -   - [芬蘭國防軍](../Page/芬蘭國防軍.md "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")單位
 
   -   - [格魯吉亞武裝部隊](https://zh.wikipedia.org/wiki/格魯吉亞軍 "wikilink")
 
   -   - [利比亞國民軍](https://zh.wikipedia.org/wiki/利比亞國民軍 "wikilink")（GL-1）
+
+  -   - 特種部隊單位
 
   -   - [波蘭武裝部隊](../Page/波蘭軍事.md "wikilink")[行動應變及機動組](../Page/行動應變及機動組.md "wikilink")
 
@@ -114,8 +116,9 @@ FN EGLM榴彈發射器系列同時出現在少數[电影](../Page/电影.md "wik
   - 2012年—《[-{zh:火線獵殺：未來戰士; zh-hans:幽灵行动：未来战士; zh-tw:火線獵殺：未來戰士;}-](../Page/火線獵殺：未來戰士.md "wikilink")》：型號為FN40GL，命名為「Mk40GL」。具有獨立式榴彈發射器樣式或槍管下掛樣式，可以發射[煙霧彈](https://zh.wikipedia.org/wiki/煙霧彈 "wikilink")、[破片彈和](../Page/破片杀伤.md "wikilink")[EMP彈](../Page/电磁脉冲.md "wikilink")。聯機模式時獨立式榴彈發射器樣式為次要武器，被偵察兵所使用；槍管下掛樣式時能夠下掛在魅影小組多款突擊步槍上，包括：[ACR](../Page/雷明登ACR突擊步槍.md "wikilink")、[HK417](../Page/HK417自動步槍.md "wikilink")、[TAR-21](../Page/IMI_TAR-21突擊步槍.md "wikilink")、[Mk 14 Mod 0／1和](../Page/Mk_14增強型戰鬥步槍.md "wikilink")[F2000戰術型](../Page/FN_F2000突擊步槍.md "wikilink")。
   - 2012年—《[戰爭前線](https://zh.wikipedia.org/wiki/戰爭前線 "wikilink")》：型號為Mk 13 Mod 0，命名為“槍掛型榴彈發射器”，专家解锁，作為步槍下掛榴彈發射器，可以安装在除新手、普通解锁以及[AS Val以外的所有步枪上](https://zh.wikipedia.org/wiki/AS_Val微声自动步枪 "wikilink")。扳機奇怪的與膛室在一個水平線上，奇怪地操作動作為[GP-25的動作和裝填方式為GP](../Page/GP-25附加型榴彈發射器.md "wikilink")-25的彈藥前裝式而非打開膛室式裝彈。发射原创的碰炸/延时二合一型榴弹（近距离发射时为延时榴弹，发射超过一定距离后变为碰炸榴弹），携弹量为1发且无备弹，弹药无法被除抵达检查点以及使用复活币复活外的任何方式补充。
   - 2013年—《[-{zh-cn:武裝行動3; zh-tw:武裝行動3; zh-hk:武裝行動3;}-](https://zh.wikipedia.org/wiki/武裝突襲3 "wikilink")》：下掛于[Katiba 6.5mm](../Page/海白爾KH2002突擊步槍.md "wikilink")、[Mk 20和](../Page/FN_F2000突擊步槍.md "wikilink")[TRG-21等突擊步槍上](../Page/IMI_TAR-21突擊步槍.md "wikilink")，發射破片彈、信號彈和煙霧彈。
-  - 2013年—《[-{zh-cn:使命召唤：幽灵; zh-tw:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》：取代前作的[M203和](../Page/M203榴彈發射器.md "wikilink")[M320](../Page/M320榴彈發射器.md "wikilink")。型號為FN40GL，命名為「FN 40GL」，黑色槍身，1 發榴彈，初始攜彈量為1 發（故事模式和聯機模式）和3 發（故事模式，[ARX-160](../Page/貝瑞塔ARX-160突擊步槍.md "wikilink")），最高攜彈量為1 發（故事模式和聯機模式）和6 發（故事模式，[ARX-160](../Page/貝瑞塔ARX-160突擊步槍.md "wikilink")）。能夠下掛在遊戲內所有[突击步枪](../Page/突击步枪.md "wikilink")和[轻机枪](../Page/轻机枪.md "wikilink")上。
+  - 2013年—《[-{zh-cn:使命召唤：幽灵; zh-tw:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》：取代前作的[M203和](../Page/M203榴彈發射器.md "wikilink")[M320](../Page/M320榴彈發射器.md "wikilink")。型號為FN40GL，命名為「FN 40GL」，黑色槍身，1發榴彈，初始攜彈量為1 發（故事模式和聯機模式）和3發（故事模式，[ARX-160](../Page/貝瑞塔ARX-160突擊步槍.md "wikilink")），最高攜彈量為1發（故事模式和聯機模式）和6發（故事模式，[ARX-160](../Page/貝瑞塔ARX-160突擊步槍.md "wikilink")）。能夠下掛在遊戲內所有[突击步枪](../Page/突击步枪.md "wikilink")和[轻机枪](../Page/轻机枪.md "wikilink")上。
   - 2016年—《[-{zh-hans:使命召唤：无限战争; zh-hant:決勝時刻：無盡戰爭;}-](../Page/使命召唤：无限战争.md "wikilink")》：型號為FN40GL，下掛在[OSA上](../Page/貝瑞塔ARX-160突擊步槍.md "wikilink")。
+  - 2019年—《[-{zh-cn:使命召唤：现代战争; zh-tw:決勝時刻：現代戰爭; zh-hk:使命召喚：現代戰爭}-](https://zh.wikipedia.org/wiki/使命召唤：现代战争_\(2019年遊戲\) "wikilink")》（Call of Duty: Modern Warfare）：型號為FN40GL，只下掛於[FN Scar 17](../Page/FN_SCAR突擊步槍.md "wikilink")。
 
 ### 動畫
 

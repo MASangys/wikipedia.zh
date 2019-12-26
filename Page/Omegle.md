@@ -37,24 +37,15 @@ Omegle是一个不用注册、无需下载，只要进入网站点击“开始�
 [Category:网站](https://zh.wikipedia.org/wiki/Category:网站 "wikilink") [Category:2009年建立](https://zh.wikipedia.org/wiki/Category:2009年建立 "wikilink") [Category:网络文化](https://zh.wikipedia.org/wiki/Category:网络文化 "wikilink") [Category:即時通訊](https://zh.wikipedia.org/wiki/Category:即時通訊 "wikilink") [Category:網上聊天](https://zh.wikipedia.org/wiki/Category:網上聊天 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.  <http://www.nytimes.com/2009/04/27/technology/internet/27omegle.html>
-
 7.
-
 8.
-
 9.
 10.
-
 11.
 12. [匿名聊天网站渐风靡 “春哥纯爷们”成接头暗号_华商新闻](http://news.hsw.cn/system/2009/04/21/050146675.shtml)，华商网，2009年6月19日查阅。
-
 13. [Omegle二周爆红 随机跟互联网上的陌生人聊天](http://www.cnbeta.com/articles/81578.htm) 评论部分，cnbeta.com，2009年6月24日查阅

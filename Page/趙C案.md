@@ -24,16 +24,12 @@
 [Category:2009年中国案件](https://zh.wikipedia.org/wiki/Category:2009年中国案件 "wikilink") [Category:中华人民共和国涉警案件](https://zh.wikipedia.org/wiki/Category:中华人民共和国涉警案件 "wikilink") [Category:中华人民共和国江西省案件](https://zh.wikipedia.org/wiki/Category:中华人民共和国江西省案件 "wikilink") [Category:鹰潭案件](https://zh.wikipedia.org/wiki/Category:鹰潭案件 "wikilink") [Category:中文姓名](https://zh.wikipedia.org/wiki/Category:中文姓名 "wikilink")
 
 1.  [赵C告公安局一审胜诉不改名：赵C还叫赵C(图)](http://news.xinhuanet.com/legal/2008-06/10/content_8339299.htm)
-
 2.  [我叫「趙C」20年 為啥不能換二代證（大紀元時報）](http://www.epochtimes.com/b5/8/1/7/n1968362.htm)
-
 3.
 4.
-
 5.
 6.
 7.  TVB晚間新聞11:00
-
 8.
 9.
 10.

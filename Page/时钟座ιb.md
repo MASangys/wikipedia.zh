@@ -36,13 +36,9 @@
 [Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink") [Category:时钟座](https://zh.wikipedia.org/wiki/Category:时钟座 "wikilink") [Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink") [Category:1998年发现的系外行星](https://zh.wikipedia.org/wiki/Category:1998年发现的系外行星 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
-
 7.

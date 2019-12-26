@@ -25,19 +25,11 @@
 [Category:網路搜尋引擎](https://zh.wikipedia.org/wiki/Category:網路搜尋引擎 "wikilink")
 
 1.  Liedtke, Michael, *[Ex-Google engineers debut 'Cuil' way to search](http://apnews.myway.com/article/20080728/D926QMU00.html)*, Associated Press, 28 July 2008, retrieved 28 July 2008
-
 2.  <http://biz.yahoo.com/ap/080728/google_challenger.html>
-
 3.
-
 4.  [Crunchbase: Cuil Profile](http://www.crunchbase.com/company/cuil)
-
 5.  [消息称“谷歌杀手”Cuil永久性关闭](http://news.mydrivers.com/1/175/175457.htm)
-
 6.  [Google叛將反擊戰 開發新搜尋器Cuil 搜尋範圍多3倍 無瀏覽紀錄保私隱](http://hk.news.yahoo.com/article/080728/4/7ens.html)
-
 7.  [前開發員推Cuil搜索引擎挑戰谷歌](http://news.sina.com.tw/article/20080729/628663.html)
-
 8.  [前Google工程师开发新搜索引擎“Cuil”](http://news.mydrivers.com/1/112/112358.htm)
-
 9.

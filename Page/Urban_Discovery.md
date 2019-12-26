@@ -2,7 +2,7 @@
 
 ## 歷史
 
-2002年公司剛剛成立時，只有一家位於[奧海城](../Page/奧海城.md "wikilink")西餐廳Stage Cafe，員工不過30人。到了2003年沙士爆發後，經濟一片蕭條下，公司趁此機會開設多個品牌。包括於[沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")[連城廣場開設Stage](https://zh.wikipedia.org/wiki/連城廣場 "wikilink") Cafe及在[旺角](../Page/旺角.md "wikilink")[新世紀廣場和](https://zh.wikipedia.org/wiki/新世紀廣場 "wikilink")[荃灣廣場](../Page/荃灣廣場.md "wikilink")開設和庭日本料理。同年12月，公司形合當年流行的京川滬菜，拓展中菜業務，於[將軍澳](../Page/將軍澳.md "wikilink")新都城中心開設佔地8,000呎「甲乙丙中國廚房」，該店開業之初，曾日賣近700籠[小籠包](../Page/小籠包.md "wikilink")、500碗[擔擔麵](https://zh.wikipedia.org/wiki/擔擔麵 "wikilink")，排隊人龍不絕。\[2\]
+2002年公司剛剛成立時，只有一家位於[奧海城](../Page/奧海城.md "wikilink")西餐廳Stage Cafe，員工不過30人。到了2003年沙士爆發後，經濟一片蕭條下，公司趁此機會開設多個品牌。包括於[沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")[連城廣場開設Stage](https://zh.wikipedia.org/wiki/連城廣場 "wikilink") Cafe及在[旺角](../Page/旺角.md "wikilink")[新世紀廣場](../Page/新世紀廣場.md "wikilink")和[荃灣廣場](../Page/荃灣廣場.md "wikilink")開設和庭日本料理。同年12月，公司形合當年流行的京川滬菜，拓展中菜業務，於[將軍澳](../Page/將軍澳.md "wikilink")新都城中心開設佔地8,000呎「甲乙丙中國廚房」，該店開業之初，曾日賣近700籠[小籠包](../Page/小籠包.md "wikilink")、500碗[擔擔麵](https://zh.wikipedia.org/wiki/擔擔麵 "wikilink")，排隊人龍不絕。\[2\]
 
 2004年1月，集團於[馬鞍山新港城中心開設](https://zh.wikipedia.org/wiki/馬鞍山 "wikilink")「麵盆」，售賣中國特色麵食。同年7月，集團見到羽壽司及[峰壽司相繼開張](https://zh.wikipedia.org/wiki/峰壽司 "wikilink")，即時建立「目黑壽司」品牌，於[將軍澳](../Page/將軍澳.md "wikilink")[東港城](../Page/東港城.md "wikilink")開設首間分店。當年品牌強調創意壽司及手做即製[壽司](https://zh.wikipedia.org/wiki/壽司 "wikilink")。包括從[日本](../Page/日本.md "wikilink")引入，現場即用火槍燒製的火炙壽司；還有士多啤梨、奇異果等生果[壽司](https://zh.wikipedia.org/wiki/壽司 "wikilink")。同年10月，集團分店數目達12間。\[3\]
 

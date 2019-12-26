@@ -1,6 +1,6 @@
 [G36_CMag.jpg](https://zh.wikipedia.org/wiki/File:G36_CMag.jpg "fig:G36_CMag.jpg")（並非MG36）\]\]
 
-**C-Mag彈鼓**（Beta C-Mag、Century magazine，意為「世紀彈鼓」，簡稱C-Mag）是由吉姆·蘇利文（Jim Sullivan）設計的100發雙室型[彈鼓](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")，主要提供給[5.56×45毫米北約](../Page/5.56×45mm_NATO.md "wikilink")、[7.62×51毫米北約和](../Page/7.62×51mm_NATO.md "wikilink")[9×19毫米](https://zh.wikipedia.org/wiki/9mm鲁格弹 "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[槍械使用](../Page/枪械.md "wikilink")\[1\]。
+**C-Mag彈鼓**（Beta C-Mag、Century magazine，**意為「世紀彈鼓」**，簡稱C-Mag）是由吉姆·蘇利文（Jim Sullivan）設計的100發雙室型[彈鼓](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")，主要提供給[5.56×45毫米北約](../Page/5.56×45mm_NATO.md "wikilink")、[7.62×51毫米北約和](../Page/7.62×51mm_NATO.md "wikilink")[9×19毫米](https://zh.wikipedia.org/wiki/9mm鲁格弹 "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[槍械使用](../Page/枪械.md "wikilink")\[1\]。
 
 ## 設計
 
@@ -80,11 +80,7 @@ C-Mag大部份部件以[塑料](../Page/塑料.md "wikilink")製造，雙室左�
 [Category:槍械零件](https://zh.wikipedia.org/wiki/Category:槍械零件 "wikilink")
 
 1.  [The Beta Company-產品](https://betaco.com/products.asp)
-
 2.  [Defense Review - Ultimax 100 MK4: Best Choice for USMC Infantry Automatic Rifle (IAR)? Video Clip](http://www.defensereview.com/modules.php?name=News&file=article&sid=853)
-
 3.   US Army report from Afganistan
-
 4.  [US Army Combat Readiness/Safety Center » Messages » » Ground » Ground Precautionary Messages 2nd Quarter FY02](https://crc.army.mil/Messages/detail.asp?iData=19&iCat=530&iChannel=14&nChannel=Messages)
-
 5.

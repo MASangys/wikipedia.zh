@@ -39,16 +39,16 @@ M00-M25 [关节病](https://zh.wikipedia.org/wiki/关节病 "wikilink")
   - M24 其他特指的关节紊乱
   - M25 其他关节疾患，不可归类在他处者
 
-## M30-M36 系统性结缔组织疾患
+## M30-M36 全身性结缔组织疾患
 
-M30-M36 系统性结缔组织疾患
+M30-M36 全身性结缔组织疾患
 
   - M30 结节性多动脉炎和有关情况
   - M31 其他坏死性血管病
-  - M32 系统性[红斑狼疮](https://zh.wikipedia.org/wiki/红斑狼疮 "wikilink")
+  - M32 全身性[红斑狼疮](https://zh.wikipedia.org/wiki/红斑狼疮 "wikilink")
   - M33 [皮多肌炎](https://zh.wikipedia.org/wiki/皮多肌炎 "wikilink")
   - M34 [全身性硬皮病](https://zh.wikipedia.org/wiki/全身性硬皮病 "wikilink")
-  - () 结缔组织的其他系统性受累
+  - () 结缔组织的其他全身性受累
       - () [干燥综合征](../Page/干燥综合征.md "wikilink") (修格连氏症候群，或者舍格伦综合征)\<\!--
       - () Other [overlap syndromes](https://zh.wikipedia.org/wiki/overlap_syndromes "wikilink")
       - () [Behçet's disease](https://zh.wikipedia.org/wiki/Behçet's_disease "wikilink")
@@ -60,7 +60,7 @@ M30-M36 系统性结缔组织疾患
       - () Other specified systemic involvement of [connective tissue](https://zh.wikipedia.org/wiki/connective_tissue "wikilink")
       - () Systemic involvement of [connective tissue](https://zh.wikipedia.org/wiki/connective_tissue "wikilink"), unspecified
 
-`-->* M36 分类于他处的疾病引起的系统性结缔组织疾患`
+`-->* M36 分类于他处的疾病引起的全身性结缔组织疾患`
 
 ## M40-M54 背部病
 

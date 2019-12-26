@@ -21,10 +21,7 @@
 [Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink") [Category:豺狼座](https://zh.wikipedia.org/wiki/Category:豺狼座 "wikilink") [Category:直接影像法发现的系外行星](https://zh.wikipedia.org/wiki/Category:直接影像法发现的系外行星 "wikilink")
 
 1.  [Is this a Brown Dwarf or an Exoplanet? New Young Sub-stellar Companion Imaged with the VLT](http://www.eso.org/public/outreach/press-rel/pr-2005/pr-09-05.html) , ESO Press Release 09/05, 2005年4月7日. Accessed on line 2008年6月13日.
-
 2.  Astrometric and photometric monitoring of GQ Lupi and its sub-stellar companion, Ralph Neuhäuser, Markus Mugrauer, Andreas Seifahrt, Tobias Schmidt, and Nikolaus Vogt, *Astronomy and Astrophysics* **484**, \#1 (2008), pp. 281–291. .
-
 3.  [GQ Lup b](http://www.extrasolar.net/planettour.asp?StarCatId=&PlanetId=289) , *Extrasolar Visions*. Accessed on line 2008年6月13日.
-
 4.
 5.  [系外行星列表](http://www.dtm.ciw.edu/boss/planets.html) , [国际天文学联合会系外行星工作组](https://zh.wikipedia.org/wiki/国际天文学联合会 "wikilink"), 2006年8月28日. Accessed on line 2008年6月13日.

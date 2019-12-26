@@ -34,38 +34,23 @@ Untriseptium一詞來自於1979年[IUPAC發表了對元素新命名的建議](ht
 [Category:第8周期元素](https://zh.wikipedia.org/wiki/Category:第8周期元素 "wikilink") [Category:化学元素](https://zh.wikipedia.org/wiki/Category:化学元素 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.  Pekka Pyykkö, Peter Schwerdtfeger (2004), *Relativistic electronic structure theory,* p 23.[(review)](http://www.rsc.org/Publishing/ChemScience/Volume/2010/11/Extended_elements.asp)
-
 7.
 8.   137|url=<http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.932.3488&rep=rep1&type=pdf> |journal=Indian Journal of Science and Technology |volume=Vol.2 No 3 | issn = 0974- 6846}}
-
 9.
 10.
 11.
-
 12. {{ cite journal|first1=S. |last1=Cwiok|first2= P.-H.|last2= Heenen |first3= W.|last3= Nazarewicz |year=2005|title=Shape coexistence and triaxiality in the superheavy nuclei|journal=Nature|volume=433|bibcode = 2005Natur.433..705C |doi = 10.1038/nature03336|issue=7027 |pmid=15716943|pages=705–9}}
-
 13.
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.

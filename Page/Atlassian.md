@@ -19,28 +19,18 @@ Cenqua的產品有以下三種：
 [Category:软件公司](https://zh.wikipedia.org/wiki/Category:软件公司 "wikilink") [Category:悉尼公司](https://zh.wikipedia.org/wiki/Category:悉尼公司 "wikilink") [Category:2002年成立的公司](https://zh.wikipedia.org/wiki/Category:2002年成立的公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.
-
 11.
 12.
 13.
-
 14.
-
 15.
-
 16.

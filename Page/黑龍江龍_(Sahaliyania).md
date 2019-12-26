@@ -6,17 +6,8 @@
 
 ## 參考資料
 
-<div class="references-small">
-
-<references>
-
-</references>
-
-</div>
-
 [Category:上白堊紀恐龍](https://zh.wikipedia.org/wiki/Category:上白堊紀恐龍 "wikilink") [Category:亞洲恐龍](https://zh.wikipedia.org/wiki/Category:亞洲恐龍 "wikilink") [Category:賴氏龍亞科](https://zh.wikipedia.org/wiki/Category:賴氏龍亞科 "wikilink")
 
 1.
-
 2.
 3.

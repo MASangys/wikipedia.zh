@@ -4146,7 +4146,7 @@ ISBN 978-4-08-880885-7</p></td>
 
 <!-- end list -->
 
-  - [週刊少年Jump官網](http://shonenjump.com/j/rensai/toriko/)
+  - [週刊少年Jump官網](https://web.archive.org/web/20131113120606/http://www.shonenjump.com/j/rensai/toriko/)
   - [](http://www.mangazenkan.com/special/811.html)
 
 <!-- end list -->

@@ -49,7 +49,7 @@ Mesa 从8.0版本开始就加入了 VDPAU 支持，任何利用 Gallium3D 的显
 ## 支持的软件
 
   - [MPlayer](../Page/MPlayer.md "wikilink")
-  - [XBMC Media Center](https://zh.wikipedia.org/wiki/XBMC "wikilink")
+  - [Kodi](../Page/Kodi.md "wikilink")
   - [GStreamer](../Page/GStreamer.md "wikilink")\[21\]
   - [Boxee](https://zh.wikipedia.org/wiki/Boxee "wikilink")\[22\]
   - [MythTV](../Page/MythTV.md "wikilink")\[23\]
@@ -78,54 +78,29 @@ Mesa 从8.0版本开始就加入了 VDPAU 支持，任何利用 Gallium3D 的显
 [Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink") [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink") [Category:X_Window系统](https://zh.wikipedia.org/wiki/Category:X_Window系统 "wikilink")
 
 1.  [Announcing libvdpau 0.2](http://lists.freedesktop.org/archives/xorg-announce/2009-September/001036.html)
-
 2.  [NVIDIA Releases Standalone VDPAU Library](http://www.phoronix.com/scan.php?page=news_item&px=NzU0MA)
-
 3.
-
 4.
-
 5.  [VDPAU (Video Decode and Presentation API for Unix)](http://http.download.nvidia.com/XFree86/vdpau/doxygen/html/index.html)
-
 6.  [NVIDIA 190.32 Beta Brings New VDPAU Features](http://www.phoronix.com/scan.php?page=news_item&px=NzUxMQ)
-
 7.
 8.
-
 9.
-
 10. [NVIDIA's driver for X11-oriented VDPAU](http://http.download.nvidia.com/XFree86/vdpau/doxygen/html/group__api__winsys__x11.html#Driver)
-
 11. [Intel Considering VDPAU Support For X.Org Driver](http://www.phoronix.com/scan.php?page=news_item&px=NzA0Nw)
-
 12. [Mesa/Gallium3D Works On VDPAU Interoperability](http://www.phoronix.com/scan.php?page=news_item&px=MTQ2NjY#)
-
 13. <ftp://download.nvidia.com/XFree86/Linux-x86_64/185.18.14/README/appendix-h.html#id333549>
-
 14.
-
 15. <http://forums.nvidia.com/index.php?showtopic=74108&mode=threaded>
-
 16.
-
 17. <http://www.anandtech.com/video/showdoc.aspx?i=3657&p=3>
-
 18. <http://www.anandtech.com/video/showdoc.aspx?i=3657&p=3>
-
 19. <http://www.anandtech.com/video/showdoc.aspx?i=3657&p=3>
-
 20. <ftp://download.nvidia.com/XFree86/Linux-x86/190.53/README/appendix-h.html#vdpau-implementation-limits-decoder>
-
 21. <http://gstreamer.freedesktop.org/releases/gst-plugins-bad/0.10.14.html>
-
 22.
-
 23.
-
 24.
-
 25. [xine-lib-1.2 hg development tree, changeset 9b68f6efb713](http://hg.debian.org/hg/xine-lib/xine-lib-1.2/rev/9b68f6efb713)
-
 26.
-
 27. [1](http://www.reddit.com/r/linux/comments/eeh52/)

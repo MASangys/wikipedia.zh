@@ -307,23 +307,14 @@
 
 1.
 2.
-
 3.  [One of their aircraft is missing - Britain's Small Wars](http://www.britains-smallwars.com/Falklands/argentine-aircraftlosses.html)
-
 4.  [San Carlos Air Battles - Falklands War 1982](http://www.naval-history.net/F44airbattles.htm)
-
 5.
-
 6.  <http://www.military-today.com/missiles/stinger.htm>
-
 7.  Reuters via the [New York Times](http://query.nytimes.com/gst/fullpage.html?res=9C02E3D91338F933A2575AC0A965948260&scp=45&sq=Stinger+missile)
-
 8.
-
 9.
 10.
 11.
-
 12.
-
 13. [FIM-92A Stinger Weapons System - Federation of American Scientists](http://www.fas.org/man/dod-101/sys/land/stinger.htm)

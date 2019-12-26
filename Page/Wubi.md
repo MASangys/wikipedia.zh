@@ -65,60 +65,34 @@ Agostino Russo后来定义了虚拟设备安装的概念，从一个预先做好
 [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink")
 
 1.
-
 2.  [Wubi - FAQ](http://wubi.sourceforge.net/faq.php)
-
 3.
-
 4.
-
 5.
 6.  [Wubi - FAQ](http://wubi.sourceforge.net/faq.php)
-
 7.  [Lubi, LVPM, UNetbootin, and Bubakup - Lubi](http://lubi.sourceforge.net/lubi.html)
-
 8.
 9.  [Wubi - FAQ](http://wubi.sourceforge.net/faq.php)
-
 10. [Wubi - FAQ](http://wubi.sourceforge.net/faq.php)
-
 11. [Wubi - FAQ](http://wubi.sourceforge.net/faq.php)
-
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
 20. [CD boot installer for Windows contribution](https://lists.ubuntu.com/archives/ubuntu-devel-discuss/2007-September/001580.html)
-
 21. [CD boot installer for Windows contribution](https://lists.ubuntu.com/archives/ubuntu-devel-discuss/2007-September/001601.html)
-
 22. [WubiGuide - Ubuntu Wiki](https://wiki.ubuntu.com/WubiGuide)
-
 23. [Ubuntu Forums - View Single Post - Announcement: Ubuntu Gutsy on Wubi (Alpha)\!\!\!](http://ubuntuforums.org/showpost.php?p=3572960&postcount=56)
-
 24. [Index of /devel/minefield](http://wubi-installer.org/devel/minefield/)
-
 25. [Ubuntu Forums - View Single Post - Where to get wubi 7.10?](http://ubuntuforums.org/showpost.php?p=3907948&postcount=5)
-
 26. [Ubuntu Forums - View Single Post - Where to get wubi 7.10?](http://ubuntuforums.org/showpost.php?p=3908541&postcount=7)
-
 27. [Get ready for Wubi 8.04\!](http://ubuntuforums.org/showthread.php?t=683787)
-
 28.
-
 29.
-
 30.
-
 31.
 32. [Instlux - openSUSE](http://en.opensuse.org/Instlux)

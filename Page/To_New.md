@@ -71,16 +71,10 @@
 [Category:同人遊戲](https://zh.wikipedia.org/wiki/Category:同人遊戲 "wikilink") [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:香港開發電子遊戲](https://zh.wikipedia.org/wiki/Category:香港開發電子遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
 
 1.  [ss-square簡介](http://ss-square.net/chinese/about.htm)
-
 2.  [ss-square - 故事介紹](http://tonew.ss-square.net/story.htm)
-
 3.  [ss-square - 軟件資料](http://tonew.ss-square.net/software.htm)
-
 4.  [ss-square - 製作日記](http://www.ss-square.net/chinese/diary.htm)
-
 5.  [一個香港同人遊戲的誕生：ss-square分享同人遊戲《To New \~》的創作歷程](http://www.cuhkacs.org/~benng/Bo-Blog/read.php?714)
-
 6.
 7.  [ss-square - 常見問題](http://tonew.ss-square.net/qna.htm)
-
 8.

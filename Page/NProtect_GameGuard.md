@@ -374,25 +374,14 @@ GameGuard的驅動方法，與[rootkit相似](https://zh.wikipedia.org/wiki/root
 
 1.
 2.  [日本版夢之歷險關於GameGuard刪除程式之公告](http://nostale.jalecoonline.jp/topics.php?tt_seq=74) ，2007年3月8日
-
 3.  詳見台灣[楓之谷官方網頁](https://zh.wikipedia.org/wiki/楓之谷 "wikilink")，[於2007年4月15日](http://tw.maplestory.gamania.com/BullentinDetail.aspx?id=2766) 及 [12月20日的](http://tw.maplestory.gamania.com/BullentinDetail.aspx?id=3443) 「GameGuard更新問題公告」。
-
 4.  [魔物獵人關於nProtect GameGuard問題之公告](http://members.mh-frontier.jp/information/?id=0440)、Capcom魔物獵人日本官方網頁，2007年8月17日
-
 5.  詳見 [香港巨商官方網頁](http://www.gamania.com.hk/gersang/index.asp) 於2007年8月28日的「有關當機情況說明」公告。
-
 6.  詳見香港拿拿林Online官方討論版的 [拿拿林問題回報區](http://forum.nanaimo.com.hk/forumdisplay.php?fid=9)
-
 7.  [《R2》會員突破20萬 攻城戰等你決定時間](http://gnn.gamer.com.tw/4/27504.html)，巴哈姆特電玩資訊站，2007年8月6日
-
 8.  [《十二之天》宣佈採用防外掛前導程式 nProtect](http://gnn.gamer.com.tw/9/27399.html)，[巴哈姆特電玩資訊站](../Page/巴哈姆特電玩資訊站.md "wikilink")，2007年7月26日
-
 9.  [哈韓風潮的創造者---因思銳(下)](http://gnn.gamer.com.tw/5/5185.html)，巴哈姆特電玩資訊站，2002年8月2日
-
 10. [《黑色陰謀Online》幕後探秘](http://gnn.gamer.com.tw/7/25127.html)，巴哈姆特電玩資訊站，2006年11月15日
-
 11. [河智元美麗重生「精靈II」](http://gnn.gamer.com.tw/6/13006.html)，巴哈姆特電玩資訊站，2003年12月15日
-
 12. [NBA2K Online官方網站](http://nba2kol.competgames.com/)
-
 13. [Google Chrome 的沙盒機制與 GameGuard 的阻擋沙盒偵測技術發生衝突。](http://www.google.com/support/forum/p/chrome/thread?tid=40e485e123c4f087&hl=zh-TW) Google 說明論壇

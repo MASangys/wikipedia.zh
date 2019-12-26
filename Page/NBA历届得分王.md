@@ -1,7 +1,6 @@
-[Jordan_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Jordan_Lipofsky.jpg "fig:Jordan_Lipofsky.jpg")共有十次獲得分王頭銜\]\]
-根据[篮球比赛规则](../Page/篮球.md "wikilink")，球队可以通过球员投篮和[罚球](https://zh.wikipedia.org/wiki/罚球_\(篮球\) "wikilink")[得分](https://zh.wikipedia.org/wiki/得分_\(篮球\) "wikilink")，最终得分高的球队赢得比赛\[1\]。**得分王**是指每个赛季平均每场比赛得分最多的球员。[1968-69年赛季前](../Page/1968-69_NBA赛季.md "wikilink")，得分王都是全季得分最多的球员，之后再改为平均每场比赛得分最多的球员\[2\]。另外，由于三分球是在[1979-80年赛季首次引入](https://zh.wikipedia.org/wiki/1979-80_NBA赛季 "wikilink")，所以此前的得分王没有三分球数据\[3\]\[4\]。从[1974-75年赛季开始](https://zh.wikipedia.org/wiki/1974-75_NBA赛季 "wikilink")，争夺得分王头衔的球员在相应赛季要参加全部82场比赛中的至少70场，或是得分不低于1400\[5\]。[威尔特·张伯伦在](../Page/威尔特·张伯伦.md "wikilink")[1961–62年赛事共获得](../Page/1961-62_NBA賽季.md "wikilink")4029分，场均得分50.4，两项都创下历史纪录并保持至今\[6\]。他在[1959–60年赛季平均每场比赛得到](../Page/1959-60_NBA赛季.md "wikilink")37.6分，至今保持着新手球员的最高纪录\[7\]。[凯文·杜兰特在](../Page/凯文·杜兰特.md "wikilink")[2013–14赛季共得到](../Page/2013-14_NBA賽季.md "wikilink")2593分，平均每场比赛32分，是现役球员中的得分王。
+[Jordan_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Jordan_Lipofsky.jpg "fig:Jordan_Lipofsky.jpg")共有十次獲得分王頭銜\]\] 根据[篮球](../Page/篮球.md "wikilink")比赛规则，球队可以通过球员投篮和[罚球](https://zh.wikipedia.org/wiki/罚球_\(篮球\) "wikilink")[得分](https://zh.wikipedia.org/wiki/得分_\(篮球\) "wikilink")，最终得分高的球队赢得比赛\[1\]。**得分王**是指每个赛季平均每场比赛得分最多的球员。[1968-69年赛季前](../Page/1968-69_NBA赛季.md "wikilink")，得分王都是全季得分最多的球员，之后再改为平均每场比赛得分最多的球员\[2\]。另外，由于三分球是在[1979-80年赛季首次引入](https://zh.wikipedia.org/wiki/1979-80_NBA赛季 "wikilink")，所以此前的得分王没有三分球数据\[3\]\[4\]。从[1974-75年赛季开始](https://zh.wikipedia.org/wiki/1974-75_NBA赛季 "wikilink")，争夺得分王头衔的球员在相应赛季要参加全部82场比赛中的至少70场，或是得分不低于1400\[5\]。[威尔特·张伯伦](../Page/威尔特·张伯伦.md "wikilink")在[1961–62年赛事共获得](../Page/1961-62_NBA賽季.md "wikilink")4029分，场均得分50.4，两项都创下历史纪录并保持至今\[6\]。他在[1959–60年赛季平均每场比赛得到](../Page/1959-60_NBA赛季.md "wikilink")37.6分，至今保持着新手球员的最高纪录\[7\]。[凯文·杜兰特](../Page/凯文·杜兰特.md "wikilink")在[2013–14赛季共得到](../Page/2013-14_NBA賽季.md "wikilink")2593分，平均每场比赛32分，是现役球员中的得分王。
 
-[迈克尔·乔丹共有十次获得分王称号](../Page/迈克尔·乔丹.md "wikilink")，比其他球员都多\[8\]。乔丹和张伯伦均曾连续七次获得分王头衔，是连庄次数最多的球员（张伯伦一共也是七次获得分王称号）\[9\]。[乔治·格温](../Page/乔治·格温.md "wikilink")、[艾伦·艾佛森和](https://zh.wikipedia.org/wiki/艾伦·艾佛森 "wikilink")[凯文·杜兰特都曾四次当选得分王](../Page/凯文·杜兰特.md "wikilink")\[10\]，[乔治·迈肯](../Page/乔治·迈肯.md "wikilink")、[尼尔·约翰斯顿和](../Page/尼尔·约翰斯顿.md "wikilink")[鲍伯·麦卡杜各有三次](https://zh.wikipedia.org/wiki/鲍伯·麦卡杜 "wikilink")。[保罗·阿里金](../Page/保罗·阿里金.md "wikilink")、[鲍勃·佩蒂特](../Page/鲍勃·佩蒂特.md "wikilink")、[卡里姆·阿卜杜勒-贾巴尔](https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔 "wikilink")、[沙奎尔·奥尼尔](../Page/沙奎尔·奥尼尔.md "wikilink")、[特雷西·麦克格雷迪和](../Page/特雷西·麦克格雷迪.md "wikilink")[科比·布莱恩特都曾两度当选得分王](../Page/科比·布莱恩特.md "wikilink")。历史上共有五位球员在同一赛季拿下得分王头衔的同时还带领球队赢得[总冠军](https://zh.wikipedia.org/wiki/NBA总冠军列表 "wikilink")，分别是[乔·福尔克斯于](../Page/乔·福尔克斯.md "wikilink")[1947年带领](https://zh.wikipedia.org/wiki/1947年BAA总决赛 "wikilink")[费城勇士打入决赛](../Page/金州勇士.md "wikilink")、迈肯于[1949和](https://zh.wikipedia.org/wiki/1949年BAA总决赛 "wikilink")[1950年率领](https://zh.wikipedia.org/wiki/1950年NBA总决赛 "wikilink")[洛杉矶湖人进入决赛](../Page/洛杉矶湖人.md "wikilink")，阿卜杜勒-贾巴尔于[1971年同](https://zh.wikipedia.org/wiki/1971年NBA总决赛 "wikilink")[密尔沃基雄鹿打进决赛](../Page/密尔沃基雄鹿.md "wikilink")，乔丹于[1991至](https://zh.wikipedia.org/wiki/1991年NBA总决赛 "wikilink")[1993年和](https://zh.wikipedia.org/wiki/1993年NBA总决赛 "wikilink")[1996至](https://zh.wikipedia.org/wiki/1996年NBA总决赛 "wikilink")[1998年率](https://zh.wikipedia.org/wiki/1998年NBA总决赛 "wikilink")[芝加哥公牛冲进决赛](../Page/芝加哥公牛.md "wikilink")，奥尼尔于[2000年带领](https://zh.wikipedia.org/wiki/2000年NBA总决赛 "wikilink")[洛杉矶湖人进入决赛](../Page/洛杉矶湖人.md "wikilink")\[11\]\[12\]。自引入三分球制以来，只有奥尼尔在拿下得分王的赛季没有投进过三分球\[13\]。
+[迈克尔·乔丹](../Page/迈克尔·乔丹.md "wikilink")共有十次获得分王称号，比其他球员都多\[8\]。乔丹和张伯伦均曾连续七次获得分王头衔，是连庄次数最多的球员（张伯伦一共也是七次获得分王称号）\[9\]。[乔治·格温](../Page/乔治·格温.md "wikilink")、[艾伦·艾佛森和](https://zh.wikipedia.org/wiki/艾伦·艾佛森 "wikilink")[凯文·杜兰特](../Page/凯文·杜兰特.md "wikilink")都曾四次当选得分王\[10\]，[乔治·迈肯](../Page/乔治·迈肯.md "wikilink")、[尼尔·约翰斯顿](../Page/尼尔·约翰斯顿.md "wikilink")和[鲍伯·麦卡杜各有三次](https://zh.wikipedia.org/wiki/鲍伯·麦卡杜 "wikilink")。[保罗·阿里金](../Page/保罗·阿里金.md "wikilink")、[鲍勃·佩蒂特](../Page/鲍勃·佩蒂特.md "wikilink")、[卡里姆·阿卜杜勒-贾巴尔](../Page/卡里姆·阿卜杜勒-贾巴尔.md "wikilink")、[沙奎尔·奥尼尔](../Page/沙奎尔·奥尼尔.md "wikilink")、[特雷西·麦克格雷迪](../Page/特雷西·麦克格雷迪.md "wikilink")和[科比·布莱恩特](../Page/科比·布莱恩特.md "wikilink")都曾两度当选得分王。历史上共有五位球员在同一赛季拿下得分王头衔的同时还带领球队赢得[总冠军](https://zh.wikipedia.org/wiki/NBA总冠军列表 "wikilink")，分别是[乔·福尔克斯](../Page/乔·福尔克斯.md "wikilink")于[1947年带领](https://zh.wikipedia.org/wiki/1947年BAA总决赛 "wikilink")[费城勇士打入决赛](../Page/金州勇士.md "wikilink")、迈肯于[1949和](https://zh.wikipedia.org/wiki/1949年BAA总决赛 "wikilink")[1950年率领](https://zh.wikipedia.org/wiki/1950年NBA总决赛 "wikilink")[洛杉矶湖人](../Page/洛杉矶湖人.md "wikilink")进入决赛，阿卜杜勒-贾巴尔于[1971年同](https://zh.wikipedia.org/wiki/1971年NBA总决赛 "wikilink")[密尔沃基雄鹿](../Page/密尔沃基雄鹿.md "wikilink")打进决赛，乔丹于[1991至](https://zh.wikipedia.org/wiki/1991年NBA总决赛 "wikilink")[1993年和](https://zh.wikipedia.org/wiki/1993年NBA总决赛 "wikilink")[1996至](https://zh.wikipedia.org/wiki/1996年NBA总决赛 "wikilink")[1998年率](https://zh.wikipedia.org/wiki/1998年NBA总决赛 "wikilink")[芝加哥公牛](../Page/芝加哥公牛.md "wikilink")冲进决赛，奥尼尔于[2000年带领](https://zh.wikipedia.org/wiki/2000年NBA总决赛 "wikilink")[洛杉矶湖人](../Page/洛杉矶湖人.md "wikilink")进入决赛\[11\]\[12\]。自引入三分球制以来，只有奥尼尔在拿下得分王的赛季没有投进过三分球\[13\]。
 
 杜兰特在[2009-10年赛季平均每场得到](../Page/2009-10_NBA赛季.md "wikilink")30.1分，获得分王头衔时还只出生21年197天，是历史上最年轻的得分王\[14\]。
 
@@ -34,20 +33,7 @@
 
 ## 历届得分王
 
-[Joe_Fulks.jpeg](https://zh.wikipedia.org/wiki/File:Joe_Fulks.jpeg "fig:Joe_Fulks.jpeg")是史上首位得分王\]\]
-[Wilt_Chamberlain_1967.jpeg](https://zh.wikipedia.org/wiki/File:Wilt_Chamberlain_1967.jpeg "fig:Wilt_Chamberlain_1967.jpeg")于1960至1966年连续七次获得分王称号\]\]
-[Jerry_West_1972.jpeg](https://zh.wikipedia.org/wiki/File:Jerry_West_1972.jpeg "fig:Jerry_West_1972.jpeg")于1970年当选得分王，平均每场比赛得分31.2。\]\]
-[Kareem-Abdul-Jabbar_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Kareem-Abdul-Jabbar_Lipofsky.jpg "fig:Kareem-Abdul-Jabbar_Lipofsky.jpg")于1971和1972年连夺两次得分王头衔\]\]
-[Allen_Iverson_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Allen_Iverson_Lipofsky.jpg "fig:Allen_Iverson_Lipofsky.jpg")于1999、2001、2002和2005年四次成为得分王。\]\]
-[KBryant8.jpg](https://zh.wikipedia.org/wiki/File:KBryant8.jpg "fig:KBryant8.jpg")于2006和2007年获得分王称号\]\]
-[LebronFT2.jpg](https://zh.wikipedia.org/wiki/File:LebronFT2.jpg "fig:LebronFT2.jpg")是2008
-年赛季的得分王\]\]
-[Dwyane_Wade.jpg](https://zh.wikipedia.org/wiki/File:Dwyane_Wade.jpg "fig:Dwyane_Wade.jpg")是2009
-年赛季的得分王\]\]
-[Kevin_Durant.jpg](https://zh.wikipedia.org/wiki/File:Kevin_Durant.jpg "fig:Kevin_Durant.jpg")于2010年成为历史上最年轻的得分王，之后又在2011、2012和2014年赛季夺魁\]\]
-[Carmelo_Anthony_March_2013.jpg](https://zh.wikipedia.org/wiki/File:Carmelo_Anthony_March_2013.jpg "fig:Carmelo_Anthony_March_2013.jpg")夺得2013年赛季得分王称号\]\]
-[Russell_Westbrook_dribbling_vs_Cavs_(cropped).jpg](https://zh.wikipedia.org/wiki/File:Russell_Westbrook_dribbling_vs_Cavs_\(cropped\).jpg "fig:Russell_Westbrook_dribbling_vs_Cavs_(cropped).jpg")是2015年和2017赛季得分王\]\]
-[Stephen_Curry_dribbling_2016_(cropped).jpg](https://zh.wikipedia.org/wiki/File:Stephen_Curry_dribbling_2016_\(cropped\).jpg "fig:Stephen_Curry_dribbling_2016_(cropped).jpg")于2016年赛季拿下得分王头衔\]\]
+[Joe_Fulks.jpeg](https://zh.wikipedia.org/wiki/File:Joe_Fulks.jpeg "fig:Joe_Fulks.jpeg")是史上首位得分王\]\] [Wilt_Chamberlain_1967.jpeg](https://zh.wikipedia.org/wiki/File:Wilt_Chamberlain_1967.jpeg "fig:Wilt_Chamberlain_1967.jpeg")于1960至1966年连续七次获得分王称号\]\] [Jerry_West_1972.jpeg](https://zh.wikipedia.org/wiki/File:Jerry_West_1972.jpeg "fig:Jerry_West_1972.jpeg")于1970年当选得分王，平均每场比赛得分31.2。\]\] [Kareem-Abdul-Jabbar_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Kareem-Abdul-Jabbar_Lipofsky.jpg "fig:Kareem-Abdul-Jabbar_Lipofsky.jpg")于1971和1972年连夺两次得分王头衔\]\] [Allen_Iverson_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Allen_Iverson_Lipofsky.jpg "fig:Allen_Iverson_Lipofsky.jpg")于1999、2001、2002和2005年四次成为得分王。\]\] [KBryant8.jpg](https://zh.wikipedia.org/wiki/File:KBryant8.jpg "fig:KBryant8.jpg")于2006和2007年获得分王称号\]\] [LebronFT2.jpg](https://zh.wikipedia.org/wiki/File:LebronFT2.jpg "fig:LebronFT2.jpg")是2008 年赛季的得分王\]\] [Dwyane_Wade.jpg](https://zh.wikipedia.org/wiki/File:Dwyane_Wade.jpg "fig:Dwyane_Wade.jpg")是2009 年赛季的得分王\]\] [Kevin_Durant.jpg](https://zh.wikipedia.org/wiki/File:Kevin_Durant.jpg "fig:Kevin_Durant.jpg")于2010年成为历史上最年轻的得分王，之后又在2011、2012和2014年赛季夺魁\]\] [Carmelo_Anthony_March_2013.jpg](https://zh.wikipedia.org/wiki/File:Carmelo_Anthony_March_2013.jpg "fig:Carmelo_Anthony_March_2013.jpg")夺得2013年赛季得分王称号\]\] [Russell_Westbrook_dribbling_vs_Cavs_(cropped).jpg](https://zh.wikipedia.org/wiki/File:Russell_Westbrook_dribbling_vs_Cavs_\(cropped\).jpg "fig:Russell_Westbrook_dribbling_vs_Cavs_(cropped).jpg")是2015年和2017赛季得分王\]\] [Stephen_Curry_dribbling_2016_(cropped).jpg](https://zh.wikipedia.org/wiki/File:Stephen_Curry_dribbling_2016_\(cropped\).jpg "fig:Stephen_Curry_dribbling_2016_(cropped).jpg")于2016年赛季拿下得分王头衔\]\]
 
 <table>
 <thead>
@@ -59,7 +45,7 @@
 <th><p>球队</p></th>
 <th><p>上场次数</p></th>
 <th><p>投球得分</p></th>
-<th><p>scope="col" data-sort-type="number"| <a href="../Page/三分球.md" title="wikilink">三分球得分</a></p></th>
+<th><p>scope="col" data-sort-type="number"| <a href="../Page/三分球.md" title="wikilink">三分球</a>得分</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/罚球_(篮球)" title="wikilink">罚球得分</a></p></th>
 <th><p>总分</p></th>
 <th><p>场均得分</p></th>
@@ -83,7 +69,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1947-48_BAA赛季" title="wikilink">1947-48</a></p></td>
-<td><p><a href="../Page/马克斯·扎斯洛夫斯基.md" title="wikilink">马克斯·扎斯洛夫斯基</a>{{#tag:ref|<a href="../Page/乔·福尔克斯.md" title="wikilink">乔·福尔克斯在</a><a href="https://zh.wikipedia.org/wiki/1947-48_BAA赛季" title="wikilink">1947-48年赛季平均每场得分最多</a>，达到22.1分，但一共参赛43场，总分949位居第二[17][18]。|group="注"}}</p></td>
+<td><p><a href="../Page/马克斯·扎斯洛夫斯基.md" title="wikilink">马克斯·扎斯洛夫斯基</a>{{#tag:ref|<a href="../Page/乔·福尔克斯.md" title="wikilink">乔·福尔克斯</a>在<a href="https://zh.wikipedia.org/wiki/1947-48_BAA赛季" title="wikilink">1947-48年赛季平均每场得分最多</a>，达到22.1分，但一共参赛43场，总分949位居第二[17][18]。|group="注"}}</p></td>
 <td><p>22</p></td>
 <td><p>/</p></td>
 <td><p><a href="../Page/芝加哥牡鹿.md" title="wikilink">芝加哥牡鹿</a></p></td>
@@ -364,7 +350,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1967-68_NBA赛季" title="wikilink">1967-68</a></p></td>
-<td><p><a href="../Page/戴夫·宾.md" title="wikilink">戴夫·宾</a>*{{#tag:ref|<a href="https://zh.wikipedia.org/wiki/1967-68_NBA赛季" title="wikilink">1967-68年赛季以</a><a href="../Page/奥斯卡·罗伯逊.md" title="wikilink">奥斯卡·罗伯逊场均得分最高</a>，有29.2分，但他出赛只有65场，总分1896分，只排到第六位[61][62]。|group="注"}}</p></td>
+<td><p><a href="../Page/戴夫·宾.md" title="wikilink">戴夫·宾</a>*{{#tag:ref|<a href="https://zh.wikipedia.org/wiki/1967-68_NBA赛季" title="wikilink">1967-68年赛季以</a><a href="../Page/奥斯卡·罗伯逊.md" title="wikilink">奥斯卡·罗伯逊</a>场均得分最高，有29.2分，但他出赛只有65场，总分1896分，只排到第六位[61][62]。|group="注"}}</p></td>
 <td><p>24</p></td>
 <td><p>G</p></td>
 <td><p><a href="../Page/底特律活塞.md" title="wikilink">底特律活塞</a></p></td>
@@ -392,7 +378,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1969-70_NBA赛季" title="wikilink">1969-70</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/杰里·韦斯特" title="wikilink">杰里·韦斯特</a>*{{#tag:ref|<a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink">卢·阿尔辛多在</a><a href="https://zh.wikipedia.org/wiki/1969-70_NBA赛季" title="wikilink">1969-70年赛季所得总分最高</a>，达2361分，但平均每场得分28.8排在第二[67]。|group="注"}}</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杰里·韦斯特" title="wikilink">杰里·韦斯特</a>*{{#tag:ref|<a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink">卢·阿尔辛多在</a><a href="https://zh.wikipedia.org/wiki/1969-70_NBA赛季" title="wikilink">1969-70年赛季所得总分最高</a>，达2361分，但平均每场得分28.8排在第二[67]。|group="注"}}</p></td>
 <td><p>31</p></td>
 <td><p>G</p></td>
 <td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
@@ -406,7 +392,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/1970-71_NBA赛季" title="wikilink">1970-71</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink">卡里姆·阿卜杜勒-贾巴尔</a>*{{#tag:ref|卢·阿尔辛多在<a href="https://zh.wikipedia.org/wiki/1971-72_NBA赛季" title="wikilink">1971-72年赛季开始前更名</a><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink">卡里姆·阿卜杜勒-贾巴尔</a>[70]。|group="注"}}</p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink">卡里姆·阿卜杜勒-贾巴尔</a>*{{#tag:ref|卢·阿尔辛多在<a href="https://zh.wikipedia.org/wiki/1971-72_NBA赛季" title="wikilink">1971-72年赛季开始前更名</a><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink">卡里姆·阿卜杜勒-贾巴尔</a>[70]。|group="注"}}</p></td>
 <td><p>23</p></td>
 <td><p>C</p></td>
 <td><p><a href="../Page/密尔沃基雄鹿.md" title="wikilink">密尔沃基雄鹿</a></p></td>
@@ -420,7 +406,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1971-72_NBA赛季" title="wikilink">1971-72</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink">卡里姆·阿卜杜勒-贾巴尔</a>*（2）</p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink">卡里姆·阿卜杜勒-贾巴尔</a>*（2）</p></td>
 <td><p>24</p></td>
 <td></td>
 <td><p><a href="../Page/密尔沃基雄鹿.md" title="wikilink">密尔沃基雄鹿</a></p></td>
@@ -504,7 +490,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1977-78_NBA赛季" title="wikilink">1977-78</a></p></td>
-<td><p><a href="../Page/乔治·格温.md" title="wikilink">乔治·格温</a>*{{#tag:ref|<a href="../Page/乔治·格温.md" title="wikilink">乔治·格温在</a><a href="https://zh.wikipedia.org/wiki/1977-78_NBA赛季" title="wikilink">1977-78年赛季平均每场比赛获</a>27.21分，比第二名<a href="https://zh.wikipedia.org/wiki/大卫·汤普森" title="wikilink">大卫·汤普森</a>（27.15分）只多0.06分，至今仍是差距最小的得分王之争。汤普森在赛季最后一天进账73分，格温则是63分，汤普森这天还以上半场第一节获32分创下四分之一场比赛的得分纪录，但格温马上就在上半场第二节以33分打破纪录[85][86][87][88]。不过，两人所在球队最终都没有赢得比赛[89]。|group="注"}}</p></td>
+<td><p><a href="../Page/乔治·格温.md" title="wikilink">乔治·格温</a>*{{#tag:ref|<a href="../Page/乔治·格温.md" title="wikilink">乔治·格温</a>在<a href="https://zh.wikipedia.org/wiki/1977-78_NBA赛季" title="wikilink">1977-78年赛季平均每场比赛获</a>27.21分，比第二名<a href="https://zh.wikipedia.org/wiki/大卫·汤普森" title="wikilink">大卫·汤普森</a>（27.15分）只多0.06分，至今仍是差距最小的得分王之争。汤普森在赛季最后一天进账73分，格温则是63分，汤普森这天还以上半场第一节获32分创下四分之一场比赛的得分纪录，但格温马上就在上半场第二节以33分打破纪录[85][86][87][88]。不过，两人所在球队最终都没有赢得比赛[89]。|group="注"}}</p></td>
 <td><p>25</p></td>
 <td><p>/</p></td>
 <td><p><a href="../Page/圣安东尼奥马刺.md" title="wikilink">圣安东尼奥马刺</a></p></td>
@@ -602,7 +588,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/1984-85_NBA赛季" title="wikilink">1984-85</a></p></td>
-<td><p><a href="../Page/伯纳德·金.md" title="wikilink">伯纳德·金</a>*{{#tag:ref|新手球员<a href="../Page/迈克尔·乔丹.md" title="wikilink">迈克尔·乔丹在</a><a href="https://zh.wikipedia.org/wiki/1984-85_NBA赛季" title="wikilink">1984-85年赛季共获得</a>2313分，名列第一，但平均每场28.2分只排到第三。<a href="../Page/伯纳德·金.md" title="wikilink">伯纳德·金的总分同其他球员并列排在第</a>12位，但平均每场得分32.9，位居第一。[104]|group="注"}}</p></td>
+<td><p><a href="../Page/伯纳德·金.md" title="wikilink">伯纳德·金</a>*{{#tag:ref|新手球员<a href="../Page/迈克尔·乔丹.md" title="wikilink">迈克尔·乔丹</a>在<a href="https://zh.wikipedia.org/wiki/1984-85_NBA赛季" title="wikilink">1984-85年赛季共获得</a>2313分，名列第一，但平均每场28.2分只排到第三。<a href="../Page/伯纳德·金.md" title="wikilink">伯纳德·金</a>的总分同其他球员并列排在第12位，但平均每场得分32.9，位居第一。[104]|group="注"}}</p></td>
 <td><p>28</p></td>
 <td><p>F</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/纽约尼克斯" title="wikilink">纽约尼克斯</a></p></td>
@@ -728,7 +714,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1993-94_NBA赛季" title="wikilink">1993-94</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大卫·罗宾逊" title="wikilink">大卫·罗宾逊</a>*{{#tag:ref|<a href="https://zh.wikipedia.org/wiki/大卫·罗宾逊" title="wikilink">大卫·罗宾逊在</a><a href="https://zh.wikipedia.org/wiki/1993-94_NBA赛季" title="wikilink">1993-94年赛季的最后一场比赛拿下</a>71分，最终以微弱优势超越<a href="../Page/沙奎尔·奥尼尔.md" title="wikilink">沙奎尔·奥尼尔获得分王头衔</a>[124]。|group="注"}}</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大卫·罗宾逊" title="wikilink">大卫·罗宾逊</a>*{{#tag:ref|<a href="https://zh.wikipedia.org/wiki/大卫·罗宾逊" title="wikilink">大卫·罗宾逊在</a><a href="https://zh.wikipedia.org/wiki/1993-94_NBA赛季" title="wikilink">1993-94年赛季的最后一场比赛拿下</a>71分，最终以微弱优势超越<a href="../Page/沙奎尔·奥尼尔.md" title="wikilink">沙奎尔·奥尼尔</a>获得分王头衔[124]。|group="注"}}</p></td>
 <td><p>28</p></td>
 <td></td>
 <td><p><a href="../Page/圣安东尼奥马刺.md" title="wikilink">圣安东尼奥马刺</a></p></td>
@@ -784,7 +770,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1997-98_NBA赛季" title="wikilink">1997-98</a></p></td>
-<td><p><a href="../Page/迈克尔·乔丹.md" title="wikilink">迈克尔·乔丹</a>*（10） {{#tag:ref|<a href="../Page/迈克尔·乔丹.md" title="wikilink">迈克尔·乔丹在</a><a href="https://zh.wikipedia.org/wiki/1997-98_NBA赛季" title="wikilink">1997-98年赛季以场均</a>28.7分战胜平均每场28.3分的<a href="../Page/沙奎尔·奥尼尔.md" title="wikilink">沙奎尔·奥尼尔成为得分王</a>，这0.4分至今仍是历史上第三小的分差[133]。乔丹这年开赛时已出生35年60天，是历史上最年长的得分王[134]。|group="注"}}</p></td>
+<td><p><a href="../Page/迈克尔·乔丹.md" title="wikilink">迈克尔·乔丹</a>*（10） {{#tag:ref|<a href="../Page/迈克尔·乔丹.md" title="wikilink">迈克尔·乔丹</a>在<a href="https://zh.wikipedia.org/wiki/1997-98_NBA赛季" title="wikilink">1997-98年赛季以场均</a>28.7分战胜平均每场28.3分的<a href="../Page/沙奎尔·奥尼尔.md" title="wikilink">沙奎尔·奥尼尔</a>成为得分王，这0.4分至今仍是历史上第三小的分差[133]。乔丹这年开赛时已出生35年60天，是历史上最年长的得分王[134]。|group="注"}}</p></td>
 <td><p>34</p></td>
 <td></td>
 <td><p><a href="../Page/芝加哥公牛.md" title="wikilink">芝加哥公牛</a></p></td>
@@ -826,7 +812,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2000-01_NBA赛季" title="wikilink">2000-01</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿伦·艾佛森" title="wikilink">阿伦·艾佛森</a>*（2）{{#tag:ref|<a href="../Page/杰里·斯塔克豪斯.md" title="wikilink">杰里·斯塔克豪斯在</a><a href="https://zh.wikipedia.org/wiki/2000-01_NBA赛季" title="wikilink">2000-2001年赛季得分最高</a>，有2380分，但平均每场29.8分只排第二[144]。|group="注"}}</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿伦·艾佛森" title="wikilink">阿伦·艾佛森</a>*（2）{{#tag:ref|<a href="../Page/杰里·斯塔克豪斯.md" title="wikilink">杰里·斯塔克豪斯</a>在<a href="https://zh.wikipedia.org/wiki/2000-01_NBA赛季" title="wikilink">2000-2001年赛季得分最高</a>，有2380分，但平均每场29.8分只排第二[144]。|group="注"}}</p></td>
 <td><p>25</p></td>
 <td></td>
 <td><p><a href="../Page/费城76人.md" title="wikilink">费城76人</a></p></td>
@@ -854,7 +840,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2002-03_NBA赛季" title="wikilink">2002-03</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/特雷西·麦格雷迪" title="wikilink">特雷西·麦格雷迪</a>{{#tag:ref|<a href="../Page/科比·布莱恩特.md" title="wikilink">科比·布莱恩特在</a><a href="https://zh.wikipedia.org/wiki/2002-03_NBA赛季" title="wikilink">2002-2003年赛季得分最多</a>，达2461分，但平均每场得分30只排到第二名[150]。|group="注"}}</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/特雷西·麦格雷迪" title="wikilink">特雷西·麦格雷迪</a>{{#tag:ref|<a href="../Page/科比·布莱恩特.md" title="wikilink">科比·布莱恩特</a>在<a href="https://zh.wikipedia.org/wiki/2002-03_NBA赛季" title="wikilink">2002-2003年赛季得分最多</a>，达2461分，但平均每场得分30只排到第二名[150]。|group="注"}}</p></td>
 <td><p>23</p></td>
 <td><p>/</p></td>
 <td><p><a href="../Page/奥兰多魔术.md" title="wikilink">奥兰多魔术</a></p></td>
@@ -868,7 +854,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2003-04_NBA赛季" title="wikilink">2003-04</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/特雷西·麦格雷迪" title="wikilink">特雷西·麦格雷迪</a>（2）{{#tag:ref|<a href="../Page/凯文·加内特.md" title="wikilink">凯文·加内特在</a><a href="https://zh.wikipedia.org/wiki/2003-04_NBA赛季" title="wikilink">2003-2004年赛季得到</a>1987分位居第一，但场均得分24.2只排第三[153]。|group="注"}}</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/特雷西·麦格雷迪" title="wikilink">特雷西·麦格雷迪</a>（2）{{#tag:ref|<a href="../Page/凯文·加内特.md" title="wikilink">凯文·加内特</a>在<a href="https://zh.wikipedia.org/wiki/2003-04_NBA赛季" title="wikilink">2003-2004年赛季得到</a>1987分位居第一，但场均得分24.2只排第三[153]。|group="注"}}</p></td>
 <td><p>24</p></td>
 <td><p>/</p></td>
 <td><p><a href="../Page/奥兰多魔术.md" title="wikilink">奥兰多魔术</a></p></td>
@@ -924,7 +910,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2007-08_NBA赛季.md" title="wikilink">2007-08</a></p></td>
-<td><p><a href="../Page/勒布朗·詹姆斯.md" title="wikilink">勒布朗·詹姆斯</a>^{{#tag:ref|<a href="../Page/科比·布莱恩特.md" title="wikilink">科比·布莱恩特在</a><a href="../Page/2007-08_NBA赛季.md" title="wikilink">2007-2008年赛季得分最多</a>，有2323分，但平均每场28.3分排在第二[158]。|group="注"}}</p></td>
+<td><p><a href="../Page/勒布朗·詹姆斯.md" title="wikilink">勒布朗·詹姆斯</a>^{{#tag:ref|<a href="../Page/科比·布莱恩特.md" title="wikilink">科比·布莱恩特</a>在<a href="../Page/2007-08_NBA赛季.md" title="wikilink">2007-2008年赛季得分最多</a>，有2323分，但平均每场28.3分排在第二[158]。|group="注"}}</p></td>
 <td><p>23</p></td>
 <td></td>
 <td><p><a href="../Page/克里夫兰骑士.md" title="wikilink">克里夫兰骑士</a></p></td>
@@ -952,7 +938,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2009-10_NBA赛季.md" title="wikilink">2009-10</a></p></td>
-<td><p><a href="../Page/凯文·杜兰特.md" title="wikilink">凯文·杜兰特</a>^{{#tag:ref|<a href="../Page/凯文·杜兰特.md" title="wikilink">凯文·杜兰特在</a><a href="../Page/2009-10_NBA赛季.md" title="wikilink">2009-2010年赛季平均每场比赛获</a>30.1分，比第二名<a href="../Page/勒布朗·詹姆斯.md" title="wikilink">勒布朗·詹姆斯</a>（29.7分）只多0.4分[161]。杜兰特在赛季开始时只有21岁197天大，成为历史上最年轻的得分王[162]。|group="注"}}</p></td>
+<td><p><a href="../Page/凯文·杜兰特.md" title="wikilink">凯文·杜兰特</a>^{{#tag:ref|<a href="../Page/凯文·杜兰特.md" title="wikilink">凯文·杜兰特</a>在<a href="../Page/2009-10_NBA赛季.md" title="wikilink">2009-2010年赛季平均每场比赛获</a>30.1分，比第二名<a href="../Page/勒布朗·詹姆斯.md" title="wikilink">勒布朗·詹姆斯</a>（29.7分）只多0.4分[161]。杜兰特在赛季开始时只有21岁197天大，成为历史上最年轻的得分王[162]。|group="注"}}</p></td>
 <td><p>21</p></td>
 <td></td>
 <td><p><a href="../Page/俄克拉何马城雷霆.md" title="wikilink">俄克拉何马城雷霆</a></p></td>
@@ -980,7 +966,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2011-12_NBA赛季.md" title="wikilink">2011-12</a>{{#tag:ref|因劳资谈判破裂，<a href="../Page/2011-12_NBA赛季.md" title="wikilink">2011-2012年赛季缩短为</a>66场比赛[165]，赛季得分王的入选资格也调整为参赛至少56场或得到1127分[166]。|group="注"}}</p></td>
-<td><p><a href="../Page/凯文·杜兰特.md" title="wikilink">凯文·杜兰特</a>^（3）{{#tag:ref|<a href="../Page/凯文·杜兰特.md" title="wikilink">凯文·杜兰特在平均每场得到</a>28.03分，比<a href="../Page/科比·布莱恩特.md" title="wikilink">科比·布莱恩特的</a>27.86分只多0.17分，是得分王历史上第二小的分差[167][168]。布莱恩特如果要获胜，必须在最后一场比赛得到至少38分，但他决定休息[169]。|group="注"}}</p></td>
+<td><p><a href="../Page/凯文·杜兰特.md" title="wikilink">凯文·杜兰特</a>^（3）{{#tag:ref|<a href="../Page/凯文·杜兰特.md" title="wikilink">凯文·杜兰特</a>在平均每场得到28.03分，比<a href="../Page/科比·布莱恩特.md" title="wikilink">科比·布莱恩特</a>的27.86分只多0.17分，是得分王历史上第二小的分差[167][168]。布莱恩特如果要获胜，必须在最后一场比赛得到至少38分，但他决定休息[169]。|group="注"}}</p></td>
 <td><p>23</p></td>
 <td></td>
 <td><p><a href="../Page/俄克拉何马城雷霆.md" title="wikilink">俄克拉何马城雷霆</a></p></td>
@@ -1077,11 +1063,25 @@
 <td><p>[179]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2018-19_NBA赛季" title="wikilink">2018-19</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/詹姆斯·哈登" title="wikilink">詹姆斯·哈登</a>^（2）</p></td>
-<td><p>29</p></td>
+<td><p>28</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休士頓火箭" title="wikilink">休士頓火箭</a></p></td>
+<td><p>78</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>36.1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1108,7 +1108,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p>迈克尔·乔丹</p></td>
+<td><p><a href="../Page/迈克尔·乔丹.md" title="wikilink">迈克尔·乔丹</a></p></td>
 <td><p><a href="../Page/芝加哥公牛.md" title="wikilink">芝加哥公牛</a></p></td>
 <td><p>10</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1986-87_NBA赛季" title="wikilink">1986-87 NBA赛季</a>、<a href="https://zh.wikipedia.org/wiki/1987-88_NBA赛季" title="wikilink">1987-88 NBA赛季</a>、<a href="https://zh.wikipedia.org/wiki/1988-89_NBA赛季" title="wikilink">1988-89 NBA赛季</a>、<a href="https://zh.wikipedia.org/wiki/1989-90_NBA赛季" title="wikilink">1989-90 NBA赛季</a>、<a href="https://zh.wikipedia.org/wiki/1990-91_NBA赛季" title="wikilink">1990-91 NBA赛季</a>、<a href="https://zh.wikipedia.org/wiki/1991-92_NBA赛季" title="wikilink">1991-92 NBA赛季</a>、<a href="https://zh.wikipedia.org/wiki/1992-93_NBA赛季" title="wikilink">1992-93 NBA赛季</a>、<a href="https://zh.wikipedia.org/wiki/1995-96_NBA赛季" title="wikilink">1995-96 NBA赛季</a>、<a href="https://zh.wikipedia.org/wiki/1996-97_NBA赛季" title="wikilink">1996-97 NBA赛季</a>、<a href="https://zh.wikipedia.org/wiki/1997-98_NBA赛季" title="wikilink">1997-98 NBA赛季</a></p></td>
@@ -1150,7 +1150,7 @@
 <td><p>5</p></td>
 <td><p><a href="../Page/保罗·阿里金.md" title="wikilink">保罗·阿里金</a><br />
 、<a href="../Page/鲍勃·佩蒂特.md" title="wikilink">鲍勃·佩蒂特</a><br />
-、<a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink">卡里姆·阿卜杜勒-贾巴尔</a><br />
+、<a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink">卡里姆·阿卜杜勒-贾巴尔</a><br />
 、<a href="../Page/阿德里安·丹特利.md" title="wikilink">阿德里安·丹特利</a><br />
 、<a href="../Page/沙奎尔·奥尼尔.md" title="wikilink">沙奎尔·奥尼尔</a><br />
 、<a href="../Page/特雷西·麦克格雷迪.md" title="wikilink">特雷西·麦克格雷迪</a><br />
@@ -1167,7 +1167,7 @@
 <td><p>2</p></td>
 <td><p><a href="../Page/1951-52_NBA赛季.md" title="wikilink">1951-52 NBA赛季</a>、<a href="https://zh.wikipedia.org/wiki/1956-57_NBA赛季" title="wikilink">1956-57 NBA赛季</a><br />
 /<a href="../Page/1955-56_NBA赛季.md" title="wikilink">1955-56 NBA赛季</a>、<a href="https://zh.wikipedia.org/wiki/1958-59_NBA赛季" title="wikilink">1958-59 NBA赛季</a><br />
-、<a href="https://zh.wikipedia.org/wiki/1970-71_NBA赛季" title="wikilink">1970-71 NBA赛季</a>、<a href="https://zh.wikipedia.org/wiki/1971-72_NBA赛季" title="wikilink">1971-72 NBA赛季</a><br />
+/<a href="https://zh.wikipedia.org/wiki/1970-71_NBA赛季" title="wikilink">1970-71 NBA赛季</a>、<a href="https://zh.wikipedia.org/wiki/1971-72_NBA赛季" title="wikilink">1971-72 NBA赛季</a><br />
 /<a href="https://zh.wikipedia.org/wiki/1980-81_NBA赛季" title="wikilink">1980-81 NBA赛季</a>、<a href="https://zh.wikipedia.org/wiki/1983-84_NBA赛季" title="wikilink">1983-84 NBA赛季</a><br />
 /<a href="https://zh.wikipedia.org/wiki/1994-95_NBA赛季" title="wikilink">1994-95 NBA赛季</a>、<a href="https://zh.wikipedia.org/wiki/1999-00_NBA赛季" title="wikilink">1999-00 NBA赛季</a><br />
 <a href="https://zh.wikipedia.org/wiki/2002-03_NBA赛季" title="wikilink">2002-03 NBA赛季</a>、<a href="https://zh.wikipedia.org/wiki/2003-04_NBA赛季" title="wikilink">2003-04 NBA赛季</a><br />
@@ -1196,313 +1196,184 @@
 
   - 特定
 
-[Category:NBA列表](https://zh.wikipedia.org/wiki/Category:NBA列表 "wikilink")
-[Category:NBA数据统计](https://zh.wikipedia.org/wiki/Category:NBA数据统计 "wikilink")
+[Category:NBA列表](https://zh.wikipedia.org/wiki/Category:NBA列表 "wikilink") [Category:NBA数据统计](https://zh.wikipedia.org/wiki/Category:NBA数据统计 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
 10.
-
 11.
 12.
-
 13.
 14.
-
 15.
-
 16.
-
 17.
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
 24.
-
 25.
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
 32.
-
 33.
 34.
-
 35.
-
 36.
-
 37.
 38.
-
 39.
-
 40.
-
 41.
 42.
-
 43.
 44.
-
 45.
-
 46.
 47.
-
 48.
 49.
 50.
-
 51.
 52.
-
 53.
 54.
-
 55.
 56.
-
 57.
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
 74.
-
 75.
-
 76.
-
 77.
-
 78.
-
 79.
 80.
-
 81.
 82.
-
 83.
-
 84.
-
 85.
-
 86.
-
 87.
-
 88.
-
 89.
-
 90.
-
 91.
-
 92.
 93.
-
 94.
 95.
-
 96.
-
 97.
-
 98.
 99.
-
 100.
-
 101.
-
 102.
 103.
-
 104.
-
 105.
-
 106.
-
 107.
-
 108.
-
 109.
-
 110.
-
 111.
-
 112.
 113.
-
 114.
 115.
-
 116.
 117.
-
 118.
 119.
-
 120.
 121.
-
 122.
 123.
-
 124.
-
 125.
-
 126.
-
 127.
-
 128.
-
 129.
 130.
-
 131.
 132.
-
 133.
-
 134.
-
 135.
 136.
-
 137.
-
 138.
 139.
-
 140.
-
 141.
-
 142.
 143.
-
 144.
-
 145.
 146.
-
 147.
-
 148.
 149.
-
 150.
-
 151.
-
 152.
-
 153.
-
 154.
 155.
 156.
-
 157.
 158.
-
 159.
-
 160.
-
 161.
-
 162.
 163.
-
 164.
 165.
-
 166.
 167.
 168.
-
 169.
 170.
 171.
-
 172.
-
 173.
 174.
-
 175.
-
 176.
-
 177.
-
 178.
 179.

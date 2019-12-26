@@ -136,8 +136,8 @@
 的士司機，後至機靈吧當DJ</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/劉玉翠.md" title="wikilink">劉玉翠</a></p></td>
-<td><p>梁添寶</p></td>
+<td><p><strong><a href="../Page/劉玉翠.md" title="wikilink">劉玉翠</a></strong></p></td>
+<td><p><strong>梁添寶</strong></p></td>
 <td><p><strong>Bobo、暴暴龍</strong><br />
 前仁安堂營業部員工，不幸被裁員<br />
 莊秀麗、邱家振的下屬<br />

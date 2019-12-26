@@ -10,7 +10,7 @@
 
   - 1台脈衝搜索雷達（Pulse Acquisition Radar，**PAR**）
   - 1台連續波搜索雷達（Continuous Wave Acquisition Radar，**CWAR**）
-  - 2台高功率連續波督卜勒雷達（High Power Illuminator doppler Radar，**HPI**）
+  - 2台高功率都卜勒照明雷達（High Power Illuminator doppler Radar，**HPI**）
   - 1台測距雷達（Range Only Radar，**ROR**）
   - 1組資訊協調中心（Information Coordination Central，**ICC**）
   - 1組飛彈連控制中心（Battery Control Central，*'BCC*）
@@ -28,7 +28,7 @@
 
   - 1台脈衝搜索雷達
   - 1台連續波搜索雷達
-  - 2台高功率連續波督卜勒雷達
+  - 2台高功率都卜勒照明雷達
   - 1組火力控制中心（Fire Direction Center，**FDC**）
   - 1套敵我辨識系統（Identification Friend or Foe Transceiver，**IFF**）
   - 6輛數位化M192三連裝飛彈發射架，18枚戰備彈

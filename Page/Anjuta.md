@@ -28,9 +28,7 @@ Anjuta特載了：
 [Category:集成开发环境](https://zh.wikipedia.org/wiki/Category:集成开发环境 "wikilink") [Category:Linux集成开发环境](https://zh.wikipedia.org/wiki/Category:Linux集成开发环境 "wikilink") [Category:C語言](https://zh.wikipedia.org/wiki/Category:C語言 "wikilink") [Category:C++編譯器](https://zh.wikipedia.org/wiki/Category:C++編譯器 "wikilink")
 
 1.  [Sources of Anjuta](http://ftp.gnome.org/pub/GNOME/sources/anjuta/)
-
 2.
 3.
-
 4.
 5.

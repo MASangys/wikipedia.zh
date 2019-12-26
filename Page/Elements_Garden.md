@@ -145,7 +145,7 @@
 ## 外部連結
 
   - [Elements Garden « ARIA entertainment アリア・エンターテインメント](http://www.ariamusic.co.jp/elements-garden/)，在ARIA entertainment的官方網站
-  - [ElementsGarden](http://elegablog.exblog.jp/)，官方網誌
+  - [ElementsGarden](https://web.archive.org/web/20110513194518/http://elegablog.exblog.jp/)，官方網誌
   - [ARIA entertainment アリア・エンターテインメント](http://www.ariamusic.co.jp/)，ARIA entertainment
 
 [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:遊戲音樂團體](https://zh.wikipedia.org/wiki/Category:遊戲音樂團體 "wikilink")

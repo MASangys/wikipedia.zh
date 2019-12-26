@@ -1,4 +1,4 @@
-**Windows Workflow Foundation**（WF），是一項微軟技術，用於定義、執行、管理工作流程（workflows）。目前已原生於[Windows vista作業系統](https://zh.wikipedia.org/wiki/Windows_vista "wikilink")，並可以安裝在 [Windows XP sp2](../Page/Windows_XP.md "wikilink") 和 [Windows Server 2003](../Page/Windows_Server_2003.md "wikilink") 作業系統。
+**Windows Workflow Foundation**（WF），是一項微軟技術，用於定義、執行、管理工作流程（workflows）。目前已原生於[Windows Vista作業系統](../Page/Windows_Vista.md "wikilink")，並可以安裝在 [Windows XP SP2](../Page/Windows_XP.md "wikilink") 和 [Windows Server 2003](../Page/Windows_Server_2003.md "wikilink") 作業系統。
 
 ## 創作流程
 

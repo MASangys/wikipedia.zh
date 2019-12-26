@@ -1,12 +1,11 @@
-**yozuca\***，[熊本縣出身](../Page/熊本縣.md "wikilink")，[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")，演唱[遊戲及](../Page/遊戲.md "wikilink")[動畫歌曲為主](../Page/動畫歌曲.md "wikilink")。所屬事務所為Peak
-A Soul+，唱片公司為[Lantis](../Page/Lantis.md "wikilink")。
+**yozuca\***，[熊本縣](../Page/熊本縣.md "wikilink")出身，[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")，演唱[遊戲及](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[動畫歌曲](../Page/動畫歌曲.md "wikilink")為主。所屬事務所為Peak A Soul+，唱片公司為[Lantis](../Page/Lantis.md "wikilink")。
 
 ## 概要
 
-  - 多次參與CIRCUS的作品[初音島及](../Page/初音島.md "wikilink")[水夏系列的主題歌](../Page/水夏.md "wikilink")。
+  - 多次參與CIRCUS的作品[初音島](../Page/初音島.md "wikilink")及[水夏](../Page/水夏.md "wikilink")系列的主題歌。
   - 在初音島系列本編的主題曲歌名皆冠以『』。
       - 動畫版主題曲歌名則冠以『』。
-  - 與[CooRie的rino的合作相當多](../Page/CooRie.md "wikilink")，曾以yozurino\*的名義合作。
+  - 與[CooRie](../Page/CooRie.md "wikilink")的rino的合作相當多，曾以yozurino\*的名義合作。
 
 ## 作品
 
@@ -30,9 +29,9 @@ A Soul+，唱片公司為[Lantis](../Page/Lantis.md "wikilink")。
 <td><p><strong>ダ・カーポ 〜第2ボタンの誓い〜</strong></p></td>
 <td><p><small>作詞：tororo<br />
 作曲：tororo<br />
-編曲：<a href="../Page/Angel_Note.md" title="wikilink">Angel Note</a></small></p></td>
-<td><p><small>*c/w「Dream 〜The ally of〜」（歌：<a href="../Page/rino.md" title="wikilink">rino</a>）<br />
-*c/w「Dream 〜The other side〜」（歌：<a href="../Page/みとせのりこ.md" title="wikilink">みとせのりこ</a>）</small></p></td>
+編曲：<a href="https://zh.wikipedia.org/wiki/Angel_Note" title="wikilink">Angel Note</a></small></p></td>
+<td><p><small>*c/w「Dream 〜The ally of〜」（歌：<a href="https://zh.wikipedia.org/wiki/rino" title="wikilink">rino</a>）<br />
+*c/w「Dream 〜The other side〜」（歌：<a href="https://zh.wikipedia.org/wiki/みとせのりこ" title="wikilink">みとせのりこ</a>）</small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>2nd</small></p></td>
@@ -42,7 +41,7 @@ A Soul+，唱片公司為[Lantis](../Page/Lantis.md "wikilink")。
 作曲：tororo<br />
 編曲：Angel Note</small></p></td>
 <td><p><small>*c/w「未来へのMelody」（歌：<a href="../Page/CooRie.md" title="wikilink">CooRie</a>）<br />
-*最高31位（<a href="../Page/oricon.md" title="wikilink">oricon</a>）</small></p></td>
+*最高31位（<a href="https://zh.wikipedia.org/wiki/oricon" title="wikilink">oricon</a>）</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>3rd</small></p></td>
@@ -61,7 +60,7 @@ A Soul+，唱片公司為[Lantis](../Page/Lantis.md "wikilink")。
 <td><p><small>作詞：三浦洋晃<br />
 作曲：原田勝通<br />
 編曲：Angel Note</small></p></td>
-<td><p><small>*c/w「光風」（歌：<a href="../Page/橋本みゆき.md" title="wikilink">橋本みゆき</a>）</small><br />
+<td><p><small>*c/w「光風」（歌：<a href="https://zh.wikipedia.org/wiki/橋本みゆき" title="wikilink">橋本みゆき</a>）</small><br />
 *最高131位（oricon）</p></td>
 </tr>
 <tr class="odd">
@@ -71,7 +70,7 @@ A Soul+，唱片公司為[Lantis](../Page/Lantis.md "wikilink")。
 <td><p><small>作詞：tororo<br />
 作曲：tororo<br />
 編曲：Angel Note</small></p></td>
-<td><p><small>*c/w「本当の笑顔」（作詞：yozuca*、作曲・編曲：<a href="../Page/黒須克彦.md" title="wikilink">黒須克彦</a>）<br />
+<td><p><small>*c/w「本当の笑顔」（作詞：yozuca*、作曲・編曲：<a href="https://zh.wikipedia.org/wiki/黒須克彦" title="wikilink">黒須克彦</a>）<br />
 *最高80位（oricon）</small></p></td>
 </tr>
 <tr class="even">
@@ -112,7 +111,7 @@ A Soul+，唱片公司為[Lantis](../Page/Lantis.md "wikilink")。
 <td><p><small>2006年2月8日</small></p></td>
 <td><p><strong>たったひとつだけ</strong></p></td>
 <td><p><small>作詞：mavie<br />
-作曲：<a href="../Page/斎藤真也.md" title="wikilink">齋藤真也</a><br />
+作曲：<a href="https://zh.wikipedia.org/wiki/斎藤真也" title="wikilink">齋藤真也</a><br />
 編曲：齋藤真也</small></p></td>
 <td><p><small>*c/w「ヒトリゴト」（作詞・作曲：yozuca*、編曲：河合英嗣）<br />
 *最高40位（oricon）</small></p></td>
@@ -187,7 +186,7 @@ A Soul+，唱片公司為[Lantis](../Page/Lantis.md "wikilink")。
 <td><p><small>作詞：こだまさおり<br />
 作曲：俊龍<br />
 編曲：藤田淳平</small></p></td>
-<td><p><small>*c/w「one」（作詞・作曲：yozuca*、編曲：<a href="../Page/安瀬聖.md" title="wikilink">安瀬聖</a>）<br />
+<td><p><small>*c/w「one」（作詞・作曲：yozuca*、編曲：<a href="https://zh.wikipedia.org/wiki/安瀬聖" title="wikilink">安瀬聖</a>）<br />
 *最高116位（oricon）</p></td>
 </tr>
 <tr class="odd">
@@ -228,7 +227,7 @@ A Soul+，唱片公司為[Lantis](../Page/Lantis.md "wikilink")。
 <td><p><small>2002年11月22日</small></p></td>
 <td><p><strong>Songs from D.C. 〜ダ・カーポ〜</strong></p></td>
 <td><p><small>*だからキスのせいね</small></p></td>
-<td><p><small>作詞：<a href="../Page/畑亜貴.md" title="wikilink">畑亜貴</a>、作曲：猫野こめっと、編曲：<a href="../Page/小松一也.md" title="wikilink">小松一也</a></small></p></td>
+<td><p><small>作詞：<a href="https://zh.wikipedia.org/wiki/畑亜貴" title="wikilink">畑亜貴</a>、作曲：猫野こめっと、編曲：<a href="https://zh.wikipedia.org/wiki/小松一也" title="wikilink">小松一也</a></small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>2003年4月2日</small></p></td>
@@ -239,7 +238,7 @@ A Soul+，唱片公司為[Lantis](../Page/Lantis.md "wikilink")。
 *Sow</small></p></td>
 <td><p><small>作詞：畑亜貴、作曲：猫野こめっと、編曲：土屋学<br />
 作詞・作曲：tororo、編曲：長田直之<br />
-作詞：tororo、作曲：猫野こめっと、編曲：<a href="../Page/安瀬聖.md" title="wikilink">安瀬聖</a><br />
+作詞：tororo、作曲：猫野こめっと、編曲：<a href="https://zh.wikipedia.org/wiki/安瀬聖" title="wikilink">安瀬聖</a><br />
 作詞・作曲：tororo、編曲：長田直之</small></p></td>
 </tr>
 <tr class="odd">
@@ -283,7 +282,7 @@ A Soul+，唱片公司為[Lantis](../Page/Lantis.md "wikilink")。
 <td><p><small>2004年12月1日</small></p></td>
 <td><p><strong>最終試験くじら 〜progressive memories〜</strong></p></td>
 <td><p><small>*ウシロスガタ（『crystal3 〜サーカス ヴォーカルコレクション〜 Vol.3にも収録』）</small></p></td>
-<td><p><small>作詞：<a href="../Page/ゆうまお.md" title="wikilink">ゆうまお</a>、作曲・編曲：太田雅友</small></p></td>
+<td><p><small>作詞：<a href="https://zh.wikipedia.org/wiki/ゆうまお" title="wikilink">ゆうまお</a>、作曲・編曲：太田雅友</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>2005年1月13日</small></p></td>
@@ -301,13 +300,13 @@ A Soul+，唱片公司為[Lantis](../Page/Lantis.md "wikilink")。
 <td><p><small>2005年4月28日</small></p></td>
 <td><p><strong>School Days VOCAL ALBUM</strong></p></td>
 <td><p><small>*BYE-BYE-TEARS</small></p></td>
-<td><p><small>作詞：<a href="../Page/KIRIKO.md" title="wikilink">KIRIKO</a>、作曲・編曲：<a href="../Page/KIRIKO/HIKO_sound.md" title="wikilink">HIKO</a></small></p></td>
+<td><p><small>作詞：<a href="https://zh.wikipedia.org/wiki/KIRIKO" title="wikilink">KIRIKO</a>、作曲・編曲：<a href="https://zh.wikipedia.org/wiki/KIRIKO/HIKO_sound" title="wikilink">HIKO</a></small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>2005年8月24日</small></p></td>
 <td><p><strong>18 songs Memories</strong></p></td>
 <td><p><small>*オルゴール</small></p></td>
-<td><p><small>作詞：<a href="../Page/ヤマグチノボル.md" title="wikilink">ヤマグチノボル</a>、作曲：<a href="../Page/milktub.md" title="wikilink">milktub</a>、編曲：ms-jacky</small></p></td>
+<td><p><small>作詞：<a href="https://zh.wikipedia.org/wiki/ヤマグチノボル" title="wikilink">ヤマグチノボル</a>、作曲：<a href="https://zh.wikipedia.org/wiki/milktub" title="wikilink">milktub</a>、編曲：ms-jacky</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>2005年12月21日</small></p></td>
@@ -402,9 +401,9 @@ A Soul+，唱片公司為[Lantis](../Page/Lantis.md "wikilink")。
 
 ### 作詞
 
-  - （歌：[milktub](../Page/milktub.md "wikilink")）
+  - （歌：[milktub](https://zh.wikipedia.org/wiki/milktub "wikilink")）
 
-  - fortitude（歌：[飛蘭](../Page/飛蘭.md "wikilink")）
+  - fortitude（歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")）
 
   - I sing by my soul（歌：飛蘭）
 
@@ -416,7 +415,7 @@ A Soul+，唱片公司為[Lantis](../Page/Lantis.md "wikilink")。
 
   - （歌：飛蘭）
 
-  - （歌：[桃色幸運草](../Page/桃色幸運草.md "wikilink")）
+  - （歌：[桃色幸運草](https://zh.wikipedia.org/wiki/桃色幸運草 "wikilink")）
 
 ### 作曲
 
@@ -428,7 +427,4 @@ A Soul+，唱片公司為[Lantis](../Page/Lantis.md "wikilink")。
 
   - [官方網站](https://www.peakasoul.net/yozuca/)
 
-[Category:熊本縣出身人物](https://zh.wikipedia.org/wiki/Category:熊本縣出身人物 "wikilink")
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
+[Category:熊本縣出身人物](https://zh.wikipedia.org/wiki/Category:熊本縣出身人物 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")

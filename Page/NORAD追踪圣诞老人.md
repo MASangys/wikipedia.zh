@@ -16,7 +16,7 @@
 
 ## 公司赞助
 
-跟踪圣诞老人项目只花费了政府专用基金的极少部分，因为它得到许多公司和个人的捐赠。[服务器](../Page/服务器.md "wikilink")、网站设计、视频制作、跟踪地图和[电信](../Page/电信.md "wikilink")服务等等，所有的设备和服务都是赞助商及个人赞助提供的。[WHOIS查询结果显示](https://zh.wikipedia.org/wiki/WHOIS "wikilink")，域名所有人是[Analytical Graphics](https://zh.wikipedia.org/wiki/Analytical_Graphics "wikilink")，2008年网站的主要赞助由[Google](../Page/Google.md "wikilink")和[博思艾伦提供](https://zh.wikipedia.org/wiki/博思艾伦 "wikilink")\[10\]。
+跟踪圣诞老人项目只花费了政府专用基金的极少部分，因为它得到许多公司和个人的捐赠。[服务器](../Page/服务器.md "wikilink")、网站设计、视频制作、跟踪地图和[电信](../Page/电信.md "wikilink")服务等等，所有的设备和服务都是赞助商及个人赞助提供的。[WHOIS](../Page/WHOIS.md "wikilink")查询结果显示，域名所有人是[Analytical Graphics](https://zh.wikipedia.org/wiki/Analytical_Graphics "wikilink")，2008年网站的主要赞助由[Google](../Page/Google.md "wikilink")和[博思艾伦提供](https://zh.wikipedia.org/wiki/博思艾伦 "wikilink")\[10\]。
 
 ## 参考资料
 
@@ -26,16 +26,11 @@
 [Category:1997年建立的网站](https://zh.wikipedia.org/wiki/Category:1997年建立的网站 "wikilink") [Category:圣诞节](https://zh.wikipedia.org/wiki/Category:圣诞节 "wikilink") [Category:美国军事文化](https://zh.wikipedia.org/wiki/Category:美国军事文化 "wikilink") [Category:美國空軍歷史](https://zh.wikipedia.org/wiki/Category:美國空軍歷史 "wikilink") [Category:1955年美國建立](https://zh.wikipedia.org/wiki/Category:1955年美國建立 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
 8.
 9.

@@ -235,101 +235,57 @@ launch under contract</p></td>
 [Category:X獎](https://zh.wikipedia.org/wiki/Category:X獎 "wikilink") [Category:Google月球X大獎](https://zh.wikipedia.org/wiki/Category:Google月球X大獎 "wikilink") [Category:2007年建立的奬項](https://zh.wikipedia.org/wiki/Category:2007年建立的奬項 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  <https://www.space.com/39467-google-lunar-xprize-moon-race-ends.html>
-
 8.  <https://lunar.xprize.org/news/blog/important-update-google-lunar-xprize>
-
 9.
-
 10.
 11. {{ cite web | url = <http://www.appledaily.com.tw/appledaily/article/international/20070915/3820729/> | title = 企業登月 Google獎9.9億 | author = 張翠蘭 | date = 2007-09-15 | publisher = [蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink") }}
-
 12. {{ cite web | url = <http://www.appledaily.com.tw/appledaily/article/international/20101005/32861247/> | title = Google登月創意賽 獎金6億 | author = 張翠蘭 | date = 2010-10-05 | publisher = [蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink") }}
-
 13. {{ cite web | url = <http://news.ltn.com.tw/news/life/breakingnews/1146034> | title = 維珍銀河太空船2號試飛墜毀 1死1重傷 | date = 2014-11-01 | publisher = [自由時報](../Page/自由時報.md "wikilink") }}
-
 14. {{ cite web | url = <http://tech2ipo.com/93684> | title = Google登月计划将延缓至2016 | author = 王梦璇 | date = 2014-12-24 | publisher = TECH2IPO 創見 }}
-
 15.
 16.
-
 17.
-
 18.
-
 19.
-
 20.
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26. [Astrobotic reveals moon mission plans](http://www.msnbc.msn.com/id/27463864/) *msnbc.msn.com*
-
 27.
-
 28. Opam, Kwame. ["Moon Express unveils lunar lander design with planned 2015 launch date"](http://www.theverge.com/2013/12/8/5189336/moon-express-unveils-designs-for-robotic-lunar-lander), Vox Media, Inc., 9 December 2013
-
 29.
-
 30.
-
 31.
-
 32.  Omega Envoy's Sagan rover and Angelicvm's Dandelion rover will land together. Sagan will explore first and Dandelion will follow.
-
 33.
-
 34.
 35.
-
 36.
-
 37. [Announcement: New Team Name is "HAKUTO"](http://www.googlelunarxprize.org/teams/white-label-space/blog/announcement-new-team-name-hakuto)
-
 38.
 39.
-
 40.
 41.
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
 50.
-
 51.
-
 52.
-
 53.
 54.
 55.

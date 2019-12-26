@@ -293,11 +293,8 @@ Mark.06由SEELE在月球上建造而成，似乎是把月球上戴著近似[七�
 [Category:新世紀福音戰士](https://zh.wikipedia.org/wiki/Category:新世紀福音戰士 "wikilink") [Category:虚构机器人](https://zh.wikipedia.org/wiki/Category:虚构机器人 "wikilink")
 
 1.  [ヱヴァンゲリヲン新劇場版:序_公式サイト_キャラクター相関図](http://www.evangelion.co.jp/1_0/chara.html). 【-{語源は「euangelion」（ギリシア語の“福音”）}-】
-
 2.  山下いくと于漫画第一卷的留言
-
 3.  エヴァ制作開始インタビュー，*月刊Newtype* 1995年4月号
-
 4.
 5.
 6.
@@ -307,50 +304,34 @@ Mark.06由SEELE在月球上建造而成，似乎是把月球上戴著近似[七�
 10.
 11.
 12. インテリア、Interior
-
 13.
 14.
 15.
 16. インターフェース・ヘッドセット、Interface Headset，另译 头部接口装置、感应介面装置
-
 17.
 18.
 19. コントロールレバー
-
 20.
 21. プラグスーツ、Plug Suit，另译 作战服
-
 22.
 23.
 24.
 25.
 26. ダミーシステム、Dummy System
-
 27.
 28.
 29.
 30.
 31.
 32. 在動畫OP中，曾出現卡爾巴拉生命之樹，但在TV動畫中並沒有明確的參照（它同樣出現在了碇源堂辦公室的天花板上）。
-
 33. [EVA racing](http://eva-racing.com/)
-
 34. [500 TYPE EVA](http://www.500type-eva.jp/)
-
 35. （[台灣東販](../Page/台灣東販.md "wikilink")中文版 ISBN 957-643-522-6）
-
 36. 貞本義行Interview，录像带(VHS)0卷（Genesis 0:0）
-
 37. 贞本义行于漫画第1卷的留言
-
 38. 貞本義行Interview，Der Mond―貞本義行画集 (Newtype illustrated collection). 1999, ISBN 4-04-853048-8
-
 39. 劇場版 死与新生　场刊
-
 40. 劇場版*The End of EVANGELION*　场刊
-
 41. 新世纪福音战士FILMBOOK第2卷
-
 42. DVD附带解说书，臺灣[普威爾國際](../Page/普威爾國際.md "wikilink")发行中文版
-
 43. [EVANGELION CHRONICLE](../Page/EVANGELION_CHRONICLE.md "wikilink")

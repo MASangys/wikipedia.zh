@@ -16,7 +16,7 @@
 
 ### 关卡设置
 
-《Neverball》可以用[GtkRadiant](../Page/GtkRadiant.md "wikilink")创建关卡，就像[雷神之锤系列游戏一样](https://zh.wikipedia.org/wiki/雷神之锤 "wikilink")。 1.5.0版本中有6套关卡，还有额外关卡下载[Neverforum](http://www.nevercorner.net/forum/)。 《Neverball》也可以进行时间挑战之类的额外游戏方式。
+《Neverball》可以用[GtkRadiant](../Page/GtkRadiant.md "wikilink")创建关卡，就像[雷神之锤系列游戏一样](https://zh.wikipedia.org/wiki/雷神之锤 "wikilink")。 1.5.0版本中有6套关卡，还有额外关卡下载[Neverforum](https://web.archive.org/web/20080705145555/http://www.nevercorner.net/forum)。 《Neverball》也可以进行时间挑战之类的额外游戏方式。
 
 《Neverputt》有7套关卡。
 

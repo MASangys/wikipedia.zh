@@ -89,24 +89,20 @@
   - [海軍相片集](http://www.history.navy.mil/photos/sh-usn/usnsh-w/cv7.htm)
   - [馬爾他守備戰](http://www.spitfiresite.com/1942-defence-of-malta.htm)
 
-[Category:美國海軍航空母艦](https://zh.wikipedia.org/wiki/Category:美國海軍航空母艦 "wikilink") [Category:第二次世界大戰航空母艦](https://zh.wikipedia.org/wiki/Category:第二次世界大戰航空母艦 "wikilink") [Category:1940年竣工的船只](https://zh.wikipedia.org/wiki/Category:1940年竣工的船只 "wikilink") [Category:1939年下水船只](https://zh.wikipedia.org/wiki/Category:1939年下水船只 "wikilink") [Category:潜艇击沉](https://zh.wikipedia.org/wiki/Category:潜艇击沉 "wikilink")
+[Category:美國海軍航空母艦](https://zh.wikipedia.org/wiki/Category:美國海軍航空母艦 "wikilink") [Category:第二次世界大戰航空母艦](https://zh.wikipedia.org/wiki/Category:第二次世界大戰航空母艦 "wikilink") [Category:1939年下水](https://zh.wikipedia.org/wiki/Category:1939年下水 "wikilink") [Category:潜艇击沉](https://zh.wikipedia.org/wiki/Category:潜艇击沉 "wikilink")
 
 1.
 2.
 3.
 4.  Dictionary of American Naval Fighting Ships
-
 5.
 6.
 7.  事後證實是德國潛艇U-552所為。159名船員只有44名生還。這也是首架美國軍艦在二戰被擊沉，而當時美國尚未正式加入二戰。
-
 8.
 9.
 10.
 11.
 12.
 13.
-
 14.
-
 15.

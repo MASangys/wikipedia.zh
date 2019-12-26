@@ -89,9 +89,9 @@ ZyXEL X6004/X2002 PBX
   - [www.tapi.info Wiki Site about TAPI](https://web.archive.org/web/20160105200325/http://www.tapi.info/)
   - [KDTele Tools - Programming Library for TAPI from Kaed Systems](http://www.kaed.com/kdtele/index.html)
   - [ExceleTel TeleTools - Telephony development tools for VCL, ActiveX, and .NET TAPI programming](http://www.exceletel.com)
-  - [TSP++ 3.0 - .NET managed Library for TAPI from Mark Smith](http://www.julmar.com/_Media/tspv3053.exe)
+  - [TSP++ 3.0 - .NET managed Library for TAPI from Mark Smith](https://web.archive.org/web/20070928082845/http://www.julmar.com/_Media/tspv3053.exe)
   - [nrComm Lib Delphi/C++Builder component library with TAPI support](http://www.deepsoftware.com/nrcomm/index.html)
-  - [Former TAPI MVP Michael Dunn's TAPI Site](http://www.rainyjay.com/tapi/tapi.htm)
+  - [Former TAPI MVP Michael Dunn's TAPI Site](https://web.archive.org/web/20110715151441/http://www.rainyjay.com/tapi/tapi.htm)
   - [RanCOM SDK for a developers of CTI applications](http://randersoft.com/en/RanCOM.shtml)
 
 [Category:电话](https://zh.wikipedia.org/wiki/Category:电话 "wikilink")

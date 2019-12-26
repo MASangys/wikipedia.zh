@@ -35,7 +35,7 @@
 
   - Dan Benjamin，{{〈}}[Could 802.11p spell the end for cellular in the automobile?](https://archive.is/20060324124446/http://www.abiresearch.com/products/insight/Could_80211p_spell_the_end_for_cellular_in_the_automobile){{〉}}《ABI Research》2004年7月14日
 
-  - Adam Stone，{{〈}}[When Wi-Fi Will Drive](http://www.wi-fiplanet.com/columns/article.php/3422251){{〉}} 《Wi-Fi Planet》2004年10月15日
+  - Adam Stone，{{〈}}[When Wi-Fi Will Drive](https://web.archive.org/web/20110514233832/http://www.wi-fiplanet.com/columns/article.php/3422251){{〉}} 《Wi-Fi Planet》2004年10月15日
 
   - 鄧友清，{{〈}}[車用規格IEEE 802.11p介紹與未來發展](http://www.itri.org.tw/chi/services/ieknews/200509151040044D6BE-0.doc){{〉}}（doc檔），工研院IEK-IT IS計畫，2005年
 

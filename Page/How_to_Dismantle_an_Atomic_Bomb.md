@@ -112,46 +112,25 @@ U2之後為了宣傳新專輯，在電視上演奏了不少的專輯歌曲。最
 [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink") [Category:U2音樂專輯](https://zh.wikipedia.org/wiki/Category:U2音樂專輯 "wikilink") [Category:葛萊美獎年度專輯](https://zh.wikipedia.org/wiki/Category:葛萊美獎年度專輯 "wikilink") [Category:傑克耐夫·李製作的專輯](https://zh.wikipedia.org/wiki/Category:傑克耐夫·李製作的專輯 "wikilink")
 
 1.  "U2 and 3 Songs" ─ 專輯收錄紀錄DVD
-
 2.
-
 3.
-
 4.  [Police hunt for 'stolen' U2 album](http://news.bbc.co.uk/1/hi/entertainment/music/3897987.stm) BBC News.，於2006年10月15日參閱。
-
 5.  [Ready for His Close-up - CCMmagazine.com](http://www.ccmmagazine.com/search/11535181)
-
 6.
 7.  [CAPIF](http://www.capif.org.ar/Default.asp?AnoFiltro=2006&CO=5&CODOP=ESOP&ACCION=+Buscar+)
-
 8.  [ARIA](http://www.aria.com.au/pages/ARIACharts-Accreditations-2006Albums.htm)
-
 9.  [IFPI Austria](http://www.ifpi.at/edelmetal.php3)
-
 10. [ABPD - Certificates](http://www.abpd.org.br/certificados_interna.asp?sArtista=U2)
-
 11. [CRIA](http://www.cria.ca/gold/0206_g.php)
-
 12. [IFPI Denmark](http://www.ifpi.dk/index.php?pk_menu=94)
-
 13. [IFPI Finland](http://www.ifpi.fi/tilastot/kplista.html?action=etuk&kirjain=U)
-
 14. [Disque en France](http://www.disqueenfrance.com/certifications/album.asp?suite=2&forme_certif=12&annee=21)
-
 15. [IFPI Germany](http://www.ifpi.de/wirtschaft/gpergebnis.php?txtSuche=u2&strAktion=suche&Abschicken=Suche+Gold-%2FPlatin-Verleihungen+und+Jazz-Award)
-
 16. [Mahasz](http://www.mahasz.hu/m/?menu=arany_es_platinalemezek&menu2=adatbazis&ev=2004)
-
 17.
-
 18. [RIAJ Certification Awards 2005-8](http://www.riaj.or.jp/data/others/gold/200508.html)
-
 19. [AMPROFON](http://www.amprofon.com.mx/certificaciones.php?artista=u2&titulo=&disquera=&certificacion=todas&anio=todos&categoria=todas&Submitted=Buscar&item=menuCert&contenido=buscar)
-
 20.
-
 21. [ZPAV](http://www.zpav.pl/plyty.asp?page=zlote&lang=en)
-
 22. [PROMUSICAE](http://www.promusicae.org/listasanuales/albumes/Top%2050%20albumes%202005.pdf)
-
 23. [BPI](http://www.bpi.co.uk/platinum/platinumright.asp?rq=search_plat&r_id=32187)

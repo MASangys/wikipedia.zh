@@ -33,13 +33,11 @@
 [Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink") [Category:免費遊戲](https://zh.wikipedia.org/wiki/Category:免費遊戲 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
 
 1.  [XEvil at Home of the Underdogs](http://www.the-underdogs.info/game.php?id=2709)  Retrieved November 29, 2006.
-
 2.
 3.
 4.
 5.
 6.  [XEvil at PC World](http://www.pcworld.com/downloads/file/fid,2255-order,1-page,1-c,action/description.html)  Retrieved 2006-11-29.
-
 7.
 8.
 9.  [XEvil at GamezWorld 2002-10-27](http://www.gamezworld.de/showentry.php?ID=578&lang=e) Retrieved December 2, 2006.

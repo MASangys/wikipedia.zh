@@ -6,7 +6,7 @@
 
 2007年正式登陸香港，現時分店包括：有分並先後在以下地方開設分店：
 
-  - [旺角](../Page/旺角.md "wikilink")[新世紀廣場](https://zh.wikipedia.org/wiki/新世紀廣場 "wikilink")
+  - [旺角](../Page/旺角.md "wikilink")[新世紀廣場](../Page/新世紀廣場.md "wikilink")
 
 亦曾於香港以下地方開設分店，但現已結業：
 

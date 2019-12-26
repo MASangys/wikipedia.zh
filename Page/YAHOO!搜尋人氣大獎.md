@@ -1,4 +1,4 @@
-**Yahoo 人氣大獎**（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），前稱 **Yahoo 搜尋人氣大獎**，由[雅虎香港](../Page/雅虎香港.md "wikilink")於2005年創辦，是[香港](../Page/香港.md "wikilink")首個[網站](../Page/網站.md "wikilink")所舉辦之綜合頒獎禮。Yahoo 人氣大獎主要根據提名名單在[互聯網的熱門程度](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，向受歡迎的[娛樂圈人物頒發相關年度獎項](https://zh.wikipedia.org/wiki/娛樂圈 "wikilink")。
+**Yahoo 人氣大獎**（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），前稱 **Yahoo 搜尋人氣大獎**，由[雅虎香港](../Page/雅虎香港.md "wikilink")於2005年創辦，是[香港](../Page/香港.md "wikilink")首個[網站](../Page/網站.md "wikilink")所舉辦之綜合頒獎禮。Yahoo 人氣大獎主要根據提名名單在[互聯網的熱門程度](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，向受歡迎的[娛樂圈人物頒發相關年度獎項](https://zh.wikipedia.org/wiki/娛樂圈 "wikilink")。2019年因社會氣氛，頒獎禮會停辦，換言之2018年是最後一屆YAHOO搜尋人氣大獎頒獎典禮。
 
 ## 評審準則
 
@@ -22,45 +22,225 @@
 
 2012年，雅虎香港把人氣大獎的評審準則，由原來只參考候選名單的搜尋數據及投票環節的得票外，擴展至計算候選藝人的[資訊](https://zh.wikipedia.org/wiki/資訊 "wikilink")，在雅虎香港內的瀏覽量。
 
+2019年，因社會氣氛，頒獎禮會停辦。
+
 ## 歷屆主要獎項
 
 ### 音樂類
 
-| 年份   | 本地男歌手                                                                                                                                                               | 本地女歌手                                                                                                                                                               | 本地組合樂隊                                                  |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| 2005 | [古巨基](../Page/古巨基.md "wikilink")                                                                                                                                    | [杨千嬅](../Page/楊千嬅.md "wikilink")                                                                                                                                    | [Twins](https://zh.wikipedia.org/wiki/Twins "wikilink") |
-| 2006 | [容祖兒](../Page/容祖兒.md "wikilink")                                                                                                                                    | [Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")、[軟硬天師](../Page/軟硬天師.md "wikilink")                                                                          |                                                         |
-| 2007 | [陳奕迅](../Page/陳奕迅.md "wikilink")                                                                                                                                    | [Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")、[农夫](https://zh.wikipedia.org/wiki/農夫 "wikilink")                                                           |                                                         |
-| 2008 | [古巨基](../Page/古巨基.md "wikilink")                                                                                                                                    | [农夫](../Page/農夫_\(組合\).md "wikilink")、[Hotcha](../Page/HotCha.md "wikilink")                                                                                        |                                                         |
-| 2009 | [Mr.](../Page/Mr..md "wikilink")、[RubberBand](../Page/RubberBand.md "wikilink")、[Hotcha](../Page/HotCha.md "wikilink")                                              |                                                                                                                                                                     |                                                         |
-| 2010 | [Mr.](../Page/Mr..md "wikilink")、[RubberBand](../Page/RubberBand.md "wikilink")、[野仔](https://zh.wikipedia.org/wiki/野仔 "wikilink")                                   |                                                                                                                                                                     |                                                         |
-| 2011 | [Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")、[RubberBand](../Page/RubberBand.md "wikilink")、[C AllStar](../Page/C_AllStar.md "wikilink")                 |                                                                                                                                                                     |                                                         |
-| 2012 |                                                                                                                                                                     |                                                                                                                                                                     |                                                         |
-| 2013 | [周柏豪](../Page/周柏豪.md "wikilink")                                                                                                                                    | [Dear Jane](../Page/Dear_Jane.md "wikilink")、[RubberBand](../Page/RubberBand.md "wikilink")、[C AllStar](../Page/C_AllStar.md "wikilink")                            |                                                         |
-| 2014 |                                                                                                                                                                     |                                                                                                                                                                     |                                                         |
-| 2015 | [Dear Jane](../Page/Dear_Jane.md "wikilink")、[RubberBand](../Page/RubberBand.md "wikilink")、[Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink") |                                                                                                                                                                     |                                                         |
-| 2016 | [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")                                                                                                                 |                                                                                                                                                                     |                                                         |
-| 2017 | [李克勤](../Page/李克勤.md "wikilink")                                                                                                                                    | [Dear Jane](../Page/Dear_Jane.md "wikilink")、[Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")、[C AllStar](../Page/C_AllStar.md "wikilink")   |                                                         |
-| 2018 | [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")                                                                                                                 | [Dear Jane](../Page/Dear_Jane.md "wikilink")、[RubberBand](../Page/RubberBand.md "wikilink")、[Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink") |                                                         |
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>本地男歌手</p></th>
+<th><p>本地女歌手</p></th>
+<th><p>本地組合樂隊</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2005</p></td>
+<td><p><a href="../Page/古巨基.md" title="wikilink">古巨基</a></p></td>
+<td><p><a href="../Page/楊千嬅.md" title="wikilink">杨千嬅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Twins" title="wikilink">Twins</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2006</p></td>
+<td><p><a href="../Page/容祖兒.md" title="wikilink">容祖兒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Twins" title="wikilink">Twins</a><br />
+<a href="../Page/軟硬天師.md" title="wikilink">軟硬天師</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2007</p></td>
+<td><p><a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Twins" title="wikilink">Twins</a><br />
+<a href="https://zh.wikipedia.org/wiki/農夫" title="wikilink">农夫</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2008</p></td>
+<td><p><a href="../Page/古巨基.md" title="wikilink">古巨基</a></p></td>
+<td><p><a href="../Page/農夫_(組合).md" title="wikilink">农夫</a><br />
+<a href="../Page/HotCha.md" title="wikilink">Hotcha</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2009</p></td>
+<td><p><a href="../Page/Mr..md" title="wikilink">Mr.</a><br />
+<a href="../Page/RubberBand.md" title="wikilink">RubberBand</a><br />
+<a href="../Page/HotCha.md" title="wikilink">Hotcha</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2010</p></td>
+<td><p><a href="../Page/Mr..md" title="wikilink">Mr.</a><br />
+<a href="../Page/RubberBand.md" title="wikilink">RubberBand</a><br />
+<a href="https://zh.wikipedia.org/wiki/野仔" title="wikilink">野仔</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2011</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Twins" title="wikilink">Twins</a><br />
+<a href="../Page/RubberBand.md" title="wikilink">RubberBand</a><br />
+<a href="../Page/C_AllStar.md" title="wikilink">C AllStar</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2012</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2013</p></td>
+<td><p><a href="../Page/周柏豪.md" title="wikilink">周柏豪</a></p></td>
+<td><p><a href="../Page/Dear_Jane.md" title="wikilink">Dear Jane</a><br />
+<a href="../Page/RubberBand.md" title="wikilink">RubberBand</a><br />
+<a href="../Page/C_AllStar.md" title="wikilink">C AllStar</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2014</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015</p></td>
+<td><p><a href="../Page/Dear_Jane.md" title="wikilink">Dear Jane</a><br />
+<a href="../Page/RubberBand.md" title="wikilink">RubberBand</a><br />
+<a href="https://zh.wikipedia.org/wiki/Supper_Moment" title="wikilink">Supper Moment</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張敬軒" title="wikilink">張敬軒</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017</p></td>
+<td><p><a href="../Page/李克勤.md" title="wikilink">李克勤</a></p></td>
+<td><p><a href="../Page/Dear_Jane.md" title="wikilink">Dear Jane</a><br />
+<a href="https://zh.wikipedia.org/wiki/Supper_Moment" title="wikilink">Supper Moment</a><br />
+<a href="../Page/C_AllStar.md" title="wikilink">C AllStar</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張敬軒" title="wikilink">張敬軒</a></p></td>
+<td><p><a href="../Page/Dear_Jane.md" title="wikilink">Dear Jane</a><br />
+<a href="../Page/RubberBand.md" title="wikilink">RubberBand</a><br />
+<a href="https://zh.wikipedia.org/wiki/Supper_Moment" title="wikilink">Supper Moment</a></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 電影類
 
-| 年份   | 本地男演員                            | 本地女演員                                                   | 本地電影                                                                                          |
-| ---- | -------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| 2005 | [劉德華](../Page/劉德華.md "wikilink") | [林嘉欣](../Page/林嘉欣.md "wikilink")                        |                                                                                               |
-| 2006 | [郭富城](../Page/郭富城.md "wikilink") | [蔡卓妍](../Page/蔡卓妍.md "wikilink")                        |                                                                                               |
-| 2007 | [古天樂](../Page/古天樂.md "wikilink") | [楊千嬅](../Page/楊千嬅.md "wikilink")                        | 《[每當變幻時](../Page/每當變幻時_\(電影\).md "wikilink")》                                                 |
-| 2008 | [方力申](../Page/方力申.md "wikilink") | [鄧麗欣](../Page/鄧麗欣.md "wikilink")                        | 《[我的最愛](../Page/我的最愛_\(電影\).md "wikilink")》                                                   |
-| 2009 | [張家輝](../Page/張家輝.md "wikilink") | 《[保持爱你](../Page/保持愛你.md "wikilink")》                    |                                                                                               |
-| 2010 | [王祖藍](../Page/王祖藍.md "wikilink") | [薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")     | 《[志明與春嬌](../Page/志明與春嬌_\(電影\).md "wikilink")》                                                 |
-| 2011 | [吳彥祖](../Page/吳彥祖.md "wikilink") | [周秀娜](../Page/周秀娜.md "wikilink")                        | 《[窃听风云2](../Page/竊聽風雲2.md "wikilink")》                                                        |
-| 2012 | [鄭中基](../Page/鄭中基.md "wikilink") | [楊千嬅](../Page/楊千嬅.md "wikilink")                        | 《[春嬌與志明](../Page/春嬌與志明.md "wikilink")》《[低俗喜剧](https://zh.wikipedia.org/wiki/低俗喜劇 "wikilink")》 |
-| 2013 | [周秀娜](../Page/周秀娜.md "wikilink") | 《[狂舞派](../Page/狂舞派.md "wikilink")》                      |                                                                                               |
-| 2014 | [廖启智](../Page/廖啟智.md "wikilink") | [周秀娜](../Page/周秀娜.md "wikilink")                        | 《[那夜凌晨，我坐上了旺角开往大埔的红VAN](../Page/那夜凌晨，我坐上了旺角開往大埔的紅VAN_\(電影\).md "wikilink")》                   |
-| 2015 | [王宗尧](../Page/王宗堯.md "wikilink") | [蔡卓妍](../Page/蔡卓妍.md "wikilink")                        | 《[五個小孩的校長](../Page/五個小孩的校長.md "wikilink")》                                                    |
-| 2016 | [林嘉欣](../Page/林嘉欣.md "wikilink") | 《[十年](../Page/十年_\(電影\).md "wikilink")》                 |                                                                                               |
-| 2017 | [惠英红](../Page/惠英紅.md "wikilink") | 《[29+1](https://zh.wikipedia.org/wiki/29+1 "wikilink")》 |                                                                                               |
-| 2018 | [古天樂](../Page/古天樂.md "wikilink") | 《[逆流大叔](https://zh.wikipedia.org/wiki/逆流大叔 "wikilink")》 |                                                                                               |
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>本地男演員</p></th>
+<th><p>本地女演員</p></th>
+<th><p>本地電影</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2005</p></td>
+<td><p><a href="../Page/劉德華.md" title="wikilink">劉德華</a></p></td>
+<td><p><a href="../Page/林嘉欣.md" title="wikilink">林嘉欣</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2006</p></td>
+<td><p><a href="../Page/郭富城.md" title="wikilink">郭富城</a></p></td>
+<td><p><a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2007</p></td>
+<td><p><a href="../Page/古天樂.md" title="wikilink">古天樂</a></p></td>
+<td><p><a href="../Page/楊千嬅.md" title="wikilink">楊千嬅</a></p></td>
+<td><p>《<a href="../Page/每當變幻時_(電影).md" title="wikilink">每當變幻時</a>》</p></td>
+</tr>
+<tr class="even">
+<td><p>2008</p></td>
+<td><p><a href="../Page/方力申.md" title="wikilink">方力申</a></p></td>
+<td><p><a href="../Page/鄧麗欣.md" title="wikilink">鄧麗欣</a></p></td>
+<td><p>《<a href="../Page/我的最愛_(電影).md" title="wikilink">我的最愛</a>》</p></td>
+</tr>
+<tr class="odd">
+<td><p>2009</p></td>
+<td><p><a href="../Page/張家輝.md" title="wikilink">張家輝</a></p></td>
+<td><p>《<a href="../Page/保持愛你.md" title="wikilink">保持爱你</a>》</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2010</p></td>
+<td><p><a href="../Page/王祖藍.md" title="wikilink">王祖藍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/薛凱琪" title="wikilink">薛凱琪</a></p></td>
+<td><p>《<a href="../Page/志明與春嬌_(電影).md" title="wikilink">志明與春嬌</a>》</p></td>
+</tr>
+<tr class="odd">
+<td><p>2011</p></td>
+<td><p><a href="../Page/吳彥祖.md" title="wikilink">吳彥祖</a></p></td>
+<td><p><a href="../Page/周秀娜.md" title="wikilink">周秀娜</a></p></td>
+<td><p>《<a href="../Page/竊聽風雲2.md" title="wikilink">窃听风云2</a>》</p></td>
+</tr>
+<tr class="even">
+<td><p>2012</p></td>
+<td><p><a href="../Page/鄭中基.md" title="wikilink">鄭中基</a></p></td>
+<td><p><a href="../Page/楊千嬅.md" title="wikilink">楊千嬅</a></p></td>
+<td><p>《<a href="../Page/春嬌與志明.md" title="wikilink">春嬌與志明</a>》<br />
+《<a href="https://zh.wikipedia.org/wiki/低俗喜劇" title="wikilink">低俗喜剧</a>》</p></td>
+</tr>
+<tr class="odd">
+<td><p>2013</p></td>
+<td><p><a href="../Page/周秀娜.md" title="wikilink">周秀娜</a></p></td>
+<td><p>《<a href="../Page/狂舞派.md" title="wikilink">狂舞派</a>》</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2014</p></td>
+<td><p><a href="../Page/廖啟智.md" title="wikilink">廖启智</a></p></td>
+<td><p><a href="../Page/周秀娜.md" title="wikilink">周秀娜</a></p></td>
+<td><p>《<a href="../Page/那夜凌晨，我坐上了旺角開往大埔的紅VAN_(電影).md" title="wikilink">那夜凌晨，我坐上了旺角开往大埔的红VAN</a>》</p></td>
+</tr>
+<tr class="odd">
+<td><p>2015</p></td>
+<td><p><a href="../Page/王宗堯.md" title="wikilink">王宗尧</a></p></td>
+<td><p><a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a></p></td>
+<td><p>《<a href="../Page/五個小孩的校長.md" title="wikilink">五個小孩的校長</a>》</p></td>
+</tr>
+<tr class="even">
+<td><p>2016</p></td>
+<td><p><a href="../Page/林嘉欣.md" title="wikilink">林嘉欣</a></p></td>
+<td><p>《<a href="../Page/十年_(電影).md" title="wikilink">十年</a>》</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017</p></td>
+<td><p><a href="../Page/惠英紅.md" title="wikilink">惠英红</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/29+1" title="wikilink">29+1</a>》</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018</p></td>
+<td><p><a href="../Page/古天樂.md" title="wikilink">古天樂</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/逆流大叔" title="wikilink">逆流大叔</a>》</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 電視類
 

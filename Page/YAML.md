@@ -1,10 +1,10 @@
-\[1\]  **YAML**（，尾音類似*camel*駱駝）是一個可讀性高，用來表達資料[序列化](../Page/序列化.md "wikilink")的格式。YAML參考了其他多種語言，包括：[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")、[Python](../Page/Python.md "wikilink")、[Perl](../Page/Perl.md "wikilink")，並從[XML](../Page/XML.md "wikilink")、電子郵件的數據格式（RFC [2822](http://www.rfc-editor.org/rfc/rfc2822.txt)）中獲得靈感。Clark Evans在2001年首次發表了這種語言\[2\]，另外Ingy döt Net與Oren Ben-Kiki也是這語言的共同設計者\[3\]。目前已經有數種程式語言或腳本語言支援（或者說解析）這種語言。
+**YAML**（，尾音類似*camel*駱駝）是一個可讀性高，用來表達資料[序列化](../Page/序列化.md "wikilink")的格式。YAML參考了其他多種語言，包括：[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")、[Python](../Page/Python.md "wikilink")、[Perl](../Page/Perl.md "wikilink")，並從[XML](../Page/XML.md "wikilink")、電子郵件的數據格式（RFC [2822](http://www.rfc-editor.org/rfc/rfc2822.txt)）中獲得靈感。Clark Evans在2001年首次發表了這種語言\[1\]，另外Ingy döt Net與Oren Ben-Kiki也是這語言的共同設計者\[2\]。目前已經有數種程式語言或腳本語言支援（或者說解析）這種語言。
 
-*YAML*是"YAML Ain't a Markup Language"（YAML不是一種[标记語言](https://zh.wikipedia.org/wiki/标记語言 "wikilink")）的[遞迴縮寫](https://zh.wikipedia.org/wiki/遞迴縮寫 "wikilink")。在開發的這種語言時，''YAML ''的意思其實是："Yet Another Markup Language"（仍是一種[标记語言](https://zh.wikipedia.org/wiki/标记語言 "wikilink")）\[4\]，但為了強調這種語言以數據做為中心，而不是以标记語言為重點，而用反向缩略语重新命名。
+*YAML*是"YAML Ain't a Markup Language"（YAML不是一種[标记語言](https://zh.wikipedia.org/wiki/标记語言 "wikilink")）的[遞迴縮寫](https://zh.wikipedia.org/wiki/遞迴縮寫 "wikilink")。在開發的這種語言時，''YAML ''的意思其實是："Yet Another Markup Language"（仍是一種[标记語言](https://zh.wikipedia.org/wiki/标记語言 "wikilink")）\[3\]，但為了強調這種語言以數據做為中心，而不是以标记語言為重點，而用反向缩略语重新命名。
 
 ## 功能
 
-YAML的語法和其他高階語言類似，並且可以簡單表達清單、散列表，純量等資料形態。\[5\]它使用空白符號縮排和大量依賴外觀的特色，特別適合用來表達或編輯資料結構、各種設定檔、傾印除錯內容、文件大綱（例如：許多電子郵件標題格式和YAML非常接近）。儘管它比較適合用來表達階層式（hierarchical model）的資料結構，不過也有精緻的語法可以表示關聯性（relational model）的資料。\[6\]由於YAML使用空白字元和分行來分隔資料，使得它特別適合用[grep](https://zh.wikipedia.org/wiki/grep "wikilink")／[Python](../Page/Python.md "wikilink")／[Perl](../Page/Perl.md "wikilink")／[Ruby](../Page/Ruby.md "wikilink")操作。其讓人最容易上手的特色是巧妙避開各種封閉符號，如：引號、各種括號等，這些符號在巢狀結構時會變得複雜而難以辨認。
+YAML的語法和其他高階語言類似，並且可以簡單表達清單、散列表，純量等資料形態。\[4\]它使用空白符號縮排和大量依賴外觀的特色，特別適合用來表達或編輯資料結構、各種設定檔、傾印除錯內容、文件大綱（例如：許多電子郵件標題格式和YAML非常接近）。儘管它比較適合用來表達階層式（hierarchical model）的資料結構，不過也有精緻的語法可以表示關聯性（relational model）的資料。\[5\]由於YAML使用空白字元和分行來分隔資料，使得它特別適合用[grep](https://zh.wikipedia.org/wiki/grep "wikilink")／[Python](../Page/Python.md "wikilink")／[Perl](../Page/Perl.md "wikilink")／[Ruby](../Page/Ruby.md "wikilink")操作。其讓人最容易上手的特色是巧妙避開各種封閉符號，如：引號、各種括號等，這些符號在巢狀結構時會變得複雜而難以辨認。
 
 ## 範例
 
@@ -68,7 +68,7 @@ YAML提供縮排／區塊以及內置（inline）兩種格式，來表示清單�
  - Notorious
 ```
 
-另外還有一種內置格式（inline format）可以選擇──用方括號圍住，並用逗號+空白區隔（類似[JSON的語法](https://zh.wikipedia.org/wiki/JavaScript_Object_Notation "wikilink")）。\[7\]
+另外還有一種內置格式（inline format）可以選擇──用方括號圍住，並用逗號+空白區隔（類似[JSON的語法](https://zh.wikipedia.org/wiki/JavaScript_Object_Notation "wikilink")）。\[6\]
 
 ``` yaml
  --- # 購物清單
@@ -183,7 +183,7 @@ YAML的自動判定資料形態是哪一種實體。但有時使用者會想要�
 ``` yaml
 ---
 a: 123                     # 整數
-b: "123"                   # 字串（使用雙括號）
+b: "123"                   # 字串（使用雙引號）
 c: 123.0                   # 浮點數
 d: !!float 123             # 浮點數，使用!!表達的嚴格型態
 e: !!str 123               # 字串，使用嚴格型態
@@ -245,7 +245,7 @@ YAML在使用逗號及冒號時，後面都必須接一個空白字元，所以�
 
 ### JSON
 
-JSON的語法是YAML1.2版的子集\[8\],，同時非常*接近*\[9\] YAML1.0與1.1版的子集，因此大部分的JSON文件都可以被YAML的剖析器剖析。\[10\]這是因為JSON的語法結構和YAML的內置格式相同。雖然大範圍的分層也可以使用類似JSON的內置格式，不過YAML標準並不建議這樣使用，除非這樣編寫能讓文件可讀性增加。YAML的許多擴展在JSON是找不到的，如：進階資料形態、關係錨點、字串不需要雙引號、映射資料形態會儲存鍵值的順序。
+JSON的語法是YAML1.2版的子集\[7\],，同時非常*接近*\[8\] YAML1.0與1.1版的子集，因此大部分的JSON文件都可以被YAML的剖析器剖析。\[9\]這是因為JSON的語法結構和YAML的內置格式相同。雖然大範圍的分層也可以使用類似JSON的內置格式，不過YAML標準並不建議這樣使用，除非這樣編寫能讓文件可讀性增加。YAML的許多擴展在JSON是找不到的，如：進階資料形態、關係錨點、字串不需要雙引號、映射資料形態會儲存鍵值的順序。
 
 ### [XML和SDL](https://zh.wikipedia.org/wiki/可擴展标记語言 "wikilink")
 
@@ -272,7 +272,7 @@ message: |
 
 ### 非階層式的資料模型
 
-跟SDL、JSON等，每個子結點只能有單一一個父節點的階層是模型不同，YAML提供了一個簡單的關係體制，可以從樹狀結構的其他地方，重複相同的資料，而不必顯示那些冗餘的結構。這點和XML中的IDRef類似\[11\]YAML剖析器在將YAML轉換成物件時，會自動將那些參考資料的結構展開，所以程式在使用時並不會查覺到哪些資料是解碼自這種結構。XML則不會將這種結構展開。這種表示法可以增加程式的可讀性，並且，在那種『大部分參數維持和上次相同，只有少數改變』的設定檔及通訊協定中，可以減少數據輸入錯誤。一個例子是：『送貨地點』和『購買地點』在發票的紀錄中幾乎都是相同的資料。
+跟SDL、JSON等，每個子結點只能有單一一個父節點的階層是模型不同，YAML提供了一個簡單的關係體制，可以從樹狀結構的其他地方，重複相同的資料，而不必顯示那些冗餘的結構。這點和XML中的IDRef類似\[10\]YAML剖析器在將YAML轉換成物件時，會自動將那些參考資料的結構展開，所以程式在使用時並不會查覺到哪些資料是解碼自這種結構。XML則不會將這種結構展開。這種表示法可以增加程式的可讀性，並且，在那種『大部分參數維持和上次相同，只有少數改變』的設定檔及通訊協定中，可以減少數據輸入錯誤。一個例子是：『送貨地點』和『購買地點』在發票的紀錄中幾乎都是相同的資料。
 
 ### 實際的考量
 
@@ -284,11 +284,11 @@ YAML是「行導向的」，因此，就算想由現有程序的混亂輸出，�
 
 #### 安全性
 
-YAML是純粹用來表達資料的語言，所以內部不會存[代碼注射的可執行命令](https://zh.wikipedia.org/wiki/代碼注射 "wikilink")。\[12\]這代表剖析器會相當（至少）安全的解析文件，而不用擔心潛在與執行命令相關的安全漏洞。舉例來說，[JSON](../Page/JSON.md "wikilink")是[JavaScript](../Page/JavaScript.md "wikilink")的子集，因此可能有人想使用JavaScript本身的剖析器直接eval，不過这样一来就造成許多[代碼注射的漏洞](https://zh.wikipedia.org/wiki/代碼注射 "wikilink")。雖然在所有資料序列語言中，安全解析本質上是可能的，但可執行性卻正是這樣一個惡名昭彰的缺陷；而YAML缺乏相關的命令語言，可能是一個相對安全的利益。
+YAML是純粹用來表達資料的語言，所以內部不會存[代碼注射的可執行命令](https://zh.wikipedia.org/wiki/代碼注射 "wikilink")。\[11\]這代表剖析器會相當（至少）安全的解析文件，而不用擔心潛在與執行命令相關的安全漏洞。舉例來說，[JSON](../Page/JSON.md "wikilink")是[JavaScript](../Page/JavaScript.md "wikilink")的子集，因此可能有人想使用JavaScript本身的剖析器直接eval，不過这样一来就造成許多[代碼注射的漏洞](https://zh.wikipedia.org/wiki/代碼注射 "wikilink")。雖然在所有資料序列語言中，安全解析本質上是可能的，但可執行性卻正是這樣一個惡名昭彰的缺陷；而YAML缺乏相關的命令語言，可能是一個相對安全的利益。
 
 ### 資料處理和呈現
 
-XML\[13\]\[14\]和YAML規範\[15\]提供非常不同的*邏輯*模型來進行資料結點的展現、處理及儲存。
+XML\[12\]\[13\]和YAML規範\[14\]提供非常不同的*邏輯*模型來進行資料結點的展現、處理及儲存。
 
 ## 實現與函式庫
 
@@ -298,7 +298,7 @@ XML\[13\]\[14\]和YAML規範\[15\]提供非常不同的*邏輯*模型來進行�
 
 ### C語言函式庫
 
-  - [libYAML](http://pyyaml.org/wiki/LibYAML) 2007-06時，這個YAML的函式庫漸趨穩定，並被YAML格式作者推薦\[16\]。
+  - [libYAML](http://pyyaml.org/wiki/LibYAML) 2007-06時，這個YAML的函式庫漸趨穩定，並被YAML格式作者推薦\[15\]。
   - [SYCK](http://whytheluckystiff.net/syck/) 這個實現支援大部分1.0版的格式，並且被廣泛的使用。它使用高階interpreted languages進行最佳化。在2005之後，這個專案已經不再更新，不過仍可使用。
 
 ### 其他函式庫
@@ -386,31 +386,16 @@ XML\[13\]\[14\]和YAML規範\[15\]提供非常不同的*邏輯*模型來進行�
 
 1.
 2.
-
 3.
-
-4.
-
-5.  在英文原文中，將下列幾組詞彙交替使用：(清單"list"和陣列"array"), (雜湊表"hash"、字典"dictionary"、映射"mapping")和(字串"string"和純量"scalar")。在其他程式語言，這幾組字的意義未必等價。中文則統一使用相同的詞彙。
-
-6.  階層式(hierarchical model)對應到樹狀結構時，只會有一個固定、整體性的結果。舉例說明：用階層式來表達電影的演員名單，每個演員都只能歸類到一個電影名稱；或是每個電影只能歸類給一位演員(雖然這樣很怪)。YAML同時也允許使用關聯式資料(relational model)。
-
-7.
-
-8.  [YAML 1.2 Spec](http://yaml.org/spec/1.2/)
-
-9.  這些語法非常細微且很少出現在文件中：JSON允許擴充字元集，如：UTF32；YAML在分隔符號──如引號、等號、冒號──後方需要接空白字元，而JSON不需要；一些非標準的JSON實現允許Javascript風格的的大範圍註解*/\*...\*/*。處理這種邊界情形或許需要在將其當成內置格式的YAML剖析前進行簡單的JSON前處理。
-
-10. [用SYCK剖析JSON](http://redhanded.hobix.com/inspect/yamlIsJson.html)
-
-11. [XML IDREF](http://www.w3.org/TR/2000/REC-xml-20001006#idref)
-
-12. 提案中的"yield"(迭代器)標籤可以允許簡單的算術運算
-
+4.  在英文原文中，將下列幾組詞彙交替使用：(清單"list"和陣列"array"), (雜湊表"hash"、字典"dictionary"、映射"mapping")和(字串"string"和純量"scalar")。在其他程式語言，這幾組字的意義未必等價。中文則統一使用相同的詞彙。
+5.  階層式(hierarchical model)對應到樹狀結構時，只會有一個固定、整體性的結果。舉例說明：用階層式來表達電影的演員名單，每個演員都只能歸類到一個電影名稱；或是每個電影只能歸類給一位演員(雖然這樣很怪)。YAML同時也允許使用關聯式資料(relational model)。
+6.
+7.  [YAML 1.2 Spec](http://yaml.org/spec/1.2/)
+8.  這些語法非常細微且很少出現在文件中：JSON允許擴充字元集，如：UTF32；YAML在分隔符號──如引號、等號、冒號──後方需要接空白字元，而JSON不需要；一些非標準的JSON實現允許Javascript風格的的大範圍註解*/\*...\*/*。處理這種邊界情形或許需要在將其當成內置格式的YAML剖析前進行簡單的JSON前處理。
+9.  [用SYCK剖析JSON](http://redhanded.hobix.com/inspect/yamlIsJson.html)
+10. [XML IDREF](http://www.w3.org/TR/2000/REC-xml-20001006#idref)
+11. 提案中的"yield"(迭代器)標籤可以允許簡單的算術運算
+12.
 13.
-
 14.
-
-15.
-
-16. YAML的創造者Clark Evans推薦
+15. YAML的創造者Clark Evans推薦

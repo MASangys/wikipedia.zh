@@ -461,7 +461,7 @@ SHINee第四張迷你專輯中的〈Sherlock〉編舞，由與[Michael Jackson](
 
 | 年份           | 劇名                                                         | 参與成員                                                       | 演出角色  |
 | ------------ | ---------------------------------------------------------- | ---------------------------------------------------------- | ----- |
-| 2010         | 勇敢的兄弟                                                      | [温流](https://zh.wikipedia.org/wiki/温流 "wikilink")          | 朱峰    |
+| 2010         | 勇敢的兄弟                                                      | [溫流](../Page/溫流.md "wikilink")                             | 朱峰    |
 | Rock of Ages | Drew                                                       |                                                            |       |
 | 2012         | Catch Me If You Can                                        | [KEY](https://zh.wikipedia.org/wiki/KEY_\(歌手\) "wikilink") | Frank |
 | 2013         | Bonnie and Clyde                                           | Clyde                                                      |       |
@@ -472,6 +472,8 @@ SHINee第四張迷你專輯中的〈Sherlock〉編舞，由與[Michael Jackson](
 | 2015         | CHESS                                                      | Anatoly                                                    |       |
 | 2015         | IN THE HEIGHTS                                             | USNAVI                                                     |       |
 | 2016         |                                                            |                                                            |       |
+| 2019         | 新興武官學校                                                     | [溫流](../Page/溫流.md "wikilink")                             | 池青天   |
+| 歸還:那日的約定     | 聖浩                                                         |                                                            |       |
 |              |                                                            |                                                            |       |
 
 ### 話劇
@@ -1369,148 +1371,76 @@ SHINee第四張迷你專輯中的〈Sherlock〉編舞，由與[Michael Jackson](
 [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink") [Category:SHINee](https://zh.wikipedia.org/wiki/Category:SHINee "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink") [Category:福布斯韩国年度前十名人](https://zh.wikipedia.org/wiki/Category:福布斯韩国年度前十名人 "wikilink") [Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink")
 
 1.
-
 2.  Hanteo releases results for “2010 Singer Award” <http://www.allkpop.com/2010/12/hanteo-releases-results-for-2010-singer-award>
-
 3.  **SHINee**首尔巡回SJ少女时代捧場變超人滿場飛
-
 4.  出處110106 SHINee 被秘鲁網民選為2010最佳韓國樂團
-
 5.  SHINee日本首張單曲碟入選“金唱片”
-
 6.  "[Shinee Open to New Opportunities](http://www.koreatimes.co.kr/www/news/art/2008/11/143_34146.html)". The Korea Times. Han, Sang-hee. November 10, 2008. Retrieved November 25, 2008.
-
 7.  ”[2008 上半年總銷量](https://web.archive.org/web/20080822090153/http://www.miak.or.kr/stat/kpop_2008_1.htm)" - 韓國音樂工業協會。 Archived from the original on August 22, 2008. Retrieved January 18, 2009.
-
 8.  <http://www.afpbb.co.kr/article/korean/korean-entertainment/korean-music/2023540/235200>
-
 9.  "[Concerts to Rock Independence Day](http://www.koreatimes.co.kr/www/news/art/2008/12/143_29078.html)". The Korea Times. Han, Sang-hee. August 10, 2008. Retrieved January 18, 2009.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23. <http://news.joins.com/article/3615567.html?ctg=15>
-
 24. <http://news.joins.com/article/3637204.html?ctg=15>
-
 25.
-
 26. <http://news.joins.com/article/603/3812603.html?ctg=15>
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33. <http://www.mydaily.co.kr/news/read.html?newsid=201007201127121133>
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.

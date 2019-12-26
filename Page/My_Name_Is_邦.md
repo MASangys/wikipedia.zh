@@ -889,7 +889,7 @@
 
 ## 外部連結
 
-  - [My Name Is 邦 - TVB J2台官方網頁](http://b.tvb.com/j2/2009/06/20/my-name-is-%E9%82%A6/)
+  - [My Name Is 邦 - TVB J2台官方網頁](https://web.archive.org/web/20090626131450/http://b.tvb.com/j2/2009/06/20/my-name-is-%E9%82%A6/)
   - [My Name Is 邦 - TVB 官方網頁](http://programme.tvb.com/variety/nib/)
   - [myTV - My Name Is 邦](http://mytv.tvb.com/variety/nib/)
 

@@ -929,30 +929,19 @@ Yellow Zebra所屬的比較出名的歌手有**藤宮ゆき**、**うっちー**
 [Category:同人創作者](https://zh.wikipedia.org/wiki/Category:同人創作者 "wikilink") [Category:東方Project二次創作者](https://zh.wikipedia.org/wiki/Category:東方Project二次創作者 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
 9.
 10.
-
 11.
 12.
-
 13.
-
 14. 根據過往的製作者對談
-
 15.
-
 16.
-
 17.

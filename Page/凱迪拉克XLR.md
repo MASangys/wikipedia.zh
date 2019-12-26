@@ -18,7 +18,7 @@ XLR於2003底特律汽車展發表於2004量產獲得[北美年度風雲車](../
 ## 外部链接
 
   - [XLR Forum](http://www.xlrforum.com)
-  - [XLR [Head-up display](https://zh.wikipedia.org/wiki/Head-up_display "wikilink") Video](http://reviews.cnet.com/Heads_up_display/4660-10863_7-6214355.html)
+  - [XLR [Head-up display](https://zh.wikipedia.org/wiki/Head-up_display "wikilink") Video](https://web.archive.org/web/20080914051440/http://reviews.cnet.com/Heads_up_display/4660-10863_7-6214355.html)
 
 ## 參考資料
 

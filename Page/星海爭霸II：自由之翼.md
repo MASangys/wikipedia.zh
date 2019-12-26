@@ -70,9 +70,9 @@
 
 ### 故事花絮
 
-雷诺的旗舰是“海伯利昂”号，舰长麥特·霍纳是与雷诺并肩作战的战友。马特曾经去过一个海盗聚集的地方——亡者之港，他在那里曾经和佣兵赢得过一场牌局；然而令他始料未及的是胜利者获得的赌注居然是一个新娘，这个新娘就是游戏中出现的角色：米拉·韓。
+雷诺的旗舰是“海伯利昂(中国大陆翻译为“休伯利安”)号，舰长麥特·霍纳是与雷诺并肩作战的战友。马特曾经去过一个海盗聚集的地方——亡者之港，他在那里曾经和佣兵赢得过一场牌局；然而令他始料未及的是胜利者获得的赌注居然是一个新娘，这个新娘就是游戏中出现的角色：米拉·韓(中国大陆翻译为“米拉·汉”)。
 
-海伯利昂号是整个游戏中火力最猛，服役最久的英雄級战略巡洋舰，然而在剧情战役中只是在过场动画时做了一次表演，玩家如果要想真实操控只能对地图或模组进行少量修改来实现。
+海伯利昂号是整个游戏中火力最猛，服役最久的英雄級战略巡洋舰，然而在剧情战役中只是在过场动画时做了一次表演，玩家如果要想真实操控要通过对地图或模组进行少量修改来实现，也可以在合作模式中使用雷诺的指挥官技能召唤。
 
 泰伦金刚是整个游戏中个头最大的单位，在游戏内置小游戏《失落的维京》中作为Boss出现，身体由多个人类的建筑组装而成，不过玩家对地图或模组稍作修改就可以进行真实的操控。
 
@@ -89,7 +89,7 @@
 
 与原作类似，星际争霸II在游戏内容方面广受赞誉，特别是其新特性和游戏叙事模式。但是批评的观点认为星际2去除了原作中一些相当优秀的内容，比如缺乏局域网对战以及限制玩家游戏区域等等。并且《星际争霸II》60美元的高昂售价，以及对于硬件配置的高要求，也造成了许多玩家的不满。而且暴雪为了平衡性，持续减少单位功能，导致调整后的某种族过于强势或弱势，使游戏品質下降，目前在各大玩家群体都引起了论战。
 
-  - 本作的單人戰役內容非常豐富而有趣，玩家可以使用資金來購買各兵種的升級項目，甚至購買比普通單位更強的“傭兵”，並且在任務中可以獲得神族和蟲族的研發點數，能在實驗室中開發出新的科技能力，能夠自由選擇戰役進行的順序（優先前往哪顆星球）等等，都使得本作戰役的可玩性非常高並廣受讚譽。
+  - 本作的單人戰役內容非常豐富而有趣，玩家可以使用資金來購買各兵種的升級項目，甚至購買比普通單位更強的“傭兵”，並且在任務中可以獲得神族和蟲族的研發點數，能在實驗室中開發出新的科技能力，能夠自由選擇戰役進行的順序（優先前往哪顆星球）等等，都使得本作戰役的可玩性提高並廣受讚譽。
 
 2010年8月3日，暴雪宣布《星际争霸II》发布的第一天就售出了100万份，两天之后又售出了50万份。因此，它也是世界上销售最快的策略类游戏。\[10\]在第一个月的销售中，星际争霸2在全球共售出300万份拷贝。\[11\]
 
@@ -130,41 +130,23 @@
 [Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:星際爭霸系列](https://zh.wikipedia.org/wiki/Category:星際爭霸系列 "wikilink") [Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink") [Category:使用Havok的電子遊戲](https://zh.wikipedia.org/wiki/Category:使用Havok的電子遊戲 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:科幻电子游戏](https://zh.wikipedia.org/wiki/Category:科幻电子游戏 "wikilink") [Category:军事科幻电子游戏](https://zh.wikipedia.org/wiki/Category:军事科幻电子游戏 "wikilink") [Category:官方中文配音游戏](https://zh.wikipedia.org/wiki/Category:官方中文配音游戏 "wikilink")
 
 1.
-
 2.
-
 3.  [喜迎星际II免费 国服玩家专属福利公布 - 《星际争霸II》官方网站_暴雪出品，史诗级竞技大作](http://sc2.blizzard.cn/articles/1001/77146)
-
 4.  [《星际争霸2：自由之翼》下月免费-驱动之家](http://news.mydrivers.com/1/554/554412.htm)
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12. 官方公告：[Starcraft II Unveiled](http://www.blizzard.com/press/070519.shtml)
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
 19.
-
 20.
-
 21.

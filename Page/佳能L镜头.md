@@ -171,7 +171,7 @@
 
 <references />
 
-  - [佳能L镜头官方页面](http://web.canon.jp/imaging/l-lens/index.html)
+  - [佳能L镜头官方页面](https://web.archive.org/web/20081219130633/http://web.canon.jp/imaging/l-lens/index.html)
 
 ## 外部链接
 

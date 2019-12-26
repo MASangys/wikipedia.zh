@@ -38,22 +38,13 @@
 [Category:腾讯软件](https://zh.wikipedia.org/wiki/Category:腾讯软件 "wikilink") [Category:汉语拼音输入法](https://zh.wikipedia.org/wiki/Category:汉语拼音输入法 "wikilink") [Category:专有软件](https://zh.wikipedia.org/wiki/Category:专有软件 "wikilink")
 
 1.  <http://qq.pinyin.cn/help/>
-
 2.
 3.
-
 4.  [QQ拼音输入法的特色](http://py.qq.com/)
-
 5.
-
 6.  [华军新闻](http://news.newhua.com/news1/news/2009/14/0914115915DEGHDGGB5BAC04J07378GB98KH7KE71JDA12IC7B5G364.html)
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.

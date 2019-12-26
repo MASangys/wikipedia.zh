@@ -10,9 +10,7 @@
 
 ## 当今使用
 
-摘录自[美国财政部](../Page/美国财政部.md "wikilink")的公共教育网站：
-
-[美国南北战争时期日益增长的宗教感情是格言](https://zh.wikipedia.org/wiki/美国南北战争 "wikilink")“我们信仰上帝”（In God We Trust）出现在美国[硬币上的主要原因](https://zh.wikipedia.org/wiki/硬币 "wikilink")。美国财政部長Salmon P·Chase接到了很多来自全国各地的虔诚的[基督教徒的请求](https://zh.wikipedia.org/wiki/基督教徒 "wikilink")，希望美国在[硬币加上对上帝的认同](https://zh.wikipedia.org/wiki/硬币 "wikilink")。根据财政部的记录，第一次收到这样的请求是在1861年11月13日，是由[宾夕法尼亚州](../Page/宾夕法尼亚州.md "wikilink")德利镇（Ridley）[福音牧师M](https://zh.wikipedia.org/wiki/福音 "wikilink")·R·瓦特肯森（M·R·Watkinson）写给秘书Salmon P·Chase的。
+[美国南北战争时期日益增长的宗教感情是格言](https://zh.wikipedia.org/wiki/美国南北战争 "wikilink")“我们信仰上帝”（In God We Trust）出现在美国[硬币上的主要原因](https://zh.wikipedia.org/wiki/硬币 "wikilink")。美国财政部長[萨蒙·P·蔡斯接到了很多来自全国各地的虔诚的](../Page/萨蒙·波特兰·蔡斯.md "wikilink")[基督教徒的请求](https://zh.wikipedia.org/wiki/基督教徒 "wikilink")，希望美国在[硬币加上对上帝的认同](https://zh.wikipedia.org/wiki/硬币 "wikilink")。根据财政部的记录，第一次收到这样的请求是在1861年11月13日，是由[宾夕法尼亚州](../Page/宾夕法尼亚州.md "wikilink")德利镇（Ridley）[福音牧师M](../Page/福音派.md "wikilink")·R·瓦特肯森（M. R. Watkinson）写给秘书萨蒙·波特兰·蔡斯的。
 
 ## 个别州的使用
 
@@ -32,7 +30,7 @@
 
 这句格言由于很多样的原因而遭到反对，但是仍然受到广大美国人民的支持。根据2003年的盖洛普民意测验，90%的[美国人支持这种](https://zh.wikipedia.org/wiki/美国人 "wikilink")[美金钱币上的印字](https://zh.wikipedia.org/wiki/美金 "wikilink")，包括[無宗教信仰的美國人](https://zh.wikipedia.org/wiki/無宗教信仰 "wikilink")。
 
-[美国宪法第一修正案](../Page/美国宪法第一修正案.md "wikilink")指出[美国国会](../Page/美国国会.md "wikilink")不能立法来维护一种[宗教](../Page/宗教.md "wikilink")的建立（設立[國教](https://zh.wikipedia.org/wiki/國教 "wikilink")）。批评家指出这句在钱币上印着的格言隱含一个[宗教](../Page/宗教.md "wikilink")，或者一个出于[公家](../Page/公家.md "wikilink")的[教会](https://zh.wikipedia.org/wiki/国教会 "wikilink")。[美國最高法院支持了这句格言的使用](https://zh.wikipedia.org/wiki/美國最高法院 "wikilink")，因为它“通过反复背诵已经失去了任何显著的[宗教](../Page/宗教.md "wikilink")内容”；所谓的"ceremonial deism"（自然神論儀式）法令已经失去了其“历史、特色以及上下文”。在相关决议中，比如Zorach v. Clauson，最高法院指出美国的“制度是以上帝存在为前提的”并指出政府对上帝的认可不等于一个国家教会的成立。后者宪法撰写者是极力反对的。此外，宗教，因為上帝（God）一詞並不涉及任何一個宗教，可以指為[基督教的神](../Page/基督教的神.md "wikilink")，也可指為[美國原住民](../Page/美國原住民.md "wikilink")的本土民間神靈。
+[美国宪法第一修正案](../Page/美国宪法第一修正案.md "wikilink")指出[美国国会](../Page/美国国会.md "wikilink")不能立法来维护一种[宗教](../Page/宗教.md "wikilink")的建立（設立[國教](../Page/國教.md "wikilink")）。批评家指出这句在钱币上印着的格言隱含一个[宗教](../Page/宗教.md "wikilink")，或者一个出于[公家](../Page/公家.md "wikilink")的[教会](https://zh.wikipedia.org/wiki/国教会 "wikilink")。[美國最高法院支持了这句格言的使用](https://zh.wikipedia.org/wiki/美國最高法院 "wikilink")，因为它“通过反复背诵已经失去了任何显著的[宗教](../Page/宗教.md "wikilink")内容”；所谓的"ceremonial deism"（自然神論儀式）法令已经失去了其“历史、特色以及上下文”。在相关决议中，比如Zorach v. Clauson，最高法院指出美国的“制度是以上帝存在为前提的”并指出政府对上帝的认可不等于一个国家教会的成立。后者宪法撰写者是极力反对的。此外，宗教，因為上帝（God）一詞並不涉及任何一個宗教，可以指為[基督教的神](../Page/基督教的神.md "wikilink")，也可指為[美國原住民](../Page/美國原住民.md "wikilink")的本土民間神靈。
 
 美國宪法学者拒绝向一些[法官](../Page/法官.md "wikilink")宣誓，这些法官把历史内容加入到他们所相信应该是简略[圣经诠释的东西](https://zh.wikipedia.org/wiki/圣经 "wikilink")。一些积极分子把纸币上的这句格言抹去，以此方式表示抗议。
 

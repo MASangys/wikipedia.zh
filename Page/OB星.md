@@ -14,7 +14,7 @@
 
 ## 外部連結
 
-  - Bouy, Hervé and Alves, João: [Cosmography of OB Stars in the Solar Neighborhood](http://sci.esa.int/hipparcos/ob-stars-interactive/) Astronomy & Astrophysics (December 2015). A three-dimensional map of OB star density within 500 pc of the Sun.
+  - Bouy, Hervé and Alves, João: [Cosmography of OB Stars in the Solar Neighborhood](https://web.archive.org/web/20160816185121/http://sci.esa.int/hipparcos/ob-stars-interactive/) Astronomy & Astrophysics (December 2015). A three-dimensional map of OB star density within 500 pc of the Sun.
   - [1](https://web.archive.org/web/20060129055121/http://www.astrophysical.org/starclassification.php) — Scientia Astrophysical Organization's star classification page
   - Philippe Stee's homepage: [Hot and Active Stars Research](http://www.oca.eu/stee/page1/page3/page3.html)
 

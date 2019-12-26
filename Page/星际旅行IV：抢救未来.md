@@ -109,7 +109,7 @@
 ## 参考资料
 
   - [星际旅行IV：抢救未来](http://www.startrek.com/startrek/view/series/MOV/004/index.html)，官方网站
-  - [星际旅行IV：抢救未来——制作短记](http://www.thefilmfrontier.com/startrek/trek04/prod1.htm)
+  - [星际旅行IV：抢救未来——制作短记](https://web.archive.org/web/20070222164449/http://www.thefilmfrontier.com/startrek/trek04/prod1.htm)
 
 ## 外部链接
 
@@ -122,16 +122,10 @@
 [Category:1986年電影](https://zh.wikipedia.org/wiki/Category:1986年電影 "wikilink") [Category:星际旅行电影](https://zh.wikipedia.org/wiki/Category:星际旅行电影 "wikilink") [Category:星际旅行剧情](https://zh.wikipedia.org/wiki/Category:星际旅行剧情 "wikilink") [Category:冒险片](https://zh.wikipedia.org/wiki/Category:冒险片 "wikilink") [Category:1980年代特攝作品](https://zh.wikipedia.org/wiki/Category:1980年代特攝作品 "wikilink") [Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:三藩市背景電影](https://zh.wikipedia.org/wiki/Category:三藩市背景電影 "wikilink") [Category:鲸目题材作品](https://zh.wikipedia.org/wiki/Category:鲸目题材作品 "wikilink") [Category:時間旅行電影](https://zh.wikipedia.org/wiki/Category:時間旅行電影 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.

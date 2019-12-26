@@ -84,8 +84,8 @@
 
 ## 外部連結
 
-  - [rhythm zone](http://rhythmzone.net/)
-  - [RIDDIM ZONE](http://riddimzone.net/)
-  - [RZTV](http://rztv.jp/)
+  - [rhythm zone](https://web.archive.org/web/20140625062532/http://rhythmzone.net/)
+  - [RIDDIM ZONE](https://web.archive.org/web/20080905131147/http://riddimzone.net/)
+  - [RZTV](https://web.archive.org/web/20140913102036/http://rztv.jp/)
 
 [Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink") [Category:Rhythm_zone](https://zh.wikipedia.org/wiki/Category:Rhythm_zone "wikilink") [Category:愛貝克思集團](https://zh.wikipedia.org/wiki/Category:愛貝克思集團 "wikilink")

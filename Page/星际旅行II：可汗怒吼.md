@@ -140,11 +140,11 @@
 
 ## 发行
 
-### 反响
+### 迴响
 
 1982年6月4日，《可汗怒吼》在全美1,621个院线公映。首映周末票房收入达14,347,221美元，创下了当时的首映周末票房收入的纪录。\[151\] 在美国，它的票房收入一路飙升至78,912,963美元，\[152\] 成为了1982年票房收入第六高的影片。\[153\] 它在全世界的票房收入高达9700万美元。尽管《可汗怒吼》的总毛利要低于《无限太空》，但却因为其低制作成本而让派拉蒙获得了更大的利润。\[154\] 由根据电影撰写的小说，在[《纽约时报》畅销书榜上停留了三周还多的时间](../Page/紐約時報暢銷書榜.md "wikilink")。\[155\] 与前作不同的是，《可汗怒吼》在当时并没有推出玩具产品；1990年代，[彩星集团推出了可汗与莎维可的玩偶](https://zh.wikipedia.org/wiki/彩星集团 "wikilink")；直到2007年，为纪念这部电影上映25周年，才推出了全系列的动作玩偶。\[156\][漫威漫画在](https://zh.wikipedia.org/wiki/漫威漫画 "wikilink")1982年并未出版过改编的漫画作品，但[IDW出版社已在](https://zh.wikipedia.org/wiki/IDW出版社 "wikilink")2009年4月推出改编的漫画作品。\[157\]
 
-对《可汗怒吼》的评论趋于正面。\[158\][烂番茄影评网站曾对此进行抽样调查](https://zh.wikipedia.org/wiki/烂番茄 "wikilink")：基于对38份样本的统计，其中共有92%的评论对电影持有正面态度。\[159\] 继对第一部电影的冷淡回应后，爱好者们对《可汗怒吼》的反响非常正面。这部电影的成功被赞誉为重新吸引了公众对《星际旅行》的兴趣。\[160\]《[娱乐周刊](../Page/娱乐周刊.md "wikilink")》的马克·贝尔纳丁（<span style="font-size:smaller;">Mark Bernardin</span>）对其评价更高，称《可汗怒吼》“这部电影被公认为拯救了我们所知的《星际旅行》”；\[161\] 此外，《可汗怒吼》还被一些影评家们认为是这一系列中最好的电影之一。\[162\]\[163\]\[164\]\[165\]
+对《可汗怒吼》的评论趋于正面。\[158\][烂番茄影评网站曾对此进行抽样调查](https://zh.wikipedia.org/wiki/烂番茄 "wikilink")：基于对38份样本的统计，其中共有92%的评论对电影持有正面态度。\[159\] 继对第一部电影的冷淡回应后，爱好者们对《可汗怒吼》的迴响非常正面。这部电影的成功被赞誉为重新吸引了公众对《星际旅行》的兴趣。\[160\]《[娱乐周刊](../Page/娱乐周刊.md "wikilink")》的马克·贝尔纳丁（<span style="font-size:smaller;">Mark Bernardin</span>）对其评价更高，称《可汗怒吼》“这部电影被公认为拯救了我们所知的《星际旅行》”；\[161\] 此外，《可汗怒吼》还被一些影评家们认为是这一系列中最好的电影之一。\[162\]\[163\]\[164\]\[165\]
 
 《可汗怒吼》的节奏明显快于前部电影，并与最初的电视剧系列非常接近，《[纽约时报](../Page/纽约时报.md "wikilink")》和《[华盛顿邮报](../Page/华盛顿邮报.md "wikilink")》的影评员们都对这一点加以赞誉。\[166\]\[167\]《纽约时报》的认为，《可汗怒吼》要比它的前作有着更出色的故事情节，并做到了其前作没有做到的事：令结局意味着一切。\[168\]《[剧艺报](https://zh.wikipedia.org/wiki/剧艺报 "wikilink")》认为，《可汗怒吼》比其前作更接近于早期《星际旅行》的精神。\[169\] 角色间的强烈互动亦被认为是这部电影的一大特色，\[170\] 蒙塔尔万饰演的可汗亦是影评人们关注的焦点之一。\[171\]
 
@@ -206,39 +206,28 @@
 [Category:1982年電影](https://zh.wikipedia.org/wiki/Category:1982年電影 "wikilink") [Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:1980年代冒险片](https://zh.wikipedia.org/wiki/Category:1980年代冒险片 "wikilink") [Category:1980年代科幻片](https://zh.wikipedia.org/wiki/Category:1980年代科幻片 "wikilink") [Category:美國科幻動作片](https://zh.wikipedia.org/wiki/Category:美國科幻動作片 "wikilink") [Category:美國動作驚悚片](https://zh.wikipedia.org/wiki/Category:美國動作驚悚片 "wikilink") [Category:美國冒險片](https://zh.wikipedia.org/wiki/Category:美國冒險片 "wikilink") [Category:太空冒險電影](https://zh.wikipedia.org/wiki/Category:太空冒險電影 "wikilink") [Category:星际旅行电影](https://zh.wikipedia.org/wiki/Category:星际旅行电影 "wikilink") [Category:1980年代特攝作品](https://zh.wikipedia.org/wiki/Category:1980年代特攝作品 "wikilink") [Category:星际旅行剧情](https://zh.wikipedia.org/wiki/Category:星际旅行剧情 "wikilink") [Category:未來背景電影](https://zh.wikipedia.org/wiki/Category:未來背景電影 "wikilink") [Category:23世紀背景電影](https://zh.wikipedia.org/wiki/Category:23世紀背景電影 "wikilink") [Category:報復題材電影](https://zh.wikipedia.org/wiki/Category:報復題材電影 "wikilink") [Category:續集電影](https://zh.wikipedia.org/wiki/Category:續集電影 "wikilink") [Category:洛杉矶取景电影](https://zh.wikipedia.org/wiki/Category:洛杉矶取景电影 "wikilink") [Category:旧金山取景电影](https://zh.wikipedia.org/wiki/Category:旧金山取景电影 "wikilink") [Category:派拉蒙影業電影](https://zh.wikipedia.org/wiki/Category:派拉蒙影業電影 "wikilink") [Category:詹姆斯·霍纳配乐电影](https://zh.wikipedia.org/wiki/Category:詹姆斯·霍纳配乐电影 "wikilink")
 
 1.  Cartmell，179－181页．
-
 2.
-
 3.
 4.
 5.
 6.  Roth，8页．
-
 7.  Shatner．
-
 8.
 9.  *Star Trek* cast and crew．
-
 10. Meyer．
-
 11. ．
-
 12.
 13. Rioux，243页．
-
 14.
 15.
 16.
 17.
 18. Okuda．
-
 19.
 20. Jenkins，104页．
-
 21.
 22.
 23. Nichols，248－249页．
-
 24.
 25.
 26.
@@ -246,25 +235,16 @@
 28.
 29.
 30. Dillard，71页．
-
 31. Shatner，161－162页．
-
 32. Rioux，240－241页．
-
 33. Shatner，99．
-
 34. Rioux，240－242页．
-
 35. Reeves-Stevens，203－205页．
-
 36.
 37.
 38. Robinson．
-
 39. Anderson, 52.
-
 40. Anderson，53页．
-
 41.
 42.
 43.
@@ -272,24 +252,18 @@
 45.
 46.
 47. Dillard，77页．
-
 48.
-
 49.
 50.
 51.
 52. Dillard，96页．
-
 53.
 54.
 55.
 56.
 57.
-
 58. Anderson，57页．
-
 59. Rouix，245页．
-
 60.
 61.
 62.
@@ -301,10 +275,8 @@
 68.
 69.
 70. Anderson，57页．
-
 71.
 72. Anderson，56页．
-
 73.
 74.
 75.
@@ -313,96 +285,66 @@
 78.
 79.
 80. Anderson，73页．
-
 81. Anderson，51页．
-
 82.
 83.
 84.
 85. Anderson，61页．
-
 86. Anderson，55页．
-
 87. Anderson，54页．
-
 88.
 89. Anderson，59页．
-
 90.
 91. Rioux, 248.
-
 92.
 93. Nichols，251页．
-
 94.
 95. Rioux，249页．
-
 96.
 97.
 98. Veilleux，1055页．
-
 99.
 100. Anderson，54页．
-
 101. Veilleux，1032页．
-
 102.
 103.
 104.
 105.
 106. Ralston，1052页．
-
 107.
 108.
 109.
 110.
 111.
 112. Anderson，63页．
-
 113.
 114. Anderson，62页．
-
 115.
 116.
 117. Veilleux，1034页．
-
 118.
-
 119.
 120.
 121.
 122. Anderson，71页．
-
 123.
-
 124.
-
 125.
 126.
-
 127. Anderson，72页．
-
 128.
 129.
 130.
-
 131.
 132.
-
 133.
 134.
-
 135.
 136. Markey，14页．
-
 137. Markey，21页．
-
 138. Roth，7页．
-
 139. **斯波克**：我至今从未参加过小林丸号测试，你觉得我的办法是什么？——迈耶，尼古拉斯（导演）．《星际旅行II：可汗怒吼》第16景{{《}}曲速{{》}}（<span style="font-size:smaller;">Warp Speed</span>）。原文：“**Spock**: I never took the Kobayashi Maru test until now. What do you think of my solution?”
-
 140. Roth，10页．
-
 141.
 142.
 143.
@@ -411,113 +353,65 @@
 146.
 147.
 148. Melville，427页．[在线版](http://books.google.com/books?id=cYKYYypj8UAC&printsec=frontcover&dq=moby+dick&client=safari#PPA427,M1) ．原文：“to the last I grapple with thee; from Hell's heart I stab at thee; for hate's sake, I spit my last breath at thee.”译文取自：赫曼·麦尔维尔．《白鲸》．王海芳 编译．延边人民出版社．2007年11月．ISBN 978-7-5449-0058-4．
-
 149.
-
 150.
-
 151.
-
 152.
-
 153.
-
 154.
 155.
-
 156.
-
 157.
-
 158.
-
 159.
-
 160. Jenkins，250页．
-
 161. ．
-
 162.
 163.
 164.
-
 165.
-
 166.
-
 167.
-
 168.
 169.
-
 170.
-
 171.
-
 172.
 173.
 174.
-
 175.
 176.
-
 177.
 178.
 179.
-
 180.
-
 181.
-
 182.
-
 183.
-
 184.
 185.
-
 186.
-
 187.
-
 188.
-
 189.
-
 190.
-
 191.
-
 192.
-
 193.
-
 194.
-
 195.
-
 196.
-
 197.
-
 198.
-
 199.
-
 200.
 201.
-
 202.
-
 203.
-
 204.
-
 205.
 206.
 207.
 208.
-
 209.
-
 210.

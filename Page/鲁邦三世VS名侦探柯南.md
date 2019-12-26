@@ -1,4 +1,4 @@
-《**魯邦三世VS名偵探柯南**》（）是[讀賣電視台](../Page/讀賣電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[魯邦三世](https://zh.wikipedia.org/wiki/魯邦三世 "wikilink")》（）與[日本電視台](../Page/日本電視台.md "wikilink")電視動畫《[名偵探柯南](../Page/名偵探柯南.md "wikilink")》（）共同製作的一部[動畫特別篇](https://zh.wikipedia.org/wiki/動畫 "wikilink")，慶祝日本電視台55週年台慶與讀賣電視台50週年台慶。2009年2月24日在[東京都](../Page/東京都.md "wikilink")舉辦宣傳[記者會](https://zh.wikipedia.org/wiki/記者會 "wikilink")，由日本電視台[播報員](https://zh.wikipedia.org/wiki/播報員 "wikilink")[宮崎宣子主持記者會](https://zh.wikipedia.org/wiki/宮崎宣子 "wikilink")。2009年3月27日21:00～23:09（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")）在[日本電視網協議會](../Page/日本電視網協議會.md "wikilink")（NNS）[電影節目](https://zh.wikipedia.org/wiki/電影 "wikilink")《周五馬路秀》（）首播，2009年5月在[CS日本的](https://zh.wikipedia.org/wiki/CS日本 "wikilink")[通訊衛星](../Page/通訊衛星.md "wikilink")（CS）電視頻道[日視Plus](https://zh.wikipedia.org/wiki/日視Plus "wikilink")（）重播。2009年7月24日，[株式會社VAP發行](https://zh.wikipedia.org/wiki/株式會社VAP "wikilink")[DVD與](https://zh.wikipedia.org/wiki/DVD "wikilink")[藍光光碟](../Page/藍光光碟.md "wikilink")版。
+《**魯邦三世VS名偵探柯南**》是[讀賣電視台](../Page/讀賣電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[魯邦三世](https://zh.wikipedia.org/wiki/魯邦三世 "wikilink")》與[日本電視台](../Page/日本電視台.md "wikilink")電視動畫《[名偵探柯南](../Page/名偵探柯南.md "wikilink")》共同製作的一部[動畫特別篇](https://zh.wikipedia.org/wiki/動畫 "wikilink")，慶祝日本電視台55週年台慶與讀賣電視台50週年台慶。2009年2月24日在[東京都](../Page/東京都.md "wikilink")舉辦宣傳[記者會](https://zh.wikipedia.org/wiki/記者會 "wikilink")，由日本電視台[播報員](https://zh.wikipedia.org/wiki/播報員 "wikilink")[宮崎宣子主持記者會](https://zh.wikipedia.org/wiki/宮崎宣子 "wikilink")。2009年3月27日21:00～23:09（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")）在[日本電視網協議會](../Page/日本電視網協議會.md "wikilink")（NNS）[電影節目](https://zh.wikipedia.org/wiki/電影 "wikilink")《周五馬路秀》首播，2009年5月在[CS日本的](https://zh.wikipedia.org/wiki/CS日本 "wikilink")[通訊衛星](../Page/通訊衛星.md "wikilink")（CS）電視頻道[日視Plus重播](https://zh.wikipedia.org/wiki/日視Plus "wikilink")。2009年7月24日，[株式會社VAP發行](https://zh.wikipedia.org/wiki/株式會社VAP "wikilink")[DVD與](https://zh.wikipedia.org/wiki/DVD "wikilink")[藍光光碟](../Page/藍光光碟.md "wikilink")版。
 
 ## 劇情
 
@@ -15,7 +15,7 @@
 | [雷朋三世](https://zh.wikipedia.org/wiki/雷朋三世 "wikilink")   | [栗田貫一](../Page/栗田貫一.md "wikilink")                      | [劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink") |
 | [江戶川柯南](https://zh.wikipedia.org/wiki/江戶川柯南 "wikilink") | [高山南](../Page/高山南.md "wikilink")                        | [蔣篤慧](../Page/蔣篤慧.md "wikilink")                  |
 | [次元大介](https://zh.wikipedia.org/wiki/次元大介 "wikilink")   | [小林清志](../Page/小林清志.md "wikilink")                      | [徐健春](../Page/徐健春.md "wikilink")                  |
-| [峰不二子](../Page/峰不二子.md "wikilink")                      | [增山江威子](https://zh.wikipedia.org/wiki/增山江威子 "wikilink") | [傅其慧](../Page/傅其慧.md "wikilink")                  |
+| [峰不二子](../Page/峰不二子.md "wikilink")                      | [增山江威子](https://zh.wikipedia.org/wiki/增山江威子 "wikilink") | [蔣篤慧](../Page/蔣篤慧.md "wikilink")                  |
 | [毛利蘭](https://zh.wikipedia.org/wiki/毛利蘭 "wikilink")     | [山崎和佳奈](../Page/山崎和佳奈.md "wikilink")                    | [魏晶琦](../Page/魏晶琦.md "wikilink")                  |
 | [毛利小五郎](../Page/毛利小五郎.md "wikilink")                    | [神谷明](../Page/神谷明.md "wikilink")                        | [曹冀魯](../Page/曹冀魯.md "wikilink")                  |
 | [石川五右衛門](../Page/石川五右衛門.md "wikilink")                  | [井上真樹夫](../Page/井上真樹夫.md "wikilink")                    | [陳幼文](../Page/陳幼文.md "wikilink")                  |
@@ -31,7 +31,7 @@
 
 ## 製作
 
-  - 原作：[Monkey Punch](https://zh.wikipedia.org/wiki/Monkey_Punch "wikilink")、[青山剛昌](../Page/青山剛昌.md "wikilink")
+  - 原作：[加藤一彦](../Page/加藤一彦.md "wikilink")、[青山剛昌](../Page/青山剛昌.md "wikilink")
   - 監督：龜垣一
   - 腳本：前川淳
   - 人物設定：平山智/須藤昌朋

@@ -35,7 +35,7 @@
 
 1.  星晴 (原唱: [周杰倫](../Page/周杰倫.md "wikilink"))
 2.  愛很簡單 (原唱: [陶喆](../Page/陶喆.md "wikilink"))
-3.  愛我別走 (原唱: [張震嶽](https://zh.wikipedia.org/wiki/張震嶽 "wikilink"))
+3.  愛我別走 (原唱: [張震嶽](../Page/張震嶽.md "wikilink"))
 4.  愛如潮水 (原唱: [張信哲](../Page/張信哲.md "wikilink"))
 5.  味道 (原唱: [辛曉琪](../Page/辛曉琪.md "wikilink"))
 6.  等 (原唱: [陳百強](../Page/陳百強.md "wikilink"))

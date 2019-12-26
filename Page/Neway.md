@@ -56,7 +56,7 @@ Neway K-fun
 
   - [薛濟傑](https://zh.wikipedia.org/wiki/薛濟傑 "wikilink")：[中星集團](../Page/中星集團.md "wikilink")前主席兼創辦人
   - [薛世恆](https://zh.wikipedia.org/wiki/薛世恆 "wikilink")：負責打理Neway卡拉OK、[星娛樂](https://zh.wikipedia.org/wiki/星娛樂 "wikilink")、[Neway Star](https://zh.wikipedia.org/wiki/Neway_Star "wikilink")。
-  - [薛嘉麟](https://zh.wikipedia.org/wiki/薛嘉麟 "wikilink")：薛世恆弟，[中星集團](../Page/中星集團.md "wikilink")主席，妻子為[模特兒](../Page/模特兒.md "wikilink")[諸葛紫岐](../Page/諸葛紫岐.md "wikilink")。
+  - [薛嘉麟](../Page/薛嘉麟.md "wikilink")：薛世恆弟，[中星集團](../Page/中星集團.md "wikilink")主席，妻子為[模特兒](../Page/模特兒.md "wikilink")[諸葛紫岐](../Page/諸葛紫岐.md "wikilink")。
 
 ## Neway分店
 
@@ -166,12 +166,8 @@ Neway K-fun
 [分類:香港卡拉OK公司](https://zh.wikipedia.org/wiki/分類:香港卡拉OK公司 "wikilink") [分類:中星集團](https://zh.wikipedia.org/wiki/分類:中星集團 "wikilink")
 
 1.  [Neway-集團簡介](http://www.newaykb.com/newsite/about.php)
-
 2.
 3.  [傳Neway收購加州紅獨霸K壇](http://hk.news.yahoo.com/article/100222/3/gou9.html) ，《星島日報》，2010年2月23日
-
 4.  [Neway宣布收購加州紅品牌續用](http://hk.news.yahoo.com/article/100307/4/gw53.html)
-
 5.
-
 6.

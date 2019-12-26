@@ -131,14 +131,11 @@ Perlin噪声对各个点的计算是相互独立的，因此非常适合使用[�
 [Category:计算机图形学](https://zh.wikipedia.org/wiki/Category:计算机图形学 "wikilink") [Category:二维计算机图形学](https://zh.wikipedia.org/wiki/Category:二维计算机图形学 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
 6.
-
 7.
 8.
 9.

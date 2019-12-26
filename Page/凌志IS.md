@@ -197,12 +197,6 @@ IS 350的表現很為獲得美國一本汽車雜誌《[Road & Track](https://zh
 
 ## 參考
 
-<div class="references-small">
-
-<references/>
-
-</div>
-
 ## 外部連結
 
   - [美國凌志IS官方網站](http://lexus.com/models/is/index.html)

@@ -68,61 +68,32 @@ NoScript被[PC World杂志评为](../Page/PC_World.md "wikilink")2006年百大�
 [Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink") [Category:安全软件](https://zh.wikipedia.org/wiki/Category:安全软件 "wikilink") [Category:廣告攔截軟體](https://zh.wikipedia.org/wiki/Category:廣告攔截軟體 "wikilink")
 
 1.  [NoScript What is it?](http://noscript.net/) *NoScript.net*
-
 2.  [NoScript Features-Usable security](http://noscript.net/features) *NoScript.net*
-
 3.  [NoScript Features-Site matching](http://noscript.net/features) *NoScript.net*
-
 4.  [NoScript Features-Untrusted blacklist](http://noscript.net/features) *NoScript.net*
-
 5.
-
 6.  [NoScript's first Anti-XSS release *Mozilla Add-ons*](https://addons.mozilla.org/zh-CN/firefox/addon/noscript/versions/1.1.4.7) *Mozilla Add-ons*
-
 7.  [NoScript Features-Anti-XSS protection](http://noscript.net/features) *NoScript.net*
-
 8.  [Force SSL HTTPS Connections In NoScript](https://addons.mozilla.org/zh-CN/firefox/addon/noscript/versions/1.8.1) *NoScript.net*
-
 9.  [What can NoScript do against HTTPS cookie hijacking?](http://noscript.net/faq#qa6_4) *NoScript.net*
-
 10. [First public Strict Transport Security implementation](https://addons.mozilla.org/zh-CN/firefox/addon/noscript/versions/1.9.9.01)
-
 11. [Strict Transport Security in NoScript](http://hackademix.net/2009/09/23/strict-transport-security-in-noscript/)
-
 12.
-
 13.
-
 14. [PC World Award](http://www.pcworld.com/article/id,125706-page,14/article.html) *pcworld.com*
-
 15.
-
 16.
-
 17.
-
 18. Some hours later, on May 2, 2009, a further automatic NoScript update (version 1.9.2.6) completely removed the Adblock Plus whitelist, and public apologies were given on the release notes page for having modified Adblock Plus' behavior without asking users' consent in advance.
-
 19.
-
 20.
-
 21. [NoScript support forum](http://forums.informaction.com/viewtopic.php?p=3133#p3128) "Re: Latest NoScript version (1.9.2) breaks Adblock Plus", comment \#3133, Guest (2009-05-01)
-
 22. [NoScript support forum](http://forums.informaction.com/viewtopic.php?p=3610#p3610) "Re: Latest NoScript version (1.9.2) breaks Adblock Plus", comment \#3610, Curious Inquiry (2009-05-03)
-
 23. [NoScript support forum](http://forums.informaction.com/viewtopic.php?p=3133#p3133) "Re: Latest NoScript version (1.9.2) breaks Adblock Plus", comment \#3133, Giorgio Maone (2009-05-01)
-
 24. [NoScript support forum](http://forums.informaction.com/viewtopic.php?p=3704#p3704) "Re: Latest NoScript version (1.9.2) breaks Adblock Plus", comment \#3704, Giorgio Maone (2009-05-04)
-
 25. [NoScript support forum](http://forums.informaction.com/viewtopic.php?p=3935#p3935) "Re: Additional steps to regain and retain user trust", comment \#3935, Giorgio Maone (2009-05-06)
-
 26. [Ghostery News](http://ghosterynews.disqus.com/attention_all_noscript_users/#comment-9007251)  "Attention all NoScript users", comment by Giorgio Maone, (2009-05-05)
-
 27. [Twitter](http://twitter.com/diveintomark/status/1690499472) tweet by Mark Pilgrim (diveintomark) (2009-05-03)
-
 28. [yardley.ca](http://yardley.ca/2009/05/04/when-blockers-block-the-blockers/)  "When blockers block the blockers", Greg Yardley (2009-05-04)
-
 29. [Ghostery News](http://news.ghostery.com/post/103180001/attention-all-noscript-users)  "Attention all NoScript users", David Cancel (2009-05-03)
-
 30.

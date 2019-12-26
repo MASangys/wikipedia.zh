@@ -67,60 +67,36 @@
 
 1.
 2.
-
 3.
 4.
 5.  "Badge" search results. . Retrieved 2010-01-02.
-
 6.
-
 7.
 8.
-
 9.
-
 10. [Whereseric.com](http://www.whereseric.com/news/2005/02/virgin-books-cream-the-worlds-first-supergroup.html)
-
 11.
-
 12. Mark Kemp, *Dixie Lullaby*, Simon and Schuster, 2007, p.21
-
 13. Brock Helander, *The Rock Who's Who*, Schirmer/Mosel Verlag GmbH, 1982, p.349
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
 22. Tobler, John and Frame, Pete: Jack Bruce interview, Zigzag \# 22, autumn 1971
-
 23.
-
 24.
 25.
 26.
-
 27.
 28.
 29.
 30.
-
 31.
-
 32. [1993搖滾名人堂](http://www.futurerocklegends.com/preyear.php?induction_year=1993)
-
 33. ["The Greatest Artists of All Time"](http://stereogum.com/495331/vh1-100-greatest-artists-of-all-time/list/). VH1/Stereogum. Retrieved 2012-04-25.
-
 34. [Waters Roger](https://zh.wikipedia.org/wiki/羅傑·華特斯 "wikilink"). ["Cream: 100 Greatest Artists of All Time"](https://www.rollingstone.com/music/lists/100-greatest-artists-of-all-time-19691231/cream-20110420). Rolling Stone. Retrieved 2012-04-25.
-
 35.

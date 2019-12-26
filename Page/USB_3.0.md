@@ -178,47 +178,26 @@ USB 3.2是2017年7月25日USB開發者論壇（USB Implementers Forum）宣佈�
 [Category:USB](https://zh.wikipedia.org/wiki/Category:USB "wikilink") [Category:2008年面世](https://zh.wikipedia.org/wiki/Category:2008年面世 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  [手机厂商阉割Type-C接口的真相：影响手机信号！](http://m.sohu.com/n/445606397/)
-
 7.   100806 interfacebus.com
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19. <http://www.pcworld.com/article/2686892/reversible-usb-type-c-wonder-cable-will-deliver-displayport-audio-and-video-too.html>
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.

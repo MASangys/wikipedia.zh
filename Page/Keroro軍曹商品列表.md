@@ -1,127 +1,65 @@
 **Keroro軍曹商品列表**為動漫作品《[Keroro軍曹](../Page/Keroro軍曹.md "wikilink")》周邊商品的介紹，漫畫及動畫DVD除外。
 
-## 小說
-
-<table>
-<thead>
-<tr class="header">
-<th><p>日本原名</p></th>
-<th><p>名稱</p></th>
-<th><p>作者</p></th>
-<th><p>發售日期</p></th>
-<th><p>出版商</p></th>
-<th><p>ISBN</p></th>
-<th><p>封面</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>{{lang|ja|小説侵略! ケロロ軍曹 愛爆発! 地球消滅５秒前</p></td>
-<td><p>}}</p></td>
-<td><p>小說侵略! Keroro軍曹 愛爆發! 地球消滅前5秒</p></td>
-<td></td>
-<td></td>
-<td><p>2006年1月23日</p></td>
-<td><p><a href="../Page/角川書店.md" title="wikilink">角川書店</a></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>小說侵略! Keroro軍曹 隱形挑戰者!?</p></td>
-<td><p>伊豆平成</p></td>
-<td><p>2006年2月22日</p></td>
-<td><p><a href="../Page/角川書店.md" title="wikilink">角川書店</a></p></td>
-<td><p>4-04-853943-4-C0076</p></td>
-<td><p><a href="https://web.archive.org/web/20070927232637/http://k66.shingoaoi.com/keroro_image/invader/book/f02j.jpg">2</a></p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>小說侵略! Keroro軍曹 各色各樣的傳說</p></td>
-<td><p>伊豆平成</p></td>
-<td><p>2006年3月27日</p></td>
-<td><p><a href="../Page/角川書店.md" title="wikilink">角川書店</a></p></td>
-<td><p>4-04-853944-2-C0076</p></td>
-<td><p><a href="https://web.archive.org/web/20070927232652/http://k66.shingoaoi.com/keroro_image/invader/book/f03j.jpg">3</a></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>小說侵略! Keroro軍曹 深海的公主是也!</p></td>
-<td><p>伊豆平成</p></td>
-<td><p>2007年3月7日</p></td>
-<td><p><a href="../Page/角川書店.md" title="wikilink">角川書店</a></p></td>
-<td><p>978-4-04-854085-8-C0076</p></td>
-<td><p><a href="https://web.archive.org/web/20070927232523/http://k66.shingoaoi.com/keroro_image/invader/book/f04j.jpg">4</a></p></td>
-</tr>
-</tbody>
-</table>
-
 ## 特刊
 
 <table>
 <thead>
 <tr class="header">
 <th><p>日本原名</p></th>
-<th><p>名稱</p></th>
-<th><p>發售日期</p></th>
-<th><p>製作廠商</p></th>
-<th><p>封面</p></th>
+<th><p>中文名稱</p></th>
+<th><p>角川書店</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>2004年7月30日</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>2005年7月15日</p></td>
-<td></td>
-<td><p><a href="http://www.sunrise-inc.co.jp/keroro/release/images/book_01.jpg">5</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td><p>2005年8月8日</p></td>
-<td></td>
-<td><p><a href="http://www.sunrise-inc.co.jp/keroro/release/images/book_02.jpg">6</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td><p>2005年9月15日</p></td>
-<td></td>
-<td><p><a href="http://www.sunrise-inc.co.jp/keroro/release/images/book_03.jpg">7</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td><p>2005年10月14日</p></td>
-<td></td>
-<td><p><a href="http://www.sunrise-inc.co.jp/keroro/release/images/book_04_01.jpg">8</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td><p>2005年11月15日</p></td>
-<td></td>
-<td><p><a href="http://www.sunrise-inc.co.jp/keroro/release/images/book_05_01.jpg">9</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>2006年2月25日</p></td>
-<td></td>
-<td><p><a href="http://www.sunrise-inc.co.jp/keroro/release/images/seal_01.jpg">10</a></p></td>
+<td><p>2006年2月22日</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p>2006年2月25日</p></td>
-<td></td>
-<td></td>
+<td><p>ISBN 978-4-04-853947-0</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td><p>2006年4月25日</p></td>
-<td></td>
-<td><p><a href="http://www.sunrise-inc.co.jp/keroro/release/images/book_06_01.jpg">11</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -146,7 +84,7 @@
 <td><p>2004年5月8日</p></td>
 <td><p>Victor Entertainment</p></td>
 <td><p>B0001N1NHA</p></td>
-<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-35644.jpg">12</a></p></td>
+<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-35644.jpg">1</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -154,7 +92,7 @@
 <td><p>2004年5月21日</p></td>
 <td><p>Victor Entertainment</p></td>
 <td><p>B0001ZX2GI</p></td>
-<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-35630.jpg">13</a></p></td>
+<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-35630.jpg">2</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -162,7 +100,7 @@
 <td><p>2004年9月30日</p></td>
 <td><p>Victor Entertainment</p></td>
 <td><p>B0002CHPG8</p></td>
-<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61351.jpg">14</a></p></td>
+<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61351.jpg">3</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -170,7 +108,7 @@
 <td><p>2005年2月2日</p></td>
 <td><p>Victor Entertainment</p></td>
 <td><p>B0006TPGAO</p></td>
-<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-35760.jpg">15</a></p></td>
+<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-35760.jpg">4</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -178,7 +116,7 @@
 <td><p>2005年2月23日</p></td>
 <td><p>Victor Entertainment</p></td>
 <td><p>B000793F1K</p></td>
-<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61354.jpg">16</a></p></td>
+<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61354.jpg">5</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -186,7 +124,7 @@
 <td><p>2005年3月24日</p></td>
 <td><p>Victor Entertainment</p></td>
 <td><p>B0007Q6WDG</p></td>
-<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61353.jpg">17</a></p></td>
+<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61353.jpg">6</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -194,7 +132,7 @@
 <td><p>2005年5月25日</p></td>
 <td><p>Sony Music Records</p></td>
 <td><p>B00092QUIU</p></td>
-<td><p><a href="http://g-ec2.images-amazon.com/images/I/41RJsdTjBAL._AA240_.jpg">18</a></p></td>
+<td><p><a href="http://g-ec2.images-amazon.com/images/I/41RJsdTjBAL._AA240_.jpg">7</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -202,7 +140,7 @@
 <td><p>2005年6月1日</p></td>
 <td><p>Sony Music Direct</p></td>
 <td><p>B00092QTWM</p></td>
-<td><p><a href="http://ec1.images-amazon.com/images/I/41hzervcSGL._AA240_.jpg">19</a></p></td>
+<td><p><a href="http://ec1.images-amazon.com/images/I/41hzervcSGL._AA240_.jpg">8</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -210,7 +148,7 @@
 <td><p>2005年10月26日</p></td>
 <td><p>Kioon Records</p></td>
 <td><p>B000B9F2EE</p></td>
-<td><p><a href="http://g-ec2.images-amazon.com/images/I/51sR2Bo8SXL._AA240_.jpg">20</a></p></td>
+<td><p><a href="http://g-ec2.images-amazon.com/images/I/51sR2Bo8SXL._AA240_.jpg">9</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -218,7 +156,7 @@
 <td><p>2005年11月16日</p></td>
 <td><p>Sony Music Records</p></td>
 <td><p>B000B9F2WQ</p></td>
-<td><p><a href="http://ec1.images-amazon.com/images/I/51qWfIFOGuL._AA240_.jpg">21</a></p></td>
+<td><p><a href="http://ec1.images-amazon.com/images/I/51qWfIFOGuL._AA240_.jpg">10</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -226,7 +164,7 @@
 <td><p>2006年3月8日</p></td>
 <td><p>Victor Entertainment</p></td>
 <td><p>B000E1KNKW</p></td>
-<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61871.jpg">22</a></p></td>
+<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61871.jpg">11</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -234,7 +172,7 @@
 <td><p>2006年3月8日</p></td>
 <td><p>Sony Music Direct</p></td>
 <td><p>B000EBCLA2</p></td>
-<td><p><a href="http://g-ec2.images-amazon.com/images/I/514qobbO%2B4L._AA240_.jpg">23</a></p></td>
+<td><p><a href="http://g-ec2.images-amazon.com/images/I/514qobbO%2B4L._AA240_.jpg">12</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -242,7 +180,7 @@
 <td><p>2006年4月21日</p></td>
 <td><p>Victor Entertainment</p></td>
 <td><p>B000ECY488</p></td>
-<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61898.jpg">24</a></p></td>
+<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61898.jpg">13</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -250,7 +188,7 @@
 <td><p>2006年5月10日</p></td>
 <td><p>Sony Music Direct</p></td>
 <td><p>B000EWBC2O</p></td>
-<td><p><a href="http://g-ec2.images-amazon.com/images/I/61V5HK0ctrL._AA240_.jpg">25</a></p></td>
+<td><p><a href="http://g-ec2.images-amazon.com/images/I/61V5HK0ctrL._AA240_.jpg">14</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -258,7 +196,7 @@
 <td><p>2006年5月31日</p></td>
 <td><p>R &amp; C Ltd</p></td>
 <td><p>B000F6YQY0</p></td>
-<td><p><a href="http://ec1.images-amazon.com/images/I/61QXJZFA5VL._AA240_.jpg">26</a></p></td>
+<td><p><a href="http://ec1.images-amazon.com/images/I/61QXJZFA5VL._AA240_.jpg">15</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -266,7 +204,7 @@
 <td><p>2006年8月2日</p></td>
 <td><p>R &amp; C Ltd</p></td>
 <td><p>B000GALBF2</p></td>
-<td><p><a href="http://g-ec2.images-amazon.com/images/I/51EEXM55QSL._AA240_.jpg">27</a></p></td>
+<td><p><a href="http://g-ec2.images-amazon.com/images/I/51EEXM55QSL._AA240_.jpg">16</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -274,7 +212,7 @@
 <td><p>2006年10月25日</p></td>
 <td><p>KRE</p></td>
 <td><p>B000I5XMHA</p></td>
-<td><p><a href="http://g-ec2.images-amazon.com/images/I/41F1DPTQ73L._AA240_.jpg">28</a></p></td>
+<td><p><a href="http://g-ec2.images-amazon.com/images/I/41F1DPTQ73L._AA240_.jpg">17</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -290,7 +228,7 @@
 <td><p>2007年3月14日</p></td>
 <td><p>Sony Music Records</p></td>
 <td></td>
-<td><p><a href="http://g-ec2.images-amazon.com/images/I/41lDhGM6i3L._AA240_.jpg">29</a></p></td>
+<td><p><a href="http://g-ec2.images-amazon.com/images/I/41lDhGM6i3L._AA240_.jpg">18</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -298,7 +236,7 @@
 <td><p>2007年3月17日</p></td>
 <td><p>KRE</p></td>
 <td><p>B000N3SY6G</p></td>
-<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-36209.jpg">30</a></p></td>
+<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-36209.jpg">19</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -306,7 +244,7 @@
 <td><p>2007年5月30日</p></td>
 <td><p>Victor Entertainment</p></td>
 <td><p>B000P12CUK</p></td>
-<td><p><a href="http://g-ec2.images-amazon.com/images/I/51tBgZ26gQL._AA240_.jpg">31</a></p></td>
+<td><p><a href="http://g-ec2.images-amazon.com/images/I/51tBgZ26gQL._AA240_.jpg">20</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -314,7 +252,7 @@
 <td><p>2007年9月5日</p></td>
 <td><p>R &amp; C Ltd</p></td>
 <td><p>B000SKNOSW</p></td>
-<td><p><a href="http://g-ec2.images-amazon.com/images/I/51AMvOmlKUL._AA240_.jpg">32</a></p></td>
+<td><p><a href="http://g-ec2.images-amazon.com/images/I/51AMvOmlKUL._AA240_.jpg">21</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -339,7 +277,7 @@
 <td><p>2004年8月21日</p></td>
 <td><p>Victor Entertainment</p></td>
 <td><p>B0002J529S</p></td>
-<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61391.jpg">33</a></p></td>
+<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61391.jpg">22</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -347,7 +285,7 @@
 <td><p>2004年9月22日</p></td>
 <td><p>Victor Entertainment</p></td>
 <td><p>B0002T2412</p></td>
-<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61392.jpg">34</a></p></td>
+<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61392.jpg">23</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -355,7 +293,7 @@
 <td><p>2004年10月21日</p></td>
 <td><p>Victor Entertainment</p></td>
 <td><p>B0002ZF10C</p></td>
-<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61393.jpg">35</a></p></td>
+<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61393.jpg">24</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -363,7 +301,7 @@
 <td><p>2004年11月21日</p></td>
 <td><p>Victor Entertainment</p></td>
 <td><p>B000657KHK</p></td>
-<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61394.jpg">36</a></p></td>
+<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61394.jpg">25</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -371,7 +309,7 @@
 <td><p>2004年12月16日</p></td>
 <td><p>Victor Entertainment</p></td>
 <td><p>B0006GB09S</p></td>
-<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61395.jpg">37</a></p></td>
+<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61395.jpg">26</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -379,7 +317,7 @@
 <td><p>2005年7月21日</p></td>
 <td><p>Victor Entertainment</p></td>
 <td><p>B0009S2PM4</p></td>
-<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61676.jpg">38</a></p></td>
+<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61676.jpg">27</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -387,7 +325,7 @@
 <td><p>2005年8月24日</p></td>
 <td><p>Victor Entertainment</p></td>
 <td><p>B000A1C9YO</p></td>
-<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61677.jpg">39</a></p></td>
+<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61677.jpg">28</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -395,7 +333,7 @@
 <td><p>2005年9月22日</p></td>
 <td><p>Victor Entertainment</p></td>
 <td><p>B000AMZ1KW</p></td>
-<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61678.jpg">40</a></p></td>
+<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61678.jpg">29</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -403,7 +341,7 @@
 <td><p>2005年10月21日</p></td>
 <td><p>Victor Entertainment</p></td>
 <td><p>B000B84PIE</p></td>
-<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61679.jpg">41</a></p></td>
+<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61679.jpg">30</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -411,7 +349,7 @@
 <td><p>2005年11月23日</p></td>
 <td><p>Victor Entertainment</p></td>
 <td><p>B000BM6KN8</p></td>
-<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61680.jpg">42</a></p></td>
+<td><p><a href="http://www.jvcmusic.co.jp/img/jackets/VICL-61680.jpg">31</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -442,7 +380,7 @@
 <td><p>動作</p></td>
 <td><p>1～4人</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
-<td><p><a href="http://www.sunrise-inc.co.jp/keroro/release/images/game_01.jpg">43</a></p></td>
+<td><p><a href="http://www.sunrise-inc.co.jp/keroro/release/images/game_01.jpg">32</a></p></td>
 </tr>
 <tr class="even">
 <td><p>{{lang|ja|ケロロ軍曹 対決！劇走ケロンプリ大作戦であります</p></td>
@@ -466,7 +404,7 @@
 <td></td>
 <td><p>1人</p></td>
 <td></td>
-<td><p><a href="http://www.sunrise-inc.co.jp/keroro/release/images/typing_01.jpg">45</a></p></td>
+<td><p><a href="http://www.sunrise-inc.co.jp/keroro/release/images/typing_01.jpg">34</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -477,7 +415,7 @@
 <td><p>動作</p></td>
 <td><p>1～4人</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
-<td><p><a href="http://www.sunrise-inc.co.jp/keroro/release/images/game_03.jpg">46</a></p></td>
+<td><p><a href="http://www.sunrise-inc.co.jp/keroro/release/images/game_03.jpg">35</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -615,7 +553,7 @@
 <td><p>2005年8月下旬</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>4款頭形盒，13款造型</p></td>
-<td><p><a href="http://catalog.bandai.co.jp/neco/itemM/4543112348395000.jpg">47</a></p></td>
+<td><p><a href="http://catalog.bandai.co.jp/neco/itemM/4543112348395000.jpg">36</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -623,7 +561,7 @@
 <td><p>2006年2月下旬</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>4款頭形盒，13款造型</p></td>
-<td><p><a href="http://catalog.bandai.co.jp/neco/itemM/4543112398277000.jpg">48</a></p></td>
+<td><p><a href="http://catalog.bandai.co.jp/neco/itemM/4543112398277000.jpg">37</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -631,7 +569,7 @@
 <td><p>2006年6月22日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>6款頭形盒，13款造型</p></td>
-<td><p><a href="http://catalog.bandai.co.jp/neco/itemM/4543112399694000.jpg">49</a></p></td>
+<td><p><a href="http://catalog.bandai.co.jp/neco/itemM/4543112399694000.jpg">38</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -639,7 +577,7 @@
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>6款頭形盒，13款造型</p></td>
-<td><p><a href="http://g-ec2.images-amazon.com/images/I/41gTwttuhvL._AA280_.jpg">50</a></p></td>
+<td><p><a href="http://g-ec2.images-amazon.com/images/I/41gTwttuhvL._AA280_.jpg">39</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -647,7 +585,7 @@
 <td><p>2006年11月30日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>N/A</p></td>
-<td><p><a href="https://web.archive.org/web/20070927232720/http://k66.shingoaoi.com/keroro_image/invader/toy/b0611a01.jpg">51</a></p></td>
+<td><p><a href="https://web.archive.org/web/20070927232720/http://k66.shingoaoi.com/keroro_image/invader/toy/b0611a01.jpg">40</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -655,7 +593,7 @@
 <td><p>2007年2月下旬</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>6款頭形盒，13款造型</p></td>
-<td><p><a href="http://catalog.bandai.co.jp/neco/itemM/4543112458261000.jpg">52</a></p></td>
+<td><p><a href="http://catalog.bandai.co.jp/neco/itemM/4543112458261000.jpg">41</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

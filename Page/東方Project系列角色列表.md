@@ -30,10 +30,14 @@
   - 《[東方輝針城 ～ Double_Dealing_Character.](../Page/東方輝針城_～_Double_Dealing_Character..md "wikilink")》⇒《輝針城》
   - 《[弹幕天邪鬼 ～ Impossible Spell Card](https://zh.wikipedia.org/wiki/弹幕天邪鬼_～_Impossible_Spell_Card "wikilink")》⇒《天邪鬼》
   - 《[東方深秘錄 ～ Urban Legend in Limbo.](https://zh.wikipedia.org/wiki/東方深秘錄_～_Urban_Legend_in_Limbo. "wikilink")》⇒《深秘錄》
-  - 《[东方绀珠传 ～ Legacy of Lunatic Kingdom.](https://zh.wikipedia.org/wiki/东方绀珠传_～_Legacy_of_Lunatic_Kingdom. "wikilink")》⇒《绀珠传》
-  - 《[东方天空璋 ～ Hidden Star in Four Seasons.](https://zh.wikipedia.org/wiki/东方天空璋_～_Hidden_Star_in_Four_Seasons. "wikilink")》⇒《天空璋》
+  - 《[東方紺珠傳 ～ Legacy of Lunatic Kingdom.](../Page/東方紺珠傳_～_Legacy_of_Lunatic_Kingdom..md "wikilink")》⇒《紺珠傳》
+  - 《[東方憑依華 ～ Antinomy of Common Flowers.](../Page/東方憑依華_～_Antinomy_of_Common_Flowers..md "wikilink")》⇒《憑依華》
+  - 《[東方天空璋 ～ Hidden Star in Four Seasons.](../Page/東方天空璋_～_Hidden_Star_in_Four_Seasons..md "wikilink")》⇒《天空璋》
+  - 《[秘封噩夢日記 ～ Violet Detector.](../Page/秘封噩夢日記_～_Violet_Detector..md "wikilink")》⇒《秘封噩夢日記》
+  - 《[東方鬼形獸 ～ Wily Beast and Weakest Creature.](../Page/東方鬼形獸_～_Wily_Beast_and_Weakest_Creature..md "wikilink")》⇒《鬼形獸》
+  - 《[東方剛欲異聞 ～ 被水淹沒的沉愁地獄](https://zh.wikipedia.org/wiki/東方剛欲異聞_～_被水淹沒的沉愁地獄 "wikilink")》⇒《剛欲異聞》
 
-**出版物**
+**官方出版物**
 
   - 《[東方香霖堂 ～ Curiosities of Lotus Asia.](../Page/東方香霖堂_～_Curiosities_of_Lotus_Asia..md "wikilink")》⇒《香霖堂》
   - 《[東方文花帖 ～ Bohemian Archive in Japanese Red.](https://zh.wikipedia.org/wiki/東方文花帖_～_Bohemian_Archive_in_Japanese_Red. "wikilink")》⇒《文花帖》（書籍）
@@ -45,62 +49,187 @@
   - 《[東方儚月抄\#東方儚月抄 ～ 月宮的兔子與地上的兔子](https://zh.wikipedia.org/wiki/東方儚月抄#東方儚月抄_～_月宮的兔子與地上的兔子 "wikilink")》⇒《儚月抄》（四格漫畫）
   - 《[東方儚月抄 ～ Cage in Lunatic Runagate.](https://zh.wikipedia.org/wiki/東方儚月抄#东方儚月抄_～_Cage_in_Lunatic_Runagate. "wikilink")》⇒《儚月抄》（小說）
   - 《[東方茨歌仙 ～ Wild and Horned Hermit.](https://zh.wikipedia.org/wiki/東方茨歌仙_～_Wild_and_Horned_Hermit. "wikilink")》⇒《茨歌仙》
-  - 《[東方鈴奈庵 ～ Forbidden Scrollery.](../Page/東方鈴奈庵_～_Forbidden_Scrollery..md "wikilink") 》 ⇒ 《鈴奈庵》
+  - 《[東方鈴奈庵 ～ Forbidden Scrollery.](../Page/東方鈴奈庵_～_Forbidden_Scrollery..md "wikilink")》 ⇒ 《鈴奈庵》
+  - 《[東方醉蝶華 ～ 食蓮者們的醉醒](https://zh.wikipedia.org/wiki/東方醉蝶華_～_食蓮者們的醉醒 "wikilink")》 ⇒ 《醉蝶華》
+  - 《[東方智靈奇傳 犯規偵探覺](https://zh.wikipedia.org/wiki/東方智靈奇傳_犯規偵探覺 "wikilink")》 ⇒ 《智靈奇傳》
 
 ## 主角
 
-### 博麗 靈夢
+  - 博麗靈夢（，Hakurei Reimu）
 
-### 霧雨 魔理沙
+<!-- end list -->
+
+  -
+    **種族**：人類
+    **職業**：巫女
+    **能力**：
+    操縱靈氣的能力（紅魔鄉）
+    在空中飛行程度的能力（紅魔鄉、求聞史紀）
+    主要擁有空中飛翔程度的能力（妖妖夢、永夜抄、花映塚、風神錄、地靈殿、星蓮船、神靈廟、輝針城、紺珠傳、天空璋、鬼形獸）
+    **主題曲**：
+      - 　東方妖戀談（夢時空、萃夢想、緋想天、非想天則）
+
+      - 　少女綺想曲～ Capriccio（幻想鄉、萃夢想）
+
+      - 　少女綺想曲～ Dream Battle（永夜抄）
+
+      - 　春色小徑～ Colorful Path（花映塚、心綺樓）
+
+      - 　二色蓮花蝶～ Ancients（非想天則）
+
+      - 　二色蓮花蝶～ Red and White（深秘錄、憑依華）
+    **登場**：
+      - 除《文花帖》遊戲、《妖精大戰爭》、《彈幕天邪鬼》、《秘封噩夢日記》外的所有可用角色
+      - 《幻想鄉》、《永夜抄》4面BOSS
+      - 《秋霜玉》Extra Stage關BOSS2
+      - 《萃夢想》萃香路線最終關BOSS
+      - 《花映塚》小町路線第八關BOSS、四季映姬路線第九關（最終）BOSS
+      - 《緋想天》射命丸文路線最終關BOSS、天子路線最終關BOSS
+      - 《非想天則》早苗路線第三關BOSS、美鈴路線第四關BOSS
+      - 《文花帖DS》LEVEL Ex關BOSS之一
+      - 《妖精大戰爭》結局
+      - 《心綺樓》秦心路線最終關BOSS（支援頭目：白蓮、神子）
+      - 《彈幕天邪鬼》八日目BOSS
+      - 《深秘錄》、《憑依華》、《剛欲異聞》敵機
+      - 《秘封噩夢日記》星期日BOSS、里·星期日BOSS、噩夢週六BOSS
+      - 《求聞史紀》、《香霖堂》、《紫香花》、《儚月抄》、《三月精》、《茨歌仙》、《鈴奈庵》、《智靈奇傳》、《醉蝶華》
+
+<!-- end list -->
+
+  - 霧雨魔理沙（，Kirisame Marisa）
+
+<!-- end list -->
+
+  -
+    **種族**：人類
+    **職業**：魔法使
+    **能力**：
+    操縱魔法程度的能力（紅魔鄉）
+    主要擁有使用魔法程度的能力（妖妖夢）
+    使用魔法程度的能力（萃夢想、永夜抄、求聞史紀、花映塚、地靈殿、星蓮船、神靈廟、輝針城、紺珠傳、天空璋、鬼形獸）
+    **主題曲**：
+      - 　戀色Magic（封魔錄、萃夢想、非想天則）
+
+      - 　Dim. Dream（夢時空）
+
+      - 　星之器～ Casket of Star（幻想鄉、緋想天）
+
+      - 　魔女們的舞會（萃夢想）
+
+      - 　戀色Master spark（永夜抄、深秘錄、憑依華）
+
+      - 　Oriental Dark Flight（花映塚）
+
+      - 　Magus Night（妖精大戰爭、心綺樓）
+    **登場**：
+      - 除《靈異傳》、《封魔錄》、《文花帖》遊戲、《妖精大戰爭》、《彈幕天邪鬼》、《秘封噩夢日記》外的所有可用自機
+      - 《封魔錄》、《幻想鄉》、《永夜抄》4面BOSS
+      - 《秋霜玉》Extra Stage關BOSS1
+      - 《非想天則》琪露諾路線、美鈴路線第三關BOSS
+      - 《文花帖DS》LEVEL Ex關BOSS之一
+      - 《妖精大戰爭》Extra Stage關BOSS
+      - 《彈幕天邪鬼》七日目BOSS
+      - 《深秘錄》、《憑依華》、《剛欲異聞》敵機
+      - 《秘封噩夢日記》星期三BOSS、噩夢週六BOSS
+      - 《求聞史紀》、《香霖堂》、《紫香花》、《儚月抄》、《三月精》、《茨歌仙》、《鈴奈庵》、《智靈奇傳》、《醉蝶華》
 
 ## 《靈異傳》中首次登場
 
-  - [神玉](https://zh.wikipedia.org/wiki/東方靈異傳_～_Highly_Responsive_to_Prayers.#神玉 "wikilink")
-    第5关头目，为了阻止博丽灵梦通过其守驻的入口，又或者是测试她是否有没有资格解决。起初为一个[太极图的图案](https://zh.wikipedia.org/wiki/太极图 "wikilink")，接着变成一名身着红衣服的女性，最后变成一名端坐的戴着蓝色乌帽的男子。
-    官方资料没有其详细的设定介绍，可能其与博丽神社的过去有关联。
+  - 神玉（，SinGyoku）
+    **主題曲**：
+      - 　Positive and Negative（靈異傳）
+    **登場**：
+      - 《靈異傳》5面BOSS
 
-<!-- end list -->
+《靈異傳》5面BOSS，为了阻止博丽灵梦通过其守驻的入口，又或者是测试她是否有没有资格解决。
 
-  - [幽玄魔眼](https://zh.wikipedia.org/wiki/東方靈異傳_～_Highly_Responsive_to_Prayers.#幽玄魔眼 "wikilink")
-    魔界路线第10关头目，由五只巨大浮空的眼睛和中间虚无的人影组成。
-    基于幽玄魔眼没有官方设定以及没有和灵梦有对话记录，它可能被视为是普通、没有实际目的的头目。
+起初为一个[太极图的图案](https://zh.wikipedia.org/wiki/太极图 "wikilink")，接着变成一名身着红衣服的女性，最后变成一名端坐的戴着蓝色乌帽的男子。
 
-<!-- end list -->
+官方资料没有其详细的设定介绍，可能其与博丽神社的过去有关联。
 
-  - [伊莉斯](https://zh.wikipedia.org/wiki/東方靈異傳_～_Highly_Responsive_to_Prayers.#伊莉斯 "wikilink")
-    魔界路线第15关头目，拥有紫色的瞳孔和金色的头发，头上绑着红色的大发带。左手持有带有白色星形顶端的法杖。在白色衬衣外穿着的是带有大红丝带的蓝色背心和镶有紫色边缘的红长裙，拥有紫色的翅膀。能够变身为红眼紫蝙蝠，可能是吸血魔。
-    由于伊莉斯没有官方设定并且与灵梦没有发生过任何对话，她可能仅仅是作为敌人的一个普通头目。
+  - 幽玄魔眼（，YuugenMagan）
+    **主題曲**：
+      - 　天使傳說（靈異傳）
+    **登場**：
+      - 《靈異傳》魔界路線10面BOSS
 
-<!-- end list -->
+《靈異傳》魔界路線10面BOSS，由五只巨大浮空的眼睛和中间虚无的人影组成。
 
-  - [萨丽艾尔](https://zh.wikipedia.org/wiki/東方靈異傳_～_Highly_Responsive_to_Prayers.#萨丽艾尔 "wikilink")
-    魔界路线第20关头目，如鬼魂一般的天使，有着蓝色及膝长发以及看起来似乎是蓝色的双眼。身着带有白色长袖的简易连衣长裙，身后有三对天使之翼并手持着奇怪的法杖。
-    由于萨丽艾尔没有官方设定并且与灵梦没有发生过任何对话，她可能仅仅是作为敌人的一个普通头目。
+基于幽玄魔眼没有官方设定以及没有和灵梦有对话记录，它可能被视为是普通、没有实际目的的头目。
 
-<!-- end list -->
+  - 伊莉斯（，Elis）
+    **主題曲**：
+      - 　魔鏡（靈異傳）
+    **登場**：
+      - 《靈異傳》魔界路线15面BOSS
 
-  - [魅魔](https://zh.wikipedia.org/wiki/東方靈異傳_～_Highly_Responsive_to_Prayers.#魅魔 "wikilink")
-    地狱路线第10关头目，也是多次在[PC-98系列作品多次出现的角色](https://zh.wikipedia.org/wiki/PC-98 "wikilink")，是个环绕在博丽神社四周的恶灵。旧作反派头目之一，虽是敌人，但让人恨不起来。个性开朗，有人情味，对自己的能力非常有信心，甚至有些自负，在后作中曾试图抢夺[博丽灵梦的阴阳玉但失败告终](https://zh.wikipedia.org/wiki/博丽灵梦 "wikilink")。
-    本作为黑色眼睛，绿色长髮，戴白色帽子。身穿蓝白相间、裙边有红色与绿色装饰的裙子。身披中长碎边蓝色披风，并以红色丝带系于颈部。作为亡灵，下体拥有一条淡蓝色的尾巴而不是脚。拥有两条以上的胳膊，其中一只手中握有滴血的小刀。
+《靈異傳》魔界路线15面BOSS，拥有紫色的瞳孔和金色的头发，头上绑着红色的大发带。左手持有带有白色星形顶端的法杖。在白色衬衣外穿着的是带有大红丝带的蓝色背心和镶有紫色边缘的红长裙，拥有紫色的翅膀。能够变身为红眼紫蝙蝠，可能是吸血魔。
 
-<!-- end list -->
+由于伊莉斯没有官方设定并且与灵梦没有发生过任何对话，她可能仅仅是作为敌人的一个普通头目。
 
-  - [菊理](https://zh.wikipedia.org/wiki/東方靈異傳_～_Highly_Responsive_to_Prayers.#菊理 "wikilink")
-    地狱路线第15关头目，一个被苍白紫色灵气围绕着的大铜玉，表面上有个长发的年轻女孩，闭着眼睛，脸上有表达着内容的样子，以及一个闪闪发亮的蓝色玉石在她胸前的两个手之间。
-    基于菊理没有官方设定并且没有与灵梦有对话记录，她可能被视为是普通，没有实际目的的头目。
+  - 萨丽艾尔（，Sariel）
+    **主題曲**：
+      - 　來吧，直到倒地死去的那一刻（靈異傳）
 
-<!-- end list -->
+      - 　同歸於盡（靈異傳）
+    **登場**：
+      - 《靈異傳》魔界路线20面（最終）BOSS
 
-  - [矜羯罗](https://zh.wikipedia.org/wiki/東方靈異傳_～_Highly_Responsive_to_Prayers.#矜羯罗 "wikilink")
-    地狱路线第20关头目，红眼黑发，在头上有绑着红色缎带并拿着一把大剑。穿着有白色外边的红色法衣和灰色袖子。下半身呈雾状，没有实体。在她头上看似有尖锐的东西嵌入她的额头。
-    由于矜羯罗没有设定以及没和灵梦有交谈记录，她可能被认为是一个普通、没有什么目的的敌方头目。
+《靈異傳》魔界路线第20面BOSS，如鬼魂一般的天使，有着蓝色及膝长发以及看起来似乎是蓝色的双眼。身着带有白色长袖的简易连衣长裙，身后有三对天使之翼并手持着奇怪的法杖。
+
+由于萨丽艾尔没有官方设定并且与灵梦没有发生过任何对话，她可能仅仅是作为敌人的一个普通头目。
+
+  - 魅魔（，Mima）
+    **種族**：惡靈
+    **主題曲**：
+      - 　天使傳說（靈異傳）
+
+      - 　Complete Darkness（封魔錄）
+
+      - 　Reincarnation（夢時空）
+    **登場**：
+      - 《靈異傳》地獄路线10面BOSS
+      - 《封魔錄》5面BOSS
+      - 《夢時空》自機、敵機
+      - 《怪綺談》自機
+
+环绕在博丽神社四周的恶灵。旧作反派头目之一，虽是敌人，但让人恨不起来。个性开朗，有人情味，对自己的能力非常有信心，甚至有些自负，在《封魔錄》中因不明原因想向全人類復仇並曾試圖搶奪博麗靈夢的陰陽玉但失敗告終。《夢時空》中其不承認自己已死，並試圖將自己解釋為「一種精神而已」。
+
+魔理沙曾叫其為「（魅魔大人）」而且非常仰慕其，所以懷疑其為魔理沙的師傅。
+
+在《靈異傳》中为黑色眼睛，绿色长髮，戴白色帽子。身穿蓝白相间、裙边有红色与绿色装饰的裙子。身披中长碎边蓝色披风，并以红色丝带系于颈部。作为亡灵，下身拥有一条淡蓝色的尾巴而不是脚。拥有两条以上的胳膊，其中一只手中握有滴血的小刀。
+
+  - 菊理（，Kikuri）
+    **主題曲**：
+      - 　魔鏡（靈異傳）
+    **登場**：
+      - 《靈異傳》地獄路线15面BOSS
+
+《靈異傳》地狱路线15面BOSS，一个被紫色灵气围绕着的大铜玉，表面上刻有一個长发的年轻女孩，闭着眼睛，脸上有表达着内容的样子，以及一个闪闪发亮的蓝色玉石在她胸前的两个手之间。
+
+基于菊理没有官方设定并且没有与灵梦有对话记录，她可能被视为是普通，没有实际目的的头目。
+
+  - 矜羯罗（，Konngara）
+    **主題曲**：
+      - 　星幽劍士（靈異傳）
+    **登場**：
+      - 《靈異傳》地獄路线20面（最終）BOSS
+
+《靈異傳》地狱路线20面BOSS，红眼黑发，在头上有绑着红色缎带并拿着一把大剑。穿着有白色外边的红色法衣和灰色袖子。下半身呈雾状，没有实体。由於在她头上看似有尖锐的像角一樣的东西嵌入她的额头，再加上她右手拿著酒杯，因此通常被認作為[鬼](https://zh.wikipedia.org/wiki/鬼_\(日本\) "wikilink")。
+
+由于矜羯罗没有设定以及没和灵梦有交谈记录，她可能被认为是一个普通、没有什么目的的敌方头目。
 
 ## 《封魔錄》中首次登場
 
-  - [玄爷](https://zh.wikipedia.org/wiki/東方封魔錄_～_the_Story_of_Eastern_Wonderland.#玄爺 "wikilink")
-    被博丽灵梦收养的坐骑，长期生活在各种各样的神力之中的龟，拥有在空中自由飞翔的能力。博丽灵梦称呼其为“老爷爷”，而其称灵梦为“主人”。
+  - 玄爷（，Genjii）
+    **種族**：龜
+    **能力**：操縱飛行仙，自由在空中飛翔的能力（封魔錄）
+    **登場**：
+      - 《封魔錄》、《夢時空》、《幻想鄉》、《怪綺談》中伴隨靈夢行動
 
-<!-- end list -->
+在長時間活著的過程中，掌握了各種神力的烏龜。在靈夢的修行時被抓了，從而被任意驅使。博丽灵梦称呼其为“老爷爷”，而其称灵梦为“主人”。
+
+據ZUN所言現在生活在博麗神社旁的水池子裡。
 
   - [里香](https://zh.wikipedia.org/wiki/東方封魔錄_～_the_Story_of_Eastern_Wonderland.#里香 "wikilink")
     天才的坦克技师，在第一关头目以驾驶「ふらわ〜戦車」和Extra关卡头目以驾驶「飛行型戦車、イビルアイΣ」出现。
@@ -731,7 +860,7 @@
 
 ## 《天空璋》中首次登場
 
-  - [爱塔妮缇·拉尔瓦](https://zh.wikipedia.org/wiki/東方天空璋_～_Hidden_Star_in_Four_Seasons.#爱塔妮缇·拉尔瓦 "wikilink")（，Etarnity Larva）
+  - [艾塔妮缇·菈兒芭](https://zh.wikipedia.org/wiki/東方天空璋_～_Hidden_Star_in_Four_Seasons.#爱塔妮缇·拉尔瓦 "wikilink")（，Etarnity Larva）
     第一關頭目兼中頭目，接近神的蝴蝶妖精，因爲四季異變而獲得力量。
     種族：[妖精](https://zh.wikipedia.org/wiki/妖精 "wikilink")
 
@@ -799,7 +928,7 @@
 
   - [杖刀偶磨弓](https://zh.wikipedia.org/wiki/東方鬼形獸_～_Wily_Beast_and_Weakest_Creature.#杖刀偶_磨弓 "wikilink")（，Joutougu Mayumi）
     第五關頭目兼中頭目，第六關中頭目，埴輪兵長。
-    種族：埴輪
+    種族：[埴輪](https://zh.wikipedia.org/wiki/埴輪 "wikilink")
 
 <!-- end list -->
 
@@ -880,11 +1009,20 @@
     種族：不明（据推测可能是鬼）
     职业：仙人
 
+<!-- end list -->
+
+  - [茨木華扇之臂](https://zh.wikipedia.org/wiki/东方茨歌仙_～_Wild_and_Horned_Hermit.#茨木華扇之臂 "wikilink")（，Ibaraki Douji's Arm）
+    茨木童子之臂，由茨木华扇的右臂所化。
+
 ## 《鈴奈庵》中首次登場
 
   - [本居小铃](https://zh.wikipedia.org/wiki/本居小铃 "wikilink")（，Motoori Kosuzu）
     居住在人间之里租书屋铃奈庵的主人之女， 東方鈴奈庵的主角，拥有读懂他人无法理解的书籍和可能利用其上面力量的能力。
     種族：人類
+
+## 《酔蝶華》中首次登場
+
+  - [奥野田美宵](https://zh.wikipedia.org/wiki/奥野田美宵 "wikilink")（，Okunoda Miyoi）
 
 ## 音乐集中登場
 

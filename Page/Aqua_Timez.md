@@ -2,47 +2,67 @@
 
 ## 成員介紹
 
-**太志（）**
+**太志（）** 主唱
 
   -
-    1980年5月10日出生（38歲），男性，出身於[岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")[岐阜市](../Page/岐阜市.md "wikilink")。
-    擔任樂團主唱，負責大部分作詞與作曲。
 
-**大介（）**
+    出生，男性，出身於[岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")[岐阜市](../Page/岐阜市.md "wikilink")。
 
-  -
-    本名「長谷川大介」。
-    1977年4月12日出生（41歲），男性，出身於[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[富岡町](https://zh.wikipedia.org/wiki/富岡町 "wikilink")。
-    擔任樂團吉他手，負責吉他伴奏與Programming。
+    負責大部分作詞與作曲。
 
-**OKP-STAR（）**
+**OKP-STAR（）** 團長、貝斯手及和聲
 
   -
     本名「岡田知久」。
-    1977年3月25日出生（41歲），男性，出身於[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[磐城市](../Page/磐城市.md "wikilink")。
-    擔任樂團貝斯手，負責低音與和音伴奏。
+    出生，男性，出身於[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[磐城市](../Page/磐城市.md "wikilink")。
+    負責低音與和音伴奏。
 
-**mayuko（）**
+**大介（）** 吉他手、programming及和聲
 
   -
-    1977年9月18日出生（41歲），女性，出身於[富山縣](../Page/富山縣.md "wikilink")[富山市](../Page/富山市.md "wikilink")。
-    擔任樂團鍵盤手。
+    本名「長谷川大介」。
+    出生，男性，出身於[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[富岡町](https://zh.wikipedia.org/wiki/富岡町 "wikilink")。
 
-**TASSHI（）**
+**mayuko（）** 鍵盤手、鋼琴彈奏及和聲
+
+  -
+
+    出生，女性，出身於[富山縣](../Page/富山縣.md "wikilink")[富山市](../Page/富山市.md "wikilink")。
+
+**TASSHI（）** 鼓手
 
   -
     本名「田島智之」。
-    1978年8月21日出生（40歲），男性，出身於[高知縣](https://zh.wikipedia.org/wiki/高知縣 "wikilink")[須崎市](../Page/須崎市.md "wikilink")。
-    擔任樂團鼓手。
+    出生，男性，出身於[高知縣](https://zh.wikipedia.org/wiki/高知縣 "wikilink")[須崎市](../Page/須崎市.md "wikilink")。
     在退出樂團後，OKP-STAR去電邀請TASSHI加入樂團。
+
+### 支援成員
+
+**EBIS（）** 和聲
+
+  -
+    本名「戎三穂」（）。
+    出生，出身於[兵庫県](https://zh.wikipedia.org/wiki/兵庫県 "wikilink")[神戸市](https://zh.wikipedia.org/wiki/神戸市 "wikilink")。
+    與樂團參與全國現場巡迴演出，參與作品「讓你感動的小小情歌」、「幻影的日子」、「Shiori」、「No rain,No rainbow」、「B with U」等等。
+
+**藤田真由美（）** 和聲
+
+  -
+    喜歡被稱為「」。
+    與樂團參與全國巡迴演唱，「evergreen tour 2008」、「Music 4 Music tour 2010」及夏季音樂會。
+
+**** 鍵盤手
+
+  -
+    喜歡被稱為「」。
+    與樂團參與全國巡迴演唱，「Shoes and Stargazing Tour 2014」、「sing along SINGLES tour 2015」。
 
 ### 退出成員
 
-****
+**** 鼓手
 
   -
     2月21日出生，男性，出身於[三重県](https://zh.wikipedia.org/wiki/三重県 "wikilink")[熊野市](https://zh.wikipedia.org/wiki/熊野市 "wikilink")。
-    擔任樂團鼓手。
     於發行迷你專輯『（七彩的塗鴉）』後退出樂團。
 
 ## 樂團歷程

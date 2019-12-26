@@ -55,7 +55,5 @@
 [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:傑尼斯事務所限定團體](https://zh.wikipedia.org/wiki/Category:傑尼斯事務所限定團體 "wikilink") [Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink")
 
 1.  [堂本剛、國分太一　合組新團體「TORAJI·HAIJI」](http://www.tvbs.com.tw/news/news_list.asp?no=alisa20050127213236)
-
 2.  [堂本剛 國分太一成為兄弟? TORAJI．HAIJI扭腰擺臀超級HIGH](http://www.avex.com.tw/3rd/news_detail.asp?id=348&cateid=2&main=3)
-
 3.

@@ -1,12 +1,12 @@
-**BY2**()是[新加坡](../Page/新加坡.md "wikilink")籍[華语](https://zh.wikipedia.org/wiki/華语 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")。成員為[雙胞胎](../Page/雙胞胎.md "wikilink")的姐姐**孫涵**（Miko）和妹妹**孫雨**（Yumi）\[1\]。兩個人名字組合起來便是Yumiko，有「You and Me（你和我）扣在一起」的意思。
+**By2**（）是[新加坡](../Page/新加坡.md "wikilink")籍[華语](https://zh.wikipedia.org/wiki/華语 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")。成員為[雙胞胎](../Page/雙胞胎.md "wikilink")的姐姐**孫涵**（Miko）和妹妹**孫雨**（Yumi）\[1\]。兩個人名字組合起來便是Yumiko，有「You and Me（你和我）扣在一起」的意思。
 
-團名「BY2」中的「**BY**」指的是她們的姓氏[白的諧音](../Page/白姓.md "wikilink")、而「**2**」解析是因為兩個人所以為Two（2）。
+團名By2中的**By**指的是她們的姓氏[白的諧音](../Page/白姓.md "wikilink")、而「**2**」解析是因為兩個人所以為Two（2）。
 
-2019年1月8日，宣布與簽約11年的老東家[海蝶音樂](../Page/海蝶音樂.md "wikilink")約滿不續約，往後所有演藝活動將由BY2工作室處理策劃。
+2019年1月8日，宣布與簽約11年的老東家[海蝶音樂](../Page/海蝶音樂.md "wikilink")約滿不續約，往後所有演藝活動將由By2工作室處理策劃。
 
 ## 生平
 
-[20090418-By2簽唱會-021.jpg](https://zh.wikipedia.org/wiki/File:20090418-By2簽唱會-021.jpg "fig:20090418-By2簽唱會-021.jpg") BY2姊妹自小接受體操和芭蕾舞訓練。2006年報考[海螺森林](https://zh.wikipedia.org/wiki/海螺森林 "wikilink")「第四屆非常歌手訓練班」，因父親病危和家中經濟上的沉重負擔，讓她們更堅定著要成為一位成功的歌手。2007年4月父親過世，讓姊妹兩人一度想中斷歌手訓練班的課程。
+[20090418-By2簽唱會-021.jpg](https://zh.wikipedia.org/wiki/File:20090418-By2簽唱會-021.jpg "fig:20090418-By2簽唱會-021.jpg") By2姊妹自小接受體操和芭蕾舞訓練。2006年報考[海螺森林](https://zh.wikipedia.org/wiki/海螺森林 "wikilink")「第四屆非常歌手訓練班」，因父親病危和家中經濟上的沉重負擔，讓她們更堅定著要成為一位成功的歌手。2007年4月父親過世，讓姊妹兩人一度想中斷歌手訓練班的課程。
 
 2007年6月參加了[馬來西亞舉辦的](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")「臥虎藏龍選秀賽」，從2500人中脫穎而出，入選14強進行PK賽，最後獲得第2名的榮耀，也為自己贏得第一份唱片合約，與[海蝶音樂](../Page/海蝶音樂.md "wikilink")簽了唱片合約\[2\]，并于同年迁居[臺灣](../Page/臺灣.md "wikilink")\[3\]。
 
@@ -20,13 +20,13 @@
 | 2010年4月9日   | 發行第三張專輯《[成人禮](https://zh.wikipedia.org/wiki/成人禮_\(By2專輯\) "wikilink")》                              |
 | 2010年6月5日   | 舉辦第一場售票演唱會《湊熱鬧MINI CONCERT 短褲Tshirt趴》\[4\]                                                          |
 | 2011年10月12日 | 發行第四張專輯《[90'鬧Now](../Page/90'鬧Now.md "wikilink")》                                                   |
-| 2011年11月1日  | 發行第1本圖文書《一樣愛著你！BY2の愛心日記》\[5\]                                                                       |
+| 2011年11月1日  | 發行第1本圖文書《一樣愛著你！By2の愛心日記》\[5\]                                                                       |
 | 2012年8月3日   | 發行首張寫真EP《[2020愛你愛妳](../Page/2020愛你愛妳.md "wikilink")》                                                |
 | 2012年8月6日   | 擔任[MTV台](../Page/音樂電視網.md "wikilink")《[時尚小魔女](../Page/時尚小魔女.md "wikilink")》主持人                      |
 | 2012年11月10日 | 舉辦第二場售票演唱會《2020觸動舞會MINI CONCERT》\[6\]                                                               |
-| 2012年11月24日 | 和[汪蘇瀧](../Page/汪蘇瀧.md "wikilink")舉辦第3場售票演唱會《BY2&汪蘇瀧武漢音樂會》                                           |
-| 2013年5月27日  | 推出首部[微電影](../Page/微電影.md "wikilink")《[三里屯](https://zh.wikipedia.org/wiki/BY2#電視作品 "wikilink")》\[7\] |
-| 2012年12月22日 | 和汪蘇瀧舉辦第4場售票演唱會《BY2&汪蘇瀧廣州音樂會》                                                                        |
+| 2012年11月24日 | 和[汪蘇瀧](../Page/汪蘇瀧.md "wikilink")舉辦第3場售票演唱會《By2&汪蘇瀧武漢音樂會》                                           |
+| 2013年5月27日  | 推出首部[微電影](../Page/微電影.md "wikilink")《[三里屯](https://zh.wikipedia.org/wiki/By2#電視作品 "wikilink")》\[7\] |
+| 2012年12月22日 | 和汪蘇瀧舉辦第4場售票演唱會《By2&汪蘇瀧廣州音樂會》                                                                        |
 | 2013年9月1日   | 於九月號《[男人幫國際中文版](https://zh.wikipedia.org/wiki/男人幫_\(雜誌\) "wikilink")》擔任封面人物                         |
 | 2013年9月18日  | 發行第五張專輯《[MY.遊樂園](../Page/MY.遊樂園.md "wikilink")》                                                     |
 | 2015年8月7日   | 發行第六張專輯《[Cat and Mouse](../Page/Cat_and_Mouse.md "wikilink")》                                       |
@@ -386,6 +386,20 @@
 <td style="text-align: left;"><p>Miko、Yumi</p></td>
 <td style="text-align: left;"></td>
 </tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>2019</p></td>
+<td style="text-align: left;"><ul>
+<li>絕了</li>
+</ul></td>
+<td style="text-align: left;"><p>Miko、Yumi</p></td>
+<td style="text-align: left;"></td>
+</tr>
 </tbody>
 </table>
 
@@ -590,13 +604,38 @@
 <li>有點甜</li>
 <li>藏不住</li>
 <li>真愛無敵</li>
+<li>太難搞</li>
+<li>一樣愛著你</li>
+<li>有沒有</li>
 </ul></td>
 <td style="text-align: left;"><p>《<a href="../Page/借用一下你的愛.md" title="wikilink">借用一下你的愛</a>》<br />
 《<a href="../Page/美味的想念.md" title="wikilink">美味的想念</a>》<br />
-《一克拉的夢想》</p></td>
+《<a href="https://zh.wikipedia.org/wiki/一克拉夢想" title="wikilink">一克拉夢想</a>》<br />
+《<a href="https://zh.wikipedia.org/wiki/一克拉夢想" title="wikilink">一克拉夢想</a>》<br />
+《<a href="https://zh.wikipedia.org/wiki/一克拉夢想" title="wikilink">一克拉夢想</a>》<br />
+《<a href="https://zh.wikipedia.org/wiki/一克拉夢想" title="wikilink">一克拉夢想</a>》</p></td>
 <td style="text-align: left;"><p>插曲<br />
 插曲<br />
-片頭曲</p></td>
+片頭曲<br />
+插曲<br />
+插曲<br />
+插曲</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>2014</p></td>
+<td style="text-align: left;"><ul>
+<li>藏不住</li>
+</ul></td>
+<td style="text-align: left;"><p>《<a href="../Page/22K夢想高飛.md" title="wikilink">22K夢想高飛</a>》<br />
+</p></td>
+<td style="text-align: left;"><p>插曲<br />
+</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"></td>
@@ -643,6 +682,22 @@
 片頭曲<br />
 片頭曲<br />
 插曲</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>2019</p></td>
+<td style="text-align: left;"><ul>
+<li>Underneath The Stars</li>
+</ul></td>
+<td style="text-align: left;"><p>《沒有秘密的你》<br />
+</p></td>
+<td style="text-align: left;"><p>插曲<br />
+</p></td>
 </tr>
 </tbody>
 </table>
@@ -710,7 +765,7 @@
   - 2008年5月1日《娛樂百分百》
       - 戴佩妮歌唱大賽
   - 2008年5月15日《模範棒棒堂》
-      - 夏日聯誼藝起來(上集)》
+      - 夏日聯誼藝起來（上）
   - 2008年6月7日《我猜我猜我猜猜猜》
       - 天生一對！！完美雙胞胎
   - 2008年8月28日《康熙來了》
@@ -799,7 +854,7 @@
   - 2011年12月2日《九天星訪》
   - 2011年12月6日《KKBOX 音樂互聯》
   - 2011年12月12日《娛樂百分百》
-      - BY2 前進校園特別企劃
+      - By2前進校園特別企劃
 
 **2012年**
 
@@ -866,17 +921,17 @@
   - 2013年11月15日《娛樂百分百》
       - 百分百GOGOGO
   - 2013年11月22日《娛樂百分百》
-      - BY2好友音樂會
+      - By2好友音樂會
   - 2013年11月25日《SS小燕之夜》
   - 2013年11月30日《娛樂通通有》
-      - BY2的遊樂園
+      - By2的遊樂園
 
 **2014年**
 
   - 2014年1月30日《娛樂百分百》
       - 團團圓圓迎新春
   - 2014年1月31日《旺馬奔騰賀新年》
-      - BY2「短劇－年貨大街」
+      - By2「短劇－年貨大街」
   - 2014年1月31日《一馬當先新春闖通關 》
 
 **2015年**
@@ -963,8 +1018,8 @@ Yumi</p></td>
 
 ### 擔任嘉賓
 
-  - 2010年10月7日《BY2 參與 藝人[林宇中](../Page/林宇中.md "wikilink")演唱會
-  - 2010年10月10日《BY2 參與 藝人林宇中演唱會
+  - 2010年10月7日：By2 參與 藝人[林宇中](../Page/林宇中.md "wikilink")演唱會
+  - 2010年10月10日：By2 參與 藝人林宇中演唱會
 
 
 
@@ -972,10 +1027,10 @@ Yumi</p></td>
 
 ### 售票演唱會
 
-  - 2010年6月5日《湊熱鬧MINI CONCERT 短褲Tshirt趴﹝華山藝文中心LEGACY﹞【觀賞人數近千人】
-  - 2012年11月10日《2020觸動舞會MINI CONCERT ﹝ATT文創立方﹞
-  - 2012年11月24日《BY2&汪蘇瀧武漢音樂會
-  - 2012年12月22日《BY2&汪蘇瀧廣州音樂會
+  - 2010年6月5日：湊熱鬧MINI CONCERT 短褲Tshirt趴﹝華山藝文中心LEGACY﹞【觀賞人數近千人】
+  - 2012年11月10日：2020觸動舞會MINI CONCERT ﹝ATT文創立方﹞
+  - 2012年11月24日：By2&汪蘇瀧武漢音樂會
+  - 2012年12月22日：By2&汪蘇瀧廣州音樂會
 
 ### 大型群星演唱會
 
@@ -998,13 +1053,13 @@ Yumi</p></td>
 
 **2013年**
 
-  - 2013年12月31日:嘉義市2014幸福跨年晚會
-  - 2013年12月31日:彰化市2014馬到成功跨年晚會
+  - 2013年12月31日：嘉義市2014幸福跨年晚會
+  - 2013年12月31日：彰化市2014馬到成功跨年晚會
 
 **2014年**
 
-  - 2014年7月5日《夏戀嘉年華演唱會 花蓮六期重劃區 BY2
-  - 2014年10月10日《台北春浪
+  - 2014年7月5日：夏戀嘉年華演唱會 花蓮六期重劃區 By2
+  - 2014年10月10日：台北春浪
 
 **2015年**
 
@@ -1051,7 +1106,7 @@ Yumi</p></td>
   - 5月17日 清雲科技大學
   - 5月20日 德霖技術學院
   - 6月1日 南京郵電大學
-  - 6月21日 南洋理工學院(NanYang Polytechnic)
+  - 6月21日 南洋理工學院（NanYang Polytechnic）
 
 **2011年**
 
@@ -1084,7 +1139,7 @@ Yumi</p></td>
   - Yahoo\!奇摩兒童網安計畫
   - 網玩西遊天下online
   - 運動品牌喜得龍
-  - MIX-BOX(美爆)護膚品
+  - MIX-BOX（美爆）護膚品
   - 熊仔糖果
   - sugus瑞士糖
 
@@ -1205,22 +1260,24 @@ Yumi</p></td>
 
 ## 外部链接
 
-  - [BY2官方YouTube](https://www.youtube.com/channel/UCRSON_IYzPguof0oLB5YMWw/about)
+  - [By2官方YouTube](https://www.youtube.com/channel/UCRSON_IYzPguof0oLB5YMWw/about)
 
-  - [BY2的官方Youtube播放清單](https://www.youtube.com/playlist?list=PLB27E983B2D5BC4C4)
+  - [By2的官方Youtube播放清單](https://www.youtube.com/playlist?list=PLB27E983B2D5BC4C4)
 
-  - [BY2官方抖音短视频](https://v.douyin.com/uMM9fa/)
+  - [BY2官方网易云音乐主页](https://music.163.com/#/user/home?id=1808733931)
+
+  - [By2官方抖音短视频](https://v.douyin.com/uMM9fa/)
 
   -
   -
   -
   -
-[Category:新加坡双胞胎](https://zh.wikipedia.org/wiki/Category:新加坡双胞胎 "wikilink") [Category:新加坡女子演唱團體](https://zh.wikipedia.org/wiki/Category:新加坡女子演唱團體 "wikilink") [Category:華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:華語流行音樂歌手 "wikilink") [Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink") [Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink") [Category:二人組](https://zh.wikipedia.org/wiki/Category:二人組 "wikilink") [Category:女子雙人演唱團體](https://zh.wikipedia.org/wiki/Category:女子雙人演唱團體 "wikilink") [Category:新加坡华人](https://zh.wikipedia.org/wiki/Category:新加坡华人 "wikilink") [Category:孙姓](https://zh.wikipedia.org/wiki/Category:孙姓 "wikilink") [Category:BY2](https://zh.wikipedia.org/wiki/Category:BY2 "wikilink")
+[Category:新加坡双胞胎](https://zh.wikipedia.org/wiki/Category:新加坡双胞胎 "wikilink") [Category:新加坡女子演唱團體](https://zh.wikipedia.org/wiki/Category:新加坡女子演唱團體 "wikilink") [Category:華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:華語流行音樂歌手 "wikilink") [Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink") [Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink") [Category:二人組](https://zh.wikipedia.org/wiki/Category:二人組 "wikilink") [Category:女子雙人演唱團體](https://zh.wikipedia.org/wiki/Category:女子雙人演唱團體 "wikilink") [Category:新加坡华人](https://zh.wikipedia.org/wiki/Category:新加坡华人 "wikilink") [Category:孙姓](https://zh.wikipedia.org/wiki/Category:孙姓 "wikilink") [Category:By2](https://zh.wikipedia.org/wiki/Category:By2 "wikilink")
 
 1.
 2.
 3.  Lee, Jocelyn (27 July 2009). [BY2 lonely in Taiwan](http://www.straitstimes.com/Breaking%2BNews/Lifestyle/Story/STIStory_408558.html), [海峡时报](https://zh.wikipedia.org/wiki/海峡时报 "wikilink"). Retrieved on 18 August 2009.
 4.  [BY2 湊熱鬧MINI CONCERT 短褲Tshirt趴](http://BY2girl.pixnet.net/blog/post/26692121-BY2-%E6%B9%8A%E7%86%B1%E9%AC%A7mini-concert-%E7%9F%AD%E8%A4%B2tshirt%E8%B6%B4)
 5.  [By2自曝最愛金賢重、李敏鎬，期待與韓庚合作](http://music.yule.sohu.com/20111130/n327417297.shtml)
-6.  [BY2 BY2 『2020觸動舞會』MINI CONCERT 11月10日台北首場舉辦](http://BY2girl.pixnet.net/blog/post/30267411-BY2-BY2-%E3%80%8E2020%E8%A7%B8%E5%8B%95%E8%88%9E%E6%9C%83%E3%80%8Fmini-concert-11%E6%9C%8810%E6%97%A5%E5%8F%B0%E5%8C%97)
+6.  [By2 By2 『2020觸動舞會』MINI CONCERT 11月10日台北首場舉辦](http://BY2girl.pixnet.net/blog/post/30267411-BY2-BY2-%E3%80%8E2020%E8%A7%B8%E5%8B%95%E8%88%9E%E6%9C%83%E3%80%8Fmini-concert-11%E6%9C%8810%E6%97%A5%E5%8F%B0%E5%8C%97)
 7.  [By2微電影首秀《三里屯》熱播 "三里屯體"走红](http://sg.xinhuanet.com/2013-05/28/c_124776645.htm)

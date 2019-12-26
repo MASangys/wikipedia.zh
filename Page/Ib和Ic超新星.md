@@ -27,19 +27,12 @@ Ia超新星的光度曲線可以用在宇宙尺度上的距離測量，也就是
 [Category:超新星](https://zh.wikipedia.org/wiki/Category:超新星 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.

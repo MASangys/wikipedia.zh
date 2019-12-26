@@ -41,7 +41,7 @@
 
 ## 交通
 
-  - [C路線](https://zh.wikipedia.org/wiki/C路線 "wikilink")，在世界各地的均有以C為名的鐵路，詳情另見分類。
+  - [C線](https://zh.wikipedia.org/wiki/C線 "wikilink")，在世界各地的均有以C為名的鐵路，詳見該消歧義頁。
   - NZR C class (1930)，只有英文版條目，是紐西蘭的一款蒸氣火車。
   - NZR C class (1873)，同上。
   - C，又名[0-6-0分類](https://zh.wikipedia.org/wiki/0-6-0 "wikilink")，是一種三軸心的蒸氣火車。

@@ -47,10 +47,7 @@ ICT-VT选用了4节编组方案，未编入餐车；此外德铁以与IC-T外观
 
 1.
 2.
-
 3.
 4.  Heinz Kurz: InterCityExpress - Die Entwicklung des Hochgeschwindigkeitsverkehrs in Deutschland, Seite 264
-
 5.  Bei Abweichungen der Wagenreihung gegenüber der ursprünglichen Zulassung respektive Auslieferung sind die nachträglich getauschten Wagen **fett** dargestellt. <small>(Stand: Dezember 2012)</small>
-
 6.

@@ -93,15 +93,9 @@
 [Category:蘇格蘭足球](https://zh.wikipedia.org/wiki/Category:蘇格蘭足球 "wikilink") [Category:英国足球奖项](https://zh.wikipedia.org/wiki/Category:英国足球奖项 "wikilink") [Category:2001年建立的獎項](https://zh.wikipedia.org/wiki/Category:2001年建立的獎項 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  [Ace Fletcher doubles up young player accolade](http://edinburghnews.scotsman.com/sport/Ace-Fletcher-doubles-up-young.5274265.jp), *[Edinburgh Evening News](https://zh.wikipedia.org/wiki/Edinburgh_Evening_News "wikilink")*, 16 May 2009.
-
 7.

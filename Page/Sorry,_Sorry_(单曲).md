@@ -54,46 +54,26 @@ MV开始时一个女人通过钥匙孔偷看。然后她撕开裙子露出腿。
 [Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:2009年单曲](https://zh.wikipedia.org/wiki/Category:2009年单曲 "wikilink") [Category:Super_Junior歌曲](https://zh.wikipedia.org/wiki/Category:Super_Junior歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15.  [1](http://music.mnet.com/MChart/MnetChartM.asp/) Retrieved March 17, 2009.
-
 16.  [2](http://wizard2.sbs.co.kr/resource/template/contents/tpl_iframetype.jsp?vProgId=1000118&vVodId=V0000010182&vMenuId=1004345) Retrieved April 5, 2009.
-
 17.  [3](http://www.chartkorea.net/chart.php?genre=1&term=W) Retrieved April 5, 2009.
-
 18.   Retrieved August 8, 2009.
-
 19.
 20.  [4](http://music.bugs.co.kr/chart/) Retrieved March 17, 2009.
-
 21.  [5](http://www.dosirak.com/dosirak_main.asp?SSO=f)  Retrieved March 17, 2009.
-
 22.  [6](http://www.ohdio.com/music/top100/chart_top100.dio) Retrieved March 17, 2009.
-
 23.  [7](http://www.melon.com) Retrieved March 17, 2009.
-
 24.  [8](http://www.musicon.co.kr/musicon/main.MusicOnMain.web) Retrieved April 5, 2009.

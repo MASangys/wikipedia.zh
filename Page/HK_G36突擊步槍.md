@@ -59,6 +59,8 @@ G36在[2008年南奧塞梯衝突中出現過](https://zh.wikipedia.org/wiki/2008
   -   - [澳大利亞聯邦警察](https://zh.wikipedia.org/wiki/澳大利亞聯邦警察 "wikilink") \[15\]\[16\]
 
   -
+  -   - 國家安全局
+
   -   - 特別支援小隊
 
   -   - \[17\]
@@ -222,13 +224,12 @@ G36在[2008年南奧塞梯衝突中出現過](https://zh.wikipedia.org/wiki/2008
 
       - \[91\]（G36CSF）
 
-      - [倫敦警察廳](../Page/倫敦警察廳.md "wikilink")[專業槍械司令部](../Page/專業槍械司令部.md "wikilink")（G36CSF）
+      - [倫敦都市警部](../Page/倫敦警察廳.md "wikilink")[特種槍械司令部](https://zh.wikipedia.org/wiki/特種槍械司令部 "wikilink")（G36CSF）
 
       - 多個警察部門（G36K、G36C）
 
   -   - [美國國會警察](https://zh.wikipedia.org/wiki/美國國會警察 "wikilink") \[92\]
       - 多個執法機構
-      - [美國特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")
 
   -   - （G36、G36K、G36C）
 
@@ -343,27 +344,27 @@ G36亦是[德國未來士兵系統](https://zh.wikipedia.org/wiki/德國未來�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/HK_SL8半自動步槍.md" title="wikilink">SL8</a></strong>半自動民用型</p></td>
+<td><p><strong><a href="../Page/HK_SL8半自動步槍.md" title="wikilink">SL8</a></strong>，半自動民用型</p></td>
 <td><p>980–1030<br />
 （固定槍托）</p></td>
 <td><p>510</p></td>
 <td><p>4.2/4.4</p></td>
 <td><p><a href="../Page/機械瞄具.md" title="wikilink">機械瞄具</a><br />
 （可加裝瞄準鏡）</p></td>
-<td><p>標準（10發）</p></td>
+<td><p>單排彈匣（10發）</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/HK_SL9SD消聲狙擊步槍.md" title="wikilink">SL9SD</a></strong>消聲狙擊型</p></td>
+<td><p><strong><a href="../Page/HK_SL9SD消聲狙擊步槍.md" title="wikilink">SL9SD</a></strong>，消聲狙擊型</p></td>
 <td><p>1150<br />
 （固定槍托）</p></td>
 <td><p>510</p></td>
 <td><p>4.5/4.6（連消聲器）</p></td>
 <td><p><a href="../Page/機械瞄具.md" title="wikilink">機械瞄具</a><br />
 （可加裝瞄準鏡）</p></td>
-<td></td>
+<td><p>標準（10發）</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>HK243 S SAR</strong></p></td>
+<td><p><strong>HK243 S SAR</strong>，半自動民用型</p></td>
 <td><p>912/667</p></td>
 <td><p>421</p></td>
 <td><p>3.21/3.28</p></td>
@@ -372,13 +373,28 @@ G36亦是[德國未來士兵系統](https://zh.wikipedia.org/wiki/德國未來�
 <td></td>
 </tr>
 <tr class="even">
+<td><p><strong>HK233</strong>，G36上機匣改進型</p></td>
+<td><p>975/755</p></td>
+<td><p>480</p></td>
+<td><p>3.6（空槍）</p></td>
+<td><p>導軌、後備<a href="../Page/機械瞄具.md" title="wikilink">機械瞄具</a></p></td>
+<td><p>標準（30發）</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>HK233K</strong>，G36上機匣改進型</p></td>
+<td><p>813/593</p></td>
+<td><p>318</p></td>
+<td><p>3.88（空槍）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong>HK237</strong>，.300口徑版</p></td>
 <td><p>760/710</p></td>
 <td><p>228</p></td>
 <td><p>3.3（空槍）</p></td>
-<td><p><a href="../Page/機械瞄具.md" title="wikilink">機械瞄具</a><br />
-（可加裝瞄準鏡）</p></td>
 <td><p>STANAG彈匣</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -516,6 +532,7 @@ G36系列也出現在許多電影、電視劇、電子遊戲和動畫當中，�
   - [StG-940](../Page/StG-940突擊步槍.md "wikilink")
   - [各國軍隊制式步槍列表](../Page/各國軍隊制式步槍列表.md "wikilink")
   - [HK SL8](../Page/HK_SL8半自動步槍.md "wikilink")
+  - [T36步槍](https://zh.wikipedia.org/wiki/T36步槍 "wikilink")
 
 ## 外部链接
 
@@ -523,7 +540,7 @@ G36系列也出現在許多電影、電視劇、電子遊戲和動畫當中，�
 
   - \-[G36分解圖及介紹](http://www.bimbel.de/artikel/artikel-23.html)
 
-  - \-[G36 及 FX-05對比](http://www.mexidata.info/id1289.html)
+  - \-[G36 及 FX-05對比](https://web.archive.org/web/20081204024837/http://www.mexidata.info/id1289.html)
 
   - \-[Modern Firearms-G36頁面](https://web.archive.org/web/20100902030204/http://world.guns.ru/assault/as14-e.htm)
 
@@ -534,186 +551,96 @@ G36系列也出現在許多電影、電視劇、電子遊戲和動畫當中，�
 [Category:黑克勒-科赫](https://zh.wikipedia.org/wiki/Category:黑克勒-科赫 "wikilink") [Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink") [Category:模塊化槍械](https://zh.wikipedia.org/wiki/Category:模塊化槍械 "wikilink")
 
 1.
-
 2.  <http://www.iol.co.za/news/africa/german-rifles-in-gaddafi-compound-1.1128424>
-
 3.  <http://nottsantimilitarism.wordpress.com/2011/10/24/heckler-koch-investigated-for-arms-to-gaddafi/>
-
 4.  王伟《再谈利比亚》舰载武器2012年1月
-
 5.
-
 6.
-
 7.
-
 8.  Matthias Gebauer: *[Waffe der Bundeswehr: Deutsche Soldaten schossen wegen Mangel-Munition daneben](http://www.spiegel.de/politik/deutschland/sturmgewehr-g36-mangel-munition-soll-probleme-verursacht-haben-a-954014.html).* In: *[Spiegel Online](https://zh.wikipedia.org/wiki/Spiegel_Online "wikilink").* 17. Februar 2014
-
 9.  [Standardgewehr der Bundeswehr Von der Leyen räumt „Präzisionsproblem“ beim G36-Gewehr ein](http://www.sueddeutsche.de/politik/standardgewehr-der-bundeswehr-von-der-leyen-raeumt-praezisionsproblem-beim-g-gewehr-ein-1.2416922) sueddeutsche.de vom 30. März 2015
-
 10.
-
 11.
-
 12. FAZ vom 22.04.2015 [1](http://www.faz.net/aktuell/politik/verteidigungsministerin-leyen-sturmgewehr-g36-hat-in-der-bundeswehr-keine-zukunft-13552681.html).
-
 13. <http://www.spiegel.de/politik/deutschland/g36-bundesregierung-verliert-prozess-gegen-heckler-koch-a-1110631.html>
-
 14.  DW {{\!}} 14.10.2018|url=[https://www.dw.com/en/germanys-new-assault-rifles-fail-bundeswehr-tests/a-45879052|work=DW.COM|accessdate=2019-02-16|language=en-GB|first=Deutsche|last=Welle](https://www.dw.com/en/germanys-new-assault-rifles-fail-bundeswehr-tests/a-45879052%7Cwork=DW.COM%7Caccessdate=2019-02-16%7Clanguage=en-GB%7Cfirst=Deutsche%7Clast=Welle) (www.dw.com)}}
-
 15. ['G36C Firearms' sold to the Australian Federal Police by HK Systems Australia](https://www.tenders.gov.au/?event=public.cn.view&cnUUID=5167C895-9D62-5238-52616E7F121E90AE)
-
 16. [3](http://www.responseaustralia.net/issues/Issue08.pdf)
-
 17. THE JOURNAL OF THE ROYAL ANGLIAN REGIMENT: *Going Forward – The Bermuda Regiment Embraces New Challenges*, by Major Joe Carnegie, Bermuda Regiment Staff Officer. December 2012, Vol 17 No 2
-
 18.
-
 19. [Folha de São Paulo](http://www1.folha.uol.com.br/folha/galeria/imagemdodia/p_20070623_11.shtml)
-
 20. [Folha de S.Paulo](http://www1.folha.uol.com.br/folha/galeria/imagemdodia/p_20070623_11.shtml). Retrieved June 23rd, 2007
-
 21. [4](http://www.globaltvbc.com/world/Photos+Greater+Victoria+Emergency+Response+Team/3563625/story.html). Retrieved July 30th, 2011
-
 22. [China - SALW Guide](https://salw-guide.bicc.de/en/country?id=44)
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36. <http://www.politico.eu/article/paris-police-receive-assault-rifles-and-shields-terror-attacks-counter-terrorism-isil-islamic-state-isis-europe-news/>
-
 37.
-
 38.
-
 39. \[<http://www.streitkraeftebasis.de/portal/a/streitkraeftebasis/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLNwyON3Y0cgRJmsV7x5sEW-pHghimppYQMbACQwOQKExtUEqqvq9Hfm6qvrd-gH5BbmhEuaOjIgDK8ZeR/delta/base64xml/L2dJQSEvUUt3QS80SVVFLzZfMVNfM0E5Mg>\!\!?yw_contentURL=%2F01DB040000000001%2FW26A9DZN077INFODE%2Fcontent.jsp Gewehr G 36.\] Bundeswehr.
-
 40. <http://www.n-tv.de/politik/Heckler-Koch-will-BKA-einschalten-article14877066.html>
-
 41. Weisswange, Jan-Phillip (2009). ASSIK. Der Arbeitsstab Schutzaufgaben der Bundespolizei. In: Strategie & Technik. Jg. 52, Nr. 5, Mai 2009. ISSN 1860-5311, S. 73–74.
-
 42.
-
 43. "Með Glock 17 og MP5". *Fréttatíminn*. 23. 09. 2011. p. 12-14.
-
 44.
-
 45.
-
 46. <http://www.bild.de/politik/inland/isis/diese-waffen-liefert-deutschland-an-die-kurden-37478284.bild.html>
-
 47. [Italian Ministry of Interior – Decree n° 559/A/1/ORG/DIP.GP/14 of March 6, 2009, concerning weapons and equipment in use with the Italian National Police – in Italian](http://www.siulproma.com/pdf/circolari/2009/Circ._Armi_in_uso_alla_Polizia_di_Stato.pdf)  Retrieved on August 25, 2010.
-
-48. <http://www.mod.go.jp/gsdf/gmcc/hoto/hkou/14hk093.pdf>
-
+48.
 49. Shea, Dan (Spring 2009). "SOFEX 2008". *Small Arms Defense Journal*, p. 29.
-
 50. Tactical Weapons January 2011 Issue, Page 94.
-
 51.
-
 52. <http://www.mksf-ks.org/repository/docs/Koha_Ditore_per_FSK-ne.pdf>
-
 53.
-
 54.
-
 55.
-
 56.
 57.
-
 58.
-
 59.
-
 60. <https://www.youtube.com/watch?v=1BtKiDvpf8M>
-
 61. <http://blogs.aljazeera.net/sites/default/files/imagecache/BlogsMainImage/680_77.jpg>
-
 62. [Lietuva perka papildomą partiją modernizuotų automatinių ginklų G-36 KA4M1 ir 40 mm. granatsvaidžių](http://kam.lt/lt/naujienos_874/aktualijos_875/pasirasyta_sutartis_del_modernizuotu_automatiniu_ginklu_g-36_ka4m1_ir_40_mm._granatsvaidziu_pirkimo.html)
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
 70.
-
 71.
-
 72. [Ministar odbrane Boro Vučinić održao godišnju konferenciju za novinare](http://www.gov.me/odbrana/index.php?akcija=vijesti&id=167468)
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.
-
 78.
-
 79.
-
 80.
-
 81.
-
 82.
 83. <http://www.navy.mil/view_single.asp?id=13987>
-
 84.
-
 85. . Retrieved August 11th, 2011
-
 86. [5](http://imageshack.us/photo/my-images/231/swedsfej6.jpg/). Retrieved August 11th, 2011
-
 87.
-
 88.
-
 89.
-
 90.
-
 91. *Jane's Police Review*, 4 March 2007
-
 92.
-
 93. [army-technology.com Infanterist der Zukunft](http://www.army-technology.com/projects/idz/)
-
 94. [Heckler & Koch subsystem leader IdZ](http://www.heckler-koch.de/HKWebNews/byItemID///19/3/3/15)

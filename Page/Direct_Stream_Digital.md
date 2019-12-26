@@ -27,10 +27,7 @@ DSD技術在視訊方面或許有著相同的潛力。[Laserdisc光碟就是使�
 [Category:數位音頻儲存](https://zh.wikipedia.org/wiki/Category:數位音頻儲存 "wikilink")
 
 1.  見 [Audio Engineering Society Convention Paper 5395: Why 1-Bit Sigma-Delta Conversion is Unsuitable for High-Quality Applications](http://sjeng.org/ftp/SACD.pdf)
-
 2.
 3.  [Audio Engineering Society Convention Paper 5616: Enhanced Sigma Delta Structures for Super Audio CD Applications](http://www.extra.research.philips.com/mscs/publications2002/dsd-aesformat.pdf)
-
 4.
-
 5.  [Audio Engineering Society Convention Paper 5620: Toward a Better Understanding of 1-Bit Sigma-Delta Modulators - Part 3](http://www.aes.org/events/112/papers/x.cfm)

@@ -62,7 +62,7 @@
   - [USS Ranger (CV-4)](https://web.archive.org/web/20030414181729/http://www.history.navy.mil/photos/sh-usn/usnsh-r/cv4.htm)－Naval Historical Center
   - [USS RANGER (CV-4)](http://www.navsource.org/archives/02/04.htm)－NavSource Online，Aircraft Carrier Photo Archive
 
-[Category:1933年下水](https://zh.wikipedia.org/wiki/Category:1933年下水 "wikilink") [Category:美國海軍航空母艦](https://zh.wikipedia.org/wiki/Category:美國海軍航空母艦 "wikilink") [Category:第二次世界大戰航空母艦](https://zh.wikipedia.org/wiki/Category:第二次世界大戰航空母艦 "wikilink") [Category:1934年竣工的船只](https://zh.wikipedia.org/wiki/Category:1934年竣工的船只 "wikilink") [Category:二戰美國軍艦](https://zh.wikipedia.org/wiki/Category:二戰美國軍艦 "wikilink")
+[Category:1933年下水](https://zh.wikipedia.org/wiki/Category:1933年下水 "wikilink") [Category:美國海軍航空母艦](https://zh.wikipedia.org/wiki/Category:美國海軍航空母艦 "wikilink") [Category:第二次世界大戰航空母艦](https://zh.wikipedia.org/wiki/Category:第二次世界大戰航空母艦 "wikilink") [Category:二戰美國軍艦](https://zh.wikipedia.org/wiki/Category:二戰美國軍艦 "wikilink")
 
 1.  前三艘航艦都是由別的船艦改裝的，蘭利號從運煤艦朱比特號改裝，列克星敦號與薩拉托加號則是由列克星敦級戰鬥巡洋艦改裝
 2.  U-404號事實上是攻擊了英國的護航航艦比特號（HMS Biter，D97），她發射了4枚魚雷，但都沒有擊中

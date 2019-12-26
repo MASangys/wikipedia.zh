@@ -126,26 +126,15 @@
 [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:使用Vocaloid的歌曲](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.

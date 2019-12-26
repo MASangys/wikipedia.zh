@@ -175,26 +175,17 @@ ZUN認為，本作的一個主要目標就是「回歸原點」，因此簡化�
 [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:神道題材作品](https://zh.wikipedia.org/wiki/Category:神道題材作品 "wikilink") [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
 
 1.  <http://kourindou.exblog.jp/4154226/>
-
 2.  <http://kourindou.exblog.jp/4354569/>
-
 3.
-
 4.  ["Shanghai Alice Correspondence Vol. 4"](http://en.touhouwiki.net/wiki/Imperishable_Night:_Afterword). *Imperishable Night* Afterword. 2004-8-15
-
 5.  ["Notes on ZUN’s Genyou Denshou Lecture"](http://www.gensokyo.org/archives/92#more-92), Gensokyo.org, 09-11-2007
-
 6.  ["Mountain of Faith: A Special Afterword"](http://en.touhouwiki.net/wiki/Mountain_of_Faith:_Afterword). 2007-8-17.
-
 7.
 8.
 9.
 10. Ichijinsha, p.106
-
 11.
 12.
-
 13.
-
 14.
 15.

@@ -152,24 +152,14 @@ ASIMO已經可以同時與多人進行對話；遭遇其他正在行動中的人
 [Category:日本機器人](https://zh.wikipedia.org/wiki/Category:日本機器人 "wikilink") [Category:類人型機器人](https://zh.wikipedia.org/wiki/Category:類人型機器人 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  [Honda Worldwide | 15 December 2004 "Honda Reveals Technologies Next-Generation ASIMO"](http://world.honda.com/news/2004/c041215.html) . Honda Worldwide (15 December 2004). Retrieved 12 June 2011.
-
 5.  [ASIMO's Specifications](http://asimo.honda.com/asimo_specifications.html). Asimo.honda.com. Retrieved 12 June 2011.
-
 6.  [ASIMO's](http://world.honda.com/news/2011/c111108All-new-ASIMO/index.html) . Asimo.honda.com. Retrieved 8 November 2011.
-
 7.
 8.  [Honda Worldwide | ASIMO | Next-Generation](http://world.honda.com/ASIMO/next-generation/index.html). Honda Worldwide (15 December 2004). Retrieved 12 June 2011.
-
 9.  [Honda Worldwide | World News | News Releases | 20 November 2000](http://world.honda.com/news/2000/c001120.html) . Honda Worldwide (20 November 2000). Retrieved 12 June 2011.
-
 10. [Honda Worldwide | ASIMO](http://world.honda.com/ASIMO/new/). World.honda.com. Retrieved 12 June 2011.
-
 11. [Honda Worldwide | 15 December 2004 "Honda Reveals Technologies Next-Generation ASIMO"](http://world.honda.com/news/2004/c041215.html) . Honda Worldwide (15 December 2004). Retrieved 12 June 2011.
-
 12. <http://asimo.honda.com/downloads/pdf/asimo-technical-faq.pdf>

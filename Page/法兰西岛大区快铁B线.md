@@ -1097,11 +1097,11 @@ B线和D线在夏特雷-大堂站和巴黎北站之间共用隧道严重影响�
 
 [3](https://web.archive.org/web/20090721081634/http://www.metro-pole.net/hor) Metropole网站相关资料
 
-[4](http://www.blogencommun.fr/rer-b/) BlogenCommun网站上对RER B线的评论
+[4](https://web.archive.org/web/20090605220643/http://www.blogencommun.fr/Rer-b/) BlogenCommun网站上对RER B线的评论
 
 ## 外部链接
 
-[5](http://ratp.fr/) 巴黎大众运输公司网站
+[5](https://web.archive.org/web/20081225184032/http://www.ratp.fr/) 巴黎大众运输公司网站
 
 [6](https://web.archive.org/web/20090612020320/http://www.transilien.com/web/site/) 法国国家铁路公司远郊车网站
 

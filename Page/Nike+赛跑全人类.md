@@ -287,12 +287,6 @@
 
 ## 資料來源
 
-<div class="references-small">
-
-<references />
-
-</div>
-
 ## 外部連結
 
   - [活動官方網站](http://nikeplus.nike.com/nikeplus/humanrace/map.jsp)

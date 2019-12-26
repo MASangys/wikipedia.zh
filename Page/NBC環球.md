@@ -132,9 +132,7 @@ NBC（[全國廣播公司](https://zh.wikipedia.org/wiki/全國廣播公司 "wik
 
   -
   - [KidsCo](https://zh.wikipedia.org/wiki/KidsCo "wikilink")
-
   - [Friv 3D Series TV](https://zh.wikipedia.org/wiki/Friv_3D_Series_TV "wikilink")
-
   - [Craftsy](https://zh.wikipedia.org/wiki/Craftsy "wikilink")
 
 ### 聯合投資
@@ -172,46 +170,26 @@ NBC環球集團擁有和授權經營以下主題樂園及度假村：
 [Category:2004年成立的公司](https://zh.wikipedia.org/wiki/Category:2004年成立的公司 "wikilink") [Category:NBC環球](https://zh.wikipedia.org/wiki/Category:NBC環球 "wikilink") [Category:美国娱乐公司](https://zh.wikipedia.org/wiki/Category:美国娱乐公司 "wikilink") [Category:美国传媒公司](https://zh.wikipedia.org/wiki/Category:美国传媒公司 "wikilink") [Category:前威望迪子公司](https://zh.wikipedia.org/wiki/Category:前威望迪子公司 "wikilink") [Category:总部位于纽约市的公司](https://zh.wikipedia.org/wiki/Category:总部位于纽约市的公司 "wikilink") [Category:2004年紐約州建立](https://zh.wikipedia.org/wiki/Category:2004年紐約州建立 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
-
 7.
-
 8.  Lieberman, David. ["Comcast Completes Acquisition Of GE’s 49% Stake In NBCUniversal."](http://www.deadline.com/2013/03/comcast-completes-acquisition-nbcuniversal/) Deadline.com (2013-03-19)
-
 9.  [Lost in the Comcast Takeover? A Logo's Peacock](http://mediadecoder.blogs.nytimes.com/2011/01/27/lost-in-the-comcast-takeover-a-logos-peacock), 紐約時報, 2011-01-29
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24. "Neither Comcast nor C-NBCU shall exercise any right to influence the conduct or operation of Hulu, including those arising from agreements, arrangements or operation of its equity interests (e.g., board seats, voting for directors or other shareholder matters, management and veto rights, etc.) and C-NBCU shall as and from the date of this Order hold its interest in Hulu solely as an economic interest." MO\&O (1/20/11), FCC Grants Approval of Comcast-NBCU Transaction, [Comcast Corporation and NBC Universal](http://www.fcc.gov/transaction/comcast-nbcu.html), 美國聯邦通訊委員會

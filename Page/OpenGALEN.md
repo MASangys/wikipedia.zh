@@ -14,7 +14,7 @@
 ## 外部链接
 
   - [*Open*GALEN](http://www.opengalen.org) 网站
-  - [CCAM, Classification Commune des Actes Médicaux](http://www.ccam.sante.fr/)
+  - [CCAM, Classification Commune des Actes Médicaux](https://web.archive.org/web/20051016040400/http://www.ccam.sante.fr/)
   - [英国曼彻斯特大学医学信息学工作组](http://www.cs.man.ac.uk/bhig/)
   - [奈梅亨大学医学信息学部](http://www.umcn.nl/mi/)
 

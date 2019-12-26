@@ -242,32 +242,18 @@ Google翻译曾经内置有一个小彩蛋，在输入特定文字后让程序�
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:機器翻譯](https://zh.wikipedia.org/wiki/Category:機器翻譯 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:2006年面世的產品](https://zh.wikipedia.org/wiki/Category:2006年面世的產品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.  於2005年[機器翻譯峰會上的主旨演講](https://zh.wikipedia.org/wiki/機器翻譯峰會 "wikilink")
-
 7.  <http://www.reuters.com/article/technologyNews/idUSN1921881520070328?feedType=RSS%20target=>
-
 8.  Google was an official sponsor of the annual Computational Linguistics in Japan Conference ("[Gengoshorigakkai](https://zh.wikipedia.org/wiki/Gengoshorigakkai "wikilink")") in 2007. Google also sent a delegate from its headquarters to the meeting of the members of the Computational Linguistic Society of Japan in march 2005, promising funding to researchers who would be willing to share text data.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14. [不翻墙也能用了 谷歌翻译优化了中国用户体验](http://www.iimedia.cn/50363.html)
-
 15. [等了八年！谷歌这项重磅服务今天终于可以用了！](http://it.sohu.com/20170329/n485447400.shtml)
-
 16.

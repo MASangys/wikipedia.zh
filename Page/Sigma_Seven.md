@@ -361,9 +361,7 @@ Sigma Seven附有養成學校和子公司[Sigma Seven e](../Page/Sigma_Seven_e.m
 [Category:Sigma_Seven](https://zh.wikipedia.org/wiki/Category:Sigma_Seven "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink") [Category:1988年日本建立](https://zh.wikipedia.org/wiki/Category:1988年日本建立 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.

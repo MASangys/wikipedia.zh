@@ -1,14 +1,12 @@
-**VSS**（）特種狙擊步槍，又名（「螺紋剪裁機」），是一種由[前蘇聯開發的滅音](../Page/苏联.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。
+**VSS**（，GRAU编号6P29），又名Vintorez()，是一种使用[9×39毫米](https://zh.wikipedia.org/wiki/9×39毫米 "wikilink")[亚音速弹药的](https://zh.wikipedia.org/wiki/亚音速 "wikilink")[消音](https://zh.wikipedia.org/wiki/消音 "wikilink")[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")。该枪由[蘇聯工业设计局](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")（）于20世纪80年代末设计。
 
 ## 歷史及設計
 
-VSS Vintorez是一種滅音，幾乎無發射火焰的短距離狙擊步槍，使用[9×39毫米彈藥](https://zh.wikipedia.org/wiki/9×39毫米 "wikilink")。9x39毫米子彈的初速並不高，然而畢竟裝藥量多過[9毫米魯格彈一倍](https://zh.wikipedia.org/wiki/9mm魯格彈 "wikilink")，威力不僅僅是比9毫米子彈強大，在射程上堪與一般無抑制器的突擊步槍相較，大約在400米以內。
+VSS Vintorez是一種幾乎无枪口焰的消音短距離狙擊步槍，可以进行全自动射击。9x39毫米子彈的特点是弹头重、初速低，在子弹初速维持在亚音速的同时保证了枪口动能，經過VSS Vintorez**整合式[抑制器](../Page/抑制器.md "wikilink")**（integral sound supressor）降低初速之後仍然具有擊穿凯夫拉防彈背心的能力。整合式抑制器是指抑制器属于槍管的一部分而非枪支的配件；一般來說抑制器為「額外加裝」在槍口前用來降低擊發時的噪音與火焰，而整合式抑制器為製造槍管時已經將抑制器的部位與功能列入製造程序，因此當槍管製造完工時就已經具備降低擊發噪音與火焰的能力，不需要再「額外加裝」抑制器了。具有類似設計的轻武器還有[HK MP5SD](https://zh.wikipedia.org/wiki/HK_MP5冲锋枪#型號 "wikilink")。
 
-9×39毫米除了射程遠之外，就算經過VSS Vintorez**整合式[抑制器](../Page/抑制器.md "wikilink")**（integral sound supressor）降低初速之後仍然保有擊穿功夫龍（凯夫拉）防彈背心的能力。所謂整合式抑制器就是抑制器為槍管的一部分而非槍枝的配件；一般來說抑制器為「額外加裝」在槍口前用來降低擊發時的噪音與火焰，而整合式抑制器為製造槍管時已經將抑制器的部位與功能列入製造程序，因此當槍管製造完工時就已經具備降低擊發噪音與火焰的能力，不需要再「額外加裝」抑制器了。附帶一提的是目前具有類似這種設計的小口徑武器中還有[HK MP5SD系列](https://zh.wikipedia.org/wiki/HK_MP5冲锋枪#型號 "wikilink")。
+由於VSS Vintorez被定位為特种任務（discreet operation）武器，因此它可以分解成三大部分，並且放進450×370×140毫米的盒子內，同時附有兩個彈匣、[PSO-1光學瞄準鏡](../Page/PSO-1光學瞄準鏡.md "wikilink")以及NSPU-3。
 
-VSS Vintorez另外一個特點就是除了可以進行半自動單發狙擊射擊之外，在必要時也可進行全自動發射。
-
-由於VSS Vintorez被定位為特种任務（discreet operation）武器，因此它可以分解成三大部分，並且放進450×370×140毫米的盒子內，同時附有兩個彈匣、[PSO-1光學瞄準鏡](../Page/PSO-1光學瞄準鏡.md "wikilink")（與[SVD狙擊步槍](../Page/SVD狙擊步槍.md "wikilink")相同）以及NSPU-3。
+AS VAL与VSS的结构原理是完全一样的，只是VSS取消了独立小握把，改为框架式的木制运动型枪托，枪托底部有橡胶底板。VSS与AS VAL的弹匣通用，但VSS标配的是10发弹匣。
 
 ## 使用
 

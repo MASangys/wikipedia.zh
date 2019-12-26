@@ -37,7 +37,7 @@ syslog通常被用於資訊系統管理及資安稽核。雖然它有不少缺�
   - [Kiwi Syslog Daemon](http://www.kiwisyslog.com/)
   - [op5 LogServer](https://web.archive.org/web/20080820133659/http://www.op5.com/op5/products/logserver)
   - [MonitorWare Products: MonitorWare Agent, WinSyslog](http://www.monitorware.com/en/Product/product_comparision.php)
-  - [NetDecision LogVision](http://www.netmechanica.com/products/?prod_id=1016)
+  - [NetDecision LogVision](https://web.archive.org/web/20080513232947/http://www.netmechanica.com/products/?prod_id=1016)
   - [NTsyslog](http://ntsyslog.sourceforge.net/)
   - [Syslserve](http://www.syslserve.com/)
   - [syslog-ng Agent for Windows](http://www.balabit.com/network-security/syslog-ng/central-syslog-server/)

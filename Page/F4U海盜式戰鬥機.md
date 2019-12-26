@@ -90,6 +90,7 @@ F4U-1是以原型機XF4U-1作為藍本，並作了部分改動。不列顛空戰
   - [太平洋空戰英雄](https://zh.wikipedia.org/wiki/太平洋空戰英雄 "wikilink")
   - [戰地風雲1942](../Page/戰地風雲1942.md "wikilink")
   - [戰爭雷霆](../Page/戰爭雷霆.md "wikilink")
+  - [戰地5](https://zh.wikipedia.org/wiki/戰地5 "wikilink") 太平洋擴展包
 
 在[韓戰電影](https://zh.wikipedia.org/wiki/韓戰 "wikilink")[太極旗飄揚](../Page/太極旗飄揚.md "wikilink")當中有F4U對地攻擊的鏡頭。
 

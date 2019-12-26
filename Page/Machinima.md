@@ -1,4 +1,4 @@
-[Machinima_sample_reindeer_full_size.ogg](https://zh.wikipedia.org/wiki/File:Machinima_sample_reindeer_full_size.ogg "fig:Machinima_sample_reindeer_full_size.ogg")\]\]  **Machinima**（ 或 ），是*machine cinema*的[混成詞](../Page/混成詞.md "wikilink")\[1\]。中文可譯為**機械電影**、**引擎電影**或**機造影片**近年多稱**實機影片**。
+[Machinima_sample_reindeer_full_size.ogg](https://zh.wikipedia.org/wiki/File:Machinima_sample_reindeer_full_size.ogg "fig:Machinima_sample_reindeer_full_size.ogg")\]\]  **Machinima**（ 或 ），是*machine cinema*的[混成詞](../Page/混成詞.md "wikilink")\[1\]。中文譯為**機造影片**、**引擎電影**、**實機影片**。
 
 ## 用來制作machinima的程序
 
@@ -21,10 +21,10 @@
 
   - **[俠盜獵車手系列](../Page/俠盜獵車手系列.md "wikilink")**
   - '''[Minecraft](../Page/我的世界.md "wikilink")（我的世界）
-  - **[最後一戰](../Page/最後一戰系列.md "wikilink")**三部曲
+  - **[最後一戰](../Page/最後一戰系列.md "wikilink")**
   - **[任天堂明星大亂鬥系列](../Page/任天堂明星大亂鬥系列.md "wikilink")**
   - **[電影夢工廠](../Page/電影夢工廠.md "wikilink")**
-  - [模**拟**市民系列](../Page/模拟人生系列.md "wikilink")
+  - **[模拟市民系列](https://zh.wikipedia.org/wiki/模拟市民系列 "wikilink")**
   - **[雷神之錘系列](https://zh.wikipedia.org/wiki/雷神之錘系列 "wikilink")**
   - **[魔獸世界](https://zh.wikipedia.org/wiki/魔獸世界 "wikilink")**
   - **[半条命2](https://zh.wikipedia.org/wiki/半条命2 "wikilink")**

@@ -184,7 +184,7 @@
 </p></td>
 <td><p>16球不進</p></td>
 <td><p>2019年1月13日<br />
-</p></td>
+2019年10月26日</p></td>
 </tr>
 <tr class="odd">
 <td><p>最多罰球投射</p></td>
@@ -298,8 +298,7 @@
 <tr class="even">
 <td><p>單場達成<a href="../Page/5X5.md" title="wikilink">5X5</a></p></td>
 <td><p><a href="../Page/哈基姆·奥拉朱旺.md" title="wikilink">哈基姆·奥拉朱旺</a><br />
-<a href="https://zh.wikipedia.org/wiki/安德烈·基里连科" title="wikilink">安德烈·基里连科</a><br />
-</p></td>
+<a href="https://zh.wikipedia.org/wiki/安德烈·基里连科" title="wikilink">安德烈·基里连科</a></p></td>
 <td><p>1次</p></td>
 <td></td>
 </tr>
@@ -539,13 +538,16 @@
 <td><p>单一赛季成绩达成200颗三分球和700次罚球命中</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/詹姆斯·哈登" title="wikilink">詹姆斯·哈登</a><br />
 <a href="https://zh.wikipedia.org/wiki/詹姆斯·哈登" title="wikilink">詹姆斯·哈登</a><br />
+<a href="https://zh.wikipedia.org/wiki/詹姆斯·哈登" title="wikilink">詹姆斯·哈登</a><br />
 <a href="https://zh.wikipedia.org/wiki/詹姆斯·哈登" title="wikilink">詹姆斯·哈登</a></p></td>
 <td><p>208颗和715次罚球命中<br />
 236颗和720次罚球命中<br />
-262顆和746次罰球命中</p></td>
+262顆和746次罰球命中<br />
+378顆和754次罰球命中</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2014-15_NBA赛季" title="wikilink">2014-15 NBA赛季</a><br />
 <a href="../Page/2015-16_NBA赛季.md" title="wikilink">2015-16 NBA赛季</a><br />
-<a href="https://zh.wikipedia.org/wiki/2016-17_NBA赛季" title="wikilink">2016-17 NBA赛季</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/2016-17_NBA赛季" title="wikilink">2016-17 NBA赛季</a><br />
+<a href="https://zh.wikipedia.org/wiki/2018-19_NBA赛季" title="wikilink">2018-19 NBA赛季</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>單一賽季場均得到26分且罰球命中率在90%以上</p></td>
@@ -571,13 +573,16 @@
 <td><p>單一賽季場均大三元</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/奧斯卡·羅伯遜" title="wikilink">奧斯卡·羅伯遜</a><br />
 <a href="https://zh.wikipedia.org/wiki/拉塞尔·威斯布鲁克" title="wikilink">拉塞尔·威斯布鲁克</a><br />
+<a href="https://zh.wikipedia.org/wiki/拉塞尔·威斯布鲁克" title="wikilink">拉塞尔·威斯布鲁克</a><br />
 <a href="https://zh.wikipedia.org/wiki/拉塞尔·威斯布鲁克" title="wikilink">拉塞尔·威斯布鲁克</a></p></td>
 <td><p>30.8分、12.5个篮板和11.4次助攻<br />
 31.6分、10.7个篮板和10.4次助攻<br />
-25.4分、10.1个篮板和10.3次助攻</p></td>
+25.4分、10.1个篮板和10.3次助攻<br />
+22.9分、11.1个篮板和10.7次助攻</p></td>
 <td><p><a href="../Page/1961-62_NBA賽季.md" title="wikilink">1961-62 NBA賽季</a><br />
 <a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17 NBA賽季</a><br />
-<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18 NBA賽季</a></p></td>
+<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18 NBA賽季</a><br />
+<a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19 NBA賽季</a></p></td>
 </tr>
 <tr class="even">
 <td><p>單一賽季最快達成100顆三分球</p></td>
@@ -605,9 +610,11 @@
 </tr>
 <tr class="odd">
 <td><p>單一賽季同隊最多人單場比賽50分以上</p></td>
-<td><p>洛杉磯湖人 金洲勇士</p></td>
-<td><p><a href="../Page/埃尔金·贝勒.md" title="wikilink">艾爾金·貝勒</a>、<a href="https://zh.wikipedia.org/wiki/杰里·韦斯特" title="wikilink">傑瑞·衛斯特</a>、<a href="../Page/鲁迪·拉鲁索.md" title="wikilink">魯迪·拉魯索</a> <a href="https://zh.wikipedia.org/wiki/斯蒂芬·库里" title="wikilink">斯蒂芬·库里</a>、<a href="../Page/克雷·湯普森.md" title="wikilink">克雷·湯普森</a>、<a href="../Page/凯文·杜兰特.md" title="wikilink">凯文·杜兰特</a></p></td>
-<td><p>1961-62 NBA賽季</p></td>
+<td><p>洛杉磯湖人 <a href="../Page/埃尔金·贝勒.md" title="wikilink">埃尔金·贝勒</a>、<a href="https://zh.wikipedia.org/wiki/杰里·韦斯特" title="wikilink">杰里·韦斯特</a>、<a href="../Page/鲁迪·拉鲁索.md" title="wikilink">鲁迪·拉鲁索</a><br />
+金洲勇士 <a href="https://zh.wikipedia.org/wiki/斯蒂芬·库里" title="wikilink">斯蒂芬·库里</a>、<a href="../Page/克雷·湯普森.md" title="wikilink">克雷·湯普森</a>、<a href="../Page/凯文·杜兰特.md" title="wikilink">凯文·杜兰特</a></p></td>
+<td></td>
+<td><p><a href="../Page/1961-62_NBA賽季.md" title="wikilink">1961-62 NBA賽季</a><br />
+<a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19 NBA賽季</a></p></td>
 </tr>
 <tr class="even">
 <td><p>單一賽季內達成30+的大滿貫</p></td>
@@ -1420,13 +1427,13 @@
 </tr>
 <tr class="odd">
 <td><p>明星賽單場最多得分</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/米契·里奇蒙" title="wikilink">米契·里奇蒙</a></p></td>
+<td><p><a href="../Page/米奇·里奇蒙德.md" title="wikilink">米奇·里奇蒙德</a></p></td>
 <td><p>50</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>明星賽單場最多三分球</p></td>
-<td><p>安Eric</p></td>
+<td></td>
 <td><p>20</p></td>
 <td></td>
 </tr>
@@ -1450,29 +1457,29 @@
 
 ## 新秀
 
-| 紀錄            | 球隊／球員                                                                                                                       | 成績    | 時間                   |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------- | ----- | -------------------- |
-| 最多比賽連續奪得40分以上 | [艾倫·艾佛森](../Page/艾倫·艾佛森.md "wikilink")                                                                                      | 5場    |                      |
-| 季後賽單場最高得分     | [魔術师約翰遜](https://zh.wikipedia.org/wiki/魔術师約翰遜 "wikilink")                                                                   | 42分   | 1980年                |
-| 單節最高得分        | [高比·拜仁](https://zh.wikipedia.org/wiki/高比·拜仁 "wikilink")                                                                     | 14分   |                      |
-| 單場最高得分        | [威尔特·张伯伦](../Page/威尔特·张伯伦.md "wikilink")                                                                                    | 100分  | 1960年1月25日           |
-| 單場最高籃板        | [威尔特·张伯伦](../Page/威尔特·张伯伦.md "wikilink")                                                                                    | 45个   | 1960年2月6日            |
-| 單場最高助攻        | [厄尔尼·格雷格里奥](https://zh.wikipedia.org/wiki/厄尔尼·格雷格里奥 "wikilink")、[内特·麦克米兰](https://zh.wikipedia.org/wiki/内特·麦克米兰 "wikilink") | 25次   | 1974年1月1日、1987年2月23日 |
-| 單場最高抄截        | [罗恩·哈珀](../Page/罗恩·哈珀.md "wikilink")                                                                                        | 10次   | 1987年3月10日           |
-| 單場最高阻攻        | [马努特·波尔](../Page/马努特·波尔.md "wikilink")                                                                                      | 15次   | 1986年1月25日           |
-| 单场最多罚球投射      | [本·西蒙斯](https://zh.wikipedia.org/wiki/本·西蒙斯 "wikilink")                                                                     | 29次   | 2017年11月30日          |
-| 單季最多助攻        | [馬克·傑克遜](https://zh.wikipedia.org/wiki/馬克·傑克遜_\(1965年出生\) "wikilink")                                                       | 868次  | 1987-88              |
-| 單季最多阻攻        | 马纽特.波尔                                                                                                                      | 397个  | 1985-1986            |
-| 單季最多抄截        | 达德利.布拉德利                                                                                                                    | 211次  | 1979-1980            |
-| 單季最多籃板        | [威爾特·張伯倫](https://zh.wikipedia.org/wiki/威爾特·張伯倫 "wikilink")                                                                 | 1941個 | 1959-60              |
-| 單季最多得分        | [威爾特·張伯倫](https://zh.wikipedia.org/wiki/威爾特·張伯倫 "wikilink")                                                                 | 2707分 | 1959-60              |
-| 單季最多三分球       | [多諾萬·米契爾](https://zh.wikipedia.org/wiki/多諾萬·米契爾 "wikilink")                                                                 | 186球  | 2017-18              |
-| 最高場均助攻        | [馬克·傑克遜](https://zh.wikipedia.org/wiki/馬克·傑克遜_\(1965年出生\) "wikilink")                                                       | 10.6次 | 1979-80              |
-| 最高場均封阻        | [马努特·波尔](../Page/马努特·波尔.md "wikilink")                                                                                      | 4.96次 | 1985-86              |
-| 最高場均抄截        | [杜德利·布拉德利](https://zh.wikipedia.org/wiki/杜德利·布拉德利 "wikilink")                                                               | 2.57次 | 1979-80              |
-| 最高場均籃板        | [威爾特·張伯倫](https://zh.wikipedia.org/wiki/威爾特·張伯倫 "wikilink")                                                                 | 27个   | 1959-60              |
-| 最高場均得分        | [威爾特·張伯倫](https://zh.wikipedia.org/wiki/威爾特·張伯倫 "wikilink")                                                                 | 37.6分 | 1959-60              |
-|               |                                                                                                                             |       |                      |
+| 紀錄            | 球隊／球員                                                                                                    | 成績    | 時間                   |
+| ------------- | -------------------------------------------------------------------------------------------------------- | ----- | -------------------- |
+| 最多比賽連續奪得40分以上 | [艾倫·艾佛森](../Page/艾倫·艾佛森.md "wikilink")                                                                   | 5場    |                      |
+| 季後賽單場最高得分     | [魔術师約翰遜](https://zh.wikipedia.org/wiki/魔術师約翰遜 "wikilink")                                                | 42分   | 1980年                |
+| 單節最高得分        | [高比·拜仁](https://zh.wikipedia.org/wiki/高比·拜仁 "wikilink")                                                  | 14分   |                      |
+| 單場最高得分        | [威尔特·张伯伦](../Page/威尔特·张伯伦.md "wikilink")                                                                 | 58分   | 1960年1月25日           |
+| 單場最高籃板        | [威尔特·张伯伦](../Page/威尔特·张伯伦.md "wikilink")                                                                 | 45个   | 1960年2月6日            |
+| 單場最高助攻        | [厄尼·迪格雷戈里奥](../Page/厄尼·迪格雷戈里奥.md "wikilink")、[内特·麦克米兰](https://zh.wikipedia.org/wiki/内特·麦克米兰 "wikilink") | 25次   | 1974年1月1日、1987年2月23日 |
+| 單場最高抄截        | [罗恩·哈珀](../Page/罗恩·哈珀.md "wikilink")                                                                     | 10次   | 1987年3月10日           |
+| 單場最高阻攻        | [马努特·波尔](../Page/马努特·波尔.md "wikilink")                                                                   | 15次   | 1986年1月25日           |
+| 單場最多罰球投射      | [本·西蒙斯](https://zh.wikipedia.org/wiki/本·西蒙斯 "wikilink")                                                  | 29次   | 2017年11月30日          |
+| 單季最多助攻        | [馬克·傑克遜](https://zh.wikipedia.org/wiki/馬克·傑克遜_\(1965年出生\) "wikilink")                                    | 868次  | 1987-88              |
+| 單季最多阻攻        | [马努特·波尔](../Page/马努特·波尔.md "wikilink")                                                                   | 397个  | 1985-1986            |
+| 單季最多抄截        | [达德利·布拉德利](../Page/达德利·布拉德利.md "wikilink")                                                               | 211次  | 1979-1980            |
+| 單季最多籃板        | [威爾特·張伯倫](https://zh.wikipedia.org/wiki/威爾特·張伯倫 "wikilink")                                              | 1941個 | 1959-60              |
+| 單季最多得分        | [威爾特·張伯倫](https://zh.wikipedia.org/wiki/威爾特·張伯倫 "wikilink")                                              | 2707分 | 1959-60              |
+| 單季最多三分球       | [多諾萬·米契爾](https://zh.wikipedia.org/wiki/多諾萬·米契爾 "wikilink")                                              | 186球  | 2017-18              |
+| 最高場均助攻        | [馬克·傑克遜](https://zh.wikipedia.org/wiki/馬克·傑克遜_\(1965年出生\) "wikilink")                                    | 10.6次 | 1979-80              |
+| 最高場均封阻        | [马努特·波尔](../Page/马努特·波尔.md "wikilink")                                                                   | 4.96次 | 1985-86              |
+| 最高場均抄截        | [杜德利·布拉德利](https://zh.wikipedia.org/wiki/杜德利·布拉德利 "wikilink")                                            | 2.57次 | 1979-80              |
+| 最高場均籃板        | [威爾特·張伯倫](https://zh.wikipedia.org/wiki/威爾特·張伯倫 "wikilink")                                              | 27个   | 1959-60              |
+| 最高場均得分        | [威爾特·張伯倫](https://zh.wikipedia.org/wiki/威爾特·張伯倫 "wikilink")                                              | 37.6分 | 1959-60              |
+|               |                                                                                                          |       |                      |
 
 ## 總教練
 
@@ -1503,9 +1510,9 @@
 | [底特律活塞](../Page/底特律活塞.md "wikilink")                                                                                  | [以賽亞·湯瑪斯](https://zh.wikipedia.org/wiki/以賽亞·湯瑪斯 "wikilink")           | 18822分      |      |
 | [華盛頓巫師](https://zh.wikipedia.org/wiki/华盛顿奇才 "wikilink")                                                               | [埃爾文·海耶斯](https://zh.wikipedia.org/wiki/埃爾文·海耶斯 "wikilink")           | 15551分      |      |
 | [奥兰多魔術](https://zh.wikipedia.org/wiki/奥兰多魔術 "wikilink")                                                               | [德怀特·霍华德](https://zh.wikipedia.org/wiki/德怀特·霍华德 "wikilink")           | 11435分      |      |
-| [夏洛特黃蜂](../Page/夏洛特黃蜂.md "wikilink")/[夏洛特山貓](https://zh.wikipedia.org/wiki/夏洛特山貓 "wikilink")                          | [肯巴·沃克](../Page/肯巴·沃克.md "wikilink")                                  | 10010分      | 持續中  |
+| [夏洛特黃蜂](../Page/夏洛特黃蜂.md "wikilink")/[夏洛特山貓](https://zh.wikipedia.org/wiki/夏洛特山貓 "wikilink")                          | [肯巴·沃克](../Page/肯巴·沃克.md "wikilink")                                  | 10010分      |      |
 | [亚特兰大老鷹](https://zh.wikipedia.org/wiki/亚特兰大老鷹 "wikilink")                                                             | [多米尼克·威尔金斯](../Page/多米尼克·威尔金斯.md "wikilink")                          | 23292分      |      |
-| [迈阿密熱火](https://zh.wikipedia.org/wiki/迈阿密熱火 "wikilink")                                                               | [德韋恩·韋德](https://zh.wikipedia.org/wiki/德韋恩·韋德 "wikilink")             | 20221分      | 持續中  |
+| [迈阿密熱火](https://zh.wikipedia.org/wiki/迈阿密熱火 "wikilink")                                                               | [德韋恩·韋德](https://zh.wikipedia.org/wiki/德韋恩·韋德 "wikilink")             | 20221分      |      |
 | [洛杉磯快艇](../Page/洛杉矶快船.md "wikilink")                                                                                  | [蘭迪·史密斯](https://zh.wikipedia.org/wiki/蘭迪·史密斯 "wikilink")             | 12735分      |      |
 | [鳳凰城太陽](https://zh.wikipedia.org/wiki/菲尼克斯太陽 "wikilink")                                                              | [沃尔特·戴维斯](../Page/沃尔特·戴维斯.md "wikilink")                              | 15666分      |      |
 | [金州勇士](../Page/金州勇士.md "wikilink")/[費城勇士](https://zh.wikipedia.org/wiki/費城勇士 "wikilink")                              | [威爾特·張伯倫](https://zh.wikipedia.org/wiki/威爾特·張伯倫 "wikilink")           | 17783分      |      |
@@ -1523,7 +1530,7 @@
 | [休士頓火箭](https://zh.wikipedia.org/wiki/休斯顿火箭 "wikilink")                                                               | [哈基姆·奥拉朱旺](../Page/哈基姆·奥拉朱旺.md "wikilink")                            | 26511分      |      |
 |                                                                                                                       |                                                                       |             |      |
 
-更新日期：2017-2018球季結束
+更新日期：2018-2019球季結束
 
 ### 最多篮板
 
@@ -2091,36 +2098,37 @@
 
 ## 年齡
 
-| 紀錄             | 球隊／球員                                                       | 歲數            | 成績          | 時間          |
-| -------------- | ----------------------------------------------------------- | ------------- | ----------- | ----------- |
-| 最年輕參與比賽        | [安德鲁·拜納姆](https://zh.wikipedia.org/wiki/安德鲁·拜納姆 "wikilink") | 18歲6日         |             |             |
-| 最年輕先發球員        | [柯比·布萊恩](https://zh.wikipedia.org/wiki/柯比·布萊恩 "wikilink")   | 18歲158日       |             |             |
-| 總冠軍賽最年長先發球員    | [賈森·基德](https://zh.wikipedia.org/wiki/賈森·基德 "wikilink")     | 38歲           |             |             |
-| 最年長參與比賽球員      | [罗伯特·帕里什](../Page/罗伯特·帕里什.md "wikilink")                    | 43歲231日       |             |             |
-| 最年輕明星賽最有價值球員   | [勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")                    | 21歲55日        |             |             |
-| 最年輕單場30分以上     | [盧卡·唐西奇](https://zh.wikipedia.org/wiki/盧卡·唐西奇 "wikilink")   | 19歲333日       | 35分         |             |
-| 最年長單場40分以上     | [麥可·喬丹](https://zh.wikipedia.org/wiki/麥可·喬丹 "wikilink")     | 40歲4日         | 43分         |             |
-| 最年長單場45分以上     | [麥可·喬丹](https://zh.wikipedia.org/wiki/麥可·喬丹 "wikilink")     | 39歲349日       | 45分         |             |
-| 最年輕單場50分以上     | [布蘭登·詹寧斯](https://zh.wikipedia.org/wiki/布蘭登·詹寧斯 "wikilink") | 20歲49日        | 55分         |             |
-| 最年長單場50分以上     | [贾马尔·克劳福德](../Page/贾马尔·克劳福德.md "wikilink")                  | 39歲20日        | 51分         |             |
-| 最年長單場60分以上     | [科比·布莱恩特](../Page/科比·布莱恩特.md "wikilink")                    | 37歲234日       | 60分         |             |
-| 最年輕得分王         | [凯文·杜兰特](../Page/凯文·杜兰特.md "wikilink")                      | 21歲197日       |             |             |
-| 最年輕MVP         | [德瑞克·羅斯](https://zh.wikipedia.org/wiki/德瑞克·羅斯 "wikilink")   | 22歲           |             |             |
-| 最年輕大三元         | [馬凱爾·富爾茲](https://zh.wikipedia.org/wiki/馬基爾·富斯 "wikilink")  | 19歲又318日      | 13分10籃板10助攻 | 2018年4月12日  |
-| 最年輕30分大三元      | [盧卡·唐西奇](../Page/卢卡·东契奇.md "wikilink")                      | 35分 12籃板 10助攻 | 19歲又333天    | 2019年1月28日  |
-| 未滿20歲兩次大三元     | [盧卡·唐西奇](../Page/卢卡·东契奇.md "wikilink")                      | 35分 12籃板 10助攻 | 19歲又333天    | 2019年1月28日  |
-| 最年長大三元         | [卡爾·馬龍](../Page/卡爾·馬龍.md "wikilink")                        | 40歲127日       | 10分11籃板10助攻 | 2003年11月28日 |
-| 最年長20-20       | [蒂姆·邓肯](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink")     | 37歲221日       | 23分21籃板     | 2013年12月2日  |
-| 最年輕累積得分達1000分  | [勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")                    | 19歲41日        |             |             |
-| 最年輕累積得分達5000分  | [勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")                    | 21歲22日        |             |             |
-| 最年輕累積得分達10000分 | [勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")                    | 23歲59日        |             |             |
-| 最年輕累積得分達15000分 | [勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")                    | 25歲79日        |             |             |
-| 最年輕累積得分達20000分 | [勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")                    | 28歲17日        |             |             |
-| 最年輕累積得分達25000分 | [勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")                    | 30歲307日       |             |             |
-| 最年輕累積得分達30000分 | [勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")                    | 33歲25日        |             | 2018年1月24日  |
-| 最年輕出賽達1000場    | [凯文·賈奈特](https://zh.wikipedia.org/wiki/凯文·賈奈特 "wikilink")   | 32歲165日       |             | 2008年11月1日  |
-| 最年輕達到1500顆三分球  | [史蒂芬·柯瑞](https://zh.wikipedia.org/wiki/史蒂芬·柯瑞 "wikilink")   | 27歲361日       |             | 2016年3月11日  |
-|                |                                                             |               |             |             |
+| 紀錄             | 球隊／球員                                                       | 歲數       | 成績          | 時間          |
+| -------------- | ----------------------------------------------------------- | -------- | ----------- | ----------- |
+| 最年輕參與比賽        | [安德鲁·拜納姆](https://zh.wikipedia.org/wiki/安德鲁·拜納姆 "wikilink") | 18歲6日    |             |             |
+| 最年輕先發球員        | [柯比·布萊恩](https://zh.wikipedia.org/wiki/柯比·布萊恩 "wikilink")   | 18歲158日  |             |             |
+| 總冠軍賽最年長先發球員    | [賈森·基德](https://zh.wikipedia.org/wiki/賈森·基德 "wikilink")     | 38歲      |             |             |
+| 最年長參與比賽球員      | [罗伯特·帕里什](../Page/罗伯特·帕里什.md "wikilink")                    | 43歲231日  |             |             |
+| 最年輕明星賽最有價值球員   | [勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")                    | 21歲55日   |             |             |
+| 最年輕單場30分以上     | [盧卡·唐西奇](https://zh.wikipedia.org/wiki/盧卡·唐西奇 "wikilink")   | 19歲333日  | 35分         |             |
+| 最年長單場40分以上     | [麥可·喬丹](https://zh.wikipedia.org/wiki/麥可·喬丹 "wikilink")     | 40歲4日    | 43分         |             |
+| 最年長單場45分以上     | [麥可·喬丹](https://zh.wikipedia.org/wiki/麥可·喬丹 "wikilink")     | 39歲349日  | 45分         |             |
+| 最年輕單場50分以上     | [布蘭登·詹寧斯](https://zh.wikipedia.org/wiki/布蘭登·詹寧斯 "wikilink") | 20歲49日   | 55分         |             |
+| 最年長單場50分以上     | [贾马尔·克劳福德](../Page/贾马尔·克劳福德.md "wikilink")                  | 39歲20日   | 51分         |             |
+| 最年長單場60分以上     | [科比·布莱恩特](../Page/科比·布莱恩特.md "wikilink")                    | 37歲234日  | 60分         |             |
+| 最年輕得分王         | [凯文·杜兰特](../Page/凯文·杜兰特.md "wikilink")                      | 21歲197日  |             |             |
+| 最年輕MVP         | [德瑞克·羅斯](https://zh.wikipedia.org/wiki/德瑞克·羅斯 "wikilink")   | 22歲      |             |             |
+| 最年輕大三元         | [馬凱爾·富爾茲](https://zh.wikipedia.org/wiki/馬基爾·富斯 "wikilink")  | 19歲又318日 | 13分10籃板10助攻 | 2018年4月12日  |
+| 最年輕30分大三元      | [盧卡·唐西奇](../Page/卢卡·东契奇.md "wikilink")                      | 19歲又333天 | 35分12籃板10助攻 | 2019年1月28日  |
+| 最年輕40分大三元      | [盧卡·唐西奇](../Page/卢卡·东契奇.md "wikilink")                      | 20歲又263天 | 42分11籃板12助攻 | 2019年11月19日 |
+| 未滿20歲兩次大三元     | [盧卡·唐西奇](../Page/卢卡·东契奇.md "wikilink")                      | 19歲又333天 | 35分12籃板10助攻 | 2019年1月28日  |
+| 最年長大三元         | [卡爾·馬龍](../Page/卡爾·馬龍.md "wikilink")                        | 40歲127日  | 10分11籃板10助攻 | 2003年11月28日 |
+| 最年長20-20       | [蒂姆·邓肯](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink")     | 37歲221日  | 23分21籃板     | 2013年12月2日  |
+| 最年輕累積得分達1000分  | [勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")                    | 19歲41日   |             |             |
+| 最年輕累積得分達5000分  | [勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")                    | 21歲22日   |             |             |
+| 最年輕累積得分達10000分 | [勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")                    | 23歲59日   |             |             |
+| 最年輕累積得分達15000分 | [勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")                    | 25歲79日   |             |             |
+| 最年輕累積得分達20000分 | [勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")                    | 28歲17日   |             |             |
+| 最年輕累積得分達25000分 | [勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")                    | 30歲307日  |             |             |
+| 最年輕累積得分達30000分 | [勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")                    | 33歲25日   |             | 2018年1月24日  |
+| 最年輕出賽達1000場    | [凯文·賈奈特](https://zh.wikipedia.org/wiki/凯文·賈奈特 "wikilink")   | 32歲165日  |             | 2008年11月1日  |
+| 最年輕達到1500顆三分球  | [史蒂芬·柯瑞](https://zh.wikipedia.org/wiki/史蒂芬·柯瑞 "wikilink")   | 27歲361日  |             | 2016年3月11日  |
+|                |                                                             |          |             |             |
 
 ## 里程碑
 
@@ -2144,54 +2152,61 @@
 </tr>
 <tr class="even">
 <td><p>生涯最快達成大三元</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>马克尔 富尔茨</p></td>
+<td><p>19岁318天</p></td>
+<td><p>费城76人队</p></td>
+<td><p>2018年4月12日</p></td>
 </tr>
 <tr class="odd">
+<td><p>最少比賽場數中累積600顆三分球</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/达米安·利拉德" title="wikilink">达米安·利拉德</a></p></td>
+<td><p>247場</p></td>
+<td><p>波特蘭拓荒者</p></td>
+<td><p>2015年10月29日</p></td>
+</tr>
+<tr class="even">
 <td><p>最少比賽場數中累積1000顆三分球</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/史蒂芬·柯瑞" title="wikilink">史蒂芬·柯瑞</a></p></td>
 <td><p>369场</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>最少比賽場數中累積得分達15000分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/威爾特·張伯倫" title="wikilink">威爾特·張伯倫</a></p></td>
 <td><p>358場</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>最少比賽場數中累積得分達20000分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/威爾特·張伯倫" title="wikilink">威爾特·張伯倫</a></p></td>
 <td><p>499場</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>最少比賽場數中累積得分達25000分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/威爾特·張伯倫" title="wikilink">威爾特·張伯倫</a></p></td>
 <td><p>691場</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>最少比賽場數中累積得分達30000分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/威爾特·張伯倫" title="wikilink">威爾特·張伯倫</a></p></td>
 <td><p>941場</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>後衛生涯最多封阻</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/德韋恩·韋德" title="wikilink">德韋恩·韋德</a></p></td>
 <td><p>1052次 (常規賽877個，季後賽175個。)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>生涯效力不同球隊，單場攻入50分或以上的球員</p></td>
 <td><p><a href="../Page/贾马尔·克劳福德.md" title="wikilink">贾马尔·克劳福德</a></p></td>
 <td><p>4隊</p></td>
@@ -2204,7 +2219,7 @@
 2008年12月20日<br />
 2019年4月9日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/NBA.md" title="wikilink">NBA</a>30隊同一天都有比賽(一天有15場比賽)</p></td>
 <td></td>
 <td></td>
@@ -2326,10 +2341,16 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/NBA勝率排名" title="wikilink">單季最佳戰績紀錄</a></p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
-<td><p>73胜9败</p></td>
+<td><p>73胜9败，勝率0.890</p></td>
 <td><p><a href="../Page/2015-16_NBA赛季.md" title="wikilink">2015-16 NBA赛季</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>主場對戰同組對手連勝紀錄</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/多倫多暴龍" title="wikilink">多倫多暴龍</a></p></td>
+<td><p>33連勝</p></td>
+<td><p>2015年12月13日—至今</p></td>
+</tr>
+<tr class="even">
 <td><p>單季最差戰績紀錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/費城76人" title="wikilink">費城76人</a><br />
 <a href="https://zh.wikipedia.org/wiki/夏洛特山貓" title="wikilink">夏洛特山貓</a></p></td>
@@ -2338,7 +2359,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/1972-73_NBA賽季" title="wikilink">1972-73 NBA賽季</a><br />
 <a href="https://zh.wikipedia.org/wiki/2011-12_NBA賽季" title="wikilink">2011-12 NBA賽季</a>（66場）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>單季最佳主場戰績紀錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/波士頓塞爾提克" title="wikilink">波士頓塞爾提克</a><br />
 <a href="https://zh.wikipedia.org/wiki/聖安東尼奧馬刺" title="wikilink">聖安東尼奧馬刺</a></p></td>
@@ -2346,19 +2367,19 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/1985-86_NBA賽季" title="wikilink">1985-86 NBA賽季</a><br />
 <a href="https://zh.wikipedia.org/wiki/2015-16_NBA賽季" title="wikilink">2015-16 NBA賽季</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>單季最佳客場戰績紀錄</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>34勝7敗</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2015-16_NBA賽季" title="wikilink">2015-16 NBA賽季</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>開季最長連勝紀錄</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>24連勝</p></td>
 <td><p>2015年10月27日－2015年12月12日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>開季最長連敗紀錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紐澤西籃網" title="wikilink">紐澤西籃網</a><br />
 <a href="https://zh.wikipedia.org/wiki/費城76人" title="wikilink">費城76人</a></p></td>
@@ -2366,13 +2387,13 @@
 <td><p>2009年10月28日－2009年12月4日<br />
 2015年10月28日－2015年12月1日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>單季最長連勝紀錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a></p></td>
 <td><p>33連勝</p></td>
 <td><p>1971年11月5日－1972年1月9日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>單季最長連敗紀錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a><br />
 <a href="https://zh.wikipedia.org/wiki/費城76人" title="wikilink">費城76人</a></p></td>
@@ -2380,73 +2401,73 @@
 <td><p>2010年12月20日－2011年2月11日<br />
 2014年1月31日－2014年3月29日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>跨季最長連勝紀錄</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>28連勝</p></td>
 <td><p>2015年4月9日－2015年12月12日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>跨季最長連敗紀錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/費城76人" title="wikilink">費城76人</a></p></td>
 <td><p>28連敗</p></td>
 <td><p>2015年3月27日－2015年12月1日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>開季最長主場連勝紀錄</p></td>
 <td><p><a href="../Page/圣安东尼奥马刺.md" title="wikilink">圣安东尼奥马刺</a></p></td>
 <td><p>39連勝</p></td>
 <td><p>2015年10月30日－2016年4月10日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>開季最長主場連敗紀錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/达拉斯小牛" title="wikilink">达拉斯小牛</a></p></td>
 <td><p>19连败</p></td>
 <td><p>1993年11月6日－1994年1月21日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>單季最長主場連敗紀錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/达拉斯小牛" title="wikilink">达拉斯小牛</a></p></td>
 <td><p>19连败</p></td>
 <td><p>1993年11月6日－1994年1月21日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>跨季最長主場連勝紀錄</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>54連勝</p></td>
 <td><p>2015年1月31日－2016年4月1日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>跨季最長主場連敗紀錄</p></td>
 <td><p><a href="../Page/奥兰多魔术.md" title="wikilink">奥兰多魔术</a></p></td>
 <td><p>16连败</p></td>
 <td><p>1990年3月1日－1990年11月6日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>開季最長客場連勝紀錄</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>14連勝</p></td>
 <td><p>2015年10月30日－2015年12月12日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>開季最長客場連敗紀錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/达拉斯小牛" title="wikilink">达拉斯小牛</a></p></td>
 <td><p>29连败</p></td>
 <td><p>1992年11月10日－1993年3月13日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>單季最長客場連勝紀錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a></p></td>
 <td><p>16連勝</p></td>
 <td><p>1971年11月6日－1972年1月7日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>單季最長客場連敗紀錄</p></td>
 <td><p><a href="../Page/沙加緬度國王.md" title="wikilink">沙加緬度國王</a></p></td>
 <td><p>37連敗</p></td>
 <td><p>1990年11月21日－1991年4月19日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>跨季最長客場連勝紀錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/波士頓塞爾提克" title="wikilink">波士頓塞爾提克</a><br />
 <a href="https://zh.wikipedia.org/wiki/聖安東尼奧馬刺" title="wikilink">聖安東尼奧馬刺</a></p></td>
@@ -2454,133 +2475,133 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/1960-61_NBA賽季" title="wikilink">1960-61 NBA賽季</a>－<a href="../Page/1961-62_NBA賽季.md" title="wikilink">1961-62 NBA賽季</a><br />
 2016年4月13日－2016年12月8日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>跨季最長客場連敗紀錄</p></td>
 <td><p><a href="../Page/沙加緬度國王.md" title="wikilink">沙加緬度國王</a></p></td>
 <td><p>43連敗</p></td>
 <td><p>1990年11月21日－1991年11月23日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>單月最佳戰績紀錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/亞特蘭大老鷹" title="wikilink">亞特蘭大老鷹</a></p></td>
 <td><p>17勝0敗</p></td>
 <td><p>2015年1月1日－2015年1月31日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>最長連續賽季45勝</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/聖安東尼奧馬刺" title="wikilink">聖安東尼奧馬刺</a></p></td>
 <td><p>20季</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1999-00_NBA賽季" title="wikilink">1999-00 NBA賽季</a>-<a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19 NBA賽季</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>最長連續賽季50勝</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/聖安東尼奧馬刺" title="wikilink">聖安東尼奧馬刺</a></p></td>
 <td><p>18季</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1999-00_NBA賽季" title="wikilink">1999-00 NBA賽季</a>-<a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17 NBA賽季</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>最長連續賽季五成以上勝率</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/聖安東尼奧馬刺" title="wikilink">聖安東尼奧馬刺</a></p></td>
 <td><p>22季</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1997-98_NBA賽季" title="wikilink">1997-98 NBA賽季</a>-<a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19 NBA賽季</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>最長連續賽季六成以上勝率</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/聖安東尼奧馬刺" title="wikilink">聖安東尼奧馬刺</a></p></td>
 <td><p>20季</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1997-98_NBA賽季" title="wikilink">1997-98 NBA賽季</a>-<a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17 NBA賽季</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>戰績進步最多</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/波士頓凯尔特人" title="wikilink">波士頓凯尔特人</a></p></td>
 <td><p>42勝</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2007-08_NBA賽季" title="wikilink">2007-08 NBA賽季</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>跨季未曾2連敗</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>146場</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2015-16_NBA賽季" title="wikilink">2015-16 NBA賽季</a>–<a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17 NBA賽季</a>3月3日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>最差成績卻在下個賽季進入季後賽</p></td>
 <td><p><a href="../Page/密尔沃基雄鹿.md" title="wikilink">密尔沃基雄鹿</a></p></td>
 <td><p>從15勝67敗到41勝41敗</p></td>
 <td><p><a href="../Page/2014-15_NBA賽季.md" title="wikilink">2014-15 NBA賽季</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>季後賽第一輪出局的最高勝率</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/達拉斯小牛" title="wikilink">達拉斯小牛</a></p></td>
 <td><p>0.817</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2006-07_NBA賽季" title="wikilink">2006-07 NBA賽季</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>第八種子最多勝</p></td>
 <td><p><a href="../Page/丹佛掘金.md" title="wikilink">丹佛掘金</a></p></td>
 <td><p>50勝</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2007-08_NBA賽季" title="wikilink">2007-08 NBA賽季</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第八種子最高胜率</p></td>
 <td><p><a href="../Page/丹佛掘金.md" title="wikilink">丹佛掘金</a></p></td>
 <td><p>0.610</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2007-08_NBA賽季" title="wikilink">2007-08 NBA賽季</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>種子最低胜率</p></td>
 <td><p><a href="../Page/芝加哥公牛.md" title="wikilink">芝加哥公牛</a></p></td>
 <td><p>0.354</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1967-68_NBA赛季" title="wikilink">1967-68 NBA赛季</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>晋级季后赛最少胜</p></td>
 <td><p><a href="../Page/明尼苏达森林狼.md" title="wikilink">明尼苏达森林狼</a></p></td>
 <td><p>25胜</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1998-99_NBA赛季" title="wikilink">1998-99 NBA赛季</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>晋级季后赛最低胜率</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴爾的摩子彈" title="wikilink">巴爾的摩子彈</a></p></td>
 <td><p>0.229</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1952-53_NBA赛季" title="wikilink">1952-53 NBA赛季</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>無緣晉级季後赛最多勝</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鳳凰城太阳" title="wikilink">鳳凰城太阳</a></p></td>
 <td><p>49胜</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1971-72_NBA赛季" title="wikilink">1971-72 NBA赛季</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>無緣晉级季後赛最多賽季</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯快船" title="wikilink">洛杉磯快船</a></p></td>
 <td><p>15季</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1976-77_NBA赛季" title="wikilink">1976-77 NBA赛季</a>－<a href="https://zh.wikipedia.org/wiki/1990-91_NBA赛季" title="wikilink">1990-91 NBA赛季</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>無緣晉级季後赛最高勝率</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鳳凰城太陽" title="wikilink">鳳凰城太陽</a></p></td>
 <td><p>0.598</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1971-72_NBA赛季" title="wikilink">1971-72 NBA赛季</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>無緣總冠軍最高勝率</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>0.89</p></td>
 <td><p><a href="../Page/2015-16_NBA赛季.md" title="wikilink">2015-16 NBA赛季</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>獲得總冠軍的最低名次</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休斯顿火箭" title="wikilink">休斯顿火箭</a></p></td>
 <td><p>第6</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1994-95_NBA賽季" title="wikilink">1994-95 NBA賽季</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>最快速60勝</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>第68場</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2015-16_NBA賽季" title="wikilink">2015-16 NBA賽季</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>最快速70勝</p></td>
 <td><p><a href="../Page/芝加哥公牛.md" title="wikilink">芝加哥公牛</a><br />
 <a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
@@ -2588,7 +2609,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/1995-96_NBA賽季" title="wikilink">1995-96 NBA賽季</a><br />
 <a href="https://zh.wikipedia.org/wiki/2015-16_NBA賽季" title="wikilink">2015-16 NBA賽季</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -2787,9 +2808,11 @@
 </tr>
 <tr class="even">
 <td><p>單場兩隊最多三分球命中</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/紐奧良鵜鶘" title="wikilink">紐奧良鵜鶘</a>&amp;<a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紐奧良鵜鶘" title="wikilink">紐奧良鵜鶘</a>&amp;<a href="../Page/金州勇士.md" title="wikilink">金州勇士</a><br />
+<a href="https://zh.wikipedia.org/wiki/休士頓火箭" title="wikilink">休士頓火箭</a>&amp;<a href="https://zh.wikipedia.org/wiki/華盛頓巫師" title="wikilink">華盛頓巫師</a></p></td>
 <td><p>43顆</p></td>
-<td><p>2019年1月16日</p></td>
+<td><p>2019年1月16日<br />
+2019年10月31日</p></td>
 </tr>
 <tr class="odd">
 <td><p>單場單隊半場最少得分</p></td>
@@ -2872,9 +2895,9 @@
 <tr class="odd">
 <td><p>單場兩隊最高得分<br />
 (未加時)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/丹佛金塊" title="wikilink">丹佛金塊</a>&amp;<a href="https://zh.wikipedia.org/wiki/鳳凰城太陽" title="wikilink">鳳凰城太陽</a></p></td>
-<td><p>316分[3]</p></td>
-<td><p>1990年11月10日（143-173）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/休士頓火箭" title="wikilink">休士頓火箭</a>&amp;<a href="https://zh.wikipedia.org/wiki/華盛頓巫師" title="wikilink">華盛頓巫師</a></p></td>
+<td><p>317分</p></td>
+<td><p>2019年10月31日（159-158）</p></td>
 </tr>
 <tr class="even">
 <td><p>單場兩隊最高得分<br />
@@ -2921,27 +2944,39 @@
 </tr>
 <tr class="even">
 <td><p>單場单隊最多籃板</p></td>
-<td><p><a href="../Page/密尔沃基雄鹿.md" title="wikilink">密尔沃基雄鹿</a></p></td>
-<td><p>81個</p></td>
-<td><p>2015年3月20日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/波士頓塞爾提克" title="wikilink">波士頓塞爾提克</a></p></td>
+<td><p>109個</p></td>
+<td><p>1960年12月24日</p></td>
 </tr>
 <tr class="odd">
 <td><p>單場两隊最多籃板</p></td>
-<td><p><a href="../Page/底特律活塞.md" title="wikilink">底特律活塞</a>&amp;<a href="https://zh.wikipedia.org/wiki/犹他爵士" title="wikilink">犹他爵士</a></p></td>
-<td><p>140個</p></td>
-<td><p>1982年12月28日</p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a>&amp;<a href="https://zh.wikipedia.org/wiki/費城勇士" title="wikilink">費城勇士</a></p></td>
+<td><p>188個</p></td>
+<td><p>1961年12月8日</p></td>
 </tr>
 <tr class="even">
 <td><p>單場单隊最少籃板</p></td>
-<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
-<td><p>15個</p></td>
-<td><p>1983年3月31日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/布魯克林籃網" title="wikilink">布魯克林籃網</a></p></td>
+<td><p>17個</p></td>
+<td><p>2014年1月31日</p></td>
 </tr>
 <tr class="odd">
 <td><p>單場两隊最少籃板</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休斯顿火箭" title="wikilink">休斯顿火箭</a>&amp;<a href="../Page/西雅图超音速.md" title="wikilink">西雅图超音速</a></p></td>
 <td><p>35個</p></td>
 <td><p>1982年11月14日</p></td>
+</tr>
+<tr class="even">
+<td><p>單場最多進攻籃板</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/波士頓塞爾提克" title="wikilink">波士頓塞爾提克</a></p></td>
+<td><p>39個</p></td>
+<td><p>1973年10月20日</p></td>
+</tr>
+<tr class="odd">
+<td><p>單場最多防守籃板</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/波士頓塞爾提克" title="wikilink">波士頓塞爾提克</a></p></td>
+<td><p>61個</p></td>
+<td><p>1974年3月17日</p></td>
 </tr>
 <tr class="even">
 <td><p>單場单隊最多助攻</p></td>
@@ -3248,80 +3283,74 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>單賽季例行賽最高勝率隊伍</p></td>
-<td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
-<td><p>0.890</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2015-16_NBA賽季" title="wikilink">2015-16 NBA賽季</a></p></td>
-</tr>
-<tr class="even">
 <td><p>單賽季例行賽和季後賽敗場數相同</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>常规赛73-9，季後賽15-9</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2015-16_NBA賽季" title="wikilink">2015-16 NBA賽季</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>單賽季例行賽和季後賽最佳戰績</p></td>
 <td><p><a href="../Page/芝加哥公牛.md" title="wikilink">芝加哥公牛</a></p></td>
 <td><p>單賽季87-13，勝率.870</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/1995-96_NBA賽季" title="wikilink">1995-96 NBA賽季</a>[4]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1995-96_NBA賽季" title="wikilink">1995-96 NBA賽季</a>[3]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>累積最多技術犯規的球員</p></td>
 <td><p><a href="../Page/拉希德·华莱士.md" title="wikilink">拉希德·华莱士</a></p></td>
 <td><p>317次</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>單季同時獲得得分王和年度最佳防守隊員</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/麥可·喬丹" title="wikilink">麥可·喬丹</a></p></td>
 <td><p>1次</p></td>
 <td><p>1988年</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>最多支球隊獲得冠軍戒</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/约翰·塞利" title="wikilink">约翰·塞利</a><br />
 <a href="https://zh.wikipedia.org/wiki/羅伯特·霍里" title="wikilink">羅伯特·霍里</a></p></td>
 <td><p>3支</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>生涯最多冠軍戒</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/比爾·拉塞尔" title="wikilink">比爾·拉塞尔</a></p></td>
 <td><p>11枚</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>球員連續場次得分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/蒂姆·鄧肯" title="wikilink">蒂姆·鄧肯</a></p></td>
 <td><p>1359場</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>連續球季單支球隊六成以上勝率球員</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/蒂姆·鄧肯" title="wikilink">蒂姆·鄧肯</a></p></td>
 <td><p>19季</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>球員教練同隊千勝</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/蒂姆·鄧肯" title="wikilink">蒂姆·鄧肯</a><br />
 <a href="https://zh.wikipedia.org/wiki/格雷格·波波維奇" title="wikilink">格雷格·波波維奇</a></p></td>
 <td><p>1001勝</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>單支球隊千勝球員</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/蒂姆·鄧肯" title="wikilink">蒂姆·鄧肯</a></p></td>
 <td><p>1001勝</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>例行賽最多勝球員</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿布都·賈霸" title="wikilink">卡里姆·阿布都·賈霸</a></p></td>
 <td><p>1074勝</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>生涯最多勝場的三人组</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/蒂姆·邓肯" title="wikilink">蒂姆·邓肯</a><br />
 <a href="../Page/托尼·帕克.md" title="wikilink">托尼·帕克</a><br />
@@ -3329,43 +3358,43 @@
 <td><p>575场</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>最多連續在同隊打入季後賽教練</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/格雷格·波波維奇" title="wikilink">格雷格·波波維奇</a></p></td>
 <td><p>22季</p></td>
 <td><p>1997-19年賽季</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>单赛季球员报销数最多的球队</p></td>
 <td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>9位球员报销</p></td>
 <td><p>2014-15年赛季</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>单赛季常规赛国际球员数最多的球队</p></td>
 <td><p><a href="../Page/圣安东尼奥马刺.md" title="wikilink">圣安东尼奥马刺</a></p></td>
 <td><p>10位国际球员</p></td>
 <td><p>2013-14年赛季</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>单赛季季后赛国际球员数最多的球队</p></td>
 <td><p><a href="../Page/圣安东尼奥马刺.md" title="wikilink">圣安东尼奥马刺</a></p></td>
 <td><p>9位国际球员</p></td>
 <td><p>2014-15年赛季</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>總冠軍賽前3戰最高總分</p></td>
 <td><p><a href="../Page/勒布朗·詹姆斯.md" title="wikilink">勒布朗·詹姆斯</a></p></td>
 <td><p>123分</p></td>
 <td><p>2015年</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>季賽前2戰最高總分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/安東尼·戴維斯" title="wikilink">安東尼·戴維斯</a></p></td>
 <td><p>95分</p></td>
 <td><p>2016年</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>季賽前3戰最高總分</p></td>
 <td><p><a href="../Page/迈克尔·乔丹.md" title="wikilink">迈克尔·乔丹</a><br />
 <a href="../Page/威尔特·张伯伦.md" title="wikilink">威尔特·张伯伦</a></p></td>
@@ -3373,25 +3402,25 @@
 <td><p>1986年<br />
 1965年</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>季賽前5戰最高總分</p></td>
 <td><p><a href="../Page/迈克尔·乔丹.md" title="wikilink">迈克尔·乔丹</a></p></td>
 <td><p>182分</p></td>
 <td><p>1991年</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>總冠軍賽第7戰大三元</p></td>
 <td><p><a href="../Page/勒布朗·詹姆斯.md" title="wikilink">勒布朗·詹姆斯</a></p></td>
 <td><p>27-11-11</p></td>
 <td><p>2016年總冠軍賽</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>總冠軍賽前2戰最大勝分</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>48分</p></td>
 <td><p>2016年總冠軍賽</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>單季雙位數大三元</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/拉塞尔·威斯布鲁克" title="wikilink">拉塞尔·威斯布鲁克</a><br />
 <a href="https://zh.wikipedia.org/wiki/奧斯卡·羅伯森" title="wikilink">奧斯卡·羅伯森</a><br />
@@ -3402,19 +3431,19 @@
 <td><p>10場以上</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>史上首位投籃罰球全中大三元</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/拉塞尔·威斯布鲁克" title="wikilink">拉塞尔·威斯布鲁克</a></p></td>
 <td><p>6投6中,6罰6中</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17 NBA賽季</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>NBA單季大三元場次</p></td>
 <td></td>
 <td><p>90場</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17 NBA賽季</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>開季兩個月均大三元</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/拉塞尔·威斯布鲁克" title="wikilink">拉塞尔·威斯布鲁克</a><br />
 <a href="https://zh.wikipedia.org/wiki/奧斯卡·羅伯森" title="wikilink">奧斯卡·羅伯森</a></p></td>
@@ -3423,77 +3452,83 @@
 <td><p>31.2分11.3助攻10.5籃板<br />
 30.8分11.4助攻12.5籃板</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>季賽最高得分大三元</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/詹姆斯·哈登" title="wikilink">詹姆斯·哈登</a></p></td>
 <td><p>60分,10籃板,11助攻</p></td>
 <td><p><a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18 NBA賽季</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>季後賽40分大三元</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/拉塞尔·威斯布鲁克" title="wikilink">拉塞尔·威斯布鲁克</a></p></td>
 <td><p>51分,10籃板,13助攻</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17 NBA賽季</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>史上神奇大三雙</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/威爾特·張伯倫" title="wikilink">威爾特·張伯倫</a>，<a href="https://zh.wikipedia.org/wiki/拉塞尔·威斯布鲁克" title="wikilink">拉塞尔·威斯布鲁克</a></p></td>
 <td><p>22分.25籃板.21助攻，20分.21助攻.20籃板</p></td>
 <td><p><a href="../Page/1967-68_NBA賽季.md" title="wikilink">1967-68 NBA賽季</a>，<a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19 NBA賽季</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>最大冷門勝率比賽（至少出賽50場）</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a>&amp;<a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a></p></td>
 <td><p>0.917（55勝）vs. 0.190（12勝）--差0.727</p></td>
 <td><p>2016年3月6日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>對戰最高勝率和平均（至少出賽50場）</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a>&amp;<a href="https://zh.wikipedia.org/wiki/聖安東尼奧馬刺" title="wikilink">聖安東尼奧馬刺</a></p></td>
 <td><p>0.912（62勝）vs. 0.853（58勝）--平均0.882</p></td>
 <td><p>2016年3月19日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>對戰最大勝率差（至少出賽50場）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/費城76人" title="wikilink">費城76人</a>&amp;<a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>0.123（9勝）vs. 0.902（65勝）--相差0.779</p></td>
 <td><p>2016年3月27日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>季後賽連續2場都投進7記3分球</p></td>
 <td><p><a href="../Page/克雷·湯普森.md" title="wikilink">克雷·湯普森</a></p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>2016年</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>先發300戰235勝</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/科懷·倫納德" title="wikilink">科懷·倫納德</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/聖安東尼奧馬刺" title="wikilink">聖安東尼奧馬刺</a></p></td>
 <td><p>2016年</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/NBA.md" title="wikilink">NBA</a>30隊同一天都有比賽(一天有15場比賽)</p></td>
 <td></td>
 <td></td>
 <td><p>2016年11月25日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>總冠軍賽同隊同場比賽同時有兩位球員得分超過40分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/凱里·厄文" title="wikilink">凱里·厄文</a>、<a href="../Page/勒布朗·詹姆斯.md" title="wikilink">勒布朗·詹姆斯</a></p></td>
 <td><p>兩人皆為41分</p></td>
 <td><p>2016年6月14日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>簽約記錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/拉塞尔·威斯布鲁克" title="wikilink">拉塞尔·威斯布鲁克</a></p></td>
 <td><p>5年2億700萬美元(63.8億台幣)</p></td>
 <td><p>2018-2023</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>單季轟29隊得分逾30分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/詹姆斯·哈登" title="wikilink">詹姆斯·哈登</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19 NBA賽季</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>史上首位對不同球隊都拿到大三元的球員</p></td>
+<td><p><a href="../Page/勒布朗·詹姆斯.md" title="wikilink">勒布朗·詹姆斯</a></p></td>
+<td><p>30隊</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -3510,5 +3545,4 @@
 
 1.
 2.
-3.
-4.  季後賽首輪採5戰3勝制
+3.  季後賽首輪採5戰3勝制

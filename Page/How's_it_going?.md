@@ -1,7 +1,4 @@
-**How's it
-going?**是[嵐的第](../Page/嵐.md "wikilink")4枚專輯，第3枚原創專輯。於2003年7月9日發行。唱片公司為[J
-Storm](../Page/J_Storm.md "wikilink")。初回生產限定盤與通常盤的封套不一樣。初回生產限定盤附送特別小冊子。以本專輯收錄曲構成的2003年夏天巡迴「How's
-it going? Tour」亦被拍攝成DVD發售。
+**How's it going?**是[嵐](../Page/嵐.md "wikilink")的第4枚專輯，第3枚原創專輯。於2003年7月9日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。初回生產限定盤與通常盤的封套不一樣。初回生產限定盤附送特別小冊子。以本專輯收錄曲構成的2003年夏天巡迴「How's it going? Tour」亦被拍攝成DVD發售。
 
 ## 收錄曲
 
@@ -33,10 +30,9 @@ it going? Tour」亦被拍攝成DVD發售。
     （作詞：久保田洋司　作曲・編曲：Face 2 fAKE）
 13. **用怎樣的言語**（）
     （作詞・作曲・編曲：荒木真樹彦）
-14. **[PIKA☆NCHI](../Page/PIKANCHI.md "wikilink") （album version）**
+14. **[PIKA☆NCHI](https://zh.wikipedia.org/wiki/PIKANCHI "wikilink") （album version）**
     （作詞：相田毅　作曲：谷本新　編曲：CHOKKAKU）
       -
         9th單曲
 
-[Category:嵐的專輯](https://zh.wikipedia.org/wiki/Category:嵐的專輯 "wikilink")
-[Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")
+[Category:嵐的專輯](https://zh.wikipedia.org/wiki/Category:嵐的專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")

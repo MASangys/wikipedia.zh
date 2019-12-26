@@ -205,44 +205,27 @@ Libav跳槽之後有一定程度上更改FFmpeg的指令\[24\]。
 [Category:C函式庫](https://zh.wikipedia.org/wiki/Category:C函式庫 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:多媒體](https://zh.wikipedia.org/wiki/Category:多媒體 "wikilink") [Category:多媒体框架](https://zh.wikipedia.org/wiki/Category:多媒体框架 "wikilink")
 
 1.  [FFmpeg Documentation](http://ffmpeg.org/ffmpeg-doc.html)
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
 8.
 9.
-
 10.
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
 22. [FFmpeg發生政變-中國開源社區](http://www.oschina.net/news/14887/FFmpeg-turmoil)
-
 23. [Debian Bug Tracker](http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=624807)
-
 24. <http://libav.org/news.html#fftools_rename>
-
 25. [FFmpeg开发者接受采访 - 开源中国社区](http://www.oschina.net/news/953)

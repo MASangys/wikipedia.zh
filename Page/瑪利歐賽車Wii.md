@@ -98,7 +98,7 @@ GBA Bowser Castle</p></td>
 DS Peach Gardens</p></td>
 </tr>
 <tr class="odd">
-<td><p>SFC鬼怪沼澤2<br />
+<td><p>SFC幽靈沼澤2<br />
 SNES Ghost Valley 2</p></td>
 <td><p>DS蒙特小鎮<br />
 DS Delfino Square</p></td>

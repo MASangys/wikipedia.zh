@@ -8,78 +8,73 @@
 
 [Mac_USB_Connector.jpg](https://zh.wikipedia.org/wiki/File:Mac_USB_Connector.jpg "fig:Mac_USB_Connector.jpg") [USB_Type_B_Plug_2.jpg](https://zh.wikipedia.org/wiki/File:USB_Type_B_Plug_2.jpg "fig:USB_Type_B_Plug_2.jpg")做对照\]\] [USB_hub.jpg](https://zh.wikipedia.org/wiki/File:USB_hub.jpg "fig:USB_hub.jpg") USB最初是由[英特尔](../Page/英特尔.md "wikilink")与[微软](../Page/微软.md "wikilink")倡導發起，最大的特点是尽可能得实现[热插拔和](https://zh.wikipedia.org/wiki/热插拔 "wikilink")[即插即用](https://zh.wikipedia.org/wiki/即插即用 "wikilink")。当设备插入时，主机[枚举](../Page/枚举.md "wikilink")到此设备并加载所需的[驱动程序](../Page/驱动程序.md "wikilink")，因此其在使用上远比[PCI和](../Page/外设组件互连标准.md "wikilink")[ISA等总线方便](../Page/工业标准结构.md "wikilink")。
 
-USB在速度上远比[并行端口](../Page/并行端口.md "wikilink")（例如EPP、LPT）與[串行接口](https://zh.wikipedia.org/wiki/串行接口 "wikilink")（例如RS-232）等傳統電腦用標準匯流排快上許多。USB 1.1（USB 2.0 FullSpeed）的最大傳輸速率為12Mbps，USB 2.0（USB 2.0 HiSpeed）為480Mbps，USB 3.0（USB 3.2 Gen1x1） 為 5Gbps，USB 3.1（USB 3.2 Gen2x1） 為 10Gbps，而USB 3.2（USB 3.2 Gen2x2）更达20Gbps。
+USB在速度上远比[并行端口](../Page/并行端口.md "wikilink")（例如EPP、LPT）與[串行接口](https://zh.wikipedia.org/wiki/串行接口 "wikilink")（例如RS-232）等傳統電腦用標準匯流排快上許多。USB 1.1（USB 2.0 FullSpeed）的最大傳輸速率為12Mbps，USB 2.0（USB 2.0 HiSpeed）為480Mbps，USB 3.0（USB 3.2 Gen1） 為 5Gbps，USB 3.1（USB 3.2 Gen2x1） 為 10Gbps，而USB 3.2（USB 3.2 Gen2x2）更达20Gbps。
 
 USB的设计为[非对称式的](https://zh.wikipedia.org/wiki/非对称式 "wikilink")，它由一个[主机控制器和若干通过](https://zh.wikipedia.org/wiki/主机 "wikilink")[集线器设备以树形连接的](https://zh.wikipedia.org/wiki/集线器 "wikilink")[设备组成](https://zh.wikipedia.org/wiki/设备 "wikilink")。一个控制器下最多可以有5级Hub，包括Hub在内，最多可以連接128個設備，因為在設計時是使用7位元[定址欄位](https://zh.wikipedia.org/wiki/定址欄位 "wikilink")，二的七次方就等於128，一般人說USB連接127個是指連接（某一設備）時需扣除一個連接主機的USB接頭，而一台计算机可以同时有多个控制器。和[SPI](../Page/序列周邊介面.md "wikilink")-[SCSI等标准不同](https://zh.wikipedia.org/wiki/SCSI "wikilink")，USB集线器不需要终结器。
 
 USB可以连接的[外设有](https://zh.wikipedia.org/wiki/外设 "wikilink")[鼠标](../Page/鼠标.md "wikilink")、[键盘](https://zh.wikipedia.org/wiki/键盘 "wikilink")、[游戏手柄](https://zh.wikipedia.org/wiki/游戏手柄 "wikilink")、[游戏杆](https://zh.wikipedia.org/wiki/游戏杆 "wikilink")、[扫描仪](https://zh.wikipedia.org/wiki/扫描仪 "wikilink")、[数码相机](../Page/数码相机.md "wikilink")、[打印机](../Page/打印机.md "wikilink")、[硬盘](../Page/硬盘.md "wikilink")和[网络等部件](https://zh.wikipedia.org/wiki/网络 "wikilink")。对数码相机这样的多媒体外设USB已经是缺省接口；由于大大简化与计算机的连接，USB也逐步取代[并行接口成为打印机的主流连接方式之一](https://zh.wikipedia.org/wiki/并行接口 "wikilink")。2004年已经有超过1亿台USB设备；到2007年時，高清晰度数字视频外设是仅有的USB未能染指的外设类别，因为他需要更高的传输速率，不過USB3.1和2019年USB4的問世，高解析度數位影片外設和外接式顯示卡也能在USB播放。
 
-现USB标准中，按照速度等级和连接方式分为以下七种版本。注意USB-IF正式的主版本号只有USB 2.0和USB 3.2两个。
+现USB标准中，按照速度等级和连接方式分为以下七种版本。注意USB-IF目前正式的主版本号只有USB 2.0和USB 3.2两个。
 
 <table>
 <thead>
 <tr class="header">
 <th><p>USB版本</p></th>
-<th><p>USB<strong>标志</strong></p></th>
+<th><p><strong>标志</strong></p></th>
 <th><p>傳輸速率</p></th>
 <th><p>理論速度</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>官方版本</p></td>
+<td><p>目前官方版本名</p></td>
 <td><p>官方市场代号</p></td>
-<td><p>市场俗称</p></td>
+<td><p>原名</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>USB 3.2</p></td>
 <td><p>Gen 2x2</p></td>
-<td><p>超高速+<br />
-SuperSpeed+</p></td>
+<td><p>超高速USB 20Gbps<br />
+SuperSpeed USB 20Gbps</p></td>
 <td><p>USB 3.2</p></td>
 </tr>
 <tr class="odd">
 <td><p>Gen 2x1</p></td>
+<td><p>超高速USB 10Gbps<br />
+SuperSpeed USB 10Gbps</p></td>
+<td><p>USB 3.1</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Certified_SuperSpeed_Plus_USB_Logo.svg" title="fig:Certified_SuperSpeed_Plus_USB_Logo.svg">Certified_SuperSpeed_Plus_USB_Logo.svg</a></p></td>
-<td><p>10Gbps</p></td>
-<td><p>1280MB/s</p></td>
 </tr>
 <tr class="even">
-<td><p>Gen 1x2</p></td>
-<td><p>USB 3.1</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Gen 1x1</p></td>
-<td><p>超高速<br />
-SuperSpeed</p></td>
+<td><p>Gen 1</p></td>
+<td><p>超高速USB<br />
+SuperSpeed USB</p></td>
 <td><p>USB 3.0</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:SuperSpeed_USB.svg" title="fig:SuperSpeed_USB.svg">SuperSpeed_USB.svg</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>USB 2.0</p></td>
 <td><p>HiSpeed</p></td>
 <td><p>高速<br />
 Hi-Speed</p></td>
 <td><p>USB 2.0</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>FullSpeed</p></td>
 <td><p>全速<br />
 Full Speed</p></td>
 <td><p>USB 1.1</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Certified_USB.svg" title="fig:Certified_USB.svg">Certified_USB.svg</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>LowSpeed</p></td>
 <td><p>低速<br />
 Low Speed</p></td>
 <td><p>USB 1.0</p></td>
 <td><p>1.5Mbps</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -90,11 +85,11 @@ Low Speed</p></td>
 
 ### 标准
 
-[USB实装论坛负责USB标准制订](https://zh.wikipedia.org/wiki/USB-IF "wikilink")，其成员包括：[苹果电脑](https://zh.wikipedia.org/wiki/苹果电脑 "wikilink")、[惠普](../Page/惠普.md "wikilink")、[NEC](https://zh.wikipedia.org/wiki/NEC "wikilink")、[微软](../Page/微软.md "wikilink")和[英特尔](../Page/英特尔.md "wikilink")。
+[USB开发者论坛负责USB标准制订](https://zh.wikipedia.org/wiki/USB-IF "wikilink")，其成员包括：[苹果电脑](https://zh.wikipedia.org/wiki/苹果电脑 "wikilink")、[惠普](../Page/惠普.md "wikilink")、[NEC](https://zh.wikipedia.org/wiki/NEC "wikilink")、[微软](../Page/微软.md "wikilink")和[英特尔](../Page/英特尔.md "wikilink")。
 
 2001年底，公布规范，与之前的、和一样，该规范完全[向下兼容](../Page/向下兼容.md "wikilink")。随后，公布（，当前版本：）作为规范的补充标准，使其能够用于在便携设备之间直接交换数据。
 
-USB的连接器分为A、B两种，分别用于主机和设备；其各自的小型化的连接器是,  和 , ，另外还有（可同時支援及）的插口。USB 3.1版本中引入了支持正反面不区分插入的[C型](../Page/USB_Type-C.md "wikilink")。
+USB的连接器分为A、B两种，分别用于主机和设备；其各自的小型化的连接器是,  和 , ，另外还有（可同時支持及）的插口。USB 3.1版本中引入了支持正反面不区分插入的[C型](../Page/USB_Type-C.md "wikilink")。
 
 ## 技术细节
 
@@ -848,65 +843,60 @@ USB没有完全取代[AT键盘接口和](https://zh.wikipedia.org/wiki/AT键盘�
 
 ### USB 1.0
 
-USB 1.0：1996年1月發布。
-數據傳輸速率為1.5Mbit/s(Low-Speed)。無預測及通過檢測功能。僅極少數出現在市場上。
+1996年1月發布，數據傳輸速率為1.5Mbit/s(Low-Speed)。無預測及通過檢測功能。僅極少數出現在市場上。
 
 ### USB 1.1
 
-USB 1.1：1998年9月发布。
-修正1.0版已發現的問題，大部分是關於USB Hubs。最早被采用的修订版。數據傳輸速率為12Mbit/s（Full-Speed）。
+1998年9月发布，修正1.0版已發現的問題，大部分是關於USB Hubs。最早被采用的修订版。數據傳輸速率為12Mbit/s（Full-Speed）。
 
 ### USB 2.0
 
 [Certified_Hi-Speed_USB.svg](https://zh.wikipedia.org/wiki/File:Certified_Hi-Speed_USB.svg "fig:Certified_Hi-Speed_USB.svg")
 
-  - USB 2.0：2000年4月发布。
-    增加更高的數據傳輸速率480Mbit/s（现在称作Hi-Speed），但受限于BOT传输协议和NRZI编码方式，实际最高传输速度只有35MByte/s左右。USB 2.0中最重要规范的ECN可以在[USB.org](http://www.USB.org)查到：
-      - Mini-A和Mini-B Connector ECN：2000年10月发布。
-        规范Mini-A和Mini-B的插头及插座标准。注意不要与Micro-B插头及插座混淆。
+  - USB 2.0：2000年4月发布。增加更高的數據傳輸速率480Mbit/s（现在称作Hi-Speed），但受限于BOT传输协议和NRZI编码方式，实际最高传输速度只有35MByte/s左右。USB 2.0中最重要规范的ECN可以在[USB.org](http://www.USB.org)查到：
+      - Mini-A和Mini-B Connector ECN：2000年10月发布。规范Mini-A和Mini-B的插头及插座标准。注意不要与Micro-B插头及插座混淆。
       - Errata as of December 2000：2000年12月发布。
       - Pull-up/Pull-down Resistors ECN：2002年5月发布。
       - Errata as of May 2002：2002年5月发布。
-      - Interface Associations ECN：2003年5月发布。
-        添加新的描述符以便将多重接口关联在在单一设备功能中。
-      - Rounded Chamfer ECN：2003年10月发布。
-        一项针对Mini-B接口坚固性的建议性、兼容性改进。
-      - Unicode ECN：2005年2月发布。
-        这项ECN指定了字串可以使用[UTF-16LE编码](https://zh.wikipedia.org/wiki/UTF-16LE "wikilink")。USB 2.0曾指定可以使用[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")，但没有指定编码。
+      - Interface Associations ECN：2003年5月发布。添加新的描述符以便将多重接口关联在在单一设备功能中。
+      - Rounded Chamfer ECN：2003年10月发布。一项针对Mini-B接口坚固性的建议性、兼容性改进。
+      - Unicode ECN：2005年2月发布。这项ECN指定了字串可以使用[UTF-16LE编码](https://zh.wikipedia.org/wiki/UTF-16LE "wikilink")。USB 2.0曾指定可以使用[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")，但没有指定编码。
       - Inter-Chip USB Supplement：2006年3月发布。
-      - On-The-Go Supplement 1.3：2006年12月发布。
-        USB直连（[USB On-The-Go](../Page/USB_On-The-Go.md "wikilink")）允许两个USb设备不经独立USB主机端直接相互通讯。实际使用中，是其中一个USB设备作为其它设备的主机端。
-      - Battery Charging Specification 1.0：2007年3月发布。
-        添加对充电器（有USB接口的电源适配器）的支持，当供电端（作为充电器的USB主端口）和电池连接时，它允许瞬间通过100 mA的电流。如果一个USB设备连接到专用充电器或主端口时，最大瞬间电流可达1.5 A。（该文档并未包含在USB 2.0规范中。）
+      - On-The-Go Supplement 1.3：2006年12月发布。USB直连（[USB On-The-Go](../Page/USB_On-The-Go.md "wikilink")）允许两个USb设备不经独立USB主机端直接相互通讯。实际使用中，是其中一个USB设备作为其它设备的主机端。
+      - Battery Charging Specification 1.0：2007年3月发布。添加对充电器（有USB接口的电源适配器）的支持，当供电端（作为充电器的USB主端口）和电池连接时，它允许瞬间通过100 mA的电流。如果一个USB设备连接到专用充电器或主端口时，最大瞬间电流可达1.5 A。（该文档并未包含在USB 2.0规范中。）
       - Micro-USB Cables and Connectors Specification 1.01：2007年4月发布。
-      - Link Power Management Addendum ECN：2007年7月释出。
-        在启用与待机间增加新的电源模式。当设备处于这个模式时不向其发送指令以减少电源消耗。所以，在启用及睡眠模式间切换要比在启用及待机模式间切换快得多。
+      - Link Power Management Addendum ECN：2007年7月释出。在启用与待机间增加新的电源模式。当设备处于这个模式时不向其发送指令以减少电源消耗。所以，在启用及睡眠模式间切换要比在启用及待机模式间切换快得多。
       - High-Speed Inter-Chip USB Electrical Specification Revision 1.0：2007年9月发布。
 
 ### USB 3.0（USB 3.1 Gen1）（USB 3.2 Gen1）
 
 [SuperSpeed_USB.svg](https://zh.wikipedia.org/wiki/File:SuperSpeed_USB.svg "fig:SuperSpeed_USB.svg")  USB 3.0於2008年11月發布，速度由480Mbps大幅提升到5Gbps。USB 3.0插座通常是藍色的，並向下兼容USB 2.0。
 
-### USB 3.1（USB 3.1 Gen2）（USB 3.2 Gen2）
+### USB 3.1（USB 3.1 Gen2）（USB 3.2 Gen2x1）
 
 [Certified_SuperSpeed_Plus_USB_Logo.svg](https://zh.wikipedia.org/wiki/File:Certified_SuperSpeed_Plus_USB_Logo.svg "fig:Certified_SuperSpeed_Plus_USB_Logo.svg")  USB3.0推廣小組於2013年7月31日宣佈USB 3.1規格\[21\]，傳輸速度提升為10Gb/s，比USB3.0的5Gb/s快上一倍，並向下兼容USB 2.0/1.0，如果要得到10Gb/s的傳輸速度仍需在主機、目標端同時具備對應的晶片才能達成，電力供應可高達100瓦。\[22\]
 
 ### USB 3.2（USB 3.2 Gen2x2）
 
 USB 3.2的主要技術要點：
-1，在現有的USB Type-C數據線上實現雙通道
-2，繼續使用現有的超高速USB物理傳輸率和技術
-3，一些小的規範更新，確保單雙通道無縫切換。
+
+  - 在現有的USB Type-C數據線上實現雙通道
+  - 繼續使用現有的超高速USB物理傳輸率和技術
+  - 一些小的規範更新，確保單雙通道無縫切換。
 
 速度方面，使用USB 3.2主機連接USB 3.2儲存設備，可以實現兩條通道10Gb/s的傳輸速度，理論上也就是相當接近於20Gb/s。
 
 據悉，USB 3.2因為要求集成USB 2.0和USB 3.1主控，所以完全向下兼容。另外，從USB 3.2開始，Type-C將成為唯一推薦的接口方案。
 
+#### USB 3.2 Gen 1x2
+
+USB 3.0（USB 3.2 Gen1）的双通道模式，速度可达10Gbps（每条通道5Gbps）。
+
 ### USB 4
 
-USB 4的規格目前尚未确定，但是已有開發公司先行宣布：\[23\]
+USB 4于2019年9月3日发布。\[23\]
 
-採用Thunderbolt協定規格，使Thunderbolt 3裝置將能相容於USB 4，現有3.2及2.0也向下兼容。
+採用[Thunderbolt](../Page/Thunderbolt.md "wikilink") 3協定規格，使Thunderbolt 3裝置將能相容於USB 4，現有3.2及2.0也向下兼容。\[24\]
 
 速度方面加倍來到兩條通道總共40Gb / s的傳輸速度。
 
@@ -929,7 +919,7 @@ USB Power Delivery是[USB開發者論壇](../Page/USB開發者論壇.md "wikilin
 ### 無線通用序列匯流排
 
   -
-    正在开发中的一种无线数据传输标准。\[24\]设计标准：在3米内达到480Mbp的传输速率，在10米内达到110Mbps的传输速率。
+    正在开发中的一种无线数据传输标准。\[25\]设计标准：在3米内达到480Mbp的传输速率，在10米内达到110Mbps的传输速率。
 
 ## 参考文献
 
@@ -967,20 +957,13 @@ USB Power Delivery是[USB開發者論壇](../Page/USB開發者論壇.md "wikilin
 [Category:计算机总线](https://zh.wikipedia.org/wiki/Category:计算机总线 "wikilink") [Category:USB](https://zh.wikipedia.org/wiki/Category:USB "wikilink")
 
 1.
-
 2.  [360奇酷9V/5V 2A双头正反插快充USB数据线](http://item.jd.com/2859961.html)鮮有的可以正反插的USB Type-A以及USB Micro-B
-
 3.
-
 4.  [OMTP Local Connectivity: Data Connectivity](http://www.omtp.org/Publications/Display.aspx?Id=a9dd86d0-d9a6-4a47-81f8-4da8c402d1e7) at omtp.org
-
 5.  [USB.org對於BOT與UASP傳輸協定的解釋](http://www.usb.org/developers/presentations/pres0410/2-4_SSUSB_DevCon_UASP_Stevens.pdf)
-
 6.  [T客邦對UASP的解釋與產品測試報告](http://www.techbang.com/posts/12535-windows-8-support-catalytic-usb-3-is-more-popular)
-
 7.
 8.  PC硬體介面徹底研究ISBN 957-442-275-5
-
 9.
 10.
 11.
@@ -992,13 +975,9 @@ USB Power Delivery是[USB開發者論壇](../Page/USB開發者論壇.md "wikilin
 17.
 18.
 19.
-
 20. [》Android系統　播放器 - PChome線上購物](http://shopping.pchome.com.tw/?mod=store&func=style_show&SR_NO=DMAA3Z)
-
 21. [USB IF應用者論壇於2013/7/31發布新聞稿，宣布USB 3.1規格。](http://www.usb.org/press/USB-IF_Press_Releases/SuperSpeedUSB_10Gbps_Available_20130731.pdf)
-
 22. [2013/04/10 USB應用者論壇中，主席兼首席營運官Jeff Ravencraft表示，USB 3.1的電力供應可達到100瓦。](http://www.usb.org/press/presskit/USBIF_MomentumPR_IDF2013_FINAL_translated.pdf)
-
 23.
-
 24.
+25.

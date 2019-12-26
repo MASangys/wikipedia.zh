@@ -76,6 +76,7 @@ Red Hat Enterprise Linux 大約 3 年发布一个新版本。
       - 7.7，即Update 7, 2019-08-06 ([發佈](https://access.redhat.com/site/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/7.7_Release_Notes/index.html))
   - Red Hat Enterprise Linux 8, 2019-05-07。Linux内核版本4.18
       - 8.0，為Red Hat Enterprise Linux 8的第一個版本([發佈](https://access.redhat.com/site/documentation/en-US/Red_Hat_Enterprise_Linux/8/html/8.0_Release_Notes/index.html))。
+      - 8.1，即Update 1, 2019-11-05 ([發佈](https://access.redhat.com/site/documentation/en-US/Red_Hat_Enterprise_Linux/8/html/8.1_Release_Notes/index.html))
 
 ## 衍生版本
 

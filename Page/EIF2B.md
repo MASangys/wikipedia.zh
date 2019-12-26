@@ -31,12 +31,8 @@ eIF2B的五个亚基基因的[常染色体遗传性隐性突变会导致白质�
 [Category:蛋白质生物合成](https://zh.wikipedia.org/wiki/Category:蛋白质生物合成 "wikilink") [Category:蛋白质复合物](https://zh.wikipedia.org/wiki/Category:蛋白质复合物 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.

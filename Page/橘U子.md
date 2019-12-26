@@ -84,6 +84,12 @@
   - [三次元女友 REAL GIRL](https://zh.wikipedia.org/wiki/三次元女友 "wikilink")（筒井紀江）
   - [傀儡馬戲團](https://zh.wikipedia.org/wiki/傀儡馬戲團 "wikilink")（加納）
 
+**2019年**
+
+  - [COP CRAFT](../Page/COP_CRAFT.md "wikilink")（SM女王、奧莉薇）
+  - [普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？](../Page/普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？.md "wikilink")（波奇的媽媽）
+  - [小書痴的下剋上](../Page/小書痴的下剋上.md "wikilink")：為了成為圖書管理員不擇手段！（卡露拉）
+
 ### 劇場版動畫
 
   - [ONE PIECE 沙漠的王女與海賊們](../Page/ONE_PIECE.md "wikilink")（Miss Double Fingers）

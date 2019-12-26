@@ -713,32 +713,18 @@ Mr.的大部分作品均由譚健文或[譚傑明填詞](https://zh.wikipedia.or
 [Category:香港搖滾樂團](https://zh.wikipedia.org/wiki/Category:香港搖滾樂團 "wikilink") [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:Mr.](https://zh.wikipedia.org/wiki/Category:Mr. "wikilink") [Category:叱咤樂壇我最喜愛的歌曲得主](https://zh.wikipedia.org/wiki/Category:叱咤樂壇我最喜愛的歌曲得主 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.

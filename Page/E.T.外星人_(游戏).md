@@ -14,7 +14,7 @@
 
 ## 开发历程
 
-由于1982年电影《[E.T.外星人](../Page/E.T.外星人.md "wikilink")》大获成功，雅达利公司的[母公司](https://zh.wikipedia.org/wiki/母公司 "wikilink")[时代华纳](https://zh.wikipedia.org/wiki/时代华纳 "wikilink")[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")[史蒂夫·罗斯](https://zh.wikipedia.org/wiki/史蒂夫·罗斯 "wikilink")（Steve Ross）开始与[史蒂芬·史匹柏与](https://zh.wikipedia.org/wiki/史蒂芬·史匹柏 "wikilink")[环球影业](../Page/环球影业.md "wikilink")交涉开发同名游戏。同年7月底，时代华纳宣布已经获得就上述电影开发[街机](../Page/街机.md "wikilink")及[家用机游戏的排他性权利](https://zh.wikipedia.org/wiki/家用机 "wikilink")。\[3\]虽然上述声明中没有透露授权细节，但多有报道称雅达利为了获得游戏开发权而向环球影业支付了约2000-2500万美元，在当时这是一个不寻常的高价。\[4\]\[5\]当罗斯询问雅达利的CEO[雷·卡萨](https://zh.wikipedia.org/wiki/雷·卡萨 "wikilink")（Ray Kassar）本作的制作理念时，后者回应道：“这是个馊主意，我们怎可能将电影改成动作游戏（I think it's a dumb idea. We've never really made an action game out of a movie）”。\[6\]但最后卡萨的意见未获重视，华纳购得了游戏的改编权。
+由于1982年电影《[E.T.外星人](../Page/E.T.外星人.md "wikilink")》大获成功，雅达利公司的[母公司](https://zh.wikipedia.org/wiki/母公司 "wikilink")[时代华纳](https://zh.wikipedia.org/wiki/时代华纳 "wikilink")[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")[史蒂夫·罗斯](https://zh.wikipedia.org/wiki/史蒂夫·罗斯 "wikilink")（Steve Ross）开始与[史蒂芬·史匹柏与](https://zh.wikipedia.org/wiki/史蒂芬·史匹柏 "wikilink")[环球影业](../Page/环球影业.md "wikilink")交涉开发同名游戏。同年7月底，时代华纳宣布已经获得就上述电影开发[街机](../Page/街机.md "wikilink")及[家用机游戏的排他性权利](https://zh.wikipedia.org/wiki/家用机 "wikilink")。\[3\]虽然上述声明中没有透露授权细节，但多有报道称雅达利为了获得游戏开发权而向环球影业支付了约2000-2500万美元（計入通貨膨脹後，2019年幣值約$5200萬至6500万美元），在当时这是一个不寻常的高价。\[4\]\[5\]当罗斯询问雅达利的CEO[雷·卡萨](https://zh.wikipedia.org/wiki/雷·卡萨 "wikilink")（Ray Kassar）本作的制作理念时，后者回应道：“这是个馊主意，我们怎可能将电影改成动作游戏（I think it's a dumb idea. We've never really made an action game out of a movie）”。\[6\]但最后卡萨的意见未获重视，华纳购得了游戏的改编权。
 
 本作的关卡设计及编程任务被交予[霍华德·斯科特·华沙](https://zh.wikipedia.org/wiki/霍华德·斯科特·华沙 "wikilink")（Howard Scott Warshaw），史匹堡久闻他成功将电影《[夺宝奇兵](../Page/夺宝奇兵.md "wikilink")》改编游戏的美名而特别指名由他担当重任。\[7\]由于此前关于游戏改编权的谈判占用大量时间，而游戏必须赶在[圣诞节](../Page/圣诞节.md "wikilink")档期上市，实际上留给华沙进行开发的时间只剩六星期。相比之下，同样由华沙负责设计的经典游戏《[Yars' Revenge](https://zh.wikipedia.org/wiki/Yars'_Revenge "wikilink")》花了四到五个月方才完成，而《夺宝奇兵》则用了六七个月。一部基于E.T.电影的街机游戏也被提上日程，但鉴于时间紧迫而被认定为难以完成。华沙接受了任命，并据报获得了20万美元和一次免费[夏威夷假期作为回报](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")。\[8\]
 
@@ -54,7 +54,7 @@ Townsend与一小群人讨论了本游戏，发现最受诟病的地方在于“
 
   -
   -
-  - ([Online reproduction](http://www.atariage.com/manual_html_page.html?SoftwareLabelID=157))
+  - ([Online reproduction](https://web.archive.org/web/20071208222939/http://www.atariage.com/manual_html_page.html?SoftwareLabelID=157))
 
 ### 报刊
 
@@ -73,7 +73,7 @@ Townsend与一小群人讨论了本游戏，发现最受诟病的地方在于“
   - [关于雅达利掩埋游戏的讨论，](http://www.snopes.com/business/market/atari.asp) [Snopes.com](https://zh.wikipedia.org/wiki/Snopes.com "wikilink")
 
   -
-  - [Page at AtariAge](http://www.atariage.com/software_page.html?SoftwareLabelID=157)
+  - [Page at AtariAge](https://web.archive.org/web/20080207200346/http://www.atariage.com/software_page.html?SoftwareLabelID=157)
 
   - [E.T. the Extra Terrestrial](http://www.gamespot.com/atari2600/action/ettheextraterrestrial/index.html)，[GameSpot](../Page/GameSpot.md "wikilink")
 
@@ -90,61 +90,38 @@ Townsend与一小群人讨论了本游戏，发现最受诟病的地方在于“
 [Category:1982年电子游戏](https://zh.wikipedia.org/wiki/Category:1982年电子游戏 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:雅达利游戏](https://zh.wikipedia.org/wiki/Category:雅达利游戏 "wikilink") [Category:雅达利2600游戏](https://zh.wikipedia.org/wiki/Category:雅达利2600游戏 "wikilink") [Category:電影改編電子遊戲](https://zh.wikipedia.org/wiki/Category:電影改編電子遊戲 "wikilink") [Category:外星生命題材作品](https://zh.wikipedia.org/wiki/Category:外星生命題材作品 "wikilink")
 
 1.
-
 2.
 3.  "Atari Gets 'E.T.' Rights"
-
 4.
-
 5.  Kent, *The Ultimate History of Video Games*, p. 237.
-
 6.
 7.
 8.  "Many Video Games Designers Travel Rags-to-Riches-to-Rags Journey"
-
 9.
 10.
 11. [le geek \[et easter egg](http://www.abscape.org/legeek/f_et.htm) \]
-
 12. Cummings, "How I Got Here"
-
 13. Pollack, "The Game Turns Serious at Atari"
-
 14.
 15. Cohen, *Zap\! The Rise and Fall of Atari*
-
 16. Kent, *The Ultimate History of Video Games*, p. 236.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21. [Top Ten Best and Worst Games of All Time](http://www.gametrailers.com/player/15147.html).*gametrailers.com*.Retrieved on 2006-11-17.
-
 22.
 23.
 24.
 25.
 26.
-
 27.
-
 28. **Quote:**"The number of actual trucks which have dumped locally was not known. Local BFI officials put it at 10. However, corporate spokesmen in Houston say it was closer to 20; and city officials say it is actually 14."
     McQuiddy, "City cementing ban on dumping."
-
 29. McQuiddy, "Dump here utilized."
-
 30. McQuiddy, "City cementing ban on dumping."
-
 31. McQuiddy, "City to Atari."
-
 32. "Atari Parts Are Dumped"
-
 33. Smith, "Raising Alamogordo's legendary Atari 'Titanic'"
-
 34.
 35. <http://www.polygon.com/2014/4/26/5656282/atari-et-landfill-new-mexico-found-cartridges>

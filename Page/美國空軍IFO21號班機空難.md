@@ -24,11 +24,11 @@
 
 ## 相關記錄片
 
-是次空難被輯製成[空中浩劫](../Page/空中浩劫.md "wikilink")第四季第八輯「Inbound」(軍機空難)
+是次空難已輯製成[空中浩劫](../Page/空中浩劫.md "wikilink")第四季第八輯「Inbound」(軍機空難)
 
 ## 參考
 
   - [AirDisaster.Com](http://www.airdisaster.com/cgi-bin/view_details.cgi?date=04031996&reg=73-1149&airline=United+States+Air+Force)
   - [Aviation Safety Network](http://aviation-safety.net/database/record.php?id=19960403-0)
 
-[Category:1996年航空事故](https://zh.wikipedia.org/wiki/Category:1996年航空事故 "wikilink") [Category:克羅地亞航空事故](https://zh.wikipedia.org/wiki/Category:克羅地亞航空事故 "wikilink") [Category:可控飛行撞地](https://zh.wikipedia.org/wiki/Category:可控飛行撞地 "wikilink") [Category:天氣因素觸發的航空事故](https://zh.wikipedia.org/wiki/Category:天氣因素觸發的航空事故 "wikilink") [Category:機員失誤造成的航空事故](https://zh.wikipedia.org/wiki/Category:機員失誤造成的航空事故 "wikilink") [Category:美國空軍歷史](https://zh.wikipedia.org/wiki/Category:美國空軍歷史 "wikilink") [Category:1996年4月](https://zh.wikipedia.org/wiki/Category:1996年4月 "wikilink") [Category:波音737航空事故](https://zh.wikipedia.org/wiki/Category:波音737航空事故 "wikilink")
+[Category:1996年航空事故](https://zh.wikipedia.org/wiki/Category:1996年航空事故 "wikilink") [Category:克羅地亞航空事故](https://zh.wikipedia.org/wiki/Category:克羅地亞航空事故 "wikilink") [Category:可控飛行撞地](https://zh.wikipedia.org/wiki/Category:可控飛行撞地 "wikilink") [Category:天氣因素觸發的航空事故](https://zh.wikipedia.org/wiki/Category:天氣因素觸發的航空事故 "wikilink") [Category:機員失誤造成的航空事故](https://zh.wikipedia.org/wiki/Category:機員失誤造成的航空事故 "wikilink") [Category:美國空軍歷史](https://zh.wikipedia.org/wiki/Category:美國空軍歷史 "wikilink") [Category:海外美軍](https://zh.wikipedia.org/wiki/Category:海外美軍 "wikilink") [Category:1996年4月](https://zh.wikipedia.org/wiki/Category:1996年4月 "wikilink") [Category:波音737航空事故](https://zh.wikipedia.org/wiki/Category:波音737航空事故 "wikilink")

@@ -8,6 +8,6 @@
 
 ## 相關網站
 
-  - [大碟曲目及封面](http://www.hmv.com.hk/product/canto.asp?sku=161164)
+  - [大碟曲目及封面](https://web.archive.org/web/20160820183034/http://www.hmv.com.hk/product/canto.asp?sku=161164)
 
 [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:張敬軒音樂專輯](https://zh.wikipedia.org/wiki/Category:張敬軒音樂專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")

@@ -2,7 +2,7 @@
 `# 本列表僅在中文維基百科有效，維基媒體計劃共用的列表請見`[`:meta:Spam``   ``blacklist`](https://zh.wikipedia.org/wiki/:meta:Spam_blacklist "wikilink")
 `# Mediawiki軟體的詳細說明請見`[`:mw:Extension:SpamBlacklist`](https://zh.wikipedia.org/wiki/:mw:Extension:SpamBlacklist "wikilink")
 `# 管理员可以通过`[`seth's``   ``tool`](https://tools.wmflabs.org/searchsbl/?userdeflang=zh&userdefproj=w)`在垃圾链接黑名单中搜索匹配项`
-`# 白名單另見`[`MediaWiki:Spam-whitelist`](https://zh.wikipedia.org/wiki/MediaWiki:Spam-whitelist "wikilink")
+`# 白名單另見`[`MediaWiki:Spam-whitelist`](../Page/MediaWiki:Spam-whitelist.md "wikilink")
 `#  `
 
 ```
@@ -11,6 +11,9 @@
  #   * Everything from a "#" character to the end of the line is a comment
  #   * Every non-blank line is a regex fragment which will only match hosts inside URL
 
+\btaocao\.cn\b # 125.227.38.22
+\bbountypr\.com\b
+\bwww\.patea\.tips\b # 172.104.98.195 203.90.233.5
 \btrendysweet\.com\b # 101.78.215.226 59.149.170.77 42.200.207.92
 \binternetpedia\.nctu\.me\b
 \bwww\.ss819\.com\b # 89.187.178.54, 89.187.178.23
@@ -3321,7 +3324,7 @@ hk\.myblog\.yahoo\.com\/8-word
 \bzx9\.de\b
 \btaiwannext\.com\b #
 \bopinion\.chinatimes\.com\b # 61.230.0.0/16除自己心得外，並不斷加入特定作者論壇投書的SPAM[https://zh.wikipedia.org/w/index.php?title=User_talk%3ANo1lovesu&type=revision&diff=47478326&oldid=47451974]，並內容來自taiwannext.com
-
+\tw\.answers\.yahoo\.com\b
 #影武者专享黑名单：
 \breadingtimes\.com\.tw.*tomwang.*main2.asp.*ArticleID=1017333\b
 \btaiwanact\.net\b

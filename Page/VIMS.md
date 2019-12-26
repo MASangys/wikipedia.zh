@@ -1,6 +1,6 @@
 **VIMS**（日語全名：）是[日本](../Page/日本.md "wikilink")一家[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，屬於[ARTSVISION](../Page/ARTSVISION.md "wikilink")系列公司。VIMS於2001年創辦，原本是[I'm Enterprise內一個部門](../Page/I'm_Enterprise.md "wikilink")，2007年（平成20年）11月22日註冊為[株式會社](https://zh.wikipedia.org/wiki/株式會社 "wikilink")，成為I'm Enterprise的子公司。
 
-為了配合[森久保祥太郎](../Page/森久保祥太郎.md "wikilink")加入I'm Enterprise時提出成立個人事務所的要求，I'm Enterprise成立了VIMS，以其下部門的形式運作。2007年，獲得前屬ARTSVISION的[自由身女聲優](../Page/自由職業.md "wikilink")[堀江由衣](../Page/堀江由衣.md "wikilink")加入後，VIMS獨立為I'm Enterprise的子公司。
+為了配合[森久保祥太郎](../Page/森久保祥太郎.md "wikilink")加入I'm Enterprise時提出成立個人事務所的要求，I'm Enterprise成立了VIMS，以旗下部門的形式運作。2007年，獲得前屬ARTSVISION的[自由身女聲優](../Page/自由職業.md "wikilink")[堀江由衣](../Page/堀江由衣.md "wikilink")加入後，VIMS獨立為I'm Enterprise的子公司。
 
 ## 歷史
 

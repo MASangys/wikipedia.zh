@@ -118,14 +118,10 @@
 
 1.
 2.  [Some subway ifs and don'ts](http://nycsubway.org/articles/nytimes-1904-dayonefaq.html) *New York Times* (on NYCSubway) Retrieved 2008-09-01
-
 3.  [96th Street](http://nycsubway.org/perl/stations?6:3140) *NYCSubway* Retrieved 2008-09-01
-
 4.
 5.  [New York City Subway chaining](http://thejoekorner.quuxuum.org/chainall.htm)  *TheJoeKorner* Retrieved 2008-09-01
-
 6.
 7.
 8.  [Forgotten NY](http://forgotten-ny.com/2008/10/forgotten-radio-city/02-bathroom/) New York's Beaux-Arts Bathrooms
-
 9.

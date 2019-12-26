@@ -48,35 +48,153 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-| 播放地                                                       | 類比播放        | 數位播放       |
-| --------------------------------------------------------- | ----------- | ---------- |
-| [福井](https://zh.wikipedia.org/wiki/NHK福井放送局 "wikilink")   | 1962年11月1日  | 2006年5月1日  |
-| [大分](https://zh.wikipedia.org/wiki/NHK大分放送局 "wikilink")   | 1962年12月1日  | 2006年12月1日 |
-| [松江](https://zh.wikipedia.org/wiki/NHK松江放送局 "wikilink")   | 1962年12月28日 | 2006年10月1日 |
-| [鳥取](https://zh.wikipedia.org/wiki/NHK鳥取放送局 "wikilink")   | 1962年12月28日 | 2006年10月1日 |
-| [熊本](https://zh.wikipedia.org/wiki/NHK熊本放送局 "wikilink")   | 1963年2月14日  | 2006年12月1日 |
-| [岡山](https://zh.wikipedia.org/wiki/NHK岡山放送局 "wikilink")   | 1963年6月29日  | 2006年12月1日 |
-| [北見](../Page/NHK北見放送局.md "wikilink")                      | 1963年12月1日  | 2007年10月1日 |
-| [甲府](https://zh.wikipedia.org/wiki/NHK甲府放送局 "wikilink")   | 1963年12月1日  | 2006年4月1日  |
-| [宮崎](https://zh.wikipedia.org/wiki/NHK宮崎放送局 "wikilink")   | 1963年12月1日  | 2006年12月1日 |
-| [長崎](https://zh.wikipedia.org/wiki/NHK長崎放送局 "wikilink")   | 1963年12月1日  | 2006年12月1日 |
-| [徳島](https://zh.wikipedia.org/wiki/NHK徳島放送局 "wikilink")   | 1968年2月20日  | 2006年10月1日 |
-| [佐賀](https://zh.wikipedia.org/wiki/NHK佐賀放送局 "wikilink")   | 1969年3月15日  | 2006年12月1日 |
-| [高松](https://zh.wikipedia.org/wiki/NHK高松放送局 "wikilink")   | 1969年3月22日  | 2006年12月1日 |
-| [沖縄](https://zh.wikipedia.org/wiki/NHK沖縄放送局 "wikilink")   | 1972年5月15日  | 2006年4月1日  |
-| [京都](https://zh.wikipedia.org/wiki/NHK京都放送局 "wikilink")   | （未開播）\[4\]  | 2010年7月24日 |
-| [水戸](https://zh.wikipedia.org/wiki/NHK水戸放送局 "wikilink")   | 規劃中         |            |
-| [宇都宮](https://zh.wikipedia.org/wiki/NHK宇都宮放送局 "wikilink") |             |            |
-| [前橋](https://zh.wikipedia.org/wiki/NHK前橋放送局 "wikilink")   |             |            |
-| [埼玉](https://zh.wikipedia.org/wiki/NHK埼玉放送局 "wikilink")   |             |            |
-| [千葉](https://zh.wikipedia.org/wiki/NHK千葉放送局 "wikilink")   |             |            |
-| [横浜](https://zh.wikipedia.org/wiki/NHK横浜放送局 "wikilink")   |             |            |
-| [岐阜](https://zh.wikipedia.org/wiki/NHK岐阜放送局 "wikilink")   |             |            |
-| [津](https://zh.wikipedia.org/wiki/NHK津放送局 "wikilink")     |             |            |
-| [大津](https://zh.wikipedia.org/wiki/NHK大津放送局 "wikilink")   |             |            |
-| [神戸](https://zh.wikipedia.org/wiki/NHK神戸放送局 "wikilink")   |             |            |
-| [奈良](https://zh.wikipedia.org/wiki/NHK奈良放送局 "wikilink")   |             |            |
-| [和歌山](https://zh.wikipedia.org/wiki/NHK和歌山放送局 "wikilink") |             |            |
+<table>
+<thead>
+<tr class="header">
+<th><p>播放地</p></th>
+<th><p>類比播放</p></th>
+<th><p>數位播放</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK福井放送局" title="wikilink">福井</a></p></td>
+<td><p>1962年11月1日</p></td>
+<td><p>2006年5月1日</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK大分放送局" title="wikilink">大分</a></p></td>
+<td><p>1962年12月1日</p></td>
+<td><p>2006年12月1日</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK松江放送局" title="wikilink">松江</a></p></td>
+<td><p>1962年12月28日</p></td>
+<td><p>2006年10月1日</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK鳥取放送局" title="wikilink">鳥取</a></p></td>
+<td><p>1962年12月28日</p></td>
+<td><p>2006年10月1日</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK熊本放送局" title="wikilink">熊本</a></p></td>
+<td><p>1963年2月14日</p></td>
+<td><p>2006年12月1日</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK岡山放送局" title="wikilink">岡山</a></p></td>
+<td><p>1963年6月29日</p></td>
+<td><p>2006年12月1日</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/NHK北見放送局.md" title="wikilink">北見</a></p></td>
+<td><p>1963年12月1日</p></td>
+<td><p>2007年10月1日</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK甲府放送局" title="wikilink">甲府</a></p></td>
+<td><p>1963年12月1日</p></td>
+<td><p>2006年4月1日</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK宮崎放送局" title="wikilink">宮崎</a></p></td>
+<td><p>1963年12月1日</p></td>
+<td><p>2006年12月1日</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK長崎放送局" title="wikilink">長崎</a></p></td>
+<td><p>1963年12月1日</p></td>
+<td><p>2006年12月1日</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK徳島放送局" title="wikilink">徳島</a></p></td>
+<td><p>1968年2月20日</p></td>
+<td><p>2006年10月1日</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK佐賀放送局" title="wikilink">佐賀</a></p></td>
+<td><p>1969年3月15日</p></td>
+<td><p>2006年12月1日</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK高松放送局" title="wikilink">高松</a></p></td>
+<td><p>1969年3月22日</p></td>
+<td><p>2006年12月1日</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK沖縄放送局" title="wikilink">沖縄</a></p></td>
+<td><p>1972年5月15日</p></td>
+<td><p>2006年4月1日</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK京都放送局" title="wikilink">京都</a></p></td>
+<td><p><a href="../Page/山科區.md" title="wikilink">山科區</a>：2009年3月1日（數位）<br />
+<a href="../Page/京都市.md" title="wikilink">京都市</a>、<a href="../Page/向日市.md" title="wikilink">向日市</a>、<a href="../Page/長岡京市.md" title="wikilink">長岡京市</a>：2010年7月24日（數位）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK水戸放送局" title="wikilink">水戸</a></p></td>
+<td><p>規劃中</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK宇都宮放送局" title="wikilink">宇都宮</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK前橋放送局" title="wikilink">前橋</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK埼玉放送局" title="wikilink">埼玉</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK千葉放送局" title="wikilink">千葉</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK横浜放送局" title="wikilink">横浜</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK岐阜放送局" title="wikilink">岐阜</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK津放送局" title="wikilink">津</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK大津放送局" title="wikilink">大津</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK神戸放送局" title="wikilink">神戸</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK奈良放送局" title="wikilink">奈良</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK和歌山放送局" title="wikilink">和歌山</a></p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 </div>
 
@@ -93,4 +211,3 @@
 1.  參閱
 2.  [不下課的銀幕教室](http://info.pts.org.tw/open/paper/2007/doc2007/1.pdf)
 3.  アナログ教育テレビ開局時は｢小倉放送局｣
-4.  京都中継局開播教育頻道時，即為「數位訊號」

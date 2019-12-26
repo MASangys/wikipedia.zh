@@ -38,12 +38,9 @@
 
 1.
 2.
-
 3.  "Dillon, C(larence) Douglas. Priscilla Roberts. "The Scribner Encyclopedia of American Lives. Arnold Markoe, Karen Markoe, and Kenneth T. Jackson (editors). Vol. 7: 2003-2005. Detroit: Charles Scribner's Sons, 2007. Reproduced in Biography Resource Center. Farmington Hills, Michigan: Gale, 2009. <http://galenet.galegroup.com/servlet/BioRC> Fee. Via Fairfax County Public Library. Accessed 2009-03-27. Document Number: K2875000085
-
 4.
 5.
 6.
-
 7.
 8.

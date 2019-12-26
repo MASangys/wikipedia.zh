@@ -30,5 +30,4 @@
 [Category:2005年单曲](https://zh.wikipedia.org/wiki/Category:2005年单曲 "wikilink") [Category:水樹奈奈單曲](https://zh.wikipedia.org/wiki/Category:水樹奈奈單曲 "wikilink") [Category:魔法少女奈葉歌曲](https://zh.wikipedia.org/wiki/Category:魔法少女奈葉歌曲 "wikilink") [Category:電視動畫主題曲](https://zh.wikipedia.org/wiki/Category:電視動畫主題曲 "wikilink")
 
 1.  [人気声優・水樹奈々、声優の歴代最高位新記録を樹立！](http://www.oricon.co.jp/news/ranking/466/)
-
 2.

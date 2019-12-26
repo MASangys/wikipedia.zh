@@ -28,9 +28,6 @@
 [Category:海豚座](https://zh.wikipedia.org/wiki/Category:海豚座 "wikilink") [Category:行星凌變星](https://zh.wikipedia.org/wiki/Category:行星凌變星 "wikilink") [Category:太陽系外行星](https://zh.wikipedia.org/wiki/Category:太陽系外行星 "wikilink") [Category:聯星](https://zh.wikipedia.org/wiki/Category:聯星 "wikilink") [Category:橙矮星](https://zh.wikipedia.org/wiki/Category:橙矮星 "wikilink")
 
 1.
-
 2.   ([web Preprint](http://xxx.lanl.gov/abs/astro-ph?papernum=0609688))
-
 3.
-
 4.

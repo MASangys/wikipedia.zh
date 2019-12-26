@@ -90,7 +90,7 @@ SEACOM合作伙伴的电缆登陆点包括：
 1.
 2.
 3.
-4.  [Investment structure](http://www.pidg.org/impact/case-studies/seacom-undersea-cable)
+4.
 5.
 6.  [Seacom upgrades](http://www.techcentral.co.za/seacom-to-double-capacity/32121/)
 7.  [1](http://mybroadband.co.za/news/broadband/102039-seacom-capacity-increase-to-12tbps.html)

@@ -11,14 +11,16 @@
   - 企画 - 森下孝三（[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")）、清水賢治（[富士電視台](../Page/富士電視台.md "wikilink")）
   - 製片人 - 清水賢治（1-291話）、金田耕司（[富士電視台](../Page/富士電視台.md "wikilink")）（118-291話）
   - [原作](https://zh.wikipedia.org/wiki/原作 "wikilink") - [鳥山明](../Page/鳥山明.md "wikilink")（[集英社](../Page/集英社.md "wikilink")『週刊少年Jump』連載）
-  - [導演](https://zh.wikipedia.org/wiki/導演 "wikilink") - 岸本松司（1-58話）、鳥本武（59-109話）、山口彰彦（110-169話）、末永雄一（170-291話）
-  - 系列導演 - [西尾大介](../Page/西尾大介.md "wikilink")（1-199話）
-  - [系列構成](https://zh.wikipedia.org/wiki/系列構成 "wikilink") - [小山高生](../Page/小山高生.md "wikilink")
+  - [製作進行](https://zh.wikipedia.org/wiki/製作進行 "wikilink") - 岸本松司（1-58話）、鳥本武（59-109話）、山口彰彦（110-169話）、末永雄一（170-291話）
+  - [系列導演](https://zh.wikipedia.org/wiki/導演 "wikilink") - [西尾大介](../Page/西尾大介.md "wikilink")（1-199話、202話）、[橋本光夫](../Page/橋本光夫.md "wikilink")（200-291話）
+  - [劇本統籌](https://zh.wikipedia.org/wiki/劇本統籌 "wikilink") - [小山高生](../Page/小山高生.md "wikilink")
   - 音樂 - [菊池俊輔](../Page/菊池俊輔.md "wikilink")
   - [人物設定](https://zh.wikipedia.org/wiki/人物設定 "wikilink") - [前田實](../Page/前田實.md "wikilink")（1-199話）→[中鶴勝祥](../Page/中鶴勝祥.md "wikilink")（200-291話）
-  - 脚本：戸田博司、[隅沢克之](https://zh.wikipedia.org/wiki/隅沢克之 "wikilink")、[松井亜彌等](https://zh.wikipedia.org/wiki/松井亜彌 "wikilink")
+  - 劇本編劇：戸田博司、[隅沢克之](https://zh.wikipedia.org/wiki/隅沢克之 "wikilink")、[松井亜彌等](https://zh.wikipedia.org/wiki/松井亜彌 "wikilink")
   - 美術 - 池田祐二（1-199話）→徳重賢（200-291話）
-  - 演出：[山内重保](https://zh.wikipedia.org/wiki/山内重保 "wikilink")、[橋本光夫](../Page/橋本光夫.md "wikilink")、上田芳裕等
+  - 助理導演：[山内重保](https://zh.wikipedia.org/wiki/山内重保 "wikilink")、[橋本光夫](../Page/橋本光夫.md "wikilink")、上田芳裕等
+  - OPENING·ENDING作畫：前田實\[6\]\[7\]；[志田直俊](../Page/志田直俊.md "wikilink")、[中鶴勝祥](../Page/中鶴勝祥.md "wikilink")、[稻上晃](../Page/稻上晃.md "wikilink")、[山室直儀](../Page/山室直儀.md "wikilink")、[宮原直樹](../Page/宮原直樹.md "wikilink")\[8\]
+  - OPENING·ENDING分鏡：西尾大介\[9\]\[10\]；橋本光夫\[11\]\[12\]
   - 美術進行 - 中村實→田村晴夫→福本智雄
   - 色彩指定檢查 - 酒井日出子、澤田豊二、森田博、千田日出子、辻田邦夫
   - 特殊効果 - 櫻田和哉、橋本由香里、谷藤薫児、平尾千秋、河内正行、中島正之、下川信裕、佐藤章二、岡田良明、岡島雄二、貝澤由香里、勝岡稔夫、太田直
@@ -2721,7 +2723,7 @@
 <!-- end list -->
 
   -
-    1993年2月24日播放（Z第175話和第176話之間），片長48分鐘。\[6\]
+    1993年2月24日播放（Z第175話和第176話之間），片長48分鐘。\[13\]
 
 ## 劇場版
 
@@ -2786,4 +2788,11 @@
 3.  「神龍通信 第5号 アニメドラゴンボールメインスタッフ座談会第2回」『ドラゴンボール大全集』別冊付録、集英社、1995年。
 4.  「鳥嶋和彦 鳥山先生と築いたヒストリー」『サンケイスポーツ特別版 ドラゴンボールZ復活の「F」新聞』[サンケイスポーツ](https://zh.wikipedia.org/wiki/サンケイスポーツ "wikilink")、2015年4月18日、28面。
 5.  『[サンケイスポーツ特別版](https://zh.wikipedia.org/wiki/サンケイスポーツ "wikilink")2015年5月18日号　ドラゴンボールZ復活の「F」新聞』2015年4月18日、28面。
-6.  [Dragon Ball Z: The History Of Trunks (special)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=133)Anime News Network
+6.
+7.  七龍珠Z『CHA-LA HEAD-CHA-LA』和『でてこいとびきりZENKAIパワー\!』
+8.  七龍珠Z『WE GOTTA POWER』和『僕達は天使だった』
+9.
+10. 七龍珠Z『CHA-LA HEAD-CHA-LA』和『でてこいとびきりZENKAIパワー\!』
+11. 七龍珠Z『WE GOTTA POWER』和『僕達は天使だった』
+12.
+13. [Dragon Ball Z: The History Of Trunks (special)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=133)Anime News Network

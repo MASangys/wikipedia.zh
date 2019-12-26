@@ -119,6 +119,6 @@ RPG Maker VX Ace 的後繼版本為 [RPG Maker MV](../Page/RPG_Maker_MV.md "wiki
   - [Maker系列素材集 和](http://tkool.jp/products/material/index)
   - [RPG Maker BLOG](http://www.famitsu.com/blog/tkool/)
 
-[Category:電子遊戲研發](https://zh.wikipedia.org/wiki/Category:電子遊戲研發 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:遊戲製作軟件](https://zh.wikipedia.org/wiki/Category:遊戲製作軟件 "wikilink") [Category:RPG製作大師](https://zh.wikipedia.org/wiki/Category:RPG製作大師 "wikilink")
+[Category:電子遊戲研發](https://zh.wikipedia.org/wiki/Category:電子遊戲研發 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:電子遊戲開發軟件](https://zh.wikipedia.org/wiki/Category:電子遊戲開發軟件 "wikilink") [Category:RPG製作大師](https://zh.wikipedia.org/wiki/Category:RPG製作大師 "wikilink")
 
 1.  [無償の「RPGツクールVX Ace Lite ニコニコエディション」が期間限定で公開 - 音声素材集『「RPGツクール 音素材集 Vol.00」お試しパック』も無償公開](http://www.forest.impress.co.jp/docs/news/20130207_586893.html)

@@ -14,7 +14,7 @@ SK集团的历史可以追溯到1953年4月8日SK创始人[崔钟建](../Page/�
 
 [1999_SK_Corporation_Building_01.jpg](https://zh.wikipedia.org/wiki/File:1999_SK_Corporation_Building_01.jpg "fig:1999_SK_Corporation_Building_01.jpg") 在韩国大力推动重化工产业发展的[第三个五年经济开发计划期间](https://zh.wikipedia.org/wiki/韩国经济开发五年计划#三五计划（1972-1976年） "wikilink")，鲜京于1973年7月成立了鲜京石油株式会社。1973年11月，崔钟建去世后，他的弟弟[崔钟贤继任鲜京集团会长](https://zh.wikipedia.org/wiki/崔钟贤 "wikilink")。崔钟贤提出二次创业宣言，并宣告“从石油到纤维都做”。
 
-1980年，在韩国推行“国退民进”的政策期间，鲜京收购了韩国国有企业大韩石油，成为韩国第五大财团\[4\]。同年12月，鲜京收购了兴国商社（现在的SK能源销售）。1982年和1985年分别创建了大韩石油公社海运和大韩石油公社天然气。1991年6月，随着[芳香族](https://zh.wikipedia.org/wiki/芳香族 "wikilink")、[乙烯](../Page/乙烯.md "wikilink")、[重油分解脱磺等大规模石化项目的竣工](https://zh.wikipedia.org/wiki/重油 "wikilink")，鲜京实现了“从石油到纤维”的垂直系列化。为保证稳定的原油供应，鲜京从1983年开始在国外开发[油田](https://zh.wikipedia.org/wiki/油田 "wikilink")，使韩国成为石油产油国的行列。至今，SK能源在世界14个国家的24个矿区开采石油。
+1980年，在韩国推行“国退民进”的政策期间，鲜京收购了韩国国有企业大韩石油，成为韩国第五大财团\[4\]。同年12月，鲜京收购了兴国商社（现在的SK能源销售）。1982年和1985年分别创建了大韩石油公社海运和大韩石油公社天然气。1991年6月，随着[芳香族](https://zh.wikipedia.org/wiki/芳香族 "wikilink")、[乙烯](../Page/乙烯.md "wikilink")、[重油](../Page/重油.md "wikilink")分解脱磺等大规模石化项目的竣工，鲜京实现了“从石油到纤维”的垂直系列化。为保证稳定的原油供应，鲜京从1983年开始在国外开发[油田](https://zh.wikipedia.org/wiki/油田 "wikilink")，使韩国成为石油产油国的行列。至今，SK能源在世界14个国家的24个矿区开采石油。
 
 ### 第二次产业结构调整：进军通讯行业
 

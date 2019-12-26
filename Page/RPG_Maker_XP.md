@@ -132,10 +132,10 @@ VALUE\!版是本軟件的增強版，與通常版的區別有
 
 ## 外部連結
 
-  - [ツクールweb (RPG Maker系列官方網站)](http://tkool.jp/)
+  - [ツクールweb (RPG Maker系列官方網站)](https://web.archive.org/web/20110624000425/http://tkool.jp/)
   - [RPG Maker XP官方介紹頁](http://tkool.jp/products/rpgxp/)
   - [英文版官方網站](http://www.rpgmakerweb.com/)
   - [巴哈姆特RPG製作大師哈拉板](http://forum.gamer.com.tw/A.php?bsn=4918)
   - [英特衛多媒體](http://www.interwise.com.tw/) - RPG Maker XP 台灣代理官方網站
 
-[Category:電子遊戲研發](https://zh.wikipedia.org/wiki/Category:電子遊戲研發 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:遊戲製作軟件](https://zh.wikipedia.org/wiki/Category:遊戲製作軟件 "wikilink") [Category:RPG製作大師](https://zh.wikipedia.org/wiki/Category:RPG製作大師 "wikilink")
+[Category:電子遊戲研發](https://zh.wikipedia.org/wiki/Category:電子遊戲研發 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:電子遊戲開發軟件](https://zh.wikipedia.org/wiki/Category:電子遊戲開發軟件 "wikilink") [Category:RPG製作大師](https://zh.wikipedia.org/wiki/Category:RPG製作大師 "wikilink")

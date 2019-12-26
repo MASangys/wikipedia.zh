@@ -4,6 +4,13 @@
 
 ## 成員
 
+全員將於2019年12月26日於團體畢業。
+
+  - [山木梨沙](../Page/山木梨沙.md "wikilink")將從[早安家族](../Page/早安家族.md "wikilink")、Country Girls及其兼任的[College Cosmos中畢業](https://zh.wikipedia.org/wiki/College_Cosmos "wikilink")，並且引退藝能界。
+  - [森戶知沙希](../Page/森戶知沙希.md "wikilink")從Country Girls畢業後，會以[早安少女組。](../Page/早安少女組。.md "wikilink")成員的身分繼續活動。
+  - [小關舞將從早安家族及Country](https://zh.wikipedia.org/wiki/小關舞 "wikilink") Girls畢業，並且繼續活躍於藝能界。
+  - [船木結](../Page/船木結.md "wikilink")從Country Girls畢業後，將於2020年3月從[ANGERME](../Page/ANGERME.md "wikilink")及早安家族畢業並暫停演藝活動。
+
 ### 現任成員
 
 <table>
@@ -420,6 +427,14 @@
 
   - 11月2日，成員[梁川奈奈美將於](https://zh.wikipedia.org/wiki/梁川奈奈美 "wikilink")2019年3月從[Juice=Juice](https://zh.wikipedia.org/wiki/Juice=Juice "wikilink")、Country Girls以及[早安家族](../Page/早安家族.md "wikilink")畢業，畢業後專注於學業。
 
+<!-- end list -->
+
+  - 2019年
+
+<!-- end list -->
+
+  - 10月8日，官網公告，Country Girls將於12月26日在「LINE CUBE SHIBUYA」舉辦的演唱會後，停止活動。4名成員都將團體畢業。
+
 ## 作品
 
 ### 單曲
@@ -702,13 +717,14 @@
 
 ### 配信單曲
 
-|   | 配信日         | 標題                   |
-| - | ----------- | -------------------- |
-| 1 | 2017年8月11日  | 小生意気ガール              |
-| 2 | 2017年12月24日 | 書いては消しての“I Love You” |
-|   |             |                      |
-| 3 | 2018年8月24日  | 待てないアフターファイブ/傘をさす先輩  |
-|   |             |                      |
+|   | 配信日         | 標題                              |
+| - | ----------- | ------------------------------- |
+| 1 | 2017年8月11日  | 小生意気ガール                         |
+| 2 | 2017年12月24日 | 書いては消しての“I Love You”            |
+|   |             |                                 |
+| 3 | 2018年8月24日  | 待てないアフターファイブ／傘をさす先輩             |
+| 4 | 2019年8月24日  | One Summer Night～真夏の決心～／夏色のパレット |
+|   |             |                                 |
 
 #### 迷你專輯
 

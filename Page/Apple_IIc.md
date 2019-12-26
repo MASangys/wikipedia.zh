@@ -195,14 +195,9 @@ Apple IIc在1984年4月至1988年8月的生产期间有些微小的修改，包�
 [Category:蘋果公司硬體](https://zh.wikipedia.org/wiki/Category:蘋果公司硬體 "wikilink") [Category:個人電腦](https://zh.wikipedia.org/wiki/Category:個人電腦 "wikilink") [Category:家用電腦](https://zh.wikipedia.org/wiki/Category:家用電腦 "wikilink") [Category:1984年面世的產品](https://zh.wikipedia.org/wiki/Category:1984年面世的產品 "wikilink")
 
 1.  [The Apple IIc Personal Computer](http://www.classiccmp.org/dunfield/apple2/bytema84.pdf) A portable IIe compatible that runs ProDOS. John Markoof - BYTE Senior Technical Editor - May 1984 (Page 276-282) - BYTE magazine
-
 2.  Kunkel, Paul, “AppleDesign: The work of the Apple Industrial Design Group,” with photographs by Rick English, New York: Graphis, 1997, p. 30
-
 3.  文字可与图像模式混合输出，依不同视频模式可使用底部8或32行。
-
 4.  受限于画素位置限制，实际上彩色模式只有140×192
-
 5.
 6.
-
 7.  *Apple IIC Technical Reference Manual* New York: Addison-Wesley, 1987, pp. xxiii-xxv / ISBN 0-201-17752-8 / OCLC

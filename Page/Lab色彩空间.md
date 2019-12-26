@@ -112,26 +112,16 @@ CIE 1976 L\*a\*b\* 直接基於[CIE 1931 XYZ色彩空间衍生出來](../Page/CI
 [Category:色彩空間](https://zh.wikipedia.org/wiki/Category:色彩空間 "wikilink")
 
 1.  Richard S Hunter, abstract, Journal of the Optical Society of America, **38**:661 (1948).
-
 2.  Richard S Hunter, abstract, Journal of the Optical Society of America, **38**:1094 (1948).
-
 3.  handprint.com explanation of this history: <http://www.handprint.com/HP/WCL/color7.html#CIELUV>
-
 4.
 5.  [Hunter L,a,b Versus CIE 1976 L\*a\*b\*](http://www.hunterlab.com/appnotes/an02_01.pdf) (PDF)
-
 6.
 7.
-
 8.
 9.  International Color Consortium, Specification ICC.1:2004-10 (Profile version 4.2.0.0) Image technology colour management—Architecture, profile format, and data structure, (2006).
-
 10. TIFF: Revision 6.0. Adobe Developers Association, 1992
-
 11. See [here](http://www.brucelindbloom.com/index.html?WorkingSpaceInfo.html) for 3D representations of the L\*a\*b\* gamut.
-
 12. See [1](http://en.wikipedia.org/wiki/Saturation_\(color_theory\)) for information on L\*C\*h and conversion formulas.
-
 13.
-
 14.

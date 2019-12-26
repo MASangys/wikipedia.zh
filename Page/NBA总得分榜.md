@@ -29,7 +29,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink">卡里姆·阿卜杜勒-贾巴尔</a>*</strong></p></td>
+<td><p><strong><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink">卡里姆·阿卜杜勒-贾巴尔</a>*</strong></p></td>
 <td><p><a href="../Page/中鋒_(籃球).md" title="wikilink">中鋒</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/密爾瓦基公鹿" title="wikilink">密爾瓦基公鹿</a><br />
 （<a href="../Page/1969-70_NBA賽季.md" title="wikilink">1969-70</a>--<a href="https://zh.wikipedia.org/wiki/1974-75_NBA賽季" title="wikilink">1974-75</a>）<br />
@@ -73,7 +73,7 @@
 （<a href="../Page/2014-15_NBA賽季.md" title="wikilink">2014-15</a>—<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a><br />
 （<a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19</a>--[5]）</p></td>
-<td><p><font color="#007FFF"><strong>32,543</strong></font></p></td>
+<td><p><font color="#007FFF"><strong>33,008</strong></font></p></td>
 <td><p>1,198</p></td>
 <td><p>11,838</p></td>
 <td><p>1,727</p></td>
@@ -1958,69 +1958,40 @@ color="#007FFF"><strong>18.2</strong></font></p></td>
 [Category:NBA數據統計](https://zh.wikipedia.org/wiki/Category:NBA數據統計 "wikilink")
 
 1.
-
 2.  A player is not eligible for induction into the [Naismith Memorial Basketball Hall of Fame](https://zh.wikipedia.org/wiki/Naismith_Memorial_Basketball_Hall_of_Fame "wikilink") until he has been fully retired for four calendar years (reduced from five in 2015); player was not eligible for induction upon the commencement of the  NBA season.
-
 3.  球員必需正式退役滿五年才有資格入選[美國籃球名人堂](../Page/奈史密斯篮球名人纪念堂.md "wikilink")。
-
 4.
 5.
 6.  [麥可·喬丹曾在](https://zh.wikipedia.org/wiki/麥可·喬丹 "wikilink")[1992-93賽季結束後退役](https://zh.wikipedia.org/wiki/1992-93_NBA賽季 "wikilink")，然後在[1995年](https://zh.wikipedia.org/wiki/1994-95_NBA賽季 "wikilink")3月18日復出。
-
 7.  [麥可·喬丹是](https://zh.wikipedia.org/wiki/麥可·喬丹 "wikilink")[NBA](../Page/NBA.md "wikilink")歷史上每場平均得分最高的球員，為30.12分，[威爾特·張伯倫是](https://zh.wikipedia.org/wiki/威爾特·張伯倫 "wikilink")30.07分。
-
 8.  [費城勇士於](https://zh.wikipedia.org/wiki/費城勇士 "wikilink")[1962-63賽季搬到](../Page/1962-63_NBA賽季.md "wikilink")[舊金山並改名為金州勇士](https://zh.wikipedia.org/wiki/舊金山 "wikilink")。[1964-65 NBA賽季中途](../Page/1964-65_NBA賽季.md "wikilink")[威爾特·張伯倫被交換到](https://zh.wikipedia.org/wiki/威爾特·張伯倫 "wikilink")[費城76人](https://zh.wikipedia.org/wiki/費城76人 "wikilink")。
-
 9.
 10. [2007-08賽季中途](https://zh.wikipedia.org/wiki/2007-08_NBA賽季 "wikilink")[俠客·歐尼爾被交換到](https://zh.wikipedia.org/wiki/俠客·歐尼爾 "wikilink")[鳳凰城太陽](https://zh.wikipedia.org/wiki/鳳凰城太陽 "wikilink")
-
 11. [摩西·馬龍僅僅為](https://zh.wikipedia.org/wiki/摩西·馬龍 "wikilink")[布法羅勇士打了兩場比賽就被交易到了](https://zh.wikipedia.org/wiki/洛杉磯快艇 "wikilink")[休士頓火箭](https://zh.wikipedia.org/wiki/休士頓火箭 "wikilink")。
-
 12. [休士頓火箭在](https://zh.wikipedia.org/wiki/休士頓火箭 "wikilink")[1970-71賽季前稱聖地牙哥火箭](https://zh.wikipedia.org/wiki/1970-71_NBA賽季 "wikilink")。
-
 13. [華盛頓子彈在](https://zh.wikipedia.org/wiki/華盛頓子彈 "wikilink")[1972-73賽季前稱巴爾的摩子彈](https://zh.wikipedia.org/wiki/1972-73_NBA賽季 "wikilink")，[1973-74賽季稱首都子彈](https://zh.wikipedia.org/wiki/1973-74_NBA賽季 "wikilink")。
-
 14. [1993-94賽季中途](https://zh.wikipedia.org/wiki/1993-94_NBA賽季 "wikilink")[多米尼克·威爾金斯被交換到](https://zh.wikipedia.org/wiki/多米尼克·威爾金斯 "wikilink")[洛杉磯快艇](https://zh.wikipedia.org/wiki/洛杉磯快艇 "wikilink")。
-
 15.
 16. [1979-80賽季中途](https://zh.wikipedia.org/wiki/1979-80_NBA賽季 "wikilink")[艾力克斯·英格利許被交換到](https://zh.wikipedia.org/wiki/艾力克斯·英格利許 "wikilink")[丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")。
-
 17.
 18.
 19. [2006-07賽季中途](https://zh.wikipedia.org/wiki/2006-07_NBA賽季 "wikilink")[艾倫·艾佛森](../Page/艾倫·艾佛森.md "wikilink")被交換到[丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")。
-
 20. [2008-09賽季中途](https://zh.wikipedia.org/wiki/2008-09_NBA賽季 "wikilink")[艾倫·艾佛森](../Page/艾倫·艾佛森.md "wikilink")被交換到[底特律活塞](../Page/底特律活塞.md "wikilink")。
-
 21. [1977-78賽季中途](https://zh.wikipedia.org/wiki/1977-78_NBA賽季 "wikilink")[阿德里安·丹特利](../Page/阿德里安·丹特利.md "wikilink")被交換到[印第安那溜馬](https://zh.wikipedia.org/wiki/印第安那溜馬 "wikilink")。
-
 22. [1988-89賽季中途丹特利被交換到](https://zh.wikipedia.org/wiki/1988-89_NBA賽季 "wikilink")[達拉斯小牛](https://zh.wikipedia.org/wiki/達拉斯小牛 "wikilink")。
-
 23. [洛杉磯湖人在](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")[1959-60賽季前稱明尼阿波利斯湖人](https://zh.wikipedia.org/wiki/1959-60_NBA賽季 "wikilink")。
-
 24. [1994-95賽季中途](https://zh.wikipedia.org/wiki/1994-95_NBA賽季 "wikilink")[克萊德·德雷克斯勒被交換到](https://zh.wikipedia.org/wiki/克萊德·德雷克斯勒 "wikilink")[休士頓火箭](https://zh.wikipedia.org/wiki/休士頓火箭 "wikilink")。
-
 25. [2002-03賽季中途](https://zh.wikipedia.org/wiki/2002-03_NBA賽季 "wikilink")[加里·佩頓被交換到](https://zh.wikipedia.org/wiki/加里·佩頓 "wikilink")[密爾瓦基公鹿](https://zh.wikipedia.org/wiki/密爾瓦基公鹿 "wikilink")。
-
 26. [巴爾的摩子彈在](https://zh.wikipedia.org/wiki/巴爾的摩子彈 "wikilink")[1961-62賽季稱芝加哥包裝工人](../Page/1961-62_NBA賽季.md "wikilink")，[1962-63賽季稱芝加哥西風](../Page/1962-63_NBA賽季.md "wikilink")。[1965-66賽季中途](../Page/1965-66_NBA賽季.md "wikilink")[沃爾特·貝拉米被交換到](https://zh.wikipedia.org/wiki/沃爾特·貝拉米 "wikilink")[紐約尼克](https://zh.wikipedia.org/wiki/紐約尼克 "wikilink")。
-
 27. [1968-69賽季中途貝拉米被交換到](https://zh.wikipedia.org/wiki/1968-69_NBA賽季 "wikilink")[底特律活塞](../Page/底特律活塞.md "wikilink")。
-
 28. [1969-70賽季中途貝拉米被交換到](../Page/1969-70_NBA賽季.md "wikilink")[亞特蘭大老鷹](https://zh.wikipedia.org/wiki/亞特蘭大老鷹 "wikilink")。
-
 29. [聖路易老鷹在](https://zh.wikipedia.org/wiki/聖路易老鷹 "wikilink")[1954-55賽季稱密爾瓦基老鷹](https://zh.wikipedia.org/wiki/1954-55_NBA賽季 "wikilink")。
-
 30.
 31. [2009-10賽季中途](https://zh.wikipedia.org/wiki/2009-10_NBA賽季 "wikilink")[安托萬·傑米森被交換到](https://zh.wikipedia.org/wiki/安托萬·傑米森 "wikilink")[克里夫蘭騎士](https://zh.wikipedia.org/wiki/克里夫蘭騎士 "wikilink")。
-
 32. [2004-05賽季中途](https://zh.wikipedia.org/wiki/2004-05_NBA賽季 "wikilink")[克利福德·羅賓遜被交換到](https://zh.wikipedia.org/wiki/克利福德·羅賓遜 "wikilink")[紐澤西籃網](https://zh.wikipedia.org/wiki/紐澤西籃網 "wikilink")。
-
 33. [1990-91賽季中途](https://zh.wikipedia.org/wiki/1990-91_NBA賽季 "wikilink")[沃爾特·戴維斯被交換到](https://zh.wikipedia.org/wiki/沃爾特·戴維斯 "wikilink")[波特蘭拓荒者](https://zh.wikipedia.org/wiki/波特蘭拓荒者 "wikilink")。
-
 34. [1997-98賽季中途](https://zh.wikipedia.org/wiki/1997-98_NBA賽季 "wikilink")[特里·卡明斯](../Page/特里·卡明斯.md "wikilink")被交換到[纽约尼克斯](https://zh.wikipedia.org/wiki/纽约尼克斯 "wikilink")。
-
 35.
-
 36.
 37.
-
 38.

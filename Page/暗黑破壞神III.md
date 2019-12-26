@@ -51,18 +51,11 @@
 [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:多人在線遊戲](https://zh.wikipedia.org/wiki/Category:多人在線遊戲 "wikilink") [Category:動作角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:動作角色扮演遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:暗黑破坏神系列电子游戏](https://zh.wikipedia.org/wiki/Category:暗黑破坏神系列电子游戏 "wikilink") [Category:暴雪娱乐游戏](https://zh.wikipedia.org/wiki/Category:暴雪娱乐游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Xbox_360游戏](https://zh.wikipedia.org/wiki/Category:Xbox_360游戏 "wikilink") [Category:Xbox_One游戏](https://zh.wikipedia.org/wiki/Category:Xbox_One游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:可選主角性別遊戲](https://zh.wikipedia.org/wiki/Category:可選主角性別遊戲 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:官方中文配音游戏](https://zh.wikipedia.org/wiki/Category:官方中文配音游戏 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.

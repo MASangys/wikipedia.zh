@@ -488,47 +488,27 @@ Fixed all prior reported flaws, updated Booktype support, and added further opti
 [Category:光盘创作软件](https://zh.wikipedia.org/wiki/Category:光盘创作软件 "wikilink") [Category:共享软件](https://zh.wikipedia.org/wiki/Category:共享软件 "wikilink") [Category:Windows_CD/DVD刻录软件](https://zh.wikipedia.org/wiki/Category:Windows_CD/DVD刻录软件 "wikilink") [Category:Linux_CD/DVD刻录软件](https://zh.wikipedia.org/wiki/Category:Linux_CD/DVD刻录软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  尤其是多声道的，如[杜比数字 5.1以及](../Page/杜比数字.md "wikilink")[mp3pro](https://zh.wikipedia.org/wiki/mp3pro "wikilink")。
-
 6.
-
 7.
-
 8.
 9.
 10. [Version History](https://web.archive.org/web/20020603145307/http://www.nero.com/en/driver.asp)
-
 11. [Nero – Nero 5 - Update](http://www.nero.com/eng/downloads-nero5-update.php)
-
 12. [Nero 5 System Requirements](http://www.nero.com/eng/support-nero5-system-requirements.html)
-
 13. [Nero 6 System Requirements](http://www.nero.com/enu/support-nero6-system-requirements.html)
-
 14. <http://www.nero.com/eng/downloads-nero6-nt.php>
-
 15.
-
 16.
-
 17.
-
 18.
 19.
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.

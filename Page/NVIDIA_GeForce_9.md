@@ -56,19 +56,13 @@ GeForce 9800S\[8\] 是應用於小型[個人電腦或高階](https://zh.wikipedi
 
   - [NVIDIA GeForce 9系列主頁](https://web.archive.org/web/20141220185553/http://www.nvidia.com/page/geforce9.html)
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink") [Category:2008年面世](https://zh.wikipedia.org/wiki/Category:2008年面世 "wikilink")
+[Category:GeForce系列](https://zh.wikipedia.org/wiki/Category:GeForce系列 "wikilink") [Category:2008年面世的產品](https://zh.wikipedia.org/wiki/Category:2008年面世的產品 "wikilink")
 
 1.  [NVIDIA MCP78U芯片組改名GeForce 8300](http://news.mydrivers.com/1/99/99539.htm)
-
 2.  [僅僅是9500GT的一半！9400GT即將上市](http://www.pcpop.com/doc/0/322/322611.shtml)
-
 3.  [8600GT接班人\!G96核心9500GT全面評測](http://www.pcpop.com/doc/0/315/315536.shtml)
-
 4.  [NVIDIA談9800 GT和9500 GT價格及命名](http://news.mydrivers.com/1/112/112795.htm)
-
 5.  [IC廠商稱將力挺全新GeForce GTS 250](http://www.inpai.com.cn/doc/hard/89675.htm)
-
 6.  [NV宣佈9800 GTX+/9800 GT今日上市](http://news.mydrivers.com/1/112/112573.htm)
-
 7.
 8.  [GeForce 9800S為小型PC帶來大幅增進的的繪圖效能](http://www.nvidia.com.tw/object/product_geforce_9800s_tw.html)

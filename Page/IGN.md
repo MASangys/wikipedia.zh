@@ -1,12 +1,12 @@
-**IGN**（Imagine Games Network）是一間由乔纳森·辛普森-宾特在1996年创立的多媒體和評論[網站](../Page/網站.md "wikilink")，主要對象為[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。母公司是**IGN Entertainment**（[GameSpy](../Page/GameSpy.md "wikilink")、[爛番茄](../Page/爛番茄.md "wikilink")、[AskMen持有者](https://zh.wikipedia.org/wiki/AskMen "wikilink")）。
+**IGN**（，想像遊戲網）是一間由乔纳森·辛普森-宾特在1996年创立的多媒體和評論[網站](../Page/網站.md "wikilink")，主要對象為[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。母公司是****（[GameSpy](../Page/GameSpy.md "wikilink")、[爛番茄](../Page/爛番茄.md "wikilink")、持有者）。
 
-IGN的主網站包含數個特別網頁或「頻道」，每一個都在IGN有分區。遊戲有關的頻道例如有：[电-{}-脑游戏](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")、[任天堂](../Page/任天堂.md "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[PlayStation](../Page/PlayStation.md "wikilink")、[行動電話](https://zh.wikipedia.org/wiki/行動電話 "wikilink")、[Retro](https://zh.wikipedia.org/wiki/Retro "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")。IGN頻道還包含：電影、音樂、工具、科技、運動、電視等等。
+IGN的主網站包含數個特別網頁或「頻道」，每一個都在IGN有分區。遊戲有關的頻道例如有：[电-{}-脑游戏](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")、[任天堂](../Page/任天堂.md "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[PlayStation](../Page/PlayStation.md "wikilink")、[行動電話](https://zh.wikipedia.org/wiki/行動電話 "wikilink")、、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")。IGN頻道還包含：電影、音樂、工具、科技、運動、電視等等。
 
 ## 歷史
 
 [Ignentertainmenthq.jpg](https://zh.wikipedia.org/wiki/File:Ignentertainmenthq.jpg "fig:Ignentertainmenthq.jpg")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[布利斯班市](https://zh.wikipedia.org/wiki/布利斯班市 "wikilink")（Brisbane, California）\]\]
 
-Imagine Games Network by於1996年9月創立，IGN以5個獨立網站開始運作：IGN64.com、PSXPower、Saturnworld、Next-Generation.com、Ultra Game Players Online。1998年，網路聯合這些獨立網頁發展了IGN旗下的系統「頻道。Next-Generation和Ultra Game Players Online沒有被包含在內；UGPO伴隨雜誌的取消而解散，當Imagine決定發展[Daily Radar商標時](https://zh.wikipedia.org/wiki/Daily_Radar "wikilink")，Next-Generation被耽擱。
+Imagine Games Network於1996年9月創立，IGN以5個獨立網站開始運作：IGN64.com、PSXPower、Saturnworld、Next-Generation.com、Ultra Game Players Online。1998年，網路聯合這些獨立網頁發展了IGN旗下的系統「頻道。Next-Generation和Ultra Game Players Online沒有被包含在內；UGPO伴隨雜誌的取消而解散，當Imagine決定發展[Daily Radar商標時](https://zh.wikipedia.org/wiki/Daily_Radar "wikilink")，Next-Generation被耽擱。
 
 2005年6月，IGN聲稱每個月有2300萬人來訪網站，其中5萬是已註冊用戶。根據[Alexa](../Page/Alexa_Internet.md "wikilink")，IGN成為200個最多人訪問的網站，IGN討論區則是最活躍[網路論壇](https://zh.wikipedia.org/wiki/網路論壇 "wikilink")\[1\]。2005年9月，IGN被Rupert Murdoch的多媒體交易大企業[新聞集團收購](https://zh.wikipedia.org/wiki/新聞集團 "wikilink")。
 

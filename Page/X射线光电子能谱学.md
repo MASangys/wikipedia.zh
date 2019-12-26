@@ -178,10 +178,7 @@ XPS中的化学位移（chemical shift），不同于[核磁共振谱中的](htt
 [Category:原子物理学](https://zh.wikipedia.org/wiki/Category:原子物理学 "wikilink") [Category:分子物理学](https://zh.wikipedia.org/wiki/Category:分子物理学 "wikilink") [Category:光谱学](https://zh.wikipedia.org/wiki/Category:光谱学 "wikilink") [Category:表面化學](https://zh.wikipedia.org/wiki/Category:表面化學 "wikilink") [Category:表面分析技术](https://zh.wikipedia.org/wiki/Category:表面分析技术 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.

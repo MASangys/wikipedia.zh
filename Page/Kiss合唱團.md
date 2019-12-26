@@ -523,344 +523,182 @@ PlotData=
 [Category:美國搖滾樂團](https://zh.wikipedia.org/wiki/Category:美國搖滾樂團 "wikilink") [Category:美國重金屬樂團](https://zh.wikipedia.org/wiki/Category:美國重金屬樂團 "wikilink") [Category:硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:硬式搖滾樂團 "wikilink") [Category:摇滚名人堂入选者](https://zh.wikipedia.org/wiki/Category:摇滚名人堂入选者 "wikilink") [Category:1973年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1973年成立的音樂團體 "wikilink") [Category:環球唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:環球唱片旗下藝人 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  Gooch and Suhs, *Kiss Alive Forever*, pp. 14.
-
 6.  Gill, *Focus*, pp. 68–71.
-
 7.  Leaf and Sharp, *Behind the Mask*, pp. 20–21.
-
 8.  Leaf and Sharp, *Behind the Mask*, pp. 33, 57–58.
-
 9.
-
 10.
-
 11.
-
 12. Gebert and McAdams, *Kiss & Tell,* pp. 41, 42.
-
 13.  Article also hosted by Sue Apfelbaum [here.](https://s3.amazonaws.com/external_clips/278919/Kiss_logo.pdf)
-
 14. Simmons, Gene (2001). *Kiss and Make-up*. Crown. . p. 119
-
 15.
-
 16. Leaf and Sharp, *Behind the Mask*, pp. 145–146.
-
 17. Gooch and Suhs, *Kiss Alive Forever*, p. 27.
-
 18.
-
 19.
-
 20. Gill, *Focus*, pp. 140–141.
-
 21.
-
 22. Leaf and Sharp, *Behind the Mask*, pp. 62–64.
-
 23.
-
 24.
-
 25. Gill, *Focus*, pp. 169–172.
-
 26.
-
 27.
-
 28. Lendt, *Kiss and Sell*, pp. 65–66.
-
 29.
-
 30.
-
 31. Gill, *Focus*, pp. 272–273.
-
 32. Lendt, *Kiss and Sell*, p. 162.
-
 33. Lendt, *Kiss and Sell*, pp. 88–89.
-
 34. Gill, *Focus*, p. 271.
-
 35. Lendt, *Kiss and Sell*, p. 92.
-
 36. Lendt, *Kiss and Sell*, p. 94.
-
 37. Lendt, *Kiss and Sell*, p. 95.
-
 38. Lendt, *Kiss and Sell*, pp. 91–92.
-
 39. Gill, *Focus*, pp. 346–347.
-
 40. Lendt, *Kiss and Sell*, pp. 102–105.
-
 41. Gooch and Suhs, *Kiss Alive Forever*, p. 98.
-
 42. Leaf and Sharp, *Behind the Mask*, p. 100.
-
 43. Leaf and Sharp, *Behind the Mask*, pp. 170–171.
-
 44. Gooch and Suhs, *Kiss Alive Forever*, pp. 97–98.
-
 45. Lendt, *Kiss and Sell*, pp. 150–151.
-
 46. Gooch and Suhs, *Kiss Alive Forever*, p. 109.
-
 47. Leaf and Sharp, *Behind the Mask*, pp. 101–102.
-
 48.
-
 49. Gooch and Suhs, *Kiss Alive Forever*, p. 113.
-
 50. Leaf and Sharp, *Behind the Mask*, p. 102.
-
 51. Gill, *Focus*, p. 460.
-
 52. Gill, *Focus*, pp. 462–463.
-
 53. Gooch and Suhs, *Kiss Alive Forever*, p. 117.
-
 54. Simmons, *Kiss and Make-up*, p. 186.
-
 55. Gill, *Focus*, p. 514.
-
 56. Lendt, *Kiss and Sell*, pp. 243–244.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61. Lendt, *Kiss and Sell*, pp. 255–256.
-
 62.
-
 63. Gill, *Focus*, pp. 493–495.
-
 64. Gooch and Suhs, *Kiss Alive Forever*, pp. 118–120.
-
 65. Simmons, *Kiss and Make-up*, p. 187.
-
 66. Simmons, Gene (2001). KISS AND MAKE-UP. Arrow Books.  (Page 187 lines 17-18)
-
 67. Simmons, Gene (2001). KISS AND MAKE-UP. Arrow Books.  (Page 192 lines 3-4)
-
 68.
-
 69.
 70.
-
 71.
 72.
 73.
 74.
 75.
 76. Lendt, *Kiss and Sell*, p. 289.
-
 77. Lendt, *Kiss and Sell*, p. 294.
-
 78. Gooch and Suhs, *Kiss Alive Forever*, pp. 139–140.
-
 79.
-
 80.
 81. Lendt, *Kiss and Sell*, pp. 311–312.
-
 82. Leaf and Sharp, *Behind the Mask*, p. 360–363.
-
 83. Leaf and Sharp, *Behind the Mask*, p. 107.
-
 84.
-
 85.
-
 86. Leaf and Sharp, *Behind the Mask*, pp. 108–110.
-
 87. Gooch and Suhs, *Kiss Alive Forever*, p. 217.
-
 88.
 89. Leaf and Sharp, *Behind the Mask*, pp. 403–404.
-
 90.
-
 91. Gooch and Suhs, *Kiss Alive Forever*, p. 224.
-
 92. Gooch and Suhs, *Kiss Alive Forever*, p. 225.
-
 93.
-
 94.
 95.
-
 96.
-
 97. Leaf and Sharp, *Behind the Mask*, p. 112, 115.
-
 98. Gooch and Suhs, *Kiss Alive Forever*, p. 245.
-
 99.
-
 100.
-
 101.
-
 102.
-
 103.
-
 104.
-
 105.
-
 106.
-
 107.
-
 108. Gooch and Suhs, *Kiss Alive Forever*, p. 269.
-
 109.
-
 110. Gooch and Suhs, *Kiss Alive Forever*, p. 270.
-
 111. (July 25, 2003). *Infoplease*. Retrieved April 17, 2006.
-
 112. [YouTube – Broadcast Yourself](https://www.youtube.com/watch?v=0bd8Rs7A0Ek)
-
 113.
-
 114. ["2003 Top 20 Concert Tours"](http://www.infoplease.com/ipea/A0921829.html). *Infoplease*. Retrieved April 17, 2006.
-
 115.
-
 116.
-
 117.
-
 118.
-
 119.
-
 120.
-
 121.
-
 122.
-
 123.
-
 124.
-
 125.
-
 126.
-
 127.
-
 128.
 129.
-
 130.
-
 131.
-
 132.
-
 133.
-
 134.
-
 135.
-
 136.
 137.
-
 138.
-
 139.
-
 140.
-
 141.
-
 142.
-
 143.
-
 144.
-
 145.
-
 146.
-
 147.
-
 148.
-
 149.
 150.
-
 151.
 152.
-
 153.
-
 154.
-
 155.
-
 156.
-
 157.
-
 158.
-
 159.
-
 160. ["Kiss biography"](https://www.rollingstone.com/music/artists/kiss/biography). Rolling Stone. Retrieved September 22, 2017
-
 161.
-
 162.
-
 163.
-
 164.
-
 165.
-
 166. [Crocker 1993](https://zh.wikipedia.org/wiki/#Crocker1993 "wikilink"), pg. 8, "In the middle of the seventies, glam-metal rockers like Queen, Sweet, T. Rex, Slade, and later, KISS, would keep the world safe for flamboyant clothes and makeup, androgyny, bizarre theatrics and powerful riffing."
-
 167.
-
 168.
 169.
 170.
-
 171.
-
 172.
-
 173.
-
 174.
-
 175.
 176.
-
 177. Leaf & Sharp 2004, s. 172–173.
-
 178.
 179.
-
 180. Kitts, Jeff: 'Kiss 'N' Makeup', *[Guitar World](https://zh.wikipedia.org/wiki/Guitar_World "wikilink")*, September 1996, p73

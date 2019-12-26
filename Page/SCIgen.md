@@ -8,7 +8,7 @@ SCIgen由[美国](../Page/美国.md "wikilink")[麻省理工学院](../Page/麻�
 
 ## 影响
 
-2005年，SCIgen的编写者们将他们使用这个工具生成的《Rooter: A Methodology for the Typical Unification of Access Points and Redundancy》\[4\]一文投往该年度的“世界[系统学](https://zh.wikipedia.org/wiki/系统学 "wikilink")、[控制论与](https://zh.wikipedia.org/wiki/控制论 "wikilink")[信息学会议](https://zh.wikipedia.org/wiki/信息学 "wikilink")”（World Multiconference on Systemics, Cybernetics and Informatics，WMSCI），被成功录用为“未经[同行评审](https://zh.wikipedia.org/wiki/同行评审 "wikilink")”文章，并且作者被邀请到会议上发言。\[5\]SCIgen的编写者在他们的网站上公布了真相，经由[Slashdot](../Page/Slashdot.md "wikilink")网站报道后，这一事件得到许多公众的了解。WMSCI收回了邀请，但SCIgen的编写团队仍然前往WMSCI举办会议的酒店，在旁边租下场地，在同一时间、同一地点也举办了一个“会议”，并完全按照学术会议的流程发表了一系列用SCIgen自动生成的“论文”。\[6\]\[7\]WMSCI会议的组织者是纳吉布·卡利奥斯教授（Nagib Callaos），这个会议在2000年至2005年得到[IEEE赞助](https://zh.wikipedia.org/wiki/IEEE "wikilink")，但2006年起赞助被终止。
+2005年，SCIgen的编写者们将他们使用这个工具生成的《Rooter: A Methodology for the Typical Unification of Access Points and Redundancy》\[4\]一文投往该年度的“世界[系统学](https://zh.wikipedia.org/wiki/系统学 "wikilink")、[控制论](../Page/控制论.md "wikilink")与[信息学会议](https://zh.wikipedia.org/wiki/信息学 "wikilink")”（World Multiconference on Systemics, Cybernetics and Informatics，WMSCI），被成功录用为“未经[同行评审](https://zh.wikipedia.org/wiki/同行评审 "wikilink")”文章，并且作者被邀请到会议上发言。\[5\]SCIgen的编写者在他们的网站上公布了真相，经由[Slashdot](../Page/Slashdot.md "wikilink")网站报道后，这一事件得到许多公众的了解。WMSCI收回了邀请，但SCIgen的编写团队仍然前往WMSCI举办会议的酒店，在旁边租下场地，在同一时间、同一地点也举办了一个“会议”，并完全按照学术会议的流程发表了一系列用SCIgen自动生成的“论文”。\[6\]\[7\]WMSCI会议的组织者是纳吉布·卡利奥斯教授（Nagib Callaos），这个会议在2000年至2005年得到[IEEE赞助](https://zh.wikipedia.org/wiki/IEEE "wikilink")，但2006年起赞助被终止。
 
 SCIgen团队向WMSCI提交这篇论文是事先计划好的行为。他们指出，WMSCI录用劣质的文章，并且向学术界发送泛滥的论文征集信息。\[8\]
 
@@ -35,28 +35,18 @@ SCIgen自动生成的论文已经多次被一些[期刊](../Page/期刊.md "wiki
 [Category:科學騙局](https://zh.wikipedia.org/wiki/Category:科學騙局 "wikilink") [Category:形式语言](https://zh.wikipedia.org/wiki/Category:形式语言 "wikilink") [Category:人工智能](https://zh.wikipedia.org/wiki/Category:人工智能 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
-
 6.
 7.
-
 8.
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15. [The official Herbert Schlangemann Blog](http://diehimmelistschoen.blogspot.com/)
-
 16.

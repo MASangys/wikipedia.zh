@@ -305,36 +305,26 @@ Triple H在2007年的Summerslam回歸，Shawn Michaels也於不久之後回歸�
 [Category:世界摔角娛樂](https://zh.wikipedia.org/wiki/Category:世界摔角娛樂 "wikilink") [Category:美國職業摔角手](https://zh.wikipedia.org/wiki/Category:美國職業摔角手 "wikilink") [Category:美国电影男演员](https://zh.wikipedia.org/wiki/Category:美国电影男演员 "wikilink") [Category:美国电视男演员](https://zh.wikipedia.org/wiki/Category:美国电视男演员 "wikilink") [Category:美国健美运动员](https://zh.wikipedia.org/wiki/Category:美国健美运动员 "wikilink") [Category:法国裔美国人](https://zh.wikipedia.org/wiki/Category:法国裔美国人 "wikilink") [Category:新罕布什尔州人](https://zh.wikipedia.org/wiki/Category:新罕布什尔州人 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.
 8.
 9.
-
 10.
-
 11.
 12.
 13.
 14.
 15.
-
 16.
 17.
-
 18.
 19. Baer, Randy and R. D. Reynolds. *Wrestlecrap: The Very Worst of Pro Wrestling* (p.204)
-
 20.
 21.
-
 22.
 23.
 24.
@@ -342,211 +332,129 @@ Triple H在2007年的Summerslam回歸，Shawn Michaels也於不久之後回歸�
 26.
 27.
 28.
-
 29. Baer, Randy and R. D. Reynolds. *Wrestlecrap: The Very Worst of Pro Wrestling* (p.206)
-
 30. Pro Wrestling Illustrated presents: 2007 Wrestling almanac & book of facts. "Wrestling’s historical cards" (p.95)
-
 31.
 32.
-
 33.
-
 34.
 35.
 36.
-
 37.
-
 38.
 39.
 40. Laurer, Joanie. *If They Only Knew*, 266–267.
-
 41.
-
 42.
-
 43. Laurer, Joanie. *If They Only Knew*, 269.
-
 44.
 45.
-
 46. Baer, Randy and R. D. Reynolds. *Wrestlecrap: The Very Worst of Pro Wrestling* (p.210)
-
 47.
 48. Pro Wrestling Illustrated presents: 2007 Wrestling almanac & book of facts. "Wrestling’s historical cards" (p.100)
-
 49.
 50.
 51.
-
 52.
 53.
 54.
 55. Pro Wrestling Illustrated presents: 2007 Wrestling almanac & book of facts. "Wrestling’s historical cards" (p.102)
-
 56.
 57.
 58.
 59.
 60.
 61. Pro Wrestling Illustrated presents: 2007 Wrestling almanac & book of facts. "Wrestling’s historical cards" (p.104)
-
 62.
 63.
-
 64. Baer, Randy and R. D. Reynolds. *Wrestlecrap: The Very Worst of Pro Wrestling* (p.257)
-
 65.
-
 66.
-
 67. Pro Wrestling Illustrated presents: 2007 Wrestling almanac & book of facts. "Wrestling’s historical cards" (p.105)
-
 68.
-
 69. Pro Wrestling Illustrated presents: 2007 Wrestling almanac & book of facts. "Wrestling’s historical cards" (p.106)
-
 70.
 71. Pro Wrestling Illustrated presents: 2007 Wrestling almanac & book of facts. "Wrestling’s historical cards" (p.107)
-
 72.
-
 73.
 74.
 75.
 76.
 77.
 78. Pro Wrestling Illustrated presents: 2007 Wrestling almanac & book of facts. "Wrestling’s historical cards" (p.110)
-
 79.
-
 80.
 81.
-
 82.
 83.
 84.
-
 85.
 86. Pro Wrestling Illustrated presents: 2007 Wrestling almanac & book of facts. "Wrestling’s historical cards" (p.111)
-
 87.
-
 88. Pro Wrestling Illustrated presents: 2007 Wrestling almanac & book of facts. "Wrestling’s historical cards" (p.112)
-
 89.
 90. Pro Wrestling Illustrated presents: 2007 Wrestling almanac & book of facts. "Wrestling’s historical cards" (p.114)
-
 91.
 92. Pro Wrestling Illustrated presents: 2007 Wrestling almanac & book of facts. "Wrestling’s historical cards" (p.115)
-
 93.
 94.
 95. Pro Wrestling Illustrated presents: 2007 Wrestling almanac & book of facts. "Wrestling’s historical cards" (p.116)
-
 96.
-
 97.
-
 98.
-
 99. Pro Wrestling Illustrated presents: 2007 Wrestling almanac & book of facts. "Wrestling’s historical cards" (p.117)
-
 100.
-
 101. Pro Wrestling Illustrated presents: 2007 Wrestling almanac & book of facts. "Wrestling’s historical cards" (p.118)
-
 102.
-
 103.
-
 104. Pro Wrestling Illustrated presents: 2007 Wrestling almanac & book of facts. "Wrestling’s historical cards" (p.119)
-
 105.
 106.
-
 107. Pro Wrestling Illustrated presents: 2007 Wrestling almanac & book of facts. "Wrestling’s historical cards" (p.121)
-
 108.
-
 109.
-
 110.
 111. Pro Wrestling Illustrated presents: 2007 Wrestling almanac & book of facts. "Wrestling’s historical cards" (p.122)
-
 112.
 113.
-
 114.
 115.
-
 116.
 117.
-
 118.
-
 119.
-
 120.
 121.
-
 122.
-
 123.
-
 124.
-
 125.
-
 126.
-
 127.
-
 128.
-
 129.
-
 130.
-
 131.
-
 132.
-
 133.
-
 134.
-
 135.
-
 136.
-
 137.
-
 138.
-
 139.
 140.
 141.
-
 142.
-
 143.
-
 144.
-
 145.
-
 146.
-
 147.
 148.
-
 149.
-
 150.
 151.
-
 152.
 153.
 154.
@@ -555,28 +463,19 @@ Triple H在2007年的Summerslam回歸，Shawn Michaels也於不久之後回歸�
 157.
 158.
 159.
-
 160.
 161.
 162.
 163.
 164.
 165.
-
 166.
-
 167.
-
 168.
-
 169.
-
 170.
-
 171.
-
 172.
 173.
-
 174.
 175.

@@ -72,5 +72,4 @@ Super A'Can的失败原因有几点。首先其本身机能虽可以媲美超級
 [Category:第四世代遊戲機](https://zh.wikipedia.org/wiki/Category:第四世代遊戲機 "wikilink") [Category:臺灣電子遊戲界](https://zh.wikipedia.org/wiki/Category:臺灣電子遊戲界 "wikilink") [Category:1995年面世的產品](https://zh.wikipedia.org/wiki/Category:1995年面世的產品 "wikilink")
 
 1.  [videogame console library资料](http://www.videogameconsolelibrary.com/pg90-funtech.htm)
-
 2.

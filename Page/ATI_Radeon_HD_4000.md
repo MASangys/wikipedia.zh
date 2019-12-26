@@ -931,32 +931,19 @@ GFLOPs</p></th>
 [Category:ATI顯示卡](https://zh.wikipedia.org/wiki/Category:ATI顯示卡 "wikilink")
 
 1.  [AMD绝地反击：Radeon HD 4870/4850正式发布](http://news.mydrivers.com/1/109/109517_2.htm)
-
 2.  [Radeon HD 4550/4350最终规格、价格详解](http://news.mydrivers.com/1/115/115548.htm)
-
 3.  [A卡支持PhysX物理加速 NVIDIA鼎力协助](http://news.mydrivers.com/1/110/110603.htm)
-
 4.  [Radeon HD 4870 X2正式发布](http://news.mydrivers.com/1/113/113695.htm)
-
 5.  [HD4870X2全面评测](http://www.pcpop.com/doc/0/319/319704_7.shtml)
-
 6.  [Radeon HD 4830官方游戏性能展示](http://news.mydrivers.com/1/117/117609.htm)
-
 7.  [Radeon HD 4890准备就绪 提前一周发布](http://news.mydrivers.com/1/130/130906.htm)
-
 8.  [RV790晶体管数比RV770多](http://www.pcpop.com/doc/0/387/387655.shtml)
-
 9.  [AMD正式发布新一代主流显卡Radeon HD 4600](http://news.mydrivers.com/1/116/116222.htm)
-
 10. [ATI Radeon Mobility Graphics Cards](http://products.amd.com/en-us/MobilityGPUResult.aspx)
-
 11. [ATI Mobility Radeon HD 4600 Series Graphics – Overview](http://ati.amd.com/products/mobilityradeonhd4600/index.html)
-
 12.
 13.
 14.
 15. [ATI Device ID page](http://ati.amd.com/developer/vendorid.html) . Retrieved April 1, 2008.
-
 16. [ATI Mobility Radeon HD 4800 Series](http://www.amd.com/mobility/hd4800)
-
 17. [AMD Launches World’s First 40 nm Graphics Processors](http://www.amd.com/us/press-releases/Pages/amd_launches_worlds_first-2009mar03.aspx)

@@ -153,16 +153,10 @@ TOW ITAS包括三種新的可替換配件，目標獲取次系統（TAS）、火
 [Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink") [Category:反坦克导弹](https://zh.wikipedia.org/wiki/Category:反坦克导弹 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink") [Category:美國海軍陸戰隊裝備](https://zh.wikipedia.org/wiki/Category:美國海軍陸戰隊裝備 "wikilink") [Category:美國售台軍事裝備](https://zh.wikipedia.org/wiki/Category:美國售台軍事裝備 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  <http://www.americanordnance.com/pdf/Tow.pdf>
-
 6.  [TOW Weapon System](http://www.msl.army.mil/Documents/Briefings/CCWS/TOW%20PEO%20Website%20Brief.pdf)
-
 7.
 8.

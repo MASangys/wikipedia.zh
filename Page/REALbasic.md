@@ -54,7 +54,7 @@
   - [REALbasic的開發者雜誌官方網站](http://www.rbdeveloper.com/)
   - [RB圖書館](http://www.rblibrary.com/)，公開一些代原碼等。
   - [REALDev](https://web.archive.org/web/20070629080535/http://www.classicteck.com/rbdn.php)，一個Wiki型的開發／討論及資料庫。
-  - [RBDevZone](http://www.rbdevzone.com)，給高級／專業的編程員的討論。
+  - [RBDevZone](https://web.archive.org/web/20190728041814/http://rbdevzone.com/)，給高級／專業的編程員的討論。
   - [declareSub.com](http://www.declareSub.com)，公開一些代源碼等資料。
   - [召苏博客 - Xojo频道](http://www.3exware.com/home/default.asp?cateID=5)一些Xojo相关咨询
 

@@ -1,6 +1,6 @@
 [Barns_grand_tetons_YCbCr_separation.jpg](https://zh.wikipedia.org/wiki/File:Barns_grand_tetons_YCbCr_separation.jpg "fig:Barns_grand_tetons_YCbCr_separation.jpg")
 
-YCbCr或Y'CbCr有的時候會被寫作：YC<small>B</small>C<small>R</small>或是Y'C<small>B</small>C<small>R</small>，是[色彩空間](../Page/色彩空間.md "wikilink")的一種，通常會用于影片中的影像連續處理，或是數字攝影系統中。Y'和Y是不同的，Y就是所謂的[流明](../Page/流明.md "wikilink")（[luminance](https://zh.wikipedia.org/wiki/luminance "wikilink")），表示光的濃度且為非線性，使用[伽馬修正](https://zh.wikipedia.org/wiki/伽玛校正 "wikilink")（gamma correction）編碼處理。Y'為顏色的[亮度](https://zh.wikipedia.org/wiki/亮度 "wikilink")（[luma](https://zh.wikipedia.org/wiki/luma "wikilink")）成分、而C<small>B</small>和C<small>R</small>則為藍色和紅色的濃度偏移量成份。
+YCbCr或Y'CbCr有的時候會被寫作：YC<small>B</small>C<small>R</small>或是Y'C<small>B</small>C<small>R</small>，是[色彩空間](../Page/色彩空間.md "wikilink")的一種，通常會用于影片中的影像連續處理，或是數字攝影系統中。Y'和Y是不同的，Y就是所謂的[流明](../Page/流明.md "wikilink")（[luminance](https://zh.wikipedia.org/wiki/luminance "wikilink")），Y'表示光的濃度且為非線性，使用[伽馬修正](https://zh.wikipedia.org/wiki/伽玛校正 "wikilink")（gamma correction）編碼處理，而C<small>B</small>和C<small>R</small>則為藍色和紅色的濃度偏移量成份。
 
 Y'CbCr不是一種絕對的色彩空間，是一種針對[RGB資訊所做的編碼](https://zh.wikipedia.org/wiki/RGB "wikilink")。真正的顏色顯示是根據實際RGB色盤（[colorant](https://zh.wikipedia.org/wiki/colorant "wikilink")）來決定的。因此Y'CbCr所表示的值只有在標準RGB色盤或是ICC數據（[ICC profile](https://zh.wikipedia.org/wiki/ICC_Profile "wikilink")）有提供的時候才能計算。
 

@@ -138,7 +138,7 @@ Google Play允許開發人員向特定的用戶組發布早期版本的應用，
 
 ### 音樂
 
-[Google Play 音樂的可用區域](https://zh.wikipedia.org/wiki/File:Google_Play_Music_Availability.png "fig:Google Play 音樂的可用區域")Google Play提供了一個擁有超過3500萬首歌曲的在線音樂商店，\[74\]\[75\] 雲端儲存多達5萬首免費歌曲，以及名為Google Play音樂的訂閱音樂串流服務。 歌曲售價為1.29美元，0.99美元，0.69美元，免費。 Google Play音樂目前可在58個國家使用。\[76\]原名為Google Music。服務於2011年5月10日在[Google I/O上發佈](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")，2011年11月向公眾開放，2012年3月7日被整合進Google Play。
+Google Play提供了一個擁有超過3500萬首歌曲的在線音樂商店，\[74\]\[75\] 雲端儲存多達5萬首免費歌曲，以及名為Google Play音樂的訂閱音樂串流服務。 歌曲售價為1.29美元，0.99美元，0.69美元，免費。 Google Play音樂目前可在64個國家使用。\[76\]原名為Google Music。服務於2011年5月10日在[Google I/O上發佈](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")，2011年11月向公眾開放，2012年3月7日被整合進Google Play。
 
 Play音樂允許使用者免費儲存最多20000首歌曲，並可以於線上購買音樂並分享音樂至[Google+](../Page/Google+.md "wikilink")，用戶可以利用浏覽器、[Android](../Page/Android.md "wikilink")、使用[Adobe Flash的產品透過Music](../Page/Adobe_Flash.md "wikilink") Manager上傳音樂於雲端或下載於電腦端。利用Instant Mix功能可以加入含有歌曲搭配的播放清單。或[iTunes匯入的音樂也會保留播放清單](https://zh.wikipedia.org/wiki/iTunes "wikilink")。
 
@@ -1469,6 +1469,22 @@ Google Play於2015年3月前提供「裝置」區塊，讓使用者購買Google 
 
 2019年3月，Google Play被[中華民國財政部依照](https://zh.wikipedia.org/wiki/中華民國財政部 "wikilink")《統一發票使用辦法》\[109\]之規定開立[雲端發票](https://zh.wikipedia.org/wiki/統一發票_\(台灣\) "wikilink")\[110\]。
 
+### [澳门](https://zh.wikipedia.org/wiki/澳门 "wikilink")
+
+2017年6月28日，Google宣布澳门地区用户可以使用Google Play的购买和应用内付费功能\[111\]，并可以选择通过Visa，万事达和美国运通卡付款\[112\]，在这之前虽然澳门行货Android手机预装Google服务，但使用者也只能从Google Play下载免费的软件，大部分的澳门游戏玩家会选择去游戏官网下载游戏apk自行安装，并通过第三方点卡支付。
+
+### [克里米亚](../Page/克里米亚.md "wikilink")
+
+2015年2月，由于美国加大对克里米亚的制裁，谷歌在同年2月1日阻止克里米亚半岛上的Android用户从Google Play下载任何应用（下载任何软件会出现[403报错](../Page/HTTP_403.md "wikilink")）。谷歌还阻止克里米亚半岛居民使用[AdWords](https://zh.wikipedia.org/wiki/AdWords "wikilink")，AdSense和G suite，但仍允许克里米亚地区用户使用谷歌的免费服务，例如搜索，YouTube，云盘等等。\[113\]\[114\]
+
+### [伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")
+
+2013年8月，在美国放松对伊朗的计算机技术制裁之后，谷歌宣布将通过其在伊朗的Google Play商店提供免费应用，在这之前，伊朗人从Google Play下载应用会出现403错误而导致无法下载任何软件，但付费项目和内购项目至今仍然不可用\[115\]。伊朗本土Android商城[Cafe Bazaar和一些热门游戏服务商诸如Supercell签订合约以提供诸如](https://zh.wikipedia.org/wiki/Cafe_Bazaar "wikilink")《部落冲突》《皇室战争》等游戏的内购功能，结算货币为伊朗里亚尔，但游戏登陆账号依然使用Google Play游戏账号而不是像中国大陆使用本土代理商的账号服务。\[116\]\[117\]
+
+### [叙利亚](../Page/叙利亚.md "wikilink")
+
+由于美国的禁运政策，Google Play禁止叙利亚用户从Google Play上下载任何软件，但同克里米亚一样，Google不限制叙利亚境内的使用者使用其他的免费Google服务。\[118\]。
+
 ## 参考文献
 
 ## 外部連結
@@ -1492,206 +1508,120 @@ Google Play於2015年3月前提供「裝置」區塊，讓使用者購買Google 
 [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink") [Category:移动软件分发平台](https://zh.wikipedia.org/wiki/Category:移动软件分发平台 "wikilink") [Category:線上音樂商店](https://zh.wikipedia.org/wiki/Category:線上音樂商店 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink") [Category:2012年面世的產品](https://zh.wikipedia.org/wiki/Category:2012年面世的產品 "wikilink") [Category:Google_Play](https://zh.wikipedia.org/wiki/Category:Google_Play "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.   Statista|accessdate=2016-12-02|work=Statista|archive-url=[https://web.archive.org/web/20161126114837/https://www.statista.com/statistics/276623/number-of-apps-available-in-leading-app-stores/|archive-date=2016-11-26|dead-url=no](https://web.archive.org/web/20161126114837/https://www.statista.com/statistics/276623/number-of-apps-available-in-leading-app-stores/%7Carchive-date=2016-11-26%7Cdead-url=no)}}
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20. [订阅式 Google Play Pass 正式推出](https://cn.engadget.com/2019/09/23/android-app-subscription-service/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAFWp7UP9GWzk4axFxSIHUIz0n81Ehr6hfu9Cx-6n2L2wQi2PXLF-u9p0RG42WF2zRCnZgWCufvCaMSY142_1_hdYf9rPUZIIpntbp3mIPlRT1wseK7VrOBkei-qEOyWuszRYXiyscge2WKCirxmH2FByG5UMDZziUdHwRXakDGRn)
-
 21.
-
 22.
-
 23.
-
 24. Churchill, Sam (September 10, 2010). ["Android Tablets Need 3G/4G for Market Support"](http://www.dailywireless.org/2010/09/10/android-tablets-need-3g4g-for-market-support/) . dailywireless.org. Retrieved February 9, 2012.
-
 25.
-
 26.
-
 27. [Android Master](http://fc-hk.net/AndroidMaster/)
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
 34.
-
 35.
-
 36.  *Wikipedia has an [article](https://zh.wikipedia.org/wiki/The_Secrets_to_App_Success_on_Google_Play "wikilink") about the cited book*.
-
 37.
-
 38.
-
 39.
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
 46.
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
 64.
-
 65.
-
 66.
-
 67.
 68.
-
 69.
 70. [App Stores Growth Accelerates in 2014](http://blog.appfigures.com/app-stores-growth-accelerates-in-2014/) . Appfigures. January 13, 2015
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.
 78.
-
 79.
-
 80.
-
 81.
-
 82.
 83.
-
 84.
 85.
-
 86.
 87.
 88.
-
 89.
-
 90.
-
 91.
 92.
-
 93.
-
 94.
-
 95.
-
 96. ，列表中不僅有大量在中國大陸發售的機型，當中還有非常多在中國大陸本土廠商研發製造的裝置。目前支援列表需要下載。
-
 97.
-
 98.
-
 99.
-
 100.
-
 101. [解決Android 4.0.X無法購買付費軟體問題！](http://www.wretch.cc/blog/wretch3c/13719943)
-
 102. [對於Google Play地區限制的一些解決辦法](http://gujiaxi.github.com/blog/2012/08/01/dui-yu-google-playdi-qu-xian-zhi-de-yi-xie-jie-jue-ban-fa/)
-
 103. [市場接入MarketAccess for Android 1.0.6官方版](http://www.myapks.com/detail-android-10412.html)  - myapk.com
-
 104.
 105.
-
 106.
-
 107.
-
 108.
-
 109.
-
 110.
+111.
+112.
+113.
+114.
+115.
+116.  TechCrunch 中文版|url=[https://techcrunch.cn/2013/08/27/android-developers-can-now-use-googles-play-store-to-distribute-their-free-apps-in-iran/|accessdate=2019-10-09|last=Lardinois发布|first=在](https://techcrunch.cn/2013/08/27/android-developers-can-now-use-googles-play-store-to-distribute-their-free-apps-in-iran/%7Caccessdate=2019-10-09%7Clast=Lardinois发布%7Cfirst=在) 2013 08 27 由 Frederic|work=TechCrunch|language=zh-CN}}
+117.
+118.

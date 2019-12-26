@@ -1,4 +1,4 @@
-**KTSF**是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[舊金山灣區](../Page/舊金山灣區.md "wikilink")一家主要服務亞裔社群、不屬於任何電視網的獨立[廣播](https://zh.wikipedia.org/wiki/廣播 "wikilink")[電視台](https://zh.wikipedia.org/wiki/電視台 "wikilink")，由[林肯廣播公司](https://zh.wikipedia.org/wiki/林肯廣播公司 "wikilink")（Lincoln Broadcasting Company）擁有。KTSF的主頻道26.1﹐於晚上7點至10點的黃金時段，主要播放[粵語和](https://zh.wikipedia.org/wiki/粵語 "wikilink")[普通話節目](https://zh.wikipedia.org/wiki/普通話 "wikilink")，包括自製的新聞和外購的[臺灣](../Page/臺灣.md "wikilink")、[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、和[香港](../Page/香港.md "wikilink")影劇。同時於早上6點至8點以[粵語播放本地製作的晨早新聞](https://zh.wikipedia.org/wiki/粵語 "wikilink")﹐包括即時交通及天氣。其它時段播放[閩南語](https://zh.wikipedia.org/wiki/臺灣閩南語 "wikilink")、[印度語](https://zh.wikipedia.org/wiki/印度語 "wikilink")、[菲律賓語](../Page/菲律賓語.md "wikilink")和[越南語的節目](https://zh.wikipedia.org/wiki/越南語 "wikilink")，以及[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[付費資訊性廣告](https://zh.wikipedia.org/wiki/電視購物 "wikilink")。
+**KTSF**是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[舊金山灣區](../Page/舊金山灣區.md "wikilink")一家主要服務亞裔社群、不屬於任何電視網的獨立[廣播](https://zh.wikipedia.org/wiki/廣播 "wikilink")[電視台](https://zh.wikipedia.org/wiki/電視台 "wikilink")，由[林肯廣播公司](https://zh.wikipedia.org/wiki/林肯廣播公司 "wikilink")（Lincoln Broadcasting Company）擁有。KTSF的主頻道26.1﹐於晚上7點至10點的黃金時段，主要播放[粵語和](https://zh.wikipedia.org/wiki/粵語 "wikilink")[普通話節目](https://zh.wikipedia.org/wiki/普通話 "wikilink")，包括自製的新聞和外購的[臺灣](../Page/臺灣.md "wikilink")、[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、和[香港](../Page/香港.md "wikilink")影劇。於早上6點至8點以[粵語播放本地製作的晨早新聞](https://zh.wikipedia.org/wiki/粵語 "wikilink")﹐包括即時交通及天氣。其它時段播放[閩南語](https://zh.wikipedia.org/wiki/臺灣閩南語 "wikilink")、[印地語](https://zh.wikipedia.org/wiki/印地語 "wikilink")、[菲律賓語](../Page/菲律賓語.md "wikilink")和[越南語的節目](https://zh.wikipedia.org/wiki/越南語 "wikilink")，以及[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[付費資訊性廣告](https://zh.wikipedia.org/wiki/電視購物 "wikilink")。
 
 ## 歷史
 
@@ -99,15 +99,11 @@ KTSF的數碼頻道現時分為下列副頻道：
   - [官方網頁](http://www.ktsf.com)
 
   -
-[Category:美国中文电视台](https://zh.wikipedia.org/wiki/Category:美国中文电视台 "wikilink") [Category:旧金山组织](https://zh.wikipedia.org/wiki/Category:旧金山组织 "wikilink") [Category:粵語電視頻道](https://zh.wikipedia.org/wiki/Category:粵語電視頻道 "wikilink") [Category:华语电视频道](https://zh.wikipedia.org/wiki/Category:华语电视频道 "wikilink") [Category:1976年美国建立](https://zh.wikipedia.org/wiki/Category:1976年美国建立 "wikilink") [Category:1976年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1976年成立的电视台或电视频道 "wikilink")
+[Category:美國中文電視台](https://zh.wikipedia.org/wiki/Category:美國中文電視台 "wikilink") [Category:舊金山組織](https://zh.wikipedia.org/wiki/Category:舊金山組織 "wikilink") [Category:粵語電視頻道](https://zh.wikipedia.org/wiki/Category:粵語電視頻道 "wikilink") [Category:華語電視頻道](https://zh.wikipedia.org/wiki/Category:華語電視頻道 "wikilink") [Category:1976年美國建立](https://zh.wikipedia.org/wiki/Category:1976年美國建立 "wikilink") [Category:1976年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:1976年成立的電視台或電視頻道 "wikilink")
 
 1.
 2.  [BIAfn's Media Web Database -- Information on KTSF-TV](http://www.bia.com/resources_search_result.asp?calls=KTSF&media=TV)
-
 3.
-
 4.  [傳媒透視：三藩市華語電視傳媒](http://www.rthk.org.hk/mediadigest/md9709/Sep6.html)
-
 5.  [信用卡防盜系統（控股）有限公司 2006年2月24日新聞稿](http://www.hkexnews.hk/listedco/listconews/sehk/20060523/LTN20060523126_C.pdf)
-
 6.  [26台資深主播 斯美玲回灣區了](http://sf.worldjournal.com/view/full_sf/21412360/article-26台資深主播-斯美玲回灣區了) ，世界日報，[2013年](../Page/2013年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")

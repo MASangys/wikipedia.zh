@@ -2150,7 +2150,7 @@
   -
   -
   -
-  - [S1 DASH](http://www.dmm.co.jp/digital/videoa/s1dash/index_html/=/ch_navi=/)
+  - [S1 DASH](https://web.archive.org/web/20121024192316/http://www.dmm.co.jp/digital/videoa/s1dash/index_html/=/ch_navi=/)
 
   -
   - [現場KORIN TV【S1公關】](http://com.nicovideo.jp/community/co1169845) - niconico媒體

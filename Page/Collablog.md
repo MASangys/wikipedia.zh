@@ -46,7 +46,7 @@ Collablog主要提供給企業、教育事業或個人部落格、網站之用�
 
   - [Yblog.org Collablog Portal正體中文展示站](http://yblog.org/)
   - [優賞社區網誌](https://web.archive.org/web/20090111100310/http://www.ysteng.idv.tw/)
-  - [無名日記](http://collablog.asongo.info/)
+  - [無名日記](https://web.archive.org/web/20090322185516/http://collablog.asongo.info/)
   - [採用Collablog Community的正體中文攝影網站](https://web.archive.org/web/20070608134845/http://www.eaglesky.idv.tw/)
 
 ## 参考文献

@@ -14,7 +14,8 @@
 
 ## 流行文化
 
-  - [2016年](../Page/2016年.md "wikilink")-《[13小時：班加西的秘密士兵](../Page/13小時：班加西的秘密士兵.md "wikilink")》：被[美國空軍用來](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")[偵察](../Page/偵察.md "wikilink")[監控](https://zh.wikipedia.org/wiki/監控 "wikilink")，[利比亞](https://zh.wikipedia.org/wiki/利比亞 "wikilink")[班加西事件](../Page/班加西事件.md "wikilink")時的[私人軍事服務公司](../Page/私人軍事服務公司.md "wikilink")特戰小組保護美國[中央情報局情報工作站](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")。
+  - [2012年](../Page/2012年.md "wikilink")-《[神鬼認證4](../Page/神鬼認證4.md "wikilink")》：電影中[美國空軍空戰司令部用MQ](https://zh.wikipedia.org/wiki/美國空軍空戰司令部 "wikilink")1捕食者遠端遙控攻擊機追殺亞倫克羅斯，其中一架被亞倫克羅斯用狙擊槍擊中墜毀。
+  - [2016年](../Page/2016年.md "wikilink")-《[13小時：班加西的秘密士兵](../Page/13小時：班加西的秘密士兵.md "wikilink")》：被[美國空軍用來](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")[偵察](../Page/偵察.md "wikilink")、[監控](https://zh.wikipedia.org/wiki/監控 "wikilink")，[利比亞](https://zh.wikipedia.org/wiki/利比亞 "wikilink")[班加西事件](../Page/班加西事件.md "wikilink")時的[私人軍事服務公司](../Page/私人軍事服務公司.md "wikilink")特戰小組保護美國[中央情報局情報工作站](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")。
 
 ## 参考文献
 

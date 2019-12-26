@@ -533,25 +533,18 @@ MELON GREETING（2009年10月15日、Shibuya O-EAST）
   - [新組合Buono\!組成的通知](https://web.archive.org/web/20070817122710/http://www.helloproject.com/newslist/buono_07210005.html)
   - [早安家族的日本網方官站Buono\!的介紹頁面](http://www.helloproject.com/artist/43/index.html)
   - [Buono\!在波麗佳音唱片公司的官方網頁](https://web.archive.org/web/20070930184531/http://music.ponycanyon.co.jp/buono/)
-  - \[<http://wiki.helloproject.tw/Buono>\! Buono\! - 早安族譜 - 早安家族私設＠台灣\]
+  - \[<https://web.archive.org/web/20090220165904/http://wiki.helloproject.tw/Buono>\! Buono\! - 早安族譜 - 早安家族私設＠台灣\]
 
 ## 參考來源
 
 [Category:Buono\!](https://zh.wikipedia.org/wiki/Category:Buono! "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink")
 
 1.
-
 2.
-
 3.  [Berryz工房 嗣永桃子に関する大切なお知らせ](http://www.helloproject.com/news/0910141930_tsugunaga.html)
-
 4.  [Berryz工房 夏焼雅 に関する大切なお知らせ](http://www.helloproject.com/news/0910151500_berryz.html)
-
 5.
-
 6.
 7.
-
 8.  [Sony Music Shop](http://www.sonymusicshop.jp/m/item/itemShw.php?site=S&ima=2620&cd=EPXE000005017)
-
 9.

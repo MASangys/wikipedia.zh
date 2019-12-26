@@ -17,6 +17,5 @@
 [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:Game_Boy_Advance遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance遊戲 "wikilink") [Category:超级马里奥系列电子游戏](https://zh.wikipedia.org/wiki/Category:超级马里奥系列电子游戏 "wikilink") [Category:任天堂游戏](https://zh.wikipedia.org/wiki/Category:任天堂游戏 "wikilink") [Category:神游科技游戏](https://zh.wikipedia.org/wiki/Category:神游科技游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:1988年电子游戏](https://zh.wikipedia.org/wiki/Category:1988年电子游戏 "wikilink")
 
 1.
-
 2.
 3.

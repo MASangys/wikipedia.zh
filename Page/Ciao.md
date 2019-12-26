@@ -50,19 +50,13 @@
 [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:少女漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少女漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:小學館的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:小學館的漫畫雜誌 "wikilink") [Category:Ciao](https://zh.wikipedia.org/wiki/Category:Ciao "wikilink")
 
 1.  『雑誌新聞総かたろぐ　1979年版』
-
 2.  『雑誌新聞総かたろぐ　1984年版』
-
 3.  『雑誌新聞総かたろぐ 1989年版』
-
 4.  [日本雑誌協会](http://www.j-magazine.or.jp/)JMPAマガジンデータによる1号当たり平均部数
-
 5.
 6.
 7.
 8.
 9.  [日本雑誌協会公式ホームページ](http://www.j-magazine.or.jp/)JMPAマガジンデータから
-
 10. 出版指標年報2011より
-
 11.

@@ -10,7 +10,7 @@ SIMBAD是由[恆星確認目錄](https://zh.wikipedia.org/wiki/恆星確認目�
 
 ## 相關條目
 
-  - NASA的[Planetary Data System](https://zh.wikipedia.org/wiki/Planetary_Data_System "wikilink")（PDS）－ 由[加州理工學院的](https://zh.wikipedia.org/wiki/加州理工學院 "wikilink")[噴射推進實驗室維護的太陽系天體資料庫](https://zh.wikipedia.org/wiki/噴射推進實驗室 "wikilink")。
+  - NASA的[Planetary Data System](https://zh.wikipedia.org/wiki/Planetary_Data_System "wikilink")（PDS）－ 由[加州理工學院](../Page/加州理工學院.md "wikilink")的[噴射推進實驗室維護的太陽系天體資料庫](https://zh.wikipedia.org/wiki/噴射推進實驗室 "wikilink")。
   - [NASA/IPAC Extragalactic Database](https://zh.wikipedia.org/wiki/NASA/IPAC_Extragalactic_Database "wikilink") （NED）－ 由[噴射推進實驗室維護的銀河系外天體的資料庫](https://zh.wikipedia.org/wiki/噴射推進實驗室 "wikilink")。
   - [NASA Exoplanet Archive](https://zh.wikipedia.org/wiki/Exoplanet_Archive "wikilink") － 一個線上的太陽系外行星目錄和資料服務的資料庫，由[NExScI](http://nexsci.ipac.caltech.edu)維護。
   - [Bibcode](../Page/Bibcode.md "wikilink")

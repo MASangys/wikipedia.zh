@@ -1,8 +1,8 @@
-**YG Entertainment**是韓國的经纪与娛樂公司（上市日期：2011年11月23日），由[梁鉉錫](../Page/梁鉉錫.md "wikilink")於1996年所創立，與[SM娛樂](../Page/SM娛樂.md "wikilink")、[JYP娛樂](../Page/JYP娛樂.md "wikilink")被稱為**韓國三大娛樂公司**。2016年YG娛樂營業額90億新臺幣。已上市分公司YG PLUS（經營模特，服飾，彩妝，餐飲等副業）2016年銷售額50億新臺幣。
+**YG Entertainment**是韓國的经纪与娛樂公司（上市日期：2011年11月23日），由[梁鉉錫](../Page/梁鉉錫.md "wikilink")於1996年所創立。2016年YG娛樂營業額90億新臺幣。已上市分公司YG PLUS（經營模特，服飾，彩妝，餐飲等副業）2016年銷售額50億新臺幣。
 
 YG是韓國[R\&B和](https://zh.wikipedia.org/wiki/R&B "wikilink")[Hip hop音樂最具代表性的娛樂公司](https://zh.wikipedia.org/wiki/Hip_hop "wikilink")。CEO梁鉉錫曾是1992年出道的[徐太志與孩子們的成员](../Page/徐太志和孩子們.md "wikilink")，该组合被稱為韓國K-pop与Hip-Hop的開山鼻祖。YG旗下藝人擁有龐大人氣，[Youtube共有](https://zh.wikipedia.org/wiki/Youtube "wikilink")3000萬人追蹤、200億點擊率，[Instagram](../Page/Instagram.md "wikilink")追蹤者7000萬人、[Facebook](../Page/Facebook.md "wikilink")8000萬人。
 
-YG整套造星團隊包括：音樂錄製、發行、藝人包裝等；同時還具有頂尖[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")、實力派創作歌手和極具創造力的策劃團隊。YG現旗下藝人有唱片歌手[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")、[CL](https://zh.wikipedia.org/wiki/李彩麟 "wikilink")、[Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")、[李遐怡](../Page/李遐怡.md "wikilink")、[樂童音樂家](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")、[WINNER](../Page/WINNER.md "wikilink")、[iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")、[BLACKPINK](../Page/BLACKPINK.md "wikilink")、[水晶男孩](../Page/水晶男孩.md "wikilink")、[TREASURE 13](../Page/TREASURE_13.md "wikilink")，獨立廠牌的[Zion.T](../Page/Zion.T.md "wikilink")、[hyukoh](https://zh.wikipedia.org/wiki/hyukoh "wikilink")、等，演員[車勝元](../Page/車勝元.md "wikilink")、[姜棟元](https://zh.wikipedia.org/wiki/姜棟元 "wikilink")、[金喜愛](../Page/金喜愛.md "wikilink")、[崔智友](https://zh.wikipedia.org/wiki/崔智友 "wikilink")、[劉寅娜](../Page/劉寅娜.md "wikilink")、[南柱赫](https://zh.wikipedia.org/wiki/南柱赫 "wikilink")、[李聖經](../Page/李聖經.md "wikilink")等。
+YG整套造星團隊包括：音樂錄製、發行、藝人包裝等；同時還具有頂尖[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")、實力派創作歌手和極具創造力的策劃團隊。YG現旗下藝人有唱片歌手[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")、[Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")、[李遐怡](../Page/李遐怡.md "wikilink")、[AKMU](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")、[WINNER](../Page/WINNER.md "wikilink")、[iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")、[BLACKPINK](../Page/BLACKPINK.md "wikilink")、[水晶男孩](../Page/水晶男孩.md "wikilink")、[TREASURE 13](../Page/TREASURE_13.md "wikilink")，獨立廠牌的[Zion.T](../Page/Zion.T.md "wikilink")、[hyukoh](https://zh.wikipedia.org/wiki/hyukoh "wikilink")、等，演員[車勝元](../Page/車勝元.md "wikilink")、[姜棟元](https://zh.wikipedia.org/wiki/姜棟元 "wikilink")、[金喜愛](../Page/金喜愛.md "wikilink")、[崔智友](https://zh.wikipedia.org/wiki/崔智友 "wikilink")、[劉寅娜](../Page/劉寅娜.md "wikilink")、[南柱赫](https://zh.wikipedia.org/wiki/南柱赫 "wikilink")、[李聖經](../Page/李聖經.md "wikilink")等。
 
 ## 歷史
 
@@ -32,7 +32,7 @@ YG整套造星團隊包括：音樂錄製、發行、藝人包裝等；同時還
 
 ### 2019年：爆發一連串醜聞
 
-2019年，YG社長爆發[性招待醜聞](https://zh.wikipedia.org/wiki/性招待 "wikilink")，韓國節目《Straight》26日曝光預告，指出梁鉉錫與旗下一名歌手在2014年7月為2名訪韓的東南亞富豪，泰國Chavanos Rattakul及馬來西亞的[劉特佐安排飯局](https://zh.wikipedia.org/wiki/劉特佐 "wikilink")，席間共包含8名男性及25名女性，而25名女性中，有10名是和YG娛樂關係密切，參與當天飯局的一位女性更向節目控訴，自己在酒席中喝下摻有毒品的烈酒後遭到性侵。該事件涉及旗下多名[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")\[17\]\[18\]，導致社會對其不信任\[19\]，並造成該公司股價大跌\[20\]。
+2019年，YG社長梁鉉錫爆發[性招待醜聞](https://zh.wikipedia.org/wiki/性招待 "wikilink")，韓國節目《Straight》26日曝光預告，指出梁鉉錫與旗下一名歌手在2014年7月為2名訪韓的東南亞富豪，泰國Chavanos Rattakul及馬來西亞的[劉特佐安排飯局](https://zh.wikipedia.org/wiki/劉特佐 "wikilink")，席間共包含8名男性及25名女性，而25名女性中，有10名是和YG娛樂關係密切，參與當天飯局的一位女性更向節目控訴，自己在酒席中喝下摻有毒品的烈酒後遭到性侵。該事件涉及旗下多名[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")\[17\]\[18\]，導致社會對其不信任\[19\]，並造成該公司股價大跌\[20\]。
 
 2019年6月14日，YG社長梁鉉錫被爆出知道自己藝人吸毒，為了息事寧人，私下威脅之前與[BIGBANG成員](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[T.O.P吸食](https://zh.wikipedia.org/wiki/T.O.P "wikilink")[大麻](../Page/大麻.md "wikilink")的女練習生[韓瑞希](../Page/韓瑞希.md "wikilink")，並稱會將旗下涉案藝人送去[日本](../Page/日本.md "wikilink")排毒。在媒體報導後，社長[梁鉉錫](../Page/梁鉉錫.md "wikilink")和其弟代表理事[梁珉錫宣布辭去YG娛樂一切職務](https://zh.wikipedia.org/wiki/梁珉錫 "wikilink")。\[21\]
 
@@ -45,53 +45,195 @@ YG整套造星團隊包括：音樂錄製、發行、藝人包裝等；同時還
 
 ## 旗下藝人
 
-### 唱片歌手
+### 組合
 
-#### 組合
+  - 隊長以**粗體**顯示。
 
-  - [Jinusean](../Page/Jinusean.md "wikilink")
-  - [1TYM](../Page/1TYM.md "wikilink")<small>（暫停活動）</small>
-  - [水晶男孩](../Page/水晶男孩.md "wikilink")
-  - [BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")
-  - [樂童音樂家](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")
-  - [WINNER](../Page/WINNER.md "wikilink")
-  - [iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")
-  - [BLACKPINK](../Page/BLACKPINK.md "wikilink")
-  - [TREASURE 13](../Page/TREASURE_13.md "wikilink")
-      - [TREASURE](../Page/Treasure_\(組合\).md "wikilink")
-      - [MAGNUM](https://zh.wikipedia.org/wiki/Magnum "wikilink")\[22\]
+<table style="width:145%;">
+<colgroup>
+<col style="width: 30%" />
+<col style="width: 15%" />
+<col style="width: 50%" />
+<col style="width: 35%" />
+<col style="width: 15%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>出道日期</p></th>
+<th><p>組合名稱</p></th>
+<th><p>性別</p></th>
+<th><p>成員</p></th>
+<th><p>粉絲名稱</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1997年4月15日</p></td>
+<td><p>2017年7月19日</p></td>
+<td><p><a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a></p></td>
+<td><p>男</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a></strong>{{•}}<a href="../Page/李宰鎮.md" title="wikilink">李宰鎮</a><br />
+<a href="../Page/金在德.md" title="wikilink">金在德</a>{{•}}<a href="../Page/張水院.md" title="wikilink">張水院</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2006年8月19日</p></td>
+<td><p>2009年6月24日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a></p></td>
+<td><p><a href="../Page/T.O.P..md" title="wikilink">T.O.P</a><br />
+<a href="../Page/太陽_(歌手).md" title="wikilink">太陽</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/權志龍" title="wikilink">G-Dragon</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/大聲" title="wikilink">大聲</a></p></td>
+<td><p>V.I.P</p></td>
+</tr>
+<tr class="even">
+<td><p>2014年8月17日</p></td>
+<td><p>2014年9月10日</p></td>
+<td><p><a href="../Page/WINNER.md" title="wikilink">WINNER</a></p></td>
+<td><p><a href="../Page/金秦禹.md" title="wikilink">金秦禹</a>{{•}}<a href="../Page/李昇勳.md" title="wikilink">李昇勳</a><br />
+<a href="https://zh.wikipedia.org/wiki/宋旻浩" title="wikilink">宋旻浩</a>{{•}}<strong><a href="../Page/姜昇潤.md" title="wikilink">姜昇潤</a></strong></p></td>
+<td><p>INNER CIRCLE</p></td>
+</tr>
+<tr class="odd">
+<td><p>2015年9月15日</p></td>
+<td><p>2016年1月13日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a></p></td>
+<td><p><a href="../Page/金振煥.md" title="wikilink">金振煥</a>{{•}}<a href="../Page/宋允亨.md" title="wikilink">宋允亨</a>{{•}}<a href="https://zh.wikipedia.org/wiki/金知元_(饶舌者)" title="wikilink">BOBBY</a><br />
+<a href="../Page/金東赫.md" title="wikilink">金東赫</a>{{•}}<a href="../Page/具俊會.md" title="wikilink">具俊會</a>{{•}}<a href="../Page/鄭粲右.md" title="wikilink">鄭粲右</a></p></td>
+<td><p>iKONIC</p></td>
+</tr>
+<tr class="even">
+<td><p>2016年8月8日</p></td>
+<td><p>2017年8月30日</p></td>
+<td><p><a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a></p></td>
+<td><p>女</p></td>
+<td><p><a href="../Page/金智秀_(歌手).md" title="wikilink">Jisoo</a>{{•}}<a href="../Page/Jennie_(韓國歌手).md" title="wikilink">Jennie</a><br />
+<a href="../Page/Rosé_(韓國歌手).md" title="wikilink">Rosé</a>{{•}}<a href="../Page/Lisa_(泰國歌手).md" title="wikilink">Lisa</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td></td>
+<td><p><a href="../Page/TREASURE_13.md" title="wikilink">TREASURE 13</a></p></td>
+<td><p>男</p></td>
+<td><p><a href="../Page/崔玹碩.md" title="wikilink">崔玹碩</a>{{•}}朴志焄{{•}}Yoshi{{•}}金俊奎{{•}}河潤彬{{•}}Mashiho{{•}}尹材赫<br />
+Asahi{{•}}<a href="../Page/方藝潭.md" title="wikilink">方藝潭</a>{{•}}金道榮{{•}}Haruto{{•}}朴炡禹{{•}}蘇庭煥</p></td>
+</tr>
+</tbody>
+</table>
 
-#### 企劃組合
+### 雙人、企劃及子團體
 
-  - [GD\&TOP](../Page/GD&TOP.md "wikilink")
-  - [GD X TAEYANG](../Page/GD_X_TAEYANG.md "wikilink")
-  - [HI秀賢](../Page/HI秀賢.md "wikilink")
-  - [MOBB](../Page/MOBB.md "wikilink")
+| 出道日期                                                            | 組合名稱                                                   | 性別                                                                                                                     | 成員                                                                                                 | 性質   |
+| --------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---- |
+| 1997年3月1日                                                       | [Jinusean](../Page/Jinusean.md "wikilink")             | 男                                                                                                                      | Jinu{{•}}Sean                                                                                      | 雙人團體 |
+| 2010年11月28日                                                     | [GD\&TOP](../Page/GD&TOP.md "wikilink")                | [T.O.P](../Page/T.O.P..md "wikilink"){{•}}[G-Dragon](https://zh.wikipedia.org/wiki/權志龍 "wikilink")                     | 企劃團體                                                                                               |      |
+| 2014年4月7日                                                       | [AKMU](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink") | 混合                                                                                                                     | 李燦赫{{•}}李秀賢                                                                                        | 雙人團體 |
+| 2014年11月11日                                                     | [HI秀賢](../Page/HI秀賢.md "wikilink")                     | 女                                                                                                                      | [LEE HI](../Page/李遐怡.md "wikilink"){{•}}李秀賢                                                        | 企劃團體 |
+| 2014年11月21日                                                     | [GD X TAEYANG](../Page/GD_X_TAEYANG.md "wikilink")     | 男                                                                                                                      | [太陽](../Page/太陽_\(歌手\).md "wikilink"){{•}}[G-Dragon](https://zh.wikipedia.org/wiki/權志龍 "wikilink") |      |
+| 2016年9月9日                                                       | [MOBB](../Page/MOBB.md "wikilink")                     | [MINO](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink"){{•}}[BOBBY](https://zh.wikipedia.org/wiki/金知元_\(饶舌者\) "wikilink") |                                                                                                    |      |
+| 2019年                                                           | [TREASURE](../Page/Treasure_\(組合\).md "wikilink")      | [崔玹碩](../Page/崔玹碩.md "wikilink"){{•}}金俊奎{{•}}尹材赫{{•}}[方藝潭](../Page/方藝潭.md "wikilink"){{•}}Haruto{{•}}朴炡禹{{•}}蘇庭煥       | 子團體                                                                                                |      |
+| [MAGNUM](https://zh.wikipedia.org/wiki/Magnum "wikilink")\[22\] | 朴志焄{{•}}Yoshi{{•}}河潤彬{{•}}Mashiho{{•}}Asahi{{•}}金道榮    |                                                                                                                        |                                                                                                    |      |
 
 #### 個人歌手
 
-  - [李遐怡](../Page/李遐怡.md "wikilink")
-  - [CL](https://zh.wikipedia.org/wiki/李彩麟 "wikilink")
-  - [Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")
-  - [水晶男孩](../Page/水晶男孩.md "wikilink")
-      - [殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")
-  - [BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")
-      - [太陽](../Page/太陽_\(歌手\).md "wikilink")
-      - [G-Dragon](../Page/G-Dragon.md "wikilink")
-      - [T.O.P](https://zh.wikipedia.org/wiki/T.O.P "wikilink")
-      - [大聲](https://zh.wikipedia.org/wiki/大聲 "wikilink")
-  - [樂童音樂家](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")
-      - [李秀贤](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")
-  - [WINNER](../Page/WINNER.md "wikilink")
-      - [YOON](../Page/姜昇潤.md "wikilink")
-      - [MINO](https://zh.wikipedia.org/wiki/MINO "wikilink")
-      - [JINU](../Page/金秦禹.md "wikilink")
-  - [iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")
-      - [BOBBY](../Page/金知元_\(饒舌者\).md "wikilink")
-  - [BLACKPINK](../Page/BLACKPINK.md "wikilink")
-      - [Jennie](../Page/Jennie_\(韓國歌手\).md "wikilink")
+<table style="width:95%;">
+<colgroup>
+<col style="width: 15%" />
+<col style="width: 15%" />
+<col style="width: 50%" />
+<col style="width: 15%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>出道日期</p></th>
+<th><p>歌手</p></th>
+<th><p>性別</p></th>
+<th><p>粉絲名稱</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2000年10月27日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a></p></td>
+<td><p>男</p></td>
+<td><p>YELLOWKIES</p></td>
+</tr>
+<tr class="even">
+<td><p>2008年5月22日</p></td>
+<td><p><a href="../Page/太陽_(歌手).md" title="wikilink">太陽</a></p></td>
+<td><p>V.I.P</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2008年6月16日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大聲" title="wikilink">大聲</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2008年6月30日</p></td>
+<td><p><a href="../Page/G-Dragon.md" title="wikilink">G-Dragon</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Dara" title="wikilink">Dara</a></p></td>
+<td><p>女</p></td>
+<td><p>Blackjack</p></td>
+</tr>
+<tr class="even">
+<td><p>2010年6月21日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/T.O.P" title="wikilink">T.O.P</a></p></td>
+<td><p>男</p></td>
+<td><p>V.I.P</p></td>
+</tr>
+<tr class="odd">
+<td><p>2012年10月29日</p></td>
+<td><p><a href="../Page/李遐怡.md" title="wikilink">LEE HI</a></p></td>
+<td><p>女</p></td>
+<td><p>Hicecream</p></td>
+</tr>
+<tr class="even">
+<td><p>2013年7月16日</p></td>
+<td><p><a href="../Page/姜昇潤.md" title="wikilink">YOON</a></p></td>
+<td><p>男</p></td>
+<td><p>INNER CIRCLE</p></td>
+</tr>
+<tr class="odd">
+<td><p>2016年5月9日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宋旻浩" title="wikilink">MINO</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年9月7日</p></td>
+<td><p><a href="../Page/金知元_(饒舌者).md" title="wikilink">BOBBY</a></p></td>
+<td><p>iKONIC</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年11月12日</p></td>
+<td><p><a href="../Page/Jennie_(韓國歌手).md" title="wikilink">Jennie</a></p></td>
+<td><p>女</p></td>
+<td><p>BLINK</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年8月14日</p></td>
+<td><p><a href="../Page/金秦禹.md" title="wikilink">JINU</a></p></td>
+<td><p>男</p></td>
+<td><p>INNER CIRCLE</p></td>
+</tr>
+</tbody>
+</table>
 
-#### 製作人
+### 製作人
 
   - \[23\]
 
@@ -182,7 +324,6 @@ Ella Gross(模特儿）
   - [李聖經](../Page/李聖經.md "wikilink")
   - [南柱赫](https://zh.wikipedia.org/wiki/南柱赫 "wikilink")
   - [張基龙](https://zh.wikipedia.org/wiki/張基龙 "wikilink")
-  - [金賽綸](../Page/金賽綸.md "wikilink")
   - [葛素媛](https://zh.wikipedia.org/wiki/葛素媛 "wikilink")
   - [林藝真](../Page/林藝真.md "wikilink")
   - [張鉉誠](../Page/張鉉誠.md "wikilink")
@@ -193,6 +334,7 @@ Ella Gross(模特儿）
   - [李洙赫](../Page/李洙赫.md "wikilink")
   - [黃勝妍](../Page/黃勝妍.md "wikilink")
   - [景收真](../Page/景收真.md "wikilink")
+  - 王一钧
   - [李夏恩](https://zh.wikipedia.org/wiki/李夏恩 "wikilink")（YGKPlus）
   - [裴正南](../Page/裴正南.md "wikilink")（YGKPlus）
   - 李皓京（YGKPlus）
@@ -298,9 +440,10 @@ Ella Gross(模特儿）
   - [高準熹](../Page/高準熹.md "wikilink")（2017－2019年）\[41\]
   - [吳尚津](../Page/吳尚津.md "wikilink")（2017－2019年）\[42\]
   - [柳炳宰](../Page/柳炳宰.md "wikilink") （2015－2019年）\[43\]
-  - [金希庭](../Page/金希庭.md "wikilink") （2016－2019年）\[44\]
+  - [金希庭](../Page/金希庭.md "wikilink") （2016－2019年）<ref>
+  - [金賽綸](../Page/金賽綸.md "wikilink") （2016－2019年）
 
-<!-- end list -->
+</ref>
 
   - 組合
 
@@ -316,8 +459,9 @@ Ella Gross(模特儿）
 
   - [2NE1](../Page/2NE1.md "wikilink")（2009－2017年）
 
-      - [孔旻智](../Page/孔旻智.md "wikilink")（2009－2016年）\[45\]\[46\]
-      - [朴春](../Page/朴春.md "wikilink")（2009－2016年）\[47\]
+      - [孔旻智](../Page/孔旻智.md "wikilink")（2009－2016年）\[44\]\[45\]
+      - [朴春](../Page/朴春.md "wikilink")（2009－2016年）\[46\]
+      - [CL](https://zh.wikipedia.org/wiki/李彩麟 "wikilink")（2009－2019年）\[47\]
 
   - [Epik High](../Page/Epik_High.md "wikilink")（2011－2018年）\[48\]
 
@@ -346,6 +490,8 @@ Ella Gross(模特儿）
   - [田雄](https://zh.wikipedia.org/wiki/田雄 "wikilink")（[AB6IX](../Page/AB6IX.md "wikilink")）
   - [李炳坤](../Page/李炳坤.md "wikilink")（[CIX](../Page/CIX.md "wikilink")）
   - [金昇勳](../Page/金昇勳.md "wikilink")（[CIX](../Page/CIX.md "wikilink")）
+  - 金施勲（[BDC](https://zh.wikipedia.org/wiki/BDC "wikilink")）
+  - 李美談（[CYF](https://zh.wikipedia.org/wiki/CYF "wikilink")）
 
 <!-- end list -->
 
@@ -385,7 +531,6 @@ Ella Gross(模特儿）
       - 朴珍熙 Jinny Park
       - 朴書英 Park Seo Young
   - 《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》
-      - 李美談（《[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》、《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
       - 姜錫華（《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
       - [金成淵](../Page/金成淵.md "wikilink")（《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》、《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
       - 張尹瑞
@@ -394,8 +539,6 @@ Ella Gross(模特儿）
       - 日高 真尋（《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
       - 岡本 太郎
       - 寺園 啟太
-  - 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》
-      - 金施勲
 
 <!-- end list -->
 

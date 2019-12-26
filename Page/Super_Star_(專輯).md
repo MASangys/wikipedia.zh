@@ -172,10 +172,7 @@ S.H.E成員之一的[Ella](../Page/陳嘉樺.md "wikilink")，在發行此張專
 [Category:S.H.E音樂專輯](https://zh.wikipedia.org/wiki/Category:S.H.E音樂專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:华研国际音乐音乐专辑](https://zh.wikipedia.org/wiki/Category:华研国际音乐音乐专辑 "wikilink") [Category:雨題材歌曲](https://zh.wikipedia.org/wiki/Category:雨題材歌曲 "wikilink")
 
 1.
-
 2.  [Hit Fm2003年度百首單曲](http://www.hitoradio.com/newweb/chart_2.php?ch_year=2003&pageNum_rsList=0)
-
 3.  [Hit Fm2003年度百首單曲](http://www.hitoradio.com/newweb/chart_2.php?ch_year=2003&pageNum_rsList=1)
-
 4.
 5.

@@ -2,7 +2,7 @@
 
 ## 外部連結
 
-  - [JR北海道巴士](http://www.jrhokkaidobus.com/)
+  - [JR北海道巴士](https://web.archive.org/web/20151204202854/http://www.jrhokkaidobus.com/)
   - [Sapporo ekibus navi](http://ekibus.city.sapporo.jp/)（札幌市内交通機關情報）
 
 [Category:北海道旅客鐵道](https://zh.wikipedia.org/wiki/Category:北海道旅客鐵道 "wikilink") [Category:日本巴士公司](https://zh.wikipedia.org/wiki/Category:日本巴士公司 "wikilink")

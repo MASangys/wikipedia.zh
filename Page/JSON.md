@@ -155,7 +155,7 @@ JSON格式取代了XML给网络传输带来了很大的便利，但是却没有�
 
   - [Minecraft指令─JSON文字格式](https://minecraft-zh.gamepedia.com/%E5%91%BD%E4%BB%A4#JSON.E6.96.87.E6.9C.AC)
 
-  - [JSON在线格式化工具](https://jsonformatter.pro/cn)
+  - [JSON在线格式化工具](https://web.archive.org/web/20181216200705/https://jsonformatter.pro/cn)
 
 {{-}}
 

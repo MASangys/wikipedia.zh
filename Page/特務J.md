@@ -123,26 +123,18 @@
 [Category:蔡依林專輯](https://zh.wikipedia.org/wiki/Category:蔡依林專輯 "wikilink") [Category:台灣國會唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣國會唱片音樂專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.
 11.
 12.
 13.
-
 14.
 15.
 16.

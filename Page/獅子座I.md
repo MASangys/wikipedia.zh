@@ -46,13 +46,10 @@ Regulus Dwarf\[14\] }}
 [Category:矮橢球星系](https://zh.wikipedia.org/wiki/Category:矮橢球星系 "wikilink") [Category:銀河系次集團](https://zh.wikipedia.org/wiki/Category:銀河系次集團 "wikilink") [Category:獅子座](https://zh.wikipedia.org/wiki/Category:獅子座 "wikilink") [Category:UGC天體](https://zh.wikipedia.org/wiki/Category:UGC天體 "wikilink") [Category:PGC天體](https://zh.wikipedia.org/wiki/Category:PGC天體 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
 7.
 8.
@@ -63,9 +60,7 @@ Regulus Dwarf\[14\] }}
 13.
 14.
 15.
-
 16.
-
 17.
 18.
 19.

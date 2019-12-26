@@ -41,7 +41,7 @@
 
 ## 外部連結
 
-  - [TAK官網](http://thbeck.de/Tak/Tak.html)
+  - [TAK官網](https://www.webcitation.org/65tn8b7U4?url=http://thbeck.de/Tak/Tak.html)
 
   - [使用TAK編碼器](http://www.hydrogenaudio.org/forums/index.php?showtopic=54721)
 

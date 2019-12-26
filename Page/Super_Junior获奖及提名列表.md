@@ -56,7 +56,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>韓國音樂節目奖项</strong></p></td>
+<td><p><strong>韓國音樂節目奖项</strong>(不計分隊及solo)</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -108,7 +108,7 @@
 
 **Super Junior獲獎及提名列表**主要列舉韓國男子組合[Super Junior由出道至今於頒獎典禮的獲獎及提名](../Page/Super_Junior.md "wikilink")。
 
-Super Junior是韩国的13人男子组合，自2005年出道至今得到了很多奖项和认可，2007年进入[华语流行音乐界](https://zh.wikipedia.org/wiki/华语流行音乐 "wikilink")。Super Junior大多数奖项在韩国获得，但是也在一些亚洲国家如[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[泰国](../Page/泰国.md "wikilink")、[马来西亚](../Page/马来西亚.md "wikilink")等地得奖。
+Super Junior是韩国的10人男子组合，自2005年出道至今得到了很多奖项和认可，2007年进入[华语流行音乐界](https://zh.wikipedia.org/wiki/华语流行音乐 "wikilink")。Super Junior大多数奖项在韩国获得，但是也在一些亚洲国家如[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[臺灣](../Page/臺灣.md "wikilink")、[泰国](../Page/泰国.md "wikilink")、[马来西亚](../Page/马来西亚.md "wikilink")等地得奖。
 
 《[U](https://zh.wikipedia.org/wiki/U_\(Super_Junior\) "wikilink")》使Super Junior获得了第一个音乐奖项（2006年6月SBS人气歌谣奖）。这单曲有赢得了其他4个奖项，组合在2006年9月举行的M.NET/KM音乐节中首次获得了MKMF奖项。在亚洲的其他地区被认识的Super Junior是第一个在腾讯星光大典赢得亚洲年度艺人的海外艺人，也是继2003年的[JTL](../Page/JTL.md "wikilink")第二个在MTV Asia中获得韩国最受欢迎艺人的音乐组合。
 
@@ -779,6 +779,18 @@ Super Junior自2009年開始，Super Junior已經連續四年獲得韓國唱片�
 </tr>
 <tr class="even">
 <td><p>Legend獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p>Dongnam Media &amp; FPT Polytechnic人氣獎</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>AAA Top of K-POP Record獎</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2536,6 +2548,8 @@ Super Junior自2009年開始，Super Junior已經連續四年獲得韓國唱片�
 | 2014年  | 9月11日                                                                             | [Mamacita](../Page/Mamacita.md "wikilink")                       |
 | 11月20日 | [在光化門](../Page/在光化門.md "wikilink")<small>（[圭賢](../Page/圭賢.md "wikilink")）</small> |                                                                  |
 | 11月27日 |                                                                                   |                                                                  |
+| 2019年  | 10月24日                                                                            | [Super Clap](../Page/Time_Slip.md "wikilink")                    |
+|        |                                                                                   |                                                                  |
 
 ### 音樂銀行
 
@@ -2563,6 +2577,8 @@ Super Junior自2009年開始，Super Junior已經連續四年獲得韓國唱片�
 | 9月19日  |                                                                                   |                                                                                                                                         |
 | 11月21日 | [在光化門](../Page/在光化門.md "wikilink")<small>（[圭賢](../Page/圭賢.md "wikilink")）</small> |                                                                                                                                         |
 | 2015年  | 3月20日                                                                             | [Growing Pains](../Page/The_Beat_Goes_On.md "wikilink")<small>（[SJ-D\&E](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")）</small> |
+| 2019年  | 10月25日                                                                            | [Super Clap](../Page/Time_Slip.md "wikilink")                                                                                           |
+|        |                                                                                   |                                                                                                                                         |
 
 ### Show\! 音樂中心
 
@@ -3458,98 +3474,55 @@ Super Junior自2009年開始，Super Junior已經連續四年獲得韓國唱片�
 [Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink")
 
 1.
-
 2.
-
 3.  [歷年得獎者](http://mama.interest.me/history?type=winner&year=2010)
-
 4.  ["Award winners - 13th MAMA"](http://mama.mnet.com/en/winner2011.asp)  *Mnet Asian Music Awards*. Retrieved 2012-03-04
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
 21.
-
 22.
-
 23.
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
 44.
 45.
-
 46.
-
 47.
 48.
 49.
 50.
 51.
 52.
-
 53.

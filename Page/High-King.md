@@ -55,8 +55,8 @@
 
 ## 連結
 
-  - [早安家族台灣私設歌迷俱樂部 - 新聞](http://www.helloproject.tw/news-5932.html)
-  - [High-King - 早安族譜- 早安家族私設＠台灣](http://wiki.helloproject.tw/High-King)
+  - [早安家族台灣私設歌迷俱樂部 - 新聞](https://web.archive.org/web/20080606003504/http://www.helloproject.tw/news-5932.html)
+  - [High-King - 早安族譜- 早安家族私設＠台灣](https://web.archive.org/web/20090205122300/http://wiki.helloproject.tw/High-King)
 
 ## 參考
 

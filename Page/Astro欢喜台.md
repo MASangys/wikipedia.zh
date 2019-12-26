@@ -23,6 +23,6 @@
   -
 <!-- end list -->
 
-  - [Astro欢喜台民视八点档列表](https://screenshot.net/zh/vvzrwir) <https://screenshot.net/zh/v75ryc7> <https://screenshot.net/zh/vk8r5s2>
+  - [Astro欢喜台民视八点档列表](https://screenshot.net/zh/vvzrwir) <https://www.docdroid.net/czppseu/draft-astro.pdf>
 
 [Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink")

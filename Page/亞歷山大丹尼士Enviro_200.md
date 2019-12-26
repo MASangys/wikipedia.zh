@@ -1,4 +1,5 @@
-**亞歷山大丹尼士Enviro 200**（英語：Alexander Dennis Enviro 200），前稱**TransBus Enviro 200**，是一款由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[亞歷山大丹尼士](../Page/亞歷山大丹尼士.md "wikilink")生產的一款[低地台](../Page/低地台巴士.md "wikilink")[中型巴士](https://zh.wikipedia.org/wiki/中型巴士 "wikilink")，在2003年的Coach & Bus 2003車展登場，原本計劃取代[丹尼士飛鏢SLF](https://zh.wikipedia.org/wiki/丹尼士飛鏢 "wikilink")。
+**亞歷山大丹尼士Enviro 200**（英語：Alexander Dennis Enviro 200），前稱**TransBus Enviro 200**，是一款由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[亞歷山大丹尼士](../Page/亞歷山大丹尼士.md "wikilink")生產的一款[低地台中型巴士](../Page/低地台巴士.md "wikilink")，在2003年的Coach & Bus 2003車展登場，原本計劃取代[丹尼士飛鏢SLF](https://zh.wikipedia.org/wiki/丹尼士飛鏢 "wikilink")。
+
 **亞歷山大丹尼士Enviro 200 Dart**（）是一款由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[亞歷山大丹尼士](../Page/亞歷山大丹尼士.md "wikilink")生產的兩軸單層巴士。它也是亞歷山大丹尼士製造的其中一款Enviro系列巴士，於2006年面世，主要取代[飛鏢SLF及Pointer車身](https://zh.wikipedia.org/wiki/丹尼士飛鏢 "wikilink")。 [IMG_5623_-_Flickr_-_Dave_M_Photography.jpg](https://zh.wikipedia.org/wiki/File:IMG_5623_-_Flickr_-_Dave_M_Photography.jpg "fig:IMG_5623_-_Flickr_-_Dave_M_Photography.jpg")
 
 ## Transbus Enviro 200(第一代)
@@ -37,19 +38,17 @@ Enviro 200原先在亞歷山大丹尼士位於蘇格蘭Falkirk的廠房裝嵌車
 
 [MTRBus_E200BUS.jpg](https://zh.wikipedia.org/wiki/File:MTRBus_E200BUS.jpg "fig:MTRBus_E200BUS.jpg") [MTR_E200_(1).JPG](https://zh.wikipedia.org/wiki/File:MTR_E200_\(1\).JPG "fig:MTR_E200_(1).JPG") 2007年1月12日，[九廣鐵路公司](../Page/九廣鐵路公司.md "wikilink")宣佈購買11輛11.3米Enviro 200 Dart歐盟四型單層巴士（編號901-911），用以取代車齡約17年的三菱MK117J單層巴士（編號301-311），並全數租予[港鐵公司使用](https://zh.wikipedia.org/wiki/港鐵公司 "wikilink")。使港鐵成為香港境內首間使用此款型號的公共交通機構。
 
-2008年8月1日，首輛Enviro 200 Dart單層巴士扺港並由工作人員駕駛至港鐵火炭巴士車廠。巴士於車輛調較完成及領取客運營業證後，編號901（NM4716）和902（NM4760）的巴士於2008年8月31日下午首航[K68線](https://zh.wikipedia.org/wiki/港鐵巴士K68線 "wikilink")，其餘9輛亦已於2009年3月前投入服務。全數11輛巴士加入[港鐵巴士](../Page/港鐵巴士.md "wikilink")（新界西北）車隊，初期服務於[屯門區](../Page/屯門區.md "wikilink")及[元朗區](../Page/元朗區.md "wikilink")。
-
-這款巴士被安排以企位為主的車廂環境，全車設有27名座位乘客和50企位乘客。
+2008年8月1日，首輛Enviro 200 Dart單層巴士扺港並由工作人員駕駛至港鐵火炭巴士車廠。巴士於車輛調較完成及領取客運營業證後，編號901（NM4716）和902（NM4760）的巴士並於2008年8月31日下午正式首航[K68線](https://zh.wikipedia.org/wiki/港鐵巴士K68線 "wikilink")，其餘9輛（903-911）亦已於同年11月7日至2009年3月6日全數出牌及投入服務。全數11輛巴士加入[港鐵巴士](../Page/港鐵巴士.md "wikilink")（新界西北）車隊，初期服務於[屯門區](../Page/屯門區.md "wikilink")及[元朗區](../Page/元朗區.md "wikilink")。這款巴士被安排以企位為主的車廂環境，全車設有27名座位乘客和50企位乘客。
 
 2010年至2011年初，港鐵開始為巴士換上新車身色調。車身以白色為底色，加上代表三條輕鐵路綫的紫色及綠色綫條，與輕鐵的新塗裝看齊，取代源於九鐵的車身色彩。
 
-隨著新界西北的人口不斷增加，此批車的低載客量已不敷應付客量增加的需求，因此港鐵巴士於2015年12月起逐步將整批Enviro200 Dart調離日常運作。而以往使用這批車輛作主力的K75及K75S綫亦於2016年1月末改用雙層巴士作主力，意味著這批車已被投閒置散。為善用資源，港鐵巴士安排這批巴士用作港鐵免費接駁巴士路線的訓練巴士、港鐵免費接駁巴士、員工接送車，以及於平日繁忙時間間中支援K58綫、K75S綫及港鐵接駁巴士各路線的特別班次。2015年10月尾起，港鐵安排兩輛Enviro200 Dart於每日清晨至深夜時，分別在寶林站及香港站待命，其後擴展至全港各區，主要停泊於寶林站、調景嶺站、九龍塘站、尖東站、香港站及長沙灣（甘泉街）待命。當鄰近的港鐵車站鐵路服務受阻而需動用港鐵免費接駁巴士時，會安排待命的巴士行走相應的接駁路綫，凌晨及清晨時份則用作員工接送車。
+隨著新界西北的人口不斷增加，此批車的低載客量已不敷應付客量增加的需求，因此[港鐵巴士](../Page/港鐵巴士.md "wikilink")於2015年12月起逐步將整批Enviro200 Dart調離日常運作。而以往使用這批車輛作主力的K75及K75S綫亦於2016年1月末改用雙層巴士作主力，意味著這批車已被投閒置散。為善用資源，[港鐵巴士](../Page/港鐵巴士.md "wikilink")安排這批巴士用作港鐵免費接駁巴士路線的訓練巴士、港鐵免費接駁巴士、員工接送車，以及於平日繁忙時間間中支援K58綫、K75S綫及港鐵接駁巴士各路線的特別班次。2015年10月尾起，港鐵安排兩輛Enviro200 Dart於每日清晨至深夜時，分別在寶琳站及香港站待命，其後擴展至全港各區，主要停泊於寶琳站、調景嶺站、九龍塘站、尖東站、香港站及長沙灣（甘泉街）待命。當鄰近的港鐵車站鐵路服務受阻而需動用港鐵免費接駁巴士時，會安排待命的巴士行走相應的接駁路綫，凌晨及清晨時份則用作員工接送車。
 
 ### 九龍巴士
 
-[KMB_SE8539_208_2018.jpg](https://zh.wikipedia.org/wiki/File:KMB_SE8539_208_2018.jpg "fig:KMB_SE8539_208_2018.jpg") [九龍巴士](../Page/九龍巴士.md "wikilink")於2010年訂購30輛10.4米Enviro 200 Dart巴士，配備[歐盟五型至六型之間排放標準](https://zh.wikipedia.org/wiki/歐洲汽車尾氣排放標準 "wikilink")（環境友好/EEV）引擎，取代年事已高的1993年三菱MK117、1995年三菱MK217型單層巴士及1994年[丹尼士飛鏢單層巴士](https://zh.wikipedia.org/wiki/丹尼士飛鏢 "wikilink")。首部巴士（車牌號碼︰PU4458，車隊編號︰AAU1）已於2010年10月17日抵港，並在2011年3月30日正式出牌，其餘29輛Enviro 200 Dart已於同年4月至9月期間出牌\[1\]。其中十二部巴士（AAU1、2、3、6、8、10、14、16、18、21、22、23）安裝手動減速器\[2\] ，以便行駛陡峭的荃錦公路的線。現時該批巴士主要行走客量較低或有用車限制的路線，包括、\[3\]、、及線，於清明節及重陽節期間更會行走[14S線](../Page/九龍巴士14S線.md "wikilink")。 AAU於2016年9月全數更換LED光管照明。
+[KMB_SE8539_208_2018.jpg](https://zh.wikipedia.org/wiki/File:KMB_SE8539_208_2018.jpg "fig:KMB_SE8539_208_2018.jpg") [九龍巴士](../Page/九龍巴士.md "wikilink")於2010年訂購30輛10.4米Enviro 200 Dart，配備[歐盟五型至六型之間排放標準](https://zh.wikipedia.org/wiki/歐洲汽車尾氣排放標準 "wikilink")（環境友好/EEV）引擎，取代年事已高而直接退役的1993年三菱MK117、1995年三菱MK217及1994年[丹尼士飛鏢單層巴士](https://zh.wikipedia.org/wiki/丹尼士飛鏢 "wikilink")。首部巴士（車牌號碼︰PU4458，車隊編號︰AAU1）已於2010年10月17日抵港，並在2011年3月30日正式出牌，其餘29輛Enviro 200 Dart（AAU2-30）已於同年4月28日至9月14日全數出牌及投入服務\[1\]。其中十二部巴士（AAU1、2、3、6、8、10、14、16、18、21、22、23）安裝手動減速器\[2\] ，以便行駛陡峭的荃錦公路的線。現時該批巴士主要行走客量較低或有用車限制的路線，包括、\[3\]、、及線，於清明節及重陽節期間更會行走[14S線](../Page/九龍巴士14S線.md "wikilink")。 AAU於2016年9月全數更換LED光管照明。
 
-2012年，九巴訂購11輛10.4米Enviro 200 Dart單層巴士，新車配置了Hanover發光二極管（LED）橙色電子顯示屏，上海凱倫自動報站機，Vogel Revo S 座椅，改用單門設計\[4\]\[5\]，取代1996年[丹尼士飛鏢單層巴士](https://zh.wikipedia.org/wiki/丹尼士飛鏢 "wikilink")\[6\]。首部巴士（車牌號碼︰SE5971，車隊編號︰AAS1）已於2013年4月抵港，並於8月26日正式出牌，其餘10輛Enviro 200 Dart已於同年8月至9月期間出牌。該批巴士目前除AAS2及6被調往[九龍灣車廠外](../Page/九巴九龍灣車廠.md "wikilink")，其餘均屬於[荔枝角車廠](../Page/九巴荔枝角車廠.md "wikilink")，現時主要行走、203C及線。
+2012年，[九龍巴士](../Page/九龍巴士.md "wikilink")訂購11輛10.4米Enviro 200 Dart，新車配置了Hanover發光二極管（LED）橙色電子顯示屏，上海凱倫自動報站機，Vogel Revo S 座椅，改用單門設計\[4\]\[5\]，取代年事已高而直接退役的1996年[丹尼士飛鏢單層巴士](https://zh.wikipedia.org/wiki/丹尼士飛鏢 "wikilink")\[6\]。首部巴士（車牌號碼︰SE5971，車隊編號︰AAS1）已於2013年4月抵港，並於8月26日正式出牌，其餘10輛Enviro 200 Dart（AAS2-11）已於同年8月27日至9月20日全數出牌及投入服務。該批巴士目前除AAS2及6被調往[九龍灣車廠外](../Page/九巴九龍灣車廠.md "wikilink")，其餘均屬於[荔枝角車廠](../Page/九巴荔枝角車廠.md "wikilink")，現時主要行走、203C及線。
 
 ### 愉景灣交通服務
 
@@ -87,7 +86,7 @@ Enviro 200原先在亞歷山大丹尼士位於蘇格蘭Falkirk的廠房裝嵌車
 1.
 2.  [已安裝手動減速器的巴士](http://kmb.hk2007.net/y01.html) ，KMB.HK2007.NET
 3.  只有安裝手動減速器的Enviro 200 Dart巴士才會行走51線
-4.  [香港討論區：已確定九巴新E200用單門\!\!有相](http://www.discuss.com.hk/viewthread.php?tid=21698868)，2013-03-31
+4.  [香港討論區：已確定九龍巴士最新E200用單門\!\!有相](http://www.discuss.com.hk/viewthread.php?tid=21698868)，2013-03-31
 5.  [hkiTalk：左邊兩隻門 . AAU](http://www.hkitalk.net/HKiTalk2/thread-795708-1-1.html)，2013-08-16
 6.  [柏斯敦巴士台關於單門Enviro200的資料](https://www.facebook.com/photo.php?fbid=524379014266471&set=pb.459548207416219.-2207520000.1370249978.&type=3&src=https%3A%2F%2Ffbcdn-sphotos-e-a.akamaihd.net%2Fhphotos-ak-prn2%2F969278_524379014266471_84768400_n.jpg&size=800%2C602)
 7.  [DbAY E200](http://www.hkitalk.net/HKiTalk2/thread-826807-1-1.html)，hkitalk.net

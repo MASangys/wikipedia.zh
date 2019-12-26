@@ -41,12 +41,8 @@
 [Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.   [1](http://music.bugs.co.kr/chart/) Retrieved March 17, 2009.

@@ -82,91 +82,51 @@ RNA世界假说能被诸如RNA能像[DNA一样存储](https://zh.wikipedia.org/w
 [Category:生物起源](https://zh.wikipedia.org/wiki/Category:生物起源 "wikilink") [Category:RNA](https://zh.wikipedia.org/wiki/Category:RNA "wikilink") [Category:演化生物學](https://zh.wikipedia.org/wiki/Category:演化生物學 "wikilink") [Category:生物学理论](https://zh.wikipedia.org/wiki/Category:生物学理论 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  Cech, T.R. (2011). The RNA Worlds in Context. Source: Department of Chemistry and Biochemistry, University of Colorado, Boulder, Colorado 80309-0215. Cold Spring Harb Perspect Biol. 2011 Feb 16. pii: cshperspect.a006742v1. . \[Epub ahead of print\]
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11. Woese C.R. (1967). The genetic code: The molecular basis for genetic expression. p. 186. Harper & Row
-
 12.
-
 13.
-
 14.
-
 15.
 16.
 17.
-
 18.
-
 19.
-
 20.
 21.
-
 22.
-
 23.
-
 24. W. K. Johnston, P. J. Unrau, M. S. Lawrence, M. E. Glasner and D. P. Bartel [RNA-Catalyzed RNA Polymerization: Accurate and General RNA-Templated Primer Extension](http://www.sciencemag.org/cgi/content/abstract/292/5520/1319). *Science* 292, 1319 (2001)
-
 25. Hani S. Zaher and Peter J. Unrau, [Selection of an improved RNA polymerase ribozyme with superior extension and fidelity.](http://www.rnajournal.org.offcampus.lib.washington.edu/cgi/content/abstract/13/7/1017?maxtoshow=&HITS=10&hits=10&RESULTFORMAT=&author1=zaher&andorexactfulltext=and&searchid=1&FIRSTINDEX=0&sortspec=relevance&resourcetype=HWCIT) RNA (2007), 13:1017-1026
-
 26. Huang, Yang, and Yarus, [RNA enzymes with two small-molecule substrates](http://www.chembiol.com/content/article/abstract?uid=PIIS1074552198902940) . Chemistry & Biology, Vol 5, 669-678, November 1998
-
 27.
-
 28.
-
 29.
 30.
-
 31.
-
 32.
 33.
-
 34.
-
 35.
-
 36.
-
 37. Switching the light on plant riboswitches. Samuel Bocobza and Asaph Aharoni Trends in Plant Science Volume 13, Issue 10, October 2008, Pages 526-533  PMID 18778966
-
 38.
-
 39.
 40. Patton, John T. Editor (2008). Segmented Double-stranded RNA Viruses: Structure and Molecular Biology. Caister Academic Press. Editor's affiliation: Laboratory of Infectious Diseases, NIAID, NIH, Bethesda, MD 20892-8026. ISBN 978-1-904455-21-9
-
 41.
 42. Bell, Graham: The Basics of Selection. Springer, 1997.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.

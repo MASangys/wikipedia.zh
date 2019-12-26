@@ -41,5 +41,4 @@
 [Category:矮橢球星系](https://zh.wikipedia.org/wiki/Category:矮橢球星系 "wikilink") [Category:低表面亮度星系](https://zh.wikipedia.org/wiki/Category:低表面亮度星系 "wikilink") [Category:仙女座次集團](https://zh.wikipedia.org/wiki/Category:仙女座次集團 "wikilink") [Category:飛馬座](https://zh.wikipedia.org/wiki/Category:飛馬座 "wikilink")
 
 1.
-
 2.

@@ -10,7 +10,6 @@
 [Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink") [Category:人马座](https://zh.wikipedia.org/wiki/Category:人马座 "wikilink") [Category:超级地球](https://zh.wikipedia.org/wiki/Category:超级地球 "wikilink") [Category:类地行星](https://zh.wikipedia.org/wiki/Category:类地行星 "wikilink") [Category:2008年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2008年发现的系外行星 "wikilink") [Category:重力微透鏡法發現的系外行星](https://zh.wikipedia.org/wiki/Category:重力微透鏡法發現的系外行星 "wikilink")
 
 1.  [Planet Quest: New Worlds Atlas](http://planetquest.jpl.nasa.gov/atlas/atlas_search.cfm) , [JPL](https://zh.wikipedia.org/wiki/JPL "wikilink"). Accessed on line [July 2](https://zh.wikipedia.org/wiki/July_2 "wikilink"), 2008.
-
 2.
 3.
 4.

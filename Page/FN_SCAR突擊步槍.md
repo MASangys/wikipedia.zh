@@ -143,11 +143,11 @@ SCAR由FN位於南[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[哥�
 
 ## 使用國
 
-  -   - [阿富汗國家安全局](../Page/國家安全局_\(阿富汗\).md "wikilink")
+  -   - [阿富汗國家安全局](../Page/國家安全局_\(阿富汗\).md "wikilink")（有少部份流入[塔利班](../Page/塔利班.md "wikilink")和[伊斯蘭國武裝份子手上](https://zh.wikipedia.org/wiki/伊斯蘭國 "wikilink")）\[14\]
 
-  -   - \[14\]
+  -   - \[15\]
 
-      - [比利時國防軍](../Page/比利時國防軍.md "wikilink")（L型；正逐步取代[FN FNC](../Page/FN_FNC突擊步槍.md "wikilink")）\[15\]\[16\]
+      - [比利時國防軍](../Page/比利時國防軍.md "wikilink")（L型；正逐步取代[FN FNC](../Page/FN_FNC突擊步槍.md "wikilink")）\[16\]\[17\]
 
       - [特種部隊群](../Page/特種部隊群.md "wikilink")（L型、H型）
 
@@ -155,24 +155,24 @@ SCAR由FN位於南[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[哥�
 
   -   - （L型、H型）
 
-  -   - （L型、H型）\[17\]
+  -   - （L型、H型）\[18\]
 
   -
-  -   - 特種部隊單位
+  -   - [塞浦路斯國民警衛隊特種部隊單位](https://zh.wikipedia.org/wiki/塞浦路斯國民警衛隊 "wikilink")
 
-  -   - [芬蘭陸軍](https://zh.wikipedia.org/wiki/芬蘭陸軍 "wikilink")（L型）\[18\]
+  -   - [芬蘭陸軍](https://zh.wikipedia.org/wiki/芬蘭陸軍 "wikilink")（L型）\[19\]
 
-  -   - \[19\]
+  -   - \[20\]
 
-      - \[20\]
+      - \[21\]
 
-  -   - [格魯吉亞武裝部隊](https://zh.wikipedia.org/wiki/格魯吉亞軍 "wikilink")\[21\]
+  -   - [格魯吉亞武裝部隊](https://zh.wikipedia.org/wiki/格魯吉亞軍 "wikilink")\[22\]
 
-  -   - [德國聯邦警察](../Page/德國聯邦警察.md "wikilink")[第九國境守備隊](../Page/德國聯邦警察第九國境守備隊.md "wikilink")（L型）\[22\]
+  -   - [德國聯邦警察](../Page/德國聯邦警察.md "wikilink")[第九國境守備隊](../Page/德國聯邦警察第九國境守備隊.md "wikilink")（L型）\[23\]
 
-      - [特別行動突擊隊](https://zh.wikipedia.org/wiki/特別行動突擊隊 "wikilink")\[23\]
+      - [特別行動突擊隊](https://zh.wikipedia.org/wiki/特別行動突擊隊 "wikilink")\[24\]
 
-      - 德國州警察機動突擊隊\[24\]
+      - 德國州警察機動突擊隊\[25\]
 
   -   - 洪都拉斯陸軍第1特種部隊營
 
@@ -181,57 +181,58 @@ SCAR由FN位於南[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[哥�
 
   -   - [義大利陸軍](https://zh.wikipedia.org/wiki/義大利陸軍 "wikilink")
 
-  -   - [日本陸上自衛隊](https://zh.wikipedia.org/wiki/日本陸上自衛隊 "wikilink")[特殊作戰群](../Page/陸上自衛隊特殊作戰群.md "wikilink")\[25\]
+  -   - [日本陸上自衛隊](https://zh.wikipedia.org/wiki/日本陸上自衛隊 "wikilink")[特殊作戰群](../Page/陸上自衛隊特殊作戰群.md "wikilink")\[26\]
 
-  -   - 特種部隊單位（H型）\[26\]
+  -   - 特種部隊單位（H型）\[27\]
 
-  -   - [大韓民國陸軍](https://zh.wikipedia.org/wiki/大韓民國陸軍 "wikilink")[第707特殊任務營](https://zh.wikipedia.org/wiki/第707特殊任務營 "wikilink")（L型）\[27\]
+  -   - [大韓民國陸軍](https://zh.wikipedia.org/wiki/大韓民國陸軍 "wikilink")[第707特殊任務營](https://zh.wikipedia.org/wiki/第707特殊任務營 "wikilink")（L型）\[28\]
 
-  -   - （H型）\[28\]
+  -   - （H型）\[29\]
 
   -   - [馬來西亞皇家警察](https://zh.wikipedia.org/wiki/馬來西亞皇家警察 "wikilink")[特別行動指揮部](../Page/特別行動指揮部.md "wikilink")（H型）
 
-  -
+  -   - 特種部隊單位
+
   -   - 特種部隊營（L型、H型）
 
   -   - [挪威警察應急部隊](https://zh.wikipedia.org/wiki/挪威警察應急部隊 "wikilink")（H型）
 
-  -   - [秘魯軍隊特種部隊群](../Page/秘魯軍事.md "wikilink")（L型、H型）\[29\]
+  -   - [秘魯軍隊特種部隊群](../Page/秘魯軍事.md "wikilink")（L型、H型）\[30\]
 
-      - \[30\]
+      - \[31\]
 
   -   - [菲律賓海軍陸戰隊](https://zh.wikipedia.org/wiki/菲律賓海軍陸戰隊 "wikilink")
 
   -   - [波蘭武裝部隊](https://zh.wikipedia.org/wiki/波蘭軍隊 "wikilink")[行動應變及機動組](../Page/行動應變及機動組.md "wikilink")
 
-      - \[31\]
+      - \[32\]
 
-  -   - \[32\]
+  -   - \[33\]
 
   -   - [塞爾維亞武裝部隊](https://zh.wikipedia.org/wiki/塞爾維亞武裝部隊 "wikilink")（L型）
 
-      - （L型、H型）\[33\]\[34\]
+      - （L型、H型）\[34\]\[35\]
 
-  -   - [新加坡警察部隊](https://zh.wikipedia.org/wiki/新加坡警察部隊 "wikilink")\[35\]
+  -   - [新加坡警察部隊](https://zh.wikipedia.org/wiki/新加坡警察部隊 "wikilink")\[36\]
 
   -   - 特種部隊單位
 
   -   - [泰國皇家陸軍](../Page/泰國皇家陸軍.md "wikilink")（L型）
 
-      - （L型、H型）\[36\]
+      - （L型、H型）\[37\]
 
-  -   - \[37\]\[38\]
+  -   - \[38\]\[39\]
 
-  -   - [英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[特種空勤團](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")（H型）\[39\]\[40\]
+  -   - [英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[特種空勤團](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")（H型）\[40\]\[41\]
       - [英國海軍](https://zh.wikipedia.org/wiki/英國海軍 "wikilink")[特別舟艇隊](https://zh.wikipedia.org/wiki/特別舟艇隊 "wikilink")（H型）
 
   -   - [美國特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")（L型、H型）
 
-      - [美國海關及邊境保衛局](../Page/美國海關及邊境保衛局.md "wikilink")\[41\]
+      - [美國海關及邊境保衛局](../Page/美國海關及邊境保衛局.md "wikilink")\[42\]
 
-      - [洛杉磯警察局](https://zh.wikipedia.org/wiki/洛杉磯警察局 "wikilink")[特種武器和戰術部隊](../Page/特種武器和戰術部隊.md "wikilink")（L型、H型） \[42\]\[43\]
+      - [洛杉磯警察局](https://zh.wikipedia.org/wiki/洛杉磯警察局 "wikilink")[特種武器和戰術部隊](../Page/特種武器和戰術部隊.md "wikilink")（L型、H型） \[43\]\[44\]
 
-      - （L型）\[44\]
+      - （L型）\[45\]
 
       - [美國緝毒局](https://zh.wikipedia.org/wiki/美國緝毒局 "wikilink")
 
@@ -266,10 +267,10 @@ SCAR由FN位於南[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[哥�
   - 2010年—《[-{zh-hans:战地：叛逆连队2; zh-hant:戰地風雲：惡名昭彰2;}-](../Page/战地：叛逆连队2.md "wikilink")》（Battlefield: Bad Company 2）：型號為SCAR L近戰型。
   - 2011年—《[-{zh-cn:使命召唤：现代战争3; zh-tw:決勝時刻：現代戰爭3; zh-hk:使命召喚：現代戰爭3}-](../Page/決勝時刻：現代戰爭3.md "wikilink")》（Call of Duty: Modern Warfare 3）：型號為第三代SCAR L，黑色槍身，命名為「SCAR-L」，奇怪的沒有空倉掛機。故事模式中被[美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")[三角洲特種部隊合金分隊和](https://zh.wikipedia.org/wiki/三角洲特種部隊 "wikilink")「同心圈」成員所使用。聯機模式時於等級5解鎖，而在生存模式則在等級6解鎖，可使用[榴彈發射器](../Page/M320榴彈發射器.md "wikilink")、[下掛式霰彈槍](../Page/Masterkey槍管下掛式霰彈槍.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[心跳探測儀](https://zh.wikipedia.org/wiki/心率 "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[熱能探測式瞄具](https://zh.wikipedia.org/wiki/熱輻射 "wikilink")、混合式瞄準鏡及延長[彈匣](../Page/彈匣.md "wikilink")（增至45發）。
   - 2011年—《[-{zh-cn:战地3; zh-tw:戰地風雲3}-](../Page/戰地風雲3.md "wikilink")》（Battlefield 3）：型號為第一代SCAR L及SCAR H近戰型，黑色槍身。前者於聯機模式當中被歸類為突擊步槍，可被突擊兵所使用；後者於故事模式當中被[美國海軍陸戰隊第一偵察營](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")「盲流1-3」所使用，聯機模式時被歸類為工程兵武器。
-  - 2012年—《[-{zh-cn:荣誉勋章：战士; zh-tw:榮譽勳章：鐵血悍將}-](https://zh.wikipedia.org/wiki/榮譽勳章：鐵血悍將 "wikilink")》（Medal of Honor: Warfighter）：型號為SCAR H及SCAR PDW，兩者均為沙色槍身。SCAR H只於故事模式登場，被馬科特遣隊所屬的[美國海軍特種作戰研究大隊隊員於](https://zh.wikipedia.org/wiki/美國海軍特種作戰研究大隊 "wikilink")[也門執行任務期間所使用](https://zh.wikipedia.org/wiki/也門 "wikilink")。SCAR PDW命名為“Mk16 PDW”，於故事模式中被馬科特遣隊於[波斯尼亞行動時所使用](https://zh.wikipedia.org/wiki/波斯尼亞 "wikilink")，在聯機模式時為FSK/HJK、[SFOD-D和](../Page/三角洲部隊.md "wikilink")[OGA爆破兵的可用武器](../Page/中央情報局特別行動科.md "wikilink")。
+  - 2012年—《[-{zh-cn:荣誉勋章：战士; zh-tw:榮譽勳章：鐵血悍將}-](https://zh.wikipedia.org/wiki/榮譽勳章：鐵血悍將 "wikilink")》（Medal of Honor: Warfighter）：型號為SCAR H及SCAR PDW，兩者均為沙色槍身。SCAR H只於故事模式登場，被馬科特遣隊所屬的[美國海軍特種作戰開發組](../Page/美國海軍特種作戰開發組.md "wikilink")隊員於[也門執行任務期間所使用](https://zh.wikipedia.org/wiki/也門 "wikilink")。SCAR PDW命名為“Mk16 PDW”，於故事模式中被馬科特遣隊於[波斯尼亞行動時所使用](https://zh.wikipedia.org/wiki/波斯尼亞 "wikilink")，在聯機模式時為FSK/HJK、[SFOD-D和](../Page/三角洲部隊.md "wikilink")[OGA爆破兵的可用武器](../Page/中央情報局特別行動科.md "wikilink")。
   - 2012年—《[-{zh-cn:使命召唤：黑色行动II; zh-tw:決勝時刻：黑色行動II; zh-hk:使命召喚：黑色行動II}-](../Page/決勝時刻：黑色行動II.md "wikilink")》（Call of Duty: Black Ops II）：型號為第三代SCAR-L及SCAR-H：
-      - SCAR-L命名為「HAMR」，沙色槍身，被歸類為[輕機槍並以](https://zh.wikipedia.org/wiki/輕機槍 "wikilink")[彈鼓供彈](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")，載彈量為75發（聯機模式時可使用改裝：延長彈匣增至100發），初始攜彈量為225發（故事模式）和150發（聯機模式），最高攜彈量為525發（故事模式）和375發（聯機模式）。故事模式之中被[美国海軍特戰開發小組](https://zh.wikipedia.org/wiki/美国海軍特戰開發小組 "wikilink")、[也門陸軍和](https://zh.wikipedia.org/wiki/也門陸軍 "wikilink")[也門](https://zh.wikipedia.org/wiki/也門 "wikilink")[民兵](../Page/民兵.md "wikilink")所使用；聯機模式時於等級37解鎖，並可以使用[EOTech全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、、[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、快速抽出握把、目標搜索器、可調節[槍托](../Page/槍托.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[可變倍率式瞄準鏡](https://zh.wikipedia.org/wiki/望远镜放大倍数 "wikilink")（狙擊鏡）、[延長彈匣](../Page/彈匣.md "wikilink")、[混合式光學瞄準鏡](https://zh.wikipedia.org/wiki/Leupold_HAMR瞄準鏡 "wikilink")、射速增加、[雙波段式瞄準鏡](https://zh.wikipedia.org/wiki/雙波段式瞄準鏡 "wikilink")。
-      - SCAR-H為沙色槍身，造型上使用20發[彈匣](../Page/彈匣.md "wikilink")但載彈量為30發（聯機模式時可使用改裝：延長彈匣增至40發），初始攜彈量為180發（故事模式）、90發（聯機模式）和120發（殭屍模式），最高攜彈量為390發（故事模式）和240發（聯機模式和殭屍模式）。故事模式之中完成「與我一起受苦」（Suffer With Me）戰役以後解鎖，被[美國海軍特戰開發小組及](https://zh.wikipedia.org/wiki/美國海軍特戰開發小組 "wikilink")[美國海軍](../Page/美國海軍.md "wikilink")所使用；聯機模式時於等級40解鎖，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、快速抽出握把、快速重裝彈匣、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、可調節[槍托](../Page/槍托.md "wikilink")、目標搜索器、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[擊發調變](../Page/擊發調變槍械.md "wikilink")、[EOTech全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、、[混合式光學瞄準鏡](https://zh.wikipedia.org/wiki/Leupold_HAMR瞄準鏡 "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[榴彈發射器](../Page/M320榴彈發射器.md "wikilink")、毫米波掃描器。
+      - SCAR-L命名為「HAMR」，沙色槍身，被歸類為[輕機槍並以](https://zh.wikipedia.org/wiki/輕機槍 "wikilink")[彈鼓供彈](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")，載彈量為75發（聯機模式時可使用改裝：延長彈匣增至100發），初始攜彈量為225發（故事模式）和150發（聯機模式），最高攜彈量為525發（故事模式）和375發（聯機模式）。故事模式之中被[美国海軍特種作戰開發組](https://zh.wikipedia.org/wiki/美国海軍特種作戰開發組 "wikilink")、[也門陸軍和](https://zh.wikipedia.org/wiki/也門陸軍 "wikilink")[也門](https://zh.wikipedia.org/wiki/也門 "wikilink")[民兵](../Page/民兵.md "wikilink")所使用；聯機模式時於等級37解鎖，並可以使用[EOTech全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、、[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、快速抽出握把、目標搜索器、可調節[槍托](../Page/槍托.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[可變倍率式瞄準鏡](https://zh.wikipedia.org/wiki/望远镜放大倍数 "wikilink")（狙擊鏡）、[延長彈匣](../Page/彈匣.md "wikilink")、[混合式光學瞄準鏡](https://zh.wikipedia.org/wiki/Leupold_HAMR瞄準鏡 "wikilink")、射速增加、[雙波段式瞄準鏡](https://zh.wikipedia.org/wiki/雙波段式瞄準鏡 "wikilink")。
+      - SCAR-H為沙色槍身，造型上使用20發[彈匣](../Page/彈匣.md "wikilink")但載彈量為30發（聯機模式時可使用改裝：延長彈匣增至40發），初始攜彈量為180發（故事模式）、90發（聯機模式）和120發（殭屍模式），最高攜彈量為390發（故事模式）和240發（聯機模式和殭屍模式）。故事模式之中完成「與我一起受苦」（Suffer With Me）戰役以後解鎖，被[美國海軍特種作戰開發組](../Page/美國海軍特種作戰開發組.md "wikilink")及[美國海軍](../Page/美國海軍.md "wikilink")所使用；聯機模式時於等級40解鎖，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、快速抽出握把、快速重裝彈匣、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、可調節[槍托](../Page/槍托.md "wikilink")、目標搜索器、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[擊發調變](../Page/擊發調變槍械.md "wikilink")、[EOTech全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、、[混合式光學瞄準鏡](https://zh.wikipedia.org/wiki/Leupold_HAMR瞄準鏡 "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[榴彈發射器](../Page/M320榴彈發射器.md "wikilink")、毫米波掃描器。
   - 2012年—《[戰爭前線](https://zh.wikipedia.org/wiki/戰爭前線 "wikilink")》（Warface）：型號為第三代SCAR-H近战型和SCAR PDW：
       - 第三代SCAR-H近战型命名為“FN SCAR-H”，土黄色槍身，為步槍手專用武器，使用20發[彈匣](../Page/彈匣.md "wikilink")，抽奖获得，并可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、突击消音器、[突击制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")、[突击刺刀](../Page/刺刀.md "wikilink")）、战术导轨配件（[通用握把](https://zh.wikipedia.org/wiki/辅助握把 "wikilink")、突击握把、突击握把架、[枪挂型榴弹发射器](https://zh.wikipedia.org/wiki/FN_EGLM附加型榴弹发射器 "wikilink")）以及瞄准镜（[EoTech 553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[ELCAN SpecterDS瞄准镜](https://zh.wikipedia.org/wiki/C79光学瞄准镜 "wikilink")、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点镜 "wikilink")、[步枪高级瞄准镜](https://zh.wikipedia.org/wiki/ELCAN_SpecterDR光学瞄准镜 "wikilink")、[Trijicon ACOG瞄准镜](../Page/先進戰鬥光學瞄準鏡.md "wikilink")），拥有皇冠币专属迷彩与黄金版本，强化威力、射程与载弹量。
           - 奇怪的是，属于枪口配件的消音器和制退器能够直接套在上使用
@@ -282,11 +283,12 @@ SCAR由FN位於南[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[哥�
   - 2013年—《[-{zh-cn:使命召唤Online; zh-tw:決勝時刻Online; zh-hk:使命召喚Online}-](../Page/使命召唤Online.md "wikilink")》（Call of Duty Online）：型號為第三代SCAR H近戰型，沙色槍身，命名為「MK 17-CQC」，使用[雷明登ACR突擊步槍](../Page/雷明登ACR突擊步槍.md "wikilink")式樣的伸縮[槍托](../Page/槍托.md "wikilink")。於等級7解鎖並需要2200GP購買，可使用[榴彈發射器](../Page/M203榴彈發射器.md "wikilink")、[ORS紅點鏡](../Page/紅點鏡.md "wikilink")、[反射型紅點鏡](https://zh.wikipedia.org/wiki/Aimpoint_Comp_M2红点镜 "wikilink")、[COS瞄準鏡](https://zh.wikipedia.org/wiki/ELCAN_Specter_DR光學瞄準鏡 "wikilink")、中距望遠式快瞄鏡、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[夜視瞄準鏡](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")、[熱成像瞄準鏡](https://zh.wikipedia.org/wiki/熱成像瞄準鏡 "wikilink")、[EOTech全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")、[快慢機](../Page/擊發調變槍械.md "wikilink")、[消音器](../Page/抑制器.md "wikilink")、、[擴容彈匣](../Page/彈匣.md "wikilink")、[雙彈匣](../Page/彈匣.md "wikilink")、[快瞄握把](https://zh.wikipedia.org/wiki/手槍握把 "wikilink")、[激光指示器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、金屬被甲彈等技能。
   - 2015年—《[-{zh-hans:战地：硬仗; zh-hant:戰地風雲：強硬路線;}-](../Page/战地：硬仗.md "wikilink")》（Battlefield: Hardline）：型號為SCAR H近戰型及標準型（使用重槍管後），沙色槍身，命名為「SCAR-H」，歸類為[戰鬥步槍](https://zh.wikipedia.org/wiki/戰鬥步槍 "wikilink")，20+1發彈匣，被警方執行者（Enforcer）所使用（罪犯解鎖條件為：以任何陣營進行遊戲使用該槍擊殺1250名敵人後購買武器執照），價格為$26,400。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro T1、SRS 02、[Comp M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍） 、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、[槍托](../Page/槍托.md "wikilink")、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、[穿甲](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")[曳光彈](../Page/曳光彈.md "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。劇情模式當中則能夠被主角尼古拉斯·門多薩所使用。
   - 2015年—《[-{zh-hans:彩虹六号：围攻; zh-hant:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》（Rainbow Six: Siege）：型號為SCAR-H近戰型，沙色槍身，命名為「Mk17 CQB」，被[海豹部隊](../Page/海豹部隊.md "wikilink")所使用。
-  - 2015年—《[殺戮空間2](https://zh.wikipedia.org/wiki/殺戮空間2 "wikilink")》：突擊兵（職業）屬下 Tier 4 武器，型號為 SCAR-H，命名為「SCAR-H Assault Rifle」，具備全自動與半自動射擊模式。
+  - 2015年—《[殺戮空間2](../Page/殺戮空間2.md "wikilink")》：突擊兵（職業）屬下 Tier 4 武器，型號為 SCAR-H，命名為「SCAR-H Assault Rifle」，具備全自動與半自動射擊模式。
   - 2016年—《[全境封鎖](https://zh.wikipedia.org/wiki/全境封鎖 "wikilink")》：型號為SCAR-L及SCAR-H，前者被歸類為突擊步槍，後者歸類被為狙擊步槍。
   - 2017年—《[绝地求生](https://zh.wikipedia.org/wiki/绝地求生 "wikilink")》：型号为SCAR-L，可装备紅點瞄准镜、全息瞄準鏡、二倍瞄准镜、三倍瞄準鏡、四倍瞄准镜、六倍瞄准镜、快速弹夹、扩容弹夹、快速扩容弹夹、垂直握把、直角握把、拇指握把、輕型握把、半截握把。
-  - 2017年-《幽灵行动：荒野》（Ghost Recon：WILDLANDS）：型号为SCAR-H，命名为“MK17”，可于武器箱取得。
-  - 2019年-《幽灵行动：荒野》（Ghost Recon：WILDLANDS）：型号为SCAR-L，命名为“MK16”，由SCAR-H的上机匣和SCAR-L的下机匣组成。
+  - 2017年—《[-{zh-hans:幽灵行动：荒野;zh-hant:火線獵殺：野境}-](../Page/火線獵殺：野境.md "wikilink")》（Tom Clancy's Ghost Recon: Wildlands）：型号为SCAR-H，命名为「Mk 17」，可于武器箱取得，可更改槍托、瞄準鏡、板機、彈匣、下槍管配件、槍軌、槍管、槍口等配件。
+  - 2019年—《[-{zh-hans:幽灵行动：断点;zh-hant:火線獵殺：絕境}-](https://zh.wikipedia.org/wiki/火線獵殺：絕境 "wikilink")》（Tom Clancy's Ghost Recon: Breakpoint）：型号为SCAR-L，命名为「Mk 16」，由SCAR-H的上机匣和SCAR-L的下机匣组成。
+  - 2019年—《[-{zh-cn:使命召唤：现代战争; zh-tw:決勝時刻：現代戰爭; zh-hk:使命召喚：現代戰爭}-](https://zh.wikipedia.org/wiki/使命召唤：现代战争_\(2019年遊戲\) "wikilink")》（Call of Duty: Modern Warfare）：型號為SCAR-H，命名為“FN Scar 17”，卡其色槍身。
 
 ### [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")
 
@@ -327,7 +329,7 @@ SCAR由FN位於南[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[哥�
 
   - —[FN SCAR on Defense-Update](https://web.archive.org/web/20080509164656/http://www.defense-update.com/products/s/scar.htm)
 
-  - —[FN SCAR video demonstration](http://files.filefront.com/SCAR+Demowmv/;9074210;/fileinfo.html)
+  - —[FN SCAR video demonstration](https://web.archive.org/web/20071229212510/http://files.filefront.com/SCAR+Demowmv/;9074210;/fileinfo.html)
 
   - —[FN SCAR images](https://web.archive.org/web/20071013202304/http://imagestation.com/album/pictures.html?id=2104970073)
 
@@ -342,87 +344,47 @@ SCAR由FN位於南[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[哥�
 [Category:自动步枪](https://zh.wikipedia.org/wiki/Category:自动步枪 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink") [Category:戰鬥步槍](https://zh.wikipedia.org/wiki/Category:戰鬥步槍 "wikilink") [Category:精確射手步槍](https://zh.wikipedia.org/wiki/Category:精確射手步槍 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:美國槍械](https://zh.wikipedia.org/wiki/Category:美國槍械 "wikilink") [Category:美國步槍](https://zh.wikipedia.org/wiki/Category:美國步槍 "wikilink") [Category:比利時槍械](https://zh.wikipedia.org/wiki/Category:比利時槍械 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  [FN SCAR量产型](http://firearmsworld.net/fn/scar/prd.htm)
-
 5.
-
 6.  [Newer carbines outperform M4 in dust test - Army News, opinions, editorials, news from Iraq, photos, reports - Army Times](http://www.armytimes.com/news/2007/12/army_carbine_dusttest_071217/)
-
 7.  <http://www.armytimes.com/news/2008/11/army_carbineday_112308w/>
-
 8.
-
 9.  [FN Herstal Announces FN IAR Award](http://www.fnhusa.com/mil/press/detail.asp?id=49) , accessed February 5, 2009
-
 10.
-
 11. [D Boy Gun World—FN SCAR计划（FN IAR）](http://firearmsworld.net/usa/r/scar/fn_iar.htm)
-
 12.
-
 13. [美国海军陆战队选择HK-IAR取代M249机枪](http://war.news.163.com/09/1204/14/5PMRLA7700011MTO.html)
-
-14.
-
+14. [The Kunduz MK 17 SCAR, or a Chronology of SCAR rifles Among the Taliban](https://www.thefirearmblog.com/blog/2018/03/05/kunduz-mk-17-scar-chronology-scar-among-taliban/amp/)
 15.
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
-21. geo-army.ge
-
-22.
-
+21.
+22. geo-army.ge
 23.
 24.
-
-25. <http://www.mod.go.jp/gsdf/gmcc/hoto/hkou/14hk113.pdf>
-
+25.
 26.
-
 27.
-
-28. <http://www.kam.lt/lt/naujienos_874/aktualijos_875/i_lietuva_atgabenti_naujieji_taikliojo_saulio_ginklai.html> Į Lietuvą atgabenti naujieji taikliojo šaulio ginklai
-
-29.
-
+28.
+29. <http://www.kam.lt/lt/naujienos_874/aktualijos_875/i_lietuva_atgabenti_naujieji_taikliojo_saulio_ginklai.html> Į Lietuvą atgabenti naujieji taikliojo šaulio ginklai
 30.
-
 31.
-
-32. [NSPA awards a contract to FN Herstal for the supply of rifles, grenade launchers and machine guns to the Portuguese Army](https://www.nspa.nato.int/en/news/news-20190221-4.htm)
-
-33. <http://specijalne-jedinice.com/Oprema/Jurisne-puske/FN-SCAR.html#sthash.jtCTmYNi.dpbs>
-
-34. <http://specijalne-jedinice.com/Srbija/Bataljon-vojne-policije-za-specijalne-namene-Kobre.html#sthash.WfX6r14t.vO282Xto.dpbs>
-
-35. <http://www.imgrum.net/user/kurogears/3159694102/1291791250500675450_3159694102>
-
-36. <http://www.royaldefence.com/partials/theme/banner/banner_06.jpg>
-
-37.
-
+32.
+33. [NSPA awards a contract to FN Herstal for the supply of rifles, grenade launchers and machine guns to the Portuguese Army](https://www.nspa.nato.int/en/news/news-20190221-4.htm)
+34. <http://specijalne-jedinice.com/Oprema/Jurisne-puske/FN-SCAR.html#sthash.jtCTmYNi.dpbs>
+35. <http://specijalne-jedinice.com/Srbija/Bataljon-vojne-policije-za-specijalne-namene-Kobre.html#sthash.WfX6r14t.vO282Xto.dpbs>
+36. <http://www.imgrum.net/user/kurogears/3159694102/1291791250500675450_3159694102>
+37. <http://www.royaldefence.com/partials/theme/banner/banner_06.jpg>
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
+45.

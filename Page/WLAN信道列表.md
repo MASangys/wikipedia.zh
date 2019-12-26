@@ -1126,55 +1126,32 @@
 [Category:無線網絡](https://zh.wikipedia.org/wiki/Category:無線網絡 "wikilink") [Category:IEEE_802.11](https://zh.wikipedia.org/wiki/Category:IEEE_802.11 "wikilink")
 
 1.
-
 2.
-
 3.  <http://www.cisco.com/en/US/docs/wireless/technology/channel/deployment/guide/Channel.html#Moving_to_802.11g>
-
 4.
-
 5.
-
 6.  IEEE 802.11-2007 — Table 18-9
-
 7.
 8.  [47 CFR §15.247](http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr;sid=9eab2402bb1cccc8f85bb3fa9e6c2daa;rgn=div5;view=text;node=47%3A1.0.1.1.16;idno=47;cc=ecfr#47:1.0.1.1.16.3.234.31)
-
 9.
-
 10. [NTIA comments to the FCC ET Docket 03-108, footnote 88](http://www.ntia.doc.gov/ntiahome/fccfilings/2005/cogradio/ETDocket03-108_02152005.htm#_ftn88)
-
 11. <http://edocket.access.gpo.gov/cfr_2004/octqtr/pdf/47cfr15.205.pdf>
-
 12. IEEE 802.11-2007 Annex J 修订了 k, y 和 n
-
 13.
-
 14.
-
 15.
-
 16. [FCC 15.407 as of April 9, 2013 – hallikainen.com](http://www.hallikainen.org/FCC/FccRules/2013/15/407/index.php)
-
 17.
-
 18.
-
 19.
-
 20. Israel:
-
 21. [Korea Frequency Distribution Table](http://rra.go.kr/board/law/view.jsp?lw_seq=187&lw_type=3)  2008.12.31 (in Korean)
-
 22. [KISA MESAFE ERİŞİMLİ TELSİZ CİHAZLARI (KET) YÖNETMELİĞİ Resmi Gazete 10.03.2010](http://www.tk.gov.tr/mevzuat/yonetmelikler/dosyalar/KET_yonetmeligi.pdf)  Madde 8 - Genişband veri iletim sistemleri (in Turkish)
-
 23.
 24.
 25.
 26.
-
 27. <http://www.rsm.govt.nz/cms/licensees/types-of-licence/general-user-licences/short-range-devices> RSM as of May 8, 2014
-
 28.
 29.
 30.
@@ -1183,38 +1160,24 @@
 33.
 34.
 35.
-
 36.
-
 37.
-
 38.
 39.
 40.
 41.
-
 42.
 43.
 44.
 45.
 46. [FCC 15.407 as of June 23, 2011 – hallikainen.com / See paragraph 'h'](http://louise.hallikainen.org/FCC/FccRules/2011/15/407/)
-
 47.
-
 48. [Bundesnetzagentur Vfg 7/2010 / See footnote 4 and 5 (german only)](http://www.bundesnetzagentur.de/cae/servlet/contentblob/38216/publicationFile/6579/WLAN5GHzVfg7_2010_28042010pdf.pdf)
-
 49. [2005/513/EC: Commission Decision of 11 July 2005 on the harmonised use of radio spectrum in the 5 GHz frequency band for the implementation of wireless access systems](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32005D0513:EN:NOT)
-
 50. [2007/90/EC: Commission Decision of 12 February 2007 amending Decision 2005/513/EC on the harmonised use of radio spectrum in the 5 GHz frequency band for the implementation of Wireless Access Systems](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32007D0090:EN:NOT)
-
 51. [Information der Obersten Fernmeldebehörde - Drahtlose lokale Netzwerke (WAS, WLAN, RLAN)(german only)](http://www.bmvit.gv.at/bmvit/telekommunikation/publikationen/infoblaetter/downloads/052010.pdf)
-
 52. [Frequency assignments for unlicensed devices / See page 14](http://www.ellipsis.co.za/wp-content/uploads/2008/07/licence_exemption_frequency_regs_2008.pdf)
-
 53.
-
 54. [Radiocommunications Class License 2000 / See Item 44, 44A, 45B and 46](http://www.comlaw.gov.au/Details/F2013C00396)
-
 55. [Short range devices](http://www.rsm.govt.nz/cms/licensees/types-of-licence/general-user-licences/short-range-devices)
-
 56.

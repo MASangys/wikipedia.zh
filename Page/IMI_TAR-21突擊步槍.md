@@ -269,52 +269,28 @@
 [Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:精確射手步槍](https://zh.wikipedia.org/wiki/Category:精確射手步槍 "wikilink") [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink") [Category:以色列军事](https://zh.wikipedia.org/wiki/Category:以色列军事 "wikilink") [Category:以色列槍械](https://zh.wikipedia.org/wiki/Category:以色列槍械 "wikilink") [Category:印度轻武器](https://zh.wikipedia.org/wiki/Category:印度轻武器 "wikilink")
 
 1.  —
-
 2.  <http://www.gunblast.com/SHOT_2002_2.htm> SHOT Show 2002 Day 2 report
-
 3.   IWI Tavor civilian semi-automatic carbine.
-
 4.
-
 5.  —[לאור תפקודו במבצע: אין עוד צורך בשיפור התבור](http://dover.idf.il/IDF/News_Channels/bamahana/09/13/1304.htm) ，[以色列國防軍發言人發出](https://zh.wikipedia.org/wiki/以色列國防軍發言人 "wikilink")（[英文標題為](../Page/英语.md "wikilink")“Due to its performance during the operation: there are no further improvements required in the Tavor”，中文翻譯為*「由於其在行動中的表現出色：目前沒有需要進一步改進塔沃爾步槍」*）
-
 6.  [IDF website - "Nahal Brigade Receives New Israeli Made Tavor"](http://dover.idf.il/NR/exeres/E11447EB-C780-4F86-9EB6-A3DBB553C3C4.htm)
-
 7.  [Female soldiers will be using the Tavor for the first time - IDF Spokesperson Website](http://dover.idf.il/IDF/English/News/today/09/07/2601.htm)  July 26, 2009
-
 8.
-
 9.
-
 10.
-
 11. <http://fr.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1196847365211>
-
 12.
 13. [Agentes todavía no saben utilizar fusiles comprados por el Gobierno.](http://www.elperiodico.com.gt/es/20071113/actualidad/45643/)
-
 14. [DefenseNews.com](http://www.defensenews.com/story.php?i=3722292&c=ASI&s=LAN) Thailand Plans $191.3M Arms Purchase
-
 15. [Cabinet nod for Israeli rifles](http://www.bangkokpost.com/breakingnews/154451/cabinet-nod-for-buying-israeli-rifles)
-
 16. [泰国军队开始驱散“红衫军”](http://news.sina.com.cn/w/2010-04-11/033017353082s.shtml)
-
 17.
-
 18.
-
 19. Ben-David, Alon（September 23, 2009）. "In the Line of Fire: Infantry Weapons". Jane's Defence Weekly（ISSN: 02653818）.
-
 20. [1](http://news.yahoo.com/nphotos/slideshow/photo//100525/ids_photos_wl/r2211985891.jpg/)
-
 21. [2](http://www.mycity-military.com/Ostalo/Vojske-bivsih-Republika-SFRJ_104.html#820836)
-
 22.
-
 23. <http://www.defenseindustrydaily.com/tavor21-rifle-headed-into-service-with-indian-special-forces-03080/>
-
 24. —[Tavor assault rifle](https://web.archive.org/web/20050506131120/http://www.geocities.com/militaryzone_portugal/tavor.htm), article at the Armas & Munições n.º 3
-
 25. —[Substituição da G-3: Governo recorreu para o Supremo](http://diariodigital.sapo.pt/news.asp?section_id=12&id_news=246129), *Diário Digital*
-
 26. —[Militares vão continuar a utilizar as velhas 'G3'](http://dn.sapo.pt/2007/04/10/nacional/militares_continuar_a_utilizar_velha.html) , *Diário de Notícias*

@@ -70,37 +70,21 @@ Tuxera官方的使用手冊及NTFS-3G[手册页](../Page/手册页.md "wikilink"
 [Category:SourceForge專案](https://zh.wikipedia.org/wiki/Category:SourceForge專案 "wikilink") [Category:磁盘文件系统](https://zh.wikipedia.org/wiki/Category:磁盘文件系统 "wikilink") [Category:使用者空間檔案系統](https://zh.wikipedia.org/wiki/Category:使用者空間檔案系統 "wikilink")
 
 1.
-
 2.  [NTFS-3G: NTFS Driver with Ownership and permissions](http://perso.orange.fr/b.andre/security.html)
-
 3.  [Data Compression - Tuxera](https://www.tuxera.com/community/ntfs-3g-advanced/data-compression/)
-
 4.  [NTFS-3G FAQ](https://www.tuxera.com/community/ntfs-3g-faq/)
-
-5.  [NTFS-3G 2009.2.1 changelog](http://article.gmane.org/gmane.comp.file-systems.ntfs-3g.devel/678)
-
+5.
 6.
 7.
 8.
-
 9.
-
 10. [NTFS-3G for Mac OS X ("Catacombae")](https://sourceforge.net/projects/catacombae/files/NTFS-3G%20for%20Mac%20OS%20X/)
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16. [Performance at Tuxera](https://www.tuxera.com/products/tuxera-ntfs-commercial/performance/)
-
 17.
-
 18.
-
 19. [NTFS-3G for Mac OS X is now Tuxera NTFS for Mac](http://macntfs-3g.blogspot.com/2009/10/tuxera-ntfs-for-mac.html)

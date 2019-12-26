@@ -85,5 +85,4 @@
 [Category:IRT百老匯-第七大道線車站](https://zh.wikipedia.org/wiki/Category:IRT百老匯-第七大道線車站 "wikilink") [Category:1917年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路車站 "wikilink") [Category:曼哈頓紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:曼哈頓紐約地鐵車站 "wikilink") [Category:1917年紐約州建立](https://zh.wikipedia.org/wiki/Category:1917年紐約州建立 "wikilink")
 
 1.
-
 2.

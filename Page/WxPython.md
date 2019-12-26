@@ -40,9 +40,7 @@ app.MainLoop()
 
   -
   - [Project Phoenix main page](http://wiki.wxpython.org/ProjectPhoenix)
-
   - [List of applications developed with wxPython](http://wiki.wxpython.org/wxPythonPit%20Apps)
-
   - [Tutorial screencasts for starting wxPython programming](https://web.archive.org/web/20060823135830/http://showmedo.com/videos/series?name=PythonWxPythonBeginnersSeries) at showmedo
 
 [Category:Python库](https://zh.wikipedia.org/wiki/Category:Python库 "wikilink")

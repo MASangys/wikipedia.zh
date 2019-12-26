@@ -28,7 +28,7 @@
 
 ## 外部連結
 
-  - [SoulJa Official web site](http://www.soulja.jp/)
+  - [SoulJa Official web site](https://web.archive.org/web/20100629224914/http://www.soulja.jp/)
   - [日本環球唱片 SoulJa 官方網站](http://www.universal-music.co.jp/soulja/)
 
 [Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink") [Category:日裔混血儿](https://zh.wikipedia.org/wiki/Category:日裔混血儿 "wikilink") [Category:比利時裔混血兒](https://zh.wikipedia.org/wiki/Category:比利時裔混血兒 "wikilink")

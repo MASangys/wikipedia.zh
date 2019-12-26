@@ -34,7 +34,7 @@
 
 律敦治在二戰後雖然繼續擔任律敦治洋酒行和律敦治置業有限公司的董事會主席，但年事漸高，業務已逐漸交由兒子[鄧律敦治](../Page/鄧律敦治.md "wikilink")打理。\[73\]晚年的律敦治專注於防癆工作和其他公益慈善事業，除了擔任[香港保護兒童會](../Page/香港保護兒童會.md "wikilink")副主席、主席和[香港國殤紀念基金委員會委員等職以外](https://zh.wikipedia.org/wiki/香港國殤紀念基金委員會 "wikilink")，也繼續擔任防癆會董事、律敦治療養院及葛量洪醫院兩家院所的管治委員會主席以及[香港大學](../Page/香港大學.md "wikilink")校董等職，1952年至1958年又任[香港紅十字會](../Page/香港紅十字會.md "wikilink")第四會長。\[74\]\[75\]\[76\]
 
-[Mhe_small_copy.jpg](https://zh.wikipedia.org/wiki/File:Mhe_small_copy.jpg "fig:Mhe_small_copy.jpg")的興建\]\] 另一方面，律敦治特別關注香港戰後房屋不足的問題，鑑於當時港府仍未有大型的[公營房屋興建計劃](https://zh.wikipedia.org/wiki/香港公營房屋 "wikilink")，他早於1948年至1951年出任[香港房屋協會](../Page/香港房屋協會.md "wikilink")主席，\[77\]而且於1950年聯同紳商[周錫年](../Page/周錫年.md "wikilink")等人成立[香港模範屋宇會](https://zh.wikipedia.org/wiki/香港模範屋宇會 "wikilink")，並擔任主席一職。\[78\]在港府撥地和[香港上海匯豐銀行出資支持下](https://zh.wikipedia.org/wiki/香港上海匯豐銀行 "wikilink")，模範屋宇會於1951年至1956年分期建成[北角](../Page/北角.md "wikilink")[模範邨](../Page/模範邨.md "wikilink")，是為香港早期的[廉租屋邨](https://zh.wikipedia.org/wiki/廉租屋邨 "wikilink")。\[79\]1952年，律敦治再與周錫年、[李耀祥](https://zh.wikipedia.org/wiki/李耀祥 "wikilink")、[顏成坤](../Page/顏成坤.md "wikilink")和[馮秉芬](../Page/馮秉芬.md "wikilink")等人籌組[香港平民屋宇有限公司](../Page/香港平民屋宇有限公司.md "wikilink")，並任董事一職，透過興建平民屋出租予有需要的居民。\[80\]
+[Mhe_small_copy.jpg](https://zh.wikipedia.org/wiki/File:Mhe_small_copy.jpg "fig:Mhe_small_copy.jpg")的興建\]\] 另一方面，律敦治特別關注香港戰後房屋不足的問題，鑑於當時港府仍未有大型的[公營房屋興建計劃](https://zh.wikipedia.org/wiki/香港公營房屋 "wikilink")，他早於1948年至1951年出任[香港房屋協會](../Page/香港房屋協會.md "wikilink")主席，\[77\]而且於1950年聯同紳商[周錫年](../Page/周錫年.md "wikilink")等人成立[香港模範屋宇會](https://zh.wikipedia.org/wiki/香港模範屋宇會 "wikilink")，並擔任主席一職。\[78\]在港府撥地和[香港上海匯豐銀行出資支持下](https://zh.wikipedia.org/wiki/香港上海匯豐銀行 "wikilink")，模範屋宇會於1951年至1956年分期建成[北角](../Page/北角.md "wikilink")[模範邨](../Page/模範邨.md "wikilink")，是為香港早期的[廉租屋邨](../Page/廉租屋邨.md "wikilink")。\[79\]1952年，律敦治再與周錫年、[李耀祥](https://zh.wikipedia.org/wiki/李耀祥 "wikilink")、[顏成坤](../Page/顏成坤.md "wikilink")和[馮秉芬](../Page/馮秉芬.md "wikilink")等人籌組[香港平民屋宇有限公司](../Page/香港平民屋宇有限公司.md "wikilink")，並任董事一職，透過興建平民屋出租予有需要的居民。\[80\]
 
 律敦治晚年身體健康倒退，1957年以後淡出公開場合。\[81\]1960年2月10日，他於赤柱別墅因[心臟病突發病逝](https://zh.wikipedia.org/wiki/心臟病 "wikilink")，終年79歲，按照帕西人傳統，他的遺體旋於翌日下午五時於[跑馬地](../Page/跑馬地.md "wikilink")[祆教墳場舉行安葬儀式](https://zh.wikipedia.org/wiki/祆教墳場 "wikilink")。\[82\]\[83\]有鑑於律敦治生前積極投身慈善公益，再加上是香港的印度社群僑領，因此當日親臨葬禮致哀者包括時任[港督](https://zh.wikipedia.org/wiki/港督 "wikilink")[柏立基](../Page/柏立基.md "wikilink")爵士、[輔政司](https://zh.wikipedia.org/wiki/香港輔政司 "wikilink")[白嘉時](../Page/白嘉時.md "wikilink")、副輔政司[戴斯德](../Page/戴斯德.md "wikilink")、[駐港英軍](../Page/駐港英軍.md "wikilink")司令[巴斯田少將](https://zh.wikipedia.org/wiki/巴斯田 "wikilink")、[財政司](https://zh.wikipedia.org/wiki/香港財政司 "wikilink")[歧樂嘉](../Page/歧樂嘉.md "wikilink")、[華民政務司](https://zh.wikipedia.org/wiki/華民政務司 "wikilink")[石智益](../Page/石智益.md "wikilink")、醫務總監[麥敬時](../Page/麥敬時.md "wikilink")醫生和[教育司](https://zh.wikipedia.org/wiki/教育司 "wikilink")[高詩雅等多名港府高官](https://zh.wikipedia.org/wiki/高詩雅 "wikilink")、另外還有多名兩局議員以及政商界人士等數百人。\[84\]葬禮儀式簡單而莊重，由港督柏立基爵士主持撒土儀式，以示悼念。\[85\]
 
@@ -134,39 +134,26 @@
 [Category:香港商人](https://zh.wikipedia.org/wiki/Category:香港商人 "wikilink") [Category:香港慈善家](https://zh.wikipedia.org/wiki/Category:香港慈善家 "wikilink") [Category:CBE勳銜](https://zh.wikipedia.org/wiki/Category:CBE勳銜 "wikilink") [Category:帕西人](https://zh.wikipedia.org/wiki/Category:帕西人 "wikilink") [Category:太平紳士](https://zh.wikipedia.org/wiki/Category:太平紳士 "wikilink") [Category:印度裔香港人](https://zh.wikipedia.org/wiki/Category:印度裔香港人 "wikilink") [Category:瑣羅亞斯德教徒](https://zh.wikipedia.org/wiki/Category:瑣羅亞斯德教徒 "wikilink")
 
 1.  Shroff-Gander (2012), pp.377-378.
-
 2.  關慧玲（2012年7月18日）
-
 3.
 4.  〈波打清釀〉（1906年2月27日）
-
 5.  Starling (2006), p.230.
-
 6.  "Police Reserve, Indian Company: Headquarters Found: Mr. J. H. Ruttonjee Gives Premises Rent-Free" (26 September 1935)
-
 7.  "Tributes to Sterling Police Commissioner" (21 May 1941)
-
 8.
 9.  "Personality Parade - Merchant Philanthropist" (24 July 1950)
-
 10. "Craigengower Cricket Club's First Sports Challenge in 1894" (1 July 1941)
-
 11.
 12.
 13. "Kowloon residents" (14 April 1897)
-
 14.
 15. Chu (2005), pp.158-159.
-
 16. 〈律敦治中心變身〉（2005年12月16日）
-
 17.
 18. "Roll out the barrel" (25 August 2013)
-
 19.
 20.
 21. "Hong Kong's New Brewery Opened" (17 August 1933)
-
 22.
 23.
 24.
@@ -196,18 +183,14 @@
 48.
 49.
 50. White (1994), p.57.
-
 51.
 52.
 53. 〈前立法局議員慈善家鄧律敦治逝世，遺體今日下午安葬〉（1974年7月29日）
-
 54.
 55. 《60周年紀念特刊》（2008年），頁46。
-
 56.
 57.
 58. 《60周年紀念特刊》（2008年），頁49。
-
 59.
 60.
 61.
@@ -215,10 +198,8 @@
 63.
 64.
 65. 《60周年紀念特刊》（2008年），頁56。
-
 66.
 67. 《60周年紀念特刊》（2008年），頁53。
-
 68.
 69.
 70.
@@ -227,75 +208,51 @@
 73.
 74.
 75. 呂大樂（2000年），頁86至87。
-
 76. 〈登律敦治夫人周末赴英渡假〉（1951年12月6日）
-
 77. 《香港房屋協會70周年紀念特刊》（2018年），頁15。
-
 78.
 79. 〈模範屋宇會成立，擬在北角興建平價樓四百層〉（1950年7月26日）
-
 80. 〈九龍塘村災區地皮，港府宣佈立即收回〉（1952年5月4日）
-
 81. "Sudden Death of Mr J. H. Ruttonjee" (11 February 1960)
-
 82.
 83. 〈印籍慈善家律敦治逝世〉（1960年2月12日）
-
 84.
 85.
 86.
 87. "Rusy M. Shroff: Global NRI for Dec. -'97" (1997)
-
 88.
 89.
 90. 《60周年紀念特刊》（2008年），頁84。
-
 91.
 92.
 93.
 94.
 95.
 96. 又作巴努拜·馬斯特（Banubai Master）。（參見Shroff-Gander (2012), pp.377-388.）
-
 97. 〈訃聞〉（1972年10月7日）
-
 98.
 99. "[Supplement to Issue 43343](https://www.thegazette.co.uk/London/issue/43343/supplement/4961)", *London Gazette*, 5 June 1964, p.4961.
-
 100. Shroff-Gander (2012), pp.376-377.
-
 101. "Ruttonjee, Anne Dhun" (retrieved on 25 May 2015)
-
 102.
 103. "Ruttonjee, Shirley" (retrieved on 25 May 2015)
-
 104. "Hon. Dhun Ruttonjee" (1969)
-
 105. "Desai-Ruttonjee" (7 February 1925)
-
 106. "Rustom Eduljee Desai" (retrieved on 25 May 2015)
-
 107. "Ruttonjee-Desai, Vera" (retrieved on 25 May 2015)
-
 108.
 109.
 110. 〈永遠懷念勞士施羅孚副會長BBS, MBE〉（造訪於2018年6月2日）
-
 111.
 112.
 113. "Historic Building Appraisal: Homi Villa, Castle Peak Road, Tsuen Wan, N.T." (retrieved on 25 May 2015)
-
 114.
 115.
 116.
 117. Daswani (23 August 1987)
-
 118.
 119.
 120. "Late Mr. J. H. Ruttonjee - Wise Philosopher And Good Friend Who Will Be Long Remembered" (12 February 1960)
-
 121. "[Supplement to Issue 37835](https://www.thegazette.co.uk/London/issue/37835/supplement/21)", *London Gazette*, 31 December 1946, p.21.
-
 122.
 123.

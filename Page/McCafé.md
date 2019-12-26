@@ -40,15 +40,9 @@
 [Category:麦当劳](https://zh.wikipedia.org/wiki/Category:麦当劳 "wikilink") [Category:咖啡店](https://zh.wikipedia.org/wiki/Category:咖啡店 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.

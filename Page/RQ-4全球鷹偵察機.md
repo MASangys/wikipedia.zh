@@ -1,6 +1,6 @@
 **RQ-4全球鷹**（）是由[诺斯洛普·格鲁门](../Page/诺斯洛普·格鲁门.md "wikilink")所生產製造的[無人飛行載具](https://zh.wikipedia.org/wiki/無人飛機 "wikilink")（UAV），主要服役於[美國空軍與](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")[美國海軍](../Page/美國海軍.md "wikilink")。
 
-該機角色上類似1950年代叱吒風雲的[洛克希德](https://zh.wikipedia.org/wiki/洛克希德 "wikilink")[U-2](https://zh.wikipedia.org/wiki/U-2 "wikilink")[偵察機](https://zh.wikipedia.org/wiki/偵察機 "wikilink")。它可以提供後方指揮官綜觀戰場或是細部目標監視的能力。它裝備有高解析度[合成孔径雷达](../Page/合成孔径雷达.md "wikilink")可以看穿雲層和風沙還有光電[紅外線模組](https://zh.wikipedia.org/wiki/紅外線 "wikilink")（EO/IR）提供長程長時間全區域動態監視。白天監視區域超過100,000[平方公里](https://zh.wikipedia.org/wiki/平方公里 "wikilink")（40,000[平方英哩](https://zh.wikipedia.org/wiki/平方英哩 "wikilink")）例如要監視[洛杉磯一樣大的城市](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，可以從緬因州遙控環球之鷹，拍攝370 x 370公里（230 x 230英哩）區域的洛杉磯市區24小時，然後悠閒的飛回家。
+該機角色上類似1950年代叱吒風雲屡次被击落的[洛克希德](https://zh.wikipedia.org/wiki/洛克希德 "wikilink")[U-2](https://zh.wikipedia.org/wiki/U-2 "wikilink")[偵察機](https://zh.wikipedia.org/wiki/偵察機 "wikilink")。它可以提供後方指揮官綜觀戰場或是細部目標監視的能力。它裝備有高解析度[合成孔径雷达](../Page/合成孔径雷达.md "wikilink")可以看穿雲層和風沙還有光電[紅外線模組](https://zh.wikipedia.org/wiki/紅外線 "wikilink")（EO/IR）提供長程長時間全區域動態監視。白天監視區域超過100,000[平方公里](https://zh.wikipedia.org/wiki/平方公里 "wikilink")（40,000[平方英哩](https://zh.wikipedia.org/wiki/平方英哩 "wikilink")）例如要監視[洛杉磯一樣大的城市](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，可以從緬因州遙控環球之鷹，拍攝370 x 370公里（230 x 230英哩）區域的洛杉磯市區24小時，然後悠閒的飛回家。
 
 它還有潛在能力可以進行波譜分析的諜報工作，提前發現全球各地的危機和衝突。也能幫忙導引空軍的飛彈轟炸。使誤擊狀況降低。
 
@@ -9,6 +9,8 @@
 全球鷹是第一架得到[美國聯邦航空局](https://zh.wikipedia.org/wiki/美國聯邦航空局 "wikilink")（FAA）認證可以在美國民航機領空飛行的無人機。\[1\]這算是無人機產業一大革命，日後可能出現不需駕駛員操縱的[商用飛機](https://zh.wikipedia.org/wiki/商用飛機 "wikilink")。
 
 RQ-4動力來自[劳斯莱斯AE 3007H](https://zh.wikipedia.org/wiki/劳斯莱斯_AE_3007 "wikilink")[渦輪風扇發動機](https://zh.wikipedia.org/wiki/渦輪風扇發動機 "wikilink")，該發動機可產生31.4 kN（3,200 kgf / 7,050 lbf）的推力，可以搭載900公斤（2,000磅）設備。[機身為平常的](https://zh.wikipedia.org/wiki/機身 "wikilink")[鋁合金](../Page/鋁合金.md "wikilink")，[機翼則是](https://zh.wikipedia.org/wiki/機翼 "wikilink")[碳纖維](../Page/碳纖維.md "wikilink")。日後量產成本估計約3500萬美元一架。\[2\]（目前實際成本加入研發成本，所以高達1億2320萬美元\[3\]）
+
+2019年6月20日，一架美国海军的MQ-4C版本“全球鹰”在霍尔木兹甘省库默巴拉克附近被伊朗击落后，美国空军宣布将退役其大部分RQ-4。
 
 ## 整體系統
 
@@ -110,7 +112,7 @@ SAR-MTI系統於X-波段操作並提供以下幾種模式：
 
 2011年3月11日，[福島第一核電站事故發生後](https://zh.wikipedia.org/wiki/福島第一核電站事故 "wikilink")，美國緊急於3月17日從美軍[關島](../Page/關島.md "wikilink")基地調派一架RQ-4全球鹰偵察機，拍攝[反應爐受損影像](https://zh.wikipedia.org/wiki/反應爐 "wikilink")。
 
-2019年6月20日，[伊斯蘭革命衛隊周四宣稱](https://zh.wikipedia.org/wiki/伊斯蘭革命衛隊 "wikilink")，在[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")[荷姆茲甘省上空擊落一架美軍RQ](https://zh.wikipedia.org/wiki/荷姆茲甘省 "wikilink")-4全球鹰無人偵察機，痛批美方此舉是「入侵空域」。根據[美聯社消息](https://zh.wikipedia.org/wiki/美聯社 "wikilink")，[美國中央司令部發言人海軍上校鄂班](https://zh.wikipedia.org/wiki/美國中央司令部 "wikilink")（Bill Urban）拒絕評論此事，事後僅提到「沒有無人機飛越伊朗上空」，随后美国军方也证实了伊朗击落了一架全球鹰\[28\]，紐約時報報導川普總統一度授權打擊伊朗，但在攻擊前夕反悔取消。\[29\]
+2019年6月20日，[伊斯蘭革命衛隊周四宣稱](https://zh.wikipedia.org/wiki/伊斯蘭革命衛隊 "wikilink")，在[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")[荷姆茲甘省上空擊落一架美軍RQ](https://zh.wikipedia.org/wiki/荷姆茲甘省 "wikilink")-4全球鹰無人偵察機，痛批美方此舉是「入侵空域」。根據[美聯社消息](https://zh.wikipedia.org/wiki/美聯社 "wikilink")，[美國中央司令部發言人海軍上校鄂班](https://zh.wikipedia.org/wiki/美國中央司令部 "wikilink")（Bill Urban）拒絕評論此事，事後僅提到「沒有無人機飛越伊朗上空」，随后美国军方也证实了伊朗击落了一架全球鹰\[28\]，紐約時報報導川普總統一度与幕僚讨论是否打擊伊朗，最终否定了打击可能。\[29\]
 
 ## 技術規格
 

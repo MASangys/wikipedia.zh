@@ -4,7 +4,7 @@
 
 ## Modern Talking的职业生涯
 
-## \* [Modern Talking Chile](http://www.moderntalking.cl)
+## \* [Modern Talking Chile](https://web.archive.org/web/20190603051706/http://www.moderntalking.cl/)
 
 ### 1984至1987间
 

@@ -4,20 +4,6 @@
 
 ## 曲目
 
-|                                    |                                    |                                                       |                                    |                                    |
-| ---------------------------------- | ---------------------------------- | ----------------------------------------------------- | ---------------------------------- | ---------------------------------- |
-| <font color=darkblue>**曲序**</font> | <font color=darkblue>**曲名**</font> | <font color=darkblue>**作曲**</font>                    | <font color=darkblue>**作詞**</font> | <font color=darkblue>**注釋**</font> |
-| 01                                 | **飄飄**                             | [曹格](../Page/曹格.md "wikilink")                        | 崔惟楷                                | 首波主打                               |
-| 02                                 | '''熱愛 '''                          | [李榮浩](../Page/李榮浩.md "wikilink")                      | 廖瑩如                                | 第二主打                               |
-| 03                                 | **這就是愛**                           | [Tank](https://zh.wikipedia.org/wiki/Tank "wikilink") | Midori                             | 第三主打（抒情主打）                         |
-| 04                                 | 瞬間                                 | [柯貴民](../Page/柯貴民.md "wikilink")                      | 廖瑩如                                |                                    |
-| 05                                 | 雙人舞                                | 王心凌                                                   | 林白                                 |                                    |
-| 06                                 | 日落前七分鐘                             | 古皓／旺旺                                                 | 蕭旭甫／古皓                             |                                    |
-| 07                                 | 幸福神偷                               | [小安](../Page/小安.md "wikilink")                        | 馬嵩惟                                |                                    |
-| 08                                 | 還是好朋友                              | Min Myeong Gi                                         | 陳彥輔                                |                                    |
-| 09                                 | 泡泡糖                                | KIM SE-JIN                                            | 馬嵩惟                                | OT：MALGWALRYANGI                   |
-| 10                                 | 睜開眼                                | 饒善強                                                   | [易桀齊](../Page/易桀齊.md "wikilink")   |                                    |
-
 ### 初回限定版 Bonus DVD
 
   - 心凌工作情況的幕後花絮DVD
@@ -28,4 +14,10 @@
   - 心凌之旅 2 「輕航機飛行體驗全記錄」
   - 熱愛MV完整版
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink") [Category:王心凌音樂專輯](https://zh.wikipedia.org/wiki/Category:王心凌音樂專輯 "wikilink")
+## 專輯成績
+
+1.  2008年第五屆「[勁歌王](https://zh.wikipedia.org/wiki/勁歌王金曲金榜 "wikilink")」國語金曲獎 <熱愛>
+2.  2008年第五屆「[勁歌王](https://zh.wikipedia.org/wiki/勁歌王金曲金榜 "wikilink")」最具觀賞性MTV獎 <飄飄>
+3.  2008年第五屆「[勁歌王](https://zh.wikipedia.org/wiki/勁歌王金曲金榜 "wikilink")」最暢銷唱片大獎 《Fly\! Cyndi》
+
+[Category:王心凌音乐专辑](https://zh.wikipedia.org/wiki/Category:王心凌音乐专辑 "wikilink") [Category:2007年音乐专辑](https://zh.wikipedia.org/wiki/Category:2007年音乐专辑 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")

@@ -67,6 +67,6 @@
 
 ## 外部連結
 
-  - [ジャンプスーパーアニメツアー公式サイト](http://www.jumpfesta.com/anime/)
+  - [ジャンプスーパーアニメツアー公式サイト](https://web.archive.org/web/20090401081353/http://www.jumpfesta.com/anime/)
 
 [Category:ONE_PIECE作品](https://zh.wikipedia.org/wiki/Category:ONE_PIECE作品 "wikilink")

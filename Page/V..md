@@ -30,8 +30,6 @@
 [Category:美国文学](https://zh.wikipedia.org/wiki/Category:美国文学 "wikilink") [Category:1963年長篇小說](https://zh.wikipedia.org/wiki/Category:1963年長篇小說 "wikilink")
 
 1.  孙万军,严启刚.探究后现代小说《V.》的叙事轨迹.河北大学学报（哲学社会科学版）.2005 30(6)
-
 2.
 3.  陈橙,物化后的荒诞文明——论品钦《V.》中的物化.南方论刊.2007 (9).
-
 4.  杜志卿，现实与历史的书写——品钦《V.》的主题探析.《华侨大学学报(哲学社会科学版)》.2008年4期

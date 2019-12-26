@@ -82,7 +82,7 @@
 ## 外部連結
 
   - [電影版『只有你聽得到』官方網站](http://www.kimikoe.jp/index.html)
-  - [電影版『KIDS』官方網站](http://www.kids-kiz.com/)
+  - [電影版『KIDS』官方網站](https://web.archive.org/web/20090315090457/http://www.kids-kiz.com/)
 
 ## 參考資料
 

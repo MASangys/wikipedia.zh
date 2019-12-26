@@ -1,6 +1,6 @@
 **Crystal Space**是[3D构架](https://zh.wikipedia.org/wiki/3D "wikilink")，用[C++](../Page/C++.md "wikilink")语言编写。开发者包括[Jorrit Tyberghein](https://zh.wikipedia.org/wiki/Jorrit_Tyberghein "wikilink")。首个公开版本发布于1997年8月26日\[1\]通常用于电子游戏目的。是使用[GNU Lesser General Public License协议的](https://zh.wikipedia.org/wiki/GNU_Lesser_General_Public_License "wikilink")[自由软件](../Page/自由软件.md "wikilink")，作为[SourceForge.net](https://zh.wikipedia.org/wiki/SourceForge.net "wikilink") 2003年2月月度项目\[2\]
 
-可用[OpenGL](../Page/OpenGL.md "wikilink")（全平台）, [SDL](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")（全SDL平台），[X11](https://zh.wikipedia.org/wiki/X11 "wikilink")（Unix和GNU/Linux）或[SVGALib](https://zh.wikipedia.org/wiki/SVGALib "wikilink")（GNU/Linux）。
+可用[OpenGL](../Page/OpenGL.md "wikilink")（全平台）, [SDL](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")（全SDL平台），[X11](https://zh.wikipedia.org/wiki/X11 "wikilink")（Unix和GNU/Linux）或[SVGALib](../Page/SVGALib.md "wikilink")（GNU/Linux）。
 
 ## 引擎设计
 

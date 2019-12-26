@@ -45,12 +45,8 @@ Manx2航空成立於2006年5月11日，並於同年7月15日開始營運服務�
 [Category:英國已結業航空公司](https://zh.wikipedia.org/wiki/Category:英國已結業航空公司 "wikilink") [Category:2006年成立的航空公司](https://zh.wikipedia.org/wiki/Category:2006年成立的航空公司 "wikilink") [Category:2012年結業航空公司](https://zh.wikipedia.org/wiki/Category:2012年結業航空公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.

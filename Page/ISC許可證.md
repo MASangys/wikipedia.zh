@@ -27,7 +27,5 @@ ISC許可證的樣版如下：
 [Category:自由軟體授權](https://zh.wikipedia.org/wiki/Category:自由軟體授權 "wikilink")
 
 1.
-
 2.
-
 3.

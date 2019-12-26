@@ -39,5 +39,4 @@
 [Category:主板](https://zh.wikipedia.org/wiki/Category:主板 "wikilink") [Category:主機板規格](https://zh.wikipedia.org/wiki/Category:主機板規格 "wikilink") [Category:IBM_PC兼容机](https://zh.wikipedia.org/wiki/Category:IBM_PC兼容机 "wikilink")
 
 1.
-
 2.

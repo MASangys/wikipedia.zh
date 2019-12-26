@@ -18,6 +18,8 @@
 
 除了日本以外在東南亞各國及歐美都頗受歡迎，2014年，2月23日由Horipro授權在中國成立粉絲俱樂部中國分部（May'n China Fanclub）
 
+2019年，以May'n名義活動迎來第十年，睽違十年再次推出迷你專輯，不只是「唱出大家心中的主題曲(mainテーマ)」，他也在訪談中表示希望能「唱出大家和我心中的主題曲(mainテーマ)」\[4\]。
+
 ## 音乐作品
 
 ### 專輯
@@ -268,9 +270,9 @@
   - JAPAN EXPOSITION 2011 at PARIS NORD VILLEPINTE
       - 2011年7月3日/[巴黎](../Page/巴黎.md "wikilink")・\*J.E. Live House
   - \[2011年\]\[11月13日\]/AFA Singapore演唱會・Suntec Convention
-  - 2016年8月14日參加台灣漫博演出\[4\]
+  - 2016年8月14日參加台灣漫博演出\[5\]
   - May'n ASIA TOUR 2017 「OVER∞EASY」in Taipei
-      - 2017年3月11日、3月12日・台北Legacy\[5\]
+      - 2017年3月11日、3月12日・台北Legacy\[6\]
 
 ## 演唱會DVD/BD
 
@@ -386,4 +388,5 @@
 2.
 3.
 4.
-5.  [「不過今天是最最幸福的一場演出！」 May’n第一日台灣公演報導](https://memeon-music.com/2017/03/24/mayn-livereport-2/)
+5.
+6.  [「不過今天是最最幸福的一場演出！」 May’n第一日台灣公演報導](https://memeon-music.com/2017/03/24/mayn-livereport-2/)

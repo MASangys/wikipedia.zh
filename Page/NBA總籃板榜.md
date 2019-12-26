@@ -921,68 +921,36 @@
 [Category:NBA数据统计](https://zh.wikipedia.org/wiki/Category:NBA数据统计 "wikilink")
 
 1.  由於聯盟於1973－74年賽季才開始分別計算進攻籃板和防守籃板，因此本列表中部分總籃板數字並不等於進攻籃板和防守籃板的總和.
-
 2.  球员必需正式退役满五年才有资格入选[美国篮球名人堂](https://zh.wikipedia.org/wiki/美国篮球名人堂 "wikilink").
-
 3.  [费城勇士于](https://zh.wikipedia.org/wiki/费城勇士 "wikilink")[1962-63赛季搬到](https://zh.wikipedia.org/wiki/1962-63_NBA赛季 "wikilink")[旧金山](../Page/旧金山.md "wikilink")并改名为旧金山勇士.[1964-65 NBA赛季中途](https://zh.wikipedia.org/wiki/1964-65_NBA赛季 "wikilink")[威尔特·张伯伦](../Page/威尔特·张伯伦.md "wikilink")被交换到[费城76人](../Page/费城76人.md "wikilink").
-
 4.  [休斯顿火箭在](https://zh.wikipedia.org/wiki/休斯顿火箭 "wikilink")[1970-71赛季前称圣地牙哥火箭](https://zh.wikipedia.org/wiki/1970-71_NBA赛季 "wikilink").
-
 5.  [华盛顿子弹在](https://zh.wikipedia.org/wiki/华盛顿子弹 "wikilink")[1972-73赛季前称巴尔的摩子弹](https://zh.wikipedia.org/wiki/1972-73_NBA赛季 "wikilink"),[1973-74赛季称首都子弹](https://zh.wikipedia.org/wiki/1973-74_NBA赛季 "wikilink").
-
 6.  [摩西·马龙仅仅为](https://zh.wikipedia.org/wiki/摩西·马龙 "wikilink")[布法罗勇士打了两场比赛就被交易到了](../Page/洛杉矶快船.md "wikilink")[休斯顿火箭](https://zh.wikipedia.org/wiki/休斯顿火箭 "wikilink").
-
 7.  三藩市勇士於1971-72賽季改名為金州勇士
-
 8.  [内特·瑟蒙德](../Page/内特·瑟蒙德.md "wikilink")於1975-76賽季中途被交換至[克里夫蘭騎士](https://zh.wikipedia.org/wiki/克里夫蘭騎士 "wikilink").
-
 9.  [巴尔的摩子弹在](https://zh.wikipedia.org/wiki/巴尔的摩子弹 "wikilink")[1961-62赛季称芝加哥包装工人](https://zh.wikipedia.org/wiki/1961-62_NBA赛季 "wikilink"),[1962-63赛季称芝加哥西风](https://zh.wikipedia.org/wiki/1962-63_NBA赛季 "wikilink").[1965-66赛季中途](https://zh.wikipedia.org/wiki/1965-66_NBA赛季 "wikilink")[沃尔特·贝拉米](../Page/沃尔特·贝拉米.md "wikilink")被交换到[纽约尼克斯](https://zh.wikipedia.org/wiki/纽约尼克斯 "wikilink").
-
 10. [1968-69赛季中途贝拉米被交换到](../Page/1968-69_NBA赛季.md "wikilink")[底特律活塞](../Page/底特律活塞.md "wikilink").
-
 11. [1969-70赛季中途贝拉米被交换到](https://zh.wikipedia.org/wiki/1969-70_NBA赛季 "wikilink")[亚特兰大鹰](https://zh.wikipedia.org/wiki/亚特兰大鹰 "wikilink").
-
 12.
 13. 在[2007-08賽季中途](../Page/2007-08_NBA赛季.md "wikilink")[沙奎尔·奥尼尔](../Page/沙奎尔·奥尼尔.md "wikilink")被交換至菲尼克斯太阳.
-
 14. [1969-70赛季中途](https://zh.wikipedia.org/wiki/1969-70_NBA赛季 "wikilink")[傑里·盧卡斯被交換至](https://zh.wikipedia.org/wiki/傑里·盧卡斯 "wikilink")[三藩市勇士](https://zh.wikipedia.org/wiki/三藩市勇士 "wikilink").
-
 15. [圣路易斯老鹰在](https://zh.wikipedia.org/wiki/圣路易斯老鹰 "wikilink")[1954-55赛季称密尔沃基老鹰](../Page/1954-55_NBA赛季.md "wikilink").
-
 16. 在[2000-01赛季中途](https://zh.wikipedia.org/wiki/2000-01_NBA赛季 "wikilink")[迪肯貝·穆托姆博被交換至費城](https://zh.wikipedia.org/wiki/迪肯貝·穆托姆博 "wikilink")76人.
-
 17. [亞特蘭大老鹰在](https://zh.wikipedia.org/wiki/亞特蘭大老鹰 "wikilink")[1968-69赛季前称圣路易斯老鹰](../Page/1968-69_NBA赛季.md "wikilink").
-
 18. 在[1994-95賽季中途](https://zh.wikipedia.org/wiki/1994-95_NBA赛季 "wikilink")[凯文·威利斯](../Page/凯文·威利斯.md "wikilink")被交換至邁阿密熱火.
-
 19. 在[1995-96賽季中途](https://zh.wikipedia.org/wiki/1995-96_NBA赛季 "wikilink")[Kevin Willis被交換至金州勇士](https://zh.wikipedia.org/wiki/Kevin_Willis "wikilink").
-
 20. 在[2000-01賽季中途](https://zh.wikipedia.org/wiki/2000-01_NBA赛季 "wikilink")[Kevin Willis被交換至丹佛金塊](https://zh.wikipedia.org/wiki/Kevin_Willis "wikilink").
-
 21. [洛杉矶湖人](../Page/洛杉矶湖人.md "wikilink")在[1959-60赛季前称明尼阿波利斯湖人](../Page/1959-60_NBA赛季.md "wikilink").
-
 22. [費城76人在](https://zh.wikipedia.org/wiki/費城76人 "wikilink")[1963-64赛季前称雪城民族](../Page/1963-64_NBA赛季.md "wikilink").
-
 23. [亞特蘭大老鷹在](https://zh.wikipedia.org/wiki/亞特蘭大老鷹 "wikilink")[1968-69赛季前称聖路易斯老鷹](../Page/1968-69_NBA赛季.md "wikilink"). [1971-72赛季中途](https://zh.wikipedia.org/wiki/1971-72_NBA赛季 "wikilink")[William C. Bridges被交换到費城](https://zh.wikipedia.org/wiki/William_C._Bridges "wikilink")76人.
-
 24. [1972-73赛季中途](https://zh.wikipedia.org/wiki/1972-73_NBA赛季 "wikilink")[William C. Bridges被交换到洛杉磯湖人](https://zh.wikipedia.org/wiki/William_C._Bridges "wikilink").
-
 25. [1974-75赛季中途](https://zh.wikipedia.org/wiki/1974-75_NBA赛季 "wikilink")[William C. Bridges被交换到](https://zh.wikipedia.org/wiki/William_C._Bridges "wikilink")-{金州勇士}-.
-
 26. [1981-82赛季中途](https://zh.wikipedia.org/wiki/1981-82_NBA赛季 "wikilink")[比尔·兰比尔](../Page/比尔·兰比尔.md "wikilink")被交换到[底特律活塞](../Page/底特律活塞.md "wikilink").
-
 27. [薩克拉門托國王在](https://zh.wikipedia.org/wiki/薩克拉門托國王 "wikilink")[1985-86赛季前称堪薩斯城國王](https://zh.wikipedia.org/wiki/1985-86_NBA赛季 "wikilink").
-
 28. [1994-95赛季中途](https://zh.wikipedia.org/wiki/1994-95_NBA赛季 "wikilink")[奧狄斯·科普被交换到波特蘭开拓者](https://zh.wikipedia.org/wiki/奧狄斯·科普 "wikilink").
-
 29. [1997-98赛季中途](https://zh.wikipedia.org/wiki/1997-98_NBA赛季 "wikilink")[奧狄斯·科普被交换到薩克拉門托國王](https://zh.wikipedia.org/wiki/奧狄斯·科普 "wikilink").
-
 30. [費城76人在](https://zh.wikipedia.org/wiki/費城76人 "wikilink")[1963-64赛季前称雪城國家](../Page/1963-64_NBA赛季.md "wikilink").
-
 31. [1979-80赛季中途](https://zh.wikipedia.org/wiki/1979-80_NBA赛季 "wikilink")[鲍伯·兰尼尔被交换到](https://zh.wikipedia.org/wiki/鲍伯·兰尼尔 "wikilink")[密尔沃基雄鹿](../Page/密尔沃基雄鹿.md "wikilink").
-
 32. [堪薩斯城國王在](https://zh.wikipedia.org/wiki/堪薩斯城國王 "wikilink")[1972-73赛季前称辛辛那提皇家](https://zh.wikipedia.org/wiki/1972-73_NBA赛季 "wikilink"), [1972-73赛季至](https://zh.wikipedia.org/wiki/1972-73_NBA赛季 "wikilink")[1974-75赛季称堪薩斯城](https://zh.wikipedia.org/wiki/1974-75_NBA赛季 "wikilink")-奧瑪哈國王. 在[1981-82賽季中途](https://zh.wikipedia.org/wiki/1981-82_NBA赛季 "wikilink")[Samuel Lacey被交換至紐澤西籃網](https://zh.wikipedia.org/wiki/Samuel_Lacey "wikilink").
-
 33. 在[1968-69賽季中途](../Page/1968-69_NBA赛季.md "wikilink")[David DeBusschere被交換至纽约尼克斯](https://zh.wikipedia.org/wiki/David_DeBusschere "wikilink").
-
 34. 在[1996-97賽季中途](https://zh.wikipedia.org/wiki/1996-97_NBA赛季 "wikilink")[A·C·格林](../Page/A·C·格林.md "wikilink")被交換至達拉斯小牛.

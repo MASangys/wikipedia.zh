@@ -50,8 +50,6 @@ Image:H-II-GTV.jpg|H-II地面测试，现安放在[筑波航天中心](../Page/�
 [Category:日本运载火箭](https://zh.wikipedia.org/wiki/Category:日本运载火箭 "wikilink") [Category:化學火箭](https://zh.wikipedia.org/wiki/Category:化學火箭 "wikilink") [Category:一次性火箭](https://zh.wikipedia.org/wiki/Category:一次性火箭 "wikilink") [Category:三菱重工業](https://zh.wikipedia.org/wiki/Category:三菱重工業 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

@@ -37,40 +37,22 @@ Electronica目前包括各種各樣的音樂表演和風格，此流派的音樂
 [Category:電子音樂](https://zh.wikipedia.org/wiki/Category:電子音樂 "wikilink") [Category:電子音樂類型](https://zh.wikipedia.org/wiki/Category:電子音樂類型 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  "Todd Fay, Wordware Publishing, 2003,
-
 8.  Page 1, *Electronic and Experimental Music: Pioneers in Technology and Composition*, Thomas B. Holmes, Routledge Music/Songbooks, 2002,
-
 9.  BT, page 45, *Wired: Musicians' Home Studios : Tools & Techniques of the Musical Mavericks*, Megan Perry, Backbeat Books Music/Songbooks 2004,
-
 10.
-
 11. Page 376, *DirectX Audio Exposed: Interactive Audio Development*, Todd Fay, Wordware Publishing, 2003,
-
 12. page 90, *Wired: Musicians' Home Studios : Tools & Techniques of the Musical Mavericks*, Megan Perry, Backbeat Books Music/Songbooks 2004,
-
 13. Page 48, *Music and Technoculture*, Rene T. A. Lysloff, Tandem Library Books, 2003,
-
 14. Pages 233 & 242, ''Popular Music in France from Chanson to Techno: Culture, Identity and Society '', By Steve Cannon, Hugh Dauncey, Ashgate Publishing, Ltd. 2003,
-
 15. "Page 234, *The Latin Beat: The Rhythms and Roots of Latin Music from Bossa Nova to Salsa and Beyond*, Ed Morales, Da Capo Press, 2003,
-
 16. Page 165, ''Youth Media '', Bill Osgerby, Routledge, 2004,
-
 17.
 18. "Electronica reached new heights within the culture of rave and techno music in the 1990s." Page 185, *Music and Technoculture*, Rene T. A. Lysloff, Tandem Library Books, 2003,
-
 19. *The Changing Shape of the Culture Industry; or, How Did Electronica Music Get into Television Commercials?*, Timothy D. Taylor, University of California, Los Angeles, [Television & New Media, Vol. 8, No. 3, 235-258 (2007)](http://tvn.sagepub.com/cgi/content/abstract/8/3/235)
-
 20. Ed. [The Grammys](https://zh.wikipedia.org/wiki/The_Grammys "wikilink").[Hyundai](https://zh.wikipedia.org/wiki/Hyundai "wikilink") [Veloster](https://zh.wikipedia.org/wiki/Veloster "wikilink"), [The Recording Academy](https://zh.wikipedia.org/wiki/The_Recording_Academy "wikilink"), [GreenLight Media & Marketing](../Page/Hulu.md "wikilink"), Art Takes Over (ATO), & RSA Films, n.d. Web. 24 May 2013. \<<http://regenerationmusicproject.com/>\>.

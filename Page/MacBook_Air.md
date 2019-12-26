@@ -4,7 +4,7 @@
 
 2011年7月20日，相隔9個月後，苹果发布了更新的第三代13.3寸及11.6寸MacBook Air。在2012年WWDC大会上，苹果发布了升级的第四代MacBook Air，配备第三代Intel Core处理器及Intel HD Graphics 4000核芯显卡。在2013年WWDC大会上（6月10日），苹果再次发布了升级的第五代MacBook Air，配备第四代Intel Core处理器及Intel HD Graphics 5000核芯显卡。在2014年4月29日，苹果发布了更新的第五代MacBook Air，配备更新的第四代Intel Core处理器，同時降低了售價。2016年10月，苹果推出新版MacBook Pro，同時停售11吋款MacBook Air，13吋款MacBook Air內存部分開始標配8GB，儘管過時的螢幕始終受到評議，這些年來性能的提升與價格的調整，也讓MacBook Air變成麥金塔系列中最實惠的入門選擇。
 
-2018年10月，苹果進行系列翻新，推出新一代13.3寸的全新MacBook Air，備有3款顏色金、銀、太空灰可選擇，搭载了第八代Intel Core i5 8210Y处理器、[Retina顯示器](../Page/Retina显示屏.md "wikilink")、[Touch ID](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")、[Thunderbolt 3連接埠和蝶式键盘](../Page/Thunderbolt.md "wikilink")。2019年7月19日，蘋果正式停售13吋舊MacBook Air，小幅度更新MacBook Air與產品線重整，加入原彩顯示技術的Retina顯示器與改良版蝶式键盘，並在更換容量的前提下還降低了售價，以繼續耕耘其教育與消費者市場。
+2018年10月，苹果進行系列翻新，推出新一代13.3寸的全新MacBook Air，備有3款顏色金、銀、太空灰可選擇，搭载了第八代Intel Core i5 8210Y处理器、[Retina顯示器](../Page/Retina显示屏.md "wikilink")、[Touch ID](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")、[Thunderbolt 3連接埠](../Page/Thunderbolt.md "wikilink")、[Force Touch控版與蝶式键盘](../Page/3D_Touch.md "wikilink")。2019年7月19日，蘋果正式停售13吋舊MacBook Air，小幅度更新MacBook Air與產品線重整，加入原彩顯示技術的Retina顯示器與改良版蝶式键盘，並在更換容量的前提下還降低了售價，以繼續耕耘其教育與消費者市場。
 
 ## 特色
 
@@ -323,7 +323,7 @@
 <td><p><a href="../Page/Mac_OS_X_Lion.md" title="wikilink">OS X 10.7</a> "Lion"</p></td>
 <td><p><a href="../Page/OS_X_Mavericks.md" title="wikilink">OS X 10.11</a> "El Capitan"</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/macOS_Sierra" title="wikilink">macOS 10.12</a> "Sierra"</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/macOS_Mojave" title="wikilink">macOS 10.14</a> "Mojave"</p></td>
+<td><p><a href="../Page/MacOS_Catalina.md" title="wikilink">macOS 10.15</a> "Catalina"</p></td>
 <td></td>
 <td></td>
 <td></td>

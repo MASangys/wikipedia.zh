@@ -126,34 +126,21 @@ ROT47的範例：
 [Category:古典密码](https://zh.wikipedia.org/wiki/Category:古典密码 "wikilink") [Category:网络文化](https://zh.wikipedia.org/wiki/Category:网络文化 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  早期ROT13的使用可從[Google USENET存檔資料回溯至](https://zh.wikipedia.org/wiki/Google_USENET "wikilink")1982年10月8日當日張貼`net.jokes`新聞群組的帖子 [1](http://groups.google.com/groups?selm=bnews.desoto.299)[2](http://groups.google.com/groups?selm=bnews.utcsrgv.596)。
-
 5.
 6.
-
 7.
 8.
 9.
-
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.

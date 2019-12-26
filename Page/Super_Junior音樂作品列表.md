@@ -1,6 +1,6 @@
 **Super Junior音樂作品列表**主要列舉[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")**[Super Junior](../Page/Super_Junior.md "wikilink")**及其子團體[Super Junior-K.R.Y.](../Page/Super_Junior-K.R.Y..md "wikilink")、[Super Junior-T](../Page/Super_Junior-T.md "wikilink")、[Super Junior-M](../Page/Super_Junior-M.md "wikilink")、[Super Junior-Happy](../Page/Super_Junior-Happy.md "wikilink")、[Super Junior Donghae & Eunhyuk歷年發行的各類音樂專輯](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")、單曲、影視歌曲和廣告歌曲。
 
-[Super Junior已發行](../Page/Super_Junior.md "wikilink")10張正規專輯（9張韓語及1張日語）、1張迷你專輯(1張韓語)、12張單曲（3張韓語及9張日語）、6張演唱會現場專輯和6張[SM Entertainment合作專輯](../Page/SM娛樂.md "wikilink")。專輯周榜排名，分別源於日本[Oricon Charts](../Page/Oricon.md "wikilink")、韓國[Gaon Chart或Hanteo](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink") Charts、台灣[G-music](../Page/玫瑰大眾唱片.md "wikilink").
+[Super Junior已發行](../Page/Super_Junior.md "wikilink")11張正規專輯（10張韓語及1張日語）、1張迷你專輯(1張韓語)、12張單曲（3張韓語及9張日語）、6張演唱會現場專輯和6張[SM Entertainment合作專輯](../Page/SM娛樂.md "wikilink")。專輯周榜排名，分別源於日本[Oricon Charts](../Page/Oricon.md "wikilink")、韓國[Gaon Chart或Hanteo](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink") Charts、台灣[G-music](../Page/玫瑰大眾唱片.md "wikilink").
 
 ## Super Junior
 
@@ -149,10 +149,21 @@
 <li>發行日期：2017年11月6日</li>
 <li>語言：韓語</li>
 <li>格式：CD</li>
-<li>版本：Black Suit Version、One More Chance<br />
-Version、Pause Version、Replay Version</li>
+<li>版本：Black Suit、One More Chance、Pause、Replay</li>
 <li>唱片公司：SM Entertainment</li>
 <li>銷量：436,021+ （韓國）</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>9th</strong></p></td>
+<td><p><strong><a href="../Page/Time_Slip.md" title="wikilink">Time_Slip</a></strong></p>
+<ul>
+<li>發行日期：2019年10月14日</li>
+<li>語言：韓語</li>
+<li>格式：CD</li>
+<li>唱片公司：SM Entertainment</li>
+<li>銷量：365,751+</li>
 </ul></td>
 <td></td>
 </tr>
@@ -210,7 +221,7 @@ Version、Pause Version、Replay Version</li>
 <li>發行日期：2018年10月8日</li>
 <li>語言：韓語</li>
 <li>格式：CD</li>
-<li>銷量：</li>
+<li>銷量：142,534+ （韓國）</li>
 </ul></td>
 <td></td>
 </tr>
@@ -521,7 +532,7 @@ Version、Pause Version、Replay Version</li>
 <li>语言：普通话、韩语</li>
 <li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>, <a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD</a></li>
 </ul></td>
-<td><p>–</p></td>
+<td><p>–| –</p></td>
 <td><p>–</p></td>
 </tr>
 <tr class="odd">
@@ -1955,6 +1966,22 @@ Version、Pause Version、Replay Version</li>
 <td><p><a href="../Page/厲旭.md" title="wikilink">厲旭</a></p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>10月29日</p></td>
+<td><p>電視劇《<a href="../Page/花黨：朝鮮婚姻介紹所.md" title="wikilink">花黨：朝鮮婚姻介紹所</a>》</p></td>
+<td><p>마음에 그리다 (Branded In My Heart)</p></td>
+<td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11月15日</p></td>
+<td><p>綜藝節目《Analog Trip》</p></td>
+<td><p>Come a little closer</p></td>
+<td><p><a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="../Page/銀赫.md" title="wikilink">銀赫</a>、<a href="../Page/東海_(藝人).md" title="wikilink">東海</a></p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -2276,6 +2303,15 @@ Version、Pause Version、Replay Version</li>
 <td><p><a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="https://zh.wikipedia.org/wiki/俞世潤#組合UV" title="wikilink">UV</a></p></td>
 <td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION第三季第</a>7首數位單曲《Cheer Man》</p></td>
 <td><p><a href="../Page/神童_(藝人).md" title="wikilink">神童</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11月20日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/始源" title="wikilink">始源</a>、<a href="https://zh.wikipedia.org/wiki/BoA" title="wikilink">BoA</a>、<a href="../Page/J-Min.md" title="wikilink">J-Min</a>、<a href="../Page/Sunny_(少女時代).md" title="wikilink">Sunny</a>、<br />
+<a href="../Page/泰民.md" title="wikilink">泰民</a>、<a href="../Page/Suho.md" title="wikilink">Suho</a>、<a href="https://zh.wikipedia.org/wiki/孫承完" title="wikilink">Wendy</a>、<a href="../Page/道英.md" title="wikilink">道英</a></p></td>
+<td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION</a> STATION X第1首數位單曲《This is Your Day (for every child, UNICEF)》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/始源" title="wikilink">始源</a></p></td>
 <td></td>
 <td></td>
 </tr>

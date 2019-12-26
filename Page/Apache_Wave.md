@@ -6,7 +6,7 @@
 
 ## 词源
 
-名称灵感来自Firefly电视连续剧，其中被称为Wave的电子通信技术（通常是一个视频电话或视频信息）。
+名称灵感来自[Firefly电视连续剧](https://zh.wikipedia.org/wiki/Firefly "wikilink")，其中被称为Wave的电子通信技术（通常是一个视频电话或视频信息）。
 
 ## API
 
@@ -46,24 +46,14 @@ Google Wave在预览版本阶段已向10万名普通用户陆续开放预览测�
 [Category:已終止的Google服務](https://zh.wikipedia.org/wiki/Category:已終止的Google服務 "wikilink") [Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink")
 
 1.  <http://googlewavedev.blogspot.com/2010/12/introducing-apache-wave.html>
-
 2.
-
 3.
-
 4.  <http://googleblog.blogspot.com/2010/08/update-on-google-wave.html>
-
 5.  Meyer, David. (2010-09-03) [Google puts open-source Wave in a 'box' | Application Development | ZDNet UK](http://www.zdnet.co.uk/news/application-development/2010/09/03/google-puts-open-source-wave-in-a-box-40089999/). Zdnet.co.uk. Retrieved on 2010-12-14.
-
 6.  [Google Wave inte ute ur leken](http://www.idg.se/2.1085/1.355483/google-wave-inte-ute-ur-leken). IDG.se. Retrieved on 2010-12-14.
-
 7.  Murphy, David. (1970-01-01) [Google Spins Wave Into 'Wave in a Box' for Third-Party Use | News & Opinion](http://www.pcmag.com/article2/0,2817,2368730,00.asp). PCMag.com. Retrieved on 2010-12-14.
-
 8.
-
 9.
 10.
-
 11. <http://www.wextensions.com>
-
 12.

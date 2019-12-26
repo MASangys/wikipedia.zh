@@ -1,4 +1,4 @@
-《**You're the Only One**》（意思：你是唯一）是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王靖雯的第三張大碟](https://zh.wikipedia.org/wiki/王靖雯 "wikilink")，[粵語專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於1990年12月发行。專輯10首歌曲，7首為翻唱。這張唱片發佈之後，她便暫時去了[美國進修](https://zh.wikipedia.org/wiki/美國 "wikilink")、休息。自這張專輯開始，王靖雯的音樂開始有強烈的[R\&B風格](https://zh.wikipedia.org/wiki/R&B "wikilink")，一直延續到後來1993年的《[執迷不悔](../Page/執迷不悔.md "wikilink")》。
+《**You're the Only One**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王菲](../Page/王菲.md "wikilink")的第三張大碟，[粵語專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於1990年12月发行。專輯10首歌曲，7首為翻唱。這張唱片發佈之後，她便暫時去了[美國進修](https://zh.wikipedia.org/wiki/美國 "wikilink")、休息。自這張專輯開始，王菲的音樂開始有強烈的[R\&B風格](https://zh.wikipedia.org/wiki/R&B "wikilink")，一直延續到後來1993年的《[執迷不悔](../Page/執迷不悔.md "wikilink")》。
 
 ## 唱片版本
 

@@ -152,9 +152,11 @@
 
   - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
 
+## 參考資料
+
 ## 外部連結
 
-  - [XEBEC公司網站](http://www.xebec-inc.co.jp)
+  - [XEBEC公司網站](https://web.archive.org/web/20110423021919/http://www.xebec-inc.co.jp/)
 
 [Category:1995年成立的公司](https://zh.wikipedia.org/wiki/Category:1995年成立的公司 "wikilink") [Category:XEBEC](https://zh.wikipedia.org/wiki/Category:XEBEC "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink") [Category:國分寺市](https://zh.wikipedia.org/wiki/Category:國分寺市 "wikilink")
 

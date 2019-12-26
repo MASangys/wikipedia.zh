@@ -1,4 +1,4 @@
-**SelTrac**（洛倫茲標準電子列車控制系統）是一套由[Alcatel公司開發](https://zh.wikipedia.org/wiki/阿爾卡特-朗訊 "wikilink")，以數碼技術形式控制鐵路車輛的[訊號系統](https://zh.wikipedia.org/wiki/訊號系統 "wikilink")。由於原有生產商被[Nokia收購](https://zh.wikipedia.org/wiki/Nokia "wikilink")，SelTrac已於2015年起改由銷售（而為[港鐵](../Page/港鐵.md "wikilink")市區綫提供的香港改進型[CBTC](https://zh.wikipedia.org/wiki/CBTC "wikilink")，則由港鐵、泰雷兹及[阿爾斯通](../Page/阿爾斯通.md "wikilink")合作研發）。
+**SelTrac**（洛倫茲標準電子列車控制系統）是一套由[Alcatel公司開發](https://zh.wikipedia.org/wiki/阿爾卡特-朗訊 "wikilink")，以數碼技術形式控制鐵路車輛的[訊號系統](https://zh.wikipedia.org/wiki/訊號系統 "wikilink")。由於原有生產商被[Nokia收購](https://zh.wikipedia.org/wiki/Nokia "wikilink")，SelTrac已於2015年起改由[泰雷兹集團銷售](https://zh.wikipedia.org/wiki/泰雷兹集團 "wikilink")（而為[港鐵](../Page/港鐵.md "wikilink")市區綫提供的香港改進型[CBTC](https://zh.wikipedia.org/wiki/CBTC "wikilink")，則由港鐵、泰雷兹及[阿爾斯通](../Page/阿爾斯通.md "wikilink")合作研發）。
 
 ## 產品家族
 

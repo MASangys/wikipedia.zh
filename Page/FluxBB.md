@@ -73,15 +73,10 @@ FluxBB 1.4不僅是1.2的升級版，也將會包含部分1.3測試版的功能�
 [Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:網絡討論區軟體](https://zh.wikipedia.org/wiki/Category:網絡討論區軟體 "wikilink")
 
 1.  [About FluxBB](http://fluxbb.org/about/)
-
 2.  [Requirements of FluxBB](http://fluxbb.org/about/requirements.php)
-
 3.
-
 4.  [PunBB forums - PunBB 1.3 RC](http://punbb.informer.com/forums/viewtopic.php?id=19353)
-
 5.
 6.
-
 7.
 8.

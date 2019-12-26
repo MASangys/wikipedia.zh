@@ -205,22 +205,14 @@ WinFS型別是公開為.NET類別，它可以具現化為.NET物件。透過設�
 [Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink") [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink")
 
 1.
-
 2.
-
 3.  {{ cite web | url = <http://blogs.msdn.com/winfs/archive/2006/06/23/644706.aspx> | title = WinFS Update | author = Quentin Clark | date = June 23, 2006 | accessdate = 2006-06-23 | work = What's in Store|publisher = MSDN Blogs }}
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
 11.
 12.
@@ -229,7 +221,6 @@ WinFS型別是公開為.NET類別，它可以具現化為.NET物件。透過設�
 15.
 16.
 17.
-
 18.
 19.
 20.
@@ -237,7 +228,6 @@ WinFS型別是公開為.NET類別，它可以具現化為.NET物件。透過設�
 22.
 23.
 24.
-
 25.
 26.
 27.
@@ -248,55 +238,40 @@ WinFS型別是公開為.NET類別，它可以具現化為.NET物件。透過設�
 32.
 33.
 34.
-
 35.
 36.
 37.
 38.
-
 39.
 40.
 41.
 42.
-
 43.
 44.
 45.
 46.
-
 47.
-
 48.
-
 49.
-
 50.
 51.
-
 52.
-
 53.
 54.
 55.
 56. 後來與[比爾蓋茲的會談證實此消息](https://zh.wikipedia.org/wiki/比爾蓋茲 "wikilink")，而且Microsoft計畫移轉[Windows Media Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")、[Windows相片圖庫](https://zh.wikipedia.org/wiki/Windows相片圖庫 "wikilink")、[Microsoft Office Outlook等應用程式以使用WinFS做為資料儲存後端](https://zh.wikipedia.org/wiki/Microsoft_Office_Outlook "wikilink")。
-
 57.
 58.
-
 59. {{ cite web|url=<http://microsoft.sitestream.com/PDC05/DAT/DAT209_files/intro.htm> |title="WinFS" Future Directions: An Overview |date=September 2005 |accessdate=2006-05-22 |author=Shishir Mehrotra |work=[Professional Developers Conference](https://zh.wikipedia.org/wiki/Professional_Developers_Conference "wikilink") 2005 presentations |publisher=Microsoft |deadurl=yes |archiveurl=<https://web.archive.org/web/20060106033122/http://microsoft.sitestream.com/PDC05/DAT/DAT209_files/intro.htm> |archivedate=2006-01-06 }}（Currently offline, [mirror](http://www.ntfs.com/downloads/WinFS.ppt)）.
-
 60.
 61.
 62.
 63.
-
 64.
 65.
 66.
 67.
-
 68.
-
 69.
 70.
 71.
@@ -319,7 +294,6 @@ WinFS型別是公開為.NET類別，它可以具現化為.NET物件。透過設�
 88.
 89.
 90. {{ cite web | url = <http://msdn2.microsoft.com/en-us/library/ms996631.aspx> | title = A Developer's Perspective on WinFS: Part 2 | date = July 2004 | accessdate = 2007-06-30 | author = Shawn Wildermuth | work = MSDN | publisher = Microsoft }}
-
 91.
 92.
 93.

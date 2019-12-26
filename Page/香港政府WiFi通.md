@@ -44,26 +44,15 @@
 [Category:無線網絡](https://zh.wikipedia.org/wiki/Category:無線網絡 "wikilink") [Category:香港市辦無線](https://zh.wikipedia.org/wiki/Category:香港市辦無線 "wikilink")
 
 1.  [香港政府WiFi通官方網站](http://www.gov.hk/tc/theme/wifi/program/index.htm)
-
 2.  億元政府wifi遜商營服務（[明報](../Page/明報.md "wikilink")，2011-2-6）
-
 3.
 4.  每月用量超08全年（明報，2011-2-6）
-
 5.  [政府WiFi通增40場地](http://hk.news.yahoo.com/政府wifi通增40場地-080613271.html)《，明報》 2012年12月21日
-
 6.  [新一代「政府Wi Fi通」啟動](http://orientaldaily.on.cc/cnt/news/20121222/00176_056.html)，《東方日報》 2012年12月22日
-
 7.  [政府Wi-Fi 提速增熱點](http://hk.news.yahoo.com/政府wi-fi-提速增熱點-211028957.html) 《明報》 2012年12月21日
-
 8.  [政府擬增萬個免費WiFi點](https://hk.news.yahoo.com/%E6%94%BF%E5%BA%9C%E6%93%AC%E5%A2%9E%E8%90%AC%E5%80%8B%E5%85%8D%E8%B2%BBwifi%E9%BB%9E-214659964.html) 《星島日報》 2013年9月19日
-
 9.  [公院無WiFi 市民不快](http://orientaldaily.on.cc/cnt/news/20130919/00176_014.html) 《東方日報》 2013年9月19日
-
 10.
-
 11.
-
 12.
-
 13.

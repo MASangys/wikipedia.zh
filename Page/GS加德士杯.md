@@ -46,7 +46,7 @@
 
 ## 外部链接
 
-  - [GS加德士杯歷屆結果-韓國棋院官網](http://www.baduk.or.kr/info/gijun_view.asp?cmpt_tnmt_div=1&cmpt_code=2117)
+  - [GS加德士杯歷屆結果-韓國棋院官網](https://web.archive.org/web/20180617165116/http://www.baduk.or.kr/info/gijun_view.asp?cmpt_tnmt_div=1&cmpt_code=2117)
   - [GS加德士杯 TOM棋圣道场](http://weiqi.sports.tom.com/zhuantinew/58.html)
 
 [Category:韩国围棋比赛](https://zh.wikipedia.org/wiki/Category:韩国围棋比赛 "wikilink")

@@ -291,36 +291,25 @@ Ringo EXPO 08</p></td>
 
 ## 外部連結
 
-  - [Ringo EXPO 08特設網站](http://www.emimusic.jp/ringo10th/expo08/)
+  - [Ringo EXPO 08特設網站](https://web.archive.org/web/20090316165103/http://www.emimusic.jp/ringo10th/expo08/)
 
 [Category:椎名林檎的專輯](https://zh.wikipedia.org/wiki/Category:椎名林檎的專輯 "wikilink") [Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
 12.
 13.
-
 14.
 15.
-
 16.
 17.
 18.
@@ -329,7 +318,6 @@ Ringo EXPO 08</p></td>
 21.
 22.
 23.
-
 24.
 25.
 26.

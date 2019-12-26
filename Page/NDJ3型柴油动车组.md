@@ -56,6 +56,12 @@ China Railways NDJ3 Beijing S2 20120403.jpg|运用于[北京市郊铁路S2线](.
 </tbody>
 </table>
 
+## 参见
+
+  - [NYJ1型柴油动车组](../Page/NYJ1型柴油动车组.md "wikilink")
+  - [复兴号CR200J型电力动车组](../Page/复兴号CR200J型电力动车组.md "wikilink")
+  - [中国动车组列表](https://zh.wikipedia.org/wiki/中国动车组列表 "wikilink")
+
 ## 参考文献
 
 ## 外部連結

@@ -54,5 +54,4 @@ KV3的設計並不尋常，包含了王室墓穴的元素，但是又欠缺若�
 [Category:帝王谷](https://zh.wikipedia.org/wiki/Category:帝王谷 "wikilink") [Category:古埃及墓葬](https://zh.wikipedia.org/wiki/Category:古埃及墓葬 "wikilink")
 
 1.  Reeves, N & Wilkinson, R.H. (2008): The Complete Valley of the Kings, P.161, London: Thames and Hudson, 2008. ISBN 978-0-500-28403-2
-
 2.

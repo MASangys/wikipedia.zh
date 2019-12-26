@@ -44,7 +44,7 @@ INSS网络保安公司职员<br />
 方學文、顏如玉之次子<br />
 方心明之弟<br />
 方心美之兄<br />
-雷婉儀之男友，後分手，最後復合<br />
+雷婉儀之男友，于第16集分手，于第20集復合<br />
 徐希敏之男友，後分手<br />
 雷树培之未来堂姑丈<br />
 童年由<a href="https://zh.wikipedia.org/wiki/马俊荣" title="wikilink">马俊荣饰演</a></p></td>
@@ -56,7 +56,7 @@ INSS网络保安公司职员<br />
 高中生<br />
 方學文、顏如玉之幼女<br />
 方心明、方心正之妹<br />
-暗戀雷樹培，後為女友</p></td>
+暗戀雷樹培，于第19集為女友</p></td>
 </tr>
 </tbody>
 </table>
@@ -113,7 +113,8 @@ INSS网络保安公司职员<br />
 <td><p><a href="../Page/惠英紅.md" title="wikilink">惠英紅</a></p></td>
 <td><p>錢淑芬</p></td>
 <td><p>雷文生之前妻<br />
-雷婉儀、徐希敏之母</p></td>
+雷婉儀、徐希敏之母<br />
+于第20集跟随徐希敏回瑞士</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/楊思琦.md" title="wikilink">楊思琦</a></strong></p></td>
@@ -121,7 +122,7 @@ INSS网络保安公司职员<br />
 <td><p><strong>Abbie、鴨髀</strong><br />
 營養師<br />
 雷文生、錢淑芬之長女<br />
-方心正之女友，後分手，最後復合<br />
+方心正之女友，于第16集分手，于第20集復合<br />
 雷樹培之堂姑姐<br />
 徐希敏同母異父之姊<br />
 于第20集被宋书琦刺伤，后康复<br />
@@ -133,7 +134,8 @@ INSS网络保安公司职员<br />
 <td><p><strong>Hillary</strong><br />
 錢淑芬之幼女<br />
 雷婉儀同母異父之妹<br />
-方心正之女友，後分手</p></td>
+方心正之女友，于第17集交往，于第20集分手<br />
+于第20集钱淑芬提及向公司调回瑞士</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/陳智燊.md" title="wikilink">陳智燊</a></strong></p></td>
@@ -141,7 +143,7 @@ INSS网络保安公司职员<br />
 <td><p><strong>Patrick</strong><br />
 樓上咖啡店東主<br />
 雷婉儀之堂姪<br />
-方心美之好友，後為男友</p></td>
+方心美之好友，于第19集為男友</p></td>
 </tr>
 </tbody>
 </table>
@@ -358,7 +360,7 @@ Norman之前女友</p></td>
 <td><p>芳　芳</p></td>
 <td><p>高中學生<br />
 方心美、高詠欣、史盈盈同學兼好友<br />
-第16集誤為方心美網上偷試卷而疏離</p></td>
+第18集誤為方心美網上偷試卷而疏離</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/陳勉良.md" title="wikilink">陳勉良</a></p></td>
@@ -565,7 +567,7 @@ Norman之前女友</p></td>
 唐伯、鑑叔、蘭姨之院友</p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="../Page/徐玟晴.md" title="wikilink">徐玟晴</a></p></td>
 <td><p>-</p></td>
 <td><p>老人院之護士</p></td>
 </tr>
@@ -653,7 +655,7 @@ Michele之粉絲（第10集）</p></td>
 <td><p>沙灘壯男（第13集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃智文" title="wikilink">黃智文</a></p></td>
+<td><p><a href="../Page/黃智雯.md" title="wikilink">黃智雯</a></p></td>
 <td><p>Bennie</p></td>
 <td><p>唐琪琪之沙灘排球隊友（第13集）</p></td>
 </tr>

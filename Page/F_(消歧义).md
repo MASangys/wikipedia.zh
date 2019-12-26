@@ -51,8 +51,7 @@
 
 ## 交通运输
 
-  - [紐約地鐵F線](../Page/紐約地鐵F線.md "wikilink")，一条纽约地铁服务路线
-  - [F (S-train)](https://zh.wikipedia.org/wiki/F_\(S-train\) "wikilink")，丹麦哥本哈根的一条区域铁路线路
+  - [F線](https://zh.wikipedia.org/wiki/F線 "wikilink")，多个国家的交通线路
   - 法國的[航空器註冊編號](../Page/航空器註冊編號.md "wikilink")字首
 
 ## 其他

@@ -1,4 +1,4 @@
-**Astro華麗台**、**Astro華麗台HD**是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro擁有的以](https://zh.wikipedia.org/wiki/Astro "wikilink")[粵語播出為主的粵語娛樂綜合頻道](https://zh.wikipedia.org/wiki/粵語 "wikilink")，全天候24小时播出。該頻道主要播出來自[香港](../Page/香港.md "wikilink")電視劇、綜藝節目、美食、休閒、旅遊節目以及電影等等，同时亦播出本地节目（亦称**“Astro本地圈”**节目）該頻道備有[粵語及](https://zh.wikipedia.org/wiki/粵語 "wikilink")[華語雙聲道服務以及備有](https://zh.wikipedia.org/wiki/华语 "wikilink")[中文及](https://zh.wikipedia.org/wiki/中文 "wikilink")[馬來文字幕服務](https://zh.wikipedia.org/wiki/馬來文 "wikilink")。
+**Astro華麗台**、**Astro華麗台HD**是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro擁有的以](https://zh.wikipedia.org/wiki/Astro "wikilink")[粵語播出為主的粵語娛樂綜合頻道](https://zh.wikipedia.org/wiki/粵語 "wikilink")，全天候24小时播出。該頻道主要播出來自[香港](../Page/香港.md "wikilink")電視劇、綜藝節目、美食、休閒、旅遊節目以及電影等等，同时亦播出本地节目（亦称**“Astro本地圈”**节目）該頻道備有[粵語及](https://zh.wikipedia.org/wiki/粵語 "wikilink")[華語雙聲道服務以及備有](https://zh.wikipedia.org/wiki/华语 "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")，[英文及](https://zh.wikipedia.org/wiki/英文 "wikilink")[馬來文字幕服務](https://zh.wikipedia.org/wiki/馬來文 "wikilink")。
 
 ## 頻道詳情
 
@@ -240,7 +240,7 @@ Astro華麗台自2004年起的每一年都會舉辦《[Astro華麗台電視劇�
 <a href="../Page/黃文標.md" title="wikilink">黃文標</a>、楊鴻俊、<a href="https://zh.wikipedia.org/wiki/:yue:黃定謙" title="wikilink">黃定謙</a>、<br />
 <a href="../Page/陳健朗.md" title="wikilink">陳健朗</a>、酒井瞳、韓　媚</p></td>
 <td><p>13</p></td>
-<td><p>此劇編劇、導演及主演為<a href="../Page/王貽興.md" title="wikilink">王貽興</a>和<a href="https://zh.wikipedia.org/wiki/:yue:劉翁" title="wikilink">劉翁</a>。其他演員還有<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<a href="../Page/江若琳.md" title="wikilink">江若琳</a>、<a href="../Page/艾威.md" title="wikilink">艾威</a>等。此劇是<a href="https://zh.wikipedia.org/wiki/Astro" title="wikilink">Astro跨國投資的港劇</a>，全香港班底製作及演出，以驚悚懸疑為主軸的電視劇。此劇將於2018年8月11日，每週六晚上10:30Astro華麗台與BOO頻道同步播放,每集30分鐘,2集連播。7月24日於GSC Cinema, Mid Valley Megamall舉辦首映會。<br />
+<td><p>此劇編劇、導演及主演為<a href="../Page/王貽興.md" title="wikilink">王貽興</a>和<a href="https://zh.wikipedia.org/wiki/:yue:劉翁" title="wikilink">劉翁</a>。其他演員還有<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<a href="../Page/江若琳.md" title="wikilink">江若琳</a>、<a href="../Page/艾威.md" title="wikilink">艾威</a>等。此劇是<a href="https://zh.wikipedia.org/wiki/Astro" title="wikilink">Astro跨國投資的港劇</a>，全香港班底製作及演出，以驚悚懸疑為主軸的電視劇。此劇將於2018年8月11日，每週六晚上10点30分，Astro華麗台與BOO頻道同步播放，每集30分鐘，2集連播。7月24日於GSC Cinema，Mid Valley Megamall舉辦首映會。<br />
 此劇在2018年12月22日上架到影視平台<a href="../Page/Netflix.md" title="wikilink">Netflix</a>點播。</p></td>
 <td><p><a href="http://www.xuan.com.my/channels/wlt/article/20695/%E9%98%B3%E5%85%B3%E9%81%93">網頁</a></p></td>
 </tr>

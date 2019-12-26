@@ -65,7 +65,6 @@ Windows大部分的設計理念來自於麥金塔的指引方針；事實上，�
 [Category:图形用户界面](https://zh.wikipedia.org/wiki/Category:图形用户界面 "wikilink")
 
 1.
-
 2.
 3.
 4.
@@ -73,8 +72,6 @@ Windows大部分的設計理念來自於麥金塔的指引方針；事實上，�
 6.
 7.
 8.
-
 9.
-
 10.
 11.

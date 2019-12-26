@@ -1,8 +1,8 @@
-《**THE Big O**》（ザ ビッグオー）是1999年10月13日到2000年1月19日在[WOWOW](../Page/WOWOW.md "wikilink")放映的[機器人動畫](../Page/機器人動畫.md "wikilink")。另外作為原作，由[有賀等以](https://zh.wikipedia.org/wiki/有賀等 "wikilink")[SF漫画形式在](https://zh.wikipedia.org/wiki/SF漫画 "wikilink")[月刊MagazineZ上連載](https://zh.wikipedia.org/wiki/月刊MagazineZ "wikilink")
+《**THE Big O**》（译为：魅影巨神，魔神比古奥，ザ ビッグオー）是一部由日本[日升公司制作的](../Page/日昇.md "wikilink")[機器人動畫](../Page/機器人動畫.md "wikilink")，1999年10月13日到2000年1月19日在[WOWOW](../Page/WOWOW.md "wikilink")电视台首播。另有由有賀等所作漫画，在[月刊MagazineZ上連載](https://zh.wikipedia.org/wiki/月刊MagazineZ "wikilink")。
 
 ## 故事
 
-從現在開始算起的100年後，有一座以前被稱作[曼哈頓](../Page/曼哈頓.md "wikilink")的城市，現在則被稱作「-{zh-hans:失去记忆的街道;zh-hk:喪失記憶的城市;zh-tw:失去記憶的街道;}-」的**帕拉達伊姆市**。從40年前因為一起“為什麼”的事件，造成只有這座帕拉達伊姆市留下，其他的事物全部都被消滅掉，城市的居民們在這之前的*記憶*也因為這起“為什麼”事件而全部失去。但是他們的記憶有時卻會在意外的情況下出現。
+故事背景设定在一座名为「-{zh-hans:失去记忆的街道;zh-hk:喪失記憶的城市;zh-tw:失去記憶的街道;}-」**帕拉達伊姆市**的城市，從40年前因為一起“為什麼”的事件，造成只有這座帕拉達伊姆市留下，其他的事物全部都被消滅掉，城市的居民們在這之前的*記憶*也因為這起“為什麼”事件而全部失去。但是他們的記憶有時卻會在意外的情況下出現。
 
 主角**羅傑•史密斯**是這座城市裡最頂尖的[談判專家](https://zh.wikipedia.org/wiki/談判專家 "wikilink")，他本人也很熱愛這份工作。
 

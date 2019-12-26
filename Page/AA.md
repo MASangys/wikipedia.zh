@@ -6,6 +6,10 @@
   - [阿鲁巴的](https://zh.wikipedia.org/wiki/阿鲁巴 "wikilink")[FIPS国家代码](https://zh.wikipedia.org/wiki/FIPS "wikilink")
   - [阿河](../Page/阿河.md "wikilink")（Aa）是北欧不少小河的名称
 
+## 生物
+
+  - [阿蘭屬](https://zh.wikipedia.org/wiki/阿蘭屬 "wikilink")（學名：）是[天門冬目](../Page/天門冬目.md "wikilink")[蘭科](../Page/蘭科.md "wikilink")的一屬。
+
 ## 组织
 
   - [美國航空](../Page/美國航空.md "wikilink")的IATA航空公司代码

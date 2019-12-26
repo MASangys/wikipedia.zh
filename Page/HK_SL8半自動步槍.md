@@ -67,7 +67,7 @@ SL8-6是SL8-1的[黑色](../Page/黑色.md "wikilink")槍身版本，前[護木�
 
 ### TBT-8
 
-在2014年的（美國著名槍展），[TommyBuilt戰術公司推出了他們的TBT](https://zh.wikipedia.org/wiki/TommyBuilt戰術公司 "wikilink")-8步槍。TBT-8是一個轉換套件，使標準型HK SL8在外觀上看起來類似於[XM8突擊步槍](../Page/XM8突擊步槍.md "wikilink")。該轉換套件採用SL8的機匣與G36的[彈匣](../Page/彈匣.md "wikilink")、[聚合物](../Page/聚合物.md "wikilink")的護木、可調節的[槍托](../Page/槍托.md "wikilink")、一根旨在發射[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")的[槍管](../Page/槍管.md "wikilink")以及其他定制部件。“C”版本都具有一根短槍管和[先進武器公司](https://zh.wikipedia.org/wiki/先進武器公司 "wikilink")（AAC）762-SDN[消聲器](../Page/抑制器.md "wikilink")。TommyBuilt戰術正在計劃於2014年夏季推可選用三種不同長度的槍管，.300 AAC BLK和5.56×45毫米兩種口徑，售價為[$](../Page/美元.md "wikilink") 1,400。\[2\]
+在2014年的（美國著名槍展），[TommyBuilt戰術公司推出了他們的TBT](https://zh.wikipedia.org/wiki/TommyBuilt_Tactical "wikilink")-8步槍。TBT-8是一個轉換套件，使標準型HK SL8在外觀上看起來類似於[XM8突擊步槍](../Page/XM8突擊步槍.md "wikilink")。該轉換套件採用SL8的機匣與G36的[彈匣](../Page/彈匣.md "wikilink")、[聚合物](../Page/聚合物.md "wikilink")的護木、可調節的[槍托](../Page/槍托.md "wikilink")、一根旨在發射[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")的[槍管](../Page/槍管.md "wikilink")以及其他定制部件。“C”版本都具有一根短槍管和[先進武器公司](https://zh.wikipedia.org/wiki/先進武器公司 "wikilink")（AAC）762-SDN[消聲器](../Page/抑制器.md "wikilink")。TommyBuilt戰術正在計劃於2014年夏季推可選用三種不同長度的槍管，.300 AAC BLK和5.56×45毫米兩種口徑，售價為[$](../Page/美元.md "wikilink") 1,400。\[2\]
 
 ## 使用國
 
@@ -132,8 +132,8 @@ SL8-6是SL8-1的[黑色](../Page/黑色.md "wikilink")槍身版本，前[護木�
   - [FN FS2000半自動步槍](../Page/FN_F2000突擊步槍.md "wikilink")
   - [FN SCAR 16S半自動步槍](../Page/FN_SCAR突擊步槍.md "wikilink")
   - [HK43半自動步槍](https://zh.wikipedia.org/wiki/HK43半自動步槍 "wikilink")
-  - [HK MR223半自動步槍](https://zh.wikipedia.org/wiki/HK_MR223半自動步槍 "wikilink")
-  - [HK MR556半自動步槍](https://zh.wikipedia.org/wiki/HK_MR556半自動步槍 "wikilink")
+  - [HK MR223半自動步槍](https://zh.wikipedia.org/wiki/HK416突擊步槍#民用型 "wikilink")
+  - [HK MR556半自動步槍](https://zh.wikipedia.org/wiki/HK416突擊步槍#民用型 "wikilink")
   - [IMI TC-21半自動步槍](../Page/IMI_TAR-21突擊步槍.md "wikilink")
   - [Kel-Tec SU-16半自動步槍](https://zh.wikipedia.org/wiki/Kel-Tec_SU-16半自動步槍 "wikilink")
   - [MSAR STG-556半自動步槍](https://zh.wikipedia.org/wiki/MSAR_STG-556半自動步槍 "wikilink")
@@ -142,6 +142,7 @@ SL8-6是SL8-1的[黑色](../Page/黑色.md "wikilink")槍身版本，前[護木�
   - [儒格SR-556半自動步槍](https://zh.wikipedia.org/wiki/儒格SR-556半自動步槍 "wikilink")
   - [Saiga半自動步槍](../Page/Saiga半自動步槍.md "wikilink")
   - [史密斯威森軍警型M\&P15半自動步槍](../Page/史密斯威森軍警型M&P15半自動步槍.md "wikilink")
+  - [T36步槍](https://zh.wikipedia.org/wiki/T36步槍 "wikilink")
 
 ## 資料來源
 

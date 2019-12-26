@@ -84,14 +84,9 @@
 [Category:集成开发环境](https://zh.wikipedia.org/wiki/Category:集成开发环境 "wikilink") [Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.

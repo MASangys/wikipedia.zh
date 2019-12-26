@@ -35,4 +35,4 @@
 
 1.  [3/21発売、GAMニューシングル『LU LU LU』配信スタート！](http://www.helloproject.com/news/lulu_0703221910.html)
 2.
-3.  [GAM - 早安族譜- 早安家族私設＠台灣](http://wiki.helloproject.tw/GAM)
+3.

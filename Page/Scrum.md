@@ -199,6 +199,15 @@ Scrum会议一共包含以下四种：
   - [(video) Jeff Sutherland in *Scrum Tuning: Lessons learned from Scrum implementation at Google*](http://video.google.com/videoplay?docid=8795214308797356840) Retrieved [2007-12-15](https://zh.wikipedia.org/wiki/2007-12-15 "wikilink")
   - [(video) Ken Schwaber in *Scrum et al.*](http://video.google.com/videoplay?docid=2531954797594836634) Retrieved [2008-01-19](https://zh.wikipedia.org/wiki/2008-01-19 "wikilink")
 
+## 延伸阅读
+
+  -
+  -
+  - Verheyen, Gunther (2013). *Scrum - A Pocket Guide (A Smart Travel Companion)* .
+
+  -
+  -
+  -
 [Category:软件开发](https://zh.wikipedia.org/wiki/Category:软件开发 "wikilink") [Category:管理学](https://zh.wikipedia.org/wiki/Category:管理学 "wikilink") [Category:软件工程](https://zh.wikipedia.org/wiki/Category:软件工程 "wikilink") [Category:项目管理](https://zh.wikipedia.org/wiki/Category:项目管理 "wikilink") [Category:敏捷軟體開發](https://zh.wikipedia.org/wiki/Category:敏捷軟體開發 "wikilink")
 
 1.  Takeuchi and Nonaka: The New New Product Development Game (Harvard Business Review, Jan-Feb 1986)

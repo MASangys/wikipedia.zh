@@ -10,7 +10,7 @@
 
 官方網站
 
-  - [英國廣播公司鏈接](http://bbc.cpdn.org/)
+  - [英國廣播公司鏈接](https://web.archive.org/web/20110224031239/http://bbc.cpdn.org/)
 
 相關網站
 

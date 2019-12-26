@@ -1,57 +1,38 @@
-[MaxConcepts_logo.svg](https://zh.wikipedia.org/wiki/File:MaxConcepts_logo.svg "fig:MaxConcepts_logo.svg") **m.a.x. concepts**（1998年至今），為[美心食品有限公司旗下管理一系列](https://zh.wikipedia.org/wiki/美心食品有限公司 "wikilink")[西菜](https://zh.wikipedia.org/wiki/西菜 "wikilink")、[日菜及](https://zh.wikipedia.org/wiki/日菜 "wikilink")[東南亞菜餐廳的品牌](https://zh.wikipedia.org/wiki/東南亞菜 "wikilink")。
+[MaxConcepts_logo.svg](https://zh.wikipedia.org/wiki/File:MaxConcepts_logo.svg "fig:MaxConcepts_logo.svg") **m.a.x. concepts**（1998年至今），為[美心食品有限公司旗下管理一系列](https://zh.wikipedia.org/wiki/美心食品有限公司 "wikilink")[西菜](https://zh.wikipedia.org/wiki/西菜 "wikilink")、[日菜](https://zh.wikipedia.org/wiki/日菜 "wikilink")、[泰國菜及](https://zh.wikipedia.org/wiki/泰國菜 "wikilink")[越南菜](../Page/越南菜.md "wikilink")餐廳的品牌。
 
 ## 歷史
 
-[美心由](https://zh.wikipedia.org/wiki/美心 "wikilink")1956年於[中環](../Page/中環.md "wikilink")連卡佛行（現[置地廣場](https://zh.wikipedia.org/wiki/置地廣場 "wikilink")）開設首間西式餐廳 -「美心餐廳」，以夜總會型式經營，不時舉辦大型節目，現場樂隊演奏，為當時名人必到場所。至1962年，因[文華東方酒店及](https://zh.wikipedia.org/wiki/文華東方酒店 "wikilink")[香港希爾頓酒店](../Page/香港希爾頓酒店.md "wikilink")相繼落成，難以匹敵，「美心餐廳」結業。
+1992年，[伍舜德](../Page/伍舜德.md "wikilink")家族第三代伍偉國加入美心集團。當年，美心約有300間食肆。不過，伍偉國卻察覺到顧客偏向中老年人，年輕人卻不光顧，他認為年長顧客的消費力會越來越低，決意改革。於是他召集集團內5位年輕同事，環遊世界尋找靈感。後來美心集團旗下的新品牌Eating Plus、Simplylife、Urban Bakery Works、八月花、八月居等，都是團隊從英國、美國、日本等地的餐廳中取材而來。\[1\]伍偉國認為新品牌可為集團創造價值，例如同樣一個[牛角包](https://zh.wikipedia.org/wiki/牛角包 "wikilink")，在[美心西餅](../Page/美心西餅.md "wikilink")賣只能以9元每日賣幾十個，而改以Urban Bakery賣則可以13元每日賣2000個。\[2\]
 
-結業後，創辦人[伍舜德](../Page/伍舜德.md "wikilink")及[伍沾德](../Page/伍沾德.md "wikilink")於外國取得靈感，於1966年再辦「美心餐廳」（Maxim's Boulevard），以咖啡室餐廳模式經營，兩年內開設了20間分店，亦為[美心西餅](../Page/美心西餅.md "wikilink")定下雛型。
+1998年，[美心將西菜及日菜部餐廳革新](https://zh.wikipedia.org/wiki/美心 "wikilink")，歸入m.a.x. concepts，並發展東南亞菜。m.a.x. concepts標榜旗下餐廳風格獨特，形像鮮明，以「絕佳的食物、怡人的環境以及親切的服務」作招徠。\[3\]
 
-1980年代，美心再發展日本餐廳，開設「辨慶日本料理」及「桃山日本料理」及多個不同品牌西餐廳。
-
-西菜及日菜部旗下餐廳如下：
-
-  - 西菜
-      - 美心餐廳
-          - [中環](../Page/中環.md "wikilink") [太子大廈](../Page/太子大廈.md "wikilink")
-          - [中環](../Page/中環.md "wikilink") [告羅士打行](https://zh.wikipedia.org/wiki/告羅士打行 "wikilink")
-          - [中環](../Page/中環.md "wikilink") [興瑋大廈](https://zh.wikipedia.org/wiki/興瑋大廈 "wikilink")
-          - [中環](../Page/中環.md "wikilink") [國際大廈](https://zh.wikipedia.org/wiki/國際大廈 "wikilink")
-          - [上環](../Page/上環.md "wikilink") [永安集團大廈](../Page/永安集團大廈.md "wikilink")（聯邦大廈）
-          - [灣仔](../Page/灣仔.md "wikilink") [其昌中心](https://zh.wikipedia.org/wiki/其昌中心 "wikilink")
-          - [尖沙咀](../Page/尖沙咀.md "wikilink") [海運大廈](../Page/海運大廈.md "wikilink")
-              - 1966年開業，為「美心餐廳」轉型後首間分店。
-      - La Terrazza
-          - [中環](../Page/中環.md "wikilink") [置地廣場](https://zh.wikipedia.org/wiki/置地廣場 "wikilink")
-      - Fountain Side
-          - [中環](../Page/中環.md "wikilink") [置地廣場](https://zh.wikipedia.org/wiki/置地廣場 "wikilink")
-      - Cafe YoYo
-          - [金鐘](../Page/金鐘.md "wikilink") [海富中心](../Page/海富中心.md "wikilink")
-          - [銅鑼灣](../Page/銅鑼灣.md "wikilink") [香港大廈](https://zh.wikipedia.org/wiki/香港大廈 "wikilink")
-      - YoYo Express
-          - [金鐘](../Page/金鐘.md "wikilink") [海富中心](../Page/海富中心.md "wikilink")
-      - Foyer Bar
-          - [中環](../Page/中環.md "wikilink") [香港大會堂](../Page/香港大會堂.md "wikilink")
-      - Theatre Cafe
-          - [中環](../Page/中環.md "wikilink") [香港大會堂](../Page/香港大會堂.md "wikilink")
-      - Concerto Bar and Cafe
-          - [尖沙咀](../Page/尖沙咀.md "wikilink") [文化中心](https://zh.wikipedia.org/wiki/文化中心 "wikilink")
-      - Curtain Up
-          - [尖沙咀](../Page/尖沙咀.md "wikilink") [文化中心](https://zh.wikipedia.org/wiki/文化中心 "wikilink")
-  - 日菜
-      - 辨慶日本料理
-          - [中環](../Page/中環.md "wikilink") [置地廣場](https://zh.wikipedia.org/wiki/置地廣場 "wikilink")
-      - 辨慶迴轉壽司
-          - [九龍城](../Page/九龍城.md "wikilink") [啟德機場](../Page/啟德機場.md "wikilink")
-      - 桃山日本料理
-          - [中環](../Page/中環.md "wikilink") [怡和大廈](../Page/怡和大廈.md "wikilink")
-
-1998年，[美心將西菜及日菜部餐廳革新](https://zh.wikipedia.org/wiki/美心 "wikilink")，歸入m.a.x. concepts，並發展[東南亞菜](https://zh.wikipedia.org/wiki/東南亞菜 "wikilink")。
+除了建立新品牌餐廳外，美心也將部份原有餐廳納入m.a.x. concepts旗下，包括美心在1980年代於[置地廣場地庫開設](https://zh.wikipedia.org/wiki/置地廣場 "wikilink")「弁慶日本料理」\[4\]及在[怡和大廈](../Page/怡和大廈.md "wikilink")地庫開設「桃山日本料理」，以及多個不同品牌西餐廳。後來，該批餐廳陸續被改頭換面以新品牌經營。
 
 2005年12月，m.a.x. concepts中菜隨「八月花」開將成立，同時將「粵翠軒」、「翠晶軒」、「翠玉軒」、「怡翠軒」、「粵江春」、「海逸軒」歸入m.a.x concepts中菜，發展新派中菜。
 
 2007年6月，發展新概念[simplylife系列餐廳](https://zh.wikipedia.org/wiki/simplylife_\(香港\) "wikilink")。
 
 2008年1月，m.a.x. concepts中菜改為「[美心中菜](https://zh.wikipedia.org/wiki/美心中菜 "wikilink")」屬下[jade concepts](https://zh.wikipedia.org/wiki/jade_concepts "wikilink")。
+
+## 旗下餐廳
+
+目前，m.a.x concepts旗下品牌如下\[5\]：
+
+  - Cafe Landmark
+  - Lawry's the Prime Rib
+  - Minh & Kok
+  - Kikusan
+  - Miso
+  - Thai Basil
+  - Market Sea
+  - Deli and Wine
+  - Maxim's Cafe
+  - EXP
+  - Maxim's and You
+  - Kokomi
+  - Simplylife
+  - 星美乐
+  - 美心．小品
 
 ## 品牌發展
 
@@ -70,10 +51,10 @@
           - 1999年改為Hello Kitty Cafe，再於2002年改為「香葉棧」。
   - [Pearl on the Peak](https://zh.wikipedia.org/wiki/Pearl_on_the_Peak "wikilink")
       - [山頂](https://zh.wikipedia.org/wiki/山頂 "wikilink")[凌霄閣](../Page/凌霄閣.md "wikilink")
-          - 2006年11月與[澳洲名廚](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[Geoff Lindsay合作在開設](https://zh.wikipedia.org/wiki/Geoff_Lindsay "wikilink")。2008年11月合作結束，更換品牌標誌字體及餐牌，但保留名字。
+          - 2006年11月與[澳洲名廚Geoff](https://zh.wikipedia.org/wiki/澳洲 "wikilink") Lindsay合作在開設。2008年11月合作結束，更換品牌標誌字體及餐牌，但保留名字。
   - MEZZ
       - [中環](../Page/中環.md "wikilink") [太子大廈](../Page/太子大廈.md "wikilink")
-          - 由「美心餐廳」改成，曾任[James Lockett為顧問廚師及](https://zh.wikipedia.org/wiki/James_Lockett "wikilink")[Geoff Lindsay為客席廚師](https://zh.wikipedia.org/wiki/Geoff_Lindsay "wikilink")，2010年3月結業。
+          - 由「美心餐廳」改成，曾任James Lockett為顧問廚師及Geoff Lindsay為客席廚師，2010年3月結業。
   - Cityhall Maxim's Cafe（大會堂美心餐廳）
       - [中環](../Page/中環.md "wikilink") [香港大會堂](../Page/香港大會堂.md "wikilink")
           - 2002年由Theatre Cafe改成，原名Maxim's Restaurant，2008年1月改名Cityhall Maxim's Cafe，2009年9月裝修後重開。
@@ -101,7 +82,7 @@
   - simplylife BREAD AND WINE
       - [中環](../Page/中環.md "wikilink") [國際金融中心](../Page/國際金融中心_\(香港\).md "wikilink")
           - 2009年1月開業，由[can．teen改成](https://zh.wikipedia.org/wiki/can．teen "wikilink")，於2013年5月改為open kitchen。
-  - simplylife CAFE BAKERY 星美樂
+  - simplylife CAFE BAKERY 星美乐
       - [深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink") [華潤中心萬象城](https://zh.wikipedia.org/wiki/華潤萬象城 "wikilink")
           - 2010年12月開業，2015年9月擴店。
       - [深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink") [COCO Park](../Page/COCO_Park.md "wikilink")
@@ -130,7 +111,7 @@
 
   - 賀菊 KIKU
       - [中環](../Page/中環.md "wikilink") [置地廣場](https://zh.wikipedia.org/wiki/置地廣場 "wikilink")
-          - 1981年由[美心及](https://zh.wikipedia.org/wiki/美心 "wikilink")[日本航空](../Page/日本航空.md "wikilink")合作開設「辨慶日本料理」，後由[美心全資擁有](https://zh.wikipedia.org/wiki/美心 "wikilink")，至2002年改名「賀菊」及重新裝修，由[Hernan Zanghellini設計](https://zh.wikipedia.org/wiki/Hernan_Zanghellini "wikilink")，2014年10月結業，改為揉合中式及日式的優閒餐廳kikusan。
+          - 1981年由[美心及](https://zh.wikipedia.org/wiki/美心 "wikilink")[日本航空](../Page/日本航空.md "wikilink")合作開設「弁慶日本料理」，後由[美心全資擁有](https://zh.wikipedia.org/wiki/美心 "wikilink")，至2002年改名「賀菊」及重新裝修\[6\]，由Hernan Zanghellini設計，2014年10月結業，改為揉合中式及日式的優閒餐廳kikusan。
   - miso
       - [中環](../Page/中環.md "wikilink") [怡和大廈](../Page/怡和大廈.md "wikilink")
           - 由「桃山日本料理」改成，並設有[鐵板燒](../Page/鐵板燒.md "wikilink")；2014年2月裝修後復業。
@@ -142,16 +123,16 @@
 
 ### 東南亞菜
 
-m.a.x. concepts 的[東南亞菜始於THAI](https://zh.wikipedia.org/wiki/東南亞菜 "wikilink") BASIL，由[James Lockett任顧問廚師](https://zh.wikipedia.org/wiki/James_Lockett "wikilink")，再開設大眾化的「香葉棧」系列。再於2005年委任[James Lockett設計餐牌](https://zh.wikipedia.org/wiki/James_Lockett "wikilink")，開設「rice paper」。2006年「香葉棧」系列改名simply thai「心。泰」，2009年棄用中文名字及幾何花型標誌。LIAN為同系最高級餐廳，並設有Wine Gala葡萄酒盛宴。
+m.a.x. concepts 的東南亞菜始於THAI BASIL，由James Lockett任顧問廚師，再開設大眾化的「香葉棧」系列。再於2005年委任James Lockett設計餐牌，開設「rice paper」。2006年「香葉棧」系列改名simply thai「心。泰」，2009年棄用中文名字及幾何花型標誌。LIAN為同系最高級餐廳，並設有Wine Gala葡萄酒盛宴。
 
   - THAI BASIL
       - [金鐘](../Page/金鐘.md "wikilink") [太古廣場](../Page/太古廣場.md "wikilink")
           - 2000年開業，被《Condé Nast Traveler》譽為「世界60大最佳新食府」之一。2008年搬往同一層另一舖位繼續營業，更改了標誌，成為[simplylife系列之一員](https://zh.wikipedia.org/wiki/simplylife_\(香港\) "wikilink")。
   - 香葉棧
-      - [旺角](../Page/旺角.md "wikilink") [新世紀廣場](https://zh.wikipedia.org/wiki/新世紀廣場 "wikilink")
-          - 2002年開業，[Hernan Zanghellini設計室內空間](https://zh.wikipedia.org/wiki/Hernan_Zanghellini "wikilink")，由Hello Kitty Cafe改成，2006年改名「simply thai」，2011年10月結業。
+      - [旺角](../Page/旺角.md "wikilink") [新世紀廣場](../Page/新世紀廣場.md "wikilink")
+          - 2002年開業，Hernan Zanghellini設計室內空間，由Hello Kitty Cafe改成，2006年改名「simply thai」，2011年10月結業。\[7\]
       - [九龍灣](../Page/九龍灣.md "wikilink") [德福廣場](../Page/德福廣場.md "wikilink")
-          - 2002年開業，[Hernan Zanghellini設計室內空間](https://zh.wikipedia.org/wiki/Hernan_Zanghellini "wikilink")，由Hello Kitty Cafe改成，2006年改名「simply thai」，2008年3月結業。
+          - 2002年開業，Hernan Zanghellini設計室內空間，由Hello Kitty Cafe改成，2006年改名「simply thai」，2008年3月結業。\[8\]
       - [青衣](https://zh.wikipedia.org/wiki/青衣 "wikilink") [青衣城](../Page/青衣城.md "wikilink")
           - 2005年開業，2008年4月結業。
   - 香葉天
@@ -169,10 +150,10 @@ m.a.x. concepts 的[東南亞菜始於THAI](https://zh.wikipedia.org/wiki/東南
           - 2006年12月開業，2015年8月結業。
   - simply thai
       - [銅鑼灣](../Page/銅鑼灣.md "wikilink") [時代廣場](https://zh.wikipedia.org/wiki/時代廣場 "wikilink")
-          - 2006年2月開業，[Hernan Zanghellini設計室內空間](https://zh.wikipedia.org/wiki/Hernan_Zanghellini "wikilink")，增加「心。泰」名稱，2009年重漆為白色主調，2011年4月結業。
+          - 2006年2月開業，Hernan Zanghellini設計室內空間，增加「心。泰」名稱，2009年重漆為白色主調，2011年4月結業。
       - [九龍灣](../Page/九龍灣.md "wikilink") [德福廣場](../Page/德福廣場.md "wikilink")
-          - 2006年1月首間由「香葉棧」改名分店，再由[Hernan Zanghellini設計室內空間](https://zh.wikipedia.org/wiki/Hernan_Zanghellini "wikilink")，2008年1月結業。
-      - [旺角](../Page/旺角.md "wikilink") [新世紀廣場](https://zh.wikipedia.org/wiki/新世紀廣場 "wikilink")
+          - 2006年1月首間由「香葉棧」改名分店，再由Hernan Zanghellini設計室內空間，2008年1月結業。
+      - [旺角](../Page/旺角.md "wikilink") [新世紀廣場](../Page/新世紀廣場.md "wikilink")
           - 2006年由「香葉棧」改名而成，2012年6月結業。
       - [旺角](../Page/旺角.md "wikilink") [朗豪坊](../Page/朗豪坊.md "wikilink")
           - 2006年由「香葉天」改名而成，2009年1月結業。
@@ -184,7 +165,7 @@ m.a.x. concepts 的[東南亞菜始於THAI](https://zh.wikipedia.org/wiki/東南
   - MINH AND KOK 明谷
       - [銅鑼灣](../Page/銅鑼灣.md "wikilink") [名店坊](https://zh.wikipedia.org/wiki/名店坊 "wikilink")
           - 2014年7月開業。
-      - [太古](../Page/太古.md "wikilink") [太古城中心2期](https://zh.wikipedia.org/wiki/太古城中心2期 "wikilink")
+      - [太古](../Page/太古.md "wikilink") [太古城中心](../Page/太古城中心.md "wikilink")2期
           - 2016年12月開業。
       - [上環](../Page/上環.md "wikilink") [信德中心](../Page/信德中心.md "wikilink")
           - 2017年11月開業。
@@ -220,7 +201,7 @@ m.a.x. concepts 的[東南亞菜始於THAI](https://zh.wikipedia.org/wiki/東南
       - [中環](../Page/中環.md "wikilink") [置地廣場](https://zh.wikipedia.org/wiki/置地廣場 "wikilink")
           - 2015年1月開業，前身為「賀菊」。
       - [銅鑼灣](../Page/銅鑼灣.md "wikilink") [希慎廣場](../Page/希慎廣場.md "wikilink")
-          - 2016年8月開業」。
+          - 2016年8月開業。
       - [深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink") [萬象城](https://zh.wikipedia.org/wiki/萬象城 "wikilink")
           - 2017年9月開業。
 
@@ -304,7 +285,7 @@ m.a.x. concepts 的[東南亞菜始於THAI](https://zh.wikipedia.org/wiki/東南
   - Hello Kitty Cafe
       - [銅鑼灣](../Page/銅鑼灣.md "wikilink") [置安大廈](https://zh.wikipedia.org/wiki/置安大廈 "wikilink")
           - 1999年開業，2002年結業。
-      - [旺角](../Page/旺角.md "wikilink") [新世紀廣場](https://zh.wikipedia.org/wiki/新世紀廣場 "wikilink")
+      - [旺角](../Page/旺角.md "wikilink") [新世紀廣場](../Page/新世紀廣場.md "wikilink")
           - 1999年開業，2002年結業，改為「香葉棧」。
       - [九龍灣](../Page/九龍灣.md "wikilink") [德福廣場](../Page/德福廣場.md "wikilink")
           - 1999年開業，2002年結業，改為「香葉棧」。
@@ -326,8 +307,23 @@ m.a.x. concepts 的[東南亞菜始於THAI](https://zh.wikipedia.org/wiki/東南
 ## 參見
 
   - [美心食品有限公司](https://zh.wikipedia.org/wiki/美心食品有限公司 "wikilink")
-  - [m.a.x. concepts](http://www.maxconcepts.com.hk/)
+
+## 参考文献
+
+## 外部連結
+
+  - [美心集團官方網站](http://www.maxims.com.hk/)
+  - [m.a.x. concepts官方網站](http://www.maxconcepts.com.hk/)
   - [m.a.x. concepts Facebook](http://www.facebook.com/pages/max-concepts/78551679821)
   - [simplylife](http://www.simplylife.com.hk)
 
 [Category:美心食品](https://zh.wikipedia.org/wiki/Category:美心食品 "wikilink") [Category:香港連鎖餐廳](https://zh.wikipedia.org/wiki/Category:香港連鎖餐廳 "wikilink")
+
+1.  [伍偉國談飲食業活化與創新](http://www.hkcd.com/content/2017-10/10/content_1067261.html)香港商報，2017年10月10日
+2.  [伍偉國：美心中的不變心](https://annna1314.wordpress.com/2013/07/15/不甘守業致力創新-伍偉國：美心中的不變心/)鄧傳鏘，信報，2013年7月15日
+3.  [m.a.x. concepts 公司簡介](http://www.maxconcepts.com.hk/tc/aboutus.asp)
+4.  弁慶日本餐廳 今日開始營業，大公報，1980年4月3日
+5.  [m.a.x. concepts](http://www.maxconcepts.com.hk/)
+6.  [老牌高檔日本料理七折益食客](https://hk.lifestyle.appledaily.com/lifestyle/food/daily/article/20020722/2726736)蘋果日報，2002年7月22日
+7.  [Zanghellini & Holt Associates\>Clients](http://zha.com.hk/clients/)
+8.  [Zanghellini & Holt Associates\>Clients](http://zha.com.hk/clients/)

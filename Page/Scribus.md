@@ -39,9 +39,9 @@ Scribus 支持大多數主要的圖像格式。專業的字型／圖像設置功
       - [Part 2](https://web.archive.org/web/20070928081058/http://w3.linux-magazine.com/issue/50/Linux_for_Layout_Part_2_Scribus.pdf)：Desktop publishing in Linux — Professional typography and layout with Scribus
       - [Part 3](https://web.archive.org/web/20080216084756/http://w3.linux-magazine.com/issue/51/Linux_for_Layout_Part_3_Preparing_for_Press.pdf)：Desktop publishing in Linux — Putting the finishing touches on our Scribus Linux newspaper
   - [Scribus: Open Source Desktop Publishing](http://www.linuxdevcenter.com/pub/a/linux/2004/09/02/scribus.html?page=1)
-  - [Small-business forms using Scribus and PDF](http://www.linux.com/feature/113983)
+  - [Small-business forms using Scribus and PDF](https://web.archive.org/web/20090511094938/http://www.linux.com/feature/113983)
   - [A short Scribus PDF manual](https://web.archive.org/web/20081101210526/http://www.scotsworld.net/Downloads.html) by Scot Blades, with source materials available
-  - [Desktop publishing with Writer and Scribus](http://www.linux.com/feature/52351)
+  - [Desktop publishing with Writer and Scribus](https://web.archive.org/web/20090421081837/http://www.linux.com/feature/52351)
   - [使用 Scribus 进行开源桌面出版](https://www.ibm.com/developerworks/cn/opensource/os-scribus/index.html)
 
 [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink") [Category:自由排版软件](https://zh.wikipedia.org/wiki/Category:自由排版软件 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:自由PDF软件](https://zh.wikipedia.org/wiki/Category:自由PDF软件 "wikilink")

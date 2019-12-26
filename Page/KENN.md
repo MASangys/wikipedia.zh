@@ -199,6 +199,7 @@
   - [籃球少年王](../Page/籃球少年王.md "wikilink")（**茶木正廣**\[2\]）
   - [在地下城尋求邂逅是否搞錯了什麼 第二季](https://zh.wikipedia.org/wiki/在地下城尋求邂逅是否搞錯了什麼 "wikilink")（雅辛托斯·克利俄）
   - [TRY KNIGHTS](../Page/觸地騎士.md "wikilink")（**狩矢光**）
+  - [我的英雄學院 第4期](../Page/我的英雄學院.md "wikilink")（竊野盜）
 
 ### OVA
 
@@ -399,10 +400,7 @@
 [Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:日本男演員](https://zh.wikipedia.org/wiki/Category:日本男演員 "wikilink") [Category:日本男性配音員](https://zh.wikipedia.org/wiki/Category:日本男性配音員 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.

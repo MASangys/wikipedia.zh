@@ -37,7 +37,7 @@
 
 ## 外部連結
 
-  - [HTC P3400 概觀](http://www.htc.com/www/product.aspx?id=32122)
+  - [HTC P3400 概觀](https://web.archive.org/web/20080904011808/http://www.htc.com/www/product.aspx?id=32122)
   - [HTC P3400 技術規格](http://www.htc.com/www/product.aspx?id=32126)
   - [HTC P3400i 概觀](http://www.htc.com/sea/product.aspx?id=47022)
   - [HTC P3400i 技術規格](http://www.htc.com/sea/product.aspx?id=47026)

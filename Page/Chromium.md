@@ -6,9 +6,10 @@ Chromium 的更新速度很快，每隔數小時即有新的開發版本發佈�
 
 Google Chrome相對於Chromium：\[1\]
 
-  - 圖示：Chromium的是[藍色](../Page/藍色.md "wikilink")調，而Chrome的則是红、黄、绿
-  - 增加Google Update自動更新系統
-  - 增加自動傳送使用統計資料及當機報告給Google的選項
+  - 圖示：Chromium的是[藍色](../Page/藍色.md "wikilink")調，而Chrome的則是[红](https://zh.wikipedia.org/wiki/红 "wikilink")、[黄](https://zh.wikipedia.org/wiki/黄 "wikilink")、[绿](https://zh.wikipedia.org/wiki/绿 "wikilink")
+  - Chromium 是開源軟體，以[BSD授權條款釋出](https://zh.wikipedia.org/wiki/BSD授權條款 "wikilink")；Google Chrome則是閉源軟體，不可修改再發布。
+  - Google Chrome 增加Google Update自動更新系統
+  - Google Chrome 增加自動傳送使用統計資料及當機報告給Google的選項
   - 當Chrome用作市場推廣及分銷合作夥伴時會記錄並發送使用者紀錄，如何時何處下載的資訊。2010年6月，Google解釋任一版本的Chromium或是從Google官方網站上下載的Chrome都不帶有這一記錄使用者資訊的功能。同時也公開了這些記錄的原始碼，以便開發者瞭解此功能是如何運作的\[2\]。
   - Chromium不包含Google API Key，導致部分功能僅Google Chrome能使用\[3\]\[4\]
 
@@ -39,10 +40,12 @@ Google Chrome相對於Chromium：\[1\]
   - [UC浏览器](../Page/UC浏览器.md "wikilink")：基于Chromium开发。
   - [Amigo浏览器](https://zh.wikipedia.org/wiki/Amigo浏览器 "wikilink")：基于Chromium开发的俄语浏览器。
   - [旗鱼浏览器](https://zh.wikipedia.org/wiki/旗鱼浏览器 "wikilink")：基于Chromium开发。
-  - [红芯](../Page/红芯.md "wikilink")浏览器：基于Chromium开发。
+  - [红芯](../Page/红芯.md "wikilink")浏览器：曾宣稱具有「自主研發內核」，但實際基于Chromium开发。
   - [Vivaldi](../Page/Vivaldi_\(瀏覽器\).md "wikilink")：基於Chromium開發。
-  - Samsung Internet Browser：基于Chromium开发,並加入廣告攔截功能。
+  - [Brave](../Page/Brave浏览器.md "wikilink")：基於Chromium開發，加入廣告攔截和私隱保護等功能。
+  - Samsung Internet Browser：基于Chromium开发，並加入廣告攔截功能。
   - [Microsoft Edge](../Page/Microsoft_Edge.md "wikilink")：iOS版本和Android版本默认基於Chromium開發。近期微软表示PC版本也将终止对Trident内核的支持而转向Chromium内核。
+  - Kinza：来自日本，基于Chromium开发。\[14\]
 
 ## 參考資料
 
@@ -83,3 +86,4 @@ Google Chrome相對於Chromium：\[1\]
 11. [世界之窗浏览器(极速版) 软件介绍](http://chrome.theworld.cn/product.html)
 12. [RockMelt Blog, World, Meet RockMelt](http://blog.rockmelt.com/post/1509448074/world-meet-rockmelt)
 13. [Dragon Internet Browser - Comodo Dragon Web Browser](http://www.comodo.com/home/browsers-toolbars/browser.php)
+14.  Kinza evolves with users' voices.|url=[https://www.kinza.jp/en/|accessdate=2019-10-18|work=Kinza](https://www.kinza.jp/en/%7Caccessdate=2019-10-18%7Cwork=Kinza) {{\!}} Kinza evolves with users' voices.|language=en}}

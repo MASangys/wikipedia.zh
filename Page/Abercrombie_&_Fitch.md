@@ -142,72 +142,42 @@ Abercrombie & Fitch的歷史橫跨19、20和21三個世紀。[大衛·亞伯克�
 [Category:1892年紐約州建立](https://zh.wikipedia.org/wiki/Category:1892年紐約州建立 "wikilink") [Category:俄亥俄州公司](https://zh.wikipedia.org/wiki/Category:俄亥俄州公司 "wikilink") [Category:美國服裝品牌](https://zh.wikipedia.org/wiki/Category:美國服裝品牌 "wikilink") [Category:內衣品牌](https://zh.wikipedia.org/wiki/Category:內衣品牌 "wikilink") [Category:美國服裝零售商](https://zh.wikipedia.org/wiki/Category:美國服裝零售商 "wikilink") [Category:1892年成立的公司](https://zh.wikipedia.org/wiki/Category:1892年成立的公司 "wikilink") [Category:1996年IPO](https://zh.wikipedia.org/wiki/Category:1996年IPO "wikilink")
 
 1.
-
 2.  [View Competitors for Abercrombie & Fitch Company (ANF)](http://www.nasdaq.com/screening/viewcompetitors.asp?symbol=ANF&selected=ANF)
-
 3.
 4.
-
 5.
-
 6.
 7.  Purdue University. [Earhart suede jacket, 1932](http://e-archives.lib.purdue.edu/cdm4/item_viewer.php?CISOROOT=/earhart&CISOPTR=27&CISOBOX=1&REC=1)
-
 8.
 9.
 10.
 11.
-
 12.
-
 13.
 14.
-
 15.
 16. Meyers, Jeffrey (1985). "Suicide and Aftermath". Hemingway: A Biography. London: Macmillan. pp. 550-560. ISBN 0333421264.
-
 17. Ariana Bianchi，Abercrombie & Fitch - A Model of Employment Discrimination?
-
 18. [The History of Abercrombie and Fitch](http://www.saintmarys.edu/~berdayes/vincehome/courses/comm303/student%20projects/finchness/history.html)
-
 19.
-
 20. <http://www.abercrombie.com/webapp/wcs/stores/servlet/StoreLocator?storeId=19658&catalogId=11556&langId=-1>
-
 21. <http://www.audiocasefiles.com/acf_cases/9996-abercrombie-fitch-stores-inc-v-american-eagle-outfitters>
-
 22. [$40 Million Paid to Class Members in December 2005 in Abercrombie & Fitch Discrimination Lawsuit Settlement](http://www.afjustice.com/index.htm)
-
 23.
-
 24. [BBC News: Disabled woman sues clothes store](http://news.bbc.co.uk/1/hi/england/london/8116231.stm)
-
 25. [Sky News : Abercrombie And Fitch Lose Wrongful Dismissal Case Against Law Student With Prosthetic Arm](http://news.sky.com/skynews/Home/UK-News/Abercrombie-And-Fitch-Lose-Wrongful-Dismissal-Case-Against-Law-Student-With-False-Arm/Article/200908215360619?lpos=UK_News_Carousel_Region_3&lid=ARTICLE_15360619_Abercrombie_And_Fitch_Lose_Wrongful_Dismissal_Case_Against_Law_Student_With_False_Arm_)
-
 26. <http://news.bbc.co.uk/1/hi/england/london/8200140.stm>
-
 27.
-
 28. [Poseurs Paradise\! What's it really like to work at the new Abercrombie & Fitch store?](http://www.dailymail.co.uk/pages/live/femail/article.html?in_article_id=447183&in_page_id=1879)
-
 29. Shiffer, James Eli 和 Jane Friedman，[Girl: I Was Treated Like a 'Misfit' at Abercrombie & Fitch; Magrath Agrees to Action](http://www.startribune.com/local/south/57918152.html) ，*Minneapolis Star Tribune*，2009年9月9日
-
 30. <http://consumerist.com/5356685/16+year+old-unwittingly-stars-in-homemade-abercrombie--fitch-dressing-room-video>
-
 31.
-
 32.
 33.
-
 34.
 35. [The 2010 Sweatshop Hall of Shame](http://www.laborrights.org/sites/default/files/publications-and-resources/sweatshop_hall_shame_2010.pdf)
-
 36.
-
 37.
-
 38. Gross, Daniel. ["Abercrombie & Fitch's Blue Christmas"](http://www.slate.com/id/2092175). *Slate*, December 8, 2003.
-
 39. Dao, James. "T-Shirt Slight Has West Virginia in Arms." *The New York Times*, 22 March 2004.
-
 40. "Abercrombie & Fitch to pull tees after "girl-cott." Reuters, 4 November 2005.

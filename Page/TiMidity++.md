@@ -27,5 +27,5 @@ TiMidity++也支援被用來創作[微分音音樂](../Page/微分音音樂.md "
 [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:軟體音源器](https://zh.wikipedia.org/wiki/Category:軟體音源器 "wikilink")
 
 1.  [Making Microtonal Music with Software](http://www.parnasse.com/microtonal/)
-2.  [TiMidity++ mailing list](http://permalink.gmane.org/gmane.comp.audio.timidity%2B%2B.general/389)
+2.
 3.  <http://timidity.cvs.sourceforge.net/*checkout*/timidity/timidity/ChangeLog>

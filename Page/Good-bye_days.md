@@ -39,12 +39,6 @@
 
 ## 資料來源
 
-<div class="references-small">
-
-<references />
-
-</div>
-
 [分類:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/分類:NHK紅白歌合戰演唱歌曲 "wikilink")
 
 [Category:YUI歌曲](https://zh.wikipedia.org/wiki/Category:YUI歌曲 "wikilink") [Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink") [Category:RIAJ手機片段下載百萬認證歌曲](https://zh.wikipedia.org/wiki/Category:RIAJ手機片段下載百萬認證歌曲 "wikilink")

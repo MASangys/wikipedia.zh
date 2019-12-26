@@ -101,54 +101,30 @@
 [Category:Netbook](https://zh.wikipedia.org/wiki/Category:Netbook "wikilink") [Category:宏碁產品](https://zh.wikipedia.org/wiki/Category:宏碁產品 "wikilink") [Category:2008年面世](https://zh.wikipedia.org/wiki/Category:2008年面世 "wikilink")
 
 1.  [Acer US press release](http://us.acer.com/public/page92.do?sp=page29&dau42.oid=13762&UserCtxParam=0&GroupCtxParam=0&dctx1=25&CountryISOCtxParam=US&LanguageISOCtxParam=en&ctx3=-1&ctx4=United+States&crc=3201121738)
-
 2.  <http://www.acer.com/aspireone/>  - About - Platform
-
 3.  <http://www.digitimes.com/systems/a20080710PD222.html>
-
 4.  <http://www.digitimes.com/news/a20081015PD214.html>
-
 5.  [CNET reviewers: "the best all-around Netbook we've seen for less than $400"](http://reviews.cnet.com/laptops/acer-aspire-one-linpus/4505-3121_7-33190895.html?tag=mncol;txt)
-
 6.
-
 7.  <https://help.ubuntu.com/community/AspireOne110L>
-
 8.  <http://eeepc.itrunsonlinux.com/the-news/1-latest-news/242-linux4one-ubuntu-for-the-acer-aspire-one->  Linux4one Ubuntu for the Acer Aspire One
-
 9.  <http://www.seagate.com/staticfiles/support/disc/manuals/notebook/momentus/5400.4/SATA/100468842a.pdf>
-
 10.
-
 11. <http://www.hitachigst.com/tech/techlib.nsf/techdocs/C51A283F52498251862573FA005A3C98/$file/Travelstar_5K320_DS.pdf>
-
 12.
-
 13.
-
 14.
-
 15. <http://ark.intel.com/product.aspx?id=27680>
-
 16.
-
 17.
 18.
 19.
 20.
-
 21. <http://www.e-gear.com/story/story.bsp?sid=178323&var=story>
-
 22.
-
 23. <http://www.jkontherun.com/2008/10/control-that-ac.html>
-
 24. <https://help.ubuntu.com/community/AspireOne#Step%203:%20Tweak%20/%20Fix>
-
 25. <http://www.engadget.com/2008/08/14/acer-aspire-one-not-immune-to-tnkgrls-modding-ways-stuffed-wit/>
-
 26. <http://jkkmobile.blogspot.com/2008/08/how-to-add-internal-bluetooth-to-acer.html>
-
 27. <http://www.reghardware.co.uk/2008/07/23/aspire_one_ssd_replaced/>
-
 28. <http://www.jkontherun.com/2008/08/five-things-i-d.html>

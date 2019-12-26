@@ -7,7 +7,7 @@
   - Vol.1的封面是[國府田麻理子](../Page/國府田麻理子.md "wikilink")和[井上喜久子](../Page/井上喜久子.md "wikilink")。
   - 有男性聲優的封面在Vol.21（1999年1月發售）初次出現，然而之後的封面還是女性聲優居多。第一次全男性的封面2001年10月號的[Weiß kreuz](https://zh.wikipedia.org/wiki/Weiß_kreuz "wikilink")。
   - 2006年5月號開始把封面上的名字由「」改為「」。
-  - 2007年3月號，刊登[井上奈奈](../Page/井上奈奈.md "wikilink")穿著[布魯馬的照片](https://zh.wikipedia.org/wiki/布魯馬 "wikilink")，在聲優雜誌較為罕見。2007年4月號更刊登[酒井香奈子](../Page/酒井香奈子.md "wikilink")的泳裝照片。另一方面也有「」系列、「」、「」等題材比較正經的報導。
+  - 2007年3月號，刊登[井上奈奈](../Page/井上奈奈.md "wikilink")穿著[布魯馬的照片](https://zh.wikipedia.org/wiki/布魯馬 "wikilink")，在聲優雜誌較為罕見。2007年4月號更刊登[酒井香奈子](../Page/酒井香奈子.md "wikilink")的泳裝照片。另一方面也有「用锦木装饰故乡」系列、「从辉煌的营业额中学习！托莎拉的白皮书」、「神谷浩史、我刚回来！」等題材比較正經的報導。
 
 ## 主要連載中的企劃
 
@@ -15,7 +15,7 @@
 
 2006年五月開始，以[眼鏡](../Page/眼鏡.md "wikilink")為主題的連載。每一回都會換一位聲優（基本上是男女替換）。
 
-  - FILE.1　[田中理恵](../Page/田中理惠_\(聲優\).md "wikilink")　「‐」‐
+  - FILE.1　[田中理惠](../Page/田中理惠_\(聲優\).md "wikilink")　「‐」‐
   - FILE.2　[谷山紀章](../Page/谷山紀章.md "wikilink")　「」上班族的假日
   - FILE.3　[新谷良子](../Page/新谷良子.md "wikilink")　「‐」‐
   - FILE.4　[吉野裕行](../Page/吉野裕行.md "wikilink")　「‐」
@@ -24,7 +24,7 @@
   - FILE.7　[淺野真澄](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")　「成為大小姐的日子……」
   - FILE.8　[小西克幸](../Page/小西克幸.md "wikilink")　「‐」‐
   - FILE.9　[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")　「‐」軍人
-  - FILE.10　[諏訪部順一](../Page/諏訪部順一.md "wikilink")　「noblesse oblige…紳士のたしなみ」騎馬的英國紳士
+  - FILE.10　[諏訪部順一](../Page/諏訪部順一.md "wikilink")　「noblesse oblige…紳士的田佐美」騎馬的英國紳士
   - FILE.11　[平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")　「The littlewitch wears glasses」
   - FILE.12　[津田健次郎](../Page/津田健次郎.md "wikilink")　「‐」壞掉了的上班族
   - FILE.13　[水樹奈奈](../Page/水樹奈奈.md "wikilink")　「Destructive Impulse」護士
@@ -51,7 +51,7 @@
   - FILE.34 [平川大輔](../Page/平川大輔.md "wikilink")
   - FILE.35 [戶松遙](../Page/戶松遙.md "wikilink")
   - FILE.36 [鳥海浩輔](../Page/鳥海浩輔.md "wikilink")
-  - FILE.37 [たかはし智秋](https://zh.wikipedia.org/wiki/たかはし智秋 "wikilink")
+  - FILE.37 [高桥智秋](https://zh.wikipedia.org/wiki/高桥智秋 "wikilink")
 
 ## 關聯項目
 

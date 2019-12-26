@@ -6,7 +6,7 @@
 
 ## 故事簡介
 
-承[上集](../Page/美少女戰士SuperS.md "wikilink")，[嘉拉西亞喚醒以及解除了美少女戰士們對](https://zh.wikipedia.org/wiki/美少女戰士角色列表#嘉拉西亞 "wikilink")[納莉尼亞女王於童年時代的封印](https://zh.wikipedia.org/wiki/美少女戰士角色列表#納莉尼亞女王 "wikilink")，並煽動她的仇恨情绪，讓她向水手服戰士們進行報復。納莉尼亞女王以作為目標，對他施加詛咒，最終把他殺害並抹去豆釘兔的存在。水手服戰士們進入納莉尼亞女王的夢魘維度裡阻止她。最終阿兔憐憫納莉尼亞女王的困境，並透過激活自己永恆Sailor Moon的最終形態，以擺脫其消極性。
+承[第四部劇情](../Page/美少女戰士SuperS.md "wikilink")，[嘉拉西亞喚醒以及解除了美少女戰士們對](https://zh.wikipedia.org/wiki/美少女戰士角色列表#嘉拉西亞 "wikilink")[納莉尼亞女王在最終決戰時的封印](https://zh.wikipedia.org/wiki/美少女戰士角色列表#納莉尼亞女王 "wikilink")，並煽動她的仇恨情绪，讓她向水手服戰士們進行報復。納莉尼亞女王以阿兔作為目標，對她施加詛咒，企圖把她殺害並抹去豆釘兔的存在。水手服戰士們進入納莉尼亞女王的夢魘維度裡阻止她的計劃。最終阿兔憐憫納莉尼亞女王的困境，並透過激活自己永恆Sailor Moon的最終形態，以擺脫其消極性。然而，[嘉拉西亞引發](https://zh.wikipedia.org/wiki/美少女戰士角色列表#嘉拉西亞 "wikilink")[納莉尼亞女王事件的真正目的是為了奪取美少女戰士們的星球種子](https://zh.wikipedia.org/wiki/美少女戰士角色列表#納莉尼亞女王 "wikilink")，而且她不要有部份的星球種子是未成熟的，必須要製造能使星球種子成長的環境。
 
 在這些事件後不久，[地場衛](../Page/地場衛.md "wikilink")遠赴美國升學，而[月野兔](../Page/月野兔.md "wikilink")等女孩們升讀高中，[豆釘兔](../Page/豆釘兔.md "wikilink")也跟小貓[戴安娜一起返回未來](https://zh.wikipedia.org/wiki/美少女戰士角色列表#戴安娜 "wikilink")。此時，由嘉拉西亞率領的一群稱為「銀河之影」的敵人 — 不斷的奪取人類的星宿種子（也即是人類的生命力量）。阿兔得到偽裝成為偶像三人組合的[星光戰士協助](https://zh.wikipedia.org/wiki/美少女戰士角色列表#星光戰士 "wikilink")，他們三人正尋找他們星球的統治者—[火球公主](https://zh.wikipedia.org/wiki/美少女戰士角色列表#火球公主 "wikilink")。還有一個除了「小小」以外無法說出任何東西的小女孩[小小](https://zh.wikipedia.org/wiki/美少女戰士角色列表#小小 "wikilink")，她出現並開始跟著阿兔生活。
 

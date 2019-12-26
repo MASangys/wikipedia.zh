@@ -8,14 +8,16 @@ DTA是在[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilin
 
 ## 特性
 
-  - 體積和資源耗用輕巧，僅超過600[KB](https://zh.wikipedia.org/wiki/KB "wikilink")
+  - 體積和資源耗用輕巧
   - 可自行調整分割區塊數量
   - 沒有[P2P加速的設計](https://zh.wikipedia.org/wiki/P2P "wikilink")
-  - 僅支援[Firefox](../Page/Firefox.md "wikilink")不支援[Internet Explorer](../Page/Internet_Explorer.md "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")、[Chrome](https://zh.wikipedia.org/wiki/Chrome "wikilink")
+  - 支援[Firefox](../Page/Firefox.md "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")、[Chrome](https://zh.wikipedia.org/wiki/Chrome "wikilink")
 
 ## 外部链接
 
   - [DownThemAll\!的官方网页](http://www.downthemall.org/)
   - [DownThemAll\!在Firefox Add-ons网站中的下载页面](https://addons.mozilla.org/firefox/addon/downthemall/)
+  - [DownThemAll\!在Google Chrome商店中的下载页面](https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge)
+  - [DownThemAll\!在Opera addons中的下载页面](https://addons.opera.com/en/extensions/details/downthemall/)
 
 [Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink")

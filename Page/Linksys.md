@@ -4,7 +4,7 @@
 
 Linksys最初於1988年創立，2003年3月被思科收購。儘管Linksys最知名的是其[寬頻調製解調器](https://zh.wikipedia.org/wiki/調製解調器 "wikilink")，[無線接入點](../Page/無線接入點.md "wikilink")與[無線路由器](https://zh.wikipedia.org/wiki/路由器#无线网络路由器 "wikilink")，但亦有生產[網絡交換機與](https://zh.wikipedia.org/wiki/網絡交換機 "wikilink")[VoIP](../Page/VoIP.md "wikilink")裝置以及多種其他產品。在2013年，思科把 Linksys 賣給 [Belkin](https://zh.wikipedia.org/wiki/Belkin "wikilink")，並於同年完成併購。
 
-[鸿海科技集团旗下的](https://zh.wikipedia.org/wiki/鸿海科技集团 "wikilink")[鴻騰精密科技于](https://zh.wikipedia.org/wiki/鴻騰精密科技 "wikilink")2018年03月27日宣布，將以8.66億美元的現金買下美國消費者電子產品製造商Belkin，取得Linksys、Wemo與Phyn等品牌。尚待美国政府批准\[1\]。
+[鸿海科技集团旗下的](https://zh.wikipedia.org/wiki/鸿海科技集团 "wikilink")[鴻騰精密科技于](https://zh.wikipedia.org/wiki/鴻騰精密科技 "wikilink")2018年3月27日宣布，將以8.66億美元的現金買下美國消費者電子產品製造商Belkin，取得Linksys、Wemo與Phyn等品牌。尚待美国政府批准\[1\]。
 
 ## 路由器列表
 

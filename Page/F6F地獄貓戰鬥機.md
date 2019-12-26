@@ -167,80 +167,45 @@ F6F-3在英軍的稱呼為**Hellcat F.I**，F6F-5為**Hellcat F.II**，F6F-5N則
 [Category:美國戰鬥機](https://zh.wikipedia.org/wiki/Category:美國戰鬥機 "wikilink") [Category:艦載機](https://zh.wikipedia.org/wiki/Category:艦載機 "wikilink") [Category:格魯曼飛機](https://zh.wikipedia.org/wiki/Category:格魯曼飛機 "wikilink")
 
 1.  Sullivan 1979, p. 4.
-
 2.  Thruelsen 1976, p. 135.
-
 3.
-
 4.  Kinzey 1996, p. 4.
-
 5.  Winchester 2004, p. 110.
-
 6.  Krist 2006, pp. 91–92.
-
 7.  Kinzey 1996, p. 16.
-
 8.  Thruelsen 1976, p. 166.
-
 9.  Ewing 2004, p. 182.
-
 10. Ewing and Lundstrom 2004, pp. 155, 156.
-
 11. Francillon 1989, p. 200.
-
 12. Kinzey 1996, p. 6.
-
 13.
 14. Kinzey 1987, p. 6.
-
 15. Sullivan 1979, p. 4.
-
 16.
 17.
 18. [5 inch FFAR/HVAR](http://www.designation-systems.net/dusrm/app4/5in-rockets.html)Retrieved: [3 April](https://zh.wikipedia.org/wiki/3_April "wikilink") 2008
-
 19. Taylor 1969, p. 503.
-
 20. Kinzey 1987, p. 14.
-
 21. Green 1975, p. 91.
-
 22. Green 1975, pp. 93–94.
-
 23. Taylor 1969, p. 503.
-
 24. [F6F-5 test report (pdf file)](http://www.wwiiaircraftperformance.org/f6f/f6f-5-58310.pdf) Retrieved: [3 April](https://zh.wikipedia.org/wiki/3_April "wikilink") 2008
-
 25. Kinzey 1987, p. 27.
-
 26. Taylor 1969, p. 503.
-
 27. Sullivan 1979, p. 46.
-
 28. Dean 1997, p. 559.
-
 29.
 30.
 31. 宮崎勇『還って来た紫電改 <small>紫電改戦闘機隊物語</small>』（光人社、1993）135-136頁
-
 32. Tillman 1979, p. 9.
-
 33. Barber 1946, Table 1
-
 34. Barber 1946, Table 2
-
 35. Barber 1946, Table 28
-
 36. [Airpower Classics](http://www.afa.org/magazine/April2006/0406classics.pdf)  *Airforce Magazine*, April 2006, p. 98.
-
 37.
 38. OPNAV-P-23V No. A129, 17 June 1946, p. 15.
-
 39. Green 1975, p. 93.
-
 40. Tillman 1996, p. 78.
-
 41. Thetford 1994, p. 217.
-
 42.
 43. Donald, David, ed. *American Warplanes of World War II*. London: Aerospace Publishing, 1995. ISBN 1-874023-72-7.

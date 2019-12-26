@@ -1,8 +1,10 @@
-**黑Girl** （英語：**Hey Girl**，前稱：**黑澀會美眉**），[台灣女子演唱組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")，成立於2006年5月，初期成員都是由《[我愛黑澀會](../Page/我愛黑澀會.md "wikilink")》節目參加者中所選出。起初由九位成員組成，所以又叫「九妞妞」，曾是台灣演藝史上最多人的女子團體。出道時成員都只有15至22歲。第一代的成員包括：**「古典美眉」**[Apple](../Page/黃暐婷.md "wikilink")、**「性感美眉」**[大牙](../Page/周宜霈.md "wikilink")、**「日系美眉」**[MeiMei](../Page/郭婕祈.md "wikilink")、**「動感美眉」**[彤彤](../Page/蔡玓彤.md "wikilink")、**「嬌滴美眉」**[丫頭](../Page/詹子晴.md "wikilink")、**「氣質美眉」**[小薰](../Page/黃瀞怡.md "wikilink")、**「搞怪美眉」**[鬼鬼](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")、**「俏麗美眉」**[小蠻和](../Page/王承嫣.md "wikilink")**「搞笑美眉」**[小婕](../Page/張甯兒.md "wikilink")。此時期亦為**黑Girl**的黃金時期，跨足唱片、戲劇、節目主持及廣告代言各領域。
+**黑Girl** （英語：**Hey Girl**，前稱：**黑澀會美眉**），[台灣女子演唱組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")，成立於2006年5月，初期由九位成員組成，所以又叫「九妞妞」，九位成員都是由《[我愛黑澀會](../Page/我愛黑澀會.md "wikilink")》節目參加者中所選出。曾是台灣演藝史上最多人的女子團體，出道時成員都只有15至22歲。第一代的成員包括：[黃暐婷](../Page/黃暐婷.md "wikilink")（Apple）、[周宜霈](../Page/周宜霈.md "wikilink")（大牙）、[郭婕祈](../Page/郭婕祈.md "wikilink")（MeiMei）、[蔡玓彤](../Page/蔡玓彤.md "wikilink")（彤彤）、[詹子晴](../Page/詹子晴.md "wikilink")（丫頭）、[黃瀞怡](../Page/黃瀞怡.md "wikilink")（小薰）、[吳映潔](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")（鬼鬼）、[王承嫣](../Page/王承嫣.md "wikilink")（小蠻）和[張甯兒](../Page/張甯兒.md "wikilink")（筱婕）。此時期亦為**黑Girl**的黃金時期，跨足唱片、戲劇、節目主持及廣告代言各領域。
 
-經歷多次成員變動後，於2010年重組第二代的**黑Girl**，包括初期成員丫頭、小薰，以及新成員括**「強勢美眉」**[勇兔和](../Page/林筳諭.md "wikilink")**「熱舞美眉」**[糖果](../Page/陳斯亞.md "wikilink")。勇兔離開後，再加入**「活力美眉」**[子庭](../Page/張子庭.md "wikilink")（唯一不是《[我愛黑澀會](../Page/我愛黑澀會.md "wikilink")》節目參加者出身）。後來[糖果也退出了](../Page/陳斯亞.md "wikilink")，在2013年再以[Twinko](../Page/Twinko.md "wikilink")成員出道。
+2008年[蔡玓彤](../Page/蔡玓彤.md "wikilink")退出團體，正式由**黑澀會美眉**改名為**黑Girl**，重新出發。2009年，[王承嫣](../Page/王承嫣.md "wikilink")及[吳映潔相繼退出團體](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")。
 
-然而，重組後的**黑Girl**自2012年完結EP宣傳後已鮮少合體演出，子庭大概在2013年11月也退出團體，3人亦分散在不同經理人公司，組合幾乎名存實亡，如今各成員在演藝圈不同領域各自發展。
+2010年，[黃暐婷](../Page/黃暐婷.md "wikilink")、[周宜霈](../Page/周宜霈.md "wikilink")、[郭婕祈](../Page/郭婕祈.md "wikilink")及[張甯兒](../Page/張甯兒.md "wikilink")同時退出團體，留任的第一代成員只剩[詹子晴](../Page/詹子晴.md "wikilink")及[黃瀞怡](../Page/黃瀞怡.md "wikilink")。同年，加入同是《[我愛黑澀會](../Page/我愛黑澀會.md "wikilink")》節目參加者出身的新成員[林筳諭](../Page/林筳諭.md "wikilink")（勇兔）及[陳斯亞](../Page/陳斯亞.md "wikilink")（糖果），四人正式重組為第二代黑Girl。[林筳諭](../Page/林筳諭.md "wikilink")和[陳斯亞](../Page/陳斯亞.md "wikilink")加入短暫時間後便退出，再加入非《[我愛黑澀會](../Page/我愛黑澀會.md "wikilink")》出身的[張子庭](../Page/張子庭.md "wikilink")（子庭）作為新成員，與第一代成員[詹子晴](../Page/詹子晴.md "wikilink")及[黃瀞怡](../Page/黃瀞怡.md "wikilink")以三人姿態重新出發。
+
+然而，重組後的**黑Girl**自2012年完結EP宣傳後已鮮少合體演出，[張子庭](../Page/張子庭.md "wikilink")也於2013年11月退出，[詹子晴](../Page/詹子晴.md "wikilink")及[黃瀞怡](../Page/黃瀞怡.md "wikilink")亦分散在不同經理人公司，組合雖未正式宣佈解散，但已與解散無異。如今所有前成員在演藝圈不同領域各自發展。
 
 ## 改名原因
 

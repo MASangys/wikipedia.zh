@@ -154,8 +154,6 @@ FreeBASIC仍然继续开发，目标是成为一个[GCC](../Page/GCC.md "wikilin
 [Category:BASIC编译器](https://zh.wikipedia.org/wiki/Category:BASIC编译器 "wikilink") [Category:自由编译器与解释器](https://zh.wikipedia.org/wiki/Category:自由编译器与解释器 "wikilink") [Category:SourceForge專案](https://zh.wikipedia.org/wiki/Category:SourceForge專案 "wikilink") [Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink") [Category:过程程序设计语言](https://zh.wikipedia.org/wiki/Category:过程程序设计语言 "wikilink") [Category:自由發展元件與函式庫](https://zh.wikipedia.org/wiki/Category:自由發展元件與函式庫 "wikilink") [Category:自托管软件](https://zh.wikipedia.org/wiki/Category:自托管软件 "wikilink") [Category:带有BASIC代码示例的条目](https://zh.wikipedia.org/wiki/Category:带有BASIC代码示例的条目 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

@@ -33,21 +33,21 @@ VOCALOID对中国大陆也产生了影响。在中国大陆，使用该软件的
 
 只輸入音調和歌詞的話，輸出的聲音的機械性通常會十分明顯，要令聲音顯得自然，需要調整各種不同的參數：
 
-| 名稱  | 全稱                     | 特點                                                                                                                                                                                                                                                                |
-| --- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| VEL | Velocity               | 音速參數。影響輔音長度。數值越低，輔音長度越長。在VOCALOID中，元音的起始時間是固定的，輔音佔用前一音符的時值，因此該參數對以元音起始的音符無影響。                                                                                                                                                                                     |
-| DYN | Dynamics               | 動態度。影響音量。數值越高，音量越大。                                                                                                                                                                                                                                               |
-| BRE | Breathness             | 氣息度。數值越高，聲音的氣息感越強。                                                                                                                                                                                                                                                |
-| BRI | Brightness             | 宏亮度。影響高[頻率的成分](https://zh.wikipedia.org/wiki/頻率 "wikilink")。數值越高，聲音越宏亮。                                                                                                                                                                                           |
-| CLE | Clearness              | 清澈度。與宏亮感相似，但改變聲質的原理不同。數值越高，聲音越清澈。數值過高可能會造成聲音質量的下降。                                                                                                                                                                                                                |
-| OPE | Openess                | 開口度。以改變音色來模擬嘴巴的開合。數值越低，元音越模糊。降低其數值並配合力度參數可對爆音進行有效修補。                                                                                                                                                                                                              |
-| GEN | Gender Factor          | 性別參數。影響聲音結構。數值越高，越有男性的感覺；越低，則變成女性甚至幼兒的聲音。如大量提升或降低數值，可與原本的聲音完全不同。                                                                                                                                                                                                  |
-| POR | Portamento Timing      | 滑音時間。調整滑音時的各音高的間隔。                                                                                                                                                                                                                                                |
-| XSY | Cross-Synthesis        | 音色交叉度。數值越高，音色越偏向參數窗格左上角顯示聲庫對應的音色；數值越低，音色越偏向參數窗格左下角顯示聲庫對應的音色。本參數只適用於同一名字下不同音色的聲庫（如[GACKPOID V3下的各聲庫](https://zh.wikipedia.org/wiki/GACKPOID "wikilink")，包括Gackpoid_Native、Gackpoid_Power、Gackpoid_Whisper）。**該參數可用於VOCALOID3与VOCALOID4聲庫**，*該參數已於VOCALOID5中移除*。 |
-| GWL | Growl                  | 嘶吼度。*該參數不可用於VOCALOID3及以下版本的聲庫*。                                                                                                                                                                                                                                   |
-| PIT | Pitch Bend             | 滑音桿。可控制滑音的旋律音程上滑音或下滑音。                                                                                                                                                                                                                                            |
-| PBS | Pitch Bend Sentitivity | 滑音桿靈敏度。控制滑音桿的變化，越高變化越大，1個參數等於1個半音。                                                                                                                                                                                                                                |
-| HAR | Harmonic               | 泛音。控制歌声里的泛音，越高声音便会更丰厚洪亮。該參數只存在于第一版的VOCALOID编辑器。                                                                                                                                                                                                                   |
+| 名稱  | 全稱                     | 特點                                                                                                                                                                                                                                                                                        |
+| --- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| VEL | Velocity               | 音速參數。影響輔音長度。數值越低，輔音長度越長。在VOCALOID中，元音的起始時間是固定的，輔音佔用前一音符的時值，因此該參數對以元音起始的音符無影響。                                                                                                                                                                                                             |
+| DYN | Dynamics               | 動態度。影響音量。數值越高，音量越大。                                                                                                                                                                                                                                                                       |
+| BRE | Breathness             | 氣息度。數值越高，聲音的氣息感越強。                                                                                                                                                                                                                                                                        |
+| BRI | Brightness             | 宏亮度。影響高[頻率的成分](https://zh.wikipedia.org/wiki/頻率 "wikilink")。數值越高，聲音越宏亮。                                                                                                                                                                                                                   |
+| CLE | Clearness              | 清澈度。與宏亮感相似，但改變聲質的原理不同。數值越高，聲音越清澈。數值過高可能會造成聲音質量的下降。                                                                                                                                                                                                                                        |
+| OPE | Openess                | 開口度。以改變音色來模擬嘴巴的開合。數值越低，元音越模糊。降低其數值並配合力度參數可對爆音進行有效修補。                                                                                                                                                                                                                                      |
+| GEN | Gender Factor          | 性別參數。影響聲音結構。數值越高，越有男性的感覺；越低，則變成女性甚至幼兒的聲音。如大量提升或降低數值，可與原本的聲音完全不同。                                                                                                                                                                                                                          |
+| POR | Portamento Timing      | 滑音時間。調整滑音時的各音高的間隔。                                                                                                                                                                                                                                                                        |
+| XSY | Cross-Synthesis        | 音色交叉度。數值越高，音色越偏向參數窗格左上角顯示聲庫對應的音色；數值越低，音色越偏向參數窗格左下角顯示聲庫對應的音色。本參數通常情况下只適用於同一名字下不同音色的聲庫（如[GACKPOID V3下的各聲庫](https://zh.wikipedia.org/wiki/GACKPOID "wikilink")，包括Gackpoid_Native、Gackpoid_Power、Gackpoid_Whisper），但使用插件可以解除限制以混合任意歌手。**該參數可用於VOCALOID3与VOCALOID4聲庫**，*該參數已於VOCALOID5中移除*。 |
+| GWL | Growl                  | 嘶吼度。*該參數不可用於VOCALOID3及以下版本的聲庫*。                                                                                                                                                                                                                                                           |
+| PIT | Pitch Bend             | 滑音桿。可控制滑音的旋律音程上滑音或下滑音。                                                                                                                                                                                                                                                                    |
+| PBS | Pitch Bend Sentitivity | 滑音桿靈敏度。控制滑音桿的變化，越高變化越大，1個參數等於1個半音。                                                                                                                                                                                                                                                        |
+| HAR | Harmonic               | 泛音。控制歌声里的泛音，越高声音便会更丰厚洪亮。該參數只存在于第一版的VOCALOID编辑器。                                                                                                                                                                                                                                           |
 
 ## 相關條目
 
@@ -145,64 +145,35 @@ VOCALOID对中国大陆也产生了影响。在中国大陆，使用该软件的
 [Category:Vocaloid](https://zh.wikipedia.org/wiki/Category:Vocaloid "wikilink") [Category:语音合成](https://zh.wikipedia.org/wiki/Category:语音合成 "wikilink") [Category:音樂軟件](https://zh.wikipedia.org/wiki/Category:音樂軟件 "wikilink")
 
 1.
-
 2.
-
 3.  [CEATEC JAPAN 2008](http://www.ceatec.com/2008/lcf/ja/exhibitor/detail.html?exh_id=E080441)
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17. [VOCALOID機能介紹](http://www.vocaloid.com/jp/features.html)
-
 18. [關於VOCALOID](http://www.vocaloid.com/jp/introduction.html)
-
 19.
-
 20.
-
 21.
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.

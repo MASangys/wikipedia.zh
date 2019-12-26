@@ -87,23 +87,14 @@ Socket AM3的插座不相容Socket AM2/AM2+的處理器，即Socket AM2/AM2+管�
 [Category:CPU插座](https://zh.wikipedia.org/wiki/Category:CPU插座 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.

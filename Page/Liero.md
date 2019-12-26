@@ -38,9 +38,6 @@ Liero最后版本1.33在1999年放出，但是作者因硬盘事故丢失了[Pas
 [Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink") [Category:DOS游戏](https://zh.wikipedia.org/wiki/Category:DOS游戏 "wikilink") [Category:动作游戏](https://zh.wikipedia.org/wiki/Category:动作游戏 "wikilink") [Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink")
 
 1.  [Liero Review](http://www.the-underdogs.info/game.php?name=Liero)  ── [Home of the Underdogs](https://zh.wikipedia.org/wiki/Home_of_the_Underdogs "wikilink")
-
 2.
-
 3.
-
 4.

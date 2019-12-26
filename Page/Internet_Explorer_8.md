@@ -91,18 +91,11 @@ IE8是首款通過[Acid2](../Page/Acid2.md "wikilink")測試也是最後一個�
 [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink") [Category:RSS](https://zh.wikipedia.org/wiki/Category:RSS "wikilink") [Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink") [Category:2009年軟體](https://zh.wikipedia.org/wiki/Category:2009年軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  [Top 12 Browser Versions in Asia from Jun 2011 to Jul 2012 - StatCounter Global Stats](http://gs.statcounter.com/#browser_version-as-monthly-201106-201207)
-
 7.  ["Microsoft Announces Availability of Internet Explorer 8"](http://news.prnewswire.com/ViewContent.aspx?ACCT=109&STORY=/www/story/03-19-2009/0004991142&EDATE=)
-
 8.
 9.

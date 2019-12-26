@@ -22,7 +22,7 @@ null [字符串](https://zh.wikipedia.org/wiki/:字符串 "wikilink"), 也就是
 
 在 的控制碼集control code set 定義於 [ISO 646](https://zh.wikipedia.org/wiki/ISO/IEC_646 "wikilink"), [ASCII](../Page/ASCII.md "wikilink"), 以及 [Unicode標準字元集](https://zh.wikipedia.org/wiki/Unicode "wikilink"), code value 0 是空字符（null character，NUL）。大多數的程式語言提供語法來表示這樣的字元 (例如：[Pascal](../Page/Pascal_\(程式語言\).md "wikilink") 使用 chr(0) 或 \#0, [C](https://zh.wikipedia.org/wiki/C语言 "wikilink") 以及其他衍生語言 `'\0'`). \[4\]
 
-在一些程式語言，null字符 意指為[字符串的結束](https://zh.wikipedia.org/wiki/:字符串 "wikilink")。這些字串被編成[ASCII](../Page/ASCII.md "wikilink")字元集有時可視同 *[ASCIIZ](../Page/C风格字符串.md "wikilink")* 或 *ASCIZ* 字串 — "Z" 是指字串的終點 "Zero"，或 null 字符\[5\].
+在[C](../Page/C.md "wikilink")語言等程式語言，null字符 意指為[字符串的結束](https://zh.wikipedia.org/wiki/:字符串 "wikilink")。這些字串被編成[ASCII](../Page/ASCII.md "wikilink")字元集有時可視同 *[ASCIIZ](../Page/C风格字符串.md "wikilink")* 或 *ASCIZ* 字串 — "Z" 是指字串的終點 "Zero"，或 null 字符\[5\].
 
 當機電電傳打字電報被用作計算機輸出設備，一個或多個NULL字符被送往在每次印刷線，以便有時間的機制，以返回到第一個印刷上的立場下一行。
 
@@ -49,10 +49,7 @@ null [字符串](https://zh.wikipedia.org/wiki/:字符串 "wikilink"), 也就是
 [Category:電腦術語](https://zh.wikipedia.org/wiki/Category:電腦術語 "wikilink") [Category:无](https://zh.wikipedia.org/wiki/Category:无 "wikilink")
 
 1.  [Brian W. Kernighan](https://zh.wikipedia.org/wiki/Brian_W._Kernighan "wikilink"), [Dennis M. Ritchie](https://zh.wikipedia.org/wiki/Dennis_M._Ritchie "wikilink"), *[The C Programming Language](https://zh.wikipedia.org/wiki/The_C_Programming_Language "wikilink")*, Second Edition, Prentice Hall New Jersey, ISBN 0-13-110362-8, p. 102
-
 2.  [Elliot B. Koffman](https://zh.wikipedia.org/wiki/Elliot_B._Koffman "wikilink"), *Pascal 3rd Edition*, Addison Wesley, Reading MA, ISBN 0-201-11834-3, pp. 678-679
-
 3.  Kernighan and Ritchie, *C*, p. 38
-
 4.
 5.  Kernighan and Ritchie, *C*, p. 30

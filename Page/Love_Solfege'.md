@@ -138,22 +138,13 @@
 [Category:同人创作者](https://zh.wikipedia.org/wiki/Category:同人创作者 "wikilink") [Category:日本乐团](https://zh.wikipedia.org/wiki/Category:日本乐团 "wikilink")
 
 1.  <http://lovege.noki.tv/index.php?c=4->
-
 2.  即歌詞天馬行空難以理解，段落極爲重復，給人“洗腦”感覺的歌，多為動畫或遊戲主題歌。
-
 3.  [excite.co.jp的專訪](http://anime.excite.co.jp/interview/0707lovesolfege01.php)
-
 4.  參見[網站商業化板塊的個人介紹](http://lovege.noki.tv/lovesolfege/index.php?c=3-) 與[社團板塊的個人介紹](http://lovege.noki.tv/index.php?c=4-) 。其中前者的介紹較爲正式，而后者則全是戲謔的生活内容。
-
 5.  [オーギュスト棒個人的網志](http://lovege.noki.tv/studio/index.php?p=1)
-
 6.  Love Solfege在第71屆Comic Market發行的專輯《Le Blanc Et Noir》中，她分別以“”與“”的名義演唱了《Zephyranthus》與《Miss Rain》兩首風格迥異的歌曲，致使很多人誤認爲這是兩位歌手。
-
 7.
 8.  [Rin's（美里香鈴個人的網志）](http://blog.milica.jp/?pid=15704)
-
 9.  <http://milica.jp/works.html>
-
 10. [love solfege'::discography](http://lovege.noki.tv/index.php?c=3-)
-
 11. 《utaou》和《utaou2》為以往專輯收錄的歌的伴奏，由於不是正式的專輯，所以官網並沒有這兩張專輯的資訊。得知途徑為社團成員的blog。

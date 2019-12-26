@@ -375,6 +375,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
   - 1月1日：Hey\! Say\! JUMP LIVE TOUR SENSE or LOVE 第三站東京巨蛋
   - 1月19日至20日：Hey\! Say\! JUMP LIVE TOUR SENSE or LOVE 最終站暨初次登上福岡巨蛋
   - 4月1日起：成員[薮宏太](../Page/薮宏太.md "wikilink")主演舞台劇《ハル》
+  - 10月5日與6日 ： Hey\! Say\! JUMP LIVE 2019 in Taipei 睽違七年到台灣，登上台北小巨蛋
 
 ## 音樂作品
 
@@ -881,7 +882,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 
   - （）（2014年4月1日 -、日本電視台） - 星期二固定來賓 - [有岡大貴](../Page/有岡大貴.md "wikilink")，[八乙女光](../Page/八乙女光.md "wikilink")
 
-  - 「[リトルトーキョーライブ](http://www.tv-tokyo.co.jp/little-tokyolife/)～みんなで作るいっぱいいっぱい生放送～」（2014年10月8日－、[東京電視台](../Page/東京電視台.md "wikilink")）-和[ジャニーズWEST隔週輪流擔任主持](https://zh.wikipedia.org/wiki/ジャニーズWEST "wikilink")
+  - 「[リトルトーキョーライブ](http://www.tv-tokyo.co.jp/little-tokyolife/)～みんなで作るいっぱいいっぱい生放送～」（2014年10月8日－2019年9月25日、[東京電視台](../Page/東京電視台.md "wikilink")）-和[ジャニーズWEST隔週輪流擔任主持](https://zh.wikipedia.org/wiki/ジャニーズWEST "wikilink")
 
   - [攻頂High JUMP](../Page/攻頂High_Jump.md "wikilink")([いただきハイジャンプ](http://www.fujitv.co.jp/high-jump/))(2014年12月29日晚上25:00-26:00即凌晨01:00-02:00,第二彈-2015年6月10日晚上25:35-26:35,並於節目錄製時向Hey\! Say\! JUMP宣布於7月8日正規化,從7月8日起每週三晚上25:25-25:55 [富士電視台](../Page/富士電視台.md "wikilink"))
 
@@ -959,7 +960,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 
 ## 參考資料
 
-[Category:Hey\!_Say\!_JUMP](https://zh.wikipedia.org/wiki/Category:Hey!_Say!_JUMP "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:傑尼斯事務所正式團體](https://zh.wikipedia.org/wiki/Category:傑尼斯事務所正式團體 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
+[Category:Hey\!_Say\!_JUMP](https://zh.wikipedia.org/wiki/Category:Hey!_Say!_JUMP "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:傑尼斯事務所正式團體](https://zh.wikipedia.org/wiki/Category:傑尼斯事務所正式團體 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
 
 1.
 2.

@@ -33,40 +33,23 @@ BMW自身使用「SAV（Sports Activity Vehicle，該名詞也被寶馬公司註
 [Category:2003年面世的汽車](https://zh.wikipedia.org/wiki/Category:2003年面世的汽車 "wikilink") [Category:运动型多用途车](https://zh.wikipedia.org/wiki/Category:运动型多用途车 "wikilink") [Category:BMW車輛](https://zh.wikipedia.org/wiki/Category:BMW車輛 "wikilink") [Category:2000年代汽車](https://zh.wikipedia.org/wiki/Category:2000年代汽車 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10. [](http://annual-report.bmwgroup.com/2010/gb/files/pdf/en/BMW_Group_AR2010.pdf)
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.

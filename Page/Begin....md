@@ -18,4 +18,4 @@
   - 2003年2月24日：平裝版（1CD）
   - 2003年5月15日：超值回饋版（1CD、1VCD）
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:王心凌音樂專輯](https://zh.wikipedia.org/wiki/Category:王心凌音樂專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")
+[Category:王心凌音乐专辑](https://zh.wikipedia.org/wiki/Category:王心凌音乐专辑 "wikilink") [Category:2003年音乐专辑](https://zh.wikipedia.org/wiki/Category:2003年音乐专辑 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")

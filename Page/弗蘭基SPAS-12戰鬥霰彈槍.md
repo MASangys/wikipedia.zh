@@ -516,55 +516,32 @@ SPAS-12同時出現在美國[荷里活電影](https://zh.wikipedia.org/wiki/美�
 [Category:泵动式霰彈槍](https://zh.wikipedia.org/wiki/Category:泵动式霰彈槍 "wikilink") [Category:半自動霰彈槍](https://zh.wikipedia.org/wiki/Category:半自動霰彈槍 "wikilink") [Category:意大利霰彈槍](https://zh.wikipedia.org/wiki/Category:意大利霰彈槍 "wikilink") [Category:非致命性槍械](https://zh.wikipedia.org/wiki/Category:非致命性槍械 "wikilink")
 
 1.  Diez, Octavio (2000). Armament and Technology. Lema Publications, S.L. ISBN 84-8463-013-7.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.  [Welcome to Choate Machine and Tool - Your Premier Source for Tactical Stocks and Accessories for Rifles, Shotguns and Submachine Guns](http://www.riflestock.com/)
-
 10. [UK Owner's Letter](http://spas12.com/SRreview.htm)
-
 11.
-
 12. <http://spas12.com/MagazineTypes.html>
-
 13.
 14.
 15.
-
 16.
-
 17. \[<https://www.atf.gov/files/firearms/industry/january-2011-importability-of-certain-shotguns.pdf>. January 2011 Importability of Certain Shotguns\]
-
 18.
-
 19.
-
 20.
-
 21.
-
 22. —[List of Restricted and Prohibited Firearms](http://www.cfc-cafc.gc.ca/factsheets/r&p_e.asp)
-
 23. <http://www.bmi.gv.at/cms/BMI_EKO_Cobra/publikationen/files/LawOrder.pdf>
-
 24. <http://www.bdmilitary.com/index.php?option=com_content&view=article&id=104&Itemid=95>
-
 25.
-
 26.
 27.
-
 28.
 29. McManners, Hugh (2003). Ultimate Special Forces. DK Publishing, Inc. ISBN 0-7894-9973-6.
-
 30. 如果想知道更多其登場作品，可到[Chris's Franchi SPAS12 Shotgun Pages](http://spas12.com/spas12movies.htm)或[Imfdb](http://www.imfdb.org/index.php/Franchi_SPAS-12)查詢

@@ -24,18 +24,11 @@
 [Category:办公室自动化软件](https://zh.wikipedia.org/wiki/Category:办公室自动化软件 "wikilink")
 
 1.
-
 2.
 3.  [永中Office 2009上市 支持UOF国际标准](http://it.sohu.com/20080718/n258237716.shtml)
-
 4.
-
 5.  [永中科技今日上午被无锡法院宣告破产](http://news.mydrivers.com/1/193/193139.htm)
-
 6.  [永中Office2012个人版正式发布](http://www.cnbeta.com/articles/177292.htm)
-
 7.  [永中Office2012专业版正式发布](http://tech.sina.com.cn/it/2012-03-27/09296880100.shtml)
-
 8.  [永中Office获四千万投资](http://news.mydrivers.com/1/239/239471.htm)
-
 9.  [永中Office 2013 个人版正式发布](http://www.cnbeta.com/articles/221129.htm)

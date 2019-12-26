@@ -21,7 +21,7 @@
   - [刘德华、李琛、杨光演唱歌曲《Everyone is No.1》](http://news.xinhuanet.com/olympics/2008-09/06/content_9808824.htm)
   - [残奥会开幕式仪式前表演 刘德华与残疾演员同台演出](https://web.archive.org/web/20080907100659/http://paralympic.beijing2008.cn/ceremonies/headlines/n214588556.shtml)
 
-[Category:2008年夏季奧林匹克运动会歌曲](https://zh.wikipedia.org/wiki/Category:2008年夏季奧林匹克运动会歌曲 "wikilink") [Category:中國歌曲](https://zh.wikipedia.org/wiki/Category:中國歌曲 "wikilink") [Category:華語流行歌曲](https://zh.wikipedia.org/wiki/Category:華語流行歌曲 "wikilink")
+[Category:2008年夏季奧林匹克运动会歌曲](https://zh.wikipedia.org/wiki/Category:2008年夏季奧林匹克运动会歌曲 "wikilink") [Category:劉德華](https://zh.wikipedia.org/wiki/Category:劉德華 "wikilink") [Category:華語流行歌曲](https://zh.wikipedia.org/wiki/Category:華語流行歌曲 "wikilink")
 
 1.  [奥运歌曲征评颁奖 北京2008残奥会优秀歌曲奖](http://sports.cctv.com/20080501/100861.shtml)
 2.  [刘德华：任火炬手是荣誉 每个运动员都是第一名](http://torchrelay.beijing2008.cn/cn/journey/hongkong/news/n214334134.shtml)

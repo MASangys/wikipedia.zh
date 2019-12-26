@@ -44,27 +44,16 @@
 [Category:中国网站](https://zh.wikipedia.org/wiki/Category:中国网站 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.  [多牛传媒果然“牛”！融资一个多亿就摘牌 或许要去IPO？](http://www.jingujie.com/news/66270.html)
-
 10. [多牛传媒:公开转让说明书](http://xinsanban.eastmoney.com/Article/NoticeContent?id=AN201601290013319754)
-
 11. [多牛星游合体估值或超20亿 改变泛娱乐媒体行业格局](http://www.chinanews.com/cj/2017/12-27/8410357.shtml)
-
 12. [多牛传媒并购星游传媒联手完美世界打造泛娱乐媒体矩阵](https://pe.pedaily.cn/201712/425134.shtml)
-
 13.
 14. [从社交网站到社交直播 人人网加入多牛传媒](http://www.donews.com/news/detail/1/3027708.html)

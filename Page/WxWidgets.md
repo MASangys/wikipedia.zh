@@ -52,18 +52,18 @@ wxWidgets的授權許可證是經過[開放原始碼促進會認證](https://zh.
   - [wxBasic](http://wxbasic.sourceforge.net/)
   - [wxCaml](https://web.archive.org/web/20070814040120/http://plus.kaist.ac.kr/~shoh/ocaml/wxcaml/doc/)
   - [wxCL](http://www.wxcl-project.org/)
-  - [wxD](http://wxd.sourceforge.net/)
+  - [wxD](https://web.archive.org/web/20100820021606/http://wxd.sourceforge.net/)
   - [wxEiffel](http://elj.sourceforge.net/projects/gui/ewxw/)
   - [wxErlang](https://web.archive.org/web/20070812010111/http://wxerlang.sourceforge.net/)
   - [wxHaskell](http://wxhaskell.sourceforge.net/)
   - [wx4j（wxWidgets for Java）](http://www.wx4j.org/)
   - [wxJavaScript](http://www.wxjavascript.net)
-  - [wx.NET](http://wxnet.sourceforge.net/)
-  - [wxLua](http://wxlua.sourceforge.net/)
+  - [wx.NET](https://web.archive.org/web/20100825110129/http://wxnet.sourceforge.net/)
+  - [wxLua](https://web.archive.org/web/20100817175822/http://wxlua.sourceforge.net/)
   - [wxPerl](http://wxperl.sourceforge.net/)
   - [wxPython](http://www.wxpython.org/)
   - [wxRuby](http://webarchive.loc.gov/all/20090306104451/http%3A//wxruby.rubyforge.org/)
-  - [wxSqueak](http://www.wxsqueak.org/)
+  - [wxSqueak](https://web.archive.org/web/20100913031514/http://www.wxsqueak.org/)
 
 ### 整合開發環境（IDE）與快速開發工具（RAD tools）
 

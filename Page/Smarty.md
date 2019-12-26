@@ -96,7 +96,7 @@ header("Content-Type: $contentType; charset=utf-8");
 
 ### 中文
 
-  - [Smarty入門](http://jaceju.net/2005-06-08-getting-started-with-smarty/)
+  - [Smarty入門](https://web.archive.org/web/20170212091000/http://jaceju.net/2005-06-08-getting-started-with-smarty/)
   - [Smarty使用手冊](http://www.ecstart.com/ebook/SMARTYTEMPLATE_BIG5/)
   - [Smarty使用教程](https://web.archive.org/web/20110215200723/http://www.leapsoul.cn/?p=405)
 

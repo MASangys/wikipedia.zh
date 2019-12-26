@@ -560,7 +560,7 @@ Ling之前男友<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="../Page/徐玟晴.md" title="wikilink">徐玟晴</a></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -973,7 +973,7 @@ Winnie之男友</p></td>
 <tr class="odd">
 <td><p><a href="../Page/李鴻杰.md" title="wikilink">李鴻杰</a></p></td>
 <td><p>陳金海</p></td>
-<td><p>宇宙日報<a href="https://zh.wikipedia.org/wiki/總編輯" title="wikilink">總編輯</a>（第8集出現）<br />
+<td><p>宇宙日報<a href="../Page/總編輯.md" title="wikilink">總編輯</a>（第8集出現）<br />
 鍾志鳴上司<br />
 葛寶貝前上司<br />
 被控藐視法庭罪名不成立（第13集）<br />

@@ -44,7 +44,7 @@
   - [奧運風采 香港電台 - We are ready（英文版本）](http://app1.rthk.org.hk/special/beijingolympic/gallery.php?name=weareready_int&media=audio)
   - [奧運風采 香港電台 - We are ready（粵語版本）](http://app1.rthk.org.hk/special/beijingolympic/gallery.php?name=weareready_cantonese&media=audio)
 
-[Category:2008年夏季奧林匹克运动会歌曲](https://zh.wikipedia.org/wiki/Category:2008年夏季奧林匹克运动会歌曲 "wikilink") [Category:中华人民共和国歌曲作品](https://zh.wikipedia.org/wiki/Category:中华人民共和国歌曲作品 "wikilink") [Category:華語流行歌曲](https://zh.wikipedia.org/wiki/Category:華語流行歌曲 "wikilink")
+[Category:2008年夏季奧林匹克运动会歌曲](https://zh.wikipedia.org/wiki/Category:2008年夏季奧林匹克运动会歌曲 "wikilink") [Category:2007年歌曲](https://zh.wikipedia.org/wiki/Category:2007年歌曲 "wikilink") [Category:2007年中国作品](https://zh.wikipedia.org/wiki/Category:2007年中国作品 "wikilink") [Category:2000年代中国歌曲作品](https://zh.wikipedia.org/wiki/Category:2000年代中国歌曲作品 "wikilink") [Category:華語流行歌曲](https://zh.wikipedia.org/wiki/Category:華語流行歌曲 "wikilink")
 
 1.  [陳奕迅不會補送婚戒，《明報》，2007-07-30](http://ol.mingpao.com/cfm/Archive1.cfm?File=20070730/saa01/mbc1.txt)
 2.  [奥运歌曲MV——《we are ready》](http://www.beijing2008.cn/video/promotional/we-are-ready/)

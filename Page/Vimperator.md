@@ -77,13 +77,13 @@ Vimperator有自己的套件系統，套件可以使用[JavaScript](../Page/Java
 
   - [Firefox 附加组件中的 Vimperator 页面](https://addons.mozilla.org/zh-cn/firefox/addon/4891)
 
-  - [Vimperator 中文帮助](https://addons.mozilla.org/zh-CN/firefox/addon/vimperator-cn/)
+  - [Vimperator 中文帮助](https://web.archive.org/web/20140305004908/https://addons.mozilla.org/zh-CN/firefox/addon/vimperator-cn/)
 
   - [Pentadactyl/Vimperator简明教程](http://xbeta.info/vimperator.htm)
 
   - [vimpr——Vimperator 插件仓库](http://vimpr.github.io/)
 
-  - [Linux.com: How to control Firefox using Vim keybindings](http://www.linux.com/feature/114419)
+  - [Linux.com: How to control Firefox using Vim keybindings](https://www.webcitation.org/66UkRrkB3?url=http://archive09.linux.com/feature/114419)
 
   - [Lifehacker.com: Bring VIM-like navigation to Firefox](http://lifehacker.com/software/firefox/bring-vim+like-navigation-to-firefox-252695.php)
 

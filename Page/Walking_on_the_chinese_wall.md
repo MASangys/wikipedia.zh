@@ -74,6 +74,6 @@ A clip from Bailey's live performance in American Bandstand appeared in Dick Cla
   - <http://pro.imdb.com/title/tt0406527/>
   - <http://www.imdb.com/title/tt0770706/soundtrack>
   - <http://www.noanoamusic.com/discography.html>
-  - <http://www.billiehughes.com>
+  - <https://web.archive.org/web/20111004211530/http://www.billiehughes.com/>
 
 [Category:1985年单曲](https://zh.wikipedia.org/wiki/Category:1985年单曲 "wikilink")

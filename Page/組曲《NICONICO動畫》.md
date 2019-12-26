@@ -1135,13 +1135,10 @@
 [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink") [Category:2007年音樂](https://zh.wikipedia.org/wiki/Category:2007年音樂 "wikilink")
 
 1.  動画投稿者在NICONICO上的正式名稱即為此名。
-
 2.  演唱版組曲填入的歌詞是日本國歌[君之代](../Page/君之代.md "wikilink")，台灣PTT版本為[中華民國國旗歌](../Page/中華民國國旗歌.md "wikilink")，中文版本為[中華民國國歌](../Page/中華民國國歌.md "wikilink")，希伯來文版本為[希望曲](https://zh.wikipedia.org/wiki/希望曲 "wikilink")。
-
 3.
 4.
 5.  動畫最後的歌曲列表內是以「CAST "MUSIC LIST"」標記
-
 6.
 7.
 8.  [](http://www.lantis.jp/new-release/data.php?id=57feeeb0de0f18e45a7033e21c6d2e8c)

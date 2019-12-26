@@ -27,12 +27,12 @@
   - **[48](../Page/城巴48線.md "wikilink")** [華富北](../Page/華富（北）巴士總站.md "wikilink") - [黃竹坑](../Page/黃竹坑.md "wikilink")／[海洋公園](../Page/香港海洋公園.md "wikilink")（現調整成循環線：深灣／海洋公園 開出往華富北 再返回深灣／海洋公園）
   - **[61](https://zh.wikipedia.org/wiki/城巴61線 "wikilink")** 中環 - [淺水灣](../Page/淺水灣.md "wikilink") \#
   - **61M** 金鐘（東）- 淺水灣 \#
-  - **[70](../Page/城巴70線.md "wikilink")** 中環 - [香港仔](../Page/香港仔.md "wikilink")（現延至中環 - 華貴)
+  - **[70](../Page/城巴70線.md "wikilink")** 中環 - [香港仔](../Page/香港仔.md "wikilink")（現延至中環 - 華貴）
   - **[70M](../Page/城巴70M線.md "wikilink")** 香港仔 - 金鐘（東）\#
   - **[72](../Page/城巴72線.md "wikilink")** [華貴](../Page/華貴邨.md "wikilink") - 銅鑼灣
   - **[72A](../Page/城巴72A線.md "wikilink")** 黃竹坑 - 銅鑼灣（摩頓臺）（現延至深灣 - 銅鑼灣（摩頓臺））
   - **[72B](https://zh.wikipedia.org/wiki/城巴72B線 "wikilink")** 香港仔 - 銅鑼灣（摩頓臺） \#
-  - **[75](../Page/城巴75線.md "wikilink")** 中環 - 黃竹坑（現延至中環 - 深灣)
+  - **[75](../Page/城巴75線.md "wikilink")** 中環 - 黃竹坑（現延至中環 - 深灣）
   - **[76](../Page/城巴76線.md "wikilink")** [石排灣](../Page/石排灣邨公共運輸交匯處.md "wikilink") - 銅鑼灣（摩頓臺）（現改為石排灣至銅鑼灣（邊寧頓街）的循環線）
   - **[90](../Page/城巴90線.md "wikilink")** [鴨脷洲](../Page/鴨脷洲邨.md "wikilink") - 中環
   - **[92](../Page/城巴92線.md "wikilink")** 鴨脷洲 - 銅鑼灣（摩頓臺） \#

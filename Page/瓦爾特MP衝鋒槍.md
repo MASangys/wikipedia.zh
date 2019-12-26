@@ -154,17 +154,14 @@ MPL具有兩個金屬製機械[照門及](https://zh.wikipedia.org/wiki/照門 "
 [Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
 
 1.  Hogg, Ian (2002). Jane's Guns Recognition Guide. Jane's Information Group. ISBN 0-00-712760-X.
-
 2.
 3.
 4.  Jones, Richard D. Jane's Infantry Weapons 2009/2010. Jane's Information Group; 35 edition (January 27, 2009). ISBN 978-0710628695.
-
 5.
 6.
 7.
 8.
 9.
 10. Griswold, Terry and D.M. Giangreco. Delta: America's Elite Counterterrorist Force. Osecola, WI: MBI Publishing Company, 1992. ISBN 0-87938-615-0.
-
 11.
 12.

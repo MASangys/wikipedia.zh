@@ -88,46 +88,25 @@ LXDE專案包括以下的獨立元件\[13\]\[14\]：
 [Category:LXDE](https://zh.wikipedia.org/wiki/Category:LXDE "wikilink") [Category:基于GTK+的桌面环境](https://zh.wikipedia.org/wiki/Category:基于GTK+的桌面环境 "wikilink") [Category:从GTK+移植到Qt的软件](https://zh.wikipedia.org/wiki/Category:从GTK+移植到Qt的软件 "wikilink") [Category:自由桌面环境](https://zh.wikipedia.org/wiki/Category:自由桌面环境 "wikilink") [Category:2006年软件](https://zh.wikipedia.org/wiki/Category:2006年软件 "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")
 
 1.  LXDE官方網站的[LXDE介紹](http://lxde.org/zh-tw/lxde)
-
 2.  <http://www.ubuntu-tw.org/modules/newbb/viewtopic.php?topic_id=16099&forum=33&post_id=82439#forumpost82439>
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14. [SourceForge](../Page/SourceForge.md "wikilink")上的[LXDE專案網站](http://sourceforge.net/project/showfiles.php?group_id=180858)
-
 15. LXDE網站中紀錄的[Linux發行版](http://wiki.lxde.org/zh/Category:Linux_%E7%99%BC%E8%A1%8C%E7%89%88)
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.

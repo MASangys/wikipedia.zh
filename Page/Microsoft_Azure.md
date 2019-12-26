@@ -276,38 +276,21 @@ Microsoft Azure 在早期只能使用 Web-based 管理工具存取，在 2012 �
 [Category:微軟](https://zh.wikipedia.org/wiki/Category:微軟 "wikilink") [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink") [Category:Microsoft_Azure](https://zh.wikipedia.org/wiki/Category:Microsoft_Azure "wikilink")
 
 1.  [Microsoft – the only vendor named a leader in Gartner Magic Quadrants for IaaS, Application PaaS, and Cloud Storage](https://azure.microsoft.com/zh-tw/blog/microsoft-the-only-vendor-named-a-leader-in-gartner-magic-quadrants-for-iaas-application-paas-cloud-storage-and-hybrid/)
-
 2.  [Microsoft's Azure To Boost Cloud Revenues In The Coming Years](http://www.forbes.com/sites/greatspeculations/2015/10/09/microsofts-azure-to-boost-cloud-revenues-in-the-coming-years/#505484656267)
-
 3.  [Upcoming Name Change for Windows Azure](https://azure.microsoft.com/en-us/blog/upcoming-name-change-for-windows-azure/)
-
 4.  [A Beginner’s Guide to Understanding the Leaf-Spine Network Topology](https://blog.westmonroepartners.com/a-beginners-guide-to-understanding-the-leaf-spine-network-topology/)
-
 5.  [SDN for the Cloud -- SIGCOMM Conference 2015 Keynote](http://conferences.sigcomm.org/sigcomm/2015/pdf/papers/keynote.pdf)
-
 6.  [Microsoft showcases the Azure Cloud Switch (ACS)](https://azure.microsoft.com/zh-tw/blog/microsoft-showcases-the-azure-cloud-switch-acs/)
-
 7.  [Azure CDN 的 POP 位置](https://docs.microsoft.com/zh-tw/azure/cdn/cdn-pop-locations)
-
 8.  區域別中的 Region 1, 2, 3 為 Azure 在計算網路頻寬費用時的分類。
-
 9.  [Azure Resource Manager QuickStart Templates](https://github.com/Azure/azure-quickstart-templates)
-
 10. [Microsoft Trust Center-Compliance](https://www.microsoft.com/en-us/TrustCenter/Compliance/default.aspx)
-
 11. [PROTECCION DE LOS DATOS PERSONALES](http://www.infoleg.gov.ar/infolegInternet/anexos/60000-64999/64790/norma.htm)
-
 12. [Criminal Justice Information Services (CJIS) Security Policy Version 5.4](https://www.microsoft.com/en-us/TrustCenter/Compliance/CJIS)
-
 13. [Defense Information Systems Agency (DISA) Impact Level 2 PA](https://www.microsoft.com/en-us/TrustCenter/Compliance/DISA)
-
 14. [Azure 信任中心-合规性](https://www.azure.cn/support/trust-center/compliance)
-
 15.
 16. [Azure Service Management APIs](https://msdn.microsoft.com/en-us/library/azure/ee460799.aspx)
-
 17. [如何將服務部署至公用雲端](https://technet.microsoft.com/zh-tw/library/hh221341.aspx)
-
 18. [Azure Storage Explorer](https://azurestorageexplorer.codeplex.com/)
-
 19. [Microsoft Azure Storage Explorer](http://storageexplorer.com/)

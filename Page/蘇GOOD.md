@@ -585,15 +585,9 @@
 6.
 7.
 8.  [《蘇GOOD》漸火阿蘇一“鬧”收視走高](http://news.gztv.com/nfspb/node_303/node_305/2008/10/28/1225231756101136.shtml) ，廣州電視台－廣視網，2008-10-28
-
 9.  [教育自由講：庸俗節目收視高觀眾愛看又要罵](http://www.wenweipo.com/news_print.phtml?news_id=HK0811240045)，香港文匯報，2008-11-24
-
 10. [電視功能單一化點「睇」](http://edu.singtao.com/lib/article/article_detail.asp?id=1344)，星島日報，2008-11-11
-
 11. [蘇施黃貫徹罵人作風懶理觀眾投訴](http://ol.mingpao.com/cfm/star5.cfm?File=20081006/saa01/mbc1.txt)，明報，2008年10月6日。
-
 12. [蘇施黃 躁爆鬧走女助手 阿蘇：我係咁乞人憎](http://hk.myblog.yahoo.com/sting-life/article?mid=7387)(原文來自《壹傳媒》)，2008-10-11
-
 13. [蘇施黃惡輸咗](http://www.kczone.net/~yy/news/1/view.php?mag=Face&site=5476429111719060&issue=73) ，《[FACE周刊](../Page/FACE周刊.md "wikilink")》，2008-10-14
-
 14. [蘇施黃 阿蘇為錢鬧人](http://hk.myblog.yahoo.com/sting-life/article?mid=7289)(原文來自《壹傳媒》)，2008-10-10

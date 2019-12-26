@@ -25,10 +25,10 @@ Windows Vista的後續作業系統是[Windows 7](https://zh.wikipedia.org/wiki/W
 
 Windows Vista會向參加[Beta](https://zh.wikipedia.org/wiki/軟件版本週期#Beta "wikilink") Experience或是[MSDN使用者以及](https://zh.wikipedia.org/wiki/MSDN "wikilink")[TechNet](../Page/TechNet.md "wikilink")的[Windows Live ID使用者發布測試](https://zh.wikipedia.org/wiki/Windows_Live_ID "wikilink")-{zh-hans:信息; zh-hant:訊息;}-。
 
-  - **Beta 1**：2005年7月27日
+  - **Beta 1**：2005年7月27日，Build 5112
   - **CTP**：由2005年12月20日，Build 5270
   - **Beta 2**：2006年5月23日，Build 5384.4，提供给所有Windows Live ID下載。
-  - **Release Candidate 1**：2006年9月1日Build 5600，提供给所有Windows Live ID下載。
+  - **Release Candidate 1**：2006年9月1日，Build 5600，提供给所有Windows Live ID下載。
   - **Release Candidate 2**：2006年10月6日，Build 5744，開放下載時間只有幾天，之後即換回RC1的連結，所有Windows Live ID均可下載。
   - **Release To Manufacture**：2006年11月8日，原定10月25日發布，因發現錯誤延後，Build 6000，僅提供[MSDN訂閱者](https://zh.wikipedia.org/wiki/MSDN "wikilink")、[TechNet](../Page/TechNet.md "wikilink")使用者下載。
 

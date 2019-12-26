@@ -53,6 +53,7 @@ Metacritic由馬克·道爾（Marc Doyle）、朱莉·道爾·羅伯茨（Julie 
   - [最後生還者](../Page/最後生還者.md "wikilink")（95/100）
   - [血源詛咒](https://zh.wikipedia.org/wiki/血源詛咒 "wikilink") （92/100）
   - [Undertale](../Page/Undertale.md "wikilink") （94/100）
+  - [隻狼：暗影雙死](../Page/隻狼：暗影雙死.md "wikilink") (92/100)
   - [秘境探險2：盜亦有道](../Page/秘境探險2：盜亦有道.md "wikilink")（96/100）
   - [秘境探險3：德瑞克的騙局](../Page/秘境探險3：德瑞克的騙局.md "wikilink")（92/100）
 

@@ -1,6 +1,6 @@
-**HK AG36**（AG，，意為：「附加型榴弹发射器模組」）是一具由單發的40毫米[附加型榴弹发射器](https://zh.wikipedia.org/wiki/榴彈發射器#附加型榴弹发射器 "wikilink")，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。
+**HK AG36**（AG，，意為：「附加型榴弹发射器模組」）是一具式40毫米[附加型榴弹发射器](https://zh.wikipedia.org/wiki/榴彈發射器#附加型榴弹发射器 "wikilink")，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。
 
-該榴弹发射器的主要設計概念是下掛於[HK G36](../Page/HK_G36突擊步槍.md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")，設計者是[德国](../Page/德国.md "wikilink")[武器](../Page/武器.md "wikilink")生產[公司](../Page/公司.md "wikilink")[黑克勒-科赫的總公司](../Page/黑克勒&科赫.md "wikilink")[奧伯恩多夫卡](https://zh.wikipedia.org/wiki/奧伯恩多夫卡 "wikilink")。它是在用作黑克勒-科赫對參與[美国陆军](../Page/美国陆军.md "wikilink")的增強型榴彈發射器模組（Enhanced Grenade Launcher Module，EGLM）的競標產品當中首次出現，而且為了用於增加在下掛於[XM8和](../Page/XM8突擊步槍.md "wikilink")[FN SCAR兩枝步槍後的性能評價](../Page/FN_SCAR突擊步槍.md "wikilink")。
+該榴弹发射器的主要設計概念是下掛於[HK G36](../Page/HK_G36突擊步槍.md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")，設計者是[德国](../Page/德国.md "wikilink")[武器](../Page/武器.md "wikilink")生產[公司](../Page/公司.md "wikilink")[黑克勒&科赫](../Page/黑克勒&科赫.md "wikilink")的總公司[奧伯恩多夫卡](https://zh.wikipedia.org/wiki/奧伯恩多夫卡 "wikilink")。它是在用作黑克勒&科赫對參與[美国陆军](../Page/美国陆军.md "wikilink")的增強型榴彈發射器模組（Enhanced Grenade Launcher Module，EGLM）的競標產品當中首次出現，而且為了用於增加在下掛於[XM8和](../Page/XM8突擊步槍.md "wikilink")[FN SCAR兩枝步槍後的性能評價](../Page/FN_SCAR突擊步槍.md "wikilink")。
 
 作為一般人都會犯下的錯誤，「AG」这个名字並**不**是源于「**G**ewehr 36」的“附挂配件”，而是[德语](../Page/德语.md "wikilink") **A**nbau-**G**ranatwerfer 的縮寫，字面上的意思是「附加型榴弹发射器」；而「36」之名则确实是來自原來的武器，也就是旨在提高的HK G36的性能。它也可通過增加配件改裝成一個獨立的[肩射型榴彈發射器武器系統](https://zh.wikipedia.org/wiki/榴弹发射器#肩射型榴弹发射器 "wikilink")，而且可以安裝[LLM01](../Page/LLM01戰術燈及雷射模組.md "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")及[雷射](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[模組以增加精度](https://zh.wikipedia.org/wiki/模組 "wikilink")。
 
@@ -10,7 +10,7 @@
 
 AG36是一具單發式武器，有類似[M79式設計的](../Page/M79榴彈發射器.md "wikilink")[中折式](../Page/中折式.md "wikilink")裝填型槍管。和美軍現役的[M203的設計相反](../Page/M203榴彈發射器.md "wikilink")，AG36的設計是橫向式裝填，並可以在必要時使用更長的[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")（例如[橡膠子彈](../Page/橡膠子彈.md "wikilink")、[防暴彈](https://zh.wikipedia.org/wiki/防暴彈 "wikilink")、[催淚彈](../Page/CS催淚性毒氣.md "wikilink")），因此使用起來比較靈活，可發射所有的40×46毫米低速榴彈系列。裝填彈藥時，要先壓住[扳機前端的保險桿](https://zh.wikipedia.org/wiki/扳機 "wikilink")，以槍管前端為[軸心向左轉開以裝填彈藥](https://zh.wikipedia.org/wiki/軸心 "wikilink")。因此當槍管打開時，就在左邊。它是通過專門[護木掛在步槍以上](https://zh.wikipedia.org/wiki/護木 "wikilink")，因此原來裝在步槍上的護木會被AG36所取代。此類武器的發射座下面具有一個連著[扳機護環的手動保險桿和一支方便舒適地握持的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，所以無論裝在傳統式還是[-{zh-hans:无托结构; zh-hant:犢牛式;}-步槍上都能方便使用](../Page/犢牛式_\(槍械\).md "wikilink")，也比起使用彈匣充當握把（如M16／M203組合）的榴彈發射器用起來舒適。針對熟練的使用者而同時設計其工程塑料製造的[立式標尺及](https://zh.wikipedia.org/wiki/立式標尺 "wikilink")[準星型瞄具](../Page/照準器.md "wikilink")，此瞄具可安裝於武器的左右兩邊。裝上立式標尺及準星型瞄具後最大距離是400公尺（437.45碼，1,312.34英尺）。立式標尺每一行增加50公尺（54.68碼），左邊（黃色）是用於在30公尺內發射近距離用彈藥，而右邊（白色）是用於發射範圍達350公尺的低速榴彈。在不使用時亦可折疊或拆卸下來。由於裝上[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，亦可安裝[激光瞄准器](https://zh.wikipedia.org/wiki/激光瞄准器 "wikilink")（LLM）或其他輔助瞄准器。另外，如果要把AG36由附加型榴弹发射器改装成為肩射型，只需要裝上[槍托](../Page/槍托.md "wikilink")组件就可。
 
-AG36的設計本來就是下掛於[HK G36](../Page/HK_G36突擊步槍.md "wikilink")，而可行的下掛對象是標準型（G36、G36E）或短型（G36K、G36KE）。但由於其模塊化設計的關係，因此AG36本身亦可以很容易去下掛於其他步槍，例如[M16](../Page/M16突擊步槍.md "wikilink")、[CAR-15](../Page/CAR-15卡賓槍.md "wikilink")、[M4／A1](../Page/M4卡賓槍.md "wikilink")、[加拿大柯爾特](https://zh.wikipedia.org/wiki/加拿大柯爾特 "wikilink")（前身為[迪瑪科](https://zh.wikipedia.org/wiki/迪瑪科 "wikilink")）的[C7](../Page/C7突擊步槍.md "wikilink")、[C8和](../Page/C8卡賓槍.md "wikilink")[同一間公司推出的](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")[HK416](../Page/HK416突擊步槍.md "wikilink")、[HK417](../Page/HK417自動步槍.md "wikilink")。
+AG36的設計本來就是下掛於[HK G36](../Page/HK_G36突擊步槍.md "wikilink")，而可行的下掛對象是標準型（G36、G36E）或短型（G36K、G36KE）。但由於其模塊化設計的關係，因此AG36本身亦可以很容易去下掛於其他步槍，例如[M16](../Page/M16突擊步槍.md "wikilink")、[CAR-15](../Page/CAR-15卡賓槍.md "wikilink")、[M4／A1](../Page/M4卡賓槍.md "wikilink")、[加拿大柯爾特](https://zh.wikipedia.org/wiki/加拿大柯爾特 "wikilink")（前身為[迪瑪科](https://zh.wikipedia.org/wiki/迪瑪科 "wikilink")）的[C7](../Page/C7突擊步槍.md "wikilink")、[C8和](../Page/C8卡賓槍.md "wikilink")[同一間公司推出的](../Page/黑克勒&科赫.md "wikilink")[HK416](../Page/HK416突擊步槍.md "wikilink")、[HK417](../Page/HK417自動步槍.md "wikilink")。
 
 [HK_G36_with_AG36.jpg](https://zh.wikipedia.org/wiki/File:HK_G36_with_AG36.jpg "fig:HK_G36_with_AG36.jpg")[卡宾枪](../Page/卡宾枪.md "wikilink")的HK AG36。\]\]
 
@@ -18,7 +18,7 @@ AG36的設計本來就是下掛於[HK G36](../Page/HK_G36突擊步槍.md "wikili
 
 ### L17 UGL和L123A2 UGL
 
-[H\&K_XM8_Carbine_attached_with_H\&K_AG36_Underbarrel_Grenade_Launcher.JPG](https://zh.wikipedia.org/wiki/File:H&K_XM8_Carbine_attached_with_H&K_AG36_Underbarrel_Grenade_Launcher.JPG "fig:H&K_XM8_Carbine_attached_with_H&K_AG36_Underbarrel_Grenade_Launcher.JPG")展出的[XM8及其下掛的HK](../Page/XM8突擊步槍.md "wikilink") AG36。\]\] [Operation_Red_Dagger_01.JPEG](https://zh.wikipedia.org/wiki/File:Operation_Red_Dagger_01.JPEG "fig:Operation_Red_Dagger_01.JPEG")[L85A2](../Page/SA80突擊步槍.md "wikilink")[步枪的L](../Page/突击步枪.md "wikilink")17A2 UGL。\]\] [L85A2_with_L123A1_UGL.jpg](https://zh.wikipedia.org/wiki/File:L85A2_with_L123A1_UGL.jpg "fig:L85A2_with_L123A1_UGL.jpg") [英国](https://zh.wikipedia.org/wiki/英国 "wikilink")**L17A1 UGL**和**L123A2 UGL**\[3\]（UGL，，意為：[槍管](../Page/槍管.md "wikilink")下掛式[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器#附加型榴弹发射器 "wikilink")）是一具下掛於槍管以下的[40毫米榴弹发射器](../Page/40毫米榴彈.md "wikilink")。L123A2 UGL主要是下掛於[英國陸軍的制式步槍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[L85A2](../Page/SA80突擊步槍.md "wikilink")，而較少量的L17A1主要是下掛於[英國特種部隊](https://zh.wikipedia.org/wiki/英國特種部隊 "wikilink")（，簡稱：UKSF）和[探路野戰排](https://zh.wikipedia.org/wiki/第16空中突擊旅 "wikilink")（）的[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")（[L119A1](../Page/C8卡賓槍.md "wikilink")）。兩者皆由[黑克勒-科赫以HK](../Page/黑克勒&科赫.md "wikilink") AG36作為基礎，經過改進後才設計和生產。其UGL在2003年在「Operation Telic」行動期間首次曝光。同時UGL取代了（簡稱：RGGS）。每個[步兵](../Page/步兵.md "wikilink")[营之下的](https://zh.wikipedia.org/wiki/营 "wikilink")[伍之中會有一名步兵的步槍下掛一具UGL](https://zh.wikipedia.org/wiki/伍_\(軍隊編制\) "wikilink")。
+[H\&K_XM8_Carbine_attached_with_H\&K_AG36_Underbarrel_Grenade_Launcher.JPG](https://zh.wikipedia.org/wiki/File:H&K_XM8_Carbine_attached_with_H&K_AG36_Underbarrel_Grenade_Launcher.JPG "fig:H&K_XM8_Carbine_attached_with_H&K_AG36_Underbarrel_Grenade_Launcher.JPG")展出的[XM8及其下掛的HK](../Page/XM8突擊步槍.md "wikilink") AG36。\]\] [Operation_Red_Dagger_01.JPEG](https://zh.wikipedia.org/wiki/File:Operation_Red_Dagger_01.JPEG "fig:Operation_Red_Dagger_01.JPEG")[L85A2](../Page/SA80突擊步槍.md "wikilink")[步枪的L](../Page/突击步枪.md "wikilink")17A2 UGL。\]\] [L85A2_with_L123A1_UGL.jpg](https://zh.wikipedia.org/wiki/File:L85A2_with_L123A1_UGL.jpg "fig:L85A2_with_L123A1_UGL.jpg") [英国](https://zh.wikipedia.org/wiki/英国 "wikilink")**L17A1 UGL**和**L123A2 UGL**\[3\]（UGL，，意為：[槍管](../Page/槍管.md "wikilink")下掛式[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器#附加型榴弹发射器 "wikilink")）是一具下掛於槍管以下的[40毫米榴弹发射器](../Page/40毫米榴彈.md "wikilink")。L123A2 UGL主要是下掛於[英國陸軍的制式步槍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[L85A2](../Page/SA80突擊步槍.md "wikilink")，而較少量的L17A1主要是下掛於[英國特種部隊](https://zh.wikipedia.org/wiki/英國特種部隊 "wikilink")（，簡稱：UKSF）和[探路野戰排](https://zh.wikipedia.org/wiki/第16空中突擊旅 "wikilink")（）的[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")（[L119A1](../Page/C8卡賓槍.md "wikilink")）。兩者皆由[黑克勒&科赫](../Page/黑克勒&科赫.md "wikilink")以HK AG36作為基礎，經過改進後才設計和生產。其UGL在2003年在「Operation Telic」行動期間首次曝光。同時UGL取代了（簡稱：RGGS）。每個[步兵](../Page/步兵.md "wikilink")[营之下的](https://zh.wikipedia.org/wiki/营 "wikilink")[伍之中會有一名步兵的步槍下掛一具UGL](https://zh.wikipedia.org/wiki/伍_\(軍隊編制\) "wikilink")。
 
 ### AG-C/EGLM
 
@@ -100,6 +100,7 @@ HK AG36榴彈發射器系列同時出現在不少[电影](../Page/电影.md "wik
   - [HK79附加型榴彈發射器](../Page/HK79附加型榴彈發射器.md "wikilink")
   - [HK AG-C/EGLM附加型榴彈發射器](https://zh.wikipedia.org/wiki/HK_AG-C/EGLM附加型榴彈發射器 "wikilink")
   - [HK169榴彈發射器](https://zh.wikipedia.org/wiki/HK169榴彈發射器 "wikilink")
+  - [HK369轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/HK369轉輪式榴彈發射器 "wikilink")
   - [HK GMG自動榴彈發射器](../Page/HK_GMG自動榴彈發射器.md "wikilink")
   - [M203榴彈發射器](../Page/M203榴彈發射器.md "wikilink")
   - [M320榴彈發射器](../Page/M320榴彈發射器.md "wikilink")
@@ -142,8 +143,8 @@ HK AG36榴彈發射器系列同時出現在不少[电影](../Page/电影.md "wik
 
   -   - 2009年12月下號：[2009布鲁加-托梅警用武器展轻武器呈现(下)](https://web.archive.org/web/20150213090054/http://gdwap.dooland.com/article.php?id=24754)
       - 2010年10月上號：[HK 40mm系列单发榴弹发射器发展之路](http://www.qbq.com.cn/a/bencandy.php?fid=32&id=1193)
-      - 2013年11月上號：[《2013—2014简氏步兵武器年鉴》前言](http://www.xzbu.com/8/view-4426098.htm)
-      - 2015年2月上號：[西方现役轻武器换装/补充计划盘点](http://www.xzbu.com/8/view-6696134.htm)
+      - 2013年11月上號：[《2013—2014简氏步兵武器年鉴》前言](https://web.archive.org/web/20140204022132/http://www.xzbu.com/8/view-4426098.htm)
+      - 2015年2月上號：[西方现役轻武器换装/补充计划盘点](https://web.archive.org/web/20150213134250/http://www.xzbu.com/8/view-6696134.htm)
 
 ## 外部連結
 
@@ -176,23 +177,14 @@ HK AG36榴彈發射器系列同時出現在不少[电影](../Page/电影.md "wik
 [Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink") [Category:黑克勒-科赫](https://zh.wikipedia.org/wiki/Category:黑克勒-科赫 "wikilink") [Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink") [Category:附加型榴彈發射器](https://zh.wikipedia.org/wiki/Category:附加型榴彈發射器 "wikilink") [Category:黑克勒-科赫榴彈發射器](https://zh.wikipedia.org/wiki/Category:黑克勒-科赫榴彈發射器 "wikilink") [Category:非致命性彈藥發射器](https://zh.wikipedia.org/wiki/Category:非致命性彈藥發射器 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink")
 
 1.  [army-technology.com Infanterist der Zukunft](http://www.army-technology.com/projects/idz/)
-
 2.  [Heckler & Koch subsystem leader IdZ](http://www.heckler-koch.de/HKWebNews/byItemID///19/3/3/15)
-
 3.  [DE\&S response to freedom of information request](http://www.whatdotheyknow.com/request/36563/response/96971/attach/3/07%2006%202010%20162425%20003%20Matthew%20Davis.pdf)
-
 4.  [Pressemiteilung von Heckler und Koch zum Infanteristen der Zukunft](http://www.heckler-koch.de/HKWebNews/byItemID///16//3/14)
-
 5.
-
 6.  Jones, Richard D. Jane's Infantry Weapons 2009/2010. Jane's Information Group; 35 edition（January 27, 2009）. ISBN 978-0710628695.
-
 7.  [SOJ.lt :: Lietuvos kariuomenė. Specialiųjų Operacijų Junginys (SOJ) "Aitvaras"](http://soj.lt/ginklai_technika/)
-
 8.
 9.  <http://www.specijalne-jedinice.com/Specijalna-brigada-2.html#sthash.UOMPAyg3.dpbs>
-
 10.
 11.
-
 12.

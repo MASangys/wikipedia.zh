@@ -22,6 +22,8 @@
 
 2011年10月8日，剩下從[瑪麗蒙到](https://zh.wikipedia.org/wiki/瑪麗蒙地鐵站 "wikilink")[港灣的](https://zh.wikipedia.org/wiki/港灣地鐵站 "wikilink")16.6公里，標誌著花了十年來完成的環線全線通車。\[13\]
 
+2017年6月18日，大士西延长线（裕群 - 大士连）通车
+
 ## 大型事故
 
 2004年4月20日，新加坡地鐵環線第一期的[尼誥大道站工地發生了嚴重意外](https://zh.wikipedia.org/wiki/尼誥大道塌陷事件 "wikilink")，由於護土牆未能承受周遭壓力，導致泥土塌陷，鋼架扭曲，兩部起重機損毀，大段路面塌陷。事件造成四名工人死亡，三人受傷。結果環線的第1期和第2期被迫延期。\[14\]\[15\]
@@ -216,56 +218,33 @@ SMRT地铁有限公司的電動車組維修保養工作分別由5個維修車廠
 [Category:新加坡铁路公司](https://zh.wikipedia.org/wiki/Category:新加坡铁路公司 "wikilink") [Category:新加坡地铁](https://zh.wikipedia.org/wiki/Category:新加坡地铁 "wikilink")
 
 1.
-
 2.  [Mass Rapid Transit Corporation, Singapore 1988](https://zh.wikipedia.org/wiki/新加坡地铁历史#mrt1988 "wikilink"), pg. 8-9
-
 3.
 4.
-
 5.
-
 6.
-
 7.  [Mass Rapid Transit Corporation, Singapore 1988](https://zh.wikipedia.org/wiki/新加坡地铁历史#mrt1988 "wikilink"), pg. 10
-
 8.  [Sharp 2005](https://zh.wikipedia.org/wiki/新加坡地铁历史#sharp2005 "wikilink"), pg. 109
-
 9.
-
 10.
-
 11.
-
 12.
 13.
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
 22.
 23.
 24.
-
 25.
-
 26.
-
 27.
 28.
-
 29.
-
 30.
-
 31.

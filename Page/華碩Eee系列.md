@@ -40,7 +40,9 @@ Asus Eee Pad Transformer 是使用[Google](../Page/Google.md "wikilink") [Androi
 
 </div>
 
-[Category:個人電腦](https://zh.wikipedia.org/wiki/Category:個人電腦 "wikilink") [Category:華碩產品](https://zh.wikipedia.org/wiki/Category:華碩產品 "wikilink")
+[分類:華碩筆記型電腦](https://zh.wikipedia.org/wiki/分類:華碩筆記型電腦 "wikilink")
+
+[Category:個人電腦](https://zh.wikipedia.org/wiki/Category:個人電腦 "wikilink")
 
 1.
 2.  [ASUS Debuts Desktop-Equivalent Eee PC - News and Analysis by PC Magazine](http://www.pcmag.com/article2/0,2817,2316317,00.asp)

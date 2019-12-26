@@ -433,33 +433,22 @@ Just can't help it.</p></td>
 [Category:東京事變的DVD](https://zh.wikipedia.org/wiki/Category:東京事變的DVD "wikilink") [Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
 13.
 14.
-
 15.
-
 16.
 17.
-
 18.
 19.
 20.

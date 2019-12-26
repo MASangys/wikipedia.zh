@@ -268,12 +268,6 @@
 
 ## <font size=small> 備註 </font>
 
-<div class="references-small">
-
-<references />
-
-</div>
-
 [Category:2004年UHF動畫](https://zh.wikipedia.org/wiki/Category:2004年UHF動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Megami_MAGAZINE](https://zh.wikipedia.org/wiki/Category:Megami_MAGAZINE "wikilink") [Category:变身女主角动画](https://zh.wikipedia.org/wiki/Category:变身女主角动画 "wikilink")
 
 1.  劇本上標記為「****」

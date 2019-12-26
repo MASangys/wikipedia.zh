@@ -93,39 +93,28 @@
 [Category:美國物理學家](https://zh.wikipedia.org/wiki/Category:美國物理學家 "wikilink") [Category:美國天文學家](https://zh.wikipedia.org/wiki/Category:美國天文學家 "wikilink") [Category:斯沃斯莫爾學院校友](https://zh.wikipedia.org/wiki/Category:斯沃斯莫爾學院校友 "wikilink") [Category:康乃爾大學校友](https://zh.wikipedia.org/wiki/Category:康乃爾大學校友 "wikilink") [Category:罹患白血病逝世者](https://zh.wikipedia.org/wiki/Category:罹患白血病逝世者 "wikilink") [Category:太空葬](https://zh.wikipedia.org/wiki/Category:太空葬 "wikilink") [Category:加速器物理学家](https://zh.wikipedia.org/wiki/Category:加速器物理学家 "wikilink")
 
 1.
-
 2.
 3.  ["Gerard K. O'Neill" *Notable Scientists: From 1900 to the Present*](https://zh.wikipedia.org/wiki/#GaleBio "wikilink")
-
 4.  ["Gerard K(itchen) O'Neill" *Contemporary Authors Online*](https://zh.wikipedia.org/wiki/#GaleAuth "wikilink")
-
 5.
-
 6.
 7.
 8.
-
 9.
 10.
 11.
-
 12.
-
 13.
 14.
 15. ["Sylvia Turlington Wed at Her Home" *New York Times*](https://zh.wikipedia.org/wiki/#Turlington50 "wikilink")
-
 16.
 17.
 18.
 19.
 20. [*Town Topics*, Princeton local newspaper](http://www.towntopics.com/may2808/obits.html)
-
 21.
 22.
-
 23.
-
 24.
 25.
 26.
@@ -133,51 +122,32 @@
 28.
 29.
 30. [O'Neill *The High Frontier* 1977](https://zh.wikipedia.org/wiki/#ONeill77 "wikilink"), p. 243
-
 31. [Astronaut Biographies: Former Astronauts](https://zh.wikipedia.org/wiki/#JSCBio "wikilink")
-
 32.
 33.
-
 34. [O'Neill *The High Frontier* 1977](https://zh.wikipedia.org/wiki/#ONeill77 "wikilink"), p. 233
-
 35.
-
 36.
 37. [O'Neill *The High Frontier* 1977](https://zh.wikipedia.org/wiki/#ONeill77 "wikilink"), p. 249
-
 38.
 39. [*About SSI*](https://zh.wikipedia.org/wiki/#AboutSSI "wikilink")
-
 40.
-
 41.
-
 42.
-
 43.
 44. [*SSI History*](https://zh.wikipedia.org/wiki/#SSIHistory "wikilink")
-
 45.
 46.
-
 47.
 48.
 49.
 50. [*Geostar Corporation Records 1983–1991*](https://zh.wikipedia.org/wiki/#SmitGeo "wikilink")
-
 51.
 52. ["O'Neill, Dr. Roger A." 2008](https://zh.wikipedia.org/wiki/#Roger08 "wikilink")
-
 53.
-
 54.
 55. [*Quarterly Launch Report* 3Q 1997](https://zh.wikipedia.org/wiki/#FAA1997 "wikilink")
-
 56. ["Pegasus HAPS Rocket Body Reentry Prediction" 2002](https://zh.wikipedia.org/wiki/#Debris02 "wikilink")
-
 57.
-
 58.
-
 59.

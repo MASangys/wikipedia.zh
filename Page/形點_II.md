@@ -26,55 +26,53 @@
 
 [SunYuenLongCentreoverview1_20070901.jpg](https://zh.wikipedia.org/wiki/File:SunYuenLongCentreoverview1_20070901.jpg "fig:SunYuenLongCentreoverview1_20070901.jpg")
 
-<div class="NavFrame collapsed" style="color: black; background-color: #FFFFFF; margin: 0 auto; padding: 0 10px; text-align: left;">
+<table>
+<thead>
+<tr class="header">
+<th><p>接駁交通列表</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><dl>
+<dt><a href="../Page/港鐵.md" title="wikilink">港鐵</a></dt>
 
-<div class="NavHead" style="background-color: #FFFFFF; margin: 0 auto; padding: 0 10px; font-weight:normal;">
+</dl>
+<ul>
+<li><font color="{{西鐵綫色彩}}">█</font><a href="../Page/西鐵綫.md" title="wikilink">西鐵綫</a>：<a href="../Page/元朗站_(西鐵綫).md" title="wikilink">元朗站</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/輕鐵" title="wikilink">輕鐵</a>：<a href="../Page/元朗站_(輕鐵).md" title="wikilink">元朗站</a></li>
+</ul>
+<dl>
+<dt>新元朗中心居民巴士總站</dt>
 
-**交通路線列表**
+</dl>
+<dl>
+<dt><a href="../Page/元朗站公共運輸交匯處.md" title="wikilink">元朗站公共運輸交匯處</a></dt>
 
-</div>
+</dl>
+<dl>
+<dt><a href="https://zh.wikipedia.org/wiki/紅色小巴" title="wikilink">紅色小巴</a></dt>
 
-<div class="NavContent" style="background-color: #FFFFFF; margin: 0 auto; padding: 0 10px;">
+</dl>
+<ul>
+<li>元朗至上水線[1]</li>
+<li><a href="../Page/爾巒.md" title="wikilink">爾巒</a>至元朗線</li>
+</ul>
+<dl>
+<dt><a href="../Page/元朗（東）巴士總站.md" title="wikilink">元朗（東）</a></dt>
 
-  - [港鐵](../Page/港鐵.md "wikilink")
+</dl>
+<dl>
+<dt><a href="https://zh.wikipedia.org/wiki/朗日路" title="wikilink">朗日路</a></dt>
 
-<!-- end list -->
+</dl>
+<dl>
+<dt><a href="../Page/青山公路.md" title="wikilink">青山公路</a> (元朗段)</dt>
 
-  - <font color="{{西鐵綫色彩}}">█</font>[西鐵綫](../Page/西鐵綫.md "wikilink")：[元朗站](../Page/元朗站_\(西鐵綫\).md "wikilink")
-  - [輕鐵](https://zh.wikipedia.org/wiki/輕鐵 "wikilink")：[元朗站](../Page/元朗站_\(輕鐵\).md "wikilink")
-
-<!-- end list -->
-
-  - 新元朗中心居民巴士總站
-
-<!-- end list -->
-
-  - [元朗站公共運輸交匯處](../Page/元朗站公共運輸交匯處.md "wikilink")
-
-<!-- end list -->
-
-  - [紅色小巴](https://zh.wikipedia.org/wiki/紅色小巴 "wikilink")
-
-<!-- end list -->
-
-  - 元朗至上水線\[1\]
-  - [爾巒](../Page/爾巒.md "wikilink")至元朗線
-
-<!-- end list -->
-
-  - [元朗（東）](../Page/元朗（東）巴士總站.md "wikilink")
-
-<!-- end list -->
-
-  - [朗日路](https://zh.wikipedia.org/wiki/朗日路 "wikilink")
-
-<!-- end list -->
-
-  - [青山公路](../Page/青山公路.md "wikilink") (元朗段)
-
-</div>
-
-</div>
+</dl></td>
+</tr>
+</tbody>
+</table>
 
 ## 參見
 

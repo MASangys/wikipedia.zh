@@ -38,13 +38,9 @@ W3C驗證服務的前身為Gerald Oskoboiny發起的一個計畫，*The Kinder, 
 [Category:万维网联盟](https://zh.wikipedia.org/wiki/Category:万维网联盟 "wikilink") [Category:网页设计](https://zh.wikipedia.org/wiki/Category:网页设计 "wikilink")
 
 1.  Castro, Elisabeth: *HTML, XHTML & CSS, Sixth Edition*, 第345-346頁. Visual Quickstart Guides, Peachpit Press, 2007. ISBN 0-321-43084-0
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.

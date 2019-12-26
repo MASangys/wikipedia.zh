@@ -1140,7 +1140,7 @@
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/金秀賢_(男演員).md" title="wikilink">金秀賢</a>、<a href="https://zh.wikipedia.org/wiki/裴秀智" title="wikilink">裴秀智</a>、<a href="../Page/玉澤演.md" title="wikilink">玉澤演</a>、<a href="https://zh.wikipedia.org/wiki/咸恩炡" title="wikilink">咸恩炡</a>、<a href="https://zh.wikipedia.org/wiki/IU" title="wikilink">IU</a>、<a href="https://zh.wikipedia.org/wiki/張祐榮" title="wikilink">張祐榮</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/李應福.md" title="wikilink">李應福</a>、<a href="https://zh.wikipedia.org/wiki/毛完日" title="wikilink">毛完日</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李應福.md" title="wikilink">李應福</a>、<a href="../Page/毛完日.md" title="wikilink">毛完日</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/朴惠蓮.md" title="wikilink">朴惠蓮</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1234,7 +1234,7 @@
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/姜素拉.md" title="wikilink">姜素拉</a>、<a href="https://zh.wikipedia.org/wiki/鄭珍雲" title="wikilink">鄭珍雲</a>、<a href="https://zh.wikipedia.org/wiki/朴智妍_(1993年出生)" title="wikilink">朴智妍</a>、<a href="https://zh.wikipedia.org/wiki/金孝靜" title="wikilink">孝琳</a>、<a href="../Page/林在範.md" title="wikilink">JB</a>、<a href="https://zh.wikipedia.org/wiki/朴書俊" title="wikilink">朴書俊</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/李應福.md" title="wikilink">李應福</a>、<a href="https://zh.wikipedia.org/wiki/毛完日" title="wikilink">毛完日</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李應福.md" title="wikilink">李應福</a>、<a href="../Page/毛完日.md" title="wikilink">毛完日</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/許星慧" title="wikilink">許星慧</a>、<a href="https://zh.wikipedia.org/wiki/張恩美" title="wikilink">張恩美</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1476,7 +1476,7 @@
 <td style="text-align: center;"><p><a href="../Page/Healer.md" title="wikilink">Healer</a><br />
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
-<td style="text-align: center;"><p><a href="../Page/池昌旭.md" title="wikilink">池昌旭</a>、<a href="../Page/劉智泰.md" title="wikilink">劉智泰</a>、<a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/池昌旭.md" title="wikilink">池昌旭</a>、<a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a>、<a href="../Page/劉智泰.md" title="wikilink">劉智泰</a></p></td>
 <td style="text-align: center;"><p>|<a href="../Page/李政燮.md" title="wikilink">李政燮</a>、<a href="https://zh.wikipedia.org/wiki/金振宇_(導演)" title="wikilink">金振宇</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/宋智娜.md" title="wikilink">宋智娜</a></p></td>
 <td style="text-align: center;"></td>
@@ -1654,7 +1654,7 @@
 </p></td>
 <td style="text-align: center;"><p>14</p></td>
 <td style="text-align: center;"><p><a href="../Page/張赫_(韓國).md" title="wikilink">張赫</a>、<a href="https://zh.wikipedia.org/wiki/樸素淡" title="wikilink">樸素淡</a>、<a href="../Page/尹賢旻.md" title="wikilink">尹賢旻</a>、<a href="../Page/朴世榮.md" title="wikilink">朴世榮</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/毛完日" title="wikilink">毛完日</a>、<a href="https://zh.wikipedia.org/wiki/李帝勳_(導演)" title="wikilink">李帝勳</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/毛完日.md" title="wikilink">毛完日</a>、<a href="https://zh.wikipedia.org/wiki/李帝勳_(導演)" title="wikilink">李帝勳</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金泰姬" title="wikilink">金泰姬</a></p></td>
 <td style="text-align: center;"><p>原作：<a href="https://zh.wikipedia.org/wiki/瑪莉·雪萊" title="wikilink">瑪莉·雪萊</a> 《<a href="../Page/科學怪人.md" title="wikilink">科學怪人</a>》</p></td>
 </tr>
@@ -2004,10 +2004,10 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2020年3月2日－<br />
 2020年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/快點來" title="wikilink">快點來</a><br />
+<td style="text-align: center;"><p><a href="../Page/快過來.md" title="wikilink">快過來</a><br />
 </p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="../Page/金明洙.md" title="wikilink">金明洙</a>、<a href="../Page/辛睿恩.md" title="wikilink">辛睿恩</a></p></td>
+<td style="text-align: center;"><p>32</p></td>
+<td style="text-align: center;"><p><a href="../Page/金明洙.md" title="wikilink">金明洙</a>、<a href="../Page/辛睿恩.md" title="wikilink">辛睿恩</a>、<a href="../Page/徐志焄.md" title="wikilink">徐志焄</a></p></td>
 <td style="text-align: center;"><p>池秉賢</p></td>
 <td style="text-align: center;"><p>朱華美</p></td>
 <td style="text-align: center;"></td>

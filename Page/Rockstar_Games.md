@@ -30,8 +30,8 @@
   - 《[鬼妮](https://zh.wikipedia.org/wiki/鬼妮 "wikilink")》（Oni）
   - 《[战士帮](https://zh.wikipedia.org/wiki/战士帮 "wikilink")》（The Warriors）
   - 《[-{zh-cn:荒野大镖客; zh-tw:碧血狂殺;}-](../Page/紅色死亡左輪.md "wikilink")》（Red Dead Revolver）
-  - 《[碧血狂殺](../Page/荒野大镖客：救赎.md "wikilink")》（Red Dead Redemption）
-  - 《[碧血狂殺2](../Page/碧血狂殺2.md "wikilink")》（Red Dead Redemption II）
+  - 《[荒野大镖客：救赎](../Page/荒野大镖客：救赎.md "wikilink")》（Red Dead Redemption）
+  - 《[荒野大镖客：救赎2](https://zh.wikipedia.org/wiki/荒野大镖客：救赎2 "wikilink")》（Red Dead Redemption II）
   - 《[黑色洛城](../Page/黑色洛城.md "wikilink")》（L.A. Noire）
   - 《[惡霸魯尼](../Page/惡霸魯尼.md "wikilink")》（Bully）
 

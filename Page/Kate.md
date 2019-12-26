@@ -6,6 +6,12 @@
 
 有一个能够编辑维基语法的模式。使用一个文件它能够分辨指令、维基指令、链接、标题、列表等。
 
+2014年，推出其项目的吉祥物——啄木鸟，由[钛山创作](https://zh.wikipedia.org/wiki/钛山 "wikilink")。\[1\]
+
+[Kate_editor_mascot_woodpecker.png](https://zh.wikipedia.org/wiki/File:Kate_editor_mascot_woodpecker.png "fig:Kate_editor_mascot_woodpecker.png")
+
+## 参考资料
+
 ## 外部链接
 
   - [官方网站](http://www.kate-editor.org/)（英语）
@@ -13,3 +19,5 @@
   - [kate 使用手冊](http://docs.kde.org/stable/en/kdesdk/kate/index.html)
 
 [Category:文本编辑器](https://zh.wikipedia.org/wiki/Category:文本编辑器 "wikilink") [Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")
+
+1.   Get an Edge in Editing|access-date=2017-07-20}}

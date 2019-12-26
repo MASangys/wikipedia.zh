@@ -169,11 +169,8 @@ SECL-1980/1（期間限定盤）</p></td>
 [Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本创作歌手](https://zh.wikipedia.org/wiki/Category:日本创作歌手 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
 
 1.  「」2008年11月1日播出時本人的發言。
-
 2.
 3.
 4.  <http://www.elisa-smile.com/information/>
-
 5.  [『ef - a tale of memories.』のHP](http://www.ef-memo.com/)（音量注意）本人的回答
-
 6.  [新レーベル『SACRA MUSIC』発足！ | プレスリリース | Sony Music Group Company Site](https://www.sme.co.jp/s/SME/pressrelease/detail/NEWS00366?ima=1257)

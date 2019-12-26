@@ -8,11 +8,11 @@ Galil有多種不同的衍生型，包括：作為標準步槍長度的**AR型**
 
 在1948年[第一次中東戰爭後](https://zh.wikipedia.org/wiki/第一次中東戰爭 "wikilink")，[以色列國防軍](../Page/以色列國防軍.md "wikilink")（IDF）由於大量採用各種舊式槍械，出現了彈藥種類太多、維修保養困難等的後勤問題，而必需儘快解決。在1955年以色列國防軍採用由以色列軍事工業（IMI）生產的[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")，但由於火力不足、有效射程短及後座力大等問題，以色列同年亦採用[FN FAL作制式步槍](../Page/FN_FAL自動步槍.md "wikilink")，並命名為（Romat—自動裝填步槍的縮寫）。
 
-少數的Romat在1956年[第二次中東戰爭首次出現](https://zh.wikipedia.org/wiki/第二次中東戰爭 "wikilink")，而在1967年7月的[第三次中东战争](../Page/第三次中东战争.md "wikilink")（又稱**六日战争**）中的Romat更成為了制式步槍。然而，Romat受到多種批評，例如步槍尺寸過大、太重、需要經常清潔，甚至令士兵丟棄手上的Romat而改用[AK-47](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")、M16A1、[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")等的武器。這時以色列領導人的終於意識到FAL的重量及長度問題，必須儘快換裝一種更準確、輕巧和堅硬的步槍。在軍事領導人經過一輪會議過後，決定使用[5.56×45毫米NATO](../Page/5.56×45mm_NATO.md "wikilink")（M193）作為彈藥。
+少數的Romat在1956年[第二次中東戰爭首次出現](https://zh.wikipedia.org/wiki/第二次中東戰爭 "wikilink")，而在1967年7月的[第三次中东战争](../Page/第三次中东战争.md "wikilink")（又稱**六日战争**）中的Romat更成為了制式步槍。然而，Romat受到多種批評，例如步槍尺寸過大、太重、需要經常清潔，甚至令士兵丟棄手上的Romat而改用[AK](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")、M16A1、[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")等的武器。這時以色列領導人的終於意識到FAL的重量及長度問題，必須儘快換裝一種更準確、輕巧和堅硬的步槍。在軍事領導人經過一輪會議過後，決定使用[5.56×45毫米NATO](../Page/5.56×45mm_NATO.md "wikilink")（M193）作為彈藥。
 
 ## 採用
 
-加利尔步枪在1972年[以色列國防軍](../Page/以色列國防軍.md "wikilink")（Israel Defense Forces，IDF）的新一代步槍競標中，在面對許多其他競爭槍種（其中包括：[M16A1](https://zh.wikipedia.org/wiki/M16突擊步槍#XM16E1和M16A1 "wikilink")、[斯通納63](../Page/斯通納63武器系統.md "wikilink")，[AK-47和](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")[HK33這些步槍](../Page/HK33突擊步槍.md "wikilink")）之下成功得標。得標後，加利爾就被大量生產，開始在[以色列國防軍](../Page/以色列國防軍.md "wikilink")以及其他軍種中服役，最終完全取代了Romat。
+加利尔步枪在1972年[以色列國防軍](../Page/以色列國防軍.md "wikilink")（Israel Defense Forces，IDF）的新一代步槍競標中，在面對許多其他競爭槍種（其中包括：[M16A1](https://zh.wikipedia.org/wiki/M16突擊步槍#XM16E1和M16A1 "wikilink")、[斯通納63](../Page/斯通納63武器系統.md "wikilink")，[AK和](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")[HK33這些步槍](../Page/HK33突擊步槍.md "wikilink")）之下成功得標。得標後，加利爾就被大量生產，開始在[以色列國防軍](../Page/以色列國防軍.md "wikilink")以及其他軍種中服役，最終完全取代了Romat。
 
 在[以色列](../Page/以色列.md "wikilink")本土，已知[以色列國防軍](../Page/以色列國防軍.md "wikilink")（[英文](../Page/英语.md "wikilink")：Israel Defence Forces，簡稱：IDF）和[以色列議會衛隊](https://zh.wikipedia.org/wiki/以色列議會衛隊 "wikilink")（英文：Knesset Guard）裝備了加利爾。\[1\]\[2\]但目前在以军第一线中加利尔已经被美製[M4](../Page/M4.md "wikilink")步槍所取代，只有炮兵、装甲兵等单位还在使用。
 
@@ -28,7 +28,7 @@ Galil有多種不同的衍生型，包括：作為標準步槍長度的**AR型**
 
 ## 設計
 
-加利爾的設計是以[芬兰](../Page/芬兰.md "wikilink")製[Rk 62的設計作為基礎](../Page/Rk_62突擊步槍.md "wikilink")\[4\]，並且改進其沙漠時的操作方式、搭配上[M16A1的](https://zh.wikipedia.org/wiki/M16突擊步槍#XM16E1和M16A1 "wikilink")[槍管](../Page/槍管.md "wikilink")、[斯通納63的](../Page/斯通納63武器系統.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")和[FN FAL的折疊式枪托](../Page/FN_FAL自動步槍.md "wikilink")，而Rk 62本身又是來自[前苏联的](../Page/苏联.md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")—[AK-47](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")。
+加利爾的設計是以[芬兰](../Page/芬兰.md "wikilink")製[Rk 62的設計作為基礎](../Page/Rk_62突擊步槍.md "wikilink")\[4\]，並且改進其沙漠時的操作方式、搭配上[M16A1的](https://zh.wikipedia.org/wiki/M16突擊步槍#XM16E1和M16A1 "wikilink")[槍管](../Page/槍管.md "wikilink")、[斯通納63的](../Page/斯通納63武器系統.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")和[FN FAL的折疊式枪托](../Page/FN_FAL自動步槍.md "wikilink")，而Rk 62本身又是來自[前苏联的](../Page/苏联.md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")—[AK](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")。
 
 早期型加利爾的[機匣是採用類似Rk](https://zh.wikipedia.org/wiki/機匣 "wikilink") 62的機匣，改為低成本的金屬沖壓方式生產，並且在[芬兰](../Page/芬兰.md "wikilink")的[赫尔辛基](../Page/赫尔辛基.md "wikilink")製造早期型版本。\[5\]。但由於[5.56×45毫米彈藥的膛壓比想像的較高](../Page/5.56×45mm_NATO.md "wikilink")，生產方式改為較沉重的銑削，導致加利爾比相同口徑的步槍還要更沉重。所有外部金屬表面都經過耐[腐蝕性的磷化處理](https://zh.wikipedia.org/wiki/腐蝕 "wikilink")，然後塗上[黑色](../Page/黑色.md "wikilink")的亮漆（除了[槍管](../Page/槍管.md "wikilink")，[氣動式系統和](../Page/氣動式_\(槍械\).md "wikilink")[準星部份外](https://zh.wikipedia.org/wiki/準星 "wikilink")）。
 
@@ -223,7 +223,7 @@ L形的照門有兩個預設的覘孔，分別在0—300米和300—500米時使
 
   - [加利爾狙擊型](../Page/IMI加利爾狙擊型步槍.md "wikilink")
   - [IWI加利爾ACE](../Page/IWI加利爾ACE突擊步槍.md "wikilink")
-  - [AK-47](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")
+  - [AK](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")
   - [M16突擊步槍](../Page/M16突擊步槍.md "wikilink")
   - [IMI Tavor TAR-21](../Page/IMI_TAR-21突擊步槍.md "wikilink")
   - [R4突擊步槍](../Page/R4突擊步槍.md "wikilink")
@@ -243,11 +243,11 @@ L形的照門有兩個預設的覘孔，分別在0—300米和300—500米時使
 
   - —[Israel Weapon Industries – manufacturer's page](https://web.archive.org/web/20160818063701/http://www.israel-weapon.com/?catid=%7B813E02F8-D6E3-48B1-A0D4-171BBDD46E28%7D)
 
-  - —[Israeli-Weapons.com](http://www.israeli-weapons.com/weapons/small_arms/galil/Galil.html)
+  - —[Israeli-Weapons.com](https://web.archive.org/web/20081206031156/http://www.israeli-weapons.com/weapons/small_arms/galil/Galil.html)
 
   - —[Galil 5.56 mm AR/ARM/SAR manual](http://www.nazarian.no/images/wep/700_465_galilopsman.pdf)
 
-  - —[Buddy Hinton collection](http://www.sturmgewehr.com/bhinton/Galil/)
+  - —[Buddy Hinton collection](https://web.archive.org/web/20050308190315/http://www.sturmgewehr.com/bhinton/Galil/)
 
   - —[Galil rifle information](https://web.archive.org/web/20070526100849/http://users.rcn.com/philistine/galil/Galil_Rifles.html)
 
@@ -262,30 +262,21 @@ L形的照門有兩個預設的覘孔，分別在0—300米和300—500米時使
 [Category:AK-47衍生枪](https://zh.wikipedia.org/wiki/Category:AK-47衍生枪 "wikilink") [Category:自动步枪](https://zh.wikipedia.org/wiki/Category:自动步枪 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:導氣式槍械](https://zh.wikipedia.org/wiki/Category:導氣式槍械 "wikilink") [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink") [Category:戰鬥步槍](https://zh.wikipedia.org/wiki/Category:戰鬥步槍 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:以色列军事](https://zh.wikipedia.org/wiki/Category:以色列军事 "wikilink") [Category:以色列槍械](https://zh.wikipedia.org/wiki/Category:以色列槍械 "wikilink")
 
 1.  Hogg, Ian (2002). Jane's Guns Recognition Guide. Jane's Information Group. ISBN 0-00-712760-X.
-
 2.  [Picture of the Knesset Guard on Israel's 52nd Independence Day armed with Galil](http://www.knesset.gov.il/guard/heb_html/dept_honor_guardl_3.asp), Israeli [Knesset](https://zh.wikipedia.org/wiki/Knesset "wikilink") Official Website.
-
 3.  <http://www.army.mil.za/equipment/weaponsystems/infantry/R4_R5%20Assault_Rifles.htm>
-
 4.  Kokalis, Peter. Weapons Tests And Evaluations: The Best Of Soldier Of Fortune. Paladin Press. 2001. pp253.
-
 5.
 6.
 7.
 8.  Jones, Richard D. Jane's Infantry Weapons 2009/2010. Jane's Information Group; 35 edition (January 27, 2009). ISBN 978-0710628695.
-
 9.
 10.
 11.
 12.
 13. <http://www.navy.mil/view_single.asp?id=42208>
-
 14.
-
 15. <https://sites.google.com/site/worldinventory/wiw_eu_france>
-
 16.
-
 17.
 18.
 19.
@@ -294,9 +285,7 @@ L形的照門有兩個預設的覘孔，分別在0—300米和300—500米時使
 22.
 23.
 24. <http://www.bits.de/public/articles/kw_nl/kleinwaffen-nl04-08eng.htm>
-
 25.
-
 26.
 27.
 28.

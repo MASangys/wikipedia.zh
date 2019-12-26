@@ -1,4 +1,4 @@
-**Lee**是一個[牛仔褲的品牌](https://zh.wikipedia.org/wiki/牛仔褲 "wikilink")，1889年成立於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[肯薩斯州的](https://zh.wikipedia.org/wiki/肯薩斯州 "wikilink")[沙里納](https://zh.wikipedia.org/wiki/沙里納 "wikilink")，目前總部設於[堪薩斯城](../Page/堪薩斯城_\(堪薩斯州\).md "wikilink")，由[VF Corporation經營](https://zh.wikipedia.org/wiki/VF_Corporation "wikilink")。
+**Lee**是一個[牛仔褲的品牌](https://zh.wikipedia.org/wiki/牛仔褲 "wikilink")，1889年成立於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[肯薩斯州的](https://zh.wikipedia.org/wiki/肯薩斯州 "wikilink")[沙里納](https://zh.wikipedia.org/wiki/沙里納 "wikilink")，目前總部設於[堪薩斯城](../Page/堪薩斯城_\(堪薩斯州\).md "wikilink")，由[Kontoor Brands Inc經營](https://zh.wikipedia.org/wiki/Kontoor_Brands_Inc "wikilink")。
 
 ## 歷史
 
@@ -25,10 +25,6 @@ H.D. Lee Mercantile公司在在美國堪薩斯創立，同時H.D.Lee先生便發
 **1949年-Lady Lee Rider**
 
 早在1949年Lee便為女士提供合身舒適的服裝，推出修身的女裝牛仔褲Lady Lee Riders系列。
-
-**1969年**
-
-Lee被具有豐富服裝行業經驗的VF集團收購，其營運和海外生產技術得以卓越的提升。
 
 **1995年-Lee正式登陸中國**
 

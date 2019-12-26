@@ -1,4 +1,4 @@
-这个**Google产品列表**列出了[Google](../Page/Google.md "wikilink")所有重要的自行开发或通过并购获得的桌面软件、手机、和互联网产品。这些产品或者是已经正式上线，或者在公测之中（Beta版），或者是[Google实验室的试验产品](https://zh.wikipedia.org/wiki/Google实验室 "wikilink")。下面的列表还包括以前的已经被合并、放弃或更名的产品。产品的功能，比如网络-{A|zh:搜索; zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
+**Google产品列表**列出了[Google](../Page/Google.md "wikilink")所有重要的自行开发或通过并购获得的桌面软件、手机、和互联网产品。这些产品或者是已经正式上线，或者在公测之中（Beta版），或者是[Google实验室的试验产品](https://zh.wikipedia.org/wiki/Google实验室 "wikilink")。下面的列表还包括以前的已经被合并、放弃或更名的产品。产品的功能，比如网络-{A|zh:搜索; zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 ## 网络产品
 
@@ -907,6 +907,8 @@
   - [Google Pixel](../Page/Google_Pixel.md "wikilink")
   - [Google Pixel 2](https://zh.wikipedia.org/wiki/Google_Pixel_2 "wikilink")
   - [Google Pixel 3](https://zh.wikipedia.org/wiki/Google_Pixel_3 "wikilink")
+  - [Google Pixel 3a](https://zh.wikipedia.org/wiki/Google_Pixel_3a "wikilink")
+  - [Google Pixel 4](https://zh.wikipedia.org/wiki/Google_Pixel_4 "wikilink")
 
 #### 平板
 

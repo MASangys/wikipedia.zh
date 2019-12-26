@@ -50,15 +50,10 @@ arXiv的存在是造就[科學出版業中所謂](https://zh.wikipedia.org/wiki/
 [Category:數字圖書館](https://zh.wikipedia.org/wiki/Category:數字圖書館 "wikilink") [Category:开放科学](https://zh.wikipedia.org/wiki/Category:开放科学 "wikilink") [Category:在线存档](https://zh.wikipedia.org/wiki/Category:在线存档 "wikilink")
 
 1.
-
 2.
-
 3.  .
-
 4.
 5.
 6.
-
 7.
-
 8.  [archivefreedom.org](http://www.archivefreedom.org/)

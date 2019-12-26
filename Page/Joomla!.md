@@ -32,6 +32,8 @@ Joomla\! 3.7 (2017年四月) 加入社群期待已久的自訂欄位功能，從
 
 Joomla\! 3.8 (2017年九月) 提供數個核心改進，例如更現代化的路由系統、最先進的 Sodium 加密演算法，還有大量核心程式碼的升級。最重要的是開始加入未來 Joomla\! 4 的相容中介層，提供第三方應用遷移的準備時間。
 
+Joomla\! 3.9 (2018年十月) 發佈3.9.0版本，原本3.9是作為4.x與3.x版本的最後緩衝版本，但為了修改系統核心以支援GDPR規範，3.9成為獨立的Joomla\!版本。\[4\]
+
 ## 發展路線
 
 目前的 Joomla\! 3.x 皆為 STS 短期支援，預計最近的一版 LTS 長期支援版會是 3.5。Joomla\! 4 則預計將移除許多 PHP 5.2 時代的殘留程式碼，整合前後台 Application 為單一入口，並導入 Composer 與 PSR 等目前流行的先進開發技術。而從 Joomla\! 3.x 開始加入的 UCM ([Unified Content Model](https://zh.wikipedia.org/wiki/Unified_Content_Model "wikilink")) 統一內容模型將成為往後版本建立 [CCK](https://zh.wikipedia.org/wiki/CCK "wikilink") 應用的基礎。
@@ -40,7 +42,11 @@ Joomla\!從2014年4月25日停止分為LTS、STS長短期支援的模式，以�
 
 3.8 至 3.9 是 3.x 系列的最後兩個版本，除了大量將原有程式碼升級到最現代化的水準之外，也開始提供相容未來 Joomla\! 4 的中介層。
 
-Joomla\! 4 目前正在內部開發中，主要特點是改用 Bootstrap4 、 Frameworks 2.0 並加入大量現代化前端技術如 Web component 、CSS Grid 與 Flex box 等，因此將放棄對舊型瀏覽器的支援度。另外核心程式碼也經過大量改寫，全面採用現代化 PHP 的開發標準，是自 1.6 以來最大的核心更動。且Joomla\! 4 的php版本最低要求為 PHP 7.0，這是因為PHP 7.0提供了更好的運作效能，且為了能夠繼續朝向未來的發展方向靠攏。\[4\]
+因為GDPR的原因，3.9成為獨立的發布版本，4.x版本的時間則向後推延。直到2019/09/21發佈的版本為3.9.12，發佈原因為漏洞修補。\[5\]
+
+3.10將成為3.x系列的最後一個版本，單純為Joomla\! 4.0的降階版本，作為3.x過渡到4.x的緩衝，給予Joomla\!網站管理員測試並升級4.0版本的過度。預期3.9.10將與Joomla\! 4.0同時發佈。\[6\]
+
+Joomla\! 4 是下一代Jomla\!的版本，作為第一位版本號，Joomla\!核心與介面都將有大幅度的變動，主要特點是改用 Bootstrap4 、 Frameworks 2.0 並加入大量現代化前端技術如 Web component 、CSS Grid 與 Flex box 等，因此將放棄對舊型瀏覽器的支援度。另外核心程式碼也經過大量改寫，全面採用現代化 PHP 的開發標準，是自 1.6 以來最大的核心更動。且Joomla\! 4 的php版本最低要求為 PHP 7.0，這是因為PHP 7.0提供了更好的運作效能，且為了能夠繼續朝向未來的發展方向靠攏。\[7\]Joomla\! 4.0最新的開發版本為2019年08月19日發佈的4.0.0 Alpha 11，預期將於2019年末或者2020年初發佈4.0 Bata，2020下半年度Joomla\! 4.0正式發表。
 
 ## Joomla\! 名稱的由來
 
@@ -50,7 +56,7 @@ Joomla\! 這個單字來自[斯瓦希里语](../Page/斯瓦希里语.md "wikilin
 
 ### 其他
 
-在2010年4月，微軟簽署了 Joomla\!的貢獻者協議（Joomla\! Contributor Agreement）。\[5\]\[6\] 提供WinCache這個針對在IIS下的PHP快取加速器。\[7\]
+在2010年4月，微軟簽署了 Joomla\!的貢獻者協議（Joomla\! Contributor Agreement）。\[8\]\[9\] 提供WinCache這個針對在IIS下的PHP快取加速器。\[10\]
 
 ## 架構
 
@@ -209,7 +215,10 @@ Joomla\!系統是一個通用性的網站系統，意指幾乎所有類型的網
 1.
 2.
 3.  [Joomla\!Framework Controller Usage](https://github.com/joomla/joomla-framework-controller#usage)
-4.
-5.  [Request for Comment: Joomla\! Contributor Agreement](http://community.joomla.org/blogs/leadership/1119-rfc-joomla-contributor-agreement.html)
-6.  [微軟簽署 Joomla\! 貢獻者協議](http://www.openfoundry.org/index.php?option=com_content&Itemid=144;isletter=1&id=2330&lang=en&task=view)
-7.  [Performance improvement in Joomla using WINCACHE user cache](http://blogs.iis.net/donraman/archive/2010/03/05/performance-improvement-in-joomla-using-wincache-user-cache.aspx)
+4.  {{ Cite web | date=2018-10-30 | url=<https://www.joomla.org/3/> | title=The Privacy Tool Suite by Joomla.3 | }}
+5.  {{ Cite news | newspaper=Joomla\! Developer Network™ | date=2019-09-24 | url=<https://www.joomla.org/announcements/release-news/5776-joomla-3-9-12.html> | title=Joomla\! 3.9.12 Release | }}
+6.  {{ Cite web | date=2019-08-13 | url=<https://www.joomla.org/3/> | title=The Privacy Tool Suite by Joomla.3 | }}
+7.
+8.  [Request for Comment: Joomla\! Contributor Agreement](http://community.joomla.org/blogs/leadership/1119-rfc-joomla-contributor-agreement.html)
+9.  [微軟簽署 Joomla\! 貢獻者協議](http://www.openfoundry.org/index.php?option=com_content&Itemid=144;isletter=1&id=2330&lang=en&task=view)
+10. [Performance improvement in Joomla using WINCACHE user cache](http://blogs.iis.net/donraman/archive/2010/03/05/performance-improvement-in-joomla-using-wincache-user-cache.aspx)

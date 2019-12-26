@@ -45,7 +45,7 @@
   - [《亂 Online》日本官方網站](https://web.archive.org/web/20090922023026/http://ranonline.jp/index.action)
   - [《亂 Online》馬來西亞官方網站](http://ran.myrosso.com/)
   - [《亂 Online》香港官方網站](https://web.archive.org/web/20080220071947/http://ran.runup.com.hk/index2.php)
-  - [《亂 Online》國际服官方網站](http://www.ran-world.com)
+  - [《亂 Online》國际服官方網站](https://web.archive.org/web/20150716000755/http://www.ran-world.com/)
 
 [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink")
 

@@ -28,6 +28,6 @@
 </div>
 
   - Ricoh Caplio GX100型錄（日文）
-  - [Ricoh Caplio GX100官方新聞稿（日文）](http://www.ricoh.co.jp/release/by_field/digital_camera/2007/0328.html)
+  - [Ricoh Caplio GX100官方新聞稿（日文）](https://web.archive.org/web/20070830193825/http://www.ricoh.co.jp/release/by_field/digital_camera/2007/0328.html)
 
 [Category:理光數位相機](https://zh.wikipedia.org/wiki/Category:理光數位相機 "wikilink")

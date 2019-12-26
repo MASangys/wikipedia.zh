@@ -227,7 +227,7 @@ NBA选秀状元随后獲得[NBA最有價值球員獎的球员有](https://zh.wik
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1958年NBA選秀" title="wikilink">1958</a></p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/艾爾金·貝勒" title="wikilink">艾爾金·貝勒</a></em>^*{{#tag:ref|貝勒雖然是选秀状元，但<a href="https://zh.wikipedia.org/wiki/蓋伊·羅傑斯" title="wikilink">蓋伊·羅傑斯已經透過</a><a href="https://zh.wikipedia.org/wiki/地域指名" title="wikilink">地域指名被選中了</a>。[27]|group="注"}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Basketball_player.svg" title="fig:Basketball_player.svg">Basketball_player.svg</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:Elgin_Baylor.jpeg" title="fig:Elgin_Baylor.jpeg">Elgin_Baylor.jpeg</a></p></td>
 <td></td>
 <td><p>前鋒</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">明尼亞波利斯湖人</a></p></td>
@@ -266,7 +266,7 @@ NBA选秀状元随后獲得[NBA最有價值球員獎的球员有](https://zh.wik
 <tr class="odd">
 <td><p><a href="../Page/1961年NBA選秀.md" title="wikilink">1961</a></p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/華特·貝拉米" title="wikilink">華特·貝拉米</a></em>^*</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Basketball_player.svg" title="fig:Basketball_player.svg">Basketball_player.svg</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:Walt_Bellamy_1972.JPG" title="fig:Walt_Bellamy_1972.JPG">Walt_Bellamy_1972.JPG</a></p></td>
 <td></td>
 <td><p>中鋒</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/華盛頓巫師" title="wikilink">芝加哥包裝工</a></p></td>
@@ -396,7 +396,7 @@ NBA选秀状元随后獲得[NBA最有價值球員獎的球员有](https://zh.wik
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/1971年NBA選秀" title="wikilink">1971</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/奧斯汀·凱爾" title="wikilink">奧斯汀·凱爾</a>^</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Basketball_player.svg" title="fig:Basketball_player.svg">Basketball_player.svg</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:Austin_Carr_(28061481448)_c.jpg" title="fig:替代=">替代=</a></p></td>
 <td></td>
 <td><p>後衛</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a></p></td>
@@ -1041,198 +1041,104 @@ NBA选秀状元随后獲得[NBA最有價值球員獎的球员有](https://zh.wik
 [Category:NBA选秀](https://zh.wikipedia.org/wiki/Category:NBA选秀 "wikilink") [Category:職業列表](https://zh.wikipedia.org/wiki/Category:職業列表 "wikilink")
 
 1.
-
 2.
-
 3.  除有特別說明外，數據皆為新人球季數值。
-
 4.
 5.
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
 13.
-
 14.
-
 15.
-
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.
-
 78.
-
 79.
-
 80.
-
 81.
-
 82.
-
 83.
-
 84.
-
 85.
-
 86.
-
 87.
-
 88.
-
 89.
-
 90.
-
 91.
-
 92.
-
 93.
-
 94.
-
 95.
-
 96.
-
 97.
-
 98.
-
 99.
-
 100. \[<http://m.startribune.com/sports/wolves/309936841.html?interstitial=true>| Karl-Anthony Towns taken No.1 by Wolves; Tyus Jones acquired in trade with Cavaliers\], *Star Tribune*, June 26, 2015
-
 101.
-
 102.

@@ -672,7 +672,7 @@
 
   - **（[田中基之](https://zh.wikipedia.org/wiki/田中基之 "wikilink")） 2011年9号～**
 
-  - （） 2011年11号～2015年14号，转移至《》继续连载
+  - （[柿崎正澄](https://zh.wikipedia.org/wiki/柿崎正澄 "wikilink")） 2011年11号～2015年14号，转移至《》继续连载
 
   - **[銀之匙 Silver Spoon](https://zh.wikipedia.org/wiki/銀之匙_Silver_Spoon "wikilink")（[荒川弘](../Page/荒川弘.md "wikilink")） 2011年19号～**
 
@@ -742,7 +742,7 @@
 
   - （） 2015年8号～47号
 
-  - **[棒球大联盟 2nd](https://zh.wikipedia.org/wiki/棒球大联盟 "wikilink")（[满田拓也](https://zh.wikipedia.org/wiki/满田拓也 "wikilink")） 2015年15号～**
+  - **[棒球大联盟2nd](https://zh.wikipedia.org/wiki/棒球大联盟2nd "wikilink")（[满田拓也](https://zh.wikipedia.org/wiki/满田拓也 "wikilink")） 2015年15号～**
 
   - [-{zh-tw:今際之國的闖關者;zh-hk:今際之國的有栖;zh-hans:弥留之国的爱丽丝}-](https://zh.wikipedia.org/wiki/今际之国的闯关者 "wikilink") 最终章（） 2015年19号～2016年14号
 
@@ -802,51 +802,55 @@
 
   - （倉地千尋） 2017年50号～52号
 
-  - **（原作：[七月镜一](https://zh.wikipedia.org/wiki/七月镜一 "wikilink")、作画：杉山铁平） 2018年1号～**
+  - （原作：[七月镜一](https://zh.wikipedia.org/wiki/七月镜一 "wikilink")、作画：杉山铁平） 2018年1号～2019年33号
 
   - **（） 2018年1号～**
 
-  - **苍穹的阿里阿德涅 （[八木教广](https://zh.wikipedia.org/wiki/八木教广 "wikilink")) 2018年2号\~**
+  - **苍穹的阿里阿德涅 （[八木教广](https://zh.wikipedia.org/wiki/八木教广 "wikilink")) 2018年2号～**
 
-  - （） 2018年3・4合并号\~2019年7号
+  - （） 2018年3・4合并号～2019年7号
 
-  - **（[畑健二郎](../Page/畑健二郎.md "wikilink")） 2018年12号\~**
+  - **（[畑健二郎](../Page/畑健二郎.md "wikilink")） 2018年12号～**
 
-  - **（[松江名俊](../Page/松江名俊.md "wikilink")） 2018年13号\~**
+  - **（[松江名俊](../Page/松江名俊.md "wikilink")） 2018年13号～**
 
-  - （柳生卓哉） 2018年14号\~2019年9号
+  - （柳生卓哉） 2018年14号～2019年9号
 
   - **篮球梦switch（波切敦） 2018年20号\~**
 
-  - Chrono Magia 时之召唤者与白刃新娘（土星） 2018年21号\~2018年29号
+  - Chrono Magia 时之召唤者与白刃新娘（土星） 2018年21号～2018年29号
 
-  - **5分後的世界（） 2018年22・23合并号\~**
+  - 5分後的世界（） 2018年22・23合并号～2019年41号
 
-  - **[名侦探柯南 零的日常](https://zh.wikipedia.org/wiki/名侦探柯南 "wikilink")（作者：，原案协作：[青山刚昌](https://zh.wikipedia.org/wiki/青山刚昌 "wikilink")） 2018年24号\~**
+  - **[名侦探柯南 零的日常](https://zh.wikipedia.org/wiki/名侦探柯南 "wikilink")（作者：，原案协作：[青山刚昌](https://zh.wikipedia.org/wiki/青山刚昌 "wikilink")） 2018年24号～**
 
-  - （直正也） 2018年47号\~51号
+  - （直正也） 2018年47号～51号
 
-  - **（原作：[河本焰](../Page/河本焰.md "wikilink")・武野光／作画：） 2018年49号\~**
+  - （原作：[河本焰](../Page/河本焰.md "wikilink")・武野光／作画：） 2018年49号～2019年40号
 
-  - 妹搜记录（西村啓） 2019年2・3合并号\~21・22合并号（转籍至《》继续连载）
+  - 妹搜记录（西村啓） 2019年2・3合并号～21・22合并号（转籍至《》继续连载）
 
-  - **FIRE RABBIT\!\!（） 2019年4・5合并号\~**
+  - **FIRE RABBIT\!\!（） 2019年4・5合并号～**
 
-  - （[福井苇火](https://zh.wikipedia.org/wiki/福井苇火 "wikilink")） 2019年6号\~32号
+  - （[福井苇火](https://zh.wikipedia.org/wiki/福井苇火 "wikilink")） 2019年6号～32号
 
-  - **水之女神今天也恋爱了吗？（三簾真也） 2019年7号\~**
+  - 水之女神今天也恋爱了吗？（三簾真也） 2019年7号～34号
 
-  - **废柴酱验证中（[福地翼](../Page/福地翼.md "wikilink")） 2019年21・22合并号\~**
+  - **废柴酱验证中（[福地翼](../Page/福地翼.md "wikilink")） 2019年21・22合并号～**
 
-  - **摩绪（[高桥留美子](../Page/高桥留美子.md "wikilink")） 2019年23号\~**
+  - **摩绪（[高桥留美子](../Page/高桥留美子.md "wikilink")） 2019年23号～**
 
-  - **只要优子也战斗（福井） 2019年24号\~**
+  - **只要优子也战斗（福井） 2019年24号～**
 
-  - **沦落者之夜（星野真） 2019年36・37合并号\~**
+  - **沦落者之夜（星野真） 2019年36・37合并号～**
 
-  - （茂木） 2019年38号\~42号
+  - （茂木） 2019年38号～42号
 
-  - **熬夜之歌（[琴山](../Page/琴山.md "wikilink")） 2019年39号\~**
+  - **夜曲（[琴山](../Page/琴山.md "wikilink")） 2019年39号～**
+
+  - **[名侦探柯南 警察学校篇 Wild Police Story](https://zh.wikipedia.org/wiki/名侦探柯南 "wikilink")（原作：[青山刚昌](https://zh.wikipedia.org/wiki/青山刚昌 "wikilink")，作画：） 2018年44号～**
+
+  - 完美女孩（） 2019年46号～49号
 
 ### 不詳
 

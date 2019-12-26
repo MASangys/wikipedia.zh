@@ -692,6 +692,8 @@
 | 2014年2月26日  | Motorcycle                 | [Super Junior Donghae & Eunhyuk](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink") | 始源       |
 | 2014年12月2日  | Be Alive                   | [金章勳](../Page/金章勳.md "wikilink")                                                       | 利特、強仁    |
 | 2015年4月20日  | I Wish                     | [M\&D](https://zh.wikipedia.org/wiki/金希澈&金政模 "wikilink")                               | 希澈       |
+| 2016年11月19日 | 蝴蝶睡姿                       | 宇宙膽小鬼                                                                                  | 希澈       |
+| 2017年2月17日  | 後遺症                        | 宇宙膽小鬼                                                                                  | 希澈       |
 
 ## 綜藝節目
 
@@ -851,12 +853,12 @@
 <td><p>46</p></td>
 </tr>
 <tr class="even">
-<td><p>2019年9月9日 - 至今</p></td>
+<td><p>2019年9月9日 - 2019年10月20日</p></td>
 <td><p><a href="http://tv.naver.com/sjreturns">NAVER TV</a><br />
 <a href="http://channels.vlive.tv/D744FD">V LIVE</a></p></td>
 <td><p><a href="../Page/SJ_returns_3.md" title="wikilink">SJ Returns 3</a></p></td>
 <td><p>利特、希澈、藝聲、神童、銀赫、東海、始源、厲旭、圭賢</p></td>
-<td></td>
+<td><p>54</p></td>
 </tr>
 </tbody>
 </table>
@@ -1063,6 +1065,13 @@ SMG頻道（中國）</p></td>
 <td><p><a href="../Page/Channel_A.md" title="wikilink">Channel A</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/給狗糧的男人_-_狗貓的旅行" title="wikilink">給狗糧的男人 - 狗貓的旅行</a></p></td>
 <td><p><a href="../Page/希澈.md" title="wikilink">希澈</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年10月25日－至今</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新西遊記7" title="wikilink">新西遊記7</a></p></td>
+<td><p><a href="../Page/圭賢.md" title="wikilink">圭賢</a></p></td>
 <td></td>
 </tr>
 </tbody>

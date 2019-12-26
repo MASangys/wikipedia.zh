@@ -36,11 +36,8 @@ GiPi在1963的[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[�
 [Category:義大利漫畫家](https://zh.wikipedia.org/wiki/Category:義大利漫畫家 "wikilink") [Category:1963年出生](https://zh.wikipedia.org/wiki/Category:1963年出生 "wikilink")
 
 1.  [Comic creator: Gipi (Gianni Pacinotti)](http://lambiek.net/artists/g/gipi.htm)
-
 2.
 3.  [First Second - Creators - Gipi](http://www.firstsecondbooks.com/gipi.html)
-
 4.
 5.  [Words Without Borders](http://www.wordswithoutborders.org/?lab=GipiRudickInterview)
-
 6.

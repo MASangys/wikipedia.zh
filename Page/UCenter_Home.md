@@ -312,7 +312,7 @@ UCenter Home的最低运行要求为
 
 ## 外部链接
 
-  - [产品页面](http://www.comsenz.com/products/uchome)
+  - [产品页面](https://web.archive.org/web/20090322152710/http://www.comsenz.com/products/uchome/)
   - [官方论坛](http://www.discuz.net/index.php?gid=141)
 
 [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:康盛創想](https://zh.wikipedia.org/wiki/Category:康盛創想 "wikilink")

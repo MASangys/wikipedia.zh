@@ -2,7 +2,7 @@
 
 [2008北京奧運舉行期間改名為高清奧運](https://zh.wikipedia.org/wiki/2008北京奧運 "wikilink")19台\[3\]，聯同[本港台](../Page/本港台.md "wikilink")、[奧運13台](../Page/動感資訊頻道.md "wikilink")、[奧運14台及](../Page/魅力資訊頻道.md "wikilink")[奧運15台全天候多角度直播奧運賽事](../Page/文化資訊頻道.md "wikilink")。
 
-由於配合亞洲電視數碼頻道重組，2009年4月1日，**亞洲電視高清頻道**被全天候24小時廣播的**[亞洲高清台](https://zh.wikipedia.org/wiki/亞洲高清台 "wikilink")**（HD aTV）所取代，即**[亞洲台](../Page/亞洲電視亞洲台.md "wikilink")**（aTV Asia）。該台號碼更改為12，簡稱aTV12。\[4\]
+由於配合亞洲電視數碼頻道重組，2009年4月1日，亞洲電視高清頻道被全天候24小時廣播的[亞洲高清台](https://zh.wikipedia.org/wiki/亞洲高清台 "wikilink")（HD aTV）所取代，即[亞洲台](../Page/亞洲電視亞洲台.md "wikilink")（aTV Asia）。該台號碼更改為12，簡稱aTV12。\[4\]
 
 ## 電視節目
 

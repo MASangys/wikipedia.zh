@@ -56,33 +56,19 @@ Java的java.util.Map定義了映射表。映射表是一種以索引和元素掛
 [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.

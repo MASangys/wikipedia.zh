@@ -91,7 +91,7 @@ SNOMED CT是[美国](../Page/美国.md "wikilink")联邦政府指定的一套[�
   - [IHTSDO 网站 - SNOMED 所有者主页](http://www.ihtsdo.org/)
   - [www.snomed.org（正在搬迁）](http://www.snomed.org)
   - [CAP SNOMED Terminology Solutions - SNOMED CT的原创者](http://www.capsts.org)
-  - [CliniClue SNOMED CT Browser - 免费软件下载](http://www.cliniclue.com)
+  - [CliniClue SNOMED CT Browser - 免费软件下载](https://web.archive.org/web/20190307094138/http://www.cliniclue.com/)
   - [UMLS-SNOMED 常见问题解答](http://www.nlm.nih.gov/research/umls/Snomed/snomed_faq.html)
   - [NHS Connecting for Health UK](https://web.archive.org/web/20061221170707/http://www.connectingforhealth.nhs.uk/terminology/snomed)
   - [SNOB - Desktop SNOMED Browser - 免费软件下载](https://web.archive.org/web/20150813205425/http://snob.eggbird.eu/)
@@ -102,13 +102,9 @@ SNOMED CT是[美国](../Page/美国.md "wikilink")联邦政府指定的一套[�
 [Category:医学分类](https://zh.wikipedia.org/wiki/Category:医学分类 "wikilink") [Category:受控医学词表](https://zh.wikipedia.org/wiki/Category:受控医学词表 "wikilink") [Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink")
 
 1.
-
 2.
 3.  <http://www.nlm.nih.gov/research/umls/Snomed/snomed_faq.html>
-
 4.  <http://www.healthdatamanagement.com/html/PortalStory.cfm?type=newprod&DID=7841>
-
 5.
 6.
-
 7.  <http://www.nlm.nih.gov/research/umls/Snomed/snomed_main.html>

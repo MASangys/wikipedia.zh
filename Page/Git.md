@@ -396,6 +396,10 @@ Git数据库中不变引用的对象将会被垃圾回收清除。Git命令可�
   - [Coding](https://coding.net/)
   - [gitlab](https://zh.wikipedia.org/wiki/gitlab "wikilink")
 
+## 参见
+
+  - [分布式版本控制](https://zh.wikipedia.org/wiki/分布式版本控制 "wikilink")
+
 ## 参考文献
 
 ## 外部链接
@@ -411,135 +415,70 @@ Git数据库中不变引用的对象将会被垃圾回收清除。Git命令可�
   - [git从入门到精通](https://web.archive.org/web/20141220234913/http://www.ihref.com/read-16369.html)P
   - [連猴子都能懂的Git入門指南](https://backlogtool.com/git-guide/tw/)
 
-## 参见
-
-  - [分布式版本控制](https://zh.wikipedia.org/wiki/分布式版本控制 "wikilink")
-
 {{-}}
 
 [Category:自由版本控制软件](https://zh.wikipedia.org/wiki/Category:自由版本控制软件 "wikilink") [Category:分布式版本控制系统](https://zh.wikipedia.org/wiki/Category:分布式版本控制系统 "wikilink") [Category:Perl软件](https://zh.wikipedia.org/wiki/Category:Perl软件 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink") [Category:2005年软件](https://zh.wikipedia.org/wiki/Category:2005年软件 "wikilink") [Category:Git](https://zh.wikipedia.org/wiki/Category:Git "wikilink")
 
 1.
-
 2.  [1](https://www.gnu.org/software/gnuit/)
-
 3.   "Some historical background" on git's predecessors
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.  （愚蠢或令人不爽的人，尤指男人）[2](http://dictionary.cambridge.org/dictionary/british/git)
-
 10.
-
 11. [gitFaq: Why the 'git' name?](http://git.or.cz/gitwiki/gitFaq#head-90fa13ebe170116f1586156e73b549cc2135b784)
-
 12. [LinusTalk200705Transcript](https://git.wiki.kernel.org/index.php/LinusTalk200705Transcript)
-
 13. [Linux-Kernel Archive: Kernel SCM saga](http://www.uwsg.iu.edu/hypermail/linux/kernel/0504.0/1540.html)
-
 14.
-
 15. [3](http://www.kernel.org/git)
-
 16. [Gerrit Code Review – Project Configuration File Format](https://gerrit-review.googlesource.com/Documentation/config-project-config.html)
-
 17. [Using GitHub for Windows with non-GitHub repositories](http://haacked.com/archive/2012/05/30/using-github-for-windows-with-non-github-repositories.aspx/)
-
 18.
-
 19. [Getting Started/Sources/Amarok git Tutorial - KDE TechBase](http://techbase.kde.org/Getting_Started/Sources/KDE_git-tutorial)
-
 20. [Using Repo and git (Android Open Source Project)](http://source.android.com/download/using-repo)
-
 21. [BlueZ » git access](http://www.bluez.org/development/git/)
-
 22.
-
 23. [git.debian.org git](http://git.debian.org)
-
-24. [digg.git - part 1 | Digg About](http://about.digg.com/blog/digggit-part-1)
-
+24.  Digg About |access-date=2010-04-27 |archive-url=<https://web.archive.org/web/20100211025622/http://about.digg.com/blog/digggit-part-1> |archive-date=2010-02-11 |dead-url=yes }}
 25. [TypicalgitUsage - dragonflywiki](http://wiki.dragonflybsd.org/index.cgi/TypicalgitUsage)
-
 26. [4](http://wikipedia.org/wiki/Drupal)
-
 27. [Download](http://elinks.or.cz/download.html)
-
 28.
-
 29.
-
 30.
-
 31. [git - GNOME Live\!](http://live.gnome.org/git)
-
 32. [gstreamer Wiki - gitDeveloperGuidelines](http://gstreamer.freedesktop.org/wiki/gitDeveloperGuidelines)
-
 33. [gthumb - GNOME Live\!](http://live.gnome.org/gthumb)
-
 34. [GTK+ - Download](http://www.gtk.org/download.html)
-
 35. [source repositories](http://www.gnu.org/software/hurd/rules/source_repositories.html)
-
 36. [Downloading jQuery - jQuery JavaScript Library](http://docs.jquery.com/Downloading_jQuery#git)
-
 37. [CCHIT's laika at master - gitHub](http://github.com/CCHIT/laika)
-
-38. [LilyPond, music notation for everyone](http://lilypond.org)
-
+38.
 39. [The Linux Mint Blog » Blog Archive » Mint to use Launchpad for translations, bugs, blueprints and github for code hosting and version control](http://www.linuxmint.com/blog/?p=970)
-
 40. [LMMS - Linux MultiMedia Studio](http://lmms.sourceforge.net)
-
 41. [Maemo - gitorious](http://maemo.gitorious.org/)
-
 42. [MeeGo - gitorious](http://meego.gitorious.org/)
-
 43. [Ruby on Rails: Merb](http://rubyonrails.org/merb/)
-
 44. [MooTools - a compact javascript framework](http://mootools.net/)
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50. [Prototype JavaScript framework: Contribute](http://prototypejs.org/contribute)
-
 51.
-
 52.
-
 53.
-
 54. [Using git for Samba Development - SambaWiki](http://wiki.samba.org/index.php/Using_git_for_Samba_Development)
-
 55. [SproutCore Documentation](http://www.sproutcore.com/documentation/hacking/)
-
 56. [Sugar Labs project hosting](http://git.sugarlabs.org/)
-
 57. [Accessing SWI-Prolog source](http://www.swi-prolog.org/git.html) via <a href="http://git-scm.com/">git</a>
-
 58. [git - VideoLAN Wiki](http://wiki.videolan.org/git)
-
 59. [gitWine - The Official Wine Wiki](http://wiki.winehq.org/gitWine)
-
 60. [Xiph git](http://git.xiph.org/)
-
 61. [X.Org Wiki - Development/git](http://www.x.org/wiki/Development/git)
-
 62.
 63.
