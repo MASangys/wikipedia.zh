@@ -260,20 +260,12 @@
 [Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink") [Category:嵐](https://zh.wikipedia.org/wiki/Category:嵐 "wikilink") [Category:2011年音樂](https://zh.wikipedia.org/wiki/Category:2011年音樂 "wikilink") [Category:2011年日本電視節目](https://zh.wikipedia.org/wiki/Category:2011年日本電視節目 "wikilink")
 
 1.  [第62回NHK紅白歌合戦](https://archive.is/20121220024925/www9.nhk.or.jp/kouhaku)
-
 2.  [7歲蘆田愛菜 人氣夯收視保證《紅白》破例提早開播](http://www.appledaily.com.tw/appledaily/article/entertainment/20111105/33793721)，《[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報_\(台灣\) "wikilink")》
-
 3.  《[藝能Knuckles](https://zh.wikipedia.org/wiki/實話Knuckles "wikilink")》2011年10月21日
-
 4.  芦田愛菜、鈴木福、夏川里美和秋川雅史不當作正式出场歌手计算。
-
 5.  包含《星下祈愿》、《小小世界》两曲。
-
 6.
 7.  两首歌的歌词有一定变化。
-
 8.  [【紅白歌合戦】レディー・ガガ、紅白用に歌詞アレンジ](http://www.oricon.co.jp/news/music/2005336/full/) [Oricon](../Page/Oricon.md "wikilink") 2011年12月31日付
-
 9.  [紅白歌合戦在地震灾区取得高收视率（日文）](http://www.yomiuri.co.jp/entertainment/news/20120102-OYT1T00168.htm) 読売新聞（2012年1月2日）2012年1月2日閲覧。
-
 10. [紅白歌合戦、SMAPが視聴率48.2%](http://www.daily.co.jp/newsflash/2012/01/04/0004721426.shtml)  Daily Sports（2012年1月4日）2012年1月4日閲覧。

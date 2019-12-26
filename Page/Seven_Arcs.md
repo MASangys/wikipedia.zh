@@ -1,12 +1,14 @@
-**株式會社Seven Arcs**（，）曾經是以[動畫的企畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、製作和版權管理為主要營業事項的[日本](../Page/日本.md "wikilink")企業。最廣為人知的作品是《[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")》\[1\]。2017年12月，為[東京放送控股](../Page/東京放送控股.md "wikilink")所收購。
+**株式會社Seven Arcs**（，）中文又稱七神器，是以[動畫的企畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、製作和版權管理為主要營業事項的[日本](../Page/日本.md "wikilink")企業。最廣為人知的作品是《[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")》\[1\]。2017年12月，為[東京放送控股](../Page/東京放送控股.md "wikilink")所收購。
 
 ## 概要、沿革
 
-2002年5月，有限公司出身的代表董事上村修以製作[電視動畫為目的創立](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")「Seven Arcs」，並藉2004年播放的《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》正式涉足製作電視動畫。
+原本是日本動畫製作公司旗下的成人動畫OVA製作分公司，2002年5月，Arcturus出身的代表董事上村修以製作[電視動畫為目的創立](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")「Seven Arcs」，但在建立之後的兩年間依然以製作成人向ova為主。後聘用[新房昭之](../Page/新房昭之.md "wikilink")並藉2004年播放的《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》正式涉足製作電視動畫。
 
 2012年將實質製作部門轉交同年成立的另外一間動畫工作室**株式會社[Seven Arcs Pictures](../Page/Seven_Arcs_Pictures.md "wikilink")**\[2\]之後，則改為從事企劃、製作、版權管理等業務。
 
 2017年12月26日，上村修出讓Seven Arcs，東京放送控股收購所有股份，納為旗下子公司。Seven Arcs與[TBS電視台](../Page/TBS電視台.md "wikilink")、[BS-TBS](../Page/BS-TBS.md "wikilink")形成TBS集團，協助該控股從事動畫方面的業務。\[3\]
+
+2019年10月1日Seven Arcs Pictures、Arcturus和Seven Arcs 3社合併為Seven Arcs公司\[4\]\[5\]。
 
 ## 製作作品
 
@@ -106,3 +108,5 @@
 1.  《[月刊Newtype](../Page/Newtype_\(雜誌\).md "wikilink")》第27巻第4號（2011年2月號），[角川書店](../Page/角川書店.md "wikilink")，2011年1月8號，第41頁。
 2.
 3.
+4.  合併公告、2019年（令和元年）8月26日付「官報」（号外第99号）62頁。
+5.

@@ -25,7 +25,7 @@ gridMathematica 有两种许可证选项可以选择。在 "gridMathematica Loca
 
 ## 外部链接
 
-  - [An interview with Schoeller Porter, Senior Software Engineer at Wolfram Research](http://www.winhpc.org/stories.php?story=06/10/30/0934868) by Ken Farmer, WinHPC.org, Monday October 30, 2006.
+  - [An interview with Schoeller Porter, Senior Software Engineer at Wolfram Research](https://web.archive.org/web/20151024051620/http://www.winhpc.org/stories.php?story=06%2F10%2F30%2F0934868) by Ken Farmer, WinHPC.org, Monday October 30, 2006.
   - [Exploration of the capabilities of gridMathematica on the Altix ia64 HPC machines](https://web.archive.org/web/20070903081944/http://www.vislab.uq.edu.au/research/hpc_altix/gridmathematica/), [University of Queensland](https://zh.wikipedia.org/wiki/University_of_Queensland "wikilink") VisLab.
   - [Special Projects: An Evaluation of Modified Newtonian Dynamics by Simulation in a Parallel Computing Environment](http://physunserver.furman.edu/projects/index.html), Furman University Physics Department.
   - [Getting on the Grid](https://web.archive.org/web/20120207011247/http://www.memagazine.org/contents/current/features/ongrid/ongrid.html), by Jean Thilmany, Mechanical Engineering, 2003.

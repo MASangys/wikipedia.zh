@@ -42,7 +42,7 @@
 
 ## 背景設定
 
-本作劇情設定在1753年至1783年間，場景主要發生在紐約、波士頓和郊區。主角是一位叫康納的英美混血兒，父親是英國人，母親是美國原住民。玩家將體驗康納的父親，到了第四章就會體驗康納的生活，當時他由莫霍克族（原住紐約州的印第安人）撫養長大。在英國殖民者進攻並燒毀了康納的村莊後，他最終走上一條對抗暴政（和聖殿騎士）的道​​路。本作的故事仍然以刺客組織與聖殿騎士的鬥爭為主線。
+本作劇情設定在1753年至1783年間，場景主要發生在紐約、波士頓和郊區。主角是一位叫康納的英美混血兒，父親是英國人，母親是美國原住民。玩家將體驗康納的父親，到了第四章就會體驗康納的生活，當時他由莫霍克族（原住紐約州的印第安人）撫養長大。在英國殖民者進攻並燒毀了康納的村莊後，他最終走上一條對抗暴政（和聖殿騎士）的道路。本作的故事仍然以刺客組織與聖殿騎士的鬥爭為主線。
 
 ## 劇情
 
@@ -99,9 +99,9 @@
 
 [Game Informer給予遊戲](../Page/Game_Informer.md "wikilink")9.5/10分，表示遊戲兌現了刺客教條系列一直以來給予玩家的一切而且作出了增加，大部分玩家或將以首六個小時為遊戲的規劃和野心感到驚嘆\[46\]；[G4認為遊戲並不完美](https://zh.wikipedia.org/wiki/G4 "wikilink")，但劇情、線上多人模式以及可進行的活動非常多，其他平均只提供約10小時的遊戲應感到羞恥\[47\]；[官方Xbox雜誌給予遊戲](https://zh.wikipedia.org/wiki/官方Xbox雜誌 "wikilink")8.5/10分，表示修繕了的遊玩方式和極豐富的歷史背景令人著迷，以一系列的隱悔但真實的方式改善了刺客教條系列的慣性，遊戲對敍事的認真投入不但少見而且令人印象深刻，但批評節奏問題有可能把劇情變得單調乏味\[48\]。
 
-PC Gamer給予遊戲72分，表示遊戲劇情富娛樂性和海軍任務出色但任務設計失敗，達文波特家園貶低了劇情和遊戲主題，狹窄的選擇性目標懲罰了喜愛自由思考的玩家，使遊戲鼓吹背誦佈局而非創意思考\[49\]。
+PC Gamer給予遊戲72分，表示遊戲劇情富娛樂性和海軍任務出色但任務設計失敗，達文波特家園貶低了劇情和遊戲主題，狹窄的選擇性目標懲罰了喜愛自由思考的玩家，使遊戲鼓吹背誦佈局而非創意思考\[49\]。 {{-}}
 
-## 注释
+## 参考资料 
 
 ## 外部連結
 
@@ -110,73 +110,43 @@ PC Gamer給予遊戲72分，表示遊戲劇情富娛樂性和海軍任務出色�
   - [繁中官方網站](http://www.ubisoft.com.tw/ac3/)
 
   -
-[Category:刺客教條系列電子遊戲](https://zh.wikipedia.org/wiki/Category:刺客教條系列電子遊戲 "wikilink") [Category:跑酷电子游戏](https://zh.wikipedia.org/wiki/Category:跑酷电子游戏 "wikilink") [Category:動作冒險遊戲](https://zh.wikipedia.org/wiki/Category:動作冒險遊戲 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:Wii_U遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:18世纪背景游戏](https://zh.wikipedia.org/wiki/Category:18世纪背景游戏 "wikilink") [Category:21世纪背景电子游戏](https://zh.wikipedia.org/wiki/Category:21世纪背景电子游戏 "wikilink") [Category:伦敦背景电子游戏](https://zh.wikipedia.org/wiki/Category:伦敦背景电子游戏 "wikilink") [Category:巴西背景电子游戏](https://zh.wikipedia.org/wiki/Category:巴西背景电子游戏 "wikilink") [Category:美国背景电子游戏](https://zh.wikipedia.org/wiki/Category:美国背景电子游戏 "wikilink") [Category:波士顿背景电子游戏](https://zh.wikipedia.org/wiki/Category:波士顿背景电子游戏 "wikilink") [Category:纽约背景电子游戏](https://zh.wikipedia.org/wiki/Category:纽约背景电子游戏 "wikilink") [Category:立體3D圖像遊戲](https://zh.wikipedia.org/wiki/Category:立體3D圖像遊戲 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:印第安人題材作品](https://zh.wikipedia.org/wiki/Category:印第安人題材作品 "wikilink")
+[Category:刺客教條系列電子遊戲](https://zh.wikipedia.org/wiki/Category:刺客教條系列電子遊戲 "wikilink") [Category:跑酷电子游戏](https://zh.wikipedia.org/wiki/Category:跑酷电子游戏 "wikilink") [Category:動作冒險遊戲](https://zh.wikipedia.org/wiki/Category:動作冒險遊戲 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:Wii_U遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:Xbox_One遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_One遊戲 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:18世纪背景游戏](https://zh.wikipedia.org/wiki/Category:18世纪背景游戏 "wikilink") [Category:21世纪背景电子游戏](https://zh.wikipedia.org/wiki/Category:21世纪背景电子游戏 "wikilink") [Category:伦敦背景电子游戏](https://zh.wikipedia.org/wiki/Category:伦敦背景电子游戏 "wikilink") [Category:巴西背景电子游戏](https://zh.wikipedia.org/wiki/Category:巴西背景电子游戏 "wikilink") [Category:美国背景电子游戏](https://zh.wikipedia.org/wiki/Category:美国背景电子游戏 "wikilink") [Category:波士顿背景电子游戏](https://zh.wikipedia.org/wiki/Category:波士顿背景电子游戏 "wikilink") [Category:纽约背景电子游戏](https://zh.wikipedia.org/wiki/Category:纽约背景电子游戏 "wikilink") [Category:立體3D圖像遊戲](https://zh.wikipedia.org/wiki/Category:立體3D圖像遊戲 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:印第安人題材作品](https://zh.wikipedia.org/wiki/Category:印第安人題材作品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
 19.
-
 20.
-
 21.
-
 22.
-
 23.
 24.
 25.
-
 26.
-
 27. [@育碧中国: 育碧“官方中文回归计划”新游戏作品-《\#刺客信条3\# 》简体中文版正式推出！ ​​​](https://weibo.com/1928890987/FltUIiVCo).新浪微博.2017-09-12.\[2017-09-12\].
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
 37.
 38.
@@ -186,13 +156,8 @@ PC Gamer給予遊戲72分，表示遊戲劇情富娛樂性和海軍任務出色�
 42.
 43.
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.

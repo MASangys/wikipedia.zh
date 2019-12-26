@@ -110,28 +110,16 @@ LastPass可以将数据库中的数据导出到[CSV文件](https://zh.wikipedia.
 [Category:密码管理器](https://zh.wikipedia.org/wiki/Category:密码管理器 "wikilink") [Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink") [Category:加密软件](https://zh.wikipedia.org/wiki/Category:加密软件 "wikilink") [Category:共享軟件](https://zh.wikipedia.org/wiki/Category:共享軟件 "wikilink") [Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink") [Category:2009年軟件](https://zh.wikipedia.org/wiki/Category:2009年軟件 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.  [Automation, partnerships drive Webroot revamp](http://download.cnet.com/8301-2007_4-20011731-12.html?tag=mncol;7n) cnet.com 2010-07-26.
-
 6.  [Sameer's commentary on making lastpass open source](http://forums.lastpass.com/viewtopic.php?f=12&t=8)
-
 7.
-
 8.  [LastPass 下载](https://lastpass.com/misc_download.php)
-
 9.  [Bookmarklets « LastPass User Manual](http://helpdesk.lastpass.com/bookmarklets/)
-
 10. [LastPass 评论](https://lastpass.com/whylastpass_reviews.php)
-
 11. [LastPass 技术](https://lastpass.com/whylastpass_technology.php)
-
 12. [LastPass Security Notification](http://blog.lastpass.com/2011/05/lastpass-security-notification.html)
-
 13. [LastPass 升级到高级版](https://lastpass.com/features_joinpremium.php)
-
 14. [LastPass Acquires Xmarks\!](http://blog.lastpass.com/2010/12/lastpass-acquires-xmarks.html)

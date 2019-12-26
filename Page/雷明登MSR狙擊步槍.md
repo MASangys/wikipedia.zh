@@ -4,7 +4,7 @@
 
 雷明登MSR狙擊步槍在2009年推出，研發目的是參與2009年1月15日[美國特種作戰司令部發出的一項名為](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")（簡稱：PSR）的合同並作為其中一個.338口徑狙擊平台，與其他槍械製造商所全新研製或既有型號的改進型進行競標。與其他精密狙擊步槍的候選型號相比，雷明登MSR的設計優勢是採用了模塊化設計，靈活性亦比較大。\[3\]
 
-目前雷明頓公司更已經為MSR申請[专利](../Page/专利.md "wikilink")。\[4\]亦可以在美國購買民用型，價格約為[$](../Page/美元.md "wikilink") 3,500。
+目前雷明頓公司更已經為MSR申請[专利](../Page/专利.md "wikilink")。\[4\]亦可以在美國購買民用型，價格約為[$](../Page/美元.md "wikilink")3,500。
 
 2013年3月7日，宣布雷明登MSR被為精度狙擊步槍競標中的獲勝者。同年3月8日，雷明登宣布其MSR在精密狙擊步槍競標中擊敗了其他的競標樣槍勝出，並於同年3月9日被公開證實。其次是他們將被授予一份在未來10年交付5,150枝步槍連[消聲器](../Page/抑制器.md "wikilink")，連同4,696,800發子彈，價值合共[$](../Page/美元.md "wikilink") 79,700,000的[合同](../Page/契约.md "wikilink")。\[5\]\[6\]同年9月12日，已將該合同授予[雷明登軍品分公司以生產該狙擊步槍](../Page/雷明登武器公司.md "wikilink")，同時還會採用另外兩家公司的其他系統組件，分別是巴恩斯子彈的[彈藥和先進的武器裝備總公司的](https://zh.wikipedia.org/wiki/彈藥 "wikilink")／[制退器和](../Page/砲口制動器.md "wikilink")[消聲器](../Page/抑制器.md "wikilink")；而這三家公司本身都是[自由集團的註冊成立](https://zh.wikipedia.org/wiki/自由集團 "wikilink")[子公司](../Page/子公司.md "wikilink")。\[7\]
 
@@ -42,7 +42,7 @@
 
 ### 供彈方式
 
-雷明登MSR是由一個可拆卸[彈匣](../Page/彈匣.md "wikilink")從下機匣彈匣口供彈，取代過去的狙擊步槍（[雷明登M24及](https://zh.wikipedia.org/wiki/M24狙擊步槍 "wikilink")[M40狙擊步槍](../Page/M40狙擊步槍.md "wikilink")）沿用自獵用步槍（[雷明登700步槍](../Page/雷明登700步槍.md "wikilink")系列）設計的[固定彈倉](../Page/彈匣.md "wikilink")，讓射手即使要面對大量目標也能夠維持不會很快就中斷的火力。彈匣具有雙排和單排兩種，容彈量也不相同，其中7.62×51毫米北約口徑、.338拉普麥格農和.338諾瑪麥格農口徑有5發和10發兩種可選，而.300溫徹斯特麥格農則只有7發，彈匣表面均有耐腐蝕的特氟隆（）塗層。[彈匣卡榫就在](https://zh.wikipedia.org/wiki/彈匣卡榫 "wikilink")[扳機護圈內](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，射手可以射擊手的食指在不離開扳機護圈以下拆卸彈匣及重新裝填。
+雷明登MSR是由一個可拆卸[彈匣](../Page/彈匣.md "wikilink")從下機匣彈匣口供彈，取代過去的狙擊步槍（[雷明登M24及](https://zh.wikipedia.org/wiki/M24狙擊步槍 "wikilink")[M40狙擊步槍](../Page/M40狙擊步槍.md "wikilink")）沿用自獵用步槍（[雷明登700步槍](../Page/雷明登700步槍.md "wikilink")系列）設計的[固定彈倉](../Page/彈匣.md "wikilink")，讓射手即使要面對大量目標也能夠維持不會很快就中斷的火力。彈匣具有雙排和單排兩種，容彈量也不相同，其中7.62×51毫米北約口徑、.338拉普麥格農和.338諾瑪麥格農口徑有5發和10發兩種可選，而.300溫徹斯特麥格農則只有7發，彈匣表面均有耐腐蝕的特氟隆（）塗層。[彈匣](../Page/彈匣.md "wikilink")卡榫就在[扳機護環內](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，射手可以射擊手的食指在不離開扳機護圈以下拆卸彈匣及重新裝填。
 
 ### 附件
 
@@ -61,6 +61,7 @@
 
   -   - [馬來西亞海軍](https://zh.wikipedia.org/wiki/馬來西亞海軍 "wikilink")[特種作戰部隊](https://zh.wikipedia.org/wiki/海軍特種作戰部隊 "wikilink")
 
+  -
   -
   -   - [美國特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")：雷明登MSR在（簡稱：PSR）計劃的招標中中標，獲美軍特種作戰部隊所採用，並命名為“Mk 21 Mod 0”。\[13\]
 
@@ -143,7 +144,7 @@
 
   - —[Modern Firearms—Remington MSR - Modular Sniper Rifle](http://world.guns.ru/sniper/sniper-rifles/usa/remington-msr-e.html)
 
-  - —[Remington Defense—MSR](http://www.remingtonmilitary.com/Firearms/Sniper%20Rifles/MSR.aspx)
+  - —[Remington Defense—MSR](https://web.archive.org/web/20111126101818/http://www.remingtonmilitary.com/Firearms/Sniper%20Rifles/MSR.aspx)
 
   - —[Remington M S R NEW Brochure](http://www.scribd.com/doc/33701769/Remington-M-S-R-NEW-Brochure)
 
@@ -152,7 +153,7 @@
   - —《輕兵器》雜誌—
 
       - 2010年6月上號：[雷明顿MSR模块化狙击出舱：美军下一个目标?](http://www.xzbu.com/8/view-1052518.htm)
-      - 2014年3月下號：[第十八届MILIPOL巴黎国际军警装备展览会呈送](http://www.xzbu.com/8/view-4926313.htm)
+      - 2014年3月下號：[第十八届MILIPOL巴黎国际军警装备展览会呈送](https://web.archive.org/web/20140331191503/http://www.xzbu.com/8/view-4926313.htm)
       - 2015年2月下號：[《2014～2015简氏步兵武器年鉴》前言](https://web.archive.org/web/20150218062555/http://gdwap.dooland.com/article.php?id=596424)
 
   - —《名枪》杂志第33卷： 2013枪展
@@ -200,27 +201,15 @@
 [Category:模塊化槍械](https://zh.wikipedia.org/wiki/Category:模塊化槍械 "wikilink") [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:.338_Lapua_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.338_Lapua_Magnum口徑槍械 "wikilink") [Category:.300_Winchester_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.300_Winchester_Magnum口徑槍械 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:美國狙擊步槍](https://zh.wikipedia.org/wiki/Category:美國狙擊步槍 "wikilink") [Category:雷明登槍械](https://zh.wikipedia.org/wiki/Category:雷明登槍械 "wikilink")
 
 1.  [Remington Wins USSOCOM PSR (Precision Sniper Rifle) Contact](http://www.thefirearmblog.com/blog/2013/09/13/remington-wins-ussocom-psr-precision-sniper-rifle-contact/) - Thefirearmblog.com, 13 September 2013
-
 2.  [U.S. Army looks to new sniper ammunition](http://www.military1.com/products/firearm-accessories/ammunition/article/538310-us-army-looks-to-new-sniper-ammunition) - Military1.com, 20 August 2014
-
 3.
-
 4.  [SOCOM PSR Contenders by Tom Beckstrand](http://www.tactical-life.com/online/tactical-weapons/socom-psr-contenders/)
-
 5.
-
 6.  [It’s Official: SOCOM PSR Contract awarded to Remington Defense](http://blogs.militarytimes.com/gearscout/2013/03/08/official-psr-contract-award/)  - Militarytimes.com/Gearscout, 8 March 2013
-
 7.  [Remington Defense Announces Multi-Million Dollar Precision Sniper Rifle Contract with U.S. Special Operations Command](http://www.remington.com/en/pages/news-and-resources/press-releases/2013/corporate/remingtondefenseannouncesmulti-milliondollarprecisionsniperriflecontract.aspx)  - Remington press release, 12 September 2013
-
 8.  [Army Vice Chief Focused on Lighter Soldier Kit](http://kitup.military.com/2015/06/army-vice-chief-focused-lighter.html) - Kitup.Military.com, 29 June 2015
-
 9.  [Marine Corps looks to field new sniper rifle](https://www.washingtonpost.com/news/checkpoint/wp/2015/07/24/marine-corps-looks-to-field-new-sniper-rifle/) - Washingtonpost.com, 24 July 2015
-
 10. [More Powerful, Special-Ops Sniper Rifle Unlikely for Marine Snipers](http://www.military.com/daily-news/2015/07/30/more-powerful-special-ops-sniper-rifle-unlikely-marine-snipers.html?ESRC=todayinmil.sm) - Military.com, 30 July 2015
-
 11. 操作這些積極高性能精密步槍時，將槍管作為消耗品是正常的做法。而持續使用一些火力非常強大的[手工子彈雖然會有更高的](https://zh.wikipedia.org/wiki/手工子彈 "wikilink")[槍口初速和威力](https://zh.wikipedia.org/wiki/槍口初速 "wikilink")，但是亦會導致雷明登MSR的喉嚨侵蝕更快，槍管的精度壽命亦會減少至只有1,000至2,000發。
-
 12. [Colombia Special Forces using Remington MSR](http://www.thefirearmblog.com/blog/2012/06/08/colombia-special-forces-using-remington-msr/) - Thefirearmblog.com, June 8, 2012
-
 13.

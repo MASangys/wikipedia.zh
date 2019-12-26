@@ -18,20 +18,13 @@ DC Shoes贊助不少單板滑雪手，[BMX單車手](https://zh.wikipedia.org/wi
 [Category:鞋類品牌](https://zh.wikipedia.org/wiki/Category:鞋類品牌 "wikilink") [Category:美國服裝品牌](https://zh.wikipedia.org/wiki/Category:美國服裝品牌 "wikilink") [Category:1994年成立的公司](https://zh.wikipedia.org/wiki/Category:1994年成立的公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.

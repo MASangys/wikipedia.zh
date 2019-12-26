@@ -39,6 +39,7 @@ Boom在2011年9月正式回歸《[強心臟](https://zh.wikipedia.org/wiki/強�
   - Cart Show
   - [驚人的星期六](../Page/驚人的星期六.md "wikilink")
   - Wanna one go s3
+  - [Eye Contact](../Page/Eye_Contact.md "wikilink")
 
 ## 其他出演
 

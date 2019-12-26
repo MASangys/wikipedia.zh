@@ -283,12 +283,6 @@ ISBN 978-4-8291-3856-4</p></td>
 
 ## 註腳
 
-<div class="references-small">
-
-<references />
-
-</div>
-
 ## 關聯項目
 
   - [機械人](https://zh.wikipedia.org/wiki/機械人 "wikilink")

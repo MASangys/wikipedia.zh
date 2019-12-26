@@ -36,7 +36,7 @@
 1.  [Penny Racers TV廣告](http://www.youtube.com/watch?v=Lmft-uYIZEQ)
 2.
 3.  [“choroQ混合！”誕生](http://www.tokyo-fashion.net/content/big5/game/2122.shtml)
-4.  [Extraction and Recreation of Design Changes Using a Neural Network](http://www.idemployee.id.tue.nl/g.w.m.rauterberg/conferences/CD_doNotOpen/ADC/final_paper/421.pdf)
+4.
 5.  [チョロＱ商品情報](http://www.takaratomy.co.jp/products/choroq/products.html)
 6.  [TAKARA TOMY 推出「Choro-Q 瑪利歐賽車 7」遙控車 提供遊戲對戰](http://gnn.gamer.com.tw/5/70095.html)
 7.  [チョロＱ学園](http://www2.tokai.or.jp/sumiya/choroq/choro0.html)

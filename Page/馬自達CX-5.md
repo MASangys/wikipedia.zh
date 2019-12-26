@@ -74,8 +74,8 @@ Image:2017 Mazda CX-5 (KF) Maxx 2WD wagon (2018-11-02) 02.jpg Image:Mazda CX-5 X
 [Category:2012年面世的汽車](https://zh.wikipedia.org/wiki/Category:2012年面世的汽車 "wikilink") [Category:馬自達車輛](https://zh.wikipedia.org/wiki/Category:馬自達車輛 "wikilink") [Category:跨界休旅車](https://zh.wikipedia.org/wiki/Category:跨界休旅車 "wikilink") [Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink") [Category:前輪驅動](https://zh.wikipedia.org/wiki/Category:前輪驅動 "wikilink") [Category:四輪驅動](https://zh.wikipedia.org/wiki/Category:四輪驅動 "wikilink")
 
 1.  在日本則為CX-7的後繼車款。
-2.  參看[【MAZDA】新型クロスオーバーSUVの車名「マツダ CX-5」を公表](http://www.mazda.co.jp/corporate/publicity/release/2011/201104/110418a.html)。
-3.  請見[【MAZDA】製品一覽](http://www.mazda.co.jp/corporate/profile/products/index.html)一文。
+2.  參看[【MAZDA】新型クロスオーバーSUVの車名「マツダ CX-5」を公表](http://www.mazda.co.jp/corporate/publicity/release/2011/201104/110418a.html) 。
+3.  請見[【MAZDA】製品一覽](http://www.mazda.co.jp/corporate/profile/products/index.html) 一文。
 4.  請看[AutoNet：1800Mpa鋼板防護沒問題，MAZDA CX-5 SKYACTIV-BODY有保障](http://mazda.autonet.com.tw/cgi-bin/file_view.cgi?b1100065M2032001)。
 5.  參考[MSN產業新聞：Skyactiv技術加持，全新Mazda CX-5日本正式上市](http://auto.msn.com.tw/news_content.aspx?sn=1202160001)。
 6.  [U-car車壇新聞：果然「天」價，Mazda CX-5開價129.9萬元上市](http://news.u-car.com.tw/17153.html)。

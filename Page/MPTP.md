@@ -59,26 +59,15 @@ MPTP在1947年第一次由Ziering等人用[溴苯](../Page/溴苯.md "wikilink")
 [Category:神经毒素](https://zh.wikipedia.org/wiki/Category:神经毒素 "wikilink") [Category:吡啶](https://zh.wikipedia.org/wiki/Category:吡啶 "wikilink")
 
 1.
-
 2.  {{ cite web | url = <http://www.ndineuroscience.com/userfiles/Parkinson's%20info.pdf> | title = PARKINSON’S DISEASE MODELS | publisher = Neuro Detective International | accessdate = 2012-03-06 }}
-
 3.  {{ cite journal | author = 罗琴，彭国光，王加才，王少君 | year = 2010 | title = MPTP诱导慢性帕金森病小鼠模型的实验研究 | journal = 重庆医科大学报 | volume = 2010 | issue = 8 | pages = 1149–1151 | url = <http://caod.oriprobe.com/articles/24182813/The_establishment_of_chronic_parkinson__s_desease_in_mouse_model_indud.htm> | accessdate = 2012-03-06 }}
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.  {{ cite web|url=<http://www.silsoe.cranfield.ac.uk/ieh/pdf/w21.pdf> |format=pdf |title=Pesticides and Parkinson's Disease - A Critical Review |publisher=Institute of Environment and Health, [Cranfield University](https://zh.wikipedia.org/wiki/Cranfield_University "wikilink") |date=October 2005 |deadurl=yes |archiveurl=<https://web.archive.org/web/20080227162019/http://www.silsoe.cranfield.ac.uk/ieh/pdf/w21.pdf> |archivedate=2008-02-27 }}
-
 10.
-
 11.
-
 12.
-
 13.

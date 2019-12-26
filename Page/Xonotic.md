@@ -36,12 +36,8 @@ Xonotic 0.6版于2012年3月8日放出，其新特性包括sRGB光线渲染、�
 [Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink") [Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink") [Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink") [Category:多人線上第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:多人線上第一人稱射擊遊戲 "wikilink")
 
 1.  [GPL游戏Nexuiz创始人授权非GPL使用](http://www.iteye.com/news/15330)
-
 2.  [Nexuiz社群对授权Illfonic开发商业版Nexuiz一事的声明](http://archive.alientrap.org/forum/viewtopic.php?f=4&t=6079)
-
 3.
 4.
-
 5.
-
 6.

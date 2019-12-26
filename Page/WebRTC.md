@@ -10,7 +10,7 @@ WebRTC在以下浏览器版本中开始支持。
       - [Microsoft Edge](../Page/Microsoft_Edge.md "wikilink")
       - [Google Chrome](../Page/Google_Chrome.md "wikilink") 23
       - [Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink") 22\[4\]
-      - [Opera](https://zh.wikipedia.org/wiki/Opera "wikilink") 18\[5\]
+      - [Opera](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink") 18\[5\]
       - [Safari](../Page/Safari.md "wikilink") 11\[6\]（仍处于开发者预览阶段）
   - Android端
       - Google Chrome 28（从版本29开始默认开启）
@@ -24,7 +24,7 @@ WebRTC在以下浏览器版本中开始支持。
 
 ### 支持历史细节
 
-  - [Google Chrome](../Page/Google_Chrome.md "wikilink")：2012年1月，將WebRTC整合進Dev Channel，同年6月又完成Stable Channel的20版的整合（2012年7月，PeerConnection與MediaStream仍必須透過<chrome://flags>`  page `來開啟）\[9\]。
+  - [Google Chrome](../Page/Google_Chrome.md "wikilink")：2012年1月，將WebRTC整合進Dev Channel，同年6月又完成Stable Channel的20版的整合（2012年7月，PeerConnection與MediaStream仍必須透過<chrome://flags>來開啟）\[9\]。
   - [Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")：2012年初Mozilla整合WebRTC入Firefox Alpha，此一版本的Audio Mixing已完成於Media Stream\[10\]。
       - 2012年4月，Mozilla展示Firefox中WebRTC的視訊對話 \[11\]。
       - 2013年6月，發佈22.0版本正式整合及支援WebRTC\[12\]。

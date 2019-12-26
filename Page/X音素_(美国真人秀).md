@@ -470,7 +470,7 @@
 ## 外部連結
 
   -
-  - [*The X Factor*](http://www.hulu.com/the-x-factor/) on [Hulu](../Page/Hulu.md "wikilink")
+  - [*The X Factor*](https://web.archive.org/web/20111226190812/http://www.hulu.com/the-x-factor) on [Hulu](../Page/Hulu.md "wikilink")
 
   -
   -
@@ -480,99 +480,56 @@
 [Category:美國電視劇](https://zh.wikipedia.org/wiki/Category:美國電視劇 "wikilink") [Category:FOX電視節目](https://zh.wikipedia.org/wiki/Category:FOX電視節目 "wikilink") [Category:美国电视真人秀](https://zh.wikipedia.org/wiki/Category:美国电视真人秀 "wikilink") [Category:演藝選拔節目](https://zh.wikipedia.org/wiki/Category:演藝選拔節目 "wikilink") [Category:英语电视节目](https://zh.wikipedia.org/wiki/Category:英语电视节目 "wikilink") [Category:歌唱比賽](https://zh.wikipedia.org/wiki/Category:歌唱比賽 "wikilink") [Category:X音素](https://zh.wikipedia.org/wiki/Category:X音素 "wikilink") [Category:2011年電視劇集](https://zh.wikipedia.org/wiki/Category:2011年電視劇集 "wikilink") [Category:美國音樂比賽](https://zh.wikipedia.org/wiki/Category:美國音樂比賽 "wikilink")
 
 1.
-
 2.
 3.  <http://www.billboard.com/#/news/x-factor-has-glitzy-premiere-complete-with-1005354392.story>
-
 4.
-
 5.
-
 6.
-
 7.
 8.   Retrieved January 11, 2010.
-
 9.
 10.
 11.
-
 12.
 13.
-
 14.
-
 15. 原計劃是[雪莉·柯爾](../Page/雪莉·柯爾.md "wikilink")為本節目的常態評委，但最後她只負責了洛杉磯和芝加哥的海選。
-
 16. [FOX Broadcasting Company – The X Factor USA – Simon Cowell's Brand New Singing Competition Comes To America Only On FOX](http://thexfactor.blogs.fox.com/2011/02/24/the-x-factor-unveils-dates-and-venues-for-the-5-million-auditions) . Thexfactor.blogs.fox.com. Retrieved on May 6, 2011.
-
 17. ['X Factor' USA breaks audition records in LA – X Factor USA News – US TV](http://www.digitalspy.co.uk/ustv/s141/the-x-factor-us/news/a311337/x-factor-usa-breaks-audition-records-in-la.html). Digital Spy (March 27, 2011). Retrieved on May 6, 2011.
-
 18. [The X Factor](http://www.on-camera-audiences.com/shows/show/337/The_X_Factor/). On Camera Audiences. Retrieved on May 6, 2011.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31. McGonigle, Molly. (March 25, 2011) [Simon Cowell on 'Idol': 'I watched it once' | Story | Wonderwall](http://wonderwall.msn.com/tv/simon-cowell-on-idol-i-would-have-gone-earlier-1611114.story) . Wonderwall.msn.com. Retrieved on May 6, 2011.
-
 32. [Cowell may prefer having two hosts for 'X Factor' – CTV News](http://www.ctv.ca/CTVNews/Entertainment/20110325/simon-cowell-could-hire-two-hosts-for-us-x-factor-110325/). Ctv.ca. Retrieved on May 6, 2011.
-
 33. Hibberd, James. (April 28, 2011) ['The X Factor': Corbin Bleu in talks to co-host | Inside TV | EW.com](http://insidetv.ew.com/2011/04/28/corbin-bleu-nicole-scherzinger-in-talks-to-host-x-factor/). Insidetv.ew.com. Retrieved on May 6, 2011.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
 41.
-
 42.
-
 43.
 44.
 45. Lindsay Powers, [Simon Cowell's X Factor Announces Prize: $5 Million Sony Music Record Deal](http://www.hollywoodreporter.com/news/simon-cowells-x-factor-announces-97082) From the [Hollywood Reporter](https://zh.wikipedia.org/wiki/Hollywood_Reporter "wikilink") (February 7, 2011). Retrieved on September 18, 2011.
-
 46. Liam Allen,[What is a £1m record deal?](http://www.bbc.co.uk/news/entertainment-arts-10654380) From [BBC](https://zh.wikipedia.org/wiki/BBC "wikilink") (July 21, 2010). Retrieved on September 18, 2011.
-
 47. Lara Martin, [Cowell admits 'X Factor USA' prize nerves](http://www.digitalspy.com/tv/s141/the-x-factor-us/news/a302575/cowell-admits-x-factor-usa-prize-nerves.html) From Digital Spy (February 7, 2011). Retrieved on September 18, 2011.
-
 48. Lara Martin, [Cowell admits 'X Factor USA' prize nerves](http://www.digitalspy.com/tv/s141/the-x-factor-us/news/a302575/cowell-admits-x-factor-usa-prize-nerves.html) From Digital Spy (February 7, 2011). Retrieved on September 18, 2011.
-
 49.
-
 50.
-
 51.
 52.
-
 53.
-
 54.

@@ -20,7 +20,7 @@
 
 2014年，她被提名[DMM成人獎最優秀女優獎](https://zh.wikipedia.org/wiki/DMM成人獎 "wikilink")。3月31日結束投票。必須是[DMM.com](../Page/DMM.com.md "wikilink")的會員才能進行網路投票（但是需要[信用卡](../Page/信用卡.md "wikilink")註冊）。3月10日當時已經宣布前3名以內\[11\]。
 
-在官方網站的簡介[プロフィール](http://www.julia-official.com/profile/index.html)以「在亞洲地區被稱為『東洋女神』」來介紹她。2014年4月11日到4月13日，在[上海參加](https://zh.wikipedia.org/wiki/上海 "wikilink")[上海國際展覽中心與](https://zh.wikipedia.org/wiki/上海國際展覽中心 "wikilink")[Men'sMax](https://zh.wikipedia.org/wiki/Men'sMax "wikilink")（メンズ・マックス）合作舉辦的「2014第十一屆上海國際成人展」（中文的問候影片已經釋出[1](http://mensmax.jp/event/aeshg2014)）。應該要註明，在中國她已經被稱為「**京香JULIA**」，名字來自她演出的成人電影《巨乳他人妻の肉交》當中的角色，由於不少中國人不懂日文，所以以為「京香」是她的名字。
+在官方網站的簡介[プロフィール](https://web.archive.org/web/20160305063951/http://www.julia-official.com/profile/index.html)以「在亞洲地區被稱為『東洋女神』」來介紹她。2014年4月11日到4月13日，在[上海參加](https://zh.wikipedia.org/wiki/上海 "wikilink")[上海國際展覽中心與](https://zh.wikipedia.org/wiki/上海國際展覽中心 "wikilink")[Men'sMax](https://zh.wikipedia.org/wiki/Men'sMax "wikilink")（メンズ・マックス）合作舉辦的「2014第十一屆上海國際成人展」（中文的問候影片已經釋出[1](http://mensmax.jp/event/aeshg2014)）。應該要註明，在中國她已經被稱為「**京香JULIA**」，名字來自她演出的成人電影《巨乳他人妻の肉交》當中的角色，由於不少中國人不懂日文，所以以為「京香」是她的名字。
 
 榮獲在從R18.com所提交的視頻在2015年12月亞洲娛樂博覽會舉行了澳門1銷售，她獲得了最佳女演員獎。
 
@@ -352,7 +352,7 @@
 
   - [OPPAI特設ページ JULIA](http://www.oppai-av.com/special/julia131018/index.html)
 
-  - [E-BODY 出演女優一覧 JULIA](http://www.av-e-body.com/actress/1004672/index.html)
+  - [E-BODY 出演女優一覧 JULIA](https://web.archive.org/web/20111108164421/http://av-e-body.com/actress/1004672/index.html)
 
   - [つくばテレビ 出演一覧 JULIA](http://www.cs959.com/products/list.php?name=julia&mode=search&x=-735&y=-45)
 
@@ -360,7 +360,7 @@
 
 [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:1987年出生](https://zh.wikipedia.org/wiki/Category:1987年出生 "wikilink") [Category:日本AV女優](https://zh.wikipedia.org/wiki/Category:日本AV女優 "wikilink") [Category:E-BODY女優](https://zh.wikipedia.org/wiki/Category:E-BODY女優 "wikilink") [Category:SOD女優](https://zh.wikipedia.org/wiki/Category:SOD女優 "wikilink") [Category:Max-A女優](https://zh.wikipedia.org/wiki/Category:Max-A女優 "wikilink") [Category:MOODYZ女優](https://zh.wikipedia.org/wiki/Category:MOODYZ女優 "wikilink") [Category:Prestige女優](https://zh.wikipedia.org/wiki/Category:Prestige女優 "wikilink") [Category:IDEAPOCKET女優](https://zh.wikipedia.org/wiki/Category:IDEAPOCKET女優 "wikilink") [Category:埼玉縣出身人物](https://zh.wikipedia.org/wiki/Category:埼玉縣出身人物 "wikilink")
 
-1.  [Julia Profile](http://www.julia-official.com/profile/index.html)2015年4月28日
+1.  [Julia Profile](http://www.julia-official.com/profile/index.html) 2015年4月28日
 2.  FLASH 2012年9月25日号 AV女優70人プライベート性調査23
 3.  復帰以前、デビューから休業までは100cm。[ポップスター（事務所の改称前）のデータ](http://megalodon.jp/2010-1226-0042-14/www.pop-star.jp/official/model.html)
 4.  [溜池ゴローも100cm](http://www.tameikegoro.jp/actress/-/detail/=/id=1004672/)

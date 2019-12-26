@@ -142,40 +142,23 @@
 [Category:純電動車](https://zh.wikipedia.org/wiki/Category:純電動車 "wikilink") [Category:2012年面世的汽車](https://zh.wikipedia.org/wiki/Category:2012年面世的汽車 "wikilink") [Category:特斯拉汽车](https://zh.wikipedia.org/wiki/Category:特斯拉汽车 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15.
-
 16.
-
 17. <http://www.safercar.gov/Vehicle+Shoppers/5-Star+Safety+Ratings/2011-Newer+Vehicles/Vehicle-Detail?vehicleId=7769>
-
 18. [“差半个小时我就在车里了！”独家采访特斯拉车主：车被烧成铁架 想想都后怕](http://newsxmwb.xinmin.cn/shanghaitan/2019/04/22/31518663.html?spm=C73544894212.P99790479609.0.0)
-
 19.
 20. [特斯拉：上海Model S自燃事件是由单个电池模组故障引起](https://cn.engadget.com/2019/06/28/tesla-issues-statement-regarding-shanghai-model-s-fire-accident/)
-
 21. [本港首宗Tesla離奇爆炸　新蒲崗停車場泊30分鐘後突然自焚](https://topick.hket.com/article/2349020/%E6%9C%AC%E6%B8%AF%E9%A6%96%E5%AE%97Tesla%E9%9B%A2%E5%A5%87%E7%88%86%E7%82%B8%E3%80%80%E6%96%B0%E8%92%B2%E5%B4%97%E5%81%9C%E8%BB%8A%E5%A0%B4%E6%B3%8A30%E5%88%86%E9%90%98%E5%BE%8C%E7%AA%81%E7%84%B6%E8%87%AA%E7%84%9A?mtc=10045)

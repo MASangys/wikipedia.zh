@@ -3274,7 +3274,7 @@ Fe<sub>2</sub>TiO<sub>4</sub></p></td>
 | Ti<sub>2</sub>S<sub>3</sub>                 | [三硫化二钛](https://zh.wikipedia.org/wiki/三硫化二钛 "wikilink")                                                              | 12039-16-6  |
 | Ti<sub>3</sub>O<sub>5</sub>                 | [五氧化三钛](https://zh.wikipedia.org/wiki/五氧化三钛 "wikilink")                                                              | 12065-65-5  |
 | TlBr                                        | [溴化亚铊](https://zh.wikipedia.org/wiki/溴化亚铊 "wikilink")                                                                | 7789-40-4   |
-| TlCHO<sub>2</sub>                           | [甲酸亚铊](https://zh.wikipedia.org/wiki/甲酸亚铊 "wikilink")                                                                | 992-98-3    |
+| TlCHO<sub>2</sub>                           | [甲酸亚铊](../Page/甲酸亚铊.md "wikilink")                                                                                   | 992-98-3    |
 | TlCN                                        | [氰化亚铊](https://zh.wikipedia.org/wiki/氰化亚铊 "wikilink")                                                                | 13453-34-4  |
 | TlC<sub>2</sub>H<sub>3</sub>O<sub>2</sub>   | [乙酸亚铊](../Page/乙酸亚铊.md "wikilink")                                                                                   | 563-68-8    |
 | TlC<sub>2</sub>H<sub>5</sub>O               | [乙醇亚铊](https://zh.wikipedia.org/wiki/乙醇亚铊 "wikilink")                                                                | 20398-06-5  |

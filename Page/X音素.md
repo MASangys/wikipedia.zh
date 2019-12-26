@@ -125,7 +125,7 @@ Hadise <small>(Season 2)</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/保加利亚" title="wikilink">保加利亚</a></p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/X_Factor_(Bulgaria)" title="wikilink">X Factor</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Nova_Television_(Bulgaria)" title="wikilink">NovaTv</a><br />
-<a href="http://xfactor.novatv.bg/">節目官方網站</a></p></td>
+<a href="https://web.archive.org/web/20160811234211/http://xfactor.novatv.bg/">節目官方網站</a></p></td>
 <td><p>Season 1, 2011: <a href="https://zh.wikipedia.org/wiki/Raffi_Bohosyan" title="wikilink">Raffi Bohosyan</a><br />
 Season 2, 2013: <a href="https://zh.wikipedia.org/wiki/Zhana_Bergendorff" title="wikilink">Zhana Bergendorff</a><br />
 Season 3, 2014-2015: <a href="https://zh.wikipedia.org/wiki/Slavin_Slavchev" title="wikilink">Slavin Slavchev</a><br />
@@ -368,7 +368,7 @@ Despina Kampouri <small>(audition shows)</small></p></td>
 <a href="http://www.rtlklub.hu/xfaktor/">節目官方網站</a><br />
 <small><em>After X, X - Mindent az X-Faktorról</em></small><br />
 <a href="https://zh.wikipedia.org/wiki/Cool_TV" title="wikilink">Cool TV</a><br />
-<a href="http://www.cooltv.hu/series/afterx/">節目官方網站</a></p></td>
+<a href="https://web.archive.org/web/20111208082518/http://www.cooltv.hu/series/afterx">節目官方網站</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/X-Faktor_(series_1)" title="wikilink">Season 1, 2010</a>: <a href="https://zh.wikipedia.org/wiki/Csaba_Vastag" title="wikilink">Csaba Vastag</a><br />
 <a href="https://zh.wikipedia.org/wiki/X-Faktor_(series_2)" title="wikilink">Season 2, 2011</a>: <a href="https://zh.wikipedia.org/wiki/Tibor_Kocsis" title="wikilink">Tibor Kocsis</a><br />
 Season 3, 2012: 即將播出</p></td>
@@ -424,7 +424,7 @@ Season 3, 2012: 即將播出</p></td>
 <a href="https://zh.wikipedia.org/wiki/Rai_4" title="wikilink">Rai 4</a> (2009-2010)<br />
 <a href="https://web.archive.org/web/20111219071854/http://www.xfactor.rai.it/">節目官方網站</a><br />
 <a href="https://zh.wikipedia.org/wiki/Sky_Uno" title="wikilink">Sky Uno</a> (2011)<br />
-<a href="http://www.xfactor.sky.it/">節目官方網站</a></p></td>
+<a href="https://web.archive.org/web/20190403204239/https://xfactor.sky.it/">節目官方網站</a></p></td>
 <td><p>Season 1, 2008: <a href="https://zh.wikipedia.org/wiki/Aram_Quartet" title="wikilink">Aram Quartet</a><br />
 Season 2, 2008-2009: <a href="https://zh.wikipedia.org/wiki/Matteo_Becucci" title="wikilink">Matteo Becucci</a><br />
 Season 3, 2009: <a href="https://zh.wikipedia.org/wiki/Marco_Mengoni" title="wikilink">Marco Mengoni</a><br />

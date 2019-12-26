@@ -92,6 +92,6 @@ StyleNite之夜门禁极严。
 4.  [VOGUE TV中国](http://video.vogue.com.cn/voguevideo_show_v1.php?vid=680)，www.video.vogue.com.cn，2011年9月5日检索
 5.  [Spiegel Online关于StyleNite](http://www.spiegel.de/panorama/gesellschaft/0,1518,741024,00.html)，www.spiegel.de，2011年1月22日检索
 6.  [超级盛会StyleNite](http://www.bild.de/lifestyle/mode-beauty/berlin-fashion-week/michalsky-stylenite-berlin-fashion-week-18763320.bild.html)，www.bild.de，2011年7月9日检索
-7.  [StyleNite演进成为一场大型娱乐时尚秀](http://www.styleranking.de/news/fashion-news/michael-michalskys-stylenite-avanciert-zu-groser-entertainment-fashionshow-id7643)，www.styleranking.de，2011年7月13日检索
+7.  [StyleNite演进成为一场大型娱乐时尚秀](http://www.styleranking.de/news/fashion-news/michael-michalskys-stylenite-avanciert-zu-groser-entertainment-fashionshow-id7643) ，www.styleranking.de，2011年7月13日检索
 8.  [盛况空前](http://www.faz.net/f30/common/Suchergebnis.aspx?term=michalsky&x=0&y=0&allchk=1)，www.faz.net，2011年1月23日检索
 9.  [宛若1929的派对](http://tmagazine.blogs.nytimes.com/2010/01/27/berlin-fashion-week-party-like-its-1929/?scp=5&sq=michalsky&st=nyt)，www.nytimes.com，2010年1月27日检索

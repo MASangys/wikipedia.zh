@@ -28,11 +28,7 @@
 
 1.
 2.
-
 3.
-
 4.
-
 5.
-
 6.  <http://www.aanda.org/index.php?option=com_article&access=standard&Itemid=129&url=/articles/aa/abs/2010/13/aa15472-10/aa15472-10.html>

@@ -63,32 +63,19 @@ Ameba是日本規模最大的[社交網路服務](../Page/社交網路服務.md 
 [Category:2004年建立的网站](https://zh.wikipedia.org/wiki/Category:2004年建立的网站 "wikilink") [Category:網誌](https://zh.wikipedia.org/wiki/Category:網誌 "wikilink") [Category:虛擬社群](https://zh.wikipedia.org/wiki/Category:虛擬社群 "wikilink") [Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:日本網站](https://zh.wikipedia.org/wiki/Category:日本網站 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
 13.
 14.
-
 15.
-
 16.
-
 17.

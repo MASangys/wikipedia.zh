@@ -6,7 +6,7 @@ UC0133年，新死亡先鋒揭發並介入木星帝國的陰謀，本作描寫�
 
 ## 登場人物
 
-  - 使用的台灣譯名參考自《機動戰士海盜GUNDAM》台灣角川版，香港譯名參考自《機動戰士海盜GUNDAM》文化傳信版。配音員為[SDGUNDAMG世代出演的聲優](https://zh.wikipedia.org/wiki/SDGUNDAMG世代 "wikilink")。
+  - 使用的台灣譯名參考自《機動戰士海盜GUNDAM》台灣角川版，香港譯名參考自《機動戰士海盜GUNDAM》文化傳信版。配音員為《[SDGUNDAMG世代](https://zh.wikipedia.org/wiki/SDGUNDAMG世代 "wikilink")》出演的聲優。
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@ UC0133年，新死亡先鋒揭發並介入木星帝國的陰謀，本作描寫�
 <!-- end list -->
 
   -
-    古雷．史多克駕駛的MS，與當時的機體相比屬大型機體。左臂裝有巨型鉗，右手持有雙筒激光槍。在與アマクサ的對戰中失去右腳。外型與ZZ GUNDAM相像，亦與在《機動戰士V GUNDAM 外傳》中「木星爺爺」駕駛的機體疑為相同機體。
+    古雷·史多克駕駛的MS，與當時的機體相比屬大型機體。左臂裝有巨型鉗，右手持有雙筒激光槍。在與アマクサ的對戰中失去右腳。外型與ZZ GUNDAM相像，亦與在《機動戰士V GUNDAM 外傳》中「木星爺爺」駕駛的機體疑為相同機體。
 
 <!-- end list -->
 
@@ -71,7 +71,7 @@ UC0133年，新死亡先鋒揭發並介入木星帝國的陰謀，本作描寫�
 <!-- end list -->
 
   -
-    木星帝國的新型MS，以海盜GUNDAM X2為基礎，注入木星帝國的技術製成的機體，又稱為「」。機體全高約18米，與X2改同樣因為木星帝國技術不足，無法完全重現GUNDAM的設計，因為機體有不少木星軍自行設計的裝備，亦因此無法將機體小型化。在故事中，由搭載了[-{zh-hans:阿姆罗·雷;zh-hk:阿寶·尼爾;zh-tw:阿姆羅·雷;}-戰鬥數據的生體電腦控制](../Page/阿姆羅·雷.md "wikilink")，具有壓倒性的戰鬥力，單機將三台海盜量產機擊毀，並消滅了基地的木星軍MS，最後在杜比安與史多克合力下擊毀。GGENERATION SPIRITS的機體介紹中提及此機體名稱源自於[天草四郎](../Page/天草四郎.md "wikilink")時貞。
+    木星帝國的新型MS，以海盜GUNDAM X2為基礎，注入木星帝國的技術製成的機體，又稱為「」。機體全高約18米，與X2改同樣因為木星帝國技術不足，無法完全重現GUNDAM的設計，因為機體有不少木星軍自行設計的裝備，亦因此無法將機體小型化。在故事中，由搭載了[-{zh-hans:阿姆罗·雷;zh-hk:阿寶·尼爾;zh-tw:阿姆羅·雷;}-戰鬥數據的生體電腦控制](../Page/阿姆羅·雷.md "wikilink")，具有壓倒性的戰鬥力，單機將三台海盜量產機擊毀，並消滅了基地的木星軍MS，最後在杜比安與史多克合力下擊毀。《GGENERATION SPIRITS》的機體介紹中提及此機體名稱源自於[天草四郎](../Page/天草四郎.md "wikilink")時貞。
 
 <!-- end list -->
 
@@ -81,7 +81,6 @@ UC0133年，新死亡先鋒揭發並介入木星帝國的陰謀，本作描寫�
 ## 漫畫
 
   - 日文版由[角川書店](../Page/角川書店.md "wikilink")出版發行，未有中文代理。
-
   -
 
 <table>
@@ -120,13 +119,5 @@ UC0133年，新死亡先鋒揭發並介入木星帝國的陰謀，本作描寫�
 <div class="references-small">
 
 </div>
-
-## 相關條目
-
-  - [機動戰士海盜鋼彈](https://zh.wikipedia.org/wiki/機動戰士海盜鋼彈 "wikilink")
-  - [機動戰士海盜高達 鋼鐵之七人](https://zh.wikipedia.org/wiki/機動戰士海盜高達_鋼鐵之七人 "wikilink")
-  - [機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")
-  - [機動戰士GUNDAM ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")
-  - [GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")
 
 [Category:GUNDAM_ACE](https://zh.wikipedia.org/wiki/Category:GUNDAM_ACE "wikilink") [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")

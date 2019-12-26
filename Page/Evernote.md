@@ -218,7 +218,7 @@ Evernote的竞争对手包括：\[17\]、、、[Microsoft OneNote](../Page/Micro
 
 {{-}}
 
-[Category:云存储](https://zh.wikipedia.org/wiki/Category:云存储 "wikilink") [Category:笔记软件](https://zh.wikipedia.org/wiki/Category:笔记软件 "wikilink") [Category:美國品牌](https://zh.wikipedia.org/wiki/Category:美國品牌 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:黑莓软件](https://zh.wikipedia.org/wiki/Category:黑莓软件 "wikilink") [Category:紅木城公司](https://zh.wikipedia.org/wiki/Category:紅木城公司 "wikilink") [Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink") [Category:数据同步](https://zh.wikipedia.org/wiki/Category:数据同步 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:2007年建立的网站](https://zh.wikipedia.org/wiki/Category:2007年建立的网站 "wikilink") [Category:行動軟體](https://zh.wikipedia.org/wiki/Category:行動軟體 "wikilink") [Category:美國私人公司](https://zh.wikipedia.org/wiki/Category:美國私人公司 "wikilink") [Category:社交書籤](https://zh.wikipedia.org/wiki/Category:社交書籤 "wikilink") [Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink") [Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
+[Category:云存储](https://zh.wikipedia.org/wiki/Category:云存储 "wikilink") [Category:笔记软件](https://zh.wikipedia.org/wiki/Category:笔记软件 "wikilink") [Category:美國品牌](https://zh.wikipedia.org/wiki/Category:美國品牌 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:黑莓软件](https://zh.wikipedia.org/wiki/Category:黑莓软件 "wikilink") [Category:紅木城公司](https://zh.wikipedia.org/wiki/Category:紅木城公司 "wikilink") [Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink") [Category:数据同步](https://zh.wikipedia.org/wiki/Category:数据同步 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:2007年建立的网站](https://zh.wikipedia.org/wiki/Category:2007年建立的网站 "wikilink") [Category:行動軟體](https://zh.wikipedia.org/wiki/Category:行動軟體 "wikilink") [Category:美國私人公司](https://zh.wikipedia.org/wiki/Category:美國私人公司 "wikilink") [Category:社交書籤](https://zh.wikipedia.org/wiki/Category:社交書籤 "wikilink") [Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink") [Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink") [Category:威比獎得主](https://zh.wikipedia.org/wiki/Category:威比獎得主 "wikilink")
 
 1.  Libin, Phil. [Evernote Public Launch\!](http://blog.evernote.com/2008/06/24/evernote-public-launch/)  Evernote博客 2008年6月24日
 2.  Little, Gary. [Why Evernote Is Winning with the Soft Stuff](http://blogs.forbes.com/nicoleperlroth/2011/07/13/why-evernote-is-winning-with-the-soft-stuff/) *Forbes*, July 13, 2011.
@@ -233,7 +233,7 @@ Evernote的竞争对手包括：\[17\]、、、[Microsoft OneNote](../Page/Micro
 11.
 12.
 13. <http://nevernote.sourceforge.net/>
-14. <http://peoplesnote.org/>
+14.
 15. <http://ploze.com/about>
 16. <https://itunes.apple.com/us/app/evermemo-free-simple-memo/id677990993?mt=8>
 17. [Memonic official website](http://www.memonic.com)

@@ -4,7 +4,7 @@
 
 Haha於1997年曾嘗試以嘻哈歌手出道\[1\]，後出身於嘻哈組合，2001年以《A/K/A Check Up》出道。
 
-2002年時，演出青春情景喜劇《》在劇中飾演一個惹事又抱有喜感的角色，充分地展示出他的喜劇細胞，得到大眾的注意，因此開拓了他的藝能之路。 成為韓國著名綜藝節目《[X-Man](../Page/X-Man_\(韓國節目\).md "wikilink")》的固定嘉賓，同時也擔任《[無限挑戰](../Page/無限挑戰.md "wikilink")》與《[Running Man](../Page/Running_Man.md "wikilink")》的主持人，並在電台擁有自己的節目《》。
+2002年時，曾演出青春情三四十景喜劇《》在劇中飾演一個惹事又抱有喜感的角色，充分地展示出他的喜劇細胞，得到大眾的注意，因此開拓了他的藝能之路。 成為韓國著名綜藝節目《[X-Man](../Page/X-Man_\(韓國節目\).md "wikilink")》的固定嘉賓，同時也擔任《[無限挑戰](../Page/無限挑戰.md "wikilink")》與《[Running Man](../Page/Running_Man.md "wikilink")》的主持人，並在電台擁有自己的節目《》。
 
 戲劇方面，Haha也曾經演出不少劇集及電影，包括《[彩虹羅曼史](../Page/彩虹羅曼史.md "wikilink")》、《》以及《元卓的天使》等，由於同時具有[歌手](../Page/歌手.md "wikilink")、[演員](../Page/演員.md "wikilink")及[主持等身分](https://zh.wikipedia.org/wiki/主持 "wikilink")，因而被人稱為「全能藝人」。於2008年2月入伍服役並於2010年3月回歸。
 
@@ -22,15 +22,15 @@ Haha於1997年曾嘗試以嘻哈歌手出道\[1\]，後出身於嘻哈組合，2
 
 ### 電影
 
-|       |                                      |    |
-| ----- | ------------------------------------ | -- |
-| 年份    | 片名                                   | 備註 |
-| 2005年 | 《》                                   |    |
-| 《》    |                                      |    |
-| 2006年 | 《》                                   |    |
-| 《》    | 與[金思朗](../Page/金思朗.md "wikilink")    |    |
-| 《》    | 飾演小混混                                |    |
-| 2016年 | 《[致命戀愛](../Page/致命戀愛.md "wikilink")》 | 客串 |
+|       |                                      |                                                      |
+| ----- | ------------------------------------ | ---------------------------------------------------- |
+| 年份    | 片名                                   | 備註                                                   |
+| 2005年 | 《》                                   | 與[延政勳](https://zh.wikipedia.org/wiki/延政勳 "wikilink") |
+| 《》    |                                      |                                                      |
+| 2006年 | 《》                                   |                                                      |
+| 《》    | 與[金思朗](../Page/金思朗.md "wikilink")    |                                                      |
+| 《》    | 飾演小混混                                |                                                      |
+| 2016年 | 《[致命戀愛](../Page/致命戀愛.md "wikilink")》 | 客串                                                   |
 
 ### 戲劇
 
@@ -145,6 +145,11 @@ Haha於1997年曾嘗試以嘻哈歌手出道\[1\]，後出身於嘻哈組合，2
 <td><p>2019年9月9日</p></td>
 <td><p><a href="../Page/Channel_A.md" title="wikilink">Channel A</a></p></td>
 <td><p>《<a href="../Page/Eye_Contact.md" title="wikilink">Eye Contact</a>》</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年10月5日－至今</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/sky_Drama" title="wikilink">sky Drama</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/We_Play" title="wikilink">We Play</a>》</p></td>
 </tr>
 </tbody>
 </table>

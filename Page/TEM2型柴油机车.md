@@ -4,7 +4,7 @@ TEM2型机车是在[TEM1型机车基础上改进而成的调车机车](../Page/T
 
 ## 发展历史
 
-[缩略图](https://zh.wikipedia.org/wiki/File:13.11.94_Bełżec_SM48-001_\(6483874953\).jpg "fig:缩略图") 1959年，根据[苏联交通部的要求](https://zh.wikipedia.org/wiki/苏联交通部 "wikilink")，布良斯克机械制造厂开始在[TEM1型柴油机车](../Page/TEM1型柴油机车.md "wikilink")的基础上，开发新一代功率更大的调车柴油机车。为此，[奔萨柴油机制造厂在](https://zh.wikipedia.org/wiki/奔萨柴油机制造厂 "wikilink")2Д50型柴油机的基础上研制了ПД1型[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，而[哈尔科夫电机制造厂亦研制了配套的ГП](https://zh.wikipedia.org/wiki/哈尔科夫电机制造厂 "wikilink")-300型直流牵引发电机。1960年，布良斯克机械制造厂试制了首两台TEM2型柴油机车，并在[莫斯科铁路局利霍博雷机务段投入运用考核](https://zh.wikipedia.org/wiki/莫斯科铁路局 "wikilink")。1961年，TEM2-0002号机车在[全苏铁道运输科学研究院的环形铁道试验线上进行了热工及牵引性能试验](https://zh.wikipedia.org/wiki/全苏铁道运输科学研究院 "wikilink")。由于TEM2型柴油机车仍属于苏联铁路第一代直流电传动柴油机车，并没有柴油机—发电机组恒功率励磁调节装置，因而试验结果显示机车的恒功调速范围较狭窄，无法充分利用柴油机的输出功率，若不采用[磁场削弱则机车最高恒功速度只能达到](https://zh.wikipedia.org/wiki/磁场削弱 "wikilink")37公里/小时。
+[缩略图](https://zh.wikipedia.org/wiki/File:SM48-086_locomotive.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:ТЭМ2У-8701,_Казахстан,_Карагандинская_область,_станция_Пришахтинская_\(Trainpix_101858\).jpg "fig:缩略图") 1959年，根据[苏联交通部的要求](https://zh.wikipedia.org/wiki/苏联交通部 "wikilink")，布良斯克机械制造厂开始在[TEM1型柴油机车](../Page/TEM1型柴油机车.md "wikilink")的基础上，开发新一代功率更大的调车柴油机车。为此，[奔萨柴油机制造厂在](https://zh.wikipedia.org/wiki/奔萨柴油机制造厂 "wikilink")2Д50型柴油机的基础上研制了ПД1型[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，而[哈尔科夫电机制造厂亦研制了配套的ГП](https://zh.wikipedia.org/wiki/哈尔科夫电机制造厂 "wikilink")-300型直流牵引发电机。1960年，布良斯克机械制造厂试制了首两台TEM2型柴油机车，并在[莫斯科铁路局利霍博雷机务段投入运用考核](https://zh.wikipedia.org/wiki/莫斯科铁路局 "wikilink")。1961年，TEM2-0002号机车在[全苏铁道运输科学研究院的环形铁道试验线上进行了热工及牵引性能试验](https://zh.wikipedia.org/wiki/全苏铁道运输科学研究院 "wikilink")。由于TEM2型柴油机车仍属于苏联铁路第一代直流电传动柴油机车，并没有柴油机—发电机组恒功率励磁调节装置，因而试验结果显示机车的恒功调速范围较狭窄，无法充分利用柴油机的输出功率，若不采用[磁场削弱则机车最高恒功速度只能达到](https://zh.wikipedia.org/wiki/磁场削弱 "wikilink")37公里/小时。
 
 经过长时间的试验和改进后，布良斯克机械制造厂于1967年开始批量生产TEM2型柴油机车，并在1968年停产TEM1型柴油机车。1969年至1979年间，位于乌克兰的[伏罗希洛夫格勒内燃机车制造厂亦按照相同的图纸批量生产TEM](../Page/卢甘斯克机车制造厂.md "wikilink")2型机车。由于该型机车的运用可靠性理想，从1970年起被列为苏联国家优质产品。从1960年至1975年，布良斯克机械制造厂共生产了2160台TEM2型机车，全部交付苏联交通部；伏罗希洛夫格勒工厂共生产了1000台，其中578台交付交通部，其余均交付路外厂矿企业使用。此后，又出现了TEM2A、TEM2M、TEM2U、TEM2UM、TEM2AM等众多改进型。至2000年，布良斯克机械制造厂才正式停产TEM2系列柴油机车，在整整四十年的生产里程中共制造了近9000台各种型号的TEM2系列柴油机车。
 
@@ -14,7 +14,7 @@ TEM2型柴油机车亦被出口到[波兰](https://zh.wikipedia.org/wiki/波兰 
 
 ### TEM2A
 
-即采用1435毫米标准轨距的TEM2型机车，供出口之用。
+TEM2A型柴油机车支持在1520毫米宽轨轨距和1435毫米标准轨距之间互换转向架，且支持调整车钩高度上至1054毫米下至880毫米。
 
 ### TEM2M
 

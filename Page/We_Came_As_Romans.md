@@ -105,69 +105,38 @@
 [Category:重金屬樂團](https://zh.wikipedia.org/wiki/Category:重金屬樂團 "wikilink") [Category:美國重金屬樂團](https://zh.wikipedia.org/wiki/Category:美國重金屬樂團 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:美國搖滾樂團](https://zh.wikipedia.org/wiki/Category:美國搖滾樂團 "wikilink") [Category:2005年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2005年成立的音樂團體 "wikilink") [Category:後硬蕊樂團](https://zh.wikipedia.org/wiki/Category:後硬蕊樂團 "wikilink") [Category:金屬蕊樂團](https://zh.wikipedia.org/wiki/Category:金屬蕊樂團 "wikilink") [Category:美國後硬蕊樂團](https://zh.wikipedia.org/wiki/Category:美國後硬蕊樂團 "wikilink")
 
 1.
-
 2.  [WCAR review at ABSOLUTEPUNK](http://www.absolutepunk.net/showthread.php?t=1099972)
-
 3.  [WCAR review at SPUTNIK](http://www.sputnikmusic.com/album.php?albumid=33932)
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.  [Joey Sturgis' Recording Schedule](http://calendar.yahoo.com/joeyismusic/public/month?date=20100611#)
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
 23.
-
 24.
-
 25.
-
 26. <http://www.altpress.com/features/entry/in_the_studio_exclusive_news_we_came_as_romans/>
-
 27.
-
 28. <http://itunes.apple.com/us/preorder/mis-understanding-single/id445420994>
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
 35.
-
 36.

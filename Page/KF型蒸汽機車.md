@@ -57,15 +57,10 @@
 
 [Category:中国蒸汽机车](https://zh.wikipedia.org/wiki/Category:中国蒸汽机车 "wikilink") [Category:4-8-4輪式機車](https://zh.wikipedia.org/wiki/Category:4-8-4輪式機車 "wikilink")
 
-1.  [机械系第一任系主任——应尚才生平简介](http://mece.njtu.edu.cn/xywh/lsjy/7476.htm)
-
+1.
 2.  [大英鐵路博物館 - KF型機車](http://Fwww.nrm.org.uk/~/media/Files/NRM/PDF/archiveslists/tech-files/1987-7001.pdf)；參見。
-
 3.  [上海地方志辦公室 上海鐵路志 第二篇運輸生產 第五章機務 第二節機車檢修。](http://www.shtong.gov.cn/newsite/node2/node2245/node68716/node68722/node68766/node68846/userobject1ai66620.html)
-
 4.  [上海地方志辦公室 上海鐵路志 第二篇運輸生產 第五章機務 第一節機車運用](http://www.shtong.gov.cn/newsite/node2/node2245/node68716/node68722/node68766/node68846/userobject1ai66619.html)
-
 5.  [上海地方志辦公室 上海鐵路志 第二篇運輸生產 第三章旅客運輸 第三節客運組織](http://www.shtong.gov.cn/newsite/node2/node2245/node68716/node68722/node68762/node68842/userobject1ai66600.html)
-
 6.
 7.

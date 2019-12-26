@@ -6,7 +6,7 @@
 
 ### 三年三班的「災厄」
 
-1973年開始，3年3班成員（學生和老師）及其有緊密關係的人不停死亡的現象。每月因災厄而死的人，最少一名。受災厄影響的除了當年3年3班學生外，包括班主任、學生們二等以內的親屬（如父母、兄弟姊妹、祖父母等等）。「災厄」令3年3班成為離死亡很近的班級。死因有很多，並且是隨時發生且難以預料的。不過離開夜見山市就可大大減低死亡的可能性，如果死因發生在夜見山市內，那麼無論當事人在市內或市外都會死亡。「災厄」不是每年都發生，有「災厄」出現的一年被稱為「有事的一年」。如果3年3班缺少一副桌椅的話，那麼那一年很可能就是「有事的一年」。据说成因为26年前，即1972年，3年3班一位高人氣的學生夜見山岬意外身亡，當時班上的老師及同學都不願接受夜見山的死亡，於是假裝其仍然在世。畢業典禮上他們還特意為夜見山準備座位，之後在畢業照上竟然出現已身亡的夜見山岬（Misaki）。
+1973年開始，3年3班成員（學生和老師）及其有緊密關係的人不停死亡的現象。每月因災厄而死的人，最少一名。受災厄影響的除了當年3年3班學生外，包括班主任、學生們二等以內的親屬（如父母、兄弟姊妹、祖父母等等）。「災厄」令3年3班成為離死亡很近的班級。死因有很多，並且是隨時發生且難以預料的。不過離開夜見山市就可大大減低死亡的可能性，如果死因發生在夜見山市內，那麼無論當事人在市內或市外都會死亡。「災厄」不是每年都發生，有「災厄」出現的一年被稱為「有事的一年」。如果3年3班缺少一副桌椅的話，那麼那一年很可能就是「有事的一年」。据说成因为26年前，即1972年，3年3班一位高人氣的學生見崎鳴意外身亡，當時班上的老師及同學都不願接受夜見山的死亡，於是假裝其仍然在世。畢業典禮上他們還特意為夜見山準備座位，之後在畢業照上竟然出現已身亡的見崎（Misaki）。
 
 因過往因災厄而死的人称为「死者」。有的一年中一名「死者」会不知不覺混入班中，就算當屆3年3班成員得知「死者」以前已死亡，也會因「死者」「復活」而失去有關的記憶。「死者」一定是3年3班的成員（同学或老师），本身會懼怕災厄，也不知道自己是「死者」。假若「死者」被杀死，事件中的人們記憶和有關紀錄會被合理的修改；倘若「死者」未能被殺，畢業後會回歸死亡
 
@@ -167,13 +167,14 @@
 <td><p>2011年12月29日</p></td>
 <td><p>ISBN 978-4-04-120044-5</p></td>
 </tr>
-<tr class="even">
-<td><p>0（番外篇）</p></td>
-<td><p>2012年5月26日</p></td>
-<td><p>ISBN 978-4-04-900816-6</p></td>
-</tr>
 </tbody>
 </table>
+
+  - Another 第0卷（番外篇）
+
+<!-- end list -->
+
+  - 2012年5月26日發售、ISBN 978-4-04-900816-6
 
 ## 电影
 
@@ -423,30 +424,21 @@
 ## 外部链接
 
   - [Web KADOKAWA](http://www.kadokawa.co.jp/another/)
-  - [动画官方网站](http://www.another-anime.jp/)
+  - [动画官方网站](https://www.webcitation.org/67jhmMyq1?url=http://www.another-anime.jp/)
   - [皇冠文化特設網頁](http://www.crown.com.tw/crown100/12Dec/512013.htm)
 
 [Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink") [Category:2009年小說](https://zh.wikipedia.org/wiki/Category:2009年小說 "wikilink") [Category:改編成電影的日本小說](https://zh.wikipedia.org/wiki/Category:改編成電影的日本小說 "wikilink") [Category:日本推理小說](https://zh.wikipedia.org/wiki/Category:日本推理小說 "wikilink") [Category:日本恐怖小說](https://zh.wikipedia.org/wiki/Category:日本恐怖小說 "wikilink") [Category:學校怪談題材作品](https://zh.wikipedia.org/wiki/Category:學校怪談題材作品 "wikilink") [Category:中學背景小說](https://zh.wikipedia.org/wiki/Category:中學背景小說 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink") [Category:2012年UHF動畫](https://zh.wikipedia.org/wiki/Category:2012年UHF動畫 "wikilink") [Category:小說改編動畫](https://zh.wikipedia.org/wiki/Category:小說改編動畫 "wikilink") [Category:恐怖動畫](https://zh.wikipedia.org/wiki/Category:恐怖動畫 "wikilink") [Category:日本恐怖片](https://zh.wikipedia.org/wiki/Category:日本恐怖片 "wikilink") [Category:日本惊悚片](https://zh.wikipedia.org/wiki/Category:日本惊悚片 "wikilink") [Category:詛咒題材作品](https://zh.wikipedia.org/wiki/Category:詛咒題材作品 "wikilink") [Category:死亡題材小說](https://zh.wikipedia.org/wiki/Category:死亡題材小說 "wikilink") [Category:中學背景漫畫](https://zh.wikipedia.org/wiki/Category:中學背景漫畫 "wikilink") [Category:中學背景動畫](https://zh.wikipedia.org/wiki/Category:中學背景動畫 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
 13.

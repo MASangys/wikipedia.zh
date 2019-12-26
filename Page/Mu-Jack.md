@@ -141,7 +141,7 @@
 
 ## 外部連結
 
-  - [KTV mu-Jack](http://ktv.jp/mujack/index.html)
+  - [KTV mu-Jack](https://web.archive.org/web/20100723173742/http://ktv.jp/mujack/index.html)
 
 [Category:日本電視音樂節目](https://zh.wikipedia.org/wiki/Category:日本電視音樂節目 "wikilink") [Category:2007年日本電視節目](https://zh.wikipedia.org/wiki/Category:2007年日本電視節目 "wikilink")
 

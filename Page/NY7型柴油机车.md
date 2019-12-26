@@ -68,27 +68,17 @@ NY7型柴油机车采用多循环圆结构型式的福伊特L820rU型液力变�
 [Category:中國柴油機車](https://zh.wikipedia.org/wiki/Category:中國柴油機車 "wikilink") [Category:C-C轴式机车](https://zh.wikipedia.org/wiki/Category:C-C轴式机车 "wikilink") [Category:亨舍尔制铁路机车](https://zh.wikipedia.org/wiki/Category:亨舍尔制铁路机车 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
 13.
 14.
-
 15.

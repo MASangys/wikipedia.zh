@@ -42,20 +42,12 @@ Bbrother. [一起活在牆上](https://web.archive.org/web/20110718200829/http:/
 [Category:視覺藝術](https://zh.wikipedia.org/wiki/Category:視覺藝術 "wikilink") [Category:街頭藝術](https://zh.wikipedia.org/wiki/Category:街頭藝術 "wikilink")
 
 1.  游威. 塗改過的耐吉T恤，比正版賣得更好：Bbrother與塗鴉二三事. 典藏‧今藝術. 2007: 73
-
 2.  黃莉莉. 從塗鴉客變成藝術家. Vice China. <http://www.vice.cn/index.php/Read/taiwanese-graffiti-artist-bbrothers-transformation，網站2013年12月18日更新>
-
 3.  張世倫 塗鴉人Bbrother的空間佔領行動 2006年 台灣光華雜誌 十月:72
-
 4.  [08台北雙年展網站](http://www.taipeibiennial.org/2008/TBArtists/ArtistContent.aspx?Language=iWtQXTY5yerWZqo3gg8/BL9NEiKjGqNL&cid=iWtQXTY5yerok21fso3mo+VLQluxDAZx)，2008/09/13更新
-
 5.
 6.  聯合晚報社論. <http://doveman.pixnet.net/blog/post/2748693-%E9%97%9C%E9%8D%B5%E4%B8%8D%E5%9C%A8%E8%A9%B2%E4%B8%8D%E8%A9%B2%E5%A1%97%E9%B4%89>, 2006/10/16更新
-
 7.  [苦勞網評論](http://www.coolloud.org.tw/news/database/interface/detailstander.asp?ID=119815), 2006年10月19日更新
-
 8.  陳歆怡. 台北雙年展，用藝術包圍城市. 台灣光華雜誌. 2008年. 十月：54
-
 9.  游威. 塗改過的耐吉T恤，比正版賣得更好：Bbrother與塗鴉二三事. 典藏‧今藝術. 2007: 73
-
 10. Bbrother. 一起活在牆上. 台灣. 原點出版. 2008: 124

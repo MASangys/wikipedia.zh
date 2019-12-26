@@ -20,31 +20,18 @@
 ## 基于TouchWiz界面的设备
 
   - [三星Galaxy S系列](../Page/三星Galaxy_S系列.md "wikilink")：S，S2，S3，S4，S5，S6，S6 Edge，S6 Edge+，S7，S7 Edge
-
   - [三星Galaxy Note系列](../Page/三星Galaxy_Note系列.md "wikilink")：Note，Note 2，Note 3，Note 4，Note 5，Note 7，Note Edge
-
   - [三星Galaxy C系列C](../Page/三星Galaxy_C系列.md "wikilink")5 Pro，C7 Pro，C9 Pro，C8，C5，C7
-
   - [三星Galaxy A系列A](../Page/三星Galaxy_A系列.md "wikilink")5(2015)，A9(2016)，A9 Pro(2016)，A3(2016)，A5(2016)，A7(2016)，A3(2017)，A5(2017)，A7(2017)
-
   - [三星Galaxy On系列On](https://zh.wikipedia.org/wiki/三星Galaxy_On系列 "wikilink")5 (2015)，On7 (2015)
-
   - [三星Galaxy E系列](https://zh.wikipedia.org/wiki/三星Galaxy_E系列 "wikilink") E7
-
   - [三星Galaxy J系列 Galaxy J](https://zh.wikipedia.org/wiki/三星Galaxy_J系列 "wikilink") J2(2015) J3(2016)，J5(2016)
-
   - [三星Galaxy Tab系列Tab](https://zh.wikipedia.org/wiki/三星Galaxy_Tab系列 "wikilink") 10.1inch Tab 4 7.0
-
   - [三星Galaxy W系列](https://zh.wikipedia.org/wiki/三星Galaxy_W系列 "wikilink")
-
   - [三星Galaxy Young系列](https://zh.wikipedia.org/wiki/三星Galaxy_Young系列 "wikilink")
-
   - [三星Galaxy Grand系列Grand](../Page/三星Galaxy_Grand系列.md "wikilink") Prime
-
   - 其他（详见[三星Galaxy系列](https://zh.wikipedia.org/wiki/三星Galaxy系列 "wikilink")）
-
   - [三星Z系列](https://zh.wikipedia.org/wiki/三星Z系列 "wikilink")
-
   -
 ## 參考資料
 

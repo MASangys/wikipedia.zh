@@ -207,21 +207,13 @@ A面曲《GIVE ME FIVE\!》是AKB48的第5首「[櫻花歌曲](https://zh.wikipe
 [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:畢業歌曲](https://zh.wikipedia.org/wiki/Category:畢業歌曲 "wikilink") [Category:AKB48歌曲](https://zh.wikipedia.org/wiki/Category:AKB48歌曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink") [Category:2012年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲月榜冠軍作品 "wikilink") [Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink") [Category:2012年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年Japan_Hot_100冠軍歌曲 "wikilink") [Category:2012年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2012年Hot_Singles_Sales冠軍單曲 "wikilink") [Category:2012年RIAJ付費音樂下載榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年RIAJ付費音樂下載榜冠軍歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink") [Category:櫻花題材歌曲](https://zh.wikipedia.org/wiki/Category:櫻花題材歌曲 "wikilink")
 
 1.  音樂下載單曲《[Baby\! Baby\! Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")》計算在內時的主要單曲總數。若將獨立製作時期的單曲計算在內，則為第27張。
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.  在發售前的2012年2月5日，其有關AKB48的活動已經終止。
-
 8.
 9.  在2012年3月21日於[富士電視台](../Page/富士電視台.md "wikilink")現場直播的音樂特別節目《[隧道二人組](../Page/隧道二人組.md "wikilink")的現場直播！全部看得到的音樂節目！！〜有活力地演唱名曲吧〜》（）中，由於有多位主力成員缺席，而由多位替補隊員上陣。但由於負責[貝斯的大島優子與負責長號的指原莉乃無法出演又無人有能力演奏](../Page/電貝斯.md "wikilink")，因此現場是由專業樂手[後藤次利](../Page/後藤次利.md "wikilink")（貝斯）與[武田真治](https://zh.wikipedia.org/wiki/武田真治 "wikilink")（[薩克斯風](../Page/薩克斯風.md "wikilink")）同台演出。
-
 10. [Apamanshop X AKB48](http://www.apamanshop.com/AKB48/)
-
 11. 此廣告是由小嶋陽菜、指原莉乃、篠田麻里子、高橋南、前田敦子、峯岸南、橫山由依和渡邊麻友出演。

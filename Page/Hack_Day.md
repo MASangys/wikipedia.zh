@@ -78,39 +78,22 @@ HTML5 Code Jam的灵感来自于Global Game Jam，由HTML5研究小组主办。�
 [Category:電腦文化](https://zh.wikipedia.org/wiki/Category:電腦文化 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:研討會](https://zh.wikipedia.org/wiki/Category:研討會 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  <http://www.mhtml5.com/events/code-jam>
-
 5.
 6.  <http://mashed08.backnetwork.com/sessions/#s255>
-
 7.  <http://mashed08.backnetwork.com/sessions/#s252>
-
 8.  <http://mashed08.backnetwork.com/sessions/#s256>
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16. <http://www.mhtml5.com/events/bj2>
-
 17.
-
 18.
 19. <http://www.mhtml5.com/events/gamejamsh>
-
 20.

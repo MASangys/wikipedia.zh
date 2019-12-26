@@ -358,15 +358,10 @@ Weiß Schwarz是Bushiroad开发的交換卡片遊戲系列之一，让在青少�
 [Category:交換卡片遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲跨界作品 "wikilink") [Category:Bushiroad](https://zh.wikipedia.org/wiki/Category:Bushiroad "wikilink")
 
 1.
-
 2.  <http://gf.tgbus.com/game/download/11310.shtml>
-
 3.  <http://www.u2game.net/bbs/thread-53597-1-1.html>
-
 4.  なお、巻頭カラー連載記事の取材協力と巻末1面広告の出稿を担当している[電撃G's magazine](https://zh.wikipedia.org/wiki/電撃G's_magazine "wikilink")2011年12月号发售の時点では当初、同月末に发售预定だった。
-
 5.
 6.
 7.  初回限定版「GOD BOX」封入特典
-
 8.

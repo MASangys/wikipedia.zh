@@ -105,7 +105,6 @@
 [Category:絢香音樂專輯](https://zh.wikipedia.org/wiki/Category:絢香音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:2012年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon專輯週榜冠軍作品 "wikilink") [Category:2012年RIAJ付費音樂下載榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年RIAJ付費音樂下載榜冠軍歌曲 "wikilink") [Category:愛貝克思音樂專輯](https://zh.wikipedia.org/wiki/Category:愛貝克思音樂專輯 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:日本電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台節目主題曲 "wikilink")
 
 1.
-
 2.
 3.
 4.

@@ -200,58 +200,33 @@ Aiden在2008年，還演唱了電影《粗野少年族2:幽暗部落》（[Lost 
 [Category:2003年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2003年成立的音乐团体 "wikilink") [Category:美國後硬蕊樂團](https://zh.wikipedia.org/wiki/Category:美國後硬蕊樂團 "wikilink") [Category:後硬蕊樂團](https://zh.wikipedia.org/wiki/Category:後硬蕊樂團 "wikilink")
 
 1.  [Aiden - Conviction | Music | CD | Reviews | Static Multimedia](http://www.staticmultimedia.com/music/reviews/aiden_-_conviction)
-
 2.  www.lambgoat.com/news/view.aspx?id=4249
-
 3.  <http://www.victoryrecords.com/merch/cds/9192/Aiden_Nightmare_Anatomy>
-
 4.
-
 5.
-
 6.  <http://www.rocknworld.com/features/07/TasteofChaos.shtml>
-
 7.  <http://top40-charts.com/news.php?nid=35746>
-
 8.  <http://www.imdb.com/title/tt0455760/soundtrack>
-
 9.  <http://www.absolutepunk.net/showthread.php?t=198634>
-
 10. <http://www.absolutepunk.net/showthread.php?t=283619>
-
 11. <http://www.punknews.org/article/27397>
-
 12.
-
 13. <http://www.absolutepunk.net/showthread.php?t=320441>
-
 14.
-
 15. <http://www.youtube.com/watch?v=_9_UAuw1cfY>
-
 16. <http://www.movieweb.com/movie/lost-boys-the-tribe/cry-little-sister-by-aiden>
-
 17. <http://www.idiomag.com/peek/44010>
-
 18.
-
 19. <http://www.facebook.com/note.php?note_id=57702640732>
-
 20.
 21. <http://punkmusic.about.com/od/liveperformances/a/warpedlineup09.htm>
-
 22.
-
 23. <http://www.alterthepress.com/2010/03/saosin-pull-out-of-aiden-uk-tour.html>
-
 24.
-
 25. ["Artist Chart History - Aiden - Albums"](http://www.billboard.com/bbcom/retrieve_chart_history.do?model.chartFormatGroupName=Albums&model.vnuArtistId=613450&model.vnuAlbumId=814976). Billboard. Retrieved on May 21, 2009.
-
 26.
 27.
 28. ["Chart Log UK (1994–2008) A – Azzido Da Bass"](http://www.zobbel.de/cluk/CLUK_A.HTM). Zobbel. Retrieved on May 21, 2009.
-
 29.
 30.
 31.

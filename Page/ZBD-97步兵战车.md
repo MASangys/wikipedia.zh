@@ -34,10 +34,7 @@
 [Category:步兵战车](https://zh.wikipedia.org/wiki/Category:步兵战车 "wikilink") [Category:裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:裝甲戰鬥車輛 "wikilink")
 
 1.  根据中华人民共和国武器命名规则，ZBD是装甲-步兵战车-履带式的意思。
-
 2.  [揭秘解放军新型97式战车 首先装备南京广州战区](http://mil.news.sina.com.cn/p/2007-11-23/0730472835.html)
-
 3.  [王天民：我的五十年战斗历程](http://www.hjgbj.com/show.asp?id=1202) ，哈军工北京校友会，2013-03-12。
-
 4.
 5.  [战场生存力不足—中国陆军ZBD97式履带式步兵战车](http://war.163.com/09/0807/16/5G4JNHBA00011232_3.html)，网易新闻中心

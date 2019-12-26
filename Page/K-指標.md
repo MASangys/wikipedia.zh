@@ -125,16 +125,10 @@ Kp標度是總結全球水準地磁活動的合理方式，但要了解太空環
 [Category:地磁學](https://zh.wikipedia.org/wiki/Category:地磁學 "wikilink")
 
 1.  Bartels, J., Heck, N.H. & Johnston, HF., 1939. The three-hour range index measuring geomagnetic activity, Geophys. Res., 44, 411-454 (p 411)
-
 2.  Bartels, J., Heck, N.H. & Johnston, HF., 1939. The three-hour range index measuring geomagnetic activity, Geophys. Res., 44, 411-454 (c.f. ref 4 on p 417)
-
 3.
 4.
-
 5.
-
 6.
-
 7.  <http://spidr.ngdc.noaa.gov/spidr/help.do?group=geomInd#ap>  - Equivalent Amplitudes
-
 8.  [1](http://www.swpc.noaa.gov/NOAAscales/) NOAA/SWPC Space Weather Scales used to communicate to the public current and future space weather conditions and their possible effects

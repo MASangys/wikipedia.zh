@@ -78,4 +78,4 @@
   - [日本官方網站](https://web.archive.org/web/20140111112640/http://legend9.jp/)
   - [紅心辣椒娛樂科技](https://web.archive.org/web/20130722235242/http://www.wasabii.com.tw/)
 
-[Category:體育遊戲](https://zh.wikipedia.org/wiki/Category:體育遊戲 "wikilink")
+[Category:體育電子遊戲](https://zh.wikipedia.org/wiki/Category:體育電子遊戲 "wikilink")

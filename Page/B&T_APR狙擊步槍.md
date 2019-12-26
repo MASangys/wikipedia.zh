@@ -1,4 +1,4 @@
-**B\&T APR**（，APR的英文全寫為「」，[中文意為](../Page/汉语.md "wikilink")「先進[精密步槍](../Page/準確與精密.md "wikilink")」）是一系列由位於[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[图恩](../Page/图恩.md "wikilink")（，，）的（簡稱：B\&T或B+T）公司在2003年以[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[PGM精密公司旗下的精密步槍作為藍本並且進一步發展其設計及生產的](https://zh.wikipedia.org/wiki/PGM精密公司 "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。APR308、APR308P和APR308S發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")／[.308 Winchester](../Page/.308_Winchester.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，而APR338發射[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")（.338 Lapua Mag，8.6×70毫米或8.58×70毫米）[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**B\&T APR**（，APR的英文全寫為「」，[中文意為](../Page/汉语.md "wikilink")「先進[精密步槍](../Page/準確與精密.md "wikilink")」）是一系列由位於[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[图恩](../Page/图恩.md "wikilink")（，，）的（簡稱：B\&T或B+T）公司在2003年以[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[PGM精密公司旗下的精密步槍作為藍本並且進一步發展其設計及生產的](https://zh.wikipedia.org/wiki/PGM精密公司 "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。APR308、APR308P和APR308S發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")／[.308 Winchester](../Page/.308_Winchester.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，而APR338則發射[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")（.338 Lapua Mag，8.6×70毫米或8.58×70毫米）口徑步枪子彈。
 
 ## 歷史
 
@@ -247,24 +247,14 @@ TS.M.338</p></td>
 [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:.338_Lapua_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.338_Lapua_Magnum口徑槍械 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:瑞士槍械](https://zh.wikipedia.org/wiki/Category:瑞士槍械 "wikilink")
 
 1.  For more information about the differences between the .308 Winchester and the 7.62x51mm NATO cartridges read the [.308 Winchester Cartridge Guide: .308 Win vs. 7.62x51 - The Straight Scoop by AccurateShooter.com](http://www.6mmbr.com/308win.html) article.
-
 2.  [APR308, APR308P and APR308S manual](http://www.brugger-thomet.ch/pdf/TS-APR308.pdf)
-
 3.  [B\&T News](http://www.brugger-thomet.ch/en/trading/news/index.php?navanchor=2110008)
-
 4.  [APR338 manual](http://www.brugger-thomet.ch/pdf/TS-APR338.pdf)
-
 5.  操作這些積極高性能精密步槍時，將槍管作為消耗品是正常的做法。而持續使用一些火力非常強大的[手工子彈雖然會有更高的](https://zh.wikipedia.org/wiki/手工子彈 "wikilink")[槍口初速和威力](https://zh.wikipedia.org/wiki/槍口初速 "wikilink")，但是亦會導致APR338的喉嚨侵蝕更快，槍管的精度壽命亦會減少至只有1,000至2,000發。
-
 6.
-
 7.  <http://www.militaryphotos.net/forums/showthread.php?166191-Kosovo-Security-Forces/page9>
-
 8.
 9.
-
 10. <http://vitalykuzmin.net/?q=node/484>
-
 11. [Brügger & Thomet APR308 Advanced Precision (Sniper) Rifle (Switzerland) at Modern Firearms](http://world.guns.ru/sniper/sn80-e.htm)
-
 12. <http://www.armamentresearch.com/ukrainian-copies-of-swiss-brugger-thomet-apr-rifles-used-during-protests-in-kiev/>

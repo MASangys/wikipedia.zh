@@ -397,46 +397,25 @@ iOS 5 至 iOS 9.3.5 都成功在iPad(第三代)上[越狱](https://zh.wikipedia.
 [Category:蘋果公司硬體](https://zh.wikipedia.org/wiki/Category:蘋果公司硬體 "wikilink") [Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink") [Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink") [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink") [Category:2012年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2012年面世的平板電腦 "wikilink")
 
 1.  2012年3月至10月在蘋果官方行銷名稱爲**全新iPad**或**新iPad**（The New iPad）。
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.

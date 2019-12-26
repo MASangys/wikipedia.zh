@@ -109,47 +109,26 @@ WindowsStore支援230個國家，100多种语言。\[22\]\[23\]
 [Category:Windows組件](https://zh.wikipedia.org/wiki/Category:Windows組件 "wikilink") [Category:软件分发平台](https://zh.wikipedia.org/wiki/Category:软件分发平台 "wikilink") [Category:Modern_UI應用程式](https://zh.wikipedia.org/wiki/Category:Modern_UI應用程式 "wikilink")
 
 1.  <http://blogs.msdn.com/b/windowsstore/archive/2011/12/06/announcing-the-new-windows-store.aspx>
-
 2.
-
 3.
-
 4.
-
 5.  [Windows10应-{}-用商店正式更名微软商店：全体推送！](https://www.ithome.com/html/win10/330283.htm)
-
 6.  [搜尋詞彙 - Microsoft | 語言入口網站](https://www.microsoft.com/zh-tw/language/Search?&searchTerm=Microsoft%20Store&langID=%E4%B8%AD%E6%96%87%20\(%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9C%8B\)&Source=true&productid=%E6%89%80%E6%9C%89%E7%94%A2%E5%93%81)，
-
 7.  <http://blogs.msdn.com/b/windowsstore_cn/archive/2012/02/17/windows-8-submitting-your-windows-8-apps.aspx>
-
 8.  [Windowsteamblog.com](http://windowsteamblog.com/windows_phone/b/wpdev/archive/2010/10/04/rolling-out-windows-phone-marketplace-for-launch.aspx/)
-
-9.  <http://crave.cnet.co.uk/software/windows-phone-store-hits-150000-apps-doubled-in-last-year-50010072/>
-
+9.
 10. [Engadget.com](http://www.engadget.com/2010/03/15/windows-phone-marketplace-for-windows-phone-7-series-unveiled/)
-
 11. [Engadget.com](http://www.engadget.com/2010/03/15/windows-phone-marketplace-for-windows-phone-7-series-unveiled/)
-
 12.
-
 13.
-
 14.
-
 15.
 16.
-
 17.
-
 18.
 19.
-
 20.
-
 21. [Windowsteamblog.com](http://windowsteamblog.com/windows_phone/b/wpdev/archive/2010/03/15/the-right-mix.aspx)
-
 22. <http://www.ithome.com/html/win8/6992.htm>
-
 23.
-
 24. [Windows Store 里程碑：应-{}-用商店突破 10 万应-{}-用](http://livesino.net/archives/5667.live)

@@ -43,7 +43,7 @@ Wave 2指的是2016年推出的产品，提供比传统Wave 1产品更高的吞�
 
   - [802.11ac Technology Introduction white paper](http://www.rohde-schwarz-usa.com/rs/rohdeschwarz/images/1MA192_7e_80211ac_technology.pdf)
   - [A brief technology introduction on the 802.11ac amendment to the 802.11-2007 standard](http://www.rohde-schwarz.com/appnote/1MA192.pdf)
-  - [A list of 802.11ac devices](https://wikidevi.com/wiki/List_of_802.11ac_Hardware)
+  - [A list of 802.11ac devices](https://web.archive.org/web/20160312041546/https://wikidevi.com/wiki/List_of_802.11ac_Hardware)
   - [The Not So Definitive Guide to Beamforming](http://www.theruckusroom.net/2010/12/beamforming-in-all-its-glory.html)
   - [Understanding IEEE 802.11ac Wi-Fi Standard and Preparing the Enterprise WLAN](https://web.archive.org/web/20130307085918/http://www.merunetworks.com/collateral/white-papers/2012-wp-ieee-802-11ac-understanding-enterprise-wlan-challenges.pdf)
   - [MIMO 802.11ac Test Architectures](http://www.ztecinstruments.com/zconnect/wp-content/uploads/2012/04/MIMO_RFIC-Test_Architectures.pdf)
@@ -53,22 +53,13 @@ Wave 2指的是2016年推出的产品，提供比传统Wave 1产品更高的吞�
 [Category:Wi-Fi](https://zh.wikipedia.org/wiki/Category:Wi-Fi "wikilink") [Category:无线网络](https://zh.wikipedia.org/wiki/Category:无线网络 "wikilink") [Category:IEEE_802.11](https://zh.wikipedia.org/wiki/Category:IEEE_802.11 "wikilink")
 
 1.
-
 2.
 3.  [CISCO 80211 ac 白皮書](http://www.cisco.com/en/US/prod/collateral/wireless/ps5678/ps11983/white_paper_c11-713103.html)，802.11ac: The Fifth Generation of Wi-Fi
-
 4.
-
 5.  <https://www.intel.com.tw/content/www/tw/zh/support/articles/000005725/network-and-io/wireless-networking.html>
-
 6.  <https://www.intel.com.tw/content/www/tw/zh/support/articles/000005725/network-and-io/wireless-networking.html>
-
 7.  [即將到來的無線標準：IEEE 802.11ac 與 LTE-Advanced - National Instruments](http://www.ni.com/white-paper/13909/zht/) - National Instruments@usa
-
 8.  [無線網路新趨勢–漫談 802.11ac 新協定](http://www.cc.ntu.edu.tw/chinese/epaper/0024/20130320_2409.html) , 作者：游子興 / [臺灣大學計算機及資訊網路中心網路組幹事](https://zh.wikipedia.org/wiki/臺灣大學 "wikilink")
-
 9.  [深入探討 802.11ac](http://www.ni.com/white-paper/13913/zht/) - National Instruments@usa
-
 10. [次世代Wi-Fi標準IEEE 802.11ac的5大技術特性:: 特色2 － 改採256 QAM的調變技術，單一封包可負載量增加](http://www.ithome.com.tw/itadm/article.php?c=75919&s=2)  - 技術專題 - iThome online
-
 11. <https://www.intel.com.tw/content/www/tw/zh/support/articles/000005725/network-and-io/wireless-networking.html>

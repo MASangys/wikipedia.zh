@@ -8,6 +8,6 @@ MBC 4 HD于2011年7月1日开播。
 
   - [官方网站](https://web.archive.org/web/20110929175945/http://www.mbc.net/ch4en.html)
   - [MBC 4](http://telebisyon.net/programa/MBC+4/weekly/)在Telebisyon.net上的页面
-  - [Wanasah](http://www.wanasah.com/)
+  - [Wanasah](https://web.archive.org/web/20080828090543/http://www.wanasah.com/)
 
 [Category:阿拉伯媒体](https://zh.wikipedia.org/wiki/Category:阿拉伯媒体 "wikilink")

@@ -8,7 +8,7 @@ DSR-1狙擊步槍系統是一把並非由狩獵步槍或標準軍用步槍修改
 
 DSR-1具有一個完全可調節長度的[槍托底板](https://zh.wikipedia.org/wiki/槍托底板 "wikilink")（）和調節位置與高度的。另外還有一個高度可調節的專用後腳架，可以通過微調後腳架的高度，令射手在在長時間狙擊任務之中觀察的時候放下DSR-1步槍休息，不需要一直使用肩窩抵緊槍托，減少肌肉疲勞；射擊時亦可提高其稳定性。
 
-握把和兩個[彈匣插座為一個整體塑料底座](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")，安裝在[機匣下方](https://zh.wikipedia.org/wiki/機匣 "wikilink")。前端的大型[扳機護圈使其可以在戴上](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[手套](../Page/手套.md "wikilink")以下射擊。安裝在扳機護圈前面的彈匣插座為備用[彈匣](../Page/彈匣.md "wikilink")插座，是為了隨DSR-1步槍多帶一個彈匣，並且減少重新裝填及／或更換彈種（例如[穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")）的時間；而手槍握把後面的彈匣插座才是供彈彈匣插座的，正如犢牛式的設計。
+握把和兩個[彈匣插座為一個整體塑料底座](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")，安裝在[機匣下方](https://zh.wikipedia.org/wiki/機匣 "wikilink")。前端的大型[扳機護環使其可以在戴上](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[手套](../Page/手套.md "wikilink")以下射擊。安裝在扳機護圈前面的彈匣插座為備用[彈匣](../Page/彈匣.md "wikilink")插座，是為了隨DSR-1步槍多帶一個彈匣，並且減少重新裝填及／或更換彈種（例如[穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")）的時間；而手槍握把後面的彈匣插座才是供彈彈匣插座的，正如犢牛式的設計。
 
 DSR-1的[槍機是](https://zh.wikipedia.org/wiki/槍機 "wikilink")[平台射手](https://zh.wikipedia.org/wiki/平台射手 "wikilink")，而能夠增加散熱效果及減輕重量的[自由浮動式](../Page/自由浮動式槍管.md "wikilink")[槍管](../Page/槍管.md "wikilink")以三根[螺絲](../Page/螺絲.md "wikilink")固定在[機匣上](https://zh.wikipedia.org/wiki/機匣 "wikilink")，可快速更換以轉換[口徑或拋棄損壞的槍管](https://zh.wikipedia.org/wiki/口徑 "wikilink")。
 
@@ -201,6 +201,7 @@ DSR-1狙擊步槍的預期[精度很高](../Page/準確與精密.md "wikilink")�
   - [巴雷特M98](../Page/巴雷特M98狙擊步槍.md "wikilink")
   - [巴雷特M98B](../Page/巴雷特M98B狙擊步槍.md "wikilink")
   - [巴雷特MRAD](../Page/巴雷特MRAD狙擊步槍.md "wikilink")
+  - [波爾狙擊步槍](https://zh.wikipedia.org/wiki/波爾狙擊步槍 "wikilink")
   - [B\&T APR308／338](../Page/B&T_APR狙擊步槍.md "wikilink")
   - [布拉塞爾R93](../Page/布拉塞爾R93戰術型狙擊步槍.md "wikilink")
   - [C14](../Page/C14大灰狼狙擊步槍.md "wikilink")
@@ -286,17 +287,12 @@ DSR-1狙擊步槍的預期[精度很高](../Page/準確與精密.md "wikilink")�
 [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:.338_Lapua_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.338_Lapua_Magnum口徑槍械 "wikilink") [Category:.300_Winchester_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.300_Winchester_Magnum口徑槍械 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink") [Category:犢牛式槍械](https://zh.wikipedia.org/wiki/Category:犢牛式槍械 "wikilink")
 
 1.  [DSR-1 at world.guns.ru](http://world.guns.ru/sniper/sn38-e.htm)
-
 2.  [DSR-precision GmbH](http://www.dsr-nr-1.com/pages/home/en.php)
-
 3.
 4.  [Statistical notes on rifle group patterns by Robert E. Wheeler](http://www.bobwheeler.com/guns/GroupStat.pdf)
-
 5.
 6.
 7.
 8.
-
 9.
-
 10.

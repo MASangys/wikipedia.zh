@@ -145,7 +145,7 @@ CS Channel</p></td>
 
 ## 外部連結
 
-  - [《CS Channel》日本特設網站](http://www.emimusic.jp/tokyojihen/cschannel/)
+  - [《CS Channel》日本特設網站](https://web.archive.org/web/20120127015553/http://www.emimusic.jp/tokyojihen/cschannel/)
   - [《CS Channel》台灣特設網站](http://www.gold-typhoon.com.tw/pop/cschannel/index.html)
 
 [Category:東京事變的DVD](https://zh.wikipedia.org/wiki/Category:東京事變的DVD "wikilink")
@@ -154,15 +154,11 @@ CS Channel</p></td>
 2.
 3.
 4.
-
 5.
 6.
 7.
 8.
 9.
-
 10.
-
 11.
-
 12.

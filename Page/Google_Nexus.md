@@ -1,5 +1,7 @@
 **Google Nexus**是一個使用Android作業系統的消費電子產品系列，由[Google](../Page/Google.md "wikilink")設計、開發、銷售並提供支援，並由與Google合作的[原始設備製造商製造並進行部分的開發](https://zh.wikipedia.org/wiki/原始設備製造商 "wikilink")。，最新款Nexus系列裝置爲[Nexus 6P手機](../Page/Nexus_6P.md "wikilink")（華為製造）、[Nexus 5X手機](../Page/Nexus_5X.md "wikilink")（LG製造）、[Nexus 9平板電腦](../Page/Nexus_9.md "wikilink")（HTC製造）以及[Nexus Player媒體播放器](../Page/Nexus_Player.md "wikilink")（華碩製造）。
 
+2016年，Google 宣布以[Google Pixel](../Page/Google_Pixel.md "wikilink") 品牌取代Nexus，Nexus品牌正式走入歷史。
+
 Nexus系列裝置被認為是Google的「旗艦級」Android產品\[1\]\[2\]\[3\]\[4\]\[5\]。所有Nexus裝置皆使用可解鎖的[引導程序](https://zh.wikipedia.org/wiki/引導程序 "wikilink")\[6\]以便进行進一步開發及允許[終端用戶對系統程序做出修改](https://zh.wikipedia.org/wiki/終端用戶 "wikilink")\[7\]。
 
 ## 裝置

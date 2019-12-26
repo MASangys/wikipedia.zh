@@ -3205,37 +3205,21 @@
 [Category:2010年代美國動畫影集](https://zh.wikipedia.org/wiki/Category:2010年代美國動畫影集 "wikilink") [Category:ben_10](https://zh.wikipedia.org/wiki/Category:ben_10 "wikilink") [Category:中国中央电视台外购动画片](https://zh.wikipedia.org/wiki/Category:中国中央电视台外购动画片 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 
 1.  [卡通頻道2011年的消息](http://www.animationinsider.net/article.php?articleID=2734&document=2)
-
 2.  由於人設畫師 Dwayne McDuffie 已經於2011年2月22日因緊急心臟外科手術併發症過世，所以本作的原畫也被迫換人。
-
 3.  [Ben 10: Omniverse在2012年英國玩具展](http://ridersrangersandrambles.com/2012/01/26/ben-10-omniverse-revealed-at-uk-toy-fair/)
-
 4.  [Live Action Ben 10 Movie Moving Along於2012年2月1日](http://www.giantfreakinrobot.com/scifi/live-action-ben-10-movie-moving.html)
-
 5.  [Ben 10 'Omniverse' to Launch at Nuremburg於2012年1月6日](http://www.licensemag.com/licensemag/Entertainment/Ben-10-Omniverse-to-Launch-at-Nuremburg/ArticleStandard/Article/detail/755021)
-
 6.  [Bandai to launch new Ben 10 toy line於2012年5月3日](http://kidscreen.com/2012/05/03/bandai-to-launch-new-ben-10-toy-line/)
-
 7.  剛好是本年的[人日](../Page/人日.md "wikilink")
-
 8.  [动漫世界 20170921 - 央视网 (只可电脑收看)](http://tv.cctv.com/2017/09/21/VIDEtlJlt66pHMQK45FWWv7w170921.shtml)
-
 9.  在《Ben 10》被提及時翻譯為「亞多米」。
-
 10. 第一集和第二集中文標題出現在電視播出的字幕上時分別顯示為「世事多變上集」和「世事多變,下集」，格式並不一致，這裡改為台灣卡通頻道官方網站影片區標題的格式。
-
 11. 從2013年1月2日開始，每週二到週五的16:00時段循環播出台灣版進度1到10集。播到2月8日為止，2月19日開始再恢復播出並由台灣版進度第4集接下去以相同模式播出到3月1日為止。其中《Many Happy Returns》和《Blukic And Driba Go To Mr. Smoothy's》在這裡的順序分別被排在第九集和第十集。
-
 12. 從2013年6月3日開始到6月28日為止，每週一到週五的15:00時段播出台灣版進度。其中6月13日停播一次，而《Many Happy Returns》和《Blukic And Driba Go To Mr. Smoothy's》兩集的排序有變動。
-
 13. 從2013年7月1日到8月29日，每週一到週五的8:00時段播出台灣版進度第1集到第24集。從8月30日開始改為循環播出台灣版進度第1集到第20集，並從9月2日開始每天8:00時段播出且停播週日10:00與10:30時段，但9月7日停播一次。本時段的播出直到10月6日。
-
 14. 從2013年10月5日開始每天22:00時段與22:30時段循環播出台灣版進度第1集到第12集，每次連續播出兩集（與前一天不重複）。2013年11月4日開始改成每週一到週五，並循環播出台灣版進度第1集到第30集。從2013年12月16日開始，再改成每日。從2013年12月31日開始，改為播出台灣版進度第1集到第12集。2014年1月6日再改為播出台灣版進度第1集到第30集。2014年3月18日開始改為播出台灣版進度第1集到第40集。
-
 15. 從2013年11月9日開始，每週六與週日的22:00時段與22:30時段連續播出兩集（與前一次播出日期所播出集數不重複）。2013年12月7日進度跳過10集。到2013年12月15日為止。而2013年12月15日直接先後播出《A Fistful of Brains》和《For a Few Brains More》。
-
 16. 從2014年1月7日開始，每週二到週五18:30時段循環播出台灣版進度第1集到第30集。2014年4月1日重新由台灣版進度第1集開始。
-
 17.
 18.
 19.
@@ -3292,7 +3276,6 @@
 70.
 71.
 72. 《Many Happy Returns》和《Blukic And Driba Go To Mr. Smoothy's》在台灣首播時順序被排在第九集和第十集，後來在《Of Predators and Prey: Part 1》、《Of Predators and Prey: Part 2》、《Gone Fishin'》和《Outbreak》播出後已重新編排。
-
 73.
 74.
 75.
@@ -3313,7 +3296,6 @@
 90.
 91.
 92. 央视回复播出，由2017年黄金期结束
-
 93.
 94.
 95.
@@ -3344,7 +3326,6 @@
 120.
 121.
 122. 2013年10月13日10:00時段恢復播出《Ben 10 全面進化》。
-
 123.
 124.
 125.
@@ -3353,8 +3334,6 @@
 128.
 129.
 130. 本時段在節目表顯示播出《The More Things Change, Part I》，但是實際上是《Max's Monster》的首播。
-
 131. 2014年3月31日開始，每週一18:30時段以《Ben 10 全面進化：怪獸大軍特集》播出新集數。其中片頭畫面與音樂以及片尾的音樂都和其它集數不同。
-
 132.
 133.

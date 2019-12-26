@@ -129,7 +129,7 @@
 
 ## 票房
 
-本片在中国大陆首周四天票房近3亿元，为该周票房冠军\[48\]。随后更是连续蝉联两周票房冠军，至8月5日累计达7.26亿元\[49\]，从而打破了《[让子弹飞](../Page/让子弹飞.md "wikilink")》创造的中国大陆国产片票房记录，直到当年底该记录被《[人再囧途之泰囧](../Page/人再囧途之泰囧.md "wikilink")》（12.6亿）和《[十二生肖](https://zh.wikipedia.org/wiki/十二生肖_\(电影\) "wikilink")》（8.7亿）打破。部分媒體認為此主要得益于[广电总局的](https://zh.wikipedia.org/wiki/广电总局 "wikilink")“国产片保护月”政策\[50\]\[51\]。
+本片在中国大陆首周四天票房近3亿元，为该周票房冠军\[48\]。随后更是连续蝉联两周票房冠军，至8月5日累计达7.26亿元\[49\]，从而打破了《[让子弹飞](../Page/让子弹飞.md "wikilink")》创造的中国大陆国产片票房记录，直到当年底该记录被《[人再囧途之泰囧](../Page/人再囧途之泰囧.md "wikilink")》（12.6亿）和《[十二生肖](https://zh.wikipedia.org/wiki/十二生肖_\(电影\) "wikilink")》（8.7亿）打破。部分媒體認為此主要得益于[广电总局的](https://zh.wikipedia.org/wiki/广电总局 "wikilink")“[国产片保护月](../Page/国产电影保护月.md "wikilink")”政策\[50\]\[51\]。
 
 本片的香港票房为909万元港币\[52\]。
 
@@ -150,26 +150,16 @@
 [Category:2012年電影](https://zh.wikipedia.org/wiki/Category:2012年電影 "wikilink") [Category:中国奇幻电影](https://zh.wikipedia.org/wiki/Category:中国奇幻电影 "wikilink") [Category:中国3D电影](https://zh.wikipedia.org/wiki/Category:中国3D电影 "wikilink") [Category:华语电影](https://zh.wikipedia.org/wiki/Category:华语电影 "wikilink") [Category:中国动作片](https://zh.wikipedia.org/wiki/Category:中国动作片 "wikilink") [Category:畫皮系列電影](https://zh.wikipedia.org/wiki/Category:畫皮系列電影 "wikilink") [Category:中國續集電影](https://zh.wikipedia.org/wiki/Category:中國續集電影 "wikilink") [Category:北京市取景电影](https://zh.wikipedia.org/wiki/Category:北京市取景电影 "wikilink") [Category:河北取景电影](https://zh.wikipedia.org/wiki/Category:河北取景电影 "wikilink") [Category:西藏取景电影](https://zh.wikipedia.org/wiki/Category:西藏取景电影 "wikilink") [Category:交換身分題材電影](https://zh.wikipedia.org/wiki/Category:交換身分題材電影 "wikilink") [Category:華誼兄弟電影](https://zh.wikipedia.org/wiki/Category:華誼兄弟電影 "wikilink") [Category:妖狐题材作品](https://zh.wikipedia.org/wiki/Category:妖狐题材作品 "wikilink") [Category:乌尔善电影](https://zh.wikipedia.org/wiki/Category:乌尔善电影 "wikilink") [Category:2012年3D电影](https://zh.wikipedia.org/wiki/Category:2012年3D电影 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
 13.
 14.
@@ -179,59 +169,36 @@
 18.
 19.
 20.
-
 21.
-
 22.
 23.
-
 24.
 25.
-
 26.
-
 27.
-
 28. [圖文：《畫皮Ⅱ》6月公映-周迅](http://news.sina.com.tw/article/20120606/6963905.html)
-
 29.
 30.
-
 31.
-
 32.
 33.
 34.
 35.
 36.
 37. [《画皮Ⅱ》正式预告首发 赵薇造型魅惑人妖难辨](http://news.mtime.com/2012/03/20/1484568.html)Mtime时光网 2012年03月20日
-
 38. [Painted Skin: The Resurrection (2012)](http://www.rottentomatoes.com/m/painted_skin_the_resurrection/)烂番茄网站
-
 39. [Painted Skin: The Resurrection](http://www.metacritic.com/movie/painted-skin-the-resurrection)metacritic.com
-
 40. [Painted Skin: The Resurrection](http://movies.nytimes.com/2012/08/17/movies/painted-skin-the-resurrection-by-wuershan.html)纽约时报 2012年08月17日
-
 41. [Special releases](http://www.filmjournal.com/filmjournal/content_display/reviews/specialty-releases/e3i2f903af14e5033e16e8889c793d6282d)Film Journal International 2012年08月20日
-
 42. [Review of Painted Skin: the Resurrection](http://www.slantmagazine.com/film/review/painted-skin-the-resurrection/6460)Slant Magazine 2012年08月16日
-
 43. 《星报》2012年07月18日
-
 44. 《8 Days Weekly》2012年07月
-
 45. [爽影評：《畫皮2》4億票房卻不紥實](http://www.sharpdaily.hk/article/entertain/20120710/110011) *爽報 (香港)*. 2012年7月10日.
-
 46. [《畫皮2》換面雙雌](http://ol.mingpao.com/cfm/star20.cfm?File=20120708/sae03/myb1.txt) *明報*. 2012年7月8日.
-
 47. [蘋影話：《畫皮 II》 蒙古族導演妖魔化北方民族](http://hk.apple.nextmedia.com/entertainment/art/20120711/16502136) *蘋果日報*. 2012年7月11日.
-
 48.
-
 49.
 50.
-
 51.
-
 52.
 53. [電影搜查線／台人爆棚排隊也甘願 這些亞洲片最吸睛](http://n.yam.com/yam/entertain/20170428/20170428169620.html),2017/04/28 蕃薯藤

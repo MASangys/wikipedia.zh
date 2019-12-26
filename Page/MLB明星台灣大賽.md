@@ -65,10 +65,8 @@
 [Category:台灣棒球競賽](https://zh.wikipedia.org/wiki/Category:台灣棒球競賽 "wikilink")
 
 1.  [民視新聞台](http://news.ftv.com.tw/NewsContent.aspx?sno=2011A15A03M1&ntype=class)
-
 2.
 3.
 4.
 5.
-
 6.

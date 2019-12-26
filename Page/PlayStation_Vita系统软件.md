@@ -2,7 +2,7 @@
 
 该系统软件的升级方式与[PSP](../Page/PlayStation_Portable.md "wikilink")、[PS3以及](../Page/PlayStation_3.md "wikilink")[PS4等几乎一样](../Page/PlayStation_4.md "wikilink")。该系统软件可以通过在PS Vita连接[Wi-Fi](../Page/Wi-Fi.md "wikilink")的情况下下载升级文件\[1\]、通过PS3下载升级文件\[2\]、通过PC下载升级文件\[3\]、或者通过附有升级文件的PS Vita游戏卡来安装升级\[4\]。PlayStation TV系统也可以通过连接[因特网升级](https://zh.wikipedia.org/wiki/因特网 "wikilink")。PlayStation Vita使用[LiveArea作为默认](https://zh.wikipedia.org/wiki/LiveArea "wikilink")[可视界面](../Page/殼層.md "wikilink")。PlayStation Vita系统软件有一个可选附加组件——[PlayStation Mobile Runtime Package](https://zh.wikipedia.org/wiki/PlayStation_Mobile "wikilink")。该系统软件是一个脱胎于[FreeBSD](../Page/FreeBSD.md "wikilink")和[NetBSD](../Page/NetBSD.md "wikilink")的类Unix系统。\[5\]
 
-目前最新的系统软件版本是2019年7月23日所發行的**3.71**版\[6\]。
+目前最新的系统软件版本是2019年10月16日所發行的**3.73**版\[6\]。
 
 ## 软件升级信息
 
@@ -25,8 +25,30 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p><strong>3.73</strong><br />
+2019年10月16日[7]</p></td>
+<td><dl>
+<dt>系统</dt>
+
+</dl>
+<ul>
+<li>此系统软件升级将提升系统性能。</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong>3.72</strong><br />
+2019年8月27日[8]</p></td>
+<td><dl>
+<dt>系统</dt>
+
+</dl>
+<ul>
+<li>此系统软件升级将提升系统性能。</li>
+</ul></td>
+</tr>
+<tr class="odd">
 <td><p><strong>3.71</strong><br />
-2019年7月23日[7]</p></td>
+2019年7月23日[9]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -37,7 +59,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>3.70</strong><br />
-2019年1月14日[8]</p></td>
+2019年1月14日[10]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -48,7 +70,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>3.69</strong><br />
-2018年9月11日[9]</p></td>
+2018年9月11日[11]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -59,7 +81,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>3.68</strong><br />
-2018年4月10日[10]</p></td>
+2018年4月10日[12]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -70,7 +92,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>3.67</strong><br />
-2017年11月28日[11]</p></td>
+2017年11月28日[13]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -81,7 +103,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>3.65</strong><br />
-2017年4月18日[12]</p></td>
+2017年4月18日[14]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -92,7 +114,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>3.63</strong><br />
-2016年11月1日[13]</p></td>
+2016年11月1日[15]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -103,7 +125,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>3.61</strong><br />
-2016年8月8日[14]</p></td>
+2016年8月8日[16]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -114,7 +136,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>3.60</strong><br />
-2016年4月6日[15]</p></td>
+2016年4月6日[17]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -125,7 +147,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>3.57</strong><br />
-2016年1月20日[16]</p></td>
+2016年1月20日[18]</p></td>
 <td><dl>
 <dt>PS4连动</dt>
 
@@ -136,7 +158,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>3.55</strong><br />
-2015年9月30日[17]</p></td>
+2015年9月30日[19]</p></td>
 <td><dl>
 <dt>PS4连动</dt>
 
@@ -154,7 +176,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>3.52</strong><br />
-2015年6月24日[18]</p></td>
+2015年6月24日[20]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -165,7 +187,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>3.51</strong><br />
-2015年5月14日[19]</p></td>
+2015年5月14日[21]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -176,7 +198,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>3.50</strong><br />
-2015年3月26日[20]</p></td>
+2015年3月26日[22]</p></td>
 <td><dl>
 <dt>PlayStation Network</dt>
 
@@ -225,7 +247,7 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>3.36</strong>[21]<br />
+<td><p><strong>3.36</strong>[23]<br />
 2015年1月14日</p></td>
 <td><dl>
 <dt>系统</dt>
@@ -236,7 +258,7 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>3.35</strong>[22]<br />
+<td><p><strong>3.35</strong>[24]<br />
 2014年10月28日</p></td>
 <td><dl>
 <dt>系统</dt>
@@ -260,7 +282,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>3.30</strong>[23]<br />
+<td><p><strong>3.30</strong>[25]<br />
 2014年10月2日</p></td>
 <td><dl>
 <dt>設定</dt>
@@ -324,7 +346,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>3.18</strong>[24]<br />
+<td><p><strong>3.18</strong>[26]<br />
 2014年8月7日</p></td>
 <td><dl>
 <dt>系统</dt>
@@ -339,7 +361,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>3.15</strong>[25]<br />
+<td><p><strong>3.15</strong>[27]<br />
 2014年4月30日</p></td>
 <td><dl>
 <dt>连结<br />
@@ -376,7 +398,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>3.01</strong>[26]<br />
+<td><p><strong>3.01</strong>[28]<br />
 2013年12月11日</p></td>
 <td><dl>
 <dt>系统</dt>
@@ -387,7 +409,7 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>3.00</strong>[27]<br />
+<td><p><strong>3.00</strong>[29]<br />
 2013年11月5日</p></td>
 <td><dl>
 <dt>應用</dt>
@@ -436,7 +458,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong>2.61</strong>[28]<br />
+<td><p><strong>2.61</strong>[30]<br />
 2013年8月28日</p></td>
 <td><dl>
 <dt>系统</dt>
@@ -448,7 +470,7 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>2.60</strong>[29]<br />
+<td><p><strong>2.60</strong>[31]<br />
 2013年8月5日</p></td>
 <td></td>
 </tr>
@@ -457,7 +479,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>2.50</strong>[30]<br />
+<td><p><strong>2.50</strong>[32]<br />
 </p></td>
 <td></td>
 </tr>
@@ -466,7 +488,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>2.12</strong>[31]<br />
+<td><p><strong>2.12</strong>[33]<br />
 2013年5月8日</p></td>
 <td><dl>
 <dt>系统</dt>
@@ -477,7 +499,7 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>2.11</strong>[32]<br />
+<td><p><strong>2.11</strong>[34]<br />
 2013年4月16日</p></td>
 <td><dl>
 <dt>系统</dt>
@@ -488,7 +510,7 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>2.10</strong>[33]<br />
+<td><p><strong>2.10</strong>[35]<br />
 2013年4月9日</p></td>
 <td></td>
 </tr>
@@ -497,7 +519,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>2.06</strong>[34]<br />
+<td><p><strong>2.06</strong>[36]<br />
 2013年3月12日</p></td>
 <td><dl>
 <dt>系统</dt>
@@ -510,7 +532,7 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>2.05</strong>[35]<br />
+<td><p><strong>2.05</strong>[37]<br />
 2013年1月24日</p></td>
 <td><dl>
 <dt>系统</dt>
@@ -522,7 +544,7 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>2.02</strong>[36]<br />
+<td><p><strong>2.02</strong>[38]<br />
 2012年12月19日</p></td>
 <td><dl>
 <dt>系统</dt>
@@ -533,7 +555,7 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>2.01</strong>[37]<br />
+<td><p><strong>2.01</strong>[39]<br />
 2012年12月3日</p></td>
 <td><dl>
 <dt>系统</dt>
@@ -548,7 +570,7 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>2.00</strong>[38]<br />
+<td><p><strong>2.00</strong>[40]<br />
 2012年11月19日</p></td>
 <td><dl>
 <dt>系统</dt>
@@ -590,7 +612,7 @@
 <li>Tapping on a YouTube link will now open the respective video in the YouTube app.</li>
 <li>The <a href="../Page/HTML5.md" title="wikilink">HTML5</a> and <a href="../Page/JavaScript.md" title="wikilink">JavaScript</a> engines have been upgraded.</li>
 <li>Users can now send their current [Web Browser] URL using their Twitter settings.</li>
-<li>Users can now access the [Web Browser] while in an application or game.[39]</li>
+<li>Users can now access the [Web Browser] while in an application or game.[41]</li>
 <li>A pointer can now be used (in conjunction with pressing L or R and tapping on the screen) to select links.</li>
 </ul></li>
 <li>新增[Email]应用</li>
@@ -647,7 +669,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong>1.81</strong>[40]<br />
+<td><p><strong>1.81</strong>[42]<br />
 </p></td>
 <td></td>
 <td><dl>
@@ -656,7 +678,7 @@
 </dl>
 <ul>
 <li>软件的稳定性得到了提高。&lt;!--</li>
-<li>A savegame exploit within <a href="https://zh.wikipedia.org/wiki/Monster_Hunter_Freedom_Unite" title="wikilink">Monster Hunter Freedom Unite</a> has been patched, disallowing the usage of VHBL via the game.[41]</li>
+<li>A savegame exploit within <a href="https://zh.wikipedia.org/wiki/Monster_Hunter_Freedom_Unite" title="wikilink">Monster Hunter Freedom Unite</a> has been patched, disallowing the usage of VHBL via the game.[43]</li>
 </ul>
 <dl>
 <dt>游戏</dt>
@@ -667,20 +689,20 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>1.80</strong>[42]<br />
+<td><p><strong>1.80</strong>[44]<br />
 </p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>1.691</strong>[43]<br />
+<td><p><strong>1.691</strong>[45]<br />
 </p></td>
 <td><p><br />
 <small><em>可选</em></small></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>1.69</strong>[44]<br />
+<td><p><strong>1.69</strong>[46]<br />
 </p></td>
 <td><p><br />
 <small><em>可选</em></small></p></td>
@@ -693,19 +715,19 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong>1.67</strong>[45]<br />
+<td><p><strong>1.67</strong>[47]<br />
 </p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>1.66</strong>[46]<br />
+<td><p><strong>1.66</strong>[48]<br />
 </p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>1.65</strong>[47]<br />
+<td><p><strong>1.65</strong>[49]<br />
 <small><em>Replaced with 1.66</em></small></p></td>
 <td><p>2012年4月3日</p></td>
 <td><dl>
@@ -717,12 +739,12 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong>1.61</strong>[48]</p></td>
+<td><p><strong>1.61</strong>[50]</p></td>
 <td><p>2012年2月21日</p></td>
 <td><p><em>提高运行稳定性</em></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>1.60</strong>[49]</p></td>
+<td><p><strong>1.60</strong>[51]</p></td>
 <td><p>2012年2月8日</p></td>
 <td><p><em>增加地图与拍照功能</em></p></td>
 </tr>
@@ -773,19 +795,19 @@
 
 可通过三种方式更新系统软件：
 
-  - 通过[Wi-Fi](../Page/Wi-Fi.md "wikilink")下载至PS Vita。执行\[设置\]-\[系统升级\]-\[通过Wi-Fi升级\]。\[50\]
+  - 通过[Wi-Fi](../Page/Wi-Fi.md "wikilink")下载至PS Vita。执行\[设置\]-\[系统升级\]-\[通过Wi-Fi升级\]。\[52\]
 
 <!-- end list -->
 
-  - [PS3下载至PS](../Page/PlayStation_3.md "wikilink") Vita。将PS3和PS Vita通过[USB](../Page/USB.md "wikilink")线连接，执行\[设置\]-\[系统升级\]-\[连接 PS3进行升级\]。\[51\]
+  - [PS3下载至PS](../Page/PlayStation_3.md "wikilink") Vita。将PS3和PS Vita通过[USB](../Page/USB.md "wikilink")线连接，执行\[设置\]-\[系统升级\]-\[连接 PS3进行升级\]。\[53\]
 
 <!-- end list -->
 
-  - 通过[PC由内容管理助手软件下载至PS](../Page/个人电脑.md "wikilink") Vita。\[52\]
+  - 通过[PC由内容管理助手软件下载至PS](../Page/个人电脑.md "wikilink") Vita。\[54\]
 
 <!-- end list -->
 
-  - 通过PS Vita游戏卡安装。\[53\]
+  - 通过PS Vita游戏卡安装。\[55\]
 
 ## 兼容的媒体格式
 
@@ -867,106 +889,57 @@ PlayStation Vita能播放多种格式的图片、音频和视频。下表列出�
 [Category:索尼互動娛樂](https://zh.wikipedia.org/wiki/Category:索尼互動娛樂 "wikilink") [Category:電子遊戲機的操作系統](https://zh.wikipedia.org/wiki/Category:電子遊戲機的操作系統 "wikilink") [Category:嵌入式系统](https://zh.wikipedia.org/wiki/Category:嵌入式系统 "wikilink") [Category:PlayStation_Vita](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  [1](http://www.scei.co.jp/psvita-license/freebsd.html)
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
-21. <http://www.phileweb.com/news/d-av/201501/14/36234.html>
-
-22. <http://asia.playstation.com/tw/cht/support/sysupdate?id=370&platformId=5#sysUpdateHistory>
-
-23. <http://asia.playstation.com/tw/cht/support/sysupdate?id=370&platformId=5#sysUpdateHistory>
-
+21.
+22.
+23. <http://www.phileweb.com/news/d-av/201501/14/36234.html>
 24. <http://asia.playstation.com/tw/cht/support/sysupdate?id=370&platformId=5#sysUpdateHistory>
-
-25. <http://asia.playstation.com/hk/chs/support/sysupdate?id=626&platformId=5#sysUpdateHistory>
-
+25. <http://asia.playstation.com/tw/cht/support/sysupdate?id=370&platformId=5#sysUpdateHistory>
 26. <http://asia.playstation.com/tw/cht/support/sysupdate?id=370&platformId=5#sysUpdateHistory>
-
-27. <http://asia.playstation.com/tw/cht/support/sysupdate?id=370&platformId=5#sysUpdateHistory>
-
-28. <http://www.playstationlifestyle.net/2012/12/18/playstation-vita-system-software-version-2-02-now-available-for-download/>
-
-29. <http://www.playstationlifestyle.net/2012/12/18/playstation-vita-system-software-version-2-02-now-available-for-download/>
-
+27. <http://asia.playstation.com/hk/chs/support/sysupdate?id=626&platformId=5#sysUpdateHistory>
+28. <http://asia.playstation.com/tw/cht/support/sysupdate?id=370&platformId=5#sysUpdateHistory>
+29. <http://asia.playstation.com/tw/cht/support/sysupdate?id=370&platformId=5#sysUpdateHistory>
 30. <http://www.playstationlifestyle.net/2012/12/18/playstation-vita-system-software-version-2-02-now-available-for-download/>
-
 31. <http://www.playstationlifestyle.net/2012/12/18/playstation-vita-system-software-version-2-02-now-available-for-download/>
-
 32. <http://www.playstationlifestyle.net/2012/12/18/playstation-vita-system-software-version-2-02-now-available-for-download/>
-
 33. <http://www.playstationlifestyle.net/2012/12/18/playstation-vita-system-software-version-2-02-now-available-for-download/>
-
-34. <https://twitter.com/PlayStation/status/311264776577765376>
-
-35. <http://www.playstationlifestyle.net/2013/01/22/ps-vita-system-software-version-2-05-likely-coming-today-seems-to-be-mandatory/>
-
-36. <http://www.playstationlifestyle.net/2012/12/18/playstation-vita-system-software-version-2-02-now-available-for-download/>
-
-37. <http://www.playstationlifestyle.net/2012/12/03/ps-vita-firmware-v2-01-is-live-download-now/>
-
-38. <http://blog.us.playstation.com/2012/11/13/playstation-plus-for-ps-vita-available-next-week-take-the-tour/>
-
-39. [Shuhei Yoshida](https://zh.wikipedia.org/wiki/Shuhei_Yoshida "wikilink") on Twitter. <https://twitter.com/yosp/status/270429820712783872>
-
-40. <https://twitter.com/PlayStation/status/247851681428164609>
-
-41. 18 September 2012, [Vita Firmware 1.81 is out, patches VHBL](http://wololo.net/2012/09/18/vita-firmware-1-81-is-out-patches-vhbl/), Wololo.net
-
-42. <http://blog.us.playstation.com/2012/08/14/psone-classics-coming-to-ps-vita-via-the-latest-system-software-update-v1-80/>
-
-43. <http://n4g.com/news/1030141/updating-firmware-to-1-691-wait-a-minute-1-691>
-
-44. <http://blog.us.playstation.com/2012/06/11/ps-vita-at-e3-minor-system-software-update-coming/>
-
-45. <http://exophase.com/36431/ps-vita-firmware-1-67-goes-live/>
-
-46. <http://www.engadget.com/2012/04/04/playstation-vita-1-66-firmware-update/>
-
-47. <http://blog.us.playstation.com/2012/04/02/ps-vita-system-software-update-v1-65>
-
-48. <http://blog.us.playstation.com/2012/02/20/ps-vita-system-software-update-v1-61>
-
-49. <http://play-beyond.net/2012/02/08/ps-vita-system-update-1-60-full-change-log/>
-
-50. <http://manuals.playstation.net/document/en/psvita/settings/update_wifi.html>
-
-51. <http://manuals.playstation.net/document/en/psvita/settings/update_ps3.html>
-
-52. <http://manuals.playstation.net/document/en/psvita/settings/update_pc.html>
-
-53. <http://www.jp.playstation.com/psvita/update/ud_card.html>
+34. <http://www.playstationlifestyle.net/2012/12/18/playstation-vita-system-software-version-2-02-now-available-for-download/>
+35. <http://www.playstationlifestyle.net/2012/12/18/playstation-vita-system-software-version-2-02-now-available-for-download/>
+36. <https://twitter.com/PlayStation/status/311264776577765376>
+37. <http://www.playstationlifestyle.net/2013/01/22/ps-vita-system-software-version-2-05-likely-coming-today-seems-to-be-mandatory/>
+38. <http://www.playstationlifestyle.net/2012/12/18/playstation-vita-system-software-version-2-02-now-available-for-download/>
+39. <http://www.playstationlifestyle.net/2012/12/03/ps-vita-firmware-v2-01-is-live-download-now/>
+40. <http://blog.us.playstation.com/2012/11/13/playstation-plus-for-ps-vita-available-next-week-take-the-tour/>
+41. [Shuhei Yoshida](https://zh.wikipedia.org/wiki/Shuhei_Yoshida "wikilink") on Twitter. <https://twitter.com/yosp/status/270429820712783872>
+42. <https://twitter.com/PlayStation/status/247851681428164609>
+43. 18 September 2012, [Vita Firmware 1.81 is out, patches VHBL](http://wololo.net/2012/09/18/vita-firmware-1-81-is-out-patches-vhbl/), Wololo.net
+44. <http://blog.us.playstation.com/2012/08/14/psone-classics-coming-to-ps-vita-via-the-latest-system-software-update-v1-80/>
+45. <http://n4g.com/news/1030141/updating-firmware-to-1-691-wait-a-minute-1-691>
+46. <http://blog.us.playstation.com/2012/06/11/ps-vita-at-e3-minor-system-software-update-coming/>
+47. <http://exophase.com/36431/ps-vita-firmware-1-67-goes-live/>
+48. <http://www.engadget.com/2012/04/04/playstation-vita-1-66-firmware-update/>
+49. <http://blog.us.playstation.com/2012/04/02/ps-vita-system-software-update-v1-65>
+50. <http://blog.us.playstation.com/2012/02/20/ps-vita-system-software-update-v1-61>
+51. <http://play-beyond.net/2012/02/08/ps-vita-system-update-1-60-full-change-log/>
+52. <http://manuals.playstation.net/document/en/psvita/settings/update_wifi.html>
+53. <http://manuals.playstation.net/document/en/psvita/settings/update_ps3.html>
+54. <http://manuals.playstation.net/document/en/psvita/settings/update_pc.html>
+55. <http://www.jp.playstation.com/psvita/update/ud_card.html>

@@ -1483,13 +1483,9 @@ Beautiful (English ver.)</p></td>
 [Category:f(x)](https://zh.wikipedia.org/wiki/Category:f\(x\) "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.

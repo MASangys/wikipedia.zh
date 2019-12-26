@@ -65,15 +65,10 @@
 [Category:軟體設計](https://zh.wikipedia.org/wiki/Category:軟體設計 "wikilink") [Category:面向对象的程序设计](https://zh.wikipedia.org/wiki/Category:面向对象的程序设计 "wikilink")
 
 1.  [“SOLID Object-Oriented Design”](http://goruco2009.confreaks.com/30-may-2009-15-40-solid-object-oriented-design-sandi-metz.html) , Sandi Metz (Duke University), Talk given at the 2009 Gotham [Ruby](https://zh.wikipedia.org/wiki/Ruby_\(programming_language\) "wikilink") Conference in May, 2009. Last verified 2009-01-15.
-
 2.  [“Principles Of OOD”](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod), [Robert C. Martin](https://zh.wikipedia.org/wiki/Robert_C._Martin "wikilink") (“Uncle Bob”), butunclebob.com, Last verified 2009-01-14. (Note the “first five principles”, though the acronym is not used in this article.) Dates back to at least 2003.
-
 3.  [“Getting a SOLID start.”](http://blog.objectmentor.com/articles/2009/02/12/getting-a-solid-start) , [Robert C. Martin](https://zh.wikipedia.org/wiki/Robert_C._Martin "wikilink") (“Uncle Bob”), objectmentor.com. Last verified 2009-01-14.
-
 4.
 5.
 6.  [“Introducing SOLID Object-Oriented Design Principles and Microsoft Unity”](http://nonprofits.accesscomm.ca/springseminar/nug/Introducing_SOLID.ppt), Uwe Schmitz, Presentation given at the Regina .NET User Group in May, 2009. Last verified 2009-01-14.
-
-7.  [“Design Principles and Design Patterns”](http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf), [Robert C. Martin](https://zh.wikipedia.org/wiki/Robert_C._Martin "wikilink") (“Uncle Bob”), objectmentor.com. Last verified 2009-01-14.
-
+7.  [“Design Principles and Design Patterns”](http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf) , [Robert C. Martin](https://zh.wikipedia.org/wiki/Robert_C._Martin "wikilink") (“Uncle Bob”), objectmentor.com. Last verified 2009-01-14.
 8.

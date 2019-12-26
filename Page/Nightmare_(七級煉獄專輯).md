@@ -88,14 +88,9 @@ M. Shadows與Synyster Gates在The Pulse of Radio的專訪上確切的表示，Th
 [Category:搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:搖滾音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:七級煉獄專輯](https://zh.wikipedia.org/wiki/Category:七級煉獄專輯 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.

@@ -73,41 +73,23 @@ Mountain Lion还包含针对[中国用户的定制功能](https://zh.wikipedia.o
 [Category:2012年软件](https://zh.wikipedia.org/wiki/Category:2012年软件 "wikilink") [Category:MacOS](https://zh.wikipedia.org/wiki/Category:MacOS "wikilink") [Category:苹果操作系统](https://zh.wikipedia.org/wiki/Category:苹果操作系统 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  build 12A269
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.

@@ -15,9 +15,6 @@
 [Category:2010年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2010年发现的系外行星 "wikilink") [Category:徑向速度法發現的系外行星](https://zh.wikipedia.org/wiki/Category:徑向速度法發現的系外行星 "wikilink") [Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink") [Category:仙女座](https://zh.wikipedia.org/wiki/Category:仙女座 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

@@ -31,14 +31,9 @@
 [Category:仙女座](https://zh.wikipedia.org/wiki/Category:仙女座 "wikilink") [Category:1999年发现的系外行星](https://zh.wikipedia.org/wiki/Category:1999年发现的系外行星 "wikilink") [Category:適居帶內的系外行星](https://zh.wikipedia.org/wiki/Category:適居帶內的系外行星 "wikilink") [Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink")
 
 1.
-
 2.
-
 3.   ([web version](http://exoplanets.org/planets.shtml))
-
 4.
-
 5.
-
 6.
 7.

@@ -11,7 +11,7 @@
 
   - [Interview with Bob Schmidt in 2007](https://web.archive.org/web/20070314020422/http://www.thepunksite.com/interviews.php?page=floggingmolly)
 
-  - [Burning Stars Interview with Flogging Molly - 2006](http://www.burningstars.net/fm06)
+  - [Burning Stars Interview with Flogging Molly - 2006](https://web.archive.org/web/20120209140734/http://www.burningstars.net/fm06)
 
   - [Flogging Molly Music Videos-Interviews-Live Performance](http://www.roxwel.com/player/floggingmollyuncut.html) at [Roxwel](https://zh.wikipedia.org/wiki/Roxwel "wikilink")
 

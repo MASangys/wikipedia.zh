@@ -429,6 +429,23 @@ FinFET LPP</p></td>
 <td><p>2019年Q3</p></td>
 <td><p><a href="../Page/三星Galaxy_Note_10系列.md" title="wikilink">三星Galaxy Note 10/10+</a>（韓國、國際版本和5G版本）</p></td>
 </tr>
+<tr class="even">
+<td><p>Exynos 980[84]</p></td>
+<td><p>8nm LPP</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A77" title="wikilink">Cortex-A77</a> + <a href="https://zh.wikipedia.org/wiki/Cortex-A55" title="wikilink">Cortex-A55</a></p></td>
+<td><p>2 + 6</p></td>
+<td><p>2.2-1.8</p></td>
+<td><p><a href="../Page/Mali_(GPU).md" title="wikilink">Mali G76MP5</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Exynos 990[85]</p></td>
+<td><p>7nm LPP</p></td>
+<td><p>Exynos M5 +<br />
+<a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A76" title="wikilink">Cortex-A76</a> + <a href="https://zh.wikipedia.org/wiki/Cortex-A55" title="wikilink">Cortex-A55</a></p></td>
+<td><p>2+2+4</p></td>
+<td></td>
+<td><p>Mali G77MP11</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -447,158 +464,87 @@ FinFET LPP</p></td>
 [Category:三星產品](https://zh.wikipedia.org/wiki/Category:三星產品 "wikilink") [Category:微處理器](https://zh.wikipedia.org/wiki/Category:微處理器 "wikilink") [Category:ARM架构](https://zh.wikipedia.org/wiki/Category:ARM架构 "wikilink") [Category:系統單晶片](https://zh.wikipedia.org/wiki/Category:系統單晶片 "wikilink")
 
 1.  <http://www.samsung.com/global/business/semiconductor/minisite/Exynos/news_SAMSUNG_Assigns_New_Nomenclature_to_Application_Processor_Family.html>
-
 2.  <http://product.pconline.com.cn/itbk/sjtx/sjjs/1501/6078356.html>
-
 3.  [S820全面稱霸！安兔兔最新處理器效能排行榜出爐](http://www.eprice.com.tw/mobile/talk/102/4974070/1/) 2016年3月3日, Thomas, eprice.com.tw
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18. Selected devices in Europe/Asia/South America
-
 19.
-
 20.
-
 21.
-
 22.
 23.
 24.
 25.
 26.
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59. <http://www.samsung.com/global/business/semiconductor/minisite/Exynos/cont/w/solution_7octa.html>
-
 60. <https://www.mail-archive.com/linux-samsung-soc%40vger.kernel.org/msg38299.html>
-
 61.  Samsung Exynos|accessdate=2018-01-18|work=Samsung Semiconductor|language=en}}
-
 62. <http://pdadb.net/index.php?m=cpu&id=a7580&c=samsung_exynos_7_octa_7580>
-
 63.  Modem-integrated Octa-core processor built on 14nm FinFET|accessdate=2017-01-22|work=Samsung Exynos Processor|language=en}}
-
 64.  Samsung Exynos|accessdate=2018-01-18|work=Samsung Semiconductor|language=en}}
-
 65.
-
 66.  Samsung Exynos|accessdate=2018-05-02|work=Samsung Semiconductor|language=en}}
-
 67.  Samsung Exynos|accessdate=2018-05-02|work=Samsung Semiconductor|language=en}}
-
 68.
 69.
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.  Samsung Exynos|accessdate=2018-01-04|work=Samsung Semiconductor|language=en}}
-
 78.
-
 79.
-
 80.
-
 81.  Samsung Exynos|url=[https://www.samsung.com/semiconductor/minisite/exynos/products/mobileprocessor/exynos-9825/|accessdate=2019-08-07|work=Samsung](https://www.samsung.com/semiconductor/minisite/exynos/products/mobileprocessor/exynos-9825/%7Caccessdate=2019-08-07%7Cwork=Samsung) Semiconductor|language=en}}
-
 82.
-
 83.  Samsung Exynos|website=Samsung Semiconductor|language=en|access-date=2019-08-07}}
+84.  Samsung Exynos|website=Samsung Semiconductor|language=en|access-date=2019-09-05}}
+85.  Samsung Exynos|website=Samsung Semiconductor|language=en|access-date=2019-10-24}}

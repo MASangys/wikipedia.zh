@@ -224,8 +224,6 @@
 [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:NMB48歌曲](https://zh.wikipedia.org/wiki/Category:NMB48歌曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink") [Category:YOSHIMOTO_R_and_C歌曲](https://zh.wikipedia.org/wiki/Category:YOSHIMOTO_R_and_C歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
 
 1.
-
 2.  2011年7月19日付、約13.2万枚。
-
 3.
 4.

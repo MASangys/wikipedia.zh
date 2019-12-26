@@ -2,7 +2,7 @@
 
 LINE服務性質相當於傳統電信商提供的[多媒體短訊或](https://zh.wikipedia.org/wiki/多媒體短訊 "wikilink")[簡訊](../Page/簡訊.md "wikilink")等服務或[即時通訊](../Page/即時通訊.md "wikilink")之演進，並進一步演化爲整合各項生活機能的平台。
 
-LINE軟體中的吉祥物爲[LINE Friends](https://zh.wikipedia.org/wiki/LINE_Friends "wikilink")，在日本有以LINE Friends为主题的[“LINE”连载动画与漫画期刊在](https://zh.wikipedia.org/wiki/连我#衍生作品 "wikilink")[日本](../Page/日本.md "wikilink")播映或出版，在全球各地設有LINE Store販賣LINE Friends相關周邊商品。
+LINE軟體中的[吉祥物爲](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")[LINE Friends](https://zh.wikipedia.org/wiki/LINE_Friends "wikilink")，在[日本](../Page/日本.md "wikilink")有以LINE Friends为主题的[“LINE”连载动画与漫画期刊在日本播映或出版](https://zh.wikipedia.org/wiki/连我#衍生作品 "wikilink")，在全球各地設有LINE Store販賣LINE Friends相關周邊商品。hiddenだから電話番号って打つだけだからそれでだから番号に6と9入れられるのにhiddenじゃない認証というかidでカッコマイクロソフトアカウントはhiddenだけど マイクロソフトアカウントhidden（電話番号を LINE電話番号で（hiddenでない（forでなくby（全普遍の前置詞まぁ適当にふえん原理が入っている.w
 
 ## 歷史
 
@@ -14,13 +14,13 @@ LINE軟體中的吉祥物爲[LINE Friends](https://zh.wikipedia.org/wiki/LINE_Fr
 
 2016年7月15日，有網友發現LINE推出的限時免費貼圖在臺灣無法下載\[16\]。
 
-2018年，東京地下鐵聯同[大日本印刷](../Page/大日本印刷.md "wikilink")及通訊應用程式Line聯手推出讓座配對服務應用程式，名為 「& HAND」，目標協助[孕婦](https://zh.wikipedia.org/wiki/孕婦 "wikilink")、[長者](https://zh.wikipedia.org/wiki/長者 "wikilink")、行動不便或視聽障者等有需要人士，在列車中找到「有心人」讓座\[17\]。
+2018年，[東京地下鐵](../Page/東京地下鐵.md "wikilink")聯同[大日本印刷](../Page/大日本印刷.md "wikilink")及通訊應用程式Line聯手推出讓座配對服務應用程式，名為 「& HAND」，目標協助孕婦、長者、行動不便或視聽障者等有需要人士，在列車中找到「有心人」讓座\[17\]。
 
 ## 衍生產品
 
 ### Line Out
 
-Line Out 服務分為免費及付費服務，功能為使用Line直接撥打至行動電話號碼或室內電話號碼，免費的Line Out有每通電話的時數限制，如由日本撥打至美國的市內電話，可撥打一通5分鐘的免費通話，付費方式則有儲值型或月費型。目前可免費撥打的國家及地區如加拿大、美國、墨西哥、波多黎各、瑞典、德國、英國、西班牙、中國大陸、韓國、日本等多個國家及地區，其他國家及地區亦適用付費服務。\[18\]目前台灣地區因為法規限制，並無提供Line Out服務。
+Line Out 服務分為免費及付費服務，功能為使用Line直接撥打至行動電話號碼或室內電話號碼，免費的Line Out有每通電話的時數限制，如由日本撥打至美國的市內電話，可撥打一通5分鐘的免費通話，付費方式則有儲值型或月費型。目前可免費撥打的國家及地區如[加拿大](../Page/加拿大.md "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[波多黎各](../Page/波多黎各.md "wikilink")、[瑞典](../Page/瑞典.md "wikilink")、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、中國大陸、韓國、日本等多個國家及地區，其他國家及地區亦適用付費服務。\[18\]目前台灣地區因為法規限制，並無提供Line Out服務。
 
 ### Line Pay
 
@@ -32,7 +32,7 @@ Line Out 服務分為免費及付費服務，功能為使用Line直接撥打至�
 
 ### Line Mobile
 
-  - Line Mobile 是 Line 提供的電信服務，提供消費者通話及[行動網路服務](https://zh.wikipedia.org/wiki/行動網路 "wikilink")。在台灣為[遠傳電信](../Page/遠傳電信.md "wikilink")配合，在日本為 [Softbank](https://zh.wikipedia.org/wiki/Softbank "wikilink") 及 [NTT Docomo](https://zh.wikipedia.org/wiki/NTT_Docomo "wikilink") 配合，[泰國為](https://zh.wikipedia.org/wiki/泰國 "wikilink") DTAC TriNet 合作提供服務。\[19\]
+  - Line Mobile 是 Line 提供的電信服務，提供消費者通話及[行動網路服務](https://zh.wikipedia.org/wiki/行動網路 "wikilink")。在臺灣為[遠傳電信](../Page/遠傳電信.md "wikilink")配合，在日本為 [Softbank](https://zh.wikipedia.org/wiki/Softbank "wikilink") 及 [NTT Docomo](https://zh.wikipedia.org/wiki/NTT_Docomo "wikilink") 配合，[泰國為](https://zh.wikipedia.org/wiki/泰國 "wikilink") DTAC TriNet 合作提供服務。\[19\]
 
 ### Line Shopping
 
@@ -208,7 +208,7 @@ Line Out 服務分為免費及付費服務，功能為使用Line直接撥打至�
 
 ## 彩蛋
 
-LINE在每年兩個固定節日中會有彩蛋出現。每年4月時在聊天室介面內會有[櫻花飄散的特效](https://zh.wikipedia.org/wiki/櫻花 "wikilink")；而每年[12月25日](../Page/12月25日.md "wikilink")[耶誕節時則能在聊天室內看到](https://zh.wikipedia.org/wiki/耶誕節 "wikilink")[雪](../Page/雪.md "wikilink")花飄散的景象。
+LINE在每年兩個固定節日中會有[彩蛋出現](https://zh.wikipedia.org/wiki/彩蛋片段 "wikilink")。每年4月時在聊天室介面內會有[櫻花飄散的特效](https://zh.wikipedia.org/wiki/櫻花 "wikilink")；而每年12月25日[耶誕節時則能在聊天室內看到雪花飄散的景象](https://zh.wikipedia.org/wiki/耶誕節 "wikilink")。
 
 ## 爭議
 
@@ -228,9 +228,9 @@ LINE在每年兩個固定節日中會有彩蛋出現。每年4月時在聊天室
 
 2013年9月，臺灣電磁輻射公害防治協會研究部分[智能手機後發現在開啟LINE之後](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，智能手機所發出的[電磁波就會剧增至](https://zh.wikipedia.org/wiki/電磁波 "wikilink")50,000至60,000[微瓦](https://zh.wikipedia.org/wiki/微瓦 "wikilink")，傳送貼圖時會再升達97,000微瓦，有損害健康的疑慮\[33\]，但是[西安電子科技大學電子工程學院教授侯健強指出](https://zh.wikipedia.org/wiki/西安電子科技大學 "wikilink")，手機上網比不上網的電磁波輻射雖會稍大一些，但不會到萬倍的程度，且其測量方式存在有很大的問題，以隨機測試得到的數據不太準確。[國立臺灣大學](../Page/國立臺灣大學.md "wikilink")電機工程學系教授吳瑞北認為電磁安全規範下，不致影響人類的健康。\[34\]
 
-### 詐騙與廣告入侵
+### 台灣詐騙與廣告入侵
 
-由於台灣地區詐騙猖獗，據[台灣蘋果日報報導一些非法集團利用此通訊軟體進行滲透](https://zh.wikipedia.org/wiki/台灣蘋果日報 "wikilink")。\[35\]
+據[台灣蘋果日報報導](https://zh.wikipedia.org/wiki/台灣蘋果日報 "wikilink")，一些[台灣詐騙集團記非法集團利用此通訊軟體進行滲透與詐欺行為](https://zh.wikipedia.org/wiki/台灣 "wikilink")。\[35\]
 
 ## 相關條目
 
@@ -245,6 +245,7 @@ LINE在每年兩個固定節日中會有彩蛋出現。每年4月時在聊天室
   - [Zalo](https://zh.wikipedia.org/wiki/Zalo "wikilink")
   - [iMessage](https://zh.wikipedia.org/wiki/iMessage "wikilink")
   - [Facebook Messenger](../Page/Facebook_Messenger.md "wikilink")
+  - [微博](../Page/微博.md "wikilink")
 
 ## 參見
 
@@ -254,7 +255,7 @@ LINE在每年兩個固定節日中會有彩蛋出現。每年4月時在聊天室
 
   - [LINE Corporation](https://linecorp.com)
 
-  - [LINE FRIENDS](https://www.linefriends.com)
+  - [LINE FRIENDS](https://web.archive.org/web/20190829154336/https://www.linefriends.com/)
 
   -
   -
@@ -270,70 +271,37 @@ LINE在每年兩個固定節日中會有彩蛋出現。每年4月時在聊天室
 [Category:韓國品牌](https://zh.wikipedia.org/wiki/Category:韓國品牌 "wikilink") [Category:2011年软件](https://zh.wikipedia.org/wiki/Category:2011年软件 "wikilink") [Category:即時通訊軟體](https://zh.wikipedia.org/wiki/Category:即時通訊軟體 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:Windows_Phone軟體](https://zh.wikipedia.org/wiki/Category:Windows_Phone軟體 "wikilink") [Category:Windows即時通訊客戶端](https://zh.wikipedia.org/wiki/Category:Windows即時通訊客戶端 "wikilink") [Category:Firefox_OS軟體](https://zh.wikipedia.org/wiki/Category:Firefox_OS軟體 "wikilink") [Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink") [Category:VoIP軟體](https://zh.wikipedia.org/wiki/Category:VoIP軟體 "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:LINE](https://zh.wikipedia.org/wiki/Category:LINE "wikilink") [Category:被俄罗斯封锁的网站](https://zh.wikipedia.org/wiki/Category:被俄罗斯封锁的网站 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.   NHN Japan官方新聞稿
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22. 亞洲第一搶錢天團Line friends！ 搜狐 [1](https://m.sohu.com/a/129492900_571692/?pvid=000115_3w_a)
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
 28.
-
 29.
-
 30.
-
 31. [大陸地區 LINE 解封](http://www.digi-wo.com/thread-30131-1-1.html)
-
 32.
-
 33. [手機一開LINE 電磁波急升6萬倍](http://hk.news.yahoo.com/%E6%89%8B%E6%A9%9F-%E9%96%8Bline-%E9%9B%BB%E7%A3%81%E6%B3%A2%E6%80%A5%E5%8D%876%E8%90%AC%E5%80%8D-224455117.html)  《晴報》 2013年9月9日
-
 34. [教授駁手機上網電磁波多5萬倍：這個說法不靠譜](http://news.sina.com.tw/article/20130917/10678518.html)  《新浪新聞》 2013年9月17日
-
 35.

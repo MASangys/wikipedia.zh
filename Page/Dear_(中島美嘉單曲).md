@@ -40,15 +40,10 @@
 [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:中島美嘉歌曲](https://zh.wikipedia.org/wiki/Category:中島美嘉歌曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.  [レコチョクアワード 月間最優秀楽曲賞2011年4月度を発表！](http://recochoku.jp/recochoku_ranking/award1104.html)
-
 6.
-
 7.
-
 8.

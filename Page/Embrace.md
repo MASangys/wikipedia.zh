@@ -21,16 +21,11 @@
 [Category:美國搖滾樂團](https://zh.wikipedia.org/wiki/Category:美國搖滾樂團 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:美國樂團](https://zh.wikipedia.org/wiki/Category:美國樂團 "wikilink") [Category:1985年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1985年成立的音樂團體 "wikilink") [Category:後硬蕊樂團](https://zh.wikipedia.org/wiki/Category:後硬蕊樂團 "wikilink")
 
 1.  Cogan, p. 97
-
 2.
 3.
 4.  Cogan, p. 306-07
-
 5.
 6.  Cogan, p. 96
-
 7.  Cogan, p. 103
-
 8.
-
 9.

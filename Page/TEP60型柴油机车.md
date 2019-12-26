@@ -61,7 +61,6 @@ TEP60型机车的冷却系统分为高温冷却水系统及低温冷却水系统
 [Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:科洛姆纳制铁路机车](https://zh.wikipedia.org/wiki/Category:科洛姆纳制铁路机车 "wikilink") [Category:俄罗斯柴油机车](https://zh.wikipedia.org/wiki/Category:俄罗斯柴油机车 "wikilink") [Category:乌克兰柴油机车](https://zh.wikipedia.org/wiki/Category:乌克兰柴油机车 "wikilink") [Category:白俄罗斯柴油机车](https://zh.wikipedia.org/wiki/Category:白俄罗斯柴油机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink")
 
 1.
-
 2.
 3.
 4.

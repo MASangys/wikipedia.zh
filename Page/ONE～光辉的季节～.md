@@ -322,64 +322,34 @@ PS版～光辉的季节～的設定資料集。卷末刊登有吉沢務、久弥
 [Category:1998年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:1998年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:恋爱冒险游戏](https://zh.wikipedia.org/wiki/Category:恋爱冒险游戏 "wikilink") [Category:广播剧CD](https://zh.wikipedia.org/wiki/Category:广播剧CD "wikilink") [Category:Key游戏](https://zh.wikipedia.org/wiki/Category:Key游戏 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:2001年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2001年日本OVA動畫 "wikilink") [Category:2003年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2003年日本成人動畫 "wikilink") [Category:Arms](https://zh.wikipedia.org/wiki/Category:Arms "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink")
 
 1.  2001年，同人文化的大本营“[Comic Market](../Page/Comic_Market.md "wikilink")”的[C60流派代码一览](http://www.comiket.co.jp/info-c/C60/C60genre.html)上、“Leaf & Key”条目首次登场时就包含本作，这种情况直到2012年举行的夏季Comic Macket都没有改变。[C82流派代码一览](http://www.comiket.co.jp/info-c/C82/C82genre.html)
-
 2.
-
 3.
-
 4.  元長柾木 “回想-祭典开始，时代终结”脚注、『美少女游戏的临界点』[東浩紀責任编辑](https://zh.wikipedia.org/wiki/東浩紀 "wikilink")、自費出版、2004年
-
 5.  虽然不是官方设定，在久弥直树的同人小说里，相泽佑一和主人公是同一个班级，在游戏中是冬季转校的。
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14. 关于去“永恒的世界”的人的记忆大约从一周前开始从人们的心中遗忘，回来的时候会一下子回想起来。开始遗忘的时间因与要消失的人的关系要好程度而异。详细信息请参照“永恒的世界”项目。
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.

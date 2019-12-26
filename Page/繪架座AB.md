@@ -28,11 +28,8 @@
 
 1.
 2.  New Members of the TW Hydrae Association, β Pictoris Moving Group, and Tucana/Horologium Association, Inseok Song, B. Zuckerman, and M. S. Bessell, *The Astrophysical Journal* **599**, \#1 (December 2003), pp. 342–350, , .
-
 3.
 4.
 5.  A companion to AB Pic at the planet/brown dwarf boundary, G. Chauvin, A.-M. Lagrange, B. Zuckerman, C. Dumas, D. Mouillet, I. Song, J.-L. Beuzit, P. Lowrance, and M. S. Bessell, *Astronomy and Astrophysics* **438**, \#3 (August 2005), pp. L29–L32, , , .
-
 6.  Homogeneous comparison of directly detected planet candidates: GQ Lup, 2M1207, AB Pic, Ralph Neuhaeuser, *ESO Workshop Proceedings on Multiple Stars*, , .
-
 7.

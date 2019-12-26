@@ -70,10 +70,10 @@
 
 ## 外部連結
 
-  - [《SKE48的魔法廣播》官方網站](http://www.ntv.co.jp/magical/1st/)
+  - [《SKE48的魔法廣播》官方網站](https://web.archive.org/web/20130123073203/http://www.ntv.co.jp/magical/1st/)
 
   - [《SKE48的魔法廣播2》官方網站](http://www.ntv.co.jp/magical/2nd)
 
-  - [《SKE48的魔法廣播3》官方網站](http://www.ntv.co.jp/magical/)
+  - [《SKE48的魔法廣播3》官方網站](https://web.archive.org/web/20120618170657/http://www.ntv.co.jp/magical/)
 
 [Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink") [Category:2011年日本電視節目](https://zh.wikipedia.org/wiki/Category:2011年日本電視節目 "wikilink") [Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")

@@ -64,15 +64,10 @@
 [Category:庫爾人](https://zh.wikipedia.org/wiki/Category:庫爾人 "wikilink") [Category:蝙蝠車](https://zh.wikipedia.org/wiki/Category:蝙蝠車 "wikilink") [Category:瑞士藝術家](https://zh.wikipedia.org/wiki/Category:瑞士藝術家 "wikilink") [Category:瑞士插畫家](https://zh.wikipedia.org/wiki/Category:瑞士插畫家 "wikilink") [Category:瑞士神秘學家](https://zh.wikipedia.org/wiki/Category:瑞士神秘學家 "wikilink") [Category:瑞士畫家](https://zh.wikipedia.org/wiki/Category:瑞士畫家 "wikilink") [Category:瑞士雕塑家](https://zh.wikipedia.org/wiki/Category:瑞士雕塑家 "wikilink") [Category:美术指导](https://zh.wikipedia.org/wiki/Category:美术指导 "wikilink") [Category:异形_(系列电影)](https://zh.wikipedia.org/wiki/Category:异形_\(系列电影\) "wikilink") [Category:奥斯卡金像奖得主](https://zh.wikipedia.org/wiki/Category:奥斯卡金像奖得主 "wikilink")
 
 1.  [Out of this world](http://www.guardian.co.uk/travel/2006/apr/29/onlocationfilminspiredtravel.switzerland.travelfoodanddrink), by Samantha Warwick, *[The Guardian](https://zh.wikipedia.org/wiki/The_Guardian "wikilink")*, 29 April 2006. Retrieved Jun 18, 2009.
-
 2.  Hans Ruedi Giger, ''HR Giger ARh '', tr. Karen Williams, Taschen, 1993, ISBN 9783822896426
-
 3.
 4.  Gary Singh, "Giger Harvest," Silicon Alleys, *Metro Silicon Valley*, July 8–14, 2009, p. 8
-
 5.
 6.
-
 7.  Sheldon Teitelbaum, "Giger's Necronomicon Imagery Comes Alive on the Screen", *Cinefantastique* vol. 18 no. 4, May 1988, <http://www.littlegiger.com/articles/files/Cinefantastique_18_04.pdf> p. 13 (PDF) viewed July 9, 2009
-
 8.

@@ -2,7 +2,7 @@
 
 ## 概要
 
-本作为1988年动画电影《[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")》的平行小说《機動戰士GUNDAM 逆襲的夏亞 贝托蒂加的子嗣》之续作，而非动画作品的直接延续，所以部分描写与《機動戰士GUNDAM 逆襲的夏亞》相矛盾。例如《逆襲的夏亞》中被哈萨威殺害的倩在此作歷史中並不存在，同時奎絲的死也變成由哈薩威誤殺所致。在遊戲《[SD Gundam GGENERATION GENESIS](https://zh.wikipedia.org/wiki/SD_Gundam_GGENERATION_GENESIS "wikilink")》中，為了連貫所有作品，部分劇情會跟小說有所不同。2018年，[萬代](../Page/萬代.md "wikilink")宣佈於2019上映三部曲劇場版。
+本作为1988年动画电影《[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")》的平行小说《機動戰士GUNDAM 逆襲的夏亞 贝托蒂加的子嗣》之续作，而非动画作品的直接延续，所以部分描写与《機動戰士GUNDAM 逆襲的夏亞》相矛盾。例如《逆襲的夏亞》中被哈萨威殺害的倩在此作歷史中並不存在，同時奎絲的死也變成由哈薩威誤殺所致。在遊戲《[SD Gundam GGENERATION GENESIS](https://zh.wikipedia.org/wiki/SD_Gundam_GGENERATION_GENESIS "wikilink")》中，為了連貫所有作品，部分劇情會跟小說有所不同。2018年，[SUNRISE宣佈於](https://zh.wikipedia.org/wiki/SUNRISE "wikilink")2020起上映電影版三部曲。
 
 ## 故事简介
 
@@ -11,7 +11,7 @@
 [U.C.](https://zh.wikipedia.org/wiki/U.C. "wikilink")0100年\[1\]
 
   -
-    隨著夏亞·亞茲納布爾攻擊地球的計划被郎隆德·貝爾隊阻止，新吉翁與聯邦間的戰火亦逐漸平息，但聯邦始終未能完全統一地球圈。聯邦軍方以新吉恩殘党及新奧古聯軍叛亂等事件為由，使SIDE3的吉恩共和國放棄自治權，而宣布已完全消滅戰亂，從此將建立一個安定、和平的地球圈。
+    隨著夏亞·亞茲納布爾攻擊地球的計划被郎隆德·貝爾隊阻止，新吉翁與聯邦間的戰火亦逐漸平息，但聯邦始終未能完全統一地球圈。聯邦軍方以新吉恩殘党「帶袖的」及新奧古聯軍叛亂等事件為由，使SIDE3的吉恩共和國放棄自治權，而宣布已完全消滅戰亂，從此將建立一個安定、和平的地球圈。
 
 <!-- end list -->
 
@@ -37,7 +37,7 @@ U.C.0105年\[2\]
 
 ### 結局與影響
 
-聯邦背棄與肯尼斯的協議，惡意對外公開哈薩威本人就是馬法提，還謊稱是由其父布萊特“大義滅親”親自參與死刑，此舉導致肯尼斯辭官出走並徹底認同聯邦腐敗的想法而興起反聯邦的意念。哈薩威的叛亂雖然以失敗告終，但生前的行動已經成功煽動人民對聯邦的不信任感，埋下未來20年間大規模反聯邦動亂的種子。
+聯邦背棄與肯尼斯的協議，惡意對外公開哈薩威本人就是馬法提，還謊稱是由其父布萊特“大義滅親”親自參與死刑，此舉導致肯尼斯辭官出走並徹底認同聯邦腐敗的想法而興起反聯邦的意念。雖然哈薩威的叛亂以失敗告終，但生前的行動已經成功煽動人民對聯邦的不信任感，埋下未來20年至50年間大規模反聯邦動亂的種子。
 
 ## 登场人物
 
@@ -201,6 +201,7 @@ U.C.0105年\[2\]
 ## 外部链接
 
   - [Amazon.jp 機動戦士ガンダム 閃光のハサウェイ](http://www.amazon.co.jp/s/ref=nb_ss_b/503-6538187-8184721?__mk_ja_JP=%83J%83%5E%83J%83i&initialSearch=1&url=search-alias%3Dstripbooks&field-keywords=%8B@%93%AE%90%ED%8Em%83K%83%93%83_%83%80+%91M%8C%F5%82%CC%83n%83T%83E%83F%83C&Go.x=10&Go.y=11)
+  - [『機動戦士ガンダム 閃光のハサウェイ』官方網頁](http://gundam-hathaway.net)
 
 ## 另见
 
@@ -221,6 +222,5 @@ U.C.0105年\[2\]
 [Category:GUNDAM系列小說](https://zh.wikipedia.org/wiki/Category:GUNDAM系列小說 "wikilink") [Category:1989年小說](https://zh.wikipedia.org/wiki/Category:1989年小說 "wikilink") [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink")
 
 1.
-
 2.
 3.  初版發行的時侯由角川Sneaker文庫的前身「角川文庫・青版」發行。

@@ -156,8 +156,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a></p></td>
 <td><p>失驚無神閃星星（30）<br />
 喜愛夜泡（30）<br />
-姚明紅蘿蔔（30）<br />
-求其一碗魚生飯（30）</p></td>
+姚明紅蘿蔔（30）</p></td>
 </tr>
 <tr class="odd">
 <td><p>08</p></td>

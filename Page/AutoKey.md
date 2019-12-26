@@ -18,9 +18,6 @@
 [Category:自由系統軟體](https://zh.wikipedia.org/wiki/Category:自由系統軟體 "wikilink") [Category:Linux軟件](https://zh.wikipedia.org/wiki/Category:Linux軟件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

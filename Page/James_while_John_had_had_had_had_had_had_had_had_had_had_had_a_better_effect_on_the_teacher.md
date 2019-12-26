@@ -25,25 +25,15 @@
 [Category:语言游戏](https://zh.wikipedia.org/wiki/Category:语言游戏 "wikilink") [Category:语法](https://zh.wikipedia.org/wiki/Category:语法 "wikilink") [Category:英语](https://zh.wikipedia.org/wiki/Category:英语 "wikilink") [Category:歧義](https://zh.wikipedia.org/wiki/Category:歧義 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  [3802 - Operator Jumble](http://acmicpc-live-archive.uva.es/nuevoportal/data/problem.php?p=3802)
-
 8.
 9.
 10. Reichenbach, Hans (1947) Elements of symbolic logic. London: Collier-MacMillan. Exercise 3-4, p.405; solution p.417.
-
 11.
-
 12.
-
 13.

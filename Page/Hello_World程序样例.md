@@ -1200,7 +1200,6 @@ showpage
 [Category:计算机编程](https://zh.wikipedia.org/wiki/Category:计算机编程 "wikilink") [Category:带有C代码示例的条目](https://zh.wikipedia.org/wiki/Category:带有C代码示例的条目 "wikilink")
 
 1.  [The Hello World Collection](http://helloworldcollection.de) helloworldcollection.de \[2014-12-12\]
-
 2.
 3.
 4.

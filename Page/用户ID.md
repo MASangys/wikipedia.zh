@@ -59,10 +59,7 @@
 [Category:计算机科学](https://zh.wikipedia.org/wiki/Category:计算机科学 "wikilink") [Category:操作系统](https://zh.wikipedia.org/wiki/Category:操作系统 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.

@@ -63,5 +63,5 @@
 [Category:馬自達引擎與技術](https://zh.wikipedia.org/wiki/Category:馬自達引擎與技術 "wikilink")
 
 1.  請見[高值動力複合系統](http://www.artc.org.tw/chinese/03_service/down.aspx?file_name=tw_knowledge_m069_04.pdf&file_value=3)，第4頁第1段。
-2.  參考[【MAZDA】アイドリングストップシステム「i-STOP」の開発と実用化](http://www.mazda.co.jp/csr/environment/special_features/2009_02_01.html)，「i-stopの作動原理」圖解。
-3.  請見[【MAZDA】マツダのアイドリングストップシステム「i-stop」が第8回新機械振興賞「機械振興協会会長賞」を受賞](http://www.mazda.co.jp/corporate/publicity/release/2011/201102/110222a.html)。
+2.  參考[【MAZDA】アイドリングストップシステム「i-STOP」の開発と実用化](http://www.mazda.co.jp/csr/environment/special_features/2009_02_01.html) ，「i-stopの作動原理」圖解。
+3.  請見[【MAZDA】マツダのアイドリングストップシステム「i-stop」が第8回新機械振興賞「機械振興協会会長賞」を受賞](http://www.mazda.co.jp/corporate/publicity/release/2011/201102/110222a.html) 。

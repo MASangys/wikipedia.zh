@@ -1,4 +1,4 @@
-**亞騰資產管理**，簡稱**ARA 資產管理**（****，），在2002年，由[香港](../Page/香港.md "wikilink")[長江實業（集團）有限公司](https://zh.wikipedia.org/wiki/長江實業（集團）有限公司 "wikilink")，和現任總裁[林惠璋](https://zh.wikipedia.org/wiki/林惠璋 "wikilink")，在[新加坡](../Page/新加坡.md "wikilink")組成一家專門金融資產管理公司。而非執行主席為[趙國雄](../Page/趙國雄.md "wikilink")。
+**亞騰資產管理**，簡稱**ARA 資產管理**（****，，新交所除牌時D1R），在2002年，由[香港](../Page/香港.md "wikilink")[長江實業（集團）有限公司](https://zh.wikipedia.org/wiki/長江實業（集團）有限公司 "wikilink")，和現任總裁[林惠璋](https://zh.wikipedia.org/wiki/林惠璋 "wikilink")，在[新加坡](../Page/新加坡.md "wikilink")組成一家專門金融資產管理公司。而非執行主席為[趙國雄](../Page/趙國雄.md "wikilink")。
 
 亞騰資產管理所管理之上市[產業信託基金包括](https://zh.wikipedia.org/wiki/產業信託基金 "wikilink")[置富產業信託](../Page/置富產業信託.md "wikilink")、[泓富產業信託](../Page/泓富產業信託.md "wikilink")、[凯诗物流信托](https://zh.wikipedia.org/wiki/凯诗物流信托 "wikilink")（和[迅通集團有限公司合營](https://zh.wikipedia.org/wiki/迅通集團有限公司 "wikilink")）、[匯賢產業信託](../Page/匯賢產業信託.md "wikilink")30%權益、[新达信托](https://zh.wikipedia.org/wiki/新达信托 "wikilink")，以及[AmFIRST信託](https://zh.wikipedia.org/wiki/AmFIRST信託 "wikilink")。而非上市產業信託基金則有5家，包括[Dynasty REIT](https://zh.wikipedia.org/wiki/Dynasty_REIT "wikilink")。除此之外，還經營房地產管理服務\[1\]。
 
@@ -13,6 +13,8 @@
 2013年12月25日泓ARA發表聲明指出，公司將會收購麥格理韓國房地產公司(Ｍacquarie Real Estate Korea Limited)，後者的總部位於南韓首爾，業務包括透過兩個私人持有的房地產信託基金(REITs)，管理市值達5884億韓圜的物業(折合約43港億元)。。另外，ARA Asset Management將收購麥格理旗下一家房地產投資信託基金10.02%的股份，但未有透露交易金額。
 
 2014年1月10日新加坡亞騰資產管理（ARA Asset Management）旗下亞騰亞洲基金，落實以約24億元人民幣，向江蘇民營企業三胞集團出售南京國際金融中心，折合平均每方米樓面價約2.27萬元人民幣。
+
+2016年11月，ARA資產管理股東連同[華平投資及](https://zh.wikipedia.org/wiki/華平投資 "wikilink")[中航集團旗下中航信託](https://zh.wikipedia.org/wiki/中航集團 "wikilink")，提出以每股1.78新加坡元私有化ARA資產管理。華平投資及中航佔託在私有化完成後持股分別為30.72%及20.48%。\[5\]
 
 ## ARA的業務包括
 
@@ -32,11 +34,10 @@
 
   - [ARA-Asia.com](http://www.ara-asia.com)
 
-[Category:新加坡公司](https://zh.wikipedia.org/wiki/Category:新加坡公司 "wikilink") [Category:基金公司](https://zh.wikipedia.org/wiki/Category:基金公司 "wikilink") [Category:2002年成立的公司](https://zh.wikipedia.org/wiki/Category:2002年成立的公司 "wikilink")
-
-[Category:長江實業集團](https://zh.wikipedia.org/wiki/Category:長江實業集團 "wikilink")
+[Category:新加坡公司](https://zh.wikipedia.org/wiki/Category:新加坡公司 "wikilink") [Category:長江實業集團](https://zh.wikipedia.org/wiki/Category:長江實業集團 "wikilink") [Category:基金公司](https://zh.wikipedia.org/wiki/Category:基金公司 "wikilink") [Category:2002年成立的公司](https://zh.wikipedia.org/wiki/Category:2002年成立的公司 "wikilink") [Category:新加坡證券交易所已除牌公司](https://zh.wikipedia.org/wiki/Category:新加坡證券交易所已除牌公司 "wikilink")
 
 1.  [ARA 資產管理集團架構](http://www.ara-asia.com/home/corp/GroupStructure.html)
 2.  [長實資產管理ARA 周五星洲上市 文匯報 2007-10-28](http://paper.wenweipo.com/2007/10/28/FI0710280009.htm)
 3.  [ARA资产拟新加坡上市下月展开推介，集资2亿美元 07年9月25日 14:49 财华社](http://www.wolun.com.cn/news/4/45436.html)
 4.  [ARA資產管理有限公司提供招股資料](http://info.sgx.com/webipo.nsf/IPOAttachmentsName/ARA%20ASSET%20MANAGEMENT%20LIMITED/$File/ara_final_cbooklet.pdf)
+5.  [長實旗下ARA提私有化](https://hk.finance.appledaily.com/finance/daily/article/20161109/19827501)

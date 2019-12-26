@@ -632,7 +632,7 @@
 <td><p>We're the friends!</p></td>
 <td><p>第三次灰姑娘总选举分属性前三名</p></td>
 <td><p>2014.07.30</p></td>
-<td><p>涩谷凛（<a href="../Page/福原綾香.md" title="wikilink">福原绫香</a>）／安部菜菜（<a href="../Page/三宅麻理惠.md" title="wikilink">三宅麻理恵</a>）／绪方智绘里（<a href="../Page/大空直美.md" title="wikilink">大空直美</a>）／岛村卯月（<a href="../Page/大橋彩香.md" title="wikilink">大桥彩香</a>）／本田未央（<a href="../Page/原紗友里.md" title="wikilink">原纱友里</a>）／鹭泽文香（<a href="../Page/市道真央.md" title="wikilink">M･A･O</a>）／高垣枫（<a href="../Page/早見沙織.md" title="wikilink">早见沙织</a>）／姬川友纪（）／高森蓝子（<a href="../Page/金子有希.md" title="wikilink">金子有希</a>）</p></td>
+<td><p>涩谷凛（<a href="../Page/福原綾香.md" title="wikilink">福原绫香</a>）／安部菜菜（<a href="../Page/三宅麻理惠.md" title="wikilink">三宅麻理恵</a>）／绪方智绘里（<a href="../Page/大空直美.md" title="wikilink">大空直美</a>）／岛村卯月（<a href="../Page/大橋彩香.md" title="wikilink">大桥彩香</a>）／本田未央（<a href="../Page/原紗友里.md" title="wikilink">原纱友里</a>）／鹭泽文香（<a href="../Page/市道真央.md" title="wikilink">M･A･O</a>）／高垣枫（<a href="../Page/早見沙織.md" title="wikilink">早见沙织</a>）／姬川友纪（<a href="../Page/杜野真子.md" title="wikilink">杜野真子</a>）／高森蓝子（<a href="../Page/金子有希.md" title="wikilink">金子有希</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>Absolute NIne</p></td>
@@ -1053,7 +1053,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 </tr>
 <tr class="even">
 <td><p>032</p></td>
-<td><p>姬川友纪（）</p></td>
+<td><p>姬川友纪（<a href="../Page/杜野真子.md" title="wikilink">杜野真子</a>）</p></td>
 <td></td>
 <td><p>Funta3</p></td>
 <td><p>Funta7</p></td>
@@ -1390,7 +1390,7 @@ CD内收录有各角色的個人新曲和伴唱音樂、廣播劇「目標！灰
 <td><p>003</p></td>
 <td></td>
 <td><p>2016.06.15</p></td>
-<td><p>姬川友纪（）／市原仁奈（<a href="../Page/久野美咲.md" title="wikilink">久野美咲</a>）／片桐早苗（<a href="../Page/和氣杏未.md" title="wikilink">和气杏未</a>）／大槻唯（<a href="../Page/山下七海.md" title="wikilink">山下七海</a>）／相叶夕美（<a href="../Page/木村珠莉.md" title="wikilink">木村珠莉</a>）</p></td>
+<td><p>姬川友纪（<a href="../Page/杜野真子.md" title="wikilink">杜野真子</a>）／市原仁奈（<a href="../Page/久野美咲.md" title="wikilink">久野美咲</a>）／片桐早苗（<a href="../Page/和氣杏未.md" title="wikilink">和气杏未</a>）／大槻唯（<a href="../Page/山下七海.md" title="wikilink">山下七海</a>）／相叶夕美（<a href="../Page/木村珠莉.md" title="wikilink">木村珠莉</a>）</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1828,27 +1828,17 @@ Stage Bye Stage
 [Category:偶像大师系列](https://zh.wikipedia.org/wiki/Category:偶像大师系列 "wikilink") [Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink") [Category:偶像大師系列音樂](https://zh.wikipedia.org/wiki/Category:偶像大師系列音樂 "wikilink") [Category:動畫音樂作品](https://zh.wikipedia.org/wiki/Category:動畫音樂作品 "wikilink")
 
 1.  《MASTER ARTIST 09 萩原雪步》和と《MASTER ARTIST 10 秋月律子》原本是預定同步發售、但由於制作的原因而導致延遅發售，變成10比09先發售。即使如此，全10隻CD的購入特典—社長Figure的申請截止日期是沒有改變。
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10. 《偶像大师 灰姑娘女孩》（动画）中首次出现、并作为动画主角的14人组合，包括岛村卯月（CV：大桥彩香）、涩谷凛（CV：福原绫香）、本田未央（CV：原纱友里）、 双叶杏（CV：五十岚裕美）、三村加奈子（CV：大坪由佳）、城崎莉嘉（CV：山本希望）、 神崎兰子（CV：内田真礼）、前川未来（CV：高森奈津美）、诸星琪拉里（CV：松嵜丽）、 多田李衣菜（CV：青木瑠璃子）、赤城米莉亚（CV：黑泽朋世）、新田美波（CV：洲崎绫）、 绪方智绘里（CV：大空直美）和安娜斯塔西亚（CV：上坂堇）
-
 11.
 12. 《偶像大师 灰姑娘女孩》（动画）中首次出现、以已出道前辈身份参与动画剧情的9人组合，包括高垣枫（CV：早见沙织）、城崎美嘉（CV：佳村遥）、小日向美穂（CV：津田美波）、十時愛梨（CV：原田瞳）、川岛瑞树（CV：东山奈央）、日野茜（CV：赤﨑千夏）、舆水幸子（CV：竹达彩奈）、佐久间麻由（CV：牧野由依）和白坂小梅（CV：樱咲千依）
-
 13.
 14.
 15.

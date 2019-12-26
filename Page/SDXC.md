@@ -87,10 +87,10 @@ UHS-II記憶卡多了一排針腳。第一排針腳與UHS-I相同，這樣可相
 | 60 MB/s                                                       | \-                                                                                                                                    | \-                                                                                                                            | [Video_Speed_Class_60.png](https://zh.wikipedia.org/wiki/File:Video_Speed_Class_60.png "fig:Video_Speed_Class_60.png") Class 60 (V60) | [8K影片](../Page/超高畫質電視.md "wikilink") 60/120 fps (UHS)                       |
 | 90 MB/s                                                       | \-                                                                                                                                    | \-                                                                                                                            | [Video_Speed_Class_90.png](https://zh.wikipedia.org/wiki/File:Video_Speed_Class_90.png "fig:Video_Speed_Class_90.png") Class 90 (V90) |                                                                             |
 
-| Application Performance Class                                                                                                                                           | Minimum sustained sequential writing speed | Minimum random read | Minimum random write |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------- | -------------------- |
-| [Application_Performance_Class_1.png](https://zh.wikipedia.org/wiki/File:Application_Performance_Class_1.png "fig:Application_Performance_Class_1.png") Class 1 (A1) | 10 MB/s                                    | 1500 IOPS           | 500 IOPS             |
-| [Application_Performance_Class_2.png](https://zh.wikipedia.org/wiki/File:Application_Performance_Class_2.png "fig:Application_Performance_Class_2.png") Class 2 (A2) | 4000 IOPS                                  | 2000 IOPS           |                      |
+| 应用性能等级                                                                                                                                                                  | 最小持续连续写入速度 | 最小随机读取    | 最小随机写入   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------- | -------- |
+| [Application_Performance_Class_1.png](https://zh.wikipedia.org/wiki/File:Application_Performance_Class_1.png "fig:Application_Performance_Class_1.png") Class 1 (A1) | 10 MB/s    | 1500 IOPS | 500 IOPS |
+| [Application_Performance_Class_2.png](https://zh.wikipedia.org/wiki/File:Application_Performance_Class_2.png "fig:Application_Performance_Class_2.png") Class 2 (A2) | 4000 IOPS  | 2000 IOPS |          |
 
 裝置（如[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")）必須支援UHS，才能保證達到上述U1或U3最低寫入速度。
 
@@ -108,11 +108,8 @@ UHS-II記憶卡多了一排針腳。第一排針腳與UHS-I相同，這樣可相
 [Category:記憶卡](https://zh.wikipedia.org/wiki/Category:記憶卡 "wikilink")
 
 1.
-
 2.
 3.  [Microsoft KB955704 update](http://www.microsoft.com/downloads/details.aspx?FamilyID=1cbe3906-ddd1-4ca2-b727-c2dff5e30f61&displayLang=zh-tw)
-
 4.
 5.  [SD Bus Speed](https://www.sdcard.org/consumers/speed/bus_speed/)  SD Association
-
 6.

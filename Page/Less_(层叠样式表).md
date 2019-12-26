@@ -162,15 +162,11 @@ LESS由于以JavaScript实现，因此既可以在浏览器上进行实时翻译
 [Category:网页设计](https://zh.wikipedia.org/wiki/Category:网页设计 "wikilink") [Category:层叠样式表](https://zh.wikipedia.org/wiki/Category:层叠样式表 "wikilink")
 
 1.  [Sass and Less](http://nex-3.com/posts/83-sass-and-less)  Sass and Less
-
 2.
 3.  [Official LESS website](http://lesscss.org/) Official LESS website
-
 4.
 5.
 6.
 7.  [About LESS](http://lesscss.org/about) About
-
 8.  [What's Wrong With CSS](http://www.codinghorror.com/blog/2010/04/whats-wrong-with-css.html) What's Wrong With CSS
-
 9.

@@ -124,7 +124,7 @@
 
     變身咒語為「光之美少女 微笑加倍（Precure Smile Charge）」\[7\]
 
-    變身口號為「勇氣凜凜，直球決勝！旋風天使！」\[8\]。
+    變身口號為「勇氣凜凜，直球決勝！前进天使！」\[8\]。
 
     團體口號為「由五道光芒引導的未來，閃耀吧！Smile光之美少女！」
 
@@ -512,6 +512,30 @@
 
   -
 
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  -
+
     七色丘中學學生會會長，長相英俊的男生，極受學校女生青睞。
 
 <!-- end list -->
@@ -530,7 +554,19 @@
 
   -
 
-    第17話登場客串的真人角色、日本知名[搞笑藝人組合](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")。小茜崇拜的偶像
+    第17話登場客串的真人角色、日本知名[搞笑藝人組合](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")，小茜崇拜的偶像。
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  -
 
 <!-- end list -->
 
@@ -1533,19 +1569,13 @@
 [Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink") [Category:2012年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2012年日本電視動畫 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 
 1.  原文：
-
 2.  原文：
-
 3.
 4.  原文：
-
 5.
 6.  原文：
-
 7.
 8.  原文：
-
 9.
 10. 原文：
-
 11. 每話標題基本由星空幸的聲優福圓美里讀出。

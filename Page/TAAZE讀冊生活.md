@@ -28,19 +28,12 @@
 [Category:台灣網路書店](https://zh.wikipedia.org/wiki/Category:台灣網路書店 "wikilink") [Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink") [Category:總部位於臺北市松山區的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於臺北市松山區的工商業機構 "wikilink") [Category:舊書店](https://zh.wikipedia.org/wiki/Category:舊書店 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.

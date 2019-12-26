@@ -103,29 +103,19 @@ DS曾经出现在许多电影和电视作品中，\[15\]并代表着法国国家
 [Category:雪鐵龍車輛](https://zh.wikipedia.org/wiki/Category:雪鐵龍車輛 "wikilink") [Category:敞篷車](https://zh.wikipedia.org/wiki/Category:敞篷車 "wikilink") [Category:行政轎車](https://zh.wikipedia.org/wiki/Category:行政轎車 "wikilink") [Category:豪華汽車](https://zh.wikipedia.org/wiki/Category:豪華汽車 "wikilink") [Category:中型車](https://zh.wikipedia.org/wiki/Category:中型車 "wikilink") [Category:轎車](https://zh.wikipedia.org/wiki/Category:轎車 "wikilink") [Category:旅行車](https://zh.wikipedia.org/wiki/Category:旅行車 "wikilink") [Category:拉力賽車輛](https://zh.wikipedia.org/wiki/Category:拉力賽車輛 "wikilink") [Category:中置引擎](https://zh.wikipedia.org/wiki/Category:中置引擎 "wikilink") [Category:前輪驅動](https://zh.wikipedia.org/wiki/Category:前輪驅動 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
 11.
 12.
 13.
-
 14.
 15.
-
 16.
-
 17. John Reynolds: "Original Citroën DS", Bay View Books, 1996, page 135

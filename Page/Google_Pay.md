@@ -2,7 +2,7 @@
 
 截至2018年1月8日，Google Wallet 和 Android Pay 已整合為一個名為 Google Pay 的單一行動支付服務(Pay with Google)。
 
-Google Wallet是Google較早發展的支付工具，可用於實體及網路消費付款以及個人之間的交易，後來推出了全球通行的Android Pay，則調整為個人間的收付、轉帳功能，而且連結美國銀行帳戶而以美國市場為主。\[1\] Android Pay更名並重新命名為Google Pay。Google Pay將擁有Android Pay的所有功能，而Google Wallet功能（例如請求和發送資金）將出現在[Google Pay Send中](../Page/Google_Pay_Send.md "wikilink")，該功能目前是一個單獨的應用程序。\[2\]\[3\]
+Google Wallet是Google較早發展的支付工具，可用於實體及網路消費付款以及個人之間的交易，後來推出了全球通行的Android Pay，則調整為個人間的收付、轉帳功能，而且連結美國銀行帳戶而以美國市場為主。\[1\]Android Pay更名並重新命名為Google Pay。Google Pay將擁有Android Pay的所有功能，而Google Wallet功能（例如請求和發送資金）將出現在[Google Pay Send中](../Page/Google_Pay_Send.md "wikilink")，該功能目前是一個單獨的應用程序。\[2\]\[3\]
 
 更名服務提供了一個新的API，允許商家將支付服務添加到網站、應用程序、[Stripe](../Page/Stripe.md "wikilink")、[Braintree和](https://zh.wikipedia.org/wiki/Braintree "wikilink")[Google Assistant](https://zh.wikipedia.org/wiki/Google_Assistant "wikilink")\[4\]。該服務允許用戶使用他們在Google Play上儲存的支付卡\[5\]。
 
@@ -240,99 +240,52 @@ Google支付服務主管Pali Bhat在接受外國傳媒查詢時指出，支付�
 [Category:Google服務](https://zh.wikipedia.org/wiki/Category:Google服務 "wikilink") [Category:行動支付](https://zh.wikipedia.org/wiki/Category:行動支付 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.  Webmasters|url = [http://www.w3reports.com/2013/05/15/attach-real-money-in-gmail-with-google-wallet/|website](http://www.w3reports.com/2013/05/15/attach-real-money-in-gmail-with-google-wallet/%7Cwebsite) = W3Reports|access-date = 2016-02-08}}
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28. Kevin Fogarty, [Even after rewrites, Google Wallet retains gaping security holes, mainly due to Android](http://www.itworld.com/mobile-wireless/248596/even-after-rewrites-google-wallet-retains-gaping-security-holes-mainly-due-an), itworld, February 10, 2012.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33. Harley Geiger, [NFC Phones Raise Opportunities, Privacy and Security Issues](http://www.cdt.org/blogs/harley-geiger/nfc-phones-raise-opportunities-privacy-and-security-issues), Center for Democracy and Technology, April 11, 2011.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
 49.
 50.

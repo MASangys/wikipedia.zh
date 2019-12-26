@@ -30,9 +30,6 @@
 [Category:皇甫惠貞音樂專輯](https://zh.wikipedia.org/wiki/Category:皇甫惠貞音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

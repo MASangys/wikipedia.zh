@@ -56,36 +56,22 @@ Mac App Store携超过1000个程序上线，包括[iWork](https://zh.wikipedia.o
 [Category:2011年软件](https://zh.wikipedia.org/wiki/Category:2011年软件 "wikilink") [Category:软件分发平台](https://zh.wikipedia.org/wiki/Category:软件分发平台 "wikilink") [Category:MacOS](https://zh.wikipedia.org/wiki/Category:MacOS "wikilink") [Category:蘋果公司服務](https://zh.wikipedia.org/wiki/Category:蘋果公司服務 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
-
 8.
-
 9.
-
 10. [GPL and the Mac App Store](http://adium.im/pipermail/devel_adium.im/2011-January/007973.html)
-
 11. <http://www.fsf.org/blogs/licensing/more-about-the-app-store-gpl-enforcement>
-
 12. <http://www.gamasutra.com/view/news/32966/Apple_Pulls_Counterfeit_Lugaru_From_Mac_App_Store.php>
-
 13.
-
 14.
 15.
 16.
 17. [Gravilux: An iPad App Moves to the Desktop via the New Mac App Store, prMac, January 6, 2011](http://prmac.com/release-id-20275.htm)
-
 18.
-
 19.
-
 20.

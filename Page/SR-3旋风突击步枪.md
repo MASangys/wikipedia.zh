@@ -1,4 +1,4 @@
-**SR-3“旋風”**（，[俄语罗马化](../Page/俄语罗马化.md "wikilink")全寫：**S**petsialnaya **R**azarbotka**-3**，意為：特別研發3型，Vikhr；，全寫：**С**пециальная **Р**азработка**-3**）是一枝由[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")（）所研製及生產的緊湊型全自動[突击步枪](../Page/突击步枪.md "wikilink")，發射[9×39毫米](../Page/9×39mm.md "wikilink")[苏聯](https://zh.wikipedia.org/wiki/苏聯 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[亞音速](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**SR-3“旋風”**（，[俄语罗马化](../Page/俄语罗马化.md "wikilink")全寫：**S**petsialnaya **R**azarbotka**-3**，意為：特別研發3型，Vikhr；，全寫：**С**пециальная **Р**азработка**-3**）是一系列由[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")（）所研製及生產的緊湊型全自動[突击步枪](../Page/突击步枪.md "wikilink")，發射[9×39毫米](../Page/9×39mm.md "wikilink")[苏聯](https://zh.wikipedia.org/wiki/苏聯 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[亞音速](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史
 
@@ -24,7 +24,7 @@ SR-3是在1990年代由（）以「緊湊型突擊步槍」之名研製。它是
 
 SR-3在耐衝擊的[聚合物](../Page/聚合物.md "wikilink")[护木前上方設有一對左右對稱的滑塊狀](https://zh.wikipedia.org/wiki/护木 "wikilink")，讓握護木的手的拇指和食指抓住拉機柄兩側並向後拉動至後方就能拉動槍機，然後鬆開拉機柄即可以完成推彈上膛的動作。拉機柄在發射時不會跟隨著槍機一起運動。在槍機機框右側具有一個水滴形狀的凹坑，內部具有鋸齒型防滑紋。如果發生閉鎖不完全或是需要手動閉膛時，使用者可以把用手指藉由水滴狀凹坑強行推槍機向前以完成閉鎖。
 
-SR-3的扳機和擊發機構與[AS Val](../Page/AS_Val微聲自動步槍.md "wikilink")、[VSS Vintorez和](../Page/VSS_Vintorez狙擊步槍.md "wikilink")[捷克](../Page/捷克.md "wikilink")[Vz.58相同的是都採用了](https://zh.wikipedia.org/wiki/Vz.58突擊步槍 "wikilink")[平移式擊錘](https://zh.wikipedia.org/wiki/平移式擊錘 "wikilink")。擊錘簧位於槍機復進簧的下方，兩個彈簧組的彈簧導桿和聚合物槍機緩衝器一起安裝在槍尾。SR-3亦把AK樣式保險柄改為塑料握把上方兩側設置的槓桿，方便左右兩手都可以由[拇指輕鬆地激活操作](https://zh.wikipedia.org/wiki/拇指 "wikilink")。[快慢機的位置是在](https://zh.wikipedia.org/wiki/擊發調變模式 "wikilink")[扳機護圈內](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，位於板機後面。
+SR-3的扳機和擊發機構與[AS Val](../Page/AS_Val微聲自動步槍.md "wikilink")、[VSS Vintorez和](../Page/VSS_Vintorez狙擊步槍.md "wikilink")[捷克](../Page/捷克.md "wikilink")[Vz.58相同的是都採用了](https://zh.wikipedia.org/wiki/Vz.58突擊步槍 "wikilink")[平移式擊錘](https://zh.wikipedia.org/wiki/平移式擊錘 "wikilink")。擊錘簧位於槍機復進簧的下方，兩個彈簧組的彈簧導桿和聚合物槍機緩衝器一起安裝在槍尾。SR-3亦把AK樣式保險柄改為塑料握把上方兩側設置的槓桿，方便左右兩手都可以由[拇指輕鬆地激活操作](https://zh.wikipedia.org/wiki/拇指 "wikilink")。[快慢機的位置是在](https://zh.wikipedia.org/wiki/擊發調變模式 "wikilink")[扳機護環內](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，位於板機後面。
 
 SR-3配備了一個緊湊型[槍口制退器](../Page/砲口制動器.md "wikilink")，但不能安裝[消聲器](../Page/抑制器.md "wikilink")。SR-3裝有全新設計、由鋼板[衝壓](../Page/衝壓.md "wikilink")件所製造的上翻折疊式[槍托](../Page/槍托.md "wikilink")，不使用時可以向上翻折疊。配合SR-3採用了更簡單的小型[機械瞄具](../Page/機械瞄具.md "wikilink")，便於。
 

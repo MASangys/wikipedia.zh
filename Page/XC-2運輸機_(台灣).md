@@ -1,4 +1,4 @@
-**AIDC XC-2運輸機**是1978年時由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[航空工業發展中心研發生產的一個](https://zh.wikipedia.org/wiki/航空工業發展中心 "wikilink")[原型](https://zh.wikipedia.org/wiki/原型機 "wikilink")[運輸機](../Page/運輸機.md "wikilink")，在1978年出廠。XC-2採用的是架高機翼（[肩扛式機翼](https://zh.wikipedia.org/wiki/肩扛式機翼 "wikilink")）設計，動力來源為2具[渦輪螺旋槳引擎](https://zh.wikipedia.org/wiki/渦輪螺旋槳引擎 "wikilink")。主要機身為近似方盒狀的設計，以求內部空間最大化。
+**AIDC XC-2運輸機**是1978年時由[中華民國空軍](../Page/中華民國空軍.md "wikilink")[航空工業發展中心研發生產的一個](https://zh.wikipedia.org/wiki/航空工業發展中心 "wikilink")[原型](https://zh.wikipedia.org/wiki/原型機 "wikilink")[運輸機](../Page/運輸機.md "wikilink")，在1978年出廠。XC-2採用的是架高機翼（[肩扛式機翼](https://zh.wikipedia.org/wiki/肩扛式機翼 "wikilink")）設計，動力來源為2具[渦輪螺旋槳引擎](https://zh.wikipedia.org/wiki/渦輪螺旋槳引擎 "wikilink")。主要機身為近似方盒狀的設計，以求內部空間最大化。
 
 ## 設計概述
 

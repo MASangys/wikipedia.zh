@@ -129,73 +129,41 @@ Game Boy Advance版游戏同样获得称赞。在2007年IGN Game Boy Advance历�
 [Category:1994年电子游戏](https://zh.wikipedia.org/wiki/Category:1994年电子游戏 "wikilink") [Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink") [Category:最终幻想VI](https://zh.wikipedia.org/wiki/Category:最终幻想VI "wikilink") [Category:东星软件游戏](https://zh.wikipedia.org/wiki/Category:东星软件游戏 "wikilink") [Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:PlayStation_Network游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Network游戏 "wikilink") [Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink") [Category:Game_Boy_Advance遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:文明崩潰後世界題材遊戲](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材遊戲 "wikilink") [Category:蒸汽朋克电子游戏](https://zh.wikipedia.org/wiki/Category:蒸汽朋克电子游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:Wii_U_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_U_Virtual_Console游戏 "wikilink") [Category:硅谷图形公司](https://zh.wikipedia.org/wiki/Category:硅谷图形公司 "wikilink")
 
 1.  <http://www.vgchartz.com/game/3320/final-fantasy-iii/>
-
 2.  <http://www.vgchartz.com/game/3322/final-fantasy-vi/>
-
 3.
-
 4.
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16. **Locke:** On the surface, Edgar pretends to support the Empire. The truth is, he's collaborating with the Returners, an organization opposed to the Empire. I am his contact with that group... The old man you met in Narshe is one of us.
-
 17.
-
 18. **Terra:** You... saved me? / **Locke:** Save your thanks for the Moogles\! / **Terra:** Uhh... I can't remember anything... past or present... / **Locke:** You have amnesia\!?
-
 19. **Banon:** Have you made a decision? Will you become our last ray of hope? ... / **Terra:** I'll do it\!
-
 20. **Locke:** ...Where's Terra? / **Celes:** She changed into a...something, and...took off. She looked like... She looked like...an Esper...
-
 21. **(Unidentified character)** Terra looks like she's in pain. / **Ramuh:** Her very existence strikes fear into her own heart. / **(Unidentified character)** How can we help her? / **Ramuh:** When she accepts this aspect of herself, I think she'll be all right. / **(Unidentified character)** We have to help her\! / **Ramuh:** Then free those of my kind imprisoned in Gestahl's Magitek Research Facility. One of them can surely help her.
-
 22. **Ramuh:** Gestahl's method is incorrect. You can't drain a live Esper of all its power. It is only when we are reduced to Magicite that our abilities can be transferred in total... / **Unspecified character:** Pardon\!? / **Ramuh:** When we transform into Magicite, our power can be relocated. / **Unspecified character:** Magicite...\!? / **Ramuh:** That's what's left of us when we... pass away.
-
 23. **(An Esper)** Our friends are all gone... We haven't much time left... We have no choice but to entrust you with our essences... / **Esper:** You want to help me... But... I haven't long to live. Just as Ifrit did before me, I'll give to you my power...
-
 24. **Kefka:** So that's it\! Magicite... ... / **Kefka:** General Celes\!\! The game's over. Bring me those Magicite shards\! / **Locke:** Celes\! You... deceived me\!? / **Celes:** Of course not\! Have a little faith\! / **Kefka:** G'hee, hee, hee\! She has tricked you all\! Celes, that's so... YOU\! / **Celes:** Locke... Please believe me... / **Locke:** I... ... ... / **Kefka:** NOW\!\! / **Kefka:** Exterminate all of them\! / **Celes:** Locke... Let me protect you for once... Maybe now... Now you'll believe me... / **Kefka:** Celes\! W... What are you doing? Stop it\!\!\!
-
 25. **Terra:** Father...? I remember it all... I was raised in the Esper's world. ... / **Terra:** I'm the product of an Esper and a human... That's where I got my powers... Now I understand... I finally feel I can begin to control this power of mine...
-
 26. **Arvis:** I see... Your plan would combine Narshe's money with Figaro's machinery to storm the Empire... not enough manpower, though... / **Banon:** We have to open the sealed gate... Terra\!? / **Terra:** To the Esper World...? / **Arvis:** We'll never beat the Empire without them. / **Banon:** When the gate has been opened, the Espers can attack from the east. We'll storm in at the same time, from the north. No way around it. We MUST get the Espers to understand. We have to establish a bond of trust between humans and Espers. Only one person can do this... Terra... / **Terra:** Half human, half Esper... My existence is proof that such a bond CAN exist... I'll do it. I'm the only one who can\!
-
 27. **Gestahl:** I've lost my will to fight... ... / **Gestahl:** I've ordered this war to be over\! Now I must ask for a favour... After they devastated my Empire, the Espers headed northward, towards Crescent Island. They must be found...\! We must tell them we're no longer their enemy. After all that I have put them through, it is up to me to set things right. That is why... I need to borrow Terra's power. Only Terra can bridge the gap between Esper and human. We must make for Crescent Island aboard the freighter from Albrook. Will you accompany me?
-
 28. **Kefka:** G'ha, ha, ha\! Emperor's orders\! I'm to bring the Magicite remains of these Espers to his excellency\! Behold\! A Magicite mother lode\!\!
-
 29. **Setzer:** We've been had\!\! The Emperor is a liar\! ... / **Edgar:** I got to know the gal who brought us tea. After a while, she just blurted out the whole crooked plan.
-
 30. **Cid:** Celes... at last...\! You're finally awake... / **Celes:** I... feel like I've been sleeping forever... / **Cid:** For one year, actually... ... / **Cid:** We're on a tiny, deserted island. After the world crumbled, I awoke to find us here together with... a few strangers. / **Cid:** Since that day, the world's continued its slide into ruin. Animals and plants are dying... The few others who washed up here with us passed away of boredom and despair.
-
 31. **Celes:** Terra\! What's wrong? The Magicite... Magic is disappearing from this world... / **Edgar:** The Espers... They no longer exist... / **Celes:** You mean Terra, too? / **Terra:** Come with me. I can lead you out with my last ounce of strength.
-
 32.
-
 33. [Final Fantasy VI Took Just One Year To Make Says Director Yoshinori Kitase - Siliconera](http://www.siliconera.com/2013/08/06/final-fantasy-vi-took-just-one-year-to-make-says-director-yoshinori-kitase/)
-
 34.
 35.
-
 36.
-
 37.
 38.
 39.
@@ -203,142 +171,78 @@ Game Boy Advance版游戏同样获得称赞。在2007年IGN Game Boy Advance历�
 41.
 42.
 43.
-
 44.
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
 56.
 57.
-
 58.
 59.
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.
-
 78.
-
 79.
-
 80.
-
 81.
-
 82.
-
 83.
 84.
-
 85.
-
 86.
-
 87.  IGN會隨新遊戲發售持續更新排位
-
 88.
-
 89.
-
 90.
 91. <http://www.vgchartz.com/game/749/final-fantasy-anthology/>
-
 92. <http://www.vgchartz.com/game/3304/final-fantasy-collection/>
-
 93.
-
 94.
-
 95.
-
 96.
-
 97.
-
 98.
-
 99.
-
 100.
-
 101.
-
 102.
 103.
-
 104.
-
 105.
-
 106.
-
 107.
-
 108.
-
 109.
-
 110.
-
 111.
-
 112.
-
 113.
-
 114.
-
 115.
 116.
 117.
-
 118.

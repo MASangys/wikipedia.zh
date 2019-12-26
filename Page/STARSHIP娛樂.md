@@ -1,4 +1,4 @@
-**STARSHIP娛樂**（）是韩国的娱乐公司。当前旗下艺人有女子组合[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，男子组合[MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")、[MIND U](https://zh.wikipedia.org/wiki/MIND_U "wikilink")、[DUETTO以及獨唱歌手](https://zh.wikipedia.org/wiki/DUETTO "wikilink")[K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")、[鄭世雲](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")、[韶宥等旗下藝人](https://zh.wikipedia.org/wiki/韶宥 "wikilink")
+**STARSHIP娛樂**（）是韩国的娱乐公司。当前旗下艺人有女子组合[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，男子组合[MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")、[MIND U](https://zh.wikipedia.org/wiki/MIND_U "wikilink")、[DUETTO以及獨唱歌手](https://zh.wikipedia.org/wiki/DUETTO "wikilink")[K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")、[鄭世雲](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")、[韶宥等旗下藝人](https://zh.wikipedia.org/wiki/韶宥 "wikilink")。
 
 ## 歷史
 
@@ -40,7 +40,7 @@
 |            |                                                               |                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |    |         |              |
 | ---------- | ------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -- | ------- | ------------ |
 | 出道／签约日期    | 組合名稱                                                          | 隊長                                  | 成員                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 性別 | 官方粉絲名稱  | 备注           |
-| 2015年5月14日 | [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink") | [SHOWNU](../Page/孫賢祐.md "wikilink") | [SHOWNU](../Page/孫賢祐.md "wikilink")、[元虎](../Page/李虎錫.md "wikilink")、[民赫](https://zh.wikipedia.org/wiki/民赫 "wikilink")、[基賢](https://zh.wikipedia.org/wiki/劉基賢 "wikilink")、[亨元](../Page/亨元.md "wikilink")、[周憲](../Page/李周憲.md "wikilink")、[I.M](../Page/任創均.md "wikilink")                                                                                                                                                                                                                                                             | 男  | MONBEBE |              |
+| 2015年5月14日 | [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink") | [SHOWNU](../Page/孫賢祐.md "wikilink") | [SHOWNU](../Page/孫賢祐.md "wikilink")、[民赫](https://zh.wikipedia.org/wiki/民赫 "wikilink")、[基賢](https://zh.wikipedia.org/wiki/劉基賢 "wikilink")、[亨元](../Page/亨元.md "wikilink")、[周憲](../Page/李周憲.md "wikilink")、[I.M](../Page/任創均.md "wikilink")                                                                                                                                                                                                                                                                                             | 男  | MONBEBE |              |
 | 2016年2月25日 | [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")         | [EXY](../Page/EXY.md "wikilink")    | [雪娥](../Page/雪娥.md "wikilink")、[宣儀](https://zh.wikipedia.org/wiki/宣儀 "wikilink")、[苞娜](../Page/苞娜.md "wikilink")、[EXY](../Page/EXY.md "wikilink")、[秀斌](../Page/秀斌.md "wikilink")、[Luda](https://zh.wikipedia.org/wiki/李露多 "wikilink")、[多願](https://zh.wikipedia.org/wiki/多願 "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")、[程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink")、[美岐](https://zh.wikipedia.org/wiki/美岐 "wikilink")、[夏天](../Page/夏天_\(歌手\).md "wikilink")、[多榮](../Page/多荣.md "wikilink")、[璉靜](../Page/璉靜.md "wikilink") | 女  | UJUNG   |              |
 | 2013年      | [MIND U](https://zh.wikipedia.org/wiki/MIND_U "wikilink")     | \-                                  | 金宰熙、高德                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 男  | \-      | 前组合名称Acourve |
 | 2017年      | [DUETTO](https://zh.wikipedia.org/wiki/DUETTO "wikilink")     | \-                                  | 白仁泰、刘瑟基                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 男  | DUETTI  |              |
@@ -107,51 +107,54 @@
 
 **个人**
 
-|                                                     |    |           |                                                                                                                 |
-| --------------------------------------------------- | -- | --------- | --------------------------------------------------------------------------------------------------------------- |
-| 名称                                                  | 性別 | 解约日期      | 备注                                                                                                              |
-| [李贤智](https://zh.wikipedia.org/wiki/李贤智 "wikilink") | 女  |           |                                                                                                                 |
-| [寶拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")   | 女  | 2017年6月3日 | [SISTAR](../Page/SISTAR.md "wikilink")解散后，2017年6月13日改投[Hook娱乐](https://zh.wikipedia.org/wiki/Hook娱乐 "wikilink") |
-| [孝琳](../Page/孝琳.md "wikilink")                      | 女  | 2017年6月3日 | [SISTAR](../Page/SISTAR.md "wikilink")解散后，2017年9月9日正式宣佈不續約，后創建bridge娛樂                                          |
-| [多順](https://zh.wikipedia.org/wiki/多顺 "wikilink")   | 女  | 2017年6月3日 | [SISTAR](../Page/SISTAR.md "wikilink")解散后，加入子公司[King Kong娛樂](../Page/King_Kong娛樂.md "wikilink")，以演员身份活动         |
+|                                                     |    |            |                                                                                                                 |
+| --------------------------------------------------- | -- | ---------- | --------------------------------------------------------------------------------------------------------------- |
+| 名称                                                  | 性別 | 解约日期       | 备注                                                                                                              |
+| [李贤智](https://zh.wikipedia.org/wiki/李贤智 "wikilink") | 女  |            |                                                                                                                 |
+| [寶拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")   | 女  | 2017年6月3日  | [SISTAR](../Page/SISTAR.md "wikilink")解散后，2017年6月13日改投[Hook娱乐](https://zh.wikipedia.org/wiki/Hook娱乐 "wikilink") |
+| [孝琳](../Page/孝琳.md "wikilink")                      | 女  | 2017年6月3日  | [SISTAR](../Page/SISTAR.md "wikilink")解散后，2017年9月9日正式宣佈不續約，后創建bridge娛樂                                          |
+| [多順](https://zh.wikipedia.org/wiki/多顺 "wikilink")   | 女  | 2017年6月3日  | [SISTAR](../Page/SISTAR.md "wikilink")解散后，加入子公司[King Kong娛樂](../Page/King_Kong娛樂.md "wikilink")，以演员身份活动         |
+| [元虎](../Page/李虎錫.md "wikilink")                     | 男  | 2019年11月1日 | 10月31日宣布退出[MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，隔日因涉嫌吸毒嫌疑，公司宣布與之解約                      |
 
 ## 練習生
 
 **男练习生**
 
-  - 崔錫元（[NO.MERCY](../Page/NO.MERCY.md "wikilink")）
-  - 朴俊庶（[少年24](../Page/少年24.md "wikilink")）
-  - [朴賢鎮](../Page/朴賢鎮.md "wikilink")（[K-pop Star 6](../Page/K-pop_Star_6.md "wikilink")、OG SCHOOL）
+  - 崔錫元（《[NO.MERCY](../Page/NO.MERCY.md "wikilink")》）
+  - 朴俊庶（《[少年24](../Page/少年24.md "wikilink")》）
+  - [朴賢鎮](../Page/朴賢鎮.md "wikilink")（《[K-pop Star 6](../Page/K-pop_Star_6.md "wikilink")》、OG SCHOOL）
   - Achillo（OG SCHOOL）
-  - [姜敏熙](../Page/姜敏熙.md "wikilink")（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")、[X1 (組合)](../Page/X1_\(組合\).md "wikilink")）
-  - 具正模（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
-  - [文玄彬](https://zh.wikipedia.org/wiki/文玄彬 "wikilink")（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
-  - [宋亨俊](../Page/宋亨俊.md "wikilink")（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")、[X1 (組合)](../Page/X1_\(組合\).md "wikilink")）
-  - [咸元进](https://zh.wikipedia.org/wiki/咸元进 "wikilink")（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - [姜敏熙](../Page/姜敏熙.md "wikilink")（《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》、[X1 (組合)](../Page/X1_\(組合\).md "wikilink")）
+  - 具正模（《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
+  - [宋亨俊](../Page/宋亨俊.md "wikilink")（《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》、[X1 (組合)](../Page/X1_\(組合\).md "wikilink")）
+  - [咸元进](https://zh.wikipedia.org/wiki/咸元进 "wikilink")（《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
+  - [安承敏 안성민(音譯)](https://zh.wikipedia.org/wiki/安承敏_안성민\(音譯\) "wikilink")（[10/7日於官方帳戶公開](https://zh.wikipedia.org/wiki/10/7日於官方帳戶公開 "wikilink")）
 
 **女练习生**
 
-  - [安兪真](../Page/安兪真.md "wikilink")（[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")、[IZ\*ONE](../Page/IZ*ONE.md "wikilink")）
-  - [張員瑛](../Page/張員瑛.md "wikilink")（[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")、[IZ\*ONE](../Page/IZ*ONE.md "wikilink")）
-  - 曹佳賢（[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")）
-  - 姜多抿
-  - 朴宣（[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")）
+  - [安兪真](../Page/安兪真.md "wikilink")（《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》、[IZ\*ONE](../Page/IZ*ONE.md "wikilink")）
+  - [張員瑛](../Page/張員瑛.md "wikilink")（《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》、[IZ\*ONE](../Page/IZ*ONE.md "wikilink")）
+  - 曹佳賢（《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》）
+  - 姜多抿（《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》）
+  - 朴宣（《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》）
 
 ## 昔日練習生
 
 **男练习生**
 
   - [朴宣浩](../Page/朴宣浩.md "wikilink")（《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》，[BOYFRIEND及](../Page/Boyfriend_\(男子团体\).md "wikilink")[MONSTA X預備成員](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，現為演員）
+  - 盧允浩（[BOYFRIEND及](../Page/Boyfriend_\(男子团体\).md "wikilink")[MONSTA X預備成員](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，現為[VAV](../Page/VAV.md "wikilink")成員）
   - [Ten（李永欽）](../Page/Ten_\(歌手\).md "wikilink")（[BOYFRIEND預備成員](../Page/Boyfriend_\(男子团体\).md "wikilink")，現為[NCT](../Page/NCT.md "wikilink")成员）
   - 崔連壽（[BOYFRIEND預備成員](../Page/Boyfriend_\(男子团体\).md "wikilink")，前[AlphaBAT](../Page/AlphaBAT.md "wikilink")成員）
   - 金秀燁（[BOYFRIEND預備成員](../Page/Boyfriend_\(男子团体\).md "wikilink")，前[AlphaBAT](../Page/AlphaBAT.md "wikilink")成員）
   - 朴珉均（[MONSTA X預備成員](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，現為[ONF成員](https://zh.wikipedia.org/wiki/ONF "wikilink")）
-  - 盧允浩（[MONSTA X預備成員](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，現為[VAV](../Page/VAV.md "wikilink")成員）
   - 鄭永勳（[HALO](../Page/HALO_\(韓國組合\).md "wikilink")）
   - [李光賢](../Page/李光賢.md "wikilink")（[少年24](../Page/少年24.md "wikilink")、[PRODUCE 101 (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")）
+  - 文玄彬（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
 
 **女练习生**
 
+  - [金請夏](https://zh.wikipedia.org/wiki/請夏 "wikilink")（個人歌手）
   - 金泰河（[MOMOLAND](../Page/MOMOLAND.md "wikilink")、《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》）
   - [許智媛](../Page/智媛.md "wikilink")（[Cherry Bullet](../Page/Cherry_Bullet.md "wikilink")）
   - 沈彩誾（《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》）

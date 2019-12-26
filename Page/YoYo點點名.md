@@ -6,35 +6,18 @@
 
   - [香蕉哥哥](../Page/香蕉哥哥.md "wikilink")
   - [西瓜哥哥](../Page/西瓜哥哥.md "wikilink")
-  - [草莓姐姐](../Page/草莓姐姐.md "wikilink")
   - [柳丁哥哥](https://zh.wikipedia.org/wiki/柳丁哥哥 "wikilink")
+  - [草莓姐姐](../Page/草莓姐姐.md "wikilink")
   - [太陽哥哥](https://zh.wikipedia.org/wiki/太陽哥哥 "wikilink")
-  - [月亮姐姐](../Page/沈佩儀.md "wikilink")
+  - [月亮姐姐](https://zh.wikipedia.org/wiki/月亮姐姐 "wikilink")
   - [KIWI姐姐](../Page/KIWI姐姐.md "wikilink")
   - [番茄姐姐](../Page/番茄姐姐.md "wikilink")
-  - [天竺鼠姐姐](https://zh.wikipedia.org/wiki/天竺鼠姐姐 "wikilink")
   - [羚羊哥哥](../Page/羚羊哥哥.md "wikilink")
   - [浣熊哥哥](https://zh.wikipedia.org/wiki/浣熊哥哥 "wikilink")
   - [梅花鹿哥哥](https://zh.wikipedia.org/wiki/梅花鹿哥哥 "wikilink")
-
-### 已離開成員
-
-  - [芭樂哥哥](https://zh.wikipedia.org/wiki/芭樂哥哥 "wikilink")
-  - [橘子姐姐(第一代)](https://zh.wikipedia.org/wiki/橘子姐姐\(第一代\) "wikilink")
-  - [蘋果姐姐](../Page/蘋果姐姐.md "wikilink")
-  - [水蜜桃姐姐](https://zh.wikipedia.org/wiki/水蜜桃姐姐 "wikilink")
-  - [蜻蜓哥哥](../Page/蜻蜓哥哥.md "wikilink")
-  - [蜜蜂姐姐](../Page/蜜蜂姐姐.md "wikilink")
-  - [蝴蝶姐姐](https://zh.wikipedia.org/wiki/蝴蝶姐姐 "wikilink")
-  - [鳳梨哥哥](https://zh.wikipedia.org/wiki/鳳梨哥哥 "wikilink")
-  - [葡萄姐姐](https://zh.wikipedia.org/wiki/葡萄姐姐 "wikilink")
-  - [星星哥哥](../Page/星星哥哥.md "wikilink")
-  - [彩虹姐姐](https://zh.wikipedia.org/wiki/彩虹姐姐 "wikilink")
-  - [黑皮哥哥](https://zh.wikipedia.org/wiki/黑皮哥哥 "wikilink")
-  - [雲朵姐姐](https://zh.wikipedia.org/wiki/雲朵姐姐 "wikilink")
-  - [橘子姐姐](../Page/橘子姐姐.md "wikilink")(第二代)
+  - [天竺鼠姐姐](https://zh.wikipedia.org/wiki/天竺鼠姐姐 "wikilink")
+  - [橘子姐姐](../Page/橘子姐姐.md "wikilink")
   - [櫻桃姐姐](../Page/櫻桃姐姐.md "wikilink")
-  - [-{杰}-希哥哥](../Page/李博翔.md "wikilink")
 
 ## 專輯
 
@@ -49,56 +32,56 @@
 <tr class="odd">
 <td style="text-align: center;"><p>YoYo點點名1<strong>親子搖擺童樂會</strong></p>
 <ul>
-<li>發行日期：2000年12月30日</li>
+<li>發行日期：2001年1月30日</li>
 </ul></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>YoYo點點名2<strong>懶人樹小步舞</strong></p>
 <ul>
-<li>發行日期：2001年7月1日</li>
+<li>發行日期：2002年1月1日</li>
 </ul></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>YoYo點點名3<strong>YOYO Love You</strong></p>
 <ul>
-<li>發行日期：2002年12月20日</li>
+<li>發行日期：2003年1月20日</li>
 </ul></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>YoYo點點名4<strong>快樂木屐鞋</strong></p>
 <ul>
-<li>發行日期：2003年12月22日</li>
+<li>發行日期：2004年1月22日</li>
 </ul></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>YoYo點點名5<strong>郊遊點點名</strong></p>
 <ul>
-<li>發行日期：2004年12月22日</li>
+<li>發行日期：2005年1月22日</li>
 </ul></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>YoYo點點名6<strong>夢想專賣店</strong></p>
 <ul>
-<li>發行日期：2005年12月28日</li>
+<li>發行日期：2006年1月28日</li>
 </ul></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>YoYo點點名7<strong>YOYO嘿嗨哈</strong></p>
 <ul>
-<li>發行日期：2006年12月28日</li>
+<li>發行日期：2007年1月28日</li>
 </ul></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>YoYo點點名8<strong>動物音樂課</strong></p>
 <ul>
-<li>發行日期：2007年12月30日</li>
+<li>發行日期：2008年1月30日</li>
 </ul></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -112,21 +95,21 @@
 <tr class="even">
 <td style="text-align: center;"><p>YoYo點點名10<strong>點十成金</strong></p>
 <ul>
-<li>發行日期：2011年7月17日</li>
+<li>發行日期：2011年1月17日</li>
 </ul></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>YoYo點點名11<strong>YOYO V. V. I. P.</strong></p>
 <ul>
-<li>發行日期：2012年12月21日</li>
+<li>發行日期：2013年1月21日</li>
 </ul></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>YoYo點點名12<strong>YOYO百分百</strong></p>
 <ul>
-<li>發行日期：2016年4月6日</li>
+<li>發行日期：2016年1月6日</li>
 </ul></td>
 <td style="text-align: center;"></td>
 </tr>

@@ -25,17 +25,12 @@
 [Category:1995年电子游戏](https://zh.wikipedia.org/wiki/Category:1995年电子游戏 "wikilink") [Category:DOS遊戲](https://zh.wikipedia.org/wiki/Category:DOS遊戲 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:競速遊戲](https://zh.wikipedia.org/wiki/Category:競速遊戲 "wikilink") [Category:索尼互動娛樂遊戲](https://zh.wikipedia.org/wiki/Category:索尼互動娛樂遊戲 "wikilink") [Category:加利福尼亞州背景作品](https://zh.wikipedia.org/wiki/Category:加利福尼亞州背景作品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
-
 8.
 9.
 10.

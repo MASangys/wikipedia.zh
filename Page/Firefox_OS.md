@@ -42,11 +42,11 @@ Mozilla於2014年世界行動通訊大會上聯合[展訊通訊](https://zh.wiki
 
 ## 分支
 
-[Panasonic繼續開發用於智慧型電視的作業系統](https://zh.wikipedia.org/wiki/Panasonic "wikilink")，這些智慧型電視使用Firefox OS\[35\]。
+[Panasonic繼續開發用於智慧型電視的作業系統](https://zh.wikipedia.org/wiki/Panasonic "wikilink")，這些智慧型電視使用基於Firefox OS的My Home Screen\[35\]。
 
-[Acadine Technologies也從Firefox](https://zh.wikipedia.org/wiki/Acadine_Technologies "wikilink") OS中分支出H5OS。公司創始人[宮力在擔任](https://zh.wikipedia.org/wiki/宮力 "wikilink")[Mozilla公司](../Page/Mozilla公司.md "wikilink")總裁期間曾負責Firefox OS的開發\[36\]\[37\]。
+[Acadine Technologies從Firefox](https://zh.wikipedia.org/wiki/Acadine_Technologies "wikilink") OS中分支出H5OS。公司創始人[宮力在擔任](https://zh.wikipedia.org/wiki/宮力 "wikilink")[Mozilla公司](../Page/Mozilla公司.md "wikilink")總裁期間曾負責Firefox OS的開發\[36\]\[37\]。
 
-一個名為[KaiOS](../Page/KaiOS.md "wikilink")的分支已經應用在一些功能型手機上\[38\]\[39\]\[40\]。
+一個名為[KaiOS](../Page/KaiOS.md "wikilink")的分支使用在一些功能型手機上\[38\]\[39\]\[40\]。
 
 ## 架構
 
@@ -125,120 +125,64 @@ Firefox OS被移植到下列设备：
 [Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink") [Category:Firefox_OS](https://zh.wikipedia.org/wiki/Category:Firefox_OS "wikilink") [Category:使用XUL的軟體](https://zh.wikipedia.org/wiki/Category:使用XUL的軟體 "wikilink") [Category:Gecko衍生軟體](https://zh.wikipedia.org/wiki/Category:Gecko衍生軟體 "wikilink") [Category:嵌入式Linux發行版](https://zh.wikipedia.org/wiki/Category:嵌入式Linux發行版 "wikilink") [Category:嵌入式操作系统](https://zh.wikipedia.org/wiki/Category:嵌入式操作系统 "wikilink") [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink") [Category:自由作業系統](https://zh.wikipedia.org/wiki/Category:自由作業系統 "wikilink") [Category:2013年軟體](https://zh.wikipedia.org/wiki/Category:2013年軟體 "wikilink") [Category:智能手机](https://zh.wikipedia.org/wiki/Category:智能手机 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
 43.
 44.
 45.
-
 46.
-
 47.
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.

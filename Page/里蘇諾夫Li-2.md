@@ -122,10 +122,7 @@
 [Category:蘇聯運輸機](https://zh.wikipedia.org/wiki/Category:蘇聯運輸機 "wikilink")
 
 1.  Gunston, Bill. *The Encyclopedia of Russian Aircraft 1875-1995*. St. Paul, Minnesota: Motorbooks International 1995. ISBN 0-7603-0027-5.
-
 2.  ["V.M. Myasichev."](http://www.ctrl-c.liu.se/misc/ram/myasichev.html) *ctrl-c.liu.se*. Retrieved: 17 July 2010.
-
 3.
 4.  Goebel, Greg. ["Foreign-Build Dakotas."](http://www.vectorsite.net/avc47_2.html) *Vectorsite,* 1 February 2011. Retrieved: 4 September 2011.
-
 5.  ["Lisunov Li-2 (PS-84)."](http://www.oldwings.nl/st/li2.pdf) *"Soviet Transports".* Retrieved: 4 September 2011.

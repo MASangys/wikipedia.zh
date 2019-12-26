@@ -54,46 +54,26 @@ W3C已在CSS3内包括了一个box-sizing属性。当为一个元素指定`box-s
 [Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink") [Category:程式錯誤](https://zh.wikipedia.org/wiki/Category:程式錯誤 "wikilink") [Category:层叠样式表](https://zh.wikipedia.org/wiki/Category:层叠样式表 "wikilink")
 
 1.  [Interoperable HTML5 Quirks Mode in IE10](http://blogs.msdn.com/b/ie/archive/2011/12/14/interoperable-html5-quirks-mode-in-ie10.aspx), IE Blog, [MSDN](https://zh.wikipedia.org/wiki/MSDN "wikilink")
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
-
 14.  "Pages authored under non-strict mode (quirks)will not change behavior in IE7 and will not be affected by broken CSS filters.Pages authored under non-strict mode（or“quirks mode”）will not change behavior in IE7."
-
 15.  "The following examples show how to use the \!DOCTYPE declaration to specify the DTD a document conforms to, and to switch Internet Explorer 6 and later to standards-compliant mode."
-
 16.
 17.
-
 18.
-
 19.
-
 20.
 21.
-
 22.
-
 23.
-
 24.

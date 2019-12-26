@@ -226,7 +226,7 @@ AKB48總共舉行了3次正式成員選秀會及13次的研究生選秀會。除
 </tr>
 <tr class="odd">
 <td><p>12月8日</p></td>
-<td><p>向日葵組2nd公演初日，5期研究生披露</p></td>
+<td><p>向日葵組2nd公演初日，5期研究生加入</p></td>
 <td></td>
 <td><p>67</p></td>
 <td><p>43</p></td>
@@ -282,7 +282,7 @@ AKB48總共舉行了3次正式成員選秀會及13次的研究生選秀會。除
 </tr>
 <tr class="even">
 <td><p>4月28日</p></td>
-<td><p>6期研究生披露</p></td>
+<td><p>6期研究生加入</p></td>
 <td></td>
 <td><p>71</p></td>
 <td><p>48</p></td>
@@ -410,7 +410,7 @@ AKB48總共舉行了3次正式成員選秀會及13次的研究生選秀會。除
 </tr>
 <tr class="even">
 <td><p>1月18日</p></td>
-<td><p>研究生有馬優茄、鈴木菜絵、冨田麻友、畑山亜梨紗、藤本紗羅、村中聡美畢業（甄選審査不合格）、7期研究生披露</p></td>
+<td><p>研究生有馬優茄、鈴木菜絵、冨田麻友、畑山亜梨紗、藤本紗羅、村中聡美畢業（甄選審査不合格）、7期研究生加入</p></td>
 <td></td>
 <td><p>65</p></td>
 <td><p>47</p></td>
@@ -680,7 +680,7 @@ Team K板野友美、藤江れいな、峯岸みなみ、Team B北原里英、�
 </tr>
 <tr class="odd">
 <td><p>10月10日</p></td>
-<td><p>研究生<a href="https://zh.wikipedia.org/wiki/横山由依" title="wikilink">横山由依升格至Team</a> K、11期生披露</p></td>
+<td><p>研究生<a href="https://zh.wikipedia.org/wiki/横山由依" title="wikilink">横山由依升格至Team</a> K、11期生加入</p></td>
 <td><p>+1</p></td>
 <td><p>75</p></td>
 <td><p>48</p></td>
@@ -761,7 +761,7 @@ Team K板野友美、藤江れいな、峯岸みなみ、Team B北原里英、�
 </tr>
 <tr class="odd">
 <td><p>5月22日</p></td>
-<td><p>披露12期生</p></td>
+<td><p>12期生加入</p></td>
 <td></td>
 <td><p>80</p></td>
 <td><p>58</p></td>
@@ -834,7 +834,7 @@ Team K板野友美、藤江れいな、峯岸みなみ、Team B北原里英、�
 </tr>
 <tr class="even">
 <td><p>12月8日</p></td>
-<td><p>13期生披露</p></td>
+<td><p>13期生加入</p></td>
 <td></td>
 <td><p>93</p></td>
 <td><p>59</p></td>
@@ -901,7 +901,7 @@ SKE48 Team S<a href="../Page/松井珠理奈.md" title="wikilink">松井珠理�
 </tr>
 <tr class="even">
 <td><p>7月9日</p></td>
-<td><p>14期生披露</p></td>
+<td><p>14期生加入</p></td>
 <td></td>
 <td><p>97</p></td>
 <td><p>69</p></td>
@@ -1152,7 +1152,7 @@ Team B 小森美果畢業<br />
 </tr>
 <tr class="odd">
 <td><p>10月28日</p></td>
-<td><p>15期生大川莉央、達家真姫宝首次披露</p></td>
+<td><p>15期生大川莉央、達家真姫宝加入</p></td>
 <td><p>+2</p></td>
 <td><p>87</p></td>
 <td><p>77</p></td>
@@ -1249,7 +1249,7 @@ Team B 小森美果畢業<br />
 </tr>
 <tr class="odd">
 <td><p>4月14日</p></td>
-<td><p>15期生谷口惠、飯野雅首次披露</p></td>
+<td><p>15期生谷口惠、飯野雅加入</p></td>
 <td><p>+2</p></td>
 <td><p>141</p></td>
 <td><p>139</p></td>
@@ -1318,7 +1318,7 @@ Team K近野莉菜移籍JKT48</p></td>
 </tr>
 <tr class="even">
 <td><p>7月27日</p></td>
-<td><p>Team 8服部有菜初次披露</p></td>
+<td><p>Team 8服部有菜加入</p></td>
 <td><p>+1</p></td>
 <td><p>140</p></td>
 <td><p>138</p></td>
@@ -1506,7 +1506,7 @@ Team 8<a href="../Page/坂口渚沙.md" title="wikilink">坂口渚沙</a>開始�
 </tr>
 <tr class="even">
 <td><p>12月16日</p></td>
-<td><p>台灣徵選研究生<a href="../Page/馬嘉伶.md" title="wikilink">馬嘉伶</a>首次披露</p></td>
+<td><p>台灣徵選研究生<a href="../Page/馬嘉伶.md" title="wikilink">馬嘉伶</a>加入</p></td>
 <td><p>+1</p></td>
 <td><p>134</p></td>
 <td><p>126</p></td>
@@ -1651,7 +1651,7 @@ Team B<a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲</a>畢業<
 </tr>
 <tr class="even">
 <td><p>6月25日</p></td>
-<td><p>Team 8歌田初夏、寺田美咲、野田陽菜乃初次披露</p></td>
+<td><p>Team 8歌田初夏、寺田美咲、野田陽菜乃加入</p></td>
 <td><p>+3</p></td>
 <td><p>124</p></td>
 <td><p>116</p></td>
@@ -1714,7 +1714,7 @@ Team B<a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲</a>畢業<
 </tr>
 <tr class="odd">
 <td><p>12月9日</p></td>
-<td><p>Team 8高橋彩香、平野光初次披露</p></td>
+<td><p>Team 8高橋彩香、平野光加入</p></td>
 <td><p>+2</p></td>
 <td><p>138</p></td>
 <td><p>113</p></td>
@@ -1767,7 +1767,7 @@ Team B<a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲</a>畢業<
 </tr>
 <tr class="odd">
 <td><p>3月20日</p></td>
-<td><p>Team 8山田杏華初次披露</p></td>
+<td><p>Team 8山田杏華加入</p></td>
 <td><p>+1</p></td>
 <td><p>135</p></td>
 <td><p>110</p></td>
@@ -1921,7 +1921,7 @@ Team 8濱松里緒菜畢業</p></td>
 </tr>
 <tr class="even">
 <td><p>8月8日</p></td>
-<td><p>Team 8川原美咲初次披露</p></td>
+<td><p>Team 8川原美咲加入</p></td>
 <td><p>+1</p></td>
 <td><p>119</p></td>
 <td><p>96</p></td>
@@ -1948,7 +1948,7 @@ Team 8濱松里緒菜畢業</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月2日</p></td>
-<td><p>Team 8奥本陽菜初次披露</p></td>
+<td><p>Team 8奥本陽菜加入</p></td>
 <td><p>+1</p></td>
 <td><p>118</p></td>
 <td><p>96</p></td>
@@ -1957,7 +1957,7 @@ Team 8濱松里緒菜畢業</p></td>
 </tr>
 <tr class="even">
 <td><p>9月10日</p></td>
-<td><p>Team 8春本由紀初次披露</p></td>
+<td><p>Team 8春本由紀加入</p></td>
 <td><p>+1</p></td>
 <td><p>119</p></td>
 <td><p>97</p></td>
@@ -1993,7 +1993,7 @@ Team 8濱松里緒菜畢業</p></td>
 </tr>
 <tr class="even">
 <td><p>11月19日</p></td>
-<td><p>Team 8奧原妃奈子初次披露</p></td>
+<td><p>Team 8奧原妃奈子加入</p></td>
 <td><p>+1</p></td>
 <td><p>118</p></td>
 <td><p>100</p></td>
@@ -2095,7 +2095,7 @@ Team 8全體成員開始在團內其他分隊兼任</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月29日</p></td>
-<td><p>Team 8伊藤星彩、立仙愛理初次披露</p></td>
+<td><p>Team 8伊藤星彩、立仙愛理加入</p></td>
 <td><p>+2</p></td>
 <td><p>125</p></td>
 <td><p>98</p></td>
@@ -2104,7 +2104,7 @@ Team 8全體成員開始在團內其他分隊兼任</p></td>
 </tr>
 <tr class="even">
 <td><p>8月8日</p></td>
-<td><p>Team 8御供茉白初次披露</p></td>
+<td><p>Team 8御供茉白加入</p></td>
 <td><p>+1</p></td>
 <td><p>126</p></td>
 <td><p>99</p></td>
@@ -2160,7 +2160,7 @@ Team B<a href="../Page/小嶋菜月.md" title="wikilink">小嶋菜月</a>畢業<
 <tr class="even">
 <td><p>10月20日</p></td>
 <td><p>Team B選秀研究生 神山莉穂辭退<br />
-Team 8藤園麗初次披露</p></td>
+Team 8藤園麗加入</p></td>
 <td></td>
 <td><p>122</p></td>
 <td><p>97</p></td>
@@ -2169,7 +2169,7 @@ Team 8藤園麗初次披露</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月29日</p></td>
-<td><p>Team 8本田仁美 因IZ*ONE专任而活動休止，停止兼任Team B兼任終了</p></td>
+<td><p>Team 8本田仁美 因IZ*ONE专任而暂停活动并停止兼任Team B</p></td>
 <td></td>
 <td><p>122</p></td>
 <td><p>97</p></td>
@@ -2207,7 +2207,7 @@ Team 8藤園麗初次披露</p></td>
 <td><p>12月8日</p></td>
 <td><p>Team A研究生 山根涼羽、Team K研究生 長友彩海、<br />
 Team K选秀研究生 矢作萌夏、Team B选秀研究生 大盛真歩、<br />
-Team 4选秀研究生 多田京加昇格至所属队伍</p></td>
+Team 4选秀研究生 多田京加升格至所属队伍</p></td>
 <td></td>
 <td><p>118</p></td>
 <td><p>100</p></td>
@@ -2287,7 +2287,7 @@ Team 4选秀研究生 多田京加昇格至所属队伍</p></td>
 </tr>
 <tr class="even">
 <td><p>5月13日</p></td>
-<td><p>Team 4研究生 黒須遥香昇格为正式成员</p></td>
+<td><p>Team 4研究生 黒須遥香升格为正式成员</p></td>
 <td></td>
 <td><p>109</p></td>
 <td><p>93</p></td>
@@ -2359,7 +2359,7 @@ Team 4选秀研究生 多田京加昇格至所属队伍</p></td>
 </tr>
 <tr class="even">
 <td><p>7月27日</p></td>
-<td><p>Team K选秀研究生 岡田梨奈、小林蘭昇格为正式成员</p></td>
+<td><p>Team K选秀研究生 岡田梨奈、小林蘭升格为正式成员</p></td>
 <td></td>
 <td><p>102</p></td>
 <td><p>89</p></td>
@@ -2386,7 +2386,7 @@ Team 4选秀研究生 多田京加昇格至所属队伍</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月7日</p></td>
-<td><p>Team B选秀研究生 大竹瞳、齋藤陽菜昇格为正式成员</p></td>
+<td><p>Team B选秀研究生 大竹瞳、齋藤陽菜升格为正式成员</p></td>
 <td></td>
 <td><p>100</p></td>
 <td><p>89</p></td>
@@ -2395,12 +2395,84 @@ Team 4选秀研究生 多田京加昇格至所属队伍</p></td>
 </tr>
 <tr class="even">
 <td><p>9月12日</p></td>
-<td><p>Team A研究生 佐藤美波、道枝咲昇格为正式成员</p></td>
+<td><p>Team A研究生 佐藤美波、道枝咲升格为正式成员</p></td>
 <td></td>
 <td><p>100</p></td>
 <td><p>91</p></td>
 <td><p>22<br />
 (5/0/3)</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月30日</p></td>
+<td><p>Team 8・4兼任 佐藤七海 畢業</p></td>
+<td><p>-1</p></td>
+<td><p>99</p></td>
+<td><p>90</p></td>
+<td><p>22<br />
+(5/0/3)</p></td>
+</tr>
+<tr class="even">
+<td><p>10月6日</p></td>
+<td><p>Team 8 福留光帆、徳永羚海、蒲地志奈加入</p></td>
+<td><p>+3</p></td>
+<td><p>102</p></td>
+<td><p>93</p></td>
+<td><p>22<br />
+(5/0/3)</p></td>
+</tr>
+<tr class="odd">
+<td><p>10月13日</p></td>
+<td><p>Team 8 布谷梨琉、井上美優、長谷川百百花加入</p></td>
+<td><p>+3</p></td>
+<td><p>105</p></td>
+<td><p>96</p></td>
+<td><p>22<br />
+(5/0/3)</p></td>
+</tr>
+<tr class="even">
+<td><p>10月14日</p></td>
+<td><p>Team 8 塩原香凜、鈴木優香、松村美紅、上見天乃加入</p></td>
+<td><p>+4</p></td>
+<td><p>109</p></td>
+<td><p>100</p></td>
+<td><p>22<br />
+(5/0/3)</p></td>
+</tr>
+<tr class="odd">
+<td><p>10月22日</p></td>
+<td><p>Team 8・K兼任 寺田美咲 畢業</p></td>
+<td><p>-1</p></td>
+<td><p>108</p></td>
+<td><p>99</p></td>
+<td><p>22<br />
+(5/0/3)</p></td>
+</tr>
+<tr class="even">
+<td><p>11月9日</p></td>
+<td><p>Team 8 尾上美月加入</p></td>
+<td><p>+1</p></td>
+<td><p>109</p></td>
+<td><p>100</p></td>
+<td><p>22<br />
+(5/0/3)</p></td>
+</tr>
+<tr class="odd">
+<td><p>11月27日</p></td>
+<td><p>Team A选秀研究生 佐藤詩識 畢業</p></td>
+<td><p>-1</p></td>
+<td><p>108</p></td>
+<td><p>100</p></td>
+<td><p>22<br />
+(5/0/2)</p></td>
+</tr>
+<tr class="even">
+<td><p>11月28日</p></td>
+<td><p>Team B 樋渡結依 畢業</p></td>
+<td><p>-1</p></td>
+<td><p>107</p></td>
+<td><p>99</p></td>
+<td><p>22<br />
+(5/0/2)</p></td>
 </tr>
 </tbody>
 </table>
@@ -4356,32 +4428,20 @@ PV的center是前田敦子。</p></td>
 [Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  畢業・辞退者除外
-
 5.  由第1次於劇場公演開始計算日數
-
 6.
 7.
 8.
 9.
 10.
 11. 7期生時代的2009年8月23日Team B升格發表但是辭退。
-
 12. 其餘的AKB48台灣研究生均留在台灣，最終以特規方式選入[TPE48第](https://zh.wikipedia.org/wiki/TPE48 "wikilink")1期生。
-
 13. 《紅白歌合戰》等相關演出。
-
 14. 相反，截至2011年3月，未有AKB48成員成爲SKE48選拔成員。
-
 15. [AKB48 21st單曲「標題未定」發行決定及AKB48 22nd單曲「選拔總選舉」召開決定介紹](http://www.kingrecords.co.jp/akb48/kokuchi26.html) kingrecords官網 AKB48 What's New 2011年3月29日。
-
 16. 前12位爲媒體選拔，前田敦子爲第15位，首次未能入圍。
-
 17.
-
 18. <https://pic.twitter.com/oltD1m2a6w>

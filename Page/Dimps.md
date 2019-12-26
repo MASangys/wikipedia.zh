@@ -6,7 +6,7 @@
 
 2005年8月31日獨立。
 
-從業務用大型電玩（[街機](https://zh.wikipedia.org/wiki/街機 "wikilink")）到家用電玩都有在開發的[第二廠](https://zh.wikipedia.org/wiki/第二廠 "wikilink")。常接手角色遊戲或知名系列續作的開發與移植。如《[快打旋風Ⅳ](../Page/街頭霸王IV.md "wikilink")》、《[數碼寶貝](https://zh.wikipedia.org/wiki/數碼寶貝 "wikilink")》[WonderSwan Color版](../Page/WonderSwan_Color.md "wikilink")、[Game Boy Advance版](../Page/Game_Boy_Advance.md "wikilink")《[音速小子大冒險](https://zh.wikipedia.org/wiki/音速小子大冒險 "wikilink")》、[寵物反斗星](https://zh.wikipedia.org/wiki/寵物反斗星 "wikilink")。
+從業務用大型電玩（[街機](https://zh.wikipedia.org/wiki/街機 "wikilink")）到家用電玩都有在開發的[第二廠](https://zh.wikipedia.org/wiki/第二廠 "wikilink")。常接手角色遊戲或知名系列續作的開發與移植。如《[快打旋風Ⅳ](../Page/街頭霸王IV.md "wikilink")》、《[數碼寶貝](https://zh.wikipedia.org/wiki/數碼寶貝 "wikilink")》[WonderSwan Color版](../Page/WonderSwan_Color.md "wikilink")、[Game Boy Advance版](../Page/Game_Boy_Advance.md "wikilink")《[音速小子Advance](https://zh.wikipedia.org/wiki/索尼克Advance "wikilink")》系列和[寵物反斗星等](https://zh.wikipedia.org/wiki/寵物反斗星 "wikilink")。
 
 ## 主要作品
 

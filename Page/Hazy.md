@@ -53,10 +53,7 @@ hotexpress所屬的平賀哲雄對這首歌曲以「在充滿溫和陽光下的�
 [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")
 
 1.  也是自從「」以來第2首被選為片尾主題曲使用的單曲，及sphere成員[高垣彩陽](../Page/高垣彩陽.md "wikilink")以個人名義的首張單曲（單次使用不算在內）。
-
 2.  自sphere的第3張單曲「[收集群風](https://zh.wikipedia.org/wiki/收集群風/Brave_my_heart "wikilink")」以來。
-
 3.
-
 4.
 5.

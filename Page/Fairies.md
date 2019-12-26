@@ -852,53 +852,29 @@ CD盤</p>
 [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:RISINGPRO](https://zh.wikipedia.org/wiki/Category:RISINGPRO "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:日本唱片大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀新人獎獲獎者 "wikilink")
 
 1.  [](http://yuumeijininfo.blog52.fc2.com/blog-entry-18.html)
-
 2.  [](http://www.sponichi.co.jp/entertainment/news/2011/12/31/kiji/K20111231002341630.html)，日本傳媒是以整數年齡計算出13.6歲。但若以小數計算，Fairies得獎時平均年齡是13.9599歲，而℃-ute已達14.2951歲，因此事實上Fairies已經打破了℃-ute當年所創的紀錄。
-
 3.  [中学生軍団「Fairies」がK-Popに挑戦状](https://archive.is/20120715214556/hochi.yomiuri.co.jp/entertainment/news/20110822-OHT1T00002.htm)
-
 4.  [艾絲貝克中文官方網簡介](http://www.avex.com.tw/artist/artist_profile.asp?ArtistCode=FAIRIJ)
-
 5.  LOVEJUNX代表 牧野安娜的「ｆrom Anna」“[FAIRIES（2011-08-05）](http://ameblo.jp/lovejunx321/entry-10975805433.html)”. 2011年8月17日。
-
 6.  2012年5月13日《中井正廣之nigra varieteo》5分8秒
-
 7.  [AEON-OTA Shopping Center](http://ja.wikipedia.org/wiki/イオンモール太田)
-
 8.  [Lazona Kawasaki Plaza](http://ja.wikipedia.org/wiki/ラゾーナ川崎プラザ)
-
 9.  [AEON Mall Tsurumi Ryokuchi](http://ja.wikipedia.org/wiki/イオンモール鶴見リーファ)
-
 10. [AEON Mall Musasi Murayama](http://ja.wikipedia.org/wiki/イオンモールむさし村山ミュー)
-
 11. [](http://www.youtube.com/watch?v=PxiOdPeFMVM)
-
 12. [](http://www.asics-trading-tigon.com/fairies/)
-
 13. [](http://www.visionfactory.jp/kirakira/)
-
 14. [報知新聞社2012年2月12日](https://web.archive.org/web/20120213195653/http://hochi.yomiuri.co.jp/entertainment/news/20120212-OHT1T00011.htm)
-
 15. [](http://www.ntv.co.jp/black/)
-
 16. [](http://www.jinguhanabi.com/)
-
 17.
-
 18.
-
 19.
-
 20.
 21. [Fairies：「Tweet Dream/Sparkle」](http://www.visionfactory.jp/news/news_archives/1206161605_fairies.html)、[](http://news.mu-mo.net/view/22798)
-
 22. [Queen's Square YOKOHAMA](http://ja.wikipedia.org/wiki/クイーンズスクエア横浜)
-
 23. [AEON LakeTown](http://ja.wikipedia.org/wiki/イオンレイクタウン)
-
 24.
 25.
-
 26.
-
 27. [第44回日本有線大賞 HISTORY 日本有線大賞](http://ranking.cansystem.info/grandprix/?md=h&ts=44)，與「[薰和友樹，偶爾還有MUKKU。](../Page/薰和友樹，偶爾還有MUKKU。.md "wikilink")」共同獲獎。

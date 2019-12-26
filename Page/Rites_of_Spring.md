@@ -43,19 +43,13 @@ Picciotto自己並不承認他們所作的貢獻－＂創造＂Emo。在一個�
 [Category:美國搖滾樂團](https://zh.wikipedia.org/wiki/Category:美國搖滾樂團 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:美國樂團](https://zh.wikipedia.org/wiki/Category:美國樂團 "wikilink") [Category:1984年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1984年成立的音樂團體 "wikilink") [Category:後硬蕊樂團](https://zh.wikipedia.org/wiki/Category:後硬蕊樂團 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.  Strong, Martin C. (2003) "Rites of Spring", in *The Great Indie Discography*, Canongate, ISBN 1 84195 335 0
-
 9.
 10.
 11. ["Guy Picciotto - 2003 Interview"](http://www.markprindle.com/picciotto-i.htm) markprindle.com. Retrieved on February 23, 2009.

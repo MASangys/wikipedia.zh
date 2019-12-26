@@ -109,70 +109,37 @@ David Angle 效力於Rise record旗下- Nightmares , 之後解散。
 [Category:金屬蕊樂團](https://zh.wikipedia.org/wiki/Category:金屬蕊樂團 "wikilink") [Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:美國搖滾樂團](https://zh.wikipedia.org/wiki/Category:美國搖滾樂團 "wikilink") [Category:美國重金屬樂團](https://zh.wikipedia.org/wiki/Category:美國重金屬樂團 "wikilink") [Category:後硬蕊樂團](https://zh.wikipedia.org/wiki/Category:後硬蕊樂團 "wikilink") [Category:美國後硬蕊樂團](https://zh.wikipedia.org/wiki/Category:美國後硬蕊樂團 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.   Billboard.com|url=[http://www.billboard.com/\#/album/woe-is-me/number-s/1387854|publisher=](http://www.billboard.com/#/album/woe-is-me/number-s/1387854%7Cpublisher=)[Billboard (magazine){{\!}}Billboard](https://zh.wikipedia.org/wiki/Billboard_\(magazine\){{!}}Billboard "wikilink")|accessdate=10 September 2010}}
-
 6.
-
 7.
-
 8.  [Woe, Is Me - Number\[s\] www.corezin.net](http://www.corezine.net/2010/09/01/woe-is-me-numbers/)  Retrieved 2010-09-10.
-
 9.  [Woe, Is Me - Number\[s\] - The NewReview](http://thenewreview.net/reviews/woe-is-me-numbers)
-
 10. [indiestar.tv Graf Wall: Album Review: Woe, Is Me "Number\[s](http://grafwall.indiestar.tv/2010/09/album-review-woe-is-me-numbers.html) ."
-
 11. [Woe, Is Me "Number\[s\]"](http://www.lushbeat.com/2010/08/woe-is-me-numbers-review-8-31-2010/)
-
 12. [Woe, Is Me \*album review\* - PunkWorldViews.com](http://punkworldviews.com/woe-is-me-album-review/) Retrieved 2010-09-10.
-
 13.
-
 14. [Woe, Is Me post video for “\[&\] Delinquents”](http://www.altpress.com/news/entry/woe_is_me_post_video_for_delinquents/) [Alternative Press](../Page/Alternative_Press.md "wikilink")
-
 15. [Woe, Is Me guitarist leaves band](http://www.lambgoat.com/news/view.aspx?id=15548) // Lambgoat
-
 16.
-
 17.
-
 18.
-
 19. [Woe, Is Me perform acoustic version of “Fame Over Demise”](http://www.altpress.com/news/entry/woe_is_me_perform_acoustic_version_of_fame_over_demise/)  [Alternative Press](../Page/Alternative_Press.md "wikilink")
-
 20. <http://twitter.com/#!/geoffreyhiggins/status/85375543834456064>
-
 21. [Woe, Is Me](http://www.vanswarpedtour.com/band/woe-is-me)  Warped Tour
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28. [1](https://www.facebook.com/notes/marshall-promotions/whos-that-band-issues-woe-is-me/385617671505972)
-
 29. <http://www.youtube.com/watch?v=GttItGw-HVo>
-
 30. <http://www.youtube.com/watch?feature=player_embedded&v=i0sDINQNxII>
-
 31. <http://www.altpress.com/reviews/entry/woe_is_me_genesis>
-
 32. <http://www.youtube.com/watch?v=DHjhD48u9_A>
-
 33. [http://www.absolutepunk.net/showthread.php?t=2660482|That's](http://www.absolutepunk.net/showthread.php?t=2660482%7CThat's) Outrageous Members Fill In For Woe Is Me Tour
-
 34. [http://www.absolutepunk.net/showthread.php?t=2660482|That's](http://www.absolutepunk.net/showthread.php?t=2660482%7CThat's) Outrageous Members Fill In For Woe Is Me Tour
-
 35.

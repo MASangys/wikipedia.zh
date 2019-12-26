@@ -581,7 +581,7 @@
 
   -
     凱伊是小班在《Ben 10》時遇到的美洲原住民女孩，根據官方設定為小班的初戀。小班的Omnitrix受到外星狼人獸的影響讓小班處於變身的過渡階段，凱伊表現出對小班感興趣的樣子。在小班恢復正常後，才知道凱伊真正在意的是亞努土西。
-    她在《Ben 10 全面進化》再次登場，不過就時常興小班鬥氣，直至未來人Chrono Spanner的牽紅線下(直至說明小班在未來會娶凱伊)，二人才慢慢擦出火花。即便在已婚的未來，他們還不時會打情罵俏。
+    她在《Ben 10 全面進化》再次登場，不過就時常與小班鬥氣，直至未來人Chrono Spanner的牽紅線下(直至說明小班在未來會娶凱伊)，二人才慢慢擦出火花。即便在已婚的未來，他們還不時會打情罵俏。
     在《Ben 10,000》的平行世界未來，小班結婚的對象也是凱伊。
 
 <!-- end list -->
@@ -805,32 +805,18 @@
 [Category:卡通頻道電視節目](https://zh.wikipedia.org/wiki/Category:卡通頻道電視節目 "wikilink") [Category:超級英雄](https://zh.wikipedia.org/wiki/Category:超級英雄 "wikilink") [Category:美國動畫影集](https://zh.wikipedia.org/wiki/Category:美國動畫影集 "wikilink") [Category:Ben_10](https://zh.wikipedia.org/wiki/Category:Ben_10 "wikilink")
 
 1.  [卡通頻道宣布製作《Ben 10: Hero Generation》](https://archive.is/20120912221254/http://www.toonzone.net/news/articles/15189/cn-upfront-ben-10-hero-generation-announced)
-
 2.  [在《Ben 10 外星英雄》後緊接著推出的新系列《Ben 10: Evolutions》](https://archive.is/20120913140403/http://www.toonzone.net/news/articles/29112/animation-news-from-the-2009-cartoon-network-upfront-updated-1257-pm-with-images)
-
 3.  [Animation Insider在2011年的報導](http://www.animationinsider.net/article.php?articleID=2734&document=2)
-
 4.  [2012年的Ben 10玩具展](http://www.kidzcoolit.com/reviews/toy-fair-2012-ben-10.php)
-
 5.  [卡通頻道在臉書的消息](http://www.facebook.com/note.php?note_id=10150121471008922)
-
 6.  [5th Ben 10 Series](http://variety.com/2015/tv/news/ben-10-cartoon-network-revival-1201514347/)
-
 7.
 8.  [TZ @ SDCC: 3 Versions of "Ben 10" Animated Movie, Plot of Live Action Movie (Updated)](https://archive.is/20120913123926/http://www.toonzone.net/news/articles/18361/tz--sdcc-3-versions-of-ben-10-animated-movie-plot-of-live-action-movie-updated)
-
 9.  [CN Upfront: 2007 Overview](http://www.animationinsider.net/article.php?articleID=1274&document=3)
-
 10. [SDCC2011: Generator Rex/Ben 10 Crossover Special Set For Thanksgiving](https://archive.is/20120915105859/http://www.toonzone.net/news/articles/38242/sdcc2011--generator-rexben-10-crossover-special-set-for-thanksgiving)
-
 11. [《Ben 10: Galactic Racing》的角色們](http://www.nintendogal.com/2011/09/20/ben-10-galactic-racing-characters/8356/)
-
 12. [《Ben 10 終極英雄》的外星人模型在美國麥當勞](http://api.ning.com/files/Tz8mW7nYVzXfk6EDkZwf2BUReVcQUQ*wbguKs0k2z6vdHyN7XrKW0OfnZDDO5Tt8PQGbsFL3qx4S*T1XlxYWRcTkMx08XYQO/ben10mcdonalds.bmp)
-
 13. [作者Dwayne McDuffie的討論板](http://dwaynemcduffie.com.mylampsite.com/forums/viewtopic.php?f=16&t=2906&start=310)
-
 14. 在中文版《Ben 10》的《Ben 10,000》一集平行未來的小玟自稱上大學後改名玟琳，實際上「小玟」就是「玟琳」的簡稱。
-
 15. [卡通频道哔哩哔哩](https://www.bilibili.com/p/h5/16224004)
-
 16. 其中，少年骇客原版，外星英雄的全部剧集，终极英雄 (腾讯译名终极异形)，全面进化 (腾讯译名最终进化) 和再显神威的部分剧集为免费观看，终极英雄，全面进化和再显神威的其他剧集为要求VIP会员观看。但由版权限制，除原版和全面进化小部分剧集之外，其他内容在大陆境外 (含港澳台) 限制观看。

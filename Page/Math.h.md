@@ -21,7 +21,7 @@
   - double sqrt (double);开平方根
   - double log (double);[自然對數](../Page/自然對數.md "wikilink")
   - double log10 (double);[常用對數](../Page/常用對數.md "wikilink")
-  - double pow(double x, double y）;计算以x为底数的y次[幂](https://zh.wikipedia.org/wiki/幂 "wikilink")
+  - double pow(double x, double y);计算以x为底数的y次[幂](https://zh.wikipedia.org/wiki/幂 "wikilink")
   - float powf(float x, float y);功能等同于pow，只是输入参数与输出参数皆为单浮点数
 
 ### [取整函數](https://zh.wikipedia.org/wiki/取整函數 "wikilink")

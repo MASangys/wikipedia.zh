@@ -46,26 +46,6 @@ BDSM遊戲中使用的工具包含了各式各樣的項目，從特別設計過�
 
 一 場愉悅的BDSM遊戲有很大一部分要取決於施控者是否稱職，而受控者是否達到了該有的感覺。信賴與性刺激可以幫助一個人準備進入強烈的感官刺激。有 些人甚至將一場熟練專業的BDSM遊戲比喻為音樂作曲與演奏，每個感官刺激都好像是一個音符一樣。於是，不同的感官刺激就可以用不同的方法結合起來製造出 一個整體的經驗。
 
-## 各種實踐
-
-BDSM可能包含的實踐有：[摑打屁股](https://zh.wikipedia.org/wiki/摑打屁股 "wikilink")、[鞭打](https://zh.wikipedia.org/wiki/鞭打 "wikilink")、陰肛刺激（figging，意即將[生薑](../Page/生薑.md "wikilink")或[胡椒等帶有刺激性的東西插入](https://zh.wikipedia.org/wiki/胡椒 "wikilink")[陰部或](https://zh.wikipedia.org/wiki/陰部 "wikilink")[肛門中](https://zh.wikipedia.org/wiki/肛門 "wikilink")）或醫療臣服（medical submission，意即一個臣服者臣服於羞辱的／痛苦的醫療程序中）。
-
-所有性傾向的人都會實踐BDSM活動：男性與女性、[同性戀](../Page/同性戀.md "wikilink")或[異性戀](https://zh.wikipedia.org/wiki/異性戀 "wikilink")、或者是[雙性戀](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")。許多人只有在私底下的時候進行BDSM活動，不會與別人分享自己的嗜好。有些人則會與其他BDSM的實踐者進行交流。BDSM社群可以說是主流社會中的一個[次文化](../Page/次文化.md "wikilink")。經常性地進行BDSM或支配／臣服關係的人被稱為是「以這種風格過生活」（in the lifestyle）。
-
-有些資料估計在如美國等這些國家裡，BDSM行為的普及率大約在成年人口的5％到10％。刻板印象會認為說異性戀的BDSM是以男性為支配者，而女性為臣服者，然而事實上以男性為支配者（maledom）與以女性為支配者（femdom）的伴侶數量幾乎是平均的。
-
-BDSM經常被認為是[性戀物癖的其中一個面貌](https://zh.wikipedia.org/wiki/性戀物癖 "wikilink")，以及屬於戀物癖次文化的一部分。
-
-有些BDSM玩家擁有[多重性伴侶](https://zh.wikipedia.org/wiki/多重性伴侶 "wikilink")，或者在性上面維持[單一性伴侶](https://zh.wikipedia.org/wiki/單一性伴侶 "wikilink")，而和其他人進行沒有性的BDSM遊戲。
-
-### 安全
-
-某些BDSM活動如果忽略了適當的預防措施，可能會有潛在危險。
-
-保障安全的其中一個方法就是雙方有一個[安全暗號的共識](https://zh.wikipedia.org/wiki/安全暗號 "wikilink")。當支配者與臣服者面臨一個造成其中之一或雙方不舒服感的場面時，[安全暗號可以成為將問題警告給支配者](https://zh.wikipedia.org/wiki/安全暗號 "wikilink")，並且立即停止場面進行的詞語。
-
-只有在[綁縛的時候須要謹慎小心的充分照料](../Page/綁縛_\(BDSM\).md "wikilink")，以保證安全無虞。如果活動當中牽涉到體液，則須要進行適當的衛生防範以避免[性病的傳播](https://zh.wikipedia.org/wiki/性病 "wikilink")。
-
 ## 關於BDSM的重點
 
   - BDSM可能會或不會包含任何形式的[性](https://zh.wikipedia.org/wiki/性_\(生物學\) "wikilink")。

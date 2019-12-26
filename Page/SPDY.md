@@ -37,7 +37,6 @@ SPDY并不用于取代HTTP，它只是修改了HTTP的请求与应答在网络�
 3.
 4.
 5.
-
 6.
 7.
 8.
@@ -46,23 +45,14 @@ SPDY并不用于取代HTTP，它只是修改了HTTP的请求与应答在网络�
 11.
 12.
 13. [Chromium SPDY client implementation](http://src.chromium.org/viewvc/chrome/trunk/src/net/spdy/)
-
-14. [Chromium: SPDY proxy examples](http://www.chromium.org/spdy/spdy-proxy-examples)
-
+14.
 15.
 16. Firefox中键入about:config，查找network.http.spdy.enabled并设置为true即可启用该功能。
-
 17. [Mozilla Bug 724563](https://bugzilla.mozilla.org/show_bug.cgi?id=724563)
-
 18. [Chromium SPDY client implementation](http://src.chromium.org/viewvc/chrome/trunk/src/net/spdy/).
-
-19. [Chromium: SPDY proxy examples](http://www.chromium.org/spdy/spdy-proxy-examples).
-
+19. [Chromium: SPDY proxy examples](http://www.chromium.org/spdy/spdy-proxy-examples) .
 20. [Opera 12.10 Changelog](http://www.opera.com/docs/changelogs/unified/1210/)
-
 21.
 22.
-
 23.
-
 24. <https://www.nginx.com/blog/supporting-http2-google-chrome-users/>

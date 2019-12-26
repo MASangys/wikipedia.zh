@@ -16,5 +16,4 @@
 [Category:黃矮星](https://zh.wikipedia.org/wiki/Category:黃矮星 "wikilink") [Category:船帆座](https://zh.wikipedia.org/wiki/Category:船帆座 "wikilink") [Category:行星系](https://zh.wikipedia.org/wiki/Category:行星系 "wikilink") [Category:行星凌變星](https://zh.wikipedia.org/wiki/Category:行星凌變星 "wikilink")
 
 1.
-
 2.

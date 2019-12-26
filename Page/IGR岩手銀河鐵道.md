@@ -59,9 +59,6 @@ IGR所經營的[岩手銀河鐵道線](../Page/岩手銀河鐵道線.md "wikilin
 [Category:IGR岩手銀河鐵道](https://zh.wikipedia.org/wiki/Category:IGR岩手銀河鐵道 "wikilink") [Category:日本鐵路公司](https://zh.wikipedia.org/wiki/Category:日本鐵路公司 "wikilink") [Category:第三部門鐵路公司](https://zh.wikipedia.org/wiki/Category:第三部門鐵路公司 "wikilink") [Category:岩手縣鐵路](https://zh.wikipedia.org/wiki/Category:岩手縣鐵路 "wikilink") [Category:岩手縣公司](https://zh.wikipedia.org/wiki/Category:岩手縣公司 "wikilink")
 
 1.
-
 2.
-
 3.  《[鐵道要覽](https://zh.wikipedia.org/wiki/鐵道要覽 "wikilink")》，平成20年度版
-
 4.

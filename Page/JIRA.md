@@ -28,6 +28,10 @@ Atlassian 宣称 JIRA 在全世界超过 122 个国家的 14,500 个项目中使
 
 在2010年4月，一個JIRA的[XXS漏洞成為了存取關鍵的](../Page/跨網站指令碼.md "wikilink")[Apache軟體基金會](https://zh.wikipedia.org/wiki/Apache軟體基金會 "wikilink")[伺服器替代方案的跳板](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。\[22\]
 
+## 関連項目
+
+  - [Confluence](https://zh.wikipedia.org/wiki/Confluence "wikilink")
+
 ## 参考文献
 
 ## 参见

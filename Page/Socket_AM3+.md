@@ -75,28 +75,16 @@ AMD Opteron處理器，主要是用於單CPU伺服器的Opteron 3200/3300系列�
 [Category:CPU插座](https://zh.wikipedia.org/wiki/Category:CPU插座 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  [ASUS M5A97](http://www.extremepc.co.nz/index.php?main_page=product_info&products_id=5184&zenid=6a522c98ace70f6f154b7b6c09596f54) - ExtremePC
-
 6.
 7.
-
 8.
-
 9.  [1](http://event.asus.com/2011/mb/AM3_PLUS_Ready/)
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.

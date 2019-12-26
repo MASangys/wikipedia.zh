@@ -73,7 +73,7 @@
 
 ## 外部链接
 
-  - [JMO官网](http://www.jmo.co.jp/)
+  - [JMO官网](https://web.archive.org/web/20070928033646/http://www.jmo.co.jp/)
   - [JMOちゃんねる。](http://www.youtube.com/user/boukenoutv)
 
 [Category:日本艺人经纪公司](https://zh.wikipedia.org/wiki/Category:日本艺人经纪公司 "wikilink") [Category:中央區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:中央區公司_\(東京都\) "wikilink")

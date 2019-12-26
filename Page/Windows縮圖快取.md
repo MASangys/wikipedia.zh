@@ -23,13 +23,9 @@
 [Category:文件系统](https://zh.wikipedia.org/wiki/Category:文件系统 "wikilink") [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
-
 7.

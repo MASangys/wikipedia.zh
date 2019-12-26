@@ -44,22 +44,13 @@ Viber 桌面應用可與手機應用同步，並擁有手機版大部分的功�
 [Category:即时通讯软件](https://zh.wikipedia.org/wiki/Category:即时通讯软件 "wikilink") [Category:免费软件](https://zh.wikipedia.org/wiki/Category:免费软件 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:Windows_Phone軟件](https://zh.wikipedia.org/wiki/Category:Windows_Phone軟件 "wikilink") [Category:VoIP軟體](https://zh.wikipedia.org/wiki/Category:VoIP軟體 "wikilink") [Category:樂天_(1997年成立)](https://zh.wikipedia.org/wiki/Category:樂天_\(1997年成立\) "wikilink")
 
 1.  <http://www.viber.com/>
-
 2.  <http://viber.com/dmca.html>
-
 3.  <https://foursquare.com/v/viber/4fd5cd0be4b0352ac5282b1f>
-
 4.  <http://israel21c.org/technology/top-10-iphone-apps-from-israel/>
-
 5.  <http://www.forbes.com/sites/parmyolson/2013/05/07/free-calling-app-viber-jumps-to-desktop-hits-200-million-users/>
-
 6.  <http://www.forbes.com/sites/parmyolson/2013/05/07/free-calling-app-viber-jumps-to-desktop-hits-200-million-users/>
-
 7.
 8.
-
 9.  <http://www.cnbeta.com/articles/236459.htm>
-
 10. <https://twitter.com/Viber/status/332103491747196928>
-
 11. <http://www.viber.com/products/windows/>

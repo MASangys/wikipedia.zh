@@ -1,6 +1,6 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:ZBD-04_Infantry_fighting_vehicle_during_an_anniversary_parade.jpg "fig:缩略图") **ZBD-04步兵战车** 又被称为**04式履带式步兵战车**，简称为**04式步战车**，是[中华人民共和国研制的第二代履带式](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[步兵战车](../Page/步兵战车.md "wikilink")，于2003年12月通过设计定型审查，被正式命名为“ZBD-04式履带式步兵战车”。外界知道该步战车存在后曾经一度将其称为“[ZBD-97步兵战车](../Page/ZBD-97步兵战车.md "wikilink")”（亦或是方案论证时的命名）。
 
-2009年参加了[中华人民共和国国庆60周年阅兵式](../Page/首都各界庆祝中华人民共和国成立60周年大会.md "wikilink")，排在装甲车方队的第4位，由[解放军陆军第42集团军第](https://zh.wikipedia.org/wiki/中国人民解放军第42集团军 "wikilink")163机械化师487团驾驶。
+2009年参加了[中华人民共和国国庆60周年阅兵式](../Page/首都各界庆祝中华人民共和国成立60周年大会.md "wikilink")，排在装甲车方队的第4位，由[解放军陆军第42集团军第](https://zh.wikipedia.org/wiki/中国人民解放军第42集团军 "wikilink")163机械化师487团驾驶。2019年参加了中华人民共和国国庆70周年阅兵式。
 
 ## 历史
 
@@ -70,7 +70,7 @@ ZBD-04的基本型（代号：WZ502工程），2003年通过定型审查。基�
 </tr>
 <tr class="odd">
 <td><p>全寬</p></td>
-<td><p>2.14m</p></td>
+<td><p>3.5m</p></td>
 <td><p>3.6 m</p></td>
 <td><p>2.7 m</p></td>
 <td><p>3.2 m</p></td>
@@ -191,11 +191,7 @@ Afghanit主動防禦系統</small></p></td>
 
 1.
 2.  [王天民：我的五十年战斗历程](http://www.hjgbj.com/show.asp?id=1202) 。
-
 3.  [步兵战车：中国ZBD-04式步兵战车](http://news.xinhuanet.com/mil/2011-06/13/c_121526057.htm)，新华网。
-
 4.  \[访ZBD04式步兵战车总设计师\]，《坦克装甲车辆》，2010年第3期。
-
 5.  [ZBD-04A步兵战车](http://www.chinanews.com/mil/hd2011/2013/07-01/219332.shtml)，中新网。
-
 6.  [兰州军区装备我最先进步兵战车](http://news.xinhuanet.com/mil/2014-04/29/c_126445505_2.htm)，新华网。

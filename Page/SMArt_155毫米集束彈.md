@@ -45,7 +45,7 @@ GIWS和其合作夥伴也向其他數個國家的陸軍展示了SMArt，包含�
 
 ## 外部連結
 
-  - [Intelligent ammunition](http://www.diehl-bgt-defence.de/index.php?id=561&L=1) on Diehl's website
+  - [Intelligent ammunition](https://web.archive.org/web/20120302044912/http://www.diehl-bgt-defence.de/index.php?id=561&L=1) on Diehl's website
   - [Artillery rounds](https://web.archive.org/web/20110723233327/http://www.rheinmetall-detec.de/index.php?fid=1475&lang=3&pdb=1) on Rheimetall-DeTec.de
 
 ### 參考資料
@@ -53,21 +53,14 @@ GIWS和其合作夥伴也向其他數個國家的陸軍展示了SMArt，包含�
 [Category:德國火炮](https://zh.wikipedia.org/wiki/Category:德國火炮 "wikilink") [Category:炮弹](https://zh.wikipedia.org/wiki/Category:炮弹 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
 12.

@@ -147,20 +147,15 @@
 <!-- end list -->
 
 1.  木村誠『[ブシロード製トレーディングカードゲーム：ヴァイスシュヴァルツ（2007〜2010）](http://www.waseda.jp/prj-riim/paper/RIIM-CaseNo21_WeiBSchwarz_110331.pdf)』[早稲田大学](https://zh.wikipedia.org/wiki/早稲田大学 "wikilink")、2011年3月31日、4頁。
-
 2.  志賀康紀「バンダイナムコ、PSP『ヴァイスシュヴァルツ ポータブル』――人気TCG『ヴァイスシュヴァルツ』がPSPで初のゲーム化\!」『[バンダイナムコ、PSP「ヴァイスシュヴァルツ ポータブル」。人気TCG「ヴァイスシュヴァルツ」がPSPで初のゲーム化\! - GAME Watch](http://game.watch.impress.co.jp/docs/news/20110513_445113.html)』[Impress Watch](https://zh.wikipedia.org/wiki/Impress_Watch "wikilink")、2011年5月13日。
-
 3.
 4.
 5.  木村誠『[ブシロード製トレーディングカードゲーム：ヴァイスシュヴァルツ（2007〜2010）](http://www.waseda.jp/prj-riim/paper/RIIM-CaseNo21_WeiBSchwarz_110331.pdf)』早稲田大学、2011年3月31日、6頁。
-
 6.
 7.
 8.
 9.  「『なのは』『アイマス』など参戦作品多数\! 『ヴァイスシュヴァルツ ポータブル』」『[『なのは』『アイマス』など参戦作品多数\! 『ヴァイスシュヴァルツ ポータブル』 - 電撃オンライン](http://news.dengeki.com/elem/000/000/365/365533/)』[アスキー・メディアワークス](https://zh.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")、2011年5月13日。
-
 10. 「About」『[ヴァイスシュヴァルツ ポータブル | バンダイナムコゲームス公式サイト](http://ws-psp.channel.or.jp/index.html)』[バンダイナムコゲームス](https://zh.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")。
-
 11.
 12.
 13.
@@ -173,7 +168,6 @@
 20.
 21.
 22. 「Spec」『[ヴァイスシュヴァルツ ポータブル | バンダイナムコゲームス公式サイト](http://ws-psp.channel.or.jp/index.html)』バンダイナムコゲームス。
-
 23.
 24.
 25.
@@ -184,21 +178,14 @@
 30.
 31.
 32. 「Line Up」『[ヴァイスシュヴァルツ ポータブル | バンダイナムコゲームス公式サイト](http://ws-psp.channel.or.jp/index.html)』バンダイナムコゲームス。
-
 33. 「“ヴァイスシュヴァルツ”とは?」『[ヴァイスシュヴァルツ｜Part1：“ヴァイスシュヴァルツ”とは?](http://ws-tcg.com/about/part_01.html) 』[ブシロード](https://zh.wikipedia.org/wiki/ブシロード "wikilink")。
-
 34.
 35.
 36. 『[Kud Wafter](../Page/Kud_Wafter.md "wikilink")』和『[Angel Beats\!](../Page/Angel_Beats!.md "wikilink")』2作品在交换卡片游戏版规则下，作为同一系列的作品。
-
 37. 「卡组构筑规则」『[ルール・Q\&A| Weiß Schwarz官方网站](http://ws-tcg.com/rules/deck_rule.html) 』Bushroad。
-
 38. 除此以外，在正式比赛中禁止使用的卡，含有非登场作品要素的卡也没有被收录。
-
 39. 已经是交换卡片游戏版登场作品的[THE IDOLM@STER系列除外](https://zh.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")。
-
 40. 『[『ヴァイスシュヴァルツ ポータブル』ナムコキャラ登場決定ほか最新情報が公開 - ファミ通.com](http://www.famitsu.com/news/201110/14051696.html)』 [ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")、2011年10月14日。
-
 41.
 42.
 43.

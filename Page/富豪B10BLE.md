@@ -1,4 +1,4 @@
-**富豪B10BLE**是[瑞典](../Page/瑞典.md "wikilink")[富豪生產的一款低地台單層巴士底盤](https://zh.wikipedia.org/wiki/富豪集團 "wikilink")，於1992年亮相。
+**富豪B10BLE**（Volvo B10BLE）是[瑞典](../Page/瑞典.md "wikilink")[富豪生產的一款低地台單層巴士底盤](https://zh.wikipedia.org/wiki/富豪集團 "wikilink")，於1992年亮相。
 
 ## 概述
 

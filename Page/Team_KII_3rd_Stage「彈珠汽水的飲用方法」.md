@@ -301,26 +301,17 @@ Team KII的首台原創公演原計劃於2011月2月13日開始\[1\]，但多次
 [Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink") [Category:AKB48家族關連音樂專輯](https://zh.wikipedia.org/wiki/Category:AKB48家族關連音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.  原文：
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
 10.
 11. 2011年的主題曲《愛的數量》（）亦是Team KII的歌曲，不過這首歌不是公演歌曲，而是收錄於SKE48第5張單曲《[萬歲Venus](../Page/萬歲Venus.md "wikilink")》內。
-
 12.
 13.
-
 14.
-
 15.

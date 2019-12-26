@@ -159,8 +159,8 @@ Midi Programming：程馗</p></td>
 
 ## 外部連結
 
-  - [【世界電影雜誌】：李欣芸的深海世界－金馬獎最佳電影音樂專訪，2006年3月2日](http://epaper.pchome.com.tw/archive/last.htm?s_date=search&s_dir=20060302&s_code=0044&s_cat=娛樂嗜好#c493619)
-  - [DreaMania樂評－「深海電影原聲帶」](http://dreamicandi.blogspot.com/2007/03/blog-post_3274.html)
+  - 吳涵婷.[【世界電影雜誌】：李欣芸的深海世界－金馬獎最佳電影音樂專訪，2006年3月2日](http://epaper.pchome.com.tw/archive/last.htm?s_date=search&s_dir=20060302&s_code=0044&s_cat=娛樂嗜好#c493619).PChome Online 網路家庭-電子報
+  - [DreaMania樂評－「深海電影原聲帶」](http://dreamicandi.blogspot.com/2007/03/blog-post_3274.html)（此網誌只開放給受邀請的讀者）
   - [李欣芸 / 深海(Blue Cha Cha) \[SOUNDTRACK](http://blog.roodo.com/showba94718/archives/3073379.html)\]
   - [【聯合晚報】李欣芸 邀侯孝賢共舞](http://www.ccuart.org/bluechacha/archives/2006/03/aeae_eaeee.html)
   - [【中時電子報藝文新聞】恰恰貫穿深海 李欣芸獲金馬獎激勵](http://news.chinatimes.com/Chinatimes/Philology/Philology-artnews/0,3409,112005111700342+110513+20051117+news,00.html)
@@ -168,7 +168,7 @@ Midi Programming：程馗</p></td>
 
 [Category:電影原聲帶](https://zh.wikipedia.org/wiki/Category:電影原聲帶 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:2006年原聲帶](https://zh.wikipedia.org/wiki/Category:2006年原聲帶 "wikilink")
 
-1.  [李欣芸的深海世界－金馬獎最佳電影音樂專訪](http://epaper.pchome.com.tw/archive/last.htm?s_date=search&s_dir=20060302&s_code=0044&s_cat=娛樂嗜好#c493619)
-2.  [圖文：李欣芸《深海》獲得最佳原創電影音樂獎](http://ent.qq.com/a/20051113/000157.htm)
-3.  [深海得獎：恭喜李欣芸](http://4bluestones.biz/mtblog/2005/11/post-1288.html)
-4.  [映画 深海　Blue Cha-Cha　サウンドトラック](http://ritzstore.bz/SHOP/YTRC12.html)
+1.  吳涵婷.[李欣芸的深海世界－金馬獎最佳電影音樂專訪](http://epaper.pchome.com.tw/archive/last.htm?s_date=search&s_dir=20060302&s_code=0044&s_cat=娛樂嗜好#c493619).PChome Online 網路家庭-電子報.
+2.  [腾讯首页](http://ent.qq.com/a/20051113/000157.htm)
+3.  [深海得獎：恭喜李欣芸](http://4bluestones.biz/mtblog/2005/11/post-1288.html).藍色電影夢
+4.  [映画 深海　Blue Cha-Cha　サウンドトラック](http://ritzstore.bz/SHOP/YTRC12.html).RITZ STORE

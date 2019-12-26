@@ -30,8 +30,8 @@
   - 電影「K-ON\!」官方網站
       - [電影「K-ON\!」官方網站](http://www.tbs.co.jp/anime/k-on/index-j.html)
   - 波麗佳音官方網站内CD情報網站
-      - [初回限定版](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100001514&DSP_SKHKETSEQ=003)
-      - [通常版](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100001514&DSP_SKHKETSEQ=004)
+      - [初回限定版](https://web.archive.org/web/20130913032920/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100001514&DSP_SKHKETSEQ=003)
+      - [通常版](https://web.archive.org/web/20130913032554/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100001514&DSP_SKHKETSEQ=004)
 
 [Category:K-ON\!的音樂](https://zh.wikipedia.org/wiki/Category:K-ON!的音樂 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
 

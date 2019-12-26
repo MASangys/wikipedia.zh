@@ -41,6 +41,6 @@
 
 ## 外部連結
 
-  - [動畫「FAIRY TAIL」角色歌專輯](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201000002802&DSP_SKHKETSEQ=001) - 波麗佳音
+  - [動畫「FAIRY TAIL」角色歌專輯](https://web.archive.org/web/20111127080919/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201000002802&DSP_SKHKETSEQ=001) - 波麗佳音
 
 [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:FAIRY_TAIL](https://zh.wikipedia.org/wiki/Category:FAIRY_TAIL "wikilink") [Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink") [Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink")

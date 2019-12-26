@@ -95,102 +95,57 @@ Poppers的主要成分为亚硝酸酯（[化合物](../Page/化合物.md "wikili
 [Category:亚硝酸酯](https://zh.wikipedia.org/wiki/Category:亚硝酸酯 "wikilink") [Category:抗心绞痛药](https://zh.wikipedia.org/wiki/Category:抗心绞痛药 "wikilink") [Category:解毒剂](https://zh.wikipedia.org/wiki/Category:解毒剂 "wikilink") [Category:礼来公司](https://zh.wikipedia.org/wiki/Category:礼来公司 "wikilink") [Category:安乐药](https://zh.wikipedia.org/wiki/Category:安乐药 "wikilink") [Category:LGBT文化](https://zh.wikipedia.org/wiki/Category:LGBT文化 "wikilink") [Category:肌肉松弛剂](https://zh.wikipedia.org/wiki/Category:肌肉松弛剂 "wikilink") [Category:精神药物](https://zh.wikipedia.org/wiki/Category:精神药物 "wikilink") [Category:血管扩张剂](https://zh.wikipedia.org/wiki/Category:血管扩张剂 "wikilink") [Category:葛兰素史克](https://zh.wikipedia.org/wiki/Category:葛兰素史克 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.  [*The New York Times*: "Vision: A Quick High for Sex May Damage Vision"](http://www.nytimes.com/2010/10/19/health/research/19vision.html?ref=science)
-
 9.
-
 10.
 11.
 12.
-
 13.
-
 14.
-
 15. W.R. Lange, C.A. Haertzen and J.E. Hickey et al., Nitrite inhalants patterns of abuse in Baltimore and Washington, DC, Am J Drug Alcohol Abuse 14 (1988), pp. 29–39.
-
 16. Kennedy, Edward, U.S. Senate, Chair Committee on Labor and Human Resources. "REPORT of the Committee on Labor and Human Resources."Comprehensive Alcohol Abuse, Drug Abuse, and Mental Health Amendments of 1988. Section 4015. 1988.
-
 17. Nickerson, Mark, John Parker, Thomas Lowry, and Edward Swenson.Isobutyl Nitrite and Related Compounds; chapter on "Sociology and Behavioral Effects" . 1st ed. San Francisco: Pharmex, Ltd, 1979.
-
 18. Ringwalt CL, Schlenger WE. Wu L (2005) "Use of nitrite inhalants ("poppers") among American youth",*Journal of Adolescent Health* 37 (1) Jul 2005, pp.52–60.
-
 19.
 20.
 21.
-
 22. <http://www.aidsmap.com/Poppers/page/1045243/#item1045250>
-
 23.
-
 24.
 25.
 26.
-
 27.
 28.
-
 29. <https://web.archive.org/web/20080916154635/http://www.virusmythpoppersmyth.org/cpsc_report_1983/>
-
 30.
-
 31.
 32.
-
 33.
-
 34.
-
 35. Emergency Medicine: Principles and Practice. Harper & Collins, 2nd edition. 2008. pp. 42–51.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44. <http://www.nature.com/eye/journal/v26/n6/full/eye201237a.html>
-
 45.
-
 46.
-
 47.
-
 48. <http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ%3AL%3A2006%3A033%3A0028%3A0081%3Aen%3APDF>
-
 49. Anti-Drug Abuse Act of 1988 (Public Law 1QO-690,section 2404) (15 U.S.C. 2d57a(e)(2)).
-
 50.
-
 51.
-
 52. [Council of State](https://zh.wikipedia.org/wiki/Council_of_State_\(France\) "wikilink"), [Ruling 312449, 15 May 2009](http://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000020868995)
-
 53.
-
 54.
-
 55.

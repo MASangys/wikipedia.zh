@@ -9,5 +9,4 @@ MPP+的[氯化物曾被用作名为牧草快](https://zh.wikipedia.org/wiki/氯�
 [Category:除草剂](https://zh.wikipedia.org/wiki/Category:除草剂 "wikilink") [Category:神经毒素](https://zh.wikipedia.org/wiki/Category:神经毒素 "wikilink") [Category:吡啶](https://zh.wikipedia.org/wiki/Category:吡啶 "wikilink")
 
 1.  [PubChem Compound entry on MPP+](http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=39484)
-
 2.

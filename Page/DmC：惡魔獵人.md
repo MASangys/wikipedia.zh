@@ -43,24 +43,14 @@
 [Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:惡魔獵人系列](https://zh.wikipedia.org/wiki/Category:惡魔獵人系列 "wikilink") [Category:動作冒險遊戲](https://zh.wikipedia.org/wiki/Category:動作冒險遊戲 "wikilink") [Category:奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:奇幻电子游戏 "wikilink") [Category:中电博亚游戏](https://zh.wikipedia.org/wiki/Category:中电博亚游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink") [Category:Xbox_360游戏](https://zh.wikipedia.org/wiki/Category:Xbox_360游戏 "wikilink") [Category:Xbox_One游戏](https://zh.wikipedia.org/wiki/Category:Xbox_One游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:虚幻引擎游戏](https://zh.wikipedia.org/wiki/Category:虚幻引擎游戏 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:电子游戏重启作品](https://zh.wikipedia.org/wiki/Category:电子游戏重启作品 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:英國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:英國開發電子遊戲 "wikilink")
 
 1.
-
 2.
-
 3.  [DMC: DEFINITIVE EDITION AND DEVIL MAY CRY 4 SPECIAL EDITION COMING TO PS4 AND XBOX ONE](http://www.ign.com/articles/2014/12/15/dmc-definitive-edition-and-devil-may-cry-4-special-edition-coming-to-ps4-and-xbox-one).IGN.15 DEC 2014.\[16 DEC 2014\].
-
 4.  [1](http://www.siliconera.com/2011/10/31/dmc-devil-may-cry-takes-place-in-a-parallel-world-with-a-different-dante/)
-
 5.
 6.
-
 7.  [Youtube:Devil May Cry 5 E3 2011 Trailer \[HD](https://www.youtube.com/watch?v=TJXuunbfW58)
-
 8.  <http://www.inquisitr.com/156216/new-dmc-devil-may-cry-trailer-shows-dante-beating-down-waves-of-demons/>
-
 9.
-
 10.
-
 11.
-
 12.

@@ -17,6 +17,5 @@ de Marly機械，以[莫達沃城堡為基礎](https://zh.wikipedia.org/wiki/莫
 [Category:法國著名的建築和構造](https://zh.wikipedia.org/wiki/Category:法國著名的建築和構造 "wikilink") [Category:凡爾賽宮](https://zh.wikipedia.org/wiki/Category:凡爾賽宮 "wikilink") [Category:歷史古蹟景點](https://zh.wikipedia.org/wiki/Category:歷史古蹟景點 "wikilink") [Category:抽水站](https://zh.wikipedia.org/wiki/Category:抽水站 "wikilink") [Category:1684年法國建立](https://zh.wikipedia.org/wiki/Category:1684年法國建立 "wikilink")
 
 1.  [La Machine de Marly](http://www.marlymachine.org/)
-
 2.
 3.  Bruno Demoulin and Jean-Louis Kupper, *Histoire de la Wallonie*, Privat, Toulouse, 2004, p. 199 ISBN 2-7089-4779-6

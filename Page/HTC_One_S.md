@@ -279,7 +279,7 @@ HTC官方曾于2013年2月在 [Facebook](../Page/Facebook.md "wikilink") 的讨�
 ## 外部連結
 
   - [Qualcomm Snapdragon MSM8260（S3）與MSM8260A（S4）差異說明](https://web.archive.org/web/20120604032831/http://kocpc.pixnet.net/blog/post/29946812)
-  - [HTC ONE S 台灣版低調更換CPU?\*與ASUS PadFone超級比一比\!](http://blog.chinatimes.com/kocpc/archive/2012/05/31/2192793.html)
+  - [HTC ONE S 台灣版低調更換CPU?\*與ASUS PadFone超級比一比\!](https://web.archive.org/web/20120602220010/http://blog.chinatimes.com/kocpc/archive/2012/05/31/2192793.html)
   - [HTC ONE S 國際版與北亞區版差異分析](http://www.mobile01.com/topicdetail.php?f=566&t=2772647&last=36284635)
   - [HTC ONE S 國際版與北亞區版 「效能、電力、熱度」終極測試](http://www.mobile01.com/topicdetail.php?f=566&t=2780505)
   - [HTC One S](https://web.archive.org/web/20120711153905/http://www.htc.com/tw/smartphones/htc-one-s/)

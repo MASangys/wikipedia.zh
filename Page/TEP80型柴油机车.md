@@ -77,22 +77,17 @@ TEP80型柴油机车采用[微机控制](https://zh.wikipedia.org/wiki/微机 "w
 [Category:俄罗斯柴油机车](https://zh.wikipedia.org/wiki/Category:俄罗斯柴油机车 "wikilink") [Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:科洛姆纳制铁路机车](https://zh.wikipedia.org/wiki/Category:科洛姆纳制铁路机车 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
-
 6.
 7.
 8.
-
 9.
 10.
 11.
 12.
 13.
-
 14.
 15.

@@ -51,20 +51,17 @@ ChS2型电力机车是六轴干线客运电力机车，采用双司机室的钢�
 
 ## 外部链接
 
-  - [Легендарная "двойка" - качество, проверенное временем.](http://railbook.net/?mod=articles&art=10)
+  - [Легендарная "двойка" - качество, проверенное временем.](https://web.archive.org/web/20120317184721/http://railbook.net/?mod=articles&art=10)
 
   - [История поездов: Электровоз ЧС2](http://trainshistory.ru/lokomotivy/magistralnye-elektrovozy/dvuhsistemnye/elektrovoz-chs2.html)
 
 [Category:苏联电力机车](https://zh.wikipedia.org/wiki/Category:苏联电力机车 "wikilink") [Category:斯柯达制铁路机车](https://zh.wikipedia.org/wiki/Category:斯柯达制铁路机车 "wikilink") [Category:俄罗斯电力机车](https://zh.wikipedia.org/wiki/Category:俄罗斯电力机车 "wikilink") [Category:乌克兰电力机车](https://zh.wikipedia.org/wiki/Category:乌克兰电力机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink") [Category:3000伏直流电力机车](https://zh.wikipedia.org/wiki/Category:3000伏直流电力机车 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.
 7.
-
 8.

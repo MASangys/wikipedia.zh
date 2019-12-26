@@ -224,17 +224,12 @@
 [Category:美国大学](https://zh.wikipedia.org/wiki/Category:美国大学 "wikilink") [Category:大學先修課程](https://zh.wikipedia.org/wiki/Category:大學先修課程 "wikilink") [Category:考试](https://zh.wikipedia.org/wiki/Category:考试 "wikilink") [Category:统计学](https://zh.wikipedia.org/wiki/Category:统计学 "wikilink")
 
 1.  Mulekar (2004), p. 4
-
 2.
-
 3.
-
 4.
 5.
-
 6.
 7.
-
 8.
 9.
 10.
@@ -245,69 +240,44 @@
 15.
 16.
 17.
-
 18.
 19.
-
 20.
 21.
 22. Hinders (2007), p.3
-
 23.
 24.
 25. Mulekar (2004), p. 3
-
 26. Hinders (2007), p. 4
-
 27.
 28. Mulekar (2004), p. 5
-
 29.
 30. Koehler (2008), pp. 7–9
-
 31. Koehler (2008), pp. 8–9
-
 32. Koehler (2008), pp. 8, 10
-
 33. Koehler (2008), pp. 8, 11
-
 34.
 35.
 36. Mulekar (2004), p. 8
-
 37.
 38.
 39. Berger (1997), p. 4
-
 40. Simmons (2009), p. 5
-
 41.
 42. Simmons (2009), p. 6
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
 53. Berger (1997), p. 5
-
 54.
 55. Simmons (2009), p. 7
-
 56.
 57.
 58.

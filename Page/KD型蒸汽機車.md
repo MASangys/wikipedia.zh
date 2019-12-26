@@ -535,37 +535,23 @@ KD51型之前身為。9050型蒸汽機車原為向美國ALCO公司Pittsburgh工�
 [Category:中国蒸汽机车](https://zh.wikipedia.org/wiki/Category:中国蒸汽机车 "wikilink") [Category:2-8-0輪式機車](https://zh.wikipedia.org/wiki/Category:2-8-0輪式機車 "wikilink")
 
 1.  <http://www.railography.co.uk/info/cn_steam/lists/locos/class_index.htm>
-
 2.  依南滿州鐵道機車規則，ソリ（發音為Soli）係指Consoliation型（車軸配置[2-8-0](https://zh.wikipedia.org/wiki/2-8-0 "wikilink")）之蒸汽機車，之後再以イ（i）、ニ（ni）、サ（sa）、シ（si）、コ（ko）、ロ（ro）、ナ（na）、ハ（ha）、ク（ku）依序代表1～9號。因此Solii（ソリイ）為Consoliation型機車第1型，之後以此類推。參見。
-
 3.
 4.  台灣總督府鐵道部於1923年至1939年，向川崎造船、汽車製造、日立製作所、日本車輛、三菱造船訂購9600型同型機39輛，編為800型（車號801-838），1937年形式改為D98型（車號不變），戰後改為[DT580型](../Page/日本國鐵9600型蒸汽機車.md "wikilink")（DT581-619）。DT609保存於高雄連池潭。
     另外台灣總督府鐵道部於1919年，原欲向日本訂購9600型同型機，但因日本的機車製造廠因應日本本土大量訂單無暇製造，故轉向美國按9600型的規格ALCO訂製600型共14輛（600-613），1937年改為D96型（車號不變），戰後改為[DT560](../Page/台鐵DT560型蒸汽機車.md "wikilink")。目前DT561保存於[苗栗鐵道文物展示館](../Page/苗栗鐵道文物展示館.md "wikilink")。
-
 5.  [上海地方志 上海鐵路志 運輸生產 機務 機車運用](http://www.shtong.gov.cn/newsite/node2/node2245/node68716/node68722/node68766/node68846/userobject1ai66619.html)
-
 6.
 7.  [Railography : Chinese Steam Profiles KD6 Class 2-8-0](http://www.railography.co.uk/info/cn_steam/profiles/kd6.htm)
-
 8.  聯合國善後救濟總署移交之機車，有KD6（）、KD7、[JF10](https://zh.wikipedia.org/wiki/解放型蒸汽機車#解放10型 "wikilink")（）等。
-
 9.  MCCS：MC為交通部簡稱（Ministry of Transportation and Communications），CS為當時形式代號（Consolidation）。
-
 10. [Railography : Chinese Steam Profiles KD7 Class 2-8-0](http://www.railography.co.uk/info/cn_steam/profiles/kd7.htm)
-
 11. [上海地方志辦公室 上海鐵路志 第二篇運輸生產 第五章機務 第一節機車運用](http://www.shtong.gov.cn/newsite/node2/node2245/node68716/node68722/node68766/node68846/userobject1ai66619.html)
-
 12. [Railography : Chinese Steam Profiles KD7 Class 2-8-0](http://www.railography.co.uk/info/cn_steam/profiles/kd7.htm)
-
 13. [上海地方志辦公室 上海鐵路志 第二篇運輸生產 第五章機務 第二節機車檢修。](http://www.shtong.gov.cn/newsite/node2/node2245/node68716/node68722/node68766/node68846/userobject1ai66620.html)
-
 14. [上海鐵路博物館](http://www.museum.shrail.com/tup/1-1.htm)
-
 15. 賓夕法尼亞鐵路H6系列機車，於1899年至1913年間共製造2034輛。可分為H6型（1899-1901年製造189輛）、H6a型（1901-1905年製造1,242輛）、H6b型（1905-1913年製造603輛）。於1920年代賓夕法尼亞鐵路對H6a型及H6b型共699輛進行過熱化改造，汽缸直徑由566mm改造為584mm，改稱為H6sa型、H6sb型。
-
 16.
 17.
 18.
 19. 南滿州鐵道現為[哈大鐵路長春](https://zh.wikipedia.org/wiki/哈大鐵路 "wikilink")-大連段，原屬於俄國資本之[中東鐵路之一部分](https://zh.wikipedia.org/wiki/中東鐵路 "wikilink")，軌距與俄國鐵路相同為1524mm。於[日俄戰爭期間](https://zh.wikipedia.org/wiki/日俄戰爭 "wikilink")，日軍為了能夠使用從日本本土徵調之車輛，故將其佔領之部分軌距修改為與日本本土相同之1067mm軌距。日俄戰爭結束後，南滿州鐵道成立，決定使用與中國、朝鮮相同之標準軌距，於1908年完成改軌。原從日本本土徵調之機車，送回日本本土或轉賣於台灣總督府鐵道部。
-
 20. 日本國有鐵道成立初期，擁有之Consolidation型機車中，暱稱為「小コン」、（原官設鐵道800型）暱稱為「大コン」，9050型暱稱為「新コン」。

@@ -44,68 +44,38 @@ cD星系也被用來定義星系團。一個有著cD星系存在於中心的星�
 [Category:星系](https://zh.wikipedia.org/wiki/Category:星系 "wikilink")
 
 1.  Sidereal Times, June 2002, page 3
-
 2.  Proceedings of PATRAS 2008, page 59
-
 3.  Galaxy Clusters, Jan Hartlap, page 3
-
 4.  Surface Photometry and the Structure of Elliptical Galaxies, ["Chapter 11. cD and Brightest Cluster Galaxies"](http://nedwww.ipac.caltech.edu/level5/Sept01/Kormendy/Kormendy11.html), **John Kormendy, S. Djorgovski**, *1989*
-
 5.  A Dictionary of Astronomy, ["cD galaxy"](http://www.highbeam.com/doc/1O80-cDgalaxy.html) (accessed 14 April 2010)
-
 6.  encyclopedia.com ["supergiant elliptical"](http://www.encyclopedia.com/doc/1O80-supergiantelliptical.html)
-
 7.
 8.  An Atlas of DRAGNs, ["Glossary"](http://www.jb.man.ac.uk/atlas/gloss.html#cD), **J. P. Leahy**, *15 March 1997* (accessed 14 April 2010)
-
 9.  Global Telescope Network, ["Types of Galaxies"](http://gtn.sonoma.edu/resources/normal_galaxies/types.php) , **Kevin McLin**, *14 April 2010* (accessed 14 April 2010)
-
 10. "Uncertainties on Clusters of Galaxies Distances", **C. Adami, M.P. Ulmer**, *18 July 2000*,  (accessed 14 April 2010)
-
 11. Universe Today, ["What is the Largest Galaxy?"](http://www.universetoday.com/guide-to-space/galaxies/what-is-the-largest-galaxy/), **Fraser Cain** (accessed 14 April 2010)
-
 12. EurekAlert, ["Scientists observe largest explosion in space"](http://www.eurekalert.org/pub_releases/2005-01/ou-sol010505.php), **Andrea Gibson**, *5 January 2005* (accessed 15 April 2010)
-
 13. Encyclopædia Britannica, ["cD-galaxy"](http://www.britannica.com/EBchecked/topic/100915/cD-galaxy) (accessed 14 April 2010)
-
 14.
 15. COSMOS - The SAO Encyclopedia of Astronomy, ["CD Galaxies"](http://astronomy.swin.edu.au/cosmos/C/CD+Galaxies), **Swinburne University of Technology** (accessed 14 April 2010)
-
 16. Internet Encyclopedia of Science, ["D galaxy"](http://www.daviddarling.info/encyclopedia/D/D_galaxy.html), **David Darling** (accessed 14 April 2010)
-
 17. IAU Symposium 245, "Star Formation in Bulges from GALEX", **Sukyoung K. Yi**, *5 September 2007*, ,  (accessed 14 April 2010)
-
 18. Universe Today, ["How Do Fossil Galaxy Clusters Form so Quickly?"](http://www.universetoday.com/2006/04/27/how-do-fossil-galaxy-clusters-form-so-quickly/), **Fraser Cain**, *27 April 2006* (accessed 15 April 2010)
-
 19. Monthly Notices of the Royal Astronomical Society, "Intracluster light and the extended stellar envelopes of cD galaxies: an analytical description", **Marc S. Seigar, Alister W. Graham, Helmut Jerjen**, *July 2007*, Volume 378, Issue 4, pp. 1575-1588, , ,  (accessed 15 April 2010)
-
 20.
 21.
-
 22.
-
 23.
-
 24.
 25.
 26. Section 8 of
-
 27.
-
 28.
-
 29.
-
 30.
-
 31. \[<http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1971PASP>...83..313R\&data_type=PDF_HIGH\&whole_paper=YES\&type=PRINTER\&filetype=.pdf PDF\], "'Tuning Fork' Classification of Rich Clusters of Galaxies", **Herbert J.Rood, Gummuluru N. Sastry**, *June 1971*, ,  (accessed 14 April 2010)
-
 32. Nature, ["FIGURE 4. Optical, radio and X-ray images of the Perseus cluster."](http://www.nature.com/nature/journal/v460/n7252/fig_tab/nature08135_F4.html) *9 July 2009*,  ; EISSN 1476-4687 ; (accessed 15 April 2010)
-
 33. Nature, ["FIGURE 3. The entropy of the intracluster medium in spherical shells of radius r."](http://www.nature.com/nature/journal/v460/n7252/fig_tab/nature08135_F3.html) *9 July 2009*,  ; EISSN 1476-4687 ; (accessed 15 April 2010)
-
 34. Science, ["The Central Galaxy in Abell 2029: An Old Supergiant"](http://www.sciencemag.org/cgi/content/abstract/250/4980/539), **Juan M. Uson, Stephen P. Boughn, and Jeffrey R. Kuhn**, *26 October 1990*, Vol. 250, no. 4980, pp.539-540,
-
 35. Ellensburg Daily Record, "Galaxy Found", **United Press International**, *27 October 1990*, p.16
-
 36. Lodi News-Sentinel, "Giant Galaxy Discovered", **UPI**, *26 October 1990*, pg.9

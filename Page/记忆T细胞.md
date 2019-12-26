@@ -1,6 +1,6 @@
 [lymphocyte.jpg](https://zh.wikipedia.org/wiki/File:lymphocyte.jpg "fig:lymphocyte.jpg")\]\]
 
-**记忆T细胞**是[T淋巴细胞的一个子类](https://zh.wikipedia.org/wiki/T淋巴细胞 "wikilink")，该种细胞曾经遇到过某种特定[抗原](../Page/抗原.md "wikilink")且产生过反应。这些细胞可以识别外来入侵物，比如[细菌](../Page/细菌.md "wikilink")、[病毒](../Page/病毒.md "wikilink")、[癌细胞等](https://zh.wikipedia.org/wiki/癌细胞 "wikilink")。记忆T细胞的形成通常是因为曾受特定抗原的感染、经历癌症或接种疫苗。当同一个抗原再次进入人体时，记忆T细胞可以更快地产生比首次接触此抗原更强烈的[免疫反应](https://zh.wikipedia.org/wiki/免疫反应 "wikilink")。这一行为被用于T细胞增殖化验来验证曾经是否接触过某种抗原。
+**记忆T细胞**是一个[T淋巴细胞子类](https://zh.wikipedia.org/wiki/T淋巴细胞 "wikilink")，该种细胞曾经遇到过某种特定[抗原](../Page/抗原.md "wikilink")且产生过反应。这些细胞可识别外来入侵物，比如[细菌](../Page/细菌.md "wikilink")、[病毒](../Page/病毒.md "wikilink")、[癌细胞等](https://zh.wikipedia.org/wiki/癌细胞 "wikilink")。记忆T细胞的形成通常是因为曾受特定抗原的感染、经历癌症或接种疫苗。当同一个抗原再次进入人体时，记忆T细胞可以更快地产生比首次接触此抗原更强烈的[免疫反应](https://zh.wikipedia.org/wiki/免疫反应 "wikilink")。这一行为被用于T细胞增殖化验来验证曾经是否接触过某种抗原。
 
 ## 子类
 
@@ -35,7 +35,7 @@ T<sub>CM</sub>细胞被认为与[干细胞拥有一些相似的性质](https://z
 
   -
   -
-  - [T-cell Group - Cardiff University](http://www.tcells.org/scientific/memory/)
+  - [T-cell Group - Cardiff University](https://web.archive.org/web/20140704004122/http://www.tcells.org/scientific/memory/)
 
 ## 参见
 
@@ -46,19 +46,12 @@ T<sub>CM</sub>细胞被认为与[干细胞拥有一些相似的性质](https://z
 [Category:T细胞](https://zh.wikipedia.org/wiki/Category:T细胞 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
 10. Science Sept 15, 2011. DOI : 10.1126/science.1209985

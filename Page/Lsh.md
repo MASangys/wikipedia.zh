@@ -17,7 +17,5 @@ lsh是從頭開始編寫的，歷史比[OpenSSH](../Page/OpenSSH.md "wikilink")�
 3.
 4.
 5.  <http://tools.ietf.org/draft/draft-nisse-secsh-srp/>
-
 6.  [[Debian](../Page/Debian.md "wikilink") 提供的lsh-server官方套件](http://packages.debian.org/search?searchon=names&keywords=lsh-server)
-
 7.  [lsh-server的Squeeze版本](http://packages.debian.org/squeeze/lsh-server)

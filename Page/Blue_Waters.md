@@ -37,13 +37,9 @@ NCSA表示，該中心是在2007年選擇[IBM](../Page/IBM.md "wikilink")作為 
 [Category:美國超級電腦](https://zh.wikipedia.org/wiki/Category:美國超級電腦 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.  [IBM公佈Power775 BlueWater系統售價](http://it.cri.cn/server/210528/577747132953.shtml)
-
 6.
-
 7.

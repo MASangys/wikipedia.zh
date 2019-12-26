@@ -119,57 +119,31 @@ IG Markets受澳洲證券和投資委員會（ASIC）監管，並持有澳洲金
 [Category:英國金融公司](https://zh.wikipedia.org/wiki/Category:英國金融公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16. <http://forexmagnates.com/bitcoin-back-ig-markets-ladder-sprint-binary-options-launched-yesterday/>
-
 17.
 18. <https://www.ig.com/cn/bitcoin-btc>
-
 19.
-
 20. <http://www.forexbrokerz.com/news/ig-bank-switzerland>
-
-21. <http://www.iggroup.com/content/files/annualres_jul14.pdf>
-
+21.
 22.
-
 23. <http://www.nadex.com/trading/about-nadex.html>
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.

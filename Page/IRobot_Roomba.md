@@ -12,7 +12,7 @@ Roomba利用一對旋轉方向相反的電刷從地上撿起灰塵，灰塵隨�
 
 ### 配件
 
-## 型號
+## 型號700
 
 ## 改裝及擴展潮流
 
@@ -31,8 +31,6 @@ Roomba利用一對旋轉方向相反的電刷從地上撿起灰塵，灰塵隨�
 [Category:家用机器人](https://zh.wikipedia.org/wiki/Category:家用机器人 "wikilink") [Category:家用電器品牌](https://zh.wikipedia.org/wiki/Category:家用電器品牌 "wikilink") [Category:吸塵器](https://zh.wikipedia.org/wiki/Category:吸塵器 "wikilink") [Category:2002年面世的產品](https://zh.wikipedia.org/wiki/Category:2002年面世的產品 "wikilink")
 
 1.  [Updated iRobot Roombas Suck More, Fortunately](http://www.businessweek.com/technology/content/aug2007/tc20070821_419619.htm?technology+product+review) . Aug 22, 2007. by Aaron Ricadela, BusinessWeek
-
 2.
 3.
-
 4.  <http://seekingalpha.com/article/252090-irobot-ceo-discusses-q4-2010-results-earnings-call-transcript?source=yahoo>

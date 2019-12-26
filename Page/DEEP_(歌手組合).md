@@ -633,17 +633,11 @@ DEEP名義
 [Category:2004年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年成立的音樂團體 "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
-
 2.
-
 3.  EXILE mobile DEEP Manager Blog 2007-10-24 (DEEPマネージャーブログ)
-
 4.
-
 5.  EXILE EVOLUTION (初回受注限定盤)(CD+2DVD) DISC 3 DVD \#16: The Document Movie of EXILE Vocal Battle Audition 2006 ～ASIAN DREAM～
-
 6.
 7.
 8.
-
 9.  2011年7月下旬FC限定發售。

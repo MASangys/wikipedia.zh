@@ -41,10 +41,7 @@ PlayStation Store在2006年11月11日，即[PlayStation 3发售当日上线](../
 [Category:PlayStation_3](https://zh.wikipedia.org/wiki/Category:PlayStation_3 "wikilink") [Category:PlayStation_4](https://zh.wikipedia.org/wiki/Category:PlayStation_4 "wikilink") [Category:PlayStation_Portable](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable "wikilink") [Category:PlayStation_Vita](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita "wikilink") [Category:软件分发平台](https://zh.wikipedia.org/wiki/Category:软件分发平台 "wikilink") [Category:電子貨幣](https://zh.wikipedia.org/wiki/Category:電子貨幣 "wikilink") [Category:電子遊戲線上零售商](https://zh.wikipedia.org/wiki/Category:電子遊戲線上零售商 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.

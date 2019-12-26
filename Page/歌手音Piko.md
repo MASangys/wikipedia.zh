@@ -50,24 +50,15 @@
 [Category:Vocaloid角色](https://zh.wikipedia.org/wiki/Category:Vocaloid角色 "wikilink") [Category:音樂軟體](https://zh.wikipedia.org/wiki/Category:音樂軟體 "wikilink") [Category:應用軟體](https://zh.wikipedia.org/wiki/Category:應用軟體 "wikilink") [Category:Vocaloid2引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid2引擎产品 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.

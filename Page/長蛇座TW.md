@@ -33,19 +33,12 @@ lner說這個洞可能是一顆[木星](../Page/木星.md "wikilink")大小質�
 [Category:_長蛇座](https://zh.wikipedia.org/wiki/Category:_長蛇座 "wikilink") [Category:橙矮星](https://zh.wikipedia.org/wiki/Category:橙矮星 "wikilink") [Category:金牛T星](https://zh.wikipedia.org/wiki/Category:金牛T星 "wikilink") [Category:長蛇座TW星協](https://zh.wikipedia.org/wiki/Category:長蛇座TW星協 "wikilink") [Category:變星](https://zh.wikipedia.org/wiki/Category:變星 "wikilink") [Category:HIP天體](https://zh.wikipedia.org/wiki/Category:HIP天體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.

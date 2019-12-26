@@ -20,12 +20,6 @@
 
 ## 參考資料
 
-<div class="references-small">
-
-<references />
-
-</div>
-
 ## 外部連結
 
 [Category:中島美嘉歌曲](https://zh.wikipedia.org/wiki/Category:中島美嘉歌曲 "wikilink") [Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink") [Category:每日放送動畫主題曲](https://zh.wikipedia.org/wiki/Category:每日放送動畫主題曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")

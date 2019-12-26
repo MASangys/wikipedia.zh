@@ -18,11 +18,7 @@ Dischord唱片是早期硬蕊音樂的獨立唱片，它是當時較有名的公
 [Category:美國唱片公司](https://zh.wikipedia.org/wiki/Category:美國唱片公司 "wikilink")
 
 1.  Azerrad p. 132
-
 2.  Blush p. 138
-
 3.  Cogan p. 82
-
 4.  Cogan p. 83
-
 5.

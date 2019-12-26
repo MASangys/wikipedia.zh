@@ -46,7 +46,7 @@
 <tr class="odd">
 <td><p>04</p></td>
 <td><p>唯有在晚上才能La La La La Li</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Barton" title="wikilink">Barton</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Edward_Barton" title="wikilink">Edward Barton</a></p></td>
 <td><p><a href="../Page/林夕.md" title="wikilink">林夕</a></p></td>
 <td><p>譚國政<br />
 楊振龍<br />

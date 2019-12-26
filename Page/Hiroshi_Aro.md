@@ -124,7 +124,7 @@
 
 ## 外部連結
 
-  - [](http://1st.geocities.jp/paranoiya_arohiroshi/)
+  - [](https://web.archive.org/web/20101020055447/http://1st.geocities.jp/paranoiya_arohiroshi/)
 
   - [](http://paranoia.s5.xrea.com/)（舊版愛好者網站）
 

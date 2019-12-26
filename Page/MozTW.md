@@ -43,30 +43,17 @@ MozTW過去亦曾跳脫Mozilla相關事務，協助辦理有關於[創用CC](htt
 [Category:2004年建立的組織](https://zh.wikipedia.org/wiki/Category:2004年建立的組織 "wikilink") [Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink") [Category:台灣網路論壇](https://zh.wikipedia.org/wiki/Category:台灣網路論壇 "wikilink") [Category:非營利組織](https://zh.wikipedia.org/wiki/Category:非營利組織 "wikilink") [Category:自由軟體組織](https://zh.wikipedia.org/wiki/Category:自由軟體組織 "wikilink") [Category:臺灣開放原始碼社群](https://zh.wikipedia.org/wiki/Category:臺灣開放原始碼社群 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  <http://www.linkedin.com/in/petercpg/zh-tw>
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
-
 14.
-
 15.

@@ -107,33 +107,19 @@ X-Bow參加了2008年度的[國際汽車聯盟GT](https://zh.wikipedia.org/wiki/
 [Category:奧地利機車公司](https://zh.wikipedia.org/wiki/Category:奧地利機車公司 "wikilink") [Category:自行車製造商](https://zh.wikipedia.org/wiki/Category:自行車製造商 "wikilink") [Category:1934年成立的公司](https://zh.wikipedia.org/wiki/Category:1934年成立的公司 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.  <http://www.business-standard.com/india/news/bajaj-raises-stake-in-austrian-bike-maker/435462/>
-
 7.  [Rated X: KTM unveils X-Bow sketches - Autoblog](http://www.autoblog.com/2006/12/12/rated-x-ktm-unveils-x-bow-sketches/)
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13. <http://www.gt4cup.com/results.php?season=2008&event=2&session=Race%20Three%20Result>
-
 14. <http://www.gt4cup.com/results.php?season=2008&event=6&session=Qualifying%201>
-
 15.
-
 16.
-
 17. [Biker Voodoo » Bajaj & Ktm To Jointly Develop New Bikes](http://www.bikervoodoo.com/2008/01/11/bajaj-ktm-to-jointly-develop-new-bikes/)

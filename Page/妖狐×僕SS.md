@@ -678,24 +678,14 @@
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊GANGAN_JOKER](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_JOKER "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:2012年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年TBS電視網動畫 "wikilink") [Category:每日放送深夜動畫](https://zh.wikipedia.org/wiki/Category:每日放送深夜動畫 "wikilink") [Category:妖怪題材作品](https://zh.wikipedia.org/wiki/Category:妖怪題材作品 "wikilink") [Category:妖狐題材作品](https://zh.wikipedia.org/wiki/Category:妖狐題材作品 "wikilink") [Category:公寓背景作品](https://zh.wikipedia.org/wiki/Category:公寓背景作品 "wikilink") [Category:变身女主角](https://zh.wikipedia.org/wiki/Category:变身女主角 "wikilink") [Category:David_Production](https://zh.wikipedia.org/wiki/Category:David_Production "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  《月刊GANGAN JOKER》2011年8月號、史克威爾艾尼克斯、封面。
-
 5.
-
 6.
-
 7.
-
 8.  漫畫：Interlude 4：百色眼鏡
-
 9.
-
 10.
 11.
-
 12.

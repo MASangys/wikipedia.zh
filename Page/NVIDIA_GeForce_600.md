@@ -1096,157 +1096,87 @@ GDDR5</p></td>
   - [NVIDIA主頁](http://www.nvidia.com/)
   - [NVIDIA Kepler Compute Architecture](http://www.nvidia.com/object/nvidia-kepler.html)
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:GeForce系列](https://zh.wikipedia.org/wiki/Category:GeForce系列 "wikilink") [Category:2011年面世的產品](https://zh.wikipedia.org/wiki/Category:2011年面世的產品 "wikilink")
 
 1.  [NVIDIA新一代CUDA架構，代號 “[Kepler](../Page/约翰内斯·开普勒.md "wikilink")”](http://www.nvidia.com/object/nvidia-kepler.html)
-
 2.  [全新「Kepler」GPU微架構](http://www.hkepc.com/7672/page/2#view)
-
 3.  [开普勒秒杀GCN 新卡皇GTX680首发评测](http://www.pcpop.com/doc/0/774/774762_6.shtml)
-
 4.  [开普勒秒杀GCN 新卡皇GTX680首发评测](http://www.pcpop.com/doc/0/774/774762_8.shtml)
-
 5.  [Kepler的完美复仇，GeForce GTX 680同步评测](http://www.expreview.com/18845-4.html)
-
 6.  [AMD更强更先进?开普勒不完全支持DX11.1](http://vga.zol.com.cn/337/3371323.html)- zol.com.cn
-
 7.  geforce.com.tw: [GeForce GT 640（OEM）](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gt-640-oem)
-
 8.  [NVIDIA更新OEM显卡规格：低端GK107登场 驱动之家](http://news.mydrivers.com/1/226/226086.htm)
-
 9.  geforce.com.tw: \[<http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gt640> GeForce GT 640
-
 10. geforce.com.tw: [GeForce GT 645（OEM）](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gt-645-oem)
-
 11. geforce.com.tw: [GeForce GTX 645](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-645-oem)
-
 12. geforce.com.tw: [GeForce GTX 650](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-650)
-
 13. geforce.com.tw: [GeForce GTX 650 Ti](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-650ti)
-
 14. geforce.com.tw: [GeForce GTX 650 Ti Boost](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-650ti-boost)
-
 15. geforce.com.tw: [GeForce GTX 660（OEM）](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-660-oem)
-
 16. geforce.com.tw: [GeForce GTX 660](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-660)
-
 17. geforce.com.tw: [GeForce GTX 660Ti](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-660ti)
-
 18. [NVIDIA 正式發售GeForce GTX 660 Ti，讓Kepler 架構顯卡更親民](http://chinese.engadget.com/2012/08/17/nvidia-geforce-gtx-660-ti-kepler/) - engadget
-
 19. [nVIDIA GTX 660 Ti 上市299美元起　另贈《邊緣禁地2》](http://www.ettoday.net/news/20120819/89637.htm) - ettoday
-
 20. geforce.com.tw: [GeForce GTX 670](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-670)
-
 21. [一张意想不到的显卡 NV次旗舰GTX670首测 太平洋电脑网](http://diy.pconline.com.cn/graphics/reviews/1205/2776617_all.html)
-
 22. geforce.com.tw: [GeForce GTX 680](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-680)
-
 23. geforce.com.tw: [GeForce GTX 690](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-690)
-
 24. [GeForce GTX 690媒体评测卡开箱照 驱动之家](http://news.mydrivers.com/1/226/226549.htm)
-
 25. [NVIDIA双芯卡皇降临！GTX690性能测试 硬派网](http://www.inpai.com.cn/doc/hard/172256.htm)
-
 26. [老黄又使坏！NVIDIA刻意在显卡上做硬件阉割](http://www.ithome.com/html/digi/40553.htm)  - ithome.com引用自3DM.com
-
 27. [NVIDIA 带来较平价的 GeForce GT 610、GT 620 和 GT 630 ，没有采用 Kepler 架构 Engadet](http://cn.engadget.com/2012/05/20/nvidia-geforce-gt-610-gt-620-gt-630/)
-
 28.
 29.
 30. geforce.com.tw: [GeForce 605（OEM）](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-605-oem)
-
 31. geforce.com.tw: [GeForce GT 610](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gt-610)
-
 32. geforce.com.tw: [GeForce GT 620（OEM）](http://www.geforce.com/hardware/desktop-gpus/geforce-gt-620-oem)
-
 33. geforce.com.tw: [GeForce GT 620](http://www.geforce.com/hardware/desktop-gpus/geforce-gt-620)
-
 34. geforce.com.tw: [GeForce GT 630（OEM）](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gt-630-oem)
-
 35. geforce.com.tw: [GeForce GT 630](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gt-630-oem)
-
 36. geforce.com.tw: [GeForce GT 640（OEM）](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gt-640-oem)
-
 37. geforce.com.tw: [GeForce GT 645（OEM）](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gt-645-oem)
-
 38. geforce.com.tw: [GeForce GTX 650](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-650)
-
 39. geforce.com.tw: [GeForce GTX 650](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-650)
-
 40. geforce.com.tw: [GeForce GTX 650 Ti](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-650ti)
-
 41. geforce.com.tw: [GeForce GTX 650 Ti Boost](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-650ti-boost)
-
 42. geforce.com.tw: [GeForce GTX 660](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-660)
-
 43.
-
 44. geforce.com.tw: [GeForce GTX 660（OEM）](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-660-oem)
-
 45.
-
 46. geforce.com.tw: [GeForce GTX 660Ti](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-660ti)
-
 47. geforce.com.tw: [GeForce GTX 670](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-670)
-
 48. geforce.com.tw: [GeForce GTX 680](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-680)
-
 49. , page 6 of 29
-
 50. geforce.com.tw: [GeForce GTX 690](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-690)
-
 51.
-
 52. geforce.com.tw: [GeForce 610M](http://www.geforce.com.tw/hardware/notebook-gpus/geforce-610m)
-
 53.
-
 54. geforce.com.tw: [GeForce GT 620M](http://www.geforce.com.tw/hardware/notebook-gpus/geforce-gt-620m)
-
 55.
-
 56. geforce.com.tw: [GeForce GT 630M](http://www.geforce.com.tw/hardware/notebook-gpus/geforce-gt-630m)
-
 57.
 58.
-
 59.
-
 60. geforce.com.tw: [GeForce GT 635M](http://www.geforce.com.tw/hardware/notebook-gpus/geforce-gt-635m)
-
 61.
 62.
-
 63.
-
 64. geforce.com.tw: [GeForce GT 640M LE](http://www.geforce.com.tw/hardware/notebook-gpus/geforce-gt-640m-le)
-
 65.
 66. geforce.com.tw: [GeForce GT 640M](http://www.geforce.com.tw/hardware/notebook-gpus/geforce-gt-640m)
-
 67.
 68.
-
 69. geforce.com.tw: [GeForce GT 650M](http://www.geforce.com.tw/hardware/notebook-gpus/geforce-gt-650m)
-
 70.
 71.
-
 72.
-
 73. geforce.com.tw: [GeForce GTX 660M](http://www.geforce.com.tw/hardware/notebook-gpus/geforce-gtx-660m)
-
 74.
 75.
 76.
-
 77. [660m power draw tested in Asus G75VW](http://forum.notebookreview.com/asus-reviews-owners-lounges/659534-asus-g75vw-ivy-bridge-660m-review-owners-lounge-4.html)
-
 78. geforce.com.tw: [GeForce GTX 670M](http://www.geforce.com.tw/hardware/notebook-gpus/geforce-gtx-670m)
-
 79.
 80. geforce.com.tw: [GeForce GTX 675M](http://www.geforce.com.tw/hardware/notebook-gpus/geforce-gtx-675m)
-
 81.
 82. geforce.com.tw: [GeForce GTX 680M](http://www.geforce.com.tw/hardware/notebook-gpus/geforce-gtx-680m)

@@ -124,54 +124,29 @@ Caleb Shomo因個人因素離團，幾個月後樂團宣布解散
 [Category:後硬蕊樂團](https://zh.wikipedia.org/wiki/Category:後硬蕊樂團 "wikilink") [Category:美國搖滾樂團](https://zh.wikipedia.org/wiki/Category:美國搖滾樂團 "wikilink") [Category:美國重金屬樂團](https://zh.wikipedia.org/wiki/Category:美國重金屬樂團 "wikilink") [Category:重金屬樂團](https://zh.wikipedia.org/wiki/Category:重金屬樂團 "wikilink") [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink") [Category:金屬蕊樂團](https://zh.wikipedia.org/wiki/Category:金屬蕊樂團 "wikilink") [Category:美國後硬蕊樂團](https://zh.wikipedia.org/wiki/Category:美國後硬蕊樂團 "wikilink")
 
 1.
-
 2.  [Review](http://www.musicemissions.com/artists/albums/index.php?album_id=9795), MusicEmissions.com
-
 3.  \[ Charts\], [Allmusic](https://zh.wikipedia.org/wiki/Allmusic "wikilink")
-
 4.  [Taylor Swift Scores First \#1 Debut with Fearless](http://www.mtv.com/news/articles/1599721/20081119/swift__taylor.jhtml). [MTV](https://zh.wikipedia.org/wiki/MTV "wikilink"), November 19, 2008
-
 5.  [Attack Attack\! Maylene & the Sons of Disaster, A Static Lullaby, Showbread, Confide, Attack Attack\!](http://www.chicagoreader.com/chicago/maylene-and-the-sons-of-disaster-a-static-lullaby-showbread-confide-attack-attack/Event?oid=852515&show=comments) [Chicago Reader](https://zh.wikipedia.org/wiki/Chicago_Reader "wikilink")
-
 6.  [Escape the Fate Heading Out with Attack Attack\!](http://altpress.com/news/5318.htm) . *[Alternative Press](../Page/Alternative_Press.md "wikilink")*, December 9, 2008.
-
 7.  [Music Saves Lives Donation '09 The Dillinger Escape Plan, Attack Attack\!](http://vanswarpedtour.com/blog/0/6)  Warped Tour
-
 8.
 9.  [Buddyhead.com](http://www.buddyhead.com/crab-core-redo-attack-attack-make-new-stick-stickly-video/)
-
 10. <http://www.noisecreep.com/2009/08/14/attack-attack-dr-shavargo-pt-3-live-video/>
-
 11. [NEWS\!\!\!\! - Nick's MySpace Blog |](http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=38429436&blogId=515005017)
-
 12. [Regarding Member Change - ATTACK ATTACK\!'s MySpace Blog |\#](http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=35990775&blogId=515397907)
-
 13.
-
 14. [Artery Foundation Across The Nation Tour ft Attack Attack\!](http://eventful.com/grandrapids/events/artery-foundation-across-nation-tour-ft-attack-/E0-001-027294875-5) Eventful
-
 15. [/Attack Attack\! guitarist/vocalist Johnny Franck leaves band to “Refocus on God”](http://www.theprp.com/2010/11/11/news/attack-attack-guitarist-johnny-franck-leaves-band-to-refocus-on-god)
-
 16. [OH NOES ATTACK ATTACK LOSES ANOTHER MEMBER](http://www.metalsucks.net/2010/11/12/oh-noes-attack-attack-loses-another-member/#comments) MetalSucks
-
 17. [Attack Attack\! guitarist/vocalist Johnny Franck leaves band to “refocus on God”](http://www.altpress.com/news/entry/attack_attack_guitarist_vocalist_johnny_franck_leaves_band_to_refocus_on_go/) *[Alternative Press](../Page/Alternative_Press.md "wikilink")*
-
 18.
-
 19.
-
 20.
-
 21. <http://www.alterthepress.com/2011/11/attack-attack-complete-work-on-new.html>
-
 22. <http://www.alterthepress.com/2011/12/attack-attack-reveal-new-album-this.html>
-
 23.
-
 24. <http://www.youtube.com/watch?v=jiOepsyiVR8>
-
 25.
-
 26. [Guardian.co.uk](http://www.guardian.co.uk/music/2009/jun/24/attack-attack-stick-stickly-video)
-
 27. [Attack Attack\!](http://www.rollingstone.com/artists/attackattack) [The Rolling Stone](https://zh.wikipedia.org/wiki/The_Rolling_Stone "wikilink")

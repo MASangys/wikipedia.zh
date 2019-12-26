@@ -271,10 +271,8 @@
 [Category:Lollipop-F音樂專輯](https://zh.wikipedia.org/wiki/Category:Lollipop-F音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
 
 1.  [LOLLIPOP F ［DANCE］台版 - Sky Music](http://skymusic.com.hk/?p=24468)，2011年10月27日 (四) 00:35 (UTC+8)查閱
-
 2.
 3.
 4.
 5.  [LOLLIPOP F 2011全新專輯 DANCE［港版］ - Sky Music](http://skymusic.com.hk/?p=24933)，2011年10月27日 (四) 00:40 (UTC+8)查閱
-
 6.

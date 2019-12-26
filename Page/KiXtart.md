@@ -84,5 +84,4 @@ KiXtart 2010
 [Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink")
 
 1.  [KiXtart.org - home of KiXtart](http://www.kixtart.org)
-
 2.

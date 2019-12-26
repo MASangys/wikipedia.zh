@@ -49,26 +49,16 @@ HTC于2011年第二季度为Incredible S升级到[Android 2.3](https://zh.wikipe
 [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.

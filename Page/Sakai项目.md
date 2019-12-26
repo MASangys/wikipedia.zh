@@ -135,7 +135,7 @@ Sakai基金会每年都会从提名候选人中选出新的理事会成员，基
 ## 外部链接
 
   - [Sakai project主页](http://www.sakaiproject.org/)
-  - [Sakai新闻](http://www.sakaiproject.org/news)
+  - [Sakai新闻](https://web.archive.org/web/20120404000537/http://www.sakaiproject.org/news)
   - [Sakai project wiki](https://confluence.sakaiproject.org/display/CONF/Welcome+to+the+Sakai+wiki)
   - [Sakai邮件列表](https://web.archive.org/web/20101130121656/http://sakaiproject.org/mail-list-archives)
 

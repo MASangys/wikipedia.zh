@@ -242,12 +242,12 @@ Trouble Maker刊登在有線頻道SBS MTV《The Show》官方推特(twitter)上�
 1.  [泫雅、張賢勝組成Trouble Maker的優點是?](http://www.koreastardaily.com/tc/news/13344)
 2.  [泫雅、張賢勝公開Trouble Maker之名緣由](http://www.koreastardaily.com/tc/news/13352)
 3.
-4.  [泫雅與賢勝的 MAMA 之吻](http://kpopn.com/2011/11/30/94481/) Kpopn 2011-11-30
-5.  [Cube:泫雅和賢勝只親臉頰](http://kpopn.com/2011/12/02/94936/) Kpopn 2011-12-02
+4.  [泫雅與賢勝的 MAMA 之吻](http://kpopn.com/2011/11/30/94481/)  Kpopn 2011-11-30
+5.  [Cube:泫雅和賢勝只親臉頰](http://kpopn.com/2011/12/02/94936/)  Kpopn 2011-12-02
 6.  [Trouble Maker血脈噴張性感Teaser](http://www.koreastardaily.com/tc/video/13236)
 7.  [泫雅、BEAST張賢勝《Trouble Maker》MV曝光](http://www.koreastardaily.com/tc/video/13320)
 8.  [Trouble Maker回歸在即 預告片性感貼身火爆十足](http://www.koreastardaily.com/tc/video/33300)
-9.  [Trouble Maker 週末轟炸！](http://kpopn.niusnews.com/=K04ahm38)
+9.
 10. [Trouble Maker signals a sexy return with video + image teaser](http://www.allkpop.com/article/2013/10/trouble-maker-signals-a-sexy-return-with-video-teaser)
 11. [Trouble Maker《沒有明天》音源、MV曝光 性感爆棚](http://www.koreastardaily.com/tc/video/33475)
 12. [Trouble Maker《没有明天》著重打造性感火辣舞台](http://www.koreastardaily.com/sc/news/33595)

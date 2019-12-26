@@ -53,14 +53,9 @@
 [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:每日放送動畫主題曲](https://zh.wikipedia.org/wiki/Category:每日放送動畫主題曲 "wikilink") [Category:9nine歌曲](https://zh.wikipedia.org/wiki/Category:9nine歌曲 "wikilink") [Category:SME_Records歌曲](https://zh.wikipedia.org/wiki/Category:SME_Records歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.

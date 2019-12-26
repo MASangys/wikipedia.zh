@@ -116,22 +116,13 @@ Abandon All Ships被廣泛的認為是基督教樂團，但帶有髒話與暗示
 [Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink") [Category:加拿大金属蕊乐团](https://zh.wikipedia.org/wiki/Category:加拿大金属蕊乐团 "wikilink") [Category:加拿大后硬蕊乐团](https://zh.wikipedia.org/wiki/Category:加拿大后硬蕊乐团 "wikilink") [Category:加拿大电子音乐乐团](https://zh.wikipedia.org/wiki/Category:加拿大电子音乐乐团 "wikilink") [Category:後硬蕊樂團](https://zh.wikipedia.org/wiki/Category:後硬蕊樂團 "wikilink") [Category:2006年安大略省建立](https://zh.wikipedia.org/wiki/Category:2006年安大略省建立 "wikilink")
 
 1.
-
 2.  [Abandon All Ships - Take One Last Breath (video)](http://www.youtube.com/watch?v=CDgbYF48UPw) Youtube.com 2010-08-10
-
 3.  [The Crimson Armada Added To Miss May I, Abandon All Ships Tour](http://www.metalunderground.com/news/details.cfm?newsid=60440) Metalunderground.com
-
 4.  [Kyler Browne Facebook Post](http://www.facebook.com/kyler.browne/posts/194432067240311) Facebook.com Retrieved 2011-03-02
-
-5.  [Vans Warped Tour Bands](http://vanswarpedtour.com/bands) Vanswarpedtour.com
-
+5.  [Vans Warped Tour Bands](http://vanswarpedtour.com/bands)  Vanswarpedtour.com
 6.
-
 7.
-
 8.
 9.
-
 10.  Interviews - Substream Music Press|url=[http://www.substreammusicpress.com/Interviews/abandon-all-ships.html|publisher=Substream](http://www.substreammusicpress.com/Interviews/abandon-all-ships.html%7Cpublisher=Substream) Music Press|accessdate=13 October 2010|date=27 August 2010|archive-url=[https://web.archive.org/web/20110108165353/http://www.substreammusicpress.com/Interviews/abandon-all-ships.html|archive-date=2011-01-08|dead-url=yes](https://web.archive.org/web/20110108165353/http://www.substreammusicpress.com/Interviews/abandon-all-ships.html%7Carchive-date=2011-01-08%7Cdead-url=yes)}}
-
 11.

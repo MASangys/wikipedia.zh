@@ -40,43 +40,29 @@
 [Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:马里奥角色扮演游戏](https://zh.wikipedia.org/wiki/Category:马里奥角色扮演游戏 "wikilink") [Category:任天堂遊戲](https://zh.wikipedia.org/wiki/Category:任天堂遊戲 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink") [Category:科幻电子游戏](https://zh.wikipedia.org/wiki/Category:科幻电子游戏 "wikilink") [Category:时间旅行游戏](https://zh.wikipedia.org/wiki/Category:时间旅行游戏 "wikilink")
 
 1.
-
 2.  *Mario & Luigi: Partners in Time* instruction booklet, p. 4.
-
 3.  *Mario & Luigi: Partners in Time* instruction booklet, p. 24.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
 11.
-
 12.
 13. *Mario & Luigi: Partners in Time* instruction booklet, p. 17.
-
 14.
 15.
-
 16.
 17. *Mario & Luigi: Partners in Time* instruction booklet, p. 19.
-
 18.
 19.
-
 20.
 21.
 22.
 23.
 24.
-
 25.
 26.
 27.
@@ -90,9 +76,6 @@
 35.
 36.
 37.
-
 38.
-
 39.
-
 40.

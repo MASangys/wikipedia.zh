@@ -21,15 +21,10 @@
 [Category:美国女性色情演员](https://zh.wikipedia.org/wiki/Category:美国女性色情演员 "wikilink") [Category:美國女性色情模特兒](https://zh.wikipedia.org/wiki/Category:美國女性色情模特兒 "wikilink") [Category:归化美国公民的中华人民共和国人](https://zh.wikipedia.org/wiki/Category:归化美国公民的中华人民共和国人 "wikilink") [Category:长沙人](https://zh.wikipedia.org/wiki/Category:长沙人 "wikilink") [Category:张姓](https://zh.wikipedia.org/wiki/Category:张姓 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.
-
 8.

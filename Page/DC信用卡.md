@@ -12,7 +12,7 @@
       - [株式会社百十四ディーシーカード](https://web.archive.org/web/20060425191703/http://www.114dc.co.jp/)
       - [株式会社愛銀ディーシーカード](http://www.aigindc.co.jp/)
       - [菱信ディーシーカード株式会社](http://www.ryoshindc.co.jp/)
-      - [株式会社百五ディーシーカード](http://www.105dc.co.jp/)
+      - [株式会社百五ディーシーカード](https://web.archive.org/web/20111123192333/http://www.105dc.co.jp/)
       - [株式会社りゅうぎんディーシー](http://www.ryugindc.co.jp/)
       - [株式会社滋賀ディーシーカード](http://www.shigadc.co.jp/)
       - [あおぎんディーシーカード株式会社](https://web.archive.org/web/20111228075957/http://www.aogindc.co.jp/)

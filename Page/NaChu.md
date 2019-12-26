@@ -1,8 +1,6 @@
-**NaChu**（）是[日本](../Page/日本.md "wikilink")的[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")、[女子偶像團體](https://zh.wikipedia.org/wiki/女子偶像團體 "wikilink")[SDN48](../Page/SDN48.md "wikilink")的前成員。本名、**竹川 奈津子**（たけかわ なつこ）。
+**NaChu**（，）是[日本](../Page/日本.md "wikilink")的[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")、[女子偶像團體](https://zh.wikipedia.org/wiki/女子偶像團體 "wikilink")[SDN48](../Page/SDN48.md "wikilink")的前成員。本名是**竹川奈津子**。出生于[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")，長大于[東京都](../Page/東京都.md "wikilink")。[Watanabe Entertainment所屬](https://zh.wikipedia.org/wiki/Watanabe_Entertainment "wikilink")。2010年5月15日昇格為正規成員。
 
-[大阪府出身在](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[東京都](../Page/東京都.md "wikilink")長大。[Watanabe Entertainment所屬](https://zh.wikipedia.org/wiki/Watanabe_Entertainment "wikilink")。2010年5月15日昇格為正規成員。
-
-## 来歴・人物
+## 经历
 
 大阪府[豐中市](../Page/豐中市.md "wikilink")出生，後來在東京都長大。[品川女子学院高等部](https://zh.wikipedia.org/wiki/品川女子学院中等部・高等部 "wikilink")、[目白大学](https://zh.wikipedia.org/wiki/目白大学 "wikilink")[社会学部媒體表現学科畢業](https://zh.wikipedia.org/wiki/社会学部 "wikilink")。
 

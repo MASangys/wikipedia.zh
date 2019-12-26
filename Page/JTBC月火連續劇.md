@@ -16,37 +16,37 @@
 <td><p>月火劇</p></td>
 <td><p>2011年12月5日－2012年10月22日</p></td>
 <td><center>
-<p>星期一、二 20：45</p></td>
+<p>星期一、二 20:45</p></td>
 </tr>
 <tr class="even">
 <td><p>2012年10月29日－2012年11月6日</p></td>
 <td><center>
-<p>星期一、二 23：00</p></td>
+<p>星期一、二 23:00</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2012年11月12日－2014年11月11日</p></td>
 <td><center>
-<p>星期一、二 21：45</p></td>
+<p>星期一、二 21:45</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2017年12月11日－2018年9月25日</p></td>
 <td><center>
-<p>星期一、二 23：00</p></td>
+<p>星期一、二 23:00</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2018年10月1日－</p></td>
 <td><center>
-<p>星期一、二 21：30</p></td>
+<p>星期一、二 21:30</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>火曜劇</p></td>
 <td><p>2014年12月16日－2015年1月27日</p></td>
 <td><center>
-<p>星期二 23：00</p></td>
+<p>星期二 23:00</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -490,7 +490,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019年11月11日 - 2019年12月10日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/輔佐官2" title="wikilink">輔佐官2</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/輔佐官2–改變世界的人們" title="wikilink">輔佐官2–改變世界的人們</a><br />
 </p></td>
 <td style="text-align: center;"><p>10</p></td>
 <td style="text-align: center;"><p><a href="../Page/李政宰.md" title="wikilink">李政宰</a>、<a href="../Page/新慜娥.md" title="wikilink">新慜娥</a>、<a href="../Page/金桐俊.md" title="wikilink">金桐俊</a>、<a href="../Page/李伊利雅.md" title="wikilink">李伊利雅</a></p></td>
@@ -499,7 +499,7 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年12月11日 - 2020年</p></td>
+<td style="text-align: center;"><p>2019年12月16日 - 2020年</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/檢察官內戰" title="wikilink">檢察官內戰</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>

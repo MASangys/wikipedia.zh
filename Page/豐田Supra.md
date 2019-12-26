@@ -4,7 +4,7 @@ Supra的直列6缸发动机与丰田[Crown和](https://zh.wikipedia.org/wiki/Cro
 
 1998年，Supra进入美国市场，2002年正式停产。在其生命周期中，Supra因其炫丽外形在很多电子游戏、电影和MTV等流行文化出现过。
 
-Supra雖已停產多年，但其出色的性能和前衛化的造型使其在業界仍有很高的聲望，甚至比停產前有名。因為有龐大的改裝潛力，在全球改裝業相當受歡迎，最典型的改法就是將其最大馬力提升至1000 hp，當前已有不少例子，在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，Supra還被封上「[牛魔王](../Page/牛魔王.md "wikilink")」這稱號\[1\]，與[日產](../Page/日產汽車.md "wikilink") [GT-R的](../Page/日產GT-R.md "wikilink")[東瀛](../Page/东洋.md "wikilink")[戰神齊名](https://zh.wikipedia.org/wiki/戰神 "wikilink")。由於近日以[86為首](../Page/豐田86.md "wikilink")，豐田汽車再度投產[跑車市場](https://zh.wikipedia.org/wiki/跑車 "wikilink")，使Supra非常有復產的可能。
+Supra雖已停產多年，但其出色的性能和前衛化的造型使其在業界仍有很高的聲望，甚至比停產前有名。因為有龐大的改裝潛力，在全球改裝業相當受歡迎，最典型的改法就是將其最大馬力提升至1000 hp，當前已有不少例子，在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，Supra還被封上「[牛魔王](../Page/牛魔王.md "wikilink")」這稱號\[1\]，與[日產](../Page/日產汽車.md "wikilink") [GT-R的](../Page/日產GT-R.md "wikilink")[東瀛](../Page/东洋.md "wikilink")[戰神齊名](https://zh.wikipedia.org/wiki/戰神 "wikilink")。由於近日以[86為首](../Page/豐田86.md "wikilink")，豐田汽車再度投產[跑車市場](https://zh.wikipedia.org/wiki/跑車 "wikilink")，使Supra在2019年復產。
 
 ## 第一代 (1978-1981)
 

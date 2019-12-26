@@ -64,8 +64,6 @@ diacritique tilde</p></td>
 [Category:衍生拉丁字母](https://zh.wikipedia.org/wiki/Category:衍生拉丁字母 "wikilink") [Category:Unicode未收錄文字](https://zh.wikipedia.org/wiki/Category:Unicode未收錄文字 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

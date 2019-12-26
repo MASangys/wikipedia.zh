@@ -20,8 +20,6 @@
 [Category:室女座](https://zh.wikipedia.org/wiki/Category:室女座 "wikilink") [Category:食雙星](https://zh.wikipedia.org/wiki/Category:食雙星 "wikilink") [Category:白矮星](https://zh.wikipedia.org/wiki/Category:白矮星 "wikilink") [Category:紅矮星](https://zh.wikipedia.org/wiki/Category:紅矮星 "wikilink") [Category:假想行星系](https://zh.wikipedia.org/wiki/Category:假想行星系 "wikilink")
 
 1.
-
 2.
 3.
-
 4.

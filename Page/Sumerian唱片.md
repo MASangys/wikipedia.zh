@@ -59,16 +59,10 @@
 [Category:美國唱片公司](https://zh.wikipedia.org/wiki/Category:美國唱片公司 "wikilink")
 
 1.  "Label Profile: Sumerian Records". *Alternative Press* \#263 (June 2010), p. 38.
-
 2.  "[VEIL OF MAYA Signs With SUMERIAN RECORDS](http://www.roadrunnerrecords.com/blabbermouth.net/news.aspx?mode=Article&newsitemID=88269) ", Blabbermouth.net, January 11, 2008, retrieved 2010-03-27
-
 3.  "[FELLSILENT Inks U.S. Deal With SUMERIAN RECORDS](http://www.roadrunnerrecords.com/blabbermouth.net/news.aspx?mode=Article&newsitemID=105951) ", Blabbermouth.net, October 1, 2008, retrieved 2010-03-27
-
 4.
 5.
-
 6.  <http://www.theprp.com/2011/02/08/news/the-faceless-re-sign-with-sumerian-new-album-in-the-works/>
-
 7.
-
 8.  <http://www.killyourstereo.com/news/9960/dead-letter-circus-sign-to-sumerian-records/>

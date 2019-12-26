@@ -72,25 +72,15 @@
 [Category:電腦硬體](https://zh.wikipedia.org/wiki/Category:電腦硬體 "wikilink") [Category:電腦與環境](https://zh.wikipedia.org/wiki/Category:電腦與環境 "wikilink") [Category:电源](https://zh.wikipedia.org/wiki/Category:电源 "wikilink") [Category:節約能源](https://zh.wikipedia.org/wiki/Category:節約能源 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13. {{ cite web | url = <http://www.silentpcreview.com/article806-page5.html> | title = Enermax Modu82+ 625 Power Supply Review | work = Silent PC Review}}

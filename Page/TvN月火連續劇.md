@@ -809,7 +809,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年8月26日－<br />
-2019年10月</p></td>
+2019年10月15日</p></td>
 <td style="text-align: center;"><p><a href="../Page/偉大的Show.md" title="wikilink">偉大的Show</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
@@ -819,14 +819,25 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年10月－<br />
-2019年8月</p></td>
+<td style="text-align: center;"><p>2019年10月21日－<br />
+2019年12月10日</p></td>
 <td style="text-align: center;"><p><a href="../Page/抓住幽靈.md" title="wikilink">抓住幽靈</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/文瑾瑩.md" title="wikilink">文瑾瑩</a>、<a href="../Page/金善浩.md" title="wikilink">金善浩</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/申允燮" title="wikilink">申允燮</a></p></td>
 <td style="text-align: center;"><p>蘇媛、李英珠</p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2019年12月16日－<br />
+2020年</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Black_Dog_(韓國電視劇)" title="wikilink">Black Dog</a><br />
+</p></td>
+<td style="text-align: center;"><p>16</p></td>
+<td style="text-align: center;"><p><a href="../Page/徐玄振.md" title="wikilink">徐玄振</a>、<a href="../Page/羅美蘭.md" title="wikilink">羅美蘭</a>、<a href="https://zh.wikipedia.org/wiki/河俊" title="wikilink">河俊</a></p></td>
+<td style="text-align: center;"><p>黃俊赫</p></td>
+<td style="text-align: center;"><p>朴珠妍</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

@@ -16,7 +16,5 @@
 [Category:長蛇座](https://zh.wikipedia.org/wiki/Category:長蛇座 "wikilink") [Category:米拉變星](https://zh.wikipedia.org/wiki/Category:米拉變星 "wikilink") [Category:紅巨星](https://zh.wikipedia.org/wiki/Category:紅巨星 "wikilink")
 
 1.  [SIMBAD](http://simbad.u-strasbg.fr/simbad/sim-id?Ident=R+Hya&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id)
-
 2.  [AAVSO](http://harmonia.aavso.org/cgi-bin/vsp.pl?chartid=1063bpw)
-
 3.

@@ -1,8 +1,8 @@
 **BTOB**（， <sup>*Bīto\~ūbī*</sup>），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，由[Cube娛樂](../Page/Cube娛樂.md "wikilink")於2012年成立。成員包括[徐恩光](../Page/徐恩光.md "wikilink")、[李旼赫](../Page/李旼赫.md "wikilink")、[李昌燮](../Page/李昌燮.md "wikilink")、[任炫植](../Page/任炫植.md "wikilink")、[Peniel](../Page/辛東根.md "wikilink")、[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")、[陸星材](../Page/陸星材.md "wikilink")。BTOB的名稱代表著「**Born To Beat**」，意思指「包含音樂抱負，希望和決心，為Beat而生」。以「Beat」的意思為節拍、伴奏、背景、衝擊，也分為「為新的音樂和舞台而生」和「用音樂給全世界聽眾帶來衝擊而生」兩個主題。\[1\]\[2\] 7名成員中擁有4名Vocalists及3名Rapper，均具有堅強的現場演唱實力以及創作能力。
 
-2012年3月21日，以首張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")《[Born To Beat](../Page/Born_to_Beat_\(BTOB迷你專輯\).md "wikilink")》於韓國正式出道，並於次日在[Mnet](../Page/Mnet.md "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》公開出道初舞台。2014年11月12日，以首張[日語單曲](https://zh.wikipedia.org/wiki/日語 "wikilink")《[WOW（JPN ver.）](../Page/WOW（JPN_ver.）.md "wikilink")》於日本正式出道。2016年9月19日，Vocalists成員恩光、昌燮、炫植、星材組成子團[BTOB－BLUE](../Page/BTOB－BLUE.md "wikilink")，以首張數位單曲《[留在我身邊](../Page/留在我身邊_\(BTOB－BLUE單曲\).md "wikilink")》正式出道。
+2012年3月21日，以首張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")《[Born To Beat](../Page/Born_to_Beat_\(BTOB迷你專輯\).md "wikilink")》於韓國正式出道，並於次日在[Mnet](../Page/Mnet.md "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》公開出道初舞台。2014年11月12日，以首張[日語單曲](https://zh.wikipedia.org/wiki/日語 "wikilink")《[WOW（JPN ver.）](../Page/WOW（JPN_ver.）.md "wikilink")》於日本正式出道。2016年9月19日，Vocalists成員恩光、昌燮、炫植、星材組成子團[BTOB－BLUE](../Page/BTOB－BLUE.md "wikilink")，以首張數位單曲〈[留在我身邊](../Page/留在我身邊_\(BTOB－BLUE單曲\).md "wikilink")〉正式出道。
 
-2015年6月29日，以抒情曲《[沒關係](../Page/Complete_\(BTOB專輯\).md "wikilink")》首次獲得各大音源榜一位。2015年10月21日，以《[回家的路](../Page/I_mean.md "wikilink")》於[MBC Music](../Page/MBC_Plus_Media.md "wikilink")《[Show Champion](../Page/Show_Champion.md "wikilink")》獲得出道3年7個月以來首個音樂放送一位 。2016年4月8日，以《[春天的記憶](../Page/Remember_That.md "wikilink")》在出道1,480天後於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》獲得無線電視臺初一位，打歌期間共榮獲「三冠王」 。2017年10月憑藉《[想念](../Page/Brother_Act._\(BTOB專輯\).md "wikilink")》榮獲音樂放送「七冠王」。自2015年起連續以「抒情三部曲」回歸展現歌唱與舞台實力，以逐年充實的音樂實力步入大眾市場，被稱作「大器晚成的偶像」。
+2015年6月29日，以抒情曲〈[沒關係](../Page/Complete_\(BTOB專輯\).md "wikilink")〉首次獲得各大音源榜一位。2015年10月21日，以〈[回家的路](../Page/I_mean.md "wikilink")〉於[MBC Music](../Page/MBC_Plus_Media.md "wikilink")《[Show Champion](../Page/Show_Champion.md "wikilink")》獲得出道3年7個月以來首個音樂放送一位 。2016年4月8日，以〈[春天的記憶](../Page/Remember_That.md "wikilink")〉在出道1,480天後於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》獲得無線電視臺初一位，打歌期間共榮獲「三冠王」 。2017年10月憑藉〈[想念](../Page/Brother_Act._\(BTOB專輯\).md "wikilink")〉榮獲音樂放送「七冠王」。自2015年起連續以「抒情三部曲」回歸展現歌唱與舞台實力，以逐年充實的音樂實力步入大眾市場，被稱作「大器晚成的偶像」。
 
 2018年8月13日，BTOB於V Live中以轉盤選拔代理隊長、新主舞與新忙內，最終結果為旼赫當選第二代隊長、Peniel當選新一代主舞、星材當選新一代絕對忙內，於2018年8月21日隊長恩光入伍後生效。\[3\] 2019年3月21日，再次於七週年V Live中以轉盤選出隊內擔當，鎰勳當選Ace擔當、Peniel連任主舞擔當、星材因三度當選忙內擔當因此自動升格為第三代隊長。\[4\]\[5\]
 
@@ -46,9 +46,11 @@
 
 ## 歷程
 
-### 2012年：出道前
+### 2009－2012年：出道前
 
-[恩光](../Page/徐恩光.md "wikilink")、[旼赫](../Page/李旼赫.md "wikilink")、[炫植](../Page/任炫植.md "wikilink")、[鎰勳和](../Page/鄭鎰勳.md "wikilink")[旻優有份參與](https://zh.wikipedia.org/wiki/T.K "wikilink")[JTBC](../Page/JTBC.md "wikilink")[情境喜劇](https://zh.wikipedia.org/wiki/情境喜劇 "wikilink")《[住在清潭洞](../Page/住在清潭洞.md "wikilink")》演出，亦曾以歌曲《奪走那雙唇（그 입술을 뺏었어）》及名稱「清潭不敗（Invincible Cheongdam）」在劇中音樂節目作虛擬出道舞臺，此五位是率先通過戲劇公開的成員。BTOB出道前，CUBE公司宣布旻優因健康理由退出，之後以六人男團[C-CLOWN](../Page/C-CLOWN.md "wikilink")成員（T.K）出道。其後，公開[昌燮](../Page/李昌燮.md "wikilink")、[Peniel及](../Page/辛東根.md "wikilink")[星材三位成員](../Page/陸星材.md "wikilink")。\[24\]
+2009年，Cube娛樂舉行「CUBE Band Project」徵選，選入許多具有歌唱及樂器演奏實力的成員並加以培訓。後計畫[恩光](../Page/徐恩光.md "wikilink")、[昌燮](../Page/李昌燮.md "wikilink")、[炫植](../Page/任炫植.md "wikilink")、[鎰勳和](../Page/鄭鎰勳.md "wikilink")[星材等五人以樂團形式出道](../Page/陸星材.md "wikilink")，但最終因考慮外在市場的變化而取消。\[24\]
+
+2012年，恩光、[旼赫](../Page/李旼赫.md "wikilink")、炫植、鎰勳和[旻優有份參與](https://zh.wikipedia.org/wiki/T.K "wikilink")[JTBC](../Page/JTBC.md "wikilink")[情境喜劇](https://zh.wikipedia.org/wiki/情境喜劇 "wikilink")《[住在清潭洞](../Page/住在清潭洞.md "wikilink")》演出，亦曾以歌曲《奪走那雙唇（그 입술을 뺏었어）》及名稱「清潭不敗（Invincible Cheongdam）」在劇中音樂節目作虛擬出道舞臺，此五位是率先通過戲劇公開的成員。BTOB出道前，CUBE公司宣布旻優因健康理由退出，之後以六人男團[C-CLOWN](../Page/C-CLOWN.md "wikilink")成員（T.K）出道。其後，公開昌燮、[Peniel及星材三位成員](../Page/辛東根.md "wikilink")。
 
 ### 2012年：正式出道
 
@@ -202,11 +204,11 @@
 
 2019年7月31日，Peniel發行第二張個人數位單曲《FLY23》，由KAIROS作曲製作、Peniel參與填詞。\[158\]\[159\] 同年8月27日，Peniel發表第三張個人數位單曲《Flip》，由饒舌歌手參與Featuring，該曲由KAIROS作曲填詞製作、Peniel與Beenzino參與Rap填詞。\[160\]\[161\]
 
-2019年10月14日，炫植正式發行首張個人韓語迷你專輯《RENDEZ-VOUS》，並參與主打曲的作曲填詞，是第四位於韓國個人出道的成員。\[162\]
+2019年10月14日，炫植正式發行首張個人韓語迷你專輯《[RENDEZ-VOUS](https://zh.wikipedia.org/wiki/RENDEZ-VOUS_\(專輯\) "wikilink")》，並參與全專輯的作曲填詞編曲創作，是第四位於韓國個人出道的成員。\[162\]\[163\]
 
 ### 2020年
 
-2020年3月，星材主演的[JTBC](../Page/JTBC.md "wikilink")電視劇《[雙室小吃攤](../Page/雙室小吃攤.md "wikilink")》播出，飾演甲乙超市顧客諮詢室職員韓江裴。該劇是他繼2016年電視劇《鬼怪》後，睽違三年多再度回歸小螢幕。\[163\]
+2020年3月，星材主演的[JTBC](../Page/JTBC.md "wikilink")電視劇《[雙室小吃攤](../Page/雙室小吃攤.md "wikilink")》播出，飾演甲乙超市顧客諮詢室職員韓江裴。該劇是他繼2016年電視劇《鬼怪》後，睽違三年多再度回歸小螢幕。\[164\]
 
 ## 音樂作品
 
@@ -332,7 +334,7 @@ BTOB 出道至今參與許多綜藝，在節目中展現搞笑本能及過人獨
 
 ## 獎項
 
-2013年1月15日，BTOB於第27屆韓國[金唱片獎獲得](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")「Next Generation獎」。 2016年1月14日，於第30屆韓國金唱片獎獲得「唱片部門最佳歌唱獎（Best Vocal Group）」。2016年1月21日，於第25屆[首爾歌謠大賞獲得](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")「最佳抒情歌曲獎（R\&B／Balled）」。 2017年11月3日，於[韓國大眾文化藝術獎](../Page/韓國大眾文化藝術獎.md "wikilink")獲得「文化體育觀光部長官表彰」殊榮 \[164\]。 2018年1月10日，於第32屆韓國金唱片獎獲得「音源部門最佳男子團體獎（Best Male Group）」。 2018年1月25日，於第27屆首爾歌謠大賞獲得「本賞」。 2018年12月1日，於[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")首次獲得「TOP10」。\[165\] 2018年12月10日，於第1屆[韓國大眾音樂獎](../Page/韓國大眾音樂獎.md "wikilink")獲得「本賞」及「Ballad獎」。
+2013年1月15日，BTOB於第27屆韓國[金唱片獎獲得](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")「Next Generation獎」。 2016年1月14日，於第30屆韓國金唱片獎獲得「唱片部門最佳歌唱獎（Best Vocal Group）」。2016年1月21日，於第25屆[首爾歌謠大賞獲得](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")「最佳抒情歌曲獎（R\&B／Balled）」。 2017年11月3日，於[韓國大眾文化藝術獎](../Page/韓國大眾文化藝術獎.md "wikilink")獲得「文化體育觀光部長官表彰」殊榮 \[165\]。 2018年1月10日，於第32屆韓國金唱片獎獲得「音源部門最佳男子團體獎（Best Male Group）」。 2018年1月25日，於第27屆首爾歌謠大賞獲得「本賞」。 2018年12月1日，於[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")首次獲得「TOP10」。\[166\] 2018年12月10日，於第1屆[韓國大眾音樂獎](../Page/韓國大眾音樂獎.md "wikilink")獲得「本賞」及「Ballad獎」。
 
 ### 主要音樂節目榜單排名
 
@@ -522,19 +524,19 @@ BTOB 出道至今參與許多綜藝，在節目中展現搞笑本能及過人獨
 27.
 28. 韓國的父親節與母親節一起慶祝，合稱父母節。
 29.
-30. [BTOB 公開回歸預告照](http://kpopn.com/2012/09/04/141829/)Kpopn 2012-09-04
-31. [BTOB ─ WOW MV 預告](http://kpopn.com/2012/09/07/142381/)Kpopn 2012-09-07
-32. [BTOB “WOW" MV 公開](http://kpopn.com/2012/09/12/143090/)Kpopn 2012-09-12
+30. [BTOB 公開回歸預告照](http://kpopn.com/2012/09/04/141829/) Kpopn 2012-09-04
+31. [BTOB ─ WOW MV 預告](http://kpopn.com/2012/09/07/142381/) Kpopn 2012-09-07
+32. [BTOB “WOW" MV 公開](http://kpopn.com/2012/09/12/143090/) Kpopn 2012-09-12
 33.
 34.
 35.
-36. [BTOB【第二次告白】預告](http://kpopn.com/2013/04/09/172266/)Kpopn 2013-04-09
-37. [BTOB《第二次告白》MV](http://kpopn.com/2013/04/11/172511/)Kpopn 2013-04-11
+36. [BTOB【第二次告白】預告](http://kpopn.com/2013/04/09/172266/) Kpopn 2013-04-09
+37. [BTOB《第二次告白》MV](http://kpopn.com/2013/04/11/172511/) Kpopn 2013-04-11
 38.
 39.
-40. [BTOB 當我是你男人時 MV](http://kpopn.com/2013/08/29/190212/)Kpopn 2012-08-29
+40. [BTOB 當我是你男人時 MV](http://kpopn.com/2013/08/29/190212/) Kpopn 2012-08-29
 41.
-42. [BTOB 新曲 "WHY" 試聽](http://kpopn.com/2013/08/29/190269/)Kpopn 2013-08-29
+42. [BTOB 新曲 "WHY" 試聽](http://kpopn.com/2013/08/29/190269/) Kpopn 2013-08-29
 43.
 44.
 45.
@@ -656,5 +658,6 @@ BTOB 出道至今參與許多綜藝，在節目中展現搞笑本能及過人獨
 161.
 162.
 163.
-164. [EXO、BTOB、朴寶劍等出席《大眾文化藝術賞》，得獎名單公開](https://www.kpopn.com/2017/11/04/exo%e3%80%81btob%e3%80%81%e6%9c%b4%e5%af%b6%e5%8a%8d%e7%ad%89%e5%87%ba%e5%b8%ad%e3%80%8a%e5%a4%a7%e7%9c%be%e6%96%87%e5%8c%96%e8%97%9d%e8%a1%93%e8%b3%9e%e3%80%8b%ef%bc%8c%e5%be%97%e7%8d%8e%e5%90%8d%e5%96%ae%e5%85%ac%e9%96%8b/)  2017-11-07 KPOPN
-165. [MMA／BTOB「把恩光寫在臉上」走紅毯　C位留給隊長逼哭粉](https://star.ettoday.net/news/1320700) 2018-12-02 ETtoday
+164.
+165. [EXO、BTOB、朴寶劍等出席《大眾文化藝術賞》，得獎名單公開](https://www.kpopn.com/2017/11/04/exo%e3%80%81btob%e3%80%81%e6%9c%b4%e5%af%b6%e5%8a%8d%e7%ad%89%e5%87%ba%e5%b8%ad%e3%80%8a%e5%a4%a7%e7%9c%be%e6%96%87%e5%8c%96%e8%97%9d%e8%a1%93%e8%b3%9e%e3%80%8b%ef%bc%8c%e5%be%97%e7%8d%8e%e5%90%8d%e5%96%ae%e5%85%ac%e9%96%8b/)  2017-11-07 KPOPN
+166. [MMA／BTOB「把恩光寫在臉上」走紅毯　C位留給隊長逼哭粉](https://star.ettoday.net/news/1320700) 2018-12-02 ETtoday

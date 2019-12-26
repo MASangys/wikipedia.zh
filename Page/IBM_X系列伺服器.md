@@ -13,6 +13,6 @@
   - [IBM's server homepage](http://www.ibm.com/servers/)
   - [The Price of Safety: Evaluating IOMMU Performance](http://www.kernel.org/doc/ols/2007/ols2007v1-pages-9-20.pdf) (mentions the Calgary IOMMU which is featured in eSeries AMD Opteron systems.
   - [IBM's System x configurator and system builder](http://www.presalesadvisor.net/)
-  - [System x Redbooks](http://www.redbooks.ibm.com/portals/systemx)
+  - [System x Redbooks](https://web.archive.org/web/20120725072913/http://www.redbooks.ibm.com/portals/systemx/)
 
 [分類:IBM產品](https://zh.wikipedia.org/wiki/分類:IBM產品 "wikilink")

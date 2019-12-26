@@ -12,8 +12,6 @@
 [Category:亞馬遜公司](https://zh.wikipedia.org/wiki/Category:亞馬遜公司 "wikilink") [Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink")
 
 1.  [Kindle Format 8](http://www.amazon.com/gp/feature.html?docId=1000729511), Amazon.com, October 2011.
-
 2.  ["Amazon Throws A Minor Curveball With HTML5-Powered Kindle Format 8"](http://techcrunch.com/2011/10/20/amazon-throws-a-minor-curveball-with-html5-kindle-8-format/), TechCrunch, Oct 20, 2011.
-
 3.
 4.

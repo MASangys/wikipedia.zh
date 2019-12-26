@@ -23,7 +23,7 @@ Aria于2010年6月20日发布，最早发布的运营商是美国的[AT\&T](../P
   - <http://mobilesmug.com/news/2-software/428-htc-aria-software-update-and-its-not-froyo>
   - <http://www.laptopmag.com/review/cell-phones/htc-aria.aspx>
   - <https://web.archive.org/web/20111107082546/http://www.htcphones.net/htc-aria-review-att-the-world-in-your-pocket/>
-  - <http://www.intomobile.com/2010/07/15/side-loading-android-apps-on-att-htc-aria-is-a-no-go-again/>
+  - <https://web.archive.org/web/20111202154514/http://www.intomobile.com/2010/07/15/side-loading-android-apps-on-att-htc-aria-is-a-no-go-again/>
   - <https://web.archive.org/web/20110727181252/http://nexus404.com/Blog/2010/07/15/htc-removes-sync-app-for-htc-aria-htc-takes-down-backup-pc-app-that-allowed-users-to-sneak-around-atts-application-restrictions/>
   - <https://web.archive.org/web/20110712230205/http://www.htcariaforum.com/htc-aria-discussion/my-aria-echoes-when-i-talk-over-the-phone>\!\!/
   - <http://www.engadget.com/2010/07/11/confirmed-htc-sync-lets-atandt-aria-sideload-apps/>
@@ -31,5 +31,4 @@ Aria于2010年6月20日发布，最早发布的运营商是美国的[AT\&T](../P
 [Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
 
 1.  <http://www.soyacincau.com/2010/08/18/htc-aria-introduced-in-malaysia-coming-to-digi/>
-
 2.

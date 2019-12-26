@@ -13,11 +13,8 @@ OGLE-TR-122b的半径大约为0.12[太阳半径](../Page/太阳半径.md "wikili
 
 1.
 2.  \[<http://adsabs.harvard.edu/abs/2005A&A>...433L..21P A planet-sized transiting star around OGLE-TR-122. Accurate mass and radius near the hydrogen-burning limit\], F. Pont, C. H. F. Melo, F. Bouchy, S. Udry, D. Queloz, M. Mayor, and N. C. Santos, *Astronomy and Astrophysics* **433**, \#2 (April 11, 2005), pp. L21–L24.
-
 3.
 4.
 5.  [Newfound Star Smaller than Some Planets](http://www.space.com/scienceastronomy/050303_star_small.html), Robert Roy Britt, space.com, accessed on line May 16, 2007.
-
 6.  \[<http://adsabs.harvard.edu/abs/2000ARA&A>..38..337C Theory of Low-Mass Stars and Substellar Objects\], Gilles Chabrier and Isabelle Baraffe, *Annual Review of Astronomy and Astrophysics* **38** (2000), pp. 337–377.
-
 7.

@@ -1134,7 +1134,7 @@
 ## 外部連結
 
   -
-  - [*The X Factor*](http://www.hulu.com/the-x-factor/) on [Hulu](../Page/Hulu.md "wikilink")
+  - [*The X Factor*](https://web.archive.org/web/20111226190812/http://www.hulu.com/the-x-factor) on [Hulu](../Page/Hulu.md "wikilink")
 
   -
   -
@@ -1144,176 +1144,97 @@
 [Category:X音素](https://zh.wikipedia.org/wiki/Category:X音素 "wikilink")
 
 1.  <http://www.billboard.com/#/news/x-factor-has-glitzy-premiere-complete-with-1005354392.story>
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14. McGonigle, Molly. (March 25, 2011) [Simon Cowell on 'Idol': 'I watched it once' | Story | Wonderwall](http://wonderwall.msn.com/tv/simon-cowell-on-idol-i-would-have-gone-earlier-1611114.story) . Wonderwall.msn.com. Retrieved on May 6, 2011.
-
 15. [Cowell may prefer having two hosts for 'X Factor' – CTV News](http://www.ctv.ca/CTVNews/Entertainment/20110325/simon-cowell-could-hire-two-hosts-for-us-x-factor-110325/). Ctv.ca. Retrieved on May 6, 2011.
-
 16. Hibberd, James. (April 28, 2011) ['The X Factor': Corbin Bleu in talks to co-host | Inside TV | EW.com](http://insidetv.ew.com/2011/04/28/corbin-bleu-nicole-scherzinger-in-talks-to-host-x-factor/). Insidetv.ew.com. Retrieved on May 6, 2011.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
 32.
 33.
-
 34.
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43. <http://www.digitalspy.co.uk/ustv/s141/the-x-factor-us/news/a351539/the-x-factor-usa-result-third-top-12-act-eliminated.html>
-
 44. <http://www.digitalspy.co.uk/ustv/s141/the-x-factor-us/news/a352642/x-factor-usa-result-fourth-fifth-top-12-acts-eliminated.html>
-
 45. <http://www.digitalspy.co.uk/ustv/s141/the-x-factor-us/news/a354019/the-x-factor-usa-result-sixth-seventh-acts-eliminated.html>
-
 46. <http://www.digitalspy.co.uk/ustv/s141/the-x-factor-us/news/a355137/x-factor-usa-result-eighth-act-eliminated-semi-finalists-confirmed.html>
-
 47. <http://www.digitalspy.co.uk/ustv/s141/the-x-factor-us/news/a356280/x-factor-usa-result-finalists-revealed-as-ninth-act-eliminated.html>
-
 48.
-
 49.
-
 50.
 51.
 52.
-
 53.
-
 54.
 55.
 56.
 57.
-
 58.
 59.
 60.
-
 61.
 62.
 63.
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.
-
 78.
-
 79.
-
 80.
-
 81.
-
 82.
-
 83.
-
 84.
-
 85.
-
 86.
-
 87.
-
 88.
-
 89.
-
 90.
-
 91.
-
 92.
-
 93.
-
 94.
-
 95.

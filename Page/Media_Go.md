@@ -180,32 +180,19 @@ Sony于2017年10月10日宣布将停止对Media Go的后续更新与维护\[17\]
 [Category:索尼](https://zh.wikipedia.org/wiki/Category:索尼 "wikilink") [Category:PlayStation_Portable](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable "wikilink") [Category:媒体播放器](https://zh.wikipedia.org/wiki/Category:媒体播放器 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
 14.
-
 15.
-
 16.
-
 17.

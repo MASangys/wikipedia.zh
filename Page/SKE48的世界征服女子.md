@@ -217,11 +217,10 @@
 
 ## 外部連結
 
-  - [SKE48の世界征服女子](http://www.ctv.co.jp/ssj/)
+  - [SKE48の世界征服女子](https://web.archive.org/web/20111007003315/http://www.ctv.co.jp/ssj/)
 
 [Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:日本電視綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視綜藝節目 "wikilink") [Category:2011年日本電視節目](https://zh.wikipedia.org/wiki/Category:2011年日本電視節目 "wikilink") [Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
 
 1.  「史上最小アメリカ冗談ウルトラクイズ\!」を開催。アメリカ代表として[マイケル富岡が出演](https://zh.wikipedia.org/wiki/マイケル富岡 "wikilink")。
-
 2.
 3.  「Ten Gooooood\!」に参戦。

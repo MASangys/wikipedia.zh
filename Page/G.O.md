@@ -934,9 +934,9 @@ Luna、G.NA、IU、奎利、G.O、MIN、栽經、<br />
 12. [鄭丙熙。](http://flotheay.blog.fc2.com/blog-entry-5.html)，fc2。2013年6月22日。
 13. [Epik High VS MBLAQ - 에픽하이 VS 엠블랙, KMF 2012](https://www.youtube.com/watch?v=lVQKNFEbL1w)，youtube。2013年1月2日。。
 14. [韓男團MBLAQ成員G.O確定出演韓劇《幽靈》(圖)](http://big5.china.com.cn/info/movies/2012-04/27/content_25257922.htm) ，新浪娛樂。2012年4月27日。
-15. [G.O 加入戲劇「幽靈」](http://kpopn.com/2012/04/27/119773/)，sportschosun ，太咪-kpopn。2012年4月27日。
-16. [一絲的純情](http://kpopn.com/2013/03/02/166625/)，百度 ，綺-kpopn。 2013年3月2日。
-17. [G.O、佑麗將合作演出戲劇](http://kpopn.com/2013/04/16/173256/)，allkpop ，CHI-kpopn。 2013年4月16日。
+15. [G.O 加入戲劇「幽靈」](http://kpopn.com/2012/04/27/119773/) ，sportschosun ，太咪-kpopn。2012年4月27日。
+16. [一絲的純情](http://kpopn.com/2013/03/02/166625/) ，百度 ，綺-kpopn。 2013年3月2日。
+17. [G.O、佑麗將合作演出戲劇](http://kpopn.com/2013/04/16/173256/) ，allkpop ，CHI-kpopn。 2013年4月16日。
 18.  [西便制 音樂劇官網](http://www.musicalspj.com/) ，musicalspj。2014年3月20日。
 19.  [MBLAQ's G.O cast in his third musical 'The Kingdom of the Winds'](http://www.allkpop.com/article/2014/04/mblaqs-go-cast-in-his-third-musical-the-kingdom-of-the-winds)，allkpop。2014年4月17日。
 20. [MBLAQ G.O - If ain't got you ( Live).avi](https://www.youtube.com/watch?v=QyWFJmsd-GI)，youtube。2013年12月3日。

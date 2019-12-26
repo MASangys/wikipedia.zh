@@ -57,13 +57,10 @@ A·S·拜厄特和伊恩·查尔斯·雷纳·拜厄特在1959年结婚，并有�
 [Category:1936年出生](https://zh.wikipedia.org/wiki/Category:1936年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:布克奖获奖者](https://zh.wikipedia.org/wiki/Category:布克奖获奖者 "wikilink") [Category:DBE勳銜](https://zh.wikipedia.org/wiki/Category:DBE勳銜 "wikilink") [Category:剑桥大学纽纳姆学院校友](https://zh.wikipedia.org/wiki/Category:剑桥大学纽纳姆学院校友 "wikilink") [Category:布林莫爾學院校友](https://zh.wikipedia.org/wiki/Category:布林莫爾學院校友 "wikilink") [Category:伊拉斯谟奖得主](https://zh.wikipedia.org/wiki/Category:伊拉斯谟奖得主 "wikilink") [Category:詹姆斯·泰特·布莱克纪念奖获得者](https://zh.wikipedia.org/wiki/Category:詹姆斯·泰特·布莱克纪念奖获得者 "wikilink") [Category:欧·亨利奖获得者](https://zh.wikipedia.org/wiki/Category:欧·亨利奖获得者 "wikilink") [Category:牛津大学萨默维尔学院校友](https://zh.wikipedia.org/wiki/Category:牛津大学萨默维尔学院校友 "wikilink")
 
 1.  [The 50 greatest British writers since 1945](http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/article3127837.ece). 5 January 2008. *[The Times](https://zh.wikipedia.org/wiki/The_Times "wikilink")*. Retrieved on 2010-02-19.
-
 2.
 3.
 4.  [Sir Ian Byatt biog](http://www.watercommission.co.uk/view_Sir_Ian_Byatt.aspx)
-
 5.  [Contemporary Authors](http://www.contemporarywriters.com/authors/?p=auth20)  website.
-
 6.
 7.
 8.
@@ -74,5 +71,4 @@ A·S·拜厄特和伊恩·查尔斯·雷纳·拜厄特在1959年结婚，并有�
 13.
 14.
 15. ["Writing in terms of pleasure" 25 April 2009 *The Guardian*](http://www.guardian.co.uk/books/2009/apr/25/as-byatt-interview). Accessed 2010-09-11.
-
 16. [Why Margaret Drabble is not A.S. Byatts cup of tea.](http://www.telegraph.co.uk/news/newstopics/mandrake/5062259/Why-Margaret-Drabble-is-not-A-S-Byatts-cup-of-tea.html) Daily Telegraph, retrieved 22nd September 2011.

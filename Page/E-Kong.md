@@ -14,7 +14,7 @@
   - [RMIGroupAsia.com](http://www.rmigroupasia.com)
   - [ZoneTelecom.com](http://www.zonetelecom.com)
   - [ZoneTel.com](http://www.zonetel.com)
-  - [ZONE1511.com.sg](http://www.ZONE1511.com.sg)
+  - [ZONE1511.com.sg](https://web.archive.org/web/20190404121350/http://www.zone1511.com.sg/)
 
 [Category:香港電訊公司](https://zh.wikipedia.org/wiki/Category:香港電訊公司 "wikilink") [Category:1999年成立的公司](https://zh.wikipedia.org/wiki/Category:1999年成立的公司 "wikilink")
 

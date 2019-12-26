@@ -205,8 +205,6 @@ QUEEN OF LIVE 倖田來未！這11年間名曲・大賣曲等歷史的見證！ 
 [Category:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/Category:倖田來未音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:2012年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.
-
 2.
 3.
-
 4.

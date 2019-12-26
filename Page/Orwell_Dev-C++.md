@@ -38,7 +38,7 @@
 
   - [Orwell Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)
 
-  - [Orwell Dev-C++ Blog](http://orwelldevcpp.blogspot.com/)
+  - [Orwell Dev-C++ Blog](https://web.archive.org/web/20150209172858/http://orwelldevcpp.blogspot.com/)
 
 [Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink") [Category:集成开发环境](https://zh.wikipedia.org/wiki/Category:集成开发环境 "wikilink")
 

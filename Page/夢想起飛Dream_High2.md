@@ -214,7 +214,7 @@
 
 [Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:演藝界題材電視劇](https://zh.wikipedia.org/wiki/Category:演藝界題材電視劇 "wikilink") [Category:藝術學校背景作品](https://zh.wikipedia.org/wiki/Category:藝術學校背景作品 "wikilink") [Category:歌舞電視劇](https://zh.wikipedia.org/wiki/Category:歌舞電視劇 "wikilink") [Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink") [Category:韓國偶像劇](https://zh.wikipedia.org/wiki/Category:韓國偶像劇 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
 
-1.  [朴振英將出演 -{Dream High 2}-](http://kpopn.com/2011/11/26/93859/)
+1.
 2.  [嘉熙《-{Dream High 2}-》確定出演，變身演員會成功嗎？](http://www.yinyuetai.com/fanclub/topic-detail/100990)
 3.  [姜素拉-珍雲-孝琳-芝妍，“Dream High 2”主演確定](http://kpoppark.com/201112/0610275029392.html)
 4.  [姜素拉-珍雲-芝妍-孝琳,聯手打造\< -{DREAM HIGH2}- \>](http://www.facebook.com/#!/notes/k-pop-%E6%B5%81%E8%A1%8C%E9%9F%93%E8%AA%9E%E9%9F%B3%E6%A8%82/%E5%A7%9C%E7%B4%A0%E6%8B%89-%E9%8E%AE%E9%9B%B2-%E6%99%BA%E5%A6%8D-%E5%AD%9D%E7%90%B3%E8%81%AF%E6%89%8B%E6%89%93%E9%80%A0-dream-high2-/314859531871657)

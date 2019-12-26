@@ -60,8 +60,6 @@
 
 [Category:金賢重歌曲](https://zh.wikipedia.org/wiki/Category:金賢重歌曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
 
-1.  [1](http://hyun-joong.com/bbs/view.asp?idx=29030&code=press&searchopt=&searchkey=&category=&page=2)
-
+1.
 2.
-
 3.

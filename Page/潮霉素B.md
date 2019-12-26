@@ -22,12 +22,6 @@ hygromycin.net上的信息（[InvivoGen](https://zh.wikipedia.org/wiki/InvivoGen
 
 ## 参考
 
-<div class="references-small" >
-
-<references/>
-
-</div>
-
 [Category:氨基糖苷类抗生素](https://zh.wikipedia.org/wiki/Category:氨基糖苷类抗生素 "wikilink")
 
 1.  {{ citation | title=Hygromycin I. Preliminary studies on the production and biological activity of a new antibiotic. | journal=Antibiot. Chemother. | first=Pettinger | last=McGuire | volume=3 | pages=1268–1278 | year= 1953 }}

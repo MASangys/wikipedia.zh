@@ -123,11 +123,8 @@
 
 1.
 2.  [JP Rifles](http://www.jprifles.com/1.2.5_LRP07.php)
-
 3.
 4.  [Magpul—PRS® - Precision Rifle/Sniper - PRS® Precision-Adjustable Stock – AR10/SR25 (7.62x51) Model](http://store.magpul.com/product/MAG308/84)
-
 5.
-
 6.
 7.

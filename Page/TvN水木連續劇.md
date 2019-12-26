@@ -352,24 +352,63 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年9月25日－<br />
-2019年</p></td>
+2019年11月14日</p></td>
 <td style="text-align: center;"><p><a href="../Page/清日電子李小姐.md" title="wikilink">清日電子李小姐</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="../Page/惠利.md" title="wikilink">惠利</a>、<a href="../Page/嚴賢璟.md" title="wikilink">嚴賢璟</a>、<a href="https://zh.wikipedia.org/wiki/李昌燁" title="wikilink">李昌燁</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/惠利.md" title="wikilink">惠利</a>、<a href="https://zh.wikipedia.org/wiki/金相慶" title="wikilink">金相慶</a>、<a href="../Page/嚴賢璟.md" title="wikilink">嚴賢璟</a>、<a href="https://zh.wikipedia.org/wiki/車瑞元" title="wikilink">車瑞元</a></p></td>
 <td style="text-align: center;"><p>韓東和</p></td>
 <td style="text-align: center;"><p>朴正華</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年11月－<br />
-2019年</p></td>
+<td style="text-align: center;"><p>2019年11月20日－<br />
+2020年1月9日</p></td>
 <td style="text-align: center;"><p><a href="../Page/精神病患者日記.md" title="wikilink">精神病患者日記</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="../Page/尹施允.md" title="wikilink">尹施允</a>、<a href="https://zh.wikipedia.org/wiki/鄭吝善" title="wikilink">鄭吝善</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/尹施允.md" title="wikilink">尹施允</a>、<a href="https://zh.wikipedia.org/wiki/鄭吝善" title="wikilink">鄭吝善</a>、<a href="../Page/朴成勳.md" title="wikilink">朴成勳</a></p></td>
 <td style="text-align: center;"><p>李忠載</p></td>
-<td style="text-align: center;"><p>劉勇在</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/劉勇在" title="wikilink">劉勇在</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
+### 2020年
+
+<table style="width:326%;">
+<colgroup>
+<col style="width: 60%" />
+<col style="width: 17%" />
+<col style="width: 50%" />
+<col style="width: 24%" />
+<col style="width: 90%" />
+<col style="width: 70%" />
+<col style="width: 15%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><p>播放<br />
+日期</p></th>
+<th style="text-align: center;"><p>電視劇集名稱</p></th>
+<th style="text-align: center;"><p>集數</p></th>
+<th style="text-align: center;"><p>主演</p></th>
+<th style="text-align: center;"><p>导演</p></th>
+<th style="text-align: center;"><p>编剧</p></th>
+<th style="text-align: center;"><p>備注</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p>2020年1月15日－<br />
+2020年3月</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Money_Game" title="wikilink">Money Game</a><br />
+</p></td>
+<td style="text-align: center;"><p>16</p></td>
+<td style="text-align: center;"><p><a href="../Page/高洙.md" title="wikilink">高洙</a>、<a href="../Page/李聖旻.md" title="wikilink">李聖旻</a>、<a href="../Page/沈恩敬.md" title="wikilink">沈恩敬</a>、<a href="../Page/劉太旿.md" title="wikilink">劉太旿</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金尚昊.md" title="wikilink">金尚昊</a></p></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

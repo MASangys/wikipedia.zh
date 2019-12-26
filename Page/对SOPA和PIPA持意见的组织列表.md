@@ -295,44 +295,29 @@
 [Category:美国联邦立法提案](https://zh.wikipedia.org/wiki/Category:美国联邦立法提案 "wikilink") [Category:互聯網訪問](https://zh.wikipedia.org/wiki/Category:互聯網訪問 "wikilink") [Category:域名](https://zh.wikipedia.org/wiki/Category:域名 "wikilink") [Category:动态列表](https://zh.wikipedia.org/wiki/Category:动态列表 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.  註：此公司為娛樂軟件協會（Entertainment Software Association）的成員之一，但該協會仍支持SOPA法案。
-
 7.
-
 8.
 9.
 10.
 11.
 12.
-
 13.
-
 14.  about \> SOPA | publisher=[Craigslist](https://zh.wikipedia.org/wiki/Craigslist "wikilink") | accessdate=2012-01-25 | language=en | deadurl=yes | archiveurl=<https://web.archive.org/web/20120124001119/http://www.craigslist.org/about/SOPA> | archivedate=2012-01-24 }}
-
 15.
 16.
 17.
-
 18.
 19.
-
 20.
-
 21.
 22.
 23.
 24.
-
 25.
-
 26.
-
 27.

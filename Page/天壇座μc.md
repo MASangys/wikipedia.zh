@@ -26,13 +26,9 @@
 [Category:天坛座](https://zh.wikipedia.org/wiki/Category:天坛座 "wikilink") [Category:超级地球](https://zh.wikipedia.org/wiki/Category:超级地球 "wikilink") [Category:2004年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2004年发现的系外行星 "wikilink") [Category:熱海王星](https://zh.wikipedia.org/wiki/Category:熱海王星 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.   The 0.09 AU sub-Jup is there called "HD160691d",
-
 6.
 7.

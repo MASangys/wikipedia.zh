@@ -21,9 +21,6 @@
 [Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink") [Category:2007年软件](https://zh.wikipedia.org/wiki/Category:2007年软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

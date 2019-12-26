@@ -47,9 +47,7 @@
 [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:中島美嘉歌曲](https://zh.wikipedia.org/wiki/Category:中島美嘉歌曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.

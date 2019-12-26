@@ -107,22 +107,14 @@
 1.
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.  ["G-Music風雲榜（東洋榜）"](http://www.g-music.com.tw/GMusicBillboard3.aspx)  此連結只顯示本週成績，請在頁面搜尋2012年第9週之東洋榜榜單成績
-
 10. ["G-Music風雲榜（綜合榜）"](http://www.g-music.com.tw/GMusicBillboard0.aspx)  此連結只顯示本週成績，請在頁面搜尋20112年第9週之綜合榜榜單成績
-
 11. <http://www.5music.com.tw/CDTop.asp?top=2&pWeek=201210&sclass=> 五大唱片2012年日韓榜第十週榜單
-
 12.
 13.
-
 14. ["*2012 Hit Fm年度百首單曲*- 2012年 (\#1至50)"](http://www.hitoradio.com/newweb/chart_2.php?ch_year=2012) *HitFM聯播網*. 2013年1月13日 (日) 15:05 (UTC+8)查閱

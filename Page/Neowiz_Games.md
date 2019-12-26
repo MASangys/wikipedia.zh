@@ -11,7 +11,7 @@ Neowiz Games擁有兩個內部開發工作室，[Neowiz Games Studio和](https:/
 
 ### 第一人稱射擊遊戲及第三人稱射擊遊戲
 
-  - [AVA Online](../Page/戰地之王.md "wikilink")，開發者：RedDuck，類型：第一人稱射擊。
+  - [AVA 戰地之王](../Page/戰地之王.md "wikilink")，開發者：RedDuck，類型：第一人稱射擊。
   - [穿越火線](https://zh.wikipedia.org/wiki/穿越火線 "wikilink")，開發者：Smilegate，類型：第一人稱射擊。
   - [S4 超特攻聯盟](https://zh.wikipedia.org/wiki/S4_超特攻聯盟 "wikilink")，開發者：Pentavision，類型：第三人稱射擊。
   - [戰地風雲Online](../Page/戰地風雲Online.md "wikilink")，開發者：Neowiz Games、EA Digital Illusion CE，類型：第一人稱射擊。

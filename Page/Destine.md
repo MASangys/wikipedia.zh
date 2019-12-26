@@ -102,20 +102,13 @@
 [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:另類搖滾樂團](https://zh.wikipedia.org/wiki/Category:另類搖滾樂團 "wikilink")
 
 1.  [IN THE END](https://web.archive.org/web/20160305025652/http://www.destinemusic.com/)
-
 2.  [Destine - Band](http://www.destinemusic.com/band/)
-
 3.
 4.
 5.
-
 6.  [DutchCharts](http://www.dutchcharts.nl/showitem.asp?interpret=Destine&titel=Lightspeed&cat=a)
-
 7.  [DVD ‘FOOTPRINTS: A YEAR IN THE LIFE’](http://www.destinemusic.com/tour/dvd-footprints-a-year-in-the-life/)
-
 8.  [DESTINE ANNOUNCES NEW ALBUM ‘ILLUMINATE’](http://www.destinemusic.com/releases/destine-announces-new-album-illuminate/)
-
 9.  [DutchCharts](http://www.dutchcharts.nl/showitem.asp?interpret=Destine&titel=Illuminate&cat=a)
-
 10.
 11.

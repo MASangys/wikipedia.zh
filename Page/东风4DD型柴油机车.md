@@ -52,8 +52,6 @@
 [Category:调车机车](https://zh.wikipedia.org/wiki/Category:调车机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink") [Category:中车大连制铁路机车](https://zh.wikipedia.org/wiki/Category:中车大连制铁路机车 "wikilink") [Category:东风型柴油机车](https://zh.wikipedia.org/wiki/Category:东风型柴油机车 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

@@ -51,58 +51,35 @@ MacPaint啟發了其他公司開發同類的產品。\[26\]當中包括Broderbun
 [Category:蘋果公司軟體](https://zh.wikipedia.org/wiki/Category:蘋果公司軟體 "wikilink") [Category:Mac_OS软件](https://zh.wikipedia.org/wiki/Category:Mac_OS软件 "wikilink") [Category:位图编辑软件](https://zh.wikipedia.org/wiki/Category:位图编辑软件 "wikilink") [Category:已停止開發的軟體](https://zh.wikipedia.org/wiki/Category:已停止開發的軟體 "wikilink") [Category:組合語言軟體](https://zh.wikipedia.org/wiki/Category:組合語言軟體 "wikilink")
 
 1.
-
 2.  .
-
 3.
-
 4.
-
 5.
-
 6.
 7.  Hertzfeld (2005), p. 174
-
 8.
-
 9.  Hertzfeld (2005), p. 171
-
 10.
 11. Hertzfeld (2005), p. 172
-
 12. Hertzfeld (2005), p. 147
-
 13. Hertzfeld (2005), pp. 155-156
-
 14.
-
 15.
-
 16.
 17.
-
 18.
-
 19.
 20.
 21.
-
 22.
 23.
-
 24.
 25.
-
 26.
-
 27.
-
 28.
 29.
 30. [Apple's new MacIntosh: specs](http://macgui.com/usenet/?group=26&id=4731)
-
 31.
-
 32. [Mac Finder..etc.. upgrade available FREE](http://macgui.com/usenet/?group=26&id=6697)
-
 33. [MacExpo: Bursting at the seams](http://macgui.com/usenet/?group=14&id=10855)

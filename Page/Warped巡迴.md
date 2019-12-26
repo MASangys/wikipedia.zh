@@ -31,4 +31,4 @@
   -
 [Category:搖滾音樂節](https://zh.wikipedia.org/wiki/Category:搖滾音樂節 "wikilink")
 
-1.  <http://vanswarpedtour.com/sponsors>
+1.

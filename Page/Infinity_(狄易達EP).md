@@ -69,17 +69,11 @@
 [Category:狄易達音樂專輯](https://zh.wikipedia.org/wiki/Category:狄易達音樂專輯 "wikilink") [Category:2011年迷你專輯](https://zh.wikipedia.org/wiki/Category:2011年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
 1.  狄易達在10月於電台節目透露。
-
 2.  [狄易達\~Infinity - Sky Music](http://skymusic.com.hk/?p=26458)，2011年12月10日 (六) 22:50 (UTC+8)查閱
-
 3.  [Music Café - 每集內容 - 第42集 - 狄易達 - tvb.com\#page-1](http://programme.tvb.com/music/musiccafe/episode/42/#page-1)，2011年12月10日 (六) 23:05 (UTC+8)查閱
-
 4.  [DJ 生還者．Teen行者](http://rthk.hk/special/teenwalker/)，2011年12月10日 (六) 23:10 (UTC+8)查閱
-
 5.
 6.
 7.  [笑容由家開始——生命農夫](http://news.hkheadline.com/dailynews/headline_news_detail_columnist.asp?id=128179&section_name=wtt&kw=59)，2011年12月10日 (六) 23:00 (UTC+8)查閱
-
 8.  <http://weibo.com/tongxintingshijie>
-
 9.  在宣傳文案中誤作《一種快樂》。

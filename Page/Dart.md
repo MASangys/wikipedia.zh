@@ -1,10 +1,10 @@
 **Dart**（\[KK\] , \[DJ\] ）是一种适用于[全球資訊網的](https://zh.wikipedia.org/wiki/全球資訊網 "wikilink")[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，由[Google](../Page/Google.md "wikilink")主導開發，於[2011年10月](../Page/2011年10月.md "wikilink")公開。它的開發團隊由[Google Chrome瀏覽器](../Page/Google_Chrome.md "wikilink")[V8引擎團隊的領導者](../Page/V8_\(JavaScript引擎\).md "wikilink")主持，目標在於成為下一代結構化Web開發語言。
 
-類似[JavaScript](../Page/JavaScript.md "wikilink")，Dart也是一種[物件導向語言](https://zh.wikipedia.org/wiki/物件導向 "wikilink")，但是它採用[類別基礎編程](https://zh.wikipedia.org/wiki/類別基礎編程 "wikilink")。它只允許[單一繼承](https://zh.wikipedia.org/wiki/單一繼承 "wikilink")，語法風格接近[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")。
+類似[JavaScript](../Page/JavaScript.md "wikilink")，Dart也是一種[物件導向語言](https://zh.wikipedia.org/wiki/物件導向 "wikilink")，但是它採用[類別為基的程式設計](https://zh.wikipedia.org/wiki/類別為基的程式設計 "wikilink")。它只允許[單一繼承](https://zh.wikipedia.org/wiki/單一繼承 "wikilink")，語法風格接近[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")。
 
 ## 發展歷史
 
-2011年Google在[丹麥奧胡斯](https://zh.wikipedia.org/wiki/丹麥 "wikilink")（Aarhus）舉行的“GOTO國際軟體開發大會”預告將釋出新網頁程式語言Dart，是一種[類別基礎編程語言](https://zh.wikipedia.org/wiki/類別基礎編程 "wikilink")（class-based programming language），在所有[瀏覽器都能夠有高效能的執行效率](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")。2011年10月10日Google宣布推出Dart的預覽版。\[1\]
+2011年Google在[丹麥奧胡斯](https://zh.wikipedia.org/wiki/丹麥 "wikilink")（Aarhus）舉行的“GOTO國際軟體開發大會”預告將釋出新網頁程式語言Dart，是一種[類別為基的程式設計語言](https://zh.wikipedia.org/wiki/類別為基的程式設計 "wikilink")（class-based programming language），在所有[瀏覽器都能夠有高效能的執行效率](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")。2011年10月10日Google宣布推出Dart的預覽版。\[1\]
 
 Google在dartlang.org公布Dart開發工具及原始碼範例等內容，同時也提供相關[虛擬機器](../Page/虛擬機器.md "wikilink")平台。目前Dart有兩種方式執行：一是在原生的虛擬機器上，二是將Dart程式碼轉成Javascript，直接在Javascript引擎上執行。\[2\]
 

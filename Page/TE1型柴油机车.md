@@ -77,26 +77,19 @@ TE1型机车采用МПТ-84/39型牵引发电机，设有八个主极和八个�
 [Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:哈尔科夫制铁路机车](https://zh.wikipedia.org/wiki/Category:哈尔科夫制铁路机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
 7.
-
 8.
 9.
-
 10.
-
 11.
 12.
 13.
 14.
-
 15.
 16.
 17.

@@ -63,16 +63,10 @@
 [Category:安室奈美惠音樂專輯](https://zh.wikipedia.org/wiki/Category:安室奈美惠音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:2009年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.  [安室奈美惠脫胎換骨 打破過去再創紀錄！](http://www.avex.com.tw/amuro/news/news_more.asp?DPArtistCode=AMUROJ&DPType=News&DPID=1485)
-
 2.  [Phrased Differently Official Website](http://www.phraseddifferently.com/)
-
 3.  [安室奈美恵、“あの大ヒットベストを引き裂く”新ヴィジュアルを発表 / BARKS ニュース](http://www.barks.jp/news/?id=1000055759)
-
 4.  [安室奈美恵、ガンダムのアムロ・レイとの共演で夢叶う「安室、いきまーす\!\!」 ニュース-ORICON STYLE-](http://www.oricon.co.jp/news/confidence/71624/full/)
-
 5.
 6.  [30代でもアルバム1位、安室奈美恵が女性初10～30代首位制覇 ニュース-ORICON STYLE-](http://www.oricon.co.jp/news/confidence/71830/full/)
-
 7.  [安室奈美恵、アジア5ヶ国・地域でアルバムNo.1　日本人女性アーティスト初の快挙 ニュース-ORICON STYLE-](http://www.oricon.co.jp/news/confidence/72798/full/)
-
 8.  [安室奈美恵、最新ライヴDVDが堂々の1位獲得！](http://www.cdjournal.com/main/news/amuro-namie/35852)CDJournal.comニュース 2010年12月22日
