@@ -23,7 +23,7 @@
 | 發佈日期       | 歌曲                       | 備註          |
 | ---------- | ------------------------ | ----------- |
 | 2019年2月22日 | 《 What You Waiting For 》 | Z-POP DREAM |
-| 2019年7月29日 | 《Streets of Gold》        |             |
+| 2019年7月29日 | 《 Streets of Gold 》      | Z-POP DREAM |
 
 ### 團體綜藝
 

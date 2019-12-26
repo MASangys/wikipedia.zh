@@ -109,54 +109,57 @@
 <td><p>9月24日</p></td>
 </tr>
 <tr class="even">
-<td><p>最高名次：</p></td>
+<td><p>10月1日</p></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p>最高名次：</p></td>
 </tr>
 <tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>9月4日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9月25日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>最高名次：</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Arirang_TV" title="wikilink">Arirang TV</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>8月30日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9月6日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9月13日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9月20日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9月27日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>《You Don't Know Me》</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Arirang_TV" title="wikilink">Arirang TV</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 </tr>
 </tbody>
@@ -164,7 +167,7 @@
 
 ## 參考
 
-[Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink") [Category:EVERGLOW](https://zh.wikipedia.org/wiki/Category:EVERGLOW "wikilink")
+[Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink") [Category:EVERGLOW](https://zh.wikipedia.org/wiki/Category:EVERGLOW "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
 
 1.
 2.

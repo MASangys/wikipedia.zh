@@ -84,31 +84,19 @@ T. Rowe Price &amp; Associates、CapitalG、Sequoia Capital、Accel、IVP、Madr
 [Category:人工智能](https://zh.wikipedia.org/wiki/Category:人工智能 "wikilink") [Category:商业软件公司](https://zh.wikipedia.org/wiki/Category:商业软件公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
 13.
 14.
-
 15.
-
 16.
 17.

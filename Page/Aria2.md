@@ -27,9 +27,6 @@ Aria2的初始版本仅支持FTP和HTTP协议，并有基于[GTK+的](https://zh
 [Category:2008年软件](https://zh.wikipedia.org/wiki/Category:2008年软件 "wikilink") [Category:自由檔案分享軟體](https://zh.wikipedia.org/wiki/Category:自由檔案分享軟體 "wikilink") [Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink") [Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink") [Category:Linux軟體](https://zh.wikipedia.org/wiki/Category:Linux軟體 "wikilink") [Category:Windows軟體](https://zh.wikipedia.org/wiki/Category:Windows軟體 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

@@ -46,30 +46,17 @@ PGLYRP-1蛋白在[先天免疫反應中扮演著極為重要的腳色](https://z
 [Category:位於19號人類染色體的基因](https://zh.wikipedia.org/wiki/Category:位於19號人類染色體的基因 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.

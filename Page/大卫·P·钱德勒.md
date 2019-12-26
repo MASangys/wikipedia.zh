@@ -22,14 +22,10 @@
 [Category:美国历史学家](https://zh.wikipedia.org/wiki/Category:美国历史学家 "wikilink") [Category:哈佛大学校友](https://zh.wikipedia.org/wiki/Category:哈佛大学校友 "wikilink") [Category:耶鲁大学校友](https://zh.wikipedia.org/wiki/Category:耶鲁大学校友 "wikilink") [Category:密歇根大学校友](https://zh.wikipedia.org/wiki/Category:密歇根大学校友 "wikilink") [Category:莫纳什大学教师](https://zh.wikipedia.org/wiki/Category:莫纳什大学教师 "wikilink") [Category:威斯康辛大學麥迪遜分校教師](https://zh.wikipedia.org/wiki/Category:威斯康辛大學麥迪遜分校教師 "wikilink") [Category:約翰霍普金斯大學教師](https://zh.wikipedia.org/wiki/Category:約翰霍普金斯大學教師 "wikilink") [Category:康乃爾大學教師](https://zh.wikipedia.org/wiki/Category:康乃爾大學教師 "wikilink")
 
 1.  ["Book Review: Voices from S-21"](http://www.historycooperative.org/cgi-bin/justtop.cgi?act=justtop&url=http://www.historycooperative.org/journals/ahr/107.4/br_35.html) . *The American Historical Review* (October 2002).
-
 2.  [SBS French program](https://archive.is/20070813050106/http://www20.sbs.com.au/podcasting/index.php?action=feeddetails&feedid=3&id=9182). [Special Broadcasting Service](https://zh.wikipedia.org/wiki/Special_Broadcasting_Service "wikilink") (December 10, 2007).
-
 3.  [1](http://asiapacific.anu.edu.au/newmandala/2007/11/01/interview-with-professor-david-chandler)
-
 4.
 5.
 6.  [CSEAS Seminar Programme, 2006"](http://arts.monash.edu.au/mai/cseas/seminars/seminar06.php) . Monash Asia Institute (2006).
-
 7.
 8.

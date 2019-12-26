@@ -12,14 +12,11 @@
 
 <references />
 
-[Category:莫吉廖夫省人](https://zh.wikipedia.org/wiki/Category:莫吉廖夫省人 "wikilink") [Category:聖彼得堡國立大學校友](https://zh.wikipedia.org/wiki/Category:聖彼得堡國立大學校友 "wikilink") [Category:莫斯科國立大學校友](https://zh.wikipedia.org/wiki/Category:莫斯科國立大學校友 "wikilink") [Category:移民美國的俄羅斯人](https://zh.wikipedia.org/wiki/Category:移民美國的俄羅斯人 "wikilink") [Category:俄羅斯數學家](https://zh.wikipedia.org/wiki/Category:俄羅斯數學家 "wikilink") [Category:蘇聯數學家](https://zh.wikipedia.org/wiki/Category:蘇聯數學家 "wikilink")
+[Category:莫吉廖夫省人](https://zh.wikipedia.org/wiki/Category:莫吉廖夫省人 "wikilink") [Category:聖彼得堡國立大學校友](https://zh.wikipedia.org/wiki/Category:聖彼得堡國立大學校友 "wikilink") [Category:莫斯科國立大學校友](https://zh.wikipedia.org/wiki/Category:莫斯科國立大學校友 "wikilink") [Category:移民美國的俄羅斯人](https://zh.wikipedia.org/wiki/Category:移民美國的俄羅斯人 "wikilink") [Category:俄国数学家](https://zh.wikipedia.org/wiki/Category:俄国数学家 "wikilink") [Category:蘇聯數學家](https://zh.wikipedia.org/wiki/Category:蘇聯數學家 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.

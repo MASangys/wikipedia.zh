@@ -19,5 +19,4 @@
 [Category:加拿大電影作品](https://zh.wikipedia.org/wiki/Category:加拿大電影作品 "wikilink") [Category:以注意力不足過動症為題材的作品](https://zh.wikipedia.org/wiki/Category:以注意力不足過動症為題材的作品 "wikilink")
 
 1.
-
 2.

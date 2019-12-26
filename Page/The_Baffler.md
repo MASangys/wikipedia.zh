@@ -26,22 +26,13 @@
 [Category:文化雜誌](https://zh.wikipedia.org/wiki/Category:文化雜誌 "wikilink") [Category:1988年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1988年創辦的雜誌 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.   , also [archived from the dead *Baffler* site](https://web.archive.org/web/20061115070529/http://www.thebaffler.com/albiniexcerpt.html). (Reprinted in *\[//en.wikipedia.org/wiki/Maximumrocknroll Maximum RocknRoll\]* \#133 (June 1994) and later various websites.)
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.

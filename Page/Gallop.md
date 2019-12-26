@@ -13,18 +13,11 @@
 [Category:音樂理論](https://zh.wikipedia.org/wiki/Category:音樂理論 "wikilink")
 
 1.  Marshall, Wolf (1993). *The Wolf Marshall Guitar Method: Basics, Vol. II*, p.24. Hal Leonard. .
-
 2.  Consumer Dummies (2014). *Guitar All-In-One For Dummies*, p.144. John Wiley & Sons. .
-
 3.  Stang, Aaron and Warner, Daniel (1996). *Guitar rock shop, Volume 3*, p.6. Alfred. .
-
 4.  Hal Leonard (2011). *Rock Bass Songs for Dummies*, unpaginated. Hal Leonard. .
-
 5.  Popoff, Martin (2011). *Black Sabbath FAQ: All That's Left to Know on the First Name in Metal*, p. 237 & 247. Backbeat. .
-
 6.  Pillsbury, Glenn (2006). '"Damage Incorporated: Metallica and the Production of Musical Identity", p. 23. .
-
 7.  [1](https://tabs.ultimate-guitar.com/s/slayer/raining_blood_tab.htm), Raining Blood tab by Slayer at ultimate-guitar.com.
-
 8.
 9.  Woods, Tricia and Green, Raleigh (2008). "The Versatile Guitarist"', p.58. Alfred Music. .

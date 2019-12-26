@@ -72,7 +72,5 @@
 [Category:Tateidae](https://zh.wikipedia.org/wiki/Category:Tateidae "wikilink") [Category:截螺總科](https://zh.wikipedia.org/wiki/Category:截螺總科 "wikilink")
 
 1.  Rumi A., Gregoric D. E. G., Núñez V. & Darrigran G. A. (2008). "Malacología Latinoamericana. Moluscos de agua dulce de Argentina". *[Revista de Biología Tropical](https://zh.wikipedia.org/wiki/Revista_de_Biología_Tropical "wikilink")* **56**(1): 77-111. [HTM](http://www.scielo.sa.cr/scielo.php?pid=S0034-77442008000100006&script=sci_arttext).
-
 2.   Scarabino F. (2004). "Lista sistemática de los Gastropoda dulciacuícolas vivientes de Uruguay". *[Comunicaciones de la Sociedad Malacológica del Uruguay](https://zh.wikipedia.org/wiki/Comunicaciones_de_la_Sociedad_Malacológica_del_Uruguay "wikilink")* **8**(84–85/86–87): 347-355. [PDF](http://www.smdu.org.uy/84-85/8487-347.pdf) .
-
 3.

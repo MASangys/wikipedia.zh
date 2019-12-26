@@ -264,7 +264,7 @@ Gremlin图遍历机可以在单台机器上执行，也可以在多机计算集�
 ## 外部链接
 
 1.  [Apache TinkerPop主页](http://tinkerpop.apache.org/)
-2.  [GremlinDocs.com (TinkerPop2)](http://gremlindocs.com/)
+2.  [GremlinDocs.com (TinkerPop2)](https://web.archive.org/web/20180208095222/http://gremlindocs.com/)
 3.  [sql2gremlin.com (TinkerPop2)](http://sql2gremlin.com/)
 4.  Rodriguez, M.A., "[The Gremlin Graph Traversal Machine and Language](https://zh.wikipedia.org/wiki/arxiv:1508.03843 "wikilink")," Proceedings of the ACM Database Programming Languages Conference, October, 2015.
 

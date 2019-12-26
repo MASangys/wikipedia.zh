@@ -8,7 +8,7 @@
 
   - [官方網站](https://www.nintendo.co.jp/ngc/g8mj/)
 
-[Category:任天堂GameCube独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂GameCube独占游戏 "wikilink") [Category:马里奥角色扮演游戏](https://zh.wikipedia.org/wiki/Category:马里奥角色扮演游戏 "wikilink") [Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink")
+[Category:任天堂GameCube独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂GameCube独占游戏 "wikilink") [Category:马里奥角色扮演游戏](https://zh.wikipedia.org/wiki/Category:马里奥角色扮演游戏 "wikilink") [Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:女性反派電子遊戲](https://zh.wikipedia.org/wiki/Category:女性反派電子遊戲 "wikilink")
 
 1.  [Game Rankings: Paper Mario: The Thousand-Year Door](https://www.gamerankings.com/gamecube/920182-paper-mario-the-thousand-year-door/index.html)
 2.

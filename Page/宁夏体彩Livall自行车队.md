@@ -15,14 +15,11 @@
 ## 主要胜出赛事
 
   - 2018年
-
     [环青海湖国际公路自行车赛](../Page/环青海湖国际公路自行车赛.md "wikilink")第1赛段（[乔治·宝格拉斯](https://zh.wikipedia.org/wiki/乔治·宝格拉斯 "wikilink")）
-
     [环辛卡拉克公路自行车赛第](https://zh.wikipedia.org/wiki/环辛卡拉克公路自行车赛 "wikilink")2赛段（[亚历山大·波罗沃达](https://zh.wikipedia.org/wiki/亚历山大·波罗沃达 "wikilink")）
-
   - 2019年
-
     [环青海湖国际公路自行车赛](../Page/环青海湖国际公路自行车赛.md "wikilink")第5赛段（[乔治·宝格拉斯](https://zh.wikipedia.org/wiki/乔治·宝格拉斯 "wikilink")）
+    [环福州自行车赛第](https://zh.wikipedia.org/wiki/环福州自行车赛 "wikilink")7赛段（[阿里克赛·思尼克](https://zh.wikipedia.org/wiki/阿里克赛·思尼克 "wikilink")）
 
 ## 参考资料
 

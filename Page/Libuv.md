@@ -38,9 +38,6 @@
 [Category:C函式库](https://zh.wikipedia.org/wiki/Category:C函式库 "wikilink") [Category:事件_(计算机)](https://zh.wikipedia.org/wiki/Category:事件_\(计算机\) "wikilink") [Category:自由發展元件與函式庫](https://zh.wikipedia.org/wiki/Category:自由發展元件與函式庫 "wikilink")
 
 1.
-
 2.
-
 3.  [An introduction to libuv](https://nikhilm.github.io/uvbook/introduction.html#background)
-
 4.

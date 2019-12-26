@@ -9,7 +9,7 @@
   - [Skidmore, Owings, and Merrill](http://www.som.com/)
   - [WMAQ's official website](http://www.nbcchicago.com/)
   - [WSNS' official website](http://www.telemundochicago.com/)
-  - [WSCR's official website](http://chicago.cbslocal.com/station/670-the-score)
+  - [WSCR's official website](https://web.archive.org/web/20111127095746/http://chicago.cbslocal.com/station/670-the-score/)
 
 [Category:芝加哥建築物](https://zh.wikipedia.org/wiki/Category:芝加哥建築物 "wikilink")
 

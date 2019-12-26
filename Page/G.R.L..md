@@ -8,7 +8,7 @@ G.R.L.于2016年8月5日正式重组，新成员Jazzy Mejia加入原成员Bennet
 
 ### 2011－2012年：背景与阵容变化
 
-2011年3月，Antin开始举行试镜，寻找新的女孩来取代[The Pussycat Dolls离开的成员](https://zh.wikipedia.org/wiki/小野貓 "wikilink")。\[1\]2012年2月5日，新阵容首次亮相，与一同现身[超级碗](https://zh.wikipedia.org/wiki/超级碗 "wikilink")，成为[GoDaddy](../Page/GoDaddy.md "wikilink")年度电视广告的一部分。“这次广告的外观并不一定是这个组合的新面貌，”Robin Antin说道，“它美得惊艳。这是一种有趣而又真实的性感。就是这样，但同样，这也是我们正在为Pussycat Dolls的接下来的生活所做的，女孩们都很年轻。这是一种鲜活的、年轻的能量。”\[2\]广告中的官方照片显示了五位成员：Lauren Bennett、Paula van Oppen、、和Erica Kiehl Jenkins。\[3\] \[4\]
+2011年3月，Antin开始举行试镜，寻找新的女孩来取代[The Pussycat Dolls离开的成员](../Page/小野貓.md "wikilink")。\[1\]2012年2月5日，新阵容首次亮相，与一同现身[超级碗](https://zh.wikipedia.org/wiki/超级碗 "wikilink")，成为[GoDaddy](../Page/GoDaddy.md "wikilink")年度电视广告的一部分。“这次广告的外观并不一定是这个组合的新面貌，”Robin Antin说道，“它美得惊艳。这是一种有趣而又真实的性感。就是这样，但同样，这也是我们正在为Pussycat Dolls的接下来的生活所做的，女孩们都很年轻。这是一种鲜活的、年轻的能量。”\[2\]广告中的官方照片显示了五位成员：Lauren Bennett、Paula van Oppen、、和Erica Kiehl Jenkins。\[3\] \[4\]
 
 2012年4月13日，Chrystina Sayers被宣布不再是新阵容的一部分。 \[5\] 2012年7月，该组合被宣布由Bennett、Van Oppen和新成员、Amanda Branche、Natasha Slayton组成，从而确认了Jenkins退出组合。\[6\] 2012年8月，宣传照片展示了“新”阵容，（来自[美国《X音素》第一季](../Page/X音素_\(美国真人秀\).md "wikilink")）取代了Branche。\[7\] 2012年11月，的聘用，透露了Mejia不再是该集团的成员。就这样G.R.L.的官方阵容形成了。\[8\] Mejia称她正在与她的丈夫期待他们第一个孩子的降生，鉴于自己的情况，她选择离开组合。\[9\]
 
@@ -165,97 +165,51 @@ G.R.L.是一个[流行](../Page/流行_\(音樂類型\).md "wikilink")、[青少
 [Category:RCA唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:RCA唱片旗下藝人 "wikilink") [Category:美國流行音樂團體](https://zh.wikipedia.org/wiki/Category:美國流行音樂團體 "wikilink") [Category:美國女子演唱團體](https://zh.wikipedia.org/wiki/Category:美國女子演唱團體 "wikilink") [Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.

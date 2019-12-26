@@ -87,7 +87,7 @@
 
   - （2012年公映）－發行
 
-  - [鐵甲衣](https://zh.wikipedia.org/wiki/鐵甲衣 "wikilink")（2012年公映）－发行
+  - [鐵甲衣](https://zh.wikipedia.org/wiki/鐵甲衣 "wikilink")（2012年公映）－發行
 
   - （2012年公映）－發行
 
@@ -97,11 +97,11 @@
 
   - （2012年公映）－發行
 
-  - （2012年公映） - 發行
+  - （2012年公映）－發行
 
   - （2013年公映）－發行
 
-  - [艾瑪好色](../Page/艾瑪好色.md "wikilink")（2013年公映）－发行
+  - [艾瑪好色](../Page/艾瑪好色.md "wikilink")（2013年公映）－發行
 
   - （2013年公映）－發行
 
@@ -228,32 +228,18 @@
 [Category:日本出版社](https://zh.wikipedia.org/wiki/Category:日本出版社 "wikilink") [Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink") [Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink") [Category:日本電影公司](https://zh.wikipedia.org/wiki/Category:日本電影公司 "wikilink") [Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink") [Category:日本已結業聲優事務所](https://zh.wikipedia.org/wiki/Category:日本已結業聲優事務所 "wikilink") [Category:Culture_Convenience_Club](https://zh.wikipedia.org/wiki/Category:Culture_Convenience_Club "wikilink") [Category:品川區公司](https://zh.wikipedia.org/wiki/Category:品川區公司 "wikilink") [Category:1939年成立的公司](https://zh.wikipedia.org/wiki/Category:1939年成立的公司 "wikilink")
 
 1.
-
 2.  「☆」2008年9月19日（編號：EARD-001、JAN 4562262280003）
-
 3.  . \[2018-09-21\] .
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11. 出版TIMES社 編《日本出版大觀》，出版TIMES社，1931年，第58頁「人與事業」。
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.

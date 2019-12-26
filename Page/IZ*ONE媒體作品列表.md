@@ -364,10 +364,34 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>9月27日,10月4日</p></td>
+<td><p>9月27日、10月4日</p></td>
 <td><p>MBC</p></td>
 <td><p>《我的小电视V2》</p></td>
 <td><p>崔叡娜、姜惠元</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9月30日</p></td>
+<td><p>日本电视台</p></td>
+<td><p>《》</p></td>
+<td><p>全员</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月2日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK教育频道" title="wikilink">NHK教育频道</a></p></td>
+<td><p>《》</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月8日</p></td>
+<td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
+<td><p>《<a href="../Page/明星來解謎_(第二季).md" title="wikilink">明星來解謎_(第二季)</a>》</p></td>
+<td><p>第8集</p></td>
 <td></td>
 <td></td>
 </tr>

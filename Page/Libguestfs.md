@@ -27,8 +27,6 @@ libguestfs同时也是可与C和[C++](../Page/C++.md "wikilink")管理程序关�
 [Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink") [Category:自由虚拟化软件](https://zh.wikipedia.org/wiki/Category:自由虚拟化软件 "wikilink") [Category:虛擬機器](https://zh.wikipedia.org/wiki/Category:虛擬機器 "wikilink") [Category:Linux虚拟化相关软件](https://zh.wikipedia.org/wiki/Category:Linux虚拟化相关软件 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

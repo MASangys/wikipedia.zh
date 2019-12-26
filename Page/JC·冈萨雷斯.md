@@ -39,54 +39,32 @@
 [Category:1990年出生](https://zh.wikipedia.org/wiki/Category:1990年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:環球音樂拉丁娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:環球音樂拉丁娛樂旗下藝人 "wikilink") [Category:美国流行音乐歌手](https://zh.wikipedia.org/wiki/Category:美国流行音乐歌手 "wikilink") [Category:美国男演员](https://zh.wikipedia.org/wiki/Category:美国男演员 "wikilink") [Category:哥倫比亞歌手](https://zh.wikipedia.org/wiki/Category:哥倫比亞歌手 "wikilink") [Category:哥伦比亚演员](https://zh.wikipedia.org/wiki/Category:哥伦比亚演员 "wikilink") [Category:哥倫比亞音樂製作人](https://zh.wikipedia.org/wiki/Category:哥倫比亞音樂製作人 "wikilink")
 
 1.  "Colombiano Rumbo a Menudo" El Tiempo newspaper, Revista Carrusel <http://www.eltiempo.com/carrusel> published on November 2007 accessed February 16, 2016
-
 2.  "From Breakbeats to Heartbreaks" in US Weekly <http://www.usmagazine.com> published in October 29, 2007 accessed in February 18 of 2016
-
 3.
-
 4.
 5.
 6.   PeopleMaven|website=PeopleMaven|language=en|access-date=2018-08-23}}
-
 7.
 8.
-
 9.
 10.
-
 11.
-
 12. "[JC Gonzalez de actor a cantautor consagrado en Estados Unidos"](http://www.las2orillas.co/jc-gonzalez-de-actor-a-cantautor-consagrado-en-estados-unidos/) by Juan Jose Fonseca published January 25, 2016. Accessed January 18, 2018
-
 13.
 14.
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
 21.
-
 22. "Survival of the cutest" <http://www.peopleenespanol.com> Published December 2007/ January 2008 consulted February 18, 2016
-
 23.  ELESPECTADOR.COM|date=2018-06-20|work=ELESPECTADOR.COM|language=es-CO|access-date=2018-08-23}}
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30. Singh, Ruchi (December 10, 2015) [NCIS: New Orleans Season 2 spoilers: The NCIS team investigates a series of burglaries during Christmas](http://www.ibtimes.com.au/ncis-new-orleans-season-2-spoilers-ncis-team-investigates-series-burglaries-during-christmas-1491050) retrieved January 12, 2016.

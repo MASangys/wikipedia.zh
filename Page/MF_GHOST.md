@@ -1,4 +1,4 @@
-《**MF GHOST**》（，台灣譯名：**燃油車鬥魂**）為[重野秀一](../Page/重野秀一.md "wikilink")在2013年完結《[頭文字D](../Page/頭文字D.md "wikilink")》時隔4年後於《[週刊Young Magazine](../Page/週刊Young_Magazine.md "wikilink")》上再度連載的賽車漫畫作品\[1\]。
+《**MF GHOST**》（，台灣譯名：**MF GHOST 燃油車鬥魂**）為[重野秀一](../Page/重野秀一.md "wikilink")在2013年完結《[頭文字D](../Page/頭文字D.md "wikilink")》時隔4年後於《[週刊Young Magazine](../Page/週刊Young_Magazine.md "wikilink")》上再度連載的賽車漫畫作品\[1\]。
 
 ## 故事概要
 
@@ -105,8 +105,19 @@
 <!-- end list -->
 
   -
+    駕駛車種：[Alpine](../Page/Alpine.md "wikilink") A110【4號車】。
+    21歲。上赛季排名第4名。
+
+<!-- end list -->
+
+  -
     駕駛車種：[奧迪R](https://zh.wikipedia.org/wiki/奧迪 "wikilink")8 Coupé V10 Plus(改)【5號車】。
     27歲，上赛季排名第5名。
+
+<!-- end list -->
+
+  -
+    駕駛車種：[寶馬M](https://zh.wikipedia.org/wiki/寶馬 "wikilink")6(改)【6號車】。
 
 <!-- end list -->
 
@@ -129,13 +140,13 @@
 <!-- end list -->
 
   -
-    駕駛車種：[本田Civic](https://zh.wikipedia.org/wiki/本田汽車 "wikilink") Type R (FK8) / 本田NSX【13號車】。
-    28歲，上赛季排名13名。
+    駕駛車種：[寶馬M3E](https://zh.wikipedia.org/wiki/寶馬M3 "wikilink")92【11號車】。
 
 <!-- end list -->
 
   -
-    駕駛車種：[寶馬M](https://zh.wikipedia.org/wiki/寶馬 "wikilink")3【11號車】。
+    駕駛車種：[本田Civic](https://zh.wikipedia.org/wiki/本田汽車 "wikilink") Type R (FK8) / 本田NSX【13號車】。
+    28歲，上赛季排名13名。
 
 <!-- end list -->
 
@@ -148,12 +159,6 @@
   -
     駕駛車種：[愛快羅密歐](https://zh.wikipedia.org/wiki/愛快羅密歐 "wikilink")4C【18號車】。
     20歲，上赛季排名18名。
-
-<!-- end list -->
-
-  -
-    駕駛車種：[Alpine](../Page/Alpine.md "wikilink") A110【4號車】。
-    21歲。上赛季排名第4名。
 
 ### MFG相關人物
 
@@ -257,6 +262,12 @@ ISBN 978-4-06-514770-2<small>（限定版）</p></td>
 <td><p>2019年5月7日</p></td>
 <td><p>ISBN 978-4-06-515459-5<br />
 ISBN 978-4-06-515460-1<small>（限定版）</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2019年9月6日</p></td>
+<td><p>ISBN 978-4-06-516937-7<br />
+ISBN 978-4-06-516990-2<small>（限定版）</p></td>
 </tr>
 </tbody>
 </table>

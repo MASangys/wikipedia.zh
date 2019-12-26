@@ -19,7 +19,7 @@ end
 `   for _, conf in pairs( ac_conf ) do`
 `       if conf[1] == id or (conf[1] == 'MBA' and id == 'MusicBrainz') then`
 `           local link = conf[2] --not used locally yet`
-`           local txCatMore = frame:expandTemplate{ title = 'Cat more', args = {'Wikipedia:规范控制'} }`
+`           local txCatMore = frame:expandTemplate{ title = 'Cat more', args = {':en:Wikipedia:Authority control'} }`
 `           local txWPCat = frame:expandTemplate{ title = 'Wikipedia category' }`
 `           local outString = txCatMore..txWPCat..'\n'..`
 `                   ''`
@@ -37,7 +37,7 @@ end
 `           local link = conf[2]`
 `           local txCatExplain = frame:expandTemplate{ title = 'Category explanation', `
 `                   args = { '含有{{`[`规范控制`](https://zh.wikipedia.org/wiki/Template:Authority_control "wikilink")`}}标识符'..link..'的页面。' } }`
-`           local txCatMore = frame:expandTemplate{ title = 'Cat more', args = {'Wikipedia:规范控制'} }`
+`           local txCatMore = frame:expandTemplate{ title = 'Cat more', args = {':en:Wikipedia:Authority control'} }`
 `           local txEmptyCat = frame:expandTemplate{ title = 'Possibly empty category' }`
 `           local txWPCat = frame:expandTemplate{ title = 'Wikipedia category', args = { hidden = 'yes', tracking = 'yes' } }`
 `           local txTOC = whichTOC( frame )`
@@ -57,7 +57,7 @@ end
 `   for _, conf in pairs( ac_conf ) do`
 `       if conf[1] == id or (conf[1] == 'MBA' and id == 'MusicBrainz') then`
 `           local link = conf[2] --not used locally yet`
-`           local txCatMore = frame:expandTemplate{ title = 'Cat more', args = {'Wikipedia:规范控制'} }`
+`           local txCatMore = frame:expandTemplate{ title = 'Cat more', args = {':en:Wikipedia:Authority control'} }`
 `           local txEmptyCat = frame:expandTemplate{ title = 'Possibly empty category' }`
 `           local txWPCat = frame:expandTemplate{ title = 'Wikipedia category', args = { hidden = 'yes', tracking = 'yes' } }`
 `           local txTOC = whichTOC( frame )`
@@ -78,7 +78,7 @@ end
 `       if conf[1] == id or (conf[1] == 'MBA' and id == 'MusicBrainz') then`
 `           local link = conf[2]`
 `           local txCatExplain = frame:expandTemplate{ title = 'Category explanation', args = {'包含'..link..'标识符的条目。请不要添加`[`子分类`](https://zh.wikipedia.org/wiki/Wikipedia:分类#子分类 "wikilink")`'} }`
-`           local txCatMore = frame:expandTemplate{ title = 'Cat more', args = {'Wikipedia:规范控制'} }`
+`           local txCatMore = frame:expandTemplate{ title = 'Cat more', args = {':en:Wikipedia:Authority control'} }`
 `           local txEmptyCat = frame:expandTemplate{ title = 'Possibly empty category' }`
 `           local txWPCat = frame:expandTemplate{ title = 'Wikipedia category', args = { hidden = 'yes', tracking = 'yes' } }`
 `           local txTOC = whichTOC( frame )`
@@ -99,7 +99,7 @@ end
 `       if conf[1] == id or (conf[1] == 'MBA' and id == 'MusicBrainz') then`
 `           local link = conf[2] --not used locally yet`
 `           local param = conf[3]`
-`           local txCatMore = frame:expandTemplate{ title = 'Cat more', args = {'Wikipedia:Authority control', 'd:Property:P'..param} }`
+`           local txCatMore = frame:expandTemplate{ title = 'Cat more', args = {':en:Wikipedia:Authority control', 'd:Property:P'..param} }`
 `           local txEmptyCat = frame:expandTemplate{ title = 'Possibly empty category' }`
 `           local txWPCat = frame:expandTemplate{ title = 'Wikipedia category', args = { hidden = 'yes', tracking = 'yes' } }`
 `           local txDirtyCat = frame:expandTemplate{ title = 'Polluted category' }`

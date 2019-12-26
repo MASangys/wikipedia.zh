@@ -142,40 +142,23 @@ Quibi計劃在第一年投入11億美元用於原創節目的製作，預計打�
 [Category:視頻點播訂閱服務](https://zh.wikipedia.org/wiki/Category:視頻點播訂閱服務 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  [Quibi Plants ‘Centerpiece’, Floral-Arrangement Series From EPs Rashida Jones & Will McCormack](https://deadline.com/2019/07/quibi-centerpiece-floral-arrangement-series-rashida-jones-will-mccormack-maurice-harris-1202654846/)
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.
-
 17.
 18.
 19.
-
 20.
-
 21.

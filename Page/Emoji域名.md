@@ -27,20 +27,12 @@ emoji域名的起源要追溯到2001年3月19日，这一天，`♨️.com`（`x
 [Category:国际化域名](https://zh.wikipedia.org/wiki/Category:国际化域名 "wikilink")
 
 1.   冷知识+1 |url=<https://sspai.com/post/40131> |website=少数派 |accessdate=2018-12-13 |date=2017-07-24}}
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.

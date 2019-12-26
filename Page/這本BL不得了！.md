@@ -32,7 +32,7 @@
 
 ## 參考來源
 
-[Category:漫畫情報誌](https://zh.wikipedia.org/wiki/Category:漫畫情報誌 "wikilink") [Category:日本漫畫獎](https://zh.wikipedia.org/wiki/Category:日本漫畫獎 "wikilink") [Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink") [Category:BL](https://zh.wikipedia.org/wiki/Category:BL "wikilink")
+[Category:漫畫情報誌](https://zh.wikipedia.org/wiki/Category:漫畫情報誌 "wikilink") [Category:日本漫畫獎](https://zh.wikipedia.org/wiki/Category:日本漫畫獎 "wikilink") [Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink") [Category:BL](https://zh.wikipedia.org/wiki/Category:BL "wikilink") [Category:BL漫畫](https://zh.wikipedia.org/wiki/Category:BL漫畫 "wikilink")
 
 1.  [「このBLがやばい！」に中村明日美子描き下ろし番外編](https://natalie.mu/comic/news/41721)
 2.

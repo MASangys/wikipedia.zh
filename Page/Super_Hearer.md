@@ -23,7 +23,7 @@
 <td><p><a href="../Page/張聖圭.md" title="wikilink">張聖圭</a></p></td>
 <td></td>
 <td></td>
-<td><p>第1集至今</p></td>
+<td><p>第1~8集</p></td>
 </tr>
 <tr class="odd">
 <td><p>聆聽者</p></td>
@@ -35,25 +35,25 @@
 <td><p><a href="../Page/尹鍾信.md" title="wikilink">尹鍾信</a></p></td>
 <td></td>
 <td></td>
-<td><p>第1集至今</p></td>
+<td><p>第1~8集</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/安七炫.md" title="wikilink">KangTa</a></p></td>
 <td></td>
 <td></td>
-<td><p>第1集至今</p></td>
+<td><p>第1~8集</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/張允瀞.md" title="wikilink">張允瀞</a></p></td>
 <td></td>
 <td></td>
-<td><p>第1集至今</p></td>
+<td><p>第1~8集</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/K.Will" title="wikilink">K.Will</a></p></td>
 <td></td>
 <td></td>
-<td><p>第1集至今</p></td>
+<td><p>第1~8集</p></td>
 </tr>
 <tr class="even">
 <td><p>妨礙者</p></td>
@@ -65,31 +65,31 @@
 <td><p><a href="../Page/朴俊炯.md" title="wikilink">朴俊炯</a></p></td>
 <td></td>
 <td></td>
-<td><p>第1集至今</p></td>
+<td><p>第1~8集</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/金九拉" title="wikilink">金九拉</a></p></td>
 <td></td>
 <td></td>
-<td><p>第1集至今</p></td>
+<td><p>第1~8集</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Boom_(藝人).md" title="wikilink">Boom</a></p></td>
 <td></td>
 <td></td>
-<td><p>第1集至今</p></td>
+<td><p>第1~8集</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/黃帝聖.md" title="wikilink">黃帝聖</a></p></td>
 <td></td>
 <td></td>
-<td><p>第1集至今</p></td>
+<td><p>第1~8集</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/嚴賢璟.md" title="wikilink">嚴賢璟</a></p></td>
 <td></td>
 <td></td>
-<td><p>第1集至今</p></td>
+<td><p>第1~8集</p></td>
 </tr>
 </tbody>
 </table>

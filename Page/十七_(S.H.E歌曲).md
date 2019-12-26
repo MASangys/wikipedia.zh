@@ -160,41 +160,24 @@ S.H.E成軍出道17週年，S.H.E除了推出成軍出道17週年紀念單曲之
 [Category:S.H.E音樂專輯](https://zh.wikipedia.org/wiki/Category:S.H.E音樂專輯 "wikilink") [Category:2018年單曲](https://zh.wikipedia.org/wiki/Category:2018年單曲 "wikilink") [Category:2018年國語單曲](https://zh.wikipedia.org/wiki/Category:2018年國語單曲 "wikilink") [Category:台灣音樂單曲](https://zh.wikipedia.org/wiki/Category:台灣音樂單曲 "wikilink") [Category:流行音樂單曲](https://zh.wikipedia.org/wiki/Category:流行音樂單曲 "wikilink") [Category:华研国际音乐音乐單曲](https://zh.wikipedia.org/wiki/Category:华研国际音乐音乐單曲 "wikilink")
 
 1.  [2018年度 Hit Fm百首單曲](http://www.hitoradio.com/2018KeepPlaying/hitovote/publish.php)
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.
 17.
 18.
-
 19.
-
 20.
-
 21.
-
 22.

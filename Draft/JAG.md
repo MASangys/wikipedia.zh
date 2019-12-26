@@ -2,43 +2,74 @@
 
 ## Military 軍用
 
-  - [Judge Advocate General's Corps](https://zh.wikipedia.org/wiki/Judge_Advocate_General's_Corps "wikilink"), the branch or specialty of a military concerned with military justice and military law
-  - 法官辯護人將軍團，也被稱為“JAG軍團”或“JAG”，是美國海軍的法律部門。
-  - [Judge Advocate General's Corps (United States)](https://zh.wikipedia.org/wiki/Judge_Advocate_General's_Corps_\(United_States\) "wikilink"), the military justice branch or specialty of the U.S. Air Force, Army, Coast Guard, and Navy
-  - [Judge Advocate General (Canada)](https://zh.wikipedia.org/wiki/Judge_Advocate_General_\(Canada\) "wikilink"), the legal branch of the Canadian Forces
-  - [PAF Base Shahbaz](https://zh.wikipedia.org/wiki/PAF_Base_Shahbaz "wikilink") (IATA code: JAG), a military base operated by the Pakistan Air Force
+  - , the branch or specialty of a military concerned with military justice and military law
 
-## Entertainment
+  - 法官辯護人將軍團，也被稱為“JAG軍團”或“JAG”，是一種司法部門。
 
-  - [*JAG* (TV series)](https://zh.wikipedia.org/wiki/JAG_\(TV_series\) "wikilink"), an American adventure/legal drama television show
-  - [JAG (band)](https://zh.wikipedia.org/wiki/JAG_\(band\) "wikilink"), a Christian rock band that recorded during the early 1990s
-  - "Jag", a song from The Mad Capsule Markets' 1999 album *[Osc-Dis](https://zh.wikipedia.org/wiki/Osc-Dis "wikilink")*
+  - , the military justice branch or specialty of the U.S. Air Force, Army, Coast Guard, and Navy
 
-## Businesses
+  - 法官辯護人將軍團（美國），是專門處裡美國空軍、軍隊、海岸警衛隊和海軍事務的司法機關。
 
-  - Jag, an automobile produced by [Jaguar Cars](https://zh.wikipedia.org/wiki/Jaguar_Cars "wikilink"), a British luxury car manufacturer
-  - [JAG Communications](https://zh.wikipedia.org/wiki/JAG_Communications "wikilink"), Britain's third largest independent mobile phone retailer
-  - [CJAG-FM](https://zh.wikipedia.org/wiki/CJAG-FM "wikilink"), a Canadian radio station branded as JAG 92.3
+  - , the legal branch of the Canadian Forces
+
+  - 法官辯護人將軍團（加拿大），加拿大軍方的法律部門。
+
+  - (IATA code: JAG), a military base operated by the Pakistan Air Force
+
+  - PAF 沙赫巴茲基地(IATA code: JAG)，巴基斯坦空軍的軍事基地。
+
+## Entertainment 娛樂
+
+  - *JAG* (TV series), an American adventure/legal drama television show
+
+  - [執法悍將](../Page/执法悍将.md "wikilink")（電視影集），由冒險和法律為主軸的美國節目。
+
+  - , a Christian rock band that recorded during the early 1990s
+
+  - JAG（樂團），一支在1990年代初期活躍的搖滾樂隊。
+
+  - "Jag", a song from The Mad Capsule Markets' 1999 album **
+
+  - ＂Jag＂，瘋狂膠囊樂團在1999出版的 **中的一首歌中的一首歌。
+
+## Businesses 商業
+
+  - Jag, an automobile produced by [Jaguar Cars](../Page/捷豹.md "wikilink"), a British luxury car manufacturer
+
+  - Jag，一款由捷豹製造的汽車。捷豹，英國豪車製造商
+
+  -
+  - , Britain's third largest independent mobile phone retailer
+
+  - , a Canadian radio station branded as JAG 92.3
 
 ## People
 
-  - [Jag Bhaduria](https://zh.wikipedia.org/wiki/Jag_Bhaduria "wikilink") (born 1940), Canadian former politician
-  - [Jag Mundhra](https://zh.wikipedia.org/wiki/Jag_Mundhra "wikilink") (1948-2011), Indian filmmaker
-  - [Michael Jagmin](https://zh.wikipedia.org/wiki/Michael_Jagmin "wikilink") (born 1985), American rock singer
-  - [John Atkinson Grimshaw](https://zh.wikipedia.org/wiki/John_Atkinson_Grimshaw "wikilink") (1836–1893), Victorian-era artist who sometimes signed his early paintings "JAG"
-  - [James Alexander Gordon (announcer)](https://zh.wikipedia.org/wiki/James_Alexander_Gordon_\(announcer\) "wikilink") (born 1938), BBC radio broadcaster known as "Jag"
+  - (born 1940), Canadian former politician
+
+  - (1948-2011), Indian filmmaker
+
+  - (born 1985), American rock singer
+
+  - (1836–1893), Victorian-era artist who sometimes signed his early paintings "JAG"
+
+  - (born 1938), BBC radio broadcaster known as "Jag"
 
 ## Other uses
 
-  - [Jobs for America's Graduates](https://zh.wikipedia.org/wiki/Jobs_for_America's_Graduates "wikilink"), a school-to-career program
-  - [Edward Byrne Memorial Justice Assistance Grant Program](https://zh.wikipedia.org/wiki/Edward_Byrne_Memorial_Justice_Assistance_Grant_Program "wikilink"), providing federal criminal justice funding to state and local jurisdictions
-  - Jag, slang name for vehicles made by [Jaguar Cars](https://zh.wikipedia.org/wiki/Jaguar_Cars "wikilink")
-  - Jags, a shortened nickname for the [Jacksonville Jaguars](https://zh.wikipedia.org/wiki/Jacksonville_Jaguars "wikilink")
-  - [Jak, Iran](https://zh.wikipedia.org/wiki/Jak,_Iran "wikilink"), a village also known as Jag
+  - , a school-to-career program
+
+  - , providing federal criminal justice funding to state and local jurisdictions
+
+  - Jag, slang name for vehicles made by [Jaguar Cars](../Page/捷豹.md "wikilink")
+
+  - Jags, a shortened nickname for the [Jacksonville Jaguars](../Page/杰克逊维尔美洲虎.md "wikilink")
+
+  - , a village also known as Jag
 
 ## See also
 
-  - [JAGS (disambiguation)](https://zh.wikipedia.org/wiki/JAGS_\(disambiguation\) "wikilink")
-  - [Jaguar (disambiguation)](https://zh.wikipedia.org/wiki/Jaguar_\(disambiguation\) "wikilink")
+  -
+  - [Jaguar (disambiguation)](https://zh.wikipedia.org/wiki/Jaguar "wikilink")
 
-[Category:Lists_of_people_by_nickname](https://zh.wikipedia.org/wiki/Category:Lists_of_people_by_nickname "wikilink")
+[Category:人物暱稱列表](https://zh.wikipedia.org/wiki/Category:人物暱稱列表 "wikilink")

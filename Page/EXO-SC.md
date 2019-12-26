@@ -1,4 +1,4 @@
-**EXO-SC**（）是[SM娛樂](../Page/SM娛樂.md "wikilink")旗下[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[EXO](../Page/EXO.md "wikilink")的第二個子團體小分隊，組合名稱是由兩位成員**S**ehun和**C**hanyeol的英文名開頭字母所組成，將於2019年7月22日发行第一張迷你專輯《What A Life》正式出道。\[1\]
+**EXO-SC**（）是[SM娛樂](../Page/SM娛樂.md "wikilink")旗下[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[EXO](../Page/EXO.md "wikilink")的第二個子團體小分隊，組合名稱是由兩位成員**S**ehun和**C**hanyeol的英文名開頭字母所組成，於2019年7月22日发行第一張迷你專輯《What A Life》正式出道。\[1\]
 
 ## 經歷
 
@@ -71,6 +71,12 @@
 | ---------- | --- | ------------- |
 | 2019年7月22日 | 首爾站 | 首爾麻浦區MUV HALL |
 
+  - 其他大型演唱會
+
+| 年份    | 日期     | 演唱會名稱                    | 地點          |
+| ----- | ------ | ------------------------ | ----------- |
+| 2019年 | 10月27日 | Fever Festival 2019\[8\] | 奧林匹克自行車賽車場館 |
+
 ## 獎項
 
 ### 音樂節目獎項
@@ -126,3 +132,4 @@
 5.
 6.
 7.  [2019.08](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=08&hitYear=2019&termGbn=month)
+8.

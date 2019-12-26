@@ -19,7 +19,5 @@
 [Category:摩尼教藝術](https://zh.wikipedia.org/wiki/Category:摩尼教藝術 "wikilink") [Category:西域藝術](https://zh.wikipedia.org/wiki/Category:西域藝術 "wikilink") [Category:手抄本](https://zh.wikipedia.org/wiki/Category:手抄本 "wikilink") [Category:插畫](https://zh.wikipedia.org/wiki/Category:插畫 "wikilink") [Category:高昌](https://zh.wikipedia.org/wiki/Category:高昌 "wikilink") [Category:流失海外的中國文物](https://zh.wikipedia.org/wiki/Category:流失海外的中國文物 "wikilink")
 
 1.
-
 2.
-
 3.

@@ -1,4 +1,12 @@
-**LIMITLESS**（），是[韓國ONO娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年推出的四人男子组合\[1\]\[2\]，成員包括張文福、李輝燦、成玹祐及尹熙錫，團體原定由2019年5月出道，順延至7月9日以單曲《Dream Play》發表出道曲\[3\]。
+**LIMITLESS**（），是[韓國ONO娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年推出的六人男子组合\[1\]\[2\]，成員包括張文福、湛展、李輝燦、成玹祐、尹熙錫及蔡鑫，團體原定由2019年5月出道，順延至7月9日以單曲《Dream Play》發表出道曲\[3\]。
+
+[190802_리미트리스_8월_첫주_뮤뱅_출근길_(KBS_'뮤직뱅크(MUSICBANK)'_출근길).webm](https://zh.wikipedia.org/wiki/File:190802_리미트리스_8월_첫주_뮤뱅_출근길_\(KBS_'뮤직뱅크\(MUSICBANK\)'_출근길\).webm "fig:190802_리미트리스_8월_첫주_뮤뱅_출근길_(KBS_'뮤직뱅크(MUSICBANK)'_출근길).webm")
+
+<center>
+
+**Limitless往《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》拍攝途中**
+
+</center>
 
 ## 成員資料
 
@@ -12,7 +20,9 @@
 | \-      |
 | \-      |
 | \-      |
+| \-      |
 | 熙錫      |
+| \-      |
 
 ## 活動經歷
 
@@ -32,6 +42,8 @@
 
 2019年7月9日，以《Dream Play》一曲正式出道\[9\]。
 
+2019年10月28日，通過官咖提早宣佈將會有兩位新成員加入，同時宣佈今年內回歸展開活動\[10\]。11月12日，宣佈團體以同月28日回歸\[11\]。11月14日，公開兩名中國籍新成員為J-Jin(湛展)\[12\]及C.I(蔡鑫)\[13\]。
+
 ## 影視作品
 
 ### 綜藝節目
@@ -40,7 +52,7 @@
 | --------------- | ---- | ----------------------------------------------------------- | -------- | ------------- |
 | 2017年4月7日－6月16日 | Mnet | [PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")    | 文福、玹祐、熙錫 | 组合对抗评价中同组     |
 | 2017年10月29日     | JTBC | [MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink") | 輝燦       |               |
-| 2019年8月11日      | MBC  | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")              | 文福       | \[10\] \[11\] |
+| 2019年8月11日      | MBC  | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")              | 文福       | \[14\] \[15\] |
 | 2019年9月12日      | MBC  | [偶像明星運動會](../Page/偶像明星運動會.md "wikilink")                    | 文福、熙錫    |               |
 
 ## 參考資料
@@ -49,9 +61,11 @@
 
   -
   -
+  -
 <!-- end list -->
 
   - [張文福](https://www.instagram.com/check_h.p/)的Instagram
+  -
   - [Raychan](https://www.instagram.com/ihwichan6/)的Instagram
   - [A.M](https://www.instagram.com/a_stru_m/)的Instagram
   - [尹熙錫](https://www.instagram.com/dilution_y/)的Instagram
@@ -78,3 +92,7 @@
 9.
 10.
 11.
+12.
+13.
+14.
+15.

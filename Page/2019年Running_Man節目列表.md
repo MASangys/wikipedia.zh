@@ -270,7 +270,7 @@
 <td><p><br />
 <small>（<br />
 ）</small></p></td>
-<td><p><span style=font-size:110%><strong>拆箱競賽</strong></span><br />
+<td><p><span style=font-size:110%><strong>Unboxing－拆箱競賽</strong></span><br />
 <strong><span style=color:#00CED1>在錫隊</strong><br />
 劉在錫、李光洙<br />
 <strong><span style="color:#EECC00">錫辰隊</strong><br />
@@ -339,7 +339,7 @@
 <td><p>446</p></td>
 <td><p>4月7日<small><br />
 （同上<br />
-及3月18日）</small></p></td>
+及18日）</small></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -390,15 +390,15 @@
 <td><p>448</p></td>
 <td><p>4月21日<small><br />
 （3月26日）</small></p></td>
-<td><p><a href="../Page/韓寶凜.md" title="wikilink">韓寶凜</a>、<a href="../Page/金惠允.md" title="wikilink">金惠允</a>、<br />
+<td><p><a href="../Page/韓寶凜.md" title="wikilink">韓寶凜</a>、<a href="https://zh.wikipedia.org/wiki/金惠奫" title="wikilink">金惠奫</a>、<br />
 <a href="../Page/率智.md" title="wikilink">率智</a>、<a href="../Page/哈妮.md" title="wikilink">哈妮</a>(<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>)、<br />
 <a href="https://zh.wikipedia.org/wiki/勝寛" title="wikilink">勝寛</a>、<a href="https://zh.wikipedia.org/wiki/珉奎" title="wikilink">珉奎</a>(<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>)</p></td>
 <td><p>韓國石雕藝術館<br />
 <small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="../Page/城北區_(首爾).md" title="wikilink">城北區</a>）</small></p></td>
 <td><p><span style="font-size:110%"><strong>實時搜索詞戰爭－熱搜1位競賽</strong></span><br />
-<strong><span style="color:#c0c0c0">金惠允隊</strong><br />
-金惠允、劉在錫、李光洙<br />
+<strong><span style="color:#c0c0c0">金惠奫隊</strong><br />
+金惠奫、劉在錫、李光洙<br />
 <strong><span style="color:#000000">EXID隊</strong><br />
 率智、哈妮、池錫辰、哈哈<br />
 <strong><span style="color:#00CED1">韓寶凜隊</strong><br />
@@ -406,13 +406,13 @@
 <strong><span style="color:#808080">Seventeen隊</strong><br />
 勝寛、珉奎、宋智孝、全昭旻</p></td>
 <td><p>隊伍所拍影片在Running Man官方SNS帳號上得到最多「點讚」</p></td>
-<td><p>金惠允隊<strong>勝出</strong><br />
-金惠允獲得R戒指一隻[11]</p></td>
+<td><p>金惠奫隊<strong>勝出</strong><br />
+金惠奫獲得R戒指一隻[11]</p></td>
 </tr>
 <tr class="even">
 <td><p>實時搜索詞獲得第一名</p></td>
 <td><p>韓寶凜隊<strong>勝出</strong><br />
-落敗的金惠允隊、EXID隊及Seventeen隊經遊戲抽選後由劉在錫及李光洙接受海盜船大懲罰[12]</p></td>
+落敗的金惠奫隊、EXID隊及Seventeen隊經遊戲抽選後由劉在錫及李光洙接受海盜船大懲罰[12]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -441,7 +441,7 @@
 <strong>間諜</strong><br />
 隱藏身份並擊敗劉姆斯龐德<br />
 <strong>任務隊</strong><br />
-尋找及打開保險箱並於10分鐘內不被劉姆斯龐德的水槍噴中</p></td>
+尋找及打開寫有自己名字的保險箱並於10分鐘內不被劉姆斯龐德的水槍噴中</p></td>
 <td><p>劉姆斯龐德及龐德女郎<strong>勝出</strong><br />
 劉在錫及李絮獲得純金R名譽卡片<br />
 李光洙須接受由申河均負責的「杖刑」大懲罰[13]</p></td>
@@ -604,7 +604,7 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 <strong>逃亡者隊（個人戰）</strong><br />
 劉在錫、池錫辰、金鍾國、宋智孝、李光洙、全昭旻、梁世燦、潤娥</p></td>
 <td><p><strong>獵人</strong><br />
-淘汰逃亡者並成功逃生<br />
+完成三項隱藏任務並成功逃生<br />
 <strong>逃亡者隊</strong><br />
 沒有被獵人淘汰並成功逃生</p></td>
 <td><p>劉在錫、池錫辰、哈哈、李光洙、梁世燦及曹政奭<strong>勝出</strong><br />
@@ -641,19 +641,19 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 <td><p>京畿道創意中心<br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/安山市.md" title="wikilink">安山市</a><br />
 <a href="https://zh.wikipedia.org/wiki/檀園區" title="wikilink">檀園區</a>）</small></p></td>
-<td><p><span style="font-size:110%"><strong>為甚麼不能吃</strong></span><br />
+<td><p><span style="font-size:110%"><strong>為甚麼不能吃競賽</strong></span><br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
 <td><p>三小時內在特别任務中獲勝</p></td>
 <td><p>哈哈<strong>勝出</strong><br />
 哈哈選擇與宋智孝一同享受三分鐘吃飯<br />
-其他成員經抽卡抽選後由池錫辰聯同早前已經接受裝扮懲罰的全昭旻一同接受在錄影第465集期間當嘉賓出演時進行裝扮懲罰[20]</p></td>
+其他成員經抽卡抽選後由池錫辰聯同早前須接受裝扮懲罰的全昭旻一同接受在錄影第465集期間當嘉賓出演時進行裝扮懲罰[20]</p></td>
 </tr>
 <tr class="even">
 <td><p>396</p></td>
 <td><p>463</p></td>
 <td><p>8月11日<small><br />
-（7月29日及30日）</small></p></td>
+（7月30日）</small></p></td>
 <td><p><a href="../Page/成東鎰.md" title="wikilink">成東鎰</a>、<a href="https://zh.wikipedia.org/wiki/裴晟佑" title="wikilink">裴晟佑</a>、<br />
 <a href="../Page/金慧峻.md" title="wikilink">金慧峻</a>、<a href="../Page/趙怡賢.md" title="wikilink">趙怡賢</a></p></td>
 <td><p><br />
@@ -898,8 +898,8 @@ Sunny | 劉在錫、池錫辰、金鐘國、宋智孝、李光洙、全昭旻、
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
 <td><p>不成為懲罰徽章最多</p></td>
-<td><p>劉在錫、金鐘國、HAHA、宋智孝、全昭旻及梁世燦<strong>勝出</strong><br />
-池錫辰及李光洙經抽選後由池錫辰前往零下攝氏17.5度的貨倉內接受搬運貨物大懲罰</p></td>
+<td><p>劉在錫、金鐘國、HAHA、宋智孝、李光洙、全昭旻及梁世燦<strong>勝出</strong><br />
+池錫辰經地點抽選後須前往零下攝氏17.5度的貨倉內接受搬運貨物個人體驗懲罰</p></td>
 </tr>
 <tr class="even">
 <td><p>402</p></td>
@@ -913,17 +913,22 @@ Sunny | 劉在錫、池錫辰、金鐘國、宋智孝、李光洙、全昭旻、
 <td><p>清道普羅旺斯<br />
 <small>（<a href="https://zh.wikipedia.org/wiki/慶尚北道" title="wikilink">慶尚北道</a><br />
 <a href="../Page/清道郡.md" title="wikilink">清道郡</a>）</small></p></td>
-<td><p><span style="font-size:110%"><strong>秘密代碼－秋天襲擊事件</strong></span><br />
-<span style=color:#967100><strong>褐隊</strong></span><br />
-劉在錫、李光洙、黃致列<br />
-<span style=color:#808080><strong>灰隊</strong></span><br />
-池錫辰、宋智孝、Tiffany<br />
-&lt;span style="color:#ffae42&gt;<strong>橙隊</strong></span><br />
-金鍾國、梁世燦、朴柔娜<br />
-<span style=color:#8fbc8f><strong>綠隊</strong></span><br />
-哈哈、全昭旻、美娜</p></td>
-<td></td>
-<td><p><strong>勝出</strong></p></td>
+<td><p><span style="font-size:110%"><strong>韓文節特輯－有感覺的人競賽</strong></span><br />
+<span style=color:#967100><strong>致列隊</strong></span><br />
+黃致列、劉在錫、李光洙<br />
+<span style=color:#808080><strong>Tiffany隊</strong></span><br />
+Tiffany、池錫辰、宋智孝<br />
+&lt;span style="color:#ffae42&gt;<strong>柔娜隊</strong></span><br />
+朴柔娜、金鍾國、梁世燦<br />
+<span style=color:#8fbc8f><strong>美娜隊</strong></span><br />
+美娜、哈哈、全昭旻</p></td>
+<td><p>獲得最多柿子徽章</p></td>
+<td><p><strong>團體戰</strong><br />
+美娜隊<strong>勝出</strong><br />
+<strong>個人戰</strong><br />
+全昭旻<strong>勝出</strong><br />
+獲得字體手寫製作權[25]<br />
+成為柿子徽章最少的Tiffany隊須接受把100個柿子削皮大懲罰</p></td>
 </tr>
 <tr class="odd">
 <td><p>403</p></td>
@@ -931,40 +936,218 @@ Sunny | 劉在錫、池錫辰、金鐘國、宋智孝、李光洙、全昭旻、
 <td><p>10月13日<small><br />
 （9月24日）</small></p></td>
 <td><p>無嘉賓</p></td>
-<td><p><br />
+<td><p>安養寺址館<br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/安養市.md" title="wikilink">安養市</a><br />
 ）</small></p></td>
-<td><p><span style="font-size:110%"></span><br />
-<span style=color:#FF0000><strong>紅隊</strong></span><br />
+<td><p><span style="font-size:110%"><strong>一觸即發的市中心追擊戰－尋找金鐘國競賽</strong></span><br />
+<span style=color:#FF0000><strong>逃亡者隊</strong></span><br />
 劉在錫、李光洙、梁世燦<br />
-<span style=color:#2200FF><strong>藍隊</strong></span><br />
+<span style=color:#2200FF><strong>追擊者隊</strong></span><br />
 池錫辰、金鐘國、哈哈、宋智孝、全昭旻</p></td>
-<td></td>
-<td><p><strong>勝出</strong></p></td>
+<td><p><strong>逃亡者隊</strong><br />
+尋找並認證三個有金鐘國的回憶的場所及避開追擊者隊的追捕<br />
+<strong>追擊者隊</strong><br />
+擊敗逃亡者隊</p></td>
+<td><p>追擊者隊<strong>勝出</strong><br />
+獲得300萬韓圜獎金，並由金鐘國分發獎金</p></td>
 </tr>
 <tr class="even">
 <td><p>404</p></td>
 <td><p>473</p></td>
 <td><p>10月20日<small><br />
 （9月30日）</small></p></td>
+<td><p>Studio Colline<br />
+<small>（<a href="../Page/首爾.md" title="wikilink">首爾</a>特別市<br />
+<a href="../Page/西大門區.md" title="wikilink">西大門區</a>）</small></p></td>
+<td><p><span style="font-size:110%"><strong>沒有出口的房間競賽</strong></span><br />
+<strong>感食初男</strong><br />
+劉在錫<br />
+<strong>人類隊（個人戰）</strong><br />
+池錫辰、金鐘國、哈哈、宋智孝、李光洙、全昭旻、梁世燦</p></td>
+<td><p><strong>感食初男</strong><br />
+隱藏身份並令人類隊全數被感染或無法於6小時內執行計劃表上所有計劃<br />
+<strong>人類隊</strong><br />
+6小時內執行計劃表上所有計劃並沒有被感染的情況下擊敗感食初男</p></td>
+<td><p>金鐘國、哈哈<strong>勝出</strong><br />
+獲得金戒指<br />
+落敗的劉在錫及沒有被金鐘國和哈哈選擇的宋智孝、全昭旻及梁世燦的懲罰將於第475集公開進行[26][27][28]</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>405</p></td>
+<td><p>474</p></td>
+<td><p>10月27日<small><br />
+（10月14日）</small></p></td>
+<td><p><a href="../Page/黃寶羅.md" title="wikilink">黃寶羅</a>、</p></td>
+<td><p>Chowon Garden<br />
+<small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
+）</small></p></td>
+<td><p><span style="font-size:110%"><strong>眼睜睜被耍的小偷競賽</strong></span><br />
+<strong>金條小偷</strong><br />
+金鐘國、梁世燦<br />
+<strong>任務隊</strong><br />
+劉在錫、池錫辰、哈哈、宋智孝、李光洙、全昭旻、黃寶羅、高旼視</p></td>
+<td><p><strong>金條小偷</strong><br />
+隱藏身份並偷去合共10個金條或以上<br />
+<strong>任務隊</strong><br />
+舉報金條小偷並擁有金條數目最多</p></td>
+<td><p>任務隊<strong>勝出</strong><br />
+擁有金條數目最多的黃寶羅獲得"R"戒指<br />
+成為金條數目最少兼無法舉報所有小偷的高旼視須與落敗的金鐘國、梁世燦一同接受水炸彈懲罰</p></td>
+</tr>
+<tr class="even">
+<td><p>406</p></td>
+<td><p>475</p></td>
+<td><p>11月3日<small><br />
+（10月15日）</small></p></td>
+<td><p>、<a href="https://zh.wikipedia.org/wiki/朴智賢" title="wikilink">朴智賢</a></p></td>
+<td><p><br />
+<small>（<a href="../Page/首爾.md" title="wikilink">首爾</a>特別市<br />
+<a href="../Page/江南區_(首爾).md" title="wikilink">江南區</a>）</small></p></td>
+<td><p><span style="font-size:110%"><strong>一起吃飯吧競賽</strong></span><br />
+<strong>餓死鬼</strong><br />
+全昭旻、洪賢姬<br />
+<strong>任務隊</strong><br />
+劉在錫、池錫辰、金鐘國、哈哈、宋智孝、李光洙、梁世燦、朴智賢</p></td>
+<td><p><strong>餓死鬼</strong><br />
+隱藏身份<br />
+<strong>任務隊</strong><br />
+舉報餓死鬼</p></td>
+<td><p>全昭旻、洪賢姬<strong>勝出</strong><br />
+落敗的任務隊經餓死鬼抽選後由金鐘國、李光洙前往洗車場接受洗車懲罰[29]</p></td>
+</tr>
+<tr class="odd">
+<td><p>407</p></td>
+<td><p>476</p></td>
+<td><p>11月10日<small><br />
+（10月28日）</small></p></td>
+<td><p><a href="../Page/李國主.md" title="wikilink">李國主</a>、<a href="../Page/姜漢娜.md" title="wikilink">姜漢娜</a>、<a href="../Page/金泫雅.md" title="wikilink">泫雅</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/金施賢" title="wikilink">施賢</a>(<a href="../Page/EVERGLOW.md" title="wikilink">EVERGLOW</a>)</p></td>
+<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
+<small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
+<td><p><span style="font-size:110%"><strong>神秘的動物農場競賽</strong></span><br />
+<span style="color:#f697b4"><strong>豬：劉在錫、泫雅</span><br />
+<span style=color:#c0c0c0>狐狸：池錫辰、姜漢娜</span><br />
+<span style=color:#00008B>蛇：金鐘國、施賢</span><br />
+<span style=color:#808080>兔子：哈哈、全昭旻</span><br />
+<span style=color:#9400D3>熊：宋智孝、梁世燦</span><br />
+<span style=color:#000000>老虎：李光洙、李國主</strong></span></p></td>
+<td><p><strong>禁止動物（人類）</strong><br />
+隱藏身份並完成隱藏任務<br />
+<strong>動物隊</strong><br />
+擊敗禁止動物</p></td>
+<td><p>動物隊<strong>勝出</strong><br />
+落敗的宋智孝、姜漢娜須接受水炸彈懲罰[30]</p></td>
+</tr>
+<tr class="even">
+<td><p>477</p></td>
+<td><p>11月17日<small><br />
+（同上<br />
+及11月11日）</small></p></td>
+<td><p><strong>最終任務</strong></span><br />
+<strong>禁止動物（人類）</strong><br />
+宋智孝、姜漢娜<br />
+<strong>動物隊</strong><br />
+劉在錫、池錫辰、金鐘國、哈哈、李光洙、全昭旻、梁世燦、李國主、泫雅、施賢</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>408</p></td>
+<td><p><a href="../Page/許卿煥.md" title="wikilink">許卿煥</a>、<a href="../Page/徐恩秀.md" title="wikilink">徐恩秀</a>、<br />
+<a href="../Page/朴珍榮.md" title="wikilink">珍榮</a>(<a href="../Page/GOT7.md" title="wikilink">GOT7</a>)、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS放送中心</a><br />
+<small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
+<a href="https://zh.wikipedia.org/wiki/陽川區" title="wikilink">陽川區</a>）</small></p></td>
+<td><p><span style=font-size:110%><strong>電台怪談－傳說的「企劃-方案」競賽</strong></span><br />
+<strong><span style="color:#EECC00">新人PD隊</strong><br />
+劉在錫、池錫辰、梁世燦、徐恩秀<br />
+<strong><span style="color:#FF1493">作家隊</strong><br />
+金鐘國、全昭旻、珍榮、崔莉<br />
+<strong><span style=color:#0000FF>PD隊</strong><br />
+哈哈、宋智孝、李光洙、許卿煥</p></td>
+<td><p><strong>咳咳、助演組及咯噔</strong><br />
+隱藏身份並擊敗主要PD及最先獲得傳說的企劃方案<br />
+<strong>主要PD</strong><br />
+隱藏身份並擊敗咳咳、助演組和咯噔<br />
+<strong>跑男製作組</strong><br />
+在咳咳和咯噔最先獲得傳說的企劃方案之前淘汰咳咳、助演組及咯噔並不淘汰主要PD</p></td>
+<td><p>主要PD及跑男製作組<strong>勝出</strong><br />
+落敗的金鐘國、徐恩秀須接受奶油炮彈懲罰[31]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>478</p></td>
+<td><p>11月24日<small><br />
+（11月11日）</small></p></td>
+<td><p><strong>最終任務：電台怪談－傳說的「企劃-方案」2</strong><br />
+<strong>咳咳及助演組 | 咯噔</strong><br />
+徐恩秀 | 金鐘國<br />
+<strong>主要PD | 跑男製作組</strong><br />
+李光洙 | 劉在錫、池錫辰、哈哈、宋智孝、全昭旻、梁世燦、許卿煥、珍榮、崔莉</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>409</p></td>
+<td><p>479</p></td>
+<td><p>12月1日<small><br />
+（11月18日）</small></p></td>
+<td><p>無嘉賓</p></td>
+<td><p>哈利波特咖啡廳<br />
+<small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
+<a href="../Page/麻浦區.md" title="wikilink">麻浦區</a>）</small></p></td>
+<td><p><span style="font-size:110%"><strong>與不信任同行－全員通過競賽</strong></span><br />
+<strong>團體戰</strong></p></td>
+<td><p><strong>團體戰</strong><br />
+全員在不超過3次失敗下通過所有任務<br />
+<strong>個人戰</strong><br />
+擁有糖果數目最多</p></td>
+<td><p><strong>團體戰</strong><br />
+<strong>任務失敗</strong><br />
+<strong>個人戰</strong><br />
+梁世燦<strong>勝出</strong><br />
+成為糖果數目最少的李光洙及全昭旻選擇與金鐘國一同化妝成勇度進行售賣100個鯽魚餅大懲罰</p></td>
+</tr>
+<tr class="even">
+<td><p>410</p></td>
+<td><p>480</p></td>
+<td><p>12月8日<small><br />
+（11月25日）</small></p></td>
+<td><p><a href="../Page/李姬珍.md" title="wikilink">李姬珍</a>、<br />
+<a href="../Page/柳炳宰.md" title="wikilink">柳炳宰</a>、<a href="../Page/姜漢娜.md" title="wikilink">姜漢娜</a>、<br />
+<a href="../Page/YooA.md" title="wikilink">YooA</a>(<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)</p></td>
+<td><p><br />
+<small>（<br />
+）</small></p></td>
+<td><p><span style="font-size:110%"><strong>RM招商引資計劃</strong></span><br />
+</p></td>
+<td></td>
+<td><p><strong>勝出</strong><br />
+</p></td>
+</tr>
+<tr class="odd">
+<td><p>411</p></td>
+<td><p>481</p></td>
+<td><p>12月15日<small><br />
+（12月2日）</small></p></td>
+<td><p><a href="../Page/萊恩·雷諾斯.md" title="wikilink">萊恩·雷諾斯</a>、<br />
+<a href="../Page/梅蘭妮·蘿倫.md" title="wikilink">梅蘭妮·蘿倫</a>、</p></td>
 <td><p><br />
 <small>（<br />
 ）</small></p></td>
 <td><p><span style="font-size:110%"></span><br />
 </p></td>
 <td></td>
-<td><p><strong>勝出</strong></p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><strong>勝出</strong>[32]</p></td>
 </tr>
 </tbody>
 </table>
@@ -979,9 +1162,9 @@ Sunny | 劉在錫、池錫辰、金鐘國、宋智孝、李光洙、全昭旻、
 <th><p>集數</p></th>
 <th><p>播放日期</p></th>
 <th><p>TNmS全國<br />
-收視率[25]</p></th>
+收視率[33]</p></th>
 <th><p>AGB全國<br />
-收視率[26]</p></th>
+收視率[34]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1019,7 +1202,7 @@ Sunny | 劉在錫、池錫辰、金鐘國、宋智孝、李光洙、全昭旻、
 <td><p>437</p></td>
 <td><p>2月3日</p></td>
 <td><p>7.1%</p></td>
-<td></td>
+<td><p>4.0%</p></td>
 </tr>
 <tr class="odd">
 <td><p>438</p></td>
@@ -1037,7 +1220,7 @@ Sunny | 劉在錫、池錫辰、金鐘國、宋智孝、李光洙、全昭旻、
 <td><p>440</p></td>
 <td><p>2月24日</p></td>
 <td><p>7.1%</p></td>
-<td></td>
+<td><p>4.0%</p></td>
 </tr>
 <tr class="even">
 <td><p>441</p></td>
@@ -1168,7 +1351,7 @@ Sunny | 劉在錫、池錫辰、金鐘國、宋智孝、李光洙、全昭旻、
 <tr class="odd">
 <td><p>461</p></td>
 <td><p>7月28日</p></td>
-<td><p>rowspan=23 </p></td>
+<td><p>rowspan=14 </p></td>
 <td><p>rowspan=4 </p></td>
 </tr>
 <tr class="even">
@@ -1228,56 +1411,56 @@ Sunny | 劉在錫、池錫辰、金鐘國、宋智孝、李光洙、全昭旻、
 <tr class="odd">
 <td><p>471</p></td>
 <td><p>10月6日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>7.3%</p></td>
+<td><p>4.9%</p></td>
 </tr>
 <tr class="even">
 <td><p>472</p></td>
 <td><p>10月13日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>7.4%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>473</p></td>
 <td><p>10月20日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>6.8%</p></td>
+<td><p>4.1%</p></td>
 </tr>
 <tr class="even">
 <td><p>474</p></td>
 <td><p>10月27日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>7.8%</p></td>
+<td><p>4.6%</p></td>
 </tr>
 <tr class="odd">
 <td><p>475</p></td>
 <td><p>11月3日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.9%</p></td>
+<td><p>7.4%</p></td>
 </tr>
 <tr class="even">
 <td><p>476</p></td>
 <td><p>11月10日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>rowspan=8 </p></td>
+<td><p>8.2%</p></td>
 </tr>
 <tr class="odd">
 <td><p>477</p></td>
 <td><p>11月17日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>7.9%</p></td>
+<td><p>5.1%</p></td>
 </tr>
 <tr class="even">
 <td><p>478</p></td>
 <td><p>11月24日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td></td>
+<td><p>5.1%</p></td>
 </tr>
 <tr class="odd">
 <td><p>479</p></td>
 <td><p>12月1日</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.0%</p></td>
 </tr>
 <tr class="even">
 <td><p>480</p></td>
@@ -1325,7 +1508,7 @@ Sunny | 劉在錫、池錫辰、金鐘國、宋智孝、李光洙、全昭旻、
 
 1.  上一集落敗者池錫辰、李光洙須於錄影前一小時穿上豬年衣服在錄影地點派發所有小豬玩偶。
 2.  [Apink](../Page/Apink.md "wikilink")特別出演。
-3.  、、、李冠熙、、、[李昇勳](../Page/李昇勳.md "wikilink")、[姜昇潤](../Page/姜昇潤.md "wikilink")（[WINNER](../Page/WINNER.md "wikilink")）、[請夏](https://zh.wikipedia.org/wiki/請夏 "wikilink")、[度延](../Page/金度延.md "wikilink")（[Weki Meki](../Page/Weki_Meki.md "wikilink")）特別出演。
+3.  、、、、、、[李昇勳](../Page/李昇勳.md "wikilink")、[姜昇潤](../Page/姜昇潤.md "wikilink")（[WINNER](../Page/WINNER.md "wikilink")）、[請夏](https://zh.wikipedia.org/wiki/請夏 "wikilink")、[度延](../Page/金度延.md "wikilink")（[Weki Meki](../Page/Weki_Meki.md "wikilink")）特別出演。
 4.  宣傳電影《[-{zh-hk:炸雞特攻隊;zh-cn:极限职业;zh-tw:雞不可失}-](../Page/雞不可失.md "wikilink")》。
 5.  [洪真英](../Page/洪真英.md "wikilink")特別出演。
 6.  即6264張日本軍閥監視對象任務卡片
@@ -1344,8 +1527,16 @@ Sunny | 劉在錫、池錫辰、金鐘國、宋智孝、李光洙、全昭旻、
 19. 宣傳電影《[-{zh-hk:EXIT：極限逃生;zh-tw:極限逃生;zh-cn:EXIT}-](../Page/EXIT_\(電影\).md "wikilink")》。
 20. 、選手崔秀仁特別出演。
 21. 宣傳電影《變身》。
-22. 池錫辰及全昭旻分別因為於第462集中落敗及於第452集以當男嘉賓出演時以最奇怪的妝容進行開場3次作為抵押而須接受裝扮懲罰。
+22. 池錫辰及全昭旻分別因為於第462集中落敗及於第452集以當男嘉賓出演時以最奇怪的妝容進行開場3次作為抵押而須接受裝扮懲罰，分別飾演十殿閻羅及比利木偶。
 23. 宣傳電影《》。
 24. 、[Skull](../Page/Skull_\(歌手\).md "wikilink")、[ITZY](../Page/ITZY.md "wikilink")、[尹未來](../Page/尹未來.md "wikilink")、[洪真英](../Page/洪真英.md "wikilink")特別出演。
-25. [Naver: TNmS 收視數據表](https://m.search.naver.com/search.naver?sm=mtb_hty.top&where=m&query=TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&oquery=05%EC%9B%9413%EC%9D%BC++TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&tqi=TYBhglpVuowssuf%2BZewsssssscC-394882)
-26. [AGB Nielsen Media Research 收視數據表](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=1_1&area=00)
+25. 字體[下載](http://image.board.sbs.co.kr/2019/10/06/Syi1570352276011.ttf)
+26. 懲罰結果將於第475集公開
+27. 概念來自電影《[-{zh-hk:JOKER小丑;zh-cn:小丑;zh-tw:小丑}-](../Page/小丑_\(電影\).md "wikilink")》。
+28. 特別出演。
+29. 宋智孝、全昭旻及梁世燦因為於第473集沒有被金鐘國和哈哈選擇，因此須與當時落敗的劉在錫一同接受裝扮懲罰，分別飾演憤怒鳥、迷你兵團、烏蘇拉及羊駝。
+30. 於第476集聲音出演，[Onda](https://zh.wikipedia.org/wiki/曺世林 "wikilink")、[怡人](../Page/王怡人.md "wikilink")([EVERGLOW](../Page/EVERGLOW.md "wikilink"))於第477集特別出演。
+31. [朴正民](../Page/朴正民.md "wikilink")、及驚喜出演。
+32. 宣傳電影《[鬼影特攻：以暴制暴](../Page/鬼影特攻：以暴制暴.md "wikilink")》。
+33. [Naver: TNmS 收視數據表](https://m.search.naver.com/search.naver?sm=mtb_hty.top&where=m&query=TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&oquery=05%EC%9B%9413%EC%9D%BC++TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&tqi=TYBhglpVuowssuf%2BZewsssssscC-394882)
+34. [AGB Nielsen Media Research 收視數據表](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=1_1&area=00)

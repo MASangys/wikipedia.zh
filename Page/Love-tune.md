@@ -142,21 +142,15 @@
 [Category:小傑尼斯團體](https://zh.wikipedia.org/wiki/Category:小傑尼斯團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")
 
 1.  週刊『TVガイド』（東京ニュース通信社）2016年4月8日号、「ジャニーズJr. 春だから…いろいろ貼るよ♡PHOTOBOOK」114頁より
-
 2.
 3.  『Myojo』（[集英社](../Page/集英社.md "wikilink")）2016年6月号、「Love-tune　ガシガシ踊れるバンド系ユニット誕生★」65頁から67頁より
-
 4.
 5.
 6.  『女性セブン』（[小学館](https://zh.wikipedia.org/wiki/小学館 "wikilink")）2016年4月7日号、「ジャニーズJr.のザワつく7人が「ぶらり東京散歩」」195頁より一部引用
-
 7.
-
 8.
 9.
-
 10. 『TVガイド増刊（TVガイドPLUS）』（東京ニュース通信社）VOL.26 2017 SPRING ISSUE、90頁から93頁より
-
 11.
 12.
 13.
@@ -164,19 +158,12 @@
 15.
 16.
 17.
-
 18.
 19.
-
 20.
-
 21.
 22.
-
 23.
-
 24.
-
 25.
-
 26.

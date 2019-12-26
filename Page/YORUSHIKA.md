@@ -1,4 +1,4 @@
-**Yorushika**（中文：只有夜晚/夜鹿 日語：ヨルシカ）。由一男一女組成的[日本搖滾樂隊](https://zh.wikipedia.org/wiki/日本搖滾 "wikilink")。 2017年建成，樂隊出道時所屬的音樂廠牌為[Dwrango](../Page/多玩國.md "wikilink") 旗下的 U\&R records。2019年6月 14日以單曲「《心上破了洞》（『心に穴が空いた』）」在[日本環球音樂旗下亮相](https://zh.wikipedia.org/wiki/日本環球音樂 "wikilink")。
+**Yorushika**（中文：只有夜晚/夜鹿 日語：ヨルシカ）。由一男一女組成的[日本搖滾樂隊](https://zh.wikipedia.org/wiki/日本搖滾 "wikilink")。 2017年建成，樂隊出道時所屬的音樂廠牌為[Dwango](../Page/多玩國.md "wikilink") 旗下的 U\&R records。2019年6月 14日以單曲「《心上破了洞》（『心に穴が空いた』）」在[日本環球音樂旗下亮相](https://zh.wikipedia.org/wiki/日本環球音樂 "wikilink")。
 
 ## 簡介
 

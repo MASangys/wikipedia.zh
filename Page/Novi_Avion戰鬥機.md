@@ -37,29 +37,20 @@ Novi Avion 的一項關鍵技術是使用[線傳操控系統](../Page/电传操�
 [Category:战斗机](https://zh.wikipedia.org/wiki/Category:战斗机 "wikilink") [Category:已取消研發飛機](https://zh.wikipedia.org/wiki/Category:已取消研發飛機 "wikilink") [Category:南斯拉夫軍事](https://zh.wikipedia.org/wiki/Category:南斯拉夫軍事 "wikilink") [Category:南斯拉夫社會主義聯邦共合國軍事](https://zh.wikipedia.org/wiki/Category:南斯拉夫社會主義聯邦共合國軍事 "wikilink") [Category:南斯拉夫武器](https://zh.wikipedia.org/wiki/Category:南斯拉夫武器 "wikilink") [Category:單發噴射機](https://zh.wikipedia.org/wiki/Category:單發噴射機 "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.  ["Jugoslav Fulcrums Continue."](https://www.flightglobal.com/pdfarchive/view/1990/1990%20-%200843.html) *Flight International*, 27 March 1990. p. 9.
-
 6.  跨界軍事 ["Fighter engines compete."](https://kknews.cc/military/m6knk5z.html) 最後的悲歌：南斯拉夫試圖打造自己的戰鬥機——Novi Avion項目
-
 7.
 8.
 9.
 10.
 11. Warwick, Graham. ["Fighter engines compete."](https://www.flightglobal.com/pdfarchive/view/1987/1987%20-%201276.html) *Flight International*, 25 July 1987. p. 26.
-
 12.
 13. ["Partners sought for Novi Avion."](https://www.flightglobal.com/pdfarchive/view/1990/1990%20-%200981.html) *Flight International*, 10 April 1990. p. 25.
-
 14. ["Homegrown hopes."](https://www.flightglobal.com/pdfarchive/view/1990/1990%20-%200959.html) *Flight International*, 10 April 1990. p. 3.
-
 15. ["Cash dearth halts Novi Avion fighter."](https://www.flightglobal.com/pdfarchive/view/1991/1991%20-%201739.html) *Flight International*, 2 July 1991. p. 17.
-
 16. ["Combat Aircraft Directory."](https://www.flightglobal.com/pdfarchive/view/1994/1994%20-%201668.html) *Flight International*, 19 July 1994. p. 42.
-
 17. ["Dassault in Jugoslav fighter design deal."](https://www.flightglobal.com/pdfarchive/view/1990/1990%20-%200612.html) *Flight International*, 13 March 1990. p. 16.
-
 18. 跨界軍事 ["Fighter engines compete."](https://kknews.cc/military/m6knk5z.html) 最後的悲歌：南斯拉夫試圖打造自己的戰鬥機——Novi Avion項目

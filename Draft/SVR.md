@@ -6,39 +6,39 @@
 
 ## 醫學
 
-  - – in physiology, the resistance impeding blood flow throughout the body
+  - （Systemic vascular resistance）：在生理學上，為阻礙全身血液流動的阻力
 
-  - [Sustained viral response](../Page/丙型肝炎.md "wikilink") – in infectious disease
+  - [持續病毒反應](../Page/丙型肝炎.md "wikilink")（Sustained viral response）：C型肝炎在治療學上的名詞
 
-  - Surgical ventricular reconstruction – in cardiothoracic surgery
+  - 手術心室重建（Surgical ventricular reconstruction）：心臟胸腔外科術式
 
 ## 人
 
-  - [Sergei Vasilievich Rachmaninoff](../Page/谢尔盖·瓦西里耶维奇·拉赫玛尼诺夫.md "wikilink"), Russian composer
+  - [謝爾蓋·瓦西里耶維奇·拉赫曼尼諾夫](../Page/谢尔盖·瓦西里耶维奇·拉赫玛尼诺夫.md "wikilink")（Sergei Rachmaninoff），俄羅斯作曲家
 
-  - , Indian cinema actor
+  - ， 印度電影演員
 
 ## 金融
 
-  - , UK term for each lender's (nominally) standard mortgage lending rate
+  - （Standard variable rate），英國訂定的條款，給每個貸款人的標準抵押貸款利率。
 
-  - , sometimes referred to as the Tartan tax
+  - （Scottish variable rate），又稱為格子稅。
 
-  - Site value rating, another name for [land value tax](../Page/地價稅.md "wikilink").
+  - 地價等級（Site value rating）, [地價稅](../Page/地價稅.md "wikilink")的別稱。
 
 ## 技術
 
-  - , a videocassette technology by Grundig, based upon the Philips Video Cassette Recording format
+  - （Super Video Recording）, Grundig的錄像帶技術，一種基於飛利浦錄像帶錄製格式
 
-  - [System V Release](../Page/UNIX_System_V.md "wikilink"), an early version of the operating system [UNIX](../Page/UNIX.md "wikilink")
+  - [System V Release](../Page/UNIX_System_V.md "wikilink")，[UNIX](../Page/UNIX.md "wikilink")作業系統的一種早期版本
 
-  - An abbreviation for [Server](../Page/服务器.md "wikilink")
+  - [伺服器](../Page/服务器.md "wikilink")（Server）的縮寫
 
-  - , the art of taking subvocalization and converting the detected results to a digital text-based output
+  - （Subvocal recognition）， 進行語音翻譯並將檢測到的結果轉換為數據輸出
 
-  - [Supply voltage rejection](https://zh.wikipedia.org/wiki/Supply_voltage_rejection "wikilink"), the ability for [voltage regulators](../Page/直流-直流轉換器.md "wikilink") to counter fast input changes
+  - [轉換電壓](https://zh.wikipedia.org/wiki/Supply_voltage_rejection "wikilink") （Supply voltage rejection）， [直流變壓器穩定電壓快速變化的能力](../Page/直流-直流轉換器.md "wikilink")
 
-  - [Support vector regression](../Page/支持向量机.md "wikilink"), a method for performing [nonlinear regression](../Page/非线性回归.md "wikilink")
+  - [支援向量機](../Page/支持向量机.md "wikilink")，一種執行 [非線性回歸的方法](../Page/非线性回归.md "wikilink")
 
 ## 交通運輸
 
@@ -48,9 +48,9 @@
 
   - A former city bus company in Reykjavík, now merged into [Strætó bs](../Page/Strætó_BS.md "wikilink")
 
-  - [Svay Rieng Airport](https://zh.wikipedia.org/wiki/Svay_Rieng_Airport "wikilink") in [Cambodia](../Page/柬埔寨.md "wikilink") ([IATA code](https://zh.wikipedia.org/wiki/国际航空运输协会机场代码 "wikilink") SVR)
+  - [Svay Rieng Airport](https://zh.wikipedia.org/wiki/Svay_Rieng_Airport "wikilink") in [Cambodia](../Page/柬埔寨.md "wikilink") （[IATA code](https://zh.wikipedia.org/wiki/国际航空运输协会机场代码 "wikilink") SVR）
 
-  - in [Greenland](../Page/格陵兰.md "wikilink") ([IATA code](https://zh.wikipedia.org/wiki/国际航空运输协会机场代码 "wikilink") SVR)
+  - in [Greenland](../Page/格陵兰.md "wikilink") （[IATA code](https://zh.wikipedia.org/wiki/国际航空运输协会机场代码 "wikilink") SVR）
 
 ## 其他
 

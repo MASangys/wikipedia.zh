@@ -37,27 +37,20 @@ Monsoon是Ethical Trading Initiative (道德貿易聯盟) 的企業成員。\[13
 [Category:英國服裝公司](https://zh.wikipedia.org/wiki/Category:英國服裝公司 "wikilink") [Category:服裝零售商](https://zh.wikipedia.org/wiki/Category:服裝零售商 "wikilink")
 
 1.  [Company Details: 01098034, Monsoon Accessorize Limited](http://wck2.companieshouse.gov.uk/). Companies House. Accessed January 2015. NB: either the company name or the company number must be manually inserted in the relevant search field.
-
 2.
 3.
-
 4.
 5.
 6.
 7.
 8.
 9.
-
 10.
-
 11.
 12.
 13.
 14.
 15.
-
 16.
-
 17.
-
 18.

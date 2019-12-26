@@ -15,9 +15,6 @@
 [Category:矽谷公司](https://zh.wikipedia.org/wiki/Category:矽谷公司 "wikilink") [Category:美國科技公司](https://zh.wikipedia.org/wiki/Category:美國科技公司 "wikilink") [Category:股市術語](https://zh.wikipedia.org/wiki/Category:股市術語 "wikilink") [Category:商業術語](https://zh.wikipedia.org/wiki/Category:商業術語 "wikilink") [Category:五大](https://zh.wikipedia.org/wiki/Category:五大 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

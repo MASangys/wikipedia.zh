@@ -27,15 +27,10 @@ Rozee.pk有[英语](../Page/英语.md "wikilink")、[乌尔都语](../Page/乌�
 [Category:2007年建立的网站](https://zh.wikipedia.org/wiki/Category:2007年建立的网站 "wikilink") [Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink") [Category:巴基斯坦公司](https://zh.wikipedia.org/wiki/Category:巴基斯坦公司 "wikilink") [Category:招聘](https://zh.wikipedia.org/wiki/Category:招聘 "wikilink") [Category:2007年巴基斯坦](https://zh.wikipedia.org/wiki/Category:2007年巴基斯坦 "wikilink") [Category:就业网站](https://zh.wikipedia.org/wiki/Category:就业网站 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink") [Category:巴基斯坦网站](https://zh.wikipedia.org/wiki/Category:巴基斯坦网站 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.

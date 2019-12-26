@@ -20,7 +20,19 @@
 
 <!-- end list -->
 
-  - [PRODUCE 48](../Page/PRODUCE_48.md "wikilink") : I AM (概念評價曲)
+  - [EXO](../Page/EXO.md "wikilink")：Ko Ko Bop
+
+<!-- end list -->
+
+  - [宣美](https://zh.wikipedia.org/wiki/宣美 "wikilink")：Gashina
+
+<!-- end list -->
+
+  - [PRODUCE 48](../Page/PRODUCE_48.md "wikilink")：I AM (概念評價曲)
+
+<!-- end list -->
+
+  - [朴孝敏](../Page/朴孝敏.md "wikilink")：Allure
 
 ### 改編
 

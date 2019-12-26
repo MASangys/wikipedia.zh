@@ -22,6 +22,7 @@
 ## 外部連結
 
   - [株式會社Lumica 官方網站](https://www.lumica.co.jp/)
+  - [Lumica 中文官方網站](http://www.lumica.com.cn/)
 
 [Category:日本化學工業公司](https://zh.wikipedia.org/wiki/Category:日本化學工業公司 "wikilink") [Category:福岡縣公司](https://zh.wikipedia.org/wiki/Category:福岡縣公司 "wikilink")
 

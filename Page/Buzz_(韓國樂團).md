@@ -18,30 +18,35 @@
 <td></td>
 <td><p>김예준</p></td>
 <td><p><br />
+B型<br />
 <a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>윤우현</p></td>
 <td><p><br />
+B型<br />
 <a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>신준기</p></td>
 <td><p><br />
+O型<br />
 <a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>손성희</p></td>
 <td><p><br />
+A型<br />
 <a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/閔庚勳.md" title="wikilink">閔庚勳</a></p></td>
 <td><p>민경훈</p></td>
 <td><p><br />
+A型<br />
 <a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a></p></td>
 </tr>
 </tbody>
@@ -51,7 +56,7 @@
 
 ### 樂隊的形成
 
-Buzz的歷史可以追溯到1998年。結他手孫星熙從中學開始並開始演奏吉他，並且希望成立一個樂隊，並邀請在鄰校就讀的金藝浚擔任樂團的鼓手。之後的兩年，樂團依然只有吉他手和鼓手，直到他們打聽到了一家AIWON娛樂，孫星熙和金藝浚決定與AIWON娛樂合作，並在該公司遇到了尹宇鉉，最後加入了AIWON娛樂，之後加入了在地下表演的辛駿基和박정훈。
+Buzz的歷史可以追溯到1998年。結他手孫星熙從中學開始並開始演奏吉他，並且希望成立一個樂隊，並邀請在鄰校就讀的金藝浚擔任樂團的鼓手。之後的兩年，樂團依然只有吉他手和鼓手，直到他們打聽到了一家AIWON娛樂，孫星熙和金藝浚決定與AIWON娛樂合作，並在該公司遇到了尹宇鉉，最後加入了A1娛樂，之後加入了在地下表演的辛駿基和박정훈。
 Buzz樂隊在2000年成立。這搖滾樂隊並不是由經紀人公司組合而成，而是由個成員們自己創建的一個音樂平台，以供他們發展各自的音樂夢。
 2002年主唱박정훈離開，透過相關人員介紹，加入了主唱[閔庚勳](../Page/閔庚勳.md "wikilink")。
 

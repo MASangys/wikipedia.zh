@@ -45,11 +45,8 @@
 [Category:京王電鐵](https://zh.wikipedia.org/wiki/Category:京王電鐵 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
-
 6.

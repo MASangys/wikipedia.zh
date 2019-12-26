@@ -893,45 +893,25 @@ Hell like Heaven trip</strong></p></td>
 [Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
 
 1.
-
 2.
 3.  [the peggies・北澤ゆうほがバンド結成から3人のキャラ、今後の野望まで奔放トーク](http://spice.eplus.jp/articles/62084)
-
 4.  [【インタビュー】the peggies、1stアルバム完成「知る人ぞ知るバンドにはなりたくない」](https://www.barks.jp/news/?id=1000110158)
-
 5.  [ガールズ・バンド「the peggies」の自主企画にhy4_4yh、誰でもエスパー出演](http://ototoy.jp/news/75067)
-
 6.
-
 7.  [【対談】沖ちづる×北澤ゆうほ(the peggies)、「十代の最後に残しておきたい」](https://www.barks.jp/news/?id=1000121771)
-
 8.  [新ガールズバンドthe peggies 10代女子\!\!初全国流通盤\!\!](http://ripy-jm.com/news/pickup363_the_peggies.html)
-
 9.  [the peggies(2015.10月号掲載 DI:GA interview)](http://www.diskgarage.com/feature/interview/1510thepeggies/)
-
 10. [the peggies、初のシングルリリース！平均年齢21才、大いなる可能性を秘めた彼女たち三人にインタビュー！](http://digaonline.jp/interview/13475)
-
 11. [大阪二日間ありがとうございました！！…](https://twitter.com/mega_makiko/status/863742473796857856)
-
 12. ["胸キュン"オルタナ・ポップ・バンド the peggies、5/10にメジャー・デビュー・シングル『ドリーミージャーニー』リリース決定。レコ発ツアー開催も](http://skream.jp/news/2017/03/the-peggies_dreamy-journey_release.php)
-
 13. [ナルト新世代「BORUTO」テーマソングはKANA-BOONとthe peggies](http://natalie.mu/music/news/224302)
-
 14. [the peggies、新作「BABY\!」発売＆「ダブダブdeベビベビ」開催決定](http://natalie.mu/music/news/237229)
-
 15. [文具店の試し書きで作った歌「Ｉ 御中」完成！ペギーズ北澤「作詞の自由度が広がった」](https://www.sponichi.co.jp/entertainment/news/2017/11/15/kiji/20171114s00041000355000c.html)スポニチアネックス 2017年11月15日
-
 16. [the peggiesが1月にミニアルバム発売、2月から全国10カ所回るツアー](http://natalie.mu/music/news/257924)音楽ナタリー 2017年11月22日
-
 17. [the peggies、6月より全国ツアー開催決定。4/23に大貫みく（Dr）女子大卒業記念ワンマンも](https://skream.jp/news/2018/03/the_peggies_tour_oneman_live.php)skream\! 2018年3月26日
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
 23.

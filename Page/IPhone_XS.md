@@ -1,5 +1,5 @@
 {{Infobox mobile phone | name = iPhone X
-iPhone X Max | codename = | logo = IPhone XS Wordmark.svg | logo_size = | image = IPhone XS Max Gold.svg | image_size = | alt = | caption = 金色iPhone X Max的正面 | brand = [蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink") | manufacturer = | slogan = **英語**：Welcome to the big screens. **中文（香港）**：歡迎登上大螢幕。**中文（台灣）**：大螢幕上見。**中文（中國）**：大屏幕上见。 | serieslabel =  | series = | modelnumber = | networks = [GSM](../Page/GSM.md "wikilink")、[CDMA2000](../Page/CDMA2000.md "wikilink")、[EV-DO](https://zh.wikipedia.org/wiki/EV-DO "wikilink")、[HSPA+](../Page/演进式HSPA.md "wikilink")、[LTE](https://zh.wikipedia.org/wiki/LTE_\(消歧義\) "wikilink")、[LTE Advanced](https://zh.wikipedia.org/wiki/LTE_Advanced "wikilink") | released =  | available =  | discontinued = | unitssold = | unitsshipped = | predecessor = [iPhone X](../Page/IPhone_X.md "wikilink") | successor = | related = \[\[IPhone_XR|iPhone X
+iPhone X Max | codename = | logo = IPhone XS Wordmark.svg | logo_size = | image = IPhone XS Max Gold.svg | image_size = | alt = | caption = 金色iPhone X Max的正面 | brand = [蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink") | manufacturer = | slogan = **英語**：Welcome to the big screens. **中文（香港）**：歡迎登上大螢幕。**中文（台灣）**：大螢幕上見。**中文（中國）**：大屏幕上见。 | serieslabel =  | series = | modelnumber = | networks = [GSM](../Page/GSM.md "wikilink")、[CDMA2000](../Page/CDMA2000.md "wikilink")、[EV-DO](https://zh.wikipedia.org/wiki/EV-DO "wikilink")、[HSPA+](../Page/演进式HSPA.md "wikilink")、[LTE](https://zh.wikipedia.org/wiki/LTE_\(消歧義\) "wikilink")、[LTE Advanced](https://zh.wikipedia.org/wiki/LTE_Advanced "wikilink") | released =  | available =  | discontinued = | unitssold = | unitsshipped = | predecessor = [iPhone X](../Page/IPhone_X.md "wikilink") | successor = [iPhone 11 Pro / iPhone 11 Pro Max](https://zh.wikipedia.org/wiki/iPhone_11_Pro "wikilink") | related = \[\[IPhone_XR|iPhone X
 
 **iPhone X**与**iPhone X Max**（羅馬字母中的X，英語发音為「ten」，S為[小型大寫字母](https://zh.wikipedia.org/wiki/小型大寫字母 "wikilink")）是[苹果公司设计](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")、开发与销售的两款智慧手机，作为[iPhone X的续作](../Page/IPhone_X.md "wikilink")，发布会上连同[iPhone X{{Smallcaps all一起于](../Page/IPhone_XR.md "wikilink")2018年9月12日在[苹果园区史蒂夫](https://zh.wikipedia.org/wiki/苹果园区 "wikilink")·乔布斯剧院（）由[蒂姆·库克发布](https://zh.wikipedia.org/wiki/蒂姆·库克 "wikilink")。\[1\]與iPhone X相比，iPhone X Max除了擁有較大的螢幕、電池使用時間与雙卡雙待（雙卡雙待只為[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[香港](../Page/香港.md "wikilink")及[澳門](../Page/澳門.md "wikilink")地區提供）外，一切規格皆相同。\[2\]
 
@@ -133,91 +133,6 @@ nano-SIM 與 eSIM（其余版本）</p></td>
 </table>
 
 \[3\]\[4\]
-
-## 价格
-
-发布时，iPhone XS/XS MAX的价格为：
-1 . XS：
-
-<table>
-<thead>
-<tr class="header">
-<th><p>存储</p></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>64GB</strong></p></td>
-<td><p>$999</p></td>
-<td><p>¥8,699</p></td>
-<td><p>HK$8,599</p></td>
-<td><p>NT$35,900</p></td>
-<td><p>S$1,355</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>256GB</strong></p></td>
-<td><p>$1,149</p></td>
-<td><p>¥10,099</p></td>
-<td><p>HK$9,899</p></td>
-<td><p>NT$41,500</p></td>
-<td><p>S$1,558</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>512GB</strong></p></td>
-<td><p>$1,349</p></td>
-<td><p>¥11,899</p></td>
-<td><p>HK$11,599</p></td>
-<td><p>NT$48,900</p></td>
-<td><p>S$1,829</p></td>
-</tr>
-</tbody>
-</table>
-
-2 . XS MAX：
-
-<table>
-<thead>
-<tr class="header">
-<th><p>存储</p></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>64GB</strong></p></td>
-<td><p>$1,099</p></td>
-<td><p>¥9,599</p></td>
-<td><p>HK$9,499</p></td>
-<td><p>NT$39,900</p></td>
-<td><p>S$1,490</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>256GB</strong></p></td>
-<td><p>$1,249</p></td>
-<td><p>¥10,999</p></td>
-<td><p>HK$10,799</p></td>
-<td><p>NT$45,500</p></td>
-<td><p>S$1,694</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>512GB</strong></p></td>
-<td><p>$1,449</p></td>
-<td><p>¥12,799</p></td>
-<td><p>HK$12,499</p></td>
-<td><p>NT$52,900</p></td>
-<td><p>S$1,965</p></td>
-</tr>
-</tbody>
-</table>
 
 ## 问题与争议
 

@@ -40,7 +40,7 @@ HTML等效語法：
 斷行或是產生新行藉由在兩行之間增加空白而生成，例如分開段落。
 
   - 在條目內容內顯示一個明顯的斷行，請輸入兩次。
-  - 輸入一次只會在標記式語言編輯畫面中顯示為斷行，但不會在輸出內容中呈現，例外情況為使用清單語法。
+  - 輸入一次只會在標記式語言編輯畫面中顯示為斷行，但輸出內容中只会形成一个空格。使用清單語法时例外。
   - 粗體或斜體等標記式語言會在斷行處終結。
 
 HTML等效語法：或。
@@ -322,13 +322,13 @@ In [Wikipedia's markup language](https://zh.wikipedia.org/wiki/Wikipedia:How_to_
   - Simply typing the pipe character | after a link will automatically rename the link in certain circumstances. The next time you open the edit box you will see the expanded piped link. When [previewing](https://zh.wikipedia.org/wiki/Help:Show_preview "wikilink") your edits, you will not see the expanded form until you press **Save** and **Edit** again. The same applies to [links to sections within the same page](https://zh.wikipedia.org/wiki/#link-to-section "wikilink").
   - See [Pipe trick](https://zh.wikipedia.org/wiki/Help:Pipe_trick "wikilink") for details.
 
-| Description                                       | What you type                                | What it looks like                                                                                   |
-| ------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 自動隱藏括弧中的文字                                        | `[[界_(生物)\|]]`                               | [界](https://zh.wikipedia.org/wiki/界_\(生物\) "wikilink")                                               |
-| *Automatically hide the comma and following text* | `[[Seattle,_Washington\|]]`                  | [Seattle](https://zh.wikipedia.org/wiki/Seattle,_Washington "wikilink")                              |
-| 自動隱藏命名空間名稱                                        | `[[Wikipedia:互助客棧\|]]`                       | [互助客棧](https://zh.wikipedia.org/wiki/Wikipedia:互助客棧 "wikilink")                                      |
-| 或者同時隱藏                                            | `[[Wikipedia:Manual_of_Style_(headings)\|]]` | [Manual of Style](https://zh.wikipedia.org/wiki/Wikipedia:Manual_of_Style_\(headings\) "wikilink")   |
-| <b>但無法隱藏章節名稱連結</b>                                | `[[Wikipedia:Manual_of_Style#Links\|]]`      | [Manual_of_Style\#Links](https://zh.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Links "wikilink") |
+| Description           | What you type                                | What it looks like                                                                                   |
+| --------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 自動隱藏括弧中的文字            | `[[界_(生物)\|]]`                               | [界](https://zh.wikipedia.org/wiki/界_\(生物\) "wikilink")                                               |
+| 自动隐藏英文逗号后的文字（中文维基不常用） | `[[Seattle,_Washington\|]]`                  | [Seattle](https://zh.wikipedia.org/wiki/Seattle,_Washington "wikilink")                              |
+| 自動隱藏命名空間名稱            | `[[Wikipedia:互助客棧\|]]`                       | [互助客棧](https://zh.wikipedia.org/wiki/Wikipedia:互助客棧 "wikilink")                                      |
+| 或者同時隱藏                | `[[Wikipedia:Manual_of_Style_(headings)\|]]` | [Manual of Style](https://zh.wikipedia.org/wiki/Wikipedia:Manual_of_Style_\(headings\) "wikilink")   |
+| <b>但無法隱藏章節名稱連結</b>    | `[[Wikipedia:Manual_of_Style#Links\|]]`      | [Manual_of_Style\#Links](https://zh.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Links "wikilink") |
 
 #### Blend link
 

@@ -16,7 +16,7 @@
   - [Firefox for Android](../Page/Firefox_for_Android.md "wikilink")
   - [Firefox for iOS](../Page/Firefox_for_iOS.md "wikilink")
 
-[Category:2016年軟體](https://zh.wikipedia.org/wiki/Category:2016年軟體 "wikilink") [Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:黑莓軟體](https://zh.wikipedia.org/wiki/Category:黑莓軟體 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:自由網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:自由網頁瀏覽器 "wikilink") [Category:使用MPL許可證的軟體](https://zh.wikipedia.org/wiki/Category:使用MPL許可證的軟體 "wikilink")
+[Category:2016年軟體](https://zh.wikipedia.org/wiki/Category:2016年軟體 "wikilink") [Category:Firefox](https://zh.wikipedia.org/wiki/Category:Firefox "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:黑莓軟體](https://zh.wikipedia.org/wiki/Category:黑莓軟體 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:自由網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:自由網頁瀏覽器 "wikilink") [Category:使用MPL許可證的軟體](https://zh.wikipedia.org/wiki/Category:使用MPL許可證的軟體 "wikilink")
 
 1.
 2.

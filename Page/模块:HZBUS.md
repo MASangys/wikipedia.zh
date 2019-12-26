@@ -1,9 +1,7 @@
 \-- 声明模块本体 local p = {} -- 导入数据 local c = mw.loadData('Module:HZBUS/color') local function _loadSystemData(loc)
 
 `   local state`
-`   if loc == nil or loc == "" or loc == "惠州" then`
-`       state, system = pcall(mw.loadData, "Module:HZBUS/data")`
-`   elseif loc == "东莞" or loc == "東莞" then`
+`   if loc == "东莞" or loc == "東莞" then`
 `       state, system = pcall(mw.loadData, "Module:HZBUS/dongguan")`
 `   elseif loc == "深圳" then`
 `       state, system = pcall(mw.loadData, "Module:HZBUS/shenzhen")`
@@ -92,9 +90,9 @@ end
 `           ve = d[no].vehicle`
 `       end`
 `       -- 部分双向高峰快线（两列）：`
-`       if (d[no].direction1 ~= nil) then`
+`       if d[no].direction1 ~= nil then`
 `           a = `[`rowspan="2"`](https://zh.wikipedia.org/wiki/ "wikilink")`..b..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].code..`[](https://zh.wikipedia.org/wiki/''' "wikilink")`..e1..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].direction`
-`           if (d[no].endpoint3 ~= nil) then                    -- 部分双向高峰快线：去程终点和返程起点不同`
+`           if d[no].endpoint3 ~= nil then                  -- 部分双向高峰快线：去程终点和返程起点不同`
 `               a = a..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..e2`
 `           else                                                -- 部分双向高峰快线：去程终点和返程起点相同`
 `               a = a..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..e2`
@@ -110,7 +108,7 @@ end
 `           end`
 `           if vehicle == "yes" then a = a..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..ve end`
 `           a = a..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].note.."\n|-\n"..`[`align=center`](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].direction1`
-`           if (d[no].endpoint3 ~= nil) then                    -- 部分双向高峰快线：去程终点和返程起点不同`
+`           if d[no].endpoint3 ~= nil then                  -- 部分双向高峰快线：去程终点和返程起点不同`
 `               a = a..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].endpoint3`
 `           else                                                -- 部分双向高峰快线：去程终点和返程起点相同`
 `               a = a`
@@ -158,15 +156,15 @@ end
 `       e1 = p.tsllink(d[no].endpoint1)                         -- 处理起讫点1可能出现的`
 `       e2 = p.tsllink(d[no].endpoint2)                         -- 处理起讫点2可能出现的`
 `       -- 部分双向高峰快线（两列）：`
-`       if (d[no].direction1 ~= nil) then`
+`       if d[no].direction1 ~= nil then`
 `           a = `[`rowspan="2"``   ``align=center`](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].code..`[](https://zh.wikipedia.org/wiki/''' "wikilink")`..e1..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].direction`
-`           if (d[no].endpoint3 ~= nil) then                    -- 部分双向高峰快线：去程终点和返程起点不同`
+`           if d[no].endpoint3 ~= nil then                  -- 部分双向高峰快线：去程终点和返程起点不同`
 `               a = a..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..e2`
 `           else                                                -- 部分双向高峰快线：去程终点和返程起点相同`
 `               a = a..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..e2`
 `           end`
 `           a = a..`[](https://zh.wikipedia.org/wiki/ "wikilink")`.."\n|-\n"..`[`align=center`](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].direction1`
-`           if (d[no].endpoint3 ~= nil) then                    -- 部分双向高峰快线：去程终点和返程起点不同`
+`           if d[no].endpoint3 ~= nil then                  -- 部分双向高峰快线：去程终点和返程起点不同`
 `               a = a..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].endpoint3`
 `           else                                                -- 部分双向高峰快线：去程终点和返程起点相同`
 `               a = a`
@@ -219,23 +217,23 @@ end
 `   if loc == "" or loc == nil then loc = "惠州" end`
 `   if vehicle == "yes" then                                    -- 显示运力（vehicle = yes）`
 `       if style == "noco" then                                 -- 不显示公司栏（noco）`
-`           t = '!colspan="2" width="12%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|起讫点'..'!!width="8%"|收费!!width="19%"|运力!!width="19%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="20%"| || ||width="20%"| ||colspan="3"| '`
+`           t = '!colspan="2" width="12%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|路线!!width="8%"|收费!!width="19%"|运力!!width="19%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="20%"| || ||width="20%"| ||colspan="3"| '`
 `       elseif style == "nofa" then                             -- 不显示票价栏（nofa）`
-`           t = '!colspan="2" width="12%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|起讫点'..'!!width="8%"|运营商!!width="19%"|运力!!width="19%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="20%"| || ||width="20%"| ||colspan="3"| '`
+`           t = '!colspan="2" width="12%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|路线!!width="8%"|运营商!!width="19%"|运力!!width="19%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="20%"| || ||width="20%"| ||colspan="3"| '`
 `       elseif style == "nocofa" then                           -- 不显示公司和票价栏（nocofa）`
-`           t = '!colspan="2" width="13%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|起讫点'..'!!width="21%"|运力!!width="20%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="22%"| || ||width="22%"| ||colspan="2"| '`
+`           t = '!colspan="2" width="13%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|路线!!width="21%"|运力!!width="20%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="22%"| || ||width="22%"| ||colspan="2"| '`
 `       else                                                    -- 显示公司和票价栏（默认）`
-`           t = '!colspan="2" width="10%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|起讫点'..'!!width="8%"|收费!!width="8%"|运营商!!width="18%"|运力!!width="18%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="18%"| || ||width="18%"| ||colspan="4"| '`
+`           t = '!colspan="2" width="10%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|路线!!width="8%"|收费!!width="8%"|运营商!!width="18%"|运力!!width="18%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="18%"| || ||width="18%"| ||colspan="4"| '`
 `       end`
 `   else                                                        -- 不显示运力`
 `       if style == "noco" then                                 -- 不显示公司栏（noco）`
-`           t = '!colspan="2" width="14%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|起讫点'..'!!width="10%"|收费!!width="22%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="26%"| || ||width="26%"| ||colspan="2"| '`
+`           t = '!colspan="2" width="14%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|路线!!width="10%"|收费!!width="22%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="26%"| || ||width="26%"| ||colspan="2"| '`
 `       elseif style == "nofa" then                         -- 不显示票价栏（nofa）`
-`           t = '!colspan="2" width="14%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|起讫点'..'!!width="11%"|运营商!!width="21%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="26%"| || ||width="26%"| ||colspan="2"| '`
+`           t = '!colspan="2" width="14%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|路线!!width="11%"|运营商!!width="21%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="26%"| || ||width="26%"| ||colspan="2"| '`
 `       elseif style == "nocofa" then                           -- 不显示公司和票价栏（nocofa）`
-`           t = '!colspan="2" width="16%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|起讫点'..'!!width="24%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="29%"| || ||width="29%"| || '`
+`           t = '!colspan="2" width="16%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|路线!!width="24%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="29%"| || ||width="29%"| || '`
 `       else                                                    -- 显示公司和票价栏（默认）`
-`           t = '!colspan="2" width="12%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|起讫点'..'!!width="8%"|收费!!width="10%"|运营商!!width="20%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="24%"| || ||width="24%"| ||colspan="3"|'`
+`           t = '!colspan="2" width="12%"|`[`编号`](https://zh.wikipedia.org/wiki/'..loc..'巴士路线列表 "wikilink")`!!colspan="3"|路线!!width="8%"|收费!!width="10%"|运营商!!width="20%"|备注\n|-style="background:#EAECF0" height=0\n|colspan="2"| ||width="24%"| || ||width="24%"| ||colspan="3"|'`
 `       end`
 `   end`
 `   return t`

@@ -10,7 +10,7 @@
 
 ### 背面
 
-[Jesus_the_Splendour,_Adam_and_Eve.jpg](https://zh.wikipedia.org/wiki/File:Jesus_the_Splendour,_Adam_and_Eve.jpg "fig:Jesus_the_Splendour,_Adam_and_Eve.jpg") 殘頁背面僅存一幅插圖，且不完整。插圖右邊站立一名裸身的男子，只於腰間束一條白色腰布。他雙手下垂攤開，整個身體微微向後傾斜，傳達出一種緊張不安的感覺。畫面中間地面上有兩個足印，足印上方有一捆綠色草束。草束左邊站立一名雙手被綑綁在背後的男子，也是全身赤裸，僅穿一條腰布，胸前還佩戴一顆牛頭。畫面最左側有一名身穿紅袍的男子與雙手被綑的男子相向對視，紅袍男右手握住一隻白色長杖，左手擧起伸出他長度誇張的食指，似乎正在同雙手被綑的男子交談。從整體的圖像特徵來看，紅袍男的姿勢傳達出一種警告或勸誡之意。\[3\]
+殘頁背面僅存一幅插圖，且不完整。插圖右邊站立一名裸身的男子，只於腰間束一條白色腰布。他雙手下垂攤開，整個身體微微向後傾斜，傳達出一種緊張不安的感覺。畫面中間地面上有兩個足印，足印上方有一捆綠色草束。草束左邊站立一名雙手被綑綁在背後的男子，也是全身赤裸，僅穿一條腰布，胸前還佩戴一顆牛頭。畫面最左側有一名身穿紅袍的男子與雙手被綑的男子相向對視，紅袍男右手握住一隻白色長杖，左手擧起伸出他長度誇張的食指，似乎正在同雙手被綑的男子交談。從整體的圖像特徵來看，紅袍男的姿勢傳達出一種警告或勸誡之意。\[3\]
 
 [匈牙利](../Page/匈牙利.md "wikilink")宗教史學家兼摩尼教學者指出德國宗教學家[漢斯-約雅金·克里木凱特](../Page/漢斯-約雅金·克里木凱特.md "wikilink")首次提出這幅插圖描繪的應是一個審判場景，其中的紅袍男子是一名判官。這個觀點為匈牙利亞洲宗教藝術史學家[古樂慈](../Page/古樂慈.md "wikilink")所接受，不過她對一些細節作出了新的詮釋。康高寶亦將這幅插圖同[元朝](../Page/元朝.md "wikilink")摩尼教絹畫掛軸《[冥王聖幀](../Page/冥王聖幀.md "wikilink")》裡的審判場景作對比，發現二者雖因文化差異之故使得圖像風格大相逕庭，但卻都描繪了同一個主題——兩名赤身裸體的男子在一名判官面前接受審判。\[4\]
 
@@ -23,7 +23,6 @@
 [Category:摩尼教藝術](https://zh.wikipedia.org/wiki/Category:摩尼教藝術 "wikilink") [Category:西域藝術](https://zh.wikipedia.org/wiki/Category:西域藝術 "wikilink") [Category:手抄本](https://zh.wikipedia.org/wiki/Category:手抄本 "wikilink") [Category:插畫](https://zh.wikipedia.org/wiki/Category:插畫 "wikilink") [Category:高昌](https://zh.wikipedia.org/wiki/Category:高昌 "wikilink") [Category:流失海外的中國文物](https://zh.wikipedia.org/wiki/Category:流失海外的中國文物 "wikilink")
 
 1.
-
 2.
 3.
 4.

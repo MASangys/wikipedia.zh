@@ -15,11 +15,8 @@
 [Category:金牛座](https://zh.wikipedia.org/wiki/Category:金牛座 "wikilink") [Category:金牛T星](https://zh.wikipedia.org/wiki/Category:金牛T星 "wikilink") [Category:2MASS天體](https://zh.wikipedia.org/wiki/Category:2MASS天體 "wikilink") [Category:熱木星](https://zh.wikipedia.org/wiki/Category:熱木星 "wikilink") [Category:行星系](https://zh.wikipedia.org/wiki/Category:行星系 "wikilink") [Category:以变星命名法命名的天体](https://zh.wikipedia.org/wiki/Category:以变星命名法命名的天体 "wikilink") [Category:K-型次巨星](https://zh.wikipedia.org/wiki/Category:K-型次巨星 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.

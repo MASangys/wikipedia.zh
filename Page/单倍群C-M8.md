@@ -28,17 +28,11 @@
 [Category:染色体](https://zh.wikipedia.org/wiki/Category:染色体 "wikilink")
 
 1.  Michael F Hammer; Tatiana M Karafet; Hwayong Park; Keiichi Omoto; Shinji Harihara; Mark Stoneking; Satoshi Horai (2006). “Dual origins of the Japanese: common ground for hunter-gatherer and farmer Y chromosomes”. Journal of Human Genetics 51 (1): 47 - 58. <doi:10.1007/s10038-005-0322-0>. .
-
 2.
-
 3.
-
 4.
-
 5.  Tajima, Atsushi; Hayami, Masanori; Tokunaga, Katsushi; Juji, T; Matsuo, M; Marzuki, S; Omoto, K; Horai, S (2004). "Genetic origins of the Ainu inferred from combined DNA analyses of maternal and paternal lineages". Journal of Human Genetics 49 (4): 187–193. <doi:10.1007/s10038-004-0131-x>. PMID 14997363.
-
 6.  Nonaka I, Minaguchi K, Takezaki N (July 2007). "Y-chromosomal binary haplogroups in the Japanese population and their relationship to 16 Y-STR polymorphisms". Ann. Hum. Genet. 71 (Pt 4): 480–95. <doi:10.1111/j.1469-1809.2006.00343.x>. PMID 17274803.
-
 7.
 8.
 9.

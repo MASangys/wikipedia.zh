@@ -25,10 +25,7 @@ RIF规则的详细开局流程如下：
 [Category:连珠开局规则](https://zh.wikipedia.org/wiki/Category:连珠开局规则 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.

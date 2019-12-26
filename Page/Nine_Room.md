@@ -222,6 +222,12 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/郑妍周" title="wikilink">郑妍周</a></p></td>
 <td></td>
 <td><p>乙智海伊的助理。</p></td>
+<td><p><a href="../Page/黃鳳兒.md" title="wikilink">黃鳳兒</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -233,7 +239,7 @@
 | --------------------------------------------------- | ------ | ------------- | -------- | -------------------------------- |
 | **演員**                                              | **角色** | **介紹**        | **出演集數** | **香港配音**                         |
 | [洪錫天](https://zh.wikipedia.org/wiki/洪錫天 "wikilink") | 洪錫天    | 餐廳老闆，幫乙智海伊做菜。 | 1、4      | [黎家希](../Page/黎家希.md "wikilink") |
-| [宋玧妸](../Page/宋玧妸.md "wikilink")                    | 朴妍靜    | 死囚            | 16       |                                  |
+| [宋玧妸](../Page/宋玧妸.md "wikilink")                    | 朴妍靜    | 死囚            | 16       | [黃鳳兒](../Page/黃鳳兒.md "wikilink") |
 
 ## 原聲帶
 

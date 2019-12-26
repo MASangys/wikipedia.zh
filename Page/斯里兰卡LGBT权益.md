@@ -75,32 +75,19 @@
 [Category:斯里兰卡政治](https://zh.wikipedia.org/wiki/Category:斯里兰卡政治 "wikilink") [Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.   Sri Lanka Brief|website=srilankabrief.org|language=en-US|access-date=2018-10-05}}
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
 13.
-
 14.
-
 15.
-
 16.
 17.

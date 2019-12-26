@@ -278,7 +278,7 @@ void doMove(int theFromFile, int theFromRank, int theToFile, int theToRank)  {
 
 1.  现在写作‘Javadoc’，参见[1](http://www.oracle.com/technetwork/java/javase/documentation/index-jsp-135444.html)。最早写作‘JavaDoc’，参见[2](http://www.artima.com/intv/jackpot3.html)
 2.
-3.  [IntelliJ IDEA](https://www.jetbrains.com/idea/), [NetBeans](http://www.netbeans-blog.org/netbeans-ide/generating-javadoc-for-a-project-in-netbeans-ide.html) and [Eclipse](http://www.eclipse.org/)
+3.  [IntelliJ IDEA](https://www.jetbrains.com/idea/), [NetBeans](http://www.netbeans-blog.org/netbeans-ide/generating-javadoc-for-a-project-in-netbeans-ide.html)  and [Eclipse](http://www.eclipse.org/)
 4.  .
 5.
 6.

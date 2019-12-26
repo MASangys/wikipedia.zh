@@ -14,24 +14,15 @@ KulturNav于2015年1月20日启动\[9\]，目前正被挪威，瑞典和[奥兰]
 
 [Category:圖書分類法](https://zh.wikipedia.org/wiki/Category:圖書分類法 "wikilink") [Category:元数据](https://zh.wikipedia.org/wiki/Category:元数据 "wikilink") [Category:受控词表](https://zh.wikipedia.org/wiki/Category:受控词表 "wikilink")
 
-1.  \[<http://digitaltmuseum.se/info/owners/E-KNAV#>\! "KulturNav"\], DigitaltMuseum
-
+1.  \[<http://digitaltmuseum.se/info/owners/E-KNAV#>\! "KulturNav"\] , DigitaltMuseum
 2.  ["Welcome to KulturNav"](http://kulturnav.org/info/kulturnav), KulturNav site
-
 3.  [FAQ \#1](http://kulturnav.org/info/faq#Q1), KulturNav site
-
 4.
 5.  ["KulturNav API"](http://kulturnav.org/info/api), KulturNav site
-
 6.  [Per Steneskog: Senior Consultant at Altrusoft AB](https://se.linkedin.com/pub/per-steneskog/3/989/667), [LinkedIn](https://zh.wikipedia.org/wiki/LinkedIn "wikilink")
-
 7.
-
 8.
 9.  [*Seminar Lansering av KulturNav* (Launch seminar)](http://www.kulturradet.no/kalender/hendelse/-/lansering-av-kulturnav-200115) , Arts Council Norway
-
 10. [Digisam, "KulturNav" (PowerPoint presentation)](http://www.digisam.se/images/docs/Bodin_KulturNav_DISKA_20140211_dist.pdf)
-
 11. [*Bidra med information till Nationella fotografregistret* (Contributing information to the National Photographic Registry)](http://nfr.nordiskamuseet.se/leverera.aspx), [Nordic Museum](https://zh.wikipedia.org/wiki/Nordic_Museum "wikilink") (Stockholm)
-
 12. [Arkdes (Skeppsholmen Architecture and Design Centre)](http://www.arkdes.se/articles/samlingarna/arkdes-bilder/sok-digitalt)

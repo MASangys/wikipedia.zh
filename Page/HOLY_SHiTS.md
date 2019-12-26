@@ -4,6 +4,7 @@ HOLY SHiTS是日本的音樂團體、女子偶像組合、是WACK的洗牌團體
 ## 概要
 
 2018年，宣布選擇BiS、BiSH、GANG PARADE和EMPiRE的成員為WACK的第二個官方洗牌團體，名為HOLY SHiTS。他們唯一的單曲，WACK is SHiT。\[2\]。
+雖然解散了，但是亦有多次重聚。
 
 ## 沿革
 
@@ -26,7 +27,6 @@ HOLY SHiTS是日本的音樂團體、女子偶像組合、是WACK的洗牌團體
 <th><p>名字</p></th>
 <th><p>生日</p></th>
 <th><p>備註</p></th>
-<th><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -35,35 +35,30 @@ HOLY SHiTS是日本的音樂團體、女子偶像組合、是WACK的洗牌團體
 <td><p>5月8日</p></td>
 <td><p>是BiSH的成員。<br />
 </p></td>
-<td><p><a href="https://twitter.com/Chittiii_BiSH">セントチヒロ・チッチ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>キャン・GP・マイカ</p></td>
 <td><p>10月6日</p></td>
 <td><p>是GANG PARADE的成員。<br />
 </p></td>
-<td><p><a href="https://twitter.com/maika_GANG">キャン・GP・マイカ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>MAHO EMPiRE</p></td>
 <td><p>6月1日</p></td>
 <td><p>是EMPiRE的成員。<br />
 </p></td>
-<td><p><a href="https://twitter.com/maho_empire">MAHO EMPiRE</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ウルウ・ル</p></td>
 <td><p>2月7日</p></td>
-<td><p>是Curry Roux和WAgg的成員。<br />
+<td><p>是CARRY LOOSE的成員。<br />
 </p></td>
-<td><p><a href="https://twitter.com/URUURU_WAgg">ウルウ・ル</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ア・アンズピア</p></td>
 <td><p>5月23日</p></td>
 <td><p>是WAgg的成員。<br />
 </p></td>
-<td><p><a href="https://twitter.com/ANZU_WAgg">ア・アンズピア</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -76,38 +71,32 @@ HOLY SHiTS是日本的音樂團體、女子偶像組合、是WACK的洗牌團體
 <th><p>名字</p></th>
 <th><p>生日</p></th>
 <th><p>備註</p></th>
-<th><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>ペリ・ウブ</p></td>
 <td><p>10月5日</p></td>
-<td><p>是BiS的成員。<br />
+<td><p>是前BiS的成員。<br />
 2019年5月11日解散。<br />
 並在5月31日宣布在WACK畢業。</p></td>
-<td><p><a href="https://twitter.com/UBU_PERi_">ペリ・ウブ</a><br />
-</p></td>
 </tr>
 <tr class="even">
 <td><p>トリアエズ・ハナ</p></td>
 <td><p>9月25日</p></td>
-<td><p>是BiS的成員。<br />
+<td><p>是前BiS的成員。<br />
 2019年5月11日解散。<br />
 並在5月31日宣布在WACK畢業。</p></td>
-<td><p><a href="https://twitter.com/TORiAEZ__">トリアエズ・ハナ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ムロパナコ</p></td>
 <td><p>9月12日</p></td>
-<td><p>是BiS的成員。<br />
+<td><p>是前BiS的成員。<br />
 2019年5月11日解散。<br />
 宣布將留在WACK<br />
 直到6月24日宣布離開WACK，並在WACK畢業。</p></td>
-<td><p><a href="https://twitter.com/hnknic">ムロパナコ</a></p></td>
 </tr>
 <tr class="even">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -176,6 +165,13 @@ HOLY SHiTS是日本的音樂團體、女子偶像組合、是WACK的洗牌團體
 
 ## 外部連結
 
+**Twitter**
+
+  -
+  -
+  -
+  -
+  -
 ## 參考資料
 
 [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")

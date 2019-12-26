@@ -58,6 +58,16 @@
 <th><p><a href="https://zh.wikipedia.org/wiki/萬妮達" title="wikilink">Vinida 萬妮達</a></p></th>
 <th><p>收錄於萬妮達第二張個人專輯《SOLO獨行者》</p></th>
 <th><p>[3] |- align= "center"</p></th>
+<th></th>
+<th><p>可樂星球</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Project_W" title="wikilink">Project W</a></p></th>
+<th><p>收錄於Project W同名專輯《Project W》</p></th>
+<th><p>[4] |- align= "center"</p></th>
+<th></th>
+<th><p>最近怎麼樣</p></th>
+<th><p><a href="../Page/孫尤安.md" title="wikilink">孫尤安</a></p></th>
+<th><p>收錄於孫尤安首張個人EP《INK》</p></th>
+<th><p>[5] |- align= "center"</p></th>
 </tr>
 </thead>
 <tbody>
@@ -80,7 +90,7 @@
 <th><p><a href="../Page/最佳新人獎_(金曲獎).md" title="wikilink">最佳新人獎</a></p></th>
 <th><p>《SHA YAN》</p></th>
 <th></th>
-<th><p>[4] |- align= "center"</p></th>
+<th><p>[6] |- align= "center"</p></th>
 <th><p><a href="../Page/最佳演唱錄音專輯獎_(金曲獎).md" title="wikilink">最佳演唱錄音專輯獎</a></p></th>
 <th><p>《SHA YAN》</p></th>
 <th><p>|- align= "center"</p></th>
@@ -98,3 +108,5 @@
 2.
 3.
 4.
+5.
+6.

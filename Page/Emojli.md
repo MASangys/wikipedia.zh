@@ -14,22 +14,13 @@ emojli的开发者是和马修·格雷，其中[前端由汤姆](https://zh.wiki
 [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:已停止開發的軟體](https://zh.wikipedia.org/wiki/Category:已停止開發的軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.

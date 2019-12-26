@@ -1,6 +1,4 @@
-**Hopelessly Romantic Collection**是[容祖兒的第](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")5張「新曲+精選」，亦是繼2008年《Love Joey Love Four》闊別五年的下一隻。此「新曲+精選」共有2[CD](../Page/CD.md "wikilink")+1[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，共收錄了35首[容祖兒由出道至今的](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")**慢歌精選**。碟中收錄了[On Call 36小時及](../Page/On_Call_36小時.md "wikilink")[On Call 36小時II的主題曲](../Page/On_Call_36小時II.md "wikilink") - 連續劇、續集以及雙子情歌、天窗兩首歌曲的合唱版。
-
-同月推出的《All Delicious Collection》則為**快歌精選**。
+Hopelessly Romantic Collection 是[容祖兒](../Page/容祖兒.md "wikilink")在相繼5年後推出的新曲加精選專輯，在2013年12月3日發行。這張收錄了4首從未收錄新歌，及31首歌迷最喜愛的情歌，亦是首張不屬於《喜歡祖兒》系列的精選專輯。此專輯收錄的是慢歌精選，而在2013年12月23日發行的All Delicious Collection則是快歌精選。首次於廣州舉行的Moov Live 2013亦收錄於DVD內。唱片封面由著名攝影師陳漫拍攝，是[1314容祖兒演唱會](../Page/1314容祖兒演唱會.md "wikilink")的其中一款海報照。
 
 ## 專輯介紹
 
@@ -18,7 +16,7 @@
 | 2  | 蟲之家         |
 | 3  | 小日子         |
 | 4  | 臨床          |
-| 5  | 深閨          |
+| 5  | 我杯茶         |
 | 6  | 我杯茶         |
 | 7  | 七不思議        |
 | 8  | 另眼相看        |
@@ -29,14 +27,21 @@
 
 ## 發行版本
 
-## 製作團隊
+  - Hopelessly Romantic Collection 慢歌精選 (2013年12月3日) \[1\]
+  - Hopelessly Romantic Collection 慢歌精選 第二版 (2014年1月27日)
+      - 包裝不同，內容一樣
 
-## 參見
+## 所獲獎項
 
-  - [All Delicious Collection 快歌精選](https://zh.wikipedia.org/wiki/All_Delicious_Collection_快歌精選 "wikilink")
+### 唱片獎
+
+IFPI 2013年十大銷量廣東唱片獎\[2\]
 
 ## 參考資料
 
 ## 外部連結
 
 [Category:容祖兒音樂專輯](https://zh.wikipedia.org/wiki/Category:容祖兒音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+
+1.
+2.

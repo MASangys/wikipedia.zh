@@ -44,18 +44,11 @@ HP滤波很容易实现，不过它也存在一定缺陷，只在以下严苛条
 [Category:时间序列](https://zh.wikipedia.org/wiki/Category:时间序列 "wikilink")
 
 1.
-
 2.   - as quoted in [Philips 2010](http://cowles.econ.yale.edu/P/cd/d17b/d1771.pdf)
-
 3.  Kim, Hyeongwoo. "[Hodrick–Prescott Filter](http://www.auburn.edu/~hzk0001/hpfilter.pdf)" March 12, 2004
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.

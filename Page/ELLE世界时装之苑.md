@@ -55,8 +55,6 @@
 [Category:中文杂志](https://zh.wikipedia.org/wiki/Category:中文杂志 "wikilink") [Category:時尚雜誌](https://zh.wikipedia.org/wiki/Category:時尚雜誌 "wikilink")
 
 1.
-
 2.
 3.
-
 4.

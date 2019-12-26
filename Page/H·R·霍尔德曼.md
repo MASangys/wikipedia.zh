@@ -2,7 +2,7 @@
 
 ## 参考文献
 
-[Category:美国竞选经理](https://zh.wikipedia.org/wiki/Category:美国竞选经理 "wikilink") [Category:美国回忆录撰写人](https://zh.wikipedia.org/wiki/Category:美国回忆录撰写人 "wikilink") [Category:加利福尼亞州癌症逝世者](https://zh.wikipedia.org/wiki/Category:加利福尼亞州癌症逝世者 "wikilink") [Category:罹患胃癌逝世者](https://zh.wikipedia.org/wiki/Category:罹患胃癌逝世者 "wikilink") [Category:鹰级童军](https://zh.wikipedia.org/wiki/Category:鹰级童军 "wikilink") [Category:南加州大學校友](https://zh.wikipedia.org/wiki/Category:南加州大學校友 "wikilink") [Category:洛杉磯加州大學校友](https://zh.wikipedia.org/wiki/Category:洛杉磯加州大學校友 "wikilink") [Category:美国白宫办公厅主任](https://zh.wikipedia.org/wiki/Category:美国白宫办公厅主任 "wikilink")
+[Category:美国竞选经理](https://zh.wikipedia.org/wiki/Category:美国竞选经理 "wikilink") [Category:美国回忆录撰写人](https://zh.wikipedia.org/wiki/Category:美国回忆录撰写人 "wikilink") [Category:加利福尼亞州癌症逝世者](https://zh.wikipedia.org/wiki/Category:加利福尼亞州癌症逝世者 "wikilink") [Category:罹患胃癌逝世者](https://zh.wikipedia.org/wiki/Category:罹患胃癌逝世者 "wikilink") [Category:鹰级童军](https://zh.wikipedia.org/wiki/Category:鹰级童军 "wikilink") [Category:南加州大學校友](https://zh.wikipedia.org/wiki/Category:南加州大學校友 "wikilink") [Category:洛杉磯加州大學校友](https://zh.wikipedia.org/wiki/Category:洛杉磯加州大學校友 "wikilink") [Category:美國白宮幕僚長](https://zh.wikipedia.org/wiki/Category:美國白宮幕僚長 "wikilink")
 
 1.
 2.

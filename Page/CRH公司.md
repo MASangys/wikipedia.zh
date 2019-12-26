@@ -8,7 +8,7 @@
 
 ## 外部連接
 
-  - [官方網站](http://www.crh.ie/)
+  - [官方網站](https://web.archive.org/web/20120220165236/http://www.crh.ie/)
 
 [Category:都柏林公司](https://zh.wikipedia.org/wiki/Category:都柏林公司 "wikilink") [Category:總部在愛爾蘭的跨國公司](https://zh.wikipedia.org/wiki/Category:總部在愛爾蘭的跨國公司 "wikilink")
 

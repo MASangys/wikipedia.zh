@@ -60,9 +60,6 @@
 [Category:臺灣YouTuber](https://zh.wikipedia.org/wiki/Category:臺灣YouTuber "wikilink") [Category:香港YouTuber](https://zh.wikipedia.org/wiki/Category:香港YouTuber "wikilink")
 
 1.
-
 2.   甜度冰塊出品|last=|first=|date=2018-10-31|website=|archive-url=|archive-date=|dead-url=|access-date=}}
-
 3.  甜冰出任務|last=|first=|date=2018-11-03|website=|archive-url=|archive-date=|dead-url=|access-date=}}
-
 4.

@@ -24,10 +24,7 @@
 [Category:石龙子科](https://zh.wikipedia.org/wiki/Category:石龙子科 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.

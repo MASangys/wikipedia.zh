@@ -31,10 +31,7 @@
 [Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:真·三国无双系列电子游戏](https://zh.wikipedia.org/wiki/Category:真·三国无双系列电子游戏 "wikilink") [Category:PlayStation_Vita独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita独占游戏 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.

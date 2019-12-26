@@ -13,42 +13,33 @@ Foodpanda募集的資金達3.18億美元\[10\]。2013年4月，Foodpanda獲得In
 ## 相關條目
 
   - [Uber Eats](../Page/Uber_Eats.md "wikilink")
+  - [外送](../Page/外送.md "wikilink")
 
 ## 参考资料
 
 ## 外部連結
 
   -
+  - [官方網站（台灣）](https://www.foodpanda.com.tw/)
+
+  - [Facebook（台灣）](https://www.facebook.com/foodpandaTaiwan/)
+
 [Category:网上订餐](https://zh.wikipedia.org/wiki/Category:网上订餐 "wikilink") [Category:柏林公司](https://zh.wikipedia.org/wiki/Category:柏林公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.

@@ -323,6 +323,57 @@
 <td><p>田所賢一被監察組調查而被迫卸任後，取代田所賢一上任的新任神奈川県警港東警察署署長。<br />
 同時也同意讓港東署ECU緊急出動班，正式成為港東警察署的一部份。</p></td>
 </tr>
+<tr class="even">
+<td><p>觀賞本郷雫和本郷辰夫影片的青少年</p></td>
+<td><p>柾木玲弥</p></td>
+<td><p>因為看了本郷辰夫殺害本郷雫的網路影片後引起殺人慾望，進而綁架女性。</p></td>
+</tr>
+</tbody>
+</table>
+
+### 番外篇 CALL BACK
+
+<table style="width:60%;">
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 36%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>長澤</p></td>
+<td></td>
+<td><p>連環獵奇殺人案的兇手，但因父親是厚生勞動省次長，並對港東署長施壓而未被定罪。</p></td>
+</tr>
+<tr class="odd">
+<td><p>上剛由美</p></td>
+<td></td>
+<td><p>自稱因犯人跟蹤而已報警四次，最新一次為在公園中被犯人砍傷，一路逃亡的路上因打電話給港東署ECU而獲救。<br />
+實際上有精神疾病，且因愛慕橘光而謊報案件，並假裝自己是受害者，希望能與橘光獨處並享受戀人時光。</p></td>
+</tr>
+<tr class="even">
+<td><p>神崎正人</p></td>
+<td></td>
+<td><p>連環獵奇殺人案的第一位被害者，死因為從高處墜落，特徵為小拇指被犯人砍斷。<br />
+為長澤所殺害，因其與長澤在網路上有過言論爭執。</p></td>
+</tr>
+<tr class="odd">
+<td><p>遠山日和</p></td>
+<td></td>
+<td><p>連環獵奇殺人案的第二位被害者，死因為被<a href="../Page/毒物.md" title="wikilink">毒物</a>毒死，與其他被害者一樣，小拇指被犯人砍斷。<br />
+為長澤所殺害，因其與長澤在網路上有過言論爭執。</p></td>
+</tr>
+<tr class="even">
+<td><p>真鳩巧</p></td>
+<td></td>
+<td><p>連環獵奇殺人案的第三位被害者，死因為溺斃，與其他被害者一樣，小拇指被犯人砍斷。<br />
+為長澤所殺害，因其與長澤在網路上有過言論爭執。</p></td>
+</tr>
 </tbody>
 </table>
 

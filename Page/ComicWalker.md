@@ -27,6 +27,5 @@ ComicWalker主要刊登KADOKAWA系漫畫雜誌上連載的作品，但是也有�
 [Category:角川集團](https://zh.wikipedia.org/wiki/Category:角川集團 "wikilink") [Category:網路漫畫網站](https://zh.wikipedia.org/wiki/Category:網路漫畫網站 "wikilink")
 
 1.
-
 2.
 3.

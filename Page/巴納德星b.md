@@ -15,13 +15,8 @@
 [Category:2018年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2018年发现的系外行星 "wikilink") [Category:蛇夫座](https://zh.wikipedia.org/wiki/Category:蛇夫座 "wikilink") [Category:超級地球](https://zh.wikipedia.org/wiki/Category:超級地球 "wikilink")
 
 1.
-
 2.   EarthSky.org|website=earthsky.org|language=en-US|access-date=2018-11-15}}
-
 3.
-
 4.
-
 5.
-
 6.

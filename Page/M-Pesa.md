@@ -12,7 +12,7 @@ M-Pesa專案於2005年期間動手研發，到了2007年位於肯亞首都[奈�
 
 2007年3月期間M-Pesa開始在肯亞運行，之後在當地獲得廣泛的使用率，其中該年年底肯亞正逢選舉緣故引起[社會動盪不安](../Page/2007-2008年肯亞危機.md "wikilink")，當時有機構單位無法正常運作情況，民眾則透過使用M-Pesa服務將金錢安全地轉移。\[10\]肯亞的銀行在注意到使用該服務的人群逐漸增加時，有在2008年年底向財政部長陳情，希望讓政府審核M-Pesa是否符合法規以冀望能爭取客源回來。之後因該服務的表現能力穩健，讓財政部門認可了M-Pesa。\[11\]
 
-在2011年，肯亞使用M-Pesa的人數增加到1700萬多。\[12\]到了2017年，肯亞國內裡佔[GDP](https://zh.wikipedia.org/wiki/國內生產總值 "wikilink")48%左右、約3.6兆[肯亞先令](../Page/肯亞先令.md "wikilink")的經濟活動金額是經由M-Pesa所做出，以及有約12萬間提供將M-Pesa帳戶內虛擬金錢額度匯換成實體現鈔服務的代理商。\[13\]
+在2011年，肯亞使用M-Pesa的人數增加到1700萬多。\[12\]到了2017年，肯亞國內裡佔[GDP](https://zh.wikipedia.org/wiki/國內生產總值 "wikilink")48%左右、約3.6兆的經濟活動金額是經由M-Pesa所做出，以及有約12萬間提供將M-Pesa帳戶內虛擬金錢額度匯換成實體現鈔服務的代理商。\[13\]
 
 維運方面，最初M-Pesa是交付給技術開發公司Sagentia負責，\[14\]之後在2009年9月改轉交給IBM。\[15\]2012年年底沃達豐另與通訊商[華為合作](https://zh.wikipedia.org/wiki/華為 "wikilink")，替M-Pesa進行名為G2的平台升級計劃，該計劃則在約3年後整併完成。\[16\]
 
@@ -64,77 +64,43 @@ M-Pesa首次擴展到歐洲的國家為[羅馬尼亞](../Page/羅馬尼亞.md "w
 [Category:沃達豐](https://zh.wikipedia.org/wiki/Category:沃達豐 "wikilink") [Category:在線支付](https://zh.wikipedia.org/wiki/Category:在線支付 "wikilink") [Category:肯亞經濟](https://zh.wikipedia.org/wiki/Category:肯亞經濟 "wikilink") [Category:坦尚尼亞經濟](https://zh.wikipedia.org/wiki/Category:坦尚尼亞經濟 "wikilink") [Category:阿富汗經濟](https://zh.wikipedia.org/wiki/Category:阿富汗經濟 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
 20.
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
 41.

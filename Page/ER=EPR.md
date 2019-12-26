@@ -14,24 +14,17 @@ ER=EPR建議，它們彼此之間的關連可以從蟲洞這時空隧道找到�
 
 ## 外部連結
 
-  - ["ER = EPR" or "What's Behind the Horizons of Black Holes?"](https://www.youtube.com/watch?v=OBPpRqxY8Uw). 李奧納特·色斯金，史丹福理論物理研究院，2014年11月04日。
+  - ["ER = EPR" or "What's Behind the Horizons of Black Holes?"](https://www.youtube.com/watch?v=OBPpRqxY8Uw). 李奧納特·色斯金，史丹福理論物理研究院，2014年11月4日。
 
 [Category:黑洞](https://zh.wikipedia.org/wiki/Category:黑洞 "wikilink") [Category:量子引力](https://zh.wikipedia.org/wiki/Category:量子引力 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.

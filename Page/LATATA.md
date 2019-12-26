@@ -38,11 +38,36 @@
 
 ## 發行歷史
 
-| 發行地區                                                  | 發行日期       | 發行方式                                                                               | 廠牌                                                                                                         |
-| ----------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| 日本                                                    | 2019年7月31日 | [CD](../Page/CD.md "wikilink")、[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink") | [U-CUBE](https://zh.wikipedia.org/wiki/Cube娛樂#U-CUBE "wikilink")、[環球音樂](../Page/環球音樂_\(日本\).md "wikilink") |
-| [數位下載](https://zh.wikipedia.org/wiki/數位下載 "wikilink") |            |                                                                                    |                                                                                                            |
-|                                                       |            |                                                                                    |                                                                                                            |
+<table>
+<thead>
+<tr class="header">
+<th><p>發行地區</p></th>
+<th><p>發行日期</p></th>
+<th><p>發行方式</p></th>
+<th><p>廠牌</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>2019年7月31日</p></td>
+<td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cube娛樂#U-CUBE" title="wikilink">U-CUBE</a>、<a href="../Page/環球音樂_(日本).md" title="wikilink">環球音樂</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/數位下載" title="wikilink">數位下載</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考文獻
 

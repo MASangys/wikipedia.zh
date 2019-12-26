@@ -14,10 +14,7 @@
 [Category:钴配合物](https://zh.wikipedia.org/wiki/Category:钴配合物 "wikilink") [Category:二价钴化合物](https://zh.wikipedia.org/wiki/Category:二价钴化合物 "wikilink") [Category:二甲基亚砜配合物](https://zh.wikipedia.org/wiki/Category:二甲基亚砜配合物 "wikilink") [Category:氟硼酸盐](https://zh.wikipedia.org/wiki/Category:氟硼酸盐 "wikilink")
 
 1.  Van Leeuwen, P. W. N. M.; Groeneveld, Willem L. Complexes of ligands containing sulfinyl. V. Ligand field spectra of cobalt(II) and nickel(II) compounds. *Recueil des Travaux Chimiques des Pays-Bas*, 1967. 86 (11): 1219-1226. ISSN:0165-0513
-
 2.  Kutek, F. Chemistry of the tetrafluoroborates. V. Coordination compounds of tetrafluoroborates of some transition metals with dimethyl sulfoxide. *Collection of Czechoslovak Chemical Communications*, 1968. 33 (6): 1930-1932. ISSN:0010-0765
-
 3.
-
 4.
 5.  Habeeb, Jacob J.; Said, Farouq F.; Tuck, Dennis G. Direct electrochemical synthesis of cationic complexes. *Journal of the Chemical Society, Dalton Transactions: Inorganic Chemistry (1972-1999)*, 1981. 1: 118-120. ISSN:0300-9246

@@ -15,8 +15,6 @@
 [Category:PDF编辑器](https://zh.wikipedia.org/wiki/Category:PDF编辑器 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

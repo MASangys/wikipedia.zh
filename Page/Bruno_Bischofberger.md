@@ -27,33 +27,21 @@ Bischofberger 与他妻子 Christina 私下也收藏设计、摄影、民间艺�
 [Category:收藏家](https://zh.wikipedia.org/wiki/Category:收藏家 "wikilink") [Category:瑞士人](https://zh.wikipedia.org/wiki/Category:瑞士人 "wikilink")
 
 1.
-
 2.  Hess, Ewa (26. April 2018): [Galerist zeigt seine Pop-Art](https://www.tagesanzeiger.ch/kultur/kunst/galerist-zeigt-seine-popart/story/20195779), Tagesanzeiger, abgerufen am 1. Juli 2019
-
 3.  [Bruno Bischofberger Website](http://www.brunobischofberger.com/history), abgerufen am 1. Juli 2019
-
 4.
-
 5.
 6.  artnet News (9. Januar 2015): [Vito Schnabel Taking Over Bruno Bischofberger’s Gallery Space](https://news.artnet.com/market/vito-schnabel-taking-over-bruno-bischofbergers-gallery-space-216279), Artnet, abgerufen am 1. Juli 2019
-
 7.
 8.  Herchenröder, Christian (11. Juni 2010): [1](https://www.handelsblatt.com/arts_und_style/kunstmarkt/malerei-der-80er-jahre-obsessive-malerei-besteht-nicht-immer-markttest-seite-3/3459300-3.html) MALEREI DER 80ER-JAHRE: Obsessive Malerei besteht nicht immer Markttest, Handelsblatt, abgerufen am 1. Juli 2019
-
 9.
-
 10.
-
 11.
 12.
 13.
-
 14.
 15. Bischofberger, Bruno (Mai 2001): [A BRIEF HISTORY OF MY RELATIONSHIP WITH ANDY WARHOL](http://docs.wixstatic.com/ugd/d90357_4d40bd45c4444fe0a6d7788df22456ff.pdf), in: Andy Warhol's Visual Memory, Bruno Bischofberger, Edition Galerie Bruno Bischofberger, Zurich, abgerufen am 1. Juli 2019
-
 16.
-
 17.
 18. Rein, Ingrid (1984): \[<https://www.e-periodica.ch/cntmng?pid=dkm-003:1984:44>::1623\] Die Sammlung Bischofberger, Du: die Zeitschrift der Kultur, 44 (1984) Heft 5: Die Fünfzigerjahre, abgerufen am 1. Juli 2019
-
 19.

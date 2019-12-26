@@ -17,5 +17,5 @@
 [Category:加拿大人造衛星](https://zh.wikipedia.org/wiki/Category:加拿大人造衛星 "wikilink") [Category:空间望远镜](https://zh.wikipedia.org/wiki/Category:空间望远镜 "wikilink") [Category:系外行星巡天項目](https://zh.wikipedia.org/wiki/Category:系外行星巡天項目 "wikilink")
 
 1.
-2.  [CSA - Small Satellite Makes Big Discovery](http://www.asc-csa.gc.ca/eng/satellites/most/most_discovery.asp)
+2.
 3.  [\[astro-ph/0606712](https://arxiv.org/abs/astro-ph/0606712) Most Detects G- and P-Modes in the B Supergiant HD 163899 (B2Ib/II) \]

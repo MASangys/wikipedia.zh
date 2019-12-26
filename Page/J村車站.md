@@ -73,37 +73,23 @@
 [Category:福島縣鐵路車站](https://zh.wikipedia.org/wiki/Category:福島縣鐵路車站 "wikilink") [Category:常磐線車站](https://zh.wikipedia.org/wiki/Category:常磐線車站 "wikilink") [Category:楢葉町](https://zh.wikipedia.org/wiki/Category:楢葉町 "wikilink") [Category:2019年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2019年啟用的鐵路車站 "wikilink") [Category:日本鐵路車站_Je](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Je "wikilink") [Category:以建築物命名的鐵路車站](https://zh.wikipedia.org/wiki/Category:以建築物命名的鐵路車站 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
 10.
-
 11.
 12.
-
 13.
-
 14.
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
 21.

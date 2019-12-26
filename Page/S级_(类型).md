@@ -27,28 +27,20 @@ S级与1914年成立的全女性[寶塚歌劇團](../Page/寶塚歌劇團.md "wi
 [Category:日本動漫術語](https://zh.wikipedia.org/wiki/Category:日本動漫術語 "wikilink") [Category:日本文化](https://zh.wikipedia.org/wiki/Category:日本文化 "wikilink") [Category:日本文學](https://zh.wikipedia.org/wiki/Category:日本文學 "wikilink") [Category:日語詞彙](https://zh.wikipedia.org/wiki/Category:日語詞彙 "wikilink") [Category:女同性戀文學](https://zh.wikipedia.org/wiki/Category:女同性戀文學 "wikilink") [Category:LGBT文化](https://zh.wikipedia.org/wiki/Category:LGBT文化 "wikilink") [Category:文學體裁](https://zh.wikipedia.org/wiki/Category:文學體裁 "wikilink") [Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
-
 6.
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
 13.
-
 14.
 15.
 16.
 17.
-
 18.

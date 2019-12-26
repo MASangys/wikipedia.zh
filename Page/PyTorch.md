@@ -9,30 +9,21 @@ PyTorch包括torch.nn、torch.optim等子模块\[13\]。
 
 ## 参考文献
 
+## 外部链接
+
+  -
 [Category:数据挖掘和机器学习软件](https://zh.wikipedia.org/wiki/Category:数据挖掘和机器学习软件 "wikilink") [Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink") [Category:Python科学库](https://zh.wikipedia.org/wiki/Category:Python科学库 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.

@@ -248,23 +248,43 @@
 <tr class="odd">
 <td><p>Gaon Chart</p></td>
 <td><p>I made</p></td>
-<td><p>32,574+</p></td>
+<td><p>34,104+</p></td>
 <td><p><ref>Gaon Album Chart專輯銷量排名《I made》</p>
 <ul>
 <li><a href="http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=02&amp;hitYear=2019&amp;termGbn=month">2019年GAON2月專輯榜10位</a></li>
 <li><a href="http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=03&amp;hitYear=2019&amp;termGbn=month">2019年GAON3月專輯榜39位</a></li>
-</ul>
-<p></ref></p></td>
+<li><a href="http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=2019&amp;hitYear=2019&amp;termGbn=year">2019年GAON年度專輯榜62位</a> </ref></li>
+</ul></td>
 </tr>
 </tbody>
 </table>
 
 ## 發行歷史
 
-| 發行地區                                                  | 發行日期       | 發行方式                           | 廠牌                                                                                                                         |
-| ----------------------------------------------------- | ---------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-| 南韓                                                    | 2019年2月26日 | [CD](../Page/CD.md "wikilink") | [Cube Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")、[Kakao M](../Page/Kakao_M.md "wikilink") |
-| [數位下載](https://zh.wikipedia.org/wiki/數位下載 "wikilink") |            |                                |                                                                                                                            |
+<table>
+<thead>
+<tr class="header">
+<th><p>發行地區</p></th>
+<th><p>發行日期</p></th>
+<th><p>發行方式</p></th>
+<th><p>廠牌</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>2019年2月26日</p></td>
+<td><p><a href="../Page/CD.md" title="wikilink">CD</a></p></td>
+<td><p><a href="../Page/Cube娛樂.md" title="wikilink">Cube娛樂</a>、<a href="../Page/Kakao_M.md" title="wikilink">Kakao M</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/數位下載" title="wikilink">數位下載</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考文獻
 

@@ -102,44 +102,28 @@
 [Category:捷克斯洛伐克人](https://zh.wikipedia.org/wiki/Category:捷克斯洛伐克人 "wikilink") [Category:以色列科学家](https://zh.wikipedia.org/wiki/Category:以色列科学家 "wikilink") [Category:土壤学家](https://zh.wikipedia.org/wiki/Category:土壤学家 "wikilink") [Category:瑞典農業科學大學校友](https://zh.wikipedia.org/wiki/Category:瑞典農業科學大學校友 "wikilink") [Category:耶路撒冷希伯來大學校友](https://zh.wikipedia.org/wiki/Category:耶路撒冷希伯來大學校友 "wikilink")
 
 1.
-
 2.
 3.
 4.  Yaalon, D.H., 1954. An Investigation of the Effects of Saline Irrigation Water on Sodium Adsorption and Permeability Characteristics of Calcareous Soils. PhD dissertation, The Hebrew University of Jerusalem, Jerusalem.
-
 5.  Yaalon, D.H., 1955. Notes on the clay mineralogy of the major soil types of Israel. Bulletin of the Research Council of Israel. 5B, 168–173.
-
 6.  Yaalon, D., 2001. Proposal for a Commission on PALEOPEDOLOGY. Bulletin of the International Union of Soil Sciences 100, pp. 46-47.
-
 7.  IUSS, 2004. Bulletin of the International Union of Soil Sciences 104, pp.7,13.
-
 8.  Yaalon, D.H., Yaron, B., 1966. Framework for man-made soil changes–an outline of metapedogenesis. Soil Science. 102, 272–277.
-
 9.
-
 10. Yaalon, D.H., 1971. Soil-forming processes in time and space, in: Yaalon, D.H. (Ed.), Paleopedology: Origin, Nature and Dating of Paleosols. International Society of Soil Science and Israel Universities Press, Jerusalem, pp. 29–39.
-
 11. Yaalon, D.H., Ganor, E., 1973. The inﬂuence of dust on soils during the Quaternary. Soil Science. 116, 146–155.
-
 12.
 13.
 14.
-
 15.
-
 16.
-
 17. Stahr, K., Sauer, D., Ottner, F., Itkin, D., (Eds.) 2015. Transactions of the Dan H. Yaalon Symposium at the University of Natural Resources and Life Science (BOKU), 2015, Vienna and Uherske Hradiste. The Institute of Soil Science and Land Evaluation, Hohenheim University (Institut für Bodenkunde und Standortslehre der Universität Hohenheim), Hohenheim, Germany.
-
 18. Stahr, K., Itkin, D., Ottner, F., Verrecchia, E.P., (Eds.) 2016. Dan H. Yaalon Memorial Issue. CATENA, Vol. 146, pp. 1-154.
-
 19. IUSS, 2004. Bulletin of the International Union of Soil Sciences 129, pp.12-13.
-
 20.
 21.
 22.
 23. Yaalon, D.H., 1983. Climate, time and soil development, in: Wilding, L.P., Smeck, N.E., Hall, G.F. (Eds.), Developments in Soil Science 11A, Pedogenesis and Soil Taxonomy, 1. Concepts and Interactions. Elsevier Science Publishers B.V., Amsterdam, pp. 233–251.
-
 24.
 25.
 26.

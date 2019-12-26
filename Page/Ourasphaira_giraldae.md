@@ -13,12 +13,8 @@
 [Category:史前真菌](https://zh.wikipedia.org/wiki/Category:史前真菌 "wikilink") [Category:2019年科學](https://zh.wikipedia.org/wiki/Category:2019年科學 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.

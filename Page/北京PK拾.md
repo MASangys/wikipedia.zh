@@ -75,10 +75,7 @@
 [Category:中国福利彩票](https://zh.wikipedia.org/wiki/Category:中国福利彩票 "wikilink")
 
 1.
-
 2.
 3.  起初為5分鐘一期，於2019年2月11日開始改為20分鐘一期
-
 4.
-
 5.

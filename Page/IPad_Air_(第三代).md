@@ -46,7 +46,7 @@
 <td><p>colspan=2 |圖片</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:IPad_Air.png" title="fig:IPad_Air.png">IPad_Air.png</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:IPad_Air_2.png" title="fig:IPad_Air_2.png">IPad_Air_2.png</a></p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:IPad_Air_3_Mockup.png" title="fig:IPad_Air_3_Mockup.png">IPad_Air_3_Mockup.png</a></p></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 |預裝的作業系統</p></td>
@@ -57,7 +57,7 @@
 <tr class="odd">
 <td><p>colspan=2 |支援最新的作業系統</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.4</p></td>
-<td></td>
+<td><p><a href="../Page/IPadOS.md" title="wikilink">iPadOS 13</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -90,7 +90,7 @@
 <td><p>colspan=2 |圖像處理器</p></td>
 <td><p>G6300</p></td>
 <td><p>GX6850</p></td>
-<td></td>
+<td><p>Apple G11P</p></td>
 </tr>
 <tr class="odd">
 <td><p>colspan=2 |儲存容量</p></td>

@@ -329,7 +329,7 @@ CSUR和UCSUR包含了下列文字：
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/可视语言" title="wikilink">可视语言</a></p></td>
 <td></td>
 <td><p>align="center" data-sort-value="59264" | E780–E7FF</p></td>
 <td></td>
@@ -384,26 +384,15 @@ CSUR和UCSUR包含了下列文字：
 [Category:Unicode](https://zh.wikipedia.org/wiki/Category:Unicode "wikilink") [Category:人工语言](https://zh.wikipedia.org/wiki/Category:人工语言 "wikilink") [Category:信息技术组织](https://zh.wikipedia.org/wiki/Category:信息技术组织 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13. [ConScript Unicode Registry Support · Issue \#883 · googlei18n/noto-fonts · GitHub](https://github.com/googlei18n/noto-fonts/issues/883)

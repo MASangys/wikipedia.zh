@@ -413,13 +413,11 @@
 [Category:向量分析](https://zh.wikipedia.org/wiki/Category:向量分析 "wikilink") [Category:坐标系](https://zh.wikipedia.org/wiki/Category:坐标系 "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
 6.
 7.
-
 8.
 9.

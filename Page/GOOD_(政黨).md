@@ -18,7 +18,7 @@
 
 ### 各省選舉
 
-\! rowspan=2 | 選舉\[4\] \! colspan=2 | [東開普省](../Page/東開普省.md "wikilink") \! colspan=2 | [自由邦省](../Page/自由邦省.md "wikilink") \! colspan=2 | [豪登省](../Page/豪登省.md "wikilink") \! colspan=2 | [夸祖魯-納塔爾省](https://zh.wikipedia.org/wiki/夸祖魯-納塔爾省 "wikilink") \! colspan=2 | [林波波省](https://zh.wikipedia.org/wiki/林波波省 "wikilink") \! colspan=2 | [普馬蘭加省](https://zh.wikipedia.org/wiki/普馬蘭加省 "wikilink") \! colspan=2 | [西北省](https://zh.wikipedia.org/wiki/西北省_\(南非\) "wikilink") \! colspan=2 | [北開普省](../Page/北開普省.md "wikilink") \! colspan=2 | [西開普省](../Page/西開普省.md "wikilink") |- \! % \!\! 席位 \! % \!\! 席位 \! % \!\! 席位 \! % \!\! 席位 \! % \!\! 席位 \! % \!\! 席位 \! % \!\! 席位 \! % \!\! 席位 \! % \!\! 席位 |- \! [2019年](../Page/2019年南非大選.md "wikilink") | 0.24%|| 0/63 | 0.08%|| 0/30 | 0.20%|| 0/73 | 0.11%|| 0/80 | 0.03%|| 0/49 | 0.06%|| 0/30 | 0.12%|| 0/33 | 0.83%|| 0/30 | 3.01%|| 1/42 |}
+\! rowspan=2 | 選舉\[4\] \! colspan=2 | [東開普省](../Page/東開普省.md "wikilink") \! colspan=2 | [自由邦省](../Page/自由邦省.md "wikilink") \! colspan=2 | [豪登省](../Page/豪登省.md "wikilink") \! colspan=2 | [夸祖魯-納塔爾省](../Page/夸祖魯-納塔爾省.md "wikilink") \! colspan=2 | [林波波省](../Page/林波波省.md "wikilink") \! colspan=2 | [普馬蘭加省](../Page/普馬蘭加省.md "wikilink") \! colspan=2 | [西北省](../Page/西北省_\(南非\).md "wikilink") \! colspan=2 | [北開普省](../Page/北開普省.md "wikilink") \! colspan=2 | [西開普省](../Page/西開普省.md "wikilink") |- \! % \!\! 席位 \! % \!\! 席位 \! % \!\! 席位 \! % \!\! 席位 \! % \!\! 席位 \! % \!\! 席位 \! % \!\! 席位 \! % \!\! 席位 \! % \!\! 席位 |- \! [2019年](../Page/2019年南非大選.md "wikilink") | 0.24%|| 0/63 | 0.08%|| 0/30 | 0.20%|| 0/73 | 0.11%|| 0/80 | 0.03%|| 0/49 | 0.06%|| 0/30 | 0.12%|| 0/33 | 0.83%|| 0/30 | 3.01%|| 1/42 |}
 
 ## 參考文獻
 

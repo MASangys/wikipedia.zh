@@ -1,16 +1,16 @@
-[Magpul_MOE_M-LOK_handguard_on_a_privatly_assembled_AR-15.jpg](https://zh.wikipedia.org/wiki/File:Magpul_MOE_M-LOK_handguard_on_a_privatly_assembled_AR-15.jpg "fig:Magpul_MOE_M-LOK_handguard_on_a_privatly_assembled_AR-15.jpg")上的马格普M-LOK[护木](https://zh.wikipedia.org/wiki/护木 "wikilink")\]\]
+[Magpul_MOE_M-LOK_handguard_on_a_privatly_assembled_AR-15.jpg](https://zh.wikipedia.org/wiki/File:Magpul_MOE_M-LOK_handguard_on_a_privatly_assembled_AR-15.jpg "fig:Magpul_MOE_M-LOK_handguard_on_a_privatly_assembled_AR-15.jpg")上的马格普MOE（M-LOK前身）[护木](https://zh.wikipedia.org/wiki/护木 "wikilink")\]\]
 
-**M-LOK**（“模块化锁定”**M**odular **Lo**c**k**的简写）是美国[马格普工业公司研发并注册专利的一款免费许可](../Page/馬格普工業公司.md "wikilink")\[1\]的“负空间”（凹洞式）枪械导轨界面系统，用来部分取代现今被广泛使用的[皮卡汀尼导轨](../Page/皮卡汀尼導軌.md "wikilink")，是马格普推出用来与复仇者武器公司（VLTOR Weapon Systems）研发的[KeyMod系统进行市场竞争的产品](https://zh.wikipedia.org/wiki/KeyMod "wikilink")。与皮轨相比，配有M-LOK和KeyMod的[护木和](https://zh.wikipedia.org/wiki/護木 "wikilink")[前托都更轻](https://zh.wikipedia.org/wiki/枪托 "wikilink")、更紧凑，枪管通风性也更好，而且不像皮轨那样有凸出的尖锐棱角\[2\]。
+**M-LOK**（“模块化锁定”**M**odular **Lo**c**k**的简写）是美国[马格普工业公司研发并注册专利的一款免费许可](../Page/馬格普工業公司.md "wikilink")\[1\]的“负空间”（凹洞式）枪械导轨界面系统，用来部分取代现今被广泛使用的[皮卡汀尼导轨](../Page/皮卡汀尼導軌.md "wikilink")，是马格普推出用来与复仇者武器公司（VLTOR Weapon Systems）研发的[KeyMod系统进行市场竞争的产品](https://zh.wikipedia.org/wiki/KeyMod "wikilink")。与皮卡汀尼导轨相比，配有M-LOK和KeyMod的[护木和](https://zh.wikipedia.org/wiki/護木 "wikilink")[前托都更轻](https://zh.wikipedia.org/wiki/枪托 "wikilink")、更紧凑，枪管通风性也更好，而且不像皮卡汀尼导轨那样有凸出的尖锐棱角\[2\]。
 
 M-LOK系统可以被看做是借鉴了之前失败的“马格普原创器材”（Magpul Original Equipment，简称MOE）的改进设计，但是两者不完全兼容。M-LOK可以依赖转换部件在老式的MOE护木上使用，但是MOE附件完全没有M-LOK转换部件。
 
 ## 研发历史
 
-[M110A1_SDMR.jpg](https://zh.wikipedia.org/wiki/File:M110A1_SDMR.jpg "fig:M110A1_SDMR.jpg")牌M-LOK护木的[M110A1](https://zh.wikipedia.org/wiki/HK_G28狙擊步槍#衍生型 "wikilink")[精确射手步枪](../Page/精確射手步槍.md "wikilink")\]\] 马格普在2007年底在[马沙达概念步枪上就公开了MOE凹孔的原型设计](../Page/雷明登ACR突擊步槍.md "wikilink")，并于2009年正式推出了MOE护木和皮轨转换条、战术灯安装件、握把、两脚架安装件等匹配产品。但是MOE设计有着必须能够进入护木内侧才能安装的缺点，使其无法在浮置式护木上使用。而且MOE凹孔的间隔太宽而且不够统一，限制了附件安装位置的选择面。在这种情况下，马格普开启了备用方案，重新设计了M-LOK系统并于2014年全面取代了MOE设计。M-LOK导轨完全用[公制取代了](https://zh.wikipedia.org/wiki/公制 "wikilink")[英制指标](https://zh.wikipedia.org/wiki/英制 "wikilink")，使用只能旋转90度的T形螺母进行固定，使其能够方便的安装在浮置式护木上，而且可以在金属或聚合物材料的护木上使用。
+[M110A1_SDMR.jpg](https://zh.wikipedia.org/wiki/File:M110A1_SDMR.jpg "fig:M110A1_SDMR.jpg") M-LOK护木的[M110A1](https://zh.wikipedia.org/wiki/HK_G28狙擊步槍#衍生型 "wikilink")[精确射手步枪](../Page/精確射手步槍.md "wikilink")|替代=\]\] 马格普在2007年底在[马沙达概念步枪上就公开了MOE凹孔的原型设计](../Page/雷明登ACR突擊步槍.md "wikilink")，并于2009年正式推出了MOE护木和皮轨转换条、战术灯安装件、握把、两脚架安装件等匹配产品。但是MOE设计有着必须能够进入护木内侧才能安装的缺点，使其无法在浮置式护木上使用。而且MOE凹孔的间隔太宽而且不够统一，限制了附件安装位置的选择面。在这种情况下，马格普开启了备用方案，重新设计了M-LOK系统并于2014年全面取代了MOE设计。M-LOK导轨完全用[公制取代了](https://zh.wikipedia.org/wiki/公制 "wikilink")[英制指标](https://zh.wikipedia.org/wiki/英制 "wikilink")，使用只能旋转90度的T形螺母进行固定，使其能够方便的安装在浮置式护木上，而且可以在金属或聚合物材料的护木上使用。
 
 M-LOK比KeyMod晚两年推出，因此在初期具有劣势。2016年，[加拿大柯尔特研发并推出了使用配有M](https://zh.wikipedia.org/wiki/加拿大柯爾特 "wikilink")-LOK系统的一体化机匣的“模块化导轨步枪”（Modular Rail Rifle，简称MRR）\[3\]。2017年开始，许多之前生产KeyMod的厂家都开始改去生产M-LOK产品，使得M-LOK在销售量方面后来者居上，在一些厂商中甚至超过KeyMod三倍之多\[4\]。
 
-2017年4月初，海军地面武器研制中心（Naval Surface Warfare Center - Crane Division）对M-LOK和KeyMod等导轨系统的性能进行了测试。在NSWC Crane的测试中， Aero Precision、Midwest Industries和Seekins三家附件公司分别提供了三种KeyMod和三种M-LOK产品。所有的导轨系统都通过了耐久性和极限条件试验，但是在其它试验中M-LOK总体优于其它系统。例如：
+2017年4月初，海军地面武器研制中心（Naval Surface Warfare Center - Crane Division）对M-LOK和KeyMod等导轨系统的性能进行了测试。在NSWC Crane的测试中，Aero Precision、Midwest Industries和Seekins三家附件公司分别提供了三种KeyMod和三种M-LOK产品。所有的导轨系统都通过了耐久性和极限条件试验，但是在其它试验中M-LOK总体优于其它系统。例如：
 
   - 在重复拆装性能对比试验中，M-LOK在同一位置重复拆装同一附件后目标点的平均偏差仅为1.3[角分](https://zh.wikipedia.org/wiki/角分 "wikilink")，只有其它导轨平均偏移量的四分之一；
   - 在一致性测试中，KeyMod的瞄准点偏移范围在0.2～14.6角分之间，而M-LOK仅为0.0～6.6角分之间；

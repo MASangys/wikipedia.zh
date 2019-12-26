@@ -69,6 +69,6 @@ NSP-3利用[華沙條約導軌](../Page/華沙條約導軌.md "wikilink")將其�
 
   - —[Описание ночного оптического прицела НСП-3 на сайте russianguns.ru](http://russianguns.ru/?p=5949)
 
-  - —[Обзор ночных прицелов отечественного производства на сайте www.bratishka.ru](http://www.bratishka.ru/archiv/2007/11/2007_11_11.php)
+  - —[Обзор ночных прицелов отечественного производства на сайте www.bratishka.ru](https://web.archive.org/web/20140524081931/http://www.bratishka.ru/archiv/2007/11/2007_11_11.php)
 
 [Category:槍械瞄準](https://zh.wikipedia.org/wiki/Category:槍械瞄準 "wikilink") [Category:军事装备](https://zh.wikipedia.org/wiki/Category:军事装备 "wikilink")

@@ -37,7 +37,7 @@
 
 ## 開發與發布
 
-[Kinect_Sports_Demo_at_Millennium_2010.jpg](https://zh.wikipedia.org/wiki/File:Kinect_Sports_Demo_at_Millennium_2010.jpg "fig:Kinect_Sports_Demo_at_Millennium_2010.jpg")[維也納](../Page/維也納.md "wikilink")的《Kinect 運動大會》[游戏演示](https://zh.wikipedia.org/wiki/游戏演示 "wikilink")。<small>（2010年9月）</small>\]\]
+[Kinect_Sports_Demo_at_Millennium_2010.jpg](https://zh.wikipedia.org/wiki/File:Kinect_Sports_Demo_at_Millennium_2010.jpg "fig:Kinect_Sports_Demo_at_Millennium_2010.jpg")[維也納](../Page/維也納.md "wikilink")的《Kinect 運動大會》[游戏演示](https://zh.wikipedia.org/wiki/游戏演示 "wikilink")。<small>（攝於2010年9月）</small>\]\]
 
 2009年6月1日，[微軟在](../Page/微软.md "wikilink")[E3电子娱乐展](../Page/E3电子娱乐展.md "wikilink")上宣布，他們將推出一款能感應肢體動作的全新感應器，代號為「誕生計畫」（）\[37\]\[38\]。到了2010年的E3，微軟於6月13日星期日晚間在舉辦發表會，宣布「誕生計畫」的正式名稱——[Kinect](../Page/Kinect.md "wikilink")，同時公開6款Kinect遊戲的資訊，當中就包含了《Kinect 運動大會》\[39\]\[40\]\[41\]\[42\]\[43\]。隨後，微軟在[太陽劇團](../Page/太陽劇團.md "wikilink")的表演中展出該作的部分遊戲內容，但不供人試玩\[44\]\[45\]\[46\]。6月14日，微軟官方宣布，《Kinect 運動大會》將與其他14款Kinect遊戲一起隨著感應器在美國上市，預定發售日期為同年11月4日\[47\]\[48\]。7月下旬，微軟在[圣地亚哥国际漫画展](../Page/圣地亚哥国际漫画展.md "wikilink")上開放《Kinect 運動大會》試玩\[49\]。微軟也在7月中旬至10月下旬在北美32個城市設立展示點，開放民眾搶先試玩\[50\]。10月中旬，微軟公布，將於11月4日推出的Kinect遊戲減少為12款（包含該作）\[51\]。
 
@@ -86,27 +86,20 @@
   - [YouTube](../Page/YouTube.md "wikilink")上的[官方預告](https://www.youtube.com/watch?v=znL7BQQSlso)
   - [遊戲說明書線上下載](http://download.microsoft.com/download/F/9/9/F99AB8F0-5191-4EDD-B312-7A9B9E4784FA/KinectSports_MNL_ZH.pdf)
 
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:足球游戏](https://zh.wikipedia.org/wiki/Category:足球游戏 "wikilink") [Category:Kinect游戏](https://zh.wikipedia.org/wiki/Category:Kinect游戏 "wikilink") [Category:微軟遊戲](https://zh.wikipedia.org/wiki/Category:微軟遊戲 "wikilink") [Category:聚会游戏](https://zh.wikipedia.org/wiki/Category:聚会游戏 "wikilink") [Category:Rareware游戏](https://zh.wikipedia.org/wiki/Category:Rareware游戏 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink")
+[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:足球电子游戏](https://zh.wikipedia.org/wiki/Category:足球电子游戏 "wikilink") [Category:Kinect游戏](https://zh.wikipedia.org/wiki/Category:Kinect游戏 "wikilink") [Category:微軟遊戲](https://zh.wikipedia.org/wiki/Category:微軟遊戲 "wikilink") [Category:聚会游戏](https://zh.wikipedia.org/wiki/Category:聚会游戏 "wikilink") [Category:Rareware游戏](https://zh.wikipedia.org/wiki/Category:Rareware游戏 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
 9.
 10.
-
 11.
 12.
-
 13.
 14.
 15.
@@ -130,63 +123,36 @@
 33.
 34.
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
 45.
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
 56.
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
 67.
 68.
@@ -196,28 +162,16 @@
 72.
 73.
 74.
-
 75.
-
 76.
-
 77.
-
 78.
-
 79.
-
 80.
-
 81.
-
 82.
-
 83.
-
 84.
-
 85.
-
 86.
 87.

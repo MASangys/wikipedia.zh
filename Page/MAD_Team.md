@@ -14,7 +14,7 @@
 <td><p>ID</p></td>
 <td><p>本名</p></td>
 <td><p>位置</p></td>
-<td><p>地区</p></td>
+<td><p>國家</p></td>
 <td><p>備註</p></td>
 </tr>
 <tr class="even">
@@ -25,20 +25,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Benny</p></td>
-<td><p>連修琪</p></td>
-<td><p>打野</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>Uniboy</p></td>
 <td><p>陳昌駒</p></td>
 <td><p>中路</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>K</p></td>
 <td><p>柯凱盛</p></td>
 <td><p>輔助</p></td>
@@ -55,22 +48,28 @@
 <tr class="odd">
 <td><p>ID</p></td>
 <td><p>本名</p></td>
-<td><p>國家/地區</p></td>
+<td><p>國家</p></td>
 <td><p>職位</p></td>
 </tr>
 <tr class="even">
+<td><p>TL</p></td>
+<td><p>楊博任</p></td>
+<td></td>
+<td><p>總教練</p></td>
+</tr>
+<tr class="odd">
 <td><p>Paul</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/孫蒲生" title="wikilink">孫蒲生</a></p></td>
 <td></td>
 <td><p>教練</p></td>
 </tr>
-<tr class="odd">
-<td><p>Toolong</p></td>
-<td><p>楊博任</p></td>
+<tr class="even">
+<td><p>Achie</p></td>
+<td><p>陳振齊</p></td>
 <td></td>
 <td><p>教練</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -87,27 +86,27 @@
 <td><p>ID</p></td>
 <td><p>本名</p></td>
 <td><p>位置</p></td>
-<td><p>地区</p></td>
+<td><p>國家</p></td>
 <td><p>備註</p></td>
 </tr>
 <tr class="even">
-<td><p>Greentea</p></td>
-<td><p><a href="../Page/蔡尚精.md" title="wikilink">蔡尚精</a></p></td>
-<td><p>主教練</p></td>
+<td><p>Benny</p></td>
+<td><p>連修琪</p></td>
+<td><p>打野</p></td>
 <td></td>
-<td><p>加入<a href="https://zh.wikipedia.org/wiki/RNG" title="wikilink">RNG</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>Liang</p></td>
-<td><p>吳亮德</p></td>
-<td><p>上路</p></td>
+<td><p>Breeze</p></td>
+<td><p>黃建源</p></td>
+<td><p>下路</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Breeze</p></td>
-<td><p>黃建源</p></td>
-<td><p>下路</p></td>
+<td><p>Liang</p></td>
+<td><p>吳亮德</p></td>
+<td><p>上路</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -117,6 +116,13 @@
 <td><p>打野</p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>Greentea</p></td>
+<td><p><a href="../Page/蔡尚精.md" title="wikilink">蔡尚精</a></p></td>
+<td><p>主教練</p></td>
+<td></td>
+<td><p>加入<a href="https://zh.wikipedia.org/wiki/RNG" title="wikilink">RNG</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -139,7 +145,7 @@
 <td><p>本名</p></td>
 <td><p>本名ID</p></td>
 <td><p>位置</p></td>
-<td><p>地區</p></td>
+<td><p>國家</p></td>
 <td><p>備註</p></td>
 </tr>
 <tr class="even">
@@ -209,7 +215,7 @@
 <td><p>本名</p></td>
 <td><p>本名ID</p></td>
 <td><p>位置</p></td>
-<td><p>地區</p></td>
+<td><p>國家</p></td>
 <td><p>備註</p></td>
 </tr>
 <tr class="even">
@@ -274,7 +280,7 @@
 <td><p>ID</p></td>
 <td><p>本名</p></td>
 <td><p>位置</p></td>
-<td><p>地区</p></td>
+<td><p>國家</p></td>
 <td><p>備註</p></td>
 </tr>
 <tr class="even">

@@ -174,14 +174,9 @@
 [Category:西海岸嘻哈音乐人](https://zh.wikipedia.org/wiki/Category:西海岸嘻哈音乐人 "wikilink") [Category:非裔美国男性饶舌歌手](https://zh.wikipedia.org/wiki/Category:非裔美国男性饶舌歌手 "wikilink") [Category:瘸帮](https://zh.wikipedia.org/wiki/Category:瘸帮 "wikilink") [Category:21世纪美国饶舌歌手](https://zh.wikipedia.org/wiki/Category:21世纪美国饶舌歌手 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.

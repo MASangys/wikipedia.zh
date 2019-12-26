@@ -19,9 +19,6 @@
 [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:合輯](https://zh.wikipedia.org/wiki/Category:合輯 "wikilink") [Category:使用Vocaloid的歌曲](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

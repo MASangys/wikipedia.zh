@@ -441,13 +441,13 @@ Que sera, sera（期間限定通常盤のみ）<br />
 
   - 04月28日 - 「0428 二人の記念日、待ち合わせ場所は･･･渋谷でしょ？」
   - 08月24日 - 「ひまわり」
-  - 11月06日 - 「100人限定スレ」
+  - 11月6日 - 「100人限定スレ」
   - 12月31日 - 「ワンマンスレ 大晦日だね。来年もどうにか生き延びよう…。」
 
 **2015年**
 
   - 01月23日〜02月14日 - 「初めまして、ミオヤマザキです。TOUR」
-  - 04月01日 - 「ミオラーハンター・フェスティバル」
+  - 04月1日 - 「ミオラーハンター・フェスティバル」
   - 04月28日 - 「0428 二人の記念日　待ち合わせ場所は渋谷でしょ？」
 
 <!-- end list -->
@@ -456,7 +456,7 @@ Que sera, sera（期間限定通常盤のみ）<br />
 
 　　w/[SuG](../Page/SuG.md "wikilink")/[BiSH](../Page/BiSH.md "wikilink")
 
-  - 11月01日 - 「ミオフェス大阪編」
+  - 11月1日 - 「ミオフェス大阪編」
 
 　　w/マイナス人生オーケストラ/[プティパ-petit pas\!-](https://zh.wikipedia.org/wiki/プティパ-petit_pas!- "wikilink")
 
@@ -466,7 +466,7 @@ Que sera, sera（期間限定通常盤のみ）<br />
 
   - 01月10日 - ミオヤマザキ ワンマンTOUR 2015セミファイナル「たった4、500人のライブハウスで歌ってる今の私達に何が出来るのか」
   - 02月13日 - ミオヤマザキ ワンマンTOUR 2015ファイナル「たった7、800人のライブハウスで歌ってる今の私達が伝えたいこと」
-  - 03月01日 - 「ワンコイン ワンマンスレ特別企画“ミオラーハンターフェスティバル”〜大阪編〜」
+  - 03月1日 - 「ワンコイン ワンマンスレ特別企画“ミオラーハンターフェスティバル”〜大阪編〜」
 
 <!-- end list -->
 
@@ -475,7 +475,7 @@ Que sera, sera（期間限定通常盤のみ）<br />
 　　w/The Winking Owl/[まなみのりさ](https://zh.wikipedia.org/wiki/まなみのりさ "wikilink")/[ALL CITY STEPPERS](https://zh.wikipedia.org/wiki/ALL_CITY_STEPPERS "wikilink")
 
   - 04月28日 - 「0428 二人の記念日、待ち合わせ場所は･･･大阪でしょ？」
-  - 05月08日 - 「Challenge」
+  - 05月8日 - 「Challenge」
 
 <!-- end list -->
 
@@ -491,7 +491,7 @@ Que sera, sera（期間限定通常盤のみ）<br />
 
 　　w/[ピアノゾンビ](https://zh.wikipedia.org/wiki/ピアノゾンビ "wikilink")/[バックドロップシンデレラ](https://zh.wikipedia.org/wiki/バックドロップシンデレラ "wikilink")
 
-  - 11月05日〜12月10日 - ミオヤマザキワンマンスレツアー2016「Seven Pistols」
+  - 11月5日〜12月10日 - ミオヤマザキワンマンスレツアー2016「Seven Pistols」
 
 **2017年**
 
@@ -499,7 +499,7 @@ Que sera, sera（期間限定通常盤のみ）<br />
 
 <!-- end list -->
 
-  - 03月02日 - ミオヤマザキ無料ワンマンスレ「4/1野音のプロモーション～野音まで残り３０日編～」
+  - 03月2日 - ミオヤマザキ無料ワンマンスレ「4/1野音のプロモーション～野音まで残り３０日編～」
 
 <!-- end list -->
 
@@ -507,7 +507,7 @@ Que sera, sera（期間限定通常盤のみ）<br />
 
 <!-- end list -->
 
-  - 04月01日 - 重大告白
+  - 04月1日 - 重大告白
   - 04月28日 - 「0428 二人の記念日、待ち合わせ場所は・・・渋谷でしょ？」
 
 <!-- end list -->
@@ -536,11 +536,11 @@ Que sera, sera（期間限定通常盤のみ）<br />
 
 　　w/[BiSH](../Page/BiSH.md "wikilink")/[ゆるめるモ\!](https://zh.wikipedia.org/wiki/ゆるめるモ! "wikilink")
 
-  - 07月03日 - 「ミオフェス〜東京編その２〜」
+  - 07月3日 - 「ミオフェス〜東京編その２〜」
 
 　　w/[R指定](https://zh.wikipedia.org/wiki/R指定_\(バンド\) "wikilink")
 
-  - 07月08日 - 「ミオフェス〜沖縄編〜」
+  - 07月8日 - 「ミオフェス〜沖縄編〜」
 
 <!-- end list -->
 
@@ -595,7 +595,7 @@ Que sera, sera（期間限定通常盤のみ）<br />
 **2014年**
 
   - 05月23日 - トイモイ祭 2014～梅雨～
-  - 08月02日 - SENDAI 69 FRONT vol.1
+  - 08月2日 - SENDAI 69 FRONT vol.1
   - 08月16日 - TREASURE05X 2014 ～summer triangle～
   - 09月11日 - 音エモン presents「LIVE BURGER next vol.2」
 
@@ -606,7 +606,7 @@ Que sera, sera（期間限定通常盤のみ）<br />
   - 03月21日 - OTOEMON FESTA 2015
   - 05月22日 - Mount Alive presents "NO BORDER 2"
   - 05月30日〜31日 - [アーバンギャルド](https://zh.wikipedia.org/wiki/アーバンギャルド "wikilink")2015 春を売れ\! SPRING SALE TOUR
-  - 06月09日 - ロックの日
+  - 06月9日 - ロックの日
   - 06月12日 - Big Benn vol.6
   - 06月21日 - YATSUI FESTIVAL\! 2015
   - 07月18日 - [JOIN ALIVE](https://zh.wikipedia.org/wiki/JOIN_ALIVE "wikilink") 2015
@@ -618,8 +618,8 @@ Que sera, sera（期間限定通常盤のみ）<br />
 
   - 01月24日 - [WHITE JAM主催](https://zh.wikipedia.org/wiki/WHITE_JAM "wikilink")「特になんの記念でもない記念〜ミオちゃん大阪の女にならへんか？って言われたいんやけど〜」
   - 04月20日 - 本日仏滅
-  - 05月04日 - hide tribute 2016 -BEAUTY Side-
-  - 05月08日 - ガールズトークフェスティバル
+  - 05月4日 - hide tribute 2016 -BEAUTY Side-
+  - 05月8日 - ガールズトークフェスティバル
   - 06月18日 - GREEN SPARK\!\!
   - 06月24日 - CLUB UPSET 10th ANNIVERSARY
   - 07月30日 - ヒステリックパニック主催「第23回納涼！盆踊りツアー暴れたい放題プラン」
@@ -628,18 +628,18 @@ Que sera, sera（期間限定通常盤のみ）<br />
   - 09月18日 - イナズマロックフェス2016
   - 09月19日 - LARK LAND
   - 09月26日 - DMM. yell Live 2016 ～禁断のツーマンライブ～ミオヤマザキ×恵比寿★マスカッツ
-  - 10月01日 - MEGA★ROCKS2016
+  - 10月1日 - MEGA★ROCKS2016
   - 11月25日 - [R指定主催](https://zh.wikipedia.org/wiki/R指定_\(バンド\) "wikilink")「メンヘラの集い2016～主催イベント編～」
   - 12月31日 - トイモイ祭〜ありがとう2016年〜
 
 **2017年**
 
   - 01月27日 - THE BATTLE OF SHIBUYA
-  - 05月04日 - hide tribute 2017 -BEAUTY Side-
-  - 06月04日 - 百万石音楽祭2017 ～ミリオンロックフェスティバル～
+  - 05月4日 - hide tribute 2017 -BEAUTY Side-
+  - 06月4日 - 百万石音楽祭2017 ～ミリオンロックフェスティバル～
   - 06月18日 - 第7回長野県高校生バンド選手権(ゲスト出演)
   - 08月19日 - SUMMER SONIC 2017
-  - 10月06日 - Bands Shock REVOLUTION～びじゅある祭～
+  - 10月6日 - Bands Shock REVOLUTION～びじゅある祭～
   - 10月21日 - [R指定主催](https://zh.wikipedia.org/wiki/R指定_\(バンド\) "wikilink")「メンヘラの集い2017～大阪編～」
   - 10月22日 - [R指定主催](https://zh.wikipedia.org/wiki/R指定_\(バンド\) "wikilink")「メンヘラの集い2017～名古屋編～」
 
@@ -650,10 +650,10 @@ Que sera, sera（期間限定通常盤のみ）<br />
   - 04月20日 - Laugh & Peace Music presents〜よしもと音人祭り〜
   - 04月29日 - ニコニコ超会議＆超音楽祭2019
   - 05月20日 - FASHION LEADERS 2018 SPRING/SUMMER
-  - 06月02日&3日 - Anime Messe Berlin 2018＠ドイツ・ベルリン
-  - 07月09日 - [SADS](https://zh.wikipedia.org/wiki/SADS "wikilink") presents 『EVIL 77』
+  - 06月2日&3日 - Anime Messe Berlin 2018＠ドイツ・ベルリン
+  - 07月9日 - [SADS](https://zh.wikipedia.org/wiki/SADS "wikilink") presents 『EVIL 77』
   - 07月28日 - [DEZERT](https://zh.wikipedia.org/wiki/DEZERT "wikilink") presents 『DEZERT PARTY Vol.12』
-  - 09月01日 - RUSH BALL 20th ANNIVERSARY
+  - 09月1日 - RUSH BALL 20th ANNIVERSARY
   - 10月17日 - [R指定主催](https://zh.wikipedia.org/wiki/R指定_\(バンド\) "wikilink") 『メンヘラの集い2018』
 
 #### 2019年
@@ -662,10 +662,10 @@ Que sera, sera（期間限定通常盤のみ）<br />
   - 03月23日 - ROCK ON JAPAN@香港
   - 03月24日 - 福岡エフエックス
   - 04月14日 - Three Energies Vol.1@仙台
-  - 05月03日 - Tokyo Street Collection 2019
+  - 05月3日 - Tokyo Street Collection 2019
   - 05月18日 - METROCK 2019＠大阪
-  - 06月01日 - 百万石音楽祭2019 ～ミリオンロックフェスティバル～
-  - 06月02日 - サカエスプリング2019
+  - 06月1日 - 百万石音楽祭2019 ～ミリオンロックフェスティバル～
+  - 06月2日 - サカエスプリング2019
   - 07月14日 - [感覚ピエロ主催](https://zh.wikipedia.org/wiki/感覚ピエロ "wikilink") 5-6th anniversary『LIVE - RATION 2019』～奮い立たせてなんぼでしょ～
   - 08月11日 - [ROCK IN JAPAN FESTIVAL](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2019
   - 09月14日\~16日 - TOKYO CALLING
@@ -686,10 +686,7 @@ Que sera, sera（期間限定通常盤のみ）<br />
 
 1.
 2.  ミオヤマザキ主催「ミオフェス」にSuG、マスカッツ、ゆるめるモ！、BiSH、R指定ら[20](http://natalie.mu/music/news/223268)
-
 3.  TVアニメ「地獄少女 宵伽」オープニングテーマはミオヤマザキのニューシングルに決定！http://www.animatetimes.com/news/details.php?id=1490936168
-
 4.
 5.
-
 6.

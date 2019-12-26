@@ -24,10 +24,7 @@
 [Category:美國半自動手槍](https://zh.wikipedia.org/wiki/Category:美國半自動手槍 "wikilink") [Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:.22_LR口徑槍械](https://zh.wikipedia.org/wiki/Category:.22_LR口徑槍械 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.

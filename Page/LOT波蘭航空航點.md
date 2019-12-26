@@ -1156,7 +1156,7 @@
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/北京大興國際機場" title="wikilink">北京大興國際機場</a></p></td>
 <td style="text-align: left;"><p>PKX</p></td>
 <td style="text-align: left;"><p>ZBAD</p></td>
-<td><p>（2019年10月28日起飛航）</p></td>
+<td><p>（2020年1月15日起飛航）</p></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 </tr>
@@ -1226,7 +1226,7 @@
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/班達拉奈克國際機場" title="wikilink">班達拉奈克國際機場</a></p></td>
 <td style="text-align: left;"><p>CMB</p></td>
 <td style="text-align: left;"><p>VCBI</p></td>
-<td><p>（2019年11月3日起飛航）</p></td>
+<td></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 </tr>

@@ -25,5 +25,4 @@
 [Category:1916年建立的组织](https://zh.wikipedia.org/wiki/Category:1916年建立的组织 "wikilink") [Category:斯德哥尔摩公司](https://zh.wikipedia.org/wiki/Category:斯德哥尔摩公司 "wikilink")
 
 1.
-
 2.

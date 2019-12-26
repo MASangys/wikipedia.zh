@@ -34,13 +34,6 @@
 <td><p>[5]</p></td>
 </tr>
 <tr class="odd">
-<td><p>2019年12月7日</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/五糧液成都金融城演藝中心" title="wikilink">五糧液成都金融城演藝中心</a></p></td>
-<td><p>1場</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>2019年12月14日</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北小巨蛋" title="wikilink">台北小巨蛋</a></p></td>

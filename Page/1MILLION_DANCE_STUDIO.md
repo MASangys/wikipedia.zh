@@ -1,12 +1,10 @@
-**1MILLION DANCE STUDIO**是一家韓國的舞蹈工作室，2006年由Lia Kim成立\[1\]目前旗下有20名編舞家，其中有12位女編舞家及8位男編舞家。\[2\]\[3\]\[4\]。
+**1MILLION DANCE STUDIO**是一家韓國的舞蹈工作室，2006年由Lia Kim成立\[1\]目前旗下有21名編舞家，其中有12位女編舞家及9位男編舞家。\[2\]\[3\]\[4\]。
 
 ## 目前旗下編舞家
 
 ### 女編舞家
 
-  - Mina Myoung
   - [Lia Kim](https://zh.wikipedia.org/wiki/Lia_Kim "wikilink") (創辦人)
-  - [May J Lee](../Page/May_J_Lee.md "wikilink")
   - Yoojung Lee
   - Jin Lee
   - Hyojin Choi
@@ -21,7 +19,6 @@
 ### 男編舞家
 
   - Shawn
-  - Jinwoo Yoon
   - Eunho Kim
   - Junsun Yoo
   - Koosung Jung
@@ -37,6 +34,9 @@
 <!-- end list -->
 
   - Sori Na(2018)
+  - May J Lee(2019)
+  - Jinwoo Yoon（2019.08.31）
+  - Mina Myoung(2019.11.25)
 
 ## 備註
 

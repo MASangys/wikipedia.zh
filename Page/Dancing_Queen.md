@@ -5,8 +5,6 @@
 [Category:1976年歌曲](https://zh.wikipedia.org/wiki/Category:1976年歌曲 "wikilink") [Category:1992年單曲](https://zh.wikipedia.org/wiki/Category:1992年單曲 "wikilink") [Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink") [Category:告示牌百強單曲榜冠軍單曲](https://zh.wikipedia.org/wiki/Category:告示牌百強單曲榜冠軍單曲 "wikilink") [Category:英国单曲排行榜冠军单曲](https://zh.wikipedia.org/wiki/Category:英国单曲排行榜冠军单曲 "wikilink") [Category:澳大利亚冠军单曲](https://zh.wikipedia.org/wiki/Category:澳大利亚冠军单曲 "wikilink") [Category:德国冠军单曲](https://zh.wikipedia.org/wiki/Category:德国冠军单曲 "wikilink") [Category:挪威冠军单曲](https://zh.wikipedia.org/wiki/Category:挪威冠军单曲 "wikilink") [Category:舞蹈題材歌曲](https://zh.wikipedia.org/wiki/Category:舞蹈題材歌曲 "wikilink")
 
 1.
-
 2.
 3.
-
 4.

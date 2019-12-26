@@ -1,4 +1,4 @@
-波士顿轻轨**C支线**也被称作**灯塔街支线**或**克利夫兰环岛支线**，位于[美国](../Page/美国.md "wikilink")[马萨诸塞州](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[波士顿](../Page/波士顿.md "wikilink")，是一条沿着往返于波士顿市中心和[布鲁克莱恩的](https://zh.wikipedia.org/wiki/布鲁克莱恩_\(马萨诸塞州\) "wikilink")[轻轨线](https://zh.wikipedia.org/wiki/轻轨 "wikilink")。[波士顿轻轨绿线](../Page/波士顿轻轨绿线.md "wikilink")一共有4条支线，其中C支线在[肯莫尔站](../Page/肯莫尔站.md "wikilink")分叉开往，之后在灯塔街道路中央隔离带行驶，终点站为[克利夫兰环岛站](../Page/克利夫兰环岛站.md "wikilink")。[肯莫尔站](../Page/肯莫尔站.md "wikilink")同时也是B支线和D支线的分叉口。B、C、D支线在肯莫尔站汇合后沿着和行驶至波士顿市中心。，C支线入城方向的终点站为[波士顿北站](https://zh.wikipedia.org/wiki/波士顿北站 "wikilink")，继续向北前往[莱希米尔站](../Page/莱希米尔站.md "wikilink")需要换乘E支线。
+波士顿轻轨**C支线**也被称作**灯塔街支线**或**克利夫兰环岛支线**，位于[美国](../Page/美国.md "wikilink")[马萨诸塞州](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[波士顿](../Page/波士顿.md "wikilink")，是一条沿着往返于波士顿市中心和[布鲁克莱恩的](https://zh.wikipedia.org/wiki/布鲁克莱恩_\(马萨诸塞州\) "wikilink")[轻轨](../Page/轻轨.md "wikilink")线。[波士顿轻轨绿线](../Page/波士顿轻轨绿线.md "wikilink")一共有4条支线，其中C支线在[肯莫尔站](../Page/肯莫尔站.md "wikilink")分叉开往[圣玛丽街站](https://zh.wikipedia.org/wiki/圣玛丽街站 "wikilink")，之后在灯塔街道路中央隔离带行驶，终点站为[克利夫兰环岛站](../Page/克利夫兰环岛站.md "wikilink")。[肯莫尔站](../Page/肯莫尔站.md "wikilink")同时也是B支线和D支线的分叉口。B、C、D支线在肯莫尔站汇合后沿着和行驶至波士顿市中心。，C支线入城方向的终点站为[波士顿北站](https://zh.wikipedia.org/wiki/波士顿北站 "wikilink")，继续向北前往[莱希米尔站](../Page/莱希米尔站.md "wikilink")需要换乘E支线。
 
 ## 信号灯
 
@@ -10,9 +10,9 @@
 
 ## 历史
 
-[PCC_at_Boylston_HDR.jpg](https://zh.wikipedia.org/wiki/File:PCC_at_Boylston_HDR.jpg "fig:PCC_at_Boylston_HDR.jpg")展览\]\] [Boston_Boeing_LRV_3463_on_Beacon_St_crossing_Washington_St_in_1987.jpg](https://zh.wikipedia.org/wiki/File:Boston_Boeing_LRV_3463_on_Beacon_St_crossing_Washington_St_in_1987.jpg "fig:Boston_Boeing_LRV_3463_on_Beacon_St_crossing_Washington_St_in_1987.jpg")穿过华盛顿街\]\] [St_Marys_Street_portal_entrance.jpg](https://zh.wikipedia.org/wiki/File:St_Marys_Street_portal_entrance.jpg "fig:St_Marys_Street_portal_entrance.jpg") 灯塔街第一条有轨火车轨道于1888年铺设，从西侧通往。第二年，通往的轨道全部铺完，并于水库车厂相连。1889年，第一辆电气化有轨电车线路（详见）从柯立芝角向东开往马萨诸塞州大道，然后沿着马萨诸塞州大道行驶一小段距离后再沿着开往。同一年，克利夫兰环岛至柯立芝角路段也完成[电气化改造](../Page/電氣化鐵路.md "wikilink")。
+[PCC_at_Boylston_HDR.jpg](https://zh.wikipedia.org/wiki/File:PCC_at_Boylston_HDR.jpg "fig:PCC_at_Boylston_HDR.jpg")展览\]\] [Boston_Boeing_LRV_3463_on_Beacon_St_crossing_Washington_St_in_1987.jpg](https://zh.wikipedia.org/wiki/File:Boston_Boeing_LRV_3463_on_Beacon_St_crossing_Washington_St_in_1987.jpg "fig:Boston_Boeing_LRV_3463_on_Beacon_St_crossing_Washington_St_in_1987.jpg")穿过华盛顿街\]\] [St_Marys_Street_portal_entrance.jpg](https://zh.wikipedia.org/wiki/File:St_Marys_Street_portal_entrance.jpg "fig:St_Marys_Street_portal_entrance.jpg") 灯塔街第一条有轨火车轨道于1888年铺设，从西侧通往。第二年，通往的轨道全部铺完，并于水库车厂相连。1889年，第一辆电气化有轨电车线路（详见）从柯立芝角向东开往马萨诸塞州大道，然后沿着马萨诸塞州大道行驶一小段距离后再沿着[博伊尔斯顿街](../Page/博伊尔斯顿街.md "wikilink")开往。同一年，克利夫兰环岛至柯立芝角路段也完成[电气化改造](../Page/電氣化鐵路.md "wikilink")。
 
-除此以外，驶来的有轨电车沿着华盛顿街行驶，在汇入灯塔山街。这条线后来向北延伸至栗山大道，再向西沿着[联邦大道 (波士顿)延伸至](https://zh.wikipedia.org/wiki/联邦大道_\(波士顿\) "wikilink")[波士顿学院站](../Page/波士顿学院站.md "wikilink")，是[65路公交的前身](https://zh.wikipedia.org/wiki/马萨诸塞湾交通局公交列表#65 "wikilink")。
+除此以外，驶来的有轨电车沿着华盛顿街行驶，在[华盛顿广场站汇入灯塔山街](https://zh.wikipedia.org/wiki/华盛顿广场站 "wikilink")。这条线后来向北延伸至栗山大道，再向西沿着[联邦大道 (波士顿)延伸至](https://zh.wikipedia.org/wiki/联邦大道_\(波士顿\) "wikilink")[波士顿学院站](../Page/波士顿学院站.md "wikilink")，是[65路公交的前身](https://zh.wikipedia.org/wiki/马萨诸塞湾交通局公交列表#65 "wikilink")。
 
 1897年9月1日，竣工通车，灯塔街有轨电车很快便使用[波士顿公共花园](../Page/波士顿公共花园.md "wikilink")旁的博伊尔斯顿隧道入口驶入[公园街站](../Page/公园街站.md "wikilink")。1914年10月3日，完成后，隧道一直从公园街铺设至[肯莫尔站](../Page/肯莫尔站.md "wikilink")。1932年10月23日，圣玛丽街隧道入口竣工，有轨电车从该入口驶入隧道。
 
@@ -33,31 +33,31 @@ C支线的终点站在几十年间不停变换，2005年1月1日后，其终点�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/圣玛丽街站" title="wikilink">圣玛丽街</a></p></td>
 <td><p>St. Marys Street</p></td>
 <td><p>灯塔街与圣玛丽街路口</p></td>
 <td><p>{{tsl|en|MBTA crosstown bus routes</p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/霍伊斯街站" title="wikilink">霍伊斯街</a></p></td>
 <td><p>Hawes Street</p></td>
 <td><p>灯塔街与霍伊斯街路口</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/肯特街站" title="wikilink">肯特街</a></p></td>
 <td><p>Kent Street</p></td>
 <td><p>灯塔街与鲍威尔街路口</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/圣保罗街站_(波士顿轻轨绿线C支线)" title="wikilink">圣保罗街</a></p></td>
 <td><p>St. Paul Street</p></td>
 <td><p>灯塔街与圣保罗街路口</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柯立芝角站" title="wikilink">柯立芝角</a></p></td>
 <td><p>Coolidge Corner</p></td>
 <td><p>灯塔街与哈佛街路口</p></td>
 <td><p>66路，开往<a href="../Page/哈佛站.md" title="wikilink">哈佛广场或</a></p></td>
@@ -75,19 +75,19 @@ C支线的终点站在几十年间不停变换，2005年1月1日后，其终点�
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/费尔班克斯站" title="wikilink">费尔班克斯</a></p></td>
 <td><p>Fairbanks</p></td>
 <td><p>灯塔街与费尔班克斯大道路口</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/华盛顿广场站" title="wikilink">华盛顿广场</a></p></td>
 <td><p>Washington Square</p></td>
 <td><p>灯塔街与华盛顿街路口</p></td>
 <td><p>65，开往<a href="../Page/肯莫尔站.md" title="wikilink">肯莫尔站</a>或布莱顿中心</p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/塔潘街站" title="wikilink">塔潘街</a></p></td>
 <td><p>Tappan Street</p></td>
 <td><p>灯塔街与塔潘街路口</p></td>
 <td></td>
@@ -99,7 +99,7 @@ C支线的终点站在几十年间不停变换，2005年1月1日后，其终点�
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/恩格尔伍德大道站" title="wikilink">恩格尔伍德大道</a></p></td>
 <td><p>Englewood Avenue</p></td>
 <td><p>灯塔街与恩格尔伍德大道站路口</p></td>
 <td></td>

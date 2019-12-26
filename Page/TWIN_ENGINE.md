@@ -107,11 +107,11 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>未定</p></td>
-<td><p>巴比倫</p></td>
+<td></td>
 <td></td>
 <td><p>REVOROOT</p></td>
 <td><p>小說</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -192,8 +192,6 @@
 
 1.
 2.
-
 3.
-
 4.
 5.

@@ -121,5 +121,4 @@ GNCA-0535 (CD+DVD)</p></td>
 [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
 
 1.
-
 2.

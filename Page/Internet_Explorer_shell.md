@@ -42,13 +42,9 @@ Microsoft Windows还支持[HTML应用程序](../Page/HTML应用程序.md "wikili
 [Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink")
 
 1.
-
 2.
-
 3.  [WindowsDevCenter.com - Power Up Internet Explorer with Three Shells](http://www.windowsdevcenter.com/pub/a/windows/2004/03/23/ie_shells.html)
-
 4.  <http://www.pcworld.com/article/id,118794-page,3/article.html> PC World
-
 5.
 6.
 7.  [Netscape 8 and Internet Explorer's XML Rendering](http://blogs.msdn.com/ie/archive/2005/05/25/421763.aspx). *IEBlog*.

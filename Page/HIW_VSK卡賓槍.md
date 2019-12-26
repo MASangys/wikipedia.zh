@@ -30,7 +30,7 @@
 
 ## 外部連結
 
-  - —[Bratishka.ru](http://bratishka.ru/archiv/2006/11/2006_11_16.php)
+  - —[Bratishka.ru](https://web.archive.org/web/20110812205745/http://bratishka.ru/archiv/2006/11/2006_11_16.php)
 
   - —[Weapon.at.au](http://weapon.at.ua/publ/14-1-0-142)
 

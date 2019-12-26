@@ -12,7 +12,7 @@
 ## 外部鏈接
 
   - [関西国際空港](http://www.kansai-airport.or.jp/)
-  - [KIXトリビア・ウイングシャトル](https://web.archive.org/web/20160814132225/http://www.kansai-airport.or.jp:80/otanoshimi/explor/object/12/index.html)（2016年8月16日の[インターネットアーカイブ](https://zh.wikipedia.org/wiki/インターネットアーカイブ "wikilink")）
+  - [KIXトリビア・ウイングシャトル](https://web.archive.org/web/20160814132225/http://www.kansai-airport.or.jp/otanoshimi/explor/object/12/index.html)（2016年8月16日の[インターネットアーカイブ](https://zh.wikipedia.org/wiki/インターネットアーカイブ "wikilink")）
   - [新交通システム](http://www.niigata-transys.com/products/agt.html) - [新潟トランシス](https://zh.wikipedia.org/wiki/新潟トランシス "wikilink")（ウイングシャトル用車両製造会社）
   - [ウィングシャトルの運用・メンテナンス](http://www.nkixe.co.jp/work/agt/index.html) - 新関西国際空港エンジニアリング（ウイングシャトルの運行監視・メンテナンス計画の策定を担当）
   - [関空ウイングシャトル整備](http://www.nansya.jp/index-gyoumu.html) - 南海車両工業（ウイングシャトルの車両整備・車両清掃を担当）

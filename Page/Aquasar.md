@@ -13,11 +13,8 @@ Aquasar電腦由三個BladeCenter H機箱構成，混合使用基於QSS22 [Cell�
 [Category:歐洲超級電腦](https://zh.wikipedia.org/wiki/Category:歐洲超級電腦 "wikilink")
 
 1.  [IBM Hot Water-Cooled Supercomputer Goes Live at ETH Zurich, HPC Wire July 2, 2010](http://www.hpcwire.com/hpcwire/2010-07-02/ibm_hot_water-cooled_supercomputer_goes_live_at_eth_zurich.html)
-
 2.  [IBM liquid-cooled supercomputer heats building, CNet May 10, 2010](http://news.cnet.com/8301-11128_3-20004543-54.html)
-
 3.  [Made in IBM Labs: IBM Hot Water-Cooled Supercomputer Goes Live at ETH Zurich](http://www-03.ibm.com/press/us/en/pressrelease/32049.wss)
-
 4.
 5.
 6.

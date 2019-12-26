@@ -213,6 +213,7 @@
   -
     隸屬於「三船俱樂部」的男性演員。38歲。
     與朝野市子共同出演某齣[大河劇](../Page/大河劇.md "wikilink")而成名。與王賀美沒有演出對手戲的經驗，但從王賀美被發掘、離開「STARS」，到最後離開日本的這段時間，都在旁見證他尋找對手的渴望。曾試圖透過關係幫助剛離開「STARS」的王賀美尋找新的演藝事務所。
+    在舞台劇《[鐵扇公主](https://zh.wikipedia.org/wiki/鐵扇公主 "wikilink")》的「甲組」中飾演[唐三藏](https://zh.wikipedia.org/wiki/唐三藏 "wikilink")。
 
 #### 其他演員
 
@@ -225,12 +226,13 @@
   -
     曾是「STARS」旗下的男性演員。26歲。因其演技和行事風格，至今常常登上週刊雜誌的版面。其演出風格為天生具備不知原理的「氣場」，舉手投足都能吸引觀眾的目光，其鋒芒甚至會影響同台演員的節奏和演技，因此星亞里紗當年不讓王賀美與有實力的演員對戲。
     15歲時獲得[日本電影學院獎](../Page/日本電影學院獎.md "wikilink")、入圍[坎城影展並獲獎](https://zh.wikipedia.org/wiki/坎城影展 "wikilink")，以及其他各種獎項。認為自己的演技屬於世界級財產，不願和平凡的演員同台，因此在16歲時支付了數億違約金之後離開「STARS」。
-    在舞台劇《[鐵扇公主](https://zh.wikipedia.org/wiki/鐵扇公主 "wikilink")》中飾演[孫悟空](https://zh.wikipedia.org/wiki/孫悟空 "wikilink")，和夜凪景上演對手戲。
+    在舞台劇《[鐵扇公主](https://zh.wikipedia.org/wiki/鐵扇公主 "wikilink")》的「甲組」中飾演[孫悟空](https://zh.wikipedia.org/wiki/孫悟空 "wikilink")，和夜凪景上演對手戲。
 
 <!-- end list -->
 
   -
     隸屬於「Office Berry」的女性演員。20歲。與白石宗共同出演某齣大河劇而成名。
+    在舞台劇《[鐵扇公主](https://zh.wikipedia.org/wiki/鐵扇公主 "wikilink")》的「甲組」中飾演[沙悟淨](https://zh.wikipedia.org/wiki/沙悟淨 "wikilink")。
 
 ### 演藝相關人員
 
@@ -350,24 +352,18 @@
 [Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:戲劇漫畫](https://zh.wikipedia.org/wiki/Category:戲劇漫畫 "wikilink") [Category:演藝界題材漫畫](https://zh.wikipedia.org/wiki/Category:演藝界題材漫畫 "wikilink") [Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
 
 1.
-
 2.
-
 3.  漫畫單行本第一卷「夜凪景」。
-
 4.
 5.
 6.
 7.  漫畫單行本第三卷「謝謝」。
-
 8.
 9.
 10.
 11. 漫畫單行本第四卷
-
 12.
 13.
 14. 漫畫單行本第二卷
-
 15.
 16.

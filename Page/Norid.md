@@ -28,35 +28,21 @@
 [Category:2003年成立的公司](https://zh.wikipedia.org/wiki/Category:2003年成立的公司 "wikilink") [Category:挪威互联网](https://zh.wikipedia.org/wiki/Category:挪威互联网 "wikilink") [Category:互联网公司](https://zh.wikipedia.org/wiki/Category:互联网公司 "wikilink") [Category:挪威公司](https://zh.wikipedia.org/wiki/Category:挪威公司 "wikilink")
 
 1.  Norwegian Post and Telecommunications Authority (2002):25
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.
 8.  Norwegian Post and Telecommunications Authority (2002):22
-
 9.
-
 10.
-
 11.
-
 12.
-
 13. Norwegian Post and Telecommunications Authority (2002): 26
-
 14.
 15.
-
 16. Norwegian Post and Telecommunications Authority (2002): 42
-
 17.
-
 18.
-
 19.

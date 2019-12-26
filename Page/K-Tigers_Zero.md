@@ -82,25 +82,6 @@
 | 11月2日  | [華盛頓哥倫比亞特區](https://zh.wikipedia.org/wiki/華盛頓哥倫比亞特區 "wikilink") |                                                     |
 | 11月4日  | [加拿大](../Page/加拿大.md "wikilink")                                | [多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink") |
 
-## 演出
-
-### 見面會
-
-**2019 北美洲 Live Show World Tour**
-
-| 日期     | 國家                                                              | 城市                                                  |
-| ------ | --------------------------------------------------------------- | --------------------------------------------------- |
-| 10月15日 | [加拿大](../Page/加拿大.md "wikilink")                                | [溫哥華](../Page/溫哥華.md "wikilink")                    |
-| 10月17日 | [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")               | [聖荷西](https://zh.wikipedia.org/wiki/聖荷西 "wikilink") |
-| 10月19日 | [洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")             |                                                     |
-| 10月20日 |                                                                 |                                                     |
-| 10月23日 | [達拉斯](../Page/達拉斯.md "wikilink")                                |                                                     |
-| 10月25日 | [邁阿密](https://zh.wikipedia.org/wiki/邁阿密 "wikilink")             |                                                     |
-| 10月28日 | [亞特蘭大](https://zh.wikipedia.org/wiki/亞特蘭大 "wikilink")           |                                                     |
-| 10月31日 | [紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")               |                                                     |
-| 11月2日  | [華盛頓哥倫比亞特區](https://zh.wikipedia.org/wiki/華盛頓哥倫比亞特區 "wikilink") |                                                     |
-| 11月4日  | [加拿大](../Page/加拿大.md "wikilink")                                | [多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink") |
-
 ## 獎項
 
 ### 主要音樂節目榜單排名

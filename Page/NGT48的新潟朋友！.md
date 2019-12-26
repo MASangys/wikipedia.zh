@@ -875,27 +875,20 @@
 ## 外部鏈結
 
   - [NGT48的新潟朋友！](http://ngt48friend.com/)
-  - [NGT48的新潟朋友！](http://www.kmax.co.jp/works/43.html) - KMAX
+  - [NGT48的新潟朋友！](https://web.archive.org/web/20170707154857/http://www.kmax.co.jp/works/43.html) - KMAX
 
 [Category:2017年日本電視節目](https://zh.wikipedia.org/wiki/Category:2017年日本電視節目 "wikilink") [Category:NGT48](https://zh.wikipedia.org/wiki/Category:NGT48 "wikilink") [Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
 
 1.
-
 2.  此處不含與姊妹團體[HKT48](../Page/HKT48.md "wikilink")共同冠名的[日本電視台](../Page/日本電視台.md "wikilink")節目《[HKT48 vs NGT48 指北合戰](../Page/HKT48_vs_NGT48_指北合戰.md "wikilink")》，以及初次單獨冠名電視播出的節目《只有這裡NGT48》 。
-
 3.
-
 4.
 5.
-
 6.
 7.  從第38集起播出。開始播出後，也同時在富山縣內錄影取景。
-
 8.
 9.  從第89集起播出。
-
 10.
 11.
 12. 從第96集起播出。
-
 13. 2018年[9月18日](../Page/9月18日.md "wikilink") 2:55 - 3:27（17日深夜）、[9月28日](../Page/9月28日.md "wikilink") 2:55 - 3:25（27日深夜）、[10月21日](../Page/10月21日.md "wikilink") 3:25 - 3:57（20日深夜）分別播出第18、19、20集。

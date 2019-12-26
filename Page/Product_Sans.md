@@ -22,14 +22,9 @@ Product Sans的筆畫末端多为約45度，末端切割线与笔画切线相垂
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:无衬线字体](https://zh.wikipedia.org/wiki/Category:无衬线字体 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.

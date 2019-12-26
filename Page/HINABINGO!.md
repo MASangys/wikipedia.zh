@@ -153,9 +153,8 @@
 
   -
 
-[Category:日向坂46](https://zh.wikipedia.org/wiki/Category:日向坂46 "wikilink") [Category:東京電視台深夜節目](https://zh.wikipedia.org/wiki/Category:東京電視台深夜節目 "wikilink") [Category:東京電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:東京電視台綜藝節目 "wikilink") [Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink") [Category:2019年日本電視節目](https://zh.wikipedia.org/wiki/Category:2019年日本電視節目 "wikilink")
+[Category:日向坂46](https://zh.wikipedia.org/wiki/Category:日向坂46 "wikilink") [Category:日本電視台深夜節目](https://zh.wikipedia.org/wiki/Category:日本電視台深夜節目 "wikilink") [Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink") [Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink") [Category:2019年日本電視節目](https://zh.wikipedia.org/wiki/Category:2019年日本電視節目 "wikilink")
 
 1.
-
 2.
 3.

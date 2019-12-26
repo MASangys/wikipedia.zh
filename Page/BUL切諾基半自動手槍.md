@@ -8,14 +8,14 @@
 
   - [CZ 75手槍](../Page/CZ_75手槍.md "wikilink")
   - [CZ 75 D緊湊型手槍](../Page/CZ_75_D緊湊型手槍.md "wikilink")
-  - [CZ 75 P-01手槍](../Page/CZ_75_P-01手槍.md "wikilink")
-  - [CZ 75 P-07手槍](../Page/CZ_75_P-07手槍.md "wikilink")
-  - [CZ 75 P-09手槍](../Page/CZ_75_P-09手槍.md "wikilink")
-  - [CZ 75 SP-01手槍](../Page/CZ_75_SP-01手槍.md "wikilink")
+  - [CZ 75 P-01半自動手槍](../Page/CZ_75_P-01半自動手槍.md "wikilink")
+  - [CZ 75 P-07半自動手槍](https://zh.wikipedia.org/wiki/CZ_75_P-07半自動手槍 "wikilink")
+  - [CZ 75 P-09半自動手槍](../Page/CZ_75_P-09半自動手槍.md "wikilink")
+  - [CZ 75 SP-01半自動手槍](../Page/CZ_75_SP-01半自動手槍.md "wikilink")
   - [CZ 75戰術運動型手槍](../Page/CZ_75戰術運動型手槍.md "wikilink")
-  - [CZ 85手槍](../Page/CZ_85手槍.md "wikilink")
-  - [CZ 2075 RAMI手槍](../Page/CZ_2075_RAMI手槍.md "wikilink")
-  - [CZ 97手槍](../Page/CZ_97手槍.md "wikilink")
+  - [CZ 85半自動手槍](../Page/CZ_85半自動手槍.md "wikilink")
+  - [CZ 2075 RAMI半自動手槍](https://zh.wikipedia.org/wiki/CZ_2075_RAMI半自動手槍 "wikilink")
+  - [CZ 97半自動手槍](../Page/CZ_97半自動手槍.md "wikilink")
   - [白頭山手槍](../Page/白頭山手槍.md "wikilink")
   - [布倫十式半自動手槍](../Page/布倫十式半自動手槍.md "wikilink")
   - [NZ 75手槍](../Page/NZ_75手槍.md "wikilink")
@@ -23,7 +23,7 @@
   - [Tanfoglio T95半自動手槍](https://zh.wikipedia.org/wiki/Tanfoglio_T95半自動手槍 "wikilink")
   - [Tanfoglio Force半自動手槍](https://zh.wikipedia.org/wiki/Tanfoglio_Force半自動手槍 "wikilink")
   - [斯芬克斯手槍系統](../Page/斯芬克斯手槍系統.md "wikilink")
-  - [Kılınç 2000](https://zh.wikipedia.org/wiki/Kılınç_2000手槍 "wikilink")
+  - [Kılınç 2000](https://zh.wikipedia.org/wiki/Kılınç_2000半自動手槍 "wikilink")
 
 ## 參考文獻
 

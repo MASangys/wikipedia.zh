@@ -44,16 +44,10 @@
 [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:大西洋唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:大西洋唱片音乐专辑 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.   Music|accessdate=25 November 2018|date=23 November 2018|last=Cragg|first=Michael|work= [The Guardian](../Page/衛報.md "wikilink")}}
-
 6.
 7.
-
 8.

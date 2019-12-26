@@ -7,7 +7,7 @@
   - [Overview of IgG4-related disease](http://www.uptodate.com/contents/overview-of-igg4-related-disease) - [UpToDate](../Page/UpToDate.md "wikilink")'s article on IgG4-related disease.
   - [DermNet NZ](http://dermnetnz.org/systemic/igg4-disease.html) entry
 
-[Category:IgG4相关性疾病](https://zh.wikipedia.org/wiki/Category:IgG4相关性疾病 "wikilink") [Category:免疫系统失调](https://zh.wikipedia.org/wiki/Category:免疫系统失调 "wikilink") [Category:自身免疫性疾病](https://zh.wikipedia.org/wiki/Category:自身免疫性疾病 "wikilink")
+[Category:IgG4相关性疾病](https://zh.wikipedia.org/wiki/Category:IgG4相关性疾病 "wikilink") [Category:免疫系统疾病](https://zh.wikipedia.org/wiki/Category:免疫系统疾病 "wikilink") [Category:自體免疫性疾病](https://zh.wikipedia.org/wiki/Category:自體免疫性疾病 "wikilink")
 
 1.
 2.

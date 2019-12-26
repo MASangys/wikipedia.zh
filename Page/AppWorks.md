@@ -1,6 +1,6 @@
 **之初創業投資管理顧問股份有限公司**（，[縮寫](../Page/縮寫.md "wikilink")：，簡稱**之初創投**），AppWorks是一家位於臺灣台北市，以經營[創業加速器為主](../Page/種子加速器.md "wikilink")，[早期階段](https://zh.wikipedia.org/wiki/初創企業 "wikilink")（種子輪、A 輪、B 輪）創業投資為輔的公司，針對創業者與新創團隊，提供[加速器](../Page/種子加速器.md "wikilink")、投資與 AppWorks School\[1\]三項主要服務。
 
-AppWorks由[林之晨](../Page/林之晨.md "wikilink")（Jamie Lin）創辦，並在2010年啟動[創業加速器](../Page/種子加速器.md "wikilink") AppWorks Accelerator，每半年一屆，招募 30 至 40 支新創團隊進駐\[2\]。2018年下半年開始，限定招募[人工智慧](https://zh.wikipedia.org/wiki/人工智慧 "wikilink")／[物聯網](../Page/物联网.md "wikilink") 與[區塊鏈](../Page/区块链.md "wikilink")／[加密貨幣這兩個領域的團隊](https://zh.wikipedia.org/wiki/加密貨幣 "wikilink")\[3\]。AppWorks 發展至今，已是大東南亞（東協 + 台灣）校友規模最大的創業加速器，也是本區域內指標性的早期創投之一。\[4\]截至 2018 年底，由 AppWorks Accelerator 畢業校友所建立的生態系，共有 351 家新創公司、1,044 位創業者、全體總估值 39.7 億美元、全體總募資 8.7 億美元、全體年營業額 28.6 億美元、總共提供 10,115 份職務。\[5\]
+AppWorks由[林之晨](../Page/林之晨.md "wikilink")（Jamie Lin）創辦，並在2010年啟動[創業加速器](../Page/種子加速器.md "wikilink") AppWorks Accelerator，每半年一屆，招募 30 至 40 支新創團隊進駐\[2\]。2018年下半年開始，限定招募[人工智慧](https://zh.wikipedia.org/wiki/人工智慧 "wikilink")／[物聯網](../Page/物联网.md "wikilink") 與[區塊鏈](../Page/区块链.md "wikilink")／[加密貨幣這兩個領域的團隊](https://zh.wikipedia.org/wiki/加密貨幣 "wikilink")\[3\]。AppWorks 發展至今，已是大東南亞（東協 + 台灣）校友規模最大的創業加速器，也是本區域內指標性的早期創投之一。\[4\]截至 2019 年 11 月，由 AppWorks Accelerator 畢業校友所建立的生態系，共有 376 家活躍新創、1,113 位創業者、全體總估值 47.2 億美元、全體總募資 11.1 億美元、全體年營業額 49.7 億美元、總共提供 11,162 份職務。\[5\]
 
 ## AppWorks Accelerator (之初加速器)
 
@@ -28,11 +28,11 @@ AppWorks 招收團隊時特別注重的幾個特質，稱為「3H」：\[7\]
 
 ## AppWorks Funds (之初創投基金)
 
-AppWorks 管理三支創投基金共 1.46 億美元，吸引各種認同理念的投資人，包括[國發基金](https://zh.wikipedia.org/wiki/國發基金 "wikilink")、[國泰人壽](../Page/國泰人壽.md "wikilink")、CID 華威國際集團、[遠傳電信](../Page/遠傳電信.md "wikilink")、[富邦人壽](../Page/富邦人壽.md "wikilink")、[緯創](../Page/纬创资通.md "wikilink")、中國信託創投等企業，目前為止已經投資 48 家企業，包括在 GSEA 居於領先地位的新創，如 91APP、[KKday](../Page/KKday.md "wikilink")、[ShopBack](../Page/ShopBack.md "wikilink")、Carousell、[iChef](../Page/ICHEF.md "wikilink") 等，此外，[Uber](../Page/優步.md "wikilink")、隆中網絡 (台股 6542)、創業家兄弟 (台股 8477) 也已順利 IPO。
+AppWorks 管理三支創投基金共 1.7 億美元，吸引各種認同理念的投資人，包括在科技製造、金融、媒體業居於領先的龍頭企業，累計至 2019 年 11 月為止，已經投資 50 家企業，包括在 GSEA 居於領先地位的新創，如 91APP、[KKday](../Page/KKday.md "wikilink")、[ShopBack](../Page/ShopBack.md "wikilink")、Carousell、[iChef](../Page/ICHEF.md "wikilink") 等，此外，[Uber](../Page/優步.md "wikilink")、隆中網絡 (台股 6542)、創業家兄弟 (台股 8477)、松果購物 (台股 6740) 也已順利 IPO。。
 
 ### 投資方式與哲學
 
-根據 AppWorks 官方網誌，AppWorks Funds 的投資方式與哲學如下：\[9\]
+根據 AppWorks 官方網誌及網站，AppWorks Funds 的投資方式與哲學如下：\[9\]\[10\]
 
 #### 投資標的：網路公司
 
@@ -42,13 +42,9 @@ AppWorks 管理三支創投基金共 1.46 億美元，吸引各種認同理念�
 
 ・無創業時間、員工人數、資本額、年齡等限制
 
-・投資階段：早期
+・投資階段：種子輪至 C 輪
 
-・首次投資：種子輪或 A 輪
-
-・後續跟投：A 輪、B 輪
-
-・每筆投資金額：約新台幣 600 萬至 1.5 億
+・每筆投資金額：20 萬至 1,000 萬美元
 
 ・每筆投資期望占股：約 10-20%
 
@@ -64,9 +60,7 @@ AppWorks 管理三支創投基金共 1.46 億美元，吸引各種認同理念�
 
 ## AppWorks School (之初學校)
 
-AppWorks School 成立於 2016 年，致力協助渴望投身數位、網路與電商產業的人才，提供為期 16 週，免費、實作、高效、與業界結合的紮實培訓計畫。現經營有 iOS、Android 與 Web Class。
-
-AppWorkd School 已畢業 142 位學員，其中 86% 成功投身網路界，在 KKBOX、91APP、PicCollage、CHOCO Media、WeMo Scooter、Gogoro、UDN Group、巴哈姆特、智抗糖、潔客幫、TaxiGo、kkstream 等知名企業擔任軟體工程師。平均求職天數 26 天，有 45% 畢業學員為女性。\[10\]
+AppWorks School 成立於 2016 年，致力協助渴望投身數位、網路與電商產業的人才，提供為期 16 週免費、實作、高效、與業界結合的紮實培訓計畫。成立至今，已畢業 179 位學員，其中 89% 成功轉職，在 91APP、KKBox、CHOCO Media (現為 Line TV)、WeMo、Gogoro、潔客幫等知名網路企業中擔任軟體工程師。現經營有 iOS、Android 與 Web Development 專班。\[11\]
 
 ## 資料來源
 
@@ -94,3 +88,4 @@ AppWorkd School 已畢業 142 位學員，其中 86% 成功投身網路界，在
 8.
 9.
 10.
+11.

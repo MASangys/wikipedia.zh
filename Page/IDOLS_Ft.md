@@ -1,4 +1,4 @@
-**IDOLS Ft**，全称**Idol Studio Ft**，简称**IDFT**，为[上海丝芭文化传媒集团有限公司旗下于](../Page/丝芭传媒.md "wikilink")2019年成立的一个基于互联网的偶像养成女团，其定义为「大型网络偶像养成女团」。IDOLS Ft成立于2019年1月19日，该团体现有成员85名，均为[SNH48 Group成员移籍而来](https://zh.wikipedia.org/wiki/SNH48#SNH48_Group "wikilink")。
+**IDOLS Ft**，全称**Idol Studio Ft**，简称**IDFT**，为[上海丝芭文化传媒集团有限公司旗下于](../Page/丝芭传媒.md "wikilink")2019年成立的一个基于互联网的偶像养成女团，其定义为「大型网络偶像养成女团」。IDOLS Ft成立于2019年1月19日，该团体现有成员86名，均为[SNH48 Group成员移籍而来](https://zh.wikipedia.org/wiki/SNH48#SNH48_Group "wikilink")。
 
 ## 概要
 
@@ -17,7 +17,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 
 ## 成员
 
-该团现时有84名成员\[4\]，其中8人原属[SNH48](../Page/SNH48.md "wikilink")，14人原属[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")，10人原属[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，27人原属[SHY48](../Page/SHY48.md "wikilink")，26人原属[CKG48](../Page/CKG48.md "wikilink")。
+该团现时有86名成员\[4\]，其中8人原属[SNH48](../Page/SNH48.md "wikilink")，15人原属[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")，10人原属[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，27人原属[SHY48](../Page/SHY48.md "wikilink")，26人原属[CKG48](../Page/CKG48.md "wikilink")。
 
 | SNH48 | BEJ48    | GNZ48 | SHY48    | CKG48 |
 | ----- | -------- | ----- | -------- | ----- |
@@ -310,7 +310,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/安徽" title="wikilink">安徽</a></p></td>
 <td><p>SHY48 3期</p></td>
-<td><p>代役SNH48 Team X</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -569,28 +569,39 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 </tr>
 <tr class="even">
+<td><p>E</p></td>
+<td><p>王嘉瑜</p></td>
+<td></td>
+<td><p>5月2日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/重庆" title="wikilink">重庆</a></p></td>
+<td><p>SHY48 3期</p></td>
+<td><p>2019年10月5日</p></td>
+<td><p>同时为CKG48成员</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>C</p></td>
 <td><p>王梦竹</p></td>
 <td></td>
 <td><p>12月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/辽宁" title="wikilink">辽宁</a></p></td>
 <td><p>CKG48 1期</p></td>
+<td><p>2019年1月19日</p></td>
 <td><p>同时为CKG48成员</p></td>
 <td><p>CKG48第15名</p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>SHY预</p></td>
 <td><p>武晓迪</p></td>
 <td></td>
 <td><p>9月6日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/河南" title="wikilink">河南</a></p></td>
 <td><p>SHY48 4期</p></td>
-<td><p>代役GNZ48 Team Z</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>K</p></td>
 <td><p>魏小燕</p></td>
 <td></td>
@@ -601,7 +612,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>K</p></td>
 <td><p>吴学雨</p></td>
 <td></td>
@@ -612,7 +623,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C</p></td>
 <td><p>王娱博</p></td>
 <td></td>
@@ -623,7 +634,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>SHY预</p></td>
 <td><p>王永祺</p></td>
 <td></td>
@@ -634,18 +645,18 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>SHY预</p></td>
 <td><p>王梓</p></td>
 <td></td>
 <td><p>12月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/甘肃" title="wikilink">甘肃</a></p></td>
 <td><p>SHY48 4期</p></td>
-<td></td>
+<td><p>代役GNZ48 Team Z</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>HIII</p></td>
 <td><p>徐斐然</p></td>
 <td></td>
@@ -656,7 +667,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td><p>SHY48第9名</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>HII/Ft</p></td>
 <td><p>熊沁娴</p></td>
 <td></td>
@@ -667,7 +678,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>HIII</p></td>
 <td><p>相望</p></td>
 <td></td>
@@ -678,7 +689,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>J</p></td>
 <td><p>许婉玉</p></td>
 <td></td>
@@ -689,7 +700,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>NII</p></td>
 <td><p>许逸</p></td>
 <td></td>
@@ -700,7 +711,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>SII</p></td>
 <td><p>徐伊人</p></td>
 <td></td>
@@ -711,7 +722,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>BEJ预</p></td>
 <td><p>熊依依</p></td>
 <td></td>
@@ -722,7 +733,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>HII</p></td>
 <td><p>杨惠婷</p></td>
 <td></td>
@@ -733,7 +744,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td><p>34</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>HII</p></td>
 <td><p>-{於}-佳怡</p></td>
 <td></td>
@@ -744,7 +755,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td><p>28</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Ft</p></td>
 <td><p>杨美琪</p></td>
 <td></td>
@@ -755,7 +766,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>GNZ预</p></td>
 <td><p>鄢羽蝶</p></td>
 <td></td>
@@ -766,7 +777,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td><p>同时为CKG48成员</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>SIII</p></td>
 <td><p>杨允涵</p></td>
 <td></td>
@@ -777,18 +788,18 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td><p>同时为CKG48成员</p></td>
 <td><p>SHY48第6名</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>BEJ预</p></td>
 <td><p>杨宇馨</p></td>
 <td></td>
-<td><p>11月7日</p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/河南" title="wikilink">河南</a></p></td>
 <td><p>BEJ48 4期</p></td>
-<td></td>
+<td><p>代役SNH48 Team NII</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>J</p></td>
 <td><p>张韩紫陌</p></td>
 <td></td>
@@ -799,7 +810,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C</p></td>
 <td><p>曾佳</p></td>
 <td></td>
@@ -810,7 +821,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td><p>CKG48第8名</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>SHY预</p></td>
 <td><p>张瑾瑜</p></td>
 <td></td>
@@ -821,7 +832,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>SIII</p></td>
 <td><p>周佳怡</p></td>
 <td></td>
@@ -832,7 +843,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>HIII</p></td>
 <td><p>朱敏</p></td>
 <td></td>
@@ -843,7 +854,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Ft</p></td>
 <td><p>张敏淇</p></td>
 <td></td>
@@ -854,7 +865,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>SIII</p></td>
 <td><p>郑诗琪</p></td>
 <td></td>
@@ -865,7 +876,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>G</p></td>
 <td><p>周倩玉</p></td>
 <td></td>
@@ -876,7 +887,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td><p>同时为CKG48成员</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>K</p></td>
 <td><p>周桐冉</p></td>
 <td></td>
@@ -887,7 +898,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td><p>IDOLS Ft最年长</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>C</p></td>
 <td><p>左欣</p></td>
 <td></td>
@@ -898,7 +909,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Z</p></td>
 <td><p>赵欣雨</p></td>
 <td></td>
@@ -909,7 +920,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>E</p></td>
 <td><p>郑一凡</p></td>
 <td></td>
@@ -920,7 +931,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>HIII</p></td>
 <td><p>张幼柠</p></td>
 <td></td>
@@ -932,7 +943,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 官网无资料</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>BEJ预</p></td>
 <td><p>张语倩</p></td>
 <td></td>
@@ -943,7 +954,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>K</p></td>
 <td><p>赵泽慧</p></td>
 <td></td>
@@ -954,7 +965,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>GNZ预</p></td>
 <td><p>章泽婷</p></td>
 <td></td>
@@ -965,7 +976,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>GNZ预</p></td>
 <td><p>张紫颖</p></td>
 <td></td>
@@ -1167,6 +1178,12 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td><p>+1</p></td>
 <td><p>85</p></td>
 </tr>
+<tr class="odd">
+<td><p>10月5日</p></td>
+<td><p>原BEJ48 Team E王嘉瑜加入</p></td>
+<td><p>+1</p></td>
+<td><p>86</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1189,9 +1206,9 @@ IDOLS Ft成員均可參加CKG48的多項綜合考核，達標的IDOLS Ft成员�
 
 ## 争议
 
-由于该团被定义为“大型网络偶像养成女团”，加之运营商宣称该团成员主要活动方式为线上互动，因此有关消息被释出后，旋即引起网民对该团性质的质疑，并有声音称该举实际上“令偶像变为[主播](https://zh.wikipedia.org/wiki/新聞主播#网络主播 "wikilink")”\[5\]。有网民指责运营商解散SNH48 Group的其中五支正式成员队伍及成立该团之举动不尽人意，称“粉丝花钱去应援，或许还没到家就接到偶像（所属队伍）解散当主播的消息，搁谁都不会满意”\[6\]。
+由于该团被定义为“大型网络偶像养成女团”，加之运营商[丝芭传媒](../Page/丝芭传媒.md "wikilink")宣称该团成员主要活动方式为线上互动，因此有关消息被释出后，旋即引起网民对该团性质的质疑，并有声音称该举实际上“令偶像变为[主播](https://zh.wikipedia.org/wiki/新聞主播#网络主播 "wikilink")”\[5\]。有网民指责丝芭传媒解散SNH48 Group的其中五支正式成员队伍及成立该团之举动不尽人意，称“粉丝花钱去应援，或许还没到家就接到偶像（所属队伍）解散当主播的消息，搁谁都不会满意”\[6\]。
 
-运营商就此回应传媒查询时指，其成立该团的目的为方便成员与粉丝互动，及让粉丝参与造星过程，同时表示该团的运作模式“与偶像选拔综艺没有本质上的不同”\[7\]，并指该团成员有根据表现、人气加入或回归SNH48、BEJ48及GNZ48的正式成员队伍的可能\[8\]。
+[丝芭传媒](../Page/丝芭传媒.md "wikilink")就此回应传媒查询时指，其成立该团的目的为方便成员与粉丝互动，及让粉丝参与造星过程，同时表示该团的运作模式“与偶像选拔综艺没有本质上的不同”\[7\]，并指该团成员有根据表现、人气加入或回归SNH48、BEJ48及GNZ48的正式成员队伍的可能\[8\]。
 
 ## 注解
 
@@ -1203,16 +1220,10 @@ IDOLS Ft成員均可參加CKG48的多項綜合考核，達標的IDOLS Ft成员�
 [Category:SNH48_Group](https://zh.wikipedia.org/wiki/Category:SNH48_Group "wikilink") [Category:2019年建立的组织](https://zh.wikipedia.org/wiki/Category:2019年建立的组织 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.

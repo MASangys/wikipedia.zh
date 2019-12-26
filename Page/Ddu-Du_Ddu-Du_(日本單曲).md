@@ -184,47 +184,28 @@
 [Category:BLACKPINK歌曲](https://zh.wikipedia.org/wiki/Category:BLACKPINK歌曲 "wikilink") [Category:2018年單曲](https://zh.wikipedia.org/wiki/Category:2018年單曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.  ORICON NEWS|date=2018-08-22|access-date=2018-08-22}}
-
 18.  ORICON NEWS|date=2018-08-27|access-date=2018-08-27}}
-
 19.
 20.
-
 21.
-
 22.
 23.
 24.
-
 25.
 26.

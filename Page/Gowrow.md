@@ -11,20 +11,13 @@
 [Category:神秘生物](https://zh.wikipedia.org/wiki/Category:神秘生物 "wikilink") [Category:造假神秘生物](https://zh.wikipedia.org/wiki/Category:造假神秘生物 "wikilink") [Category:都市傳說](https://zh.wikipedia.org/wiki/Category:都市傳說 "wikilink")
 
 1.   Mysterious Universe|accessdate=2018-10-03|work=Mysterious Universe|language=en-US}}
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
 10.
 11.

@@ -156,26 +156,18 @@
   -
   - [單曲介紹](http://store.warnermusic.com.tw/store/item/5523)－台灣華納音樂官方網站
 
-[Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink") [Category:AKB48歌曲](https://zh.wikipedia.org/wiki/Category:AKB48歌曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink") [Category:2019年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon單曲週榜冠軍作品 "wikilink") [Category:2019年Oricon單曲合算週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon單曲合算週榜冠軍作品 "wikilink") [Category:2019年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon單曲月榜冠軍作品 "wikilink")
+[Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink") [Category:AKB48歌曲](https://zh.wikipedia.org/wiki/Category:AKB48歌曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink") [Category:2019年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon單曲週榜冠軍作品 "wikilink") [Category:2019年Oricon單曲合算週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon單曲合算週榜冠軍作品 "wikilink") [Category:2019年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon單曲月榜冠軍作品 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
 12.
 13.

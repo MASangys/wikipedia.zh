@@ -87,11 +87,13 @@
 
 ## DeMOON
 
-### DEMOON
+### DEMOON（狐狸）
 
-《**DEMOON**》是SNH48旗下小组合DeMOON的同名兼第一张EP，于2019年8月30日发行。
+《**DEMOON**》是SNH48旗下小组合DeMOON的同名兼第一张EP，于2019年9月12日发行。\[12\]
 
 #### 概要
+
+该EP为SNH48旗下之暗黑系小分队DeMOON的出道作品，收录的三首曲目涵盖[陷阱音乐](https://zh.wikipedia.org/wiki/陷阱音乐 "wikilink")、[电子舞曲及复古舞曲等三种风格](https://zh.wikipedia.org/wiki/电子舞曲 "wikilink")。而该作主打曲《狐狸》的MV则为该组合成员编排了刀群舞，成员衣着亦较SNH48的其余作品更为华丽，被认为是有较强的未来感。
 
 #### 曲目
 
@@ -126,3 +128,4 @@
 9.
 10.
 11.
+12.

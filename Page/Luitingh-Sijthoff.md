@@ -39,13 +39,9 @@ Poema-Pocket是出版大眾平裝版書籍，如暢銷小說作者：[派翠西�
 [Category:1851年成立的公司](https://zh.wikipedia.org/wiki/Category:1851年成立的公司 "wikilink") [Category:使用过时图像语法的页面](https://zh.wikipedia.org/wiki/Category:使用过时图像语法的页面 "wikilink") [Category:阿姆斯特丹](https://zh.wikipedia.org/wiki/Category:阿姆斯特丹 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.

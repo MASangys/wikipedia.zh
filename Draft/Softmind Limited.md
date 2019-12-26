@@ -12,4 +12,4 @@ They want to make product to sustain their company but this is very difficult. A
 
 ## 外部連結
 
-[:Category:用条目向导创建的草稿](https://zh.wikipedia.org/wiki/Category:用条目向导创建的草稿 "wikilink")
+[Category:用条目向导创建的草稿](https://zh.wikipedia.org/wiki/Category:用条目向导创建的草稿 "wikilink")

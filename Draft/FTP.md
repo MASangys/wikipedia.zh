@@ -4,37 +4,26 @@
 
 ## 藝術與娛樂
 
-  - [网络游戏免费模式](../Page/网络游戏免费模式.md "wikilink"),電子遊戲商業模式
+  - 電子遊戲商業模式(Online game free mode)
+  - 傾斜撲克(), 線上撲克室
+  - 美國獨立流行樂團( American Independent Pop Orchestra)
+  - 這首歌是X Clan的專輯Xodus(F.T.P.)
+  - 說唱樂隊N.W.A的專輯Straight Outta Compton中的一首歌("F.T.P.", “ Fuck tha Police”)
+  - 這是一個位於加利福尼亞州洛杉磯的服裝品牌的名稱(FTP, 代表“ FUCKTHEPOPULATION”)
 
-  - , 線上撲克室
+## 科技
 
-  - [擁抱人群樂團](../Page/擁抱人群樂團.md "wikilink"), 美國獨立流行樂團
+  - 雙絞線([Foiled twisted pair](../Page/双绞线.md "wikilink"))
+  - 已倒閉的一家美國軟件公司()
+  - 一階定理證明國際研討會()
 
-  - "F.T.P.", 這首歌來自X Clan的專輯Xodus
+## 其他用途
 
-  - "F.T.P.", “ Fuck tha Police”來自說唱樂隊N.W.A的專輯Straight Outta Compton中的一首歌
-
-  - FTP, 代表“ FUCKTHEPOPULATION”，這是位於加利福尼亞州洛杉磯的服裝品牌的名稱。
-
-## Technology
-
-  - [Foiled twisted pair](../Page/双绞线.md "wikilink")
-
-  - , a defunct American software company
-
-  -
-## Other uses
-
-  - , an astronomy education project
-
-  - , an American New Deal project
-
-  -
-  - of the International Monetary Fund
-
-  - , a French Resistance movement during World War II
-
-  -
-  - [Functional Threshold Power](https://zh.wikipedia.org/wiki/Functional_Threshold_Power "wikilink") for cycling
-
-  - [Failure to Prosecute](https://zh.wikipedia.org/wiki/Failure_to_Prosecute "wikilink"), occurs in a legal case when a claimant fails to continue to pursue an action but does not withdraw the claim
+  - 天文教育項目()
+  - 美國的新政項目()
+  - 實地培訓計劃()
+  - 國際貨幣基金組織()
+  - 第二次世界大戰期間有關於法國抵抗運動()
+  - 資金轉移定價()
+  - 循環功能達到門檻的功率([Functional Threshold Power](https://zh.wikipedia.org/wiki/Functional_Threshold_Power "wikilink") for cycling)
+  - 發生在法律案件中，索賠人未能繼續進行訴訟但沒有撤回索賠([Failure to Prosecute](https://zh.wikipedia.org/wiki/Failure_to_Prosecute "wikilink"))

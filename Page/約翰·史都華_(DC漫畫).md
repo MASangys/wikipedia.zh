@@ -22,12 +22,8 @@
 [Category:DC漫画超級英雄](https://zh.wikipedia.org/wiki/Category:DC漫画超級英雄 "wikilink") [Category:1971年首次亮相的漫画角色](https://zh.wikipedia.org/wiki/Category:1971年首次亮相的漫画角色 "wikilink") [Category:虛構建築師](https://zh.wikipedia.org/wiki/Category:虛構建築師 "wikilink") [Category:虛構美國海軍陸戰隊人物](https://zh.wikipedia.org/wiki/Category:虛構美國海軍陸戰隊人物 "wikilink") [Category:非裔美國超級英雄](https://zh.wikipedia.org/wiki/Category:非裔美國超級英雄 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.

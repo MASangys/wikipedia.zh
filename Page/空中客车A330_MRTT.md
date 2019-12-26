@@ -10,8 +10,128 @@
 
 2006年初，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[眾議院通過一項防衛法案](https://zh.wikipedia.org/wiki/眾議院 "wikilink")，解除先前禁止空中巴士參與競投的禁令。為支持可能簽訂的合約，空中巴士最近宣佈，將會在美國阿拉巴馬州的莫拜爾（Mobile）設立工程與製作所。
 
+## 多國多用途空中加油運輸機隊
+
+2011年， 歐洲多國決定[軍事介入](../Page/2011年多国武装干涉利比亚.md "wikilink")[利比亞](https://zh.wikipedia.org/wiki/利比亞 "wikilink")，但歐洲各國空軍幾乎都是依賴[美軍空中加油機來執行任務](https://zh.wikipedia.org/wiki/美軍 "wikilink")。歐洲防衛署（European Defence Agency）因此贊同各成員國建立及共享空中加油運輸機隊。
+
+2012年11月，[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")、[比利時](https://zh.wikipedia.org/wiki/比利時 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[希臘](https://zh.wikipedia.org/wiki/希臘 "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、[匈牙利](../Page/匈牙利.md "wikilink")、[盧森堡](https://zh.wikipedia.org/wiki/盧森堡 "wikilink")、[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")、[葡萄牙](../Page/葡萄牙.md "wikilink")和[挪威](../Page/挪威.md "wikilink")共10國的國防部長一同簽署協議，成立一支新的多國多用途空中加油運輸機隊（Multinational Multi-Role Tanker Transport Fleet, MMF）。荷蘭被選定為領導國，多國多用途空中加油運輸機隊預計在2020年初步成形。
+
+機隊共有8架A330 MRTT，其中5架部署在荷蘭恩荷芬空軍基地(Eindhoven Airbase)，另外3架部署在德國科隆-波恩空軍基地（Koln-Bonn Airbase）。
+
+## 使用國家
+
+[A330_MRTT_operators.png](https://zh.wikipedia.org/wiki/File:A330_MRTT_operators.png "fig:A330_MRTT_operators.png") 截至2019年8月31日，空中巴士共接獲60架訂單，其中39架已交付。\[2\]
+
+  -
+
+<!-- end list -->
+
+  - [澳洲皇家空軍](https://zh.wikipedia.org/wiki/澳洲皇家空軍 "wikilink") – 7架已交付\[3\]
+      - 第33中隊
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  - [比利時空軍](https://zh.wikipedia.org/wiki/比利時空軍 "wikilink") – 訂購1架，由[北大西洋公約組織擁有](https://zh.wikipedia.org/wiki/北大西洋公約組織 "wikilink")，屬於多國多用途空中加油運輸機隊\[4\]
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  - [法國空軍](https://zh.wikipedia.org/wiki/法國空軍 "wikilink") – 計劃購買15架，已訂購12架，已交付2架\[5\]\[6\]
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  - [德國聯邦國防軍空軍](../Page/德國聯邦國防軍空軍.md "wikilink") – 訂購4架，由[北大西洋公約組織擁有](https://zh.wikipedia.org/wiki/北大西洋公約組織 "wikilink")，屬於多國多用途空中加油運輸機隊\[7\]
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  - [荷蘭皇家空軍](../Page/荷蘭皇家空軍.md "wikilink") – 訂購2架，由[北大西洋公約組織擁有](https://zh.wikipedia.org/wiki/北大西洋公約組織 "wikilink")，屬於多國多用途空中加油運輸機隊\[8\]\[9\]
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  - [挪威皇家空軍](https://zh.wikipedia.org/wiki/挪威皇家空軍 "wikilink") – 訂購1架，由[北大西洋公約組織擁有](https://zh.wikipedia.org/wiki/北大西洋公約組織 "wikilink")，屬於多國多用途空中加油運輸機隊\[10\]
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  - [沙特阿拉伯皇家空軍](https://zh.wikipedia.org/wiki/沙特阿拉伯皇家空軍 "wikilink") – 已交付6架\[11\]
+      - 第24中隊
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  - [新加坡共和國空軍](https://zh.wikipedia.org/wiki/新加坡共和國空軍 "wikilink") – 共訂購6架，其中4架已交付\[12\]
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  - [大韓民國空軍](https://zh.wikipedia.org/wiki/大韓民國空軍 "wikilink") – 3架已交付，1架已訂購\[13\]
+      - 第5空中機動聯隊\[14\]
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  - 阿聯酋空軍 – 3架已交付\[15\]
+      - 空中加油中隊
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  - [英國皇家空軍](../Page/英國皇家空軍.md "wikilink") – 14架已交付（7架航行者KC2、5架航行者KC3及2架未安裝設備的航行者KC3）\[16\]
+      - 第10中隊\[17\]
+      - 第101中隊
+
 ## 参考文献
 
 [Category:空中客车](https://zh.wikipedia.org/wiki/Category:空中客车 "wikilink")
 
 1.  <https://www.airbus.com/defence/a330mrtt.html>
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15. [Airbus Military completes A330 tanker deliveries to UAE](http://www.flightglobal.com/news/articles/airbus-military-completes-a330-tanker-deliveries-to-389167/)  Flightglobal.com 6 August 2013, retrieved 25 November 2014
+16.
+17. [10 Squadron](http://www.raf.mod.uk/rafbrizenorton/organisation/10squadron.cfm)  Royal Air Force, accessed June 2013.

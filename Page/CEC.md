@@ -57,7 +57,7 @@ CEC 的商业[名称是](../Page/商業名稱.md "wikilink")：\[7\]\[8\]\[9\]\[
 
 ## 外部链接
 
-  - [HDMI.org CEC 常见问题](http://www.hdmi.org/learningcenter/kb.aspx?c=6#86)
+  - [HDMI.org CEC 常见问题](https://web.archive.org/web/20181223062557/https://www.hdmi.org/learningcenter/kb.aspx?c=6#86)
   - [USB CEC适配器通信库](http://libcec.pulse-eight.com)
 
 [Category:遥控](https://zh.wikipedia.org/wiki/Category:遥控 "wikilink") [Category:影片和電影技術](https://zh.wikipedia.org/wiki/Category:影片和電影技術 "wikilink") [Category:标准](https://zh.wikipedia.org/wiki/Category:标准 "wikilink") [Category:電視技術](https://zh.wikipedia.org/wiki/Category:電視技術 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")

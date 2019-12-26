@@ -23,7 +23,7 @@
 
 ## 外部連結
 
-  - [廃景録 国鉄本社 その1](http://www.geocities.co.jp/SilkRoad-Forest/9734/jnr1.html) - 見学会の際の画像など。
+  - [廃景録 国鉄本社 その1](https://web.archive.org/web/20110106015741/http://www.geocities.co.jp/SilkRoad-Forest/9734/jnr1.html) - 見学会の際の画像など。
   - [国鉄本社／丸の内1丁目 - ぼくの近代建築コレクション](http://blog.goo.ne.jp/ryuw-1/e/e026d0683e09eb923d1632a32d0159cd) - 旧館の画像がある。
 
 [Category:新宿](https://zh.wikipedia.org/wiki/Category:新宿 "wikilink") [Category:东京都摩天大楼](https://zh.wikipedia.org/wiki/Category:东京都摩天大楼 "wikilink") [Category:1997年完工建築物](https://zh.wikipedia.org/wiki/Category:1997年完工建築物 "wikilink")

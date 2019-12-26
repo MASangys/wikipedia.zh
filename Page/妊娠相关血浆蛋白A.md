@@ -39,13 +39,9 @@
 [Category:基因](https://zh.wikipedia.org/wiki/Category:基因 "wikilink") [Category:人类基因](https://zh.wikipedia.org/wiki/Category:人类基因 "wikilink") [Category:人类基因组](https://zh.wikipedia.org/wiki/Category:人类基因组 "wikilink") [Category:蛋白质](https://zh.wikipedia.org/wiki/Category:蛋白质 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
-
 7.

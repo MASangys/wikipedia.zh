@@ -15,8 +15,6 @@
 [Category:三价铁化合物](https://zh.wikipedia.org/wiki/Category:三价铁化合物 "wikilink") [Category:氯化物](https://zh.wikipedia.org/wiki/Category:氯化物 "wikilink") [Category:氯配合物](https://zh.wikipedia.org/wiki/Category:氯配合物 "wikilink") [Category:甲铵盐](https://zh.wikipedia.org/wiki/Category:甲铵盐 "wikilink") [Category:铁配合物](https://zh.wikipedia.org/wiki/Category:铁配合物 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

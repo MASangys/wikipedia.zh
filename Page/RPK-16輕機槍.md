@@ -1,4 +1,4 @@
-**RPK-16**（，簡稱：，意為：卡拉什尼科夫2016年手提機槍，[俄羅斯國防部火箭炮兵裝備總局尚未公開其代號](https://zh.wikipedia.org/wiki/俄羅斯國防部火箭炮兵裝備總局 "wikilink")；一度被推測為RPK-12）是一款由[俄罗斯](../Page/俄罗斯.md "wikilink")槍械製造商（，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Kontsern Kalashnikova，；前稱：伊茨瑪希工廠，，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Izhmash）接收到[俄羅斯軍隊對AK槍族常見缺陷的意見并作出改進及生產的現代化](../Page/俄罗斯军事.md "wikilink")[轻机枪](../Page/轻机枪.md "wikilink")（[自动步枪](../Page/自动步枪.md "wikilink")／），可說是[RPK-74輕機槍](../Page/RPK-74輕機槍.md "wikilink")的進一步現代化改進型及[AK-12突击步枪](../Page/AK-12突击步枪.md "wikilink")的重槍管自動步槍版本，自卡拉什尼科夫集團在ARMY-2016公開展示起，受到俄羅斯軍隊的高度重視，並與AK-12一同不斷改進。\[1\]發射[5.45×39毫米](../Page/5.45×39mm.md "wikilink")（M74）[苏联](../Page/苏联.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**RPK-16**（，簡稱：，意為：卡拉什尼科夫2016年手提機槍，[俄羅斯國防部火箭炮兵裝備總局尚未公開其代號](https://zh.wikipedia.org/wiki/俄羅斯國防部火箭炮兵裝備總局 "wikilink")；一度被推測為RPK-12）是一款由[俄罗斯](../Page/俄罗斯.md "wikilink")槍械製造商（，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Kontsern Kalashnikova，；前稱：伊茨瑪希工廠，，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Izhmash）接收到[俄羅斯軍隊對AK槍族常見缺陷的意見并作出改進及生產的現代化](../Page/俄罗斯军事.md "wikilink")[轻机枪](../Page/轻机枪.md "wikilink")（[自动步枪](../Page/自动步枪.md "wikilink")／），可說是[RPK-74輕機槍](../Page/RPK-74輕機槍.md "wikilink")的進一步現代化改進型及[AK-12突击步枪](../Page/AK-12突击步枪.md "wikilink")的重槍管自動步槍版本，自卡拉什尼科夫集團在ARMY-2016公開展示起，受到俄羅斯軍隊的高度重視，並且與AK-12一同不斷改進。\[1\]發射[5.45×39毫米](../Page/5.45×39mm.md "wikilink")（M74）[苏联](../Page/苏联.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 這是俄羅斯RPK槍族系列輕機槍的最新衍生型，並提出可能普遍地發配給[俄羅斯軍隊每一單位](../Page/俄罗斯联邦武装力量.md "wikilink")。該機槍的目的是最終取代俄羅斯軍隊和其他政府部隊（無論常規或是[特種部隊](../Page/特種部隊.md "wikilink")當中）服役的前代卡拉什尼科夫5.45×39毫米輕機槍，即[RPK-74](../Page/RPK-74輕機槍.md "wikilink")。\[2\]\[3\]根據關注卡拉什尼科夫的專家謝爾蓋拉德克維奇的說法，該機槍汲取了現代武裝衝突的經驗。\[4\]
 
@@ -14,7 +14,7 @@
 
 根據客戶的指示，RPK-16是可與國外[5.56×45毫米北約](../Page/5.56×45mm_NATO.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[FN Minimi和](../Page/FN_Minimi輕機槍.md "wikilink")[M249輕機槍比較的俄製產品](../Page/M249班用自動武器.md "wikilink")，結合了強大的[火力與足夠的機動力特性](https://zh.wikipedia.org/wiki/火力 "wikilink")，能夠快速更換槍管並且以[彈匣](../Page/彈匣.md "wikilink")與金屬製[彈鏈](../Page/彈鏈.md "wikilink")供彈（北約標準的突擊步槍）。但是，RPK-16的研發人員拒絕採用雙排供彈設計，因此它將可兼容AK-74、RPK-74，以及AK-12的彈匣。\[9\]目前，製造商正在為其研發一款特殊、容量達到96發的彈鼓，並且用作其標準供彈具。
 
-RPK-16的佈局類似於AK-12，但具有經過改進的[人體工程學](https://zh.wikipedia.org/wiki/人體工程學 "wikilink")[手槍握把與折疊](https://zh.wikipedia.org/wiki/手槍握把 "wikilink")[槍托](../Page/槍托.md "wikilink")設計。該機槍的淨重量約為4.5公斤。此外，該機槍保留了傳統的卡拉什尼科夫[氣動式系統設計](../Page/氣動式_\(槍械\).md "wikilink")，裝有長行程活塞，以確保其牢固的結構與高度可靠性。RPK-16具有較低的後座係數與較高的射擊[精度](../Page/準確與精密.md "wikilink")，在火力方面明顯優於RPK-74。其射速高達700發／分鐘。 除了全自動（連發）以外，亦可以半自動（單發）與點放（點發）模式射擊。
+RPK-16的佈局類似於AK-12，但具有經過改進的[人體工學](../Page/生物力学.md "wikilink")[手槍握把與折疊](https://zh.wikipedia.org/wiki/手槍握把 "wikilink")[槍托](../Page/槍托.md "wikilink")設計。該機槍的淨重量約為4.5公斤。此外，該機槍保留了傳統的卡拉什尼科夫[氣動式系統設計](../Page/氣動式_\(槍械\).md "wikilink")，裝有長行程活塞，以確保其牢固的結構與高度可靠性。RPK-16具有較低的後座係數與較高的射擊[精度](../Page/準確與精密.md "wikilink")，在火力方面明顯優於RPK-74。其射速高達700發／分鐘。 除了全自動（連發）以外，亦可以半自動（單發）與點放（點發）模式射擊。
 
 RPK-16亦採用了全新設計的可拆卸式[機匣蓋](https://zh.wikipedia.org/wiki/機匣 "wikilink")，由厚度為1.5毫米的[钢](../Page/钢.md "wikilink")板所製成，這比AK-100系列突擊步槍1毫米厚度稍厚。由於機匣的前插梢較標準AK要大，因此從彈匣插槽上方的側面有著凸起的縱向加強肋條。槍口裝有[制動器的設計類似於](../Page/砲口制動器.md "wikilink")**AK-400**。
 
@@ -102,23 +102,15 @@ RPK-16亦採用了全新設計的可拆卸式[機匣蓋](https://zh.wikipedia.or
 [Category:轻机枪](https://zh.wikipedia.org/wiki/Category:轻机枪 "wikilink") [Category:5.45×39毫米槍械](https://zh.wikipedia.org/wiki/Category:5.45×39毫米槍械 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:導氣式槍械](https://zh.wikipedia.org/wiki/Category:導氣式槍械 "wikilink") [Category:試驗和研究槍械](https://zh.wikipedia.org/wiki/Category:試驗和研究槍械 "wikilink")
 
 1.
-
 2.
-
 3.  [Kalashnikov signs contract to supply Defense Ministry with newest RPK-16 machine guns](http://tass.com/defense/988744)
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
 10.  IHS Jane's 360|website=www.janes.com|access-date=2017-03-14}}
-
 11.
 12.
 13.

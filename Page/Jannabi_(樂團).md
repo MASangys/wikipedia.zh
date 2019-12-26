@@ -77,12 +77,16 @@ PlotData =
 
 2018年12月，在[樂童音樂家李秀賢的featuring下發行了數位單曲](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")。
 
-### 2019年：正規二《**傳說**》發表、參與《我獨自生活》、劉永㧋退出
+### 2019年：正規二《**傳說**》發表、參與《我獨自生活》、尹潔入伍
 
 2019年4月，Jannabi因為主唱崔政勳參與《[我獨自生活](../Page/我獨自生活.md "wikilink")》，展現復古的感性生活使3月發表的主打曲〈致猶豫的戀人們(주저하는 연인들을 위해)〉開始逆襲，一度來到實時一位。為此，JANNABI 官方Instagram表達感謝。\[2\]\[3\]
 
 2019年5月1日，Jannabi受邀參加[百想藝術大賞](https://zh.wikipedia.org/wiki/百想藝術大賞 "wikilink")，翻唱金民基的〈山峰〉。
 2019年6月24日，Jannabi因為劉永㧋退出，更新四人組的團體照。
+
+2019年9月11日，尹潔親筆信寫下10月10日入伍的消息。 2019年10月10日之後，Jannabi 以三人組活動，鼓手為外聘鼓手。
+
+2019年10月19日，Jannabi以[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")重新回歸電視節目上。
 
 ## 音樂風格
 
@@ -256,6 +260,8 @@ Jannabi的音樂以復古音樂為主，這不是團體刻意塑造的音樂取�
 | 2019年4月22日  | [大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")                | EP.412 | 崔政勳                       |
 | 2019年4月23日  | [深夜正式演藝](../Page/深夜正式演藝.md "wikilink")                      | EP.106 | 全體成員                      |
 | 2019年5月10日  | [我獨自生活](../Page/我獨自生活.md "wikilink")                        | EP.293 | 崔政勳(彩虹現場/出演**)**、全體成員(出演) |
+| 2019年10月19日 | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")            | EP.405 | 全體成員                      |
+|             |                                                             |        |                           |
 
 ## 爭議事件
 
@@ -285,19 +291,12 @@ Jannabi的音樂以復古音樂為主，這不是團體刻意塑造的音樂取�
 [Category:韓國樂團](https://zh.wikipedia.org/wiki/Category:韓國樂團 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
-
 8.
-
 9.
-
 10.

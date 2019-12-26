@@ -10,6 +10,15 @@ WACK EXHiBiTiON是一個由[WACK](../Page/WACK.md "wikilink")舉辨的大型活�
   - 將進行6日5夜的訓練營。
   - 本屆最著名的「オーケストラ事件」。
 
+### 導師
+
+  - プー・ルイ -
+  - アヤ・エイトプリンス - BiS
+  - アイナ・ジ・エンド - [BiSH](../Page/BiSH.md "wikilink")
+  - ハシヤスメ・アツコ - BiSH
+  - ユメノユア - [GANG PARADE](../Page/GANG_PARADE.md "wikilink")
+  - テラシマユウカ - GANG PARADE
+
 ### 公告
 
 ### 試鏡獲獎者
@@ -68,16 +77,30 @@ WACK EXHiBiTiON是一個由[WACK](../Page/WACK.md "wikilink")舉辨的大型活�
 
 ### 簡介
 
+  -
+  -
+  -
+### 導師
+
+  - ペリ・ウブ -
+  - パン・ルナリーフィ - BiS
+  - モモコグミカンパニー - [BiSH](../Page/BiSH.md "wikilink")
+  - キャン・マイカ（現：キャン・GP・ウンチ） - [GANG PARADE](../Page/GANG_PARADE.md "wikilink")
+
 ### 公告
 
 ### 試鏡獲獎者
 
-  -
-  -
+  - トリアエズ・ハナ(セントチヒロ・テッテ)、ネル・ネール(オレンジコバンパイア)、佑生 (ガミヤサキ) - BiS 1st
+  - ムロパナコ(アユナ・C)、ミュークラブ(チョウショージメグミ) - BiS 2nd
+  - 月ノウサギ(ヨコヤマヒナ)、ハルナ・バッ・チーン(リソリソ) - [GANG PARADE](../Page/GANG_PARADE.md "wikilink")
+  - MiKiNA EMPiRE(ミチハヤシリオ)、MAHO EMPiRE(ヤヤ・エイトプリンス) - EMPiRE
+
 ### 其他公告
 
   -
-  -
+  - 由於キャン・マイカ在WACK合宿營的排名是所有參與WACK成員中最低的，アンズピア將她的名字改為「キャン・GP・ウンチ」。
+
 ## 參加成員
 
 ### BiS
@@ -118,11 +141,44 @@ WACK EXHiBiTiON是一個由[WACK](../Page/WACK.md "wikilink")舉辨的大型活�
 
 ### 試鏡決賽選手
 
+  - トリアエズ・ハナ(セントチヒロ・テッテ)
+  - ネル・ネール(オレンジコバンパイア)
+  - 佑生 (ガミヤサキ)
+  - ムロパナコ(アユナ・C)
+  - ミュークラブ(チョウショージメグミ)
+  - 月ノウサギ(ヨコヤマヒナ)
+  - ハルナ・バッ・チーン(リソリソ)
+  - MiKiNA EMPiRE(ミチハヤシリオ)
+  - MAHO EMPiRE(ヤヤ・エイトプリンス)
+  - みみらんど
+
 ## 2019年
 
 [WACK合宿營徵選2019年結束後](https://zh.wikipedia.org/wiki/WACK合宿營徵選2019 "wikilink")，第三屆WACK EXHiBiTi於3月30日舉行。
 
 ### 簡介
+
+  -
+  -
+### 導師
+
+  - アヤ・エイトプリンス -
+  - ムロパナコ - BiS
+  - トリアエズ・ハナ - BiS
+  - YUiNA EMPiRE - BiS
+  - アユニ・D - [BiSH](../Page/BiSH.md "wikilink")
+  - ヤママチミキ - [GANG PARADE](../Page/GANG_PARADE.md "wikilink")
+  - MAYU EMPiRE - [EMPiRE](../Page/EMPiRE_\(偶像團體\).md "wikilink")
+
+### 自願參加者
+
+  - ナルハワールド - [WAgg](../Page/WAgg.md "wikilink")
+  - マリン・バ - WAgg
+  - ウルウ・ル - WAgg
+  - ウタウウタ - WAgg
+  - ア・アンズピア - WAgg
+  - サアヤイト - WAgg
+  - ハナエモンスター - WAgg
 
 ### 公告
 
@@ -136,7 +192,8 @@ WACK EXHiBiTiON是一個由[WACK](../Page/WACK.md "wikilink")舉辨的大型活�
 
   - BiS將於5月11日解散。渡邊宣布試鏡即將進行第三次重啟BiS。
   - PEDRO（アユニ・D）已經與[EMI](../Page/EMI.md "wikilink")唱片公司簽約，並將在夏季發行新專輯。
-  - 由於アンズピア在WACK合宿營的排名是所有參與WACK成員中最低的，アンズピア將她的名字改為“ア・アンズピア”
+  - ナルハワールド確定將會昇格GANG PARADE。
+  - 由於アンズピア在WACK合宿營的排名是所有參與WACK成員中最低的，アンズピア將她的名字改為“ア・アンズピア”。
 
 ## 參加成員
 
@@ -191,9 +248,13 @@ WACK EXHiBiTiON是一個由[WACK](../Page/WACK.md "wikilink")舉辨的大型活�
   - 愛
   - サアヤイト
   - ハナエモンスター
-  - ナアユ
 
 ### 試鏡決賽選手
+
+  - NOW EMPiRE(テラヤマユフ)
+  - ナアユ(セントチヒロノイモウト)
+  - パルナ・パッ・チーン
+  - ドンドン
 
 ## 2020年
 
@@ -201,8 +262,16 @@ WACK EXHiBiTiON是一個由[WACK](../Page/WACK.md "wikilink")舉辨的大型活�
 
 ### 簡介
 
+  -
+  -
+### 導師
+
+  -
+  -
 ### 公告
 
+  -
+  -
 ### 試鏡獲獎者
 
   -
@@ -253,11 +322,12 @@ WACK EXHiBiTiON是一個由[WACK](../Page/WACK.md "wikilink")舉辨的大型活�
   - ハナエモンスター
   - ナアユ
 
-### Curry Roux
+### CARRY LOOSE
 
   - パン・ルナリーフィ
   - YUiNA EMPiRE
   - ウルウ・ル
+  - ユメカ・ナウカナ？
 
 ### BiS
 
@@ -268,9 +338,9 @@ WACK EXHiBiTiON是一個由[WACK](../Page/WACK.md "wikilink")舉辨的大型活�
 
 ### 試鏡決賽選手
 
-## 參考資料
-
 ## 外部連結
+
+## 參考資料
 
 [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
 

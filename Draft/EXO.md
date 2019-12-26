@@ -476,93 +476,93 @@ EXO官方應援色為銀白色，官方團隊口號為「**WE ARE ONE**」。EXO
 
 ### 重要活動
 
-|                                            |                                                                            |                                                                                                                                                       |                      |
-| ------------------------------------------ | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| 日期                                         | 名稱                                                                         | 地點                                                                                                                                                    | 出演成員                 |
-| 2012年5月12日                                 | [夢想演唱會](../Page/夢想演唱會.md "wikilink")                                       | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                                                                                                            | EXO-K                |
-| 2012年5月20日                                 | [MBC韓流音樂演唱會](../Page/MBC韓流音樂演唱會.md "wikilink")                             | [洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[安納海姆](https://zh.wikipedia.org/wiki/安納海姆_\(加利福尼亞州\) "wikilink")[本田中心](../Page/本田中心.md "wikilink") | EXO                  |
-| 2012年8月25日                                 | [中韓歌會](https://zh.wikipedia.org/wiki/中韓歌會 "wikilink")                      | 韓國麗水市世博園數碼走廊                                                                                                                                          |                      |
-| 2012年10月13日                                | [KCON 2012](../Page/M_Countdown特別活動.md "wikilink")\[112\]                  | 美國Verizon Wireless Amphitheatre                                                                                                                       | EXO-M                |
-| 2012年12月29日                                | [SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")                                   | 首爾一山KINTEX                                                                                                                                            | EXO                  |
-| 2012年12月31日                                | [MBC歌謠大祭典](../Page/MBC歌謠大祭典.md "wikilink")                                 | 京畿道一山MBC Dream Center                                                                                                                                 | EXO-K                |
-| 2013年1月19日                                 | Dream Kpop Fantasy Concert\[113\]                                          | 菲律賓[亞洲購物中心體育館](../Page/亞洲購物中心體育館.md "wikilink")                                                                                                       | EXO                  |
-| 2013年3月16日                                 | [MBC韓流音樂演唱會](../Page/MBC韓流音樂演唱會.md "wikilink")                             | [曼谷](../Page/曼谷.md "wikilink")[拉加曼加拉體育場](../Page/拉加曼加拉體育場.md "wikilink")                                                                              | EXO-K                |
-| 2013年5月11日                                 | [夢想演唱會](../Page/夢想演唱會.md "wikilink")                                       | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                                                                                                            | EXO                  |
-| 2013年7月1日                                  | 香港巨蛋音樂節\[114\]                                                             | 前啟德機場跑道                                                                                                                                               |                      |
-| 2013年7月17日                                 | [第27屆世界大學生運動會閉幕式](https://zh.wikipedia.org/wiki/2013年夏季世界大學運動會 "wikilink") | [新喀山紅寶石體育場](https://zh.wikipedia.org/wiki/新喀山紅寶石體育場 "wikilink")                                                                                       |                      |
-| 2013年7月20日                                 | BlueOne K-POP Dream Festival                                               | 慶州BLUEONE水上樂園特設舞台                                                                                                                                     |                      |
-| 2013年8月24-25日                              | [KCON 2013](../Page/M_Countdown特別活動.md "wikilink")\[115\]                  | [洛杉磯紀念體育場](../Page/洛杉磯紀念體育場.md "wikilink")                                                                                                            |                      |
-| 2013年9月1日                                  | Incheon Korean Music Wave 2013\[116\]                                      | [仁川文鶴競技場](../Page/仁川文鶴競技場.md "wikilink")                                                                                                              |                      |
-| 2013年9月8日                                  | MTV World Stage Live in Malaysia\[117\]                                    | Sunway Lagoon                                                                                                                                         |                      |
-| 2013年10月9日                                 | [亞洲音樂節](https://zh.wikipedia.org/wiki/亞洲音樂節 "wikilink")                    | [韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[首爾](../Page/首爾.md "wikilink")市[蠶室綜合運動場](https://zh.wikipedia.org/wiki/蠶室綜合運動場 "wikilink")         |                      |
-| 2013年12月29日                                | [SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")                                   | 首爾一山KINTEX                                                                                                                                            |                      |
-| 2013年12月31日                                | [MBC歌謠大祭典](../Page/MBC歌謠大祭典.md "wikilink")                                 | 京畿道一山MBC Dream Center                                                                                                                                 |                      |
-| 2014年3月21日                                 | F/W 2014 Seoul Fashion Week 開幕典禮                                           | [首爾](../Page/首爾.md "wikilink")[東大門設計廣場](../Page/东大门设计广场.md "wikilink")                                                                                |                      |
-| 2014年4月20日                                 | 樂天家族演唱會                                                                    | [首爾奧林匹克主競技場](../Page/首爾奧林匹克主競技場.md "wikilink")                                                                                                        | EXO-K                |
-| 2014年5月27日                                 | [第50屆百想藝術大賞](https://zh.wikipedia.org/wiki/第50屆百想藝術大賞 "wikilink")          | 首爾[慶熙大學](../Page/慶熙大學.md "wikilink")平和殿堂                                                                                                              |                      |
-| 2014年6月7日                                  | [夢想演唱會](../Page/夢想演唱會.md "wikilink")                                       | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                                                                                                            | EXO                  |
-| 2014年7月1日                                  | 香港巨蛋音樂節\[118\]                                                             | 前啟德機場跑道                                                                                                                                               | EXO-K                |
-| 2014年9月1日                                  | MBC Infinite Dream Concert\[119\]                                          |                                                                                                                                                       | EXO-K                |
-| 2014年9月17日                                 | 仁川韓流演唱會\[120\]                                                             | 仁川廣域市國際業務地區                                                                                                                                           |                      |
-| 2014年9月19日                                 | [2014年仁川亞洲運動會開幕式暖場](https://zh.wikipedia.org/wiki/2014年亞洲運動會 "wikilink")   | [仁川亞運會主體育場](../Page/仁川亞運主體育場.md "wikilink")                                                                                                           | EXO（Kris、Luhan除外）    |
-| 2014年9月28日                                 | 韓流Dream Festival\[121\]                                                    | 慶州市體育館                                                                                                                                                | EXO-K                |
-| 2014年10月10日                                | Chungnam Sports Festival                                                   |                                                                                                                                                       |                      |
-| 2014年10月19日                                | 2014 K-POP World Festival In Changwon\[122\]                               | 廣尚南道昌原市                                                                                                                                               |                      |
-| 2014年10月25日                                | [MBC韓流音樂演唱會](../Page/MBC韓流音樂演唱會.md "wikilink")                             | [北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[國家體育場](https://zh.wikipedia.org/wiki/國家體育場_\(北京\) "wikilink")                                       | EXO                  |
-| 2014年11月2日                                 | [亞洲音樂節](https://zh.wikipedia.org/wiki/亞洲音樂節 "wikilink")                    | [韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[釜山亞運會主競技場](../Page/釜山亞運會主競技場.md "wikilink")                                                       | EXO-K                |
-| 2014年11月9日                                 | 樂天家族演唱會                                                                    | [首爾奧林匹克主競技場](../Page/首爾奧林匹克主競技場.md "wikilink")                                                                                                        |                      |
-| 2014年11月26日                                | [中韓歌會](https://zh.wikipedia.org/wiki/中韓歌會 "wikilink")\[123\]               | 韓國首爾市韓國放送公社汝矣島總部KBS Hall                                                                                                                              | EXO                  |
-| 2014年12月21日                                | [SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")                                   | 韓國首爾市三成洞COEX                                                                                                                                          |                      |
-| 2014年12月26日                                | [KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink")                                   | 首爾汝矣島KBS大廳                                                                                                                                            |                      |
-| 2014年12月31日                                | 湖南衛視跨年演唱會                                                                  |                                                                                                                                                       |                      |
-| [MBC歌謠大祭典](../Page/MBC歌謠大祭典.md "wikilink") | 京畿道一山MBC Dream Center                                                      |                                                                                                                                                       |                      |
-| 2015年4月14日                                 | 濟州島K-POP演唱會                                                                |                                                                                                                                                       |                      |
-| 2015年5月15日                                 | 延世大學慶典AKARAKA                                                              |                                                                                                                                                       |                      |
-| 2015年5月23日                                 | [夢想演唱會](../Page/夢想演唱會.md "wikilink")                                       | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                                                                                                            |                      |
-| 2015年5月24日                                 | 樂天家族演唱會\[124\]                                                             | [首爾](../Page/首爾.md "wikilink")蠶室綜合運動場                                                                                                                 |                      |
-| 2015年7月23日                                 | 樂天Lovely Young演唱會                                                          |                                                                                                                                                       |                      |
-| 2015年8月30日                                 | a nation                                                                   | [東京體育場](../Page/東京體育場.md "wikilink")                                                                                                                  |                      |
-| 2015年9月5日                                  | [DMC Festival](../Page/DMC_Festival.md "wikilink")\[125\]                  | 首爾DMC（數碼媒體城）地區上岩文化廣場                                                                                                                                  |                      |
-| 2015年10月4日                                 | 江南韓流音樂節\[126\]                                                             |                                                                                                                                                       |                      |
-| 2015年10月9日                                 | ONE K演唱會\[127\]                                                            | 韓國首爾世界盃競技場                                                                                                                                            |                      |
-| 2015年10月11日                                | [亞洲音樂節](https://zh.wikipedia.org/wiki/亞洲音樂節 "wikilink")                    | [韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[釜山亞運會主競技場](../Page/釜山亞運會主競技場.md "wikilink")                                                       |                      |
-| 2015年10月24日                                | ACC 演唱會\[128\]                                                             | [上海虹口体育馆](https://zh.wikipedia.org/wiki/上海 "wikilink")                                                                                                |                      |
-| 2015年10月25日                                | 樂天家族演唱會                                                                    |                                                                                                                                                       |                      |
-| 2015年12月27日                                | [SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")                                   | 韓國首爾市三成洞COEX                                                                                                                                          |                      |
-| 2015年12月30日                                | [KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink")                                   | 首爾高尺天空巨蛋                                                                                                                                              |                      |
-| 2015年12月31日                                | [MBC歌謠大祭典](../Page/MBC歌謠大祭典.md "wikilink")                                 | 京畿道一山MBC Dream Center                                                                                                                                 |                      |
-| 2016年6月4日                                  | [夢想演唱會](../Page/夢想演唱會.md "wikilink")\[129\]                                | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                                                                                                            |                      |
-| 2016年6月18日                                 | Suwon K-POP Super Concert\[130\]                                           | 韓國水原世界杯體育場主賽場                                                                                                                                         |                      |
-| 2016年6月21日                                 | KBS Open Concert                                                           |                                                                                                                                                       |                      |
-| 2016年10月8日                                 | [DMC Festival](../Page/DMC_Festival.md "wikilink")\[131\]                  | 首爾DMC（數碼媒體城）地區上岩文化廣場                                                                                                                                  |                      |
-| 2016年10月9日                                 | [亞洲音樂節](https://zh.wikipedia.org/wiki/亞洲音樂節 "wikilink")                    | [韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[釜山亞運會主競技場](../Page/釜山亞運會主競技場.md "wikilink")                                                       |                      |
-| 2016年10月22日                                | 樂天家族演唱會                                                                    | [首爾](../Page/首爾.md "wikilink")蠶室綜合運動場                                                                                                                 |                      |
-| 2016年11月1日                                 | SBS Power FM 20周年演唱會                                                       |                                                                                                                                                       |                      |
-| 2016年12月26日                                | [SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")                                   | 韓國首爾市三成洞COEX                                                                                                                                          |                      |
-| 2016年12月29日                                | [KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink")                                   | 首爾汝矣島KBS大廳                                                                                                                                            |                      |
-| 2016年12月31日                                | [MBC歌謠大祭典](../Page/MBC歌謠大祭典.md "wikilink")                                 | 京畿道一山MBC Dream Center                                                                                                                                 |                      |
-| 2017年5月6日                                  | KPOP Festival in Myanmar\[132\]                                            | [緬甸](https://zh.wikipedia.org/wiki/緬甸 "wikilink")[杜瓦納體育場](../Page/杜瓦納體育場.md "wikilink")                                                               | EXO（Lay缺席）           |
-| 2017年5月31日                                 | U Have a Dream\[133\]                                                      | [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[京畿道](../Page/京畿道.md "wikilink")[高陽市](../Page/高陽市.md "wikilink")                                     |                      |
-| 2017年6月2日                                  | World Friends Music Festival                                               |                                                                                                                                                       |                      |
-| 2017年6月3日                                  | [夢想演唱會](../Page/夢想演唱會.md "wikilink")\[134\]                                | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                                                                                                            |                      |
-| 2017年6月10日                                 | Skechers Sweet Monster K-pop Dance Competition 2017                        | [新加坡](../Page/新加坡.md "wikilink")長堤坊                                                                                                                   | Sehun、Chanyeol、Suho  |
-| 2017年7月24日                                 | 2017蔚山夏日音樂節\[135\]                                                         | 鎮下海水浴場                                                                                                                                                | EXO（Lay缺席）           |
-| 2017年8月26日                                 | a nation\[136\]                                                            | [東京體育場](../Page/東京體育場.md "wikilink")                                                                                                                  |                      |
-| 2017年9月15日                                 | 樂天家族演唱會\[137\]                                                             | [首爾](../Page/首爾.md "wikilink")蠶室綜合運動場                                                                                                                 |                      |
-| 2017年9月22日                                 | [KCON 2017](../Page/M_Countdown特別活動.md "wikilink")\[138\]                  | 雪梨巨蛋體育館                                                                                                                                               |                      |
-| 2017年9月24日                                 | [亞洲音樂節](https://zh.wikipedia.org/wiki/亞洲音樂節 "wikilink")                    | [韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[釜山亞運會主競技場](../Page/釜山亞運會主競技場.md "wikilink")                                                       |                      |
-| 2017年11月1日                                 | 平昌文化奧運 G-100 聖火傳送祝賀 K-POP 演唱會\[139\]                                       | 首爾[光化門](../Page/光化門.md "wikilink")                                                                                                                    |                      |
-| 2017年12月14日                                | 中韓經濟貿易合作夥伴會議開幕儀式                                                           | 北京                                                                                                                                                    | Xiumin、Baekhyun、Chen |
-| 2017年12月25日                                | [SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")                                   | 首爾高尺天空巨蛋                                                                                                                                              | EXO（Lay缺席）           |
-| 2017年12月29日                                | [KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink")                                   | 首爾汝矣島KBS電視台音樂廳                                                                                                                                        |                      |
-| 2017年12月31日                                | [MBC歌謠大祭典](../Page/MBC歌謠大祭典.md "wikilink")                                 | 京畿道一山MBC Dream Center                                                                                                                                 |                      |
-| 2018年2月5日                                  | 國際奧委會（IOC）總會開幕式                                                            |                                                                                                                                                       | Baekhyun\[140\]      |
-| 2018年2月25日                                 | [2018年冬季奧林匹克運動會閉幕式](../Page/2018年冬季奧林匹克運動會閉幕式.md "wikilink")\[141\]        | [大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[平昌郡](../Page/平昌郡.md "wikilink")[平昌奧林匹克體育場](../Page/平昌奧林匹克體育場.md "wikilink")                     | EXO（Lay缺席）           |
-| 2018年6月23日                                 | 樂天家族演唱會\[142\]                                                             | [首爾](../Page/首爾.md "wikilink")蠶室綜合運動場                                                                                                                 |                      |
-| 2018年8月26日                                 | a nation\[143\]                                                            | [東京體育場](../Page/東京體育場.md "wikilink")                                                                                                                  |                      |
-| 2018年9月2日                                  | 2018 仁川機場 SKY FESTIVAL\[144\]                                              | 仁川國際機場文化公園                                                                                                                                            |                      |
-| 2018年9月27日                                 | 2018 Korea Sale Festa\[145\]                                               | [首爾廣場](https://zh.wikipedia.org/wiki/首爾廣場 "wikilink")                                                                                                 |                      |
-| 2018年10月20日                                | 釜山One Asia Festival 2018\[146\]                                            |                                                                                                                                                       | EXO                  |
+|                                            |                                                                          |                                                                                                                                                       |                      |
+| ------------------------------------------ | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| 日期                                         | 名稱                                                                       | 地點                                                                                                                                                    | 出演成員                 |
+| 2012年5月12日                                 | [夢想演唱會](../Page/夢想演唱會.md "wikilink")                                     | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                                                                                                            | EXO-K                |
+| 2012年5月20日                                 | [MBC韓流音樂演唱會](../Page/MBC韓流音樂演唱會.md "wikilink")                           | [洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[安納海姆](https://zh.wikipedia.org/wiki/安納海姆_\(加利福尼亞州\) "wikilink")[本田中心](../Page/本田中心.md "wikilink") | EXO                  |
+| 2012年8月25日                                 | [中韓歌會](https://zh.wikipedia.org/wiki/中韓歌會 "wikilink")                    | 韓國麗水市世博園數碼走廊                                                                                                                                          |                      |
+| 2012年10月13日                                | [KCON 2012](../Page/M_Countdown特別活動.md "wikilink")\[112\]                | 美國Verizon Wireless Amphitheatre                                                                                                                       | EXO-M                |
+| 2012年12月29日                                | [SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")                                 | 首爾一山KINTEX                                                                                                                                            | EXO                  |
+| 2012年12月31日                                | [MBC歌謠大祭典](../Page/MBC歌謠大祭典.md "wikilink")                               | 京畿道一山MBC Dream Center                                                                                                                                 | EXO-K                |
+| 2013年1月19日                                 | Dream Kpop Fantasy Concert\[113\]                                        | 菲律賓[亞洲購物中心體育館](../Page/亞洲購物中心體育館.md "wikilink")                                                                                                       | EXO                  |
+| 2013年3月16日                                 | [MBC韓流音樂演唱會](../Page/MBC韓流音樂演唱會.md "wikilink")                           | [曼谷](../Page/曼谷.md "wikilink")[拉加曼加拉體育場](../Page/拉加曼加拉體育場.md "wikilink")                                                                              | EXO-K                |
+| 2013年5月11日                                 | [夢想演唱會](../Page/夢想演唱會.md "wikilink")                                     | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                                                                                                            | EXO                  |
+| 2013年7月1日                                  | 香港巨蛋音樂節\[114\]                                                           | 前啟德機場跑道                                                                                                                                               |                      |
+| 2013年7月17日                                 | [第27屆世界大學生運動會閉幕式](../Page/2013年夏季世界大學運動會.md "wikilink")                  | [新喀山紅寶石體育場](https://zh.wikipedia.org/wiki/新喀山紅寶石體育場 "wikilink")                                                                                       |                      |
+| 2013年7月20日                                 | BlueOne K-POP Dream Festival                                             | 慶州BLUEONE水上樂園特設舞台                                                                                                                                     |                      |
+| 2013年8月24-25日                              | [KCON 2013](../Page/M_Countdown特別活動.md "wikilink")\[115\]                | [洛杉磯紀念體育場](../Page/洛杉磯紀念體育場.md "wikilink")                                                                                                            |                      |
+| 2013年9月1日                                  | Incheon Korean Music Wave 2013\[116\]                                    | [仁川文鶴競技場](../Page/仁川文鶴競技場.md "wikilink")                                                                                                              |                      |
+| 2013年9月8日                                  | MTV World Stage Live in Malaysia\[117\]                                  | Sunway Lagoon                                                                                                                                         |                      |
+| 2013年10月9日                                 | [亞洲音樂節](https://zh.wikipedia.org/wiki/亞洲音樂節 "wikilink")                  | [韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[首爾](../Page/首爾.md "wikilink")市[蠶室綜合運動場](https://zh.wikipedia.org/wiki/蠶室綜合運動場 "wikilink")         |                      |
+| 2013年12月29日                                | [SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")                                 | 首爾一山KINTEX                                                                                                                                            |                      |
+| 2013年12月31日                                | [MBC歌謠大祭典](../Page/MBC歌謠大祭典.md "wikilink")                               | 京畿道一山MBC Dream Center                                                                                                                                 |                      |
+| 2014年3月21日                                 | F/W 2014 Seoul Fashion Week 開幕典禮                                         | [首爾](../Page/首爾.md "wikilink")[東大門設計廣場](../Page/东大门设计广场.md "wikilink")                                                                                |                      |
+| 2014年4月20日                                 | 樂天家族演唱會                                                                  | [首爾奧林匹克主競技場](../Page/首爾奧林匹克主競技場.md "wikilink")                                                                                                        | EXO-K                |
+| 2014年5月27日                                 | [第50屆百想藝術大賞](https://zh.wikipedia.org/wiki/第50屆百想藝術大賞 "wikilink")        | 首爾[慶熙大學](../Page/慶熙大學.md "wikilink")平和殿堂                                                                                                              |                      |
+| 2014年6月7日                                  | [夢想演唱會](../Page/夢想演唱會.md "wikilink")                                     | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                                                                                                            | EXO                  |
+| 2014年7月1日                                  | 香港巨蛋音樂節\[118\]                                                           | 前啟德機場跑道                                                                                                                                               | EXO-K                |
+| 2014年9月1日                                  | MBC Infinite Dream Concert\[119\]                                        |                                                                                                                                                       | EXO-K                |
+| 2014年9月17日                                 | 仁川韓流演唱會\[120\]                                                           | 仁川廣域市國際業務地區                                                                                                                                           |                      |
+| 2014年9月19日                                 | [2014年仁川亞洲運動會開幕式暖場](https://zh.wikipedia.org/wiki/2014年亞洲運動會 "wikilink") | [仁川亞運會主體育場](../Page/仁川亞運主體育場.md "wikilink")                                                                                                           | EXO（Kris、Luhan除外）    |
+| 2014年9月28日                                 | 韓流Dream Festival\[121\]                                                  | 慶州市體育館                                                                                                                                                | EXO-K                |
+| 2014年10月10日                                | Chungnam Sports Festival                                                 |                                                                                                                                                       |                      |
+| 2014年10月19日                                | 2014 K-POP World Festival In Changwon\[122\]                             | 廣尚南道昌原市                                                                                                                                               |                      |
+| 2014年10月25日                                | [MBC韓流音樂演唱會](../Page/MBC韓流音樂演唱會.md "wikilink")                           | [北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[國家體育場](https://zh.wikipedia.org/wiki/國家體育場_\(北京\) "wikilink")                                       | EXO                  |
+| 2014年11月2日                                 | [亞洲音樂節](https://zh.wikipedia.org/wiki/亞洲音樂節 "wikilink")                  | [韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[釜山亞運會主競技場](../Page/釜山亞運會主競技場.md "wikilink")                                                       | EXO-K                |
+| 2014年11月9日                                 | 樂天家族演唱會                                                                  | [首爾奧林匹克主競技場](../Page/首爾奧林匹克主競技場.md "wikilink")                                                                                                        |                      |
+| 2014年11月26日                                | [中韓歌會](https://zh.wikipedia.org/wiki/中韓歌會 "wikilink")\[123\]             | 韓國首爾市韓國放送公社汝矣島總部KBS Hall                                                                                                                              | EXO                  |
+| 2014年12月21日                                | [SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")                                 | 韓國首爾市三成洞COEX                                                                                                                                          |                      |
+| 2014年12月26日                                | [KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink")                                 | 首爾汝矣島KBS大廳                                                                                                                                            |                      |
+| 2014年12月31日                                | 湖南衛視跨年演唱會                                                                |                                                                                                                                                       |                      |
+| [MBC歌謠大祭典](../Page/MBC歌謠大祭典.md "wikilink") | 京畿道一山MBC Dream Center                                                    |                                                                                                                                                       |                      |
+| 2015年4月14日                                 | 濟州島K-POP演唱會                                                              |                                                                                                                                                       |                      |
+| 2015年5月15日                                 | 延世大學慶典AKARAKA                                                            |                                                                                                                                                       |                      |
+| 2015年5月23日                                 | [夢想演唱會](../Page/夢想演唱會.md "wikilink")                                     | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                                                                                                            |                      |
+| 2015年5月24日                                 | 樂天家族演唱會\[124\]                                                           | [首爾](../Page/首爾.md "wikilink")蠶室綜合運動場                                                                                                                 |                      |
+| 2015年7月23日                                 | 樂天Lovely Young演唱會                                                        |                                                                                                                                                       |                      |
+| 2015年8月30日                                 | a nation                                                                 | [東京體育場](../Page/東京體育場.md "wikilink")                                                                                                                  |                      |
+| 2015年9月5日                                  | [DMC Festival](../Page/DMC_Festival.md "wikilink")\[125\]                | 首爾DMC（數碼媒體城）地區上岩文化廣場                                                                                                                                  |                      |
+| 2015年10月4日                                 | 江南韓流音樂節\[126\]                                                           |                                                                                                                                                       |                      |
+| 2015年10月9日                                 | ONE K演唱會\[127\]                                                          | 韓國首爾世界盃競技場                                                                                                                                            |                      |
+| 2015年10月11日                                | [亞洲音樂節](https://zh.wikipedia.org/wiki/亞洲音樂節 "wikilink")                  | [韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[釜山亞運會主競技場](../Page/釜山亞運會主競技場.md "wikilink")                                                       |                      |
+| 2015年10月24日                                | ACC 演唱會\[128\]                                                           | [上海虹口体育馆](https://zh.wikipedia.org/wiki/上海 "wikilink")                                                                                                |                      |
+| 2015年10月25日                                | 樂天家族演唱會                                                                  |                                                                                                                                                       |                      |
+| 2015年12月27日                                | [SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")                                 | 韓國首爾市三成洞COEX                                                                                                                                          |                      |
+| 2015年12月30日                                | [KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink")                                 | 首爾高尺天空巨蛋                                                                                                                                              |                      |
+| 2015年12月31日                                | [MBC歌謠大祭典](../Page/MBC歌謠大祭典.md "wikilink")                               | 京畿道一山MBC Dream Center                                                                                                                                 |                      |
+| 2016年6月4日                                  | [夢想演唱會](../Page/夢想演唱會.md "wikilink")\[129\]                              | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                                                                                                            |                      |
+| 2016年6月18日                                 | Suwon K-POP Super Concert\[130\]                                         | 韓國水原世界杯體育場主賽場                                                                                                                                         |                      |
+| 2016年6月21日                                 | KBS Open Concert                                                         |                                                                                                                                                       |                      |
+| 2016年10月8日                                 | [DMC Festival](../Page/DMC_Festival.md "wikilink")\[131\]                | 首爾DMC（數碼媒體城）地區上岩文化廣場                                                                                                                                  |                      |
+| 2016年10月9日                                 | [亞洲音樂節](https://zh.wikipedia.org/wiki/亞洲音樂節 "wikilink")                  | [韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[釜山亞運會主競技場](../Page/釜山亞運會主競技場.md "wikilink")                                                       |                      |
+| 2016年10月22日                                | 樂天家族演唱會                                                                  | [首爾](../Page/首爾.md "wikilink")蠶室綜合運動場                                                                                                                 |                      |
+| 2016年11月1日                                 | SBS Power FM 20周年演唱會                                                     |                                                                                                                                                       |                      |
+| 2016年12月26日                                | [SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")                                 | 韓國首爾市三成洞COEX                                                                                                                                          |                      |
+| 2016年12月29日                                | [KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink")                                 | 首爾汝矣島KBS大廳                                                                                                                                            |                      |
+| 2016年12月31日                                | [MBC歌謠大祭典](../Page/MBC歌謠大祭典.md "wikilink")                               | 京畿道一山MBC Dream Center                                                                                                                                 |                      |
+| 2017年5月6日                                  | KPOP Festival in Myanmar\[132\]                                          | [緬甸](https://zh.wikipedia.org/wiki/緬甸 "wikilink")[杜瓦納體育場](../Page/杜瓦納體育場.md "wikilink")                                                               | EXO（Lay缺席）           |
+| 2017年5月31日                                 | U Have a Dream\[133\]                                                    | [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[京畿道](../Page/京畿道.md "wikilink")[高陽市](../Page/高陽市.md "wikilink")                                     |                      |
+| 2017年6月2日                                  | World Friends Music Festival                                             |                                                                                                                                                       |                      |
+| 2017年6月3日                                  | [夢想演唱會](../Page/夢想演唱會.md "wikilink")\[134\]                              | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                                                                                                            |                      |
+| 2017年6月10日                                 | Skechers Sweet Monster K-pop Dance Competition 2017                      | [新加坡](../Page/新加坡.md "wikilink")長堤坊                                                                                                                   | Sehun、Chanyeol、Suho  |
+| 2017年7月24日                                 | 2017蔚山夏日音樂節\[135\]                                                       | 鎮下海水浴場                                                                                                                                                | EXO（Lay缺席）           |
+| 2017年8月26日                                 | a nation\[136\]                                                          | [東京體育場](../Page/東京體育場.md "wikilink")                                                                                                                  |                      |
+| 2017年9月15日                                 | 樂天家族演唱會\[137\]                                                           | [首爾](../Page/首爾.md "wikilink")蠶室綜合運動場                                                                                                                 |                      |
+| 2017年9月22日                                 | [KCON 2017](../Page/M_Countdown特別活動.md "wikilink")\[138\]                | 雪梨巨蛋體育館                                                                                                                                               |                      |
+| 2017年9月24日                                 | [亞洲音樂節](https://zh.wikipedia.org/wiki/亞洲音樂節 "wikilink")                  | [韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[釜山亞運會主競技場](../Page/釜山亞運會主競技場.md "wikilink")                                                       |                      |
+| 2017年11月1日                                 | 平昌文化奧運 G-100 聖火傳送祝賀 K-POP 演唱會\[139\]                                     | 首爾[光化門](../Page/光化門.md "wikilink")                                                                                                                    |                      |
+| 2017年12月14日                                | 中韓經濟貿易合作夥伴會議開幕儀式                                                         | 北京                                                                                                                                                    | Xiumin、Baekhyun、Chen |
+| 2017年12月25日                                | [SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")                                 | 首爾高尺天空巨蛋                                                                                                                                              | EXO（Lay缺席）           |
+| 2017年12月29日                                | [KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink")                                 | 首爾汝矣島KBS電視台音樂廳                                                                                                                                        |                      |
+| 2017年12月31日                                | [MBC歌謠大祭典](../Page/MBC歌謠大祭典.md "wikilink")                               | 京畿道一山MBC Dream Center                                                                                                                                 |                      |
+| 2018年2月5日                                  | 國際奧委會（IOC）總會開幕式                                                          |                                                                                                                                                       | Baekhyun\[140\]      |
+| 2018年2月25日                                 | [2018年冬季奧林匹克運動會閉幕式](../Page/2018年冬季奧林匹克運動會閉幕式.md "wikilink")\[141\]      | [大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[平昌郡](../Page/平昌郡.md "wikilink")[平昌奧林匹克體育場](../Page/平昌奧林匹克體育場.md "wikilink")                     | EXO（Lay缺席）           |
+| 2018年6月23日                                 | 樂天家族演唱會\[142\]                                                           | [首爾](../Page/首爾.md "wikilink")蠶室綜合運動場                                                                                                                 |                      |
+| 2018年8月26日                                 | a nation\[143\]                                                          | [東京體育場](../Page/東京體育場.md "wikilink")                                                                                                                  |                      |
+| 2018年9月2日                                  | 2018 仁川機場 SKY FESTIVAL\[144\]                                            | 仁川國際機場文化公園                                                                                                                                            |                      |
+| 2018年9月27日                                 | 2018 Korea Sale Festa\[145\]                                             | [首爾廣場](https://zh.wikipedia.org/wiki/首爾廣場 "wikilink")                                                                                                 |                      |
+| 2018年10月20日                                | 釜山One Asia Festival 2018\[146\]                                          |                                                                                                                                                       | EXO                  |
 
 ## 獎項與榮譽
 
@@ -778,291 +778,148 @@ The Power of Music</p></td>
 {{韩国福布斯名人榜}} \[\[Category:EXO|Category:EXO\]\] \[\[Category:SM娛樂|Category:SM娛樂\]\] \[\[Category:韓語流行音樂團體|Category:韓語流行音樂團體\]\] \[\[Category:韓國流行音樂團體|Category:韓國流行音樂團體\]\] \[\[Category:韓國男子演唱團體|Category:韓國男子演唱團體\]\] \[\[Category:2012年成立的音樂團體|Category:2012年成立的音樂團體\]\] \[\[Category:Mnet亞洲音樂大獎獲得者|Category:Mnet亞洲音樂大獎獲得者\]\] \[\[Category:福布斯韩国年度前十名人|Category:福布斯韩国年度前十名人\]\]
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42. [EXO PLANET＃3來了！這次是The EXO᾽rDIUM只有五場準備搶飛啦！](http://www.vlovekpop.com/20160615-exo/) vlovekpop{{zh}
-
 43. [EXO第三次單獨演唱會開唱！5天的歷代級舞台引發期待！](http://www.vlovekpop.com/20160616-exo/) vlovekpop
-
 44. [「EXOclusive」展覽現場公開！集合所有EXO未公開相片！](http://www.vlovekpop.com/20160630-exo/) vlovekpop
-
 45.
-
 46.
-
 47.
-
 48. [名副其實最高唱片王！EXO《Lotto》蟬聯三次百萬銷量](http://www.vlovekpop.com/20160819-exo/) vlovekpop
-
 49. [《LOTTO》發行當日EXO達成3張百萬專輯！MV中令人懷念的彩蛋你發現了嗎？](http://www.vlovekpop.com/20160818-exo/) vlovekpop
-
 50. [EXO新曲預告再次震撼粉心！但正式打歌前《Lotto》一曲竟掀風波？](http://www.vlovekpop.com/20160817-exo/) vlovekpop
-
 51. [破紀錄速度一次比一次快！《Call Me Baby》成EXO第三首破億MV！](http://www.vlovekpop.com/20160825-exo/) vlovekpop
-
 52. [畫報集驚喜公開！EXO《Dear Happiness》即日開始預售，7日公開展覽！](http://www.vlovekpop.com/20160902-exo/) vlovekpop
-
 53. [EXO LAY（張藝興）將SOLO出道！正在準備中國SOLO專輯](http://www.koreastardaily.com/tc/news/84491/) koreadaily
-
 54. [最特別的生日禮物！EXO首個SOLO成員Lay，將於7日中韓同步公開作品](http://www.vlovekpop.com/20161006-lay/) vlovekpop
-
 55. [伯賢、XIUMIN、CHEN 將組成子團！](http://kpopn.niusnews.com/=K0g3tf81)Kpopn
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
 73.
-
 74.
-
 75.
-
 76.
-
 77.
-
 78.
-
 79.
-
 80.
-
 81.
-
 82.
-
 83.
-
 84.
-
 85.
 86.
-
 87.
-
 88.
-
 89.
-
 90.
-
 91.
-
 92.
-
 93.
-
 94.
-
 95.
-
 96.
-
 97.
-
 98.
-
 99.
-
 100.
-
 101.
-
 102. [粉絲又要花錢了！EXO代言球鞋品牌，九月逐日公佈成員宣傳影像！](http://www.vlovekpop.com/20160901-exo/) vlovekpop
-
 103.
-
 104.
-
 105.
-
 106.
-
 107.
-
 108.
-
 109.
-
 110.
-
 111.
-
 112.
-
 113.
-
 114.
-
 115.
-
 116.
-
 117.
-
 118.
-
 119.
-
 120.
-
 121.
-
 122.
-
 123.
-
 124.
-
 125.
-
 126.
-
 127.
-
 128.
-
 129.
-
 130.
-
 131.
-
 132.
-
 133.
-
 134.
-
 135.
-
 136.
-
 137.
-
 138.
-
 139.
-
 140.
-
 141.
-
 142.
-
 143.
-
 144.
-
 145.
-
 146.

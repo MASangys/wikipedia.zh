@@ -37,13 +37,9 @@ iPhone上的三维触控带来的功能包括但不限于：\[4\]\[5\]
 [Category:消費電子產品](https://zh.wikipedia.org/wiki/Category:消費電子產品 "wikilink") [Category:苹果公司](https://zh.wikipedia.org/wiki/Category:苹果公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
 7.

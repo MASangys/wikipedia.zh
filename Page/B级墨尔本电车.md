@@ -53,38 +53,23 @@ B型电车在以下线路运营：[1路](https://zh.wikipedia.org/wiki/墨尔本
 [Category:聯結式旅客列車](https://zh.wikipedia.org/wiki/Category:聯結式旅客列車 "wikilink") [Category:墨爾本電車車輛](https://zh.wikipedia.org/wiki/Category:墨爾本電車車輛 "wikilink")
 
 1.  [B1 Class](http://www.vicsig.net/index.php?page=trams&class=B1) B1 Class Vicsig
-
 2.  [B2 Class](http://www.vicsig.net/index.php?page=trams&class=B2) Vicsig
-
 3.
-
-4.  [B-Class](http://www.yarratrams.com.au/about-us/who-we-are/our-fleet/b-class/) Yarra Trams
-
+4.  [B-Class](http://www.yarratrams.com.au/about-us/who-we-are/our-fleet/b-class/)  Yarra Trams
 5.
-
 6.  "Melbourne News" *[Trolley Wire](https://zh.wikipedia.org/wiki/Trolley_Wire "wikilink")* issue 279 November 1999 page 25
-
 7.  [Some facts about the new Melbourne tram network](http://www.yarratrams.com.au/media-centre/news/articles/2004/some-facts-about-the-new-melbourne-tram-network-%28from-18th-april-2004%29/)  Yarra Trams 19 February 2004
-
 8.
-
 9.
-
 10. [B1.2001](http://www.vicsig.net/index.php?page=trams&number=2001&class=B1) Vicsig
-
 11. [B1.2002](http://www.vicsig.net/index.php?page=trams&number=2002&class=B1) Vicsig
-
 12.
-
 13.
 14.
 15. [1](https://www.facebook.com/media/set/?set=a.1110054445673282.1073741840.187307761281293&type=3) Farewell
-
 16.
 17.
-
 18.
 19.
 20. "Melboune" *Trolley Wire* issue 288 February 2002 pages 29-31
-
 21. "<https://www.abc.net.au/news/2017-05-22/truck-tram-collision-at-royal-park-in-melbourne/8546158>

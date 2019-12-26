@@ -248,9 +248,9 @@ COMEBACK V LIVE</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2018年Gaon單曲冠軍作品列表.md" title="wikilink">單曲年榜</a></p></td>
-<td><p>2018年</p></td>
-<td><p>#</p></td>
+<td><p><a href="../Page/2019年Gaon單曲冠軍作品列表.md" title="wikilink">單曲年榜</a></p></td>
+<td><p>2019年</p></td>
+<td><p>#56</p></td>
 <td></td>
 <td></td>
 <td></td>

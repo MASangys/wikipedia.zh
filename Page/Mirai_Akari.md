@@ -13,10 +13,13 @@
   - [虚拟YouTuber](https://zh.wikipedia.org/wiki/虚拟YouTuber "wikilink")
   - [虚拟偶像](../Page/虚拟偶像.md "wikilink")
 
-## 参考资料
+## 注释
 
 <references />
 
+## 参考文献
+
+  -
 ## 外部链接　
 
   -

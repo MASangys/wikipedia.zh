@@ -22,23 +22,31 @@
 <th><p>信息</p></th>
 <th><p>榜单最高位置</p></th>
 <th><p>销量</p></th>
+<th><p>认证</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/告示牌百强单曲榜.md" title="wikilink">US</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/奧地利Ö3四十強音樂榜" title="wikilink">AUT</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/澳大利亚唱片业协会榜" title="wikilink">AUS</a></p></td>
-<td><p><a href="../Page/加拿大百强单曲榜.md" title="wikilink">CAN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Billboard_200" title="wikilink">US</a><br />
+[12]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ARIA_Charts" title="wikilink">AUS</a><br />
+[13]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ö3_Austria_Top_40" title="wikilink">AUT</a><br />
+[14]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Canadian_Albums_Chart" title="wikilink">CAN</a><br />
+[15]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Hitlisten" title="wikilink">DEN</a><br />
+[16]</p></td>
 </tr>
 <tr class="even">
 <td><p>《7》</p></td>
 <td><ul>
-<li>发行: 2019年6月21日[12]</li>
+<li>发行: 2019年6月21日[17]</li>
 <li>厂牌: <a href="https://zh.wikipedia.org/wiki/哥伦比亚唱片" title="wikilink">哥伦比亚唱片</a></li>
-<li>形式: <a href="../Page/數位音樂下載.md" title="wikilink">数字下载</a>、<a href="../Page/流媒体.md" title="wikilink">流媒体</a></li>
+<li>形式: CD、<a href="../Page/數位音樂下載.md" title="wikilink">数字下载</a>、<a href="../Page/流媒体.md" title="wikilink">流媒体</a></li>
 </ul></td>
 <td><p>2</p></td>
+<td><p>5</p></td>
 <td><p>72</p></td>
 </tr>
 </tbody>
@@ -58,7 +66,7 @@
 <tr class="odd">
 <td><p>《Nasarati》</p></td>
 <td><ul>
-<li>发行: 2018年7月24日[13]</li>
+<li>发行: 2018年7月24日[18]</li>
 <li>厂牌: 个人发行</li>
 <li>形式: <a href="../Page/數位音樂下載.md" title="wikilink">数字下载</a>、<a href="../Page/流媒体.md" title="wikilink">流媒体</a></li>
 </ul></td>
@@ -82,17 +90,17 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/告示牌百强单曲榜.md" title="wikilink">US</a><br />
-[14]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/:en:Hot_R&amp;B/Hip-Hop_Songs" title="wikilink">US</a> <a href="https://zh.wikipedia.org/wiki/:en:Hot_R&amp;B/Hip-Hop_Songs" title="wikilink">R&amp;B</a><a href="https://zh.wikipedia.org/wiki/:en:Hot_R&amp;B/Hip-Hop_Songs" title="wikilink">/HH</a><br />
-[15]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/澳大利亚唱片业协会榜" title="wikilink">AUS</a><br />
-[16]</p></td>
-<td><p><a href="../Page/加拿大百强单曲榜.md" title="wikilink">CAN</a><br />
-[17]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/:en:Hitlisten" title="wikilink">DEN</a><br />
-[18]</p></td>
-<td><p><a href="../Page/愛爾蘭唱片音樂協會.md" title="wikilink">IRE</a><br />
 [19]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:en:Hot_R&amp;B/Hip-Hop_Songs" title="wikilink">US</a> <a href="https://zh.wikipedia.org/wiki/:en:Hot_R&amp;B/Hip-Hop_Songs" title="wikilink">R&amp;B</a><a href="https://zh.wikipedia.org/wiki/:en:Hot_R&amp;B/Hip-Hop_Songs" title="wikilink">/HH</a><br />
+[20]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/澳大利亚唱片业协会榜" title="wikilink">AUS</a><br />
+[21]</p></td>
+<td><p><a href="../Page/加拿大百强单曲榜.md" title="wikilink">CAN</a><br />
+[22]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:en:Hitlisten" title="wikilink">DEN</a><br />
+[23]</p></td>
+<td><p><a href="../Page/愛爾蘭唱片音樂協會.md" title="wikilink">IRE</a><br />
+[24]</p></td>
 </tr>
 <tr class="even">
 <td><p>"Old Town Road"<br />
@@ -106,8 +114,8 @@
 <tr class="odd">
 <td><p>"Panini"</p></td>
 <td><p>2019</p></td>
-<td><p>16</p></td>
-<td><p>9</p></td>
+<td><p>5</p></td>
+<td><p>2</p></td>
 <td><p>15</p></td>
 <td><p>12</p></td>
 </tr>
@@ -178,55 +186,62 @@
 <td><p><a href="../Page/2019年MTV音樂錄影帶大獎.md" title="wikilink">MTV音樂錄影帶大獎</a></p></td>
 <td><p>最佳新艺人 (Best New Artist)</p></td>
 <td><p>本人</p></td>
-<td><p>待定</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>年度最佳音乐视频 (Video of the Year)</p></td>
 <td><p>单曲"Old Town Road (Remix)"<br />
 <span style="font-size:85%;">(由<a href="../Page/比利·雷·赛勒斯.md" title="wikilink">比利·雷·赛勒斯</a>客串)</span></p></td>
-<td><p>待定</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>年度最佳歌曲 (Song of the Year)</p></td>
-<td><p>待定</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>最佳合作作品 (Best Collaboration)</p></td>
-<td><p>待定</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>最佳嘻哈音乐视频 (Best Hip-Hop Video)</p></td>
-<td><p>待定</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>最佳指导 (Best Direction)</p></td>
-<td><p>待定</p></td>
+<td><p>夏季季度歌曲 (Song of the Summer)</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>最佳剪辑 (Best Editing)</p></td>
-<td><p>待定</p></td>
+<td><p>最佳指导 (Best Direction)</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>最佳剪辑 (Best Editing)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>最佳艺术指导 (Best Art Direction)</p></td>
-<td><p>待定</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -239,38 +254,26 @@
 [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:哥倫比亞唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:哥倫比亞唱片旗下藝人 "wikilink") [Category:21世紀美國歌手](https://zh.wikipedia.org/wiki/Category:21世紀美國歌手 "wikilink") [Category:1999年出生](https://zh.wikipedia.org/wiki/Category:1999年出生 "wikilink") [Category:非裔美国男性饶舌歌手](https://zh.wikipedia.org/wiki/Category:非裔美国男性饶舌歌手 "wikilink") [Category:来自亚特兰大的饶舌歌手](https://zh.wikipedia.org/wiki/Category:来自亚特兰大的饶舌歌手 "wikilink") [Category:美國LGBT音樂家](https://zh.wikipedia.org/wiki/Category:美國LGBT音樂家 "wikilink")
 
 1.  Espinoza, Joshua (13 March 2019). ["Rapper Lil Nas X Scored a Billboard Hot 100 Hit Thanks to a TikTok Meme."](https://www.complex.com/music/2019/03/lil-nas-x-old-town-road-billboard-hot-100-hit) *Complex.com*. Retrieved 8 April, 2019.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
+20.
+21.
+22.
+23.
+24.

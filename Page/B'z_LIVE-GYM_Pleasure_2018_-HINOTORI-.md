@@ -169,25 +169,15 @@
 [Category:2019年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2019年音樂相關影像作品 "wikilink") [Category:B'z影像作品](https://zh.wikipedia.org/wiki/Category:B'z影像作品 "wikilink") [Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
 
 1.
-
 2.
-
 3.  於[2019年](../Page/2019年.md "wikilink")[1月21日重播](https://zh.wikipedia.org/wiki/1月21日 "wikilink")。
-
 4.
-
 5.
-
 6.  與「ねがい」被每日替換披露。
-
 7.  但在「TOUR DOCUMENTARY -Road to 20180921-」中收錄了一部分。此外，會在間奏的[饒舌](../Page/饒舌.md "wikilink")聲部登場保安的演出，是再現了「B'z LIVE-GYM 2002 "GREEN 〜GO★FIGHT★WIN〜"」。（未收錄於『[a BEAUTIFUL REEL.](https://zh.wikipedia.org/wiki/A_BEAUTIFUL_REEL._B'z_LIVE-GYM_2002_GREEN_〜GO★FIGHT★WIN〜 "wikilink")』）此外，亦有作中未收錄的[黑色美乃滋的](https://zh.wikipedia.org/wiki/黑色美乃滋 "wikilink")[小杉龍一及](https://zh.wikipedia.org/wiki/小杉龍一 "wikilink")[木村拓哉](../Page/木村拓哉.md "wikilink")作為嘉賓出演的公演。
-
 8.
-
 9.
 10.
-
 11.
-
 12.
 13.

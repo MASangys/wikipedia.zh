@@ -6,7 +6,7 @@ bbb 代表 “Before Babel Brigade”，它表示Babel Tower建造之前的世�
 
 2002年, bbb korea 首次支援[FIFA世界杯和](https://zh.wikipedia.org/wiki/FIFA世界杯 "wikilink")2002年[亚运会](https://zh.wikipedia.org/wiki/亚运会 "wikilink")。bbb korea 旨在帮助访韩的游客提供免费翻译服务。这项服务是通过电话来完成的。当有人打电话准备选择语言时, bbb korea自动将发言者连接到翻译者。
 
-2003年，bbb korea成立为[非营利组织](https://zh.wikipedia.org/wiki/非营利组织 "wikilink")。它不断支持在韩国举办的国际活动，如2018年[平昌冬季奥运会](https://zh.wikipedia.org/wiki/2018年冬季奥林匹克运动会 "wikilink")。\[3\] \[4\] 目前,共有20种语言的4,500名志愿者参与。
+2003年，bbb korea成立为[非营利组织](https://zh.wikipedia.org/wiki/非营利组织 "wikilink")。它不断支持在韩国举办的国际活动，如2018年[平昌冬季奥运会](../Page/2018年冬季奥林匹克运动会.md "wikilink")。\[3\] \[4\] 目前,共有20种语言的4,500名志愿者参与。
 
 ## 节目单
 

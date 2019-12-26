@@ -258,9 +258,24 @@
 
 ## 發行歷史
 
-| 發行地區 | 發行日期       | 發行方式                                 | 廠牌                                                                                                                         |
-| ---- | ---------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-| 韓國   | 2019年6月26日 | [數位下載](../Page/數位音樂下載.md "wikilink") | [Cube Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")、[Kakao M](../Page/Kakao_M.md "wikilink") |
+<table>
+<thead>
+<tr class="header">
+<th><p>發行地區</p></th>
+<th><p>發行日期</p></th>
+<th><p>發行方式</p></th>
+<th><p>廠牌</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>2019年6月26日</p></td>
+<td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
+<td><p><a href="../Page/Cube娛樂.md" title="wikilink">Cube娛樂</a>、<a href="../Page/Kakao_M.md" title="wikilink">Kakao M</a></p></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考文獻
 

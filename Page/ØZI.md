@@ -1,4 +1,4 @@
-**ØZI**（），本名**陳奕凡**，是一名台灣創作歌手，出生於[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，母親為知名歌手[葉璦菱](../Page/葉璦菱.md "wikilink")，自4歲就開始學習古典鋼琴、小提琴、吉他等樂器，14歲開始創作英文詞曲\[1\]，現為 新樂園音樂有限公司 Forbidden Paradise 旗下藝人。
+**ØZI**（），本名**陳奕凡**，是一名台灣創作歌手，出生於[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，父親為知名攝影師陳文彬，母親則是全方位藝人[葉璦菱](../Page/葉璦菱.md "wikilink")，主持人[利菁](../Page/利菁.md "wikilink")是他的阿姨。ØZI自4歲就開始學習古典鋼琴、小提琴、吉他等樂器，14歲開始創作英文詞曲\[1\]，現為 新樂園音樂有限公司 Forbidden Paradise 旗下藝人。
 
 ## 簡介
 
@@ -114,7 +114,7 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <td><p>No Joke</p></td>
 <td><p><a href="../Page/羅志祥.md" title="wikilink">羅志祥</a>｜<a href="https://zh.wikipedia.org/wiki/Tipsy_Kao" title="wikilink">Tipsy Kao</a></p></td>
 <td><p><a href="../Page/羅志祥.md" title="wikilink">羅志祥</a>｜<a href="../Page/陳星翰.md" title="wikilink">陳星翰</a>｜<a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
-<td><p><a href="../Page/陳星翰.md" title="wikilink">陳星翰</a>|<a href="https://zh.wikipedia.org/wiki/馬仕釗" title="wikilink">馬仕釗</a></p></td>
+<td><p><a href="../Page/陳星翰.md" title="wikilink">陳星翰</a>｜<a href="https://zh.wikipedia.org/wiki/馬仕釗" title="wikilink">馬仕釗</a></p></td>
 <td><p>陳星翰</p></td>
 <td><p>收錄於 <a href="../Page/羅志祥.md" title="wikilink">羅志祥</a> 的第十二張個人專輯 <a href="../Page/No_Idea.md" title="wikilink">No Idea</a> 之中</p></td>
 </tr>
@@ -123,9 +123,36 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <td><p>House party 好事派對</p></td>
 <td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
 <td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
-<td><p><a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a>,<a href="../Page/米奇林.md" title="wikilink">米奇林</a></p></td>
+<td><p><a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a>｜<a href="../Page/米奇林.md" title="wikilink">米奇林</a></p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>2019年9月</p></td>
+<td><p>血脈</p></td>
+<td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
+<td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
+<td></td>
+<td></td>
+<td><p>MMORPG手遊《龍族幻想》主題曲</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月</p></td>
+<td><p>伸縮自在的愛</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張伍" title="wikilink">張伍</a>｜<a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
+<td><p><a href="../Page/馬念先.md" title="wikilink">馬念先</a>｜<a href="../Page/米奇林.md" title="wikilink">米奇林</a>｜<a href="../Page/ØZI.md" title="wikilink">ØZI</a>｜<a href="../Page/孫尤安.md" title="wikilink">孫尤安</a></p></td>
+<td><p><a href="../Page/米奇林.md" title="wikilink">米奇林</a></p></td>
+<td><p><a href="../Page/米奇林.md" title="wikilink">米奇林</a></p></td>
+<td><p>收錄於 <a href="../Page/孫尤安.md" title="wikilink">孫尤安</a> 的首張個人專輯 INK 之中</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月</p></td>
+<td><p>Love is Love</p></td>
+<td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
+<td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
+<td></td>
+<td></td>
+<td><p>收錄於 <a href="../Page/楊丞琳.md" title="wikilink">楊丞琳</a> 的第十一張個人專輯 <a href="https://zh.wikipedia.org/wiki/刪·拾_以後" title="wikilink">刪·拾 以後</a> 之中</p></td>
 </tr>
 </tbody>
 </table>
@@ -194,6 +221,13 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2019</p></td>
+<td><p><a href="../Page/孫尤安.md" title="wikilink">孫尤安</a> | ØZI</p></td>
+<td><p>伸縮自在的愛</p></td>
+<td><p>《INK》</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -298,7 +332,7 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/第30屆金曲獎" title="wikilink">第30屆金曲獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第30屆金曲獎" title="wikilink">第30屆金曲獎</a> [15]</p></td>
 <td><p><a href="../Page/年度專輯獎_(金曲獎).md" title="wikilink">年度專輯獎</a></p></td>
 <td></td>
 <td></td>
@@ -327,7 +361,7 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/最佳編曲人獎_(金曲獎)" title="wikilink">最佳編曲人獎</a></p></td>
-<td><p>〈 B.O.〉</p></td>
+<td><p>〈B.O.〉</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -339,6 +373,27 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/第10屆金音創作獎" title="wikilink">第10屆金音創作獎</a></p></td>
+<td><p>最佳節奏藍調專輯</p></td>
+<td><p><strong>《ØZI: The Album》</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最佳新人獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>最佳節奏藍調單曲</p></td>
+<td><p>〈B.O.〉</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -346,7 +401,7 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 
 | 日期         | 名稱                                          | 地點                                                  |
 | :--------- | :------------------------------------------ | :-------------------------------------------------- |
-| 2019年1月23日 | 《LOST IN PARADISE 天堂中迷航》首場演唱會 \[15\] \[16\] | 華山Legacy                                            |
+| 2019年1月23日 | 《LOST IN PARADISE 天堂中迷航》首場演唱會 \[16\] \[17\] | 華山Legacy                                            |
 | 2019年5月19日 | 《LOST IN PARADISE 天堂中迷航》洛杉磯站                | [USA](https://zh.wikipedia.org/wiki/USA "wikilink") |
 
 ## 參考資料
@@ -375,3 +430,4 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 14.
 15.
 16.
+17.

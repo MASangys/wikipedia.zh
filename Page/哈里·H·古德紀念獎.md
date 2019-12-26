@@ -59,7 +59,7 @@
 ## 外部連結
 
   - [Harry H. Goode Memorial Award - IEEE Computer Society.](http://www.computer.org/web/awards/goode) 哈里·H·古德紀念獎獲獎者列表。
-  - [IEEE Computer Society Award List.](http://awards.computer.org/ana/award/viewAwards.action) IEEE各種獎項簡介。
+  - [IEEE Computer Society Award List.](https://web.archive.org/web/20111002114231/http://awards.computer.org/ana/award/viewAwards.action) IEEE各種獎項簡介。
 
 [Category:IEEE獎章](https://zh.wikipedia.org/wiki/Category:IEEE獎章 "wikilink")
 

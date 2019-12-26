@@ -25,13 +25,13 @@
 
   - [SIG P230手槍](../Page/SIG_P230手槍.md "wikilink")
 
-  - [SIG P238手槍](../Page/SIG_P238手槍.md "wikilink")
+  - [SIG P238半自動手槍](../Page/SIG_P238半自動手槍.md "wikilink")
 
-  - [SIG P938手槍](../Page/SIG_P938手槍.md "wikilink")
+  - [SIG P938半自動手槍](../Page/SIG_P938半自動手槍.md "wikilink")
 
   -
   -
-  - [瓦爾特PK380手槍](../Page/瓦爾特PK380手槍.md "wikilink")
+  - [瓦爾特PK380半自動手槍](https://zh.wikipedia.org/wiki/瓦爾特PK380半自動手槍 "wikilink")
 
   - [柯爾特野馬半自動手槍](../Page/柯爾特野馬半自動手槍.md "wikilink")
 
@@ -55,7 +55,7 @@
 
   - —[Personal Defense World.com—Gun Review: Colt Mustang XSP – A Lightweight Defender](https://www.personaldefenseworld.com/2014/10/gun-review-colt-mustang-xsp-lightweight-defender/)
 
-[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:美國半自動手槍](https://zh.wikipedia.org/wiki/Category:美國半自動手槍 "wikilink") [Category:.380_ACP口徑槍械](https://zh.wikipedia.org/wiki/Category:.380_ACP口徑槍械 "wikilink") [Category:M1911衍生型](https://zh.wikipedia.org/wiki/Category:M1911衍生型 "wikilink")
+[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:美國半自動手槍](https://zh.wikipedia.org/wiki/Category:美國半自動手槍 "wikilink") [Category:柯爾特半自動手槍](https://zh.wikipedia.org/wiki/Category:柯爾特半自動手槍 "wikilink") [Category:.380_ACP口徑槍械](https://zh.wikipedia.org/wiki/Category:.380_ACP口徑槍械 "wikilink") [Category:M1911衍生型](https://zh.wikipedia.org/wiki/Category:M1911衍生型 "wikilink")
 
 1.  [Gunblast.com—The Return of the Colt Mustang PocketLite 380 Semi-Auto Pocket Pistol](http://www.gunblast.com/Colt-MustangPocketLite.htm)
 2.  [Catalog](http://www.colt.com/Catalog/Pistols/380Mustang%C2%AE.aspx)

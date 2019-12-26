@@ -131,36 +131,20 @@
 [Category:2018年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2018年巡迴演唱會 "wikilink") [Category:BLACKPINK演唱會](https://zh.wikipedia.org/wiki/Category:BLACKPINK演唱會 "wikilink") [Category:日本演唱會](https://zh.wikipedia.org/wiki/Category:日本演唱會 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.
-
 17.
-
 18.

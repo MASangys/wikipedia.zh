@@ -11,11 +11,11 @@
 <td><p><strong>角色</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李娜恩.md" title="wikilink">李娜恩</a> （<a href="https://zh.wikipedia.org/wiki/APRIL" title="wikilink">APRIL</a>）</p></td>
+<td><p><a href="../Page/李娜恩.md" title="wikilink">李娜恩</a> （<a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a>）</p></td>
 <td><p>金荷娜 (金昭妍)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/崔普閔" title="wikilink">崔普閔</a>（<a href="../Page/Golden_Child.md" title="wikilink">Golden Child</a>）</p></td>
+<td><p><a href="../Page/崔普閔.md" title="wikilink">崔普閔</a>（<a href="../Page/Golden_Child.md" title="wikilink">Golden Child</a>）</p></td>
 <td><p>柳周河</p></td>
 </tr>
 <tr class="even">
@@ -65,6 +65,48 @@
 <!-- end list -->
 
   - Part.3（發行日期：2019年6月20日）
+
+## 提名&獲獎列表
+
+<table style="width:125%;">
+<colgroup>
+<col style="width: 48%" />
+<col style="width: 19%" />
+<col style="width: 12%" />
+<col style="width: 8%" />
+<col style="width: 35%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p>年度</p></td>
+<td><p>頒獎典禮</p></td>
+<td><p>獎項</p></td>
+<td><p>入圍者</p></td>
+<td><p>結果</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/VLIVE_AWARDS_V_HEARTBEAT" title="wikilink">第一屆 VLIVE AWARDS V HEARTBEAT</a></p></td>
+<td><p>最受歡迎網劇系列</p></td>
+<td><p>《A-TEEN 2》</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最受歡迎網劇系列演員獎</p></td>
+<td><p><a href="../Page/李娜恩.md" title="wikilink">李娜恩</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/崔普閔.md" title="wikilink">崔普閔</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考資料
 

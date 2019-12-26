@@ -2,7 +2,7 @@
 
 ## 計劃內容
 
-此計劃最初為持有者提供無限次乘坐美國航空航班的[頭等艙](https://zh.wikipedia.org/wiki/頭等艙 "wikilink")，終生有效期售價為25萬[美元](../Page/美元.md "wikilink")，額外15萬美元則可購買副票\[3\]。據報導，美國航空共賣出66張終生有效票，包括商人[迈克尔·戴尔](../Page/迈克尔·戴尔.md "wikilink")、籃球員[威利·梅斯](../Page/威利·梅斯.md "wikilink")、[美洲杯帆船赛](../Page/美洲杯帆船赛.md "wikilink")得主[丹尼斯·康納](https://zh.wikipedia.org/wiki/丹尼斯·康納 "wikilink")\[4\]\[5\]。計劃推出時的美國航空正陷入财务危機，極需要一筆資金解救燃眉之急\[6\]。
+此計劃最初為持有者提供無限次乘坐美國航空航班的[頭等艙](https://zh.wikipedia.org/wiki/頭等艙 "wikilink")，終生有效期售價為25萬[美元](../Page/美元.md "wikilink")，額外15萬美元則可購買副票\[3\]。據報導，美國航空共賣出66張終生有效票，包括商人[迈克尔·戴尔](../Page/迈克尔·戴尔.md "wikilink")、籃球員[威利·梅斯](../Page/威利·梅斯.md "wikilink")、[美洲杯帆船赛](../Page/美洲杯帆船赛.md "wikilink")得主[丹尼斯·康納和芝加哥銀行家史帝夫羅斯坦](https://zh.wikipedia.org/wiki/丹尼斯·康納 "wikilink")（Steve Rothstein） \[4\]\[5\]。計劃推出時的美國航空正陷入财务危機，極需要一筆資金解救燃眉之急\[6\]。
 
 到1990年，終生票的售價已提升至60萬美元，至1993年提高至101萬美元\[7\]\[8\]。終生票于1994年停售，唯一一外例外是2004年在[尼曼百貨聖誕特賣以](../Page/尼曼_\(百貨公司\).md "wikilink")300萬美元單人票及200萬美元副票出售，但沒有賣出\[9\]。
 
@@ -21,32 +21,21 @@
 [Category:美國航空_(公司)](https://zh.wikipedia.org/wiki/Category:美國航空_\(公司\) "wikilink") [Category:1981年面世](https://zh.wikipedia.org/wiki/Category:1981年面世 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
 8.
-
 9.
 10.
-
 11.
-
 12.
 13.
 14.
-
 15.
 16.
-
 17.
 18.
-
 19.

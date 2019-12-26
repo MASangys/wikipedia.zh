@@ -65,7 +65,7 @@ VMware于2014年10月14日宣布了vCloud Air按需虚拟私有云的抢先体�
 3.
 4.  [2010 San Francisco VMware Conference Content Catalog](https://vmworld2010.wingateweb.com/scheduler/newCatalog.do)
 5.  [VMware announces the vCloud Hybrid Service](http://www.virtualizationpractice.com/vmware-announces-the-vcloud-hybrid-service-21737/)
-6.  [VMware Launches vCloud Hybrid Service, Data Centers](http://www.tomsitpro.com/articles/vmware-vchs-vcloud-hybrid-cloud-vmworld-2013,1-1210.html)
+6.
 7.  [VMware intros the vCloud Air Network, rebrands vCloud Hybrid Service](http://www.zdnet.com/vmware-intros-the-vcloud-air-network-rebrands-vcloud-hybrid-service-7000032838/)
 8.  [VMware intros vCloud Hybrid Service to bridge cloud with datacenters](http://www.zdnet.com/vmware-intros-vcloud-hybrid-service-to-bridge-cloud-with-datacenters-7000015675/)
 9.  [Virtual Private Cloud OnDemand](http://vcloud.vmware.com/service-offering/core-compute-services/ondemand)

@@ -31,7 +31,7 @@ ATFX提供外匯交易平台(MT4)讓有興趣交易外匯、加密貨幣、貴�
 4.  [""ATFX upgrades to ‘IFPRU €730K’ FCA licenseATFX accelerates Asia growth with new Malaysia office""](https://www.leaprate.com/forex/brokers/atfx-upgrades-ifpru-e730k-fca-license/) *leaprate.com*, 3 August 2018.
 5.  [""ATFX launches Korean language websiteATFX Forex market update"](https://www.leaprate.com/forex/brokers/atfx-launches-korean-language-website/) *leaprate.com*, 3 September 2018.
 6.  ["ATFX gets makes its mark at the IT Forum in Rimini"](https://www.fxdailyinfo.com/view-forex-analysis/atfx-gets-makes-its-mark-at-the-it-forum-in-rimini.html) *fxdailyinfo.com*, 26 June 2019.
-7.  ["ATFX participated in one of the biggest Forex events in Madrid"](https://www.forexpeacearmy.com/community/threads/atfx-participated-in-one-of-the-biggest-forex-events-in-madrid.60734/) *forexpeacearmy.com*,.
+7.  ["ATFX participated in one of the biggest Forex events in Madrid"](https://www.forexpeacearmy.com/community/threads/atfx-participated-in-one-of-the-biggest-forex-events-in-madrid.60734/)  *forexpeacearmy.com*,.
 8.  ["ATFX AT LONDON AFFILIATE CONFERENCE"](https://www.forex-awards.com/forex-news/?id=24846) *forex-awards.com*, 18 February 2019.
 9.  ["ATFX Launches CFDs on Major Cryptocurrencies"](https://www.financemagnates.com/cryptocurrency/news/atfx-promotes-mohamed-halim-to-senior-vp-of-mena-region/) *financemagnates.com*,.
 10. ["ATFX تشارك كأحد الرعاة الرئيسيين لمؤتمر"](http://www.arabicbroker.com/forum/showthread.php?p=598956#post598956) *arabicbroker.com*,21 February 2019..

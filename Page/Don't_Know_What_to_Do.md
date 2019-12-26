@@ -6,7 +6,7 @@
 
 ## 音樂影片
 
-自首張韓語迷你專輯《[Square Up](https://zh.wikipedia.org/wiki/Square_Up_\(迷你專輯\) "wikilink")》起，YG娛樂便未再替專輯中的第二首主打歌曲另外拍攝[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")，這次的回歸亦然，僅為《Don't Know What to Do》拍攝了舞蹈練習影片。影片於2019年4月16日在BLACKPINK的[YouTube](../Page/YouTube.md "wikilink")官方頻道上發佈\[4\]。截至2019年5月，該影片在YouTube上擁有超過5000萬的觀看次數。
+自首張韓語迷你專輯《[Square Up](https://zh.wikipedia.org/wiki/Square_Up_\(迷你專輯\) "wikilink")》起，YG娛樂便未再替專輯中的第二首主打歌曲另外拍攝[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")，這次的回歸亦然，僅為《Don't Know What to Do》拍攝了舞蹈練習影片。影片於2019年4月16日在BLACKPINK的[YouTube](../Page/YouTube.md "wikilink")官方頻道上發佈\[4\]。截至2019年5月，該影片在YouTube上擁有超過一億次的觀看次數。
 
 ## 現場表演
 
@@ -62,44 +62,25 @@
 [Category:BLACKPINK歌曲](https://zh.wikipedia.org/wiki/Category:BLACKPINK歌曲 "wikilink") [Category:韓國歌曲](https://zh.wikipedia.org/wiki/Category:韓國歌曲 "wikilink") [Category:2019年歌曲](https://zh.wikipedia.org/wiki/Category:2019年歌曲 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.

@@ -16,4 +16,4 @@
   -
   -
   -
-[Category:美國外交官](https://zh.wikipedia.org/wiki/Category:美國外交官 "wikilink") [Category:美國歷史學家](https://zh.wikipedia.org/wiki/Category:美國歷史學家 "wikilink") [Category:哈佛大學校友](https://zh.wikipedia.org/wiki/Category:哈佛大學校友 "wikilink") [Category:普林斯頓大學教師](https://zh.wikipedia.org/wiki/Category:普林斯頓大學教師 "wikilink") [Category:研究共产主义的历史学家](https://zh.wikipedia.org/wiki/Category:研究共产主义的历史学家 "wikilink")
+[Category:美國外交官](https://zh.wikipedia.org/wiki/Category:美國外交官 "wikilink") [Category:美國歷史學家](https://zh.wikipedia.org/wiki/Category:美國歷史學家 "wikilink") [Category:哈佛大學校友](https://zh.wikipedia.org/wiki/Category:哈佛大學校友 "wikilink") [Category:普林斯頓大學教師](https://zh.wikipedia.org/wiki/Category:普林斯頓大學教師 "wikilink") [Category:研究共产主义的历史学家](https://zh.wikipedia.org/wiki/Category:研究共产主义的历史学家 "wikilink") [Category:俄罗斯研究学者](https://zh.wikipedia.org/wiki/Category:俄罗斯研究学者 "wikilink")

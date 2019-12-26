@@ -25,7 +25,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>大阪東線</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新大阪站" title="wikilink">新大阪方向</a></p></td>
+<td><p><a href="../Page/新大阪站.md" title="wikilink">新大阪方向</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>

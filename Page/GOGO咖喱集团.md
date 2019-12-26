@@ -109,13 +109,9 @@ Go\!Go\!咖哩在官方網站中曾寫有對Turban咖哩表示感謝的「一直
 [Category:2003年成立的公司](https://zh.wikipedia.org/wiki/Category:2003年成立的公司 "wikilink") [Category:日本餐飲公司](https://zh.wikipedia.org/wiki/Category:日本餐飲公司 "wikilink") [Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink") [Category:日本連鎖餐廳](https://zh.wikipedia.org/wiki/Category:日本連鎖餐廳 "wikilink") [Category:日式咖喱](https://zh.wikipedia.org/wiki/Category:日式咖喱 "wikilink") [Category:大手町_(千代田區)](https://zh.wikipedia.org/wiki/Category:大手町_\(千代田區\) "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
-
 7.

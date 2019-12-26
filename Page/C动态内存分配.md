@@ -36,9 +36,6 @@ ptr = (int *)malloc(10 * sizeof(int));  /* 进行强制类型转换 */
 [Category:記憶體管理](https://zh.wikipedia.org/wiki/Category:記憶體管理 "wikilink") [Category:C標準函式庫](https://zh.wikipedia.org/wiki/Category:C標準函式庫 "wikilink") [Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

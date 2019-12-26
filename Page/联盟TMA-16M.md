@@ -21,8 +21,6 @@
 [Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink") [Category:2015年航天](https://zh.wikipedia.org/wiki/Category:2015年航天 "wikilink")
 
 1.
-
 2.
 3.
-
 4.

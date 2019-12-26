@@ -35,12 +35,8 @@ Ag<sub>2</sub>Na属于[立方晶系](../Page/立方晶系.md "wikilink")，空�
 [Category:银化合物](https://zh.wikipedia.org/wiki/Category:银化合物 "wikilink") [Category:钠化合物](https://zh.wikipedia.org/wiki/Category:钠化合物 "wikilink") [Category:金属间化合物](https://zh.wikipedia.org/wiki/Category:金属间化合物 "wikilink")
 
 1.  Feschotte, P.; Spitz, E. L. Domain of existence and stability of the Laves phase silver-​sodium (Ag<sub>2</sub>Na). *Journal of the Less-Common Metals*, 1988. 138 (1): 155-160. ISSN: 0022-5088.
-
 2.
-
 3.
 4.
-
 5.
-
 6.

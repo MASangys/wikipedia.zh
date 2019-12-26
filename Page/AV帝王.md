@@ -214,36 +214,25 @@
 ## 外部連結
 
   -
-[Category:2019年亮相的日本網絡劇](https://zh.wikipedia.org/wiki/Category:2019年亮相的日本網絡劇 "wikilink") [Category:Netflix原創節目](https://zh.wikipedia.org/wiki/Category:Netflix原創節目 "wikilink") [Category:色情題材作品](https://zh.wikipedia.org/wiki/Category:色情題材作品 "wikilink") [Category:自傳改編電視劇](https://zh.wikipedia.org/wiki/Category:自傳改編電視劇 "wikilink") [Category:昭和時代背景作品](https://zh.wikipedia.org/wiki/Category:昭和時代背景作品 "wikilink") [Category:北海道背景作品](https://zh.wikipedia.org/wiki/Category:北海道背景作品 "wikilink")
+[Category:2019年亮相的日本網絡劇](https://zh.wikipedia.org/wiki/Category:2019年亮相的日本網絡劇 "wikilink") [Category:Netflix原創節目](https://zh.wikipedia.org/wiki/Category:Netflix原創節目 "wikilink") [Category:色情片題材作品](https://zh.wikipedia.org/wiki/Category:色情片題材作品 "wikilink") [Category:自傳改編電視劇](https://zh.wikipedia.org/wiki/Category:自傳改編電視劇 "wikilink") [Category:昭和時代背景作品](https://zh.wikipedia.org/wiki/Category:昭和時代背景作品 "wikilink") [Category:北海道背景作品](https://zh.wikipedia.org/wiki/Category:北海道背景作品 "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
 6.
-
 7.
-
 8.
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
 19.
-
 20.

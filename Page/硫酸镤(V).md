@@ -13,9 +13,6 @@ H<sub>3</sub>PaO(SO<sub>4</sub>)<sub>3</sub>可由含五价镤的硫酸-氢氟�
 [Category:镤化合物](https://zh.wikipedia.org/wiki/Category:镤化合物 "wikilink") [Category:硫酸盐](https://zh.wikipedia.org/wiki/Category:硫酸盐 "wikilink")
 
 1.  无机化学丛书 第十卷 锕系 锕系后元素. 北京：科学出版社. pp 137 6.4.4 镤的重要盐类
-
 2.  Lester R. Morss, Norman M. Edelstein, Jean Fuger. The Chemistry of the Actinide and Transactinide Elements (Fourth Edition). Springer. ISBN 978-94-007-0210-3
-
 3.
-
 4.

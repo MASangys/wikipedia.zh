@@ -1,10 +1,10 @@
-**NVIDIA GeForce RTX 20系列**，是由[NVIDIA開發的圖形處理器系列](../Page/英伟达.md "wikilink")。本系列於2018年8月20日的[Gamescom](../Page/Gamescom.md "wikilink")（科隆遊戲展）上發表，是[GeForce GTX 10系列的後續版本](../Page/NVIDIA_GeForce_10系列.md "wikilink")。\[1\]\[2\]\[3\]本系列首發產品是GeForce RTX 2080及2080Ti，2018年9月20日正式發售。\[4\]
+**NVIDIA GeForce RTX 20系列**，是由[NVIDIA開發的圖形處理器系列](../Page/英伟达.md "wikilink")。本系列於2018年8月20日的[Gamescom](../Page/Gamescom.md "wikilink")（科隆遊戲展）上發表，是[GeForce GTX 10系列的後續版本](../Page/NVIDIA_GeForce_10系列.md "wikilink")。\[1\]\[2\]\[3\]本系列首發產品是GeForce RTX 2080及2080Ti，2018年9月20日正式發售\[4\]。此系列產品新命名為RTX，而未沿用推出多年的GTX，以突顯支援光线跟踪的特色。
 
 ## 架构特性
 
-RTX 20系列基于图灵(Turing)微架构，具有实时光线跟踪功能。\[5\]通过使用RT核心（光線追踪運算核心）可以加速这一过程。这些核心能够高效处理四叉树和球形层次结构，并在碰撞模拟的过程中更快地为三角面组成的立体模型进行物体碰撞模拟。
+RTX 20系列基于[图灵微架构](https://zh.wikipedia.org/wiki/图灵微架构 "wikilink")（Turing），具有实时[光线跟踪](https://zh.wikipedia.org/wiki/光线跟踪 "wikilink")（Ray tracing）功能。\[5\]通过使用RT核心（光線追踪運算核心）可以加速这一过程。这些核心能够高效处理四叉树和球形层次结构，并在碰撞模拟的过程中更快地为三角面组成的立体模型进行物体碰撞模拟。
 
-RT核心的光线追踪功能在模拟反射，折射和阴影的操作上可以取代传统立方体贴图和深度贴图的光栅技术。从光线追踪运算得到的信息可以增强阴影使画面更加逼真，尤其是关于将发生于屏幕画面以外的动作通过阴影和光线反射渲染到画面之中。
+RT核心的光线追踪功能在模拟反射，折射和阴影的操作上可以取代传统[立方体贴图和](https://zh.wikipedia.org/wiki/立方体贴图 "wikilink")[深度贴图的光栅技术](https://zh.wikipedia.org/wiki/深度贴图 "wikilink")。从光线追踪运算得到的信息可以增强阴影使画面更加逼真，尤其是关于将发生于屏幕画面以外的动作通过阴影和光线反射渲染到画面之中。
 
 张量運算核心（Tensor Core）进一步加速了光线追踪，并用于填充部分渲染图像中的空白，这种技术被称为「降噪」。张量核心原是為深度学习而設計的，例如学习如何提高图像的分辨率。但通常消费者的张量核心主要是执行一些已经完成的深度学习模型，这些模型是在超级计算机进行分析和解决的，超级计算机确定如何实现这些目标的方法，例如学习如何提高图像的分辨率，然后由消费者的张量核心实际使用这个方法，也就是使用超级计算机找到的方法来提高图像的分辨率。
 
@@ -46,8 +46,8 @@ RTX是GeForce 20系列引入的开发平台。RTX的光线追踪示范程序中�
 <th><p>推出年份</p></th>
 <th><p>核心代号(s)</p></th>
 <th><p>制程 (<a href="../Page/纳米.md" title="wikilink">纳米</a>)</p></th>
-<th><p>晶体管数量 (十亿)</p></th>
-<th><p>晶粒面积 (mm<sup>2</sup>)</p></th>
+<th><p>核心面积mm<sup>2</sup></p></th>
+<th><p><strong>流处理器</strong></p></th>
 <th><p>总线 接口</p></th>
 <th><p>核心配置</p></th>
 <th><p>二级缓存(<a href="../Page/Mebibyte.md" title="wikilink">MB</a>)</p></th>
@@ -344,7 +344,7 @@ RTX是GeForce 20系列引入的开发平台。RTX的光线追踪示范程序中�
   - [Nvidia Nsight](http://developer.nvidia.com/nvidia-nsight-visual-studio-edition)
 
   -
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink") [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
+[Category:GeForce系列](https://zh.wikipedia.org/wiki/Category:GeForce系列 "wikilink") [Category:2018年面世的產品](https://zh.wikipedia.org/wiki/Category:2018年面世的產品 "wikilink")
 
 1.
 2.

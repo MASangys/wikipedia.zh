@@ -83,6 +83,8 @@
   -
     [RX-0 独角兽高达的驾驶员](https://zh.wikipedia.org/wiki/RX-0_独角兽高达 "wikilink")，在RX-0系列被封印后成为米妮瓦·拉歐·薩比的护卫。
     故事中后期驾驶ARX-014S 银弹·镇压者协助乔纳，使用光束麥格農步槍毀掉II新吉翁克的一隻手臂，在最后乔纳被独角兽高达3号机弹出后将其回收並送還聯邦軍部隊。
+  -
+    為本作故事9年前的角色，與提坦斯敵對的奧干的領導者。劇中在地球聯邦的議會達卡進行演說。
 
 ## 登场兵器
 
@@ -249,39 +251,23 @@ NARRATIVE -{GUNDAM}-</p></th>
 [Category:2018年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2018年日本劇場動畫 "wikilink") [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:日本原創動畫電影](https://zh.wikipedia.org/wiki/Category:日本原創動畫電影 "wikilink") [Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21. [機動戦士ガンダムNT：公開24日で興収5億円突破](https://mantan-web.jp/article/20181225dog00m200040000c.html)

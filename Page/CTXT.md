@@ -30,23 +30,14 @@ CTXT副主任为Vanesa Jiménez（《信息报》前主任，ElPais.com前副主
 [Category:2015年建立的网站](https://zh.wikipedia.org/wiki/Category:2015年建立的网站 "wikilink") [Category:西班牙媒體](https://zh.wikipedia.org/wiki/Category:西班牙媒體 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.

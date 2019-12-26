@@ -38,17 +38,17 @@
 <tr class="odd">
 <td><p><a href="../Page/李成宰.md" title="wikilink">李成宰</a></p></td>
 <td><p>吳英鐵</p></td>
-<td><p>天才外科醫生，也是連續殺人魔。</p></td>
+<td><p>天才外科醫生，也是連續殺人魔。被朴基滿殺害後，路過的車敏以Abyss救活。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李施彥.md" title="wikilink">李施彥</a></p></td>
 <td><p>朴東哲</p></td>
-<td><p>重案組刑警，李美島前男友，高世妍的助手。</p></td>
+<td><p>重案組刑警，李美島交往十年的前男友，高世妍的助手。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/韓素希.md" title="wikilink">韓素希</a></p></td>
 <td><p>張熙貞/吳秀珍</p></td>
-<td><p>車敏的未婚妻，擁有閃閃發光外貌，在婚禮當天神秘消失。吳英鐵的繼女。</p></td>
+<td><p>車敏的未婚妻，擁有閃閃發光外貌，在婚禮當天神秘消失。吳英鐵的繼女。吳英鐵在利用完她後，特意製造假車禍打算殺死她，被車敏使用Abyss拯救回來。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -100,7 +100,7 @@
 <tr class="odd">
 <td></td>
 <td><p>金美子</p></td>
-<td><p>療養院護士&amp;假女警</p></td>
+<td><p>療養院護士、假女警</p></td>
 </tr>
 <tr class="even">
 <td></td>

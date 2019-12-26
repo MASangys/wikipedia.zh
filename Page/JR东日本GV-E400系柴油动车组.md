@@ -55,9 +55,7 @@ JR东日本于2017年7月4日公布了新列车的细节。\[7\]这一系列总�
 [Category:川崎製鐵路車輛](https://zh.wikipedia.org/wiki/Category:川崎製鐵路車輛 "wikilink") [Category:東日本旅客鐵道](https://zh.wikipedia.org/wiki/Category:東日本旅客鐵道 "wikilink") [Category:日本柴油動車組](https://zh.wikipedia.org/wiki/Category:日本柴油動車組 "wikilink") [Category:含有日語的條目](https://zh.wikipedia.org/wiki/Category:含有日語的條目 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.

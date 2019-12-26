@@ -1,4 +1,4 @@
-**BVNDIT**（；**Be Ambitious N Do It**的缩写，直译「向着梦想勇敢前进」），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MNH娱乐](https://zh.wikipedia.org/wiki/MNH娱乐 "wikilink")2019年推出的五人女子组合，这也是MNH娱乐打造的首支女团\[1\]。
+**BVNDIT**（；**Be Ambitious N Do It**的缩写，直译「向着梦想勇敢前进」），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MNH娱乐](https://zh.wikipedia.org/wiki/MNH娱乐 "wikilink")2019年推出的五人女子组合，这也是MNH娱乐推出的首組女团\[1\]。
 
 ## 團體資料
 
@@ -33,17 +33,50 @@
 
 ### 2019年：出道準備、正式出道
 
-2019年3月11日至13日期间陆续公开了5名成员个人预告照。 4月10日，推出首张數位單曲《BVNDIT,BE AMBITIOUS\!》，并发表主打歌曲〈Hocus Pocus〉正式出道。4月11日，通过《M\! Countdown》带来首个正式出道舞台。 5月15日，单曲〈Dramatic〉回归，舞蹈室版本。
+3月11日至13日，陆续公开了5名成员个人预告照。
+
+4月10日，推出首张數位單曲《BVNDIT,BE AMBITIOUS\!》，并发表主打歌曲〈Hocus Pocus〉正式出道。
+
+4月11日，通过《M\! Countdown》带来首个正式出道舞台。
+
+5月15日，单曲〈Dramatic〉回归，舞蹈室版本。
+
+11月5日，推出首張迷你專輯《BE！》回归。
 
 ## 音樂作品
 
-### 单曲
-
-  - Dramatic（2019年5月15日）
-
 ### 數碼單曲
 
-  - BVNDIT,BE AMBITIOUS\!（2019年4月10日）
+  - BVNDIT, BE AMBITIOUS\!（2019年4月10日）
+  - Dramatic（2019年5月15日）
+
+### 迷你專輯
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>專輯</strong></p></td>
+<td><p><strong>專輯資料</strong></p></td>
+<td><p><strong>曲目</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>1st</strong></p></td>
+<td><p>《<strong></strong>》</p>
+<ul>
+<li>發行日期：2019年11月5日</li>
+<li>語言：韓語</li>
+<li>唱片類型：Dance Pop</li>
+<li>銷量：</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 影音作品
 
@@ -66,6 +99,7 @@
 | ----- | ---------- | ------------------------ | --------------------- | -------------------- | ----------------- |
 | 2019年 | 4月10日      | 《BVNDIT, BE AMBITIOUS\!》 | Hocus Pocus\[2\]\[3\] | Hocus Pocus\[4\]     |                   |
 | 5月15日 | 《Dramatic》 | \- |                     | Dramatic\[5\]         | Dramatic\[6\]\[7\]   |                   |
+| 11月5日 | 《BE\!》     | Dumb\[8\]                |                       |                      |                   |
 
 ### 音樂現場
 
@@ -148,6 +182,9 @@
 <td><p>Dramatic</p></td>
 </tr>
 <tr class="odd">
+<td><p>BE!</p></td>
+</tr>
+<tr class="even">
 <td><ul>
 <li>「/」表示未有相關資料</li>
 <li>「 (1) 」：兩星期冠軍</li>
@@ -188,3 +225,4 @@
 5.
 6.
 7.
+8.

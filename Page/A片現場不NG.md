@@ -17,7 +17,7 @@
 ## 外部連結
 
   -
-[Category:日本喜劇片](https://zh.wikipedia.org/wiki/Category:日本喜劇片 "wikilink") [Category:色情題材作品](https://zh.wikipedia.org/wiki/Category:色情題材作品 "wikilink") [Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink")
+[Category:日本喜劇片](https://zh.wikipedia.org/wiki/Category:日本喜劇片 "wikilink") [Category:色情片題材作品](https://zh.wikipedia.org/wiki/Category:色情片題材作品 "wikilink") [Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink")
 
 1.
 2.

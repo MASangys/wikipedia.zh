@@ -42,21 +42,13 @@ NMD机制不仅针对异常转录子，也可能针对含有3'端非翻译区内
 [Category:基因表現](https://zh.wikipedia.org/wiki/Category:基因表現 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  Lewis BP, Green RE, Brenner SE. 2003. Evidence for the widespread coupling of alternative splicing and nonsense-mediated mRNA decay in humans. Proceedings of the National Academy of Sciences of the United States of America 100:189-192. <doi:10.1016/j.bbrc.2009.04.021>
-
 7.
-
 8.
 9.
-
 10.
 11.

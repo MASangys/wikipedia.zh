@@ -2,7 +2,7 @@
 
 ## 參考文獻
 
-  - [「新宿交通結節点整備、電車とバス、タクシーや車などの連携をスムーズにする総合的な「交通結節点」に生まれ変わります」](http://www.ktr.mlit.go.jp/toukoku/saisei/shinjuku/shinjuku.htm)
+  - [「新宿交通結節点整備、電車とバス、タクシーや車などの連携をスムーズにする総合的な「交通結節点」に生まれ変わります」](https://web.archive.org/web/20160129001921/http://www.ktr.mlit.go.jp/toukoku/saisei/shinjuku/shinjuku.htm)
   - [「進行中の建設プロジェクト、新宿交通結節点整備、新宿駅が総合的な「交通結節点」に生まれ変わります](http://www.jreast.co.jp/construction/station/)
 
 ## 外部連結

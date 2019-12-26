@@ -71,7 +71,7 @@
 <strong>（）</strong></p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/井上祐貴" title="wikilink">井上祐貴</a></p></td>
-<td><p><strong>超人力霸王大河</strong>、<strong>超人力霸王泰塔斯</strong>、<strong>超人力霸王風魔</strong>的人間體，22歲，民間警備組織Ｅ.Ｇ.Ｉ.Ｓ.的成員，也是本作的主角。</p></td>
+<td><p><strong>超人力霸王大河</strong>、<strong>超人力霸王泰塔斯</strong>、<strong>超人力霸王風真</strong>的人間體，22歲，民間警備組織Ｅ.Ｇ.Ｉ.Ｓ.的成員，也是本作的主角。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -179,7 +179,7 @@
     出生地：U40
     別名為『力之賢者』的超人力霸王，同時也是超人力霸王喬伊尼亞斯的同族。
 
-### 超人力霸王FUMA （台譯：風魔&風馬，陸譯：風馬）
+### 超人力霸王FUMA （台譯：風真&風馬，陸譯：風馬）
 
 人間體：工藤ヒロユキ（替身演員：岡部暁、聲：葉山翔太）
 
@@ -505,7 +505,7 @@
 <td><p>2019/08/10</p></td>
 <td><p>6</p></td>
 <td></td>
-<td><p>圓盤來不了</p></td>
+<td><p>圓盤未至</p></td>
 <td></td>
 <td><p>足木淳一郎</p></td>
 <td></td>
@@ -535,7 +535,7 @@
 <td><p>2019/08/31</p></td>
 <td><p>9</p></td>
 <td></td>
-<td><p>各自的現在</p></td>
+<td><p>各自的當下</p></td>
 <td></td>
 <td><p>三浦有為子</p></td>
 <td><p>武居正能</p></td>
@@ -555,7 +555,7 @@
 <td><p>2019/09/14</p></td>
 <td><p>11</p></td>
 <td></td>
-<td><p>星之魔法在下午消失了</p></td>
+<td><p>星之魔法消失的午後</p></td>
 <td></td>
 <td><p>小林弘利</p></td>
 <td><p>辻本貴則</p></td>
@@ -565,7 +565,7 @@
 <td><p>2019/09/21</p></td>
 <td><p>12</p></td>
 <td></td>
-<td><p>即使如此宇宙仍有夢想</p></td>
+<td><p>即使如此宇宙仍有夢</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -585,7 +585,7 @@
 <td><p>2019/10/05</p></td>
 <td><p>14</p></td>
 <td></td>
-<td><p>保護的力量與戰鬥的力量</p></td>
+<td><p>守護之力與戰鬥之力</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -595,7 +595,7 @@
 <td><p>2019/10/12</p></td>
 <td><p>15</p></td>
 <td></td>
-<td><p>我不能聽到你的聲音</p></td>
+<td><p>我聽不到你的聲音</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -605,7 +605,7 @@
 <td><p>2019/10/19</p></td>
 <td><p>16</p></td>
 <td></td>
-<td><p>我們是一個</p></td>
+<td><p>我們是一體</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -622,8 +622,88 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2019/11/02</p></td>
+<td><p>18</p></td>
+<td></td>
+<td><p>為了新世界</p></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019/11/09</p></td>
+<td><p>19</p></td>
+<td></td>
+<td><p>彈跳雷擊！</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019/11/16</p></td>
+<td><p>20</p></td>
+<td></td>
+<td><p>砂的城堡</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019/11/23</p></td>
+<td><p>21</p></td>
+<td></td>
+<td><p>地球的朋友</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019/11/30</p></td>
+<td><p>22</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019/12/07</p></td>
+<td><p>23</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019/12/14</p></td>
+<td><p>24</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019/12/21</p></td>
+<td><p>25</p></td>
+<td></td>
+<td><p>Buddy Steady Go！</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019/12/28</p></td>
+<td><p>26</p></td>
 <td></td>
 <td></td>
 <td></td>

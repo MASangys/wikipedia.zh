@@ -12,7 +12,7 @@ PS目前是全球最大的線上撲克平台，\[4\] 佔去全球線上撲克市
 1.
 2.
 3.  [PokerNews.com: The Moneymaker Effect: Five Years Later](http://www.pokernews.com/news/2008/05/moneymaker-effect-five-years-later.htm) May 23, 2008
-4.  [PokerScout.com: PokerStars Online Poker Traffic Report](http://www.pokerscout.com/SiteDetail.aspx?site=PokerStars&ab=1805259)
+4.
 5.
 6.
 7.

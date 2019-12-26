@@ -181,7 +181,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/西岸快車" title="wikilink">西岸快車</a></p></td>
+<td><p><a href="../Page/西岸快車.md" title="wikilink">西岸快車</a></p></td>
 <td><p>5</p></td>
 <td></td>
 <td><p>901－905</p></td>
@@ -218,29 +218,18 @@
 [Category:美國柴油機車](https://zh.wikipedia.org/wiki/Category:美國柴油機車 "wikilink") [Category:美國國鐵鐵路車輛](https://zh.wikipedia.org/wiki/Category:美國國鐵鐵路車輛 "wikilink") [Category:加拿大柴油機車](https://zh.wikipedia.org/wiki/Category:加拿大柴油機車 "wikilink") [Category:EMD制铁路机车](https://zh.wikipedia.org/wiki/Category:EMD制铁路机车 "wikilink") [Category:GMD制铁路机车](https://zh.wikipedia.org/wiki/Category:GMD制铁路机车 "wikilink") [Category:B-B轴式机车](https://zh.wikipedia.org/wiki/Category:B-B轴式机车 "wikilink") [Category:Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo軸式機車 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.

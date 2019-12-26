@@ -10,7 +10,7 @@
 
 ## 生产
 
-[Zis_5.jpg](https://zh.wikipedia.org/wiki/File:Zis_5.jpg "fig:Zis_5.jpg") [ZIS-5_in_Technical_museum_Togliatti.JPG](https://zh.wikipedia.org/wiki/File:ZIS-5_in_Technical_museum_Togliatti.JPG "fig:ZIS-5_in_Technical_museum_Togliatti.JPG")工业博物馆\]\] 1933年10月1日开始量产。与[陶里亚蒂](../Page/陶里亚蒂.md "wikilink")[GAZ-AA](../Page/GAZ-AA.md "wikilink")成为三、四十年代苏联主力卡车型号。[伟大卫国战争爆发时](https://zh.wikipedia.org/wiki/伟大卫国战争 "wikilink")，苏联红军汽车装备数量为27.3万辆，其中仅吉斯5型就达10.04万辆，占36.7%，是绝对的主力车型。
+[Zis_5.jpg](https://zh.wikipedia.org/wiki/File:Zis_5.jpg "fig:Zis_5.jpg") [ZIS-5_in_Technical_museum_Togliatti.JPG](https://zh.wikipedia.org/wiki/File:ZIS-5_in_Technical_museum_Togliatti.JPG "fig:ZIS-5_in_Technical_museum_Togliatti.JPG")工业博物馆\]\] 1933年10月1日开始量产。与[陶里亚蒂](../Page/陶里亚蒂.md "wikilink")[GAZ-AA](../Page/GAZ-AA.md "wikilink")成为三、四十年代苏联主力卡车型号。[苏德战争](../Page/苏德战争.md "wikilink")爆发时，苏联红军汽车装备数量为27.3万辆，其中仅吉斯5型就达10.04万辆，占36.7%，是绝对的主力车型。
 
 1941年秋，德军逼近莫斯科，[吉斯厂的生产线内迁到](https://zh.wikipedia.org/wiki/吉斯厂 "wikilink")[乌里扬诺夫斯克](../Page/乌里扬诺夫斯克.md "wikilink")与[车里雅宾斯克州](../Page/车里雅宾斯克州.md "wikilink")[米阿斯](https://zh.wikipedia.org/wiki/米阿斯 "wikilink")。乌里扬诺夫斯克的的[UASZIS](https://zh.wikipedia.org/wiki/UASZIS "wikilink")（瓦兹-吉斯）从1942年2月生产到1944年，米阿斯的从1942年4月开始生产发动机与变速箱。1944年6月8日，开始生产标志为UralZIS的ZIS-5V一直到1955年换代改产UralZIS-355。
 
@@ -32,7 +32,7 @@
 
 ## 利用
 
-吉斯5及其衍生车型在[伟大卫国战争中使用极为广泛](https://zh.wikipedia.org/wiki/伟大卫国战争 "wikilink")。后车厢可乘25名军人。
+吉斯5及其衍生车型在[苏德战争](../Page/苏德战争.md "wikilink")中使用极为广泛。后车厢可乘25名军人。
 
 ## 出口
 
@@ -101,6 +101,8 @@ ZIS-5是苏联第一种出口汽车。1934年出口[土耳其](../Page/土耳其
 
 ## 吉斯5在中国
 
+1933年[新疆四一二事变后](https://zh.wikipedia.org/wiki/新疆四一二事变 "wikilink")，[盛世才](../Page/盛世才.md "wikilink")出任[新疆边防督办](https://zh.wikipedia.org/wiki/新疆边防督办 "wikilink")。苏联援助新疆的ZIS-5卡车在新疆被俗称为“羊毛车”。
+
 1937年底，[延安摩托学校一队学员](https://zh.wikipedia.org/wiki/延安摩托学校 "wikilink")20多人带10辆苏联吉斯卡车分配到[中央军委](https://zh.wikipedia.org/wiki/中共中央军委 "wikilink")[总供给部筹建汽车队](https://zh.wikipedia.org/wiki/总后勤部 "wikilink")。1938年3月，陕甘宁边区汽车队成立。不久便与[八路军](../Page/八路军.md "wikilink")兵站部（[第二战区第十八兵站分监部](https://zh.wikipedia.org/wiki/第二战区 "wikilink")，内部仍称兵站部，简称总兵站）的几辆车合编为八路军兵站部汽车队。\[1\]司机共50多人，最初有汽车23辆，其中[宋庆龄](../Page/宋庆龄.md "wikilink")等送2辆，华侨[南洋缝纫公司送的大小救护车各](https://zh.wikipedia.org/wiki/南洋缝纫公司 "wikilink")1辆，苏联制造的“吉斯5”、“吉斯6”型卡车共10辆，美国制造各种型号卡车9辆。\[2\]以后，增添了宋庆龄领导的“[保卫中国大同盟](https://zh.wikipedia.org/wiki/保卫中国大同盟 "wikilink")”捐助的汽车和自购汽车，共30多辆。八路军西安采办委员会汽车队设在西安七贤庄4号院，1937年4月创办时以[东北军](../Page/东北军.md "wikilink")第六十七军的名义在瑞典“公茂洋行”购买了第一辆汽车。此后又以东北军的名义在“川陕实业公司”购进美国[道奇与日本](https://zh.wikipedia.org/wiki/道奇 "wikilink")[尼桑车各](https://zh.wikipedia.org/wiki/尼桑 "wikilink")1辆，杨虎城赠送汽车2辆；抗战爆发后，苏联援华的吉斯5型卡车给留了5辆；阎锡山送给八路军的旧车中留了3辆；又通过关系在其他渠道买到9辆；到1939年，共有汽车22辆。\[3\]
 
 1937年抗日战争爆发后，1937年8月21日，国民政府与苏联签订《[中苏互不侵犯条约](../Page/中苏互不侵犯条约.md "wikilink")》，苏联援华抗日，至1940年10月，累计拨付各类汽车2050多辆，其中牵引车602辆，汽车1516辆，主要是吉斯5型卡车。此外，为保障西北国际陆路通道援华运输任务，从1937年10月3日首批援华物资进入[霍尔果斯口岸开始](https://zh.wikipedia.org/wiki/霍尔果斯口岸 "wikilink")，苏联派遣大量人力物力出境承担运输任务。从苏联[土西铁路的](https://zh.wikipedia.org/wiki/土西铁路 "wikilink")，经[霍尔果斯](https://zh.wikipedia.org/wiki/霍尔果斯 "wikilink")、[伊犁](https://zh.wikipedia.org/wiki/伊犁 "wikilink")、[乌鲁木齐](https://zh.wikipedia.org/wiki/乌鲁木齐 "wikilink")、[哈密](https://zh.wikipedia.org/wiki/哈密 "wikilink")，[河西走廊](../Page/河西走廊.md "wikilink")到兰州，全长2925公里。1937年9月新疆当局成立“转运抗战物资因应小组”，紧急动员了50多万人，仅用了一个月的时间，就完成了西北陆路国际大通道新疆境内1530公里道路、5个航空站、10个公路运输接待站的应急建设。\[4\]陕西省主席[邵力子](../Page/邵力子.md "wikilink")斡旋将中国银行开办的中国机器打包公司设在[咸阳北塬上距市区十几里路的](https://zh.wikipedia.org/wiki/咸阳 "wikilink")20余间窑洞库房腾出，作为苏联援华军火的转运总站仓库。吉斯5卡车在当时被中国人称“羊毛车”，\[5\]因为苏联援华军火物资车队是以“从新疆运到西安的中国机器打包公司和咸阳纺织厂的羊毛原料”名义，称这类车队为“羊毛车队”。\[6\]1938年1月，苏联援赠送给中国政府500辆吉斯五型三吨半卡车，载着中国从苏联购买的1500多吨汽油，从苏联进入新疆抵达哈密后，经古驿道到兰州，这是河西走廊首次有大规模汽车通行。
@@ -151,21 +153,13 @@ ZIS-5是苏联第一种出口汽车。1934年出口[土耳其](../Page/土耳其
 [Category:ZiL车种](https://zh.wikipedia.org/wiki/Category:ZiL车种 "wikilink")
 
 1.  \[<http://www.doc88.com/p-0512892165229.html> 彭传清口述、陈启发整理：《我工作过的汽车部队（二）》，《汽车运用》 1999年08期第53页。
-
 2.  [《陕西省志·军事志》驻陕八路军后勤 第三节 交通运输 二、边区汽车队与对外运输](http://www.sanqinyou.com/lishi/info/13102710024866113_2.html)
-
 3.
 4.  [中新社记者孙亭文：《专家解密中国抗战时期西北国际大通道》，2015年09月01日](http://www.chinanews.com/sh/2015/09-01/7501772.shtml)
-
 5.
 6.  [汪晴江 汪莹：《抗战期间我与苏联援华军火的运输工作》，来源：人民政协报，2013年10月18日](http://dangshi.people.com.cn/n/2013/1018/c85037-23251855.html)
-
 7.  [《陇原史话 抗战时期的西北国际交通线》，中国甘肃网-兰州日报，2015-04-29](http://www.chinahighway.com/news/2015/926838.php)
-
 8.  [记者曹勇：《甘新公路：穿越河西走廊的抗战大动脉》 每日甘肃网-兰州晨报，2015-08-21](https://3g.163.com/news/article/B1GU6TSJ00014Q4P.html?from=dynamic)
-
 9.  崔可夫：《在华使命-- 一个军事顾问的笔记（1940—1942）》，万成才译，新华出版社1980年9月第一版.
-
 10. [覃庆森、周志文：“我军在解放战争中组建的汽车部队”，《军事历史》，1997年第3期。](http://www.doc88.com/p-9095932528159.html)
-
 11. 《上海汽车工业志》·大事记”

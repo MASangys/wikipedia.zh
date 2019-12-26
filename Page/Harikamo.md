@@ -31,11 +31,7 @@
 [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink") [Category:香川縣出身人物](https://zh.wikipedia.org/wiki/Category:香川縣出身人物 "wikilink")
 
 1.  「[境界の狭間](http://vermilion.ehoh.net/harikamo/index.htm)」
-
 2.
-
 3.
-
 4.
-
 5.

@@ -4,13 +4,13 @@
 
 ### 现役成员
 
-  - [寺田恵子](https://zh.wikipedia.org/wiki/寺田恵子 "wikilink") - 主唱、作詞、作曲（第1期、重组期）
+  - [寺田惠子](https://zh.wikipedia.org/wiki/寺田惠子 "wikilink") - 主唱、作詞、作曲（第1期、重组期）
     [1963年](../Page/1963年.md "wikilink")[7月27日出生](https://zh.wikipedia.org/wiki/7月27日 "wikilink")。[千葉県出身](https://zh.wikipedia.org/wiki/千葉県 "wikilink")。血型A型。
-  - [中村美紀](https://zh.wikipedia.org/wiki/中村美紀 "wikilink") - 键盘手、合唱、指挥、作詞、作曲
+  - [中村美紀](https://zh.wikipedia.org/wiki/中村美紀 "wikilink")（Captain） - 键盘手、合唱、指挥、作詞、作曲
     [1961年](../Page/1961年.md "wikilink")[9月27日](../Page/9月27日.md "wikilink")出生。千葉县出身。血型AB型。
-  - [五十嵐sun-go美貴](https://zh.wikipedia.org/wiki/五十嵐美貴 "wikilink") - 吉他手、合唱、作曲
+  - [五十嵐美貴](https://zh.wikipedia.org/wiki/五十嵐美貴 "wikilink")（Sun-go） - 吉他手、合唱、作曲
     1962年[11月21日](../Page/11月21日.md "wikilink")出生。[神奈川県](https://zh.wikipedia.org/wiki/神奈川県 "wikilink")[厚木市](../Page/厚木市.md "wikilink")出身。血型A型。
-  - [角田mittan美喜](https://zh.wikipedia.org/wiki/角田美喜 "wikilink") - 鼓手、合唱、作曲
+  - [角田美喜](https://zh.wikipedia.org/wiki/角田美喜 "wikilink")（Mittan） - 鼓手、合唱、作曲
     1963年[12月7日](../Page/12月7日.md "wikilink")出生。[東京都](../Page/東京都.md "wikilink")出身。血型O型。
   - [仙波さとみ](https://zh.wikipedia.org/wiki/仙波さとみ "wikilink") - 贝斯、合唱、作曲
     1963年[8月28日](../Page/8月28日.md "wikilink")出生。東京都出身。血型A型。

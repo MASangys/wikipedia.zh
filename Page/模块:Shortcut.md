@@ -6,6 +6,24 @@
 
 local p = {}
 
+function p._getshortname(frame)
+
+`   return frame:expandTemplate{title = "Lan",args = {["zh-hans"]="快捷方式",["zh-hant"]="捷徑"}}`
+
+end
+
+function p.getshortlink(frame)
+
+`   return "`[`"``   ``..``   ``p._getshortname(frame)``   ``..``   ``"`](https://zh.wikipedia.org/wiki/Wikipedia:捷徑 "wikilink")`"`
+
+end
+
+function p.getshortlink_policy(frame)
+
+`   return "`[`方針"``   ``..``   ``p._getshortname(frame)``   ``..``   ``"`](https://zh.wikipedia.org/wiki/Wikipedia:捷徑 "wikilink")`"`
+
+end
+
 local function message(msg, ...)
 
 `   return mw.message.newRawMessage(msg, ...):plain()`
@@ -71,12 +89,12 @@ function p._main(shortcuts, options, frame, cfg)
 `   do`
 `       local nShortcuts = #shortcuts`
 `       if nShortcuts > 0 then`
-`           shortcutHeading = message(cfg['shortcut-heading'], nShortcuts)`
+`           shortcutHeading = message(p.getshortlink(frame), nShortcuts)`
 `           shortcutHeading = frame:preprocess(shortcutHeading)`
 `       end`
 `   end`
 `   if yesno(options.policy) then`
-`       shortcutHeading = '`[`方針捷徑`](https://zh.wikipedia.org/wiki/Wikipedia:捷徑 "wikilink")`'`
+`       shortcutHeading = p.getshortlink_policy(frame)`
 `   end`
 
 `   -- Shortcut box`
@@ -188,7 +206,7 @@ function p._ombx(shortcuts, options, frame, cfg)
 `   do`
 `       local nShortcuts = #shortcuts`
 `       if nShortcuts > 0 then`
-`           shortcutHeading = message(cfg['shortcut-heading'], nShortcuts)`
+`           shortcutHeading = message(p.getshortlink(frame), nShortcuts)`
 `           shortcutHeading = frame:preprocess(shortcutHeading)`
 `       end`
 `   end`
@@ -415,7 +433,7 @@ function p._ombx_template(shortcuts, options, frame, cfg)
 `   do`
 `       local nShortcuts = #shortcuts`
 `       if nShortcuts > 0 then`
-`           shortcutHeading = message(cfg['shortcut-heading'], nShortcuts)`
+`           shortcutHeading = message(p.getshortlink(frame), nShortcuts)`
 `           shortcutHeading = frame:preprocess(shortcutHeading)`
 `       end`
 `   end`

@@ -38,9 +38,7 @@
 [Category:汞化合物](https://zh.wikipedia.org/wiki/Category:汞化合物 "wikilink") [Category:碘代酸盐](https://zh.wikipedia.org/wiki/Category:碘代酸盐 "wikilink")
 
 1.
-
 2.  余坚, 苑俊章, 郝志峰. 新型Ag<sub>m</sub>Cu<sub>n</sub>HgI<sub>4</sub>可逆热致变色颜料的研究\[J\]. 精细化工, 2002, 19(11):651-653.
-
 3.
 4.
 5.

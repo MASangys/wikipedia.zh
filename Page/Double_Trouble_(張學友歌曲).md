@@ -1,18 +1,18 @@
-"**Double Trouble**"\[1\] 由 [Roxanne Seeman](https://zh.wikipedia.org/wiki/Roxanne_Seeman "wikilink"), Kine Ludvigsen and Olav Fossheim编曲。由 [Jacky Cheung](https://zh.wikipedia.org/wiki/Jacky_Cheung "wikilink")\[2\]\[3\]\[4\]\[5\] 演唱，收录于他的专辑 [Private Corner](../Page/Private_Corner.md "wikilink")\[6\]。整首歌和专辑由 Andrew Tuason.\[7\]制作。这首歌 "Double Trouble" 的歌词后来由香港作曲家Kenny So改编成粤语版本。
+"**Double Trouble**\[1\]是一首由[張學友演唱的歌曲](https://zh.wikipedia.org/wiki/張學友 "wikilink")\[2\]\[3\]\[4\]\[5\]，收錄於張學友2010年發行的粵語大碟[Private Corner](../Page/Private_Corner.md "wikilink")\[6\]。這首歌是由[喬星](../Page/喬星.md "wikilink")作詞（粵語版本歌詞），由[Roxanne Seeman](https://zh.wikipedia.org/wiki/Roxanne_Seeman "wikilink")、Kine Ludvigsen與Olav Fossheim作曲，由[杜自持](../Page/杜自持.md "wikilink")編曲，由張學友本人與杜自持製作。
 
 ## 香港音乐榜
 
-"Double Trouble" 于2010年四月份在 HMVHK （香港最著名音乐榜）销售榜上排名第一。\[8\] 他的转机 "Private Corner" 在 HMVHK 销售榜上连续13周保持销售榜排名第一。
+2010年4月，這首歌在HMVHK（香港最著名的音樂榜）排行榜上排名第一。
 
-## 视频
+## MV
 
-在张学友的专辑 [Private Corner](../Page/Private_Corner.md "wikilink") 亚洲销量达到 200,000 份的时候，[Universal Music环球音乐举办了庆典](https://zh.wikipedia.org/wiki/Universal_Music "wikilink")，正是那时张学友放出了 "Double Trouble"的视频MV。\[9\]\[10\] 他自己投入了500,000港币来制作这部MV。这个MV was 由 Xia Yong Kang 指导制作并由中国大陆的 Du Juan来主演.\[11\]
+當張學友的專輯 [Private Corner](../Page/Private_Corner.md "wikilink") 的銷量達到 200,000 份時，[環球唱片舉辦了一場慶典](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")，此時張學友就正式推出了 《Double Trouble》的MV。\[7\]\[8\]張學友本人自己花了500,000港幣來製作這首歌的MV。這首歌的MV的導演是[夏永康](../Page/夏永康.md "wikilink")，主演是來自中國大陸的[杜鵑](../Page/杜鵑_\(模特兒\).md "wikilink")。\[9\]
 
 ## 现场表演
 
-2012年4月30号，张学友在自己的专辑"Private Corner"迷你音乐会上表演了"Double Trouble"。\[12\]
+2012年4月30日，張學友在《Private Corner 迷你音樂會》上表演了《Double Trouble》。\[10\]
 
-张学友1/2世纪演唱会，从上海启程，2011年除夕夜\[13\]。“Double Trouble”是音乐会的高光表演.\[14\]。张学友与25为演奏家和18为舞者唱跳了这首歌，最后坐在一个直升机上离开了舞台。
+2011年除夕夜，張學友的《1/2世紀演唱會》，在上海啟程\[11\]。《Double Trouble》是音樂會的高光表演。張學友與25位演奏家和18位舞者唱跳了這首歌，最後坐在一台直升機上離開了舞台。
 
 ## [环球小姐](../Page/环球小姐.md "wikilink")
 
@@ -25,26 +25,13 @@
 [Category:Songs_written_by_Roxanne_Seeman](https://zh.wikipedia.org/wiki/Category:Songs_written_by_Roxanne_Seeman "wikilink") [Category:2010年歌曲](https://zh.wikipedia.org/wiki/Category:2010年歌曲 "wikilink") [Category:張學友歌曲](https://zh.wikipedia.org/wiki/Category:張學友歌曲 "wikilink")
 
 1.
-
 2.
-
 3.  [Jacky Cheung - IMDb](https://www.imdb.com/name/nm0156484/)
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.
-
 11.
-12.
-
-13.
-
-14.

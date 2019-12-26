@@ -1,5 +1,7 @@
 **VERIVERY**（韓語：**베리베리**；縮寫：**VRVR**）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")於2019年推出的七人男子團體，由**東憲**、**號英**、**愍撰**、**啓賢**、**延浩**、**勇勝**、**岡旻**七名成員組成，並由**東憲**擔任隊長，官方粉絲名稱為「**VERRER**」。
 
+官方應援色為**7649 CP**、**663 UP**及**Glittering Silver**。
+
 七位成員不只在音樂、表演和外貌方面都實力出眾，也具備作詞、作曲、編舞和製作影片的能力\[1\]，希望被粉絲稱為「創作Idol」。
 
 ## 團體資料
@@ -83,6 +85,8 @@ VERIVERY(베리베리) + Lover(러버)的縮寫，代表熱愛VERIVERY的人們�
 
 ### 出道後
 
+#### <big>2019年</big>
+
 1月9日，首張迷你專輯《VERI-US》正式發行，並公開主打歌《불러줘 (Ring Ring Ring)》MV，當天在首爾清潭洞舉行出道SHOWCASE。
 
 4月7日，Jellyfish娛樂宣布將於24日發行第二張迷你專輯《VERI-ABLE》，後陸續公開概念照、曲目表、Highlight Medley、MV Teaser。\[20\]
@@ -165,12 +169,19 @@ VERIVERY(베리베리) + Lover(러버)的縮寫，代表熱愛VERIVERY的人們�
 <ul>
 <li>發行日期：2019年7月31日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>銷量：14,005+[24]</li>
+<li>銷量：16,698+[24]</li>
 </ul></td>
 <td></td>
 </tr>
 </tbody>
 </table>
+
+### 電視原聲帶
+
+|            |                                                                                                        |                                                          |          |
+| ---------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- | -------- |
+| 發行日期       | 電視劇                                                                                                    | 歌曲名稱                                                     | 參與成員     |
+| 2019年10月9日 | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") 《[意外發現的一天](../Page/意外發現的一天.md "wikilink")》 | [My Beauty](https://www.youtube.com/watch?v=t3JFc4E-Fu4) | 愍撰、啓賢、延浩 |
 
 ### 創作作品
 
@@ -318,18 +329,20 @@ VERIVERY(베리베리) + Lover(러버)的縮寫，代表熱愛VERIVERY的人們�
 
 ### 主持
 
-|            |                                                         |                                                         |      |      |
-| ---------- | ------------------------------------------------------- | ------------------------------------------------------- | ---- | ---- |
-| 日期         | 電視台 / 播放平台                                              | 節目名稱                                                    | 參與成員 | 備註   |
-| 2019年6月2日- | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink") | 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》 | 岡旻   | 特別MC |
+|                 |                                                         |                                                         |      |      |
+| --------------- | ------------------------------------------------------- | ------------------------------------------------------- | ---- | ---- |
+| 日期              | 電視台 / 播放平台                                              | 節目名稱                                                    | 參與成員 | 備註   |
+| 2019年6月2日-10月6日 | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink") | 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》 | 岡旻   | 特別MC |
 
 ### 綜藝節目
 
-|                |                                                     |                                            |      |    |
-| -------------- | --------------------------------------------------- | ------------------------------------------ | ---- | -- |
-| 日期             | 電視台 / 播放平台                                          | 節目名稱                                       | 參與成員 | 備註 |
-| 2019年8月3日      | [JTBC](../Page/JTBC.md "wikilink")2                 | 《[RUN.wav](../Page/RUN.wav.md "wikilink")》 | 全員   |    |
-| 2019年9月12日、13日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[偶像明星運動會](../Page/偶像明星運動會.md "wikilink")》 | 中秋特輯 |    |
+|                |                                                     |                                                          |       |                                                                                               |
+| -------------- | --------------------------------------------------- | -------------------------------------------------------- | ----- | --------------------------------------------------------------------------------------------- |
+| 日期             | 電視台 / 播放平台                                          | 節目名稱                                                     | 參與成員  | 備註                                                                                            |
+| 2019年8月3日      | [JTBC](../Page/JTBC.md "wikilink")2                 | 《[RUN.wav](../Page/RUN.wav.md "wikilink")》               | 全員    |                                                                                               |
+| 2019年9月12日、13日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[偶像明星運動會](../Page/偶像明星運動會.md "wikilink")》               | 中秋特輯  |                                                                                               |
+| 2019年10月5日     | [KBS2](../Page/KBS第2频道.md "wikilink")               | 《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》       | 東憲、延浩 | 與[gu9udan](https://zh.wikipedia.org/wiki/gu9udan "wikilink") [娜英](../Page/娜英.md "wikilink")合作 |
+| 2019年11月15日    | [Mnet](../Page/Mnet.md "wikilink")                  | 《TO BE WORLD KLASS[》](../Page/不朽的名曲：傳說在歌唱.md "wikilink") | 延浩    |                                                                                               |
 
 ### 廣播節目
 
@@ -354,18 +367,19 @@ VERIVERY(베리베리) + Lover(러버)的縮寫，代表熱愛VERIVERY的人們�
 
 ### 其他公演
 
-|       |                           |                   |
-| ----- | ------------------------- | ----------------- |
-| 日期    | 活動名稱                      | 舉行地點              |
-| 2019年 |                           |                   |
-| 5月18日 | 《《KCON 2019 JAPAN》        | 日本幕張展覽館           |
-| 5月26日 | 《HallyuPopFest 2019》      | 新加坡室內體育館          |
-| 6月1日  | 《第20屆 原州玫瑰慶典》             | 丹桂洞玫瑰公園           |
-| 7月7日  | 《KCON 2019 NY》            | 美國麥迪遜廣場花園         |
-| 8月1日  | 《M2 X GENIE MUSIC AWARDS》 | 首爾奧林匹克體操競技場       |
-| 8月18日 | 《KCON 2019 LA》            | 美國洛杉磯史坦波中心        |
-| 9月2日  | 《BRAND K-POP SHOW》        | 泰國曼谷CENTRAL WORLD |
-| 9月29日 | 《KCON 2019 Thailand》      | 泰國IMPACT會展中心      |
+|        |                                                 |                   |
+| ------ | ----------------------------------------------- | ----------------- |
+| 日期     | 活動名稱                                            | 舉行地點              |
+| 2019年  |                                                 |                   |
+| 5月18日  | 《《KCON 2019 JAPAN》                              | 日本幕張展覽館           |
+| 5月26日  | 《HallyuPopFest 2019》                            | 新加坡室內體育館          |
+| 6月1日   | 《第20屆 原州玫瑰慶典》                                   | 丹桂洞玫瑰公園           |
+| 7月7日   | 《KCON 2019 NY》                                  | 美國麥迪遜廣場花園         |
+| 8月1日   | 《M2 X GENIE MUSIC AWARDS》                       | 首爾奧林匹克體操競技場       |
+| 8月18日  | 《KCON 2019 LA》                                  | 美國洛杉磯史坦波中心        |
+| 9月2日   | 《BRAND K-POP SHOW》                              | 泰國曼谷CENTRAL WORLD |
+| 9月29日  | 《KCON 2019 Thailand》                            | 泰國IMPACT會展中心      |
+| 11月10日 | 《2019 PChome Is Coming One Makes Great Concert》 | 台灣壹電視攝影棚          |
 
 ## 獎項與榮譽
 
@@ -447,62 +461,33 @@ VERIVERY(베리베리) + Lover(러버)的縮寫，代表熱愛VERIVERY的人們�
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink") [Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink")
 
 1.
-
 2.
-
 3.   ETtoday星光雲|accessdate=2019-01-10|last=ETtoday新聞雲|work=star.ettoday.net|language=zh-Hant}}
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22. [2019年GAON 2月專輯榜33位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=02&hitYear=2019&termGbn=month)
-
 23. [2019年6月GAON專輯榜68位](http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&termGbn=month)
-
-24. [2019年8月GAON專輯榜27位](http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&termGbn=month)
-
+24.
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.

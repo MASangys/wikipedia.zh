@@ -1,6 +1,6 @@
 **Express.js**或简称**Express**，是针对[Node.js](../Page/Node.js.md "wikilink")的[web应用框架](https://zh.wikipedia.org/wiki/web应用框架 "wikilink")，在[MIT许可证下作为](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")发行。它设计用来建造[web应用和](../Page/网络应用程序.md "wikilink")[API](https://zh.wikipedia.org/wiki/API "wikilink")\[1\]。它已经被称为针对Node.js的服务器框架的[事实标准](https://zh.wikipedia.org/wiki/事实标准 "wikilink")\[2\]。
 
-最初作者[TJ Holowaychuk](https://zh.wikipedia.org/wiki/TJ_Holowaychuk "wikilink")，将它描述为受[Sinatra启发的服务器](https://zh.wikipedia.org/wiki/Sinatra_\(软件\) "wikilink")，意味着它是相对极小化的，带有以插件形式获得的很多特征。Express是[MEAN](../Page/MEAN.md "wikilink")软件栈的后端部件, 其他部件是[MongoDB](../Page/MongoDB.md "wikilink")数据库软件和[AngularJS前端框架](https://zh.wikipedia.org/wiki/AngularJS "wikilink")\[3\]。
+最初作者[TJ Holowaychuk](https://zh.wikipedia.org/wiki/TJ_Holowaychuk "wikilink")，将它描述为受[Sinatra启发的服务器](https://zh.wikipedia.org/wiki/Sinatra_\(软件\) "wikilink")，意味着它是相对极小化的，带有以插件形式获得的很多特征。Express是[MEAN](../Page/MEAN.md "wikilink")软件栈的后端部件，其他部件是[MongoDB](../Page/MongoDB.md "wikilink")数据库软件和[AngularJS前端框架](https://zh.wikipedia.org/wiki/AngularJS "wikilink")\[3\]。
 
 ## 历史
 

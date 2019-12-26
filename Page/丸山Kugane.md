@@ -4,7 +4,7 @@
 
 ## 作品概覽
 
-  - （插圖：so-bin（封面&本文插圖），[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")／[KADOKAWA](../Page/KADOKAWA.md "wikilink")，**刊載中**／已出版10冊（2018年7月））[台灣角川](../Page/台灣角川.md "wikilink")
+  - （插圖：so-bin（封面&本文插圖），[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")／[KADOKAWA](../Page/KADOKAWA.md "wikilink")，**刊載中**／已出版13冊+特典（2019年4月））[台灣角川](../Page/台灣角川.md "wikilink")
 
 ## 遊戲劇本
 

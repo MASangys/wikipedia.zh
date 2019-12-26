@@ -20,25 +20,17 @@ HKH自2014年的佔中運動起便經常出席各種遊行示威和集會。2017
 [Category:香港網絡紅人](https://zh.wikipedia.org/wiki/Category:香港網絡紅人 "wikilink") [Category:推特帳戶](https://zh.wikipedia.org/wiki/Category:推特帳戶 "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
-
 6.
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15.

@@ -24,7 +24,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p>3月3─5日</p></td>
+<td><p>3月3、4、5日</p></td>
 <td><p>10,000[2]</p></td>
 <td></td>
 <td></td>
@@ -58,7 +58,7 @@
 <td><p>8月18、19日</p></td>
 <td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
-<td><p><a href="../Page/奧林匹克公園_(首爾).md" title="wikilink">首爾奧林匹克公園奧林匹克大廳</a>[4]</p></td>
+<td><p><a href="../Page/SK奧林匹克手球館.md" title="wikilink">SK奧林匹克手球競技場</a>[4]</p></td>
 <td><p>10,000[5]</p></td>
 </tr>
 <tr class="odd">
@@ -179,6 +179,34 @@
 <td><p>8月13日</p></td>
 <td><p><a href="../Page/大阪市.md" title="wikilink">大阪市</a></p></td>
 <td><p>Zepp Bayside</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### MAMAMOO 3rd CONCERT TOUR in JAPAN
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>年份</strong></p></td>
+<td><p><strong>日期</strong></p></td>
+<td><p><strong>地點</strong></p></td>
+<td><p><strong>演唱會站次</strong></p></td>
+<td><p><strong>舉行地點</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2020年</p></td>
+<td><p>3月8日</p></td>
+<td><p><a href="../Page/大阪市.md" title="wikilink">大阪市</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3月15日</p></td>
+<td><p><a href="../Page/東京市.md" title="wikilink">東京市</a></p></td>
+<td><p>豊洲PIT</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -417,6 +445,7 @@
 | 2019年5月18日        |
 | 2019年5月23日        |
 | 2019年10月19日       |
+| 2019年11月16日       |
 
 ## 公演活動
 
@@ -764,36 +793,41 @@
 | 2019年9月25日                        |
 | 韓國產業技術大學祝祭                        |
 | 2019年9月26日                        |
+| 2019年10月2日                        |
 | 2019年10月3日                        |
-| Korea Drama Festival              |
 | 2019年10月4日                        |
+| 2019年10月5日                        |
+| 2019年10月6日                        |
+| 2019年10月7日                        |
+| 2019年10月11日                       |
 | 2019年10月12日                       |
+| 2019年10月15日                       |
 | 2019年10月20日                       |
 | 2019年10月25日                       |
 | 2019年10月27日                       |
-| 2019年11月10日                       |
+| 2019年12月7日                        |
 
 ## 海外公演活動
 
-|                |                                           |                                   |
-| -------------- | ----------------------------------------- | --------------------------------- |
-| 日期             | 活動名稱                                      | 舉行地點                              |
-| 2016年1月19日     | 2016 Gala Vietnam Top Hits                | 越南                                |
-| 2016年3月16日     | SXSW 音樂節 (South By SouthWest)             | 美國德克薩斯州 The Belmont               |
-| 2016年6月25日     | KCON USA 2016 @ NY                        | Prudential Center, Newark NJ, USA |
-| 2016年7月30, 31日 | Korea Music ware演唱會                       | 日本福岡                              |
-| 2017年11月1日     | ABU TV SONG FESTIVAL                      | 中國四川成都                            |
-| 2018年1月13日     | K-WAVE MUSIC FESTIVAL                     | 馬來西亞吉隆坡                           |
-| 2018年7月7日      | SUPER SBS CONCERT IN TAIPEI               | 臺北                                |
-| 2018年10月17日    | K-FOOD FAIR 2018 HONGKONG                 | 香港                                |
-| 2018年12月12日    | 2018年mnet亞洲音樂大獎                           | 日本琦玉                              |
-| 2018年12月28日    | V HEARTBEAT YEAR END PARTY in VIETNAM     | 越南胡志明市                            |
-| 2019年2月4日      | POWER OF K TOKYO LIVE                     | 日本東京                              |
-| 2019年7月6日      | SUPER SBS CONCERT IN HONGKONG             | 香港                                |
-| 2019年8月10日     | K-POP WE\* FRIEND CONCERT IN VIETNAM 2019 | 越南                                |
-| 2019年8月11日     | K-FES 2019                                | 日本大阪                              |
-| 2019年8月18日     | KCON USA 2019 @ LA                        | 美國洛杉磯                             |
-| 2019年8月31日     | V HEARTBEAT 2019 in JAKARTA               | 印尼雅加達                             |
+|               |                                           |                                   |
+| ------------- | ----------------------------------------- | --------------------------------- |
+| 日期            | 活動名稱                                      | 舉行地點                              |
+| 2016年1月19日    | 2016 Gala Vietnam Top Hits                | 越南                                |
+| 2016年3月16日    | SXSW 音樂節 (South By SouthWest)             | 美國德克薩斯州 The Belmont               |
+| 2016年6月25日    | KCON USA 2016 @ NY                        | Prudential Center, Newark NJ, USA |
+| 2016年7月30、31日 | Korea Music ware演唱會                       | 日本福岡                              |
+| 2017年11月1日    | ABU TV SONG FESTIVAL                      | 中國四川成都                            |
+| 2018年1月13日    | K-WAVE MUSIC FESTIVAL                     | 馬來西亞吉隆坡                           |
+| 2018年7月7日     | SUPER SBS CONCERT IN TAIPEI               | 臺北                                |
+| 2018年10月17日   | K-FOOD FAIR 2018 HONGKONG                 | 香港                                |
+| 2018年12月12日   | 2018年mnet亞洲音樂大獎                           | 日本琦玉                              |
+| 2018年12月28日   | V HEARTBEAT YEAR END PARTY in VIETNAM     | 越南胡志明市                            |
+| 2019年2月4日     | POWER OF K TOKYO LIVE                     | 日本東京                              |
+| 2019年7月6日     | SUPER SBS CONCERT IN HONGKONG             | 香港                                |
+| 2019年8月10日    | K-POP WE\* FRIEND CONCERT IN VIETNAM 2019 | 越南                                |
+| 2019年8月11日    | K-FES 2019                                | 日本大阪                              |
+| 2019年8月18日    | KCON USA 2019 @ LA                        | 美國洛杉磯                             |
+| 2019年8月31日    | V HEARTBEAT 2019 in JAKARTA               | 印尼雅加達                             |
 
 ## 參考資料
 
@@ -818,6 +852,6 @@
 8.  [MAMAMOO 為《四季四色》企劃華麗收尾　專場演唱會 4 月登場！](https://www.koreastardaily.com/tc/news/114962)
 9.  [마마무 콘서트 \<4season F/W\> in 대구](https://twitter.com/RBW_MAMAMOO/status/1139397640599166976)
 10. [渋谷店主催K-POPイベント「“K-POP LOVERS\!” SHOWCASE Vol.5」にCLC、ノ・ジフン、MAMAMOO出演決定！](http://tower.jp/article/news/2016/11/25/n101)
-11. \[[http://kpopn.niusnews.com/=K38fts00\]MAMAMOO](http://kpopn.niusnews.com/=K38fts00%5DMAMAMOO) 來台，門票30日開賣！
-12. \[[http://kpopn.niusnews.com/=K1ddrcb4\]MAMAMOO](http://kpopn.niusnews.com/=K1ddrcb4%5DMAMAMOO) 10/2襲港，門票8/15開賣
+11. [1](http://kpopn.niusnews.com/=K38fts00) MAMAMOO 來台，門票30日開賣！
+12. [2](http://kpopn.niusnews.com/=K1ddrcb4) MAMAMOO 10/2襲港，門票8/15開賣
 13. [2017 MAMAMOO PURPLE PARTY IN TOKYO 開催！](http://www.wowkorea.jp/news/enter/2017/0929/10198630.html)

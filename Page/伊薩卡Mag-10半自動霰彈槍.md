@@ -36,7 +36,7 @@ Mag-10的封路者型（RoadBlocker）版本是由伊薩卡為執法機關市場
   -
 ## 外部链接
 
-  - —[Ithaca Mag-10 Schematic](http://www.ithacagun.com/mag10schematic.html)
+  - —[Ithaca Mag-10 Schematic](https://web.archive.org/web/20160319090044/http://www.ithacagun.com/mag10schematic.html)
 
   - —[NCJRS Abstract on Roadblocker](http://www.ncjrs.gov/App/publications/Abstract.aspx?id=54286)
 

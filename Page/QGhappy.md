@@ -128,65 +128,65 @@
 <tr class="even">
 <td><p>Yang</p></td>
 <td><p>万潇阳</p></td>
-<td></td>
 <td><p>转会<a href="https://zh.wikipedia.org/wiki/X-Quest" title="wikilink">XQ</a></p></td>
 <td><p>辅助</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Alan</p></td>
 <td><p>王添龙</p></td>
-<td></td>
 <td><p>转会<a href="https://zh.wikipedia.org/wiki/eStar_Gaming" title="wikilink">eStar</a></p></td>
 <td><p>打野，边路</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>伪装</p></td>
 <td><p>朱思远</p></td>
-<td></td>
 <td><p>转会<a href="https://zh.wikipedia.org/wiki/EDG" title="wikilink">EDG.M</a></p></td>
 <td><p>中路</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>M</p></td>
 <td><p>普浩</p></td>
-<td></td>
 <td><p>转会<a href="https://zh.wikipedia.org/wiki/BA黑凤梨" title="wikilink">BA黑凤梨</a></p></td>
 <td><p>边路</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>XX</p></td>
 <td><p>孙翔</p></td>
-<td></td>
 <td><p>退役</p></td>
 <td><p>中路</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Kimi</p></td>
 <td><p>刘鑫</p></td>
-<td></td>
 <td><p>不详</p></td>
 <td><p>辅助</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>Fish</p></td>
 <td><p>王思逸</p></td>
-<td></td>
 <td><p>不详</p></td>
 <td><p>下路</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Mc</p></td>
 <td><p>谢涛</p></td>
-<td></td>
 <td><p>转会<a href="https://zh.wikipedia.org/wiki/eStar_Gaming" title="wikilink">eStar</a></p></td>
 <td><p>下路</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>Song</p></td>
 <td><p>汤俊伟</p></td>
-<td></td>
-<td><p>转会SLT</p></td>
+<td><p>轉會SLT</p></td>
 <td><p>边路</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Best</p></td>
@@ -198,23 +198,23 @@
 <tr class="even">
 <td><p>Hico</p></td>
 <td><p>薛智伟</p></td>
-<td></td>
 <td><p>转会<a href="https://zh.wikipedia.org/wiki/Vici_Gaming" title="wikilink">VG</a></p></td>
 <td><p>打野</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>lan</p></td>
 <td><p>罗飞</p></td>
-<td></td>
 <td><p>转会GK</p></td>
 <td><p>辅助</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>Neli</p></td>
 <td><p>王凯鑫</p></td>
-<td></td>
 <td><p>不详</p></td>
 <td><p>边路</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

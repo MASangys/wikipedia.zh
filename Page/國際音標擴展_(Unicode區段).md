@@ -1086,7 +1086,7 @@
 <td><p>ʮ</p></td>
 <td><p>拉丁小寫字母帶魚鉤的顛倒H</p></td>
 <td><p>Latin Small Letter Turned H with Fishhook</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/音節輔音" title="wikilink">成音節的</a><a href="https://zh.wikipedia.org/wiki/唇音化" title="wikilink">唇音化</a><a href="../Page/濁齒齦擦音.md" title="wikilink">濁齒齦擦音</a>（用於漢語）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音節輔音" title="wikilink">成音節的</a><a href="../Page/唇音化.md" title="wikilink">唇音化</a><a href="../Page/濁齒齦擦音.md" title="wikilink">濁齒齦擦音</a>（用於漢語）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1097,7 +1097,7 @@
 <td><p>ʯ</p></td>
 <td><p>拉丁小寫字母帶魚鉤和尾巴的顛倒H</p></td>
 <td><p>Latin Small Letter Turned H with Fishhook and Tail</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/音節輔音" title="wikilink">成音節的</a><a href="https://zh.wikipedia.org/wiki/唇音化" title="wikilink">唇音化</a><a href="https://zh.wikipedia.org/wiki/濁捲舌擦音" title="wikilink">濁捲舌擦音</a>（用於漢語）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音節輔音" title="wikilink">成音節的</a><a href="../Page/唇音化.md" title="wikilink">唇音化</a><a href="https://zh.wikipedia.org/wiki/濁捲舌擦音" title="wikilink">濁捲舌擦音</a>（用於漢語）</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1325,9 +1325,7 @@
 [Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink") [Category:國際音標](https://zh.wikipedia.org/wiki/Category:國際音標 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.

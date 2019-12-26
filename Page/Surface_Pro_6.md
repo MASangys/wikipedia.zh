@@ -56,20 +56,12 @@ Surface Pro 6的所有消费者配置都预装了64位元[Windows 10 Home](../Pa
 [Category:2合1電腦](https://zh.wikipedia.org/wiki/Category:2合1電腦 "wikilink") [Category:Microsoft_Surface](https://zh.wikipedia.org/wiki/Category:Microsoft_Surface "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.

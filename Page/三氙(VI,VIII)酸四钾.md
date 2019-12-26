@@ -19,11 +19,8 @@ K<sub>4</sub>Xe<sub>3</sub>O<sub>12</sub>是一种亮黄色固体，震荡或者
 [Category:混合价态化合物](https://zh.wikipedia.org/wiki/Category:混合价态化合物 "wikilink") [Category:1960年代发现的物质](https://zh.wikipedia.org/wiki/Category:1960年代发现的物质 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.

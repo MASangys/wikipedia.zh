@@ -66,6 +66,13 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年11月26日</p></td>
+<td><p>第4届</p></td>
+<td><p>Groove獎</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -124,6 +131,13 @@
 <td><p>[8]</p></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年12月4日</p></td>
+<td><p>第21届</p></td>
+<td><p>最佳女組合舞蹈表演</p></td>
+<td><p>《Senorita》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -255,7 +269,7 @@
 </tr>
 <tr class="even">
 <td><p>音源部门年度歌手奖（8月）</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/HANN" title="wikilink">HANN</a>》</p></td>
+<td><p>《HANN (Alone)》</p></td>
 <td><p>[16]</p></td>
 <td></td>
 <td></td>
@@ -411,7 +425,7 @@
 | ----- | -------- | ------ | -- | ----------------- |
 | 2019年 | 第16届春节特辑 | 女子艺术体操 | 舒華 | 铜牌（总分12.70）\[23\] |
 
-### 韩国女团品牌价值排行
+### 韓國女團品牌價值排行
 
 <table>
 <thead>
@@ -433,15 +447,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2018年<ref>韩国企业评价研究所. 2018</p>
+<td><p>2018年<ref>韓國企業評價研究所. 2018</p>
 <ul>
-<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=256">2018年6月女团品牌价值排行第1名</a></li>
-<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=267">2018年7月女团品牌价值排行第9名</a></li>
-<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=275">2018年8月女团品牌价值排行第11名</a></li>
-<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=284">2018年9月女团品牌价值排行第1名</a></li>
-<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=300">2018年10月女团品牌价值排行第10名</a></li>
-<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=308">2018年11月女团品牌价值排行第12名</a></li>
-<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=316">2018年12月女团品牌价值排行第17名</a></li>
+<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=256">2018年6月女團品牌價值排行第1名</a></li>
+<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=267">2018年7月女團品牌價值排行第9名</a></li>
+<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=275">2018年8月女團品牌價值排行第11名</a></li>
+<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=284">2018年9月女團品牌價值排行第1名</a></li>
+<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=300">2018年10月女團品牌價值排行第10名</a></li>
+<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=308">2018年11月女團品牌價值排行第12名</a></li>
+<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=316">2018年12月女團品牌價值排行第17名</a></li>
 </ul>
 <p></ref></p></td>
 <td><p>colspan="5" </p></td>
@@ -458,17 +472,19 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019年<ref>韩国企业评价研究所. 2019</p>
+<td><p>2019年<ref>韓國企業評價研究所. 2019</p>
 <ul>
-<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=327">2019年1月女团品牌价值排行第20名</a></li>
-<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=340">2019年2月女团品牌价值排行第13名</a></li>
-<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=348">2019年3月女团品牌价值排行第8名</a></li>
-<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=358">2019年4月女团品牌价值排行第21名</a></li>
-<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=366">2019年5月女团品牌价值排行第11名</a></li>
-<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=375">2019年6月女团品牌价值排行第28名</a></li>
-<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=385">2019年7月女团品牌价值排行第10名</a></li>
+<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=327">2019年1月女團品牌價值排行第20名</a></li>
+<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=340">2019年2月女團品牌價值排行第13名</a></li>
+<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=348">2019年3月女團品牌價值排行第8名</a></li>
+<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=358">2019年4月女團品牌價值排行第21名</a></li>
+<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=366">2019年5月女團品牌價值排行第11名</a></li>
+<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=375">2019年6月女團品牌價值排行第28名</a></li>
+<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=385">2019年7月女團品牌價值排行第10名</a></li>
 <li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=395">2019年8月女團品牌價值排行第17名</a></li>
 <li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=404">2019年9月女團品牌價值排行第20名</a></li>
+<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=415">2019年10月女團品牌價值排行第1名</a></li>
+<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=423">2019年11月女團品牌價值排行第1名</a></li>
 </ul>
 <p></ref></p></td>
 <td><p>20</p></td>
@@ -480,8 +496,8 @@
 <td><p>10</p></td>
 <td><p>17</p></td>
 <td><p>20</p></td>
-<td></td>
-<td></td>
+<td><p><strong>1</strong></p></td>
+<td><p><strong>1</strong></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -508,26 +524,26 @@
 
 ### [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")
 
-| 年份          | 日期          | 歌曲名称   |
-| ----------- | ----------- | ------ |
-| 2018年       | 5月22日\[32\] | LATATA |
-| 5月29日\[33\] |             |        |
-| 9月4日\[34\]  | HANN        |        |
-| 2019年       | 7月2日\[35\]  | Uh-Oh  |
+| 年份          | 日期           | 歌曲名称   |
+| ----------- | ------------ | ------ |
+| 2018年       | 5月22日\[32\]  | LATATA |
+| 5月29日\[33\] |              |        |
+| 9月4日\[34\]  | HANN (Alone) |        |
+| 2019年       | 7月2日\[35\]   | Uh-Oh  |
 
 ### [Show Champion](../Page/Show_Champion.md "wikilink")
 
-| 年份    | 日期          | 歌曲名称     |
-| ----- | ----------- | -------- |
-| 2018年 | 8月29日\[36\] | HANN     |
-| 2019年 | 3月6日\[37\]  | Senorita |
+| 年份    | 日期          | 歌曲名称         |
+| ----- | ----------- | ------------ |
+| 2018年 | 8月29日\[36\] | HANN (Alone) |
+| 2019年 | 3月6日\[37\]  | Senorita     |
 
 ### [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")
 
-| 年份         | 日期          | 歌曲名称   |
-| ---------- | ----------- | ------ |
-| 2018年      | 5月24日\[38\] | LATATA |
-| 9月6日\[39\] | HANN        |        |
+| 年份         | 日期           | 歌曲名称   |
+| ---------- | ------------ | ------ |
+| 2018年      | 5月24日\[38\]  | LATATA |
+| 9月6日\[39\] | HANN (Alone) |        |
 
 ## 参考资料
 

@@ -86,12 +86,8 @@
 [Category:SKE48歌曲](https://zh.wikipedia.org/wiki/Category:SKE48歌曲 "wikilink") [Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink") [Category:2019年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon單曲週榜冠軍作品 "wikilink") [Category:2019年Oricon單曲合算週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon單曲合算週榜冠軍作品 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.

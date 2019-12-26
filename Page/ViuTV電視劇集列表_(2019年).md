@@ -205,6 +205,34 @@ Two Cops</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
+<tr class="odd">
+<td style="text-align: center;"><p>07/11-<br />
+02/12</p></td>
+<td style="text-align: center;"><p><a href="../Page/推理的女王2.md" title="wikilink">推理的女王2</a><br />
+Queen Of Mystery 2</p></td>
+<td style="text-align: center;"><p>18</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a>）</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>03/12-<br />
+31/12</p></td>
+<td style="text-align: center;"><p><a href="../Page/不是機器人啊.md" title="wikilink">我不是機械人</a><br />
+I'm Not a Robot</p></td>
+<td style="text-align: center;"><p>18</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2019年).md" title="wikilink">2019年ViuTV劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>），12月27日暫停播映</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
 </tbody>
 </table>
 
@@ -212,7 +240,7 @@ Two Cops</p></td>
 
 ### 第一線劇集
 
-[香港時間](../Page/香港時間.md "wikilink")逢星期一至五19:30-19:55/20:00播出，逢星期二至六04:00-04:30重播，再逢星期二至五及下星期一10:30-11:00重播；4月29日起改為20:00-20:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期一至五19:30-19:55/20:00播出，逢星期二至六04:00-04:30重播，再逢星期二至五及下星期一10:30-11:00重播（12月2日起取消兩個重播時段）；4月29日起改為20:00-20:30播出
 
 <table style="width:344%;">
 <colgroup>
@@ -275,7 +303,7 @@ Legal V</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>15/07-<br />
-</p></td>
+29/11</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/娛樂風雲" title="wikilink">娛樂風雲</a><br />
 Showman's Show</p></td>
 <td style="text-align: center;"><p>100</p></td>
@@ -287,9 +315,24 @@ Showman's Show</p></td>
 <a href="https://zh.wikipedia.org/wiki/李駿傑" title="wikilink">李駿傑</a>、<a href="https://zh.wikipedia.org/wiki/梁業" title="wikilink">梁　業</a>、<a href="../Page/郭嘉駿.md" title="wikilink">郭嘉駿</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/南方舞廳_(作家).md" title="wikilink">南方舞廳</a></p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主：娛樂風雲主題音樂（<a href="https://zh.wikipedia.org/wiki/黃偉年" title="wikilink">黃偉年作曲</a>）<br />
-主：困獸鬥（<a href="../Page/陳凱詠.md" title="wikilink">陳凱詠</a> Feat. <a href="https://zh.wikipedia.org/wiki/梁業" title="wikilink">梁　業</a> @ <a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a>）（第31集起）</p></td>
-<td style="text-align: center;"><p>10月1日暫停早上重播時段</p></td>
+<td style="text-align: center;"><p>主：娛樂風雲主題音樂（<a href="https://zh.wikipedia.org/wiki/黃偉年" title="wikilink">黃偉年作曲</a>）（第1至30集）、（<a href="https://zh.wikipedia.org/wiki/黃鳳儀_(唱作人)" title="wikilink">黃鳳儀作曲</a>）（第31至100集）<br />
+主：困獸鬥（<a href="../Page/陳凱詠.md" title="wikilink">陳凱詠</a> Feat. <a href="https://zh.wikipedia.org/wiki/梁業" title="wikilink">梁　業</a> @ <a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a>）（第31至60集）<br />
+尾：我們不碎（<a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a>）（第61至100集）</p></td>
+<td style="text-align: center;"><p>10月1日暫停早上重播時段，10月17日早上重播時段改為10:00-10:30</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>02/12-<br />
+27/12</p></td>
+<td style="text-align: center;"><p><br />
+Residential Complex</p></td>
+<td style="text-align: center;"><p>20</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>），於ViuTV首播時不設網上重溫</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -417,7 +460,7 @@ My Secret, Terrius</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>），6月17日因插播盧偉聰見記者片段關係改為20:30-21:50播出</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>），6月17日因插播《Now特別新聞報道》關係改為20:30-21:50播出</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>26/06-<br />
@@ -464,14 +507,44 @@ My ID is Gangnam Beauty</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>03/10-<br />
-</p></td>
+05/11</p></td>
 <td style="text-align: center;"><p><a href="../Page/先熱情地打掃吧.md" title="wikilink">先熱情地打掃吧</a><br />
 Clean with Passion for Now</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>24</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2019年).md" title="wikilink">2019年now劇集台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>），10月8日凌晨重播時段改為02:30-03:30</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>06/11-<br />
+04/12</p></td>
+<td style="text-align: center;"><p><a href="../Page/雞龍仙女傳.md" title="wikilink">雞龍仙女傳</a><br />
+Mama Fairy and the Woodcutter</p></td>
+<td style="text-align: center;"><p>21</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2019年).md" title="wikilink">2019年now劇集台劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>）</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>05/12-<br />
+<br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2020年)" title="wikilink">續20年</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/Legal_High_(韓國電視劇).md" title="wikilink">Law界狂人</a><br />
+Legal High</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2019年).md" title="wikilink">2019年now劇集台劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/now劇集台" title="wikilink">now劇集台播出時名為</a>《Legal High》<br />
+外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>）</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -602,30 +675,66 @@ Sky Castle</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>03/10-<br />
 23/10</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/假設性無罪" title="wikilink">假設性無罪</a><br />
-Me Too</p></td>
+<td style="text-align: center;"><p><br />
+#MeToo</p></td>
 <td style="text-align: center;"><p>15</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/梁漢文" title="wikilink">梁漢文</a>、<a href="../Page/王敏奕.md" title="wikilink">王敏奕</a>、<a href="../Page/張慧儀.md" title="wikilink">張慧儀</a>、<br />
 <a href="../Page/樓南光.md" title="wikilink">樓南光</a>、<a href="../Page/邵仲衡.md" title="wikilink">邵仲衡</a>、<a href="../Page/董敏莉.md" title="wikilink">董敏莉</a>、<br />
 <a href="../Page/許博文.md" title="wikilink">強　尼</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、、<br />
 <a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、、<a href="../Page/雷深如.md" title="wikilink">雷深如</a>、<br />
 、<a href="../Page/李焯寧.md" title="wikilink">李焯寧</a>、</p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主：風雨花（<a href="../Page/雷深如.md" title="wikilink">雷深如</a>）</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/梁崇勳" title="wikilink">梁崇勳</a></p></td>
+<td style="text-align: center;"><p><a href="http://viu.tv/encore/metoo">網頁</a></p></td>
+<td style="text-align: center;"><p>主：風雨花（<a href="../Page/雷深如.md" title="wikilink">雷深如</a>）<br />
+尾：蝴蝶（<a href="https://zh.wikipedia.org/wiki/泫希" title="wikilink">泫　希</a>）</p></td>
 <td style="text-align: center;"><p>前奏節目《假設性無罪 - 性甚明誰》於9月28日至30日23:25-23:30、10月2日00:55-01:00及23:25-23:30播出</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>24/10-<br />
-</p></td>
-<td style="text-align: center;"><p><a href="../Page/漢摩拉比小姐.md" title="wikilink">逆權法官</a><br />
+22/11</p></td>
+<td style="text-align: center;"><p><a href="../Page/漢摩拉比小姐.md" title="wikilink">新紮法官</a><br />
 Miss Hammurabi</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>23</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2019年).md" title="wikilink">2019年now劇集台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/now劇集台" title="wikilink">now劇集台播出時名為</a>《漢摩拉比小姐》<br />
-外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>）</p></td>
+外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>），第23集於11月23日（星期六）21:30-22:30播出</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>25/11-<br />
+24/12</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/想暫停的瞬間：About_Time" title="wikilink">想暫停的瞬間</a><br />
+About Time</p></td>
+<td style="text-align: center;"><p>22</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2019年).md" title="wikilink">2019年now劇集台劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/now劇集台" title="wikilink">now劇集台播出時名為</a>《想暫停的瞬間：About Time》<br />
+外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>）</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>25/12-<br />
+<br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2020年)" title="wikilink">續20年</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黑巿_(電視劇)" title="wikilink">黑巿</a><br />
+</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="../Page/王貽興.md" title="wikilink">王貽興</a>、、<a href="../Page/詹瑞文.md" title="wikilink">詹昊宸</a>、<br />
+<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<a href="../Page/陳啟泰.md" title="wikilink">陳啟泰</a>、<a href="../Page/魯文傑.md" title="wikilink">魯文傑</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/朱康" title="wikilink">朱栢康</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、<br />
+、、、<br />
+<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、、<a href="../Page/黃溢濠.md" title="wikilink">黃溢濠</a>、<br />
+<a href="../Page/陳潔玲.md" title="wikilink">陳潔玲</a>、<a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、<br />
+<a href="../Page/麥芷誼.md" title="wikilink">麥芷誼</a>、<a href="../Page/余采霖.md" title="wikilink">余采霖</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a><small>（<a href="https://zh.wikipedia.org/wiki/邱士縉" title="wikilink">邱士縉</a>、<a href="https://zh.wikipedia.org/wiki/呂爵安" title="wikilink">呂爵安</a>、<a href="https://zh.wikipedia.org/wiki/邱傲然" title="wikilink">邱傲然</a>）</small></p></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -710,9 +819,9 @@ Reboot</p></td>
 
 ### 深夜劇集時段
 
-#### 星期一至四
+##### 第一線劇集（4月2日至25日）
 
-##### 第一線劇集
+#### 星期一至四
 
 [香港時間](../Page/香港時間.md "wikilink")逢星期二至五<small>（星期一至四深夜）</small>00:00-01:00播出
 
@@ -760,6 +869,8 @@ Psycho Detective</p></td>
 </table>
 
 ##### 第一線劇集／第二線劇集（4月2日至25日）
+
+#### 星期一至四
 
 [香港時間](../Page/香港時間.md "wikilink")逢星期二至五<small>（星期一至四深夜）</small>01:00-02:30播出；1月8日起改為00:30-02:00播出（4月2日至12日期間改為01:30-02:30播出，4月16日至25日期間改為01:30-03:00播出）；5月23日起改為00:30-01:30播出
 
@@ -911,7 +1022,21 @@ The Liar &amp; His Lover</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2017年).md" title="wikilink">2017年now觀星台劇集</a></span></p>
 </div></td>
-<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>），於<a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台首播時不設粵語配音</a></p></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>），於<a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台首播時不設粵語配音</a>，11月14日改為01:00-02:00播出</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>19/11-<br />
+31/12</p></td>
+<td style="text-align: center;"><p><a href="../Page/雲畫的月光.md" title="wikilink">雲畫的月光</a><br />
+Love in the moonlight</p></td>
+<td style="text-align: center;"><p>23</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now觀星台電視劇集列表_(2016年).md" title="wikilink">2016年now觀星台劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a>），於<a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台首播時不設粵語配音</a>，11月19日改為01:00-02:00播出，12月25日至27日暫停播映，第22集於12月28日（星期六／<small>星期五深夜</small>）00:30-01:30播出</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -975,6 +1100,54 @@ Detective Yugami</p></td>
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">2018年ViuTV劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>），7月27日改為01:00-02:15播出</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
+##### 第二線劇集
+
+[香港時間](../Page/香港時間.md "wikilink")逢星期二至六<small>（星期一至五深夜）</small>04:00-04:30播出，逢星期二至五及下星期一10:30-11:00重播
+
+<table style="width:344%;">
+<colgroup>
+<col style="width: 60%" />
+<col style="width: 17%" />
+<col style="width: 50%" />
+<col style="width: 24%" />
+<col style="width: 90%" />
+<col style="width: 70%" />
+<col style="width: 18%" />
+<col style="width: 15%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><p>播放<br />
+日期</p></th>
+<th style="text-align: center;"><p>中文劇名<br />
+（英文）</p></th>
+<th style="text-align: center;"><p>集數</p></th>
+<th style="text-align: center;"><p>主演</p></th>
+<th style="text-align: center;"><p>監製</p></th>
+<th style="text-align: center;"><p>網頁</p></th>
+<th style="text-align: center;"><p>歌曲</p></th>
+<th style="text-align: center;"><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p>03/12-<br />
+01/01<br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2020年)" title="wikilink">續20年</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/午夜伴廊.md" title="wikilink">午夜伴廊</a><br />
+Midnight Cousin</p></td>
+<td style="text-align: center;"><p>20</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">2017年ViuTV劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>12月25日及26日暫停播映</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -1356,19 +1529,6 @@ Tokyo Sentimental Special</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>31/08</p></td>
-<td style="text-align: center;"><p><a href="../Page/大叔的愛.md" title="wikilink">大叔的愛 特別篇</a><br />
-Ossan's Love 2016</p></td>
-<td style="text-align: center;"><p>1</p></td>
-<td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
-</div></td>
-<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>），播映時間為20:30-21:30（開始播映後因臨時插播新聞報道而被腰斬）</p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
 <td style="text-align: center;"><p>02/10</p></td>
 <td style="text-align: center;"><p><br />
 Professor Eco</p></td>
@@ -1381,7 +1541,7 @@ Professor Eco</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p>08/10</p></td>
 <td style="text-align: center;"><p><br />
 Detective Katherine 2</p></td>
@@ -1390,6 +1550,55 @@ Detective Katherine 2</p></td>
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">2018年ViuTV劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>），播映時間為03:30-05:45</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>20/10</p></td>
+<td style="text-align: center;"><p><br />
+Tokyo Sentimental SP</p></td>
+<td style="text-align: center;"><p>1</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">2017年ViuTV劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a>），播映時間為12:30-14:00</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>26/12</p></td>
+<td style="text-align: center;"><p><br />
+Wedding Bells for the Otaku?</p></td>
+<td style="text-align: center;"><p>1</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">2018年ViuTV劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/關西電視台.md" title="wikilink">關西電視台</a>），播映時間為09:00-10:30</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>28/12</p></td>
+<td style="text-align: center;"><p><a href="../Page/大叔的愛.md" title="wikilink">大叔的愛 特別篇</a><br />
+Ossan's Love 2016</p></td>
+<td style="text-align: center;"><p>1</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>），播映時間為21:30-22:30（本劇曾於8月31日20:30-21:30開始播映幾分鐘後，因臨時插播新聞報道而被腰斬）</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

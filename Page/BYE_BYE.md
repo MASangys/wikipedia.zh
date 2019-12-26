@@ -18,49 +18,24 @@
 
 ## 收录
 
-  - 全部曲目均由[宫崎朝子](https://zh.wikipedia.org/wiki/宫崎朝子 "wikilink")[作词](https://zh.wikipedia.org/wiki/作詞 "wikilink")[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")。
-
-<!-- end list -->
-
-1.  BYE BYE
-      -
-
-          -
-            Benesse中学补习讲座“难以打发的夏季”广告歌
-2.  笑容的魔法（）
-      -
-
-          -
-            [富士电视台](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")《[唤醒周六](../Page/週六鬧鐘新聞.md "wikilink")》节目主题曲
-            [神奈川电视台](https://zh.wikipedia.org/wiki/神奈川电视台 "wikilink")《Fight\!川崎前锋》节目结尾曲
-
 ## 参考资料
 
 ## 外部链接
 
   - [Artist Interview SHISHAMO - JOYSOUND](https://www.joysound.com/web/s/karaoke/interview/201709/02)
-  - [毎年挑戦的なサマーアンセムを作り続けてきたSHISHAMOから、シングル『BYE BYE』が到着。確かなる成長と変化を、宮崎朝子、赤裸々に語る！ - MUSICA](http://musica-net.jp/articles/preview/6227/)
+  - [ - MUSICA](http://musica-net.jp/articles/preview/6227/)
 
 [Category:SHISHAMO](https://zh.wikipedia.org/wiki/Category:SHISHAMO "wikilink") [Category:2017年单曲](https://zh.wikipedia.org/wiki/Category:2017年单曲 "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.

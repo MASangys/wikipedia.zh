@@ -30,5 +30,4 @@
 [Category:索尼相機](https://zh.wikipedia.org/wiki/Category:索尼相機 "wikilink") [Category:2017年面世的相機](https://zh.wikipedia.org/wiki/Category:2017年面世的相機 "wikilink")
 
 1.
-
 2.

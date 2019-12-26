@@ -39,21 +39,13 @@
 [Category:乃木坂46](https://zh.wikipedia.org/wiki/Category:乃木坂46 "wikilink") [Category:2018年音樂](https://zh.wikipedia.org/wiki/Category:2018年音樂 "wikilink") [Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink") [Category:2019年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2019年音樂相關影像作品 "wikilink") [Category:新宿區](https://zh.wikipedia.org/wiki/Category:新宿區 "wikilink") [Category:长条目名](https://zh.wikipedia.org/wiki/Category:长条目名 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.

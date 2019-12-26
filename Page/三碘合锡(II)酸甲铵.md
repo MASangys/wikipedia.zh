@@ -17,13 +17,8 @@
 [Category:锡化合物](https://zh.wikipedia.org/wiki/Category:锡化合物 "wikilink") [Category:碘代酸盐](https://zh.wikipedia.org/wiki/Category:碘代酸盐 "wikilink") [Category:甲铵盐](https://zh.wikipedia.org/wiki/Category:甲铵盐 "wikilink") [Category:钙钛矿结构](https://zh.wikipedia.org/wiki/Category:钙钛矿结构 "wikilink")
 
 1.
-
 2.
-
 3.   ([Supporting Information (PDF)](https://pubs.acs.org/doi/suppl/10.1021/ic401215x/suppl_file/ic401215x_si_001.pdf))
-
 4.
-
 5.
-
 6.

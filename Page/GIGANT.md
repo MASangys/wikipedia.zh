@@ -52,10 +52,10 @@
 <td><p>2019年4月23日</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>4</p></td>
+<td><p>2019年8月30日</p></td>
+<td><p>ISBN 978-4-09-860424-1</p></td>
+<td><p>2019年10月25日</p></td>
 </tr>
 </tbody>
 </table>

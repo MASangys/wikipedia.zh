@@ -37,7 +37,7 @@ function p._redirectDistinguish(args)
 `   local redirect = table.remove(args, 1)`
 `   local image = '`[`Disambig_gray.svg`](https://zh.wikipedia.org/wiki/File:Disambig_gray.svg "fig:Disambig_gray.svg")`'`
 `   local text = string.format(`
-`       '「\'\'\'-{zh;zh-hans;zh-hant;|%s}-\'\'\'」-{zh-hans:重定向;zh-hant:重新導向;}-至此。它不应与%s相混淆。',`
+`       '「\'\'\'-{zh;zh-hans;zh-hant;|%s}-\'\'\'」-{zh-hans:重定向;zh-hant:重新導向;}-至此，您可能想尋找頁面%s。',`
 `       redirect,`
 `       mHatlist.orList(args, true, true)`
 `   )`

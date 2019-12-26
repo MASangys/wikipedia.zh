@@ -33,13 +33,9 @@ Kurt J. Mac是[吉尼斯世界记录](https://zh.wikipedia.org/wiki/吉尼斯世
 [Category:YouTube視訊](https://zh.wikipedia.org/wiki/Category:YouTube視訊 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
-
 7.

@@ -2,11 +2,11 @@
 
 ## 劇情大綱
 
-「dele.LIFE」事務所，協助顧客在死亡後刪除不想被人看到的資料，由阪上圭司（山田孝之 飾）成立營運，圭司的姊姊阪上舞是一名律師，在律師事務所的業務中發掘真柴祐太郎（菅田將暉 飾）有特殊的潛力，便將他轉介到圭司的事務所做助手，原為很簡單的流程只要確認死亡便刪除資料，但在對當事人瞭解越深後，越難決定是否就這樣按下delete鍵 ...
+「dele.LIFE」事務所，協助顧客在死亡後刪除不想被人看到的資料，由坂上圭司（山田孝之 飾）成立營運，圭司的姊姊坂上舞（麻生久美子 飾）是一名律師，在律師事務所的業務中發掘真柴祐太郎（菅田將暉 飾）有特殊的潛力，便將他轉介到圭司的事務所做助手，原為很簡單的流程只要確認死亡便刪除資料，但在對當事人瞭解越深後，越難決定是否就這樣按下delete鍵⋯⋯
 
 ## 登場人物
 
-  - 阪上圭司 － [山田孝之](../Page/山田孝之.md "wikilink")
+  - 坂上圭司 － [山田孝之](../Page/山田孝之.md "wikilink")
     冷靜聰明的電腦駭客，因不明的疾病下身癱瘓需坐輪椅，處理案件原則原為確認死亡便刪除資料，從不開啟客戶個人隱私，自從搭檔祐太郎加入後，開始動搖，並一同與祐太郎深入委託人的人生。
 
 <!-- end list -->
@@ -16,8 +16,8 @@
 
 <!-- end list -->
 
-  - 阪上 舞－[麻生久美子](../Page/麻生久美子.md "wikilink")
-    阪上法律事務所主持律師，不時會引薦案件到dele.LIFE事務所，對弟弟圭司孤僻的行徑很擔心，因此希望幫他找個助手，便找上祐太郎。
+  - 坂上舞－[麻生久美子](../Page/麻生久美子.md "wikilink")
+    坂上法律事務所主持律師，不時會引薦案件到dele.LIFE事務所，對弟弟圭司孤僻的行徑很擔心，因此希望幫他找個助手，便找上祐太郎。
 
 #### 客串演員
 
@@ -31,11 +31,11 @@
 
 :\* 安岡俊（安岡與由季的兒子） - 川口和空
 
-:\* 小池勲（警察廳城南警察署 刑事部組織犯罪對策部 警部補） - [湯江タケユキ](https://zh.wikipedia.org/wiki/湯江タケユキ "wikilink")
+:\* 小池勳（警察廳城南警察署 刑事部組織犯罪對策部 警部補） - [湯江タケユキ](https://zh.wikipedia.org/wiki/湯江タケユキ "wikilink")
 
-:\* 内海忠彦（警視庁城南警察署 刑事部組織犯罪對策部 巡査部長） - [高橋良平](https://zh.wikipedia.org/wiki/高橋良平 "wikilink")
+:\* 內海忠彥（警視廳城南警察署 刑事部組織犯罪對策部 巡査部長） - [高橋良平](https://zh.wikipedia.org/wiki/高橋良平 "wikilink")
 
-:\* 三浦康介（警視庁城南警察署 刑事部組織犯罪對策課 巡査部長） - [藤原智之](https://zh.wikipedia.org/wiki/藤原智之 "wikilink")
+:\* 三浦康介（警視廳城南警察署 刑事部組織犯罪對策課 巡査部長） - [藤原智之](https://zh.wikipedia.org/wiki/藤原智之 "wikilink")
 
 :\* 檢控官 - [岩田知幸](https://zh.wikipedia.org/wiki/岩田知幸 "wikilink")
 
@@ -51,11 +51,11 @@
 
   - 第2話
 
-:\* 宮内詩織（Girls Bar「GAFF」店員 兼 Girls band「The Mints」成員） - [コムアイ](https://zh.wikipedia.org/wiki/コムアイ "wikilink") ★
+:\* 宮內詩織（Girls Bar「GAFF」店員 兼 Girls band「The Mints」成員） - [コムアイ](https://zh.wikipedia.org/wiki/コムアイ "wikilink") ★
 
 :\* 春田沙也加（Girls Bar「GAFF」店員 兼 Girls Band「The Mints」主音） - [石橋静河](https://zh.wikipedia.org/wiki/石橋静河 "wikilink")
 
-:\* 宮内康子（詩織母親・宮内妻子） - [辻沢杏子](https://zh.wikipedia.org/wiki/辻沢杏子 "wikilink")
+:\* 宮內康子（詩織母親・宮內妻子） - [辻沢杏子](https://zh.wikipedia.org/wiki/辻沢杏子 "wikilink")
 
 :\* 安奈（Girls Bar「GAFF」店員 兼 Girls Band「The Mints」） - [夏子](https://zh.wikipedia.org/wiki/夏子 "wikilink")
 
@@ -67,7 +67,7 @@
 
 :\* 詩織的公寓鄰居 - [米澤史織](https://zh.wikipedia.org/wiki/米澤史織 "wikilink")
 
-:\* 宮内正路（詩織父親・東都フィルハーモニーの指揮者） - [中村育二](https://zh.wikipedia.org/wiki/中村育二 "wikilink")
+:\* 宮內正路（詩織父親・東都フィルハーモニーの指揮者） - [中村育二](https://zh.wikipedia.org/wiki/中村育二 "wikilink")
 
   -
 
@@ -99,7 +99,7 @@
 
 :\* 鎌田直樹（電視台的常務董事） - [佐藤貢三](https://zh.wikipedia.org/wiki/佐藤貢三 "wikilink")
 
-:\* 宗澤地産 職員 - [諏訪太朗](https://zh.wikipedia.org/wiki/諏訪太朗 "wikilink")
+:\* 宗澤地產 職員 - [諏訪太朗](https://zh.wikipedia.org/wiki/諏訪太朗 "wikilink")
 
 :\* 松井恭子（松井妻子・25年前失蹤） - [小出奈央](https://zh.wikipedia.org/wiki/小出奈央 "wikilink")
 
@@ -123,7 +123,7 @@
 
   - 第5話
 
-:\* 楠瀬百合子（聰史的青梅竹馬） - [橋本愛](../Page/橋本愛.md "wikilink")
+:\* 楠瀨百合子（聰史的青梅竹馬） - [橋本愛](../Page/橋本愛.md "wikilink")
 
 :\* 宮田翔（聰史的朋友） - [渡邊大知](https://zh.wikipedia.org/wiki/渡邊大知 "wikilink")（[黒猫チェルシー](https://zh.wikipedia.org/wiki/黒猫チェルシー "wikilink")）
 
@@ -135,7 +135,7 @@
 
 :\* 調酒師 - [朝日花奈](https://zh.wikipedia.org/wiki/朝日花奈 "wikilink")
 
-:\* 澤渡明奈（圭司前女友） - [柴田咲](https://zh.wikipedia.org/wiki/柴田咲 "wikilink")
+:\* 澤渡明奈（圭司前女友） - [柴崎幸](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")
 
   - 第6話
 
@@ -145,7 +145,7 @@
 
 :\* 石森美穂（純子母親・石森妻子） - [霧島れいか](https://zh.wikipedia.org/wiki/霧島れいか "wikilink")
 
-:\* 廣瀬（食夢獏） - [平原テツ](https://zh.wikipedia.org/wiki/平原テツ "wikilink")
+:\* 廣瀨（食夢獏） - [平原テツ](https://zh.wikipedia.org/wiki/平原テツ "wikilink")
 
 :\* 石森俊一（純子父親） - [横田榮司](https://zh.wikipedia.org/wiki/横田榮司 "wikilink")
 

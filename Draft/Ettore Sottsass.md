@@ -23,17 +23,10 @@
 [Category:意大利设计师](https://zh.wikipedia.org/wiki/Category:意大利设计师 "wikilink") [Category:意大利建筑师](https://zh.wikipedia.org/wiki/Category:意大利建筑师 "wikilink") [Category:2007年逝世](https://zh.wikipedia.org/wiki/Category:2007年逝世 "wikilink") [Category:1917年出生](https://zh.wikipedia.org/wiki/Category:1917年出生 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  [Ettore Sottsass](https://www.telegraph.co.uk/news/obituaries/1574260/Ettore-Sottsass.html). *The Telegraph*. 2 January 2008
-
 5.
-
 6.
-
 7.
-
 8.

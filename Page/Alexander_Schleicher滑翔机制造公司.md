@@ -62,7 +62,7 @@
   - [ASW 22](https://zh.wikipedia.org/wiki/Schleicher_ASW_22滑翔机 "wikilink")-2, ASH 25的原型 ([Offene Klasse](https://zh.wikipedia.org/wiki/Wettbewerbsklasse#Offene_Klasse "wikilink"))
   - [ASH 25](https://zh.wikipedia.org/wiki/Schleicher_ASH_25滑翔机 "wikilink"), 还包括有动力型号ASH 25E, M 和 Mi 以及 ASH25 EB27 和 ASH25 EB28
   - [ASH 30 Mi](https://zh.wikipedia.org/wiki/Schleicher_ASH_30_Mi滑翔机 "wikilink")
-  - [ASG 32](https://zh.wikipedia.org/wiki/Schleicher_ASG_32滑翔机 "wikilink"), 以及有动力型号ASG 32Mi和带电动辅助发动机的ASG 32EL
+  - [ASG 32](https://zh.wikipedia.org/wiki/Schleicher_ASG_32 "wikilink"), 以及有动力型号ASG 32Mi和带电动辅助发动机的ASG 32EL
 
 ## 文献
 

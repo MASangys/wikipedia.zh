@@ -72,7 +72,7 @@
 <td><p><a href="../Page/李順載.md" title="wikilink">李順載</a></p></td>
 <td><p>具世宗</p></td>
 <td><p>高太林律師事務所業務員兼執事，是一個無所不能的萬能長輩。從泰林離開B&amp;G，獨自開設事務所開始，他就成爲了泰林的事務長。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃志明" title="wikilink">黃志明</a></p></td>
+<td><p><a href="../Page/黃志明_(香港).md" title="wikilink">黃志明</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

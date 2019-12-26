@@ -242,18 +242,11 @@
 [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:香港演唱團體](https://zh.wikipedia.org/wiki/Category:香港演唱團體 "wikilink")
 
 1.
-
 2.
-
 3.
 4.   關於我們|work= [Facebook](../Page/Facebook.md "wikilink")}}
-
 5.
-
 6.
-
 7.
-
 8.   Instagram Post|date= |}}
-
 9.

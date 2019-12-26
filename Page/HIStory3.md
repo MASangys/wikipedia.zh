@@ -37,7 +37,7 @@
 <tr class="odd">
 <td><p>那一天</p></td>
 <td><center>
-<p>2019年10月16日-</p></td>
+<p>2019年10月16日-2019年12月18日</p></td>
 <td><p>週三 21:00(一天播兩集)</p></td>
 <td></td>
 <td></td>
@@ -83,7 +83,7 @@
 <td><center>
 <p><a href="../Page/卞慶華.md" title="wikilink">卞慶華</a></p></td>
 <td><center>
-<p>Jack (方亮典)</p></td>
+<p>Jack （方亮典）</p></td>
 <td><p>唐毅的得力左右手，也是唐毅的貼身保鑣，協助唐毅進行行天盟的漂白工作。真相是國際刑警科隊員臥底，個性亦正亦邪，當過傭兵的他，利益絕對是優先考量，無謂生死，只想享受當下，看盡人性的黑暗，為達目的在所不惜。 由於少飛糾纏著唐毅，因此認識被自己一騙再騙還是上當的傻子趙立安，他很好奇身為刑警的趙子，在看過這麼多現實險惡之後，居然還能抱持著人性本善的初衷？因此被他的單純吸引，為了守護這份純真，因此開始有定下來的念頭。</p></td>
 </tr>
 <tr class="odd">
@@ -399,7 +399,7 @@
 
 ### 劇情大綱
 
-人仁高中的校園霸王項豪廷(宋緯恩 飾)因為一個女人遇上高冷學霸于希顧(黃雋智 飾)，共譜一段不打不相識到相愛的浪漫戀曲。熱血青年孫博翔(劉韋辰 飾)一見鐘情盧志剛(張瀚元 飾)上演一段勇敢追求初戀的甜虐情事。他們都在平凡無奇的校園生活中，遇見最好的那個他！
+人仁高中的校園霸王項豪廷(宋緯恩 飾)因為一個女人遇上高冷學霸-{于}-希顧(黃雋智 飾)，共譜一段不打不相識到相愛的浪漫戀曲。熱血青年孫博翔(劉韋辰 飾)一見鐘情盧志剛(張瀚元 飾)上演一段勇敢追求初戀的甜虐情事。他們都在平凡無奇的校園生活中，遇見最好的那個他！
 
 ### 演員列表
 
@@ -419,14 +419,14 @@
 <td><center>
 <p><a href="../Page/宋緯恩.md" title="wikilink">宋緯恩</a></p></td>
 <td><center>
-<p>项豪廷</p></td>
-<td><p>活潑好動，做事單憑情緒，是個天不怕地不怕的人物。 頭腦不錯，但總是不想花時間在學習上，曾經考過全年級第二名，但自此之後成績如跳崖似的一落千丈，萬劫不復，連父母都拿他沒轍。 因為成天與朋友們嘻嘻哈哈，打打鬧鬧，惹出不少事情，不羈的個性，吸引了校園中不少的目光，是學校裡的風雲人物。</p></td>
+<p>項豪廷</p></td>
+<td><p>活潑好動，做事單憑情緒，是個天不怕地不怕的人物。 頭腦不錯，但總是不想花時間在學習上，曾經考過全年級第二名，但自此之後成績如跳崖似的一落千丈，萬劫不復，連父母都拿他沒轍。因為成天與朋友們嘻嘻哈哈，打打鬧鬧，惹出不少事情，不羈的個性，吸引了校園中不少的目光，是學校裡的風雲人物。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/黃雋智" title="wikilink">黃雋智</a></p></td>
 <td><center>
-<p>于希顧</p></td>
+<p>-{于}-希顧</p></td>
 <td><p>個性獨立，不喜歡佔人便宜，也討厭被同情。 父母因為意外雙雙離世，從小就寄養在姑姑家。但後來不想再增加姑姑的負擔，便努力用功爭取獎學金，並靠著自己課餘打工的錢，過著自給自足的簡單生活。 因為沒有多餘的錢可以跟同學們吃喝玩樂，因此也沒有什麼同輩朋友，漸漸的就變成了校園中的獨行俠，女學生也將其視為如謫仙般的人物。</p></td>
 </tr>
 <tr class="even">
@@ -434,107 +434,138 @@
 <p><a href="../Page/張瀚元.md" title="wikilink">張瀚元</a></p></td>
 <td><center>
 <p>盧志剛</p></td>
-<td></td>
+<td><p>正直善良，熱心助人。因為過往失敗的戀愛經歷，而害怕敞開心胸。　 雖說是白手起家，但經濟環境不錯，有著自己的事業。-{于}-希顧在他的店裡打工，知道他的生活經濟狀況不好，平時很照顧他，總會準備一些食物餵養-{于}-希顧。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p>劉韋辰</p></td>
+<p><a href="https://zh.wikipedia.org/wiki/劉韋辰_(演員)" title="wikilink">劉韋辰</a></p></td>
 <td><center>
 <p>孫博翔</p></td>
-<td></td>
+<td><p>個性單純、衝動，做事經常一往無前，不計後果。項豪廷的好朋友。 因為被堂哥孫文傑叫去顧自家開的健身房，而認識了健身房的會員盧志剛，並對他一見鐘情；是項豪廷感情路上的一盞明燈，但自己的感情路也走的不順遂。</p></td>
 </tr>
 <tr class="even">
 <td><center>
-<p>夏恩</p></td>
-<td><center></td>
-<td></td>
-</tr>
-<tr class="odd">
+<p><a href="https://zh.wikipedia.org/wiki/于子育" title="wikilink">-{于}-子育</a></p></td>
 <td><center>
-<p>夏得</p></td>
-<td><center></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>王真琳</p></td>
-<td><center>
-<p>李思妤</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>何禹賢</p></td>
-<td><center></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>蔡曜仲</p></td>
-<td><center></td>
-<td></td>
+<p>林彩珠</p></td>
+<td><p>項慶昌的妻子，好不容易在許多粉絲中脫穎而出，與項慶昌相知相愛，生下豪廷和詠晴。 個性有如暖陽，熱心助人又熱情待人，能設身處地替人著想，因此在鄰里間人緣很好，被拱做里長。當丈夫與兒子發生衝突時，總跳出來解決紛爭的和事佬。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p><a href="../Page/陳如山.md" title="wikilink">陳如山</a></p></td>
-<td><center></td>
-<td></td>
+<td><center>
+<p>項慶昌</p></td>
+<td><p>豪廷和詠晴的父親，是知名的樂團主唱，老婆曾是自己的粉絲。 因為擔心兒子項豪廷會愈走愈偏，所以對他很嚴格，總是跟他拳腳相向。表面上看似固執嚴厲，但事實上很在意兒子的想法，是個外剛內柔的爸爸。</p></td>
 </tr>
 <tr class="even">
 <td><center>
-<p>石承鎬</p></td>
-<td><center></td>
-<td></td>
+<p><a href="https://zh.wikipedia.org/wiki/許明杰" title="wikilink">許明-{杰}-</a></p></td>
+<td><center>
+<p>孫文傑</p></td>
+<td><p>孫博翔的堂哥，健身房老闆。</p></td>
 </tr>
 <tr class="odd">
+<td><center>
+<p><a href="../Page/陳禕倫.md" title="wikilink">陳禕倫</a></p></td>
+<td><center>
+<p>John</p></td>
+<td><p>盧志剛的朋友，酒吧老闆。</p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/夏恩" title="wikilink">夏恩</a></p></td>
+<td><center>
+<p>夏恩</p></td>
+<td><p>人仁高中的學生。 夏得的雙胞胎哥哥，項豪廷的朋友。家境不俗，經常吐露出有錢人的氣息，與項豪廷、孫博翔、高群同在一個班級。</p>
+<p>雖說很有義氣，但個性衝動，喜歡用拳頭解決事情。</p></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/夏得" title="wikilink">夏得</a></p></td>
+<td><center>
+<p>夏得</p></td>
+<td><p>人仁高中的學生。 夏恩的雙胞胎弟弟，項豪廷的朋友。與-{于}-希顧同班。</p>
+<p>對於-{于}-希顧因為夏恩的挑撥，而被朋友們針對的情形，懷有歉意，因此經常偷偷關懷著-{于}-希顧，並在兄弟們聚會中替-{于}-希顧說話。</p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/石承鎬" title="wikilink">石承鎬</a></p></td>
+<td><center>
+<p>高群</p></td>
+<td><p>人仁高中的學生。 項豪廷的好朋友。朋友們都稱他為校園歐爸。</p>
+<p>雖說同項豪廷那群火爆份子做朋友，但因為家教嚴格，個性較為溫馴，經常被兄弟們戲耍逗弄，也總是笑臉迎人。兄弟間與夏恩感情最好，被夏恩暱稱為高小群。</p></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/王真琳" title="wikilink">王真琳</a></p></td>
+<td><center>
+<p>李思妤</p></td>
+<td><p>長得漂亮，功課也不錯，喜歡被人關注的感覺，和項豪廷交往中，但是對-{于}-希顧也很感興趣。</p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/蔡牧霏" title="wikilink">蔡牧霏</a></p></td>
+<td><center>
+<p>項詠晴</p></td>
+<td><p>項家的掌上明珠，古靈精怪，觀察力敏銳，總是能用不一樣的角度去觀察事情，是個很有自己想法的女孩。跟哥哥項豪廷感情很好，經常用言語跟行動默默支持著哥哥。</p></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/何禹賢" title="wikilink">何禹賢</a></p></td>
+<td><center>
+<p>張庭安</p></td>
+<td><p>五班同學。</p></td>
+</tr>
+<tr class="even">
 <td><center>
 <p><a href="../Page/紀欣伶.md" title="wikilink">紀欣伶</a></p></td>
-<td><center></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><center>
-<p>孫英豪</p></td>
-<td><center></td>
-<td></td>
+<p>劉美芳</p></td>
+<td><p>-{于}-希顧的鐵粉。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p>-{<a href="https://zh.wikipedia.org/wiki/于子育" title="wikilink">于子育</a>}-</p></td>
-<td><center></td>
-<td></td>
+<p><a href="https://zh.wikipedia.org/wiki/蔡曜仲" title="wikilink">蔡曜仲</a></p></td>
+<td><center>
+<p>安柏</p></td>
+<td><p>二班同學。</p></td>
 </tr>
 <tr class="even">
 <td><center>
-<p>-{<a href="../Page/陳禕倫.md" title="wikilink">陳禕倫</a>}-</p></td>
+<p><a href="https://zh.wikipedia.org/wiki/孫英豪" title="wikilink">孫英豪</a></p></td>
 <td><center></td>
-<td></td>
+<td><p>八班同學。</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+<td><center>
+<p><a href="../Page/吳珝陽.md" title="wikilink">吳珝陽</a></p></td>
+<td><center></td>
+<td><p>盧志剛的大學學長，曾經和盧志剛交往過後分開。</p></td>
 </tr>
 </tbody>
 </table>
 
 ### 戲劇歌曲
 
-|        |        |         |        |        |        |
-| ------ | ------ | ------- | ------ | ------ | ------ |
-| **曲別** | **歌名** | **演唱者** | **作詞** | **作曲** | **備註** |
-| 片頭曲    |        |         |        |        |        |
-| 片尾曲    |        |         |        |        |        |
-| 插曲     |        |         |        |        |        |
-|        |        |         |        |        |        |
+|        |                                                                                       |                                                                                                    |                                                                                                         |                                  |
+| ------ | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| **曲別** | **歌名**                                                                                | **演唱者**                                                                                            | **作詞**                                                                                                  | **作曲**                           |
+| 片頭曲    | 再活一遍                                                                                  | [蕭秉治](../Page/蕭秉治.md "wikilink")                                                                   | [蕭秉治](../Page/蕭秉治.md "wikilink")、[吳聖皓](../Page/麋先生.md "wikilink")                                       | [林喆安](../Page/麋先生.md "wikilink") |
+| 片尾曲    | 我還是不懂                                                                                 | [魏嘉瑩](https://zh.wikipedia.org/wiki/魏嘉瑩 "wikilink")                                                |                                                                                                         |                                  |
+| 插曲     | HEY                                                                                   | [麋先生](../Page/麋先生.md "wikilink")                                                                   | [吳聖皓](../Page/麋先生.md "wikilink")                                                                        | [林喆安](../Page/麋先生.md "wikilink") |
+| 安全感    | [家家](https://zh.wikipedia.org/wiki/家家 "wikilink")                                     | [崔惟楷](https://zh.wikipedia.org/wiki/崔惟楷 "wikilink")                                                | [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")、[王詩安](https://zh.wikipedia.org/wiki/王詩安 "wikilink") |                                  |
+| 我們不像我們 | [丁噹](../Page/丁噹.md "wikilink")                                                        | [白吟洁](https://zh.wikipedia.org/wiki/白吟洁 "wikilink")                                                | [李宏斌](https://zh.wikipedia.org/wiki/李宏斌 "wikilink")、[吳周爍](https://zh.wikipedia.org/wiki/吳周爍 "wikilink") |                                  |
+| 最想見到你  | [白安](../Page/白安.md "wikilink")                                                        |                                                                                                    |                                                                                                         |                                  |
+| 跪了     | [鼓鼓](https://zh.wikipedia.org/wiki/鼓鼓 "wikilink") ft.[吳卓源](../Page/吳卓源.md "wikilink") | [鼓鼓](https://zh.wikipedia.org/wiki/鼓鼓 "wikilink") ft.[吳卓源](../Page/吳卓源.md "wikilink")、老王 Terry Lee |                                                                                                         |                                  |
 
 ### 製作團隊
 
-  - 出品人：
-  - 導演：[蔡宓洁](https://zh.wikipedia.org/wiki/蔡宓洁 "wikilink")
-  - 編劇：邵慧婷
-  - 監製：張庭斐
+  - 出品人：姜玄玭
+  - 監製：張庭翡
   - 製作人：葉昱呈
+  - 助理監製：陳祥瑛
+  - 編劇：邵慧婷
+  - 導演：[蔡宓潔](../Page/蔡宓潔.md "wikilink")
   - 製作公司：巧克科技新媒體
 
 ## 紀事
@@ -545,10 +576,19 @@
   - 2019年4月11日《圈套》記者會。
   - 2019年4月11日《圈套》試映會。
   - 2019年4月16日《圈套》開播。
+
+<!-- end list -->
+
   - 2019年5月16日《那一天》開鏡。
+
+<!-- end list -->
+
   - 2019年6月12日《圈套》完結篇。
   - 2019年6月29日《圈套》臺北場見面會。
-  - 2019年6月29日《那一天》殺青。哈哈
+
+<!-- end list -->
+
+  - 2019年6月29日《那一天》殺青。
 
 <!-- end list -->
 
@@ -557,6 +597,12 @@
   - 2019年8月10日《圈套》曼谷場見面會。
   - 2019年8月18日《圈套》臺中場見面會。
   - 2019年8月24日《圈套》首爾場見面會。
+
+<!-- end list -->
+
+  - 2019年10月8日《那一天》試映會。
+  - 2019年10月14日《那一天》記者會。
+  - 2019年10月16日《那一天》開播。
 
 ## 參考資料
 

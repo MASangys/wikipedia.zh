@@ -72,15 +72,33 @@
 <td><p>9</p></td>
 <td><p>9月30日</p></td>
 <td></td>
-<td></td>
+<td><p><a href="../Page/Haha.md" title="wikilink">Haha</a></p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
 <td><p>10月7日</p></td>
+<td><p>J-Black</p></td>
+<td><p><a href="../Page/Boom_(藝人).md" title="wikilink">Boom</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>10月14日</p></td>
+<td><p><a href="../Page/Brown_Eyed_Girls.md" title="wikilink">Brown Eyed Girls</a> (<a href="../Page/朴效真.md" title="wikilink">Narsha</a>、<a href="../Page/趙美慧.md" title="wikilink">Miryo</a>)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>10月21日</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>13</p></td>
+<td><p>11月11日</p></td>
+<td><p><a href="../Page/Ladies&#39;_Code.md" title="wikilink">Ladies' Code</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -102,10 +120,10 @@
 | 4      | 8月26日 | 0.917％ |
 | 5      | 9月2日  | 1.194％ |
 | 6      | 9月9日  | 1.047％ |
-| 7      | 9月16日 | ％      |
-| 8      | 9月23日 | ％      |
-| 9      | 9月30日 | ％      |
-| 10     | 10月7日 | ％      |
+| 7      | 9月16日 | 1.105％ |
+| 8      | 9月23日 | 0.915％ |
+| 9      | 9月30日 | 1.007％ |
+| 10     | 10月7日 | 1.093％ |
 |        |       |        |
 
 ## 註釋與參考資料

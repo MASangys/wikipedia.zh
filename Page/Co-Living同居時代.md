@@ -125,37 +125,59 @@
 
 ### 同居小夥伴
 
-| 暱稱        | 本名          | 年紀 | 星座  | 備註    |
-| --------- | ----------- | -- | --- | ----- |
-| 子龍        | **張子龍**     | 27 | 雙魚座 |       |
-| Miya(雅芬)  | **蕭雅芬**     | 31 | 水瓶座 |       |
-| Danny     | **徐晧庭**     | 28 | 牡羊座 |       |
-| 宛旂(Oscar) | **李宛旂**     | 20 | 獅子座 | EP1-5 |
-| MARCUS    | **馬愷-{杰}-** | 40 | 處女座 | EP1-4 |
-| Nikki     | **徐明郁**     | 24 | 處女座 |       |
-|           | **黃禹森**     | 25 | 雙魚座 | EP5-  |
-|           | **鄭欣倫**     | 22 | 雙子座 |       |
-| Mandy     | ''''''      |    | 天平座 |       |
-|           |             |    |     |       |
+| 暱稱        | 本名          | 年紀 | 星座  | 備註     |
+| --------- | ----------- | -- | --- | ------ |
+| 子龍        | **張子龍**     | 27 | 雙魚座 |        |
+| Miya(雅芬)  | **蕭雅芬**     | 31 | 水瓶座 | EP1-12 |
+| Danny     | **徐晧庭**     | 28 | 牡羊座 |        |
+| 宛旂(Oscar) | **李宛旂**     | 20 | 獅子座 | EP1-5  |
+| MARCUS    | **馬愷-{杰}-** | 40 | 處女座 | EP1-4  |
+| Nikki     | **徐明郁**     | 24 | 處女座 |        |
+| Mori      | **黃禹森**     | 25 | 雙魚座 | EP5-   |
+|           | **鄭欣倫**     | 22 | 雙子座 | EP6-   |
+| Mandy     | **賴柔甫**     | 26 | 天秤座 | EP11-  |
+|           |             |    |     |        |
 
 ### 節目內容
 
-| 正片集數 | 播放日期       | 名稱                                    | 晚餐來賓                                                                                                        | 感情糾察隊                                                                                  |
-| ---- | ---------- | ------------------------------------- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| EP1  | 2019年8月26日 | 夏季篇 Check in 初次見面 安安你好幾歲做什麼的呢?        | [苗可麗](../Page/苗可麗.md "wikilink")、[許孟哲](../Page/許孟哲.md "wikilink")、Lora、皇上(Arron)                            | [詹子晴](../Page/詹子晴.md "wikilink")(丫頭)、[小賴](https://zh.wikipedia.org/wiki/小賴 "wikilink") |
-| EP2  | 2019年9月2日  | 夏季篇 MEN'S TALK 球場帥一波 ft.哈孝遠 / 牛排每塊吃一口 | [許孟哲](../Page/許孟哲.md "wikilink")、[哈孝遠](../Page/哈孝遠.md "wikilink")、皇上(Arron)                                 | [曾智希](../Page/曾智希.md "wikilink")、[小賴](https://zh.wikipedia.org/wiki/小賴 "wikilink")     |
-| EP3  | 2019年9月9日  | 夏季篇 火熱的露營 ft.小優xVictor / 又濕又黏的肢體接觸    | [小優](https://zh.wikipedia.org/wiki/小優 "wikilink")、[Victor](https://zh.wikipedia.org/wiki/Victor "wikilink") | [李懿](../Page/李懿.md "wikilink")、[小賴](https://zh.wikipedia.org/wiki/小賴 "wikilink")       |
-| EP4  | 2019年9月16日 | 夏季篇 真心話大冒險?\! / 什麼真話我不聽               |                                                                                                             |                                                                                        |
-|      |            |                                       |                                                                                                             |                                                                                        |
+| 正片集數 | 播放日期        | 名稱                                    | 來賓                                                                                                          | 感情糾察隊                                                                                               |
+| ---- | ----------- | ------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| EP1  | 2019年8月26日  | 夏季篇 Check in 初次見面 安安你好幾歲做什麼的呢?        | [苗可麗](../Page/苗可麗.md "wikilink")、[許孟哲](../Page/許孟哲.md "wikilink")、Lora、皇上(Arron)                            | [詹子晴](../Page/詹子晴.md "wikilink")(丫頭)、[小賴](https://zh.wikipedia.org/wiki/小賴 "wikilink")              |
+| EP2  | 2019年9月2日   | 夏季篇 MEN'S TALK 球場帥一波 ft.哈孝遠 / 牛排每塊吃一口 | [許孟哲](../Page/許孟哲.md "wikilink")、[哈孝遠](../Page/哈孝遠.md "wikilink")、皇上(Arron)                                 | [曾智希](../Page/曾智希.md "wikilink")、[小賴](https://zh.wikipedia.org/wiki/小賴 "wikilink")                  |
+| EP3  | 2019年9月9日   | 夏季篇 火熱的露營 ft.小優xVictor / 又濕又黏的肢體接觸    | [小優](https://zh.wikipedia.org/wiki/小優 "wikilink")、[Victor](https://zh.wikipedia.org/wiki/Victor "wikilink") | [李懿](../Page/李懿.md "wikilink")、[小賴](https://zh.wikipedia.org/wiki/小賴 "wikilink")                    |
+| EP4  | 2019年9月16日  | 夏季篇 真心話大冒險?\! / 什麼真話我不聽               |                                                                                                             |                                                                                                     |
+| EP5  | 2019年9月23日  | 夏季篇 臉紅心跳的小遊戲 ft.ㄚ頭、茵聲 / 小夥伴禹森check in | [詹子晴](../Page/詹子晴.md "wikilink")(丫頭)、[茵聲](https://zh.wikipedia.org/wiki/茵聲 "wikilink")                      | [曾智希](../Page/曾智希.md "wikilink")、[大飛](https://zh.wikipedia.org/wiki/大飛 "wikilink")                  |
+| EP6  | 2019年9月30日  | 夏季篇 最佳女主角/小夥伴欣倫Check in               |                                                                                                             | [詹子晴](../Page/詹子晴.md "wikilink")(丫頭)、[小賴](https://zh.wikipedia.org/wiki/小賴 "wikilink")              |
+| EP7  | 2019年10月7日  | 夏季篇 第一次約會 / 有點尷尬怎麼辦(///▽///)          |                                                                                                             | [詹子晴](../Page/詹子晴.md "wikilink")(丫頭)、[小賴](https://zh.wikipedia.org/wiki/小賴 "wikilink")              |
+| EP8  | 2019年10月14日 | 夏季篇 NIKKI好害羞/桃花期來了\~\\(≧▽≦)/\~        |                                                                                                             | [小優](https://zh.wikipedia.org/wiki/小優 "wikilink")、[大飛](https://zh.wikipedia.org/wiki/大飛 "wikilink") |
+| EP9  | 2019年10月21日 | 夏季篇 皇姐駕到/Danny進攻了                     |                                                                                                             | Lora、皇上(Arron)                                                                                      |
+| EP10 | 2019年10月28日 | 夏季篇 老派聯誼之必要                           | [苗可麗](../Page/苗可麗.md "wikilink")、[小應](https://zh.wikipedia.org/wiki/小應 "wikilink")、Lora、皇上(Arron)           | [小賴](https://zh.wikipedia.org/wiki/小賴 "wikilink")、[大飛](https://zh.wikipedia.org/wiki/大飛 "wikilink") |
+| EP11 | 2019年11月4日  | 夏季篇 一起去海邊/小夥伴蔓蒂Check in               | Lora、皇上(Arron)                                                                                              | [小賴](https://zh.wikipedia.org/wiki/小賴 "wikilink")、[大飛](https://zh.wikipedia.org/wiki/大飛 "wikilink") |
+| EP12 | 2019年11月11日 | 夏季篇 美乃滋之亂/皇姐MIYA退房                    | Lora、皇上(Arron)                                                                                              | [詹子晴](../Page/詹子晴.md "wikilink")(丫頭)、[小賴](https://zh.wikipedia.org/wiki/小賴 "wikilink")              |
+| EP13 | 2019年11月18日 | 夏季篇 第二次約會/很勇敢但是不敢去遊樂園的孩子              |                                                                                                             | [小優](https://zh.wikipedia.org/wiki/小優 "wikilink")、[大飛](https://zh.wikipedia.org/wiki/大飛 "wikilink") |
+| EP14 | 2019年11月25日 | 夏季篇 是誰在算計/Real在哪裡                     |                                                                                                             | [小賴](https://zh.wikipedia.org/wiki/小賴 "wikilink")、[大飛](https://zh.wikipedia.org/wiki/大飛 "wikilink") |
+| EP15 | 2019年12月2日  | 夏季篇 給彼此的一句話/最後一晚大解放                   | [苗可麗](../Page/苗可麗.md "wikilink")                                                                            | [詹子晴](../Page/詹子晴.md "wikilink")(丫頭)、[小賴](https://zh.wikipedia.org/wiki/小賴 "wikilink")              |
+|      |             |                                       |                                                                                                             |                                                                                                     |
 
 ### 直播內容
 
-|            | 內容  | 主持人&來賓                    |
-| ---------- | --- | ------------------------- |
-| 2019年8月26日 | EP1 | 阿民、阿憲、Nikki、Miya、子龍、Danny |
-| 2019年9月2日  | EP2 | 阿民、阿憲、Nikki、Miya、子龍、Danny |
-| 2019年9月9日  | EP3 | 阿民、阿憲、Nikki、Miya、子龍、Danny |
-| 2019年9月16日 | EP4 | 阿民、阿憲、Nikki、Miya、子龍、Danny |
+|             | 內容   | 主持人&來賓                             |
+| ----------- | ---- | ---------------------------------- |
+| 2019年8月26日  | EP1  | 阿民、阿憲、Nikki、Miya、子龍、Danny          |
+| 2019年9月2日   | EP2  | 阿民、阿憲、Nikki、Miya、子龍、Danny          |
+| 2019年9月9日   | EP3  | 阿民、阿憲、Nikki、Miya、子龍、Danny          |
+| 2019年9月16日  | EP4  | 阿民、阿憲、Nikki、Miya、子龍、Danny          |
+| 2019年9月23日  | EP5  | 阿民、阿憲、Nikki、Miya、子龍、Danny          |
+| 2019年9月30日  | EP6  | 阿民、阿憲、Nikki、Miya、子龍、Danny          |
+| 2019年10月7日  | EP7  | 阿民、阿憲、Nikki、Miya、欣倫、子龍、Danny、禹森    |
+| 2019年10月14日 | EP8  | 阿民、阿憲、Nikki、Miya、欣倫、子龍、Danny、禹森    |
+| 2019年10月21日 | EP9  | 阿民、阿憲、Nikki、Miya、欣倫、子龍、Danny、禹森    |
+| 2019年10月28日 | EP10 | 阿民、阿憲、Nikki、Miya、欣倫、子龍、Danny、禹森    |
+| 2019年11月4日  | EP11 | 阿民、阿憲、Nikki、欣倫、子龍、Danny、禹森         |
+| 2019年11月11日 | EP12 | 阿民、阿憲、Miya、欣倫、蔓蒂、子龍、Danny、禹森       |
+| 2019年11月18日 | EP13 | 阿民、阿憲、Nikki、欣倫、蔓蒂、子龍、Danny、禹森      |
+| 2019年11月25日 | EP14 | 阿民、阿憲、Nikki、欣倫、蔓蒂、子龍、Danny、禹森      |
+| 2019年12月2日  | EP15 | 阿民、阿憲、Nikki、Miya、欣倫、蔓蒂、子龍、Danny、禹森 |
 
 ### 第二回合夏季篇歌曲
 
@@ -168,6 +190,6 @@
   -
   -
   -
-[Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink") [Category:台灣實境節目](https://zh.wikipedia.org/wiki/Category:台灣實境節目 "wikilink") [Category:網路節目](https://zh.wikipedia.org/wiki/Category:網路節目 "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:台視外購電視節目](https://zh.wikipedia.org/wiki/Category:台視外購電視節目 "wikilink")
+[Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink") [Category:台灣實境節目](https://zh.wikipedia.org/wiki/Category:台灣實境節目 "wikilink") [Category:臺灣網路節目](https://zh.wikipedia.org/wiki/Category:臺灣網路節目 "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:台視外購電視節目](https://zh.wikipedia.org/wiki/Category:台視外購電視節目 "wikilink")
 
 1.  [新實境秀節目《同居時代》新組合擦火花](https://www.ttv.com.tw/news/view/108030500030001/568)

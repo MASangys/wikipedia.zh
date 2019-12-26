@@ -34,82 +34,45 @@ Searx可以從82種不同的引擎中擷取所有類別的結果。這包含了�
 [Category:網路搜尋引擎](https://zh.wikipedia.org/wiki/Category:網路搜尋引擎 "wikilink") [Category:互聯網隱私軟件](https://zh.wikipedia.org/wiki/Category:互聯網隱私軟件 "wikilink")
 
 1.   Trisquel GNU/Linux - Run free\! |website=trisquel.info |language=en |access-date=2017-08-31}}
-
 2.
-
 3.   Me and my Shadow |access-date=2017-08-31}}
-
-4.   Glynsky and Pete |access-date=2017-08-31}}
-
+4.   Glynsky and Pete |access-date=2017-08-31 |archive-url=<https://web.archive.org/web/20170904155221/http://glynskyandpete.com/2016/08/01/new-search-kid-on-the-block/> |archive-date=2017-09-04 |dead-url=yes }}
 5.
-
 6.
-
 7.
-
 8.   Signor D |access-date=2017-08-31}}
-
 9.   Freedif |website=freedif.org |language=en-US |access-date=2017-08-30}}
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
 23.
 24.
-
 25.  Automating OSINT Blog |website=www.automatingosint.com |language=en-US |access-date=2017-08-31}}
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
 39.
 40.
-
 41.
-
 42.
-
 43.

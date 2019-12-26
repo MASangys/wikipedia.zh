@@ -1,12 +1,14 @@
+[190809_파나틱스,_매미_울음_가득한_8월_둘째주_출근길_(KBS_'뮤직뱅크(MUSICBANK)'_출근길).webm](https://zh.wikipedia.org/wiki/File:190809_파나틱스,_매미_울음_가득한_8월_둘째주_출근길_\(KBS_'뮤직뱅크\(MUSICBANK\)'_출근길\).webm "fig:190809_파나틱스,_매미_울음_가득한_8월_둘째주_출근길_(KBS_'뮤직뱅크(MUSICBANK)'_출근길).webm")
+
 **FANATICS**（）為韓國FENT推出的女子音樂組合。由允惠、鍍我與台灣成員[家儀](../Page/家儀.md "wikilink")\[1\]\[2\]組成小分隊[FLAVOR](../Page/FLAVOR.md "wikilink")，並在2018年11月26日發行出道曲《MILKSHAKE》率先出道，完整體於2019年8月6日發行出道曲《SUNDAY》出道。
 
 ## 歷程
 
 **出道前**
 
-**• 2016年**：李彩璘參加[PRODUCE 101以MIDAS練習生參加](../Page/PRODUCE_101.md "wikilink") 最終以87淘汰
+**• 2016年**：李彩璘以MIDAS練習生參加[PRODUCE 101最終以第](../Page/PRODUCE_101.md "wikilink")87名淘汰
 
-**• 2018年**：金鍍我參加[PRODUCE 48](../Page/PRODUCE_48.md "wikilink") 最終以23淘汰
+**• 2018年**：金鍍我參加[PRODUCE 48](../Page/PRODUCE_48.md "wikilink") 最終以第23名淘汰
 
 **2018年：小分隊[FLAVOR](../Page/FLAVOR.md "wikilink")率先出道**
 
@@ -100,6 +102,8 @@
 </tr>
 </tbody>
 </table>
+
+|獎項
 
 ## 影視作品
 

@@ -5,6 +5,5 @@
 [Category:德国保险公司](https://zh.wikipedia.org/wiki/Category:德国保险公司 "wikilink") [Category:1886年成立的公司](https://zh.wikipedia.org/wiki/Category:1886年成立的公司 "wikilink")
 
 1.
-
 2.
 3.

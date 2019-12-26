@@ -27,6 +27,12 @@
 
   - [realme XT／realme X2](https://zh.wikipedia.org/wiki/realme_XT "wikilink")
 
+  - realme X2 Pro\[4\]
+
+  - realme 5s<ref>
+
+[1](http://www.vtechgraphy.com/android/realme-5s-%e6%ad%a3%e5%bc%8f%e7%99%bc%e5%b8%83/)</ref>
+
 ## 参考资料
 
 [Category:OPPO](https://zh.wikipedia.org/wiki/Category:OPPO "wikilink") [Category:总部位于深圳的制造公司](https://zh.wikipedia.org/wiki/Category:总部位于深圳的制造公司 "wikilink") [Category:行動電話製造商](https://zh.wikipedia.org/wiki/Category:行動電話製造商 "wikilink") [Category:2018年建立的中国公司](https://zh.wikipedia.org/wiki/Category:2018年建立的中国公司 "wikilink") [Category:中国品牌](https://zh.wikipedia.org/wiki/Category:中国品牌 "wikilink")
@@ -34,3 +40,4 @@
 1.
 2.   Global|website=www.realme.com|language=|access-date=2018-09-29}}
 3.
+4.  [图文直播 realme X2 Pro和大师版发布 首发价2599元起](https://www.cnbeta.com/articles/tech/899209.htm)

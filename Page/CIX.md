@@ -1,6 +1,6 @@
-**CIX**（韓語：**씨아이엑스**），為韓國[C9娛樂旗下的五人男子團體](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")。成員包括[BX](../Page/李炳坤.md "wikilink")、[昇勳](../Page/金昇勳.md "wikilink")、[龍熙](https://zh.wikipedia.org/wiki/金龍熙 "wikilink")、[裵珍映](../Page/裵珍映.md "wikilink")及[炫晳](https://zh.wikipedia.org/wiki/尹炫晳 "wikilink")。2019年7月23日以第一張迷你專輯《HELLO》主打曲《Movie Star》正式出道。
+**CIX**（韓語：**씨아이엑스**），為韓國[C9娛樂旗下的五人男子團體](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")。成員包括[BX](../Page/李炳坤.md "wikilink")、[昇勳](../Page/金昇勳.md "wikilink")、[龍熙](https://zh.wikipedia.org/wiki/金龍熙 "wikilink")、[珍映及](../Page/裵珍映.md "wikilink")[炫晳](https://zh.wikipedia.org/wiki/尹炫晳 "wikilink")。2019年7月23日以第一張迷你專輯《HELLO》主打曲《Movie Star》正式出道。
 
-團體口號為：「In X\!大家好，我們是CIX。」
+團體口號為：「In X\!大家好，我們是CIX。」官方粉絲名為「FIX(픽스)」，有「Faith in X」的意思。
 
 ## 團體資料
 
@@ -33,17 +33,21 @@
 
 2019年2月26日起，公告團體暫名及成員，順序如下：珍映\[7\]、昇勳\[8\]、炫晳\[9\]、世訓、龍熙\[10\]、BX\[11\]。
 
-2019年4月4日，C9娛樂回應網上傳聞，確認金世訓高中二年級時，在學校曾有不當行為，但亦指出有部分誇大不實，由於事件具有爭議性，金世訓自願退出組合。\[12\]\[13\]
+4月4日，C9娛樂回應網上傳聞，確認金世訓高中二年級時，在學校曾有不當行為，但亦指出有部分誇大不實，由於事件具有爭議性，金世訓自願退出組合。\[12\]\[13\]
 
-2019年5月20日，公佈正式團名「**CIX(씨아이엑스)**」\[14\]。
+5月20日，公佈正式團名「**CIX(씨아이엑스)**」\[14\]。
 
-### 出道後
+### 出道後：推出首張迷你專輯、《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》首個一位、第二張迷你專輯
 
-2019年6月26日，宣布團體將在7月23日發行首張迷你專輯出道，7月24日舉行出道Showcase\[15\]。
+2019年7月23日推出首張迷你專輯出道，7月24日舉行出道Showcase\[15\]。
 
 7月5日，公佈首張迷你專輯《HELLO》的時程表\[16\]。
+
 7月23日，韓國時間下午6點，公開首張迷你專輯《HELLO》全輯音源及主打曲mv\[17\]。
+
 7月30日，出道後僅七天在音樂節目《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》奪下出道後首個一位\[18\]，為韓國男子組合以最短時間奪得初一位的第二位。
+
+11月19日，推出第二張迷你專輯《Chapter 2. Hello, Strange Place》作回歸\[19\]。
 
 ## 音樂作品
 
@@ -65,7 +69,18 @@
 <li>發行日期 ：2019年7月23日</li>
 <li>語言：韓語</li>
 <li>類型：K-POP</li>
-<li>銷量：72,883+ [19]</li>
+<li>銷量：72,883+ [20]</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>1=2st</strong></p></td>
+<td><p><strong>《HELLO CHAPTER 2. HELLO, STRANGE PLACE》</strong></p>
+<ul>
+<li>發行日期 ：2019年11月20日</li>
+<li>語言：韓語</li>
+<li>類型：K-POP</li>
+<li>銷量：</li>
 </ul></td>
 <td></td>
 </tr>
@@ -192,16 +207,31 @@
 
 | 年份    | |作品名稱                    | |期數 |
 | ----- | ------------------------ | --- |
-| 2019年 | 《Ｗ Korea magazine》\[20\] | 7月號 |
-| 2019年 | 《Arena Homme+》\[21\]     | 8月號 |
+| 2019年 | 《Ｗ Korea magazine》\[21\] | 7月號 |
+| 2019年 | 《Arena Homme+》\[22\]     | 8月號 |
 
 ## 獎項
 
 ### 大型頒獎禮獎項
 
-| 年份 | 頒獎典禮 | 獎項 | 結果 |
-| -- | ---- | -- | -- |
-|    |      |    |    |
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>頒獎典禮</p></th>
+<th><p>獎項</p></th>
+<th><p>結果</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/VLIVE_AWARDS_V_HEARTBEAT" title="wikilink">VLIVE AWARDS V HEARTBEAT</a></p></td>
+<td><p>GLOBAL ROOKIE TOP5</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 音樂節目獎項
 
@@ -229,6 +259,9 @@
 <td><p>HELLO CHAPTER 1. HELLO, STRANGER</p></td>
 </tr>
 <tr class="even">
+<td><p>HELLO CHAPTER 2. HELLO, STRANGE PLACE</p></td>
+</tr>
+<tr class="odd">
 <td><ul>
 <li>「*」：打榜中</li>
 <li>「(1)」：兩星期冠軍</li>
@@ -290,3 +323,4 @@
 19.
 20.
 21.
+22.

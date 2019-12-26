@@ -13,6 +13,5 @@
 [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink") [Category:楊培安音樂專輯](https://zh.wikipedia.org/wiki/Category:楊培安音樂專輯 "wikilink")
 
 1.
-
 2.
 3.

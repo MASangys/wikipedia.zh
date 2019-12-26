@@ -13,5 +13,4 @@
 
 1.
 2.  \[<http://adsabs.harvard.edu/abs/2000ARA&A>..38..337C Theory of Low-Mass Stars and Substellar Objects\], Gilles Chabrier and Isabelle Baraffe, *Annual Review of Astronomy and Astrophysics* **38** (2000), pp. 337–377.
-
 3.

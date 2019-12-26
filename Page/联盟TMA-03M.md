@@ -35,12 +35,8 @@ Soyuz TMA-03M capsule descends past helicopter (201207010008HQ).jpg|降落中的
 [Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink") [Category:2011年航天](https://zh.wikipedia.org/wiki/Category:2011年航天 "wikilink") [Category:2011年哈萨克斯坦](https://zh.wikipedia.org/wiki/Category:2011年哈萨克斯坦 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.

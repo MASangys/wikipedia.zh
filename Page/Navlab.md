@@ -41,25 +41,17 @@ Navlab 6和Navlab 7都是用建造的。Navlab 8是用一辆建造的。Navlab 9
 [Category:美国机器人](https://zh.wikipedia.org/wiki/Category:美国机器人 "wikilink") [Category:卡內基美隆大學](https://zh.wikipedia.org/wiki/Category:卡內基美隆大學 "wikilink") [Category:自动驾驶汽车](https://zh.wikipedia.org/wiki/Category:自动驾驶汽车 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.
 8.
 9.
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.

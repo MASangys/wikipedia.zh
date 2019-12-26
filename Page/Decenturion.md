@@ -16,7 +16,7 @@ Decenturion和公民之间的关系通过智能合约调节，注册用户激活
 
 ## 延伸阅读
 
-  - [The First Blockchain-Based State: Decenturion](http://thecoinagetimes.com/index.php/2018/05/14/the-first-blockchain-based-state-decenturion/).[The Coinage Times](https://zh.wikipedia.org/wiki/The_Coinage_Times "wikilink").October 24, 2018.
+  - [The First Blockchain-Based State: Decenturion](https://web.archive.org/web/20181024152808/http://thecoinagetimes.com/index.php/2018/05/14/the-first-blockchain-based-state-decenturion/).[The Coinage Times](https://zh.wikipedia.org/wiki/The_Coinage_Times "wikilink").October 24, 2018.
   - [Mysterious blockchain-based state leaves serious questions unanswered](https://mashable.com/2018/05/15/decenturion-blockchain-based-state).[Mashable](../Page/Mashable.md "wikilink").May 15, 2018.
 
 [Category:网络国家](https://zh.wikipedia.org/wiki/Category:网络国家 "wikilink") [Category:2018年建立的組織](https://zh.wikipedia.org/wiki/Category:2018年建立的組織 "wikilink")

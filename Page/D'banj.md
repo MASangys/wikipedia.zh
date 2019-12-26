@@ -125,27 +125,16 @@ D'banj透露兒子的名字為Daniel Oyebanjo III ()，出生於\[13\]。但在�
 [Category:1980年出生](https://zh.wikipedia.org/wiki/Category:1980年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:奈及利亞饒舌歌手](https://zh.wikipedia.org/wiki/Category:奈及利亞饒舌歌手 "wikilink") [Category:奈及利亞流行男歌手](https://zh.wikipedia.org/wiki/Category:奈及利亞流行男歌手 "wikilink") [Category:奈及利亞男音樂家](https://zh.wikipedia.org/wiki/Category:奈及利亞男音樂家 "wikilink") [Category:約魯巴音樂家](https://zh.wikipedia.org/wiki/Category:約魯巴音樂家 "wikilink") [Category:約魯巴企業家](https://zh.wikipedia.org/wiki/Category:約魯巴企業家 "wikilink") [Category:尼日利亚企业家](https://zh.wikipedia.org/wiki/Category:尼日利亚企业家 "wikilink") [Category:世界音樂獎獲得者](https://zh.wikipedia.org/wiki/Category:世界音樂獎獲得者 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
 14.

@@ -67,57 +67,39 @@
 
 ## 參考資料
 
-[Category:加拿大YouTuber](https://zh.wikipedia.org/wiki/Category:加拿大YouTuber "wikilink") [Category:Twitch主播](https://zh.wikipedia.org/wiki/Category:Twitch主播 "wikilink") [Category:電玩家](https://zh.wikipedia.org/wiki/Category:電玩家 "wikilink") [Category:麥馬士達大學校友](https://zh.wikipedia.org/wiki/Category:麥馬士達大學校友 "wikilink")
+[Category:加拿大YouTuber](https://zh.wikipedia.org/wiki/Category:加拿大YouTuber "wikilink") [Category:Twitch主播](https://zh.wikipedia.org/wiki/Category:Twitch主播 "wikilink") [Category:電子競技選手](https://zh.wikipedia.org/wiki/Category:電子競技選手 "wikilink") [Category:麥馬士達大學校友](https://zh.wikipedia.org/wiki/Category:麥馬士達大學校友 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
 7.
-
 8.
 9.
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.
 17.
-
 18.
 19.
-
 20.
-
 21.
 22.
 23.
-
 24.
-
 25.
-
 26.
-
 27.
 28.
-
 29.
 30.
-
 31.
 32.
 33.
-
 34.

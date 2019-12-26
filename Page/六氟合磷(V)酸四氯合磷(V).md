@@ -13,10 +13,8 @@
 [Category:卤化磷](https://zh.wikipedia.org/wiki/Category:卤化磷 "wikilink") [Category:六氟磷酸盐](https://zh.wikipedia.org/wiki/Category:六氟磷酸盐 "wikilink") [Category:氯化合物](https://zh.wikipedia.org/wiki/Category:氯化合物 "wikilink")
 
 1.
-
 2.
 3.  无机化学丛书. 第四卷 氮 磷 砷分族. 科学出版社. 8.3.4 混合五卤化磷. pp 240
-
 4.
 5.
 6.  Kolditz, Lothar. Fluorine-​containing compounds of the fifth main group. III. Tetrachlorophosphorus fluoride, PCl4F. *Zeitschrift fuer Anorganische und Allgemeine Chemie*, 1956. 286: 307-316. ISSN: 0044-2313.

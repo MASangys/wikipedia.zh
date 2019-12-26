@@ -22,7 +22,7 @@
 
 ## 外部連結
 
-  - [沼津港大型展望水門](http://www.city.numazu.shizuoka.jp/kankou/sisetu/byuo/)（沼津市政府）
+  - [沼津港大型展望水門](https://web.archive.org/web/20130118053745/http://www.city.numazu.shizuoka.jp/kankou/sisetu/byuo/)（沼津市政府）
       - [導覽手冊](http://www.city.numazu.shizuoka.jp/kankou/pamphlet/byuo/index.htm)
   - [水門入內參訪申請](http://www.pref.shizuoka.jp/kensetsu/ke-830/jigyo/kouwan/kouwan31.html)（沼津工程事務所）
       - [建築詳細資訊](http://www.pref.shizuoka.jp/kensetsu/ke-830/jigyo/kouwan/documents/byuo1.pdf)
@@ -30,11 +30,8 @@
 [Category:维基数据存在坐标数据的页面](https://zh.wikipedia.org/wiki/Category:维基数据存在坐标数据的页面 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink") [Category:瞭望台](https://zh.wikipedia.org/wiki/Category:瞭望台 "wikilink") [Category:日本旅遊](https://zh.wikipedia.org/wiki/Category:日本旅遊 "wikilink") [Category:日本建築物](https://zh.wikipedia.org/wiki/Category:日本建築物 "wikilink") [Category:靜岡縣建築物](https://zh.wikipedia.org/wiki/Category:靜岡縣建築物 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.

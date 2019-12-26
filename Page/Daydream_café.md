@@ -18,7 +18,7 @@
 
 作品爱好者将此歌歌词最初的「」（心蹦蹦跳）与其他[网络迷因合成为](https://zh.wikipedia.org/wiki/网络迷因 "wikilink")「****」（啊＾〜我的心蹦蹦地跳啊＾〜）并传播\[1\]\[2\]，该流行语在当年的「2014」中获第4名\[3\]。
 
-2017年，在[NHK举办的特别企划](https://zh.wikipedia.org/wiki/NHK "wikilink")[日本动画100](../Page/日本动画100.md "wikilink")之“最佳动画歌曲100”投票中获第20名。2019年3月1日，在[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")举办的动画歌曲人气投票活动「」获作詞賞（2010年 - 2019年）\[4\]。
+2017年，在[NHK举办的特别企划](https://zh.wikipedia.org/wiki/NHK "wikilink")[日本动画100](../Page/日本动画100.md "wikilink")之“最佳动画歌曲100”投票中获第20名。2019年3月1日，在[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")举办的动画歌曲人气投票活动「[平成动画歌曲大赏](../Page/平成动画歌曲大赏.md "wikilink")」获作詞賞（2010年 - 2019年）\[4\]。
 
 ## 单曲收录内容
 
@@ -67,26 +67,18 @@
 ## 外部链接
 
   - NBC Universal介绍页面
-      - [初回限定盤](http://db2.geneonuniversal.jp/contents/hp0004/list.php?CNo=4&AgentProCon=23121)
-      - [通常盤](http://db2.geneonuniversal.jp/contents/hp0004/list.php?CNo=4&AgentProCon=23128)
+      - [初回限定盤](https://web.archive.org/web/20141217084151/http://db2.geneonuniversal.jp/contents/hp0004/list.php?CNo=4&AgentProCon=23121)
+      - [通常盤](https://web.archive.org/web/20141217085616/http://db2.geneonuniversal.jp/contents/hp0004/list.php?CNo=4&AgentProCon=23128)
 
 [Category:日本配音員單曲](https://zh.wikipedia.org/wiki/Category:日本配音員單曲 "wikilink") [Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:NBC環球娛樂歌曲](https://zh.wikipedia.org/wiki/Category:NBC環球娛樂歌曲 "wikilink") [Category:電視動畫主題曲](https://zh.wikipedia.org/wiki/Category:電視動畫主題曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.

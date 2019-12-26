@@ -54,26 +54,15 @@ Playism的對象主要針對於PC[獨立遊戲](https://zh.wikipedia.org/wiki/�
 [Category:電子遊戲線上零售商](https://zh.wikipedia.org/wiki/Category:電子遊戲線上零售商 "wikilink") [Category:翻譯公司](https://zh.wikipedia.org/wiki/Category:翻譯公司 "wikilink") [Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink") [Category:電子商務網站](https://zh.wikipedia.org/wiki/Category:電子商務網站 "wikilink") [Category:數位版權管理](https://zh.wikipedia.org/wiki/Category:數位版權管理 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.

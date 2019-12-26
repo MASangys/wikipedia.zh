@@ -5,12 +5,8 @@
 [Category:真菌學期刊](https://zh.wikipedia.org/wiki/Category:真菌學期刊 "wikilink") [Category:英語期刊](https://zh.wikipedia.org/wiki/Category:英語期刊 "wikilink") [Category:雙月期刊](https://zh.wikipedia.org/wiki/Category:雙月期刊 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.

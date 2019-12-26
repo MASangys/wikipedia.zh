@@ -1,4 +1,4 @@
-**Lena** (**韓語：레나，2002年4月17日－**) ，本名**姜萊娜** ，[韓國KIWI](https://zh.wikipedia.org/wiki/韓國 "wikilink") MEDIA GROUP旗下女團「[公園少女](https://zh.wikipedia.org/wiki/公園少女 "wikilink")」成員 ，在隊伍裡擔任第二主唱、門面、中心以及忙內。
+**Lena**， ，本名**姜萊娜** ，[韓國KIWI](https://zh.wikipedia.org/wiki/韓國 "wikilink") MEDIA GROUP旗下女團「[公園少女](https://zh.wikipedia.org/wiki/公園少女 "wikilink")」成員 ，在隊伍裡擔任第二主唱、門面、中心以及忙內。
 
 ## 學歷
 

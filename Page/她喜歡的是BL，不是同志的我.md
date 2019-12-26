@@ -24,14 +24,9 @@
 [Category:2019年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2019年開播的日本電視劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:NHK電視劇](https://zh.wikipedia.org/wiki/Category:NHK電視劇 "wikilink") [Category:日本小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本小說改編電視劇 "wikilink") [Category:日本LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:日本LGBT相關電視節目 "wikilink") [Category:男同性戀相關電視節目](https://zh.wikipedia.org/wiki/Category:男同性戀相關電視節目 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink") [Category:小說改編戲劇](https://zh.wikipedia.org/wiki/Category:小說改編戲劇 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.

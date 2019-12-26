@@ -6,6 +6,36 @@
 
 ## 生产及销售
 
+## 性能参数
+
+<table>
+<thead>
+<tr class="header">
+<th><p>型号</p></th>
+<th><p>制造年份</p></th>
+<th><p>动力</p></th>
+<th><p>扭矩</p></th>
+<th><p>百公里加速</p></th>
+<th><p>最高时速</p></th>
+<th><p>续航(WLTP)</p></th>
+<th><p>续航(EPA)</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>EQC400<br />
+4MATIC（欧盟版本）</p></td>
+<td><p>2019–</p></td>
+<td></td>
+<td></td>
+<td><p>5.1 s</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 参考注释
 
 ## 外部链接

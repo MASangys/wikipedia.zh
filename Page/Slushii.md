@@ -30,39 +30,24 @@
 
 1.
 2.   Mix 247 EDM|date=March 6, 2017|work=Mix 247 EDM|access-date=March 20, 2017|language=en-US}}
-
 3.
-
 4.  Riordan, Kevin. ["He's Got the Beat; Mt. Laurel teen emerges on dance music scene."](http://www.philly.com/philly/news/local/20140805_He_s_Got_the_Beat.html), *[費城詢問報](../Page/費城詢問報.md "wikilink")*, August 5, 2014. Accessed December 5, 2017. "Julian Scanlan, a.k.a. DJ Swoon, is too young to go clubbing - unless he brings his party tunes. The Mount Laurel resident, 17, is a rising Electronic Dance Music (EDM) artist.... A bright and personable fellow who in September will start his senior year at Lenape High School, Scanlan sports a hairdo with green tufts on top."
-
 5.  Marcus, Ezra. ["The Sweet and Sour Life of Slushii; We talked to the EDM underdog about his love for Skrillex, his struggle with Asperger's Syndrome, and his escape from surburbia."](https://noisey.vice.com/en_us/article/kzz34z/the-sweet-and-sour-life-of-slushii), *[Vice (雜誌)](../Page/Vice_\(雜誌\).md "wikilink")*, January 10, 2017. Accessed December 5, 2017. "LA-based producer Julian Scanlan might still be working at a Best Buy in New Jersey were it not for a SoundCloud violation.... He was 18 years old, living at his mom's house in suburban Mount Laurel while taking classes he wasn't excited about at a local community college."
-
 6.
 7.  <https://www.instagram.com/p/Bfm4eOthoJp/?taken-by=maxaronow>
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
 14.
-
 15.
 16.
 17.
 18.  The Nocturnal Times|last=Verdugo|first=Kristina|date=February 8, 2017|website=www.thenocturnaltimes.com|language=en-US|archive-url=|archive-date=|dead-url=|access-date=March 20, 2017}}
-
 19.
-
 20.
-
 21.
-
 22.  Wonderland In Rave|last=Nakanishi|first=Daniel|date=March 18, 2017|website=wonderlandinrave.com|language=pt-BR|archive-url=|archive-date=|dead-url=|access-date=March 20, 2017}}
-
 23.

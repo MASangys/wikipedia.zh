@@ -18,7 +18,7 @@ SOLEIL涵盖物理学，化学，材料科学，生命科学（特别是生物�
 
 ## 外部链接
 
-  - [官方网站](http://www2.synchrotron-soleil.fr/)
+  - [官方网站](https://web.archive.org/web/20080920032618/http://www2.synchrotron-soleil.fr/)
   - [官方网站](http://www.synchrotron-soleil.fr/)
   - [LURE网站](https://web.archive.org/web/20081127055105/http://www.udil.u-psud.fr/)
   - [Lightsources.org](http://www.lightsources.org)

@@ -51,7 +51,7 @@
 <td><p>김민석</p></td>
 <td><p>男</p></td>
 <td><p>30歲，行銷公司代表。<br />
-周圍的朋友都覺得他會選\Money，因為當時真的需要錢，且又擔心且顧及弟妹，而自覺不能去交女朋友。但來餐與節目是希望能夠好好談一段戀愛。</p></td>
+周圍的朋友都覺得他會選\Money，因為當時真的需要錢，且又擔心且顧及弟妹，而自覺不能去交女朋友。但來參與節目是希望能夠好好談一段戀愛。</p></td>
 <td><p>Love Catcher</p></td>
 </tr>
 <tr class="even">
@@ -72,14 +72,14 @@
 <td><p>鄭瓉友</p></td>
 <td><p>정찬우</p></td>
 <td><p>27歲，裁縫師。原本是<a href="https://zh.wikipedia.org/wiki/釜山" title="wikilink">釜山人</a>，住在<a href="https://zh.wikipedia.org/wiki/清洲" title="wikilink">清洲</a>。</p></td>
-<td></td>
+<td><p>Money Catcher</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>張延佑</p></td>
 <td><p>장연우</p></td>
 <td><p>23歲，大學生（主修髮型設計）。住在<a href="../Page/昌原市.md" title="wikilink">昌原市</a>，大學生（主修髮型設計）。</p></td>
-<td></td>
+<td><p>Money Catcher→Love Catcher</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -93,14 +93,14 @@
 <td><p>金素英</p></td>
 <td><p>김소영</p></td>
 <td><p>27歲，皮包設計師。</p></td>
-<td></td>
+<td><p>Money Catcher</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>李英書</p></td>
 <td><p>이영서</p></td>
 <td><p>25歲，大學休學中，美術講師＆陶藝講師。</p></td>
-<td></td>
+<td><p>Love Catcher</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -108,11 +108,11 @@
 <td><p>김채랑</p></td>
 <td><p>24歲，大學休學中，目前在<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><a href="https://zh.wikipedia.org/wiki/瑞草區" title="wikilink">瑞草區</a><a href="https://zh.wikipedia.org/wiki/良才洞" title="wikilink">良才洞的教育公司的行銷工作</a>。<br />
 最後一段戀愛是一年半之前，因為該段戀愛有點艱辛，所以變得討厭戀愛。自己覺得個性是很容易陷入戀愛，且會把心情寫在臉上。</p></td>
-<td><p>Love Catcher</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>金佳彬</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金佳彬" title="wikilink">金佳彬</a></p></td>
 <td><p>김가빈</p></td>
 <td><p>23歲，大學生。住在<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/南楊州市.md" title="wikilink">南揚州</a><a href="https://zh.wikipedia.org/wiki/九里" title="wikilink">九里</a>。每天都一定要吃早餐。</p></td>
 <td></td>
@@ -436,7 +436,7 @@
 <td><p>6</p></td>
 <td><p>鄭瓉友</p></td>
 <td><p>李英書</p></td>
-<td></td>
+<td><p>rowspan="10"</p></td>
 </tr>
 <tr class="even">
 <td><p>李英書</p></td>
@@ -497,8 +497,10 @@
 
 ### 第7集
 
-  - 本集可以與自己心儀的對象約會，但必須由女性主動邀請兩位，且由女性指定約會地點（展示自己魅力）。若同一位男性有兩位女性選擇，則男性可以選擇想約會的女性一名。
-  - 製作組本集最終公布交換身分的Catcher為：。
+  - 本集可以與自己心儀的對象約會，但必須由女性主動邀請兩位，且由女性指定約會地點（展示自己魅力），然若選擇結果為：
+      - 若同一位男性有兩位女性選擇，則該男性可以選擇想約會的女性一名。
+      - 若同一位女性有兩位男性選擇，則該女性可以進行兩場約會（白天和晚上各一場）。
+  - 本集將由全體合宿者中最高票強制公布身分，而最終公布合宿者與其身分的是：**金仁旭為Love Catcher**。
 
 <table>
 <thead>
@@ -517,70 +519,61 @@
 <td><p>7</p></td>
 <td><p>鄭瓉友</p></td>
 <td></td>
-<td></td>
-<td><p>→</p></td>
+<td><p>金佳彬[30]</p></td>
+<td><p>|Sing sing eat酒吧[31]進行酒吧約會</p></td>
 </tr>
 <tr class="even">
 <td><p>金素英</p></td>
+<td><p>金仁旭<br />
+張延佑</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>搭乘熱氣球約會→蝦子701餐廳[32]享用大蝦餐點。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>金仁旭</p></td>
 <td></td>
-<td></td>
-<td><p>→</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>金彩朗</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>金民錫</p></td>
-<td></td>
-<td></td>
-<td><p>→</p></td>
+<td><p>金佳彬[33]</p></td>
+<td><p>爬山登高賞景→Narnia餐廳[34]享用牛排餐點→回宿舍休息</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>金佳彬</p></td>
+<td><p>金仁旭<br />
+鄭瓉友</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>與金仁旭約會：爬山登高賞景→Narnia餐廳[35]享用牛排餐點。<br />
+接著與鄭瓉友約會：Sing sing eat酒吧[36]進行酒吧約會。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>張延佑</p></td>
 <td></td>
-<td></td>
-<td><p>→</p></td>
+<td><p>金素英</p></td>
+<td><p>搭乘熱氣球約會→蝦子701餐廳[37]享用大蝦餐點。</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>宋世羅</p></td>
+<td><p>朴正真<br />
+鄭瓉友</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/牛島" title="wikilink">牛島</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>朴正真</p></td>
 <td></td>
+<td><p>宋世羅</p></td>
 <td></td>
-<td><p>→</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>李英書</p></td>
+<td><p>金仁旭<br />
+張延佑</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>無人選擇，只能留在宿舍。</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -588,7 +581,9 @@
 
 ### 第8集
 
-  - 本集請男性向心儀的女性發送約會邀請。
+  - 本集請男性親自向心儀的女性邀請約會，接到約會申請的女人不能拒絕。
+
+  - 本集最終選擇前可以改變身分\[38\]。
 
   - 製作組本集最終公布所有合宿者的身分＆確認成功成為情侶的男女組合。
 
@@ -612,79 +607,64 @@
 <tr class="odd">
 <td><p>8</p></td>
 <td><p>鄭瓉友</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>金佳彬</p></td>
+<td><p>遊艇約會（兼看海豚）[39]</p></td>
+<td><p>金佳彬</p></td>
+<td><p>獎金5000萬韓元（約合新台幣136萬元）</p></td>
 </tr>
 <tr class="even">
-<td><p>金素英</p></td>
-<td></td>
-<td><p>→</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>金仁旭</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>金彩朗</p></td>
-<td></td>
-<td><p>→</p></td>
+<td><p>咖啡店約會[40]</p></td>
+<td><p>rowspan="3"</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>金民錫</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>金佳彬</p></td>
 <td></td>
-<td><p>→</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>張延佑</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>先前往鄭瓉友的遊艇約會（兼看海豚），<br />
+再至金仁旭的咖啡店約會[41]</p></td>
+<td><p>鄭瓉友</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>宋世羅</p></td>
-<td></td>
-<td><p>→</p></td>
-<td></td>
+<td><p>張延佑</p></td>
+<td><p>金素英</p></td>
+<td><p>露營場</p></td>
+<td><p>金素英</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>朴正真</p></td>
+<td><p>金素英</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>張延佑</p></td>
+<td><p>獎金5000萬韓元（約合新台幣136萬元）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>李英書</p></td>
 <td></td>
-<td><p>→</p></td>
+<td><p>無人選擇，只能留在宿舍。</p></td>
+<td><p>金仁旭</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>朴正真</p></td>
+<td><p>宋世羅</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/牛島" title="wikilink">牛島騎馬</a></p></td>
+<td><p>宋世羅</p></td>
+<td><p>愛情「情侶戒指」一對</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>宋世羅</p></td>
+<td></td>
+<td><p>朴正真</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -692,13 +672,9 @@
 </tbody>
 </table>
 
-### 第9集
-
-  - 特輯：邀請合宿者面對面進行對談，以了解他們的心路歷程。
-
 ## 主持人各集預測
 
-  - 紅字代表預測正確，該集獲得愛情幣一枚；累積最多愛情幣者，可獲得愛情金幣\[30\]一枚。
+  - 紅字代表預測正確，該集獲得愛情幣一枚；累積最多愛情幣者，可獲得愛情金幣\[42\]一枚。
 
 <table>
 <thead>
@@ -713,13 +689,13 @@
 <tbody>
 <tr class="odd">
 <td><p>1<br />
-[31]</p></td>
+[43]</p></td>
 <td><p>2<br />
-[32]</p></td>
+[44]</p></td>
 <td><p>3<br />
-[33]</p></td>
+[45]</p></td>
 <td><p>4<br />
-[34]</p></td>
+[46]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/申東燁.md" title="wikilink">申東燁</a></p></td>
@@ -772,9 +748,9 @@
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB尼爾森</a><br />
-收視率[35][36]</p></th>
+收視率[47][48]</p></th>
 <th><p>TNmS<br />
-收視率[37]</p></th>
+收視率[49]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -842,7 +818,7 @@
 15. 事前採訪：金佳彬向製作組表示真的很愛先前與其談戀愛的男人，連靈魂都付出去喜歡該男人，周遭朋友也都知道金佳彬很愛很愛該男人，但最後卻因該男人的錯誤而分手。接著採訪金佳彬的男性友人，男性友人證實金佳彬很愛前男友，並提及金佳彬戀愛方式為對喜歡的男人完全投入。金佳彬提及因為前男友突然闖進生活而熟識，之後一段時間後決定要好好交往。
 16. 事前採訪：製作組提問如果向鄭瓉友周遭的人問說鄭瓉友來參加《戀愛捕手2》，朋友的想法是什麼，而鄭瓉友回答說朋友會覺得其是戀愛捕手。接著採訪鄭瓉友的女性友人，女性友人表示因為鄭瓉友因為工作太忙，所以沒時間也沒機會與異性談戀愛。最後則採訪鄭瓉友的男性友人，男性友人表示自己覺得鄭瓉友會選擇當金錢捕手。
 17. 製作組於下周才公布其好感對象。
-18. 由男性合宿者替自己的情侶女性化女友妝。
+18. 由男性合宿者替自己的情侶女性化女友妝。舉辦地點為「휴일로」咖啡廳（地址為제주특별자치도 서귀포시 안덕면 난드르로 49-65）。
 19. 結果顯示金佳彬前一天好感對象是鄭瓉友。
 20. 結果顯示金仁旭前一天好感對象是金佳彬。
 21. 由製作組指定男女合宿者成為情侶，並要求所有情侶指定一同前往派對場所參加花園派對。
@@ -854,11 +830,23 @@
 27. 結果顯示前一天好感對象是金佳彬。
 28. 結果顯示沒有人前一天對李英書有好感。
 29. 本集男女須對懷疑為Money Catcher的異性投票，男、女得票最高票者一起淘汰。
-30. 純金打造。
-31. 預測男生和女生的「Money Catcher」人數，預測正確者可獲得愛情幣一枚。（製作組公佈為男生2人；女生2人。）
-32. 預測男性的「Money Catcher」，若與全女性合宿者預測的男性「Money Catcher」中最高票結果一致（合宿者投票結果為金民錫），可獲得愛情幣一枚。
-33. 預測金民錫的真實身份，預測正確者可獲得愛情幣一枚。
-34. 預測女性的「Money Catcher」，若與全男性合宿者預測的女性「Money Catcher」中最高票結果一致（合宿者投票結果為金彩朗），可獲得愛情幣一枚。
-35.
-36.
-37.
+30. 約會時間從下午至晚上。
+31. 餐廳名稱為「싱싱잇」，地點為：제주 제주시 한림읍 한림로 181，電話：010-9102-9917。
+32. 餐廳名稱為「딱새우701」，地址為：제주특별자치도 서귀포시 대천동 701，電話為：064-739-9767。
+33. 約會時間從早上至下午午餐後。
+34. 地址為：63538 Seogwipo 예래로 424 (하예동) 베이힐풀앤빌라 내，電話為：+82 64-801-9078，網址為http://narnia.co.kr/
+35. 地址為：63538 Seogwipo 예래로 424 (하예동) 베이힐풀앤빌라 내，電話為：+82 64-801-9078，網址為http://narnia.co.kr/
+36. 餐廳名稱為「싱싱잇」，地點為：제주 제주시 한림읍 한림로 181，電話：010-9102-9917。
+37. 餐廳名稱為「딱새우701」，地址為：제주특별자치도 서귀포시 대천동 701，電話為：064-739-9767。
+38. 張延佑、宋世羅兩位由Money Catcher改變身分為Love Catcher。
+39. 與第二天海釣比賽同一場地。
+40. 金仁旭為此咖啡加盟店的老闆。
+41. 金仁旭為此咖啡加盟店的老闆。
+42. 純金打造。
+43. 預測男生和女生的「Money Catcher」人數，預測正確者可獲得愛情幣一枚。（製作組公佈為男生2人；女生2人。）
+44. 預測男性的「Money Catcher」，若與全女性合宿者預測的男性「Money Catcher」中最高票結果一致（合宿者投票結果為金民錫），可獲得愛情幣一枚。
+45. 預測金民錫的真實身份，預測正確者可獲得愛情幣一枚。
+46. 預測女性的「Money Catcher」，若與全男性合宿者預測的女性「Money Catcher」中最高票結果一致（合宿者投票結果為金彩朗），可獲得愛情幣一枚。
+47.
+48.
+49.

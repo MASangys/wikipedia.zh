@@ -41,25 +41,15 @@ Solid由以下几部分组成\[13\]：
 [Category:全球資訊網](https://zh.wikipedia.org/wiki/Category:全球資訊網 "wikilink") [Category:麻省理工學院](https://zh.wikipedia.org/wiki/Category:麻省理工學院 "wikilink") [Category:分布式数据存储](https://zh.wikipedia.org/wiki/Category:分布式数据存储 "wikilink") [Category:分散式檔案系統](https://zh.wikipedia.org/wiki/Category:分散式檔案系統 "wikilink") [Category:互聯網隱私軟件](https://zh.wikipedia.org/wiki/Category:互聯網隱私軟件 "wikilink") [Category:自由網路軟體](https://zh.wikipedia.org/wiki/Category:自由網路軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.   MIT CSAIL|accessdate=2018-10-20|work=www.csail.mit.edu|language=en|archive-url=[https://web.archive.org/web/20181006054539/https://www.csail.mit.edu/news/web-inventor-tim-berners-lees-next-project-platform-gives-users-control-their-data|archive-date=2018-10-06|dead-url=no](https://web.archive.org/web/20181006054539/https://www.csail.mit.edu/news/web-inventor-tim-berners-lees-next-project-platform-gives-users-control-their-data%7Carchive-date=2018-10-06%7Cdead-url=no)}}
-
 9.
-
 10.
-
 11.
 12.
 13.

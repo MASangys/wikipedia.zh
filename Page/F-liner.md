@@ -45,11 +45,7 @@ F-liner的最长运行区间为森林公园站-元町·中华街站，单程运�
 [Category:東武鉄道列車](https://zh.wikipedia.org/wiki/Category:東武鉄道列車 "wikilink") [Category:西武铁道](https://zh.wikipedia.org/wiki/Category:西武铁道 "wikilink") [Category:东京地下铁](https://zh.wikipedia.org/wiki/Category:东京地下铁 "wikilink") [Category:东京急行电铁](https://zh.wikipedia.org/wiki/Category:东京急行电铁 "wikilink") [Category:横滨高速铁道](https://zh.wikipedia.org/wiki/Category:横滨高速铁道 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.

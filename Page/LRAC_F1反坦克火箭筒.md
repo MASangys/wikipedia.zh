@@ -130,51 +130,35 @@ Luchaire SA亦為發射器研發了許多其他火箭彈，包括雙用途的人
 [Category:反坦克火箭筒](https://zh.wikipedia.org/wiki/Category:反坦克火箭筒 "wikilink") [Category:法国武器](https://zh.wikipedia.org/wiki/Category:法国武器 "wikilink") [Category:法国冷战武器](https://zh.wikipedia.org/wiki/Category:法国冷战武器 "wikilink")
 
 1.  Luchaire produces the different rocket projectiles for the LRAC F1 and Manufacture Nationale-d'Armes de Saint Etienne the launcher - both firms are now part of GIAT Industries
-
 2.
-
 3.  The sight developed for the ACL-APX was adopted for the LRAC F1.
-
 4.  [<http://weaponsystems.net>](http://weaponsystems.net/weaponsystem/BB04%20-%20LRAC.html)
-
 5.
 6.  **簡氏步兵武器1991-1992**（*Jane's Infantry Weapons 1991–1992*）詳細說明貫穿力的細節：先貫穿與水平方向成65度的單層重型標靶，以及接著的7塊10毫米後續鋼板；然後是雙層重型標靶，以及接著的4塊後續鋼板；最後是雙層中型標靶，以及接著的8塊後續鋼板。
-
 7.  1980年代中期，Luchaire SA研發了一款新型的反坦克火箭彈，其具有貫穿600毫米的裝甲板的驚人破壞力。但由於這仍然不足以在正面交戰當中擊破俄羅斯[T-62與](../Page/T-62主战坦克.md "wikilink")[T-72主戰坦克](../Page/T-72主戰坦克.md "wikilink")，它並無獲投入生產。
-
 8.
-
 9.
-
 10.
 11.
 12.
 13.
-
 14.
 15.
 16.
-
 17.
 18.
 19.
-
 20.
 21.
 22.
-
 23.
 24.
-
 25.
 26.
 27.
 28.
 29.
 30. 這款以色列—美國聯合研製的武器在概念和設計上類似於LRAC F1。
-
 31. 雖然這款俄羅斯武器在設計和概念上看起來與LRAC F1類似，但它所發射的並非如此——裝填的火箭彈反而像是二戰和韓戰的[巴祖卡火箭筒](../Page/巴祖卡火箭筒.md "wikilink")
-
 32. 這款前南斯拉夫製造的反坦克武器在概念和設計上與法國LRAC F1最為相似，被敘利亞的叛亂分子所大量使用。
-
 33. 一種源自LRAC-F1的南非反坦克武器。

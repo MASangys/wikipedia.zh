@@ -68,6 +68,8 @@ Kyla的母親是[韓國人](https://zh.wikipedia.org/wiki/韓國人 "wikilink")�
 ## 外部連結
 
   -
+  - [Kyla的Youtube頻道](https://www.youtube.com/channel/UCy2GOfqJz5W8wx0877wRZfw)
+
 <!-- end list -->
 
 1.

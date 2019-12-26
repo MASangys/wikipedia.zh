@@ -35,40 +35,24 @@ Ross–Fahroo擬譜法已實現在MATLAB的最佳控制求解器。
 [Category:最佳控制](https://zh.wikipedia.org/wiki/Category:最佳控制 "wikilink") [Category:数值分析](https://zh.wikipedia.org/wiki/Category:数值分析 "wikilink") [Category:控制理论](https://zh.wikipedia.org/wiki/Category:控制理论 "wikilink")
 
 1.  N. Bedrossian, M. Karpenko, and S. Bhatt, "Overclock My Satellite: Sophisticated Algorithms Boost Satellite Performance on the Cheap", [IEEE综览](https://zh.wikipedia.org/wiki/IEEE综览 "wikilink"), November 2012.
-
 2.
-
 3.
-
 4.
-
 5.  I. M. Ross and F. Fahroo, A Pseudospectral Transformation of the Covectors of Optimal Control Systems, Proceedings of the First IFAC Symposium on System Structure and Control, Prague, Czech Republic, 29–31 August 2001.
-
 6.  I. M. Ross and F. Fahroo, Legendre Pseudospectral Approximations of Optimal Control Problems, *Lecture Notes in Control and Information Sciences*, Vol. 295, Springer-Verlag, 2003.
-
 7.
-
 8.  I. M. Ross and F. Fahroo, Discrete Verification of Necessary Conditions for Switched Nonlinear Optimal Control Systems, Proceedings of the American Control Conference, Invited Paper, June 2004, Boston, MA.
-
 9.
-
 10. F. Fahroo and I. M. Ross, "Advances in Pseudospectral Methods for Optimal Control," *Proceedings of the AIAA Guidance, Navigation and Control Conference,* AIAA 2008-7309. [1](http://www.elissarglobal.com/wp-content/uploads/2012/04/Advances-in-Pseudospectral-Methods-for-Optimal-Control.pdf)
-
 11.
-
 12. F. Fahroo and I. M. Ross, Pseudospectral Methods for Infinite Horizon Nonlinear Optimal Control Problems, AIAA Guidance, Navigation and Control Conference, August 15–18, 2005, San Francisco, CA.
-
 13.
-
 14.
-
 15.
 16.
 17. N. S. Bedrossian, S. Bhatt, W. Kang, and I. M. Ross, Zero-Propellant Maneuver Guidance, IEEE Control Systems Magazine, October 2009 (Feature Article), pp 53–73.
-
 18.
 19.
 20.
 21. F. Fahroo and I. M. Ross, Trajectory Optimization by Indirect Spectral Collocation Methods, Proceedings of the AIAA/AAS Astrodynamics Conference, August 2000, Denver, CO. AIAA Paper 2000–4028
-
 22. Q. Gong, W. Kang, N. Bedrossian, F. Fahroo, P. Sekhavat and K. Bollino, Pseudospectral Optimal Control for Military and Industrial Applications, 46th IEEE Conference on Decision and Control, New Orleans, LA, pp. 4128–4142, Dec. 2007.

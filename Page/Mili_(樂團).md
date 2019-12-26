@@ -1,4 +1,4 @@
-**Mili**是一个来自[日本](../Page/日本.md "wikilink")的独立音乐团体，成立于2012年8月，现由momocashew，Yamato Kasai，Yukihito Mitomo，Shoto Yoshida，Ame Yamaguchi和Ao Fujimori六人组成。\[1\]
+**Mili**是一个来自[日本](../Page/日本.md "wikilink")的独立音乐团体，成立于2012年8月，现由Cassie Wei(momocashew)，Yamato Kasai，Yukihito Mitomo，Shoto Yoshida，Ame Yamaguchi和Ao Fujimori六人组成。\[1\]
 
 Mili主张突破传统音乐风格的束缚，大胆地将[电子古典音乐](https://zh.wikipedia.org/wiki/电子古典音乐 "wikilink")，[当代古典音乐](../Page/当代古典音乐.md "wikilink")和[后古典音乐等不同风格的音乐融入他们的作品中](https://zh.wikipedia.org/wiki/后古典音乐 "wikilink")。其作品不仅限于[日语](../Page/日语.md "wikilink")歌曲，还包括[英语](../Page/英语.md "wikilink")、[法语](../Page/法语.md "wikilink")和[中文歌曲](https://zh.wikipedia.org/wiki/中文 "wikilink")。
 
@@ -10,7 +10,7 @@ Mili主张突破传统音乐风格的束缚，大胆地将[电子古典音乐](h
 
 Mili当前由以下六名成员组成：\[4\]
 
-  - momocashew——主唱，主要作词者。為加拿大籍華裔，生于北京，現居日本\[5\]。
+  - Cassie Wei(momocashew)——主唱，主要作词者。為加拿大籍華裔，生于北京，現居日本\[5\]。
   - Yamato Kasai 或称HAMO（）——主要作曲家，主要编曲，作词者，吉他手
   - Yukihito Mitomo（）——贝斯手。葛西的故友，於2013年12月加入Mili\[6\]
   - Shoto Yoshida（）——鼓手。葛西的故友，於2013年12月加入Mili\[7\]
@@ -243,13 +243,20 @@ SNCL-00018(通常版)</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2014年12月22日</p></td>
+<td><p>Holy and Darkness 1</p></td>
+<td><p>HTYO-0001</p></td>
+<td><p>与arai tasuku共同创作</p></td>
+<td><p><a href="http://projectmili.com/holy-and-darkness-festival/">http://projectmili.com/holy-and-darkness-festival/</a></p></td>
+</tr>
+<tr class="odd">
 <td><p>2015年2月28日</p></td>
 <td><p>H△G × Mili vol.2</p></td>
 <td><p>WWSP-1002</p></td>
 <td><p>与H△G共同创作</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -271,67 +278,41 @@ SNCL-00018(通常版)</p></td>
 [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
-
 19.
-
 20.
-
 21.
-
 22.
 23.
 24.
-
 25.
 26.
-
 27.
-
 28.
 29.
 30.
-
 31.
 32.
-
 33.
 34.
-
 35.
-
 36.
-
 37.
-
 38.
 39.

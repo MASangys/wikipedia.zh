@@ -123,7 +123,7 @@
   - **[哪位政治人物](../Page/向钧.md "wikilink")**曾任[中国共产党湖南省委员会](../Page/中国共产党湖南省委员会.md "wikilink")组织部长，组织[年关暴动](https://zh.wikipedia.org/wiki/年关暴动 "wikilink")，后因叛徒告密而被捕、被杀？
   - 2018年5月21日，**[哪位北京市人民政府副秘书长](../Page/王晓明_\(北京官员\).md "wikilink")**在一场会议之后坠楼身亡？
   - **[哪位政治人物](../Page/赵济猛.md "wikilink")**是[中国共产党浙江省委员会](../Page/中国共产党浙江省委员会.md "wikilink")的发起人之一，1928年1月在[杭州](https://zh.wikipedia.org/wiki/杭州 "wikilink")[钱塘门](../Page/钱塘门.md "wikilink")被杀害？
-  - **[哪位政治人物](../Page/郑复他.md "wikilink")**曾任[上海总工会委员长](https://zh.wikipedia.org/wiki/上海总工会 "wikilink")，在和[陈乔年](https://zh.wikipedia.org/wiki/陈乔年 "wikilink")、[许白昊](../Page/许白昊.md "wikilink")等人秘密开会中，被告密抓捕、杀害？
+  - **[哪位政治人物](../Page/郑复他.md "wikilink")**曾任[上海总工会委员长](https://zh.wikipedia.org/wiki/上海总工会 "wikilink")，在和[陈乔年](../Page/陈乔年.md "wikilink")、[许白昊](../Page/许白昊.md "wikilink")等人秘密开会中，被告密抓捕、杀害？
   - **[哪位军事将领](../Page/潘心源.md "wikilink")**曾在1927年[秋收起义](../Page/秋收起义.md "wikilink")前掩护[毛泽东](../Page/毛泽东.md "wikilink")脱离险境？
   - **[哪一位政治人物](../Page/周冷波.md "wikilink")**是[中国共产党第六次全国代表大会](../Page/中国共产党第六次全国代表大会.md "wikilink")主席团中唯一的女性成员？
   - **[哪一次-{zh-cn:网络; zh-tw:網路;}-反腐事件](../Page/严春风事件.md "wikilink")**让中國四川省广安市委副书记[严春风](../Page/严春风.md "wikilink")在短短四天内就落马？

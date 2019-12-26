@@ -10,10 +10,7 @@ Grilled tilapia with banku.jpg|Banku與烤吳郭魚 Banku soup with crab and fer
 
 1.
 2.
-
 3.
-
 4.
-
 5.
 6.

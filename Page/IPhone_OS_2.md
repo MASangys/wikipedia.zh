@@ -5,22 +5,24 @@
 ## 應用程式
 
   - [訊息](../Page/訊息_\(應用程式\).md "wikilink")
+
   - [YouTube](../Page/YouTube.md "wikilink")
-  - [時鐘](https://zh.wikipedia.org/wiki/時鐘_\(應用程式\) "wikilink")
+
+  -
   - [iTunes](https://zh.wikipedia.org/wiki/ITunes_Store "wikilink")
 
 <!-- end list -->
 
-  - [計數機](https://zh.wikipedia.org/wiki/計數機_\(應用程式\) "wikilink")
-  - [股市](https://zh.wikipedia.org/wiki/雅虎金融 "wikilink")
+  -
+  -
   - [App Store](../Page/App_Store_\(iOS\).md "wikilink")
 
 <!-- end list -->
 
-  - [相片](https://zh.wikipedia.org/wiki/相片_\(應用程式\) "wikilink")
-  - [地圖](https://zh.wikipedia.org/wiki/Apple_Map "wikilink")
-  - [備忘錄](https://zh.wikipedia.org/wiki/備忘錄_\(應用程式\) "wikilink")
+  -
+  - [地圖](https://zh.wikipedia.org/wiki/地圖 "wikilink")
 
+  -
 <!-- end list -->
 
   - [相機](https://zh.wikipedia.org/wiki/相機 "wikilink")
@@ -94,9 +96,8 @@ iPod Touch用戶的iPhone OS 2售價9.95美元; 這對iPhone用戶來說是免�
 
 <!-- end list -->
 
-  - [iPod Touch (第一代)](https://zh.wikipedia.org/wiki/iPod_Touch_\(第一代\) "wikilink")
-  - [iPod Touch (第二代))](https://zh.wikipedia.org/wiki/iPod_Touch_\(第二代\)\) "wikilink")
-
+  -
+  -
 ## 參考資料
 
 ## 外部連結

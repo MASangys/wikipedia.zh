@@ -29,26 +29,18 @@
 [Category:控制理论](https://zh.wikipedia.org/wiki/Category:控制理论 "wikilink") [Category:数字信号处理](https://zh.wikipedia.org/wiki/Category:数字信号处理 "wikilink") [Category:滤波器理论](https://zh.wikipedia.org/wiki/Category:滤波器理论 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
 10.
 11.
 12.
 13.
-
 14.
 15.
 16.

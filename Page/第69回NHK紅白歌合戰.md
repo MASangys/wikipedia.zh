@@ -15,7 +15,7 @@
   - 12月12日，出道40周年的摇滚乐队[南方之星](../Page/南方之星.md "wikilink")确定以「特別企劃」出演，是相隔4年後再次以相同方式於紅白中出場，也是他們相隔35年後再次在NHK音樂廳內作直播演出\[10\]。
   - 12月16日，Aqours、刀剑男士和[AKB48](../Page/AKB48.md "wikilink")的演出曲目确定，在泰国活动的AKB48姐妹团体[BNK48](../Page/BNK48.md "wikilink")将与AKB48合作同台演出\[11\]。
   - 12月18日，公布NHK娱乐节目《》（）的主角小智子，以及該节目中的问题解答者、搞笑艺人[岡村隆史](../Page/岡村隆史.md "wikilink")（[NINETY-NINE](../Page/NINETY-NINE.md "wikilink")）将一同在企划环节出演，这也是冈村自2006年以来再度登上红白舞台\[12\]。
-  - 12月19日，嘉宾审查员名单公布\[13\]。同时本次红白的计分方法也一并公布，具体为电视观众、现场观众、现场审查员三方各自计票，对决全部结束后，每一方的胜出者获得一分，总分获得两分即赢得本次红白歌合战的胜利\[14\]。
+  - 12月19日，嘉宾审查员名单公布\[13\]。同时本次红白的審查方法也一并公布，具体为电视观众、现场观众、现场审查员三方各自计票，对决全部结束后，每一方的胜出者获得1分（共3分），总分获得2分即赢得本次红白歌合战的胜利\[14\]。
   - 12月21日，所有参演歌手的曲目确定\[15\]。今年的节目中[Perfume和](https://zh.wikipedia.org/wiki/Perfume "wikilink")[福山雅治](../Page/福山雅治.md "wikilink")将从各自的跨年演唱会现场进行连线演出\[16\]。
   - 12月22日，公布[石川小百合](../Page/石川小百合.md "wikilink")将与吉他手[布袋寅泰](../Page/布袋寅泰.md "wikilink")共演，这是布袋继[第57回](https://zh.wikipedia.org/wiki/第57回NHK红白歌合战 "wikilink")（2006年）与[今井美树共演以来时隔](https://zh.wikipedia.org/wiki/今井美树 "wikilink")12年再上红白\[17\]。
   - 12月25日，公布英国歌手[莎拉·布萊曼](../Page/莎拉·布萊曼.md "wikilink")将与YOSHIKI合作演出YOSHIKI作词作曲的歌曲《Miracle》，这是莎拉自1991年以来时隔27年再度出演红白\[18\]。此外担任X JAPAN和[LUNA SEA吉他手的](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")[SUGIZO](../Page/SUGIZO.md "wikilink")将参演YOSHIKI与HYDE合作演出的歌曲《Red Swan》\[19\]。
@@ -273,7 +273,7 @@
 
   - 小智子、[岡村隆史](../Page/岡村隆史.md "wikilink")（搞笑二人組[NINETY-NINE](../Page/NINETY-NINE.md "wikilink")成員）：NHK綜合台綜藝節目《》出演者。於企劃單元「小智子×紅白」（）登場演出。
 
-  - （[2018年平昌冬奧](https://zh.wikipedia.org/wiki/2018年冬季奥林匹克运动会 "wikilink")[女子冰壺競賽銅牌得主](../Page/2018年冬季奧林匹克運動會女子冰壺比賽.md "wikilink")）：[天童芳美](../Page/天童芳美.md "wikilink")的表演應援者。
+  - （[2018年平昌冬奧](../Page/2018年冬季奥林匹克运动会.md "wikilink")[女子冰壺競賽銅牌得主](../Page/2018年冬季奧林匹克運動會女子冰壺比賽.md "wikilink")）：[天童芳美](../Page/天童芳美.md "wikilink")的表演應援者。
 
   - 、小林航太、村雨辰剛：NHK綜合台迷你節目《》出演者。天童芳美的表演應援者。
 
@@ -337,82 +337,44 @@
 [Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink") [Category:2018年日本電視節目](https://zh.wikipedia.org/wiki/Category:2018年日本電視節目 "wikilink")
 
 1.
-
 2.
-
 3.  樱井此前以“嵐”成員之身分，擔任2010年至2014年紅白歌合戰的白组主持人。
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25. 本單元為[NHK教育台兒童節目](../Page/NHK教育頻道.md "wikilink")《》、以及[NHK綜合台短劇綜藝節目](../Page/NHK綜合頻道.md "wikilink")《》的合作企劃。
-
 26. 演唱星野源歌曲《》
-
 27. 与其[泰国](../Page/泰国.md "wikilink")姊妹团体[BNK48](../Page/BNK48.md "wikilink")（初次登场）共同演出，分别以[日语](../Page/日语.md "wikilink")和[泰语](../Page/泰语.md "wikilink")演唱。
-
 28. AKB48延續[上屆紅白的作法](../Page/第68回NHK紅白歌合戰.md "wikilink")，從[AKB48集團](../Page/AKB48集團.md "wikilink")日本國內各團中選拔16名成員代表登台演出。出場成員名單：
-
 29. 于[橫濱體育館](../Page/橫濱體育館.md "wikilink")举行的單獨跨年演唱會作现场连线演出。
-
 30. （曾在第56届（2005年）至第60届（2009年）连续登场5次）和
-
 31. 曾以[ELEPHANT KASHIMASHI主唱身份在上一届](../Page/ELEPHANT_KASHIMASHI.md "wikilink")（2017年）红白登场。
-
 32. 与[布袋寅泰](../Page/布袋寅泰.md "wikilink")（1）共同演出。
-
 33. 用於取代[NHK綜合台](../Page/NHK綜合頻道.md "wikilink")、[NHK World Premium等](../Page/NHK_World_Premium.md "wikilink")2電視頻道於20:55-21:00播出的《NHK新闻》。
-
 34.
-
 35.
 36.
-
 37.
 38.
-
 39.
-
 40.
-
 41.
-
 42.

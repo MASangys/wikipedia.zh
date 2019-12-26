@@ -43,29 +43,17 @@ NB-IoT特別著重在室內的覆蓋率、低成本、長電池壽命以及高�
 [Category:物聯網](https://zh.wikipedia.org/wiki/Category:物聯網 "wikilink") [Category:移动技术](https://zh.wikipedia.org/wiki/Category:移动技术 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10. GSA: [Global Narrowband IoT – LTE-M networks – March 2019](https://gsacom.com/paper/global-narrowband-iot-lte-m-networks-march-2019/) (retrieved 27 March 2019-03-27)
-
 11.
 12. [GSA: NB-IoT and LTE-M: Global Ecosystem and Market Status, April 2019](https://gsacom.com/paper/iot-ecosystem-report-april19/?utm=reports4g) (retrieved 2019-04-24)
-
 13.
 14.
-
 15.

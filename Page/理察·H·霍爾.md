@@ -15,9 +15,7 @@
 [Category:康乃狄克州人](https://zh.wikipedia.org/wiki/Category:康乃狄克州人 "wikilink") [Category:美國學者](https://zh.wikipedia.org/wiki/Category:美國學者 "wikilink") [Category:幽浮學家](https://zh.wikipedia.org/wiki/Category:幽浮學家 "wikilink") [Category:美國非虛構作品作家](https://zh.wikipedia.org/wiki/Category:美國非虛構作品作家 "wikilink") [Category:罹患大腸癌逝世者](https://zh.wikipedia.org/wiki/Category:罹患大腸癌逝世者 "wikilink")
 
 1.  tory, Ronald D. (Ed.), *The Encyclopedia of Extraterrestrial Encounters*. Page 239. New American Library, 2001.
-
 2.
-
 3.
 4.
 5.

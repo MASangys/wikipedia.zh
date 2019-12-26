@@ -24,7 +24,7 @@
 ## 主題曲
 
   - 片頭曲「BLOOM」
-    作詞：[西又葵](../Page/西又葵.md "wikilink")，作曲：十二十，編曲：十二十、M.A.I.，主唱：[橋本みゆき](https://zh.wikipedia.org/wiki/橋本みゆき "wikilink")\[3\]
+    作詞：[西又葵](../Page/西又葵.md "wikilink")，作曲：十二十，編曲：十二十、M.A.I.，主唱：[橋本美雪](../Page/橋本美雪.md "wikilink")\[3\]
   - 片尾曲「Dream Destination」
     作詞：西又葵，主唱：Akira chang
 

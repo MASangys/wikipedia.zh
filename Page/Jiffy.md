@@ -33,19 +33,12 @@
 [Category:时间单位](https://zh.wikipedia.org/wiki/Category:时间单位 "wikilink") [Category:操作系统](https://zh.wikipedia.org/wiki/Category:操作系统 "wikilink") [Category:中断](https://zh.wikipedia.org/wiki/Category:中断 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.  [Entry on *jiffy*](http://catb.org/~esr/jargon/html/J/jiffy.html) in [The Jargon File](https://zh.wikipedia.org/wiki/The_Jargon_File "wikilink")
-
 8.  "The Cosmic Numbers" in *Cosmology, The Science of the Universe*, 1981 Cambridge Press
-
 9.
 10. {{ cite journal | last = Lieu | first = Richard |author2=Hillman, Lloyd W. | date = 2003-03-10 | title = The Phase Coherence of Light from Extragalactic Sources: Direct Evidence against First-Order Planck-Scale Fluctuations in Time and Space | journal = The Astrophysical Journal | volume = 585 | pages = L77–L80 | doi = 10.1086/374350 | issue = 2 | bibcode = 2003ApJ...585L..77L | arxiv = astro-ph/0301184 }}

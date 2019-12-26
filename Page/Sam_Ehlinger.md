@@ -10,7 +10,5 @@ Ehlinger在[德克萨斯州奥斯汀的](../Page/奧斯汀.md "wikilink") Westla
 [Category:美式足球四分卫](https://zh.wikipedia.org/wiki/Category:美式足球四分卫 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
-
 2.
-
 3.

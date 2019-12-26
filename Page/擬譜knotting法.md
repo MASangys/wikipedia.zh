@@ -27,14 +27,9 @@
 [Category:最佳控制](https://zh.wikipedia.org/wiki/Category:最佳控制 "wikilink") [Category:数值分析](https://zh.wikipedia.org/wiki/Category:数值分析 "wikilink") [Category:控制理论](https://zh.wikipedia.org/wiki/Category:控制理论 "wikilink")
 
 1.  Ross, I. M. and Fahroo, F., Pseudospectral Knotting Methods for Solving Optimal Control Problems, *Journal of Guidance, Control and Dynamics,* Vol. 27, No. 3, pp. 397–405, 2004.
-
 2.
 3.  Ross, I. M. and D’Souza, C. N., A Hybrid Optimal Control Framework for Mission Planning, *Journal of Guidance, Control and Dynamics,* Vol. 28, No. 4, July–August 2005, pp. 686–697.
-
 4.  Stevens, R. and Ross, I. M., Preliminary Design of Earth–Mars Cyclers Using Solar Sails, *Journal of Spacecraft and Rockets,* Vol. 41, No. 4, 2004.
-
 5.  Stevens, R., Ross, I. M. and Matousek, S. E., "Earth-Mars Return Trajectories Using Solar Sails," 55th International Astronautical Congress, Vancouver, Canada, IAC-04-A.2.08, October 4–8, 2004.
-
 6.  Gong, Q., Fahroo, F. and Ross, I. M., A Spectral Algorithm for Pseudospectral Methods in Optimal Control, *Journal of Guidance, Control and Dynamics,* Vol. 31, No. 3, pp. 460–471, 2008.
-
 7.  [MATLAB optimal control](https://www.mathworks.com/products/connections/product_detail/product_61633.html)

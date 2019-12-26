@@ -61,14 +61,10 @@
 [Category:計算機科學獎項](https://zh.wikipedia.org/wiki/Category:計算機科學獎項 "wikilink") [Category:IEEE獎章](https://zh.wikipedia.org/wiki/Category:IEEE獎章 "wikilink") [Category:1986年建立的奖项](https://zh.wikipedia.org/wiki/Category:1986年建立的奖项 "wikilink") [Category:1986年建立](https://zh.wikipedia.org/wiki/Category:1986年建立 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
@@ -80,13 +76,10 @@
 14.
 15.
 16.
-
 17.
-
 18.
 19.
 20.
-
 21.
 22.
 23.

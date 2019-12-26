@@ -22,13 +22,10 @@ INRegistry的口号是“将每个人连接在一起”（）\[8\]
 [Category:印度](https://zh.wikipedia.org/wiki/Category:印度 "wikilink") [Category:印度組織](https://zh.wikipedia.org/wiki/Category:印度組織 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.
 7.
-
 8.

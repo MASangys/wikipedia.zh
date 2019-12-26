@@ -82,23 +82,13 @@ Void遵循[滾動更新的發佈模式](https://zh.wikipedia.org/wiki/滚动更�
 [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink") [Category:2008年软件](https://zh.wikipedia.org/wiki/Category:2008年软件 "wikilink") [Category:可从只读媒体启动的操作系统发行版](https://zh.wikipedia.org/wiki/Category:可从只读媒体启动的操作系统发行版 "wikilink")
 
 1.
-
 2.  [Void Linux: A Salute to Old-School Linux | Linux.com | The source for Linux information](https://www.linux.com/learn/intro-to-linux/2017/10/void-linux-salute-old-school-linux)
-
 3.  [DistroWatch Weekly, Issue 714, 29 May 2017](https://distrowatch.com/weekly.php?issue=20170529#void)
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.  \[//github.com/void-linux/void-packages *xbps-src*\]. Manual.md
-
 10. [Flatpak](https://voidlinux.org/news/2017/04/Flatpak.html)
-
 11.

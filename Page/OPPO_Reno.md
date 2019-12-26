@@ -1,10 +1,10 @@
-**OPPO Reno**與**OPPO Reno 10倍變焦版**是[步步高電子開發並由](https://zh.wikipedia.org/wiki/步步高電子 "wikilink")[OPPO](../Page/OPPO.md "wikilink")製造的[Android](../Page/Android.md "wikilink")系統[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，於2019年4月10日正式發布。\[1\]\[2\]\[3\]\[4\]
+**OPPO Reno**與**OPPO Reno 10倍變焦版**是[OPPO](../Page/OPPO.md "wikilink")開發和製造的[Android](../Page/Android.md "wikilink")系統[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，於2019年4月10日正式發布。\[1\]\[2\]\[3\]\[4\]
 
 ## 規格
 
 ### 硬件
 
-OPPO Reno 10倍變焦版搭載了一枚[高通](../Page/高通.md "wikilink")[驍龍](../Page/高通驍龍.md "wikilink")[855處理器](https://zh.wikipedia.org/wiki/高通驍龍元件列表#Snapdragon_855 "wikilink")。配備感光元件Sony IMX586，可以輸出4800萬像素相片，採用三攝全焦段影像系統，4800萬高清主攝、1300萬潛望式長焦鏡頭和800萬超廣角鏡頭，以「接棒式」實現16-160mm 的「全焦段」覆蓋，並擁有雙OIS[光學防震](https://zh.wikipedia.org/wiki/光學防震 "wikilink")。
+OPPO Reno 10倍變焦版搭載了一枚[高通](../Page/高通.md "wikilink")[驍龍](../Page/高通驍龍.md "wikilink")[855處理器](https://zh.wikipedia.org/wiki/高通驍龍元件列表#Snapdragon_855 "wikilink")。配備感光元件Sony IMX586，可以輸出4800萬像素相片，採用三攝全焦段影像系統，4800萬高清主攝、1300萬潛望式長焦鏡頭和800萬超廣角鏡頭，以「接棒式」實現16-160mm 的「全焦段」覆蓋，並擁有雙OIS[光學防震](https://zh.wikipedia.org/wiki/光学防抖 "wikilink")。
 
 ### 軟件
 

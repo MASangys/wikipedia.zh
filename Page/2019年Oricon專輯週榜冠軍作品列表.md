@@ -140,7 +140,7 @@
 <tr class="even">
 <td><p>4月22日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Flawless_Love_(金在中專輯)" title="wikilink">Flawless Love</a></p></td>
-<td><p><a href="../Page/金在中.md" title="wikilink">金在中</a></p></td>
+<td><p><a href="../Page/金在中.md" title="wikilink">在中</a></p></td>
 <td><p>原創</p></td>
 <td><p>4.2</p></td>
 <td><p>1</p></td>
@@ -323,10 +323,82 @@
 </tr>
 <tr class="odd">
 <td><p>9月30日</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Perfume_The_Best_“P_Cubed”" title="wikilink">Perfume The Best “P Cubed”</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></p></td>
 <td><p>精選</p></td>
 <td><p>9.7</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>10月7日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Love_Covers" title="wikilink">Love Covers</a></p></td>
+<td><p>在中</p></td>
+<td><p>原創</p></td>
+<td><p>6.3</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>10月14日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/An_Ode" title="wikilink">An Ode</a></p></td>
+<td><p>SEVENTEEN</p></td>
+<td><p>原創</p></td>
+<td><p>4.4</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>10月21日</p></td>
+<td></td>
+<td></td>
+<td><p>原創</p></td>
+<td><p>8.5</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>10月28日</p></td>
+<td></td>
+<td><p><a href="../Page/東方神起.md" title="wikilink">東方神起</a></p></td>
+<td><p>原創</p></td>
+<td><p>15.5</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>11月4日</p></td>
+<td><p>[[COMINATCHA</p></td>
+<td><p>|COMINATCHA</p></td>
+<td><p>]]</p></td>
+<td><p><a href="../Page/WANIMA.md" title="wikilink">WANIMA</a></p></td>
+<td><p>原創</p></td>
+</tr>
+<tr class="odd">
+<td><p>11月11日</p></td>
+<td></td>
+<td><p><a href="../Page/Hey!_Say!_JUMP.md" title="wikilink">Hey! Say! JUMP</a></p></td>
+<td><p>原創</p></td>
+<td><p>18.9</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>11月18日</p></td>
+<td><p>歌之王子殿下 来栖翔 SOLO BEST ALBUM</p></td>
+<td><p><a href="../Page/下野紘.md" title="wikilink">来栖翔</a></p></td>
+<td><p>原創</p></td>
+<td><p>3.0</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>11月25日</p></td>
+<td></td>
+<td><p><a href="../Page/椎名林檎.md" title="wikilink">椎名林檎</a></p></td>
+<td><p>精選</p></td>
+<td><p>9.7</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>12月2日</p></td>
+<td><p><a href="../Page/&amp;TWICE.md" title="wikilink">&amp;TWICE</a></p></td>
+<td><p>TWICE</p></td>
+<td><p>原創</p></td>
+<td><p>12.4</p></td>
 <td><p>1</p></td>
 </tr>
 </tbody>

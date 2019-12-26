@@ -318,4 +318,4 @@
 2.  A list of translations into all the [European Union](https://zh.wikipedia.org/wiki/European_Union "wikilink") official languages can be found in Annex IV to the [CLP Regulation](https://zh.wikipedia.org/wiki/CLP_Regulation "wikilink"), on pages 210–324 of the official English-language version.
 3.  Part 1, section 1.4.10.5.2, GHS Rev.2
 4.  Part 1, section 1.4.10.5.2(c)(ii), GHS Rev.2
-5.  *[CLP: Fourth adaptation to technical progress published](http://www.reach.lu/mmp/online/website/menu_hori/news/93/701_EN.html)*
+5.  *[CLP: Fourth adaptation to technical progress published](http://www.reach.lu/mmp/online/website/menu_hori/news/93/701_EN.html) *

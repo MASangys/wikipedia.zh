@@ -5,14 +5,9 @@
 [Category:镍化合物](https://zh.wikipedia.org/wiki/Category:镍化合物 "wikilink") [Category:钴氰酸盐](https://zh.wikipedia.org/wiki/Category:钴氰酸盐 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.  Tribunescu, P.; Pirlea, Gh. Kinetics of the thermal decomposition of cobalt and nickel hexacyanocobaltates and mixed cobalt-​thallium and nickel-​thallium hexacyanocobaltates. *Buletinul Stiintific si Tehnic al Institutului Politehnic Traian Vuia Timisoara*, 1969. 14 (2): 561-567. ISSN: 0563-5594.
-
 7.

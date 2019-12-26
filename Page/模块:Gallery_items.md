@@ -14,7 +14,8 @@ function p.main(frame)
 `           local item = mw.html.create('li')`
 `               :addClass('gallerybox')`
 `               :css('width', (args['width' .. k] or width)+5 .. 'px')`
-`           item:tag('div')`
+`           local itemdiv = item:tag('div'):css('width', (args['width' .. k] or width)+5 .. 'px')`
+`           itemdiv:tag('div')`
 `                   :addClass('thumb')`
 `                   :css('width', (args['width' .. k] or width) .. 'px')`
 `                   :css('text-align', args['itemalign'])`
@@ -29,7 +30,7 @@ function p.main(frame)
 ')
 
 `           if args[tonumber(k)+1] then`
-`               item`
+`               itemdiv`
 `                   :tag('div')`
 `                   :addClass('gallerytext')`
 `                   :css('text-align', args['captionalign'])`

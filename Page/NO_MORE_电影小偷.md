@@ -53,42 +53,25 @@
 
   -
   -
-[Category:日本电影](https://zh.wikipedia.org/wiki/Category:日本电影 "wikilink") [Category:日本電視廣告](https://zh.wikipedia.org/wiki/Category:日本電視廣告 "wikilink") [Category:倡導](https://zh.wikipedia.org/wiki/Category:倡導 "wikilink")
+[Category:日本电影](https://zh.wikipedia.org/wiki/Category:日本电影 "wikilink") [Category:廣告](https://zh.wikipedia.org/wiki/Category:廣告 "wikilink") [Category:倡導](https://zh.wikipedia.org/wiki/Category:倡導 "wikilink")
 
 1.
-
 2.
-
-3.  [](http://nlab.itmedia.co.jp/nl/articles/1212/19/news083.html)-（2012年12月19日）
-
+3.  [](http://nlab.itmedia.co.jp/nl/articles/1212/19/news083.html) -（2012年12月19日）
 4.  第1版中有响起及红色光闪动的画面。
-
 5.
 6.
-
-7.  [](http://nlab.itmedia.co.jp/nl/articles/1402/06/news081.html)-（2014年2月6日）
-
+7.  [](http://nlab.itmedia.co.jp/nl/articles/1402/06/news081.html) -（2014年2月6日）
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
-17. [](http://internet.watch.impress.co.jp/docs/yajiuma/20111021_485089.html)（impress、2011年10月21日）
-
-18. [](http://internet.watch.impress.co.jp/docs/yajiuma/20111027_486484.html)（impress、2011年10月27日）
-
+17. [](http://internet.watch.impress.co.jp/docs/yajiuma/20111021_485089.html) （impress、2011年10月21日）
+18. [](http://internet.watch.impress.co.jp/docs/yajiuma/20111027_486484.html) （impress、2011年10月27日）
 19.
 20.

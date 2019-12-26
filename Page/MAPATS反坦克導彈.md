@@ -65,19 +65,14 @@ MAPATS有時會被暱稱為「Hurt」（）——在[亞拉姆語](../Page/亞�
 
 1.
 2.
-
 3.
-
 4.
 5.
 6.
 7.  [Эстония вооружается](http://www.regnum.ru/news/213045.html) // информагентство «REGNUM» от 4 февраля 2004
-
 8.  [Kaitsevägi — Tehnika — Tankitõrjeraketisüsteem MAPATS](http://www.mil.ee/?menu=tehnika1&sisu=mapats)
-
 9.
 10.
 11. The Military Balance 2016,p.334
-
 12.
 13. The Military Balance 2016,p.416

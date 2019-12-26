@@ -23,22 +23,14 @@ CYP17A1可被两种甾类抑制剂和[galeterone特异地抑制](https://zh.wiki
 [Category:细胞色素P450](https://zh.wikipedia.org/wiki/Category:细胞色素P450 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.

@@ -24,7 +24,7 @@
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p>2015年06月</p></td>
+<td><p>2015年6月</p></td>
 <td><p>《2nd Demo》</p></td>
 <td><p>國語</p></td>
 <td></td>
@@ -45,7 +45,7 @@
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p>2014年05月</p></td>
+<td><p>2014年5月</p></td>
 <td><p>《登鸛雀樓》</p></td>
 <td><p>國語</p></td>
 <td></td>
@@ -73,7 +73,7 @@
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p>2016年04月</p></td>
+<td><p>2016年4月</p></td>
 <td><p>《老子有的是時間》</p></td>
 <td><p>國語</p></td>
 <td></td>
@@ -96,19 +96,26 @@
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p>2015年06月</p></td>
+<td><p>2015年6月</p></td>
 <td><p>《Leo王賣瓜自賣自誇》</p></td>
 <td><p>國語</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p>2016年05月</p></td>
+<td><p>2016年5月</p></td>
 <td><p>《沙發王》</p></td>
 <td><p>國語</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>3</p></td>
+<td><p>2019年12月</p></td>
+<td><p>《雞腿便當》</p></td>
+<td><p>國語</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -131,7 +138,7 @@
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p>2016年08月</p></td>
+<td><p>2016年8月</p></td>
 <td><p>《羊肉》</p></td>
 <td><p>國語</p></td>
 <td></td>
@@ -173,7 +180,7 @@
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p>2016年05月</p></td>
+<td><p>2016年5月</p></td>
 <td><p>《初代目》</p></td>
 <td><p>國語</p></td>
 <td></td>
@@ -302,6 +309,20 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/最佳國語男歌手獎_(金曲獎)" title="wikilink">最佳國語男歌手獎</a></p></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/第10屆金音創作獎" title="wikilink">第10屆金音創作獎</a></p></td>
+<td><p>最佳嘻哈專輯獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最佳嘻哈單曲獎</p></td>
+<td><p>〈快樂的甘蔗人〉</p></td>
 <td></td>
 <td></td>
 <td></td>

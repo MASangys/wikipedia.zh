@@ -47,7 +47,7 @@
 <td><p>（）</p></td>
 <td></td>
 <td><ul>
-<li><p>旗下歌手</p></li>
+<li><a href="../Page/AOMG.md" title="wikilink">AOMG</a>旗下歌手</li>
 </ul></td>
 <td></td>
 <td></td>

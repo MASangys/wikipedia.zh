@@ -4,6 +4,8 @@
 
 2018年11月14日[Tiffany Young官方網站宣佈](https://zh.wikipedia.org/wiki/黃美英 "wikilink")2019年舉行《[Lips On Lips North American Mini Showcase Tour](../Page/Lips_On_Lips_North_American_Mini_Showcase_Tour.md "wikilink")》\[1\]\[2\]，以[加拿大](../Page/加拿大.md "wikilink")[多倫多為起點陸續於](https://zh.wikipedia.org/wiki/多倫多 "wikilink")[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")、[芝加哥](../Page/芝加哥.md "wikilink")、[明尼亞波利斯](https://zh.wikipedia.org/wiki/明尼亞波利斯 "wikilink")、[西雅圖](../Page/西雅圖.md "wikilink")、[溫哥華](../Page/溫哥華.md "wikilink")、[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")、[洛杉磯等進行巡迴演出](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。\[3\]\[4\]11月16日在官方YouTube釋出宣傳影片。\[5\]
 
+2019年宣佈於3月26日在韓國舉行《[Lips On Lips](https://zh.wikipedia.org/wiki/Lips_On_Lips "wikilink")》簽售會暨小型Showcase。
+
 ## 演出時間表
 
 <table>
@@ -70,6 +72,20 @@
 <td><p>2019年3月16日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《韓國場迷你showcase》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年3月26日</p></td>
+<td></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td></td>
 </tr>

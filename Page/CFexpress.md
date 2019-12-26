@@ -65,42 +65,23 @@ CompactFlash联盟于2016年9月7日发布了基于PCIe接口与NVNe协议的CFe
 [Category:计算机标准](https://zh.wikipedia.org/wiki/Category:计算机标准 "wikilink") [Category:固態電腦儲存媒體](https://zh.wikipedia.org/wiki/Category:固態電腦儲存媒體 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.  Nikon Rumors|url=[https://nikonrumors.com/2017/10/31/more-info-on-lexar-xqd-and-cfexpress-memory-cards-compatibility-hoodman-rumored-to-start-making-xqd-cards.aspx/|accessdate=2017-11-08|work=nikonrumors.com|language=en-US](https://nikonrumors.com/2017/10/31/more-info-on-lexar-xqd-and-cfexpress-memory-cards-compatibility-hoodman-rumored-to-start-making-xqd-cards.aspx/%7Caccessdate=2017-11-08%7Cwork=nikonrumors.com%7Clanguage=en-US)}}
-
 17.
-
 18.
-
 19.
-
 20.
 21.

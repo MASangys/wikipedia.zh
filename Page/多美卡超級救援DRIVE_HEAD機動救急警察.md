@@ -12,10 +12,10 @@
 
   -
     配音員：[藤原夏海](../Page/藤原夏海.md "wikilink")（日本）；[楊詩穎](../Page/楊詩穎.md "wikilink")\[1\]（台灣）
-    本作主角，Drive Head 一號音速攔截、Drive Head 一號MKII疾速旋風攔截的駕駛員。
+    本作主角，Drive Head 一號音速攔截、Drive Head 一號-{A|zh-tw:馬克二號;zh-hans:MKII;}-疾速旋風攔截的駕駛員。
   -
     配音員：[國立幸](../Page/國立幸.md "wikilink")（日本）；[連思宇](../Page/連思宇.md "wikilink")\[2\]（台灣）
-    Drive Head 二號烈焰克星、Drive Head 二號MKII勇氣烈焰克星、Drive Head 二號MKIII大師烈焰克星（暫譯）的駕駛員。
+    Drive Head 二號烈焰克星、Drive Head 二號MKII勇氣烈焰克星、Drive Head 二號-{A|zh-tw:馬克三號;zh-hans:MKIII;}-大師烈焰克星（暫譯）的駕駛員。
   -
     配音員：[三澤紗千香](../Page/三澤紗千香.md "wikilink")（日本）；[張乃文](../Page/張乃文_\(配音員\).md "wikilink")\[3\]（台灣）
     Drive Head 三號白色希望、Drive Head 三號MKII白色水晶希望的駕駛員之一。於《DRIVE HEAD 2018》第6話起駕駛Drive Head 三號MKII白色珍珠希望。
@@ -764,10 +764,9 @@ LEE DUK HO</p></td>
   -
   -
   -
-[Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:TBS電視網動畫 "wikilink") [Category:機械人動畫](https://zh.wikipedia.org/wiki/Category:機械人動畫 "wikilink") [Category:小學背景動畫](https://zh.wikipedia.org/wiki/Category:小學背景動畫 "wikilink") [Category:人命救助題材作品](https://zh.wikipedia.org/wiki/Category:人命救助題材作品 "wikilink") [Category:車輛題材作品](https://zh.wikipedia.org/wiki/Category:車輛題材作品 "wikilink") [Category:未來題材作品](https://zh.wikipedia.org/wiki/Category:未來題材作品 "wikilink") [Category:2010年代玩具](https://zh.wikipedia.org/wiki/Category:2010年代玩具 "wikilink")
+[Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:TBS電視網動畫 "wikilink") [Category:機械人動畫](https://zh.wikipedia.org/wiki/Category:機械人動畫 "wikilink") [Category:小學背景動畫](https://zh.wikipedia.org/wiki/Category:小學背景動畫 "wikilink") [Category:人命救助題材作品](https://zh.wikipedia.org/wiki/Category:人命救助題材作品 "wikilink") [Category:車輛題材作品](https://zh.wikipedia.org/wiki/Category:車輛題材作品 "wikilink") [Category:未來題材作品](https://zh.wikipedia.org/wiki/Category:未來題材作品 "wikilink") [Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink") [Category:2010年代玩具](https://zh.wikipedia.org/wiki/Category:2010年代玩具 "wikilink")
 
 1.  <https://facebook.com/Goldenfilmltd/photos/a.2002061603373816.1073741829.1878929335687044/2081875948725714/?type=3>
-
 2.
 3.
 4.
@@ -776,5 +775,4 @@ LEE DUK HO</p></td>
 7.
 8.
 9.  第1話至第11話的總集篇
-
 10. 第13話至第29話的總集篇

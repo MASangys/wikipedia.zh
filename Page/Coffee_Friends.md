@@ -1,4 +1,6 @@
-《**Coffee Friends**》（，），為韓國[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") 電視台於2019年1月4日推出的綜藝節目。由《[花樣爺爺](../Page/花樣爺爺.md "wikilink")》、《[一日三餐](../Page/一日三餐.md "wikilink")》、《[尹食堂](../Page/尹食堂.md "wikilink")》的[羅䁐錫](../Page/羅䁐錫.md "wikilink")PD擔任創意總監，而由《[家常飯白老師](../Page/家常飯白老師.md "wikilink")》、《[街頭美食鬥士](../Page/街頭美食鬥士.md "wikilink")》的朴熙妍PD擔任導演。節目源自[柳演錫和](https://zh.wikipedia.org/wiki/柳演錫 "wikilink")[孫浩俊](https://zh.wikipedia.org/wiki/孫浩俊 "wikilink")2018年一直在做的同名公益捐贈活動，他們親自駕駛咖啡車四處分享飲料，出價多少由購買者決定，所有營業收入用於公益捐款，讓各地民眾都能參與這個愛心捐款活動，也讓大家看到了捐贈其實是一件很簡單的事。朴熙妍PD表示：「看到[柳演錫和](https://zh.wikipedia.org/wiki/柳演錫 "wikilink")[孫浩俊一年來進行的捐贈活動](https://zh.wikipedia.org/wiki/孫浩俊 "wikilink")，對他們的初衷很有共鳴，於是決定拍成綜藝節目」。本節目延續這個富意義的捐贈活動，讓柳演錫和孫浩俊直接在濟州島經營咖啡廳，期間發生的大小事既有笑點也有讓人感動的地方\[1\]\[2\]\[3\]。 香港由[myTV SUPER點播](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")。台灣由[tvN Asia](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、[愛奇藝跟播](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")。新加坡由[Viu](../Page/Viu.md "wikilink")跟播。
+《**Coffee Friends**》（，），為韓國[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") 電視台於2019年1月4日推出的綜藝節目。由《[花樣爺爺](../Page/花樣爺爺.md "wikilink")》、《[一日三餐](../Page/一日三餐.md "wikilink")》、《[尹食堂](../Page/尹食堂.md "wikilink")》的[羅䁐錫](../Page/羅䁐錫.md "wikilink")PD擔任創意總監，而由《[家常飯白老師](../Page/家常飯白老師.md "wikilink")》、《[街頭美食鬥士](../Page/街頭美食鬥士.md "wikilink")》的朴熙妍PD擔任導演。節目源自[柳演錫和](https://zh.wikipedia.org/wiki/柳演錫 "wikilink")[孫浩俊](https://zh.wikipedia.org/wiki/孫浩俊 "wikilink")2018年一直在做的同名公益捐贈活動，他們親自駕駛咖啡車四處分享飲料，出價多少由購買者決定，所有營業收入用於公益捐款，讓各地民眾都能參與這個愛心捐款活動，也讓大家看到了捐贈其實是一件很簡單的事。朴熙妍PD表示：「看到[柳演錫和](https://zh.wikipedia.org/wiki/柳演錫 "wikilink")[孫浩俊一年來進行的捐贈活動](https://zh.wikipedia.org/wiki/孫浩俊 "wikilink")，對他們的初衷很有共鳴，於是決定拍成綜藝節目」。本節目延續這個富意義的捐贈活動，讓柳演錫和孫浩俊直接在濟州島經營咖啡廳，期間發生的大小事既有笑點也有讓人感動的地方\[1\]\[2\]\[3\]。
+
+香港由[myTV SUPER點播](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")。台灣由[tvN Asia](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、[愛奇藝跟播](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")。新加坡由[Viu](../Page/Viu.md "wikilink")跟播。
 
 ## 職員列表
 
@@ -152,7 +154,7 @@
 陷入冰淇淋的濃縮咖啡</p></td>
 <td><p>-黑豬肉番茄燉菜＋陷入燉菜的飯<br />
 -<a href="https://zh.wikipedia.org/wiki/法式吐司" title="wikilink">法式吐司</a>＋橘咖椰醬<br />
--奶酪培根吐司<br />
+-起司培根吐司<br />
 -開放式吐司<br />
 <a href="../Page/火腿蛋鬆餅.md" title="wikilink">班尼迪克蛋</a><br />
 -<a href="../Page/菠蘿包.md" title="wikilink">圓麵包</a>+美式咖啡（浩俊套餐）<br />

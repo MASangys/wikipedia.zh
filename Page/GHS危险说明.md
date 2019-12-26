@@ -233,6 +233,6 @@ GHS于2012年1月1日在[澳大利亚](../Page/澳大利亚.md "wikilink")通过
 5.  Annex III, CLP Regulation, pp. 192–200.
 6.  Annex III, CLP Regulation, pp. 200–9.
 7.  <http://www.safeworkaustralia.gov.au/sites/swa/whs-information/hazardous-chemicals/pages/hazardous-chemicals-other-substances>
-8.  <http://www.safeworkaustralia.gov.au/sites/SWA/about/Publications/Documents/642/Preparation_of_Safety_Data_Sheet_for_Hazardous_Chemicals2.pdf>
+8.
 9.  Schedule 6, Hazardous Substances (Classification) Regulations 2001
 10. reg. 20, Hazardous Substances (Identification) Regulations 2001

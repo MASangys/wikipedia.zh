@@ -65,7 +65,7 @@ eStar全称为eStar Gaming，是一家中国电子竞技俱乐部。是由知名
 <td><p>郭桂鑫</p></td>
 <td><p>上路</p></td>
 <td></td>
-<td></td>
+<td><p>|</p></td>
 </tr>
 <tr class="even">
 <td><p>兮兮</p></td>
@@ -92,8 +92,8 @@ eStar全称为eStar Gaming，是一家中国电子竞技俱乐部。是由知名
 <td><p>Cat</p></td>
 <td><p>陈正正</p></td>
 <td><p>中路</p></td>
-<td></td>
 <td><p>队长</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>无心</p></td>

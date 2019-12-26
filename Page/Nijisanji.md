@@ -67,7 +67,6 @@ Nijisanji应用于2月8日发布，原本只是聘請虛擬YouTuber來为手機�
 
   - 魔界之莉莉姆（）
   - **葛叶**
-  - 雪汝
   - **椎名唯华**
 
 #### Nijisanji SEEDs
@@ -81,7 +80,7 @@ Nijisanji应用于2月8日发布，原本只是聘請虛擬YouTuber來为手機�
   - 多拉（）
   - 出云霞
   - 轰京子
-  - 修女克蕾雅（）
+  - **修女克蕾雅**（）
   - 花畑嘉依卡（）
   - **社筑**
 
@@ -103,7 +102,7 @@ Nijisanji应用于2月8日发布，原本只是聘請虛擬YouTuber來为手機�
   - 春崎艾尔（）
   - 雨森小夜
   - **鹰宫莉音**（）
-  - 舞元启介
+  - **舞元启介**
 
 ###### 第二弹
 
@@ -137,7 +136,7 @@ Nijisanji于2018年6月8日宣布成立新虚拟主播计划VOIZ，同日黑羽�
 
   - **童田明治**（2019年1月8日）
   - **郡道美玲**（2019年1月17日）
-  - 梦月萝娅（，2019年1月17日）
+  - **梦月萝娅**（，2019年1月17日）
   - 小野町春香（2019年1月28日）
   - 语部纺（2019年1月28日）
   - 濑户美夜子（2019年1月28日）
@@ -149,7 +148,7 @@ Nijisanji于2018年6月8日宣布成立新虚拟主播计划VOIZ，同日黑羽�
   - 爱园爱美（2019年4月2日）
   - 铃原露露（，2019年4月29日）
   - 雪城真寻（2019年4月29日）
-  - Ex Albio（，2019年5月17日）
+  - **艾克斯・阿尔比欧**（，2019年5月17日）
   - Levi Elipha（，2019年5月17日）
 
 <!-- end list -->
@@ -165,6 +164,9 @@ Nijisanji于2018年6月8日宣布成立新虚拟主播计划VOIZ，同日黑羽�
   - 天宫心（，2019年8月8日）
   - Eli Conifer（，2019年8月8日）
   - Ratna Petit（，2019年8月8日）
+  - Shellin Burgundy（，2019年9月19日）
+  - 健屋花那（2019年9月19日）
+  - 早濑走（2019年9月19日）
 
 ### 已不再活动的Vtuber
 
@@ -177,6 +179,7 @@ Nijisanji于2018年6月8日宣布成立新虚拟主播计划VOIZ，同日黑羽�
   - 黑羽黑兔（VOIZ，2018年6月8日 - 6月30日，解约）
   - 神成Poirot（，VOIZ，2018年6月8日 - 6月30日，解约）
   - 真堂雷斗（2019年3月8日 - 3月12日，因个人品行问题解约）
+  - 雪汝（Gamers，2018年7月30日 - 2019年10月30日，自愿引退）
 
 ## Nijisanji的海外虚拟Youtuber
 
@@ -212,7 +215,7 @@ Nijisanji于2018年6月8日宣布成立新虚拟主播计划VOIZ，同日黑羽�
 
 ### VirtuaReal
 
-Nijisanji和bilibili合作制作的虚拟主播企划，于2019年4月19日开始招募。现有11名Vtuber在活动。除特别说明外，括号内日期为出道直播日。
+Nijisanji和bilibili合作制作的虚拟主播企划，于2019年4月19日开始招募。现有16名Vtuber在活动。除特别说明外，括号内日期为出道直播日。
 
   - 艾因（Eine，2019年5月14日）
 
@@ -235,6 +238,16 @@ Nijisanji和bilibili合作制作的虚拟主播企划，于2019年4月19日开�
   - 喵月（Nyatsuki，2019年9月29日）
 
   - 惑姬（Waku，2019年9月29日）
+
+  - 樱樱火（VirtuaReal Star成员，2019年10月5日加入）
+
+  - 羽音（Hanon，2019年11月1日）
+
+  - 真绯瑠（Mahiru）
+
+  - 弥希（Miki）
+
+  - 星弥（Hoshimi）
 
 ### NIJISANJI id
 
@@ -265,6 +278,10 @@ Nijisanji Network是彩虹社推出的VTuber事务企划。该企划独立于Nij
 
   - （2019年[7月12日](https://zh.wikipedia.org/wiki/7月12日 "wikilink")19時-20時、[日本广播电台](../Page/日本广播电台.md "wikilink")）- 剣持刀也、椎名唯華作为嘉宾出演
 
+## 書籍
+
+  - 起立\! 気をつけ\! にじさんじ学園\!（1）（原作 - にじさんじ、漫画 - 富士フジノ、[KADOKAWA](../Page/KADOKAWA.md "wikilink")、2018年[11月30日](../Page/11月30日.md "wikilink")、ISBN 978-4-04-065145-3）\[11\]
+
 ## 注释
 
 ## 参考资料
@@ -284,19 +301,13 @@ Nijisanji Network是彩虹社推出的VTuber事务企划。该企划独立于Nij
 [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:虛擬偶像](https://zh.wikipedia.org/wiki/Category:虛擬偶像 "wikilink") [Category:虛構藝人](https://zh.wikipedia.org/wiki/Category:虛構藝人 "wikilink") [Category:日本YouTuber](https://zh.wikipedia.org/wiki/Category:日本YouTuber "wikilink") [Category:虛擬YouTuber](https://zh.wikipedia.org/wiki/Category:虛擬YouTuber "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
-
 9.
-
 10.
+11.

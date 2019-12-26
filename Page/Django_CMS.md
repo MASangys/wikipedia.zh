@@ -88,7 +88,7 @@ django CMS默认处理多语言内容。 其管理界面支持多种语言。
 
   - Official Avatar
 
-  - [Django页面CMS，分叉项目](http://packages.python.org/django-page-cms/)
+  - [Django页面CMS，分叉项目](https://web.archive.org/web/20140131115244/http://packages.python.org/django-page-cms/)
 
 [Category:使用BSD许可证的软件](https://zh.wikipedia.org/wiki/Category:使用BSD许可证的软件 "wikilink") [Category:内容管理系统](https://zh.wikipedia.org/wiki/Category:内容管理系统 "wikilink") [Category:多語言連結模板參數編號](https://zh.wikipedia.org/wiki/Category:多語言連結模板參數編號 "wikilink") [Category:使用过时图像语法的页面](https://zh.wikipedia.org/wiki/Category:使用过时图像语法的页面 "wikilink")
 

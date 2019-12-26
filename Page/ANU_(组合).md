@@ -39,10 +39,7 @@
 [Category:2016年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2016年成立的音乐团体 "wikilink") [Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink") [Category:藏族歌手](https://zh.wikipedia.org/wiki/Category:藏族歌手 "wikilink") [Category:中国说唱团体](https://zh.wikipedia.org/wiki/Category:中国说唱团体 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.

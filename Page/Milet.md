@@ -45,8 +45,18 @@ SECL-2434～2435（期間限量盘）</p></td>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p>2019年8月21日</p></td>
-<td><p>Us EP</p></td>
-<td></td>
+<td><p>Us</p></td>
+<td><p>SECL-2476～2477（首发限量盘）<br />
+SECL-2478（普通盘）</p></td>
+<td><p>11位</p></td>
+</tr>
+<tr class="even">
+<td><p>4th</p></td>
+<td><p>2019年11月6日</p></td>
+<td><p>Drown / You &amp; I</p></td>
+<td><p>SECL-2500～2501（首发限量盘）<br />
+SECL-2502（普通盘）<br />
+SECL-2500～2501（期間限量盘）</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -64,13 +74,8 @@ SECL-2434～2435（期間限量盘）</p></td>
 [Category:日本女性創作歌手](https://zh.wikipedia.org/wiki/Category:日本女性創作歌手 "wikilink") [Category:日本女性流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本女性流行音樂歌手 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
 
 1.
-
 2.   ソニーミュージック オフィシャルサイト |url=<https://www.sonymusic.co.jp/artist/milet_music/profile/> |website=www.sonymusic.co.jp |accessdate=2019-03-07 |language=ja}}
-
 3.
-
 4.
-
 5.
-
 6.

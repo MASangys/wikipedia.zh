@@ -43,31 +43,19 @@ TACTIC几乎完全是使用[Python](../Page/Python.md "wikilink")语言来进行
 [Category:多倫多公司](https://zh.wikipedia.org/wiki/Category:多倫多公司 "wikilink") [Category:加拿大科技公司](https://zh.wikipedia.org/wiki/Category:加拿大科技公司 "wikilink") [Category:Web应用框架](https://zh.wikipedia.org/wiki/Category:Web应用框架 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  [1](http://www.vfxtalk.com/threads/24873-Southpaw-Technology-Lands-Legend-3D)
-
 6.
 7.
-
 8.
-
 9.
-
 10.
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.

@@ -16,16 +16,14 @@
   - [五十嵐麗](../Page/五十嵐麗.md "wikilink")（代表董事社長）
 
   -
-  - 島田愛野
-
+  -
   - [野村香菜子](../Page/野村香菜子.md "wikilink")
 
 ### 準所屬
 
 #### 男性
 
-  - 野田哲朗
-
+  -
   -
 #### 女性
 
@@ -36,8 +34,7 @@
 
 #### 男性
 
-  - 今井文也
-
+  -
   - 久保田將聖
 
   - 久山卓也
@@ -67,6 +64,5 @@
 [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink") [Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink") [Category:四谷](https://zh.wikipedia.org/wiki/Category:四谷 "wikilink")
 
 1.
-
 2.
 3.

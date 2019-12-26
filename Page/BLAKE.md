@@ -15,11 +15,7 @@ BLAKE2的改进版本于2012年12月21日宣布推出。它由Jean-Philippe Auma
 [Category:NIST散列函数竞赛](https://zh.wikipedia.org/wiki/Category:NIST散列函数竞赛 "wikilink") [Category:带有源代码的公共领域软件](https://zh.wikipedia.org/wiki/Category:带有源代码的公共领域软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.

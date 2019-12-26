@@ -16,8 +16,6 @@
 [Category:钴配合物](https://zh.wikipedia.org/wiki/Category:钴配合物 "wikilink") [Category:二价钴化合物](https://zh.wikipedia.org/wiki/Category:二价钴化合物 "wikilink")
 
 1.  Tripath I.P., Mishra Mahendra Kumar, Tripathi Ruchita, et al. Synthesis, Spectral, Electrochemical analysis and Screening for αGlucosidase inhibition of some complexes of Cobalt (II) and Ethylenediamine. *Research Journal of Chemical Sciences*, 2014. 4 (6): 13-17.
-
 2.  无机化学丛书 第九卷 锰分族 铁系 铂系. 科学出版社. 2.3.4 钴(II)的络合物. 钴的阳离子络合物. pp 313
-
 3.
 4.  Yotnoi B, Seeharaj A, Chimupala Y, et al. Tris(ethylenediamine)cobalt (II) sulfate\[J\]. *Acta Crystallographica Section E: Structure Reports Online*, 2010, 66(6): m628-m628. (supp. info.)

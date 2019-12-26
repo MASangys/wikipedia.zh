@@ -106,40 +106,22 @@ PFLAG National和PFLAG分会网络在地方，州和联邦层面进行宣传，�
 [Category:美国非营利组织](https://zh.wikipedia.org/wiki/Category:美国非营利组织 "wikilink") [Category:美國LGBT歷史](https://zh.wikipedia.org/wiki/Category:美國LGBT歷史 "wikilink") [Category:LGBT組織](https://zh.wikipedia.org/wiki/Category:LGBT組織 "wikilink") [Category:美国民权组织](https://zh.wikipedia.org/wiki/Category:美国民权组织 "wikilink") [Category:1973年建立的組織](https://zh.wikipedia.org/wiki/Category:1973年建立的組織 "wikilink")
 
 1.   PFLAG|website=www.pflag.org|access-date=2017-08-10}}
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  Evans Rowl, Robert Novak: "[Bush and the gay Lobby](https://www.washingtonpost.com/archive/opinions/1990/05/25/bush-and-the-gay-lobby/d64ebb2a-7a59-4b26-8891-afbb7f8cfc65). *[华盛顿邮报](../Page/华盛顿邮报.md "wikilink")*, May 25, 1990
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.

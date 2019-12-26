@@ -83,21 +83,13 @@
 [Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:漫畫原作者](https://zh.wikipedia.org/wiki/Category:漫畫原作者 "wikilink") [Category:日本平面設計師](https://zh.wikipedia.org/wiki/Category:日本平面設計師 "wikilink") [Category:長野縣出身人物](https://zh.wikipedia.org/wiki/Category:長野縣出身人物 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  《週刊棒球》2012年2月6日號，第16頁。
-
 5.
 6.  「[](http://ama-baseball.mainichi.jp/kurojishi/86/gurazeni/interview_01.html)」. [每日新聞](../Page/每日新聞.md "wikilink"). \[2016年12月14日閲覧\] .
-
 7.
 8.  2013年9月15日播出的《》擔任節目嘉賓的訪談內容。
-
 9.  [](http://media.excite.co.jp/book/interview/200404/p04.html)（同[檔案庫](https://web.archive.org/web/20040504074054/http://media.excite.co.jp/book/interview/200404/p04.html)）
-
 10. [「](http://media.excite.co.jp/book/interview/200404/p05.html)（同[檔案庫](https://web.archive.org/web/20040504074054/http://media.excite.co.jp/book/interview/200404/p05.html)）
-
 11. 來自電視動畫版《錢進球場》第2期片尾曲工作人員表。

@@ -50,18 +50,11 @@ Run-DMC是第一個獲得[金唱片銷量認證專輯](../Page/音乐唱片销�
 [Category:非裔美国人音乐团体](https://zh.wikipedia.org/wiki/Category:非裔美国人音乐团体 "wikilink") [Category:美國嘻哈團體](https://zh.wikipedia.org/wiki/Category:美國嘻哈團體 "wikilink") [Category:1981年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1981年成立的音樂團體 "wikilink") [Category:2002年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2002年解散的音樂團體 "wikilink") [Category:葛萊美終身成就獎獲得者](https://zh.wikipedia.org/wiki/Category:葛萊美終身成就獎獲得者 "wikilink") [Category:摇滚名人堂入选者](https://zh.wikipedia.org/wiki/Category:摇滚名人堂入选者 "wikilink")
 
 1.
-
 2.
-
 3.  ["The 50 albums that changed music"](http://arts.guardian.co.uk/features/story/0,,1821231,00.html), No. 40: Run D.M.C.: *Run D.M.C.* (1984), *[The Observer](https://zh.wikipedia.org/wiki/The_Observer "wikilink")*, July 16, 2006.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.

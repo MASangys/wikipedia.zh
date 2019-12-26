@@ -160,8 +160,6 @@
 
 ## 參考資料
 
-|}
-
 [Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")
 
 1.

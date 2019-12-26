@@ -19,10 +19,7 @@
 [Category:日本足球場](https://zh.wikipedia.org/wiki/Category:日本足球場 "wikilink") [Category:日本足球協會](https://zh.wikipedia.org/wiki/Category:日本足球協會 "wikilink") [Category:福島縣體育設施](https://zh.wikipedia.org/wiki/Category:福島縣體育設施 "wikilink") [Category:日本職業足球聯賽](https://zh.wikipedia.org/wiki/Category:日本職業足球聯賽 "wikilink") [Category:廣野町](https://zh.wikipedia.org/wiki/Category:廣野町 "wikilink") [Category:楢葉町](https://zh.wikipedia.org/wiki/Category:楢葉町 "wikilink") [Category:1997年日本建立](https://zh.wikipedia.org/wiki/Category:1997年日本建立 "wikilink") [Category:1997年完工體育場館](https://zh.wikipedia.org/wiki/Category:1997年完工體育場館 "wikilink")
 
 1.
-
 2.
 3.
-
 4.  [国内初の全天候型練習場オープン Jヴィレッジで記念イベント](http://www.minyu-net.com/news/news/FM20180909-305302.php) 『[福島民友](https://zh.wikipedia.org/wiki/福島民友 "wikilink")』2018年9月9日（2018年9月14日閲覧）。
-
 5.

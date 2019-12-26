@@ -66,37 +66,21 @@ JanusGraph使用 [Apache2.0软件许可证](../Page/Apache许可证.md "wikilink
 [Category:2017年软件](https://zh.wikipedia.org/wiki/Category:2017年软件 "wikilink") [Category:分散式計算架構](https://zh.wikipedia.org/wiki/Category:分散式計算架構 "wikilink") [Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink") [Category:NoSQL](https://zh.wikipedia.org/wiki/Category:NoSQL "wikilink") [Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink") [Category:開源資料庫管理系統](https://zh.wikipedia.org/wiki/Category:開源資料庫管理系統 "wikilink") [Category:Linux基金会项目](https://zh.wikipedia.org/wiki/Category:Linux基金会项目 "wikilink") [Category:圖資料庫](https://zh.wikipedia.org/wiki/Category:圖資料庫 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.

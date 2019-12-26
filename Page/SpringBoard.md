@@ -91,7 +91,7 @@ iOS 4.3.3 开始，SpringBoard 会搜索系统中  和  两个目录下的应用
 [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
 
 1.  [Apple – iPod touch features](https://www.apple.com/ipodtouch/features/homescreen.html)
-2.  Matthias Böhmer, Antonio Krüger. [A Study on Icon Arrangement by Smartphone Users](http://matthiasboehmer.de/2013/01/study-on-icon-arrangement/). In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '13). ACM, New York, NY, USA, 2137–2146.
+2.  Matthias Böhmer, Antonio Krüger. [A Study on Icon Arrangement by Smartphone Users](http://matthiasboehmer.de/2013/01/study-on-icon-arrangement/) . In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '13). ACM, New York, NY, USA, 2137–2146.
 3.
 4.
 5.

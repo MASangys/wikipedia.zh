@@ -93,13 +93,9 @@
 [Category:美国东海岸嘻哈音乐人](https://zh.wikipedia.org/wiki/Category:美国东海岸嘻哈音乐人 "wikilink") [Category:大西洋唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:大西洋唱片旗下藝人 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
-
 7.

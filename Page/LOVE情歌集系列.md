@@ -1160,7 +1160,7 @@
 <li>日出東方 - 譚詠麟/李克勤/劉媛媛/黃家強/張敬軒/黃伊汶/廖百威/八零後樂隊 '''(新曲)</li>
 </ol></td>
 <td><p>13間： [9]<br />
-正東、金牌、新藝寶、環球、東亞、<a href="https://zh.wikipedia.org/wiki/相信音樂" title="wikilink">相信音樂</a>、蜂鳥音樂、Neway Star、Silly Thing、生薑音樂、BMA、OMF Music</p></td>
+正東、金牌、新藝寶、環球、東亞、<a href="../Page/相信音樂.md" title="wikilink">相信音樂</a>、蜂鳥音樂、Neway Star、Silly Thing、生薑音樂、BMA、OMF Music</p></td>
 <td><ul>
 <li>本系列最後一張專輯<br />
 </li>

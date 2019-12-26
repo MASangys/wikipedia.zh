@@ -9,5 +9,4 @@ B和C大道的座標為\[2\]，而該地最高點為海拔高度米（即英尺�
 [Category:亞利桑那州普查規定居民點](https://zh.wikipedia.org/wiki/Category:亞利桑那州普查規定居民點 "wikilink")
 
 1.
-
 2.

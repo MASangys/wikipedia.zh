@@ -1,4 +1,4 @@
-**RABe 511型電聯車**為[瑞士施泰德公司研製的雙層電聯車](https://zh.wikipedia.org/wiki/瑞士 "wikilink")，主要由[瑞士聯邦鐵路](../Page/瑞士聯邦鐵路.md "wikilink")使用，於2011年開始營運。
+**RABe 511型電聯車**為[施泰德鐵路研製的雙層電聯車](https://zh.wikipedia.org/wiki/施泰德鐵路 "wikilink")，主要由[瑞士聯邦鐵路](../Page/瑞士聯邦鐵路.md "wikilink")使用，於2011年開始營運。
 
 ## 使用國
 
@@ -150,41 +150,26 @@
 [Category:瑞士电力动车组](https://zh.wikipedia.org/wiki/Category:瑞士电力动车组 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.  [SBB bestellt weitere 24 RegioExpress-Doppelstockzüge.](https://archive.is/20120715002139/http://mct.sbb.ch/mct/konzern_dienstleistungen/konzern_medien.htm?cmd=E2B9CC475D6FBB37CC850CB4B45B8227) Press release of SBB. Retrieved on 17. April 2010.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
 15.
 16.
 17.
 18.
-
 19. <http://www.progressiverailroading.com/passenger_rail/news/Caltrain-inks-contracts-with-Balfour-Beatty-Stadler-for-electrification-project>
-
 20.
-
 21. <http://fonodo.reblog.hu/ket-ev-mulva-keszul-el-dunakeszin-az-elso-emeletes-magyar-vonat>
-
 22.
 23.
 24.

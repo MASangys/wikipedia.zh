@@ -22,8 +22,6 @@
 [Category:IUCN野外绝灭物种](https://zh.wikipedia.org/wiki/Category:IUCN野外绝灭物种 "wikilink") [Category:绝灭腹足纲动物](https://zh.wikipedia.org/wiki/Category:绝灭腹足纲动物 "wikilink") [Category:帕图螺（腹足纲动物）](https://zh.wikipedia.org/wiki/Category:帕图螺（腹足纲动物） "wikilink") [Category:1791年描述的腹足纲动物](https://zh.wikipedia.org/wiki/Category:1791年描述的腹足纲动物 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

@@ -770,7 +770,6 @@ LEE DUK HO</p></td>
 [Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:TBS電視網動畫 "wikilink") [Category:機械人動畫](https://zh.wikipedia.org/wiki/Category:機械人動畫 "wikilink") [Category:小學背景動畫](https://zh.wikipedia.org/wiki/Category:小學背景動畫 "wikilink")
 
 1.  <https://m.facebook.com/Goldenfilmltd/photos/a.2002061603373816.1073741829.1878929335687044/2081875948725714/?type=3>
-
 2.
 3.
 4.
@@ -779,5 +778,4 @@ LEE DUK HO</p></td>
 7.
 8.
 9.  第1話至第11話的總集篇
-
 10. 第13話至第29話的總集篇

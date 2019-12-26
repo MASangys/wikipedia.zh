@@ -118,31 +118,19 @@ PocketStation与世嘉的相似，VMU是世嘉为[Dreamcast](../Page/Dreamcast.m
 [Category:電子遊戲儲存媒體](https://zh.wikipedia.org/wiki/Category:電子遊戲儲存媒體 "wikilink") [Category:PlayStation_(遊戲機)](https://zh.wikipedia.org/wiki/Category:PlayStation_\(遊戲機\) "wikilink") [Category:1999年面世的產品](https://zh.wikipedia.org/wiki/Category:1999年面世的產品 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13. 2013-11-04, [Play Chocobo World On Vita, PocketStation Is A Downloadable App In Japan](http://www.siliconera.com/2013/11/04/play-chocobo-world-vita-pocketstation-downloadable-app-japan/), Siliconera
-
 14.
-
 15.
 16.
 17.
@@ -157,13 +145,10 @@ PocketStation与世嘉的相似，VMU是世嘉为[Dreamcast](../Page/Dreamcast.m
 26.
 27.
 28.
-
 29.
 30.
-
 31.
 32.
-
 33.
 34.
 35.
@@ -172,12 +157,9 @@ PocketStation与世嘉的相似，VMU是世嘉为[Dreamcast](../Page/Dreamcast.m
 38.
 39.
 40.
-
 41.
-
 42.
 43.
-
 44.
 45.
 46.

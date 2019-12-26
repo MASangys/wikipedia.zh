@@ -246,13 +246,8 @@
 [Category:2019年电子游戏](https://zh.wikipedia.org/wiki/Category:2019年电子游戏 "wikilink") [Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink") [Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  《[電擊PlayStation](https://zh.wikipedia.org/wiki/電擊PlayStation "wikilink")》Vol.670、[KADOKAWA](../Page/KADOKAWA.md "wikilink")、2018年、103頁。
-
 5.
-
 6.

@@ -287,6 +287,69 @@
 <td><p>138.0</p></td>
 <td><p>1</p></td>
 </tr>
+<tr class="even">
+<td><p>10月7日</p></td>
+<td><p><a href="../Page/Vampire_(單曲).md" title="wikilink">Vampire</a></p></td>
+<td><p>IZ*ONE</p></td>
+<td><p>20.5</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>10月14日</p></td>
+<td><p><a href="../Page/可以變得如此喜歡你嗎？.md" title="wikilink">可以變得如此喜歡你嗎？</a></p></td>
+<td><p>日向坂46</p></td>
+<td><p>47.6</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>10月21日</p></td>
+<td><p>[[Big_Shot</p></td>
+<td><p>|Big Shot</p></td>
+<td><p>]]</p></td>
+<td><p><a href="../Page/Johnny&#39;s_WEST.md" title="wikilink">Johnny's WEST</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>10月28日</p></td>
+<td></td>
+<td></td>
+<td><p>4.0</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>11月4日</p></td>
+<td></td>
+<td><p><a href="../Page/Sexy_Zone.md" title="wikilink">Sexy Zone</a></p></td>
+<td><p>15.9</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>11月11日</p></td>
+<td></td>
+<td><p><a href="../Page/=LOVE.md" title="wikilink">=LOVE</a></p></td>
+<td><p>14.2</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>11月18日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/初戀至上主義" title="wikilink">初戀至上主義</a></p></td>
+<td><p>NMB48</p></td>
+<td><p>16.6</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>11月25日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Edge_of_Days" title="wikilink">Edge of Days</a></p></td>
+<td><p>Kis-My-Ft2</p></td>
+<td><p>16.7</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>12月2日</p></td>
+<td></td>
+<td><p><a href="../Page/ANGERME.md" title="wikilink">ANGERME</a></p></td>
+<td><p>6.9</p></td>
+<td><p>1</p></td>
+</tr>
 </tbody>
 </table>
 

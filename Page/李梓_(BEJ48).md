@@ -127,61 +127,36 @@
 
 ## 外部链接
 
-  - [BEJ48成员详情页：李梓](http://www.bej48.com/member/member_details.html?sid=20033)
+  - [BEJ48成员详情页：李梓](http://www.snh48.com/member_details.html?sid=20033)
 
   -
   -
 [Category:李姓](https://zh.wikipedia.org/wiki/Category:李姓 "wikilink") [Category:BEJ48成员](https://zh.wikipedia.org/wiki/Category:BEJ48成员 "wikilink") [Category:内江人](https://zh.wikipedia.org/wiki/Category:内江人 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
 27.

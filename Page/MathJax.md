@@ -69,52 +69,28 @@ MathJax站点提供了一个内容分发网络（CDN），其中，浏览器可�
 [Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink") [Category:JavaScript函式庫](https://zh.wikipedia.org/wiki/Category:JavaScript函式庫 "wikilink") [Category:自由數學軟件](https://zh.wikipedia.org/wiki/Category:自由數學軟件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  .
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13. [New features in IEEE Xplore](http://ieeexplore.ieee.org/Xplorehelp/#/resources/newFeatures), retrieved 2015-04-20.
-
 14.
-
 15.
-
 16.
-
 17. [MathJax Font Help](http://www.mathjax.org/help/fonts/)  accessed 2012-08-14.
-
 18.
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.

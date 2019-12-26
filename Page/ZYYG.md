@@ -292,18 +292,14 @@
 
 1.
 2.  vocal compilation 90's hits Vol.1〜male〜 at the BEING studio B-Gram RECORDS JBCJ-5010のライナーノーツ 取材：斉田才　文：鈴木大介（アンダウン編集部）より
-
 3.
 4.
 5.
-
 6.
 7.
 8.
 9.
 10.
-
 11.
-
 12.
 13.

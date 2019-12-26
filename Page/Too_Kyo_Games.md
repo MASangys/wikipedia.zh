@@ -23,7 +23,6 @@ Too Kyo Games正在进行3个电子游戏的企划，其中一个与Spike Chunso
 
 1.
 2.
-
 3.
 4.
 5.

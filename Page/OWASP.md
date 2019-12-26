@@ -43,36 +43,21 @@ OWASP组织获得2014年[SC杂志编辑选择奖](https://zh.wikipedia.org/wiki/
 [Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink") [Category:Web安全漏洞](https://zh.wikipedia.org/wiki/Category:Web安全漏洞 "wikilink") [Category:计算机安全组织](https://zh.wikipedia.org/wiki/Category:计算机安全组织 "wikilink") [Category:计算机标准](https://zh.wikipedia.org/wiki/Category:计算机标准 "wikilink") [Category:501(c)(3)_nonprofit_organizations](https://zh.wikipedia.org/wiki/Category:501\(c\)\(3\)_nonprofit_organizations "wikilink") [Category:Non-profit_organisations_based_in_Belgium](https://zh.wikipedia.org/wiki/Category:Non-profit_organisations_based_in_Belgium "wikilink") [Category:2001年建立的組織](https://zh.wikipedia.org/wiki/Category:2001年建立的組織 "wikilink") [Category:2001_establishments_in_Belgium](https://zh.wikipedia.org/wiki/Category:2001_establishments_in_Belgium "wikilink")
 
 1.
-
 2.
 3.
 4.  [Board](https://www.owasp.org/index.php/Board) . OWASP. Retrieved on 2015-02-27.
-
 5.  [OWASP Europe](https://www.owasp.org/index.php/Europe), OWASP, 2016
-
 6.  [OWASP Top Ten Project on owasp.org](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14. <https://www.owasp.org/index.php/OWASP_Incident_Response_Project>
-
 15.
 16.
-
 17.
-
 18.
-
 19.

@@ -39,7 +39,7 @@
 
   - —[FÉG PA-63 Army Pistol (Pisztoly 63 Minta - PA 63M)](http://www.hungariae.com/FegPA63.htm)
 
-  - —[Instruction and Safety Manual PA 63 Pistol](https://www.tnguns.com/shop/manuals/PA63Manual.pdf)
+  - —[Instruction and Safety Manual PA 63 Pistol](https://web.archive.org/web/20140502000833/https://www.tnguns.com/shop/manuals/PA63Manual.pdf)
 
   - —[SMC-380 HungarianWeapons Femaru FEG Pistols](http://www.hungariae.com/FegSMC380.htm)
 
@@ -47,9 +47,6 @@
 
 1.
 2.
-
 3.
-
 4.
-
 5.

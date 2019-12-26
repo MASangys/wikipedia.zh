@@ -1465,25 +1465,15 @@ TOP 32星光组和高飞组的成员们将有机会参与SNH48海外特别公演
 [Category:SNH48](https://zh.wikipedia.org/wiki/Category:SNH48 "wikilink") [Category:SNH48的演唱会](https://zh.wikipedia.org/wiki/Category:SNH48的演唱会 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
 13.

@@ -2,6 +2,8 @@
 
 ## 參考資料
 
+[Category:香港娛樂公司](https://zh.wikipedia.org/wiki/Category:香港娛樂公司 "wikilink")
+
 1.
 2.
 3.

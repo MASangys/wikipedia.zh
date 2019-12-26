@@ -15,5 +15,4 @@ Super Junior-D\&E於2018年8月8日發行的日本正規三輯《STYLE》，包�
 [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:Super_Junior_Donghae_&_Eunhyuk音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior_Donghae_&_Eunhyuk音樂專輯 "wikilink")
 
 1.
-
 2.

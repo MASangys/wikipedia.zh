@@ -88,13 +88,9 @@ M81／MGM-51「橡樹棍」首先安裝在[M551「謝里登」](../Page/M551謝�
 
 1.
 2.  Cagle, Mary T., History of the TOW Missile System, OCT 1977
-
 3.  [TOW Weapon System Launched, Tracked and Guided with Precision Raytheon](http://www.raytheon.com/capabilities/products/tow_family/)
-
 4.  Starry p. 142
-
 5.  Starry p. 143
-
 6.
 7.
 8.

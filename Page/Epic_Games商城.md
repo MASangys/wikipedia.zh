@@ -8,11 +8,11 @@ Epic Games自家的部分遊戲會在該商城獨佔推出，目前也陸續有�
 
 此外Epic Games也把「創作者支持計畫」（Support-A-Creator program）引進商城，該項目最初源自於《[要塞英雄 大逃殺](https://zh.wikipedia.org/wiki/要塞英雄_大逃殺 "wikilink")》。計畫內容是針對那些將遊戲內容進行二次創作的人們（遊戲實況主、遊戲-{模組}-製作者），讓這些創作者可以從創作內容的交易中獲得一部分抽成。遊戲開發者可自行決定與創作者之間的交易分成比例，然後Epic Games會額外提供5%的補助。Epic Games認為該計畫有助於開發者推廣自己的遊戲。\[7\]
 
-從2018年12月14日開始，每隔兩週會提供一款商城中的遊戲讓玩家限時免費領取，第一款限時免費遊戲是《[深海迷航](../Page/深海迷航.md "wikilink")》(Subnautica)。\[8\]
+從2018年12月14日開始，每隔兩週會提供一款商城中的遊戲讓玩家限時免費領取，第一款限時免費遊戲是《[深海迷航](../Page/深海迷航.md "wikilink")》（Subnautica）。\[8\]
 
 ## 發展歷程
 
-[Sergey_Galyonkin.jpg](https://zh.wikipedia.org/wiki/File:Sergey_Galyonkin.jpg "fig:Sergey_Galyonkin.jpg") 在Epic Games商城出現以前，PC遊戲的[數位發行管道以](https://zh.wikipedia.org/wiki/數位發行 "wikilink")[Valve公司的](https://zh.wikipedia.org/wiki/Valve "wikilink")[Steam](../Page/Steam.md "wikilink")平台為主流，其他諸如[Origin](https://zh.wikipedia.org/wiki/Origin_\(電子遊戲平台\) "wikilink")、[Uplay](../Page/Uplay.md "wikilink")、[GOG等平台皆未達到競爭優勢](../Page/GOG.com.md "wikilink")。Valve對於在Steam上架的遊戲一律收取30%的抽成，同時[App Store](../Page/App_Store_\(iOS\).md "wikilink")、[PlayStation Store等其他數位平台的抽成比例大多也是如此](../Page/PlayStation_Store.md "wikilink")。2017年8月，Epic Games創始人表示30%的抽成已不再合適，他認為即使Valve把抽成降低到8%仍舊能獲取利潤。\[9\]
+[Sergey_Galyonkin.jpg](https://zh.wikipedia.org/wiki/File:Sergey_Galyonkin.jpg "fig:Sergey_Galyonkin.jpg") 在Epic Games商城出現以前，PC遊戲的[數位發行管道以](https://zh.wikipedia.org/wiki/數位發行 "wikilink")[Valve公司的](https://zh.wikipedia.org/wiki/Valve "wikilink")[Steam](../Page/Steam.md "wikilink")平台為主流，其他諸如[Origin](https://zh.wikipedia.org/wiki/Origin_\(電子遊戲平台\) "wikilink")、[Uplay](../Page/Uplay.md "wikilink")、[GOG等平台皆未達到競爭優勢](../Page/GOG.com.md "wikilink")。Valve對於在Steam上架的遊戲一律收取30%的抽成，同時[App Store](../Page/App_Store_\(iOS\).md "wikilink")、[PlayStation Store等其他數位平台的抽成比例大多也是如此](../Page/PlayStation_Store.md "wikilink")。2017年8月，Epic Games創始人[Tim Sweeney表示](https://zh.wikipedia.org/wiki/Tim_Sweeney "wikilink")30%的抽成已不再合適，他認為即使Valve把抽成降低到8%仍舊能獲取利潤。\[9\]
 
 2018年12月月初，Epic Games宣布即將推出自家的數位商店以挑戰Steam平台。為了對抗Steam平台，首先針對Valve的30%抽成，Epic Games表示將提供更低的12%抽成。\[10\]另外對於使用[虛幻引擎製作的遊戲再提供額外](https://zh.wikipedia.org/wiki/虛幻引擎 "wikilink")5%的抽成減免。經過計算之後，Epic Games認為降低抽成仍足以讓他們盈利。此外Epic也提到他們不會強迫上架的遊戲添加[DRM](https://zh.wikipedia.org/wiki/DRM "wikilink")（數位版權管理）。\[11\]
 
@@ -36,7 +36,7 @@ Epic Games自家的部分遊戲會在該商城獨佔推出，目前也陸續有�
 
 ### 中国大陆的锁区
 
-Epic games商城在创建伊始对中国大陆锁区，当时如果使用中国大陆的[VISA信用卡](https://zh.wikipedia.org/wiki/VISA "wikilink")、[paypal支付可能会导致封号](https://zh.wikipedia.org/wiki/paypal "wikilink")。\[27\]后在2019年5月14日解除对中国大陆的锁区（《[暴雨](https://zh.wikipedia.org/wiki/暴雨_\(游戏\) "wikilink")》、《[超凡双生](https://zh.wikipedia.org/wiki/超凡双生 "wikilink")》和《[底特律：变人](https://zh.wikipedia.org/wiki/底特律：变人 "wikilink")》等部分游戏仍未解除锁区），并同时支持[支付宝](../Page/支付宝.md "wikilink")与[微信支付](../Page/微信支付.md "wikilink")\[28\]，后又追加对[银联的支持](https://zh.wikipedia.org/wiki/银联 "wikilink")。
+Epic games商城在创建伊始对中国大陆锁区，当时如果使用中国大陆的[VISA信用卡](https://zh.wikipedia.org/wiki/VISA "wikilink")、[paypal支付可能会导致封号](https://zh.wikipedia.org/wiki/paypal "wikilink")。\[27\]后在2019年5月14日解除对中国大陆的锁区（《[暴雨](https://zh.wikipedia.org/wiki/暴雨_\(游戏\) "wikilink")》、《[超凡双生](https://zh.wikipedia.org/wiki/超凡双生 "wikilink")》和《[底特律：变人](https://zh.wikipedia.org/wiki/底特律：变人 "wikilink")》等部分游戏仍未解除锁区），并同时支持[支付宝](../Page/支付宝.md "wikilink")与[微信支付](../Page/微信支付.md "wikilink")\[28\]。
 
 ## 參考資料
 
@@ -46,53 +46,30 @@ Epic games商城在创建伊始对中国大陆锁区，当时如果使用中国�
 [Category:2018年軟體](https://zh.wikipedia.org/wiki/Category:2018年軟體 "wikilink") [Category:Epic_Games](https://zh.wikipedia.org/wiki/Category:Epic_Games "wikilink") [Category:電子遊戲線上零售商](https://zh.wikipedia.org/wiki/Category:電子遊戲線上零售商 "wikilink") [Category:數位版權管理](https://zh.wikipedia.org/wiki/Category:數位版權管理 "wikilink") [Category:電子商務網站](https://zh.wikipedia.org/wiki/Category:電子商務網站 "wikilink") [Category:Windows軟體](https://zh.wikipedia.org/wiki/Category:Windows軟體 "wikilink") [Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.

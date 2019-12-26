@@ -33,26 +33,16 @@ Mark Zero配备三个电动马达，一个150千瓦的异步电动机安装在�
 [Category:电动车制造商](https://zh.wikipedia.org/wiki/Category:电动车制造商 "wikilink") [Category:豪華汽車製造商](https://zh.wikipedia.org/wiki/Category:豪華汽車製造商 "wikilink") [Category:跑車製造商](https://zh.wikipedia.org/wiki/Category:跑車製造商 "wikilink") [Category:2017年瑞士建立](https://zh.wikipedia.org/wiki/Category:2017年瑞士建立 "wikilink") [Category:2019年IPO](https://zh.wikipedia.org/wiki/Category:2019年IPO "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
 14.
@@ -63,14 +53,10 @@ Mark Zero配备三个电动马达，一个150千瓦的异步电动机安装在�
 19.
 20.
 21.
-
 22. .
-
 23.
 24.
 25.
 26.
-
 27. Philipp Vetter: *<https://www.welt.de/wirtschaft/plus190297463/Piech-Sohn-macht-Porsche-mit-eigenen-Sportwagen-Konkurrenz.html>*, [Die Welt](https://zh.wikipedia.org/wiki/Die_Welt "wikilink"), German. March 3, 2019. Retrieved April 8, 2019.
-
 28.

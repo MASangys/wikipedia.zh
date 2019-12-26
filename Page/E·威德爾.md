@@ -53,30 +53,19 @@
 [Category:1851年成立的公司](https://zh.wikipedia.org/wiki/Category:1851年成立的公司 "wikilink") [Category:波兰品牌](https://zh.wikipedia.org/wiki/Category:波兰品牌 "wikilink") [Category:巧克力公司](https://zh.wikipedia.org/wiki/Category:巧克力公司 "wikilink") [Category:波蘭食品公司](https://zh.wikipedia.org/wiki/Category:波蘭食品公司 "wikilink")
 
 1.  [Jeffries, Ian. Socialist Economies and the Transition to the Market: A Guide, page 443](https://books.google.com/books?id=1k4UDl_5WnYC&pg=PA443&dq=Wedel+confectionery&ei=q_eUR72vG5v66AKptqGoBw&sig=Zfhym8xatlEpskwRzoDL4VyIVik)
-
 2.  [Leo V. Ryan, Wojciech Gasparski, and Georges Enderle. Business Students Focus on Ethics, page 90](https://books.google.com/books?id=TE0JJl-DTJcC&pg=PA90&dq=Wedel+confectionery&ei=q_eUR72vG5v66AKptqGoBw&sig=-i_y27CTcUIBstAtrYD7NUYAmho)
-
 3.  [Batra, Rajeev. Marketing Issues in Transitional Economies, Page 35](https://books.google.com/books?id=cYi-jtjRZ20C&pg=PA35&dq=Wedel+confectionery&ei=q_eUR72vG5v66AKptqGoBw&sig=8Ui_-xCH_Wr-PYAI4g5T_qr3BbU)
-
 4.  [Polish confectioner finalises leading brand acquisition 10/01/2005](http://www.confectionerynews.com/news/ng.asp?id=57071-polish-confectioner-finalises). Retrieved on January 24, 2008.
-
 5.   Beata Drewnowska, [Historia pachnąca czekoladą](http://www.rp.pl/artykul/74544.html) , 05-12-2007
-
 6.
-
 7.
 8.  [Sweet Warsaw](http://www.warsaw-life.com/poland/sweet-warsaw). Retrieved on January 24, 2008.
-
 9.
 10.  [Krótka historia czekoladowej firmy](http://www.wedelpijalnie.pl/?id=wedel)
-
 11.
 12.
-
 13.
-
 14.  [Historia Wedla](http://www.katarzyna-stepniak.reaktywni.pl/historia_wedla.htm)
-
 15.
 16.
 17.
@@ -85,21 +74,13 @@
 20.
 21.
 22. ["PepsiCo sells Wedel's chocolate business" Candy Industry, October 1, 1998](http://www.allbusiness.com/wholesale-trade/merchant-wholesalers-nondurable/556589-1.html). Retrieved on January 24, 2008.
-
 23.
 24. ["PepsiCo sells Wedel's chocolate business" *Candy Industry*, October 1, 1998](http://www.allbusiness.com/wholesale-trade/merchant-wholesalers-nondurable/721142-1.html). Retrieved on January 24, 2008.
-
 25. ["PepsiCo sells Wedel's chocolate business" *Candy Industry*, October 1, 1998](http://www.allbusiness.com/wholesale-trade/merchant-wholesalers-nondurable/721142-1.html). Retrieved on January 24, 2008.
-
 26. ["PepsiCo sells Wedel brand to Cadbury Schweppes" *Eurofood*, February 11, 1999](http://findarticles.com/p/articles/mi_m0DQA/is_1999_Feb_11/ai_53979727). Retrieved on January 24, 2008.
-
 27.
-
 28.
-
 29.
 30.
-
 31.
-
 32.

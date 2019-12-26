@@ -33,7 +33,7 @@
 <td><p>每週日 00：10－01：10</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/開電視" title="wikilink">開電視</a></p></td>
+<td><p><a href="../Page/香港開電視.md" title="wikilink">香港開電視</a></p></td>
 <td></td>
 <td><p>2019年1月12日</p></td>
 <td><p>每週六 20：00－21：00</p></td>

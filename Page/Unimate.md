@@ -27,21 +27,13 @@
 [Category:工业机器人](https://zh.wikipedia.org/wiki/Category:工业机器人 "wikilink")
 
 1.  Rosen, Rebecca J. ["Unimate: The Story of George Devol and the First Robotic Arm"](https://www.theatlantic.com/technology/archive/2011/08/unimate-the-story-of-george-devol-and-the-first-robotic-arm/243716/)
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  Mickle, Paul. ["1961: A peep into the automated future"](http://www.capitalcentury.com/1961.html) , **. Accessed August 11, 2011. "Without any fanfare, the world's first working robot joined the assembly line at the General Motors plant in Ewing Township in the spring of 1961.... It was an automated die-casting mold that dropped red-hot door handles and other such car parts into pools of cooling liquid on a line that moved them along to workers for trimming and buffing. Its most distinct feature was a grip on a steel armature that eliminated the need for a man to touch car parts just made from molten steel."
-
 7.
 8.
 9.  [Video clip of Unimate on The Tonight Show Starring Johnny Carson](https://www.youtube.com/watch?v=yKo6KMkuVAk)
-
 10.
-
 11. *Booster Gold* (vol. 2) \#21 (August 2009)

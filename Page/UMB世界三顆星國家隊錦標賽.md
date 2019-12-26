@@ -19,7 +19,7 @@
 <td><p>1981</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/墨西哥市" title="wikilink">墨西哥市</a></p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/小林伸明" title="wikilink">小林伸明</a><br />
+<a href="../Page/小林伸明.md" title="wikilink">小林伸明</a><br />
 <a href="https://zh.wikipedia.org/wiki/小森純一" title="wikilink">小森純一</a></p></td>
 <td><p>1.237</p></td>
 <td><p><br />
@@ -30,7 +30,7 @@
 <td><p>1985</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/波爾多" title="wikilink">波爾多</a></p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/小林伸明" title="wikilink">小林伸明</a><br />
+<a href="../Page/小林伸明.md" title="wikilink">小林伸明</a><br />
 <a href="https://zh.wikipedia.org/wiki/小森純一" title="wikilink">小森純一</a></p></td>
 <td><p>1.311</p></td>
 <td><p><br />
@@ -74,7 +74,7 @@
 <td><p>1992</p></td>
 <td><p><a href="../Page/菲爾森.md" title="wikilink">菲爾森</a></p></td>
 <td><p><br />
-<a href="https://zh.wikipedia.org/wiki/小林伸明" title="wikilink">小林伸明</a><br />
+<a href="../Page/小林伸明.md" title="wikilink">小林伸明</a><br />
 <a href="https://zh.wikipedia.org/wiki/小森純一" title="wikilink">小森純一</a></p></td>
 <td><p>1.218</p></td>
 <td><p><br />

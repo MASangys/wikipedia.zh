@@ -27,29 +27,20 @@ Soul鼓励“灵魂社交”，用户不能直接匹配附近的用户，定位�
 [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:即时通讯软件](https://zh.wikipedia.org/wiki/Category:即时通讯软件 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
 13.
 14.
 15.
-
 16.
 17.
 18.

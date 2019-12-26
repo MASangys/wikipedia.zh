@@ -32,7 +32,7 @@
 
 <div class="nowrap" style="text-align:right; background: #e6e9ff;" >
 
-[動漫主題](https://zh.wikipedia.org/wiki/Portal:动漫 "wikilink")－[電子遊戲主題](https://zh.wikipedia.org/wiki/Portal:电子游戏 "wikilink")－[ACG專題](https://zh.wikipedia.org/wiki/Wikipedia:ACG专题 "wikilink")－[模板說明](https://zh.wikipedia.org/wiki/Template:Infobox_animanga "wikilink")
+[動漫主題](../Page/Portal:动漫.md "wikilink")－[電子遊戲主題](../Page/Portal:电子游戏.md "wikilink")－[ACG專題](https://zh.wikipedia.org/wiki/Wikipedia:ACG专题 "wikilink")－[模板說明](https://zh.wikipedia.org/wiki/Template:Infobox_animanga "wikilink")
 
 </div>
 

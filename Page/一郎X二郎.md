@@ -26,9 +26,9 @@
 出現於下冊「南方大作戰」的主要人物，故事場景發生在沖繩[西表島](../Page/西表島.md "wikilink")。\[3\]
 
   - **新垣巡警**：西表島派出所的年輕員警，對上原洋子一見鍾情。
-  - **白井七惠**：南風小學六年級生，二郎的同學。曾留英的歸國子女，不喜歡東京學校的風氣轉學而來，借宿在西表島的阿姨家。
+  - **白井七惠**：南風小學六年級生，二郎唯一的同學。曾留英的歸國子女，不喜歡東京學校的風氣轉學而來，借宿在西表島的阿姨家。
   - **悠達**：西表島漁夫，常常送東西到上原家。
-  - **雜貨店老闆娘：**上原家沒有地址，二郎只好常常麻煩老闆娘，代為收信。
+  - **雜貨店老闆娘：**上原家沒有地址，二郎只好常常麻煩老闆娘代為收信或訂購東西，也包括借電話。
   - **班尼（ベニー）**：[加拿大](../Page/加拿大.md "wikilink")人，四處流浪的[背包客](../Page/背包客.md "wikilink")，在西表島住了半年。
   - **座間社長**：村議員兼建商。
 
@@ -76,10 +76,7 @@
 [Category:奧田英朗](https://zh.wikipedia.org/wiki/Category:奧田英朗 "wikilink") [Category:2005年小说](https://zh.wikipedia.org/wiki/Category:2005年小说 "wikilink") [Category:2000年代背景作品](https://zh.wikipedia.org/wiki/Category:2000年代背景作品 "wikilink") [Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink") [Category:沖繩縣背景作品](https://zh.wikipedia.org/wiki/Category:沖繩縣背景作品 "wikilink") [Category:直木三十五獎](https://zh.wikipedia.org/wiki/Category:直木三十五獎 "wikilink") [Category:2007年电影](https://zh.wikipedia.org/wiki/Category:2007年电影 "wikilink") [Category:小說改編電影](https://zh.wikipedia.org/wiki/Category:小說改編電影 "wikilink") [Category:角川電影](https://zh.wikipedia.org/wiki/Category:角川電影 "wikilink") [Category:改編成電影的日本小說](https://zh.wikipedia.org/wiki/Category:改編成電影的日本小說 "wikilink") [Category:日本劇情片](https://zh.wikipedia.org/wiki/Category:日本劇情片 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.

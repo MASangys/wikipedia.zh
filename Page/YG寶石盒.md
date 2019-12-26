@@ -30,7 +30,7 @@
 | 尹材赫                                   |
 | colspan="8" style= |已淘汰成員             |
 | [王君豪](../Page/王君豪.md "wikilink")\[4\] |
-| 姜碩華                                   |
+| [姜錫華](../Page/姜錫華.md "wikilink")      |
 | 張允瑞                                   |
 | 吉道煥                                   |
 | [金成淵](../Page/金成淵.md "wikilink")      |
@@ -314,27 +314,15 @@
 [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink") [Category:YG娛樂](https://zh.wikipedia.org/wiki/Category:YG娛樂 "wikilink") [Category:TREASURE_13](https://zh.wikipedia.org/wiki/Category:TREASURE_13 "wikilink") [Category:TREASURE](https://zh.wikipedia.org/wiki/Category:TREASURE "wikilink") [Category:MAGNUM](https://zh.wikipedia.org/wiki/Category:MAGNUM "wikilink")
 
 1.
-
 2.
-
 3.  (由家人正名為崔玹碩)
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.

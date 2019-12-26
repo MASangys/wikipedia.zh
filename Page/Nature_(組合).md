@@ -1,4 +1,4 @@
-**NATURE**（）是[韓國n](https://zh.wikipedia.org/wiki/韓國 "wikilink").CH 娛樂公司推出的女子組合，由[韓國籍成員Saebom](https://zh.wikipedia.org/wiki/韓國 "wikilink")、**Lu**、Chaebin、Loha、Uchae、Sunshine;[中國](../Page/中國.md "wikilink")籍成員Aurora、Gaga及[日本](../Page/日本.md "wikilink")籍成員Haru組成；於2018年8月3日出道。 \[1\]\[2\]\[3\]官方粉絲名為「Leaf」。
+**NATURE**（）是[韓國n](https://zh.wikipedia.org/wiki/韓國 "wikilink").CH 娛樂公司推出的女子組合，由[韓國籍成員](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Sohee](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")、Saebom、**Lu**、Chaebin、Loha、Uchae、Sunshine，[中國](../Page/中國.md "wikilink")籍成員Aurora及[日本](../Page/日本.md "wikilink")籍成員Haru組成。組合於2018年8月3日出道 \[1\]\[2\]\[3\]，官方粉絲名為「Leaf」。
 
 ## 團名由來
 
@@ -28,10 +28,10 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong></strong></p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><strong></strong></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -73,8 +73,54 @@
 <tr class="even">
 <td></td>
 </tr>
+<tr class="odd">
+<td></td>
+</tr>
 </tbody>
 </table>
+
+### 成員變動時間表
+
+<timeline> ImageSize = width:650 height:250 PlotArea = width:475 height:225 left:75 bottom:20 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2018 till:2020 TimeAxis = orientation:horizontal format:yyyy
+
+Colors =
+
+`id:a value:rgb(1,0,0) legend:FirstGeneration`
+`id:b value:rgb(1,0.5,0) legend:SecondGeneration`
+`id:c value:rgb(1,1,0) legend:ThirdGeneration`
+`id:d value:rgb(0,1,0) legend:FourthGeneration`
+`id:e value:rgb(0,0,1) legend:FifthGeneration`
+`id:f value:rgb(1,0,1) legend:SixthGeneration`
+
+Legend = orientation:horizontal position:bottom ScaleMajor = unit:year increment:1 start:2018 gridcolor:black
+
+PlotData =
+
+`color:a width:7 textcolor:black align:left anchor:from`
+`bar:Yeolmae      from:start      till:08/03/2018`
+`bar:Aurora       from:start      till:end`
+`bar:Saebom       from:start      till:end`
+`bar:Lu           from:start      till:end`
+`bar:Chaebin      from:start      till:end`
+`bar:Gaga         from:start      till:10/08/2019`
+`bar:Haru         from:start      till:end`
+`bar:Uchae        from:start      till:end`
+`bar:Sunshine     from:start      till:end`
+`color:b width:7 textcolor:black align:left anchor:from`
+`bar:Loha         from:11/21/2018 till:end`
+`color:c width:7 textcolor:black align:left anchor:from`
+`bar:Sohee        from:10/08/2019 till:end`
+
+LineData =
+
+` color:blue`
+`  at:08/03/2018`
+
+</timeline>
+
+**注：**
+
+  - 藍色（垂線）：出道
 
 ## 經歷
 
@@ -82,19 +128,33 @@
 
 2016年，Chaebin以MIDAS練習生名義參加《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，最終排名第88名。
 
+2016年，昭希以MUSIC WORKS練習生名義參加《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，最終排名第15名。
+
+2016年5月，《PRODUCE 101》結束後不久，昭希參加了由音樂人[李尚民](https://zh.wikipedia.org/wiki/李尚民 "wikilink")、[卓在勳](../Page/卓在勳.md "wikilink")共同企劃的紀錄型綜藝節目《音樂之神2》，並在7月7日與[尹彩暻](https://zh.wikipedia.org/wiki/尹彩暻 "wikilink")、[李秀敏組成節目衍生出來的團體](https://zh.wikipedia.org/wiki/李秀敏 "wikilink")[C.I.V.A](../Page/C.I.V.A.md "wikilink")。
+
+2016年8月18日，昭希以女團[I.B.I](../Page/I.B.I.md "wikilink")一員的身分展開活動。
+
 2017年，Lu為前[Brave娛樂](../Page/Brave娛樂.md "wikilink")練習生。以本名林河英試鏡《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》未通過。
 
-### 2018年：出道、首張單曲專輯、第二張單曲專輯、獲得第2屆 Soribada Best K-Music Awards新韓流新人賞
+### 2018年：出道、首張單曲專輯、第一次成員變動、第二次成員變動、第二張單曲專輯、獲得第2屆 Soribada Best K-Music Awards新韓流新人賞
 
-2018年7月21日，據n.CH娛樂公司傳來消息，指旗下跨國九人女團NATURE將於8月初出道。\[4\]
+7月21日，據n.CH娛樂公司傳來消息，指旗下跨國九人女團NATURE將於8月初出道。\[4\]
 
-2018年8月3日，成員Yeolmae退出，改為八人團體出道，以出道專輯《心情很好》裡的《Allegro Cantabile (너의 곁으로)在你身邊》一曲作為主打歌出道\[5\]\[6\]\[7\]。值得一提的是，此歌原曲為《[交響情人夢](../Page/交響情人夢.md "wikilink")》的片頭曲。\[8\]
+8月3日，成員Yeolmae退出，改為八人團體出道，以出道專輯《心情很好》裡的《Allegro Cantabile (너의 곁으로)在你身邊》一曲作為主打歌出道\[5\]，而值得一提的是，此歌的原曲為《[交響情人夢](../Page/交響情人夢.md "wikilink")》的片頭曲。\[6\]
 
-2018年11月21日，發行第二張單曲專輯《썸&러브》回歸。\[9\] 加入成員Loha。Loha為前[JYP娛樂](../Page/JYP娛樂.md "wikilink")練習生。
+11月21日，發行第二張單曲專輯《SOME\&LOVE》回歸，以當中的《썸 (You\`ll Be Mine)》作為主打曲，並加入為曾經是[JYP娛樂](../Page/JYP娛樂.md "wikilink")練習生的Loha作為新成員，而再次以九人制進行活動。
 
-### 2019年：單曲二輯後續曲、首張迷你專輯
+### 2019年：單曲二輯後續曲、首張迷你專輯、第三次成員變動、第二張迷你專輯
 
-2019年1月15日，以《꿈꿨어(Dream About U)》高速回歸（為曖昧的後續曲） 。\[10\] 2019年6月24日，宣佈於7月10日發行首張迷你專輯《I'm So Pretty》回歸，成員GaGa因學業缺席本次回歸。 6月24至7月1日依序釋出團體、Saebom、Sunshine、Chaebin、Haru、Uchae、Roha、Aurora、Lu兩組概念照概念照。 7月3日，公開《I'm So Pretty》全輯歌單。 7月4日，公開MV Teaser 1。 7月8日，公開MV Teaser 2。 7月9日，公開《I'm So Pretty》全輯音源試聽。 7月10日中午，《I'm So Pretty》全輯音源公開。
+1月15日，以第二張單曲專輯中的《꿈꿨어(Dream About U)》作為後續曲高速回歸。
+
+6月24日，宣佈於7月10日發行首張迷你專輯《I'm So Pretty》回歸，並以同名歌曲作為主打曲進行活動，但成員GaGa因學業缺席本次回歸。
+
+6月24至7月1日依序釋出團體及個人概念照。7月3日，公開《I'm So Pretty》全輯歌單。7月4日及8日，公開MV預告。7月9日，公開《I'm So Pretty》全輯音源試聽。最後於7月10日，公開專輯的音源。
+
+10月8日，官方公告前[I.B.I](../Page/I.B.I.md "wikilink")成員[金昭希將會作為新成員合流](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")，而原成員GaGa退出團體，專心學業。\[7\]
+
+11月12日，發行第二張迷你專輯《Nature World: Code A》回歸，主打曲為《OOPSIE (My Bad)》而Aurora因參加《[青春有你 (第二季)](../Page/青春有你_\(第二季\).md "wikilink")》缺席本次回歸。\[8\]
 
 ## 音樂作品
 
@@ -126,7 +186,7 @@
 <ul>
 <li>發行日期 ：2018年11月21日</li>
 <li>語言：韓語</li>
-<li>銷量：1,128+<ref></li>
+<li>銷量：2,850+<ref></li>
 </ul>
 <p><a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=11&amp;hitYear=2018&amp;termGbn=month">2018年11月GAON專輯榜96位</a></ref></p></td>
 <td></td>
@@ -156,18 +216,32 @@
 <ul>
 <li>發行日期 ：2019年7月10日</li>
 <li>語言：韓語</li>
-<li>銷量：7,951+<sup>(Gaon)</sup>[11]</li>
-</ul>
-<p>、6,787+<sup>(Hanteo)</sup></p></td>
+<li>銷量：7,951+<sup>(Gaon)</sup>[9]、6,787+<sup>(Hanteo)</sup></li>
+</ul></td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td><p>1st</p></td>
+<td><p><strong>《NATURE WORLD:CODE A》</strong></p>
+<ul>
+<li>發行日期 ：2019年11月12日</li>
+<li>語言：韓語</li>
+<li>銷量：8,449+<sup>(Hanteo)</sup></li>
+</ul></td>
 <td></td>
 </tr>
 </tbody>
 </table>
+
+### 音樂錄影帶
+
+| 年份     | 發佈日期                         | 歌曲                       |
+| ------ | ---------------------------- | ------------------------ |
+| 2018年  | 8月3日                         | Allegro Cantabile\[10\]  |
+| 11月21日 | 썸(You'll Be Mine)\[11\]      |                          |
+| 2019年  | 1月15日                        | 꿈꿨어(Dream About U)\[12\] |
+| 7月8日   | 내가 좀 예뻐(I'm So Pretty)\[13\] |                          |
+| 11月12日 | OOPSIE (My Bad)\[14\]        |                          |
 
 ## 綜藝節目
 
@@ -259,6 +333,9 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/I&#39;m_So_Pretty" title="wikilink">I'm So Pretty</a></p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/NATURE_WORLD:CODE_A" title="wikilink">NATURE WORLD:CODE A</a></p></td>
+</tr>
+<tr class="odd">
 <td><ul>
 <li>「/」表示未有相關資料</li>
 <li>「 (1) 」：兩星期冠軍</li>
@@ -297,11 +374,14 @@
 1.  <https://kprofiles.com/nature-members-profile/>
 2.
 3.
-4.  <http://korea.people.com.cn/BIG5/n1/2018/0622/c407920-30077397.html>
-5.  <https://www.youtube.com/watch?v=WnMWElBFRvY>
-6.  <http://tvdaily.asiae.co.kr/read.php3?aid=15332541451380826010>
-7.  <https://www.youtube.com/watch?v=WnMWElBFRvY>
+4.
+5.
+6.
+7.
 8.
-9.  <https://www.youtube.com/watch?v=-7N-dRhXuko>
-10. <https://www.youtube.com/watch?v=HxvAiEcy_oM>
-11. [2019年7月GAON專輯榜40位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2019&termGbn=month)
+9.  [2019年7月GAON專輯榜40位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2019&termGbn=month)
+10.
+11.
+12.
+13.
+14.

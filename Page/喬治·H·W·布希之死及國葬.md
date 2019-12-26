@@ -58,35 +58,20 @@
 [Category:国葬](https://zh.wikipedia.org/wiki/Category:国葬 "wikilink") [Category:布希家族](https://zh.wikipedia.org/wiki/Category:布希家族 "wikilink") [Category:2018年美国事件](https://zh.wikipedia.org/wiki/Category:2018年美国事件 "wikilink") [Category:2018年11月](https://zh.wikipedia.org/wiki/Category:2018年11月 "wikilink") [Category:2018年12月](https://zh.wikipedia.org/wiki/Category:2018年12月 "wikilink") [Category:美国政府事件](https://zh.wikipedia.org/wiki/Category:美国政府事件 "wikilink") [Category:美国总统和死亡](https://zh.wikipedia.org/wiki/Category:美国总统和死亡 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.

@@ -92,68 +92,44 @@ Velvia 100胶卷使用三乙基纤维素作为胶片片基成分，不同规格�
 [Category:底片](https://zh.wikipedia.org/wiki/Category:底片 "wikilink") [Category:富士](https://zh.wikipedia.org/wiki/Category:富士 "wikilink")
 
 1.
-
 2.  。
-
 3.
-
 4.
-
 5.
 6.
-
 7.  [tipa.com](http://www.tipa.com/japanese/), , 2012年1月30日閲覧
-
 8.
-
 9.  *新カラーリバーサルフィルム フジクローム「Velvia 100F/100」「ASTIA 100F」の開発*、富士写真フイルム、2012年1月30日閲覧
-
 10. [フジクローム「Velvia50」プロフェッショナル(ブローニーサイズ、シートサイズ)新発売](http://fic.fujifilm.co.jp/news/article/20070315/03/)、富士フイルムイメージング、2007年3月15日付、2012年1月30日閲覧
-
 11.
 12. 。
-
 13.
 14. [富士フイルム、銀座二丁目の旧本社跡地に新たな都市型商業テナントビル「銀座Velvia(ベルビア)館」平成19年4月19日(木)オープン 個性的な全33店舗の出店が決定](http://www.mitsuifudosan.co.jp/corporate/news/2007/0118/index.html) - 三井不動産 2007年1月18日
-
 15. 2013年3月以降、ベルビア館の土地建物とも銀座プライムリテールファンド合同会社に所有権が移されている。[【売買】銀座ベルビア館の底地を売却、富士フイルム](http://kenplatz.nikkeibp.co.jp/article/nfm/news/20130808/627689/) - ケンプラッツ（日経BP社）2013年8月19日
-
 16. [富士フイルムのあゆみ 2005年](http://www.fujifilm.co.jp/history/2005.html) 、富士フイルム、2012年1月30日閲覧。
-
 17. [文化を育み幅広く人々へ価値を提供](http://www.fujifilmholdings.com/ja/sustainability/pdf/2007/ff_sr_2007_15.pdf)、富士フイルム、2012年1月30日閲覧。
-
 18. [PFOSを含有する業務用写真撮影フィルムのお知らせ](http://fujifilm.jp/important/article_20100401_03.html)、富士フイルム、2012年1月31日閲覧。
-
 19.
 20.
 21. *ベルビア50 データシート*、富士写真フイルム、2012年1月30日閲覧。
-
 22.
 23. *ベルビアシリーズの性能・特長*、富士フイルム、2012年1月30日閲覧。
-
 24.
 25.
 26.
 27.
 28.
 29. [Super8 - 15m Kassetten](http://www.wittner-kinotechnik.de/katalog/04_filmm/s8_filmm.php) , [ヴィットナー・シネテック](https://zh.wikipedia.org/wiki/ヴィットナー・シネテック "wikilink")、2012年1月30日閲覧。
-
 30. [スーパー8フィルム](http://film.club.ne.jp/item/super8mm.html) 、[レトロエンタープライズ](https://zh.wikipedia.org/wiki/レトロエンタープライズ "wikilink")、2012年1月30日閲覧。
-
 31.
-
 32. *ベルビアシリーズの性能・特長*、富士フイルム、2012年1月30日閲覧。
-
 33.
 34. *ベルビア100F データシート*、富士写真フイルム、2012年1月30日閲覧。
-
 35.
 36.
 37. [写真フィルム 一部製品の価格改定および販売終了のご案内](http://ffis.fujifilm.co.jp/information/articlein_0040.html?_ga=1.116926150.132259400.1441430090)、富士フイルム、2015年7月10日。
-
 38.
 39. *ベルビア100 データシート*、富士写真フイルム、2012年1月30日閲覧。
-
 40.
 41.
 42.

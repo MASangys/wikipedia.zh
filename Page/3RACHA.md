@@ -1,4 +1,4 @@
-**3RACHA**（韓語：쓰리라차），為韓國[JYP娛樂](../Page/JYP娛樂.md "wikilink")推出的九人男子團體[Stray Kids中負責創作的團體](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")。成員包括CB97(方燦)、SPEARB(彰彬)、J.ONE(Han)。團名「3RACHA」原是辣椒醬名「SRIRACHA」\[1\]，前面的數字「3」代表三個人，而「RACHA」在西班牙文的意思為狂風、旋風，意謂三個人想要展現火辣的味道、掀起狂風的抱負\[2\]。2018年3月25日，方燦、彰彬與Han作為[Stray Kids成員出道](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")。
+**3RACHA**（韓語：쓰리라차），為韓國[JYP娛樂](../Page/JYP娛樂.md "wikilink")推出的九人男子團體[Stray Kids中負責創作的團體](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")。成員包括CB97(方燦)、SPEARB(彰彬)、J.ONE(HAN)。團名「3RACHA」原是辣椒醬名「SRIRACHA」\[1\]，前面的數字「3」代表三個人，而「RACHA」在西班牙文的意思為狂風、旋風，意謂三個人想要展現火辣的味道、掀起狂風的抱負\[2\]。2018年3月25日，方燦、彰彬與HAN作為[Stray Kids成員出道](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")。
 
 ## 發展歷程
 
@@ -63,7 +63,7 @@
 </tr>
 <tr class="odd">
 <td><p>J.ONE</p></td>
-<td><p><a href="../Page/韓知城.md" title="wikilink">Han</a></p></td>
+<td><p><a href="../Page/韓知城.md" title="wikilink">HAN</a></p></td>
 <td><p>한</p></td>
 <td><p>韓知城</p></td>
 <td><p>Han Ji-Sung</p></td>
@@ -248,7 +248,7 @@ Soliloquy（）</p></td>
 | 發行日期       | 歌曲     | 專輯                                                            | 歌手                               | 參與成員                              | 創作部分  | 合作           |
 | ---------- | ------ | ------------------------------------------------------------- | -------------------------------- | --------------------------------- | ----- | ------------ |
 | 2019年2月20日 | 바람 같은너 | 《Aside》                                                       | [尹智聖](../Page/尹智聖.md "wikilink") | 彰彬(3RACHA)                        | RAP填詞 | CODE 9、Kalix |
-| 2019年4月12日 | 我的世代   | 《[NO IDEA](https://zh.wikipedia.org/wiki/NO_IDEA "wikilink")》 | [羅志祥](../Page/羅志祥.md "wikilink") | 方燦(3RACHA)、彰彬(3RACHA)、Han(3RACHA) | 作曲    | This N That  |
+| 2019年4月12日 | 我的世代   | 《[NO IDEA](https://zh.wikipedia.org/wiki/NO_IDEA "wikilink")》 | [羅志祥](../Page/羅志祥.md "wikilink") | 方燦(3RACHA)、彰彬(3RACHA)、HAN(3RACHA) | 作曲    | This N That  |
 
 ## 影視作品
 
@@ -277,34 +277,19 @@ Soliloquy（）</p></td>
 [Category:Stray_Kids](https://zh.wikipedia.org/wiki/Category:Stray_Kids "wikilink")
 
 1.
-
 2.  15分17秒處
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.  M COUNTDOWN 190418 EP.615 |url=<https://www.youtube.com/watch?v=xeJa25mIPv4> |website=YouTube |accessdate=2019-04-18}}
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.
-
 17.

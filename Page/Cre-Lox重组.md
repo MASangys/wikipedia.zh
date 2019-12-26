@@ -93,53 +93,29 @@ Example Alternate loxP Sites\[17\]
 [Category:基因工程](https://zh.wikipedia.org/wiki/Category:基因工程 "wikilink") [Category:DNA](https://zh.wikipedia.org/wiki/Category:DNA "wikilink") [Category:分子遺傳學](https://zh.wikipedia.org/wiki/Category:分子遺傳學 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14. [Https: / / www.ncbi.nlm.nih. gov / protein / aav84941.1](https://www.ncbi.nlm.nih.gov/protein/AAV84941.1)
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
 23.
 24.
-
 25.
-
 26.
-
 27. Editor's Summary (1 November 2007) [Over the brainbow](http://www.nature.com/nature/journal/v450/n7166/edsumm/e071101-01.html). *Nature.* Accessed 15 March 2010.

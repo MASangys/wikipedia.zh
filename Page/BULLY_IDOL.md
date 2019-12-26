@@ -13,7 +13,7 @@
   - 4月10日 – 發行首張單曲。《 "そして、また、、(リミックス) "》\[4\]
   - 5月11日 – 由於BiS解散，パン・ルナリーフィ決定留在WACK。
   - 5月31日 – 首次亮相，パン・ルナリーフィ並以個人身份亮相，與BILLIEIDLE®一起在Tower Records的店舗表演。
-  - 6月19日 – パン・ルナリーフィ並宣布她將加入一個臨時名稱為Curry Roux的新團體。
+  - 6月19日 – パン・ルナリーフィ並宣布她將加入一個臨時名稱為CARRY LOOSE的新團體。
 
 ### 現任成員
 
@@ -24,7 +24,6 @@
 <th><p>生日</p></th>
 <th><p>個人簡介</p></th>
 <th><p>模仿對象</p></th>
-<th><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -34,7 +33,6 @@
 <td><p>是GANG PARADE的成員。<br />
 </p></td>
 <td><p>プー・ルイ</p></td>
-<td><p><a href="https://twitter.com/kamiya_GANG">カミヤサキ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>アイナ・ジ・エンド</p></td>
@@ -42,7 +40,6 @@
 <td><p>是BiSH的成員。<br />
 </p></td>
 <td><p>ヒラノノゾミ</p></td>
-<td><p><a href="https://twitter.com/aina_BiSH">アイナ・ジ・エンド</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>アユニ・D</p></td>
@@ -50,10 +47,8 @@
 <td><p>是BiSH的成員。<br />
 </p></td>
 <td><p>モモセモモ</p></td>
-<td><p><a href="https://twitter.com/AYUNiD_BiSH">アユニ・D</a></p></td>
 </tr>
 <tr class="even">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -62,10 +57,9 @@
 <tr class="odd">
 <td><p>パン・ルナリーフィ</p></td>
 <td><p>8月18日</p></td>
-<td><p>是Curry Roux的成員。<br />
-是前BiS的成員。</p></td>
+<td><p>是CARRY LOOSE的成員。<br />
+</p></td>
 <td><p>ファーストサマーウイカ</p></td>
-<td><p><a href="https://twitter.com/PANLUNA___">パン・ルナリーフィ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>MAHO EMPiRE</p></td>
@@ -73,7 +67,6 @@
 <td><p>是EMPiRE的成員。<br />
 </p></td>
 <td><p>アキラ</p></td>
-<td><p><a href="https://twitter.com/maho_empire">MAHO EMPiRE</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -88,12 +81,19 @@
 
 ## 瑣事
 
-  - BULLY IDOL是WACK的第一個洗牌團體。包含有Curry Roux成員的洗牌團體。
+  - BULLY IDOL是WACK的第一個洗牌團體。包含有CARRY LOOSE成員的洗牌團體。
 
 ## 参考文献
 
 ## 外部連結
 
+**Twitter**
+
+  -
+  -
+  -
+  -
+  -
 [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
 
 1.  [謎のユニット・BULLY IDOL「そして、また、、（リミックス）」MV公開](https://natalie.mu/music/news/318971)

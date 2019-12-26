@@ -28,18 +28,14 @@ MASSIVE歷經不斷改進逐漸成形\[9\]，《魔戒》電影裡[最後聯盟�
 [Category:三維圖像軟件](https://zh.wikipedia.org/wiki/Category:三維圖像軟件 "wikilink") [Category:動畫軟件](https://zh.wikipedia.org/wiki/Category:動畫軟件 "wikilink") [Category:多重代理人系統](https://zh.wikipedia.org/wiki/Category:多重代理人系統 "wikilink") [Category:魔戒電影](https://zh.wikipedia.org/wiki/Category:魔戒電影 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
 7.
 8.
 9.
 10.
-
 11.
 12.

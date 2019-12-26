@@ -8,9 +8,9 @@ Gamers2在2016年歐洲挑戰賽常規賽中取得首名，然後則在季後賽
 
 [LCS_Summer_Split_2017_in_Paris.jpg](https://zh.wikipedia.org/wiki/File:LCS_Summer_Split_2017_in_Paris.jpg "fig:LCS_Summer_Split_2017_in_Paris.jpg")舉行的EU LCS夏季賽決賽中迎戰\]\] G2自從升進EU LCS之後便一直維持在上段班的水平，他們在2017年春季賽奪得冠軍，達成三連霸\[12\]，之後更一路過關斬將至[2017年MSI的決賽](https://zh.wikipedia.org/wiki/2017英雄聯盟季中邀請賽 "wikilink")，惜以1-3敗予[LCK的](https://zh.wikipedia.org/wiki/英雄聯盟韓國冠軍聯賽 "wikilink")[SK Telecom T1](../Page/SK_Telecom_T1.md "wikilink")\[13\]。夏季賽方面，G2在季後賽決賽橫掃，達成EU LCS史上第一次四連霸，並再次以一號種子的姿態晉身世界賽\[14\]。在[2017赛季全球总决赛上](../Page/英雄联盟2017赛季全球总决赛.md "wikilink")，他們與當屆冠軍[Samsung Galaxy及大熱](../Page/Gen.G.md "wikilink")[Royal Never Give Up兩支強隊一起被分配到C組](https://zh.wikipedia.org/wiki/皇族電子競技俱樂部 "wikilink")，最後僅能自這兩隊的四場比賽中取得一勝，以3勝3敗的戰績完成小組賽事，雖然表現比上次世界賽大有改善，但仍未能獲得出線資格\[15\]。
 
-2018年春季賽，G2以0-3遭Fnatic於決賽痛宰，無緣連續三年征戰MSI；夏季賽更是狀況下滑，不僅例行賽沒能保住前二，更於季後賽第一輪便以0:3的比數敗給了例行賽排名更低的，所幸之後他們在區域選拔賽時狀況回穩，相繼擊敗和，以第三種子的身份代表EU LCS出戰\[16\]。在[2018赛季全球总决赛上](../Page/英雄联盟2018赛季全球总决赛.md "wikilink")，他們先在入圍賽以3-1淘汰LAT的Infinity eSports CR，並進入至有[Afreeca Freecs](../Page/Afreeca_Freecs.md "wikilink")、[Flash Wolves和](../Page/閃電狼.md "wikilink")的A組。與上兩次不同的是，G2這次成功突圍小組賽，他們在加賽擊敗Flash Wolves得以晉級至八強，之後更在八強賽以3-2爆冷戰勝大熱門[Royal Never Give Up](https://zh.wikipedia.org/wiki/皇族電子競技俱樂部 "wikilink")，最終他們在四強被當屆冠軍[Invictus Gaming橫掃](https://zh.wikipedia.org/wiki/Invictus_Gaming "wikilink")，但已創下G2三征世界賽以來最好的成績\[17\]。
+2018年春季賽，G2以0-3遭Fnatic於決賽痛宰，無緣連續三年征戰MSI；夏季賽更是狀況下滑，不僅例行賽沒能保住前二，更於季後賽第一輪便以0:3的比數敗給了例行賽排名更低的Misfits，所幸之後他們在區域選拔賽時狀況回穩，相繼擊敗和，以第三種子的身份代表EU LCS出戰\[16\]。在[2018赛季全球总决赛上](../Page/英雄联盟2018赛季全球总决赛.md "wikilink")，他們先在入圍賽以3-1淘汰LAT的Infinity eSports CR，並進入至有[Afreeca Freecs](../Page/Afreeca_Freecs.md "wikilink")、[Flash Wolves和](../Page/閃電狼.md "wikilink")的A組。與上兩次不同的是，G2這次成功突圍小組賽，他們在加賽擊敗Flash Wolves得以晉級至八強，之後更在八強賽以3-2爆冷戰勝大熱門[Royal Never Give Up](https://zh.wikipedia.org/wiki/皇族電子競技俱樂部 "wikilink")，最終他們在四強被當屆冠軍[Invictus Gaming橫掃](https://zh.wikipedia.org/wiki/Invictus_Gaming "wikilink")\[17\]。
 
-2018年11月29日，G2買下Fnatic的中單，而本來擔任隊伍中單則轉至AD Carry，組成「雙法王」組合\[18\]。他們在當季常規賽打出13勝5敗的戰績登頂，季後賽亦連續兩輪面對Origen未嘗一敗取得冠軍\[19\]。在[2019年季中邀請賽中](../Page/2019年英雄聯盟季中邀請賽.md "wikilink")，G2以第三名的身份（5勝5敗）晉身至淘汰賽後，在半決賽中以3-2戰勝兩屆盟主SK Telecom T1，報了2017年決賽的一箭之仇，得以與擊敗同為當屆大熱門Invictus Gaming的會師，同時亦成就自2011年以來的首次歐美大戰，最終他們橫掃後者，捧走隊史第一座國際賽冠軍\[20\]。
+2018年11月29日，G2買下Fnatic的中單，而本來擔任隊伍中單則轉至AD Carry，組成「雙法王」組合\[18\]。他們在當季常規賽打出13勝5敗的戰績登頂，季後賽亦連續兩輪面對Origen未嘗一敗取得冠軍\[19\]。在[2019年季中邀請賽中](../Page/2019年英雄聯盟季中邀請賽.md "wikilink")，G2以第三名的身份（5勝5敗）晉身至淘汰賽後，在半決賽中以3-2戰勝兩屆盟主SK Telecom T1，報了2017年決賽的一箭之仇，得以與擊敗同為當屆大熱門Invictus Gaming的會師，同時亦成就自2011年以來的首次歐美大戰，最終他們橫掃後者，捧走隊史第一座國際賽冠軍\[20\]。回到夏季賽，G2繼續維持強勢，在常規賽中再次取得首位，並在兩次BO5比賽中皆以3-2的比分擊敗老對手Fnatic，拿到隊伍的第六座LEC冠軍\[21\]\[22\]。同年的[世界大賽上](https://zh.wikipedia.org/wiki/英雄聯盟2019賽季世界大賽 "wikilink")，作為大熱門的G2被分到有（LCK）、（LCS）和[Hong Kong Attitude](https://zh.wikipedia.org/wiki/Hong_Kong_Attitude "wikilink")（LMS）的A組，後順利以5勝2負第二種子的身份晉級淘汰賽\[23\]，並接連在八強和四強分別打敗同樣來自LCK的DAMWON Gaming和SK Telecom T1，最終他們在決賽中被LPL的[FunPlus Phoenix以直落三擊敗](https://zh.wikipedia.org/wiki/FunPlus_Phoenix "wikilink")，飲恨奪亞\[24\]。
 
 ### 選手
 
@@ -203,11 +203,11 @@ Gamers2在2016年歐洲挑戰賽常規賽中取得首名，然後則在季後賽
 
 ## 絕對武力：全球攻勢
 
-2015年9月11日，Team Kinguin的隊員全數轉籍至G2 Esports，並以G2.Kinguin的名義出賽，初始成員有突破手「ScreaM」阿迪爾·本爾里托姆（Adil Benrlitom）、「rain」霍瓦爾·奈加德（Håvard Nygaard）、步槍手兼[AWP狙擊手](../Page/精密國際AW狙擊步槍.md "wikilink")「」米凱爾·比爾（Mikail Bill）、「」里卡多·帕切科（Ricardo Pacheco）和「dennis」丹尼斯·埃德曼（Dennis Edman）\[21\]。他們後來以第3名至第4名分別完成公開賽和[克盧日-納波卡公開賽](https://zh.wikipedia.org/wiki/克盧日-納波卡 "wikilink")\[22\] 2016年1月20日，G2 Esports的CS:GO分部陣容被吸收\[23\]。
+2015年9月11日，Team Kinguin的隊員全數轉籍至G2 Esports，並以G2.Kinguin的名義出賽，初始成員有突破手「ScreaM」阿迪爾·本爾里托姆（Adil Benrlitom）、「rain」霍瓦爾·奈加德（Håvard Nygaard）、步槍手兼[AWP狙擊手](../Page/精密國際AW狙擊步槍.md "wikilink")「」米凱爾·比爾（Mikail Bill）、「」里卡多·帕切科（Ricardo Pacheco）和「dennis」丹尼斯·埃德曼（Dennis Edman）\[25\]。他們後來以第3名至第4名分別完成公開賽和[克盧日-納波卡公開賽](https://zh.wikipedia.org/wiki/克盧日-納波卡 "wikilink")\[26\] 2016年1月20日，G2 Esports的CS:GO分部陣容被吸收\[27\]。
 
-2016年2月1日，G2公佈前身為的全新CS:GO分部陣容，且全都是以法語為母語的選手，包括步槍手「Ex6TenZ」凱文·德魯蘭斯（Kévin Droolans）、輔助「SmithZz」愛德華·杜布爾多（Edouard Dubourdeaux）、突破手「RpK」塞德里克·吉普伊（Cédric Guipouy）、游擊手「shox」理查·帕皮倫（Richard Papillon）和之前就曾在G2效力過的「ScreaM」\[24\]。2個月後，他們以小組賽出局的戰績結束後，他們宣佈簽下「bodyy」亞歷山大·皮恩納羅（Alexandre Pianaro），取代離開的「Ex6TenZ」\[25\]。G2之後殺入的總決賽，惜最後以2-3敗給，取得亞軍\[26\]。同年6月26日，G2報了上次的一箭之仇，在第一季的決賽上擊敗Luminnosity奪標\[27\]。
+2016年2月1日，G2公佈前身為的全新CS:GO分部陣容，且全都是以法語為母語的選手，包括步槍手「Ex6TenZ」凱文·德魯蘭斯（Kévin Droolans）、輔助「SmithZz」愛德華·杜布爾多（Edouard Dubourdeaux）、突破手「RpK」塞德里克·吉普伊（Cédric Guipouy）、游擊手「shox」理查·帕皮倫（Richard Papillon）和之前就曾在G2效力過的「ScreaM」\[28\]。2個月後，他們以小組賽出局的戰績結束後，他們宣佈簽下「bodyy」亞歷山大·皮恩納羅（Alexandre Pianaro），取代離開的「Ex6TenZ」\[29\]。G2之後殺入的總決賽，惜最後以2-3敗給，取得亞軍\[30\]。同年6月26日，G2報了上次的一箭之仇，在第一季的決賽上擊敗Luminnosity奪標\[31\]。
 
-2017年2月3日，與G2達成交易，後者有AWP狙擊手「[kennyS](https://zh.wikipedia.org/wiki/kennyS "wikilink")」肯尼·施盧普（Kenny Schrub）、突破手「apEX」丹·馬德斯克萊爾（Dan Madesclaire）、輔助「NBK-」內森·施密特（Nathan Schmitt）和首席分析師「enkay J」尼克拉斯·克魯姆霍恩（Niclas Krumhorn）加盟\[28\]，而前者則以「ScreaM」\[29\]和「RpK」\[30\]替代之。
+2017年2月3日，與G2達成交易，後者有AWP狙擊手「[kennyS](https://zh.wikipedia.org/wiki/kennyS "wikilink")」肯尼·施盧普（Kenny Schrub）、突破手「apEX」丹·馬德斯克萊爾（Dan Madesclaire）、輔助「NBK-」內森·施密特（Nathan Schmitt）和首席分析師「enkay J」尼克拉斯·克魯姆霍恩（Niclas Krumhorn）加盟\[32\]，而前者則以「ScreaM」\[33\]和「RpK」\[34\]替代之。
 
 ### 隊員
 
@@ -226,9 +226,9 @@ Gamers2在2016年歐洲挑戰賽常規賽中取得首名，然後則在季後賽
 <td><p>2017-02-03</p></td>
 </tr>
 <tr class="even">
-<td><p>shox</p></td>
-<td><p>游擊手/隊長</p></td>
-<td><p>2016-02-01</p></td>
+<td><p>nexa</p></td>
+<td><p>步槍手/隊長</p></td>
+<td><p>2019-09-30</p></td>
 </tr>
 <tr class="odd">
 <td><p>AMANEK</p></td>
@@ -236,9 +236,9 @@ Gamers2在2016年歐洲挑戰賽常規賽中取得首名，然後則在季後賽
 <td><p>2019-03-07</p></td>
 </tr>
 <tr class="even">
-<td><p>Lucky</p></td>
-<td><p>突破手/AWP狙擊手</p></td>
-<td><p>2018-11-26</p></td>
+<td><p>huNter-</p></td>
+<td><p>步槍手</p></td>
+<td><p>2019-09-30</p></td>
 </tr>
 <tr class="odd">
 <td><p>JaCkz</p></td>
@@ -376,17 +376,17 @@ Gamers2在2016年歐洲挑戰賽常規賽中取得首名，然後則在季後賽
 
 ### 戰績
 
-  - 1st —  Open Tours 2017\[31\]
-  - 1st — \[32\]
-  - 1st — DreamHack Masters [Malmö](https://zh.wikipedia.org/wiki/馬爾摩 "wikilink") 2017\[33\]
-  - 3rd — EPICENTER 2017\[34\]
+  - 1st —  Open Tours 2017\[35\]
+  - 1st — \[36\]
+  - 1st — DreamHack Masters [Malmö](https://zh.wikipedia.org/wiki/馬爾摩 "wikilink") 2017\[37\]
+  - 3rd — EPICENTER 2017\[38\]
   - 5th — BLAST Pro Series Copenhagen 2017
   - 7th — 歐洲區
   - 9th-10th [第十二季IEM英特爾極限高手盃 – 奧克蘭](../Page/IEM英特爾極限高手盃.md "wikilink")
 
 ## 最終榮耀
 
-2015年8月，G2創立《[虚荣](../Page/虚荣_\(游戏\).md "wikilink")》分部，其大部分成員都來自PewPewPew（PPP）\[35\]。2016年7月1日，他們簽下的REDemption和majestiC\[36\]。
+2015年8月，G2創立《[虚荣](../Page/虚荣_\(游戏\).md "wikilink")》分部，其大部分成員都來自PewPewPew（PPP）\[39\]。2016年7月1日，他們簽下的REDemption和majestiC\[40\]。
 
 ### 選手
 
@@ -467,7 +467,7 @@ Gamers2在2016年歐洲挑戰賽常規賽中取得首名，然後則在季後賽
 
 ## 任天堂明星大亂鬥DX
 
-2016年7月11日，G2 Esports與簽約\[37\]。
+2016年7月11日，G2 Esports與簽約\[41\]。
 
 ### 選手
 
@@ -490,7 +490,7 @@ Gamers2在2016年歐洲挑戰賽常規賽中取得首名，然後則在季後賽
 
 ## 火箭聯盟
 
-2016年9月7日，G2 Esports與RLCS世界賽第一季冠軍，前iBUYPOWER Cosmic成員簽約\[38\]。他們在RLCS第三季遭到淘汰後贏得Eleague系列賽\[39\]和的亞軍。
+2016年9月7日，G2 Esports與RLCS世界賽第一季冠軍，前iBUYPOWER Cosmic成員簽約\[42\]。他們在RLCS第三季遭到淘汰後贏得Eleague系列賽\[43\]和的亞軍。
 
 ### 選手
 
@@ -504,15 +504,15 @@ Gamers2在2016年歐洲挑戰賽常規賽中取得首名，然後則在季後賽
 <tbody>
 <tr class="odd">
 <td><p>Kronovi</p></td>
-<td><p>2016-09-07[40]</p></td>
+<td><p>2016-09-07[44]</p></td>
 </tr>
 <tr class="even">
 <td><p>Rizzo</p></td>
-<td><p>2017-02-22[41]</p></td>
+<td><p>2017-02-22[45]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Jknaps</p></td>
-<td><p>2017-02-22[42]</p></td>
+<td><p>2017-02-22[46]</p></td>
 </tr>
 <tr class="even">
 <td><p>Jahzo（經理/教練）</p></td>
@@ -552,7 +552,7 @@ Gamers2在2016年歐洲挑戰賽常規賽中取得首名，然後則在季後賽
 
 ## 決勝時刻
 
-2018年10月25日，G2 Esports公佈他們《[使命召唤：黑色行动4](../Page/使命召唤：黑色行动4.md "wikilink")》的陣容\[43\]。
+2018年10月25日，G2 Esports公佈他們《[使命召唤：黑色行动4](../Page/使命召唤：黑色行动4.md "wikilink")》的陣容\[47\]。
 
 ### 選手
 
@@ -595,85 +595,49 @@ Gamers2在2016年歐洲挑戰賽常規賽中取得首名，然後則在季後賽
 [Category:2014年西班牙建立](https://zh.wikipedia.org/wiki/Category:2014年西班牙建立 "wikilink") [Category:马德里公司](https://zh.wikipedia.org/wiki/Category:马德里公司 "wikilink") [Category:英雄聯盟競技團隊](https://zh.wikipedia.org/wiki/Category:英雄聯盟競技團隊 "wikilink") [Category:歐洲電子競技團體](https://zh.wikipedia.org/wiki/Category:歐洲電子競技團體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
-35.  Vainglory team qualifies for VIPL |publisher=G2 Esports |date=2015-10-08 |accessdate=2018-05-04 |archive-url=<https://web.archive.org/web/20151208074751/http://www.g2esports.com/vainglory-team-qualifies-for-vipl/> |archive-date=2015-12-08 |dead-url=no }}
-
+35.
 36.
-
 37.
-
 38.
-
-39. G2 esports win Eleague Cup <https://liquipedia.net/rocketleague/ELEAGUE/Cup>|
-
-40.  G2 Esports sign Rocket League World Champions |publisher=G2 Esports |date=2016-09-07 |accessdate=2018-05-04 |archive-url=<https://web.archive.org/web/20161005070416/http://www.g2esports.com/g2-esports-sign-rocket-league-world-champions/> |archive-date=2016-10-05 |dead-url=no }}
-
-41.  JKnaps & Rizzo join Rocket League team |publisher=G2 Esports |date=2017-02-22 |accessdate=2018-05-04 |archive-url=<https://web.archive.org/web/20180411234919/http://www.g2esports.com/jknaps-rizzo-join-rocket-league-team/> |archive-date=2018-04-11 |dead-url=no }}
-
+39.  Vainglory team qualifies for VIPL |publisher=G2 Esports |date=2015-10-08 |accessdate=2018-05-04 |archive-url=<https://web.archive.org/web/20151208074751/http://www.g2esports.com/vainglory-team-qualifies-for-vipl/> |archive-date=2015-12-08 |dead-url=no }}
+40.
+41.
 42.
-43.
+43. G2 esports win Eleague Cup <https://liquipedia.net/rocketleague/ELEAGUE/Cup>|
+44.  G2 Esports sign Rocket League World Champions |publisher=G2 Esports |date=2016-09-07 |accessdate=2018-05-04 |archive-url=<https://web.archive.org/web/20161005070416/http://www.g2esports.com/g2-esports-sign-rocket-league-world-champions/> |archive-date=2016-10-05 |dead-url=no }}
+45.  JKnaps & Rizzo join Rocket League team |publisher=G2 Esports |date=2017-02-22 |accessdate=2018-05-04 |archive-url=<https://web.archive.org/web/20180411234919/http://www.g2esports.com/jknaps-rizzo-join-rocket-league-team/> |archive-date=2018-04-11 |dead-url=no }}
+46.
+47.

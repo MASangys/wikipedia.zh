@@ -24,7 +24,5 @@ Su-Ki是一台由[大日本帝國陸軍](../Page/大日本帝國陸軍.md "wikil
 [Category:兩棲軍用車輛](https://zh.wikipedia.org/wiki/Category:兩棲軍用車輛 "wikilink") [Category:豐田車輛](https://zh.wikipedia.org/wiki/Category:豐田車輛 "wikilink") [Category:軍用卡車](https://zh.wikipedia.org/wiki/Category:軍用卡車 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.  四十、乔治\*(1999年)。 日本军队手册》，1939年至1945年，p. 166.
-
 2.  [塔基的日本帝国陆军：水陆两用车的"苏-Ki"](http://www3.plala.or.jp/takihome/su-ki.htm)
-
 3.

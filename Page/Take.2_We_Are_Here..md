@@ -72,50 +72,25 @@
 
 ## 專輯銷量
 
-<table>
-<thead>
-<tr class="header">
-<th><p>地區</p></th>
-<th><p>銷量</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>南韓 (<a href="https://zh.wikipedia.org/wiki/Gaon音樂榜" title="wikilink">Gaon</a>) <ref></p>
-<ul>
-<li></li>
-</ul>
-<p></ref></p></td>
-<td><p>250,854+</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 地區                                                                   | 銷量       |
+| -------------------------------------------------------------------- | -------- |
+| 南韓 ([Gaon](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink")) \[13\] | 250,854+ |
+|                                                                      |          |
 
 ## 參考資料
 
 [Category:2019年音樂專輯](https://zh.wikipedia.org/wiki/Category:2019年音樂專輯 "wikilink") [Category:MONSTA_X音樂專輯](https://zh.wikipedia.org/wiki/Category:MONSTA_X音樂專輯 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2019年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯週榜冠軍作品 "wikilink") [Category:2019年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯月榜冠軍作品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
 9.   2019年第8週|work= [五大唱片](https://www.5music.com.tw/)}}
-
 10.
-
 11.
-
 12.
+13. \*

@@ -40,37 +40,22 @@ Elasticsearch BV成立于2012年，主要围绕Elasticsearch及相关软件提�
 [Category:2018年IPO](https://zh.wikipedia.org/wiki/Category:2018年IPO "wikilink") [Category:纽约证券交易所上市公司](https://zh.wikipedia.org/wiki/Category:纽约证券交易所上市公司 "wikilink") [Category:網路搜尋引擎](https://zh.wikipedia.org/wiki/Category:網路搜尋引擎 "wikilink") [Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.

@@ -37,16 +37,15 @@
 
 ## 參考資料
 
+## 外部連結
+
+[平成筑豐鐵道 – 令和COSTA行橋車站](http://www.heichiku.net/timetable/station/445)
+
 [Category:行橋市](https://zh.wikipedia.org/wiki/Category:行橋市 "wikilink") [Category:2019年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2019年啟用的鐵路車站 "wikilink") [Category:田川線車站](https://zh.wikipedia.org/wiki/Category:田川線車站 "wikilink") [Category:日本鐵路車站_Re](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Re "wikilink") [Category:福岡縣鐵路車站](https://zh.wikipedia.org/wiki/Category:福岡縣鐵路車站 "wikilink")
 
 1.  [コスタ行橋店 - アミューズメントフードホール ハローデイ](http://www.halloday.co.jp/139.html) 2014年09月03日閲覧
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.

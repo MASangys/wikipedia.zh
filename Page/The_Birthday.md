@@ -26,6 +26,8 @@
 
 2015年9月15日，庆祝结成10周年的纪念演唱会在[日本武道馆举行](https://zh.wikipedia.org/wiki/日本武道馆 "wikilink")\[6\]。隔日9月16日精选专辑《GOLD TRASH》发售\[7\]。
 
+2019年7月，在台北THE WALL舉行「覺醒音樂祭十周年：The Birthday 『VIVIAN KILLERS TOUR 2019』」演出\[8\]\[9\]。
+
 ## 作品
 
 ### 单曲
@@ -77,7 +79,7 @@ UPCI-5044（通常）</p></td>
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>2007年8月1日</p></td>
-<td><p>[8]</p></td>
+<td><p>[10]</p></td>
 <td><p>12cmCD</p></td>
 <td><p>UPCI-5051</p></td>
 <td></td>
@@ -86,7 +88,7 @@ UPCI-5044（通常）</p></td>
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2007年12月5日</p></td>
-<td><p>[9]</p></td>
+<td><p>[11]</p></td>
 <td><p>CD+DVD<br />
 2CD<br />
 12cmCD</p></td>
@@ -99,7 +101,7 @@ UPCI-5057</p></td>
 <tr class="even">
 <td><p>-</p></td>
 <td><p>2008年5月12日</p></td>
-<td><p>[10]</p></td>
+<td><p>[12]</p></td>
 <td><p>12cmCD</p></td>
 <td><p>PROA-195</p></td>
 <td><p>WATCH YOUR BLINDSIDE</p></td>
@@ -108,7 +110,7 @@ UPCI-5057</p></td>
 <tr class="odd">
 <td><p>6th</p></td>
 <td><p>2008年10月15日</p></td>
-<td><p>[11]</p></td>
+<td><p>[13]</p></td>
 <td><p>CD+DVD<br />
 12cmCD</p></td>
 <td><p>UMCK-9245（初回）<br />
@@ -119,7 +121,7 @@ UMCK-5223（通常）</p></td>
 <tr class="even">
 <td><p>7th</p></td>
 <td><p>2009年10月14日</p></td>
-<td><p>[12]</p></td>
+<td><p>[14]</p></td>
 <td><p>CD+DVD<br />
 12cmCD</p></td>
 <td><p>UMCK-9300（初回）<br />
@@ -161,7 +163,7 @@ UMCK-5262（通常）</p></td>
 <tr class="even">
 <td><p>10th</p></td>
 <td><p>2011年4月13日</p></td>
-<td><p>[13]</p></td>
+<td><p>[15]</p></td>
 <td><p>CD+DVD<br />
 12cmCD</p></td>
 <td><p>UMCK-9423（初回）<br />
@@ -271,7 +273,7 @@ UMCK-5651（通常）</p></td>
 <tr class="even">
 <td><p>20th</p></td>
 <td><p>2018年0月10日</p></td>
-<td><p>[14]</p></td>
+<td><p>[16]</p></td>
 <td><p>CD+DVD<br />
 12cmCD</p></td>
 <td><p>UMCK-9967（初回）<br />
@@ -282,7 +284,7 @@ UMCK-5659（通常）</p></td>
 <tr class="odd">
 <td><p>21th</p></td>
 <td><p>2019年2月13日</p></td>
-<td><p>OH BABY![15]</p></td>
+<td><p>OH BABY![17]</p></td>
 <td><p>12cmCD</p></td>
 <td><p>UMCK-5665（通常）</p></td>
 <td><p>21位</p></td>
@@ -318,7 +320,7 @@ UMCK-5659（通常）</p></td>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2007年9月12日</p></td>
-<td><p>[16]</p></td>
+<td><p>[18]</p></td>
 <td><p>CD+DVD<br />
 12cmCD</p></td>
 <td><p>UPCI-9023（初回）<br />
@@ -328,7 +330,7 @@ UPCI-1067（通常）</p></td>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p>2008年11月12日</p></td>
-<td><p>[17]</p></td>
+<td><p>[19]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SHM-CD" title="wikilink">SHM-CD</a>+DVD<br />
 12cmCD</p></td>
 <td><p>UMCK-9248（初回）<br />
@@ -338,7 +340,7 @@ UMCK-1279（通常）</p></td>
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>2010年2月17日</p></td>
-<td><p>[18]</p></td>
+<td><p>[20]</p></td>
 <td><p>SHM-CD+DVD<br />
 12cmCD</p></td>
 <td><p>UMCK-9321（初回）<br />
@@ -348,7 +350,7 @@ UMCK-1348（通常）</p></td>
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2011年6月15日</p></td>
-<td><p>[19]</p></td>
+<td><p>[21]</p></td>
 <td><p>SHM-CD+DVD<br />
 12cmCD</p></td>
 <td><p>UMCK-9432（初回）<br />
@@ -400,14 +402,14 @@ UMCK-1566（通常）</p></td>
 <tr class="even">
 <td><p>10th</p></td>
 <td><p>2019年3月20日</p></td>
-<td><p>VIVIAN KILLERS[20]</p></td>
+<td><p>VIVIAN KILLERS[22]</p></td>
 <td><p>SHM-CD+Blu-ray Disc<br />
 SHM-CD+DVD<br />
 12cmCD</p></td>
 <td><p>UMCK-9994（初回+Blu-ray）<br />
 UMCK-9995（初回+DVD）<br />
 UMCK-1617（通常）</p></td>
-<td></td>
+<td><p>6位</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -435,7 +437,7 @@ UMCK-1617（通常）</p></td>
 <tbody>
 <tr class="odd">
 <td><p>2008年7月9日</p></td>
-<td><p>[21]</p></td>
+<td><p>[23]</p></td>
 <td><p>12cmCD</p></td>
 <td><p>UMCK-1255</p></td>
 <td><p>17位</p></td>
@@ -450,7 +452,7 @@ UMCK-1617（通常）</p></td>
 </tbody>
 </table>
 
-#### 合辑
+#### B-Side合辑
 
 <table>
 <thead>
@@ -471,6 +473,13 @@ UMCK-1617（通常）</p></td>
 <td><p>19位</p></td>
 </tr>
 <tr class="even">
+<td><p>2019年8月28日</p></td>
+<td><p>WATCH YOUR BLINDSIDE 2</p></td>
+<td><p>12cmCD</p></td>
+<td><p>UMCK-1632</p></td>
+<td><p>16位</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -545,7 +554,7 @@ UMCK-1519</p></td>
 
 #### 其他CD
 
-1.  《The Birthday meets Love Grocer at On-U Sound Mixed by Adrian Sherwood》（2009年5月13日、TERNG-083）\[22\]
+1.  《The Birthday meets Love Grocer at On-U Sound Mixed by Adrian Sherwood》（2009年5月13日、TERNG-083）\[24\]
 
 ### DVD
 
@@ -563,35 +572,35 @@ UMCK-1519</p></td>
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2008年3月26日<br />
-2009年11月4日[23]</p></td>
+2009年11月4日[25]</p></td>
 <td><p>Live at Far East<br />
-<small>〜2007-2008 LOOKING FOR THE LOST TEARDROPS TOUR Final At 2008.1.12 NIPPON BUDOKAN〜</small>[24]</p></td>
-<td><p>UPBI-9523[25]<br />
-UPBI-1020[26]<br />
-UMBK-9215[27]<br />
+<small>〜2007-2008 LOOKING FOR THE LOST TEARDROPS TOUR Final At 2008.1.12 NIPPON BUDOKAN〜</small>[26]</p></td>
+<td><p>UPBI-9523[27]<br />
+UPBI-1020[28]<br />
+UMBK-9215[29]<br />
 UMXK-1018（Blu-ray）</p></td>
 <td><p>31位</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2009年1月28日<br />
-2009年11月4日[28]</p></td>
+2009年11月4日[30]</p></td>
 <td><p>THE VIDEOS + DOCS<br />
 SEP 2005 - NOV 2008</p></td>
-<td><p>UMBK-9207[29]<br />
-UMBK-1134[30]<br />
-UMBK-9214[31]</p></td>
+<td><p>UMBK-9207[31]<br />
+UMBK-1134[32]<br />
+UMBK-9214[33]</p></td>
 <td><p>31位</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p>2010年12月22日（DVD）<br />
 2012年6月13日（Blu-ray）<br />
-2012年9月26日[32]</p></td>
-<td><p>[33]</p></td>
+2012年9月26日[34]</p></td>
+<td><p>[35]</p></td>
 <td><p>UMBK-1155（DVD）<br />
 UMXK-1017（Blu-ray）<br />
-UMBK-9238[34]</p></td>
+UMBK-9238[36]</p></td>
 <td><p>57位</p></td>
 </tr>
 <tr class="even">
@@ -600,8 +609,8 @@ UMBK-9238[34]</p></td>
 <td><p>RAISE YOUR BLACK FLAG<br />
 <small>The Birthday TOUR VISION FINAL<br />
 2012. DEC. 19 LIVE AT NIPPON BUDOKAN</small></p></td>
-<td><p>UMBK-9264[35]<br />
-UMBK-1199[36]<br />
+<td><p>UMBK-9264[37]<br />
+UMBK-1199[38]<br />
 UMXK-1023（Blu-ray）</p></td>
 <td><p>12位</p></td>
 </tr>
@@ -637,13 +646,13 @@ UMBK-9293(DVD)</p></td>
 
   - 2006年 - The Birthday Showcase Live
   - 2007年 - Rollers Romantics Tour
-  - 2007年9月17日〜2008年1月12日 - LOOKING FOR THE LOST TEARDROPS TOUR\[37\]
-  - 2008年5月12日〜06月13日 - The Birthday BLACK ROYAL 12 NIGHTS\[38\]
-  - 2009年1月7日〜04月5日 - 38 NIGHTS ON FOOL TOUR\[39\]
-  - 2009年10月18日〜11月27日 - The Birthday Tour "愛でぬりつぶせ"'09\[40\]
-  - 2010年4月3日〜07月28日 - STAR BLOWS TOUR\[41\]
-  - 2011年5月7日〜12日 - Quattro×Quattro Tour'11\[42\]
-  - 2011年9月3日〜11月7日 - The Birthday 『I'M JUST A DOG TOUR '11』\[43\]
+  - 2007年9月17日〜2008年1月12日 - LOOKING FOR THE LOST TEARDROPS TOUR\[39\]
+  - 2008年5月12日〜06月13日 - The Birthday BLACK ROYAL 12 NIGHTS\[40\]
+  - 2009年1月7日〜04月5日 - 38 NIGHTS ON FOOL TOUR\[41\]
+  - 2009年10月18日〜11月27日 - The Birthday Tour "愛でぬりつぶせ"'09\[42\]
+  - 2010年4月3日〜07月28日 - STAR BLOWS TOUR\[43\]
+  - 2011年5月7日〜12日 - Quattro×Quattro Tour'11\[44\]
+  - 2011年9月3日〜11月7日 - The Birthday 『I'M JUST A DOG TOUR '11』\[45\]
   - 2012年4月14日〜20日 - Quattro×Quattro Tour '12
   - 2012年9月22日〜12月19日 - The Birthday Tour 2012『VISION』
   - 2013年4月30日〜05月20日 - The Birthday & [MANNISH BOYS](https://zh.wikipedia.org/wiki/MANNISH_BOYS "wikilink") presents 『WEEKEND LOVERS'13』
@@ -668,79 +677,47 @@ UMBK-9293(DVD)</p></td>
 [Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:環球唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:環球唱片旗下藝人 "wikilink") [Category:2006年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2006年成立的音乐团体 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  ROCKIN'ON JAPAN 2011年5月号
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
-23. 初回生産限定低価格盤
-
+23.
 24.
-
-25. 初回限定盤
-
-26. 通常盤
-
-27.
-28.
+25. 初回生産限定低価格盤
+26.
+27. 初回限定盤
+28. 通常盤
 29.
 30.
 31.
-32. 生産限定盤
-
+32.
 33.
-
-34.
+34. 生産限定盤
 35.
 36.
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
+44.
+45.

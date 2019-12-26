@@ -35,32 +35,18 @@ Helma Wennemers的工作得到了欧洲多肽学会的Leonidas Zervas奖（2010�
 [Category:有機化學家](https://zh.wikipedia.org/wiki/Category:有機化學家 "wikilink") [Category:20世紀女性科學家](https://zh.wikipedia.org/wiki/Category:20世紀女性科學家 "wikilink") [Category:苏黎世联邦理工学院教师](https://zh.wikipedia.org/wiki/Category:苏黎世联邦理工学院教师 "wikilink") [Category:巴塞爾大學教師](https://zh.wikipedia.org/wiki/Category:巴塞爾大學教師 "wikilink") [Category:法蘭克福大學教師](https://zh.wikipedia.org/wiki/Category:法蘭克福大學教師 "wikilink") [Category:多語言連結模板參數編號](https://zh.wikipedia.org/wiki/Category:多語言連結模板參數編號 "wikilink")
 
 1.  H. Wennemers, Chem. Commun. 2011, 47, 12036–12041.
-
 2.  P. Krattiger, R. Kovasy, J. D. Revell, S. Ivan, H. Wennemers, Org. Lett. 2005, 7, 1101–1103.
-
 3.  M. Wiesner, J. D. Revell, H. Wennemers, Angew. Chem. Int. Ed. 2008, 47, 1871–1874.
-
 4.  M. Wiesner, M. Neuburger, H. Wennemers, Chem. Eur. J. 2009, 15, 10103–10109.
-
 5.  T. Schnitzer, H. Wennemers, J. Am. Chem. Soc., 2017, 139, 15356–15362.
-
 6.  J. Saadi, H. Wennemers, Nature Chem., 2016, 8, 276–280.
-
 7.  E. Cosimi, O. D. Engl, J. Saadi, M.-O. Ebert, H. Wennemers, Angew. Chem. Int. Ed. 2016, 55, 13127–13131.
-
 8.  E. Cosimi, J. Saadi, H. Wennemers, Org. Lett. 2016, 18, 6014–6017.
-
 9.  C. Kroll, R. Mansi, F. Braun, S. Dobitz, H. Maecke, H. Wennemers, J. Am. Chem. Soc. 2013, 135, 16793–16796.
-
 10. Y. A. Nagel, P. S. Raschle, H. Wennemers, Angew. Chem. Int. Ed. 2017, 56, 122–126.
-
 11. C. Siebler, R. S. Erdmann, H. Wennemers, Angew. Chem. Int. Ed. 2014, 53, 10340 – 10344.
-
 12. M. R. Aronoff, J. Egli, M. Menichelli, H. Wennemers, Angew. Chem. Int. Ed. 2019, 58, 3143–3146.
-
 13.
 14. S. Corra, M. S. Shoshan, H. Wennemers, Curr. Opin., Chem. Biol., 2017, 40, 138–144.
-
 15. M. S. Shoshan, T. Vonderach, B. Hattendorf, H. Wennemers, Angew. Chem. Int. Ed. 2019, 58, 4901–4905.
-
 16. U. Lewandowska, W. Zajaczkowski, S. Corra, J. Tanabe, R. Borrmann, E. M. Benetti, S. Stappert, K. Watanabe, N. A. K. Ochs, R. Schaeublin, C. Li, E. Yashima, W. Pisula, K. Müllen, H. Wennemers, Nat. Chem., 2017, 9, 1068–1072.

@@ -1,4 +1,4 @@
-**1TEAM**（），是Liveworks Company於2019年推出的五人男子组合\[1\]，成員包括BC、婁彬、鎮祐、帝現及政勳。粉絲名稱為「Team One」。
+**1TEAM**（），是Liveworks Company於2019年推出的五人男子组合\[1\]，成員包括BC、婁彬、鎮祐、帝現及政勳。粉絲名稱為「Team One」\[2\]。
 
 ## 成員資料
 
@@ -24,11 +24,11 @@
 
 **BC**：
 
-2013年10月21日，以藝名Ra.E於團體[I-REX](../Page/I-REX.md "wikilink")出道，可惜在發表出道歌曲\[2\]不久後，團體便解散。
+2013年10月21日，以藝名Ra.E於團體[I-REX](../Page/I-REX.md "wikilink")出道，可惜在發表出道歌曲\[3\]不久後，團體便解散。
 
 [I-REX](../Page/I-REX.md "wikilink")解散後，2015年至2016年，曾為[Unicorn作伴舞員](../Page/Unicorn_\(女子團體\).md "wikilink")。
 
-2016年6月18日，以個人練習生身份參與《[少年24](../Page/少年24.md "wikilink")》，成功晉身24強，之後進行為期約一年的劇場公演活動。2017年8月12日，節目舉行總決賽，成功晉身出道組，計畫以[IN2IT](../Page/IN2IT.md "wikilink")出道。可惜於同年8月14日，宣布因音樂理念不同，決定退出出道組\[3\]。
+2016年6月18日，以個人練習生身份參與《[少年24](../Page/少年24.md "wikilink")》，成功晉身24強，之後進行為期約一年的劇場公演活動。2017年8月12日，節目舉行總決賽，成功晉身出道組，計畫以[IN2IT](../Page/IN2IT.md "wikilink")出道。可惜於同年8月14日，宣布因音樂理念不同，決定退出出道組\[4\]。
 
 2017年10月29日，以Liveworks Company練習生身份參與《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，比賽進行約三個多月，最終排名第15名，未能透過節目出道。
 
@@ -38,15 +38,21 @@
 
 2016年6月18日，以個人練習生身份參與《[少年24](../Page/少年24.md "wikilink")》，成功晉身24強，之後進行為期約一年的劇場公演活動。2017年8月12日，節目舉行總決賽，可惜未能晉身出道組。
 
-2017年10月29日，以Liveworks Company練習生身份參與由[YG娛樂](../Page/YG娛樂.md "wikilink")投資的《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，比賽進行約三個多月，最終排名第3名，預計透過節目出道。可惜[YG娛樂](../Page/YG娛樂.md "wikilink")最終無法與其他經紀公司取得相同意見，加上節目沒有比預期受到歡迎，於2018年5月3日宣布取消出道計劃\[4\]。
+2017年10月29日，以Liveworks Company練習生身份參與由[YG娛樂](../Page/YG娛樂.md "wikilink")投資的《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，比賽進行約三個多月，最終排名第3名，預計透過節目出道。可惜[YG娛樂](../Page/YG娛樂.md "wikilink")最終無法與其他經紀公司取得相同意見，加上節目沒有比預期受到歡迎，於2018年5月3日宣布取消出道計劃\[5\]。
+
+**鎭佑**：
+
+2015年9月3日，參加《[SUPER STAR K](../Page/SUPER_STAR_K.md "wikilink")》第七季海選活動，可惜未能晉身初賽。
 
 ### 出道後：2019年
 
 3月27日，推出首張迷你專輯《Hello》正式出道。
 
-7月10日，在Yes24 Live Hall舉行首次粉絲見面會\[5\]。
+7月10日，在Yes24 Live Hall舉行首次粉絲見面會\[6\]。
 
 7月11日，推出第二張迷你專輯《Just》作回歸。
+
+11月6日，推出第三張迷你專輯《One》作回歸\[7\]。
 
 ## 音樂作品
 
@@ -72,7 +78,7 @@
 <ul>
 <li>發行日期：2019年3月27日</li>
 <li>語言：韓語</li>
-<li>銷量：4,343+[6]</li>
+<li>銷量：4,343+[8]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -82,7 +88,17 @@
 <ul>
 <li>發行日期：2019年7月11日</li>
 <li>語言：韓語</li>
-<li>銷量：4,953+[7]</li>
+<li>銷量：4,953+[9]</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>3rd</strong></p></td>
+<td><p><strong>《ONE》</strong></p>
+<ul>
+<li>發行日期：2019年11月6日</li>
+<li>語言：韓語</li>
+<li>銷量：</li>
 </ul></td>
 <td></td>
 </tr>
@@ -98,6 +114,7 @@
 | 2019年 | 3月27日                  | VIBE (습관적 VIBE) (習慣性 VIBE) |    |
 | 7月11日 | ROLLING ROLLING (롤링롤링) |                            |    |
 | 7月23日 | ICE IN THE CUP         |                            |    |
+| 11月6日 | MAKE THIS              |                            |    |
 
 ## 影視作品
 
@@ -113,9 +130,11 @@
 | 2019年4月12日               | TBS           | FACT IN STAR       | 全體       |       |
 | 2019年4月30日               | ARIRANG K-POP | After School Club  | 全體       |       |
 | 2019年5月17日               | EBS1          | 照顧貓咪 (第三季)         | 全體       |       |
-| 2019年9月2日                | Kchan\! 韓流TV  | Power of K Lab7    | 全體       | 日本    |
+| 2019年9月2日、10月7日          | Kchan\! 韓流TV  | Power of K Lab7    | 全體       | 日本    |
 | 2019年9月7日                | JTBC2         | RUN.wav            | 全體       | ep.12 |
 | 2019年9月12-13日            | MBC           | 中秋偶像明星運動會          | 帝現、政勳    |       |
+| 2019年11月22日              | TBS           | FACT IN STAR       | 全體       |       |
+| 2019年11月28日              | ARIRANG K-POP | After School Club  | 全體       |       |
 
 ### 專屬節目
 
@@ -127,13 +146,16 @@
 
 ### 電台節目
 
-| 播出日期       | 頻道            | 節目名稱        | 參與成員 |
-| ---------- | ------------- | ----------- | ---- |
-| 2019年4月9日  | MBC RADIO     | IDOL RADIO  | 全體   |
-| 2019年4月15日 | ARIRANG RADIO | Super K-Pop | 全體   |
-| 2019年7月15日 | ARIRANG RADIO | Super K-Pop | 全體   |
-| 2019年7月21日 | SBS POWER FM  | Cultwo Show | 全體   |
-| 2019年7月30日 | MBC RADIO     | IDOL RADIO  | 全體   |
+| 播出日期        | 頻道            | 節目名稱            | 參與成員  | 備註       |
+| ----------- | ------------- | --------------- | ----- | -------- |
+| 2019年4月9日   | MBC RADIO     | IDOL RADIO      | 全體    | 可視       |
+| 2019年4月15日  | ARIRANG RADIO | Super K-Pop     | 全體    | 可視       |
+| 2019年7月15日  | ARIRANG RADIO | Super K-Pop     | 全體    | 可視       |
+| 2019年7月21日  | SBS POWER FM  | Cultwo Show     | 全體    |          |
+| 2019年7月30日  | MBC RADIO     | IDOL RADIO      | 全體    | 可視       |
+| 2019年11月13日 | NAVER NOW     | 深夜IDOL (DJ：河成雲) | 全體    |          |
+| 2019年11月18日 | SBS LOVE FM   | 申彗星的音樂奧德賽       | 全體    | 可視       |
+| 2019年11月22日 | MBC RADIO     | IDOL RADIO      | 婁彬、鎭祐 | 11/18 錄製 |
 
 ## 公演活動
 
@@ -145,11 +167,12 @@
 
 ### 其他公演
 
-| 演出日期       | 演出名稱                            | 地點                          | 備註 |
-| ---------- | ------------------------------- | --------------------------- | -- |
-| 2019年5月25日 | K-STAR LIVE POWER MUSIC         | 東豆川體育中心                     |    |
-| 2019年8月8日  | 2019 Popket Asia Music Festival | 仁川 Wangsan Marina           |    |
-| 2019年9月8日  | 第八回 2019 愛人愛生命步行慶典\[8\]         | 安養市 Pyeongchon Central Park |    |
+| 演出日期        | 演出名稱                            | 地點                          | 備註 |
+| ----------- | ------------------------------- | --------------------------- | -- |
+| 2019年5月25日  | K-STAR LIVE POWER MUSIC         | 東豆川體育中心                     |    |
+| 2019年8月8日   | 2019 Popket Asia Music Festival | 仁川 Wangsan Marina           |    |
+| 2019年9月8日   | 第八回 2019 愛人愛生命步行慶典\[10\]        | 安養市 Pyeongchon Central Park |    |
+| 2019年10月25日 | 2019 Hope BIG Concert           | 首爾市廣津區環球藝術中心                |    |
 
 ## 獎項與榮譽
 
@@ -160,6 +183,7 @@
 | 專輯名稱                   |
 | <small>HELLO\!</small> |
 | <small>JUST</small>    |
+| <small>ONE</small>     |
 
 ## 參考資料
 
@@ -178,5 +202,7 @@
 4.
 5.
 6.
-7.  [2019.07](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2019&termGbn=month)
+7.
 8.
+9.  [2019.07](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2019&termGbn=month)
+10.

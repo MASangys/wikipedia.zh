@@ -7,7 +7,7 @@
   - The version control system [git](https://zh.wikipedia.org/wiki/Git_\(software\) "wikilink") can be used by GNOME Builder to highlight code additions and changes.
   - 支持开发[flatpak应用](https://zh.wikipedia.org/wiki/flatpak "wikilink")。
   - GNOME Builder借助于[GtkSourceView](https://wiki.gnome.org/Projects/GtkSourceView)为多种编程语言提供语法高亮功能。
-  - 支持C系语言（[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")等）和[Python](../Page/Python.md "wikilink")的[代码补全](https://zh.wikipedia.org/wiki/代码补全 "wikilink")，其他语言正在开发中。
+  - 支持C系语言（[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")等）、[Vala](../Page/Vala.md "wikilink") 和[Python](../Page/Python.md "wikilink")的[代码补全](https://zh.wikipedia.org/wiki/代码补全 "wikilink")，其他语言正在开发中。
   - 支持安装[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[Python 3以及](../Page/Python.md "wikilink")[Vala](../Page/Vala.md "wikilink")编写的插件。\[3\]
   - GNOME Builder has basic support for many programming languages, and will offer additional features for languages that are supported by [GObject Introspection](https://zh.wikipedia.org/wiki/GObject_Introspection "wikilink").
 
@@ -58,42 +58,23 @@ GNOME Builder开发项目于2015年发起[众筹](https://zh.wikipedia.org/wiki/
 [Category:GNOME软件](https://zh.wikipedia.org/wiki/Category:GNOME软件 "wikilink") [Category:集成开发环境](https://zh.wikipedia.org/wiki/Category:集成开发环境 "wikilink") [Category:Software_that_uses_Meson](https://zh.wikipedia.org/wiki/Category:Software_that_uses_Meson "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.

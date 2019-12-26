@@ -1,8 +1,8 @@
-**Android 10**（开发[代号](https://zh.wikipedia.org/wiki/代号 "wikilink")：**Android Q**），是由[Google](../Page/Google.md "wikilink")開發的[Android](../Page/Android.md "wikilink")-{zh-hant:作業系統;zh-hans:操作系统}-的第10个主要版本，继承[2018年](../Page/2018年.md "wikilink")發行的[Android Pie](../Page/Android_Pie.md "wikilink")。Android 10的首個开发者预览版本（即测试版）在2019年3月14日發行並提供下載。\[1\]正式版於2019年9月3日發行。此版本Android是各Android版本中，首次不用[甜品來命名](https://zh.wikipedia.org/wiki/甜品 "wikilink")。\[2\]
+**Android 10**（开发[代号](https://zh.wikipedia.org/wiki/代号 "wikilink")：**Android Q**），是由[Google](../Page/Google.md "wikilink")開發的[Android](../Page/Android.md "wikilink")-{zh-hant:作業系統;zh-hans:操作系统}-的第10个主要版本，继承[2018年](../Page/2018年.md "wikilink")發行的[Android 9](https://zh.wikipedia.org/wiki/Android_9 "wikilink")。Android 10的首個开发者预览版本（即测试版）在2019年3月14日發行並提供下載。\[1\]正式版於2019年9月3日發行。此版本是各Android版本中，首次不用[甜品來命名](https://zh.wikipedia.org/wiki/甜品 "wikilink")。\[2\]
 
-## 特征
+## 特性
 
-Android 10 的新特征包括：\[3\]
+Android 10的新特性包括：\[3\]
 
   - 对[折疊式智慧手機的原生支援](https://zh.wikipedia.org/wiki/折疊式智慧手機 "wikilink")。\[4\]\[5\]
   - 允许用户控制应用程序何时有权查所在位置。
@@ -13,7 +13,7 @@ Android 10 的新特征包括：\[3\]
   - 更快捷的分享方式，允许直接与联系人共享内容。
   - 新增浮动设置面板（Floating settings panel），允许直接从应用程序中更改系统设定。
   - 照片的动态景深格式，允许在拍照后更改景深模糊程度。
-  - 支持[AV1](https://zh.wikipedia.org/wiki/AV1 "wikilink")[視訊編解碼器](https://zh.wikipedia.org/wiki/視訊編解碼器 "wikilink")、[HDR10+影片格式和](https://zh.wikipedia.org/wiki/高動態範圍成像 "wikilink")[Opus](https://zh.wikipedia.org/wiki/Opus "wikilink")[音訊編解碼器](https://zh.wikipedia.org/wiki/音訊編解碼器 "wikilink")。
+  - 支持[AV1](https://zh.wikipedia.org/wiki/AV1 "wikilink")[視訊編解碼器](https://zh.wikipedia.org/wiki/視訊編解碼器 "wikilink")、[HDR10+影片格式和](https://zh.wikipedia.org/wiki/高動態範圍成像 "wikilink")[Opus](../Page/Opus_\(音频格式\).md "wikilink")[音訊編解碼器](https://zh.wikipedia.org/wiki/音訊編解碼器 "wikilink")。
   - 加入原生[MIDI](../Page/MIDI.md "wikilink") [API](https://zh.wikipedia.org/wiki/API "wikilink")，允许其与音乐控制器互換。
   - 為應用程式中的[生物辨識技術提供更好的支援](https://zh.wikipedia.org/wiki/生物辨識技術 "wikilink")。\[6\]
   - 新增53个中立性别的[Emoji](https://zh.wikipedia.org/wiki/Emoji "wikilink")。
@@ -23,15 +23,15 @@ Android 10 的新特征包括：\[3\]
   - 以纯文字形式显示[Wi-Fi](../Page/Wi-Fi.md "wikilink")密码。
   - 螢幕智慧睡眠功能，使用手机时不会關閉螢幕。
   - 加入全新導航手勢（向上滑動），類似于「iPhone X」的底部長條導航。
-  - [Product Sans](../Page/Product_Sans.md "wikilink") 字體被運用的更廣（僅限Pixel裝置）
+  - [Product Sans字體被運用的更廣](../Page/Product_Sans.md "wikilink")（僅限Pixel裝置）
 
 ## 历史
 
-在2019年3月13日，[Google](../Page/Google.md "wikilink")在Pixel手机上独家发布了第一个Android Q测试版。[Google](../Page/Google.md "wikilink")计划在最终版本发布前共发布六个測試版，并计划于2019年第三季发布正式版本。\[7\] 在第一个Beta版本中，[Google](../Page/Google.md "wikilink")引入一项名为“Scoped Storage”的功能限制应用在本地存储目录中新建文件夹和读取用户其他文件。
+[Samsung_Galaxy_Note_10_(Android_10).jpg](https://zh.wikipedia.org/wiki/File:Samsung_Galaxy_Note_10_\(Android_10\).jpg "fig:Samsung_Galaxy_Note_10_(Android_10).jpg") 在2019年3月13日，[Google](../Page/Google.md "wikilink")在Pixel手机上独家发布了第一个Android Q测试版。[Google](../Page/Google.md "wikilink")计划在最终版本发布前共发布六个測試版，并计划于2019年第三季发布正式版本。\[7\] 在第一个Beta版本中，[Google](../Page/Google.md "wikilink")引入一项名为“Scoped Storage”的功能限制应用在本地存储目录中新建文件夹和读取用户其他文件。
 
 2019年4月4日，Android Q的第二个Beta版本发布，新增了“Bubbles”气泡通知界面和全新的手势操作。
 
-2019年5月8日，Android Q Beta 3正式发布。该版本新增对13个品牌共21款手机的Beta支持，包括华硕[Zenfone 5z](../Page/華碩ZenFone_5_\(2018年\).md "wikilink")、[Essential](../Page/Essential.md "wikilink")手机、[华为Mate 20 Pro](https://zh.wikipedia.org/wiki/華為Mate_20系列 "wikilink")、[LG G8 ThinQ](https://zh.wikipedia.org/wiki/LG_G8_ThinQ "wikilink")、[Nokia 8.1](https://zh.wikipedia.org/wiki/Nokia_8.1 "wikilink")、[OnePlus 6T](https://zh.wikipedia.org/wiki/OnePlus_6T "wikilink")、[OPPO Reno](../Page/OPPO_Reno.md "wikilink")、Realme 3 Pro、[Sony Xperia XZ3](../Page/Sony_Xperia_XZ3.md "wikilink")、Tecno Spark 3 Pro、vivo X27、[vivo NEX S](https://zh.wikipedia.org/wiki/vivo_NEX "wikilink")、[vivo NEX A](https://zh.wikipedia.org/wiki/vivo_NEX "wikilink")、[小米9](../Page/小米9.md "wikilink")、[小米MIX 3 5G](../Page/小米MIX_3.md "wikilink")。同时在这个版本中，Google預設禁用了在前两个版本中强制开启的Scoped Storage功能。但由于美国将华为列入“实体清单”，导致Google宣布撤销[华为](../Page/华为.md "wikilink")Android许可证，Android官网将华为Mate 20 Pro的信息从Android Q Beta官方介绍页面上撤下\[8\]。5月31日，据Android官网上的Android Q Beta版页面显示，华为Mate 20 Pro重新列入到可升级至Android Q Beta版的名单中\[9\]。
+2019年5月8日，Android Q Beta 3正式发布。该版本新增对13个品牌共21款手机的Beta支持，包括华硕[Zenfone 5z](../Page/華碩ZenFone_5_\(2018年\).md "wikilink")、[Essential](../Page/Essential.md "wikilink")手机、[华为Mate 20 Pro](https://zh.wikipedia.org/wiki/華為Mate_20系列 "wikilink")、[LG G8 ThinQ](https://zh.wikipedia.org/wiki/LG_G8_ThinQ "wikilink")、[Nokia 8.1](../Page/Nokia_8.1.md "wikilink")、[OnePlus 6T](https://zh.wikipedia.org/wiki/OnePlus_6T "wikilink")、[OPPO Reno](../Page/OPPO_Reno.md "wikilink")、Realme 3 Pro、[Sony Xperia XZ3](../Page/Sony_Xperia_XZ3.md "wikilink")、Tecno Spark 3 Pro、vivo X27、[vivo NEX S](https://zh.wikipedia.org/wiki/vivo_NEX "wikilink")、[vivo NEX A](https://zh.wikipedia.org/wiki/vivo_NEX "wikilink")、[小米9](../Page/小米9.md "wikilink")、[小米MIX 3 5G](../Page/小米MIX_3.md "wikilink")。同时在这个版本中，Google預設禁用了在前两个版本中强制开启的Scoped Storage功能。但由于美国将华为列入“实体清单”，导致Google宣布撤销[华为](../Page/华为.md "wikilink")Android许可证，Android官网将华为Mate 20 Pro的信息从Android Q Beta官方介绍页面上撤下\[8\]。5月31日，据Android官网上的Android Q Beta版页面显示，华为Mate 20 Pro重新列入到可升级至Android Q Beta版的名单中\[9\]。
 
 2019年6月5日，Android Q Beta 4发布，此版本新增了原生的人脸解锁、手势导航新增旋转锁定悬浮按钮、底部条带加长、通知管理引入优先级提示图标、状态栏通知消息可从任意方向清除等功能\[10\]。
 
@@ -77,7 +77,7 @@ Android 10 的新特征包括：\[3\]
 <!-- end list -->
 
   - [Nokia](https://zh.wikipedia.org/wiki/Nokia "wikilink")
-      - [Nokia 8.1](https://zh.wikipedia.org/wiki/Nokia_8.1 "wikilink")
+      - [Nokia 8.1](../Page/Nokia_8.1.md "wikilink")
 
 <!-- end list -->
 
@@ -109,6 +109,7 @@ Android 10 的新特征包括：\[3\]
 
   - [小米](../Page/小米.md "wikilink")
       - [小米9](../Page/小米9.md "wikilink")
+      - [小米8](../Page/小米8.md "wikilink")
       - [小米MIX 3 5G](../Page/小米MIX_3.md "wikilink")
 
 <!-- end list -->
@@ -117,9 +118,13 @@ Android 10 的新特征包括：\[3\]
       - [Redmi K20](../Page/Redmi_K20.md "wikilink")
       - [Redmi K20 Pro](https://zh.wikipedia.org/wiki/Redmi_K20_Pro "wikilink")
 
-### 原生搭載Android 10的裝置
+### 原生搭載
 
-### 可更新到Android 10的裝置
+  - [Google Pixel](../Page/Google_Pixel.md "wikilink")
+      - [Pixel 4](https://zh.wikipedia.org/wiki/Pixel_4 "wikilink")
+      - [Pixel 4 XL](https://zh.wikipedia.org/wiki/Pixel_4_XL "wikilink")
+
+### 可透過軟件更新
 
   - [Google Pixel](../Page/Google_Pixel.md "wikilink")
       - [Pixel](https://zh.wikipedia.org/wiki/Pixel "wikilink")
@@ -136,11 +141,11 @@ Android 10 的新特征包括：\[3\]
   - [Nokia](https://zh.wikipedia.org/wiki/Nokia "wikilink")\[13\]
       - 2019年第4季
       - [Nokia 9 PureView](../Page/Nokia_9_PureView.md "wikilink")
-      - [Nokia 8.1](https://zh.wikipedia.org/wiki/Nokia_8.1 "wikilink")
+      - [Nokia 8.1](../Page/Nokia_8.1.md "wikilink")
       - [Nokia 7.1](../Page/Nokia_7.1.md "wikilink")
       - 2020年第一季
       - [Nokia 7 Plus](../Page/Nokia_7_Plus.md "wikilink")
-      - [Nokia 6.1 Plus](https://zh.wikipedia.org/wiki/Nokia_6.1_Plus "wikilink")
+      - [Nokia 6.1 Plus](../Page/Nokia_6.1_Plus.md "wikilink")
       - [Nokia 6.1](../Page/Nokia_6.1.md "wikilink")
       - [Nokia 4.2](https://zh.wikipedia.org/wiki/Nokia_4.2 "wikilink")
       - [Nokia 3.2](https://zh.wikipedia.org/wiki/Nokia_3.2 "wikilink")
@@ -156,6 +161,15 @@ Android 10 的新特征包括：\[3\]
       - [Nokia 1](../Page/Nokia_1.md "wikilink")
   - [Huawei](https://zh.wikipedia.org/wiki/Huawei "wikilink")
       - [华为P30系列](https://zh.wikipedia.org/wiki/华为P30系列 "wikilink")\[14\]
+  - [SONY](https://zh.wikipedia.org/wiki/SONY "wikilink") \[15\]
+      - [Xperia XZ3](https://zh.wikipedia.org/wiki/Xperia_XZ3 "wikilink")
+      - [Xperia XZ2](https://zh.wikipedia.org/wiki/Xperia_XZ2 "wikilink")
+      - [Xperia XZ2 Company](https://zh.wikipedia.org/wiki/Xperia_XZ2_Company "wikilink")
+      - [Xperia XZ2 Premium](https://zh.wikipedia.org/wiki/Xperia_XZ2_Premium "wikilink")
+      - [Xperia 1](https://zh.wikipedia.org/wiki/Xperia_1 "wikilink")
+      - [Xperia 5](https://zh.wikipedia.org/wiki/Xperia_5 "wikilink")
+      - [Xperia 10](https://zh.wikipedia.org/wiki/Xperia_10 "wikilink")
+      - [Xperia 10 Plus](https://zh.wikipedia.org/wiki/Xperia_10_Plus "wikilink")
 
 ## 参见
 
@@ -182,3 +196,4 @@ Android 10 的新特征包括：\[3\]
 12. [Android 10 Go 针对速度和安全性作出改善](https://cn.engadget.com/2019/09/25/android-10-go-edition/?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMzdnHMz13ANPsTyud6V1OgIpw415A4tbtW5PlbjkR7yx6LWofY2JnGkhxFZDPA3hx4JIuZR1sVq2q_oIZZyX3KgPIi4S5dBYD5qddgS5hKbJocolw0JivqESlRUO7XipSNTDtgiWH1HYChlFnjZJ9BRWv1qbo5KGcXpX5O1TGER)
 13.
 14. [確定有得升 Android 10﹐HUAWEI P30 Pro 新配色發佈！](https://www.price.com.hk/news.php?id=13992&sec_id=12)
+15. <https://eprice.com.tw/mobile/talk/4551/5439482/1/>

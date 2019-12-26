@@ -6,7 +6,7 @@
 
 公司最早生产的飞机有Gö-1 *WOLF* ， Gö-3 *Minimoa* 和双座 Gö-4 *Goevier* 。 今天，这些型号中仅有很少量的飞机存世。
 
-在[第二次世界大战](../Page/第二次世界大战.md "wikilink")期间 ，公司转为为[德国空军生产飞机和配件](../Page/納粹德國空軍.md "wikilink")，包括为[奥格斯堡的](https://zh.wikipedia.org/wiki/奥格斯堡 "wikilink")[梅塞施密特公司生产](https://zh.wikipedia.org/wiki/梅塞施密特公司 "wikilink") 。 1939年，Schempp-Hirth建造了由乌尔里希·W·许特尔（Ulrich W. Hütter）设计的试验飞机Gö-9，用于测试[克劳德·多尼尔](https://zh.wikipedia.org/wiki/克劳德·多尼尔 "wikilink")（Claude Dornier）的专利的可操作性。 在成功测试之后，多尼尔在1942年使用了这个方案，并进一步发展为[Dornier Do 335](https://zh.wikipedia.org/wiki/Do_335戰鬥機 "wikilink") 。 \[1\]
+在[第二次世界大战](../Page/第二次世界大战.md "wikilink")期间 ，公司转为为[德国空军生产飞机和配件](../Page/納粹德國空軍.md "wikilink")，包括为[奥格斯堡](../Page/奥格斯堡.md "wikilink")的[梅塞施密特公司生产](https://zh.wikipedia.org/wiki/梅塞施密特公司 "wikilink") 。 1939年，Schempp-Hirth建造了由乌尔里希·W·许特尔（Ulrich W. Hütter）设计的试验飞机Gö-9，用于测试[克劳德·多尼尔](https://zh.wikipedia.org/wiki/克劳德·多尼尔 "wikilink")（Claude Dornier）的专利的可操作性。 在成功测试之后，多尼尔在1942年使用了这个方案，并进一步发展为[Dornier Do 335](https://zh.wikipedia.org/wiki/Do_335戰鬥機 "wikilink") 。 \[1\]
 
 ## 战后
 

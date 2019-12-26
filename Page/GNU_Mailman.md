@@ -37,12 +37,8 @@ Mailman可以在[Linux](../Page/Linux.md "wikilink")與大多數的類[Unix系�
 1.
 2.
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.

@@ -4,7 +4,7 @@
 
 《Apex英雄》适用经典的大逃杀游戏规则，但加入了[英雄系统](https://zh.wikipedia.org/wiki/射击游戏 "wikilink")。游戏背景设定在《[泰坦降臨2](../Page/泰坦降臨2.md "wikilink")》的30年以后。游戏中并不会出现泰坦，但包含了很多《泰坦》的元素和特征。
 
-游戏以3人小队为单位进行游戏，每局游戏最多有60人。每位玩家可以从十位传奇角色中选择一位进行游戏，每位英雄都有其独特的技能，玩家可以自定义其外观。队伍空投落地后需要寻找武器、弹药及其他装备，小队间互相战斗至最后存活一队为胜。游戏特有复活系统，如有队友死亡，玩家可以在时限内(90s)取得阵亡队友的旗帜，并将其携至重生点即可复活队友。同时，游戏也设有较为详细的标记功能，也可进行队伍语音。
+游戏以3人小队为单位进行游戏，每局游戏最多有60人。每位玩家可以从十一位传奇角色中选择一位进行游戏，每位英雄都有其独特的技能，玩家可以自定义其外观。队伍空投落地后需要寻找武器、弹药及其他装备，小队间互相战斗至最后存活一队为胜。游戏特有复活系统，如有队友死亡，玩家可以在时限内(90s)取得阵亡队友的旗帜，并将其携至重生点即可复活队友。同时，游戏也设有较为详细的标记功能，也可进行队伍语音。
 
 《Apex英雄》游戏本体免费，游戏支持微交易，玩家可用游戏内货币购买新的传奇角色、人物外观、卡片外观、Apex组合包及其他限时购买内容。这些可购买内容也可以通过游戏对战奖励获得，它们不会影响游戏平衡。\[1\]
 
@@ -37,25 +37,15 @@ Respawn在2017年准备着手开发《泰坦降臨3》时，也在密切关注�
 [Category:2019年电子游戏](https://zh.wikipedia.org/wiki/Category:2019年电子游戏 "wikilink") [Category:大逃杀游戏](https://zh.wikipedia.org/wiki/Category:大逃杀游戏 "wikilink") [Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink") [Category:多人線上第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:多人線上第一人稱射擊遊戲 "wikilink") [Category:艺电游戏](https://zh.wikipedia.org/wiki/Category:艺电游戏 "wikilink") [Category:Xbox_One遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_One遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:電子遊戲衍生作品](https://zh.wikipedia.org/wiki/Category:電子遊戲衍生作品 "wikilink") [Category:Source引擎游戏](https://zh.wikipedia.org/wiki/Category:Source引擎游戏 "wikilink") [Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink") [Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink") [Category:官方中文配音游戏](https://zh.wikipedia.org/wiki/Category:官方中文配音游戏 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.

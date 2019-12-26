@@ -24,6 +24,8 @@ Fiddler能捕获[HTTP和](https://zh.wikipedia.org/wiki/HTTP "wikilink")[HTTPS�
 
   - [Wireshark](../Page/Wireshark.md "wikilink")：底层的数据包分析器
 
+  - [Whistle](https://zh.wikipedia.org/wiki/Whistle "wikilink")：基于Node实现的跨平台web调试代理工具
+
 ## 参考文献
 
 <references group="" responsive="">

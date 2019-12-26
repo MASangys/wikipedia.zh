@@ -13,6 +13,6 @@
 
 ## 參考
 
-  - 勞倫特霍奇斯, [A lesser-known Goldbach conjecture](http://learning.physics.iastate.edu/hodges/mm-1.pdf)
+  - 勞倫特霍奇斯, [A lesser-known Goldbach conjecture](https://web.archive.org/web/20150911205441/http://learning.physics.iastate.edu/hodges/mm-1.pdf)
 
 [Category:素數](https://zh.wikipedia.org/wiki/Category:素數 "wikilink")

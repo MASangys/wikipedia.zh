@@ -59,7 +59,7 @@
 <td><p>7月18日</p></td>
 <td><p>洛杉磯站</p></td>
 <td><p><a href="../Page/論壇體育館.md" title="wikilink">論壇體育館</a></p></td>
-<td><p>17,500[5][6] |-</p></td>
+<td><p>11,000[5][6] |-</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -75,7 +75,7 @@
 <td><p>7月22日</p></td>
 <td><p>紐華克站</p></td>
 <td></td>
-<td><p>15,000[8]</p></td>
+<td><p>11,000[8]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -100,7 +100,8 @@
 <td><p>北海道站</p></td>
 <td><p><a href="../Page/真駒內屋內競技場.md" title="wikilink">真駒內屋內競技場</a></p></td>
 <td></td>
-<td></td>
+<td><p>彩瑛因健康因素<br />
+不參與</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -178,7 +179,8 @@
 <tr class="odd">
 <td><p>12月1日</p></td>
 <td></td>
-<td></td>
+<td><p>彩瑛因健康因素<br />
+不參與</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -209,6 +211,46 @@
 </tr>
 <tr class="odd">
 <td><p>2月23日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3月3日</p></td>
+<td><p>東京站</p></td>
+<td><p><a href="../Page/東京巨蛋.md" title="wikilink">東京巨蛋</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3月4日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3月7日</p></td>
+<td><p>首爾站</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3月8日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
 <td></td>
 <td></td>
 <td></td>

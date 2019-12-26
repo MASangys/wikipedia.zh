@@ -144,91 +144,60 @@
 [Category:上海商業人物](https://zh.wikipedia.org/wiki/Category:上海商業人物 "wikilink") [Category:英國騎師](https://zh.wikipedia.org/wiki/Category:英國騎師 "wikilink")
 
 1.  "Births" (1 August 1874)
-
 2.  "England and Wales Birth Registration Index, 1837-2008: Albert Robson Burkill" (retrieved on 1 September 2019)
-
 3.  "Death of Mr. A. R. Burkill" (13 December 1913)
-
 4.  "Obituary: Mr A. R. Burkill" (6 December 1913)
-
 5.  "Burkill, Albert Robson" (1915), p.299.
-
 6.  "England and Wales Death Registration Index 1837-2007: Clementina C L Burkill" (retrieved on 1 September 2019)
-
 7.  "Journal of a Voyage to China by James Dow" (retrieved on 1 September 2019)
-
 8.  *The Saturday Review of Politics, Literature, Science, and Art* (1870), p.428.
-
 9.  "Mr A. W. Burkill - Prominent S'hai Resident Passes - Keen Sportsman" (22 January 1952)
-
 10. Ezekiel (1924), p.80.
-
 11.
 12.
 13.
 14. Wright (1908), p.622.
-
 15.
 16.
 17. Kong (30 August 2017), p.116.
-
 18.
 19. *The Directory & Chronicle for China, Japan, Corea, Indo-China, Straits Settlements, Malay States, Sian, Netherlands India, Borneo, the Philippines, \&c.* (1909), p.1481.
-
 20.
 21.
 22.
 23. "Charles Cromie, deceased" (14 November 1896)
-
 24.
 25.
 26.
 27. Wright (1908), p.556.
-
 28. "Kota Bahroe Rubber - Tapping Resumed on a Moderate Scale" (19 November 1921)
-
 29. "Bute Plantations - Over 50 Per Cent. Reduction in Costs" (5 May 1922)
-
 30. "Tanah Merah Estates - Large Reserve Area Being Retained" (22 July 1921)
-
 31. "Padang Rubber Co. Annual Meeting" (21 July 1914)
-
 32. "Sungei Duri's Sound Position - Final Dividend of 75 Cents a Share" (2 November 1934)
-
 33. "Kapala Island - Company in Voluntary Liquidation" (12 June 1922)
-
 34. "Karan Rubber Estate Co. - First Annual Meeting of a Shanghai Concern" (5 July 1911)
-
 35. "The Ketapang Syndicate, Ld - Expediting Survey Operations on Estate" (9 November 1910)
-
 36.
 37. Fletcher, pp.64 & 66.
-
 38. *Hong Kong General Chamber of Commerce Report for the Year 1921.* (1922), pp.154-155.
-
 39.
 40.
 41.
 42. *Hong Kong General Chamber of Commerce Report for the Year 1921.* (1922), p.156.
-
 43.
 44.
 45.
 46. *Hong Kong General Chamber of Commerce Report for the Year 1921* (1922), pp.154-161.
-
 47.
 48. *Official Report of Proceedings* (1 September 1921), pp.109-112.
-
 49.
 50. *Official Report of Proceedings* (3 August 1922), pp.62-72.
-
 51.
 52.
 53.
 54. "Official Report of Proceedings" (17 August 1922), p.77.
-
 55. "The Shanghai Denunciation of the Hongkong Government" (13 June 1923)
-
 56.
 57.
 58.
@@ -239,59 +208,37 @@
 63.
 64.
 65. "Those Shipping Profits - Mr. Moller and Mr. Burkill and the Colonial Secretary" (26 June 1923)
-
 66.
 67. Fletcher (25 July 1923), p.59.
-
 68. Fletcher (25 July 1923), pp.66-67.
-
 69. Fletcher (25 July 1923), p.68.
-
 70. Fletcher (25 July 1923), pp.70-71.
-
 71.
 72.
 73. Fletcher (25 July 1923), pp.71-72.
-
 74. Fletcher (25 July 1923), p.73.
-
 75.
 76. Fletcher (25 July 1923), pp.76-77.
-
 77. Fletcher (25 July 1923), pp.77-78.
-
 78.
 79. "Shipping Profits - Action Against the Hongkong Government" (9 August 1923)
-
 80.
 81. *North China Daily News* (15 May 1935)
-
 82. "Shanghai Race Club - Tribute to Mr. A. W. Burkill" (1 June 1935)
-
 83.
 84. "Change of Address" (30 December 1947)
-
 85. "Chou En-lai's debt of honour" (8 December 1979)
-
 86. "Mr C. R. Burkill - Well-known Shanghai Resident Passes" (28 February 1950)
-
 87.
 88. "Rubber crops" (8 April 1970)
-
 89. "The List of Local Responsible Persons (LRP)" (retrieved on 1 September 2019)
-
 90.
 91. *The South China Morning Post* (1 May 1908)
-
 92. "England and Wales Death Registration Index 1837-2007: Marjorie Burkill" (retrieved on 1 September 2019)
-
 93. ""Death of an Old "China Hand" - Mr. James S. Fearon"" (retrieved on 1 September 2019)
-
 94.
 95. "Derby of Hong Kong" (retrieved on 1 September 2019)
-
 96.
 97.
 98. May (1909), p.38.
-
 99. "Motoring in Shanghai - Central Garage Wanted - One Way Traffic" (5 April 1924)

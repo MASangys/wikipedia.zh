@@ -32,15 +32,9 @@ Orange Card在國鐵、JR各車站的[綠色窗口及售卡機販售](https://zh
 [Category:日本國有鐵道](https://zh.wikipedia.org/wiki/Category:日本國有鐵道 "wikilink") [Category:JR集團](https://zh.wikipedia.org/wiki/Category:JR集團 "wikilink") [Category:1985年日本建立](https://zh.wikipedia.org/wiki/Category:1985年日本建立 "wikilink") [Category:2013年日本廢除](https://zh.wikipedia.org/wiki/Category:2013年日本廢除 "wikilink") [Category:卡片](https://zh.wikipedia.org/wiki/Category:卡片 "wikilink")
 
 1.
-
 2.  JR各に同様のFAQページが存在する。
-
 3.   - JRグループ、[2012年](../Page/2012年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")
-
 4.  [オレンジカードの発売終了](http://railf.jp/news/2012/12/04/153000.html) - [交友社](https://zh.wikipedia.org/wiki/交友社 "wikilink")『[鉄道ファン](https://zh.wikipedia.org/wiki/鉄道ファン_\(雑誌\) "wikilink")』railf.jp 鉄道ニュース 2012年12月4日
-
 5.  [ジェイアール東日本メカトロニクスが開発](https://zh.wikipedia.org/wiki/ジェイアール東日本メカトロニクス "wikilink")。
-
 6.   - JR東日本、[2011年](../Page/2011年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")
-
 7.

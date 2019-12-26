@@ -79,37 +79,22 @@
 [Category:2014年英國建立](https://zh.wikipedia.org/wiki/Category:2014年英國建立 "wikilink") [Category:奢侈品牌](https://zh.wikipedia.org/wiki/Category:奢侈品牌 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink") [Category:英国交通运输公司](https://zh.wikipedia.org/wiki/Category:英国交通运输公司 "wikilink")
 
 1.  [Arriva goes Max](https://cbwmagazine.com/arriva-goes-max/) *[Coach & Bus Week](https://zh.wikipedia.org/wiki/Coach_&_Bus_Week "wikilink")* 1 September 2014
-
 2.  [Maximum Impact: Max comes to Northumberland](https://www.arrivabus.co.uk/north-east/Latest/maximum-impact-launch-of-max/) Arriva 2 September 2014
-
 3.  [Arriva North East launches first MAX route](http://www.busandcoachbuyer.com/arriva-north-east-launches-first-max-route/) *Bus & Coach Buyer* 5 September 2014
-
 4.  [Sapphire on Deeside](http://www.busandcoachbuyer.com/sapphire-deeside/) *Coach & Bus Buyer* 20 March 2015
-
 5.  [Max - new interurban express services from Arriva](https://www.arrivabus.co.uk/about-us/max--new-inter-urban-express-services-from-arriva/) Arriva
-
 6.  [Titan the robot entertains crowds at Arriva bus route event](http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/video-titan-the-robot-entertains-crowds-at-arriva-bus-route-event-1-7176759) *[Yorkshire Evening Post](https://zh.wikipedia.org/wiki/Yorkshire_Evening_Post "wikilink")* 26 March 2015
-
 7.  [Arriva Max brand launches in Leeds](http://www.route-one.net/industry/arriva-max-brand-launches-in-leeds/)  *RouteOne* 1 April 2015
-
 8.  [More Arriva Max in Yorkshire](http://www.busandcoachbuyer.com/arriva-max-yorkshire/) *Bus & Coach Buyer* 1 April 2015
-
 9.  [Titan takes bus travel to the Max](http://www.thenorthernecho.co.uk/news/12918523.Titan_takes_bus_travel_to_the_MAX/) *[The Northern Echo](https://zh.wikipedia.org/wiki/The_Northern_Echo "wikilink")* 29 April 2015
-
 10. [Arriva goes Max](https://cbwmagazine.com/arriva-goes-max/) *[Coach & Bus Week](https://zh.wikipedia.org/wiki/Coach_&_Bus_Week "wikilink")* 1 September 2014
-
 11.
 12.
 13. [Max goes back to the future](http://www.route-one.net/articles/Bus%20routes/MAX_goes_back_to_the_future) *Route One* 30 October 2016
-
 14.
 15. [Customers can now visit historic towns in style](https://web.archive.org/web/20160328173233/https://www.arrivabus.co.uk/north-east/Latest/max-x75--x76-launch/) Arriva 17 March 2016
-
 16.
 17. [Arriva goes Max](https://cbwmagazine.com/arriva-goes-max/) *[Coach & Bus Week](https://zh.wikipedia.org/wiki/Coach_&_Bus_Week "wikilink")* 1 September 2014
-
 18. [Arriva’s new look in Southend](http://www.busandcoachbuyer.com/arrivas-new-look-southend/) *Bus & Coach Buyer* 9 December 2015
-
 19.
-
 20. [Bus Passenger News September/October 2016](http://www.essexhighways.org/uploads/files/Bus_Passenger_News_September_2016.pdf) Essex Highways

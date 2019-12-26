@@ -1,4 +1,4 @@
-[杨美玲](https://zh.wikipedia.org/wiki/杨美玲 "wikilink"){{·}}[杨美琪](https://zh.wikipedia.org/wiki/杨美琪 "wikilink"){{·}}[刘雪丽](https://zh.wikipedia.org/wiki/刘雪丽 "wikilink"){{·}}[范悦](https://zh.wikipedia.org/wiki/范悦 "wikilink"){{·}}[胡婉莹](https://zh.wikipedia.org/wiki/胡婉莹 "wikilink"){{·}}[关丹](../Page/关丹.md "wikilink"){{·}}赵羚}}
+|cat=no}} [杨美玲](https://zh.wikipedia.org/wiki/杨美玲 "wikilink"){{·}}[杨美琪](https://zh.wikipedia.org/wiki/杨美琪 "wikilink"){{·}}[刘雪丽](https://zh.wikipedia.org/wiki/刘雪丽 "wikilink"){{·}}[范悦](https://zh.wikipedia.org/wiki/范悦 "wikilink"){{·}}[胡婉莹](https://zh.wikipedia.org/wiki/胡婉莹 "wikilink"){{·}}[关丹](../Page/关丹.md "wikilink"){{·}}赵羚}}
 
 **CH2**女团，旧称**CH2高校偶像女团**，是一个中国大陆的[女子偶像组合](https://zh.wikipedia.org/wiki/女子偶像组合 "wikilink")，由闻澜（上海）文化传媒旗打造，团名取自英文单词Chance（机遇）和Change（改变）的前两个字母。\[1\]
 
@@ -164,40 +164,23 @@
 [Category:中国演唱团体](https://zh.wikipedia.org/wiki/Category:中国演唱团体 "wikilink") [Category:女子音乐团体](https://zh.wikipedia.org/wiki/Category:女子音乐团体 "wikilink") [Category:中国女子演唱团体](https://zh.wikipedia.org/wiki/Category:中国女子演唱团体 "wikilink") [Category:以上海为据点的女子演唱团体](https://zh.wikipedia.org/wiki/Category:以上海为据点的女子演唱团体 "wikilink") [Category:2017年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2017年成立的音乐团体 "wikilink") [Category:上海文化](https://zh.wikipedia.org/wiki/Category:上海文化 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.

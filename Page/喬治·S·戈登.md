@@ -21,17 +21,12 @@
 [Category:格拉斯哥大學校友](https://zh.wikipedia.org/wiki/Category:格拉斯哥大學校友 "wikilink") [Category:牛津大學奧里爾學院校友](https://zh.wikipedia.org/wiki/Category:牛津大學奧里爾學院校友 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
-
 9.
 10.

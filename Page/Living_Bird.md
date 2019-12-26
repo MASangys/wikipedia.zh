@@ -29,16 +29,10 @@
 [Category:杂志](https://zh.wikipedia.org/wiki/Category:杂志 "wikilink") [Category:1962年書籍](https://zh.wikipedia.org/wiki/Category:1962年書籍 "wikilink") [Category:观鸟](https://zh.wikipedia.org/wiki/Category:观鸟 "wikilink") [Category:鳥類學文獻](https://zh.wikipedia.org/wiki/Category:鳥類學文獻 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.

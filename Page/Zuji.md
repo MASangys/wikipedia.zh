@@ -12,7 +12,7 @@ Zuji是由旗下的與亞洲區內多家航空公司在2002年聯手創立。200
 
 ## 外部連結
 
-  - [Zuji香港](https://www.zuji.com.hk/)
+  - [Zuji香港](https://web.archive.org/web/20181205082758/https://www.zuji.com.hk/)
   - [Zuji新加坡](http://www.zuji.com.sg/)
   - [Zuji香港Facebook專頁](https://www.facebook.com/zujihk/)
 

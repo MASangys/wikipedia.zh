@@ -86,24 +86,14 @@ PlotData =
 [Category:非裔美国人音乐团体](https://zh.wikipedia.org/wiki/Category:非裔美国人音乐团体 "wikilink") [Category:美國嘻哈團體](https://zh.wikipedia.org/wiki/Category:美國嘻哈團體 "wikilink") [Category:1986年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1986年成立的音樂團體 "wikilink") [Category:1991年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1991年解散的音樂團體 "wikilink") [Category:摇滚名人堂入选者](https://zh.wikipedia.org/wiki/Category:摇滚名人堂入选者 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  [这些经典嘻哈歌曲是美国33位说唱大佬选出来的，你听过哪些？](http://sh.qihoo.com/mob/transcoding?url=9b6ed512a61397100&sign=look&uid=999ba77a932f889df20f0e361ec41c83&tj_url=9b6ed512a61397100)
-
 5.  [他是西海岸最有才華的說唱og之一，跨界做喜劇電影演員大獲成功](http://gogonews.cc/article/3802810.html)
-
 6.  [Dammi專欄 / 《衝出康普頓》：道不同不相為謀](https://www.hypesphere.com/news/8931)
-
 7.  [《衝出康普頓》兄弟情深締造傳奇](http://app2.atmovies.com.tw/eweekly/XE1603019628/)
-
 8.
-
 9.
-
 10. ["Straight Outta Compton and the Social Burdens of Hip-Hop"](https://www.theatlantic.com/entertainment/archive/2015/08/straight-outta-compton-nwa/401279/). The Atlantic. Retrieved August 20, 2017
-
 11.
 12. ["100 Greatest Artists of All Time"](https://web.archive.org/web/20061017054537/http://www.rollingstone.com/news/coverstory/the_immortals), *[Rolling Stone](https://zh.wikipedia.org/wiki/Rolling_Stone "wikilink")*.

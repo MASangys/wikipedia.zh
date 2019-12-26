@@ -17,10 +17,7 @@
 [Category:铬配合物](https://zh.wikipedia.org/wiki/Category:铬配合物 "wikilink")
 
 1.  JAGNER S, LJUNGSTROEM E, VANNERBERG N G. The crystal structure of potassium hexacyanochromate (III), K3Cr (CN) 6\[J\]. ACTA CHEMICA SCANDINAVICA SERIES A-PHYSICAL AND INORGANIC CHEMISTRY, 1974 (6): 623-630.
-
 2.
 3.
-
 4.
-
 5.

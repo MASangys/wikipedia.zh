@@ -1,27 +1,26 @@
-**金珉京**
-(；），另有正名**金珉炅**，藝名為**Roa**（），曾是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Pledis娛樂旗下已解散](../Page/Pledis娛樂.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[PRISTIN的成員之一](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")。
+**金珉炅**(；）\[1\]，又譯為**金珉京**\[2\]，藝名為**Roa**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，曾是[PRISTIN成員](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")，現為[HINAPIA隊長](https://zh.wikipedia.org/wiki/HINAPIA "wikilink")。
 
 ## 經歷
 
 ### 練習生時期
 
-出道前曾出演前輩[韓東根](../Page/韓東根.md "wikilink")《Falling
-Slowly》和[NU'EST](../Page/NU'EST.md "wikilink")《Daybreak》的MV。
+出道前曾出演前輩[韓東根](../Page/韓東根.md "wikilink")《Falling Slowly》和[NU'EST](../Page/NU'EST.md "wikilink")《Daybreak》的MV。
 
 ### 出道前：PRODUCE 101
 
-2015年12月，Roa以[Pledis娛樂練習生的身份參演了](../Page/Pledis娛樂.md "wikilink")《[PRODUCE
-101](../Page/PRODUCE_101.md "wikilink")》，最終排名為第四十二名。2016年3月成為PLEDIS
-Girlz的成員。\[1\]，在5月起每周六都在PLEDIS Girlz Concert中演出\[2\]。
+2015年12月，Roa以[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")練習生的身份參演了《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，最終排名為第四十二名。2016年3月成為PLEDIS Girlz的成員。\[3\]，在5月起每周六都在PLEDIS Girlz Concert中演出\[4\]。
 
 ### PRISTIN
 
-2017年3月21日Roa作為[PRISTIN的成員正式出道](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")\[3\]，2018年5月28日，以小分隊[PRISTIN
-V的成員展開活動](https://zh.wikipedia.org/wiki/PRISTIN_V "wikilink")。\[4\]。2019年5月23日官方宣布PRISTIN解散，Roa與Pledis解約。
+2017年3月21日Roa作為[PRISTIN的成員正式出道](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")\[5\]，2018年5月28日，以小分隊[PRISTIN V的成員展開活動](https://zh.wikipedia.org/wiki/PRISTIN_V "wikilink")。\[6\]。2019年5月23日，PRISTIN宣布解散，Roa與Pledis解約。
+
+### HINAPIA
+
+2019年10月21日，Alseulbit Entertainment（알슬빛Entertainment）宣布珉炅（Roa）、京元（Yuha）、銀雨、藝彬（Rena）將以新5人女團[HINAPIA出道](https://zh.wikipedia.org/wiki/HINAPIA "wikilink")。\[7\]，2019年11月3日，作為[HINAPIA的成員再次出道](https://zh.wikipedia.org/wiki/HINAPIA "wikilink")。\[8\]
 
 ## 詞曲創作
 
-韓國音樂著作權協會之登記編號：김민경 / KIM MING YEONG (10012721)，6首\[5\]
+韓國音樂著作權協會之登記編號：김민경 / KIM MING YEONG (10012721)，6首\[9\]
 
 <table>
 <thead>
@@ -89,8 +88,24 @@ V的成員展開活動](https://zh.wikipedia.org/wiki/PRISTIN_V "wikilink")。\[
 
 ## 參考資料
 
+## 外部連結
+
+  - [HINAPIA 官方Facebook](https://www.facebook.com/HINAPIA.official/)
+  - [HINAPIA 官方Instagram](https://www.instagram.com/hinapia_official/?igshid=1ml1gxtfjomz9)
+  - [HINAPIA 官方V Live頻道](https://channels.vlive.tv/AABA8F/home)
+  - [HINAPIA 官方YouTube](https://www.youtube.com/channel/UCFcmN6MJ1cAEKU3zZ317uHg)
+  - [HINAPIA 官方Twitter](https://www.twitter.com/HINAPIAofficial)
+  - [HINAPIA 官方Cafe](http://cafe.daum.net/HINAPIA)
+  - [OSR 官方Twitter](https://twitter.com/OSRent_)
+
+[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
+
 1.
-2.
+2.  [PLEDIS官方正名](http://www.pledis.co.kr/html/artist/pristin/CHN/profile)
 3.
 4.
 5.
+6.
+7.  [重新出發！PRISTIN 銀雨、珉炅、京元、藝彬組新團再出道](https://www.koreastardaily.com/tc/news/121168)
+8.  [1](https://www.koreastardaily.com/tc/news/121458)
+9.

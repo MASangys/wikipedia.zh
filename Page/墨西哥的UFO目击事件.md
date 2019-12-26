@@ -20,7 +20,7 @@
 
 ## 外部链接
 
-  - [MUFON - Last 20 UFO Sightings and Pictures](http://mufoncms.com/cgi-bin/manage_sighting_reports.pl?mode=latest_reports)
+  - [MUFON - Last 20 UFO Sightings and Pictures](https://web.archive.org/web/20140617213235/http://mufoncms.com/cgi-bin/manage_sighting_reports.pl?mode=latest_reports)
 
 [Category:UFO目击事件](https://zh.wikipedia.org/wiki/Category:UFO目击事件 "wikilink") [Category:UFO](https://zh.wikipedia.org/wiki/Category:UFO "wikilink") [Category:幽浮](https://zh.wikipedia.org/wiki/Category:幽浮 "wikilink") [Category:不明飞行物](https://zh.wikipedia.org/wiki/Category:不明飞行物 "wikilink") [Category:目击事件](https://zh.wikipedia.org/wiki/Category:目击事件 "wikilink") [Category:墨西哥](https://zh.wikipedia.org/wiki/Category:墨西哥 "wikilink") [Category:事件](https://zh.wikipedia.org/wiki/Category:事件 "wikilink") [Category:列表](https://zh.wikipedia.org/wiki/Category:列表 "wikilink") [Category:幽浮学](https://zh.wikipedia.org/wiki/Category:幽浮学 "wikilink") [Category:外星生命](https://zh.wikipedia.org/wiki/Category:外星生命 "wikilink")
 

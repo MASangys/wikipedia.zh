@@ -1,4 +1,4 @@
-《**時光沙漏fragtime**》是创作的[日本](../Page/日本.md "wikilink")[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")，最初于《》（[秋田書店](../Page/秋田書店.md "wikilink")）2013年Vol.2及Vol.3連載\[1\]。7月18日，转移至同出版社的Web漫画网站“”继续连载，2014年9月25日完结。
+《**時光沙漏fragtime**》是[日本漫画家](https://zh.wikipedia.org/wiki/日本漫画家 "wikilink")创作的[日本漫画](../Page/日本漫画.md "wikilink")，最初于《》（[秋田書店](../Page/秋田書店.md "wikilink")）2013年Vol.2及Vol.3連載\[1\]。7月18日，转移至同出版社的Web漫画网站“”继续连载，2014年9月25日完结。
 
 ## 故事简介
 
@@ -75,7 +75,7 @@
 
 ## 外部链接
 
-  - [更多\! THE WEB](http://motto-e.jp/?rel=u)
+  - [更多\! THE WEB](https://web.archive.org/web/20130108171133/http://motto-e.jp/?rel=u)
 
   - [Champion Tap！上的本作介绍](http://tap.akitashoten.co.jp/comics/fragtime)
 

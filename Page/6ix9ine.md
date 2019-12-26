@@ -29,29 +29,16 @@
 [Category:美国嘻哈歌手](https://zh.wikipedia.org/wiki/Category:美国嘻哈歌手 "wikilink") [Category:1996年出生](https://zh.wikipedia.org/wiki/Category:1996年出生 "wikilink") [Category:血帮](https://zh.wikipedia.org/wiki/Category:血帮 "wikilink") [Category:墨西哥裔美国饶舌歌手](https://zh.wikipedia.org/wiki/Category:墨西哥裔美国饶舌歌手 "wikilink") [Category:21世纪美国饶舌歌手](https://zh.wikipedia.org/wiki/Category:21世纪美国饶舌歌手 "wikilink")
 
 1.
-
 2.   Billboard 200 chart|accessdate=2019-05-19|work=Billboard}}
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10. ["Open Space: Tekashi69 - YouTube"](https://www.youtube.com/watch?v=qMt46dmSuxY). Interview with Mass Appeal, published August 3, 2017. See minute 4:09.
-
 11.
-
 12.
-
 13.
-
 14.

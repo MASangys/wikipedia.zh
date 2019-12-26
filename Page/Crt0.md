@@ -40,10 +40,7 @@ _start: # _start is the entry point known to the linker
 [Category:C標準函式庫](https://zh.wikipedia.org/wiki/Category:C標準函式庫 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.

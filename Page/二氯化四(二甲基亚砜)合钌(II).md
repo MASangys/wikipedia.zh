@@ -40,18 +40,11 @@ RuCl<sub>2</sub>(DMSO)<sub>4</sub>最初于20世纪80年代早期被认定为抗
 [Category:钌配合物](https://zh.wikipedia.org/wiki/Category:钌配合物 "wikilink") [Category:二甲基亚砜配合物](https://zh.wikipedia.org/wiki/Category:二甲基亚砜配合物 "wikilink") [Category:1970年代发现的物质](https://zh.wikipedia.org/wiki/Category:1970年代发现的物质 "wikilink") [Category:氯配合物](https://zh.wikipedia.org/wiki/Category:氯配合物 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.

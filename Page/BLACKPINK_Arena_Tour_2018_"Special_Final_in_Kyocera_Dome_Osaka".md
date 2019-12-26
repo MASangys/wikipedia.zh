@@ -115,29 +115,18 @@ BLACKPINK首次的日本巡迴演唱會「[BLACKPINK Arena Tour 2018](https://zh
 [Category:BLACKPINK影音專輯](https://zh.wikipedia.org/wiki/Category:BLACKPINK影音專輯 "wikilink") [Category:2019年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2019年音樂相關影像作品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15.
 16.

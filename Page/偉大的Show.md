@@ -78,7 +78,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/韓相爀" title="wikilink">韓相爀</a></p></td>
-<td><p>崔正宇</p></td>
+<td><p>崔政宇</p></td>
 <td><p>多情的男朋友。</p></td>
 </tr>
 <tr class="odd">
@@ -191,6 +191,18 @@
 
   - Part.1（發行日期：2019年9月9日）
 
+<!-- end list -->
+
+  - Part.2（發行日期：2019年9月17日）
+
+<!-- end list -->
+
+  - Part.3（發行日期：2019年9月25日）
+
+<!-- end list -->
+
+  - Part.4（發行日期：2019年10月1日）
+
 ## 收視率
 
 <table>
@@ -213,7 +225,7 @@
 <td><p>1</p></td>
 <td><p>2019/08/26</p></td>
 <td><p>國民不孝子的誕生</p></td>
-<td></td>
+<td><p>3.056%</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
@@ -272,38 +284,38 @@
 <tr class="even">
 <td><p>11</p></td>
 <td><p>2019/09/30</p></td>
-<td></td>
+<td><p>補償金</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
 <td><p>2019/10/01</p></td>
-<td></td>
+<td><p>不正當交易</p></td>
 <td><p>2.365%</p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
 <td><p>2019/10/07</p></td>
-<td></td>
-<td><p>%</p></td>
+<td><p>就這樣變成一家人</p></td>
+<td><p>2.316%</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
 <td><p>2019/10/08</p></td>
-<td></td>
-<td><p>%</p></td>
+<td><p>龜裂</p></td>
+<td><p>2.681%</p></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
 <td><p>2019/10/14</p></td>
-<td></td>
-<td><p>%</p></td>
+<td><p>真相與謊言</p></td>
+<td><p>2.089%</p></td>
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
 <td><p>2019/10/15</p></td>
+<td><p>偉大的選擇</p></td>
 <td></td>
-<td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>平均收視率</p></td>
@@ -330,7 +342,7 @@
 
   - [韓國tvN官方網站](http://program.m.tving.com/tvn/thegreatshow/)
 
-<!-- end list -->
+[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink")
 
 1.
 2.

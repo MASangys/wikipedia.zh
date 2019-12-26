@@ -1,6 +1,6 @@
-**RNA聚合酶III**(又称**Pol III**)是真核细胞中通过转录DNA来合成核糖体5S rRNA、[tRNA等小RNA的](../Page/转运核糖核酸.md "wikilink")[酶](../Page/酶.md "wikilink")。
+**RNA聚合酶III**（又称**Pol III**）是真核细胞中通过转录DNA来合成核糖体5S rRNA、[tRNA等小RNA的](../Page/转运核糖核酸.md "wikilink")[酶](../Page/酶.md "wikilink")。
 
-由**RNA Pol III**转录的基因属于"家务"基因。因为这些基因需要在所有类型的细胞和大多数环境条件中表达，所以**Pol III**转录的调控主要与细胞增殖和[细胞周期关联](../Page/細胞週期.md "wikilink")，需要的调控蛋白少于[RNA聚合酶II](../Page/RNA聚合酶Ⅱ.md "wikilink")。然而，在压力下，蛋白质会 [MAF1](https://zh.wikipedia.org/wiki/MAF1\(基因\) "wikilink") 抑制Pol III的活性。\[1\] [雷帕霉素](../Page/雷帕霉素.md "wikilink") 是另一个Pol III抑制剂。\[2\]
+由RNA Pol III转录的基因属于“家务”基因。因为这些基因需要在所有类型的细胞和大多数环境条件中表达，所以**Pol III**转录的调控主要与细胞增殖和[细胞周期关联](../Page/細胞週期.md "wikilink")，需要的调控蛋白少于[RNA聚合酶II](../Page/RNA聚合酶Ⅱ.md "wikilink")。然而，在压力下，蛋白质会 [MAF1](https://zh.wikipedia.org/wiki/MAF1\(基因\) "wikilink") 抑制Pol III的活性。\[1\] [雷帕霉素](../Page/雷帕霉素.md "wikilink") 是另一个Pol III抑制剂。\[2\]
 
 ## 转录
 
@@ -75,15 +75,10 @@ RNA聚合酶III在小polyTs结构域（5-6）（small polyTs stretch (5-6)）处
 [Category:蛋白质](https://zh.wikipedia.org/wiki/Category:蛋白质 "wikilink") [Category:基因表現](https://zh.wikipedia.org/wiki/Category:基因表現 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.

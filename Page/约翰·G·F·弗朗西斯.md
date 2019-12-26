@@ -12,20 +12,12 @@
 [Category:20世纪数学家](https://zh.wikipedia.org/wiki/Category:20世纪数学家 "wikilink") [Category:数值分析研究者](https://zh.wikipedia.org/wiki/Category:数值分析研究者 "wikilink") [Category:线性代数研究者](https://zh.wikipedia.org/wiki/Category:线性代数研究者 "wikilink") [Category:英国计算机科学家](https://zh.wikipedia.org/wiki/Category:英国计算机科学家 "wikilink") [Category:英国程序员](https://zh.wikipedia.org/wiki/Category:英国程序员 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  ，还发表于
-
 6.
-
 7.
 8.
-
 9.
-
 10.

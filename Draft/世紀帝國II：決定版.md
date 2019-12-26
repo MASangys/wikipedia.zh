@@ -20,9 +20,7 @@
 ## 外部链接
 
   -
-{{-}}
-
-[Category:世紀帝國系列](https://zh.wikipedia.org/wiki/Category:世紀帝國系列 "wikilink") [Category:2019年電子遊戲](https://zh.wikipedia.org/wiki/Category:2019年電子遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:微軟遊戲](https://zh.wikipedia.org/wiki/Category:微軟遊戲 "wikilink")
+\[\[Category:世紀帝國系列|25\]\] \[\[Category:2019年電子遊戲|Category:2019年電子遊戲\]\] \[\[Category:Windows遊戲|Category:Windows遊戲\]\] \[\[Category:微軟遊戲|Category:微軟遊戲\]\]
 
 1.
 2.

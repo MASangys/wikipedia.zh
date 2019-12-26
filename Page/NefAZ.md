@@ -14,17 +14,11 @@ NefAZ所生產重型車輛的底盤均由母公司卡瑪斯提供\[3\]，當中�
 [Category:1972年成立的公司](https://zh.wikipedia.org/wiki/Category:1972年成立的公司 "wikilink") [Category:巴士生產商](https://zh.wikipedia.org/wiki/Category:巴士生產商 "wikilink") [Category:俄羅斯汽車公司](https://zh.wikipedia.org/wiki/Category:俄羅斯汽車公司 "wikilink") [Category:俄羅斯公營事業](https://zh.wikipedia.org/wiki/Category:俄羅斯公營事業 "wikilink") [Category:巴什科爾托斯坦共和國公司](https://zh.wikipedia.org/wiki/Category:巴什科爾托斯坦共和國公司 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.

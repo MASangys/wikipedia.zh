@@ -4,81 +4,81 @@
 
   - , 美國威斯康星大學麥迪遜分校等離子體實驗室
 
-  - [Magnetic secure transmission](../Page/磁信号安全传输.md "wikilink"), whereby a smartphone mimics a payment card's magnetic stripe
+  - [Magnetic secure transmission](../Page/磁信号安全传输.md "wikilink"), 磁信號安全運輸
 
   - , 靈長類動物的大腦
 
   - , 在微熱梯度中移動粒子
 
-  - [Micro systems technology](../Page/微机电系统.md "wikilink"), of micromachines
+  - [Micro systems technology](../Page/微机电系统.md "wikilink"), 出自micromachines
 
-  - **, 學術期刊
+  - **, 一家學術期刊
 
-  - , a movable tower to provide services for a rocket launch
+  - , 提供火箭發射服務的移動塔
 
-### Computing
+### 電腦學
 
-  - [Minimum spanning tree](../Page/最小生成树.md "wikilink"), in graph theory
+  - [Minimum spanning tree](../Page/最小生成树.md "wikilink"), 圖表理論中所提出的圖形
 
-  - [.mst](../Page/Windows_Installer.md "wikilink"), a file extension of Microsoft Windows Installer
+  - [.mst](../Page/Windows_Installer.md "wikilink"), Microsoft Windows系統的檔案副檔名系統
 
   - , 用於計算機網絡
 
-  - [Multi-Stream Transport](../Page/DisplayPort.md "wikilink"), multiple displays on a single DisplayPort connector
+  - [Multi-Stream Transport](../Page/DisplayPort.md "wikilink"), DisplayPort的連結器
 
 ## 教育
 
-  - , 在美國新罕布什爾州的曼徹斯特
+  - , 位於美國新罕布什爾州的曼徹斯特的一所理工學院
 
-  - , 研究生學位
+  - , 一種研究生學位
 
-  - ,研究生學位
+  - , 一種研究生學位
 
-  - ,
+  - , 一所福音派基督教神學院
 
-  - [Missouri University of Science and Technology](../Page/密蘇里科技大學.md "wikilink"), in Rolla, Missouri, US
+  - [Missouri University of Science and Technology](../Page/密蘇里科技大學.md "wikilink"), 位於美國密蘇里州羅拉市的一所大學
 
-  - [SKH Bishop Mok Sau Tseng Secondary School](../Page/聖公會莫壽增會督中學.md "wikilink"), Hong Kong
+  - [SKH Bishop Mok Sau Tseng Secondary School](../Page/聖公會莫壽增會督中學.md "wikilink"), 位於香港的一所中學
 
-## Military
+## 軍方
 
-  - , 美國海岸警衛隊等級
+  - , 一種美國海岸警衛隊等級
 
   -
-  - , term used in US Navy
+  - , 一種美國海軍術語
 
-## Organisations
+## 非政府組織
 
-  - , UK
+  - , 位於英國
 
-  - , the Apostle
+  - , 位於印度的宗教機構
 
-  - , a bus company in Monterey County, California, US
+  - , 位於加州蒙特雷縣的一家巴士公司
 
-### Politics
+### 社會運動
 
-  - , (**), Brazil
+  - , (**), 位於巴西的失地工人運動
 
-  - [Workers' Socialist Movement (Argentina)](https://zh.wikipedia.org/wiki/工人社会主义运动_\(阿根廷\) "wikilink") (**)
+  - [Workers' Socialist Movement (Argentina)](https://zh.wikipedia.org/wiki/工人社会主义运动_\(阿根廷\) "wikilink") (**), 位於阿根廷的工人社會主義運動
 
-  - (**)
+  - (**), 工人社會主義運動
 
-## Time zones
+## 時區
 
   - [Malaysia Standard Time](../Page/马来西亚标准时间.md "wikilink"), (UTC+8)
-  - [Mountain Standard Time](https://zh.wikipedia.org/wiki/北美山区时区 "wikilink"), of North America
-  - [Myanmar Standard Time](https://zh.wikipedia.org/wiki/缅甸标准时间 "wikilink") (MMT), the standard time in Myanmar
+  - [Mountain Standard Time](https://zh.wikipedia.org/wiki/北美山区时区 "wikilink"), 北美洲使用格林威治標準時間
+  - [Myanmar Standard Time](https://zh.wikipedia.org/wiki/缅甸标准时间 "wikilink") (MMT), 緬甸格林威治標準時間
 
-## Other uses
+## 其他
 
-  - , a hiking trail across North Carolina, US
+  - , 位於美國加州的健行步道
 
-  - [Maastricht Aachen Airport](../Page/马斯特里赫特亚琛机场.md "wikilink") (IATA code), the Netherlands
+  - [Maastricht Aachen Airport](../Page/马斯特里赫特亚琛机场.md "wikilink") (IATA code), 位於荷蘭
 
-  - **, a newspaper
+  - **, 一家報紙
 
-  - , a treatment program for violent youth
+  - , 一種對有暴力傾向的青少年所做的治療
 
 ## See also
 
-  - ** (*MST1*), gene encoding the macrophage-stimulating protein
+  - ** (*MST1*), 編碼巨噬細胞刺激蛋白的基因

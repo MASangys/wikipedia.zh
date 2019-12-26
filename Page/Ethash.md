@@ -27,11 +27,7 @@ Vitalik Buterin的。 [匕：存储器-难以计算、存储器的容易证实�
 [Category:密码学](https://zh.wikipedia.org/wiki/Category:密码学 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.

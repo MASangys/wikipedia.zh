@@ -31,28 +31,18 @@ V.F.D.組織的標誌是一個[眼睛](https://zh.wikipedia.org/wiki/眼睛 "wik
 [Category:虛構祕密結社](https://zh.wikipedia.org/wiki/Category:虛構祕密結社 "wikilink") [Category:斯尼奇的不幸历险](https://zh.wikipedia.org/wiki/Category:斯尼奇的不幸历险 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
-
 9.
-
 10.
 11.
 12.
 13.
-
 14.
-
 15.
-
 16.

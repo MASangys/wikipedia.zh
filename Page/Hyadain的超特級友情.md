@@ -66,36 +66,24 @@ WEB ANIME STYLE的和田評標題曲有很強的上升和下降之曲調的節�
 [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.
-
 8.
 9.
 10.
-
 11.
 12.
 13.
 14.
 15. [](http://www.barks.jp/news/?id=1000075375). BARKS. 2011-12-09 \[2011-12-09\] .
-
 16.
-
 17.
-
 18.
 19.
-
 20.
-
 21.
-
 22.

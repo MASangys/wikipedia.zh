@@ -75,6 +75,18 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>3</p></td>
+<td><p>2019年8月2日</p></td>
+<td><p>Dear Destiny</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>2019年12月4日</p></td>
+<td><p>Time Camera</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -85,12 +97,34 @@
 
 ### 参加作品
 
-| 發行日       | 曲名                              | 收錄作品                                                                                                                                                                 |
-| --------- | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2018年5月4日 | Turn Back Time feat. FANTASTICS | [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")「[Turn Back Time feat. FANTASTICS](https://zh.wikipedia.org/wiki/Turn_Back_Time_feat._FANTASTICS "wikilink")」 |
-|           |                                 |                                                                                                                                                                      |
+| 發行日             | 曲名                              | 收錄作品                                                                                                                                                                 |
+| --------------- | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2018年5月4日       | Turn Back Time feat. FANTASTICS | [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")「[Turn Back Time feat. FANTASTICS](https://zh.wikipedia.org/wiki/Turn_Back_Time_feat._FANTASTICS "wikilink")」 |
+| 2019年7月3日       | Supersonic                      | GENERATIONS, THE RAMPAGE, FANTASTICS, BALLISTIK BOYZ from EXILE TRIBE 『BATTLE OF TOKYO 〜ENTER THE Jr.EXILE〜』                                                         |
+| SHOCK THE WORLD |                                 |                                                                                                                                                                      |
+| MIX IT UP       |                                 |                                                                                                                                                                      |
 
-## 演唱會
+
+\== 演唱會 ==
+
+### 單獨巡迴
+
+**2019年**
+
+  - FANTASTICS SOUND DRAMA 2019 FANTASTIC NINE
+
+### 聯合公演
+
+**2019年**
+
+  - BATTLE OF TOKYO 〜ENTER THE Jr. EXILE〜
+  - LDH PERFECT YEAR 2020 COUNTDOWN LIVE 2019▶︎2020 "RISING"
+
+### 作為支援成員參演之公演
+
+  - GENERATIONS from EXILE TRIBE WORLD TOUR 2017 ～SPEEDSTER～ (2017年5月)
+  - [GENERATIONS LIVE TOUR 2017 "MAD CYCLONE"](https://zh.wikipedia.org/wiki/GENERATIONS_LIVE_TOUR_2017_MAD_CYCLONE "wikilink") (2017年7月 - 2017年12月)
+  - EXILE LIVE TOUR 2018-2019 "STAR OF WISH"（2018年9月 - 2019年2月）
 
 ## 出演
 
@@ -101,12 +135,6 @@
 ### 電台節目
 
   - 〜みんなでつくるラジオ〜「FANTASTIC RADIO」（2018年11月 - 、FM OH\!）
-
-### 巡迴演唱會（作為支援成員參演）
-
-  - GENERATIONS from EXILE TRIBE WORLD TOUR 2017 ～SPEEDSTER～ (2017年5月)
-  - [GENERATIONS LIVE TOUR 2017 "MAD CYCLONE"](https://zh.wikipedia.org/wiki/GENERATIONS_LIVE_TOUR_2017_MAD_CYCLONE "wikilink") (2017年7月 - 2017年12月)
-  - EXILE LIVE TOUR 2018-2019 "STAR OF WISH"（2018年9月 - 2019年2月）
 
 ### MUSIC VEDIO
 
@@ -132,16 +160,10 @@
 [Category:EXILE_TRIBE](https://zh.wikipedia.org/wiki/Category:EXILE_TRIBE "wikilink") [Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.

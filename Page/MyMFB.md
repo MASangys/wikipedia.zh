@@ -29,34 +29,21 @@
 [Category:Facebook](https://zh.wikipedia.org/wiki/Category:Facebook "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:2010年建立的网站](https://zh.wikipedia.org/wiki/Category:2010年建立的网站 "wikilink") [Category:巴基斯坦伊斯兰教](https://zh.wikipedia.org/wiki/Category:巴基斯坦伊斯兰教 "wikilink") [Category:巴基斯坦公司](https://zh.wikipedia.org/wiki/Category:巴基斯坦公司 "wikilink") [Category:巴基斯坦网站](https://zh.wikipedia.org/wiki/Category:巴基斯坦网站 "wikilink") [Category:2010年巴基斯坦](https://zh.wikipedia.org/wiki/Category:2010年巴基斯坦 "wikilink")
 
 1.  Dogar, Babar (19 May 2010), ["Pakistani court orders gov't to block Facebook"](https://www.google.com/hostednews/ap/article/ALeqM5hHJMlhPxG4DA6K2S6AjgqHhQD59wD9FPTTS80)  , Associated Press (Lahore). Retrieved 17 June 2010.
-
 2.
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
 15.
-
 16.
-
 17.
-
 18.
 19.

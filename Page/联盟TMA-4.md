@@ -14,7 +14,7 @@ Soyuz TMA-4 launch.jpg Soyuz TMA-4 rollout.jpg SoyuzTMA4 Launch.jpg Jsc2004e4754
 
 ## 外部链接
 
-  - [联盟TMA-4](http://space.kursknet.ru/cosmos/russian/machines/stma4.sht)
+  - [联盟TMA-4](https://web.archive.org/web/20161117041710/http://space.kursknet.ru/cosmos/russian/machines/stma4.sht)
 
 [Category:2004年發射的太空飛行器](https://zh.wikipedia.org/wiki/Category:2004年發射的太空飛行器 "wikilink") [Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink")
 

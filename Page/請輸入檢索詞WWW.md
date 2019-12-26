@@ -4,15 +4,15 @@
 
 ### 主要人物
 
-|                                         |        |                                                                                    |
-| --------------------------------------- | ------ | ---------------------------------------------------------------------------------- |
-| **演員**                                  | **角色** | **介紹**                                                                             |
-| [林秀晶](../Page/林秀晶.md "wikilink")        | 裴塔美    | 業界第一Unicon入口網站企業的前本部長，被惡意解雇後跳槽Barro，英文名塔美(Tami)。38歲。                               |
-| [張基龍](../Page/張基龍.md "wikilink")        | 朴模建    | 製作遊戲音樂的「密林Sound」公司代表，對裴塔美一見鍾情並死心塌地，是鄭多仁的初戀。28歳。                                    |
-| [李多熙](../Page/李多熙_\(演員\).md "wikilink") | 車賢     | 業界第二Barro的網站社交部長，英文名史嘉莉(Scarlett)，因在電梯裡毆打性騷擾犯而有前科，其實骨子裡是一個很有正義感、有義氣的女漢子，喜歡薛智煥。37歲。 |
-| [全慧珍](../Page/全慧珍.md "wikilink")        | 宋佳京    | Unicon入口網站的理事，與裴塔美之前關係良好，後因理念不合惡化。39歲。                                             |
-| [李在旭](../Page/李在旭.md "wikilink")        | 薛智煥    | 「岳母為何那樣」的演員，一次外景中被車賢誤會是嫌犯絆倒後相識。30歲。                                                |
-| [池承炫](../Page/池承炫.md "wikilink")        | 吳真宇    | JW電影代表，宋佳京政治聯姻的老公，其實深愛著宋佳京。40歲。                                                    |
+|                                                     |        |                                                                                    |
+| --------------------------------------------------- | ------ | ---------------------------------------------------------------------------------- |
+| **演員**                                              | **角色** | **介紹**                                                                             |
+| [林秀晶](../Page/林秀晶.md "wikilink")                    | 裴朵美    | 業界第一Unicon入口網站企業的前本部長，被惡意解雇後跳槽Barro，英文名塔美(Tami)。38歲。                               |
+| [張基龍](../Page/張基龍.md "wikilink")                    | 朴旭建    | 製作遊戲音樂的「密林Sound」公司代表，對裴朵美一見鍾情並死心塌地，是鄭多仁的初戀。28歳。                                    |
+| [李多熙](../Page/李多熙_\(演員\).md "wikilink")             | 車賢     | 業界第二Barro的網站社交部長，英文名史嘉莉(Scarlett)，因在電梯裡毆打性騷擾犯而有前科，其實骨子裡是一個很有正義感、有義氣的女漢子，喜歡薛智煥。37歲。 |
+| [全慧珍](../Page/全慧珍.md "wikilink")                    | 宋佳景    | Unicon入口網站的理事，與裴朵美之前關係良好，後因理念不合惡化。39歲。                                             |
+| [李宰旭](https://zh.wikipedia.org/wiki/李宰旭 "wikilink") | 薛智煥    | 「岳母為何那樣」的演員，一次外景中被車賢誤會是嫌犯絆倒後相識。30歲。                                                |
+| [池承炫](../Page/池承炫.md "wikilink")                    | 吳真宇    | JW電影代表，宋佳景政治聯姻的老公，其實深愛著宋佳景。40歲。                                                    |
 
 ### Barro
 
@@ -36,17 +36,17 @@
 <tr class="odd">
 <td></td>
 <td><p>表俊秀</p></td>
-<td><p>Barro遊戲事業本部長，英文名馬修(Matthew)，塔美的前男友。後來又腳踏車賢與直播主東珠兩條船。</p></td>
+<td><p>Barro遊戲事業本部長，英文名馬修(Matthew)，朵美的前男友。後來又腳踏車賢與直播主東珠兩條船。</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>崔奉基</p></td>
-<td><p>Unicon新進組長，總是十分開朗。英文名喬瑟夫(Joseph)，在塔美離開Unicon時自願和她一起加入Barro。</p></td>
+<td><p>Unicon新進組長，總是十分開朗。英文名喬瑟夫(Joseph)，在朵美離開Unicon時自願和她一起加入Barro。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>趙雅羅</p></td>
-<td><p>Unicon咖啡店店員，深受塔美賞識，塔美離開Unicon時也將她帶進了Barro。英文名Ailee。</p></td>
+<td><p>Unicon咖啡店店員，深受朵美賞識，塔美離開Unicon時也將她帶進了Barro。英文名Ailee。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/河勝理.md" title="wikilink">河勝理</a></p></td>
@@ -56,7 +56,7 @@
 <tr class="odd">
 <td></td>
 <td><p>崔正勳</p></td>
-<td><p>原Barro行銷組組長，英文名艾力克斯(Alex)，差點被挖腳到Unicon，但被裴塔美及時挽回。</p></td>
+<td><p>原Barro行銷組組長，英文名艾力克斯(Alex)，差點被挖腳到Unicon，但被裴朵美及時挽回。</p></td>
 </tr>
 </tbody>
 </table>
@@ -88,7 +88,7 @@
 <tr class="even">
 <td><p>韓智婉</p></td>
 <td><p>鄭多仁</p></td>
-<td><p>與裴塔美燒肉店相遇後成為裴塔美的鋼琴老師，初戀是朴模建。</p></td>
+<td><p>與裴朵美燒肉店相遇後成為裴朵美的鋼琴老師，初戀是朴旭建。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -98,37 +98,72 @@
 <tr class="even">
 <td><p><a href="../Page/藝秀晶.md" title="wikilink">藝秀晶</a></p></td>
 <td><p>張熙恩</p></td>
-<td><p>KU集團會長，宋佳京婆婆。</p></td>
+<td><p>KU集團會長，宋佳景婆婆。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/卞宇錫" title="wikilink">卞宇錫</a></p></td>
 <td><p>韓敏圭</p></td>
-<td><p>當紅明星</p></td>
+<td><p>當紅明星。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/孫鐘鶴.md" title="wikilink">孫鐘鶴</a></p></td>
 <td><p>徐明浩</p></td>
-<td><p>總統。</p></td>
+<td><p>熱搜關鍵字第一名，後來被篡改關鍵字的總統候選人，最後當選總統。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/崔鎮鎬.md" title="wikilink">崔鎮鎬</a></p></td>
 <td><p>周勝泰</p></td>
-<td><p>議員。</p></td>
+<td><p>議員。徐明浩的競爭對手，在體聽證會上與朵美對立後跌入深淵的人物。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李泰利.md" title="wikilink">李泰利</a></p></td>
 <td><p>高道里/五隻鳥</p></td>
-<td><p>網路作家。(第7集客串)</p></td>
+<td><p>網路漫畫作家。(第7集客串)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/李棟旭.md" title="wikilink">李棟旭</a></p></td>
-<td></td>
-<td><p>裴塔美的前男友(第7集客串)</p></td>
+<td><p>權正祿(律師)</p></td>
+<td><p>裴朵美的前男友(第7集客串)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李多寅_(演員).md" title="wikilink">李多寅</a></p></td>
 <td></td>
 <td><p>柔道社社員(第6集客串)</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>李振浩</p></td>
+<td><p>爲了對朵美不利而捏造關鍵字的駭客。</p></td>
+</tr>
+<tr class="even">
+<td><p>文修寧 )</p></td>
+<td><p>金伯爵</p></td>
+<td><p>網路漫畫作家。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>尹姸貞</p></td>
+<td><p>朴旭建的媽媽，名城大學教授。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>總統的兒子。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/金承旭.md" title="wikilink">金承旭</a></p></td>
+<td></td>
+<td><p>宋佳景的父親。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>Barro 搜索部部長。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>閔洪柱的朋友，朴旭建的遊戲界前輩。</p></td>
 </tr>
 </tbody>
 </table>
@@ -224,6 +259,12 @@
 <!-- end list -->
 
   - Part.23（發行日期：2019年7月26日）
+
+### 其他搭配歌曲
+
+  - 台灣[衛視中文台](../Page/衛視中文台.md "wikilink")版本
+      - 片頭曲：[吳克群](https://zh.wikipedia.org/wiki/吳克群 "wikilink")《我和被愛保持距離》
+      - 片尾曲：[袁婭維](https://zh.wikipedia.org/wiki/袁婭維 "wikilink")《不虧不欠》
 
 ## 收視率
 

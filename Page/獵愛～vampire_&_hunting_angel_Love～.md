@@ -94,7 +94,5 @@
 [Category:台灣輕小說](https://zh.wikipedia.org/wiki/Category:台灣輕小說 "wikilink") [Category:奇幻小說](https://zh.wikipedia.org/wiki/Category:奇幻小說 "wikilink") [Category:虛擬世界背景作品](https://zh.wikipedia.org/wiki/Category:虛擬世界背景作品 "wikilink") [Category:吸血鬼題材小說](https://zh.wikipedia.org/wiki/Category:吸血鬼題材小說 "wikilink") [Category:2019年小說](https://zh.wikipedia.org/wiki/Category:2019年小說 "wikilink")
 
 1.
-
 2.
-
 3.

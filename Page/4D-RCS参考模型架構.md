@@ -28,11 +28,7 @@
 [Category:控制理论](https://zh.wikipedia.org/wiki/Category:控制理论 "wikilink") [Category:工業計算](https://zh.wikipedia.org/wiki/Category:工業計算 "wikilink") [Category:无人载具](https://zh.wikipedia.org/wiki/Category:无人载具 "wikilink")
 
 1.  Danil Prokhorov (2008) *Computational Intelligence in Automotive Applications*. p. 315
-
 2.  Albus, J.S. et al. (2006). "[Learning in a Hierarchical Control System: 4D/RCS in the DARPA LAGR Program](https://www.nist.gov/cgi-bin//get_pdf.cgi?pub_id=822702)". NIST June 26, 2006. in: *ICINCO 06 - International Conference in Control, Automation and Robotics, Setubal, Portugal, August 2006*
-
 3.  Douglas Whitney Gage (2004). *Mobile robots XVII: 26–28 October 2004, Philadelphia, Pennsylvania, USA*. Society of Photo-optical Instrumentation Engineers. page 35.
-
 4.  S.B. Balakirsky (2003). *A framework for planning with incrementally created graphs in attributed problem spaces*. IOS Press. . p.10-11.
-
 5.

@@ -18,12 +18,8 @@
 [Category:捷豹車輛](https://zh.wikipedia.org/wiki/Category:捷豹車輛 "wikilink") [Category:跑車](https://zh.wikipedia.org/wiki/Category:跑車 "wikilink") [Category:2013年面世的汽車](https://zh.wikipedia.org/wiki/Category:2013年面世的汽車 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.

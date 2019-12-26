@@ -1,4 +1,4 @@
-'''Red Velvet Second Concert 「REDMARE」 '''是韓國女子組合[Red Velvet于](../Page/Red_Velvet.md "wikilink")2018年舉辦的第二次單獨巡回演唱會。
+'''Red Velvet Second Concert 「REDMARE」 '''是韓國女子組合[Red Velvet于](../Page/Red_Velvet.md "wikilink")2018年至2019年舉辦的第二次單獨巡回演唱會。
 
 ## 概述
 

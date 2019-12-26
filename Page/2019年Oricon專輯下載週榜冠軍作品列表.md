@@ -282,9 +282,72 @@
 </tr>
 <tr class="odd">
 <td><p>9月30日</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Perfume_The_Best_“P_Cubed”" title="wikilink">Perfume The Best “P Cubed”</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></p></td>
 <td><p>0.5</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10月7日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Love_Covers" title="wikilink">Love Covers</a></p></td>
+<td><p><a href="../Page/金在中.md" title="wikilink">在中</a></p></td>
+<td><p>0.2</p></td>
+<td><p>[34]</p></td>
+</tr>
+<tr class="odd">
+<td><p>10月14日</p></td>
+<td><p><a href="../Page/可以變得如此喜歡你嗎？.md" title="wikilink">可以變得如此喜歡你嗎？ Edition)</a>(Special</p></td>
+<td><p><a href="../Page/日向坂46.md" title="wikilink">日向坂46</a></p></td>
+<td><p>0.5</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10月21日</p></td>
+<td></td>
+<td></td>
+<td><p>1.4</p></td>
+<td><p>[35]</p></td>
+</tr>
+<tr class="odd">
+<td><p>10月28日</p></td>
+<td><p>Same Thing</p></td>
+<td><p><a href="../Page/星野源.md" title="wikilink">星野源</a></p></td>
+<td><p>3.1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月4日</p></td>
+<td><p>[[COMINATCHA</p></td>
+<td><p>|COMINATCHA</p></td>
+<td><p>]]</p></td>
+<td><p><a href="../Page/WANIMA.md" title="wikilink">WANIMA</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>11月11日</p></td>
+<td><p>藍色大阪dreamin'night</p></td>
+<td><p><a href="../Page/催眠麥克風.md" title="wikilink">通通打趴啦本舖</a></p></td>
+<td><p>0.9</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月18日</p></td>
+<td><p>Traveler</p></td>
+<td><p>Official髭男dism</p></td>
+<td><p>0.2</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11月25日</p></td>
+<td></td>
+<td><p><a href="../Page/椎名林檎.md" title="wikilink">椎名林檎</a></p></td>
+<td><p>1.0</p></td>
+<td><p>[36]</p></td>
+</tr>
+<tr class="even">
+<td><p>12月2日</p></td>
+<td><p>0.8</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -297,7 +360,7 @@
 
 ## 參考資料
 
-[Category:2019年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink") [Category:2019年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2019年音樂排行榜 "wikilink")
+[Category:每年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon專輯週榜冠軍作品列表 "wikilink") [Category:2019年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2019年音樂排行榜 "wikilink")
 
 1.  [クイーン、映画サントラが7週ぶり1位に浮上 2週連続3作同時TOP10入り](https://www.oricon.co.jp/news/2127992/full/)
 2.  [バックストリート・ボーイズ、自身初のデジタルアルバム1位 ベストアルバムと2作同時TOP10入り](https://www.oricon.co.jp/news/2128426/full/)
@@ -332,3 +395,6 @@
 31. [桜井和寿とGAKU-MCによるウカスカジー、初のデジタルランキング1位【オリコンランキング】](https://www.oricon.co.jp/news/2143215/full/)
 32. [ヨルシカ、自身初のデジタルランキング1位【オリコンランキング】](https://www.oricon.co.jp/news/2143681/full/)
 33. [乃木坂46、通算2作目の合算シングル1位【オリコンランキング】](https://www.oricon.co.jp/news/2144169/full/)
+34. [ジェジュン、初カバーで2作連続1位 CD&デジタル同時1位【オリコンランキング】](https://www.oricon.co.jp/news/2145532/full/)
+35. [Official髭男dism、CD&デジタルAL初の同時1位 ストリーミング21週連続1位で歴代1位【オリコンランキング】](https://www.oricon.co.jp/news/2146573/full/)
+36. [椎名林檎、CDアルバム10年5ヶ月ぶりの1位 「叱られて伸びるタイプで在り続ける」【オリコンランキング】](https://www.oricon.co.jp/news/2149002/full/)

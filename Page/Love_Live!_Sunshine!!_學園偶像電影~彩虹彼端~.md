@@ -36,6 +36,10 @@
 
 ## 票房
 
+台灣票房2,321,284
+
+上映日期2019/4/4～5/12
+
 ## 制作人员
 
   - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")
@@ -98,18 +102,14 @@
 
 ## 外部链接
 
-  - [剧场版官方网站](https://lovelive-sunshinemovie.jp/)
+  - [剧场版官方网站](https://web.archive.org/web/20181206102559/https://lovelive-sunshinemovie.jp/)
   - [劇場版官方網站](http://www.my-cartoon.com.tw/lovelive/uranohoshi/movie.php)
 
 [Category:Aqours](https://zh.wikipedia.org/wiki/Category:Aqours "wikilink") [Category:Love_Live\!](https://zh.wikipedia.org/wiki/Category:Love_Live! "wikilink") [Category:2019年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2019年日本劇場動畫 "wikilink") [Category:日本原創動畫電影](https://zh.wikipedia.org/wiki/Category:日本原創動畫電影 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.

@@ -17,9 +17,7 @@
 
 1.
 2.
-
 3.
-
 4.
 5.
 6.  Kofman, L. S.; Vinogradova, V. S.; Lukashina, V. M. Isolation of diene hydrocarbons by chemisorption with aqueous pyridine solutions of monovalent copper salts. III. Isolation of isoprene with a solution of cuprous nitrate. *Sintez Monomerov dlya Proizvodstv Sintet. Kauchuka, Gosudarst. Inst. po Proekt. Zavodov Kauchuk. Prom. i Vsesoyuz. Nauch.-Issledovatel Inst. Sintet. Kauchuka*, 1960: 103-112. CAN56: 52810

@@ -5,7 +5,5 @@
 [Category:银化合物](https://zh.wikipedia.org/wiki/Category:银化合物 "wikilink") [Category:钴氰酸盐](https://zh.wikipedia.org/wiki/Category:钴氰酸盐 "wikilink") [Category:配位聚合物](https://zh.wikipedia.org/wiki/Category:配位聚合物 "wikilink")
 
 1.
-
 2.
-
 3.

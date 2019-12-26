@@ -32,7 +32,7 @@ KCB77的刀鞘上裝有旋鈕，操作者可以擰動旋鈕以調整拉力，使
       - KCB77 M2：適配於[FN FAL系列步槍](../Page/FN_FAL自動步槍.md "wikilink")。
       - KCB77 M3：適配於[HK G3系列步槍](../Page/HK_G3自動步槍.md "wikilink")。
       - KCB77 M4：適配於[M1卡宾枪](../Page/M1卡宾枪.md "wikilink")。
-      - KCB77 M5：適配於[SIG SG 510-4及以後的](../Page/SIG_SG_510自動步槍.md "wikilink")[SIG製突擊步槍](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")。
+      - KCB77 M5：適配於[SIG SG 510-4及以後的](../Page/SIG_SG_510自動步槍.md "wikilink")[SIG製突擊步槍](../Page/瑞士軍工.md "wikilink")。
       - KCB77 M6：適配於毛瑟[Gew 98系列步槍](https://zh.wikipedia.org/wiki/Gew_98步槍 "wikilink")。
       - KCB77 M7：適配於[AK-47系列步槍](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")。
 

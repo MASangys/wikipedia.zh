@@ -27,11 +27,13 @@ Blossom娛樂成立於2012年3月，由當時[SidusHQ](../Page/SidusHQ.md "wikil
   - [庭沼珉](../Page/庭沼珉.md "wikilink") (2019年－至今)
   - 鄭義諸
   - [蔡相宇](../Page/蔡相宇.md "wikilink")
+  - [鄭乾柱](../Page/鄭乾柱.md "wikilink") (2019年－至今)
 
 ## 已離開藝人
 
   - [韓尚進](../Page/韓尚進.md "wikilink")
-  - 孫承源
+  - [孫承源](../Page/孫承源.md "wikilink")
+  - [李曙原](../Page/李曙原.md "wikilink")
 
 ## 參考資料
 

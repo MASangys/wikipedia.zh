@@ -131,36 +131,20 @@ Rearrangements must be carried out at temperatures below −60 °C to avoid com
 [Category:Name_reactions](https://zh.wikipedia.org/wiki/Category:Name_reactions "wikilink") [Category:Rearrangement_reactions](https://zh.wikipedia.org/wiki/Category:Rearrangement_reactions "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.
-
 18. *Applications of the Wittig–Still Rearrangement in Organic Synthesis* L. Rycek, T. Hudlicky, Angew. Chem. Int. Ed. 2017, 56, 6022

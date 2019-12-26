@@ -21,19 +21,17 @@
 |                      |              |
 |                      |              |
 
-## 成員
+## 前成員
 
-| 遊戲名稱    | 中文姓名                                                        | 英文姓名          | 遊戲定位 |
-| ------- | ----------------------------------------------------------- | ------------- | ---- |
-| Deer    | [陳嘉靖](https://zh.wikipedia.org/wiki/:zh-yue:陳嘉靖 "wikilink") | Chan Ka Ching | 上路   |
-| Bella   | [李欣穎](../Page/李欣穎.md "wikilink")                            | Lee Yan Wing  | 上路   |
-| Momo    | 毛芷晴                                                         | Mo Tsz Ching  | 打野   |
-| Sleepyz | 何韋鑾                                                         | Ho Wai Luen   | 打野   |
-| Dream   | 石凱儀                                                         | Shek Hoi Yee  | 中路   |
-| Lily    | 嚴雅麗                                                         | Yim Nga Lai   | 下路   |
-| Rispy   | 劉麗芳                                                         | Lau Lai Fong  | 輔助   |
+| 遊戲名稱  | 中文姓名                                                        | 英文姓名          | 遊戲定位 |
+| ----- | ----------------------------------------------------------- | ------------- | ---- |
+| Deer  | [陳嘉靖](https://zh.wikipedia.org/wiki/:zh-yue:陳嘉靖 "wikilink") | Chan Ka Ching | 上路   |
+| Momo  | 毛芷晴                                                         | Mo Tsz Ching  | 打野   |
+| Dream | 石凱儀                                                         | Shek Hoi Yee  | 中路   |
+| Lily  | 嚴雅麗                                                         | Yim Nga Lai   | 下路   |
+| Rispy | 劉麗芳                                                         | Lau Lai Fong  | 輔助   |
 
-成為職業戰隊前的成員為Iris (輔助), 奶仔 (打野), 兔仔 (輔助), Dream和Deer。後來當中只有Dream和Deer成為職業戰隊成員。
+成為職業戰隊前的成員為Iris (輔助), 奶仔 (打野), 兔仔 (輔助), LILY,Dream和Deer。後來當中只有LILY,Dream和Deer成為職業戰隊成員。
 
 ## 成員變遷表
 
@@ -56,8 +54,6 @@ Legend = orientation:horizontal position:bottom ScaleMajor = unit:year increment
 ` bar:Dream from:01/10/2016 till:end color:a`
 ` bar:Lily from:01/10/2016 till:end color:a`
 ` bar:Rispy from:01/10/2016 till:end color:a`
-` bar:Bella from:01/11/2018 till:end color:b`
-` bar:Sleepyz from:01/11/2018 till:end color:b`
 </timeline>
 
 ## 参考资料

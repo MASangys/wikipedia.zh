@@ -13,23 +13,16 @@ Hegnauer出生於瑞士的[奧布費登](https://zh.wikipedia.org/wiki/奧布費
 [Category:瑞士人道主義者](https://zh.wikipedia.org/wiki/Category:瑞士人道主義者 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
 14.

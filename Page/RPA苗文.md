@@ -178,7 +178,7 @@ RPA苗文使用字母来记录[声调](https://zh.wikipedia.org/wiki/声调 "wik
 <td><p><em>pos</em></p></td>
 </tr>
 <tr class="even">
-<td><p>低降调</p></td>
+<td><p>低降调<a href="https://zh.wikipedia.org/wiki/嘎裂声" title="wikilink">嘎裂声</a></p></td>
 <td></td>
 <td><p><strong>m</strong></p></td>
 <td><p><em>pom</em></p></td>

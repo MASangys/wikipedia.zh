@@ -16,8 +16,6 @@
 [Category:1999年建立的網站](https://zh.wikipedia.org/wiki/Category:1999年建立的網站 "wikilink") [Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink") [Category:托爾金粉絲](https://zh.wikipedia.org/wiki/Category:托爾金粉絲 "wikilink")
 
 1.   TheOneRing.net Brings 'The Hobbit: The Desolation of Smaug' to Comic-Con|url=[https://www.cbr.com/sdcc-theonering-net-brings-the-hobbit-the-desolation-of-smaug-to-comic-con/|work=CBR|date=2013-08-09|accessdate=2019-04-26|language=en-US](https://www.cbr.com/sdcc-theonering-net-brings-the-hobbit-the-desolation-of-smaug-to-comic-con/%7Cwork=CBR%7Cdate=2013-08-09%7Caccessdate=2019-04-26%7Clanguage=en-US)}}
-
 2.
-
 3.
 4.

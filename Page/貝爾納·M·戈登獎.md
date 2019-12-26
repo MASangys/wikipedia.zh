@@ -337,12 +337,9 @@
 [Category:學術榮譽](https://zh.wikipedia.org/wiki/Category:學術榮譽 "wikilink") [Category:以人名命名的獎項](https://zh.wikipedia.org/wiki/Category:以人名命名的獎項 "wikilink")
 
 1.
-
 2.
 3.  William A. Wulf and George M.C. Fisher "A Makeover for Engineering Education" Issues in Science & Technology Spring 2002 p. 35-39.
-
 4.
-
 5.
 6.
 7.

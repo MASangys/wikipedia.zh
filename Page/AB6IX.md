@@ -58,13 +58,40 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 
 5月17日，於2019日本KCON第一次全員登台演出。
 
-**迷你一輯《B:COMPLETE》、初一位**
+**迷你一輯《B:COMPLETE》、初一位、正規一輯《6IXENSE》**
 
 5月22日，韓國時間下午6點，公開首張迷你專輯《B:COMPLETE》全輯音源及主打《BREATHE》，並於同日舉行出道Showcase，正式出道。\[16\]\[17\]
 
 6月4日，出道僅13天即在音樂節目《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》奪下出道後首個一位。\[18\]6月5日，在音樂節目《[Show Champion](../Page/Show_Champion.md "wikilink")》再次取得一位。\[19\]
 
+10月7日，韓國時間下午6點，公開首張正規專輯《6IXENSE》全輯音源及主打《BLIND FOR LOVE》，並於同日舉行回歸Showcase。
+
 ## 音樂作品
+
+### 正規專輯
+
+<table>
+<thead>
+<tr class="header">
+<th><p>'''專輯 '''</p></th>
+<th><p><strong>專輯資料</strong></p></th>
+<th><p><strong>曲目</strong></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p><strong>《6IXENSE》</strong></p>
+<ul>
+<li>發行日期 ：2019年10月7日</li>
+<li>語言：韓語</li>
+<li>類型：Ballad, Dance</li>
+<li>銷量：117,910+[20]</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 迷你專輯
 
@@ -84,31 +111,7 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 <li>發行日期 ：2019年5月22日</li>
 <li>語言：韓語</li>
 <li>類型：Ballad, Dance</li>
-<li>銷量：165,163+[20]</li>
-</ul></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 正規專輯
-
-<table>
-<thead>
-<tr class="header">
-<th><p>'''專輯 '''</p></th>
-<th><p><strong>專輯資料</strong></p></th>
-<th><p><strong>曲目</strong></p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>1st</strong></p></td>
-<td><p><strong>《6IXENSE》</strong></p>
-<ul>
-<li>發行日期 ：2019年10月7日</li>
-<li>語言：韓語</li>
-<li>銷量：</li>
+<li>銷量：166,791+[21]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -121,7 +124,7 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 
 | 日期               | |頻道                                | |節目名稱                                              | |集數        | 出演成員 |
 | ---------------- | ---------------------------------- | -------------------------------------------------- | ---------- | ---- |
-| 2019年4月18日-6月13日 | [Mnet](../Page/Mnet.md "wikilink") | [BRANDNEWBOYS](../Page/BRANDNEWBOYS.md "wikilink") | 共8集 \[21\] | 全員   |
+| 2019年4月18日-6月13日 | [Mnet](../Page/Mnet.md "wikilink") | [BRANDNEWBOYS](../Page/BRANDNEWBOYS.md "wikilink") | 共8集 \[22\] | 全員   |
 | 2019年6月1日-7月9日   | Dingo                              | 義氣遊戲                                               | 共6集        | 全員   |
 |                  |                                    |                                                    |            |      |
 
@@ -218,23 +221,23 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 <tr class="even">
 <td><p>2019年6月23日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a>2</p></td>
-<td><p>RUN.wav (런웨이브)</p></td>
+<td><p><a href="../Page/RUN.wav.md" title="wikilink">RUN.wav</a></p></td>
 <td><p>全員</p></td>
-<td><p>EP1[22]</p></td>
+<td><p>EP1[23]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年7月11日</p></td>
-<td><p>Mnet</p></td>
-<td><p>不是你認識的我2</p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/不是你所認識的我V2.md" title="wikilink">不是你所認識的我V2</a></p></td>
 <td><p>李大輝</p></td>
-<td></td>
+<td><p>EP3</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年7月12、19日</p></td>
-<td><p>MBC</p></td>
-<td><p>My Little Television(第二季)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="../Page/My_Little_Television_(第二季).md" title="wikilink">My Little Television (第二季)</a></p></td>
 <td><p>全員(朴佑鎭因傷缺席)</p></td>
-<td></td>
+<td><p>EP16、17</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年10月17日</p></td>
@@ -244,6 +247,27 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 <td><p>EP1</p></td>
 </tr>
 <tr class="even">
+<td><p>2019年10月21日</p></td>
+<td><p>CELUV.TV</p></td>
+<td><p>I'm Celuv</p></td>
+<td><p>全員</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年10月22日</p></td>
+<td><p>lifetime youtube</p></td>
+<td><p>我的同齡人</p></td>
+<td><p>全員</p></td>
+<td><p>EP2</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月2日</p></td>
+<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a>2</p></td>
+<td><p><a href="../Page/RUN.wav.md" title="wikilink">RUN.wav</a></p></td>
+<td><p>全員</p></td>
+<td><p>EP20</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -255,10 +279,11 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 
 ### 電視劇
 
-| 日期         | |頻道                                                 | |節目名稱                                                                       | |集數 | 出演成員 |
-| ---------- | --------------------------------------------------- | --------------------------------------------------------------------------- | --- | ---- |
-| 2019年10月 日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [延南洞Global House](https://zh.wikipedia.org/wiki/延南洞Global_House "wikilink") | 全集  | 李大輝  |
-|            |                                                     |                                                                             |     |      |
+| 日期       | |頻道                                                 | |節目名稱                                                                       | |集數   | 出演成員 |
+| -------- | --------------------------------------------------- | --------------------------------------------------------------------------- | ----- | ---- |
+| 2019年11月 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [延南洞Global House](https://zh.wikipedia.org/wiki/延南洞Global_House "wikilink") | 全集    | 李大輝  |
+| 2019年11月 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [延南洞Global House](https://zh.wikipedia.org/wiki/延南洞Global_House "wikilink") | 客串EP3 | 金東賢  |
+|          |                                                     |                                                                             |       |      |
 
 ### 電台
 
@@ -277,7 +302,7 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 <td><p>2019年5月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="../Page/IDOL_RADIO.md" title="wikilink">IDOL RADIO</a></p></td>
-<td><p>1集</p></td>
+<td><p>EP233</p></td>
 <td><p>全員</p></td>
 </tr>
 <tr class="even">
@@ -309,6 +334,20 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 <td><p>金東賢</p></td>
 </tr>
 <tr class="even">
+<td><p>2019年10月14日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="../Page/IDOL_RADIO.md" title="wikilink">IDOL RADIO</a></p></td>
+<td><p>EP377</p></td>
+<td><p>全員</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年10月21日</p></td>
+<td></td>
+<td></td>
+<td><p>1集</p></td>
+<td><p>全員</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -323,7 +362,7 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 | 年份    | |作品名稱          | |期數         | |合作品牌  | |備註        |
 | ----- | -------------- | ----------- | ------ | ---------- |
 | 2019年 | atstar 1 Korea | 5月號/Vol.86  | acwell | 封底         |
-| 2019年 | atstar 1 Korea | 6月號/Vol.87  | 倩碧     | 朴佑鎭 \[23\] |
+| 2019年 | atstar 1 Korea | 6月號/Vol.87  | 倩碧     | 朴佑鎭 \[24\] |
 | 2019年 | 1st Look       | 6月號/vol.176 | acwell | 封底         |
 | 2019年 | THE STAR       | 6月號         |        | 封底         |
 |       |                |             |        |            |
@@ -332,14 +371,14 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 
 ### Showcase
 
-| 日期         | 國家 | 活動名稱                                 |
-| ---------- | -- | ------------------------------------ |
-| 2019/05/22 | 韓國 | AB6IX 1ST EP \[B:COMPLETE\] SHOWCASE |
-| 2019/10/07 | 韓國 | AB6IX 1ST album \[6IXENSE\] SHOWCASE |
+| 日期         | 國家 | 活動名稱                                 | 地點       |
+| ---------- | -- | ------------------------------------ | -------- |
+| 2019/05/22 | 韓國 | AB6IX 1ST EP \[B:COMPLETE\] SHOWCASE | 奧林匹克廳    |
+| 2019/10/07 | 韓國 | AB6IX 1ST album \[6IXENSE\] SHOWCASE | 慶熙大學和平殿堂 |
 
 ### 官方粉絲見面會
 
-  - AB6IX 1ST FANMEETING \[1ST ABNEW\] TOUR\[24\]
+  - AB6IX 1ST FANMEETING \[1ST ABNEW\] TOUR\[25\]
 
 | 日期            | 城市  | 舉辦地點               |
 | ------------- | --- | ------------------ |
@@ -349,6 +388,15 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 | 2019/08/10    | 台北  | 國立體育大學綜合體育館（林口體育館） |
 | 2019/08/24    | 香港  | 亞洲國際博覽館 Hall 11    |
 | 2019/08/31    | 曼谷  | IMPACT會展中心 Hall 5  |
+
+### 官方演唱會
+
+  - AB6IX 1ST WORLD TOUR \<6IXENSE\>
+
+| 日期           | 城市 | 舉辦地點        |
+| ------------ | -- | ----------- |
+| 2019/11/9、10 | 首爾 | 首爾奧林匹克公園體育場 |
+|              |    |             |
 
 ### 參與演唱會
 
@@ -367,6 +415,7 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 | 2019/09/29 | 泰國  | KCON 2019 THAILAND                |
 | 2019/10/06 | 韓國  | SBS SUPER CONCERT                 |
 | 2019/10/19 | 韓國  | 2019 BUSAN ONE ASIA FESTIVAL      |
+| 2019/10/27 | 韓國  | 2019 FEVER FESTIVAL               |
 
 ## 獎項與榮譽
 
@@ -404,6 +453,48 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>MTV Europe Music Awards</p></td>
+<td><p>最佳韓國藝人</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/VLIVE_AWARDS_V_HEARTBEAT" title="wikilink">VLIVE AWARDS V HEARTBEAT</a></p></td>
+<td><p>GLOBAL ROOKIE TOP5</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>星和燦爛星光之夜</p></td>
+<td><p>Raising star award</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/亞洲明星盛典.md" title="wikilink">亞洲明星盛典</a></p></td>
+<td><p>新人獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/MelOn_Music_Awards" title="wikilink">MelOn Music Awards</a></p></td>
+<td><p>Hot Trend獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -426,6 +517,9 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 <td><p>B:COMPLETE</p></td>
 </tr>
 <tr class="even">
+<td><p>6IXENSE</p></td>
+</tr>
+<tr class="odd">
 <td><ul>
 <li>「*」：打榜中</li>
 <li>「(1)」：兩星期冠軍</li>
@@ -443,8 +537,8 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 | 各台冠軍歌曲獎座統計                           |
 | ------------------------------------ |
 | [Mnet](../Page/Mnet媒體.md "wikilink") |
-| 0                                    |
-| 一位總數：2                               |
+| 1                                    |
+| 一位總數：6 **三台冠軍歌曲：1**                  |
 
 ## 備註與參考資料
 
@@ -489,4 +583,5 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 21.
 22.
 23.
-24. [1ST FANMEETING 1ST ABNEW TOUR](https://twitter.com/AB6IX/status/1135380600968212481%7Ctitle=AB6IX)
+24.
+25. [1ST FANMEETING 1ST ABNEW TOUR](https://twitter.com/AB6IX/status/1135380600968212481%7Ctitle=AB6IX)

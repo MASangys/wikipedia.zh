@@ -14,9 +14,9 @@
 
 ### 上海事業
 
-[祥茂洋行](../Page/祥茂洋行.md "wikilink")於1877年由[查爾斯·克勞姆](https://zh.wikipedia.org/wiki/查爾斯·克勞姆 "wikilink")（Charles Cromie）和白克的父親共同在[上海成立和擔任合夥人](https://zh.wikipedia.org/wiki/上海 "wikilink")，早期從事[生絲和](https://zh.wikipedia.org/wiki/生絲 "wikilink")[廢絲業務](https://zh.wikipedia.org/wiki/廢絲 "wikilink")，並設總部於[江西路](https://zh.wikipedia.org/wiki/江西路 "wikilink")。\[11\]\[12\]\[13\]其後祥茂逐步擴充，並包攬一般[進出口](https://zh.wikipedia.org/wiki/進出口 "wikilink")[貿易業務](https://zh.wikipedia.org/wiki/貿易 "wikilink")，而祥茂在華代理的進口貨品當中，較有名的包括由英國[高士奇父子公司](https://zh.wikipedia.org/wiki/高士奇父子公司 "wikilink")（William Gossage & Sons Ltd.）生產的各式[肥皂](../Page/肥皂.md "wikilink")。\[14\]
+[Tcitp_d633_a_r_burkill_&_sons.jpg](https://zh.wikipedia.org/wiki/File:Tcitp_d633_a_r_burkill_&_sons.jpg "fig:Tcitp_d633_a_r_burkill_&_sons.jpg")上的[祥茂洋行](../Page/祥茂洋行.md "wikilink")總部大樓\]\] [祥茂洋行](../Page/祥茂洋行.md "wikilink")於1877年由[查爾斯·克勞姆](https://zh.wikipedia.org/wiki/查爾斯·克勞姆 "wikilink")（Charles Cromie）和白克的父親共同在[上海成立和擔任合夥人](https://zh.wikipedia.org/wiki/上海 "wikilink")，早期從事[生絲和](https://zh.wikipedia.org/wiki/生絲 "wikilink")[廢絲業務](https://zh.wikipedia.org/wiki/廢絲 "wikilink")，並設總部於[江西路](https://zh.wikipedia.org/wiki/江西路 "wikilink")。\[11\]\[12\]\[13\]其後祥茂逐步擴充，並包攬一般[進出口](https://zh.wikipedia.org/wiki/進出口 "wikilink")[貿易業務](https://zh.wikipedia.org/wiki/貿易 "wikilink")，而祥茂在華代理的進口貨品當中，較有名的包括由英國[高士奇父子公司](https://zh.wikipedia.org/wiki/高士奇父子公司 "wikilink")（William Gossage & Sons Ltd.）生產的各式[肥皂](../Page/肥皂.md "wikilink")。\[14\]
 
-[Tcitp_d633_a_r_burkill_&_sons.jpg](https://zh.wikipedia.org/wiki/File:Tcitp_d633_a_r_burkill_&_sons.jpg "fig:Tcitp_d633_a_r_burkill_&_sons.jpg")上的[祥茂洋行](../Page/祥茂洋行.md "wikilink")總部大樓\]\] 後來，祥茂成為多家企業的代理，當中包括[英法產業有限公司](https://zh.wikipedia.org/wiki/英法產業有限公司 "wikilink")（Anglo-French Land Investment Company）、從事內河小型船運的[祥茂輪船公司](https://zh.wikipedia.org/wiki/祥茂輪船公司 "wikilink")（Cheang Mow Steamship Company）、[曼徹斯特保險公司](https://zh.wikipedia.org/wiki/曼徹斯特保險公司 "wikilink")（Manchester Assurance Company）和[皇家交易所保險公司](https://zh.wikipedia.org/wiki/皇家交易所保險公司 "wikilink")（Royal Exchange Assurance Corporation）等。\[15\]祥茂洋行的合夥人同時也代任[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[火神鐵機公司](https://zh.wikipedia.org/wiki/火神鐵機公司 "wikilink")（Vulcan Iron Works）在華的總經理，以及英商[江蘇藥水廠](https://zh.wikipedia.org/wiki/江蘇藥水廠 "wikilink")（Kiangsu Chemical Works）總公司[美查洋行](https://zh.wikipedia.org/wiki/美查洋行 "wikilink")（Major Bros., Ltd.）的秘書。\[16\]另外，透過英法產業有限公司，祥茂在上海租界，特別是[上海法租界](../Page/上海法租界.md "wikilink")，也擁有大批地產。\[17\]
+後來，祥茂成為多家企業的代理，當中包括[英法產業有限公司](https://zh.wikipedia.org/wiki/英法產業有限公司 "wikilink")（Anglo-French Land Investment Company）、從事內河小型船運的[祥茂輪船公司](https://zh.wikipedia.org/wiki/祥茂輪船公司 "wikilink")（Cheang Mow Steamship Company）、[曼徹斯特保險公司](https://zh.wikipedia.org/wiki/曼徹斯特保險公司 "wikilink")（Manchester Assurance Company）和[皇家交易所保險公司](https://zh.wikipedia.org/wiki/皇家交易所保險公司 "wikilink")（Royal Exchange Assurance Corporation）等。\[15\]祥茂洋行的合夥人同時也代任[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[火神鐵機公司](https://zh.wikipedia.org/wiki/火神鐵機公司 "wikilink")（Vulcan Iron Works）在華的總經理，以及英商[江蘇藥水廠](https://zh.wikipedia.org/wiki/江蘇藥水廠 "wikilink")（Kiangsu Chemical Works）總公司[美查洋行](https://zh.wikipedia.org/wiki/美查洋行 "wikilink")（Major Bros., Ltd.）的秘書。\[16\]另外，透過英法產業有限公司，祥茂在上海租界，特別是[上海法租界](../Page/上海法租界.md "wikilink")，也擁有大批地產。\[17\]
 
 白克在英國完成教育後，首於1892年返回上海加入祥茂洋行，成為[絲師](https://zh.wikipedia.org/wiki/絲師 "wikilink")（silk inspector）。\[18\]\[19\]克勞姆於1896年逝世後，白克與其胞弟翌年均獲父親安排成為新合夥人，而祥茂洋行的英文名稱也由原來的「Cromie and Burkill」改成「A. R. Burkill and Sons」，但中文名稱維持不變。\[20\]\[21\]\[22\]\[23\]1898年，白克的父親決定退休返英定居，於是祥茂由留守上海的白克和胞弟兩人全權打理。\[24\]\[25\]白克與其胞弟接手後，祥茂於1900年把總部由原來的江西路遷往[九江路一座更大的商業大樓](../Page/九江路_\(上海\).md "wikilink")；\[26\]後來又委任在祥茂工作多年的[陳炳謙為華總理](https://zh.wikipedia.org/wiki/陳炳謙 "wikilink")，協助拓展業務。\[27\]
 
@@ -28,7 +28,7 @@
 
 為加強保障英商在滬利益，包括[祥茂洋行](../Page/祥茂洋行.md "wikilink")在內等多家在滬英商在[第一次世界大戰期間發起成立一個專門代表英商的](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[商會](../Page/商會.md "wikilink")，促成[上海英商公會](https://zh.wikipedia.org/wiki/上海英商公會 "wikilink")（British Chamber of Commerce, Shanghai）在1915年成立，而參與公會的英商數目更在一年內由原來的60家躍增至250家。\[41\]成立之初，公會除選出[怡和洋行](../Page/怡和洋行.md "wikilink")的[約翰·約翰斯東](https://zh.wikipedia.org/wiki/約翰·約翰斯東 "wikilink")（John Johnstone）出任會長，又選出白克為副會長，而時任[英國駐上海總領事](https://zh.wikipedia.org/wiki/英國駐上海總領事 "wikilink")[法磊斯爵士則獲邀成為首任名譽主席](https://zh.wikipedia.org/wiki/法磊斯 "wikilink")。\[42\]1919年，白克當選接替約翰斯東出任主席，\[43\]至1921年由[太古洋行的](https://zh.wikipedia.org/wiki/太古洋行 "wikilink")[E·F·麥凱](https://zh.wikipedia.org/wiki/E·F·麥凱 "wikilink")（E. F. Mackay）接任。\[44\]麥凱出任一屆後，白克於1922年再度當選，直到1923年卸任後由[安利洋行的](https://zh.wikipedia.org/wiki/安利洋行 "wikilink")[H·E·安諾德](https://zh.wikipedia.org/wiki/H·E·安諾德 "wikilink")（H. E. Arnhold）接替，但留任會董一職。\[45\]\[46\]
 
-另一方面，[萬國商團作為上海租界的義勇軍](https://zh.wikipedia.org/wiki/萬國商團 "wikilink")，白克也長年參與中，曾任斥候騎兵隊名譽[中尉](../Page/中尉.md "wikilink")。\[47\]1927年1月，[國民政府](../Page/國民政府.md "wikilink")隨著[北伐強行收回](../Page/國民革命軍北伐.md "wikilink")[漢口英租界](https://zh.wikipedia.org/wiki/漢口英租界 "wikilink")，並向上海步步進迫。\[48\]鑒於局勢嚴峻，上海公共租界在[英國牽頭下於同月底成立](https://zh.wikipedia.org/wiki/英國 "wikilink")[上海防衛隊](https://zh.wikipedia.org/wiki/上海防衛隊 "wikilink")（Shanghai Defence Force）戒備，\[49\]從中得到白克的協助，當中包括協助安頓防衛隊和提供勞軍節目等。\[50\]\[51\]為肯定其對防衛隊的支援，白克於1929年獲英廷頒授[OBE勳銜](https://zh.wikipedia.org/wiki/英帝國官佐勳章 "wikilink")。\[52\]
+另一方面，[萬國商團作為上海租界的義勇軍](https://zh.wikipedia.org/wiki/萬國商團 "wikilink")，白克也長年參與其中，曾任斥候騎兵隊名譽[中尉](../Page/中尉.md "wikilink")。\[47\]1927年1月，[國民政府](../Page/國民政府.md "wikilink")隨著[北伐強行收回](../Page/國民革命軍北伐.md "wikilink")[漢口英租界](https://zh.wikipedia.org/wiki/漢口英租界 "wikilink")，並向上海步步進迫。\[48\]鑒於局勢嚴峻，上海公共租界在[英國牽頭下於同月底成立](https://zh.wikipedia.org/wiki/英國 "wikilink")[上海防衛隊](https://zh.wikipedia.org/wiki/上海防衛隊 "wikilink")（Shanghai Defence Force）戒備，\[49\]從中得到白克的協助，當中包括協助安頓防衛隊和提供勞軍節目等。\[50\]\[51\]為肯定其對防衛隊的支援，白克於1929年獲英廷頒授[OBE勳銜](https://zh.wikipedia.org/wiki/英帝國官佐勳章 "wikilink")。\[52\]
 
 ### 晚年生涯
 
@@ -130,185 +130,122 @@
 
 1.
 2.  "[England and Wales Birth Registration Index, 1837-2008: Albert Robson Burkill](https://www.familysearch.org/ark:/61903/1:1:2N3G-PRS)", *FamilySearch*, retrieved on 1 September 2019.
-
 3.  "[Death of Mr. A. R. Burkill](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19131213-1.2.107)", *The Straits Times*, 13 December 1913.
-
 4.  "Obituary: Mr A. R. Burkill", *North China Herald*, 6 December 1913.
-
 5.  "[Burkill, Albert Robson](https://probatesearch.service.gov.uk/Calendar#calendar)", *Calendar of Grants of Probate of Wills and Letters of Administration Made in the Probate Office and its District Registries, 1914*, 1915.
-
 6.  "[England and Wales Death Registration Index 1837-2007: Clementina C L Burkill](https://www.familysearch.org/ark:/61903/1:1:QVH6-2527)", *FamilySearch*, retrieved on 1 September 2019.
-
 7.  "[Journal of a Voyage to China by James Dow](https://archiveshub.jisc.ac.uk/search/archives/ef116088-cc93-3531-b882-3dfc19e871e5)", *Jisc Archives Hub*, retrieved on 1 September 2019.
-
 8.  *[The Saturday Review of Politics, Literature, Science, and Art](https://books.google.com.hk/books?id=ZDVUAAAAcAAJ)* Volume XXIX. London: Saturday Review, 1870.
-
 9.
 10. Compiled by Ezekiel, S., *[Leaders of Commerce, Industry and Thought in China](http://mhdb.mh.sinica.edu.tw/mhpeople/bookview.php?bookno=52)*. Shanghai: Geo. T. Lloyd, 1924.
-
 11.
 12.
 13.
 14. Edited by Wright, Arnold, *[Twentieth Century Impressions of Hongkong, Shanghai, and Other Treaty Ports of China: Their History, People, Commerce, Industries, and Resources](https://archive.org/details/twentiethcentury00wriguoft)*. London: Lloyds Greater Britain Publishing Company, 1908.
-
 15.
 16.
 17. Kong, Yuk Chui, *[Jewish merchants' community in Shanghai: a study of the Kadoorie Enterprise, 1890-1950](http://repository.hkbu.edu.hk/cgi/viewcontent.cgi?article=1417&context=etd_oa)*. Hong Kong: Hong Kong Baptist University HKBU Institutional Repository, 30 August 2017.
-
 18.
 19. *[The Directory & Chronicle for China, Japan, Corea, Indo-China, Straits Settlements, Malay States, Sian, Netherlands India, Borneo, the Philippines, \&c.](https://books.google.com.hk/books?id=f5VEAQAAMAAJ)*. Hong Kong: The Hongkong Daily Press Office, 1909.
-
 20.
 21.
 22.
 23. "[Charles Cromie, deceased](http://sunzi.lib.hku.hk/hkgro/view/g1896/640591.pdf)", *The Hongkong Government Gazette*, 14 November 1896.
-
 24.
 25.
 26.
 27.
 28. "[Karan Rubber Estate Co. - First Annual Meeting of a Shanghai Concern](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19110705-1.2.88)", *The Straits Times*, 5 July 1911.
-
 29. "[The Ketapang Syndicate, Ld - Expediting Survey Operations on Estate](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19101109-1.2.27)", *The Straits Times*, 9 November 1910.
-
 30. "Mr A. W. Burkill - Prominent S'hai Resident Passes - Keen Sportsman", *The South China Morning Post*, 22 January 1952.
-
 31.
 32. *[The Directory & Chronicle for China, Japan, Corea, Indo-China, Straits Settlements, Malay States, Sian, Netherlands India, Borneo, the Philippines, \&c.](https://babel.hathitrust.org/cgi/pt?id=uc1.$b581044)*. Hong Kong: The Hongkong Daily Press Office, 1922.
-
 33.
 34. 〈[上海公共租界工部局董事表](http://www.shtong.gov.cn/Newsite/node2/node2245/node63852/node63862/node63958/node64501/userobject1ai58073.html)〉。上海：上海市地方志辦公室，2003年8月28日。
-
 35.
 36.
 37.
 38.
 39. 上海市檔案館編，《[工部局董事會會議錄](https://www.virtualshanghai.net/Asset/Source/bnBook_ID-1225_No-1.pdf)》第十八冊。上海：上海古籍出版社，2001年。
-
 40.
 41. "[History](http://www.britishchambershanghai.org/en/about-history)", *The British Chamber of Commerce Shanghai*, retrieved on 1 September 2019.
-
 42. *British Chamber of Commerce Journal*, Volume 1. Shanghai: British Chamber of Commerce, 1915.
-
 43. *British Chamber of Commerce Journal*, Volume 5, Issue 9 - Volume 6, Issue 20. Shanghai: British Chamber of Commerce, 1920.
-
 44. *British Chamber of Commerce Journal*, Volume 7, Issues 1-5. Shanghai: British Chamber of Commerce, 1921.
-
 45. "Shanghai British Chamber - The New Committee", *The South China Morning Post*, 3 April 1923.
-
 46. *[The Comacrib Directory of China 1925](https://books.google.co.uk/books?id=Usg4AQAAIAAJ)*. Shanghai: Commercial & Credit Information Bureau, 1925.
-
 47.
 48. Chow, Phoebe, *[British Opinion and Policy towards China, 1922-1927](http://etheses.lse.ac.uk/228/1/chow_British_Opinion_and_Policy.pdf)*. London: London School of Economics and Political Science, November 2011.
-
 49.
 50.
 51. *The North China Herald*, 9 March 1929.
-
 52.
 53. *North China Daily News*, 15 May 1935.
-
 54. "Shanghai Race Club - Tribute to Mr. A. W. Burkill", *Hong Kong Daily Press*, 1 June 1935.
-
 55.
 56.
 57.
 58. "China Association Officers and Committee Appointed", *The South China Morning Post*, 16 May 1938.
-
 59. "Mr. A. W. Burkill Critical of Customs Pact and Japan's Acts", *The China Mail*, 5 May 1938.
-
 60. Friedman, Irving S., *[British Relations with China: 1931-1939](https://archive.org/details/in.ernet.dli.2015.190058)*. New York: International Secretariat, Institute of Pacific Relations, 1940.
-
 61.
 62.
 63.
 64. "Change of Address", *The South China Morning Post*, 30 December 1947.
-
 65. "Chou En-lai's debt of honour", *The South China Morning Post*, 8 December 1979.
-
 66. "Mr C. R. Burkill - Well-known Shanghai Resident Passes", *The South China Morning Post*, 28 February 1950.
-
 67. "Rubber crops", *The South China Morning Post*, 8 April 1970.
-
 68. "[The List of Local Responsible Persons (LRP)](http://search.mdco.gov.hk/english/sd/sd_lrp/sd_lrp_list.php?vghlsrvn=bvgnj6ubwvc4tawe&search=Burkill)", *Medical Device Control Office*. Hong Kong: The Department of Health, retrieved on 1 September 2019.
-
 69. "[Marriages Mar 1897: Burkill, Albert William](https://www.freebmd.org.uk/cgi/information.pl?cite=bR1zZ9XoZ6gwZN5DPrHEBg&scan=1)", *FreeBMD*, retrieved on 1 September 2019.
-
 70. "[Marriages Mar 1897: Kidd, Katherine](https://www.freebmd.org.uk/cgi/information.pl?cite=ByGRndEwVfKUBjHawPtPbg&scan=1)", *FreeBMD*, retrieved on 1 September 2019.
-
 71. "[England and Wales Death Registration Index 1837-2007: Katharine Burkill](https://www.familysearch.org/ark:/61903/1:1:QVHR-6Q5Z)", *FamilySearch*, retrieved on 1 September 2019.
-
 72.
 73.
 74.
 75.
 76. "Shanghai Wedding - Brand-Burkill", *The South China Morning Post*, 23 November 1920.
-
 77. "[Brand, David](https://www.hkmemory.hk/MHK/collections/hong_kong_cemetery/All_Items/images/201309/t20130912_67522_cht.html)", *Hong Kong Memory*, retrieved on 1 September 2019.
-
 78. "[England, Surrey Parish Registers, 1536-1992: John Kenneth Brand](https://www.familysearch.org/ark:/61903/1:1:QG8Z-WLY4)", *FamilySearch*, retrieved on 1 September 2019.
-
 79. "Jockey's Divorce - Mr. J. K. Brand Granted Decree at Shanghai", *The South China Morning Post*, 22 July 1931.
-
 80.
 81. *The South China Morning Post*, 28 July 1931.
-
 82.
 83. "[Registration of Death: Frederick Herbert Mayne](http://search-collections.royalbcmuseum.bc.ca/Image/Genealogy/9ebcd644-352d-44c8-ab84-a5de3c90d8bd)". Province of British Columbia, Canada: Division of Vital Satistics, Ministry of Health, 20 July 1992.
-
 84.
 85. "[British Armed Forces And Overseas Births And Baptisms: Albert Reginald Burkill](https://www.genesreunited.co.uk/search/results?sourcecategory=birthsutf002c%20marriages%20utf0026%20deaths&lastname=burkill&region=great%20britain&keyword=shanghai)", *Genes Reunited*, retrieved on 1 September 2019.
-
 86. "Deaths", *The North China Herald*, 6 May 1904.
-
 87. "[Alfred William Burkill (1873 - 1952)](http://www.treatyportsport.com/burkill--a-w--1892---1935-.html)", *The History of Sport Played in China's Treaty Ports*, retrieved on 1 September 2019.
-
 88. "Death of Mrs. A. W. Burkill", *The China Mail*, 20 December 1939.
-
 89.
 90. "Britiss", *The South China Morning Post*, 8 August 1941.
-
 91. "[England and Wales Death Registration Index 1837-2007: Catherine Isabelle M Burkill](https://www.familysearch.org/ark:/61903/1:1:QVZS-H6C9)", *FamilySearch*, retrieved on 1 September 2019.
-
 92. "London Engagement", *The South China Morning Post*, 12 July 1941.
-
 93.
 94.
 95.
 96. *[The Directory & Chronicle for China, Japan, Corea, Indo-China, Straits Settlements, Malay States, Sian, Netherlands India, Borneo, the Philippines, \&c.](https://www.chinafamilies.net/wp-content/uploads/2018/07/1906-Chronicle-and-Directory-for-China-Shanghai-24o3qov.pdf)*. Hong Kong: The Hongkong Daily Press Office, 1906.
-
 97. "A New Chairman - Mr. R. M. Saker Elected by Shanghai Rugby Club", *The South China Morning Post*, 23 October 1935.
-
 98.
 99.
 100.
 101. "[Derby of Hong Kong](https://racingmemories.hk/hottopics/derby-of-hong-kong/)", *Racing Memories*, retrieved on 1 September 2019.
-
 102.
 103. May, F. H., *Notes on Pony and Horse Racing in Hongkong*. Hong Kong: Noronha & Co., 1909.
-
 104. "The Late Mr. A. G. Stephen - Shanghai Appreciation - His Interests Outside Banking", *The South China Morning Post*, 2 September 1924.
-
 105.
 106. *North China Daily News*, 12 January 1924.
-
 107. "The Shanghai Turf - Mr. Burkill Gives Interesting Details of Racing History - Foundation Stone of New Club", *The South China Morning Post*, 29 May 1933.
-
 108.
 109.
 110.
 111. "Shanghai Race Club - Tribute to Mr. A. W. Burkill", *Hong Kong Daily Press*, 1 June 1935.
-
 112.
 113.
 114.
 115. "John Johnstone - A Leading Figure in China Trade and Sport - Shanghai Tributes", *The South China Morning Post*, 25 March 1935.
-
 116.
 117.
 118. "A New Sports Club - International Group Buy Burkill Property - Shanghai Enterprise", *The South China Morning Post*, 23 June 1932.
-
 119.
 120. *The North China Herald*, 4 October 1933.
-
 121. "[Supplement to Issue 33472](https://www.thegazette.co.uk/London/issue/33472/supplement/1443)", *London Gazette*, 26 February 1929.

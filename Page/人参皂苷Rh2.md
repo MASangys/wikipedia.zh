@@ -51,19 +51,12 @@ Rh2被证明可以在诱导多种类型细胞凋亡，它通过诱导人[肝癌]
 [Category:生物学](https://zh.wikipedia.org/wiki/Category:生物学 "wikilink") [Category:化学](https://zh.wikipedia.org/wiki/Category:化学 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.

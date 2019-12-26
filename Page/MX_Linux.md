@@ -28,76 +28,81 @@ MX-18系列中，MX Tools得到进一步发展，并引入了全新[内核](../P
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>MX-19</p></td>
+<td><p>2019年10月21日</p></td>
+<td><p>4.19.6</p></td>
+</tr>
+<tr class="even">
 <td><p>MX-18.3</p></td>
 <td><p>2019年5月26日</p></td>
 <td><p>4.19.5</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>MX-18.2</p></td>
 <td><p>2019年4月7日</p></td>
 <td><p>4.19.5</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>MX-18.1</p></td>
 <td><p>2019年2月9日</p></td>
 <td><p>4.19.5</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>MX-18</p></td>
 <td><p>2018年12月20日</p></td>
 <td><p>4.19.5</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>MX-17.1</p></td>
 <td><p>2018年3月14日</p></td>
 <td><p>4.15.4</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>MX-17</p></td>
 <td><p>2017年12月15日</p></td>
 <td><p>4.15.4</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>MX-16.1</p></td>
 <td><p>2017年6月8日</p></td>
 <td><p>4.7.8</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>MX-16</p></td>
 <td><p>2016年12月13日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>MX-15</p></td>
 <td><p>2015年12月24日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>MX-14.4</p></td>
 <td><p>2015年3月22日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>MX-14.3</p></td>
 <td><p>2014年12月3日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>MX-14.2</p></td>
 <td><p>2014年6月30日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>MX-14.1.1</p></td>
 <td><p>2014年6月18日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>MX-14</p></td>
 <td><p>2014年3月27日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>MX-14</p></td>
 <td><p>2014年3月24日</p></td>
 <td></td>
@@ -122,67 +127,39 @@ MX Linux通过发布一套名为MX Tools的面向用户的工具集而从Linux�
 [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink") [Category:基于Debian的发行版](https://zh.wikipedia.org/wiki/Category:基于Debian的发行版 "wikilink") [Category:2014年软件](https://zh.wikipedia.org/wiki/Category:2014年软件 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
 13. <http://www.dedoimedo.com/computers/antix-mx-14-3.html>  AntiX MX-14.3 review
-
 14.
-
 15.
-
 16.
 17.
 18.
-
 19.
-
 20.
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
 35.
-
 36.
-
 37.

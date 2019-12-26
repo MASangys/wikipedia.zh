@@ -9,7 +9,7 @@ Quartz自称是“全球化经济下的数码时代新闻提供商（*digitally 
 
 \== 参考资料 ==
 
-[Category:新闻网站](https://zh.wikipedia.org/wiki/Category:新闻网站 "wikilink") [Category:媒体](https://zh.wikipedia.org/wiki/Category:媒体 "wikilink")
+[Category:新闻网站](https://zh.wikipedia.org/wiki/Category:新闻网站 "wikilink") [Category:媒体](https://zh.wikipedia.org/wiki/Category:媒体 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
 
 1.
 2.

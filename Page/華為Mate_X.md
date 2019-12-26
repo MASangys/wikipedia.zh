@@ -4,11 +4,7 @@
 
 ## 延迟发售
 
-  - 2019年6月22日，华为终端手机产品线总裁何刚表示，Mate X中国大陆版本预计在7月底至8月初开售。
-
-<!-- end list -->
-
-  - 华为西欧地区总裁Vincent Pang表示，海外版Mate X最迟将在9月份推出。\[12\]
+  - 2019年11月15日，華為Mate X在中國大陸限量发售，配置為8GB內存搭載512GB存儲，价格是 16,999 元人民幣\[12\]。
 
 ## 参考资料
 
@@ -18,7 +14,7 @@
 
 ## 外部連結
 
-  - [Official website](https://consumer.huawei.com/en/phones/mate-x/)
+  - [官方網站](https://consumer.huawei.com/cn/phones/mate-x/)
 
   -
 [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:華為手機](https://zh.wikipedia.org/wiki/Category:華為手機 "wikilink") [Category:平板手机](https://zh.wikipedia.org/wiki/Category:平板手机 "wikilink") [Category:2019年面世的手機](https://zh.wikipedia.org/wiki/Category:2019年面世的手機 "wikilink") [Category:折叠手机](https://zh.wikipedia.org/wiki/Category:折叠手机 "wikilink")
@@ -34,4 +30,4 @@
 9.
 10.
 11.
-12.
+12. [华为 Mate X 国行售价 16,999 元](https://cn.engadget.com/2019/10/23/huawei-mate-x-china/)

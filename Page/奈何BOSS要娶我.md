@@ -136,7 +136,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/吳嵐" title="wikilink">吳嵐</a></p></td>
 <td><p>凌母</p></td>
-<td></td>
+<td><p>是凌異洲親生母親。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/侯培杰" title="wikilink">侯培杰</a></p></td>

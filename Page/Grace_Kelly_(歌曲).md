@@ -77,35 +77,20 @@
 [Category:2007年歌曲](https://zh.wikipedia.org/wiki/Category:2007年歌曲 "wikilink") [Category:英國音樂](https://zh.wikipedia.org/wiki/Category:英國音樂 "wikilink")
 
 1.  ["Top 40 Singles of the Year 2007"](http://www.bbc.co.uk/radio1/chart/singles2007.shtml). . Retrieved 2007-12-27
-
 2.  . ["Top 100 Hits List"](http://www.mtvasia.com/Funstuff/Contests/MTVTop100Hits2007/top100.html) . Retrieved 2007-12-27
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.

@@ -237,41 +237,29 @@
 
   - [AKB48 54th Single「NO WAY MAN」](https://www.akb48.co.jp/about/discography/detail_cd/?media_id=385)－AKB48官方網站
 
-  - [AKB48 54th Single「NO WAY MAN」收錄内容決定](http://akb.kingrecords.co.jp/cd/002755.html)－AKB48國王唱片官方網站
+  - [AKB48 54th Single「NO WAY MAN」收錄内容決定](https://web.archive.org/web/20181014204045/http://akb.kingrecords.co.jp/cd/002755.html)－AKB48國王唱片官方網站
 
   -
   -
   - [單曲介紹](https://store.warnermusic.com.tw/store/item/5475)－台灣華納音樂官方網站
 
-[Category:2018年單曲](https://zh.wikipedia.org/wiki/Category:2018年單曲 "wikilink") [Category:AKB48歌曲](https://zh.wikipedia.org/wiki/Category:AKB48歌曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink") [Category:2018年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Oricon單曲週榜冠軍作品 "wikilink") [Category:2018年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Oricon單曲月榜冠軍作品 "wikilink")
+[Category:2018年單曲](https://zh.wikipedia.org/wiki/Category:2018年單曲 "wikilink") [Category:AKB48歌曲](https://zh.wikipedia.org/wiki/Category:AKB48歌曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink") [Category:2018年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Oricon單曲週榜冠軍作品 "wikilink") [Category:2018年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2018年Oricon單曲月榜冠軍作品 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink")
 
 1.  [【\#AKB48】即將於11.28推出第54支單曲《NO WAY MAN》](https://www.facebook.com/WarnerMusicTaiwanJpop/photos/a.1516006791946372/2229167880630256/?type=3&theater)，台灣華納音樂JPOP臉書專頁，2018年11月10日
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.
 18.

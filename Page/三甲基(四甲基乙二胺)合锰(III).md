@@ -18,6 +18,5 @@
 [Category:乙二胺配合物](https://zh.wikipedia.org/wiki/Category:乙二胺配合物 "wikilink") [Category:2010年代发现的物质](https://zh.wikipedia.org/wiki/Category:2010年代发现的物质 "wikilink") [Category:烃基金属](https://zh.wikipedia.org/wiki/Category:烃基金属 "wikilink")
 
 1.
-
 2.
 3.

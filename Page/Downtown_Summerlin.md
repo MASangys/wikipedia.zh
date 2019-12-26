@@ -63,27 +63,16 @@ Downtown Summerlin经过精心设计，以满足[美國綠建築協會](https://
 [Category:维基数据存在坐标数据的页面](https://zh.wikipedia.org/wiki/Category:维基数据存在坐标数据的页面 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-14. <https://icsc.secure-platform.com/a/gallery/rounds/1/details/84>
+14.

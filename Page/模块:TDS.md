@@ -1,4 +1,4 @@
-\--\[=\[ 用來展示[模块:Template:Delete/data/sandbox](https://zh.wikipedia.org/wiki/模块:Template:Delete/data/sandbox "wikilink") 放在方針的準則比較可以寫在[模块:Template:Delete/data/sandbox](https://zh.wikipedia.org/wiki/模块:Template:Delete/data/sandbox "wikilink")，並使用：  |{{\#invoke:TDS|desc_new|項}} }} 更簡單的方式：  \]=\]-- local data = require( 'Module:Template:Delete/data/sandbox' )
+\--\[=\[ 用來展示[模块:Template:Delete/data/sandbox](https://zh.wikipedia.org/wiki/模块:Template:Delete/data/sandbox "wikilink") 放在方針的準則比較可以寫在[模块:Template:Delete/data/sandbox](https://zh.wikipedia.org/wiki/模块:Template:Delete/data/sandbox "wikilink")，並使用：  |{{\#invoke:TDS|desc_new|項}} }} 更簡單的方式：  \]=\]-- --local data = require( 'Module:Template:Delete/date' ) local datasb = require( 'Module:Template:Delete/data/sandbox' )
 
 local z = {}
 
@@ -32,7 +32,7 @@ function desc_new( frame, name, short )
 
 `   name = mw.text.trim( name ):upper()`
 `   wt = {}`
-`   for i, item in ipairs( data ) do`
+`   for i, item in ipairs( datasb ) do`
 `       if name == '' or #name == 1 and item[1]:sub( 1, 1 ) == name or item[1] == name then`
 `           if short then`
 `               para = extractShortDesc( item )`

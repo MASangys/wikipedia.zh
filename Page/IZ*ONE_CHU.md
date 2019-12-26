@@ -3,10 +3,10 @@
 ## 第一季
 
   - 記錄IZ\*ONE日常工作與合宿生活，記錄12位成員的宿舍趣事、製作專輯、出道Showcase、團長選舉等的幕後花絮。
-  - 宿舍在[首爾](../Page/首爾.md "wikilink")[江南區三成洞](../Page/江南區_\(首爾\).md "wikilink")\[6\]以六人為一組，為隔鄰單位鄰居，第一宿舍(203單位）\[7\]為權恩妃、姜惠元、崔叡娜、金彩元、金珉周、安兪真 （金珉周（上）、安兪真（下）兩人房，其她四人在一個房間。（金彩元（對門，上）、崔叡娜（對門，下）權恩妃（對窗，下）姜惠元（對窗，上）），第二宿舍（205單位）為宮脇咲良、李彩演、矢吹奈子、本田仁美、曺柔理、張元英 （李彩演（下格床）、本田仁美（上）兩人房，其她四人在一個房間。矢吹奈子（對窗，上）、張元英 （對窗，下）曺柔理（對門，上）、宮脇咲良（對門，下））。
+  - 宿舍在[首爾](../Page/首爾.md "wikilink")[江南區三成洞](../Page/江南區_\(首爾\).md "wikilink")\[6\]，以六人為一組，為隔鄰單位鄰居，第一宿舍(203單位）\[7\]為權恩妃、姜惠元、崔叡娜、金彩元、金珉周、安兪真 （金珉周（上）、安兪真（下）兩人房，其她四人在一個房間。（金彩元（對門，上）、崔叡娜（對門，下）權恩妃（對窗，下）姜惠元（對窗，上）），第二宿舍（205單位）為宮脇咲良、李彩演、矢吹奈子、本田仁美、曺柔理、張元英 （李彩演（下格床）、本田仁美（上）兩人房，其她四人在一個房間。矢吹奈子（對窗，上）、張元英 （對窗，下）曺柔理（對門，上）、宮脇咲良（對門，下））。
   - 出道前為增進團員感情，到訪本田仁美於[日本](../Page/日本.md "wikilink")[栃木縣](../Page/栃木縣.md "wikilink")的家和常去的旅館。
   - 出道前4天進行報恩Tour。權恩妃、安兪真、金珉周為[崔容俊](../Page/崔容俊.md "wikilink")老師報恩；姜惠元、矢吹奈子、本田仁美、曺柔理為[李洪基](../Page/李洪基.md "wikilink")、[韶宥和](https://zh.wikipedia.org/wiki/韶宥 "wikilink")《[Produce 48](https://zh.wikipedia.org/wiki/Produce_48 "wikilink")》忙內製作人報恩；張元英、金彩元、李彩演為裴允靜老師報恩；崔叡娜為家人報恩，宮脇咲良則為其他團員報恩。團隊也為120位粉絲開第一集首映禮。
-  - 出道第11天，擊敗[MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，迅速拿下《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》首位的花絮，當晚，[TWICE也因為](https://zh.wikipedia.org/wiki/TWICE "wikilink")《[YES or YES](https://zh.wikipedia.org/wiki/YES_or_YES "wikilink")》回歸，矢吹奈子、本田仁美也率先成功與之合照。
+  - 出道第11天，擊敗[MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，迅速拿下《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》首位的花絮，當晚，[TWICE也因為](https://zh.wikipedia.org/wiki/TWICE "wikilink")《[YES or YES](https://zh.wikipedia.org/wiki/YES_or_YES "wikilink")》回歸，作為粉絲的矢吹奈子、本田仁美也率先成功與之合照。
   - 公約：《Produce 48》 時期宿舍趣事。
 
 ### 集数列表

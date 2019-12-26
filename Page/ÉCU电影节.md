@@ -104,10 +104,10 @@
 ## 媒体报道
 
   - <http://www.france24.com/en/20110402-en-culture-europeanindependent-film-festival-scott-hillier-catherine-nicholson>
-  - <http://www.irishfilmboard.ie/irish_film_industry/news/Charlie_Casanova_to_have_European_premiere_at_ECU_Festival_in_Paris/1593>
+  - <https://web.archive.org/web/20160303171629/http://www.irishfilmboard.ie/irish_film_industry/news/Charlie_Casanova_to_have_European_premiere_at_ECU_Festival_in_Paris/1593>
   - <http://www.parisetudiant.com/etudiant/sortie/festival-europeen-du-film-independant-2.html>
   - <http://hungryeyemagazine.com/hungry-eye-newseuropean-independentfilm-festival-toshowcase-2011-winning-filmsin-tbilisi-georgia/>
-  - <http://futureinfilm.com/blog/european-independent-film-festival>
+  - <https://web.archive.org/web/20111105160641/http://www.futureinfilm.com/blog/european-independent-film-festival>
 
 <!-- end list -->
 

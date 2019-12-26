@@ -7,13 +7,14 @@ GNU Pth使用到内核空间线程的N:1映射，就是说调度是完全由GNU 
 ## 参见
 
   - [纤程](https://zh.wikipedia.org/wiki/纤程 "wikilink")
+  - [UPthreads](http://upthread.sourceforge.net)
 
 ## 引用
 
 ## 外部链接
 
   -
-  - [下载地址](ftp://ftp.gnu.org/gnu/pth/)
+  - [a collection of references to all known multithreading libraries for Unix operating systems.](https://www.gnu.org/software/pth/related.html)
 
 [Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink") [Category:C函式库](https://zh.wikipedia.org/wiki/Category:C函式库 "wikilink") [Category:GNU计划软件](https://zh.wikipedia.org/wiki/Category:GNU计划软件 "wikilink") [Category:执行绪](https://zh.wikipedia.org/wiki/Category:执行绪 "wikilink")
 

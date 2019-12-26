@@ -1,6 +1,6 @@
 是一款由[Marvelous Entertainment開發](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wikilink")，由[萬代南夢宮娛樂發行在](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")[任天堂Switch](../Page/任天堂Switch.md "wikilink")平台上的[模擬經營遊戲](https://zh.wikipedia.org/wiki/模擬經營遊戲 "wikilink")。為[牧場物語與](https://zh.wikipedia.org/wiki/牧場物語系列 "wikilink")[多啦A夢進行聯動合作的遊戲](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")。
 
-遊戲於2019年2月的[任天堂直面會上公佈相關消息](https://zh.wikipedia.org/wiki/任天堂直面會 "wikilink")，並於同年4月份確定會於2019年6月13日在[任天堂Switch](../Page/任天堂Switch.md "wikilink")平台發售（繁體中文版為2019年7月25日）。另外，還計劃在2019年秋季推出[Steam](../Page/Steam.md "wikilink")版本。
+遊戲於2019年2月的[任天堂直面會上公佈相關消息](https://zh.wikipedia.org/wiki/任天堂直面會 "wikilink")，並於同年4月份確定會於2019年6月13日在[任天堂Switch](../Page/任天堂Switch.md "wikilink")平台發售（繁體中文版為2019年7月25日）。另外也已於2019年10月11日推出繁中版[Steam](../Page/Steam.md "wikilink")版本。
 
 ## 概要
 
@@ -30,7 +30,7 @@
 
   - [官方網頁 (日本)](https://bd.bn-ent.net/)
 
-[Category:2019年電子遊戲](https://zh.wikipedia.org/wiki/Category:2019年電子遊戲 "wikilink") [Category:經營模擬遊戲](https://zh.wikipedia.org/wiki/Category:經營模擬遊戲 "wikilink") [Category:生活模擬遊戲](https://zh.wikipedia.org/wiki/Category:生活模擬遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:牧場物語系列](https://zh.wikipedia.org/wiki/Category:牧場物語系列 "wikilink") [Category:多啦A夢](https://zh.wikipedia.org/wiki/Category:多啦A夢 "wikilink") [Category:任天堂Switch遊戲](https://zh.wikipedia.org/wiki/Category:任天堂Switch遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化遊戲](https://zh.wikipedia.org/wiki/Category:官方繁体中文化遊戲 "wikilink")
+[Category:2019年電子遊戲](https://zh.wikipedia.org/wiki/Category:2019年電子遊戲 "wikilink") [Category:經營模擬遊戲](https://zh.wikipedia.org/wiki/Category:經營模擬遊戲 "wikilink") [Category:生活模擬遊戲](https://zh.wikipedia.org/wiki/Category:生活模擬遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:牧場物語系列](https://zh.wikipedia.org/wiki/Category:牧場物語系列 "wikilink") [Category:哆啦A夢改編電子遊戲](https://zh.wikipedia.org/wiki/Category:哆啦A夢改編電子遊戲 "wikilink") [Category:任天堂Switch遊戲](https://zh.wikipedia.org/wiki/Category:任天堂Switch遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化遊戲](https://zh.wikipedia.org/wiki/Category:官方繁体中文化遊戲 "wikilink")
 
 1.
 2.

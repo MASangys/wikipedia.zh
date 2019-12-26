@@ -33,34 +33,20 @@ BitchX在2004年发布的上一个版本中存在安全问题，允许远程IRC�
 [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink") [Category:IRC客户端](https://zh.wikipedia.org/wiki/Category:IRC客户端 "wikilink")
 
 1.   ("If you're already using Linux, then you have your choice of several (IRC) clients. BitchX is a popular one.")
-
 2.
-
 3.
 4.
 5.
-
 6.
-
 7.
 8.  [Review:BitchX (Amiga)](http://www.ircreviews.org/clients/bitchx.html), IRCreviews.org, Retrieved 2009-09-29 ("BitchX is favoured by many more experienced IRC users")
-
 9.  [A Day in the Life of \#Apache](http://www.osdir.com/Article4735.phtml) , OSDir.com (March 25, 2005), Retrieved 2009-09-29 ("XChat, mIRC, and bitchx are several popular clients")
-
 10. [How to use IRC guide](http://www.overclockersclub.com/guides/ircguide/), Overclockersclub.com (Dec. 4, 2006), Retrieved 2009-09-29 ("There are many different clients available, some of the more popular ones include BitchX, XChat, Trillian, BeserIRC, Klient ....")
-
 11. [What about P2P on \*nix?](http://www.broadbandreports.com/faq/5165), Broadbandreports.com (Sept. 13, 2002), Retrieved 2009-09-29 ("There are several IRC clients for Linux. Among the best are X-Chat and BitchX.")
-
 12. [BitchX Configuration Guide](http://www.linuxhelp.net/guides/bitchx/), Linuxhelp.net (last updated Sept. 19, 2003), Retrieved 2009-09-29 ("BitchX is one of the most popular IRC Client available today for \*nix systems.")
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.

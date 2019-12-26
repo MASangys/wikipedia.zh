@@ -46,6 +46,8 @@ PSH-77在1990年代由特別反恐單位所使用\[12\]。
 
   -   - [克格勃](https://zh.wikipedia.org/wiki/克格勃 "wikilink")[阿爾法小組](../Page/阿爾法小組.md "wikilink")、[信號旗小組](https://zh.wikipedia.org/wiki/信號旗特種部隊 "wikilink")
 
+  -   - 憲兵特種部隊
+
   -   - [烏克蘭安全局](https://zh.wikipedia.org/wiki/烏克蘭安全局 "wikilink")[阿爾法小組](../Page/阿爾法小組_\(烏克蘭\).md "wikilink")
 
   -   - 特別反恐單位
@@ -67,7 +69,6 @@ PSH-77在1990年代由特別反恐單位所使用\[12\]。
 [Category:戰鬥頭盔](https://zh.wikipedia.org/wiki/Category:戰鬥頭盔 "wikilink") [Category:瑞士軍事](https://zh.wikipedia.org/wiki/Category:瑞士軍事 "wikilink")
 
 1.  [Equipment Wiki - PSH-77](https://equipment.fandom.com/wiki/PSH-77)
-
 2.
 3.
 4.
@@ -77,7 +78,5 @@ PSH-77在1990年代由特別反恐單位所使用\[12\]。
 8.
 9.
 10. [Loadout Room - Russian SOF Gear - Altyn Helmet](https://loadoutroom.com/20564/russian-sof-gear-altyn-helmet-2/)
-
 11. [Equipment Wiki - Altyn Helmet](https://equipment.fandom.com/wiki/Altyn)
-
 12.

@@ -1,4 +1,4 @@
-《**Clé 1 : MIROH**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids的第四張韓語迷你專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為[iRiver](https://zh.wikipedia.org/wiki/iRiver "wikilink")，於2019年3月25日發行。主打歌為〈MIROH〉，由成員方燦、彰彬、Han參與詞曲創作。
+《**Clé 1 : MIROH**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids的第四張韓語迷你專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為[iRiver](https://zh.wikipedia.org/wiki/iRiver "wikilink")，於2019年3月25日發行。主打歌為〈MIROH〉，由成員方燦、彰彬、HAN參與詞曲創作。
 
 ## 背景
 
@@ -12,7 +12,7 @@
 
 3月14日釋出Lee Know、彰彬、Felix個人概念照。
 
-3月15日釋出宇珍、Han、昇玟個人概念照。
+3月15日釋出宇珍、HAN、昇玟個人概念照。
 
 3月16日釋出UNIT概念照。
 
@@ -38,7 +38,7 @@
 
 在2018年的《I am》系列專輯作品中，Stray Kids唱出深淵中的煩惱，表現了不安少年的樣子，而在此新專輯中融入了Stray Kids的勇氣與挑戰，唱出從少年到成年，邁向人生另一步，面對新世界的熱情；對於自己的存在而感到苦惱的少年們，與同樣感到苦惱的「你(YOU)」一起逃離屬於我們的空間(District 9)，前往像叢林般冷漠險峻的都市「MIROH」\[2\]。
 新專輯名稱《Clé 1 : MIROH》的「Clé」在法語中的意思為「鑰匙」；而「MIROH」則是Stray Kids親自創造的詞，透過英文「Maze」來表達未知，以韓語表達就是「미로(MIRO)」，韓文意思為「迷宮」，再根據Stray Kids的做法不同，地點可能會變成「Hell」，也可能會變成「Heaven」，所以在「MIRO」後面加上「H」組成〈MIROH〉\[3\]。
-主打歌〈MIROH〉是一首比起恐懼，以對自己的信任和勇氣，在險峻叢林般的「迷宮」裡邁出第一步，充滿著Stray Kids的霸氣和抱負，可以感受到融合[Hip-hop與](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")[EDM曲風的絕妙組合的歌曲](https://zh.wikipedia.org/wiki/EDM "wikilink")\[4\]，表演中更融入了紐西蘭傳統舞蹈[哈卡舞](../Page/哈卡舞.md "wikilink")與[多米諾骨牌舞蹈技術等](https://zh.wikipedia.org/wiki/多米諾骨牌 "wikilink")，嘗試了新的舞蹈風格\[5\]。
+主打歌〈MIROH〉是一首比起恐懼，以對自己的信任和勇氣，在險峻叢林般的「迷宮」裡邁出第一步，充滿著Stray Kids的霸氣和抱負，可以感受到融合[Hip-hop與](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")[EDM曲風的絕妙組合的歌曲](../Page/電子舞曲.md "wikilink")\[4\]，表演中更融入了紐西蘭傳統舞蹈[哈卡舞](../Page/哈卡舞.md "wikilink")與[多米諾骨牌舞蹈技術等](https://zh.wikipedia.org/wiki/多米諾骨牌 "wikilink")，嘗試了新的舞蹈風格\[5\]。
 
 ### 發行版本
 
@@ -73,6 +73,85 @@
 | 4月15日                                                                                                 | [Stray Kids "Chronosaurus" Video](https://www.youtube.com/watch?v=12N0qEr_RGk)                                      |          |
 | 4月19日                                                                                                 | [Stray Kids "Mixtape\#4" Video (Street Ver.)](https://www.youtube.com/watch?v=gWaCN9vpRK8)                          |          |
 
+## 音樂現場
+
+<table>
+<thead>
+<tr class="header">
+<th><p>節目名稱</p></th>
+<th><p>電視台</p></th>
+<th><p>日期</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>MIROH</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p>3月28日[6]、4月4日[7]、4月11日[8]、4月18日[9]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
+<td><p>3月29日[10]、4月5日[11]、4月12日[12]、4月19日[13]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p>3月30日[14]、4月6日[15]、4月13日[16]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a></p></td>
+<td><p>3月31日[17]、4月7日[18]、4月14日[19]、4月21日[20]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
+<td></td>
+<td><p>4月3日[21]、4月10日[22]、4月17日[23]</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿里郎電視台" title="wikilink">ARIRANG TV</a></p></td>
+<td><p>4月5日[24]、4月12日[25]</p></td>
+</tr>
+<tr class="even">
+<td><p>勝戰歌（승전가／Victory Song）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p>3月28日[26]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
+<td><p>3月29日[27]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p>3月30日[28]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a></p></td>
+<td><p>3月31日[29]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
+<td></td>
+<td><p>4月3日[30]</p></td>
+</tr>
+</tbody>
+</table>
+
 ## 榜單成績
 
 <table>
@@ -94,13 +173,13 @@
 <td><p>專輯週榜</p></td>
 <td><p>2019年3月24日－30日</p></td>
 <td><p><strong>#1</strong></p></td>
-<td><p>159,117+[6]</p></td>
-<td><p>[7]</p></td>
+<td><p>163,254+[31]</p></td>
+<td><p>[32]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年3月31日－4月6日</p></td>
 <td><p>#9</p></td>
-<td><p>[8]</p></td>
+<td><p>[33]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -109,7 +188,7 @@
 <tr class="odd">
 <td><p>2019年4月7日－4月13日</p></td>
 <td><p>#4</p></td>
-<td><p>[9]</p></td>
+<td><p>[34]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -118,7 +197,7 @@
 <tr class="even">
 <td><p>2019年4月14日－4月20日</p></td>
 <td><p>#5</p></td>
-<td><p>[10]</p></td>
+<td><p>[35]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -127,7 +206,7 @@
 <tr class="odd">
 <td><p>2019年4月21日－4月27日</p></td>
 <td><p>#8</p></td>
-<td><p>[11]</p></td>
+<td><p>[36]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -137,7 +216,7 @@
 <td><p>專輯月榜</p></td>
 <td><p>2019年3月</p></td>
 <td><p>#2</p></td>
-<td><p>[12]</p></td>
+<td><p>[37]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -146,7 +225,7 @@
 <td><p>專輯上半年榜</p></td>
 <td><p>2019年1月－6月</p></td>
 <td><p>#15</p></td>
-<td><p>[13]</p></td>
+<td><p>[38]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -158,7 +237,7 @@
 <td><p>2019年3月22日－28日</p></td>
 <td><p><strong>#1</strong></p></td>
 <td><p>16.39%</p></td>
-<td><p>[14]</p></td>
+<td><p>[39]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年3月29日－4月4日</p></td>
@@ -176,7 +255,7 @@
 <td><p> </p></td>
 <td><p>#3</p></td>
 <td></td>
-<td><p>[15]</p></td>
+<td><p>[40]</p></td>
 </tr>
 <tr class="odd">
 <td><p>日本</p></td>
@@ -185,7 +264,7 @@
 <td><p>2019年3月25日－31日</p></td>
 <td><p>#15</p></td>
 <td><p>5,856+</p></td>
-<td><p>[16][17]</p></td>
+<td><p>[41][42]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -250,10 +329,9 @@
 ## 外部連結
 
   - [Stray Kids官方網站](http://straykids.jype.com/)
-
-  - [Stray Kids 【INTRO: Clé 1 : MIROH】](https://www.vlive.tv/video/118817)
-
-  -
+  - [Stray Kids \[INTRO "Clé 1 : MIROH"\]](https://www.youtube.com/watch?v=l3x2u_bHFA0)
+  - [Pre-TALK "JYP X 3RACHA"](https://www.youtube.com/watch?v=gxc7Y8qysHE)
+  - [Stray Kids 'Clé 1 : MIROH' UNVEIL Teaser](https://www.youtube.com/watch?v=xH3CEcSojbg)
   - [Stray Kids <UNVEIL THE MIROH>](https://www.vlive.tv/video/119449)
 
 [Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink") [Category:Stray_Kids音樂專輯](https://zh.wikipedia.org/wiki/Category:Stray_Kids音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2019年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯週榜冠軍作品 "wikilink")
@@ -263,10 +341,10 @@
 3.
 4.
 5.
-6.
-7.
-8.
-9.
+6.   M COUNTDOWN 190328 EP.612|date=2019-03-28|url=<https://www.youtube.com/watch?v=iaZVDd6QbbA>}}
+7.   M COUNTDOWN 190404 EP.613|date=2019-04-04|url=<https://www.youtube.com/watch?v=z7kDkXmexp8>}}
+8.   M COUNTDOWN 190411 EP.614|date=2019-04-11|url=<https://www.youtube.com/watch?v=Suru-AnTiuA>}}
+9.   M COUNTDOWN 190418 EP.615|date=2019-04-18|url=<https://www.youtube.com/watch?v=GLUB73NU81A>}}
 10.
 11.
 12.
@@ -275,3 +353,28 @@
 15.
 16.
 17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.  M COUNTDOWN 190328 EP.612|date=2019-03-28|url=<https://www.youtube.com/watch?v=thr6L8sIBHI>}}
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.

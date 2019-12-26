@@ -41,27 +41,17 @@
 [Category:俄亥俄州立大學校友](https://zh.wikipedia.org/wiki/Category:俄亥俄州立大學校友 "wikilink") [Category:聚合物科學家和工程師](https://zh.wikipedia.org/wiki/Category:聚合物科學家和工程師 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.

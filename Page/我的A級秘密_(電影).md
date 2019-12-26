@@ -36,9 +36,6 @@
 [Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:美國電影作品](https://zh.wikipedia.org/wiki/Category:美國電影作品 "wikilink") [Category:2019年美國電影](https://zh.wikipedia.org/wiki/Category:2019年美國電影 "wikilink") [Category:2010年代浪漫喜劇片](https://zh.wikipedia.org/wiki/Category:2010年代浪漫喜劇片 "wikilink") [Category:美國浪漫喜劇片](https://zh.wikipedia.org/wiki/Category:美國浪漫喜劇片 "wikilink") [Category:英国小说改编电影](https://zh.wikipedia.org/wiki/Category:英国小说改编电影 "wikilink") [Category:紐約市取景電影](https://zh.wikipedia.org/wiki/Category:紐約市取景電影 "wikilink") [Category:紐約市背景電影](https://zh.wikipedia.org/wiki/Category:紐約市背景電影 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

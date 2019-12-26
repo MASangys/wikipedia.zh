@@ -233,21 +233,13 @@ group="" responsive="1"
 [Category:德國品牌](https://zh.wikipedia.org/wiki/Category:德國品牌 "wikilink") [Category:美國電子公司](https://zh.wikipedia.org/wiki/Category:美國電子公司 "wikilink") [Category:德國電子公司](https://zh.wikipedia.org/wiki/Category:德國電子公司 "wikilink") [Category:美國科技公司](https://zh.wikipedia.org/wiki/Category:美國科技公司 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11. [Bayerischer Qualitätspreis 2008](http://www.bayerischer-qualitaetspreis.de/preistraeger.shtml)

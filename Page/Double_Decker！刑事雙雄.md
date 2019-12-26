@@ -321,7 +321,5 @@
 [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:2018年UHF動畫](https://zh.wikipedia.org/wiki/Category:2018年UHF動畫 "wikilink") [Category:警察主角題材動畫](https://zh.wikipedia.org/wiki/Category:警察主角題材動畫 "wikilink") [Category:犯罪题材作品](https://zh.wikipedia.org/wiki/Category:犯罪题材作品 "wikilink") [Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink") [Category:桂正和](https://zh.wikipedia.org/wiki/Category:桂正和 "wikilink") [Category:警察主角題材漫畫](https://zh.wikipedia.org/wiki/Category:警察主角題材漫畫 "wikilink") [Category:犯罪漫畫](https://zh.wikipedia.org/wiki/Category:犯罪漫畫 "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink") [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 
 1.
-
 2.
-
 3.

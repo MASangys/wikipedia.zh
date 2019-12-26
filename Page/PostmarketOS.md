@@ -9,22 +9,13 @@ Plasma-mobile-hammerhead 01.jpg|[Plasma Mobile](https://zh.wikipedia.org/wiki/Pl
 [Category:行動作業系統](https://zh.wikipedia.org/wiki/Category:行動作業系統 "wikilink") [Category:嵌入式Linux發行版](https://zh.wikipedia.org/wiki/Category:嵌入式Linux發行版 "wikilink") [Category:開放原始碼](https://zh.wikipedia.org/wiki/Category:開放原始碼 "wikilink") [Category:軟體復刻](https://zh.wikipedia.org/wiki/Category:軟體復刻 "wikilink") [Category:自由移動軟體](https://zh.wikipedia.org/wiki/Category:自由移動軟體 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  [14:00 Plasma Mobile - Bhushan Shah, Akademy 2017. 20 Nov 2017](http://ftp.icm.edu.pl/packages/kde-applicationdata/akademy/2017/364-plasma-mobile.mp4)
-
 9.
-
 10.
-
 11.

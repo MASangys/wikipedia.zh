@@ -91,7 +91,7 @@ BVCL-930（通常盘）</p></td>
   -
   -
   -
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:2015年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2015年成立的音乐团体 "wikilink") [Category:日本索尼音乐娱乐旗下艺人](https://zh.wikipedia.org/wiki/Category:日本索尼音乐娱乐旗下艺人 "wikilink")
+[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink") [Category:2015年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2015年成立的音乐团体 "wikilink") [Category:日本索尼音乐娱乐旗下艺人](https://zh.wikipedia.org/wiki/Category:日本索尼音乐娱乐旗下艺人 "wikilink")
 
 1.
 2.

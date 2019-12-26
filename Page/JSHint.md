@@ -20,22 +20,13 @@ JSHint是在MIT许可下发布的，除了一个仍属于“[JSLint许可证](ht
 [Category:JavaScript](https://zh.wikipedia.org/wiki/Category:JavaScript "wikilink") [Category:静态代码分析工具](https://zh.wikipedia.org/wiki/Category:静态代码分析工具 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11. <https://www.gnu.org/licenses/license-list.en.html#JSON> see the comment about the JSON license

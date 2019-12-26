@@ -1,4 +1,4 @@
-《**大灣區 活好D**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的一個介紹[粵港澳大灣區的旅遊節目](https://zh.wikipedia.org/wiki/粵港澳大灣區 "wikilink")，共2輯，第一輯在2018年9月25日至10月6日22:30至23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出。節目由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明](../Page/陸浩明.md "wikilink")、[林泳淘](../Page/林泳淘.md "wikilink")、[黃美棋](../Page/黃美棋.md "wikilink")、[林伊麗](../Page/林伊麗.md "wikilink")、[張美妮](../Page/張美妮.md "wikilink")、[蔣家旻](../Page/蔣家旻.md "wikilink")、[胡諾言](../Page/胡諾言.md "wikilink")、[林子博](../Page/林子博.md "wikilink")、[游茛維擔任主持](https://zh.wikipedia.org/wiki/游茛維 "wikilink")\[1\]\[2\]\[3\]。第二輯在2019年3月3日至5月5日22:30至23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出。節目由陸浩明、[衛志豪](../Page/衛志豪.md "wikilink")、[區永權](../Page/區永權.md "wikilink")、胡諾言、[陳詩欣](../Page/陳詩欣_\(香港\).md "wikilink")、[魏-{韵}-芝](../Page/魏韵芝.md "wikilink")、[鄧以婷](../Page/鄧以婷.md "wikilink")、[黃美棋](../Page/黃美棋.md "wikilink")、[謝㺭圻](../Page/謝㺭圻.md "wikilink")、[鄭衍峰](../Page/鄭衍峰.md "wikilink")擔任主持。第2輯為[TVB影視展星勢](../Page/TVB影視展星勢.md "wikilink")綜藝節目之一。
+《**大灣區 活好D**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的一個介紹[粵港澳大灣區的旅遊節目](https://zh.wikipedia.org/wiki/粵港澳大灣區 "wikilink")，共2輯，第一輯在2018年9月25日至10月6日22:30至23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出。節目由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明](../Page/陸浩明.md "wikilink")、[林泳淘](../Page/林泳淘.md "wikilink")、[黃美棋](../Page/黃美棋.md "wikilink")、[林伊麗](../Page/林伊麗.md "wikilink")、[張美妮](../Page/張美妮.md "wikilink")、[蔣家旻](../Page/蔣家旻.md "wikilink")、[胡諾言](../Page/胡諾言.md "wikilink")、[林子博](../Page/林子博.md "wikilink")、[游茛維擔任主持](https://zh.wikipedia.org/wiki/游茛維 "wikilink")\[1\]\[2\]\[3\]。第二輯在2019年3月3日至5月5日22:30至23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出。節目由陸浩明、[衛志豪](../Page/衛志豪.md "wikilink")、[區永權](../Page/區永權.md "wikilink")、胡諾言、[陳詩欣](../Page/陳詩欣_\(香港\).md "wikilink")、[魏-{韵}-芝](../Page/魏韵芝.md "wikilink")、[鄧以婷](../Page/鄧以婷.md "wikilink")、[黃美棋](../Page/黃美棋.md "wikilink")、[謝芷倫](../Page/謝芷倫.md "wikilink")、[鄭衍峰](../Page/鄭衍峰.md "wikilink")擔任主持。第2輯為[TVB影視展星勢](../Page/TVB影視展星勢.md "wikilink")綜藝節目之一。
 
 節目第一輯與第二輯不同之處在於第一輯除旅遊資訊外，以大灣區各城市置業投資機會作重點推介，節目主持[肥媽](../Page/肥媽.md "wikilink")還在節目中以六十余萬購置了[江門](https://zh.wikipedia.org/wiki/江門 "wikilink")[台山樓盤](https://zh.wikipedia.org/wiki/台山 "wikilink")「御海蓮花」的一個單位。
 
@@ -116,14 +116,14 @@
 <td><p>6月2日</p></td>
 <td><p>深圳遊主題麵包店 中山品嚐最鮮美食</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/深圳" title="wikilink">深圳</a>：麪包烘焙工坊、<a href="https://zh.wikipedia.org/wiki/觀瀾湖" title="wikilink">觀瀾湖</a>；<a href="../Page/中山市.md" title="wikilink">中山</a>：偉丰生態農場、<a href="https://zh.wikipedia.org/wiki/神灣" title="wikilink">神灣</a><a href="../Page/菠蘿.md" title="wikilink">菠蘿</a>果場</p></td>
-<td><p>黃美棋、胡諾言、<a href="../Page/謝㺭圻.md" title="wikilink">謝㺭圻</a>、<a href="../Page/鄭衍峰.md" title="wikilink">鄭衍峰</a></p></td>
+<td><p>黃美棋、胡諾言、<a href="../Page/謝芷倫.md" title="wikilink">謝芷倫</a>、<a href="../Page/鄭衍峰.md" title="wikilink">鄭衍峰</a></p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
 <td><p>6月16日</p></td>
 <td><p>中山親子同樂遊</p></td>
 <td><p><a href="../Page/中山市.md" title="wikilink">中山</a>：<a href="https://zh.wikipedia.org/wiki/三角鎮_(中山市)" title="wikilink">三角鎮迪茵湖</a>、<a href="https://zh.wikipedia.org/wiki/南朗鎮" title="wikilink">南朗鎮崖口食街</a>、<a href="https://zh.wikipedia.org/wiki/長江水世界" title="wikilink">長江水世界</a>、中山<a href="https://zh.wikipedia.org/wiki/希爾頓酒店" title="wikilink">希爾頓酒店</a>、中山<a href="https://zh.wikipedia.org/wiki/幻彩摩天輪" title="wikilink">幻彩摩天輪</a></p></td>
-<td><p>謝㺭圻、鄭衍峰</p></td>
+<td><p>謝芷倫、鄭衍峰</p></td>
 </tr>
 </tbody>
 </table>

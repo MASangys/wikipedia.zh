@@ -26,12 +26,8 @@ DIC川村纪念美术馆除平日展览外，还举办了一系列的特别活�
 [Category:千叶县博物馆](https://zh.wikipedia.org/wiki/Category:千叶县博物馆 "wikilink") [Category:日本美术馆](https://zh.wikipedia.org/wiki/Category:日本美术馆 "wikilink") [Category:佐倉市](https://zh.wikipedia.org/wiki/Category:佐倉市 "wikilink") [Category:BCS獎](https://zh.wikipedia.org/wiki/Category:BCS獎 "wikilink") [Category:1990年完工建築物](https://zh.wikipedia.org/wiki/Category:1990年完工建築物 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.

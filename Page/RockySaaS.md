@@ -1,4 +1,4 @@
-**RockySaaS**是盘石集團旗下負責[SaaS產品研發](https://zh.wikipedia.org/wiki/SaaS "wikilink")、運營的全資[子公司](../Page/子公司.md "wikilink")，由盘石創始人兼[董事長](../Page/董事長.md "wikilink")田宁於2011年創立\[1\]。公司的總部位於[中國](../Page/中國.md "wikilink")[杭州](https://zh.wikipedia.org/wiki/杭州 "wikilink")，並在[北京設有分公司](https://zh.wikipedia.org/wiki/北京 "wikilink")。其業務現已拓展至社交、HR、金融、資訊、平臺和資料等不同領域\[2\]。
+**RockySaaS**是盘石集團旗下負責[SaaS產品研發](https://zh.wikipedia.org/wiki/SaaS "wikilink")、運營的全資[子公司](../Page/子公司.md "wikilink")，由盘石創始人兼[董事長](../Page/董事長.md "wikilink")田宁於2011年創立\[1\]。公司的總部位於[中國](../Page/中國.md "wikilink")[杭州](https://zh.wikipedia.org/wiki/杭州 "wikilink")，並在[北京設有分公司](https://zh.wikipedia.org/wiki/北京 "wikilink")。其業務現已拓展至社交、HR、資訊、平臺和資料等不同領域\[2\]。
 
 ## 發展歷程
 
@@ -22,7 +22,7 @@
 
 ## 主要产品
 
-RockySaaS拥有电商、CRM、营销、信用、社交、金融、办公、HR、财务共九种SaaS产品\[11\]。
+RockySaaS拥有电商、CRM、营销、信用、社交、办公、HR、财务共八种SaaS产品\[11\]。
 
 其中电商SaaS为商家提供全行业覆盖的一站式电商管理解决方案；社交SaaS为企业提供智能便社交营销的解决方案；办公SaaS：为企业打通[PC端和移动端](../Page/个人电脑.md "wikilink")，实现随时随地移动办公；财务SaaS：为企业提供可提供定制化的智能解决方案等，每种SaaS都有不同的用途\[12\]。
 

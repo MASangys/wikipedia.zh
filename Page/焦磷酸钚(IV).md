@@ -21,10 +21,7 @@
 [Category:钚化合物](https://zh.wikipedia.org/wiki/Category:钚化合物 "wikilink") [Category:焦磷酸盐](https://zh.wikipedia.org/wiki/Category:焦磷酸盐 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.

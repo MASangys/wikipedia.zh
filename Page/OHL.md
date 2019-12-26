@@ -63,25 +63,16 @@ OHL公司最早可以追溯到成立于1911年5月的奥夫拉斯孔建筑公司
 [Category:西班牙建築公司](https://zh.wikipedia.org/wiki/Category:西班牙建築公司 "wikilink") [Category:马德里公司](https://zh.wikipedia.org/wiki/Category:马德里公司 "wikilink") [Category:总部在西班牙的跨国公司](https://zh.wikipedia.org/wiki/Category:总部在西班牙的跨国公司 "wikilink") [Category:1999年西班牙建立](https://zh.wikipedia.org/wiki/Category:1999年西班牙建立 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
 8.
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.

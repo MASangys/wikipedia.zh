@@ -52,61 +52,34 @@
 [Category:乘車智能卡](https://zh.wikipedia.org/wiki/Category:乘車智能卡 "wikilink") [Category:紐約市巴士](https://zh.wikipedia.org/wiki/Category:紐約市巴士 "wikilink") [Category:2019年面世的產品](https://zh.wikipedia.org/wiki/Category:2019年面世的產品 "wikilink") [Category:大都會運輸署](https://zh.wikipedia.org/wiki/Category:大都會運輸署 "wikilink") [Category:紐約地鐵](https://zh.wikipedia.org/wiki/Category:紐約地鐵 "wikilink") [Category:MTA區域巴士營運](https://zh.wikipedia.org/wiki/Category:MTA區域巴士營運 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.   news {{\!}} MTA Launches Smart Card Pilot Program|url = [http://www.mta.info/news/2010/05/28/mta-launches-smart-card-pilot-program|website](http://www.mta.info/news/2010/05/28/mta-launches-smart-card-pilot-program%7Cwebsite) = www.mta.info|access-date = 2016-02-10|archive-url = [https://web.archive.org/web/20160303131615/http://www.mta.info/news/2010/05/28/mta-launches-smart-card-pilot-program|archive-date](https://web.archive.org/web/20160303131615/http://www.mta.info/news/2010/05/28/mta-launches-smart-card-pilot-program%7Carchive-date) = 2016-03-03|dead-url = no}}
-
 6.   – MTA's YouTube website. Retrieved June 1, 2010.
-
 7.   – Mastercard Worldwide YouTube website. Made May 28, 2010. Retrieved June 3, 2010.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
 21.
-
 22.
-
 23.
-
 24. 測試車站沿線的[大中央-42街至](https://zh.wikipedia.org/wiki/大中央-42街車站 "wikilink")[大西洋大道-巴克萊中心](../Page/大西洋大道-巴克萊中心車站.md "wikilink")。
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
 31.
 32.

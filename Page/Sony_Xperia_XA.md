@@ -42,9 +42,9 @@ Xperia XA出厂预装了[Android 6.0.1 Marshmallow与索尼移动开发的自定
   -
   - [官方新闻稿](http://blogs.sonymobile.com/press_release/sony-mobile-introduces-an-evolution-of-the-xperia-brand-to-redefine-communications/)
 
-  - [官方白皮书](https://dl.developer.sonymobile.com/documentation/whitepapers/Xperia%20XA_WP_4.pdf)
+  - [官方白皮书](https://web.archive.org/web/20170729051402/https://dl.developer.sonymobile.com/documentation/whitepapers/Xperia%20XA_WP_4.pdf)
 
-  - [官方白皮书(双SIM卡型号)](https://dl.developer.sonymobile.com/documentation/whitepapers/Xperia%20XA%20Dual_WP_4.pdf)
+  - [官方白皮书(双SIM卡型号)](https://web.archive.org/web/20170729004000/https://dl.developer.sonymobile.com/documentation/whitepapers/Xperia%20XA%20Dual_WP_4.pdf)
 
 [Category:引文格式1错误：缺少作者或编者](https://zh.wikipedia.org/wiki/Category:引文格式1错误：缺少作者或编者 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:数字音频播放器](https://zh.wikipedia.org/wiki/Category:数字音频播放器 "wikilink") [Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
 

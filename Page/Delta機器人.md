@@ -55,42 +55,23 @@ delta機器人的高速特性在包裝產業、醫療及製藥業\[17\]都有很
 [Category:工业机器人](https://zh.wikipedia.org/wiki/Category:工业机器人 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  Clavel, R. (1991) [Conception d'un robot parallèle rapide à 4 degrés de liberté](http://library.epfl.ch/theses/?nr=925). Ph.D. Thesis, EPFL, Lausanne, Switzerland
-
 8.
-
 9.  Merlet, J.-P., Parallel Robots, Kluwer Academic Publishers, 2000.
-
 10.
 11.
-
 12.
-
 13. Miller, K., "Modeling of Dynamics and Model-Based Control of DELTA Direct-Drive Parallel Robot," Journal of Robotics and Mechatronics, Vol. 17, No. 4, pp. 344-352, 1995.
-
 14. Reymond CLAVEL. ["Robots parallèles"](http://jnrr2011.irccyn.ec-nantes.fr/presentations/ReymondClavel.pdf)
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.

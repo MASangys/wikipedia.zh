@@ -117,7 +117,7 @@
 <tr class="even">
 <td><p>1st</p></td>
 <td><p>2019年11月6日</p></td>
-<td><p>百歌繚乱</p></td>
+<td></td>
 <td><p>MATO-1323（初回限定盤A）<br />
 MATO-1324（初回限定盤B）</p></td>
 <td><p>MATO-1325</p></td>

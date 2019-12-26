@@ -28,12 +28,8 @@
 [Category:配位氢化物](https://zh.wikipedia.org/wiki/Category:配位氢化物 "wikilink") [Category:镁化合物](https://zh.wikipedia.org/wiki/Category:镁化合物 "wikilink") [Category:二价铁化合物](https://zh.wikipedia.org/wiki/Category:二价铁化合物 "wikilink")
 
 1.  J. J. Didisheim, P. Zolliker, K. Yvon, P. Fischer, J. Schefer, M. Gubelmann, A. F. Williams "Dimagnesium iron(II) hydride, Mg<sub>2</sub>FeH<sub>6</sub>, containing octahedral FeH<sub>6</sub><sup>4−</sup> anions" *Inorganic Chemistry* 1984, vol. 23, pp 1953–1957. .
-
 2.
-
 3.
-
 4.  Robert Bau, Mary H. Drabnis "Structures of transition metal hydrides determined by neutron diffraction" Inorganica Chimica Acta 1997, vol. 259, 27ff.
-
 5.
 6.  R.B. King "Structure and bonding in homoleptic transition metal hydride anions" Coordination Chemistry Reviews, 2000, vol. 200–202, p. 813–829.

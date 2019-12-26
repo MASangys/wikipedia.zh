@@ -2,11 +2,9 @@
 
 除此之外，Magisk可以对其他验证系统完整性的应用程序进行隐藏（称为Magisk Hide），使得用户可在获取Root权限的情况下使用如[精靈寶可夢GO](../Page/精靈寶可夢GO.md "wikilink")\[1\]、[Fate/Grand Order](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")\[2\]一类的应用程序或开启[支付宝](../Page/支付宝.md "wikilink")、[微信](../Page/微信.md "wikilink")的指纹支付功能\[3\]。
 
-## 历史
-
 2015年10月8日，原SuperSU的开发者Chainfire于[XDA论坛上发布了在无需修改系统文件获取Root权限的实验性方法](../Page/XDA_Developers.md "wikilink")\[4\]。
 
-11月6日，受Chainfire的启发，吳​泓霖将此方法移植到了[HTC One设备上](../Page/HTC_One_\(M8\).md "wikilink")\[5\]。
+11月6日，受Chainfire的启发，吳​泓霖将此方法移植到了[HTC e设备上](../Page/HTC_One_\(M8\).md "wikilink")\[5\]。
 
 2016年5月29日，吳​泓霖发布了无需修改系统文件的非官方版Xposed框架\[6\]。发布后，XDA上的部分开发者请求移植自己的模块，由于技术限制，吳​泓霖拒绝了这些请求，这也是Magisk开发的灵感\[7\]。8月，Magisk的最早期版本发布。不久，由于精靈寶可夢GO的更新，导致Root后的玩家无法正常游玩游戏，部分用户发现Magisk可绕过这一限制\[8\]。
 

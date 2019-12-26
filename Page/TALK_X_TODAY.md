@@ -1,8 +1,10 @@
-《**TALK X TODAY**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Big Hit娛樂公司旗下](../Page/Big_Hit娛樂.md "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")[TOMORROW X TOGETHER的第一個](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。\[1\]是由TOMORROW X TOGETHER親自掌鏡拍攝出道前的日常紀錄節目，並由團員親自打上字幕。\[2\]節目於[V LIVE播出在韓國時間](../Page/NAVER.md "wikilink")2019年3月11日晚上8點一次公開5集，並於3月12日公開最後一集，總共6集。
+《**TALK X TODAY**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Big Hit娛樂公司旗下](../Page/Big_Hit娛樂.md "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")[TOMORROW X TOGETHER的第一個](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。\[1\]是由TOMORROW X TOGETHER親自掌鏡拍攝出道前的日常紀錄節目，並由團員親自打上字幕。\[2\]
 
 ## 節目簡介
 
-TALK X TODAY主要為紀錄2019年1月初至3月出道前TOMORROW X TOGETHER的日常，內容包括個人VLOG、團體VLOG、練習花絮及與製作人Slow Rabbit在錄音室製作與準備出道迷你專輯《[The Dream Chapter: STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》的過程
+《TALK X TODAY 第一季》主要為紀錄2019年1月初至3月出道前TOMORROW X TOGETHER的日常，內容包括個人VLOG、團體VLOG、練習花絮及與製作人Slow Rabbit在錄音室製作與準備出道迷你專輯《[The Dream Chapter: STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》的過程
+
+《TALK X TODAY 第二季 》主要紀錄出道後在忙碌的日程過後的TOMORROW X TOGETHER成員們，享受閒暇時間的模樣。\[3\]
 
 ## 演出成員
 
@@ -12,7 +14,11 @@ TALK X TODAY主要為紀錄2019年1月初至3月出道前TOMORROW X TOGETHER的�
   - [TAEHYUN](../Page/姜泰賢.md "wikilink")
   - [HUENINGKAI](../Page/休寧凱.md "wikilink")
 
-## 節目集數
+## 各季集數
+
+### 第一季
+
+第一季於2019年3月11日下午八點(韓國時間)至3月12日下午十點(韓國時間)，在[V LIVE播出](../Page/NAVER.md "wikilink")。
 
 <table>
 <tbody>
@@ -27,7 +33,7 @@ TALK X TODAY主要為紀錄2019年1月初至3月出道前TOMORROW X TOGETHER的�
 <td><p>2019年3月11日</p></td>
 <td><p><a href="../Page/崔秀彬.md" title="wikilink">SOOBIN</a></p></td>
 <td><ol>
-<li>與BEOMGYU一同前往辣炒年糕店吃辣炒年糕[3]</li>
+<li>與BEOMGYU一同前往辣炒年糕店吃辣炒年糕[4]</li>
 <li>SOOBIN的To Do List<br />
 ①SOOBIN的一天(feat.一個人玩)<br />
 ②在寵物咖啡廳與狗玩耍<br />
@@ -43,7 +49,7 @@ TALK X TODAY主要為紀錄2019年1月初至3月出道前TOMORROW X TOGETHER的�
 <td><p>2019年3月11日</p></td>
 <td><p><a href="../Page/崔延俊.md" title="wikilink">YEONJUN</a></p></td>
 <td><ol>
-<li>與HUENINGKAI一同前往漢江公園，展示玩S滑板，並教導HUENINGKAI玩S滑板[4]</li>
+<li>與HUENINGKAI一同前往漢江公園，展示玩S滑板，並教導HUENINGKAI玩S滑板[5]</li>
 <li>與HUENINGKAI一同前往拉麵店一同吃拉麵</li>
 <li>一個人去<a href="https://zh.wikipedia.org/wiki/愛寶樂園" title="wikilink">愛寶樂園</a><br />
 ①玩遊樂設施Double Rock Spin<br />
@@ -61,7 +67,7 @@ TALK X TODAY主要為紀錄2019年1月初至3月出道前TOMORROW X TOGETHER的�
 <td><p>2019年3月11日</p></td>
 <td><p><a href="../Page/崔范奎.md" title="wikilink">BEOMGYU</a></p></td>
 <td><ol>
-<li>與YEONJUN一同去弘大購買服飾[5]</li>
+<li>與YEONJUN一同去弘大購買服飾[6]</li>
 <li>與YEONJUN一同前往麵包店吃巧克力牛角可頌、蒜蓉法式麵包及熱牛奶巧克力</li>
 <li>與YEONJUN買完服飾回到宿舍，公開宿舍衣物間，並介紹個人衣物</li>
 <li>一個人前往唱片行<br />
@@ -85,7 +91,7 @@ TALK X TODAY主要為紀錄2019年1月初至3月出道前TOMORROW X TOGETHER的�
 <td><p>2019年3月11日</p></td>
 <td><p><a href="../Page/姜泰賢.md" title="wikilink">TAEHYUN</a></p></td>
 <td><ol>
-<li>與BEOMGYU一起去學校參加開學典禮[6]</li>
+<li>與BEOMGYU一起去學校參加開學典禮[7]</li>
 <li>述說與BEOMGYU同為二年級，BEOMGYU因出道準備而晚入學</li>
 <li>與BEOMGYU一起放學後去遊戲廳玩<br />
 ①一起玩桌球遊樂器材打賭飲料<br />
@@ -119,7 +125,7 @@ TALK X TODAY主要為紀錄2019年1月初至3月出道前TOMORROW X TOGETHER的�
 <td><p>2019年3月11日</p></td>
 <td><p><a href="../Page/休寧凱.md" title="wikilink">HUENINGKAI</a></p></td>
 <td><ol>
-<li>與TAEHYUN一起放學後去<a href="../Page/N首爾塔.md" title="wikilink">南山塔</a>[7]<br />
+<li>與TAEHYUN一起放學後去<a href="../Page/N首爾塔.md" title="wikilink">南山塔</a>[8]<br />
 ①搭乘纜車到達南山塔<br />
 ②介紹遠處自己的學校<br />
 ③展示從南山塔拍的首爾全景<br />
@@ -156,7 +162,7 @@ TALK X TODAY主要為紀錄2019年1月初至3月出道前TOMORROW X TOGETHER的�
 <td><p>2019年3月12日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER" title="wikilink">TOMORROW X TOGETHER</a></p></td>
 <td><ol>
-<li>團員們坐巴士一同前往<a href="https://zh.wikipedia.org/wiki/江原道" title="wikilink">江原道</a><a href="https://zh.wikipedia.org/wiki/正東津站" title="wikilink">正東津看日出</a>[8]<br />
+<li>團員們坐巴士一同前往<a href="https://zh.wikipedia.org/wiki/江原道" title="wikilink">江原道</a><a href="https://zh.wikipedia.org/wiki/正東津站" title="wikilink">正東津看日出</a>[9]<br />
 ①決定團體口號「TOMORROW X TOGETHER 明天也要一起！」<br />
 ②到達目的地<a href="https://zh.wikipedia.org/wiki/正東津站" title="wikilink">正東津的海邊</a><br />
 ③團員們一同在海邊玩耍，並一同看向空拍機<br />
@@ -174,12 +180,27 @@ TALK X TODAY主要為紀錄2019年1月初至3月出道前TOMORROW X TOGETHER的�
 </tbody>
 </table>
 
+### 第二季
+
+第二季於2019年8月26起每週下午九點(韓國時間)，在[V LIVE](../Page/NAVER.md "wikilink")、[YouTube](../Page/YouTube.md "wikilink")播出。\[10\] [Talk_x_Today_season_2_poster.png](https://zh.wikipedia.org/wiki/File:Talk_x_Today_season_2_poster.png "fig:Talk_x_Today_season_2_poster.png")
+
+|    |            |                                                                              |        |
+| -- | ---------- | ---------------------------------------------------------------------------- | ------ |
+| 集數 | 播放日期       | 參與成員                                                                         | 備註     |
+| 1  | 2019年8月26日 | [SOOBIN](../Page/崔秀彬.md "wikilink")、[BEOMGYU](../Page/崔范奎.md "wikilink")     | \[11\] |
+| 2  | 2019年9月2日  | [SOOBIN](../Page/崔秀彬.md "wikilink") 、[TAEHYUN](../Page/姜泰賢.md "wikilink")    | \[12\] |
+| 3  | 2019年9月9日  | [YEONJUN](../Page/崔延俊.md "wikilink")、[TAEHYUN](../Page/姜泰賢.md "wikilink")    | \[13\] |
+| 4  | 2019年9月16日 | [YEONJUN](../Page/崔延俊.md "wikilink")、[HUENINGKAI](../Page/休寧凱.md "wikilink") | \[14\] |
+| 5  | 2019年9月23日 | [BEOMGYU](../Page/崔范奎.md "wikilink")、[HUENINGKAI](../Page/休寧凱.md "wikilink") | \[15\] |
+| 6  | 2019年9月30日 | 全體                                                                           | \[16\] |
+| 7  | 2019年10月7日 | \[17\]                                                                       |        |
+
 ## 參考資料
 
 ## 外部連結
 
-  - [TOMORROW X TOGETHER](https://www.vlive.tv/video/117383/playlist/)的[V LIVE頻道](../Page/NAVER.md "wikilink")
-  - [TOMORROW X TOGETHER](https://www.youtube.com/playlist?list=PLcZxoPUYVQX1dffyKtyNYpWWl40COUDz2)的[YouTube](../Page/YouTube.md "wikilink")頻道
+  - [TOMORROW X TOGETHER](https://channels.vlive.tv/BA18A3/home)的[V LIVE頻道](../Page/NAVER.md "wikilink")
+  - [TOMORROW X TOGETHER](https://www.youtube.com/channel/UCtiObj3CsEAdNU6ZPWDsddQ)的[YouTube](../Page/YouTube.md "wikilink")頻道
 
 [Category:TXT](https://zh.wikipedia.org/wiki/Category:TXT "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink") [Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink")
 
@@ -191,3 +212,12 @@ TALK X TODAY主要為紀錄2019年1月初至3月出道前TOMORROW X TOGETHER的�
 6.
 7.
 8.
+9.
+10. [TALK X TODAY : Season2 Teaser](https://www.vlive.tv/video/145842)
+11. [TALK X TODAY : Season2 EP.1](https://www.vlive.tv/video/146358)
+12. [TALK X TODAY : Season2 EP.2](https://www.vlive.tv/video/147282)
+13. [TALK X TODAY : Season2 EP.3](https://www.vlive.tv/video/148231)
+14. [TALK X TODAY : Season2 EP.4](https://www.vlive.tv/video/149131)
+15. [TALK X TODAY : Season2 EP.5](https://www.vlive.tv/video/150629)
+16. [TALK X TODAY : Season2 EP.6](https://www.vlive.tv/video/151988)
+17. [TALK X TODAY : Season2 EP.7](https://www.vlive.tv/video/152651)

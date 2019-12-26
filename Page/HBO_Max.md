@@ -30,10 +30,41 @@ HBO Max提供的節目除原創之外，還包括[HBO](../Page/HBO.md "wikilink"
 <th><p>季數</p></th>
 <th><p>長度</p></th>
 <th><p>狀態</p></th>
+<th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td><p><em>Search Party</em></p></td>
+<td></td>
+<td><p><a href="../Page/黑色幽默.md" title="wikilink">黑色喜劇</a></p></td>
+<td><p>2020年春</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>第3至4季移自TBS[9]</p></td>
+</tr>
+<tr class="even">
+<td><p><em>The Boondocks</em></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/動畫" title="wikilink">動畫</a>／<a href="https://zh.wikipedia.org/wiki/喜劇片" title="wikilink">喜劇</a></p></td>
+<td><p>2020年秋</p></td>
+<td><p>2（24集）</p></td>
+<td></td>
+<td></td>
+<td><p>[10]</p></td>
+</tr>
+<tr class="odd">
+<td><p><em>Sesame Street</em></p></td>
+<td><p>《<a href="../Page/芝麻街.md" title="wikilink">芝麻街</a>》</p></td>
+<td><p><a href="../Page/教育.md" title="wikilink">教育</a></p></td>
+<td><p>2020年</p></td>
+<td><p>55</p></td>
+<td></td>
+<td></td>
+<td><p>[11]</p></td>
+</tr>
+<tr class="even">
 <td><p><em>Americanah</em></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/劇情片" title="wikilink">劇情</a></p></td>
@@ -41,6 +72,17 @@ HBO Max提供的節目除原創之外，還包括[HBO](../Page/HBO.md "wikilink"
 <td><p>1（10集）</p></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><em>Brad &amp; Gary Go To...</em></p></td>
+<td></td>
+<td><p><a href="../Page/紀錄片.md" title="wikilink">紀錄片</a></p></td>
+<td></td>
+<td><p>6集</p></td>
+<td></td>
+<td></td>
+<td><p>[12]</p></td>
 </tr>
 <tr class="even">
 <td><p><em>Circe</em></p></td>
@@ -50,17 +92,49 @@ HBO Max提供的節目除原創之外，還包括[HBO](../Page/HBO.md "wikilink"
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p><em>Drama Queen</em>[9]</p></td>
+<td><p><em>College Girls</em></p></td>
+<td></td>
+<td><p><a href="../Page/喜劇.md" title="wikilink">喜劇</a></p></td>
+<td></td>
+<td><p>1（13集）</p></td>
+<td></td>
+<td></td>
+<td><p>[13]</p></td>
+</tr>
+<tr class="even">
+<td><p><em>DC Super Hero High</em></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超級英雄" title="wikilink">超級英雄</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>[14]</p></td>
+</tr>
+<tr class="odd">
+<td><p><em>Doom Patrol</em></p></td>
+<td><p>《<a href="../Page/末日巡邏隊_(電視劇).md" title="wikilink">末日巡邏隊</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超級英雄" title="wikilink">超級英雄</a>／<a href="https://zh.wikipedia.org/wiki/喜劇片" title="wikilink">喜劇</a></p></td>
+<td></td>
+<td><p>1（15集）</p></td>
+<td></td>
+<td></td>
+<td><p>同時在HBO Max和<a href="https://zh.wikipedia.org/wiki/DC_Universe_(串流媒體)" title="wikilink">DC Universe播出</a>[15][16]</p></td>
+</tr>
+<tr class="even">
+<td><p><em>Drama Queen</em></p></td>
 <td></td>
 <td><p><a href="../Page/喜劇.md" title="wikilink">喜劇</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td><p>[17]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><em>Dune: The Sisterhood</em></p></td>
 <td><p>《<a href="../Page/沙丘：姐妹會.md" title="wikilink">沙丘：姐妹會</a>》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/科幻片" title="wikilink">科幻</a></p></td>
@@ -68,14 +142,66 @@ HBO Max提供的節目除原創之外，還包括[HBO](../Page/HBO.md "wikilink"
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><em>Ellen's Home Design Challenge</em></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/真人秀" title="wikilink">真人秀</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>[18]</p></td>
 </tr>
 <tr class="odd">
+<td><p><em>Equal</em></p></td>
+<td></td>
+<td><p><a href="../Page/紀錄片.md" title="wikilink">紀錄片</a>／<a href="../Page/LGBT.md" title="wikilink">LGBT</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>[19]</p></td>
+</tr>
+<tr class="even">
+<td><p><em>Finding Einstein</em></p></td>
+<td></td>
+<td><p><a href="../Page/紀錄片.md" title="wikilink">紀錄片</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>[20]</p></td>
+</tr>
+<tr class="odd">
+<td><p><em>First Dates Hotel</em></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/真人秀" title="wikilink">真人秀</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>[21]</p></td>
+</tr>
+<tr class="even">
 <td><p><em>The Flight Attendant</em></p></td>
 <td><p>《<a href="../Page/空中小姐_(美國電視劇).md" title="wikilink">空中小姐</a>》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/劇情片" title="wikilink">劇情</a></p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><em>Generation</em></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劇情片" title="wikilink">劇情</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>整季預訂</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -86,8 +212,39 @@ HBO Max提供的節目除原創之外，還包括[HBO](../Page/HBO.md "wikilink"
 <td><p>1（10集）</p></td>
 <td></td>
 <td><p>整季預訂</p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p><em>Karma</em></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/真人秀" title="wikilink">真人秀</a></p></td>
+<td><p>2020年</p></td>
+<td></td>
+<td></td>
+<td><p>整季預訂</p></td>
+<td><p>[22]<ref>{{cite tweet|user=jdroth2323|number=1167109276902383616|date=2019-08-29|title=I think you are going to LOVE this one! Will air on the new platform HBO MAX. They are great partners! Show is one of the best I have ever created! Stay tuned! @hbomax</p></td>
+</tr>
+<tr class="even">
+<td><p><em>Little Ellen</em></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/動畫" title="wikilink">動畫</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>[23]</p></td>
+</tr>
+<tr class="odd">
+<td><p><em>Looney Tunes Cartoons</em></p></td>
+<td><p>《樂一通卡通》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/動畫" title="wikilink">動畫</a>／<a href="../Page/喜劇.md" title="wikilink">喜劇</a></p></td>
+<td></td>
+<td></td>
+<td><p>1-6分鐘</p></td>
+<td></td>
+<td><p>[24]</p></td>
+</tr>
+<tr class="even">
 <td><p><em>Love Life</em></p></td>
 <td></td>
 <td><p><a href="../Page/喜劇.md" title="wikilink">喜劇</a></p></td>
@@ -95,8 +252,9 @@ HBO Max提供的節目除原創之外，還包括[HBO](../Page/HBO.md "wikilink"
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><em>Made for Love</em></p></td>
 <td><p>《因愛之名》</p></td>
 <td><p><a href="../Page/喜劇.md" title="wikilink">喜劇</a></p></td>
@@ -104,8 +262,29 @@ HBO Max提供的節目除原創之外，還包括[HBO](../Page/HBO.md "wikilink"
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><em>Rap Sh*t</em></p></td>
+<td></td>
+<td><p><a href="../Page/音樂劇.md" title="wikilink">音樂</a>/<a href="https://zh.wikipedia.org/wiki/劇情片" title="wikilink">劇情</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>[25]</p></td>
 </tr>
 <tr class="odd">
+<td><p><em>Rydell High</em></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂" title="wikilink">音樂</a></p></td>
+<td></td>
+<td><p>1</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><em>Station Eleven</em></p></td>
 <td><p>《如果我們的世界消失了》</p></td>
 <td><p><a href="../Page/末日幻想.md" title="wikilink">末日幻想</a></p></td>
@@ -113,6 +292,17 @@ HBO Max提供的節目除原創之外，還包括[HBO](../Page/HBO.md "wikilink"
 <td><p>1</p></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><em>Strange Adventures</em></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超級英雄" title="wikilink">超級英雄</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>[26]</p></td>
 </tr>
 <tr class="even">
 <td><p><em>Tokyo Vice</em></p></td>
@@ -122,15 +312,27 @@ HBO Max提供的節目除原創之外，還包括[HBO](../Page/HBO.md "wikilink"
 <td><p>1（10集）</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>Untitled <em>Gossip Girl</em> reboot[10]</p></td>
+<td><p>Untitled <em>Gossip Girl</em> reboot</p></td>
 <td><p>未定名《<a href="../Page/花邊教主_(電視劇).md" title="wikilink">花邊教主</a>》重啟劇集</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/劇情片" title="wikilink">劇情</a></p></td>
 <td></td>
 <td><p>1（10集）</p></td>
 <td></td>
 <td></td>
+<td><p>[27]</p></td>
+</tr>
+<tr class="even">
+<td><p>Untitled <em>Green Lantern</em> series</p></td>
+<td><p>未定名<a href="../Page/綠燈俠.md" title="wikilink">綠燈俠</a>劇集</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/科幻片" title="wikilink">科幻</a>/<a href="https://zh.wikipedia.org/wiki/超級英雄" title="wikilink">超級英雄</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>[28]</p></td>
 </tr>
 </tbody>
 </table>
@@ -140,27 +342,41 @@ HBO Max提供的節目除原創之外，還包括[HBO](../Page/HBO.md "wikilink"
 <table>
 <thead>
 <tr class="header">
+<th><p>首映日期</p></th>
 <th><p>標題</p></th>
 <th><p>譯名</p></th>
 <th><p>類型</p></th>
-<th><p>首映日期</p></th>
 <th><p>狀態</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><em>Let Them All Talk</em></p></td>
+<td><p>2020年春</p></td>
+<td><p><em>Super Intelligence</em></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/劇情片" title="wikilink">劇情</a></p></td>
-<td></td>
-<td><p>拍攝中[11]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/喜劇片" title="wikilink">喜劇</a>／<a href="https://zh.wikipedia.org/wiki/科幻片" title="wikilink">科幻</a></p></td>
+<td><p>製作完成[29]</p></td>
 </tr>
 <tr class="even">
-<td><p><em>UNpregnant</em></p></td>
 <td></td>
+<td><p><em>Let Them All Talk</em></p></td>
 <td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劇情片" title="wikilink">劇情</a>／<a href="https://zh.wikipedia.org/wiki/喜劇片" title="wikilink">喜劇</a></p></td>
+<td><p>後期製作[30]</p></td>
+</tr>
+<tr class="odd">
 <td></td>
-<td><p>前期製作[12]</p></td>
+<td><p><em>Unpregnant</em></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劇情片" title="wikilink">劇情</a></p></td>
+<td><p>拍攝中[31]</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><em>Expecting Amy</em></p></td>
+<td></td>
+<td><p><a href="../Page/紀錄片.md" title="wikilink">紀錄片</a></p></td>
+<td><p>拍攝中[32]</p></td>
 </tr>
 </tbody>
 </table>
@@ -174,22 +390,33 @@ HBO Max提供的節目除原創之外，還包括[HBO](../Page/HBO.md "wikilink"
 
 1.
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.

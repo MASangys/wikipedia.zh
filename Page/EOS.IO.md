@@ -59,7 +59,7 @@ EOS.IO儲存建立於EOS.IO軟件及[星际文件系统](../Page/星际文件系
   - 2019年2月，Effect.AI公開表示他將由NEO迁移到区块链平台 [EOS.IO](../Page/EOS.IO.md "wikilink")。\[14\]
   - 2019年2月，Billionaire Token从以太坊区块链平台迁移到EOS平台，原因是为用户带来更快速的体验。
 
-## Everpedia
+## Everipedia
 
 2017年12月6日，基於[维基技術的商用](https://zh.wikipedia.org/wiki/维基 "wikilink")[网上百科全书](../Page/网络百科全书.md "wikilink")[Everipedia](../Page/Everipedia.md "wikilink")，宣布計劃採用EOS.IO區塊鏈技術及正在開發名為IQ的[空投加密貨幣用以鼓勵用戶編輯](../Page/空投_\(区块链\).md "wikilink")。\[15\][Everipedia的目標是透過區塊鏈技術以阻止一些國家進行](../Page/网络百科全书.md "wikilink")[互聯網審查造成資訊無法訪問](https://zh.wikipedia.org/wiki/互聯網審查 "wikilink")。\[16\]當[Everipedia使用EOS](../Page/网络百科全书.md "wikilink").IO平台進行分散式託並[分叉](../Page/分叉.md "wikilink")，一些禁止訪問維基百科的國家（包括土耳其及伊朗）將無法繼續進行禁止。
 

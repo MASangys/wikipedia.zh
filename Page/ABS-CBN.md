@@ -35,13 +35,9 @@
 [Category:菲律宾媒体](https://zh.wikipedia.org/wiki/Category:菲律宾媒体 "wikilink")
 
 1.  辛华 编. 世界报刊、通讯社、电台译名手册（修订本）\[M\]. 第二版. 北京:商务印书馆, 1978: 2-2.
-
 2.
-
 3.
-
 4.
 5.
 6.  William Atkins. The Politics of Southeast Asia's New Media\[M\]. London:Taylor & Francis, 2013: 25-25.
-
 7.

@@ -47,37 +47,21 @@
 [Category:1990年出生](https://zh.wikipedia.org/wiki/Category:1990年出生 "wikilink") [Category:香港大學校友](https://zh.wikipedia.org/wiki/Category:香港大學校友 "wikilink") [Category:香港大學校友列表](https://zh.wikipedia.org/wiki/Category:香港大學校友列表 "wikilink") [Category:長沙灣天主教英文中學校友](https://zh.wikipedia.org/wiki/Category:長沙灣天主教英文中學校友 "wikilink") [Category:賴姓](https://zh.wikipedia.org/wiki/Category:賴姓 "wikilink") [Category:香港YouTuber](https://zh.wikipedia.org/wiki/Category:香港YouTuber "wikilink") [Category:香港意見領袖](https://zh.wikipedia.org/wiki/Category:香港意見領袖 "wikilink") [Category:香港網絡紅人](https://zh.wikipedia.org/wiki/Category:香港網絡紅人 "wikilink")
 
 1.
-
 2.
-
 3.  [港大百年主題曲 Brighten Me with Virtues《明我以德》](https://www.youtube.com/watch?v=YhG097dn9Xg)
-
 4.  [百萬富翁 2018 第23集](https://www.hkatv.com/vod.html?contentId=394e4de6-a64c-425b-b61e-f5d443fee01f)
-
 5.  [ViuTV Good Night Show 全民造星](http://viu.tv/encore/good-night-show-king-maker)
-
 6.  [ViuTV 晚吹 飛．自由](https://www.youtube.com/watch?v=sN2bTaNYRb8)
-
 7.  [杜汶澤喱騷 全民做兵](https://www.youtube.com/watch?v=G1cGoLUdBM8)
-
 8.
 9.  [原來好猛料 港大偽韓妹ABC合拍整蠱片](https://www.youtube.com/watch?v=HZXQBA55PQo)
-
 10. [玩爆城大扮偽韓妹ABC 港大金鈴阿拉合拍整蠱片](https://www.youtube.com/watch?v=qgmVsasiCr8)
-
 11. [香港電台 Teen Power 大學站訪問](https://www.youtube.com/watch?v=Es4qDbhCo2Q)
-
 12. [壹傳媒 有錢人專屬？》做私家看護似「高薪看更」](https://hk.lifestyle.appledaily.com/nextplus/magazine/article/20161008/2_436602_0/有錢人專屬-做私家看護似-高薪看更-/)
-
 13.
 14. [壹傳媒 考考你》護士術語你識幾多？醫院廿四味咪亂飲](https://hk.lifestyle.appledaily.com/nextplus/magazine/article/20161010/2_436746_0/考考你-護士術語你識幾多-醫院廿四味咪亂飲/)
-
 15. [無線電視 《今日VIP》阿拉 (旅遊達人)](https://www.youtube.com/watch?v=9UnWYO05Y9Y)
-
 16. [東方日報 港實測：謝絕悲情　做一日天水．圍城人](https://hk.on.cc/hk/bkn/cnt/news/20171111/bkn-20171111114503645-1111_00822_001.html)
-
 17. [文匯報【尋夢萬花筒】兼多種技能 擁更多機會](http://paper.wenweipo.com/2018/06/28/ED1806280013.htm)
-
 18. [北陸朝日放送 外国人観光客を能登に誘客へ 2018.10.10放送](https://www.youtube.com/watch?v=ZbJFON-rshY)
-
 19. [日常8點半 (民生·旅遊) 第29集](https://www.rthk.hk/tv/dtt31/programme/830mag/episode/547645?lang=zh-hant)

@@ -84,8 +84,6 @@ rkm Wz.28被用作活動安裝式[航空機槍旳研發基礎](../Page/航空机
 [Category:自动步枪](https://zh.wikipedia.org/wiki/Category:自动步枪 "wikilink") [Category:戰鬥步槍](https://zh.wikipedia.org/wiki/Category:戰鬥步槍 "wikilink") [Category:輕機槍](https://zh.wikipedia.org/wiki/Category:輕機槍 "wikilink") [Category:導氣式槍械](https://zh.wikipedia.org/wiki/Category:導氣式槍械 "wikilink") [Category:約翰·勃朗寧](https://zh.wikipedia.org/wiki/Category:約翰·勃朗寧 "wikilink") [Category:波蘭槍械](https://zh.wikipedia.org/wiki/Category:波蘭槍械 "wikilink") [Category:二战机枪](https://zh.wikipedia.org/wiki/Category:二战机枪 "wikilink") [Category:德國二戰武器](https://zh.wikipedia.org/wiki/Category:德國二戰武器 "wikilink") [Category:7.92×57毫米槍械](https://zh.wikipedia.org/wiki/Category:7.92×57毫米槍械 "wikilink")
 
 1.  Bishop, Chris (1998). *The Encyclopedia: Weapons of World War II.* New York: Barnes & Noble Inc. , p. 239
-
 2.  Robert R. Hodges, Jr., *The Browning Automatic Rifle*. Weapon Series. Osprey Publishing, 2012, 9781849087612. p. 18
-
 3.
 4.

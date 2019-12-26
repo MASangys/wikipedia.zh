@@ -12,12 +12,8 @@
 [Category:不明飛行物研究組織](https://zh.wikipedia.org/wiki/Category:不明飛行物研究組織 "wikilink") [Category:美國科學組織](https://zh.wikipedia.org/wiki/Category:美國科學組織 "wikilink") [Category:1974年建立的組織](https://zh.wikipedia.org/wiki/Category:1974年建立的組織 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.

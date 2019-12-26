@@ -29,12 +29,9 @@
 [Category:法国战斗机](https://zh.wikipedia.org/wiki/Category:法国战斗机 "wikilink") [Category:达索飞机](https://zh.wikipedia.org/wiki/Category:达索飞机 "wikilink") [Category:可變後掠翼飛機](https://zh.wikipedia.org/wiki/Category:可變後掠翼飛機 "wikilink") [Category:已取消研發飛機](https://zh.wikipedia.org/wiki/Category:已取消研發飛機 "wikilink")
 
 1.  Green 1972, p. 84.
-
 2.
 3.  Green 1968, p. 78.
-
 4.  [Dassault Aviation - Mirage G history](https://www.dassault-aviation.com/en/passion/aircraft/military-dassault-aircraft/mirage-g/) www.dassault-aviation.com Retrieved: 10 April 2010
-
 5.
 6.
 7.

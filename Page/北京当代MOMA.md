@@ -34,23 +34,15 @@
 [Category:北京市东城区建筑物](https://zh.wikipedia.org/wiki/Category:北京市东城区建筑物 "wikilink") [Category:斯蒂文·霍尔建筑作品](https://zh.wikipedia.org/wiki/Category:斯蒂文·霍尔建筑作品 "wikilink") [Category:2009年建築](https://zh.wikipedia.org/wiki/Category:2009年建築 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.

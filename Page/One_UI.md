@@ -4,7 +4,7 @@
 
 ## 功能
 
-One UI中加入了以下的新功能：\[5\]
+One UI 的操作概念：\[5\]
 
   - 自然互動的界面
       - 將內容和功能放置在手指旁，使用戶能夠更自然的與手機進行互動
@@ -23,142 +23,135 @@ One UI中加入了以下的新功能：\[5\]
 
 OneUI中也去除了以下的功能:
 
-  - 去除了[Galaxy S9和](https://zh.wikipedia.org/wiki/Galaxy_S9 "wikilink")[Galaxy Note9中的专业模式视频拍摄功能](https://zh.wikipedia.org/wiki/Galaxy_Note_9 "wikilink")，仅保留专业模式拍照\[9\]。引起了欧美相关机型使用者社区的不满。(该功能是[Galaxy S9和](https://zh.wikipedia.org/wiki/Galaxy_S9 "wikilink")[Galaxy Note9发售时摄像功能的卖点之一](https://zh.wikipedia.org/wiki/Galaxy_Note_9 "wikilink")\[10\]。)
+  - 去除了[Galaxy S9和](https://zh.wikipedia.org/wiki/Galaxy_S9 "wikilink")[Galaxy Note9中的专业模式视频拍摄功能](https://zh.wikipedia.org/wiki/Galaxy_Note_9 "wikilink")，仅保留专业模式拍照\[9\]。引起了欧美相关机型使用者社区的不满。（该功能是[Galaxy S9和](https://zh.wikipedia.org/wiki/Galaxy_S9 "wikilink")[Galaxy Note9发售时摄像功能的卖点之一](https://zh.wikipedia.org/wiki/Galaxy_Note_9 "wikilink")\[10\]。）
 
-## 運行 One UI 的裝置
+## 版本
 
 2019年上半年[S10系列之後的手機已經預載One](../Page/三星Galaxy_S10.md "wikilink") UI，而舊款手機[Galaxy S8系列](https://zh.wikipedia.org/wiki/Galaxy_S8 "wikilink")、[Galaxy Note 8](https://zh.wikipedia.org/wiki/Galaxy_Note_8 "wikilink")、[Galaxy S9系列](https://zh.wikipedia.org/wiki/Galaxy_S9 "wikilink")、[Galaxy Note 9](https://zh.wikipedia.org/wiki/Galaxy_Note_9 "wikilink")、[Galaxy A9(2018)](../Page/三星Galaxy_A9_\(2018\).md "wikilink")、[Galaxy A8+(2018)等亦陸續獲得更新](https://zh.wikipedia.org/wiki/三星Galaxy_A8+_\(2018\) "wikilink")。
 
+| 顏色  | 支援狀態                                |
+| --- | ----------------------------------- |
+| 紅色  | \-{zh-hans:已停止支援; zh-hant:已停止支援;}-  |
+| 綠色  | \-{zh-hans:目前支援版本; zh-hant:目前支援版;}- |
+| 淺藍色 | \-{zh-hans:测试版本; zh-hant: 測試版;}-    |
+
 <table>
-<caption>運行 One UI 的裝置</caption>
 <thead>
 <tr class="header">
-<th><p>手機系列</p></th>
-<th><p>手機型號</p></th>
 <th><p>One UI 版本</p></th>
+<th><p>特色及功能</p></th>
 <th><p>Android 版本</p></th>
-<th><p>發布日期</p></th>
+<th><p>支持機型</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_S系列" title="wikilink">Samsung Galaxy S系列</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_S10" title="wikilink">Samsung Galaxy S10e/S10/S10+/S10 5G</a></p></td>
-<td><p>1.1</p></td>
-<td><p>Android 9 Pie</p></td>
-<td></td>
+<td><p>1.0</p></td>
+<td><ul>
+<li>基於 Android 9.0 版本</li>
+<li>重新設計Samsung Experience 主頁，訊息，電話，媒體瀏覽器，瀏覽器等應用程式，使大部份系統應用程式能夠以單手操作</li>
+<li>重組內容，設定及其他資料，讓用戶能集中處理事務</li>
+<li>互動元素放置於螢幕底端</li>
+<li>增設夜間模式等新功能</li>
+<li>重新佈置「設定」應用程式中的項目</li>
+<li>新增黑夜模式</li>
+</ul></td>
+<td><p>9.0 (Pie)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Galaxy_Note_9" title="wikilink">Samsung Galaxy Note9</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_S9" title="wikilink">Samsung Galaxy S9/S9+</a></p></td>
-<td><p>1.0</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_S8" title="wikilink">Samsung Galaxy S8/S8+</a></p></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Samsung Galaxy Tab S4 <a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Samsung_Galaxy_Tab_S4.md" title="wikilink">Samsung Galaxy Tab S4</a> LTE</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note系列" title="wikilink">Samsung Galaxy Note系列</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_9" title="wikilink">Samsung Galaxy Note9</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_8" title="wikilink">Samsung Galaxy Note8</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_10" title="wikilink">Samsung Galaxy Note10/10+/10 5G/10+ 5G</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/三星Galaxy_A系列.md" title="wikilink">Samsung Galaxy A系列</a></p></td>
-<td><p><a href="../Page/三星Galaxy_A70.md" title="wikilink">Samsung Galaxy A70</a></p></td>
-<td><p>1.1</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A50" title="wikilink">Samsung Galaxy A50</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A20" title="wikilink">Samsung Galaxy A20</a></p></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/Samsung_Galaxy_Tab_S4.md" title="wikilink">Samsung Galaxy Tab S4</a> LTE/Wi-Fi</p></td>
+<td><p><a href="../Page/三星Galaxy_Tab_S3.md" title="wikilink">三星Galaxy Tab S3</a> Wi-Fi</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/三星Galaxy_A9_(2018).md" title="wikilink">Samsung Galaxy A9 (2018)</a></p></td>
-<td><p>1.0</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A8+_(2018)" title="wikilink">Samsung Galaxy A8+ (2018)</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/三星Galaxy_A7_(2018).md" title="wikilink">Samsung Galaxy A7 (2018)</a></p></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/三星Galaxy_A8s.md" title="wikilink">Samsung Galaxy A8s</a></p></td>
-<td></td>
-<td></td>
+<td><p>Samsung Galaxy A8 Star</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/三星Galaxy_J系列" title="wikilink">Samsung Galaxy J系列</a></p></td>
-<td><p><a href="../Page/三星Galaxy_J6_(2018).md" title="wikilink">Samsung Galaxy J6</a></p></td>
-<td></td>
+<td><p><a href="../Page/三星Galaxy_A7_(2018).md" title="wikilink">Samsung Galaxy A7 (2018)</a></p></td>
+<td><p>Samsung Galaxy A6+</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_J4+" title="wikilink">Samsung Galaxy J4+</a></p></td>
+<td><p><a href="../Page/三星Galaxy_J6_(2018).md" title="wikilink">Samsung Galaxy J6</a></p></td>
+<td><p>Samsung Galaxy J4+</p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>1.1</p></td>
+<td><ul>
+<li>新增橫向 「Always On Display」模式</li>
+<li>新增數位健康</li>
+<li>新增 Bixby Routines</li>
+</ul></td>
+<td><p>9.0 (Pie)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_S10" title="wikilink">Samsung Galaxy S10e/S10/S10+/S10 5G</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A90" title="wikilink">Samsung Galaxy A90</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A80" title="wikilink">Samsung Galaxy A80</a></p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A70" title="wikilink">Samsung Galaxy A70</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A60" title="wikilink">Samsung Galaxy A60</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Samsung Galaxy A50</p></td>
+<td><p>Samsung Galaxy A40/A40s</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/三星Galaxy_M30.md" title="wikilink">Samsung Galaxy A30</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A20" title="wikilink">Samsung Galaxy A20</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1.2</p></td>
+<td><ul>
+<li>預載於 Samsung Galaxy Fold 系列</li>
+</ul></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_Fold" title="wikilink">Samsung Galaxy Fold</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1.5</p></td>
+<td><ul>
+<li>預載於 三星在 2019 年下半年推出的設備中</li>
+</ul></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_10" title="wikilink">Samsung Galaxy Note10/Note10+/Note10+ 5G</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab_S6" title="wikilink">Samsung Galaxy Tab S6</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2.0</p></td>
+<td><ul>
+<li>基於 Android 10</li>
+</ul></td>
+<td><p>Android 10</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_10" title="wikilink">Samsung Galaxy Note10/Note10+/Note10+ 5G</a></p></td>
 </tr>
 </tbody>
 </table>

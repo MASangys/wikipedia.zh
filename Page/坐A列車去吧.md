@@ -1,4 +1,4 @@
-**坐A列車去吧**（）是[九州旅客鐵道](../Page/九州旅客鐵道.md "wikilink")（JR九州）主要運行在[熊本站](https://zh.wikipedia.org/wiki/熊本站 "wikilink") - [三角站之间](https://zh.wikipedia.org/wiki/三角站 "wikilink")，途經[鹿兒島本線](../Page/鹿兒島本線.md "wikilink")和[三角線的](../Page/三角線_\(九州旅客鐵道\).md "wikilink")[特急列車](../Page/特別急行列車.md "wikilink") 。
+**坐A列車去吧**（）是[九州旅客鐵道](../Page/九州旅客鐵道.md "wikilink")（JR九州）主要運行在[熊本站](../Page/熊本站.md "wikilink") - [三角站之间](https://zh.wikipedia.org/wiki/三角站 "wikilink")，途經[鹿兒島本線](../Page/鹿兒島本線.md "wikilink")和[三角線的](../Page/三角線_\(九州旅客鐵道\).md "wikilink")[特急列車](../Page/特別急行列車.md "wikilink") 。
 
 ## 概要
 
@@ -14,7 +14,7 @@
 
 ### 停車站
 
-[熊本站](https://zh.wikipedia.org/wiki/熊本站 "wikilink") - [宇土站](https://zh.wikipedia.org/wiki/宇土站 "wikilink") - [三角站](https://zh.wikipedia.org/wiki/三角站 "wikilink")
+[熊本站](../Page/熊本站.md "wikilink") - [宇土站](https://zh.wikipedia.org/wiki/宇土站 "wikilink") - [三角站](https://zh.wikipedia.org/wiki/三角站 "wikilink")
 
 ### 使用車輛、編成
 
@@ -78,19 +78,11 @@
 [Category:熊本縣交通](https://zh.wikipedia.org/wiki/Category:熊本縣交通 "wikilink") [Category:日本特急列車](https://zh.wikipedia.org/wiki/Category:日本特急列車 "wikilink") [Category:九州旅客鐵道列車](https://zh.wikipedia.org/wiki/Category:九州旅客鐵道列車 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.

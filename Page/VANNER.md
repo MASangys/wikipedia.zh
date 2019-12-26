@@ -52,7 +52,7 @@
 <ul>
 <li>發行日期：2019年9月5日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>銷量：</li>
+<li>銷量：1,109+[4]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -73,3 +73,4 @@
 1.
 2.
 3.
+4.

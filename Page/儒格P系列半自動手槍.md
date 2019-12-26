@@ -101,23 +101,16 @@ P345於2004年推出，它整合了可將保險在保險位置鎖定的內置式
 [Category:半自动手枪](https://zh.wikipedia.org/wiki/Category:半自动手枪 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:.40_S\&W口徑槍械](https://zh.wikipedia.org/wiki/Category:.40_S&W口徑槍械 "wikilink") [Category:.45_ACP口徑槍械](https://zh.wikipedia.org/wiki/Category:.45_ACP口徑槍械 "wikilink") [Category:美國半自動手槍](https://zh.wikipedia.org/wiki/Category:美國半自動手槍 "wikilink")
 
 1.  Glenn Barnes "Ruger's P series: what's wrong with Ruger's P-series semiauto pistols? Not a darn thing, says the author". Guns Magazine. FindArticles.com.[1](http://findarticles.com/p/articles/mi_m0BQY/is_1_50/ai_110470559/). Retrieved 2009-11-03.
-
 2.  [Ruger P series](http://world.guns.ru/handguns/hg05-e.htm), Modern firearms.
-
 3.  [P85 instruction manual](http://ruger-firearms.com/products/_manuals/p85.pdf) . Retrieved 2009-11-03.
-
 4.  [Shooting Illustrated | Ruger P85](https://www.shootingillustrated.com/articles/2012/2/2/ruger-p85/), Retrieved 2017-06-26.
-
 5.
 6.
-
 7.
 8.
 9.
 10. [Value of Ruger KP-89 | Northwest Firearms - Oregon, Washington, and Idaho Gun Owners](https://www.northwestfirearms.com/threads/value-of-ruger-kp-89.10747/)
-
 11. [Ruger instruction manuals and product history](http://ruger-firearms.com/service/productHistory.html). Retrieved 2009-11-03.
-
 12.
 13.
 14.

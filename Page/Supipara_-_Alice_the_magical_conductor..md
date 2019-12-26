@@ -42,7 +42,7 @@
   - 音樂：天門
   - 人物設定：七尾奈留、結城辰也、庄名泉石、\[6\]\[7\]
 
-## 原声集
+## 主题歌
 
 **Magical Happy Show \!**\[8\]
 
@@ -55,18 +55,12 @@
 [Category:Minori](https://zh.wikipedia.org/wiki/Category:Minori "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.
 8.
-
 9.
-
 10.

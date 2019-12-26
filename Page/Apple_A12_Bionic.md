@@ -19,8 +19,6 @@ Apple A12的CPU部分采用六核心设计，由两颗代号为“旋风”（Vo
 [Category:苹果公司处理器](https://zh.wikipedia.org/wiki/Category:苹果公司处理器 "wikilink") [Category:ARM架构](https://zh.wikipedia.org/wiki/Category:ARM架构 "wikilink") [Category:微处理器](https://zh.wikipedia.org/wiki/Category:微处理器 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

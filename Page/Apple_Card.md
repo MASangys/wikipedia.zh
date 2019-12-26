@@ -43,26 +43,15 @@ Apple Card 在2019年8月20日於美國正式啟用\[10\]。
 [Category:苹果公司](https://zh.wikipedia.org/wiki/Category:苹果公司 "wikilink") [Category:信用卡](https://zh.wikipedia.org/wiki/Category:信用卡 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.

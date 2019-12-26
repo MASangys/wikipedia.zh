@@ -4,7 +4,7 @@
 
   - [雷莎出击](../Page/雷莎出击.md "wikilink")（1990年，[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")，[艾尼克斯](../Page/艾尼克斯.md "wikilink")发行）
   - [创世封魔录](https://zh.wikipedia.org/wiki/创世封魔录 "wikilink")（1992年，超级任天堂，艾尼克斯发行）
-  - [雷莎出击2 对沉默的圣战](https://zh.wikipedia.org/wiki/雷莎出击2_对沉默的圣战 "wikilink")（1993年，超级任天堂，艾尼克斯发行）
+  - [雷莎出击2 沉默的圣战](https://zh.wikipedia.org/wiki/雷莎出击2_沉默的圣战 "wikilink")（1993年，超级任天堂，艾尼克斯发行）
   - [盖亚幻想记](https://zh.wikipedia.org/wiki/盖亚幻想记 "wikilink")（1993年，超级任天堂，艾尼克斯发行）
   - [勇者机器人](https://zh.wikipedia.org/wiki/勇者机器人 "wikilink")（1994年，超级任天堂，艾尼克斯发行）
   - [天地创造](https://zh.wikipedia.org/wiki/天地创造 "wikilink")（1995年，超级任天堂，艾尼克斯发行）

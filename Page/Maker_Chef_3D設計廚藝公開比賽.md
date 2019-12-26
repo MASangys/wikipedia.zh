@@ -149,38 +149,21 @@ Maker Chef 第一及第二屆均以製作3D曲奇為比賽題材，參賽者自�
 [Category:3D打印](https://zh.wikipedia.org/wiki/Category:3D打印 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.  金巴崙長老會耀道小學比賽事宜
-
 10. 高雷中學參加Maker Chef 活動細則
-
 11.
-
 12.  可藝中學|url=[https://www.hongai.edu.hk/activities_and_achievements/2016_2017/achievements_outside_school/20170325|work=www.hongai.edu.hk|accessdate=2019-04-23](https://www.hongai.edu.hk/activities_and_achievements/2016_2017/achievements_outside_school/20170325%7Cwork=www.hongai.edu.hk%7Caccessdate=2019-04-23)}}
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.  地產站 Property Station|url=[https://ps.hket.com/article/2182512/%E3%80%90%E9%A3%9F%E7%89%A9%E7%AF%87%E3%80%91%E5%BB%9A%E8%97%9D%E6%AF%94%E8%B3%BD%20%E7%A7%91%E6%8A%80%E7%BE%8E%E9%A3%9F%E9%9B%99%E7%B5%90%E5%90%88|work=ps.hket.com|accessdate=2019-04-24](https://ps.hket.com/article/2182512/%E3%80%90%E9%A3%9F%E7%89%A9%E7%AF%87%E3%80%91%E5%BB%9A%E8%97%9D%E6%AF%94%E8%B3%BD%20%E7%A7%91%E6%8A%80%E7%BE%8E%E9%A3%9F%E9%9B%99%E7%B5%90%E5%90%88%7Cwork=ps.hket.com%7Caccessdate=2019-04-24)}}
-
 18.
-
 19.

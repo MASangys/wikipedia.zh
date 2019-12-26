@@ -26,7 +26,7 @@ Mc车配备了一具单臂[受电弓](https://zh.wikipedia.org/wiki/受电弓 "w
 
 列车内部全部使用[LED照明](../Page/LED燈.md "wikilink")。\[8\]座位为纵向长椅。两节车厢都设有厕所。\[9\]
 
-<File:Interior> of EV-E801-1 a.jpg|alt=EV-E801-1车厢内部，望向驾驶室方向，摄于2017年2月|EV-E801-1车厢内部，望向驾驶室方向，摄于2017年2月 <File:Interior> of EV-E801-1 b.jpg|alt=EV-E801-1车厢内部，摄于2017年2月|EV-E801-1车厢内部，摄于2017年2月 <File:Interior> of EV-E800-1.jpg|alt=EV-E800-1车厢内部，2017年2月|EV-E800-1车厢内部，2017年2月 <File:EV-E800-1> wheelchair space.jpg|alt=EV-E800-1的轮椅及婴儿车区域，摄于2017年2月|EV-E800-1的轮椅及婴儿车区域，摄于2017年2月 <File:EV-E800-1> sanitation.jpg|alt=EV-E800-1车内的洗手间，摄于2017年2月| EV-E800-1车内的洗手间，摄于2017年2月 <File:EV-E801-1> driving cab.jpg|alt=EV-E801-1的驾驶室，摄于2017年2月|EV-E801-1的驾驶室，摄于2017年2月
+<File:Interior> of EV-E801-1 a.jpg|alt=EV-E801-1车厢内部，望向驾驶室方向，摄于2017年2月|EV-E801-1车厢内部，望向驾驶室方向，摄于2017年2月 <File:Interior> of EV-E801-1 b.jpg|alt=EV-E801-1车厢内部，摄于2017年2月|EV-E801-1车厢内部，摄于2017年2月 <File:Interior> of EV-E800-1.jpg|alt=EV-E800-1车厢内部，2017年2月|EV-E800-1车厢内部，2017年2月 <File:EV-E800-1> wheelchair space.jpg|alt=EV-E800-1的轮椅及婴儿车区域，摄于2017年2月|EV-E800-1的轮椅及婴儿车区域，摄于2017年2月 <File:EV-E800-1> sanitation.jpg|alt=EV-E800-1车内的洗手间，摄于2017年2月|EV-E800-1车内的洗手间，摄于2017年2月 <File:EV-E801-1> driving cab.jpg|alt=EV-E801-1的驾驶室，摄于2017年2月|EV-E801-1的驾驶室，摄于2017年2月
 
 ## 历史
 
@@ -54,19 +54,15 @@ Mc车配备了一具单臂[受电弓](https://zh.wikipedia.org/wiki/受电弓 "w
 [Category:東日本旅客鐵道](https://zh.wikipedia.org/wiki/Category:東日本旅客鐵道 "wikilink") [Category:日本電力動車組](https://zh.wikipedia.org/wiki/Category:日本電力動車組 "wikilink") [Category:含有日語的條目](https://zh.wikipedia.org/wiki/Category:含有日語的條目 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.
-
 7.
 8.
 9.
 10.
-
 11.
 12.
 13.

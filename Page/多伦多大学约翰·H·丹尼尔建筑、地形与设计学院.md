@@ -36,16 +36,11 @@
 [Category:多伦多大学](https://zh.wikipedia.org/wiki/Category:多伦多大学 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
 8.
 9.

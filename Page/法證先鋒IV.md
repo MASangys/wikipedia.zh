@@ -1,6 +1,6 @@
 《**法證先鋒IV**》（），是香港電視廣播有限公司拍攝製作的時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，[法證先鋒系列](../Page/法證先鋒系列.md "wikilink")第四輯，取用[阿萊](../Page/阿萊.md "wikilink")[艾麗莎](https://zh.wikipedia.org/wiki/艾麗莎 "wikilink")[攝影機](../Page/攝影機.md "wikilink")拍攝。此劇由[黃浩然](../Page/黃浩然.md "wikilink")、[李施嬅](../Page/李施嬅.md "wikilink")、[譚俊彥](../Page/譚俊彥.md "wikilink")、[陳煒](../Page/陳煒.md "wikilink")、[朱晨麗及](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")[湯洛雯](../Page/湯洛雯.md "wikilink")領銜主演，由[鄭希怡](../Page/鄭希怡.md "wikilink")、[陳敏之](../Page/陳敏之.md "wikilink")、[鄭俊弘](../Page/鄭俊弘.md "wikilink")、[張頴康](../Page/張頴康.md "wikilink")、[謝雪心](../Page/謝雪心.md "wikilink")、[海俊傑](../Page/海俊傑.md "wikilink")及[康華](../Page/康華.md "wikilink")聯合主演，並由[張曦雯](../Page/張曦雯.md "wikilink")\[1\]、[謝賢](../Page/謝賢.md "wikilink")、[米雪](../Page/米雪.md "wikilink")、[鮑起靜](../Page/鮑起靜.md "wikilink")及[麥玲玲](../Page/麥玲玲.md "wikilink")特別演出，編審[梁敏華](../Page/梁敏華.md "wikilink")、[阮美鳳](../Page/阮美鳳.md "wikilink")、[冼翠貞](../Page/冼翠貞.md "wikilink")，監製[方俊華](../Page/方俊華.md "wikilink")，總監製[梅小青](../Page/梅小青.md "wikilink")，出品人為[杜之克](../Page/杜之克.md "wikilink")。\[2\]該輯的故事與前三輯無關。
 
-此劇為[2019無綫節目巡禮](../Page/2019無綫節目巡禮.md "wikilink")19部劇集之一及2019年[香港國際影視展](../Page/TVB影視展星勢.md "wikilink")10部推介劇集之一。
+此劇為[2019無綫節目巡禮](../Page/2019無綫節目巡禮.md "wikilink")19部劇集之一及2019年[香港國際影視展](../Page/TVB影視展星勢.md "wikilink")10部推介劇集之一及[2020無綫節目巡禮](https://zh.wikipedia.org/wiki/2020無綫節目巡禮 "wikilink")12部劇集之一。
 
 ## 演員表
 
@@ -103,7 +103,8 @@
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/朱晨麗" title="wikilink">朱晨麗</a></strong></p></td>
 <td><p><strong>高　靖</strong></p></td>
 <td><p>警長<br />
-高安之妹 馬靄美之家姐<br />
+高安之妹<br />
+馬靄美之家姐<br />
 與湛霆有感情線</p></td>
 </tr>
 <tr class="even">
@@ -451,7 +452,7 @@
   - 此劇是[陳煒](../Page/陳煒.md "wikilink")、[謝雪心](../Page/謝雪心.md "wikilink")、[張文慈](../Page/張文慈.md "wikilink")、[黎燕珊](../Page/黎燕珊.md "wikilink")、[黃浩然](../Page/黃浩然.md "wikilink")、[鮑起靜](../Page/鮑起靜.md "wikilink")、[謝賢](../Page/謝賢.md "wikilink")離開[亞洲電視](../Page/亞洲電視.md "wikilink")後再度合作。
   - 此劇是[鄭俊弘](../Page/鄭俊弘.md "wikilink")繼《[法證先鋒](../Page/法證先鋒.md "wikilink")》, 《[法證先鋒II](../Page/法證先鋒II.md "wikilink")》後再度參演法證系列。
   - 此劇「徐意」一角原定由[黃心穎](../Page/黃心穎.md "wikilink")飾演，惟因[安心偷食事件而受影響](../Page/許志安與黃心穎出軌事件.md "wikilink")，其後改由[湯洛雯](../Page/湯洛雯.md "wikilink")飾演，並於2019年6月開始重拍其角色所有戲份\[3\]\[4\]\[5\]\[6\]。
-  - 此劇是[李施嬅](../Page/李施嬅.md "wikilink")在無綫電視的告別作。
+  - 此劇是[李施嬅](../Page/李施嬅.md "wikilink")、[溫家偉](../Page/溫家偉.md "wikilink")在無綫電視之告別作。
 
 ## 參考資料
 

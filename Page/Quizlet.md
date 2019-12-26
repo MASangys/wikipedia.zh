@@ -52,49 +52,27 @@ Quizlet为用户提供了 [API](../Page/应用程序接口.md "wikilink") 用来
 [Category:语言学习软件](https://zh.wikipedia.org/wiki/Category:语言学习软件 "wikilink") [Category:教育网站](https://zh.wikipedia.org/wiki/Category:教育网站 "wikilink") [Category:2007年建立的网站](https://zh.wikipedia.org/wiki/Category:2007年建立的网站 "wikilink")
 
 1.
-
 2.
-
-3.  [Quizlet Mission Page](http://www.quizlet.com/about/).
-
+3.  [Quizlet Mission Page](http://www.quizlet.com/about/) .
 4.
-
 5.
-
 6.  Tynan, Dan. PC World. (March 9, 2008) ["Meet the Whiz Kids: 10 Overachievers Under 21"](http://abcnews.go.com/Technology/PCWorld/story?id=4417827).
-
 7.  [The Morning Show with Mike and Juliet](https://www.youtube.com/watch?v=ilSPvgo0K38).
-
 8.
-
 9.  MIT / "Quiz Yourself"\].
-
 10.
-
 11.
-
 12.
-
 13.
-
 14. [1](https://quizlet.com/blog/quizlet-is-now-100-percent-secured-with-https).
-
 15.
-
 16.
-
 17.
-
 18.
-
 19. Wendy Boswell. Life Hacker. (January 28, 2007) ["Practice your vocabulary with Quizlet"](http://lifehacker.com/#!231993/practice-your-vocabulary-with-quizlet).
-
 20.
-
 21.
-
 22.
-
 23.
 24.
 25.

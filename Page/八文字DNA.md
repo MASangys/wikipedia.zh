@@ -46,22 +46,14 @@
 [Category:分子生物學](https://zh.wikipedia.org/wiki/Category:分子生物學 "wikilink") [Category:合成生物学](https://zh.wikipedia.org/wiki/Category:合成生物学 "wikilink") [Category:DNA](https://zh.wikipedia.org/wiki/Category:DNA "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
 11.
 12.
@@ -71,13 +63,10 @@
 16.
 17.
 18.
-
 19.
 20.
 21.
 22.
-
 23.
-
 24.
 25.

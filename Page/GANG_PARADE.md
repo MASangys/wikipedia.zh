@@ -768,27 +768,16 @@ AVCD-93765【通常盤】</p></td>
 [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11. 特典映像として、「CAN'T STOP」のパフォーマンス中にステージ後方のモニターで流れた、メンバーの幼少期の写真で構成されたスペシャルムービーが収録されている。同映像は[エリザベス宮地が手掛けた](https://zh.wikipedia.org/wiki/エリザベス宮地 "wikilink")（）。
-
 12.
-
 13.
 14.

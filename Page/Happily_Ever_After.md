@@ -66,6 +66,7 @@
 <li>KIHNO卡1種，60mm x 60mm</li>
 <li>寫真卡31張，74mm x 105mm</li>
 <li>隨機明信片2張，104mm x 154mm（全版本6種）</li>
+<li>專輯銷量：270,101+<sup><a href="https://zh.wikipedia.org/wiki/NU&#39;EST#cite%20note-142" title="wikilink">[142</a>]</sup></li>
 </ul></td>
 </tr>
 </tbody>
@@ -82,12 +83,15 @@
 
 ## 音樂錄影帶
 
-| 首播日期       | 歌名                                                             |
-| ---------- | -------------------------------------------------------------- |
-| 2019年4月29日 | [BET BET](https://www.youtube.com/watch?v=S4zXetyhuxc)         |
-| 2019年5月6日  | [BET BET 舞蹈版](https://www.youtube.com/watch?v=_0Q2HSZaamI)     |
-| 2019年5月17日 | [Talk about love](https://www.youtube.com/watch?v=ScsqaLQamTE) |
-| 2019年4月3日  | [Universe](https://www.youtube.com/watch?v=OQVZA4qYpEM)        |
+| 首播日期        | 歌名                                                                                           |
+| ----------- | -------------------------------------------------------------------------------------------- |
+| 2019年4月3日   | [Universe](https://www.youtube.com/watch?v=OQVZA4qYpEM)                                      |
+| 2019年4月29日  | [BET BET](https://www.youtube.com/watch?v=S4zXetyhuxc)                                       |
+| 2019年4月30日  | [BET BET 應援版](https://www.youtube.com/watch?v=IhqPM60Zz9I)                                   |
+| 2019年5月6日   | [BET BET 舞蹈版](https://www.youtube.com/watch?v=_0Q2HSZaamI)                                   |
+| 2019年5月17日  | [Talk about love](https://www.youtube.com/watch?v=ScsqaLQamTE)                               |
+| 2019年5月18日  | [BET BET 練習室 Winning \#1 版](https://www.youtube.com/watch?v=q4CgjXW4v8QBET)                  |
+| 2019年11月22日 | [BASS 2019 NU'EST FAN MEETING 'L.O.Λ.E PAGE' 版](https://www.youtube.com/watch?v=vYPJ1GflWc8) |
 
 ## 發行歷史
 
@@ -106,7 +110,8 @@
 <td><p>2019年4月29日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
 <td><p><a href="../Page/Pledis娛樂.md" title="wikilink">Pledis娛樂</a><br />
-<strong>Stone Music</strong></p></td>
+<strong><a href="../Page/Stone_Music_Entertainment.md" title="wikilink">Stone Music</a></strong><br />
+<strong><a href="../Page/Genie音樂.md" title="wikilink">GENIE MUSIC</a></strong></p></td>
 </tr>
 </tbody>
 </table>

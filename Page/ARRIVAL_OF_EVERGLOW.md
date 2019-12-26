@@ -160,7 +160,7 @@
 
 ## 參考資料
 
-[Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink") [Category:EVERGLOW](https://zh.wikipedia.org/wiki/Category:EVERGLOW "wikilink")
+[Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink") [Category:EVERGLOW](https://zh.wikipedia.org/wiki/Category:EVERGLOW "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
 
 1.
 2.

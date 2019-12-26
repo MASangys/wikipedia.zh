@@ -54,7 +54,7 @@
 <hr/>
 <p><strong>16年前夢想國度：</strong><br />
 1978年9月，首爾特別市陽川區新月洞出生，身份證：789093-1031410，在2003年11月28日夢想國度發生火災那天當去野草天使院當義工最後葬身火窟，享年26歲。</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周鑫霆" title="wikilink">周鑫霆</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

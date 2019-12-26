@@ -66,7 +66,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019年9月20日－<br />
-2019年11月16日</p></td>
+2019年11月23日</p></td>
 <td style="text-align: center;"><p><a href="../Page/VAGABOND_(電視劇).md" title="wikilink">VAGABOND</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
@@ -76,14 +76,14 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年月日－<br />
-2020年月日</p></td>
+<td style="text-align: center;"><p>2019年12月13日－<br />
+2020年2月1日</p></td>
 <td style="text-align: center;"><p><a href="../Page/Stove_League.md" title="wikilink">Stove League</a><br />
 </p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/南宮珉.md" title="wikilink">南宮珉</a>、<a href="../Page/朴恩玭.md" title="wikilink">朴恩玭</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭東允" title="wikilink">鄭東允</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李新華（編劇）" title="wikilink">李新華</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李新華_(編劇)" title="wikilink">李新華</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -115,7 +115,29 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p>2020年3月日－<br />
+<td style="text-align: center;"><p>2020年2月7日－<br />
+2020年月日</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Hyena" title="wikilink">Hyena</a><br />
+</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="../Page/朱智勛.md" title="wikilink">朱智勛</a>、<a href="../Page/金惠秀.md" title="wikilink">金惠秀</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/張太侑.md" title="wikilink">張太侑</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金璐利" title="wikilink">金璐利</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2020年月日－<br />
+2020年月日</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Alice_(韓國電視劇)" title="wikilink">Alice</a><br />
+</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="../Page/周元_(韓國).md" title="wikilink">周元</a>、<a href="../Page/金喜善.md" title="wikilink">金喜善</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/白秀燦" title="wikilink">白秀燦</a></p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2020年月日－<br />
 2020年月日</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/The_King：永遠的君主" title="wikilink">The King：永遠的君主</a><br />
 </p></td>
@@ -125,17 +147,6 @@
 <td style="text-align: center;"><p><a href="../Page/金銀淑.md" title="wikilink">金銀淑</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
-<tr class="even">
-<td style="text-align: center;"><p>2020年月日－<br />
-2020年月日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Hyena" title="wikilink">Hyena</a><br />
-</p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="../Page/朱智勛.md" title="wikilink">朱智勛</a> 、<a href="../Page/金惠秀.md" title="wikilink">金惠秀</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/張太侑.md" title="wikilink">張太侑</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金璐利" title="wikilink">金璐利</a></p></td>
-<td style="text-align: center;"></td>
-</tr>
 </tbody>
 </table>
 
@@ -143,7 +154,7 @@
 
 ## 外部連結
 
-  - [韓國SBS官方網站](https://programs.sbs.co.kr/)
+  - [韓國SBS官方網站](https://www.sbs.co.kr/)
 
 [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:SBS金土連續劇](https://zh.wikipedia.org/wiki/Category:SBS金土連續劇 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
 

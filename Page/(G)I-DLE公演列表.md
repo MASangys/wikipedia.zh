@@ -41,19 +41,24 @@
 | 11月4日  |
 | 11月23日 |
 
-| 2019年 |
-| ----- |
-| 演出日期  |
-| 2月3日  |
-| 3月1日  |
-| 3月5日  |
-| 3月23日 |
-| 5月18日 |
-| 5月26日 |
-| 7月7日  |
-| 8月24日 |
-| 9月1日  |
-| 9月    |
+| 2019年  |
+| ------ |
+| 演出日期   |
+| 2月3日   |
+| 3月1日   |
+| 3月5日   |
+| 3月23日  |
+| 5月18日  |
+| 5月26日  |
+| 7月7日   |
+| 8月24日  |
+| 8月30日  |
+| 9月1日   |
+| 9月21日  |
+| 9月28日  |
+| 9月29日  |
+| 10月12日 |
+| 10月19日 |
 
 ## 公演活动
 
@@ -236,6 +241,42 @@
 <td><p>8月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Soribada最佳音乐大奖" title="wikilink">第3届Soribada最佳音乐大奖颁奖典礼</a></p></td>
 <td><p><a href="../Page/首尔奥林匹克体操竞技场.md" title="wikilink">首尔奥林匹克体操竞技场</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9月19日</p></td>
+<td><p>首爾大學工大慶典</p></td>
+<td><p>首爾大學工大</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月20日</p></td>
+<td><p>清州大學Festival開幕式</p></td>
+<td><p>清州大學</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9月25日</p></td>
+<td><p>天安慶典</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月2日</p></td>
+<td><p>Sungkyul University Festival</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10月4日</p></td>
+<td><p>Spotify On Stage JKT</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月8日</p></td>
+<td><p>SPECIAL MUSIC FESTIVAL</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

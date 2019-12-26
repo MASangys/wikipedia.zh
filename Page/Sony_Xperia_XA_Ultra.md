@@ -41,8 +41,8 @@ Xperia XA Ultra预装了[Android 6.0.1 Marshmallow](../Page/Android_Marshmallow.
 
   - <span class="url">[官方网站](http://www.sonymobile.com/global-en/products/phones/xperia-xa-ultra/)</span>
   - [官方新闻稿](http://blogs.sonymobile.com/press_release/create-the-perfect-night-time-selfie-with-the-new-sony-xperia-xa-ultra/)
-  - [官方白皮书](http://dl-developer.sonymobile.com/documentation/whitepapers/Xperia%20XA%20Ultra_WP_1.pdf)
-  - [官方白皮书(双模型)](http://dl-developer.sonymobile.com/documentation/whitepapers/Xperia%20XA%20Ultra_Dual_WP_1.pdf)
+  - [官方白皮书](https://web.archive.org/web/20160615103458/http://dl-developer.sonymobile.com/documentation/whitepapers/Xperia%20XA%20Ultra_WP_1.pdf)
+  - [官方白皮书(双模型)](https://web.archive.org/web/20161225145859/http://dl-developer.sonymobile.com/documentation/whitepapers/Xperia%20XA%20Ultra_Dual_WP_1.pdf)
 
 <table>
 <tbody>

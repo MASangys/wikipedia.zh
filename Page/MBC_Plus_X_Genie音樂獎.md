@@ -57,13 +57,9 @@ MBC Plus X Genie音樂獎是首次由[電視臺和音樂平臺企業合作的韓
 [Category:2018年建立的奖项](https://zh.wikipedia.org/wiki/Category:2018年建立的奖项 "wikilink") [Category:2018年韓國建立](https://zh.wikipedia.org/wiki/Category:2018年韓國建立 "wikilink") [Category:音乐奖项](https://zh.wikipedia.org/wiki/Category:音乐奖项 "wikilink") [Category:韓國音樂獎項](https://zh.wikipedia.org/wiki/Category:韓國音樂獎項 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.

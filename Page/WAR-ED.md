@@ -132,12 +132,8 @@
 [Category:Being旗下艺人](https://zh.wikipedia.org/wiki/Category:Being旗下艺人 "wikilink") [Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:2010年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2010年成立的音乐团体 "wikilink") [Category:2015年解散的音乐团体](https://zh.wikipedia.org/wiki/Category:2015年解散的音乐团体 "wikilink")
 
 1.   OKMusic |url=<https://okmusic.jp/news/31393> |website=okmusic.jp |accessdate=2019-03-28}}
-
 2.
-
 3.
-
 4.
-
 5.
 6.   Special |url=<http://www.billboard-japan.com/special/detail/872> |website=Billboard JAPAN |accessdate=2019-03-28 |language=ja}}

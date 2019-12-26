@@ -9,7 +9,7 @@
 | <small>903</small>  |   <small>週數</small>   | <small>RTHK</small> |
 | <small>2018</small> | <small>伯利恆的主角</small> |         \-          |
 | <small>2019</small> |  <small>所以我愛</small>  |        **1**        |
-| <small>運動詩歌</small> |          12           |          1          |
+| <small>運動詩歌</small> |           3           |          4          |
 
 [Category:衛蘭音樂專輯](https://zh.wikipedia.org/wiki/Category:衛蘭音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 

@@ -12,7 +12,7 @@
 
 ## 開發背景與發售
 
-《特技摩托賽HD》是中繼《》以來的第二款[偽三維](../Page/偽三維.md "wikilink")（又稱2.5D）作品\[16\]。本作以[RedLynx](../Page/RedLynx.md "wikilink")自家研發的引擎與客製化版本的[Bullet](../Page/Bullet.md "wikilink")物理引擎研發，整體性能較前作更為優越\[17\]\[18\]。Bullet物理引擎讓遊戲變得更加擬真，不過為了增加遊戲趣味性，RedLynx以「適當的方式稍微調整了物理定律」\[19\]，並表示此舉是「讓本作引人入勝且令人上癮的大功臣」\[20\]。開發人員還優化了《特技摩托賽2》的部分引擎加入本作，使遊戲光影效果更上一層樓\[21\]。
+《特技摩托賽HD》是[《特技摩托賽》系列中繼](../Page/特技摩托賽系列.md "wikilink")《》以來的第二款[偽三維](../Page/偽三維.md "wikilink")（又稱2.5D）作品\[16\]。本作以[RedLynx](../Page/RedLynx.md "wikilink")自家研發的引擎與客製化版本的[Bullet](../Page/Bullet.md "wikilink")物理引擎研發，整體性能較前作更為優越\[17\]\[18\]。Bullet物理引擎讓遊戲變得更加擬真，不過為了增加遊戲趣味性，RedLynx以「適當的方式稍微調整了物理定律」\[19\]，並表示此舉是「讓本作引人入勝且令人上癮的大功臣」\[20\]。開發人員還優化了《特技摩托賽2》的部分引擎加入本作，使遊戲光影效果更上一層樓\[21\]。
 
 [TrialsHD_levelEditor.png](https://zh.wikipedia.org/wiki/File:TrialsHD_levelEditor.png "fig:TrialsHD_levelEditor.png")
 

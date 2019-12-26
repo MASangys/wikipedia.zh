@@ -4,9 +4,9 @@
 
 曾在[内蒙古](https://zh.wikipedia.org/wiki/内蒙古 "wikilink")[牙克石市](../Page/牙克石市.md "wikilink")进行上千公里测试。
 
-2018年6月底面世，报价6万5美元。\[1\]\[2\]\[3\][动力总成](../Page/动力总成.md "wikilink")由制造。\[4\]和[罗伯特·博世公司](../Page/罗伯特·博世公司.md "wikilink")也有合作关系。\[5\]
+2018年6月底面世，报价6万5美元。\[1\]\[2\]\[3\][动力总成](../Page/动力总成.md "wikilink")由制造。\[4\]和[罗伯特·博世公司](../Page/罗伯特·博世公司.md "wikilink")支援傳感器技術、自動駕駛、電動機控制和智能運輸系統。\[5\]電池模組來自寧德時代以及三星SDI，[電池管理系統使用與罗伯特](https://zh.wikipedia.org/wiki/電池管理系統 "wikilink")·博世公司合作的聯合汽車電子，整車由[江淮汽車負責](https://zh.wikipedia.org/wiki/江淮汽車 "wikilink")。
 
-<File:Nio> ES8 rear.jpg| <File:NIO> ES8 01 China 2019-04-02.jpg| <File:Nio> ES8 rear matte blue.jpg
+<File:2018> NIO ES8.jpg| <File:NIO> ES8 01 China 2019-04-02.jpg| <File:NIO> ES8 02 China 2019-04-02.jpg
 
 ## 参考来源
 

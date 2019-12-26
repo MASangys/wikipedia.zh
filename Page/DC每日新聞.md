@@ -20,6 +20,8 @@
 
 攝製組在[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[伯班克的華納兄弟數字網絡工作室內新建了](https://zh.wikipedia.org/wiki/伯班克_\(加利福尼亞州\) "wikilink")2100平方英尺的攝影棚用於節目拍攝。棚內包括了各種DC漫畫角色的大型展板、雕像等周邊\[8\]。
 
+## 註釋
+
 ## 資料來源
 
 ## 外部連結
@@ -28,17 +30,10 @@
 [Category:2010年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2010年代美國電視劇 "wikilink") [Category:2018年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2018年開播的美國電視影集 "wikilink") [Category:美國電視新聞節目](https://zh.wikipedia.org/wiki/Category:美國電視新聞節目 "wikilink") [Category:DC_Universe原創節目](https://zh.wikipedia.org/wiki/Category:DC_Universe原創節目 "wikilink") [Category:英语电视节目](https://zh.wikipedia.org/wiki/Category:英语电视节目 "wikilink") [Category:华纳兄弟电视公司制作的电视节目](https://zh.wikipedia.org/wiki/Category:华纳兄弟电视公司制作的电视节目 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.

@@ -173,10 +173,7 @@ E. Gaspardone Bulletin de l'Ecole française d'Extrême-Orient Année 1933 Volum
 [Category:黏着語](https://zh.wikipedia.org/wiki/Category:黏着語 "wikilink") [Category:Southern_Mongolic_languages](https://zh.wikipedia.org/wiki/Category:Southern_Mongolic_languages "wikilink") [Category:中国语言](https://zh.wikipedia.org/wiki/Category:中国语言 "wikilink") [Category:土族](https://zh.wikipedia.org/wiki/Category:土族 "wikilink")
 
 1.
-
 2.
-
 3.  Dpal-ldan-bkra-shis, Slater *et al.* 1996: 4
-
 4.
 5.  Svantesson *et al.* 2005: 130

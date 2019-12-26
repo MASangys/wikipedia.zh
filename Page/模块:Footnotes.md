@@ -17,11 +17,16 @@ local args_default = {
 `   ref = '',`
 `   };`
 
-\--[--------------------------\< I S _ Y E A R \>---------------------------------------------------------------- evaluates param to see if it is one of these forms with or without lowercase letter disambiguator: YYYY n.d. nd c. YYYY YYYY–YYYY (separator is endash) return true when param has a recognized form; false else](https://zh.wikipedia.org/wiki/--------------------------\<_I_S_Y_E_A_R_\>----------------------------------------------------------------_evaluates_param_to_see_if_it_is_one_of_these_forms_with_or_without_lowercase_letter_disambiguator:_YYYY_n.d._nd_c._YYYY_YYYY–YYYY_\(separator_is_endash\)_return_true_when_param_has_a_recognized_form;_false_else "wikilink")
+\--[--------------------------\< I S _ Y E A R \>---------------------------------------------------------------- evaluates param to see if it is one of these forms with or without lowercase letter disambiguator: YYYY n.d. nd c. YYYY YYYY–YYYY (separator is endash) YYYY–YY (separator is endash) return true when param has a recognized form; false else](https://zh.wikipedia.org/wiki/--------------------------\<_I_S_Y_E_A_R_\>----------------------------------------------------------------_evaluates_param_to_see_if_it_is_one_of_these_forms_with_or_without_lowercase_letter_disambiguator:_YYYY_n.d._nd_c._YYYY_YYYY–YYYY_\(separator_is_endash\)_YYYY–YY_\(separator_is_endash\)_return_true_when_param_has_a_recognized_form;_false_else "wikilink")
 
 local function is_year (param)
 
-`   return param:match ('^%d%d%d%d?%l?$') or param:match ('^n%.d%.%l?$') or param:match ('^nd%l?$') or param:match ('^c%. %d%d%d%d?%l?$') or param:match ('^%d%d%d%d–%d%d%d%d%l?$');`
+`   return mw.ustring.match (param, '^%d%d%d%d?%l?$') or`
+`       mw.ustring.match (param, '^n%.d%.%l?$') or`
+`       mw.ustring.match (param, '^nd%l?$') or`
+`       mw.ustring.match (param, '^c%. %d%d%d%d?%l?$') or`
+`       mw.ustring.match (param, '^%d%d%d%d–%d%d%d%d%l?$') or`
+`       mw.ustring.match (param, '^%d%d%d%d–%d%d%l?$');`
 
 end
 

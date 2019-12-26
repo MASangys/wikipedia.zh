@@ -1,4 +1,4 @@
-《**A-TEEN**》（），為[韓國於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2018年7月1日至2018年9月16日通過[NAVER TV](../Page/NAVER.md "wikilink")、[V LIVE播出的網路劇](../Page/NAVER.md "wikilink")。此作為網路劇《十七歲》的後續作品，與前作不同的是，本劇講述迎接18歲高中生們青澀懵懂的戀愛、複雜矛盾的友情的故事\[1\]\[2\]。第二季將於2019年4月25日播出\[3\]。
+《**A-TEEN**》（），為[韓國於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2018年7月1日至2018年9月16日通過[NAVER TV](../Page/NAVER.md "wikilink")、[V LIVE播出的網路劇](../Page/NAVER.md "wikilink")。此作為網路劇《十七歲》的後續作品，與前作不同的是，本劇講述迎接18歲高中生們青澀懵懂的戀愛、複雜矛盾的友情的故事\[1\]\[2\]。第二季於2019年4月25日播出\[3\]。
 
 ## 演員陣容
 
@@ -15,7 +15,7 @@
 <td><p>都荷娜</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李娜恩.md" title="wikilink">李娜恩</a>（<a href="https://zh.wikipedia.org/wiki/APRIL" title="wikilink">APRIL</a>）</p></td>
+<td><p><a href="../Page/李娜恩.md" title="wikilink">李娜恩</a>（<a href="../Page/APRIL_(女子團體).md" title="wikilink">APRIL</a>）</p></td>
 <td><p>金荷娜 (金昭妍)</p></td>
 </tr>
 <tr class="even">
@@ -24,7 +24,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金東希.md" title="wikilink">金東希</a></p></td>
-<td><p>夏旼</p></td>
+<td><p>河玟</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/申承浩.md" title="wikilink">申承浩</a></p></td>
@@ -44,7 +44,7 @@
 | **演員**                                                                      | **角色** |
 | [鄭乾柱](../Page/鄭乾柱.md "wikilink")                                            | 體育老師   |
 | Ddotty                                                                      | 遊戲解說員  |
-| 崔元明                                                                         | 元明     |
+| [崔元明](https://zh.wikipedia.org/wiki/崔元明 "wikilink")                         | 元明     |
 | [Jeno](../Page/Jeno.md "wikilink") ([NCT Dream](../Page/NCT.md "wikilink")) | 學生     |
 | [渽民](../Page/渽民.md "wikilink") ([NCT Dream](../Page/NCT.md "wikilink"))     | 學生     |
 

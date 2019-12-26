@@ -35,19 +35,14 @@ ZAO的正式版发布后旋即成为热门，在中国大陆区的[App Store免�
 [Category:2019年中国建立](https://zh.wikipedia.org/wiki/Category:2019年中国建立 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:免费软件](https://zh.wikipedia.org/wiki/Category:免费软件 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.
 8.
 9.
-
 10.
 11.
 12.
@@ -55,12 +50,9 @@ ZAO的正式版发布后旋即成为热门，在中国大陆区的[App Store免�
 14.
 15.
 16.
-
 17.
-
 18.
 19.
-
 20.
 21.
 22.

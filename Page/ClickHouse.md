@@ -72,41 +72,23 @@ ClickHouse还可以用作内部分析师的内部数据仓库。ClickHouse可以
 [Category:開源資料庫管理系統](https://zh.wikipedia.org/wiki/Category:開源資料庫管理系統 "wikilink")
 
 1.
-
-2.   Competitor Analysis {{\!}} Google Analytics, Google Universal Analytics, Yandex Metrica|last=Datanyze|website=Datanyze|language=en-US|access-date=2016-11-10}}
-
+2.   Competitor Analysis {{\!}} Google Analytics, Google Universal Analytics, Yandex Metrica|last=Datanyze|website=Datanyze|language=en-US|access-date=2016-11-10|archive-url=[https://web.archive.org/web/20161021001156/https://www.datanyze.com/market-share/Analytics/|archive-date=2016-10-21|dead-url=yes](https://web.archive.org/web/20161021001156/https://www.datanyze.com/market-share/Analytics/%7Carchive-date=2016-10-21%7Cdead-url=yes)}}
 3.
-
 4.
-
 5.   Percona Live Amsterdam - Open Source Database Conference 2016|website=www.percona.com|access-date=2016-11-10}}
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
 21.

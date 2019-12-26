@@ -145,26 +145,15 @@ LQG最佳化本身不確保有良好的[強健性](https://zh.wikipedia.org/wiki
 [Category:最佳控制](https://zh.wikipedia.org/wiki/Category:最佳控制 "wikilink") [Category:控制理论](https://zh.wikipedia.org/wiki/Category:控制理论 "wikilink") [Category:隨機控制](https://zh.wikipedia.org/wiki/Category:隨機控制 "wikilink")
 
 1.  .
-
 2.  .
-
 3.  .
-
 4.
-
 5.   [Associated software download from Matlab Central](http://www.mathworks.com/matlabcentral/fileexchange/loadFile.do?objectId=19948&objectType=file).
-
 6.   [Associated software download from Matlab Central](http://www.mathworks.com/matlabcentral/fileexchange/loadFile.do?objectId=20014&objectType=FILE).
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.

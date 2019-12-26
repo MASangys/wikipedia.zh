@@ -18,25 +18,16 @@
 [Category:最佳控制](https://zh.wikipedia.org/wiki/Category:最佳控制 "wikilink") [Category:数值分析](https://zh.wikipedia.org/wiki/Category:数值分析 "wikilink") [Category:控制理论](https://zh.wikipedia.org/wiki/Category:控制理论 "wikilink")
 
 1.  I. M. Ross and F. Fahroo, A Pseudospectral Transformation of the Covectors of Optimal Control Systems, Proceedings of the First IFAC Symposium on System Structure and Control, Prague, Czech Republic, 29–31 August 2001.
-
 2.
-
 3.  I. M. Ross and F. Fahroo, Discrete Verification of Necessary Conditions for Switched Nonlinear Optimal Control Systems, *Proceedings of the American Control Conference, Invited Paper*, June 2004, Boston, MA.
-
 4.  N. Bedrossian, M. Karpenko, and S. Bhatt, "Overclock My Satellite: Sophisticated Algorithms Boost Satellite Performance on the Cheap", *IEEE Spectrum*, November 2012.
-
 5.
-
 6.  B. S. Mordukhovich, Variational Analysis and Generalized Differentiation: Basic Theory, Vol.330 of Grundlehren der Mathematischen Wissenschaften \[Fundamental Principles of Mathematical Sciences\] Series, Springer, Berlin, 2005.
-
 7.  F. Fahroo and I. M. Ross, Pseudospectral Methods for Infinite Horizon Nonlinear Optimal Control Problems, AIAA Guidance, Navigation and Control Conference, August 15–18, 2005, San Francisco, CA.
-
 8.
-
 9.
 10.
 11.
 12.
 13. A. M. Hawkins, *Constrained Trajectory Optimization of a Soft Lunar Landing From a Parking Orbit,* S.M. Thesis, Dept. of Aeronautics and Astronautics, Massachusetts Institute of Technology, 2005. <http://dspace.mit.edu/handle/1721.1/32431>
-
 14. J. R. Rea, *A Legendre Pseudospectral Method for Rapid Optimization of Launch Vehicle Trajectories,* S.M. Thesis, Dept. of Aeronautics and Astronautics, Massachusetts Institute of Technology, 2001. <http://dspace.mit.edu/handle/1721.1/8608>

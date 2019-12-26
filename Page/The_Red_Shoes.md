@@ -17,6 +17,10 @@
 | 《純粹誤會》   | 第十二位                                         | －                                            | －         | －                                      | \[8\]       |
 | 《你係我嘅》   | －                                            | 第十三位                                         | 冠軍        | 第六位                                    | \[9\]\[10\] |
 
+## 獎項
+
+《The Red Shoes》音樂專輯獲得2001年度[IFPI十大銷量國語唱片獎](https://zh.wikipedia.org/wiki/IFPI "wikilink")\[11\]。
+
 ## 参考來源
 
 [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
@@ -33,3 +37,4 @@
 8.
 9.
 10.
+11.

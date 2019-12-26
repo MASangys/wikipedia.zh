@@ -382,6 +382,67 @@ Poppin' Party的第十四張單曲。預計於2019年5月15日發售。
     2.  網路用下回預告＃１～＃２
     3.  動畫「BanG Dream\! 2nd Season」廣告 Poppin' Party篇
 
+#### イニシャル/夢を撃ち抜く瞬間に！
+
+Poppin' Party的第十五張單曲。預計於2020年1月8日發售。
+
+  - 收錄曲
+    全作詞：[中村航](https://zh.wikipedia.org/wiki/中村航 "wikilink")
+
+\<キラキラVer.\>
+
+:\# **イニシャル**
+
+:\#\* 作曲： [上松範康](../Page/上松範康.md "wikilink")（Elements Garden）、編曲：[藤永龍太郎](../Page/藤永龍太郎.md "wikilink")（Elements Garden）
+
+:\# **夢を撃ち抜く瞬間に！**
+
+:\#\* 作曲： [上松範康](../Page/上松範康.md "wikilink")（Elements Garden）、編曲：[竹田祐介](https://zh.wikipedia.org/wiki/竹田祐介 "wikilink")（Elements Garden）
+
+:\# **SAKURA MEMORIES**
+
+:\#\* 作曲、編曲：[藤間仁](../Page/藤間仁.md "wikilink")（Elements Garden）
+
+:\# イニシャル（樂器演奏）
+
+:\# 夢を撃ち抜く瞬間に！（樂器演奏）
+
+:\# SAKURA MEMORIES（樂器演奏）
+
+:; 藍光影像（僅限限定盤）
+
+:\# 動畫「BanG Dream\! 2nd Season」＃13
+
+:\# 動畫「BanG Dream\! 3rd Season」＃1
+
+:\# 其他 \<ドキドキVer.\>
+
+:\# **イニシャル**
+
+:\#\* 作曲： [上松範康](../Page/上松範康.md "wikilink")（Elements Garden）、編曲：[藤永龍太郎](../Page/藤永龍太郎.md "wikilink")（Elements Garden）
+
+:\# **夢を撃ち抜く瞬間に！**
+
+:\#\* 作曲： [上松範康](../Page/上松範康.md "wikilink")（Elements Garden）、編曲：[竹田祐介](https://zh.wikipedia.org/wiki/竹田祐介 "wikilink")（Elements Garden）
+
+:\# **アニバーサリー**
+
+:\#\* 作曲、編曲：[岩橋星實](https://zh.wikipedia.org/wiki/岩橋星實 "wikilink")（Elements Garden）
+
+:\# イニシャル（樂器演奏）
+
+:\# 夢を撃ち抜く瞬間に！（樂器演奏）
+
+:\# アニバーサリー（樂器演奏）
+
+:; 藍光影像（僅限限定盤）
+
+:\# 動畫「BanG Dream\! 2nd Season」＃13
+
+:\# 動畫「BanG Dream\! 3rd Season」＃1
+
+:\# 其他
+
 ### 專輯
 
 #### Poppin' on\!
@@ -556,19 +617,11 @@ A面曲〈**BLACK SHOUT**〉是一首像Roselia一樣黑暗和酷炫的歌曲，
 
 #### Re:birth day
 
-| Name = Re:birth day | Artist = Roselia | Album = Anfang | A-side = | B-side = 陽だまりロードナイト | Released = [2017年](../Page/2017年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink") | Format = [マキシシングル](https://zh.wikipedia.org/wiki/シングル "wikilink") | Recorded = | Genre = [J-POP](https://zh.wikipedia.org/wiki/J-POP "wikilink")、[角色歌曲](https://zh.wikipedia.org/wiki/角色歌曲 "wikilink") | Length = | Label = [武士道音樂](../Page/武士道_\(公司\).md "wikilink") | Writer = 織田あすか（作詞）
-[藤永龍太郎](../Page/藤永龍太郎.md "wikilink")（作曲） | Producer = [Elements Garden](../Page/Elements_Garden.md "wikilink")\[40\] | Certification = | Chart position = \*週間9位（Oricon公信榜）\[41\]
+Roselia的第二張單曲。[2017年](../Page/2017年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")發售\[40\]\[41\]。
 
-  - 登場回数23回（Oricon公信榜）
+分為普通盤（BRMM-10091）和生產限定盤（BRMM-10090）。生產限定盤的藍光影像，收錄了2017年4月30日於[橫濱體育館](../Page/橫濱體育館.md "wikilink")舉辦的「武士道10周年紀念Live」的Roselia後台影像，以及〈Re:birth day〉的現場演唱影像\[42\]。
 
-| Last single = BLACK SHOUT
-（2017年） | This single = **Re:birth day**
-（2017年） | Next single = 熱色スターマイン
-（2017年） }}Roselia的第二張單曲。[2017年](../Page/2017年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")發售\[42\]\[43\]。
-
-分為普通盤（BRMM-10091）和生產限定盤（BRMM-10090）。生產限定盤的藍光影像，收錄了2017年4月30日於[橫濱體育館](../Page/橫濱體育館.md "wikilink")舉辦的「武士道10周年紀念Live」的Roselia後台影像，以及〈Re:birth day〉的現場演唱影像\[44\]。
-
-兩種版本的單曲，初回生產特典皆為7月29舉行的「Roselia 1st Live Rosenlied 追加公演」先行抽選券，以及角色卡一張（全六種，隨機發放）\[45\]。
+兩種版本的單曲，初回生產特典皆為7月29舉行的「Roselia 1st Live Rosenlied 追加公演」先行抽選券，以及角色卡一張（全六種，隨機發放）\[43\]。
 
   - 收錄曲
     全作詞：[織田あすか](https://zh.wikipedia.org/wiki/織田あすか "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")），全作曲、編曲：[藤永龍太郎](../Page/藤永龍太郎.md "wikilink")（Elements Garden）
@@ -592,14 +645,14 @@ Roselia的第三張單曲。[2017年](../Page/2017年.md "wikilink")[8月30日](
 
 本次單曲的A面曲〈**熱色スターマイン**〉為「BanG Dream\!」[OVA動畫的片尾曲](https://zh.wikipedia.org/wiki/OVA "wikilink")。
 
-〈**-HEROIC ADVENT-**〉則被當作[東京電視台](../Page/東京電視台.md "wikilink")動畫「[卡片戰鬥先導者](../Page/卡片戰鬥先導者.md "wikilink")GZ」的片尾曲\[46\]\[47\]。這也是[BanG Dream\!企劃初次與企劃外的其他節目首次連動合作](../Page/BanG_Dream!.md "wikilink")。
+〈**-HEROIC ADVENT-**〉則被當作[東京電視台](../Page/東京電視台.md "wikilink")動畫「[卡片戰鬥先導者](../Page/卡片戰鬥先導者.md "wikilink")GZ」的片尾曲\[44\]\[45\]。這也是[BanG Dream\!企劃初次與企劃外的其他節目首次連動合作](../Page/BanG_Dream!.md "wikilink")。
 
 初回生產特典為10月8日舉辦的「Roselia 2nd Live」先行抽選券，以及一枚角色貼紙（全六種，隨機發放）。
 
   - 收錄曲
     全作詞：[織田あすか](https://zh.wikipedia.org/wiki/織田あすか "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")），全編曲：[藤永龍太郎](../Page/藤永龍太郎.md "wikilink")（Elements Garden）
     1.  **熱色スターマイン**
-          - 作曲：[上松範康](../Page/上松範康.md "wikilink")（Elements Garden） \[48\]
+          - 作曲：[上松範康](../Page/上松範康.md "wikilink")（Elements Garden） \[46\]
     2.  **-HEROIC ADVENT-**
           - 作曲：[藤田淳平](../Page/藤田淳平.md "wikilink")（Elements Garden）
     3.  熱色スターマイン（樂器演奏）
@@ -609,9 +662,9 @@ Roselia的第三張單曲。[2017年](../Page/2017年.md "wikilink")[8月30日](
 
 #### ONENESS
 
-Roselia的第四張單曲。[2017年](../Page/2017年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")發售\[49\]。
+Roselia的第四張單曲。[2017年](../Page/2017年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")發售\[47\]。
 
-分為普通盤（BRMM-10103）和生產限定盤（BRMM-层10102）兩種。生產限定盤的蓝光影像中，收錄了2017年7月29日在[有明競技場](../Page/有明競技場.md "wikilink")舉行的「Roselia 1st Live『Rosenlied』追加公演」演唱會錄影\[50\]。
+分為普通盤（BRMM-10103）和生產限定盤（BRMM-层10102）兩種。生產限定盤的蓝光影像中，收錄了2017年7月29日在[有明競技場](../Page/有明競技場.md "wikilink")舉行的「Roselia 1st Live『Rosenlied』追加公演」演唱會錄影\[48\]。
 
 兩種版本的單曲，初回生產特典皆是角色卡一枚（全五種，隨機發放）。
 
@@ -640,16 +693,16 @@ Roselia的第四張單曲。[2017年](../Page/2017年.md "wikilink")[11月29日]
 
 #### Opera of the wasteland
 
-Roselia的第五張單曲。[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")發售\[51\]。
+Roselia的第五張單曲。[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")發售\[49\]。
 
-Ｂ面曲〈**軌跡**〉是Roselia第一首抒情慢歌，被粉絲們認為是寫給2017年年底宣告自業界引退\[52\]的[遠藤祐里香](../Page/遠藤祐里香.md "wikilink")。
+Ｂ面曲〈**軌跡**〉是Roselia第一首抒情慢歌，被粉絲們認為是寫給2017年年底宣告自業界引退\[50\]的[遠藤祐里香](../Page/遠藤祐里香.md "wikilink")。
 
 初回生產特典封入了一枚角色卡（全六種，隨機抽取），以及「BanG Dream\! 5th☆LIVE」特別二次先行抽選券。
 
-此外，若同時購買本單曲與Poppin' Party同日販售的第九張單曲《CiRCLING》，將會獲得一枚特製的[翻唱CD](https://zh.wikipedia.org/wiki/翻唱 "wikilink")（翻唱曲為遊戲中收錄的短版）\[53\]。
+此外，若同時購買本單曲與Poppin' Party同日販售的第九張單曲《CiRCLING》，將會獲得一枚特製的[翻唱CD](https://zh.wikipedia.org/wiki/翻唱 "wikilink")（翻唱曲為遊戲中收錄的短版）\[51\]。
 
   - 收錄曲
-    全作詞：[織田あすか](https://zh.wikipedia.org/wiki/織田あすか "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")），全作曲、編曲：[藤永龍太郎](../Page/藤永龍太郎.md "wikilink")（Elements Garden）
+    全作詞：[織田あすか](https://zh.wikipedia.org/wiki/織田あすか "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")），全作編曲：[藤永龍太郎](../Page/藤永龍太郎.md "wikilink")（Elements Garden）
     1.  **Opera of the wasteland**
     2.  **軌跡**
     3.  Opera of the wasteland（樂器演奏）
@@ -657,13 +710,13 @@ Roselia的第五張單曲。[2018年](../Page/2018年.md "wikilink")[3月21日](
 
 #### R
 
-Roselia的第六張單曲，[2018年](../Page/2018年.md "wikilink")[7月25日發售](https://zh.wikipedia.org/wiki/7月25日 "wikilink")\[54\]。自本張專輯開始，今井莉莎的角色由[中島由貴接替引退的](../Page/中岛由贵.md "wikilink")[遠藤祐里香](../Page/遠藤祐里香.md "wikilink")\[55\]。
+Roselia的第六張單曲，[2018年](../Page/2018年.md "wikilink")[7月25日發售](https://zh.wikipedia.org/wiki/7月25日 "wikilink")\[52\]。自本張專輯開始，今井莉莎的角色由[中島由貴接替引退的](../Page/中岛由贵.md "wikilink")[遠藤祐里香](../Page/遠藤祐里香.md "wikilink")\[53\]。
 
 B面曲〈**BLACK SHOUT**〉及〈**Neo-Aspect**〉分別是第一張單曲、第一張專輯個別收錄曲的重錄版。
 
-發行了普通盤（BRMM-10128）及附藍光生產限定盤（BRMM-10127）。藍光光碟收錄了2018年1月13日、14日於[東京國際展示場](../Page/東京國際展示場.md "wikilink")舉行的「Garupa Live」中，Roselia的表演片段；以及〈Neo-Aspect〉的MV影像\[56\]。
+發行了普通盤（BRMM-10128）及附藍光生產限定盤（BRMM-10127）。藍光光碟收錄了2018年1月13日、14日於[東京國際展示場](../Page/東京國際展示場.md "wikilink")舉行的「Garupa Live」中，Roselia的表演片段；以及〈Neo-Aspect〉的MV影像\[54\]。
 
-初回生產特典為「Roselia Fan Meeting 2018」活動抽選券\[57\]。
+初回生產特典為「Roselia Fan Meeting 2018」活動抽選券\[55\]。
 
   - 收錄曲
     全作詞：[織田あすか](https://zh.wikipedia.org/wiki/織田あすか "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")），全編曲：[藤永龍太郎](../Page/藤永龍太郎.md "wikilink")（Elements Garden）
@@ -693,9 +746,9 @@ B面曲〈**BLACK SHOUT**〉及〈**Neo-Aspect**〉分別是第一張單曲、�
 
 Roselia的第七張單曲。[2018年](../Page/2018年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")發售。
 
-本張單曲的A面曲〈**BRAVE JEWEL**〉為動畫「BanG Dream\! 2nd Season」的片頭曲之一，是2018年9月2日至11月25日間各週末及假日行駛的「BanG Dreamer 感謝Caravan」所發布的CD曲目完整版\[58\]。此外，若一併購入同天發售的Poppin' Party《キズナミュージック♪》及RAISE A SUILEN《R‧I‧O‧T》的話，將會獲得一張翻唱CD，其中收錄了部分翻唱曲在遊戲中的短版曲目\[59\]。
+本張單曲的A面曲〈**BRAVE JEWEL**〉為動畫「BanG Dream\! 2nd Season」的片頭曲之一，是2018年9月2日至11月25日間各週末及假日行駛的「BanG Dreamer 感謝Caravan」所發布的CD曲目完整版\[56\]。此外，若一併購入同天發售的Poppin' Party《キズナミュージック♪》及RAISE A SUILEN《R‧I‧O‧T》的話，將會獲得一張翻唱CD，其中收錄了部分翻唱曲在遊戲中的短版曲目\[57\]。
 
-初回生產特典為CD封面插圖一枚（全五種），及「BanG Dream\! 7th☆LIVE」的演唱會先行抽選券\[60\]。
+初回生產特典為CD封面插圖一枚（全五種），及「BanG Dream\! 7th☆LIVE」的演唱會先行抽選券\[58\]。
 
   - 收錄曲
     全作詞：[織田あすか](https://zh.wikipedia.org/wiki/織田あすか "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")），全編曲：[藤永龍太郎](../Page/藤永龍太郎.md "wikilink")（Elements Garden）
@@ -718,55 +771,36 @@ A面曲〈**Safe and Sound**〉是動畫「BanG Dream\! 2nd Season」的片尾�
 
 發行普通盤（BRMM-10161）及附藍光生產限量盤（BRMM-10160）。藍光光碟收錄2018年5月13日舉行的演唱會「BanG Dream\! 5th☆LIVE Day2：Roselia -Ewigkeit-」影像。
 
-初回生產特典為角色卡一枚（全五種，隨機發放），以及2019年8月3日、4日舉辦的Roselia單獨演唱會「Flamme／Wasser」活動先行抽選券\[61\]。
+初回生產特典為角色卡一枚（全五種，隨機發放），以及2019年8月3日、4日舉辦的Roselia單獨演唱會「Flamme／Wasser」活動先行抽選券\[59\]。
 
 若與Hello, Happy World\!的《ハイファイブ∞あどべんちゃっ》一同購入，會獲得特典藍光CD，收錄演唱會中場影片「Roselia -Ewigkeit- 『Roselia 角色設定不可崩壞！！問答挑戰』」 完全版。
 
   - 收錄曲（生產限定盤、普通盤共通）
-
-:\# **Safe and Sound**
-
-:\# **PASSIONATE ANTHEM**
-
-:\#\* 作詞：織田あすか（Elements Garden）
-
-:\#\* 作曲、編曲：藤永龍太郎（Elements Garden）
-
-:\# Safe and Sound（樂器演奏）
-
-:\# PASSIONATE ANTHEM（樂器演奏）
-
-:; 藍光影像（僅限限定盤）
-
-:\# 「BanG Dream\! 5th☆LIVE」Day2：Roselia -Ewigkeit-（2018.5.13）
-
-:\#\# ONENESS
-
-:\#\# Determination Symphony
-
-:\#\# 翻唱組曲
-
-:\#\#\# 魂のルフラン（OA：高橋洋子）
-
-:\#\#\# Hacking to the Gate（OA：伊都香奈子）
-
-:\#\#\# ETERNAL BLAZE（OA：水樹奈奈）
-
-:\#\# 深愛（OA：水樹奈奈）
-
-:\#\# 熱色スターマイン
-
-:\#\# 軌跡
-
-:\#\# Re:birth day
-
-:\#\# -HEROIC ADVENT-
-
-:\#\# Neo-Aspect
-
-:\#\# BLACK SHOUT
-
-:\#\# 陽だまりロードナイト
+    全作詞：織田あすか（Elements Garden）
+    1.  **Safe and Sound**
+          - 作曲：藤田淳平（Elements Garden）、編曲：藤永龍太郎（Elements Garden）
+    2.  **PASSIONATE ANTHEM**
+          - 作編曲：藤永龍太郎（Elements Garden）
+    3.  Safe and Sound（樂器演奏）
+    4.  PASSIONATE ANTHEM（樂器演奏）
+    <!-- end list -->
+      - 藍光影像（僅限限定盤）
+    <!-- end list -->
+    1.  「BanG Dream\! 5th☆LIVE」Day2：Roselia -Ewigkeit-（2018.5.13）
+        1.  ONENESS
+        2.  Determination Symphony
+        3.  翻唱組曲
+            1.  魂のルフラン（OA：高橋洋子）
+            2.  Hacking to the Gate（OA：伊都香奈子）
+            3.  ETERNAL BLAZE（OA：水樹奈奈）
+        4.  深愛（OA：水樹奈奈）
+        5.  熱色スターマイン
+        6.  軌跡
+        7.  Re:birth day
+        8.  \-HEROIC ADVENT-
+        9.  Neo-Aspect
+        10. BLACK SHOUT
+        11. 陽だまりロードナイト
 
 #### FIRE BIRD
 
@@ -774,7 +808,7 @@ Roselia的第九張單曲。預計2019年7月24日發售。
 
 A面曲〈FIRE BIRD〉為動畫「BanG Dream\! 2nd Season」第十三話插入曲。生產限定盤的藍光光碟，將收錄動畫「BanG Dream\! 2nd Season」第五、第六話，及下回預告、電視廣告。
 
-本張單曲中的〈Ringing Bloom〉也是飾演白金燐子的[明坂聰美](../Page/明坂聰美.md "wikilink")因突發性失聰宣布自[BanG Dream\!企劃引退後](../Page/BanG_Dream!.md "wikilink")，最後一首在遊戲中參與錄製的歌曲。 然而，在正式釋出的單曲試聽影片中，〈Ringing Bloom〉白金燐子的獨唱段落是由[志崎樺音](../Page/志崎樺音.md "wikilink")所錄製的版本\[62\]。
+本張單曲中的〈Ringing Bloom〉也是飾演白金燐子的[明坂聰美](../Page/明坂聰美.md "wikilink")因突發性失聰宣布自[BanG Dream\!企劃引退後](../Page/BanG_Dream!.md "wikilink")，最後一首在遊戲中參與錄製的歌曲。 然而，在正式釋出的單曲試聽影片中，〈Ringing Bloom〉白金燐子的獨唱段落是由[志崎樺音](../Page/志崎樺音.md "wikilink")所錄製的版本\[60\]。
 
   - 收錄曲
     全編曲：藤永龍太郎（Elements Garden）
@@ -790,6 +824,24 @@ A面曲〈FIRE BIRD〉為動畫「BanG Dream\! 2nd Season」第十三話插入�
     1.  動畫「BanG Dream\! 2nd Season」＃５～＃６
     2.  網路用下回預告＃５～＃６
     3.  動畫「BanG Dream\! 2nd Season」廣告 Roselia篇
+
+#### 約束
+
+Roselia的第十張單曲。預計2020年1月15日發售。
+
+  - 收錄曲
+    全作詞：織田あすか（Elements Garden）
+    1.  **約束**
+          - 作編曲：竹田祐介（Elements Garden）
+    2.  **-{“}-UNIONS-{”}- Road**
+          - 作編曲：藤永龍太郎（Elements Garden）
+    3.  約束（樂器演奏）
+    4.  \-{“}-UNIONS-{”}- Road（樂器演奏）
+    <!-- end list -->
+      - 藍光影像（僅限限定盤）
+    <!-- end list -->
+    1.  動畫「BanG Dream\! 3rd Season」＃2～＃3
+    2.  其他
 
 ### 專輯
 
@@ -809,7 +861,7 @@ Roselia的第一張專輯。[2018年](../Page/2018年.md "wikilink")[5月2日](.
 
   - 排行榜成績
     2018年5月14日的[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")奪下專輯排行榜週間第二名，週間數位專輯排行榜第一名，
-    第一週銷售量約為2.5萬張，並有高達5510次的下載次數。此外，週間第三名以內、數位專輯週間第一名，都是BanG Dream\! 相關作品中第一次達到的成績。同月Pastel\*Palettes的單曲《しゅわりん☆どり〜みん》則達到週間第四名的紀錄\[63\]\[64\]。
+    第一週銷售量約為2.5萬張，並有高達5510次的下載次數。此外，週間第三名以內、數位專輯週間第一名，都是BanG Dream\! 相關作品中第一次達到的成績。同月Pastel\*Palettes的單曲《しゅわりん☆どり〜みん》則達到週間第四名的紀錄\[61\]\[62\]。
 
 <!-- end list -->
 
@@ -883,15 +935,15 @@ Pastel\*Palettes的首張單曲。2017年7月12日發售。
 
 A面曲〈**しゅわりん☆どり〜みん**〉為Pastel\*Palettes短動畫「ぱすてるらいふ」的主題曲，也是短動畫「BanG Dream\! Garupa☆Pico」的插入歌。
 
-初回生產特典為A4海報、角色簽名卡片（全六種，隨機發送一枚），以及發售紀念活動參加抽選券。此外，也針對[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")的排名在遊戲內發送了獎勵道具\[65\]。
+初回生產特典為A4海報、角色簽名卡片（全六種，隨機發送一枚），以及發售紀念活動參加抽選券。此外，也針對[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")的排名在遊戲內發送了獎勵道具\[63\]。
 
   - 排行榜成績
-    在2017年7月24日的Oricon公信榜獲得了週間第四名的紀錄，第一週的銷售量達1.4萬張以上。這也是相關作品初次達到週間五名以內，以及動畫類別週間第一名的紀錄。本張單曲刷新了在2017年4月，Roselia的單曲《BLACK SHOUT》週間第七名的紀錄，並且作為關聯作品最高排名紀錄，一直到2018年5月被Roselia的專輯《Anfang》（週間第二名）打破\[66\]\[67\]。
+    在2017年7月24日的Oricon公信榜獲得了週間第四名的紀錄，第一週的銷售量達1.4萬張以上。這也是相關作品初次達到週間五名以內，以及動畫類別週間第一名的紀錄。本張單曲刷新了在2017年4月，Roselia的單曲《BLACK SHOUT》週間第七名的紀錄，並且作為關聯作品最高排名紀錄，一直到2018年5月被Roselia的專輯《Anfang》（週間第二名）打破\[64\]\[65\]。
 
 <!-- end list -->
 
   - 收錄曲
-    全作詞：[織田あすか](https://zh.wikipedia.org/wiki/織田あすか "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")），全作曲、編曲：[末益涼太](https://zh.wikipedia.org/wiki/末益涼太 "wikilink")（Elements Garden）\[68\]
+    全作詞：[織田あすか](https://zh.wikipedia.org/wiki/織田あすか "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")），全作曲、編曲：[末益涼太](https://zh.wikipedia.org/wiki/末益涼太 "wikilink")（Elements Garden）\[66\]
     1.  **しゅわりん☆どり〜みん**
     2.  **パスパレボリューションず☆**
     3.  しゅわりん☆どり〜みん（樂器演奏）
@@ -903,7 +955,7 @@ A面曲〈**しゅわりん☆どり〜みん**〉為Pastel\*Palettes短動畫�
 
 Pastel\*Palettes的第二張單曲。2018年1月17日發售。
 
-初回生產特典為角色卡（全五種，隨機發放一枚），以及單曲連動購入紀念活動的抽選券\[69\]。
+初回生產特典為角色卡（全五種，隨機發放一枚），以及單曲連動購入紀念活動的抽選券\[67\]。
 
   - 收錄曲
     全作詞：織田あすか（Elements Garden）
@@ -921,9 +973,9 @@ Pastel\*Palettes的第三張單曲。2018年8月8日發售。
 
 A面曲〈**もういちど ルミナス**〉被用作電視節目「BanG Dream\! TV」的片尾曲。
 
-分為普通盤（BRMM-10130）和附藍光生產限定盤（BRMM-10129）。藍光光碟中收錄〈もういちど ルミナス〉的MV，以及2018年1月13日、14日舉辦的「Garupa Live」活動中，前島亞美出演的部分影像（收錄段落為14日的活動）\[70\]。
+分為普通盤（BRMM-10130）和附藍光生產限定盤（BRMM-10129）。藍光光碟中收錄〈もういちど ルミナス〉的MV，以及2018年1月13日、14日舉辦的「Garupa Live」活動中，前島亞美出演的部分影像（收錄段落為14日的活動）\[68\]。
 
-初回生產特典為角色卡（全五種，隨機發送一枚）\[71\]。
+初回生產特典為角色卡（全五種，隨機發送一枚）\[69\]。
 
   - 收錄曲（生產限定盤、普通盤共通）
     全作詞：織田あすか（Elements Garden）
@@ -1000,9 +1052,9 @@ A面曲〈**きゅ～まい＊flower**〉為動畫「BanG Dream\! 2nd Season」�
 
 Hello, Happy World\!的首張單曲。2017年8月2日發售。
 
-針對本張單曲在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")上的排名，遊戲中也發放了獎勵道具\[72\]。
+針對本張單曲在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")上的排名，遊戲中也發放了獎勵道具\[70\]。
 
-初回生產特典為一張A4海報、馬戲團門票風格的角色卡（全六種，隨機抽取一枚），以及2017年9月24日舉行的紀念活動應募券\[73\]。
+初回生產特典為一張A4海報、馬戲團門票風格的角色卡（全六種，隨機抽取一枚），以及2017年9月24日舉行的紀念活動應募券\[71\]。
 
   - 收錄曲
     全歌詞：[織田あすか](https://zh.wikipedia.org/wiki/織田あすか "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")），全作曲、編曲：[藤間仁](../Page/藤間仁.md "wikilink")（Elements Garden）
@@ -1017,9 +1069,9 @@ Hello, Happy World\!的首張單曲。2017年8月2日發售。
 
 Hello, Happy World\!的第二張單曲。2018年2月14日發售。
 
-B面曲〈YAPPY！SCHOOL CARNIVAL☆彡〉，是為了紀念Hello, Happy World\!在第一回[BanG Dream！少女樂團派對總選舉](../Page/BanG_Dream！少女樂團派對.md "wikilink")「希望第一個參與學園祭的樂團」中奪得第一名而作的紀念音樂\[74\]。
+B面曲〈YAPPY！SCHOOL CARNIVAL☆彡〉，是為了紀念Hello, Happy World\!在第一回[BanG Dream！少女樂團派對總選舉](../Page/BanG_Dream！少女樂團派對.md "wikilink")「希望第一個參與學園祭的樂團」中奪得第一名而作的紀念音樂\[72\]。
 
-初回生產特典為角色卡（全五種，隨機發放一枚），以及單曲連動購入紀念活動的抽選券\[75\]。
+初回生產特典為角色卡（全五種，隨機發放一枚），以及單曲連動購入紀念活動的抽選券\[73\]。
 
   - 收錄曲
     全歌詞：織田あすか（Elements Garden）
@@ -1037,9 +1089,9 @@ B面曲〈YAPPY！SCHOOL CARNIVAL☆彡〉，是為了紀念Hello, Happy World\!
 
 Hello, Happy World\! 第三張單曲。2018年12月5日發售。
 
-分為普通盤（BRMM-10139）和附藍光生產限定盤（BRMM-10138）。藍光光碟中收錄〈キミがいなくちゃっ！〉的MV，以及2018年1月13日、14日舉辦的「Garupa Live」活動中，[伊藤美來](../Page/伊藤美來.md "wikilink")出演的部分影像（收錄段落為14日的活動）\[76\]。
+分為普通盤（BRMM-10139）和附藍光生產限定盤（BRMM-10138）。藍光光碟中收錄〈キミがいなくちゃっ！〉的MV，以及2018年1月13日、14日舉辦的「Garupa Live」活動中，[伊藤美來](../Page/伊藤美來.md "wikilink")出演的部分影像（收錄段落為14日的活動）\[74\]。
 
-初回生產特典為角色卡（全五種，隨機發放一枚）\[77\]。
+初回生產特典為角色卡（全五種，隨機發放一枚）\[75\]。
 
   - 收錄曲（生産限定盤、普通盤共通）
     全歌詞：織田あすか（Elements Garden）
@@ -1081,7 +1133,7 @@ Hello, Happy World\!的第四張單曲。2019年2月20日發售。
 
 Hello, Happy World\!的第五張單曲。預計2019年8月21日發售。
 
-A面曲〈**えがお・シング・あ・ソング**〉為動畫「BanG Dream\! 2nd Season」第十三話的插入曲。生產限定盤的藍光光碟，則收錄了動畫「BanG Dream\! 2nd Season」的第七、第八話，以及動畫的下回預告、電視廣告片段\[78\]。
+A面曲〈**えがお・シング・あ・ソング**〉為動畫「BanG Dream\! 2nd Season」第十三話的插入曲。生產限定盤的藍光光碟，則收錄了動畫「BanG Dream\! 2nd Season」的第七、第八話，以及動畫的下回預告、電視廣告片段\[76\]。
 
   - 收錄曲
 
@@ -1111,7 +1163,7 @@ A面曲〈**えがお・シング・あ・ソング**〉為動畫「BanG Dream\!
 
 #### That Is How I Roll\!
 
-Afterglow首次亮相的單曲。2017年9月6日發售\[79\]。
+Afterglow首次亮相的單曲。2017年9月6日發售\[77\]。
 
 歌曲〈That Is How I Roll！〉與〈True color〉是全由美竹蘭（佐倉綾音）獨唱的曲目，其他成員並未參與和聲，而只在CD中的短劇出場。
 
@@ -1128,7 +1180,7 @@ Afterglow首次亮相的單曲。2017年9月6日發售\[79\]。
 
 #### Hey-day狂騒曲
 
-Afterglow的第二張單曲。2018年1月31日發售。 初回生產特典為角色卡（全五種，隨機發放一枚），以及單曲連動購入紀念活動的抽選券\[80\]。
+Afterglow的第二張單曲。2018年1月31日發售。 初回生產特典為角色卡（全五種，隨機發放一枚），以及單曲連動購入紀念活動的抽選券\[78\]。
 
   - 收錄曲
     全歌詞：織田あすか（Elements Garden）
@@ -1144,9 +1196,9 @@ Afterglow的第二張單曲。2018年1月31日發售。 初回生產特典為角
 
 Afterglow的第三張單曲。2018年10月31日發售。
 
-分為普通盤（BRMM-10134）和附藍光生產限定盤（BRMM-10133）。藍光光碟中收錄〈ツナグ、ソラモヨウ〉的MV，以及2018年1月13日、14日舉辦的「Garupa Live」活動中，[佐倉綾音出演的部分影像](https://zh.wikipedia.org/wiki/佐倉綾音 "wikilink")（收錄段落為14日的活動）\[81\]。
+分為普通盤（BRMM-10134）和附藍光生產限定盤（BRMM-10133）。藍光光碟中收錄〈ツナグ、ソラモヨウ〉的MV，以及2018年1月13日、14日舉辦的「Garupa Live」活動中，[佐倉綾音出演的部分影像](https://zh.wikipedia.org/wiki/佐倉綾音 "wikilink")（收錄段落為14日的活動）\[79\]。
 
-初回生產特典為角色卡（全五種，隨機贈送一枚）\[82\]。
+初回生產特典為角色卡（全五種，隨機贈送一枚）\[80\]。
 
   - 收錄曲（生産限定盤、普通盤共通）
     全歌詞：織田あすか（Elements Garden）
@@ -1186,7 +1238,7 @@ Afterglow的第四張單曲。2019年2月20日發售。 分為普通盤（BRMM-1
 
 #### ON YOUR MARK
 
-Afterglow的第五張單曲。預計在2019年10月23日發售。 為動畫「BanG Dream\! 2nd Season」第十三話的插入曲。生產限定盤的藍光光碟，則收錄了動畫「BanG Dream\! 2nd Season」的第十一、第十二話，以及動畫的下回預告、電視廣告片段\[83\]。
+Afterglow的第五張單曲。預計在2019年10月23日發售。 為動畫「BanG Dream\! 2nd Season」第十三話的插入曲。生產限定盤的藍光光碟，則收錄了動畫「BanG Dream\! 2nd Season」的第十一、第十二話，以及動畫的下回預告、電視廣告片段\[81\]。
 
   - 收錄曲
 
@@ -1222,12 +1274,12 @@ Afterglow的第五張單曲。預計在2019年10月23日發售。 為動畫「Ba
 
 RAISE A SUILEN首張單曲，[2018年](../Page/2018年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")發售。第一張專輯「THE THIRD（仮）1st Album」是以THE THIRD（仮）的名義發布，本張單曲為第一次以RAISE A SUILEN之名銷售的單曲。
 
-本張單曲的A面曲〈**R‧I‧O‧T**〉為2018年9月2日至11月25日間各週末及假日行駛的「BanG Dreamer 感謝Caravan」活動中，發布的CD曲目完整版\[84\]。此外，若一併購入同天發售的Roselia《BRAVE JEWEL》及Poppin' Party《キズナミュージック♪》的話，將會獲得一張翻唱CD，其中收錄了部分翻唱曲在遊戲中的短版曲目\[85\]。
+本張單曲的A面曲〈**R‧I‧O‧T**〉為2018年9月2日至11月25日間各週末及假日行駛的「BanG Dreamer 感謝Caravan」活動中，發布的CD曲目完整版\[82\]。此外，若一併購入同天發售的Roselia《BRAVE JEWEL》及Poppin' Party《キズナミュージック♪》的話，將會獲得一張翻唱CD，其中收錄了部分翻唱曲在遊戲中的短版曲目\[83\]。
 
-初回生產特典為「BanG Dream！7th☆LIVE」演唱會門票先行抽選申請券\[86\]。
+初回生產特典為「BanG Dream！7th☆LIVE」演唱會門票先行抽選申請券\[84\]。
 
   - 收錄曲
-    全歌詞：[織田あすか](https://zh.wikipedia.org/wiki/織田あすか "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")），全編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（Elements Garden）
+    全作詞：[織田あすか](https://zh.wikipedia.org/wiki/織田あすか "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")），全編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（Elements Garden）
     1.  **R・I・O・T**
           - 作曲：[上松範康](../Page/上松範康.md "wikilink")（Elements Garden）
     2.  **UNSTOPPABLE**
@@ -1290,17 +1342,16 @@ RAISE A SUILEN的第二張單曲。2019年2月20日發售。
 
 RAISE A SUILEN的第三張單曲。2019年6月19日發售。
 
-分為普通盤（BRMM-10193）與附藍光生産限定盤（BRMM-10192）兩種。藍光光碟中，收錄了「BanG Dream\! 2nd Season」第三、第四話，及紀錄影片「History of RAS\[87\]」的再編輯版。
+分為普通盤（BRMM-10193）與附藍光生産限定盤（BRMM-10192）兩種。藍光光碟中，收錄了「BanG Dream\! 2nd Season」第三、第四話，及紀錄影片「History of RAS\[85\]」的再編輯版。
 
 初回生產特典為一張[卡片戰鬥先導者](../Page/卡片戰鬥先導者.md "wikilink")的特製角色卡（全五種，隨機發送一種），以及2019年秋天以降預計舉辦的RAISE A SUILEN活動門票抽選券。
 
   - 收錄曲
-    全歌詞：[織田あすか](https://zh.wikipedia.org/wiki/織田あすか "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
+    全作詞：[織田あすか](https://zh.wikipedia.org/wiki/織田あすか "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
     1.  **Invincible Fighter**
-          - 作曲：[上松範康](../Page/上松範康.md "wikilink")（Elements Garden）
-          - 編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（Elements Garden）
+          - 作曲：[上松範康](../Page/上松範康.md "wikilink")（Elements Garden）、編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（Elements Garden）
     2.  **Takin' my Heart**
-          - 作曲、編曲：[藤田淳平](../Page/藤田淳平.md "wikilink")（Elements Garden）
+          - 作編曲：[藤田淳平](../Page/藤田淳平.md "wikilink")（Elements Garden）
     3.  Invincible Fighter（樂器演奏）
     4.  Takin' my Heart（樂器演奏）
     <!-- end list -->
@@ -1308,6 +1359,24 @@ RAISE A SUILEN的第三張單曲。2019年6月19日發售。
     <!-- end list -->
     1.  動畫「BanG Dream\! 2nd Season」＃３～＃４
     2.  紀錄影片「History of RAS」再編輯版
+
+#### DRIVE US CRAZY
+
+RAISE A SUILEN的第四張單曲。2020年1月22日發售。
+
+  - 收錄曲
+    全作詞：[織田あすか](https://zh.wikipedia.org/wiki/織田あすか "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
+    1.  **DRIVE US CRAZY**
+          - 作編曲：[藤田淳平](../Page/藤田淳平.md "wikilink")（Elements Garden）
+    2.  **HELL\! or HELL?**
+          - 作編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（Elements Garden）
+    3.  DRIVE US CRAZY（樂器演奏）
+    4.  HELL\! or HELL?（樂器演奏）
+    <!-- end list -->
+      - 藍光影像（僅限限定盤）
+    <!-- end list -->
+    1.  動畫「BanG Dream\! 3rd Season」＃4～＃5
+    2.  其他
 
 ### 專輯
 
@@ -1357,13 +1426,13 @@ CD音源收錄了在2018年3月25天於shimokitazawa GARDEN舉行的演唱會樂
 
 Glitter\*Green第一張也是唯一一張單曲。2018年11月21日發售。分為普通盤（BRMM-10137）和附藍光生產限定盤（BRMM-10136）兩種。
 
-Glitter\*Green的歌曲，在[BanG Dream\!動畫第一季的原聲帶中](../Page/BanG_Dream!.md "wikilink")，曾經收錄過短版的版本，這張單曲則是初次收錄了完整版，音源也特地為了本張單曲而重新錄音\[88\]。然而，遊戲中的樂曲封面插圖雖然因為單曲的發售而改變成單曲封面插圖，但遊戲內的音源並沒有因此改為單曲版本的音源。
+Glitter\*Green的歌曲，在[BanG Dream\!動畫第一季的原聲帶中](../Page/BanG_Dream!.md "wikilink")，曾經收錄過短版的版本，這張單曲則是初次收錄了完整版，音源也特地為了本張單曲而重新錄音\[86\]。然而，遊戲中的樂曲封面插圖雖然因為單曲的發售而改變成單曲封面插圖，但遊戲內的音源並沒有因此改為單曲版本的音源。
 
 限定盤中的藍光光碟，收錄了2018年1月舉行的「Garupa Live」中三森鈴子的演唱片段，以及[武士道的另一團體](https://zh.wikipedia.org/wiki/武士道_（公司） "wikilink")「[Milky Holmes](../Page/Milky_Holmes.md "wikilink")」的粉絲見面會活動「ゆくミル くるミル 2016-2017中，演唱〈Don't be afraid！〉的影像。
 
 初回生產特典為角色卡（全四種，隨機封入一枚）。
 
-此外，若與[Milky Holmes的單曲](../Page/Milky_Holmes.md "wikilink")《毎日くらいまっくす☆／そして、群青にとけていく》共同購入，會獲得一張特典兌換券，可以在Milkey Holmes舉辦的告別演唱會中，兌換Glitter\*Green翻唱的〈雨上がりのミライ〉特典CD\[89\]。
+此外，若與[Milky Holmes的單曲](../Page/Milky_Holmes.md "wikilink")《毎日くらいまっくす☆／そして、群青にとけていく》共同購入，會獲得一張特典兌換券，可以在Milkey Holmes舉辦的告別演唱會中，兌換Glitter\*Green翻唱的〈雨上がりのミライ〉特典CD\[87\]。
 
   - 收錄曲
     全作詞：織田あすか（Elements Garden）、全作曲・編曲：[岩橋星實](https://zh.wikipedia.org/wiki/岩橋星実 "wikilink")（Elements Garden）
@@ -1385,7 +1454,7 @@ Glitter\*Green的歌曲，在[BanG Dream\!動畫第一季的原聲帶中](../Pag
 
 #### Vol.1 どきどきSING OUT\!
 
-第一張單曲，[2017年](../Page/2017年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")發售\[90\]。歌唱與Drama CD出演者為戶山香澄（[愛美](../Page/愛美.md "wikilink")）。
+第一張單曲，[2017年](../Page/2017年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")發售\[88\]。歌唱與Drama CD出演者為戶山香澄（[愛美](../Page/愛美.md "wikilink")）。
 
   - 收錄取
     全作詞：[中村航](https://zh.wikipedia.org/wiki/中村航 "wikilink")
@@ -1399,7 +1468,7 @@ Glitter\*Green的歌曲，在[BanG Dream\!動畫第一季的原聲帶中](../Pag
 
 #### Vol.2 花園電気ギター\!\!\!
 
-第二張單曲。[2017年](../Page/2017年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")發售\[91\]。演唱者與Drama CD出演角色為花園多惠（[大塚紗英](../Page/大塚紗英.md "wikilink")）。
+第二張單曲。[2017年](../Page/2017年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")發售\[89\]。演唱者與Drama CD出演角色為花園多惠（[大塚紗英](../Page/大塚紗英.md "wikilink")）。
 
   - 收錄取
     全作詞：[中村航](https://zh.wikipedia.org/wiki/中村航 "wikilink")
@@ -1413,7 +1482,7 @@ Glitter\*Green的歌曲，在[BanG Dream\!動畫第一季的原聲帶中](../Pag
 
 #### Vol.3 チョコレイトの低音レシプ
 
-第三張單曲，[2017年](../Page/2017年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")發售\[92\]。演唱及Drama CD出演角色為牛込里美（[西本梨美](../Page/西本梨美.md "wikilink")）。
+第三張單曲，[2017年](../Page/2017年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")發售\[90\]。演唱及Drama CD出演角色為牛込里美（[西本梨美](../Page/西本梨美.md "wikilink")）。
 
   - 收錄取
     全作詞：中村航
@@ -1427,7 +1496,7 @@ Glitter\*Green的歌曲，在[BanG Dream\!動畫第一季的原聲帶中](../Pag
 
 #### Vol.4 遠い音楽～ハートビート～
 
-第四張單曲。[2017年](../Page/2017年.md "wikilink")[7月26日發售](https://zh.wikipedia.org/wiki/7月26日 "wikilink")\[93\]。演唱及Drama CD負責的角色為山吹紗綾（[大橋彩香](../Page/大橋彩香.md "wikilink")）。
+第四張單曲。[2017年](../Page/2017年.md "wikilink")[7月26日發售](https://zh.wikipedia.org/wiki/7月26日 "wikilink")\[91\]。演唱及Drama CD負責的角色為山吹紗綾（[大橋彩香](../Page/大橋彩香.md "wikilink")）。
 
   - 收錄曲
     全作詞：中村航，全作曲：上松範康（Elements Garden），全編曲：藤永龍太郎（Elements Garden）
@@ -1439,7 +1508,7 @@ Glitter\*Green的歌曲，在[BanG Dream\!動畫第一季的原聲帶中](../Pag
 
 #### Vol.5 す、好きなんかじゃない！
 
-第五張單曲。[2017年](../Page/2017年.md "wikilink")[7月26日發售](https://zh.wikipedia.org/wiki/7月26日 "wikilink")\[94\]。演唱及Drama CD主演角色為市谷有咲（[伊藤彩沙](../Page/伊藤彩沙.md "wikilink")）。
+第五張單曲。[2017年](../Page/2017年.md "wikilink")[7月26日發售](https://zh.wikipedia.org/wiki/7月26日 "wikilink")\[92\]。演唱及Drama CD主演角色為市谷有咲（[伊藤彩沙](../Page/伊藤彩沙.md "wikilink")）。
 
   - 收錄取
     全作詞：中村航、全作曲：上松範康（Elements Garden）、全編曲：藤永龍太郎（Elements Garden）
@@ -1451,11 +1520,11 @@ Glitter\*Green的歌曲，在[BanG Dream\!動畫第一季的原聲帶中](../Pag
 
 ### 動畫原聲帶CD
 
-第一季動畫的[原聲帶](../Page/原声音乐.md "wikilink")。[2017年](../Page/2017年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")發售\[95\]\[96\]。
+第一季動畫的[原聲帶](../Page/原声音乐.md "wikilink")。[2017年](../Page/2017年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")發售\[93\]\[94\]。
 
 分為普通版（BRMM-10079）和附藍光生產限量版（BRMM-10078）兩種。
 
-CD為雙碟組，收錄了動畫中的伴奏音樂、片頭曲、片尾曲、插入曲等等\[97\]。本張單曲也是首次收錄劇中登場的的樂團「Glitter\*Green」及「CHiSPA」的音樂\[98\]。
+CD為雙碟組，收錄了動畫中的伴奏音樂、片頭曲、片尾曲、插入曲等等\[95\]。本張單曲也是首次收錄劇中登場的的樂團「Glitter\*Green」及「CHiSPA」的音樂\[96\]。
 
 藍光影像部分，則收錄了2016年11月13日、於[東京巨蛋城](../Page/東京巨蛋城.md "wikilink")舉辦的Poppin' Party 2nd Live「BanG Dream\! Second☆LIVE Starrin' Party 2016\!」的演唱會影像。
 
@@ -1680,7 +1749,7 @@ A面曲〈ピコっと！パピっと\!\!ガルパ☆ピコ\!\!\!〉是短動畫
 
 ### Vol. 1
 
-2018年6月27日發售。收錄了在[手機遊戲](../Page/手机游戏.md "wikilink")「[BanG Dream！少女樂團派對](../Page/BanG_Dream！少女樂團派對.md "wikilink")」中的翻唱歌曲，也是2018年3月21日發布的單曲CD中收錄的翻唱樂曲的完整版\[99\]。每個樂團有兩首歌，總計十首歌曲。初回生產特典為個樂團的主唱角色卡（共五種，隨機分配一枚）。
+2018年6月27日發售。收錄了在[手機遊戲](../Page/手机游戏.md "wikilink")「[BanG Dream！少女樂團派對](../Page/BanG_Dream！少女樂團派對.md "wikilink")」中的翻唱歌曲，也是2018年3月21日發布的單曲CD中收錄的翻唱樂曲的完整版\[97\]。每個樂團有兩首歌，總計十首歌曲。初回生產特典為個樂團的主唱角色卡（共五種，隨機分配一枚）。
 
   - 收錄曲
 
@@ -1829,7 +1898,7 @@ A面曲〈ピコっと！パピっと\!\!ガルパ☆ピコ\!\!\!〉是短動畫
   - Twinkle, Twinkle, Little Star〜初次舞台版〜
     作詞：Jane Taylor，編曲：[藤田淳平](../Page/藤田淳平.md "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
     歌：戶山香澄（[愛美](../Page/愛美.md "wikilink")）
-    2017年4月4日官方網站期間限定的免費放送。為動畫第一季第三話插入曲〈きらきら星～初次舞台版～〉的英文版本\[100\]。
+    2017年4月4日官方網站期間限定的免費放送。為動畫第一季第三話插入曲〈きらきら星～初次舞台版～〉的英文版本\[98\]。
   - クインティプル☆すまいる
     作詞：織田あすか（Elements Garden），作曲：藤田淳平（Elements Garden），編曲：末松涼太（Elements Garden）
     歌：GBP！特別樂團（由五名主唱組成）
@@ -1852,7 +1921,7 @@ A面曲〈ピコっと！パピっと\!\!ガルパ☆ピコ\!\!\!〉是短動畫
 ### 前へススメ\! 原創CD
 
   -
-    電視動畫「BanG Dream！」藍光版全卷購入附贈的特典CD。2017年11月22日發售。收錄了Poppin' Party第六張單曲《前へススメ\!/夢みるSunflower》中，〈前へススメ\!〉的各成員獨奏版本，發售店鋪和個別成員版本對應如下：\[101\]
+    電視動畫「BanG Dream！」藍光版全卷購入附贈的特典CD。2017年11月22日發售。收錄了Poppin' Party第六張單曲《前へススメ\!/夢みるSunflower》中，〈前へススメ\!〉的各成員獨奏版本，發售店鋪和個別成員版本對應如下：\[99\]
 
 | 標題                       | 歌手         | 規格品號 | 發售店鋪                                                     |
 | ------------------------ | ---------- | ---- | -------------------------------------------------------- |
@@ -1866,7 +1935,7 @@ A面曲〈ピコっと！パピっと\!\!ガルパ☆ピコ\!\!\!〉是短動畫
 
 #### 第一彈
 
-Poppin' Party第九張單曲《CiRCLING》與Roselia第五張單曲《Opera of the wasteland》的同時購入特典CD，2018年3月21日發售。收錄了手機遊戲「BanG Dream！少女樂團派對」中使用的翻唱歌曲\[102\]。發布歌曲及收錄曲目如下\[103\]。全曲目的完整版本收錄於第一張翻唱專輯《バンドリ！ガールズバンドパーティ！ カバーコレクション Vol.1》中。
+Poppin' Party第九張單曲《CiRCLING》與Roselia第五張單曲《Opera of the wasteland》的同時購入特典CD，2018年3月21日發售。收錄了手機遊戲「BanG Dream！少女樂團派對」中使用的翻唱歌曲\[100\]。發布歌曲及收錄曲目如下\[101\]。全曲目的完整版本收錄於第一張翻唱專輯《バンドリ！ガールズバンドパーティ！ カバーコレクション Vol.1》中。
 
 <table>
 <thead>
@@ -1930,7 +1999,7 @@ Poppin' Party第九張單曲《CiRCLING》與Roselia第五張單曲《Opera of t
 
 #### 第二彈
 
-Poppin' Party第十二張單曲《キズナミュージック♪屁、Roselia第七張單曲《BRAVE JEWEL》、RAISE A SUILEN第一張單曲《R・I・O・T》三張單曲同時購入特典CD。2018年12月12日發售。收錄了手機遊戲「BanG Dream！少女樂團派對」中使用的翻唱歌曲。發布歌曲及收錄曲目如下。此外，本次特典CD總共推出五種不同封面的版本，但各版本的收錄曲都是一樣的\[104\]。全曲目的完整版收錄於第二張翻唱專輯《バンドリ！ ガールズバンドパーティ！ カバーコレクション Vol.2》。
+Poppin' Party第十二張單曲《キズナミュージック♪屁、Roselia第七張單曲《BRAVE JEWEL》、RAISE A SUILEN第一張單曲《R・I・O・T》三張單曲同時購入特典CD。2018年12月12日發售。收錄了手機遊戲「BanG Dream！少女樂團派對」中使用的翻唱歌曲。發布歌曲及收錄曲目如下。此外，本次特典CD總共推出五種不同封面的版本，但各版本的收錄曲都是一樣的\[102\]。全曲目的完整版收錄於第二張翻唱專輯《バンドリ！ ガールズバンドパーティ！ カバーコレクション Vol.2》。
 
 <table>
 <thead>
@@ -1985,7 +2054,7 @@ Hello Happy World!</p></td>
 
 ### [Milky Holmes](../Page/Milky_Holmes.md "wikilink")×Glitter\*Green最終單曲發售紀念CD
 
-聲優組合[Milky Holmes的單曲](../Page/Milky_Holmes.md "wikilink")《毎日くらいまっくす☆／そして、群青にとけていく》與Glitter\*Green的單曲《Don't be afraid\!》同時購入特典CD。兩張單曲都封有特典CD兌換卷，在2019年1月28日開始可以領取\[105\]。
+聲優組合[Milky Holmes的單曲](../Page/Milky_Holmes.md "wikilink")《毎日くらいまっくす☆／そして、群青にとけていく》與Glitter\*Green的單曲《Don't be afraid\!》同時購入特典CD。兩張單曲都封有特典CD兌換卷，在2019年1月28日開始可以領取\[103\]。
 {| class="wikitable" border="1" cellpadding="3" style="font-size:smaller" \!標題 \!曲目 \!演唱者 \!編曲 \!規格品號 |- |**Milky Holmes×Glitter\*Green最終單曲發售紀念CD** |雨上がりのミライ |Glitter\*Green |岩橋星實（Elements Garden） | style="text-align:center;" | - |}
 
 ## 註腳
@@ -1999,205 +2068,105 @@ Hello Happy World!</p></td>
 [Category:動畫音樂作品](https://zh.wikipedia.org/wiki/Category:動畫音樂作品 "wikilink") [Category:角色歌曲](https://zh.wikipedia.org/wiki/Category:角色歌曲 "wikilink") [Category:BanG_Dream\!](https://zh.wikipedia.org/wiki/Category:BanG_Dream! "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
 56.
-
 57.
-
 58.
 59.
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.
-
 78.
-
 79.
-
 80.
-
 81.
-
 82.
 83.
-
 84.
-
 85.
-
 86.
-
 87.
-
 88.
-
 89.
-
 90.
-
 91.
-
 92.
-
 93.
-
 94.
-
 95.
-
 96.
-
 97.
-
 98.
 99.
-
 100.
-
 101.
-
 102.
-
 103.
-
-104.
-105.

@@ -58,26 +58,15 @@ Witsenhausen所得的結果如下：
 [Category:控制理论](https://zh.wikipedia.org/wiki/Category:控制理论 "wikilink") [Category:隨機控制](https://zh.wikipedia.org/wiki/Category:隨機控制 "wikilink")
 
 1.  Witsenhausen, Hans. "A counterexample in stochastic optimum control." *SIAM J. Control*, Volume 6, Issue 1, pp. 131–147 (February 1968)
-
 2.  Ho, Yu-Chi, "Review of the Witsenhausen problem". *Proceedings of the 47th IEEE Conference on Decision and Control (CDC)*, pp. 1611–1613, 2008.
-
 3.
 4.  Mitterrand and Sahai. "Information and Control: Witsenhausen revisited". *Learning, control and hybrid systems*, 1999, Springer.
-
 5.  Ho, Yu-Chi. "Team decision theory and information structures". *Proceedings of the IEEE*, Vol. 68, No.6, June 1980.
-
 6.  Basar, Tamer. "Variations on the theme of the Witsenhausen counterexample". *47th IEEE Conference on Decision and Control Cancun*, Mexico, Dec. 9–11, 2008.
-
 7.  Rotkowitz, M.; Cogill, R.; Lall, S.; , "A Simple Condition for the Convexity of Optimal Control over Networks with Delays," *Decision and Control*, 2005 and 2005 *European Control Conference. CDC-ECC '05. 44th IEEE Conference on* , pp. 6686–6691, 12–15 December 2005.
-
 8.  [赫里斯托斯·帕帕季米特里乌](../Page/赫里斯托斯·帕帕季米特里乌.md "wikilink") and John Tsitsiklis. "Intractable problems in control theory." *24th IEEE Conference on Decision and Control*, 1985
-
 9.  Baglietto, Parisini, and Zoppoli. "Numerical solutions to the Witsenhausen counterexample by approximating networks." *IEEE Trans. Automatic Control*. 2001.
-
 10. Lee, Lau, and Ho. "The Witsenhausen counterexample: A hierarchical search approach for nonconvex optimization problems." '' IEEE Trans. Automatic Control'', 2001
-
 11. Li, Marden, and Shamma. "Learning approaches to the Witsenhausen counterexample from a view of potential games." '' IEEE Conference on Decision and Control'', 2009.
-
 12. Tseng and Tang. "A Local Search Algorithm for the Witsenhausen's Counterexample." '' IEEE Conference on Decision and Control'', 2017.
-
 13. Grover, Sahai, and Park. "The finite-dimensional Witsenhausen counterexample." *IEEE WiOpt 2010, ConCom workshop*, Seoul, Korea.

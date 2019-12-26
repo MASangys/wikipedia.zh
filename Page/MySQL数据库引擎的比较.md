@@ -54,7 +54,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://deepis.com/solutions">DeepSQL</a></p></td>
+<td><p><a href="https://web.archive.org/web/20150906171823/http://www.deepis.com/solutions">DeepSQL</a></p></td>
 <td><p>Deep Information Sciences</p></td>
 <td><p>Custom Proprietary</p></td>
 <td></td>
@@ -198,14 +198,9 @@
 [Category:Database_engines](https://zh.wikipedia.org/wiki/Category:Database_engines "wikilink") [Category:MySQL](https://zh.wikipedia.org/wiki/Category:MySQL "wikilink") [Category:Database_software_comparisons](https://zh.wikipedia.org/wiki/Category:Database_software_comparisons "wikilink")
 
 1.  [MySQL 5.5 Reference Manual - InnoDB Startup Options and System Variables](http://dev.mysql.com/doc/refman/5.5/en/innodb-parameters.html#sysvar_innodb_flush_log_at_trx_commit)
-
 2.
-3.  [MySQL 5.5 Reference Manual - InnoDB Group Commit](http://dev.mysql.com/doc/refman/5.5/en/innodb-performance-group_commit.html)
-
+3.
 4.
-
 5.  [MySQL 5.5 Reference Manual - myisampack — Generate Compressed, Read-Only MyISAM Tables](http://dev.mysql.com/doc/refman/5.5/en/myisampack.html)
-
 6.
-
 7.

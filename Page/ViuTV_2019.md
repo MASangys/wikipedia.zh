@@ -74,23 +74,108 @@ ViuTV 2019為[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")於20
 
 #### 實況娛樂（[真人騷](https://zh.wikipedia.org/wiki/真人騷 "wikilink")）節目
 
-| 節目名稱                                                                      | 製作進度  | 主持                                                                                                                                                                                                                                                               | 備註                                                                                               |
-| ------------------------------------------------------------------------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| Good Night Show系列（已於2019年4月26日結束）                                         |       |                                                                                                                                                                                                                                                                  |                                                                                                  |
-| 《》                                                                        | 已播映完畢 | [林曉峰](../Page/林曉峰.md "wikilink")、[陳俞希](../Page/陳俞希.md "wikilink")、                                                                                                                                                                                               |                                                                                                  |
-| 《》                                                                        | 已播映完畢 | [張堅庭](../Page/張堅庭.md "wikilink")、[曾美華](../Page/曾美華.md "wikilink")、                                                                                                                                                                                               | 巡禮名稱《只有更荒謬》                                                                                      |
-| 《[全民造星II](https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星 "wikilink")》 | 播映中   |                                                                                                                                                                                                                                                                  | 巡禮名稱《[Good Night Show 全民造星](https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星 "wikilink")》（第二季） |
-| 其他實況娛樂（真人騷）節目                                                             |       |                                                                                                                                                                                                                                                                  |                                                                                                  |
-| 《[人住公屋 我住公屋](https://zh.wikipedia.org/wiki/人住公屋_我住公屋 "wikilink")》         | 已播映完畢 | [黃秋生](../Page/黃秋生.md "wikilink")、[林一峰](https://zh.wikipedia.org/wiki/林一峰 "wikilink")、[林二汶](https://zh.wikipedia.org/wiki/林二汶 "wikilink")、[曾鈺成](../Page/曾鈺成.md "wikilink")、[梁國雄](../Page/梁國雄.md "wikilink")、[盤菜瑩子](https://zh.wikipedia.org/wiki/盤菜瑩子 "wikilink") |                                                                                                  |
-| 《》                                                                        | 已播映完畢 | [達哥](../Page/林慧韡.md "wikilink")、[杜小喬](../Page/杜小喬.md "wikilink")、[陳嘉倩](../Page/陳嘉倩.md "wikilink")、[林曉峰](../Page/林曉峰.md "wikilink")、[西瓜](https://zh.wikipedia.org/wiki/李澄_\(DJ\) "wikilink")                                                                      |                                                                                                  |
-| 《[買樓狂想\#曲](../Page/買樓狂想曲.md "wikilink")》                                  | 已播映完畢 | [火火](../Page/火火.md "wikilink")、[陳君浩](https://zh.wikipedia.org/wiki/陳君浩 "wikilink")、[鄧耀鏗](https://zh.wikipedia.org/wiki/鄧耀鏗 "wikilink")、[黃慶利](https://zh.wikipedia.org/wiki/黃慶利 "wikilink")                                                                       |                                                                                                  |
-| 《[的士Go 2](../Page/的士Go.md "wikilink")》                                    | 已播映完畢 | [陳子豐](../Page/陳子豐.md "wikilink")                                                                                                                                                                                                                                 |                                                                                                  |
-| 《[眾神的大陸](https://zh.wikipedia.org/wiki/眾神的大陸 "wikilink")》                 | 已播映完畢 | [洪助昇](../Page/洪助昇.md "wikilink")、（旁白：[東方昇](../Page/東方昇.md "wikilink")）                                                                                                                                                                                           |                                                                                                  |
-| 《[寂寞是幫兇](https://zh.wikipedia.org/wiki/寂寞是幫兇 "wikilink")》                 | 計劃中   |                                                                                                                                                                                                                                                                  |                                                                                                  |
-| 《[愛我嗎? 愛你媽\!](https://zh.wikipedia.org/wiki/愛我嗎?_愛你媽! "wikilink")》        | 已播映完畢 | [林曉峰](../Page/林曉峰.md "wikilink")、[康子妮](../Page/康子妮.md "wikilink")、[火火](../Page/火火.md "wikilink")                                                                                                                                                                 |                                                                                                  |
-| 《》                                                                        | 已播映完畢 | [陳柏宇](../Page/陳柏宇.md "wikilink")、[朱薰](../Page/朱薰.md "wikilink")                                                                                                                                                                                                  |                                                                                                  |
-| 《[大廚背後](https://zh.wikipedia.org/wiki/大廚背後 "wikilink")》                   | 拍攝中   | [方健儀](../Page/方健儀.md "wikilink")                                                                                                                                                                                                                                 |                                                                                                  |
-| 《[餸情](https://zh.wikipedia.org/wiki/餸情 "wikilink")》                       | 播映中   |                                                                                                                                                                                                                                                                  |                                                                                                  |
+<table>
+<thead>
+<tr class="header">
+<th><p>節目名稱</p></th>
+<th><p>製作進度</p></th>
+<th><p>主持</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Good Night Show系列（已於2019年4月26日結束）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《》</p></td>
+<td><p>已播映完畢</p></td>
+<td><p><a href="../Page/林曉峰.md" title="wikilink">林曉峰</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《》</p></td>
+<td><p>已播映完畢</p></td>
+<td><p><a href="../Page/張堅庭.md" title="wikilink">張堅庭</a>、<a href="../Page/曾美華.md" title="wikilink">曾美華</a>、</p></td>
+<td><p>巡禮名稱《只有更荒謬》</p></td>
+</tr>
+<tr class="even">
+<td><p>《<a href="https://zh.wikipedia.org/wiki/全民造星II" title="wikilink">全民造星II</a>》</p></td>
+<td><p>播映中</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/強尼" title="wikilink">強尼</a></p></td>
+<td><p>巡禮名稱《<a href="https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星" title="wikilink">Good Night Show 全民造星</a>》（第二季），於《ViuTV 2020》節目巡禮中再度推介</p></td>
+</tr>
+<tr class="odd">
+<td><p>其他實況娛樂（真人騷）節目</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《<a href="https://zh.wikipedia.org/wiki/人住公屋_我住公屋" title="wikilink">人住公屋 我住公屋</a>》</p></td>
+<td><p>已播映完畢</p></td>
+<td><p><a href="../Page/黃秋生.md" title="wikilink">黃秋生</a>、<a href="https://zh.wikipedia.org/wiki/林一峰" title="wikilink">林一峰</a>、<a href="https://zh.wikipedia.org/wiki/林二汶" title="wikilink">林二汶</a>、<a href="../Page/曾鈺成.md" title="wikilink">曾鈺成</a>、<a href="../Page/梁國雄.md" title="wikilink">梁國雄</a>、<a href="https://zh.wikipedia.org/wiki/盤菜瑩子" title="wikilink">盤菜瑩子</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《》</p></td>
+<td><p>已播映完畢</p></td>
+<td><p><a href="../Page/林慧韡.md" title="wikilink">達哥</a>、<a href="../Page/杜小喬.md" title="wikilink">杜小喬</a>、<a href="../Page/陳嘉倩.md" title="wikilink">陳嘉倩</a>、<a href="../Page/林曉峰.md" title="wikilink">林曉峰</a>、<a href="https://zh.wikipedia.org/wiki/李澄_(DJ)" title="wikilink">西瓜</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《<a href="../Page/買樓狂想曲.md" title="wikilink">買樓狂想#曲</a>》</p></td>
+<td><p>已播映完畢</p></td>
+<td><p><a href="../Page/火火.md" title="wikilink">火火</a>、<a href="https://zh.wikipedia.org/wiki/陳君浩" title="wikilink">陳君浩</a>、<a href="https://zh.wikipedia.org/wiki/鄧耀鏗" title="wikilink">鄧耀鏗</a>、<a href="https://zh.wikipedia.org/wiki/黃慶利" title="wikilink">黃慶利</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《<a href="../Page/的士Go.md" title="wikilink">的士Go 2</a>》</p></td>
+<td><p>已播映完畢</p></td>
+<td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《<a href="https://zh.wikipedia.org/wiki/眾神的大陸" title="wikilink">眾神的大陸</a>》</p></td>
+<td><p>已播映完畢</p></td>
+<td><p><a href="../Page/洪助昇.md" title="wikilink">洪助昇</a>、（旁白：<a href="../Page/東方昇.md" title="wikilink">東方昇</a>）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《<a href="https://zh.wikipedia.org/wiki/寂寞是幫兇" title="wikilink">寂寞是幫兇</a>》</p></td>
+<td><p>即將播映</p></td>
+<td><p>、</p></td>
+<td><p>於《ViuTV 2020》節目巡禮中再度推介</p></td>
+</tr>
+<tr class="even">
+<td><p>《<a href="https://zh.wikipedia.org/wiki/愛我嗎?_愛你媽!" title="wikilink">愛我嗎? 愛你媽!</a>》</p></td>
+<td><p>已播映完畢</p></td>
+<td><p><a href="../Page/林曉峰.md" title="wikilink">林曉峰</a>、<a href="../Page/康子妮.md" title="wikilink">康子妮</a>、<a href="../Page/火火.md" title="wikilink">火火</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《》</p></td>
+<td><p>已播映完畢</p></td>
+<td><p><a href="../Page/陳柏宇.md" title="wikilink">陳柏宇</a>、<a href="../Page/朱薰.md" title="wikilink">朱薰</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《<a href="https://zh.wikipedia.org/wiki/大廚背後" title="wikilink">大廚背後</a>》</p></td>
+<td><p>拍攝中</p></td>
+<td><p><a href="../Page/方健儀.md" title="wikilink">方健儀</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《<a href="https://zh.wikipedia.org/wiki/餸情" title="wikilink">餸情</a>》</p></td>
+<td><p>播映中</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 #### 外購劇集
 
@@ -211,7 +296,7 @@ ViuTV 2019為[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")於20
 <tr class="even">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/吉米·法倫今夜秀" title="wikilink">The Tonight Show Starring Jimmy Fallon</a>》</p></td>
 <td></td>
-<td><p>播映中</p></td>
+<td><p>已播映完畢</p></td>
 <td></td>
 </tr>
 <tr class="odd">

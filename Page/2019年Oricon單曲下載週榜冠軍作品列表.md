@@ -287,6 +287,69 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>10月7日</p></td>
+<td><p>4.2</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月14日</p></td>
+<td><p>3.6</p></td>
+<td><p>[34]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10月21日</p></td>
+<td><p>傘</p></td>
+<td><p><a href="../Page/King_Gnu.md" title="wikilink">King Gnu</a></p></td>
+<td><p>2.8</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月28日</p></td>
+<td><p>馬和鹿</p></td>
+<td><p>米津玄師</p></td>
+<td><p>2.9</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月4日</p></td>
+<td><p>3.2</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11月11日</p></td>
+<td></td>
+<td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
+<td><p>2.7</p></td>
+<td><p>[35]</p></td>
+</tr>
+<tr class="even">
+<td><p>11月18日</p></td>
+<td><p>6.7</p></td>
+<td><p>[36]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11月25日</p></td>
+<td></td>
+<td><p>Official髭男dism</p></td>
+<td><p>2.1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12月2日</p></td>
+<td><p>2.0</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -332,3 +395,6 @@
 31. [米津玄師『ノーサイド・ゲーム』主題歌が3週連続1位 back numberに続き史上2組目【オリコンランキング】](https://www.oricon.co.jp/news/2143680/full/)
 32. [米津玄師『ノーサイド・ゲーム』主題歌が4週連続1位 デジタルSG初の「同一アーティストによる通算2作の4週連続1位」【オリコンランキング】](https://www.oricon.co.jp/news/2144171/full/)
 33. [米津玄師、ソロアーティスト今年度最高売上 デジタルシングルは5週連続1位【オリコンランキング】](https://www.oricon.co.jp/news/2144555/full/)
+34. [米津玄師「馬と鹿」8週連続1位 19年デジタルシングル総売上1位、2位独占](https://www.oricon.co.jp/news/2146119/full/)
+35. [デビュー20周年の嵐、1日のみの集計で初の週間デジタルシングルが1位 【オリコンランキング】](https://www.oricon.co.jp/news/2148007/full/)
+36. [嵐、2週連続1位&歴代最多7作同時TOP10入り デジタルSGランキングを席巻【オリコンランキング】](https://www.oricon.co.jp/news/2148490/full/)

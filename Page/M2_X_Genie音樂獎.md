@@ -163,8 +163,6 @@
 [Category:2019年建立的奖项](https://zh.wikipedia.org/wiki/Category:2019年建立的奖项 "wikilink") [Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink") [Category:音乐奖项](https://zh.wikipedia.org/wiki/Category:音乐奖项 "wikilink") [Category:韓國音樂獎項](https://zh.wikipedia.org/wiki/Category:韓國音樂獎項 "wikilink")
 
 1.
-
 2.
 3.
-
 4.

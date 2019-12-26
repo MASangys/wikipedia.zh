@@ -20,6 +20,8 @@
 
 ## 爭議
 
+2016年2月10日，托哥在Facebook轉發香港大學學生會支持旺角事件抗爭者的帖子，聲稱他對學生會感到羞恥。https://lihkg.com/thread/1576593/page/1
+
 2019年9月份，有網民先繼在Twitter和[連登](https://lihkg.com/thread/1574353/page/1)張貼了證據，指出托哥涉嫌持有假新聞網媒Dim Sum Daily的母公司Asia United Media Limited的一半股份。就此托哥在其個人社交媒體澄清他經營的Asia United Media Limited只是一間廣告公司，為Dim Sum Daily及其它150家網媒找廣告，他從來沒有擁有和參與管理那些平台。廣告公司成立一個月後也已停止營運。
 
 ## 外部連結

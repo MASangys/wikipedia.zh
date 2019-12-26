@@ -220,7 +220,7 @@
 <td></td>
 <td><p><a href="../Page/南宁市.md" title="wikilink">南寧</a></p></td>
 <td><p>廣西體育中心主體育場</p></td>
-<td></td>
+<td><p>30000</p></td>
 <td><p><small>室外體育場</small></p></td>
 </tr>
 <tr class="even">
@@ -279,10 +279,55 @@
 </tr>
 <tr class="even">
 <td><p>28</p></td>
-<td><p>2019年12月29日</p></td>
+<td><p>2019年12月21日</p></td>
 <td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘇州市" title="wikilink">蘇州</a></p></td>
+<td><p>蘇州奧林匹克體育中心體育館</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>29</p></td>
+<td><p>2019年12月29日</p></td>
 <td><p><a href="../Page/天津市.md" title="wikilink">天津</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/天津體育館" title="wikilink">天津體育館</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>30</p></td>
+<td><p>2020年1月4日</p></td>
+<td><p><a href="../Page/佛山市.md" title="wikilink">佛山</a><a href="https://zh.wikipedia.org/wiki/高明區" title="wikilink">高明</a></p></td>
+<td><p>佛山高明體育中心體育場</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>31</p></td>
+<td><p>2020年1月11日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/海口市" title="wikilink">海口</a></p></td>
+<td><p>海口市五源河體育中心體育場</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>32</p></td>
+<td><p>2020年1月18日</p></td>
+<td><p><a href="../Page/茂名市.md" title="wikilink">茂名</a></p></td>
+<td><p>茂名體育中心體育場</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>33</p></td>
+<td><p>2020年2月8日</p></td>
+<td></td>
+<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新加坡室內體育館" title="wikilink">新加坡室內體育館</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -300,6 +345,10 @@
 **廣州站2019年3月30日**
 
 **珠海站2019年4月13日**  **𦘦慶站2019年5月11日****湛江站2019年5月18日****深圳站2019年5月24日/25日****佛山站2019年6月14日/15日****澳門站2019年6月22日/23日****北京站2019年6月29日****杭州站2019年8月10日****南京站2019年8月17日** **惠州站2019年8月24日** **大連站2019年8月31日** **上海站2019年9月7日****汕頭站2019年9月14日**
+
+**墨尔本站2019年10月3日**
+
+**悉尼站2019年10月6日**
 
 ## 參考資料
 

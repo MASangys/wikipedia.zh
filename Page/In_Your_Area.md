@@ -504,27 +504,6 @@
 </tbody>
 </table>
 
-## 取消場次
-
-<table>
-<thead>
-<tr class="header">
-<th><p>日期</p></th>
-<th><p>城市/地區</p></th>
-<th><p>國家</p></th>
-<th><p>演出場地</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2019年5月9日</p></td>
-<td><p><a href="../Page/沃斯堡.md" title="wikilink">沃斯堡</a></p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
 ## 票房數據
 
 | 城市                                                                                                   | 舉行地點     | 已售門票 / 總門票             | 票房收入（美元）         |
@@ -625,84 +604,47 @@
 [Category:BLACKPINK演唱會](https://zh.wikipedia.org/wiki/Category:BLACKPINK演唱會 "wikilink") [Category:韓國演唱會](https://zh.wikipedia.org/wiki/Category:韓國演唱會 "wikilink") [Category:2019年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2019年巡迴演唱會 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
 30.
-
 31.
-
 32.
-
 33.
 34.
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
 44.
 45.

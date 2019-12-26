@@ -21,20 +21,12 @@ Ampaw can be easily modified with added ingredients. Examples include roasted [p
 [Category:菲律賓米食](https://zh.wikipedia.org/wiki/Category:菲律賓米食 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.

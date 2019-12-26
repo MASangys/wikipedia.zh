@@ -20,17 +20,19 @@
 
 2016年，Jaeun曾以藝名WIN於團體[INX](../Page/INX.md "wikilink")出道。
 
-2017年，Kain曾在[防彈少年團](../Page/防彈少年團.md "wikilink")第二次世界巡迴演唱會擔任伴舞員\[2\]。
+2017年，Kain曾在[防彈少年團](../Page/防彈少年團.md "wikilink")第二次世界巡迴演唱會擔任伴舞員\[2\]\[3\]。
 
 ### 出道後
 
-2019年3月11日，以歌曲《Master Key》正式出道\[3\]。
+2019年3月11日，以歌曲《Master Key》正式出道\[4\]。
 
-2019年4月28日-6月29日，在[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[新宿區](../Page/新宿區.md "wikilink"): K-Stage O 舉行《ARGON 2019 1st JAPANLIVE》，共31天，合共62場小型音樂會\[4\]。
+2019年4月28日-6月29日，在[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[新宿區](../Page/新宿區.md "wikilink"): K-Stage O 舉行《ARGON 2019 1st JAPANLIVE》，共31天，合共62場小型音樂會\[5\]。
+
+2019年3月11日，以歌曲《Give Me Dat》作回歸。
 
 ## 音樂作品
 
-### 單曲專輯
+### 迷你專輯
 
 <table>
 <tbody>
@@ -44,6 +46,16 @@
 <td><p>《<strong>Master Key</strong>》</p>
 <ul>
 <li>發行日期：2019年3月11日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>銷量：</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>2nd</strong></p></td>
+<td><p>《<strong>Go Forward : Wide Dream</strong>》</p>
+<ul>
+<li>發行日期：2019年10月2日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>銷量：</li>
 </ul></td>
@@ -67,3 +79,4 @@
 2.
 3.
 4.
+5.

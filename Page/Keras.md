@@ -34,26 +34,15 @@ Keras允许用户在智能手机（[iOS和](https://zh.wikipedia.org/wiki/iOS "w
 [Category:应用机器学习](https://zh.wikipedia.org/wiki/Category:应用机器学习 "wikilink") [Category:数据挖掘和机器学习软件](https://zh.wikipedia.org/wiki/Category:数据挖掘和机器学习软件 "wikilink") [Category:深度学习](https://zh.wikipedia.org/wiki/Category:深度学习 "wikilink") [Category:自由統計軟件](https://zh.wikipedia.org/wiki/Category:自由統計軟件 "wikilink") [Category:Python科学库](https://zh.wikipedia.org/wiki/Category:Python科学库 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.    TensorFlow|website=TensorFlow|language=en|access-date=2018-11-14}}
-
 6.  [Chollet GitHub Comment](https://github.com/fchollet/keras/issues/5050)
-
 7.  [CNTK Keras GitHub Issue](https://github.com/Microsoft/CNTK/issues/797)
-
 8.
-
 9.
-
 10.
-
 11.   TensorFlow|website=TensorFlow|language=en|access-date=2018-11-14}}
-
 12.
 13.

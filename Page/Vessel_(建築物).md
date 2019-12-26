@@ -4,6 +4,10 @@
 
 建築物的名稱是暫定名稱，註明了TKA縮寫，意思是「暫時被稱為」（Temporarily Known As）。建築物的擁有人請求公眾給它一個正式名稱，而且有一個網站給它命名。社交媒體上討論最多的名字之一是「[沙威瑪](https://zh.wikipedia.org/wiki/沙威瑪 "wikilink")」，這是在街頭食品上受歡迎的圓錐形肉。
 
+## 圖片
+
+<File:Hudson> Yards Vessel IMG 3553 HLG.jpg <File:Vessel> top vc.png <File:The> Vessel (top-down view), Hudson Yards, New York City, July 2019.jpg <File:Hudson> Yards Plaza March 2019 27.jpg <File:Aerial> View of The Vessel at Hudson Yards, New York City.webm
+
 ## 參考資料
 
 ## 外部連結

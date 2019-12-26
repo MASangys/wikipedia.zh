@@ -14,12 +14,8 @@
 [Category:ADP_(公司)](https://zh.wikipedia.org/wiki/Category:ADP_\(公司\) "wikilink") [Category:美国服务公司](https://zh.wikipedia.org/wiki/Category:美国服务公司 "wikilink") [Category:1949年成立的公司](https://zh.wikipedia.org/wiki/Category:1949年成立的公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.

@@ -1,6 +1,6 @@
 <div id="contentSub">
 
-<span class="subpages">**Music Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md "wikilink") - [2011年](../Page/Music_Café節目列表_\(2011年\).md "wikilink") - [2012年](../Page/Music_Café節目列表_\(2012年\).md "wikilink")** - **[2013年](../Page/Music_Café節目列表_\(2013年\).md "wikilink")** - **[2014年](../Page/Music_Café節目列表_\(2014年\).md "wikilink")** - **[2015年](../Page/Music_Café節目列表_\(2015年\).md "wikilink")** - **[2016年](../Page/Music_Café節目列表_\(2016年\).md "wikilink")** - **[2017年](../Page/Music_Café節目列表_\(2017年\).md "wikilink")** - **[2018年](../Page/Music_Café節目列表_\(2018年\).md "wikilink")** - **2019年**</span>
+<span class="subpages">**Music Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md "wikilink") - [2011年](../Page/Music_Café節目列表_\(2011年\).md "wikilink") - [2012年](../Page/Music_Café節目列表_\(2012年\).md "wikilink")** - **[2013年](../Page/Music_Café節目列表_\(2013年\).md "wikilink")** - **[2014年](../Page/Music_Café節目列表_\(2014年\).md "wikilink")** - **[2015年](../Page/Music_Café節目列表_\(2015年\).md "wikilink")** - **[2016年](../Page/Music_Café節目列表_\(2016年\).md "wikilink")** - **[2017年](../Page/Music_Café節目列表_\(2017年\).md "wikilink")** - **[2018年](../Page/Music_Café節目列表_\(2018年\).md "wikilink")** - **2019年** - **[2020年](https://zh.wikipedia.org/wiki/Music_Café節目列表_\(2020年\) "wikilink")**</span>
 
 </div>
 
@@ -89,5 +89,24 @@
 | 438 | 9月14日  | 王梓軒、歌莉雅　錫聲技巧     | [王梓軒](../Page/王梓軒.md "wikilink")、[歌莉雅](../Page/歌莉雅.md "wikilink") |- style="background-color: \#FFFFFF" |                                                   |
 | 439 | 9月21日  | 馮允謙、JW　把靚聲留給聽眾   | [馮允謙](../Page/馮允謙.md "wikilink")、[JW](../Page/王灝兒.md "wikilink") |- style="background-color: \#FFFFFF" |                                                    |
 | 440 | 9月28日  | 鍾達茵、林穎彤　由新人出發    | [鍾達茵](https://zh.wikipedia.org/wiki/鍾達茵 "wikilink")、[林穎彤](../Page/林穎彤.md "wikilink") |- style="background-color: \#FFFFFF" |                                |
+
+## 10月
+
+| 集數  | J2首播日期 | 主題              | 嘉賓                                                                                                        |
+| --- | ------ | --------------- | --------------------------------------------------------------------------------------------------------- |
+| 441 | 10月5日  | 陳奐仁、林欣彤　分享演唱會心得 | [陳奐仁](../Page/陳奐仁.md "wikilink")、[林欣彤](../Page/林欣彤.md "wikilink") |- style="background-color: \#FFFFFF" | |
+| 442 | 10月12日 | 衛詩、劉子碩　唱好廣東歌    | [衛　詩](../Page/衛詩.md "wikilink")、[劉子碩](../Page/劉子碩.md "wikilink") |- style="background-color: \#FFFFFF" |  |
+| 443 | 10月19日 | 陳健安　樂壇心靈治療師     | [陳健安](../Page/陳健安.md "wikilink") |- style="background-color: \#FFFFFF" |                                  |
+| 444 | 10月26日 | 葉巧琳、梁釗峰　單飛的創作路  | [葉巧琳](../Page/樂遊團.md "wikilink")、[梁釗峰](../Page/梁釗峰.md "wikilink") |- style="background-color: \#FFFFFF" | |
+
+## 11月
+
+| 集數  | J2首播日期 | 主題                  | 嘉賓                                                                                                                                                                               |
+| --- | ------ | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 445 | 11月2日  | 谷婭溦、曾樂彤　成長見證        | [谷婭溦](../Page/谷婭溦.md "wikilink")、[曾樂彤](../Page/曾樂彤.md "wikilink") |- style="background-color: \#FFFFFF" |                                                                        |
+| 446 | 11月9日  | 何雁詩、譚嘉儀　唱劇歌的心得      | [何雁詩](https://zh.wikipedia.org/wiki/何雁詩 "wikilink")、[譚嘉儀](../Page/譚嘉儀.md "wikilink") |- style="background-color: \#FFFFFF" |                                                     |
+| 447 | 11月16日 | 林奕匡、J.Arie　為別人寫歌很難？ | [林奕匡](../Page/林奕匡.md "wikilink")、[J.Arie](../Page/雷深如.md "wikilink") |- style="background-color: \#FFFFFF" |                                                                     |
+| 448 | 11月23日 | HANA、馮允謙　歌曲背後的故事    | [HANA](../Page/菊梓喬.md "wikilink")、[馮允謙](../Page/馮允謙.md "wikilink") |- style="background-color: \#FFFFFF" |                                                                       |
+| 449 | 11月30日 | 戴祖儀、林晴恩、施匡翹　新人展現真我  | [戴祖儀](../Page/戴祖儀.md "wikilink")、[林晴恩](https://zh.wikipedia.org/wiki/林晴恩 "wikilink")、[施匡翹](https://zh.wikipedia.org/wiki/施匡翹 "wikilink") |- style="background-color: \#FFFFFF" | |
 
 [Category:無綫電視節目列表](https://zh.wikipedia.org/wiki/Category:無綫電視節目列表 "wikilink") [Category:Music_Café](https://zh.wikipedia.org/wiki/Category:Music_Café "wikilink") [Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink")

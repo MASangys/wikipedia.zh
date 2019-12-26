@@ -95,38 +95,23 @@ ERYX反坦克導彈採用了[瞄准线半自动指令](../Page/瞄准线半自�
 [Category:反坦克导弹](https://zh.wikipedia.org/wiki/Category:反坦克导弹 "wikilink") [Category:法国导弹](https://zh.wikipedia.org/wiki/Category:法国导弹 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
-
 11.
 12.
 13.
-
 14.
-
 15.
 16.  see 4:20-5:40 minutes.
-
 17. Janes Defense Weekly Vol.50, Issue 10, p 19
-
 18. The World Defence Almanac 2005 page 314 ISSN 0722-3226
-
-19. [MKEK - Makina ve Kimya Endüstrisi Kurumu](http://www.mkek.gov.tr/tr/Urunler.aspx?UretimYeriID=0&UrunID=308&AnaKategori=108&AltKategori=&EnAltKategori=)
-
+19.
 20.
-
 21.

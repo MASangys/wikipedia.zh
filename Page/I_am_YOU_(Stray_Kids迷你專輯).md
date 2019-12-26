@@ -1,4 +1,4 @@
-《**I am YOU**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids的第三張韓語迷你專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為[iRiver](https://zh.wikipedia.org/wiki/iRiver "wikilink")，於2018年10月22日發行。同名主打歌〈I am YOU〉，由成員方燦、彰彬、Han參與詞曲創作。
+《**I am YOU**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids的第三張韓語迷你專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為[iRiver](https://zh.wikipedia.org/wiki/iRiver "wikilink")，於2018年10月22日發行。同名主打歌〈I am YOU〉，由成員方燦、彰彬、HAN參與詞曲創作。
 
 ## 背景
 
@@ -12,7 +12,7 @@
 
 10月11日釋出兩張團體概念照。
 
-10月12日釋出Lee Know、鉉辰、Han個人概念照與UNIT概念照。
+10月12日釋出Lee Know、鉉辰、HAN個人概念照與UNIT概念照。
 
 10月13日釋出宇珍、昇玟、I.N個人概念照與UNIT概念照。
 
@@ -38,7 +38,7 @@
 
 ## 概要
 
-此張專輯《I am YOU》是第一張迷你專輯《I am NOT》及第二張迷你專輯《I am WHO》的延續，同時也是《I am》系列作品的第三張專輯。
+此張專輯《I am YOU》是第一張迷你專輯《[I am NOT](../Page/I_am_NOT_\(Stray_Kids迷你專輯\).md "wikilink")》及第二張迷你專輯《[I am WHO](../Page/I_am_WHO_\(Stray_Kids迷你專輯\).md "wikilink")》的延續，同時也是《I am》系列作品的第三張專輯。
 前兩張專輯講述的是對自身的混亂和苦惱，而透過此張專輯尋找答案，講述著慶幸有著相同苦惱經歷同樣混亂的你，如果和你在一起應該能找到真正的我\[2\]。
 同名主打歌〈I am YOU〉融合吉他演奏與強烈的Trap節奏，以Powerful的RAP及感性的Vocal傳達「希望」與「成長」的信念，透過歌詞「與你在一起時我能知道，在相同空間、相同時間裡，不管什麼都可以戰勝」傳達「因為有你(YOU)我(I)認識了我自己，還好有一直陪著我(I)的你(YOU)」的訊息\[3\]。意味「生活在同一的空間、時間的我對於你，以及你對於我，能成為彼此的力量而感到慶幸，很感謝在一起尋找答案的過程中有你在身邊」，藉此感謝一直在身旁陪伴、給予正面能量的你(YOU)。\[4\]
 \===發行版本=== ※明信片組、寫真卡及海報為預購特典。
@@ -74,6 +74,105 @@
 | 11月14日                                                                                                     | [Stray Kids "Get Cool" M/V](https://www.youtube.com/watch?v=BcXwZEbOvpo)                           |                                                                                                |
 | 11月21日                                                                                                     | [Stray Kids "극과 극(N/S)" Video (Street Ver.)](https://www.youtube.com/watch?v=-CQypyGazkw)          |                                                                                                |
 
+## 音樂現場
+
+<table>
+<thead>
+<tr class="header">
+<th><p>節目名稱</p></th>
+<th><p>電視台</p></th>
+<th><p>日期</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>I am YOU</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p>10月25日[5]、11月1日[6]、11月8日[7]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
+<td><p>10月26日[8]、11月2日[9]、11月9日[10]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p>10月27日[11]、11月3日[12]、11月17日<ref>{{Citation|last=MBCkpop|title=[HOT] Stray Kids - I am YOU, 스트레이 키즈 - I am YOU Show Music core 20181117</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a></p></td>
+<td><p>10月28日[13]、11月11日[14]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
+<td></td>
+<td><p>11月14日[15]</p></td>
+</tr>
+<tr class="odd">
+<td><p>邊（편／My Side）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p>10月25日[16]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
+<td><p>10月26日[17]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p>10月27日[18]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a></p></td>
+<td><p>10月28日[19]</p></td>
+</tr>
+<tr class="even">
+<td><p>Get Cool</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
+<td><p>11月15日[20]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
+<td><p>11月16日[21]、11月30日[22]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p>12月1日<ref>{{Citation|last=MBCkpop|title=[HOT] Stray Kids - Get Cool , 스트레이 키즈 - Get Cool Show Music core 20181201</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a></p></td>
+<td><p>12月2日[23]</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿里郎電視台" title="wikilink">ARIRANG TV</a></p></td>
+<td><p>11月30日[24]、12月7日[25]</p></td>
+</tr>
+</tbody>
+</table>
+
 ## 榜單成績
 
 <table>
@@ -96,12 +195,12 @@
 <td><p>2018年10月21日－27日</p></td>
 <td><p>#2</p></td>
 <td><p>122,335+</p></td>
-<td><p>[5]</p></td>
+<td><p>[26]</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年10月28日－11月3日</p></td>
 <td><p>#7</p></td>
-<td><p>[6]</p></td>
+<td><p>[27]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -109,7 +208,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018年11月4日－10日</p></td>
-<td><p>[7]</p></td>
+<td><p>[28]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -119,7 +218,7 @@
 <tr class="even">
 <td><p>2018年11月11日－17日</p></td>
 <td><p>#9</p></td>
-<td><p>[8]</p></td>
+<td><p>[29]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -128,7 +227,7 @@
 <tr class="odd">
 <td><p>2018年11月18日－24日</p></td>
 <td><p>#10</p></td>
-<td><p>[9]</p></td>
+<td><p>[30]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -138,7 +237,7 @@
 <td><p>專輯月榜</p></td>
 <td><p>2018年10月</p></td>
 <td><p>#5</p></td>
-<td><p>[10]</p></td>
+<td><p>[31]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -147,7 +246,7 @@
 <td><p>專輯年榜</p></td>
 <td><p>2018年</p></td>
 <td><p>#44</p></td>
-<td><p>[11]</p></td>
+<td><p>[32]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -156,7 +255,7 @@
 <td><p>專輯上半年榜</p></td>
 <td><p>2019年1月－6月</p></td>
 <td><p>#109</p></td>
-<td><p>[12]</p></td>
+<td><p>[33]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -168,7 +267,7 @@
 <td><p>2018年10月19日－25日</p></td>
 <td><p>#2 </p></td>
 <td><p>7.57%</p></td>
-<td><p>[13]</p></td>
+<td><p>[34]</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年10月26日－11月1日</p></td>
@@ -186,7 +285,7 @@
 <td><p> </p></td>
 <td><p>#8</p></td>
 <td></td>
-<td><p>[14]</p></td>
+<td><p>[35]</p></td>
 </tr>
 <tr class="even">
 <td><p>日本</p></td>
@@ -195,7 +294,7 @@
 <td><p>2018年10月22日－28日</p></td>
 <td><p>#34</p></td>
 <td><p>2,234+</p></td>
-<td><p>[15]</p></td>
+<td><p>[36]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -265,19 +364,18 @@
 ## 外部連結
 
   - [Stray Kids官方網站](http://straykids.jype.com/)
+  - [Stray Kids \[INTRO: I am YOU\]](https://www.youtube.com/watch?v=6s17JflZ1nY)
+  - [Stray Kids UNVEIL \[Op. 03 : I am YOU\] SPOT](https://www.youtube.com/watch?v=MKHciJu_m58)
 
-  - [Stray Kids 【INTRO: I am YOU】](https://www.vlive.tv/video/94108)
-
-  -
 [Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink") [Category:Stray_Kids音樂專輯](https://zh.wikipedia.org/wiki/Category:Stray_Kids音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.
 3.
 4.
-5.
-6.
-7.
+5.   M COUNTDOWN 181025 EP.593 |date=2018-10-25|url=<https://www.youtube.com/watch?v=HJ1JNnyRRrg>}}
+6.   M COUNTDOWN 181101 EP.594 |date=2018-11-01|url=<https://www.youtube.com/watch?v=kdX5DiLBAmg>}}
+7.   M COUNTDOWN 181108 EP.595 |date=2018-11-08|url=<https://www.youtube.com/watch?v=VcFezjOQuOk>}}
 8.
 9.
 10.
@@ -286,3 +384,24 @@
 13.
 14.
 15.
+16.  M COUNTDOWN 181025 EP.593|date=2018-10-25|url=<https://www.youtube.com/watch?v=tMa7PPhaJBg>}}
+17.
+18.
+19.
+20.  M COUNTDOWN 181115 EP.596|date=2018-11-15|url=<https://www.youtube.com/watch?v=zdHXCctxxFk>}}
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.

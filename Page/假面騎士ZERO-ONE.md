@@ -1,82 +1,31 @@
-《**假面騎士ZERO-ONE**》（，），又名《**假面騎士01**》，自2019年9月1日起於[朝日電視台](../Page/朝日電視台.md "wikilink")，每週日早上9:00－9:30 播出的日本[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")。《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第1部[令和](../Page/令和.md "wikilink")系列作品，假面騎士ZERO-ONE是第36位作為主角的[假面騎士](../Page/假面騎士.md "wikilink")的名字。口號為「令和假面騎士元年」、「世界最強的社長只有一人！就是我！」
+《**假面騎士ZERO-ONE**》（，），又名《**假面騎士01**》或《**假面騎士零一**》，自2019年9月1日起於[朝日電視台](../Page/朝日電視台.md "wikilink")，每週日早上9:00－9:30 播出的日本[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")。《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第1部[令和](../Page/令和.md "wikilink")系列作品，假面騎士ZERO-ONE是第36位作為主角的[假面騎士](../Page/假面騎士.md "wikilink")的名字。口號為「令和假面騎士元年」、「世界最強的社長只有一人！就是我！」
 
 中國大陸[騰訊視頻於](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")2019年9月1日每週日起與日本同步播放，VIP每週日10:00更新，次日18:00更新普通話版。
 
 ## 本作特色
 
   - 本作為令和假面騎士系列的第一部作品。
-      - 因本作回歸假面騎士系列的原點，使得本作主角騎士——「假面騎士ZERO-ONE」的名稱亦可讀做「01」（零一），又加上「令和」日文讀音為，而Zero的漢字讀音為「零」（）與「令」同音，而One（）首字「」與「和」同音，所以有著「令和」之意。
+      - 因本作回歸假面騎士系列的原點，使得本作主角騎士——「假面騎士ZERO-ONE」的名稱亦可讀做「01」或「零一」，又加上「令和」日文讀音為，而Zero的漢字讀音為「零」（）與「令」同音，而One（）首字「」與「和」同音，所以有著「令和」之意，致敬假面騎士一號。
       - 另外「0」和「1」亦代表了[二進位的數碼世界](https://zh.wikipedia.org/wiki/二進位 "wikilink")，所以本作以人工智能作為設計概念。
-
-<!-- end list -->
-
   - 本作首次以[人工智能](../Page/人工智能.md "wikilink")（AI）作為設計概念。
-
-<!-- end list -->
-
   - 本作除了以往系列作的劇情風格外，同時導入企業與權勢鬥爭的文化\[1\]。
-
-<!-- end list -->
-
+  - 本作繼《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》、《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》、《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》和《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》後,怪人再次由變身器變身而成，而且其變身器發出電子語音，但與前四者不同之處是變身者全是人型機械人，而且被打敗後會消滅，因應需要可透過記憶備份來製造新一台人型機械人「復活」。
   - 本作繼《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》后，再次採用生物為騎士外觀的造型\[2\]，並且可切換自身的形態。
-
-<!-- end list -->
-
   - 本作繼《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》、《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》和《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》之後，再次出現變身道具可供騎士們互換使用。
   - 本作假面騎士的變身道具主要採用了鑰匙卡，而且每支鑰匙卡內以數據資料的方式存著一種生物的本能戰鬥力量。
-
-<!-- end list -->
-
   - 本作的假面騎士Valkyrie是繼《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》、《[假面騎士劍](https://zh.wikipedia.org/wiki/假面騎士劍 "wikilink")》、《[假面騎士響鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼 "wikilink")》、《[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")》、 《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》、《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》後再次出現的女性正規騎士\[3\] ，亦是[假面騎士系列](../Page/假面騎士系列.md "wikilink")以初期成員身份登場作戰的女性假面騎士。
-
-<!-- end list -->
-
   - 本作繼《[假面騎士BLACK RX](../Page/假面騎士BLACK_RX.md "wikilink")》後，暌違整整30年再次以[蝗蟲](../Page/蝗蟲.md "wikilink")作為主角騎士的基本型態造型\[4\]。
-
-<!-- end list -->
-
-  - 本作繼《[假面騎士Stronger](../Page/假面騎士Stronger.md "wikilink")》後，主角的基本型態為「電」屬性。
-
-<!-- end list -->
-
   - 本作繼《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的西瓜鎧甲後，再次出現主角騎士可裝備的大型戰鬥機甲\[5\]。
-
-<!-- end list -->
-
   - 本作繼《[假面騎士KABUTO](https://zh.wikipedia.org/wiki/假面騎士KABUTO "wikilink")》、《[假面騎士DECADE](https://zh.wikipedia.org/wiki/假面騎士DECADE "wikilink")》、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》後再次出現使用手槍型變身器變身的騎士\[6\]。
-
-<!-- end list -->
-
-  - 本作假面騎士的變身腰帶首次以「所屬組織簡稱\[7\] + 對應騎士或特徵\[8\] + 驅動器\[9\]」來命名。
-
-<!-- end list -->
-
+  - 本作假面騎士的變身腰帶首次以「所屬組織簡稱\[7\] + 對應騎士或腰帶特徵\[8\] + 驅動器\[9\]」來命名。
   - 本作自《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》起連續六套均有使用「假面騎士」的稱呼\[10\]。
-
-<!-- end list -->
-
   - 本作自《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》後，沒有採用[JUNON SUPER BOY大獎得主擔任假面騎士的變身者](../Page/JUNON_SUPER_BOY.md "wikilink")\[11\]。
-
-<!-- end list -->
-
-  - 本作繼《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》後，再次由高橋悠也擔任主編劇\[12\]亦因此本作再次顯示必殺技名稱，是致敬《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》\[13\]。
-
-<!-- end list -->
-
-  - 本作的CG特效和經費是歷代假面騎士裡最高值的\[14\]，而且還是首例\[15\]。
-
-<!-- end list -->
-
-  - 本作繼《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》後，再次沒有於第1話播出常規片頭曲片段,亦繼《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》、《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》後,再次在其他話數沒有播放常規片頭曲片段。
-  - 本作與《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》、《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》和《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》一樣, 主角騎士所騎乘的交通工具是由攜帶型道具轉換而成。
-
-<!-- end list -->
-
+  - 本作繼《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》後，再次由高橋悠也擔任主編劇\[12\]，亦因此本作再次顯示必殺技名稱，是致敬《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》\[13\]。
+  - 本作的CG特效是假面騎士系列作中最多一次的系列作。\[14\] \[15\]\[16\]。
+  - 本作繼《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》後，再次沒有於第1話播出常規片頭曲片段，亦繼《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》、《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》後，再次於其他話數沒播放常規片頭曲片段。
+  - 本作與《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》、《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》和《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》一樣，主角騎士所騎乘的交通工具皆與攜帶型道具聯動。\[17\]。
   - 本作史上首次把集數標題放在片尾，但只限第1話。
-
-<!-- end list -->
-
-  - 本作繼《假面騎士龍騎》、《假面騎士555》、《假面騎士KIVA》、《假面騎士Decade》、《假面騎士Fourze》、《假面騎士鎧武》、《假面騎士ZI-O》再次出現二騎初登場時跟主騎為敵對或警戒狀態。
+  - 本作繼《假面騎士龍騎》、《假面騎士555》、《假面騎士KIVA》、《假面騎士Decade》、《假面騎士Fourze》、《假面騎士鎧武》、《假面騎士ZI-O》再次出現二騎初登場時跟主騎為敵對或警戒狀態，之後才非敵對的方式互助戰鬥。
 
 ## 故事概要
 
@@ -97,7 +46,7 @@
     為現今日本規模最大的AI技術企業，是過去與政府協力推進「實驗都市計劃」的企業之一，且所有分行都由本部負責經營。
     以互聯網關聯事業為主，主要涉及AI開發、機器人產業和Humagear的派送產業等。
     創始人兼第一任社長為「飛電是之助」，在其過世後，由孫子飛電或人（假面騎士ZERO-ONE的變身者）繼承遺願就任第二任社長。
-    目前與A.I.M.S.之間互為競爭關係，同時與Zaia企業亦為競爭關係。
+    目前與A.I.M.S.之間互為戰鬥上的競爭關係，同時與Zaia企業則為企業上的競爭關係。
 
 <!-- end list -->
 
@@ -113,19 +62,21 @@
     原文：
     本作中唯恐天下不亂的惡役組織，將Humagear駭入魔化成MAGiA，到處作亂破壞引起人民的恐慌。
     由滅（假面騎士滅的變身者）擔任該組織的司令塔，迅（假面騎士迅的變身者）擔任組織的行動執行者。
+    目前得知到處作亂的目的就是為了修復方舟。
 
 <!-- end list -->
 
   - ZAIA企業
     原文： / *-{Zaia Enterprise}-*
-    本作中為日本另一個AI技術企業，與飛電智能為競爭對手的關係。
-    社長為假面騎士Thouser的變身者。
+    本作中為日本另一個AI技術企業，與飛電Intelligence為競爭對手的關係。
+    社長為天津垓（假面騎士Thouser的變身者），而A.I.M.S.所屬的刃唯阿（假面骑士Valkyrie的變身者）事實上是該公司的成員。
 
 <!-- end list -->
 
   - 破曉鎮
     原文： / *-{Day Break Town}-*
-    本作時間點12年前發生DayBreak爆炸事件的地點，也是當年飛電Intelligence投放Humagear進行測試實驗的城市，如今成為滅亡迅雷.net的據點。
+    本作時間點12年前發生DayBreak爆炸事件的地點，因此稱為『負面的歷史遺產』。
+    也是當年飛電Intelligence投放Humagear進行測試實驗的城市，如今成為滅亡迅雷.net的據點。
     第4話得知除了飛電Intelligence之外，也有多家企業派駐於此。
     「DayBreak」的中文翻譯有破曉、黎明的意思。
 
@@ -134,6 +85,37 @@
   - 嘻笑夢想樂園
     原文： / *-{Kusukusu Dream Land}-*
     或人曾工作於此的遊樂園，後因Berotha MAGiA的破壞而暫時停止營業。
+
+<!-- end list -->
+
+  - 真心壽司
+    原文：
+    壽司名店，現任店主為魚住範雄。
+    因為店主腰傷之故加上無繼承人的關係，面臨閉店的情況。
+    在與飛電Intelligence簽訂壽司職人型Humagear一貫握郎後，仍繼續開店。
+
+<!-- end list -->
+
+  - 麗華中學
+    原文：
+    飛電Intelligence的客戶之一。
+    因為體育教師型Humagear坂本柯比的關係，或人與伊絲來到該校執行飛電Intelligence的售後服務。
+
+<!-- end list -->
+
+  - 國立醫電病院
+    原文：
+    擁有先進醫療技術的大型醫院，也是投放大量醫療人員型Humagear的醫院，飛電Intelligence跟A.I.M.S.的健康檢查都在此進行。
+    因為安全考量的關係，該醫院的所有數據（包括病患的個人資料）都由醫院管理中心的獨立系統進行管理。
+    目前因滅亡迅雷.net的關係使得該醫院缺乏醫療人員型Humagear進行治療及照顧病患。
+    此拍攝場景與前系列作《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的聖都大學附屬醫院為同一地點。
+
+<!-- end list -->
+
+  - 國立未來醫療中心
+    原文：
+    同樣為擁有先進醫療技術的大型醫院。
+    也因為擁有大量醫療人員型Humagear的關係，而成為滅亡迅雷.net的襲擊目標。
 
 ## 故事用語
 
@@ -156,31 +138,37 @@
     原文： / *-{Humagear}-*
     為「飛電Intelligence」所開發搭載人工智能的人型機器人，特徵為類似人類的外觀，機械的身體，頭部裝載耳罩型裝置。
     在「滅亡迅雷.net」的惡意資料駭入下失控魔化，成為了本作的主要怪人MAGiA。
-    另外因數據資料被修改的關係\[16\]，使得變身成MAGiA的Humagear無法靠修復恢復原狀，而擊毀是目前唯一的處理方式。
+    另外因數據資料被修改的關係\[18\]，使得變身成MAGiA的Humagear無法靠修復恢復原狀，而擊毀是目前唯一的處理方式。
     雖然如此，Humagear是一個量產型的機器人。所以根據刃唯阿所説，Humagear是可以透過複製機體的形式復活。
     身高：因個體而有差異
     體重：因個體而有差異
     特色 / 能力：對應所從事的工作
     目前已知的Humagear類型如下：
 
-|                |                    |        |
-| -------------- | ------------------ | ------ |
-| **Humagear類型** | **簡介**             | **例子** |
-| 秘書型            | 能像秘書一樣向用家提供協助      | 伊絲、謝絲塔 |
-| 搞笑藝人型          | 能做出搞笑藝人的表演，向觀眾提供歡樂 | 腹筋崩壊太郎 |
-| 保安型            | 能做出保安相關的工作         | 守      |
-| 廚師型            | 能做出廚師相關的工作         |        |
-| 太空人型           | 能做出太空人相關的工作        |        |
-| 清潔工人型          | 能做出清潔工人相關的工作       |        |
-| 醫生型            | 能做出醫生相關的工作         |        |
-| 保姆型            | 能做出保姆相關的工作         |        |
-| 理髮師型           | 能做出理髮師相關的工作        | 西薩曼斯   |
-| 快遞員型           | 能做出快遞員相關的工作        | 歐庫雷爾   |
-| 公車司機型          | 能做出公車司機相關的工作       | 巴斯     |
-| 播報員型           | 能做出播報員相關的工作        | 瑪姬安娜   |
-| 壽司職人型          | 能做出壽司職人相關的工作       | 一貫握郎   |
-| 車掌小姐型          | 能做出車掌小姐相關的工作       | 安娜     |
-| 漫畫家助理型         | 能做出漫畫家助理相關的工作      | 森筆G筆   |
+|                |                   |                             |
+| -------------- | ----------------- | --------------------------- |
+| **Humagear類型** | **簡介**            | **例子**                      |
+| 秘書型            | 能像秘書一樣向用家提供協助     | 伊絲、謝絲塔、威爾                   |
+| 搞笑藝人型          | 能執行搞笑藝人的表演，提供觀眾歡樂 | 腹筋崩壊太郎                      |
+| 保安型            | 能執行保安相關的工作        | 守                           |
+| 廚師型            | 能執行廚師相關的工作        |                             |
+| 太空人型           | 能執行太空人相關的工作       | 宇宙小子雷電、宇宙小子昴（宇宙飛行員）         |
+| 清潔工人型          | 能執行清潔工人相關的工作      |                             |
+| 醫療人員型          | 能執行醫療人員相關的工作      | 白衣天使小真白（護理人員）、Dr.了不起（醫生）    |
+| 保姆型            | 能執行保姆相關的工作        |                             |
+| 理髮師型           | 能執行理髮師相關的工作       | 西薩曼斯                        |
+| 快遞員型           | 能執行快遞員相關的工作       | 歐庫雷爾                        |
+| 司機型            | 能執行司機相關的工作        | 巴斯（公車）、司機型Humagear（計程車）     |
+| 播報員型           | 能執行播報員相關的工作       | 瑪姬安娜                        |
+| 壽司職人型          | 能執行壽司職人相關的工作      | 一貫握郎                        |
+| 車掌小姐型          | 能執行車掌小姐相關的工作      | 安娜                          |
+| 漫畫家助理型         | 能執行漫畫家助理相關的工作     | 森筆G筆                        |
+| 聲優型            | 能執行聲優相關的工作        | 香菜澤賽娜                       |
+| 教師型            | 能執行教師相關的工作        | 坂本柯比（體育）                    |
+| 演員型            | 能執行演員相關的工作        | 松田英治                        |
+| 活動用傳統舞蹈型       | 能在活動上透過太鼓、舞蹈來活躍氣氛 | 祭田賽特1號\~5號                  |
+| 特殊型            | 能執行特殊類型的工作        | 暗殺型Humagear（暗殺）、沃斯・納索托克（偵探） |
+| 未知型            | 未知                | 滅、迅                         |
 
 :; MAGiA
 
@@ -190,21 +178,31 @@
         原文： / *-{Magia}-*
         本作的怪人，為Humagear遭到魔化後的樣貌。
         以滅絕人類為主要目標。
-        由於是被滅亡迅雷.net駭入，所以主要語言能力基本上得兩句：「已接入滅亡迅雷.net（日文：滅亡迅雷.netに<ruby>接続<rp>(</rp><rt>せつぞく</rt><rp>)</rp></ruby>）」和「要殺死所有人類（日文：<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>を<ruby>皆<rp>(</rp><rt>みな</rt><rp>)</rp></ruby><ruby>殺<rp>(</rp><rt>さつ</rt><rp>)</rp></ruby>しにする）」
+        由於是被滅亡迅雷.net駭入，所以主要語言能力基本上得兩句：「已接入滅亡迅雷.net（日文：滅亡迅雷.netに<ruby>接続<rp>(</rp><rt>せつぞく</rt><rp>)</rp></ruby>）」和「要殺死所有人類（日文：<ruby>人間<rp>(</rp><rt>にんげん</rt><rp>)</rp></ruby>を<ruby>皆<rp>(</rp><rt>みな</rt><rp>)</rp></ruby><ruby>殺<rp>(</rp><rt>さつ</rt><rp>)</rp></ruby>しにする）」。
+
+:; 人工智能特別法案
+
+  -
+
+      -
+        原文： / *-{Specialized Artificial Intelligence Law}-*
+        由A.I.M.S.制定專門針對Humagear的法案。只要該Humagear違反該法案或Humagear變成MAGiA便可無條件回收或銷毀。
+        第2話中提及第1條：「不管出於任何理由，Humagear都不可以傷害人類。」。
+        第6話中提及第6條：「在本人沒有被許可的情況下，不可製造與使用樣貌與親友相似的人工智能人型機械人。」，而香菜澤賽娜為其中一個例子。
 
 <!-- end list -->
 
   - 破曉事件
     原文： / *-{Daybreak}-*
-    本作時間點12年前所發生的大規模爆炸事件，而不破諫是該事件的生存者之一\[17\]。
-    不破諫的回憶中述說當年該事件是Humagear失控並到處殺害人類導致的，而飛電Intelligence卻以意外事件來處理\[18\]。
+    本作時間點12年前所發生的大規模爆炸事件，而不破諫是該事件的生存者之一\[19\]。
+    不破諫的回憶中述說當年該事件是Humagear失控並到處殺害人類導致的，而飛電Intelligence卻以意外事件來處理\[20\]。
 
 <!-- end list -->
 
   - 傑亞衛星
     原文： / *Satellite ZE:A*
     飛電Intelligence所屬的人工衛星，飛電Intelligence所製造出的Humagear皆受其管理。
-    飛電是之助生前因預判Humagear將受到惡人利用，因此暗中開發全新的保衛系統放置於此，而飛電ZERO-ONE驅動器則做為其控制權限的證明\[19\]。
+    飛電是之助生前因預判Humagear將受到惡人利用，因此暗中開發全新的保衛系統放置於此，而飛電ZERO-ONE驅動器則做為其控制權限的證明\[21\]。
 
 <!-- end list -->
 
@@ -222,18 +220,27 @@
 
   - 科技奇點
     原文： / *Singularity*
-    當萌生出自我的AI超越人類的那個瞬間。
+    人工智慧萌生出自我意識，並超越人類的那個瞬間。
 
 <!-- end list -->
 
   - 方舟
     原文： / *Ark*
+    水中衛星，同時也是滅亡迅雷.net想要修復的裝置，疑是前一代Humagear管理系統。
+    根據滅所說的，消滅人類是方舟根據判斷所下的指令。
 
 <!-- end list -->
 
   - 香水俠 劍
     原文： / *PERFUMAN TSURUGI*
-    漫畫家石墨超一郎所創作的作品。
+    漫畫家石墨超一郎所創作的作品，而他的工作室內有相關周邊商品。
+
+<!-- end list -->
+
+  - Giger
+    原文： / *Giger*
+    全名為獨立驅動型Humagear统率兵器Giger（自立駆動型ヒューマギア統率兵器ギーガー），為ZAIA所開發對失控Humagear的特殊機體。
+    不知為何，造型跟飛電為應對大規模災害而開發的大型救助系統「破壞猛瑪象」十分相近。
 
 ## 登場人物
 
@@ -260,15 +267,16 @@
 <td><p>Rising Hopper<br />
 ''' 昇華蝗蟲 '''</p></td>
 <td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Rising Hopper ProgriseKey</strong>變身的形態<br />
 身高：196.5cm<br />
 體重：87.0kg<br />
 拳擊力：8.4t<br />
 踢擊力：49.0t<br />
 跳躍力：60.1m<br />
 行動速度：100m / 4.1秒</p></td>
-<td><p>全身以黃、黑色為主</p></td>
+<td><p>全身以螢光黃、黑色為主</p></td>
 <td><p>基本形態。<br />
-擁有<a href="../Page/蝗蟲.md" title="wikilink">蝗蟲</a>一樣的彈跳力。</p></td>
+擁有<a href="../Page/蝗蟲.md" title="wikilink">蝗蟲</a>一樣的彈跳力。[22]</p></td>
 <td><p><strong>Rising Impact</strong><br />
 原文：<br />
 該型態所屬的必殺技（騎士踢）。<br />
@@ -283,112 +291,326 @@
 <td><p>Flying Falcon<br />
 ''' 飛翔獵鷹 '''</p></td>
 <td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Flying Falcon ProgriseKey</strong>變身的形態<br />
 身高：194.0cm<br />
 體重：85.5kg<br />
 拳擊力：8.6t<br />
 踢擊力：27.2t<br />
 跳躍力：17.5m<br />
 行動速度：100m / 4.2秒</p></td>
-<td><p>全身以紅、黃、黑色為主</p></td>
-<td><p>擁有<a href="https://zh.wikipedia.org/wiki/獵鷹" title="wikilink">獵鷹一樣的飛行能力</a>。</p></td>
+<td><p>全身以品紅、熒光黃、黑色為主</p></td>
+<td><p>擁有<a href="https://zh.wikipedia.org/wiki/獵鷹" title="wikilink">獵鷹一樣的飛行能力</a>。<br />
+飛行時最高速度為2馬赫。[23]</p></td>
 <td><p><strong>Flying Impact</strong><br />
 原文：<br />
 該型態所屬的必殺技（騎士踢）。</p></td>
 </tr>
 <tr class="even">
-<td><p>Shooting Wolf<br />
-''' 射擊野狼 '''</p></td>
-<td><p>原文：</p></td>
-<td><p>全身以藍、黃、黑色為主</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>Biting Shark<br />
 ''' 撕咬鯊魚 '''</p></td>
 <td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Biting Shark ProgriseKey</strong>變身的形態<br />
 身高：194.2cm<br />
 體重：98.1kg<br />
 拳擊力：8.1t<br />
 踢擊力：42.1t<br />
 跳躍力：17.8m<br />
 行動速度：100m / 4.6秒</p></td>
-<td><p>全身以品紅、淺綠、黑色為主</p></td>
+<td><p>全身以水藍、熒光黃、黑色為主</p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/鯊魚" title="wikilink">鯊魚一樣的感知敵人能力並可在水中作戰</a>。<br />
-最高水中移動速度可達86節，潛航深度能超過400m。[20]</p></td>
+最高水中移動速度可達86節，潛航深度能超過400m，由於這種設計，此型態在陸地上的性能大大降低。<br />
+安裝在雙臂前腕的Unlimited Chopper()可如鯊魚牙齒割裂物體。[24]</p></td>
 <td><p><strong>Biting Impact</strong><br />
 原文：<br />
-雙手手腕展開大量的魚鰭狀能量體進行撕咬般的攻擊。</p></td>
-</tr>
-<tr class="even">
-<td><p>Punching Kong<br />
-''' 拳擊金剛 '''</p></td>
-<td><p>原文：<br />
-</p></td>
-<td><p>全身以黑、黃、白色為主</p></td>
-<td></td>
-<td></td>
+對目標以雙手手腕的Unlimited Chopper()向外延伸展開大量如尖齒般的能量體進行夾擊，有如撕咬般的攻擊。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Flaming Tiger<br />
 ''' 燃燒猛虎 '''</p></td>
 <td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Flaming Tiger ProgriseKey</strong>變身的形態<br />
 身高：194.1cm<br />
 體重：97.2kg<br />
 拳擊力：12.3t<br />
 踢擊力：37.3t<br />
 跳躍力：22.0m<br />
 行動速度：100m / 3.6秒</p></td>
-<td><p>全身以紅、黃、黑色為主</p></td>
-<td><p>擁有火焰攻擊能力與<a href="https://zh.wikipedia.org/wiki/老虎" title="wikilink">老虎一樣的靈活度</a>。</p></td>
+<td><p>全身以紅、熒光黃、黑色為主</p></td>
+<td><p>擁有火焰攻擊能力與<a href="https://zh.wikipedia.org/wiki/老虎" title="wikilink">老虎一樣的靈活度</a>。<br />
+雙手的Panthera Burner()可放出1800℃高溫火焰或加熱指甲直接熔斷接觸物，也可以通過向身體散佈火焰來暫時提高攻擊能力。[25]</p></td>
 <td><p><strong>Flaming Impact</strong><br />
 原文：<br />
-衝入火圈讓火焰纏繞全身後向敵人進行附有燃燒的爪擊。</p></td>
+衝入火圈讓火焰纏繞全身後向敵人進行附有燃燒的爪擊。<br />
+<strong>Flaming Kaban Dynamic</strong><br />
+原文：<br />
+將Flaming Tiger ProgriseKey插入Attache Calibur的大劍模式並在Full Charge!的狀態下發動的必殺技。</p></td>
+</tr>
+<tr class="even">
+<td><p>Freezing Bear<br />
+''' 冷凍大熊 '''</p></td>
+<td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Freezing Bear ProgriseKey</strong>變身的形態<br />
+身高：194.0cm<br />
+體重：106.1kg<br />
+拳擊力：13.1t<br />
+踢擊力：31.9t<br />
+跳躍力：13.2m<br />
+行動速度：100m / 4.2秒</p></td>
+<td><p>全身以淺藍、熒光黃、黑色為主</p></td>
+<td><p>擁有冰凍能力與<a href="../Page/北極熊.md" title="wikilink">北極熊</a>一樣的力量，以及耐低溫的藍色裝甲。<br />
+手腕裝甲內藏的Polar Freezer（）凍結劑可進行超高速冷凍。 [26]</p></td>
+<td><p><strong>Freezing Impact</strong><br />
+原文：<br />
+雙手釋放凍結劑凍結目標後使用手腕進行強力的揮擊來粉碎敵人。</p></td>
+</tr>
+<tr class="odd">
+<td><p>Breaking Mammoth<br />
+''' 破壞猛獁象 '''</p></td>
+<td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Breaking Mammoth ProgriseKey</strong>變身的形態<br />
+身高：768.0cm<br />
+體重：6920.0kg<br />
+拳擊力：25.2t<br />
+踢擊力：38.6t<br />
+跳躍力：10.9m<br />
+行動速度：500m / 6.5秒</p></td>
+<td><p>全身以金屬灰、白、熒光黃色為主</p></td>
+<td><p>大型武裝形態，設計理念為應對大規模災害的大型救助系統。<br />
+可變成衛星、戰鬥機及機械人三種模式。<br />
+擁有<a href="https://zh.wikipedia.org/wiki/猛獁象" title="wikilink">猛獁象一樣的龐大身體和力量</a>。<br />
+胸部擬似猛獁象的牙Graingod（）可做為固定機身、牽引的錨，也可手持作為武器使用。[27]</p></td>
+<td><p><strong>Breaking Impact</strong><br />
+原文：<br />
+手腕上的ProgriseKey分離並巨大化後，跳上空中以踢擊（騎士踢）連同巨大化的ProgriseKey踢向敵人。</p></td>
+</tr>
+<tr class="even">
+<td><p>Shining Hopper<br />
+''' 閃耀蝗蟲 '''</p></td>
+<td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Shining Hopper ProgriseKey</strong>變身的形態<br />
+身高：192.2cm<br />
+體重：90.2kg<br />
+拳擊力：18.3t<br />
+踢擊力：58.9t<br />
+跳躍力：70.0m<br />
+行動速度：100m / 2.3秒</p></td>
+<td><p>全身以熒光黃、黑、紅色為主</p></td>
+<td><p>進化形態。<br />
+擁有更強的機動性、彈跳力和高速演算能力。<br />
+可同時演算複數的可能性，並選擇最佳的攻擊方案。[28]</p></td>
+<td><p><strong>Shining Impact</strong><br />
+原文：<br />
+飛踢（騎士踢）後高速移動向飛行中的敵人追加踢擊。<br />
+<strong>Shining Mega Impact</strong><br />
+原文：<br />
+ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳方案進行拳擊／踢擊／迴避，最後在空中以飛踢（騎士踢）做最後一擊。</p></td>
+</tr>
+<tr class="odd">
+<td><p>Shining Assault Hopper<br />
+''' 閃耀突擊蝗蟲 '''</p></td>
+<td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Shining Hopper ProgriseKey</strong>搭配<strong>Assault Grip</strong>變身的形態<br />
+</p></td>
+<td><p>全身以熒光黃、藍、黑、紅色為主</p></td>
+<td><p>閃耀蝗蟲搭配突擊野狼的進化形態。</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 未登場形態
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>形態名稱</strong></p></td>
+<td><p><strong>簡介</strong></p></td>
+<td><p><strong>外觀</strong></p></td>
+<td><p><strong>能力</strong></p></td>
+<td><p><strong>必殺技</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>Shooting Wolf<br />
+''' 射擊野狼 '''</p></td>
+<td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Shooting Wolf ProgriseKey</strong>變身的形態</p></td>
+<td><p>全身以藍、熒光黃、黑色為主</p></td>
+<td><p>擁有野狼一樣的觸覺及視野。<br />
+能以Attache Calibur放出複數狼形光彈Fangu Burettsu()作集體攻擊 。[29]</p></td>
+<td><p><strong>Shooting Impact</strong><br />
+原文：<br />
+該型態所屬的必殺技。</p></td>
+</tr>
+<tr class="odd">
+<td><p>Punching Kong<br />
+''' 拳擊金剛 '''</p></td>
+<td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Punching Kong ProgriseKey</strong>變身的形態</p></td>
+<td><p>全身以黑、熒光黃、白色為主</p></td>
+<td><p>擁有猩猩一樣的防禦力及腕力。<br />
+能夠把所有外裝甲集結到右臂上化成巨大拳頭Maximum Konger()向敵人發動強大的打擊。[30]</p></td>
+<td><p><strong>Punching Impact</strong><br />
+原文：<br />
+該型態所屬的必殺技（騎士拳）。</p></td>
 </tr>
 <tr class="even">
 <td><p>Rushing Cheetah<br />
 ''' 疾馳獵豹 '''</p></td>
 <td><p>原文：<br />
-</p></td>
-<td><p>全身以橘、黃、黑色為主</p></td>
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Rushing Cheetah ProgriseKey</strong>變身的形態</p></td>
+<td><p>全身以橘、熒光黃、黑色為主</p></td>
+<td><p>擁有獵豹一樣的速度。<br />
+能透過加速反應裝置應對超高速戰鬥，奔跑最高時速189km/h 。<br />
+擁有High Reacreator()反應加速器，可以在敵人幾乎靜止不動的情況下進行高速戰鬥。[31]</p></td>
+<td><p><strong>Rushing Impact</strong><br />
+原文：<br />
+該型態所屬的必殺技。</p></td>
+</tr>
+<tr class="odd">
+<td><p>Sparking Giraffe<br />
+''' 火花長頸鹿 '''</p></td>
+<td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Sparking Giraffe ProgriseKey</strong>變身的形態</p></td>
+<td><p>全身以黃、熒光黃、黑色為主</p></td>
+<td><p>擁有長頸鹿的能力，增強了頸部的防禦能力。<br />
+胸甲內藏大容量電池，可傳輸到四肢附加電擊攻擊或從頭頂雙角放出電擊。[32]</p></td>
+<td><p><strong>Sparking Impact</strong><br />
+原文：<br />
+該型態所屬的必殺技。</p></td>
+</tr>
+<tr class="even">
+<td><p>Amazing Hercules<br />
+''' 驚異力士 '''</p></td>
+<td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Amazing Hercules ProgriseKey</strong>變身的形態</p></td>
+<td><p>全身以熒光綠、熒光黃、黑色為主</p></td>
+<td><p>擁有赫克力士長戟大兜蟲的能力，手臂和腿部的力量得到增強。<br />
+頭頂的Hercule Horn()可按變身者意思巨大化，擁有將對手頂翻的力量。[33]</p></td>
+<td><p><strong>Amazing Impact</strong><br />
+原文：<br />
+該型態所屬的必殺技。</p></td>
+</tr>
+<tr class="odd">
+<td><p>Sting Scropion<br />
+''' 刺針毒蠍 '''</p></td>
+<td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Sting Scropion ProgriseKey</strong>變身的形態</p></td>
+<td><p>全身以紫、熒光黃、黑色為主</p></td>
+<td><p>擁有蠍子一樣的毒攻擊能力。<br />
+自帶高毒抗和高速精製強力解毒劑能力，還能透過攻擊把過量解毒劑打入對手體內造成破壞。[34]</p></td>
+<td><p><strong>Sting Impact</strong><br />
+原文：<br />
+該型態所屬的必殺技。</p></td>
+</tr>
+<tr class="even">
+<td><p>Lightning Hornet<br />
+''' 閃電黃蜂 '''</p></td>
+<td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Lightning Hornet ProgriseKey</strong>變身的形態</p></td>
+<td><p>全身以黃、熒光黃、黑色為主</p></td>
+<td><p>擁有雷電攻擊能力與黃蜂一樣的飛行能力和攻擊能力。<br />
+能夠放出的微型飛彈會在飛行同時放出電擊。[35]</p></td>
+<td><p><strong>Lightning Impact</strong><br />
+原文：<br />
+該型態所屬的必殺技。</p></td>
+</tr>
+<tr class="odd">
+<td><p>Gatling Hedgehog<br />
+''' 機槍刺蝟 '''</p></td>
+<td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Gatling Hedgehog ProgriseKey</strong>變身的形態</p></td>
+<td><p>全身以熒光綠、熒光黃、黑色為主</p></td>
+<td><p>擁有刺猬一樣的尖刺能力。<br />
+綠色裝甲上備有十分銳利的尖刺PaiNeedle()，在戰鬥時可捲起身子變化成Hedge Borer ()，以全方位射出尖刺攻擊。[36]</p></td>
+<td><p><strong>Gatling Impact</strong><br />
+原文：<br />
+該型態所屬的必殺技。</p></td>
+</tr>
+<tr class="even">
+<td><p>Exciting Stag<br />
+''' 激動鍬形蟲 '''</p></td>
+<td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Exciting Stag ProgriseKey</strong>變身的形態</p></td>
+<td><p>全身以橘、熒光黃、黑色為主</p></td>
+<td><p>[37]</p></td>
+<td><p><strong>Exciting Impact</strong><br />
+原文：<br />
+該型態所屬的必殺技。</p></td>
+</tr>
+<tr class="odd">
+<td><p>Crushing Buffalo<br />
+''' 粉碎野牛 '''</p></td>
+<td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Crushing Buffalo ProgriseKey</strong>變身的形態</p></td>
+<td><p>全身以紅、熒光黃、黑色為主</p></td>
+<td><p>[38]</p></td>
+<td><p><strong>Crushing Impact</strong><br />
+原文：<br />
+該型態所屬的必殺技。</p></td>
+</tr>
+<tr class="even">
+<td><p>Trapping Spider<br />
+''' 誘捕蜘蛛 '''</p></td>
+<td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Trapping Spider ProgriseKey</strong>變身的形態</p></td>
+<td><p>全身以紫、熒光黃、黑色為主</p></td>
+<td><p>[39]</p></td>
+<td><p><strong>Trapping Impact</strong><br />
+原文：<br />
+該型態所屬的必殺技。</p></td>
+</tr>
+<tr class="odd">
+<td><p>Storming Penguin<br />
+''' 風暴企鵝 '''</p></td>
+<td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Storming Penguin ProgriseKey</strong>變身的形態</p></td>
+<td><p>全身以熒光黃、黑、藍、銀色為主</p></td>
+<td><p>[40]</p></td>
+<td><p><strong>Storming Impact</strong><br />
+原文：<br />
+該型態所屬的必殺技。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 假面騎士001
+
+  -
+    變身者：飛電或人（替身演員：、CV：高橋文哉）
+    原文： / *Kamen Rider ZERO-ZERO-ONE*
+
+##### 形態
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>形態名稱</strong></p></td>
+<td><p><strong>簡介</strong></p></td>
+<td><p><strong>外觀</strong></p></td>
+<td><p><strong>能力</strong></p></td>
+<td><p><strong>必殺技</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>Rising Hopper<br />
+''' 昇華蝗蟲 '''</p></td>
+<td><p>原文：<br />
+配合<strong>滅亡迅雷強制昇華器</strong>及使用<strong>Rising Hopper ProgriseKey</strong>變身的形態</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Freezing Bear<br />
-''' 冷凍大熊 '''</p></td>
-<td><p>原文：<br />
-</p></td>
-<td><p>全身以淺藍、黃色為主</p></td>
 <td></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p>Breaking Mammoth<br />
-''' 破壞猛瑪象 '''</p></td>
-<td><p>原文：<br />
-</p></td>
-<td><p>全身以黑、白、黃色為主</p></td>
-<td><p>大型武裝形態。<br />
-可變成衛星、戰鬥機及機械人三種模式。</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p>Shining Hopper<br />
-''' 閃耀蝗蟲 '''</p></td>
-<td><p>原文：<br />
-</p></td>
-<td><p>全身以黃、黑、紅色為主</p></td>
-<td><p>進化形態。</p></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p>Shining Assault Hopper<br />
-''' 閃耀突擊蝗蟲 '''</p></td>
-<td><p>原文：<br />
-</p></td>
-<td><p>全身以黃、藍、黑、紅色為主</p></td>
-<td><p>閃耀蝗蟲搭配突擊野狼的進化形態。</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -415,6 +637,7 @@
 <td><p>Shooting Wolf<br />
 ''' 射擊野狼 '''</p></td>
 <td><p>原文：<br />
+配合<strong>A.I.M.S. 射擊昇華器</strong>及使用<strong>Shooting Wolf ProgriseKey</strong>變身的形態<br />
 身高：197.2cm<br />
 體重：95.6kg<br />
 拳擊力：10.5t<br />
@@ -423,17 +646,30 @@
 行動速度：100m / 2.9秒</p></td>
 <td><p>全身以藍、紅、白色為主</p></td>
 <td><p>基本形態。<br />
-擁有<a href="https://zh.wikipedia.org/wiki/野狼" title="wikilink">野狼一樣的觸覺及視野</a>。</p></td>
+擁有<a href="https://zh.wikipedia.org/wiki/野狼" title="wikilink">野狼一樣的觸覺及視野</a>。[41]</p></td>
 <td><p><strong>Shooting Blast</strong><br />
 原文：<br />
 發動時首先以四隻虛擬化的野狼壓住敵人的四肢，然後再作出火力極猛的致命射擊。<br />
 <strong>Shooting Blast Fever</strong><br />
-原文：</p></td>
+原文：<br />
+<strong>Shooting Kaban Stlassh</strong><br />
+原文：<br />
+將Shooting Wolf ProgriseKey插入Attache Calibur的大劍模式下發動的必殺技。<br />
+<strong>Gatling Kaban Shot</strong><br />
+原文：<br />
+將Gatling Hedgehog ProgriseKey插入Attache Shotgun的霰彈槍模式下發動的必殺技。<br />
+<strong>Gatling Kaban Buster</strong><br />
+原文：<br />
+將Gatling Hedgehog ProgriseKey插入Attache Shotgun的霰彈槍模式並在Full Charge!的狀態下發動的必殺技。<br />
+<strong>Punching Kaban Shot</strong><br />
+原文：<br />
+將Punching Kong ProgriseKey插入Attache Shotgun的霰彈槍模式下發動的必殺技。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Punching Kong<br />
 ''' 拳擊金剛 '''</p></td>
 <td><p>原文：<br />
+配合<strong>A.I.M.S. 射擊昇華器</strong>及使用<strong>Punching Kong ProgriseKey</strong>變身的形態<br />
 身高：192.0cm<br />
 體重：461.8kg<br />
 拳擊力：47.3t<br />
@@ -442,12 +678,13 @@
 行動速度：100m / 3.1秒</p></td>
 <td><p>全身以黑、紅、白色為主</p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/猩猩" title="wikilink">猩猩一樣的防禦力及腕力</a>。<br />
-雙手前腕附有打擊用武器Knuckle Demolition（）。</p></td>
-<td><p><strong>Punching Blast</strong><br />
+雙手前腕附有打擊用武器Knuckle Demolition（）。 [42]</p></td>
+<td><p><strong>Power Punching Blast</strong><br />
 原文：<br />
 將雙手前腕的Knuckle Demolition（）以火箭飛拳的方式射出對敵人造成強力的打擊。<br />
-<strong>Punching Blast Fever</strong><br />
+<strong>Power Punching Blast Fever</strong><br />
 原文：<br />
+先對地面造成震波來牽制敵人的行動後，再向目標以蓄力的拳頭進行攻擊（騎士拳）。<br />
 <strong>Shooting Kaban Shot</strong><br />
 原文：<br />
 將Shooting Wolf ProgriseKey插入Attache Shotgun的霰彈槍模式下發動的必殺技。<br />
@@ -459,9 +696,44 @@
 <td><p>Assault Wolf<br />
 ''' 突擊野狼 '''</p></td>
 <td><p>原文：<br />
-</p></td>
+配合<strong>A.I.M.S. 射擊昇華器</strong>及使用<strong>Assault Wolf ProgriseKey</strong>變身的形態</p></td>
 <td><p>全身以黑、藍、淺藍色為主</p></td>
 <td><p>進化形態。</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 未登場形態
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>形態名稱</strong></p></td>
+<td><p><strong>簡介</strong></p></td>
+<td><p><strong>外觀</strong></p></td>
+<td><p><strong>能力</strong></p></td>
+<td><p><strong>必殺技</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>Rising Hopper<br />
+''' 昇華蝗蟲 '''</p></td>
+<td><p>原文：<br />
+配合<strong>'A.I.M.S. 射擊昇華器</strong>及使用<strong>Rising Hopper ProgriseKey</strong>變身的形態</p></td>
+<td><p>全身以螢光黃、白、黑色為主</p></td>
+<td><p>[43]</p></td>
+<td><p><strong>Rising Blast</strong><br />
+原文：<br />
+該型態所屬的必殺技。<br />
+<strong>Rising Blast Fever</strong><br />
+原文：<br />
+該型態所屬的必殺技。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -488,6 +760,7 @@
 <td><p>Rushing Cheetah<br />
 ''' 疾馳獵豹 '''</p></td>
 <td><p>原文：<br />
+配合<strong>A.I.M.S. 射擊昇華器</strong>及使用<strong>Rushing Cheetah ProgriseKey</strong>變身的形態<br />
 身高：187.8cm<br />
 體重：90.6kg<br />
 拳擊力：11.0t<br />
@@ -496,9 +769,10 @@
 行動速度：100m / 2.1秒</p></td>
 <td><p>全身以橘、黃、白色為主</p></td>
 <td><p>基本形態。<br />
-擁有<a href="https://zh.wikipedia.org/wiki/獵豹" title="wikilink">獵豹一樣的速度</a>。</p></td>
+擁有<a href="https://zh.wikipedia.org/wiki/獵豹" title="wikilink">獵豹一樣的速度</a>。 [44]</p></td>
 <td><p><strong>Rushing Blast</strong><br />
 原文：<br />
+在對象周圍邊進行高速移動邊向敵方連續發射有拘束作用的能量彈，能量累積到達最大後產生爆炸。<br />
 <strong>Rushing Blast Fever</strong><br />
 原文：</p></td>
 </tr>
@@ -506,42 +780,25 @@
 <td><p>Lightning Hornet<br />
 ''' 閃電黃蜂 '''</p></td>
 <td><p>原文：<br />
-</p></td>
+配合<strong>A.I.M.S. 射擊昇華器</strong>及使用<strong>Lightning Hornet ProgriseKey</strong>變身的形態<br />
+身高：196.0cm<br />
+體重：89.0kg<br />
+拳擊力：9.7t<br />
+踢擊力：20.0t<br />
+跳躍力：28.1m<br />
+行動速度：100m / 4.0秒</p></td>
 <td><p>全身以黑、黃、白色為主</p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 假面騎士滅
-
-  -
-    變身者：滅（替身演員：高岩成二\[21\]、CV：砂川脩彌）
-    原文： / *Kamen Rider Horobi*
-
-#### 形態
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>形態名稱</strong></p></td>
-<td><p><strong>簡介</strong></p></td>
-<td><p><strong>外觀</strong></p></td>
-<td><p><strong>能力</strong></p></td>
-<td><p><strong>必殺技</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Sting Scorpion<br />
-''' 刺針天蠍 '''</p></td>
-<td><p>原文：<br />
-</p></td>
-<td><p>全身以紫、黑、黃色為主</p></td>
-<td><p>基本形態。</p></td>
-<td><p><strong>Sting Dystopia</strong><br />
+<td><p>擁有雷電攻擊能力與<a href="https://zh.wikipedia.org/wiki/黃蜂" title="wikilink">黃蜂一樣的飛行能力和攻擊能力</a>。<br />
+各部位裝甲上的蜂巢狀武器艙搭載了雷電炸藥的蜂型導彈。[45]</p></td>
+<td><p><strong>Thunder Lightning Blast</strong><br />
 原文：<br />
-<strong>Sting Utopia</strong><br />
-原文：</p></td>
+<strong>Thunder Lightning Blast Fever</strong><br />
+原文：<br />
+飛行時對敵人用腳尖上雷電能量體的蜂針進行踢擊（騎士踢）。<br />
+或者空中盤旋狀態持槍連續發射雷電彈，最後蓄力發射出雷電蜂型彈給予最後一擊。<br />
+<strong>Freezing Kaban Shot</strong><br />
+原文：<br />
+將Freezing Bear ProgriseKey插入Attache Shotgun的霰彈槍模式下發動的必殺技。</p></td>
 </tr>
 </tbody>
 </table>
@@ -549,7 +806,7 @@
 ### 假面騎士迅
 
   -
-    變身者：迅（替身演員：、CV：中川大輔）
+    變身者：迅（替身演員：永德、CV：中川大輔）
     原文： / *Kamen Rider Jin*
 
 #### 形態
@@ -567,13 +824,94 @@
 <td><p>Flying Falcon<br />
 ''' 飛翔獵鷹 '''</p></td>
 <td><p>原文：<br />
-</p></td>
+配合<strong>滅亡迅雷強制昇華器</strong>及使用<strong>Flying Falcon ProgriseKey</strong>變身的形態<br />
+身高：195.2cm<br />
+體重：95.4kg<br />
+拳擊力：9.0t<br />
+踢擊力：30.1t<br />
+跳躍力：23.8m<br />
+行動速度：100m / 4.1秒</p></td>
 <td><p>全身以粉、白、綠色為主</p></td>
-<td><p>基本形態。</p></td>
+<td><p>基本形態。<br />
+擁有<a href="https://zh.wikipedia.org/wiki/獵鷹" title="wikilink">獵鷹一樣的飛行能力</a>。<br />
+背上的Scrambler()飛行翼展開後，最高可達1.7馬赫的速度飛行。[46]</p></td>
 <td><p><strong>Flying Dystopia</strong><br />
 原文：<br />
 <strong>Flying Utopia</strong><br />
-原文：</p></td>
+原文：。</p></td>
+</tr>
+</tbody>
+</table>
+
+### 假面騎士滅
+
+  -
+    變身者：滅（替身演員：高岩成二、CV：砂川脩彌）
+    原文： / *Kamen Rider Horobi*
+
+#### 形態
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>形態名稱</strong></p></td>
+<td><p><strong>簡介</strong></p></td>
+<td><p><strong>外觀</strong></p></td>
+<td><p><strong>能力</strong></p></td>
+<td><p><strong>必殺技</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>Sting Scorpion<br />
+''' 刺針毒蠍 '''</p></td>
+<td><p>原文：<br />
+配合<strong>滅亡迅雷強制昇華器</strong>及使用<strong>Sting Scorpion ProgriseKey</strong>變身的形態<br />
+身高：188.9cm<br />
+體重：98.8kg<br />
+拳擊力：13.5t<br />
+踢擊力：32.7t<br />
+跳躍力：15.5m<br />
+行動速度：100m / 3.5秒</p></td>
+<td><p>全身以紫、黑、黃色為主</p></td>
+<td><p>基本形態。<br />
+擁有<a href="../Page/蠍子.md" title="wikilink">蠍子</a>一樣的毒攻擊能力。<br />
+左手前腕附有擬似蠍子尾巴的伸縮突刺裝備Acidanarise（）。[47]</p></td>
+<td><p><strong>Sting Dystopia</strong><br />
+原文：<br />
+將左手前腕的Acidanarise（）的刺纏繞在右腳上後對敵人進行踢擊。<br />
+<strong>Sting Utopia</strong><br />
+原文：<br />
+<strong>Amazing Kaban Shoot</strong><br />
+原文：<br />
+將Amazing Hercules ProgriseKey插入Attache Arrow的弓箭模式下發動的必殺技。</p></td>
+</tr>
+</tbody>
+</table>
+
+### 假面騎士雷
+
+  -
+    變身者：（替身演員：、CV：）
+    原文： / *Kamen Rider Ikazuchi*
+
+#### 形態
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>形態名稱</strong></p></td>
+<td><p><strong>簡介</strong></p></td>
+<td><p><strong>外觀</strong></p></td>
+<td><p><strong>能力</strong></p></td>
+<td><p><strong>必殺技</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>Dodo<br />
+<strong>渡渡鳥</strong></p></td>
+<td><p>原文：<br />
+配合<strong>滅亡迅雷強制昇華器</strong>及使用<strong>Dodo ZetsumeriseKey</strong>變身的形態</p></td>
+<td><p>全身以深紅、黑、橘色為主</p></td>
+<td><p>基本形態。</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -598,9 +936,38 @@
 <tr class="even">
 <td><p>Default<br />
 <strong>基本形態</strong></p></td>
-<td><p>使用AmazingCaucasus ProgriseKey與AwakingArsino ZetsumeriseKey變身的形態</p></td>
+<td><p>配合<strong>ZAIA千之驅動器</strong>及使用<strong>Amazing Caucasus ProgriseKey</strong>與<strong>Awaking Arsino ZetsumeriseKey</strong>變身的形態</p></td>
 <td><p>全身以金、紫色為主</p></td>
 <td><p>基本形態。</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 其他假面騎士（本篇以外作品）
+
+#### 假面騎士1型
+
+  -
+    變身者：飛電其雄（替身演員：、CV：山本耕史）
+    原文： / *Kamen Rider Ichigata*
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>形態名稱</strong></p></td>
+<td><p><strong>簡介</strong></p></td>
+<td><p><strong>外觀</strong></p></td>
+<td><p><strong>能力</strong></p></td>
+<td><p><strong>必殺技</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>Rocking Hopper<br />
+''' 搖擺蝗蟲 '''</p></td>
+<td><p>原文：<br />
+配合<strong>旋風昇華器</strong>及使用<strong>Rocking Hopper ZetsumeriseKey</strong>變身的形態</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -610,7 +977,7 @@
 
 ### 變身道具
 
-【「■■」代表ProgriseKey所屬完整變身音效；「◆◆」代表ProgriseKey所屬變身音效（Progrise Key名稱與後半段的英文）；「●●」代表ProgriseKey所屬的名稱音效；「▲▲」代表ProgriseKey所屬的名稱前半音效；「★★」代表ProgriseKey所屬的二次啓動音效，詳情請見「[ProgriseKey](https://zh.wikipedia.org/wiki/假面騎士ZERO-ONE#ProgriseKey "wikilink")」
+【「■■」代表ProgriseKey所屬完整變身音效；「◆◆」代表ProgriseKey所屬變身音效（Progrise Key名稱與後半段的英文）；「▲▲」代表ProgriseKey所屬的名稱前半音效；「●●」代表ProgriseKey所屬的啓動音效；「★★」代表ProgriseKey所屬的二次啓動音效，詳情請見「[ProgriseKey](https://zh.wikipedia.org/wiki/假面騎士ZERO-ONE#ProgriseKey "wikilink")」
 
   - **飛電ZERO-ONE驅動器**
 
@@ -618,8 +985,8 @@
 
   -
     原文： / *Hiden ZERO-ONE Driver*
-    音效：Maynard Plant、Blaise Plant（[猴子把戲](../Page/猴子把戲.md "wikilink")）\[22\]
-    假面騎士ZERO-ONE所使用的變身腰帶。
+    音效：Maynard Plant、Blaise Plant（[猴子把戲](../Page/猴子把戲.md "wikilink")）\[48\]
+    由飛電Intelligence 以最快的速度研發出來的變身腰帶，由**假面騎士ZERO-ONE**使用。
     右邊的插槽是用來插入Progrise Key，將Progrise Key放於裝置上感應後再將Progrise Key展開並插入驅動器即可變身。
     感應的音效為「Authorize\!」；變身的音效為「Progrise\! ■■」；發動必殺技的音效為「▲▲\! Impact\!」，使用另一個Progrise Key感應一至六次後來發動必殺技的音效為「（Bit / Byte / Kilo / Mega / Giga / Tera）Rise\! ▲▲\! （Bit / Byte / Kilo / Mega / Giga / Tera） Impact\!」。
 
@@ -631,21 +998,37 @@
 
   -
     原文： / *A.I.M.S. Shotriser*
-    假面騎士Vulcan跟假面騎士Valkyrie所使用的變身腰帶，由於此變身腰帶本身是一把手槍可以用來當作武器，在不變身的狀態也可以用來射擊。
-    將Progrise Key插入槍後展開並扣動扳機即可變身\[23\]，擁有兩種必殺技發動方式，放在腰帶扣動扳機與持槍時扣動扳機。
-    插入的音效為「Authorize\! Kamen Rider！Kamen Rider！」；變身的音效為「Shot Rise\!◆◆」；腰帶上發動必殺技的音效為「▲▲\! Blast Fever\!」；持槍時發動必殺技的音效為「▲▲\! Blast\!」。
+    音效：Maynard Plant、Blaise Plant（[猴子把戲](../Page/猴子把戲.md "wikilink")）
+    由ZAIA企業研發出來的量產變身腰帶，目前由**假面騎士Vulcan**跟**假面騎士Valkyrie**使用，由於此變身腰帶本身是一把手槍可以用來當作武器，在不變身的狀態也可以用來射擊。
+    將Progrise Key插入槍後展開並扣動扳機即可變身\[49\]，擁有兩種必殺技發動方式，放在腰帶扣動扳機與持槍時扣動扳機。
+    插入的音效為「Authorize\! Kamen Rider！Kamen Rider！」；變身的音效為「Shot Rise\!◆◆」；必殺技啓動的音效為「●●」；腰帶上發動必殺技的音效為「▲▲\! Blast Fever\!」；持槍時發動必殺技的音效為「▲▲\! Blast\!」。
 
 <!-- end list -->
 
-  - **滅亡迅雷強力昇華器**
+  - **滅亡迅雷強制昇華器**
 
 <!-- end list -->
 
   -
-    原文： / *Metsuboujinrai Force Riser*
-    假面騎士滅跟假面騎士迅所使用的變身腰帶，此變身腰帶變身前並不需要將Progrise Key展開，變身後腰帶會強制將Progrise Key展開，擁有兩階段必殺技發動方式。
+    原文： / *Metsuboujinrai Forceriser*
+    音效：[山寺宏一](../Page/山寺宏一.md "wikilink")
+    由滅亡迅雷.net一方研發出來的變身腰帶，目前由**假面騎士滅**、**假面騎士迅**和**假面騎士雷**使用，此變身腰帶變身前並不需要將Progrise Key展開，變身後腰帶會強制將Progrise Key展開，擁有兩階段必殺技發動方式。
     將Progrise Key插入驅動器後，將拉桿拉開即可變身。
-    變身的音效為「Force rise\! ●●\! Break Down\!」；發動必殺技的音效為「▲▲\! Dystopia\!」，再次發動必殺技的音效為「▲▲\! Utopia\!」。
+    變身的音效為「Force rise\! ◆◆\!\[50\] Break Down\!」；發動必殺技的音效為「▲▲\! Dystopia\!」，再次發動必殺技的音效為「▲▲\! Utopia\!」。
+
+<!-- end list -->
+
+  -
+    \* **強制昇華器**
+      -
+        原文： / *Forceriser*
+
+<!-- end list -->
+
+  -
+    \* **旋風昇華器**
+      -
+        原文： / *Cycloneriser*
 
 <!-- end list -->
 
@@ -656,7 +1039,7 @@
   -
     原文： / *Zetsumeriser*
     滅亡迅雷所開發的對Humagear用變身腰帶。
-    被安裝此腰帶的Humagear，被置入Zetsumerise Key於該腰帶後，則會魔化變身MAGiA。
+    被安裝此腰帶的Humagear，會因數據修改而失控，在置入Zetsumerise Key於該腰帶後，則會魔化變身MAGiA。
 
 <!-- end list -->
 
@@ -666,19 +1049,19 @@
 
   -
     原文： / *Zaia ThousanDriver*
-    假面騎士Thouser所使用的變身腰帶，有兩個插槽分別使用Progrise Key及Zetsumerise Key進行變身。
+    由ZAIA企業根據本作的三款變身腰帶的數據獨自研發出來的新型變身腰帶，由**假面騎士Thouser**使用，有兩個插槽分別使用Progrise Key及Zetsumerise Key來進行變身。
     感應的音效為「Authorize\!」；變身的音效為「Perfect Rise\! As five horns meet, the golden soldier Thouser is born. Presented by Zaia.」
 
 <!-- end list -->
 
-  - **突擊扳機**
+  - **突擊握把**
 
 <!-- end list -->
 
   -
-    原文： / *Assault Trigger*
-    假面騎士ZERO-ONE及假面騎士Vulcan用於變身成進化形態的鑰匙\[24\]。
-    只要將突擊扳機插入Progrise Key邊上就可插入腰帶使用。
+    原文： / *Assault Grip*
+    假面騎士ZERO-ONE及假面騎士Vulcan用於變身成進化形態的鑰匙\[51\]。
+    只要將突擊握把插入Progrise Key邊上就可插入腰帶使用，Progrise Key的認證音效會變為「Over rize\!」（日文：「！」）
 
 ### 武裝
 
@@ -688,7 +1071,7 @@
 
   -
     原文： / *Attache Calibur*
-    假面騎士ZERO-ONE所使用的[大劍型可變形武器](https://zh.wikipedia.org/wiki/大劍 "wikilink")，可從公事包模式變形成大劍模式，展開的音效為「Blade rise\!（）」。
+    假面騎士ZERO-ONE\[52\]所使用的[大劍型可變形武器](https://zh.wikipedia.org/wiki/大劍 "wikilink")，可從公事包模式變形成大劍模式，展開的音效為「Blade rise\!（）」。
     大劍模式下將劍刃收回進入蓄力狀態的音效為「Charge rise\!（）」，再度展開後音效為「Full Charge\!（）」，此狀態下按下板機後發動必殺技為「Kaban Stlassh\!（）」。
     插入Progrise Key後的音效為「Progrise key confirmed. Ready to utilize.」「★★\!」。
     大劍模式下插入Progrise Key後按下板機發動的必殺技為「**▲▲\! Kaban Stlassh\!**（）」。
@@ -702,7 +1085,8 @@
 
   -
     原文： / *Attache Shotgun*
-    假面騎士Vulcan和假面騎士Valkyrie 所共用的[霰彈槍型可變形武器](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，可從公事包模式變形成霰彈槍模式，展開的音效為「Shotgun rise\!（）」。
+    假面騎士Vulcan和假面騎士Valkyrie 所共用\[53\]的[霰彈槍型可變形武器](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，可從公事包模式變形成霰彈槍模式，展開的音效為「Shotgun rise\!（）」。
+    霰彈槍模式下可將子彈調節成擴散型的「」或單發貫通型的「」。
     霰彈槍模式下將槍身收回進入蓄力狀態的音效為「Charge rise\!（）」，再度展開後音效為「Full Charge\!（）」，此狀態下按下板機後發動必殺技為「Kaban Shot\!（）」。
     插入Progrise Key後的音效為「Progrise key confirmed. Ready to utilize.」「★★\!」。
     霰彈槍模式下插入Progrise Key後按下板機發動的必殺技為「**▲▲\! Kaban Shot\!**（）」。
@@ -716,7 +1100,14 @@
 
   -
     原文： / *Attache Arrow*
-    假面騎士迅和假面騎士滅所共用的[弓箭型可變形武器](https://zh.wikipedia.org/wiki/弓箭 "wikilink")，可從公事包模式變形成弓箭模式。
+    假面騎士迅和假面騎士滅所共用\[54\]的[弓箭型可變形武器](https://zh.wikipedia.org/wiki/弓箭 "wikilink")，可從公事包模式變形成弓箭模式，展開的音效為「Arrow rise\!（）」。
+    弓箭模式下有兩種攻擊方式前端用於射擊的箭頭，與兩側裝有可用於攻擊的刀刃。
+    弓箭模式下將弓身收回進入蓄力狀態的音效為「Charge rise\!（）」，再度展開後音效為「Full Charge\!（）」，此狀態下拉動拉桿後發動必殺技為「Kaban Shoot\!（）」，此狀態按下板機後發動必殺技為「Kaban slash\!（）」。
+    插入Progrise Key後的音效為「Progrise key confirmed. Ready to utilize.」「★★\!」。
+    弓箭模式下插入Progrise Key後拉動拉桿發動的必殺技為「**▲▲\! Kaban Shoot\!**（）」。
+    Full Charge\!的狀態下插入Progrise Key後拉動拉桿的必殺技為「**▲▲\! Kaban strike\!**（）」。
+    弓箭模式下插入Progrise Key後按下板機發動的必殺技為「**▲▲\! Kaban slash\!**（）」。
+    Full Charge\!的狀態下插入Progrise Key後按下板機的必殺技為「**▲▲\! Kaban finish\!**（）」。
 
 <!-- end list -->
 
@@ -727,6 +1118,7 @@
   -
     原文： / *Authorise Buster*
     假面騎士ZERO-ONE與假面騎士Vulcan所使用的可變型武器，能變形斧和銃兩種模式。
+    展開斧模式的音效為「Axe rise\!（）」；展開槍模式的音效則為「Gun rise\!（）」。
 
 <!-- end list -->
 
@@ -756,7 +1148,7 @@
 
   -
     原文： / *Progrise Holder*
-    用來收納Progrisekey的器具，被安裝在飛電ZERO-ONE驅動器和A.I.M.S. 射擊昇華器的腰帶兩側。
+    用來收納Progrisekey的器具，被安裝在飛電ZERO-ONE驅動器、A.I.M.S. 射擊昇華器和滅亡迅雷強力昇華器的腰帶兩側。
 
 <!-- end list -->
 
@@ -766,6 +1158,7 @@
 
   -
     原文： / *Progrisekey Connector*
+    用來收納Progrisekey的小型長條直立式架子，最多可收納四個。
 
 ### 載具
 
@@ -777,11 +1170,11 @@
 <td><p><strong>名稱</strong></p></td>
 <td><p><strong>簡介</strong></p></td>
 <td><p><strong>外觀</strong></p></td>
-<td><p><strong>能力</strong></p></td>
+<td><p><strong>備註</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>style="text-align:center;”| <strong>Risehopper</strong><br />
-<strong>昇華蝗蟲</strong></p></td>
+<strong>躍昇蝗蟲</strong></p></td>
 <td><p>原文：<br />
 初次登場話數：第2話<br />
 全長：253cm<br />
@@ -838,7 +1231,7 @@ A Jump to the sky turns to a rider kick.」<br />
 二次啓動音效為「Falcon's ability!」<br />
 完整變身音效為「Fly to the sky! Flying Falcon!<br />
 Spread your wings and prepare for a force.」<br />
-（日文：「フライ．トー．ザー．スカイ！フライングファルコン！」）</p></td>
+（日文：「フライ・トゥ・ザ・スカイ！フライングファルコン！」）</p></td>
 </tr>
 <tr class="odd">
 <td><p>Shooting Wolf</p></td>
@@ -848,9 +1241,9 @@ Spread your wings and prepare for a force.」<br />
 <td><p>存放<a href="../Page/狼.md" title="wikilink">狼</a>型像資料的Key型道具。<br />
 啓動音效為「Bullet」（日文：「バレット」）<br />
 二次啓動音效為「Werewolf's ability!」<br />
-完整變身音效為「Uchimakuri Suti! Shooting Wolf!<br />
+完整變身音效為「Uchimakumakuri Suti! Shooting Wolf!<br />
 The elevation increases as the bullet is fired.」<br />
-（日文：「<ruby>撃<rp>(</rp><rt>う</rt><rp>)</rp></ruby>ちまくりスティ！シューティングウルフ！」）</p></td>
+（日文：「<ruby>撃<rp>(</rp><rt>う</rt><rp>)</rp></ruby>ちまくまくりスティ！シューティングウルフ！」）</p></td>
 </tr>
 <tr class="even">
 <td><p>Rushing Cheetah</p></td>
@@ -927,9 +1320,9 @@ Fierce breath as cold as arctic wind.」<br />
 <tr class="even">
 <td><p>Breaking Mammoth</p></td>
 <td><p>ブレイキングマンモス</p></td>
-<td><p>破壞猛瑪象</p></td>
+<td><p>破壞猛獁象</p></td>
 <td><p>可巨大化武裝形態成<strong>破壞猛瑪象</strong>。</p></td>
-<td><p>存放<a href="https://zh.wikipedia.org/wiki/猛瑪象" title="wikilink">猛瑪象型像資料的Key型道具</a>。<br />
+<td><p>存放<a href="https://zh.wikipedia.org/wiki/猛獁象" title="wikilink">猛獁象型像資料的Key型道具</a>。<br />
 啓動音效為「Press」（日文：「プレス」）<br />
 二次啓動音效為「Mammoth's ability!」<br />
 完整變身音效為「Giant waking! Breaking Mammoth!<br />
@@ -939,8 +1332,8 @@ Larger than life to crush like a machine.」<br />
 <tr class="odd">
 <td><p>Sting Scropion</p></td>
 <td><p>スティングスコーピオン</p></td>
-<td><p>刺針天蠍</p></td>
-<td><p>變身或轉換形態成<strong>刺針天蠍</strong>。</p></td>
+<td><p>刺針毒蠍</p></td>
+<td><p>變身或轉換形態成<strong>刺針毒蠍</strong>。</p></td>
 <td><p>存放<a href="../Page/蠍子.md" title="wikilink">蠍子</a>型像資料的Key型道具。<br />
 啓動音效為「Poison」（日文：「ポイズン」）<br />
 二次啓動音效為「Scorpion's ability!」<br />
@@ -949,16 +1342,127 @@ Stung with fear by the power claws.」<br />
 （日文：「デンジャラスワーニング！スティングスコーピオン！」）</p></td>
 </tr>
 <tr class="even">
+<td><p>Sparking Giraffe</p></td>
+<td><p>スパーキングジラフ</p></td>
+<td><p>火花長頸鹿</p></td>
+<td><p>變身或轉換形態成<strong>火花長頸鹿</strong>。</p></td>
+<td><p>存放<a href="https://zh.wikipedia.org/wiki/長頸鹿" title="wikilink">長頸鹿型像資料的Key型道具</a>。<br />
+啓動音效為「Electric」（日文：「エレクトリック」）<br />
+二次啓動音效為「Giraffe's ability!」<br />
+完整變身音效為「Muscle Voltage!Sparking Giraffe!<br />
+Bursting sparks fly at full force.」<br />
+（日文：「マッスルボルテージ！スパーキングジラフ！」）</p></td>
+</tr>
+<tr class="odd">
 <td><p>Amazing Hercules</p></td>
 <td><p>アメイジングヘラクレス</p></td>
 <td><p>驚異力士</p></td>
-<td></td>
-<td><p>存放<a href="https://zh.wikipedia.org/wiki/赫克力士大兜蟲" title="wikilink">赫克力士大兜蟲型像資料的Key型道具</a>。<br />
+<td><p>變身或轉換形態成<strong>驚異力士</strong>。</p></td>
+<td><p>存放<a href="../Page/赫克力士長戟大兜蟲.md" title="wikilink">赫克力士長戟大兜蟲</a>型像資料的Key型道具。<br />
 啓動音效為「Strong」（日文：「ストロング」）<br />
 二次啓動音效為「Hercules beetle's ability!」<br />
 完整變身音效為「Arai! Tsuyoi! Katai! Amazing Hercules!<br />
 With mighty horn like pincer than flip the opponent helpless.」<br />
 （日文：「<ruby>荒<rp>(</rp><rt>あら</rt><rp>)</rp></ruby>い！<ruby>強<rp>(</rp><rt>つよ</rt><rp>)</rp></ruby>い！<ruby>硬<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>い！アメイジングヘラクレス！」）</p></td>
+</tr>
+<tr class="even">
+<td><p>Gatling Hedgehog</p></td>
+<td><p>ガトリングヘッジホッグ</p></td>
+<td><p>機槍刺蝟</p></td>
+<td><p>變身或轉換形態成<strong>機槍刺蝟</strong>。</p></td>
+<td><p>存放<a href="https://zh.wikipedia.org/wiki/刺蝟" title="wikilink">刺蝟型像資料的Key型道具</a>。<br />
+啓動音效為「Revolver」（日文：「リボルバー」）<br />
+二次啓動音效為「Hedgehog's ability!」<br />
+完整變身音效為「Unstoppable rapid shots!Gatling Hedgehog!<br />
+Infinite spines shoot towards the enemy.」<br />
+（日文：「アンストッパブルラピッドショット！ガトリングヘッジホッグ！」）</p></td>
+</tr>
+<tr class="odd">
+<td><p>Crushing Buffalo</p></td>
+<td><p>クラッシングバッファロー</p></td>
+<td><p>粉碎野牛</p></td>
+<td><p>變身或轉換形態成<strong>粉碎野牛</strong>。</p></td>
+<td><p>存放<a href="https://zh.wikipedia.org/wiki/野牛" title="wikilink">野牛型像資料的Key型道具</a>。<br />
+啓動音效為「Blow」（日文：「ブロウ」）<br />
+二次啓動音效為「Buffalo's ability!」<br />
+完整變身音效為「Powerful rush!Crushing Buffalo!<br />
+This charge attack will send you flying.」<br />
+（日文：「パワフルラッシュ！クラッシングバッファロー！」）</p></td>
+</tr>
+<tr class="even">
+<td><p>Exciting Stag</p></td>
+<td><p>エキサイティングスタッグ</p></td>
+<td><p>激動鍬形蟲</p></td>
+<td><p>變身或轉換形態成<strong>激動鍬形蟲</strong>。</p></td>
+<td><p>存放<a href="../Page/鍬形蟲.md" title="wikilink">鍬形蟲</a>型像資料的Key型道具。<br />
+啓動音效為「Scissors」（日文：「シザーズ」）<br />
+二次啓動音效為「Stag's ability!」<br />
+完整變身音效為「Sharpness twin blades! Exciting Stag!<br />
+Razor sharp blades will cross paths.」<br />
+（日文：「シャープネスツインブレード！エキサイティングスタッグ！」）</p></td>
+</tr>
+<tr class="odd">
+<td><p>Trapping Spider</p></td>
+<td><p>トラッピングスパイダー</p></td>
+<td><p>誘捕蜘蛛</p></td>
+<td><p>變身或轉換形態成<strong>誘捕蜘蛛</strong>。</p></td>
+<td><p>存放<a href="../Page/蜘蛛.md" title="wikilink">蜘蛛</a>型像資料的Key型道具。<br />
+啓動音效為「Territory」（日文：「テリトリー」）<br />
+二次啓動音效為「Spider's ability!」<br />
+完整變身音效為「Impossible to escape! Trapping Spider!<br />
+No one can escape its web.」<br />
+（日文：「インポッシブル・トゥ・エスケープ！トラッピングスパイダー！」）</p></td>
+</tr>
+<tr class="even">
+<td><p>Storming Penguin</p></td>
+<td><p>ストーミングペンギン</p></td>
+<td><p>風暴企鵝</p></td>
+<td><p>變身或轉換形態成<strong>風暴企鵝</strong>。</p></td>
+<td><p>存放<a href="../Page/企鵝.md" title="wikilink">企鵝</a>型像資料的Key型道具。<br />
+啓動音效為「Hurricane」（日文：「ハリケーン」）<br />
+二次啓動音效為「Penguin's ability!」<br />
+完整變身音效為「Spining cyclone! Storming Penguin!<br />
+The winds are at his command.」<br />
+（日文：「スピニングサイクロン！ストーミングペンギン！」）</p></td>
+</tr>
+<tr class="odd">
+<td><p>Splashing Whale</p></td>
+<td><p>スプラッシングホエール</p></td>
+<td><p>噴水鯨魚</p></td>
+<td><p>變身或轉換形態成<strong>噴水鯨魚</strong>。</p></td>
+<td><p>存放<a href="https://zh.wikipedia.org/wiki/鯨魚" title="wikilink">鯨魚型像資料的Key型道具</a>。<br />
+啓動音效為「Wave」（日文：「ウェーブ」）<br />
+二次啓動音效為「Whale's ability!」<br />
+完整變身音效為「King of the sea! Splashing Whale!<br />
+An aqua current that encompasses everything around it.」<br />
+（日文：「キング・オブ・ザ・シー！スプラッシングホエール！」）</p></td>
+</tr>
+<tr class="even">
+<td><p>Dynamiting Lion</p></td>
+<td><p>ダイナマイティングライオン</p></td>
+<td><p>爆破獅子</p></td>
+<td><p>變身或轉換形態成<strong>爆破獅子</strong>。</p></td>
+<td><p>存放<a href="https://zh.wikipedia.org/wiki/獅子" title="wikilink">獅子型像資料的Key型道具</a>。<br />
+啓動音效為「Burst」（日文：「バースト」）<br />
+</p></td>
+</tr>
+<tr class="odd">
+<td><p>Scouting Panda</p></td>
+<td><p>スカウティングパンダ</p></td>
+<td><p>偵查熊貓</p></td>
+<td><p>變身或轉換形態成<strong>偵查熊貓</strong>。</p></td>
+<td><p>存放<a href="https://zh.wikipedia.org/wiki/熊貓" title="wikilink">熊貓型像資料的Key型道具</a>。<br />
+啓動音效為「Search」（日文：「サーチ」）<br />
+</p></td>
+</tr>
+<tr class="even">
+<td><p>Hopping Kangaroo</p></td>
+<td><p>ホッピングカンガルー</p></td>
+<td><p>跳躍袋鼠</p></td>
+<td><p>變身或轉換形態成<strong>跳躍袋鼠</strong>。</p></td>
+<td><p>存放<a href="../Page/袋鼠.md" title="wikilink">袋鼠</a>型像資料的Key型道具。<br />
+啓動音效為「Pocket」（日文：「ポケット」）<br />
+</p></td>
 </tr>
 <tr class="odd">
 <td><p>Shining Hopper</p></td>
@@ -966,14 +1470,27 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 <td><p>閃耀蝗蟲</p></td>
 <td><p>變身或轉換形態成<strong>閃耀蝗蟲</strong>。</p></td>
 <td><p>存放<a href="../Page/蝗蟲.md" title="wikilink">蝗蟲</a>型像資料的Key型道具。<br />
-另外搭配突擊野狼的突擊扳機配件可合成<strong>閃耀突擊蝗蟲</strong>。</p></td>
+啓動音效為「Shining Jump」（日文：「シャイニングジャンプ」）<br />
+二次啓動音效為「Shining Hopper's ability!」<br />
+完整變身音效為「The rider kick increases the power by adding to brightness!Shining Hopper!<br />
+When I shine, darkness fades.」<br />
+另外搭配突擊野狼的突擊握把配件可合成<strong>閃耀突擊蝗蟲</strong>。<br />
+啓動音效為「Hyper Jump」（日文：「ハイパージャンプ」）<br />
+二次啓動音效為「Shining Assault Hopper's ability!」<br />
+完整變身音效為「Warning! Warning! This is not a test! Hybrid rise! Shining Assault Hopper!<br />
+No chance of surviving the shot.」</p></td>
 </tr>
 <tr class="even">
 <td><p>Assault Wolf</p></td>
 <td><p>アサルトウルフ</p></td>
 <td><p>突擊野狼</p></td>
 <td><p>變身或轉換形態成<strong>突擊野狼</strong>。</p></td>
-<td><p>存放<a href="../Page/狼.md" title="wikilink">狼</a>型像資料的Key型道具。</p></td>
+<td><p>存放<a href="../Page/狼.md" title="wikilink">狼</a>型像資料的Key型道具。<br />
+啓動音效為「Assault Bullet」（日文：「アサルトバレット」）<br />
+二次啓動音效為「Assault Wolf's ability!」<br />
+完整變身音效為「Ready Go!Assault Wolf!<br />
+No Change of Surviving.」<br />
+</p></td>
 </tr>
 <tr class="odd">
 <td><p>Amazing Caucasus</p></td>
@@ -983,7 +1500,25 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 <td><p>存放<a href="https://zh.wikipedia.org/wiki/高卡薩斯南洋大兜蟲" title="wikilink">高加索大兜蟲型像資料的Key型道具</a>。<br />
 同時也是<strong>假面騎士Thouser</strong>的變身道具。<br />
 啓動音效為「Breakhorn」（日文：「ブレイクホーン」）<br />
-配合Zaia千之驅動器的完整變身音效為「Perfect Rise! As five horns meet, the golden soldier Thouser is born. Presented by Zaia..」</p></td>
+配合Zaia千之驅動器的完整變身音效為「Perfect Rise! As five horns meet, the golden soldier Thouser is born. Presented by Zaia.」</p></td>
+</tr>
+<tr class="even">
+<td><p>Rising Hopper（Christmas ver.）</p></td>
+<td><p>ライジングホッパー（クリスマスver.）</p></td>
+<td><p>昇華蝗蟲（聖誕節ver.）</p></td>
+<td></td>
+<td><p>存放<a href="../Page/蝗蟲.md" title="wikilink">蝗蟲</a>型像資料的Key型道具。<br />
+啓動音效為「Merry Christmas!」（日文：「メリークリスマス！」）<br />
+二次啓動音效為「Santa claus ability!」<br />
+完整變身音效為「Happy Christmas!Rising Hopper!<br />
+May your Christmas wishes come true.」</p></td>
+</tr>
+<tr class="odd">
+<td><p>Rising Hopper（Theme music ver.）</p></td>
+<td><p>ライジングホッパー（主題歌ver.）</p></td>
+<td><p>昇華蝗蟲（主題曲ver.）</p></td>
+<td></td>
+<td><p>存放<a href="../Page/蝗蟲.md" title="wikilink">蝗蟲</a>型像資料的Key型道具。</p></td>
 </tr>
 <tr class="even">
 <td><p>Ridertiming ZI-O</p></td>
@@ -991,7 +1526,7 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 <td><p>騎士時間ZI-O</p></td>
 <td></td>
 <td><p>存放<a href="https://zh.wikipedia.org/wiki/假面騎士ZI-O" title="wikilink">假面騎士ZI-O型像資料的Key型道具</a>。<br />
-啓動音效為「King」</p></td>
+啓動音效為「King」（日文：「キング」）</p></td>
 </tr>
 <tr class="odd">
 <td><p>Kamenriding DECADE</p></td>
@@ -999,7 +1534,7 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 <td><p>假面騎乘DECADE</p></td>
 <td></td>
 <td><p>存放<a href="https://zh.wikipedia.org/wiki/假面騎士DECADE" title="wikilink">假面騎士DECADE型像資料的Key型道具</a>。<br />
-啓動音效為「Destroy」</p></td>
+啓動音效為「Destroy」（日文：「デストロイ」）</p></td>
 </tr>
 </tbody>
 </table>
@@ -1022,21 +1557,21 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 <tr class="odd">
 <td><p>Berosa</p></td>
 <td><p>ベローサ</p></td>
-<td><p>刺鱗蛉[25]</p></td>
+<td><p>刺鱗蛉[55]</p></td>
 <td><p>變身成<strong>Berosa MAGiA</strong>。</p></td>
-<td><p>存放滅絕種昆蟲「久慈照之[26]刺鳞蛉（Kujiberotha Teruyukii）」型像資料的Key型道具。</p></td>
+<td><p>存放滅絕種昆蟲「<a href="https://zh.wikipedia.org/wiki/久慈照之刺鳞蛉" title="wikilink">久慈照之[56]刺鳞蛉</a>（Kujiberotha Teruyukii）」型像資料的Key型道具。</p></td>
 </tr>
 <tr class="even">
 <td><p>Kuehne</p></td>
 <td><p>クエネオ</p></td>
-<td><p>孔耐鱷[27]</p></td>
+<td><p>孔耐鱷[57]</p></td>
 <td><p>變身成<strong>Kuehne MAGiA</strong>。</p></td>
 <td><p>存放滅絕種爬蟲類「（Kuehneosuchus）」型像資料的Key型道具。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Ekal</p></td>
 <td><p>エカル</p></td>
-<td><p>強齒袋鼠[28]</p></td>
+<td><p>強齒袋鼠[58]</p></td>
 <td><p>變身成<strong>Ekal MAGiA</strong>。</p></td>
 <td><p>存放滅絕種哺乳類「（Ekaltadeta）」型像資料的Key型道具。</p></td>
 </tr>
@@ -1050,45 +1585,59 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 <tr class="odd">
 <td><p>Oniko</p></td>
 <td><p>オニコ</p></td>
-<td><p>爪蝠[29]</p></td>
+<td><p>爪蝠[59]</p></td>
 <td><p>變身成<strong>Onycho MAGiA</strong>。</p></td>
 <td><p>存放滅絕種哺乳類「（Onychonycteris）」型像資料的Key型道具。</p></td>
 </tr>
 <tr class="even">
 <td><p>Vicarya</p></td>
 <td><p>ビカリア</p></td>
-<td><p>卷貝[30]</p></td>
+<td><p>卷貝[60]</p></td>
 <td><p>變身成<strong>Vicarya MAGiA</strong>。</p></td>
-<td><p>存放滅絕種腹足類「卷貝（Vicarya）」型像資料的Key型道具。</p></td>
+<td><p>存放滅絕種腹足類「<a href="https://zh.wikipedia.org/wiki/卷貝" title="wikilink">卷貝</a>（Vicarya）」型像資料的Key型道具。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Gaeru</p></td>
 <td><p>ガエル</p></td>
-<td><p>惡魔角蛙</p></td>
+<td><p>胃育溪蟾</p></td>
 <td><p>變身成<strong>Gaeru MAGiA</strong>。</p></td>
-<td><p>存放滅絕種蛙類「<a href="https://zh.wikipedia.org/wiki/惡魔角蛙屬" title="wikilink">惡魔角蛙</a>（Beelzebufo）」型像資料的Key型道具。</p></td>
+<td><p>存放滅絕種蛙類「<a href="../Page/胃育溪蟾.md" title="wikilink">胃育溪蟾</a>（Ibukurokomorigaeru）」型像資料的Key型道具。</p></td>
 </tr>
 <tr class="even">
+<td><p>Mammoth</p></td>
+<td><p>マンモス</p></td>
+<td><p>猛獁象</p></td>
+<td><p>變身成<strong>Mammoth MAGiA</strong>。</p></td>
+<td><p>存放滅絕種哺乳類「<a href="https://zh.wikipedia.org/wiki/猛獁象" title="wikilink">猛獁象</a>（Mammoth）」型像資料的Key型道具。</p></td>
+</tr>
+<tr class="odd">
 <td><p>Dodo</p></td>
 <td><p>ドードー</p></td>
 <td><p>渡渡鳥</p></td>
-<td><p>變身成<strong>Dodo MAGiA</strong>。</p></td>
-<td><p>存放滅絕種鳥類「<a href="https://zh.wikipedia.org/wiki/渡渡鳥" title="wikilink">渡渡鳥</a>（Dodo Bird）」型像資料的Key型道具。</p></td>
-</tr>
-<tr class="odd">
-<td><p>Mammoth</p></td>
-<td><p>マンモス</p></td>
-<td><p>猛犸象</p></td>
-<td><p>變身成<strong>Mammoth MAGiA</strong>。</p></td>
-<td><p>存放滅絕種象類「<a href="../Page/猛犸象.md" title="wikilink">猛犸象</a>（Mammoth）」型像資料的Key型道具。</p></td>
+<td><p>變身成<strong>Dodo MAGiA</strong>跟<strong>Dodo MAGiA 改</strong>。</p></td>
+<td><p>存放滅絕種鳥類「<a href="https://zh.wikipedia.org/wiki/渡渡鳥" title="wikilink">渡渡鳥</a>（Dodo）」型像資料的Key型道具。</p></td>
 </tr>
 <tr class="even">
+<td><p>Arsino</p></td>
+<td><p>アルシノ</p></td>
+<td><p>重腳獸</p></td>
+<td><p>變身成<strong>Arsino MAGiA</strong>。</p></td>
+<td><p>存放滅絕種哺乳類「<a href="../Page/埃及重腳獸.md" title="wikilink">埃及重腳獸</a>（Arsinoitherium）」型像資料的Key型道具。</p></td>
+</tr>
+<tr class="odd">
 <td><p>Awaking Arsino</p></td>
 <td><p>アウェイキングアルシノ</p></td>
 <td><p>覺醒重腳獸</p></td>
 <td><p>變身成<strong>假面騎士Thouser</strong>。</p></td>
 <td><p>存放滅絕種哺乳類「<a href="../Page/埃及重腳獸.md" title="wikilink">埃及重腳獸</a>（Arsinoitherium）」型像資料的Key型道具。<br />
 同時也是<strong>假面騎士Thouser</strong>的變身道具。</p></td>
+</tr>
+<tr class="even">
+<td><p>Rocking Hopper</p></td>
+<td><p>ロッキングホッパー</p></td>
+<td><p>搖擺蝗蟲[61]</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1140,7 +1689,7 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 <td><p>199.1cm</p></td>
 <td><p>104.6kg</p></td>
 <td><p>昆蟲的滅絕種 / 鐮</p></td>
-<td><p>以昆蟲的滅絕種「久慈照之刺鳞蛉（クジベローサ・テルユキイ，Kujiberotha Teruyukii）」的失落模組強化而成的螳螂型怪人。<br />
+<td><p>以昆蟲的滅絕種「<a href="https://zh.wikipedia.org/wiki/久慈照之刺鳞蛉" title="wikilink">久慈照之刺鳞蛉</a>（クジベローサ・テルユキイ，Kujiberotha Teruyukii）」的失落模組強化而成的螳螂型怪人。<br />
 擅長使用裝備在兩手的鐮「Togamarder（トガマーダー）」戰鬥。</p></td>
 </tr>
 <tr class="even">
@@ -1183,8 +1732,8 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 <td></td>
 <td><p>Onycho MAGiA</p></td>
 <td><p>Onycho Magia</p></td>
-<td><p>4</p></td>
-<td><p>巴斯</p></td>
+<td><p>4、6</p></td>
+<td><p>巴斯、司機型Humagear</p></td>
 <td><p>190.0cm</p></td>
 <td><p>104.3kg</p></td>
 <td><p>哺乳類的滅絕種 / 飛行 / 爪</p></td>
@@ -1200,7 +1749,8 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 <td><p>228.6cm</p></td>
 <td><p>162.0kg</p></td>
 <td><p>貝類的滅絕種 / 重裝甲 / 鑽頭</p></td>
-<td><p>以腹足類的滅絕種「<a href="https://zh.wikipedia.org/wiki/卷貝" title="wikilink">卷貝</a>（ビカリア，Vicarya）」的失落模組強化而成的貝型怪人。</p></td>
+<td><p>以腹足類的滅絕種「<a href="https://zh.wikipedia.org/wiki/卷貝" title="wikilink">卷貝</a>（ビカリア，Vicarya）」的失落模組強化而成的貝型怪人。<br />
+擅長使用裝備在頭部與雙臂前腕的堅固鑽頭「Drisnailer（ドリスネイラー）」戰鬥。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1208,32 +1758,82 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 <td><p>Gaeru Magia</p></td>
 <td><p>6</p></td>
 <td><p>香菜澤賽娜</p></td>
-<td><p>cm</p></td>
-<td><p>kg</p></td>
-<td><p>未知生物的滅絕種 /</p></td>
-<td><p>以蛙類的滅絕種「<a href="https://zh.wikipedia.org/wiki/惡魔角蛙屬" title="wikilink">惡魔角蛙</a>」的失落模組強化而成的蛙型怪人。</p></td>
+<td><p>192.9cm</p></td>
+<td><p>109.2kg</p></td>
+<td><p>兩生類的滅絕種 / 爆彈</p></td>
+<td><p>以兩生類的滅絕種「<a href="../Page/胃育溪蟾.md" title="wikilink">胃育溪蟾</a>（イブクロコモリガエル，Ibukurokomorigaeru）」的失落模組強化而成的蛙型怪人。<br />
+擅長使用從口腔內發射的爆彈「Kogaeru Bomber（コガエルボマー）」戰鬥。</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>Mammoth MAGiA</p></td>
 <td><p>Mammoth Magia</p></td>
 <td><p>7</p></td>
-<td></td>
-<td><p>cm</p></td>
-<td><p>kg</p></td>
-<td><p>未知生物的滅絕種 /</p></td>
-<td><p>以象類的滅絕種「<a href="https://zh.wikipedia.org/wiki/猛瑪象" title="wikilink">猛瑪象</a>」的失落模組強化而成的猛獁象型怪人。</p></td>
+<td><p>坂本柯比</p></td>
+<td><p>188.1cm</p></td>
+<td><p>146.8kg</p></td>
+<td><p>猛獁象的滅絕種 / 鼻 / 怪力</p></td>
+<td><p>以哺乳類的滅絕種「<a href="https://zh.wikipedia.org/wiki/猛獁象" title="wikilink">猛獁象</a>（マンモス，Mammoth）」的失落模組強化而成的猛獁象型怪人。<br />
+擅長使用能將一切吸入，並以強大的氣勢噴射的胸腔上的鼻子「Exhaler（エクスヘイラー）」，及怪力戰鬥。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>Dodo MAGiA</p></td>
 <td><p>Dodo Magia</p></td>
+<td><p>7 - 8、10</p></td>
+<td><p>暗殺型Humagear</p></td>
+<td><p>191.3cm</p></td>
+<td><p>107.5kg</p></td>
+<td><p>鳥類的滅絕種 / 格鬥 / 劍</p></td>
+<td><p>以鳥類的滅絕種「<a href="https://zh.wikipedia.org/wiki/渡渡鳥" title="wikilink">渡渡鳥</a>（ドードー，Dodo）」的失落模組強化而成的渡渡鳥型怪人。<br />
+擅長以格鬥為主體戰鬥。<br />
+隨著進化後則使用雙手所持的劍「Valk Saber（ヴァルクサーベル）」戰鬥。</p></td>
+</tr>
+<tr class="even">
 <td></td>
+<td><p>Dodo MAGiA 改</p></td>
+<td><p>Dodo Magia Kai</p></td>
+<td><p>11 - 12</p></td>
+<td><p>暗殺型Humagear</p></td>
+<td><p>191.3cm</p></td>
+<td><p>107.5kg</p></td>
+<td><p>鳥類的滅絕種 / 格鬥 / 劍 / 銃火器</p></td>
+<td><p>以鳥類的滅絕種「<a href="https://zh.wikipedia.org/wiki/渡渡鳥" title="wikilink">渡渡鳥</a>（ドードー，Dodo）」的失落模組強化而成，並向暗殺方面昇華進化的渡渡鳥型怪人。</p></td>
+</tr>
+<tr class="odd">
 <td></td>
-<td><p>cm</p></td>
-<td><p>kg</p></td>
-<td><p>未知生物的滅絕種 /</p></td>
-<td><p>以鳥類的滅絕種「<a href="https://zh.wikipedia.org/wiki/渡渡鳥" title="wikilink">渡渡鳥</a>（ドードーバード，Dodo Bird）」的失落模組強化而成的渡渡鳥型怪人。</p></td>
+<td><p>Arsino MAGiA</p></td>
+<td><p>Arsino MAGiA</p></td>
+<td><p>11</p></td>
+<td><p>松田英治</p></td>
+<td><p>212.8cm</p></td>
+<td><p>138.9kg</p></td>
+<td><p>角 / 怪力</p></td>
+<td><p>以哺乳類的滅絕種「<a href="../Page/埃及重腳獸.md" title="wikilink">埃及重腳獸</a>（アルシノイテリウム，Arsinoitherium）」的失落模組強化而成的犀牛型怪人。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>Dodo MAGiA 改</p></td>
+<td><p>Dodo Magia Kai</p></td>
+<td><p>12 - 13</p></td>
+<td><p>暗殺型Humagear</p></td>
+<td><p>209.9cm</p></td>
+<td><p>131.4kg</p></td>
+<td><p>鳥類的滅絕種 / 格鬥 / 劍 / 銃火器 / 指揮</p></td>
+<td><p>以鳥類的滅絕種「<a href="https://zh.wikipedia.org/wiki/渡渡鳥" title="wikilink">渡渡鳥</a>（ドードー，Dodo）」的失落模組強化而成，暗殺能力精通後進一步進化的渡渡鳥型怪人。<br />
+生成的卵型金屬球植入Humagear後會變化成Dodo MAGiA・雛鳥（ドードーマギア・ヒナ）並指揮他們進行集團戰鬥。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>Dodo MAGiA・雛鳥</p></td>
+<td><p>Dodo MAGiA・Hina</p></td>
+<td><p>12 - 13</p></td>
+<td><p>三葉蟲MAGiA、Humagear</p></td>
+<td><p>會隨著對象Humagear而有差異</p></td>
+<td><p>會隨著對象Humagear而有差異</p></td>
+<td><p>鳥類的滅絕種 / 成長</p></td>
+<td><p>卵型金屬球植入Humagear後變化而成的姿態，會聽從Dodo MAGiA 改的指揮戰鬥。<br />
+擁有透過成長來增加戰鬥力的能力。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1261,7 +1861,7 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 <th><p>日本原文標題</p></th>
 <th><p>中文標題</p></th>
 <th><p>登場敵方怪人</p></th>
-<th><p>關東收視率[31]</p></th>
+<th><p>關東收視率[62]</p></th>
 <th><p>編劇</p></th>
 <th><p>導演</p></th>
 </tr>
@@ -1308,7 +1908,7 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 <td><p>2019/09/22</p></td>
 <td><p>04</p></td>
 <td></td>
-<td><p>車掌小姐發現了！安娜真相</p></td>
+<td><p>車掌小姐發現了！安娜（那樣的）真相[63]</p></td>
 <td><ul>
 <li>Onycho MAGiA</li>
 </ul></td>
@@ -1324,8 +1924,8 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 <td><ul>
 <li>Vicarya MAGiA</li>
 </ul></td>
-<td><p>%</p></td>
-<td><p>筧昌也</p></td>
+<td><p>3.7%</p></td>
+<td></td>
 <td><p>柴崎貴行</p></td>
 </tr>
 <tr class="even">
@@ -1333,8 +1933,11 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 <td><p>06</p></td>
 <td></td>
 <td><p>想聽你的聲音</p></td>
-<td></td>
-<td><p>%</p></td>
+<td><ul>
+<li>Onycho MAGiA</li>
+<li>Gaeru MAGiA</li>
+</ul></td>
+<td><p>3.6%</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1342,9 +1945,12 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 <td><p>2019/10/13</p></td>
 <td><p>07</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td><p>%</p></td>
+<td><p>我是熱血Humagear老師！</p></td>
+<td><ul>
+<li>Mammoth MAGiA</li>
+<li>Dodo MAGiA</li>
+</ul></td>
+<td><p>3.1%</p></td>
 <td><p>山口恭平</p></td>
 <td></td>
 </tr>
@@ -1352,8 +1958,10 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 <td><p>2019/10/20</p></td>
 <td><p>08</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>現在正是滅亡的開始</p></td>
+<td><ul>
+<li>Dodo MAGiA</li>
+</ul></td>
 <td><p>%</p></td>
 <td><p>高橋悠也</p></td>
 <td></td>
@@ -1362,6 +1970,74 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 <td><p>2019/10/27</p></td>
 <td><p>09</p></td>
 <td></td>
+<td><p>將這生命、預借使用</p></td>
+<td></td>
+<td><p>%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019/11/10[64]</p></td>
+<td><p>10</p></td>
+<td></td>
+<td><p>我乃演員，大和田伸也</p></td>
+<td><ul>
+<li>Dodo MAGiA</li>
+</ul></td>
+<td><p>%</p></td>
+<td><p>筧昌也</p></td>
+<td><p>中澤祥次郎</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019/11/17</p></td>
+<td><p>11</p></td>
+<td></td>
+<td><p>不要停止鏡頭、阻止那傢伙！</p></td>
+<td><ul>
+<li>Dodo MAGiA 改</li>
+<li>Arsino MAGiA</li>
+</ul></td>
+<td><p>%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019/11/24</p></td>
+<td><p>12</p></td>
+<td></td>
+<td><p>那個名偵探來了</p></td>
+<td><ul>
+<li>Dodo MAGiA 改</li>
+<li>Dodo MAGiA・Hina</li>
+</ul></td>
+<td><p>%</p></td>
+<td><p><a href="../Page/三條陸.md" title="wikilink">三條陸</a></p></td>
+<td><p>柴崎貴行</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019/12/01</p></td>
+<td><p>13</p></td>
+<td></td>
+<td><p>我的工作是社長秘書</p></td>
+<td><p>%</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019/12/08</p></td>
+<td><p>14</p></td>
+<td></td>
+<td><p>我們是宇航員兄弟！</p></td>
+<td></td>
+<td><p>%</p></td>
+<td><p>高橋悠也</p></td>
+<td><p>諸田敏</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019/12/15</p></td>
+<td><p>15</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td><p>%</p></td>
@@ -1369,6 +2045,16 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2019/12/22</p></td>
+<td><p>16</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>%</p></td>
+<td><p>中澤祥次郎</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1385,16 +2071,16 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 
 ### 劇場版
 
-  - 《[劇場版 假面騎士ZI-O Over Quartzer](../Page/劇場版_假面騎士ZI-O_Over_Quartzer.md "wikilink")》（2019年7月26日上映）\[32\]
-  - 《[假面騎士 令和 The·First·Generation](https://zh.wikipedia.org/wiki/假面騎士_令和_The·First·Generation "wikilink")》（2019年12月21日上映）
+  - 《[劇場版 假面騎士ZI-O Over Quartzer](../Page/劇場版_假面騎士ZI-O_Over_Quartzer.md "wikilink")》（2019年7月26日上映）\[65\]
+  - 《[假面騎士令和The First Generation](https://zh.wikipedia.org/wiki/假面騎士令和The_First_Generation "wikilink")》（2019年12月21日上映）
 
 ## 樂曲
 
 ### 主題曲
 
-「**REAL×EYEZ**」\[33\]
+「**REAL×EYEZ**」\[66\]
 
-  - 演唱：J×Takanori Nishikawa \[34\]
+  - 演唱：J×Takanori Nishikawa \[67\]
   - 作曲：J
   - 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")/[西川貴教](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")
   - 編曲：DJ'TEKINA//SOMETHING
@@ -1406,6 +2092,10 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 ## 《[超級英雄時間](../Page/超級英雄時間.md "wikilink")》相關條目
 
   - 《[騎士龍戰隊龍裝者](../Page/騎士龍戰隊龍裝者.md "wikilink")》
+
+<!-- end list -->
+
+  - 《[魔進戰隊閃耀者](https://zh.wikipedia.org/wiki/魔進戰隊閃耀者 "wikilink")》
 
 ## 參考資料
 
@@ -1432,30 +2122,63 @@ With mighty horn like pincer than flip the opponent helpless.」<br />
 6.  後者中登場的魔進追跡者、《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》中的夜霸、血逐、BiKaiser、Hell Bros皆屬未被官方列名於騎士的非正規戰士。
 7.  飛電、A.I.M.S.、滅亡迅雷、Zaia
 8.  ZERO-ONE、Shot、Force、Thousand
-9.  驅動器和升華器（Riser）
-10. 而且最特别的地方是，本作的主角骑士是被称作为「社长骑士」，另外其他人（包括自己）不以「假面騎士」作為稱呼，而且假面騎士Vulcan和假面騎士Valkyrie的A.I.M.S.Shotriser的待機音效裡卻有「假面騎士」的音綴
+9.  驅動器（Driver）和昇華器（Riser）
+10. 而且最特别的地方是，本作的主角骑士是被稱為「社長騎士」，另外其他人（包括本身）皆不以「假面騎士」作為稱呼，只是間中由刃唯阿的口中聽出「假面騎士」一詞，而且假面騎士Vulcan和假面騎士Valkyrie的A.I.M.S.Shotriser的待機音效裡卻有「假面騎士」的音綴。
 11. 飾演葛葉紘汰的[佐野岳](../Page/佐野岳.md "wikilink")（第24屆）、飾演天空寺尊的[西銘駿](../Page/西銘駿.md "wikilink")（第27屆）、飾演寶生永夢的[飯島寬騎](../Page/飯島寬騎.md "wikilink")（第28屆），以及飾演桐生戰兔的[犬飼貴丈](../Page/犬飼貴丈.md "wikilink")（第25屆）為主角騎士，飾演詩島剛的[稻葉友](https://zh.wikipedia.org/wiki/稻葉友 "wikilink")（第22屆）以及飾演明光院月津的（第29屆）為二騎，飾演Chase的[上遠野太洸](../Page/上遠野太洸.md "wikilink")（第23屆）為三騎。
 12. 與《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》高橋悠也一人執筆不同，本作則是由高橋悠也與其他編劇共同執筆。
 13. 與EX-AID不同的是，ZERO-ONE必殺技名稱以日文顯示，並非英文。
-14. 任何打鬥畫面和鏡頭拍攝，尤其是必殺招最為刺激
+14. 多種決鬥畫面和鏡頭拍攝，尤其是在必殺招的運鏡上更多著墨，算起來是系列作的首例。
 15. 導演[杉原輝昭曾擔任過](https://zh.wikipedia.org/wiki/杉原輝昭 "wikilink")《[快盜戰隊魯邦連者VS警察戰隊巡邏連者](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者.md "wikilink")》的導演，所以可以看得出他在特效方面的用心
-16. 頭部裝置的亮燈由安全綠燈轉變成警告紅燈。
-17. 從或人的記憶中得知他似乎也是當年該事件的生存者。
-18. 後來得知是因滅亡迅雷.net的行動駭入Humagear而造成該事件，但在櫻井聰的努力牺牲下减少傷亡。
-19. 而使用飛電ZERO-ONE驅動器變身的或人因此擁有相關權限。
-20. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/5/weekly_items/5)
-21. 暫於第4話擔任，之後是否擔任演出目前未知。
-22.
-23. 劇中不破諫在變身時搞錯了步驟，因此每此展開Progrise Key時都是用蠻力強行展開
-24. 類似《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》的危險扳機（Hazard Trigger）
-25. 此昆蟲在2006年被發現，12年後才正式命名，生活在8600萬年前的白堊紀晚期，是[螳蛉的近親](https://zh.wikipedia.org/wiki/螳蛉 "wikilink")
-26. 「久慈」取自琥珀的發現地——「[久慈市](https://zh.wikipedia.org/wiki/久慈市 "wikilink")」；而 「照之」則取自致力推廣科普昆蟲的日本演員——「[香川照之](../Page/香川照之.md "wikilink")」
-27. 此類與現代飛蜥同樣的生物生存在三疊紀晚期，其特徵為身體突出的巨大翅膀，用於在樹林間滑翔降落
-28. 這是一種生存在新近紀中新世的最古老的食肉袋鼠，雖體型較小但因牙齒強壯而得名。
-29. 這是一種生活在5250萬年前的古近紀始新世的最古老的蝙蝠之一。
+16. 過去經常因為CG特效不如同為東映的[超級戰隊系列被中國特攝迷吐槽](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")**超級戰隊系列**才是東映的「親兒子」，**假面騎士系列**只是東映的「庶出兒子」。
+17. 但ZERO-ONE與前三者不同的地方在於，Risehopper是先由「飛電RisePhone」向飛電ZERO-ONE驅動器進行授權，並透過衛星傑亞從宇宙上投射出類似「飛電RisePhone」的道具至地面，再藉ZERO-ONE觸碰螢幕上的機車圖案變化而成，並非直接由飛電Rise Phone本身變成機車。
+18. 頭部裝置的亮燈由安全綠燈轉變成警告紅燈。
+19. 從或人的記憶中得知他似乎也是當年該事件的生存者。
+20. 後來得知是因滅亡迅雷.net的行動駭入Humagear而造成該事件，但在櫻井聰的努力牺牲下减少傷亡。
+21. 而使用飛電ZERO-ONE驅動器變身的或人因此擁有相關權限。
+22. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/1)
+23. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/2)
+24. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/5)
+25. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/9)
+26. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/13)
+27. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/17)
+28. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/23)
+29. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/4)
+30. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/8)
+31. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/10)
+32. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/14)
+33. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/16)
+34. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/18)
+35. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/19)
+36. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/20)
+37. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/21)
+38. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/22)
+39. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/24)
+40. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/26)
+41. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/3)
+42. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/7)
+43. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/25)
+44. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/6)
+45. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/11)
+46. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/12)
+47. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/15)
+48.
+49. 劇中不破諫在變身時搞錯了步驟，因此每此展開Progrise Key時都是用蠻力強行展開。
+50. 使用Flying Falcon和Sting Scorpion的Progrise Key不會有後半段的英文音效。
+51. 類似《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》的危險扳機（Hazard Trigger）
+52. 主要使用者，但其他騎士也能使用。
+53.
+54.
+55. 此昆蟲在2006年被發現，12年後才正式命名，生活在8600萬年前的白堊紀晚期，是[螳蛉的近親](https://zh.wikipedia.org/wiki/螳蛉 "wikilink")
+56. 「久慈」取自琥珀的發現地——「[久慈市](https://zh.wikipedia.org/wiki/久慈市 "wikilink")」；而 「照之」則取自致力推廣科普昆蟲的日本演員——「[香川照之](../Page/香川照之.md "wikilink")」
+57. 此類與現代飛蜥同樣的生物生存在三疊紀晚期，其特徵為身體突出的巨大翅膀，用於在樹林間滑翔降落
+58. 這是一種生存在新近紀中新世的最古老的食肉袋鼠，雖體型較小但因牙齒強壯而得名。
+59. 這是一種生活在5250萬年前的古近紀始新世的最古老的蝙蝠之一。
     前肢與現代大部分蝙蝠不同，五指全都长有爪，前肢較短，後肢较長，且整體結構較為原始，同時也沒有超聲波定位的能力。
-30. 這是一種繁盛于始新世到中新世的腹足綱動物，活在熱帶至亞熱帶地區（包含日本），其特點是是螺殼上有粗狀的螺肋和角狀突起，如今全數絕種，與現代的[牙海蜷是親近](https://zh.wikipedia.org/wiki/牙海蜷 "wikilink")。
-31. 日本關東地區平均收視率。
-32. [「劇場版 仮面ライダージオウ Over Quartzer」奥野壮×押田岳×大幡しえり×渡邊圭祐インタビュー - 映画ナタリー 特集・インタビュー](https://natalie.mu/eiga/pp/zi-o_ryusoul)
-33. [「仮面ライダーゼロワン」西川貴教＆LUNA SEA・Jが主題歌アーティストに決定！](https://news.livedoor.com/article/detail/16943413/?fbclid=IwAR23cRolnyRlSCksU-FNW6BEOWg_WufdbU-Kf4SEyCJHMlldjXA2ic9HyFs)
-34. 其中一位合唱者Takanori Nishikawa([西川貴教](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")),曾經在前作《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的玩具宣傳圖被官方錯印,與[AAA成員](https://zh.wikipedia.org/wiki/AAA "wikilink")[末吉秀太](../Page/末吉秀太.md "wikilink")合唱其主題曲「Over "Quartzer"」,後期被修正為[ISSA](https://zh.wikipedia.org/wiki/ISSA "wikilink")。
+60. 這是一種繁盛于始新世到中新世的腹足綱動物，活在熱帶至亞熱帶地區（包含日本），其特點是是螺殼上有粗狀的螺肋和角狀突起，如今全數絕種，與現代的[牙海蜷是親近](https://zh.wikipedia.org/wiki/牙海蜷 "wikilink")。
+61. 原參考為洛磯山黑蝗，分布於美國的西半部和加拿大某些西部地區。
+62. 日本關東地區平均收視率。
+63. "安娜"的日文"アンナ"和"那樣的"的日文"あんな"同音。
+64. 因全日本大學驛站接力賽，11月03日停播一次。
+65. [「劇場版 仮面ライダージオウ Over Quartzer」奥野壮×押田岳×大幡しえり×渡邊圭祐インタビュー - 映画ナタリー 特集・インタビュー](https://natalie.mu/eiga/pp/zi-o_ryusoul)
+66. [「仮面ライダーゼロワン」西川貴教＆LUNA SEA・Jが主題歌アーティストに決定！](https://news.livedoor.com/article/detail/16943413/?fbclid=IwAR23cRolnyRlSCksU-FNW6BEOWg_WufdbU-Kf4SEyCJHMlldjXA2ic9HyFs)
+67. 演唱者中的Takanori Nishikawa（[西川貴教](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")），曾在前作《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的宣傳圖被官方錯印成主題曲「Over "Quartzer"」的演唱者之一，後期才修正為[ISSA](https://zh.wikipedia.org/wiki/ISSA "wikilink")。

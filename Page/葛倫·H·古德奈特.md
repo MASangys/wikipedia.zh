@@ -21,9 +21,7 @@
 [Category:洛杉磯人](https://zh.wikipedia.org/wiki/Category:洛杉磯人 "wikilink") [Category:洛杉磯加利福尼亞州立大學校友](https://zh.wikipedia.org/wiki/Category:洛杉磯加利福尼亞州立大學校友 "wikilink") [Category:托爾金專家](https://zh.wikipedia.org/wiki/Category:托爾金專家 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.

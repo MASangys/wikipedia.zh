@@ -15,7 +15,5 @@
 [Category:锗化合物](https://zh.wikipedia.org/wiki/Category:锗化合物 "wikilink") [Category:铯化合物](https://zh.wikipedia.org/wiki/Category:铯化合物 "wikilink") [Category:溴配合物](https://zh.wikipedia.org/wiki/Category:溴配合物 "wikilink") [Category:钙钛矿结构](https://zh.wikipedia.org/wiki/Category:钙钛矿结构 "wikilink")
 
 1.  Tang, L. C., Chang, Y. C., Huang, J. Y., & Chang, C. S. (2006, September). [Ab initio calculated frequency-dependent nonlinear optical properties on CsGeBr<sub>3</sub>](https://www.researchgate.net/profile/Jung_Huang2/publication/253291724_Ab_initio_calculated_frequency-dependent_nonlinear_optical_properties_on_CsGeBr3/links/564c188e08ae3374e5ddfc12/Ab-initio-calculated-frequency-dependent-nonlinear-optical-properties-on-CsGeBr3.pdf) (pdf). In Infrared and Photoelectronic Imagers and Detector Devices II (Vol. 6294, p. 62940J). International Society for Optics and Photonics.
-
 2.  无机化学丛书 第三卷 碳 硅 锗分族. 科学出版社. pp 371. 1.5 锗的配位化合物. 1.5.1 卤合锗(II)酸盐
-
 3.

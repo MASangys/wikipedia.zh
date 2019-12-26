@@ -26,21 +26,13 @@
 [Category:1847年出生](https://zh.wikipedia.org/wiki/Category:1847年出生 "wikilink") [Category:1926年逝世](https://zh.wikipedia.org/wiki/Category:1926年逝世 "wikilink") [Category:20世紀美國人](https://zh.wikipedia.org/wiki/Category:20世紀美國人 "wikilink") [Category:美国旧西部持枪者](https://zh.wikipedia.org/wiki/Category:美国旧西部持枪者 "wikilink") [Category:美國特技表演者](https://zh.wikipedia.org/wiki/Category:美國特技表演者 "wikilink") [Category:美國射擊運動員](https://zh.wikipedia.org/wiki/Category:美國射擊運動員 "wikilink") [Category:狂野西部秀](https://zh.wikipedia.org/wiki/Category:狂野西部秀 "wikilink") [Category:1923年以前移民美國的愛爾蘭人](https://zh.wikipedia.org/wiki/Category:1923年以前移民美國的愛爾蘭人 "wikilink") [Category:朗福德郡人](https://zh.wikipedia.org/wiki/Category:朗福德郡人 "wikilink") [Category:絕食自殺者](https://zh.wikipedia.org/wiki/Category:絕食自殺者 "wikilink") [Category:於密西根州自殺者](https://zh.wikipedia.org/wiki/Category:於密西根州自殺者 "wikilink")
 
 1.  *Dayton Daily News* (November 24, 1926), page 7. \[2014-10-01\].
-
 2.  [RootsIreland.ie, National Library of Ireland - Church Baptism Record for Francis Butler](http://longford.rootsireland.ie/view_detail.php?recordid=1415961&type=bch&recordCentre=longford&page=1), \[2017-04-05\].
-
 3.  [National Library of Ireland - Ardagh and Clonmacnoise Diocese, Templemichael and Ballymacormack Parish, Baptisms from March 1, 1829 to June 11, 1862, page 134](http://registers.nli.ie/registers/vtls000632371#page/1/mode/1up), \[2017-04-05\].
-
 4.  [Ancestry.com, 1860 U.S. Federal Census](http://search.ancestry.com/cgi-bin/sse.dll?db=1860usfedcenancestry&indiv=try&h=46640025), \[2014-10-08\].
-
 5.  [Ancestry.com, Illinois Deaths and Stillbirths Index, 1916-1947 (William J. Butler, brother of Frank E. Butler)](http://search.ancestry.com/cgi-bin/sse.dll?rank=1&new=1&MSAV=0&msT=1&gss=angs-g&gsfn=william+j&gsln=butler&mswpn__ftp=Joliet%2c+Will%2c+Illinois%2c+USA&msbdy=1863&uidh=9rd&pcat=ROOT_CATEGORY&h=2689650&recoff=7+8+9+67&db=FSIllinoisDeath&indiv=1&ml_rpos=1), \[2014-10-08\].
-
 6.
 7.
 8.  [Ancestry.com, 1870 U.S. Federal Census](http://search.ancestry.com/cgi-bin/sse.dll?rank=1&new=1&MSAV=0&gss=angs-g&gsfn=catherine&gsln=butler&mswpn__ftp=Joliet%2c+Will%2c+Illinois%2c+USA&mswpn=39046&mswpn_PInfo=8-%7C0%7C1652393%7C0%7C2%7C3247%7C16%7C0%7C3158%7C39046%7C0%7C&msbdy=1833&msbpn__ftp=ireland&uidh=9rd&pcat=ROOT_CATEGORY&h=16962830&db=1870usfedcen&indiv=1&ml_rpos=1), \[2014-10-08\].
-
 9.  Haugen, B., *Annie Oakley: American Sharpshooter*, Capstone, 2006, p. 88.
-
 10. {{ cite book | last = Kasper | first = Shirl | title = Annie Oakley | publisher = University of Oklahoma Press | date = 1992 | isbn = 0-8061-2418-0 | page = 243 | url = <https://books.google.com/books?id=g1CqL48DUo0C&pg=PA3&source=gbs_toc_r&cad=3#v=onepage&q&f=false> }}
-
 11.

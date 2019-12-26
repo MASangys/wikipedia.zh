@@ -31,7 +31,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/鄭惟安.md" title="wikilink">鄭惟安</a></p></td>
-<td><p>金泰奧</p></td>
+<td><p>金泰吳</p></td>
 <td><p>S.O.U.L的隊長，負責擔當歌唱、舞蹈，即將要解散的組合。</p></td>
 </tr>
 <tr class="odd">
@@ -76,17 +76,17 @@
 <tr class="odd">
 <td><p><a href="../Page/金志珉.md" title="wikilink">金志珉</a></p></td>
 <td><p>朴瑟琪</p></td>
-<td><p>張李利的同班同學，擔任班長。</p></td>
+<td><p>張以立的同班同學，擔任班長。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/權恩彬" title="wikilink">權恩彬</a>（<a href="../Page/CLC.md" title="wikilink">CLC</a>）</p></td>
 <td><p>恩彬</p></td>
-<td><p>S.O.U.L的師妹Applemint成員，與銀星為同期練習生。曾與泰吳交往。</p></td>
+<td><p>S.O.U.L的師妹Applemint成員，與恩星為同期練習生。曾與泰吳交往。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/金慧林" title="wikilink">Lime</a>（<a href="../Page/Hello_Venus.md" title="wikilink">Hello Venus</a>）</p></td>
 <td><p>黃薔薇</p></td>
-<td><p>與銀星、恩彬為同期練習生。</p></td>
+<td><p>與恩星、恩彬為同期練習生。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/池赫拉.md" title="wikilink">池赫拉</a></p></td>
@@ -101,7 +101,7 @@
 <tr class="even">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/請夏" title="wikilink">請夏</a></p></td>
-<td><p>歌手，與妍雨合作。</p></td>
+<td><p>歌手，與延宇合作。</p></td>
 <td></td>
 </tr>
 </tbody>

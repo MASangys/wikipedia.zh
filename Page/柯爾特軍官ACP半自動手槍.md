@@ -20,9 +20,9 @@
 
   -
   -
-  - [SIG M1911袖珍型](../Page/SIG_M1911手槍.md "wikilink")
+  - [SIG M1911袖珍型](https://zh.wikipedia.org/wiki/SIG_M1911半自動手槍 "wikilink")
 
-  - [柯爾特野馬手槍](../Page/柯爾特野馬手槍.md "wikilink")
+  - [柯爾特野馬半自動手槍](../Page/柯爾特野馬半自動手槍.md "wikilink")
 
 ## 資料來源
 
@@ -36,7 +36,7 @@
 
   - —[HLebooks.com—Colt pistol Model Officer](http://www.hlebooks.com/pinterest/officer.htm)
 
-[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:美國半自動手槍](https://zh.wikipedia.org/wiki/Category:美國半自動手槍 "wikilink") [Category:.45_ACP口徑槍械](https://zh.wikipedia.org/wiki/Category:.45_ACP口徑槍械 "wikilink") [Category:M1911衍生型](https://zh.wikipedia.org/wiki/Category:M1911衍生型 "wikilink")
+[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:美國半自動手槍](https://zh.wikipedia.org/wiki/Category:美國半自動手槍 "wikilink") [Category:柯爾特半自動手槍](https://zh.wikipedia.org/wiki/Category:柯爾特半自動手槍 "wikilink") [Category:.45_ACP口徑槍械](https://zh.wikipedia.org/wiki/Category:.45_ACP口徑槍械 "wikilink") [Category:M1911衍生型](https://zh.wikipedia.org/wiki/Category:M1911衍生型 "wikilink")
 
 1.
 2.

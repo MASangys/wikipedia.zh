@@ -17,8 +17,8 @@
 ### 正式出道
 
   - 2016年8月25日，作爲[NCT](../Page/NCT.md "wikilink")青少年聯合隊[NCT Dream成員正式出道](https://zh.wikipedia.org/wiki/NCT_Dream "wikilink")，帶著單曲《[Chewing Gum](../Page/Chewing_Gum.md "wikilink")》出演[Mnet](../Page/Mnet.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》。\[3\]
-  - 2018年5月22日起至今，擔任音樂放送節目《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》的固定MC。
-  - 2019年3月18日起至今，因情人節與組合在NCT官方YouTube頻道上傳的ASMR視頻獲得粉絲熱烈反響，開始做起自己專屬官方頻道單元《J♥SMR》，不定期上傳視頻。
+  - 2018年5月22日，擔任音樂放送節目《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》的固定MC。任期長達554天，於2019年11月26日正式從節目中下車。
+  - 2019年3月18日至6月3日，因情人節與組合在NCT官方YouTube頻道上傳的ASMR視頻獲得粉絲熱烈反響，開始做起自己專屬官方頻道單元《J♥SMR》，不定期上傳視頻。
 
 ## 音樂作品
 
@@ -189,7 +189,7 @@ Jeno（이제노）於[韓國音樂著作權協會](../Page/韓國音樂著作�
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2018年5月22日－至今</p></td>
+<td style="text-align: center;"><p>2018年5月22日－2019年11月26日</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>《<a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a>》</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金龍國" title="wikilink">金龍國</a>、<a href="https://zh.wikipedia.org/wiki/睿恩" title="wikilink">睿恩</a>（<a href="../Page/CLC.md" title="wikilink">CLC</a>）</p></td>

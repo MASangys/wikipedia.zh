@@ -31,25 +31,15 @@ CaPt<sub>2</sub>属[立方晶系](../Page/立方晶系.md "wikilink")，空间�
 [Category:钙化合物](https://zh.wikipedia.org/wiki/Category:钙化合物 "wikilink") [Category:铂化合物](https://zh.wikipedia.org/wiki/Category:铂化合物 "wikilink") [Category:金属间化合物](https://zh.wikipedia.org/wiki/Category:金属间化合物 "wikilink")
 
 1.  Manfred Mangelmann. Thermal stability of binary alloys of noble metals with alkaline earth metals or lanthanides. *Kernforschungszentrum Karlsruhe, \[Ber.\]* \[R\], 1975. CODEN: KKBRAY.
-
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11. Ifan Erfyl Lester STEPHENS, *et al*. [Platinum and palladium alloys suitable as fuel cell electrodes](http://www.google.com/patents/CA2891134A1?cl=en). 2013. CA2891134A1
-
 12. Uwe Berndt, Bernhard Erdmann, Cornelius Keller. [Intermetallic compounds and metal purification](https://patents.google.com/patent/US3994718), 1972. US3994718A
-
 13.

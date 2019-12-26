@@ -159,58 +159,31 @@ Before the discontinuation of the Java browser plug-in, any web page might have 
 [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink") [Category:Java平台軟體](https://zh.wikipedia.org/wiki/Category:Java平台軟體 "wikilink") [Category:Java规范请求](https://zh.wikipedia.org/wiki/Category:Java规范请求 "wikilink") [Category:Java虚拟机](https://zh.wikipedia.org/wiki/Category:Java虚拟机 "wikilink") [Category:基于堆栈的虚拟机](https://zh.wikipedia.org/wiki/Category:基于堆栈的虚拟机 "wikilink")
 
 1.  Bill Venners, *[Inside the Java Virtual Machine](http://www.artima.com/insidejvm/ed2/index.html)* Chapter 5
-
 2.
-
 3.
-
 4.  *[The Java Virtual Machine Specification](http://java.sun.com/docs/books/vmspec/)* (the [first](http://java.sun.com/docs/books/vmspec/html/VMSpecTOC.doc.html) and [second](http://java.sun.com/docs/books/vmspec/2nd-edition/html/VMSpecTOC.doc.html) editions are also available online).
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12. <http://www-sop.inria.fr/everest/Lilian.Burdy/CBR02dsn.pdf>
-
 13. David J. Eck, *[Introduction to Programming Using Java](http://math.hws.edu/javanotes/c1/s3.html)*, Seventh Edition, Version 7.0, August 2014 at Section 1.3 "The Java Virtual Machine"
-
 14. *[Oracle JRockit Introduction](http://docs.oracle.com/cd/E15289_01/doc.40/e15058/underst_jit.htm)* Release R28 at 2. "Understanding Just-In-Time Compilation and Optimization"
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21. Wolfgang Kuehn (decatur). [j2js-compiler](https://github.com/decatur/j2js-compiler) GitHub
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
 28.
-
 29.

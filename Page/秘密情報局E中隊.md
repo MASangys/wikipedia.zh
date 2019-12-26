@@ -31,10 +31,8 @@
 [Category:英國特種部隊](https://zh.wikipedia.org/wiki/Category:英國特種部隊 "wikilink") [Category:秘密情報局](https://zh.wikipedia.org/wiki/Category:秘密情報局 "wikilink") [Category:情報機構特種部隊](https://zh.wikipedia.org/wiki/Category:情報機構特種部隊 "wikilink")
 
 1.  [E Squadron](http://www.eliteukforces.info/e-squadron/)
-
 2.
 3.
 4.  [Inside story of the UK's secret mission to beat Gaddafi](https://www.bbc.co.uk/news/magazine-16573516)
-
 5.
 6.

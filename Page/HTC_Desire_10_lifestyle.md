@@ -25,7 +25,5 @@ HTC Desire 10 lifestyle 32GB 配置 1,300 萬畫素 BSI 主相機，採用 F2.2 
 [Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
 
 1.  [htc-desire-10-lifestyle](https://www.htc.com/tw/smartphones/htc-desire-10-lifestyle/%7CHTC官網)
-
 2.  \[<https://www.sogi.com.tw/products/htc_desire_10_lifestyle/12802#spec>| HTC Desire 10 lifestyleSOGI手機王\]
-
 3.

@@ -239,6 +239,13 @@ VIC</p></td>
 <li>趙品霖、AJ未參與節目錄製。</li>
 </ul></td>
 </tr>
+<tr class="even">
+<td><p>2019年9月17日、9月22日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/少年威計劃" title="wikilink">少年威計劃</a></p></td>
+<td><p><a href="../Page/优酷.md" title="wikilink">优酷</a></p></td>
+<td><p>全體</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

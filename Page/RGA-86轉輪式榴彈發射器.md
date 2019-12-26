@@ -1,4 +1,4 @@
-**RGA-86**（[全寫](../Page/縮寫.md "wikilink")：，意為：1986年型號手持式自動榴彈發射器）是一具由[波兰](https://zh.wikipedia.org/wiki/波兰 "wikilink")當中，S·西謝爾斯基、M·柴拉斯基、S·迪里茲基、H·哥別斯基、W·科佩爾尼斯基、J·帕洛斯基和R·波茲斯基所組成的研究團隊在1983年起設計並且在1986年開始生產的警用型[雙動操作](https://zh.wikipedia.org/wiki/扳機 "wikilink")15連發[轉輪式](https://zh.wikipedia.org/wiki/榴弹发射器#转轮式榴弹发射器 "wikilink")[肩射型](https://zh.wikipedia.org/wiki/榴彈發射器#肩射型 "wikilink")[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，發射26毫米榴彈。
+**RGA-86**（[全寫](../Page/縮寫.md "wikilink")：，意為：1986年型號手持式自動榴彈發射器）是一具由[波兰](https://zh.wikipedia.org/wiki/波兰 "wikilink")當中，S·西謝爾斯基、M·柴拉斯基、S·迪里茲基、H·哥別斯基、W·科佩爾尼斯基、J·帕洛斯基和R·波茲斯基所組成的研究團隊在1983年起設計並且在1986年開始生產的警用型[雙動操作](https://zh.wikipedia.org/wiki/扳機 "wikilink")15連發[轉輪式](https://zh.wikipedia.org/wiki/榴弹发射器#转轮式榴弹发射器 "wikilink")[肩射型](https://zh.wikipedia.org/wiki/榴彈發射器#肩射型 "wikilink")[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，發射26毫米[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[榴彈](https://zh.wikipedia.org/wiki/榴彈 "wikilink")。
 
 ## 歷史
 
@@ -42,6 +42,8 @@ RGA-86預定被警察、警備的單位和分隊使用。
   - [阿森納雪崩轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/阿森納雪崩轉輪式榴彈發射器 "wikilink")
 
   - [阿森納MSGL轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/阿森納MSGL轉輪式榴彈發射器 "wikilink")
+
+  - [HK369轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/HK369轉輪式榴彈發射器 "wikilink")
 
   - [LG4轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/LG4轉輪式榴彈發射器 "wikilink")
 

@@ -59,6 +59,8 @@ Kaduho對生物或是[UMA有所喜好](https://zh.wikipedia.org/wiki/未確認�
       - 偶像大師 灰姑娘女孩 Shuffle\!\!
   - [Splatoon](../Page/Splatoon.md "wikilink")
       - Splatoon 4格\&Play漫畫
+  - [笨拙之極的上野](../Page/笨拙之極的上野.md "wikilink")
+      - 笨拙之極的上野 6冊限定版 官方選集小冊子【上野本】
 
 ### 插圖
 
@@ -95,17 +97,11 @@ Kaduho對生物或是[UMA有所喜好](https://zh.wikipedia.org/wiki/未確認�
 [Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink") [Category:栃木縣出身人物](https://zh.wikipedia.org/wiki/Category:栃木縣出身人物 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.

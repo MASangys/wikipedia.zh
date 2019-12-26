@@ -21,20 +21,12 @@
 [Category:卡拉OK](https://zh.wikipedia.org/wiki/Category:卡拉OK "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.

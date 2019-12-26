@@ -94,5 +94,4 @@ MAC地址欺骗技术的影响仅限于本地[广播域](https://zh.wikipedia.or
 [Category:入侵_(计算机安全)](https://zh.wikipedia.org/wiki/Category:入侵_\(计算机安全\) "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 
 1.
-
 2.

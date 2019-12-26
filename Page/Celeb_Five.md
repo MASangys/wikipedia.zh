@@ -140,6 +140,8 @@
   - 2018年11月23日 - [KBS2](../Page/KBS第2频道.md "wikilink") [柳喜烈的寫生簿](../Page/柳喜烈的寫生簿.md "wikilink")
   - 2019年2月8日 - 2019年4月19日 [KBS2](../Page/KBS第2频道.md "wikilink") The Hit（ [宋恩伊](../Page/宋恩伊.md "wikilink") ， [金信英](../Page/金信英.md "wikilink") ）
   - 2019年6月4日 - 2019年8月20日 JTBC2 판벌려 - 이번 판은 한복판
+  - 2019年9月25日 - MBC EVERY1 [Weekly Idol](../Page/Weekly_Idol.md "wikilink") 第3季
+  - 2019年10月19日 - [JTBC](../Page/JTBC.md "wikilink") [認識的哥哥](../Page/認識的哥哥.md "wikilink")
 
 ### 電台
 

@@ -9,7 +9,5 @@
 [Category:离子通道](https://zh.wikipedia.org/wiki/Category:离子通道 "wikilink")
 
 1.
-
 2.
-
 3.

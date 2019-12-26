@@ -218,6 +218,17 @@ ISBN 978-4-8156-0097-6<br />
 <td><p>2019年8月9日</p></td>
 <td><p>ISBN 978-4-8156-0274-1</p></td>
 </tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>2019年12月12日</p></td>
+<td><p>ISBN 978-4-8156-0275-8</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>2020年4月16日</p></td>
+<td><p>ISBN 978-4-8156-0276-5<br />
+（附加廣播劇CD特別版）</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -247,6 +258,14 @@ ISBN 978-4-8156-0097-6<br />
 <td><p>3</p></td>
 <td><p>2018年11月13日</p></td>
 </tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2019年4月12日</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2019年9月12日</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -254,12 +273,18 @@ ISBN 978-4-8156-0097-6<br />
 
 ### 做了1500年的公務員，屈服於魔王當上大臣了
 
+### 精靈的飯
+
 ### 紅龍女子學院
 
 ## 外部連結
 
   - [持續狩獵史萊姆三百年，不知不覺就練到LV MAX](https://ncode.syosetu.com/n4483dj/) 在[成為小說家吧](../Page/成為小說家吧.md "wikilink")連載的網頁。
+
   - [GA文庫特設網站](https://ga.sbcr.jp/sp/slime/index.html)
+
   - [漫畫官方網站](http://www.ganganonline.com/contents/slime/)
+
+  -
 
 [Category:2017年小說](https://zh.wikipedia.org/wiki/Category:2017年小說 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:成為小說家吧](https://zh.wikipedia.org/wiki/Category:成為小說家吧 "wikilink") [Category:日本奇幻小說](https://zh.wikipedia.org/wiki/Category:日本奇幻小說 "wikilink") [Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")

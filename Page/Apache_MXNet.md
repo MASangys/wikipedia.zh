@@ -36,4 +36,4 @@ MXNet支持将受过训练的模型高效部署到低端设备，例如移动设
 5.
 6.
 7.
-8.  \[<https://mxnet.incubator.apache.org/faq/smart_device.html> Amalgamation
+8.  \[<https://mxnet.incubator.apache.org/faq/smart_device.html>  Amalgamation

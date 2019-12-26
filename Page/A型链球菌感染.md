@@ -45,34 +45,19 @@ A组链球菌的一些菌株可以导致严重感染，而这些严重感染通�
 [Category:链球菌](https://zh.wikipedia.org/wiki/Category:链球菌 "wikilink") [Category:链球菌感染](https://zh.wikipedia.org/wiki/Category:链球菌感染 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.

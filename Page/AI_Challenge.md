@@ -34,7 +34,7 @@
 3.
 4.
 5.  [There's a new Google AI Challenge: Planet Wars (Galcon clone) : lisp](https://www.reddit.com/r/lisp/comments/da47y/theres_a_new_google_ai_challenge_planet_wars/)
-6.  [Gábor Melis' () blog - Planet Wars Post-Mortem](http://quotenil.com/Planet-Wars-Post-Mortem.html)
+6.
 7.  [Hungarian Lisp developer walks away with Google AI contest | ZDNet](http://www.zdnet.com/blog/burnette/hungarian-lisp-developer-walks-away-with-google-ai-contest/2131)
 8.  [AI Challenge Fall 2011 - Ants Now Open](https://www.reddit.com/r/programming/comments/ljk4v/ai_challenge_fall_2011_ants_now_open/)
 9.  [Xathis' User Profile](http://ants.aichallenge.org/profile.php?user=4513)

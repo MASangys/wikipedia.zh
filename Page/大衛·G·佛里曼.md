@@ -19,5 +19,5 @@
 [Category:美國退役羽毛球運動員](https://zh.wikipedia.org/wiki/Category:美國退役羽毛球運動員 "wikilink") [Category:羽毛球名人堂入選者](https://zh.wikipedia.org/wiki/Category:羽毛球名人堂入選者 "wikilink") [Category:波莫納學院校友](https://zh.wikipedia.org/wiki/Category:波莫納學院校友 "wikilink") [Category:哈佛醫學院校友](https://zh.wikipedia.org/wiki/Category:哈佛醫學院校友 "wikilink")
 
 1.
-2.  [Hickok Sports: Freeman, David G.](http://hickoksports.com/biograph/freemandavid.shtml)
+2.
 3.

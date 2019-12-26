@@ -233,74 +233,39 @@ Flink的[表API](https://ci.apache.org/projects/flink/flink-docs-release-1.2/dev
 [Category:自由系統軟體](https://zh.wikipedia.org/wiki/Category:自由系統軟體 "wikilink") [Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink") [Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink") [Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink") [Category:Apache软件基金会项目](https://zh.wikipedia.org/wiki/Category:Apache软件基金会项目 "wikilink") [Category:使用过时图像语法的页面](https://zh.wikipedia.org/wiki/Category:使用过时图像语法的页面 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink") [Category:串流處理](https://zh.wikipedia.org/wiki/Category:串流處理 "wikilink")
 
 1.
-
 2.
-
 3.  Alexander Alexandrov, Rico Bergmann, Stephan Ewen, Johann-Christoph Freytag, Fabian Hueske, Arvid Heise, Odej Kao, Marcus Leich, Ulf Leser, Volker Markl, Felix Naumann, Mathias Peters, Astrid Rheinländer, Matthias J. Sax, Sebastian Schelter, Mareike Höger, Kostas Tzoumas, and Daniel Warneke. 2014. *The Stratosphere platform for big data analytics*. The VLDB Journal 23, 6 (December 2014), 939-964. [DOI](https://dx.doi.org/10.1007/s00778-014-0357-y)
-
 4.
-
 5.
-
 6.  Stephan Ewen, Kostas Tzoumas, Moritz Kaufmann, and Volker Markl. 2012. *Spinning fast iterative data flows*. Proc. VLDB Endow. 5, 11 (July 2012), 1268-1279. [DOI](https://dx.doi.org/10.14778/2350229.2350245)
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12. Fabian Hueske, Mathias Peters, Matthias J. Sax, Astrid Rheinländer, Rico Bergmann, Aljoscha Krettek, and Kostas Tzoumas. 2012. *Opening the black boxes in data flow optimization*. Proc. VLDB Endow. 5, 11 (July 2012), 1256-1267. [DOI](https://dx.doi.org/10.14778/2350229.2350244)
-
 13. Daniel Warneke and Odej Kao. 2009. *Nephele: efficient parallel data processing in the cloud*. In Proceedings of the 2nd Workshop on Many-Task Computing on Grids and Supercomputers (MTAGS '09). ACM, New York, NY, USA, Article 8, 10 pages. [DOI](http://doi.acm.org/10.1145/1646468.1646476)
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
 23.
-
 24.
-
 25.
-
 26.
-
 27.  Google Cloud Big Data and Machine Learning Blog {{\!}} Google Cloud Platform|accessdate=2017-02-24|work=Google Cloud Platform|language=en}}
-
 28.
-
 29.  FlinkForward {{\!}} 12-14 Sep 2016 {{\!}} Berlin|website=2016.flink-forward.org|language=en-US|access-date=2017-02-24}}
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.

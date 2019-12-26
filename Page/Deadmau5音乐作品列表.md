@@ -1526,37 +1526,29 @@ Dance</a></small><br />
 1.
 2.
 3.
-
 4.
 5.
 6.
 7.
 8.
 9.  <https://web.archive.org/web/20070819015038/http://www.sectionz.com/album_detail.asp?albumID=183>
-
 10.
-
 11.
 12.
 13.
-
 14.
 15.
 16.
 17. [αCharts.us - Performer: Deadmau5](http://acharts.us/performer/deadmau5)
-
 18.
 19.
 20.
 21.
-
 22.
-
 23.
 24.
 25.
 26.
 27.
 28.
-
 29.

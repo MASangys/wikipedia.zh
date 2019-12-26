@@ -102,28 +102,20 @@
 [Category:上海商業人物](https://zh.wikipedia.org/wiki/Category:上海商業人物 "wikilink") [Category:上海公共租界工部局](https://zh.wikipedia.org/wiki/Category:上海公共租界工部局 "wikilink")
 
 1.  "England and Wales Birth Registration Index, 1837-2008: Albert Robson Burkill" (retrieved on 8 June 2019)
-
 2.
 3.  *Yorkshire Gazette* (20 April 1839)
-
 4.  "Manningham Mill people" (retrieved on 8 June 2019)
-
 5.
 6.  "[Issue 22196](https://www.thegazette.co.uk/London/issue/22196/page/4652)", *The London Gazette*, 2 November 1858, p.4652.
-
 7.  "[Issue 7095](https://www.thegazette.co.uk/Edinburgh/issue/7095/page/263)", *The Edinburgh Gazette*, 22 February 1861, p.263.
-
 8.  "[Issue 22747](https://www.thegazette.co.uk/London/issue/22747/page/3192)", *The London Gazette*, 23 June 1863, p.3192.
-
 9.
 10. "Obituary: Mr A. R. Burkill" (6 December 1913)
-
 11.
 12.
 13.
 14.
 15. Wright (1908), p.622.
-
 16.
 17.
 18.
@@ -131,33 +123,22 @@
 20.
 21.
 22. "Former Foreign Colonies and Major Concessions in China" (retrieved on 8 June 2019)
-
 23. *North China Herald* (15 August 1900)
-
 24. 〈第二節：縣鎮級類〉（1998年）
-
 25. "[Charles Cromie, deceased](http://sunzi.lib.hku.hk/hkgro/view/g1896/640591.pdf)", *The Hongkong Government Gazette*, 14 November 1896, p.1067.
-
 26.
 27.
 28.
 29.
 30.
 31. "Death of Mr. A. R. Burkill" (13 December 1913)
-
 32. "Burkill, Albert Robson" (1915), p.299.
-
 33.
 34. "England and Wales Death Registration Index 1837-2007: Clementina C L Burkill" (retrieved on 8 June 2019)
-
 35. "Journal of a Voyage to China by James Dow" (retrieved on 8 June 2019)
-
 36. *The Saturday Review of Politics, Literature, Science, and Art* (1870), p.428.
-
 37. "Mr A. W. Burkill - Prominent S'hai Resident Passes - Keen Sportsman" (22 January 1952)
-
 38. "England and Wales Death Registration Index 1837-2007: Charles R Burkill" (retrieved on 8 June 2019)
-
 39.
 40.
 41.

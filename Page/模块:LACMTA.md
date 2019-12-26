@@ -21,18 +21,18 @@ end
 
 local t1 = {
 
+`   ['Blue Line'] = { 'blue line', 'blue', 'a line', 'line a', 'a', icon='img_circle', dab=true, },`
+`   ['Red Line'] = { 'red line', 'red', 'b line', 'line b', 'b', icon='img_circle', dab=true, },`
+`   ['Green Line'] = { 'green line', 'green', 'c line', 'line c', 'c',  icon='img_circle', dab=true, }, `
+`   ['Purple Line'] = { 'purple line', 'purple', 'd line', 'line d', 'd', icon='img_circle', dab=true, },`
+`   ['Expo Line'] = { 'expo line', 'expo', 'e line', 'line e', 'e', icon='img_circle', dab=true, }, `
+`   ['Orange Line'] = { 'orange line', 'orange', 'f line', 'line f', 'f', icon='img_square', dab=true, },   `
+`   ['Silver Line'] = { 'silver line', 'silver',  'g line', 'line g', 'g', icon='img_square', dab=true, },  `
+`   ['Gold Line'] = { 'gold line', 'gold', 'j line', 'line j', 'j', icon='img_circle', dab=true, }, `
+`   ['Crenshaw/LAX Line'] = { 'crenshaw/lax line', 'crenshaw/lax', 'crenshaw line', 'crenshaw',  icon='crenshaw', dab=true,},`
 `   ['Harbor Transitway'] = { 'harbor transitway', 'harbor', color='#B8860B', icon='colorbox', },`
 `   ['El Monte Busway'] = { 'el monte busway', 'el monte', color='#B8AD93', icon='colorbox', },`
 `   ['Regional Connector Transit Corridor'] = { 'regional connector transit corridor', 'regional connector', 'regional', color='#604020', icon='colorbox', },`
-`   ['Orange Line'] = { 'orange line', 'orange', icon='img_square', dab=true, },`
-`   ['Red Line'] = { 'red line', 'red', icon='img_circle', dab=true, },`
-`   ['Purple Line'] = { 'purple line', 'purple', icon='img_circle', dab=true, },`
-`   ['Blue Line'] = { 'blue line', 'blue', icon='img_circle', dab=true, },`
-`   ['Expo Line'] = { 'expo line', 'expo', icon='img_circle', dab=true, },`
-`   ['Green Line'] = { 'green line', 'green', icon='img_circle', dab=true, },`
-`   ['Gold Line'] = { 'gold line', 'gold', icon='img_circle', dab=true, },`
-`   ['Crenshaw/LAX Line'] = { 'crenshaw/lax line', 'crenshaw/lax', 'crenshaw line', 'crenshaw',  icon='crenshaw', },`
-`   ['Silver Line'] = { 'silver line', 'silver', icon='img_square', dab=true, },`
 
 }
 
@@ -49,8 +49,30 @@ function p._icon(args)
 `       for _, name in ipairs(v) do`
 `           if mw.ustring.lower(code) == name then`
 `               if v.dab == true then`
-`                   link = k..' (Los Angeles Metro)'`
-`                   if showtext then showtext = '`[`'..k..'`](https://zh.wikipedia.org/wiki/'..link..' "wikilink")` ' else showtext = '' end`
+`                   if k=='Red Line' then CName= '红线'`
+`                   elseif k=='Blue Line' then CName= '蓝线'`
+`                   elseif k=='Green Line' then CName= '绿线'`
+`                   elseif k=='Expo Line' then CName= '博览线'`
+`                   elseif k=='Purple Line' then CName= '紫线'`
+`                   elseif k=='Gold Line' then CName= '金线'`
+`                   elseif k=='Crenshaw/LAX Line' then CName= '克伦肖／洛杉矶国际机场线'`
+`                   elseif k=='Orange Line'then `
+`                       Mode='快速公交'`
+`                       CName= '橙线'`
+`                   elseif k=='Silver Line'then `
+`                       Mode='快速公交'`
+`                       CName= '银线'`
+`                   else`
+`                       CNAME = k   --  Someone Finish THis`
+`                   end`
+`               `
+`                   if Mode == '快速公交' or Mode == '轻轨' then`
+`                       link = '洛杉矶'..Mode..CName`
+`                   else`
+`                       link = '洛杉矶地铁'..CName`
+`                   end`
+`                           `
+`                   if showtext then showtext = '`[`'..CName..'`](https://zh.wikipedia.org/wiki/'..link..' "wikilink")` ' else showtext = '' end`
 `               else`
 `                   link = k`
 `                   if showtext then showtext = '`[`'..k..'`](https://zh.wikipedia.org/wiki/'..k..' "wikilink")` ' else showtext = '' end`

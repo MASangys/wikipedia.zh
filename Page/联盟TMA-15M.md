@@ -21,15 +21,9 @@
 [Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink") [Category:2014年發射的太空飛行器](https://zh.wikipedia.org/wiki/Category:2014年發射的太空飛行器 "wikilink")
 
 1.
-
 2.
-
 3.  [Пилотируемый космический корабль «Союз ТМА-15М» доставлен на стартовый комплекс](http://www.federalspace.ru/21134/)
-
 4.  [Запуск пилотируемого корабля «Союз» с экипажем следующей экспедиции на МКС перенесен](http://tass.ru/kosmos/1963477)
-
 5.
-
 6.
-
 7.

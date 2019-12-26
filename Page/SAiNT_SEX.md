@@ -21,7 +21,7 @@
 
   - 2月6日 – SAiNT SEX使用東京偶像節2018的新陣容向音樂商店發布了重新錄製的WACK FXXK版本。\[9\]\[10\]。
   - 5月11日 –由於解散，ゴ・ジーラ和アヤ・エイトプリンス離開WACK。\[11\]\[12\]\[13\]。
-  - 8月4日 – 在「TOKYO IDOL FESTIVAL 2019」宣布，[EMPiRE和](../Page/EMPiRE_\(偶像團體\).md "wikilink")[Curry Roux的成員加入並進行現場表演](../Page/Curry_Roux.md "wikilink")。分別是パン・ルナリーフィ和NOW EMPiRE。\[14\]
+  - 8月4日 – 在「TOKYO IDOL FESTIVAL 2019」宣布，[CARRY LOOSE和](../Page/CARRY_LOOSE.md "wikilink")[EMPiRE的成員加入並進行現場表演](../Page/EMPiRE_\(偶像團體\).md "wikilink")。分別是パン・ルナリーフィ和NOW EMPiRE。\[14\]
 
 ## 成員
 
@@ -69,7 +69,7 @@
 <tr class="even">
 <td><p>パン・ルナリーフィ</p></td>
 <td><p>8月18日</p></td>
-<td><p>是Curry Roux的成員。<br />
+<td><p>是CARRY LOOSE的成員。<br />
 </p></td>
 </tr>
 <tr class="odd">
@@ -274,34 +274,19 @@
 [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
 
 1.  [BiSH、BiS、GANG PARADEメンバーからなるSAiNT SEXが「WACK is FXXK」発売](https://natalie.mu/music/news/251166)
-
 2.  [SAiNT SEX “WACK is FXXK” BiS、BiSH、GANG PARADEメンバーによる選抜ユニットが誕生\!](http://mikiki.tokyo.jp/articles/-/15462)
-
 3.  [松隈ケンタ率いる2組（GHOST ORACLE DRiVE/SAiNT SEX）WACKフェス出演決定！ BiS/BiSH/GANG PARADE/EMPiRE大集合](http://www.billboard-japan.com/d_news/detail/58161)
-
 4.  [タワーレコード『WACK SHOP』、来年1月より期間限定復活！](https://popnroll.tv/articles/1122)
-
 5.  [BiS『WHOLE LOTTA LOVE / DiPROMiSE』プー・ルイ卒業＆新体制初インタビュー](http://www.billboard-japan.com/special/detail/2264)
-
 6.  [【ライブレポート】BiSプー・ルイが卒業「私の人生の1番の汚点であり、1番の誇りです」](https://www.barks.jp/news/?id=1000152503)
-
 7.  [BiS、プー・ルイの突然の卒業発表にライブ会場騒然！「壮大な嫌がらせをして、わたしはいなくなりたいと思います」](https://www.m-on-music.jp/0000247259/)
-
 8.  [10年目の「TIF」](https://natalie.mu/music/news/343118)
-
 9.  [WACK所属 SAiNT SEX『WACK is FXXK』の再録盤発売！タワーレコード一部店舗にて2000枚限定でゲリラ発売。](https://tower.jp/article/news/2019/02/06/n101)
-
 10. [SAiNT SEXが新アーティスト写真解禁＆BiSゴ・ジーラ参加曲を2,000枚限定ゲリラ発売](http://www.billboard-japan.com/d_news/detail/72309)
-
 11. [BiS、解散を発表。再結成オーディション開催を同時告知](https://popnroll.tv/articles/2231)
-
 12. [第2期BiSがラストライブを終え解散、9人はそれぞれの未来へ](https://natalie.mu/music/news/331063)
-
 13. [BiS 解散発表で“終わりのはじまり”ラストツアー突入「「この時代のBiSも伝説になった」と言われるようなBiSを残したい」](http://www.billboard-japan.com/d_news/detail/74822/)
-
 14. [素顔非公開のアイドルお披露目サプライズ “大人の魅力”全開コラボも 【TIF2019】3日目リポート](https://www.fnn.jp/posts/00047559HDK/201908051158_FNNjpeditorsroom_HDK)
-
 15.
-
 16.
 17. [WACK所属 SAiNT SEX『WACK is FXXK』の再録盤発売！タワーレコード一部店舗にて2000枚限定でゲリラ発売。](https://tower.jp/article/news/2019/02/06/n101)

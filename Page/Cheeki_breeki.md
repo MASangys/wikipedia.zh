@@ -60,29 +60,17 @@ V Damku - 脑门！字面意思是“皇冠”。这是一个俚语用法。
 [Category:网络文化](https://zh.wikipedia.org/wiki/Category:网络文化 "wikilink") [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.

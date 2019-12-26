@@ -2,7 +2,7 @@
 
 ## 故事
 
-魯邦連者最終進入了九連者的宇宙，巡邏連者與九連者合作找到了他們。與此同時，Don Arkage邀請Gangler成員獲得Jark Matter的隱藏寶藏，讓Don Armage成為他宇宙的統治者。
+九連者最終進入了魯邦連者的宇宙，巡邏連者與九連者合作找到了他們。與此同時，Don Arkage邀請Gangler成員獲得Jark Matter的隱藏寶藏，讓Don Armage成為他宇宙的統治者。
 
 ## 本作登場人物
 
@@ -18,7 +18,7 @@
   - 陽川咲也 / 巡邏連2號（聲） - [橫山涼](https://zh.wikipedia.org/wiki/橫山涼 "wikilink")
   - 早見初美花 / 魯邦黃（聲） - [工藤遙](../Page/工藤遙.md "wikilink")
   - 明神司紗 / 巡邏連3號（聲） - [奧山和紗](https://zh.wikipedia.org/wiki/奧山和紗 "wikilink")
-  - 高尾諾埃爾 / 魯邦X（聲） / 巡邏連X（聲） - [元木聖也](https://zh.wikipedia.org/wiki/元木聖也 "wikilink")
+  - 高尾諾爾 / 魯邦X（聲） / 巡邏連X（聲） - [元木聖也](https://zh.wikipedia.org/wiki/元木聖也 "wikilink")
   - 小暮先生 - [溫水洋一](../Page/溫水洋一.md "wikilink")
   - Hilltop管理官 - [艾克·瓦拉](https://zh.wikipedia.org/wiki/艾克·瓦拉 "wikilink")（超新塾）
 
@@ -32,6 +32,10 @@
   - 佐久間小太郎 / 小熊天藍（聲） - [田口翔大](https://zh.wikipedia.org/wiki/田口翔大 "wikilink")
   - 鳳劍岳 / 鳳凰士兵（聲） - [南圭介](https://zh.wikipedia.org/wiki/南圭介 "wikilink")
   - Hoshi★Minato - [松本寬也](../Page/松本寬也.md "wikilink")
+
+### 動物戰隊獸王者演員
+
+  - 門藤操 / 獸王世界（聲）-[國島直希](../Page/國島直希.md "wikilink")
 
 ### 配音演出
 

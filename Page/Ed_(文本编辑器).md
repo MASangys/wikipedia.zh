@@ -94,16 +94,10 @@ ed命令在其他基于行的编辑器中经常被模仿。例如，在早期版
 [Category:Unix文本编辑器](https://zh.wikipedia.org/wiki/Category:Unix文本编辑器 "wikilink") [Category:MacOS软件](https://zh.wikipedia.org/wiki/Category:MacOS软件 "wikilink") [Category:标准Unix程序](https://zh.wikipedia.org/wiki/Category:标准Unix程序 "wikilink") [Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink") [Category:控制台应用程序](https://zh.wikipedia.org/wiki/Category:控制台应用程序 "wikilink")
 
 1.
-
 2.
-
 3.  The Peter H. Salus, Daemon, the Gnu and the Penguin. Ch. 2 & 3. Thursday, April 14, 2005 @ 10:56 PM EDT. <http://www.groklaw.net/article.php?story=20050414215646742> Accessed 10/29/2015.
-
 4.  D. M. Ritchie and K. L. Thompson, "QED Text Editor", [MM-70-1373-3](https://wayback.archive-it.org/all/20150203071645/http://cm.bell-labs.com/cm/cs/who/dmr/qedman.pdf) (June 1970), reprinted as "QED Text Editor Reference Manual", MHCC-004, Murray Hill Computing, Bell Laboratories (October 1972).
-
 5.
-
 6.
 7.
-
 8.  Administering SQL\*Plus. <https://docs.oracle.com/cd/E11882_01/server.112/e10839/admn_sqlpls.htm#UNXAR166> Accessed 7/23/2016.

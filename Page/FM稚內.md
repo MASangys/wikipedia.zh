@@ -98,29 +98,17 @@
 [Category:日本廣播電台](https://zh.wikipedia.org/wiki/Category:日本廣播電台 "wikilink") [Category:稚內市](https://zh.wikipedia.org/wiki/Category:稚內市 "wikilink") [Category:1996年日本建立](https://zh.wikipedia.org/wiki/Category:1996年日本建立 "wikilink") [Category:1996年成立的公司](https://zh.wikipedia.org/wiki/Category:1996年成立的公司 "wikilink")
 
 1.  [FMわっぴ～が移転しました！](http://www.wappy761.jp/djblog/2018/04/fm-1.shtml) FMわっぴ～ パーソナリティーブログ杉谷賢俊 2018年4月19日
-
 2.
 3.  [稚内市のコミュニティ放送局に免許](http://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/hokkaido/C/C96/c96.htm#7) 北海道電気通信監理局 報道資料 平成8年6月28日（[國立國會圖書館](../Page/國立國會圖書館.md "wikilink")のアーカイブ:2009年7月22日収集）
-
 4.  [稚内コミュニティ放送局が出力アップ！！](http://warp.da.ndl.go.jp/info:ndljp/pid/286922/www.soumu.go.jp/soutsu/hokkaido/C/C99/c991101.htm) 同上 報道資料 平成11年11月1日（同上:同日収集）
-
 5.  [利尻町エリアでコミュニティFMが本放送開始 − エフエムわっかない利尻中継局に免許 −](http://warp.da.ndl.go.jp/info:ndljp/pid/11036692/www.soumu.go.jp/soutsu/hokkaido/2017/1214r.html) 北海道総合通信局 報道資料 平成29年12月14日（同上:2018年1月4日収集）
-
 6.  [放送普及基本計画の一部改正案等に対し提出された意見及び総務省の考え方](http://warp.da.ndl.go.jp/info:ndljp/pid/8406622/www.soumu.go.jp/main_content/000025617.pdf)No.58株式会社エフエムわっかないおよびNo.10稚内市　放送普及基本計画の一部変更案に係る電波監理審議会の答申及び意見募集の結果－コミュニティ放送に係る規定の整備－ 総務省 報道資料 平成21年6月10日の別紙（同上:2014年1月7日収集）
-
 7.  [利尻へGO！](https://web.archive.org/web/20171107165816/http://www.wappy761.jp/information/go.shtml) FMわっぴ～ 新着情報一覧 2017年11月4日（[Internet Archiveのアーカイブ](https://zh.wikipedia.org/wiki/Internet_Archive "wikilink"):2017年11月7日収集）
-
 8.
 9.  （注）10（e-Gov法令検索）
-
 10. [スマホアプリが出来ました！](http://www.wappy761.jp/information/post-119.shtml) FMわっぴ～ 新着情報一覧 2018年2月27日
-
 11. [スタジオ移転に伴うお知らせ](http://www.wappy761.jp/information/post-123.shtml) 同上 2018年4月2日
-
 12. [遊びに来て下さい！](http://www.wappy761.jp/information/post-126.shtml) 同上 2018年4月14日
-
 13. [利尻町全域でコミュニティFMが聴取可能に](http://www.soumu.go.jp/soutsu/hokkaido/2018/1016.html) - 総務省北海道総合通信局、2018年10月16日配信、2018年10月17日閲覧
-
 14.  広報わっかない2013年10月号p.4（国立国会図書館のアーカイブ:2013年10月16日収集）
-
 15. [緊急告知防災ラジオについて](http://warp.da.ndl.go.jp/info:ndljp/pid/8232090/www.city.wakkanai.hokkaido.jp/kurashi/bosaibohankotsuanzen/bosai/radio.html) 稚内市（同上:2013年7月6日収集）

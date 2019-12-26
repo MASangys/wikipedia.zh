@@ -121,53 +121,37 @@ Kepler架构的GPU的理论单精度浮点运算能力以[每秒浮點運算次�
 
 ## 参考文献
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:英伟达微架构](https://zh.wikipedia.org/wiki/Category:英伟达微架构 "wikilink") [Category:圖形微架构](https://zh.wikipedia.org/wiki/Category:圖形微架构 "wikilink") [Category:2012年面世](https://zh.wikipedia.org/wiki/Category:2012年面世 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.
 11.
 12.
 13.
-
 14.
 15.
 16.
 17.
-
 18.
-
 19.
 20.
-
 21.
 22.
-
 23.
 24.
-
 25.
 26.
 27.
 28.
-
 29.
-
 30.
 31.
-
 32.

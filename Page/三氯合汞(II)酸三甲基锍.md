@@ -20,6 +20,5 @@
 [Category:三甲基锍盐](https://zh.wikipedia.org/wiki/Category:三甲基锍盐 "wikilink") [Category:汞配合物](https://zh.wikipedia.org/wiki/Category:汞配合物 "wikilink") [Category:氯配合物](https://zh.wikipedia.org/wiki/Category:氯配合物 "wikilink") [Category:1970年代发现的物质](https://zh.wikipedia.org/wiki/Category:1970年代发现的物质 "wikilink")
 
 1.
-
 2.
 3.

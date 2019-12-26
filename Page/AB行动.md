@@ -45,23 +45,15 @@ AB行动的受害者包括、、、、[雅努什·库索辛斯基](../Page/雅�
 [Category:猶太人大屠殺](https://zh.wikipedia.org/wiki/Category:猶太人大屠殺 "wikilink")
 
 1.
-
 2.  Chapter "Hitler's Plans for Poland. " Noakes and Pridham, *[Nazism: A History in Documents](http://www2.dsu.nodak.edu/users/dmeier/Holocaust/ghettoization.html)*, p. 988.
-
 3.
 4.  "Poles: Victims of the Nazi Era" at the
-
 5.
-
 6.  Noakes and Pridham, *[Nazism: A History in Documents](http://www2.dsu.nodak.edu/users/dmeier/Holocaust/ghettoization.html)*, p. 965.
-
 7.
 8.  Maria Wardzyńska, *Był rok 1939. Operacja niemieckiej policji bezpieczeństwa w Polsce. Intelligenzaktion*. IPN Instytut Pamięci Narodowej, 2009
-
 9.  Maria Wardzyńska, *Był rok 1939. Operacja niemieckiej policji bezpieczeństwa w Polsce. Intelligenzaktion*. IPN Instytut Pamięci Narodowej, 2009
-
 10. Meier, Anna. *Die Intelligenzaktion: Die Vernichtung Der Polnischen Oberschicht Im Gau Danzig-Westpreusen*, VDM Verlag Dr. Müller. ; .
-
 11.
 12.
 13.

@@ -2,40 +2,6 @@
 
 ## 韩语作品
 
-### 数位单曲
-
-<table>
-<thead>
-<tr class="header">
-<th><p>单曲</p></th>
-<th><p>单曲资料</p></th>
-<th><p>曲目</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>1st</strong></p></td>
-<td><p><strong>《<a href="../Page/HANN_(Alone).md" title="wikilink">HANN (Alone)</a>》</strong>[1]</p>
-<ul>
-<li>发行日期：2018年8月14日</li>
-<li>语言：韩语</li>
-<li>类型：Dance</li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>2nd</strong></p></td>
-<td><p><strong>《<a href="../Page/Uh-Oh.md" title="wikilink">Uh-Oh</a>》</strong>[2]</p>
-<ul>
-<li>发行日期：2019年6月26日</li>
-<li>语言：韩语</li>
-<li>类型：Rap/Hip-hop</li>
-</ul></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
 ### 迷你专辑
 
 <table>
@@ -49,7 +15,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p><strong>《<a href="../Page/I_am.md" title="wikilink">I am</a>》</strong>[3]</p>
+<td><p><strong>《<a href="../Page/I_am.md" title="wikilink">I am</a>》</strong>[1]</p>
 <ul>
 <li>发行日期：2018年5月2日</li>
 <li>语言：韩语</li>
@@ -70,7 +36,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p><strong>《<a href="../Page/I_made.md" title="wikilink">I made</a>》</strong>[4]</p>
+<td><p><strong>《<a href="../Page/I_made.md" title="wikilink">I made</a>》</strong>[2]</p>
 <ul>
 <li>发行日期：2019年2月26日</li>
 <li>语言：韩语</li>
@@ -78,9 +44,42 @@
 <li>销量：34,104+<ref>Gaon Album Chart专辑销量排名《I made》</li>
 <li><a href="http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=02&amp;hitYear=2019&amp;termGbn=month">2019年GAON 2月专辑榜10位</a></li>
 <li><a href="http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=03&amp;hitYear=2019&amp;termGbn=month">2019年GAON 3月专辑榜39位</a></li>
-<li><a href="http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=2019&amp;hitYear=2019&amp;termGbn=year">2019年GAON年度專輯榜62位</a></li>
-</ul>
-<p></ref></p></td>
+<li><a href="http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=2019&amp;hitYear=2019&amp;termGbn=year">2019年GAON年度專輯榜62位</a> </ref></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 数位单曲
+
+<table>
+<thead>
+<tr class="header">
+<th><p>单曲</p></th>
+<th><p>单曲资料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p><strong>《<a href="../Page/HANN_(Alone).md" title="wikilink">HANN (Alone)</a>》</strong>[3]</p>
+<ul>
+<li>发行日期：2018年8月14日</li>
+<li>语言：韩语</li>
+<li>类型：Dance</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>2nd</strong></p></td>
+<td><p><strong>《<a href="../Page/Uh-Oh.md" title="wikilink">Uh-Oh</a>》</strong>[4]</p>
+<ul>
+<li>发行日期：2019年6月26日</li>
+<li>语言：韩语</li>
+<li>类型：Rap/Hip-hop</li>
+</ul></td>
 <td></td>
 </tr>
 </tbody>
@@ -180,20 +179,22 @@
 </tbody>
 </table>
 
-### 原声音乐
+### 其他原創歌曲
 
-| 发行日期        | 歌曲资料                                                                                   | 歌曲名称         | 歌手       | 参与成员 |
-| ----------- | -------------------------------------------------------------------------------------- | ------------ | -------- | ---- |
-| 2018年11月19日 | 动画电影《[Running Man 2](https://zh.wikipedia.org/wiki/Running_Man_\(动画版\) "wikilink")》片尾曲 | 奔跑！\[8\]     | (G)I-DLE | 全体   |
-| 2019年4月11日  | 韩剧《[她的私生活](../Page/她的私生活.md "wikilink")》OST                                            | Help Me\[9\] |          |      |
+| 发行日期        | 歌曲资料                                                                                   | 歌曲名称                                | 参与成员 |
+| ----------- | -------------------------------------------------------------------------------------- | ----------------------------------- | ---- |
+| 2018年11月19日 | 动画电影《[Running Man 2](https://zh.wikipedia.org/wiki/Running_Man_\(动画版\) "wikilink")》片尾曲 | 奔跑！\[8\]                            | 全體   |
+| 2019年4月11日  | 韩剧《[她的私生活](../Page/她的私生活.md "wikilink")》OST                                            | Help Me\[9\]                        |      |
+| 2019年10月18日 | 《Queendom <粉朵拉的盒子> Part. 1》                                                            | Put It Straight (Nightmare Version) |      |
+| 2019年10月25日 | 《Queendom \[FINAL Comeback Single\]》                                                   | LION                                |      |
 
-### 其他歌曲
+### 其他企劃歌曲
 
 <table>
 <thead>
 <tr class="header">
 <th><p>发行日期</p></th>
-<th><p>专辑名称/项目名称</p></th>
+<th><p>專輯名稱</p></th>
 <th><p>歌曲名称</p></th>
 <th><p>歌手</p></th>
 <th><p>参与成员</p></th>
@@ -265,17 +266,31 @@
 </tr>
 <tr class="even">
 <td><p>2019年6月8日</p></td>
-<td><p>/</p></td>
+<td><p>The loveless</p></td>
 <td><p>The loveless</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/田小娟" title="wikilink">田小娟</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年7月9日</p></td>
+<td><p>Cart</p></td>
 <td><p>Cart[19]</p></td>
 <td><p>、<a href="../Page/赵美延.md" title="wikilink">赵美延</a></p></td>
 <td><p>美延</p></td>
-<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年10月5日</p></td>
+<td><p>不朽的名曲：傳說在歌唱 (Let's Dance Time 高耀太)</p></td>
+<td><p>悲夢</p></td>
+<td><p><a href="../Page/(G)I-DLE.md" title="wikilink">(G)I-DLE</a></p></td>
+<td><p>全體</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年10月18日</p></td>
+<td><p>EMPIRE</p></td>
+<td><p>EMPIRE</p></td>
+<td><p>WENGIE、<a href="../Page/Minnie.md" title="wikilink">Minnie</a></p></td>
+<td><p>Minnie</p></td>
 </tr>
 </tbody>
 </table>
@@ -335,6 +350,13 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年9月10日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/各位遊客請注意" title="wikilink">各位遊客請注意</a></p></td>
+<td><p>開心調味計</p></td>
+<td><p><a href="../Page/宋雨琦.md" title="wikilink">宋雨琦</a></p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -349,6 +371,7 @@
 | Oats, Peas, Beans and Barley Grow |                                             |                                                                       |                                                                                                           |        |
 | Clap Concert                      |                                             |                                                                       |                                                                                                           |        |
 | 2018年11月3日                        | K/DA                                        | [POP/STARS](https://zh.wikipedia.org/wiki/POP/STARS "wikilink")\[24\] | [Madison Beer](https://zh.wikipedia.org/wiki/麦迪逊·比尔 "wikilink")、(G)I-DLE、                                 | 美延、小娟  |
+| 2019年11月10日                       | Ture Damage                                 | GIANTS                                                                | [貝姬·G](../Page/貝姬·G.md "wikilink")、Keke Palmer、DUCKWRTH、Thutmose、(G)I-DLE                                 | 小娟     |
 
 ## 创作作品
 
@@ -586,6 +609,14 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>LION</p></td>
+<td></td>
+<td><p>√</p></td>
+<td><p>√</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -604,10 +635,10 @@ Minnie（민니）在韩国音乐著作权家协会登记编号为[10022029](htt
 
 [Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:(G)I-DLE](https://zh.wikipedia.org/wiki/Category:\(G\)I-DLE "wikilink") [Category:作品列表](https://zh.wikipedia.org/wiki/Category:作品列表 "wikilink")
 
-1.  [한(一)](https://www.melon.com/album/detail.htm?albumId=10194362). Melon. August 14, 2018.
-2.  [Uh-Oh](https://www.melon.com/album/detail.htm?albumId=10300342). Melon. June 26, 2019.
-3.  [I am](https://www.melon.com/album/detail.htm?albumId=10163578). Melon. May 2, 2018.
-4.  [I made](https://www.melon.com/album/detail.htm?albumId=10255272). Melon. February 26, 2019.
+1.  [I am](https://www.melon.com/album/detail.htm?albumId=10163578). Melon. May 2, 2018.
+2.  [I made](https://www.melon.com/album/detail.htm?albumId=10255272). Melon. February 26, 2019.
+3.  [한(一)](https://www.melon.com/album/detail.htm?albumId=10194362). Melon. August 14, 2018.
+4.  [Uh-Oh](https://www.melon.com/album/detail.htm?albumId=10300342). Melon. June 26, 2019.
 5.  [Jelly](https://www.melon.com/album/detail.htm?albumId=10108914). Melon. November 5, 2017.
 6.  [아이들 쏭](https://www.melon.com/album/detail.htm?albumId=10143163). Melon. February 28, 2018.
 7.  [One](https://www.melon.com/album/detail.htm?albumId=10176463). Melon. June 17, 2018.

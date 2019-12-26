@@ -1,4 +1,4 @@
-**EVERGLOW**（名字風格：**∑V∑RδLOW**，；），是[樂華娛樂在](../Page/乐华娱乐.md "wikilink")2019年推出的六人女子團體。由五名韩国成员E:U、Sihyeon、Mia、Onda、Aisha，以及一名中國成员Yiren组成。2019年3月18日，以首张单曲专辑《[ARRIVAL OF EVERGLOW](../Page/ARRIVAL_OF_EVERGLOW.md "wikilink")》正式出道。\[1\]
+**EVERGLOW**（名字風格：**∑V∑RδLOW**，），是[樂華娛樂在](../Page/乐华娱乐.md "wikilink")2019年推出的六人女子團體。由五名韩国成员E:U、Sihyeon、Mia、Onda、Aisha，以及一名中國成员Yiren组成。2019年3月18日，以首张单曲专辑《[ARRIVAL OF EVERGLOW](../Page/ARRIVAL_OF_EVERGLOW.md "wikilink")》正式出道。\[1\]此團體是[樂華娛樂首個韓國女子團體](../Page/乐华娱乐.md "wikilink")。
 
 ## 團體資料
 
@@ -80,7 +80,7 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 <ul>
 <li>發行日期 ：2019年3月18日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：17,368+[14]</li>
+<li>專輯銷量：20,210+[14]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -90,7 +90,7 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 <ul>
 <li>發行日期 ：2019年8月19日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：12,199+[15]</li>
+<li>專輯銷量：20,662+[15]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -165,6 +165,9 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 | 9月10日                                          |
 | 9月28日                                          |
 | 10月1日                                          |
+| 11月10日                                         |
+| 11月13日                                         |
+| 11月17日                                         |
 
 ## 廣告代言
 

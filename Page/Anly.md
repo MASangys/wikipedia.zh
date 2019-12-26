@@ -132,17 +132,13 @@ Anly从出生到初中毕业以前，在冲绳的离岛[伊江岛度过](https:/
 [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本吉他手](https://zh.wikipedia.org/wiki/Category:日本吉他手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:沖繩縣出身人物](https://zh.wikipedia.org/wiki/Category:沖繩縣出身人物 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
 
 1.   Anly {{\!}} 1ページ目|program= BARKS, ジャパンミュージックネットワーク |accessdate= 2015-12-05}}
-
 2.
-
 3.
 4.
 5.
-
 6.
 7.
 8.
-
 9.
 10.
 11.
@@ -150,45 +146,26 @@ Anly从出生到初中毕业以前，在冲绳的离岛[伊江岛度过](https:/
 13.
 14.
 15.  マイナビニュース|date = 2015-10-05|accessdate = 2015-12-05|publisher = マイナビ|archive-url = [https://web.archive.org/web/20170731112107/http://news.mynavi.jp/news/2015/10/05/664/|archive-date](https://web.archive.org/web/20170731112107/http://news.mynavi.jp/news/2015/10/05/664/%7Carchive-date) = 2017-07-31|dead-url = yes}}
-
 16.
-
 17.
 18.
 19.
-
 20.
 21.
 22.  沖縄タイムス＋プラス|accessdate=2015年12月5日|publisher=沖縄タイムス社}}
-
-23.  Musicman-NET|accessdate=2015年12月5日|publisher=エフ・ビー・コミュニケーションズ}}
-
+23.  Musicman-NET|accessdate=2015年12月5日|publisher=エフ・ビー・コミュニケーションズ|archive-url=[https://web.archive.org/web/20151208075514/http://www.musicman-net.com/artist/52164.html|archive-date=2015年12月8日|dead-url=yes](https://web.archive.org/web/20151208075514/http://www.musicman-net.com/artist/52164.html%7Carchive-date=2015年12月8日%7Cdead-url=yes)}}
 24.
-
 25.
-
 26.  Anly {{\!}} |accessdate = 2015年12月5日|publisher = [ORICON STYLE](https://zh.wikipedia.org/wiki/オリコン "wikilink")}}
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.

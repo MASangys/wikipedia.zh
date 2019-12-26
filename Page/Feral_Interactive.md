@@ -1,8 +1,8 @@
-是一间[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[Linux](../Page/Linux.md "wikilink")及[iOS平台的](https://zh.wikipedia.org/wiki/iOS "wikilink")[电子游戏发行商](https://zh.wikipedia.org/wiki/电子游戏发行商 "wikilink")，成立于1996年，总部位于[英国伦敦](../Page/伦敦.md "wikilink")。与Feral Interactive有合作关系的其他发行商包括[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")、[2K Games](../Page/2K_Games.md "wikilink")、[SEGA](../Page/世嘉.md "wikilink")、[华纳兄弟互动娱乐和](../Page/華納兄弟互動娛樂.md "wikilink")[Codemasters](../Page/Codemasters.md "wikilink")等\[1\]\[2\]。Feral Interactive开发和发行其合作伙伴受欢迎作品的移植版本，包括[全面战争系列](../Page/全面战争系列.md "wikilink")、[蝙蝠俠：阿卡漢](../Page/蝙蝠俠：阿卡漢.md "wikilink")、[古墓丽影系列](../Page/古墓丽影系列.md "wikilink")和XCOM: Enemy Unknown。
+是一间[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[Linux](../Page/Linux.md "wikilink")及[iOS平台的](https://zh.wikipedia.org/wiki/iOS "wikilink")[电子游戏发行商](https://zh.wikipedia.org/wiki/电子游戏发行商 "wikilink")，成立于1996年，总部位于[英国伦敦](../Page/伦敦.md "wikilink")。与Feral Interactive有合作关系的其他发行商包括[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")、[2K Games](../Page/2K_Games.md "wikilink")、[SEGA](../Page/世嘉.md "wikilink")、[华纳兄弟互动娱乐和](../Page/華納兄弟互動娛樂.md "wikilink")[Codemasters](../Page/Codemasters.md "wikilink")等\[1\]\[2\]。Feral Interactive开发和发行其合作伙伴受欢迎作品的移植版本，包括[全面战争系列](../Page/全面战争系列.md "wikilink")、[蝙蝠俠：阿卡漢](../Page/蝙蝠俠：阿卡漢.md "wikilink")、[古墓丽影系列](../Page/古墓丽影系列.md "wikilink")和。
 
 Feral Interactive发行的游戏作品会在[Steam](../Page/Steam.md "wikilink")、[Mac App Store以及其自设的Feral商店上销售](../Page/Mac_App_Store.md "wikilink")\[3\]。
 
-在1996年至2013年，Feral Interactive都只发行[macOS的游戏](https://zh.wikipedia.org/wiki/macOS "wikilink")，到2014年6月才第一次在Linux发行《XCOM: Enemy Unknown》\[4\]\[5\]。2016年，发行了其第一个iOS游戏《[罗马：全面战争](../Page/罗马：全面战争.md "wikilink")》\[6\]。在2017年11月，发布了其第一个同时适用于iPhone和iPad的iOS游戏《》\[7\]\[8\]。之后亦持续发行游戏至Mac、Linux和iOS平台。
+在1996年至2013年间，Feral Interactive都只发行[macOS的游戏](https://zh.wikipedia.org/wiki/macOS "wikilink")，到2014年6月才第一次在Linux发行《XCOM：未知敵人》\[4\]\[5\]。2016年，发行了其第一个iOS游戏《[罗马：全面战争](../Page/罗马：全面战争.md "wikilink")》\[6\]。在2017年11月，发布了其第一个同时适用于iPhone和iPad的iOS游戏《》\[7\]\[8\]。之后亦持续发行游戏至Mac、Linux和iOS平台。
 
 ## 奖项
 
@@ -218,17 +218,10 @@ Feral Interactive发行的游戏作品会在[Steam](../Page/Steam.md "wikilink")
 1.
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.

@@ -26,37 +26,22 @@ Sileather參加了2018年的Material District Pop-up展示.\[15\]
 
 <references />
 
-[Category:紡織品](https://zh.wikipedia.org/wiki/Category:紡織品 "wikilink") [Category:美國服裝公司](https://zh.wikipedia.org/wiki/Category:美國服裝公司 "wikilink")
+[Category:美國服裝公司](https://zh.wikipedia.org/wiki/Category:美國服裝公司 "wikilink")
 
 1.
-
 2.
-
 3.   与生俱来的性能优势 安全健康无添加 - 安徽艾约塔硅油有限公司|url=[http://zh.iotachem.com/detailnews.php?id=33556|website=zh.iotachem.com|access-date=2019-05-20](http://zh.iotachem.com/detailnews.php?id=33556%7Cwebsite=zh.iotachem.com%7Caccess-date=2019-05-20)}}
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.  Coated Fabrics Industry {{\!}} CFFA|url=[https://www.chemicalfabricsandfilm.com/members.html|website=www.chemicalfabricsandfilm.com|access-date=2019-05-20](https://www.chemicalfabricsandfilm.com/members.html%7Cwebsite=www.chemicalfabricsandfilm.com%7Caccess-date=2019-05-20)}}
-
 13.
-
 14.
-
 15. The world’s biggest B2B leisure marine equipment show {{\!}} METSTRADE|url=[https://www.metstrade.com/programme/showcases/materialdistrict-pop-up/|website=www.metstrade.com|access-date=2019-05-20](https://www.metstrade.com/programme/showcases/materialdistrict-pop-up/%7Cwebsite=www.metstrade.com%7Caccess-date=2019-05-20)}}
-
 16.  SCS Global Services|url=[https://www.scsglobalservices.com/about/company|website=www.scsglobalservices.com|access-date=2019-05-20](https://www.scsglobalservices.com/about/company%7Cwebsite=www.scsglobalservices.com%7Caccess-date=2019-05-20)}}
-
 17.

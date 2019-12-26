@@ -1,8 +1,6 @@
 《**愛x死x機器人**》（）是一部[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[獨立單元](https://zh.wikipedia.org/wiki/獨立單元劇 "wikilink")[成人動畫](../Page/成人動畫.md "wikilink")[電視影集](https://zh.wikipedia.org/wiki/電視影集 "wikilink")\[1\]，由、[大衛·芬奇](https://zh.wikipedia.org/wiki/大衛·芬奇 "wikilink")、珍妮佛·米勒和[提姆·米勒](../Page/提姆·米勒.md "wikilink")製作\[2\]。每集都由不同國家的團隊所製作\[3\]。
 
-該劇定於2019年3月15日在[Netflix](../Page/Netflix.md "wikilink")首播，共18集\[4\]。每一集都是獨立的短篇故事，單集片長 6 到 15 分鐘不等。
-
-不一定每集都跟機器人有關，整體是暴力佔 50%、科技佔 20%、色情和心理恐懼各 15%。動畫製作則包括了[2D手繪動畫](https://zh.wikipedia.org/wiki/2D電腦圖形 "wikilink")，[3D](https://zh.wikipedia.org/wiki/3D電腦圖形 "wikilink")[電腦動畫以及](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")[擴增實境](../Page/擴增實境.md "wikilink")拍攝等等不同的手法以及藝術風格。
+該劇定於2019年3月15日在[Netflix](../Page/Netflix.md "wikilink")首播，共18集\[4\]。
 
 ## 集數列表
 
@@ -129,7 +127,7 @@
 <td><p>6分</p></td>
 </tr>
 <tr class="odd">
-<td><p>由科學家開發的優格變得有意識並接管世界。</p></td>
+<td><p>由科學家開發的酸奶變得有意識並接管世界。</p></td>
 <td></td>
 <td></td>
 <td></td>

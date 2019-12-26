@@ -1,4 +1,4 @@
-***There She Is\!\!*** （韩语: 떳다 그녀\!\!） 是Sogong、amalloc、Song.Song-hwa三人创作的一系列Flash卡通动画，登载于韩国网站SamBakZa上。2004年春，该系列动画受到欧美观众的普遍青睐，变得十分流行。系列动画改编自连环画“One day”（韩语: 어떤날），后者于2000年11月到2002年3月在韩国日报社发行的盲文报纸“Newspaper that we read together”（谚文：함께 읽는 신문） 上连载。\[1\]系列动画以典型的[漫画风格元素和高质量的动画水准著称](https://zh.wikipedia.org/wiki/漫画 "wikilink")。第一部 *There she is\!\!* 在网络观看者之间引起极大的好评反响，包括同人、二次创作等，也促使SamBakZa继续制作该系列动画。该系列动画发行权为京畿数码内容振兴院（GDCA）所有。
+***There She Is\!\!*** （韩语: 떳다 그녀\!\!） 是Sogong、amalloc、Song.Song-hwa三人创作的一系列Flash卡通动画，登载于韩国网站SamBakZa上。2004年春，该系列动画受到欧美观众的普遍青睐，变得十分流行。系列动画改编自连环画“One day”（韩语: 어떤날），后者于2000年11月到2002年3月在韩国日报社发行的盲文报纸“Newspaper that we read together”（谚文：함께 읽는 신문） 上连载。\[1\]系列动画以典型的[漫画风格元素和高品質的动画水准著称](https://zh.wikipedia.org/wiki/漫画 "wikilink")。第一部 *There she is\!\!* 在网络观看者之间引起极大的好评反响，包括同人、二次创作等，也促使SamBakZa继续制作该系列动画。该系列动画发行权为京畿数码内容振兴院（GDCA）所有。
 
 故事主线围绕拟人化的一只兔子和一只猫的爱情展开，然而他们的关系在设定的社会背景中属于禁忌。在2004年[巴西](../Page/巴西.md "wikilink")的[Anima Mundi](https://zh.wikipedia.org/wiki/Anima_Mundi_\(event\) "wikilink")[动画](../Page/动画.md "wikilink")节上，该片获得网络动画专家评审团和网络动画观众投票的第一名，同时赢得“Anima Mundi网络特别奖”。\[2\]
 
@@ -33,20 +33,12 @@ SamBakZa已迁至京畿道富川市的生产支持中心，并在网站主页面
 <references />
 
 1.  <http://www.sambakza.net/works_oneday/oneday_main.html>
-
 2.
-
 3.
-
 4.
-
 5.  On the [character page](http://www.sambakza.net/amalloc/animation/tteotta_chara.htm) if you roll over Nabi the arrow will turn from red to pink.
-
 6.  [Google Translate](https://translate.google.com/#ko%7Cen%7C%EB%82%98%EB%B9%84)
-
 7.
-
 8.
-
 9.
 10. <http://www.sambakza.net/works_tsi/tsi_main.html>

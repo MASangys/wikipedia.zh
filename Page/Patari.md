@@ -30,47 +30,27 @@ Patari的联合创始人和[首席执行官](../Page/首席执行官.md "wikilin
 [Category:線上音樂商店](https://zh.wikipedia.org/wiki/Category:線上音樂商店 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:2015年建立的网站](https://zh.wikipedia.org/wiki/Category:2015年建立的网站 "wikilink") [Category:2015年成立的公司](https://zh.wikipedia.org/wiki/Category:2015年成立的公司 "wikilink") [Category:音樂網站](https://zh.wikipedia.org/wiki/Category:音樂網站 "wikilink") [Category:巴基斯坦公司](https://zh.wikipedia.org/wiki/Category:巴基斯坦公司 "wikilink") [Category:巴基斯坦网站](https://zh.wikipedia.org/wiki/Category:巴基斯坦网站 "wikilink")
 
 1.   TNS - The News on Sunday|work=tns.thenews.com.pk|language=en-US|accessdate=2017-11-25}}
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.  Patari Haftanama|url=[http://haftanama.patari.pk/index.php/category/haftanama/|accessdate=2019-03-03|language=en-US](http://haftanama.patari.pk/index.php/category/haftanama/%7Caccessdate=2019-03-03%7Clanguage=en-US)}}
-
 17.
-
 18.
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.

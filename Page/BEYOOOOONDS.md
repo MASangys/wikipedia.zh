@@ -227,7 +227,7 @@
 </tbody>
 </table>
 
-## 人物
+## 成員特色
 
   - 一岡伶奈
       - [鐵道迷](../Page/鐵道迷.md "wikilink")
@@ -248,7 +248,7 @@
   - 小林萌花
       - 特技為彈[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")。曾在「第8回ジュラ・キシュ国際ピアノコンクール 高校生部門」獲得第2名的成績
 
-## 團名
+## 團名含意
 
   - 「BEYOOOOONDS」是從英文的「Beyond」延伸出來的意思。代表著「～超越」、「～到達另一邊」的意思。包含著希望她們能夠擺脫現有的框架，自由的朝著未來有所成長。\[5\]\[6\]\[7\]
   - 「BEYOOOOONDS」為「CHICA\#TETSU」及「雨ノ森 川海」的合流團體，目標是成為能夠向黏液般成為充滿變化的團體。\[8\]\[9\]
@@ -283,7 +283,7 @@
 <td><p>80,087</p></td>
 <td><p>105,949</p></td>
 <td><p>主流出道單曲</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BEYOOOOOND1St" title="wikilink">BEYOOOOOND1St</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -301,10 +301,10 @@
 
 ### 專輯
 
-|     | 發行日         | 專輯            | 中譯標題 | 週間單曲榜 | 累計銷量 |
-| --- | ----------- | ------------- | ---- | ----- | ---- |
-| 1st | 2019年11月27日 | BEYOOOOOND1St |      |       |      |
-|     |             |               |      |       |      |
+|     | 發行日         | 專輯                                                                      | 中譯標題 | 週間單曲榜 | 累計銷量 |
+| --- | ----------- | ----------------------------------------------------------------------- | ---- | ----- | ---- |
+| 1st | 2019年11月27日 | [BEYOOOOOND1St](https://zh.wikipedia.org/wiki/BEYOOOOOND1St "wikilink") | －    |       |      |
+|     |             |                                                                         |      |       |      |
 
 ### 合輯
 
@@ -361,15 +361,12 @@
 [Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink") [Category:BEYOOOOONDS](https://zh.wikipedia.org/wiki/Category:BEYOOOOONDS "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
 6.
 7.
-
 8.
 9.
 10.

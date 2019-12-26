@@ -223,11 +223,8 @@ Another Episode S 的叙述者。1987年夜見北3年3班學生。
 [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.

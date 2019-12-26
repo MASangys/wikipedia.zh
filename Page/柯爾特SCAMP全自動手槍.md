@@ -1,4 +1,4 @@
-**柯爾特SCAMP**（；SCAMP[全寫](../Page/縮寫.md "wikilink")：，意為：小口徑衝鋒手槍）是一款由公司在1969年構想、用以取代日漸老化的[柯爾特M1911A1手槍的](../Page/M1911手槍.md "wikilink")[全自動手槍](../Page/全自動手槍.md "wikilink")，\[1\]，發射.22 SCAMP（5.56×29毫米）[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**柯爾特SCAMP**（；SCAMP[全寫](../Page/縮寫.md "wikilink")：，意為：小口徑衝鋒手槍）是一款由公司在1969年構想、用以取代日漸老化的[柯爾特M1911A1手槍的](../Page/M1911手槍.md "wikilink")[全自動手槍](../Page/全自動手槍.md "wikilink")，\[1\]，發射.22 SCAMP（5.56×29毫米）[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 設計
 
@@ -46,12 +46,10 @@ SCAMP的彈藥後來被追加凸緣，讓該彈藥可用於[左輪手槍以上](
 [Category:衝鋒手槍](https://zh.wikipedia.org/wiki/Category:衝鋒手槍 "wikilink") [Category:試驗和研究槍械](https://zh.wikipedia.org/wiki/Category:試驗和研究槍械 "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
 6.
 7.
-
 8.

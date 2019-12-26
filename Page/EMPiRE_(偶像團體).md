@@ -35,7 +35,7 @@
   - 7月26日 - 宣布成立[HOLY SHiTS](../Page/HOLY_SHiTS.md "wikilink")，這是繼[SAiNT SEX之後的第二個洗牌團體](../Page/SAiNT_SEX.md "wikilink")。成員包括BiSH的セントチヒロ・チッチ，BiS的ペリ・ウブ，トリアエズ・ハナ，ムロパナコ，GANG PARADE的キャン・GP・マイカ和EMPiRE的MAHO EMPiRE。在同一天，歌曲“WACK is SHiT”以免費下載的型式發布，MV發布。
   - 8月4日 - 演出\[23\]。
   - 8月29日 -
-  - 9月5日 - 發行《EMPiRE originals》。
+  - 9月5日 - 發行首張迷你專輯《EMPiRE originals》。
   - 9月9日 -
   - 11月3日～12月28日 –
 
@@ -44,7 +44,7 @@
   - 1月3日 – [赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")舉行「WACKなりの甲子園」，同時宣佈「WACK合宿型徵選2019」的公布，而EMPiRE亦首次一同參與，最後決定由MAYU EMPiRE參加。\[24\]\[25\]
   - 1月29日 – YouTube公開《ピアス》音樂錄影帶。同時兩小時候之後YUKA亦宣布她將於3月4日在EMPiRE和[WACK](../Page/WACK.md "wikilink")畢業，以便集中學習。
   - 2月27日 – 發行首張單曲《ピアス》。
-  - 3月3日 –3月4日 – 神奈川・Yokohama Bay Hall 「EMPiRE 24小時派對 EMPiRE presents TWENTY FOUR HOUR PARTY PEOPLE」YUKA正式畢業。
+  - 3月3日 – 3月4日 – 神奈川・Yokohama Bay Hall 「EMPiRE 24小時派對 EMPiRE presents TWENTY FOUR HOUR PARTY PEOPLE」YUKA正式畢業。
   - 3月4日 – 披露新曲「SELFiSH PEOPLE」新曲「SELFiSH PEOPLE」，並再次成為5人体制。
   - 3月26日 –3月30日 – MAYU EMPiRE將作為導師參加「WACK合宿型徵選2019」。
   - 3月30日 –發表3月24日至30日的合宿型徵選「WACK合宿型徵選2019」結果，EMPiRE新增TERAYAMA YUFU（テラヤマユフ，現NOW EMPiRE）一名成員。
@@ -53,12 +53,16 @@
   - 7月11日 - 「NEW EMPiRE TOUR」追加公演，命名為「NEW EMPiRE TOUR "EVOLUTiONS"」並於[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")舉行。是第三度在赤坂舉行演唱會亦是NOW EMPiRE首場赤坂赤坂BLITZ的演唱會。也是EMPiRE最後在赤坂BLITZ的舉行演唱會。\[29\]\[30\]
   - 7月17日 - 發行第二張單曲《SUCCESS STORY》。
   - 8月4日 – 在「TOKYO IDOL FESTIVAL 2019」宣布，EMPiRE的NOW EMPiRE加入SAiNT SEX並進行現場表演。
+  - 9月14日 – YouTube公開《RiGHT NOW》音樂錄影帶。
   - 10月16日 - 發行第三張單曲《RiGHT NOW》。\[31\]\[32\]
-  - 12月 日 - 發行第二張專輯。
+  - 11月3日 – YouTube公開《Have it my way》音樂錄影帶。
+  - 11月15日 – YouTube公開《WE ARE THE WORLD》音樂錄影帶。
+  - 11月24日 – YouTube公開《A journey 》音樂錄影帶。
+  - 12月18日 - 發行第二張專輯《The GREAT JOURNEY ALBUM》。
 
 ### 2020年
 
-  - 1月 日 -
+  - 1月3日 – 舉行「WACKなりの甲子園」
   - 3月 日 -
 
 ## 成員
@@ -162,7 +166,7 @@ Project AW徵選合格者。<br />
 2017年8月23日開始活動。<br />
 Project AW徵選合格者。<br />
 2018年5月1日移籍至[38]，直至2019年5月11日解散。<br />
-同年宣布6月19日加入（暫稱）<br />
+同年宣布6月19日加入<a href="../Page/CARRY_LOOSE.md" title="wikilink">CARRY LOOSE</a><br />
 為EMPiRE的（創始成員）</p></td>
 </tr>
 <tr class="even">
@@ -188,7 +192,7 @@ Project AW徵選合格者。<br />
 | 2017年8月23日 - 2018年4月30日 | YUKA EMPiRE、YU-Ki EMPiRE、MiDORiKO EMPiRE、MAYU EMPiRE、YUiNA EMPiRE                              |                                                   |
 | 2018年5月1日 - 2019年3月3日   | YUKA EMPiRE、YU-Ki EMPiRE、MiDORiKO EMPiRE、MAYU EMPiRE、▼YUiNA EMPiRE、▲MAHO EMPiRE、▲MiKiNA EMPiRE | YUiNA EMPiRE在EMPiRE畢業，MAHO EMPiRE、MiKiNA EMPiRE加入 |
 | 2019年3月4日 - 2019年4月20日  | ▼YUKA EMPiRE、YU-Ki EMPiRE、MiDORiKO EMPiRE、MAYU EMPiRE、MAHO EMPiRE、MiKiNA EMPiRE                | YUKA EMPiRE在EMPiRE和WACK畢業                         |
-| 2019年4月21日 -            | YU-Ki EMPiRE、MiDORiKO EMPiRE、MAYU EMPiRE、MAHO EMPiRE、MiKiNA EMPiRE、▲NOW EMPiRE                 |                                                   |
+| 2019年4月21日 -            | YU-Ki EMPiRE、MiDORiKO EMPiRE、MAYU EMPiRE、MAHO EMPiRE、MiKiNA EMPiRE、▲NOW EMPiRE                 | NOW EMPiRE加入                                      |
 
 ## 作品
 
@@ -791,13 +795,9 @@ AVTD-93976<br />
 [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
@@ -805,73 +805,40 @@ AVTD-93976<br />
 9.
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24. [新春「WACKなりの甲子園」にBiSH、BiS、ギャンパレ、EMPiRE、WAgg集結](https://natalie.mu/music/news/311320)
-
 25. [WACK合同オーディション開催決定、合宿には所属メンバー7名参加](https://natalie.mu/music/news/314790)
-
 26. [EMPiRE、6人新体制ビジュアル解禁＋公式Twitterにてドキュメント](https://popnroll.tv/articles/2529/images)
-
 27. [EMPiRE、6人新体制ビジュアル解禁＋公式Twitterにてドキュメント映像公開【福岡DRUM SONライブ写真あり】](https://popnroll.tv/articles/2529)
-
 28. [EMPiRE新作「SUCCESS STORY」MV公開 前往匈牙利兩百多年歷史城堡拍攝](https://atctwn.com/2019/06/10/36495/)
-
 29. [【ライブレポート】EMPiRE、3度目のBLITZ赤坂ワンマンで放った圧倒的な輝き](https://popnroll.tv/articles/3551)
-
 30. [EMPiRE、マイナビBLITZ赤坂で最後のワンマンライブ開催](https://natalie.mu/music/news/332507)
-
 31. [2019年10月16日(水)発売SG『RiGHT NOW』FC SHOPオリジナル特典付き販売が決定！](https://finn-neo.com/user.cgi?articleid=24200&public=1&actmode=NewsArticleDetail)
-
 32. [3rd SG『RiGHT NOW』リリースイベント＠HMV＆BOOKS HAKATA](https://empire-official.com/news2/detail.php?id=1001985)
-
 33.
-
 34.
-
 35. 唯一受到晚上十點演出限制的現任成員
-
 36.
 37.
-
 38.
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
 46.
 47.
-
 48.

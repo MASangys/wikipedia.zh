@@ -36,28 +36,17 @@
 [Category:材料](https://zh.wikipedia.org/wiki/Category:材料 "wikilink") [Category:非牛顿流体](https://zh.wikipedia.org/wiki/Category:非牛顿流体 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.  Richard Palmer & Philip Green for Design Blue Ltd, *Shock Absorbing Material* US patent 7,381,460 B2, <https://patents.google.com/patent/US7381460>
-
 6.   Article was written by Maria Kamenev, a *BusinessWeek* intern.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.

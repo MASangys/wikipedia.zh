@@ -76,171 +76,97 @@ SZA的歌唱風格很受[艾拉·費茲潔拉](../Page/艾拉·費茲潔拉.md "
 [Category:非裔美国女歌手](https://zh.wikipedia.org/wiki/Category:非裔美国女歌手 "wikilink") [Category:美國女創作歌手](https://zh.wikipedia.org/wiki/Category:美國女創作歌手 "wikilink") [Category:美国嘻哈歌手](https://zh.wikipedia.org/wiki/Category:美国嘻哈歌手 "wikilink") [Category:美國靈魂樂歌手](https://zh.wikipedia.org/wiki/Category:美國靈魂樂歌手 "wikilink") [Category:RCA唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:RCA唱片旗下藝人 "wikilink") [Category:21世紀美國歌手](https://zh.wikipedia.org/wiki/Category:21世紀美國歌手 "wikilink")
 
 1.
-
 2.   ("For the record, her name is pronounced Sizza, like RZA and GZA.")
-
 3.
 4.
-
 5.
-
 6.
 7.  ["The Guardian NBOD 2013"](https://www.theguardian.com/music/2013/mar/08/sza)  Paul Lester, 'New Band Of The Day: SZA' *The Guardian*, March 8, 2013.
-
 8.
 9.
 10.
 11.
 12.
 13. ["Complex Music"](http://www.complex.com/music/2013/09/who-is-sza/)  Insanul Ahmed, 'Who is SZA?', *Complex Music*, September 8, 2013.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
 25.
-
 26.
-
 27. ["Billboard May 2013 interview"](http://www.billboard.com/articles/columns/the-juice/1563547/sza-talks-quitting-her-day-job-working-with-other-emile-haynie)  Reggie Ugwu, 'SZA Talks Quitting Her Day Job, Working With Holy Other & Emile Haynie', *Billboard.com*, May 23, 2013.
-
 28.
-
 29.
-
 30.
 31. ["Billboard"](http://www.billboard.com/articles/columns/the-juice/6041313/sza-talks-z-album-being-the-only-girl-in-top-dawg-entertainment)  Reggie Ugwu, 'SZA Talks 'Z' Album & Being the Only Girl In Top Dawg Entertainment', *Billboard Magazine*, April 7, 2014.
-
 32. ["Source newsitem"](http://thesource.com/2013/08/14/presenting-tdes-new-songstress-listen-to-szas-new-song-teen-spirit/)  Khari Nixon, 'Presenting TDE New Songstress', *The Source*, August 14, 2013.
-
 33.
 34.
-
 35. ["Complex debut-EP Newsitem"](http://www.complex.com/music/2012/10/ep-premiere-sza-see-sza-run)  Zach Frydenlund, 'EP Premiere: SZA *See SZA Run*', *Complex Music*, October 29, 2012.
-
 36. ["CoS review"](http://consequenceofsound.net/2013/04/album-review-sza-s-ep/)  Adam Kivel, 'Album review: SZA - S EP', *Consequence of Sound*, April 22, 2013.
-
 37. ["Pigeon & Planes announcement"](http://pigeonsandplanes.com/2013/04/download-szas-new-ep/)  Katie K, 'Download SZA'S new EP', *Pigeons and Planes*, April 10, 2013.
-
 38. ["Ice Moon video"](http://www.complex.com/music/2013/11/sza-ice-moon-video)  Dharmic X, 'SZA Releases Mystical Video For "Ice Moon', *Complex Media*, November 13, 2013.
-
 39. ["Brooklyn vegan review"](http://www.brooklynvegan.com/archives/2013/08/little_dragon_p_5.html)  Ryan Muir, 'Little Dragon playing two NYC shows w/ SZA', *Brooklyn Vegan*, August 28, 2013.
-
 40. ["50ct remix"](http://www.complex.com/music/2013/12/sza-ft-50-cent-teen-spirit-remix)  Dharmic X, '50 Cent Remixes SZA's "Teen Spirit"', *Complex Media*, December 6, 2013.
-
 41.
-
 42.
-
 43. ["IndieShuffle Newsitem"](http://www.indieshuffle.com/sza-childs-play-ft-chance-the-rapper-prod-xxyyxx/)  Tobias Handke, 'SZA - Child's Play (Ft. Chance The Rapper)', *Indieshuffle.com*, March 26, 2014.
-
 44. ["SZA Reveals 'Z' EP Release Date, Drops 'Babylon' Video"](http://theboombox.com/sza-z-ep-release-date-babylon-video/)  Trent Fitzgerald, *Boombox.com*, March 9, 2014
-
 45.
 46. ["UK R\&B chart"](http://www.officialcharts.com/archive-chart/_/17/2014-04-19)  Archived entry for the UK R\&B chart for April 19, 2014. Accessed May 10, 2014.
-
 47. ["Hip-Hop chart April 2014"](http://www.hiphopdx.com/index/news/id.28335/title.hip-hop-album-sales-week-ending-04-13-2014)  Andres Tardio, 'Hip Hop Album Sales: Week Ending April 13, 2014' *HipHop* DX April 16, 2014.
-
 48. \[<http://www.billboard.com/articles/columns/the-juice/6084698/the-juice-podcast-5914-sza-moruf-talk-tde-new-albums-usher-2>? "Billboard News 2014\]  Erika Ramirez, 'The Juice Podcast: SZA & MoRuf Talk TDE, New Albums, Usher & 2 Chainz', *Billboard Magazine*, May 9, 2014.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76. ["SZA 'Z' review"](http://www.nowtoronto.com/music/story.cfm?content=197575)  Kevin Ritchie, 'Sza "Z" review, Toronto Now (vol 33), April 17–24, 2014
-
 77.
-
 78.
-
 79.
-
 80.
 81.
 82. ["Z Album Review"](http://www.neontommy.com/news/2014/04/sza-z-album-review)  Ben Benjamin, 'SZA: 'Z' Album Review', *Neon Tommy*, April 10, 2014.
-
 83.
 84.
 85.
-
 86. ["Redbull April 2014 interview"](http://www.redbull.com/en/music/stories/1331643712041/interview-with-up-and-coming-rnb-star-sza)  Aimee Cliff, 'Five things you should know about SZA', *Redbull.com*, April 7, 2014.
-
 87.
 88.
 89.
 90. ["Refinery"](http://www.refinery29.com/sza-interview)  Nathan Reese, 'SZA's Unlikely Path To Pop Stardom' *Refinery29*, October 9, 2013.
-
 91.
 92. ["W Magazine"](http://www.wmagazine.com/fashion/2014/04/sza-hair-style/photos/)  Sarah Leon, 'She's Just SZA', *W Magazine*, April 9, 2014.
-
 93.
 94. ["Vogue"](http://www.vogue.com/vogue-daily/article/why-sza-huge-natural-hair-is-our-new-obsession/#1)  Chioma Nnadi, 'Why SZA's Huge Natural Hair is Our New Obsession', *Vogue*, March 27, 2014.
-
 95.

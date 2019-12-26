@@ -11,10 +11,7 @@
 [Category:光学字符识别](https://zh.wikipedia.org/wiki/Category:光学字符识别 "wikilink") [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink")
 
 1.
-
 2.
-
 3.  [Announcing Tesseract OCR](http://googlecode.blogspot.com/2006/08/announcing-tesseract-ocr.html) - Google 官方博客对此的声明
-
 4.
 5.

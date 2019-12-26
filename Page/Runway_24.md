@@ -1,4 +1,9 @@
-**Runway 24**（  ）是2019年7月6日起於[朝日電視台](../Page/朝日電視台.md "wikilink")播出的電視劇\[1\]，由朝比奈彩、[犬飼貴丈](../Page/犬飼貴丈.md "wikilink")、[白石隼也](../Page/白石隼也.md "wikilink")等人\[2\]主演，以[廉價航空](https://zh.wikipedia.org/wiki/廉價航空 "wikilink")「[樂桃航空](../Page/樂桃航空.md "wikilink")」為背景，劇情主要描述講述公司在節省成本及提升服務兩難下員工的奮鬥過程\[3\]\[4\]\[5\]。
+**Runway 24**（  ）是2019年7月6日起於[朝日電視台](../Page/朝日電視台.md "wikilink")播出的電視劇\[1\]，由朝比奈彩、[犬飼貴丈](../Page/犬飼貴丈.md "wikilink")、[白石隼也](../Page/白石隼也.md "wikilink")等人\[2\]主演，以[廉價航空](https://zh.wikipedia.org/wiki/廉價航空 "wikilink")「[樂桃航空](../Page/樂桃航空.md "wikilink")」為舞台，劇情主要描述講述公司在節省成本及提升服務兩難下員工的奮鬥過程\[3\]\[4\]\[5\]。
+
+## 劇名意義
+
+  - 因[樂桃航空](../Page/樂桃航空.md "wikilink")以[大阪關西國際機場作為基地](https://zh.wikipedia.org/wiki/大阪關西國際機場 "wikilink")，而該機場[跑道方向為](https://zh.wikipedia.org/wiki/跑道#方向 "wikilink")06與24\[6\]，故以「Runway 24」做為劇名及代表精神。
+  - 又2019年10月27日，[香草航空](../Page/香草航空.md "wikilink")併入[樂桃航空](../Page/樂桃航空.md "wikilink")，故劇中同樣也有航空公司合併的劇情，但以虛擬航空公司「SkyLoad」作為併入對象。
 
 ## 演員列表
 
@@ -25,7 +30,7 @@
 <td><p>香月徹也</p></td>
 <td><p><a href="../Page/白石隼也.md" title="wikilink">白石隼也</a></p></td>
 <td><p><a href="../Page/樂桃航空.md" title="wikilink">樂桃航空</a>公司副機師。<br />
-先前在「東都航空」服務，新聞報導其暴力行為，但事實的原因為教官對其學弟進行職權騷擾，香月徹也與教官爭執中，教官意外摔落樓梯。</p></td>
+先前在「東都航空」服務，新聞報導其暴力行為，但事實的原因為教官對其學弟進行職權騷擾，香月徹也與教官爭執中，教官意外摔落樓梯。後來則是在<a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣與井上桃子逛街時</a>，為了拯救可能被意外掉落的鋼管擊中而捨身保護井上桃子，導致自己未來永久無法飛行。</p></td>
 </tr>
 <tr class="even">
 <td><p>海野大介</p></td>
@@ -87,3 +92,4 @@
 3.
 4.
 5.  本節目的第七集最後預告、幕後，以及第八集有以[台灣為舞台背景進行](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
+6.  事實上有分左跑道與右跑道：06R/24L及06L/24R。

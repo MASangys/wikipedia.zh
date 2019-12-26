@@ -138,12 +138,13 @@
   -
 
   -
+
+  -
+
 [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink") [Category:指原莉乃](https://zh.wikipedia.org/wiki/Category:指原莉乃 "wikilink") [Category:代代木动画学院](https://zh.wikipedia.org/wiki/Category:代代木动画学院 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.

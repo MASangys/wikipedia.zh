@@ -15,24 +15,14 @@ ZooBank於2005年由國際動物命名法委員會執行秘書正式提案\[5\]\
 [Category:開放資料](https://zh.wikipedia.org/wiki/Category:開放資料 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  [Biodiverse MySpace? Online Encyclopedia To Name All Species](https://www.wsj.com/articles/SB118002809888213590)
-
 9.
 10.
-
 11.
-
 12.

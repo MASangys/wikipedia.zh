@@ -6,7 +6,9 @@
 
 3月28日《OH\!》的[MV公开](https://zh.wikipedia.org/wiki/MV "wikilink")，本作MV在宫崎和吉川的母校的屋顶拍摄，由田边秀伸导演\[4\]。同时单曲的全部曲目也确定。B面曲《伸开翅膀》是为[富士电视台](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")《》节目所作的主题曲\[5\]\[6\]。
 
-CD封面与之前的单曲相同依然由宫崎朝子绘制\[7\]。
+6月12日“爽”的新广告“全力合爽部”篇公开，记录了广濑铃、SHISHAMO和1000人学生在川崎市[等等力陆上竞技场共同演奏](https://zh.wikipedia.org/wiki/等等力陆上竞技场 "wikilink")《OH\!》的场面，同时配合本篇广告而特别重新编曲的《》开始限时配信\[7\]\[8\]。
+
+CD封面与之前的单曲相同依然由宫崎朝子绘制\[9\]。
 
 ## 发行
 
@@ -23,15 +25,11 @@ CD封面与之前的单曲相同依然由宫崎朝子绘制\[7\]。
 [Category:SHISHAMO](https://zh.wikipedia.org/wiki/Category:SHISHAMO "wikilink") [Category:2019年单曲](https://zh.wikipedia.org/wiki/Category:2019年单曲 "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
+8.
+9.

@@ -1,4 +1,4 @@
-《**Paskal**》是一部于2018年开始拍摄的[马来西亚](../Page/马来西亚.md "wikilink")电影，导演是《结婚那件事》和《结婚那件事之后》的大马著名导演[郑建国](https://zh.wikipedia.org/wiki/郑建国_\(马来西亚\) "wikilink")。该电影以马来西亚[海军特种作战部队](../Page/海军特种作战部队.md "wikilink")为题材，叙述与该部队相关的故事。该电影的拍摄获得了马来西亚军方的支持，拍摄共耗费一亿[美金](https://zh.wikipedia.org/wiki/美金 "wikilink")。导演称该片更重视真实性，主题是向无名英雄致敬\[1\]\[2\]。
+《**Paskal**》是一部于2018年开始拍摄的[马来西亚](../Page/马来西亚.md "wikilink")电影，导演是《结婚那件事》和《结婚那件事之后》的大马著名导演[郑建国](https://zh.wikipedia.org/wiki/郑建国_\(马来西亚\) "wikilink")。该电影以马来西亚[海军特种作战部队](../Page/海军特种作战部队.md "wikilink")为题材，叙述与该部队相关的故事。该电影的拍摄获得了马来西亚军方的支持，拍摄共耗费一千万[令吉](https://zh.wikipedia.org/wiki/令吉 "wikilink")。导演称该片更重视真实性，主题是向无名英雄致敬\[1\]\[2\]。
 
 ## 剧情
 
@@ -81,7 +81,7 @@ Lily之男友，后结婚并成为她的丈夫，还有一个儿子，名叫Joey
 
   - 这部电影是首次以马来语原音在中国上映，只保留中文字幕及翻译与更改片尾名单。
   - 这部电影用的枪弹都是真枪实弹。
-  - 这是郑建国导演、Asia Tropical Films和电影公司Golden Screen Cinemas的第四次合作，其余合作有《Lelio婆婆》、《结婚那件事》和《结婚那件事之后》。这三部电影的共同点都是郑建国导演的作品。
+  - 这是郑建国导演、Asia Tropical Films和电影公司Golden Screen Cinemas的第四次合作，其余合作有《Lelio婆婆》、《[结婚那件事](https://zh.wikipedia.org/wiki/结婚那件事 "wikilink")》和《结婚那件事之后》。这三部电影的共同点都是郑建国导演的作品。
   - 这是郑建国导演和姜志昂在Asia Tropical Films的告别作。
 
 ## 電影評級

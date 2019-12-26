@@ -25,8 +25,6 @@
 [Category:锂化合物](https://zh.wikipedia.org/wiki/Category:锂化合物 "wikilink") [Category:钨化合物](https://zh.wikipedia.org/wiki/Category:钨化合物 "wikilink") [Category:氟代酸盐](https://zh.wikipedia.org/wiki/Category:氟代酸盐 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

@@ -1,4 +1,4 @@
-《**TMI News**》（），為韓國[Mnet](../Page/Mnet.md "wikilink")電視台於2019年推出的綜藝節目\[1\]，過往由[尹普美](../Page/尹普美.md "wikilink")（[Apink](../Page/Apink.md "wikilink")）、[全炫茂](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")、[朴俊亨](https://zh.wikipedia.org/wiki/朴俊亨 "wikilink") （[g.o.d](https://zh.wikipedia.org/wiki/g.o.d "wikilink")）、DinDin等人\[2\]共同主持，目前由[全炫茂及](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")[張度練](../Page/張度練.md "wikilink")共同主持，節目主軸為搜羅娛樂圈和韓國各行各業偶像級人士，挖掘他們冷門的爆料或不廣為大眾所知的資料和奇聞\[3\]\[4\]，由Idol Room監製製作。
+《**TMI News**》（），為韓國[Mnet](../Page/Mnet.md "wikilink")電視台於2019年推出的綜藝節目\[1\]，過往由[尹普美](../Page/尹普美.md "wikilink")（[Apink](../Page/Apink.md "wikilink")）、[全炫茂](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")、[朴俊亨](https://zh.wikipedia.org/wiki/朴俊亨 "wikilink") （[g.o.d](https://zh.wikipedia.org/wiki/g.o.d "wikilink")）、[DinDin](../Page/DinDin.md "wikilink")等人\[2\]共同主持，目前由[全炫茂及](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")[張度練](../Page/張度練.md "wikilink")共同主持，節目主軸為搜羅娛樂圈和韓國各行各業偶像級人士，挖掘他們冷門的爆料或不廣為大眾所知的資料和奇聞\[3\]\[4\]，由Idol Room監製製作。
 
 ## 概況
 
@@ -124,6 +124,9 @@
 
 ## 各集內容
 
+|  |
+|  |
+|  |
 |  |
 |  |
 |  |

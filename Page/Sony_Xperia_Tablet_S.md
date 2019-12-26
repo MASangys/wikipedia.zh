@@ -26,7 +26,7 @@ Xperia Tablet S提供16GB、32GB和64GB几种规格型号。在北美市场仅�
 
 ## 外部链接
 
-  - [索尼Tablet S](http://discover.store.sony.com/tablet)官方网站
+  - [索尼Tablet S](https://web.archive.org/web/20181022004402/http://discover.store.sony.com/tablet/)官方网站
 
 [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2012年面世的產品](https://zh.wikipedia.org/wiki/Category:2012年面世的產品 "wikilink") [Category:索尼产品](https://zh.wikipedia.org/wiki/Category:索尼产品 "wikilink") [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink")
 

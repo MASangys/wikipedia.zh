@@ -1920,7 +1920,6 @@ Poptime</p></td>
 
   -
   - 最終排名儀式(淘汰第11-20名)。
-
       - 前10名及4次投票數累積最高者，共11位練習生獲選為[X1出道](../Page/X1_\(組合\).md "wikilink")。
 
 | 最終排名儀式結果    |
@@ -2272,30 +2271,45 @@ Poptime</p></td>
 
   - 尹书彬：因未成年喝酒抽烟，而被JYP开除以及退赛。\[7\]\[8\]\[9\]
   - 崔秉燦：因健康問題（慢性[阿基里斯腱炎](../Page/跟腱.md "wikilink")）而退出。\[10\]
+  - 林時宇
 
 ## 練習生後續發展
 
 ### 轉投公司之練習生
 
-| 日期         | 練習生  | 事項                      | 來源        | 原公司                      | 现公司                 |
-| ---------- | ---- | ----------------------- | --------- | ------------------------ | ------------------- |
-| 2019年6月21日 | 鄭榮彬  | 加入DS練習                  | 經官方宣佈     | 個人練習生 9位 \> 8位           | DS練習生 1位 \> 2位      |
-| 2019年7月29日 | 李協   | 加入Woollim練習             | 經官方宣佈     | 個人練習生 8位 \> 7位           | Woollim練習生 6位 \> 7位 |
-| 2019年8月7日  | 文俊號  | 離開Woollim，開設個人社交帳號      | 經粉絲確認     | Woollim練習生 7位 \> 6位      | 個人練習生 7位 \> 8位      |
-| 2019年8月20日 | 姜錫華  | 加入OUI練習                 | 經官方宣佈     | 個人練習生 8位 \> 7位           | OUI練習生 1位 \> 2位     |
-| 2019年8月29日 | 日高真尋 | 加入OUI練習                 | 經新聞報導     | YG練習生 2位 \> 1位           | OUI練習生 2位 \> 3位     |
-| 2019年9月1日  | 崔時赫  | 離開Around Us，開設個人社交帳號    | 經粉絲確認     | Around Us練習生 3位 \> 2位    | 個人練習生 7位 \> 8位      |
-| 2019年9月10日 | 王君豪  | 加入OUI練習                 | 經新聞報導     | YG練習生 1位 \> 0位           | OUI練習生 3位 \> 4位     |
-| 2019年9月15日 | 蔡家豪  | 離開Source Music，開設個人社交帳號 | 經個人社交帳號宣布 | Source Music練習生 3位 \> 2位 | 個人練習生 8位 \> 9位      |
-|            |      |                         |           |                          |                     |
+| 日期          | 練習生  | 事項                      | 來源        | 原公司                      | 现公司                      |
+| ----------- | ---- | ----------------------- | --------- | ------------------------ | ------------------------ |
+| 2019年6月21日  | 鄭榮彬  | 加入DS練習                  | 經官方宣佈     | 個人練習生 9位 \> 8位           | DS練習生 1位 \> 2位           |
+| 2019年7月29日  | 李協   | 加入Woollim練習             | 經官方宣佈     | 個人練習生 8位 \> 7位           | Woollim練習生 6位 \> 7位      |
+| 2019年8月7日   | 文俊號  | 離開Woollim，開設個人社交帳號      | 經粉絲確認     | Woollim練習生 7位 \> 6位      | 個人練習生 7位 \> 8位           |
+| 2019年8月20日  | 姜錫華  | 加入OUI練習                 | 經官方宣佈     | 個人練習生 8位 \> 7位           | OUI練習生 1位 \> 2位          |
+| 2019年8月29日  | 日高真尋 | 加入OUI練習                 | 經新聞報導     | YG練習生 2位 \> 1位           | OUI練習生 2位 \> 3位          |
+| 2019年9月1日   | 崔時赫  | 離開Around Us，開設個人社交帳號    | 經粉絲確認     | Around Us練習生 3位 \> 2位    | 個人練習生 7位 \> 8位           |
+| 2019年9月10日  | 王君豪  | 加入OUI練習                 | 經新聞報導     | YG練習生 1位 \> 0位           | OUI練習生 3位 \> 4位          |
+| 2019年9月15日  | 蔡家豪  | 離開Source Music，開設個人社交帳號 | 經個人社交帳號宣布 | Source Music練習生 3位 \> 2位 | 個人練習生 8位 \> 9位           |
+| 2019年10月11日 | 李宥珍  | 加入Namoo Actors練習        | 經新聞報導     | 個人練習生 9位 \> 8位           | Namoo Actors練習生 0位 \> 1位 |
+| 2019年10月19日 | 文賢彬  | 離開STARSHIP，開設個人社交帳號     | 經粉絲確認     | STARSHIP練習生 5位 \> 4位     | 個人練習生 8位 \> 9位           |
+| 2019年11月29日 | 金東彬  | 加入天加一練習                 | 經新聞報導     | MLD練習生 1位 \> 0位          | 天加一練習生 0位 \> 1位          |
+|             |      |                         |           |                          |                          |
 
 ### 已出道練習生
 
-| 出道日期       | 出道團體     | 所屬公司    | 關聯成員        |
-| ---------- | -------- | ------- | ----------- |
-| 2019年9月18日 | TEENTEEN | Maroo娛樂 | 李宇鎮、李津宇、李太勝 |
-| 2019年11月   | CYF      | AAP.Y   | 姜賢秀、李美談、鄭明勳 |
-|            |          |         |             |
+| 出道日期        | 出道團體                                                | 所屬公司           | 關聯成員        |
+| ----------- | --------------------------------------------------- | -------------- | ----------- |
+| 2019年9月18日  | [TEEN TEEN](../Page/TEEN_TEEN.md "wikilink")        | Maroo娛樂        | 李宇鎮、李津宇、李太勝 |
+| 2019年10月29日 | [BDC](https://zh.wikipedia.org/wiki/BDC "wikilink") | BRANDNEW MUSIC | 金施勲、尹晶煥、洪誠俊 |
+| 2019年12月5日  | JxR                                                 | ESVINE         | 朴俞里、白真      |
+|             |                                                     |                |             |
+
+### 參與其他節目練習生
+
+| 日期       | 所屬公司  | 練習生                              | 節目                                                           |
+| -------- | ----- | -------------------------------- | ------------------------------------------------------------ |
+| 2019年9月  | JH1   | 上原潤                              | [PRODUCE 101 JAPAN](../Page/PRODUCE_101_JAPAN.md "wikilink") |
+| 2019年11月 | AAP.Y | [姜賢秀](../Page/姜賢秀.md "wikilink") | G-EGG\[11\]                                                  |
+| NEST     | 朴潤率   |                                  |                                                              |
+
+
 
 ## 其他演出
 
@@ -2378,6 +2392,14 @@ Poptime</p></td>
 | 日期         | 活動名稱                      | 地點        | 參加人員 |
 | ---------- | ------------------------- | --------- | ---- |
 | 2019年3月20日 | PRODUCE X 101 RUNWAY SHOW | 光廊台廣播支援中心 | 全體   |
+
+## 争议
+
+2019年10月15日，MBC《PD手册》节目通过对参与本季节目的部分练习生及其家属等人，甚至该节目工作人员、相关娱乐公司的代表的采访，爆出以《PRODUCE X 101》为代表的CJ系的选秀节目诸如具有倾向性的剪辑、投票数造假、出道席位部分“内定”、节目存在“剧本”等争议情节。10月1日，首尔地方警察厅宣布因该节目投票数作假，已立案调查Starship、Woolim、MBK等涉事经纪公司，并于10月16日针对该节目制作团队展开进一步调查。
+
+《PD手册》还指出，因此节目的作假事件，韩国国会甚至于2019年9月对此事展开国政调查。
+
+2019年11月14日，導演安俊英向警方承認《PRODUCE X 101》系列一到四季皆有投票造假。
 
 ## 收視率
 
@@ -2484,7 +2506,7 @@ Poptime</p></td>
 
   - [PRODUCE X 101](https://www.youtube.com/playlist?list=PLjUVzlcpeN4Ru5f3rdM4A-10O76tfEmPp)的[Youtube影音](https://zh.wikipedia.org/wiki/Youtube "wikilink")（Mnet KPOP）
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink") [Category:韩国音乐比賽](https://zh.wikipedia.org/wiki/Category:韩国音乐比賽 "wikilink") [Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink") [Category:PRODUCE_101](https://zh.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink") [Category:X1_(組合)](https://zh.wikipedia.org/wiki/Category:X1_\(組合\) "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink") [Category:韩国音乐比賽](https://zh.wikipedia.org/wiki/Category:韩国音乐比賽 "wikilink") [Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink") [Category:PRODUCE_101](https://zh.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink")
 
 1.
 2.
@@ -2496,3 +2518,4 @@ Poptime</p></td>
 8.  [尹書彬被JYP解約 《PRODUCE X 101》將刪出鏡片段](https://www.msn.com/zh-hk/entertainment/news/%E5%B0%B9%E6%9B%B8%E5%BD%AC%E8%A2%ABjyp%E8%A7%A3%E7%B4%84-%E3%80%8Aproduce-x-101%E3%80%8B%E5%B0%87%E5%88%AA%E5%87%BA%E9%8F%A1%E7%89%87%E6%AE%B5/ar-AAB4lpV)
 9.  [前JYP練習生尹書彬 解約後正物色新公司](https://hk.celebrity.yahoo.com/%E5%89%8Djyp%E7%B7%B4%E7%BF%92%E7%94%9F%E5%B0%B9%E6%9B%B8%E5%BD%AC-%E8%A7%A3%E7%B4%84%E5%BE%8C%E6%AD%A3%E7%89%A9%E8%89%B2%E6%96%B0%E5%85%AC%E5%8F%B8-085633305.html)
 10. [遺憾！VICTON 崔秉燦因健康問題退出《Produce X 101》](https://www.koreastardaily.com/tc/news/118293)
+11.

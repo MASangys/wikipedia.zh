@@ -20,15 +20,15 @@
 
 ### 2019年
 
-5月3日，參加Mnet電視台推出的綜藝節目[PRODUCE X 101的練習生](../Page/PRODUCE_X_101.md "wikilink")[金曜漢](../Page/金曜漢.md "wikilink")獲得第一名，並在8月27日以X1的中心正式出道，團體活動限定5年，前2.5年為專屬合約，後2.5年可於原公司進行活動。。
+5月至7月，練習生[金曜漢](../Page/金曜漢.md "wikilink")參加Mnet選秀節目[PRODUCE X 101獲得第一名](../Page/PRODUCE_X_101.md "wikilink")，於8月27日以X1中心位置正式出道，團體活動限定5年，前2.5年為專屬合約，後2.5年可於原公司進行活動。
 
-8月20日，招募了個人練習生[姜錫華](../Page/姜錫華.md "wikilink")\[1\]
+8月20日，個人練習生[姜錫華](../Page/姜錫華.md "wikilink")加入。\[1\]
 
 8月27日，結束RAINZ活動的[張大賢](../Page/張大賢.md "wikilink")發行了他的首張單曲“FEEL GOOD”。
 
-8月29日，招募了YG日本練習生Mahiro Hidaka\[2\]
+8月29日，前YG練習生[日高真尋加入](https://zh.wikipedia.org/wiki/日高真尋 "wikilink")。\[2\]
 
-9月10日，招募了YG台灣練習生[王君豪](../Page/王君豪.md "wikilink")\[3\]
+9月10日，前YG練習生[王君豪](../Page/王君豪.md "wikilink")加入。\[3\]
 
 ## 旗下藝人
 

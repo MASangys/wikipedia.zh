@@ -8,7 +8,7 @@ Pixel 3a及Pixel 3a XL各有三种颜色的版本：全黑、纯白（电源按�
 
 ### 硬件
 
-Pixel 3a和Pixel 3a XL搭载[高通骁龙670](https://zh.wikipedia.org/wiki/高通驍龍元件列表#Snapdragon_670/675 "wikilink")、4GB内存以及64GB的手机内部存储空间。与Pixel 3系列不同的是，两款手机既不支持[无线充电](../Page/Qi_\(無線充電標準\).md "wikilink")，也不防水，同时也没有搭载Pixel 2系列开始推出的Pixel Visual Core，但保留Pixel 2系列开始缺失的[3.5毫米音频接口](../Page/TRS端子.md "wikilink")。\[4\]手机底部的USB-C接口可用于充电及连接其他设备。两款手机均配备了Pixel 2系列推出的Active Edge挤压边框功能，在相关手势开启的情况下，用户可通过挤压手机两侧的方式启动[Google助理](../Page/Google助理.md "wikilink")。\[5\]
+Pixel 3a和Pixel 3a XL搭载[高通骁龙670](https://zh.wikipedia.org/wiki/高通驍龍元件列表#Snapdragon_670/675 "wikilink")、4GB内存以及64GB的手机内部存储空间。与Pixel 3系列不同的是，两款手机既不支持[无线充电](../Page/Qi_\(無線充電標準\).md "wikilink")，也不防水，同时也没有搭载Pixel 2系列开始推出的“Pixel视觉核心（）”芯片，但保留Pixel 2系列开始缺失的[3.5毫米音频接口](../Page/TRS端子.md "wikilink")。\[4\]手机底部的USB-C接口可用于充电及连接其他设备。两款手机均配备了Pixel 2系列推出的Active Edge挤压边框功能，在相关手势开启的情况下，用户可通过挤压手机两侧的方式启动[Google助理](../Page/Google助理.md "wikilink")。\[5\]
 
 #### 相机
 
@@ -27,7 +27,7 @@ Pixel 3a及Pixel 3a XL的出厂原装系统均为[Android 9.0 Pie](../Page/Andro
 
 ## 反响
 
-Pixel 3a系列的拍摄质量受到高度正面评价，该机型也被认为是中端价位手机中拍摄质量最好的。Tom's Guide给该系列机型的评分为“4.5/5”，称其为花费仅400美元所能够获得的拍摄质量、软件以及显示表现最好的手机\[12\]。[The Verge为该系列机型给予的评分为](../Page/The_Verge.md "wikilink")“8/10”，称这两款机型所拍摄出的照片和Pixel 3系列所拍摄出的照片很难区分\[13\]。另外，这两款手机的电池寿命也获得普遍的正面评价。然而有部分评论认为该手机缺乏特色。
+Pixel 3a系列的拍摄质量受到高度正面评价，该机型也被认为是中端价位手机中拍摄质量最好的。Tom's Guide给该系列机型的评分为“4.5/5”，称其为400美元价位手机中拍摄质量、软件以及显示表现最好的\[12\]。[The Verge为该系列机型给予的评分为](../Page/The_Verge.md "wikilink")“8/10”，称这两款机型所拍摄出的照片和Pixel 3系列所拍摄出的照片很难区分\[13\]。另外，这两款手机的电池寿命也获得普遍的正面评价。然而有部分评论认为该手机缺乏特色。
 
 2019年7月20日，[DxOMark](../Page/DxOMark.md "wikilink")公布了Pixel 3a系列的拍摄评分，其中综合评分为100分（仅比Pixel 3系列及[iPhone XR少](https://zh.wikipedia.org/wiki/iPhone_XR "wikilink")1分），拍照评分为103分，视频评分为95分。\[14\]
 
@@ -47,37 +47,22 @@ Pixel 3a系列的拍摄质量受到高度正面评价，该机型也被认为是
 [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:全螢幕手機](https://zh.wikipedia.org/wiki/Category:全螢幕手機 "wikilink") [Category:2019年面世的手機](https://zh.wikipedia.org/wiki/Category:2019年面世的手機 "wikilink") [Category:Google手機](https://zh.wikipedia.org/wiki/Category:Google手機 "wikilink") [Category:Google_Pixel](https://zh.wikipedia.org/wiki/Category:Google_Pixel "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.

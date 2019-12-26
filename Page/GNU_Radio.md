@@ -61,4 +61,4 @@ GNU Radio提供了许多常见的绘图和数据可视化数据接收器，包�
 3.  [Mail on GNU Radio mailinglist announcing leadership transition](https://www.mail-archive.com/discuss-gnuradio@gnu.org/msg58528.html)
 4.  [Mail on the GNU Radio mailing list discussing the maintainer transition](https://lists.gnu.org/archive/html/discuss-gnuradio/2018-02/msg00006.html)
 5.  ["GNU Radio Companion Wiki"](http://gnuradio.org/redmine/projects/gnuradio/wiki/GNURadioCompanion)
-6.  ["GNU Radio Wiki - PyBOMBS"](http://gnuradio.org/redmine/projects/pybombs/wiki)
+6.

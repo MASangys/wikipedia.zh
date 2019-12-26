@@ -62,20 +62,13 @@
 [Category:意大利综合企业公司](https://zh.wikipedia.org/wiki/Category:意大利综合企业公司 "wikilink") [Category:義大利公司](https://zh.wikipedia.org/wiki/Category:義大利公司 "wikilink") [Category:都灵公司](https://zh.wikipedia.org/wiki/Category:都灵公司 "wikilink") [Category:2008年成立的公司](https://zh.wikipedia.org/wiki/Category:2008年成立的公司 "wikilink") [Category:意大利證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:意大利證券交易所上市公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
 10.
-
 11.

@@ -4,14 +4,14 @@
 
 ### 主要人物
 
-|                                   |        |                                                                                          |
-| --------------------------------- | ------ | ---------------------------------------------------------------------------------------- |
-| **演員**                            | **角色** | **介紹**                                                                                   |
-| [成勛](../Page/成勛.md "wikilink")    | 安丹泰    | 流星CRC本部長，具備不顯露感情的撲克臉的結構調整專門企業「流星CRC」的王牌，任何將倒閉的企業只要經他調整後都會重新復活。因小時候對遊戲的創傷，說過不會負責遊戲公司相關事務。 |
-| [韓寶凜](../Page/韓寶凜.md "wikilink")  | 沈妍花    | 曾是遊戲公司Joy Buster的3年職員，隨着前輩提早退休，被迅速提升為企劃組長。她將丹泰誤解為一個跟蹤狂股東，因而結下了孽緣，看見他成為公司的新任代表理事感到吃驚。     |
-| [車善玗](../Page/Baro.md "wikilink") | 郭韓哲    | 流星CRC新入職職員，比起追求成功，更追求幸福的善良男人。他因家境貧寒而放棄進入大學，幫助爸爸工作，後來才進入就業市場。                             |
-| [姜星](../Page/姜星.md "wikilink")    | 裴夜彩    | Arena Entertainment代表，以前是公司的職員，在丹特成功重整業務離任後，他將代表職位送給她。在獲得成功後，她希望找到方法抓住丹特的心。              |
-| [安信源](../Page/安信源.md "wikilink")  | 朴吉宇    | 流星CRC室長，流星CRC總裁的獨子。一般來說，爸爸是會長的話，兒子就會是本部長。但是他知道自己的實力，故真心信任並追隨丹特，滿足於室長一職，是一個追求幸福的YOLO族。    |
+|                                   |             |                                                                                          |
+| --------------------------------- | ----------- | ---------------------------------------------------------------------------------------- |
+| **演員**                            | **角色**\[3\] | **介紹**                                                                                   |
+| [成勛](../Page/成勛.md "wikilink")    | 安丹特         | 流星CRC本部長，具備不顯露感情的撲克臉的結構調整專門企業「流星CRC」的王牌，任何將倒閉的企業只要經他調整後都會重新復活。因小時候對遊戲的創傷，說過不會負責遊戲公司相關事務。 |
+| [韓寶凜](../Page/韓寶凜.md "wikilink")  | 沈妍華         | 曾是遊戲公司Joy Buster的3年職員，隨着前輩提早退休，被迅速提升為企劃組長。她將丹泰誤解為一個跟蹤狂股東，因而結下了孽緣，看見他成為公司的新任代表理事感到吃驚。     |
+| [車善玗](../Page/Baro.md "wikilink") | 郭韓哲         | 流星CRC新入職職員，比起追求成功，更追求幸福的善良男人。他因家境貧寒而放棄進入大學，幫助爸爸工作，後來才進入就業市場。                             |
+| [姜星](../Page/姜星.md "wikilink")    | 裴夜彩         | Arena Entertainment代表，以前是公司的職員，在丹特成功重整業務離任後，他將代表職位送給她。在獲得成功後，她希望找到方法抓住丹特的心。              |
+| [安信源](../Page/安信源.md "wikilink")  | 朴吉宇         | 流星CRC室長，流星CRC總裁的獨子。一般來說，爸爸是會長的話，兒子就會是本部長。但是他知道自己的實力，故真心信任並追隨丹特，滿足於室長一職，是一個追求幸福的YOLO族。    |
 
 ### 其他人物
 
@@ -82,7 +82,7 @@
 <tr class="header">
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[3]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[4]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -169,8 +169,9 @@
 
   - [韓國MBN官方網站](http://www.mbn.co.kr/pages/vod/programMain.php?progCode=796)
 
-[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:勵志題材電視劇](https://zh.wikipedia.org/wiki/Category:勵志題材電視劇 "wikilink")
+[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:勵志題材電視劇](https://zh.wikipedia.org/wiki/Category:勵志題材電視劇 "wikilink") [Category:電腦工作題材電視節目](https://zh.wikipedia.org/wiki/Category:電腦工作題材電視節目 "wikilink")
 
 1.  [七月新劇《LEVEL UP》公開成勛、韓寶凜等五位主演的官方海報！](https://www.koreastardaily.com/tc/news/117749)，韓星網，2019-06-21
 2.  [宅女也能遇上帥哥！「本部長」成勛×韓寶凜新劇《打怪羅曼史》一同破關升級](https://www.niusnews.com/=P1rcvn42)，妞新聞，2019-07-06
-3.
+3.  按LiTV角色名字
+4.

@@ -4,7 +4,7 @@ DBeaver的社区版是一个[自由及开放源代码软件](../Page/自由及�
 
 ## 支持的平台和语言
 
-Dbeaver是一个跨平台工具，可以在Eclipse支持的平台（[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[MacOS X](../Page/MacOS.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")）上工作。有英语、中文、俄语、意大利语和德语四种语言。
+Dbeaver是一个跨平台工具，可以在Eclipse支持的平台（[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[MacOS X](../Page/MacOS.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")）上工作。有英语、中文、俄语、意大利语和德语五种语言。
 
 ## 功能
 

@@ -21,7 +21,7 @@ Qoo10讓你省掉這些問題及麻煩。Qoo10是由韓國Gmarket原CEO與美國
 
 ## 外部連結
 
-  - [Qoo10 台灣](http://tw.qoo10.com/)
+  - [Qoo10 台灣](http://www.qoo10.tw)
   - [Qoo10 全球](http://qoo10.com/)
   - [Qoo10 日本](http://qoo10.jp/)
   - [Qoo10 新加坡](http://qoo10.sg/)

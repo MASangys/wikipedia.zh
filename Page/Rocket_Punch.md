@@ -50,7 +50,7 @@
 <ul>
 <li>發行日期：2019年8月7日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>銷量：16,006+[5]</li>
+<li>銷量：18,561+[5]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -173,6 +173,14 @@
 <td><p>團綜</p></td>
 <td><p>紀錄幕後花絮及表演情況。</p></td>
 </tr>
+<tr class="even">
+<td><p>2019年9月19日至今</p></td>
+<td><p>YouTube</p></td>
+<td><p>《Punch Time》</p></td>
+<td><p>全員</p></td>
+<td><p>團綜</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -233,6 +241,12 @@
 | 日期        | 舉行地點               |
 | --------- | ------------------ |
 | 2019年8月7日 | 首爾 Yes24 Live Hall |
+
+  - 2019 Rocket Punch 1st Fanmeeting <Punch Time>
+
+| 日期          | 舉行地點                     |
+| ----------- | ------------------------ |
+| 2019年10月26日 | Blue Square IMarket Hall |
 
 ## 獎項
 

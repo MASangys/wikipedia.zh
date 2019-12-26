@@ -42,7 +42,7 @@ pacetoon公司在阿拉伯世界除了主要的現有Spacetoon頻道外還有三
 
   - [Spacetoon Arabic website](http://www.spacetoon.com)
 
-  - [Spacetoon Indonesia website](http://www.spacetoon.co.id)
+  - [Spacetoon Indonesia website](https://web.archive.org/web/20150816065816/http://www.spacetoon.co.id/)
 
   -
   -
@@ -53,11 +53,8 @@ pacetoon公司在阿拉伯世界除了主要的現有Spacetoon頻道外還有三
 [Category:阿拉伯語電視頻道](https://zh.wikipedia.org/wiki/Category:阿拉伯語電視頻道 "wikilink") [Category:兒童電視網](https://zh.wikipedia.org/wiki/Category:兒童電視網 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.

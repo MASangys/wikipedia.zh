@@ -16,7 +16,7 @@ Ms. Dynamite(原叫Lady Dynamite)最初因她UK garage曲风的歌曲《Booo\!�
 
 2002年她发行了首张专辑《*A Little Deeper\]*》，其中包括热门歌曲《It Takes More》和《Dy-na-mi-tee》。2003年这张专辑在美国发行，好评如潮。 2002年她获得了著名的水星音乐奖。\[1\] 她将20000英镑的奖金捐给了英国防止虐待儿童协会。
 
-她2002年于[曼徹斯特市球場](../Page/曼徹斯特市球場.md "wikilink")举行的[大英国协运动会闭幕式上表演](https://zh.wikipedia.org/wiki/英聯邦運動會 "wikilink")。2005年7月2日她在伦敦[海德公园](../Page/海德公园.md "wikilink")举行的Live 8音乐会上演出，演唱的歌曲包括由[巴布·馬利](../Page/巴布·馬利.md "wikilink")写的《Redemption Song》。
+她2002年于[曼徹斯特市球場](../Page/曼徹斯特市球場.md "wikilink")举行的[大英国协运动会闭幕式上表演](../Page/英聯邦運動會.md "wikilink")。2005年7月2日她在伦敦[海德公园](../Page/海德公园.md "wikilink")举行的Live 8音乐会上演出，演唱的歌曲包括由[巴布·馬利](../Page/巴布·馬利.md "wikilink")写的《Redemption Song》。
 
 ### 2005–2006: 《*Judgement Days》*
 

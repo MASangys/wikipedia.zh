@@ -19,34 +19,20 @@ Conda是用Python语言开发，但能管理其他编程语言的项目（如[R�
 [Category:软件包管理系统](https://zh.wikipedia.org/wiki/Category:软件包管理系统 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
 14.
-
 15. [Bioconda official website](https://bioconda.github.io/)
-
 16.
-
 17.
-
 18.

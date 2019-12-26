@@ -45,62 +45,36 @@
 [Category:絕對武力系列](https://zh.wikipedia.org/wiki/Category:絕對武力系列 "wikilink") [Category:電子遊戲關卡](https://zh.wikipedia.org/wiki/Category:電子遊戲關卡 "wikilink") [Category:2001年面世](https://zh.wikipedia.org/wiki/Category:2001年面世 "wikilink") [Category:虚构地区](https://zh.wikipedia.org/wiki/Category:虚构地区 "wikilink") [Category:電子遊戲地點](https://zh.wikipedia.org/wiki/Category:電子遊戲地點 "wikilink") [Category:2001年电子游戏界](https://zh.wikipedia.org/wiki/Category:2001年电子游戏界 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.   Esports News & Videos {{\!}} Dexerto|last=Deason|first=Ross|work=Dexerto|date=February 2017|access-date=November 12, 2017|archive-url=[https://web.archive.org/web/20171113165228/https://www.dexerto.com/news/dust-2-supposed-look-different/25846|archive-date=November](https://web.archive.org/web/20171113165228/https://www.dexerto.com/news/dust-2-supposed-look-different/25846%7Carchive-date=November) 13, 2017|dead-url=no|language=en-US}}
-
 10.
-
 11.
-
 12.
 13.
-
 14.
 15.
-
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
 27.
-
 28.
 29.  Esports News & Videos {{\!}} Dexerto|first=Mike|last=Kent|work=Dexerto|access-date=February 27, 2018|date=2016|archive-url=[https://web.archive.org/web/20180228163044/https://www.dexerto.com/news/csgo-update-removes-inferno-old-map/16786|archive-date=February](https://web.archive.org/web/20180228163044/https://www.dexerto.com/news/csgo-update-removes-inferno-old-map/16786%7Carchive-date=February) 28, 2018|dead-url=no|language=en-US}}
-
 30.  Esports News & Videos {{\!}} Dexerto|first=Mike|last=Kent|work=Dexerto|access-date=February 27, 2018|date=October 2016|archive-url=[https://web.archive.org/web/20180228164550/https://www.dexerto.com/news/csgo-beta-update-includes-improved-inferno-teaser/22067|archive-date=February](https://web.archive.org/web/20180228164550/https://www.dexerto.com/news/csgo-beta-update-includes-improved-inferno-teaser/22067%7Carchive-date=February) 28, 2018|dead-url=no|language=en-US}}
-
 31.
-
 32.
 33.
-
 34.

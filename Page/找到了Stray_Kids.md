@@ -132,6 +132,7 @@ Lee Know、彰彬</p></td>
 
 ## 外部連結
 
+  - [Genie官方網頁](https://www.genie.co.kr/genietv/broadcastDetail/572)
   - [Mnet官方網頁](http://www.mnet.com/tv/program/2139)
   - [NAVER官方頻道](https://tv.naver.com/cjenm.FindingSKZ)
 

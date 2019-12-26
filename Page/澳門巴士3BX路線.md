@@ -6,6 +6,8 @@
 
 因應“五一黃金週”連續假期將至，交通事務局於5月1日09:00至14:00，臨時新增路線，採用點對點方式運作。
 
+2019年10月3日，因國慶黃金周期間大批內地遊客回去內地，由15:30起，緊急開辦本線，由亞馬喇前地直達關閘，服務持續至客流回落後停止。
+
 ## 路線及收費資料
 
 ### 收費
@@ -24,14 +26,57 @@
 | **班距**                                     | 6-10分鐘                |
 |                                            |                       |
 
+| **服務時間**                                                       | 2019年10月3日  |
+| -------------------------------------------------------------- | ----------- |
+| [亞馬喇前地](https://zh.wikipedia.org/wiki/亞馬喇前地公共巴士轉乘區 "wikilink") | 15:30-客流回落後 |
+| **班距**                                                         | 6-10分鐘      |
+|                                                                |             |
+
 ### 路線停站
 
-|                                                                |                    |
-| :------------------------------------------------------------: | :----------------: |
-|                            **3BX**                             | **關閘** → **亞馬喇前地** |
-|           [關閘廣場](../Page/關閘廣場_\(巴士站\).md "wikilink")           |                    |
-|                               ↓                                |                    |
-| [亞馬喇前地](https://zh.wikipedia.org/wiki/亞馬喇前地公共巴士轉乘區 "wikilink") |                    |
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p><strong>3BX</strong><br />
+新年期間</p></td>
+<td style="text-align: center;"><p><strong>關閘</strong> → <strong>亞馬喇前地</strong></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p><a href="../Page/關閘廣場_(巴士站).md" title="wikilink">關閘廣場</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>↓</p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/亞馬喇前地公共巴士轉乘區" title="wikilink">亞馬喇前地</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p><strong>3BX</strong><br />
+國慶期間</p></td>
+<td style="text-align: center;"><p><strong>亞馬喇前地</strong> → <strong>關閘</strong></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/亞馬喇前地公共巴士轉乘區" title="wikilink">亞馬喇前地</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>↓</p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p><a href="../Page/關閘廣場_(巴士站).md" title="wikilink">關閘廣場</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考資料
 

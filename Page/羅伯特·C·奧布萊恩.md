@@ -1,4 +1,4 @@
-罗伯特·查尔斯·欧布莱恩·\[1\] (born 1965 or 1966)\[2\](1965年或1966年出生)，美国律师，现任美国国家安全顾问，美国人质事务总统特使。他也是洛杉矶精品律师事务所Larson O'Brien LLP的合伙人\[3\]\[4\]。
+罗伯特·查尔斯·欧布莱恩\[1\]（，）\[2\]，美国律师，现任美国国家安全顾问，美国人质事务总统特使。他也是洛杉矶精品律师事务所Larson O'Brien LLP的合伙人\[3\]\[4\]。
 
 ## 早年和教育
 
@@ -42,7 +42,7 @@
 
 ## 个人生活
 
-欧布莱恩出生时是天主教徒，20多岁时皈依了[耶稣基督后期圣徒教会](https://zh.wikipedia.org/wiki/耶稣基督后期圣徒教会 "wikilink")。在被任命为特朗普总统的国家安全顾问后，他成为美国政府当代最高级别的圣人。\[30\]
+欧布莱恩出生时是天主教徒，20多岁时皈依了[耶稣基督后期圣徒教会](https://zh.wikipedia.org/wiki/耶稣基督后期圣徒教会 "wikilink")。在被任命为特朗普总统的国家安全顾问后，他成为美国政府当代最高级别的摩爾門教徒。\[30\]
 
 ## 著作
 
@@ -61,60 +61,39 @@
 ## 外部链接
 
   - [State Department Cultural Property Advisory Committee](http://exchanges.state.gov/heritage/culprop/committee.html)
-  - [Arent Fox listing for O'Brien](http://www.arentfox.com/people/index.cfm?fa=profile&id=285)
+  - [Arent Fox listing for O'Brien](https://web.archive.org/web/20120525105820/http://www.arentfox.com/people/index.cfm?fa=profile&id=285)
 
-[Category:美國共和黨黨員](https://zh.wikipedia.org/wiki/Category:美國共和黨黨員 "wikilink") [Category:美國律師](https://zh.wikipedia.org/wiki/Category:美國律師 "wikilink") [Category:加州人](https://zh.wikipedia.org/wiki/Category:加州人 "wikilink") [Category:美國國務院官員](https://zh.wikipedia.org/wiki/Category:美國國務院官員 "wikilink") [Category:律師出身的政治人物](https://zh.wikipedia.org/wiki/Category:律師出身的政治人物 "wikilink")
+[Category:美國共和黨黨員](https://zh.wikipedia.org/wiki/Category:美國共和黨黨員 "wikilink") [Category:美國律師](https://zh.wikipedia.org/wiki/Category:美國律師 "wikilink") [Category:加州人](https://zh.wikipedia.org/wiki/Category:加州人 "wikilink") [Category:美國國務院官員](https://zh.wikipedia.org/wiki/Category:美國國務院官員 "wikilink") [Category:律師出身的政治人物](https://zh.wikipedia.org/wiki/Category:律師出身的政治人物 "wikilink") [Category:美國後期聖徒](https://zh.wikipedia.org/wiki/Category:美國後期聖徒 "wikilink")
 
 1.
 2.
 3.
-
 4.
-
 5.
 6.
 7.  Robert C. O'Brien, LinkedIn <https://www.linkedin.com/in/robertcobrien/>
-
 8.
-
 9.
 10.
-
 11. Lee, Alfred. "Firm Heads to Westside to Link With Tech Scene." *Los Angeles Business Journal* May 2014.
-
 12. Martin, Timothy W. "Deadline Is Set to Help S\&P Prepare Its Defense in U.S. Fraud Lawsuit." *The Wall Street Journal* 29 May 2014.
-
 13.
 14.
-
 15. [White House nomination](https://georgewbush-whitehouse.archives.gov/news/nominations/1187.html)
-
 16.
 17.
 18.
 19.
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28. [Time article "Romney Consolidates"](http://thepage.time.com/2011/10/06/romney-consolidates/)
-
 29.
-
 30.
-
 31.
-
 32.

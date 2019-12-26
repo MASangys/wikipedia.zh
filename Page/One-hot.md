@@ -61,16 +61,10 @@ One-hot編碼常常被用來表示一個[有限狀態機的](https://zh.wikipedi
 [Category:機器學習](https://zh.wikipedia.org/wiki/Category:機器學習 "wikilink") [Category:数字电路](https://zh.wikipedia.org/wiki/Category:数字电路 "wikilink") [Category:数字电路](https://zh.wikipedia.org/wiki/Category:数字电路 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.

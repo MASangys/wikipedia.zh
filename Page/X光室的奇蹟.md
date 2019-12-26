@@ -252,6 +252,8 @@
 </tbody>
 </table>
 
+## 節目變遷
+
 ## 參考來源
 
 ## 外部链接
@@ -260,36 +262,21 @@
   - [X光室的奇蹟 - 富士電視台](https://www.fujitv.co.jp/radiationhouse/)
 
       -
-## 節目變遷
-
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:醫療漫画](https://zh.wikipedia.org/wiki/Category:醫療漫画 "wikilink") [Category:放射線學](https://zh.wikipedia.org/wiki/Category:放射線學 "wikilink") [Category:2019年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2019年開播的日本電視劇集 "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:日本醫學劇](https://zh.wikipedia.org/wiki/Category:日本醫學劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10. [ラジエーションハウス〜放射線科の診断レポート〜（FOD）](http://fod.fujitv.co.jp/s/genre/drama/ser4h42/4h42810001/)
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.

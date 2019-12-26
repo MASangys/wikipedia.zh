@@ -141,7 +141,7 @@
 </tr>
 <tr class="odd">
 <td><p>7月6日</p></td>
-<td><p>KCON 2019 NY</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M_Countdown特別活動#KCON_2019_NY" title="wikilink">KCON 2019 NY</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/麥迪遜廣場花園" title="wikilink">麥迪遜廣場花園</a></p></td>
 <td><p>[6]</p></td>
 <td></td>
@@ -153,6 +153,78 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M2_X_Genie_Music_Awards" title="wikilink">M2 X Genie Music Awards</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8月23日</p></td>
+<td><p><a href="../Page/Soribada最佳音樂大獎.md" title="wikilink">Soribada最佳音樂大獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8月27日</p></td>
+<td><p>KANSAI COLLECTION 2019 A/W</p></td>
+<td></td>
+<td><p><a href="../Page/大阪巨蛋.md" title="wikilink">京瓷巨蛋大阪</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9月7日</p></td>
+<td><p>TOKYO GIRLS COLLECTION 2019 A/W</p></td>
+<td><p><a href="../Page/埼玉超級競技場.md" title="wikilink">埼玉超級競技場</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月11日</p></td>
+<td><p>2019 CHANGWON K-POP WORLD FESTIVAL</p></td>
+<td></td>
+<td></td>
+<td><p>[7]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月16日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/VLIVE_AWARDS_V_HEARTBEAT" title="wikilink">2019 VLIVE AWARDS V HEARTBEAT</a></p></td>
+<td><p><a href="../Page/高尺天空巨蛋.md" title="wikilink">首爾高尺天空巨蛋</a></p></td>
+<td><p>[8]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11月26日</p></td>
+<td><p><a href="../Page/亞洲明星盛典.md" title="wikilink">2019 Asia Artist Awards</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/河內" title="wikilink">河內</a><a href="https://zh.wikipedia.org/wiki/美亭國家體育場" title="wikilink">美亭國家體育場</a></p></td>
+<td><p>[9]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月30日</p></td>
+<td><p><a href="../Page/甜瓜音樂獎.md" title="wikilink">MMA 2019</a></p></td>
+<td></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/高尺天空巨蛋.md" title="wikilink">高尺天空巨蛋</a></p></td>
+<td><p>[10]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月4日</p></td>
+<td><p><a href="../Page/Mnet亞洲音樂大獎.md" title="wikilink">2019 Mnet Asian Music Awards</a></p></td>
+<td></td>
+<td><p><a href="../Page/名古屋巨蛋.md" title="wikilink">名古屋巨蛋</a></p></td>
+<td><p>[11]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -170,3 +242,8 @@
 4.
 5.
 6.
+7.
+8.
+9.
+10.
+11.

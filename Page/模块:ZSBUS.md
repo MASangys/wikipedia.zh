@@ -5,12 +5,12 @@
 `       state, system = pcall(mw.loadData, "Module:ZSBUS/data")`
 `   elseif loc == "珠海"then`
 `       state, system = pcall(mw.loadData, "Module:ZSBUS/zhuhai")`
-`   --elseif loc == "佛山" then`
-`   --  state, system = pcall(mw.loadData, "Module:ZSBUS/foshan")`
+`   elseif loc == "佛山" then`
+`       state, system = pcall(mw.loadData, "Module:ZSBUS/foshan")`
 `   --elseif loc == "江门" or loc == "江門" then`
 `   --  state, system = pcall(mw.loadData, "Module:ZSBUS/jiangmen")`
-`   --else`
-`   --  state, system = pcall(mw.loadData, "Module:ZSBUS/data")`
+`   else`
+`       state, system = pcall(mw.loadData, "Module:ZSBUS/data")`
 `   end`
 `   return system`
 
@@ -31,11 +31,11 @@ end
 
 `   str = compname`
 `   len = #str`
-`   if len >18 or compname == "multi" then`
-`       return `[`width="1%"``   ``style="background:`](https://zh.wikipedia.org/wiki/width="1%"_style="background: "wikilink")`..c.colors['multi']..`[`"`](https://zh.wikipedia.org/wiki/" "wikilink")
+`   if p.revName[compname] then`
+`       return `[`width="1%"``   ``style="background:`](https://zh.wikipedia.org/wiki/width="1%"_style="background: "wikilink")`..c.colors[p.revName[compname]]..`[`"`](https://zh.wikipedia.org/wiki/" "wikilink")
 `   else`
-`       if p.revName[compname] then`
-`           return `[`width="1%"``   ``style="background:`](https://zh.wikipedia.org/wiki/width="1%"_style="background: "wikilink")`..c.colors[p.revName[compname]]..`[`"`](https://zh.wikipedia.org/wiki/" "wikilink")
+`       if len >18 or compname == "multi" then`
+`           return `[`width="1%"``   ``style="background:`](https://zh.wikipedia.org/wiki/width="1%"_style="background: "wikilink")`..c.colors['multi']..`[`"`](https://zh.wikipedia.org/wiki/" "wikilink")
 `       else`
 `           return `[`width="1%"``   ``style="background:`](https://zh.wikipedia.org/wiki/width="1%"_style="background: "wikilink")`..c.colors['other']..`[`"`](https://zh.wikipedia.org/wiki/" "wikilink")
 `       end`

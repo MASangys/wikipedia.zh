@@ -53,22 +53,14 @@ GLAAD发起**Together Movement**，鼓励所有人加入来支持受歧视的人
 [Category:1985年紐約州建立](https://zh.wikipedia.org/wiki/Category:1985年紐約州建立 "wikilink") [Category:LGBT組織](https://zh.wikipedia.org/wiki/Category:LGBT組織 "wikilink") [Category:反恐同](https://zh.wikipedia.org/wiki/Category:反恐同 "wikilink") [Category:媒体对LGBT的描绘](https://zh.wikipedia.org/wiki/Category:媒体对LGBT的描绘 "wikilink") [Category:洛杉矶组织](https://zh.wikipedia.org/wiki/Category:洛杉矶组织 "wikilink") [Category:紐約市組織](https://zh.wikipedia.org/wiki/Category:紐約市組織 "wikilink") [Category:1985年建立的組織](https://zh.wikipedia.org/wiki/Category:1985年建立的組織 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
 9.
-
 10.
-
 11.
 12.
