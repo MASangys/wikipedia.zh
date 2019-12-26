@@ -321,50 +321,45 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>病患</p></td>
-<td><p>接受過酒精中毒治療、腦出血手术后否认酗酒的病患（第9集）。</p></td>
-</tr>
-<tr class="even">
-<td></td>
 <td><p>劉玉慶</p></td>
 <td><p>賢誠醫院病患，玄錫周曾是她的主治醫師，再度因腦腫瘤住院（第9集）。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>崔相赫</p></td>
 <td><p>电视台主播（第10集）。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>崔耀燮</p></td>
 <td><p>崔相赫的儿子（第10集）。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>趙崙浩</p></td>
 <td><p>患有脊椎肉瘤的病患（第12-13集）。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>高恩珠</p></td>
 <td><p>趙崙浩的太太，怀孕。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/元基俊.md" title="wikilink">元基俊</a></p></td>
 <td><p>廉堅浩</p></td>
 <td><p>拉大提琴的病患（第14集）。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>金智安</p></td>
 <td><p>金允京的女兒。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>李建明的妻子。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>朴秀京</p></td>
 <td><p>崔相赫的妻子、崔耀燮的媽媽（第10集）。</p></td>

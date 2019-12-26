@@ -139,7 +139,7 @@ NT$51,900</p></td>
 </tr>
 <tr class="even">
 <td><p>可支援的最新<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/macOS_Mojave" title="wikilink">macOS Mojave</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/macOS_Catalina" title="wikilink">macOS Catalina</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

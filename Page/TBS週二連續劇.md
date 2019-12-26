@@ -248,6 +248,19 @@
     原作：[育江綾](../Page/育江綾.md "wikilink")
     劇本：[安達奈緒子](https://zh.wikipedia.org/wiki/安達奈緒子 "wikilink")
 
+### 2020年代
+
+#### 2020年
+
+  - 1月－：**[戀愛可以持續到天長地久](https://zh.wikipedia.org/wiki/戀愛可以持續到天長地久 "wikilink")**（）
+
+<!-- end list -->
+
+  -
+    主演：[上白石萌音](../Page/上白石萌音.md "wikilink")
+    原作：[円城寺真紀](https://zh.wikipedia.org/wiki/円城寺真紀 "wikilink")
+    劇本：[金子亞里沙](https://zh.wikipedia.org/wiki/金子亞里沙 "wikilink")
+
 ## 平均收視率最高5位
 
 |     |                                                             |       |       |

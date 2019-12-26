@@ -31,23 +31,14 @@ TOS采用了扁平化介面，并结合了毛玻璃设计，采用了[iOS系统�
 [Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink") [Category:腾讯软件](https://zh.wikipedia.org/wiki/Category:腾讯软件 "wikilink") [Category:已停止開發的軟體](https://zh.wikipedia.org/wiki/Category:已停止開發的軟體 "wikilink") [Category:2015年软件](https://zh.wikipedia.org/wiki/Category:2015年软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.

@@ -13,14 +13,10 @@
 [Category:鹿豹座](https://zh.wikipedia.org/wiki/Category:鹿豹座 "wikilink") [Category:食雙星](https://zh.wikipedia.org/wiki/Category:食雙星 "wikilink") [Category:O-型主序星](https://zh.wikipedia.org/wiki/Category:O-型主序星 "wikilink") [Category:以变星命名法命名的天体](https://zh.wikipedia.org/wiki/Category:以变星命名法命名的天体 "wikilink") [Category:2MASS天體](https://zh.wikipedia.org/wiki/Category:2MASS天體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
 7.
 8.

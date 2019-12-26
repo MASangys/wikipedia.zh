@@ -160,14 +160,9 @@ Origin开发的模拟游戏系列Longbow由艺电以“”品牌发行。后继�
 [Category:Origin_Systems](https://zh.wikipedia.org/wiki/Category:Origin_Systems "wikilink") [Category:1983年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1983年開業電子遊戲公司 "wikilink") [Category:2004年結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2004年結業電子遊戲公司 "wikilink") [Category:娱乐软体协会](https://zh.wikipedia.org/wiki/Category:娱乐软体协会 "wikilink") [Category:美國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國已結業電子遊戲公司 "wikilink") [Category:美商藝電](https://zh.wikipedia.org/wiki/Category:美商藝電 "wikilink") [Category:美国歇业软体公司](https://zh.wikipedia.org/wiki/Category:美国歇业软体公司 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
 1.  Warren Spector interviewing Richard Garriott for his University of Texas Master Class in Video Games and Digital Media [1](http://www.rockpapershotgun.com/2008/03/04/warren-spector-interviews-every-bloody-one/)
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.  [Interview with Richard Garriott, Executive Producer, NCSoft Austin](http://www.frictionlessinsight.com/archives/2002/03/interview-with.html)

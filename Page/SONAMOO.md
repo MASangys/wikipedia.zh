@@ -1,6 +1,6 @@
-**SONAMOO**（）是[TS Entertainment於](https://zh.wikipedia.org/wiki/TS_Entertainment "wikilink")2014年底推出的女子組合，最初由7名成員組成，現任成員包含[旼宰](../Page/旼宰.md "wikilink")、[D.ana](../Page/曹恩愛.md "wikilink")、[宜珍](../Page/宜珍_\(SONAMOO\).md "wikilink")、High.D及New Sun。2014年12月29日發行首張迷你專輯《Deja Vu》，並於同日舉辦出道SHOWCASE，2015年1月2日於[Music Bank正式出道](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
+**SONAMOO**（）是[TS Entertainment於](https://zh.wikipedia.org/wiki/TS_Entertainment "wikilink")2014年底推出的女子組合，最初由7名成員組成，現任成員包括[旼宰](../Page/旼宰.md "wikilink")、[D.ana](../Page/曹恩愛.md "wikilink")、[宜珍](../Page/宜珍_\(SONAMOO\).md "wikilink")、High.D及New Sun。2014年12月29日發行首張迷你專輯《Deja Vu》，並於同日舉辦出道SHOWCASE，2015年1月2日於[Music Bank正式出道](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
 
-「SONAMOO」是韓文「**松樹**」之意，取名為松樹代表希望SONAMOO能像松樹一樣，創作出具有長青生命力的音樂。團徽上的代表動物為**松鼠**。官方粉絲名稱為「**松果**」（솔방울）。七名成員平均經歷練習生涯長達四年，是TS繼2009年推出首個女子組合[Secret後](../Page/Secret_\(組合\).md "wikilink")，相隔五年再推出的新女子團體組合\[1\]。
+「SONAMOO」是韓文「**松樹**」之意，取名為松樹代表希望SONAMOO能像松樹一樣，創作出具有長青生命力的音樂。團徽上的代表動物為**松鼠**。官方粉絲名稱為「**松果**」（솔방울）。全部成員平均經歷練習生涯長達四年，是TS繼2009年推出首個女子組合[Secret後](../Page/Secret_\(組合\).md "wikilink")，相隔五年再推出的新女子團體組合\[1\]。
 
 ## 經歷
 
@@ -128,7 +128,7 @@
 
 2月11日，在选秀節目《[The Unit](../Page/The_Unit.md "wikilink")》的最後一集中，宜珍獲得第1名，進入期間限定團體[UNI.T](../Page/UNI.T.md "wikilink")出道。10月12日，從UNI.T活動完結歸隊。
 
-### 2019年
+### 2019年：受玟、娜玹合約糾紛、OST《We Are Legendary》
 
 9月13日，High.D參與[tvN中秋特輯節目](https://zh.wikipedia.org/wiki/tvN "wikilink")《V-1》，獲得最終6強的成績。
 
@@ -551,7 +551,7 @@ Miracle Girls 成員們</p></td>
   -
 [Category:TS娛樂](https://zh.wikipedia.org/wiki/Category:TS娛樂 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
-1.  [SONAMOO團體介紹](http://kpopn.com/2015/01/01/255295/).kpopn.2015.01.01
+1.  [SONAMOO團體介紹](http://kpopn.com/2015/01/01/255295/) .kpopn.2015.01.01
 2.
 3.  [SONAMOO《Deja Vu》預告片：嘻哈刀群舞反響熱烈](http://www.koreastardaily.com/tc/video/53557).韓星網.2014.12.26
 4.  [걸 그룹 소나무, 오늘 '데자뷰' 뮤비+음원 공개 및 데뷔 쇼케이스 개최\!](http://thestar.chosun.com/site/data/html_dir/2014/12/29/2014122900780.html) . The star 2014.12.29

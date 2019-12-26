@@ -11,6 +11,5 @@ ADIPOR2和[G蛋白偶联受体](../Page/G蛋白偶联受体.md "wikilink")（GPC
 ## 参考文献
 
 1.
-
 2.
 3.

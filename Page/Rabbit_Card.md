@@ -109,4 +109,4 @@ Rabbit Card可以於以下商戶支援Rabbit Card之分店地點以現金增值�
 1.  [Carrot Rewards（非官方譯名：蘿蔔積分）官方網站](http://www.carrotrewards.co.th/) 。
 2.  [Rabbit Card 使用地點](http://www.rabbit.co.th/en/page/welcome) 。
 3.  [BTS官方網站](http://www.bts.co.th/customer/en/07-news_event.aspx?cat=2&page=1&show=207)。
-4.  [長者卡優惠BTS官方網站](http://www.bts.co.th/customer/en/07-news_event.aspx?cat=2&page=1&show=209)。
+4.  [長者卡優惠BTS官方網站](http://www.bts.co.th/customer/en/07-news_event.aspx?cat=2&page=1&show=209) 。

@@ -59,7 +59,7 @@
 身高165cm。</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>大原優乃</strong></p></td>
+<td><p><strong></strong></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鹿兒島縣" title="wikilink">鹿兒島縣</a><br />
@@ -75,7 +75,7 @@
 身高154cm。</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>高野洸</strong></p></td>
+<td><p><strong></strong></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a><br />
@@ -454,7 +454,7 @@ Dream5負責樂曲的各種動作及舞步[18]。<br />
 7.  [年間シングルヒットチャート 2014年(平成26年)。](http://entamedata.web.fc2.com/music/music2014.html)
 8.  [Ｄｒｅａｍ５玉川桃奈が引退「貴重な体験ばかり」，](http://www.nikkansports.com/entertainment/news/1607757.html)日刊體育，2016年2月22日。
 9.  [Dream5、年内で活動終了へ，](http://www.asahi.com/and_w/interest/entertainment/CORI2083661.html)朝日新聞，2016年12月26日
-10. [Ｄｒｅａｍ５」今年いっぱいで活動終了！](http://www.news24.jp/articles/2016/12/26/08350066.html)，日本雷電視台新聞，2016年12月26日。
+10. [Ｄｒｅａｍ５」今年いっぱいで活動終了！](http://www.news24.jp/articles/2016/12/26/08350066.html) ，日本雷電視台新聞，2016年12月26日。
 11. [Dream5を応援してくださっている皆様へ ,](http://avex.jp/dream5/news/detail.php?id=1044606)Avex Trex ,2016年12月26日。
 12. [Dream5・重本ことり、所属事務所と契約終了，](http://www.oricon.co.jp/news/2083726/full/)Oricon Style，2016年12月27日。
 13. [Dream5ラストを締めくくる作品・来年3/29に「Dream5 MUSIC VIDEO BEST」のリリースが決定](http://avex.jp/dream5/news/detail.php?id=1044708)，Avex trex 新聞稿，2016年12月28日。

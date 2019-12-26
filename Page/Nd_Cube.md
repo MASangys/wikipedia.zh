@@ -12,10 +12,7 @@ Nd Cube建立后一直保持低姿态，开发多款[GameCube和](https://zh.wik
 [Category:2000年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2000年開業電子遊戲公司 "wikilink") [Category:中央區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:中央區公司_\(東京都\) "wikilink") [Category:任天堂的部门与子公司](https://zh.wikipedia.org/wiki/Category:任天堂的部门与子公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.

@@ -182,27 +182,15 @@
 [Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:GOT7音樂專輯](https://zh.wikipedia.org/wiki/Category:GOT7音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
-
 2.  [JYP 7人組新男團預計明年1月出道](http://kpoppark.com/201312/2415142664595.html)  娛樂園.\[2013-12-24\]
-
 3.  [JYP公開新男團GOT7宣傳照 台裔成員引關注](https://tw.celebrity.yahoo.com/news/jyp%E5%85%AC%E9%96%8B%E6%96%B0%E7%94%B7%E5%9C%98got7%E5%AE%A3%E5%82%B3%E7%85%A7-%E5%8F%B0%E8%A3%94%E6%88%90%E5%93%A1%E5%BC%95%E9%97%9C%E6%B3%A8-051112595.html) Yahoo奇摩名人娛樂.\[2014-01-05\]
-
 4.  [GOT7公開MV預告 七少年踩風火輪帥氣現身](http://www.wownews.tw/article.php?sn=11960) wownews.\[2014-01-13\]
-
 5.  [專輯介紹](http://got7.jype.com/discography.asp?idx=1&lng=CH&page=) GOT7官方網站. \[2015-01-08\]
-
 6.  [2014년 05주차 Digital Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=05&hitYear=2014&termGbn=week)Gaon Chart. \[2015-01-08\]
-
 7.  [2014년 1월 Digital Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=01&hitYear=2014&termGbn=month) Gaon Chart. \[2015-01-08\]
-
 8.  [2014년 05주차 Album Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=05&hitYear=2014&termGbn=week)Gaon Chart. \[2015-01-08\]
-
 9.  [2014년 2월 Album Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=02&hitYear=2014&termGbn=month) Gaon Chart. \[2015-01-08\]
-
 10. [2014년 Album Chart](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=year) Gaon Chart. \[2015-01-08\]
-
 11.
-
 12.
-
 13.

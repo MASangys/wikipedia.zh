@@ -129,11 +129,8 @@
 [Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink") [Category:Block_B音樂專輯](https://zh.wikipedia.org/wiki/Category:Block_B音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2013年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
 6.

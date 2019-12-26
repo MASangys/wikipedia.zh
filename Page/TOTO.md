@@ -8,7 +8,7 @@ TOTO连续两年成为日本消费者口碑最好的企业。\[5\]2014年，TOTO
 
 ## 历史
 
-[1912年](https://zh.wikipedia.org/wiki/1912年夏季奥林匹克运动会 "wikilink")，大仓和亲建立了一个专门研发卫生陶瓷的实验室。在当时，卫浴陶瓷在美国、欧洲十分普遍，日本却还在使用木制马桶。
+[1912年](../Page/1912年夏季奥林匹克运动会.md "wikilink")，大仓和亲建立了一个专门研发卫生陶瓷的实验室。在当时，卫浴陶瓷在美国、欧洲十分普遍，日本却还在使用木制马桶。
 
 1917年，大仓在[北九州市](../Page/北九州市.md "wikilink")[小仓创立了东洋陶器株式会社并开始制造卫生陶器](../Page/小倉市.md "wikilink")。 1923年的[关东大地震给](https://zh.wikipedia.org/wiki/关东大地震 "wikilink")[东京](../Page/东京.md "wikilink")带来了灾难性的强烈破坏。灾后重建中，排水系统的大规模建造，使卫浴设施的需求量急剧上升。
 
@@ -101,52 +101,29 @@ TOTO已经进入以下国家或地区的市场并设立有子公司： [美国](
 [Category:1917年成立的公司](https://zh.wikipedia.org/wiki/Category:1917年成立的公司 "wikilink") [Category:日本公司](https://zh.wikipedia.org/wiki/Category:日本公司 "wikilink") [Category:福岡縣公司](https://zh.wikipedia.org/wiki/Category:福岡縣公司 "wikilink") [Category:小倉北區](https://zh.wikipedia.org/wiki/Category:小倉北區 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.

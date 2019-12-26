@@ -172,9 +172,9 @@
   -
 [Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:GOT7音樂專輯](https://zh.wikipedia.org/wiki/Category:GOT7音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
 
-1.  [2PM推遲回歸計劃 GOT7跑在前輩前6月回歸](http://mwave.interest.me/enewsworld/tw/article/65711) Mwave. \[2014-05-14\]
+1.  [2PM推遲回歸計劃 GOT7跑在前輩前6月回歸](http://mwave.interest.me/enewsworld/tw/article/65711)  Mwave. \[2014-05-14\]
 2.  [GOT7秘密來馬拍MV](http://www.chinapress.com.my/node/533409)  中國報新聞網. \[2014-06-09\]
-3.  [【影片】GOT7釋出回歸預告 JB《A》Story打籃球釋放魅力](http://mwave.interest.me/enewsworld/tw/article/68507) Mwave. \[2014-06-17\]
+3.  [【影片】GOT7釋出回歸預告 JB《A》Story打籃球釋放魅力](http://mwave.interest.me/enewsworld/tw/article/68507)  Mwave. \[2014-06-17\]
 4.  〈GOT7狂噴愛心 大喊好想來台灣〉.《fans粉絲誌》中文版第113期，2014年8月號. \[2014-08-05\]
 5.  [Radio: Sound K - Star Date: GOT7](http://www.arirang.co.kr/Player/News_AOD.asp?code=AOD&Prog_Code=RADR0147&ACode=10235) .Arirang Radio. 約8分55秒處 \[2014-07-10\]
 6.  [GOT7開回歸Showcase 朴軫泳親自操刀製作](https://tw.news.yahoo.com/got7%E9%96%8B%E5%9B%9E%E6%AD%B8showcase-%E6%9C%B4%E8%BB%AB%E6%B3%B3%E8%A6%AA%E8%87%AA%E6%93%8D%E5%88%80%E8%A3%BD%E4%BD%9C-084400327.html) Yahoo奇摩新聞-韓星網. \[2014-6-18\]

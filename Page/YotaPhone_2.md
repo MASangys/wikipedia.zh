@@ -46,37 +46,24 @@ Yota Devices公司[弗拉德·马丁诺夫透露YotaPhone](https://zh.wikipedia.
 
 ## 外部链接
 
-  - [Yota Devices](http://yotaphone.com/)
+  - [Yota Devices](https://web.archive.org/web/20140817034716/http://yotaphone.com/)
 
 [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.
 17.
@@ -84,41 +71,23 @@ Yota Devices公司[弗拉德·马丁诺夫透露YotaPhone](https://zh.wikipedia.
 19.
 20.
 21.
-
 22.
-
 23.
-
 24.
 25.
-
 26. [Лучшие новинки MWC 2014 | Лучшие продукты по мнению THG](http://www.thg.ru/business/luchshiye_novinki_mwc_2014/)
-
 27.
-
 28.
-
 29.
-
 30.
-
 31. [Главные новости за неделю: старт продаж YotaPhone 2](http://www.thg.ru/technews/20141206_200539.html)
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
 37.
-
 38.
-
 39.
-
 40.
-
 41.

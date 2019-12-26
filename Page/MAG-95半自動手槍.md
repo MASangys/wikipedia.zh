@@ -54,6 +54,8 @@ MAG-98還內置了緩衝器，而主要用作運動手槍的MAG-98C同樣裝有�
   - [WIST-94半自動手槍](../Page/WIST-94半自動手槍.md "wikilink")
 
   -
+  - [VIS 100](https://zh.wikipedia.org/wiki/VIS_100半自動手槍 "wikilink")
+
   - [92式手槍](../Page/92式手槍.md "wikilink")
 
   - [Arcus 94手槍](https://zh.wikipedia.org/wiki/Arcus_94手槍 "wikilink")
@@ -66,7 +68,7 @@ MAG-98還內置了緩衝器，而主要用作運動手槍的MAG-98C同樣裝有�
 
   - [Fort-12手槍](../Page/Fort-12手槍.md "wikilink")
 
-  - [HS2000手槍](../Page/HS2000手槍.md "wikilink")
+  - [HS2000半自動手槍](https://zh.wikipedia.org/wiki/HS2000半自動手槍 "wikilink")
 
   - [MP-443烏鴉式手槍](../Page/MP-443烏鴉式手槍.md "wikilink")
 
@@ -91,8 +93,6 @@ MAG-98還內置了緩衝器，而主要用作運動手槍的MAG-98C同樣裝有�
 [Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:波蘭槍械](https://zh.wikipedia.org/wiki/Category:波蘭槍械 "wikilink")
 
 1.  Sitarski, M. *Dzieje pewnego MAG-a*, p. 20-27
-
 2.  *Powrót MAG-a*
-
 3.
 4.

@@ -17,21 +17,13 @@ TCPCT 避免了服务器端资源耗尽，因为它在完成[三步握手之前�
 [Category:TCP/IP](https://zh.wikipedia.org/wiki/Category:TCP/IP "wikilink") [Category:计算机网络安全](https://zh.wikipedia.org/wiki/Category:计算机网络安全 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  B. Carpenter and S. Brim, “Middleboxes: Taxonomy and Issues,” RFC 3234, February 2002.
-
 5.  P. Srisuresh and K. Egevang, “Traditional IP Network Address Translator (Traditional NAT),” RFC 3022, January 2001
-
 6.
 7.
-
 8.
 9.
-
 10. <http://kernelnewbies.org/Linux_2_6_33#head-2c3c3a8cb87d5b7a6f1182e418abf071cda22c8c>
-
 11.

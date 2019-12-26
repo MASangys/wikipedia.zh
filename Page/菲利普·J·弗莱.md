@@ -61,26 +61,17 @@
 [Category:乃出個未來角色](https://zh.wikipedia.org/wiki/Category:乃出個未來角色 "wikilink") [Category:男性美國人動漫角色](https://zh.wikipedia.org/wiki/Category:男性美國人動漫角色 "wikilink") [Category:虛構男性電影角色](https://zh.wikipedia.org/wiki/Category:虛構男性電影角色 "wikilink") [Category:来自纽约市的虚构角色](https://zh.wikipedia.org/wiki/Category:来自纽约市的虚构角色 "wikilink") [Category:虚构人体冷藏角色](https://zh.wikipedia.org/wiki/Category:虚构人体冷藏角色 "wikilink") [Category:虚构军人](https://zh.wikipedia.org/wiki/Category:虚构军人 "wikilink") [Category:虚构爱尔兰裔美国人](https://zh.wikipedia.org/wiki/Category:虚构爱尔兰裔美国人 "wikilink") [Category:進行魔鬼交易的虛構角色](https://zh.wikipedia.org/wiki/Category:進行魔鬼交易的虛構角色 "wikilink")
 
 1.
-
 2.
 3.  Leela gives Fry's age in the first season episode "[My Three Suns](https://zh.wikipedia.org/wiki/My_Three_Suns "wikilink")".
-
 4.  At the beginning of the episode, a flashback goes back to his birth; the year is implied to be 1969 as a radio broadcast is heard with the [New York Mets](https://zh.wikipedia.org/wiki/New_York_Mets "wikilink") winning the [World Series](https://zh.wikipedia.org/wiki/1969_World_Series "wikilink").
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
 14.
 15. This is mentioned on the DVD commentary of *Bender's Big Score*.

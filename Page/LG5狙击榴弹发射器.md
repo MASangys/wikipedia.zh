@@ -48,7 +48,8 @@ LG5狙击榴弹发射器**重型状态**是LG5的重型版本，配备光电火�
 
 ## 使用國
 
-  - ：被伊斯蘭革命衛隊海軍所採用。
+  -   -
+  -   - [沙特阿拉伯武裝部隊](../Page/沙特阿拉伯軍事.md "wikilink")\[6\]
 
 ## 參見
 
@@ -119,3 +120,4 @@ LG5狙击榴弹发射器**重型状态**是LG5的重型版本，配备光电火�
 3.  <http://china-defense.blogspot.com/2015/04/chinas-anti-sniper-solution-lg5-40mm.html>
 4.  <https://translate.google.pl/translate?hl=pl&sl=auto&tl=zh-TW&u=https%3A%2F%2Fwww.taringa.net%2Fcomunidades%2Fmilitares-en-t%2F9747714%2FLanzador-de-granadas-de-francotirador-NORINCO-LG-5-LG-5s.html&sandbox=1>
 5.  <http://www.thefirearmblog.com/blog/2015/05/13/chinese-small-arms-7th-beijing-police-equipment-expo/>
+6.  [Saudi Troops Are Using This Huge Grenade Launcher Gun That Looks Like An Action Movie Prop](https://www.thedrive.com/the-war-zone/30837/saudi-troops-are-using-this-huge-grenade-launcher-gun-that-looks-like-an-action-movie-prop)

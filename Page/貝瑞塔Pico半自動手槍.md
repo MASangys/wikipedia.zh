@@ -58,7 +58,7 @@
   - [S\&W謢衛者380](https://zh.wikipedia.org/wiki/史密斯威森謢衛者380手槍 "wikilink")
   - [S\&W M\&P謢衞者380](../Page/史密斯威森軍警型半自動手槍.md "wikilink")
   - [瓦爾特PP手槍](../Page/瓦爾特PP手槍.md "wikilink")
-  - [瓦爾特PK380手槍](../Page/瓦爾特PK380手槍.md "wikilink")
+  - [瓦爾特PK380半自動手槍](https://zh.wikipedia.org/wiki/瓦爾特PK380半自動手槍 "wikilink")
 
 ## 資料來源
 
@@ -99,7 +99,7 @@
 
   - —Guns & Ammo.com—
 
-      - [Beretta Pico Review](http://www.gunsandammo.com/reviews/beretta-pico-review-2/)
+      - [Beretta Pico Review](https://web.archive.org/web/20141113173555/http://www.gunsandammo.com/reviews/beretta-pico-review-2/)
       - [Beretta Pico .380 Gets Upgraded](http://www.gunsandammo.com/news/beretta-pico-380-gets-upgraded/)
 
   - —[Guns Holsters and Gear－Beretta Pico](http://www.gunsholstersandgear.com/2013/05/03/beretta-pico/)

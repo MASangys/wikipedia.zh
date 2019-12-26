@@ -10,5 +10,4 @@
 
 1.
 2.  Sivritepe, Erdinç [Before the Turkish Leagues – Ankara](http://www.angelfire.com/nj/sivritepe/5758/artlANK.html)  turkish-soccer.coom. Retrieved 23 June 2010.
-
 3.  [Ankaragücü Cycling Team in international area](http://www.bisiklet.gov.tr/tr/haberdetay/ankaragucu-bisiklet-takimi-uluslar-arasi-arenada--/367/14/33)

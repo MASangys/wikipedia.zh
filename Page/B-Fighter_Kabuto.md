@@ -166,13 +166,8 @@
 [Category:金屬英雄](https://zh.wikipedia.org/wiki/Category:金屬英雄 "wikilink") [Category:1996年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1996年日本電視劇集 "wikilink") [Category:昆蟲題材電視劇](https://zh.wikipedia.org/wiki/Category:昆蟲題材電視劇 "wikilink")
 
 1.  第1話では「増田弘」と誤表記されている。
-
 2.
-
 3.
-
 4.  OPクレジットより
-
 5.
-
 6.

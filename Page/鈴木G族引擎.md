@@ -121,18 +121,18 @@
 
 ## 參考資料
 
-  - [スズキ：G10型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/g10/)
+  - [スズキ：G10型エンジン](https://web.archive.org/web/20141215071823/http://greeco-channel.com/car/engine/suzuki_eg/g10/)
 
-  - [スズキ：G15A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/g15a/)
+  - [スズキ：G15A型エンジン](https://web.archive.org/web/20141215085344/http://greeco-channel.com/car/engine/suzuki_eg/g15a/)
 
-  - [スズキ：G16A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/g16a/)
+  - [スズキ：G16A型エンジン](https://web.archive.org/web/20141211141407/http://greeco-channel.com/car/engine/suzuki_eg/g16a/)
 
 ## 外部連結
 
-  - [スズキ：G10型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/g10/)
+  - [スズキ：G10型エンジン](https://web.archive.org/web/20141215071823/http://greeco-channel.com/car/engine/suzuki_eg/g10/)
 
-  - [スズキ：G15A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/g15a/)
+  - [スズキ：G15A型エンジン](https://web.archive.org/web/20141215085344/http://greeco-channel.com/car/engine/suzuki_eg/g15a/)
 
-  - [スズキ：G16A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/g16a/)
+  - [スズキ：G16A型エンジン](https://web.archive.org/web/20141211141407/http://greeco-channel.com/car/engine/suzuki_eg/g16a/)
 
 [Category:活塞發動機](https://zh.wikipedia.org/wiki/Category:活塞發動機 "wikilink") [Category:直列三缸引擎](https://zh.wikipedia.org/wiki/Category:直列三缸引擎 "wikilink") [Category:直列四缸引擎](https://zh.wikipedia.org/wiki/Category:直列四缸引擎 "wikilink") [Category:鈴木引擎與技術](https://zh.wikipedia.org/wiki/Category:鈴木引擎與技術 "wikilink")

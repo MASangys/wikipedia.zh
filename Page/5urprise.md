@@ -402,7 +402,7 @@
 <td><p>KBS</p></td>
 <td><p><a href="../Page/朝鮮浪漫喜劇–綠豆傳.md" title="wikilink">朝鮮浪漫喜劇–綠豆傳</a></p></td>
 <td><p><a href="../Page/姜泰伍.md" title="wikilink">姜泰伍</a></p></td>
-<td><p>車律武</p></td>
+<td><p><a href="../Page/朝鮮仁祖.md" title="wikilink">車律武</a></p></td>
 <td><p>第二男主角</p></td>
 <td></td>
 <td></td>
@@ -410,9 +410,9 @@
 <tr class="odd">
 <td><p>2020年</p></td>
 <td><p>JTBC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/如果天氣好的話,我會去看你" title="wikilink">如果天氣好的話,我會去看你</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天氣好的話，我會去找你" title="wikilink">天氣好的話，我會去找你</a></p></td>
 <td><p><a href="../Page/徐康俊.md" title="wikilink">徐康俊</a></p></td>
-<td><p>恩燮</p></td>
+<td><p>林恩燮</p></td>
 <td><p>男主角</p></td>
 <td></td>
 </tr>

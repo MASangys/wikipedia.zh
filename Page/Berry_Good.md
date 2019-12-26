@@ -618,8 +618,8 @@ PlotData =
 
 1.
 2.
-3.  [酉奈親妹妹加入Berry Good](http://kpopn.com/2015/01/23/258602/)
-4.  [Berry Good 將於二月回歸](http://kpopn.com/2015/01/27/259045/)
+3.
+4.
 5.  [等了7個月後回歸了！Berry Good 首張迷你專輯《VERY BERRY》面世嘍～](http://www.vlovekpop.com/20160425-3-berry-good/) vlovekpop
 6.  [Berry Good 首張正規專輯《FREE TRAVEL》個人概念照公開](https://www.kpopn.com/2018/08/13/berry-good)
 7.

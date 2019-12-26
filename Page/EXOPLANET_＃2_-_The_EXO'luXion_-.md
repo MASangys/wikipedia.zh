@@ -413,51 +413,29 @@
 [Category:2015年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2015年巡迴演唱會 "wikilink") [Category:EXO](https://zh.wikipedia.org/wiki/Category:EXO "wikilink") [Category:EXO巡迴演唱會](https://zh.wikipedia.org/wiki/Category:EXO巡迴演唱會 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.  [演唱會官方預告](https://www.youtube.com/watch?v=5B-iPE0zBPw)
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12. <http://onehallyu.com/topic/138408-tao-injured-on-isac-jackson-helps-him/>
-
 13. <http://www.exofanclub.com/exo-tid-47185-1-1.html>
-
 14. <http://www.soompi.com/2015/02/02/got7s-jackson-and-exos-tao-suffering-ankle-injuries-from-idol-star-athletics-championships/>
-
 15. <http://www.soompi.com/2015/04/02/exos-tao-halts-music-show-promotions-due-to-ankle-injury/>
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
 26.
 27.

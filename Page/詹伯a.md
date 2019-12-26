@@ -132,11 +132,8 @@
 [Category:圆谷制作](https://zh.wikipedia.org/wiki/Category:圆谷制作 "wikilink") [Category:机器人题材作品](https://zh.wikipedia.org/wiki/Category:机器人题材作品 "wikilink") [Category:1970年代特攝作品](https://zh.wikipedia.org/wiki/Category:1970年代特攝作品 "wikilink") [Category:镜子超人](https://zh.wikipedia.org/wiki/Category:镜子超人 "wikilink") [Category:怪兽题材电视剧](https://zh.wikipedia.org/wiki/Category:怪兽题材电视剧 "wikilink") [Category:外星生命題材作品](https://zh.wikipedia.org/wiki/Category:外星生命題材作品 "wikilink") [Category:机器人超级英雄](https://zh.wikipedia.org/wiki/Category:机器人超级英雄 "wikilink") [Category:1973年電視劇集](https://zh.wikipedia.org/wiki/Category:1973年電視劇集 "wikilink") [Category:车辆题材作品](https://zh.wikipedia.org/wiki/Category:车辆题材作品 "wikilink") [Category:航空题材作品](https://zh.wikipedia.org/wiki/Category:航空题材作品 "wikilink")
 
 1.  メカデザインも担当。
-
 2.  1973年1月13日、[毎日新聞大阪本社版夕刊](https://zh.wikipedia.org/wiki/毎日新聞 "wikilink")
-
 3.  『円谷プロ画報 (1)』（[竹書房](../Page/竹書房.md "wikilink")・2013年）p.226
-
 4.
 5.
 6.  1973年6月27日（水）の毎日新聞大阪本社朝刊に載ったテレビ欄によれば、この日に登場した第24話のガメレオンキングも西条満が演じている。

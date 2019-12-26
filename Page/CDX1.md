@@ -12,7 +12,5 @@
 [Category:转录因子](https://zh.wikipedia.org/wiki/Category:转录因子 "wikilink")
 
 1.
-
 2.
-
 3.

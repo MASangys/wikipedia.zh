@@ -28,8 +28,6 @@ QEW早期依靠一座兩線行車[升降橋跨越咸美頓港連接伯靈頓和�
 [Category:安大略省橋樑](https://zh.wikipedia.org/wiki/Category:安大略省橋樑 "wikilink") [Category:哈密爾頓](https://zh.wikipedia.org/wiki/Category:哈密爾頓 "wikilink") [Category:荷頓區交通](https://zh.wikipedia.org/wiki/Category:荷頓區交通 "wikilink") [Category:1958年完工橋梁](https://zh.wikipedia.org/wiki/Category:1958年完工橋梁 "wikilink") [Category:1985年完工橋梁](https://zh.wikipedia.org/wiki/Category:1985年完工橋梁 "wikilink") [Category:加拿大公路橋](https://zh.wikipedia.org/wiki/Category:加拿大公路橋 "wikilink") [Category:拱橋](https://zh.wikipedia.org/wiki/Category:拱橋 "wikilink") [Category:梁橋](https://zh.wikipedia.org/wiki/Category:梁橋 "wikilink") [Category:安大略湖](https://zh.wikipedia.org/wiki/Category:安大略湖 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

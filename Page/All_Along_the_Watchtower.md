@@ -52,60 +52,33 @@
 [Category:1967年歌曲](https://zh.wikipedia.org/wiki/Category:1967年歌曲 "wikilink") [Category:1968年单曲](https://zh.wikipedia.org/wiki/Category:1968年单曲 "wikilink") [Category:鲍勃·迪伦歌曲](https://zh.wikipedia.org/wiki/Category:鲍勃·迪伦歌曲 "wikilink") [Category:吉米·亨德里克斯体验乐队歌曲](https://zh.wikipedia.org/wiki/Category:吉米·亨德里克斯体验乐队歌曲 "wikilink") [Category:U2歌曲](https://zh.wikipedia.org/wiki/Category:U2歌曲 "wikilink") [Category:感恩至死歌曲](https://zh.wikipedia.org/wiki/Category:感恩至死歌曲 "wikilink")
 
 1.
-
 2.
-
 3.  Sounes p. 215-8
-
 4.  Heylin, 2009, *Revolution In The Air, The Songs of Bob Dylan: Volume One*, pp. 364–369.
-
 5.
 6.  Gray p. 356-7
-
 7.
-
 8.  Gray p. 350
-
 9.  Gray, Michael (2006), *The Bob Dylan Encyclopedia*, p. 7.
-
 10.
 11.
 12.
-
 13. Heylin p. 285
-
 14. Gill p. 130–1
-
 15. Ricks p. 359
-
 16. Eddie Kramer, 'Hendrix: Setting The Record Straight'', p. 135
-
 17. Eddie Kramer, 'Hendrix: Setting The Record Straight'', p. 136
-
 18. Eddie Kramer, 'Hendrix: Setting The Record Straight'', p. 174
-
 19.
-
 20. Eddie Kramer, 'Hendrix: Setting The Record Straight'', p. 198
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.

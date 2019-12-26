@@ -13,7 +13,5 @@
 [Category:自走炮](https://zh.wikipedia.org/wiki/Category:自走炮 "wikilink") [Category:二戰法國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:二戰法國裝甲戰鬥車輛 "wikilink")
 
 1.
-
 2.
-
 3.

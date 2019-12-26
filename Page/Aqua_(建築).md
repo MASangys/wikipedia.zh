@@ -24,30 +24,18 @@ Aqua大廈內包含5,100平方公尺（55,000平方英尺）的零售商圈與�
 [Category:芝加哥摩天大樓](https://zh.wikipedia.org/wiki/Category:芝加哥摩天大樓 "wikilink") [Category:250米至299米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:250米至299米高的摩天大樓 "wikilink") [Category:2009年完工建築物](https://zh.wikipedia.org/wiki/Category:2009年完工建築物 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
 13.
-
 14.
 15.
-
 16.

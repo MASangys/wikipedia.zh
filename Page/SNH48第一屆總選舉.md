@@ -11,7 +11,7 @@
 所有SNH48正式成員（包括海外留學生）均為總選舉候選人。 以下是選舉期間SNH48在籍的正式成員:
 
   - Team SII （21人）: [陈观慧](https://zh.wikipedia.org/wiki/陈观慧 "wikilink")、[陳思](https://zh.wikipedia.org/wiki/陳思_\(SNH48\) "wikilink")、[戴萌](https://zh.wikipedia.org/wiki/戴萌 "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")（海外留學生，兼任SKE48 Team S）、[蒋芸](https://zh.wikipedia.org/wiki/蒋芸 "wikilink")、[孔肖吟](../Page/孔肖吟.md "wikilink")、[铃木玛莉亚](https://zh.wikipedia.org/wiki/铃木玛莉亚 "wikilink")（海外留學生，兼任AKB48 Team K）、[李宇琪](../Page/李宇琪.md "wikilink")、[莫寒](../Page/莫寒.md "wikilink")、[钱蓓婷](https://zh.wikipedia.org/wiki/钱蓓婷 "wikilink")、[邱欣怡](../Page/邱欣怡.md "wikilink")、[孙芮](../Page/孙芮.md "wikilink")、[沈之琳](https://zh.wikipedia.org/wiki/沈之琳 "wikilink")、[温晶婕](https://zh.wikipedia.org/wiki/温晶婕 "wikilink")、[吳哲晗](https://zh.wikipedia.org/wiki/吳哲晗 "wikilink")、[徐晨辰](https://zh.wikipedia.org/wiki/徐晨辰 "wikilink")、[许佳琪](../Page/许佳琪.md "wikilink")、[徐子轩](https://zh.wikipedia.org/wiki/徐子轩 "wikilink")、[袁雨桢](https://zh.wikipedia.org/wiki/袁雨桢 "wikilink")、[赵嘉敏](https://zh.wikipedia.org/wiki/赵嘉敏 "wikilink")、[张语格](../Page/张语格.md "wikilink")
-  - Team NII （19人）: [陈佳莹](https://zh.wikipedia.org/wiki/陈佳莹 "wikilink")、[陳問言](https://zh.wikipedia.org/wiki/陳問言 "wikilink")、[董艳芸](https://zh.wikipedia.org/wiki/董艳芸 "wikilink")、[冯薪朵](https://zh.wikipedia.org/wiki/冯薪朵 "wikilink")、[龚诗淇](../Page/龚诗淇.md "wikilink")、[黄婷婷](../Page/黄婷婷.md "wikilink")、[何晓玉](https://zh.wikipedia.org/wiki/何晓玉 "wikilink")、[鞠婧祎](https://zh.wikipedia.org/wiki/鞠婧祎 "wikilink")、[罗兰](https://zh.wikipedia.org/wiki/罗兰_\(SNH48\) "wikilink")、[林思意](../Page/林思意.md "wikilink")、[陆婷](https://zh.wikipedia.org/wiki/陆婷 "wikilink")、[李艺彤](https://zh.wikipedia.org/wiki/李艺彤 "wikilink")、[孟玥](https://zh.wikipedia.org/wiki/孟玥 "wikilink")、[唐安琪](../Page/唐安琪.md "wikilink")、[万丽娜](https://zh.wikipedia.org/wiki/万丽娜 "wikilink")、[徐言雨](https://zh.wikipedia.org/wiki/徐言雨 "wikilink")、[易嘉爱](https://zh.wikipedia.org/wiki/易嘉爱 "wikilink")、[赵粤](https://zh.wikipedia.org/wiki/赵粤 "wikilink")、[曾艳芬](../Page/曾艳芬.md "wikilink")
+  - Team NII （19人）: [陈佳莹](https://zh.wikipedia.org/wiki/陈佳莹 "wikilink")、[陳問言](https://zh.wikipedia.org/wiki/陳問言 "wikilink")、[董艳芸](https://zh.wikipedia.org/wiki/董艳芸 "wikilink")、[冯薪朵](https://zh.wikipedia.org/wiki/冯薪朵 "wikilink")、[龚诗淇](../Page/龚诗淇.md "wikilink")、[黄婷婷](../Page/黄婷婷.md "wikilink")、[何晓玉](https://zh.wikipedia.org/wiki/何晓玉 "wikilink")、[鞠婧祎](https://zh.wikipedia.org/wiki/鞠婧祎 "wikilink")、[罗兰](https://zh.wikipedia.org/wiki/罗兰_\(SNH48\) "wikilink")、[林思意](../Page/林思意.md "wikilink")、[陆婷](https://zh.wikipedia.org/wiki/陆婷 "wikilink")、[李艺彤](https://zh.wikipedia.org/wiki/李艺彤 "wikilink")、[孟玥](https://zh.wikipedia.org/wiki/孟玥 "wikilink")、[唐安琪](../Page/唐安琪.md "wikilink")、[万丽娜](https://zh.wikipedia.org/wiki/万丽娜 "wikilink")、[徐言雨](https://zh.wikipedia.org/wiki/徐言雨 "wikilink")、[易嘉爱](../Page/易嘉爱.md "wikilink")、[赵粤](https://zh.wikipedia.org/wiki/赵粤 "wikilink")、[曾艳芬](../Page/曾艳芬.md "wikilink")
 
 ## 投票資格及方法
 
@@ -138,15 +138,9 @@
 [Category:SNH48](https://zh.wikipedia.org/wiki/Category:SNH48 "wikilink") [Category:SNH48的演唱會](https://zh.wikipedia.org/wiki/Category:SNH48的演唱會 "wikilink")
 
 1.  [SNH48官方网站](http://www.snh48.com/)
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.

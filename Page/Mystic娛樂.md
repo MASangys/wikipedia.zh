@@ -127,7 +127,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金恩熙" title="wikilink">金恩熙</a></p></td>
+<td><p><a href="../Page/金銀姬.md" title="wikilink">金銀姬</a></p></td>
 <td><p>電視劇編劇</p></td>
 <td><p>2006年</p></td>
 <td></td>
@@ -340,6 +340,7 @@ ALL I KNOW MUSIC(簡稱：AIKM)是旗下嘻哈音樂廠牌。
   - 李道允 ([K-pop Star](https://zh.wikipedia.org/wiki/K-pop_Star "wikilink")、[MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink"))
   - [李秀敏](../Page/李秀敏_\(1999年\).md "wikilink") ([PRODUCE 101](../Page/PRODUCE_101.md "wikilink")、[K-pop Star 6](../Page/K-pop_Star_6.md "wikilink")、[MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink"))
   - [竹內美宥](../Page/竹內美宥.md "wikilink") ([AKB48](../Page/AKB48.md "wikilink")前成員、[PRODUCE 48](../Page/PRODUCE_48.md "wikilink"))
+  - 申光一 ([超級樂隊](https://zh.wikipedia.org/wiki/超級樂隊 "wikilink"))
 
 ### 離開的藝人
 

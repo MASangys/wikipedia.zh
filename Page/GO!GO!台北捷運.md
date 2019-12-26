@@ -31,14 +31,9 @@
 [Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:淡水區背景作品](https://zh.wikipedia.org/wiki/Category:淡水區背景作品 "wikilink") [Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink") [Category:铁路模拟游戏](https://zh.wikipedia.org/wiki/Category:铁路模拟游戏 "wikilink") [Category:北投區背景作品](https://zh.wikipedia.org/wiki/Category:北投區背景作品 "wikilink") [Category:士林區背景作品](https://zh.wikipedia.org/wiki/Category:士林區背景作品 "wikilink") [Category:台北市大同區背景作品](https://zh.wikipedia.org/wiki/Category:台北市大同區背景作品 "wikilink") [Category:台北捷運](https://zh.wikipedia.org/wiki/Category:台北捷運 "wikilink") [Category:交通工具模拟游戏](https://zh.wikipedia.org/wiki/Category:交通工具模拟游戏 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.

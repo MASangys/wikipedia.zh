@@ -52,16 +52,11 @@
 [Category:纽约州南北战争人物](https://zh.wikipedia.org/wiki/Category:纽约州南北战争人物 "wikilink") [Category:美國共和黨副總統候選人](https://zh.wikipedia.org/wiki/Category:美國共和黨副總統候選人 "wikilink") [Category:美国副总统](https://zh.wikipedia.org/wiki/Category:美国副总统 "wikilink") [Category:共和党美国副总统](https://zh.wikipedia.org/wiki/Category:共和党美国副总统 "wikilink") [Category:纽约州律师](https://zh.wikipedia.org/wiki/Category:纽约州律师 "wikilink")
 
 1.
-
 2.  Quigley, *Second Founding*, p.53
-
 3.
 4.  [约翰·肯尼迪](../Page/约翰·肯尼迪.md "wikilink"), ** (New York, 1956), p. xiv.
-
 5.  Quigly, *Second Founding*, p. 53
-
 6.
-
 7.
 8.
 9.

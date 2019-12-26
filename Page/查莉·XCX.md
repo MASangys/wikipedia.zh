@@ -1,4 +1,4 @@
-**夏洛特·埃玛·艾奇逊**（，），艺名**查莉·XCX**（），是一名[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[歌手](../Page/歌手.md "wikilink")和[詞曲作家](../Page/詞曲作家.md "wikilink")，出生于[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[剑桥](https://zh.wikipedia.org/wiki/剑桥 "wikilink")。
+**夏洛特·埃玛·艾奇逊**（，），艺名**查莉·XCX**（英語：），是一名英国[歌手](../Page/歌手.md "wikilink")和[詞曲作家](../Page/詞曲作家.md "wikilink")，出生于[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[剑桥](https://zh.wikipedia.org/wiki/剑桥 "wikilink")。
 
 查莉于 2008 年发布了自己的第一支独立单曲，并在[伦敦](../Page/伦敦.md "wikilink")的仓库舞会首次表演。她於 2010 年與 [Asylum Records](https://zh.wikipedia.org/wiki/Asylum_Records "wikilink") 簽約，并發佈了分別名爲 "Heartbreaks" 和 "Earthquakes" [混音带](../Page/混音带.md "wikilink")。"Super Ultra" 也於 2012 年發佈。2013 年查莉推出了自己的首張專輯「真实浪漫史 ([True Romance](https://zh.wikipedia.org/wiki/:en:True_Romance "wikilink"))」，包括單曲 "You (Ha Ha Ha)" 和 "Nuclear Seasons"。
 
@@ -38,7 +38,7 @@
 
 2017年3月17日，恰莉客串了製作人發行的單曲 《1 Night》。\[47\] 7月26日，單曲《[Boys](https://zh.wikipedia.org/wiki/男孩_\(酷娃恰莉歌曲\) "wikilink")》，和一部由[喬·強納斯](../Page/喬·強納斯.md "wikilink")和[布倫登·尤里等男性名人客串並由恰莉執導的音樂錄影帶同時發行](https://zh.wikipedia.org/wiki/布倫登·尤里 "wikilink")；7月27日時，錄影帶在[YouTube](../Page/YouTube.md "wikilink")前25名榜單上排行第2，並在24小時內達到近2百萬的觀看次數。\[48\]\[49\]\[50\] 8月6日，恰莉在[2017年度Lollapalooza音樂節上演出](../Page/Lollapalooza.md "wikilink")。\[51\]\[52\] 8月20日，恰莉的第3張錄音室專輯幾乎外洩，剩餘曲目則於隔年外洩。以《After the Afterparty》作為首張單曲的專輯因此被取消，而恰莉決定重新製作一張新的第3張錄音室專輯。\[53\] 《第1名天使》之後的混音帶，《》，於2017年12月15日發行，其中客串歌手包含[卡莉·蕾·傑普森](https://zh.wikipedia.org/wiki/卡莉·蕾·傑普森 "wikilink")、[托芙蘿](../Page/托芙蘿.md "wikilink")、、、、、、、、、[金·彼特拉斯](../Page/金·彼特拉斯.md "wikilink")、[朴載範](../Page/朴載範.md "wikilink")和[茉兒](../Page/MØ.md "wikilink")。\[54\] 2018年3月15日，恰莉為了宣傳《》，在洛杉磯的演出。\[55\]
 
-2018年5月，恰莉開始與卡蜜拉·卡貝羅一起擔任[泰勒絲的](https://zh.wikipedia.org/wiki/泰勒絲 "wikilink")[舉世盛名體育場巡迴演唱會](../Page/舉世盛名體育場巡迴演唱會.md "wikilink")的開場嘉賓。\[56\] 在這之後，她開始發行數首單曲。5月31日，於泰勒斯巡演的首場場次表演的單曲《5 in the Morning》發行。\[57\] 6月27日，單曲《》和《》同時發行。\[58\] 7月27日，於先前現場表演並於2017年遭外流的單曲《Girls Night Out》發行。\[59\]
+2018年5月，恰莉開始與[卡蜜拉·卡貝羅](../Page/卡蜜拉·卡貝羅.md "wikilink")一起擔任[泰勒絲的](../Page/泰勒·斯威夫特.md "wikilink")[舉世盛名體育場巡迴演唱會](../Page/舉世盛名體育場巡迴演唱會.md "wikilink")的開場嘉賓。\[56\] 在這之後，她開始發行數首單曲。5月31日，於泰勒絲巡演的首場場次表演的單曲《5 in the Morning》發行。\[57\] 6月27日，單曲《》和《》同時發行。\[58\] 7月27日，於先前現場表演並於2017年遭外流的單曲《Girls Night Out》發行。\[59\]
 
 ## 藝術性質
 
@@ -91,7 +91,7 @@
   - [瑪琳娜](https://zh.wikipedia.org/wiki/瑪琳娜·戴曼迪斯 "wikilink") –  (The Lonely Hearts Club Tour) (2013)
   - [帕拉莫尔](https://zh.wikipedia.org/wiki/帕拉莫尔 "wikilink") –  (The Self-Titled Tour) (2013)
   - [凱蒂·佩芮](../Page/凱蒂·佩芮.md "wikilink") – [超炫光世界巡迴演唱會](../Page/超炫光世界巡迴演唱會.md "wikilink") (The Prismatic World Tour) (2015)
-  - [泰勒絲](https://zh.wikipedia.org/wiki/泰勒絲 "wikilink") －[1989世界巡迴演唱會](../Page/1989世界巡迴演唱會.md "wikilink") (The 1989 World Tour) (2015)
+  - [泰勒絲](../Page/泰勒·斯威夫特.md "wikilink") －[1989世界巡迴演唱會](../Page/1989世界巡迴演唱會.md "wikilink") (The 1989 World Tour) (2015)
   - [海爾希](../Page/海爾希_\(歌手\).md "wikilink") –  (Hopeless Fountain Kingdom World Tour) (2017)
   - [希雅](https://zh.wikipedia.org/wiki/希雅 "wikilink") –  (Nostalgic for the Present Tour) (2017)
   - [泰勒絲](../Page/泰勒·斯威夫特.md "wikilink") —[舉世盛名體育場巡迴演唱會](../Page/舉世盛名體育場巡迴演唱會.md "wikilink") (Reputation Stadium Tour) (2018)
@@ -274,221 +274,115 @@
 [Category:劍橋人](https://zh.wikipedia.org/wiki/Category:劍橋人 "wikilink") [Category:印度裔英国人](https://zh.wikipedia.org/wiki/Category:印度裔英国人 "wikilink") [Category:英國女歌手](https://zh.wikipedia.org/wiki/Category:英國女歌手 "wikilink") [Category:英格蘭電子音樂家](https://zh.wikipedia.org/wiki/Category:英格蘭電子音樂家 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
 28.
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43. <https://www.bpi.co.uk/brit-certified/>
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
 75.
-
 76.
-
 77.
-
 78. [1](http://www.vh1/.com/news/5641/modern-singers-who-sound-like-classic-artists/)
-
 79.
-
 80.
-
 81.
-
 82.
-
 83.
-
 84.
-
 85.
-
 86.
-
 87.
-
 88.
-
 89.
-
 90.
-
 91.
-
 92.
 93.
-
 94.
-
 95.
 96.
-
 97.
-
 98.
 99.
-
 100.
-
 101.
-
 102.
-
 103.
-
 104.
-
 105.
-
 106.
-
 107.
-
 108.
-
 109.
-
 110.
-
 111.
-
 112.  Pitchfork|url=[http://pitchfork.com/news/59070-major-lazer-cartoon-gets-premiere-date-charli-xcx-and-riff-raff-to-guest-star/|website=Pitchfork|accessdate=15](http://pitchfork.com/news/59070-major-lazer-cartoon-gets-premiere-date-charli-xcx-and-riff-raff-to-guest-star/%7Cwebsite=Pitchfork%7Caccessdate=15) March 2017|language=en}}
-
 113.  Trailer {{\!}} MTV UK|url=[http://www.mtv.co.uk/charli-xcx/videos/charli-xcx-the-ride-promo|website=MTV](http://www.mtv.co.uk/charli-xcx/videos/charli-xcx-the-ride-promo%7Cwebsite=MTV) UK|accessdate=15 March 2017|language=en}}

@@ -22,12 +22,12 @@
 
 ## 參考資料
 
-  - [スズキ：N32A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/n32a/)
+  - [スズキ：N32A型エンジン](https://web.archive.org/web/20141214114910/http://greeco-channel.com/car/engine/suzuki_eg/n32a/)
 
   - [General Motors High Feature V6 Engine](http://www.start-run-win.com/more-information/general-motors-high-feature-v6-engine/)
 
 ## 外部連結
 
-  - [スズキ：N32A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/n32a/)
+  - [スズキ：N32A型エンジン](https://web.archive.org/web/20141214114910/http://greeco-channel.com/car/engine/suzuki_eg/n32a/)
 
 [Category:汽油发动机](https://zh.wikipedia.org/wiki/Category:汽油发动机 "wikilink") [Category:鈴木引擎與技術](https://zh.wikipedia.org/wiki/Category:鈴木引擎與技術 "wikilink")

@@ -87,11 +87,10 @@
 
 [15週年限定演唱會資訊](http://rhythmzone.net/koda/news/detail.php?id=1015443)
 
+[Category:倖田來未](https://zh.wikipedia.org/wiki/Category:倖田來未 "wikilink")
+
 1.
-
 2.
-
 3.
-
 4.
 5.

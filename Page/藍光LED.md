@@ -29,29 +29,17 @@
 
 1.
 2.
-
 3.
-
 4.  ["Nobel Shocker: RCA Had the First Blue LED in 1972"](http://spectrum.ieee.org/tech-talk/geek-life/history/rcas-forgotten-work-on-the-blue-led). *IEEE Spectrum*. October 9, 2014
-
 5.  ["Oregon tech CEO says Nobel Prize in Physics overlooks the actual inventors"](http://www.oregonlive.com/silicon-forest/index.ssf/2014/10/oregon_tech_ceo_says_nobel_pri.html). *The Oregonian*. October 16, 2014
-
 6.  [Major Business and Product Milestones](http://www.cree.com/about/milestones.asp) . Cree.com. Retrieved on March 16, 2012.
-
 7.
-
 8.
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.

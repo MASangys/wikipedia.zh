@@ -52,7 +52,5 @@ CGG提供先进的地球物理数据处理及成像服务。
 <!-- end list -->
 
 1.  [With the Closing of the Acquisition of Fugro's Geoscience Division, CGG Announces today a New Identity for the Group.](http://www.marketwire.com/press-release/cggveritas-with-closing-acquisition-fugros-geoscience-division-cgg-announces-today--paris-ga-1749990.htm)
-
 2.
-
 3.

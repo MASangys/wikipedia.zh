@@ -45,10 +45,8 @@
 [Category:糙鸟蛤亚科](https://zh.wikipedia.org/wiki/Category:糙鸟蛤亚科 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
 6.

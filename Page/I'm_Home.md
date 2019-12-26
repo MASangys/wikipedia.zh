@@ -527,16 +527,10 @@
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:失憶症題材漫畫](https://zh.wikipedia.org/wiki/Category:失憶症題材漫畫 "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:失憶症題材電視劇](https://zh.wikipedia.org/wiki/Category:失憶症題材電視劇 "wikilink") [Category:2004年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2004年開播的日本電視劇集 "wikilink") [Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink") [Category:朝日電視台週四晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週四晚間九點連續劇 "wikilink") [Category:日本家庭劇](https://zh.wikipedia.org/wiki/Category:日本家庭劇 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:淺野妙子劇本電視劇](https://zh.wikipedia.org/wiki/Category:淺野妙子劇本電視劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:木村拓哉](https://zh.wikipedia.org/wiki/Category:木村拓哉 "wikilink") [Category:Big_Comic_Original](https://zh.wikipedia.org/wiki/Category:Big_Comic_Original "wikilink")
 
 1.  日文漢字「家路」一語雙關，除了是本劇主角姓氏外，亦為「回家之路」之意。
-
 2.  [緯來日本台－家的記憶](http://japan.videoland.com.tw/channel/20150402/introduction.asp)
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.

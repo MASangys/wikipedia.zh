@@ -178,14 +178,9 @@
 [Category:奧斯卡最佳男配角獎獲獎演員](https://zh.wikipedia.org/wiki/Category:奧斯卡最佳男配角獎獲獎演員 "wikilink") [Category:俄亥俄州立大學校友](https://zh.wikipedia.org/wiki/Category:俄亥俄州立大學校友 "wikilink") [Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink") [Category:美国男配音演员](https://zh.wikipedia.org/wiki/Category:美国男配音演员 "wikilink") [Category:美國電視男演員](https://zh.wikipedia.org/wiki/Category:美國電視男演員 "wikilink") [Category:独立精神奖获得者](https://zh.wikipedia.org/wiki/Category:独立精神奖获得者 "wikilink") [Category:底特律人](https://zh.wikipedia.org/wiki/Category:底特律人 "wikilink") [Category:蒙大拿大學校友](https://zh.wikipedia.org/wiki/Category:蒙大拿大學校友 "wikilink") [Category:20世纪美国男演员](https://zh.wikipedia.org/wiki/Category:20世纪美国男演员 "wikilink") [Category:21世紀美國男演員](https://zh.wikipedia.org/wiki/Category:21世紀美國男演員 "wikilink") [Category:金球獎最佳電影男配角獲得者](https://zh.wikipedia.org/wiki/Category:金球獎最佳電影男配角獲得者 "wikilink") [Category:英国电影学院奖最佳男配角获得者](https://zh.wikipedia.org/wiki/Category:英国电影学院奖最佳男配角获得者 "wikilink") [Category:美国演员工会奖最佳男配角](https://zh.wikipedia.org/wiki/Category:美国演员工会奖最佳男配角 "wikilink") [Category:奥斯卡最佳男配角奖获奖演员](https://zh.wikipedia.org/wiki/Category:奥斯卡最佳男配角奖获奖演员 "wikilink")
 
 1.
-
 2.
-
 3.  <http://missoulian.com/news/local/obituaries/patricia-pat-kimble-simmons/article_86e1d716-972d-11e3-9471-001a4bcf887a.html>
-
 4.
-
 5.  [1](http://nl.newsbank.com/nl-search/we/Archives?p_product=WE&s_site=kansas&p_multi=WE&p_theme=realcities&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EB57691D7B2B656&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM)
-
 6.
 7.

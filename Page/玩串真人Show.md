@@ -55,35 +55,20 @@
 [Category:2005年电视剧剧集](https://zh.wikipedia.org/wiki/Category:2005年电视剧剧集 "wikilink") [Category:第九任博士剧集](https://zh.wikipedia.org/wiki/Category:第九任博士剧集 "wikilink")
 
 1.
-
 2.
-
 3.  [A Brief History Of Time (Travel): Bad Wolf / The Parting Of The Ways](http://www.shannonsullivan.com/drwho/serials/2005lm.html)
-
 4.  [The Doctor Who Complete New Series Boxset](http://www.bbcshop.com/invt/bbcdvd1770&bklist=icat,4,,doctorwhonew,newdoctorwho) at the BBC Shop
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15.
-
 16.
-
 17.
-
 18.

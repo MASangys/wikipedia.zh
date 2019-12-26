@@ -8,7 +8,7 @@
 
 ### 电视剧
 
-  - 《[神奇女侠](https://zh.wikipedia.org/wiki/神奇女郎_\(电视剧\) "wikilink")》：1975年电视剧。
+  - 《[神奇女侠](../Page/神奇女郎_\(电视剧\).md "wikilink")》：1975年电视剧。
   - 《Challenge of the Super Friends》：1978年电视剧。
   - 《超人》：1988年电视动画。
   - 《[正义联盟](../Page/正义联盟_\(动画\).md "wikilink")》：2001年电视动画。

@@ -58,8 +58,6 @@ Mj万能号『**マイティジャック**』 (Mighty Jack、**通称：MJ**(番
 [Category:圆谷制作](https://zh.wikipedia.org/wiki/Category:圆谷制作 "wikilink") [Category:富士電視台特攝節目](https://zh.wikipedia.org/wiki/Category:富士電視台特攝節目 "wikilink") [Category:1968年電視劇集](https://zh.wikipedia.org/wiki/Category:1968年電視劇集 "wikilink") [Category:フジテレビ土曜8時枠の連続ドラマ](https://zh.wikipedia.org/wiki/Category:フジテレビ土曜8時枠の連続ドラマ "wikilink") [Category:1960年代特摄作品](https://zh.wikipedia.org/wiki/Category:1960年代特摄作品 "wikilink") [Category:科幻电视剧](https://zh.wikipedia.org/wiki/Category:科幻电视剧 "wikilink") [Category:虚构组织](https://zh.wikipedia.org/wiki/Category:虚构组织 "wikilink") [Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink") [Category:少年ブック](https://zh.wikipedia.org/wiki/Category:少年ブック "wikilink") [Category:デジタルウルトラシリーズ](https://zh.wikipedia.org/wiki/Category:デジタルウルトラシリーズ "wikilink")
 
 1.  第1作の第1話のラジオの声、第4話のニュースキャスターの声も担当している（ノンクレジット）
-
 2.
 3.  第2話ではラジオの声役で出演（ノンクレジット）
-
 4.  同話では、アナウンスの声も担当

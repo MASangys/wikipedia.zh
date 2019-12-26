@@ -37,21 +37,13 @@ TALOS是由美軍[特种行动的最高指揮官](https://zh.wikipedia.org/wiki/
 [Category:军事装备](https://zh.wikipedia.org/wiki/Category:军事装备 "wikilink") [Category:軍服](https://zh.wikipedia.org/wiki/Category:軍服 "wikilink") [Category:新兴技术](https://zh.wikipedia.org/wiki/Category:新兴技术 "wikilink") [Category:軍用機器人學](https://zh.wikipedia.org/wiki/Category:軍用機器人學 "wikilink") [Category:假体](https://zh.wikipedia.org/wiki/Category:假体 "wikilink")
 
 1.
-
 2.  \[|<http://www.telegraph.co.uk/culture/film/film-news/10955747/Iron-Man-suit-for-US-military-thanks-to-Hollywood-costumers.html>|\]
-
 3.
-
 4.
 5.
-
 6.
-
 7.  [Admiral: ‘Iron Man’ Prototypes Coming in June](http://defensetech.org/2014/02/11/admiral-iron-man-prototypes-coming-in-june/) - Defensetech.org, 11 February 2014
-
 8.
-
 9.  [Tactical Assault Light Operator Suit (TALOS) Doesn’t Lack Ambition or Interested Industry](http://www.defensemedianetwork.com/stories/diverse-range-of-companies-work-on-the-tactical-assault-light-operator-suit-talos/) - Defensemedianetwork.com, 21 May 2014
-
 10.
 11. [Industry: Iron Man Still Hollywood, Not Reality](http://www.military.com/daily-news/2014/04/22/industry-iron-man-still-hollywood-not-reality.html?ESRC=todayinmil.sm) - Military.com, 22 April 2014

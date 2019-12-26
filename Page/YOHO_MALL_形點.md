@@ -1,4 +1,4 @@
-[YOHO_Mall_Overview_201606.jpg](https://zh.wikipedia.org/wiki/File:YOHO_Mall_Overview_201606.jpg "fig:YOHO_Mall_Overview_201606.jpg") [YOHO_Mall_Atrium_view_2016.jpg](https://zh.wikipedia.org/wiki/File:YOHO_Mall_Atrium_view_2016.jpg "fig:YOHO_Mall_Atrium_view_2016.jpg") [YOHO_Mall_Entrance_Atrium_201509.jpg](https://zh.wikipedia.org/wiki/File:YOHO_Mall_Entrance_Atrium_201509.jpg "fig:YOHO_Mall_Entrance_Atrium_201509.jpg") [YOHO_Mall_Level_1_Podium_201606.jpg](https://zh.wikipedia.org/wiki/File:YOHO_Mall_Level_1_Podium_201606.jpg "fig:YOHO_Mall_Level_1_Podium_201606.jpg")讓遊人休憩，需到餐廳消費才可坐下\]\] **YOHO MALL 形點**（）座落[香港](../Page/香港.md "wikilink")[港鐵](../Page/港鐵.md "wikilink")[西鐵綫](../Page/西鐵綫.md "wikilink")[元朗站](../Page/元朗站_\(西鐵綫\).md "wikilink")，佔地110萬方呎，是[新界西和新界北面積最大商場](https://zh.wikipedia.org/wiki/新界西 "wikilink")\[1\]。由[新鴻基地產](../Page/新鴻基地產.md "wikilink")發展。位於香港[新界](../Page/新界.md "wikilink")[元朗](../Page/元朗.md "wikilink")元龍街9號及朗日路8號。
+[YOHO_Mall_Overview_201606.jpg](https://zh.wikipedia.org/wiki/File:YOHO_Mall_Overview_201606.jpg "fig:YOHO_Mall_Overview_201606.jpg") [YOHO_Mall_Atrium_view_2016.jpg](https://zh.wikipedia.org/wiki/File:YOHO_Mall_Atrium_view_2016.jpg "fig:YOHO_Mall_Atrium_view_2016.jpg") [YOHO_Mall_Entrance_Atrium_201509.jpg](https://zh.wikipedia.org/wiki/File:YOHO_Mall_Entrance_Atrium_201509.jpg "fig:YOHO_Mall_Entrance_Atrium_201509.jpg") [YOHO_Mall_Level_1_Podium_201606.jpg](https://zh.wikipedia.org/wiki/File:YOHO_Mall_Level_1_Podium_201606.jpg "fig:YOHO_Mall_Level_1_Podium_201606.jpg")讓遊人休憩，需到餐廳消費才可坐下\]\] **YOHO MALL 形點**（）座落[香港](../Page/香港.md "wikilink")[港鐵](../Page/港鐵.md "wikilink")[西鐵綫](../Page/西鐵綫.md "wikilink")[元朗站](../Page/元朗站_\(西鐵綫\).md "wikilink")，佔地110萬方呎，是[新界西和新界北面積最大旗艦商場](https://zh.wikipedia.org/wiki/新界西 "wikilink")\[1\]。由[新鴻基地產](../Page/新鴻基地產.md "wikilink")發展。位於香港[新界](../Page/新界.md "wikilink")[元朗](../Page/元朗.md "wikilink")元龍街9號及朗日路8號。
 
 商場分四期興建，目前第三期還會擴建，第四期商場興建中。
 
@@ -187,7 +187,7 @@ YOHO MALL外牆多個部份採用[發光二極管](../Page/發光二極管.md "w
 10.
 11.
 12. [Yoho Mall 形點 購物外4大玩樂空間](http://hk.ulifestyle.com.hk/spot/detail.html?id=ABdGDVo3Bw1ZEQNq&utm_source=uhk&utm_campaign=spot-list&utm_medium=title&utm_content=title1-03)HK [港生活](../Page/港生活.md "wikilink")
-13. [新地「YOHO MALL形點」首階段全數租出率先開業 慶祝活動浪接浪體驗YOHO Moment互動驚喜](http://www.shkp.com/zh-HK/Pages/press-release-detail/2217)
+13.
 14. [盡在元朗facebook專頁](https://www.facebook.com/photo.php?fbid=10153124034949080&set=o.327046987407943&type=3&theater)
 15. [元朗：天橋掛滿宣傳牌招不滿 2015年9月30日](http://orientaldaily.on.cc/cnt/news/20150930/00196_003.html)
 16.

@@ -38,9 +38,7 @@
 [Category:昌原公司](https://zh.wikipedia.org/wiki/Category:昌原公司 "wikilink") [Category:总部在韩国的跨国公司](https://zh.wikipedia.org/wiki/Category:总部在韩国的跨国公司 "wikilink") [Category:韓國軍工廠](https://zh.wikipedia.org/wiki/Category:韓國軍工廠 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.

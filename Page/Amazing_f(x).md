@@ -95,6 +95,6 @@ Amazing f(x)\[1\]\[2\]是2013年MBC拍摄的f(x)组合的团体综艺节目，�
 
 [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink") [Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")
 
-1.  [【bnt图】f(x)休闲潮装现身机场 赴新西兰拍摄AmazingF(x)](http://www.koreaxing.com/article-2446-1.html)
+1.
 2.  ['어메이징 f(x)', 다섯 함수 소녀의 특별한 여행](http://news.nate.com/view/20130409n03088)
 3.  此處標題為[搜狐](../Page/搜狐.md "wikilink")視頻的分集標題。

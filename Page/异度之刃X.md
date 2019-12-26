@@ -139,8 +139,6 @@
 [Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:异度系列](https://zh.wikipedia.org/wiki/Category:异度系列 "wikilink") [Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink") [Category:Monolith_Soft游戏](https://zh.wikipedia.org/wiki/Category:Monolith_Soft游戏 "wikilink") [Category:任天堂游戏](https://zh.wikipedia.org/wiki/Category:任天堂游戏 "wikilink") [Category:Wii_U_eShop遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U_eShop遊戲 "wikilink") [Category:Wii_U独占游戏](https://zh.wikipedia.org/wiki/Category:Wii_U独占游戏 "wikilink") [Category:Wii_U遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U遊戲 "wikilink") [Category:机甲电子游戏](https://zh.wikipedia.org/wiki/Category:机甲电子游戏 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  [「パズドラ スーパーマリオブラザーズ エディション」約18万本。「DQX　いにしえの竜の伝承」「XenobladeX」も登場の「週間販売ランキング＋」](http://www.4gamer.net/games/117/G011794/20150508065/).4Gamer.2015-05-08.\[2015-05-09\].

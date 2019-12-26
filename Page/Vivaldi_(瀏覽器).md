@@ -78,6 +78,7 @@ Vivaldi——視同[Google Chrome](../Page/Google_Chrome.md "wikilink")——能
 | 2.5             |
 | 2.6             |
 | 2.7             |
+| 2.8             |
 
 ## 相關
 
@@ -110,35 +111,20 @@ Vivaldi——視同[Google Chrome](../Page/Google_Chrome.md "wikilink")——能
 [Category:免费软件](https://zh.wikipedia.org/wiki/Category:免费软件 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:2015年軟體](https://zh.wikipedia.org/wiki/Category:2015年軟體 "wikilink") [Category:2016年软件](https://zh.wikipedia.org/wiki/Category:2016年软件 "wikilink") [Category:基于Chromium的浏览器](https://zh.wikipedia.org/wiki/Category:基于Chromium的浏览器 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
-11. 類似[Yandex](../Page/Yandex.md "wikilink")出品的[Yandex browser](https://zh.wikipedia.org/wiki/Yandex_browser "wikilink")，該网页浏览器預設的分頁標籤列是放置在底部
-
+11. 類似[Yandex](../Page/Yandex.md "wikilink")出品的[Yandex Browser](../Page/Yandex_Browser.md "wikilink")，該网页浏览器預設的分頁標籤列是放置在底部
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.

@@ -1,4 +1,4 @@
-[PhD_Comics_Open_Access_Week_2012.ogv](https://zh.wikipedia.org/wiki/File:PhD_Comics_Open_Access_Week_2012.ogv "fig:PhD_Comics_Open_Access_Week_2012.ogv")推出的PhD Comics特別號\]\] **Piled Higher and Deeper**，也稱為**PhD漫畫**（**PhD Comics**）\[1\]，是網上連載漫畫系列。作者是[豪爾赫·陳](https://zh.wikipedia.org/wiki/豪爾赫·陳 "wikilink")（Jorge Cham）。漫畫講述幾個研究生的日常生活中的大小事，包括科研遇到的困難，[拖延症的危險](https://zh.wikipedia.org/wiki/拖延症 "wikilink")，和導師之間的複雜關係，以及總是在尋找免費食物等。1997年秋季，作者在[史丹福大學讀機械工程學博士時](https://zh.wikipedia.org/wiki/史丹福大學 "wikilink")，開始創作這套漫畫，之後在[加州理工學院任講師時繼續繪畫](https://zh.wikipedia.org/wiki/加州理工學院 "wikilink")，現在全職繪畫漫畫，以及給演講談論漫畫當中的內容。漫畫原來是黑白，之後轉為灰階，2004年6月開始用彩色。
+[PhD_Comics_Open_Access_Week_2012.ogv](https://zh.wikipedia.org/wiki/File:PhD_Comics_Open_Access_Week_2012.ogv "fig:PhD_Comics_Open_Access_Week_2012.ogv")推出的PhD Comics特別號\]\] **Piled Higher and Deeper**，也稱為**PhD漫畫**（**PhD Comics**）\[1\]，是網上連載漫畫系列。作者是[豪爾赫·陳](https://zh.wikipedia.org/wiki/豪爾赫·陳 "wikilink")（Jorge Cham）。漫畫講述幾個研究生的日常生活中的大小事，包括科研遇到的困難，[拖延症的危險](https://zh.wikipedia.org/wiki/拖延症 "wikilink")，和導師之間的複雜關係，以及總是在尋找免費食物等。1997年秋季，作者在[史丹福大學讀機械工程學博士時](https://zh.wikipedia.org/wiki/史丹福大學 "wikilink")，開始創作這套漫畫，之後在[加州理工學院](../Page/加州理工學院.md "wikilink")任講師時繼續繪畫，現在全職繪畫漫畫，以及給演講談論漫畫當中的內容。漫畫原來是黑白，之後轉為灰階，2004年6月開始用彩色。
 
 ## 人物
 
@@ -23,7 +23,7 @@
 
 ## 電影
 
-2011年作者豪爾赫·陳開始拍攝漫畫的電影版。電影是作者和[加州理工學院的一個戲劇小組的合作計劃](https://zh.wikipedia.org/wiki/加州理工學院 "wikilink")。2011年秋季，電影在一些大學中巡迴放映。\[2\]2012年4月電影的DVD和網上串流公開發售。\[3\]2015年在加州理工學院拍攝電影續集。
+2011年作者豪爾赫·陳開始拍攝漫畫的電影版。電影是作者和[加州理工學院](../Page/加州理工學院.md "wikilink")的一個戲劇小組的合作計劃。2011年秋季，電影在一些大學中巡迴放映。\[2\]2012年4月電影的DVD和網上串流公開發售。\[3\]2015年在加州理工學院拍攝電影續集。
 
 ## 書目
 

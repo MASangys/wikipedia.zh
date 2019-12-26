@@ -17,16 +17,10 @@
 [Category:微軟硬體](https://zh.wikipedia.org/wiki/Category:微軟硬體 "wikilink") [Category:智能手表](https://zh.wikipedia.org/wiki/Category:智能手表 "wikilink") [Category:2014年面世的產品](https://zh.wikipedia.org/wiki/Category:2014年面世的產品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.

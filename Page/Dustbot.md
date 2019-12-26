@@ -34,18 +34,14 @@ Dustbot系统通过无线网络与GPS和因特网通信\[22\]。
 [Category:家用電器品牌](https://zh.wikipedia.org/wiki/Category:家用電器品牌 "wikilink") [Category:家用机器人](https://zh.wikipedia.org/wiki/Category:家用机器人 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.
-
 7.
 8.
 9.
-
 10.
 11.
 12.
@@ -53,15 +49,10 @@ Dustbot系统通过无线网络与GPS和因特网通信\[22\]。
 14.
 15.
 16.
-
 17.
 18.
-
 19.
-
 20.
-
 21.
-
 22.
 23.

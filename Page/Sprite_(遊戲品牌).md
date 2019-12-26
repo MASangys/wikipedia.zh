@@ -59,28 +59,16 @@
 [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.   ACGdoge|accessdate=2018-06-27|last=dimpurr|work=www.acgdoge.net|language=zh-cn}}
-
 6.
-
 7.
-
 8.
-
 9.  ＜公式＞蒼の彼方のフォーリズム EXTRA1 <https://aokana.net/extra1/>
-
 10.
-
 11.
-
 12.
 13.
-
 14.

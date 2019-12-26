@@ -30,5 +30,6 @@
 
   - [Raidas](../Page/Raidas.md "wikilink")
   - [林夕](../Page/林夕.md "wikilink")
+  - 2017年香港電影《[春嬌救志明](https://zh.wikipedia.org/wiki/春嬌救志明 "wikilink")》
 
 [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:1987年音樂專輯](https://zh.wikipedia.org/wiki/Category:1987年音樂專輯 "wikilink")

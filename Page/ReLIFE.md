@@ -690,39 +690,23 @@ Report 112[19]</p></td>
 [Category:日本網絡漫畫](https://zh.wikipedia.org/wiki/Category:日本網絡漫畫 "wikilink") [Category:改編成電影的日本漫畫](https://zh.wikipedia.org/wiki/Category:改編成電影的日本漫畫 "wikilink") [Category:2013年作品](https://zh.wikipedia.org/wiki/Category:2013年作品 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:隱瞞身分題材漫畫](https://zh.wikipedia.org/wiki/Category:隱瞞身分題材漫畫 "wikilink") [Category:隱瞞身分題材動畫](https://zh.wikipedia.org/wiki/Category:隱瞞身分題材動畫 "wikilink") [Category:2016年UHF動畫](https://zh.wikipedia.org/wiki/Category:2016年UHF動畫 "wikilink") [Category:漫畫改編舞台劇](https://zh.wikipedia.org/wiki/Category:漫畫改編舞台劇 "wikilink") [Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink") [Category:日本爱情片](https://zh.wikipedia.org/wiki/Category:日本爱情片 "wikilink") [Category:2010年代爱情片](https://zh.wikipedia.org/wiki/Category:2010年代爱情片 "wikilink") [Category:高中背景電影](https://zh.wikipedia.org/wiki/Category:高中背景電影 "wikilink") [Category:日本校園電影](https://zh.wikipedia.org/wiki/Category:日本校園電影 "wikilink") [Category:松竹電影](https://zh.wikipedia.org/wiki/Category:松竹電影 "wikilink") [Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink") [Category:Comico](https://zh.wikipedia.org/wiki/Category:Comico "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18. 使用部分內容，劇情編排方式與原作不同，以了的劇情視角稍微說了實驗者001的存在，也補充了些許原創內容。
-
 19. 部分原創，告白地點改變，補充了些許原創內容。
-
 20.
-
 21.

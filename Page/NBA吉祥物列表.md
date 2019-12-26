@@ -95,8 +95,4 @@ The Wheedle</p></td>
 </tbody>
 </table>
 
-## 外部連結
-
-  - [NBA三十大球隊吉祥物：火箭熊最出鏡，湖人最大牌](http://zuiwofusheng.blog.hexun.com.tw/78449389_d.html)
-
 [Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink")

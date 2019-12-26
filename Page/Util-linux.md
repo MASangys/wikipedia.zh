@@ -142,29 +142,21 @@
 [Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink") [Category:Linux中的硬件](https://zh.wikipedia.org/wiki/Category:Linux中的硬件 "wikilink") [Category:自由系統軟體](https://zh.wikipedia.org/wiki/Category:自由系統軟體 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
 7.  [lscpu](http://www.man-online.org/page/1-lscpu/)
-
 8.
 9.
-
 10.
-
 11.
-
 12.
 13.
 14.
 15.
 16.
-
 17.
 18.
 19.

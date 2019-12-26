@@ -287,187 +287,194 @@
 </tr>
 <tr class="even">
 <td></td>
+<td><p>姜世英</p></td>
+<td><p>前善日精神病院的護士，被尹秀雅陷害成綁架犯。</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
 <td><p>徐亨俊</p></td>
 <td><p>尹秀雅的男朋友，知悉綁架案後被殺。</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>金允貞</p></td>
 <td><p>朴海英的小學同學，遭誘拐綁架後被殺。</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>京畿道連環殺人事件</strong> （案件原型：<a href="../Page/華城連環殺人案.md" title="wikilink">華城連環殺人案</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/文英東" title="wikilink">文英東</a></p></td>
 <td><p>金昌洙/金泰玄</p></td>
 <td><p>曾負責京畿道南部殺人案件刑警，現為大樓保全。</p></td>
 <td><p><a href="../Page/張炳強.md" title="wikilink">張炳強</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/金基天.md" title="wikilink">金基天</a></p></td>
 <td><p>李青久/李天久</p></td>
 <td><p>95路公車司機，京畿道南部連續殺人案兇手李振亨的爸爸。</p></td>
 <td><p>| <a href="../Page/陳永信.md" title="wikilink">陳永信</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>李美善</p></td>
 <td><p>主婦，京畿道南部連續殺人案的受害者之一，改變過去後沒有被殺。</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>卓聖恩</p></td>
 <td></td>
 <td><p>李美善的女兒，改變過去後得以出生，因媽媽生前的囑咐而對警方友善。</p></td>
 <td><p><a href="../Page/成瑤孆.md" title="wikilink">成瑤孆</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>尹炳熙</p></td>
 <td><p>崔英臣</p></td>
 <td><p>改變過去後出現的京畿道南部連續殺人案疑犯，於羈押時因癲癇發作死去。</p></td>
 <td><p><a href="../Page/李安邦.md" title="wikilink">李安邦</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/李詩雅.md" title="wikilink">李詩雅</a></p></td>
 <td><p>黃敏珠</p></td>
 <td><p>公車售票員，京畿道南部連續殺人案的受害者之一。</p></td>
 <td><p><a href="../Page/葉曉欣.md" title="wikilink">葉曉欣</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/成玄美" title="wikilink">成玄美</a></p></td>
 <td><p>鄭景順/鄭京順</p></td>
 <td><p>敏珠的同事，知道京畿道南部連續殺人案真相而勒索李青久/李天久，之後被他殺害。</p></td>
 <td><p><a href="../Page/詹健兒.md" title="wikilink">詹健兒</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/李詩雅.md" title="wikilink">李詩雅</a></p></td>
 <td><p>金媛景/金元靜</p></td>
 <td><p>洞辦事處職員，和李材韓互相喜歡對方，京畿道南部連續殺人案的受害者之一。</p></td>
 <td><p><a href="../Page/何寶珊.md" title="wikilink">何寶珊</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>金媛景/金元靜的阿姨。</p></td>
 <td><p><a href="../Page/雷碧娜.md" title="wikilink">雷碧娜</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/李基燮(演員)" title="wikilink">李基燮</a></p></td>
 <td><p>李振亨</p></td>
 <td><p>李青久/李天久的兒子。京畿道南部連續殺人案兇手。</p></td>
 <td><p><a href="../Page/關令翹.md" title="wikilink">關令翹</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>大盜案</strong> （案件原型：大盜趙世衡）及 <strong>漢陽大橋崩塌事件</strong> （案件原型：<a href="https://zh.wikipedia.org/wiki/聖水大橋" title="wikilink">聖水大橋崩塌事件</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>韓世奎</p></td>
 <td><p>1995年大盜案、金智喜謀殺案的犯人。</p></td>
 <td><p><a href="../Page/張方正.md" title="wikilink">張方正</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>韓石奎</p></td>
 <td><p>韓世奎的父親，檢察官。</p></td>
 <td><p><a href="../Page/陳欣_(配音員).md" title="wikilink">陳欣</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>申東勳</p></td>
 <td><p>漢陽大橋崩塌事件受害者之一，被吳景泰/吳京泰殺害。</p></td>
 <td><p><a href="../Page/陳永信.md" title="wikilink">陳永信</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/崔宇里" title="wikilink">崔宇里</a></p></td>
 <td><p>申汝珍/申茹真</p></td>
 <td><p>申東勳的女兒。為了報仇被吳景泰/吳京泰所綁架。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/梁少霞" title="wikilink">梁少霞</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/鄭石勇.md" title="wikilink">鄭石勇</a></p></td>
 <td><p>吳景泰/吳京泰</p></td>
 <td><p>被誤認為是大盜案件的犯人。</p></td>
 <td><p><a href="../Page/張炳強.md" title="wikilink">張炳強</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/朴蒔恩.md" title="wikilink">朴蒔恩</a></p></td>
 <td><p>吳恩智</p></td>
 <td><p>吳景泰/吳京泰的女兒，改變過去後意外死去。</p></td>
 <td><p><a href="../Page/羅孔柔.md" title="wikilink">羅孔柔</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>申多惠</p></td>
 <td><p>演員志願生，20年前被誤以為遭殺害死去，現以金智喜身份活下去。保留大盜案重要證物。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/曾佩儀" title="wikilink">曾佩儀</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>金智喜</p></td>
 <td><p>申多惠朋友，20年前被韓世奎誤認為申多惠殺害。</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>申正惠</p></td>
 <td><p>申多惠的姐姐。</p></td>
 <td><p><a href="../Page/朱妙蘭.md" title="wikilink">朱妙蘭</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>金閔成</p></td>
 <td><p>攝影師，申多惠的未婚夫。</p></td>
 <td><p><a href="../Page/麥皓豐.md" title="wikilink">麥皓豐</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>申多惠的經紀人。</p></td>
 <td><p><a href="../Page/朱子聰.md" title="wikilink">朱子聰</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>洪源洞/紅院洞連續殺人案</strong> （案件原型：新亭洞連環殺人案 及 柳永哲連環殺人案）</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/李相燁.md" title="wikilink">李相燁</a><br />
 <small>（兒時：崔智厚）</small></p></td>
 <td><p>金珍優</p></td>
@@ -476,21 +483,21 @@
 <small>（兒時：<a href="../Page/沈小蘭.md" title="wikilink">沈小蘭</a>）</small></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/徐恩雅.md" title="wikilink">徐恩雅</a></p></td>
 <td><p>劉昇燕</p></td>
 <td><p>洪源洞/紅院洞連續殺人案被害者之一。</p></td>
 <td><p><a href="../Page/詹健兒.md" title="wikilink">詹健兒</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>仁川女高中生集體性暴力事件</strong> （案件原型：<a href="../Page/密陽性暴力事件.md" title="wikilink">密陽集體性暴力事件</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><br />
 <small>（中年：</small>）</p></td>
 <td><p>江惠勝/姜惠勝</p></td>
@@ -499,21 +506,21 @@
 <small>（中年：<a href="../Page/詹健兒.md" title="wikilink">詹健兒</a>）</small></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>江惠勝/姜惠勝的父親。</p></td>
 <td><p><a href="../Page/陳永信.md" title="wikilink">陳永信</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>李東鎮</p></td>
 <td><p>仁川女高中生集體性暴力事件加害者，寫出事件文章上傳網路的人。</p></td>
 <td><p><a href="../Page/李震權.md" title="wikilink">李震權</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/徐志焄.md" title="wikilink">徐志焄</a></p></td>
 <td><p>張太鎮</p></td>
 <td><p>仁州水泥社長的兒子，國會議員張英哲的姪兒，仁川女高中生集體性暴力事件第一個加害者。</p></td>

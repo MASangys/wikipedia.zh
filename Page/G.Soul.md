@@ -153,9 +153,9 @@
 
 1.  [G.Soul專輯介紹](http://gsoul.jype.com/discography.asp?idx=&lng=EN&page=)  G.Soul官方網站. 2015-01-19
 2.  [G.Soul個人檔案](http://gsoul.jype.com/profile.asp)  G.Soul官方網站. 2015-01-19
-3.  [【影片】JYP精磨15年的璞玉 G-SOUL引發網友熱議](http://mwave.interest.me/tw/kpop-news/article/84854/) mwave. 2015-01-11
+3.  [【影片】JYP精磨15年的璞玉 G-SOUL引發網友熱議](http://mwave.interest.me/tw/kpop-news/article/84854/)  mwave. 2015-01-11
 4.
-5.  [JYPE 推出新人：G.Soul](http://kpopn.com/2015/01/10/256702/) Kpopn . 2015-01-09
+5.  [JYPE 推出新人：G.Soul](http://kpopn.com/2015/01/10/256702/)  Kpopn . 2015-01-09
 6.
 7.
 8.  [G.Soul在個人Instagram上分享畢業照](http://instagram.com/p/Z_TFsgoqAe/?modal=true) Instagram. 2013-06-01

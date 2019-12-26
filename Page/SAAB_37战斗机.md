@@ -78,22 +78,14 @@
 [Category:三角翼飞机](https://zh.wikipedia.org/wiki/Category:三角翼飞机 "wikilink") [Category:萨博飞机](https://zh.wikipedia.org/wiki/Category:萨博飞机 "wikilink") [Category:1960-1969年的瑞典战斗机](https://zh.wikipedia.org/wiki/Category:1960-1969年的瑞典战斗机 "wikilink") [Category:鸭式飞机](https://zh.wikipedia.org/wiki/Category:鸭式飞机 "wikilink") [Category:瑞典核武器计划](https://zh.wikipedia.org/wiki/Category:瑞典核武器计划 "wikilink") [Category:1971_introductions](https://zh.wikipedia.org/wiki/Category:1971_introductions "wikilink") [Category:單發噴射機](https://zh.wikipedia.org/wiki/Category:單發噴射機 "wikilink")
 
 1.
-
 2.  Jackson 1993, p. 57.
-
 3.  Jackson 1993, pp. 63–66.
-
 4.  Jackson 1993, p. 82.
-
 5.  Jackson 1993, pp. 70–71.
-
 6.
 7.  Jackson 1993, pp. 59, 70.
-
 8.
 9.  Jackson 1993, p. 70.
-
 10.
 11. Jackson 1993, p. 78.
-
 12. Jackson 1993, pp. 78, 80.

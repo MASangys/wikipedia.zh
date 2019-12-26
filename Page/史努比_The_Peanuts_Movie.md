@@ -172,12 +172,8 @@
 [Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:2015年3D電影](https://zh.wikipedia.org/wiki/Category:2015年3D電影 "wikilink") [Category:美国3D电影](https://zh.wikipedia.org/wiki/Category:美国3D电影 "wikilink") [Category:2015年美国动画电影](https://zh.wikipedia.org/wiki/Category:2015年美国动画电影 "wikilink") [Category:美國喜劇片](https://zh.wikipedia.org/wiki/Category:美國喜劇片 "wikilink") [Category:动画喜剧片](https://zh.wikipedia.org/wiki/Category:动画喜剧片 "wikilink") [Category:2015年電腦動畫電影](https://zh.wikipedia.org/wiki/Category:2015年電腦動畫電影 "wikilink") [Category:擬人化角色電影](https://zh.wikipedia.org/wiki/Category:擬人化角色電影 "wikilink") [Category:藍天工作室動畫電影](https://zh.wikipedia.org/wiki/Category:藍天工作室動畫電影 "wikilink") [Category:漫畫改編電影](https://zh.wikipedia.org/wiki/Category:漫畫改編電影 "wikilink") [Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.

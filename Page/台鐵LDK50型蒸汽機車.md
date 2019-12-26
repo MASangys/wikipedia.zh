@@ -80,7 +80,7 @@
 
 ## 外部連結
 
-  - [後山鐵道風華 文化資產數位博物館](http://document.hccc.gov.tw/railway/index.htm)
+  - [後山鐵道風華 文化資產數位博物館](https://web.archive.org/web/20180904154004/http://document.hccc.gov.tw/railway/index.htm)
   - [花蓮蒸汽火車工作小組](https://www.facebook.com/Hualien.SL/?fref=nf)
 
 [Category:臺灣鐵路管理局車輛](https://zh.wikipedia.org/wiki/Category:臺灣鐵路管理局車輛 "wikilink") [Category:台灣蒸汽機車](https://zh.wikipedia.org/wiki/Category:台灣蒸汽機車 "wikilink") [Category:日本製台灣蒸汽機車](https://zh.wikipedia.org/wiki/Category:日本製台灣蒸汽機車 "wikilink") [Category:汽车制造制铁路机车](https://zh.wikipedia.org/wiki/Category:汽车制造制铁路机车 "wikilink")

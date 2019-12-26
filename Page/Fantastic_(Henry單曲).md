@@ -41,12 +41,8 @@
 [Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:Henry音樂專輯](https://zh.wikipedia.org/wiki/Category:Henry音樂專輯 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.

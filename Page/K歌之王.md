@@ -8,7 +8,7 @@
 
 ## 音樂特徵
 
-以[D大調寫成](https://zh.wikipedia.org/wiki/D大調 "wikilink")，無[轉調](https://zh.wikipedia.org/wiki/转调 "wikilink")，[行板](../Page/速度_\(音樂\).md "wikilink")，[音域為](https://zh.wikipedia.org/wiki/音域 "wikilink")14度，曲式結構為AABBCCAA。\[2\] \[3\]
+以[D大調](../Page/D大調.md "wikilink")寫成，無[轉調](https://zh.wikipedia.org/wiki/转调 "wikilink")，[行板](../Page/速度_\(音樂\).md "wikilink")，[音域為](https://zh.wikipedia.org/wiki/音域 "wikilink")14度，曲式結構為AABBCCAA。\[2\] \[3\]
 
 ### 其他製作人員
 
@@ -94,23 +94,17 @@
 
 ## 參考資料
 
-[Category:華語流行歌曲](https://zh.wikipedia.org/wiki/Category:華語流行歌曲 "wikilink") [Category:粵語歌曲](https://zh.wikipedia.org/wiki/Category:粵語歌曲 "wikilink") [Category:2000年歌曲](https://zh.wikipedia.org/wiki/Category:2000年歌曲 "wikilink") [Category:陳奕迅歌曲](https://zh.wikipedia.org/wiki/Category:陳奕迅歌曲 "wikilink") [Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink") [Category:叱咤樂壇我最喜愛的歌曲](https://zh.wikipedia.org/wiki/Category:叱咤樂壇我最喜愛的歌曲 "wikilink") [Category:林夕詞作](https://zh.wikipedia.org/wiki/Category:林夕詞作 "wikilink")
+[Category:華語流行歌曲](https://zh.wikipedia.org/wiki/Category:華語流行歌曲 "wikilink") [Category:粵語歌曲](https://zh.wikipedia.org/wiki/Category:粵語歌曲 "wikilink") [Category:2000年歌曲](https://zh.wikipedia.org/wiki/Category:2000年歌曲 "wikilink") [Category:陳奕迅歌曲](https://zh.wikipedia.org/wiki/Category:陳奕迅歌曲 "wikilink") [Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink") [Category:叱咤樂壇我最喜愛的歌曲](https://zh.wikipedia.org/wiki/Category:叱咤樂壇我最喜愛的歌曲 "wikilink") [Category:林夕詞作](https://zh.wikipedia.org/wiki/Category:林夕詞作 "wikilink") [Category:陳輝陽曲作](https://zh.wikipedia.org/wiki/Category:陳輝陽曲作 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  [【K歌之王】歌词是由哪些歌名组成的（国、粤皆有）](http://www.douban.com/group/topic/7864746/)
-
 5.
 6.
 7.
 8.
 9.
 10.
-
 11.
-
 12.

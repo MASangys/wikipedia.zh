@@ -182,17 +182,12 @@
 [Category:英格蘭裔美國人](https://zh.wikipedia.org/wiki/Category:英格蘭裔美國人 "wikilink") [Category:美國長老宗教徒](https://zh.wikipedia.org/wiki/Category:美國長老宗教徒 "wikilink") [Category:威廉与玛丽学院校友](https://zh.wikipedia.org/wiki/Category:威廉与玛丽学院校友 "wikilink") [Category:肯塔基州州长](https://zh.wikipedia.org/wiki/Category:肯塔基州州长 "wikilink") [Category:美国司法部长](https://zh.wikipedia.org/wiki/Category:美国司法部长 "wikilink") [Category:美国辉格党州长](https://zh.wikipedia.org/wiki/Category:美国辉格党州长 "wikilink") [Category:肯塔基州众议院议长](https://zh.wikipedia.org/wiki/Category:肯塔基州众议院议长 "wikilink") [Category:肯塔基州律师](https://zh.wikipedia.org/wiki/Category:肯塔基州律师 "wikilink") [Category:肯塔基州联邦参议员](https://zh.wikipedia.org/wiki/Category:肯塔基州联邦参议员 "wikilink") [Category:肯塔基州眾議員](https://zh.wikipedia.org/wiki/Category:肯塔基州眾議員 "wikilink") [Category:葬于法兰克福公墓](https://zh.wikipedia.org/wiki/Category:葬于法兰克福公墓 "wikilink") [Category:华盛顿与李大学校友](https://zh.wikipedia.org/wiki/Category:华盛顿与李大学校友 "wikilink") [Category:肯塔基州聯邦眾議員](https://zh.wikipedia.org/wiki/Category:肯塔基州聯邦眾議員 "wikilink") [Category:美國民主共和黨聯邦參議員](https://zh.wikipedia.org/wiki/Category:美國民主共和黨聯邦參議員 "wikilink") [Category:19世纪美国政治家](https://zh.wikipedia.org/wiki/Category:19世纪美国政治家 "wikilink") [Category:肯塔基州民主共和党人](https://zh.wikipedia.org/wiki/Category:肯塔基州民主共和党人 "wikilink") [Category:肯塔基州1812年戰爭人物](https://zh.wikipedia.org/wiki/Category:肯塔基州1812年戰爭人物 "wikilink") [Category:肯塔基州伍德福德县人士](https://zh.wikipedia.org/wiki/Category:肯塔基州伍德福德县人士 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.
-
 8.
 9.
 10.
@@ -204,29 +199,23 @@
 16.
 17.
 18.
-
 19.
 20.
 21.
-
 22.
 23.
 24.
 25.
-
 26.
 27.
-
 28.
 29.
-
 30.
 31.
 32.
 33.
 34.
 35.
-
 36.
 37.
 38.
@@ -235,7 +224,6 @@
 41.
 42.
 43.
-
 44.
 45.
 46.
@@ -266,7 +254,6 @@
 71.
 72.
 73.
-
 74.
 75.
 76.
@@ -439,7 +426,6 @@
 243.
 244.
 245.
-
 246.
 247.
 248.
@@ -462,7 +448,6 @@
 265.
 266.
 267.
-
 268.
 269.
 270.
@@ -471,5 +456,4 @@
 273.
 274.
 275.
-
 276.

@@ -94,14 +94,15 @@ PlotData =
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><br />
+<td><p><a href="../Page/馬俊傑.md" title="wikilink">馬俊傑</a><br />
 （Linus）<br />
 （第三代）</p></td>
 <td><p>馬仔／Linus</p></td>
 <td><p>2017年5月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/英語無難道" title="wikilink">英語無難道</a>[4]<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/搶住嚟答通識比賽" title="wikilink">搶住嚟答通識比賽</a>[4]<br />
+<a href="https://zh.wikipedia.org/wiki/英語無難道" title="wikilink">英語無難道</a>[5]<br />
 <a href="https://zh.wikipedia.org/wiki/STEM出創意" title="wikilink">STEM出創意</a>（T）<br />
-<a href="https://zh.wikipedia.org/wiki/Think_Big之森探險團" title="wikilink">Think Big之森探險團</a>（酋長） [5]</p></td>
+<a href="https://zh.wikipedia.org/wiki/Think_Big之森探險團" title="wikilink">Think Big之森探險團</a>（酋長） [6]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/粵語猜猜猜" title="wikilink">粵語猜猜猜</a></p></td>
 <td><p><br />
 STEM出創意顏色：</p></td>
@@ -112,8 +113,8 @@ STEM出創意顏色：</p></td>
 （第四代）</p></td>
 <td><p>Mandy</p></td>
 <td><p>2018年2月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/精靈庭園" title="wikilink">精靈庭園</a>（晴天精靈）[6]<br />
-<a href="https://zh.wikipedia.org/wiki/我都畫得到" title="wikilink">我都畫得到</a>[7]<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/精靈庭園" title="wikilink">精靈庭園</a>（晴天精靈）[7]<br />
+<a href="https://zh.wikipedia.org/wiki/我都畫得到" title="wikilink">我都畫得到</a>[8]<br />
 <a href="https://zh.wikipedia.org/wiki/Patrick_Sir爆趣英語逐個捉" title="wikilink">Patrick Sir爆趣英語逐個捉</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/粵語猜猜猜" title="wikilink">粵語猜猜猜</a><br />
 <a href="https://zh.wikipedia.org/wiki/三年N班實驗室" title="wikilink">三年N班實驗室</a>（Nosy）</p></td>
@@ -126,7 +127,7 @@ STEM出創意顏色：</p></td>
 <td><p>Regina</p></td>
 <td><p>2018年2月15日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Patrick_Sir爆趣英語逐個捉" title="wikilink">Patrick Sir爆趣英語逐個捉</a><br />
-<a href="https://zh.wikipedia.org/wiki/搶住嚟答通識比賽" title="wikilink">搶住嚟答通識比賽</a>[8]</p></td>
+<a href="https://zh.wikipedia.org/wiki/搶住嚟答通識比賽" title="wikilink">搶住嚟答通識比賽</a>[9]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/粵語猜猜猜" title="wikilink">粵語猜猜猜</a><br />
 <a href="https://zh.wikipedia.org/wiki/Little_Miss_Hong_Kong" title="wikilink">Little Miss Hong Kong</a><br />
 <a href="https://zh.wikipedia.org/wiki/三年N班實驗室" title="wikilink">三年N班實驗室</a>（Nervous）<br />
@@ -139,7 +140,8 @@ STEM出創意顏色：</p></td>
 （第四代）</p></td>
 <td><p>Kelly</p></td>
 <td><p>2018年2月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Patrick_Sir爆趣英語逐個捉" title="wikilink">Patrick Sir爆趣英語逐個捉</a>[9]<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Patrick_Sir爆趣英語逐個捉" title="wikilink">Patrick Sir爆趣英語逐個捉</a>[10]<br />
+<a href="https://zh.wikipedia.org/wiki/搶住嚟答通識比賽" title="wikilink">搶住嚟答通識比賽</a>[11]<br />
 <a href="https://zh.wikipedia.org/wiki/STEM出創意" title="wikilink">STEM出創意</a>（E）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/粵語猜猜猜" title="wikilink">粵語猜猜猜</a><br />
 <a href="https://zh.wikipedia.org/wiki/三年N班實驗室" title="wikilink">三年N班實驗室</a>（Negative）<br />
@@ -148,22 +150,23 @@ STEM出創意顏色：</p></td>
 STEM出創意顏色：</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/後生仔傾吓偈#「後生仔」2.0" title="wikilink">曾展望</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/曾展望" title="wikilink">曾展望</a><br />
 （Randal）<br />
 （第六代）</p></td>
 <td><p>GM</p></td>
 <td><p>2019年2月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Think_Big冒險之旅" title="wikilink">Think Big冒險之旅</a>（爵士）[10]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/搶住嚟答通識比賽" title="wikilink">搶住嚟答通識比賽</a>[12]<br />
+<a href="https://zh.wikipedia.org/wiki/Think_Big冒險之旅" title="wikilink">Think Big冒險之旅</a>（爵士）[13]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/後生仔傾吓偈#「後生仔」2.0" title="wikilink">徐文浩</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/徐文浩" title="wikilink">徐文浩</a><br />
 （Frederick）<br />
 （第六代）</p></td>
 <td><p>Fred</p></td>
 <td><p>2019年2月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/搶住嚟答通識比賽" title="wikilink">搶住嚟答通識比賽</a>[11]<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/搶住嚟答通識比賽" title="wikilink">搶住嚟答通識比賽</a>[14]<br />
 <a href="https://zh.wikipedia.org/wiki/STEM出創意" title="wikilink">STEM出創意</a>（S）</p></td>
 <td></td>
 <td><p><br />
@@ -176,7 +179,7 @@ STEM出創意顏色：</p></td>
 <td><p>Sharlene</p></td>
 <td><p>2019年3月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Patrick_Sir爆趣英語逐個捉" title="wikilink">Patrick Sir爆趣英語逐個捉</a><br />
-<a href="https://zh.wikipedia.org/wiki/搶住嚟答通識比賽" title="wikilink">搶住嚟答通識比賽</a>[12]<br />
+<a href="https://zh.wikipedia.org/wiki/搶住嚟答通識比賽" title="wikilink">搶住嚟答通識比賽</a>[15]<br />
 <a href="https://zh.wikipedia.org/wiki/STEM出創意" title="wikilink">STEM出創意</a>（M）</p></td>
 <td></td>
 <td><p><br />
@@ -223,7 +226,7 @@ STEM出創意顏色：</p></td>
 <thead>
 <tr class="header">
 <th><p>姓名</p></th>
-<th><p>暱稱[13]</p></th>
+<th><p>暱稱[16]</p></th>
 <th><p>首次亮相日期</p></th>
 <th><p>最後亮相日期</p></th>
 <th><p>負責環節</p></th>
@@ -242,7 +245,7 @@ STEM出創意顏色：</p></td>
 <a href="https://zh.wikipedia.org/wiki/齊齊起動" title="wikilink">齊齊起動</a>（運動基本功教學）<br />
 <a href="https://zh.wikipedia.org/wiki/Ben_Sir_醒醒你" title="wikilink">Ben Sir 醒醒你</a><br />
 <a href="https://zh.wikipedia.org/wiki/小齊魔幻學堂" title="wikilink">小齊魔幻學堂</a><br />
-<a href="https://zh.wikipedia.org/wiki/Think_Big冒險之旅" title="wikilink">Think Big冒險之旅</a>（堡主）[14]<br />
+<a href="https://zh.wikipedia.org/wiki/Think_Big冒險之旅" title="wikilink">Think Big冒險之旅</a>（堡主）[17]<br />
 <a href="https://zh.wikipedia.org/wiki/STEM出創意" title="wikilink">STEM出創意</a>（T）<br />
 偵探<br />
 遊戲</p></td>
@@ -270,7 +273,7 @@ STEM出創意顏色：</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/趣味普通話" title="wikilink">趣味普通話</a><br />
 <a href="https://zh.wikipedia.org/wiki/齊齊起動" title="wikilink">齊齊起動</a>（跳舞）（體適能）<br />
 <a href="https://zh.wikipedia.org/wiki/今日搞邊科" title="wikilink">今日搞邊科</a><br />
-<a href="https://zh.wikipedia.org/wiki/魔幻仙境" title="wikilink">魔幻仙境</a>（仙子）[15]<br />
+<a href="https://zh.wikipedia.org/wiki/魔幻仙境" title="wikilink">魔幻仙境</a>（仙子）[18]<br />
 <a href="https://zh.wikipedia.org/wiki/STEM出創意" title="wikilink">STEM出創意</a>（M）<br />
 <a href="https://zh.wikipedia.org/wiki/我都畫得到" title="wikilink">我都畫得到</a><br />
 偵探<br />
@@ -283,7 +286,7 @@ STEM出創意顏色：</p></td>
 <tr class="even">
 <td><p><a href="../Page/黃碧蓮.md" title="wikilink">黃碧蓮</a><br />
 （Linna）<br />
-（第一代）[16]</p></td>
+（第一代）[19]</p></td>
 <td><p>Linna</p></td>
 <td><p>2018年3月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/三年N班實驗室" title="wikilink">三年N班實驗室</a>（Noisy）<br />
@@ -337,7 +340,7 @@ STEM出創意顏色：</p></td>
 <td><p>2018年6月1日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/三年N班實驗室" title="wikilink">三年N班實驗室</a>（Naive）<br />
 <a href="https://zh.wikipedia.org/wiki/STEM出創意" title="wikilink">STEM出創意</a>（E）<br />
-<a href="https://zh.wikipedia.org/wiki/我都畫得到" title="wikilink">我都畫得到</a>[17]<br />
+<a href="https://zh.wikipedia.org/wiki/我都畫得到" title="wikilink">我都畫得到</a>[20]<br />
 <a href="https://zh.wikipedia.org/wiki/Patrick_Sir爆趣英語逐個捉" title="wikilink">Patrick Sir爆趣英語逐個捉</a><br />
 <a href="../Page/Big_Big小明星.md" title="wikilink">Big Big小明星</a></p></td>
 <td><p><br />
@@ -351,8 +354,8 @@ STEM出創意顏色：</p></td>
 <td><p>2019年7月1日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/三年N班實驗室" title="wikilink">三年N班實驗室</a>（Naughty）<br />
 <a href="https://zh.wikipedia.org/wiki/STEM出創意" title="wikilink">STEM出創意</a>（S）<br />
-<a href="https://zh.wikipedia.org/wiki/搶住嚟答通識比賽" title="wikilink">搶住嚟答通識比賽</a>[18]<br />
-<a href="https://zh.wikipedia.org/wiki/Think_Big冒險之旅" title="wikilink">Think Big冒險之旅</a>（自戀王子）[19]<br />
+<a href="https://zh.wikipedia.org/wiki/搶住嚟答通識比賽" title="wikilink">搶住嚟答通識比賽</a>[21]<br />
+<a href="https://zh.wikipedia.org/wiki/Think_Big冒險之旅" title="wikilink">Think Big冒險之旅</a>（自戀王子）[22]<br />
 <a href="../Page/Big_Big小明星.md" title="wikilink">Big Big小明星</a></p></td>
 <td><p><br />
 STEM出創意顏色：</p></td>
@@ -374,9 +377,9 @@ STEM出創意顏色：</p></td>
 <td><p>Karlie</p></td>
 <td><p>2017年6月2日</p></td>
 <td><p>2019年3月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/精靈庭園" title="wikilink">精靈庭園</a>（精靈小花）[20]<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/精靈庭園" title="wikilink">精靈庭園</a>（精靈小花）[23]<br />
 <a href="https://zh.wikipedia.org/wiki/STEM出創意" title="wikilink">STEM出創意</a>（M）<br />
-<a href="https://zh.wikipedia.org/wiki/Patrick_Sir爆趣英語逐個捉" title="wikilink">Patrick Sir爆趣英語逐個捉</a>[21]<br />
+<a href="https://zh.wikipedia.org/wiki/Patrick_Sir爆趣英語逐個捉" title="wikilink">Patrick Sir爆趣英語逐個捉</a>[24]<br />
 <a href="https://zh.wikipedia.org/wiki/粵語猜猜猜" title="wikilink">粵語猜猜猜</a><br />
 <a href="https://zh.wikipedia.org/wiki/齊齊Art_Like" title="wikilink">齊齊Art Like</a>（Rainy）<br />
 <a href="../Page/Big_Big小明星.md" title="wikilink">Big Big小明星</a></p></td>
@@ -406,7 +409,7 @@ STEM出創意顏色：</p></td>
 <thead>
 <tr class="header">
 <th><p>姓名</p></th>
-<th><p>暱稱[22]</p></th>
+<th><p>暱稱[25]</p></th>
 <th><p>負責環節</p></th>
 <th><p>首次亮相日期</p></th>
 </tr>
@@ -565,50 +568,45 @@ Think Big 腦力戰</p></td>
 
 ### 現有主題
 
-  - 星期一：「搶住嚟答通識比賽」／「Think Big腦力戰」、「英語無難道」／「Patrick Sir爆趣英語逐個捉」／「粵語猜猜猜」、「三年N班實驗室」／「STEM出創意」
+  - 星期一：「搶住嚟答通識比賽」／「Think Big腦力戰」、「英語無難道」／「Patrick Sir爆趣英語逐個捉」、「STEM出創意」
       - 走入小學校園讓Think Big主持與小學生，進行一場鬥智慧鬥IQ鬥博學的搶答遊戲。
           - 於2017年4月19日亮相。
-          - 原為星期三播放，因新環節「Think Big之森探險團」啟播而調往星期一播放。
+          - 原為星期三播放，因新環節「Think Big之森探險團」啟播而調往星期一隔周播放。
       - 腦力戰會問一些IQ題，由嘉賓及1位主持/2位嘉賓問問題，其餘3位主持回答，最後由嘉賓選出「Think Big豬王」。
           - 於2015年12月22日亮相。
-          - 原為星期五播放，因新環節「Little Miss Hong Kong」啟播而調往星期一播放。
-      - Linus(原是Nic)與導師Debbie Law演出處境短劇以介紹各個圍繞主題/單字的英語字詞/用法。
+          - 原為星期五播放，因新環節「Little Miss Hong Kong」啟播而調往星期一隔周播放。
+      - Linus（原是Nic）與導師Debbie Law演出處境短劇以介紹各個圍繞主題/單字的英語字詞/用法。
           - 於2015年12月21日亮相。2019年6月10日因新環節「Think Big仔考考你　快問快答」而暫停播映。
-      - Patrick Sir（[林溥來](../Page/林溥來.md "wikilink")）教中文俗語的多種說法，糾正記者伍樂怡、邱晴、何依婷(原是茶餐廳夥計林希靈、記者鍾晴、單文柔)的港式英語。
+      - Patrick Sir（[林溥來](../Page/林溥來.md "wikilink")）閱讀中文俗語的多種說法，已經糾正記者王虹茵、伍樂怡、邱晴、何依婷（原是茶餐廳夥計林希靈、記者鍾晴、單文柔）的港式英語。
           - 於2015年12月25日亮相。
           - 原為星期五播放，因新環節「訪問校園」啟播而調往星期一隔周播放。
-      - 由一眾主持扮鬼扮馬演出一段小劇場，讓小朋友猜猜背後所提及的成語。香港中文大學自學中心高級講師巢立仁博士協助糾正主持的錯字，並詳細解釋成語的意義及提出例句，讓大家更易學入腦。
-          - 於2018年7月13日亮相。（已於同年9月3日結束）
-          - 原為星期五播放，因新環節「Little Miss Hong Kong」啟播而調往星期一隔周播放。
-      - 由Fred、Linus、Kelly、Sharlene(原是雯希、Dickson、Nic、Jasmin、Phoebe、Freeyon、Karlie)化身為S、T、E和M發掘身邊事物的特別東西，並由STEM Sir解答STEM的原埋。
-          - 於2016年9月7日首次亮相。（係隔周播放，並冇完結）
+      - 由Fred、Linus、Kelly、Sharlene（原是雯希、Dickson、Nic、Jasmin、Phoebe、Freeyon、Karlie）已經化身成為S、T、E和M發掘身邊事物的特別東西，並由STEM Sir解答STEM的原理。
+          - 於2016年9月7日首次亮相。（係隔周播放，並未完結）
           - 原為星期三播放，因新環節「Think Big之森探險團」啟播而調往星期一隔周播放。
 
 <!-- end list -->
 
   - 星期二 ：「精靈庭園」
-      - 仙子離開了奇幻大宅，但騎士們仍可到精靈庭園收集快樂能源。庭園主人精靈小花、晴天精靈與仙子一樣，會預備兩個考驗及一個魔幻任務，讓騎士收集快樂能源，完成後，如果有500點以下的快樂能源，成為勇氣快樂騎士；有500點－700點的快樂能源，成為智慧快樂騎士；有700點以上的快樂能源，成為超級快樂騎士；並會得到由精靈小花送的寶物。
+      - 仙子、精靈小花離開了奇幻大宅，但騎士們仍可到精靈庭園收集快樂能源。庭園主人晴天精靈與仙子一樣，會預備兩個考驗及一個魔幻任務，讓騎士收集快樂能源，完成後，如果有500點以下的快樂能源，成為勇氣快樂騎士；有500點－700點的快樂能源，成為智慧快樂騎士；有700點以上的快樂能源，成為超級快樂騎士；並會得到由精靈小花送的寶物。
           - 於2017年7月4日亮相。
 
 <!-- end list -->
 
   - 星期三：「Think Big之森探險團」
-      - 據說Think Big舞台有種神秘力量，可通往一個奇妙森林，可是人類對環境不斷破壞，令森林面臨威脅。四位探險家分成烈風隊及雷電隊，要通過酋長的一連串鬥智鬥力的考驗，賺取彩色羽毛及斧頭，為最終「拯救頭鱷鱷」的任務爭取優勢。
+      - 據說Think Big舞台有種神秘力量，可通往一個奇妙森林，可是人類對環境不斷破壞，令森林面臨威脅。四位探險家和領隊Kelly、Mandy、Regina、Sharlene（原是Linna、Phoebe、Karlie）可分別成為烈風隊及雷電隊，要通過酋長的一連串鬥智鬥力的考驗，賺取彩色羽毛及斧頭，為最終「拯救頭鱷鱷」的任務爭取優勢。
           - 於2017年11月8日亮相。
 
 <!-- end list -->
 
   - 星期四：「Think Big冒險之旅」
-      - 堡主、自戀王子離開了古堡，Think Big冒險之旅，帶你走進危機四伏、難關重重、由爵士擁有的古堡，讓各位冒險家展現過人的勇氣和毅力，完成緊張刺激的大冒險，憑首兩回合的神奇魔法寶石為終極任務增加勝算機會，爭奪象徵「最強冒險家」的權杖！
+      - 堡主、自戀王子離開了古堡，帶你走進危機四伏、難關重重、由爵士擁有的古堡，讓各位冒險家展現過人的勇氣和毅力，完成緊張刺激的大冒險，憑首兩回合的神奇魔法寶石為終極任務增加勝算機會，爭奪象徵「最強冒險家」的權杖！
           - 於2015年12月23日亮相。
           - 原為星期三播放，因新環節「魔幻仙境」啟播而調往星期四播放。
 
 <!-- end list -->
 
-  - 星期五：「Little Miss Hong Kong」／「我都畫得到」
-      - 2017年香港小姐亞軍 及「Think Big天地」主持之一的何依婷(Regina)將擔任小師姐，邀請城中各界的精英，透過禮儀、問答、談吐技巧等等訓練及考驗，從中，選出一位具備了香港小姐潛質，擁有多種不同「美」及 智慧並重嘅「Little Miss Hong Kong」，榮登寶座，並接受加冕。
-          - 於2018年8月10日亮相。（已於同年10月12日結束，已改回「think big 腦力戰」「Patrick Sir爆趣英語逐個捉」「我都畫得到」）
-      - 創意畫家Eric Sir在Mandy(原是Jasmin、Phoebe)面前示範用一個概念畫畫，畫作其後物理上移動便可變成另一物。Mandy(原是Jasmin、Phoebe)亦會於錄影廠指引現場同學仔一同畫畫。
+  - 星期五：「我都畫得到」
+      - 創意畫家Eric Sir在Mandy（原是Jasmin、Phoebe）面前示範用一個概念畫畫，畫作其後物理上移動便可變成另一物。Mandy（原是Jasmin、Phoebe）亦會於錄影廠指引現場同學仔一同畫畫。
           - 於2015年12月24日亮相。
           - 原為星期四播放，因新環節「魔幻仙境」啟播而調往星期五播放，因新環節「Little Miss Hong Kong」啟播而調往星期一隔周播放。
 
@@ -654,13 +652,19 @@ Think Big 腦力戰</p></td>
       - 2017年2月20日首次亮相，同年10月30日最後播放，共播出35集。2017年8月14日曾因播放一連兩集「Think Big玩創科學園」而停播該環節。
   - 「齊齊Art Like」（星期三）
       - 對藝術充滿熱情，腦裏滿載創意的Messy／Rainy，相信只要發揮Think Big小宇宙，Agnes任何生活材料都能變成意想不到的藝術品。
-          - 於2016年11月16日首次亮相，2017年11月6日（星期一）最後播放。
+          - 2016年11月16日首次亮相，2017年11月6日（星期一）最後播放。
   - 「訪問校園」（星期五）
       - 由不同學校的學生分享最喜愛的學校地方及活動
-          - 於2018年4月20日亮相，同年7月6日最後播放。
+          - 2018年4月20日正式亮相，同年7月6日最後播放。
+  - 「粵語猜猜猜」（星期五）
+      - 由一眾主持扮鬼扮馬演出一段小劇場，讓小朋友猜猜背後所提及的成語。香港中文大學自學中心高級講師巢立仁博士協助糾正主持的錯字，並詳細解釋成語的意義及提出例句，讓大家更易學入腦。今集劇場與工作非常忙碌的「阿姐」有關，有甚麼成語適合形容此狀況呢？
+          - 2018年7月13日正式亮相，同年9月3日（星期一）最後播放。
+  - 「Little Miss Hong Kong」（星期五）
+      - 2017年香港小姐亞軍及「Think Big天地」主持之一的何依婷（Regina）將擔任小師姐，邀請城中各界的精英，透過禮儀、問答、談吐技巧等等訓練及考驗，從中，選出一位具備了香港小姐潛質，擁有多種不同「美」及 智慧並重嘅「Little Miss Hong Kong」，榮登寶座，並接受加冕。
+          - 2018年8月10日正式亮相，同年10月12日最後播放。
   - 「三年N班實驗室」（星期一）
-      - 三年N班實驗室的Naughty非常頑皮，經常欺負 Noisy、Naive、Nosy、Nervous、Negative . 但最後會得到博士懲罰。
-          - 於2017年5月15日亮相，2019年7月1日最後播放。
+      - 三年N班實驗室的Naughty非常頑皮，經常欺負 Noisy、Naive、Nosy、Nervous、Negative，但最後會得到博士懲罰。
+          - 2017年5月15日正式亮相，2019年7月1日最後播放。
 
 #### 改版前環節
 
@@ -784,7 +788,7 @@ Think Big 腦力戰</p></td>
 
 ## 觀眾互動
 
-製作單位於[TVB周刊](../Page/TVB周刊.md "wikilink")第913期開始，招攬12歲或以下的小朋友加入實行會員制的組織「Think Big Family」，參與跟本節目相關的活動\[23\]，隨後亦在tvb.com開通有關報名專頁。招募於2016年12月31日截止，並新增家長會員的招攬。
+製作單位於[TVB周刊](../Page/TVB周刊.md "wikilink")第913期開始，招攬12歲或以下的小朋友加入實行會員制的組織「Think Big Family」，參與跟本節目相關的活動\[26\]，隨後亦在tvb.com開通有關報名專頁。招募於2016年12月31日截止，並新增家長會員的招攬。
 
 ## 節目調動
 
@@ -793,7 +797,10 @@ Think Big 腦力戰</p></td>
   - 2月19日：由於15:10至17:20直播《[AET羊年賀歲盃國際足球邀請賽](../Page/2015年賀歲盃足球賽.md "wikilink")–南華 對 紐約宇宙》，當日提早至14:40-15:10播出。
   - 4月22日：由於約15:30-16:45插播《政改記者會》以直播政改三人組記者會，當日改為16:55-17:20播出。
   - 6月18日：由於約16:15-16:30插播《特別新聞報道》以直播行政長官見記者，前一節目《[幪面戰士](../Page/幪面戰士.md "wikilink")》順延播出，當日順延至17:00-17:25播出。
-  - 9月5日：由於09:45-13:00直播《立法會選舉快訊》，當日下午播映節目均順延或暫停播映，當日順延至17:00-17:30播出。
+
+### 2016年
+
+  - 9月5日：由於09:45-13:00直播《立法會選舉快訊》，下午時段節目順延或暫停播映，當日順延至17:00-17:30播出。
 
 ### 2017年
 
@@ -813,56 +820,44 @@ Think Big 腦力戰</p></td>
   - 9月2日：由於16:05-16:50插播《警方記者會》以直播警方見記者，前一節目《[忍者亂太郎](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")》第二節後半部份順延播出，當日順延至17:00-17:25播出。
   - 9月9日：由於16:05-16:50插播《警方記者會》以直播警方見記者，前一節目《忍者亂太郎》第二節後半部份順延播出，當日順延至17:00-17:25播出。
   - 9月16日：由於16:05-16:50插播《警方記者會》以直播警方見記者，前一節目《忍者亂太郎》第二節後半部份順延播出，當日順延至17:00-17:25播出。
-  - 9月20日：由於16:05-16:45插播《[警方記者會](https://zh.wikipedia.org/wiki/警方記者會 "wikilink")》以直播警方見記者，前一節目《忍者亂太郎》第二節後半部份順延播出，當日順延至16:55-17:20播出。
+  - 9月20日：由於16:05-16:45插播《警方記者會》以直播警方見記者，前一節目《忍者亂太郎》第二節後半部份順延播出，當日順延至16:55-17:20播出。
+  - 10月2日：由於16:05-17:10插播《警方記者會》以直播警方見記者，前一節目《忍者亂太郎》第二節後半部份順延播出，當日順延至17:20-17:45播出。
+  - 10月8日：由於16:07-16:59插播《警方記者會》以直播警方見記者，前一節目《[網球Ace](../Page/Baby_Steps_~網球優等生~.md "wikilink")》第二節後半部份順延播出，當日順延至17:20-17:45播出。
+  - 11月1日：由於16:00-16:47插播《警方記者會》以直播警方見記者，前一節目《網球Ace》第二節後半部份順延播出，當日順延至17:00-17:25播出。
+  - 11月18日：由於16:00-16:50插播《警方記者會》以直播警方見記者，前一節目《[櫻桃小丸子](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")》第二節後半部份順延播出，當日順延至17:00-17:25播出。
 
 ## 註釋
 
 ## 外部連結
 
   - [《Think Big天地》- 主頁 - tvb.com](http://programme.tvb.com/kids/kidsthinkbig20172/)
-  - [《THINK BIG FAMILY》報名專頁](http://event.tvb.com/thinkbig/)
+  - [《Think Big x Big Big KIDS》報名專頁](http://event.tvb.com/thinkbig/)
 
 [Category:香港兒童節目](https://zh.wikipedia.org/wiki/Category:香港兒童節目 "wikilink") [Category:無綫電視兒童節目](https://zh.wikipedia.org/wiki/Category:無綫電視兒童節目 "wikilink") [Category:2010年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年代無綫電視節目 "wikilink") [Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink") [Category:2016年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2016年無綫電視節目 "wikilink") [Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink") [Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink") [Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink")
 
 1.  \[<https://www.youtube.com/watch?v=yZPTL4BabrM>　Think Big宣傳片\]
-
 2.  [余德丞、林希靈、黃愷怡、李雯希及阮浩棕正式卸任《Think Big天地》節目主持人身份](https://www.facebook.com/permalink.php?story_fbid=1074486509362838&id=645789165565910&substory_index=0)
-
 3.
-4.  2017年6月26日起
-
-5.  為此環節之常任主持（酋長），其餘7位主持則任意選出2位以主持當天的森探險團
-
-6.  為此環節之常任主持（晴天精靈），其餘7位主持則任意選出3-4位以主持當天的精靈庭園
-
-7.  2018年5月25日起
-
-8.  為此環節之常任主持，其餘7位主持則任意選出2位或找一些舊主持來主持當天的[搶住嚟答通識比賽](https://zh.wikipedia.org/wiki/搶住嚟答通識比賽 "wikilink")
-
-9.  2018年4月30日起
-
-10. 為此環節之常任主持（爵士），其餘7位主持則任意選出3-4位以主持當天的[Think Big冒險之旅](https://zh.wikipedia.org/wiki/Think_Big冒險之旅 "wikilink")
-
-11. 為此環節之常任主持，其餘7位主持則任意選出2位或找一些舊主持來主持當天的[搶住嚟答通識比賽](https://zh.wikipedia.org/wiki/搶住嚟答通識比賽 "wikilink")
-
-12. 為此環節之常任主持，其餘7位主持則任意選出2位或找一些舊主持來主持當天的[搶住嚟答通識比賽](https://zh.wikipedia.org/wiki/搶住嚟答通識比賽 "wikilink")
-
-13.
-14. 為此環節之常任主持（堡主），其餘5位主持則任意選出4位以主持當天的Think Big冒險之旅
-
-15. 為此環節之常任主持（仙子），其餘5位主持則任意選出4位以主持當天的[魔幻仙境](https://zh.wikipedia.org/wiki/魔幻仙境 "wikilink")
-
-16. [港姐出身黃碧蓮當主持3年　告別TVB兒童節目喊住講拜拜](https://www.hk01.com/%E5%A8%9B%E6%A8%82/167614/%E6%B8%AF%E5%A7%90%E5%87%BA%E8%BA%AB%E9%BB%83%E7%A2%A7%E8%93%AE%E7%95%B6%E4%B8%BB%E6%8C%813%E5%B9%B4-%E5%91%8A%E5%88%A5TVB%E5%85%92%E7%AB%A5%E7%AF%80%E7%9B%AE%E5%96%8A%E4%BD%8F%E8%AC%9B%E6%8B%9C%E6%8B%9C)
-
-17. 2017年5月26日起
-
-18. 為此環節之常任主持，其餘7位主持則任意選出2位或找一些舊主持來主持當天的[搶住嚟答通識比賽](https://zh.wikipedia.org/wiki/搶住嚟答通識比賽 "wikilink")
-
-19. 為此環節之常任主持（自戀王子），其餘7位主持則任意選出3-4位以主持當天的[Think Big冒險之旅](https://zh.wikipedia.org/wiki/Think_Big冒險之旅 "wikilink")
-
-20. 為此環節之常任主持（精靈小花），其餘7位主持則任意選出3-4位以主持當天的精靈庭園
-
-21. 2017年7月7日至2019年3月15日
-
-22.
-23.
+4.  為此環節之常任主持，其餘7位主持則任意選出2位或找一些舊主持來主持當天的搶住嚟答通識比賽
+5.  2017年6月26日起
+6.  為此環節之常任主持（酋長），其餘7位主持則任意選出2位以主持當天的森探險團
+7.  為此環節之常任主持（晴天精靈），其餘7位主持則任意選出3-4位以主持當天的精靈庭園
+8.  2018年5月25日起
+9.  為此環節之常任主持，其餘7位主持則任意選出2位或找一些舊主持來主持當天的搶住嚟答通識比賽
+10. 2018年4月30日起
+11. 為此環節之常任主持，其餘7位主持則任意選出2位或找一些舊主持來主持當天的搶住嚟答通識比賽
+12. 為此環節之常任主持，其餘7位主持則任意選出2位或找一些舊主持來主持當天的搶住嚟答通識比賽
+13. 為此環節之常任主持（爵士），其餘7位主持則任意選出3-4位以主持當天的Think Big冒險之旅
+14. 為此環節之常任主持，其餘7位主持則任意選出2位或找一些舊主持來主持當天的搶住嚟答通識比賽
+15. 為此環節之常任主持，其餘7位主持則任意選出2位或找一些舊主持來主持當天的搶住嚟答通識比賽
+16.
+17. 為此環節之常任主持（堡主），其餘5位主持則任意選出4位以主持當天的Think Big冒險之旅
+18. 為此環節之常任主持（仙子），其餘5位主持則任意選出4位以主持當天的[魔幻仙境](https://zh.wikipedia.org/wiki/魔幻仙境 "wikilink")
+19. [港姐出身黃碧蓮當主持3年　告別TVB兒童節目喊住講拜拜](https://www.hk01.com/%E5%A8%9B%E6%A8%82/167614/%E6%B8%AF%E5%A7%90%E5%87%BA%E8%BA%AB%E9%BB%83%E7%A2%A7%E8%93%AE%E7%95%B6%E4%B8%BB%E6%8C%813%E5%B9%B4-%E5%91%8A%E5%88%A5TVB%E5%85%92%E7%AB%A5%E7%AF%80%E7%9B%AE%E5%96%8A%E4%BD%8F%E8%AC%9B%E6%8B%9C%E6%8B%9C)
+20. 2017年5月26日起
+21. 為此環節之常任主持，其餘7位主持則任意選出2位或找一些舊主持來主持當天的搶住嚟答通識比賽
+22. 為此環節之常任主持（自戀王子），其餘7位主持則任意選出3-4位以主持當天的Think Big冒險之旅
+23. 為此環節之常任主持（精靈小花），其餘7位主持則任意選出3-4位以主持當天的精靈庭園
+24. 2017年7月7日至2019年3月15日
+25.
+26.

@@ -13,13 +13,9 @@ KIRREL已顯示出與[腎病蛋白](../Page/腎病蛋白.md "wikilink")\[4\]\[5\
 [Category:人类蛋白质](https://zh.wikipedia.org/wiki/Category:人类蛋白质 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.

@@ -25,6 +25,6 @@
 
 [Category:2015年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2015年亞洲電視節目 "wikilink")
 
-1.  [全新打吡節目本周推出](http://news.sina.com.hk/news/20150310/-85-3642770/1.html)，新浪香港，2015-3-10
+1.  [全新打吡節目本周推出](http://news.sina.com.hk/news/20150310/-85-3642770/1.html) ，新浪香港，2015-3-10
 2.
 3.

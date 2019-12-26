@@ -4,7 +4,12 @@
 
 Pharo的方针是要求开发者将源代码置于[MIT许可](https://zh.wikipedia.org/wiki/MIT许可 "wikilink")。
 
-作为[Smalltalk](../Page/Smalltalk.md "wikilink")平台，Pharo具备Smalltak的特点： ＊万物皆为对象 ＊动态类型 ＊面向对象式继承 ＊使用[垃圾收集器自动管理内存](https://zh.wikipedia.org/wiki/垃圾收集器 "wikilink")
+作为[Smalltalk](../Page/Smalltalk.md "wikilink")平台，Pharo具备Smalltak的特点：
+
+  - 万物皆为对象
+  - 动态类型
+  - 面向对象式继承
+  - 使用[垃圾收集器自动管理内存](https://zh.wikipedia.org/wiki/垃圾收集器 "wikilink")
 
 凭借Smalltalk与生具来的特点， Pharo最大的优势之一是在修改代码时不必全程编译。例如，在[调试窗口里编辑一个方法或者创建一个方法后不需要重启进程](https://zh.wikipedia.org/wiki/调试 "wikilink")。这就是所谓的“编辑、继续”，有别于在其他语言里常见的“编辑、编译然后运行”。
 
@@ -108,7 +113,7 @@ Pharo的虚拟机几乎完全用Smalltalk语言打造。自2008年，Pharo的虚
   - [GNU Smalltalk](https://zh.wikipedia.org/wiki/GNU_Smalltalk "wikilink")
   - [Squeak](../Page/Squeak.md "wikilink")
 
-[Category:基于类的程序语言](https://zh.wikipedia.org/wiki/Category:基于类的程序语言 "wikilink") [Category:动态类型程序语言](https://zh.wikipedia.org/wiki/Category:动态类型程序语言 "wikilink") [Category:Smalltalk程序语言](https://zh.wikipedia.org/wiki/Category:Smalltalk程序语言 "wikilink") [Category:使用MIT许可证的软件](https://zh.wikipedia.org/wiki/Category:使用MIT许可证的软件 "wikilink")
+[Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink") [Category:动态类型编程语言](https://zh.wikipedia.org/wiki/Category:动态类型编程语言 "wikilink") [Category:使用MIT许可证的软件](https://zh.wikipedia.org/wiki/Category:使用MIT许可证的软件 "wikilink")
 
 1.
 2.

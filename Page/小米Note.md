@@ -19,7 +19,7 @@
 </tr>
 <tr class="even">
 <td><p>介面</p></td>
-<td><p><a href="../Page/MIUI.md" title="wikilink">MIUI 7</a></p></td>
+<td><p><a href="../Page/MIUI.md" title="wikilink">MIUI 7</a>（已更新至<a href="../Page/MIUI.md" title="wikilink">MIUI 9</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">

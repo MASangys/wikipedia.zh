@@ -19,7 +19,7 @@ SPACIA列車是使用[東武100系電車](https://zh.wikipedia.org/wiki/東武10
 
 ## 外部連結
 
-  - [東武鐵道 關於SPACIA](http://www.tobu.co.jp/foreign/chinesemulti/spacia/index.html)
+  - [東武鐵道 關於SPACIA](https://web.archive.org/web/20150215205145/http://www.tobu.co.jp/foreign/chinesemulti/spacia/index.html)
 
   - [東武鉄道 特急列車・TJライナーのご案内](http://railway.tobu.co.jp/special_express/)
 

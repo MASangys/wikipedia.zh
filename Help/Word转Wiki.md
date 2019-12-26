@@ -12,7 +12,7 @@
 
 1.  从微软下载中心（Microsoft Download Center）下载“[Microsoft Office Word Add-in For MediaWiki](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=8e519637-afb0-4134-a91f-7b0ebea8d933)”并安装于本地电脑。
 2.  启动Office Word打开或新建一个word文档并将其另存为“MediaWiki (\*.txt)”文件格式。
-3.  将(\*.txt) 文件中的代码拷贝至wiki页面。。。。
+3.  将(\*.txt) 文件中的代码拷贝至wiki页面。
 
 #### 可能出现的问题
 

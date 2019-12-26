@@ -1,6 +1,6 @@
 ，是由[東映動畫企劃及制作的](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")[数码宝贝系列OVA動畫](https://zh.wikipedia.org/wiki/数码宝贝系列 "wikilink")，於2015年11月到2018年5月5日分為6章在剧场上映及网络播映。其中的“[tri.](https://zh.wikipedia.org/wiki/tri. "wikilink")”有「[3](../Page/3.md "wikilink")」的意思，表示本作為電視動畫第一作《[數碼寶貝大冒險](../Page/數碼寶貝大冒險.md "wikilink")》及第二作《[數碼寶貝大冒險02](../Page/數碼寶貝大冒險02.md "wikilink")》的續篇第三作，同時亦為數碼寶貝大冒險15周年紀念計劃最重要的一部分。\[1\]
 
-中国大陆[爱奇艺](../Page/爱奇艺.md "wikilink")和香港[Viu](../Page/Viu.md "wikilink")同步日本网络播映全6章。
+中国大陆[爱奇艺](../Page/爱奇艺.md "wikilink")和[银河奇异果以及香港](https://zh.wikipedia.org/wiki/银河奇异果 "wikilink")[Viu](../Page/Viu.md "wikilink")同步日本网络播映全6章。
 
 曾經為本系列主唱眾多樂曲的歌手[和田光司](../Page/和田光司.md "wikilink")先生，在本作第三章OVA製作期間，其官方事務所「SOLID VOX」於2016年4月8日發出聲明，指和田光司因[鼻咽癌](../Page/鼻咽癌.md "wikilink")已於4月3日逝世，享年42歲，葬礼为近亲参加的密葬。由於正值本作上映風潮期間，消息瞬間廣泛-{zh-cn:报道;zh-tw:報導;}-到世界各地，4月26日在惠比寿LIQUIDROOM举行了“和田光司 告别会”，官方[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")、本作[聲優](../Page/聲優.md "wikilink")、音樂業界以及眾多和田光司的生前好友都致以哀悼，當中包括參與「Butter-Fly」的製作人千綿偉功及渡部チェル、太田美知彦、[AiM](https://zh.wikipedia.org/wiki/AiM "wikilink")、宮崎步、[谷本貴義](../Page/谷本貴義.md "wikilink")等等。不少觀眾得悉後表現悲傷，但同時亦讚賞其奮鬥癌症13年的堅強意志力與生命力令人欽佩不已，以及感謝和田光司所帶來的童年回憶，將永遠緬懷他的音樂。而在《[數碼寶貝大冒險](../Page/數碼寶貝大冒險.md "wikilink")》和《[數碼寶貝大冒險02](../Page/數碼寶貝大冒險02.md "wikilink")》中配過[武之內空的聲優](https://zh.wikipedia.org/wiki/武之內空 "wikilink")[水谷優子](../Page/水谷優子.md "wikilink")女士和[八神太一的聲優](https://zh.wikipedia.org/wiki/八神太一 "wikilink")[藤田淑子](../Page/藤田淑子.md "wikilink")女士，先後皆因[乳腺癌而逝世](https://zh.wikipedia.org/wiki/乳腺癌 "wikilink")。
 
@@ -422,9 +422,12 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>劇場限定BD</p></td>
-<td><p>一般贩卖BD/DVD</p></td>
-<td></td>
+<td><p>劇場限定<br />
+BD</p></td>
+<td><p>一般贩卖<br />
+BD/DVD</p></td>
+<td><p>BD/DVD<br />
+BOX</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -459,11 +462,12 @@
 11月21日</p></td>
 <td><p>2015年<br />
 12月18日</p></td>
+<td><p>2020年<br />
+2月4日</p></td>
 <td><p>2016年<br />
 7月31日<br />
 周日[15]<br />
 21:20-23:00</p></td>
-<td><p><a href="../Page/Animax.md" title="wikilink">Animax</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>#02</p></td>

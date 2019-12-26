@@ -192,124 +192,70 @@
 [Category:1969年音樂專輯](https://zh.wikipedia.org/wiki/Category:1969年音樂專輯 "wikilink") [Category:处女作专辑](https://zh.wikipedia.org/wiki/Category:处女作专辑 "wikilink")
 
 1.  [Grammy Hall of Fame Award](http://www.grammy.org/recording-academy/awards/hall-of-fame#l) *Grammy.org* Retrieved 30 October 2012
-
 2.
-
 3.
-
 4.
-
 5.  *Led Zeppelin Profiled* radio promo CD, 1990
-
 6.  Welch, Chris (1994) *Led Zeppelin*, London: Orion Books. ISBN 1-85797-930-3, pp. 28, 37.
-
 7.  Dave Schulps, [Interview with Jimmy Page](http://www.iem.ac.ru/zeppelin/docs/interviews/page_77.trp), *Trouser Press*, October 1977.
-
 8.  Lewis, Dave and Pallett, Simon (1997) *Led Zeppelin: The Concert File*, London: Omnibus Press. ISBN 0-7119-5307-4, p. 13.
-
 9.  Dave Lewis (1994), *The Complete Guide to the Music of Led Zeppelin*, Omnibus Press, Omnibus Press, ISBN 0-7119-3528-9
-
 10. [Interview with Jimmy Page](http://www.iem.ac.ru/zeppelin/docs/interviews/page_93.gw), *Guitar World* magazine, 1993
-
 11.
 12. Mick Wall (2008), *When Giants Walked the Earth: A Biography Of Led Zeppelin*, London: Orion, p. 52.
-
 13.
 14. Steven Rosen, [1977 Jimmy Page Interview](http://www.modernguitars.com/archives/003340.html), *Modern Guitars*, 25 May 2007 (originally published in the July 1977, issue of *Guitar Player* magazine).
-
 15.
 16.
 17. “I first met Jimmy on Tolworth Broadway, holding a bag of exotic fish...”, *Uncut magazine*, January 2009, p. 42.
-
 18.
 19.
 20.
 21.
 22.
-
 23.
 24.
-
 25. Austin Scaggs, [Q\&A: Robert Plant](http://www.rollingstone.com/artists/robertplant/articles/story/7287549/qa_robert_plant), *[Rolling Stone](https://zh.wikipedia.org/wiki/Rolling_Stone "wikilink")*, 5 May 2005.
-
 26.
 27. *[Rolling Stone](https://zh.wikipedia.org/wiki/Rolling_Stone_\(magazine\) "wikilink")*, 15 March 1969.
-
 28. Mat Snow, “Apocalypse Then”, *[Q](https://zh.wikipedia.org/wiki/Q_\(magazine\) "wikilink")* magazine, December 1990, pp. 74–82.
-
 29.
-
 30.
 31. Liner notes by [Cameron Crowe](https://zh.wikipedia.org/wiki/Cameron_Crowe "wikilink") for *The Complete Studio Recordings*
-
 32.
 33.
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.

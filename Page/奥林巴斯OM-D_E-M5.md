@@ -47,18 +47,11 @@
 [Category:奥林巴斯无反可交换镜头数码相机](https://zh.wikipedia.org/wiki/Category:奥林巴斯无反可交换镜头数码相机 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.  [Olympus EM-5 In Depth Review - Conclusion](http://www.dpreview.com/reviews/olympusem5/22)
-
 6.
-
 7.
-
 8.
-
 9.

@@ -192,7 +192,7 @@ Mini-14和Mini-30具有範圍廣泛的售後市場配件可供使用，包括大
 
   - —《輕兵器》雜誌—
 
-      - 2007年12月上號：[经典与创新――美国鲁格Mini-14 5.56mm步枪](http://www.xzbu.com/8/view-1052080.htm)
+      - 2007年12月上號：[经典与创新――美国鲁格Mini-14 5.56mm步枪](https://web.archive.org/web/20150723223201/http://www.xzbu.com/8/view-1052080.htm)
       - 2011年8月上號：[美国鲁格Mini14步枪现代版](http://mall.cnki.net/magazine/Article/QBQI201115009.htm)
 
 ## 外部連結
@@ -239,8 +239,8 @@ Mini-14和Mini-30具有範圍廣泛的售後市場配件可供使用，包括大
 
   - —American Rifleman.org—
 
-      - [Disassembly Instructions for the Ruger Mini-14](http://www.americanrifleman.org/ArticlePage.aspx?id=1499&cid=8)
-      - [Ruger Reinvents the Mini-14](http://www.americanrifleman.org/ArticlePage.aspx?id=1572)
+      - [Disassembly Instructions for the Ruger Mini-14](https://web.archive.org/web/20150907010251/http://www.americanrifleman.org/ArticlePage.aspx?id=1499&cid=8)
+      - [Ruger Reinvents the Mini-14](https://web.archive.org/web/20151019150801/http://www.americanrifleman.org/ArticlePage.aspx?id=1572)
       - [8 Things You Might Not Know About the Ruger Mini-14](http://www.americanrifleman.org/articles/2014/5/23/8-things-you-might-not-know-about-the-ruger-mini-14/)
       - [Ruger Mini-14 Tactical 300 BLK Rifle Review](http://www.americanrifleman.org/articles/2015/8/5/ruger-mini-14-tactical-300-blk-rifle-review/)
       - [Video: Ruger AC556 Rifle](http://www.americanrifleman.org/articles/2015/10/14/video-ruger-ac556-rifle/)
@@ -257,91 +257,50 @@ Mini-14和Mini-30具有範圍廣泛的售後市場配件可供使用，包括大
 [Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:卡宾枪](https://zh.wikipedia.org/wiki/Category:卡宾枪 "wikilink") [Category:導氣式槍械](https://zh.wikipedia.org/wiki/Category:導氣式槍械 "wikilink") [Category:半自動步槍](https://zh.wikipedia.org/wiki/Category:半自動步槍 "wikilink") [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink") [Category:.222_Remington口徑槍械](https://zh.wikipedia.org/wiki/Category:.222_Remington口徑槍械 "wikilink") [Category:6.8×43毫米雷明登SPC槍械](https://zh.wikipedia.org/wiki/Category:6.8×43毫米雷明登SPC槍械 "wikilink") [Category:.300_AAC_BLK口徑槍械](https://zh.wikipedia.org/wiki/Category:.300_AAC_BLK口徑槍械 "wikilink") [Category:7.62×39毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×39毫米槍械 "wikilink") [Category:美國步槍](https://zh.wikipedia.org/wiki/Category:美國步槍 "wikilink") [Category:M14衍生槍](https://zh.wikipedia.org/wiki/Category:M14衍生槍 "wikilink")
 
 1.  The Mini-14 Exotic Weapons System, Paperback – June 1, 1982 by Joe Ramos (Author), Paladin Press, ISBN 0873645278
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29. Gander, Terry J.; Hogg, Ian V. *Jane's Infantry Weapons 1995/1996*. Jane's Information Group; 21 edition (May 1995). ISBN 978-0-7106-1241-0.
-
 30. Soldier of Fortune magazine, Robert K Brown, 1980
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
 37.
-
 38.
-
 39.
-
 40.
-
 41. <http://www.doc.state.nc.us/NEWS/1998/985news/firearms.htm>
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.

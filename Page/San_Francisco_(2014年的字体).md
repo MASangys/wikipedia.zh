@@ -20,9 +20,6 @@
 2.
 3.
 4.
-
 5.  [Color and Typography](https://developer.apple.com/library/prerelease/ios/documentation/UserExperience/Conceptual/WatchHumanInterfaceGuidelines/ColorandTypography.html#//apple_ref/doc/uid/TP40014992-CH9-SW1), Apple Watch Human Interface Guidelines.
-
 6.
-
 7.

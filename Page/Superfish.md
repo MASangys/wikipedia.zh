@@ -19,28 +19,16 @@ Slate雜誌的一名編輯David Auerbach亦表示「安裝Superfish是一間科�
 [Category:廣告軟件](https://zh.wikipedia.org/wiki/Category:廣告軟件 "wikilink") [Category:惡意軟件](https://zh.wikipedia.org/wiki/Category:惡意軟件 "wikilink") [Category:帕羅奧圖公司](https://zh.wikipedia.org/wiki/Category:帕羅奧圖公司 "wikilink") [Category:聯想集團](https://zh.wikipedia.org/wiki/Category:聯想集團 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.  <https://support.lenovo.com/product_security/superfish> SUPERFISH軟體事件說明 - Lenovo Support
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.

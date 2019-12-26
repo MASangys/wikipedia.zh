@@ -2,34 +2,35 @@
 
 ## 電影
 
-|        |                                                                            |                                                                 |          |          |    |
-| ------ | -------------------------------------------------------------------------- | --------------------------------------------------------------- | -------- | -------- | -- |
-| 年份     | 日期                                                                         | 電影名稱                                                            | 參演成員     | 角色       | 性質 |
-| 2007   | 7月26日                                                                      | [花美男連鎖恐怖事件](https://zh.wikipedia.org/wiki/花美男連鎖恐怖事件 "wikilink") | Suho     | 搖滾樂團明星成員 | 客串 |
-| 2014   | 11月13日                                                                     | [CART](https://zh.wikipedia.org/wiki/CART "wikilink") \[1\]     | D.O.     | 崔泰英      | 配角 |
-| 2015   | 4月9日                                                                       | [長壽商會](../Page/長壽商會.md "wikilink") \[2\]                        | Chanyeol | 民城       |    |
-| 8月13日  | SMTOWN THE STAGE                                                           | 全部成員                                                            | （本人）     | （沒有分類）   |    |
-| 11月6日  | [前任2：備胎反擊戰](https://zh.wikipedia.org/wiki/前任2：備胎反擊戰 "wikilink") \[3\]      | Lay                                                             | 李相赫      | 特別出演     |    |
-| 12月4日  | 從天兒降 \[4\]                                                                 | 樂意                                                              | 主角       |          |    |
-| 2016   | 1月15日                                                                      | [極限挑戰之皇家寶藏](https://zh.wikipedia.org/wiki/极限挑战#電影 "wikilink")   | （本人）     | （沒有分類）   |    |
-| 2月24日  | 純情 \[5\]                                                                   | D.O.                                                            | 朴范实      | 主角       |    |
-| 3月24日  | One Way Trip（Glory Day) \[6\]                                              | Suho                                                            | 尚宇       | 配角       |    |
-| 6月30日  | [所以......和黑粉結婚了](https://zh.wikipedia.org/wiki/所以，和黑粉結婚了 "wikilink") \[7\] | Chanyeol                                                        | 后准       | 主角       |    |
-| 7月6日   | [鳳伊 金先達](../Page/鳳伊_金先達.md "wikilink") \[8\]                               | Xiumin                                                          | 堅兒       | 第二男主角    |    |
-| 10月20日 | 老九門番外之二月花開\[9\]                                                            | Lay                                                             | 二月紅      | 主角       |    |
-| 11月23日 | [哥哥](../Page/哥哥_\(電影\).md "wikilink") \[10\]                               | D.O.                                                            | 高斗英      |          |    |
-| 2017   | 1月28日                                                                      | [功夫瑜伽](https://zh.wikipedia.org/wiki/功夫瑜伽 "wikilink") \[11\]    | Lay      | 小光       | 配角 |
-| 7月28日  | [建軍大業](https://zh.wikipedia.org/wiki/建軍大業 "wikilink")                      | 盧德銘                                                             |          |          |    |
-| 11月15日 | 七號室 \[12\]                                                                 | D.O.                                                            | 泰政       | 主角       |    |
-| 12月14日 | [與神同行](../Page/與神同行.md "wikilink") \[13\]                                  | 元東延                                                             | 配角       |          |    |
-| 2018   | 6月20日                                                                      | 女中學生A                                                           | Suho     | 玄在熙      | 主角 |
-| 8月1日   | [與神同行：最終審判](../Page/與神同行：最終審判.md "wikilink")                               | D.O.                                                            | 元東延      | 配角       |    |
-| 8月10日  | [一齣好戲](https://zh.wikipedia.org/wiki/一齣好戲 "wikilink")                      | Lay                                                             | 小興       |          |    |
-| 9月7日   | 獨孤Rewind\[14\]                                                             | Sehun                                                           | 姜赫       | 主角       |    |
-| 12月19日 | [Swing Kids](../Page/Swing_Kids.md "wikilink") \[15\]                      | D.O.                                                            | 羅奇秀      |          |    |
-| 2019   | 9月12日                                                                      | 一切如你（原名：我在你身邊）\[16\]                                            | Lay      |          |    |
-| 待上映    |                                                                            | 我愛喵星人 \[17\]                                                    | Sehun    | 梁渠       | 主角 |
-| 待上映    |                                                                            | 閉嘴！愛吧 \[18\]                                                    | Lay      | 韓彬       |    |
+|        |                                                                       |                                                                 |          |          |    |
+| ------ | --------------------------------------------------------------------- | --------------------------------------------------------------- | -------- | -------- | -- |
+| 年份     | 日期                                                                    | 電影名稱                                                            | 參演成員     | 角色       | 性質 |
+| 2007   | 7月26日                                                                 | [花美男連鎖恐怖事件](https://zh.wikipedia.org/wiki/花美男連鎖恐怖事件 "wikilink") | Suho     | 搖滾樂團明星成員 | 客串 |
+| 2014   | 11月13日                                                                | [CART](https://zh.wikipedia.org/wiki/CART "wikilink") \[1\]     | D.O.     | 崔泰英      | 配角 |
+| 2015   | 4月9日                                                                  | [長壽商會](../Page/長壽商會.md "wikilink") \[2\]                        | Chanyeol | 民城       |    |
+| 8月13日  | SMTOWN THE STAGE                                                      | 全部成員                                                            | （本人）     | （沒有分類）   |    |
+| 11月6日  | [前任2：備胎反擊戰](https://zh.wikipedia.org/wiki/前任2：備胎反擊戰 "wikilink") \[3\] | Lay                                                             | 李相赫      | 特別出演     |    |
+| 12月4日  | 從天兒降 \[4\]                                                            | 樂意                                                              | 主角       |          |    |
+| 2016   | 1月15日                                                                 | [極限挑戰之皇家寶藏](https://zh.wikipedia.org/wiki/极限挑战#電影 "wikilink")   | （本人）     | （沒有分類）   |    |
+| 2月24日  | 純情 \[5\]                                                              | D.O.                                                            | 朴范实      | 主角       |    |
+| 3月24日  | One Way Trip（Glory Day) \[6\]                                         | Suho                                                            | 尚宇       | 配角       |    |
+| 6月30日  | [所以......和黑粉結婚了](../Page/所以，和黑粉結婚了.md "wikilink") \[7\]               | Chanyeol                                                        | 后准       | 主角       |    |
+| 7月6日   | [鳳伊 金先達](../Page/鳳伊_金先達.md "wikilink") \[8\]                          | Xiumin                                                          | 堅兒       | 第二男主角    |    |
+| 10月20日 | 老九門番外之二月花開\[9\]                                                       | Lay                                                             | 二月紅      | 主角       |    |
+| 11月23日 | [哥哥](../Page/哥哥_\(電影\).md "wikilink") \[10\]                          | D.O.                                                            | 高斗英      |          |    |
+| 2017   | 1月28日                                                                 | [功夫瑜伽](https://zh.wikipedia.org/wiki/功夫瑜伽 "wikilink") \[11\]    | Lay      | 小光       | 配角 |
+| 7月28日  | [建軍大業](https://zh.wikipedia.org/wiki/建軍大業 "wikilink")                 | 盧德銘                                                             |          |          |    |
+| 11月15日 | 七號室 \[12\]                                                            | D.O.                                                            | 泰政       | 主角       |    |
+| 12月14日 | [與神同行](../Page/與神同行.md "wikilink") \[13\]                             | 元東延                                                             | 配角       |          |    |
+| 2018   | 6月20日                                                                 | 女中學生A                                                           | Suho     | 玄在熙      | 主角 |
+| 8月1日   | [與神同行：最終審判](../Page/與神同行：最終審判.md "wikilink")                          | D.O.                                                            | 元東延      | 配角       |    |
+| 8月10日  | [一齣好戲](https://zh.wikipedia.org/wiki/一齣好戲 "wikilink")                 | Lay                                                             | 小興       |          |    |
+| 9月7日   | 獨孤Rewind\[14\]                                                        | Sehun                                                           | 姜赫       | 主角       |    |
+| 12月19日 | [Swing Kids](../Page/Swing_Kids.md "wikilink") \[15\]                 | D.O.                                                            | 羅奇秀      |          |    |
+| 2019   | 9月12日                                                                 | 一切如你（原名：我在你身邊）\[16\]                                            | Lay      |          |    |
+| 10月28日 | 禮物\[17\]                                                              | Suho                                                            |          | 主角       |    |
+| 待上映    |                                                                       | 我愛喵星人 \[18\]                                                    | Sehun    | 梁渠       |    |
+| 待上映    |                                                                       | 閉嘴！愛吧 \[19\]                                                    | Lay      | 韓彬       |    |
 
 ## 電視劇
 
@@ -42,30 +43,30 @@
 | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")                                                   | 《[總理與我](../Page/總理與我.md "wikilink")》                                | Suho                                                      | 韓泰雄                                       | 第10－12集   |               |        |
 | 2014                                                                                                        | [SBS](../Page/SBS_\(韓國\).md "wikilink")                             | 《[沒關係，是愛情啊](../Page/沒關係，是愛情啊.md "wikilink")》              | D.O.                                      | 韓江宇       | 配角            | 第1－16集 |
 | 2015                                                                                                        | [LINE](../Page/LINE.md "wikilink") TV                               | 《[我的鄰居是EXO](../Page/我的鄰居是EXO.md "wikilink")》              | Baekhyun、Chanyeol、D.O.、Sehun（EXO其他成員客串出演） | （本人）      | 主角            | 網劇     |
-| [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")                                                   | 《[記得你](../Page/記得你.md "wikilink")》 \[19\]                           | D.O.                                                      | 李俊英                                       | 客串        | 第1、2、8、10-16集 |        |
-| SAMSUNG GROUP                                                                                               | 《愛上挑戰》 \[20\]                                                       | Xiumin                                                    | 羅挑戰                                       | 主角        | 網劇            |        |
-| 2016                                                                                                        | 《Choco Bank》 \[21\]\[22\]                                           | Kai                                                       | 金銀行                                       |           |               |        |
+| [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")                                                   | 《[記得你](../Page/記得你.md "wikilink")》 \[20\]                           | D.O.                                                      | 李俊英                                       | 客串        | 第1、2、8、10-16集 |        |
+| SAMSUNG GROUP                                                                                               | 《愛上挑戰》 \[21\]                                                       | Xiumin                                                    | 羅挑戰                                       | 主角        | 網劇            |        |
+| 2016                                                                                                        | 《Choco Bank》 \[22\]\[23\]                                           | Kai                                                       | 金銀行                                       |           |               |        |
 | [浙江衛視](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")、[江蘇衛視](https://zh.wikipedia.org/wiki/江蘇衛視 "wikilink") | 《[好先生](../Page/好先生_\(电视剧\).md "wikilink")》                          | Lay                                                       | 小蔡                                        | 配角        | 不定期           |        |
 | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")、[東方衛視](https://zh.wikipedia.org/wiki/東方衛視 "wikilink")   | 《[老九門](../Page/老九门.md "wikilink")》                                  | 二月紅                                                       | 主角                                        | 全劇        |               |        |
-| [SBS](../Page/SBS_\(韓國\).md "wikilink")                                                                     | 《[步步驚心：麗](https://zh.wikipedia.org/wiki/步步驚心：麗 "wikilink")》 \[23\]  | Baekhyun                                                  | 王銀                                        | 配角        | 第1－16集        |        |
-| SAMSUNG GROUP                                                                                               | 《積極的體質》\[24\]                                                       | D.O.                                                      | 金煥東                                       | 主角        | 網絡劇           |        |
-| [NAVER tvcast](../Page/NAVER.md "wikilink")                                                                 | 《[七次的初吻](../Page/七次的初吻.md "wikilink")》\[25\]                        | Kai                                                       | Kai                                       | 主角之一      | 網絡劇/第5集       |        |
-| 2017                                                                                                        | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")         | 《[Missing9](../Page/Missing9.md "wikilink")》\[26\]\[27\]  | Chanyeol                                  | 李烈        | 配角            | 第1－8集  |
-| 《[三色幻想](../Page/三色幻想.md "wikilink")－[宇宙之星](../Page/宇宙之星.md "wikilink")》\[28\]                               | Suho                                                                | 宇宙                                                        | 主角                                        | 全劇        |               |        |
+| [SBS](../Page/SBS_\(韓國\).md "wikilink")                                                                     | 《[步步驚心：麗](https://zh.wikipedia.org/wiki/步步驚心：麗 "wikilink")》 \[24\]  | Baekhyun                                                  | 王銀                                        | 配角        | 第1－16集        |        |
+| SAMSUNG GROUP                                                                                               | 《積極的體質》\[25\]                                                       | D.O.                                                      | 金煥東                                       | 主角        | 網絡劇           |        |
+| [NAVER tvcast](../Page/NAVER.md "wikilink")                                                                 | 《[七次的初吻](../Page/七次的初吻.md "wikilink")》\[26\]                        | Kai                                                       | Kai                                       | 主角之一      | 網絡劇/第5集       |        |
+| 2017                                                                                                        | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")         | 《[Missing9](../Page/Missing9.md "wikilink")》\[27\]\[28\]  | Chanyeol                                  | 李烈        | 配角            | 第1－8集  |
+| 《[三色幻想](../Page/三色幻想.md "wikilink")－[宇宙之星](../Page/宇宙之星.md "wikilink")》\[29\]                               | Suho                                                                | 宇宙                                                        | 主角                                        | 全劇        |               |        |
 | [东方卫视](../Page/东方卫视.md "wikilink")                                                                          | 《[求婚大作戰](https://zh.wikipedia.org/wiki/求婚大作戰_\(中國電視劇\) "wikilink")》 | Lay                                                       | 严小赖                                       |           |               |        |
 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")                                                         | 《[Andante](../Page/Andante_\(韓國電視劇\).md "wikilink")》                | Kai                                                       | 李時京                                       |           |               |        |
 | 2018                                                                                                        | [WOWOW](../Page/WOWOW.md "wikilink")                                | 《春天來了》                                                    | 李知元                                       | 日劇        |               |        |
 | KBS2                                                                                                        | 《[我們遇見的奇蹟](../Page/我們遇見的奇蹟.md "wikilink")》                          | Atto                                                      | 配角                                        |           |               |        |
 | Dramax、MBN                                                                                                  | 《[Rich Man](../Page/Rich_Man.md "wikilink")》                        | Suho                                                      | 李裕燦                                       | 主角        | 全劇            |        |
-| [Naver TV Cast](../Page/NAVER.md "wikilink")                                                                | 《女神締造者》\[29\]                                                       | Chanyeol、Sehun                                            | 燦烈、世勳                                     | 網絡劇/第5、7集 |               |        |
+| [Naver TV Cast](../Page/NAVER.md "wikilink")                                                                | 《女神締造者》\[30\]                                                       | Chanyeol、Sehun                                            | 燦烈、世勳                                     | 網絡劇/第5、7集 |               |        |
 | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")                                                       | 《[沙海](https://zh.wikipedia.org/wiki/沙海_\(網絡劇\) "wikilink")》         | Lay                                                       | 解雨臣                                       | 配角        | 網絡劇           |        |
 | 愛奇藝                                                                                                         | 《好戲一齣》                                                              | 小興                                                        |                                           |           |               |        |
 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")                                                         | 《[百日的郎君](../Page/百日的郎君.md "wikilink")》                              | D.O.                                                      | 李律/元德                                     | 主角        | 全劇            |        |
-| 《[阿爾罕布拉宮的回憶](../Page/阿爾罕布拉宮的回憶_\(電視劇\).md "wikilink")》\[30\]                                                | Chanyeol                                                            | 鄭世周                                                       | 配角                                        |           |               |        |
+| 《[阿爾罕布拉宮的回憶](../Page/阿爾罕布拉宮的回憶_\(電視劇\).md "wikilink")》\[31\]                                                | Chanyeol                                                            | 鄭世周                                                       | 配角                                        |           |               |        |
 | 2019                                                                                                        | Olive                                                               | 《[恩珠的房間](../Page/恩珠的房間.md "wikilink")》                    | D.O.                                      |           | 客串            | 第11集   |
 | 愛奇藝、騰訊視頻                                                                                                    | 《[黄金瞳](../Page/黄金瞳.md "wikilink")》                                  | Lay                                                       | 莊睿                                        | 主角        |               |        |
-| 待播中                                                                                                         | [NAVER TV Cast](../Page/NAVER.md "wikilink")                        | 《HOW ARE U BREAD》\[31\]                                   | Suho                                      | 韓道宇       | 主角            | 網絡劇    |
-| 待播中                                                                                                         | 檸萌影業、樂漾影視                                                           | 《親愛的阿基米德》\[32\]                                           | Sehun                                     | 言溯        |               |        |
+| 待播中                                                                                                         | [NAVER TV Cast](../Page/NAVER.md "wikilink")                        | 《HOW ARE U BREAD》\[32\]                                   | Suho                                      | 韓道宇       | 主角            | 網絡劇    |
+| 待播中                                                                                                         | 檸萌影業、樂漾影視                                                           | 《親愛的阿基米德》\[33\]                                           | Sehun                                     | 言溯        |               |        |
 | 待播中                                                                                                         |                                                                     | 《[大明風華](../Page/大明風華.md "wikilink")》                      | Lay                                       | 朱祁鎮       |               |        |
 
 ## 動畫電影配音
@@ -73,7 +74,7 @@
 |             |                                                    |      |              |       |
 | ----------- | -------------------------------------------------- | ---- | ------------ | ----- |
 | 上映日期        | 電影名稱                                               | 參演成員 | 角色           | 備註    |
-| 2013年12月19日 | 《》 \[33\]                                          | Suho | Bernard      | 韓語配音  |
+| 2013年12月19日 | 《》 \[34\]                                          | Suho | Bernard      | 韓語配音  |
 | 2017年8月25日  | 《[Cars 3：閃電再起](../Page/Cars_3：閃電再起.md "wikilink")》 | Lay  | 暴風傑克森(積迅黑旋風) | 普通話配音 |
 | 2019年1月16日  | 《The Underdog》                                     | D.O. | 文奇           | 韓語配音  |
 
@@ -82,7 +83,7 @@
 |           |             |              |                    |
 | --------- | ----------- | ------------ | ------------------ |
 | 日期        | 電視臺         | 節目名稱         | 參演成員               |
-| 2017年4月3日 | Mountain TV | 《在天空中遇見大韓民國》 | Xiumin、Suho \[34\] |
+| 2017年4月3日 | Mountain TV | 《在天空中遇見大韓民國》 | Xiumin、Suho \[35\] |
 
 ## 專屬節目
 
@@ -93,18 +94,20 @@
 | 11月28日－2月13日     | [MBC every1](../Page/MBC_Plus_Media.md "wikilink")               | [EXO's SHOWTIME](../Page/EXO's_SHOWTIME.md "wikilink")                             | 12                     |                               |       |
 | 2014             | 5月9日－30日                                                         | [Mnet](../Page/Mnet.md "wikilink")                                                 | 熾熱的瞬間 XOXO EXO         | 4                             |       |
 | 8月15日－10月31日     | EXO 90:2014                                                      | 11                                                                                 |                        |                               |       |
-| 2015             | 1月16日、17日、23日                                                    | [LINE](../Page/LINE.md "wikilink") TV                                              | SurpLINEs EXO篇\[35\]   | Xiumin、Chanyeol、Tao、Kai、Sehun | 3     |
-| 4月6日             | [Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") Starcast | EXOCAST \#ONAIR \[36\]                                                             | 全部成員（Lay、Tao缺席）        | 1                             |       |
+| 2015             | 1月16日、17日、23日                                                    | [LINE](../Page/LINE.md "wikilink") TV                                              | SurpLINEs EXO篇\[36\]   | Xiumin、Chanyeol、Tao、Kai、Sehun | 3     |
+| 4月6日             | [Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") Starcast | EXOCAST \#ONAIR \[37\]                                                             | 全部成員（Lay、Tao缺席）        | 1                             |       |
 | 8月8日－12月26日      | [東京電視台](../Page/東京電視台.md "wikilink")                             | EXO Channel                                                                        | 全部成員                   | 21                            |       |
-| 2016             | 6月6日－7月3日                                                        | V LIVE+                                                                            | EXOMENTARY LIVE\[37\]  | 15                            |       |
+| 2016             | 6月6日－7月3日                                                        | V LIVE+                                                                            | EXOMENTARY LIVE\[38\]  | 15                            |       |
 | 2017             | 7月18日                                                            | V LIVE                                                                             | EXO LIVE\! 仲夏夜之KOKOBOP | 全部成員（Lay缺席）                   | 1     |
-| 7月19日            | Eating Show\[38\]                                                | Baekyun、Chanyeol、D.O.、Sehun                                                        | 1                      |                               |       |
+| 7月19日            | Eating Show\[39\]                                                | Baekyun、Chanyeol、D.O.、Sehun                                                        | 1                      |                               |       |
 | 8月19日－10月16日     | V LIVE+                                                          | EXO TOURGRAM                                                                       | 全部成員（Lay缺席）            | 30                            |       |
-| 2018             | 4月9日－4月15日                                                       | V LIVE                                                                             | 月火水木CBX\[39\]          | Xiumin、Baekhyun、Chen          | 7     |
-| 5月21日－7月13日      | oksusu、XtvN                                                      | [EXO的爬着梯子世界旅行](https://zh.wikipedia.org/wiki/EXO的爬着梯子世界旅行 "wikilink")-CBX日本篇\[40\] | 40                     |                               |       |
+| 2018             | 4月9日－4月15日                                                       | V LIVE                                                                             | 月火水木CBX\[40\]          | Xiumin、Baekhyun、Chen          | 7     |
+| 5月21日－7月13日      | oksusu、XtvN                                                      | [EXO的爬着梯子世界旅行](https://zh.wikipedia.org/wiki/EXO的爬着梯子世界旅行 "wikilink")-CBX日本篇\[41\] | 40                     |                               |       |
 | 12月27日－2019年1月5日 | V LIVE                                                           | 給你看EXO - EXO娛樂館                                                                    | 全部成員（Lay缺席）            | 5                             |       |
 | 2019             | 1月21日－3月29日                                                      | oksusu、TrueID                                                                      | EXO的爬着梯子世界旅行-高雄&墾丁篇    | 50                            |       |
-| 3月25日－5月3日       | Naver TV、V LIVE                                                  | Heart 4 U (Xiumin篇)\[41\]                                                          | 18                     |                               |       |
+| 3月25日－5月3日       | Naver TV、V LIVE                                                  | Heart 4 U (Xiumin篇)\[42\]                                                          | 18                     |                               |       |
+| 10月28日－          | Heart 4 U (Chen篇)                                                |                                                                                    |                        |                               |       |
+| 11月28日－          | 抖音                                                               | 歸零 REKNOW\[43\]                                                                    | Lay                    |                               |       |
 
 ## 節目固定出演
 
@@ -116,7 +119,7 @@
 | 9月12日－11月21日      | [叢林的法則](../Page/叢林的法則.md "wikilink")－所羅門群島篇           | Tao                                                         | 5-8                                                     |                                                  |            |
 | 2015              | 4月10日－5月1日                                            | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")   | [撲通撲通印度](../Page/心動不已的印度.md "wikilink")                 | Suho                                             | 全輯         |
 | 6月14日－ 9月20日      | [東方衛視](https://zh.wikipedia.org/wiki/東方衛視 "wikilink") | [極限挑戰 第一季](../Page/极限挑战.md "wikilink")                      | Lay                                                     |                                                  |            |
-| 8月21日－9月4日        | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [叢林的法則](../Page/叢林的法則.md "wikilink")－汶萊篇 \[42\]             | Chanyeol                                                | 5-7                                              |            |
+| 8月21日－9月4日        | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [叢林的法則](../Page/叢林的法則.md "wikilink")－汶萊篇 \[44\]             | Chanyeol                                                | 5-7                                              |            |
 | 2016              | 4月17日－7月3日                                            | [東方衛視](https://zh.wikipedia.org/wiki/東方衛視 "wikilink")       | [極限挑戰 第二季](../Page/极限挑战.md "wikilink")                  | Lay                                              | 全輯         |
 | 4月18日－5月6日        | 網絡綜藝                                                  | 沒有經紀人的旅行                                                    | Xiumin、Chen                                             | 全8集／[SM娛樂](../Page/SM娛樂.md "wikilink")與韓國觀光社聯合製作 |            |
 | 2017              | 7月9日 - 11月17日                                         | [東方衛視](https://zh.wikipedia.org/wiki/東方衛視 "wikilink")       | [極限挑戰 第三季](../Page/极限挑战.md "wikilink")                  | Lay                                              | 全輯 （除第4期）  |
@@ -125,12 +128,13 @@
 | 4月5日 - 7月12日      | MBC                                                   | [被子外面很危險](../Page/被子外面很危險.md "wikilink")                    | Xiumin                                                  | 正規節目                                             |            |
 | 4月22日 - 7月15日     | 東方衛視                                                  | [極限挑戰第四季](https://zh.wikipedia.org/wiki/極限挑戰 "wikilink")    | Lay                                                     | 全輯（除3、4、8、11期）                                   |            |
 | 5月4日 - 6月1日       | [Netflix](../Page/Netflix.md "wikilink")              | [犯人就是你](https://zh.wikipedia.org/wiki/犯人就是你 "wikilink")     | Sehun                                                   | 全輯                                               |            |
-| 5月26日 - 6月30日     | [tvN](../Page/TVN.md "wikilink")                      | [心酸旅行](https://zh.wikipedia.org/wiki/窮遊 "wikilink")\[43\]   | Chanyeol                                                | 25-30                                            |            |
-| 12月1日 - 2019年2月9日 | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink") | [即刻電音](https://zh.wikipedia.org/wiki/即刻電音 "wikilink")\[44\] | Lay                                                     | 全輯                                               |            |
+| 5月26日 - 6月30日     | [tvN](../Page/TVN.md "wikilink")                      | [心酸旅行](https://zh.wikipedia.org/wiki/窮遊 "wikilink")\[45\]   | Chanyeol                                                | 25-30                                            |            |
+| 12月1日 - 2019年2月9日 | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink") | [即刻電音](https://zh.wikipedia.org/wiki/即刻電音 "wikilink")\[46\] | Lay                                                     |                                                  |            |
 | 2019              | 1月21日 - 4月6日                                          | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")         | [青春有你](../Page/青春有你.md "wikilink")                      | 全輯／青春製作人代表                                       |            |
-| 5月12日 - 8月4日      | 東方衛視                                                  | [極限挑戰第五季](https://zh.wikipedia.org/wiki/極限挑戰 "wikilink")    |                                                         |                                                  |            |
-| 6月21日 -           | KBS2                                                  | [加油吧曼蘇爾](../Page/加油吧曼蘇爾.md "wikilink")                      | Kai                                                     |                                                  |            |
-| 9月12日 -           | JTBC                                                  | 怪癖的五兄弟                                                      | Baekhyun                                                | 試播                                               |            |
+| 5月12日 - 8月4日      | 東方衛視                                                  | [極限挑戰第五季](https://zh.wikipedia.org/wiki/極限挑戰 "wikilink")    | 全輯                                                      |                                                  |            |
+| 6月21日 - 10月18日    | KBS2                                                  | [加油吧曼蘇爾](../Page/加油吧曼蘇爾.md "wikilink")                      | Kai                                                     |                                                  |            |
+| 9月12日             | JTBC                                                  | 怪癖的五兄弟                                                      | Baekhyun                                                | 試播                                               |            |
+| 11月8日             | Netflix                                               | [犯人就是你第二季](../Page/明星來解謎_\(第二季\).md "wikilink")             | Sehun                                                   | 全輯                                               |            |
 
 ## 綜藝節目
 
@@ -366,62 +370,65 @@
 1月31日</p></td>
 </tr>
 <tr class="odd">
-<td><p>2月16日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台視" title="wikilink">台視</a></p></td>
 </tr>
 <tr class="even">
+<td><p>2月16日</p></td>
+</tr>
+<tr class="odd">
 <td><p>5月3日<br />
 5月4日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5月10日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5月17日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7月19日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6月12日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7月5日<br />
 10月25日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7月19日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7月27日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>8月17日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>8月20日<br />
 8月27日<br />
 11月5日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9月5日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10月8日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10月20日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11月2日<br />
 11月9日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月5日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11月22日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12月27日</p></td>
 </tr>
 </tbody>
@@ -932,6 +939,15 @@
 </tr>
 <tr class="odd">
 <td><p>9月24日</p></td>
+</tr>
+<tr class="even">
+<td><p>10月10日</p></td>
+</tr>
+<tr class="odd">
+<td><p>12月4日</p></td>
+</tr>
+<tr class="even">
+<td><p>12月7日</p></td>
 </tr>
 </tbody>
 </table>
@@ -1641,6 +1657,24 @@ Chen、Kai</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>10月2日</p></td>
+<td><p>MBC FM4U</p></td>
+<td><p>金申英正午的希望曲</p></td>
+<td><p>Chen</p></td>
+</tr>
+<tr class="even">
+<td><p>10月3日</p></td>
+<td><p>KBS Cool FM</p></td>
+<td><p>鄭恩地的歌謠廣場</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月4日</p></td>
+<td><p>SBS Power FM</p></td>
+<td><p>崔華靜的Power Time</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -1883,7 +1917,7 @@ Chen、Kai</p></td>
 <tr class="even">
 <td><p>4月11日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a> [45]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a> [47]</p></td>
 <td><p>Chen</p></td>
 <td><p>與<a href="../Page/Yeri.md" title="wikilink">藝琳主持</a>（Special MC）</p></td>
 <td></td>
@@ -1891,7 +1925,7 @@ Chen、Kai</p></td>
 <tr class="odd">
 <td><p>4月12日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a> [46]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a> [48]</p></td>
 <td><p>Suho、Baekhyun</p></td>
 <td><p>Special MC</p></td>
 <td></td>
@@ -1979,7 +2013,7 @@ Chen、Kai</p></td>
 <tr class="even">
 <td><p>12月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/SBS歌謠大戰.md" title="wikilink">SBS歌謠大戰</a> [47]</p></td>
+<td><p><a href="../Page/SBS歌謠大戰.md" title="wikilink">SBS歌謠大戰</a> [49]</p></td>
 <td><p>Baekhyun</p></td>
 <td><p>MC</p></td>
 <td></td>
@@ -2055,26 +2089,27 @@ Chen、Kai</p></td>
 | 2017年12月15日－2018年3月1日 | The Last Kiss       | Suho             | Rudolf       |
 | 2018年7月18日 - 11月1日    | 笑面人                 | Gwynplaine（格溫普蘭） |              |
 | 2019年10月22日 - 12月1日   | 歸來：那日的約定            | Xiumin           |              |
+| 2020年1月9日 -           | 笑面人                 | Suho             | Gwynplaine   |
 
 ## 雜誌畫報
 
 | 年份         | 期數                 | 雜誌名稱                |
 | ---------- | ------------------ | ------------------- |
-| 2015年      | 1月刊                | The Celebrity\[48\] |
-| 3月刊        | Ivy Club\[49\]     |                     |
+| 2015年      | 1月刊                | The Celebrity\[50\] |
+| 3月刊        | Ivy Club\[51\]     |                     |
 | 2016年      | 1月刊                | Asta TV             |
-| 3月刊        | IVY Club\[50\]     |                     |
-| Mina\[51\] |                    |                     |
-| 7月刊        | W Korea\[52\]      |                     |
-| 8月刊 N°93   | 樂天免稅店\[53\]        |                     |
+| 3月刊        | IVY Club\[52\]     |                     |
+| Mina\[53\] |                    |                     |
+| 7月刊        | W Korea\[54\]      |                     |
+| 8月刊 N°93   | 樂天免稅店\[55\]        |                     |
 | 11月刊       | Vogue Japan        |                     |
-| 12月刊       | L'UOMO VOGUE\[54\] |                     |
-| 2017年      | 1月刊                | Vivi\[55\]          |
+| 12月刊       | L'UOMO VOGUE\[56\] |                     |
+| 2017年      | 1月刊                | Vivi\[57\]          |
 | 2月刊        | W Korea            |                     |
-| 3月刊 N°100  | 樂天免稅店\[56\]        |                     |
-| 4月刊        | Vogue Korea\[57\]  |                     |
-| 10月刊       | 樂天免稅店\[58\]        |                     |
-| 2018年      | 2月刊                | 樂天免稅店\[59\]         |
+| 3月刊 N°100  | 樂天免稅店\[58\]        |                     |
+| 4月刊        | Vogue Korea\[59\]  |                     |
+| 10月刊       | 樂天免稅店\[60\]        |                     |
+| 2018年      | 2月刊                | 樂天免稅店\[61\]         |
 | Ceci       |                    |                     |
 | Vol. 217   | High Cut           |                     |
 
@@ -2170,13 +2205,13 @@ Chen、Kai</p></td>
 19.
 20.
 21.
-22. [《巧克力銀行》首播，EXO成員Kai首次出演網劇擔正](http://www.vlovekpop.com/%E3%80%8A%E5%B7%A7%E5%85%8B%E5%8A%9B%E9%8A%80%E8%A1%8C%E3%80%8B%E9%A6%96%E6%92%AD%EF%BC%8Cexo%E6%88%90%E5%93%A1kai%E9%A6%96%E6%AC%A1%E5%87%BA%E6%BC%94%E7%B6%B2%E5%8A%87%E6%93%94%E6%AD%A3/) vlovekpop
-23.
+22.
+23. [《巧克力銀行》首播，EXO成員Kai首次出演網劇擔正](http://www.vlovekpop.com/%E3%80%8A%E5%B7%A7%E5%85%8B%E5%8A%9B%E9%8A%80%E8%A1%8C%E3%80%8B%E9%A6%96%E6%92%AD%EF%BC%8Cexo%E6%88%90%E5%93%A1kai%E9%A6%96%E6%AC%A1%E5%87%BA%E6%BC%94%E7%B6%B2%E5%8A%87%E6%93%94%E6%AD%A3/) vlovekpop
 24.
-25. [雲集韓流最強陣容！《初吻就七次》這些OPPA你要選哪一個？](http://www.vlovekpop.com/20161127-7kisses/) vlovekpop
-26.
-27. [《Missing 9》確演名單公開！EXO燦烈、崔泰俊引發好奇心！](http://www.vlovekpop.com/20161114-missing9/) vlovekpop
-28.
+25.
+26. [雲集韓流最強陣容！《初吻就七次》這些OPPA你要選哪一個？](http://www.vlovekpop.com/20161127-7kisses/) vlovekpop
+27.
+28. [《Missing 9》確演名單公開！EXO燦烈、崔泰俊引發好奇心！](http://www.vlovekpop.com/20161114-missing9/) vlovekpop
 29.
 30.
 31.
@@ -2208,3 +2243,5 @@ Chen、Kai</p></td>
 57.
 58.
 59.
+60.
+61.

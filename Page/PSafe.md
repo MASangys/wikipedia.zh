@@ -53,38 +53,21 @@ PSafe于2010年11月成立，由巴西创业平台Xango 控股集团在获得来
 [Category:巴西信息科技企业](https://zh.wikipedia.org/wiki/Category:巴西信息科技企业 "wikilink") [Category:2010年成立的企业](https://zh.wikipedia.org/wiki/Category:2010年成立的企业 "wikilink") [Category:杀毒软件](https://zh.wikipedia.org/wiki/Category:杀毒软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16. PSafe Total Android
-
 17. PSafe Total For PC and Mac
-
 18. PSafe Internet
-
 19. SafeWiFi

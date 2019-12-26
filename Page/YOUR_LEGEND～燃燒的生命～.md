@@ -1,12 +1,12 @@
 **YOUR LEGEND～燃燒的生命～**（）是臺灣樂團[五月天](../Page/五月天.md "wikilink")在日本推出的第二張日文單曲，2015年6月17日於日本正式發行。\[1\]\[2\]
 
-## 收录内容
+## 曲目
 
   - CD \[3\]
 
 <!-- end list -->
 
-  - 初回限定版附赠DVD\[4\]
+  - 初回限定盤附赠DVD\[4\]
 
 <!-- end list -->
 
@@ -51,10 +51,7 @@
 [Category:五月天歌曲](https://zh.wikipedia.org/wiki/Category:五月天歌曲 "wikilink") [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:A-Sketch發行單曲](https://zh.wikipedia.org/wiki/Category:A-Sketch發行單曲 "wikilink") [Category:台灣索尼唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣索尼唱片音樂專輯 "wikilink") [Category:相信音樂製作音樂專輯](https://zh.wikipedia.org/wiki/Category:相信音樂製作音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.

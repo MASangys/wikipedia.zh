@@ -158,7 +158,7 @@
 <tr class="odd">
 <td><p>7</p></td>
 <td><p><a href="../Page/Voice_(韓國電視劇).md" title="wikilink">Voice</a></p></td>
-<td><p>3</p></td>
+<td><p>16+2</p></td>
 <td><p>5.406%</p></td>
 <td></td>
 <td><p>2017/01/21</p></td>

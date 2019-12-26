@@ -241,24 +241,14 @@ HDR合成<br />
 
 1.
 2.  [RICOH THETAシリーズ 話題の全天球カメラの技術革新とは何か?](http://dc.watch.impress.co.jp/docs/news/interview_dcm/735470.html) - DC Watch Impress
-
 3.
-
 4.
-
 5.
-
 6.  [1ショットで360度の全天球イメージが撮影できる 「RICOH THETA」ニューモデル新発売](http://news.ricoh-imaging.co.jp/rim_info/2014/20141028_005994.html) ricoh-imaging.co.jp
-
 7.  [動画撮影が可能になったリコーの全天球カメラ「THETA m15」](http://av.watch.impress.co.jp/docs/news/20141028_673417.html) - DC Watch Impress
-
 8.  [「RICOH THETA」の純正防滴ケースが登場 新ファームウェア・新スマホアプリも近日リリース](http://dc.watch.impress.co.jp/docs/news/20150707_710450.html) - DC Watch Impress
-
 9.  [ワンショットで360度の高画質な撮影ができる 「RICOH THETA S」新発売](http://news.ricoh-imaging.co.jp/rim_info/2015/20150904_009355.html) ricoh-imaging.co.jp
-
 10. [360度カメラのハイスペック版「RICOH THETA S」 新型センサー&新開発レンズで高画質化 ライブビューや長秒撮影も](http://dc.watch.impress.co.jp/docs/news/20150904_719491.html) - DC Watch Impress
-
 11.
 12. [THETA SC|产品|理光](https://theta360.com/ct/about/theta/sc.html)
-
 13. [RICOH THETA SC Type HATSUNE MIKU](http://miku.ricoh/en/)

@@ -18,18 +18,11 @@ Wikiwand筹集了60万美元以支持改进界面的开发。该接口可用于[
 [Category:2014年面世](https://zh.wikipedia.org/wiki/Category:2014年面世 "wikilink") [Category:维基百科](https://zh.wikipedia.org/wiki/Category:维基百科 "wikilink") [Category:介面](https://zh.wikipedia.org/wiki/Category:介面 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.  <http://www.wikiwand.com/about>
-
 9.

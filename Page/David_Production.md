@@ -476,13 +476,9 @@
 [Category:David_Production](https://zh.wikipedia.org/wiki/Category:David_Production "wikilink") [Category:富士電視台](https://zh.wikipedia.org/wiki/Category:富士電視台 "wikilink") [Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink") [Category:小平市公司](https://zh.wikipedia.org/wiki/Category:小平市公司 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
-
 7.

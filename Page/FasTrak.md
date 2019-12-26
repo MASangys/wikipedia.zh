@@ -10,6 +10,6 @@
   - [Metro ExpressLanes](http://www.metroexpresslanes.net)
   - [Golden Gate Bridge](http://goldengatebridge.org/) official web site
   - [Alameda County Express Lanes](https://web.archive.org/web/20090430113339/http://www.680expresslane.org/) – Information on the I-680 and I-580 HOT lanes in Alameda County
-  - [Silicon Valley Express Lanes](http://www.vta.org/expresslanes) – Information on the HOT projects in the Silicon Valley
+  - [Silicon Valley Express Lanes](https://web.archive.org/web/20150329090823/http://www.vta.org/expresslanes) – Information on the HOT projects in the Silicon Valley
 
 [Category:加利福尼亚州交通](https://zh.wikipedia.org/wiki/Category:加利福尼亚州交通 "wikilink") [Category:公共交通付款方式](https://zh.wikipedia.org/wiki/Category:公共交通付款方式 "wikilink")

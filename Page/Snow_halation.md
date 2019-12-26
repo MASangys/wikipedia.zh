@@ -168,14 +168,9 @@ CD共收錄了兩首歌曲、其純音樂版以及十一段廣播劇，而DVD則
 [Category:Μ's歌曲](https://zh.wikipedia.org/wiki/Category:Μ's歌曲 "wikilink") [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:雪題材樂曲](https://zh.wikipedia.org/wiki/Category:雪題材樂曲 "wikilink") [Category:電視動畫插曲](https://zh.wikipedia.org/wiki/Category:電視動畫插曲 "wikilink")
 
 1.
-
 2.
-
 3.  、2013年2月、p.32
-
 4.  、2012年8月、42頁。
-
 5.
-
 6.
 7.  、2013年1月、p.29

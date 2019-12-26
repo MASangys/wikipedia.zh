@@ -1277,14 +1277,9 @@
 [Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink") [Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink") [Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink") [Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列跨界作品 "wikilink") [Category:柴崎貴行電影](https://zh.wikipedia.org/wiki/Category:柴崎貴行電影 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  {『假面騎士Drive超全集』 小學館〈電視君Deluxe 愛蔵版〉、東京、2015年11月11日、第1版。ISBN 978-4-09-105152-3。
-
 5.
 6.  [及川光博が仮面ライダー3号に\!「1号と2号倒していいの?」溢れる"ライダー愛" | マイナビニュース](http://news.mynavi.jp/news/2015/01/28/471/)
-
 7.

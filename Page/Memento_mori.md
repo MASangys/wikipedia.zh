@@ -24,14 +24,9 @@
 [Category:關於死亡的基督教藝術](https://zh.wikipedia.org/wiki/Category:關於死亡的基督教藝術 "wikilink") [Category:肖像](https://zh.wikipedia.org/wiki/Category:肖像 "wikilink") [Category:藝術類型](https://zh.wikipedia.org/wiki/Category:藝術類型 "wikilink") [Category:拉丁语格言](https://zh.wikipedia.org/wiki/Category:拉丁语格言 "wikilink")
 
 1.  Campbell, Lorne. Van der Weyden. London: Chaucer Press, 2004. 89.
-
 2.  [Literally 'remember (that you have) to die'](http://www.oxforddictionaries.com/definition/english/memento-mori), [Oxford English Dictionary](https://zh.wikipedia.org/wiki/Oxford_English_Dictionary "wikilink"), Third Edition, June 2001.
-
 3.  見Jeremy Taylor《》。
-
 4.
 5.
-
 6.  Charlton T. Lewis, Charles Short, *[A Latin Dictionary](https://zh.wikipedia.org/wiki/A_Latin_Dictionary "wikilink")*, *ss.vv.*
-
 7.  *[Oxford English Dictionary](https://zh.wikipedia.org/wiki/Oxford_English_Dictionary "wikilink")*, Third Edition, *[s.v.](http://www.oed.com/view/Entry/233960)*

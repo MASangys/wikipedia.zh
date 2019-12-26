@@ -128,7 +128,7 @@
 
 ## 外部連結
 
-  - [Ultra Jump官方網站](http://ultra.shueisha.co.jp/artist/10/)
+  - [Ultra Jump官方網站](https://web.archive.org/web/20150121055446/http://ultra.shueisha.co.jp/artist/10/)
 
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Ultra_Jump](https://zh.wikipedia.org/wiki/Category:Ultra_Jump "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
 

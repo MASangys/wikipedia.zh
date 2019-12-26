@@ -32,7 +32,7 @@ DANNY於2012年結婚並育有一子一女，吳溱桓於2015年5月24日步入�
 <td><p><strong>1st</strong></p></td>
 <td><p>首張正規專輯《<strong>1TYM</strong>》</p>
 <ul>
-<li>發行日期：1998年11月18日</li>
+<li>發行日期：1998年11月15日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：</li>
 </ul></td>
@@ -72,7 +72,7 @@ DANNY於2012年結婚並育有一子一女，吳溱桓於2015年5月24日步入�
 <td><p><strong>5th</strong></p></td>
 <td><p>第四張正規專輯《<strong>One Way</strong>》</p>
 <ul>
-<li>發行日期：2005年11月3日</li>
+<li>發行日期：2005年11月1日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：</li>
 </ul></td>

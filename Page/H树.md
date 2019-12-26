@@ -66,12 +66,8 @@ H树是[分形冠的一个例子](https://zh.wikipedia.org/wiki/分形冠 "wikil
 [Category:分形](https://zh.wikipedia.org/wiki/Category:分形 "wikilink") [Category:树结构](https://zh.wikipedia.org/wiki/Category:树结构 "wikilink") [Category:时钟信号](https://zh.wikipedia.org/wiki/Category:时钟信号 "wikilink")
 
 1.  [H-Fractal](http://demonstrations.wolfram.com/HFractal/), Sándor Kabai, [The Wolfram Demonstrations Project](https://zh.wikipedia.org/wiki/The_Wolfram_Demonstrations_Project "wikilink").
-
 2.  ; .
-
 3.  . See especially Figure 1.1.5, page 15.
-
 4.  ; .
-
 5.
 6.

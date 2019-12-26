@@ -58,48 +58,31 @@ zswap（连同zbud）于Linux 3.11（发布于2013年9月2日）合并入[Linux�
 [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink") [Category:Linux内核功能](https://zh.wikipedia.org/wiki/Category:Linux内核功能 "wikilink") [Category:記憶體管理](https://zh.wikipedia.org/wiki/Category:記憶體管理 "wikilink") [Category:虚拟内存](https://zh.wikipedia.org/wiki/Category:虚拟内存 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
 9.
 10.
 11.
 12.
 13.
-
 14.
 15.
-
 16.
 17.
 18.
 19. <http://arstechnica.com/apple/2013/10/os-x-10-9/17/#compressed-memory>
-
 20. <https://www.usenix.org/legacy/publications/library/proceedings/usenix01/cfp/wilson/wilson_html/node23.html>
-
 21.
-
 22.
-
 23.
-
 24.
 25.
-
 26.
-
 27.
-
 28.
-
 29.

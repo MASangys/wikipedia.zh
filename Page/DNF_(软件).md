@@ -11,9 +11,6 @@
 [Category:Linux软件包管理相关软件](https://zh.wikipedia.org/wiki/Category:Linux软件包管理相关软件 "wikilink") [Category:Fedora项目](https://zh.wikipedia.org/wiki/Category:Fedora项目 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

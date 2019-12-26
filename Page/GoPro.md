@@ -80,7 +80,7 @@ GoPro公司也提供GoPro Studio，一款简单的视频编辑软件\[26\]。随
 18.
 19.
 20.
-21. [GoPro Odyssey](https://www.gopro.com/odyssey) - GoPro官方网站
+21. [GoPro Odyssey](https://www.gopro.com/odyssey)  - GoPro官方网站
 22. [GoPro is now selling its crazy 16-camera virtual reality rig](https://www.theverge.com/2015/9/8/9261745/gopro-google-odyssey-virtual-reality-camera) - The Verge
 23. [INTRODUCING OMNI, THE GO-TO GOPRO FOR SPHERICAL CONTENT](https://gopro.com/news/introducing-omni-the-go-to-gopro-for-spherical-content) - GoPro官方网站
 24.

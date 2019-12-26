@@ -25,7 +25,5 @@ Ubuntu TV基於Ubuntu 12.04開發，擁有錄製和播放[DVD-Video](../Page/DVD
 
 1.
 2.
-
 3.
-
 4.

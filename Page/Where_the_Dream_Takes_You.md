@@ -81,8 +81,6 @@
 [Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink") [Category:2001年歌曲](https://zh.wikipedia.org/wiki/Category:2001年歌曲 "wikilink") [Category:迪士尼歌曲](https://zh.wikipedia.org/wiki/Category:迪士尼歌曲 "wikilink") [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

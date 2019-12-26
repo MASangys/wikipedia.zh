@@ -157,28 +157,16 @@ Tia与chelly（[EGOIST](../Page/EGOIST.md "wikilink")）和[koeda](https://zh.wi
 [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink") [Category:埼玉縣出身人物](https://zh.wikipedia.org/wiki/Category:埼玉縣出身人物 "wikilink")
 
 1.  [「ノラガミ」EDを歌うシンデレラガール・Tiaに直撃インタビュー！](https://akiba-souken.com/article/19845/)
-
 2.  [该当のツイート](https://twitter.com/Tia_ct/status/442153269696008192).Twitter
-
 3.  [プロフィール](http://mv.avex.jp/tia/#area3).Tia Official Website
-
 4.  [Tia个人推文](https://twitter.com/Tia_ct/status/614697863080062980).Twitter
-
 5.  \[<http://com.nicovideo.jp/community/co447657>? Tia Community\] .NicoNico
-
 6.  [豪華声優陣が一堂に会するボンズ15周年記念イベント「ノラガミ」「スペース☆ダンディ」先行上映会開催](http://okmusic.jp/#!/news/32384)
-
 7.  [Tiaニューシングル「Deal with the devil」リリース！TVアニメ『賭ケグルイ』OPテーマに決定！](http://avex.jp/tia/news/detail.php?id=1050069).Tia Official Website
-
 8.  [Tia的銷售排行榜](http://www.oricon.co.jp/prof/577816/rank/)
-
 9.  [The Glory Days発売日変更のお诧びとお知らせ](http://avex.jp/tia/news/detail.php?id=1013596).Tia Official Website
-
 10.
 11. [Tia インタビュー](http://noragami-anime.net/interview_ed.html).TVアニメ「ノラガミ」公式サイト
-
 12. [1](http://wooser.tv/w1st/#cast).TVアニメ 「うーさーのその日暮らし」 公式サイト
-
 13. [スタッフ＆キャスト＆主題歌](http://wooser.tv/#/staffcast).TVアニメ「うーさーのその日暮らし」公式サイト
-
 14. [うーさーのその日暮らし第3期は水島精二監督、虚淵玄ら豪華13人が脚本担当](http://news.mynavi.jp/news/2015/03/15/095/).

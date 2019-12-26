@@ -402,13 +402,6 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2019</p></td>
-<td><p>2019 年度品牌大獎</p></td>
-<td></td>
-<td><p>Beauty Icon</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -423,23 +416,30 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>主打歌曲成績</p></th>
+<th><p>主打歌曲排名成績</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>歌曲</p></td>
+<td><p>專輯</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年</p></td>
 </tr>
 <tr class="odd">
-<td><p>이별을 배웠어（Always In My Heart）</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><ul>
+<li>「*」：打榜中</li>
+<li>「(1)」：兩星期冠軍</li>
+<li>「[1]」：三星期冠軍</li>
+<li>「{1}」：四星期冠軍</li>
+</ul>
+<ul>
 <li>「/」表示未有相關資料</li>
 <li>「<span style="background:#808080">　</span>」：該段時期未有設立排行榜</li>
+<li>取得《M! Countdown》、《人氣歌謠》、《Show Champion》、《THE SHOW》三週一位後，排名自動除外</li>
 </ul></td>
 </tr>
 </tbody>

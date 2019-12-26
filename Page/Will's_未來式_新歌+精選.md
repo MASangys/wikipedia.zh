@@ -22,10 +22,11 @@ DVD
 
 ## 未收入音樂錄影帶
 
-| 歌名     | 執導                                                  | 附註                               |
-| ------ | --------------------------------------------------- | -------------------------------- |
-| 夏日瘋    | [徐仁峰](https://zh.wikipedia.org/wiki/徐仁峰 "wikilink") |                                  |
-| 轉機 國語版 | [林錦和](https://zh.wikipedia.org/wiki/林錦和 "wikilink") | [房思瑜](../Page/房思瑜.md "wikilink") |
+| 歌名                                                     | 執導                                                  | 附註                               |
+| ------------------------------------------------------ | --------------------------------------------------- | -------------------------------- |
+| [夏日瘋](https://www.youtube.com/watch?v=FM1JkAfKyME)     | [徐仁峰](https://zh.wikipedia.org/wiki/徐仁峰 "wikilink") |                                  |
+| [轉機 國語版](https://www.iqiyi.com/v_19rrobi7ts.html)      | [林錦和](https://zh.wikipedia.org/wiki/林錦和 "wikilink") | [房思瑜](../Page/房思瑜.md "wikilink") |
+| [轉機(粵語版)](https://www.youtube.com/watch?v=IK9ZwJMJZEQ) |                                                     |                                  |
 
 ## 備註
 

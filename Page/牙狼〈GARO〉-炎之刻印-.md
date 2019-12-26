@@ -451,7 +451,7 @@ Park Gi Deok</p></td>
 
 ## 相關作品
 
-  - 《[劇場版 牙狼<GARO> \~Divine Flame\~](https://zh.wikipedia.org/wiki/劇場版_牙狼\<GARO\>_~Divine_Flame~ "wikilink")》
+  - 《[劇場版牙狼<GARO> \~Divine Flame\~](https://zh.wikipedia.org/wiki/劇場版牙狼\<GARO\>_~Divine_Flame~ "wikilink")》
 
 <!-- end list -->
 

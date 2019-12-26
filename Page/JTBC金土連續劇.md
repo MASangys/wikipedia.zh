@@ -27,11 +27,16 @@
 <p>星期五、六 20:30</p></td>
 </tr>
 <tr class="even">
-<td><p>2017年2月24日－至今</p></td>
+<td><p>2017年2月24日－2019年7月13日</p></td>
 <td><center>
 <p>星期五、六 23:00</p></td>
 </tr>
 <tr class="odd">
+<td><p>2019年8月9日－至今</p></td>
+<td><center>
+<p>星期五、六 22:50</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 </tr>
@@ -382,7 +387,7 @@
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/金南珠_(1971年).md" title="wikilink">金南珠</a>、<a href="../Page/池珍熙.md" title="wikilink">池珍熙</a>、<a href="../Page/全慧珍.md" title="wikilink">全慧珍</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/毛完日" title="wikilink">毛完日</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/毛完日.md" title="wikilink">毛完日</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/諸仁" title="wikilink">諸仁</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -511,7 +516,7 @@
 <td style="text-align: center;"><p><a href="../Page/千玗嬉.md" title="wikilink">千玗嬉</a>、、<a href="../Page/韓智恩.md" title="wikilink">韓智恩</a>、<a href="../Page/安宰弘.md" title="wikilink">安宰弘</a>、<a href="../Page/孔明_(藝人).md" title="wikilink">孔明</a></p></td>
 <td style="text-align: center;"><p>李炳憲、金惠英</p></td>
 <td style="text-align: center;"><p>李炳憲、金英英</p></td>
-<td style="text-align: center;"><p>改編自電影《<a href="../Page/二十行不行.md" title="wikilink">二十行不行</a>》</p></td>
+<td style="text-align: center;"><p>原作：《<a href="../Page/二十行不行.md" title="wikilink">二十行不行</a>》</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年10月4日–<br />
@@ -525,9 +530,9 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年12月6日–<br />
-2020年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/巧克力（韓國電視劇）" title="wikilink">巧克力</a><br />
+<td style="text-align: center;"><p>2019年11月29日–<br />
+2020年1月</p></td>
+<td style="text-align: center;"><p><a href="../Page/巧克力_(韓國電視劇).md" title="wikilink">巧克力</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/尹啟相.md" title="wikilink">尹啟相</a>、<a href="../Page/河智苑.md" title="wikilink">河智苑</a>、<a href="../Page/張勝祖.md" title="wikilink">張勝祖</a>、<a href="../Page/閔鎮雄.md" title="wikilink">閔鎮雄</a></p></td>
@@ -535,16 +540,55 @@
 <td style="text-align: center;"><p><a href="../Page/李慶熙.md" title="wikilink">李慶熙</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
+</tbody>
+</table>
+
+### 2020年
+
+<table style="width:322%;">
+<colgroup>
+<col style="width: 60%" />
+<col style="width: 17%" />
+<col style="width: 50%" />
+<col style="width: 20%" />
+<col style="width: 90%" />
+<col style="width: 70%" />
+<col style="width: 15%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><p>播放<br />
+日期</p></th>
+<th style="text-align: center;"><p>電視劇集名稱</p></th>
+<th style="text-align: center;"><p>集數</p></th>
+<th style="text-align: center;"><p>主演</p></th>
+<th style="text-align: center;"><p>导演</p></th>
+<th style="text-align: center;"><p>编剧</p></th>
+<th style="text-align: center;"><p>備注</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
-<td style="text-align: center;"><p>2020年–<br />
-2020年</p></td>
+<td style="text-align: center;"><p>2020年1月–<br />
+2020年3月</p></td>
 <td style="text-align: center;"><p><a href="../Page/梨泰院CLASS.md" title="wikilink">梨泰院CLASS</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/朴敘俊.md" title="wikilink">朴敘俊</a>、金多美、<a href="../Page/權娜拉.md" title="wikilink">權娜拉</a>、<a href="../Page/劉在明.md" title="wikilink">劉在明</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金成允" title="wikilink">金成允</a></p></td>
 <td style="text-align: center;"><p>趙光鎮</p></td>
-<td style="text-align: center;"><p>原作同名網漫《梨泰院CLASS》</p></td>
+<td style="text-align: center;"><p>原作：《梨泰院CLASS》</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2020年–<br />
+2020年</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/夫妻的世界" title="wikilink">夫妻的世界</a><br />
+</p></td>
+<td style="text-align: center;"><p>16</p></td>
+<td style="text-align: center;"><p><a href="../Page/金喜愛.md" title="wikilink">金喜愛</a>、<a href="../Page/朴海俊.md" title="wikilink">朴海俊</a>、<a href="../Page/韓素希.md" title="wikilink">韓素希</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/毛完日.md" title="wikilink">毛完日</a></p></td>
+<td style="text-align: center;"><p>朱賢</p></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>

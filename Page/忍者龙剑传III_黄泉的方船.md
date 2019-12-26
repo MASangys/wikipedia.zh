@@ -54,92 +54,55 @@
 [Category:1991年电子游戏](https://zh.wikipedia.org/wiki/Category:1991年电子游戏 "wikilink") [Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink") [Category:中间篇电子游戏](https://zh.wikipedia.org/wiki/Category:中间篇电子游戏 "wikilink") [Category:任天堂3DS_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS_Virtual_Console游戏 "wikilink") [Category:平台游戏](https://zh.wikipedia.org/wiki/Category:平台游戏 "wikilink") [Category:橫向捲軸遊戲](https://zh.wikipedia.org/wiki/Category:橫向捲軸遊戲 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink") [Category:雅达利Lynx游戏](https://zh.wikipedia.org/wiki/Category:雅达利Lynx游戏 "wikilink") [Category:忍者外傳系列](https://zh.wikipedia.org/wiki/Category:忍者外傳系列 "wikilink")
 
 1.  [Instruction Manual (Lynx)](https://zh.wikipedia.org/wiki/#instmanlynx "wikilink"), p. 3.
-
 2.
-
 3.  [Instruction Manual (Lynx)](https://zh.wikipedia.org/wiki/#instmanlynx "wikilink"), p. 4.
-
 4.  [Instruction Manual (NES)](https://zh.wikipedia.org/wiki/#instmannes "wikilink"), p. 8.
-
 5.  [Instruction Manual (Lynx)](https://zh.wikipedia.org/wiki/#instmanlynx "wikilink"), p. 5.
-
 6.
 7.  [Instruction Manual (NES)](https://zh.wikipedia.org/wiki/#instmannes "wikilink"), p. 7.
-
 8.
-
 9.  [Instruction Manual (NES)](https://zh.wikipedia.org/wiki/#instmannes "wikilink"), pp. 15–16.
-
 10.
-
 11.
 12.
 13.
-
 14.
-
 15. Instruction Manual (NES), p. 6. "After Ryu's victorious duel with Jaquio, Ashtar returned to the bowels of darkness and bided His time. But another evil creature was already on its way as another adventure awaits the unsuspecting Ryu Hayabusa..."
-
 16.
 17. *Ninja Gaiden III: The Ancient Ship of Doom*. **Ryu Hayabusa**: "I killed Irene? No\! Someone or something using my name killed Irene."
-
 18.
 19. *Ninja Gaiden III: The Ancient Ship of Doom*. **Clancy**: "Go to the Castle Rock fortress...I don't have time to give you the details now, once you get there you'll learn all about Irene."
-
 20.
 21. *Ninja Gaiden III: The Ancient Ship of Doom*. **Foster**: "No one has ever made it out of here alive. And no one ever will...Hmmm...I don't know what you're talking about. I heard that you killed Irene."
-
 22. *Ninja Gaiden III: The Ancient Ship of Doom*. **Ryu**: "Just wait Foster, I won't rest until I find out the truth."
-
 23. *Ninja Gaiden III: The Ancient Ship of Doom*. **Ryu**: "So you're the one who killed Irene and made me a murderer\!" / **Look-alike**: "Sooo...What are you going to do about it?\!"
-
 24. *Ninja Gaiden III: The Ancient Ship of Doom*. **Look-alike**: "Ha ha, I don't just look like you. I've also acquired all of your strengths."
-
 25. *Ninja Gaiden III: The Ancient Ship of Doom*. **Look-alike**: "Unfortunately, I can't get rid of you just yet, Foster's order."
-
 26. *Ninja Gaiden III: The Ancient Ship of Doom*. **Clancy**: "I'm Clancy. I've been working on the 'Biohazard' plan with Foster. I can't work with him anymore. He has secretly created a monster called a **BIO-NOID**\!"
-
 27. *Ninja Gaiden III: The Ancient Ship of Doom*. **Clancy**: "There's an open seam between dimensions that was created when the Demon died. An unlimited supply of **LIFE ENERGY** is flowing from the seam inside the ruins of the fortress. Foster has rebuilt the fortress and was doing transformation experiments with life energy. Bio-noids are super humans that have been transformed with life energy."
-
 28.
 29. *Ninja Gaiden III: The Ancient Ship of Doom*. **Foster**: "Unfortunately, I'm going to have to get rid of you. Imagine the bio-noid I could make by blasting your tough Dragon Clan body with life energy. Instead I'll extract the secret of Dragon Clan from your corpse, then I'll make a superior bio-noid."
-
 30. *Ninja Gaiden III: The Ancient Ship of Doom*. **Irene**: "Did you think that I would die that easily? I had been working with the army when I discovered all about his plan."
-
 31. *Ninja Gaiden III: The Ancient Ship of Doom*. **Clancy**: "Good work Ryu, and you too, Irene...Call it what you like. I'm not turning these ruins over to anyone. The subspace connection to the life energy is starting to open and I have to go now. The life energy and the secrets of the ruins will be mine\!"
-
 32. *Ninja Gaiden III: The Ancient Ship of Doom*. **Look-alike**: "Ha...I used all of my strength, but once here I was brought back to life by the energy...I've transmuted into a super being. I'll prove it by killing you."
-
 33.
 34. *Ninja Gaiden III: The Ancient Ship of Doom*. **Clancy**: "These super-dimensional ruins are the foundation upon which a new world will be created. It's the new source of **ALL LIFE**\!"
-
 35. *Ninja Gaiden III: The Ancient Ship of Doom*. **Clancy**: "Listen carefully, Ryu. I want to protect the earth from humans...You know they should be wiped out, don't you? ... Ryu, join me\! I'll even let you bring a perfect human to ride the ship with us. Once the earth is cleansed of humans we can start a new world\!"
-
 36. *Ninja Gaiden III: The Ancient Ship of Doom*. **Ryu**: "Humans are always striving to achieve. All of creatures living on earth, in all worlds, can never be just a part of someone's plans. Fortunately, mankind is never foolish enough to wipe itself out achieve some ambition."
-
 37.
-
 38.
 39.
-
 40.
 41.
-
 42.
-
 43.
-
 44.
-
 45.
 46.
 47.
-
 48.
-
 49.
 50.
-
 51.
 52.
 53.

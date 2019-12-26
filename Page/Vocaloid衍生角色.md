@@ -149,7 +149,7 @@
 
 <!-- end list -->
 
-  - [防火LOID「亞北音留」](http://akita-neru.at.webry.info/index.html) - スミス･ヒオカ
+  - [防火LOID「亞北音留」](https://web.archive.org/web/20090727221532/http://akita-neru.at.webry.info/index.html) - スミス･ヒオカ
 
 <!-- end list -->
 
@@ -187,77 +187,42 @@
 [Category:Vocaloid](https://zh.wikipedia.org/wiki/Category:Vocaloid "wikilink") [Category:Vocaloid角色](https://zh.wikipedia.org/wiki/Category:Vocaloid角色 "wikilink") [Category:虛構角色列表](https://zh.wikipedia.org/wiki/Category:虛構角色列表 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16. [sm982882 - ニコニコ動画](http://www.nicovideo.jp/watch/sm982882)
-
 17.
-
 18. 《》第373回
-
-19. [\[Vocaloid2情報](http://blog.crypton.co.jp/mp/2007/09/vocaloid2_cdrom.html) 再プレス分「初音ミク」CD-ROMの到着\]
-
+19.
 20. [FRONTIER WORKS - Comic Market73出展情報（29.12.2007～12.31）](http://www.fwinc.co.jp/event/c73.php#hatsune)
-
 21. 月刊Comp Ace 2008年1月號，2007年11月26日發售
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
 40.

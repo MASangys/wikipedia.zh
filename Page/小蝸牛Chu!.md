@@ -182,10 +182,8 @@ DISC 2</p></td>
 [Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
 
 1.  《》中，由[朝長美櫻](../Page/朝長美櫻.md "wikilink")提及 播出日期：2015年6月14日
-
 2.
 3.
 4.
-
 5.
 6.

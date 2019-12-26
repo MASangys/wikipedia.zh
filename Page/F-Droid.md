@@ -54,34 +54,19 @@ F-Droid由[Ciaran Gultnieks创建于](https://zh.wikipedia.org/wiki/Ciaran_Gultn
 [Category:移动软件分发平台](https://zh.wikipedia.org/wiki/Category:移动软件分发平台 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:自由软件包管理系统](https://zh.wikipedia.org/wiki/Category:自由软件包管理系统 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.

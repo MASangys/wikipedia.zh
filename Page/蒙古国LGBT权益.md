@@ -66,25 +66,16 @@
 [Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink") [Category:蒙古国LGBT](https://zh.wikipedia.org/wiki/Category:蒙古国LGBT "wikilink") [Category:蒙古國人權](https://zh.wikipedia.org/wiki/Category:蒙古國人權 "wikilink")
 
 1.  Onon, Urgunge (2001) *The Secret History of the Mongols: The life and times of Chinggis Khan*. Abingdon: Routledge-Curzon. p.11. ISBN 978-0700713356. "And anyone found indulging in homosexual practices should be executed."
-
 2.
 3.  [Mongolia – Constitution](http://www.icrc.org/ihl-nat.nsf/162d151af444ded44125673e00508141/d056b4337c8b9f1fc1257090002bfa48/$FILE/Constitution%20Mongolia%20-%20EN.pdf)
-
 4.  [Mongolia Considers Anti-Discrimination Law to Protect LGBT Citizens](http://www.hrc.org/blog/mongolia-considers-anti-discrimination-law-to-protect-lgbt-citizens) Human Rights Campaign
-
 5.
-
 6.
-
 7.  [Shadow Report to the UN Committee on Economic, Social and Cultural Rights regarding Mongolia's Protection of the Rights of LGBTI Persons](http://tbinternet.ohchr.org/Treaties/CESCR/Shared%20Documents/MNG/INT_CESCR_CSS_MNG_20023_E.PDF)
-
-8.  [A PEEK INSIDE MONGOLIA’S ONLY GAY BAR… AND HOW IT’S HELPING SAVE LIVES](https://unicornbooty.com/peek-inside-mongolias-gay-bar-helping-save-lives/)
-
+8.
 9.
 10. [Gay Mongolia: A Remote Path](http://www.globalgayz.com/asia/mongolia/gay-mongolia-a-remote-path/)
-
 11. [Mongolia, Asia](http://www.globalgayz.com/asia/mongolia/)
-
 12.
 13.
 14.

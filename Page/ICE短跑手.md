@@ -88,7 +88,7 @@
 </tbody>
 </table>
 
-在完成ICE短跑手的线路走向后，大多数ICE短跑手还会作为常规的ICE运行。例如，ICE1091次和1093次会从[法兰克福继续前往](https://zh.wikipedia.org/wiki/法兰克福 "wikilink")[慕尼黑](../Page/慕尼黑.md "wikilink")，并在沿途按常规的停站方式于[曼海姆](../Page/曼海姆.md "wikilink")、[斯图加特](https://zh.wikipedia.org/wiki/斯图加特 "wikilink")、[乌尔姆](../Page/乌尔姆.md "wikilink")和[奥格斯堡办客](https://zh.wikipedia.org/wiki/奥格斯堡 "wikilink")。
+在完成ICE短跑手的线路走向后，大多数ICE短跑手还会作为常规的ICE运行。例如，ICE1091次和1093次会从[法兰克福继续前往](https://zh.wikipedia.org/wiki/法兰克福 "wikilink")[慕尼黑](../Page/慕尼黑.md "wikilink")，并在沿途按常规的停站方式于[曼海姆](../Page/曼海姆.md "wikilink")、[斯图加特](https://zh.wikipedia.org/wiki/斯图加特 "wikilink")、[乌尔姆](../Page/乌尔姆.md "wikilink")和[奥格斯堡](../Page/奥格斯堡.md "wikilink")办客。
 
 ICE短跑手共在三条[城际快车线路提供服务](../Page/城际快车线路列表.md "wikilink")：
 
@@ -111,11 +111,8 @@ ICE短跑手共在三条[城际快车线路提供服务](../Page/城际快车线
 [Category:城际快车](https://zh.wikipedia.org/wiki/Category:城际快车 "wikilink")
 
 1.  Horst J. Obermayer: *ICE – Hochgeschwindigkeitszüge der Deutschen Bahn AG*. In: Horst J. Obermayer (Hrsg.): *Internationaler Schnellverkehr*. Franckh-Kosmos, Stuttgart 1994, S. 135 f., ISBN 3-440-06775-0
-
 2.
-
 3.  Ohne Autor: *Vorschau auf den Fernverkehr 2008*. In: *Drehscheibe*. Nr. 201, 2007, , S. 18–25.
-
 4.
 5.
 6.  DB Mobility Logistics AG (Hrsg.): *Neuer ICE-Sprinter-Halt in Hannover*. Presseinformation vom 23. März 2012.

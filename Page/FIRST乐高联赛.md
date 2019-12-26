@@ -53,11 +53,8 @@ FLL竞赛有四个主要部分构成，分别是核心价值、机器人设计�
 [Category:1999年建立的週期性事件](https://zh.wikipedia.org/wiki/Category:1999年建立的週期性事件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.

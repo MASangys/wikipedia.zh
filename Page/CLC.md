@@ -8,50 +8,23 @@
 
   - 官方没有公佈門面、形象、中心的定位。
 
+{{-}}
 
-{| class="wikitable" style="text-align:center; font-size:80%" \!colspan="11"|成員列表 |- \!colspan="3" |藝名 \!colspan="3" |姓名 \!rowspan="2" |出生日期/出生地 \!rowspan="2" |學歷 \!rowspan="2" |代表水果
-\[5\] \!rowspan="2" |代表動物
-\[6\] \!rowspan="2" |官方公佈定位
-
- |- \! 漢字 \! 諺文 \! 羅馬拼音 \! 漢字
-\[7\] \[8\] \! 諺文/ 外文名 \! 羅馬拼音 |- |承姬 | |Seung Hee |吳承姬 \[9\] | |Oh Seung Hee |
-[光州廣域市](../Page/光州廣域市.md "wikilink") |、
-、 |🍏
-青蘋果 |鴨 |第一主唱
-大姐
- |- |rowspan=2|有眞 |rowspan=2| |rowspan=2|Yu Jin |崔有眞 \[10\]\[11\] |rowspan=2| |rowspan=2|Choi Yu Jin |rowspan=2|
-[全羅北道](../Page/全羅北道.md "wikilink")[全州市](../Page/全州市.md "wikilink") |rowspan=2|、
-、
-[翰林演藝藝術高等學校](../Page/翰林演藝藝術高等學校.md "wikilink") 演藝科 |rowspan=2|🍓
-草莓 |rowspan=2|兔 |rowspan=2|副唱
-領舞  |- |崔有鎭  |- |rowspan=2|丞延 |rowspan=2| |rowspan=2|Seung Yeon |張丞延  |rowspan=2| |rowspan=2|Chang Seung Yeon |rowspan=2|
-[京畿道](../Page/京畿道.md "wikilink")[城南市](../Page/城南市.md "wikilink") |rowspan=2|、
-[首爾公演藝術高等學校](https://zh.wikipedia.org/wiki/首爾公演藝術高等學校 "wikilink") |rowspan=2|🍊
-香橙 |rowspan=2|猴 |rowspan=2|隊長
-領唱
-主領舞
- |- |張丞演 \[12\] |- |rowspan=3|[Sorn](https://zh.wikipedia.org/wiki/Sorn "wikilink") |rowspan=3| |rowspan=3|Sorn |春娜索恩·薩查庫爾 |
-\[13\] |Chonnasorn Sajakul |rowspan=3|
-[曼谷](../Page/曼谷.md "wikilink") |rowspan=3|
-
-（Grade 11）\[14\] |rowspan=3|🍉
-西瓜 |rowspan=3|象 |rowspan=3|副唱
- |- |陳思靜 \[15\] | |Chen Si Jing |- |金昭恩 \[16\] | |Kim So Eun |- |睿恩 | |Ye Eun |張睿恩 \[17\] | |Jang Ye Eun |
-[京畿道](../Page/京畿道.md "wikilink")[東豆川市](https://zh.wikipedia.org/wiki/東豆川市 "wikilink") |、
-
-[首爾公演藝術高等學校](https://zh.wikipedia.org/wiki/首爾公演藝術高等學校 "wikilink") 實用音樂科 |🍅
-番茄 |虎 |副唱
-主Rapper
- |- |[Elkie](../Page/莊錠欣.md "wikilink") | |Elkie |莊錠欣 \[18\] | |Chong Ting Yan | [新界](../Page/新界.md "wikilink")[大埔區](../Page/大埔區.md "wikilink") |大埔崇德黃建常紀念學校
-[迦密柏雨中學](../Page/迦密柏雨中學.md "wikilink")（肄業） |🍒
-櫻桃 |鹿 |領唱 |- |恩彬 | |Eun Bin |權恩彬 \[19\] | |Kwon Eun Bin |
-[首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink") |、
-、
-、
-[翰林演藝藝術高等學校](../Page/翰林演藝藝術高等學校.md "wikilink") 演藝科（畢業） |🍋
-檸檬 |獨角獸 |副唱
-副Rapper
-忙内 |}
+| 成員列表                                                  |
+| ----------------------------------------------------- |
+| 藝名                                                    |
+| 漢字                                                    |
+| [承姬](https://zh.wikipedia.org/wiki/承姬 "wikilink")     |
+| [有眞](https://zh.wikipedia.org/wiki/有眞 "wikilink")     |
+| 崔有鎭                                                   |
+| [丞延](https://zh.wikipedia.org/wiki/丞延 "wikilink")     |
+| 張丞演 \[5\]                                             |
+| [Sorn](https://zh.wikipedia.org/wiki/Sorn "wikilink") |
+| 陳思靜 \[6\]                                             |
+| 金昭恩 \[7\]                                             |
+| [睿恩](https://zh.wikipedia.org/wiki/睿恩 "wikilink")     |
+| [Elkie](../Page/莊錠欣.md "wikilink")                    |
+| [恩彬](https://zh.wikipedia.org/wiki/恩彬 "wikilink")     |
 
 ### 成員變動
 
@@ -108,9 +81,9 @@ PlotData =
 
 | 成員    | 登記名字 | 編號       | 登記著作   |
 | ----- | ---- | -------- | ------ |
-| 張睿恩   | 장예은  | 10014360 | \[20\] |
-| Elkie | 엘키   | 10020265 | \[21\] |
-| 權恩彬   | 권은빈  | 10017516 | \[22\] |
+| 張睿恩   | 장예은  | 10014360 | \[8\]  |
+| Elkie | 엘키   | 10020265 | \[9\]  |
+| 權恩彬   | 권은빈  | 10017516 | \[10\] |
 
 ## 活動發展
 
@@ -118,67 +91,67 @@ PlotData =
 
 **Cube Girls、弘大街頭公演、新成員**
 
-2012年，**Sorn**參加[tvN選秀節目](https://zh.wikipedia.org/wiki/tvN "wikilink")《[K-POP獵星行動](https://zh.wikipedia.org/wiki/K-POP獵星行動 "wikilink")》成為優勝者，進入CUBE。\[23\]
+2012年，**Sorn**參加[tvN選秀節目](https://zh.wikipedia.org/wiki/tvN "wikilink")《[K-POP獵星行動](https://zh.wikipedia.org/wiki/K-POP獵星行動 "wikilink")》成為優勝者，進入CUBE。\[11\]
 
-2013年，**承姬**以「Cube Girls」名義與[BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")[梁耀燮](../Page/梁耀燮.md "wikilink")合唱《Perfume》，部分成員亦曾出演[BTOB](../Page/BTOB.md "wikilink") MV。\[24\]
+2013年，**承姬**以「Cube Girls」名義與[BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")[梁耀燮](../Page/梁耀燮.md "wikilink")合唱《Perfume》，部分成員亦曾出演[BTOB](../Page/BTOB.md "wikilink") MV。\[12\]
 
-2014年，五位成員出演[G.NA](../Page/G.NA.md "wikilink")歌曲《漂亮內衣》MV，並與[Pentagon一起參與舞台伴舞](../Page/Pentagon_\(男子組合\).md "wikilink")\[25\]， 與[B1A4](../Page/B1A4.md "wikilink")及[GOT7](../Page/GOT7.md "wikilink")拍攝校服廣告及廣告歌，**承姬**與BTOB[陸星材](../Page/陸星材.md "wikilink")演唱tvN《[九數少年](../Page/九數少年.md "wikilink")》原聲帶，五位成員參與Miracle Project慈善計劃，包括Rainbow concert、送煤炭等活動，\[26\]\[27\] 並於弘大街頭作慈善公演。\[28\]\[29\] 出道時，**有眞**是成員中練習時間最長共四年多，**丞延**同樣四年，**Sorn**約三年。
+2014年，五位成員出演[G.NA](../Page/G.NA.md "wikilink")歌曲《漂亮內衣》MV，並與[Pentagon一起參與舞台伴舞](../Page/Pentagon_\(男子組合\).md "wikilink")\[13\]， 與[B1A4](../Page/B1A4.md "wikilink")及[GOT7](../Page/GOT7.md "wikilink")拍攝校服廣告及廣告歌，**承姬**與BTOB[陸星材](../Page/陸星材.md "wikilink")演唱tvN《[九數少年](../Page/九數少年.md "wikilink")》原聲帶，五位成員參與Miracle Project慈善計劃，包括Rainbow concert、送煤炭等活動，\[14\]\[15\] 並於弘大街頭作慈善公演。\[16\]\[17\] 出道時，**有眞**是成員中練習時間最長共四年多，**丞延**同樣四年，**Sorn**約三年。
 
-2015年，**Elkie**透過《Cube Star World Audition》海外徵選，進入Cube當練習生，2016年正式加入CLC。\[30\]
+2015年，**Elkie**透過《Cube Star World Audition》海外徵選，進入Cube當練習生，2016年正式加入CLC。\[18\]
 
 2016年，**恩彬**以練習生身份，參加Mnet選秀節目《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》後，正式加入CLC。
 
 ### 2015年
 
-**出道迷你專輯《First Love》、特別單曲《Eighteen》、迷你二輯《Question》** [CLC_in_Ttukseom_Hangang_Park,_3_June_2015_02.jpg](https://zh.wikipedia.org/wiki/File:CLC_in_Ttukseom_Hangang_Park,_3_June_2015_02.jpg "fig:CLC_in_Ttukseom_Hangang_Park,_3_June_2015_02.jpg")表演\]\] 3月9日，出道預告宣布3月19日出道\[31\]。3月18日，出道公演\[32\]，《First Love》主打曲《Pepe》和收錄曲《初戀》。3月19日，[Mnet](../Page/Mnet媒體.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。4月16日，特別單曲《Eighteen》。\[33\]
+**出道迷你專輯《First Love》、特別單曲《Eighteen》、迷你二輯《Question》** [CLC_in_Ttukseom_Hangang_Park,_3_June_2015_02.jpg](https://zh.wikipedia.org/wiki/File:CLC_in_Ttukseom_Hangang_Park,_3_June_2015_02.jpg "fig:CLC_in_Ttukseom_Hangang_Park,_3_June_2015_02.jpg")表演\]\] 3月9日，出道預告宣布3月19日出道\[19\]。3月18日，出道公演\[20\]，《First Love》主打曲《Pepe》和收錄曲《初戀》。3月19日，[Mnet](../Page/Mnet媒體.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。4月16日，特別單曲《Eighteen》。\[21\]
 
-5月28日，第二張迷你專輯《Question》，主打歌《Like》 MV。\[34\]
+5月28日，第二張迷你專輯《Question》，主打歌《Like》 MV。\[22\]
 
 ### 2016年
 
 **新成員加入、迷你三輯《REFRESH》、隊長變更、日本一輯《High Heels》、迷你四輯《NU.CLEAR》、日本二輯《Chamisma》** [160903_CLC_Asia_Music_Stage.jpg](https://zh.wikipedia.org/wiki/File:160903_CLC_Asia_Music_Stage.jpg "fig:160903_CLC_Asia_Music_Stage.jpg") 2月15日，網絡劇《Choco Bank》原聲帶《撲通撲通LOVE》。
 
-2月24日，於2月29日以第三張迷你專輯《Refresh》回歸，加入兩位新成員\[35\]。2月25日，第一位新成員Elkie\[36\]\[37\]\[38\]。2月26日，第二位新成員恩彬\[39\]。
+2月24日，於2月29日以第三張迷你專輯《Refresh》回歸，加入兩位新成員\[23\]。2月25日，第一位新成員Elkie\[24\]\[25\]\[26\]。2月26日，第二位新成員恩彬\[27\]。
 
-3月3日，Mnet《M\! Countdown》正式回歸。由於恩彬參加選秀節目《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，暫不參與活動。\[40\] 3月4日，於電台節目表示承姬卸任隊長，改由丞延擔任。3月6日，承姬及丞延於官方Fan Cafe確認。\[41\]
+3月3日，Mnet《M\! Countdown》正式回歸。由於恩彬參加選秀節目《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，暫不參與活動。\[28\] 3月4日，於電台節目表示承姬卸任隊長，改由丞延擔任。3月6日，承姬及丞延於官方Fan Cafe確認。\[29\]
 
-4月13日，首張日本迷你專輯《High Heels》出道。\[42\]4月17日，日本First Step Showcase。\[43\]
+4月13日，首張日本迷你專輯《High Heels》出道。\[30\]4月17日，日本First Step Showcase。\[31\]
 
-5月，恩彬完成《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，開始參與團體行程，檸檬為代表水果。\[44\] 5月30日，迷你4輯《NU.CLEAR》，以[新沙洞老虎](../Page/新沙洞老虎.md "wikilink")作品回歸\[45\]，主打歌《아니야 (No oh oh)》MV。\[46\]
+5月，恩彬完成《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，開始參與團體行程，檸檬為代表水果。\[32\] 5月30日，迷你4輯《NU.CLEAR》，以[新沙洞老虎](../Page/新沙洞老虎.md "wikilink")作品回歸\[33\]，主打歌《아니야 (No oh oh)》MV。\[34\]
 
-6月18日，恩彬因健康問題暫停活動。\[47\]6月22日，恩彬治療好轉繼續行程。\[48\]
+6月18日，恩彬因健康問題暫停活動。\[35\]6月22日，恩彬治療好轉繼續行程。\[36\]
 
-7月27日，第二張日本迷你專輯《Chamisma》，也是首張日本原創專輯，\[49\]得到公信榜單日排名第9位。\[50\]
+7月27日，第二張日本迷你專輯《Chamisma》，也是首張日本原創專輯，\[37\]得到公信榜單日排名第9位。\[38\]
 
 ### 2017年
 
 **迷你五輯《CRYSTYLE》、迷你六輯《FREE'SM》**
 
-1月17日，迷你五輯《CRYSTYLE》。\[51\]\[52\]主打歌《鬼怪（Hobgoblin）》MV獲得[Gaon榜之社交媒體榜](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")2017年第三週冠軍。\[53\]此外《CRYSTYLE》和其主打歌《鬼怪（Hobgoblin）》登上世界專輯榜（World Albums Charts）第六名，同星期在美國Billboard獲世界電子歌曲銷售量第四名（World Digital Songs Sales）。\[54\] 8月3日，迷你六輯《FREE'SM》，主打歌《在哪裡》。\[55\]
+1月17日，迷你五輯《CRYSTYLE》。\[39\]\[40\]主打歌《鬼怪（Hobgoblin）》MV獲得[Gaon榜之社交媒體榜](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")2017年第三週冠軍。\[41\]此外《CRYSTYLE》和其主打歌《鬼怪（Hobgoblin）》登上世界專輯榜（World Albums Charts）第六名，同星期在美國Billboard獲世界電子歌曲銷售量第四名（World Digital Songs Sales）。\[42\] 8月3日，迷你六輯《FREE'SM》，主打歌《在哪裡》。\[43\]
 
-12月13日，正式開設官方Instagram，此前為假冒帳號。\[56\]
+12月13日，正式開設官方Instagram，此前為假冒帳號。\[44\]
 
 ### 2018年
 
 **第二張特別單曲《To The Sky》、迷你七輯《Black Dress》、Elkie SoLo 《I Dream》**
 
-2月1日，數位單曲《To The Sky》發行。2月22日，迷你七輯《Black Dress》回歸。\[57\]
+2月1日，數位單曲《To The Sky》發行。2月22日，迷你七輯《Black Dress》回歸。\[45\]
 
 3月10日，參與師兄[BTOB](../Page/BTOB.md "wikilink")的[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")的首張迷你專輯《[Big Wave](../Page/Big_Wave_\(專輯\).md "wikilink")》回歸舞台。4月3日，公開收錄曲《Distance》MV。
 
 5月22日，睿恩成為[SBS MTV電視台音樂節目](https://zh.wikipedia.org/wiki/SBS_MTV "wikilink")《[The Show](https://zh.wikipedia.org/wiki/The_Show "wikilink")》固定主持人。
 
-11月23日，Elkie首張Solo單曲 《I dream》發行。\[58\]
+11月23日，Elkie首張Solo單曲 《I dream》發行。\[46\]
 
-12月，Billboard's The 20 Best K-pop Songs of 2018，《Black Dress》排名14位。\[59\]
+12月，Billboard's The 20 Best K-pop Songs of 2018，《Black Dress》排名14位。\[47\]
 
 ### 2019年
 
 **迷你八輯《No.1》、初一位、數位單曲《ME》、第二張數位單曲《Devil》**
 
-1月30日，迷你八輯《[No.1](https://zh.wikipedia.org/wiki/No.1 "wikilink")》回歸。2月7日，CLC首次進入M countdown一位候補。\[60\]。2月9日，迷你八輯《[No.1](https://zh.wikipedia.org/wiki/No.1 "wikilink")》其主打歌《No》登上Billboard's World Albums Chart第五位。
+1月30日，迷你八輯《[No.1](https://zh.wikipedia.org/wiki/No.1 "wikilink")》回歸。2月7日，CLC首次進入M countdown一位候補。\[48\]。2月9日，迷你八輯《[No.1](https://zh.wikipedia.org/wiki/No.1 "wikilink")》其主打歌《No》登上Billboard's World Albums Chart第五位。
 
-2月12日，CLC於 SBS MTV 的《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》中，拿下自出道1427天以來的初一位\[61\]\[62\]，為目前獲得一位所花時間最多的女團。2月13日，宣傳期間首度登上《[Show Champion](../Page/Show_Champion.md "wikilink")》的一位候補。2月19日，CLC再度於 SBS MTV 的《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》獲得第二個一位。
+2月12日，CLC於 SBS MTV 的《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》中，拿下自出道1427天以來的初一位\[49\]\[50\]，為目前獲得一位所花時間最多的女團。2月13日，宣傳期間首度登上《[Show Champion](../Page/Show_Champion.md "wikilink")》的一位候補。2月19日，CLC再度於 SBS MTV 的《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》獲得第二個一位。
 
 5月29日，時隔4個月以《[ME(美)](../Page/Me_\(CLC單曲\).md "wikilink")》回歸，並於韓國時間下午六時公開《ME(美)》MV、音源，在Bugs的排行榜拿下實時7位和Soribada排行榜的93位。
 
@@ -245,15 +218,15 @@ PlotData =
 
 | 年份                  | 雜誌           | 期數          |           |
 | ------------------- | ------------ | ----------- | --------- |
-| 2015                | CeCi         | June 2015   | \[63\]    |
-| THE STAR            | June 2015    | \[64\]      |           |
-| GANGEE              | July 21      | \[65\]      |           |
-| BNT International   | Aug 2015     | \[66\]      |           |
-| ARENA HOMME+        | OCT 2015     | \[67\]      |           |
-| 2016                | CeCi         | June 2016   | \[68\]    |
-| My Wedding Magazine | Sep 2016     | \[69\]      |           |
-| 2018                | Men's Health | April 2018  | 丞延 \[70\] |
-| Sudsapda Magazine   | Aug 2018     | Sorn \[71\] |           |
+| 2015                | CeCi         | June 2015   | \[51\]    |
+| THE STAR            | June 2015    | \[52\]      |           |
+| GANGEE              | July 21      | \[53\]      |           |
+| BNT International   | Aug 2015     | \[54\]      |           |
+| ARENA HOMME+        | OCT 2015     | \[55\]      |           |
+| 2016                | CeCi         | June 2016   | \[56\]    |
+| My Wedding Magazine | Sep 2016     | \[57\]      |           |
+| 2018                | Men's Health | April 2018  | 丞延 \[58\] |
+| Sudsapda Magazine   | Aug 2018     | Sorn \[59\] |           |
 
 ## 演唱會及公演活動
 
@@ -279,14 +252,14 @@ PlotData =
 <td><p>3月18日</p></td>
 <td><p>First Love Debut Showcase</p></td>
 <td><p>首爾 AX Korea</p></td>
-<td><p>迷你一輯出道 [72]</p></td>
+<td><p>迷你一輯出道 [60]</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月10日 - 11日</p></td>
 <td><p>CLC First Love Promo Tour in Malaysia</p></td>
 <td><p>1Borneo Hypermall,GF Centre in Sabah Atrium<br />
 Berjaya Times Square KL, LG Concourse</p></td>
-<td><p>Promo Tour [73] [74]</p></td>
+<td><p>Promo Tour [61] [62]</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年</p></td>
@@ -304,7 +277,7 @@ Berjaya Times Square KL, LG Concourse</p></td>
 <td><p>5月30日</p></td>
 <td><p>Nu.Clear Comeback Showcase</p></td>
 <td><p>首爾 Lotte Card Art Center</p></td>
-<td><p>迷你四輯回歸 [75]</p></td>
+<td><p>迷你四輯回歸 [63]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
@@ -322,25 +295,25 @@ Berjaya Times Square KL, LG Concourse</p></td>
 <td><p>1月8日</p></td>
 <td><p>Special Mini Fanmeeting</p></td>
 <td><p>日本 Tower Record Shibuya</p></td>
-<td><p>[76]</p></td>
+<td><p>[64]</p></td>
 </tr>
 <tr class="even">
 <td><p>1月17日</p></td>
 <td><p>Crystyle Comeback Showcase</p></td>
 <td><p>首爾 Yes 24 Live Hall</p></td>
-<td><p>迷你五輯回歸 [77]</p></td>
+<td><p>迷你五輯回歸 [65]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月27日</p></td>
 <td><p>2017 Cheshire 入學式</p></td>
 <td><p>首爾奧林匹克場館 Muse Live Hall</p></td>
-<td><p>Cheshire一期會員創建式 [78]</p></td>
+<td><p>Cheshire一期會員創建式 [66]</p></td>
 </tr>
 <tr class="even">
 <td><p>8月3日</p></td>
 <td><p>Free'SM Comeback Showcase</p></td>
 <td><p>首爾 Yes 24 Live Hall</p></td>
-<td><p>迷你六輯回歸 [79]</p></td>
+<td><p>迷你六輯回歸 [67]</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月11日</p></td>
@@ -370,7 +343,7 @@ Berjaya Times Square KL, LG Concourse</p></td>
 <td><p>2月22日</p></td>
 <td><p>Black Dress Comeback Showcase</p></td>
 <td><p>首爾 Blue Square IMarket Hall</p></td>
-<td><p>迷你七輯回歸 [80]</p></td>
+<td><p>迷你七輯回歸 [68]</p></td>
 </tr>
 <tr class="even">
 <td><p>3月18日</p></td>
@@ -431,62 +404,65 @@ Berjaya Times Square KL, LG Concourse</p></td>
 
 ### 公演活動
 
-| 日期           | 活動名稱                                             | 舉行地點                                        | 備註/新聞                                                               |
-| ------------ | ------------------------------------------------ | ------------------------------------------- | ------------------------------------------------------------------- |
-| 2015年        |                                                  |                                             |                                                                     |
-| 5月23日        | 2015 Dream Concert 夢想演唱會                         | 首爾世界盃競技場（上岩洞）                               | \[81\]                                                              |
-| 9月20日        | 2015 韓流夢想音樂節                                     | 韓國慶州市民運動場                                   | \[82\]                                                              |
-| 9月30日        | CUBE FESTIVAL                                    | 中國上海體育館                                     | \[83\]                                                              |
-| 2016年        |                                                  |                                             |                                                                     |
-| 4月9-10日      | 2016 KCON Japan                                  | 日本千葉縣幕張展覽館                                  | \[84\]                                                              |
-| 6月4日         | 2016 Dream Concert 夢想演唱會                         | 首爾世界盃競技場（上岩洞）                               | \[85\]                                                              |
-| 9月3日         | ASIA MUSIC STAGE 最強音                             | 三立電視台                                       | \[86\]\[87\]                                                        |
-| 10月1日至10月14日 | 2016 DMC 超級盛典                                    | MBC                                         |                                                                     |
-| 2017年        |                                                  |                                             |                                                                     |
-| 5月20日        | KCON 2017 JAPAN x M COUNTDOWN                    | 日本千葉縣幕張展覽館                                  | \[88\]                                                              |
-| 6月3日         | 2017 Dream Concert 夢想演唱會                         | 首爾世界盃競技場                                    | \[89\]                                                              |
-| 9月3日         | 2017 仁川機場 Sky Festival                           | 仁川國際機場草地廣場                                  | \[90\]                                                              |
-| 9月10日        | M Super Concert                                  |                                             |                                                                     |
-| 9月24日        | 10th Anniversary KMF 2017                        | 横浜アリーナ                                      | \[91\]                                                              |
-| 9月30日        | Fandom School Korean Music Festival              | 首爾高尺洞高尺巨蛋                                   | \[92\]                                                              |
-| 10月20日       | Sharing Angel Concert                            |                                             |                                                                     |
-| 11月4日        | 2017 Dream Concert 夢想演唱會 in 平昌                   | 江原道平昌冬奧會場                                   |                                                                     |
-| 12月2日        | Youth Song Festival                              |                                             |                                                                     |
-| 12月8日        | MBN Hero Concert                                 |                                             |                                                                     |
-| 長期           | K-Force Special Show                             |                                             |                                                                     |
-| 2018年        |                                                  |                                             |                                                                     |
-| 2月14日        | K-POP World Festa Pyeong Chang 2018              | Gangneung-Wonju National University Stadium | \[93\]                                                              |
-| 3月20日        | 2018 F/W Seoul Fashion Week                      | 東大門 DDP GREEDILOUS 專場                       | 睿恩（模特）                                                              |
-| 3月21日        | 2018 F/W Seoul Fashion Week                      | 東大門 DDP JARRET 專場                           | 恩彬（模特）                                                              |
-| 4月14日        | 2018 Walk Together Incheon Festa                 | Incheon Songdo                              |                                                                     |
-| 6月16日        | 2018 UNITED CUBE -ONE- CONCERT                   | KINTEX                                      | [United Cube](https://zh.wikipedia.org/wiki/United_Cube "wikilink") |
-| 7月5日         | M Countdown in Taipei                            | 台北小巨蛋                                       |                                                                     |
-| 7月28日        | K-STAR Concert                                   | 高麗大學 化汀體育館                                  |                                                                     |
-| 9月1日         | Incheon K-pop Concert 2018                       | Incheon Munhak Stadium                      |                                                                     |
-| 10月2日        | The Hong Kong Youth Concert                      | Hong Kong Coliseum                          |                                                                     |
-| 10月5日        | 昌原K-POP World Festival                           | 昌原綜合運動場                                     |                                                                     |
-| 10月26日       | 2018 실연자 페스티벌 - KMPF                             | 奧林匹克公園奧林匹克大廳                                |                                                                     |
-| 12月9日        | K City Camp 2018 in Indonesia with GFRIEND & CLC | Istora Senayan, Jakarta                     |                                                                     |
-| 2019年        |                                                  |                                             |                                                                     |
-| 2月21日        | KBS Open Concert                                 |                                             |                                                                     |
-| 3月1日         | One K Concert                                    |                                             |                                                                     |
-| 3月23日        | U & CUBE FESTIVAL 2019 IN JAPAN                  | 東京・武蔵野の森総合スポーツプラザ                           | [United Cube](https://zh.wikipedia.org/wiki/United_Cube "wikilink") |
-| 4月20日        | 평화이음 토요콘서트2019                                   |                                             |                                                                     |
-| 4月23日        | Korea Assistive Technology Device Fair           |                                             |                                                                     |
-| 4月26日        | MBC SPECIAL CONCERT                              |                                             |                                                                     |
-| 5月10日        | GY Festival                                      |                                             |                                                                     |
-| 5月18日        | 2019 Dream Concert 夢想演唱會                         | 首爾世界盃競技場（上岩洞）                               |                                                                     |
-| 5月25日        | Seowon Valley Green Concert                      |                                             |                                                                     |
-| 7月6日         | Seoul Sevens Rugby Festival                      | Yonsei University                           |                                                                     |
-| 7月17日        | Hello, K\! 2019                                  | Yonsei University                           |                                                                     |
-| 7月28日        | Mid summer Festival - 부산                         |                                             |                                                                     |
-| 8月15日        | Water Bomb Daejeon 2019                          |                                             |                                                                     |
-| 8月16日        | K월드 페스타 K-WORLD FESTA                            | 首爾奧林匹克公園                                    |                                                                     |
-| 8月22日        | 2019 SORIBADA BEST K-MUSIC AWARDS                | 首爾奧林匹克公園                                    |                                                                     |
-| 8月25日        | 2019 K-ASIAN FESTIVAL in INCHEON                 | 韓國仁川                                        |                                                                     |
-| 8月31日        | K-CONTENT EXPO RUSSIA 2019                       | 俄羅斯莫斯科                                      |                                                                     |
-| 9月22日        | K CRUSH 2019                                     | 泰國曼谷                                        |                                                                     |
-| 10月6日        | SMUF KPOP (Seoul Music Festival)                 | Gwanghwamun                                 |                                                                     |
+| 日期           | 活動名稱                                                                  | 舉行地點                                        | 備註/新聞                                                               |
+| ------------ | --------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------------- |
+| 2015年        |                                                                       |                                             |                                                                     |
+| 5月23日        | 2015 Dream Concert 夢想演唱會                                              | 首爾世界盃競技場（上岩洞）                               | \[69\]                                                              |
+| 9月20日        | 2015 韓流夢想音樂節                                                          | 韓國慶州市民運動場                                   | \[70\]                                                              |
+| 9月30日        | CUBE FESTIVAL                                                         | 中國上海體育館                                     | \[71\]                                                              |
+| 2016年        |                                                                       |                                             |                                                                     |
+| 4月9-10日      | 2016 KCON Japan                                                       | 日本千葉縣幕張展覽館                                  | \[72\]                                                              |
+| 6月4日         | 2016 Dream Concert 夢想演唱會                                              | 首爾世界盃競技場（上岩洞）                               | \[73\]                                                              |
+| 9月3日         | ASIA MUSIC STAGE 最強音                                                  | 三立電視台                                       | \[74\]\[75\]                                                        |
+| 10月1日至10月14日 | 2016 DMC 超級盛典                                                         | MBC                                         |                                                                     |
+| 2017年        |                                                                       |                                             |                                                                     |
+| 5月20日        | KCON 2017 JAPAN x M COUNTDOWN                                         | 日本千葉縣幕張展覽館                                  | \[76\]                                                              |
+| 6月3日         | 2017 Dream Concert 夢想演唱會                                              | 首爾世界盃競技場                                    | \[77\]                                                              |
+| 9月3日         | 2017 仁川機場 Sky Festival                                                | 仁川國際機場草地廣場                                  | \[78\]                                                              |
+| 9月10日        | M Super Concert                                                       |                                             |                                                                     |
+| 9月24日        | 10th Anniversary KMF 2017                                             | 横浜アリーナ                                      | \[79\]                                                              |
+| 9月30日        | Fandom School Korean Music Festival                                   | 首爾高尺洞高尺巨蛋                                   | \[80\]                                                              |
+| 10月20日       | Sharing Angel Concert                                                 |                                             |                                                                     |
+| 11月4日        | 2017 Dream Concert 夢想演唱會 in 平昌                                        | 江原道平昌冬奧會場                                   |                                                                     |
+| 12月2日        | Youth Song Festival                                                   |                                             |                                                                     |
+| 12月8日        | MBN Hero Concert                                                      |                                             |                                                                     |
+| 長期           | K-Force Special Show                                                  |                                             |                                                                     |
+| 2018年        |                                                                       |                                             |                                                                     |
+| 2月14日        | K-POP World Festa Pyeong Chang 2018                                   | Gangneung-Wonju National University Stadium | \[81\]                                                              |
+| 3月20日        | 2018 F/W Seoul Fashion Week                                           | 東大門 DDP GREEDILOUS 專場                       | 睿恩（模特）                                                              |
+| 3月21日        | 2018 F/W Seoul Fashion Week                                           | 東大門 DDP JARRET 專場                           | 恩彬（模特）                                                              |
+| 4月14日        | 2018 Walk Together Incheon Festa                                      | Incheon Songdo                              |                                                                     |
+| 6月16日        | 2018 UNITED CUBE -ONE- CONCERT                                        | KINTEX                                      | [United Cube](https://zh.wikipedia.org/wiki/United_Cube "wikilink") |
+| 7月5日         | M Countdown in Taipei                                                 | 台北小巨蛋                                       |                                                                     |
+| 7月28日        | K-STAR Concert                                                        | 高麗大學 化汀體育館                                  |                                                                     |
+| 9月1日         | Incheon K-pop Concert 2018                                            | Incheon Munhak Stadium                      |                                                                     |
+| 10月2日        | The Hong Kong Youth Concert                                           | Hong Kong Coliseum                          |                                                                     |
+| 10月5日        | 昌原K-POP World Festival                                                | 昌原綜合運動場                                     |                                                                     |
+| 10月26日       | 2018 실연자 페스티벌 - KMPF                                                  | 奧林匹克公園奧林匹克大廳                                |                                                                     |
+| 12月9日        | K City Camp 2018 in Indonesia with GFRIEND & CLC                      | Istora Senayan, Jakarta                     |                                                                     |
+| 2019年        |                                                                       |                                             |                                                                     |
+| 2月21日        | KBS Open Concert                                                      |                                             |                                                                     |
+| 3月1日         | One K Concert                                                         |                                             |                                                                     |
+| 3月23日        | U & CUBE FESTIVAL 2019 IN JAPAN                                       | 東京・武蔵野の森総合スポーツプラザ                           | [United Cube](https://zh.wikipedia.org/wiki/United_Cube "wikilink") |
+| 4月20日        | 평화이음 토요콘서트2019                                                        |                                             |                                                                     |
+| 4月23日        | Korea Assistive Technology Device Fair                                |                                             |                                                                     |
+| 4月26日        | MBC SPECIAL CONCERT                                                   |                                             |                                                                     |
+| 5月10日        | GY Festival                                                           |                                             |                                                                     |
+| 5月18日        | 2019 Dream Concert 夢想演唱會                                              | 首爾世界盃競技場（上岩洞）                               |                                                                     |
+| 5月25日        | Seowon Valley Green Concert                                           |                                             |                                                                     |
+| 7月6日         | Seoul Sevens Rugby Festival                                           | Yonsei University                           |                                                                     |
+| 7月17日        | Hello, K\! 2019                                                       | Yonsei University                           |                                                                     |
+| 7月28日        | Mid summer Festival - 부산                                              |                                             |                                                                     |
+| 8月15日        | Water Bomb Daejeon 2019                                               |                                             |                                                                     |
+| 8月16日        | K월드 페스타 K-WORLD FESTA                                                 | 首爾奧林匹克公園                                    |                                                                     |
+| 8月22日        | 2019 SORIBADA BEST K-MUSIC AWARDS                                     | 首爾奧林匹克公園                                    |                                                                     |
+| 8月25日        | 2019 K-ASIAN FESTIVAL in INCHEON                                      | 韓國仁川                                        |                                                                     |
+| 8月31日        | K-CONTENT EXPO RUSSIA 2019                                            | 俄羅斯莫斯科                                      |                                                                     |
+| 9月22日        | K CRUSH 2019                                                          | 泰國曼谷                                        |                                                                     |
+| 9月27日        | KBS Open Concert                                                      |                                             |                                                                     |
+| 10月1、6日      | SMUF KPOP (Seoul Music Festival)                                      | Gwanghwamun                                 |                                                                     |
+| 10月20日       | 2019 K-POP 굿즈 플리마켓 (K-POP Goods Flea Market)                          |                                             |                                                                     |
+| 10月25日       | 2019 Hope Big for Multicultural Families Concert (다문화가정돕기 희망 Big 콘서트) |                                             |                                                                     |
 
 ## 獎項
 
@@ -669,7 +645,7 @@ Berjaya Times Square KL, LG Concourse</p></td>
 
   -
   -
-  - [CLC 日本](https://clcofficial.com)的官方網站
+  - [CLC 日本](https://web.archive.org/web/20190401001712/https://clcofficial.com/)的官方網站
 
   -
   - [CLC 日本](https://www.youtube.com/channel/UC0-VecYNeMa0hMlMkCVAvHg) 的Youtube頻道
@@ -692,186 +668,83 @@ Berjaya Times Square KL, LG Concourse</p></td>
 [Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:CLC](https://zh.wikipedia.org/wiki/Category:CLC "wikilink") [Category:Cube娛樂旗下團體](https://zh.wikipedia.org/wiki/Category:Cube娛樂旗下團體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
-5.
-
+5.  [The Star Profile 張丞演](http://thestar.chosun.com/site/data/html_dir/2017/08/21/2017082102500.html)  2017-08-25
 6.
-
-7.  [組合CLC 官方微博](http://tw.weibo.com/cubeclc) 。
-
-8.  [2016年9月1日環球音樂K-POP臉書正名 吳承姫 張丞延 SORN 崔有鎭 張睿恩 莊錠欣 權恩彬](https://www.facebook.com/Umusic.JKPOP/photos/a.260040747449.141783.251736272449/10154571559607450/?type=3)，經紀公司確認漢字正名 。
-
-9.  [The Star Profile 吳承姬](http://thestar.chosun.com/site/data/html_dir/2017/08/21/2017082102498.html)  2017-08-25
-
-10. [The Star Profile 崔有眞](http://thestar.chosun.com/site/data/html_dir/2017/08/21/2017082102499.html)  2017-08-25
-
-11. [M+日常訪問 崔有眞](http://entertain.naver.com/read?oid=057&aid=0001168351) 2017-08-30
-
-12. [The Star Profile 張丞演](http://thestar.chosun.com/site/data/html_dir/2017/08/21/2017082102500.html)  2017-08-25
-
-13. [Chonnasorn Sajakul](http://thestar.chosun.com/site/data/html_dir/2017/08/21/2017082102501.html) 2017-08-25
-
-14. [Sorn Live Stream](https://www.youtube.com/watch?v=57w19-oQsTo) 2017-03-27
-
-15.
-
-16. [‘주간아’ CLC 손 “한국이름 김소은, 병원갈 때 손님으로 불리기 싫어서”](https://www.msn.com/ko-kr/entertainment/news/%EC%A3%BC%EA%B0%84%EC%95%84-clc-%EC%86%90-%E2%80%9C%ED%95%9C%EA%B5%AD%EC%9D%B4%EB%A6%84-%EA%B9%80%EC%86%8C%EC%9D%80-%EB%B3%91%EC%9B%90%EA%B0%88-%EB%95%8C-%EC%86%90%EB%8B%98%EC%9C%BC%EB%A1%9C-%EB%B6%88%EB%A6%AC%EA%B8%B0-%EC%8B%AB%EC%96%B4%EC%84%9C%E2%80%9D/ar-BBSW5KQ) 2019-01-30
-
-17. [The Star Profile 張睿恩](http://thestar.chosun.com/site/data/html_dir/2017/08/21/2017082102502.html)  2017-08-25
-
-18. [The Star Profile 莊錠欣](http://thestar.chosun.com/site/data/html_dir/2017/08/21/2017082102505.html) 2017-08-25
-
-19. [M+日常訪問 權恩彬](http://star.mbn.co.kr/view.php?year=2017&no=583268) 2017-08-31
-
+7.  [‘주간아’ CLC 손 “한국이름 김소은, 병원갈 때 손님으로 불리기 싫어서”](https://www.msn.com/ko-kr/entertainment/news/%EC%A3%BC%EA%B0%84%EC%95%84-clc-%EC%86%90-%E2%80%9C%ED%95%9C%EA%B5%AD%EC%9D%B4%EB%A6%84-%EA%B9%80%EC%86%8C%EC%9D%80-%EB%B3%91%EC%9B%90%EA%B0%88-%EB%95%8C-%EC%86%90%EB%8B%98%EC%9C%BC%EB%A1%9C-%EB%B6%88%EB%A6%AC%EA%B8%B0-%EC%8B%AB%EC%96%B4%EC%84%9C%E2%80%9D/ar-BBSW5KQ) 2019-01-30
+8.
+9.
+10.
+11.
+12.
+13.
+14. [씨엘씨(CLC) - CLC's Love Chemistry \#2](https://www.youtube.com/watch?v=IX1CQCTjKFM) 2015-3-16
+15. [Rainbow Concert](http://www.instiz.net/pt?no=4157413) 2016-10-24
+16.
+17.
+18. [2016 CUBE STAR WORLD AUDITIONS 2 - 대만,홍콩 (CLC)](https://www.youtube.com/watch?v=--6X73Hj97E) 2016-4-12
+19.
 20.
-
 21.
-
-22.
-
+22. [CLC《Like》MV 公開](http://kpopn.com/2015/05/28/277937/)  2015年5月28日}
 23.
 24.
-
 25.
-
-26. [씨엘씨(CLC) - CLC's Love Chemistry \#2](https://www.youtube.com/watch?v=IX1CQCTjKFM) 2015-3-16
-
-27. [Rainbow Concert](http://www.instiz.net/pt?no=4157413) 2016-10-24
-
+26. [夢想成真！來自香港的Elkie加入CLC成為 4 Minute的師妹](http://www.vlovekpop.com/clc-new-member-hk-elkie/)vlovekpop
+27.
 28.
-
 29.
-
-30. [2016 CUBE STAR WORLD AUDITIONS 2 - 대만,홍콩 (CLC)](https://www.youtube.com/watch?v=--6X73Hj97E) 2016-4-12
-
+30. [CLC日韓同時投入活動，4月13日，日本迷你專輯《High Heels》發行](http://www.vlovekpop.com/clc%E6%97%A5%E9%9F%93%E5%90%8C%E6%99%82%E6%8A%95%E5%85%A5%E6%B4%BB%E5%8B%95%EF%BC%8C4%E6%9C%88%E6%97%A5%E6%9C%AC%E8%BF%B7%E4%BD%A0%E5%B0%88%E8%BC%AF%E3%80%8Ahigh-heels%E3%80%8B%E7%99%BC%E8%A1%8C/) vlovekpop
 31.
-
 32.
-
 33.
-
-34. [CLC《Like》MV 公開](http://kpopn.com/2015/05/28/277937/) 2015年5月28日}
-
+34.
 35.
-
 36.
-
 37.
-
-38. [夢想成真！來自香港的Elkie加入CLC成為 4 Minute的師妹](http://www.vlovekpop.com/clc-new-member-hk-elkie/)vlovekpop
-
-39.
-
-40.
-
-41.
-
-42. [CLC日韓同時投入活動，4月13日，日本迷你專輯《High Heels》發行](http://www.vlovekpop.com/clc%E6%97%A5%E9%9F%93%E5%90%8C%E6%99%82%E6%8A%95%E5%85%A5%E6%B4%BB%E5%8B%95%EF%BC%8C4%E6%9C%88%E6%97%A5%E6%9C%AC%E8%BF%B7%E4%BD%A0%E5%B0%88%E8%BC%AF%E3%80%8Ahigh-heels%E3%80%8B%E7%99%BC%E8%A1%8C/) vlovekpop
-
+38. [只用了五個月時間攻陷日本周榜！CLC以大勢新人姿態威脅其他歌手地位！](http://www.vlovekpop.com/20160804-clc/) vlovekpop
+39. [CLC 加入女團大戰　攜〈Crystyle〉回歸在即](http://www.koreastardaily.com/tc/news/89247)
+40. [師姐滿滿的愛！CLC 主打曲《鬼怪》由泫雅作詞](http://www.vlovekpop.com/20170110-clc/) vlovekpop
+41. [2017年 第3週 Gaon Social Chart](http://gaonchart.co.kr/main/section/chart/social.gaon?nationGbn=S&serviceGbn=&targetTime=03&hitYear=2017&termGbn=week) \#1
+42.
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
-50. [只用了五個月時間攻陷日本周榜！CLC以大勢新人姿態威脅其他歌手地位！](http://www.vlovekpop.com/20160804-clc/) vlovekpop
-
-51. [CLC 加入女團大戰　攜〈Crystyle〉回歸在即](http://www.koreastardaily.com/tc/news/89247)
-
-52. [師姐滿滿的愛！CLC 主打曲《鬼怪》由泫雅作詞](http://www.vlovekpop.com/20170110-clc/) vlovekpop
-
-53. [2017年 第3週 Gaon Social Chart](http://gaonchart.co.kr/main/section/chart/social.gaon?nationGbn=S&serviceGbn=&targetTime=03&hitYear=2017&termGbn=week) \#1
-
-54.
-
-55.
-
-56.
-
-57.
-
-58.
-
-59.
-
-60.
-
-61.
-
-62.
-
-63. [CLC looking lovable in their latest photoshoot with 'CeCi' + what role does each member have?](https://www.allkpop.com/article/2015/05/clc-looking-lovable-in-their-latest-photoshoot-with-ceci-what-role-does-each-member-have)
-
-64. [CLC shows different charms for THE STAR](http://girlgroupzone.blogspot.hk/2015/06/clc-shows-different-charms-for-star.html#.WqoA62pubIU)
-
-65. [CLC FEATURE IN PICTORIAL FOR ‘GANGEE’ MAGAZINE (JULY 2015)](http://www.kpopfans.net/2015/07/clc-feature-in-pictorial-for-gangee-magazine-july-2015/)
-
-66. [Rookie Girl Group CLC Rock Stylenanda In BNT International Pictorial](http://www.kpopstarz.com/articles/229476/20150811/clc-kpop-stylenanda.htm)
-
-67. [CLC FEATURES IN PICTORIAL FOR ‘ARENA HOMME+’ (OCTOBER 2015)](http://www.kpopfans.net/2015/09/clc-features-in-pictorial-for-arena-homme-october-2015/)
-
-68. [CLC enjoy the pool in summery 'CeCi' shoot](https://www.allkpop.com/article/2016/06/clc-enjoy-the-pool-in-summery-ceci-shoot)
-
-69. [Heavenly Angels](http://mywedding.designhouse.co.kr/in_magazine/sub.html?at=view&info_id=75212)
-
-70. [설특집 2018 아육대 에서 멋지게 곤봉을 돌리던 그녀, CLC의 승연](https://www.instagram.com/p/BgSeCn5hUb1/)
-
-71. [My first exclusive interview with @sudsapda magazine](https://www.instagram.com/p/Bl745Vrl6DC/)
-
-72. [Z현장영상 큐브 신인 씨엘씨(CLC), '안무 만들어주신 비 선배님께 감사' (씨엘씨 쇼케이스) CLC SHOWCASE](https://www.youtube.com/watch?v=aWRTsHtA9zY)，2018-02-02
-
-73. [CLC CUBE’s New Girl Group Melts Fans’ Hearts At First Malaysian Showcase](https://hype.my/2015/82897/clc-cubes-new-girl-group)，2015-10-22
-
-74. [CLC FIRST SHOWCASE IN KUALA LUMPUR IS A SUCCESS\!](http://k-popped.com/2015/10/event-coverage-clc-first-showcase-in-kuala-lumpur-is-a-success)，2015-10-18
-
-75. [NO CUT 씨엘씨, 4집 '뉴 클리어'' 발매 showcase 현장](https://www.youtube.com/watch?v=tgksF7Gqsrc)，2018-02-02
-
-76. [CLC Meets Fans Through First Japan Fan Meeting](http://mwave.interest.me/en/kpop-news/article/111563/clc-meets-fans-through-first-japan-fan-meeting-all-kpop-news) ，2017-01-09
-
-77. [풀영상 CLC(씨엘씨) 'Hobgoblin'(도깨비) Showcase (CRYSTYLE, Hyuna, 현아, Liar, Mistake, Meow Meow) 통통영상](https://www.youtube.com/watch?v=Ako6S_4wNBo)，2018-02-02
-
-78. [CLC出道三年首辦粉絲俱樂部創建儀式](http://www.allthatstar.com/tw/view.php?action=5207&postID=337709)，2017-05-26
-
-79. [풀영상 CLC(씨엘씨) 'Where are you?' Showcase (FREE'SM, 프리즘, 어디야?, SUMMER KISS, 쇼케이스)](https://www.youtube.com/watch?v=g637a9cnz6o)，2018-02-02
-
-80. [풀영상 CLC(씨엘씨) 'BLACK DRESS' Showcase (쇼케이스, 블랙 드레스, To the sky)](https://www.youtube.com/watch?v=jFChjIA-Pf4)，2018-02-02
-
-81. [CLC出演2015夢想演唱會](http://www.allthatstar.com/tw/view.php?action=5205&postID=85197)，2015-05-24
-
-82. [2015《韓流夢想演唱會》出演名單](http://kpopn.niusnews.com/=K0hht443) ，2015-09-08
-
-83. [Cube Festival發佈會：旗下藝人歡聚一堂](http://www.koreastardaily.com/tc/photo/67642)，2015-09-01
-
-84. [KCON 2016 Japan！](http://kconjapan.com/history/2016)，2016-04-09
-
-85. [2016《夢想演唱會》第二波出演名單](http://kpopn.niusnews.com/=K1dro9b5)，2016-05-05
-
-86. [CLC 9月3日來台參加 MTV 最強音](http://kpopn.niusnews.com/=K3tt8ij2)，2016-08-18
-
-87.
-
-88. [KCON 2017 JAPAN x M COUNTDOWN](http://www.kconjapan.com/news.php?newsno=1)  2017-4-5
-
-89. [2017 夢想演唱會](https://www.youtube.com/watch?v=JNgESwdGNFc)，2017-06-15
-
-90. [2017仁川機場 SKY FESTIVAL](http://tchinese.visitseoul.net/event-festival/2017%E4%BB%81%E5%B7%9D%E6%A9%9F%E5%A0%B4SKY-FESTIVAL_/22641?curPage=1) ，2017-09-03
-
-91. [10th Anniversary KMF2017 第2ラインナップ 2組発表](http://korepo.com/archives/332138)，2017-06-16
-
-92. [Fandom School Korean Music Festival 2017](http://blog.naver.com/kmf4you) 2017-9-5
-
-93. [Show Champion EP.259 CLC -To the sky CLC - 투더 스카이](https://www.youtube.com/watch?v=QiTpWKv7Mko)
+50.
+51. [CLC looking lovable in their latest photoshoot with 'CeCi' + what role does each member have?](https://www.allkpop.com/article/2015/05/clc-looking-lovable-in-their-latest-photoshoot-with-ceci-what-role-does-each-member-have)
+52. [CLC shows different charms for THE STAR](http://girlgroupzone.blogspot.hk/2015/06/clc-shows-different-charms-for-star.html#.WqoA62pubIU)
+53. [CLC FEATURE IN PICTORIAL FOR ‘GANGEE’ MAGAZINE (JULY 2015)](http://www.kpopfans.net/2015/07/clc-feature-in-pictorial-for-gangee-magazine-july-2015/)
+54. [Rookie Girl Group CLC Rock Stylenanda In BNT International Pictorial](http://www.kpopstarz.com/articles/229476/20150811/clc-kpop-stylenanda.htm)
+55. [CLC FEATURES IN PICTORIAL FOR ‘ARENA HOMME+’ (OCTOBER 2015)](http://www.kpopfans.net/2015/09/clc-features-in-pictorial-for-arena-homme-october-2015/)
+56. [CLC enjoy the pool in summery 'CeCi' shoot](https://www.allkpop.com/article/2016/06/clc-enjoy-the-pool-in-summery-ceci-shoot)
+57. [Heavenly Angels](http://mywedding.designhouse.co.kr/in_magazine/sub.html?at=view&info_id=75212)
+58. [설특집 2018 아육대 에서 멋지게 곤봉을 돌리던 그녀, CLC의 승연](https://www.instagram.com/p/BgSeCn5hUb1/)
+59. [My first exclusive interview with @sudsapda magazine](https://www.instagram.com/p/Bl745Vrl6DC/)
+60. [Z현장영상 큐브 신인 씨엘씨(CLC), '안무 만들어주신 비 선배님께 감사' (씨엘씨 쇼케이스) CLC SHOWCASE](https://www.youtube.com/watch?v=aWRTsHtA9zY)，2018-02-02
+61. [CLC CUBE’s New Girl Group Melts Fans’ Hearts At First Malaysian Showcase](https://hype.my/2015/82897/clc-cubes-new-girl-group)，2015-10-22
+62. [CLC FIRST SHOWCASE IN KUALA LUMPUR IS A SUCCESS\!](http://k-popped.com/2015/10/event-coverage-clc-first-showcase-in-kuala-lumpur-is-a-success)，2015-10-18
+63. [NO CUT 씨엘씨, 4집 '뉴 클리어'' 발매 showcase 현장](https://www.youtube.com/watch?v=tgksF7Gqsrc)，2018-02-02
+64. [CLC Meets Fans Through First Japan Fan Meeting](http://mwave.interest.me/en/kpop-news/article/111563/clc-meets-fans-through-first-japan-fan-meeting-all-kpop-news) ，2017-01-09
+65. [풀영상 CLC(씨엘씨) 'Hobgoblin'(도깨비) Showcase (CRYSTYLE, Hyuna, 현아, Liar, Mistake, Meow Meow) 통통영상](https://www.youtube.com/watch?v=Ako6S_4wNBo)，2018-02-02
+66. [CLC出道三年首辦粉絲俱樂部創建儀式](http://www.allthatstar.com/tw/view.php?action=5207&postID=337709)，2017-05-26
+67. [풀영상 CLC(씨엘씨) 'Where are you?' Showcase (FREE'SM, 프리즘, 어디야?, SUMMER KISS, 쇼케이스)](https://www.youtube.com/watch?v=g637a9cnz6o)，2018-02-02
+68. [풀영상 CLC(씨엘씨) 'BLACK DRESS' Showcase (쇼케이스, 블랙 드레스, To the sky)](https://www.youtube.com/watch?v=jFChjIA-Pf4)，2018-02-02
+69. [CLC出演2015夢想演唱會](http://www.allthatstar.com/tw/view.php?action=5205&postID=85197)，2015-05-24
+70. [2015《韓流夢想演唱會》出演名單](http://kpopn.niusnews.com/=K0hht443) ，2015-09-08
+71. [Cube Festival發佈會：旗下藝人歡聚一堂](http://www.koreastardaily.com/tc/photo/67642)，2015-09-01
+72. [KCON 2016 Japan！](http://kconjapan.com/history/2016)，2016-04-09
+73. [2016《夢想演唱會》第二波出演名單](http://kpopn.niusnews.com/=K1dro9b5) ，2016-05-05
+74. [CLC 9月3日來台參加 MTV 最強音](http://kpopn.niusnews.com/=K3tt8ij2) ，2016-08-18
+75.
+76. [KCON 2017 JAPAN x M COUNTDOWN](http://www.kconjapan.com/news.php?newsno=1)  2017-4-5
+77. [2017 夢想演唱會](https://www.youtube.com/watch?v=JNgESwdGNFc)，2017-06-15
+78. [2017仁川機場 SKY FESTIVAL](http://tchinese.visitseoul.net/event-festival/2017%E4%BB%81%E5%B7%9D%E6%A9%9F%E5%A0%B4SKY-FESTIVAL_/22641?curPage=1) ，2017-09-03
+79. [10th Anniversary KMF2017 第2ラインナップ 2組発表](http://korepo.com/archives/332138)，2017-06-16
+80. [Fandom School Korean Music Festival 2017](http://blog.naver.com/kmf4you) 2017-9-5
+81. [Show Champion EP.259 CLC -To the sky CLC - 투더 스카이](https://www.youtube.com/watch?v=QiTpWKv7Mko)

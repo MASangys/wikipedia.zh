@@ -46,11 +46,7 @@
 1.
 2.
 3.
-
 4.  [Fire Emblem Fates Petting Mechanic Removed for Western Release](http://www.gamespot.com/articles/fire-emblem-fates-petting-mechanic-removed-for-wes/1100-6434210/).GameSpot.2016-01-27.\[2016-01-28\].
-
 5.
-
 6.  《[游戏机实用技术](../Page/游戏机实用技术.md "wikilink")》375期，第20页。
-
 7.

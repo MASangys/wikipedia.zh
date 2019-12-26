@@ -11,16 +11,10 @@ Satellaview由[任天堂](../Page/任天堂.md "wikilink")开发并发售，可�
 [Category:任天堂硬件](https://zh.wikipedia.org/wiki/Category:任天堂硬件 "wikilink") [Category:數據機](https://zh.wikipedia.org/wiki/Category:數據機 "wikilink") [Category:線上遊戲服務](https://zh.wikipedia.org/wiki/Category:線上遊戲服務 "wikilink") [Category:超級任天堂](https://zh.wikipedia.org/wiki/Category:超級任天堂 "wikilink") [Category:1995年面世的產品](https://zh.wikipedia.org/wiki/Category:1995年面世的產品 "wikilink")
 
 1.
-
 2.  McClure, Steve. *Japan's St. Giga to broadcast Nintendo Games*. [Billboard](../Page/告示牌_\(雜誌\).md "wikilink"). Vol. 106. No. 30. p78. 23 July 1994.
-
 3.  *サテラビューセット！ お待たせしました店頭販売開始*. [Shūkan Famitsū](https://zh.wikipedia.org/wiki/Famitsu "wikilink"). 10–17 November 1995.
-
 4.  [サテラビュー購入申し込みページ](https://web.archive.org/web/19970605024322/http://www.nintendo.co.jp/n03/sale/bsorder.html). [Nintendo.co.jp](https://zh.wikipedia.org/wiki/Nintendo "wikilink") (via [Internet Archive](https://zh.wikipedia.org/wiki/Internet_Archive "wikilink")). June 5, 1997.
-
 5.
-
 6.  *[Broadcast Satellaview - X](http://www.blamethecontrolpad.com/bsx/bsx.htm)*. BlameTheControlpad.com. Retrieved 20 February 2009.
-
 7.
 8.

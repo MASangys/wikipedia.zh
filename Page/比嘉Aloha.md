@@ -51,5 +51,4 @@
 [Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:京都府出身人物](https://zh.wikipedia.org/wiki/Category:京都府出身人物 "wikilink") [Category:生年不詳](https://zh.wikipedia.org/wiki/Category:生年不詳 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:日本女性漫画家](https://zh.wikipedia.org/wiki/Category:日本女性漫画家 "wikilink")
 
 1.
-
 2.

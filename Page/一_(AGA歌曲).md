@@ -34,7 +34,7 @@
 
 ## 参考資料
 
-[Category:華語流行歌曲](https://zh.wikipedia.org/wiki/Category:華語流行歌曲 "wikilink") [Category:2014年歌曲](https://zh.wikipedia.org/wiki/Category:2014年歌曲 "wikilink") [Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink")
+[Category:華語流行歌曲](https://zh.wikipedia.org/wiki/Category:華語流行歌曲 "wikilink") [Category:2014年歌曲](https://zh.wikipedia.org/wiki/Category:2014年歌曲 "wikilink") [Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink") [Category:AGA歌曲](https://zh.wikipedia.org/wiki/Category:AGA歌曲 "wikilink")
 
 1.  [AGA《一》MV](https://www.youtube.com/watch?v=a3fIxwajqT8)
 2.  資料來源:coolmanmusic

@@ -45,7 +45,7 @@ Image:Mazda CX-3 XD Touring (DK5FW) front.JPG Image:Mazda CX-3 XD Touring (DK5FW
 
 1.  [【MAZDA】マツダ、ロサンゼルスオートショーにて新型コンパクトクロスオーバーSUV「マツダ CX-3」](http://www2.mazda.com/ja/publicity/release/2014/201410/141028a.html)。
 2.  [【MAZDA】マツダ、新型コンパクトクロスオーバーSUV「マツダ CX-3」を世界初公開](http://www2.mazda.com/ja/publicity/release/2014/201411/141119a.html)。
-3.  請見[【MAZDA】製品一覽](http://www.mazda.co.jp/corporate/profile/products/index.html)一文。
+3.  請見[【MAZDA】製品一覽](http://www.mazda.co.jp/corporate/profile/products/index.html) 一文。
 4.  [【MAZDA】新型「マツダ CX-3」を発売](http://www2.mazda.com/ja/publicity/release/2015/201502/150227b.html)。
 5.  [【MAZDA】「マツダ CX-3」を商品改良](http://www2.mazda.com/ja/publicity/release/2015/201512/151224d.html)。
 6.  [【MAZDA】「マツダ CX-3」の商品改良車を発表](http://www2.mazda.com/ja/publicity/release/2016/201610/161014a.html)。

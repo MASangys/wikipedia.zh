@@ -35,22 +35,15 @@ Beyond同時亦錄製了日文版的[單曲](https://zh.wikipedia.org/wiki/單�
 
 ## 參考資料
 
-[Category:粤语流行音乐](https://zh.wikipedia.org/wiki/Category:粤语流行音乐 "wikilink") [Category:1993年歌曲](https://zh.wikipedia.org/wiki/Category:1993年歌曲 "wikilink") [Category:雨傘革命歌曲](https://zh.wikipedia.org/wiki/Category:雨傘革命歌曲 "wikilink") [Category:Beyond歌曲](https://zh.wikipedia.org/wiki/Category:Beyond歌曲 "wikilink")
+[Category:粤语流行音乐](https://zh.wikipedia.org/wiki/Category:粤语流行音乐 "wikilink") [Category:1993年歌曲](https://zh.wikipedia.org/wiki/Category:1993年歌曲 "wikilink") [Category:雨傘革命歌曲](https://zh.wikipedia.org/wiki/Category:雨傘革命歌曲 "wikilink") [Category:Beyond歌曲](https://zh.wikipedia.org/wiki/Category:Beyond歌曲 "wikilink") [Category:反對逃犯條例修訂草案運動歌曲](https://zh.wikipedia.org/wiki/Category:反對逃犯條例修訂草案運動歌曲 "wikilink")
 
 1.
 2.
-
 3.
 4.  [歌詞貼切\! 　Beyond「海闊天空」成佔中曲](http://www.nexttv.com.tw/news/realtime/international/11151047/privacy), [壹電視](../Page/壹電視.md "wikilink"), 2014/09/30
-
 5.  [BEYOND-海闊天空](http://www.appledaily.com.tw/realtimenews/article/entertainment/20141001/479647/), [蘋果日報 (台灣)](https://zh.wikipedia.org/wiki/蘋果日報_\(台灣\) "wikilink"), 2014年10月1日
-
 6.  [因為不羈放縱愛自由　Beyond《海闊天空》成佔中主題曲](http://www.ettoday.net/news/20140930/407523.htm?from=easynews), [ETtoday](https://zh.wikipedia.org/wiki/ETtoday "wikilink"), 2014/09/30
-
 7.  [香港佔中／「佔中」打死不退！　空拍13萬人遍地開花](http://news.tvbs.com.tw/entry/548590), [TVBS](https://zh.wikipedia.org/wiki/TVBS "wikilink"), 2014/09/30
-
 8.  [Beyond挺！ 黃貫中與民眾唱「海闊天空」](http://news.ebc.net.tw/apps/newsList.aspx?id=1412131789) , [東森新聞](https://zh.wikipedia.org/wiki/東森新聞 "wikilink"), 2014/10/1
-
 9.  [「風雨中抱緊自由」 香港佔中大V隱秘發聲](http://m.ntdtv.com/xtr/mb5/2014/10/01/a1142560.html) , [新唐人電視台](../Page/新唐人電視台.md "wikilink"), 2014年10月1日
-
 10.

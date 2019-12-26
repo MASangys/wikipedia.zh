@@ -28,33 +28,20 @@ FREAK漏洞由IMDEA、[INRIA和](https://zh.wikipedia.org/wiki/法国国家信�
 [Category:网络安全漏洞](https://zh.wikipedia.org/wiki/Category:网络安全漏洞 "wikilink") [Category:密码学](https://zh.wikipedia.org/wiki/Category:密码学 "wikilink") [Category:密码分析](https://zh.wikipedia.org/wiki/Category:密码分析 "wikilink") [Category:2015年计算机科学](https://zh.wikipedia.org/wiki/Category:2015年计算机科学 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.  <https://support.apple.com/en-us/HT204423>
-
 8.
 9.
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16.
-
 17.
-
 18. <https://www.smacktls.com/#freak>

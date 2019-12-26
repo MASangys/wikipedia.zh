@@ -80,7 +80,7 @@ Zotero 5.0 发布于2017年7月10日，之前的 Zotero for Firefox 和 Zotero S
       - [Screencasts on Zotero website](http://www.zotero.org/support/screencast_tutorials/)
   - [Zotero reviewed on the life science wiki OpenWetWare](http://openwetware.org/wiki/Zotero_bibliography_software_review)
 
-[Category:使用XUL的軟體](https://zh.wikipedia.org/wiki/Category:使用XUL的軟體 "wikilink") [Category:文獻管理軟體](https://zh.wikipedia.org/wiki/Category:文獻管理軟體 "wikilink") [Category:Free_reference_management_software](https://zh.wikipedia.org/wiki/Category:Free_reference_management_software "wikilink") [Category:图书馆2.0](https://zh.wikipedia.org/wiki/Category:图书馆2.0 "wikilink") [Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink") [Category:参考](https://zh.wikipedia.org/wiki/Category:参考 "wikilink") [Category:2006年软件](https://zh.wikipedia.org/wiki/Category:2006年软件 "wikilink")
+[Category:使用XUL的軟體](https://zh.wikipedia.org/wiki/Category:使用XUL的軟體 "wikilink") [Category:文獻管理軟體](https://zh.wikipedia.org/wiki/Category:文獻管理軟體 "wikilink") [Category:图书馆2.0](https://zh.wikipedia.org/wiki/Category:图书馆2.0 "wikilink") [Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink") [Category:参考](https://zh.wikipedia.org/wiki/Category:参考 "wikilink") [Category:2006年软件](https://zh.wikipedia.org/wiki/Category:2006年软件 "wikilink")
 
 1.
 2.  这是在Zotero的特性目录下的translators子目录中包含的针对各个文献网站的Jscript脚本文件提供的功能。

@@ -12,7 +12,7 @@
 
   -
 
-  - [Spike](http://game.spike.co.jp/)
+  - [Spike](https://web.archive.org/web/20130920075112/http://game.spike.co.jp/)
 
 [Category:1991年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1991年開業電子遊戲公司 "wikilink") [Category:2012年結業公司](https://zh.wikipedia.org/wiki/Category:2012年結業公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:日本已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本已結業電子遊戲公司 "wikilink") [Category:Spike_Chunsoft](https://zh.wikipedia.org/wiki/Category:Spike_Chunsoft "wikilink") [Category:Spike_(公司)](https://zh.wikipedia.org/wiki/Category:Spike_\(公司\) "wikilink")
 

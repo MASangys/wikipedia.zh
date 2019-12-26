@@ -50,7 +50,7 @@ NP-C的症狀可分為兩種－影響體內其他器官的非神經系統性(內
 1.  進行性核上凝視痲痺(Vertical supranuclear gaze palsy, 簡稱VSGP)：這是最能預測C型尼曼匹克氏症的症狀，而且往往是最先表現的神經徵候。檢測是否為進行性核上凝視痲痺時，應要求患者自主地向上及向下注視(眼球垂直方向自主運動)。眼球水平方向運動通常可以維持到病程晚期的階段。
 2.  痴笑性猝倒症(Gelastic cataplexy)
 3.  運動失調：步態及直線行走步態 (tandem gait)應利用10公尺或計時行走測試的方式評估。患者可能出現運動失調、肌張力異常及痙攣的不同組合。
-4.  早老性認知功能退化及/或痴呆(相關症狀之影片請參考 <http://www.niemann-pick-c.com/HCP/News/Educational-resources#prettyPhoto>)
+4.  早老性認知功能退化及/或痴呆(相關症狀之影片請參考 <https://web.archive.org/web/20141018125441/http://www.niemann-pick-c.com/HCP/News/Educational-resources#prettyPhoto>)
 
 ## 診斷
 

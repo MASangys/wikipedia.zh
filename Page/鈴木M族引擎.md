@@ -70,17 +70,17 @@
 
 ## 參考資料
 
-  - [スズキ：M15A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/m15a/)
+  - [スズキ：M15A型エンジン](https://web.archive.org/web/20141211123447/http://greeco-channel.com/car/engine/suzuki_eg/m15a/)
 
-  - [スズキ：M16A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/m16a/)
+  - [スズキ：M16A型エンジン](https://web.archive.org/web/20141211122536/http://greeco-channel.com/car/engine/suzuki_eg/m16a/)
 
   - [Ｍ型エンジンの開発](https://web.archive.org/web/20150109024531/http://www.jama.or.jp/lib/jamagazine/200007/14.html)
 
 ## 外部連結
 
-  - [スズキ：M15A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/m15a/)
+  - [スズキ：M15A型エンジン](https://web.archive.org/web/20141211123447/http://greeco-channel.com/car/engine/suzuki_eg/m15a/)
 
-  - [スズキ：M16A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/m16a/)
+  - [スズキ：M16A型エンジン](https://web.archive.org/web/20141211122536/http://greeco-channel.com/car/engine/suzuki_eg/m16a/)
 
   - [Ｍ型エンジンの開発](https://web.archive.org/web/20150109024531/http://www.jama.or.jp/lib/jamagazine/200007/14.html)
 

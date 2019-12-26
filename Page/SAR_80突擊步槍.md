@@ -88,8 +88,6 @@ SAR 80也出口到其他一些國家，例如斯里蘭卡、索馬里和克羅�
 [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink") [Category:新加坡槍械](https://zh.wikipedia.org/wiki/Category:新加坡槍械 "wikilink")
 
 1.
-
 2.
 3.
-
 4.

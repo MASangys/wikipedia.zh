@@ -191,9 +191,9 @@
   -
 [Category:GOT7音樂專輯](https://zh.wikipedia.org/wiki/Category:GOT7音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
 
-1.  [朴軫泳 (朴振英)：對 GOT7 有信心！](http://kpopn.com/2014/11/08/248177/) Kpopn. 2014-11-08
-2.  [GOT7 正規一輯首波概念照](http://kpopn.com/2014/11/07/248220/) Kpopn. 2014-11-07
-3.  [GOT7 推出 USB 型態的專輯](http://kpopn.com/2014/12/16/253464/) Kpopn. 2014-12-16
+1.  [朴軫泳 (朴振英)：對 GOT7 有信心！](http://kpopn.com/2014/11/08/248177/)  Kpopn. 2014-11-08
+2.  [GOT7 正規一輯首波概念照](http://kpopn.com/2014/11/07/248220/)  Kpopn. 2014-11-07
+3.  [GOT7 推出 USB 型態的專輯](http://kpopn.com/2014/12/16/253464/)  Kpopn. 2014-12-16
 4.  [專訪GOT7：辛苦並幸福著](http://www.koreastardaily.com/tc/news/52455) 韓星網. 2014-12-05
 5.  [2014년 48주차 Digital Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=48&hitYear=2014&termGbn=week)Gaon Chart. \[2015-01-13\]
 6.  [2014년 11월 Digital Chart](http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&serviceGbn=ALL&targetTime=11&hitYear=2014&termGbn=month) Gaon Chart. \[2015-01-13\]

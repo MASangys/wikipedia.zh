@@ -22,19 +22,12 @@ HoloLens使用的传感器是一种高效节能的深度摄像头，具有120°�
 [Category:微软](https://zh.wikipedia.org/wiki/Category:微软 "wikilink") [Category:增强现实](https://zh.wikipedia.org/wiki/Category:增强现实 "wikilink") [Category:可穿戴式电脑](https://zh.wikipedia.org/wiki/Category:可穿戴式电脑 "wikilink") [Category:电脑输入装置](https://zh.wikipedia.org/wiki/Category:电脑输入装置 "wikilink") [Category:图形用户界面](https://zh.wikipedia.org/wiki/Category:图形用户界面 "wikilink") [Category:人机互动](https://zh.wikipedia.org/wiki/Category:人机互动 "wikilink") [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink")
 
 1.
-
 2.  参见：[全息光学元件](https://zh.wikipedia.org/wiki/全息光学元件 "wikilink"), [衍射光栅](../Page/衍射光栅.md "wikilink")
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
 9.  参见：[sensor hub](https://zh.wikipedia.org/wiki/sensor_hub "wikilink")
-
 10.

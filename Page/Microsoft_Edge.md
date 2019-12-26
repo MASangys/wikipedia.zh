@@ -2,7 +2,7 @@
 
 Microsoft Edge移除包括[ActiveX](../Page/ActiveX.md "wikilink")在内的一些過時且較不安全的技术，同时又加入一些新的拓展技術如：建立網頁筆記、[Cortana語音助理和](https://zh.wikipedia.org/wiki/Microsoft_Cortana "wikilink")[OneDrive](../Page/OneDrive.md "wikilink")，同时也提供功能和阅读模式功能。\[3\]
 
-2018年12月6日，微软宣布Microsoft Edge未来将基于[Chromium](../Page/Chromium.md "wikilink")开发，并将支持所有受支持的[Windows版本以及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[macOS等平台](https://zh.wikipedia.org/wiki/macOS "wikilink")\[4\]。基于[Chromium](../Page/Chromium.md "wikilink")开发的Microsoft Edge分为（Dev Channel和Canary Channel)\[5\]
+2018年12月6日，微软宣布Microsoft Edge未来将基于[Chromium](../Page/Chromium.md "wikilink")开发，并将支持所有受支持的[Windows版本以及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[macOS等平台](https://zh.wikipedia.org/wiki/macOS "wikilink")\[4\]。基于[Chromium](../Page/Chromium.md "wikilink")开发的Microsoft Edge分为（Beta Channel,Dev Channel和Canary Channel）\[5\]。
 
 ## 特色
 
@@ -47,63 +47,47 @@ Edge使用白名单策略允许部分网站绕过Edge安全功能运行Flash内�
 ## 外部連結
 
   -
-  - [Microsoft Edge中国大陆](https://www.microsoft.com/zh-cn/windows/microsoft-edge)
+  - [Microsoft Edge 中国大陆](https://www.microsoft.com/zh-cn/windows/microsoft-edge)
 
-  - [Microsoft Edge臺灣](https://www.microsoft.com/zh-tw/windows/microsoft-edge)
+  - [Microsoft Edge 臺灣](https://www.microsoft.com/zh-tw/windows/microsoft-edge)
+
+  - [Microsoft Edge 测试版](https://www.microsoftedgeinsider.com/zh-cn/)
+
+  - [Microsoft Edge 扩展](https://www.microsoft.com/zh-cn/store/collections/edgeextensions/pc)
+
+  - [Microsoft Edge Insider Addons](https://microsoftedge.microsoft.com/insider-addons/category/EdgeExtensions)
 
   -
 [Category:2015年软件](https://zh.wikipedia.org/wiki/Category:2015年软件 "wikilink") [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink") [Category:微软软件](https://zh.wikipedia.org/wiki/Category:微软软件 "wikilink") [Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink") [Category:Microsoft_Edge](https://zh.wikipedia.org/wiki/Category:Microsoft_Edge "wikilink") [Category:Android网页浏览器](https://zh.wikipedia.org/wiki/Category:Android网页浏览器 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15.
 16.
 17.
 18.
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.

@@ -40,11 +40,11 @@
 
 ## 參考資料
 
-  - [スズキ：H27A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/h27a/)
+  - [スズキ：H27A型エンジン](https://web.archive.org/web/20141214131819/http://greeco-channel.com/car/engine/suzuki_eg/h27a/)
 
 ## 外部連結
 
-  - [スズキ：H27A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/h27a/)
+  - [スズキ：H27A型エンジン](https://web.archive.org/web/20141214131819/http://greeco-channel.com/car/engine/suzuki_eg/h27a/)
 
 [Category:活塞發動機](https://zh.wikipedia.org/wiki/Category:活塞發動機 "wikilink") [Category:鈴木引擎與技術](https://zh.wikipedia.org/wiki/Category:鈴木引擎與技術 "wikilink")
 

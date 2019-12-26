@@ -381,7 +381,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p><strong>播出中</strong></p></td>
+<td><p>2019年</p></td>
 <td><p><a href="../Page/遊戲王VRAINS.md" title="wikilink">遊☆戲☆王VRAINS</a></p></td>
 <td></td>
 <td></td>

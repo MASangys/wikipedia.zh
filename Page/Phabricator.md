@@ -50,33 +50,19 @@ Phabricator的部分用户有：\[8\]
 [Category:軟體審查](https://zh.wikipedia.org/wiki/Category:軟體審查 "wikilink") [Category:自由项目管理软件](https://zh.wikipedia.org/wiki/Category:自由项目管理软件 "wikilink") [Category:自由wiki软件](https://zh.wikipedia.org/wiki/Category:自由wiki软件 "wikilink") [Category:缺陷和问题跟踪软件](https://zh.wikipedia.org/wiki/Category:缺陷和问题跟踪软件 "wikilink") [Category:用PHP编程的自由软件](https://zh.wikipedia.org/wiki/Category:用PHP编程的自由软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16. <http://phabricator.org/hosting/>
-
 17.

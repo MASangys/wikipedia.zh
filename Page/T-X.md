@@ -8,7 +8,7 @@
 
 她的任务是刺杀[约翰·康纳等未来人类反抗軍的几位领袖](https://zh.wikipedia.org/wiki/约翰·康纳 "wikilink")，其中包括康纳未來的妻子凯特·布鲁斯特（Kate Brewster，當時她僅是一普通[兽医](../Page/兽医.md "wikilink")）。
 
-同一时刻由人類反抗軍送出的另一个终结者机器人[T-850亦来到了](https://zh.wikipedia.org/wiki/T-850 "wikilink")2004年7月24日，他的任務是保护青年康纳和凯特·布鲁斯特，而凯特·布鲁斯特的父亲布鲁斯特将军正是天网的总指挥。在獸醫院外，T-X與T-850初次正面交鋒。而後在墓地時，T-X右手裝備的一支等离子枪遭T-850射出的[火箭炮](../Page/火箭炮.md "wikilink")給摧毀，此後她便改用喷火枪為主要武器。
+同一时刻由人類反抗軍送出的另一个终结者机器人[T-850亦来到了](https://zh.wikipedia.org/wiki/T-850 "wikilink")2004年7月24日，他的任務是保护青年康纳和凯特·布鲁斯特，而凯特·布鲁斯特的父亲布鲁斯特将军正是天网的总指挥。在獸醫院外，T-X與T-850初次正面交鋒。而後在墓地時，T-X右手裝備的一支等离子枪遭T-850射出的[火箭炮](../Page/火箭炮.md "wikilink")和與一台貨櫃車的撞擊給摧毀，此後她便改用喷火枪為主要武器。
 
 T-X在追殺约翰·康纳及凯特·布鲁斯特未果後，便延續其次要任務，来到天网研究基地將[病毒](../Page/病毒.md "wikilink")滲入系統，激活了基地裡的機器人。等约翰·康纳和凯特·布鲁斯特趕到为时已晚，布鲁斯特将军已正式開啟天网讓它遍布全球，另一方面遭T-X啟動的眾多机器人消滅了研究基地內的所有成員。后悔莫及的布鲁斯特将军在臨死前告诉约翰·康纳和凯特·布鲁斯特若想关闭天网必须去一个已经被废弃的旧基地水晶峰（但水晶峰其實是国家领导的避难所而非天网的核心，此时的天网還没有核心）。在水晶峰入口，T-X追踪而来，試圖殺死康纳和布鲁斯特兩人。最终，T-850選擇自我牺牲，利用体内仅有的一枚氢电池将T-X炸毀。
 
@@ -25,15 +25,10 @@ T-X的双手皆可以变成不同型態的強大武器，主要武器为等离�
 [Category:终结者系列](https://zh.wikipedia.org/wiki/Category:终结者系列 "wikilink") [Category:虛構人形機器人](https://zh.wikipedia.org/wiki/Category:虛構人形機器人 "wikilink") [Category:虛構人工智能](https://zh.wikipedia.org/wiki/Category:虛構人工智能 "wikilink") [Category:虛構刺客](https://zh.wikipedia.org/wiki/Category:虛構刺客 "wikilink") [Category:虛構超級士兵](https://zh.wikipedia.org/wiki/Category:虛構超級士兵 "wikilink") [Category:虛構變身者](https://zh.wikipedia.org/wiki/Category:虛構變身者 "wikilink") [Category:虛構時間旅行者](https://zh.wikipedia.org/wiki/Category:虛構時間旅行者 "wikilink") [Category:魔鬼終結者角色](https://zh.wikipedia.org/wiki/Category:魔鬼終結者角色 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
-
 8.

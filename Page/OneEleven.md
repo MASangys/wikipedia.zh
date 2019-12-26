@@ -25,8 +25,6 @@ OneEleven位於偉基大道與[拉薩勒街口及克拉克街口之間](https://
 [Category:芝加哥摩天大樓](https://zh.wikipedia.org/wiki/Category:芝加哥摩天大樓 "wikilink") [Category:150米至199米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大樓 "wikilink") [Category:2014年完工建築物](https://zh.wikipedia.org/wiki/Category:2014年完工建築物 "wikilink")
 
 1.
-
 2.
 3.
-
 4.

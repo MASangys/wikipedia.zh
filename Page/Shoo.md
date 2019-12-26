@@ -359,7 +359,7 @@ Shoo與職業籃球運動員經過一年多的交往，於2010年4月11日結婚
 [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國音樂劇演員](https://zh.wikipedia.org/wiki/Category:韓國音樂劇演員 "wikilink") [Category:橫濱市出身人物](https://zh.wikipedia.org/wiki/Category:橫濱市出身人物 "wikilink")
 
 1.
-2.  [DEVOTE ONES LOVE](http://www.hmv.com.hk/ch/product/korean.asp?sku=785578)
+2.
 3.
 4.  [如沐春風](http://www.yesasia.com/global/%E5%A6%82%E6%B2%90%E5%BE%AE%E9%A2%A8-%E6%B5%B7%E5%A4%96%E7%89%88/1001837194-0-0-0-zh_TW/info.html)
 5.

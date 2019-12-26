@@ -179,24 +179,15 @@
 [Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:鐘鉉音樂專輯](https://zh.wikipedia.org/wiki/Category:鐘鉉音樂專輯 "wikilink") [Category:2015年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon專輯週榜冠軍作品 "wikilink") [Category:2015年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon單曲週榜冠軍作品 "wikilink") [Category:2015年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Gaon數位下載週榜冠軍作品 "wikilink")
 
 1.  [SHINee鐘鉉明日公開自創曲《Deja-Boo‍》](https://tw.news.yahoo.com/shinee%E9%90%98%E9%89%89%E6%98%8E%E6%97%A5%E5%85%AC%E9%96%8B%E8%87%AA%E5%89%B5%E6%9B%B2-deja-boo-015800021.html)，韓星網。
-
 2.  \[<https://tw.celebrity.yahoo.com/news/shinee%E9%90%98%E9%89%8912%E6%97%A5%E6%8E%A8solo%E5%B0%88%E8%BC%AF-053100309.html;_ylt=A3eg.8kmc7JUUH0A5cRw1gt>. SHINee鐘鉉12日推Solo專輯《BASE》\]，CJ E\&M。
-
 3.  [SM，2015年全面開展Solo計畫，「圭賢達陣」之後](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=001&oid=109&aid=0002944103)，OSEN。
-
 4.  [SM，2015年回歸預告？](http://www.smtown.com/Link/Board/6891866)，SMTOWN。
-
 5.  [SM，2015年第一位SOLO出擊！繼圭賢之後下一位是鐘鉉！](http://www.smtown.com/Link/Board/6891926)，SMTOWN。
-
 6.  [Solo鐘鉉，自作曲《Déjà-Boo》7日0時公開](http://www.smtown.com/Link/Board/6892416)，SMTOWN。
-
 7.
 8.  [Track List](http://cloud01.smtown.com/upload/starhome/layout/jonghyun/ver01/tracklist.jpg) ，SMTOWN。
-
 9.
-
 10.
-
 11.
 12.
 13.

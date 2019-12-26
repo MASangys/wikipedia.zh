@@ -262,8 +262,6 @@
 [Category:2015年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2015年亞洲電視節目 "wikilink")
 
 1.  <http://hkatv.com/zh-hk/pages/241/亞洲會特約%3A-ATV-這一家>
-
 2.
 3.  <http://hkatv.com/zh-hk/video/18994/亞洲會特約%3A-ATV-這一家/第42集>
-
 4.  <https://www.youtube.com/watch?v=cd_GToU2XR0>

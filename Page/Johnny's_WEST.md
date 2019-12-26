@@ -299,47 +299,32 @@
 
 ## 外部連結
 
-  - [唱片公司官網(日語)](https://web.archive.org/web/20140314140427/http://www.jehp.jp/jwest/info/index.html)
-  - [Johnnys官網(日語)](http://www.johnnys-net.jp/)
+  - [唱片公司官網](https://web.archive.org/web/20140314140427/http://www.jehp.jp/jwest/info/index.html)
+  - [Johnnys官網](http://www.johnnys-net.jp/)
 
 ## 參考文獻
 
 [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:傑尼斯事務所正式團體](https://zh.wikipedia.org/wiki/Category:傑尼斯事務所正式團體 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
 
 1.  雑誌『[ポポロ](https://zh.wikipedia.org/wiki/ポポロ "wikilink")』2014年11月號
-
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.
-
 8.
 9.
-
 10.
 11.
-
 12.
 13.
-
 14.
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.

@@ -4,6 +4,6 @@
 
 ## 参考
 
-[Category:美国政治学家](https://zh.wikipedia.org/wiki/Category:美国政治学家 "wikilink") [Category:美国军事作家](https://zh.wikipedia.org/wiki/Category:美国军事作家 "wikilink") [Category:普林斯頓大學校友](https://zh.wikipedia.org/wiki/Category:普林斯頓大學校友 "wikilink") [Category:哈佛大學校友](https://zh.wikipedia.org/wiki/Category:哈佛大學校友 "wikilink")
+[Category:美国政治学家](https://zh.wikipedia.org/wiki/Category:美国政治学家 "wikilink") [Category:美国军事作家](https://zh.wikipedia.org/wiki/Category:美国军事作家 "wikilink") [Category:普林斯頓大學校友](https://zh.wikipedia.org/wiki/Category:普林斯頓大學校友 "wikilink") [Category:哈佛大學校友](https://zh.wikipedia.org/wiki/Category:哈佛大學校友 "wikilink") [Category:国际关系学者](https://zh.wikipedia.org/wiki/Category:国际关系学者 "wikilink")
 
 1.  [Corporate Warriors](http://www.cornellpress.cornell.edu/book/?GCOI=80140100946630), [Cornell Press](https://zh.wikipedia.org/wiki/Cornell_Press "wikilink")

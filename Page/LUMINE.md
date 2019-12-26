@@ -8,7 +8,7 @@ LUMINE起於1976年（[昭和](../Page/昭和.md "wikilink")51年）[國鐵](../
 
 為了擺脫原有的老舊國鐵印象而進行的整修與租戶政策獲得了巨大的成果，成為最具代表性的[時裝大樓](../Page/時裝大樓.md "wikilink")[百貨店之一](https://zh.wikipedia.org/wiki/百貨店 "wikilink")\[4\]。
 
-由其他公司營運的LUMINE商場有株式會社LUMINE茅崎的「茅崎LUMINE」（[茅崎站](../Page/茅崎站.md "wikilink")）與福島車站開發株式會社營運的「福島LUMINE」（[福島站](https://zh.wikipedia.org/wiki/福島站_\(福島縣\) "wikilink")，[東北唯一店鋪](https://zh.wikipedia.org/wiki/東北地方_\(日本\) "wikilink")）。前者現已併入湘南車站大樓株式會社，2006年（平成18年）3月更名為「」，後者併入，2004年3月20日更名為「」。
+由其他公司營運的LUMINE商場有株式會社LUMINE茅崎的「茅崎LUMINE」（[茅崎站](../Page/茅崎站.md "wikilink")）與福島車站開發株式會社營運的「福島LUMINE」（[福島站](../Page/福島站_\(福島縣\).md "wikilink")，[東北唯一店鋪](https://zh.wikipedia.org/wiki/東北地方_\(日本\) "wikilink")）。前者現已併入湘南車站大樓株式會社，2006年（平成18年）3月更名為「」，後者併入，2004年3月20日更名為「」。
 
 此外，大船的LUMINE WING是由與[京濱急行電鐵](../Page/京濱急行電鐵.md "wikilink")共同出資的株式會社LUMINE WING大樓管理營運。因此冠有與京濱急行電鐵[品川站](https://zh.wikipedia.org/wiki/品川站 "wikilink")、[上大岡站商場名](https://zh.wikipedia.org/wiki/上大岡站 "wikilink")「WING」。
 
@@ -54,11 +54,11 @@ LUMINE起於1976年（[昭和](../Page/昭和.md "wikilink")51年）[國鐵](../
 
   - 1964年5月20日 - 株式會社新宿車站大樓營運的「新宿車站大樓」（後MY CITY新宿、現LUMINE EST）開幕。
   - 1966年5月21日 - 法人（現在的株式會社LUMINE）成立。
-  - 1967年10月 - 株式會社大宮車站大樓營運的[大宮站大樓](https://zh.wikipedia.org/wiki/大宮站_\(埼玉縣\) "wikilink")「OSB」（現大宮LUMINE1）開幕。
+  - 1967年10月 - 株式會社大宮車站大樓營運的[大宮站大樓](../Page/大宮站_\(埼玉縣\).md "wikilink")「OSB」（現大宮LUMINE1）開幕。
   - 1976年3月 - 株式會社LUMINE新宿營運的[新宿站大樓](https://zh.wikipedia.org/wiki/新宿站 "wikilink")「新宿LUMINE」開幕。
   - 1980年11月 - 株式會社LUMINE橫濱營運的[橫濱站大樓](https://zh.wikipedia.org/wiki/橫濱站 "wikilink")「橫濱LUMINE」開幕。
   - 1981年10月 - 株式會社荻窪LUMINE營運的[荻窪站](../Page/荻窪站.md "wikilink")大樓「荻窪LUMINE」開幕。
-  - 1982年6月 - 株式會社大宮車站大樓營運的[大宮站大樓](https://zh.wikipedia.org/wiki/大宮站_\(埼玉縣\) "wikilink")「We」（現大宮LUMINE2）開幕。
+  - 1982年6月 - 株式會社大宮車站大樓營運的[大宮站大樓](../Page/大宮站_\(埼玉縣\).md "wikilink")「We」（現大宮LUMINE2）開幕。
   - 1982年10月 - 立川總站大樓株式會社營運的[立川站](../Page/立川站.md "wikilink")大樓「WILL」（現LUMINE立川）開幕。
   - 1985年3月 - 北千住總站大樓株式會社營運的[北千住站大樓](https://zh.wikipedia.org/wiki/北千住站 "wikilink")「北千住ウイズ」（現LUMINE北千住）開幕。
   - 1985年4月 - 株式會社LUMINE茅崎營運的[茅崎站](../Page/茅崎站.md "wikilink")大樓「茅崎LUMINE」（現茅崎LUSCA）開幕。
@@ -87,7 +87,7 @@ LUMINE起於1976年（[昭和](../Page/昭和.md "wikilink")51年）[國鐵](../
 
   - 株式會社Lumine Creates（ルミネクリエーツ） - 建物管理、警備等
   - 株式會社Lumine Associates（ルミネアソシエーツ） - 餐飲店、商品店營業、[廣告代理店](../Page/廣告代理商.md "wikilink")、損害保險代理業
-  - 東名企畫株式會社 - [高爾夫球場](https://zh.wikipedia.org/wiki/高爾夫球場 "wikilink")、彩虹鄉村俱樂部（レインボーカントリー倶楽部）經營
+  - 東名企畫株式會社 - [高爾夫球場](../Page/高爾夫球場.md "wikilink")、彩虹鄉村俱樂部（レインボーカントリー倶楽部）經營
 
 ## 備註
 

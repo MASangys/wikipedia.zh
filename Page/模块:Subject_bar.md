@@ -110,7 +110,7 @@ function p._main(args)
 `   table.insert(rows, bookRow)`
 
 `   -- Get the portal row text`
-`   local portalHeading = "`**[`主题`](https://zh.wikipedia.org/wiki/Portal:首頁 "wikilink")**`"`
+`   local portalHeading = "`**[`主题`](../Page/Portal:首頁.md "wikilink")**`"`
 `   local portalSubheading = '访问相关主题'`
 `   local function getPortalItemVals(portal)`
 `       local image = mw.ustring.format('`[`%s`](https://zh.wikipedia.org/wiki/File:%s "fig:%s")`', getPortalImage{portal})`

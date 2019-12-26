@@ -23,18 +23,11 @@
 [Category:Linux文件系统相关软件](https://zh.wikipedia.org/wiki/Category:Linux文件系统相关软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.

@@ -71,21 +71,13 @@
 [Category:生物股長音樂專輯](https://zh.wikipedia.org/wiki/Category:生物股長音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:2013年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon專輯週榜冠軍作品 "wikilink") [Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
 
 1.  這是台灣索尼音樂網站上的譯名。DVD名稱原文為「」。
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  出自「宇宙生物電台訪談」
-
 9.
 10.
 11.
@@ -96,6 +88,5 @@
 16.
 17.
 18.
-
 19.
 20.

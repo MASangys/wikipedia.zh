@@ -52,7 +52,7 @@ Image:Suzuki Aerio SX -- 04-10-2011 front.jpg|美規版五門車頭 Image:Suzuki
 [Category:鈴木車輛](https://zh.wikipedia.org/wiki/Category:鈴木車輛 "wikilink") [Category:轎車](https://zh.wikipedia.org/wiki/Category:轎車 "wikilink") [Category:緊湊型轎車](https://zh.wikipedia.org/wiki/Category:緊湊型轎車 "wikilink") [Category:緊湊型多功能休旅車](https://zh.wikipedia.org/wiki/Category:緊湊型多功能休旅車 "wikilink") [Category:掀背車](https://zh.wikipedia.org/wiki/Category:掀背車 "wikilink") [Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink") [Category:前輪驅動](https://zh.wikipedia.org/wiki/Category:前輪驅動 "wikilink") [Category:四輪驅動](https://zh.wikipedia.org/wiki/Category:四輪驅動 "wikilink") [Category:拉力賽車輛](https://zh.wikipedia.org/wiki/Category:拉力賽車輛 "wikilink")
 
 1.  見[AutoNet車壇新聞：SUZUKI Liana換裝1.8升動力進軍澳洲大陸](http://www.autonet.com.tw/cgi-bin/view.cgi?/news/2004/3/a4030058.ti+a2+a3+a4+a5+b1+/news/2004/3/a4030058+/car/S50100001+b3+d6+c1+c2+c3+e1+e2+e3+e5+f1)，第三段。
-2.  參看[【 carview 】 スズキ エリオ 試乗 ～ 緊急試乗レポート](http://www.carview.co.jp/express_new/aelio/index.asp)。
+2.  參看[【 carview 】 スズキ エリオ 試乗 ～ 緊急試乗レポート](http://www.carview.co.jp/express_new/aelio/index.asp) 。
 3.  參看[AutoNet車壇新聞：C-NCAP實車撞擊測試昌河鈴木利亞納SUZUKI Liana獲四星安全評價](http://www.autonet.com.tw/cgi-bin/view.cgi?/news/2008/1/a8010351.ti+a2+a3+a4+a5+b1+/news/2008/1/a8010351+/car/S50100001+b3+d6+c1+c2+c3+e1+e2+e3+e5+f1)。
 4.  參考[BBC Top Gear Track - Suzuki Liana](http://www.topgear.com/uk/track-guide?LapType=Suzuki-Leana)。
 5.  參見[スズキ エリオ パイクスピークスペシャル(P950)](http://www.suzuki.co.jp/dom4/motor/01/pikes/machine.htm)。

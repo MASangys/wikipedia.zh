@@ -1,4 +1,4 @@
-此事件为[索尼电脑娱乐上海分公司原计划在](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[中华人民共和国发售不](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[锁区中国大陆版](https://zh.wikipedia.org/wiki/锁区 "wikilink")[PlayStation 4与](../Page/PlayStation_4.md "wikilink")[PlayStation Vita](../Page/PlayStation_Vita.md "wikilink")，但有名为“刘睿哲”的民众向[北京市文化局官方网站进行了实名举报](https://zh.wikipedia.org/wiki/北京市文化局 "wikilink")，而引发的的一系列事件。
+此事件为[索尼电脑娱乐上海分公司原计划在](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[中华人民共和国发售不](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[锁区中国大陆版](https://zh.wikipedia.org/wiki/锁区 "wikilink")[PlayStation 4与](../Page/PlayStation_4.md "wikilink")[PlayStation Vita](../Page/PlayStation_Vita.md "wikilink")，但有名为“刘睿哲”的民众向官方网站进行了实名举报，而引发的的一系列事件。
 
 ## 事件起因
 

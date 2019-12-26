@@ -1,4 +1,4 @@
-本列表統計的是國家籃球協會（NBA）球員個人職業生涯常规赛三分球命中数總和，NBA是在1979年才开始使用三分球，从1997-98赛季开始，NBA的三分线离篮框水平半径为：角落区域为22呎（13.71米），其他区域23呎9吋（15.24米）。所有數據\[1\]都是截至到2019年4月10日。
+本列表統計的是國家籃球協會（NBA）球員個人職業生涯常规赛三分球命中数總和，NBA是在1979年才开始使用三分球，从1997-98赛季开始，NBA的三分线离篮框水平半径为：角落区域为22呎（6.7米），其他区域23呎9吋（7.25米）。所有數據\[1\]都是截至到2019年4月10日。
 
 ## 生涯三分命中数列表
 
@@ -28,40 +28,40 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/沙克·歐尼爾" title="wikilink">沙克·歐尼爾</a>*</p></td>
-<td><p>中鋒</p></td>
+<td><p><a href="../Page/雷·阿伦.md" title="wikilink">雷·阿伦</a>*</p></td>
+<td><p>得分後衛</p></td>
 <td></td>
+<td><p>2973</p></td>
 <td><p>7429</p></td>
-<td><p>17429</p></td>
-<td><p>193.9</p></td>
-<td><p>.10</p></td>
-<td><p>2020</p></td>
+<td><p>2.3</p></td>
+<td><p>.400</p></td>
+<td><p>2018</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/史蒂芬·柯瑞" title="wikilink">史蒂芬·柯瑞</a>*</p></td>
-<td><p>控球後衛</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金洲勇士" title="wikilink">金洲勇士</a></p></td>
-<td><p>4780</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雷吉·米勒" title="wikilink">雷吉·米勒</a>*</p></td>
+<td><p>得分後衛</p></td>
+<td></td>
+<td><p>2560</p></td>
 <td><p>6486</p></td>
-<td><p>5.6</p></td>
-<td><p>.635</p></td>
+<td><p>1.8</p></td>
+<td><p>.395</p></td>
 <td><p>2012</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/傑門.麥基" title="wikilink">傑門.麥基</a>^</p></td>
-<td><p>中鋒</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a></p></td>
-<td><p>5748</p></td>
-<td><p>3450</p></td>
-<td><p>4.4</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/斯蒂芬·库里" title="wikilink">斯蒂芬·柯瑞</a>^</p></td>
+<td><p>控球後衛</p></td>
+<td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
+<td><p>2483</p></td>
+<td><p>5690</p></td>
+<td><p>3.6</p></td>
 <td><p>.436</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/傑洛米·林" title="wikilink">傑洛米·林</a>^</p></td>
+<td><p><a href="../Page/凯尔·科沃尔.md" title="wikilink">凯尔·科沃尔</a>^</p></td>
 <td><p>小前鋒/ 大前鋒/ 得分後衛</p></td>
 <td><p><a href="../Page/费城76人.md" title="wikilink">费城76人</a><br />
 <a href="https://zh.wikipedia.org/wiki/犹他爵士" title="wikilink">犹他爵士</a><br />
@@ -72,16 +72,16 @@
 <td><p>5478</p></td>
 <td><p>2.0</p></td>
 <td><p>.429</p></td>
-<td><p>2019</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/來昂·威廉森" title="wikilink">來昂·威廉森</a></p></td>
+<td><p><a href="../Page/贾森·特里.md" title="wikilink">贾森·特里</a></p></td>
 <td><p>控球後衛/ 得分後衛</p></td>
 <td></td>
 <td><p>2282</p></td>
 <td><p>6010</p></td>
-<td><p>7.6</p></td>
+<td><p>1.6</p></td>
 <td><p>.380</p></td>
 <td></td>
 </tr>
@@ -1181,7 +1181,5 @@
 [Category:NBA数据统计](https://zh.wikipedia.org/wiki/Category:NBA数据统计 "wikilink")
 
 1.
-
 2.  A player is not eligible for induction into the [Naismith Memorial Basketball Hall of Fame](https://zh.wikipedia.org/wiki/Naismith_Memorial_Basketball_Hall_of_Fame "wikilink") until he has been fully retired for four calendar years (reduced from five in 2015); player was not eligible for induction upon the commencement of the  NBA season.
-
 3.

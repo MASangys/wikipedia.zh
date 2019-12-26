@@ -134,12 +134,8 @@
 [Category:任天堂3DS家族](https://zh.wikipedia.org/wiki/Category:任天堂3DS家族 "wikilink") [Category:任天堂遊戲機](https://zh.wikipedia.org/wiki/Category:任天堂遊戲機 "wikilink")
 
 1.  [ゲーム専用機販売実績-累計販売数量](https://www.nintendo.co.jp/ir/finance/hard_soft/index.html).任天堂.\[2017-07-27\].
-
 2.
-
 3.
 4.  [Conference 2010](http://www.nintendo.co.jp/n10/conference2010/3ds/conceptMovHigh.htmlNintendo)Nintendo
-
 5.  [ニンテンドー3DSホームページ](http://www.nintendo.co.jp/3ds/index.html)Nintendo
-
 6.

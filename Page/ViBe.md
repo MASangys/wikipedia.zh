@@ -29,17 +29,10 @@ ViBe保证了构成像素模型的样本值的生命周期呈平滑指数衰减�
 [Category:计算机视觉](https://zh.wikipedia.org/wiki/Category:计算机视觉 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  <http://www2.ulg.ac.be/telecom/research/vibe/>
-
 6.  World Intellectual Property Organization. [ViBe patents](http://patentscope.wipo.int/search/en/detail.jsf?docId=WO2009007198&tab=PCT+Biblio)
-
 7.  Kryjak, Tomasz; Gorgon, Marek. ["Real-time Implementation of the ViBe Foreground Object Segmentation Algorithm"](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6644061). In Proceedings of the 2013 Federated Conference on Computer Science and Information Systems (FedCSIS) pp. 591–596
-
 8.

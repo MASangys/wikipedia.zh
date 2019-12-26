@@ -149,4 +149,4 @@
 [Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:公寓背景電視劇](https://zh.wikipedia.org/wiki/Category:公寓背景電視劇 "wikilink") [Category:Mnet電視劇](https://zh.wikipedia.org/wiki/Category:Mnet電視劇 "wikilink")
 
 1.  [《The Lover》讀本照公開 4對4色個性情侶](http://www.koreastardaily.com/tc/news/58148)韓星網
-2.  [《The Lover》海報、預告](http://kpopn.com/2015/03/21/266778/)Kpopn
+2.  [《The Lover》海報、預告](http://kpopn.com/2015/03/21/266778/) Kpopn

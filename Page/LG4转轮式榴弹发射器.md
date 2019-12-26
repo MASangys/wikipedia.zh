@@ -1,4 +1,4 @@
-**LG4**是一款由[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[湖南兵器轻武器研究所为满足外贸需求而自行研制和生產](https://zh.wikipedia.org/wiki/湖南兵器轻武器研究所 "wikilink")，并且由[北方工业公司所銷售的轻型](../Page/中国兵器工业集团.md "wikilink")[雙動操作](https://zh.wikipedia.org/wiki/扳機 "wikilink")6連發[轉輪式](https://zh.wikipedia.org/wiki/榴弹发射器#转轮式榴弹发射器 "wikilink")[肩射型](https://zh.wikipedia.org/wiki/榴彈發射器#肩射型 "wikilink")[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，主要發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。
+**LG4**是一款由[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[湖南兵器轻武器研究所为满足外贸需求而自行研制和生產](https://zh.wikipedia.org/wiki/湖南兵器轻武器研究所 "wikilink")，并且由[北方工业公司所銷售的轻型](../Page/中国兵器工业集团.md "wikilink")[雙動操作](https://zh.wikipedia.org/wiki/扳機 "wikilink")6連發[轉輪式](https://zh.wikipedia.org/wiki/榴弹发射器#转轮式榴弹发射器 "wikilink")[肩射型](https://zh.wikipedia.org/wiki/榴彈發射器#肩射型 "wikilink")[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，主要發射[40×46毫米](../Page/40毫米榴彈.md "wikilink")[口徑低速](https://zh.wikipedia.org/wiki/口徑 "wikilink")[榴彈](https://zh.wikipedia.org/wiki/榴彈 "wikilink")。
 
 全系统具有重量较轻、精度较高、威力强大、结构紧凑、[人机工效性良好](../Page/人因工程学.md "wikilink")、安全可靠、通用性强大、高[性價比](../Page/性價比.md "wikilink")的优点，在国际武器市场上具有较强大的竞争力，目前亦已經完成批量出口。
 
@@ -24,7 +24,7 @@ LG4还采用了牙嵌离合器式定位机构，通过限位齿上的三个梯�
 
 ### 闭锁机构
 
-LG4采用的闭锁机构为有别于传统、相对的较接近猎用[霰彈槍的](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")[中折式设计](https://zh.wikipedia.org/wiki/中折式裝填 "wikilink")，其闭锁片还可绕后盖板中心偏转，闭膛与闭锁动作分步进行。打开[膛室](../Page/膛室.md "wikilink")装满弹药后，使用者左手握住[前握把](../Page/輔助握把.md "wikilink")，右手握住发射机握把向上旋转使后盖板闭合膛室，然后向左旋转使內置式击针的闭锁片扣合支撑框，开锁钮嵌入支撑框上对应槽中，完成闭锁。右手[拇指将发射机转换柄拨至击发位置](https://zh.wikipedia.org/wiki/拇指 "wikilink")，食指扣压扳机即可发射[弹药](https://zh.wikipedia.org/wiki/弹药 "wikilink")。开锁时，握住发射机握把的右手食指移离扳机压下开锁钮，向右旋转完成开锁，再向下旋转便打开膛室。
+LG4采用的闭锁机构为有别于传统、相对的较接近猎用[霰彈槍的](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")[中折式](../Page/中折式.md "wikilink")设计，其闭锁片还可绕后盖板中心偏转，闭膛与闭锁动作分步进行。打开[膛室](../Page/膛室.md "wikilink")装满弹药后，使用者左手握住[前握把](../Page/輔助握把.md "wikilink")，右手握住发射机握把向上旋转使后盖板闭合膛室，然后向左旋转使內置式击针的闭锁片扣合支撑框，开锁钮嵌入支撑框上对应槽中，完成闭锁。右手[拇指将发射机转换柄拨至击发位置](https://zh.wikipedia.org/wiki/拇指 "wikilink")，食指扣压扳机即可发射[弹药](https://zh.wikipedia.org/wiki/弹药 "wikilink")。开锁时，握住发射机握把的右手食指移离扳机压下开锁钮，向右旋转完成开锁，再向下旋转便打开膛室。
 
 在开闭锁过程当中，使用者的双手均不需离开手握握把，[人机功效优良](../Page/人因工程学.md "wikilink")、操作方便省力、动作迅速而流畅，而且安全性能非常突出，将使用不当造成损伤的机率降到最低。闭膛时[击针不处于正对待发弹药底火的位置](../Page/撞針.md "wikilink")，如果击针意外卡锁亦不会随即引起击发的危险；而且卡锁的击针会阻止闭锁片旋转完成闭锁，起到了击针卡锁警报作用。倘若因紧张或疏忽而令闭锁不到位，即使扣动扳机，也会因击针尚未对准底火而不能击发，发挥出闭锁不到位保险功能。闭锁到位以后，扳机右侧上方的开锁按钮完全限制了闭锁片的运动。而在射击过程中，右手的食指忙于扣压扳机而无暇压下开锁钮引起开锁，又巧妙地设置了一道闭锁保险。
 
@@ -79,6 +79,7 @@ LG4可以发射中国內外的各种[40×46毫米系列低速榴彈](../Page/40�
   - [LG6半自动榴弹发射器](../Page/LG6半自动榴弹发射器.md "wikilink")
   - [阿森納雪崩轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/阿森納雪崩轉輪式榴彈發射器 "wikilink")
   - [阿森納MSGL轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/阿森納MSGL轉輪式榴彈發射器 "wikilink")
+  - [HK369轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/HK369轉輪式榴彈發射器 "wikilink")
   - \-{[米尔科姆转轮连发式榴弹发射器](../Page/米尔科姆转轮连发式榴弹发射器.md "wikilink")}-
   - [MM-1轉輪式榴彈發射器](../Page/MM-1轉輪式榴彈發射器.md "wikilink")
   - [RG-6轉輪式榴彈發射器](../Page/RG-6轉輪式榴彈發射器.md "wikilink")
@@ -107,7 +108,7 @@ LG4可以发射中国內外的各种[40×46毫米系列低速榴彈](../Page/40�
 
 <!-- end list -->
 
-  -   - 2012年6月下號：[第六届中国国际警用装备博览会轻武器新亮点](http://www.xzbu.com/8/view-3071549.htm)
+  -   - 2012年6月下號：[第六届中国国际警用装备博览会轻武器新亮点](https://web.archive.org/web/20140203021106/http://www.xzbu.com/8/view-3071549.htm)
       - 2014年7月下號：[湖南轻武器研究所LG4转轮榴弹发射器](http://mall.cnki.net/magazine/Article/QBQI201414012.htm)
 
 ## 外部連結

@@ -11,7 +11,7 @@
   -
   - （用Wii玩版）
 
-[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:马里奥体育游戏](https://zh.wikipedia.org/wiki/Category:马里奥体育游戏 "wikilink") [Category:用Wii玩](https://zh.wikipedia.org/wiki/Category:用Wii玩 "wikilink") [Category:网球游戏](https://zh.wikipedia.org/wiki/Category:网球游戏 "wikilink") [Category:Camelot游戏](https://zh.wikipedia.org/wiki/Category:Camelot游戏 "wikilink") [Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink") [Category:任天堂GameCube游戏](https://zh.wikipedia.org/wiki/Category:任天堂GameCube游戏 "wikilink")
+[Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:马里奥体育游戏](https://zh.wikipedia.org/wiki/Category:马里奥体育游戏 "wikilink") [Category:用Wii玩](https://zh.wikipedia.org/wiki/Category:用Wii玩 "wikilink") [Category:网球电子游戏](https://zh.wikipedia.org/wiki/Category:网球电子游戏 "wikilink") [Category:Camelot游戏](https://zh.wikipedia.org/wiki/Category:Camelot游戏 "wikilink") [Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink") [Category:任天堂GameCube游戏](https://zh.wikipedia.org/wiki/Category:任天堂GameCube游戏 "wikilink")
 
 1.
 2.

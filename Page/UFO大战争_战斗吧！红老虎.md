@@ -116,11 +116,8 @@ UFO大战争 战斗吧！红老虎『**UFO大戦争 戦え\! レッドタイガ�
 [Category:東京電視台特攝節目](https://zh.wikipedia.org/wiki/Category:東京電視台特攝節目 "wikilink") [Category:1970年代特摄作品](https://zh.wikipedia.org/wiki/Category:1970年代特摄作品 "wikilink") [Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink") [Category:不明飛行物題材作品](https://zh.wikipedia.org/wiki/Category:不明飛行物題材作品 "wikilink")
 
 1.  「声が若すぎてイメージに合わない」という理由で古谷徹は初期のみで降板し、その後は中屋敷本人が声も演じた。
-
 2.  。
-
 3.
-
 4.
 5.
 6.

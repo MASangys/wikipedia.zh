@@ -69,4 +69,4 @@
 
 1.  [遊搜好行：關西最強　一日逛不完激新Mall王](http://hk.apple.nextmedia.com/supplement/travel/art/20130511/18255850) 蘋果日報 2013年5月11日
 2.  [都市型SC目指す　「グランフロント大阪」](http://www.nnn.co.jp/dainichi/news/111007/20111007015.html)
-3.  [グランフロント大阪　ショップ&レストラン](http://www.gfo-sc.jp/shop/index.html)
+3.

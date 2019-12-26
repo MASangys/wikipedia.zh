@@ -23,15 +23,9 @@ D河源自，在[101國道附近流入](https://zh.wikipedia.org/wiki/101号美�
 [Category:俄勒岡州河流](https://zh.wikipedia.org/wiki/Category:俄勒岡州河流 "wikilink") [Category:美國的世界之最](https://zh.wikipedia.org/wiki/Category:美國的世界之最 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.

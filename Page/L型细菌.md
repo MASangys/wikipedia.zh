@@ -43,55 +43,35 @@ L型細菌可能對有關早期的生命形式以及[生命科技的研究起到
   -
 ## 外部連結
 
-  - [Errington Group](http://www.ncl.ac.uk/camb/staff/profile/jeff.errington) at Newcastle University
+  - [Errington Group](https://web.archive.org/web/20120507231105/http://www.ncl.ac.uk/camb/staff/profile/jeff.errington) at Newcastle University
   - [Scientists explore new window on the origins of life](https://web.archive.org/web/20090415202955/http://www.ncl.ac.uk/press.office/press.release/item/scientists-explore-new-window-on-the-origins-of-life1) 2009 Newcastle University press release
 
 [Category:微生物学术语](https://zh.wikipedia.org/wiki/Category:微生物学术语 "wikilink") [Category:細菌](https://zh.wikipedia.org/wiki/Category:細菌 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.   [Full PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC172922/pdf/100320.pdf)
-
 6.
-
 7.
 8.
 9.
-
 10.
 11.
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.

@@ -350,136 +350,153 @@
 <th><p>集數</p></th>
 <th><p>講談社</p></th>
 <th><p><a href="../Page/玉皇朝.md" title="wikilink">玉皇朝</a></p></th>
+<th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>通常版 <a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>特裝版 <a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2009年11月17日</p></td>
 <td><p>ISBN 978-4-06-375832-0</p></td>
+<td><p>rowspan="2" </p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2010年4月16日</p></td>
 <td><p>ISBN 978-4-06-375902-0</p></td>
+<td><p>2010年6月17日</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2010年9月17日</p></td>
-<td><p>ISBN 978-4-06-375983-9<br />
-ISBN 978-4-06-362173-0（特裝版）</p></td>
+<td><p>ISBN 978-4-06-375983-9</p></td>
+<td><p>ISBN 978-4-06-362173-0</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>2011年4月15日</p></td>
-<td><p>ISBN 978-4-06-376028-6<br />
-ISBN 978-4-06-362189-1（特裝版）</p></td>
+<td><p>ISBN 978-4-06-376028-6</p></td>
+<td><p>ISBN 978-4-06-362189-1</p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
 <td><p>2011年11月17日</p></td>
-<td><p>ISBN 978-4-06-376144-3<br />
-ISBN 978-4-06-362196-9（特裝版）</p></td>
+<td><p>ISBN 978-4-06-376144-3</p></td>
+<td><p>ISBN 978-4-06-362196-9</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>2012年4月17日</p></td>
-<td><p>ISBN 978-4-06-376625-7<br />
-ISBN 978-4-06-362209-6（特裝版）</p></td>
+<td><p>ISBN 978-4-06-376625-7</p></td>
+<td><p>ISBN 978-4-06-362209-6</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
 <td><p>2012年11月16日</p></td>
-<td><p>ISBN 978-4-06-376728-5<br />
-ISBN 978-4-06-362235-5（特裝版）</p></td>
+<td><p>ISBN 978-4-06-376728-5</p></td>
+<td><p>ISBN 978-4-06-362235-5</p></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
 <td><p>2013年8月16日</p></td>
-<td><p>ISBN 978-4-06-376890-9<br />
-ISBN 978-4-06-362258-4（特裝版）</p></td>
+<td><p>ISBN 978-4-06-376890-9</p></td>
+<td><p>ISBN 978-4-06-362258-4</p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
 <td><p>2014年5月16日</p></td>
-<td><p>ISBN 978-4-06-376983-8<br />
-ISBN 978-4-06-362272-0（特裝版）</p></td>
+<td><p>ISBN 978-4-06-376983-8</p></td>
+<td><p>ISBN 978-4-06-362272-0</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>2014年11月17日</p></td>
-<td><p>ISBN 978-4-06-377085-8<br />
-ISBN 978-4-06-362282-9（特裝版）</p></td>
+<td><p>ISBN 978-4-06-377085-8</p></td>
+<td><p>ISBN 978-4-06-362282-9</p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
 <td><p>2015年5月15日</p></td>
-<td><p>ISBN 978-4-06-377172-5<br />
-ISBN 978-4-06-362293-5（特裝版）</p></td>
+<td><p>ISBN 978-4-06-377172-5</p></td>
+<td><p>ISBN 978-4-06-362293-5</p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
 <td><p>2015年10月16日</p></td>
-<td><p>ISBN 978-4-06-377313-2<br />
-ISBN 978-4-06-362304-8（特裝版）</p></td>
+<td><p>ISBN 978-4-06-377313-2</p></td>
+<td><p>ISBN 978-4-06-362304-8</p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
 <td><p>2016年5月17日</p></td>
-<td><p>ISBN 978-4-06-377462-7<br />
-ISBN 978-4-06-362327-7（特裝版）</p></td>
+<td><p>ISBN 978-4-06-377462-7</p></td>
+<td><p>ISBN 978-4-06-362327-7</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
 <td><p>2016年10月17日</p></td>
-<td><p>ISBN 978-4-06-393052-8<br />
-ISBN 978-4-06-362341-3（特裝版）</p></td>
+<td><p>ISBN 978-4-06-393052-8</p></td>
+<td><p>ISBN 978-4-06-362341-3</p></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
 <td><p>2017年3月17日</p></td>
-<td><p>ISBN 978-4-06-393167-9<br />
-ISBN 978-4-06-362350-5（特裝版）</p></td>
+<td><p>ISBN 978-4-06-393167-9</p></td>
+<td><p>ISBN 978-4-06-362350-5</p></td>
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
 <td><p>2017年8月17日</p></td>
-<td><p>ISBN 978-4-06-393251-5<br />
-ISBN 978-4-06-362377-2（特裝版）</p></td>
+<td><p>ISBN 978-4-06-393251-5</p></td>
+<td><p>ISBN 978-4-06-362377-2</p></td>
 </tr>
 <tr class="even">
 <td><p>17</p></td>
 <td><p>2017年12月15日</p></td>
-<td><p>ISBN 978-4-06-510647-1<br />
-ISBN 978-4-06-510648-8（特裝版）</p></td>
+<td><p>ISBN 978-4-06-510647-1</p></td>
+<td><p>ISBN 978-4-06-510648-8</p></td>
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
 <td><p>2018年6月15日</p></td>
-<td><p>ISBN 978-4-06-511732-3<br />
-ISBN 978-4-06-511731-6（特裝版）</p></td>
+<td><p>ISBN 978-4-06-511732-3</p></td>
+<td><p>ISBN 978-4-06-511731-6</p></td>
 </tr>
 <tr class="even">
 <td><p>19</p></td>
 <td><p>2018年10月17日</p></td>
-<td><p>ISBN 978-4-06-513465-8<br />
-ISBN 978-4-06-513466-5（特裝版）</p></td>
+<td><p>ISBN 978-4-06-513465-8</p></td>
+<td><p>ISBN 978-4-06-513466-5</p></td>
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
 <td><p>2019年1月17日</p></td>
-<td><p>ISBN 978-4-06-514348-3<br />
-ISBN 978-4-06-514349-0（特裝版）</p></td>
+<td><p>ISBN 978-4-06-514348-3</p></td>
+<td><p>ISBN 978-4-06-514349-0</p></td>
 </tr>
 <tr class="even">
 <td><p>21</p></td>
 <td><p>2019年4月17日</p></td>
 <td><p>ISBN 978-4-06-515254-6</p></td>
+<td><p>ISBN 978-4-06-515255-3</p></td>
+</tr>
+<tr class="odd">
+<td><p>22</p></td>
+<td><p>2019年7月17日</p></td>
+<td><p>ISBN 978-4-06-516435-8</p></td>
+<td><p>ISBN 978-4-06-516436-5</p></td>
+</tr>
+<tr class="even">
+<td><p>23</p></td>
+<td><p>2019年10月17日</p></td>
+<td><p>ISBN 978-4-06-517375-6</p></td>
+<td><p>ISBN 978-4-06-517376-3</p></td>
 </tr>
 </tbody>
 </table>

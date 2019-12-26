@@ -299,14 +299,11 @@
 [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
-
 6.
-
 7.
 8.
 9.
@@ -316,5 +313,4 @@
 13.
 14.
 15.
-
 16.

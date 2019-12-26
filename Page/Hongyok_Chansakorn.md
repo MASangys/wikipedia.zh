@@ -488,5 +488,5 @@
 17. [You are Beautiful 官方MV](https://www.youtube.com/watch?v=cTod40_9028)
 18. [หงหยก AF10 กับมินิคอนเสิร์ต More Than Me สุดอบอุ่น](http://www.ryt9.com/s/prg/1873182)
 19. [แฟนคลับกรี๊ด "นัน-หง" AF10 จิ้นกันในมินิคอนเสิร์ต "NHY journey of us"](http://www.daradaily.com/news/41651/read/)
-20. [รูปภาพปกจากนิตยสาร KAZZ vol. 8 no. 87 September 2013](http://www.magazinedee.com/main/imagepreview.php?id=16016971631730919601)
+20.
 21. [ประกาศผลDaradaily Poll](http://www.daradaily.com/news/37831/read/)

@@ -18,7 +18,7 @@ QUIC允许更容易地进行未来更改，因为它不需要更改内核就可�
 
 关于从TCP迁移到UDP的一个问题是TCP被广泛采用，并且互联网基础设施中的许多中间设备被调整为UDP速率限制甚至阻止UDP。 Google进行了一些探索性实验来描述这一点，发现只有少数连接存在此问题。\[13\]所以Chromium的网络堆栈同时打开QUIC和传统TCP连接，并在QUIC连接失败时以零延迟回退到TCP连接。\[14\]
 
-### gGUIC与iQUIC
+### gQUIC与iQUIC
 
 由Google创建并以QUIC的名称提交给IETF的协议与随后在IETF中创建的QUIC完全不同（尽管名称相同）。 最初的Google QUIC（也称为gQUIC）严格来说是通过加密UDP发送HTTP/2帧的协议，而IETF创建的QUIC是通用传输协议，也就是说HTTP以外的其他协议（如[SMTP](https://zh.wikipedia.org/wiki/SMTP "wikilink")、[DNS](https://zh.wikipedia.org/wiki/DNS "wikilink")、[SSH](../Page/Secure_Shell.md "wikilink")、[Telnet](../Page/Telnet.md "wikilink")、[NTP](../Page/網路時間協定.md "wikilink")）也可以使用它。重要的是要注意并记住其差异。 自2012年以来，Google在其服务及Chrome中使用的QUIC版本（直到2019年2月）为Google QUIC。随着时间的推移，它正在逐渐变得类似于IETF QUIC（也称为iQUIC）。
 
@@ -74,28 +74,17 @@ QUIC允许更容易地进行未来更改，因为它不需要更改内核就可�
 [Category:传输层协议](https://zh.wikipedia.org/wiki/Category:传输层协议 "wikilink") [Category:网际协议](https://zh.wikipedia.org/wiki/Category:网际协议 "wikilink") [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink")
 
 1.  [Innovating Transport with QUIC: Design Approaches and Research Challenges](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7867726)，2017
-
 2.  [MULTIPLEXED STREAM TRANSPORT OVER UDP](https://docs.google.com/document/d/1RNHkx_VvKWyWg6Lr8SZ-saqsQx7rFV-ev2jRFUoVD34/mobilebasic?pli=1)，Google
-
 3.  [Google推動QUIC新協定，讓網頁瀏覽、影片播放更快速](http://www.techbang.com/posts/23287-google-quic-technology-so-online-fast)，T客邦，2015-04-22
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
 12.
 13.
-
 14.
-
 15.

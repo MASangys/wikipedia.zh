@@ -70,13 +70,9 @@
 
 [Category:日本鐵路公司](https://zh.wikipedia.org/wiki/Category:日本鐵路公司 "wikilink") [Category:京都府鐵路](https://zh.wikipedia.org/wiki/Category:京都府鐵路 "wikilink") [Category:兵庫縣鐵路](https://zh.wikipedia.org/wiki/Category:兵庫縣鐵路 "wikilink") [Category:京都府公司](https://zh.wikipedia.org/wiki/Category:京都府公司 "wikilink") [Category:京都丹後鐵道](https://zh.wikipedia.org/wiki/Category:京都丹後鐵道 "wikilink") [Category:2014年日本建立](https://zh.wikipedia.org/wiki/Category:2014年日本建立 "wikilink")
 
-1.  [タンゴ鉄道運行会社、ウィラー社に決定，](http://kyoto-np.co.jp/top/article/20140508000172)京都新聞，2014年5月8日。
-
+1.  [タンゴ鉄道運行会社、ウィラー社に決定，](http://kyoto-np.co.jp/top/article/20140508000172) 京都新聞，2014年5月8日。
 2.  [北近畿タンゴ鉄道は「京都丹後鉄道」に…WILLER TRAINSが発表，](http://response.jp/article/2015/01/29/242921.html)Response，2015年1月29日。
-
 3.  [北近畿タンゴ鉄道から京都丹後鉄道へ - WILLER TRAINSの"大きな構想"とは?](http://news.mynavi.jp/articles/2015/02/04/willertrains/)Mynavi.jp，2015年2月4日。
-
 4.  [WILLER TRAINS公式網頁公佈。](http://travel.willer.co.jp/campaign/tantetsu/changes.php)
-
 5.
 6.

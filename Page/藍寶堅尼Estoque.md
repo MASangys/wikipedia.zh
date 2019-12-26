@@ -18,19 +18,12 @@ Estoque於2008年[巴黎車展](../Page/巴黎車展.md "wikilink")首次亮相�
 [Category:林寶堅尼車輛](https://zh.wikipedia.org/wiki/Category:林寶堅尼車輛 "wikilink") [Category:2000年代汽車](https://zh.wikipedia.org/wiki/Category:2000年代汽車 "wikilink") [Category:高性能轎車](https://zh.wikipedia.org/wiki/Category:高性能轎車 "wikilink") [Category:四輪驅動](https://zh.wikipedia.org/wiki/Category:四輪驅動 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
-
 8.
-
 9.
-
 10.

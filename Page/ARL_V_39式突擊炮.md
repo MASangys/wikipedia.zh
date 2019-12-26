@@ -31,19 +31,14 @@ ARL V 39上安裝了一門75毫米火炮。這款火炮是1929年式堡壘炮的
 [Category:突擊炮](https://zh.wikipedia.org/wiki/Category:突擊炮 "wikilink") [Category:二戰法國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:二戰法國裝甲戰鬥車輛 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
 7.
 8.
-
 9.
-
 10.
 11.
 12.

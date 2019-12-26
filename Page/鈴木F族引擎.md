@@ -315,21 +315,21 @@ F6A型經歷過不同程度的調校，最大馬力及扭力分別如下所示�
 
   - [スズキ：F5B型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/f5b/)
 
-  - [スズキ：F6A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/f6a/)
+  - [スズキ：F6A型エンジン](https://web.archive.org/web/20150206060411/http://greeco-channel.com/car/engine/suzuki_eg/f6a/)
 
-  - [スズキ：F6B型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/f6b/)
+  - [スズキ：F6B型エンジン](https://web.archive.org/web/20150325180452/http://greeco-channel.com/car/engine/suzuki_eg/f6b/)
 
 ## 外部連結
 
   - [スズキ：F5B型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/f5b/)
 
-  - [スズキ：F6A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/f6a/)
+  - [スズキ：F6A型エンジン](https://web.archive.org/web/20150206060411/http://greeco-channel.com/car/engine/suzuki_eg/f6a/)
 
-  - [スズキ：F6B型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/f6b/)
+  - [スズキ：F6B型エンジン](https://web.archive.org/web/20150325180452/http://greeco-channel.com/car/engine/suzuki_eg/f6b/)
 
 [Category:活塞發動機](https://zh.wikipedia.org/wiki/Category:活塞發動機 "wikilink") [Category:直列三缸引擎](https://zh.wikipedia.org/wiki/Category:直列三缸引擎 "wikilink") [Category:直列四缸引擎](https://zh.wikipedia.org/wiki/Category:直列四缸引擎 "wikilink") [Category:鈴木引擎與技術](https://zh.wikipedia.org/wiki/Category:鈴木引擎與技術 "wikilink")
 
 1.  於是1977年6月上市的小改款Fronte中，部分車型搭載由[大發工業提供的](https://zh.wikipedia.org/wiki/大發工業株式會社 "wikilink")。後來，二衝程循環引擎的第四代鈴木Fronte順利通過該排放標準的檢驗。
 2.  [スズキ株式会社：軽四輪車「アルト」に 低燃費・低価格ターボエンジン 搭載車「エポ ターボ」を設定し新発売](http://www.suzuki.co.jp/release/a/a990316.htm)。
-3.  [スズキ：F6B型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/f6b/)。
+3.  [スズキ：F6B型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/f6b/) 。
 4.  [哈爾濱市人民政府地方志辦公室：東安發動機製造公司](http://218.10.232.41:8080/was40/detail?record=70&channelid=24855&presearchword=)。

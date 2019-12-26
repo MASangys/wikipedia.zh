@@ -9,7 +9,7 @@
   - [*An Introduction To Shell Programming* by Greg Goebel](http://www.faqs.org/docs/air/tsshell.html)
   - [*UNIX / Linux shell scripting tutorial* by Steve Parker](http://steve-parker.org/sh/sh.shtml)
   - [*Shell Scripting Primer* (Apple)](http://developer.apple.com/mac/library/documentation/OpenSource/Conceptual/ShellScripting/)
-  - [*What to watch out for when writing portable shell scripts* by Peter Seebach](http://www.linux.com/articles/34658)
+  - [*What to watch out for when writing portable shell scripts* by Peter Seebach](https://web.archive.org/web/20090324070111/http://www.linux.com/articles/34658)
   - [Free Unix Shell scripting books](http://freebookcentre.net/UnixCategory/Free-Unix-Shell-Programming-Books-Download.html)
 
 [Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink") [Category:Unix_shells](https://zh.wikipedia.org/wiki/Category:Unix_shells "wikilink")

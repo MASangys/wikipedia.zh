@@ -63,32 +63,18 @@ TCP快速打开（TFO）类似一项1994年被称作[T/TCP](https://zh.wikipedia
 [Category:TCP/IP](https://zh.wikipedia.org/wiki/Category:TCP/IP "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.

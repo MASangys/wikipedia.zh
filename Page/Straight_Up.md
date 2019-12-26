@@ -26,7 +26,7 @@
 
 ## 參考資料
 
-[Category:美國冠軍單曲](https://zh.wikipedia.org/wiki/Category:美國冠軍單曲 "wikilink") [Category:告示牌百強單曲榜冠軍單曲](https://zh.wikipedia.org/wiki/Category:告示牌百強單曲榜冠軍單曲 "wikilink") [Category:黑白音樂錄影帶](https://zh.wikipedia.org/wiki/Category:黑白音樂錄影帶 "wikilink") [Category:MTV最佳女藝人錄影帶](https://zh.wikipedia.org/wiki/Category:MTV最佳女藝人錄影帶 "wikilink")
+[Category:1988年歌曲](https://zh.wikipedia.org/wiki/Category:1988年歌曲 "wikilink") [Category:美國冠軍單曲](https://zh.wikipedia.org/wiki/Category:美國冠軍單曲 "wikilink") [Category:告示牌百強單曲榜冠軍單曲](https://zh.wikipedia.org/wiki/Category:告示牌百強單曲榜冠軍單曲 "wikilink") [Category:黑白音樂錄影帶](https://zh.wikipedia.org/wiki/Category:黑白音樂錄影帶 "wikilink") [Category:MTV最佳女藝人錄影帶](https://zh.wikipedia.org/wiki/Category:MTV最佳女藝人錄影帶 "wikilink")
 
 1.  [美國告示牌官網寶拉·阿巴杜單曲榜成績](http://www.billboard.com/artist/328428/paula-abdul/chart?page=1&f=379)
 2.  [美國告示牌官網2007-01-06音樂報導](http://www.billboard.com/articles/news/1063436/ask-billboard)

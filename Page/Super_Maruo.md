@@ -25,10 +25,7 @@ FC遊戲機生產商[任天堂](../Page/任天堂.md "wikilink")方面對於《S
 [Category:1986年電子遊戲](https://zh.wikipedia.org/wiki/Category:1986年電子遊戲 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:日本成人遊戲](https://zh.wikipedia.org/wiki/Category:日本成人遊戲 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.

@@ -125,7 +125,7 @@
 <tr class="even">
 <td><p>5</p></td>
 <td></td>
-<td></td>
+<td><p>鬥士們</p></td>
 <td><p>2014年6月4日</p></td>
 <td><p>ISBN 978-4-08-880073-8</p></td>
 </tr>
@@ -210,6 +210,11 @@
 <td><p>2015年6月4日</p></td>
 </tr>
 <tr class="even">
+<td><p>3</p></td>
+<td></td>
+<td><p>2016年3月4日</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -227,4 +232,4 @@
 
   - 。2014年4月7日より稼動。
 
-[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:音樂漫畫](https://zh.wikipedia.org/wiki/Category:音樂漫畫 "wikilink") [Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink") [Category:群馬縣背景作品](https://zh.wikipedia.org/wiki/Category:群馬縣背景作品 "wikilink")
+[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:少年Jump+](https://zh.wikipedia.org/wiki/Category:少年Jump+ "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:音樂漫畫](https://zh.wikipedia.org/wiki/Category:音樂漫畫 "wikilink") [Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink") [Category:群馬縣背景作品](https://zh.wikipedia.org/wiki/Category:群馬縣背景作品 "wikilink")

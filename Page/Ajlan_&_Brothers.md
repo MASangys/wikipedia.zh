@@ -80,22 +80,13 @@ Right Fax软件、SCOM软件、SMS软件用于公司信息的管理来保证所�
 [Category:沙地阿拉伯公司](https://zh.wikipedia.org/wiki/Category:沙地阿拉伯公司 "wikilink") [Category:服裝公司](https://zh.wikipedia.org/wiki/Category:服裝公司 "wikilink")
 
 1.  [伊斯兰头巾市场的领导者，沙特阿基兰兄弟公司成功发展的故事](http://www.alriyadhtrading.com/show_content_sub.php?CUV=42&Model=M&SubModel=31&ID=1170&ShowAll=On) , 利雅得商业。
-
 2.  [沙特阿基兰兄弟公司借助最好的设计与制造顾问来满足客户的需求](http://www.alraseef.net/more.php?thisid=16590&thiscat=18) , AlRaseef.net.
-
 3.  [沙特阿基兰兄弟公司签订产品仓库建设协议](http://www.alsharq.net.sa/2012/12/29/651326), 中东新闻网。
-
 4.
 5.  [沙特阿基兰兄弟公司与甲骨文公司签订协议来加强公司扩张](http://www.aleqt.com/2011/04/02/article_521766.html), 经济报
-
 6.  [沙特阿基兰兄弟公司，合伙人同一条心](http://www.alriyadh.com/2013/01/20/article803169.html), 利雅得报。
-
 7.  [利雅得报，经济利亚德](http://www.alriyadh.com/931907), 2014年5月1日（周四）。
-
 8.  [利雅得报，经济利亚德](http://www.alriyadh.com/930708), 2014年4月27日（周日）。
-
 9.  [2014年阿拉伯富豪榜](http://www.forbesmiddleeast.com/en/lists/people/pname/al-ajlan-family/pid/13093) , 中东福布斯杂质。
-
 10. [2014年30大沙特富豪榜](http://arabic.arabianbusiness.com/special-reports/354732/25), Arabian Business.
-
 11. [2009年50大沙特富豪榜](http://arabic.arabianbusiness.com/special-reports/59508/18/#.UW6W6zDLpv9), Arabian Business.

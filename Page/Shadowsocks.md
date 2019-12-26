@@ -2,7 +2,7 @@
 
 在中国大陆，本工具广泛用于突破[防火长城](../Page/防火长城.md "wikilink")（GFW），以浏览被封锁、遮蔽或干扰的内容。2015年8月22日，Shadowsocks原作者Clowwindy稱受到了[中国政府的压力](../Page/中华人民共和国网络审查.md "wikilink")，宣布停止维护此计划（项目）并移除其个人页面所存储的源代码\[1\]\[2\]。
 
-为了避免[关键词过滤](https://zh.wikipedia.org/wiki/关键词过滤 "wikilink")，网民会根据[谐音将ShadowsocksR称为](https://zh.wikipedia.org/wiki/谐音_\(语言学\) "wikilink")“酸酸乳”（SSR），将Shadowsocks称为“酸酸”（SS）。
+为了避免[关键词过滤](https://zh.wikipedia.org/wiki/关键词过滤 "wikilink")，网民会根据[谐音将ShadowsocksR称为](https://zh.wikipedia.org/wiki/谐音_\(语言学\) "wikilink")“酸酸乳”（SSR），将Shadowsocks称为“酸酸”（SS）。另外Shadowsocks的标志为纸飞机，而专门提供Shadowsocks或类似软件（如[V2ray](https://zh.wikipedia.org/wiki/V2ray "wikilink")）服务器的网站也被称为“机场”。
 
 ## 运行原理
 
@@ -15,13 +15,13 @@
   - Shadowsocks使用自行设计的协议进行加密通信。\[3\]加密算法有[AES](../Page/高级加密标准.md "wikilink")、[Blowfish](https://zh.wikipedia.org/wiki/Blowfish_\(密码学\) "wikilink")、[IDEA](https://zh.wikipedia.org/wiki/IDEA算法 "wikilink")、[RC4](../Page/RC4.md "wikilink")等，除建立[TCP连接外无需](../Page/传输控制协议.md "wikilink")[握手](https://zh.wikipedia.org/wiki/握手_\(技术\) "wikilink")，每次请求只转发一个连接，無需保持「一直連線」的狀態，因此在移动设备上相對较爲省电。
   - 所有的流量都经过算法加密，允许自行选择算法。
   - Shadowsocks通过[异步I/O和事件驱动程序运行](https://zh.wikipedia.org/wiki/异步I/O "wikilink")，响应速度快。
-  - 客户端覆盖多个主流操作系统和平台，包括[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[Android](../Page/Android.md "wikilink")、[Linux](../Page/Linux.md "wikilink")和[iOS系统和路由器](https://zh.wikipedia.org/wiki/iOS "wikilink")（OpenWrt）等\[4\]。
+  - 客户端覆盖多个主流操作系统和平台，包括[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[Android](../Page/Android.md "wikilink")、[Linux](../Page/Linux.md "wikilink")和[iOS系统和路由器](https://zh.wikipedia.org/wiki/iOS "wikilink")（OpenWrt）等\[4\]。
 
 ### 安全性
 
 Shadowsocks的最初设计目的只是为了绕过GFW，而不是提供密码学意义的安全，所以Shadowsocks自行设计的加密协议对双方的身份验证仅限于，亦无[完全前向保密](https://zh.wikipedia.org/wiki/完全前向保密 "wikilink")，也未曾有安全专家公开分析或评估协议及其实现。如果是在監聽類型的國家內想更加安全的上网，基本上Shadowsocks功能不夠完善，應該使用隱密性更高的工具。\[5\]
 
-Shadowsocks本质上只是设置了密码的专用[网络代理协议](../Page/代理服务器.md "wikilink")，不能替代[TLS或者](https://zh.wikipedia.org/wiki/TLS "wikilink")[VPN](https://zh.wikipedia.org/wiki/VPN "wikilink")，不能用作[匿名](../Page/匿名.md "wikilink")通信方案，该协议的目标不在于提供完整的通信安全机制，主要是为了协助上网用户在[严苛的网络环境中突破封锁](../Page/互联网审查.md "wikilink")。
+Shadowsocks本质上只是设置了密码的专用[网络代理协议](../Page/代理服务器.md "wikilink")，不能替代[TLS或者](https://zh.wikipedia.org/wiki/TLS "wikilink")[VPN](https://zh.wikipedia.org/wiki/VPN "wikilink")，不能用作[匿名](../Page/匿名.md "wikilink")通信方案，该协议的目标不在于提供完整的通信安全机制，主要是为了协助上网用户在[严苛的网络环境中突破封锁](../Page/互联网审查.md "wikilink")。不过，在匿名通信能够被识别或封锁的情况下，也可将Shadowsocks与其他匿名方案配合使用，同时满足突破封锁和匿名的需求。
 
 在某些极端的环境下，通过[深度包检测](../Page/深度包检测.md "wikilink")（DPI）也有可能识别出协议特征。为了确保安全，用户应做好额外的加密和验证措施，以免泄露信息，无论使用的服务器来源是否可靠。2017年9月21日，一篇名为《The Random Forest based Detection of Shadowsock's Traffic》的论文在[IEEE发表](https://zh.wikipedia.org/wiki/IEEE "wikilink")，该论文介绍了通过随机森林算法检测Shadowsocks流量的方法，并自称可达到85％的检测精度\[6\]，雖然該論文的有效性遭到网友质疑\[7\]，但[机器学习](../Page/机器学习.md "wikilink")配合GFW已經實現的深度封包檢測來識別網路流量特徵的做法是實際可行的，而且還適用於任何網路代理協定而不僅僅侷限於Shadowsocks。\[8\]
 
@@ -66,48 +66,26 @@ ShadowsocksR開始時曾有过违反[GPL](../Page/GNU通用公共许可证.md "w
 [Category:2012年软件](https://zh.wikipedia.org/wiki/Category:2012年软件 "wikilink") [Category:代理服务器](https://zh.wikipedia.org/wiki/Category:代理服务器 "wikilink") [Category:代理软件](https://zh.wikipedia.org/wiki/Category:代理软件 "wikilink") [Category:翻墙软件](https://zh.wikipedia.org/wiki/Category:翻墙软件 "wikilink") [Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink") [Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink")
 
 1.   IT-eNews|date = 2015-08-20|accessdate = 2016-02-03}}
-
 2.  <small>（[中文翻译](https://zh.wikipedia.org/wiki/s:Translation:Speech_that_Enables_Speech:_China_Takes_Aim_at_Its_Coders "wikilink")）</small>
-
 3.
-
 4.
-
 5.  [关于一些基本问题的讨论：Shadowsocks有没有（以及要不要）提供密码学意义的安全？ · Issue \#64 · shadowsocks/shadowsocks-org - GitHub](https://github.com/shadowsocks/shadowsocks-org/issues/64)
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.

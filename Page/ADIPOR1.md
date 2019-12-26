@@ -35,7 +35,6 @@ ADIPOR1和[G蛋白偶联受体](../Page/G蛋白偶联受体.md "wikilink")（GPC
 <!-- end list -->
 
 1.
-
 2.
 3.
 4.

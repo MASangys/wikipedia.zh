@@ -18,6 +18,8 @@
 
 #### 電視動畫
 
+  - 2010年代
+
 <table>
 <thead>
 <tr class="header">
@@ -275,9 +277,9 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/放學後桌遊俱樂部" title="wikilink">放學後桌遊俱樂部</a></p></td>
 <td></td>
-<td></td>
-<td><p>10月－未定</p></td>
+<td><p>10月－播放中</p></td>
 <td><p><a href="../Page/今泉賢一.md" title="wikilink">今泉賢一</a></p></td>
 <td></td>
 <td></td>
@@ -292,13 +294,41 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+</tbody>
+</table>
+
+  - 2020年代
+
+<table>
+<thead>
+<tr class="header">
+<th><p>首播年份</p></th>
+<th><p>中文標題</p></th>
+<th><p>日文標題</p></th>
+<th><p>首播期間</p></th>
+<th><p>導演</p></th>
+<th><p>原作類別</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
 <td><p>2020年</p></td>
-<td><p>啄木鳥偵探處</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/啄木鳥偵探處" title="wikilink">啄木鳥偵探處</a></p></td>
 <td></td>
-<td><p>春天</p></td>
-<td><p>江崎慎平（總導演）</p></td>
+<td><p>4月－預定</p></td>
+<td><p>江崎慎平（總導演）<br />
+牧野友映（導演）</p></td>
 <td><p>小說</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>時期未定</p></td>
+<td></td>
+<td></td>
+<td><p>未定</p></td>
+<td><p>migmi</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -399,6 +429,8 @@
   - （2017年）
 
   - （2017年）
+
+  - [無限之住人 -IMMORTAL-](../Page/無限之住人.md "wikilink")（2019年）
 
 #### PV
 
@@ -597,7 +629,7 @@
 </tbody>
 </table>
 
-## 來源
+## 參考來源
 
 ## 相關人物
 
@@ -625,10 +657,8 @@
 [Category:Ultra_Super_Pictures](https://zh.wikipedia.org/wiki/Category:Ultra_Super_Pictures "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink") [Category:2012年成立的公司](https://zh.wikipedia.org/wiki/Category:2012年成立的公司 "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
-
 6.

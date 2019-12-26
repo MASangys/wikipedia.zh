@@ -14,7 +14,7 @@ HUSH在2017年12月23日在五月天[人生無限公司巡迴演唱會](../Page/
 
 根據2015年4月的《[聯合報](https://zh.wikipedia.org/wiki/聯合報 "wikilink")》報導，HUSH與另一半分手，使得他不斷透過私人臉書抒發滿腔苦痛，甚至留下情緒字眼，「4:25醉醺醺地回到家，一邊冷血地書寫自己，一邊重播大哭時嚷嚷著為什麼他可以說斷就斷」，隔沒多久又說，「足不出戶，心也是\[11\]。」以及吞[安眠藥無效](https://zh.wikipedia.org/wiki/安眠藥 "wikilink")、在夜深人靜時痛哭等等，引來不少朋友關切，希望他能早日走過情傷\[12\]。
 
-據2019年05月24日據《[中時電子報](../Page/中國時報.md "wikilink")》報導，在「同婚專法」上路前一天，傳訊息向雙親出櫃。
+據2019年5月24日據《[中時電子報](../Page/中國時報.md "wikilink")》報導，在「同婚專法」上路前一天，傳訊息向雙親出櫃。
 
 ## 音樂作品
 
@@ -134,6 +134,22 @@ HUSH在2017年12月23日在五月天[人生無限公司巡迴演唱會](../Page/
 </ul></td>
 <td style="text-align: left;"><ol>
 <li>對等關係</li>
+</ol></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p><strong>3rd</strong></p></td>
+<td style="text-align: left;"><p>《<a href="https://zh.wikipedia.org/wiki/查無此人_(專輯)" title="wikilink">查無此人 音樂概念專輯</a>》</p>
+<ul>
+<li>發行日：2019年5月14日</li>
+<li>唱片公司：<a href="../Page/相信音樂.md" title="wikilink">相信音樂</a></li>
+</ul></td>
+<td style="text-align: left;"><ol>
+<li>大樹小花</li>
 </ol></td>
 </tr>
 <tr class="even">
@@ -476,23 +492,13 @@ HUSH在2017年12月23日在五月天[人生無限公司巡迴演唱會](../Page/
 1.
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.

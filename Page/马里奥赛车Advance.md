@@ -122,13 +122,13 @@ Choco Island 1</p></td>
 Mario Circuit 3</p></td>
 <td><p>庫巴城堡3<br />
 Bowser Castle 3</p></td>
-<td><p>鬼怪沼澤3<br />
+<td><p>幽靈沼澤3<br />
 Ghost Valley 3</p></td>
 </tr>
 <tr class="odd">
-<td><p>鬼怪沼澤1<br />
+<td><p>幽靈沼澤1<br />
 Ghost Valley 1</p></td>
-<td><p>鬼怪沼澤2<br />
+<td><p>幽靈沼澤2<br />
 Ghost Valley 2</p></td>
 <td><p>慢慢龜海灘1<br />
 Koopa Beach 1</p></td>

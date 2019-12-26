@@ -43,15 +43,10 @@ OIL於1986年在香港開始營運。1988年，首次在香港推廣[英屬維�
 [Category:香港公司](https://zh.wikipedia.org/wiki/Category:香港公司 "wikilink") [Category:1986年成立的公司](https://zh.wikipedia.org/wiki/Category:1986年成立的公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.

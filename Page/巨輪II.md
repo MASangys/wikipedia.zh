@@ -1,4 +1,4 @@
-《**巨輪II**》（英语：**Brother's Keeper II**），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝倫理[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，故事背景以商业竞争為題。由[蕭正楠](../Page/蕭正楠.md "wikilink")、[田蕊妮](../Page/田蕊妮.md "wikilink")及[陳凱琳領銜主演](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")，由[陳展鵬](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")、[鍾嘉欣及](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[李亞男特別演出](https://zh.wikipedia.org/wiki/李亞男 "wikilink")，並由[楊明](../Page/楊明.md "wikilink")、[吳岱融](../Page/吳岱融.md "wikilink")、[阮兆祥](../Page/阮兆祥.md "wikilink")及[梁琤](../Page/梁琤.md "wikilink")聯合主演，監製[王心慰](../Page/王心慰.md "wikilink")。
+《**巨輪II**》（英语：**Brother's Keeper II**），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝倫理[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，故事背景以商业竞争為題。由[蕭正楠](../Page/蕭正楠.md "wikilink")、[田蕊妮](../Page/田蕊妮.md "wikilink")及[陳凱琳領銜主演](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")，由[陳展鵬](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")、[鍾嘉欣特別演出](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，並由[楊明](../Page/楊明.md "wikilink")、[吳岱融](../Page/吳岱融.md "wikilink")、[阮兆祥](../Page/阮兆祥.md "wikilink")及[梁琤](../Page/梁琤.md "wikilink")聯合主演，監製[王心慰](../Page/王心慰.md "wikilink")。
 
 此劇是《[巨輪](../Page/巨輪.md "wikilink")》的續集，亦繼續由[钜記餅家冠名贊助](https://zh.wikipedia.org/wiki/钜記餅家 "wikilink")，並於[澳門](../Page/澳門.md "wikilink")、[香港](../Page/香港.md "wikilink")、[日本](../Page/日本.md "wikilink")取景。
 
@@ -2285,7 +2285,7 @@ Noon之男友<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="../Page/張雪瑩.md" title="wikilink">張雪瑩</a></p></td>
 <td><p>護　士</p></td>
 <td></td>
 <td></td>
@@ -2540,7 +2540,7 @@ Noon之表哥<br />
 <td><p>37</p></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="../Page/徐玟晴.md" title="wikilink">徐玟晴</a></p></td>
 <td><p>病　人</p></td>
 <td><p>於第38集被锺國寶手下劫持</p></td>
 <td><p>38</p></td>
@@ -2831,63 +2831,34 @@ Noon之表哥<br />
 [Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink") [Category:澳門背景電視劇](https://zh.wikipedia.org/wiki/Category:澳門背景電視劇 "wikilink") [Category:沖繩縣背景電視劇](https://zh.wikipedia.org/wiki/Category:沖繩縣背景電視劇 "wikilink") [Category:巨輪系列](https://zh.wikipedia.org/wiki/Category:巨輪系列 "wikilink")
 
 1.
-
 2.
-
 3.  [on.cc：【鍾意佢夠賤格】網民熱捧高天鷲金句](http://hk.on.cc/hk/bkn/cnt/entertainment/20161014/bkn-20161014194114677-1014_00862_001.html)，2016年10月14日
-
 4.
-
 5.  [新劇瞓身力戰陳凱琳 田蕊妮抱病跳海升呢無綫一姐](https://hk.celebrity.yahoo.com/news/新劇瞓身力戰陳凱琳-田蕊妮抱病跳海升呢無綫-姐-215518417.html)
-
 6.
 7.  [Yahoo！娛樂圈：會唔會跌穿20點？《巨輪II》收視跌至20.8點](https://hk.celebrity.yahoo.com/會唔會跌穿20點巨輪ii收視跌至208點-062326653.html)，2016年09月20日
-
 8.  [蘋果日報：【靠強姦戲救收視】冇咗鍾嘉欣得番誇張陳凱琳 網民留名等睇《巨輪II》腰斬](http://hk.apple.nextmedia.com/enews/realtime/20160927/55701121)，2016年9月27日
-
 9.  [OHWO：◤TVB 重頭戲巨輪2變亂倫?◢吳岱融& 陳凱琳竟然發展父女曖昧? 還在戲里… 網民: OMG\!](http://www.ohwonews.com/164035/)
-
 10. [TVB Facebook﹕巨輪II 幕後花絮](https://www.facebook.com/tvbcom/videos/10154378080608449/?hc_ref=SEARCH)
-
 11. [MYTVSuper Facebook﹕［巨輪II］](https://www.facebook.com/mytvsuper/videos/745403345597657/)
-
 12. [Yahoo\!娛樂圈：《為食神探》同《巨輪II》撞晒人 網民有咩評價？](https://hk.celebrity.yahoo.com/為食神探-同-巨輪ii-撞晒人-1510571838177334.html?src=fb_omgfanpage)，2016年9月7日
-
 13. [蘋果日報：【耳朵懷孕了】（附李佳芯多圖）無綫大配角唱《律政強人》英文插曲 超好聽](http://hk.apple.nextmedia.com/enews/realtime/20160927/55700319?top=24h)，2016年9月27日
-
 14. [Yahoo\!娛樂圈：唔似睇緊劇 《巨輪II》越睇越似沖繩旅遊特輯](https://hk.celebrity.yahoo.com/唔似睇緊劇-巨輪ii越睇越似沖繩旅遊特輯-063600562.html)
-
 15. 前作女主角[鍾嘉欣因接拍](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")《[警犬巴打](https://zh.wikipedia.org/wiki/警犬巴打 "wikilink")》；前作男主角[陳展鵬因接拍](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")《[城寨英雄](../Page/城寨英雄.md "wikilink")》，故兩者皆未能於該段期間出演《巨輪II》
-
 16. [鍾嘉欣被飛《巨輪ii》由陳凱琳擔大旗](https://hk.celebrity.yahoo.com/news/鍾嘉欣被飛《巨輪ii》由陳凱琳擔大旗-024633930.html)
-
 17. [【《巨輪II》劇透】陳展鵬鍾嘉欣「情侶配」網民期待](http://ol.mingpao.com/php/showbiz3.php?nodeid=1472628981825&subcate=latest&issue=20160831)
-
 18. [plem.com：巨輪II](http://wp.plem.com/?p=27455)
-
 19. [東方新地：《巨輪II》負評多 陳凱琳成箭靶](http://www.orientalsunday.hk/最新娛聞/《巨輪ii》負評多-陳凱琳成箭靶/)
-
 20. [陳展鵬、鍾嘉欣變配角 《巨輪2》竟然負評如潮？](http://www.nmplus.hk/enterainment/%E3%80%8A%E5%B7%A8%E8%BC%AA2%E3%80%8B%E9%96%8B%E6%92%AD%E8%B2%A0%E8%A9%95%E5%A6%82%E6%BD%AE/2/)
-
 21.
 22. [香港01：陳凱琳《巨輪II》被批評　鄭嘉穎撐女友：演技需要時間磨練](http://www.hk01.com/娛樂/43633/陳凱琳-巨輪II-被批評-鄭嘉穎撐女友-演技需要時間磨練)，2016年09月17日
-
 23.
-
 24. [演瘋狂獸父高天鷲爆紅 視迷睇好吳岱融問鼎最奸男主角](http://skypost.ulifestyle.com.hk/%E5%A8%9B%E6%A8%82/%E5%A8%9B%E6%A8%82/20161018/002/%E6%BC%94%E7%98%8B%E7%8B%82%E7%8D%B8%E7%88%B6%E9%AB%98%E5%A4%A9%E9%B7%B2%E7%88%86%E7%B4%85%20%E8%A6%96%E8%BF%B7%E7%9D%87%E5%A5%BD%E5%90%B3%E5%B2%B1%E8%9E%8D%E5%95%8F%E9%BC%8E%E6%9C%80%E5%A5%B8%E7%94%B7%E4%B8%BB%E8%A7%92/232815) ，[晴報](../Page/晴報.md "wikilink")，2016年10月18日
-
 25. [【高天鷲：攞去洗啦～臭雞！】](https://www.facebook.com/bullshxtking/videos/818934514915314/)，[靚抽王 Bull Shxt King fb專頁](https://www.facebook.com/bullshxtking/videos/818934514915314/)，2016年10月13日
-
 26. [【鍾意佢夠賤格】網民熱捧高天鷲金句](http://hk.on.cc/hk/bkn/cnt/entertainment/20161014/bkn-20161014194114677-1014_00862_001.html)，[東網](https://zh.wikipedia.org/wiki/ON.CC "wikilink")，2016年10月14日
-
 27. [吳岱融《巨輪II》勁鬧李佳芯係「雞」 視帝級演繹高天鷲：一定要講呢句！](http://www.hk01.com/%E5%A8%9B%E6%A8%82/48522/%E5%90%B3%E5%B2%B1%E8%9E%8D-%E5%B7%A8%E8%BC%AAII-%E5%8B%81%E9%AC%A7%E6%9D%8E%E4%BD%B3%E8%8A%AF%E4%BF%82-%E9%9B%9E-%E8%A6%96%E5%B8%9D%E7%B4%9A%E6%BC%94%E7%B9%B9%E9%AB%98%E5%A4%A9%E9%B7%B2-%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AC%9B%E5%91%A2%E5%8F%A5-)，[香港01](../Page/香港01.md "wikilink")，2016年10月14日
-
 28. [New Monday：《巨輪II》大結局 高天鷲比天收 羅威信倀雞英反目？](http://www.nmplus.hk/enterainment/巨輪ii大結局/5/)
-
 29.
-
 30.
-
 31.
-
 32.

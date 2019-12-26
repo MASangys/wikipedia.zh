@@ -67,7 +67,7 @@ Split: [Image:AA Tree Split2.svg](https://zh.wikipedia.org/wiki/File:AA_Tree_Spl
 
 ## 插入
 
-在遞迴的實做中，除了葉節點之外，在每次的遞迴結束後呼叫skew和split及可
+在遞迴的實做中，除了葉節點之外，在每次的遞迴結束後呼叫skew和split即可
 
 **`function`**` insert `**`is`**
 `    `**`input:`**` X, the value to be inserted, and T, the root of the tree to insert it into.`

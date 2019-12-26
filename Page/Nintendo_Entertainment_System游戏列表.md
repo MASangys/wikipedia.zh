@@ -4492,7 +4492,7 @@
 </tr>
 <tr class="even">
 <td><p>Track &amp; Field</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金牌奥运会" title="wikilink">金牌奥运会</a></p></td>
+<td><p><a href="../Page/金牌奥运会.md" title="wikilink">金牌奥运会</a></p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1987-04" | 1987年4月</p></td>
 <td></td>
 <td><p><a href="../Page/科樂美.md" title="wikilink">科樂美</a></p></td>

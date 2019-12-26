@@ -19,22 +19,13 @@
 [Category:美国男子篮球运动员](https://zh.wikipedia.org/wiki/Category:美国男子篮球运动员 "wikilink") [Category:費城76人隊球員](https://zh.wikipedia.org/wiki/Category:費城76人隊球員 "wikilink") [Category:休斯頓火箭隊球員](https://zh.wikipedia.org/wiki/Category:休斯頓火箭隊球員 "wikilink") [Category:布魯克林籃網球員](https://zh.wikipedia.org/wiki/Category:布魯克林籃網球員 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.

@@ -109,11 +109,8 @@ Super Junior Donghae & Eunhyuk於2015年4月1日在日本發佈包括主打曲�
 [Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:Super_Junior_Donghae_&_Eunhyuk音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior_Donghae_&_Eunhyuk音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.

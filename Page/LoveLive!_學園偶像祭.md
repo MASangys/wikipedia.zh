@@ -143,6 +143,8 @@
     3月，日文版開始舉辦6週年相關活動。
     3月底，官方發出訊息，海外版突破2200萬名使用者。
     5月，國際版開始舉辦5週年相關活動。
+    10月，日文版使用者人數突破2500萬人。
+    11月，官方發出訊息，海外版突破2300萬人。
 
 ## 遊戲內容
 
@@ -213,7 +215,7 @@
 ### 活动
 
   -
-    游戏定期会举办Live活动，一般被称为“普通活动”、“Score Match”、“Medley Festival”、“Challenge Festival”、“”和“”一般为期10天左右。
+    游戏定期会举办Live活动，一般被称为“普通活动”、“Score Match”、“Medley Festival”、“Challenge Festival”、“”、“”和“”，一般为期10天左右。
     所有活动都有活動達成報酬、活動排名報酬、SCORE排名報酬（SCORE MATCH pt排名報酬），透過活動可以獲得兩張新的稀有度SR卡及一張新的稀有度N卡。
 
 \*;普通活动
@@ -246,6 +248,11 @@
   -
     日文版於2017年7月20日，國際版於2017年12月11日開始第一屆。本活動有兩種模式，第一種「系統匹配」，自動匹配全體玩家協力LIVE\!，第二種「私人」，使用ID與朋友協力LIVE\!。
     在活動中，玩家選擇「系統匹配」選擇難易度後，系統會自動發表樂曲及樂曲任務，依照樂曲隨機抽取3名玩家協力LIVE\!。LIVE\!結束後會隨任務完成度排出貢獻度並獲取相應活動pt。玩家選擇「私人」則必須輸入ID或創建房間，房間人數最多4人，必須有2人才能進行LIVE\!，未滿的部分由NPC代替。本活動內有「全體目標」，在活動期間內全體玩家依照指示協力完成目標來領取獎勵。右下角有LIVE履歷，可查看先前與其他玩家協力LIVE\!的成績。在待機過程中可以使用指定的語句和圖貼交流。活動結束後根據活動排名及SCORE排名給予獎勵。
+
+\*;節奏嘉年華（）
+
+  -
+    日文版首先於2019年6月20日開放試玩，但不久因有錯誤而緊急關閉，直到同年7月31日再度開放，國際版則於2019年10月8日開始第一屆，本活動有兩種模式，一種為「公開群組」，自動找尋玩家LIVE，第二種為「私人群組」，輸入房間ID後進入房間開始遊戲，但私人群組可轉為公開，之後系統會發表歌曲，選擇難易度及隊伍後系統會先進入等待區，在此可用一些貼圖進行交流，之後發表目標分數，隨後LIVE開始，在LIVE過程中，玩家會收到來自其他玩家的輔助技能，LIVE結束後等玩家都打完，即會發表成績和排名，根據排名和分數給予獎勵。
 
 ### 劇情
 
@@ -349,7 +356,7 @@
 
 ## LoveLive\! 學園偶像祭 ～after school ACTIVITY～
 
-[Love_Live_Arcade.JPG](https://zh.wikipedia.org/wiki/File:Love_Live_Arcade.JPG "fig:Love_Live_Arcade.JPG") **《LoveLive\! 學園偶像祭 ～after school ACTIVITY～》**（，简称“SIFAC”或“”），由[武士道和](../Page/武士道_\(公司\).md "wikilink")[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")共同开发，史克威尔艾尼克斯營運。
+**《LoveLive\! 學園偶像祭 ～after school ACTIVITY～》**（，简称“SIFAC”或“”），由[武士道和](../Page/武士道_\(公司\).md "wikilink")[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")共同开发，史克威尔艾尼克斯營運。
 
 2015年11月27日公布街機版製作決定，2016年3月至5月官方在[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")、[博多](https://zh.wikipedia.org/wiki/博多 "wikilink")、[仙台](https://zh.wikipedia.org/wiki/仙台 "wikilink")、[名古屋和](https://zh.wikipedia.org/wiki/名古屋 "wikilink")[大阪舉行的](https://zh.wikipedia.org/wiki/大阪 "wikilink")“”上进行公开体验，2016年5月13日至29日於[东京](../Page/东京.md "wikilink")、[横滨](https://zh.wikipedia.org/wiki/横滨 "wikilink")、[名古屋和](https://zh.wikipedia.org/wiki/名古屋 "wikilink")[大阪的](https://zh.wikipedia.org/wiki/大阪 "wikilink")5个指定店铺进行游戏公测，2016年12月6日起正式營運。
 
@@ -434,104 +441,56 @@
 [Category:2013年電子遊戲](https://zh.wikipedia.org/wiki/Category:2013年電子遊戲 "wikilink") [Category:Love_Live\!](https://zh.wikipedia.org/wiki/Category:Love_Live! "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:盛趣遊戲](https://zh.wikipedia.org/wiki/Category:盛趣遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink") [Category:漫畫改編電子遊戲](https://zh.wikipedia.org/wiki/Category:漫畫改編電子遊戲 "wikilink") [Category:日本开发电子游戏](https://zh.wikipedia.org/wiki/Category:日本开发电子游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:Bushiroad](https://zh.wikipedia.org/wiki/Category:Bushiroad "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  『会社四季報業界地図 2014年版』東洋経済新報社、2013年9月、p.12。ISBN 978-4-492-97322-6
-
 6.
-
 7.
-
 8.
 9.
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.  ニュースリリース {{\!}} KLab株式会社|accessdate=2017-08-12|work=KLab株式会社(KLab Inc.)|language=ja}}
-
 31.  ニュースリリース {{\!}} KLab株式会社|accessdate=2017-08-12|work=KLab株式会社(KLab Inc.)|language=ja}}
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
 39.
-
 40.
-
 41.
-
 42.
 43. [《LoveLive！》手游中μ’s故事结束](http://ios.9game.cn/news/1223463.html)，九游
-
 44.
-
 45. 『ファミ通App NO.009 Android』p.108
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51. 本段所使用的時間皆為格林威治時間東八時區(UTC+8)
-
 52.
-
 53. 粉絲們對於該聲明的不滿，可參閱聲明連結底下的留言區。
-
 54.

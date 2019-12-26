@@ -24,14 +24,10 @@ BPG由於採用了部分HEVC技術，因此相信亦包含了部分HEVC持有的
 [Category:图形文件格式](https://zh.wikipedia.org/wiki/Category:图形文件格式 "wikilink") [Category:公開格式](https://zh.wikipedia.org/wiki/Category:公開格式 "wikilink") [Category:图像压缩](https://zh.wikipedia.org/wiki/Category:图像压缩 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
 7.
-
 8.

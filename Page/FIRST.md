@@ -294,7 +294,7 @@ FIRST寻求促进工程师[团队合作和](https://zh.wikipedia.org/wiki/团队
 
   - [FIRST Chat](https://archive.is/20130221124345/http://www.firstchat.net/) - 交流网站（国际）
 
-  - [[PTC学术软件](https://zh.wikipedia.org/wiki/PTC "wikilink") - FIRST](http://www.ptc.com/company/community/first/)
+  - [[PTC学术软件](https://zh.wikipedia.org/wiki/PTC "wikilink") - FIRST](https://web.archive.org/web/20140406024250/http://www.ptc.com/company/community/first/)
 
   - [[PTC的FIRST交流页面](https://zh.wikipedia.org/wiki/PTC "wikilink")](https://web.archive.org/web/20150209072731/http://communities.ptc.com/community/academic-program/first)
 

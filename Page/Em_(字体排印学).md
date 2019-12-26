@@ -48,18 +48,15 @@ Em空格( )的宽度定义为1 em，与[em dash](https://zh.wikipedia.org/wiki
 
   - [CSS长度和单位](http://www.corelangs.com/css/basics/units.html)
   - [The amazing em unit and other best practices](http://www.w3.org/WAI/GL/css2em.htm)
-  - [Typophile Discussion: The Em](http://typophile.com/node/27742)
+  - [Typophile Discussion: The Em](https://web.archive.org/web/20070213111201/http://typophile.com/node/27742)
   - [EM计算器/转换器](http://pxtoem.com/)
   - [Search for origin](http://webdesign.about.com/b/2010/06/26/questions-about-the-em-size-unit.htm)
 
 [Category:顯示科技](https://zh.wikipedia.org/wiki/Category:顯示科技 "wikilink") [Category:字體排印](https://zh.wikipedia.org/wiki/Category:字體排印 "wikilink") [Category:長度單位](https://zh.wikipedia.org/wiki/Category:長度單位 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.  这一传统定义在[Adobe Glossary](http://www.adobe.com/uk/type/topics/glossary.html#ememspaceemquad)和袖珍牛津词典1996年第三版出现过。
-
 6.

@@ -2,7 +2,7 @@
 
 ## 概覽
 
-首個基於Zen微架構的系統展示平台在2016年的[E3消費電子展上現身](https://zh.wikipedia.org/wiki/E3 "wikilink")，而架構的細節，則是到了同年[英特爾開發者論壇](../Page/英特爾開發者論壇.md "wikilink")正舉行時，在其舉行地點對面的街區上公佈。不同於使用將近6年的並且在各種小修小補和僅更新了一次製作工藝的Bulldozer微架構，Zen微架構由曾經領隊設計K6/K7/K8架構、2012年回歸AMD的Jim Keller帶隊操刀另行開發，並且直接使用14nm節點FinFET製程，重在提升每個CPU核心的效能，最初目標是比當時預期的[Bulldozer微架構最終形態時](https://zh.wikipedia.org/wiki/Excavator微架構 "wikilink")（IPC）高出40%。此外處理器連接界面、插座、記憶體支援等等都力圖更新到最新規格。\[6\]除了效能和功能上的提升以外，還試圖以AMD APU產品線的經驗將新架構系統平台的體積縮小，令單一一顆CPU可以以SoC形態出現並支援常見的匯流排規格（包括PCIe、SATA、USB等）。\[7\]\[8\]加之此前發表的300系列晶片組、Socket AM4/Socket FP4插座、對DDR4的支援等，這些使得AMD可以令Zen微架構只需些少修改即可涵蓋當前的[筆電](https://zh.wikipedia.org/wiki/筆電 "wikilink")、小尺寸PC乃至[桌上型電腦](../Page/桌上型電腦.md "wikilink")、[工作站](../Page/工作站.md "wikilink")、[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")（特別是高運算密度的雲端運算平台）等運算系統平台。\[9\]\[10\]\[11\]2017年中發表的AMD Epyc系列，取代Opteron成為AMD面向企業應用（特別是雲端運算）的企業級CPU系列，並且可作為無需南橋晶片的半SoC化產品。\[12\]
+首個基於Zen微架構的系統展示平台在2016年的[E3消費電子展上現身](https://zh.wikipedia.org/wiki/E3 "wikilink")，而架構的細節，則是到了同年[英特爾開發者論壇](../Page/英特爾開發者論壇.md "wikilink")正舉行時，在其舉行地點對面的街區上公佈。不同於使用將近6年的並且在各種小修小補和僅更新了一次製作工藝的Bulldozer微架構，Zen微架構由曾經領隊設計K6/K7/K8架構、2012年回歸AMD的Jim Keller帶隊操刀另行開發，並且直接使用14nm節點FinFET製程，著重於提升每個CPU核心的效能，最初目標是比當時預期的[Bulldozer微架構最終形態時](https://zh.wikipedia.org/wiki/Excavator微架構 "wikilink")（IPC）高出40%。此外處理器連接界面、插座、記憶體支援等等都力圖更新到最新規格。\[6\]除了效能和功能上的提升以外，還試圖以[AMD APU產品線的經驗將新架構系統平台的體積縮小](https://zh.wikipedia.org/wiki/AMD_APU "wikilink")，令單一一顆CPU可以以SoC形態出現並支援常見的[匯流排規格](https://zh.wikipedia.org/wiki/匯流排 "wikilink")（包括[PCIe](https://zh.wikipedia.org/wiki/PCIe "wikilink")、[SATA](../Page/SATA.md "wikilink")、[USB](../Page/USB.md "wikilink")等）。\[7\]\[8\]加之此前發表的300系列晶片組、[Socket AM4](../Page/Socket_AM4.md "wikilink")/Socket FP4插座、對[DDR4的支援等](https://zh.wikipedia.org/wiki/DDR4 "wikilink")，這些使得AMD可以令Zen微架構只需些少修改即可涵蓋當前的[筆電](https://zh.wikipedia.org/wiki/筆電 "wikilink")、小尺寸[PC乃至](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[桌上型電腦](../Page/桌上型電腦.md "wikilink")、[工作站](../Page/工作站.md "wikilink")、[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")（特別是高運算密度的雲端運算平台）等運算系統平台。\[9\]\[10\]\[11\]2017年中發表的AMD Epyc系列，取代Opteron成為AMD面向企業應用（特別是[雲端運算](../Page/雲端運算.md "wikilink")）的企業級CPU系列，並且可作為無需[南橋晶片的半SoC化產品](https://zh.wikipedia.org/wiki/南橋晶片 "wikilink")。\[12\]
 
 ## 架構設計
 
@@ -43,7 +43,7 @@
 
 [AMD_Zen.svg](https://zh.wikipedia.org/wiki/File:AMD_Zen.svg "fig:AMD_Zen.svg") [AMD_Epyc.svg](https://zh.wikipedia.org/wiki/File:AMD_Epyc.svg "fig:AMD_Epyc.svg") [AMD_Threadripper.svg](https://zh.wikipedia.org/wiki/File:AMD_Threadripper.svg "fig:AMD_Threadripper.svg") 除了2017年3月販售的Ryzen以外，主流消費級[AMD APU產品線也更新到Zen微架構了](https://zh.wikipedia.org/wiki/AMD_APU "wikilink")，新版AMD APU預計2017年下半年開賣，\[31\]而伺服器及工作站用的[Opteron](../Page/Opteron.md "wikilink")系列，則是更名為EPYC\[32\]，預計2017年第二季度以後出貨。\[33\]
 
-目前出貨的Zen微架構的處理器均為[GlobalFoundries在美國紐約州的Fab](https://zh.wikipedia.org/wiki/GlobalFoundries "wikilink") 8廠製造，製程工藝技術來自GF與[三星電子](../Page/三星電子.md "wikilink")旗下晶圓廠合作的14nm LPP\[34\]。受制於GF的生產能力，AMD在2017年初以一億美元的代價修訂與GF的合同，不再排除讓三星、台積電代工製造的可能，不過這將在未來的7nm製程節點上開始。\[35\]
+目前出貨的Zen微架構的處理器均為[GlobalFoundries在美國紐約州的Fab](https://zh.wikipedia.org/wiki/GlobalFoundries "wikilink") 8廠製造，製程工藝技術來自GF與[三星電子](../Page/三星電子.md "wikilink")旗下晶圓廠合作的14nm LPP\[34\]。受制於GF的生產能力，AMD在2017年初以一億美元的代價修訂與GF的合同，不再排除讓三星、[台積電代工製造的可能](https://zh.wikipedia.org/wiki/台積電 "wikilink")，不過這將在未來的7nm製程節點上開始。\[35\]
 
 ### Ryzen系列
 
@@ -93,7 +93,7 @@ Zen+微架構的處理器使用了[GlobalFoundries的](https://zh.wikipedia.org/
 
 配套的晶片組更新至[400系列](https://zh.wikipedia.org/wiki/AMD_Fusion_Controller_Hub#400系列 "wikilink")，不過原先300系列的通過AGESA EFI韌體更新後（若廠商提供）也可以使用基於Zen+的處理器。
 
-## Zen 2
+## [Zen 2](../Page/Zen_2微架構.md "wikilink")
 
 ## 相關
 
@@ -114,114 +114,63 @@ Zen+微架構的處理器使用了[GlobalFoundries的](https://zh.wikipedia.org/
 
 1.
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.  PC Perspective|url=[https://www.pcper.com/reviews/Processors/AMD-Zen-Architecture-Overview-Focus-Ryzen|website=PC](https://www.pcper.com/reviews/Processors/AMD-Zen-Architecture-Overview-Focus-Ryzen%7Cwebsite=PC) Perspective|accessdate=13 March 2017|language=en|archive-url=[https://web.archive.org/web/20171012094351/https://www.pcper.com/reviews/Processors/AMD-Zen-Architecture-Overview-Focus-Ryzen|archive-date=2017-10-12|dead-url=yes](https://web.archive.org/web/20171012094351/https://www.pcper.com/reviews/Processors/AMD-Zen-Architecture-Overview-Focus-Ryzen%7Carchive-date=2017-10-12%7Cdead-url=yes)}}
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
 26.
 27.
-
 28.
-
 29.
-
 30.
-
 31.
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.  T客邦 - 我只推薦好東西|url=[https://www.techbang.com/posts/53173-before-you-buy-the-amd-ryzen-threadripper-you-should-first-understand-what-is-numa|language=zh-tw](https://www.techbang.com/posts/53173-before-you-buy-the-amd-ryzen-threadripper-you-should-first-understand-what-is-numa%7Clanguage=zh-tw)}}
-
 39.
-
 40.
 41.
 42.
 43.
 44.
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53. ，原載於[Test results for AMD Ryzen](http://agner.org/optimize/blog/read.php?i=838)
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
 60.
-
 61.
-
 62.

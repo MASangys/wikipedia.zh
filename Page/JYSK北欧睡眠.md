@@ -291,7 +291,7 @@ Jysk北欧睡眠的历史要追溯到1979年，在丹麦[奥胡斯](../Page/奥�
 [Category:Retail_companies_of_Denmark](https://zh.wikipedia.org/wiki/Category:Retail_companies_of_Denmark "wikilink") [Category:Purveyors_to_the_Court_of_Denmark](https://zh.wikipedia.org/wiki/Category:Purveyors_to_the_Court_of_Denmark "wikilink") [Category:Companies_based_in_Aarhus](https://zh.wikipedia.org/wiki/Category:Companies_based_in_Aarhus "wikilink") [Category:Multinational_companies_headquartered_in_Denmark](https://zh.wikipedia.org/wiki/Category:Multinational_companies_headquartered_in_Denmark "wikilink")
 
 1.
-2.  <http://www.jysk.com/frontpage/about_jysk/history.htm>
+2.
 3.  <http://www.tribunnews.com/images/regional/view/1041641/peresmian-jysk-store-indonesia#.Uw_4LfQW1YI>
 4.  <http://www.ceeretail.com/news/209670/jysk-opens-two-establishments-in-kyiv>
 5.

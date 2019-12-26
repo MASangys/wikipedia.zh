@@ -25,18 +25,12 @@ Apple S1將隨著蘋果手錶在2015年4月正式上市\[5\]\[6\]。
 [Category:蘋果公司硬體](https://zh.wikipedia.org/wiki/Category:蘋果公司硬體 "wikilink") [Category:系統單晶片](https://zh.wikipedia.org/wiki/Category:系統單晶片 "wikilink")
 
 1.
-
 2.  [Samsung Supposedly Wins Orders to Produce Apple Watch Components](http://www.macrumors.com/2015/01/09/samsung-produce-apple-watch-components/)
-
 3.
-
 4.
-
 5.
 6.  [Tim Cook: Apple Watch on Schedule to Ship in April](http://www.macrumors.com/2015/01/27/tim-cook-apple-watch-on-schedule-to-ship-in-april/)
-
 7.
 8.
-
 9.
 10.

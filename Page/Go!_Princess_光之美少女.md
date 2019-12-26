@@ -1542,20 +1542,13 @@
 [Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink") [Category:魔法少女](https://zh.wikipedia.org/wiki/Category:魔法少女 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:变身女主角动画](https://zh.wikipedia.org/wiki/Category:变身女主角动画 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
 
 1.  或者寫成「傳說中的公主」光之美少女。
-
 2.  原文：
-
 3.  原文：
-
 4.
 5.  原文：
-
 6.
 7.  原文：
-
 8.
 9.  原文：
-
 10. 每話標題皆由春野遙的聲優嶋村侑讀出。
-
 11.

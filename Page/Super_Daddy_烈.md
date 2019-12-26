@@ -581,6 +581,6 @@
 [Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:tvN金土連續劇](https://zh.wikipedia.org/wiki/Category:tvN金土連續劇 "wikilink") [Category:韓國漫畫改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:韓國漫畫改編韓國電視劇 "wikilink") [Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink") [Category:癌症題材電視劇](https://zh.wikipedia.org/wiki/Category:癌症題材電視劇 "wikilink") [Category:緯來電視外購韓劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購韓劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
 1.  [李東健李幼梨強強聯手 《超級老爸烈》接檔《Heart to Heart》](http://cn.allthatstar.com/zh-hant/%E6%9D%8E%E6%9D%B1%E5%81%A5%E6%9D%8E%E5%B9%BC%E6%A2%A8%E5%BC%B7%E5%BC%B7%E8%81%AF%E6%89%8B-%E3%80%8A%E8%B6%85%E7%B4%9A%E8%80%81%E7%88%B8%E7%83%88%E3%80%8B%E6%8E%A5%E6%AA%94%E3%80%8Aheart-to-heart//) 全星網
-2.  [徐睿知演"Super Daddy 烈"](http://kpopn.com/2015/01/29/259291/)Kpopn
+2.  [徐睿知演"Super Daddy 烈"](http://kpopn.com/2015/01/29/259291/) Kpopn
 3.  [AGB 닐슨 미디어리서치 케이블 시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
 4.  [NAVER 슈퍼대디 열](http://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&ie=utf8&query=%EC%8A%88%ED%8D%BC%EB%8C%80%EB%94%94+%EC%97%B4)

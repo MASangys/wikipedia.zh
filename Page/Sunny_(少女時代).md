@@ -183,6 +183,12 @@
 <td><p>2018 SPECTRUM Dance Music Festival</p></td>
 <td><p>、<a href="https://zh.wikipedia.org/wiki/孝淵" title="wikilink">孝淵</a>、<a href="../Page/泰容.md" title="wikilink">泰容</a></p></td>
 </tr>
+<tr class="even">
+<td><p>2019年11月20日</p></td>
+<td><p>This is Your Day (for every child, UNICEF)</p></td>
+<td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION X</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BoA" title="wikilink">BoA</a>、<a href="../Page/J-Min.md" title="wikilink">J-Min</a>、<a href="https://zh.wikipedia.org/wiki/始源" title="wikilink">始源</a>、<a href="../Page/泰民.md" title="wikilink">泰民</a>、<a href="../Page/Suho.md" title="wikilink">Suho</a>、<a href="https://zh.wikipedia.org/wiki/孫承完" title="wikilink">Wendy</a>、<a href="../Page/道英.md" title="wikilink">道英</a></p></td>
+</tr>
 </tbody>
 </table>
 
@@ -573,7 +579,7 @@
 <td><p>與、<a href="../Page/李奎翰.md" title="wikilink">李奎翰</a>、柳泰桓（主廚） 主持</p></td>
 </tr>
 <tr class="even">
-<td><p>2019年9月16日</p></td>
+<td><p>2019年9月16日 - 9月23日</p></td>
 <td><p><a href="../Page/Channel_A.md" title="wikilink">Channel A</a></p></td>
 <td><p><a href="../Page/Eye_Contact.md" title="wikilink">Eye Contact</a></p></td>
 <td><p>特別MC，與<a href="../Page/姜鎬童.md" title="wikilink">姜鎬童</a>、<a href="../Page/李尚敏.md" title="wikilink">李尚敏</a>主持</p></td>

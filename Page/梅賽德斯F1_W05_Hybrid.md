@@ -69,23 +69,15 @@ PU106A Hybrid</p></td>
 [Category:2014年一級方程式賽季車型](https://zh.wikipedia.org/wiki/Category:2014年一級方程式賽季車型 "wikilink") [Category:梅賽德斯-賓士一級方程式車型](https://zh.wikipedia.org/wiki/Category:梅賽德斯-賓士一級方程式車型 "wikilink") [Category:一級方程式錦標賽冠軍車型](https://zh.wikipedia.org/wiki/Category:一級方程式錦標賽冠軍車型 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
 9.
-
 10.
-
 11.
 12.
-
 13.

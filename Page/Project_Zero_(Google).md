@@ -32,13 +32,10 @@ Project Zero于2017年中期发现了会影响大多数现代[CPU的重要漏洞
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:信息安全](https://zh.wikipedia.org/wiki/Category:信息安全 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
-
 6.
 7.
 8.

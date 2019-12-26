@@ -233,13 +233,9 @@ infinite infection 追加，属于 BEMANI 系列的跨机种联动计划之一�
 [Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:科樂美遊戲](https://zh.wikipedia.org/wiki/Category:科樂美遊戲 "wikilink") [Category:BEMANI系列](https://zh.wikipedia.org/wiki/Category:BEMANI系列 "wikilink") [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
@@ -253,24 +249,16 @@ infinite infection 追加，属于 BEMANI 系列的跨机种联动计划之一�
 15.
 16.
 17.
-
 18.
-
 19.
 20.
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
 27.
-
 28.
 29.
 30.

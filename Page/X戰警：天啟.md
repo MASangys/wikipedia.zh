@@ -6,7 +6,7 @@
 
 [西元前](https://zh.wikipedia.org/wiki/西元前 "wikilink")3600年，被世人稱作「[天啟](../Page/天啟_\(漫威漫畫\).md "wikilink")」的[變種人祖宗恩](https://zh.wikipedia.org/wiki/變種人 "wikilink")·沙巴·奴爾統治[古埃及](../Page/古埃及.md "wikilink")，被人類集體膜拜為「神」，長久以來靠轉移[意識至年輕變種人軀體而長生不老](https://zh.wikipedia.org/wiki/意識 "wikilink")，由此累積各式各樣的變種能力。但一群受盡他統治的在他進行意識轉移的儀式當天發動[起義](https://zh.wikipedia.org/wiki/起義 "wikilink")，破壞金字塔[地基](../Page/地基.md "wikilink")而將其活埋入地底。天啟身邊的死前用能力守護他的新軀體，使他倖免於難且陷入沉睡，其歷史從此被抹除。
 
-1983年，人類和變種人和平共處十年，在[埃及](../Page/埃及.md "wikilink")[開羅仍存有一小部分膜拜天啟的](https://zh.wikipedia.org/wiki/開羅 "wikilink")[狂熱份子](https://zh.wikipedia.org/wiki/宗教狂熱 "wikilink")，他們挖出其墓穴帶入大量陽光，天啟因此從地底甦醒，走出去後遇到以偷竊為生的變種人[奧洛羅·夢洛](../Page/暴風女.md "wikilink")，其能夠控制[氣象](https://zh.wikipedia.org/wiki/氣象 "wikilink")。天啟透過她的電視瞭解現今社會的歷史，靠觸碰來提升奧洛羅的能力，將她作為自己的第一位騎士。[瑞雯·達克霍自從在](../Page/魔形女.md "wikilink")[華盛頓的壯舉後成為變種人的模範](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")，她於[柏林](../Page/柏林.md "wikilink")的地下格鬥場救出一名能[瞬間移動](../Page/瞬間移動.md "wikilink")的男孩[寇特·華格納](../Page/夜行者_\(漫畫\).md "wikilink")，通過黑市經營者的偽造身份而將他偷渡至美國，安頓在[查爾斯·賽維爾的變種人學院](../Page/X教授.md "wikilink")。而查爾斯的前戰友[亞歷克斯·桑瑪斯將他同是變種人的弟弟](../Page/衝擊波_\(漫畫\).md "wikilink")[史考特也送到學校](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")，其眼睛會失控性地發射強大激光，查爾斯便給他一副深色墨鏡抑制住，他跟一位有強大心電感應能力的女孩[琴·葛雷](../Page/琴·葛雷.md "wikilink")成為朋友。
+1983年，人類和變種人和平共處十年，在[埃及](../Page/埃及.md "wikilink")[開羅仍存有一小部分膜拜天啟的](https://zh.wikipedia.org/wiki/開羅 "wikilink")[狂熱份子](https://zh.wikipedia.org/wiki/宗教狂熱 "wikilink")，他們挖出其墓穴帶進大量陽光，讓天啟得以甦醒重見天日。他走出去不久遇到以偷竊為生的變種人[奧洛羅·夢洛](../Page/暴風女.md "wikilink")，其能夠控制[氣象](https://zh.wikipedia.org/wiki/氣象 "wikilink")。天啟透過她的電視瞭解現今社會的歷史，靠觸碰來提升奧洛羅的能力，將她作為自己的第一位騎士。[瑞雯·達克霍自從在](../Page/魔形女.md "wikilink")[華盛頓的壯舉後成為變種人的模範](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")，她於[柏林](../Page/柏林.md "wikilink")的地下格鬥場救出一名能[瞬間移動](../Page/瞬間移動.md "wikilink")的男孩[寇特·華格納](../Page/夜行者_\(漫畫\).md "wikilink")，通過黑市經營者的偽造身份而將他偷渡至美國，安頓在[查爾斯·賽維爾的變種人學院](../Page/X教授.md "wikilink")。而查爾斯的前戰友[亞歷克斯·桑瑪斯將他同是變種人的弟弟](../Page/衝擊波_\(漫畫\).md "wikilink")[史考特也送到學校](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")，其眼睛會失控性地發射強大激光，查爾斯便給他一副深色墨鏡抑制住，他跟一位有強大心電感應能力的女孩[琴·葛雷](../Page/琴·葛雷.md "wikilink")成為朋友。
 
 天啟找上卡利班尋找其他變種人，相繼招募卡利班的女保鏢[靈蝶](../Page/靈蝶.md "wikilink")、以及長著翅膀的格鬥場選手[天使作為第二和第三騎士](../Page/天使_\(漫威漫畫\).md "wikilink")。而如今隱姓埋名回到家鄉[波蘭成家立業的](https://zh.wikipedia.org/wiki/波蘭 "wikilink")[艾瑞克·藍歇爾](../Page/萬磁王.md "wikilink")，一日在他工作的煉鐵廠中為了救一個將被砸死的同事而不慎暴露身份，導致本地警察前來追捕他。艾瑞克的年幼女兒妮娜遺傳到動物控制能力，開始操縱鳥群對警察攻擊。在混亂中，艾瑞克的妻女雙雙被一支弓箭意外殺死，而艾瑞克在悲憤下殺光所有警察，回工廠準備找告密的同事算賬。但天啟趕到僅輕輕抬手就幫艾瑞克殺光在場人士，藉由艾瑞克的憤怒提升其能力，讓他自願協助自己創立新的世界。
 
@@ -57,7 +57,7 @@ Mystique / Raven Darkhölme</p></td>
 Oscar Isaac</p></td>
 <td><p>「<strong><a href="../Page/天啟_(漫威漫畫).md" title="wikilink">天啟</a></strong>」恩·沙巴·奴爾<br />
 Apocalypse / En Sabah Nur</p></td>
-<td><p>世界首位變種人，是變種人的祖宗，亦是最強的變種人。誕生於公元3000年前的古埃及，因《<a href="https://zh.wikipedia.org/wiki/X戰警：未來昔日" title="wikilink">未來昔日</a>》的故事重啟而被喚醒並選出為他服侍的「」。具有利用埃及古老儀式轉移身體以取得的能力，擁有過人的體能及心靈能力，並且可以藉由傳送門瞬間移動，控制電子儀器，增強變種人能力，自癒能力，念力及操控能量，控制物質。</p></td>
+<td><p>世界首位變種人，是變種人的祖宗，亦是最強的變種人。誕生於公元3000年前的古埃及，因《<a href="https://zh.wikipedia.org/wiki/X戰警：未來昔日" title="wikilink">未來昔日</a>》的故事重啟而被喚醒並選出為他服侍的「」，並且打算重塑這個新世界。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/尼可拉斯·霍特" title="wikilink">尼可拉斯·霍特</a><br />
@@ -200,7 +200,7 @@ Stan Lee</p></td>
 
 中国大陆方面，首周3天取得3.8亿人民币居冠，次周获得2.6亿居亚军，最终票房8.0億人民币\[26\]。
 
-台灣方面，首日票房為新台幣2100萬元\[27\]；首週五天票房為新台幣1.25億元\[28\]；次週票房累計至新台幣1.78億元\[29\]；第三週票房累計至新台幣2.09億元\[30\]；最終全台票房為新台幣2.25億元\[31\]，位居[2016年全台票房第10名](https://zh.wikipedia.org/wiki/台灣電影年度票房列表#2016年 "wikilink")。
+台灣方面，首日票房為新台幣2100萬元\[27\]；首週五天票房為新台幣1.25億元\[28\]；次週票房累計至新台幣1.78億元\[29\]；第三週票房累計至新台幣2.09億元\[30\]；最終全台票房為新台幣2.25億元\[31\]，位居[2016年全台票房第十名](https://zh.wikipedia.org/wiki/台灣年度電影票房#2016年 "wikilink")。
 
 ## 續集
 

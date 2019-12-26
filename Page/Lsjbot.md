@@ -23,15 +23,9 @@ Lsjbot的另一项工作是在瑞典语维基百科创建与[菲律宾有关的�
 1.
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  [Användare:Lsjbot – Wikipedia](https://sv.wikipedia.org/wiki/Användare:Lsjbot)
-
 9.

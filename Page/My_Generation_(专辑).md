@@ -74,27 +74,16 @@
 [Category:1965年音樂專輯](https://zh.wikipedia.org/wiki/Category:1965年音樂專輯 "wikilink") [Category:处女作专辑](https://zh.wikipedia.org/wiki/Category:处女作专辑 "wikilink") [Category:谁人乐队专辑](https://zh.wikipedia.org/wiki/Category:谁人乐队专辑 "wikilink") [Category:美国国家录音保护局典藏](https://zh.wikipedia.org/wiki/Category:美国国家录音保护局典藏 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.  [Pitchfork's 200 Greatest Songs of the 1960s](http://pitchfork.com/features/staff-lists/6404-the-200-greatest-songs-of-the-1960s/3/)
-
 10.
-
 11.
-
 12.
 13.
 14.

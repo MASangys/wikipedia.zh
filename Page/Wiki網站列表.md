@@ -450,87 +450,46 @@
 [Category:Wiki社群](https://zh.wikipedia.org/wiki/Category:Wiki社群 "wikilink")
 
 1.  [Appropedia:Special:Statistics](https://zh.wikipedia.org/wiki/Appropedia:Special:Statistics "wikilink")
-
 2.  [Ballotpedia Statistics](http://ballotpedia.org/wiki/index.php/Special:Statistics) *retrieved 1/25/12, 11:02am CT*
-
 3.
-
 4.  [Citizendium – Category:CZ Live](http://en.citizendium.org/wiki/Category:CZ_Live) lists the number of clusters. Citizendium also contains subpages: see [Citizendium – Special:Statistics](http://en.citizendium.org/wiki/Special:Statistics) for details.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10. <http://www.encyclopediad*amatica.com/Special:Statistics>
-
 11.
-
 12.
-
 13.
-
 14.
-
 15. [Judgepedia Statistics](http://judgepedia.org/index.php/Special:Statistics)  *retrieved 1/25/12, 11:02am CT*
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.

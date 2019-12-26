@@ -44,6 +44,5 @@ RPGamer的迈克尔·贝克在游玩演示版后表示了强烈反感。他称�
 14.
 15.
 16. <http://corp.gree.net/jp/ja/news/press/2013/0307-01.html>
-
 17.
 18.

@@ -77,5 +77,4 @@
 [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:畢書盡音樂專輯](https://zh.wikipedia.org/wiki/Category:畢書盡音樂專輯 "wikilink")
 
 1.  [五大唱片](http://www.5music.com.tw/CDList-C.asp?cdno=435485679322)，2014年12月26日 (五) 07:15 (UTC+8)查閱
-
 2.

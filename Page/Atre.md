@@ -167,34 +167,20 @@ Atrevie Shinanomachi.jpg|atré vie信濃町 Tabata-eki-aug2008-wide.jpg|atré vi
 [Category:JR東日本集團](https://zh.wikipedia.org/wiki/Category:JR東日本集團 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:秋葉原](https://zh.wikipedia.org/wiki/Category:秋葉原 "wikilink")
 
 1.  [JR東「アトレ」台北に海外第1号店 日本製品人気取り込む](https://www.nikkei.com/article/DGXMZO39887120Q9A110C1FFE000/)『[日本經濟新聞](../Page/日本經濟新聞.md "wikilink")』朝刊2019年1月11日（アジアBiz面）2019年1月17日閲覧。
-
 2.
-
 3.  [2012年3月 『アトレ松戸』、『アトレ川崎』誕生！](http://www.atre.co.jp/company/news/pict/200_matsudokawasaki.pdf) 株式会社アトレ・プレスリリース2012年1月10日
-
 4.  [2012年3月 『アトレ松戸』2012年3月16日（金）AM10:00グランドオープン！](http://www.atre.co.jp/company/news/pict/205_mtudo2.pdf) 株式会社アトレ・プレスリリース2012年2月8日
-
 5.
 6.  [2012年3月 はじまりの春。川崎BEは、アトレ川崎へ。　2012年3月29日（木）オープン！](http://www.atre.co.jp/company/news/pict/205_mtudo2.pdf) 株式会社アトレ・プレスリリース2012年2月15日
-
 7.  [中山站還有間中山LONLON](../Page/中山站_\(神奈川縣\).md "wikilink")，由株式會社JR東日本都市開發經營。2013年8月29日更名為。
-
 8.  [JR東日本プレスリリース 土浦駅ビル「ペルチ土浦」リフレッシュオープン！](http://www.jreast.co.jp/press/2011/20111113.pdf)（最終ページの施設概要に「運営管理者／株式会社アトレ」とある）
-
 9.
 10.
 11. [JR東日本グループ事業の再編についてのお知らせ](http://www.jreast.co.jp/press/2014/20141230.pdf) 2014年12月26日付、東日本旅客鉄道株式会社
-
 12.
-
 13.
-
 14.
-
 15.
-
 16. [アトレが台湾進出、微風南山にＳＣ出店へ](https://www.ys-consulting.com.tw/news/72177.html)2017-08-09,ワイズニュース
-
 17. [アトレと三井物産、台北に衣料などの商業施設　18年秋開業](https://www.nikkei.com/article/DGXLASDZ08HTL_Y7A800C1TJ2000/)2017-08-08,[日本経済新聞](https://zh.wikipedia.org/wiki/日本経済新聞 "wikilink")
-
 18.

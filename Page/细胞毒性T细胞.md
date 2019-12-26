@@ -59,7 +59,7 @@ T細胞受體穩定的幼年T細胞會同時表現[CD4和](../Page/CD4受体.md 
 
 ## 外部連結
 
-  - [T-cell Group - Cardiff University](http://www.tcells.org/scientific/killer/)
+  - [T-cell Group - Cardiff University](https://web.archive.org/web/20130624015958/http://www.tcells.org/scientific/killer/)
 
   - [Malaria](https://web.archive.org/web/20160312125746/http://1lecture.com/immunology/cytotoxic%20t%20cell/index.html) (Flash Animation)
 
@@ -68,19 +68,12 @@ T細胞受體穩定的幼年T細胞會同時表現[CD4和](../Page/CD4受体.md 
 [Category:T细胞](https://zh.wikipedia.org/wiki/Category:T细胞 "wikilink") [Category:人体细胞](https://zh.wikipedia.org/wiki/Category:人体细胞 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.  Milstein, O., Hagin, D., Lask, A., Reich-Zeliger, S., Shezan E., Ophir E., Eidelshtein Y., Afik R., Antebi YE., Dustin ML. and Reisner Y. (2011) CTLs respond with activation and granule secretion when serving target for T cell recognition. [Blood 117,1042-1052](http://bloodjournal.hematologylibrary.org/content/early/2010/11/02/blood-2010-05-283770)
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.

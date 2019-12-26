@@ -269,16 +269,9 @@ KMTV Asia</p></td>
 | 2015年5月30日 | 坡州書院綠色音樂會                   |
 | 2015年9月11日 | 2015 MBC Asia Music Network |
 
-## 獎項
+## 排名
 
-### 音樂節目獎項
-
-|    |    |     |      |      |    |
-| -- | -- | --- | ---- | ---- | -- |
-| 年份 | 日期 | 電視台 | 節目名稱 | 獲獎歌曲 | 排名 |
-|    |    |     |      |      |    |
-
-#### 主要音樂節目榜單排名
+### 主要音樂節目榜單排名
 
 <table>
 <thead>
@@ -310,12 +303,6 @@ KMTV Asia</p></td>
 </tbody>
 </table>
 
-| 各台冠軍歌曲獎座統計                           |
-| ------------------------------------ |
-| [Mnet](../Page/Mnet媒體.md "wikilink") |
-| 0                                    |
-| 四台冠軍歌曲總數：0                           |
-
 ## 其他
 
 ### 備註
@@ -331,8 +318,8 @@ KMTV Asia</p></td>
 
 1.  [YUNA KIM、全珉柱退出 THE ARK！](http://kpopn.niusnews.com/=K321tf84) .Kpopn.2016-07-13.
 2.  [Euna Kim Opens Up About Why The Ark Disbanded And Her Experience On “Unpretty Rapstar 3”](https://www.soompi.com/2017/01/20/yuna-kim-opens-ark-disbanded-experience-unpretty-rapstar-3/).Soompi.January 20, 2017 .
-3.  [THE ARK介紹](http://kpopn.com/2015/04/17/270159/).Kpopn.2015-04-17.
-4.  [新女團The Ark首波概念照](http://kpopn.com/2014/07/18/232087/).Kpopn.2014-07-18.
+3.  [THE ARK介紹](http://kpopn.com/2015/04/17/270159/) .Kpopn.2015-04-17.
+4.  [新女團The Ark首波概念照](http://kpopn.com/2014/07/18/232087/) .Kpopn.2014-07-18.
 5.
 6.
 7.  [THE ARK YUNA KIM提及離開 YG娛樂原因](http://www.koreastardaily.com/tc/news/61291)

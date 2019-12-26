@@ -1,4 +1,4 @@
-**Cloudflare**是一間總部位於[舊金山的](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[美國跨國IT企業](https://zh.wikipedia.org/wiki/美國 "wikilink")，以向客戶提供基於[反向代理](../Page/反向代理.md "wikilink")的[內容傳遞網路](../Page/內容傳遞網路.md "wikilink")（）及[分佈式域名解析服務](../Page/域名系统.md "wikilink")（）為主要業務。Cloudflare可以幫助受保護站點抵禦包[拒絕服務攻擊等網絡攻擊](../Page/阻斷服務攻擊.md "wikilink")，確保該網站長期在線，同時提升網站的性能、載入速度以改善訪客體驗。
+**Cloudflare**（）是一間總部位於[舊金山的](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[美國跨國IT企業](https://zh.wikipedia.org/wiki/美國 "wikilink")，以向客戶提供基於[反向代理](../Page/反向代理.md "wikilink")的[內容傳遞網路](../Page/內容傳遞網路.md "wikilink")（）及[分佈式域名解析服務](../Page/域名系统.md "wikilink")（）為主要業務。Cloudflare可以幫助受保護站點抵禦包[拒絕服務攻擊等網絡攻擊](../Page/阻斷服務攻擊.md "wikilink")，確保該網站長期在線，同時提升網站的性能、載入速度以改善訪客體驗。
 
 截至2019年3月，Cloudflare擁有151個位於全球各地的[數據中心](../Page/数据中心.md "wikilink")。\[1\]
 

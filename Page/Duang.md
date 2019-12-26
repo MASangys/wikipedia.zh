@@ -40,60 +40,34 @@
 [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink") [Category:中国网络流行语](https://zh.wikipedia.org/wiki/Category:中国网络流行语 "wikilink") [Category:香港網絡文化](https://zh.wikipedia.org/wiki/Category:香港網絡文化 "wikilink") [Category:恶搞文化](https://zh.wikipedia.org/wiki/Category:恶搞文化 "wikilink") [Category:鬼畜全明星](https://zh.wikipedia.org/wiki/Category:鬼畜全明星 "wikilink") [Category:含有未收錄漢字的條目](https://zh.wikipedia.org/wiki/Category:含有未收錄漢字的條目 "wikilink") [Category:成龍](https://zh.wikipedia.org/wiki/Category:成龍 "wikilink") [Category:2000年代創造的新詞語](https://zh.wikipedia.org/wiki/Category:2000年代創造的新詞語 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
-
 11.
-
 12. [蘋果日報：娛樂名人：王菲長髮動 L出擊](http://hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20090514&sec_id=462&art_id=12754561)
-
 13. [蘋果日報副刊：中日韓冷 麪戰　動 L烏冬](http://hk.apple.nextmedia.com/template/apple_sub_php/art_main.php?iss_id=20090424&sec_id=12187363&art_id=12675348)
-
 14. [YouTube影片：03 11 01 iNews 深宵新聞報道 動L](http://www.youtube.com/watch?v=yXTTQBLKpk4)（0:40）
-
 15. [譚凱琪太惹火　「小耀明」動L了！](http://hk.on.cc/hk/bkn/cnt/entertainment/20160327/bkn-20160327194710586-0327_00862_001.html)
-
 16. [疑似「動l」-Orlando激咀Katy](http://www.msn.com/zh-hk/entertainment/news/疑似「動l」-orlando激咀katy/ar-BBqMOHa)
-
 17.
-
 18. [Uwants：\[原創\] \<涯上的programmer\>](http://www.uwants.com/viewthread.php?tid=7583653)
-
 19.
-
 20. [高登討論區：\[歌詞\]\[成龍再crossover波兒\] 劣作](http://archive.hkgolden.com/view.aspx?message=1673289)
-
 21.
-
 22.
 23.
-
 24.
-
 25.
 26.
-
 27.
-
 28.
-
 29.
 30.
-
 31.
-
 32.

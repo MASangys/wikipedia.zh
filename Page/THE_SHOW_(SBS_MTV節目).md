@@ -43,25 +43,25 @@
 
 ### 固定MC
 
-| 季數                     | 節目名稱                                                                                                                                        | 播出日期                                                  | 主持                                                                     |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------- |
-| 第1季                    | THE SHOW: Play with You                                                                                                                     | 2011年4月15日－待查                                         | [烋星](../Page/全烋星.md "wikilink")、[Luna](../Page/朴善英.md "wikilink")\[3\] |
-| 2011年8月26日－待查          | 烋星、Luna、[力燦](https://zh.wikipedia.org/wiki/力燦 "wikilink")\[4\]                                                                              |                                                       |                                                                        |
-| 2011年10月7日－待查          | 力燦、[惠利](../Page/惠利.md "wikilink")\[5\]                                                                                                      |                                                       |                                                                        |
-| 第2季                    | THE SHOW: All New K-POP                                                                                                                     | 2012年3月23日－7月6日                                       | [旼赫](../Page/李旼赫.md "wikilink")、[星材](../Page/陸星材.md "wikilink")\[6\]   |
-| 第3季                    | THE SHOW: All About K-POP                                                                                                                   | 2013年10月8日－2014年5月27日                                 | [奎利](../Page/朴奎利.md "wikilink")、[昇延](../Page/韓昇延.md "wikilink")\[7\]   |
-| 2014年6月3日－10月21日       | [芝妍](../Page/朴芝妍.md "wikilink")、惠利                                                                                                          |                                                       |                                                                        |
-| 第4季                    | \-{zh-hans:THE SHOW;zh-hant:THE SHOW;zh-cn:韩秀榜}-                                                                                            | 2014年10月28日－2015年1月20日                                | 芝妍、惠利、[周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")                |
-| 2015年1月27日－2月10日       | 芝妍、周覓                                                                                                                                       |                                                       |                                                                        |
-| 2015年3月3日－10月6日        | 芝妍、周覓、[弘彬](../Page/李弘彬.md "wikilink")                                                                                                       |                                                       |                                                                        |
-| 2015年10月13日－12月8日      | 芝妍、周覓                                                                                                                                       |                                                       |                                                                        |
-| 第5季                    | 2016年2月2日－8月2日                                                                                                                              | [睿隣](https://zh.wikipedia.org/wiki/鄭睿隣 "wikilink")、周覓 |                                                                        |
-| 2016年8月9日－9月6日         | 睿隣                                                                                                                                          |                                                       |                                                                        |
-| 2016年10月11日－2017年4月25日 | [昭彌](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")、[宇碩](../Page/金宇碩.md "wikilink")\[8\]                                                     |                                                       |                                                                        |
-| 2017年5月16日－8月29日       | | [正花](../Page/正花.md "wikilink")、[P.O](../Page/P.O.md "wikilink")、[妍雨](../Page/MOMOLAND.md "wikilink")                                      |                                                       |                                                                        |
-| 2017年10月17日－2018年5月8日  | | [永才](https://zh.wikipedia.org/wiki/永才 "wikilink")、[珠伊](../Page/JooE.md "wikilink")、[浩賢](../Page/TRCNG.md "wikilink")                      |                                                       |                                                                        |
-| 2018年5月22日－2018年10月23日 | | [張睿恩](https://zh.wikipedia.org/wiki/張睿恩 "wikilink")、[Jeno](../Page/NCT.md "wikilink")、[金龍國](https://zh.wikipedia.org/wiki/金龍國 "wikilink") |                                                       |                                                                        |
-| 2018年10月30日－至今         | | [張睿恩](https://zh.wikipedia.org/wiki/張睿恩 "wikilink")、[Jeno](../Page/NCT.md "wikilink")                                                     |                                                       |                                                                        |
+| 季數                      | 節目名稱                                                                                                                                        | 播出日期                                                  | 主持                                                                     |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------- |
+| 第1季                     | THE SHOW: Play with You                                                                                                                     | 2011年4月15日－待查                                         | [烋星](../Page/全烋星.md "wikilink")、[Luna](../Page/朴善英.md "wikilink")\[3\] |
+| 2011年8月26日－待查           | 烋星、Luna、[力燦](https://zh.wikipedia.org/wiki/力燦 "wikilink")\[4\]                                                                              |                                                       |                                                                        |
+| 2011年10月7日－待查           | 力燦、[惠利](../Page/惠利.md "wikilink")\[5\]                                                                                                      |                                                       |                                                                        |
+| 第2季                     | THE SHOW: All New K-POP                                                                                                                     | 2012年3月23日－7月6日                                       | [旼赫](../Page/李旼赫.md "wikilink")、[星材](../Page/陸星材.md "wikilink")\[6\]   |
+| 第3季                     | THE SHOW: All About K-POP                                                                                                                   | 2013年10月8日－2014年5月27日                                 | [奎利](../Page/朴奎利.md "wikilink")、[昇延](../Page/韓昇延.md "wikilink")\[7\]   |
+| 2014年6月3日－10月21日        | [芝妍](../Page/朴芝妍.md "wikilink")、惠利                                                                                                          |                                                       |                                                                        |
+| 第4季                     | \-{zh-hans:THE SHOW;zh-hant:THE SHOW;zh-cn:韩秀榜}-                                                                                            | 2014年10月28日－2015年1月20日                                | 芝妍、惠利、[周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")                |
+| 2015年1月27日－2月10日        | 芝妍、周覓                                                                                                                                       |                                                       |                                                                        |
+| 2015年3月3日－10月6日         | 芝妍、周覓、[弘彬](../Page/李弘彬.md "wikilink")                                                                                                       |                                                       |                                                                        |
+| 2015年10月13日－12月8日       | 芝妍、周覓                                                                                                                                       |                                                       |                                                                        |
+| 第5季                     | 2016年2月2日－8月2日                                                                                                                              | [睿隣](https://zh.wikipedia.org/wiki/鄭睿隣 "wikilink")、周覓 |                                                                        |
+| 2016年8月9日－9月6日          | 睿隣                                                                                                                                          |                                                       |                                                                        |
+| 2016年10月11日－2017年4月25日  | [昭彌](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")、[宇碩](../Page/金宇碩.md "wikilink")\[8\]                                                     |                                                       |                                                                        |
+| 2017年5月16日－8月29日        | | [正花](../Page/正花.md "wikilink")、[P.O](../Page/P.O.md "wikilink")、[妍雨](../Page/MOMOLAND.md "wikilink")                                      |                                                       |                                                                        |
+| 2017年10月17日－2018年5月8日   | | [永才](https://zh.wikipedia.org/wiki/永才 "wikilink")、[珠伊](../Page/JooE.md "wikilink")、[浩賢](../Page/TRCNG.md "wikilink")                      |                                                       |                                                                        |
+| 2018年5月22日－2018年10月23日  | | [張睿恩](https://zh.wikipedia.org/wiki/張睿恩 "wikilink")、[Jeno](../Page/NCT.md "wikilink")、[金龍國](https://zh.wikipedia.org/wiki/金龍國 "wikilink") |                                                       |                                                                        |
+| 2018年10月30日－2019年11月26日 | | 張睿恩、Jeno                                                                                                                                  |                                                       |                                                                        |
 
 ### 代班MC
 
@@ -121,6 +121,7 @@
 | 2019年8月27日           | [賢在](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink")、[張大賢](../Page/張大賢.md "wikilink")                                                                                  |                                                                                                                            |                                      |
 | 2019年9月3日            | [辰樂](https://zh.wikipedia.org/wiki/辰樂 "wikilink")、[產賀](https://zh.wikipedia.org/wiki/產賀 "wikilink")、[宋有彬](https://zh.wikipedia.org/wiki/宋有彬 "wikilink")                   |                                                                                                                            |                                      |
 | 2019年9月10日           | 宇碩                                                                                                                                                                        |                                                                                                                            |                                      |
+| 2019年10月15日          | [鄭世雲](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")                                                                                                                       |                                                                                                                            |                                      |
 
 ## 評定基準
 
@@ -795,7 +796,7 @@
 <!-- end list -->
 
   - 03.05 - [N.Flying](../Page/N.Flying.md "wikilink")<sup>1st</sup> - Rooftop<sup>1st</sup> \[5,816分\]
-  - 03.12 - [TOMORROW X TOGETHER](../Page/TXT_\(組合\).md "wikilink")<sup>1st</sup> - Crown<sup>1st</sup> \[7,190分\]
+  - 03.12 - [TOMORROW X TOGETHER](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")<sup>1st</sup> - Crown<sup>1st</sup> \[7,190分\]
   - 03.19 - [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")<sup>7th</sup> - gogobebe<sup>1st</sup> \[6,590分\]
   - 03.26 - [MOMOLAND](../Page/MOMOLAND.md "wikilink")<sup>2nd</sup> - I'm So Hot<sup>1st</sup> \[7,981分\]
 
@@ -865,7 +866,7 @@
   - 09.03 - [X1](../Page/X1.md "wikilink")<sup>1st</sup> - Flash<sup>1st</sup>＜浦項特輯＞
   - 09.10 - [X1](../Page/X1.md "wikilink")<sup>2nd</sup> - Flash<sup>2nd</sup> \[9,500分\]
   - 09.17 - 停播
-  - 09.24 - [EVERGLOW](../Page/EVERGLOW.md "wikilink")<sup>1st</sup> - ADIOS<sup>1st</sup> \[7,861分\]
+  - 09.24 - [EVERGLOW](../Page/EVERGLOW.md "wikilink")<sup>1st</sup> - Adios<sup>1st</sup> \[7,861分\]
 
 <!-- end list -->
 
@@ -873,7 +874,22 @@
 
 <!-- end list -->
 
-  - 10.01 -＜光化門廣場特輯＞
+  - 10.01 - ＜光化門廣場特輯＞
+  - 10.08 - [鄭世雲](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")<sup>1st</sup> - When it rains<sup>1st</sup> \[6,543分\]
+  - 10.15 - [AB6IX](../Page/AB6IX.md "wikilink")<sup>2nd</sup> - Blind For Love<sup>1st</sup> \[7,810分\]
+  - 10.22 - [AB6IX](../Page/AB6IX.md "wikilink")<sup>3rd</sup> - Blind For Love<sup>2nd</sup> \[8,560分\]
+  - 10.29 - [TOMORROW X TOGETHER](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")<sup>2nd</sup> - Run Away<sup>1st</sup> \[6,290分\]
+
+<!-- end list -->
+
+  - 十一月
+
+<!-- end list -->
+
+  - 11.05 - [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")<sup>5th</sup> - Follow<sup>1st</sup> \[6,480分\]
+  - 11.12 - [VICTON](../Page/VICTON.md "wikilink")<sup>1st</sup> - nostalgic night<sup>1st</sup> \[8,160分\]
+  - 11.19 - 停播
+  - 11.26 - [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")<sup>4th</sup> - As You Wish<sup>1st</sup> \[7,370分\]
 
 ## 藝人成就
 
@@ -881,46 +897,47 @@
 
   - 只列出獲獎2次或以上
 
-| 等級                                                                | 歌手                                                                | 統計  | 出道年份 |
-| ----------------------------------------------------------------- | ----------------------------------------------------------------- | --- | ---- |
-| 1st                                                               | [VIXX](../Page/VIXX.md "wikilink")                                | 14次 | 2012 |
-| 2nd                                                               | [GFRIEND](../Page/GFRIEND.md "wikilink")                          | 12次 | 2015 |
-| 3rd                                                               | [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")             | 8次  | 2012 |
-| [Red Velvet](../Page/Red_Velvet.md "wikilink")                    | 2014                                                              |     |      |
-| 4th                                                               | [Apink](../Page/Apink.md "wikilink")                              | 7次  | 2011 |
-| [GOT7](../Page/GOT7.md "wikilink")                                | 2014                                                              |     |      |
-| [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")       | 2014                                                              |     |      |
-| 5th                                                               | [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")   | 6次  | 2017 |
-| 6th                                                               | [防彈少年團](../Page/防彈少年團.md "wikilink")                              | 5次  | 2013 |
-| [NCT Dream](https://zh.wikipedia.org/wiki/NCT_Dream "wikilink")   | 2016                                                              |     |      |
-| 7th                                                               | [CNBLUE](../Page/CNBLUE.md "wikilink")                            | 4次  | 2010 |
-| [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")     | 2015                                                              |     |      |
-| [IZ\*ONE](../Page/IZ*ONE.md "wikilink")                           | 2018                                                              |     |      |
-| [(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")                      | 2018                                                              |     |      |
-| [Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink") | 2015                                                              |     |      |
-| 8th                                                               | [鐘鉉](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")         | 3次  | 2015 |
-| [FTIsland](../Page/FTIsland.md "wikilink")                        | 2007                                                              |     |      |
-| [B.A.P](../Page/B.A.P.md "wikilink")                              | 2012                                                              |     |      |
-| [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")       | 2014                                                              |     |      |
-| [SHINee](../Page/SHINee.md "wikilink")                            | 2008                                                              |     |      |
-| [NCT 127](https://zh.wikipedia.org/wiki/NCT_127 "wikilink")       | 2016                                                              |     |      |
-| [MOMOLAND](../Page/MOMOLAND.md "wikilink")                        | 2016                                                              |     |      |
-| [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")             | 2016                                                              |     |      |
-| 9th                                                               | [INFINITE H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink") | 2次  | 2013 |
-| [BOYFRIEND](../Page/Boyfriend_\(男子团体\).md "wikilink")             | 2011                                                              |     |      |
-| [EXO](../Page/EXO.md "wikilink")                                  | 2012                                                              |     |      |
-| [INFINITE](../Page/INFINITE.md "wikilink")                        | 2010                                                              |     |      |
-| [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")             | 2007                                                              |     |      |
-| [TEEN TOP](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")     | 2010                                                              |     |      |
-| [AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")        | 2012                                                              |     |      |
-| [I.O.I](../Page/I.O.I.md "wikilink")                              | 2016                                                              |     |      |
-| [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")           | 2015                                                              |     |      |
-| [Seventeen](../Page/Seventeen_\(組合\).md "wikilink")               | 2015                                                              |     |      |
-| [Highlight](../Page/Highlight_\(韓國組合\).md "wikilink")             | 2017                                                              |     |      |
-| [金聖圭](../Page/金聖圭.md "wikilink")                                  | 2012                                                              |     |      |
-| [CLC](../Page/CLC.md "wikilink")                                  | 2015                                                              |     |      |
-| [X1](../Page/X1.md "wikilink")                                    | 2019                                                              |     |      |
-|                                                                   |                                                                   |     |      |
+| 等級                                                                                  | 歌手                                                                | 統計  | 出道年份 |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --- | ---- |
+| 1st                                                                                 | [VIXX](../Page/VIXX.md "wikilink")                                | 14次 | 2012 |
+| 2nd                                                                                 | [GFRIEND](../Page/GFRIEND.md "wikilink")                          | 12次 | 2015 |
+| 3rd                                                                                 | [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")             | 8次  | 2012 |
+| [Red Velvet](../Page/Red_Velvet.md "wikilink")                                      | 2014                                                              |     |      |
+| 4th                                                                                 | [Apink](../Page/Apink.md "wikilink")                              | 7次  | 2011 |
+| [GOT7](../Page/GOT7.md "wikilink")                                                  | 2014                                                              |     |      |
+| [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")                         | 2014                                                              |     |      |
+| 5th                                                                                 | [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")   | 6次  | 2017 |
+| 6th                                                                                 | [防彈少年團](../Page/防彈少年團.md "wikilink")                              | 5次  | 2013 |
+| [NCT Dream](https://zh.wikipedia.org/wiki/NCT_Dream "wikilink")                     | 2016                                                              |     |      |
+| [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")                       | 2015                                                              |     |      |
+| 7th                                                                                 | [CNBLUE](../Page/CNBLUE.md "wikilink")                            | 4次  | 2010 |
+| [IZ\*ONE](../Page/IZ*ONE.md "wikilink")                                             | 2018                                                              |     |      |
+| [(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")                                        | 2018                                                              |     |      |
+| [Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")                   | 2015                                                              |     |      |
+| [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")                               | 2016                                                              |     |      |
+| 8th                                                                                 | [鐘鉉](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")         | 3次  | 2015 |
+| [FTIsland](../Page/FTIsland.md "wikilink")                                          | 2007                                                              |     |      |
+| [B.A.P](../Page/B.A.P.md "wikilink")                                                | 2012                                                              |     |      |
+| [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")                         | 2014                                                              |     |      |
+| [SHINee](../Page/SHINee.md "wikilink")                                              | 2008                                                              |     |      |
+| [NCT 127](https://zh.wikipedia.org/wiki/NCT_127 "wikilink")                         | 2016                                                              |     |      |
+| [MOMOLAND](../Page/MOMOLAND.md "wikilink")                                          | 2016                                                              |     |      |
+| [AB6IX](../Page/AB6IX.md "wikilink")                                                | 2019                                                              |     |      |
+| 9th                                                                                 | [INFINITE H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink") | 2次  | 2013 |
+| [BOYFRIEND](../Page/Boyfriend_\(男子团体\).md "wikilink")                               | 2011                                                              |     |      |
+| [EXO](../Page/EXO.md "wikilink")                                                    | 2012                                                              |     |      |
+| [INFINITE](../Page/INFINITE.md "wikilink")                                          | 2010                                                              |     |      |
+| [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")                               | 2007                                                              |     |      |
+| [TEEN TOP](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")                       | 2010                                                              |     |      |
+| [AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")                          | 2012                                                              |     |      |
+| [I.O.I](../Page/I.O.I.md "wikilink")                                                | 2016                                                              |     |      |
+| [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")                             | 2015                                                              |     |      |
+| [Seventeen](../Page/Seventeen_\(組合\).md "wikilink")                                 | 2015                                                              |     |      |
+| [Highlight](../Page/Highlight_\(韓國組合\).md "wikilink")                               | 2017                                                              |     |      |
+| [金聖圭](../Page/金聖圭.md "wikilink")                                                    | 2012                                                              |     |      |
+| [CLC](../Page/CLC.md "wikilink")                                                    | 2015                                                              |     |      |
+| [X1](../Page/X1.md "wikilink")                                                      | 2019                                                              |     |      |
+| [TOMORROW X TOGETHER](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink") | 2019                                                              |     |      |
 
 ### 獲得最高分數的歌曲
 
@@ -951,7 +968,7 @@
 | 1st                                                             | [VIXX](../Page/VIXX.md "wikilink")   | 2首   | Love Equation、Dynamite | 2012 |
 | 2nd                                                             | [Apink](../Page/Apink.md "wikilink") | 1首   | LUV                    | 2011 |
 | [GOT7](../Page/GOT7.md "wikilink")                              | If You Do                            | 2014 |                        |      |
-| [GFRIEND](../Page/GFRIEND.md "wikilink")                        | Navillera                            | 2015 |                        |      |
+| [GFRIEND](../Page/GFRIEND.md "wikilink")                        | Navillera                            | 2016 |                        |      |
 | [NCT Dream](https://zh.wikipedia.org/wiki/NCT_Dream "wikilink") | My First And Last                    | 2016 |                        |      |
 |                                                                 |                                      |      |                        |      |
 
@@ -1015,23 +1032,13 @@
 [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:2011年建立](https://zh.wikipedia.org/wiki/Category:2011年建立 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10. 由於該期為特輯只計算土豆網的投票分數，所以獎項名稱為THE SHOW CHINA CHOICE
-
 11.

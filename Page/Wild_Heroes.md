@@ -171,11 +171,8 @@
 
 1.
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.  [日テレ新設ドラマ第１弾「ワイルド・ヒーローズ」最終回８・１％](http://www.sponichi.co.jp/entertainment/news/2015/06/22/kiji/K20150622010560580.html)、[體育日本](https://zh.wikipedia.org/wiki/體育日本 "wikilink")、2015年6月22日閲覧。

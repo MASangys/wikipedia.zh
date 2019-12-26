@@ -36,7 +36,7 @@ Image:2011 Suzuki Kizashi S AWD left front.jpg|車頭 Image:2011 Suzuki Kizashi 
 
 ## 外部連結
 
-  - [澳洲官方網站](http://www.suzuki.com.au/vehicles/models/kizashi/model-variant/kizashi-sport-touring/overview)
+  - [澳洲官方網站](https://web.archive.org/web/20150110064251/http://www.suzuki.com.au/vehicles/models/kizashi/model-variant/kizashi-sport-touring/overview)
 
 [Category:鈴木車輛](https://zh.wikipedia.org/wiki/Category:鈴木車輛 "wikilink") [Category:馬魯蒂車輛](https://zh.wikipedia.org/wiki/Category:馬魯蒂車輛 "wikilink") [Category:轎車](https://zh.wikipedia.org/wiki/Category:轎車 "wikilink") [Category:中型車](https://zh.wikipedia.org/wiki/Category:中型車 "wikilink") [Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink") [Category:前輪驅動](https://zh.wikipedia.org/wiki/Category:前輪驅動 "wikilink") [Category:四輪驅動](https://zh.wikipedia.org/wiki/Category:四輪驅動 "wikilink") [Category:CVT變速系統車輛](https://zh.wikipedia.org/wiki/Category:CVT變速系統車輛 "wikilink")
 

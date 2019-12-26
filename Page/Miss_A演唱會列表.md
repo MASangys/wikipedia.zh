@@ -184,8 +184,6 @@ miss A出道後為拓展亞洲市場，在各地舉辦Showcase，2010年11月22�
 [Category:miss_A](https://zh.wikipedia.org/wiki/Category:miss_A "wikilink") [Category:巡迴演唱會列表](https://zh.wikipedia.org/wiki/Category:巡迴演唱會列表 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

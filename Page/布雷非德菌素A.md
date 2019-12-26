@@ -14,7 +14,7 @@
 
   -
   -
-  - [NCI Frederick, Structure and Data for Brefeldin A.](http://home.ncifcrf.gov/mtdp/Catalog/compounds/56310.html) (Image)
+  - [NCI Frederick, Structure and Data for Brefeldin A.](https://web.archive.org/web/20160303170317/http://home.ncifcrf.gov/mtdp/Catalog/compounds/56310.html) (Image)
 
 [Category:大环内酯类抗生素](https://zh.wikipedia.org/wiki/Category:大环内酯类抗生素 "wikilink")
 

@@ -36,12 +36,9 @@
 [Category:放浪兄弟歌曲](https://zh.wikipedia.org/wiki/Category:放浪兄弟歌曲 "wikilink") [Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:2014年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Oricon單曲週榜冠軍作品 "wikilink") [Category:2014年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2014年Japan_Hot_100冠軍歌曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
 7.

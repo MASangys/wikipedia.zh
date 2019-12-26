@@ -7,7 +7,7 @@
   -
   - [Bodhi Linux at Distrowatch.com](http://distrowatch.com/table.php?distribution=bodhi/)
 
-  - [Bodhi Linux documentation/wiki](http://wiki.bodhilinux.com/)
+  - [Bodhi Linux documentation/wiki](https://web.archive.org/web/20190924172831/http://www.bodhilinux.com/w/wiki/)
 
 [Category:Linux发行版](https://zh.wikipedia.org/wiki/Category:Linux发行版 "wikilink") [Category:Ubuntu衍生版](https://zh.wikipedia.org/wiki/Category:Ubuntu衍生版 "wikilink")
 

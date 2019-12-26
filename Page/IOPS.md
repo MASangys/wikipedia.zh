@@ -103,44 +103,27 @@ IOPS的數值會隨系統組態而有很大的不同，依測試者在測試時�
 [Category:電腦性能](https://zh.wikipedia.org/wiki/Category:電腦性能 "wikilink") [Category:資料傳輸](https://zh.wikipedia.org/wiki/Category:資料傳輸 "wikilink") [Category:頻率單位](https://zh.wikipedia.org/wiki/Category:頻率單位 "wikilink")
 
 1.
-
 2.
-
 3.  (source available at <http://git.kernel.dk/>)
-
 4.
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
 15.
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
 24. <http://www.ocztechnology.com/res/manuals/OCZ_Vertex3_Product_Sheet.pdf>
-
 25.

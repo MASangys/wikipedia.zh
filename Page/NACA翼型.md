@@ -88,18 +88,11 @@ NACA五位数翼型可以描述更为复杂的机翼形状：\[8\]
 [Category:空气动力学](https://zh.wikipedia.org/wiki/Category:空气动力学 "wikilink") [Category:机翼](https://zh.wikipedia.org/wiki/Category:机翼 "wikilink")
 
 1.  E.N. Jacobs, K.E. Ward, & R.M. Pinkerton. [NACA Report No. 460, "The characteristics of 78 related airfoil sections from tests in the variable-density wind tunnel"](http://hdl.handle.net/2060/19930091108). NACA, 1933.
-
 2.  "Fundamentals of aerodynamics", John D. Anderson,Jr, third ed, chap 4
-
 3.
-
 4.  [Aerospaceweb.org | Ask Us - NACA Airfoil Series](http://www.aerospaceweb.org/question/airfoils/q0041.shtml)
-
 5.  <http://www.fges.demon.co.uk/cfd/naca.html#07>
-
 6.
 7.
-
 8.  E. N. Jacobs & R. M. Pinkerton 1936 Test in the variable-density wind tunnel of related airfoils having the maximum camber unusually far forward, [NACA Report No. 537](http://hdl.handle.net/2060/19930091610).
-
 9.

@@ -24,32 +24,230 @@
 
 ### 畢業成員
 
-| 暱稱                                                  | 本名                               | 國籍                                                                                                                                                                                                                                                                                      | 經歷                                                                                                                                                               | 在隊時間與離團原因                             |
-| :-------------------------------------------------- | :------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------ |
-| Endo                                                | 陳恩玲                              | rowspan ="23"|                                                                                                                                                                                                                                                                          | Divas隊長、Uni Girls元老成員與隊長。第一代四大元老成員之一。曾於2007、2008年連續兩年隨隊出征日本東京巨蛋、參與亞洲職棒大賽演出。                                                                                      | 2015年球季開始專任管理、編舞及教學，不再演出。配偶為SBL球星林冠綸。 |
-| 彭彭                                                  | 徐彭思婷                             | 2006\~2014 Uni Girls                                                                                                                                                                                                                                                                    | 2006\~2014。2015因個人因素離隊。配偶為[富邦悍將前投手張立帆](https://zh.wikipedia.org/wiki/富邦悍將 "wikilink")(原名張耀文)。                                                                    |                                       |
-| 小文                                                  | 林-{于}-文                          | 《[打擊出去](../Page/打擊出去.md "wikilink")》節目啦啦隊                                                                                                                                                                                                                                               | 2013、2014。因白眼事件造成爭議，2014球季中離隊，仍活躍於showgirl圈。                                                                                                                     |                                       |
-| 貝希                                                  | 邱玉菱                              | 2014 Uni Girls                                                                                                                                                                                                                                                                          | 2014加入，2015離隊。                                                                                                                                                   |                                       |
-| 蓓蓓                                                  | 許蓓華                              | 2014 Uni Girls                                                                                                                                                                                                                                                                          | 2014加入，2015離隊。現專任展場活動主持。                                                                                                                                         |                                       |
-| 寶兒                                                  | 曹軒瑄                              | 2013 Uni girls 、2015，2018 Passion Sister                                                                                                                                                                                                                                                | 2013短暫支援Uni Girls復古祭活動，2015加盟[中信兄弟啦啦隊](https://zh.wikipedia.org/wiki/中信兄弟 "wikilink")[Passion Sisters](https://zh.wikipedia.org/wiki/Passion_Sisters "wikilink") |                                       |
-| 貝貝Chelsea                                           | 林貝珊                              | 女子團體[Sun Lady成員](../Page/Sun_Lady.md "wikilink")                                                                                                                                                                                                                                        | 2010\~2013                                                                                                                                                       |                                       |
-| 妞妞Sophia                                            | 黃聖家                              | Divas創團團長、迪娃獅首任隊長、第一代四大元老成員之一。曾於2007、2008年連續兩年隨隊出征日本東京巨蛋、參與亞洲職棒大賽演出。SBL台灣啤酒啦啦隊隊長(2005-2017)。ELTA愛爾達體育台節目主持人、直播NBA和日本職棒球賽串場及賽後Call Out主持人(2009-2010)。活動圈知名主持人(2004-2011)。                                                                                                                | 2006\~2011在隊、2010年秋天前往美國芝加哥攻讀碩士。現退出showgirl圈，定居美國芝加哥，從事財務金融業。現任芝加哥台美商會青商部會長及北美洲台灣商會聯合總會青商部祕書長(2018-2019)。                                                        |                                       |
-| 雅雅Sabrina                                           | 楊雅安                              | 第一代四大元老成員之一。曾於2007、2008年連續兩年隨隊出征日本東京巨蛋、參與亞洲職棒大賽演出。                                                                                                                                                                                                                                      | 2006\~2011、現退出showgirl圈，曾定居港澳五年。現任職寶悍運動行銷公司。                                                                                                                     |                                       |
-| 貝貝Bae                                               | [林貝芳](../Page/林采欣.md "wikilink") | 藝名[林采欣](../Page/林采欣.md "wikilink")，歌手                                                                                                                                                                                                                                                   | 2008\~2010在隊。第二代四大元老成員之一。曾於2008年連續隨隊出征日本東京巨蛋、參與亞洲職棒大賽演出。2010年7月11號在統一獅台南主場發表個人為統一獅創作之歌<準備好了沒>。                                                                   |                                       |
-| 琪琪                                                  | 劉怡琪                              | 2014[義大犀牛啦啦隊犀睛女孩](https://zh.wikipedia.org/wiki/義大犀牛 "wikilink")、2015 Uni Girls、2015[棒協所屬棒球女孩](https://zh.wikipedia.org/wiki/棒協 "wikilink")、2016參與[Lamigo桃猿啦啦隊](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")[Lamigirls徵選未選上](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")。 | 2015\~2016/1/5                                                                                                                                                   |                                       |
-| 妖嬌                                                  | 陳詩筠                              | [我愛黑澀會](../Page/我愛黑澀會.md "wikilink")美眉、2013\~15[義大犀牛犀睛女孩](https://zh.wikipedia.org/wiki/義大犀牛 "wikilink")                                                                                                                                                                                | 2009                                                                                                                                                             |                                       |
-| 艾庭                                                  | 郭艾庭                              | 2015-16年Uni Girls成員                                                                                                                                                                                                                                                                     | 2016年離隊                                                                                                                                                          |                                       |
-| [凱莉絲](https://zh.wikipedia.org/wiki/凱莉絲 "wikilink") | 洪-{于}-晴                          | Divas第一代四大元老成員之一。曾於2007年隨隊出征日本東京巨蛋、參與亞洲職棒大賽演出。2008年離隊。東森羚羊啦啦隊(2005-2007)、台灣啤酒啦啦隊(2007-2008)                                                                                                                                                                                             | 2012\~16重新回歸Uni-Girls、2018年開季前加入[Lamigirls](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")                                                                  |                                       |
-| 橘子                                                  | 甘煖琳                              | 前台灣[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[魔電女孩](../Page/魔電女孩.md "wikilink")成員、[羅志祥](../Page/羅志祥.md "wikilink")演唱會專職舞者                                                                                                                                                    | 2011\~16                                                                                                                                                         |                                       |
-| Ida                                                 | [吳瑞婷](../Page/吳瑞婷.md "wikilink") | 前台灣[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[i.n.g](https://zh.wikipedia.org/wiki/i.n.g "wikilink")、[魔電女孩](../Page/魔電女孩.md "wikilink")成員，《[打擊出去](../Page/打擊出去.md "wikilink")》節目啦啦隊。配偶為台灣動靜樂團吉他手紅雨。                                                                          | 2014\~16                                                                                                                                                         |                                       |
-| 穎兒                                                  | 陳奕吟                              | 舞團HERA成員、舞團Single lady團長                                                                                                                                                                                                                                                                | 2015\~16                                                                                                                                                         |                                       |
-| Kiwi                                                | 林家莉                              | 《[打擊出去](../Page/打擊出去.md "wikilink")》節目啦啦隊、2011[天氣女孩](https://zh.wikipedia.org/wiki/天氣女孩 "wikilink")                                                                                                                                                                                     | 2015\~16                                                                                                                                                         |                                       |
-| Julie                                               | 林忻怡                              | [周杰倫](../Page/周杰倫.md "wikilink")演唱會專職舞者                                                                                                                                                                                                                                                 | 2016、2017年加入[富邦悍將啦啦隊](https://zh.wikipedia.org/wiki/富邦悍將 "wikilink")[Fubon Angels](../Page/Fubon_Angels.md "wikilink")                                           |                                       |
-| 泡泡                                                  | 張孟容                              | 畢業於[國立臺灣體育運動大學](../Page/國立臺灣體育運動大學.md "wikilink")，富邦勇士啦啦隊、中堃獵鷹排球啦啦隊                                                                                                                                                                                                                     | 2015～2017年球季中，因結婚生子而離隊                                                                                                                                           |                                       |
-| Yuri                                                | 陳怡叡                              | 《明星志願-星之守護》手遊廣告、《倚天屠龍記》 手遊廣告、DADASUPREME 年度型錄、Filter017糖衣女孩                                                                                                                                                                                                                             | 2017\~2018季中離隊 ，2019開季前加入[Lamigirls](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")                                                                         |                                       |
-| 軒軒                                                  | 吳軒宜                              | [南台科技大學行銷與流通管理系](https://zh.wikipedia.org/wiki/南台科技大學 "wikilink")                                                                                                                                                                                                                       | Goddess加蒂思舞團團員、MIMI Bella職業舞團團員。2017\~2019季初離隊 。                                                                                                                 |                                       |
-| 心璇                                                  | 張怡萱                              | [嘉南藥理大學](../Page/嘉南藥理大學.md "wikilink") 醫藥化學系                                                                                                                                                                                                                                            | 原藝名璇璇，2019年1月16日啟用新藝名心璇、《7-11植得期待》廣告。2019年5月底因生涯規劃提前離隊。                                                                                                          |                                       |
-|                                                     |                                  |                                                                                                                                                                                                                                                                                         |                                                                                                                                                                  |                                       |
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><p>暱稱</p></th>
+<th style="text-align: left;"><p>本名</p></th>
+<th style="text-align: left;"><p>國籍</p></th>
+<th style="text-align: left;"><p>經歷</p></th>
+<th style="text-align: left;"><p>在隊時間與離團原因</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><p>Endo</p></td>
+<td style="text-align: left;"><p>陳恩玲</p></td>
+<td style="text-align: left;"><p>rowspan ="23"|</p></td>
+<td style="text-align: left;"><p>Divas隊長、Uni Girls元老成員與隊長。第一代四大元老成員之一。<br />
+曾於2007、2008年連續兩年隨隊出征日本東京巨蛋、參與亞洲職棒大賽演出。</p></td>
+<td style="text-align: left;"><p>2015年球季開始專任管理、編舞及教學，不再演出。<br />
+配偶為SBL球星林冠綸。</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>彭彭</p></td>
+<td style="text-align: left;"><p>徐彭思婷</p></td>
+<td style="text-align: left;"><p>2006~2014 Uni Girls</p></td>
+<td style="text-align: left;"><p>2006~2014。2015因個人因素離隊。<br />
+配偶為<a href="https://zh.wikipedia.org/wiki/富邦悍將" title="wikilink">富邦悍將前投手張立帆</a>(原名張耀文)。</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>小文</p></td>
+<td style="text-align: left;"><p>林-{于}-文</p></td>
+<td style="text-align: left;"><p>《<a href="../Page/打擊出去.md" title="wikilink">打擊出去</a>》節目啦啦隊</p></td>
+<td style="text-align: left;"><p>2013~2014。<br />
+因白眼事件造成爭議，2014球季中離隊，仍活躍於showgirl圈。</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>貝希</p></td>
+<td style="text-align: left;"><p>邱玉菱</p></td>
+<td style="text-align: left;"><p>2014 Uni Girls</p></td>
+<td style="text-align: left;"><p>2014加入，2015離隊。</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>蓓蓓</p></td>
+<td style="text-align: left;"><p>許蓓華</p></td>
+<td style="text-align: left;"><p>2014 Uni Girls</p></td>
+<td style="text-align: left;"><p>2014加入，2015離隊。<br />
+現專任展場活動主持。</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>寶兒</p></td>
+<td style="text-align: left;"><p>曹軒瑄</p></td>
+<td style="text-align: left;"><p>2013 Uni girls 、2015，2018 Passion Sister</p></td>
+<td style="text-align: left;"><p>2013短暫支援Uni Girls復古祭活動。<br />
+2015加盟<a href="https://zh.wikipedia.org/wiki/中信兄弟" title="wikilink">中信兄弟啦啦隊</a><a href="https://zh.wikipedia.org/wiki/Passion_Sisters" title="wikilink">Passion Sisters</a></p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>貝貝Chelsea</p></td>
+<td style="text-align: left;"><p>林貝珊</p></td>
+<td style="text-align: left;"><p>女子團體<a href="../Page/Sun_Lady.md" title="wikilink">Sun Lady成員</a></p></td>
+<td style="text-align: left;"><p>2010~2013。</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>妞妞Sophia</p></td>
+<td style="text-align: left;"><p>黃聖家</p></td>
+<td style="text-align: left;"><p>Divas創團團長、迪娃獅首任隊長、第一代四大元老成員之一。<br />
+曾於2007、2008年連續兩年隨隊出征日本東京巨蛋、參與亞洲職棒大賽演出。<br />
+SBL台灣啤酒啦啦隊隊長(2005-2017)。<br />
+ELTA愛爾達體育台節目主持人。<br />
+直播NBA和日本職棒球賽串場及賽後Call Out主持人(2009-2010)。<br />
+活動圈知名主持人(2004-2011)。</p></td>
+<td style="text-align: left;"><p>2006~2011在隊、2010年秋天前往美國芝加哥攻讀碩士。<br />
+現退出showgirl圈，定居美國芝加哥，從事財務金融業。<br />
+現任芝加哥台美商會青商部會長及北美洲台灣商會聯合總會青商部祕書長(2018-2019)。</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>雅雅Sabrina</p></td>
+<td style="text-align: left;"><p>楊雅安</p></td>
+<td style="text-align: left;"><p>第一代四大元老成員之一。曾於2007、2008年連續兩年隨隊出征日本東京巨蛋、參與亞洲職棒大賽演出。</p></td>
+<td style="text-align: left;"><p>2006~2011、現退出showgirl圈。<br />
+曾定居港澳五年。<br />
+現任職寶悍運動行銷公司。</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>貝貝Bae</p></td>
+<td style="text-align: left;"><p><a href="../Page/林采欣.md" title="wikilink">林貝芳</a></p></td>
+<td style="text-align: left;"><p>藝名<a href="../Page/林采欣.md" title="wikilink">林采欣</a>，歌手</p></td>
+<td style="text-align: left;"><p>2008~2010在隊。<br />
+第二代四大元老成員之一。<br />
+曾於2008年連續隨隊出征日本東京巨蛋、參與亞洲職棒大賽演出。<br />
+2010年7月11號在統一獅台南主場發表個人為統一獅創作之歌<準備好了沒>。</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>琪琪</p></td>
+<td style="text-align: left;"><p>劉怡琪</p></td>
+<td style="text-align: left;"><p>2014<a href="https://zh.wikipedia.org/wiki/義大犀牛" title="wikilink">義大犀牛啦啦隊犀睛女孩</a>、<br />
+2015 Uni Girls、2015<a href="https://zh.wikipedia.org/wiki/棒協" title="wikilink">棒協所屬棒球女孩</a>、<br />
+2016參與<a href="https://zh.wikipedia.org/wiki/Lamigo桃猿" title="wikilink">Lamigo桃猿啦啦隊</a><a href="https://zh.wikipedia.org/wiki/Lamigirls" title="wikilink">Lamigirls徵選未選上</a>。</p></td>
+<td style="text-align: left;"><p>2015~2016/1/5 。<br />
+2019年末加入<a href="https://zh.wikipedia.org/wiki/Go_Beauties小龍女" title="wikilink">Go Beauties小龍女</a></p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>妖嬌</p></td>
+<td style="text-align: left;"><p>陳詩筠</p></td>
+<td style="text-align: left;"><p><a href="../Page/我愛黑澀會.md" title="wikilink">我愛黑澀會</a>美眉、<br />
+2013~15<a href="https://zh.wikipedia.org/wiki/義大犀牛" title="wikilink">義大犀牛犀睛女孩</a></p></td>
+<td style="text-align: left;"><p>2009</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>艾庭</p></td>
+<td style="text-align: left;"><p>郭艾庭</p></td>
+<td style="text-align: left;"><p>2015-16年Uni Girls成員</p></td>
+<td style="text-align: left;"><p>2016年離隊</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/凱莉絲" title="wikilink">凱莉絲</a></p></td>
+<td style="text-align: left;"><p>洪-{于}-晴</p></td>
+<td style="text-align: left;"><p>Divas第一代四大元老成員之一。<br />
+曾於2007年隨隊出征日本東京巨蛋、參與亞洲職棒大賽演出。<br />
+2008年離隊。<br />
+東森羚羊啦啦隊(2005-2007)、台灣啤酒啦啦隊(2007-2008)</p></td>
+<td style="text-align: left;"><p>2012~16重新回歸Uni-Girls、<br />
+2018年開季前加入<a href="https://zh.wikipedia.org/wiki/Lamigirls" title="wikilink">Lamigirls</a></p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>橘子</p></td>
+<td style="text-align: left;"><p>甘煖琳</p></td>
+<td style="text-align: left;"><p>前台灣<a href="https://zh.wikipedia.org/wiki/女子團體" title="wikilink">女子團體</a><a href="../Page/魔電女孩.md" title="wikilink">魔電女孩</a>成員、<br />
+<a href="../Page/羅志祥.md" title="wikilink">羅志祥</a>演唱會專職舞者</p></td>
+<td style="text-align: left;"><p>2011~16</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>Ida</p></td>
+<td style="text-align: left;"><p><a href="../Page/吳瑞婷.md" title="wikilink">吳瑞婷</a></p></td>
+<td style="text-align: left;"><p>前台灣<a href="https://zh.wikipedia.org/wiki/女子團體" title="wikilink">女子團體</a><a href="https://zh.wikipedia.org/wiki/i.n.g" title="wikilink">i.n.g</a>、<br />
+<a href="../Page/魔電女孩.md" title="wikilink">魔電女孩</a>成員，<br />
+《<a href="../Page/打擊出去.md" title="wikilink">打擊出去</a>》節目啦啦隊。<br />
+配偶為台灣動靜樂團吉他手紅雨。</p></td>
+<td style="text-align: left;"><p>2014~16</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>穎兒</p></td>
+<td style="text-align: left;"><p>陳奕吟</p></td>
+<td style="text-align: left;"><p>舞團HERA成員、<br />
+舞團Single lady團長</p></td>
+<td style="text-align: left;"><p>2015~16</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>Kiwi</p></td>
+<td style="text-align: left;"><p>林家莉</p></td>
+<td style="text-align: left;"><p>《<a href="../Page/打擊出去.md" title="wikilink">打擊出去</a>》節目啦啦隊、<br />
+2011<a href="https://zh.wikipedia.org/wiki/天氣女孩" title="wikilink">天氣女孩</a></p></td>
+<td style="text-align: left;"><p>2015~16</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>Julie</p></td>
+<td style="text-align: left;"><p>林忻怡</p></td>
+<td style="text-align: left;"><p><a href="../Page/周杰倫.md" title="wikilink">周杰倫</a>演唱會專職舞者</p></td>
+<td style="text-align: left;"><p>2016、2017年加入<a href="https://zh.wikipedia.org/wiki/富邦悍將" title="wikilink">富邦悍將啦啦隊</a><a href="../Page/Fubon_Angels.md" title="wikilink">Fubon Angels</a></p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>泡泡</p></td>
+<td style="text-align: left;"><p>張孟容</p></td>
+<td style="text-align: left;"><p>畢業於<a href="../Page/國立臺灣體育運動大學.md" title="wikilink">國立臺灣體育運動大學</a>，<br />
+富邦勇士啦啦隊、中堃獵鷹排球啦啦隊</p></td>
+<td style="text-align: left;"><p>2015～2017年球季中，因結婚生子而離隊</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>Yuri</p></td>
+<td style="text-align: left;"><p>陳怡叡</p></td>
+<td style="text-align: left;"><p>《明星志願-星之守護》手遊廣告、<br />
+《倚天屠龍記》 手遊廣告、<br />
+DADASUPREME 年度型錄、<br />
+Filter017糖衣女孩</p></td>
+<td style="text-align: left;"><p>2017~2018季中離隊<br />
+2019開季前加入<a href="https://zh.wikipedia.org/wiki/Lamigirls" title="wikilink">Lamigirls</a></p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>軒軒</p></td>
+<td style="text-align: left;"><p>吳軒宜</p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/南台科技大學" title="wikilink">南台科技大學行銷與流通管理系</a>，<br />
+Goddess加蒂思舞團團員、<br />
+MIMI Bella職業舞團團員。</p></td>
+<td style="text-align: left;"><p>2017~2019季初離隊，<br />
+2019年末加入<a href="https://zh.wikipedia.org/wiki/Go_Beauties小龍女" title="wikilink">Go Beauties小龍女</a>。</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>心璇</p></td>
+<td style="text-align: left;"><p>張怡萱</p></td>
+<td style="text-align: left;"><p><a href="../Page/嘉南藥理大學.md" title="wikilink">嘉南藥理大學</a> 醫藥化學系、<br />
+原藝名璇璇，2019年1月16日啟用新藝名心璇、<br />
+《7-11植得期待》廣告。</p></td>
+<td style="text-align: left;"><p>2017~2019年5月底因生涯規劃提前離隊，<br />
+2019年末加入<a href="https://zh.wikipedia.org/wiki/Go_Beauties小龍女" title="wikilink">Go Beauties小龍女</a></p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
 
 ### 歷任隊長
 

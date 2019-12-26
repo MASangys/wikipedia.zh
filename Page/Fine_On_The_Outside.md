@@ -40,12 +40,9 @@
 [Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
 7.

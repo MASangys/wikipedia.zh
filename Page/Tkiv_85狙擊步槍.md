@@ -12,7 +12,7 @@ Tkiv 85是一種衍生自[俄羅斯製](https://zh.wikipedia.org/wiki/俄羅斯 
 
 ## 外部連結
 
-  - [芬蘭國防軍官方網站](http://www.mil.fi/maavoimat/kalustoesittely/index.dsp?level=64&equipment=46)
+  - [芬蘭國防軍官方網站](https://web.archive.org/web/20070311013420/http://www.mil.fi/maavoimat/kalustoesittely/index.dsp?level=64&equipment=46)
 
   - [Finnish website with images of 7.62 TKIV 85 rifles](http://www.elisanet.fi/gliderpilot/maanpuolustus.htm)
 

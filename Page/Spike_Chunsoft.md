@@ -316,10 +316,14 @@ Windows</p></td>
 <td><p>由萬代南夢宮娛樂發行</p></td>
 </tr>
 <tr class="even">
-<td><p>AI: The Somnium Files</p></td>
-<td></td>
-<td></td>
-<td><p>PlayStation 4</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AI:_夢境檔案" title="wikilink">AI: 夢境檔案</a><br />
+<br />
+</p></td>
+<td><p>2019年9月18日</p></td>
+<td><p>冒險</p></td>
+<td><p>PlayStation 4<br />
+<a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a><br />
+Windows</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -332,4 +336,4 @@ Windows</p></td>
   -
 [Category:Spike_Chunsoft](https://zh.wikipedia.org/wiki/Category:Spike_Chunsoft "wikilink") [Category:2012年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2012年開業電子遊戲公司 "wikilink") [Category:多玩國](https://zh.wikipedia.org/wiki/Category:多玩國 "wikilink") [Category:日本电子游戏公司](https://zh.wikipedia.org/wiki/Category:日本电子游戏公司 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink") [Category:电子游戏发行商](https://zh.wikipedia.org/wiki/Category:电子游戏发行商 "wikilink") [Category:电子游戏开发公司](https://zh.wikipedia.org/wiki/Category:电子游戏开发公司 "wikilink")
 
-1.  [Dwango History](http://info.dwango.co.jp/english/history/).Dwango.\[2014-12-19\].
+1.  [Dwango History](http://info.dwango.co.jp/english/history/) .Dwango.\[2014-12-19\].

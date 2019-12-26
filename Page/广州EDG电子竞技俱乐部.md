@@ -68,6 +68,20 @@ S7结束后，队中上单Mouse离队，EDG召回曾担任队中替补上单的�
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>Jinoo</p></td>
+<td></td>
+<td><p>TOP</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Jiejie</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/赵礼杰" title="wikilink">赵礼杰</a></p></td>
+<td><p>Jungle</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>Clearlove</p></td>
 <td><p><a href="../Page/明凯.md" title="wikilink">明凯</a></p></td>
 <td><p>Jungle</p></td>
@@ -76,7 +90,7 @@ S7结束后，队中上单Mouse离队，EDG召回曾担任队中替补上单的�
 </tr>
 <tr class="even">
 <td><p>Scout</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李汭燦" title="wikilink">李汭燦</a>（이예찬）</p></td>
+<td></td>
 <td><p>Mid</p></td>
 <td></td>
 <td></td>
@@ -97,36 +111,8 @@ S7结束后，队中上单Mouse离队，EDG召回曾担任队中替补上单的�
 </tr>
 <tr class="odd">
 <td><p>Ray</p></td>
-<td><p>全志愿（전지원）</p></td>
+<td></td>
 <td><p>TOP</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Haro</p></td>
-<td><p>陈文林</p></td>
-<td><p>Jungle</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Hope</p></td>
-<td><p>王杰</p></td>
-<td><p>ADC</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -155,14 +141,14 @@ S7结束后，队中上单Mouse离队，EDG召回曾担任队中替补上单的�
 <tbody>
 <tr class="odd">
 <td><p>Pawn</p></td>
-<td><p>许元硕</p></td>
+<td></td>
 <td><p>Mid</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>Deft</p></td>
-<td><p>金赫奎</p></td>
+<td></td>
 <td><p>ADC</p></td>
 <td></td>
 <td></td>
@@ -190,7 +176,7 @@ S7结束后，队中上单Mouse离队，EDG召回曾担任队中替补上单的�
 </tr>
 <tr class="even">
 <td><p>Athena</p></td>
-<td><p>姜河垣</p></td>
+<td></td>
 <td><p>Mid</p></td>
 <td></td>
 <td></td>
@@ -232,7 +218,7 @@ S7结束后，队中上单Mouse离队，EDG召回曾担任队中替补上单的�
 </tr>
 <tr class="even">
 <td><p>zet</p></td>
-<td><p>海成民</p></td>
+<td></td>
 <td><p>ADC</p></td>
 <td></td>
 <td></td>
@@ -267,7 +253,7 @@ S7结束后，队中上单Mouse离队，EDG召回曾担任队中替补上单的�
 <tbody>
 <tr class="odd">
 <td><p>NoFe</p></td>
-<td><p>郑鲁喆</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -290,6 +276,7 @@ S7结束后，队中上单Mouse离队，EDG召回曾担任队中替补上单的�
 
 **亚军:**
 
+  - **[英雄联盟职业联赛](../Page/英雄联盟职业联赛.md "wikilink")(1)**： 2018春
   - [世界电子竞技大赛](../Page/世界电子竞技大赛_\(中国游戏赛事\).md "wikilink")(1)：2014
   - [IEM英特尔极限高手杯](https://zh.wikipedia.org/wiki/IEM英特尔极限高手杯 "wikilink")(1)：2014深圳站
 
@@ -316,20 +303,6 @@ S7结束后，队中上单Mouse离队，EDG召回曾担任队中替补上单的�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>阿楚</p></td>
-<td><p>杨楚</p></td>
-<td><p>上路</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>PJJ</p></td>
-<td><p>潘锦锦</p></td>
-<td><p>辅助</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>浪浪</p></td>
 <td><p>刘培峰</p></td>
 <td><p>中路</p></td>
@@ -337,37 +310,51 @@ S7结束后，队中上单Mouse离队，EDG召回曾担任队中替补上单的�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>阿澈</p></td>
-<td><p>陈林钦</p></td>
-<td><p>上路</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>旧梦</p></td>
 <td><p>钟杰</p></td>
 <td><p>打野</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>无痕</p></td>
 <td><p>祝昊运</p></td>
 <td><p>下路</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Mac</p></td>
 <td><p>张迈可</p></td>
 <td><p>中路</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>koko</p></td>
 <td><p>张文科</p></td>
 <td><p>辅助</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>小暖</p></td>
+<td><p>郭子恒</p></td>
+<td><p>辅助</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>伪装</p></td>
+<td><p>朱思远</p></td>
+<td><p>下路</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>柠栀</p></td>
+<td><p>袁俊</p></td>
+<td><p>上路</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -409,6 +396,47 @@ S7结束后，队中上单Mouse离队，EDG召回曾担任队中替补上单的�
 <td><p>free</p></td>
 <td><p>方国强</p></td>
 <td><p>数据分析</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 过往成员
+
+<table>
+<thead>
+<tr class="header">
+<th><p>游戏名称</p></th>
+<th><p>姓名</p></th>
+<th><p>游戏定位</p></th>
+<th><p>生日</p></th>
+<th><p>备注</p></th>
+<th><p>国籍</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>阿楚</p></td>
+<td><p>杨楚</p></td>
+<td><p>上路</p></td>
+<td></td>
+<td><p>退役</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>PJJ</p></td>
+<td><p>潘锦锦</p></td>
+<td><p>辅助</p></td>
+<td></td>
+<td><p>转助教后离队</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>阿澈</p></td>
+<td><p>陈林钦</p></td>
+<td><p>上路</p></td>
+<td></td>
+<td><p>退役</p></td>
 <td></td>
 </tr>
 </tbody>

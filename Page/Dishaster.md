@@ -23,20 +23,14 @@ Zimag在1983年发行游戏\[7\]。[Bit公司发行了另一版游戏](https://z
 [Category:1983年电子游戏](https://zh.wikipedia.org/wiki/Category:1983年电子游戏 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:雅达利2600游戏](https://zh.wikipedia.org/wiki/Category:雅达利2600游戏 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.
-
 7.
 8.
-
 9.
-
 10.
 11.
-
 12.

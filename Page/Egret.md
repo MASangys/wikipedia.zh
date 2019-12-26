@@ -1,4 +1,4 @@
-**Egret Engine**白鹭引擎是一套开源免费的完整的HTML5游戏开发解决方案，用于构建二维游戏、演示程序和其他图形界面交互应用等。白鹭引擎是一个基于[TypeScript](../Page/TypeScript.md "wikilink")语言开发的HTML5游戏引擎。当游戏开发完成后，可将程序发布到[Web](https://zh.wikipedia.org/wiki/Web "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")、[WindowsPhone](https://zh.wikipedia.org/wiki/WindowsPhone "wikilink")、[PC](../Page/PC.md "wikilink")等平台，实现跨平台特性。
+**Egret Engine**白鹭引擎是一套开源免费的完整的HTML5游戏开发解决方案，用于构建二维游戏、演示程序和其他图形界面交互应用等。白鹭引擎是一个基于[TypeScript](../Page/TypeScript.md "wikilink")语言开发的HTML5游戏引擎。当游戏开发完成后，可将程序发布到[Web](https://zh.wikipedia.org/wiki/Web "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows Phone](../Page/Windows_Phone.md "wikilink")、[PC](../Page/PC.md "wikilink")等平台，实现[跨平台特性](https://zh.wikipedia.org/wiki/跨平台 "wikilink")。
 
 白鹭引擎不仅仅是一个基于HTML5技术的游戏引擎，完整的产品线中除了白鹭引擎还提供了很多辅助游戏开发的工具。开发者可以使用Egret提供的相关工具搭建属于自己的游戏开发工作流。
 
@@ -6,13 +6,13 @@
 
 ## 白鹭引擎迭代历史
 
-2017年7月，白鹭发布白鹭引擎3D版本，支持 WebAssembly 技术，拥有强大的 3D 编辑器系统，支持 Unity 工作流导出。 
+2017年7月，白鹭发布白鹭引擎3D版本，支持 [WebAssembly](../Page/WebAssembly.md "wikilink") 技术，拥有强大的 3D 编辑器系统，支持 [Unity](https://zh.wikipedia.org/wiki/Unity "wikilink") 工作流导出。 
 
 2017年5月，白鹭发布了5.0版本，支持WASM 极速模式和 JS 兼容模式智能切换成为业界首个双核H5引擎。
 
 2016年12月，白鹭引擎发布4.0版本，改善资源管理框架。
 
-2016年5月，白鹭引擎发布3.0版本，引入的WebGL。
+2016年5月，白鹭引擎发布3.0版本，引入的[WebGL](../Page/WebGL.md "wikilink")。
 
 2015年9月，白鹭引擎发布2.5版本，调整局部渲染技术。
 
@@ -96,12 +96,12 @@
 
 ## 参考资料
 
-<https://www.egret.com/en/>
-
 ## 参见
 
 ## 外部链接
 
-[Category:遊戲製作軟件](https://zh.wikipedia.org/wiki/Category:遊戲製作軟件 "wikilink")
+  - [egret](https://www.egret.com/en/)
+
+[Category:電子遊戲開發軟件](https://zh.wikipedia.org/wiki/Category:電子遊戲開發軟件 "wikilink")
 
 1.

@@ -1,4 +1,4 @@
-《**失蹤的黑色M**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自](https://zh.wikipedia.org/wiki/OCN "wikilink")2015年3月28日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original Series），講述了調查1%失蹤案件的專案組員警和惡性犯罪嫌疑人之間對決的故事。FBI出身的天才精英刑警吉秀賢（金剛于 飾）和純度100%的本土老派勢力刑警吳大榮（朴喜洵 飾）的拍檔將會怎樣在一定期限內找出失踪者並與前所未聞的惡性犯罪者抗衡的故事，以“失踪”為主題，不僅將描繪尋找失踪者的過程，還將會是一段尋找社會丟失的正義、價值的旅程，是一部全新題材的刑偵劇。\[1\]\[2\]
+《**失蹤的黑色M**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自](https://zh.wikipedia.org/wiki/OCN "wikilink")2015年3月28日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original Series），講述了調查1%失蹤案件的專案組員警和惡性犯罪嫌疑人之間對決的故事。[FBI](https://zh.wikipedia.org/wiki/FBI "wikilink") 出身 [IQ](https://zh.wikipedia.org/wiki/IQ "wikilink") 187的天才刑警吉秀賢（[金剛-{于}-](../Page/金剛于.md "wikilink") 飾）和純度100%的本土實力刑警吳大榮（[朴喜洵](../Page/朴喜洵.md "wikilink") 飾）的拍檔將會怎樣在一定期限內找出失踪者並與前所未聞的惡性犯罪者抗衡的故事，以“失踪”為主題，不僅將描繪尋找失踪者的過程，還將會是一段尋找社會丟失的正義、價值的旅程，是一部全新題材的刑偵劇。\[1\]\[2\]
 
 ## 演員陣容
 
@@ -40,7 +40,7 @@
 
 <!-- end list -->
 
-  - [-{朴}-素賢](../Page/朴素賢.md "wikilink") 飾演 姜珠映
+  - [朴素賢](../Page/朴素賢.md "wikilink") 飾演 姜珠映
 
 <!-- end list -->
 
@@ -49,22 +49,45 @@
 
 ### 其他人物
 
-  - [韓抒縝](../Page/韓抒縝.md "wikilink") 飾演 李素允
-
-### 特別演出
-
   - [姜河那](../Page/姜河那.md "wikilink") 飾演 李政修（第1－2集）
-  - [鄭宇直](https://zh.wikipedia.org/wiki/鄭宇直 "wikilink") 飾演 姜敏徹／朱約瑟（第2集）
-  - [高寶潔](https://zh.wikipedia.org/wiki/高寶潔 "wikilink") 飾演 姜順盈（第1－2集）
+
+  - [高甫潔](../Page/高甫潔.md "wikilink") 飾演 姜順煐（第1－2集）
+
+  - 飾演 姜敏哲／朱約瑟（第2集）
+
   - [李承亨](../Page/李承亨.md "wikilink") 飾演 金石鎮（第2集）
+
+  - [韓抒縝](../Page/韓抒縝.md "wikilink") 飾演 李素允（第2集）
+
   - [朴海俊](../Page/朴海俊.md "wikilink") 飾演 河泰兆（第3－4集）
+
+  - 飾演 李智秀（第3－4集）
+
+  - [徐恩雅](../Page/徐恩雅.md "wikilink") 飾演 殷彩琳（第4集）
+
   - [張光](../Page/張光_\(演員\).md "wikilink") 飾演 南錫台（第5集）
+
+  - [劉正錫](https://zh.wikipedia.org/wiki/劉正錫 "wikilink") 飾演 高東浩（第5集）
+
+  - [李秀仁](https://zh.wikipedia.org/wiki/李秀仁 "wikilink") 飾演 南英恩（第5集）
+
+  - [李藝恩](https://zh.wikipedia.org/wiki/李藝恩 "wikilink") 飾演 李智恩（第6集）
+
+  - [金炳哲](../Page/金炳哲.md "wikilink") 飾演 姜允九（第6集）
+
   - [孫秀賢](../Page/孫秀賢.md "wikilink") 飾演 潘孝靜（第7集）
+
+  - [尹芮珠](../Page/尹芮珠.md "wikilink") 飾演 李世英（第7集）
+
   - [L.Joe](https://zh.wikipedia.org/wiki/李秉憲 "wikilink") 飾演 梁正浩（第7集）
-  - [李妍杜](https://zh.wikipedia.org/wiki/李妍杜 "wikilink") 飾演 鄭善美/金貞熙（第8、9集）
-  - [沈宜英](../Page/沈宜英.md "wikilink") 飾演 吳大榮的妻子
-  - [鄭燦](../Page/鄭燦.md "wikilink") 飾演 洪振基
-  - [金炳哲](../Page/金炳哲.md "wikilink") 飾演 姜允九
+
+  - 飾演 鄭善美／金貞熙（第8－9集）
+
+  - [車秀美](https://zh.wikipedia.org/wiki/車秀美 "wikilink") 飾演 張美英（第8－9集）
+
+  - [沈宜英](../Page/沈宜英.md "wikilink") 飾演 吳大榮的妻子（第8、10集）
+
+  - [鄭燦](../Page/鄭燦.md "wikilink") 飾演 洪振基（第10集）
 
 ## 原聲帶
 

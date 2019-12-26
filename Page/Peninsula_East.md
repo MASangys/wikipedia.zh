@@ -45,14 +45,25 @@ Peninsula East under construction in August 2015 (viewed from Hong Kong Island).
   - [嘉賢居](../Page/嘉賢居.md "wikilink")
   - [大本型](../Page/大本型.md "wikilink")(約50萬呎)
   - 油塘灣綜合發展區
-  - [鯉魚門](../Page/鯉魚門.md "wikilink")
   - [油塘站](../Page/油塘站.md "wikilink")(步行約5分鐘)
   - [油塘中心](../Page/油塘中心.md "wikilink")
   - [鯉魚門邨](../Page/鯉魚門邨.md "wikilink")
   - [海傲灣](../Page/海傲灣.md "wikilink")
   - [油美苑](../Page/油美苑及油翠苑.md "wikilink")
   - [高翔苑](../Page/高翔苑.md "wikilink")
-  - [鯉魚門市政大廈](../Page/鯉魚門市政大廈.md "wikilink")
+  - [鯉魚門](../Page/鯉魚門.md "wikilink")
+      - [三家村避風塘](../Page/三家村避風塘.md "wikilink")
+      - [三家村碼頭](https://zh.wikipedia.org/wiki/三家村碼頭 "wikilink")
+      - [鯉魚門市政大廈](../Page/鯉魚門市政大廈.md "wikilink")
+      - [三家村](../Page/三家村_\(九龍\).md "wikilink")
+      - 馬環村
+      - 馬背村
+      - 安里西村
+      - 輋頂村
+      - [賽馬會鯉魚門創意館](https://zh.wikipedia.org/wiki/賽馬會鯉魚門創意館 "wikilink")（前[海濱學校](../Page/海濱學校.md "wikilink")）
+      - [鯉魚門天后廟](../Page/鯉魚門天后廟.md "wikilink")
+      - [魔鬼山炮台](../Page/魔鬼山炮台.md "wikilink")
+      - [鯉魚門燈塔](https://zh.wikipedia.org/wiki/鯉魚門燈塔 "wikilink")
   - 三家村遊樂場
   - 曦臺 (四山街項目)
   - 崇信街與仁宇圍交界項目

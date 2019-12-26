@@ -26,23 +26,13 @@ Ask.fm能夠隨意的使用註冊用戶或匿名用戶的身份詢問問題，�
 
 1.
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  [Joshua Unsworth's parents call for ban on notorious website ask.fm](http://www.lep.co.uk/news/local/joshua-unsworth-s-parents-call-for-ban-on-notorious-website-ask-fm-1-5931924) Lancashire Evening Post
-
 9.
-
 10.
-
 11.
-
 12.

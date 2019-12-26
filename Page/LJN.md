@@ -137,45 +137,28 @@ LJN于1987年开始为[FC](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")
 [Category:1970年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1970年開業電子遊戲公司 "wikilink") [Category:1995年結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1995年結業電子遊戲公司 "wikilink") [Category:美國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國已結業電子遊戲公司 "wikilink")
 
 1.  Johnson, Doris McNeely. "Children's Toys and Books: Choosing the Best for All Ages from Infancy to Adolescence". *[Scribner](../Page/斯克里布纳之子公司.md "wikilink")*, 1982. [Unknown page](http://books.google.com/books?id=kTqGAAAAMAAJ&q=LJN+Toys+New+York&dq=LJN+Toys+New+York&hl=en&ei=aYE1TNSaE4P7lwfY-OjSBw&sa=X&oi=book_result&ct=result&resnum=7&ved=0CFIQ6AEwBg). Retrieved from [Google Books](../Page/Google圖書.md "wikilink") on July 8, 2010. ISBN 0-684-17767-6, ISBN 978-0-684-17767-0. "LJN Toys, Inc. 200 Fifth Ave. New York, NY 10010."
-
 2.  唐盛. 美欧中贸易年鉴：美欧卷. 1995-1996. 上海交通大学出版社，1995. [146](http://books.google.com/books?id=1du2AAAAIAAJ&q=LJN+%221200+Wall%22&dq=LJN+%221200+Wall%22&hl=en&ei=XoU1TIvgN4OClAfzu5XVBw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCUQ6AEwAA). Retrieved from [Google Books](../Page/Google圖書.md "wikilink") on July 8, 2010. ISBN 7-313-01608-5, ISBN 978-7-313-01608-9. "LJN TOYS, LTD. LJN %Jl$-R£^| 1200 Wall St., W., Lyndhurst, NJ"
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
-
 11.
-
 12. [ref=<http://www.youtube.com/watch?v=ivGO1WkEXVM&sns=em> Video of Alan Amrons' battery operated LJN Entertech water gun Inventions](http://www.youtube.com/watch?v=ivGO1WkEXVM&sns=em)
-
 13.
-
 14.
-
 15.
 16.
-
 17.
 18.
-
 19.
-
 20.
-
 21.
 22.
-
 23.
-
 24.
 25.
 26.

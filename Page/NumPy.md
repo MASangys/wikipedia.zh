@@ -2,13 +2,13 @@
 
 ## 特色
 
-NumPy參考[CPython](../Page/CPython.md "wikilink")(一個使用[位元組碼的](https://zh.wikipedia.org/wiki/位元組碼 "wikilink")[直譯器](../Page/直譯器.md "wikilink"))，而在這個Python實作直譯器上所寫的數學[演算法程式碼通常遠比](https://zh.wikipedia.org/wiki/演算法 "wikilink")[編譯過的相同程式碼要來得慢](https://zh.wikipedia.org/wiki/編譯 "wikilink")。為了解決這個難題，NumPy引入了多維陣列以及可以直接有效率地操作多維陣列的[函式與運算子](https://zh.wikipedia.org/wiki/函式 "wikilink")。因此在NumPy上只要能被表示為針對陣列或矩陣運算的演算法，其執行效率幾乎都可以與編譯過的等效[C語言程式碼一樣快](https://zh.wikipedia.org/wiki/C語言 "wikilink")。\[1\]
+NumPy參考[CPython](../Page/CPython.md "wikilink")（一個使用[位元組碼的](https://zh.wikipedia.org/wiki/位元組碼 "wikilink")[直譯器](../Page/直譯器.md "wikilink")），而在這個Python實作直譯器上所寫的數學[演算法程式碼通常遠比](https://zh.wikipedia.org/wiki/演算法 "wikilink")[編譯過的相同程式碼要來得慢](https://zh.wikipedia.org/wiki/編譯 "wikilink")。為了解決這個難題，NumPy引入了多維陣列以及可以直接有效率地操作多維陣列的[函式與運算子](https://zh.wikipedia.org/wiki/函式 "wikilink")。因此在NumPy上只要能被表示為針對陣列或矩陣運算的演算法，其執行效率幾乎都可以與編譯過的等效[C語言程式碼一樣快](https://zh.wikipedia.org/wiki/C語言 "wikilink")\[1\]。
 
-NumPy提供了與[MATLAB](../Page/MATLAB.md "wikilink")相似的功能與操作方式，因為兩者皆為直譯語言，並且都可以讓使用者在針對陣列或矩陣運算時提供較[純量運算更快的效能](https://zh.wikipedia.org/wiki/純量 "wikilink")。兩者相較之下，MATLAB提供了大量的擴充工具箱(例如[Simulink](../Page/Simulink.md "wikilink"))；而NumPy則是根基於Python這個更現代、完整並且開放原始碼的程式語言之上。此外NumPy也可以結合其它的Python擴充函式庫。例如[SciPy](../Page/SciPy.md "wikilink")，這個函式庫提供了更多與MATLAB相似的功能；以及[Matplotlib](https://zh.wikipedia.org/wiki/Matplotlib "wikilink")，這是一個與MATLAB內建繪圖功能類似的函式庫。而從本質上來說，NumPy與MATLAB同樣是利用[BLAS](../Page/BLAS.md "wikilink")與[LAPACK](../Page/LAPACK.md "wikilink")來提供高效率的線性代數運算。
+NumPy提供了與[MATLAB](../Page/MATLAB.md "wikilink")相似的功能與操作方式，因為兩者皆為直譯語言，並且都可以讓使用者在針對陣列或矩陣運算時提供較[純量運算更快的效能](https://zh.wikipedia.org/wiki/純量 "wikilink")。兩者相較之下，MATLAB提供了大量的擴充工具箱（例如[Simulink](../Page/Simulink.md "wikilink")）；而NumPy則是根基於Python這個更現代、完整並且開放原始碼的程式語言之上。此外NumPy也可以結合其它的Python擴充函式庫。例如[SciPy](../Page/SciPy.md "wikilink")，這個函式庫提供了更多與MATLAB相似的功能；以及[Matplotlib](https://zh.wikipedia.org/wiki/Matplotlib "wikilink")，這是一個與MATLAB內建繪圖功能類似的函式庫。而從本質上來說，NumPy與MATLAB同樣是利用[BLAS](../Page/BLAS.md "wikilink")與[LAPACK](../Page/LAPACK.md "wikilink")來提供高效率的線性代數運算。
 
 ### ndarray 数据結構
 
-NumPy的核心功能是"ndarray"(即*n*-dimensional array，多維陣列)数据結構。這是一個表示多維度、同質並且固定大小的陣列物件。而由一個與此陣列相關聯的資料型態物件來描述其陣列元素的資料格式(例如其字元組順序、在記憶體中佔用的字元組數量、整數或者浮點數等等)。
+NumPy的核心功能是ndarray（即*n*-dimensional array，多維陣列）数据結構。這是一個表示多維度、同質並且固定大小的陣列物件。而由一個與此陣列相關聯的資料型態物件來描述其陣列元素的資料格式（例如其字元組順序、在記憶體中佔用的字元組數量、整數或者浮點數等等）。
 
 ## 語法
 

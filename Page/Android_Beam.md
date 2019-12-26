@@ -1,5 +1,7 @@
 **Android Beam**是[Android](../Page/Android.md "wikilink")[行動裝置](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")[作業系統的一項功能](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，允許以[近場通訊](../Page/近場通訊.md "wikilink")（NFC）傳輸資料。\[1\]它提供了快速、短距離的网页書籤、聯絡人資料、[導航](https://zh.wikipedia.org/wiki/導航 "wikilink")、[YouTube](../Page/YouTube.md "wikilink")視頻以及其他資料的交流。Android Beam在[Android 4.0 Ice Cream Sandwich中被引入](https://zh.wikipedia.org/wiki/Android歷史版本#Android_4.0_Ice_Cream_Sandwich "wikilink")。这是Google收购后得到的改进。
 
+Android Beam於[Android 10中被移除](../Page/Android_10.md "wikilink")，以一個名為「快速分享」（類似[AirDrop](../Page/隔空投送.md "wikilink")）的功能代替。[1](https://9to5google.com/2019/06/29/google-android-fast-share/)
+
 ## 描述
 
 ### 使用方法

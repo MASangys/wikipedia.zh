@@ -36,14 +36,14 @@
 
 ## 參考資料
 
-  - [スズキ：J18A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/j18a/)
+  - [スズキ：J18A型エンジン](https://web.archive.org/web/20141215060431/http://greeco-channel.com/car/engine/suzuki_eg/j18a/)
 
-  - [スズキ：J20A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/j20a/)
+  - [スズキ：J20A型エンジン](https://web.archive.org/web/20141214151926/http://greeco-channel.com/car/engine/suzuki_eg/j20a/)
 
 ## 外部連結
 
-  - [スズキ：J18A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/j18a/)
+  - [スズキ：J18A型エンジン](https://web.archive.org/web/20141215060431/http://greeco-channel.com/car/engine/suzuki_eg/j18a/)
 
-  - [スズキ：J20A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/j20a/)
+  - [スズキ：J20A型エンジン](https://web.archive.org/web/20141214151926/http://greeco-channel.com/car/engine/suzuki_eg/j20a/)
 
 [Category:汽油发动机](https://zh.wikipedia.org/wiki/Category:汽油发动机 "wikilink") [Category:直列四缸引擎](https://zh.wikipedia.org/wiki/Category:直列四缸引擎 "wikilink") [Category:鈴木引擎與技術](https://zh.wikipedia.org/wiki/Category:鈴木引擎與技術 "wikilink")

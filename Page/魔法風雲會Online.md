@@ -81,33 +81,19 @@ BOT實際上是一個玩家的帳號，但這個帳號是以特殊的程式來�
 [Category:魔法風雲會](https://zh.wikipedia.org/wiki/Category:魔法風雲會 "wikilink") [Category:卡牌对战电子游戏](https://zh.wikipedia.org/wiki/Category:卡牌对战电子游戏 "wikilink") [Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
 15.
-
 16.
-
 17.

@@ -7,6 +7,5 @@
 [Category:RNA](https://zh.wikipedia.org/wiki/Category:RNA "wikilink")
 
 1.
-
 2.
 3.

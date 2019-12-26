@@ -117,17 +117,11 @@
 [Category:T-ara音樂專輯](https://zh.wikipedia.org/wiki/Category:T-ara音樂專輯 "wikilink") [Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
 
 1.
-
 2.  [Review: T-ara Abandon Their Classic Sound In Favor Of Big Room EDM On The New Single 'Sugar Free'](http://www.kpopstarz.com/articles/112206/20140917/t-ara-sugar-free.htm)
-
 3.
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.

@@ -72,20 +72,12 @@ Bootstrap对一系列HTML组件的基本样式进行了定义，并且为文本�
 [Category:层叠样式表](https://zh.wikipedia.org/wiki/Category:层叠样式表 "wikilink") [Category:自由軟體計劃](https://zh.wikipedia.org/wiki/Category:自由軟體計劃 "wikilink") [Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink") [Category:JavaScript函式庫](https://zh.wikipedia.org/wiki/Category:JavaScript函式庫 "wikilink") [Category:使用MIT许可证的软件](https://zh.wikipedia.org/wiki/Category:使用MIT许可证的软件 "wikilink") [Category:网页设计](https://zh.wikipedia.org/wiki/Category:网页设计 "wikilink") [Category:CSS框架](https://zh.wikipedia.org/wiki/Category:CSS框架 "wikilink") [Category:Twitter](https://zh.wikipedia.org/wiki/Category:Twitter "wikilink") [Category:2011年软件](https://zh.wikipedia.org/wiki/Category:2011年软件 "wikilink") [Category:用JavaScript編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用JavaScript編程的自由軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
