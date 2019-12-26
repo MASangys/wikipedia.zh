@@ -4,10 +4,6 @@
 
 Neptune系统引入了一些新功能，例如比较初步的[防火牆](https://zh.wikipedia.org/wiki/防火牆 "wikilink")，此功能最後作为「網絡連接防火牆」（Internet Connection Firewall）被整合入 Windows XP 系统中，隨後重新命名为 [Windows 防火牆](https://zh.wikipedia.org/wiki/Windows_防火牆 "wikilink") [1](https://web.archive.org/web/20060810151335/http://www.microsoft.com/windowsxp/using/networking/learnmore/icf.mspx)；还有 Windows XP 中的新式登入畫面（有「歡迎」字樣、列表式選擇帳戶）、使用者帳戶控制面板等。
 
-  - Windows Neptune推出过12个版本：
-
-Neptune Build 5.50.5000 Neptune Build 5.50.5022.1 Neptune Build 5.50.5067.1 Neptune Build 5.50.5095.1 Neptune Build 5.50.5099.1 Neptune Build 5.50.5111.1 - Neptune Developer Release and M2 build Neptune Build 5.50.5116.1 Neptune Build 5.50.5117.1 Neptune Build 5.50.5118 Neptune Build 5.50.5119 Neptune Build 5.50.5120 Neptune Build 5.50.5179.1
-
 ## 版本編號
 
 虽然 Windows Neptune Alpha 不是以 [Windows 9x](../Page/Windows_9x.md "wikilink")/[DOS](../Page/DOS.md "wikilink") 系統為內核，但仍然属于Windows 9X 系列产品线而版本編號也繼續使用Windows 9X系列的編碼（Windows ME 為 Build 3000），而並不是采用Windows NT系列产品的編碼。例如 Windows 2000（Windows NT 內核）晚于 Neptune 两个月推出时仍為 Build 2195；在2005年7月 [Windows Vista](../Page/Windows_Vista.md "wikilink") 推出时使用了 Build 5112，表示已跳过 Windows 9X 产品系列。

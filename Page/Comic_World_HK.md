@@ -108,13 +108,9 @@ CWHK的數屆會場內出現一群自稱「[明光社](../Page/明光社.md "wik
 [Category:香港同人誌即賣會](https://zh.wikipedia.org/wiki/Category:香港同人誌即賣會 "wikilink") [Category:香港年度事件](https://zh.wikipedia.org/wiki/Category:香港年度事件 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.

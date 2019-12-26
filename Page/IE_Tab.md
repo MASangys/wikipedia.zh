@@ -43,7 +43,7 @@ IE Tab Plus是一个从[IE Tab分支出来的附加元件](../Page/IE_Tab.md "wi
 
 ## 外部链接
 
-  - [Firefox Add-ons 上的 IE Tab](https://addons.mozilla.org/en-US/firefox/addon/ie-tab/)（已支援 Firefox 10+ ver:2.0.20120203）
+  - [Firefox Add-ons 上的 IE Tab](https://web.archive.org/web/20120503114356/https://addons.mozilla.org/en-US/firefox/addon/ie-tab/)（已支援 Firefox 10+ ver:2.0.20120203）
 
 <!-- end list -->
 

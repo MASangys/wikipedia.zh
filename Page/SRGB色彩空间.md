@@ -103,7 +103,7 @@ g(B_{srgb})\end{bmatrix}\]
   - [International Color Consortium](http://www.color.org/)
   - [Basic sRGB Math](http://www.srgb.com/basicsofsrgb)（[庫存頁面](https://web.archive.org/web/20030212204955/http://www.srgb.com/basicsofsrgb.htm)）
   - [A Standard Default Color Space for the Internet - sRGB](http://www.w3.org/Graphics/Color/sRGB)
-  - [OpenGL extension for sRGB textures](http://oss.sgi.com/projects/ogl-sample/registry/EXT/texture_sRGB.txt)
+  - [OpenGL extension for sRGB textures](https://web.archive.org/web/20071120090526/http://oss.sgi.com/projects/ogl-sample/registry/EXT/texture_sRGB.txt)
   - [Comparison of sRGB and AdobeRGB](http://www.cambridgeincolour.com/tutorials/sRGB-AdobeRGB1998.htm)
 
 [Category:色彩空间](https://zh.wikipedia.org/wiki/Category:色彩空间 "wikilink")

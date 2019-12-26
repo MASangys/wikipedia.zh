@@ -1,4 +1,4 @@
-**查尔斯·珀西·斯诺**，[CBE](https://zh.wikipedia.org/wiki/CBE "wikilink")（，），英国[科学家](https://zh.wikipedia.org/wiki/科学家 "wikilink")，[小说家](https://zh.wikipedia.org/wiki/小说家 "wikilink")。
+**查尔斯·珀西·斯诺**，[CBE](https://zh.wikipedia.org/wiki/CBE "wikilink")（，），英国[科学家](../Page/科学家.md "wikilink")，[小说家](https://zh.wikipedia.org/wiki/小说家 "wikilink")。
 
 ## 生平
 
@@ -18,7 +18,7 @@
 
 斯诺最值得人们注意的是他关于他“[兩種文化](../Page/兩種文化.md "wikilink")”这一概念的讲演与书籍。这一概念在他的《[两种文化与科学变革](https://zh.wikipedia.org/wiki/两种文化与科学变革 "wikilink")》（*[The Two Cultures and the Scientific Revolution](https://zh.wikipedia.org/wiki/:en:The_Two_Cultures_and_the_Scientific_Revolution "wikilink")*，1959年出版）。在这本书中，斯诺注意到[科学](../Page/科学.md "wikilink")与[人文中联系的中断对解决](https://zh.wikipedia.org/wiki/人文 "wikilink")[世界](../Page/世界.md "wikilink")上的问题是一个主要障碍。
 
-斯诺特别提到如今世界上[教育](../Page/教育.md "wikilink")的质量正在逐步地降低。比如说，很多[科学家从未读过](https://zh.wikipedia.org/wiki/科学家 "wikilink")[查尔斯·狄更斯](../Page/查尔斯·狄更斯.md "wikilink")的作品，同样，[艺术工作者对科学也同样的不熟悉](https://zh.wikipedia.org/wiki/艺术工作者 "wikilink")。他写道：
+斯诺特别提到如今世界上[教育](../Page/教育.md "wikilink")的质量正在逐步地降低。比如说，很多[科学家](../Page/科学家.md "wikilink")从未读过[查尔斯·狄更斯](../Page/查尔斯·狄更斯.md "wikilink")的作品，同样，[艺术工作者对科学也同样的不熟悉](https://zh.wikipedia.org/wiki/艺术工作者 "wikilink")。他写道：
 
   -
     曾经有很多次，我与一些人在一起聚会，根据传统的标准来说，他们是受过高等教育的，并一直对科学家的无知而表现出兴致勃勃的难以置信的样子。有一两次我被激怒了，于是质问他们之中有多少个能够解释清楚[热力学第二定律](../Page/热力学第二定律.md "wikilink")，即[熵](../Page/熵.md "wikilink")的定律。令人沮丧的回答同样是否定的。然而我问的这一问题大概就是将“你读过[莎士比亚吗](https://zh.wikipedia.org/wiki/莎士比亚 "wikilink")？”这一问题转为科学语言描述的一样。

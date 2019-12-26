@@ -721,19 +721,12 @@ RURUTIA自幼開始學習彈奏古典鋼琴。\[4\] 學生時代受到朋友自�
 [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink") [Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink")
 
 1.  RURUTIA(2005-11-20)『RURUTIA Planet』No.002,RURUTIA.COM
-
 2.  清水雅,(2006-05-08)「異世界の妖精ヴォイス ルルティア」『プレザンテ』、ART COMMUNICATION・ENTREX。
-
 3.  バークス (2004-05-05). "ルルティア / BARKS アーティスト
-
 4.
 5.  RURUTIA(2006-02-25)『RURUTIA Planet』No.005,RURUTIA.COM
-
 6.
 7.  RURUTIA(2008-02-15)『RURUTIA Planet』No.017,RURUTIA.COM
-
 8.  清水雅,(2006-12-25)「私の音楽革命 04 "恵の雨"という名のアーティストが起こす15の奇蹟」『プレザンテ』、ART COMMUNICATION・ENTREX
-
 9.  藤岡雅文 (2005-12-13). "☆取り付かれたように毎日楽器屋さんに通っていましたね☆".RURUTIA.COM
-
 10.

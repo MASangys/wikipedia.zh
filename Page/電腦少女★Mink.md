@@ -29,6 +29,6 @@
 
 ## 外部連結
 
-  - [Satellite-M](http://www6.plala.or.jp/mts/)，作者的個人網站。
+  - [Satellite-M](https://web.archive.org/web/20071009201636/http://www6.plala.or.jp/mts/)，作者的個人網站。
 
 [Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:偶像漫畫](https://zh.wikipedia.org/wiki/Category:偶像漫畫 "wikilink") [Category:虛擬世界背景作品](https://zh.wikipedia.org/wiki/Category:虛擬世界背景作品 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:变身女主角](https://zh.wikipedia.org/wiki/Category:变身女主角 "wikilink")

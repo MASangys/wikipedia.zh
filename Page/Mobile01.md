@@ -20,7 +20,7 @@ Mobile01於2000年，由[蔣叡勝創立](https://zh.wikipedia.org/wiki/蔣叡�
 
 2011年7月25日，Mobile01 推出 iOS 以及 Android APP。
 
-2013年，發生[三星寫手門事件](../Page/三星寫手門事件.md "wikilink")\[1\]，[三星旗下行銷公司](../Page/三星電子.md "wikilink")[鵬泰顧問公司雇用工讀生在Mobile](https://zh.wikipedia.org/wiki/鵬泰顧問公司 "wikilink")01抹黑及造假，[公平交易委員會介入調查](https://zh.wikipedia.org/wiki/公平交易委員會 "wikilink")，之後並以違反[公平交易法開罰三星電子以及鵬泰顧問](https://zh.wikipedia.org/wiki/公平交易法 "wikilink")。
+2013年，發生[三星寫手門事件](../Page/三星寫手門事件.md "wikilink")\[1\]，[三星旗下行銷公司](../Page/三星電子.md "wikilink")[鵬泰顧問公司雇用工讀生在Mobile](https://zh.wikipedia.org/wiki/鵬泰顧問公司 "wikilink")01抹黑及造假，[公平交易委員會介入調查](https://zh.wikipedia.org/wiki/公平交易委員會 "wikilink")，之後並以違反[公平交易法開罰三星電子以及鵬泰顧問](https://zh.wikipedia.org/wiki/公平交易法 "wikilink")。寫手門事件中 Mobile01 接受調查後並未有內部人員涉入此事件，也並未因此事件受罰。
 
 2014年3月，[數位時代發表台灣網站](https://zh.wikipedia.org/wiki/數位時代 "wikilink")100強，Mobile01排名第8名。\[2\]
 
@@ -32,15 +32,23 @@ Mobile01於2000年，由[蔣叡勝創立](https://zh.wikipedia.org/wiki/蔣叡�
 
   - 違規處分
 
-只要違反相關板規，文章將會被Mobile01系統的網站管理員移動到「蟲洞」之中。若是嚴重違規，帳號會被處以停權數天，甚至永久停權。
+只要違反相關板規，文章將會被Mobile01系統的網站管理員依照網站管理規定處置。若是嚴重違規，帳號會被處以停權數天，甚至永久停權。
 
-  - 市集
+  - 小惡魔市集
 
-可在此區與其他論壇使用者以物易物或交易。
+會員可在小惡魔市集與其他論壇使用者以物易物或交易，比起其他拍賣平台，小惡魔市集擁有免刊登費與免交易費優點。
 
-  - 網誌
+**你要就來拿**
 
-須有VIP等級的帳號方可使用。
+2019年Mobile01 在旗下APP推出的限定功能「你要就來拿」 提供會員捐出家中物品進行環保交流。
+
+**小惡魔鬥陣騎北宜**
+
+2008年曾與Garmin合作舉辦北宜單車活動，後改為由Mobile01主辦，也正式將活動更名為「小惡魔鬥陣騎北宜」，最新一屆小惡魔鬥陣騎北宜將於2020年3月14日舉辦。
+
+**小惡魔聖誕交換禮物**
+
+全台最大規模聖誕交換禮物活動，2011年起每年11月開始邀請會員參與此活動，希望打破線上網站缺乏互動的既定印象，透過交換禮物讓會員之間能夠收到來自網友的聖誕祝福。目前小惡魔聖誕交換禮物已經進行到第八屆
 
 ## 趣事
 
@@ -56,8 +64,6 @@ Mobile01於2000年，由[蔣叡勝創立](https://zh.wikipedia.org/wiki/蔣叡�
   - [Mobile01](http://www.5i01.cn/)
 
   - [Mobile01行動版](http://5i01.com/)
-
-  - [Mobile01 香港](https://web.archive.org/web/20130927150045/http://www.mobile01.hk/)
 
   -
 [Category:台灣網路論壇](https://zh.wikipedia.org/wiki/Category:台灣網路論壇 "wikilink")

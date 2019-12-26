@@ -179,12 +179,8 @@
 [Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink") [Category:2011年电子遊戲](https://zh.wikipedia.org/wiki/Category:2011年电子遊戲 "wikilink") [Category:PlayStation_3遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_3遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink") [Category:宇宙戰爭題材作品](https://zh.wikipedia.org/wiki/Category:宇宙戰爭題材作品 "wikilink") [Category:神奈川縣背景作品](https://zh.wikipedia.org/wiki/Category:神奈川縣背景作品 "wikilink") [Category:机器人题材作品](https://zh.wikipedia.org/wiki/Category:机器人题材作品 "wikilink") [Category:架空历史作品](https://zh.wikipedia.org/wiki/Category:架空历史作品 "wikilink") [Category:外星生命入侵地球題材遊戲](https://zh.wikipedia.org/wiki/Category:外星生命入侵地球題材遊戲 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.

@@ -16,7 +16,7 @@ GnuPG的早期版本由[维尔纳·科赫开发](../Page/維爾納·科赫.md "w
 
 ## 過程
 
-GnuPG使用[使用者自行生成的](https://zh.wikipedia.org/wiki/使用者 "wikilink")[非對稱密鑰對來加密信息](https://zh.wikipedia.org/wiki/非對稱密鑰對 "wikilink")，由此產生的公鑰可以同其他使用者以各種方式交換，如[密鑰伺服器](https://zh.wikipedia.org/wiki/密鑰伺服器 "wikilink")。他們必須小心交換密鑰，以防止得到偽造的密鑰。GnuPG還可以向信息添加一個加密的[數字簽名](https://zh.wikipedia.org/wiki/數字簽名 "wikilink")，這樣，收件人可以驗證信息完整性和發件人。 GnuPG不利用專利或其他方式限制軟件或算法，就像IDEA算法一開始出現在PGP中一樣。（可以通過下載相關插件在GnuPG中使用IDEA算法，不過如果在一些IDEA算法為專利的國家中使用，可能需要一份許可）。GnuPG同樣也使用各種其他非專利的算法：
+GnuPG使用[使用者自行生成的](https://zh.wikipedia.org/wiki/使用者 "wikilink")[非對稱密鑰對來加密信息](https://zh.wikipedia.org/wiki/非對稱密鑰對 "wikilink")，由此產生的公鑰可以同其他使用者以各種方式交換，如[密鑰伺服器](https://zh.wikipedia.org/wiki/密鑰伺服器 "wikilink")。他們必須小心交換密鑰，以防止得到偽造的密鑰。GnuPG還可以向信息添加一個加密的[數位簽名](https://zh.wikipedia.org/wiki/數位簽名 "wikilink")，這樣，收件人可以驗證信息完整性和發件人。 GnuPG不利用專利或其他方式限制軟件或算法，就像IDEA算法一開始出現在PGP中一樣。（可以通過下載相關插件在GnuPG中使用IDEA算法，不過如果在一些IDEA算法為專利的國家中使用，可能需要一份許可）。GnuPG同樣也使用各種其他非專利的算法：
 
   - [分組密碼](https://zh.wikipedia.org/wiki/分組密碼 "wikilink")：、[Camellia](../Page/Camellia.md "wikilink")、[Triple DES](https://zh.wikipedia.org/wiki/Triple_DES "wikilink")、[AES](https://zh.wikipedia.org/wiki/高級加密標準 "wikilink")、[Blowfish](../Page/Blowfish.md "wikilink")、[Twofish](../Page/Twofish.md "wikilink")
   - [非對稱加密密碼](https://zh.wikipedia.org/wiki/非對稱加密密碼 "wikilink")：[ElGamal](https://zh.wikipedia.org/wiki/ElGamal "wikilink")、[RSA](../Page/RSA加密演算法.md "wikilink")

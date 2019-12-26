@@ -115,54 +115,29 @@ BioWare还授权并协助[黑曜石娱乐](../Page/黑曜石娱乐.md "wikilink"
 [Category:1995年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1995年開業電子遊戲公司 "wikilink") [Category:BioWare](https://zh.wikipedia.org/wiki/Category:BioWare "wikilink") [Category:Academy_of_Interactive_Arts_&_Sciences_members](https://zh.wikipedia.org/wiki/Category:Academy_of_Interactive_Arts_&_Sciences_members "wikilink") [Category:國際遊戲開發者協會成員](https://zh.wikipedia.org/wiki/Category:國際遊戲開發者協會成員 "wikilink") [Category:加拿大電子遊戲公司](https://zh.wikipedia.org/wiki/Category:加拿大電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:艺电的部门与子公司](https://zh.wikipedia.org/wiki/Category:艺电的部门与子公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  [LucasArts.com | LucasArts and BioWare Corp. to Create Ground-Breaking Interactive Entertainment Product](http://www.lucasarts.com/company/release/news20071030.html)
-
 6.  [ActionTrip Mass Effect Interview](http://www.actiontrip.com/previews/360/masseffect_i_2.phtml)
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16. [Mass Effect 2 DLC and Dragon Age 2](http://www.n4g.com/pc/News-390633.aspx)
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
 23.
-
 24.
-
 25.
-
 26. [BioWare: BioWare Corporate And Community Awards](http://www.bioware.com/bioware_info/awards/)
-
 27. USA Today

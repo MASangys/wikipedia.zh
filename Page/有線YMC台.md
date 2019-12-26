@@ -18,7 +18,7 @@ YMC已於2001年8月17日停播，原有節目改於有線[娛樂台及](../Page
 
 因為香港大部分歌星與[無線電視有合約關係](../Page/電視廣播有限公司.md "wikilink")，歌星不能亮相香港其他電視台（如有線電視），所以YMC推動廣東歌有一定阻礙。
 
-值得一提的是，當時的粵語歌曲，還未完全流行拍攝Promotional Video(PV)（供所有媒體播放的音樂錄影帶，有別於[無線電視自資為歌手拍攝的獨家版本](https://zh.wikipedia.org/wiki/無線電視 "wikilink")），就算是供[卡拉OK](../Page/卡拉OK.md "wikilink")場所播放的版本，部份歌曲亦只採用[無線電視所製作的音樂錄影帶](https://zh.wikipedia.org/wiki/無線電視 "wikilink")(MV)。由於這些片段不能在其他電視台播放，在這個情況下，唱片公司通常只用該歌手的舊MV片段或宣傳照製成簡單MV作宣傳歌曲之用（近似現在的「歌詞版MV(Lyric Video)」，唯不一定加上歌詞）。YMC只會在必須播放的情況下播放此類MV（例如至尊榜冠軍歌，或報導該歌手的新聞動態後）。及後在華語榜被削減至10個排名後，YMC更索性棄用此等MV，導致華語榜的上榜歌曲以國語歌為主，和其他電子傳媒的榜單有很大的差異。
+值得一提的是，當時的粵語歌曲，還未完全流行拍攝Promotional Video(PV)（供所有媒體播放的音樂錄影帶，有別於[無線電視自資為歌手拍攝的獨家版本](https://zh.wikipedia.org/wiki/無線電視 "wikilink")），就算是供[卡拉OK](../Page/卡拉OK.md "wikilink")場所播放的版本，部份歌曲亦只採用[無線電視所製作的音樂錄影帶](https://zh.wikipedia.org/wiki/無線電視 "wikilink")(MV)，這些片段不能在其他電視台播放。儘管唱片公司有自行製作MV，部份的原版MV，YMC亦沒有購買播放權\[2\]。在這個情況下，唱片公司或YMC通常只用該歌手的舊MV片段或宣傳照製成簡單MV作宣傳歌曲之用（近似現在的「歌詞版MV(Lyric Video)」，唯不一定加上歌詞）。YMC只會在必須播放的情況下播放此類MV（例如至尊榜冠軍歌，或報導該歌手的新聞動態後）。及後在華語榜被削減至10個排名後，YMC更索性棄用此等MV，導致華語榜的上榜歌曲以國語歌為主，和其他電子傳媒的榜單有很大的差異。
 
 此舉反而令YMC以推動國語歌、日語歌及歐美地區歌曲為主力，補足了當時[無線電視音樂節目一直忽略的外地歌手部份](https://zh.wikipedia.org/wiki/無線電視 "wikilink")。YMC更自稱"The No. 1 International Channel in Hong Kong"，並得到香港部分唱片公司的支持，取得部分歐美歌曲音樂錄影帶的香港區首播權/首輪獨家播映權。YMC亦以強勁宣傳攻勢，成功在香港地區捧紅[范曉萱](../Page/范曉萱.md "wikilink")，以及初出道時的[Britney Spears](https://zh.wikipedia.org/wiki/Britney_Spears "wikilink")、[Westlife](https://zh.wikipedia.org/wiki/Westlife "wikilink")、[Steps](https://zh.wikipedia.org/wiki/Steps "wikilink")、[Puffy等非本地樂壇單位](https://zh.wikipedia.org/wiki/Puffy "wikilink")。
 
@@ -43,10 +43,10 @@ YMC也成為跟[無線電視沒有合約關係的香港歌手](../Page/電視廣
 
 YMC自行製作的MV
 
-  - [王志海](https://zh.wikipedia.org/wiki/王志海 "wikilink")、[歐綺霞](https://zh.wikipedia.org/wiki/歐綺霞 "wikilink")、[葉文輝](../Page/葉文輝.md "wikilink") **Yeah In 激 YMC**\[2\]
-  - [潘納](https://zh.wikipedia.org/wiki/潘納 "wikilink") **青春跳躍地帶**\[3\]
+  - [王志海](https://zh.wikipedia.org/wiki/王志海 "wikilink")、[歐綺霞](https://zh.wikipedia.org/wiki/歐綺霞 "wikilink")、[葉文輝](../Page/葉文輝.md "wikilink") **Yeah In 激 YMC**\[3\]
+  - [潘納](https://zh.wikipedia.org/wiki/潘納 "wikilink") **青春跳躍地帶**\[4\]
   - [Beyond](../Page/Beyond.md "wikilink") **別怪我**
-  - [Steps](https://zh.wikipedia.org/wiki/Steps "wikilink") **5,6,7,8 (YMC VJ version)**\[4\]
+  - [Steps](https://zh.wikipedia.org/wiki/Steps "wikilink") **5,6,7,8 (YMC VJ version)**\[5\]
   - [張立基](../Page/張立基.md "wikilink") **蛇舞**
 
 ## YMC至尊榜
@@ -82,14 +82,14 @@ YMC自行製作的MV
   - 跳舞機"[Dance Dance Revolution](../Page/勁爆熱舞.md "wikilink")"
       - 引入家用版本作為《青年人民大會 - 星期三玩》的遊戲之一
       - 為到[香港](../Page/香港.md "wikilink")宣傳的[丹麥女子組合](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[SMiLE舉行小型音樂會](https://zh.wikipedia.org/wiki/Smile.dk "wikilink") - 其主唱的歌曲"Butterfly"和"Boys"是當時跳舞機的熱門歌曲
-      - 於1999年12月31日在[銅鑼灣](../Page/銅鑼灣.md "wikilink")[時代廣場的倒數活動中舉辦](https://zh.wikipedia.org/wiki/時代廣場 "wikilink")「YMC世紀舞王大賽」\[5\]\[6\]
+      - 於1999年12月31日在[銅鑼灣](../Page/銅鑼灣.md "wikilink")[時代廣場的倒數活動中舉辦](https://zh.wikipedia.org/wiki/時代廣場 "wikilink")「YMC世紀舞王大賽」\[6\]\[7\]
   - [Hip Hop文化](../Page/嘻哈.md "wikilink")
       - [Breakdance示範及教學](https://zh.wikipedia.org/wiki/霹靂舞 "wikilink")、[塗鴉](../Page/塗鴉.md "wikilink")教學等
   - [ParaPara Dance](../Page/Para_Para.md "wikilink")
       - 播放由「[香港ParaPara舞蹈總會](http://www.parapara.org)」提供的示範錄影帶，並於[尖沙咀](../Page/尖沙咀.md "wikilink")[九龍公園](../Page/九龍公園.md "wikilink")合辦活動
       - 於2001年的VJ大賽中把ParaPara Dance列入訓練項目之一
   - [Line Dance](https://zh.wikipedia.org/wiki/Line_Dance "wikilink")
-      - 「5,6,7,8 跳舞大賽」\[7\]
+      - 「5,6,7,8 跳舞大賽」\[8\]
       - 配合[英國樂壇組合](https://zh.wikipedia.org/wiki/英國 "wikilink")[Steps在](https://zh.wikipedia.org/wiki/Steps_\(group\) "wikilink")[香港](../Page/香港.md "wikilink")的宣傳 - 其出道歌曲"5,6,7,8"的舞蹈引入了Line Dance的元素
       - 自行拍攝新版「5,6,7,8」MV，由VJ們示範此曲的舞步
 
@@ -105,6 +105,8 @@ YMC自行製作的MV
           - 90年代末，[跳舞機](https://zh.wikipedia.org/wiki/跳舞機 "wikilink")"[Dance Dance Revolution](https://zh.wikipedia.org/wiki/Dance_Dance_Revolution "wikilink")"及「拍拍機」"Bishi-Bashi-Champ"在[香港](../Page/香港.md "wikilink")盛行，節目亦有引入其家用版本作為遊戲的其中一關：以隨機方式選出一首歌(前者)或一個遊戲(後者)，並以電話按鍵當作遊戲控制器操作。
       - (星期四) Call Love Song：以愛情為主題的點唱節目。由不同VJ輪流主持。
       - (星期五) YMC至尊榜(廣東榜、國語榜)：倒數YMC至尊榜廣東榜及國語榜(後來合併為華語榜)20大位置，以及公布中國推介榜(1997年)/下星期強勢主打播放的推介華語及外語歌曲(中國推介榜取消後)，亦會分析其他四間電子傳媒的音樂排行榜十大走勢。由蔡康年搭配另一女VJ共同主持，電台DJ Mini、卓韻芝、懷鈺皆先後擔任過女主持一職。蔡康年離開YMC後，由Brian頂替男主持的位置。
+  - 《青年人民大會（星期六版）》：星期六的兩小時節目，有遊戲環節，亦播放音樂錄影帶。
+      - 較後期的節目，有「值日生」的一小時環節，每星期由一位VJ自我抒發內心世界，或與其他人士作聊天，配以歌曲。
   - 《YMC人We Wet Web》：代替《青年人民大會》的兩小時直播節目，除了流行音樂部分，亦介紹不同潮人、最新潮流衣著及玩意等。每天最後半小時為音樂時段。由不同VJ輪流主持。
       - 「偶像宅急便」被分拆於星期一、三、五播放；後來DJ[鄭嘉輝加入YMC後](https://zh.wikipedia.org/wiki/鄭嘉輝 "wikilink")，更增加星期六的兩小時獨立節目時段「輝Club」。
       - 「Pop Barry」由VJ[葉文輝](../Page/葉文輝.md "wikilink")主持，介紹歐美藝人的歌曲及最新消息，於星期二、四播放。前身為《POP樂園》。
@@ -197,14 +199,10 @@ YMC有時亦會於晚上時段，播放兒童台不太適宜播放的動畫，�
 [Category:香港有線電視](https://zh.wikipedia.org/wiki/Category:香港有線電視 "wikilink") [Category:1993年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:1993年成立的電視台或電視頻道 "wikilink") [Category:香港已停播的電視頻道](https://zh.wikipedia.org/wiki/Category:香港已停播的電視頻道 "wikilink")
 
 1.  根據VJ(主持人)多次在節目所述，因為頻道名稱的「C」意為「Channel」，已包含「台(頻道)」的定義，因此頻道正確名稱為「YMC」而非「YMC-{台}-」。與現有頻道「有線HMC」不在頻道名稱後加上「-{台}-」的情況相同。
-
-2.  <http://www.brianwong.ws/new2ndvjcon.htm>
-
-3.
-4.  <http://www.brianwong.ws/new5678.htm>
-
-5.  <http://www.brianwong.ws/newcountdown.htm>
-
-6.  <http://www.brianwong.ws/newdance.htm>
-
-7.
+2.  相關的絕大部份為粵語歌曲的MV，如果歌曲有粵語版和國語版，唱片公司製作的MV有分粵語版和國語版，YMC播放的粵語版MV由國語版MV自行改成的，而不是唱片公司的粵語版MV，如黎明的＜我這樣愛你＞（國語版為＜心在跳＞）。
+3.  <http://www.brianwong.ws/new2ndvjcon.htm>
+4.
+5.  <http://www.brianwong.ws/new5678.htm>
+6.  <http://www.brianwong.ws/newcountdown.htm>
+7.  <http://www.brianwong.ws/newdance.htm>
+8.

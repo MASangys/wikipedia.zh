@@ -69,19 +69,12 @@
 [Category:台灣品牌](https://zh.wikipedia.org/wiki/Category:台灣品牌 "wikilink")
 
 1.  [力廣科技股份有限公司，理財網](https://www.moneydj.com/KMDJ/Wiki/wikiViewer.aspx?keyid=30f0a7c6-63c4-4746-b7d7-d08efb37cf4f)
-
 2.  [力廣走入歷史 海悅廣告拿下經營權，蘋果日報，2013年03月27日](http://www.appledaily.com.tw/appledaily/article/finance/20130327/34912742/)
-
 3.  [公司簡介，UMAX官網](http://www.umax.com.tw/cwebsite/default.asp)
-
 4.
 5.  [力捷集團關係企業　新產品聯合發表，iThome,1997-10-15](http://www.ithome.com.tw/node/7602)
-
 6.
 7.  [Nettask EIP 辦公室OA管理系統官網](http://www.netask.net/info.htm)
-
 8.  [About Novax, Novax Technologies, Inc.](http://www.novax.com.tw/about.htm)
-
 9.  [公司簡介，UMAX官網](http://www.umax.com.tw/cwebsite/default.asp)
-
 10. [Novax官網](http://www.novax.com.tw/index.htm)

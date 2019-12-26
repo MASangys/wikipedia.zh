@@ -818,16 +818,10 @@ RJ線在數月後將訖站調回欽伯斯街，改為尖峰菱形RR線列車。
 [Category:紐約地鐵服務路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵服務路線 "wikilink")
 
 1.
-
 2.  [R線運行通告 - MTA](http://web.mta.info/nyct/service/R_14monthMontagueTunnelClosure.htm)
-
 3.  [R線運行通告 - MTA](http://web.mta.info/nyct/service/R_ServiceChanges.htm)
-
 4.
 5.
-
 6.
-
 7.
-
 8.

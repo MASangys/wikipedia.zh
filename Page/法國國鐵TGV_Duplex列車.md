@@ -20,7 +20,7 @@
 
   - [新幹線E1系電力動車組](../Page/新幹線E1系電力動車組.md "wikilink")－首款全雙層高速列車，由[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）擁有及營運。
   - [新幹線E4系電力動車組](../Page/新幹線E4系電力動車組.md "wikilink")－E1系後繼車款，同樣由[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）擁有及營運。
-  - [和諧號CRH2型電聯車](https://zh.wikipedia.org/wiki/和諧號CRH2型電聯車 "wikilink")－中國首輛雙層臥鋪動車組。
+  - [CRH2E](https://zh.wikipedia.org/wiki/和谐号CRH2型电力动车组#CRH2E "wikilink")－中國首輛雙層臥鋪動車組。
 
 ## 外部連結
 

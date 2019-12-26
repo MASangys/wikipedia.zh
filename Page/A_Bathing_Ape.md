@@ -35,8 +35,9 @@ A Bathing Ape的產品經常採取限量生產方式，以提高購買者購買�
 ## 外部連結
 
   - [Bape.com](http://www.bape.com/) - A Bathing Ape官方網站
+  - [www.bapeonline.com](http://www.bapeonline.com/) - A Bathing Ape International Official Website
   - [(B)APE TV](https://web.archive.org/web/20051207030706/http://www.spaceshowertv.com/bapetv/) - (B)APE TV官方網站
-  - [BOYZ](http://teriyakiboyz.com/index2.htmlTERIYAKI) - TERIYAKI BOYZ官方網站
+  - [BOYZ](https://web.archive.org/web/20190215114929/http://teriyakiboyz.com/index2.htmlTERIYAKI) - TERIYAKI BOYZ官方網站
   - [Bapes](https://web.archive.org/web/20141217014830/http://bapefan.com/)
 
 [Category:日本服裝品牌](https://zh.wikipedia.org/wiki/Category:日本服裝品牌 "wikilink") [Category:日本服裝零售商](https://zh.wikipedia.org/wiki/Category:日本服裝零售商 "wikilink") [Category:嘻哈時尚](https://zh.wikipedia.org/wiki/Category:嘻哈時尚 "wikilink") [Category:1993年建立](https://zh.wikipedia.org/wiki/Category:1993年建立 "wikilink")

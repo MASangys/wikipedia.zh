@@ -49,8 +49,11 @@
 21. 《D-呪羅鬼飛行》 - 第33作
 22. 《D-死情都市》 - 第34作
 23. 《D-黒い来訪者》 - 第35作
+24. 《D-山嶽鬼》 - 第36作
 
 ## OVA版
+
+根據小說版第一卷《D-吸血鬼新娘》改編。1985年由蘆田豐雄執導，由EPIC SONY發行的OVA版，因為當時的作畫技術無法呈現原畫該有的細緻而並沒有讓作者菊地秀行覺得的滿意，本人曾表示頗為失望，但是在美國造成轟動。
 
 ### 劇情大綱
 
@@ -108,7 +111,7 @@
 
 ## 劇場版
 
-根據小說版第三作《D-妖殺行》改編。1999年底以《Vampire Hunter D: Bloodlust》片名在美國發行。與前作OVA版相較，本片則受到原作者菊地秀行的高度評價。[日本](../Page/日本.md "wikilink")在2001年4月，先以英語配音版配日文字幕方式於院線上映，之後在發行英語版DVD一段期間後，比英語版先行製作的日語配音版本才另行推出DVD上市。[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[普威爾發行的授權DVD](https://zh.wikipedia.org/wiki/普威爾 "wikilink")，則為英日雙語同時收錄。在台灣，此片曾在[東森洋片台](../Page/東森洋片台.md "wikilink")播放。
+根據小說版第三卷《D-妖殺行》改編。1999年底以《Vampire Hunter D: Bloodlust》片名在美國發行。與前作OVA版相較，本片則受到原作者菊地秀行的高度評價。[日本](../Page/日本.md "wikilink")在2001年4月，先以英語配音版配日文字幕方式於院線上映，之後在發行英語版DVD一段期間後，比英語版先行製作的日語配音版本才另行推出DVD上市。[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[普威爾發行的授權DVD](https://zh.wikipedia.org/wiki/普威爾 "wikilink")，則為英日雙語同時收錄。在台灣，此片曾在[東森洋片台](../Page/東森洋片台.md "wikilink")播放。
 
 ### 剧情梗概
 
@@ -160,9 +163,12 @@ D在与一个野蛮族人的交手中，阳光症发作，拼尽全力砍断了�
 ## 外部連結
 
   - [黑暗嘉年華](https://web.archive.org/web/20080420112342/http://www.onewitch.url.tw/vam.htm)： 吸血鬼的迷信與傳說
+
   - [奇幻基地](https://web.archive.org/web/20080206064915/http://www.ffoundation.com.tw/modules/news/)
+
   - [Ｄ的日記---菊地秀行](https://web.archive.org/web/20071218225805/http://www.ffoundation.com.tw/bu_data/commercial/d-diary/d-diary.htm)
 
+  -
 ## 参看
 
   - [吸血鬼猎人](https://zh.wikipedia.org/wiki/吸血鬼猎人 "wikilink")

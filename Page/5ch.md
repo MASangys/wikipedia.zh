@@ -173,97 +173,57 @@
 [Category:2ch](https://zh.wikipedia.org/wiki/Category:2ch "wikilink") [Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink") [Category:日本网站](https://zh.wikipedia.org/wiki/Category:日本网站 "wikilink") [Category:網絡討論區](https://zh.wikipedia.org/wiki/Category:網絡討論區 "wikilink") [Category:1999年建立的网站](https://zh.wikipedia.org/wiki/Category:1999年建立的网站 "wikilink") [Category:1999年日本建立](https://zh.wikipedia.org/wiki/Category:1999年日本建立 "wikilink")
 
 1.  [](http://www.netratings.co.jp/New_news/News12242008.htm)　2008年12月24日
-
 2.
-
 3.  2ch的官方統計數字：[stats.2ch.net](http://stats.2ch.net/suzume.cgi?yes)
-
 4.
 5.  Matsutani, Minoru, "[2channel's success rests on anonymity](http://search.japantimes.co.jp/cgi-bin/nn20100406i1.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:%20japantimes%20%28The%20Japan%20Times:%20All%20Stories%29)", *[Japan Times](https://zh.wikipedia.org/wiki/Japan_Times "wikilink")*, p. 3.
-
 6.  西村博之 「[2ch譲渡](http://www.asks.jp/users/hiro/54104.html)」『ひろゆき＠オープンSNS』 2009年1月2日
-
 7.  [2ちゃん用語 Ver 1.0](http://pmakino.jp/channel5/misc/2chbible.html)
-
 8.
 9.
 10.
-
 11.
-
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
 20.
 21. [ユーザー騒然「２ちゃんねる」が「５ちゃんねる」に名称変更（1/2ページ） - 産経ニュース](https://www.sankei.com/economy/news/171002/ecn1710020002-n1.html)
-
 22. <http://www.itmedia.co.jp/news/articles/1605/16/news068.html#l_yx_2ch.jpg>
-
 23. [2ちゃんねる管理会社、実体なし…日本で運営か](https://web.archive.org/web/20120603012541/http://www.yomiuri.co.jp/net/news/20120328-OYT8T00220.htm) 読売新聞2012年3月27日
-
 24.
-
 25. [２ちゃんねるって？](http://info.2ch.net/guide/faq.html)
-
 26. [不滅　 一人で暴言　はにゃ～ん　スレッド](http://kitanet.2ch.net/kitanettr/kako/970/970284472.html)
-
 27. [人大杉 ひとおおすぎ](http://d.hatena.ne.jp/keyword/%BF%CD%C2%E7%BF%F9)
-
 28.
 29.
 30.
 31. [2ちゃんねらー にちゃんねらー](http://d.hatena.ne.jp/keyword/2%A4%C1%A4%E3%A4%F3%A4%CD%A4%E9%A1%BC)
-
 32. [『チャンコロ（ちゃんころ）』の意味](http://zokugo-dict.com/17ti/chankoro.htm)
-
 33.
 34. [ブログ訪問者は1年で2倍の2000万超に　2chは990万人](http://www.itmedia.co.jp/news/articles/0511/29/news004.html)　[ITmediaニュース](https://zh.wikipedia.org/wiki/ITmedia "wikilink")、2005年11月29日
-
 35. [2channel founder says don't blame him for criminals' posts](http://www.japantoday.com/category/shukan-post/view/2channel-founder-says-dont-blame-him-for-criminals-posts#tool_button)
-
 36.
-
 37.
-
 38.
-
 39.
 40. [a case made by Debito Arudou](http://www.debito.org/2channelsojou.html#english)
-
 41.
-
 42.
-
 43. [survey, June, 2009, nicovideo, Japanese](http://www.nicovideo.jp/static/enquete/o/20090618.html)
-
 44.
-
 45. [2ch的轉介頁面](http://ime.nu/sankei.jp.msn.com/politics/election/091126/elc0911261939000-n1.htm)
-
 46.
-
 47.
 48. [秋月高太郎](https://zh.wikipedia.org/wiki/秋月高太郎 "wikilink") 『日本語ヴィジュアル系 ―あたらしいにほんごのかきかた』 [角川グループパブリッシング](https://zh.wikipedia.org/wiki/角川グループパブリッシング "wikilink")、2009年、37頁。ISBN 978-4047101586。
-
 49.
 50. [2channel portal: Vocabulary](http://services.4-ch.net/2chportal/)
-
 51. 『「電車男」は誰なのか―“ネタ化”するコミュニケーション』18-26頁。
-
 52. ["Ayashii World"](http://www.bienvenidoainternet.org/wiki/Ayashii_World)
-
 53.
-
 54.
 55.

@@ -39,7 +39,7 @@
       - 6月10日～8月29日 初．全國巡迴《GACKT YFCz煌☆雄兎狐塾～男女混欲肌嘩祭～》。
       - 7月16日～7月24日 初次歐洲巡迴《GACKT COMING TO EUROPE 2010 ATTACK OF THE “[YELLOW FRIED CHICKENz](http://ja.wikipedia.org/wiki/YELLOW_FRIED_CHICKENz)”》於[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、[巴黎](../Page/巴黎.md "wikilink")、[巴塞隆納](https://zh.wikipedia.org/wiki/巴塞隆納 "wikilink")、[慕尼黑](../Page/慕尼黑.md "wikilink")、[波鴻共](https://zh.wikipedia.org/wiki/波鴻 "wikilink")5場巡迴演出。
       - 8月22日 睽違二年後，第3度以[上杉謙信](../Page/上杉謙信.md "wikilink")之姿參與[上越市](../Page/上越市.md "wikilink")『第85回謙信公祭2010』的演出，並創下[上越市](../Page/上越市.md "wikilink")[謙信公祭有史以來最多參與人數](https://zh.wikipedia.org/wiki/:GACKT#.E8.AC.99.E4.BF.A1.E5.85.AC.E7.A5.AD "wikilink")─240,211人次。之後更於2011、2013、2014年參與[謙信公祭](http://ja.wikipedia.org/wiki/%E8%AC%99%E4%BF%A1%E5%85%AC%E7%A5%AD)的演出，每年皆有超過20萬人次的名眾共襄盛舉。
-      - 12月14日 與[韓國明星](https://zh.wikipedia.org/wiki/韓國 "wikilink")[裴勇俊](https://zh.wikipedia.org/wiki/裴勇俊 "wikilink")、[台灣明星](https://zh.wikipedia.org/wiki/台灣 "wikilink")[吳建豪](../Page/吳建豪.md "wikilink")、[鄭元暢](../Page/鄭元暢.md "wikilink")...等藝人於[東京巨蛋](../Page/東京巨蛋.md "wikilink")參加[Message\! to Asia](http://hohoemi.datv.jp/event.php)公開收錄，並捐出單飛以來一直陪伴在身邊有如戀人般的愛車『[龐蒂克火鳥](../Page/龐蒂克火鳥.md "wikilink") 限定款 WS6』（ポンティアック・ファイヤーバード・トランザム 限定モデル WS6）供民眾競標。於12月22日結標，結標金額為6,015,000日圓。此結標金額全數捐出。
+      - 12月14日 與[韓國明星](https://zh.wikipedia.org/wiki/韓國 "wikilink")[裴勇俊](https://zh.wikipedia.org/wiki/裴勇俊 "wikilink")、[台灣明星](https://zh.wikipedia.org/wiki/台灣 "wikilink")[吳建豪](../Page/吳建豪.md "wikilink")、[鄭元暢](../Page/鄭元暢.md "wikilink")...等藝人於[東京巨蛋](../Page/東京巨蛋.md "wikilink")參加[Message\! to Asia](https://web.archive.org/web/20141215152240/http://hohoemi.datv.jp/event.php)公開收錄，並捐出單飛以來一直陪伴在身邊有如戀人般的愛車『[龐蒂克火鳥](../Page/龐蒂克火鳥.md "wikilink") 限定款 WS6』（ポンティアック・ファイヤーバード・トランザム 限定モデル WS6）供民眾競標。於12月22日結標，結標金額為6,015,000日圓。此結標金額全數捐出。
   - 2011年
       - 3月13日 為[日本](../Page/日本.md "wikilink")2011年3月11日史上最大級地震災害[東日本大震災](../Page/東日本大震災.md "wikilink")與[川崎麻世](http://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E9%BA%BB%E4%B8%96)共同開啟[SHOW YOUR HEART](https://web.archive.org/web/20150402113227/http://www.syh-ngo.org/)募款頁面，主催。
       - 6月9日 於[ニコニコ動画的](https://zh.wikipedia.org/wiki/ニコニコ動画 "wikilink")『禁級来日記者発表』中發表新生“[YELLOW FRIED CHICKENz](http://ja.wikipedia.org/wiki/YELLOW_FRIED_CHICKENz)”的再始動。同時也發表新成員與歐洲巡迴演出的日程。新生YFCz為雙主唱-GACKT、JON（[fade](http://ja.wikipedia.org/wiki/Fade)）、三吉他手-[YOU](https://www.facebook.com/pages/YOU/161091424051137?fref=photo)、[CHACHAMARU](http://ja.wikipedia.org/wiki/Chachamaru)、[TAKUMI](http://ja.wikipedia.org/wiki/%E9%AE%AB%E5%B3%B6%E5%B7%A7)、貝斯手-[U:ZO](http://ja.wikipedia.org/wiki/RIZE#.E5.85.83.E3.83.A1.E3.83.B3.E3.83.90.E3.83.BC)與鼓手-[SHINYA](http://ja.wikipedia.org/wiki/%E7%9C%9F%E7%9F%A2_%28%E3%83%89%E3%83%A9%E3%83%9E%E3%83%BC%29)（[LUNA SEA](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")）共七人所組成。
@@ -2388,7 +2388,7 @@ GACKT本人此五曲擔當。</small></p></td>
 
 ## 外部链接
 
-  - [GACKT OFFICIAL WEBSITE](http://www.gackt.com/)
+  - [GACKT OFFICIAL WEBSITE](https://web.archive.org/web/20190811192015/https://gackt.com/)
 
   - [GACKT OFFICIAL COMMUNITY SITE](http://www.gackt-and-lovers.com/)（2007年9月25日始動）
 

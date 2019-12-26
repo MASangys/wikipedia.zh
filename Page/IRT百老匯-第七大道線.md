@@ -733,11 +733,8 @@ IND第八大道線（），<a href="https://zh.wikipedia.org/wiki/世界貿易�
 [Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1904年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1904年啟用的鐵路線 "wikilink")
 
 1.   - [南碼頭總站計劃](https://zh.wikipedia.org/wiki/南碼頭-白廳街車站 "wikilink"), [Environmental Assessment and Section 4(f) Evaluation](http://www.mta.info/capconstr/sft/dea.htm),
-
 2.  [大都會運輸署](../Page/大都會運輸署.md "wikilink"),
-
 3.  , [第二大道地鐵線](https://zh.wikipedia.org/wiki/紐約地鐵第二大道線 "wikilink"), [Supplemental Draft Environmental Impact Statement](http://www.mta.info/capconstr/sas/sdeis.htm),
-
 4.
 5.
 6.
@@ -748,11 +745,8 @@ IND第八大道線（），<a href="https://zh.wikipedia.org/wiki/世界貿易�
 11.
 12.
 13.
-
 14.
-
 15.
-
 16.
 17.
 18.
@@ -768,7 +762,6 @@ IND第八大道線（），<a href="https://zh.wikipedia.org/wiki/世界貿易�
 28.
 29.
 30.
-
 31.
 32.
 33.

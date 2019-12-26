@@ -598,56 +598,31 @@
 [Category:Leaf](https://zh.wikipedia.org/wiki/Category:Leaf "wikilink") [Category:2004年電子遊戲](https://zh.wikipedia.org/wiki/Category:2004年電子遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:2005年UHF動畫](https://zh.wikipedia.org/wiki/Category:2005年UHF動畫 "wikilink") [Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink") [Category:月刊GFantasy](https://zh.wikipedia.org/wiki/Category:月刊GFantasy "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:2005年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2005年日本電視動畫 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
 
 1.  [Yahoo\!遊戲情報](http://gameinfo.yahoo.co.jp/game/05650/)
-
 2.
-
 3.
-
 4.  [放映時間表](http://www.toheart2.net/oshirase.html)
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11. [各大店家殺必死特典狂發,《ToHeart2 AnotherDays》即將深夜發售](http://www.pcgames.com.cn/cartoon/news/guowainews/0802/1025518.html)  太平洋遊戲網
-
 12.
-
 13.
-
 14.
 15.
-
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27. [帰ってきた！ ささら、まーりゃんの生徒会会長ラジオ for ToHeart2](http://www.animate.tv/radio/toheart2/) animate.tv
-
 28.
-
 29. [弊社製品のムービー再生にxvid.orgのムービー展開ライブラリを使用していた件について。](http://leaf.aquaplus.co.jp/product/xvid.html)

@@ -275,6 +275,10 @@
   - [張可盈](../Page/張可盈.md "wikilink") - 記得你的名字（詞）
   - [薛家燕](../Page/薛家燕.md "wikilink") - Captain Nancy（詞）
 
+### 2019年
+
+  - [王梓軒](../Page/王梓軒.md "wikilink") - 多得你（詞）
+
 ## 音樂錄像
 
   - 2016年：[SIS樂印姊妹](../Page/SIS樂印姊妹.md "wikilink")〈新世界〉男主角

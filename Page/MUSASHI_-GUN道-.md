@@ -695,6 +695,6 @@
   - [イーネット・フロンティア 作品紹介サイト](https://web.archive.org/web/20060831060204/http://enet-dvd.com/musashi/)
   - [MUSASHI -GUN道- Wiki（日語）](https://archive.is/20130427053831/http://musashigundo.com/)
 
-[Category:2006年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2006年日本電視動畫 "wikilink") [Category:宮本武藏題材作品](https://zh.wikipedia.org/wiki/Category:宮本武藏題材作品 "wikilink") [Category:TBS動畫](https://zh.wikipedia.org/wiki/Category:TBS動畫 "wikilink")
+[Category:2006年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2006年日本電視動畫 "wikilink") [Category:宮本武藏題材作品](https://zh.wikipedia.org/wiki/Category:宮本武藏題材作品 "wikilink") [Category:TBS動畫](https://zh.wikipedia.org/wiki/Category:TBS動畫 "wikilink") [Category:時代劇動畫](https://zh.wikipedia.org/wiki/Category:時代劇動畫 "wikilink")
 
 1.

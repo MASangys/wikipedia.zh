@@ -86,7 +86,7 @@
   - 2017年10月13日 - プレイホーム★
   - 2018年4月27日 - [戀活！](https://zh.wikipedia.org/wiki/戀活！ "wikilink")★
   - 2019年4月26日 - エモーション・クリエイターズ★
-  - 2019年10月25日 - AI＊少女
+  - 2019年10月25日 - [AI\*少女](https://zh.wikipedia.org/wiki/AI*少女 "wikilink")
 
 ### Vision
 
@@ -176,7 +176,7 @@
 
 ## 外部链接
 
-  - [ILLUSION官方网站（日文）](http://www.illusion.jp/)
+  - [ILLUSION官方网站](http://www.illusion.jp/)
 
 [Category:1992年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1992年開業電子遊戲公司 "wikilink") [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
 

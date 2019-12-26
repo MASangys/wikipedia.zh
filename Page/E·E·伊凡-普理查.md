@@ -1,8 +1,8 @@
-**艾德華·伊凡·伊凡-普理查**爵士（，），[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[人類學家](https://zh.wikipedia.org/wiki/人類學家 "wikilink")，他結合[結構功能論以及自身在](https://zh.wikipedia.org/wiki/結構功能論 "wikilink")[東非的](https://zh.wikipedia.org/wiki/東非 "wikilink")[民族誌](../Page/民族誌.md "wikilink")紀錄，對[努爾人](../Page/努爾人.md "wikilink")與[亞桑地人的](https://zh.wikipedia.org/wiki/亞桑地人 "wikilink")[親屬制度與](https://zh.wikipedia.org/wiki/親屬制度 "wikilink")[巫術](../Page/巫術.md "wikilink")重新整理，進而重新開啟[西方文化](../Page/西方文化.md "wikilink")重新詮釋[原始社會](https://zh.wikipedia.org/wiki/原始社會 "wikilink")[心靈的理解](https://zh.wikipedia.org/wiki/心靈 "wikilink")
+**艾德華·伊凡·伊凡-普理查**爵士（，），[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[人類學家](https://zh.wikipedia.org/wiki/人類學家 "wikilink")，他結合[結構功能主義以及自身在](https://zh.wikipedia.org/wiki/結構功能主義 "wikilink")[東非的](https://zh.wikipedia.org/wiki/東非 "wikilink")[民族誌](../Page/民族誌.md "wikilink")紀錄，對[努爾人](../Page/努爾人.md "wikilink")與[亞桑地人的](https://zh.wikipedia.org/wiki/亞桑地人 "wikilink")[親屬制度與](https://zh.wikipedia.org/wiki/親屬制度 "wikilink")[巫術](../Page/巫術.md "wikilink")重新整理，進而重新開啟[西方文化](../Page/西方文化.md "wikilink")重新詮釋[原始社會](https://zh.wikipedia.org/wiki/原始社會 "wikilink")[心靈的理解](https://zh.wikipedia.org/wiki/心靈 "wikilink")
 
 ## 生平
 
-艾德華·伊凡普理查生於1902年的[廓市](https://zh.wikipedia.org/wiki/廓市 "wikilink")（Crowborough） ，父親約翰·伊凡普理查（John Evans-Pritchard）是[聖公會的](https://zh.wikipedia.org/wiki/聖公會 "wikilink")[牧師](https://zh.wikipedia.org/wiki/牧師 "wikilink")。伊凡普理查在家中排行老二，並以母親桃樂絲·艾德華（Dorothea·Edward）之姓為名。
+艾德華·伊凡普理查生於1902年的[克羅伯勒](../Page/克羅伯勒.md "wikilink")，父親約翰·伊凡普理查（John Evans-Pritchard）是[聖公會的](https://zh.wikipedia.org/wiki/聖公會 "wikilink")[牧師](https://zh.wikipedia.org/wiki/牧師 "wikilink")。伊凡普理查在家中排行老二，並以母親桃樂絲·艾德華（Dorothea·Edward）之姓為名。
 
 1916年伊凡普理查進入[温切斯特公学接受中學教育](https://zh.wikipedia.org/wiki/溫徹斯特公學 "wikilink")，並於1921年就讀[牛津大學埃克塞特學院](https://zh.wikipedia.org/wiki/牛津大學埃克塞特學院 "wikilink")。
 

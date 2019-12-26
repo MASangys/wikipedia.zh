@@ -3532,18 +3532,11 @@ MBLAQ、FTIsland<br />
 [Category:香港雜誌](https://zh.wikipedia.org/wiki/Category:香港雜誌 "wikilink") [Category:香港已停刊雜誌](https://zh.wikipedia.org/wiki/Category:香港已停刊雜誌 "wikilink") [Category:香港流行文化](https://zh.wikipedia.org/wiki/Category:香港流行文化 "wikilink") [Category:1990年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1990年創辦的雜誌 "wikilink") [Category:2014年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2014年停刊的雜誌 "wikilink") [Category:1990年香港建立](https://zh.wikipedia.org/wiki/Category:1990年香港建立 "wikilink") [Category:2014年香港廢除](https://zh.wikipedia.org/wiki/Category:2014年香港廢除 "wikilink")
 
 1.
-
 2.
 3.  [Yes\! Facebook專頁 公告](http://zh-tw.facebook.com/permalink.php?story_fbid=796292463736053&id=536103449754957)
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  [1204期EXO封面1](http://www.quick-china.com/mag/thumb/l/zz00478l.jpg)
-
 9.  [1204期EXO封面2](http://www.quick-china.com/mag/thumb/l/zz00479l.jpg)

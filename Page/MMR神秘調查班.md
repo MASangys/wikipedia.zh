@@ -294,12 +294,8 @@ Count.0 無限</p></td>
 [Category:亞樹直](https://zh.wikipedia.org/wiki/Category:亞樹直 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink") [Category:神秘题材作品](https://zh.wikipedia.org/wiki/Category:神秘题材作品 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  <http://ja.wikipedia.org/wiki/MMR%E6%9C%AA%E7%A2%BA%E8%AA%8D%E9%A3%9B%E8%A1%8C%E7%89%A9%E4%BD%93>
-
 5.  <http://dic.nicovideo.jp/a/mmr>
-
 6.

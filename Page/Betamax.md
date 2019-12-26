@@ -16,7 +16,7 @@ SONY在1975年发表了带有LV-1901 Trinitron/Betamax仪表板的家用录像�
   - 磁带前进速度：βI・βIs-约40mm/s / βII-约20mm/s / βIII-约13mm/s
   - 信号轨宽：βI-约58μm / βIs-39μm（SONY机种）・33μm（NEC机种）/ βII-29μm / βIII-19.5μm
   - 信号存储方式：
-      - 视频信号：[调频](https://zh.wikipedia.org/wiki/调频 "wikilink")（FM）Sink chip：3.6MHz／白峰值：4.8MHz：颜色信号：低域変換方式
+      - 视频信号：[调频](https://zh.wikipedia.org/wiki/调频 "wikilink")（FM）Sink chip：3.6MHz／白峰值：4.8MHz：颜色信号：低域變換方式
       - 音频信号：2声道纵向纪录
 
 ## 录制格式

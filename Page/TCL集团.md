@@ -78,12 +78,8 @@
 [Category:飞利浦](https://zh.wikipedia.org/wiki/Category:飞利浦 "wikilink") [Category:中國民營企業](https://zh.wikipedia.org/wiki/Category:中國民營企業 "wikilink") [Category:中國電子公司](https://zh.wikipedia.org/wiki/Category:中國電子公司 "wikilink") [Category:惠州公司](https://zh.wikipedia.org/wiki/Category:惠州公司 "wikilink") [Category:家用電器品牌](https://zh.wikipedia.org/wiki/Category:家用電器品牌 "wikilink") [Category:1981年成立的公司](https://zh.wikipedia.org/wiki/Category:1981年成立的公司 "wikilink") [Category:中國綜合企業公司](https://zh.wikipedia.org/wiki/Category:中國綜合企業公司 "wikilink") [Category:中国家用电器制造商](https://zh.wikipedia.org/wiki/Category:中国家用电器制造商 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.

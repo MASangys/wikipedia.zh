@@ -1,14 +1,31 @@
 **谷歌拼音輸入法**是由[谷歌中國實驗室開發](https://zh.wikipedia.org/wiki/谷歌中國 "wikilink")，於2007年4月2日發佈\[1\]的[汉语拼音输入法](https://zh.wikipedia.org/wiki/汉语拼音输入法 "wikilink")。10月25日成为Google的正式产品之一\[2\]。
 
-谷歌拼音輸入法1.0.15.0版盗用了[搜狗拼音輸入法的詞庫](https://zh.wikipedia.org/wiki/搜狗拼音輸入法 "wikilink")\[3\]，随后谷歌发布致歉声明。並於2007年4月9日發佈1.0.17.0版，稱改用了自家的詞庫。
+## PC版本
 
-随后，[Google](../Page/Google.md "wikilink")在其[博客](../Page/網誌.md "wikilink")“Google 黑板报”上发布有兩份聲明，第一份是對盗用詞庫表示致歉明白卡\[4\]，第二份則稱[輸入法中包含](https://zh.wikipedia.org/wiki/輸入法 "wikilink")[Google](../Page/Google.md "wikilink")工程師申請的專利。
+谷歌拼音輸入法1.0.15.0版盗用了[搜狗拼音輸入法的詞庫](https://zh.wikipedia.org/wiki/搜狗拼音輸入法 "wikilink")\[3\]，随后谷歌发布致歉声明。並於2007年4月9日發佈1.0.17.0版，稱改用了自家的詞庫。 随后，[Google](../Page/Google.md "wikilink")在其[博客](../Page/網誌.md "wikilink")“Google 黑板报”上发布有兩份聲明，第一份是對盗用詞庫表示致歉明白卡\[4\]，第二份則稱[輸入法中包含](https://zh.wikipedia.org/wiki/輸入法 "wikilink")[Google](../Page/Google.md "wikilink")工程師申請的專利。
 
-谷歌拼音輸入法在PC端已經停止更新。2018年6月，下載頁面完全從網站撤下，而可供下载的檔案則至2019年6月21日仍未撤下。用戶在PC上使用已安裝的谷歌拼音輸入法無法登入Google帳號和使用其自動同步功能。
+谷歌拼音輸入法在PC端已經停止更新。2018年6月，網頁已將PC版撤下，然而安裝套件至今則仍可下載。PC版也無法登入Google帳號和使用其自動同步功能。
 
-## 版本历史
+### 2.0新增功能
 
-谷歌拼音输入法具有自动升级功能，以下是历经发布的版本。\[5\]
+Google于2008年11月20日推出了谷歌拼音输入法V2.0版，新增了下列功能：
+
+  - 具有更强大的智能组句引擎，全新海量词库，进一步提高了选词准确率
+  - 主动为用户下载最符合用户输入习惯的语言模型
+  - 支持所见即所得的内嵌编辑模式
+  - 增加输入仪表盘功能，实时显示输入准确率，输入速度等参数
+  - 在重要节假日、纪念日显示Google风格的节假日徽标
+
+### 3.0新增功能
+
+Google于2011年1月28日推出了谷歌拼音输入法V3.0版，新增了下列功能：
+
+  - 提供英文写作助手功能。
+  - 暂时取消了内嵌编辑模式。
+
+### 版本历史
+
+谷歌拼音输入法具有自动升级功能，以下是历经发布的版本\[5\]。（請開啟清單查看）
 
 <div style="overflow: auto">
 
@@ -62,6 +79,10 @@
 
 </div>
 
+## Android版本
+
+[Google](../Page/Google.md "wikilink")於2009年3月開放適用[Android 1.5版本的拼音輸入法](https://zh.wikipedia.org/wiki/Android_1.5 "wikilink")。
+
 ## 特色
 
 谷歌拼音输入法具有五大特色功能，分别是：
@@ -72,23 +93,6 @@
   - 拼写输入的同时轻点一键即可快捷搜索
   - 根据输入前几个字母，输入法自动提示您可能要找的单字
 
-### 2.0新增功能
-
-Google于2008年11月20日推出了谷歌拼音输入法V2.0版，新增了下列功能：
-
-  - 具有更强大的智能组句引擎，全新海量词库，进一步提高了选词准确率
-  - 主动为用户下载最符合用户输入习惯的语言模型
-  - 支持所见即所得的内嵌编辑模式
-  - 增加输入仪表盘功能，实时显示输入准确率，输入速度等参数
-  - 在重要节假日、纪念日显示Google风格的节假日徽标
-
-### 3.0新增功能
-
-Google于2011年1月28日推出了谷歌拼音输入法V3.0版，新增了下列功能：
-
-  - 提供英文写作助手功能。
-  - 暂时取消了内嵌编辑模式。
-
 ## 参见
 
   - [Google产品列表](../Page/Google产品列表.md "wikilink")
@@ -98,11 +102,11 @@ Google于2011年1月28日推出了谷歌拼音输入法V3.0版，新增了下列
 ## 外部链接
 
   - [谷歌拼音输入法](https://web.archive.org/web/20131220082138/http://www.google.com/intl/zh-CN/ime/pinyin/)
-  - [第三方从谷歌拼音输入法Android版移植的Linux版本](http://code.google.com/p/libgooglepinyin/)
+  - [由Android版本經第三方移植的Linux版本](http://code.google.com/p/libgooglepinyin/)
 
  
 
-[Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink") [Category:汉语拼音输入法](https://zh.wikipedia.org/wiki/Category:汉语拼音输入法 "wikilink") [Category:免费软件](https://zh.wikipedia.org/wiki/Category:免费软件 "wikilink") [Category:Windows文本相关软件](https://zh.wikipedia.org/wiki/Category:Windows文本相关软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
+[Category:免费软件](https://zh.wikipedia.org/wiki/Category:免费软件 "wikilink") [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:汉语拼音输入法](https://zh.wikipedia.org/wiki/Category:汉语拼音输入法 "wikilink") [Category:Windows文本相关软件](https://zh.wikipedia.org/wiki/Category:Windows文本相关软件 "wikilink")
 
 1.
 2.

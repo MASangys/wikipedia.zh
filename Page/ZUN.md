@@ -58,55 +58,29 @@ ZUN愛好飲酒，其網誌內有不少與酒相關的主題。\[26\]另外，�
 [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:日本電子遊戲產業人物](https://zh.wikipedia.org/wiki/Category:日本電子遊戲產業人物 "wikilink") [Category:遊戲音樂作曲家](https://zh.wikipedia.org/wiki/Category:遊戲音樂作曲家 "wikilink") [Category:日本吉尼斯世界纪录保持者](https://zh.wikipedia.org/wiki/Category:日本吉尼斯世界纪录保持者 "wikilink") [Category:長野縣出身人物](https://zh.wikipedia.org/wiki/Category:長野縣出身人物 "wikilink") [Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink") [Category:21世纪作曲家](https://zh.wikipedia.org/wiki/Category:21世纪作曲家 "wikilink") [Category:20世紀作曲家](https://zh.wikipedia.org/wiki/Category:20世紀作曲家 "wikilink") [Category:晶片音樂作曲家](https://zh.wikipedia.org/wiki/Category:晶片音樂作曲家 "wikilink") [Category:東京電機大學校友](https://zh.wikipedia.org/wiki/Category:東京電機大學校友 "wikilink")
 
 1.  其在由愛好者舉辦的東方實況錄音活動「Flowering Night 2008」（2008年3月15日）中的發言，於2011年3月18日[在Twitter上發言](http://twitter.com/korindo/statuses/48398680906141696)
-
 2.  遊戲系列中的[紅魔鄉及](../Page/東方紅魔鄉_～_the_Embodiment_of_Scarlet_Devil..md "wikilink")[永夜抄工作人員名單中顯示出ZUN的本名為太田顺也](../Page/東方永夜抄_～_Imperishable_Night..md "wikilink")。
-
 3.
-
 4.
-
 5.  「博麗神社 神主・ZUNインタビュー 神主の言霊」 『三月精 第1部』単行本 pp.110-113。
-
 6.
-
 7.  [2011年3月18日ZUN在Twitter上的發言](http://twitter.com/korindo/statuses/48398680906141696)
-
 8.
-
 9.
-
 10. 《[東方文花帖 ～ Bohemian Archive in Japanese Red.](https://zh.wikipedia.org/wiki/東方文花帖_～_Bohemian_Archive_in_Japanese_Red. "wikilink")》收錄的訪問錄「」第163-167頁。
-
 11. 2004年4月15日[揭示板](https://zh.wikipedia.org/wiki/揭示板 "wikilink")『幻想揭示板』的投稿，以及在[明治大學舉行的演講會](https://zh.wikipedia.org/wiki/明治大學 "wikilink")「[東方の夜明け](http://animeiji.jp.land.to/easterndawn/report2.html)」（アフターレポート2ページ目）
-
 12. ：
-
 13. 「【特別対談】ZUN×[竜騎士07](https://zh.wikipedia.org/wiki/竜騎士07 "wikilink") 同人ゲームの起こした「奇跡」の真相」『PLANETS』vol.7、[第二次惑星開発委員会](https://zh.wikipedia.org/wiki/宇野常寛 "wikilink")、2010年8月、第122-131頁
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19. 『[-特集- シューティングの方法論第1回 ZONE Z](http://www.4gamer.net/specials/shanghai_alice/zone_z.shtml)』
-
 20.
-
 21.
-
 22.
-
 23. [一迅社](../Page/一迅社.md "wikilink")的[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")[キャラ☆メルVol](https://zh.wikipedia.org/wiki/キャラ☆メル "wikilink").3「」第104-111頁，2007年出版。
-
 24. TAITO開發的遊戲《[武刃街](https://zh.wikipedia.org/wiki/武刃街 "wikilink")》的官方網頁：
-
 25.
-
 26.
-
 27.

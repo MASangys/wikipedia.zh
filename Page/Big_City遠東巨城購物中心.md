@@ -282,80 +282,48 @@ Big City可分為兩大部份，一邊為[遠東巨城購物中心](https://zh.w
 [Category:東區_(新竹市)](https://zh.wikipedia.org/wiki/Category:東區_\(新竹市\) "wikilink") [Category:新竹市商場](https://zh.wikipedia.org/wiki/Category:新竹市商場 "wikilink") [Category:新竹市旅遊景點](https://zh.wikipedia.org/wiki/Category:新竹市旅遊景點 "wikilink") [Category:2003年完工建築物](https://zh.wikipedia.org/wiki/Category:2003年完工建築物 "wikilink") [Category:遠東集團](https://zh.wikipedia.org/wiki/Category:遠東集團 "wikilink")
 
 1.  [北台灣最大Mall 新竹巨城試賣](http://m.xuite.net/blog/li_5516882/twblog/148470035)
-
 2.  [出國瘋打卡　桃園機場上半年打卡300萬次奪冠](http://m.appledaily.com.tw/realtimenews/article/new/20170902/1195732/)
-
 3.  [FB十大打卡景點　新竹這地方榮登全台第2名](http://m.appledaily.com.tw/realtimenews/article/life/20170930/1214265/)
-
 4.  [巨城董事長李靜芳：2018擴大營運面積](https://udn.com/news/story/7241/2533708)
-
 5.
-
 6.  [2010-03-02 經濟日報—台金聯 要活化風城購物中心](http://udn.com/NEWS/FINANCE/FIN1/5448230.shtml)
-
-7.  [2010-03-08 工商時報—大陸長城資管 看上新竹風城購物中心](http://news.chinatimes.com/CMoney/News/News-Page-content/0,4993,11050702+122010030800217,00.html)
-
+7.
 8.  [2010-04-08 自由電子報—最貴蚊子館 風城購物中心2度流標](http://www.libertytimes.com.tw/2010/new/apr/8/today-e1.htm)
-
 9.
 10.
 11. [2010-05-19 中時電子報—SOGO以58億多億標下新竹風城購物中心](http://news.chinatimes.com/CMoney/News/News-Page-content/0,4993,130507+132010051901684,00.html)
-
 12. [2010-05-19 NOWnews 今日新聞網—風城購物中心三拍 太平洋崇光百貨58.88億擊敗新光三越](http://www.nownews.com/2010/05/19/11490-2605031.html)
-
 13. [2010-10-01 工商時報—遠東接手 風城購物中心變裝](http://news.chinatimes.com/CMoney/News/News-Page-content/0,4993,11050701+122010100100458,00.html)
-
 14. [2010-10-27 聯合新聞網—3大新百貨明年第3季開幕 內容搶先看](http://udn.com/NEWS/FASHION/FAS8/5935627.shtml)
-
 15. [2011-08-15 中時電子報—新竹巨城購物中心 12月初隆重開幕](http://life.chinatimes.com/2009Cti/Channel/Life/life-article/0,5047,100305+112011081500053,00.html)
-
 16. [2011-11-02 經濟日報—遠東巨城商場 延明年開幕](http://udn.com/NEWS/STOCK/STO4/6690598.shtml)
-
 17. [BigCity遠東巨城購物中心的Facebook](https://m.facebook.com/FEBigCity)
-
 18. [新竹消費力驚人　巨城今年營收105億](https://tw.appledaily.com/new/realtime/20161230/1024217/)
-
 19. [2017年度營收110億　新竹巨城明年擴大2500坪](https://tw.appledaily.com/new/realtime/20171231/1269499/)
-
 20.
-
 21. [行政院研考會網路村-{里}-—新竹市復中里](http://www.village.gov.tw/webnew/376588100039/)
-
 22.
 23.
-
 24.
-
 25.
 26.
 27. [2005-08-03 跳票1.2億？ 新竹風城：聯貸撥款作業延遲 營運仍正常](http://nownews.com/2005/08/03/122-1826189.htm) (今日新聞網)
-
 28. [條目：吉之島—臺灣佳士客](https://zh.wikipedia.org/wiki/吉之島#台灣佳世客 "wikilink")
-
 29. 2006-07-28 [台視](https://zh.wikipedia.org/wiki/台視 "wikilink")—[新竹風城購物中心 債六億封館](http://www.ttv.com.tw/news/view/?i=09507284343505L)
-
 30.
-
 31.
-
 32.
 33.
-
 34.
 35.
 36. [2007-05-11 聯合新聞網—購物中心競開 人潮難換錢潮](http://udn.com/NEWS/NATIONAL/NATS5/3840642.shtml)
-
 37.
 38.
 39.
 40.
 41.
 42.
-
 43. [2006-11-04 自由電子報—渣打併竹商銀 不規劃優離優退](http://www.libertytimes.com.tw/2006/new/nov/4/today-e2.htm)
-
 44. [YaHoo奇摩生活—華納威秀改名威秀影城](http://tw.lifestyle.yahoo.com/33b7edcf/061004/180/3k3io.html)
-
 45.
-
 46.

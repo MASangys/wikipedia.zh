@@ -10,15 +10,15 @@
 
 遊戲內共有7個角色，其中6個為普通角色，黃耳多啦A夢為隱藏角色，每個角色都有優點及缺點，分別對應了他們在原作中的特性。
 
-| 角色名稱                                                                               | 配音員                                                 | 優點                       | 缺點                      |
-| ---------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------ | ----------------------- |
-| [哆啦A梦](https://zh.wikipedia.org/wiki/哆啦A梦 "wikilink")                              | [林保全](../Page/林保全.md "wikilink")                    | 遊戲開始時便擁有一半道具             | 每前進一格便會吃掉一個豆沙包          |
-| [大雄](https://zh.wikipedia.org/wiki/大雄 "wikilink")                                  | [卢素娟](https://zh.wikipedia.org/wiki/卢素娟 "wikilink") | 每個月可得到道具「空氣槍」一個及射擊道具必中屬性 | 不能對靜香使用有攻擊目標的道具         |
-| [靜香](https://zh.wikipedia.org/wiki/靜香 "wikilink")                                  | [梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink") | 每月可得到道具「人見人愛丸」、「友情藥囊」    | 逢星期日都會因洗澡而停止前進一次        |
-| [多啦美](https://zh.wikipedia.org/wiki/多啦美 "wikilink")                                | [曾佩仪](https://zh.wikipedia.org/wiki/曾佩仪 "wikilink") | 遊戲開始時便擁有道具               | 無                       |
-| [小夫](https://zh.wikipedia.org/wiki/小夫 "wikilink")                                  | [黃凤英](https://zh.wikipedia.org/wiki/黃凤英 "wikilink") | 遊戲開始時比別人多一倍豆沙包（2,000個）   | 在玩家操縱時不能購買或拾起人見人愛丸及朋友圈。 |
-| [胖虎](../Page/剛田武.md "wikilink")                                                    | [郭志权](https://zh.wikipedia.org/wiki/郭志权 "wikilink") | 任何人與他相遇都要給他少量的豆沙包        | 最多只能走四步。                |
-| [黃耳多啦A夢](https://zh.wikipedia.org/wiki/哆啦A夢_\(角色\)#《2112年哆啦A夢的诞生》的主要情节 "wikilink") | [林保全](../Page/林保全.md "wikilink")                    | 遊戲開始時便擁有所有道具             | 無                       |
+| 角色名稱                                                                               | 配音員                                                 | 優點                       | 缺點                       |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------ | ------------------------ |
+| [哆啦A梦](https://zh.wikipedia.org/wiki/哆啦A梦 "wikilink")                              | [林保全](../Page/林保全.md "wikilink")                    | 遊戲開始時便擁有一半道具             | 每前進一格便會吃掉一個豆沙包           |
+| [大雄](https://zh.wikipedia.org/wiki/大雄 "wikilink")                                  | [卢素娟](https://zh.wikipedia.org/wiki/卢素娟 "wikilink") | 每個月可得到道具「空氣槍」一個及射擊道具必中屬性 | 不能對靜香使用有攻擊目標的道具          |
+| [靜香](https://zh.wikipedia.org/wiki/靜香 "wikilink")                                  | [梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink") | 每月可得到道具「人見人愛丸」、「友情藥囊」    | 逢星期日都會因洗澡而停止前進一次         |
+| [多啦美](https://zh.wikipedia.org/wiki/多啦美 "wikilink")                                | [曾佩仪](https://zh.wikipedia.org/wiki/曾佩仪 "wikilink") | 遊戲開始時便擁有一半道具             | 無                        |
+| [小夫](https://zh.wikipedia.org/wiki/小夫 "wikilink")                                  | [黃凤英](https://zh.wikipedia.org/wiki/黃凤英 "wikilink") | 遊戲開始時比別人多一倍豆沙包（2,000個）   | 在玩家操縱時不能購買或拾起人見人愛丸及友情藥囊。 |
+| [胖虎](../Page/剛田武.md "wikilink")                                                    | [郭志权](https://zh.wikipedia.org/wiki/郭志权 "wikilink") | 任何人與他相遇都要給他少量的豆沙包        | 最多只能走四步。                 |
+| [黃耳多啦A夢](https://zh.wikipedia.org/wiki/哆啦A夢_\(角色\)#《2112年哆啦A夢的诞生》的主要情节 "wikilink") | [林保全](../Page/林保全.md "wikilink")                    | 遊戲開始時便擁有所有道具             | 無                        |
 
   -
 ### 遊戲元素
@@ -46,6 +46,6 @@
   - 你睇\! 叮噹嚟喇 叮噹大富翁 準時今日登場，《星島日報》，1998-12-23
   - 電玩小子創大富翁淘金，《蘋果日報》，1998-12-18
 
-[Category:哆啦A夢衍生作品](https://zh.wikipedia.org/wiki/Category:哆啦A夢衍生作品 "wikilink") [Category:香港開發電子遊戲](https://zh.wikipedia.org/wiki/Category:香港開發電子遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:原生中文遊戲](https://zh.wikipedia.org/wiki/Category:原生中文遊戲 "wikilink")
+[Category:哆啦A夢衍生作品](https://zh.wikipedia.org/wiki/Category:哆啦A夢衍生作品 "wikilink") [Category:香港開發電子遊戲](https://zh.wikipedia.org/wiki/Category:香港開發電子遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:原生中文遊戲](https://zh.wikipedia.org/wiki/Category:原生中文遊戲 "wikilink") [Category:电子图版游戏](https://zh.wikipedia.org/wiki/Category:电子图版游戏 "wikilink") [Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink")
 
 1.

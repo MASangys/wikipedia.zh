@@ -995,7 +995,7 @@
 <td><p>GIY</p></td>
 <td><p>FAGI</p></td>
 <td><p>吉亞尼機場</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吉亞尼" title="wikilink">吉亞尼</a>，<a href="https://zh.wikipedia.org/wiki/林波波省" title="wikilink">林波波省</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉亞尼" title="wikilink">吉亞尼</a>，<a href="../Page/林波波省.md" title="wikilink">林波波省</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

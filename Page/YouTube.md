@@ -1,4 +1,4 @@
-是源自[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[影片分享網站](https://zh.wikipedia.org/wiki/影片分享網站 "wikilink")，讓使用者上載、觀看、分享及評論[影片](https://zh.wikipedia.org/wiki/影片 "wikilink")。公司於2005年2月14日註冊，網站的口號為「」，網站的標誌意念來自早期[電視顯示器](https://zh.wikipedia.org/wiki/电视機 "wikilink")（[阴极射线管](../Page/阴极射线管.md "wikilink")）。\[1\] 目前尚無官方的中文譯名，較為廣泛使用則為**油管**。
+是源自[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[影片分享網站](https://zh.wikipedia.org/wiki/影片分享網站 "wikilink")，讓使用者上載、觀看、分享及評論[影片](../Page/视频.md "wikilink")。公司於2005年2月14日註冊，網站的口號為「」，網站的標誌意念來自早期[電視顯示器](https://zh.wikipedia.org/wiki/电视機 "wikilink")（[阴极射线管](../Page/阴极射线管.md "wikilink")）。\[1\] 目前尚無官方的[中文譯名](https://zh.wikipedia.org/wiki/中文 "wikilink")，較為廣泛使用的俗稱有**油管**、**水管**、**你管**、**優兔**等。
 
 2005年，YouTube由[陳士駿](../Page/陳士駿.md "wikilink")(Steve Chen)、、[賈德·卡林姆](../Page/賈德·卡林姆.md "wikilink")等人創立，賈德·卡林姆作为网站创始者亦是YouTube最早影片《[我在動物園](../Page/我在動物園.md "wikilink")》的上传者\[2\]。2006年11月，[Google](../Page/Google.md "wikilink")公司以16.5億美元收購YouTube，並把其當做一間[子公司](../Page/子公司.md "wikilink")來經營。Google最初对于如何透过YouTube盈利，一直保持著谨慎的态度\[3\]。收購後的YouTube依然風靡全球網路使用者。[花旗銀行分析師認為](https://zh.wikipedia.org/wiki/花旗銀行 "wikilink")，以2012年計算，Google从YouTube獲得24億美元的收入\[4\]。无[Google](../Page/Google.md "wikilink")帳號的用户仍可以觀看YouTube中的影片，但無法上传影片及留言。註冊用戶可以無限量上傳影片。當影片多次被檢舉，經過核實後，含有暴力或裸露的内容會被定為“18歲以上註冊用户才可以觀看”，而色情以及侵犯版权的内容（比如仍在上映或發行影音產品的电影，電視劇或動畫片）會被刪除，另外也禁止特定的買賣主題影片。
 
@@ -6,17 +6,17 @@
 
 今日它已經成為[影音網站的翹楚](https://zh.wikipedia.org/wiki/影音網站 "wikilink")，不單在娛樂音市場上吸引觀眾，又成功把龐大流量轉變為社群平台，並激發網上[創作產業](https://zh.wikipedia.org/wiki/創意產業 "wikilink")，例如每年[YouTube名人的演出](../Page/YouTuber.md "wikilink")[YouTube FanFest等收看人數與收入都相當驚人](https://zh.wikipedia.org/wiki/YouTube_FanFest "wikilink")，同時企業則申請官方帳號用作[廣告](../Page/廣告.md "wikilink")與線上傳媒渠道、[NGO的推廣公關等等](https://zh.wikipedia.org/wiki/NGO "wikilink")，成為又一段[矽谷文化新創成功的經營典範](https://zh.wikipedia.org/wiki/矽谷 "wikilink")，當然也是因為硬體支援，才能承受龐大的資訊量而發展起來，還有恰好的創業時機換來的知名度與其爆紅效應。儘管有大量用戶支持，但同類型網站激烈競爭下內容更變得重要，因此近幾年眼光開始向網上知名製作者，YouTube對這些擁有百萬訂閱的人十分器重，給予獎盃回饋與官方聚會活動邀請、以及更高的薪資分紅等等（這類職業化的影片創作者被稱為[YouTuber](../Page/YouTuber.md "wikilink")），追求高點擊率已經成為許多人獲取財富的方式之一，第一個破十億點閱率的男歌手是[PSY](../Page/PSY.md "wikilink")（Gangnam Style），第一個破十億點閱率的女歌手是[凱蒂·佩芮](../Page/凱蒂·佩芮.md "wikilink")。2015年9月，[PewDiePie](../Page/PewDiePie.md "wikilink")成为第一个观看次数超过100亿次的YouTube频道\[7\]。
 
-2015年7月17日，谷歌发布截至6月30日的2015财年第二季度财报显示，现在YouTube有超过10亿用户，世界上所有上网的人群中几乎有三分之一的人每天在YouTube，合计耗費數亿小时的时间观看影片，现在YouTube的观看时间比過去增长60%，这是近幾年来最高的增长比例。
+2016年7月17日，谷歌发布截至6月30日的2015财年第二季度财报显示，现在YouTube有超过15亿用户，世界上所有上网的人群中几乎有三分之一的人每天在YouTube合计耗費數亿小时的时间观看影片，现在YouTube的观看时间比過去增长60%，这是近幾年来最高的增长比例。
 
 截至2017年2月，YouTube每分鐘上傳的影片时长超过400小时，每天的观看时长达10亿小时。据[Alexa Internet报導](../Page/Alexa_Internet.md "wikilink")，截至2018年8月，YouTube被评为全球第二大热门网站。\[8\]
 
-2017年6月6日，《2017年BrandZ最具价值全球品牌100强》公布，YouTube名列第65位。
+2018年6月6日，《2017年BrandZ最具价值全球品牌100强》公布，YouTube名列第43位。
 
 ## 歷史
 
 ### 簡史
 
-[Youtubeheadquarters.jpg](https://zh.wikipedia.org/wiki/File:Youtubeheadquarters.jpg "fig:Youtubeheadquarters.jpg")的[圣布鲁诺](../Page/圣布鲁诺_\(加利福尼亚州\).md "wikilink")\]\] YouTube成立於2005年2月，由三名前[PayPal](../Page/PayPal.md "wikilink")僱員、[陳士駿](../Page/陳士駿.md "wikilink")、[賈德·卡林姆](../Page/賈德·卡林姆.md "wikilink")創辦；同年4月23日，YouTube第一部上傳影片標題為「我在動物園」。\[9\] 在為PayPal工作前，查德於[賓州印第安那大學學習設計](https://zh.wikipedia.org/wiki/賓州印第安那大學 "wikilink")，陳士駿和賈德則共同在[伊利諾大學厄巴納-香檳分校學習](../Page/伊利诺伊大学厄巴纳-香槟分校.md "wikilink")[電腦科學](../Page/计算机科学.md "wikilink")。
+[Youtubeheadquarters.jpg](https://zh.wikipedia.org/wiki/File:Youtubeheadquarters.jpg "fig:Youtubeheadquarters.jpg")的[圣布鲁诺](../Page/圣布鲁诺_\(加利福尼亚州\).md "wikilink")\]\] YouTube成立於2005年2月，由三名前[PayPal](../Page/PayPal.md "wikilink")僱員、[陳士駿](../Page/陳士駿.md "wikilink")、[賈德·卡林姆](../Page/賈德·卡林姆.md "wikilink")創辦；同年4月23日，YouTube第一部上傳影片標題為「周世勛」。\[9\] 在為PayPal工作前，查德於[賓州印第安那大學學習設計](https://zh.wikipedia.org/wiki/賓州印第安那大學 "wikilink")，陳士駿和賈德則共同在[伊利諾大學厄巴納-香檳分校學習](../Page/伊利诺伊大学厄巴纳-香槟分校.md "wikilink")[電腦科學](../Page/计算机科学.md "wikilink")。
 
 YouTube創辦的原意是為了方便朋友之間分享錄影片段，後來逐漸成為[網友的回憶儲存庫和作品發佈場所](../Page/网民.md "wikilink")。像許多以新技術創業的公司，YouTube開始時亦是以[天使投資者所創建的企業](https://zh.wikipedia.org/wiki/天使投資者 "wikilink")，而辦公室在也只在一間簡陋的車庫內。YouTube最早是藉由[風險投資進而發展的新興科技公司](../Page/风险投资.md "wikilink")，並從2005年11月自[紅杉資本](../Page/紅杉資本.md "wikilink")收到的350萬[美元](../Page/美元.md "wikilink")，2006年4月又自此額外拿到800萬美元，總計收到約1150萬美元的，[投資金額](https://zh.wikipedia.org/wiki/投資 "wikilink")。\[10\] 此外，YouTube的合夥人兼PayPal前任[首席財務官Roelof](https://zh.wikipedia.org/wiki/財務總監 "wikilink") Botha亦成為YouTube的[董事](../Page/董事.md "wikilink")，進行YouTube的營運管理。藉著這些，YouTube公司的資本在其剛開始的最初幾個月內，經歷巨大的成長。
 
@@ -515,108 +515,58 @@ YouTube自2008年開始，每年都會在網站上發布[愚人節玩笑](../Pag
   -
   - [YouTube統計資料](https://www.youtube.com/static?hl=zh-TW&template=press_statistics)
 
-  - [life sang DIY Channel](https://www.youtube.com/lifesang)
-
   -
   -
   -
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink") [Category:YouTube](https://zh.wikipedia.org/wiki/Category:YouTube "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:Firefox_OS軟體](https://zh.wikipedia.org/wiki/Category:Firefox_OS軟體 "wikilink") [Category:2005年建立的网站](https://zh.wikipedia.org/wiki/Category:2005年建立的网站 "wikilink") [Category:多語言網站](https://zh.wikipedia.org/wiki/Category:多語言網站 "wikilink") [Category:2005年在加利福尼亚州成立](https://zh.wikipedia.org/wiki/Category:2005年在加利福尼亚州成立 "wikilink")
 
 1.
-
 2.  [Me at the zoo](http://www.youtube.com/watch?v=jNQXAC9IVRw)  - YouTube
-
 3.
-
 4.
-
 5.  [YouTube HTML5 影片播放器](https://www.youtube.com/html5)
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14. 《YouTube掀全球短片熱 本世紀最旺網站「巴士阿叔」熱爆香江》，原載《[明報](../Page/明報.md "wikilink")》，2006年5月31日
-
 15. 《聯合報》：[〈台灣讚啦 YouTube中文版上線〉](http://fe1.udn.com/CAMPAIGN/market/200711/inpage961104.html)
-
 16.
-
 17.
-
 18. [YouTube成立12年後首次更改Logo](http://www.ithome.com.tw/news/116514)
-
 19.
-
 20.
-
 21.
 22. [Mmm mmm good - YouTube videos now served in WebM](http://youtube-global.blogspot.com/2011/04/mmm-mmm-good-youtube-videos-now-served.html)
-
 23. [YouTube力挺谷歌WebM开源视频格式](http://oss.org.cn/?action-viewnews-itemid-23794)
-
 24.
-
 25.
-
 26. [[链接=網民大投訴](https://zh.wikipedia.org/wiki/chrome-extension:/lcghoajegeldpfkfaejegfobkapnemjl/img/content-farm-marker.svg "wikilink")！在 Safari 看 YouTube 4K 影片卻不支援 4K！－流動日報](https://www.newmobilelife.com/2017/01/13/youtube-no-4k-in-safari/)
-
 27. [YouTube现在支持360度影片播放和上传了](http://tech.qq.com/a/20150314/032542.htm)
-
 28.
-
 29.
-
 30. [YouTube广告规定“基督徒”为敏感词](http://www.guancha.cn/internation/2019_07_26_511102.shtml)
-
 31. [搜尋恐怖主義的關鍵字](https://www.ettoday.net/news/20170721/971651.htm)
-
 32. [文匯-英超控YouTube侵權](http://paper.wenweipo.com/2007/05/06/GJ0705060017.htm)
-
 33.
-
 34. [维亚康姆诉YouTube的著作权](https://www.iolaw.org.cn/showNews.asp?id=23205)
-
 35. [YouTube運用“避風港”原則勝訴](http://ip.people.com.cn/BIG5/12626580.html)
-
 36. [谷歌旗下YouTube因侵犯儿童隐私被罚款1.7亿美元](https://www.voachinese.com/a/googles-youtube-video-site-fined-170-million-dollars-20190904/5070052.html)
-
 37.
-
 38. [YouTube枪击案嫌犯动机曝光：怨恨平台将其视频降级](http://tech.sina.com.cn/it/2018-04-04/doc-ifysuuya4551165.shtml) .新浪科技.\[2018-04-04\].
-
 39.
-
 40.
-
 41. [YouTube Taiwan Blog：歡慶YouTube 100歲！](http://youtubetwblog.blogspot.com/2011/04/youtube-100.html)
-
 42. [Youtube Collection](http://www.youtube.com/theyoutubecollection)
-
 43. [YouTube's ready to select a winner](http://www.youtube.com/watch?v=H542nLTTbu0) ，YouTube
-
 44. [YouTube Announces The Nominees For Best Video (Day 1)](http://www.youtube.com/watch?v=HGeMGqVKD6A) ，YouTube
-
 45. [YouTube Reveals Its Viral Secrets In April Fools' Day Video](http://www.huffingtonpost.com/2014/04/01/youtube-april-fools_n_5068694.html)
-
 46. [YouTube Announces Upcoming Viral Video Trends](http://www.youtube.com/watch?v=0YUbYohGMOg)
-
 47.
-
 48.
-
 49.
-
 50.

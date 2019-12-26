@@ -41,8 +41,6 @@ CD技術其後被用作儲存資料，稱為[CD-ROM](../Page/CD-ROM.md "wikilink
 
 ## 參看
 
-[光碟片的發展歷史.jpg](https://zh.wikipedia.org/wiki/File:光碟片的發展歷史.jpg "fig:光碟片的發展歷史.jpg")，[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")4.7G，[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")8.5G，[VCD](../Page/VCD.md "wikilink")，[錄影帶](https://zh.wikipedia.org/wiki/錄影帶 "wikilink")，[LD](https://zh.wikipedia.org/wiki/LD "wikilink")，[錄音帶](https://zh.wikipedia.org/wiki/錄音帶 "wikilink")\]\]
-
   - [DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")
   - [Blu-ray](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")
   - [HD-DVD](https://zh.wikipedia.org/wiki/HD-DVD "wikilink")

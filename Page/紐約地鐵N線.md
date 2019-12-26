@@ -228,7 +228,7 @@ N線沿[IND皇后林蔭路線](../Page/IND皇后林蔭路線.md "wikilink")前�
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/BMT海灘線" title="wikilink">BMT海灘線</a>（全線）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第八大道車站_(BMT海灘線)" title="wikilink">第八大道</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站_(BMT海灘線)" title="wikilink">康尼島-斯提威爾大道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/86街車站_(BMT海灘線)" title="wikilink">格雷夫森德-86街</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -839,7 +839,7 @@ N線沿[IND皇后林蔭路線](../Page/IND皇后林蔭路線.md "wikilink")前�
 <td></td>
 <td></td>
 <td></td>
-<td><p>康尼島方向列車因翻新不停靠此站直至2018年秋天。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -849,7 +849,7 @@ N線沿[IND皇后林蔭路線](../Page/IND皇后林蔭路線.md "wikilink")前�
 <td></td>
 <td><p><br />
 （<a href="../Page/BMT西城線.md" title="wikilink">BMT西城線</a>，<a href="https://zh.wikipedia.org/wiki/62街車站_(BMT西城線)" title="wikilink">62街</a>）</p></td>
-<td><p>康尼島方向列車因翻新不停靠此站直至2018年秋天。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -858,7 +858,7 @@ N線沿[IND皇后林蔭路線](../Page/IND皇后林蔭路線.md "wikilink")前�
 <td></td>
 <td></td>
 <td></td>
-<td><p>康尼島方向列車因翻新不停靠此站直至2018年秋天。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -867,7 +867,7 @@ N線沿[IND皇后林蔭路線](../Page/IND皇后林蔭路線.md "wikilink")前�
 <td></td>
 <td></td>
 <td></td>
-<td><p>康尼島方向列車因翻新不停靠此站直至2018年秋天。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -885,7 +885,7 @@ N線沿[IND皇后林蔭路線](../Page/IND皇后林蔭路線.md "wikilink")前�
 <td></td>
 <td></td>
 <td></td>
-<td><p>康尼島方向列車因翻新不停靠此站直至2018年秋天。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -894,18 +894,16 @@ N線沿[IND皇后林蔭路線](../Page/IND皇后林蔭路線.md "wikilink")前�
 <td></td>
 <td></td>
 <td></td>
-<td><p>康尼島方向列車因翻新不停靠此站直至2018年秋天。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/86街車站_(BMT海灘線)" title="wikilink">86街</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/86街車站_(BMT海灘線)" title="wikilink">格雷夫森德-86街</a></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>早上繁忙時段部分南行列車以此站為總站<br />
-繁忙時段部分北行列車自此站起載<br />
-康尼島方向列車因翻新不停靠此站直至2018年秋天。</p></td>
+<td><p>因康尼島車廠進行防洪工作，N線列車以此站作為尾站直至2020年春季。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -916,7 +914,7 @@ N線沿[IND皇后林蔭路線](../Page/IND皇后林蔭路線.md "wikilink")前�
 <td><p>（<a href="../Page/BMT西城線.md" title="wikilink">BMT西城線</a>）<br />
 （<a href="https://zh.wikipedia.org/wiki/IND卡爾弗線" title="wikilink">IND卡爾弗線</a>）<br />
 （<a href="https://zh.wikipedia.org/wiki/BMT布萊頓線" title="wikilink">BMT布萊頓線</a>）</p></td>
-<td></td>
+<td><p>因康尼島車廠進行防洪工作，N線列車以<a href="https://zh.wikipedia.org/wiki/86街車站_(BMT海灘線)" title="wikilink">格雷夫森德-86街作尾站直至</a>2020年春季。</p></td>
 </tr>
 </tbody>
 </table>
@@ -934,13 +932,8 @@ N線沿[IND皇后林蔭路線](../Page/IND皇后林蔭路線.md "wikilink")前�
 [Category:紐約地鐵服務路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵服務路線 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.

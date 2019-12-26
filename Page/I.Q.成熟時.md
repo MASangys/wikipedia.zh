@@ -1,8 +1,8 @@
 **《I.Q.成熟時》** 是[香港](../Page/香港.md "wikilink")[麗的電視](https://zh.wikipedia.org/wiki/麗的電視 "wikilink")1980年代的青春[愛情](../Page/愛情.md "wikilink")[廣東話](https://zh.wikipedia.org/wiki/廣東話 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。1981年6月8日晚上七時零五分首播，共有20集。本劇播出後很受歡迎，收視高於無綫同時段同屬青春劇的劇集《[荳芽夢](../Page/荳芽夢.md "wikilink")》，成功打破翡翠台的[慣性收視](../Page/慣性收視.md "wikilink")，成為麗的電視經典劇集之一。
 
-## 背景
+## 製作背景
 
-[麗的電視承接由](https://zh.wikipedia.org/wiki/麗的電視 "wikilink")[鍾保羅](../Page/鍾保羅.md "wikilink")、[莊靜而](../Page/莊靜而.md "wikilink")、[蔡楓華](../Page/蔡楓華.md "wikilink")主演，同年2月首播的青春愛情電視劇集《[青春三重奏](../Page/青春三重奏.md "wikilink")》的餘威，開拍新的校園劇。 《[青春三重奏](../Page/青春三重奏.md "wikilink")》的部分演員如[吳回和](../Page/吳回_\(香港\).md "wikilink")[楊詩蒂](../Page/楊詩蒂.md "wikilink")均有參與此劇。
+[麗的電視承接由](https://zh.wikipedia.org/wiki/麗的電視 "wikilink")[鍾保羅](../Page/鍾保羅.md "wikilink")、[莊靜而](../Page/莊靜而.md "wikilink")、[蔡楓華](../Page/蔡楓華.md "wikilink")主演，挾着同年2月首播的青春愛情電視劇集《[青春三重奏](../Page/青春三重奏.md "wikilink")》的餘威，開拍新的校園劇。 《[青春三重奏](../Page/青春三重奏.md "wikilink")》的部分演員如[吳回和](../Page/吳回_\(香港\).md "wikilink")[楊詩蒂](../Page/楊詩蒂.md "wikilink")均有參與此劇。
 
 ## 劇情大綱
 
@@ -78,7 +78,7 @@
 ## 外部参考
 
   - [IQ成熟人面全非 那時那地那人：鄧藹霖痛惜鍾保羅、蔡楓華](http://hk.apple.nextmedia.com/entertainment/art/20070417/7008172)
-  - [《I.Q.成熟時》此劇出現的香港電視劇時代背景](http://bbs.ent.163.com/tvb/188492,0,50,0,40,2.html)
+  - [《I.Q.成熟時》此劇出現的香港電視劇時代背景](https://web.archive.org/web/20070525173222/http://bbs.ent.163.com/tvb/188492,0,50,0,40,2.html)
   - [I.Q.成熟時2007](http://hejnom.blogspot.com/2007_04_07_archive.html)
   - [周星馳 處男演出@麗的電視 I.Q.成熟時 1981](http://www.youtube.com/watch?v=rIq9U0HB7KA)
   - [周星馳同學@IQ成熟時](https://www.youtube.com/watch?v=Ni6qUje1R14)

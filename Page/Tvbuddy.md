@@ -1,6 +1,6 @@
 [Tvbuddy.png](https://zh.wikipedia.org/wiki/File:Tvbuddy.png "fig:Tvbuddy.png")
 
-**tvbuddy**\[1\]是[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")（無綫電視）的人型立體[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")。無綫官方表示，tvbuddy的「任務」有四個：「帶歡喜給大家」、「宣傳無綫電視的節目」、「講述[高清電視的發展](https://zh.wikipedia.org/wiki/高清電視 "wikilink")」、「宣揚[08北京奧運](https://zh.wikipedia.org/wiki/2008年夏季奥林匹克运动会 "wikilink")」。
+**tvbuddy**\[1\]是[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")（無綫電視）的人型立體[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")。無綫官方表示，tvbuddy的「任務」有四個：「帶歡喜給大家」、「宣傳無綫電視的節目」、「講述[高清電視的發展](https://zh.wikipedia.org/wiki/高清電視 "wikilink")」、「宣揚[08北京奧運](../Page/2008年夏季奥林匹克运动会.md "wikilink")」。
 
 ## 歷史
 

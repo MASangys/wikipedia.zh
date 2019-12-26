@@ -57,4 +57,4 @@ NScripter本身只支援Windows，不過相容度極高非官方的[ONScripter�
 
   - [ONScripter](http://onscripter.sourceforge.jp/onscripter.html) - 一個可執行NScripter語法的跨平台程式
 
-[Category:遊戲引擎](https://zh.wikipedia.org/wiki/Category:遊戲引擎 "wikilink") [Category:遊戲製作軟件](https://zh.wikipedia.org/wiki/Category:遊戲製作軟件 "wikilink")
+[Category:遊戲引擎](https://zh.wikipedia.org/wiki/Category:遊戲引擎 "wikilink") [Category:電子遊戲開發軟件](https://zh.wikipedia.org/wiki/Category:電子遊戲開發軟件 "wikilink")

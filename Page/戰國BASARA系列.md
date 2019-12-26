@@ -6,6 +6,8 @@ BASARA在[日語可解作](https://zh.wikipedia.org/wiki/日語 "wikilink")**[�
 
 2014年7月5日於日本電視台播放《**戰國BASARA：Judge End**》，連同製作小組的人員也大幅更換。
 
+2019年6月24日推出[Android](../Page/Android.md "wikilink")與[iOS雙平台手機遊戲](https://zh.wikipedia.org/wiki/iOS "wikilink")《**戰國BASARA 戰鬥派對**》\[1\]。
+
 ## 概要
 
 以日本的[戰國時代作為舞台](https://zh.wikipedia.org/wiki/戰國_\(日本\) "wikilink")，[第三人稱](https://zh.wikipedia.org/wiki/汉语人称代词#第三人称 "wikilink")[視角](../Page/視角.md "wikilink")的[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。遊戲風格與[戰國無雙](../Page/戰國無雙.md "wikilink")非常相似，不過具有[惡搞和](https://zh.wikipedia.org/wiki/惡搞 "wikilink")[現代的要素](https://zh.wikipedia.org/wiki/現代 "wikilink")，很多人將兩個作品作為比較。在遊戲裡的各種舞台、人物設定作了許多大膽地修改，塑造出非常有趣且顛覆歷史的劇情。
@@ -97,7 +99,7 @@ BASARA在[日語可解作](https://zh.wikipedia.org/wiki/日語 "wikilink")**[�
 | [伊達政宗](../Page/伊達政宗.md "wikilink")                        | [中井和哉](../Page/中井和哉.md "wikilink")                                    | [武士刀](https://zh.wikipedia.org/wiki/武士刀 "wikilink")×6                            | 亞拉斯特爾→排氣管→球棒              | 奥州筆頭      | 雷   | ○  | ○  | ○  | ○  | ○  | ○  | ○  | ○  | ○  | ○      |
 | [真田幸村](https://zh.wikipedia.org/wiki/真田幸村 "wikilink")     | [保志總一朗](../Page/保志總一朗.md "wikilink")                                  | [槍](../Page/槍.md "wikilink")×2                                                   | 斯巴達→火柴棒→掏耳棒               | 天霸絶槍      | 炎   | ○  | ○  | ○  | ○  | ○  | ○  | ○  | ○  | ○  | ○      |
 | [織田信長](../Page/織田信長.md "wikilink")                        | [若本規夫](../Page/若本規夫.md "wikilink")                                    | [劍](../Page/劍.md "wikilink")+[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink") | 紙扇→卒塔婆→加油棒                | 征天魔王      | 闇   | ○  | ○  | ○  | ○  | ○  | ○  | ○  | ○  | ○  | ○      |
-| [猿飛佐助](../Page/猿飛佐助.md "wikilink")                        | [子安武人](../Page/子安武人.md "wikilink")                                    | [手裏劍](https://zh.wikipedia.org/wiki/手裏劍 "wikilink")×2                            | 黑膠唱片→BASARA一代的遊戲光碟→棒棒糖→拉麵 | 蒼天疾駆      | 闇   | ○  | ○  | ○  | □  | ○  | □  | ○  | ○  | ○  | ○      |
+| [猿飛佐助](../Page/猿飛佐助.md "wikilink")                        | [子安武人](../Page/子安武人.md "wikilink")                                    | [手裏劍](../Page/手裏劍.md "wikilink")×2                                               | 黑膠唱片→BASARA一代的遊戲光碟→棒棒糖→拉麵 | 蒼天疾駆      | 闇   | ○  | ○  | ○  | □  | ○  | □  | ○  | ○  | ○  | ○      |
 | [濃姬](../Page/濃姬.md "wikilink")                            | [日野由利加](../Page/日野由利加.md "wikilink")                                  | [手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")×2                              | 黑檀+象牙                     | 繚乱無比      | 炎   | ○  | ○  | ○  | □  | ○  | ■  | ○  | ■  | ●  | ●      |
 | [上杉謙信](../Page/上杉謙信.md "wikilink")                        | [朴璐美](../Page/朴璐美.md "wikilink")                                      | [長刀](https://zh.wikipedia.org/wiki/長刀 "wikilink")（居合）                            | 花束→天鵝                     | 神速聖将      | 氷   | ○  | ○  | ○  | ○  | ○  | □  | ○  | ○  | □  | ○      |
 | かすが(春日)                                                   | [桑谷夏子](../Page/桑谷夏子.md "wikilink")                                    | 輪宝→[苦無](https://zh.wikipedia.org/wiki/苦無 "wikilink")×8                           | 釣餌→溜溜球                    | 月下為君      | 闇→光 | ○  | ○  | ○  | □  | ○  | □  | ○  | ○  | □  | ○      |
@@ -123,7 +125,7 @@ BASARA在[日語可解作](https://zh.wikipedia.org/wiki/日語 "wikilink")**[�
 | [淺井長政](../Page/淺井長政.md "wikilink")                        | [辻谷耕史](../Page/辻谷耕史.md "wikilink")                                    | 刀                                                                                | 油紙傘→交通指揮棒                 | 信義不倒      | 光   | ■  | □  | ○  | □  | ○  | ■  | ○  | ■  | ○  | ○      |
 | [阿市](../Page/阿市.md "wikilink")                            | [能登麻美子](../Page/能登麻美子.md "wikilink")                                  | 双頭薙刀→魔手                                                                          | 稻草人→淺井娃娃的魔手→骨手            | 幻妖言惑      | 闇   | ■  | □  | ○  | ○  | ○  | ○  | ○  | ○  | ○  | ○      |
 | [本願寺顯如](https://zh.wikipedia.org/wiki/本願寺顯如 "wikilink")   | [辻親八](../Page/辻親八.md "wikilink")                                      | 錫杖                                                                               | 啞鈴                        | 信財成皇      | 雷→光 | ■  | □  | ○  | ■  | ○  | ■  | ○  | ■  | ■  | ■      |
-| [宮本武藏](../Page/宮本武藏.md "wikilink")                        | [浪川大輔](../Page/浪川大輔.md "wikilink")                                    | 櫂&[木刀](../Page/木刀.md "wikilink")                                                 | 鐵棒+鐵棍                     | 天驚動地      | 無   | ■  | ○  | ○  | ■  | ○  | ■  | ○  | ■  | ■  | □\[1\] |
+| [宮本武藏](../Page/宮本武藏.md "wikilink")                        | [浪川大輔](../Page/浪川大輔.md "wikilink")                                    | 櫂&[木刀](../Page/木刀.md "wikilink")                                                 | 鐵棒+鐵棍                     | 天驚動地      | 無   | ■  | ○  | ○  | ■  | ○  | ■  | ○  | ■  | ■  | □\[2\] |
 | [松永久秀](../Page/松永久秀.md "wikilink")                        | [藤原啟治](../Page/藤原啟治.md "wikilink")                                    | 宝刀＆[火藥](https://zh.wikipedia.org/wiki/火藥 "wikilink")                             | 宴會用蠟燭→點火槍                 | 天我獨尊      | 炎   | ■  | ■  | □  | ■  | □  | ■  | □  | ○  | ○  | ○      |
 | [石田三成](../Page/石田三成.md "wikilink")                        | [關智一](../Page/關智一.md "wikilink")                                      | 刀                                                                                | 魔術棒→網球拍                   | 君子殉凶      | 闇   | ■  | ■  | ■  | ■  | ■  | ○  | ○  | ○  | ○  | ○      |
 | [大谷吉繼](../Page/大谷吉繼.md "wikilink")                        | [立木文彥](https://zh.wikipedia.org/wiki/立木文彥 "wikilink")                 | [念珠](../Page/念珠.md "wikilink")                                                   | 暖爐桌→幽靈船                   | 寥星跋扈      | 闇   | ■  | ■  | ■  | ■  | ■  | ○  | ■  | ○  | ○  | ○      |
@@ -301,6 +303,13 @@ CAPCOM於2007年11月29日發售的系列新作，同時發售在Wii和PS2兩個
     2016年8月25日發售
     本作追加新武將為真田昌幸和真田信之，以及少年時期的幸村（弁丸）和政宗（梵天丸）
     本作有進行中文化，是戰國BASARA系列中第一款中文化的遊戲。
+
+### 戰國BASARA 戰鬥派對
+
+  -
+    2019年6月24日\[3\]，於[Android](../Page/Android.md "wikilink")與[iOS同時開始營運的手機遊戲](https://zh.wikipedia.org/wiki/iOS "wikilink")
+    以操作六角陣列發動常態攻擊，遊戲主旨為「目標！戰國最頂峰！」（目指せ！TOP OF THE 戦国！！）
+    根據過往家用版設定，額外追加了部分的極稀有派生武將，另有別於家用版的各種特殊模式，同時部分物品為[課金制](https://zh.wikipedia.org/wiki/課金 "wikilink")
 
 ## 電視動畫
 
@@ -641,11 +650,11 @@ CAPCOM於2007年11月29日發售的系列新作，同時發售在Wii和PS2兩個
 
 原作來自卡普空出版的漫畫合輯『學園BASARA』。這次電視動畫版也同樣是來自於這本合輯的內容，声優也與『戰國～』大致相同，主題曲同樣與過去系列作品一樣，由西川貴教負責。（這也是西川從2018年起，首度以本人名義發售單曲，而非以T.M.Revolution的名義）。
 
-另外電視動畫版再次在TBS系列中播出，但本次由[TBS主導](../Page/TBS電視台.md "wikilink")，預計2018年10月播映\[2\]。然後製作公司・主要的工作人員也與以前的『戰國～』系列不同。
+另外電視動畫版再次在TBS系列中播出，但本次由[TBS主導](../Page/TBS電視台.md "wikilink")，預計2018年10月播映\[4\]。然後製作公司・主要的工作人員也與以前的『戰國～』系列不同。
 
 ##### 工作人員（學園）
 
-  - 原作 - CAPCOM（「學園BASARA」）\[3\]
+  - 原作 - CAPCOM（「學園BASARA」）\[5\]
   - 原作監修 - 小林裕幸・山本真（CAPCOM）
   - 導演- 大原実
   - 系列構成 - 三浦浩児
@@ -757,7 +766,7 @@ CAPCOM於2007年11月29日發售的系列新作，同時發售在Wii和PS2兩個
 
   - 主題曲『』
     作詞：君島零，作曲：遠藤和斗、深澤祐貴，編曲：遠藤和斗、久下真音，主唱：EIGHT OF TRIANGLE
-  - 片尾曲『Be Affected』\[4\]
+  - 片尾曲『Be Affected』\[6\]
     作詞、作曲、編曲：[Fear, and Loathing in Las Vegas](../Page/Fear,_and_Loathing_in_Las_Vegas.md "wikilink")，主唱：[西川貴教與Fear](https://zh.wikipedia.org/wiki/西川貴教 "wikilink"), and Loathing in Las Vegas
 
 ##### 各話列表（學園）
@@ -1151,7 +1160,7 @@ CAPCOM於2007年11月29日發售的系列新作，同時發售在Wii和PS2兩個
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第十三話[5]</p></td>
+<td><p>第十三話[7]</p></td>
 <td></td>
 <td><p>瀨戶內激戰-噴火的海上大要塞・富嶽！！</p></td>
 <td><p>板垣伸</p></td>
@@ -1300,7 +1309,7 @@ CAPCOM於2007年11月29日發售的系列新作，同時發售在Wii和PS2兩個
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第十三話[6]</p></td>
+<td><p>第十三話[8]</p></td>
 <td><p>竜虎、頂の誓い! 熱き未来へ駆ける魂</p></td>
 <td></td>
 <td><p>龍虎，至上誓言！奔向灼熱未來的靈魂！！</p></td>
@@ -1620,7 +1629,7 @@ CAPCOM於2007年11月29日發售的系列新作，同時發售在Wii和PS2兩個
 
 《戰國BASARA -The Last Party-》2011年6月4日，劇場版於日本當地上映；半年後開始販售DVD。
 
-而在2012年[台北國際書展](../Page/台北國際書展.md "wikilink")，由台灣代理商曼迪傳播先行舉辦座談會，之後2012年3月2日在台灣上映\[7\]。
+而在2012年[台北國際書展](../Page/台北國際書展.md "wikilink")，由台灣代理商[曼迪傳播](../Page/曼迪傳播.md "wikilink")先行舉辦座談會，之後2012年3月2日在台灣上映\[9\]。
 
 ## 電視劇
 
@@ -1942,6 +1951,8 @@ CAPCOM於2007年11月29日發售的系列新作，同時發售在Wii和PS2兩個
 
   - [戰國BASARA 真田幸村傳官方網站（CAPCOM）](http://www.capcom.co.jp/basara_yukimuraden/)
 
+  - [戰國BASARA 戰鬥派對官方網站（CAPCOM）](https://basara-bp.capcom-s.jp/lp/)
+
 <!-- end list -->
 
   - 動畫
@@ -1976,12 +1987,14 @@ CAPCOM於2007年11月29日發售的系列新作，同時發售在Wii和PS2兩個
 
   - [戰國BASARA -MOONLIGHT PARTY-」官方網站（BS-TBS）](http://www.bs-tbs.co.jp/app/program_details/index/DRT1206800)
 
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:卡普空遊戲](https://zh.wikipedia.org/wiki/Category:卡普空遊戲 "wikilink") [Category:Jump_Square](https://zh.wikipedia.org/wiki/Category:Jump_Square "wikilink") [Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink") [Category:對戰動作遊戲](https://zh.wikipedia.org/wiki/Category:對戰動作遊戲 "wikilink") [Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:2009年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2009年TBS電視網動畫 "wikilink") [Category:2010年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年TBS電視網動畫 "wikilink") [Category:2012年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年日本電視劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:日本战国时代背景电子游戏](https://zh.wikipedia.org/wiki/Category:日本战国时代背景电子游戏 "wikilink") [Category:日本特摄电影](https://zh.wikipedia.org/wiki/Category:日本特摄电影 "wikilink") [Category:每日放送製作的電影](https://zh.wikipedia.org/wiki/Category:每日放送製作的電影 "wikilink") [Category:戰國時代背景電影_(日本)](https://zh.wikipedia.org/wiki/Category:戰國時代背景電影_\(日本\) "wikilink") [Category:VAP動畫作品](https://zh.wikipedia.org/wiki/Category:VAP動畫作品 "wikilink") [Category:AcFun外购动画](https://zh.wikipedia.org/wiki/Category:AcFun外购动画 "wikilink")
+[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:卡普空遊戲](https://zh.wikipedia.org/wiki/Category:卡普空遊戲 "wikilink") [Category:Jump_Square](https://zh.wikipedia.org/wiki/Category:Jump_Square "wikilink") [Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink") [Category:對戰動作遊戲](https://zh.wikipedia.org/wiki/Category:對戰動作遊戲 "wikilink") [Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:2009年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2009年TBS電視網動畫 "wikilink") [Category:2010年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年TBS電視網動畫 "wikilink") [Category:2012年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年日本電視劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:日本战国时代背景电子游戏](https://zh.wikipedia.org/wiki/Category:日本战国时代背景电子游戏 "wikilink") [Category:日本特摄电影](https://zh.wikipedia.org/wiki/Category:日本特摄电影 "wikilink") [Category:每日放送製作的電影](https://zh.wikipedia.org/wiki/Category:每日放送製作的電影 "wikilink") [Category:戰國時代背景電影_(日本)](https://zh.wikipedia.org/wiki/Category:戰國時代背景電影_\(日本\) "wikilink") [Category:VAP動畫作品](https://zh.wikipedia.org/wiki/Category:VAP動畫作品 "wikilink") [Category:AcFun外购动画](https://zh.wikipedia.org/wiki/Category:AcFun外购动画 "wikilink") [Category:時代劇動畫](https://zh.wikipedia.org/wiki/Category:時代劇動畫 "wikilink")
 
-1.  輪盤指針停在骷髏格時出現的天罰
-2.
+1.
+2.  輪盤指針停在骷髏格時出現的天罰
 3.
 4.
-5.  TV未播放，收錄於DVD第七卷之OVA
-6.  和第一季同樣是TV未播放，收錄於DVD第七卷之OVA
-7.  [【書展 12】《戰國BASARA》《蘋果核戰》書展座談會及上映日確定](http://news.chinatimes.com/tech/171710/172012011400522.html)
+5.
+6.
+7.  TV未播放，收錄於DVD第七卷之OVA
+8.  和第一季同樣是TV未播放，收錄於DVD第七卷之OVA
+9.

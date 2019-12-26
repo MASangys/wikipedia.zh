@@ -239,7 +239,7 @@
 | 真島 左京（聲優：[鈴村健一](../Page/鈴村健一.md "wikilink")）                          | 鮑索火箭號 (Borzoi Raketa)  | 火箭號2 (Raketa 2)           |
 | 大善 一馬（聲優：[宮崎一成](https://zh.wikipedia.org/wiki/宮崎一成 "wikilink")）       | 彩虹紅光號 (Red Sword)      |                           |
 | 大善 力（聲優：[小田木美惠](https://zh.wikipedia.org/wiki/小田木美惠 "wikilink")）      | 彩虹藍光號 (Blue Sword)     |                           |
-| 服部 龍平（聲優：[野田順子](https://zh.wikipedia.org/wiki/野田順子 "wikilink")）       | 超級前衛者 (Super Avante)   | 風暴巡曳號 (Storm Cruiser)     |
+| 服部 龍平（聲優：[野田順子](../Page/野田順子.md "wikilink")）                          | 超級前衛者 (Super Avante)   | 風暴巡曳號 (Storm Cruiser)     |
 | 楠 大吾（聲優：[高乃麗](../Page/高乃麗.md "wikilink")）                             | GBS方程式 (GBS Formula)   |                           |
 
 ## 主題曲

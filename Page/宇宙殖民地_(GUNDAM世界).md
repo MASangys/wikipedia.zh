@@ -1,6 +1,8 @@
 [Spacecolony1.jpg](https://zh.wikipedia.org/wiki/File:Spacecolony1.jpg "fig:Spacecolony1.jpg") [機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")世界中的**宇宙殖民地**（又譯為**殖民衛星**或音譯為**科羅尼**，香港譯為殖民星），是建設在[拉格朗日点](../Page/拉格朗日点.md "wikilink")周邊的[宇宙殖民地](../Page/宇宙殖民地.md "wikilink")群體與小行星基地（自[小行星帶拖曳而來](https://zh.wikipedia.org/wiki/小行星帶 "wikilink")）。
 
-大部分在動畫中的人工建設的殖民地，是參考現實的[O'Neill cylinder](https://en.wikipedia.org/wiki/O%27Neill_cylinder)島三型太空殖民地。為直徑6公里，長30～40公里的圓柱狀結構，以每兩分鐘一圈的速度自轉以形成人工[重力](https://zh.wikipedia.org/wiki/重力 "wikilink")。外殼分為兩種，一種是一半外壁透明，由外面的集光板收集陽光的開放式。此種能改變集光板上面的鏡面來改變殖民星內的日夜。另一種為封閉式的，此種把所有外壁都作為居住區，沒有透明部份，居住區面積為半透明版本同長度的兩倍。使用在沒有太陽照射的地方。（UC中是使用在月球背後L2的Side 3上面）要注意的是，雖然同長度的話後者是能住兩倍的人數，但是Side 3的殖民星長度大都是開放式的一半，因此居住人數沒有特別多。另外，每個宇宙殖民地的設定居住人口約為島三型太空殖民地設計目標人口的三倍，所以宇宙殖民地的人口密度應該非常高。
+大部分在動畫中的人工建設的殖民地，是參考現實的[O'Neill cylinder](https://en.wikipedia.org/wiki/O%27Neill_cylinder)島三型太空殖民地。例如在[宇宙世紀](../Page/宇宙世紀.md "wikilink")、[機動新世紀鋼彈 X](https://zh.wikipedia.org/wiki/機動新世紀鋼彈_X "wikilink")、[機動戰士GUNDAM AGE的背景](../Page/機動戰士GUNDAM_AGE.md "wikilink")，壓倒性地以這種為主。
+
+基本外形是為直徑6公里長30～40公里的圓柱狀結構，以每兩分鐘一圈的速度自轉以形成人工[重力](https://zh.wikipedia.org/wiki/重力 "wikilink")。外殼分為兩種，一種是一半外壁透明，由外面的集光板收集陽光的開放式。此種能改變集光板上面的鏡面來改變殖民星內的日夜。另一種為封閉式的，此種把所有外壁都作為居住區，沒有透明部份，居住區面積為半透明版本同長度的兩倍。使用在沒有太陽照射的地方。（UC中是使用在月球背後L2的Side 3上面）要注意的是，雖然同長度的話後者是能住兩倍的人數，但是Side 3的殖民星長度大都是開放式的一半，因此居住人數沒有特別多。另外，每個宇宙殖民地的設定居住人口約為島三型太空殖民地設計目標人口的三倍，所以宇宙殖民地的人口密度應該非常高。
 
 實際上尚有其他類型太空殖民地，如[新機動戰記GUNDAM W主要是放大的島二型環狀都市](../Page/新機動戰記GUNDAM_W.md "wikilink")，和[機動戰士GUNDAM SEED主要是沙漏型](../Page/機動戰士GUNDAM_SEED.md "wikilink")[P.L.A.N.T.](https://zh.wikipedia.org/wiki/P.L.A.N.T. "wikilink")。甚至同一作品中也同時有多種類型的太空殖民地，如UC中的[機動戰士GUNDAM ZZ和](../Page/機動戰士GUNDAM_ZZ.md "wikilink")[機動戰士V GUNDAM球狀的島一型穆月和Blue](../Page/機動戰士V_GUNDAM.md "wikilink") 3，[機動戰士GUNDAM SEED中也有岛三型太空殖民地Heliopolis](../Page/機動戰士GUNDAM_SEED.md "wikilink")（太阳之都），而在[機動武鬥傳G GUNDAM或](../Page/機動武鬥傳G_GUNDAM.md "wikilink")[機動戰士GUNDAM 00中的太空殖民地是由各國度身訂造的](../Page/機動戰士GUNDAM_00.md "wikilink")。
 
@@ -115,13 +117,13 @@
 <!-- end list -->
 
   -
-    [新吉翁據點](https://zh.wikipedia.org/wiki/新吉翁 "wikilink")，葛雷米叛變時與[阿克西斯](../Page/阿克西斯.md "wikilink")撞擊而破壞（[機動戰士GUNDAM ZZ第](../Page/機動戰士GUNDAM_ZZ.md "wikilink")46話）
+    [新吉翁據點](https://zh.wikipedia.org/wiki/新吉翁 "wikilink")，葛雷米叛變時與[阿克西斯](../Page/阿克西斯.md "wikilink")撞擊而破壞\[1\]
 
 #### 阿·巴瓦·空（A Baoa Qu）
 
-0079年6月，吉翁公國所屬的兩個小行星礦場在L2組合成宇宙要塞，由總帥[基連·薩比](https://zh.wikipedia.org/wiki/基連·薩比 "wikilink")（Guillen Zabi）坐陣指揮；為Side3本土最終防衛據點。擁有多數對空陣地及含超大型Dras級空母兩艘在內的駐留艦隊。與格拉那達（Granada）、所羅門（Solomon）共稱吉翁公國的最終防衛線。初代鋼彈的決戰在此登場。（[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")第42,43話）命名由來是印度傳說中的幻獸，必須登上「勝利之塔」的最上層才能見到；而勝利之塔除非是達到神佛的境界否則無法登上。基連以此表示自己的崇高。
+0079年6月，吉翁公國所屬的兩個小行星礦場在L2組合成宇宙要塞，由總帥[基連·薩比](https://zh.wikipedia.org/wiki/基連·薩比 "wikilink")（Guillen Zabi）坐陣指揮；為Side3本土最終防衛據點。擁有多數對空陣地及含超大型Dras級空母兩艘在內的駐留艦隊。與格拉那達（Granada）、所羅門（Solomon）共稱吉翁公國的最終防衛線。初代鋼彈的決戰在此登場。\[2\]命名由來是印度傳說中的幻獸，必須登上「勝利之塔」的最上層才能見到；而勝利之塔除非是達到神佛的境界否則無法登上。基連以此表示自己的崇高。
 
-戰後被[迪坦斯搬運至拉格朗日三號宙域](https://zh.wikipedia.org/wiki/迪坦斯 "wikilink")，與格利普斯II並稱為「捷旦之門」（The Gate of Zedan），0088.01.18遭[新吉翁軍以](https://zh.wikipedia.org/wiki/新吉翁 "wikilink")[阿克西斯](../Page/阿克西斯.md "wikilink")本體衝撞而分裂成兩半。（[機動戰士Z GUNDAM第](../Page/機動戰士Z_GUNDAM.md "wikilink")45話）
+戰後被[迪坦斯搬運至拉格朗日三號宙域](https://zh.wikipedia.org/wiki/迪坦斯 "wikilink")，與格利普斯II並稱為「捷旦之門」（The Gate of Zedan），0088.01.18遭[新吉翁軍以](https://zh.wikipedia.org/wiki/新吉翁 "wikilink")[阿克西斯](../Page/阿克西斯.md "wikilink")本體衝撞而分裂成兩半。\[3\]
 
 ### 拉格朗日三號宙域
 
@@ -152,7 +154,7 @@
 
 #### 月神二號（Lunar Ⅱ）
 
-0045年為了提供建設各殖民地的岩石與礦物資源，而從小行星帶運來的小行星。原稱尤諾，60年代更名為月神二號聯邦建設為軍事基地，防止吉翁的行動；在0070年12月移至L3軌道。是一年戰爭中[地球聯邦軍最大的宇宙基地及宇宙反攻作戰的據點](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")；有大規模的MS生產設施。（[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")第4話）U.C.0093年3月連同儲存的核武遭詐降的新吉翁軍奪取。
+0045年為了提供建設各殖民地的岩石與礦物資源，而從小行星帶将[婚神星](../Page/婚神星.md "wikilink")运送至[月球轨道](https://zh.wikipedia.org/wiki/月球轨道 "wikilink")，60年代更名為月神二號并由地球联邦军建設為軍事基地\[4\]。用以防范吉翁的行動；在0070年12月移至L3軌道。是一年戰爭中[地球聯邦軍最大的宇宙基地及宇宙反攻作戰的據點](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")；有大規模的MS生產設施。\[5\]U.C.0093年3月連同儲存的核武遭詐降的新吉翁軍奪取。
 
 ### 拉格朗日四號宙域
 
@@ -260,7 +262,7 @@
 <!-- end list -->
 
   -
-    [阿姆羅的父親提姆](https://zh.wikipedia.org/wiki/阿姆羅 "wikilink")·雷在Side7失蹤後輾轉流浪至此（[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")第33話）。[一年战争](../Page/一年战争.md "wikilink")后期[联邦军](https://zh.wikipedia.org/wiki/地球联邦军 "wikilink")[飞马级战舰](https://zh.wikipedia.org/wiki/飞马级 "wikilink")“[白色基地](../Page/白色基地.md "wikilink")”曾经短暂停留于此地，出港后单舰与[吉恩军高斯剛舰队交战并在](https://zh.wikipedia.org/wiki/吉恩公国 "wikilink")3分钟内将其全灭。战斗画面被殖民地的新闻媒体拍摄并广播至这个地球圈，战时舆论和外交形势开始全面倒向联邦一侧。
+    [阿姆羅的父親提姆](https://zh.wikipedia.org/wiki/阿姆羅 "wikilink")·雷在Side7失蹤後輾轉流浪至此\[6\]。[一年战争](../Page/一年战争.md "wikilink")后期[联邦军](https://zh.wikipedia.org/wiki/地球联邦军 "wikilink")[飞马级战舰](https://zh.wikipedia.org/wiki/飞马级 "wikilink")“[白色基地](../Page/白色基地.md "wikilink")”曾经短暂停留于此地，出港后单舰与[吉恩军高斯剛舰队交战并在](https://zh.wikipedia.org/wiki/吉恩公国 "wikilink")3分钟内将其全灭。战斗画面被殖民地的新闻媒体拍摄并广播至这个地球圈，战时舆论和外交形势开始全面倒向联邦一侧。
 
 <!-- end list -->
 
@@ -359,7 +361,7 @@
 <!-- end list -->
 
   -
-    被忘卻的第一世代宇宙殖民地（[機動戰士GUNDAM ZZ第](../Page/機動戰士GUNDAM_ZZ.md "wikilink")14話）
+    被忘卻的第一世代宇宙殖民地\[7\]
 
 <!-- end list -->
 
@@ -454,11 +456,22 @@
 
 ### 宇宙紀元CE（GUNDAM SEED系列）
 
-  - Heliopolis（海利歐波里斯）
-      -
-        在[機動戰士GUNDAM_SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")第3話「崩壞的大地」之中，因自轉軸被擊毀而碎裂。
   - Junius 7
       -
         CE73一群忠於ZAFT前議長柏德·察拉的[ZAFT部隊把直徑](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED系列世界觀與設定#ZAFT "wikilink")10公里的Junius 7的殘骸作為巨大質量彈使用，被擊破後碎片散落地球赤道一帶，使得自然人和[協調者之間的戰爭重新開始](https://zh.wikipedia.org/wiki/调整者_\(GUNDAM\) "wikilink")。
 
+## 参考资料
+
+<div class="references-small">
+
+</div>
+
 [Category:GUNDAM](https://zh.wikipedia.org/wiki/Category:GUNDAM "wikilink")
+
+1.  [機動戰士GUNDAM ZZ第](../Page/機動戰士GUNDAM_ZZ.md "wikilink")46話
+2.  [機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")第42,43話
+3.  [機動戰士Z GUNDAM第](../Page/機動戰士Z_GUNDAM.md "wikilink")45話
+4.  [机动战士高达UC](../Page/機動戰士GUNDAM_UC.md "wikilink")4 帛琉攻略战
+5.  [機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")第4話
+6.  [機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")第33話
+7.  [機動戰士GUNDAM ZZ第](../Page/機動戰士GUNDAM_ZZ.md "wikilink")14話

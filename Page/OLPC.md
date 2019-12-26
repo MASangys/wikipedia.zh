@@ -103,40 +103,22 @@ OLPC執行長在2005年12月13日宣佈[廣達電腦](../Page/廣達電腦.md "w
 [Category:筆記型電腦](https://zh.wikipedia.org/wiki/Category:筆記型電腦 "wikilink") [Category:美國組織](https://zh.wikipedia.org/wiki/Category:美國組織 "wikilink") [Category:非营利组织](https://zh.wikipedia.org/wiki/Category:非营利组织 "wikilink")
 
 1.
-
 2.  [OLPC Principals and Staff List](http://www.laptop.org/principals.html)  Retrieved February 13, 2006
-
 3.  {{ cite book | title = Being Digital | first = Nicholas|last = Negroponte|id = ISBN 978-0-679-43919-6 }}
-
 4.  {{ cite web | url = <http://hosted.ap.org/dynamic/stories/H/HUNDRED_DOLLAR_LAPTOP> | title = U.N. Lends Backing to the $100 Laptop|publisher = Associated Press|date = January 26, 2006 | accessdate = 2006-01-27 }}
-
 5.  {{ cite web | url = <http://news.ft.com/cms/s/b99fc856-6cbc-11da-90c2-0000779e2340.html> | title = Quanta cool on contract for $100 laptops|publisher = Financial Times|date = December 15, 2005 | accessdate = 2005-12-17 }}
-
 6.
-
 7.
-
 8.  OLPC Wiki, [Country News](https://zh.wikipedia.org/wiki/OLPC:Countries "wikilink"), consulted on January 23, 2008
-
 9.
-
 10.
-
 11. ["Peru, Mexico billionaire agree to buy $188 laptops"](http://www.betanews.com/article/Peru_Mexico_billionaire_agree_to_buy_188_laptops/1196701085) Betanews, December 3, 2007
-
 12.
 13. OLPC in Colombia [1](http://www.pr-inside.com/colombia-signs-agreement-to-purchase-r614513.htm)
-
 14.
-
 15. Peruvian president talks OLPC [2](http://www.olpcnews.com/countries/peru/peruvian_president_talks_olpc.html)
-
 16. Colombia Signs up for OLPC Laptops With Windows [3](http://www.pcworld.com/businesscenter/article/153650/colombia_signs_up_for_olpc_laptops_with_windows.html)
-
 17.
-
 18. [4](http://www.boston.com/business/technology/articles/2009/01/09/fund_loss_staggers_group_giving_laptops_to_poor_children/)
-
 19. India, Sierra Leone Place OLPC Orders [5](http://www.pcworld.com/businesscenter/article/163813/india_sierra_leone_place_olpc_orders.html)
-
 20. 120,000 XO Laptops Headed to OLPC Rwanda [6](http://www.olpcnews.com/countries/rwanda/120000_xo_laptops_headed_to_ol.html)

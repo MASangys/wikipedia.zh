@@ -577,20 +577,12 @@ W線只在平日營運，深夜時不營運，來往[阿斯托利亞的](../Page
 [Category:紐約地鐵服務路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵服務路線 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.

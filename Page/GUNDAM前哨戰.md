@@ -125,5 +125,4 @@
 [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:GUNDAM系列小說](https://zh.wikipedia.org/wiki/Category:GUNDAM系列小說 "wikilink")
 
 1.  \-{鋼彈}-前哨戰 上 -愛麗絲的懺悔- ISBN 957-10-2102-4
-
 2.

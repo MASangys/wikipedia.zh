@@ -1,4 +1,4 @@
-[ShRNA_Lentivirus.svg](https://zh.wikipedia.org/wiki/File:ShRNA_Lentivirus.svg "fig:ShRNA_Lentivirus.svg")递送设计的shRNA和在哺乳动物细胞中的RNA干扰的机制。\]\] [RNAi.jpg](https://zh.wikipedia.org/wiki/File:RNAi.jpg "fig:RNAi.jpg") **RNA干扰**（**RNA** **i**nterference，缩写为**RNAi**）是指一种[分子生物学](../Page/分子生物学.md "wikilink")上由双链[RNA诱发的](https://zh.wikipedia.org/wiki/RNA "wikilink")[基因沉默现象](https://zh.wikipedia.org/wiki/基因沉默 "wikilink")，其机制是通过阻碍特定基因的[转录](../Page/转录.md "wikilink")或[翻译来抑制](https://zh.wikipedia.org/wiki/翻译_\(遗传学\) "wikilink")[基因表达](https://zh.wikipedia.org/wiki/基因表达 "wikilink")。当细胞中导入与内源性[mRNA编码区同源的双链RNA时](https://zh.wikipedia.org/wiki/mRNA "wikilink")，该mRNA发生降解而导致基因表达沉默\[1\]。与其它基因沉默现象不同的是，在植物和線蟲中，RNAi具有传递性，可在细胞之间传播，此現象被稱作系統性RNA干擾（systemic RNAi）\[2\]\[3\]。在[秀丽隐杆线虫上实验时还可使子一代产生](https://zh.wikipedia.org/wiki/秀丽隐杆线虫 "wikilink")[基因突变](https://zh.wikipedia.org/wiki/基因突变 "wikilink")，甚至於可用喂食細菌給線蟲的方式讓線蟲得以產生RNA干擾現象。RNAi现象在[生物](../Page/生物.md "wikilink")中普遍存在。2006年，[安德鲁·法厄](../Page/安德鲁·法厄.md "wikilink")（Andrew Z. Fire）与[克雷格·梅洛](../Page/克雷格·梅洛.md "wikilink")（Craig C. Mello）由于在[秀丽隐杆线虫的RNAi机制研究中的贡献而共同获得](https://zh.wikipedia.org/wiki/秀丽隐杆线虫 "wikilink")[诺贝尔生理及医学奖](https://zh.wikipedia.org/wiki/诺贝尔生理及医学奖 "wikilink")。
+[ShRNA_Lentivirus.svg](https://zh.wikipedia.org/wiki/File:ShRNA_Lentivirus.svg "fig:ShRNA_Lentivirus.svg")递送设计的shRNA和在哺乳动物细胞中的RNA干扰的机制。\]\] [RNAi.jpg](https://zh.wikipedia.org/wiki/File:RNAi.jpg "fig:RNAi.jpg") **RNA干扰**（**RNA** **i**nterference，缩写为**RNAi**）是指一种[分子生物学](../Page/分子生物学.md "wikilink")上由双链[RNA诱发的](https://zh.wikipedia.org/wiki/RNA "wikilink")[基因沉默现象](https://zh.wikipedia.org/wiki/基因沉默 "wikilink")，其机制是通过阻碍特定基因的[转录](../Page/转录.md "wikilink")或[翻译来抑制](https://zh.wikipedia.org/wiki/翻译_\(遗传学\) "wikilink")[基因表达](https://zh.wikipedia.org/wiki/基因表达 "wikilink")。当细胞中导入与内源性[mRNA编码区同源的双链RNA时](https://zh.wikipedia.org/wiki/mRNA "wikilink")，该mRNA发生降解而导致基因表达沉默\[1\]。与其它基因沉默现象不同的是，在植物和線蟲中，RNAi具有传递性，可在细胞之间传播，此現象被稱作全身性RNA干擾（systemic RNAi）\[2\]\[3\]。在[秀丽隐杆线虫上实验时还可使子一代产生](https://zh.wikipedia.org/wiki/秀丽隐杆线虫 "wikilink")[基因突变](https://zh.wikipedia.org/wiki/基因突变 "wikilink")，甚至於可用喂食細菌給線蟲的方式讓線蟲得以產生RNA干擾現象。RNAi现象在[生物](../Page/生物.md "wikilink")中普遍存在。2006年，[安德鲁·法厄](../Page/安德鲁·法厄.md "wikilink")（Andrew Z. Fire）与[克雷格·梅洛](../Page/克雷格·梅洛.md "wikilink")（Craig C. Mello）由于在[秀丽隐杆线虫的RNAi机制研究中的贡献而共同获得](https://zh.wikipedia.org/wiki/秀丽隐杆线虫 "wikilink")[诺贝尔生理及医学奖](https://zh.wikipedia.org/wiki/诺贝尔生理及医学奖 "wikilink")。
 
 RNAi与**转录后基因沉默**（post-transcriptional gene silencing and transgene silencing）在分子層次上被证实是同一种现象。
 
@@ -75,36 +75,21 @@ RNAi在（silent gene）方面具有高效性和简单性，所以是[基因](..
 [Category:RNA](https://zh.wikipedia.org/wiki/Category:RNA "wikilink") [Category:RNA干擾](https://zh.wikipedia.org/wiki/Category:RNA干擾 "wikilink") [Category:基因表現](https://zh.wikipedia.org/wiki/Category:基因表現 "wikilink") [Category:分子遺傳學](https://zh.wikipedia.org/wiki/Category:分子遺傳學 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.
-
 18.
 19.

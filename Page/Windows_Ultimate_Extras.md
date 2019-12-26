@@ -6,7 +6,7 @@
 
 **Windows DreamScene**是一個允許使用[視頻作為](https://zh.wikipedia.org/wiki/視頻 "wikilink")[背景的公用程式](https://zh.wikipedia.org/wiki/背景 "wikilink")\[1\]。DreamScene在正式發表前曾謠傳會使用*Motion Desktop*和*Borealis*這兩個名字\[2\]\[3\]。
 
-包含在DreamScene內的[三維內容](https://zh.wikipedia.org/wiki/三維 "wikilink")（如動態版的Windows Aurora背景圖片）由[Stardock Design製作](https://zh.wikipedia.org/wiki/Stardock "wikilink")，照片內容由[探索頻道](../Page/探索頻道.md "wikilink")提供\[4\]\[5\]；亦可使用第三方[MPEG](../Page/MPEG.md "wikilink")或[WMV格式的視頻內容](https://zh.wikipedia.org/wiki/WMV "wikilink")\[6\]。
+包含在DreamScene內的[三維內容](https://zh.wikipedia.org/wiki/三維 "wikilink")（如動態版的Windows Aurora背景圖片）由製作，照片內容由[探索頻道](../Page/探索頻道.md "wikilink")提供\[4\]\[5\]；亦可使用第三方[MPEG](../Page/MPEG.md "wikilink")或[WMV格式的視頻內容](https://zh.wikipedia.org/wiki/WMV "wikilink")\[6\]。
 
 DreamScene聲稱相比以往的動態桌面方式其中一個優勢在於利用[GPU來顯示而不是](https://zh.wikipedia.org/wiki/GPU "wikilink")[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")，讓後者可以閒置來執行使用者的工作\[7\]，怎樣做到並未詳細說明。微軟對DreamScene作品的指標為建議在[資料壓縮與檔案大小間取得平衡](https://zh.wikipedia.org/wiki/資料壓縮 "wikilink")；因為解壓需要使用CPU，較大的檔案會使用較多[記憶體以及會導致硬碟的存取](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")\[8\]。
 
@@ -61,7 +61,9 @@ Group Shot是一個由[微軟研究院](../Page/微軟研究院.md "wikilink")�
 <!-- end list -->
 
   -
-    [WinCustomize上的](https://zh.wikipedia.org/wiki/WinCustomize "wikilink") [Dream Gallery](http://dream.wincustomize.com/)
+
+    上的 [Dream Gallery](http://dream.wincustomize.com/)
+
     [YouTube](../Page/YouTube.md "wikilink")上的 [Windows DreamScene示範](http://www.youtube.com/watch?v=L_DYVFgPaN0)
 
 <!-- end list -->
@@ -76,24 +78,16 @@ Group Shot是一個由[微軟研究院](../Page/微軟研究院.md "wikilink")�
 [Category:Windows_Vista](https://zh.wikipedia.org/wiki/Category:Windows_Vista "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
 10.
 11.
 12. [Noisy operating system user interface](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=6931601.PN.&OS=PN/6931601&RS=PN/6931601)
-
 13.
-
 14.

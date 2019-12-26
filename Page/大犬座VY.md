@@ -89,29 +89,22 @@
 [Category:大犬座](https://zh.wikipedia.org/wiki/Category:大犬座 "wikilink") [Category:特超巨星](https://zh.wikipedia.org/wiki/Category:特超巨星 "wikilink") [Category:以变星命名法命名的天体](https://zh.wikipedia.org/wiki/Category:以变星命名法命名的天体 "wikilink") [Category:半規則變星](https://zh.wikipedia.org/wiki/Category:半規則變星 "wikilink") [Category:HD和HDE天體](https://zh.wikipedia.org/wiki/Category:HD和HDE天體 "wikilink") [Category:HIP天體](https://zh.wikipedia.org/wiki/Category:HIP天體 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.
 7.
 8.
-
 9.
 10.
-
 11.
-
 12.
 13.
 14. 假設大犬座VY半徑9.58天文單位時，體積為；地球的體積是，兩者比例是或11.4千兆
-
 15.
 16.
 17.
-
 18.
 19.
 20.

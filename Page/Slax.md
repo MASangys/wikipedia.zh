@@ -37,7 +37,7 @@ Slax 7支持[64位与](https://zh.wikipedia.org/wiki/64位 "wikilink")[32位的]
 ## 外部連結
 
   - [Slax官方網站](http://www.slax.org/)
-  - [Slax官方網站](https://www.slax.org/zhTW/)
+  - [Slax官方網站](https://web.archive.org/web/20140808044611/https://www.slax.org/zhTW/)
   - [Slax官方网站](http://www.slax.org/?lang=cn)
   - [Slax官方网站（旧版）](https://web.archive.org/web/20130831134655/http://old.slax.org/)
   - [非官方SLAX Wiki](http://66.246.76.162/slax/wiki/)

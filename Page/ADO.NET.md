@@ -338,7 +338,7 @@ Entity Framework利用了抽象化資料結構的方式，將每個資料庫物�
 
 {{-}}
 
-[Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink") [Category:计算机编程](https://zh.wikipedia.org/wiki/Category:计算机编程 "wikilink") [Category:数据管理](https://zh.wikipedia.org/wiki/Category:数据管理 "wikilink") [Category:计算机程序库](https://zh.wikipedia.org/wiki/Category:计算机程序库 "wikilink") [Category:.NET](https://zh.wikipedia.org/wiki/Category:.NET "wikilink") [Category:数据库](https://zh.wikipedia.org/wiki/Category:数据库 "wikilink")
+[Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink") [Category:计算机编程](https://zh.wikipedia.org/wiki/Category:计算机编程 "wikilink") [Category:数据管理](https://zh.wikipedia.org/wiki/Category:数据管理 "wikilink") [Category:计算机程序库](https://zh.wikipedia.org/wiki/Category:计算机程序库 "wikilink") [Category:.NET](https://zh.wikipedia.org/wiki/Category:.NET "wikilink") [Category:数据库API](https://zh.wikipedia.org/wiki/Category:数据库API "wikilink")
 
 1.  [COM+, A Windows 2000 technology showcase](http://www.winsupersite.com/showcase/win2k_complus.asp)
 2.  [ADO+](http://www.developerfusion.com/article/56/ado/)

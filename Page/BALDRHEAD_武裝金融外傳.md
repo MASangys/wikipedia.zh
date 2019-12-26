@@ -25,12 +25,6 @@
 
 ## 註釋
 
-<div class="references-small">
-
-<references/>
-
-</div>
-
 ## 外部連結
 
   - [戲畫](http://www.web-giga.com/top/top.html)（年齡限制）

@@ -75,7 +75,7 @@
 ## 外部連結
 
   - [Michael W. Smith 官方網站](http://www.michaelwsmith.com)
-  - [Michael W. Smith's archive](http://www.michaelwsmith.de/) (contains one-minute samples of all tracks)
+  - [Michael W. Smith's archive](https://web.archive.org/web/20110812034323/http://www.michaelwsmith.de/) (contains one-minute samples of all tracks)
   - [Reunion Records' website](http://www.reunionrecords.com)
   - [Rocketown Records](http://www.rocketownrecords.com)
   - [Michael W. Smith Lyrics](http://www.lyricsdir.com/michael-w-smith-lyrics.html)
@@ -87,7 +87,6 @@
 [Category:美國歌手](https://zh.wikipedia.org/wiki/Category:美國歌手 "wikilink") [Category:基督教音乐](https://zh.wikipedia.org/wiki/Category:基督教音乐 "wikilink")
 
 1.
-
 2.
 3.
 4.
@@ -95,8 +94,6 @@
 6.
 7.
 8.  Brennan, Sandra. "Michael W. Smith" in [All Music Guide](https://zh.wikipedia.org/wiki/All_Music_Guide "wikilink").
-
 9.
 10. Quoted in "Michael W. Smith Looks Back" by Jim Long. *[Christianity Today](https://zh.wikipedia.org/wiki/Christianity_Today "wikilink")*, March 1988, Vol. 46, No. 8, Page 56.
-
 11. Long, Jim. "Michael W. Smith Looks Back" in *[Christianity Today](https://zh.wikipedia.org/wiki/Christianity_Today "wikilink")*, March 1988, Vol. 46, No. 8, Page 56.

@@ -153,7 +153,6 @@ Xbox版最初應在2002年春季發行，但因[Take-Two Interactive](../Page/Ta
 
   - [Playstation.com《俠盜獵車手III》页面](https://web.archive.org/web/20080616001835/http://www.us.playstation.com/PS2/Games/Grand_Theft_Auto_III)
 
-  -
 {{-}}
 
 [Category:俠盜獵車手系列電子遊戲](https://zh.wikipedia.org/wiki/Category:俠盜獵車手系列電子遊戲 "wikilink") [Category:2001年电子游戏](https://zh.wikipedia.org/wiki/Category:2001年电子游戏 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:Games_for_Windows認證遊戲](https://zh.wikipedia.org/wiki/Category:Games_for_Windows認證遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:Xbox遊戲](https://zh.wikipedia.org/wiki/Category:Xbox遊戲 "wikilink") [Category:成人電子遊戲](https://zh.wikipedia.org/wiki/Category:成人電子遊戲 "wikilink")
@@ -166,11 +165,11 @@ Xbox版最初應在2002年春季發行，但因[Take-Two Interactive](../Page/Ta
 6.
 7.
 8.
-9.  [Bill Fiore](http://www.imdb.com/title/tt0100263/) at [The Internet Movie Database](https://zh.wikipedia.org/wiki/The_Internet_Movie_Database "wikilink"). URL accessed on [May 13](https://zh.wikipedia.org/wiki/May_13 "wikilink"), 2006.
+9.  [Bill Fiore](http://www.imdb.com/title/tt0100263/)  at [The Internet Movie Database](https://zh.wikipedia.org/wiki/The_Internet_Movie_Database "wikilink"). URL accessed on [May 13](https://zh.wikipedia.org/wiki/May_13 "wikilink"), 2006.
 10.
-11. [《俠盜獵車手III》's release information](http://www.mobygames.com/game/grand-theft-auto-iii/release-info) at MobyGames. URL accessed on [June 11](https://zh.wikipedia.org/wiki/June_11 "wikilink"), 2006.
-12. [*GTA: Vice City*'s release information](http://www.mobygames.com/game/grand-theft-auto-vice-city/release-info) at MobyGames. URL accessed on [June 11](https://zh.wikipedia.org/wiki/June_11 "wikilink"), 2006.
-13. [*GTA: San Andreas*'s release information](http://www.mobygames.com/game/grand-theft-auto-san-andreas/release-info) at MobyGames. URL accessed on [June 11](https://zh.wikipedia.org/wiki/June_11 "wikilink"), 2006.
+11. [《俠盜獵車手III》's release information](http://www.mobygames.com/game/grand-theft-auto-iii/release-info)  at MobyGames. URL accessed on [June 11](https://zh.wikipedia.org/wiki/June_11 "wikilink"), 2006.
+12. [*GTA: Vice City*'s release information](http://www.mobygames.com/game/grand-theft-auto-vice-city/release-info)  at MobyGames. URL accessed on [June 11](https://zh.wikipedia.org/wiki/June_11 "wikilink"), 2006.
+13. [*GTA: San Andreas*'s release information](http://www.mobygames.com/game/grand-theft-auto-san-andreas/release-info)  at MobyGames. URL accessed on [June 11](https://zh.wikipedia.org/wiki/June_11 "wikilink"), 2006.
 14.
 15.
 16.

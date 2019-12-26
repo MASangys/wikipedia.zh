@@ -121,6 +121,7 @@ QR碼的主要應用的項目可分成四類：
 ## 外部連結
 
   - [QR Code官方網站](http://www.qrcode.com/)（自动本地化）
+  - [自製 QR Code](http://hkflowerdelivery.ddns.net/qrcode/) web Link to QR Code / Location to QR Code / E-mail to QR Code / Text to QR Code / Call to QR Code / SMS to QR Code / WhatsApp to QR Code / WI-FI to QR Code / V-card to QR Code /PayPal to QR Code / BitCoin to QR Code
 
 [Category:條碼](https://zh.wikipedia.org/wiki/Category:條碼 "wikilink") [Category:行動電話](https://zh.wikipedia.org/wiki/Category:行動電話 "wikilink") [Category:日本發明](https://zh.wikipedia.org/wiki/Category:日本發明 "wikilink") [Category:1994年面世](https://zh.wikipedia.org/wiki/Category:1994年面世 "wikilink")
 

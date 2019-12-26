@@ -35,7 +35,7 @@
 
   - 《[危机之前 -最终幻想VII-](../Page/危机之前_-最终幻想VII-.md "wikilink")》（）:
 
-“补完计划”中最早发售的作品是[手机平台游戏](../Page/手机游戏.md "wikilink")《危机之前》，本作是《最终幻想VII》的前传作品，故事背景被设定于原作游戏发生六年之前，并将玩家视角放在神羅公司的精銳部隊身上，在游戏中執行各種各樣的任務，其中包括他们第一次遇到[雪崩组织](https://zh.wikipedia.org/wiki/Characters_of_the_Final_Fantasy_VII_series#AVALANCHE "wikilink") \[16\]\[17\]。分24个章节以供下载 ，2004年9月24日开始在日本[NTT DoCoMo的](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")[FOMA](https://zh.wikipedia.org/wiki/Freedom_of_Mobile_Multimedia_Access "wikilink")900i系列手机提供完整下载服务\[18\]\[19\] \[20\] 。
+“补完计划”中最早发售的作品是[手机平台游戏](../Page/手机游戏.md "wikilink")《危机之前》，本作是《最终幻想VII》的前传作品，故事背景被设定于原作游戏发生六年之前，并将玩家视角放在神羅公司的精銳部隊（Turks）的成員身上，在游戏中執行各種各樣的任務，其中包括他们第一次遇到[雪崩组织](https://zh.wikipedia.org/wiki/Characters_of_the_Final_Fantasy_VII_series#AVALANCHE "wikilink") \[16\]\[17\]。分24个章节以供下载 ，2004年9月24日开始在日本[NTT DoCoMo的](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")[FOMA](https://zh.wikipedia.org/wiki/Freedom_of_Mobile_Multimedia_Access "wikilink")900i系列手机提供完整下载服务\[18\]\[19\] \[20\] 。
 
   - 《[地狱犬的挽歌 -最终幻想VII-](https://zh.wikipedia.org/wiki/地狱犬的挽歌_-最终幻想VII- "wikilink")》（）:
 
@@ -96,93 +96,52 @@
 [Category:最終幻想VII](https://zh.wikipedia.org/wiki/Category:最終幻想VII "wikilink") [Category:最终幻想系列衍生作品](https://zh.wikipedia.org/wiki/Category:最终幻想系列衍生作品 "wikilink") [Category:文明崩潰後世界題材遊戲](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材遊戲 "wikilink") [Category:蒸汽朋克电子游戏](https://zh.wikipedia.org/wiki/Category:蒸汽朋克电子游戏 "wikilink") [Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
 46.
-
 47.
-
 48.
-
 49.
-
 50.

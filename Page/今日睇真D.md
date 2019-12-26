@@ -1,4 +1,4 @@
-《**今日睇真D**》（；當時簡稱《**睇真D**》）是香港[亞洲電視](../Page/亞洲電視.md "wikilink")製作的一個資訊娛樂節目，由轉職自[無綫電視之](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[余詠珊](../Page/余詠珊.md "wikilink")創製，編導[張志明](../Page/張志明_\(監製\).md "wikilink")\[1\]，1994年3月21日至2000年12月15日於[本港台](../Page/本港台.md "wikilink")播出，是香港首個同類型節目。
+《**今日睇真D**》（；當時簡稱《**睇真D**》）是香港[亞洲電視](../Page/亞洲電視.md "wikilink")製作的一個資訊娛樂節目，由轉職自[無綫電視之](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[余詠珊](../Page/余詠珊.md "wikilink")創製，編導[張志明](../Page/張志明_\(監製\).md "wikilink")\[1\]，1994年3月21日至2000年12月15日於[本港台](../Page/本港台.md "wikilink")播出，是[香港電視史上首個同類型節目](https://zh.wikipedia.org/wiki/香港電視史 "wikilink")。
 
 《今日睇真D》每集長度1小時，以「《睇真D》精神」採訪時事及娛樂消息，補足傳統新聞報道的不足，曾為亞視帶來不錯[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink")；1994年10月，無綫[翡翠台](../Page/翡翠台.md "wikilink")推出同類型節目《[城市追擊](../Page/城市追擊.md "wikilink")》以奪回收視。
 
@@ -37,7 +37,7 @@
   - [蘇敏聰](https://zh.wikipedia.org/wiki/蘇敏聰 "wikilink")（曾經轉職《[城市追擊](../Page/城市追擊.md "wikilink")》，已離開娛樂圈，現在已移居[加拿大](../Page/加拿大.md "wikilink")）
   - [黎淑賢](../Page/黎淑賢.md "wikilink")
   - [袁潔儀](../Page/袁潔儀.md "wikilink")（曾主持亞洲電視婦女節目[我愛下午茶](../Page/我愛下午茶.md "wikilink")，現在回巢[無線電視](https://zh.wikipedia.org/wiki/TVB "wikilink")）
-  - [胡慧冲](../Page/胡慧冲.md "wikilink"): 1990年年初去泰國後，便喜歡該國。曾被《壹週刊》以其「變泰」事蹟成為雜誌跨頁專訪。在2002年移居[泰國至今](https://zh.wikipedia.org/wiki/泰國 "wikilink")16年，任職泰國旅遊專欄作家及旅遊節目主持人。
+  - [胡慧冲](../Page/胡慧冲.md "wikilink"): 1990年年初去泰國後，便喜歡該國。曾被《壹週刊》以其「變泰」事蹟成為雜誌跨頁專訪。在2002年移居[泰國至今年](https://zh.wikipedia.org/wiki/泰國 "wikilink")，任職泰國旅遊專欄作家及旅遊節目主持人。 現時是[無綫電視駐泰國組的主持之一](https://zh.wikipedia.org/wiki/TVB "wikilink")
 
 ## 與節目相關活動
 

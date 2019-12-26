@@ -15,11 +15,9 @@
   - [官方網站](http://www.nintendo.co.jp/ds/andj/)
   - [巴哈姆特](http://newodin.gamer.com.tw/7/8597.html)
 
-[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:益智游戏](https://zh.wikipedia.org/wiki/Category:益智游戏 "wikilink") [Category:Touch\!_Generations](https://zh.wikipedia.org/wiki/Category:Touch!_Generations "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:Wii_U遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U遊戲 "wikilink") [Category:Wii_U_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_U_Virtual_Console游戏 "wikilink") [Category:東北大學_(日本)](https://zh.wikipedia.org/wiki/Category:東北大學_\(日本\) "wikilink")
+[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:益智游戏](https://zh.wikipedia.org/wiki/Category:益智游戏 "wikilink") [Category:Touch\!_Generations](https://zh.wikipedia.org/wiki/Category:Touch!_Generations "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:Wii_U_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_U_Virtual_Console游戏 "wikilink") [Category:東北大學_(日本)](https://zh.wikipedia.org/wiki/Category:東北大學_\(日本\) "wikilink")
 
 1.   3DS破解 3DS游戏 3DS价格 任天堂3DS _ 3ds.duowan.com |accessdate=2019-05-23 |work=3ds.duowan.com}}
-
 2.
 3.
-
 4.  日本wiki的來源報告:『ファミ通ゲーム白書2013 補完データ編（分冊版）』エンターブレイン、2013年。2016年1月16日閲覧。

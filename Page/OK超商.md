@@ -18,7 +18,7 @@
   - [連鎖店](../Page/連鎖店.md "wikilink")
   - [Ponta](../Page/Ponta.md "wikilink")
 
-## 註釋
+## 參考資料
 
 ## 外部連結
 
@@ -27,11 +27,11 @@
   -
 [Category:台灣便利商店](https://zh.wikipedia.org/wiki/Category:台灣便利商店 "wikilink") [Category:台灣未上市公司](https://zh.wikipedia.org/wiki/Category:台灣未上市公司 "wikilink") [Category:1988年成立的公司](https://zh.wikipedia.org/wiki/Category:1988年成立的公司 "wikilink") [Category:總部位於臺北市信義區的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於臺北市信義區的工商業機構 "wikilink")
 
-1.  [OK換招牌結束與美合作](http://www.appledaily.com.tw/appledaily/article/finance/20051006/2106879/)
-2.  [得易Ponta結盟2勢力 萊爾富OK大打團體戰](http://www.cardu.com.tw/news/detail.php?nt_pk=8&ns_pk=27483)
+1.  [OK換招牌結束與美合作](http://www.appledaily.com.tw/appledaily/article/finance/20051006/2106879/).蘋果日報.2005-10-06
+2.  溫子豪.[得易Ponta結盟2勢力 萊爾富OK大打團體戰 11月起日本跨境集點　明年再發聯名信用卡](http://www.cardu.com.tw/news/detail.php?nt_pk=8&ns_pk=27483).卡優新聞網.2015-09-23
 3.
 4.
 5.
-6.  [台灣便利商店全球最多？亞洲第一名其實是這國](https://tw.mobi.yahoo.com/news/%E5%8F%B0%E7%81%A3%E4%BE%BF%E5%88%A9%E5%95%86%E5%BA%97%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%9A-%E4%BA%9E%E6%B4%B2%E7%AC%AC-%E5%90%8D%E5%85%B6%E5%AF%A6%E6%98%AF%E9%80%99%E5%9C%8B-021500455.html)Yahoo\!奇摩，2019年6月30日
-7.  劉馥瑜，[四大超商 科技化時代來臨](http://www.chinatimes.com/newspapers/20180607000360-260204)，中時電子報，2018-06-06
-8.  李鴻典，[力推無現金支付　最小的超商OKmini巡迴開跑](https://www.setn.com/News.aspx?NewsID=409567)，三立新聞，2018-07-29
+6.  蘇君薇.[台灣便利商店全球最多？亞洲第一名其實是這國](https://www.businesstoday.com.tw/article/category/80392/post/201906270026/台灣便利商店全球最多？答案其實是亞洲這一國).今周刊.2019-06-27
+7.  劉馥瑜.[四大超商 科技化時代來臨](http://www.chinatimes.com/newspapers/20180607000360-260204).中時電子報.2018-06-06
+8.  李鴻典.[力推無現金支付　最小的超商OKmini巡迴開跑](https://www.setn.com/News.aspx?NewsID=409567).三立新聞.2018-07-29

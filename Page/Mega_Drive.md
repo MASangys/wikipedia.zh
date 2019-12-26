@@ -8,9 +8,13 @@ Mega Drive在全球共售出3075万台。此外[Tectoy在](https://zh.wikipedia.
 
 1988年10月29日，世嘉在日[本地区发行了Mega](https://zh.wikipedia.org/wiki/本 "wikilink") Drive。尽管推出之时，被一周前[任天堂](../Page/任天堂.md "wikilink")发行的《[超級瑪利歐兄弟3](../Page/超級瑪利歐兄弟3.md "wikilink")》的风头所遮盖，但是《[Fami通](../Page/Fami通.md "wikilink")》和《Beep\!》杂志的正面评价而使Mega Drive得以继续。不过发行的第一年，世嘉仅售出40万台。
 
+1993年，世嘉推出更为轻小的第二版本。在日本、亞洲、欧洲和澳大利亚地區称为**Mega Drive 2**。在北美称为**Genesis**。（没有世嘉前缀）。
+
+<File:Sega> Mega Drive (pal asia).jpg|thumb|亞洲版本Mega Drive [File:Sega-Genesis-Mod1-Set.jpg|thumb|Mega](File:Sega-Genesis-Mod1-Set.jpg%7Cthumb%7CMega) Drive的北美版本稱為**Sega Genesis** [File:Sega-Mega-Drive-EU-Mk1-wController-FL.jpg|thumb|歐洲版本Mega](File:Sega-Mega-Drive-EU-Mk1-wController-FL.jpg%7Cthumb%7C歐洲版本Mega) Drive <File:Japanese> Mega Drive 2.png|日本Mega Drive第二版本 [File:Sega-Genesis-Mod2-Bare.jpg|北美Genesis第二版本](File:Sega-Genesis-Mod2-Bare.jpg%7C北美Genesis第二版本) [File:SegaMegadrive2.jpg|歐洲Mega](File:SegaMegadrive2.jpg%7C歐洲Mega) Drive第二版本
+
 ## 技术规格
 
-[Sega-Genesis-Mod1-Set.jpg](https://zh.wikipedia.org/wiki/File:Sega-Genesis-Mod1-Set.jpg "fig:Sega-Genesis-Mod1-Set.jpg") [Mega_Drive_mboard.jpg](https://zh.wikipedia.org/wiki/File:Mega_Drive_mboard.jpg "fig:Mega_Drive_mboard.jpg")\]\] [SMD2mobo.jpg](https://zh.wikipedia.org/wiki/File:SMD2mobo.jpg "fig:SMD2mobo.jpg")\]\]
+<File:Mega> Drive mboard.jpg|thumb|Mega Drive[主機板](https://zh.wikipedia.org/wiki/主機板 "wikilink") [File:SMD2mobo.jpg|thumb|Mega](File:SMD2mobo.jpg%7Cthumb%7CMega) Drive 2[主機板](https://zh.wikipedia.org/wiki/主機板 "wikilink")
 
 游戏机的主处理器是一个16/[32位](https://zh.wikipedia.org/wiki/32位 "wikilink")，時脈7.67MHz的[摩托罗拉 68000CPU](../Page/摩托罗拉_68000.md "wikilink")。\[1\]此外还使用Zilog Z80次处理器(時脈3.58MHz)。主要是用来控制声音硬件和用来向下兼容世嘉Master System。系统拥有72kB [RAM和](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")64kB[显存](../Page/显存.md "wikilink")。能够一次从512个[调色板中显示最多至](https://zh.wikipedia.org/wiki/調色盤_\(電腦圖形學\) "wikilink")61个颜色。\[2\]游戏是[卡带模式](https://zh.wikipedia.org/wiki/卡带 "wikilink")，可以从上面插入。
 
@@ -36,6 +40,8 @@ Mega Drive的游戏库最初较小，但是最终成长成为含有各种游戏�
 
 ## 附加設備
 
+[File:Sega-Genesis-Power-Base-Converter.jpg|thumb|連接北美Genesis的Power](File:Sega-Genesis-Power-Base-Converter.jpg%7Cthumb%7C連接北美Genesis的Power) Base Converter [File:Sega-Genesis-Model-2-Monster-Bare.jpg|thumb|連接北美Genesis第二版本的Sega](File:Sega-Genesis-Model-2-Monster-Bare.jpg%7Cthumb%7C連接北美Genesis第二版本的Sega) CD和32X
+
 除了一些诸如能向下相容[Mark III/Master System遊戲的](https://zh.wikipedia.org/wiki/Sega_Master_System "wikilink")[Mega Adaptor](https://zh.wikipedia.org/wiki/Mega_Adaptor "wikilink")（日版名：メガアダプタ，美版名：Power Base Converter，歐版名：Master System Converter）的附属设备，Mega Drive亦支持两项附加设备，每项设备具有其独自的游戏库。
 
 第一项是Mega CD，第二项是32X
@@ -54,9 +60,11 @@ Mega Drive的游戏库最初较小，但是最终成长成为含有各种游戏�
 
 ### 其他
 
+<File:Sega> Mouse and Sega Mega Mouse.png|thumb|Sega Mouse和Mega Mouse <File:Sega> megamodem alone.jpg|thumb|Mega Modem
+
   - [滑鼠](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")
   - [磁碟機](https://zh.wikipedia.org/wiki/磁碟機 "wikilink")
-  - [Modem](https://zh.wikipedia.org/wiki/Modem "wikilink")
+  - [Mega Modem](../Page/SEGA_Meganet.md "wikilink")
 
 ## 兼容机
 
@@ -64,18 +72,17 @@ Mega Drive的游戏库最初较小，但是最终成长成为含有各种游戏�
 
 ### 第一方机器
 
-1993年，世嘉推出更为轻小的第二版本。在日本、欧洲和澳大利亚称为**Mega Drive 2**。在北美称为**Genesis**。（没有世嘉前缀）。
+<File:Sega> Mega Jet (8459104642).jpg|Mega Jet <File:Sega> Multi Mega.jpg|thumb|Multi-Mega <File:Sega-Nomad-Handheld.jpg>|[Genesis Nomad](../Page/Genesis_Nomad.md "wikilink")
 
-1994年，世嘉发行了一个称为Multi-Mega（美版稱為Genesis CDX，巴西版稱為Multi-Mega CDX）的混合半移动Mega Drive/Mega CD游戏机。
+1994年4月，世嘉发行了一个称为Multi-Mega（美版稱為Genesis CDX，巴西版稱為Multi-Mega CDX）的混合半移动Mega Drive/Mega CD游戏机。
 
 在16位时代后期，世嘉在北美地區发行了名为[Genesis Nomad的便携式Genesis游戏机](https://zh.wikipedia.org/wiki/Sega_Nomad "wikilink")。这个根据在日本地区发行的Mega Jet而设计。Mega Jet是一个Mega Drive的便携式游戏机，具有喷气式飞机样式的特征，1993年7月1日開始提供給[日本航空](../Page/日本航空.md "wikilink")機上租用服務，之後零售版於1994年3月10日發行。
 
 ### 第三方机器
 
-JVC与世嘉公司合作，于1992年4月1日在日本地区发行了Wondermega。之后JVC重新设计了这个系统，于1994年9月以X'Eye名称在北美发行。
+[File:Console-wondermega.jpg|thumb|初代Wondermega](File:Console-wondermega.jpg%7Cthumb%7C初代Wondermega) [File:Victor-WonderMega-RG-M2-Console-Set.jpg|thumb|Wondermega第二版本](File:Victor-WonderMega-RG-M2-Console-Set.jpg%7Cthumb%7CWondermega第二版本) [File:Sega-Genesis-3-Console-FL.jpg|thumb|Majesco公司在1998年推出的Genesis](File:Sega-Genesis-3-Console-FL.jpg%7Cthumb%7CMajesco公司在1998年推出的Genesis) 3 [File:Sega-Firecore-Set.jpg|thumb|AtGames在2009年推出的Firecore](File:Sega-Firecore-Set.jpg%7Cthumb%7CAtGames在2009年推出的Firecore) Classic Console
 
-  - Multi-Mega
-  - Super 32X
+JVC与世嘉公司合作，于1992年4月1日在日本地区发行了Wondermega。之后JVC重新设计了这个系统，于1994年9月以X'Eye名称在北美发行。
 
 ## 评价
 
@@ -83,7 +90,7 @@ Mega Drive通常被认为是最为出色的游戏机中的一个。2009年，IGN
 
 ## Mega Drive Mini
 
-2018年4月14日，世嘉於「SEGA Fes」活動上宣布推出「Mega Drive Mini」版\[8\]\[9\]，紀念此系列主機推出30週年，內置多款如《[音速小子](https://zh.wikipedia.org/wiki/音速小子 "wikilink")》等42款經典遊戲，於2019年9月19日在全球發行\[10\]。
+[Sega_Mega_Drive_Mini.jpg](https://zh.wikipedia.org/wiki/File:Sega_Mega_Drive_Mini.jpg "fig:Sega_Mega_Drive_Mini.jpg") 2018年4月14日，世嘉於「SEGA Fes」活動上宣布推出「**Mega Drive Mini**」（北美稱為**Sega Genesis Mini**）的縮小機體\[8\]\[9\]，採用2010年代的電子技術重製紀念此系列主機推出30週年，內置高容量固態記憶體，儲存多款如《[音速小子](https://zh.wikipedia.org/wiki/音速小子 "wikilink")》等42款經典正版遊戲但無法插卡帶或新增遊戲，為一種收藏懷舊性質機器，於2019年9月19日在全球發行\[10\]。最初發行其分為日本版、亞洲版和北美版三種機體，三款內收錄遊戲略有不同\[11\]，歐洲版機體延遲於2019年10月4日推出。
 
 ## 参考资料
 
@@ -103,3 +110,4 @@ Mega Drive通常被认为是最为出色的游戏机中的一个。2009年，IGN
 8.
 9.
 10. [メガドライブミニ（Mega Drive Mini）](http://asia.sega.com/mdmini/cht/)
+11. [Mega Drive mini遊戲表](https://infogram.com/sega-mega-drive-mini-1h706eyxdr7545y)

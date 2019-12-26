@@ -76,8 +76,8 @@ X世代的定義在今日有相當多的說法，在原著小說中的X世代，
 
 <!-- end list -->
 
-  - [須文蔚](../Page/須文蔚.md "wikilink") [世代差異 斷層的記憶](http://blog.chinatimes.com/winway/archive/2005/08/13/10751.html)
-  - 夏瑞紅 [殘忍住在奢侈隔壁](http://blog.chinatimes.com/xletter/archive/2005/08/26/12920.html)
+  - [須文蔚](../Page/須文蔚.md "wikilink") [世代差異 斷層的記憶](https://web.archive.org/web/20060303235806/http://blog.chinatimes.com/winway/archive/2005/08/13/10751.html)
+  - 夏瑞紅 [殘忍住在奢侈隔壁](https://web.archive.org/web/20060131145129/http://blog.chinatimes.com/xletter/archive/2005/08/26/12920.html)
   - GenXegesis: essays on alternative youth (sub)culture By John McAllister Ulrich, Andrea L. Harris p. 5 [1](http://books.google.co.uk/books?id=v10ZUR_Ca3EC&pg=PA32&dq=generation+x+holiday&cd=1&redir_esc=y#v=onepage&q=generation%20x%20holiday&f=false)
   - Rita Yi Man Li Generation X and Y’s demand for homeownership in Hong Kong，Pacific Rim Property Research Journal, Volume 21, Issue 1, 2015， pp.15-36 [2](http://www.tandfonline.com/eprint/4yGfwGRmkdqjXUMI5yFb/full)
 

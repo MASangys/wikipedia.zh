@@ -80,13 +80,17 @@ ASOS的成員[徐熙媛](../Page/徐熙媛.md "wikilink")和[徐熙娣](../Page/
 
 ### 節目主持
 
-|                 |                                                   |                                                             |
-| --------------- | ------------------------------------------------- | ----------------------------------------------------------- |
-| **年份**          | **頻道**                                            | **節目**                                                      |
-| 1998年-2006年     | [八大綜合台](../Page/八大綜合台.md "wikilink")              | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")     |
-| 2001年           | [台視](https://zh.wikipedia.org/wiki/台視 "wikilink") | [週末三寶FUN](https://zh.wikipedia.org/wiki/週末三寶FUN "wikilink") |
-| 2007年6月－2008年5月 | 八大綜合台                                             | [大小愛吃](../Page/大小愛吃.md "wikilink")                          |
-|                 |                                                   |                                                             |
+|                 |                                                       |                                                                 |                                                                                |
+| --------------- | ----------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| **年份**          | **頻道**                                                | **節目**                                                          |                                                                                |
+| 1995年           |                                                       | 《[超猛XYZ](https://zh.wikipedia.org/wiki/超猛XYZ "wikilink")》       |                                                                                |
+| 1995年           |                                                       | 《[青春報馬仔](https://zh.wikipedia.org/wiki/青春報馬仔 "wikilink")》       |                                                                                |
+| 1996年7月～2000年4月 | [中視](https://zh.wikipedia.org/wiki/中視 "wikilink")     | 《[我猜我猜我猜猜猜](../Page/我猜我猜我猜猜猜.md "wikilink")》                    | 與[龍劭華](../Page/龍劭華.md "wikilink")搭檔至1998年，後與[吳宗憲](../Page/吳宗憲.md "wikilink")搭檔 |
+| 1998年3月～2006年9月 | [八大綜合台](../Page/八大綜合台.md "wikilink")                  | 《[娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")》       | [大S於](https://zh.wikipedia.org/wiki/大S "wikilink")2005年請辭                      |
+| 2001年           | [台視](https://zh.wikipedia.org/wiki/台視 "wikilink")     | 《[週末三寶FUN](https://zh.wikipedia.org/wiki/週末三寶FUN "wikilink")》   | 搭檔[庾澄慶](../Page/庾澄慶.md "wikilink")                                             |
+| 2007年6月～2008年5月 | [八大綜合台](../Page/八大綜合台.md "wikilink")                  | 《[大小愛吃](../Page/大小愛吃.md "wikilink")》                            |                                                                                |
+| 2019年           | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink") | 《[我們是真正的朋友](https://zh.wikipedia.org/wiki/我們是真正的朋友 "wikilink")》 | 搭檔[范曉萱](../Page/范曉萱.md "wikilink")、[柳翰雅](../Page/柳翰雅.md "wikilink")            |
+|                 |                                                       |                                                                 |                                                                                |
 
 ## 廣告代言
 

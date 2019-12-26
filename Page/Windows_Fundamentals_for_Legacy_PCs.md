@@ -30,7 +30,7 @@
   - [Microsoft Delivers 'Eiger' Lean Client](https://archive.is/20130427035038/http://www.microsoft-watch.com/article2/0,2180,1987951,00.asp)
   - [Windows Fundamentals for Legacy PCs for Software Assurance](https://web.archive.org/web/20060718203106/http://www.microsoft.com/licensing/programs/sa/benefits/fundamentals.mspx) - Information from Microsoft on this release
   - [Terminal Server Progress and Commitment](https://web.archive.org/web/20060904174214/http://www.digicomp.ch/misc/documents/citrixday/Microsoft_Terminal_Server_Progress_and_Commitment.pdf) - PDF presentation; WinFLP is described at the end
-  - [Exclusive: Microsoft Windows XP Codenames: "Eiger" and "Mönch"](http://bink.nu/Article3812.bink) - partial specs on Eiger and Mōnch.
+  - [Exclusive: Microsoft Windows XP Codenames: "Eiger" and "Mönch"](https://web.archive.org/web/20060717153100/http://bink.nu/Article3812.bink) - partial specs on Eiger and Mōnch.
   - [Test of Microsoft's Windows Fundamentals for Legacy PCs](https://web.archive.org/web/20121023080228/http://bink.nu/Article7745.bink) at Bink.nu
   - [Screenshot gallery](https://web.archive.org/web/20060901045542/http://bink.nu/photos/news_article_images/category1021.aspx) at Bink.nu
 

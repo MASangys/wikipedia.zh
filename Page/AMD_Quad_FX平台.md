@@ -37,20 +37,12 @@
 [Category:AMD](https://zh.wikipedia.org/wiki/Category:AMD "wikilink") [Category:CPU插座](https://zh.wikipedia.org/wiki/Category:CPU插座 "wikilink")
 
 1.
-
 2.  \*[Ars Technica報導](http://arstechnica.com/news.ars/post/20060602-6977.html)
-
 3.
-
 4.  [DigiTimes report on Core 2 Extreme QX6700](http://www.digitimes.com/mobos/a20060926A7036.html)
-
 5.
-
 6.  [The Inquirer report on "nForce 680a"](http://www.theinquirer.net/default.aspx?article=35334)
-
 7.  [ASUS is the sole 4x4 chipset motherboard maker report](http://theinquirer.net/default.aspx?article=35843)
-
 8.  [Chile Hardware report on ATI chipset update](http://www.chilehardware.com/articulo.php?sid=1631&mode=thread&order=0&thold=0)
-
 9.
 10. [AMD Technology Analyst Day Presentation 2006 (Slide 32)](http://www.amd.com/us-en/assets/content_type/DownloadableAssets/PhilHesterAMDAnalystDayV2.pdf)

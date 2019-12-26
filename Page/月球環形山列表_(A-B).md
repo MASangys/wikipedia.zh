@@ -1400,7 +1400,7 @@
 <td><p>Büsching</p></td>
 <td><p><a href="../Page/比兴环形山.md" title="wikilink">比兴</a></p></td>
 <td><p>53.49公里</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安东·弗里德里希·比兴" title="wikilink">安东·弗里德里希·比兴</a>（Anton Friedrich Büsching，1724－1793），德国<a href="https://zh.wikipedia.org/wiki/地理学家" title="wikilink">地理学家</a>、<a href="https://zh.wikipedia.org/wiki/历史学家" title="wikilink">历史学家</a>、<a href="https://zh.wikipedia.org/wiki/教育家" title="wikilink">教育家和</a><a href="https://zh.wikipedia.org/wiki/神学家" title="wikilink">神学家</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安东·弗里德里希·比兴" title="wikilink">安东·弗里德里希·比兴</a>（Anton Friedrich Büsching，1724－1793），德国<a href="https://zh.wikipedia.org/wiki/地理学家" title="wikilink">地理学家</a>、<a href="https://zh.wikipedia.org/wiki/历史学家" title="wikilink">历史学家</a>、<a href="../Page/教育家.md" title="wikilink">教育家</a>和<a href="https://zh.wikipedia.org/wiki/神学家" title="wikilink">神学家</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Butlerov</p></td>

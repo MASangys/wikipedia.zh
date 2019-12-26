@@ -44,7 +44,7 @@
 
 ### 娛樂滋味（10至14樓、17及18樓）
 
-[MegaBox_Wonderfall_201402.jpg](https://zh.wikipedia.org/wiki/File:MegaBox_Wonderfall_201402.jpg "fig:MegaBox_Wonderfall_201402.jpg") 娛樂滋味專區內，場內的燈光較低層昏暗，地板的顏色主要以黑色和紫色為主。10樓除了有多間食肆外，還設有全港最大的溜冰場，命名為**MegaIce**，該溜冰場也是全港首個符合國際標準的溜冰場，溜冰場外的[玻璃幕牆及溜冰場旁的觀景台可遠眺](https://zh.wikipedia.org/wiki/玻璃幕牆 "wikilink")[黃埔](../Page/黃埔花園.md "wikilink")、[海逸及](../Page/海逸豪園.md "wikilink")[港島](https://zh.wikipedia.org/wiki/港島 "wikilink")[東區一帶的景致](../Page/東區_\(香港\).md "wikilink")。
+[MegaBox_Wonderfall_201402.jpg](https://zh.wikipedia.org/wiki/File:MegaBox_Wonderfall_201402.jpg "fig:MegaBox_Wonderfall_201402.jpg") 娛樂滋味專區內，場內的燈光較低層昏暗，地板的顏色主要以黑色和紫色為主。10樓除了有多間食肆外，還設有全港最大的[溜冰場](https://zh.wikipedia.org/wiki/溜冰場 "wikilink")，命名為**MegaIce**，該溜冰場也是全港首個符合國際標準的溜冰場，溜冰場外的[玻璃幕牆及溜冰場旁的觀景台可遠眺](https://zh.wikipedia.org/wiki/玻璃幕牆 "wikilink")[黃埔](../Page/黃埔花園.md "wikilink")、[海逸及](../Page/海逸豪園.md "wikilink")[港島](https://zh.wikipedia.org/wiki/港島 "wikilink")[東區一帶的景致](../Page/東區_\(香港\).md "wikilink")。
 
 11樓設有全港首間[IMAX](../Page/IMAX.md "wikilink")商業電影院，該戲院是全港首間設有IMAX電影放映系統的商業電影院，並且由[UA負責經營](../Page/娛藝.md "wikilink")。該層亦有數間食肆，包括California Pizza Kitchen、LA TACHE FRENCH CUISINE（已結業）、NOIR CHOCOLATIER、墾丁茶房、泰‧蘭花及Studio City Bar & Cafe。
 

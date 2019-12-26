@@ -1,4 +1,4 @@
-**阿Sir**，通俗讀音沒有帶有[英語的](https://zh.wikipedia.org/wiki/英語 "wikilink")「r」音（[國際音標](../Page/國際音標.md "wikilink")：/<sub>3</sub>　sœ<sub>4</sub>/），此外也有讀作**阿蛇**（[國際音標](../Page/國際音標.md "wikilink")：/<sub>3</sub>　s<sub>4</sub>/），被認為是[中國大陸口音](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")。「阿Sir」是[香港](../Page/香港.md "wikilink")和其他[粵語使用地區人宜的](https://zh.wikipedia.org/wiki/粵語 "wikilink")[慣用語](https://zh.wikipedia.org/wiki/慣用語 "wikilink")，借用自[英文的](https://zh.wikipedia.org/wiki/英文 "wikilink")[Sir](../Page/爵士.md "wikilink")〈是對[男士的雅稱](https://zh.wikipedia.org/wiki/男士 "wikilink")，以表示向被稱呼者表達尊重以及敬意，用法不制限於有[爵士](../Page/爵士.md "wikilink")[名銜者](https://zh.wikipedia.org/wiki/名銜 "wikilink")〉，但是有一點與英文不同的，是英語中不限制於對年長者使用此稱呼，例如[侍應對著年青甚至男孩顧客](https://zh.wikipedia.org/wiki/侍應 "wikilink")，亦可以稱為Sir，在香港則通常不會這樣使用，較年少者通常稱為[先生](../Page/先生.md "wikilink")。
+**阿Sir**，通俗讀音沒有帶有[英語的](https://zh.wikipedia.org/wiki/英語 "wikilink")「r」音（[國際音標](../Page/國際音標.md "wikilink")：/<sub>3</sub>　sœ<sub>4</sub>/），此外也有讀作**阿蛇**（[國際音標](../Page/國際音標.md "wikilink")：/<sub>3</sub>　s<sub>4</sub>/），被認為是[中國大陸口音](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")。「阿Sir」是[香港](../Page/香港.md "wikilink")和其他[粵語使用地區人宜的](https://zh.wikipedia.org/wiki/粵語 "wikilink")[慣用語](https://zh.wikipedia.org/wiki/慣用語 "wikilink")，借用自[英文的](https://zh.wikipedia.org/wiki/英文 "wikilink")[Sir](../Page/爵士.md "wikilink")〈是對[男士的雅稱](https://zh.wikipedia.org/wiki/男士 "wikilink")，以表示向被稱呼者表達尊重以及敬意，用法不制限於有[爵士](../Page/爵士.md "wikilink")[名銜者](https://zh.wikipedia.org/wiki/名銜 "wikilink")〉，但是有一點與英文不同的，是英語中不限制於對年長者使用此稱呼，年少者亦可使用，例如英語中[侍應對著年青甚至男孩顧客](https://zh.wikipedia.org/wiki/侍應 "wikilink")，亦可以稱為Sir，在香港則通常不會這樣使用，較年少者通常稱為[先生](../Page/先生.md "wikilink")。
 
 ## 日常用法
 
@@ -14,7 +14,7 @@
 
 [ChungSir.PNG](https://zh.wikipedia.org/wiki/File:ChungSir.PNG "fig:ChungSir.PNG")《新紮師妹》中，圖中內容為「Sir」字所虛構的[漢字](https://zh.wikipedia.org/wiki/漢字 "wikilink")\]\]
 
-  - [香港1970年代末開始](https://zh.wikipedia.org/wiki/香港1970年代 "wikilink")，有一個家傳戶曉的[竹葉青酒](https://zh.wikipedia.org/wiki/竹葉青酒 "wikilink")[廣告](../Page/廣告.md "wikilink")（[見youtube.com的視頻](http://www.youtube.com/watch?v=rOQZ4CmhY4A&feature=related)），一群建築工地工人稱呼西洋籍貫的上司阿Sir，阿Sir以帶有西洋口音的粵語說：「你精我都精」，眾人起舉酒杯回應道：「飲杯竹葉青！」
+  - [香港1970年代末開始](https://zh.wikipedia.org/wiki/香港1970年代 "wikilink")，有一個家傳戶曉的[竹葉青酒](https://zh.wikipedia.org/wiki/竹葉青酒 "wikilink")[電視廣告](../Page/電視廣告.md "wikilink")（[見youtube.com的視頻](http://www.youtube.com/watch?v=rOQZ4CmhY4A&feature=related)），一群建築工地工人稱呼西洋籍貫的上司阿Sir，阿Sir以帶有西洋口音的粵語說：「你精我都精」，眾人起舉酒杯回應道：「飲杯竹葉青！」\[1\]
   - 香港於1994年播映的[無綫電視劇集](https://zh.wikipedia.org/wiki/無綫電視劇集列表 "wikilink")《[阿Sir早晨](../Page/阿Sir早晨.md "wikilink")》（由[黎明](../Page/黎明.md "wikilink")飾演主角祝大保老師——祝Sir）中使用了阿Sir作為片名，當中更有一場妙用阿Sir稱謂的片段：一天晚上祝Sir在路上遇見一個女學生被幾個不良少年欺凌，上前阻止，女學生馬上呼叫阿Sir，不良少年初誤以為祝Sir是警察，立時收手；但是後來他們得知祝Sir是教師而非警察，立時向他襲擊。可見阿Sir一詞在日常應用中也會產生誤會。
   - 香港於2011年播映的[無綫電視劇集](https://zh.wikipedia.org/wiki/無綫電視劇集列表 "wikilink")《[點解阿Sir係阿Sir](../Page/點解阿Sir係阿Sir.md "wikilink")》，[陳豪](../Page/陳豪.md "wikilink")飾演的主角羅耀華（羅Sir），以臥底身分進入學校任教，因而同時有「警察阿Sir」與「教師阿Sir」的雙重身分，片名本身也同樣一語雙關。
   - [香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")[喜劇](../Page/喜劇.md "wikilink")《[新紮師妹](../Page/新紮師妹.md "wikilink")》系列中，[警官鍾Sir](https://zh.wikipedia.org/wiki/警官 "wikilink")（[許紹雄](../Page/許紹雄.md "wikilink")飾）在一次[臥底行動中害怕被](https://zh.wikipedia.org/wiki/臥底 "wikilink")[黑幫知道自己的](https://zh.wikipedia.org/wiki/黑幫 "wikilink")[身份](https://zh.wikipedia.org/wiki/身份 "wikilink")，於情急下創作了Sir字的[漢字寫法](https://zh.wikipedia.org/wiki/漢字 "wikilink")（見右圖）。
@@ -28,3 +28,5 @@
 [分類:香港特定人群稱謂](https://zh.wikipedia.org/wiki/分類:香港特定人群稱謂 "wikilink")
 
 [Category:香港俚語](https://zh.wikipedia.org/wiki/Category:香港俚語 "wikilink") [Category:男性称谓](https://zh.wikipedia.org/wiki/Category:男性称谓 "wikilink") [Category:尊称](https://zh.wikipedia.org/wiki/Category:尊称 "wikilink")
+
+1.

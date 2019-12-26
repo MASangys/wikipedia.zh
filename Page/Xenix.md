@@ -31,7 +31,7 @@ SCO最初推出了高端的SCO UNIX，同时保留了Xenix。与此同时，[Sun
   - [circa-1988 Xenix产品包装的图片及描述](https://web.archive.org/web/19960101/http://www.robert.to/reports/scoxenix.html)
   - [德国关于Xenix历史的介绍网站](https://web.archive.org/web/20110719071957/http://os-history.de/experimente/anderesysteme/xenix.html)
   - [Tandy镜像下载](https://web.archive.org/web/20101006081330/http://www.catcorner.org/Tandy/)
-  - [Xenix文档下载](http://www.tenox.tc/docs/)
+  - [Xenix文档下载](https://web.archive.org/web/20130510203509/http://www.tenox.tc/docs/)
   - [未分类的Xenix图片](https://web.archive.org/web/20100623071525/http://www.tenox.tc/tmp/ww/msxenix/pics/)
   - [英特尔Multibus System 320 for Xenix (或称iRMX86)](http://www.retrotechnology.com/herbs_stuff/386intel/i386_multi.html)
   - [Welcome to comp.unix.xenix.sco](http://www.unicom.com/pw/faq/sco-xenix.faq)（v 1.64）

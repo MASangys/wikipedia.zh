@@ -6,11 +6,25 @@
 
 ## 数据
 
-|       |                                                                                                                                         |                                                       |                                                                                                                                                               |      |                                                                                                                                                                                                                                                                                                                                                                                          |        |                                 |         |     |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------- | ------- | --- |
-| *CPU* | [68000](https://zh.wikipedia.org/wiki/MC68000 "wikilink") (12MHz)、聲音：[Z80](https://zh.wikipedia.org/wiki/Z80 "wikilink") (4MHz) |- ---- | *[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")* | [RAM](https://zh.wikipedia.org/wiki/Random_Access_Memory "wikilink")：【68000】64KB、【Z80】2KB、【[VRAM](https://zh.wikipedia.org/wiki/VRAM "wikilink")】68KB |- ---- | *聲音* | [Yamaha](https://zh.wikipedia.org/wiki/Yamaha "wikilink") [YM2610](https://zh.wikipedia.org/wiki/YM2610 "wikilink")（[ADPCM固定取樣率](https://zh.wikipedia.org/wiki/ADPCM "wikilink")18.5kHz 6音+可變取樣率1.8\~55.5kHz 1音 [FM](https://zh.wikipedia.org/wiki/FM声源 "wikilink")4音 [PSG](https://zh.wikipedia.org/wiki/PSG "wikilink")3音 [雜音](https://zh.wikipedia.org/wiki/雜音 "wikilink")1音） |- ---- | *顯示色數* | 65,536色（同時顯示顏色 4,096 色） |- ---- | *圖塊顯示數* | 380 |
-
-*NEOGEO SPEC* |- ----
+<table>
+<caption><em>NEOGEO SPEC</em> |- ----</caption>
+<tbody>
+<tr class="odd">
+<td><p><em>CPU</em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MC68000" title="wikilink">68000</a> (12MHz)、聲音：<a href="https://zh.wikipedia.org/wiki/Z80" title="wikilink">Z80</a> (4MHz) |- ----</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Random_Access_Memory" title="wikilink">RAM</a>：【68000】64KB、【Z80】2KB、【<a href="https://zh.wikipedia.org/wiki/VRAM" title="wikilink">VRAM</a>】68KB |- ----</p></td>
+<td><p><em>聲音</em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Yamaha" title="wikilink">Yamaha</a> <a href="https://zh.wikipedia.org/wiki/YM2610" title="wikilink">YM2610</a>（<a href="https://zh.wikipedia.org/wiki/ADPCM" title="wikilink">ADPCM</a> 7音 <a href="https://zh.wikipedia.org/wiki/FM声源" title="wikilink">FM</a> 4音 SSG 3音 <a href="https://zh.wikipedia.org/wiki/雜音" title="wikilink">雜音</a>1音）<br />
+ADPCM-A: 固定取樣率（18.5kHz）6音<br />
+ADPCM-B: 可變取樣率（1.8~55.5kHz）1音 |- ----</p></td>
+<td><p><em>顯示色數</em></p></td>
+<td><p>65,536色（同時顯示顏色 4,096 色） |- ----</p></td>
+<td><p><em>圖塊顯示數</em></p></td>
+<td><p>380</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 外部链接
 

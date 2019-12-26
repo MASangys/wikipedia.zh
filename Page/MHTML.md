@@ -4,7 +4,7 @@ MHTML在RFC 2110中定義，後經RFC 2557修訂。MHTML文檔的基礎是[超�
 
 ## 和HTML的分別
 
-HTML頁面中的圖形和其他功能必須分開存放，也需要原始文件上引用。MHTML可以把網頁上的附件儲存為單一網頁。
+HTML頁面中的圖形和其他功能可以分開存放，需要原始文件上引用，也可以通過data URI scheme將圖形等嵌入其中。MHTML把網頁及其附件皆儲存為單一檔案。
 
 ## 創建及編輯
 
@@ -28,11 +28,11 @@ HTML頁面中的圖形和其他功能必須分開存放，也需要原始文件�
 
 ### Firefox
 
-[Firefox](../Page/Firefox.md "wikilink")不支援讀寫MHT文件。\[4\]在57.0之前有兩個這樣的擴展是免費提供的，如[Mozilla Archive Format](https://addons.mozilla.org/firefox/addon/mozilla-archive-format/)、[UnMHT](https://addons.mozilla.org/firefox/addon/unmht/)。
+[Firefox](../Page/Firefox.md "wikilink")不支援讀寫MHT文件。\[4\]在57.0之前有兩個這樣的擴展是免費提供的，如[Mozilla Archive Format](http://maf.mozdev.org/index.html)、[UnMHT](https://web.archive.org/web/20170207055530/http://www.unmht.org/unmht/en_index.html)。
 
 ### Google Chrome
 
-在當前版本的[Chrome](../Page/Google_Chrome.md "wikilink")，原生創建MHTML文件要在啟用實驗性的選項，\[5\]另有一些擴展程式通过调用支援這一功能的代碼提供相應的界面。\[6\]\[7\]
+在[Chrome創建MHTML文件可以通過啟用](../Page/Google_Chrome.md "wikilink")這個實驗性的選項（25.0起），\[5\]或是通過用於擴展程式的API（33.0起）。\[6\]
 
 ### Safari
 
@@ -109,14 +109,8 @@ er8JhHg8PhgQBrPZwG673+6CoUCv2+91gn5PGPT7fgOCg4SFhQKIiYoCAY2Oj5AAAZIAlJWXACEA
 [Category:网页归档格式](https://zh.wikipedia.org/wiki/Category:网页归档格式 "wikilink") [Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.  [How to save a web page as MHT in chrome?](http://superuser.com/questions/369232/how-to-save-a-web-page-as-mht-in-chrome), superuser.com
-
 6.
-
-7.

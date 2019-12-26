@@ -23,7 +23,6 @@ OGLE-2005-BLG-390L目前已知有一顆行星，這顆行星被編為**OGLE-05-3
 [Category:天蠍座](https://zh.wikipedia.org/wiki/Category:天蠍座 "wikilink") [Category:紅矮星](https://zh.wikipedia.org/wiki/Category:紅矮星 "wikilink") [Category:重力透鏡](https://zh.wikipedia.org/wiki/Category:重力透鏡 "wikilink") [Category:行星系](https://zh.wikipedia.org/wiki/Category:行星系 "wikilink")
 
 1.
-
 2.
 3.
 4.

@@ -38,7 +38,7 @@ K線的長短取決於價差，若开盘价和收盘价的差距越大，則實�
   - [K線变种](http://www.authorstream.com/Presentation/nofriends-1388352/)
   - [《陰陽燭戰術》](http://www.etpress.com.hk/etpress/bookdetail.do?id=9789626786499)
   - [陰陽燭形態速查](https://web.archive.org/web/20101113105046/http://www.mspandora.com/index.php?option=com_content&view=article&id=94%3Acandlestick-summary&catid=42%3Acandlestick&Itemid=89)
-  - [怎样看K线图](http://finance.anhuinews.com/system/2002/03/30/000003989.shtml)
+  - [怎样看K线图](https://web.archive.org/web/20070226192307/http://finance.anhuinews.com/system/2002/03/30/000003989.shtml)
   - [日本模式](https://web.archive.org/web/20080626102731/http://stock-market-strategy.s-f9.com/)
   - [投資知識家：解析美國線、收盤線與K線異同](https://web.archive.org/web/20110616073755/http://news.wearn.com/article.asp?id=740)
 

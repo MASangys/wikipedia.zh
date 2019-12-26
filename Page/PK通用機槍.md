@@ -1,8 +1,8 @@
-**PK通用機槍**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：Пулемет Калашникова，俄語羅馬化：Pulemyot Kalashnikova，意為：卡拉什尼科夫機槍）是由[AK-47突击步枪的設計者](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")[米哈伊尔·季莫费耶维奇·卡拉什尼科夫在](https://zh.wikipedia.org/wiki/米哈伊尔·季莫费耶维奇·卡拉什尼科夫 "wikilink")1961年所設計的[通用機槍](../Page/通用機槍.md "wikilink")，用於取代當時設計老舊的[RPD輕機槍](../Page/RPD輕機槍.md "wikilink")和[SG-43中型機槍](../Page/SG-43中型機槍.md "wikilink")，並大量裝備[蘇聯軍隊](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，PK通用機槍在蘇軍中的位置等同[北約國家的](https://zh.wikipedia.org/wiki/北約 "wikilink")[FN MAG](../Page/FN_MAG通用機槍.md "wikilink")（[M240](../Page/M240通用機槍.md "wikilink")）、[M60或](../Page/M60通用機槍.md "wikilink")[MG3](../Page/MG3通用機槍.md "wikilink")。
+**PK通用機槍**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：Пулемет Калашникова，俄語羅馬化：Pulemyot Kalashnikova，意為：卡拉什尼科夫機槍）是由[AK突擊步槍的設計者](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")[米哈伊尔·季莫费耶维奇·卡拉什尼科夫在](https://zh.wikipedia.org/wiki/米哈伊尔·季莫费耶维奇·卡拉什尼科夫 "wikilink")1961年所設計的[通用機槍](../Page/通用機槍.md "wikilink")，用於取代當時設計老舊的[RPD輕機槍](../Page/RPD輕機槍.md "wikilink")和[SG-43中型機槍](../Page/SG-43中型機槍.md "wikilink")，並大量裝備[蘇聯軍隊](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，PK通用機槍在蘇軍中的位置等同[北約國家的](https://zh.wikipedia.org/wiki/北約 "wikilink")[FN MAG](../Page/FN_MAG通用機槍.md "wikilink")（[M240](../Page/M240通用機槍.md "wikilink")）、[M60或](../Page/M60通用機槍.md "wikilink")[MG3](../Page/MG3通用機槍.md "wikilink")。
 
 ## 設計
 
-原型的PK通用機槍由[AK-47自動步槍氣動系統及旋轉式槍機閉鎖系統的基礎改進而成](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")，發射[莫辛-納甘步槍](../Page/莫辛-納甘步槍.md "wikilink")及[SVD狙擊步槍](../Page/SVD狙擊步槍.md "wikilink")的[7.62×54毫米R舊型凸緣彈藥](../Page/7.62×54mmR.md "wikilink")，其後推出的改進版本，將槍枝盡量減重，並將槍管厚度減少，命名為PKM（[俄文](https://zh.wikipedia.org/wiki/俄文 "wikilink")：Пулемет Калашникова Модернизированный）。PK通用機槍大量減輕槍身的重量，槍機容納部採鋼板壓鑄成形法製造，[槍托](../Page/槍托.md "wikilink")中央也挖空，並在槍管外圍刻了許多溝紋，以致PK通用機槍只有9公斤，而PKM只有8.4公斤。PK通用機槍發射[7.62×54毫米R](../Page/7.62×54mmR.md "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，[彈鏈](../Page/彈鏈.md "wikilink")由[機匣右邊進入](https://zh.wikipedia.org/wiki/機匣 "wikilink")，彈殼在左邊排出。PK通用機槍的設計除可用作一般射擊有生目標外，亦可作防空機槍用途。當時蘇軍的7.62×54R彈鏈主要為25發，士兵多需要人手連接。由於生產當時正值[冷戰時期](https://zh.wikipedia.org/wiki/冷戰 "wikilink")，蘇聯及[華約國家不斷地增加軍備及不小國家都作特許生產](https://zh.wikipedia.org/wiki/華約 "wikilink")，因此PK通用機槍系列數量超過1,000,000把。
+原型的PK通用機槍由[AK自動步槍氣動系統及旋轉式槍機閉鎖系統的基礎改進而成](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")，發射[莫辛-納甘步槍](../Page/莫辛-納甘步槍.md "wikilink")及[SVD狙擊步槍](../Page/SVD狙擊步槍.md "wikilink")的[7.62×54毫米R舊型凸緣彈藥](../Page/7.62×54mmR.md "wikilink")，其後推出的改進版本，將槍枝盡量減重，並將槍管厚度減少，命名為PKM（[俄文](https://zh.wikipedia.org/wiki/俄文 "wikilink")：Пулемет Калашникова Модернизированный）。PK通用機槍大量減輕槍身的重量，槍機容納部採鋼板壓鑄成形法製造，[槍托](../Page/槍托.md "wikilink")中央也挖空，並在槍管外圍刻了許多溝紋，以致PK通用機槍只有9公斤，而PKM只有8.4公斤。PK通用機槍發射[7.62×54毫米R](../Page/7.62×54mmR.md "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，[彈鏈](../Page/彈鏈.md "wikilink")由[機匣右邊進入](https://zh.wikipedia.org/wiki/機匣 "wikilink")，彈殼在左邊排出。PK通用機槍的設計除可用作一般射擊有生目標外，亦可作防空機槍用途。當時蘇軍的7.62×54R彈鏈主要為25發，士兵多需要人手連接。由於生產當時正值[冷戰時期](https://zh.wikipedia.org/wiki/冷戰 "wikilink")，蘇聯及[華約國家不斷地增加軍備及不小國家都作特許生產](https://zh.wikipedia.org/wiki/華約 "wikilink")，因此PK通用機槍系列數量超過1,000,000把。
 
 ## 型号
 
@@ -180,7 +180,8 @@
   - 2014年—《[-{zh-hans:孤岛惊魂; zh-hant:極地戰嚎;}-4](https://zh.wikipedia.org/wiki/極地戰嚎4 "wikilink")》（Far Cry 4）
   - 2016年—《[-{zh-hans:使命召唤：现代战争; zh-hk:決勝時刻：現代戰爭; zh-tw:決勝時刻：現代戰爭;}-重製版](../Page/決勝時刻4：現代戰爭.md "wikilink")》（Call of Duty: Modern Warfare Remastered）：於2017年3月14日添加到遊戲內。型號為PKM，命名为「PKM」，只於聯機模式登場。
   - 2016年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》（Girls' Frontline），被名為「PK」的戰術人形所使用。
-  - 2018年—《叛亂：沙塵暴》（Insurgency:Sandstorm）
+  - 2018年—《》（Insurgency:Sandstorm）
+  - 2019年—《[-{zh-cn:使命召唤：现代战争; zh-tw:決勝時刻：現代戰爭; zh-hk:使命召喚：現代戰爭}-](https://zh.wikipedia.org/wiki/使命召唤：现代战争_\(2019年遊戲\) "wikilink")》（Call of Duty: Modern Warfare）：型號為PKM，命名為“PKM”，可進行自定義改裝。故事模式中由巴爾科夫的俄軍部隊和阿爾蓋塔拉恐怖組織所使用。
 
 ### 小說
 
@@ -200,7 +201,7 @@
 
 ## 相關條目
 
-  - [AK-47突击步枪](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")
+  - [AK突擊步槍](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")
   - [RPD輕機槍](../Page/RPD輕機槍.md "wikilink")
   - [FN MAG通用機槍](../Page/FN_MAG通用機槍.md "wikilink")
   - [M60通用機槍](../Page/M60通用機槍.md "wikilink")

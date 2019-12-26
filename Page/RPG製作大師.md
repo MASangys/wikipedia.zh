@@ -88,7 +88,7 @@ RPG Maker 95的加強版
 
 #### RPG Maker MV Trinity
 
-2018年11月15日於[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[Nintendo Switch上發行的版本](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink")，[Xbox One版則是明年冬季發售](../Page/Xbox_One.md "wikilink")，因其他變數而宣布終止發售。首次中文化。
+2018年11月15日於[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[Nintendo Switch上發行的版本](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink")，[Xbox One版則原預定](../Page/Xbox_One.md "wikilink")2019年冬季發售，因其他變數而宣布終止發售。首次中文化。
 
 MV的加強版，追加角色配音以及導入歌唱樂曲。另附女歌手 エリアンナ親自製作的5首歌曲BGM。
 
@@ -133,7 +133,7 @@ MV的加強版，追加角色配音以及導入歌唱樂曲。另附女歌手 �
 ## 外部連結
 
   - [Enterbrain](http://www.enterbrain.co.jp/)
-  - [ツクールweb](http://tkool.jp/)
+  - [ツクールweb](https://web.archive.org/web/20110624000425/http://tkool.jp/)
   - [RPG Maker英文官網](http://www.rpgmakerweb.com/)
   - [RPG Maker 2000介紹頁](https://web.archive.org/web/20100922013948/http://tkool.jp/products/rpg2000/)
   - [RPG Maker XP介紹頁](http://tkool.jp/products/rpgxp/)
@@ -142,26 +142,20 @@ MV的加強版，追加角色配音以及導入歌唱樂曲。另附女歌手 �
   - [RPG Maker MV介紹頁](http://tkool.jp/mv/)
   - [RPG Maker MV Trinity介紹頁](http://tkool.jp/trinity/)
   - [RPG Maker FES介紹頁](http://tkool.jp/fes/index.html)
-  - [光譜資訊官方網站](http://www.ttime.com.tw/) - RPG Maker 2003 台灣代理官方網站
-  - [英特衛多媒體](http://www.interwise.com.tw/) - RPG Maker XP 台灣代理官方網站
   - [巴哈姆特RPG製作大師哈拉板](http://forum.gamer.com.tw/A.php?bsn=4918)
   - [RPG Maker in 製作者們的酒館](https://sites.google.com/site/taiwanrpgplayer/)
   - [RPG Maker Wiki](https://rpgmaker.wiki/)
   - [非官方RPG Maker Wiki](http://rpgmaker.wikia.com/)
 
-[Category:電子遊戲研發](https://zh.wikipedia.org/wiki/Category:電子遊戲研發 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:遊戲製作軟件](https://zh.wikipedia.org/wiki/Category:遊戲製作軟件 "wikilink") [Category:RPG製作大師](https://zh.wikipedia.org/wiki/Category:RPG製作大師 "wikilink")
+[Category:電子遊戲研發](https://zh.wikipedia.org/wiki/Category:電子遊戲研發 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:電子遊戲開發軟件](https://zh.wikipedia.org/wiki/Category:電子遊戲開發軟件 "wikilink") [Category:RPG製作大師](https://zh.wikipedia.org/wiki/Category:RPG製作大師 "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
 6.
 7.
-
 8.
-
 9.
-
 10.

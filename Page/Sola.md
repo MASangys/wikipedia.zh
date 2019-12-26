@@ -627,12 +627,6 @@
 
 ## 註釋
 
-<div class="references-small">
-
-<references/>
-
-</div>
-
 ## 參考資料
 
 <div class="references-small">

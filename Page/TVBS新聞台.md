@@ -30,7 +30,8 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
   - 2016年12月21日14點：更換台標和各節新聞的音樂，不再使用[TVB的開場音樂](https://zh.wikipedia.org/wiki/TVB "wikilink")。\[3\]
   - 2018年11月24日起：啟用新虛實合一的超大攝影棚並擁有雙電視牆及超大主播台。
   - 2018年11月26日起：TVBS新聞YouTube線上直播正式上線。
-  - 2019年09月26日起：TVBS新聞左上方標題、左下方天氣資訊上方紅色框框更改及撰稿名字改版。
+  - 2019年9月26日起：TVBS新聞左上方標題、左下方天氣資訊上方紅色框框更改及撰稿名字改版。
+  - 2019年11月5日起：TVBS新聞YouTube頻道改版。
 
 ## 專題節目
 
@@ -75,12 +76,12 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
 
 ### 專任主播
 
-|                      **專任主播**                       |
-| :-------------------------------------------------: |
-|          [夏嘉璐](../Page/夏嘉璐.md "wikilink")           |
-|          [吳安琪](../Page/吳安琪.md "wikilink")           |
-|          [黃斐瑜](../Page/黃斐瑜.md "wikilink")           |
-| [蔡孟樺](https://zh.wikipedia.org/wiki/蔡孟樺 "wikilink") |
+|             **專任主播**             |
+| :------------------------------: |
+| [夏嘉璐](../Page/夏嘉璐.md "wikilink") |
+| [吳安琪](../Page/吳安琪.md "wikilink") |
+| [黃斐瑜](../Page/黃斐瑜.md "wikilink") |
+|                                  |
 
 ### 氣象主播
 
@@ -93,7 +94,7 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
 |                      **兼職主播**                       |
 | :-------------------------------------------------: |
 | [王德愷](https://zh.wikipedia.org/wiki/王德愷 "wikilink") |
-|          [蔣志偉](../Page/蔣志偉.md "wikilink")           |
+|                         蔣志偉                         |
 | [錢麗如](https://zh.wikipedia.org/wiki/錢麗如 "wikilink") |
 |                                                     |
 
@@ -137,6 +138,7 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
   - 邱顯辰（現任[大愛電視](../Page/大愛電視.md "wikilink")《全球視野》主持人）
   - [王博麟](https://zh.wikipedia.org/wiki/王博麟 "wikilink")（現[FOX體育台](../Page/FOX體育台.md "wikilink")主播）
   - 蔡祐吉（現任亞泥公關經理）
+  - 鄭尹翔(現為[三立新聞網記者](https://zh.wikipedia.org/wiki/三立新聞網 "wikilink"))
 
 <!-- end list -->
 
@@ -176,9 +178,9 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
   - [拉娃谷幸](https://zh.wikipedia.org/wiki/拉娃谷幸 "wikilink")（曾任財團法人原住民族文化事業基金會執行長）
   - [顧名儀](https://zh.wikipedia.org/wiki/顧名儀 "wikilink")（前[年代新聞台](../Page/年代新聞台.md "wikilink")主播、[中天新聞台](../Page/中天新聞台.md "wikilink")《選戰暴風眼》主持人）
   - [李文儀](../Page/李文儀.md "wikilink")（現任[三立新聞台](../Page/三立新聞台.md "wikilink")《[新聞深一度](https://zh.wikipedia.org/wiki/新聞深一度 "wikilink")》主播、《[我們一家人](https://zh.wikipedia.org/wiki/我們一家人 "wikilink")》主持人）
-  - [詹慶齡](../Page/詹慶齡.md "wikilink")（曾任[ETtoday新聞雲](../Page/ETtoday新聞雲.md "wikilink")《[史瑪特過生活](https://zh.wikipedia.org/wiki/史瑪特過生活 "wikilink")》節目主持人）
+  - [詹慶齡](../Page/詹慶齡.md "wikilink")（現任[MOMO TV](https://zh.wikipedia.org/wiki/MOMO_TV "wikilink")《[大雲時堂](../Page/大雲時堂.md "wikilink")》節目主持人）
   - [廖盈婷](../Page/廖盈婷.md "wikilink")（現任Super Snow Show 網路節目主持人兼製作人）
-  - [簡懿佳](../Page/簡懿佳.md "wikilink")
+  - [簡懿佳](../Page/簡懿佳.md "wikilink")（2017年3月初離開[TVBS新聞台](../Page/TVBS新聞台.md "wikilink")後，加入[華研國際音樂](../Page/華研國際音樂.md "wikilink")跨足娛樂圈與主持圈）
   - [谷庭](https://zh.wikipedia.org/wiki/谷庭 "wikilink")
   - [林秉儀](https://zh.wikipedia.org/wiki/林秉儀 "wikilink")
   - [張愛晶](https://zh.wikipedia.org/wiki/張愛晶 "wikilink")

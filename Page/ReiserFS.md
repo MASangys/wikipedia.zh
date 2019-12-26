@@ -53,7 +53,7 @@ ReiserFS在一个单一复合[B+树](../Page/B+树.md "wikilink")中存储文件
 ## 外部連結
 
   - [ReiserFS and Reiser4 wiki](https://reiser4.wiki.kernel.org)
-  - [Namesys web site](http://web.archive.org/web/20071024001500/http://www.namesys.com/)（archived version from 2007 October）
+  - [Namesys web site](https://web.archive.org/web/20071024001500/http://www.namesys.com/)（archived version from 2007 October）
   - Theodore Ts'o [critiques](https://web.archive.org/web/20050210042704/http://linuxmafia.com/faq/Filesystems/reiserfs.html) the ReiserFS block journaling implementation
   - [convertfs](http://tzukanov.narod.ru/convertfs)，a utility which performs in-place conversion between any two file systems with sparse file support
   - An overview of the ReiserFS [on-disk format](https://web.archive.org/web/20050509002339/http://p-nand-q.com/download/rfstool/reiserfs_docs.html)

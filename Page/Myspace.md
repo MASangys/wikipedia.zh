@@ -135,75 +135,40 @@ MySpace也創造出了許多「Myspace名人」，這些人在MySpace上受到�
 [Category:2003年建立的网站](https://zh.wikipedia.org/wiki/Category:2003年建立的网站 "wikilink") [Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink") [Category:虛擬社群](https://zh.wikipedia.org/wiki/Category:虛擬社群 "wikilink") [Category:网络相册](https://zh.wikipedia.org/wiki/Category:网络相册 "wikilink") [Category:網誌](https://zh.wikipedia.org/wiki/Category:網誌 "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink")
 
 1.  [Alexa Internet](https://zh.wikipedia.org/wiki/Alexa "wikilink") - *[top 500 English-language websites](http://www.alexa.com/site/ds/top_sites?ts_mode=lang&lang=en)* 和 *[top 500 global websites](http://www.alexa.com/site/ds/top_sites?ts_mode=global&lang=none)*，於2006年12月23日引用。
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
 8.  2005-07-18 - [News Corporation to Acquire Intermix Media, Inc.](http://www.intermix.com/about_press_inthenews.cfm?id=752&startrow=8) （Intermix Media），2005-12-29 引用
-
 9.  原文為：*tap into the UK music scene*
-
 10.
-
 11. [Myspace China, Germany, and France this Summer?](http://goingglobal.corante.com/archives/2006/06/21/myspace_china_germany_and_france_this_summer.php)
-
 12.
-
 13. [Netcraft netblock report](http://toolbar.netcraft.com/netblock?q=MYSPA-2,216.178.32.0,216.178.47.255) for the \*.myspace.com netblock (as of September 2006)
-
-14. [Chit Chat](http://www.timescommunity.com/site/tab6.cfm?newsid=17259951&BRD=2553&PAG=461&dept_id=506108&rfi=6)
-
+14.
 15.
-
 16. 原文：*Sorry\! an unexpected error has occurred. This error has been forwarded toMyspace's technical group.*
-
 17. {{〈}}MySpace交友網 進軍中國{{〉}}，台灣《蘋果日報》2007年5月21日{{〈}}蘋果國際{{〉}}
-
 18. 原文：*such a haven for student gossip and malicious comments*
-
 19.
-
 20. 在2005年秋天，位於紐澤西州的「教宗若望二十三世信仰高中」（Pope John XXIII Regional High School）因為禁止學生在Myspace或其他類似網站上擁有個人頁面而登登上新聞頭條，這項禁令甚至不允許學生在學校以外的地點使用這些網站。
-
 21. [3](http://www.mtv.com/news/articles/1512215/20051025/index.jhtml?headlines=true)
-
 22. [Blogging ban provokes a debate over cyberspace: Pope John H.S. demands that online profiles end, calls forums havens for sexual predators](http://www.dailyrecord.com/apps/pbcs.dll/article?AID=/20051024/NEWS01/510240324/1005) - *Daily Record*－2005年10月24日
-
 23.
-
 24. [Myspace网站开放“色狼”数据库](http://news.xinhuanet.com/tech/2007-02/01/content_5681597.htm)，新华网
-
 25. 原文：*The way it's been portrayed in the media, is that you were almost like discovered by Myspace; how accurate is that?*
-
 26. 原文：*Not accurate at all, I had a record deal before I set up my Myspace account so, erm, that's ... couldn't really be further from the truth.*
-
 27.
-
 28.
-
 29. ["YouTube Fastest Growing Website"](http://adage.com/digital/article.php?article_id=110632) -
-
 30.
-
 31.
-
 32. 原文：*driven off the back ofMyspace*
-
 33. 原文：*we ought to be able to match them if not exceed them*
-
 34.
-
 35.
-
 36. {{ cite news | url = <http://www.theregister.co.uk/2006/08/07/google_wins_myspace/> | title = Google pays $900m to monetize children via Myspace | publisher = The Register | last = Vance | first = Ashlee | date = 2006-08-07 | accessdate = 2006-09-09 }}
-
 37. {{ cite news | url = <http://business.guardian.co.uk/story/0,,1839333,00.html> | title = Google to pay $900m for Myspace link-up | last = Clark | first = Andrew | publisher = Guardian Unlimited Business | date = 2006-08-08 | accessdate = 2006-09-09 }}
-
 38. [人氣退燒Myspace恐失Google 9億美元資金](http://news.chinatimes.com/CMoney/News/News-Page-content/0,4993,11050705+122009110600274,00.html)  金融時報2009/11/4報導

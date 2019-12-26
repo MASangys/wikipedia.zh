@@ -1,6 +1,6 @@
 [Sinc_function_(both).svg](https://zh.wikipedia.org/wiki/File:Sinc_function_\(both\).svg "fig:Sinc_function_(both).svg")
 
-**sinc函数**是一種[函數](https://zh.wikipedia.org/wiki/函數 "wikilink")，在不同的領域它有不同的定義。數學家們用符號 \(\mathrm{sinc}(x)\,\) 表示這種函數。 sinc函数可以被定義为**归一化的**或者**非归一化的**，不過兩種函數都是[正弦函数和](https://zh.wikipedia.org/wiki/正弦函数 "wikilink")[单调的](../Page/单调函数.md "wikilink")[递减函数](https://zh.wikipedia.org/wiki/递减函数 "wikilink") 1/*x*的乘积：
+**sinc函数**（）是一種[函數](https://zh.wikipedia.org/wiki/函數 "wikilink")，在不同的領域它有不同的定義。數學家們用符號 \(\mathrm{sinc}(x)\,\) 表示這種函數。 sinc函数可以被定義为**归一化的**或者**非归一化的**，不過兩種函數都是[正弦函数和](https://zh.wikipedia.org/wiki/正弦函数 "wikilink")[单调的](../Page/单调函数.md "wikilink")[递减函数](https://zh.wikipedia.org/wiki/递减函数 "wikilink") 1/*x*的乘积：
 
 1.  在[-{zh-tw:數位訊號處理; zh-cn:数字信号处理; zh-hk:數碼訊號處理;}-和](https://zh.wikipedia.org/wiki/數位訊號處理 "wikilink")[通信理论中](https://zh.wikipedia.org/wiki/通信理论 "wikilink")，人們把**归一化sinc函数**定义为
       -
@@ -82,11 +82,6 @@
 
 在上面的表达式中，随着 *a* 趋近于 0，sinc 函数每个单元长度上的振动次数趋近于[无限](https://zh.wikipedia.org/wiki/无限 "wikilink")，然而不管 *a* 是什么值，这个表示通常在 ±1/(π*x*) 内振动。这与 δ(x) 的非正式表示有所矛盾，δ(x) 除了 *x=0* 之外其它 *x* 上的值都是 0，这表明了将δ函数作为函数而不是分布带来的问题。在[吉布斯现象](../Page/吉布斯现象.md "wikilink")（Gibbs phenomenon）中也有类似的状况。
 
-## 参考文献
-
-## 外部链接
-
-  -
 ## 参见
 
   - [抗混叠](https://zh.wikipedia.org/wiki/抗混叠 "wikilink")
@@ -96,4 +91,9 @@
   -
   - [波尔文积分](../Page/波尔文积分.md "wikilink")
 
+## 参考文献
+
+## 外部链接
+
+  -
 [Category:信号处理](https://zh.wikipedia.org/wiki/Category:信号处理 "wikilink") [Category:基本特殊函数](https://zh.wikipedia.org/wiki/Category:基本特殊函数 "wikilink")

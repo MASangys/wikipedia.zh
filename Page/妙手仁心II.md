@@ -54,10 +54,11 @@
 <a href="https://zh.wikipedia.org/wiki/急診室" title="wikilink">急診室主診醫生</a><br />
 筆名<strong>清風</strong><br />
 江新月之男友<br />
-程至美之好友<br />
+程至美、唐姿禮之好友<br />
 溫美君之前夫<br />
-阮朗平之傾慕對象<br />
-畢芬妮之子</p></td>
+阮朗平之上司兼傾慕對象<br />
+畢芬妮之子<br />
+於第20、32集與阮郎平發生關係</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/曹永廉.md" title="wikilink">曹永廉</a></strong></p></td>
@@ -72,13 +73,17 @@
 <td><p><strong>Dorothy</strong><br />
 急診室醫生<br />
 江新月之好友<br />
-喜歡黎國柱</p></td>
+黎國柱之下屬，暗戀黎國柱<br />
+於第20集與黎國柱發生關係<br />
+於第32集再次與黎國柱發生關係，后懷孕</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/馬浚偉.md" title="wikilink">馬浚偉</a></strong></p></td>
 <td><p><strong>張家裕</strong></p></td>
 <td><p><strong>Joe</strong><br />
 急診室醫生／無國界醫生<br />
+張創業之好友<br />
+凌少霞之夫<br />
 於第36集回港，並代替黎國柱</p></td>
 </tr>
 <tr class="even">
@@ -304,6 +309,60 @@ Johnson之女友</p></td>
 </tbody>
 </table>
 
+### 上輯主要演員
+
+  - 於上輯擔任主要角色，本輯並未參演，只在眾人口中提及。
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>暱稱／關係</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/蘇永康.md" title="wikilink">蘇永康</a></strong></p></td>
+<td><p><strong>江滿月</strong></p></td>
+<td><p><strong>Gilbert、阿Gil</strong><br />
+前仁愛醫院<a href="https://zh.wikipedia.org/wiki/內科" title="wikilink">內科醫生</a><br />
+江新月之弟<br />
+程至美、黎國柱之同居好友<br />
+因患有愛滋病引發併發症去世<br />
+已去世<br />
+參見<a href="../Page/妙手仁心.md" title="wikilink">上輯</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="../Page/陳芷菁.md" title="wikilink">陳芷菁</a></strong></p></td>
+<td><p><strong>凌少霞</strong></p></td>
+<td><p><strong>Helen</strong><br />
+前仁愛醫院護士長，現為無國界醫生<br />
+張家裕之妻<br />
+長居國外<br />
+參見<a href="../Page/妙手仁心.md" title="wikilink">上輯</a></p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/張家輝.md" title="wikilink">張家輝</a></strong></p></td>
+<td><p><strong>張創業</strong></p></td>
+<td><p><strong>Peter</strong><br />
+前警局沙展<br />
+周淑茵之夫<br />
+張家裕之好友<br />
+婚後移居英國<br />
+參見<a href="../Page/妙手仁心.md" title="wikilink">上輯</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="../Page/湯盈盈.md" title="wikilink">湯盈盈</a></strong></p></td>
+<td><p><strong>周淑茵</strong></p></td>
+<td><p><strong>Judy</strong><br />
+曾為援交者，後修心養性<br />
+黎國柱之照顧對象<br />
+張創業之妻<br />
+婚後移居英國<br />
+參見<a href="../Page/妙手仁心.md" title="wikilink">上輯</a></p></td>
+</tr>
+</tbody>
+</table>
+
 ### 其他演員
 
 <table>
@@ -320,15 +379,19 @@ Johnson之女友</p></td>
 <a href="../Page/大律師.md" title="wikilink">大律師</a><br />
 江滿月之姊<br />
 黎國柱之女友<br />
-唐姿禮、程至美之好友</p></td>
+唐姿禮、程至美之好友<br />
+於第25集與黎國柱分手并離港<br />
+於第40集回港，並與黎國柱復合</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/蔡少芬.md" title="wikilink">蔡少芬</a></strong></p></td>
 <td><p><strong>唐姿禮</strong></p></td>
 <td><p><strong>Jackie</strong><br />
+前仁愛醫院<a href="https://zh.wikipedia.org/wiki/急診室" title="wikilink">急診室醫生</a><br />
 唐永全之女<br />
 程至美之女友<br />
-於手術後一直昏迷，兩年後甦醒（參見<a href="../Page/妙手仁心.md" title="wikilink">上輯</a>）<br />
+江新月、黎國柱之好友<br />
+於手術後一直昏迷，兩年後（於第6集）甦醒（參見<a href="../Page/妙手仁心.md" title="wikilink">上輯</a>）<br />
 於第8集被濃煙嗆傷而去世</p></td>
 </tr>
 <tr class="even">
@@ -338,7 +401,9 @@ Johnson之女友</p></td>
 律師<br />
 江新月之同學<br />
 黎國柱之前妻<br />
-譚勇明之前上司</p></td>
+譚勇明之前上司<br />
+於第21集出場<br />
+於第36集離港，前往西雅圖發展</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/唐文龍.md" title="wikilink">唐文龍</a></strong></p></td>
@@ -346,7 +411,7 @@ Johnson之女友</p></td>
 <td><p><strong>Edmond、Ming Sir</strong><br />
 前警長，後因病而轉任律師行文員<br />
 萬寧生之男友<br />
-溫美君之前助理</p></td>
+溫美君之前助理，曾暗戀溫美君</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/黃德斌.md" title="wikilink">黃德斌</a></strong></p></td>
@@ -359,7 +424,7 @@ Johnson之女友</p></td>
 <td><p><strong>徐嘉詠</strong></p></td>
 <td><p>程至美之初戀情人<br />
 患有<a href="https://zh.wikipedia.org/wiki/骨癌" title="wikilink">骨癌</a><br />
-於第16集去世</p></td>
+於第16集離世</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/胡楓.md" title="wikilink">胡　楓</a></strong></p></td>
@@ -373,7 +438,7 @@ Johnson之女友</p></td>
 <td><p><strong>Fanny</strong><br />
 黎國柱之母<br />
 患有<a href="../Page/胃癌.md" title="wikilink">胃癌</a><br />
-於第35集去世</p></td>
+於第35集離世</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/梁舜燕.md" title="wikilink">梁舜燕</a></p></td>
@@ -397,7 +462,7 @@ Johnson之女友</p></td>
 <td><p>何守義</p></td>
 <td><p>何守仁之兄<br />
 何志泓、何心妍之大伯<br />
-於第33集去世</p></td>
+於第33集離世</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/曾守明.md" title="wikilink">曾守明</a></p></td>
@@ -481,17 +546,17 @@ Johnson之女友</p></td>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/李岡龍" title="wikilink">李岡龍</a></p></td>
 <td><p>沈　偉</p></td>
-<td><p>第一集車禍女死者丈夫</p></td>
+<td><p>第1集車禍女死者丈夫</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/鄧建邦" title="wikilink">鄧建邦</a></p></td>
 <td><p>強</p></td>
-<td><p>第一集車禍孕婦之丈夫</p></td>
+<td><p>第1集車禍孕婦之丈夫</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/宋芝齡.md" title="wikilink">宋芝齡</a></p></td>
 <td><p>英</p></td>
-<td><p>第一集車禍孕婦</p></td>
+<td><p>第1集車禍孕婦</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/阮毅雄.md" title="wikilink">阮毅雄</a></p></td>

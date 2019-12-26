@@ -122,7 +122,7 @@ NVIDIA在2013年以後停止對NVIDIA GeForce 8以前的顯示驅動程式支援
   - [NVIDIA GeForce 7主頁](http://www.nvidia.com.tw/page/geforce7.html)
   - [NVIDIA GeForce Go 7主頁](http://www.nvidia.com.tw/page/geforcego7.html)
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:GeForce系列](https://zh.wikipedia.org/wiki/Category:GeForce系列 "wikilink") [Category:2005年面世的產品](https://zh.wikipedia.org/wiki/Category:2005年面世的產品 "wikilink")
 
 1.  [N卡AGP最高端 XFX 7950GT上市](http://news.mydrivers.com/1/80/80876.htm)
 2.  [GeForce 7900 GX2/7950 GX2 Quad SLI Performance Update](http://www.firingsquad.com/hardware/geforce_7900_7950_gx2_quad_sli_update/default.asp)

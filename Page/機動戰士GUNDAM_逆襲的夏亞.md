@@ -12,16 +12,16 @@
 
 ## 主要登場人物
 
-### [隆德·貝爾](https://zh.wikipedia.org/wiki/U.C.紀元GUNDAM作品機動兵器列表 "wikilink")
+### 隆德·貝爾
 
   - [阿姆羅·雷](../Page/阿姆羅·雷.md "wikilink")（聲優 - [古谷徹](../Page/古谷徹.md "wikilink")）
   - [布萊特·諾亞](../Page/布萊特·諾亞.md "wikilink")（聲優 - [鈴置洋孝](../Page/鈴置洋孝.md "wikilink")）
 
-### [新吉翁](../Page/吉翁公國.md "wikilink")
+### 新吉翁
 
   - [夏亞·阿茲納布爾](../Page/夏亞·阿茲納布爾.md "wikilink")（聲優- [池田秀一](../Page/池田秀一.md "wikilink")）
   - [娜娜伊·米格爾](https://zh.wikipedia.org/wiki/娜娜伊·米格爾 "wikilink")（聲優- [榊原良子](../Page/榊原良子.md "wikilink")）
-  - [葵絲·帕拉雅/葵絲·艾亞](https://zh.wikipedia.org/wiki/葵絲·帕拉雅/葵絲·艾亞 "wikilink")（聲優- [川村万梨阿](../Page/川村万梨阿.md "wikilink")）
+  - [珂絲·帕拉雅/珂絲·艾亞](https://zh.wikipedia.org/wiki/珂絲·帕拉雅/珂絲·艾亞 "wikilink")（聲優- [川村万梨阿](../Page/川村万梨阿.md "wikilink")）
   - [裘尼·卡斯](https://zh.wikipedia.org/wiki/裘尼·卡斯 "wikilink")（聲優 - [山寺宏一](../Page/山寺宏一.md "wikilink")）
   - [雷森·施耐德](https://zh.wikipedia.org/wiki/雷森·施耐德 "wikilink")（聲優 - [伊倉一恵](https://zh.wikipedia.org/wiki/伊倉一恵 "wikilink")）
 
@@ -29,7 +29,7 @@
 
 ### 地球聯邦外圍精銳部隊
 
-### [隆德·貝爾艦隊](https://zh.wikipedia.org/wiki/U.C.紀元GUNDAM作品機動兵器列表 "wikilink")
+### 隆德·貝爾艦隊
 
   - [RX-93 ν GUNDAM](../Page/RX-93系列机动战士.md "wikilink")(ν = Nu為最接近讀音)
   - [RX-93-v2 Hi-ν Gundam](https://zh.wikipedia.org/wiki/RX-93系列机动战士#RX-93-.CE.BD-2_Hi-.CE.BD_Gundam "wikilink")（小說版）
@@ -37,7 +37,7 @@
   - [-{zh-hans:RGM-89 捷刚;zh-hk:RGM-89 積根;zh-tw:RGM-89 傑鋼;}-](https://zh.wikipedia.org/wiki/RGM-89系列機動戰士 "wikilink")
   - [RGM-86R 吉姆III](https://zh.wikipedia.org/wiki/RGM-79系列機動戰士 "wikilink")
 
-### [新吉翁](../Page/吉翁公國.md "wikilink")
+### 新吉翁
 
   - [AMS-119 基拉·德卡](https://zh.wikipedia.org/wiki/AMS-119系列机动战士 "wikilink")
   - [MSN-03 亞克托·德卡](https://zh.wikipedia.org/wiki/MSN-03系列机动战士 "wikilink")

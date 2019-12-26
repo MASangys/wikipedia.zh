@@ -1,4 +1,4 @@
-**PGP**（，中文翻译「优良保密协议」）是一套用于讯息加密、验证的应用程式，采用[IDEA的散列](../Page/國際資料加密演算法.md "wikilink")[演算法作为加密和验证之用](https://zh.wikipedia.org/wiki/演算法 "wikilink")。
+**PGP**（，中文翻译「优良保密协议」）是一套用于[讯息加密](https://zh.wikipedia.org/wiki/讯息 "wikilink")、验证的应用程式，采用[IDEA的散列](../Page/國際資料加密演算法.md "wikilink")[演算法作为加密和验证之用](https://zh.wikipedia.org/wiki/演算法 "wikilink")。
 
 PGP的主要开发者是[菲尔·齐默曼](https://zh.wikipedia.org/wiki/菲尔·齐默曼 "wikilink")。齐默曼于1991年将PGP在互联网上免费发布。PGP本身是商业应用程序；[开源并具有同类功能的工具名为](../Page/开源软件.md "wikilink")[GnuPG](../Page/GnuPG.md "wikilink")（GPG）。PGP及其同类产品均遵守[OpenPGP数据加解密标准](https://zh.wikipedia.org/wiki/#OpenPGP "wikilink")（RFC 4880）。
 
@@ -86,14 +86,6 @@ iOS或Android平台上的OpenPGP应用程序有iPGMail\[6\] ，OpenKeychain\[7\]
 
 ## 参考文献
 
-<div class="references-small">
-
-<references>
-
-</references>
-
-</div>
-
 ## 外部链接
 
   - [PGP公司网站](https://web.archive.org/web/20041230152556/http://www.pgp.com/)
@@ -103,19 +95,11 @@ iOS或Android平台上的OpenPGP应用程序有iPGMail\[6\] ，OpenKeychain\[7\]
 [Category:网络隐私](https://zh.wikipedia.org/wiki/Category:网络隐私 "wikilink") [Category:互联网标准](https://zh.wikipedia.org/wiki/Category:互联网标准 "wikilink") [Category:公開標準](https://zh.wikipedia.org/wiki/Category:公開標準 "wikilink") [Category:电子商务](https://zh.wikipedia.org/wiki/Category:电子商务 "wikilink") [Category:加密软件](https://zh.wikipedia.org/wiki/Category:加密软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  By Eric Geier, PCWorld. “[How to use OpenPGP to encrypt your email messages and files in the cloud](http://www.pcworld.com/article/2472771/how-to-use-openpgp-to-encrypt-your-email-messages-and-files-in-the-cloud.html).” August 22, 2014. September 3, 2014.
-
 5.
-
 6.
-
 7.
-
 8.  <http://tools.ietf.org/html/rfc4880>
-
 9.

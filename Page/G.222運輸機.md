@@ -55,4 +55,4 @@ G.222設計採用了運輸機的常見構型：高單翼，雙[渦輪旋槳發�
 
 [Category:義大利運輸機](https://zh.wikipedia.org/wiki/Category:義大利運輸機 "wikilink")
 
-1.  [2](http://www.hotnews.ro/articol_64689-Licitatia-prin-care-Armata-urma-sa-cumpere-sapte-avioane-Alenia-a-fost-anulata.htm)
+1.

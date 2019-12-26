@@ -87,23 +87,15 @@ MD = 多面；DNS = 双核系统； σ = 截面
 [Category:碱土金属](https://zh.wikipedia.org/wiki/Category:碱土金属 "wikilink") [Category:第8周期元素](https://zh.wikipedia.org/wiki/Category:第8周期元素 "wikilink") [Category:化学元素](https://zh.wikipedia.org/wiki/Category:化学元素 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
 9.
-
 10.
-
 11.
 12.
 13.

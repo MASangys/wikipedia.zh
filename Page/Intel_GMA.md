@@ -404,29 +404,20 @@ Notes:
   - [3](http://www.intel.com/support/graphics/sb/CS-023606.htm)
   - [4](http://www.intellinuxgraphics.org/)
   - [5](https://web.archive.org/web/20071211145913/http://www.xbitlabs.com/articles/chipsets/display/ig965-gf6150_12.html)
-  - [The Register: *Intel vs AMD - integrated graphics shoot-out*](http://www.reghardware.co.uk/2006/12/15/review_intel_vs_amd_integrated/)
+  - [The Register: *Intel vs AMD - integrated graphics shoot-out*](https://web.archive.org/web/20071211110327/http://www.reghardware.co.uk/2006/12/15/review_intel_vs_amd_integrated/)
 
 [Category:显示技术](https://zh.wikipedia.org/wiki/Category:显示技术 "wikilink") [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:英特爾產品](https://zh.wikipedia.org/wiki/Category:英特爾產品 "wikilink")
 
 1.  Case, Loyd. [Intel GMA950 Integrated Graphics Core](http://www.extremetech.com/article2/0,1697,1821808,00.asp), Extremetech, May 31, 2005.
-
 2.
-
 3.  {{ cite web | url = <http://www.intel.com/products/chipsets/gma3000/gma3000.pdf> | title = Intel’s Next Generation Integrated Graphics Architecture – Intel® Graphics Media Accelerator X3000 and 3000 | accessdate = 2007-06-08 }}
-
 4.
-
-5.  Gasior, Geoff. [Intel's G965 Express chipset](http://www.techreport.com/reviews/2007q2/intel-g965/index.x?pg=1), Tech Report, April 5, 2007.
-
+5.  Gasior, Geoff. [Intel's G965 Express chipset](http://www.techreport.com/reviews/2007q2/intel-g965/index.x?pg=1) , Tech Report, April 5, 2007.
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
 13.
@@ -453,31 +444,17 @@ Notes:
 34.
 35.
 36. [Intel G35 Product Brief](http://download.intel.com:80/products/chipsets/G35/317363.pdf)
-
 37. [Intel GMA 950 Graphics Product Brief](http://www.intel.com/products/chipsets/gma950/gma950.pdf), Intel, accessed June 28, 2007.
-
 38. [Intel Graphics Media Accelerator 900](http://www.intel.com/design/chipsets/applnots/30262403.pdf), Intel, accessed June 28, 2007.
-
 39. Romanchenko, Vladimir. [Intel Centrino Duo: new-generation mobility](http://www.digital-daily.com/mobile/centrino_duo/index02.htm), Digital Daily, January 24, 2006.
-
 40. [Intel 946 Express Chipset Family Datasheet](http://download.intel.com/design/chipsets/datashts/31308301.pdf), Intel, accessed June 28, 2007.
-
 41. Case, Loyd. [Intel GMA950 Integrated Graphics Core](http://www.extremetech.com/article2/0,1697,1821808,00.asp), Extremetech, May 31, 2005.
-
 42. [Intel 3 Series Chipsets Datasheet](http://download.intel.com/design/chipsets/datashts/31696601.pdf), Intel, accessed June 29, 2007.
-
 43. [Mobile Intel 915PM/GM/GME/GMS and 910GML/GMLE Express Chipset Datasheet](http://download.intel.com/design/mobile/datashts/30526402.pdf), Intel, accessed June29, 2007.
-
 44. [Mobile Intel 945 Express Chipset Family Datasheet](http://download.intel.com/design/mobile/datashts/30921904.pdf), Intel, accessed July3, 2007.
-
 45. [Intel G35 Express Chipset Datasheet](http://download.intel.com/design/chipsets/datashts/31760701.pdf), Intel, accessed August16, 2007.
-
 46. [Mobile Intel 965 Express Chipset Family Datasheet](http://download.intel.com/design/mobile/datashts/31627303.pdf), Intel, accessed August16, 2007.
-
 47. [Intel 82G965 Graphics and Memory Controller Hub (GMCH) OpenGL Support](http://www.intel.com/support/graphics/intelg965/sb/CS-023713.htm)
-
 48. [Intel HD Graphics quick reference guide](http://software.intel.com/file/24575.pdf), Intel, accessed September18, 2010.
-
 49. [Intel GMA features and benefits](http://www.intel.com/technology/graphics/gma.htm), Intel, accessed November6,2010.
-
 50. [quick reference guide](http://software.intel.com/zh-cn/articles/quick-reference-guide-to-intel-integrated-graphics/), Intel, accessed December20,2010.

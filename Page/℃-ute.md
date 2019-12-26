@@ -1124,21 +1124,14 @@ cute是可愛的；令人憐愛的。為了表現女孩們情熱的體溫，將�
 [Category:℃-ute](https://zh.wikipedia.org/wiki/Category:℃-ute "wikilink") [Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本唱片大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀新人獎獲獎者 "wikilink")
 
 1.
-
 2.
-
 3.  指2009年10月25日[梅田繪理香](../Page/梅田繪理香.md "wikilink")畢業前。
-
 4.
 5.
 6.
 7.
 8.  [【オリコン】℃-ute、自己最高売上でTOP5入り](http://www.oricon.co.jp/news/rankmusic/2016751/full/)
-
 9.  [℃-ute、9・10“キュートの日”に初の武道館公演が決定](http://www.oricon.co.jp/news/video/2023292/full/)
-
 10. [鈴木愛理、涙でファンに感謝　9月10日は「℃-uteの日」に正式認定](http://news.goo.ne.jp/article/oricon/entertainment/oricon-2026084.html)
-
 11. 發售日從原本的3月23日延期至4月6日。
-
 12. 13.6歲是以整數年齡計算，若以小數計算，℃-ute得獎時平均年齡是14.2951歲，而Fairies則是13.9599歲。

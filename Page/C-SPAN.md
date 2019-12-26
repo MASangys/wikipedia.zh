@@ -54,26 +54,16 @@
 [Category:C-SPAN](https://zh.wikipedia.org/wiki/Category:C-SPAN "wikilink") [Category:英語媒體](https://zh.wikipedia.org/wiki/Category:英語媒體 "wikilink") [Category:美國電視網](https://zh.wikipedia.org/wiki/Category:美國電視網 "wikilink") [Category:华盛顿媒体](https://zh.wikipedia.org/wiki/Category:华盛顿媒体 "wikilink") [Category:皮博迪獎得主](https://zh.wikipedia.org/wiki/Category:皮博迪獎得主 "wikilink") [Category:無廣告電視網](https://zh.wikipedia.org/wiki/Category:無廣告電視網 "wikilink") [Category:華盛頓特區非營利組織](https://zh.wikipedia.org/wiki/Category:華盛頓特區非營利組織 "wikilink") [Category:華盛頓哥倫比亞特區公司](https://zh.wikipedia.org/wiki/Category:華盛頓哥倫比亞特區公司 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.

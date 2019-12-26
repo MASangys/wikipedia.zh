@@ -219,82 +219,44 @@ DNG格式已利用开放源码的开发。 \[34\]相机制造商的使用不同�
 [Category:數位攝影](https://zh.wikipedia.org/wiki/Category:數位攝影 "wikilink") [Category:图形文件格式](https://zh.wikipedia.org/wiki/Category:图形文件格式 "wikilink")
 
 1.  [解码原始Linux中的数码照片](http://www.cybercom.net/%7Edcoffin/dcraw/#i18n)
-
 2.
-
 3.  [在线摄影师：松下LX3桶形失真争议](http://theonlinephotographer.typepad.com/the_online_photographer/2008/12/panasonic-lx3-b.html)
-
 4.  [松下LX3镜头畸变](http://www.imaging-resource.com/PRODS/LX3/LX3A4.HTM)
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16. [DNG格式的缩略图和预览支持Windows Photo Gallery和Windows Live照片库](http://www.ardfry.com/dng-codec)
-
 17.
-
 18.
-
 19.
-
 20.  Dave Coffin, creator of the dcraw program, discusses some of his successful reverse-engineering in this interview, and mentions his enthusiasm for the DNG format.
-
 21. The Luminous Landscape: [The RAW Flaw by Michael Reichmann and Juergen Specht](http://www.luminous-landscape.com/essays/raw-flaw.shtml)
-
 22. 美国国会馆藏图书馆规划：[偏好摘要](http://www.digitalpreservation.gov/formats/content/still_preferences.shtml)
-
 23. Barry Pearson: [What is in a raw file?](http://www.barrypearson.co.uk/articles/dng/raw.htm#contents)
-
 24. 巴里·皮尔森：[以某种方式使用DNG格式的相机厂商的产品](http://www.barrypearson.co.uk/articles/dng/products.htm#manufacturers)
-
 25. Barry Pearson: [DNG support, to end-September 2006](http://www.barrypearson.co.uk/articles/dng/products_y2.htm)
-
 26. 巴里·皮尔森： [一个DNG格式的简短历史](http://www.barrypearson.co.uk/articles/dng/history.htm)
-
 27. Adobe Labs: [CinemaDNG](http://labs.adobe.com/technologies/cinemadng/) (final bullet point)
-
 28. Adobe: [Digital Negative (DNG) Specification Patent License](http://www.adobe.com/products/dng/license.html)
-
 29. I3A (International Imaging Industry Association): [WG18, Ad Hoc groups and JWG 20/22/23 Meet in Tokyo](http://www.i3a.org/news/newsletters/eye-on-standards/eye_on_standards_v3_n2#director)
-
 30. Web archive of widely distributed email: [Forwarded Message from a member of the ISO TC42 (technical committee for photography) working group 18 (electronic imaging) standards group](http://archives.free.net.ph/message/20070418.233346.5ae65389.en.html)
-
 31. DPReview: [Adobe seeks International recognition for DNG](http://www.dpreview.com/news/0805/08051503adobeDNG.asp)
-
 32. I3A (International Imaging Industry Association): [ISO 12234 Part 2 – TIFF/EP](http://www.i3a.org/news/newsletters/eye-on-standards/eye-on-standards-october-2008/#working_group_reports)  (scroll down a bit)
-
 33. NPES: [Minutes of ISO/TC 130/WG2, 39th Meeting](http://www.npes.org/pdf/TC130WG2N1363_Minutes-Beijing-Sept09.pdf), see 14f
-
 34.
 35.
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
 42.

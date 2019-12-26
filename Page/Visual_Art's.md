@@ -110,4 +110,4 @@
   -
 [Category:Visual_Art's](https://zh.wikipedia.org/wiki/Category:Visual_Art's "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink") [Category:1991年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1991年開業電子遊戲公司 "wikilink")
 
-1.  [会社概要](http://visual-arts.jp/outline.html)Visual Art's
+1.  [会社概要](http://visual-arts.jp/outline.html) Visual Art's

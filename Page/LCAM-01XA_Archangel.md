@@ -112,22 +112,13 @@
 [Category:虛構船艦](https://zh.wikipedia.org/wiki/Category:虛構船艦 "wikilink") [Category:宇宙戰艦](https://zh.wikipedia.org/wiki/Category:宇宙戰艦 "wikilink")
 
 1.  機動戰士鋼彈SEED{{〈}}1{{〉}}交會而過的羽翼 ISBN 986-7427-27-0
-
 2.  機動戰士-{鋼彈}-SEED{{〈}}2{{〉}}沙漠之虎 ISBN 986-7427-53-X
-
 3.  機動戰士鋼彈SEED{{〈}}3{{〉}}和平之國 ISBN 986-7427-85-8
-
 4.  機動戰士鋼彈SEED{{〈}}4{{〉}}天降之劍 ISBN 986-7299-18-3
-
 5.  機動戰士-{鋼彈}-SEED{{〈}}5{{〉}}飛向無止盡的明天 ISBN 986-7299-59-0
-
 6.  機動戰士鋼彈SEED DESTINYT{{〈}}3{{〉}}錯過的視線 ISBN 978-986-174-159-8
-
 7.  機動戰士鋼彈SEED DESTINY{{〈}}2{{〉}}迷惘的眼神 ISBN 986-174-099-6
-
 8.  機動戰士鋼彈SEED DESTINY {{〈}}4{{〉}} 被揭示的世界 ISBN 978-986-174-261-8
-
 9.
 10. 機動戰士-{高達}-SEED DESTINY{{〈}}2{{〉}}迷惘的眼神 ISBN 986-174-099-6
-
 11.

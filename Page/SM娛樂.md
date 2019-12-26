@@ -19,7 +19,7 @@
   - 2000年4月，韩国SM娱乐有限公司登记注册[韩国高斯达克市场](https://zh.wikipedia.org/wiki/韩国 "wikilink")，发行股票，成为韩国第一个娱乐文化股份公司。同年8月，[BoA出道](https://zh.wikipedia.org/wiki/BoA "wikilink")。有＂韓國天后＂之稱的[BoA](https://zh.wikipedia.org/wiki/BoA "wikilink")\[3\]取得的成就對韩国SM娱乐有限公司發展成[韩国最出色的经纪公司有着舉足輕重的地位](https://zh.wikipedia.org/wiki/韩国 "wikilink")。
   - 2001年，设立面向日本市场的SM Entertainment Japan，與[日本](../Page/日本.md "wikilink")最大[唱片公司](../Page/唱片公司.md "wikilink")[愛貝克思建立長久的合作關係](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")。同年，[H.O.T宣布正式解散](https://zh.wikipedia.org/wiki/H.O.T "wikilink")\[4\]，現時只有[安七炫](../Page/安七炫.md "wikilink")（Kangta）為韩国SM娱乐有限公司藝人。
   - 2002年12月，与[日本](../Page/日本.md "wikilink")的FANDANGO JAPAN（YOSHIMOTO集团和KDDI的合资公司）、YOSHIMOTO集团以及AVEX共同创立了网络娱乐公司---FANDANGO KOREA，在网络与移动通信迅速发展的时代，将主要负责为大众开发数字信息资源。同年，[S.E.S解散](https://zh.wikipedia.org/wiki/S.E.S._\(组合\) "wikilink")。
-  - 2003年，[神話不與SM](https://zh.wikipedia.org/wiki/神話 "wikilink") Entertainment續約，開始新的演藝生涯。
+  - 2003年，[神話不與SM](https://zh.wikipedia.org/wiki/神話_\(組合\) "wikilink") Entertainment續約，開始新的演藝生涯。
   - 2004年，[TRAX出道](https://zh.wikipedia.org/wiki/TRAX "wikilink")。同年2月，韩国至尊偶像团体[東方神起](../Page/東方神起.md "wikilink")出道，一躍成為極受歡迎的新世代合聲團體。[東方神起](../Page/東方神起.md "wikilink")的官方歌迷俱乐部Cassiopeia人數更以80萬打破了當時的世界紀錄\[5\]。
 
 ### 2005至2008年
@@ -72,7 +72,7 @@
 
 <!-- end list -->
 
-  - 12月31日，宣布將與旗下擁有眾多知名模特兒、同時也是韓國國內首屈一指的模特兒綜合經紀公司 Esteem 簽署戰略合作與持股投資合約，往後，兩家公司將共享資源，積極促進事業計畫，希望能創造互助效應，幫助彼此在全球娛樂市場的發展。而因為這是藝人經紀與模特兒經紀兩塊領域龍頭的合作，遂引起許多人的關注與討論。\[23\]。
+  - 12月31日，宣布將與旗下擁有眾多知名模特兒、同時也是韓國國內首屈一指的模特兒綜合經紀公司 [ESteem](../Page/ESteem.md "wikilink") 簽署戰略合作與持股投資合約，往後，兩家公司將共享資源，積極促進事業計畫，希望能創造互助效應，幫助彼此在全球娛樂市場的發展。而因為這是藝人經紀與模特兒經紀兩塊領域龍頭的合作，遂引起許多人的關注與討論。\[23\]。
 
 <!-- end list -->
 
@@ -92,24 +92,22 @@
 
   - 2016年8月25日，公司旗下跨國籍男子組合NCT第三分隊NCT Dream 在韓國正式出道。
 
-### 2017年至今
+### 2017年至2019年
 
 [缩略图](https://zh.wikipedia.org/wiki/File:SM_Entertainment_12.png "fig:缩略图")
 
-  - 2017年1月3日[S.E.S.](https://zh.wikipedia.org/wiki/S.E.S._\(组合\) "wikilink")（SM的第一個女子團體）為紀念出道20周年重聚回歸韓國歌壇，在SM娛樂的協助之下發出紀念remix曲《Love\[story\]》，並發出以《Paradise》等為主打歌的紀念專輯《Remember》，在2017年舉辦出道20周年慈善演唱會。
-
-<!-- end list -->
-
+  - 2017年1月3日[S.E.S.](https://zh.wikipedia.org/wiki/S.E.S._\(组合\) "wikilink")（公司运营的第一個女子團體）為紀念出道20周年重聚回歸韓國歌壇，在SM娛樂的協助之下發出紀念remix曲《Love\[story\]》，並發出以《Paradise》等為主打歌的紀念專輯《Remember》，在2017年舉辦出道20周年慈善演唱會。
   - 2017年3月30日，公告投資[Mystic娛樂](../Page/Mystic娛樂.md "wikilink")，以28%股份成為最大投資者。\[32\]
   - 2017年11月1日，宣布更換舊有企業標識，代表色為粉、白、藍、灰，分別表示俐落、現代感性、革新、中性、知性。
-  - 2017年12月18日，其旗下男團SHINee的27歲主音鐘鉉於韓國時間傍晚6點半於首爾清潭洞一間服務式住宅內被發現燒炭自殺身亡，初時情況危殆，心跳停止，被送往建大醫院，送院後證實不治。
+  - 2017年12月18日，男團SHINee的27歲主唱[鐘鉉](../Page/鐘鉉.md "wikilink")於首爾服務式住宅內被發現燒炭自殺身亡，初時情況危殆，心跳停止，送院後證實不治。
   - 2018年3月14日，購買演員經紀公司[Keyeast](../Page/Keyeast.md "wikilink")部分股份\[33\]。並購買[FNC旗下FNC](../Page/FNC娛樂.md "wikilink") Add Culture部分股份，成為最大股東，與FNC達成戰略結盟。\[34\]
-  - 2018年5月10日，宣布与越南最大型零售 & 生活方式(lifestyle)企业联手战略合作，并签订MOU协议以推进共同事业。\[35\]
+  - 2018年5月10日，宣布与越南最大型零售&生活方式企业联手战略合作，并签订MOU协议以推进共同事业。\[35\]
   - 2018年5月18日，以31%的持有股份完成了FNC ADD Culture的股權交替，FNC ADD Culture公司名稱正式改為“SM LIFE DESIGN GROUP”，FNC娛樂以18%的股份成為第二大股東。FNC的安碩俊理事今後將擔任SM LIFE DESIGN GROUP的經營顧問，通過SM LIFE DESIGN GROUP促進FNC與SM的戰略合作，實現綜合娛樂經紀產業聯合。\[36\]
   - 2018年9月5日，少女時代新小分隊「少女時代-Oh\! GG」出道并发行單曲專輯，分队由五位与公司续约的组合成員組成。
   - 2018年10月2日，SM Entertainment 在 Million Market 的股票持份多達 50%，形同收購其為旗下品牌之一。目前雙方已經完成相關手續後，正在準備討論由 SM 子公司委員擔任 Million Market 共同代表的方案。\[37\]
   - 2018年10月24日，SM Entertainment正式收購Million Market為旗下品牌，且由SM C\&C 金代表擔任共同代表職。 \[38\]
   - 2019年1月17日，公司旗下中國籍及華裔男子組合NCT第四分隊WayV 在中國正式出道。
+  - 2019年10月14日，[f(x)前成員](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")[Sulli被經紀人發現在其寓所上吊自殺身亡](../Page/崔真理.md "wikilink")。
 
 ## 現有藝人
 
@@ -136,6 +134,7 @@
   - [Chen](../Page/CHEN_\(EXO\).md "wikilink")
   - [希澈](https://zh.wikipedia.org/wiki/金希澈 "wikilink")
   - [伯賢](https://zh.wikipedia.org/wiki/邊伯賢 "wikilink")
+  - [晟敏](../Page/晟敏.md "wikilink")
 
 <!-- end list -->
 
@@ -149,11 +148,14 @@
   - *智聲Sunday*
   - [太妍](../Page/太妍.md "wikilink")
   - [孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")
-  - [潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")
   - [俞利](../Page/俞利.md "wikilink")
-  - [Sulli](../Page/崔真理.md "wikilink")
+  - [潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")
 
 ### 組合
+
+  - SM娛樂已停止經營[天上智喜](../Page/天上智喜.md "wikilink")及[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")，但未宣布團體解散。
+
+<!-- end list -->
 
   - 男子组合
 
@@ -254,7 +256,6 @@
 
   - [柳好貞](../Page/柳好貞.md "wikilink")
   - [李沇熹](https://zh.wikipedia.org/wiki/李沇熹 "wikilink")
-  - [Sulli](../Page/崔真理.md "wikilink")
 
 ### 創作人
 
@@ -409,6 +410,8 @@
   -
   - [朴聖光](../Page/朴聖光.md "wikilink")
 
+  - [Defconn](../Page/Defconn.md "wikilink")
+
 **女藝人**
 
   - 吳靜妍
@@ -537,14 +540,14 @@
       - [金在中](../Page/金在中.md "wikilink")<small>（2003-2009）</small>
       - [朴有天](../Page/朴有天.md "wikilink")<small>（2003-2009）</small>
       - [金俊秀](../Page/金俊秀.md "wikilink")<small>（2003-2009）</small>
-
-<!-- end list -->
-
   - [TraxX](../Page/TraxX.md "wikilink")<small>（2004-2019）</small>
       - 姜政佑<small>（2004-2006）</small>
       - [魯敏宇](https://zh.wikipedia.org/wiki/魯敏宇 "wikilink")<small>（2004-2009）</small>
-      - 金永德<small>（2004-2019）</small>
+      - 金肩佑<small>（2004-2019）</small>
       - 金政模<small>（2004-2019）</small>
+
+<!-- end list -->
+
   - [天上智喜](../Page/天上智喜.md "wikilink")
       - 天舞Stephanie<small>（2005-2016）</small>
   - [Super Junior](../Page/Super_Junior.md "wikilink")
@@ -571,6 +574,7 @@
       - [Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")<small>（2009-2019）</small>
       - [Luna](../Page/朴善英.md "wikilink")<small>（2009-2019）</small>
       - [Victoria](../Page/宋茜.md "wikilink")<small>（2009-2019）</small>
+  - [Sulli](../Page/崔真理.md "wikilink")<small>（2009-2019）</small>
 
 <!-- end list -->
 
@@ -584,6 +588,7 @@
     <small> 2005年以Super Junior成员出道的[起範](../Page/起範.md "wikilink")，为專注影視發展，自2009年4月起，不參與團體專輯和宣傳活動，仅掛名在Super Junior團體。之後在2015年8月18日，合約到期并不續約，正式離開公司及退出Super Junior。</small>
     <small> 2007年以少女時代成員出道的[潔西卡在](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")2014年9月30日被宣佈退出少女時代。2015年8月6日，通过与SM娛樂协议，正式解約并離開公司。2016年2月29日，與Coridel娛樂公司簽約。目前以SOLO歌手及時裝設計師身份活動。</small>
     <small> 2008年以SHINee成員出道的[鐘鉉於](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")2017年12月18日逝世，官方于2018年1月23日正式發表鐘鉉遺作。</small>
+    <small> 2009年以f(x)成員出道的[Sulli於](../Page/崔真理.md "wikilink")2015年离开团体，2019年10月14日逝世。</small>
 
 ### 曾作为公司的练习生
 
@@ -597,7 +602,7 @@
 
 <small>**歌手**</small>
 
-  - 丁泽仁（[乐华七子](https://zh.wikipedia.org/wiki/乐华七子 "wikilink")）
+  - [丁澤仁](https://zh.wikipedia.org/wiki/丁澤仁 "wikilink")（[乐华七子](https://zh.wikipedia.org/wiki/乐华七子 "wikilink")）
   - 韓沐伯（Awaken-F）
   - [許永生](../Page/許永生.md "wikilink")（[SS501](../Page/SS501.md "wikilink")、[SS301](https://zh.wikipedia.org/wiki/SS301 "wikilink")）
   - [侯明昊](https://zh.wikipedia.org/wiki/侯明昊 "wikilink")
@@ -606,12 +611,13 @@
   - [趙珍虎](../Page/趙珍虎.md "wikilink")（[PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink")）
   - [鄭丙熙](../Page/G.O.md "wikilink")（[MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")，藝名為**G.O**）
   - [金力燦](https://zh.wikipedia.org/wiki/金力燦 "wikilink")
-  - [金仁誠](https://zh.wikipedia.org/wiki/仁誠 "wikilink")（[SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")）
+  - [金仁性](../Page/金仁性.md "wikilink")（[SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")，藝名為**仁誠**）
   - [金振煥](../Page/金振煥.md "wikilink")（[iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")，藝名為**Jay**）
   - [金鍾旼](../Page/金鍾旼.md "wikilink")（[高耀太](../Page/高耀太.md "wikilink")）
-  - 金文奎（[HOTSHOT](../Page/HOTSHOT.md "wikilink")，藝名為**Timoteo**）
+  - 金Timoteo（[HOTSHOT](../Page/HOTSHOT.md "wikilink")）
   - 金湘訓（[AlphaBAT](../Page/AlphaBAT.md "wikilink")， 藝名為**C:ODE**）
-  - 金宇珍（[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")）
+  - 薛晙（[AlphaBAT](../Page/AlphaBAT.md "wikilink")， 藝名為**H:eta**）
+  - [金宇珍](../Page/宇珍.md "wikilink")
   - 權宰煥（[N-SONIC](../Page/N-SONIC.md "wikilink")，藝名為**J-Heart**）
   - [权志龙](https://zh.wikipedia.org/wiki/权志龙 "wikilink")（[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，藝名為**G-Dragon**）
   - 权顺日（[城市札卡巴](../Page/城市札卡巴.md "wikilink")）
@@ -637,7 +643,7 @@
 
   - [安昭熙](../Page/安昭熙.md "wikilink")
   - [趙賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")
-  - [高娜恩](../Page/高娜恩_\(藝人\).md "wikilink")
+  - [高佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")
   - [具荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")
   - [具惠善](../Page/具惠善.md "wikilink")
   - [許嘉允](../Page/許嘉允.md "wikilink")
@@ -649,10 +655,10 @@
 
 <small>**歌手**</small>
 
-  - [崔智秀](../Page/崔智秀.md "wikilink")（[ITZY](../Page/ITZY.md "wikilink")，藝名為**Lia**）
+  - [崔智壽](../Page/崔智秀.md "wikilink")（[ITZY](../Page/ITZY.md "wikilink")，藝名為**Lia**）
   - [咸𤨒晶](../Page/咸𤨒晶.md "wikilink")（[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")，除本名另有藝名**Elsie**）
   - 張知秀（[七學年一班](../Page/七學年一班.md "wikilink")，藝名為**白世熙**）
-  - 趙河朗（藝名為**趙敏雅**）
+  - 趙河朗（藝名為*'趙敏雅*)
   - 金容媛（[C-REAL](../Page/C-REAL.md "wikilink")，藝名為**Chemi**）
   - [李孝利](../Page/李孝利.md "wikilink")
   - 李欢熙
@@ -664,6 +670,7 @@
   - [朴昭妍](../Page/朴昭妍.md "wikilink")
   - [沈泫京](../Page/沈泫京.md "wikilink")
   - [宋多惠](https://zh.wikipedia.org/wiki/宋多惠 "wikilink")
+  - [俞延靜](../Page/璉靜.md "wikilink")（[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")）
 
 <small>**參賽者**</small>
 
@@ -704,76 +711,40 @@
 [Category:1989年成立的公司](https://zh.wikipedia.org/wiki/Category:1989年成立的公司 "wikilink") [Category:韓國證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:韓國證券交易所上市公司 "wikilink") [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13. [BeatBurger Project](https://hk.celebrity.yahoo.com/news/影片-sm推出-beatburger-計劃-釋出泰民-ace-影片吸睛-101118587.html)
-
 14.
-
 15.
-
 16.
-
 17. 韓星網（中文）
-
 18. 韓星網（中文）
-
 19.
-
 20.
-
 21. kpopn.com（中文）
-
 22.
-
 23.
-
 24. 韓星網（中文）
-
 25. 自由時報電子報（中文）
-
 26.
 27.
-
 28.
-
 29. [SM新男團NCT再度出撃！泰容及WINWIN組成「NCT-127」，本週公開出道舞台！](http://www.vlovekpop.com/20160704-nct-127/) vlovekpop
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.

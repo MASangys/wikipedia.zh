@@ -443,7 +443,7 @@
   - [XM-X3 Crossbone GUNDAM X-3](https://zh.wikipedia.org/wiki/F97_Crossbone_Gundam "wikilink") \[MSG-CG\]
   - EMS-06 Batalla \[MSG-CG\]
   - EMS-10 Pez Batalla \[MSG-CG\]
-  - Zondo Gei \[MSG-CG\]
+  - xm-08 Zondo Gei \[MSG-CG\]
   - [XMA-01 Rafflesia](https://zh.wikipedia.org/wiki/XMA-01_Rafflesia "wikilink") \[MSG-F91\]
 
 ## 木星帝國

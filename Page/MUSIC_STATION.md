@@ -1,4 +1,4 @@
-《**MUSIC STATION**》（）是[日本](../Page/日本.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")的[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")[直播節目](../Page/現場直播.md "wikilink")，自1986年10月24日起於[日本時間每星期五](https://zh.wikipedia.org/wiki/日本時間 "wikilink")20時整至20時54分播出。該節目在日本經常被簡稱為「****」（[日語羅馬字](https://zh.wikipedia.org/wiki/日語羅馬字 "wikilink")：M Sute）。現任[主持人為](https://zh.wikipedia.org/wiki/主持人 "wikilink")[塔摩利](../Page/塔摩利.md "wikilink")，副主持人為朝日電視台主播[並木万里菜](https://zh.wikipedia.org/wiki/並木万里菜 "wikilink")。由於節目內容以[日本流行音樂](../Page/日本流行音樂.md "wikilink")為主，在日本以外地區亦有播出。
+《**MUSIC STATION**》（）是[日本](../Page/日本.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")的[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")[直播節目](../Page/現場直播.md "wikilink")，自1986年10月24日起於[日本時間每星期五晚间播出](https://zh.wikipedia.org/wiki/日本時間 "wikilink")。該節目在日本經常被簡稱為「****」（[日語羅馬字](https://zh.wikipedia.org/wiki/日語羅馬字 "wikilink")：M Sute）。現任[主持人為](https://zh.wikipedia.org/wiki/主持人 "wikilink")[塔摩利](../Page/塔摩利.md "wikilink")，副主持人為朝日電視台主播[並木万里菜](https://zh.wikipedia.org/wiki/並木万里菜 "wikilink")。由於節目內容以[日本流行音樂](../Page/日本流行音樂.md "wikilink")為主，在日本以外地區亦有播出。
 
 ## 沿革
 
@@ -324,12 +324,13 @@
 
 ## 日本國內播映時間
 
-  - 朝日電視台系列（[ANN](https://zh.wikipedia.org/wiki/ANN "wikilink")）- 每[星期五](https://zh.wikipedia.org/wiki/星期五 "wikilink")20:00～20:54（2000年4月至9月止為19:54～20:48）
-  - [高知放送](https://zh.wikipedia.org/wiki/高知放送 "wikilink")（日本電視台系列）- 每[星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink")24:29 - 25:24（延遲5日播出）
+| 日期           | 播放分鐘 | 播放時間             |
+| ------------ | ---- | ---------------- |
+| 2000年3月31日起  | 54   | 每週五 19:54\~20:48 |
+| 2000年10月20日起 | 54   | 每週五 20:00\~20:54 |
+| 2019年10月18日起 | 48   | 每週五 21:00\~21:48 |
 
-## 曾經播映的電視台（國內）
-
-  - [山陰放送](https://zh.wikipedia.org/wiki/山陰放送 "wikilink")（[TBS系列](https://zh.wikipedia.org/wiki/JNN "wikilink")）- 每[星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink")23:50 - 24:50（2000年10月\~2013年10月1日播出（延遲5日播出））
+朝日電視台系列（[ANN](https://zh.wikipedia.org/wiki/ANN "wikilink")）
 
 ## 國外地區播出概況
 

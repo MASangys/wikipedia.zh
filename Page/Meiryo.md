@@ -59,7 +59,5 @@
 [Category:黑体](https://zh.wikipedia.org/wiki/Category:黑体 "wikilink") [Category:東亞字體](https://zh.wikipedia.org/wiki/Category:東亞字體 "wikilink") [Category:Windows_Vista字体](https://zh.wikipedia.org/wiki/Category:Windows_Vista字体 "wikilink") [Category:2008年面世](https://zh.wikipedia.org/wiki/Category:2008年面世 "wikilink")
 
 1.  [关于Windows XP和Windows Server 2003中对应JIS2004 MSゴシック& MS明朝字体包](http://www.microsoft.com/japan/windows/products/windowsvista/jp_font/jis04/default.mspx)，[微软](../Page/微软.md "wikilink")
-
 2.  [耗费2年的新日文字体——明瞭体](http://www.itmedia.co.jp/news/articles/0605/16/news069.html)、ITmedia、2006年05月16日
-
 3.

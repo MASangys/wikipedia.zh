@@ -1,4 +1,4 @@
-**DC-9**是[道格拉斯公司在](https://zh.wikipedia.org/wiki/道格拉斯公司 "wikilink")1960年代研發出來的雙渦輪引擎民航機，是為了與[波音727](../Page/波音727.md "wikilink")抗衡而製造的，短[航程](https://zh.wikipedia.org/wiki/航程 "wikilink")、單層、單走道。其最大的特點就是後掛式双[渦輪風扇发动机以及T型尾翼](https://zh.wikipedia.org/wiki/渦輪風扇发动机 "wikilink")（俗称“T尾”）。
+**道格拉斯DC-9**是[道格拉斯公司在](https://zh.wikipedia.org/wiki/道格拉斯公司 "wikilink")1960年代研發出來的雙渦輪引擎民航機，是為了與[波音727](../Page/波音727.md "wikilink")抗衡而製造的，短[航程](https://zh.wikipedia.org/wiki/航程 "wikilink")、單層、單走道。其最大的特點就是後掛式双[渦輪風扇发动机以及T型尾翼](https://zh.wikipedia.org/wiki/渦輪風扇发动机 "wikilink")（俗称“T尾”）。
 
 此型飛機致命事故间隔为106.9万小时，為竞争对手[波音727](../Page/波音727.md "wikilink")的一半，属事故率较高的机型。
 

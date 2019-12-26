@@ -91,7 +91,7 @@ Windows Live Spaces最初以[GIF动画和](https://zh.wikipedia.org/wiki/GIF动�
 
 在[中國](../Page/中國.md "wikilink")大陸市場，Windows Live Spaces有時會禁止用戶在空間名稱及日誌中使用諸如「[民主](../Page/民主.md "wikilink")」、「[自由](../Page/自由.md "wikilink")」等敏感字眼，以免引起[北京政府新聞審核人員的不悅](https://zh.wikipedia.org/wiki/北京 "wikilink")。\[9\]因为这些限制，Windows Live Spaces可能會不定時無法訪問，部分人士的部落格可能會被過濾或只有中國大陸以外才可以瀏覽，這和[GFW及微軟的](https://zh.wikipedia.org/wiki/GFW "wikilink")[IP識別有關](https://zh.wikipedia.org/wiki/IP "wikilink")。
 
-Windows Live Spaces（包括MSN Spaces）曾多次因網站内存有敏感内容等原因在中國大陸地區被屏蔽。例如，從2008年10月31日起，[[http://spaces.live.com/\]一度无法登入访问，只有\[http://](http://spaces.live.com/%5D一度无法登入访问，只有%5Bhttp://)\*.spaces.live.com/ <http://>\*.spaces.live.com/](http://spaces.live.com/)仍可以访问，这样，用户无法登入发表網誌，只可以通過借用[Windows Live Writer](https://zh.wikipedia.org/wiki/Windows_Live_Writer "wikilink")-{zh-hans:软件; zh-hant:軟体;}-等方式发表。11月3日后屏蔽解除，恢复正常。又如，2009年6月2日起，Windows Live Spaces再次无法打开，疑似遭中國大陸當局屏蔽，\[10\]\[11\]6月8日后恢复正常。
+Windows Live Spaces（包括MSN Spaces）曾多次因網站内存有敏感内容等原因在中國大陸地區被屏蔽。例如，從2008年10月31日起，[[https://web.archive.org/web/20080819214707/http://www7203.spaces.live.com/\]一度无法登入访问，只有\[http://](https://web.archive.org/web/20080819214707/http://www7203.spaces.live.com/%5D一度无法登入访问，只有%5Bhttp://)\*.spaces.live.com/ <http://>\*.spaces.live.com/](https://web.archive.org/web/20080819214707/http://www7203.spaces.live.com/)仍可以访问，这样，用户无法登入发表網誌，只可以通過借用[Windows Live Writer](https://zh.wikipedia.org/wiki/Windows_Live_Writer "wikilink")-{zh-hans:软件; zh-hant:軟体;}-等方式发表。11月3日后屏蔽解除，恢复正常。又如，2009年6月2日起，Windows Live Spaces再次无法打开，疑似遭中國大陸當局屏蔽，\[10\]\[11\]6月8日后恢复正常。
 
 ## 参见
 
@@ -104,20 +104,12 @@ Windows Live Spaces（包括MSN Spaces）曾多次因網站内存有敏感内容
 
 1.
 2.  [MSN Messenger 7.0與MSN Spaces正式版全球同步登場](http://www.microsoft.com/taiwan/press/2005/04/0407.mspx)．微軟台湾網站．2005年4月7日
-
 3.
 4.
-
 5.
-
 6.  [PowerToy——为你的Space增彩](http://dev.csdn.net/article/77596.shtm)．CSDN.net
-
 7.  Coming soon: cleaner, better looking spaces．The Spacecraft（共享空间官方博客）．<http://thespacecraft.spaces.live.com/blog/cns!8AA773FE0A12B9E3!50449.entry>
-
 8.  The new face of Windows Live on the web（Windows Live Spaces節）．Windows Live官方网站．2008年12月2日．<http://www.windowslive.com/connect/post/windowslivewire.spaces.live.com-Blog-cns!2F7EB29B42641D59!26304.entry>
-
 9.  微軟在中國禁用「民主」、「自由」字眼．ZDNet Taiwan报道．2005年6月13日．<http://www.zdnet.com.tw/news/software/0,2000085678,20099721,00.htm>
-
 10. [Keso：2009年6月2日](http://chinagfw.org/2009/06/keso200962.html) ．GFW Blog．2009年6月2日
-
 11. [Bing.com, Live.com, Twitter.com, Flickr.com 的共同点……](http://drgan.net/2009/10264)．杨羽．2009年6月2日

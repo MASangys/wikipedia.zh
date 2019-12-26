@@ -441,31 +441,17 @@
 [Category:Leaf](https://zh.wikipedia.org/wiki/Category:Leaf "wikilink") [Category:1997年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:1997年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:1999年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1999年日本電視動畫 "wikilink") [Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink") [Category:2004年UHF動畫](https://zh.wikipedia.org/wiki/Category:2004年UHF動畫 "wikilink") [Category:中視外購動畫](https://zh.wikipedia.org/wiki/Category:中視外購動畫 "wikilink") [Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink") [Category:電擊G's文庫](https://zh.wikipedia.org/wiki/Category:電擊G's文庫 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink") [Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink") [Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink")
 
 1.  [To Heart](https://vndb.org/v18)The Visual Novel Database
-
 2.  [トゥハート](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=2808)[ファミ通.com](https://zh.wikipedia.org/wiki/ファミ通.com "wikilink")
-
 3.  [ToHeart PORTABLE (AQUAPRICE2800)](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=24838)ファミ通.com
-
 4.  [To Heart (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1089)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
-
 5.  [ToHeart - Remember my memories (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4455)Anime News Network
-
 6.  [ToHeart](http://erogetrailers.com/soft/7750)ErogeTrailers
-
 7.  [ToHeart](http://erogetrailers.com/soft/8026)ErogeTrailers
-
 8.
-
 9.
-
 10. [To Heart トゥハート (1999)](http://www.allcinema.net/prog/show_c.php?num_c=125552)allcinema
-
 11. [To Heart ～Remember my memories～(2004)](http://www.allcinema.net/prog/show_c.php?num_c=321267)allcinema
-
 12. [To Heart (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=3599)Anime News Network
-
 13. [To Heart Remember my memories (manga)](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=6205)Anime News Network
-
 14.
-
 15.

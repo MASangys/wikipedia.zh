@@ -175,17 +175,21 @@ vivo已经在马来西亚建成接近2000家销售点，售后服务中心也达
       - [vivo Z5](https://zh.wikipedia.org/wiki/vivo_Z5 "wikilink")（中國以外的地方稱為Z1x）
   - U系列
       - [vivo U1](https://zh.wikipedia.org/wiki/vivo_U1 "wikilink")
+      - [vivo U3](https://zh.wikipedia.org/wiki/vivo_U3 "wikilink")
+      - [vivo U3x](https://zh.wikipedia.org/wiki/vivo_U3x "wikilink")
       - [vivo U10](https://zh.wikipedia.org/wiki/vivo_U10 "wikilink")
   - S系列
       - [vivo S1](https://zh.wikipedia.org/wiki/vivo_S1 "wikilink")（中國以外的地方版本原型為Y7s/V17 Neo）
       - [vivo S1 pro](https://zh.wikipedia.org/wiki/vivo_S1_pro "wikilink")（中國以外的地方稱為V15 Pro）
   - NEX系列
       - [vivo NEX](https://zh.wikipedia.org/wiki/vivo_NEX "wikilink")
-      - [vivo NEX 雙屏版](https://zh.wikipedia.org/wiki/vivo_NEX_雙屏版 "wikilink")
-      - [vivo NEX 3/NEX 3 5G](https://zh.wikipedia.org/wiki/vivo_NEX_3/NEX_3_5G "wikilink")
+
+      -
+      -
   - iQOO
       - [iQOO](https://zh.wikipedia.org/wiki/iQOO "wikilink")
       - [iQOO Neo](https://zh.wikipedia.org/wiki/iQOO_Neo "wikilink")
+      - [iQOO Neo 855版](https://zh.wikipedia.org/wiki/iQOO_Neo_855版 "wikilink")
       - [IQOO Pro/Pro 5G](https://zh.wikipedia.org/wiki/IQOO_Pro "wikilink")
 
 ## 參考文獻

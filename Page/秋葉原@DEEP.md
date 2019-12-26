@@ -94,7 +94,7 @@
 
   - [文藝春秋小説紹介ページ](http://www.bunshun.co.jp/book_db/html/3/23/53/4163235302.shtml) 小說
   - [週刊コミックバンチ漫画紹介ページ](https://web.archive.org/web/20070619041403/http://www.comicbunch.com/comic_info/akiba_deep/index.html) 漫畫
-  - [テレビドラマ版公式サイト](http://www.akihabaradeep.com/) 電視劇
+  - [テレビドラマ版公式サイト](https://web.archive.org/web/20060717032711/http://www.akihabaradeep.com/) 電視劇
   - [映画版公式サイト](https://web.archive.org/web/20060719033813/http://www.a-deep.jp/) 電影
   - [Yam樂多網誌](http://blog.yam.com/ecus2005/archives/1364594.html) 中譯本部落格
 

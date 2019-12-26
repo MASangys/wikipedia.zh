@@ -344,34 +344,19 @@ E63 AMG 將由[Mercedes-AMG生產](../Page/梅賽德斯-AMG.md "wikilink")， �
 [Category:梅賽德斯-賓士車輛](https://zh.wikipedia.org/wiki/Category:梅賽德斯-賓士車輛 "wikilink") [Category:行政轎車](https://zh.wikipedia.org/wiki/Category:行政轎車 "wikilink") [Category:中型車](https://zh.wikipedia.org/wiki/Category:中型車 "wikilink") [Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink") [Category:後輪驅動](https://zh.wikipedia.org/wiki/Category:後輪驅動 "wikilink") [Category:四輪驅動](https://zh.wikipedia.org/wiki/Category:四輪驅動 "wikilink") [Category:雙門轎跑車](https://zh.wikipedia.org/wiki/Category:雙門轎跑車 "wikilink")
 
 1.
-
 2.
-
 3.  [New York: Mercedes-Benz E63 AMG says 'Ich bin ein monster'](http://www.autoblog.com/2009/04/08/new-york-mercedes-benz-e63-amg-says-ich-bin-ein-monster/)
-
-4.  [Mercedes Benz E63 AMG Estate Specs](http://www.carthusiast.com/mercedes-benz-e63-amg-estate-specs-2363.html)
-
+4.
 5.  [MERCEDES-BENZ ANNOUNCE E-GUARD MODEL](http://germancarscene.com/2009/02/09/mercedes-benz-announce-e-guard-model/)
-
 6.
-
 7.  [New York 2009: Mercedes E250 Bluetec concept would get 28/39 city/hwy rating](http://green.autoblog.com/2009/04/08/new-york-2009-mercedes-e250-bluetec-concept-would-get-28-39-cit/)
-
 8.
-
 9.  [2010 Correction- Mercedes E-Class Coupe Is More Than 60 Percent Based On E-Class](http://www.leftlanenews.com/correction-mercedes-e-class-coupe-is-more-than-60-percent-based-on-e-class.html/)
-
 10.
-
 11.
-
 12.
-
 13. [REPORT: Mercedes bringing E-Class Wagon Stateside](http://www.autoblog.com/2009/08/11/report-mercedes-bringing-e-class-wagon-stateside/)
-
 14. [Frankfurt 2009: 2011 Mercedes-Benz E-Class Wagon](http://www.autoblog.com/2009/09/15/frankfurt-2009-2011-mercedes-benz-e-class-wagon/)
-
 15.
-
 16.
 17. [Top-Modell 2009](http://www.autobild.de/artikel/auto-bild-design-award_902811.html/Deutschlands)

@@ -79,4 +79,4 @@ EA SPORTS在2008年发布NBA LIVE 09时并没有发布相应的PC版本。官方
 10. [9年了！NBA LIVE 17宣布正式重回PC平台！WIN10独占！](http://bbs.hupu.com/17041109.html)
 11. [NBA LIVE 17 (PC)](http://www.gamesdeal.com/nba-live-17-pc.html)
 12. [NBA LIVE 17 for PC?\!](http://forums.nba-live.com/viewtopic.php?f=162&t=101919)
-13. [辟谣！nbalive17重回pc？证实为假消息](http://bbs.hupu.com/17043273.html)
+13.

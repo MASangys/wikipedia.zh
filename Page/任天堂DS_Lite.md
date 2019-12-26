@@ -141,36 +141,20 @@ NDSL有多種主機顏色可供選擇，分別是：
 [Category:掌上遊戲機](https://zh.wikipedia.org/wiki/Category:掌上遊戲機 "wikilink") [Category:任天堂DS](https://zh.wikipedia.org/wiki/Category:任天堂DS "wikilink") [Category:第七世代遊戲機](https://zh.wikipedia.org/wiki/Category:第七世代遊戲機 "wikilink") [Category:任天堂遊戲機](https://zh.wikipedia.org/wiki/Category:任天堂遊戲機 "wikilink") [Category:2006年面世的產品](https://zh.wikipedia.org/wiki/Category:2006年面世的產品 "wikilink")
 
 1.  [神游掌机IDSL“珠光红”版将上市(图)](http://games.sina.com.cn/t/n/2006-10-16/1606171073.shtml).新浪游戏.2006-10-16.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.

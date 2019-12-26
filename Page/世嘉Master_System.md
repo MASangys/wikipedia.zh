@@ -20,7 +20,7 @@ Sega Master System的游戏卡带在日本以外地区发行的版本都有区�
 
 在日本市场最后一个发行的游戏是1989年2月4日由世嘉发行的Bomber Raid。
 
-該機種在台灣有一個通俗的稱呼叫「阿羅士」。一直到MEGA　DRIVE　SEGA-16-BIT(阿羅士五代)出現後才停用這個稱呼。
+該機種在台灣有一個通俗的稱呼叫「阿羅士」。一直到MEGA DRIVE　SEGA-16-BIT（阿羅士五代）出現後才停用這個稱呼。
 
 ### 北美
 
@@ -185,7 +185,9 @@ Master System的3D眼镜只能用于原版的Master System，因为它需要插�
 
 ## 对Sega Mega Drive/Genesis的兼容性
 
-[Genesis_power_base.png](https://zh.wikipedia.org/wiki/File:Genesis_power_base.png "fig:Genesis_power_base.png") [Mega Drive的内部设计对Master](../Page/Mega_Drive.md "wikilink") System是兼容的，但两部机器的游戏卡带插槽的形状不同。为此世嘉开发了一个转接器，让Master System的游戏可以在Mega Drive上运行。这个转接器在美国叫Power Base，在日本则叫Mega Adapter，欧洲地区再换个名字“Master System Converter”。这个看起来有点大的装置插进Mega Drive的卡带插槽，然后就可以将Master System的游戏卡带和卡片插进去并在Mega Drive上玩到它们。转接器的形状规格并不适合用于Mega Drive II，由此又有只在欧洲发售的Master System Converter II，甚至有第三方开发的转接设备。\[14\]
+[Mega_Adaptor.jpg](https://zh.wikipedia.org/wiki/File:Mega_Adaptor.jpg "fig:Mega_Adaptor.jpg")
+
+[Mega Drive的内部设计对Master](../Page/Mega_Drive.md "wikilink") System是兼容的，但两部机器的游戏卡带插槽的形状不同。为此世嘉开发了一个转接器，让Master System的游戏可以在Mega Drive上运行。这个转接器在日本和亞洲地區则稱為Mega Adapter，在北美稱為Power Base Converter，欧洲地区再换个名字“Master System Converter”。这个看起来有点大的装置插进Mega Drive的卡带插槽，然后就可以将Master System的游戏卡带和卡片插进去并在Mega Drive上玩到它们。转接器的形状规格并不适合用于Mega Drive II，由此又有只在欧洲发售的Master System Converter II，甚至有第三方开发的转接设备。\[14\]
 
 ## 参考
 
@@ -210,7 +212,7 @@ Master System的3D眼镜只能用于原版的Master System，因为它需要插�
 6.  [coleco (sega) handheld](http://huguesjohnson.com/features/coleco-sega/)
 7.  [playpalworld](http://www.playpalworld.com/portable.html)
 8.  [Cartridge Pinout](http://www.gamesx.com/cartouts/mastercart.htm)
-9.  [Cruis'n USA and Wonder Boy Now Available on Wii Shop Channel\!](http://www.nintendo.com/whatsnew/detail/4uQJLEZJ2G__3IJq5TXii66HmIjir-lJ)
+9.
 10. [Fantasy Zone Virtual Console release information](http://vc.nintendolife.com/games/mastersystem/fantasy_zone)
 11. [11th April 2008 Virtual Console releases](http://vc.nintendolife.com/news/2008/04/eu_vc_releases_11th_april_c64_and_master_system_madness)
 12. [男子用世嘉游戏枪挟持老妇10小时](http://www.it007.com/html/A/Art_29053.html)

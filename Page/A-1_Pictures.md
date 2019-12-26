@@ -389,12 +389,36 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/刀劍神域" title="wikilink">刀劍神域 Alicization War of Underworld</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/刀劍神域" title="wikilink">刀劍神域 Alicization 异界战争</a></p></td>
 <td></td>
 <td><p>10月－</p></td>
 <td><p>小野學</p></td>
 <td><p>輕小說</p></td>
 <td><p>第3期後半篇</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/22/7_(企划)" title="wikilink">22/7</a></p></td>
+<td></td>
+<td><p>1月－</p></td>
+<td><p>阿保孝雄</p></td>
+<td><p>偶像企划</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

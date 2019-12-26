@@ -54,7 +54,7 @@ Hit Fm 除媒體主業之外，也積極舉辦許多文教與娛樂性活動，�
 
 2019年7月5日，因獲得[華為冠名贊助](https://zh.wikipedia.org/wiki/華為 "wikilink")，《HITO中文排行榜》改為《HUAWEI P30/P30 Pro HITO中文排行榜》。
 
-目前東台灣廣播電台的所有非聯播時段節目皆無DJ主持（2017年1月1日起）。
+2019年11月2日，因電台系統維護，《整點新聞》首度暫停一次（不含農曆新年期間）。
 
 ## 收聽頻率及發射功率
 
@@ -124,7 +124,7 @@ Hit Fm 除媒體主業之外，也積極舉辦許多文教與娛樂性活動，�
 
 <!-- end list -->
 
-  - 台北之音和東台灣廣播電台是目前全台唯二使用FM107.7 Mhz的廣播電台。
+  - 台北之音和東台灣廣播電台是目前全台唯二使用FM107.7 Mhz的廣播電台，目前東台灣廣播電台的所有非聯播時段皆為「純音樂」節目，無DJ主持。
 
 <!-- end list -->
 
@@ -176,6 +176,7 @@ Hit Fm 除媒體主業之外，也積極舉辦許多文教與娛樂性活動，�
   - [黃小楨](../Page/黃小楨.md "wikilink")
   - 何語蓉：曾任中台灣廣播電台《俏迷DJ》主持人， 曾參選台中市議員\[16\]。
   - 凱莉：現為[港都電台](../Page/好事聯播網.md "wikilink")《港都好心情》主持人
+  - NANA\[17\]，於2013\~2015年\[18\]在高屏電台擔任周末HITO FUN輕鬆DJ，現以[一隻阿圓的藝名活耀於Youtube圈](https://zh.wikipedia.org/wiki/一隻阿圓 "wikilink")。
 
 ## 整點新聞時段
 
@@ -201,7 +202,7 @@ Hit Fm 除媒體主業之外，也積極舉辦許多文教與娛樂性活動，�
   - 顏詩雲（週一至週五10：00新聞主播）
   - 高珮萱 (週一到週五09：00\~11：00、12：00、14：00、18:00整點新聞、16：33娛樂新聞主播，宜蘭地方新聞（12:05、14:05）主播)
   - 林羽婕（週一至週五17:00整點新聞主播）
-  - 李學叡（週一至週五19:00-23:00整點新聞主播）21：33娛樂新聞主播
+  - 陳欣慧（週一至週五19:00-23:00整點新聞主播）21：33娛樂新聞主播
   - 劉家燕（代班主播）
 
 #### 假日
@@ -218,7 +219,7 @@ Hit Fm 除媒體主業之外，也積極舉辦許多文教與娛樂性活動，�
 
 ### 廣播金鐘獎
 
-|- |2004年 |《校園青春錄》（中台灣廣播電台） |[第39屆廣播金鐘獎少年節目獎](https://zh.wikipedia.org/wiki/第39屆金鐘獎 "wikilink") | |- |2004年 |《校園青春錄》／洪-{韵}-婷（Sharon）\[17\]（中台灣廣播電台） |[第39屆廣播金鐘獎少年節目主持人獎](https://zh.wikipedia.org/wiki/第39屆金鐘獎 "wikilink") | |- |2006年 |《音樂五六七》（高屏廣播電台） |[第41屆廣播金鐘獎流行音樂節目獎](https://zh.wikipedia.org/wiki/第41屆金鐘獎 "wikilink") | |- |2007年 |《校園青春錄》／黃攸真(Gracie)（中台灣廣播電台） |第三屆廣播電視小金鐘獎\[18\]最佳少年節目主持人獎 | |- |2013年 |《聖誕版臺呼—A-Lin+小宇版》 |[第48屆廣播金鐘獎電臺臺呼獎](https://zh.wikipedia.org/wiki/第48屆金鐘獎 "wikilink") | |- |2015年 |《毛起來愛–流浪動物認養活動》 |[第50屆廣播金鐘獎電臺品牌行銷創新獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink") | |- |2015年 |《Hit FM聯播網官方APP》 |[第50屆廣播金鐘獎電臺數位應用獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink") | |- |2015年 |《生活在宜蘭》（宜蘭中山廣播電台） |[第50屆廣播金鐘獎社區節目獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink") | |- |2016年 |《2015 Hit Fm年度百首單曲票選-我的年度一歌》 |[第51屆廣播金鐘獎電臺品牌行銷創新獎](https://zh.wikipedia.org/wiki/第51屆金鐘獎 "wikilink") |
+|- |2004年 |《校園青春錄》（中台灣廣播電台） |[第39屆廣播金鐘獎少年節目獎](https://zh.wikipedia.org/wiki/第39屆金鐘獎 "wikilink") | |- |2004年 |《校園青春錄》／洪-{韵}-婷（Sharon）\[19\]（中台灣廣播電台） |[第39屆廣播金鐘獎少年節目主持人獎](https://zh.wikipedia.org/wiki/第39屆金鐘獎 "wikilink") | |- |2006年 |《音樂五六七》（高屏廣播電台） |[第41屆廣播金鐘獎流行音樂節目獎](https://zh.wikipedia.org/wiki/第41屆金鐘獎 "wikilink") | |- |2007年 |《校園青春錄》／黃攸真(Gracie)（中台灣廣播電台） |第三屆廣播電視小金鐘獎\[20\]最佳少年節目主持人獎 | |- |2013年 |《聖誕版臺呼—A-Lin+小宇版》 |[第48屆廣播金鐘獎電臺臺呼獎](https://zh.wikipedia.org/wiki/第48屆金鐘獎 "wikilink") | |- |2015年 |《毛起來愛–流浪動物認養活動》 |[第50屆廣播金鐘獎電臺品牌行銷創新獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink") | |- |2015年 |《Hit FM聯播網官方APP》 |[第50屆廣播金鐘獎電臺數位應用獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink") | |- |2015年 |《生活在宜蘭》（宜蘭中山廣播電台） |[第50屆廣播金鐘獎社區節目獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink") | |- |2016年 |《2015 Hit Fm年度百首單曲票選-我的年度一歌》 |[第51屆廣播金鐘獎電臺品牌行銷創新獎](https://zh.wikipedia.org/wiki/第51屆金鐘獎 "wikilink") |
 
 ## 年度百首單曲
 
@@ -287,5 +288,7 @@ Hit Fm 除媒體主業之外，也積極舉辦許多文教與娛樂性活動，�
 14. [頻率資料庫查詢系統](http://i.imgur.com/jFVCI8M.png)，國家通訊傳播委員會
 15. [台東根本收不到hitfm](http://www.hitoradio.com/newweb/forum/viewtopic.php?f=83&t=40509)，hitoradio
 16. [歐巴桑聯盟台中市議員第一波候選人今天出擊](http://www.chinatimes.com/realtimenews/20180308001819-260407)
-17. [校園青春錄](https://web.archive.org/web/20040612005733/http://www.hitfm.com.tw/dj_prifiles/sharon.htm)
-18. [2007年第三屆廣播電視小金鐘獎入圍名單-來源:PTT](https://www.ptt.cc/bbs/Golden-Award/M.1192919578.A.FDB.html)
+17.
+18.
+19. [校園青春錄](https://web.archive.org/web/20040612005733/http://www.hitfm.com.tw/dj_prifiles/sharon.htm)
+20. [2007年第三屆廣播電視小金鐘獎入圍名單-來源:PTT](https://www.ptt.cc/bbs/Golden-Award/M.1192919578.A.FDB.html)

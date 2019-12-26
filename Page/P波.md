@@ -8,7 +8,7 @@
 
 [均质](https://zh.wikipedia.org/wiki/均质 "wikilink")[各向同性介质的P波速度由下列公式给出](https://zh.wikipedia.org/wiki/各向同性 "wikilink")：
 
-\[v_p= \sqrt{ \frac {K+\frac{4}{3}\mu} {\rho}}= \sqrt{ \frac{\lambda+2\mu}{\rho}}\] 其中*K*是[体积模量](../Page/体积模量.md "wikilink")（不可压缩性的模量），*\(\mu\)*是[剪切模量](https://zh.wikipedia.org/wiki/剪切模量 "wikilink")（刚性度的模量，常记为*G*，又称第二[拉梅参数](https://zh.wikipedia.org/wiki/拉梅参数 "wikilink")），*\(\rho\)*是波传播介质材料的[密度](../Page/密度.md "wikilink")，*\(\lambda\)*是第一[拉梅参数](https://zh.wikipedia.org/wiki/拉梅参数 "wikilink")。
+\[v_p= \sqrt{ \frac {K+\frac{4}{3}\mu} {\rho}}= \sqrt{ \frac{\lambda+2\mu}{\rho}}\] 其中*K*是[体积模量](../Page/体积模量.md "wikilink")（不可压缩性的模量），*\(\mu\)*是[剪切模量](../Page/剪切模量.md "wikilink")（刚性度的模量，常记为*G*，又称第二[拉梅参数](https://zh.wikipedia.org/wiki/拉梅参数 "wikilink")），*\(\rho\)*是波传播介质材料的[密度](../Page/密度.md "wikilink")，*\(\lambda\)*是第一[拉梅参数](https://zh.wikipedia.org/wiki/拉梅参数 "wikilink")。
 
 由于密度的变化很小，速度主要由*K*和*μ*决定。
 

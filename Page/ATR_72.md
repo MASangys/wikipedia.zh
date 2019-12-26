@@ -175,6 +175,17 @@ ATR 72的海軍反潛艦機種，整合了軍用版[ATR 42的海上巡邏系統�
   - 起飛所需最短跑道:1,450公尺
   - 巡航高度：7,000 m (21,000 ft)\[9\]
 
+## 相關機型
+
+  - [ATR42](https://zh.wikipedia.org/wiki/ATR42 "wikilink")
+  - [薩博2000](../Page/薩博2000.md "wikilink")
+  - [德哈維蘭加拿大DHC-8](../Page/德哈維蘭加拿大DHC-8.md "wikilink")
+  - [運-7](https://zh.wikipedia.org/wiki/運-7 "wikilink")
+  - [新舟60](https://zh.wikipedia.org/wiki/新舟60 "wikilink")
+  - [新舟600](https://zh.wikipedia.org/wiki/新舟600 "wikilink")
+  - [中国商飞ARJ21](https://zh.wikipedia.org/wiki/中国商飞ARJ21 "wikilink")
+  - [三菱SpaceJet](https://zh.wikipedia.org/wiki/三菱SpaceJet "wikilink")
+
 ## 参考文献
 
 <div class="references-small">

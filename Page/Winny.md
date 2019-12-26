@@ -42,7 +42,7 @@ Winny 2.0β7.1無法在[Windows 7 SP1日文旗艦版](https://zh.wikipedia.org/w
 
   - [Winnyまとめページ](http://magic3.net/winny.html)
 
-  - [日本最火P2P软件Winny带毒 开发者坐牢](http://www.ppcn.net/n3323c1.aspx)
+  - [日本最火P2P软件Winny带毒 开发者坐牢](https://web.archive.org/web/20090109145345/http://www.ppcn.net/n3323c1.aspx)
 
 [Category:P2P](https://zh.wikipedia.org/wiki/Category:P2P "wikilink") [Category:下載工具](https://zh.wikipedia.org/wiki/Category:下載工具 "wikilink") [Category:匿名網路](https://zh.wikipedia.org/wiki/Category:匿名網路 "wikilink")
 

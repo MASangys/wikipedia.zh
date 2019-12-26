@@ -60,4 +60,4 @@ ODBC的运用形态通常是由应用程序经过一个称之为[ODBC管理器�
 
 {{-}}
 
-[Category:数据库](https://zh.wikipedia.org/wiki/Category:数据库 "wikilink")
+[Category:数据库](https://zh.wikipedia.org/wiki/Category:数据库 "wikilink") [Category:数据库API](https://zh.wikipedia.org/wiki/Category:数据库API "wikilink")

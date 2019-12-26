@@ -65,47 +65,27 @@
 [Category:最終幻想XII](https://zh.wikipedia.org/wiki/Category:最終幻想XII "wikilink") [Category:最终幻想系列衍生作品](https://zh.wikipedia.org/wiki/Category:最终幻想系列衍生作品 "wikilink") [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink") [Category:空贼](https://zh.wikipedia.org/wiki/Category:空贼 "wikilink") [Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:战略角色扮演游戏](https://zh.wikipedia.org/wiki/Category:战略角色扮演游戏 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
 7.
-
 8.
-
 9.
 10. **Balthier's note**: Something more valuable: the Cache of Glabados. I await in Bervenia.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24. Electronic Gaming Monthly, Issue 223; HOL. 2007
-
 25.

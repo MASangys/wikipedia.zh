@@ -34,8 +34,6 @@
 [Category:北冕座R變星](https://zh.wikipedia.org/wiki/Category:北冕座R變星 "wikilink") [Category:爆發型變星](https://zh.wikipedia.org/wiki/Category:爆發型變星 "wikilink") [Category:變星](https://zh.wikipedia.org/wiki/Category:變星 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

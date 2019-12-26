@@ -7,23 +7,17 @@
 
 ## 成員
 
-  - [Pata](../Page/Pata.md "wikilink")（[石塚智昭](../Page/石塚智昭.md "wikilink")）-
-    原[Dope HEADz吉他手](../Page/Dope_HEADz.md "wikilink")。現為[X
-    JAPAN吉他手](../Page/X_JAPAN.md "wikilink")。
-  - Michiaki（[鈴木享明](../Page/鈴木享明.md "wikilink")）-
-    原[TENSAW](../Page/TENSAW.md "wikilink")、THE TOYS貝斯手。
+  - [Pata](https://zh.wikipedia.org/wiki/Pata "wikilink")（[石塚智昭](https://zh.wikipedia.org/wiki/石塚智昭 "wikilink")）- 原[Dope HEADz吉他手](https://zh.wikipedia.org/wiki/Dope_HEADz "wikilink")。現為[X JAPAN吉他手](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")。
+  - Michiaki（[鈴木享明](../Page/鈴木享明.md "wikilink")）- 原[TENSAW](https://zh.wikipedia.org/wiki/TENSAW "wikilink")、THE TOYS貝斯手。
   - Ryuichi(西田竜一)-原Novela、ACTION鼓手。(2014年6月28日宣布加入)
   - DIE（乃澤大二郎）- 原hide with Spread Beaver鍵盤手。現為二枚舌成員。（2007年5月19日宣佈加入）
-  - Tetsu（[向山Tetsu](../Page/向山Tetsu.md "wikilink")）- 原ALPHABETS、原Red
-    Warriors鼓手。為創作女歌手[cocco的固定合作班底](../Page/cocco.md "wikilink")。(2014年4月17日退出)
+  - Tetsu（[向山Tetsu](https://zh.wikipedia.org/wiki/向山Tetsu "wikilink")）- 原ALPHABETS、原Red Warriors鼓手。為創作女歌手[cocco的固定合作班底](https://zh.wikipedia.org/wiki/cocco "wikilink")。(2014年4月17日退出)
 
 註．關於鍵盤手DIE的名稱：原書寫方式為「D.I.E」，自2006年10月起由本人正式改為「DIE」。
 
 ## 團名由來
 
-團名「Ra:IN」是由日本傳奇性的貝斯手[加部正義](../Page/加部正義.md "wikilink")（原[THE GOLDEN
-CUPS](../Page/THE_GOLDEN_CUPS.md "wikilink")、[PINK
-CLOUD](../Page/PINK_CLOUD.md "wikilink")，現[ZokuZokuKazoku](../Page/ZokuZokuKazoku.md "wikilink")）命名。
+團名「Ra:IN」是由日本傳奇性的貝斯手[加部正義](https://zh.wikipedia.org/wiki/加部正義 "wikilink")（原[THE GOLDEN CUPS](https://zh.wikipedia.org/wiki/THE_GOLDEN_CUPS "wikilink")、[PINK CLOUD](https://zh.wikipedia.org/wiki/PINK_CLOUD "wikilink")，現[ZokuZokuKazoku](https://zh.wikipedia.org/wiki/ZokuZokuKazoku "wikilink")）命名。
 由英文"Rock and Inspiration"縮減而來。發音同英文"Line"。
 
 ## 音樂特色
@@ -50,8 +44,7 @@ Ra:IN的音樂最大特徵是在其帶有一些70年代風味的硬式搖滾（H
 
 ## 活動紀錄
 
-（多數內容與[X
-JAPAN吉他手](../Page/X_JAPAN.md "wikilink")[Pata有重覆或類似](../Page/Pata.md "wikilink")，請見諒）
+（多數內容與[X JAPAN吉他手](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[Pata有重覆或類似](https://zh.wikipedia.org/wiki/Pata "wikilink")，請見諒）
 
   - 2002年夏天　成軍
   - 2003年　發行Live會場限定販賣的Maxi單曲「The Border」。
@@ -59,26 +52,21 @@ JAPAN吉他手](../Page/X_JAPAN.md "wikilink")[Pata有重覆或類似](../Page/P
   - 2004年4月　於上海ARK舉行兩天的現場演出。（註：首次海外表演活動）
   - 2004年7月31日　受邀參加台灣定期於夏季舉行的大型音樂活動「[野台開唱](../Page/野台開唱.md "wikilink")」（風舞台）。
     這是Ra:IN（也是PATA）首次於台灣公開表演。
-  - 2004年8月2日　為[野台開唱閉幕後](../Page/野台開唱.md "wikilink")「音樂祭會後Party」的表演團體之一。
+  - 2004年8月2日　為[野台開唱](../Page/野台開唱.md "wikilink")閉幕後「音樂祭會後Party」的表演團體之一。
     於台北市的Live House「THE WALL」演出。
   - 2005年5月5日　於法國巴黎的搖滾殿堂「Elysee Montmartre」舉行首次的歐洲現場表演。
     當日的演出集結了不少自歐洲各地前來的樂迷。
   - 2005年9月9日　參加AT LAST hide Museum Live in Cafe Le PSYENCE
-    （已故的原X JAPAN吉他手[hide紀念館的閉館紀念Live](../Page/hide.md "wikilink")）演出。
+    （已故的原X JAPAN吉他手[hide紀念館的閉館紀念Live](https://zh.wikipedia.org/wiki/hide "wikilink")）演出。
   - 2006年3月2日　吉他手PATA單獨在台灣進行Ra:IN新專輯宣傳活動，於台北市「海邊的卡夫卡」舉辦簽名會（座談會）。
   - 2006年3月8日　發表第二張專輯「BEFORE THE SIREN」。
-  - 2006年7月29日　吉他手PATA以歌手[相川七瀨的巡迴演出吉他手身份二度參加](../Page/相川七瀨.md "wikilink")[野台開唱](../Page/野台開唱.md "wikilink")（風舞台）。
-    同台演出的有原[Luna
-    Sea鼓手](../Page/Luna_Sea.md "wikilink")[真矢](../Page/真矢.md "wikilink")、原[MEGADETH吉他手](../Page/MEGADETH.md "wikilink")[Marty
-    Friedman](../Page/Marty_Friedman.md "wikilink")、[DEAD
-    END的貝斯手](../Page/DEAD_END.md "wikilink")[Crazy Cool
-    Joe](../Page/Crazy_Cool_Joe.md "wikilink")、
-    前[hide with Spread
-    Beaver鍵盤手](../Page/hide_with_Spread_Beaver.md "wikilink")[D.I.E.](../Page/D.I.E..md "wikilink")。
+  - 2006年7月29日　吉他手PATA以歌手[相川七瀨](../Page/相川七瀨.md "wikilink")的巡迴演出吉他手身份二度參加[野台開唱](../Page/野台開唱.md "wikilink")（風舞台）。
+    同台演出的有原[Luna Sea鼓手](https://zh.wikipedia.org/wiki/Luna_Sea "wikilink")[真矢](https://zh.wikipedia.org/wiki/真矢 "wikilink")、原[MEGADETH吉他手](https://zh.wikipedia.org/wiki/MEGADETH "wikilink")[Marty Friedman](https://zh.wikipedia.org/wiki/Marty_Friedman "wikilink")、[DEAD END的貝斯手](https://zh.wikipedia.org/wiki/DEAD_END "wikilink")[Crazy Cool Joe](https://zh.wikipedia.org/wiki/Crazy_Cool_Joe "wikilink")、
+    前[hide with Spread Beaver鍵盤手](https://zh.wikipedia.org/wiki/hide_with_Spread_Beaver "wikilink")[D.I.E.](https://zh.wikipedia.org/wiki/D.I.E. "wikilink")。
   - 2006年8月24日　於台北市THE WALL舉行連續兩天（8月24日、25日）的現場表演及簽名會，
     並於當日開始發售第二張專輯「BEFORE THE SIREN」的台灣版。
   - 2006年8月25日　台北"THE WALL" Live第二天。
-    參與第二張專輯的鍵盤手[D.I.E.連續兩天的表演全程參加](../Page/D.I.E..md "wikilink")。另台灣的歌手阿福兩天皆以特別來賓身份演唱一曲。
+    參與第二張專輯的鍵盤手[D.I.E.連續兩天的表演全程參加](https://zh.wikipedia.org/wiki/D.I.E. "wikilink")。另台灣的歌手阿福兩天皆以特別來賓身份演唱一曲。
   - 2007年5月19日　於橫濱7th Avenue演出，並宣佈長期合作的鍵盤手DIE（D.I.E）正式加入、成為Ra:IN的第四位成員。
   - 2007年7月27日　「Summer of Love Tour 07」以"千葉LOOK"做為第一站，開始在日本國內展開夏季巡迴演出。
   - 2007年8月20日　吉他手PATA發行首張個人吉他教學DVD「」。
@@ -91,15 +79,11 @@ JAPAN吉他手](../Page/X_JAPAN.md "wikilink")[Pata有重覆或類似](../Page/P
   - 2008年4月18日　「METAL BOX Tour 2008」以千葉 Chiba LOOK為起點，展開日本國內巡迴演出。
   - 2008年5月3日　參加於味の素スタジアム舉行的「hide memorial summit」。
   - 2008年6月13日　「METAL BOX Tour 2008 FINAL」以新宿HOLIDAY做為2008年巡迴演出的最終站。
-  - 2008年12月27日　於新宿HOLIDAY 舉行"Ra:IN's Rock'n Roll
-    Vaudeville"，為2008年的最後一場公開表演。
+  - 2008年12月27日　於新宿HOLIDAY 舉行"Ra:IN's Rock'n Roll Vaudeville"，為2008年的最後一場公開表演。
 
 ## 外部連結
 
 [Ra:IN web (official)](http://www.rain-web.com/)
 [DIE 公式BLOG（鍵盤手DIE的官方BLOG）](http://voice.die1964.com/)
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:摇滚乐团](https://zh.wikipedia.org/wiki/Category:摇滚乐团 "wikilink")
-[Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink")
-[Category:日本前衛搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本前衛搖滾樂團 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:摇滚乐团](https://zh.wikipedia.org/wiki/Category:摇滚乐团 "wikilink") [Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink") [Category:日本前衛搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本前衛搖滾樂團 "wikilink")

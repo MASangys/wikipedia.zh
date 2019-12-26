@@ -373,12 +373,6 @@ BRISCO'S INOUE，即被BRISCO公司收購後的胃至上製菓。而BRISCO的創
 
 ## 參考資料
 
-<div class="references-small">
-
-<references />
-
-</div>
-
 ## 外部連結
 
   - [TBS《REC》動畫官方網站](http://www.tbs.co.jp/rec-aka/)

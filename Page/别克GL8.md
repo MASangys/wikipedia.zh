@@ -2,10 +2,10 @@
 
 ## 发动机
 
-  - GL8 2.5L V6 - LB8 2500
-  - GL8 Firstland 3.0L V6 - LZC 2998
-  - GL8 Luxury 3.0L V6 - SIDI 3.0
-  - GL8 Luxury 2.4L V6 - ECO 2.4
+  - GL8 2.5L V6 - LB8 2.5L
+  - GL8 Firstland 3.0L V6 - LZC 3.0L
+  - GL8 Luxury 2.4L V6 - ECO 2.4L
+  - GL8 Luxury 3.0L V6 - SIDI 3.0L
 
 ## 安全性問題
 

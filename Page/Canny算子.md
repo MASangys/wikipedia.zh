@@ -41,7 +41,7 @@ Canny算法包含许多可以调整的参数，它们将影响到算法的计算
   - [高斯滤波器的大小](https://zh.wikipedia.org/wiki/高斯滤波器 "wikilink")：第一步所用的平滑滤波器将会直接影响Canny算法的结果。较小的滤波器产生的模糊效果也较少，这样就可以检测较小、变化明显的细线。较大的滤波器产生的模糊效果也较多，将较大的一块图像区域涂成一个特定点的颜色值。这样带来的结果就是对于检测较大、平滑的边缘更加有用，例如彩虹的边缘。
   - [阈值](https://zh.wikipedia.org/wiki/阈值 "wikilink")：使用两个阈值比使用一个阈值更加灵活，但是它还是有阈值存在的共性问题。设置的阈值过高，可能会漏掉重要信息；阈值过低，将会把枝节信息看得很重要。很难给出一个适用于所有图像的通用阈值。目前还没有一个经过验证的实现方法。
 
-如果想要试验Canny算法中的参数，http://matlabserver.cs.rug.nl 的在线Canny程序会很有帮助。
+如果想要试验Canny算法中的参数，https://web.archive.org/web/20090615224334/http://matlabserver.cs.rug.nl/ 的在线Canny程序会很有帮助。
 
 ## 评价
 
@@ -63,7 +63,7 @@ Canny算法适用于不同的场合。它的参数允许根据不同实现的特
 ## 外部链接
 
   - [John Canny的主页](http://www.cs.berkeley.edu/~jfc/)
-  - [网上的Canny边缘检测程序](http://matlabserver.cs.rug.nl/)
+  - [网上的Canny边缘检测程序](https://web.archive.org/web/20090615224334/http://matlabserver.cs.rug.nl/)
 
 ## 参见
 

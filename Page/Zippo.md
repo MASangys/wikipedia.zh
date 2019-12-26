@@ -52,18 +52,11 @@ zippotricks.com网站曾经提供了数百种Zippo打火机的玩法，但是[�
 [Category:打火機](https://zh.wikipedia.org/wiki/Category:打火機 "wikilink") [Category:1932年成立的公司](https://zh.wikipedia.org/wiki/Category:1932年成立的公司 "wikilink") [Category:美國品牌](https://zh.wikipedia.org/wiki/Category:美國品牌 "wikilink") [Category:工業設計](https://zh.wikipedia.org/wiki/Category:工業設計 "wikilink")
 
 1.  [David Lander](http://www.americanheritage.com/articles/magazine/ah/2006/1/2006_1_15.shtml)  "The Buyable Past," *American Heritage*, February/March 2006.
-
 2.
-
 3.  [The story of the Zippo Manufacturing Company](http://www.zippo.com/corporateInfo/Zippo_Manufacturing_History.aspx?article=fb7471d5-7322-46f4-881f-08d8cfa64785) at the company's website
-
 4.  Zippo Companion by Avi Baer and Alexander Neumark (Hardcover - Dec 15, 2000) 192 pages Publisher: Compendium Publishing. ISBN 1-906347-13-1. ISBN 978-1-906347-13-0
-
 5.  An American Legend Zippo: a Collector's Companion by Avi R; Neumark, Alexander Baer (Hardcover - 1999)
-
 6.  Sherry Buchanan and Bradford Edwards, ''Vietnam Zippos:American Soldiers’ Engravings and Stories, 1965—1973. Chicago: University of Chicago Press, 2007.
-
 7.
 8.  Paulette Dininny, "Keepers of the Flame: After Big Sales in World War II and Parts in Old Movies, Zippos Are Still Around, Often as hot Collector's Items," *Smithsonian,* vol. 29, no. 9 (December 1998), pg. 44.
-
 9.  [Zippo.ca — Welcome to Zippo Canada](http://www.zippocanada.com)

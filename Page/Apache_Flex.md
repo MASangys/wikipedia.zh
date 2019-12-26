@@ -91,7 +91,7 @@ Macromedia 把一部份 Flex 1.5 的子集嵌入到了它的ColdFusion MX 7中�
   - [Official Adobe Flex site](http://www.adobe.com/products/flex/)
   - [Flex 官方起始页](http://webarchive.loc.gov/all/20090217012122/http://flex.org/)
   - [官方中文Flex摘要页](http://www.adobe.com/cn/products/flex/)
-  - [中文Flex例子](https://web.archive.org/web/20080415135740/http://blog.minidx.com/)
+  - [中文Flex範例](https://web.archive.org/web/20080415135740/http://blog.minidx.com/)
   - [CFlex - Community Driven Adobe Flex Developer site](http://www.cflex.net)
   - [Flex Authority - Adobe Flex Developer site](http://www.flexauthority.com/)
   - [Jesse Warden - Adobe Flex Developer Blog Site](http://www.jessewarden.com)

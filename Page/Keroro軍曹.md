@@ -191,20 +191,100 @@
 </tbody>
 </table>
 
-  - 限定版贈品列表〈Comics Ace〉
+  - 限定版贈品列表
 
 <!-- end list -->
 
-  - 第7冊：附贈Keroro小隊5人的模型。2003年9月18日發售、ISBN 4-04-900756-8
-  - 第9冊：附贈Keroro小隊5人的徽章，原作者特製限定版書衣。2004年8月6日發售、ISBN 4-04-713654-0
-  - 第10冊：附贈[帕瓦德夏美模型](../Page/帕瓦特·奥特曼.md "wikilink")，內附[泳裝夏美替換零件](https://zh.wikipedia.org/wiki/日本學生泳衣 "wikilink")，原作者特製限定版書衣。2005年2月17日發售、ISBN 4-04-900770-1
-  - 第11冊：附贈Action Keroro模型。原型設計者為[淺井真紀](https://zh.wikipedia.org/wiki/淺井真紀 "wikilink")。特別繪製書衣由負責。2005年9月26日發售、ISBN 4-04-900771-8
-  - 第12冊：
-  - 第14冊：
-  - 第16冊：
-  - 第17冊：
-  - 第18冊：
-  - 第23冊：
+  - 第7冊：附贈Keroro小隊5人的模型。
+
+<!-- end list -->
+
+  -
+    2003年9月18日發售、ISBN 4-04-900756-8
+
+<!-- end list -->
+
+  - 第9冊：附贈Keroro小隊5人的徽章，原作者特製限定版書衣。
+
+<!-- end list -->
+
+  -
+    2004年8月6日發售、ISBN 4-04-713654-0
+
+<!-- end list -->
+
+  - 第10冊：附贈[帕瓦德夏美模型](../Page/帕瓦特·奥特曼.md "wikilink")，內附[泳裝夏美替換零件](https://zh.wikipedia.org/wiki/日本學生泳衣 "wikilink")，原作者特製限定版書衣。
+
+<!-- end list -->
+
+  -
+    2005年2月17日發售、ISBN 4-04-900770-1
+
+<!-- end list -->
+
+  - 第11冊：附贈Action Keroro模型。原型設計者為[淺井真紀](https://zh.wikipedia.org/wiki/淺井真紀 "wikilink")。特別繪製書衣由負責。
+
+<!-- end list -->
+
+  -
+    2005年9月26日發售、ISBN 4-04-900771-8
+
+<!-- end list -->
+
+  - 第12冊：劇場版公開紀念特別版。附贈Keroro、Mirara、Kiruru 3位圖案的吊飾。原作者特製限定版書衣（Keroro小隊跟夏美）。
+
+<!-- end list -->
+
+  -
+    2006年2月15日發售、ISBN 978-4-04-713792-9
+
+<!-- end list -->
+
+  - 第14冊：劇場版2公開紀念特別版。附贈Keroro、Meru、Maru 3位圖案的吊飾。原作者特製限定版書衣（Keroro小隊跟摩亞）。
+
+<!-- end list -->
+
+  -
+    2007年2月7日發售、ISBN 978-4-04-713902-2
+
+<!-- end list -->
+
+  - 第16冊：劇場版3公開紀念特別版。原作者特製限定版書衣（Keroro小隊跟桃華）。於[LAWSON限定販售](../Page/羅森_\(便利店\).md "wikilink")。
+
+<!-- end list -->
+
+  -
+    特別版：2008年2月14日發售、ISBN 978-4-04-715023-2（附贈Keroro軍曹、黑暗Keroro、Miruru 3位圖案的吊飾。）
+    超特別版：2008年2月14日發售、ISBN 978-4-04-715022-5（附贈武者Keroro、黑暗Keroro、Miruru 3位圖案的吊飾。）
+
+<!-- end list -->
+
+  - 第17冊：「Keroro」誕生10周年紀念特裝版。有A、B、C三個版本。原作者特製限定版書衣（Keroro小隊跟主要角色群）。
+
+<!-- end list -->
+
+  -
+    A：2008年7月17日發售、ISBN 978-4-04-715054-6
+    B：2008年7月17日發售、ISBN 978-4-04-715055-3
+    C：2008年7月17日發售、ISBN 978-4-04-715056-0
+
+<!-- end list -->
+
+  - 第18冊：劇場版4公開紀念特別版。附贈Keroro、Garuru、Keroro龍 3位圖案的吊飾。原作者特製限定版書衣（Keroro小隊跟小雪）。
+
+<!-- end list -->
+
+  -
+    2009年2月12日發售、ISBN 978-4-04-715179-6
+
+<!-- end list -->
+
+  - 第23冊：新Keroro吊飾特装版。附贈新Keroro（T-STYLE）、暴走Keroro、金阿彌明 3位圖案的吊飾。原作者特製限定版書衣（新Keroro、暴走Keroro、冬樹、火之原燈、金阿彌明）。
+
+<!-- end list -->
+
+  -
+    2012年3月19日發售、ISBN 978-4-04-715791-0
 
 ### 特別編輯版
 
@@ -255,6 +335,263 @@
 <td><p>Keroro軍曹Black Keroro小隊24小時篇</p></td>
 <td><p>ISBN 4-04-925036-5</p></td>
 <td><p>ISBN 978-986-174-424-7</p></td>
+</tr>
+</tbody>
+</table>
+
+### 小說
+
+<table>
+<thead>
+<tr class="header">
+<th><p>日文書名</p></th>
+<th><p>中文書名</p></th>
+<th><p>角川書店</p></th>
+<th><p>台灣角川</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>愛爆發！地球消滅5秒大限！</p></td>
+<td><p>2006年1月23日</p></td>
+<td><p>ISBN 978-4-04-853942-5</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>2006年2月22日</p></td>
+<td><p>ISBN 978-4-04-853943-2</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>我是傳奇？</p></td>
+<td><p>2006年3月27日</p></td>
+<td><p>ISBN 978-4-04-853944-9</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>2007年3月7日</p></td>
+<td><p>ISBN 978-4-04-854085-8</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>2008年3月10日</p></td>
+<td><p>ISBN 978-4-04-854168-8</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>龍勇士的逆襲</p></td>
+<td><p>2009年3月3日</p></td>
+<td><p>ISBN 978-4-04-631015-6</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>愛爆發！地球消滅5秒大限！</p></td>
+<td><p>2009年6月11日</p></td>
+<td><p>ISBN 978-4-04-631006-4</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>2010年2月22日</p></td>
+<td><p>ISBN 978-4-04-631085-9</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>2011年5月13日</p></td>
+<td><p>ISBN 978-4-04-631166-5</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>我是傳奇？</p></td>
+<td><p>2011年8月8日</p></td>
+<td><p>ISBN 978-4-04-631176-4</p></td>
+</tr>
+</tbody>
+</table>
+
+### 衍生漫畫
+
+  - KERORO軍曹特別訓練☆戰國群星大戰鬥！（）
+
+漫畫：夢唄 / 原作：吉崎観音
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>角川書店</p></th>
+<th><p>台灣角川</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2008年3月5日</p></td>
+<td><p>ISBN 978-4-04-715034-8</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2008年11月21日</p></td>
+<td><p>ISBN 978-4-04-715138-3</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2009年7月23日</p></td>
+<td><p>ISBN 978-4-04-715245-8</p></td>
+</tr>
+</tbody>
+</table>
+
+  - KERORO海賊 KERORO軍曹特別訓練☆大航海星的祕寶！（）
+
+漫畫：大槻朱留 / 原作：吉崎観音 / 企劃協力：バンダイ
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>角川書店</p></th>
+<th><p>台灣角川</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2010年2月24日</p></td>
+<td><p>ISBN 978-4-04-715408-7</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2010年9月22日</p></td>
+<td><p>ISBN 978-4-04-715530-5</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2011年2月23日</p></td>
+<td><p>ISBN 978-4-04-715673-9</p></td>
+</tr>
+</tbody>
+</table>
+
+  -
+
+漫畫：森永 もそ / 原作：吉崎観音
+
+  - 2010年3月24日發售、ISBN 978-4-04-715402-5
+
+<!-- end list -->
+
+  - 四格漫畫
+
+### 其他書籍
+
+  - 攻略書
+
+<table>
+<thead>
+<tr class="header">
+<th><p>書名</p></th>
+<th><p>角川書店</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>2004年10月15日</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2005年12月22日</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 導讀手冊
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>書名</p></th>
+<th><p>角川書店</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11.5</p></td>
+<td></td>
+<td><p>2005年12月26日</p></td>
+</tr>
+<tr class="odd">
+<td><p>22.5</p></td>
+<td></td>
+<td><p>2012年02月23日</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 百科
+
+<!-- end list -->
+
+  -
+<!-- end list -->
+
+  -
+    2005年8月30日發售、ISBN 978-4-04-853893-0
+
+<!-- end list -->
+
+  - KERORO軍曹 祕密超百科（）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>角川書店</p></th>
+<th><p>台灣角川</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>全</p></td>
+<td><p>2007年10月26日</p></td>
+<td><p>ISBN 978-4-04-925053-4</p></td>
 </tr>
 </tbody>
 </table>

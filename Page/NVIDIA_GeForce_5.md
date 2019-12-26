@@ -73,7 +73,7 @@ NVIDIA開始掩飾[GeForce FX的缺點](https://zh.wikipedia.org/wiki/GeForce_FX
   - [NVIDIA GeForce PCX](http://www.nvidia.com.tw/page/geforce_pcx.html)
   - [NVIDIA GeForce FX Go](http://www.nvidia.com.tw/page/fx_mobile.html)
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:GeForce系列](https://zh.wikipedia.org/wiki/Category:GeForce系列 "wikilink") [Category:2002年面世的產品](https://zh.wikipedia.org/wiki/Category:2002年面世的產品 "wikilink")
 
 1.  [Nvidia Dawn (fairy) demo on ATI cards](http://www.techspot.com/community/topics/nvidia-dawn-fairy-demo-on-ati-cards.5564/)
 2.  [GeForce FX 5600/5200 Ultra的首次评测出炉](http://hard.zol.com.cn/labs/2003/0313/56523.shtml)

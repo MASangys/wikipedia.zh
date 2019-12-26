@@ -54,13 +54,10 @@ I2S 协议并不适合用线缆进行传输，并且 IC 对同轴电缆通常并
 [Category:Serial_buses](https://zh.wikipedia.org/wiki/Category:Serial_buses "wikilink") [Category:NXP_Semiconductors](https://zh.wikipedia.org/wiki/Category:NXP_Semiconductors "wikilink") [Category:串行总线](https://zh.wikipedia.org/wiki/Category:串行总线 "wikilink")
 
 1.  [I²S Specification](https://web.archive.org/web/20070102004400/http://www.nxp.com/acrobat_download/various/I2SBUS.pdf)(PDF). Philips Semiconductors. June 5, 1996. Archived from [the original](http://www.nxp.com/acrobat_download/various/I2SBUS.pdf) (PDF) on January 2, 2007.
-
 2.
 3.  Lewis, Jerad (January 2012). "[Technical Article MS-2275: Common Inter-IC Digital Interfaces for Audio Data Transfer](https://www.analog.com/media/en/technical-documentation/technical-articles/MS-2275.pdf)" (PDF). Analog Devices, Inc.
-
 4.
 5.
 6.
 7.  MCLK in I2S audio protocol". electronics.stackexchange.com. Retrieved 2016-11-04. Clock source for the delta-sigma modulators and digital filters. ... It is the clock that is used by the audio codec ... to time and/or drive its own internal operation.
-
 8.

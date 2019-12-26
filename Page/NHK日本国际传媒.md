@@ -49,7 +49,7 @@ NHK日本国际传媒通过它的网站向访客提供其18种语言的对外广
   -
     利用網際網路向全世界播送[日本國際廣播電台](https://zh.wikipedia.org/wiki/日本國際廣播電台 "wikilink")，並提供17國語言廣播資訊，可直接透過[Apple App Store或](../Page/App_Store_\(iOS\).md "wikilink")[Google Play下載應用程式](../Page/Google_Play.md "wikilink")「NHK WORLD RADIO JAPAN」。
   -
-    在互联网上播出的致力于让中国人了解日本并兼有灾害播报功能的一档中文电视频道，于2019年1月15日开始播出。通过上面提到的“NHK WORLD TV”程序亦可进行收看。\[8\]
+    在互联网上播出的致力于让中国人了解日本并兼有灾害播报功能的一档中文电视频道，于2019年1月15日开始播出。通过上面提到的“NHK WORLD TV”程序亦可在线进行收看。\[8\]
 
 ## 相關條目
 

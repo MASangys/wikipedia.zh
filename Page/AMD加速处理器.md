@@ -164,7 +164,13 @@ AMD APU於2015年6月推出第四代APU Refresh版，核心代號Godavari，採�
 
 第七代AMD APU於2016年4月發表，核心代號Bristol Ridge，採用[Socket AM4](../Page/Socket_AM4.md "wikilink")，包括A6到A12，晶片組為B350/A320。
 
-2018年2月13日，首款AMD Ryzen™桌上型APU發表。\[51\]
+2017年2月22日發表代號「Summit Ridge」的第一代Ryzen系列，取代AMD FX系列
+
+2017年10月發表代號「Raven Ridge」的Ryzen APU產品線
+
+2018年4月發表了代號「Pinnacle Ridge」的第二代Ryzen系列，是第一代Ryzen系列的小幅改良版
+
+於2019年消費電子展中宣布將於同年年中發表代號「Matisse」，採用7奈米製程及支援PCIe 4.0之第三代Ryzen處理器（整合Vega內顯的第三代Ryzen仍然是PCIe 3.0）。
 
 ## 媒体談論
 
@@ -185,91 +191,52 @@ AMD APU於2015年6月推出第四代APU Refresh版，核心代號Godavari，採�
 [Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  [AMD Accelerated Processing Units](http://www.amd.com/us/products/technologies/apu/Pages/apu.aspx)  - amd.com
-
 6.
-
 7.  [AMD Fusion APU Era Begins](http://www.amd.com/us/press-releases/Pages/amd-fusion-apu-era-2011jan04.aspx)
-
 8.  [AMD begins shipping Brazos, announces Bulldozer-based APUs](http://techreport.com/discussions.x/19948), [1](http://ir.amd.com/phoenix.zhtml?c=74093&p=irol-2010analystday) [pdf](http://ir.amd.com/External.File?item=UGFyZW50SUQ9Njk3NTF8Q2hpbGRJRD0tMXxUeXBlPTM=&t=1#page=27)
-
 9.
-
 10. [Building an AMD 'Trinity' desktop PC | ZDNet](http://www.zdnet.com/building-an-amd-trinity-desktop-pc-7000005227/)
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18. [AMD APU 2013路线图：全线新架构、新工艺](http://news.mydrivers.com/1/251/251768.htm) - mydrivers.com
-
 19. [AMD低功耗APU性能曝光](http://www.ithome.com/html/digi/39634.htm)  - ithome.com
-
 20. ["AMD targeted by Arctic over Fusion bran"](http://www.bit-tech.net/news/bits/2012/01/23/amd-arctic-fusion-brand/1), bit-tech, 23 January 2012. Retrieved 28 January 2013
-
 21. ["AMD ditches Fusion branding"](http://www.bit-tech.net/news/hardware/2012/01/19/amd-ditches-fusion-branding/1), bit-tech, 19 January 2012. Retrieved 28 January 2013
-
 22. ["ARCTIC and Boost Up Announce Negotiated Solution with AMD Regarding "FUSION" Trademark in European Union"](http://www.arctic.ac/en/news/fusion-announcement.htm), www.arctic.ac, 23 January 2013. Retrieved 28 January 2013
-
 23. ["Use of the terms "AMD" and "AMD Fusion""](ftp://ftp.ts.fujitsu.com/pub/Mainboard-OEM-Sales/Services/Newsletter/Distri_Newsletter/2012/Distri_Newsletter_2012_WW51_AMD_Fusion.pdf), 18 December 2012. Retrieved 28 January 2013.
-
 24.
-
 25. [ATI chipsets](https://zh.wikipedia.org/wiki/Comparison_of_ATI_chipsets "wikilink") already include GPU
-
 26. phx.corporate-ir.net/External.File?item=UGFyZW50SUQ9ODUyOTR8Q2hpbGRJRD0tMXxUeXBlPTM=\&t=1|APU101_Final_Jan 2011.pdf
-
 27. [AnandTech - AMD Outlines HSA Roadmap: Unified Memory for CPU/GPU in 2013, HSA GPUs in 2014](http://www.anandtech.com/show/5493/amd-outlines-hsa-roadmap-unified-memory-for-cpugpu-in-2013-hsa-gpus-in-2014)
-
 28.
 29.
-
 30.
 31.
 32.
 33.
 34.
-
 35.
 36.
 37.
 38. 根據AMD的說法，它們計劃每年都會發布新的AMD APU，新的A10 APU系列將面向比A8更高效能級別的電腦，新的A8 APU將面向以往A6 APU的主流市場。見：[as portrayed in this APU roadmap document](http://cdn.itproportal.com/photos/amd-roadmap-computex-2011_articleinline.jpg) 。2012年AMD發布了新一代AMD APU的旗艦型號A10-5800K，核心代號「Trinity」，CPU核心的效能比上一代AMD APU的旗艦型號A8-3870K高出20%\~30%，而GPU核心的效能則有30%\~50%的效能增長，其中GPU核心從原來基於AMD Radeon HD 5000/6000系列顯示核心的5-VLIW SIMD架構升級到效率更高和效能更強的AMD Radeon HD 6900系列（核心代號「Cayman」）顯示核心的4-VLIW SIMD架構，並且將製程從40奈米提升到32奈米，見：[this article](http://www.tomshardware.com/reviews/a10-5800k-a8-5600k-a6-5400k,3224.html).
-
 39.
-
 40.
 41.
-
 42.
-
 43.
 44.
 45.
 46. [集显U会限制超频么?酷睿i3-530超频实测](http://cpu.zol.com.cn/166/1668755_all.html) - zol.com.cn
-
 47. [CES 2011：NVIDIA 发表桌电用 ARM CPU 计划「Project Denver」](http://cn.engadget.com/2011/01/06/nvidia-announces-project-denver-arm-cpu-for-the-desktop/) - engaget.com
-
 48. [深度解析NVIDIA的三极化战略：Denver和Tegra没关系？](http://news.mydrivers.com/1/203/203464.htm) - mydrivers.com
-
 49. [AMD Establishes Semi-Custom Business Unit to Create Tailored Products with Customer-Specific IP - X-bit labs](http://www.xbitlabs.com/news/other/display/20130501231534_AMD_Establishes_Semi_Custom_Business_Unit_to_Create_Tailored_Products_with_Customer_Specific_IP.html)
-
 50. [Three for three: How AMD won the war for the heart of next-gen consoles](http://www.polygon.com/2013/6/15/4431474/amd-xbox-one-ps4-wii-u-e3-1023)
-
-51. [首款AMD Ryzen™桌上型APU內建全球最強顯示核心的桌上型處理器註1 — 即日起全球供應](https://www.amd.com/zh-tw/press-releases/Pages/press-release-2018feb13.aspx/).AMD 新聞稿.2018-2-13.\[2018-2-13\].

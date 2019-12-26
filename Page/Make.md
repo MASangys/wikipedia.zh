@@ -160,10 +160,7 @@ install:editor
 [Category:程序设计工具](https://zh.wikipedia.org/wiki/Category:程序设计工具 "wikilink") [Category:自动化构建](https://zh.wikipedia.org/wiki/Category:自动化构建 "wikilink") [Category:編譯工具](https://zh.wikipedia.org/wiki/Category:編譯工具 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.

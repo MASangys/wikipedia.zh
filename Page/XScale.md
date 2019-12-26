@@ -112,30 +112,18 @@ IXP產品線主要用來設計網路設備以及工業控制用機器。主要�
 [Category:微處理器](https://zh.wikipedia.org/wiki/Category:微處理器 "wikilink") [Category:Intel处理器](https://zh.wikipedia.org/wiki/Category:Intel处理器 "wikilink") [Category:ARM架構](https://zh.wikipedia.org/wiki/Category:ARM架構 "wikilink")
 
 1.  [Marvell ARMADA 100 Processors product page](http://www.marvell.com/products/processors/applications/armada_100)
-
 2.  [Marvell Communications Processors product page](http://www.marvell.com/products/cellular/cellular.jsp)
-
 3.  <http://pdadb.net/index.php?m=cpu&id=a900&c=intel_xscale_pxa900>
-
 4.  <http://translate.google.nl/translate?js=y&prev=_t&hl=nl&ie=UTF-8&layout=1&eotf=1&u=http%3A%2F%2Ftweakers.net%2Freviews%2F1766%2F4%2Fblackberry-pearl-3g-klein-en-kwiek-hardware-en-bouwkwaliteit.html&sl=nl&tl=en>
-
 5.
-
 6.
 7.
 8.  <http://pdadb.net/index.php?m=cpu&id=a935&c=marvell_pxa935>
-
 9.  <http://pdadb.net/index.php?m=cpu&id=a930&c=marvell_pxa930>
-
 10.
 11. <http://extranet.marvell.com/technologies/cpu_history/cpu_history.jsp>
-
 12. <http://www.ubmtechinsights.com/reports-and-subscriptions/investigative-analysis/blackberry-torch-9800/teardown/>
-
-13. <http://www.ubmtechinsights.com/uploadedImages/Public_Website/Content_-_Primary/Investigative_Analysis/2010/Blackberry_Torch_9800/torch-front-web.jpg>
-
+13.
 14. <http://www.engadget.com/2012/08/14/marvell-pxa988-and-pxa986-chips-support-3g-for-china-and-the-world/>
-
 15. <http://www.ubergizmo.com/2013/05/samsung-galaxy-tab-3-runs-on-a-marvel-pxa986-processor/>
-
 16. <http://www.engadget.com/2013/02/19/marvell-pxa1088-quad-core-cortec-a7-soc/>

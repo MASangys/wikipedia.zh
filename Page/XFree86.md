@@ -46,11 +46,11 @@
 ## 参见
 
   - [X.Org服务器](https://zh.wikipedia.org/wiki/X.Org服务器 "wikilink")
-  - [DirectFB](https://zh.wikipedia.org/wiki/DirectFB "wikilink")
+  - [DirectFB](../Page/DirectFB.md "wikilink")
 
 ## 外部链接
 
-  - [XFree86項目主页](http://www.xfree86.org)
+  - [XFree86項目主页](https://web.archive.org/web/20031020210433/http://xfree86.org/)
   - [XFree86配置文件样本](http://tldp.org/HOWTO/XFree-Local-multi-user-HOWTO/examples_xf_confs.html)
 
 [Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink") [Category:X服务器](https://zh.wikipedia.org/wiki/Category:X服务器 "wikilink")

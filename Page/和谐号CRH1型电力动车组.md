@@ -208,7 +208,7 @@ CRH1E-NG设计为[卧铺动车组](https://zh.wikipedia.org/wiki/高铁动卧 "w
 <td><p>16</p></td>
 <td><p>1169、1172～1176、1217、1218、1234～1236、1242、1243、1247～1249</p></td>
 <td><p>深圳北</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="https://zh.wikipedia.org/wiki/广深港高铁" title="wikilink">广深港高铁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="../Page/广梅汕铁路.md" title="wikilink">广梅汕铁路</a>、<a href="https://zh.wikipedia.org/wiki/广深港高铁" title="wikilink">广深港高铁</a></p></td>
 <td><p>杭深线涉港车次中由广州局集团值乘的部分均由此擔當</p></td>
 </tr>
 <tr class="odd">
@@ -1068,31 +1068,19 @@ ZE 1xxx00</p></td>
 [Category:龐巴迪製鐵路車輛](https://zh.wikipedia.org/wiki/Category:龐巴迪製鐵路車輛 "wikilink") [Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink") [Category:和谐号电力动车组](https://zh.wikipedia.org/wiki/Category:和谐号电力动车组 "wikilink")
 
 1.  [2006年8月30日 BSP 第一列EMU 动车组出厂](http://www.bst-transportation.com/info/content.asp?infoId=511)
-
 2.  [CRH1型和谐号动车组](http://www.railcn.net/railway-passenger-car/skills/rail429.html)
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.  [沈北运用车间，看看长白山，偶遇最新车CRH1-076B](http://hi.baidu.com/anytrain/item/8c5e3dd5c6b5131bd78ed00a)
-
 10.
 11.
 12. [Bombardier JV awarded contract for 40 high-speed trainsets in China](http://news.oneindia.in/2007/11/01/bombardier-jv-awarded-contract-for-40-high-speed-trainsets-in-china-1193929611.html)
-
 13.
 14.
 15. <http://blog.sina.com.cn/s/blog_7c1fcccf0102vm8o.html>
-
 16.
-
 17. <http://hsr.huiji.wiki/wiki/CRH1E-NG%E5%9E%8B%E5%8A%A8%E8%BD%A6%E7%BB%84>

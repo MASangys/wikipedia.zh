@@ -657,6 +657,19 @@
     主演：[福士蒼汰](../Page/福士蒼汰.md "wikilink")
     劇本：[櫻井剛](https://zh.wikipedia.org/wiki/櫻井剛 "wikilink")
 
+### 2020年代
+
+#### 2020年
+
+  - 1月－3月：**[請別在病房裡誦經](https://zh.wikipedia.org/wiki/請別在病房裡誦經 "wikilink")**（）
+
+<!-- end list -->
+
+  -
+    原作：《請別在病房裡誦經》
+    主演：[伊藤英明](../Page/伊藤英明.md "wikilink")
+    劇本：[吉澤智子](https://zh.wikipedia.org/wiki/吉澤智子 "wikilink")
+
 ## 放送局
 
 ### 現在放送局

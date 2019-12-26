@@ -70,7 +70,7 @@
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-d_lessthan.png" title="fig:File:Xsampa-d lessthan.png"><a href="File:Xsampa-d">File:Xsampa-d</a> lessthan.png</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/濁齒齦內爆音" title="wikilink">濁齒齦內爆音</a></p></td>
-<td><p><a href="../Page/信德语.md" title="wikilink">信德语</a>的 [<code>g_&lt;@ro</code>]</p></td>
+<td><p><a href="../Page/信德语.md" title="wikilink">信德语</a>的 [<code>d_&lt;arU</code>]</p></td>
 </tr>
 <tr class="even">
 <td><p><code>e</code></p></td>

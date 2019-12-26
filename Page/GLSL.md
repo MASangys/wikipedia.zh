@@ -61,8 +61,8 @@ GLSL 著色器本身只是簡單的字串集，這些字串集會傳送到硬體
 
 用以編譯、連結並傳送參數到 GLSL 程式的 API 集，已在三個 OpenGL 擴展中規定，且即將成為 [OpenGL 2.0](http://www.opengl.org/documentation/specs/version2.0/glspec20.pdf) 核心的一部分。這些 API 可在以下擴展中找到：
 
-  - [ARB 頂點著色器](http://oss.sgi.com/projects/ogl-sample/registry/ARB/vertex_shader.txt)
-  - [ARB 片斷著色器](http://oss.sgi.com/projects/ogl-sample/registry/ARB/fragment_shader.txt)
+  - [ARB 頂點著色器](https://web.archive.org/web/20130804063101/http://oss.sgi.com/projects/ogl-sample/registry/ARB/vertex_shader.txt)
+  - [ARB 片斷著色器](https://web.archive.org/web/20130526132418/http://oss.sgi.com/projects/ogl-sample/registry/ARB/fragment_shader.txt)
   - [ARB 著色器物件](http://oss.sgi.com/projects/ogl-sample/registry/ARB/shader_objects.txt)
 
 ### GLSL 頂點著色器的簡單範例
@@ -100,15 +100,15 @@ GLSL 著色器可以事先建立和測試，現有以下 GLSL 開發工具：
 
   - [GLSL 語言規格，版本 1.20](http://www.opengl.org/registry/doc/GLSLangSpec.Full.1.20.8.pdf)
   - [GLSL 參考表](http://www.mew.cx/glsl_quickref.pdf)
-  - [OpenGL 片斷著色器規格](http://oss.sgi.com/projects/ogl-sample/registry/ARB/fragment_shader.txt)
-  - [OpenGL 頂點著色器規格](http://oss.sgi.com/projects/ogl-sample/registry/ARB/vertex_shader.txt)
+  - [OpenGL 片斷著色器規格](https://web.archive.org/web/20130526132418/http://oss.sgi.com/projects/ogl-sample/registry/ARB/fragment_shader.txt)
+  - [OpenGL 頂點著色器規格](https://web.archive.org/web/20130804063101/http://oss.sgi.com/projects/ogl-sample/registry/ARB/vertex_shader.txt)
   - [OpenGL 程式規格](http://oss.sgi.com/projects/ogl-sample/registry/ARB/program_object.txt)
   - [官方 OpenGL 網站](http://www.opengl.org)
 
 <!-- end list -->
 
   - [來自 Lighthouse3D 的教學和範例](http://www.lighthouse3d.com/opengl/)
-  - [來自 NeHe Productions 的教學和範例](http://nehe.gamedev.net)
+  - [來自 NeHe Productions 的教學和範例](https://web.archive.org/web/20071126072642/http://nehe.gamedev.net/)
   - [GLSL 開發環境](http://www.typhoonlabs.com)
   - [RenderMonkey 著色器開發環境](http://www.ati.com/developer/rendermonkey/)
   - [Geist3D 繪圖引擎，內含 GLSL 編輯器](https://web.archive.org/web/20060305194538/http://www.geist3d.org/)

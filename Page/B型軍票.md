@@ -55,6 +55,5 @@ A型軍票也是實際存在的貨幣，但僅限於在美軍基地內使用，�
 [Category:美國統治琉球時期](https://zh.wikipedia.org/wiki/Category:美國統治琉球時期 "wikilink") [Category:已废止的日本货币](https://zh.wikipedia.org/wiki/Category:已废止的日本货币 "wikilink") [Category:美国货币](https://zh.wikipedia.org/wiki/Category:美国货币 "wikilink")
 
 1.
-
 2.
 3.

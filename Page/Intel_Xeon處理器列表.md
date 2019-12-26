@@ -8226,106 +8226,67 @@ These processors are not available to purchase individually and are offered as a
 [Category:Intel处理器列表](https://zh.wikipedia.org/wiki/Category:Intel处理器列表 "wikilink")
 
 1.  (2006, June). Retrieved September 17, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-with-800-mhz-system-bus-specification-update.html>
-
 2.
 3.  (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_5000.pdf>
-
 4.  (2010, March). Retrieved September 16, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-7000-series-specification-update.html>
-
 5.  (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_7100.pdf>
-
 6.  (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon3000.pdf>
-
 7.
 8.
 9.  (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_5100.pdf>
-
 10.
 11. (2011, September 12). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_3100.pdf>
-
 12. (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_5200.pdf>
-
 13. (2011, September 12). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_3200.pdf>
-
 14. (2011, September 12). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_3300.pdf>
-
 15.
 16.
 17. (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_5300.pdf>
-
 18. (2013, August). Retrieved September 17, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-5400-spec-update.html>
-
 19. (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_7300.pdf>
-
 20. (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_7400.pdf>
-
 21. (2015, October). Retrieved September 16, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-3400-specification-update.html>
-
 22.
 23. (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_3500.pdf>
-
 24. (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_C3500.pdf>
-
 25. (2015, Octcber). Retrieved September 17, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-3600-specification-update.html>
-
 26. (2011, September 14). Retrieved September 17, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-5500-specification-update.html>
-
 27. (2011, September 12). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_C5500.pdf>
-
 28. (2015, February). Retrieved September 16, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-5600-specification-update.html>
-
 29. (2015, March). Retrieved September 16, 2016, from
-
 30. (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_E7-2800.pdf>
-
 31. (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_E7-4800.pdf>
-
 32. (2011, September 14). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_E7-8800.pdf>
-
 33. (2012, June 7). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_E3-1100.pdf>
-
 34. (2012, June 28). Retrieved September 17, 2016, from <http://download.intel.com/support/processors/xeon/sb/xeon_E3-1200.pdf>
-
 35. (2016, February). Retrieved September 17, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-e5-family-spec-update.html>
-
 36.
 37.
 38.
 39.
 40. (2015, September). Retrieved September 17, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-e5-v2-spec-update.html>
-
 41.
 42.
 43.
 44.
 45. (2016, April). Retrieved September 17, 2016, from <http://www.intel.com/content/www/us/en/processors/xeon/xeon-e7-v2-spec-update.html>
-
 46.
 47.
 48. (2016, April). Retrieved September 17, 2016, from <http://intel.com/content/www/xa/en/processors/xeon/xeon-e3-1200v3-spec-update.html>
-
 49. (2016, Feb). Retrieved September 21, 2016, from <http://intel.com/content/www/xa/en/processors/xeon/xeon-e5-v3-spec-update.html>
-
 50.
 51.
 52.
 53.
 54. (2016, Sep). Retrieved September 21, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-e7-v3-spec-update.html>
-
 55.
 56. (2016, Aug). Retrieved September 22, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-d-1500-specification-update.html>
-
 57. (2016, Apr). Retrieved September 22, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-e3-1200v4-spec-update.html>
-
 58. (2016, Apr). Retrieved September 22, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-e5-v4-spec-update.html>
-
 59.
 60.
 61. (2016, Sep). Retrieved September 25, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-e7-v4-spec-update.html>
-
 62.
 63. (2016, Jun). Retrieved September 27, 2016, from <http://intel.com/content/www/us/en/processors/xeon/xeon-e3-1200v5-spec-update.html>
-
 64. (2016, Jun). Retrieved September 27, 2016, from <http://intel.com/content/www/us/en/processors/core/desktop-6th-gen-core-family-spec-update.html>
-
 65.

@@ -307,7 +307,7 @@
 
 :::\*K928.8 现代著名建筑
 
-:::\*K928.9 [旅行](https://zh.wikipedia.org/wiki/旅行 "wikilink")、[游记](https://zh.wikipedia.org/wiki/游记 "wikilink")
+:::\*K928.9 [旅行](../Page/旅行.md "wikilink")、[游记](https://zh.wikipedia.org/wiki/游记 "wikilink")
 
 :\*K93 [亚洲地理](https://zh.wikipedia.org/wiki/亚洲地理 "wikilink")
 

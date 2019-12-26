@@ -68,8 +68,8 @@ GNU Screen可以看作是[窗口管理器的命令行界面版本](https://zh.wi
 
   - [用Screen运行irssi指引](http://lizzie.spod.cx/screenirssi.shtml)
 
-  - [Screen FAQ](http://www4.informatik.uni-erlangen.de/~jnweiger/screen-faq.html)
+  - [Screen FAQ](https://web.archive.org/web/20080510120936/http://www4.informatik.uni-erlangen.de/~jnweiger/screen-faq.html)
 
-  - [Screen tutorial](http://linux.talkera.org/multiple-workspaces-on-a-single-terminal-in-linux/)
+  - [Screen tutorial](https://web.archive.org/web/20150125151714/http://linux.talkera.org/multiple-workspaces-on-a-single-terminal-in-linux/)
 
 [Category:GNU計劃軟體](https://zh.wikipedia.org/wiki/Category:GNU計劃軟體 "wikilink")

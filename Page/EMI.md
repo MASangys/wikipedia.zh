@@ -86,7 +86,5 @@ EMI於1931年3月成立，後來參與廣播，特別是提供了第一個電視
 [Category:EMI](https://zh.wikipedia.org/wiki/Category:EMI "wikilink") [Category:1931年成立的公司](https://zh.wikipedia.org/wiki/Category:1931年成立的公司 "wikilink") [Category:跨國公司](https://zh.wikipedia.org/wiki/Category:跨國公司 "wikilink") [Category:国际唱片业协会成员](https://zh.wikipedia.org/wiki/Category:国际唱片业协会成员 "wikilink") [Category:環球唱片](https://zh.wikipedia.org/wiki/Category:環球唱片 "wikilink") [Category:索尼音樂娛樂](https://zh.wikipedia.org/wiki/Category:索尼音樂娛樂 "wikilink") [Category:英国已结业公司](https://zh.wikipedia.org/wiki/Category:英国已结业公司 "wikilink")
 
 1.
-
 2.
-
 3.

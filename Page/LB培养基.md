@@ -49,10 +49,8 @@ LB培養基在1950年代曾被用作培養[大腸桿菌](../Page/大腸桿菌.md
 [Category:微生物培养基](https://zh.wikipedia.org/wiki/Category:微生物培养基 "wikilink")
 
 1.
-
 2.
 3.  Bertani, G. (1951). Studies on lysogenesis. I. The mode of phage liberation by lysogenic Escherichia coli. J. Bacteriol. 62:293-300. PMID 14888646 [PDF](http://www.pubmedcentral.nih.gov/picrender.fcgi?artid=386127&blobtype=pdf)
-
 4.
 5.
 6.
@@ -60,6 +58,5 @@ LB培養基在1950年代曾被用作培養[大腸桿菌](../Page/大腸桿菌.md
 8.
 9.
 10. Nikaido, H. (2009). The Limitations of LB Medium. Small things considered - The Microbe Blog. ASM. <http://schaechter.asmblog.org/schaechter/2009/11/the-limitations-of-lb-medium.html>
-
 11.
 12.  <http://www.exptec.com/Reagents/Common%20Media.htm>

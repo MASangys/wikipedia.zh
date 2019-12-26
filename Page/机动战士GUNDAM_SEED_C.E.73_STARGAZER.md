@@ -26,7 +26,7 @@
 ### [地球联合](https://zh.wikipedia.org/wiki/地球联合 "wikilink")
 
   -
-    20歲，自然人。地球軍幻痛部隊之華金隊成員，軍階中尉。最初駕駛由幻痛再生產的[攻擊鋼彈](https://zh.wikipedia.org/wiki/GAT-X105_Strike "wikilink")（GAT-X105 STRIKE）「I.W.S.P.實裝型」，其後轉為前者改修版本「[漆黑攻擊鋼彈](https://zh.wikipedia.org/wiki/GAT-X105E_Strike_E "wikilink")（GAT-X105E STRIKE NOIR）」。原本是一名愛好觀測天體的平凡少年，雙親在[藍色宇宙／藍波斯菊的襲擊中死去後](https://zh.wikipedia.org/wiki/藍色宇宙聯盟 "wikilink")，被[藍色宇宙／藍波斯菊營運的孤兒院居住](https://zh.wikipedia.org/wiki/藍色宇宙聯盟 "wikilink")，並接受消滅調整者的精英教育，成為特殊戰鬥用的MS駕駛員，與接受同一機構培育的穆笛·霍科洛芙特、沙姆斯·科薩組成小隊。最後與賽雷妮漂流至地球與[金星](../Page/金星.md "wikilink")的軌道間，生死不明。漫畫中被救獲，最後加入D.S.S.D.組織。與以往利用強力藥物加上強化手術催谷戰鬥力，引致需要透過不斷服藥，才可維持生命的[生物CPU不同](https://zh.wikipedia.org/wiki/生物CPU "wikilink")，史溫等人主要接受電擊及藥物進行洗腦教育，除此之外，身體機能與普通人並無分別，雖然如此，史溫本身擁有超越部隊其他成員的戰鬥力，更試過在模擬戰中，僅以五分鐘時間，便將作為對手的兩名經驗老到的同僚打敗。性格冷靜，不輕易流露感情，大部份時間都是沉默寡言。被過酷的訓練及洗腦教育後，對非人道的任務反應平淡，甚至被要求殺害非戰鬥人員，也只會猶豫一會便立即答應，唯獨在穆笛·霍科洛芙特、沙姆斯·科薩先後戰死時，才流露出憤慨與動搖的表情。而在對兩人的回憶中，亦曾出現開朗的笑容。
+    20歲，自然人。地球軍幻痛部隊之華金隊成員，軍階上尉。最初駕駛由幻痛再生產的[攻擊鋼彈](https://zh.wikipedia.org/wiki/GAT-X105_Strike "wikilink")（GAT-X105 STRIKE）「I.W.S.P.實裝型」，其後轉為前者改修版本「[漆黑攻擊鋼彈](https://zh.wikipedia.org/wiki/GAT-X105E_Strike_E "wikilink")（GAT-X105E STRIKE NOIR）」。原本是一名愛好觀測天體的平凡少年，雙親在[藍色宇宙／藍波斯菊的襲擊中死去後](https://zh.wikipedia.org/wiki/藍色宇宙聯盟 "wikilink")，被[藍色宇宙／藍波斯菊營運的孤兒院居住](https://zh.wikipedia.org/wiki/藍色宇宙聯盟 "wikilink")，並接受消滅調整者的精英教育，成為特殊戰鬥用的MS駕駛員，與接受同一機構培育的穆笛·霍科洛芙特、沙姆斯·科薩組成小隊。最後與賽雷妮漂流至地球與[金星](../Page/金星.md "wikilink")的軌道間，生死不明。漫畫中被救獲，最後加入D.S.S.D.組織。與以往利用強力藥物加上強化手術催谷戰鬥力，引致需要透過不斷服藥，才可維持生命的[生物CPU不同](https://zh.wikipedia.org/wiki/生物CPU "wikilink")，史溫等人主要接受電擊及藥物進行洗腦教育，除此之外，身體機能與普通人並無分別，雖然如此，史溫本身擁有超越部隊其他成員的戰鬥力，更試過在模擬戰中，僅以五分鐘時間，便將作為對手的兩名經驗老到的同僚打敗。性格冷靜，不輕易流露感情，大部份時間都是沉默寡言。被過酷的訓練及洗腦教育後，對非人道的任務反應平淡，甚至被要求殺害非戰鬥人員，也只會猶豫一會便立即答應，唯獨在穆笛·霍科洛芙特、沙姆斯·科薩先後戰死時，才流露出憤慨與動搖的表情。而在對兩人的回憶中，亦曾出現開朗的笑容。
 
 <!-- end list -->
 
@@ -67,21 +67,21 @@
 
 ### [D.S.S.D.](https://zh.wikipedia.org/wiki/D.S.S.D. "wikilink")
 
-  - [GSX-401FW Stargazer Gundam](https://zh.wikipedia.org/wiki/GSX-401FW_Stargazer "wikilink")
-  - [UT-1D Civilian Astray DSSD Custom](https://zh.wikipedia.org/wiki/UT-1D_Civilian_Astray_DSSD_Custom "wikilink")
+  - [觀星者鋼彈](https://zh.wikipedia.org/wiki/觀星者鋼彈 "wikilink")
+  - [UT-1D 民用型歧途DSSD改良型](https://zh.wikipedia.org/wiki/UT-1D_民用型歧途DSSD改良型 "wikilink")
 
 ### [地球联合](https://zh.wikipedia.org/wiki/地球联合 "wikilink")／[幻痛](https://zh.wikipedia.org/wiki/幻痛_\(GUNDAM\) "wikilink")
 
-  - [GAT-X105E Strike Noir Gundam](https://zh.wikipedia.org/wiki/GAT-X105E_Strike_E "wikilink")
-  - [GAT-X1022 Blu Duel Gundam](https://zh.wikipedia.org/wiki/GAT-X1022_Blu_Duel "wikilink")
-  - [GAT-X103AP Verde Buster Gundam](https://zh.wikipedia.org/wiki/GAT-X103AP_Verde_Buster "wikilink")
-  - [GAT-01A2R 105 Slaughter Dagger](https://zh.wikipedia.org/wiki/GAT-01A1_Dagger#GAT-01A2R_+_AQM/E-X01_Slaughter_Dagger "wikilink")
+  - [漆黑攻擊鋼彈](https://zh.wikipedia.org/wiki/漆黑攻擊鋼彈 "wikilink")
+  - [蔚藍決鬥鋼彈](https://zh.wikipedia.org/wiki/蔚藍決鬥鋼彈 "wikilink")
+  - [翠綠風暴鋼彈](https://zh.wikipedia.org/wiki/翠綠風暴鋼彈 "wikilink")
+  - [殲滅型達加](https://zh.wikipedia.org/wiki/殲滅型達加 "wikilink")
 
 ### [Z.A.F.T.](https://zh.wikipedia.org/wiki/Z.A.F.T. "wikilink")
 
-  - [ZGMF-1017 GINN Insurgent Type](https://zh.wikipedia.org/wiki/ZGMF-1017_GINN "wikilink")
-  - [TMF/A-802W2 Kerberos BuCUE Hound](https://zh.wikipedia.org/wiki/TMF/A-802_巴古 "wikilink")
-  - [TMF/A-802 BaCUE](https://zh.wikipedia.org/wiki/TMF/A-802_BaCUE "wikilink")
+  - [暴徒型吉恩](https://zh.wikipedia.org/wiki/暴徒型吉恩 "wikilink")
+  - [地獄犬型巴庫](https://zh.wikipedia.org/wiki/地獄犬型巴庫 "wikilink")
+  - [巴庫](https://zh.wikipedia.org/wiki/鋼彈_巴庫 "wikilink")
 
 ## 各话內容
 

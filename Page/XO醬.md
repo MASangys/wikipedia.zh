@@ -42,34 +42,19 @@ XO醬除了可作為烹調食物的調味料，也可直接用作熟食和小吃
 [Category:香港調味料](https://zh.wikipedia.org/wiki/Category:香港調味料 "wikilink")
 
 1.  [名氣XO 醬大全！](http://www.ufood.com.hk/restaurant/news/feature/%E5%90%8D%E6%B0%A3XO+%E9%86%AC%E5%A4%A7%E5%85%A8%EF%BC%81)，U Food，2013-01-31
-
 2.  [經典 XO 醬做法](http://eladies.sina.com.hk/news/180/4/1/446720/1.html) ，新浪香港，2011-01-12
-
 3.
-
 4.  [異國廚師一致偏愛　香港名物XO醬](https://bkb.mpweekly.com/cu0003/20180829-81267)
-
 5.
 6.  [港式經典 XO醬](http://hd.stheadline.com/beauty/beauty_content.asp?contid=14983&srctype=g) ，頭條日報
-
 7.  [本地「烈女」XO醬 百元時薪聘婦女剝蒜頭 重新榮耀人的價值](https://www.hk01.com/01%E6%95%99%E7%85%AE/42325/%E6%9C%AC%E5%9C%B0-%E7%83%88%E5%A5%B3-XO%E9%86%AC-%E7%99%BE%E5%85%83%E6%99%82%E8%96%AA%E8%81%98%E5%A9%A6%E5%A5%B3%E5%89%9D%E8%92%9C%E9%A0%AD-%E9%87%8D%E6%96%B0%E6%A6%AE%E8%80%80%E4%BA%BA%E7%9A%84%E5%83%B9%E5%80%BC)，HK01，2016-09-11
-
 8.
-
 9.
-
 10. [香港最驕傲味道 XO醬秘方公開](http://www.ctitv.com.tw/newchina_video_c203v147083.html) ，中天電視，2013-11-03
-
 11.
-
 12. [$25自家製足料XO醬 真正送禮佳品](http://hk.apple.nextmedia.com/supplement/food/art/20170122/19904795)，蘋果日報，2017-01-22
-
 13. [火熱XO醬人人有份 林鄭辣招送客](http://hk.apple.nextmedia.com/news/art/20140109/18585365)，蘋果日報，2014-01-09
-
 14. [大廚盲試 量產XO醬邊款食得過？](http://hk.apple.nextmedia.com/realtime/supplement/20170123/56200771)，蘋果日報，2017-01-23
-
 15. [醬中王牌](http://orientaldaily.on.cc/cnt/lifestyle/20130829/00296_001.html)，東方日報，2013-08-29
-
 16. [XO醬炒帶子](http://hd.stheadline.com/dining/recipe_content.asp?srid=25&rid=1645)，頭條日報
-
 17.

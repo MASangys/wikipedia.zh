@@ -96,43 +96,24 @@ B-HRX墜毀後，機上的[自動展開緊急定位信標](https://zh.wikipedia.
 [Category:2003年航空事故](https://zh.wikipedia.org/wiki/Category:2003年航空事故 "wikilink") [Category:香港航空事故](https://zh.wikipedia.org/wiki/Category:香港航空事故 "wikilink") [Category:2003年香港](https://zh.wikipedia.org/wiki/Category:2003年香港 "wikilink") [Category:可控飛行撞地](https://zh.wikipedia.org/wiki/Category:可控飛行撞地 "wikilink") [Category:机员失误造成的航空事故](https://zh.wikipedia.org/wiki/Category:机员失误造成的航空事故 "wikilink")
 
 1.  《香港政府飛行服務隊圖鑑2003》ISBN 962-86997-2-5. P.136-137
-
 2.  指病情危急但無性命威脅的疏散運送死傷者工作
-
 3.
 4.
 5.  orographic uplift
-
 6.  Operations Officer
-
 7.  英文名稱為“Tung Chung Pass是由香港國際機場進出大嶼山管制區（CTR Lantau zone）的其中一條通道，離開香港國際機場的最高許可飛行高度為1,500呎，進入香港國際機場的最高許可飛行高度為2,000呎，只供直昇機使用。
-
 8.  IAS mode會保持啟動時的指示空速，而所保持的指示空速可經控制桿上的按鈕改變。
-
 9.  Beep Trim
-
 10. ALT A mode啟動時，垂直速度模式（Vertical Speed mode）會自動同步啟動，並保持啟動時的垂直速度，直至到達目標高度。而所保持的垂直速度可經控制桿上的按鈕改變
-
 11. Cockpit Voice Recorder，CVR
-
 12. Flight Data Recorder，FDR
-
 13. Automatically Deployable Emergency Locator Transmitter，ADELT
-
 14. Personal Location Beacon，PLB
-
 15. Controlled Flight Into Terrain，CFIT
-
 16. 讓空勤員能於機艙內自由活動的吊帶
-
 17. Confirmation bias
-
 18. situational awareness
-
 19. Crew Resource Management
-
 20. automatically Activated Emergency Locator Transmitter
-
 21. Transponder
-
 22. <http://www.info.gov.hk/gia/general/200605/04/P200605040200.htm>

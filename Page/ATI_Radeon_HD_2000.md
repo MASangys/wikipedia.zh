@@ -635,7 +635,7 @@ GDDR3</p></td>
 
 ## 參考
 
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink")
+[Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink")
 
 1.  [The Petition](http://www.thepetitionsite.com/takeaction/948903027?ltl=1155060916)
 2.  [1](http://techreport.com/onearticle.x/12400)

@@ -41,7 +41,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <td><p>JR東日本</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/稻穗號列車" title="wikilink">稻穗</a><br />
 （）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新潟站" title="wikilink">新潟站</a> - <a href="https://zh.wikipedia.org/wiki/酒田站" title="wikilink">酒田站</a></p></td>
+<td><p><a href="../Page/新潟站.md" title="wikilink">新潟站</a> - <a href="https://zh.wikipedia.org/wiki/酒田站" title="wikilink">酒田站</a></p></td>
 <td><p><a href="../Page/羽越本線.md" title="wikilink">羽越本線</a></p></td>
 <td><p>1982年11月15日</p></td>
 <td><p>指定為新幹線接駁特急列車</p></td>
@@ -164,7 +164,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <td><p>JR東海</p></td>
 <td><p><a href="../Page/信濃號列車.md" title="wikilink">信濃</a><br />
 （）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/名古屋站" title="wikilink">名古屋站</a> - <a href="https://zh.wikipedia.org/wiki/長野站" title="wikilink">長野站</a></p></td>
+<td><p><a href="../Page/名古屋站.md" title="wikilink">名古屋站</a> - <a href="../Page/長野站.md" title="wikilink">長野站</a></p></td>
 <td><p><a href="../Page/中央本線.md" title="wikilink">中央本線</a></p></td>
 <td><p>1968年10月1日（開行）<br />
 1973年10月1日（指定）</p></td>
@@ -210,7 +210,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <tr class="odd">
 <td><p><a href="../Page/白鷺號列車.md" title="wikilink">白鷺號</a><br />
 （）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/名古屋站" title="wikilink">名古屋站</a> - <a href="https://zh.wikipedia.org/wiki/金澤站" title="wikilink">金澤站</a></p></td>
+<td><p><a href="../Page/名古屋站.md" title="wikilink">名古屋站</a> - <a href="../Page/金澤站.md" title="wikilink">金澤站</a></p></td>
 <td><p><a href="../Page/北陸本線.md" title="wikilink">北陸本線</a></p></td>
 <td><p>1982年11月15日</p></td>
 <td><p>增開、新增自由座</p></td>
@@ -444,7 +444,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <tr class="even">
 <td><p><a href="../Page/山彥號列車.md" title="wikilink">山彥</a><br />
 （）</p></td>
-<td><p>上野站 - <a href="https://zh.wikipedia.org/wiki/盛岡站" title="wikilink">盛岡站</a></p></td>
+<td><p>上野站 - <a href="../Page/盛岡站.md" title="wikilink">盛岡站</a></p></td>
 <td><p>東北本線</p></td>
 <td><p>1965年10月1日（運行開始）<br />
 1978年10月2日（指定）</p></td>
@@ -483,7 +483,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <tr class="odd">
 <td><p><a href="../Page/朱鷺號列車.md" title="wikilink">朱鷺</a><br />
 （）</p></td>
-<td><p>上野站 - <a href="https://zh.wikipedia.org/wiki/新潟站" title="wikilink">新潟站</a></p></td>
+<td><p>上野站 - <a href="../Page/新潟站.md" title="wikilink">新潟站</a></p></td>
 <td><p><a href="../Page/上越線.md" title="wikilink">上越線</a></p></td>
 <td><p>1962年10月1日（運行開始）<br />
 1972年10月2日（指定）</p></td>
@@ -629,7 +629,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/田澤號列車" title="wikilink">田澤</a><br />
 （）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盛岡站" title="wikilink">盛岡站</a> - 秋田站</p></td>
+<td><p><a href="../Page/盛岡站.md" title="wikilink">盛岡站</a> - 秋田站</p></td>
 <td><p><a href="../Page/田澤湖線.md" title="wikilink">田澤湖線</a></p></td>
 <td><p>1982年11月15日</p></td>
 <td><p>設定為新幹線接駁特急列車</p></td>
@@ -663,7 +663,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <tr class="even">
 <td><p><a href="../Page/翼號列車.md" title="wikilink">翼</a><br />
 （）[6]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/福島站_(福島縣)" title="wikilink">福島站</a> - 秋田站</p></td>
+<td><p><a href="../Page/福島站_(福島縣).md" title="wikilink">福島站</a> - 秋田站</p></td>
 <td><p>奥羽本線</p></td>
 <td><p>1982年11月15日</p></td>
 <td><p>改為新幹線接駁特急列車</p></td>
@@ -712,7 +712,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <tr class="even">
 <td><p><a href="../Page/淺間號列車.md" title="wikilink">淺間</a><br />
 （）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/上野站" title="wikilink">上野站</a> - <a href="https://zh.wikipedia.org/wiki/長野站" title="wikilink">長野站</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上野站" title="wikilink">上野站</a> - <a href="../Page/長野站.md" title="wikilink">長野站</a></p></td>
 <td><p><a href="../Page/信越本線.md" title="wikilink">信越本線</a></p></td>
 <td><p>1966年10月1日（運行開始）<br />
 1972年10月2日（指定）</p></td>
@@ -786,7 +786,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <tr class="even">
 <td><p><a href="../Page/白鷺號列車.md" title="wikilink">加越</a><br />
 （）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/米原站" title="wikilink">米原站</a> - <a href="https://zh.wikipedia.org/wiki/金澤站" title="wikilink">金澤站</a></p></td>
+<td><p><a href="../Page/米原站.md" title="wikilink">米原站</a> - <a href="../Page/金澤站.md" title="wikilink">金澤站</a></p></td>
 <td><p><a href="../Page/北陸本線.md" title="wikilink">北陸本線</a></p></td>
 <td><p>1975年3月10日</p></td>
 <td><p>新設時指定</p></td>
@@ -885,13 +885,9 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 [Category:日本铁路列车等级](https://zh.wikipedia.org/wiki/Category:日本铁路列车等级 "wikilink") [Category:日本特急列車](https://zh.wikipedia.org/wiki/Category:日本特急列車 "wikilink") [Category:2018年廢除](https://zh.wikipedia.org/wiki/Category:2018年廢除 "wikilink") [Category:1972年日本建立](https://zh.wikipedia.org/wiki/Category:1972年日本建立 "wikilink")
 
 1.
-
 2.  「あしずり」は[2003年](../Page/2003年.md "wikilink")（平成15年）10月1日から指定解除日まで、下り1本のみの運行だった。
-
 3.  「つばさ」の場合、1961年10月1日以来の上野 - 秋田間奥羽本線特急列車が在来線特急列車としての最終期まで1往復が設定されていた。しかし、1982年11月の東北・上越新幹線開業に際して登場した福島発着の「つばさ」が1985年の東北新幹線上野站乗り入れ以降、運行本数の大多数を占めるようになった。この新幹線接駁特急列車への變更を以て奥羽特急「つばさ」・「やまばと」は廃止、新幹線連絡特急「つばさ」と上野（暫定）乗り入れの「つばさ」・「やまばと」とみなす事例が多い。なお、「つばさ」・「やまばと」のエル特急指定は、「つばさ」の電車化による増発、運用共用化を受けてのものである。[こちらも参照されたい](https://zh.wikipedia.org/wiki/つばさ_\(列車\)#奥羽本線優等列車沿革 "wikilink")。
-
 4.
 5.  2017年3月4日より運行されている「**ライラック**」は、「スーパーカムイ」から再度列車名變更により復活したものであり、「ライラック」としては一旦途絶えている。また、復活後はエル特急の指定を受けていない。
-
 6.
 7.  「白山」は1985年（昭和60年）3月14日以降減便され、1994年（平成6年）3月14日以降1往復のみとなるが、「あさま」グループとして指定を受けた。

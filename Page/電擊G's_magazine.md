@@ -1,6 +1,6 @@
 **電擊G's magazine**是由[ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")（前[MediaWorks](../Page/MediaWorks.md "wikilink")）從1992年起發行的月刊[遊戲雜誌](https://zh.wikipedia.org/wiki/遊戲雜誌 "wikilink")。毎月30日發售。
 
-該雜誌主要針對[家用遊戲機的](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")軟件。另外它還推行近年常常所說的讀者參加雜誌上連載獨創規劃，並將其進行[遊戲軟體化](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")、[動畫化的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[跨媒體製作](../Page/跨媒體製作.md "wikilink")。
+該雜誌主要針對[家用遊戲機的](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")軟件。另外它還推行近年讀者所常常說的參加雜誌上連載獨創規劃，並將其進行[遊戲軟體化](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")、[動畫化的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[跨媒體製作](../Page/跨媒體製作.md "wikilink")。
 
 ## 沿革
 

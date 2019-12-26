@@ -26,26 +26,19 @@
 [Category:英國已結業航空公司](https://zh.wikipedia.org/wiki/Category:英國已結業航空公司 "wikilink") [Category:迦納已結業航空公司](https://zh.wikipedia.org/wiki/Category:迦納已結業航空公司 "wikilink") [Category:1990年成立的航空公司](https://zh.wikipedia.org/wiki/Category:1990年成立的航空公司 "wikilink") [Category:2010年結業航空公司](https://zh.wikipedia.org/wiki/Category:2010年結業航空公司 "wikilink")
 
 1.
-
 2.  [Information about MK Airlines at the Aero Transport Data Bank](http://aerotransport.org)
-
 3.
 4.
 5.
 6.
 7.
 8.  [Flight 1602 at the Aviation Safety Network](http://aviation-safety.net/database/record.php?id=20041014-0)
-
 9.  [Flight 1602: Official TSB report](http://www.tsb.gc.ca/eng/rapports-reports/aviation/2004/a04h0004/a04h0004.asp)
-
 10.
 11. Civil Aviation Authority Consumer Protection Group Official Record Series 2 Number 1836, 12 February 2008 (ISSN 0306-4654)
-
 12.
 13.
-14. [MK Airlines Forced from the Sky](http://www.aircargonews.net/News/MK-Airlines-forced-from-the-sky.aspx) 09-Apr-2010
-
+14. [MK Airlines Forced from the Sky](http://www.aircargonews.net/News/MK-Airlines-forced-from-the-sky.aspx)  09-Apr-2010
 15. ["Grounded MK Airlines returns operating licences", at ifw-net.com](http://www.ifw-net.com/freightpubs/ifw/index/mk-airlines-to-suspend-operations-due-to-financial-problems/20017766407.htm;jsessionid=09BAFAEF173F949018E558584D471833.5d25bd3d240cca6cbbee6afc8c3b5655190f397fhttp:/www.google.be)
-
 16.
 17.

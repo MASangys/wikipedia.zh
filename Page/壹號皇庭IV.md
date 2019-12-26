@@ -620,7 +620,7 @@
 <td><p><strong>暱稱/身份</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李家明_(演員)" title="wikilink">李家明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李家明_(歌手)" title="wikilink">李家明</a></p></td>
 <td><p>李立光</p></td>
 <td><p>Marco<br />
 醫生</p></td>

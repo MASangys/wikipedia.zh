@@ -1,6 +1,6 @@
 **TVB兒童節**是[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")（TVB）自1992年開始至2010年期間舉辦的暑期[兒童活動](https://zh.wikipedia.org/wiki/兒童 "wikilink")，讓學生能放一個充實的[暑假](../Page/暑假.md "wikilink")。
 
-TVB兒童節每年由兒童節目組主持、兒童大使及應屆[香港小姐負責活動主持工作](https://zh.wikipedia.org/wiki/香港小姐 "wikilink")，活動內容包括[夏令營](https://zh.wikipedia.org/wiki/夏令營 "wikilink")、環保活動、繪畫比賽、參觀活動等，暑假期間更會播放大量的[动画](../Page/动画.md "wikilink")、適合兒童觀看的[電影及英語電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，而每年8月最後一個[星期日](../Page/星期日.md "wikilink")（2007年是[星期六](../Page/星期六.md "wikilink")）也會舉行《[兒歌金曲頒獎典禮](../Page/兒歌金曲頒獎典禮.md "wikilink")》以表揚過去一年的[兒歌](../Page/兒歌.md "wikilink")作品。2011年夏季，原定20週年的TVB兒童節未有舉辦，換句話說2010年已是最後一屆。而2012年開始的TVB暑假活動改以[Amazing Summer取代本活動](https://zh.wikipedia.org/wiki/Amazing_Summer "wikilink")。
+TVB兒童節每年由兒童節目組主持、兒童大使及應屆[香港小姐負責活動主持工作](https://zh.wikipedia.org/wiki/香港小姐 "wikilink")，活動內容包括[夏令營](../Page/夏令營.md "wikilink")、環保活動、繪畫比賽、參觀活動等，暑假期間更會播放大量的[动画](../Page/动画.md "wikilink")、適合兒童觀看的[電影及英語電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，而每年8月最後一個[星期日](../Page/星期日.md "wikilink")（2007年是[星期六](../Page/星期六.md "wikilink")）也會舉行《[兒歌金曲頒獎典禮](../Page/兒歌金曲頒獎典禮.md "wikilink")》以表揚過去一年的[兒歌](../Page/兒歌.md "wikilink")作品。2011年夏季，原定20週年的TVB兒童節未有舉辦，換句話說2010年已是最後一屆。而2012年開始的TVB暑假活動改以[Amazing Summer取代本活動](https://zh.wikipedia.org/wiki/Amazing_Summer "wikilink")。
 
 ## TVB兒童節的各屆資料
 

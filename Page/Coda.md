@@ -25,12 +25,8 @@ Coda過去一直都在Linux系統上開發，目前Coda已經被列入Linux 2.6�
 [Category:分散式檔案系統](https://zh.wikipedia.org/wiki/Category:分散式檔案系統 "wikilink") [Category:Linux檔案系統](https://zh.wikipedia.org/wiki/Category:Linux檔案系統 "wikilink") [Category:磁盘文件系统](https://zh.wikipedia.org/wiki/Category:磁盘文件系统 "wikilink") [Category:网络文件系统](https://zh.wikipedia.org/wiki/Category:网络文件系统 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.

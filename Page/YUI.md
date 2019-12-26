@@ -1092,125 +1092,65 @@ DVD內容：</p>
 [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink") [Category:日本女演員](https://zh.wikipedia.org/wiki/Category:日本女演員 "wikilink") [Category:日本電影演員](https://zh.wikipedia.org/wiki/Category:日本電影演員 "wikilink") [Category:福岡縣出身人物](https://zh.wikipedia.org/wiki/Category:福岡縣出身人物 "wikilink") [Category:日本電影學院獎新人獎得主](https://zh.wikipedia.org/wiki/Category:日本電影學院獎新人獎得主 "wikilink") [Category:日本女性作曲家](https://zh.wikipedia.org/wiki/Category:日本女性作曲家 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  <http://www.YUI-lover.com/2013/05/flower-flower-debuts-at-japan-jam/>
-
 7.  <http://www.tokyohive.com/article/2013/04/YUI-to-resume-her-musical-activities-as-a-part-of-band-flower-flower/>
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13. [Oricon Style](../Page/Oricon.md "wikilink"), February 2, 2006
-
 14.
 15.
-
 16. \[Rockin' on Japan, May 2007 (Japanese)\]
-
 17. News Maker, July 2007
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25. B-PASS, February, 2008
-
 26.
 27. [World of Yui | Yui News, Community, Fansite, Gallery: New Yui Single\!](http://world-of-YUI.blogspot.com/2007/12/new-YUI-single.html)
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37. [YUI、女性シンガー・ソングライター2人目の5作連続首位　宇多田以来6年ぶり快挙](http://www.oricon.co.jp/news/rankmusic/76988/full/)
-
 38.  (subscription only)
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49. <https://www.youtube.com/watch?v=4qXOFkn-dt4>
-
 50.
-
 51.
-
 52. <http://www.YUI-lover.com/2013/05/flower-flower-debuts-at-japan-jam/>
-
 53. <http://www.tokyohive.com/article/2013/04/YUI-to-resume-her-musical-activities-as-a-part-of-band-flower-flower/>
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60. [ORICON](http://www.oricon.co.jp/music/release/d/651433/1/)
-
 61. [搖滾小天后YUI下月開巡迴](http://appledaily.atnext.com/template/apple/art_main.cfm?iss_id=20080411&sec_id=462&subsec_id=465&art_id=10974340) 《[蘋果日報 (香港)](../Page/蘋果日報_\(香港\).md "wikilink")》2008年4月11日 C26版
-
 62.
-
 63.

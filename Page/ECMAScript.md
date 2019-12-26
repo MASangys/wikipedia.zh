@@ -34,9 +34,11 @@ ECMAScript是由[网景的](https://zh.wikipedia.org/wiki/网景公司 "wikilink
 | -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------- |
 | ES5\[12\]                                                                        | ES6\[13\]                                                                                                               | ES7\[14\] |
 | [Chakra](../Page/Chakra_\(JavaScript引擎\).md "wikilink")                          | [Microsoft Edge](../Page/Microsoft_Edge.md "wikilink") 18                                                               | 100%      |
-| [SpiderMonkey](../Page/SpiderMonkey.md "wikilink")                               | [Firefox](../Page/Firefox.md "wikilink") 63                                                                             | 100%      |
-| [Chrome V8](../Page/V8_\(JavaScript引擎\).md "wikilink")                           | [Google Chrome](../Page/Google_Chrome.md "wikilink") 70、[Opera](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink") 57 | 100%      |
-| [JavaScriptCore](https://zh.wikipedia.org/wiki/JavaScriptCore "wikilink")（Nitro） | [Safari](../Page/Safari.md "wikilink") 12                                                                               | 99%       |
+| [SpiderMonkey](../Page/SpiderMonkey.md "wikilink")                               | [Firefox](../Page/Firefox.md "wikilink") 67                                                                             | 100%      |
+| [Chrome V8](../Page/V8_\(JavaScript引擎\).md "wikilink")                           | [Google Chrome](../Page/Google_Chrome.md "wikilink") 75、[Opera](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink") 62 | 100%      |
+| [JavaScriptCore](https://zh.wikipedia.org/wiki/JavaScriptCore "wikilink")（Nitro） | [Safari](../Page/Safari.md "wikilink") 12.1                                                                             | 99%       |
+
+該測試的內容託管在官方存儲庫 <https://github.com/tc39/test262> 中，也可以在 <https://v8.github.io/test262/website/default.html> 和 <https://bakkot.github.io/test262-web-runner/> 上訪問最新的Web瀏覽器測試套件工具。官方存儲庫還指向由社區維護的其他項目測試套件，以測試其他例如 Node.js 的 ECMAScript / JavaScript 環境。
 
 ## 參考文獻
 

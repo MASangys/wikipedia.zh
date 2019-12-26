@@ -128,7 +128,7 @@ MV AGUSTA目前市售車款於排氣量800c.c以下為並列三缸引擎，1000c
 
 ## 外部連結
 
-  - [MV Agusta Motorcycles SpA 官方網站](http://www.mvagusta.it/)
+  - [MV Agusta Motorcycles SpA 官方網站](https://web.archive.org/web/20140105204019/http://www.mvagusta.it/)
   - [MV Agusta - Wheels Of Italy](http://www.wheelsofitaly.com)
 
 ## 參考資料

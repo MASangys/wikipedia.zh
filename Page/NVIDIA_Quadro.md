@@ -37,7 +37,7 @@
   - [NVIDIA Quadro 專業級繪圖解決方案](http://www.nvidia.com.tw/page/workstation.html)
   - [NVIDIA Quadro 商業平臺解決方案](http://www.nvidia.com.tw/page/business_solutions.html)
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:Quadro系列](https://zh.wikipedia.org/wiki/Category:Quadro系列 "wikilink") [Category:1999年面世的產品](https://zh.wikipedia.org/wiki/Category:1999年面世的產品 "wikilink")
 
 1.  [Quadro誕生十周年，第十代Quadro专业方案解析](http://nvidia.e-works.net.cn/document/200903/article7716.htm)
 2.  [主流NVIDIA Quadro FX工作站显卡横向评测](http://nvidia.e-works.net.cn/document/200811/article7024.htm)

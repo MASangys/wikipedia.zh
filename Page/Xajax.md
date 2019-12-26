@@ -19,7 +19,7 @@
 
   - [xajax社群討論區](http://www.xajax-project.org/en/community-forums/)
 
-  - [Xajax tutorials & Code Samples](http://www.xajax.net/)
+  - [Xajax tutorials & Code Samples](https://web.archive.org/web/20101111193833/http://www.xajax.net/)
 
   - [学习xajax的中文站点（已停止更新）](https://web.archive.org/web/20100106001444/http://xajax.dayanmei.com/)
 

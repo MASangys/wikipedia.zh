@@ -12,13 +12,11 @@ ntv7華語新聞自2018年6月1日起，將目前2個時段的新聞時間（下
 
 自2019年6月1日起，CJ WOW SHOP中文版播出时段减少，暂时重播节目居多，保留最新韩剧时段和韩国综艺节目。同时，也恢复英语节目时段将会在每晚8点30分也就是英语新闻过后播放。
 
-
-
 ## 歷史
 
 ### 第一阶段試播（1998年3月7日－1998年3月30日）
 
-1998年3月7日-3月30日，ntv7开始第一阶段的试播，第一晚主要試播的内容為两部MV，分别为[葉玉卿](../Page/葉玉卿.md "wikilink")的《[記憶](../Page/擋不住的風情_\(國語專輯\).md "wikilink")》，和[Toni Braxton的](https://zh.wikipedia.org/wiki/唐妮·布蕾斯頓 "wikilink")《[You’re Makin’ Me High](https://zh.wikipedia.org/wiki/w:en:You’re_Makin’_Me_High "wikilink")》；試
+1998年3月7日-3月30日，ntv7开始第一阶段的试播，第一晚主要試播的内容為两部MV，分别为[葉玉卿](../Page/葉玉卿.md "wikilink")的《[記憶](../Page/擋不住的風情_\(國語專輯\).md "wikilink")》，和[Toni Braxton的](https://zh.wikipedia.org/wiki/唐妮·布蕾斯頓 "wikilink")《[You’re Makin’ Me High](https://zh.wikipedia.org/wiki/w:en:You’re_Makin’_Me_High "wikilink")》；試播。
 
   -
     {| class="wikitable"
@@ -519,7 +517,7 @@ Image:NTV7 New.JPG|被首要媒體收購後的標誌。使用時間為2006年至
 
 ## 外部連結
 
-  - [官方网站](http://extra.tonton.com.my/channel-home/ntv7)
+  - [官方网站](https://web.archive.org/web/20150131150529/http://extra.tonton.com.my/channel-home/ntv7/)
   - [官方YouTube](http://www.youtube.com/user/ntv7malaysia/)
   - [官方面子书](http://www.facebook.com/ntv7malaysia)
   - [2013年電視大戲預告](https://web.archive.org/web/20130505093541/http://lifetv.com.my/node/48199)

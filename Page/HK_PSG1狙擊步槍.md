@@ -118,7 +118,7 @@ PSG-1的另一个独特之处在于子弹击发之后弹壳弹出的力量相当
   -   - 特警單位
 
   -   - [警政署](https://zh.wikipedia.org/wiki/警政署 "wikilink")[維安特勤隊](../Page/維安特勤隊.md "wikilink")
-      - [海洋委員會海巡署](https://zh.wikipedia.org/wiki/海洋委員會海巡署 "wikilink")[署偵防分署](../Page/海洋委員會海巡署偵防分署.md "wikilink")[海巡特勤隊](../Page/海巡特勤隊.md "wikilink")
+      - [海洋委員會海巡署](../Page/海洋委員會海巡署.md "wikilink")[署偵防分署](../Page/海洋委員會海巡署偵防分署.md "wikilink")[海巡特勤隊](../Page/海巡特勤隊.md "wikilink")
       - [中華民國憲兵特勤隊](../Page/憲兵特勤隊.md "wikilink")
 
   -   - 特種部隊單位
@@ -184,6 +184,7 @@ PSG-1的另一个独特之处在于子弹击发之后弹壳弹出的力量相当
   - 2009年—《[幻靈鎮魂曲](https://zh.wikipedia.org/wiki/幻靈鎮魂曲 "wikilink")》（Phantom: Requiem for the Phantom）：被江漣/Ein所使用。
   - 2010年—《[學園默示錄](../Page/學園默示錄.md "wikilink")》（High school of the dead）
   - 2006年－《[名偵探柯南](../Page/名偵探柯南.md "wikilink")》(*Detective Conan*)：被黑暗組織的狙擊手-香緹(キャンティ、Chianti)所使用，依照情況換上G3後期型20發長彈匣。
+  - 2019年－《[警視廳特務部特殊凶惡犯對策室第七課](https://zh.wikipedia.org/wiki/警視廳特務部特殊凶惡犯對策室第七課 "wikilink")》: 被特7成員，遠藤六輔所使用
 
 ## 参见
 

@@ -160,26 +160,17 @@ Mii頻道（*Mii Channel*）能建立[替身角色](https://zh.wikipedia.org/wik
 [Category:Wii](https://zh.wikipedia.org/wiki/Category:Wii "wikilink") [Category:图形用户界面](https://zh.wikipedia.org/wiki/Category:图形用户界面 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
 10.
 11.
-
 12.
 13.
 14.
-
 15.

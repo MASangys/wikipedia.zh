@@ -132,11 +132,11 @@ CRH5型[电力动车组采用](https://zh.wikipedia.org/wiki/电力动车组 "wi
 </tr>
 <tr class="even">
 <td><p><a href="../Page/中国铁路兰州局集团有限公司.md" title="wikilink">兰州局集团</a></p></td>
-<td><p>27</p></td>
-<td><p>5147、5148、5151、5152、5176～5178、5191～5194、5199、5209、5210、5213、5215～5226</p></td>
+<td><p>30</p></td>
+<td><p>5147、5148、5151、5152、5176～5178、5191～5194、5199、5209、5210、5213、5215～5229</p></td>
 <td><p>兰州西</p></td>
 <td><p><a href="../Page/兰新铁路第二双线.md" title="wikilink">兰新铁路第二双线</a>、<a href="https://zh.wikipedia.org/wiki/中川城际铁路" title="wikilink">中川城际铁路</a></p></td>
-<td><p>5218～5226为增强型CRH5G</p></td>
+<td><p>5218～5229为增强型CRH5G</p></td>
 </tr>
 <tr class="odd">
 <td><p>1</p></td>
@@ -164,11 +164,11 @@ CRH5型[电力动车组采用](https://zh.wikipedia.org/wiki/电力动车组 "wi
 </tr>
 <tr class="even">
 <td><p><a href="../Page/中国铁路沈阳局集团有限公司.md" title="wikilink">沈阳局集团</a></p></td>
-<td><p>22</p></td>
-<td><p>5141、5142、5149、5150、5157、5160～5165、5171～5175、5188～5190、5227～5229</p></td>
+<td><p>19</p></td>
+<td><p>5141、5142、5149、5150、5157、5160～5165、5171～5175、5188～5190</p></td>
 <td><p>瀋陽南</p></td>
 <td></td>
-<td><p>5227～5229为增强型CRH5G</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>

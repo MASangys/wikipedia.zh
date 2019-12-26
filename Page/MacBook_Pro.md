@@ -8,6 +8,8 @@
 
 2016年10月，蘋果公司推出第四代全新設計的13英寸以及15英吋的MacBook Pro。擁有更輕薄的“Unibody” 一體式機身設計。一共有三種機型：13英寸配備[Touch Bar的MacBook](https://zh.wikipedia.org/wiki/Touch_Bar "wikilink") Pro, 13英寸不配備Touch Bar的MacBook Pro，15英寸配備Touch Bar的MacBook Pro。與上一代的差異是：配備具有P3色域的Retina顯示器，配備替代功能鍵列的Touch Bar，整合[Touch ID的指紋閱讀器](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")，取消除了[3.5mm耳機接口外的其他所有擴充孔](../Page/TRS端子.md "wikilink")；Force Touch觸控板面積相比上代大幅度增加，並配備4個支援ThunderBolt 3的[USB Type-C擴充孔以及配備第二代](../Page/USB_Type-C.md "wikilink")[蝶式結構鍵盤](https://zh.wikipedia.org/wiki/蝶式鍵盤 "wikilink")。
 
+2019年11月，蘋果公司推出第五代重新設計的16英寸的MacBook Pro, 同時取代了上一代的15英寸机型。尺寸与2015年代15英寸产品相似，加大了16英寸 Retina显示屏，加厚了0.03吋，键盘上方的多点触控OLED帶代替了功能键；在触摸条的右端有一个分离的Touch ID传感器（電源按鈕），在觸摸條的左端有一個分離的“esc”鍵。鍵盤則為與“Magic Keyboard” 相似的剪刀式結構鍵盤，取代了之前有爭議的蝶式鍵盤。
+
 ## 第一代
 
 第一代的MacBook Pro於2006年1月10日由[史蒂夫·喬布斯於蘋果公司產品發布會中發布](https://zh.wikipedia.org/wiki/史蒂夫·喬布斯 "wikilink")，17英寸機型於2006年4月24日發布。是第一款以[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink") [x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[中央處理器來取代沿用已久的Power](https://zh.wikipedia.org/wiki/中央處理器 "wikilink") G4 CPU的筆記型電腦產品。15吋的MacBook Pro跟相同尺寸的PowerBook G4重量相同，但深了0.1吋（0.25厘米），闊了0.4吋（1.0厘米），及薄了0.1吋（0.25厘米）。從PowerBook的其他變化還包括一個內置[iSight網絡鏡頭](https://zh.wikipedia.org/wiki/iSight "wikilink")、[MagSafe](../Page/MagSafe.md "wikilink")電源插頭，它是一個磁性電源連接器，旨在防止手提電腦與電源入離時引致表面分離的情況，而這兩個功能後來帶到MacBook。為了裝配更薄的MacBook Pro，光碟驅動器只能是PowerBook G4的一半速度，不能燒錄雙層DVD光盤。
@@ -748,6 +750,114 @@ WWDC2012发布了处理器昇級為Ivy Bridge架構的13及15吋第二代MacBook
 深度: 9.48 英寸 (24.07 厘米)<br />
 高度: 0.61 英寸 (1.55 厘米) <span style="color:#969696"><em>(15")</em></span></p></td>
 </tr>
+<tr class="odd">
+<td><p>支援的最新系統</p></td>
+</tr>
+</tbody>
+</table>
+
+## 第五代
+
+苹果于2019年11月13日推出了第五代16英寸MacBook Pro，取代了上一代的15英寸机型。它的尺寸与2015代15英寸产品相似，在狭窄的边框中设置了更大的16英寸3072x1920 Retina显示屏，这是自2012年停产的17英寸一体式MacBook Pro之后的最大MacBook屏幕。触控栏，键盘上方的多点触控OLED带，代替了功能键；在触摸条的右端有一个现在分离的蓝宝石玻璃覆盖的Touch ID传感器，可以兼作电源按钮。它使用的剪刀式键盘与苹果的无线魔术键盘几乎相同，比上一代的“蝴蝶”键盘提供更多的行程。
+
+像其前身一样，16英寸MacBook Pro具有四个组合的Thunderbolt 3端口，支持USB-C 3.1 Gen 2和双DisplayPort 1.4信号，提供6016×3384输出，以全分辨率运行Pro Display XDR。任何端口均可用于充电。计算机附带了一块新的96W电源砖。它还具有3.5毫米耳机插孔。
+
+它使用与2019年15英寸型号相同的Coffee Lake CPU。购买者可以选择AMD Radeon Pro 5300M或5500M GPU，它们具有高达8GB的GDDR6内存，高达64GB的2667MHz DDR4内存和高达8TB的SSD存储。 它包括更好的扬声器，更好的三麦克风阵列和100 Wh电池，最大的电池可以很容易地携带到商业飞机上。
+
+16英寸MacBook Pro的情况总体良好。笔记本电脑Mag称键盘为“大大改进”。 The Verge称赞了新的键盘，麦克风和扬声器，但批评缺少SD卡插槽等外围设备。 9to5Mac批评使用720p网络摄像头和较旧的802.11ac Wi-Fi标准，并指出苹果的iPhone 11系列包括4K前置摄像头和更快的Wi-Fi6。 <span id="Fifth generation technical specifications"></span>
+
+|  |    |  |    |
+|  | -- |  | -- |
+|  | 停售 |  | 當前 |
+
+<table>
+<thead>
+<tr class="header">
+<th><p>第五代 MacBook Pro 機型</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>Model</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>元件</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>型號名稱</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>發布日期</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>型號</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>型號標識識別</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Light-emitting_diode" title="wikilink">LED</a>- 背光寬屏 <a href="https://zh.wikipedia.org/wiki/Retina_Display" title="wikilink">Retina Display</a></strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/攝影機.md" title="wikilink">攝影</a></strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/中央處理器" title="wikilink">Processor</a></strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2.3GHz eight-core Intel Core i9 (<a href="https://ark.intel.com/content/www/us/en/ark/products/192987/intel-core-i9-9880h-processor-16m-cache-up-to-4-80-ghz.html">9880H</a>) Coffee Lake (9th Gen), up to 4.8GHz, 16 MB L3 cache<br />
+<em><span style="color: #969696">Optional 2.4GHz eight-core Intel Core i9 (<a href="https://ark.intel.com/content/www/us/en/ark/products/192990/intel-core-i9-9980hk-processor-16m-cache-up-to-5-00-ghz.html">9980HK</a>) Coffee Lake (9th Gen), up to 5GHz, 16 MB L3 cache</span></em></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>系統匯流排</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/隨機存取記憶體" title="wikilink">Memory</a></strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>2667MHz PC4-19200 DDR4 SDRAM</p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/電腦圖形" title="wikilink">Graphics</a></strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/AMD" title="wikilink">AMD</a> <a href="https://zh.wikipedia.org/wiki/Radeon_Pro" title="wikilink">Radeon Pro</a> 5500M with 4GB of GDDR6 memory and automatic graphics switching<br />
+Intel UHD Graphics 630<br />
+<em>Configurable to AMD Radeon Pro 5500M with 8GB of GDDR6 memory.</em></p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/固態硬碟" title="wikilink">儲存空間</a></strong>[5]</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>安全芯片</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a></strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Bluetooth" title="wikilink">Bluetooth</a></strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>連接介面</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>4 ports full performance supporting four 4096x2304 or two 6016×3384 displays (single stream each, supports DisplayPort 1.4[6])</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Audio</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>Built-in stereo speakers with high dynamic range, multiple microphones</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Battery</strong> (<a href="../Page/鋰離子聚合物電池.md" title="wikilink">lithium polymer</a>)</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Weight</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>尺寸</strong></p></td>
+</tr>
 </tbody>
 </table>
 
@@ -800,15 +910,19 @@ WWDC2012发布了处理器昇級為Ivy Bridge架構的13及15吋第二代MacBook
 | Q2                  |                                                                                                                                                                        |            |            |
 | Q3                  |                                                                                                                                                                        |            |            |
 
-國家：中華民國(台灣)　貨幣單位：新台幣
+地區：台灣　貨幣單位：新臺幣
 
 ## 注释
 
 ## 参考文献
 
+### 文獻資料
+
+### 新聞參考資料
+
 ## 外部链接
 
-  - [蘋果電腦- MacBook Pro（繁體中文）](http://www.apple.com.tw/macbookpro/)官方網站
+  - [蘋果電腦- MacBook Pro（繁體中文）](https://www.apple.com/tw/macbook-pro) – 官方網站
 
 ## 参见
 
@@ -825,3 +939,5 @@ WWDC2012发布了处理器昇級為Ivy Bridge架構的13及15吋第二代MacBook
 2.
 3.
 4.
+5.
+6.

@@ -137,21 +137,13 @@
 [Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:KID](https://zh.wikipedia.org/wiki/Category:KID "wikilink") [Category:多重人格題材作品](https://zh.wikipedia.org/wiki/Category:多重人格題材作品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  『Remember11 -the age of infinity- ビジュアルファンブック』p.99
-
 7.
 8.
 9.  『GAME SIDE』Vol.12、マイクロマガジン社、2008年5月、p.52
-
 10. 「Remember11 プレミアムブック」p.39
-
 11. 「infinity plus premium book」p.20

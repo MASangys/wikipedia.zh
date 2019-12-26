@@ -23,7 +23,7 @@ TAP葡萄牙航空曾持有下列航空公司的股份：
 
 ## 機隊
 
-[tap.a320-200.cs-tnj.arp.jpg](https://zh.wikipedia.org/wiki/File:tap.a320-200.cs-tnj.arp.jpg "fig:tap.a320-200.cs-tnj.arp.jpg") 截至2018年9月，TAP葡萄牙航空擁有以下飛機\[1\] \[2\]：
+[TAP_Portugal_A320-214_(CS-TNX)_taxiing_at_London_Heathrow_Airport.jpg](https://zh.wikipedia.org/wiki/File:TAP_Portugal_A320-214_\(CS-TNX\)_taxiing_at_London_Heathrow_Airport.jpg "fig:TAP_Portugal_A320-214_(CS-TNX)_taxiing_at_London_Heathrow_Airport.jpg") 截至2018年9月，TAP葡萄牙航空擁有以下飛機\[1\] \[2\]：
 
 <center>
 
@@ -74,7 +74,7 @@ TAP葡萄牙航空曾持有下列航空公司的股份：
 
   - [官方網站](https://www.flytap.com/)
 
-[Category:葡萄牙交通](https://zh.wikipedia.org/wiki/Category:葡萄牙交通 "wikilink") [Category:葡萄牙公司](https://zh.wikipedia.org/wiki/Category:葡萄牙公司 "wikilink") [Category:葡萄牙航空公司](https://zh.wikipedia.org/wiki/Category:葡萄牙航空公司 "wikilink") [Category:1945年成立的航空公司](https://zh.wikipedia.org/wiki/Category:1945年成立的航空公司 "wikilink")
+[Category:葡萄牙交通](https://zh.wikipedia.org/wiki/Category:葡萄牙交通 "wikilink") [Category:葡萄牙航空公司](https://zh.wikipedia.org/wiki/Category:葡萄牙航空公司 "wikilink") [Category:1945年成立的航空公司](https://zh.wikipedia.org/wiki/Category:1945年成立的航空公司 "wikilink")
 
 1.  [Air Portugal Fleet Details and History](http://www.airfleets.net/flottecie/TAP%20Air%20Portugal.htm)
 2.  [Fleet TAP Air Portugal](http://www.airfleets.net/flottecie/TAP%20Air%20Portugal.htm)

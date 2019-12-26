@@ -6,7 +6,7 @@
     給予一個有限數量的整數集合，找出任何一個此集合的非空子集且此子集內整數和為零。
     意即：\(S\)是一個包括若干整數的集合，找出任一一个\(S'\subset S\)且\(\sum_{x\in S'} x = 0\)
 
-這個問題的答案非常容易驗證，但目前沒有任何一個夠快的方法可以在合理的時間內（意即多項式時間）找到答案。只能一個個將它的子集取出來一一測試，它的時間複雜度是Ο(2<sup>n</sup>)，n是此集合的元素數量。
+這個問題的答案非常容易驗證，但目前沒有任何一個夠快的方法可以在合理的時間內（意即多項式時間）找到答案。只能一個個將它的子集取出來一一測試，它的時間複雜度是\(O(2^n)\)，\(n\)是此集合的元素數量。
 
 ## NPC的正式定義
 
@@ -14,7 +14,7 @@
 
 一個決定性問題*C*若是為NPC，則代表它對NP是[完備的](../Page/完備_\(複雜度\).md "wikilink")，這表示：
 
-1.  它是一個NP問題，且
+1.  它是一個NP問題
 2.  其他屬於NP的問題都可在多項式時間內[归约成它](https://zh.wikipedia.org/wiki/归约 "wikilink")。
 
 **可归约**在此意指對每個問題*L*，總有一個[多項式時間多對一變換](https://zh.wikipedia.org/wiki/多項式時間多對一變換 "wikilink")，即一個決定性的演算法可以將實例*l* ∈ *L*轉化成實例*c* ∈ *C*，並讓*c*回答Yes[-{zh-hans:当且仅当; zh-hant:若且唯若;}-此答案對](../Page/当且仅当.md "wikilink")*l*也是Yes。為了證明某個NP問題*A*實際上是NPC問題，證明者必須找出一個已知的NPC問題可以變換成*A*。
@@ -53,7 +53,7 @@
   - [子圖同構問題](https://zh.wikipedia.org/wiki/子圖同構問題 "wikilink")：（）
   - [子集合加總問題](https://zh.wikipedia.org/wiki/子集合加總問題 "wikilink")
   - [分團問題](https://zh.wikipedia.org/wiki/分團問題 "wikilink")
-  - [頂點涵蓋問題](https://zh.wikipedia.org/wiki/覆蓋_\(圖論\) "wikilink")：（Vertex cover）
+  - [頂點覆盖問題](https://zh.wikipedia.org/wiki/覆蓋_\(圖論\) "wikilink")：（Vertex cover）
   - [獨立頂點集問題](https://zh.wikipedia.org/wiki/獨立頂點集問題 "wikilink")：（）
   - [圖著色問題](https://zh.wikipedia.org/wiki/圖著色問題 "wikilink")
   - [踩地雷](../Page/踩地雷.md "wikilink")\[2\]

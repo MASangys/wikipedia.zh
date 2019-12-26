@@ -35,7 +35,7 @@
 ## 外部連結
 
   - [W3C VML proposal](http://www.w3.org/TR/1998/NOTE-VML-19980513)
-  - [MSDN VML Page](http://msdn2.microsoft.com/en-us/library/bb263898.aspx)
+  - [MSDN VML Page](https://web.archive.org/web/20081012171845/http://msdn2.microsoft.com/en-us/library/bb263898.aspx)
   - [VML DEMOS](https://web.archive.org/web/20110907181049/http://midiwebconcept.free.fr/Demos/)
   - [Vector Graphics Rendering Library Buffer Overflow](http://secunia.com/advisories/21989/)
 

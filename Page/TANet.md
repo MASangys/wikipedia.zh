@@ -124,7 +124,7 @@ TANet的骨幹架構如下\[8\]：
   - [國防大學](../Page/國防大學_\(中華民國\).md "wikilink")———————140.**129**.86\~115 , 140.**132**
   - [東南科技大學](../Page/東南科技大學.md "wikilink")—————140.**129**.116\~145
   - [國立虎尾科技大學](../Page/國立虎尾科技大學.md "wikilink")———140.**130**.1\~40
-  - [國立嘉義大學](https://zh.wikipedia.org/wiki/國立嘉義大學 "wikilink")—————140.**130**.41\~50 , 140.**130**.81\~100
+  - [國立嘉義大學](../Page/國立嘉義大學.md "wikilink")—————140.**130**.41\~50 , 140.**130**.81\~100
   - [吳鳳科技大學](../Page/吳鳳科技大學.md "wikilink")—————140.**130**.101\~130
   - [大同技術學院](../Page/大同技術學院.md "wikilink")—————140.**130**.131\~150
   - [環球科技大學](../Page/環球科技大學.md "wikilink")—————140.**130**.151\~168
@@ -315,7 +315,7 @@ TANet的骨幹架構如下\[8\]：
   - [台灣學術網路運作](http://www.edu.tw/MOECC/content.aspx?site_content_sn=1707)
   - [TANet無線網路漫遊交換中心](http://roamingcenter.tanet.edu.tw/)
   - [各縣市教育網路中心連結列表](http://roamingcenter.tanet.edu.tw/select_1.php)
-  - [台灣學術網路危機處理中心](http://cert.tanet.edu.tw/prog/index.php)
+  - [台灣學術網路危機處理中心](https://web.archive.org/web/20130316110540/http://cert.tanet.edu.tw/prog/index.php)
   - [台灣學術網路(TANET)-不當資訊過濾防制系統營運服務](http://web110.moe.edu.tw/)
   - [教育部縣市網路中心-不適合存取資訊過濾防制系統](http://twb.moe.edu.tw/)
   - [台灣學術網路校園語音交換平台](http://voip.tanet.edu.tw/)

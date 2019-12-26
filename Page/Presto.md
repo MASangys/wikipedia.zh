@@ -4,7 +4,7 @@ Presto取代了舊版Opera 4至6版本使用的[Elektra](../Page/Elektra.md "wik
 
 2013年2月12日，Opera宣佈將結束Presto引擎的開發，未來將以[Webkit引擎為主](https://zh.wikipedia.org/wiki/Webkit "wikilink")\[1\]。
 
-2016年2月15日，传出Opera被收购的消息，同日Presto内核版Opera更新到[12.18](ftp://ftp.opera.com/pub/opera/win/1218/en/)。
+2016年2月15日，传出Opera被收购的消息，同日Presto内核版Opera更新到[12.18](https://web.archive.org/web/20160911200926/http://ftp.opera.com/pub/opera/win/1218/en/)。
 
 ## JavaScript引擎
 

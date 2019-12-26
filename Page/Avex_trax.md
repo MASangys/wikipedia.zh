@@ -125,9 +125,7 @@ Avex Trax的首位簽約藝人是樂團[TRF](../Page/TRF.md "wikilink")，由於
 [Category:1990年成立的公司](https://zh.wikipedia.org/wiki/Category:1990年成立的公司 "wikilink") [Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink") [Category:愛貝克思集團](https://zh.wikipedia.org/wiki/Category:愛貝克思集團 "wikilink")
 
 1.   About Avex Group {{\!}} History|work=[愛貝克思](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")|accessdate=2010-05-22}}
-
 2.  使用[SM Entertainment專屬藝人的](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")[規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink")"AV\*K-79\*\*\*"
-
 3.
 4.
 5.

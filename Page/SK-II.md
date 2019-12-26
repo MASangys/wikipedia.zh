@@ -2,7 +2,7 @@
 
 ## 歷史
 
-SK-II本是蜜絲佛陀的子公司，其後蜜絲佛陀市佔率萎縮，賣了SK-II給REVLON 露華濃，其後再賣給P\&G。
+SK-II本是蜜絲佛陀的子公司，其後[蜜絲佛陀](../Page/蜜絲佛陀.md "wikilink")市佔率萎縮，賣了SK-II給REVLON 露華濃，其後再賣給P\&G。
 
 1980年代，日本科學家在參觀釀造[米](../Page/稻.md "wikilink")[酒](../Page/酒.md "wikilink")廠時，發現釀酒工人雙手[皮膚](../Page/皮膚.md "wikilink")細緻。研究發現在米酒提煉過程中產生的天然[酵母](../Page/酵母.md "wikilink")菌具有護膚成份，並把天然酵母菌提煉成Pitera。
 
@@ -58,7 +58,7 @@ SK-II本是蜜絲佛陀的子公司，其後蜜絲佛陀市佔率萎縮，賣了
 
 [Category:化妝品品牌](https://zh.wikipedia.org/wiki/Category:化妝品品牌 "wikilink") [Category:寶潔公司品牌](https://zh.wikipedia.org/wiki/Category:寶潔公司品牌 "wikilink") [Category:1980年成立的公司](https://zh.wikipedia.org/wiki/Category:1980年成立的公司 "wikilink") [Category:日本化妆品公司](https://zh.wikipedia.org/wiki/Category:日本化妆品公司 "wikilink")
 
-1.  林风、吴若蕾、乌玛、邓颖平，[SK-II在海外不吃香 欧洲不当回事日本人觉得贵](http://abroad.163.com/06/0925/09/2RRV36NQ00271IHD.html)，网易，2006-09-25
+1.  林风、吴若蕾、乌玛、邓颖平，[SK-II在海外不吃香 欧洲不当回事日本人觉得贵](http://abroad.163.com/06/0925/09/2RRV36NQ00271IHD.html) ，网易，2006-09-25
 2.  甝祺，[从中国开始的SK-II风波](https://web.archive.org/web/20151125011546/http://cnnews.chosun.com/site/data/html_dir/2006/09/20/20060920000033.html)，朝鲜日报，2006-09-20
 3.  [Substances contained in SK-II products do not pose safety concerns: HSA](https://archive.is/20071020013408/http://asia.news.yahoo.com/060922/5/singapore232013.html)
 4.  [化妝品安全標準須一視同仁](https://web.archive.org/web/20070312041757/http://news.sina.com/mingpao/000-101-101-111/2006-09-22/15001346803.html)，明報，2006-09-22

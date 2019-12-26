@@ -1,8 +1,8 @@
-**Windows NT 3.1**是[微软](../Page/微软.md "wikilink")的[Windows NT产品线的第一代产品](../Page/Windows_NT.md "wikilink")，用于[服务器](../Page/服务器.md "wikilink")和商业桌面[操作系统](../Page/操作系统.md "wikilink")，于1993年7月27日发表。版本号的选择是为了匹配[Windows 3.1](https://zh.wikipedia.org/wiki/Windows_3.1 "wikilink")，[微软](../Page/微软.md "wikilink")当时最新版的图形用户界面，以表明它们拥有非常类似的用户界面方面的视觉效果。有两个版本的NT 3.1可供选择，Windows NT 3.1和**Windows NT Advanced Server**。
+**Windows NT 3.1**是[微软](../Page/微软.md "wikilink")的[Windows NT产品线的第一代产品](../Page/Windows_NT.md "wikilink")，用于[服务器](../Page/服务器.md "wikilink")和商业桌面[操作系统](../Page/操作系统.md "wikilink")，于1993年7月27日发表。版本号的选择是为了匹配[Windows 3.1](https://zh.wikipedia.org/wiki/Windows_3.1 "wikilink")，[微软](../Page/微软.md "wikilink")当时最新版的图形用户界面，以表明它们拥有非常类似的用户界面方面的视觉效果。有两个版本的NT 3.1可供选择，**Windows NT Workststion**和**Windows NT Advanced Server**。
 
 它可以运行在Intel [x86](https://zh.wikipedia.org/wiki/x86 "wikilink")，[DEC Alpha和](../Page/DEC_Alpha.md "wikilink")[MIPS R4000的](https://zh.wikipedia.org/wiki/MIPS_architecture "wikilink")[CPU上](https://zh.wikipedia.org/wiki/CPU "wikilink")。
 
-## 對Windows NT 3.1的一般看法
+## 历史
 
 Windows NT的开发工作始于1988年11月，当时微软雇用了一组开发人员，他们来自[DEC公司](https://zh.wikipedia.org/wiki/Digital_Equipment_Corporation "wikilink")，由[Dave Cutler领导](https://zh.wikipedia.org/wiki/Dave_Cutler "wikilink")。许多设计元素反映了DEC在[VMS和](https://zh.wikipedia.org/wiki/Virtual_Memory_System "wikilink")[RSX-11上的前期经验](https://zh.wikipedia.org/wiki/RSX-11 "wikilink")。这一操作系统设计以运行于多种[指令集结构和每种结构里的多种硬件平台之上](https://zh.wikipedia.org/wiki/指令集结构 "wikilink")。这种平台无关性通过一个叫做[HAL的核心模式模块最大程度地隐藏在系统其余部分之外](https://zh.wikipedia.org/wiki/硬件抽象层 "wikilink")。
 

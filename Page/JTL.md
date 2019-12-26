@@ -78,7 +78,7 @@
 
   - [H.O.T 歷史 History](https://zh.wikipedia.org/wiki/:H.O.T. "wikilink")
   - [H.O.T官方网站](https://web.archive.org/web/20070212041557/http://www.smtown.com/smtown/hot/index.html)
-  - [jtL官方网站](http://www.yjmusic.co.kr/jtl/intro.html)
+  - [jtL官方网站](https://web.archive.org/web/20060515123813/http://www.yjmusic.co.kr/jtl/intro.html)
   - [李在元的Instagram帳戶](https://www.instagram.com/jw_jayone1/)
 
 [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:2004年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年解散的音樂團體 "wikilink") [Category:MTV亞洲大獎獲得者](https://zh.wikipedia.org/wiki/Category:MTV亞洲大獎獲得者 "wikilink")

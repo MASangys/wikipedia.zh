@@ -11,7 +11,7 @@
 [呂學淵塗鴉作品，《犬》，2001。.JPG](https://zh.wikipedia.org/wiki/File:呂學淵塗鴉作品，《犬》，2001。.JPG "fig:呂學淵塗鴉作品，《犬》，2001。.JPG")街頭[塗鴉](../Page/塗鴉.md "wikilink")先驅呂學淵為MC HotDog 第二張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")《犬》封面製作的同名作品\]\]
 
   - 2003年年底，退伍。
-  - 2004年，受[張震嶽邀請](https://zh.wikipedia.org/wiki/張震嶽 "wikilink")，跑遍全台puB巡迴演出。10月，受[美國最大連鎖Pub](https://zh.wikipedia.org/wiki/美國 "wikilink")「House of Blues」邀請，與張震嶽一起前往美國十大城市演出。
+  - 2004年，受[張震嶽](../Page/張震嶽.md "wikilink")邀請，跑遍全台puB巡迴演出。10月，受[美國最大連鎖Pub](https://zh.wikipedia.org/wiki/美國 "wikilink")「House of Blues」邀請，與張震嶽一起前往美國十大城市演出。
   - 2005年6月，受邀前往[香港](../Page/香港.md "wikilink")擔任張震嶽演唱會嘉賓。
   - 2006年1月，推出個人首張完整[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[Wake Up](../Page/Wake_Up_\(MC_HotDog专辑\).md "wikilink")》。發行了個人專輯後慢慢走出自我的風格，和好友[大支](../Page/大支.md "wikilink")也開始結束彼此的合作關係。4月，於[台北世貿二館舉辦個人首次售票演唱會](https://zh.wikipedia.org/wiki/台北世貿 "wikilink")；門票在演唱會前兩週即售罄，[黃牛票在網路上喊價十倍](https://zh.wikipedia.org/wiki/黃牛票 "wikilink")。6月，參加[第17屆金曲獎演出](https://zh.wikipedia.org/wiki/第17屆金曲獎 "wikilink")。
   - 2007年6月，《[Wake Up](../Page/Wake_Up_\(MC_HotDog专辑\).md "wikilink")》專輯獲[第18屆金曲獎最佳國語專輯獎](https://zh.wikipedia.org/wiki/第18屆金曲獎 "wikilink")，表示其另類風格受評審肯定。（兩人在金曲獎頒獎典禮上的表演片段在[中國大陸地區禁止播出](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，其帶有粗口的專輯在中國大陸地區禁止發行。）
@@ -20,7 +20,7 @@
   - 2013年2月27日，首度登上[香港](../Page/香港.md "wikilink")[紅磡體育館舉辦個人售票演唱會](https://zh.wikipedia.org/wiki/紅磡體育館 "wikilink")。
   - 2013年8月3日，首度登上[台北小巨蛋舉辦個人售票演唱會](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")。
   - 2014年8月21日，向《[ETtoday 東森新聞雲](https://zh.wikipedia.org/wiki/ETtoday_東森新聞雲 "wikilink")》坦言，在大學時曾在好奇心與朋友慫恿下[吸毒兩年](https://zh.wikipedia.org/wiki/吸毒 "wikilink")，曾經吸食[搖頭丸](../Page/搖頭丸.md "wikilink")、[大麻及](https://zh.wikipedia.org/wiki/大麻_\(藥用\) "wikilink")[K他命](https://zh.wikipedia.org/wiki/K他命 "wikilink")，吸毒亢奮完後反而心靈空虛、食慾不振、面黃肌瘦、沒精神；到了後期，吸毒後，心中會浮現悔意；直到有一天，突然想通了，決定把[手機裡藥頭及吸毒朋友們的電話號碼全部刪掉](https://zh.wikipedia.org/wiki/手機 "wikilink")，「吸毒傷身又花錢，沒意思，也沒必要一直玩」。坦率講出吸毒往事，他說：「玩過，沒什麼好避諱！」
-  - 2015年7月10日，創作過無數經典歌曲的創作歌手[張震嶽](https://zh.wikipedia.org/wiki/張震嶽 "wikilink")，與華語饒舌指標性歌手MC HotDog(熱狗)，再加上華語音樂圈最潮嘻哈新人記錄王[頑童MJ116](../Page/頑童MJ116.md "wikilink")，在北京召開新聞發布會，宣布「兄弟本色日落黑趴世界巡迴演唱會」正式起航，並宣告「[兄弟本色](https://zh.wikipedia.org/wiki/兄弟本色 "wikilink")」時代正式降臨。
+  - 2015年7月10日，創作過無數經典歌曲的創作歌手[張震嶽](../Page/張震嶽.md "wikilink")，與華語饒舌指標性歌手MC HotDog(熱狗)，再加上華語音樂圈最潮嘻哈新人記錄王[頑童MJ116](../Page/頑童MJ116.md "wikilink")，在北京召開新聞發布會，宣布「兄弟本色日落黑趴世界巡迴演唱會」正式起航，並宣告「[兄弟本色](https://zh.wikipedia.org/wiki/兄弟本色 "wikilink")」時代正式降臨。
   - 2017年，擔任[《中國有嘻哈》明星製作人兼評審](../Page/中国有嘻哈.md "wikilink")
   - 2018年，擔任[《中國新說唱》明星製作人兼評審](https://zh.wikipedia.org/wiki/中國新說唱 "wikilink")
   - 2019年，加盟[我是唱作人](../Page/我是唱作人.md "wikilink")
@@ -103,7 +103,7 @@ EP+<a href="../Page/VCD.md" title="wikilink">VCD</a></p></td>
 <li>我行我素</li>
 <li>新人王</li>
 <li>志玲姊姊來找我</li>
-<li>我愛台妹（feat.<a href="https://zh.wikipedia.org/wiki/張震嶽" title="wikilink">張震嶽</a>）</li>
+<li>我愛台妹（feat.<a href="../Page/張震嶽.md" title="wikilink">張震嶽</a>）</li>
 <li>毋忘在莒</li>
 <li>馬祖小夜曲</li>
 <li>Introducing啞色小狗</li>
@@ -151,7 +151,7 @@ EP+<a href="../Page/VCD.md" title="wikilink">VCD</a></p></td>
 <li>輕熟女 27（feat.<a href="https://zh.wikipedia.org/wiki/關彥淳" title="wikilink">關彥淳</a>）</li>
 <li>MC來了</li>
 <li>好無聊（feat. <a href="https://zh.wikipedia.org/wiki/A-Yue" title="wikilink">A-Yue</a>）</li>
-<li>離開（feat.<a href="https://zh.wikipedia.org/wiki/張震嶽" title="wikilink">張震嶽</a>）</li>
+<li>離開（feat.<a href="../Page/張震嶽.md" title="wikilink">張震嶽</a>）</li>
 <li>嗨嗨人生（feat.張震嶽、<a href="../Page/關穎.md" title="wikilink">關穎</a>）</li>
 <li>散場之後SKIT</li>
 <li>After Party（feat. <a href="https://zh.wikipedia.org/wiki/Scottie" title="wikilink">Scottie</a>）</li>
@@ -172,8 +172,8 @@ EP+<a href="../Page/VCD.md" title="wikilink">VCD</a></p></td>
 <td style="text-align: left;"><ol>
 <li>嘻哈沒有派對</li>
 <li>改變</li>
-<li>讓子彈飛</li>
-<li>流星小夜曲</li>
+<li>就讓子彈飛 （Feat. E-So瘦子）</li>
+<li>流星小夜曲 （Feat.岑寧兒）</li>
 <li>失眠是一種病 （Feat. <a href="../Page/J.Sheon.md" title="wikilink">J.Sheon</a>）</li>
 <li>厭世吉娃娃</li>
 <li>夢幻照相機</li>
@@ -211,7 +211,7 @@ EP+<a href="../Page/VCD.md" title="wikilink">VCD</a></p></td>
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------- |
 | 2002年4月  | 大支                                                                                                                                                                          | 电影《[愛情靈藥](../Page/愛情靈藥_\(電影\).md "wikilink")》主題曲 | 「命運青紅燈」                                                                   |
 | 2007年    | [馬念先](../Page/馬念先.md "wikilink")                                                                                                                                            | 《不可能的Mix(2) 》                                    | 「斷背山」                                                                     |
-| 2007年7月  | [張震嶽](https://zh.wikipedia.org/wiki/張震嶽 "wikilink") , [侯佩岑](../Page/侯佩岑.md "wikilink")                                                                                      | 《OK》                                             | 「就讓這首歌」                                                                   |
+| 2007年7月  | [張震嶽](../Page/張震嶽.md "wikilink") , [侯佩岑](../Page/侯佩岑.md "wikilink")                                                                                                         | 《OK》                                             | 「就讓這首歌」                                                                   |
 | 2007年7月  | [南拳媽媽](../Page/南拳媽媽.md "wikilink")                                                                                                                                          | 《藏寶圖》                                            | 「Here we go」                                                              |
 | 2008年4月  | [張信哲](../Page/張信哲.md "wikilink")                                                                                                                                            | 《逃生》                                             | 「單車與跑車」                                                                   |
 | 2008年7月  | [參劈](https://zh.wikipedia.org/wiki/參劈 "wikilink")                                                                                                                           | 《押韻的開始》                                          | 「巨蟒」                                                                      |
@@ -257,7 +257,7 @@ EP+<a href="../Page/VCD.md" title="wikilink">VCD</a></p></td>
 
 [我是唱作人](../Page/我是唱作人.md "wikilink")創作單曲
 
-## 网络剧
+## 網路劇
 
   - 2015年 [搜狐視頻](https://zh.wikipedia.org/wiki/搜狐視頻 "wikilink")《[極品女士4](https://zh.wikipedia.org/wiki/極品女士4 "wikilink")》
 

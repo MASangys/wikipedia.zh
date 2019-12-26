@@ -16,28 +16,30 @@
 
 ### 新聞主播
 
-| 節目名稱                                                              | 主播                                | 備註 |
-| ----------------------------------------------------------------- | --------------------------------- | -- |
-| [Focus全球新聞](../Page/Focus全球新聞.md "wikilink")                      | |[方念華](../Page/方念華.md "wikilink") |    |
-| [TVBS假日午間新聞](https://zh.wikipedia.org/wiki/TVBS假日午間新聞 "wikilink") | 主播排班                              | 假日 |
-|                                                                   |                                   |    |
+| 節目名稱                                         | 主播                                | 備註                                          |
+| -------------------------------------------- | --------------------------------- | ------------------------------------------- |
+| [Focus全球新聞](../Page/Focus全球新聞.md "wikilink") | |[方念華](../Page/方念華.md "wikilink") |                                             |
+| 1213午間新聞                                     | 主播排班                              | 與[TVBS新聞台](../Page/TVBS新聞台.md "wikilink")聯播 |
+|                                              |                                   |                                             |
 
 ### 節目主持人
 
-| 節目名稱                                                          | 主持人                                                                                                     | 備註                                                                      |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| [少康戰情室](../Page/少康戰情室.md "wikilink")                          | [趙少康](../Page/趙少康.md "wikilink")                                                                        |                                                                         |
-| [周末戰情室](../Page/少康戰情室.md "wikilink")                          | [唐湘龍](../Page/唐湘龍.md "wikilink")&[蘭萱](../Page/蘭萱.md "wikilink")                                         |                                                                         |
-| [TVBS看板人物](https://zh.wikipedia.org/wiki/TVBS看板人物 "wikilink") | [方念華](../Page/方念華.md "wikilink")                                                                        |                                                                         |
-| [全球進行式](https://zh.wikipedia.org/wiki/全球進行式 "wikilink")       | [秦綾謙](../Page/秦綾謙.md "wikilink")                                                                        |                                                                         |
-| [健康2.0](../Page/健康2.0.md "wikilink")                          | [鄭凱云](../Page/鄭凱云.md "wikilink")                                                                        |                                                                         |
-| [中國進行式](https://zh.wikipedia.org/wiki/中國進行式 "wikilink")       | [莊開文](../Page/莊開文.md "wikilink")                                                                        |                                                                         |
-| [T觀點](../Page/T觀點.md "wikilink")                              |                                                                                                         |                                                                         |
-| [一步一腳印 發現新台灣](../Page/一步一腳印_發現新台灣.md "wikilink")              | [詹怡宜](../Page/詹怡宜.md "wikilink")                                                                        |                                                                         |
-| [地球黃金線](../Page/地球黃金線.md "wikilink")                          | [蘇宗怡](https://zh.wikipedia.org/wiki/蘇宗怡 "wikilink")                                                     |                                                                         |
-| [TVBS國民大會](https://zh.wikipedia.org/wiki/TVBS國民大會 "wikilink") | [林宏宜](https://zh.wikipedia.org/wiki/林宏宜 "wikilink")、[錢怡君](https://zh.wikipedia.org/wiki/錢怡君 "wikilink") | 原主持人[于美人](../Page/于美人.md "wikilink")、[陳鳳馨](../Page/陳鳳馨.md "wikilink")請辭 |
-| [新聞大白話](../Page/新聞大白話.md "wikilink")                          | [謝曜州](https://zh.wikipedia.org/wiki/謝曜州 "wikilink")、[張介凡](https://zh.wikipedia.org/wiki/張介凡 "wikilink") |                                                                         |
-|                                                               |                                                                                                         |                                                                         |
+| 節目名稱                                                          | 主持人                                                             | 備註 |
+| ------------------------------------------------------------- | --------------------------------------------------------------- | -- |
+| [少康戰情室](../Page/少康戰情室.md "wikilink")                          | [趙少康](../Page/趙少康.md "wikilink")                                |    |
+| [周末戰情室](../Page/少康戰情室.md "wikilink")                          | [唐湘龍](../Page/唐湘龍.md "wikilink")、[蘭萱](../Page/蘭萱.md "wikilink") |    |
+| [TVBS看板人物](https://zh.wikipedia.org/wiki/TVBS看板人物 "wikilink") | [方念華](../Page/方念華.md "wikilink")                                |    |
+| [全球進行式](https://zh.wikipedia.org/wiki/全球進行式 "wikilink")       | [秦綾謙](../Page/秦綾謙.md "wikilink")                                |    |
+| [健康2.0](../Page/健康2.0.md "wikilink")                          | [鄭凱云](../Page/鄭凱云.md "wikilink")                                |    |
+| [中國進行式](https://zh.wikipedia.org/wiki/中國進行式 "wikilink")       | [莊開文](../Page/莊開文.md "wikilink")                                |    |
+| [T觀點](../Page/T觀點.md "wikilink")                              |                                                                 |    |
+| [一步一腳印 發現新台灣](../Page/一步一腳印_發現新台灣.md "wikilink")              | [詹怡宜](../Page/詹怡宜.md "wikilink")                                |    |
+| [地球黃金線](../Page/地球黃金線.md "wikilink")                          | [蘇宗怡](https://zh.wikipedia.org/wiki/蘇宗怡 "wikilink")             |    |
+| [TVBS國民大會](../Page/國民大會_\(電視節目\).md "wikilink")               | [陳鳳馨](../Page/陳鳳馨.md "wikilink")                                |    |
+| [新聞大白話](../Page/新聞大白話.md "wikilink")                          | [謝曜州](https://zh.wikipedia.org/wiki/謝曜州 "wikilink")             |    |
+| [財經大白話](https://zh.wikipedia.org/wiki/財經大白話 "wikilink")       | [翟翾](https://zh.wikipedia.org/wiki/翟翾 "wikilink")               |    |
+| [T台政經話](https://zh.wikipedia.org/wiki/T台政經話 "wikilink")       | [錢怡君](https://zh.wikipedia.org/wiki/錢怡君 "wikilink")             |    |
+|                                                               |                                                                 |    |
 
 ## 停播節目
 

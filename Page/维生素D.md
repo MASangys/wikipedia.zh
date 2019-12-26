@@ -104,76 +104,41 @@ VDR除了可以激活某些基因外，还有其他一些作用机理已经阐�
 [Category:维生素D](https://zh.wikipedia.org/wiki/Category:维生素D "wikilink")
 
 1.   穿过窗户的阳光不能帮助人体产生维生素D|url=[https://www.solidot.org/story?sid=59691|work=www.solidot.org|accessdate=2019-03-06](https://www.solidot.org/story?sid=59691%7Cwork=www.solidot.org%7Caccessdate=2019-03-06)}}
-
 2.
-
 3.  [History of Vitamin D](http://vitamind.ucr.edu/history.html)  University of California, Riverside, Vitamin D Workshop.
-
 4.  [About Vitamin D](http://vitamind.ucr.edu/about.html)  Including Sections: History, Nutrition, Chemistry, Biochemistry, and Diseases. University of California Riverside
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10. [Dietary Reference Intakes for Calcium and Vitamin D (2011)Page 104](http://www.nap.edu/openbook.php?record_id=13050&page=104)
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
 19.
-
 20.
-
 21.
-
 22. [Vitamin D](http://www.pdrhealth.com/drug_info/nmdrugprofiles/nutsupdrugs/vit_0265.shtml)  The Physicians Desk Reference. 2006 Thompson Healthcare.
-
 23.
-
 24.
-
 25. 来自美国儿科学会官方报告
-
 26. 《中国居民膳食营养素参考摄入量速查手册》（2013版）Chinese DRIs Handbook
-
 27. 《中国居民膳食营养素参考摄入量速查手册》（2013版）Chinese DRIs Handbook
-
 28.
-
 29.
-
 30. McClean, Franklin C.; Budy, Ann M. "Vitamin A, Vitamin D, Cartilage, Bones, and Teeth" in Harris, Robert S. (1963). *Vitamins and Hormones*, volume 21, pp. 51–52. London: Academic Press [Partial view](http://books.google.com/books?id=gGb7vm2SapcC&lpg=PA52&pg=PA51#v=onepage) at [Google Books](https://zh.wikipedia.org/wiki/Google_Books "wikilink").
-
 31. ["Unraveling The Enigma Of Vitamin D"](http://www.beyonddiscovery.org/content/view.txt.asp?a=414)  [United States National Academy of Sciences](https://zh.wikipedia.org/wiki/United_States_National_Academy_of_Sciences "wikilink")
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
 38.
-
 39. Laing, CJ and Cooke, NE. *Vitamin D Binding Protein.* In: **Vitamin D (Vol. 1)** David Feldman, Francis H. Glorieaux, J. Wesley Pike (eds.). Elsevier Press. 2005. pp 117-134.

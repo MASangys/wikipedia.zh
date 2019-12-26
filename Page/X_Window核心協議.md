@@ -293,23 +293,13 @@ X Window 核心協議並不硬性規定客戶端之間的通訊方法，也不�
 [Category:X_Window系統](https://zh.wikipedia.org/wiki/Category:X_Window系統 "wikilink")
 
 1.  Robert W. Scheifler and James Gettys: *X Window System: Core and extension protocols, X version 11, releases 6 and 6.1*, Digital Press 1996, ISBN 1-55558-148-X
-
 2.  RFC 1013
-
 3.  Grant Edwards. [X11 使用者界面入門](http://www.visi.com/~grante/Xtut/)
-
 4.  Jim Gettys. [開放源始碼桌面技術藍圖](http://freedesktop.org/~jg/roadmap.html)
-
 5.  [comp.fonts FAQ: X11 訊息](http://www.faqs.org/faqs/fonts-faq/part15/)
-
 6.  [X 邏輯字體描述協定](http://www.sensi.org/~alec/locale/other/xlfd.html)
-
 7.  Matthieu Herrb 和 Matthias Hopf。[X Window系統的新發展](http://www.openbsd.org/papers/eurobsd2005/herrb-hopf.pdf)
-
 8.  [Ghostview: Interface with ghostscript](http://www.gnu.org/software/gv/manual/html_node/Interface-with-ghostscript.html)
-
 9.  David Rosenthal。[客戶端之間的通訊協定手冊](https://zh.wikipedia.org/wiki/客戶端之間的通訊協定手冊 "wikilink")。MIT X 協會標準，1989
-
 10. [Freedesktop 視窗管理器規格](http://www.freedesktop.org/wiki/Standards_2fwm_2dspec)
-
 11.

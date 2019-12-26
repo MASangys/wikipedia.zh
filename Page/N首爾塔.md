@@ -178,9 +178,7 @@ N首尔塔的观景台是眺望[汉江和欣赏](https://zh.wikipedia.org/wiki/�
 [Category:首爾建築物](https://zh.wikipedia.org/wiki/Category:首爾建築物 "wikilink") [Category:亚洲塔式建筑](https://zh.wikipedia.org/wiki/Category:亚洲塔式建筑 "wikilink") [Category:首爾旅遊景點](https://zh.wikipedia.org/wiki/Category:首爾旅遊景點 "wikilink") [Category:韩国地标](https://zh.wikipedia.org/wiki/Category:韩国地标 "wikilink") [Category:1971年完工建築物](https://zh.wikipedia.org/wiki/Category:1971年完工建築物 "wikilink")
 
 1.  《韩国现代城市景观设计》2013. 作者: （韩）朴景子 吴辉泳主编 李华译 294-296
-
 2.  [N首尔塔历史](http://www.nseoultower.co.kr/eng/global/intro3.asp)，N首尔塔官网
-
 3.
 4.
 5.
@@ -188,14 +186,10 @@ N首尔塔的观景台是眺望[汉江和欣赏](https://zh.wikipedia.org/wiki/�
 7.
 8.
 9.  [Introduction of BI](http://www.nseoultower.co.kr/eng/global/intro4.asp),N首尔塔官网
-
 10. [首尔赏月好去处——南山N首尔塔](http://kr.hujiang.com/new/p116568/),沪江韩语
-
 11. [N首尔塔](http://www.yoka.com/brand/life/2011/1121582435.shtml)，YOKA时尚网
-
 12.
 13. [首尔地标——N首尔塔](http://www.visitseoul.net/ck/article-view/seoul-tower.jhtml) ，VISIT SEOUL
-
 14.
 15.
 16.

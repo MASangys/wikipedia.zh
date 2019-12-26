@@ -44,6 +44,7 @@
   - 2013年8月3日樂團參加了[俄羅斯的KUBANA](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink") Festival。同年8月21日發行睽違兩年的新單曲《FADELESS》。
   - 2013年9月舉辦了2013年度的世界巡演，一個月內在歐洲和南美洲舉辦了9場公演。
   - 2016年5月13日在台灣台北國際會議中心舉行公演\[3\]。
+  - 2019年6月29-30日，在台灣台北ATTSHOWBOX大直開唱\[4\]
 
 ### 名稱
 
@@ -64,6 +65,7 @@
   - 作詞內容多為意象強烈、含意深層。「Filth in the beauty」寫的是近親亂倫、「Hyena」是對偶像的批判、「紅蓮」則是與嬰兒夭折相關。
   - 曾因組團離家出走而被父親斷絕父子關係，當the GazettE漸漸出名後，RUKI的父親出席了樂團的LIVE，原本緊繃的父子關係便和解了。
   - 由於從小就喜歡畫畫，這項專長日後也被應用到週邊品牌(BLACK MORAL)的設計上。
+  - 沒有特別喜愛的服飾品牌，不過非常喜歡各式T-shirt\[5\]。
   - 香菸的愛用品牌是Natural American Spirit。
   - 歌迷給的暱稱有「るったん」、「おルキ」，團員葵與[ナイトメア的柩則會以](https://zh.wikipedia.org/wiki/ナイトメア "wikilink")「ルーさん」稱呼。
   - 與同樣是[視覺系](../Page/視覺系.md "wikilink")的[ナイトメア的柩](https://zh.wikipedia.org/wiki/ナイトメア "wikilink")、[SID的明希](https://zh.wikipedia.org/wiki/SID "wikilink")、以及本身相當尊敬的[清春](https://zh.wikipedia.org/wiki/清春 "wikilink")、[河村隆一](../Page/河村隆一.md "wikilink")關係友好。在樂團裡大多和麗一起活動。
@@ -838,20 +840,16 @@
 
 ## 註釋
 
-<div class="references-small">
-
-<references />
-
-</div>
-
 ## 外部連結
 
   - [the Gazette MusicJapanPlus Database | 艺人资料库](http://www.musicjapanplus.jp/artistdb/?artist_id=108)
   - [PS COMPANY](http://www.pscompany.co.jp)
-  - [the GazettE Official Site](http://www.pscompany.co.jp/gazette/)
+  - [the GazettE Official Site](https://web.archive.org/web/20080923152734/http://www.pscompany.co.jp/gazette/)
 
 [Category:2002年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2002年成立的音樂團體 "wikilink") [Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:視覺系](https://zh.wikipedia.org/wiki/Category:視覺系 "wikilink") [Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink")
 
 1.
 2.
 3.
+4.
+5.

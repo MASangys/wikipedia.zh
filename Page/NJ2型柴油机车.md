@@ -63,16 +63,10 @@ NJ2型机车的运行控制系统采用由通用电气公司开发的“综合�
 [Category:中國柴油機車](https://zh.wikipedia.org/wiki/Category:中國柴油機車 "wikilink") [Category:GE制铁路机车](https://zh.wikipedia.org/wiki/Category:GE制铁路机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink") [Category:青藏铁路](https://zh.wikipedia.org/wiki/Category:青藏铁路 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.

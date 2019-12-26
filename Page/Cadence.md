@@ -42,8 +42,5 @@ Cadence的電子設計自動化產品涵蓋了電子設計的整個流程，包�
 
 ## 外部链接
 
-Cadence site \*''<https://www.cadence.com/content/cadence-www/global/zh_TW/home.html>
-
-Cadence Taiwan Facebook: <https://www.facebook.com/cadence.taiwan/?ref=bookmarks>
-
-[Category:美國電子公司](https://zh.wikipedia.org/wiki/Category:美國電子公司 "wikilink") [Category:聖荷西公司](https://zh.wikipedia.org/wiki/Category:聖荷西公司 "wikilink") [Category:电子设计自动化公司](https://zh.wikipedia.org/wiki/Category:电子设计自动化公司 "wikilink")
+  -
+[Category:1988年成立的公司](https://zh.wikipedia.org/wiki/Category:1988年成立的公司 "wikilink") [Category:美國電子公司](https://zh.wikipedia.org/wiki/Category:美國電子公司 "wikilink") [Category:聖荷西公司](https://zh.wikipedia.org/wiki/Category:聖荷西公司 "wikilink") [Category:电子设计自动化公司](https://zh.wikipedia.org/wiki/Category:电子设计自动化公司 "wikilink")

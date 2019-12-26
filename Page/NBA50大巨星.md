@@ -1,6 +1,6 @@
 **国家篮球协会历史上最伟大的50名球员**（亦称**NBA50周年之队**或**NBA50大巨星**）于1996年[国家篮球协会](https://zh.wikipedia.org/wiki/国家篮球协会 "wikilink")（NBA）创立五十周年之际选出。媒体从业者、前运动员和教练及现任和前任总经理组成评审团，投票选出了这50名球员。此外，作为庆典的一部分，媒体还选出了NBA历史上十大[主教练和十支最伟大的球队](https://zh.wikipedia.org/wiki/主教练 "wikilink")（单赛季）\[1\]。这五十名球员必须在其职业生涯中在NBA效力过，并且不计其场上位置。
 
-时任NBA总裁[大卫·斯特恩](../Page/大卫·斯特恩.md "wikilink")于1996年10月29日在纽约凯悦酒店（原址为舰队司令酒店，1946年6月6日NBA宪章在此签订）宣布了这一名单，由此也开始了长达[一个赛季的NBA周年庆](https://zh.wikipedia.org/wiki/1996-97_NBA赛季 "wikilink")\[2\]。在[俄亥俄州](../Page/俄亥俄州.md "wikilink")[克里夫兰举行](https://zh.wikipedia.org/wiki/克里夫兰_\(俄亥俄州\) "wikilink")，半场休息时这50名球员中的47人集结到一起参加了仪式\[3\]。有三名球员缺席：[皮特·马拉维奇](../Page/皮特·马拉维奇.md "wikilink")于1988年去世，时年40岁\[4\]；[沙奎尔·奥尼尔](../Page/沙奎尔·奥尼尔.md "wikilink")正在膝伤康复中；[杰里·韦斯特则要进行耳感染手术](https://zh.wikipedia.org/wiki/杰里·韦斯特 "wikilink")，无法乘坐飞机\[5\]。在名单宣布之时，有11名球员现役。奥尼尔是最后一名NBA现役球员，他在结束后退役\[6\]。
+时任NBA总裁[大卫·斯特恩](../Page/大卫·斯特恩.md "wikilink")于1996年10月29日在纽约凯悦酒店（原址为舰队司令酒店，1946年6月6日NBA宪章在此签订）宣布了这一名单，由此也开始了长达[一个赛季的NBA周年庆](https://zh.wikipedia.org/wiki/1996-97_NBA赛季 "wikilink")\[2\]。在[俄亥俄州](../Page/俄亥俄州.md "wikilink")[克里夫兰举行](https://zh.wikipedia.org/wiki/克里夫兰_\(俄亥俄州\) "wikilink")，半场休息时这50名球员中的47人集结到一起参加了仪式\[3\]。有三名球员缺席：[皮特·馬拉維奇于](https://zh.wikipedia.org/wiki/皮特·馬拉維奇 "wikilink")1988年去世，时年40岁\[4\]；[沙奎尔·奥尼尔](../Page/沙奎尔·奥尼尔.md "wikilink")正在膝伤康复中；[杰里·韦斯特则要进行耳感染手术](https://zh.wikipedia.org/wiki/杰里·韦斯特 "wikilink")，无法乘坐飞机\[5\]。在名单宣布之时，有11名球员现役。奥尼尔是最后一名NBA现役球员，他在结束后退役\[6\]。
 
 ## 入选球员
 
@@ -228,7 +228,7 @@
 
 ### 名单
 
-十一名球员（[查尔斯·巴克利](../Page/查尔斯·巴克利.md "wikilink")、[克莱德·德雷克斯勒](https://zh.wikipedia.org/wiki/克莱德·德雷克斯勒 "wikilink")、[帕特里克·尤因](../Page/帕特里克·尤因.md "wikilink")、[迈克尔·乔丹](../Page/迈克尔·乔丹.md "wikilink")、[卡尔·马龙](https://zh.wikipedia.org/wiki/卡尔·马龙 "wikilink")、[沙奎尔·奥尼尔](../Page/沙奎尔·奥尼尔.md "wikilink")、[阿基姆·奥拉朱旺](https://zh.wikipedia.org/wiki/阿基姆·奥拉朱旺 "wikilink")、[罗伯特·帕里什](../Page/罗伯特·帕里什.md "wikilink")、[斯科蒂·皮蓬](../Page/斯科蒂·皮蓬.md "wikilink")、[大卫·罗宾逊和](https://zh.wikipedia.org/wiki/大卫·罗宾逊 "wikilink")[约翰·斯托克顿](https://zh.wikipedia.org/wiki/约翰·斯托克顿 "wikilink")）在名单公布时的现役。奥尼尔是最后一名现役球员，于末退役。名单中的所有球员都已被选入[奈史密斯篮球名人纪念堂](../Page/奈史密斯篮球名人纪念堂.md "wikilink")。[兰尼·威尔肯斯是名单中唯一一名还被选入教练名单的球员](https://zh.wikipedia.org/wiki/兰尼·威尔肯斯 "wikilink")。
+十一名球员（[查尔斯·巴克利](../Page/查尔斯·巴克利.md "wikilink")、[克萊德·德雷克斯勒](https://zh.wikipedia.org/wiki/克萊德·德雷克斯勒 "wikilink")、[帕特里克·尤因](../Page/帕特里克·尤因.md "wikilink")、[迈克尔·乔丹](../Page/迈克尔·乔丹.md "wikilink")、[卡尔·马龙](https://zh.wikipedia.org/wiki/卡尔·马龙 "wikilink")、[沙奎尔·奥尼尔](../Page/沙奎尔·奥尼尔.md "wikilink")、[阿基姆·奥拉朱旺](https://zh.wikipedia.org/wiki/阿基姆·奥拉朱旺 "wikilink")、[罗伯特·帕里什](../Page/罗伯特·帕里什.md "wikilink")、[斯科蒂·皮蓬](../Page/斯科蒂·皮蓬.md "wikilink")、[大卫·罗宾逊和](https://zh.wikipedia.org/wiki/大卫·罗宾逊 "wikilink")[约翰·斯托克顿](https://zh.wikipedia.org/wiki/约翰·斯托克顿 "wikilink")）在名单公布时的现役。奥尼尔是最后一名现役球员，于末退役。名单中的所有球员都已被选入[奈史密斯篮球名人纪念堂](../Page/奈史密斯篮球名人纪念堂.md "wikilink")。[兰尼·威尔肯斯是名单中唯一一名还被选入教练名单的球员](https://zh.wikipedia.org/wiki/兰尼·威尔肯斯 "wikilink")。
 
 |        |                                                    |
 | ------ | -------------------------------------------------- |
@@ -1302,7 +1302,7 @@
 
 2006年，在NBA50大巨星评选十周年之际，TNT电视台评选出了当初没有入选五十大巨星的十位优秀NBA球员为“未來名人堂十大巨星”。这个名单于2006年2月18日发表，包括以下球员：
 
-  - [阿伦·艾弗森](https://zh.wikipedia.org/wiki/阿伦·艾弗森 "wikilink")（Allen Iverson）\*
+  - [艾倫·艾佛森](../Page/艾倫·艾佛森.md "wikilink")（Allen Iverson）\*
   - [蒂姆·邓肯](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink")（Tim Duncan）\*
   - [多米尼克·威尔金斯](../Page/多米尼克·威尔金斯.md "wikilink")（Dominique Wilkins）\*
   - [鲍伯·麦卡杜](https://zh.wikipedia.org/wiki/鲍伯·麦卡杜 "wikilink")（Bob McAdoo）\*
@@ -1346,165 +1346,88 @@
 ## 外部链接
 
   - [NBA.com：50位最伟大的球员](http://www.nba.com/history/players/50greatest.html)
-  - [NBA.com：10大教练](http://www.nba.com/history/top_10_coaches.html)
-  - [NBA.com：10大球队](http://www.nba.com/history/toptenteams_index.html)
+  - [NBA.com：10大教练](https://www.webcitation.org/5mr8ODkw4?url=http://www.nba.com/history/top_10_coaches.html)
+  - [NBA.com：10大球队](https://www.webcitation.org/6E2Bn24ti?url=http://www.nba.com/history/toptenteams_index.html)
 
 [Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink") [Category:美国男子篮球运动员](https://zh.wikipedia.org/wiki/Category:美国男子篮球运动员 "wikilink") [Category:人物排名表](https://zh.wikipedia.org/wiki/Category:人物排名表 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.
-
 78.
-
 79.
-
 80.

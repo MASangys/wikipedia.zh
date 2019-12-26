@@ -41,7 +41,7 @@
 
   - [Lifetype官方網站（英）](https://web.archive.org/web/20060428072140/http://www.lifetype.net/)
   - [Lifetype官方網站（中）](http://www.lifetype.org.tw)
-  - [Lifetype官方論壇（英）](http://forums.lifetype.net)
+  - [Lifetype官方論壇（英）](https://web.archive.org/web/20190122174058/http://forums.lifetype.net/)
   - [Lifetype官方論壇（中）](http://forum.lifetype.org.tw)
   - [LifeType示範版本](http://www.opensourcecms.com/index.php?option=content&task=view&id=330&Itemid=159)
   - [coldtobi's blog](https://web.archive.org/web/20080914064843/http://blog.coldtobi.de/1_coldtobis_blog/archive/128_recaptcha_plugin.html) Accessible [ReCaptcha](https://zh.wikipedia.org/wiki/ReCaptcha "wikilink") Plugin

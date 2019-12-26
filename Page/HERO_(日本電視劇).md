@@ -1920,7 +1920,8 @@
 <p><a href="https://zh.wikipedia.org/wiki/張裕東" title="wikilink">張裕東</a></p></td>
 </tr>
 <tr class="even">
-<td><center></td>
+<td><center>
+<p><a href="../Page/櫻田日和.md" title="wikilink">櫻田日和</a></p></td>
 <td><center>
 <p>齊藤玲奈</p></td>
 <td><p>小茂田竊盜案的目擊證人</p></td>

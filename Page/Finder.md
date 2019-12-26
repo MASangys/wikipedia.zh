@@ -20,7 +20,7 @@ Finder中还有一个"垃圾桶文件夹"，删除文件的唯一办法是把文
 
 1991年苹果公司发佈了[System 7](https://zh.wikipedia.org/wiki/System_7 "wikilink")，是其操作系统的一大显著改进。和系统的其他软件一样，Finder也用[C++](../Page/C++.md "wikilink")完全改写。Finder窗口可以染色，而且列表视图可以通过一个“收缩三角形”进行下一层文件夹的展开。
 
-虽然Macintosh操作系统本身一直在不断改进，Finder一直相对保持不变，直到1997年[Mac OS 8发布](../Page/Mac_OS_8.md "wikilink")。Finder 8.0是第一个[多线程](../Page/多线程.md "wikilink")版本，用户终于可以再拷贝文件或者清空垃圾桶的时候不会被妨碍Finder的其他功能同时进行。和系统其他配件一样，Finder 8.0采用了金属外观，也增加了若干新功能，比如，在屏幕下方显示的标签在点击之后可以弹出窗口，显示其内容。Finder 8.0中还引进了带弹簧的文件夹。Finder 8.1在1998年初发布，开始更有效支持[HFS+文件系统](https://zh.wikipedia.org/wiki/HFS_Plus "wikilink")。
+虽然Macintosh操作系统本身一直在不断改进，Finder一直相对保持不变，直到1997年[Mac OS 8发布](../Page/Mac_OS_8.md "wikilink")。Finder 8.0是第一个[多线程](../Page/多线程.md "wikilink")版本，拷贝文件或者清空垃圾桶的操作再不会被妨碍Finder的其他功能同时进行。和系统其他配件一样，Finder 8.0采用了金属外观，也增加了若干新功能，比如，在屏幕下方显示的标签在点击之后可以弹出窗口，显示其内容。Finder 8.0中还引进了带弹簧的文件夹。Finder 8.1在1998年初发布，开始更有效支持[HFS+文件系统](https://zh.wikipedia.org/wiki/HFS_Plus "wikilink")。
 
 1999年10月发布的Finder 9，开始支持多用户操作、软件更新和Classic支持模式。9.1版本的其他功能还包括，支持特大文件（\>2GB），Encryption, Keychains, USB打印机共享和刻录CD。Finder 9是classic Mac OS Finder的最后一次大型升级。之后在2001年12月，在OS 9.2.2.之后，苹果停止开发[Mac OS 9](../Page/Mac_OS_9.md "wikilink")，也停止了Finder。
 

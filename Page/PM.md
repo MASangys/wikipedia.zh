@@ -2,7 +2,7 @@
 
 ## 時制
 
-  - **[下午](https://zh.wikipedia.org/wiki/下午 "wikilink")**，拉丁语的缩写，用于[十二小时制](https://zh.wikipedia.org/wiki/十二小时制 "wikilink")。
+  - **[下午](../Page/下午.md "wikilink")**，拉丁语的缩写，用于[十二小时制](https://zh.wikipedia.org/wiki/十二小时制 "wikilink")。
 
 ## 單位
 

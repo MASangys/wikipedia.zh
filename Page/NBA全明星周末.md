@@ -42,10 +42,6 @@ NBA全明星周六夜是NBA全明星赛開賽前一日舉行。該日將會舉�
 
 ## 外部链接
 
-  - [NBA official All-Star Balloting portal](http://www.nba.com/news/allstar2006_051117.html)
-  - [NBA All-Star Game historical results](https://web.archive.org/web/20061207004034/http://www.basketballreference.com/awards/allstar.htm)
-  - [InsideHoops.com - NBA全明星周末](http://www.insidehoops.com/all-star-weekend.shtml)
-  - [NBA All-Star News](https://web.archive.org/web/20060717063117/http://nba-all-star-game-news.blogspot.com/)
-  - [NBA全明星周末球迷網站](https://web.archive.org/web/20061112030315/http://inicia.es/de/allstar/index.htm)
+  - [明星賽官方網站](https://www.nba.com/allstar/)
 
 [Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink") [Category:NBA全明星赛](https://zh.wikipedia.org/wiki/Category:NBA全明星赛 "wikilink")

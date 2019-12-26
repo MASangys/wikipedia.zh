@@ -1,4 +1,8 @@
-**ZFS**是一個擁有[邏輯捲軸管理功能的](https://zh.wikipedia.org/wiki/邏輯捲軸管理 "wikilink")[檔案系統](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")，最早源自于[昇陽電腦](../Page/昇陽電腦.md "wikilink")为[Solaris](../Page/Solaris.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")开发的文件系统。ZFS是一个具有高存储容量、文件系统与卷管理概念整合、崭新的磁盘逻辑结构的轻量级文件系统，同时也是一个便捷的存储池管理系统。ZFS是一个使用[通用开发与散布许可证](../Page/通用开发与散布许可证.md "wikilink")授权的[开源项目](https://zh.wikipedia.org/wiki/开源 "wikilink")，這個商標名稱現由[甲骨文公司](../Page/甲骨文公司.md "wikilink")擁有。
+**ZFS**是一個擁有[邏輯捲軸管理功能的](https://zh.wikipedia.org/wiki/邏輯捲軸管理 "wikilink")[檔案系統](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")，最早源自于[Oracle为](https://zh.wikipedia.org/wiki/Oracle "wikilink")[Solaris](../Page/Solaris.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")开发的文件系统。ZFS具有可扩展性，并且包括大量保护措施防止[数据损坏](https://zh.wikipedia.org/wiki/数据损坏 "wikilink")，支持高存储容量、高效数据压缩、集成文件系统、[卷管理](https://zh.wikipedia.org/wiki/Volume_\(computing\) "wikilink")、快照和写时复制、连续完整性检查与自动修复、[RAID-Z](https://zh.wikipedia.org/wiki/RAID-Z "wikilink")、原生[NFSv4](https://zh.wikipedia.org/wiki/Network_File_System#NFSv4 "wikilink") [ACL等功能](https://zh.wikipedia.org/wiki/ACL "wikilink")，并且能被精确配置。ZFS有两个主要实现，分别来自[Oracle和](https://zh.wikipedia.org/wiki/Oracle "wikilink")[OpenZFS](https://zh.wikipedia.org/wiki/OpenZFS "wikilink")，它们之间极度相似，这使得ZFS在[类Unix系统中广泛可用](https://zh.wikipedia.org/wiki/Unix-like "wikilink")。
+
+ZFS这一名字本身没有含义，也不是某种缩写。ZFS最初是[专有软件](../Page/专有软件.md "wikilink")，被Sun内部开发作为Solaris的一部分，由Sun存储部门的CTO、研究员[Jeff Bonwick带领团队开发](https://zh.wikipedia.org/wiki/Jeff_Bonwick "wikilink")。在2005年，Solaris的大部分，包括ZFS成为采用[通用开发与散布许可证](../Page/通用开发与散布许可证.md "wikilink")的开源软件，作为[OpenSolaris](../Page/OpenSolaris.md "wikilink")项目。在2006年，ZFS成为Solaris的一项标准特性。
+
+在2010年，Sun被Oracle收购，ZFS成为Oracle的注册商标。Oracle停止为OpenSolaris和ZFS项目提供更新的源代码，使得Oracle的ZFS转为闭源。因此，有人成立了[illumos项目](https://zh.wikipedia.org/wiki/illumos "wikilink")，去维护已经存在的开源的Solaris代码，并且在2013年OpenZFS成立以配合ZFS的开源发展。OpenZFS维护管理核心ZFS代码，而一些使用ZFS的组织维护特定的代码和ZFS所需要的验证过程，以集成到他们的系统。OpenZFS在类Unix系统中广泛使用。
 
 ## 历史
 
@@ -74,7 +78,7 @@ ZFS的最新beta版已支持透明加密。\[9\]
 
 ## 专利争端
 
-NetApp指控Sun的ZFS文件系统侵犯了它WAFL的七项专利，Sun[反诉](http://news.ccidnet.com/art/1032/20071028/1255929_1.html)NetApp侵犯了12项专利，其中包括NFS协议等。后来专利争端以和解告终。
+NetApp指控Sun的ZFS文件系统侵犯了它WAFL的七项专利，Sun[反诉](https://web.archive.org/web/20140901050937/http://news.ccidnet.com/art/1032/20071028/1255929_1.html)NetApp侵犯了12项专利，其中包括NFS协议等。后来专利争端以和解告终。
 
 ## 对其支持的操作系统
 
@@ -102,20 +106,12 @@ NetApp指控Sun的ZFS文件系统侵犯了它WAFL的七项专利，Sun[反诉](h
 [Category:磁盘文件系统](https://zh.wikipedia.org/wiki/Category:磁盘文件系统 "wikilink") [Category:昇陽電腦軟體](https://zh.wikipedia.org/wiki/Category:昇陽電腦軟體 "wikilink") [Category:Linux檔案系統](https://zh.wikipedia.org/wiki/Category:Linux檔案系統 "wikilink") [Category:OpenSolaris](https://zh.wikipedia.org/wiki/Category:OpenSolaris "wikilink")
 
 1.
-
 2.  {{ cite web | url = <http://blogs.sun.com/roller/page/bonwick?entry=zfs_the_last_word_in> | title = ZFS: The Last Word in Filesystems | author = Jeff Bonwick | work = Jeff Bonwick's Blog | date = October 31, 2005 | accessdate = 2006-04-30 | deadurl = yes | archiveurl = <https://www.webcitation.org/6BNdGOIEe?url=https://blogs.oracle.com/roller-ui/errors/404.jsp> | archivedate = 2012年10月13日 }}
-
 3.  {{ cite web | url = <http://www.sun.com/smi/Press/sunflash/2006-06/sunflash.20060620.1.xml> | title = Sun Celebrates Successful One-Year Anniversary of OpenSolaris | publisher = Sun Microsystems | date = June 20, 2006 }}
-
 4.  {{ cite web | title = You say zeta, I say zetta | author = Jeff Bonwick | date = 2006-05-04 | work = Jeff Bonwick's Blog | accessdate = 2006-09-08 | url = <http://blogs.sun.com/bonwick/entry/you_say_zeta_i_say> | deadurl = yes | archiveurl = <https://www.webcitation.org/6BNdHzNju?url=https://blogs.oracle.com/roller-ui/errors/404.jsp> | archivedate = 2012-10-13 }}
-
 5.
-
 6.
 7.  Seth Lloyd, "[Ultimate physical limits to computation（计算的终极物理限制）](http://puhep1.princeton.edu/~mcdonald/examples/QM/lloyd_nature_406_1047_00.pdf)." Nature 406, 1047-1054 (2000)\]
-
 8.   见2.4节。
-
 9.
-
 10.

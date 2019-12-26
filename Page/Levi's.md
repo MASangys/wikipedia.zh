@@ -110,7 +110,7 @@
   - [臺灣網站](http://www.levi.com.tw)
   - [中國網站](http://www.levi.com.cn)
   - [美國網站](http://us.levi.com/home/index.jsp)
-  - [線上商店](http://www.jeans-online.pl)
+  - [線上商店](https://web.archive.org/web/20141118110845/http://www.jeans-online.pl/)
 
 ## 參考注釋
 

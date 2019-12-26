@@ -77,6 +77,6 @@
 
   - [NVIDIA 1995 產品時間線](http://www.nvidia.com/object/1995_timeline.html)
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:輝達圖形處理器](https://zh.wikipedia.org/wiki/Category:輝達圖形處理器 "wikilink") [Category:1995年面世的產品](https://zh.wikipedia.org/wiki/Category:1995年面世的產品 "wikilink")
 
 1.  [NVIDIA官方產品時間線](http://www.nvidia.com/content/timeline/time_95.html)

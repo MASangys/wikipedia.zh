@@ -6,7 +6,7 @@ MIDI演出控制協議（MSC Protocol）是為MIDI而設的工業標準，由[MI
 
 現在幾乎所有的錄音工程都將MIDI作為一項關鍵開放技術來紀錄音樂。除此之外，MIDI也用來控制包括錄音設備的硬體，如舞台燈、效果器踏板等高性能的設備。近十年，MIDI已經堂堂邁入行動電話領域。MIDI用來播放支援MIDI行動電話的[鈴聲](https://zh.wikipedia.org/wiki/鈴聲 "wikilink")。MIDI還可為某些[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")、[電腦遊戲提供背景音樂](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。
 
-MIDI標準是在1981年由工程師向提出的的一篇論文，MIDI 1.0於1983年8月發布。
+MIDI標準是在1981年由工程師向提出的一篇論文，MIDI 1.0於1983年8月發布。
 
 MIDI使得[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")、[合成器](../Page/合成器.md "wikilink")、[音效卡以及](https://zh.wikipedia.org/wiki/音效卡 "wikilink")[電子樂器](https://zh.wikipedia.org/wiki/電子樂器 "wikilink")(電子鼓、電子琴等)能互相控制、交换訊息。現在電腦的音效卡都是與MIDI相容的，並能逼真地模擬樂器的聲音。
 

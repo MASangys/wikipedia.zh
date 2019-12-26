@@ -27,7 +27,7 @@ Bencode最常被用在[.torrent檔中](https://zh.wikipedia.org/wiki/.torrent "w
   - [The original BitTorrent implementation in Python as standalone package](http://pypi.python.org/pypi/BitTorrent-bencode/5.0.8)
   - [BEncode Editor](https://web.archive.org/web/20111119025339/http://forum.utorrent.com/viewtopic.php?id=31306)
   - [bencode-tools](http://zakalwe.fi/~shd/foss/bencode-tools/) - a C library for manipulating bencoded data and a XML schema like validator for bencode messages in Python
-  - [Bencode parsing in Java](http://www.codecommit.com/blog/java/bencode-stream-parsing-in-java)
+  - [Bencode parsing in Java](https://web.archive.org/web/20131203085012/http://www.codecommit.com/blog/java/bencode-stream-parsing-in-java)
   - [Bencode parsing in C](https://web.archive.org/web/20110724074506/http://funzix.git.sourceforge.net/git/gitweb.cgi?p=funzix%2Ffunzix%3Ba%3Dblob%3Bf%3Dbencode%2Fbencode.c)
 
 [Category:置標語言](https://zh.wikipedia.org/wiki/Category:置標語言 "wikilink") [Category:数据序列化格式](https://zh.wikipedia.org/wiki/Category:数据序列化格式 "wikilink") [Category:BitTorrent](https://zh.wikipedia.org/wiki/Category:BitTorrent "wikilink")

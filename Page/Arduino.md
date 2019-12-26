@@ -197,24 +197,16 @@ float area(float r) {
 [Category:微控制器](https://zh.wikipedia.org/wiki/Category:微控制器 "wikilink") [Category:开源硬件](https://zh.wikipedia.org/wiki/Category:开源硬件 "wikilink") [Category:开放硬件电子设备](https://zh.wikipedia.org/wiki/Category:开放硬件电子设备 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
 10.
 11.
-
 12.
 13.
 14.

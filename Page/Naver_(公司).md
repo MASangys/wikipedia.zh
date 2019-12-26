@@ -14,6 +14,8 @@
 
 2017年，Naver投資1000億韓元（約為美金8852萬元）入股[YG娛樂](../Page/YG娛樂.md "wikilink")，成為第二大股東。\[4\]
 
+2019年11月18日，Naver日本子公司[LINE与](../Page/LINE_\(公司\).md "wikilink")[软银子公司](https://zh.wikipedia.org/wiki/软银 "wikilink")[Z Holdings](https://zh.wikipedia.org/wiki/Z_Holdings "wikilink")（即[雅虎日本](../Page/雅虎日本.md "wikilink")的母公司）签署合并协议书。\[5\]
+
 ## 海外事業
 
   - [日本](../Page/日本.md "wikilink")
@@ -44,7 +46,7 @@
 
 ## 收購WEBZEN事件
 
-[WEBZEN在韓國本部長達四年的經營虧損及事業部門](https://zh.wikipedia.org/wiki/WEBZEN "wikilink")、開發部門的經營、開發策略錯誤，各項新產品開發陷入關鍵技術無法順利進展，使得新產品開發進入長期的開發延遲、並消耗大量預算狀態，推出的新作品[Soul of the Ultimate Nation也未獲得韓國](https://zh.wikipedia.org/wiki/Soul_of_the_Ultimate_Nation "wikilink")、台灣等地區消費者好評，使其新作品無法獲利。各地子公司長期性的營運虧損，無法貢獻獲利又要求總部支援的情形下造成WEBZEN及其他分公司只能依靠其舊作品[MU做為其營收來源並勉強營運](https://zh.wikipedia.org/wiki/奇蹟_\(遊戲\) "wikilink")。其公司經營狀態又在爆發一連串惡意併購、長期虧損、重要開發成員離職、核心領導脫離團隊另謀發展、過度裁員造成經營效率下降、海外子公司持續的營運惡化等影響下，於2008年6月11日確定由韓國第一大網路營運公司NHN轄下的子公司NHN Games收購[NEOWAV](https://zh.wikipedia.org/wiki/NEOWAV "wikilink")、[Liveplex所持有的股份共](https://zh.wikipedia.org/wiki/Liveplex "wikilink")10.52%的股份，成為其持有股份最大的股東，並取得WEBZEN的經營權，並於同年9月4日取得前代表理事[金南州持有股份共計](https://zh.wikipedia.org/wiki/金南州 "wikilink")23.74%，宣告正式取得WEBZEN公司營運權，但是尚不考慮兩公司合併的可能性。NHN擬定將NHN Games及WEBZEN成為相互合作拓展線上遊戲市場的兩大子公司。\[5\]
+[WEBZEN在韓國本部長達四年的經營虧損及事業部門](https://zh.wikipedia.org/wiki/WEBZEN "wikilink")、開發部門的經營、開發策略錯誤，各項新產品開發陷入關鍵技術無法順利進展，使得新產品開發進入長期的開發延遲、並消耗大量預算狀態，推出的新作品[Soul of the Ultimate Nation也未獲得韓國](https://zh.wikipedia.org/wiki/Soul_of_the_Ultimate_Nation "wikilink")、台灣等地區消費者好評，使其新作品無法獲利。各地子公司長期性的營運虧損，無法貢獻獲利又要求總部支援的情形下造成WEBZEN及其他分公司只能依靠其舊作品[MU做為其營收來源並勉強營運](https://zh.wikipedia.org/wiki/奇蹟_\(遊戲\) "wikilink")。其公司經營狀態又在爆發一連串惡意併購、長期虧損、重要開發成員離職、核心領導脫離團隊另謀發展、過度裁員造成經營效率下降、海外子公司持續的營運惡化等影響下，於2008年6月11日確定由韓國第一大網路營運公司NHN轄下的子公司NHN Games收購[NEOWAV](https://zh.wikipedia.org/wiki/NEOWAV "wikilink")、[Liveplex所持有的股份共](https://zh.wikipedia.org/wiki/Liveplex "wikilink")10.52%的股份，成為其持有股份最大的股東，並取得WEBZEN的經營權，並於同年9月4日取得前代表理事[金南州持有股份共計](https://zh.wikipedia.org/wiki/金南州 "wikilink")23.74%，宣告正式取得WEBZEN公司營運權，但是尚不考慮兩公司合併的可能性。NHN擬定將NHN Games及WEBZEN成為相互合作拓展線上遊戲市場的兩大子公司。\[6\]
 
 ## 外部連結
 
@@ -58,3 +60,4 @@
 3.
 4.
 5.
+6.

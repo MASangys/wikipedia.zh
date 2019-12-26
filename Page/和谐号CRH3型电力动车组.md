@@ -6,13 +6,15 @@ CRH3列车的原型为衍生自[德国铁路](../Page/德国铁路.md "wikilink"
 
 ### CRH3A
 
-[CRH3A-3087_EMU_at_Chengdu_East_Railway_Station.jpg](https://zh.wikipedia.org/wiki/File:CRH3A-3087_EMU_at_Chengdu_East_Railway_Station.jpg "fig:CRH3A-3087_EMU_at_Chengdu_East_Railway_Station.jpg")\]\] CRH3A型的原型衍生自[CRH5和](https://zh.wikipedia.org/wiki/CRH5 "wikilink")[CJ1平台](https://zh.wikipedia.org/wiki/CJ1 "wikilink")，由中國北車主導，中國北車所屬長客股份公司設計生產，並於2013年6月8日在長客亮相。CJ1型動車組以[CRH380BL技術平台為基礎](https://zh.wikipedia.org/wiki/CRH380BL "wikilink")，借鑑了CRH380BL、[CRH380CL](https://zh.wikipedia.org/wiki/CRH380CL "wikilink")、CRH380B、CRH5型動車組的優點，研製開發的自主知識產權動車組。 CRH3A型動車組列車不完全與CJ1型實驗列車相同，採用新頭型，統型化的車內定員與設施配置，在優化空氣動力性能的同時，也減少了乘客上車後難於找到相應需求設施的難度，有利於乘車體驗的統一，減少乘客學習設施分佈的需要。
+[CRH3A-3087_EMU_at_Chengdu_East_Railway_Station.jpg](https://zh.wikipedia.org/wiki/File:CRH3A-3087_EMU_at_Chengdu_East_Railway_Station.jpg "fig:CRH3A-3087_EMU_at_Chengdu_East_Railway_Station.jpg")\]\] [CRH3A-5238@CDD_(20180219120605).jpg](https://zh.wikipedia.org/wiki/File:CRH3A-5238@CDD_\(20180219120605\).jpg "fig:CRH3A-5238@CDD_(20180219120605).jpg")的CRH3A-5238担当D1825次列车，经[成渝客专](../Page/成渝客运专线.md "wikilink")、[渝贵和](../Page/渝贵铁路.md "wikilink")[贵广客专运行](../Page/贵广客运专线.md "wikilink")\]\] CRH3A型的原型衍生自[CRH5和](https://zh.wikipedia.org/wiki/CRH5 "wikilink")[CJ1平台](https://zh.wikipedia.org/wiki/CJ1 "wikilink")，由中國北車主導，中國北車所屬長客股份公司設計生產，並於2013年6月8日在長客亮相。CJ1型動車組以[CRH380BL技術平台為基礎](https://zh.wikipedia.org/wiki/CRH380BL "wikilink")，借鑑了CRH380BL、[CRH380CL](https://zh.wikipedia.org/wiki/CRH380CL "wikilink")、CRH380B、CRH5型動車組的優點，研製開發的自主知識產權動車組。 CRH3A型動車組列車不完全與CJ1型實驗列車相同，採用新頭型，統型化的車內定員與設施配置，在優化空氣動力性能的同時，也減少了乘客上車後難於找到相應需求設施的難度，有利於乘車體驗的統一，減少乘客學習設施分佈的需要。
 
 CRH3A型動車組列車的制動能力比現有的高速動車組列車提高了15%。另外，CRH3A列車也採用了中國自主研發的監測控制系統，以對列車的運營狀態進行實時監控。該車型採用全封閉車體，以期在橋隧比較大的線路運營時保證較好的氣密性與乘坐舒適度。該車型內飾採用中國電力動車組統型內飾設計，沒有「面壁」（即靠車廂兩側的座位無車窗）情況，亦將車窗加大以獲得更好的採光性能。一等座列車採用暖光照明，而二等座車廂為普通白光照明。在行李架下方，設置有座位標識貼。
 
 該型號列車為白色底色，車窗黑色塗裝並在車窗下有單條藍色腰線。另外該列車兩端的駕駛室觀察窗有金色點綴，與[CR400BF](https://zh.wikipedia.org/wiki/CR400BF "wikilink")「復興號」動車組塗裝有相似之處，[火车迷昵称为](https://zh.wikipedia.org/wiki/火车迷 "wikilink")“黄金眼”。
 
 2017年9月份起，CRH3A型陸續下綫交付，首先用於[西成客運專綫本綫車使用](https://zh.wikipedia.org/wiki/西成客運專綫 "wikilink")，但由於无法应付西成客運專線秦岭段的坡度，后退出西成客運專線的运营並陆续转配至[成渝客运专线](../Page/成渝客运专线.md "wikilink")、[成遂渝铁路](https://zh.wikipedia.org/wiki/成遂渝铁路 "wikilink")、[渝贵铁路](../Page/渝贵铁路.md "wikilink")、[贵广客运专线](../Page/贵广客运专线.md "wikilink")运营。
+
+<File:201908> Second Class Interior of CRH3A.jpg|thumb|CRH3A的二等座车
 
 ### CRH3C
 
@@ -46,9 +48,13 @@ CRH3F是[唐山轨道客车有限责任公司设计生产的时速](https://zh.w
 
 CRH3F型动车组采用铝合金轻量化焊接车体，采用2动2拖4编组，可拓展至6编组或8编组。具备时速200km/h的升级能力，具有重联功能。
 
+### CRH3X
+
+CRH3X为[唐山轨道客车有限责任公司设计生产的可变编组动车组](https://zh.wikipedia.org/wiki/唐山轨道客车有限责任公司 "wikilink")。此车型最大的亮点在于可像普通机车一样，在2至16节范围内随意搭配车厢。CRH3X 分为250km/h速度平台和350km/h速度平台。两个平台，提供750kw、1500kw和2500kw三种供实现不同速度或编组长度的选择。根据不同的速度要求，配置不同的动拖比实现不同的速度等级。250km/h平台可扩展到 160\~300km/h，350km/h平台可扩展到 200\~350km/h。牵引变流设备的集成化、小型化、独立化使得一节车就是一个动力单元，如遇故障，切除或解编维修单节即可，比目前固定编组的动车组更加方便，提高了车底利用效率。目前此车型仅一辆样车CRH3X-0307 （非官方名称，实际编号CRH-0307，头车编号CRH0307-001），正在唐山厂测试中。
+
 ## 配属概况
 
-直至2018年3月，139列CRH3型列车已出厂，编号分别为3001～3111、5230～5257。CRH3C分别配属[广州局集团和](https://zh.wikipedia.org/wiki/广州局集团 "wikilink")[成都局集团](https://zh.wikipedia.org/wiki/成都局集团 "wikilink")，其中部分曾配属[北京局集团](https://zh.wikipedia.org/wiki/北京局集团 "wikilink")。而CRH3A型列车则集中配属[成都局集团](https://zh.wikipedia.org/wiki/成都局集团 "wikilink")。
+直至2019年10月，140列CRH3型列车已出厂，编号分别为0207、3001～3111、5230～5257。CRH3C分别配属[广州局集团和](https://zh.wikipedia.org/wiki/广州局集团 "wikilink")[成都局集团](https://zh.wikipedia.org/wiki/成都局集团 "wikilink")，其中部分曾配属[北京局集团](https://zh.wikipedia.org/wiki/北京局集团 "wikilink")。而CRH3A型列车则集中配属[成都局集团](https://zh.wikipedia.org/wiki/成都局集团 "wikilink")。CRH3X型列车在唐山厂测试中。
 
 <table>
 <thead>

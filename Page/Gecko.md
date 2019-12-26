@@ -14,23 +14,27 @@
 
 2003年7月15日，美國線上解散了網景公司，大部分網景開發者被解雇。而Mozilla基金會亦在當天成立，繼續推動著Gecko的發展。直到今天，Gecko排版引擎繼續由Mozilla員工和社群所維護和發展。
 
+2016年10月，Mozilla宣佈了Quantum計畫，包括幾項軟體開發工作，目標是“構建下一代Firefox瀏覽器引擎”，其中包括對Gecko的許多改進，主要是從實驗性計畫[Servo](../Page/Servo.md "wikilink")中引入的\[4\]\[5\]。Firefox 57於2017年11月發布，是啟用Servo組件的初始版本，包括[CSS和](https://zh.wikipedia.org/wiki/CSS "wikilink")[GPU渲染組件的性能提昇](https://zh.wikipedia.org/wiki/GPU "wikilink")\[6\]\[7\]。在未來的版本中，其他組件將從Servo逐步合併到Gecko\[8\]。
+
 ## 標準支援
 
-  - [CSS](https://zh.wikipedia.org/wiki/CSS "wikilink") Level 2.1（支援部份CSS 3）\[4\]
+  - [CSS](https://zh.wikipedia.org/wiki/CSS "wikilink") Level 2.1（支援部份CSS 3）\[9\]
   - [DOM](https://zh.wikipedia.org/wiki/DOM "wikilink") Level 1和2（支援部份DOM 3）
   - [HTML](../Page/HTML.md "wikilink") 4.01（支援部分[HTML5](../Page/HTML5.md "wikilink")）
-  - [JavaScript](../Page/JavaScript.md "wikilink") 1.8.5（完全支援ECMAScript 5.1\[5\]）由[SpiderMonkey](../Page/SpiderMonkey.md "wikilink")實現
+  - [JavaScript](../Page/JavaScript.md "wikilink") 1.8.5（完全支援ECMAScript 5.1\[10\]）由[SpiderMonkey](../Page/SpiderMonkey.md "wikilink")實現
   - [MathML](https://zh.wikipedia.org/wiki/MathML "wikilink")
   - [RDF](../Page/資源描述框架.md "wikilink")
   - [XForms](../Page/XForms.md "wikilink")（藉由官方的擴充套件）
   - [XHTML](../Page/XHTML.md "wikilink") 1.0
   - [XML](../Page/XML.md "wikilink") 1.0
   - [XSLT](../Page/XSLT.md "wikilink")和[XPath](../Page/XPath.md "wikilink")由TransforMiiX實現
-  - [SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")（支援部份SVG 1.1）\[6\]\[7\]
+  - [SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")（支援部份SVG 1.1）\[11\]\[12\]
 
 Gecko將會繼續支援更多的網路標準，例如：[XForms](../Page/XForms.md "wikilink")和[SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")。Mozilla基金會身為[WHATWG組織的成員](https://zh.wikipedia.org/wiki/WHATWG "wikilink")，Gecko和其他排版引擎將會率先支援WHATWG所定下的規格，例如：可供繪畫的[Canvas](../Page/Canvas_\(HTML元素\).md "wikilink")。
 
-Gecko的繪圖引擎在1.9版有重大的改變。它使用跨平台的[Cairo繪圖引擎來取代作業平台的繪圖介面](https://zh.wikipedia.org/wiki/Cairo_\(繪圖\) "wikilink")。這個改變將會令Gecko擁有更佳的繪圖能力。而加上的話，更可利用3D硬體加速。而所有多媒體內容（如HTML／CSS、Canvas、SVG等）將可使用同一管道作出渲染，[SVG的特效亦可以應用於](https://zh.wikipedia.org/wiki/SVG "wikilink")[HTML](../Page/HTML.md "wikilink")上。因為使用[Cairo的關係](https://zh.wikipedia.org/wiki/Cairo_\(绘图\) "wikilink")，圖像亦可以被輸出作[PNG](../Page/PNG.md "wikilink")和[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")，亦有可能達成「另存本頁為PDF」的功能。
+Gecko的繪圖引擎在1.9版有重大的改變。它使用跨平台的[Cairo繪圖引擎來取代作業平台的繪圖介面](https://zh.wikipedia.org/wiki/Cairo_\(繪圖\) "wikilink")。這個改變將會令Gecko擁有更佳的繪圖能力\[13\]\[14\]。
+
+2012年，Firefox開始使用Azure引擎而不是Cairo\[15\]\[16\]，由C++所編寫。Azure這個名字是對早期網景創始人[吉姆·克拉克和他早期在SGI工作的致敬](../Page/吉姆·克拉克_\(企業家\).md "wikilink")\[17\]。
 
 ## 使用
 
@@ -38,58 +42,47 @@ Gecko主要用於[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器
 
 使用Gecko的其他網頁瀏覽器包括Airfox、[Waterfox](../Page/Waterfox.md "wikilink")、[K-Meleon](../Page/K-Meleon.md "wikilink")、[Lunascape](../Page/Lunascape.md "wikilink")、[Pale Moon](https://zh.wikipedia.org/wiki/蒼月瀏覽器 "wikilink")、[Firefox Portable](../Page/Firefox_Portable.md "wikilink")、、、 、HP Secure Web Browser，Oxygen和Sylera（用於行動裝置）。
 
-其他使用Gecko的產品包括、Oxygen、、[Instantbird](../Page/Instantbird.md "wikilink")和Google的圖片管理軟體[Picasa](../Page/Picasa.md "wikilink")（用於Linux）\[8\]。
+其他使用Gecko的產品包括、Oxygen、、[Instantbird](../Page/Instantbird.md "wikilink")和Google的圖片管理軟體[Picasa](../Page/Picasa.md "wikilink")（用於Linux）\[18\]。
 
-是用於API文件的GTK+/GNOME瀏覽器，使用Gecko來渲染文件\[9\]。
+是用於API文件的GTK+/GNOME瀏覽器，使用Gecko來渲染文件\[19\]。
 
-Gecko也被[Sugar用於](../Page/Sugar_\(用戶界面\).md "wikilink")[OLPC XO-1電腦](../Page/XO-1.md "wikilink")\[10\]。
+Gecko也被[Sugar用於](../Page/Sugar_\(用戶界面\).md "wikilink")[OLPC XO-1電腦](../Page/XO-1.md "wikilink")\[20\]。
 
 歷史上使用Gecko的產品包括[Songbird](../Page/Songbird.md "wikilink")、[Epiphany](https://zh.wikipedia.org/wiki/Web_\(瀏覽器\) "wikilink")（現在稱為GNOME Web，使用WebKitGTK+）、[Sunbird](../Page/Mozilla_Sunbird.md "wikilink")，以及其他網頁瀏覽器，包括、[Flock](../Page/Flock.md "wikilink")、[Galeon](../Page/Galeon.md "wikilink")、[Camino](../Page/Camino.md "wikilink")、[Minimo](../Page/Minimo.md "wikilink")、[Beonex Communicator](../Page/Beonex_Communicator.md "wikilink")、和。
 
-在Netscape時代，由於糟糕的技術和管理決策導致了Gecko的\[11\]\[12\]\[13\]。因此，2001年，[Apple選擇了](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[KHTML](../Page/KHTML.md "wikilink")分支而不是Gecko，來為其[Safari](../Page/Safari.md "wikilink")瀏覽器建構[WebKit](../Page/WebKit.md "wikilink")引擎\[14\]\[15\]。不過，到2008年，Mozilla已經解決了一些膨脹問題，使得Gecko的性能大幅的提升\[16\]。
+在Netscape時代，由於糟糕的技術和管理決策導致了Gecko的\[21\]\[22\]\[23\]。因此，2001年，[Apple選擇了](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[KHTML](../Page/KHTML.md "wikilink")分支而不是Gecko，來為其[Safari](../Page/Safari.md "wikilink")瀏覽器建構[WebKit](../Page/WebKit.md "wikilink")引擎\[24\]\[25\]。不過，到2008年，Mozilla已經解決了一些膨脹問題，使得Gecko的性能大幅的提升\[26\]。
 
 ## 參考資料
 
 ## 外部連結
 
   - [Gecko - Mozilla Developer Network](https://developer.mozilla.org/en/docs/Gecko)
-  - [Gecko Wiki](https://wiki.mozilla.org/Gecko:Home_Page)
-  - [Glimpse Of The Future](http://weblogs.mozillazine.org/roc/archives/2005/04/glimpse_of_the.html)
-  - [Mozilla2:GFXEvolution](https://wiki.mozilla.org/Mozilla2:GFXEvolution)
 
-## 參見
-
-  - [排版引擎列表](../Page/排版引擎列表.md "wikilink")
-
-  -
 [Category:Netscape](https://zh.wikipedia.org/wiki/Category:Netscape "wikilink") [Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink") [Category:Gecko衍生軟體](https://zh.wikipedia.org/wiki/Category:Gecko衍生軟體 "wikilink") [Category:自由排版引擎](https://zh.wikipedia.org/wiki/Category:自由排版引擎 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:使用Cairo的軟體](https://zh.wikipedia.org/wiki/Category:使用Cairo的軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
-6.  The SVG font, color profile, animation, view, and cursor modules are yet to be implemented and the filter and text modules are only partially implemented. The extensibility module is also implemented but is currently disabled
-
+6.
 7.
-
 8.
-
 9.
-
 10.
-
-11.
-
+11. The SVG font, color profile, animation, view, and cursor modules are yet to be implemented and the filter and text modules are only partially implemented. The extensibility module is also implemented but is currently disabled
 12.
 13.
-
 14.
-
 15.
 16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.

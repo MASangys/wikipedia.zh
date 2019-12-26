@@ -259,17 +259,11 @@ AH-1Z蝰蛇在[电脑游戏](https://zh.wikipedia.org/wiki/电脑 "wikilink")[�
 [Category:美國軍用直升機](https://zh.wikipedia.org/wiki/Category:美國軍用直升機 "wikilink") [Category:中華民國陸軍航空器](https://zh.wikipedia.org/wiki/Category:中華民國陸軍航空器 "wikilink") [Category:貝爾航空器](https://zh.wikipedia.org/wiki/Category:貝爾航空器 "wikilink")
 
 1.  Donald, David: *Modern Battlefield Warplanes*, page 165. AIRtime Publishing Inc, 2004. ISBN 978-1-880588-76-5
-
 2.
 3.
 4.  [flyingbulls.at](https://www.flyingbulls.at/en/fleet/bell-cobra-tah-1f/)
-
 5.  Donald, David. Modern Battlefield Warplanes. AIRTime Publishing, 2004. ISBN 978-1-880588-76-5.
-
 6.  LtGen John Castellaw (2007). "2007 Marine Aviation Plan". Headquarters Marine Corps. Retrieved on 2007-11-18
-
 7.  （2004）International Air Power Review, Volume 12. AIRtime Publishing. ISBN 978-1-880588-77-2.
-
 8.  Frawley, Gerard: The International Directory of Military Aircraft, page 148. Aerospace Publications Pty Ltd, 2002. ISBN 978-1-875671-55-7
-
 9.  [捷克採購8架UH-1Y、 4架AH-1Z直升機 俗擱大碗](https://www.ydn.com.tw/News/349676?fbclid=IwAR29zpCalt-MmA8hch_E7u5SUAfgqFQhAKmcUkpJiZPWjnRx2vqQiPYVbQY)

@@ -78,7 +78,7 @@
 <td><p>DAK</p></td>
 <td><p>HEDK</p></td>
 <td></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/新河谷省" title="wikilink">新河谷省</a></p></td>
+<td><p>，<a href="../Page/新河谷省.md" title="wikilink">新河谷省</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1961,7 +1961,7 @@
 <td><p>DUK</p></td>
 <td><p>FADK</p></td>
 <td><p>Dukuduku機場</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姆圖巴圖巴" title="wikilink">姆圖巴圖巴</a>，<a href="https://zh.wikipedia.org/wiki/夸祖魯-納塔爾省" title="wikilink">夸祖魯-納塔爾省</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姆圖巴圖巴" title="wikilink">姆圖巴圖巴</a>，<a href="../Page/夸祖魯-納塔爾省.md" title="wikilink">夸祖魯-納塔爾省</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1982,7 +1982,7 @@
 <td><p>DUR</p></td>
 <td><p>FALE</p></td>
 <td><p><a href="../Page/沙卡國王國際機場.md" title="wikilink">沙卡國王國際機場</a></p></td>
-<td><p><a href="../Page/德班.md" title="wikilink">德班</a>，<a href="https://zh.wikipedia.org/wiki/夸祖魯-納塔爾省" title="wikilink">夸祖魯-納塔爾省</a></p></td>
+<td><p><a href="../Page/德班.md" title="wikilink">德班</a>，<a href="../Page/夸祖魯-納塔爾省.md" title="wikilink">夸祖魯-納塔爾省</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

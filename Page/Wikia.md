@@ -24,20 +24,20 @@ Wikia 亦會對提出撤出 Wikia 的用戶進行報復，通常會以撤銷其�
 
 ## Wikia知名站台
 
-  - [Wowwiki](http://wowwiki.wikia.com/wiki/)
-  - [LyricWiki](http://lyrics.wikia.com/wiki/)
-  - [阿爾法記憶](http://memory-alpha.wikia.com/wiki)
+  - [Wowwiki](https://wowwiki.fandom.com/wiki/)
+  - [LyricWiki](https://lyrics.fandom.com/wiki/)
+  - [阿爾法記憶](https://memory-alpha.fandom.com/wiki)
   - [偽基百科](../Page/偽基百科.md "wikilink")（約半數版本設在wikia）
-  - [Wookieepedia](http://starwars.wikia.com/wiki/)
-  - [Lostpedia](http://lostpedia.wikia.com/wiki/)
-  - [ArmchairGM](http://armchairgm.wikia.com/wiki/)
+  - [Wookieepedia](https://starwars.fandom.com/wiki/)
+  - [Lostpedia](https://lostpedia.fandom.com/wiki/)
+  - [ArmchairGM](https://armchairgm.fandom.com/wiki/)
   - [香港網絡大典](https://evchk.wikia.com/wiki/)
   - [香港巴士大典](https://hkbus.fandom.com/wiki/)
   - [香港鐵路大典](https://hkrail.fandom.com/wiki/)
 
 ## 參見
 
-  - [wiki](../Page/Wiki.md "wikilink")
+  - [Wiki](../Page/Wiki.md "wikilink")
   - [wiki農場](https://zh.wikipedia.org/wiki/wiki農場 "wikilink")
 
 ## 参考文献

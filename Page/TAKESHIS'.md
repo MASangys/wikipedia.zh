@@ -14,6 +14,6 @@
 
 ## 外部链接
 
-  - [電影官方网站（日语）](http://www.office-kitano.co.jp/takeshis/)
+  - [電影官方网站（日语）](https://web.archive.org/web/20051106031942/http://www.office-kitano.co.jp/takeshis/)
 
 [Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink") [Category:2005年电影](https://zh.wikipedia.org/wiki/Category:2005年电影 "wikilink") [Category:北野武電影](https://zh.wikipedia.org/wiki/Category:北野武電影 "wikilink") [Category:朝日電視台製作的電影](https://zh.wikipedia.org/wiki/Category:朝日電視台製作的電影 "wikilink")

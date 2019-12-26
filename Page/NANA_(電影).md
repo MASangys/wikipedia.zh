@@ -59,7 +59,7 @@
 
   - [娜娜 (日) Nana (JP) 電影介紹（開眼電影網）](http://app2.atmovies.com.tw/film/fnjp20471834/)
 
-  - [《NANA》（Cinema Topics Online）](http://www.cinematopics.com/cinema/works/output2.php?oid=5848)
+  - [《NANA》（Cinema Topics Online）](https://web.archive.org/web/20070930043301/http://www.cinematopics.com/cinema/works/output2.php?oid=5848)
 
 ## 外部链接
 

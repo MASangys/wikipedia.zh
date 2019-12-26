@@ -277,70 +277,38 @@ Windows Mobile 6.5.3帶來更友好的用戶界面，一些新的易於使用的
 
 1.
 2.  De Herrera, Chris. [*More Than a PDA\!*](http://www.pocketpcmag.com/cms/_archives/May00/MorethanPDA.asp) . Pocket PC Magazine. Retrieved 14 September 2007.
-
 3.
-
 4.  Morris, John; Taylor, Josh, [*Microsoft jumps in the all-in-one game*](https://web.archive.org/web/20011217080411/http://www.zdnet.com/products/stories/reviews/0,4161,2824082,00.html), zdnet.com, Retrieved from the [Internet Archive](https://zh.wikipedia.org/wiki/Internet_Archive "wikilink") 6 September 2007.
-
 5.  [*Announcing the New Pocket PC 2002*](https://web.archive.org/web/20020124155709/http://www.microsoft.com/mobile/pocketpc/pocketpc2002/default.asp), Microsoft, Retrieved from the [Internet Archive](https://zh.wikipedia.org/wiki/Internet_Archive "wikilink") 6 September 2007.
-
 6.  Gray, Douglas. [*HP to unveil Jornada 560 series of handhelds*](http://www.itworld.com/Comp/1279/IDG010906jornada/) . ITWorld.com. Retrieved 14 September 2007.
-
 7.  Gray, Douglas. [*Palming new handhelds: Pocket PC 2002*](http://archives.cnn.com/2001/TECH/ptech/10/05/new.handhelds.idg/) . CNN. Retrieved 14 September 2007.
-
 8.  De Herrera, Chris. [*The Pocket PC 2002 Gets More Features for Work and Play*](http://www.pocketpcmag.com/_archives/jan02/PocketPC2002.asp) . Pocket PC Magazine. Retrieved 14 September 2007.
-
 9.
 10. De Herrera, Chris. [*Windows Mobile 2003*](http://www.pocketpcmag.com/_archives/nov03/windowsmobile2003.asp) . Pocket PC Magazine. Retrieved 14 September 2007.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16.
-
 17. ["Image Gallery: Windows Mobile 6 Professional screenshots, Windows Update, screen 1"](http://content.zdnet.com/2346-12553_22-54353-24.html) . *ZDNet*. Retrieved 10 October 2007.
-
 18. [Improved Remote Desktop access](http://content.zdnet.com/2346-12553_22-54353-19.html)
-
 19. [RDP Client is not included in many WM6 devices](http://www.theunwired.net/?itemid=4029)
-
 20.
-
 21. [Customer Feedback Option](http://www.microsoft.com/products/ceip)
-
 22. [Experiencing the goodness that is Windows Mobile 6.1](http://windowsvistablog.com/blogs/windowsexperience/archive/2008/04/01/experiencing-the-goodness-that-is-windows-mobile-6-1.aspx)
-
 23.
-
 24. <http://blogs.msdn.com/devmktg/archive/2008/04/04/windows-mobile-6-1-announced.aspx>
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36. [蓋茨：微軟錯了手機發展創新不足](https://archive.is/20130428163457/hk.news.yahoo.com/%E8%93%8B%E8%8C%A8-%E5%BE%AE%E8%BB%9F%E9%8C%AF%E4%BA%86-%E6%89%8B%E6%A9%9F%E7%99%BC%E5%B1%95-%E5%89%B5%E6%96%B0%E4%B8%8D%E8%B6%B3-211849394.html)Yahoo\! 新聞香港明報2013年2月20日
-
 37. <http://chinese.engadget.com/2009/10/08/windows-mobile-6-5-hk-list/>

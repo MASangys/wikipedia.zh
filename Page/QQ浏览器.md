@@ -86,43 +86,27 @@ QQ瀏覽器與同樣使用雙排版引擎進行渲染的[搜狗瀏覽器](https:
 
   - 搜搜百科上對[騰訊TT瀏覽器](http://baike.soso.com/v1848315.htm)和[QQ瀏覽器5](http://baike.soso.com/v9388181.htm)的描述
 
-  - [天极Myhard学院 介绍腾讯TT新功能](http://www.yesky.com/lesson/361419367654621184/20040326/1781353.shtml)，天极網，2004年3月26日
+  - [天极Myhard学院 介绍腾讯TT新功能](https://web.archive.org/web/20130702151919/http://www.yesky.com/lesson/361419367654621184/20040326/1781353.shtml)，天极網，2004年3月26日
 
 [Category:腾讯软件](https://zh.wikipedia.org/wiki/Category:腾讯软件 "wikilink") [Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink") [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink") [Category:基于Chromium的浏览器](https://zh.wikipedia.org/wiki/Category:基于Chromium的浏览器 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20. [2011年6月19日的快照](https://web.archive.org/web/20110619021900/http://browser.qq.com/)

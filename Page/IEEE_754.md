@@ -56,9 +56,9 @@ IEEE 754規定了四種表示浮點數值的方式：單精確度（32位元）�
 
 這里有三個特殊值需要指出：
 
-1.  如果*指數*是0并且尾數的*小數部分*是0，這個數±0（和符號位相關）
-2.  如果*指數* = \(2^{e} - 1\)并且尾數的*小數部分*是0，這個數是±[∞](https://zh.wikipedia.org/wiki/無窮大 "wikilink")（同樣和符號位相關）
-3.  如果*指數* = \(2^{e} - 1\)并且尾數的*小數部分*非0，這個數表示為[不是一個數（NaN）](../Page/NaN.md "wikilink")。
+1.  如果**指數**是0并且尾數的**小數部分**是0，這個數±0（和符號位相關）
+2.  如果**指數** = \(2^{e} - 1\)并且尾數的**小數部分**是0，這個數是±[∞](https://zh.wikipedia.org/wiki/無窮大 "wikilink")（同樣和符號位相關）
+3.  如果**指數** = \(2^{e} - 1\)并且尾數的**小數部分**非0，這個數表示為[不是一個數（NaN）](../Page/NaN.md "wikilink")。
 
 以上規則，總結如下：
 
@@ -146,7 +146,7 @@ Fraction
 
 </table>
 
-S為符號位，Exp為指數位，Fraction為有效數位。 指數部分即使用所謂的*偏正值*形式表示，偏正值為實際的指數大小與一個固定值（32位的情況是127）的和。采用這種方式表示的目的是簡化比較。因為，指數的值可能為正也可能為負，如果采用補碼表示的話，全體符號位S和Exp自身的符號位將導致不能簡單的進行大小比較。正因為如此，指數部分通常采用一個無符號的正數值存儲。單精度的指數部分是−126～+127加上偏移值127，指數值的大小從1～254（0和255是特殊值）。浮點小數計算時，指數值減去偏正值將是實際的指數大小。
+S為符號位，Exp為指數位，Fraction為有效數位。 指數部分即使用所謂的**偏正值**形式表示，偏正值為實際的指數大小與一個固定值（32位的情況是127）的和。采用這種方式表示的目的是簡化比較。因為，指數的值可能為正也可能為負，如果采用[二補數](../Page/二補數.md "wikilink")表示的話，全體符號位S和Exp自身的符號位將導致不能簡單的進行大小比較。正因為如此，指數部分通常采用一個無符號的正數值存儲。單精度的指數部分是−126～+127加上偏移值127，指數值的大小從1～254（0和255是特殊值）。浮點小數計算時，指數值減去偏正值將是實際的指數大小。
 
 单精度浮点数各种极值情况：
 
@@ -241,7 +241,7 @@ Fraction
 
 </table>
 
-S為符號位，Exp為指數位，Fraction為有效數位。指數部分即使用所謂的偏正值形式表示，偏正值為實際的指數大小與一個固定值（64位的情況是1023）的和。采用這種方式表示的目的是簡化比較。因為，指數的值可能為正也可能為負，如果采用補碼表示的話，全體符號位S和Exp自身的符號位將導致不能簡單的進行大小比較。正因為如此，指數部分通常采用一個無符號的正數值存儲。雙精度的指數部分是−1022～+1023加上1023，指數值的大小從1～2046（0（2進位全為0）和2047（2進位全為1）是特殊值）。浮點小數計算時，指數值減去偏正值將是實際的指數大小。
+S為符號位，Exp為指數位，Fraction為有效數位。指數部分即使用所謂的偏正值形式表示，偏正值為實際的指數大小與一個固定值（64位的情況是1023）的和。采用這種方式表示的目的是簡化比較。因為，指數的值可能為正也可能為負，如果采用二補數表示的話，全體符號位S和Exp自身的符號位將導致不能簡單的進行大小比較。正因為如此，指數部分通常采用一個無符號的正數值存儲。雙精度的指數部分是−1022～+1023加上1023，指數值的大小從1～2046（0（2進位全為0）和2047（2進位全為1）是特殊值）。浮點小數計算時，指數值減去偏正值將是實際的指數大小。
 
 ### 浮點數的比較
 
@@ -336,7 +336,7 @@ int main () {
 ## 外部連結
 
   - [IEEE 754 references](https://web.archive.org/web/20070505021348/http://babbage.cs.qc.edu/courses/cs341/IEEE-754references.html)
-  - [Let's Get To The (Floating) Point by Chris Hecker](http://www.d6.com/users/checker/pdfs/gdmfp.pdf)
+  - [Let's Get To The (Floating) Point by Chris Hecker](https://web.archive.org/web/20070203082451/http://www.d6.com/users/checker/pdfs/gdmfp.pdf)
   - [What Every Computer Scientist Should Know About Floating-Point Arithmetic by David Goldberg](http://docs.sun.com/source/806-3568/ncg_goldberg.html) - a good introduction and explanation.
   - [IEEE 854-1987](http://www2.hursley.ibm.com/decimal/854mins.html) History and minutes
   - [Converter](https://web.archive.org/web/20070424205950/http://www.h-schmidt.net/FloatApplet/IEEE754.html)

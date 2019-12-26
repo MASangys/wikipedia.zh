@@ -875,267 +875,137 @@
 [Category:BLEACH](https://zh.wikipedia.org/wiki/Category:BLEACH "wikilink")
 
 1.  《Bleach》漫畫單行本第50集
-
 2.  《Bleach》漫畫第511章
-
 3.  《Bleach》漫畫第552章
-
 4.  《Bleach》漫畫第492章
-
 5.  《Bleach》漫畫第511章
-
 6.  《Bleach》漫畫第492章
-
 7.  《Bleach》漫畫第534章
-
 8.  《Bleach》漫畫第537章
-
 9.  《Bleach》漫畫第532章
-
 10. 《Bleach》漫畫第514章
-
 11. 《Bleach》漫畫第433章
-
 12. 《Bleach》漫畫第439章
-
 13. 《Bleach》漫畫第433章
-
 14. 《Bleach》漫畫第1章
-
 15. 《Bleach》漫畫第25章
-
 16. 《Bleach》漫畫第6章
-
 17. 《Bleach》漫畫第433章
-
 18. 《Bleach》漫畫第3章
-
 19. 《Bleach》漫畫第12章
-
 20. 死神《BLEACH》【UNMASKED】公式集番外漫畫
-
 21. 《Bleach》動畫第284集
-
 22. 《Bleach》漫畫第197章
-
 23. 《Bleach》漫畫第197章
-
 24. 《Bleach》漫畫第197章
-
 25. 《Bleach》漫畫第24章
-
 26. 《Bleach》漫畫單行本第8集38頁
-
 27. 《Bleach》漫畫第433章
-
 28.
 29. 《Bleach》漫畫第370章
-
 30. 《Bleach》漫畫第556章
-
 31. 《Bleach》漫畫第547章
-
 32. 《Bleach》官方小說『The Death Save The Strawberry 』
-
 33. 《Bleach》漫畫第409章
-
 34. 《Bleach》漫畫第519章
-
 35. 《Bleach》漫畫第190章
-
 36. 《Bleach》漫畫第586章
-
 37. 《Bleach》漫畫單行本第50集
-
 38. 《Bleach》漫畫第216章，第217章
-
 39. 《Bleach》漫畫第186章，第187章
-
 40. 《Bleach》UNMASKED公式集，四楓院夜一招式講解篇
-
 41. 《Bleach》漫畫第12章
-
 42. 《Bleach》漫畫第258章
-
 43. 《Bleach》動畫第224話與第225話
-
 44. 《Bleach》漫畫第386集
-
 45. 《Bleach》漫畫第299集
-
 46. 劇場版特別篇，動畫第299話
-
 47. 《Bleach》漫畫第625集
-
 48. 《Bleach》漫畫第381集
-
 49. 《Bleach》漫畫第523章
-
 50. 《Bleach》漫畫第507章
-
 51. 《Bleach》漫畫第504章
-
 52. 《Bleach》漫畫第408章
-
 53. 《Bleach》漫畫第187章，第188章
-
 54. 《Bleach》漫畫第521章&漫畫第540章
-
 55. 《Bleach》劇場版「鑽石冰塵的背叛」
-
 56. 《Bleach》漫畫單行本第27集、第28集、第42集，漫畫第507章
-
 57. 《Bleach》動畫第53、56、57話
-
 58. 《Bleach》漫畫第526章
-
 59. 《Bleach》漫畫第13章
-
 60. 《Bleach》漫畫第481章
-
 61. 《Bleach》漫畫第535章
-
 62. 《Bleach》漫畫第462章
-
 63. 《Bleach》漫畫第475章
-
 64. 《Bleach》漫畫第477章，動畫第366集
-
 65. 《Bleach》漫畫第437章
-
 66. 《Bleach》漫畫第424章
-
 67. 《Bleach》漫畫第438章
-
 68. 《Bleach》漫畫第521章
-
 69. 《Bleach》第13章
-
 70. 《Bleach》漫畫第16章
-
 71. 《Bleach》第237章
-
 72. 《Bleach》第522章
-
 73. 《Bleach》漫畫第12章
-
 74. 《Bleach》漫畫第4章
-
 75. 《Bleach》漫畫第-102章
-
 76. 《Bleach》漫畫第532章
-
 77. 《Bleach》漫畫第535章
-
 78. 《Bleach》漫畫第544章
-
 79. 《Bleach》漫畫第552章，漫畫第553章
-
 80. 《Bleach》漫畫第182章
-
 81. 《Bleach》漫畫第231、233章
-
 82. 《Bleach》漫畫第70章
-
 83. 《Bleach》漫畫第498章
-
 84. 《Bleach》漫畫第499章
-
 85. 《Bleach》漫畫第233章
-
 86. 《Bleach》漫畫第408章
-
 87. 《Bleach》漫畫第577章
-
 88. 《Bleach》漫畫第81章
-
 89. 《Bleach》漫畫第401章
-
 90. 《Bleach》官方小說『Spirits are forever with you』
-
 91. 《Bleach》動畫第200集
-
 92.
 93. 《Bleach》漫畫第519章
-
 94. 《Bleach》漫畫第585章
-
 95. 《BLEACH》OFFICIAL BOOTLEG カラブリ十
-
 96. 《BLEACH》OFFICIAL BOOTLEG カラブリ十
-
 97. 《Bleach》漫畫第518章
-
 98. 《Bleach》漫畫第520章
-
 99. 《Bleach》漫畫第520章
-
 100. 《Bleach》漫畫第520章
-
 101. 《Bleach》漫畫第81章
-
 102. 《Bleach》第129章
-
 103. 《Bleach》漫畫第489章
-
 104. 《Bleach》漫畫第99章
-
 105. 《Bleach》動畫209集
-
 106. 《Bleach》動畫308集
-
 107.
 108.
 109. 《Bleach》動畫第119集
-
 110. 《Bleach》漫畫第99章
-
 111. 《Bleach》漫畫第493章
-
 112. 《Bleach》漫畫第495章、496章
-
 113. 《Bleach》漫畫第498章、499章
-
 114. 《Bleach》漫畫第547章
-
 115. 《Bleach》漫畫第485章&486章
-
 116. 《Bleach》漫畫第486章
-
 117. 《Bleach》漫畫第500章，漫畫第543章
-
 118. 《Bleach》漫畫第484章
-
 119. 《Bleach》漫畫第514章
-
 120. 《Bleach》漫畫第490章
-
 121. 《Bleach》漫畫第555章
-
 122. 《Bleach》漫畫第554章
-
 123. 《Bleach》漫畫第555章
-
 124. 《Bleach》漫畫第500章，漫畫第543章
-
 125. 《Bleach》漫畫第504章
-
 126. 《Bleach》漫畫第553章
-
 127. 《Bleach》漫畫第509、510章
-
 128. 《Bleach》漫畫第552章
-
 129. 《Bleach》漫畫第543章
-
 130. 《Bleach》漫畫第485章
-
 131. 《Bleach》漫畫第433章
-
 132. 《Bleach》漫畫第432章、第445章、第446章
-
 133. 《Bleach》漫畫第439章、第452章
-
 134. 《Bleach》漫畫第443章
-
 135. 《Bleach》 第444章

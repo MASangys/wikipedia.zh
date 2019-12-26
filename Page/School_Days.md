@@ -496,70 +496,41 @@
 ## 外部連結
 
   - [School Days於0verflow公式網站](http://schooldays.0verflow.com/index.html) ※有年齡確認
-  - [電視動畫版官方網站](http://www.schooldays-anime.com/)
-  - [電視動畫版官方網站（avexmode）](http://www.avexmovie.jp/lineup/schooldays/)
+  - [電視動畫版官方網站](https://web.archive.org/web/20070807141426/http://www.schooldays-anime.com/)
+  - [電視動畫版官方網站（avexmode）](https://web.archive.org/web/20080104235943/http://www.avexmovie.jp/lineup/schooldays/)
   - [腾讯动漫：原来如此\!监督访谈](https://web.archive.org/web/20071105073433/http://comic.qq.com/a/20071031/000020.htm)
   - [網上電台「動漫廢物」的討論](http://www.cuhkacs.org/~acrubbish/blog/2008/acr117_schooldays.html)
 
 [Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:多重结局电子游戏](https://zh.wikipedia.org/wiki/Category:多重结局电子游戏 "wikilink") [Category:2007年UHF動畫](https://zh.wikipedia.org/wiki/Category:2007年UHF動畫 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:UMDPG](https://zh.wikipedia.org/wiki/Category:UMDPG "wikilink") [Category:學校背景作品](https://zh.wikipedia.org/wiki/Category:學校背景作品 "wikilink") [Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink") [Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink") [Category:神奈川縣背景作品](https://zh.wikipedia.org/wiki/Category:神奈川縣背景作品 "wikilink")
 
 1.
-
 2.
-
 3.  [《日在校园 L×H》年底发售\!](http://www.comic.gov.cn/info/goods/2007-09-03/4613.html)
-
 4.  [《黑化角色大全》上架发售\!爱他就要插死你\!](http://comic.yesky.com/274/8326274.shtml)
-
 5.  [AT-X - What'sNew 關於9月6日播放《School Days》第9話以後的收看年齡限制](http://www.at-x.com/whats_new/detail.html/1275)
-
 6.  [挑战和谐耻度\!《日在校园》轻松迈向15禁](http://www.comic.gov.cn/info/caton/2007-09-01/4599.html)
-
 7.  [贪婪大陆：品尝言叶制作的柠檬水！SCHOOL DAYS特别活动开催决定](http://news.greedland.net/Channel/content/2007/200709/20070913/9417.html)
-
 8.  [](http://www.asahi.com/national/update/0918/TKY200709180043.html)
-
 9.
-
 10.
-
 11.
 12. [](http://www.mainichi-msn.co.jp/entertainment/manga/manganews/news/20070919mog00m200002000c.html)
-
-13. [](http://www.schooldays-anime.com/news/newspup/index.html)
-
+13. 「School Days」12話放送休止に関して}} |access-date=2007-09-20 |archive-url=<https://web.archive.org/web/20071001172621/http://www.schooldays-anime.com/news/newspup/index.html> |archive-date=2007-10-01 |dead-url=yes }}
 14.
-
 15.
-
 16.
-
 17.
-
 18. [Yahoo\!搜尋 急升的時事搜尋關鍵字排名](http://searchblog.yahoo.co.jp/2007/09/post_52.html)
-
 19. [Hatena - Nice boat](http://d.hatena.ne.jp/keyword/Nice%20boat)
-
 20.
-
 21. [KomicaWiki - Nice Boat](http://komica.dyndns.org/wiki/?cmd=read&page=Nice%20Boat&word=nice%20boat)
-
 22.
-
 23.
-
 24.
-
 25. [試映會訊息網頁日本時間2007年9月26日0時的魚拓](http://megalodon.jp/?url=http://12.0verflow.com/&date=20070926005143)
-
 26. [試映會訊息網頁](http://12.0verflow.com/)
-
 27. [黑化女对决最终话\!《日在校园》奏响和谐人渣死魂神曲\!](http://comic.fznews.com.cn/News/2007-9-29/2007929jd7qd9jxa_101535.shtml)
-
 28.
-
 29.
-
 30.
-
 31. [Top 10 Anime Deaths - YouTube](https://www.youtube.com/watch?v=XVVUJGYCLTA)

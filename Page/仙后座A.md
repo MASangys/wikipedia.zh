@@ -61,37 +61,22 @@
 
 1.
 2.
-
 3.  Howard Banich. *A Visual Guide to the Cassiopeia A Supernova Remnant.* Sky & Telescope, December 2014.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
 11.
-
 12.
 13.
-
 14. {{ cite journal |vauthors=Bowyer S, Byram ET, Chubb TA, Friedman H |title=Observational results of X-ray astronomy |series=Symposium |journal=Astronomical Observations from Space Vehicles, Proceedings from Symposium no. 23 held in Liege, Belgium, 17 to 20 August 1964. |editor=Steinberg JL |publisher=[International Astronomical Union](https://zh.wikipedia.org/wiki/International_Astronomical_Union "wikilink") |date=1965 |volume=no. 23 |issue= |pages=227–39 |bibcode=1965IAUS...23..227B }}
-
 15. {{ cite journal |vauthors=Fisher PC, Johnson HM, Jordan WC, Meyerott AJ, Acton LW |title=Observations of Cosmic X-rays |journal=Astrophysical Journal |date=1966 |volume=143 |pages=203–17 |bibcode=1966ApJ...143..203F |doi=10.1086/148491 }}
-
 16. {{ cite journal |vauthors=Byram ET, Chubb TA, Friedman H |title=Cosmic X-ray Sources, Galactic and Extragalactic | journal=[Science](https://zh.wikipedia.org/wiki/Science_\(journal\) "wikilink") |date=Apr 1966 |volume=152 |issue=3718 |pages=66–71 |url=<http://www.sciencemag.org/cgi/content/abstract/152/3718/66> |doi=10.1126/science.152.3718.66 |pmid=17830233 |bibcode = 1966Sci...152...66B }}
-
 17. {{ cite journal |vauthors=Friedman H, Byram ET, Chubb TA |title=Distribution and Variability of Cosmic X-Ray Sources | journal=[Science](https://zh.wikipedia.org/wiki/Science_\(journal\) "wikilink") |date=April 1967 |volume=156 |issue=3773 |pages=374–8 |url=<http://www.sciencemag.org/cgi/content/abstract/156/3773/374> |doi=10.1126/science.156.3773.374 |pmid=17812381 |bibcode = 1967Sci...156..374F }}
-
 18. {{ cite journal |author=Webber WR |title=X-ray astronomy-1968 vintage |journal=Proc Astron Soc Australia. |volume=1 |date=December 1968 |pages=160–4 |bibcode=1968PASAu...1..160W }}
-
 19.
-
 20.
-
 21.

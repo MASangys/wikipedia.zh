@@ -58,7 +58,7 @@
 | [龐統](https://zh.wikipedia.org/wiki/龐統 "wikilink")   | [河內孝博](../Page/河內孝博.md "wikilink")                    | [幻杖](https://zh.wikipedia.org/wiki/杖 "wikilink")（豪風神杖）      | 水鏡絹布                                                      |
 | [月英](../Page/黃夫人.md "wikilink")                     | [笠原留美](../Page/笠原留美.md "wikilink")                    | [戰戈](https://zh.wikipedia.org/wiki/戈 "wikilink")（湖底蒼月）      | 絡繰人形                                                      |
 | [關平](../Page/關平.md "wikilink")                      | [中尾良平](https://zh.wikipedia.org/wiki/中尾良平 "wikilink") | [斬馬刀](https://zh.wikipedia.org/wiki/斬馬刀 "wikilink")（神龍昇天刀）  | 雲長鉢巻                                                      |
-| [星彩](https://zh.wikipedia.org/wiki/敬哀皇后 "wikilink") | [野田順子](https://zh.wikipedia.org/wiki/野田順子 "wikilink") | [叉突矛](https://zh.wikipedia.org/wiki/矛 "wikilink")（煌天）       | 翼徳之首飾                                                     |
+| [星彩](https://zh.wikipedia.org/wiki/敬哀皇后 "wikilink") | [野田順子](../Page/野田順子.md "wikilink")                    | [叉突矛](https://zh.wikipedia.org/wiki/矛 "wikilink")（煌天）       | 翼徳之首飾                                                     |
 
 **魏國**
 
@@ -99,18 +99,18 @@
 
 **他國**
 
-| 人物名稱                                                | 聲優                                                    | 武器（Lv4武器）                                                                                                 | 道具                                                    |
-| --------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| [貂蟬](https://zh.wikipedia.org/wiki/貂蟬 "wikilink")   | [小松里歌](../Page/小松里歌.md "wikilink")                    | 雙[鎚](https://zh.wikipedia.org/wiki/鎚 "wikilink")（金麗玉鎚）                                                    | 奉先簪                                                   |
-| [呂布](https://zh.wikipedia.org/wiki/呂布 "wikilink")   | [稻田徹](../Page/稻田徹.md "wikilink")                      | [鐵戟](https://zh.wikipedia.org/wiki/方天戟 "wikilink")（無雙[方天戟](https://zh.wikipedia.org/wiki/方天戟 "wikilink")） | 飛將鎧                                                   |
-| [董卓](../Page/董卓.md "wikilink")                      | [堀之紀](../Page/堀之紀.md "wikilink")                      | 獄[刀](https://zh.wikipedia.org/wiki/刀 "wikilink")（[阿修羅](https://zh.wikipedia.org/wiki/阿修羅 "wikilink")）     | [九錫](https://zh.wikipedia.org/wiki/九錫 "wikilink")     |
-| [袁紹](https://zh.wikipedia.org/wiki/袁紹 "wikilink")   | [龍谷修武](../Page/龍谷修武.md "wikilink")                    | 寶[劍](../Page/劍.md "wikilink")（真霸道劍）                                                                       | 霸道鎧                                                   |
-| [張角](../Page/張角.md "wikilink")                      | [川津泰彥](https://zh.wikipedia.org/wiki/川津泰彥 "wikilink") | 妖杖（轟火神杖）                                                                                                  | [太平要術](https://zh.wikipedia.org/wiki/太平要術 "wikilink") |
-| [孟獲](../Page/孟獲.md "wikilink")                      | [幸野善之](../Page/幸野善之.md "wikilink")                    | 蠻拳（百獸王）                                                                                                   | 南中王之王冠                                                |
-| [祝融](https://zh.wikipedia.org/wiki/祝融夫人 "wikilink") | [米本千珠](../Page/米本千珠.md "wikilink")                    | [投弧刃](https://zh.wikipedia.org/wiki/飛去來器 "wikilink")（業火）                                                  | 火神之羽                                                  |
-| [左慈](../Page/左慈.md "wikilink")                      | [佐藤正治](../Page/佐藤正治.md "wikilink")                    | 呪符（冥天照符）                                                                                                  | 遁甲天書                                                  |
-| [遠呂智](../Page/八岐大蛇.md "wikilink")                   | [置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")                  | 鐮刀（無間）                                                                                                    | 神變鬼毒酒                                                 |
-| [妲己](../Page/妲己.md "wikilink")                      | [金月真美](../Page/金月真美.md "wikilink")                    | 妖玉（崩國）                                                                                                    | [殺生石](../Page/殺生石.md "wikilink")                      |
+| 人物名稱                                                | 聲優                                                    | 武器（Lv4武器）                                                                                             | 道具                                                    |
+| --------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| [貂蟬](https://zh.wikipedia.org/wiki/貂蟬 "wikilink")   | [小松里歌](../Page/小松里歌.md "wikilink")                    | 雙[鎚](https://zh.wikipedia.org/wiki/鎚 "wikilink")（金麗玉鎚）                                                | 奉先簪                                                   |
+| [呂布](https://zh.wikipedia.org/wiki/呂布 "wikilink")   | [稻田徹](../Page/稻田徹.md "wikilink")                      | [鐵戟](../Page/方天戟.md "wikilink")（無雙[方天戟](../Page/方天戟.md "wikilink")）                                   | 飛將鎧                                                   |
+| [董卓](../Page/董卓.md "wikilink")                      | [堀之紀](../Page/堀之紀.md "wikilink")                      | 獄[刀](https://zh.wikipedia.org/wiki/刀 "wikilink")（[阿修羅](https://zh.wikipedia.org/wiki/阿修羅 "wikilink")） | [九錫](https://zh.wikipedia.org/wiki/九錫 "wikilink")     |
+| [袁紹](https://zh.wikipedia.org/wiki/袁紹 "wikilink")   | [龍谷修武](../Page/龍谷修武.md "wikilink")                    | 寶[劍](../Page/劍.md "wikilink")（真霸道劍）                                                                   | 霸道鎧                                                   |
+| [張角](../Page/張角.md "wikilink")                      | [川津泰彥](https://zh.wikipedia.org/wiki/川津泰彥 "wikilink") | 妖杖（轟火神杖）                                                                                              | [太平要術](https://zh.wikipedia.org/wiki/太平要術 "wikilink") |
+| [孟獲](../Page/孟獲.md "wikilink")                      | [幸野善之](../Page/幸野善之.md "wikilink")                    | 蠻拳（百獸王）                                                                                               | 南中王之王冠                                                |
+| [祝融](https://zh.wikipedia.org/wiki/祝融夫人 "wikilink") | [米本千珠](../Page/米本千珠.md "wikilink")                    | [投弧刃](https://zh.wikipedia.org/wiki/飛去來器 "wikilink")（業火）                                              | 火神之羽                                                  |
+| [左慈](../Page/左慈.md "wikilink")                      | [佐藤正治](../Page/佐藤正治.md "wikilink")                    | 呪符（冥天照符）                                                                                              | 遁甲天書                                                  |
+| [遠呂智](../Page/八岐大蛇.md "wikilink")                   | [置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")                  | 鐮刀（無間）                                                                                                | 神變鬼毒酒                                                 |
+| [妲己](../Page/妲己.md "wikilink")                      | [金月真美](../Page/金月真美.md "wikilink")                    | 妖玉（崩國）                                                                                                | [殺生石](../Page/殺生石.md "wikilink")                      |
 
 **戰國1**
 

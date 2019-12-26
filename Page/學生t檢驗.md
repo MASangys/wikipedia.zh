@@ -9,17 +9,8 @@
 最常用t检验的情况有：
 
   - 单样本检验：检验一个[正态分布](../Page/正态分布.md "wikilink")的总体的均值是否在满足零假设的值之内，例如檢驗一群軍校男生的身高的平均是否符合全國標準的170公分界線。
-
-<!-- end list -->
-
   - 双样本检验：其[零假设](../Page/零假设.md "wikilink")为两个正态分布的总体的均值之差為某實數，例如檢驗二群人的身高之平均是否相等。这一检验通常被称为学生t检验。但更为严格地说，只有两个总体的方差是相等的情况下，才称为学生t检验；否则，有时被称为Welch检验。以上谈到的检验一般被称作“未配对”或“独立样本”t检验，我们特别是在两个被检验的样本没有重叠部分时用到这种检验方式。
-
-<!-- end list -->
-
   - “配对”或者“重复测量”t检验：检验同一统计量的两次测量值之间的差异是否为零。举例来说，我们测量一位病人接受治疗前和治疗后的肿瘤尺寸大小。如果治疗是有效的，我们可以推定多数病人接受治疗后，肿瘤尺寸應該是变小了。
-
-<!-- end list -->
-
   - 检验一条回归线的斜率是否显著不为零。
 
 ## 前提假設
@@ -134,11 +125,7 @@ SE_{\\widehat\\beta} = \\frac{\\sqrt{\\frac{1}{n - 2}\\sum_{i=1}^n (y_i - \\wide
 [Category:统计检验](https://zh.wikipedia.org/wiki/Category:统计检验 "wikilink")
 
 1.  Richard Mankiewicz, *The Story of Mathematics* (Princeton University Press), p.158.
-
 2.
-
 3.
-
 4.  <http://www.aliquote.org/cours/2012_biomed/biblio/Student1908.pdf>
-
 5.

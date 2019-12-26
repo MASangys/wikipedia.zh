@@ -409,56 +409,35 @@ ScaleMajor = gridcolor:line unit:year increment:1 start:2002
 [Category:NBA_G联盟](https://zh.wikipedia.org/wiki/Category:NBA_G联盟 "wikilink") [Category:籃球聯盟](https://zh.wikipedia.org/wiki/Category:籃球聯盟 "wikilink") [Category:2001年美國建立](https://zh.wikipedia.org/wiki/Category:2001年美國建立 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.
 17.
 18.
-
 19.
-
 20.  此等譯名根據NBA中國官方網站的相關球員和教練名稱，參考於UTC時間2006年8月13日19:35。
-
 21.
 22.
 23.
 24.
-
 25.  [NBA全球社区公益活动「NBA关怀行动」展开](http://china.nba.com/20051019/n227248385.shtml) 一文中Commisioner譯作主席。
-
 26.
-
 27.
-
 28.
 29.
 30.
-
 31.
 32.
 33.

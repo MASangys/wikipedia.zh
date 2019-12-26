@@ -1,4 +1,4 @@
-**BONES**（****）是日本的一家動畫工作室，由于旗下一些较高水準的动画作品，而受到业内外瞩目。其代表作有《[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師_\(電視動畫\) "wikilink")》、《[交响诗篇](../Page/交响诗篇.md "wikilink")》、《[狼雨](../Page/狼雨.md "wikilink")》、《[櫻蘭高校男公關部](../Page/櫻蘭高校男公關部.md "wikilink")》、《[東京震級8.0](https://zh.wikipedia.org/wiki/東京震級8.0 "wikilink")》、《[血界戰線](../Page/血界戰線.md "wikilink")》、《[文豪Stray Dogs](../Page/文豪Stray_Dogs.md "wikilink")》、《[我的英雄學院](../Page/我的英雄學院.md "wikilink")》等等。
+**BONES**（****）是日本的一家動畫工作室，由於旗下一些較高水準的動畫作品，而受到業内外瞩目。其代表作有《[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師_\(電視動畫\) "wikilink")》、《[交响诗篇](../Page/交响诗篇.md "wikilink")》、《[狼雨](../Page/狼雨.md "wikilink")》、《[櫻蘭高校男公關部](../Page/櫻蘭高校男公關部.md "wikilink")》、《[東京地震8.0](../Page/東京地震8.0.md "wikilink")》、《[血界戰線](../Page/血界戰線.md "wikilink")》、《[文豪Stray Dogs](../Page/文豪Stray_Dogs.md "wikilink")》、《[我的英雄學院](../Page/我的英雄學院.md "wikilink")》、《[路人超能100](../Page/路人超能100.md "wikilink")》等等。
 
 ## 历史
 
@@ -53,15 +53,16 @@ BONES工作室是在1998年10月由前[日昇動畫](../Page/日昇動畫.md "wi
   - [文豪Stray Dogs](../Page/文豪Stray_Dogs.md "wikilink") 第一季（2016年4月6日－2016年6月22日）
   - [SHOW BY ROCK\!\! Short\!\!](../Page/SHOW_BY_ROCK!!.md "wikilink")（2016年7月4日－2016年9月19日）
   - [路人超能100](../Page/路人超能100.md "wikilink")（2016年7月11日－9月26日）
-  - [SHOW BY ROCK\!\! 第二季](../Page/SHOW_BY_ROCK!!.md "wikilink")（2016年2016年10月2日－2016年12月18日）
+  - [SHOW BY ROCK\!\! 第二季](../Page/SHOW_BY_ROCK!!.md "wikilink")（2016年10月2日－2016年12月18日）
   - [文豪Stray Dogs](../Page/文豪Stray_Dogs.md "wikilink") 第二季（2016年10月6日－2016年12月16日）
   - [我的英雄學院](../Page/我的英雄學院.md "wikilink") 第二季 （2017年4月1日 - 2017年9月30日）
   - [血界戰線](../Page/血界戰線.md "wikilink") 第二季（2017年10月8日－2017年12月24日）
-  - [我的英雄學院](../Page/我的英雄學院.md "wikilink") 第三季 （2018年4月7日－9月29日）
+  - [我的英雄學院](../Page/我的英雄學院.md "wikilink") 第三季 （2018年4月7日－2018年9月29日）
   - [飛龍女孩](../Page/飛龍女孩.md "wikilink")（2018年4月12日－2018年6月28日）
-  - [路人超能100](../Page/路人超能100.md "wikilink") 第二季（2019年1月7日－）
-  - [卡萝与星期二](https://zh.wikipedia.org/wiki/Carole_&_Tuesday "wikilink")（2019年4月10日－）
-  - [文豪Stray Dogs](../Page/文豪Stray_Dogs.md "wikilink") 第三季（2019年4月12日－6月30日）
+  - [路人超能100](../Page/路人超能100.md "wikilink") 第二季（2019年1月7日－2019年4月1日）
+  - [卡萝与星期二](https://zh.wikipedia.org/wiki/Carole_&_Tuesday "wikilink")（2019年4月10日－2019年10月3日）
+  - [文豪Stray Dogs](../Page/文豪Stray_Dogs.md "wikilink") 第三季（2019年4月12日－2019年6月30日）
+  - [我的英雄學院](../Page/我的英雄學院.md "wikilink") 第四季 （2019年10月12日－）
 
 <table>
 <thead>

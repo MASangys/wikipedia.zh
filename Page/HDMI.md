@@ -1065,4 +1065,4 @@ HDMI是HDMI Licensing, LLC的登录商标。使用HDMI规格需缴付版权费�
 5.
 6.
 7.
-8.  [HDMI :: Manufacturer :: Becoming an Adopter :: Terms](http://www.hdmi.org/manufacturer/terms.aspx)
+8.

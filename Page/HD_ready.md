@@ -32,7 +32,7 @@
 
 ## 外部連結
 
-  - [HD ready official UK website](http://www.hdready.org.uk/)
+  - [HD ready official UK website](https://web.archive.org/web/20060105070114/http://www.hdready.org.uk/)
   - [EICTA's website](https://web.archive.org/web/20060207144453/http://www.eicta.org/press.asp?level2=24&level1=6&level0=1&docid=398)
 
 [Category:影片和電影技術](https://zh.wikipedia.org/wiki/Category:影片和電影技術 "wikilink") [Category:電視技術](https://zh.wikipedia.org/wiki/Category:電視技術 "wikilink") [Category:高清晰度电视](https://zh.wikipedia.org/wiki/Category:高清晰度电视 "wikilink")

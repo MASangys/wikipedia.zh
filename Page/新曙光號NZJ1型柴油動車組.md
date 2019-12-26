@@ -219,6 +219,7 @@ SYZ<sub>25DT</sub> 349604</p>
   - [金轮号柴油动车组](https://zh.wikipedia.org/wiki/金轮号NZJ2型柴油动车组 "wikilink")
   - [NDJ3型柴油动车组](../Page/NDJ3型柴油动车组.md "wikilink")
   - [东风11型柴油机车](https://zh.wikipedia.org/wiki/东风11型柴油机车 "wikilink")
+  - [中国动车组列表](https://zh.wikipedia.org/wiki/中国动车组列表 "wikilink")
 
 ## 参考文献
 

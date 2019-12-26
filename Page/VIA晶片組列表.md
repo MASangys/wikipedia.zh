@@ -1046,76 +1046,43 @@ ECC</a></p></th>
 [Category:威盛電子](https://zh.wikipedia.org/wiki/Category:威盛電子 "wikilink") [Category:主板](https://zh.wikipedia.org/wiki/Category:主板 "wikilink") [Category:计算机硬件列表](https://zh.wikipedia.org/wiki/Category:计算机硬件列表 "wikilink")
 
 1.
-
 2.  Lal Shimpi, Anand. [Chipset Guide](http://www.anandtech.com/printarticle.aspx?i=155), Anandtech, August 1, 1997.
-
 3.
 4.
 5.
 6.  <http://www.anandtech.com/show/72/18>
-
 7.
 8.  [VIA Apollo MVP3](http://www.via.com.tw/en/products/apollo/mvp3.jsp) , VIA Technologies, accessed August 22, 2007.
-
 9.  [VIA Apollo MVP4](http://www.via.com.tw/en/products/apollo/mvp4.jsp) , VIA Technologies, accessed August 22, 2007.
-
 10.
 11. [VIA K8T800](http://www.via.com.tw/en/products/chipsets/k8-series/k8t800/), VIA Technologies, accessed December 1, 2009.
-
 12. [VIA K8M800](http://www.via.com.tw/en/products/chipsets/k8-series/k8m800/), VIA Technologies, accessed December 1, 2009.
-
 13. [VIA K8T800 Pro](http://www.via.com.tw/en/products/chipsets/k8-series/k8t800pro/) , VIA Technologies, accessed December 1, 2009.
-
 14. [VIA K8T890](http://www.via.com.tw/en/products/chipsets/k8-series/k8t890/), VIA Technologies, accessed August 21, 2007.
-
 15. [VIA K8M890](http://www.via.com.tw/en/products/chipsets/k8-series/k8m890/), VIA Technologies, accessed August 21, 2007.
-
 16. [VIA K8T900](http://www.via.com.tw/en/products/chipsets/k8-series/k8t900/), VIA Technologies, accessed August 21, 2007.
-
 17. [VIA PT800](http://www.via.com.tw/en/products/chipsets/p4-series/pt800/), VIA Technologies, accessed August 21, 2007.
-
 18. [VIA PM800](http://www.via.com.tw/en/products/chipsets/p4-series/pm800/), VIA Technologies, accessed August 21, 2007.
-
 19. [VIA PT880](http://www.via.com.tw/en/products/chipsets/p4-series/pt880/), VIA Technologies, accessed August 21, 2007.
-
 20. [VIA PM880](http://www.via.com.tw/en/products/chipsets/p4-series/pm880/), VIA Technologies, accessed August 21, 2007.
-
 21. [VIA P4M800](http://www.via.com.tw/en/products/chipsets/p4-series/p4m800/), VIA Technologies, accessed August 21, 2007.
-
 22. [VIA P4M800 Pro](http://www.via.com.tw/en/products/chipsets/p4-series/p4m800_pro/) , VIA Technologies, accessed August 21, 2007.
-
 23. [VIA PT880 Pro](http://www.via.com.tw/en/products/chipsets/p4-series/pt880pro/) , VIA Technologies, accessed August 21, 2007.
-
 24. [VIA PT880 Ultra](http://www.via.com.tw/en/products/chipsets/p4-series/pt880_ultra/) , VIA Technologies, accessed August 21, 2007.
-
 25. [VIA PT894](http://www.via.com.tw/en/products/chipsets/p4-series/pt894/) , VIA Technologies, accessed August 21, 2007.
-
 26. [VIA PT894 Pro](http://www.via.com.tw/en/products/chipsets/p4-series/pt894pro/) , VIA Technologies, accessed August 21, 2007.
-
 27. [VIA P4M890](http://www.via.com.tw/en/products/chipsets/p4-series/p4m890/), VIA Technologies, accessed August 21, 2007.
-
 28. [VIA PT890](http://www.via.com.tw/en/products/chipsets/p4-series/pt890/), VIA Technologies, accessed August 21, 2007.
-
 29. [VIA P4M900](http://www.via.com.tw/en/products/chipsets/p4-series/p4m900/), VIA Technologies, accessed August 21, 2007.
-
 30. [VIA VX700](http://www.via.com.tw/en/products/chipsets/v-series/vx700/index.jsp), VIA Technologies, accessed June 9, 2009.
-
 31. [VIA CN700](http://www.via.com.tw/en/products/chipsets/c-series/cn700/index.jsp), VIA Technologies, accessed June 9, 2009.
-
 32. [VIA CN800](http://www.via.com.tw/en/products/chipsets/c-series/cn800/index.jsp), VIA Technologies, accessed June 9, 2009.
-
 33. [VIA CN896](http://www.via.com.tw/en/products/chipsets/c-series/cn896/index.jsp), VIA Technologies, accessed June 9, 2009.
-
 34. [VIA VX800](http://www.via.com.tw/en/products/chipsets/v-series/vx800/index.jsp), VIA Technologies, accessed June 9, 2009.
-
 35. [VIA VX855](http://www.via.com.tw/en/products/chipsets/v-series/vx855/index.jsp), VIA Technologies, accessed June 9, 2009.
-
 36. [VIA VX900](http://www.via.com.tw/en/products/chipsets/v-series/vx900/index.jsp), VIA Technologies, accessed July 20, 2010.
-
 37. [VIA VN1000](http://www.via.com.tw/en/products/chipsets/v-series/vn1000/index.jsp), VIA Technologies, accessed December 10, 2009.
-
 38. [VIA VX11H](http://www.viaembedded.com/en/products/processors/1951/1/VX11_Media_System_Processor.html), VIA Technologies, accessed December 10, 2009.
-
 39.
 40.
 41.
@@ -1124,7 +1091,5 @@ ECC</a></p></th>
 44.
 45.
 46. <http://www.via.com.tw/en/products/chipsets/southbridge/vt8237a/index.jsp>
-
 47. <http://www.via.com.tw/en/products/chipsets/southbridge/vt8251/index.jsp>
-
 48. <http://www.via.com.tw/en/products/chipsets/southbridge/vt8261/index.jsp>

@@ -105,50 +105,30 @@
 [Category:美国法学家](https://zh.wikipedia.org/wiki/Category:美国法学家 "wikilink") [Category:哥倫比亞大學校友](https://zh.wikipedia.org/wiki/Category:哥倫比亞大學校友 "wikilink") [Category:葡萄牙裔美國人](https://zh.wikipedia.org/wiki/Category:葡萄牙裔美國人 "wikilink") [Category:美國犹太人](https://zh.wikipedia.org/wiki/Category:美國犹太人 "wikilink") [Category:紐約市人](https://zh.wikipedia.org/wiki/Category:紐約市人 "wikilink") [Category:美国最高法院大法官](https://zh.wikipedia.org/wiki/Category:美国最高法院大法官 "wikilink")
 
 1.
-
 2.  Cardozo's maternal grandparents, Sara Seixas and Isaac Mendes Seixas Nathan, and his paternal grandparents, Ellen Hart and Michael H. Cardozo
-
 3.
 4.
 5.  [Mark Sherman, 'First Hispanic justice? Some say it was Cardozo', The Associated Press, 2009.](https://www.google.com/hostednews/ap/article/ALeqM5gAI5nmLX1RQsIwqKl2XwUCMt3uwAD98E7O5O0)
-
 6.
-
 7.
-
 8.
 9.  [Supreme Court Justices Who Are Phi Beta Kappa Members](http://www.pbk.org/userfiles/file/Famous%20Members/PBKSupremeCourtJustices.pdf) , ‘’Phi Beta Kappa website’’, accessed Oct 4, 2009
-
 10.
-
 11.
 12.
 13. [Designation](https://query.nytimes.com/mem/archive-free/pdf?res=9B0DEED81F3BE633A25750C0A9649C946596D6CF) in NYT on February 3, 1914
-
 14.
 15.
 16. *People of the State of New York v. John Defore*, 150 N.E. 585 (1926).
-
 17.
-
 18.  ISBN 978-0976682608.
-
 19.  ISBN 978-0674960527
-
 20.
-
 21.
-
 22. (*New York Times*, February 25, 1932, p. 1)
-
 23. (*New York Times*, March 2, 1932, p. 13)
-
 24. (Handler, 1995)
-
 25.  [Supreme Court Historical Society](https://zh.wikipedia.org/wiki/Supreme_Court_Historical_Society "wikilink") at [Internet Archive](https://zh.wikipedia.org/wiki/Internet_Archive "wikilink").
-
 26. *See also*, Christensen, George A., *Here Lies the Supreme Court: Revisited*, *Journal of Supreme Court History*, Volume 33 Issue 1, Pages 17 – 41 (19 Feb 2008), [University of Alabama](https://zh.wikipedia.org/wiki/University_of_Alabama "wikilink").
-
 27. [Benjamin Cardozo.](https://www.jewishvirtuallibrary.org/jsource/biography/cardozo.html), Jewish Virtual Library,
-
 28. As quoted in *Nine Old Men* (1936) by Drew Pearson and Robert Sharon Allen, p. 221.

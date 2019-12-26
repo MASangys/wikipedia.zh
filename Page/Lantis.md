@@ -124,6 +124,10 @@
 
   - [大橋彩香](../Page/大橋彩香.md "wikilink")
 
+̈\*[ORESAMA](../Page/ORESAMA.md "wikilink")
+
+  - rionos
+
 ### kiramune所属者
 
   - （[岩田光央](../Page/岩田光央.md "wikilink")・[鈴村健一](../Page/鈴村健一.md "wikilink")）
@@ -569,6 +573,7 @@
   - [輕拍翻轉小魔女](../Page/輕拍翻轉小魔女.md "wikilink")
   - [LoveLive\! Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")
   - [百無禁忌！女高中生私房話](../Page/百無禁忌！女高中生私房話.md "wikilink")
+  - [神裝少女小纏](../Page/神裝少女小纏.md "wikilink")
 
 **2017年**
 
@@ -585,7 +590,7 @@
   - [天使的3P！](../Page/天使的3P！.md "wikilink")
   - [劇場版 Fate/kaleid liner 魔法少女☆伊莉雅 雪下的誓言](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
   - [如果有妹妹就好了。](../Page/如果有妹妹就好了。.md "wikilink")
-  - [LoveLive\! Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!!二期 "wikilink")
+  - LoveLive\! Sunshine\!\!第二期
 
 ## 參考資料
 

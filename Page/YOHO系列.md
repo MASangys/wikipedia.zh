@@ -163,7 +163,7 @@ YOHO Town 第一期設有行人天橋經商場直達[西鐵綫](../Page/西鐵�
 3.  YOHO開售73萬一伙最低呎價1399元 《新報》 2003年7月3日
 4.  [新鴻基向城規會提出的規劃申請 A/YL/196](http://www.info.gov.hk/tpb/tc/plan_application/Attachment/20130319/s16_A_YL_196_0_gist.pdf) (2013年3月19日)
 5.  [新地捐元朗逾萬尺地予聖公會建宿舍　市值6成租給年輕人住 香港01 2016-07-05](http://www.hk01.com/%E6%B8%AF%E8%81%9E/29810/%E6%96%B0%E5%9C%B0%E6%8D%90%E5%85%83%E6%9C%97%E9%80%BE%E8%90%AC%E5%B0%BA%E5%9C%B0%E4%BA%88%E8%81%96%E5%85%AC%E6%9C%83%E5%BB%BA%E5%AE%BF%E8%88%8D-%E5%B8%82%E5%80%BC6%E6%88%90%E7%A7%9F%E7%B5%A6%E5%B9%B4%E8%BC%95%E4%BA%BA%E4%BD%8F)
-6.  [新鴻基年報](http://www.shkp.com.hk/Content/Uploads/Reports/E00016_AR_201314.pdf)
+6.
 7.  新地區內3項目 6000伙待售 香港經濟日報 2014-02-06
 8.  港鐵在元朗站H出口旁圍版的告示
 9.  [元朗水車館街　—　上水新發街](http://www.16seats.net/chi/rmb/r_n17.html)

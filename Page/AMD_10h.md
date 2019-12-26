@@ -278,63 +278,38 @@ AMD將在2009年開始試產下一代處理器核心架構**[Bulldozer](../Page/
 [Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink") [Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink") [Category:2007年面世的產品](https://zh.wikipedia.org/wiki/Category:2007年面世的產品 "wikilink")
 
 1.  [Revision Guide for AMD Family 10h Processors](http://support.amd.com/us/Processor_TechDocs/41322_10h_Rev_Gd.pdf)
-
 2.  [AMD处理器: K10处理器正式定名"AMD 10h处理器家族"](http://cpu.thethirdmedia.com/article/200708/show84979c49p1.html)
-
 3.  [AMD's K10 is delayed or dead](http://www.theinquirer.net/?article=27421), The Inquirer
-
 4.  主要是Phenom II X6系列、Phenom II X4 980BE/975BE/970BE、Athlon II X4 631/641/651K、AthlonII X2 221、A8-3800/3500M系列、A6-3600/3400M系列、A4-3400/3300M系列
-
 5.  [山猫威武！AMD每卖四颗处理器 就有仨APU](http://news.mydrivers.com/1/247/247226.htm) - mydrivers.com
-
 6.  [The Inquirer report](http://www.theinquirer.net/default.aspx?article=27421)
-
 7.  [显示世界的2012终篇 显卡业界深度解析](http://vga.zol.com.cn/334/3343637_all.html) - zol.com.cn
-
 8.  [Video interview of Giuseppe Amato (AMD's Technical Director, Sales and Marketing EMEA)](http://www.syndrome-oc.net/articles.php?article=94&lang=en)  於2007年2月
-
 9.  [AMD K10.5四核心初體驗 Athlon II X4 635簡測](http://www.coolaler.com/entry.php/610-AMD-K10-5%E5%9B%9B%E6%A0%B8%E5%BF%83%E5%88%9D%E9%AB%94%E9%A9%97-Athlon-II-X4-635%E7%B0%A1%E6%B8%AC)  - 滄者極限 coolaler.com
-
 10. [AMD K10处理器将启用新名称“10h”](http://www.enet.com.cn/article/2007/0509/A20070509577260.shtml)
-
 11. 可見於[AIDA64](../Page/AIDA64.md "wikilink")、[CPU-Z](../Page/CPU-Z.md "wikilink")等系統資訊檢測軟體
-
 12.
-
 13. [2006 AMD Analyst Day 2006 page](http://www.amd.com/us-en/Corporate/InvestorRelations/0,,51_306_14047,00.html)
-
 14.
-
 15. [Intel曾经也败过！回忆AMD史上的经典CPU](http://diy.pconline.com.cn/cpu/study_cpu/1111/2573121_all.html) - pconline.com.cn
-
 16. [迈进新时代\!AMD新旗舰Phenom II全国首测 page3](http://diy.pconline.com.cn/cpu/reviews/0901/1532965_3.html) - pconline.com.cn
-
 17.
 18. [以后想升级就难了\! AMD处理器接口漫谈](http://diy.pconline.com.cn/cpu/study_cpu/1208/2898814_all.html) - pconline.com.cn
-
 19. [迈进新时代\!AMD新旗舰Phenom II全国首测 page2](http://diy.pconline.com.cn/cpu/reviews/0901/1532965_1.html) - pconline.com.cn
-
 20. [当黄金变成废铁 回味那些年的旗舰CPU](http://diy.pconline.com.cn/cpu/study_cpu/1208/2916871_all.html) - pconline.com.cn
-
 21. [迈进新时代\!AMD新旗舰Phenom II全国首测 page3](http://diy.pconline.com.cn/cpu/reviews/0901/1532965_2.html) - pconline.com.cn
-
 22. [Intel谈Nehalem带宽、扩展性、频率](http://news.mydrivers.com/1/108/108817.htm) - mydrivers.com
-
 23.
 24.
 25.
-
 26.
 27.
-
 28.
 29. [AMD K10处理器架构的独有内存模式](http://www.pcpop.com/doc/0/391/391398_5.shtml)
-
 30.
 31.
 32.
 33. [迈进新时代\!AMD新旗舰Phenom II全国首测 page5](http://diy.pconline.com.cn/cpu/reviews/0901/1532965_4.html) - pconline.com.cn
-
 34.
 35.
 36.
@@ -342,98 +317,59 @@ AMD將在2009年開始試產下一代處理器核心架構**[Bulldozer](../Page/
 38.
 39.
 40.
-
 41.
 42.
 43.
-
 44.
 45. [迈进新时代\!AMD新旗舰Phenom II全国首测 page6](http://diy.pconline.com.cn/cpu/reviews/0901/1532965_5.html) - pconline.com.cn
-
 46. [迈进新时代\!AMD新旗舰Phenom II全国首测](http://diy.pconline.com.cn/cpu/reviews/0901/1532965_7.html) - pconline.com.cn
-
 47. [Microprocessor Forum 2003 presentation slide](http://pc.watch.impress.co.jp/docs/2006/0119/kaigai233_01l.gif)
-
 48.
-
 49. [AMD新一代皓龙处理器发布 获得创记录的OEM支持](http://www.amd.com.cn/CHCN/Corporate/VirtualPressRoom/newsshow.asp-TypeId=8&NewsId=404.htm)
-
 50.
-
 51.
-
 52.
 53.
-
 54.
-
 55.
 56.
 57.
 58.
-
 59.
-
 60. [FudZilla report](http://www.fudzilla.com/index.php?option=com_content&task=view&id=605&Itemid=1)
-
 61. [The Inquirer report](http://theinquirer.net/default.aspx?article=38634)
-
 62. [FudZilla report](http://www.fudzilla.com/index.php?option=com_content&task=view&id=529&Itemid=1)
-
 63.
 64. [Phenom II技术特写 AMD “Stars”处理器核心](http://digi.tech.qq.com/a/20090227/000146.htm)
-
 65.
-
 66.
-
 67.
-
 68. [The Inquirer article](http://theinquirer.net/default.aspx?article=36195)
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75. [DailyTech report](http://www.dailytech.com/article.aspx?newsid=5984)
-
 76.
-
 77.
-
 78.
 79.
 80.
 81.
-
 82.
-
 83.
 84.
 85.
 86.
-
 87. [1](http://www.e-zone.com.hk/discuz/redirect.php?tid=22214&goto=lastpost)
-
 88.
 89.
 90.
 91. [顶级CPU屏蔽而来 AMD 5000开四核内幕揭秘](http://cpu.yesky.com/gd/423/9307923.shtml) - 天極
-
 92. [AMD開核平台教戰班](http://www.techbang.com/posts/2613-amd-cpu-uncore) - T客邦
-
 93. [Phenom II X3 變身四核心驗證](http://www.techbang.com/posts/514) - T客邦
-
 94. [不会无端掉馅饼！ 5000+破解四核背后的猫腻](http://cpu.yesky.com/gd/237/9243737.shtml) - 天極
-
 95. [5000+破四核不实惠？ 实战开核超频周期分析](http://cpu.yesky.com/gd/266/9246766.shtml) - 天極
-
 96. [双核变四核 网友实测X2 220开核变X4 810？](http://cpu.yesky.com/gd/346/11521846.shtml) - 天極

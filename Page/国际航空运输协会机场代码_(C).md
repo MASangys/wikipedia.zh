@@ -2031,7 +2031,7 @@
 <td><p>CMP</p></td>
 <td><p>SNKE</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/桑塔納杜阿拉瓜亞" title="wikilink">桑塔納杜阿拉瓜亞</a>，<a href="../Page/帕拉州.md" title="wikilink">帕拉州</a></p></td>
+<td><p><a href="../Page/桑塔納杜阿拉瓜亞.md" title="wikilink">桑塔納杜阿拉瓜亞</a>，<a href="../Page/帕拉州.md" title="wikilink">帕拉州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

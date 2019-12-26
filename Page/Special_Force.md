@@ -27,6 +27,6 @@
 [Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink") [Category:廣告遊戲](https://zh.wikipedia.org/wiki/Category:廣告遊戲 "wikilink") [Category:政治宣傳遊戲](https://zh.wikipedia.org/wiki/Category:政治宣傳遊戲 "wikilink") [Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink") [Category:黎巴嫩文化](https://zh.wikipedia.org/wiki/Category:黎巴嫩文化 "wikilink")
 
 1.
-2.  <http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=31323> "Hezbollah's new computer game"\]. *[WorldNetDaily](https://zh.wikipedia.org/wiki/WorldNetDaily "wikilink")*, [March 3](https://zh.wikipedia.org/wiki/March_3 "wikilink"), 2003. Accessed March 24, 2007.
+2.  <http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=31323>  "Hezbollah's new computer game"\]. *[WorldNetDaily](https://zh.wikipedia.org/wiki/WorldNetDaily "wikilink")*, [March 3](https://zh.wikipedia.org/wiki/March_3 "wikilink"), 2003. Accessed March 24, 2007.
 3.
 4.

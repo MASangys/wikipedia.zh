@@ -10,9 +10,9 @@
 
 ## 历史
 
-20世纪五十年代，苏联军队高層注意到[PU M1891/30步槍对于班排级精確狙擊與支援的需要越來越力不從心](../Page/莫辛-納甘步槍.md "wikilink")，於是從1958年起，举办了一场武器设计的竞赛。我們可以說SVD狙擊步槍是[亞歷山大·康士坦禔諾夫](https://zh.wikipedia.org/wiki/亞歷山大·康士坦禔諾夫 "wikilink")（Alexander Konstantinov）與[叶夫根尼·费奥多罗维奇·德拉贡诺夫](../Page/叶夫根尼·费奥多罗维奇·德拉贡诺夫.md "wikilink")競爭之後的結果。
+20世纪五十年代，苏联军队高層注意到[PU M1891/30步槍对于班排级精確狙擊與支援的需要越來越力不從心](../Page/莫辛-納甘步槍.md "wikilink")，於是從1958年起，举办了一场武器设计的竞赛。可以說SVD狙擊步槍是[亞歷山大·康士坦禔諾夫](https://zh.wikipedia.org/wiki/亞歷山大·康士坦禔諾夫 "wikilink")（Alexander Konstantinov）與[叶夫根尼·费奥多罗维奇·德拉贡诺夫](../Page/叶夫根尼·费奥多罗维奇·德拉贡诺夫.md "wikilink")競爭之後的結果。
 
-1963年結果定案之後，第一批預產的200枝SVD步槍先行分發，1964年開始在[伊熱夫斯克的伊茨瑪希](https://zh.wikipedia.org/wiki/伊熱夫斯克 "wikilink")（；專門生產[AK-47](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")、中型火炮、飛彈、導引砲彈以及汽機車）機械場开始量产。
+1963年結果定案之後，第一批預產的200枝SVD步槍先行分發，1964年開始在[伊熱夫斯克的伊茨瑪希](https://zh.wikipedia.org/wiki/伊熱夫斯克 "wikilink")（；專門生產[AK](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")、中型火炮、飛彈、導引砲彈以及汽機車）機械場开始量产。
 
 從此開始SVD和其几种改良型於1966年起成为[东方集团武装力量的标准配备](https://zh.wikipedia.org/wiki/东方集团 "wikilink")，例如[華沙公約組織以及](https://zh.wikipedia.org/wiki/華沙公約 "wikilink")[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")；其他獲得授權生產的國家包括[伊拉克](../Page/伊拉克.md "wikilink")（Al Kadesiah狙擊步槍），[中國大陸在](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")1979年[对越自卫还击作战中缴获SVD后](https://zh.wikipedia.org/wiki/中越战争 "wikilink")，以此为样本仿制出自己的79式與85式狙擊步槍。
 
@@ -20,7 +20,7 @@
 
 SVD的基本構造為短行程[氣動式活塞運作半自動步槍](../Page/氣動式_\(槍械\).md "wikilink")。槍管的末端為左旋滾轉槍機給彈，槍機上只用三個鎖耳進行閉鎖，定位於藥室後方。由於早先的蘇聯子彈裝藥純度不良，可能是含碳量略高的關係，射擊之後常留下具腐蝕性的殘渣與積碳，因此槍管與瓦斯活塞管容易產生阻塞，所以德拉古諾夫將SVD的瓦斯活塞管增加一個瓦斯調節器（regulator），用來調整瓦斯的壓力，以平衡機件在不同氣候環境下產生的差異。在一般正常保養的槍枝上，這個調節器通常調成「1」（одно）的位置；如果在戰場上因故無法徹底保養，造成積碳過多而影響槍機操作的順利程度的話，可以將調節器調成「2」的位置，暫時加強活塞的推力。
 
-SVD的制式彈匣為雙排10發裝容量，外加棋盤式肋條增加強度；一如所有的半自動槍枝一樣，在最後一發子彈完成擊發與拋殼之後，SVD彈匣內的托彈板會將槍機與槍機拉柄固定在拉柄導槽後方。SVD的[撞針](../Page/撞針.md "wikilink")擊槌為傳統扭力簧擊槌，擊槌待命之後兩段式保險即可啟動。SVD的[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")（receiver）已經進行過特別加工以提高精準度並且加強抗粗暴環境下的運作；從外觀上來看SVD常常引起誤會，甚至被認為是[AK-47突擊步槍的](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")「狙擊版」。因為SVD與AK系列一樣有著巨大的板、相似高聳的準星與滑軌式照門，甚至連保險鈕都幾乎如出一轍。不可否認德拉古諾夫的確「借用」了[卡拉什尼科夫的主意](https://zh.wikipedia.org/wiki/米哈伊爾·季莫費耶維奇·卡拉什尼科夫 "wikilink")，但是當射手分解開之後會發現SVD與AK系列的差別幾乎就像[橘子與](https://zh.wikipedia.org/wiki/橘 "wikilink")[柳橙的差別是一樣的](https://zh.wikipedia.org/wiki/柳橙 "wikilink")。
+SVD的制式彈匣為雙排10發裝容量，外加棋盤式肋條增加強度；一如所有的半自動槍枝一樣，在最後一發子彈完成擊發與拋殼之後，SVD彈匣內的托彈板會將槍機與槍機拉柄固定在拉柄導槽後方。SVD的[撞針](../Page/撞針.md "wikilink")擊槌為傳統扭力簧擊槌，擊槌待命之後兩段式保險即可啟動。SVD的[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")（receiver）已經進行過特別加工以提高精準度並且加強抗粗暴環境下的運作；從外觀上來看SVD常常引起誤會，甚至被認為是[AK突擊步槍的](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")「狙擊版」。因為SVD與AK系列一樣有著巨大的板、相似高聳的準星與滑軌式照門，甚至連保險鈕都幾乎如出一轍。不可否認德拉古諾夫的確「借用」了[卡拉什尼科夫的主意](https://zh.wikipedia.org/wiki/米哈伊爾·季莫費耶維奇·卡拉什尼科夫 "wikilink")，但是當射手分解開之後會發現SVD與AK系列的差別幾乎就像[橘子與](https://zh.wikipedia.org/wiki/橘 "wikilink")[柳橙的差別是一樣的](https://zh.wikipedia.org/wiki/柳橙 "wikilink")。
 
 這樣的差別源自於槍機的構造大不相同，AK系列採用的長行程活塞，整个枪机/枪机框和活塞杆连成一体，质量非常大。虽然大质量的运动部件有利于恶劣条件下的可靠性，但射击时前后运作，碰撞和振动大，对武器精度有严重的副作用。SVD所採用的活塞為短行程，瓦斯從槍管約2/3處流回上方的-{zh-hans:导气管; zh-hant:瓦斯導管; zh-tw:瓦斯導管;}-，推動後方的活塞，連桿很快帶動槍機完成拋殼與進彈的動作。如此一來槍枝在活塞輕快的往復運作下，對於射擊精度大有好处。
 
@@ -54,7 +54,7 @@ PSO-1瞄準鏡並非採用傳統十字交會準星的，而是採用多重「∧
 
 PSO-1還有一個以微型電池供電的光源以及一個被動式紅外線偵測器，前者提供在低光度時對瞄準線的照明，後者可以輔助在黑暗中发现早期主动式红外夜视仪的红外光源；不是每一具PSO-1瞄準鏡都具有這些功能：由于实用效果和主动式红外夜视仪被广泛取代，有一些较晚出场的PSO-1瞄准镜取消了红外探测功能。而照明瞄准分划的内部光源也不是所以PSO-1瞄准镜都具有，目前在市場上有很多外型與PSO-1瞄準鏡相似的瞄準鏡，以低價位混淆消費者，是不具備這個內部照明功能的（更不可能具备紅外線偵測器）。而例如[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")製造的PSO-1瞄準鏡只有一個迷你放射性[氚](../Page/氚.md "wikilink")瓶作為照明光源，虽然不需要电池驱动，但时间久了氚光源会失效，此时分划照明功能就失去了作用。除了PSO-1瞄準鏡之外，SVD在必要時也可使用NSPU-3夜視瞄準鏡。衍生型SVDN另外可以搭配[NSP-3](../Page/NSP-3夜視瞄準鏡.md "wikilink")、NSPU、PGN-1、NSPUM，以及波蘭製被動式PCS-6夜視鏡。
 
-雖然說PSO-1瞄準鏡的雖然視野縱深可達到1000m，事實上基于彈道性能和武器实际精準度，配用于SVD最多只能達到800m的有效使用距离。另外SVD具有与[AK-47相同的](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")、可拆卸的，以及枪背带；弹药袋和基本的清洁维护工具則需要射手另外攜帶。
+雖然說PSO-1瞄準鏡的雖然視野縱深可達到1000m，事實上基于彈道性能和武器实际精準度，配用于SVD最多只能達到800m的有效使用距离。另外SVD具有与[AK相同的](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")、可拆卸的，以及枪背带；弹药袋和基本的清洁维护工具則需要射手另外攜帶。
 
 需要注意的一点是，PSO-1也可以配用与其他口径的武器，比如VSS微声狙击步枪等。而配用与这些武器的PSO-1有着不同的瞄准镜分划和弹道手轮刻度。虽然外形基本相同，但不能混用。
 
@@ -64,7 +64,7 @@ PSO-1還有一個以微型電池供電的光源以及一個被動式紅外線偵
 
 蘇聯在冬季戰爭中付出最慘痛的代價就是動員百萬人卻無法令一個面積只有1/50（蘇聯面積17,075,200km²，芬蘭只有338,145km²）的小國屈服，陣亡中大部份官兵是被[輕兵器所擊斃的](https://zh.wikipedia.org/wiki/輕兵器 "wikilink")。蘇聯在吸取此教訓之後，以及隨後在[史達林格勒戰役中體認到](https://zh.wikipedia.org/wiki/史達林格勒戰役 "wikilink")「狙擊手」的戰術價值以及戰略潛力，因此開始「量產」狙擊手，並且將狙擊手列入班排級中的支援兵種。
 
-隨著[莫辛-納甘步槍](../Page/莫辛-納甘步槍.md "wikilink")的退役，SVD成為蘇聯軍方的主要精確射擊裝備。然而儘管SVD被認定是擔任狙擊任務的武器，但是以編制上以及設計上來說，SVD只能算是「[精確射手步槍](../Page/精確射手步槍.md "wikilink")」（Designated marksman rifle；DMR）。原因在於蘇聯部隊的狙擊手隨同部隊進行對任務的支援，而非以小組進行滲透、偵查、狙擊，以及反器材/物資作戰。配备SVD的兵士必須接受针对SVD的专门训练；蘇聯部隊的班排單位的有效射程也因此提升至800m。若无SVD，以AK-47的精準度來說，部隊的火力控制距離就無法超越400m。
+隨著[莫辛-納甘步槍](../Page/莫辛-納甘步槍.md "wikilink")的退役，SVD成為蘇聯軍方的主要精確射擊裝備。然而儘管SVD被認定是擔任狙擊任務的武器，但是以編制上以及設計上來說，SVD只能算是「[精確射手步槍](../Page/精確射手步槍.md "wikilink")」（Designated marksman rifle；DMR）。原因在於蘇聯部隊的狙擊手隨同部隊進行對任務的支援，而非以小組進行滲透、偵查、狙擊，以及反器材/物資作戰。配备SVD的兵士必須接受针对SVD的专门训练；蘇聯部隊的班排單位的有效射程也因此提升至800m。若无SVD，以AK的精準度來說，部隊的火力控制距離就無法超越400m。
 
 不過蘇聯部隊的狙擊手受限於SVD光學器材與槍枝性能，亦缺乏更遠距離的射擊能力，以致於淪為部隊中支援角色（雖然美其名曰「狙擊手」）。至於蘇聯的狙擊小組也因為受限於SVD光學器材與槍枝性能的影響，以致於進行滲透、偵查、狙擊，以及反器材/物資作戰上更缺乏足夠彈性，以致於必須要承擔更大的戰鬥風險。
 
@@ -79,7 +79,7 @@ SVD在使用性上可以說是可靠的，但精度、[人體工學上无法达�
 
 ### 服役紀錄
 
-然而SVD條件上的缺陷並非是絕對的，至少越南戰場上的地形與地物造就SVD對美軍官兵來說是個沉重的陰影，以及可遇不可求（hard to come by）的戰利品，綿密的叢林造成美軍與北越部隊／[越共大部份的交火距離侷限在](https://zh.wikipedia.org/wiki/越共 "wikilink")150—180m左右，加上叢林中處處可隱身，對於狙擊手來說是個戰術上的天堂，也造就了北越軍第32步兵團、第700狙擊營和C.100狙擊連的成立與成就，更造就[阿岱伯特·渥頓](https://zh.wikipedia.org/wiki/阿岱伯特·渥頓 "wikilink")、[查克·馬威尼](../Page/查克·馬威尼.md "wikilink")以及[卡羅斯·海斯卡克](../Page/卡羅斯·海斯卡克.md "wikilink")三位當時的狙擊大師。 [USMC_Dragunov_Instruction.JPG](https://zh.wikipedia.org/wiki/File:USMC_Dragunov_Instruction.JPG "fig:USMC_Dragunov_Instruction.JPG")使用SVD狙擊步槍\]\] 俄国轻武器通常具備非常耐用的特質，而这种設計理念导致SVD长期而广泛的使用。世界各地的无数战争中，只要是東西方代理人之間的衝突，例如[越战](https://zh.wikipedia.org/wiki/越战 "wikilink")，甚至長期性區域衝突，例如兩伊戰爭、[黎巴嫩内战](https://zh.wikipedia.org/wiki/黎巴嫩内战 "wikilink")，甚至冷戰後的[车臣戰爭](https://zh.wikipedia.org/wiki/车臣 "wikilink")（尤其是[格罗兹尼战役](https://zh.wikipedia.org/wiki/格羅茲尼戰役_\(1994年至1995年\) "wikilink")，車臣反抗軍將部隊規劃為許多三人狙擊小組，對俄羅斯部隊以SVD進行人員狙殺或利用RPG槍榴彈發射器突襲裝甲車輛；俄羅斯部隊傷亡極其慘重，官兵遺體甚至遭到反抗軍當作沙包使用）、[沙漠风暴行动和](https://zh.wikipedia.org/wiki/沙漠风暴行动 "wikilink")[伊拉克战争](../Page/伊拉克战争.md "wikilink")，SVD就會像是個熟悉的身影出現在媒體上。
+然而SVD條件上的缺陷並非是絕對的，至少越南戰場上的地形與地物造就SVD對美軍官兵來說是個沉重的陰影，以及可遇不可求（hard to come by）的戰利品，綿密的叢林造成美軍與北越部隊／[越共大部份的交火距離侷限在](../Page/越南南方民族解放陣線.md "wikilink")150—180m左右，加上叢林中處處可隱身，對於狙擊手來說是個戰術上的天堂，也造就了北越軍第32步兵團、第700狙擊營和C.100狙擊連的成立與成就，更造就[阿岱伯特·渥頓](https://zh.wikipedia.org/wiki/阿岱伯特·渥頓 "wikilink")、[查克·馬威尼](../Page/查克·馬威尼.md "wikilink")以及[卡羅斯·海斯卡克](../Page/卡羅斯·海斯卡克.md "wikilink")三位當時的狙擊大師。 [USMC_Dragunov_Instruction.JPG](https://zh.wikipedia.org/wiki/File:USMC_Dragunov_Instruction.JPG "fig:USMC_Dragunov_Instruction.JPG")使用SVD狙擊步槍\]\] 俄国轻武器通常具備非常耐用的特質，而这种設計理念导致SVD长期而广泛的使用。世界各地的无数战争中，只要是東西方代理人之間的衝突，例如[越战](https://zh.wikipedia.org/wiki/越战 "wikilink")，甚至長期性區域衝突，例如兩伊戰爭、[黎巴嫩内战](https://zh.wikipedia.org/wiki/黎巴嫩内战 "wikilink")，甚至冷戰後的[车臣戰爭](https://zh.wikipedia.org/wiki/车臣 "wikilink")（尤其是[格罗兹尼战役](https://zh.wikipedia.org/wiki/格羅茲尼戰役_\(1994年至1995年\) "wikilink")，車臣反抗軍將部隊規劃為許多三人狙擊小組，對俄羅斯部隊以SVD進行人員狙殺或利用RPG槍榴彈發射器突襲裝甲車輛；俄羅斯部隊傷亡極其慘重，官兵遺體甚至遭到反抗軍當作沙包使用）、[沙漠风暴行动和](https://zh.wikipedia.org/wiki/沙漠风暴行动 "wikilink")[伊拉克战争](../Page/伊拉克战争.md "wikilink")，SVD就會像是個熟悉的身影出現在媒體上。
 
 ## 細部改良
 
@@ -322,8 +322,9 @@ SVD在使用性上可以說是可靠的，但精度、[人體工學上无法达�
   - 2017年—《[狙擊手：幽靈戰士3](https://zh.wikipedia.org/wiki/狙擊手：幽靈戰士3 "wikilink")》：命名為“Dragoon SVD”。
   - 2018年—《[穿越火线高清竞技大区](https://zh.wikipedia.org/wiki/穿越火线高清竞技大区 "wikilink")》：命名为“Dragunov”，使用10发[弹匣](https://zh.wikipedia.org/wiki/弹匣 "wikilink")，奇怪的仍然使用手动枪机操作。
   - 2018年—《[-{zh-hans:孤岛惊魂5; zh-hant:極地戰嚎5; zh-tw:極地戰嚎5;}-](https://zh.wikipedia.org/wiki/極地戰嚎5 "wikilink")》（Far Cry 5）：為DLC追加武器，型號為SVD，命名為“SVD”。武器模組採用鏡像佈局（拉機柄、拋殼口及保險裝置都在左邊），奇怪的没有空倉掛機。
-  - 2019年—《[-{zh-hans:孤岛惊魂：新曙光; zh-hant:極地戰嚎：破曉; zh-tw:極地戰嚎：破曉;}-](../Page/孤岛惊魂：新曙光.md "wikilink")》（Far Cry New Dawn）：型號為SVD，改用高倍率瞄準鏡，普遍的被友方和敵方狙擊手所使用。武器模組採用鏡像佈局（拉機柄、拋殼口及保險裝置都在左邊），奇怪的没有空倉掛機。
+  - 2019年—《[-{zh-hans:孤岛惊魂：新曙光; zh-hant:極地戰嚎：破曉; zh-tw:極地戰嚎：破曉;}-](../Page/孤岛惊魂：新曙光.md "wikilink")》：型號為SVD，改用高倍率瞄準鏡，普遍的被友方和敵方狙擊手所使用。武器模組採用鏡像佈局（拉機柄、拋殼口及保險裝置都在左邊），奇怪的没有空倉掛機。
   - 2019年—《[湯姆克蘭西：全境封鎖2](../Page/湯姆克蘭西：全境封鎖2.md "wikilink")》
+  - 2019年—《[-{zh-cn:使命召唤：现代战争; zh-tw:決勝時刻：現代戰爭; zh-hk:使命召喚：現代戰爭}-](https://zh.wikipedia.org/wiki/使命召唤：现代战争_\(2019年遊戲\) "wikilink")》：型號為SVD，命名為“德拉古諾夫”，可進行自定義改裝。故事模式中由巴爾科夫的俄軍部隊和阿爾蓋塔拉恐怖組織所使用。
 
 ### 動畫
 
@@ -346,7 +347,7 @@ SVD在使用性上可以說是可靠的，但精度、[人體工學上无法达�
 
 ## 参见
 
-  - [AK-47突击步枪](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")
+  - [AK突击步槍](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")
   - [狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")
   - [M21狙擊手武器系統](../Page/M21狙擊手武器系統.md "wikilink")，与SVD功能近似的半自动狙击步枪。
   - [美国海军陆战队精确射手步枪](https://zh.wikipedia.org/wiki/美国海军陆战队精确射手步枪 "wikilink")
@@ -366,4 +367,4 @@ SVD在使用性上可以說是可靠的，但精度、[人體工學上无法达�
 [Category:半自動步槍](https://zh.wikipedia.org/wiki/Category:半自動步槍 "wikilink") [Category:狙击步枪](https://zh.wikipedia.org/wiki/Category:狙击步枪 "wikilink") [Category:精確射手步槍](https://zh.wikipedia.org/wiki/Category:精確射手步槍 "wikilink") [Category:導氣式槍械](https://zh.wikipedia.org/wiki/Category:導氣式槍械 "wikilink") [Category:7.62×54毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×54毫米槍械 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
 
 1.  [POSP/PSO-1固定倍率瞄准镜说明书](http://www.kalinkaoptics.com/Manuals/KOPOSPFixedManual.pdf)
-2.  [The Finnish Defence Forces](http://www.mil.fi/maavoimat/kalustoesittely/index.dsp?level=64&equipment=47)
+2.

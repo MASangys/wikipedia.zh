@@ -19,11 +19,7 @@
 [Category:2006年航空事故](https://zh.wikipedia.org/wiki/Category:2006年航空事故 "wikilink") [Category:2006年尼日利亚](https://zh.wikipedia.org/wiki/Category:2006年尼日利亚 "wikilink") [Category:尼日利亞航空事故](https://zh.wikipedia.org/wiki/Category:尼日利亞航空事故 "wikilink") [Category:起飛失敗觸發的航空事故](https://zh.wikipedia.org/wiki/Category:起飛失敗觸發的航空事故 "wikilink") [Category:2006年10月](https://zh.wikipedia.org/wiki/Category:2006年10月 "wikilink")
 
 1.  [意外描述](http://aviation-safety.net/database/record.php?id=20061029-0)，Aviation Safety Networ
-
 2.  [奈航墜機意外，98罹難6生還；客機政要滿座，空難震驚全國](http://www.ttv.com.tw/news/html/095/10/0951030/095103046795011.htm) ，[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")
-
 3.  [奈及利亞客機墜毀，機上百餘人凶多吉少](http://news.yam.com/afp/international/200610/20061030494187.html)，[蕃薯藤](../Page/蕃薯藤.md "wikilink")新聞
-
 4.  [About 100 Feared dead in Nigeria jet crash](http://www.msnbc.msn.com/id/15470556/)，[MSN](../Page/MSN.md "wikilink")
-
 5.

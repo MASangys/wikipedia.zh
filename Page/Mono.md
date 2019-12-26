@@ -272,7 +272,7 @@ C\#編譯器的授權改變是從[GPL到](https://zh.wikipedia.org/wiki/GPL "wik
   - [MonoBrasil](https://web.archive.org/web/20070704093741/http://monobrasil.softwarelivre.org/)，A Brazilian Mono WebSite
   - [MonoColombia](https://web.archive.org/web/20051125203753/http://www.monocolombia.com/wiki/doku.php)，A Colombian Mono WebSite
   - [MonoGermany](http://www.mono-project.de)，A German Mono WebSite
-  - [MonoHispano](http://www.monohispano.es)，A Spanish Mono community
+  - [MonoHispano](https://web.archive.org/web/20181103231007/http://monohispano.es/)，A Spanish Mono community
   - [Japanese Mono](https://web.archive.org/web/20060616184831/http://monkey.workarea.jp/trans/mono/) Mono web site translation to Japanese.
   - [MonoPoland](https://web.archive.org/web/20060420001938/http://www.go-mono.pl/)，Polish Mono Web site.
   - [Mono Netherlands](https://web.archive.org/web/20060409231042/http://www.go-mono.nl/)，Dutch Mono site.
@@ -282,54 +282,29 @@ C\#編譯器的授權改變是從[GPL到](https://zh.wikipedia.org/wiki/GPL "wik
 [Category:计算平台](https://zh.wikipedia.org/wiki/Category:计算平台 "wikilink") [Category:程序设计工具](https://zh.wikipedia.org/wiki/Category:程序设计工具 "wikilink") [Category:.NET](https://zh.wikipedia.org/wiki/Category:.NET "wikilink") [Category:Novell軟件](https://zh.wikipedia.org/wiki/Category:Novell軟件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
 25.
-
 26.
-
 27.

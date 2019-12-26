@@ -251,24 +251,14 @@ XNA架構素材管道（XNA Framework Content Pipeline）是一種可延伸的�
 [Category:電子遊戲研發](https://zh.wikipedia.org/wiki/Category:電子遊戲研發 "wikilink") [Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink") [Category:微軟開發工具](https://zh.wikipedia.org/wiki/Category:微軟開發工具 "wikilink") [Category:Computing_acronyms](https://zh.wikipedia.org/wiki/Category:Computing_acronyms "wikilink") [Category:Xbox_360](https://zh.wikipedia.org/wiki/Category:Xbox_360 "wikilink") [Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink")
 
 1.  [Microsoft XNA Frequently Asked Questions](http://msdn.microsoft.com/directx/xna/faq/)
-
 2.  [Microsoft: Next Generation of Games Starts With XNA](https://www.microsoft.com/presspass/press/2004/mar04/03-24xnalaunchpr.mspx)
-
 3.
-
 4.
 5.  [Gamefest announcement of XNA Game Studio Express](http://www.microsoft.com/presspass/press/2006/aug06/08-13XNAGameStudioPR.mspx)
-
 6.  [XNA Team Blog : XNA Game Studio Express 1.0 Refresh Released](http://blogs.msdn.com/xna/archive/2007/04/24/xna-game-studio-express-1-0-refresh-released.aspx)
-
 7.  [XNA Creators Club Online - quick start guide](http://creators.xna.com/Education/GettingStarted.aspx)
-
 8.  [XNA Tutorial](http://www.xnatutorial.com/)
-
 9.  [XNA Creators Club Online - xna game studio 3.0 beta](http://creators.xna.com/en-us/3.0beta_mainpage)
-
 10. [Dream Build Play '09/XNA Game Studio 3.1 Announcement](http://creators.xna.com/en-US/news/dbpandxnags31)
-
 11.
-
 12.

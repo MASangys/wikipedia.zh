@@ -12,7 +12,7 @@
 
   - [官方網站](http://www.nec-nijmegen.nl)
 
-  - [球迷網站](http://www.necfan.nl)
+  - [球迷網站](https://web.archive.org/web/20071012210423/http://necfan.nl/)
 
   - [球迷網站](http://www.detrouwehonden.nl)
 

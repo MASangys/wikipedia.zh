@@ -207,7 +207,7 @@ The Beast adopted <em style="font-size: 1.3em; line-height: 0;">new raiment</em>
 ### 有關Mozilla之書的文章
 
   - [宣佈新版Mozilla之書的MozillaZine文章](http://www.mozillazine.org/talkback.html?article=3607)
-  - [MozillaZine讀者最愛的Mozilla之書的投票](http://www.mozillazine.org/talkback.html?article=4030)
+  - [MozillaZine讀者最愛的Mozilla之書的投票](https://web.archive.org/web/20080315045735/http://www.mozillazine.org/talkback.html?article=4030)
   - [關於about:mozilla的一些澄清](http://weblogs.mozillazine.org/gerv/archives/007379.html)，由mozilla.org員工Gervase Markham所編寫
 
 ### Mozilla之書集

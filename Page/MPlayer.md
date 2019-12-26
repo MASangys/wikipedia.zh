@@ -53,7 +53,7 @@ MPlayer还支持不同的驱动程序，包括[VDPAU](../Page/VDPAU.md "wikilink
   - [SMPlayer](http://smplayer.sourceforge.net/)，another MPlayer based media player for Windows/Linux
   - [MPlayerXP](http://mplayerxp.sourceforge.net) is a branch of the well known MPlayer which is based on the new (thread based) core.
   - [MPlayer Portable](http://portableapps.com/apps/music_video/mplayer_portable)
-  - [MPlayer WW](http://www.mplayer-ww.com) MPlayer Windows中文版（多国语言）
+  - [MPlayer WW](https://web.archive.org/web/20190120062005/http://www.mplayer-ww.com/) MPlayer Windows中文版（多国语言）
 
 ## 参见
 

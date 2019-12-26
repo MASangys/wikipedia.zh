@@ -8,6 +8,7 @@
   - [圣基茨和尼维斯](https://zh.wikipedia.org/wiki/圣基茨和尼维斯 "wikilink")，[北约缩写](https://zh.wikipedia.org/wiki/北约 "wikilink")
   - [塞舌尔](../Page/塞舌尔.md "wikilink")，[ISO 3166-1缩写](../Page/ISO_3166-1.md "wikilink")
   - 巴西的[圣卡塔琳娜州](../Page/圣卡塔琳娜州.md "wikilink")，[ISO 3166-2](../Page/ISO_3166-2.md "wikilink")
+  - [札幌市電沿途各站的路線編號](https://zh.wikipedia.org/wiki/札幌市電 "wikilink")
 
 ## 电子游戏
 
@@ -29,7 +30,7 @@
   - [**S**nap**c**hat](https://zh.wikipedia.org/wiki/'''S'''nap'''c'''hat "wikilink")
   - [钪](../Page/钪.md "wikilink")（Sc），[化学符号](https://zh.wikipedia.org/wiki/化学符号 "wikilink")
   - [山东航空公司](https://zh.wikipedia.org/wiki/山东航空公司 "wikilink")，[IATA航空公司代码](https://zh.wikipedia.org/wiki/IATA航空公司代码 "wikilink")
-  - [萨丁尼亚语](https://zh.wikipedia.org/wiki/萨丁尼亚语 "wikilink")，[ISO 639](../Page/ISO_639.md "wikilink")
+  - [萨丁尼亚语的](https://zh.wikipedia.org/wiki/萨丁尼亚语 "wikilink")[ISO 639-1代码](../Page/ISO_639-1.md "wikilink")
   - [凌志SC](https://zh.wikipedia.org/wiki/凌志SC "wikilink")，轎跑車
   - [守護甜心\!](https://zh.wikipedia.org/wiki/守護甜心! "wikilink")，英文簡稱（**S**hugo **C**hara\!）
   - [科學計數機](https://zh.wikipedia.org/wiki/計算器#進階電子計算器 "wikilink")：如[信利科學計數機](https://zh.wikipedia.org/wiki/信利 "wikilink")**SC**-185

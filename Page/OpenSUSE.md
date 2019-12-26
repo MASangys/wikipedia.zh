@@ -108,50 +108,30 @@ SUSE多年来一直是KDE项目的主要贡献者。 SUSE在这方面的贡献�
 [Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink") [Category:Novell軟件](https://zh.wikipedia.org/wiki/Category:Novell軟件 "wikilink") [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.  \[//old-en.opensuse.org/Projects/KNetworkManager KNetworkManager\] - old openSUSE Community Wiki
-
 10. \[//old-en.opensuse.org/Kickoff Kickoff\] - old openSUSE Community Wiki
-
 11.
-
 12.
-
 13.
 14.
 15.
 16.
-
 17.
-
 18.
-
 19.
 20.
 21.
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
 28.

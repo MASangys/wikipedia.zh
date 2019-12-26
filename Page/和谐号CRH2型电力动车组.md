@@ -106,7 +106,7 @@ CRH2A在中国高铁列车里最先应用的纯平窗台、采用前后分隔的
 
 #### 集电装置
 
-[China_Railways_CRH2_20150302_095313.jpg](https://zh.wikipedia.org/wiki/File:China_Railways_CRH2_20150302_095313.jpg "fig:China_Railways_CRH2_20150302_095313.jpg") 跟原型车采用PS207型单臂集电弓相比，CRH2系列需要按照中国国情及铁路标准（主要承襲德國標準）而作出适当的改动，包括安装采用[德国](../Page/德国.md "wikilink")[斯特曼公司](https://zh.wikipedia.org/wiki/斯特曼公司 "wikilink")（Stemmann-Technik）技术、由[北車大同電力機車生產的DSA](https://zh.wikipedia.org/wiki/中車大同電力機車 "wikilink")250型集電弓，以适应高变化的沿线[接触网](https://zh.wikipedia.org/wiki/接触网 "wikilink")。2C需要行驶高速线路因而使用DSA350型高速受电弓。
+[China_Railways_CRH2_20150302_095313.jpg](https://zh.wikipedia.org/wiki/File:China_Railways_CRH2_20150302_095313.jpg "fig:China_Railways_CRH2_20150302_095313.jpg") 跟原型车采用PS207型单臂集电弓相比，CRH2系列需要按照中国国情及铁路标准（主要承襲德國標準）而作出适当的改动，包括安装采用[德国](../Page/德国.md "wikilink")[斯特曼公司](https://zh.wikipedia.org/wiki/斯特曼公司 "wikilink")（Stemmann-Technik）技术、由[北車大同電力機車生產的DSA](https://zh.wikipedia.org/wiki/中車大同電力機車 "wikilink")250型集電弓，以适应高变化的沿线[接触网](https://zh.wikipedia.org/wiki/接触网 "wikilink")。2C需要行驶高速线路因而使用DSA350型高速受电弓。此外，亦有部分編組採用[西門子交通集團轄下奧地利MWW公司與崇德公司合製的SSS](https://zh.wikipedia.org/wiki/西門子交通集團 "wikilink")400+型受電弓\[30\]。
 
 8节编组的列车在第4车厢、第6车厢处装设一个集电弓，16编组在第4车厢、第13车厢装设两个集电弓。车厢的车顶设置了[特高壓引通線](https://zh.wikipedia.org/wiki/特高壓引通線 "wikilink")，初期制造的CRH2A型在4-5号車之間的车顶上用倾斜头形状电缆连接，紧急时通过特高壓引通線进行切断。2C型受到高速行驶的需要，因此在集电弓两侧设置大型挡板以降低集电弓发出来的噪音，在2C型的2091-2092更在集电弓周围装设大型降噪盖。
 
@@ -116,7 +116,7 @@ CRH2A在中国高铁列车里最先应用的纯平窗台、采用前后分隔的
 
 2A、2B、2C第一阶段以及2E首尾头车的内部与新干线E2系1000番台初期制车辆相同，但需要配合国情，所有CRH2系列列车均会設置二等座车/[餐車](https://zh.wikipedia.org/wiki/餐車 "wikilink")（8节编组列车设于第5车厢、16节编组列车设于第8车厢）。除2E卧铺动车外，所有CRH2系列列车均设有一等座车及二等座车。一等座车的座位间距为1,160mm，座位设于左右各两排中间为过道。二等座车的座位间距为980mm，座位设于左右3+2排中间为过道。
 
-另外，除CRH2A–2001至CRH2A–2009这9组日本原产车的偶数车厢仅配有[饮水机外](https://zh.wikipedia.org/wiki/饮水机 "wikilink")，其余所有CRH2动车组列车均配有[电茶炉并提供开水](https://zh.wikipedia.org/wiki/电茶炉 "wikilink")，以满足中国人惯于喝热水的习惯\[30\]；同时，还取消了原新干线E2系1000番台的[男性小便间的设计](../Page/小便斗.md "wikilink")。同时列车设置了緊急破窗鎚，这是日本原版车型所没有的。
+另外，除CRH2A–2001至CRH2A–2009这9组日本原产车的偶数车厢仅配有[饮水机外](https://zh.wikipedia.org/wiki/饮水机 "wikilink")，其余所有CRH2动车组列车均配有[电茶炉并提供开水](https://zh.wikipedia.org/wiki/电茶炉 "wikilink")，以满足中国人惯于喝热水的习惯\[31\]；同时，还取消了原新干线E2系1000番台的[男性小便间的设计](../Page/小便斗.md "wikilink")。同时列车设置了緊急破窗鎚，这是日本原版车型所没有的。
 
 CRH2型电力动车组发车后的报站铃声亦被用于日本[东武铁道部分车站的](https://zh.wikipedia.org/wiki/东武铁道 "wikilink")[发车音乐和](https://zh.wikipedia.org/wiki/发车音乐 "wikilink")[JR东海部分车站的列车接近广播音乐](https://zh.wikipedia.org/wiki/JR东海 "wikilink")。
 
@@ -132,7 +132,7 @@ CRH2A统型列车编组与原装不同，一等座车位于车厢的头节编组
 
 另外，位于车厢两侧上部的显示屏将原装的双色改为单色，字体亦有变化。亦在所有车厢装设[4:3的显示屏提供列车电视广播](https://zh.wikipedia.org/wiki/4:3 "wikilink")。另外，每节车厢均设有厕所、部分车厢会设轮椅停放位。CRH2A统型列车的司机室门上设有小型观察孔，可供乘客观看司机操作及前方视野。
 
-而后期制造的CRH2A统型，以及CRH2G\[31\]，采用了和[CRH380A类似的车厢内部设计](https://zh.wikipedia.org/wiki/和谐号CRH380A型电力动车组 "wikilink")。另外后期制造的CRH2A统型车的座椅与初期CRH2A相同。
+而后期制造的CRH2A统型，以及CRH2G\[32\]，采用了和[CRH380A类似的车厢内部设计](https://zh.wikipedia.org/wiki/和谐号CRH380A型电力动车组 "wikilink")。另外后期制造的CRH2A统型车的座椅与初期CRH2A相同。
 
 #### CRH2C二阶段
 
@@ -142,7 +142,7 @@ CRH2C二阶段的内部模仿了[CRH3C型的设计隔墙装饰为较深的木质
 
 #### 卧铺型
 
-[CRH2_sleeping_car_interior.jpg](https://zh.wikipedia.org/wiki/File:CRH2_sleeping_car_interior.jpg "fig:CRH2_sleeping_car_interior.jpg") 作为卧铺型号的CRH2E，列车会设有設有13節软卧车，但会另外设2節首尾的二等座車和1節餐車。软卧车每輛10個包廂，共40個鋪位，每個鋪位均裝有附耳机的液晶電視，并增加了即时联系乘务员的旅客呼唤系统\[32\]，餐車內設有休閒酒吧和三台[液晶電視機](../Page/液晶显示器.md "wikilink")。另外，为方便旅客使用随身电子产品，每個車廂均安裝了AC220V[家用电源插座](../Page/家用交流電源插頭與插座.md "wikilink")，其中二等座車每隔三排座椅下設1個插座，軟臥車每个包間設1個插座、走廊設2個插座。餐車酒吧區設2個插座\[33\]。
+[CRH2_sleeping_car_interior.jpg](https://zh.wikipedia.org/wiki/File:CRH2_sleeping_car_interior.jpg "fig:CRH2_sleeping_car_interior.jpg") 作为卧铺型号的CRH2E，列车会设有設有13節软卧车，但会另外设2節首尾的二等座車和1節餐車。软卧车每輛10個包廂，共40個鋪位，每個鋪位均裝有附耳机的液晶電視，并增加了即时联系乘务员的旅客呼唤系统\[33\]，餐車內設有休閒酒吧和三台[液晶電視機](../Page/液晶显示器.md "wikilink")。另外，为方便旅客使用随身电子产品，每個車廂均安裝了AC220V[家用电源插座](../Page/家用交流電源插頭與插座.md "wikilink")，其中二等座車每隔三排座椅下設1個插座，軟臥車每个包間設1個插座、走廊設2個插座。餐車酒吧區設2個插座\[34\]。
 
 而新型CRH2E卧铺动车组的下层卧铺是抽拉式结构，可以灵活切换为座位，这种设计使得动车组既可在夜间以“卧车”运营，也能在白天以“座车”运营，大大提高了卧铺动车组的利用率。另外在每个双号车厢增加一个卫生间，缓解高峰期卫生间使用紧张的问题。
 
@@ -508,8 +508,8 @@ ZE 2xxx00</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/昆明局集团" title="wikilink">昆明局集团</a></p></td>
-<td><p>30</p></td>
-<td><p>2229、2232、2264、2265、2273、2322、2460、2489、2499、4021、4026、4053、4054、4057～4059、4082～4095</p></td>
+<td><p>31</p></td>
+<td><p>2229、2232、2264、2265、2273、2322、2460、2489、2499、2828、4021、4026、4053、4054、4057～4059、4082～4095</p></td>
 <td><p>昆明南</p></td>
 <td><p><a href="../Page/南昆客运专线.md" title="wikilink">南昆客运专线</a>、<a href="../Page/昆玉河铁路.md" title="wikilink">昆玉河铁路</a></p></td>
 <td><p>CRH2A-2460为新头型试验车。<br />
@@ -524,14 +524,6 @@ ZE 2xxx00</p></td>
 <td><p>200~250km/h综合检测列车</p></td>
 </tr>
 <tr class="even">
-<td><p>1</p></td>
-<td><p>2828</p></td>
-<td><p>不適用</p></td>
-<td></td>
-<td><p>公務車，配屬專運處</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -542,7 +534,7 @@ ZE 2xxx00</p></td>
 </tbody>
 </table>
 <ul>
-<li>xxxx：列車編號（2001～2060、2151～2416、2427～2460、2473～2499、2828、4001～4071、4082～4095），由2014年7月1日起，所有CRH系列动车组編號均作出了更改，原編號為（CRH<sub>2</sub>—xxxA），現改為（CRH2A-2xxx），該日之後的生產动车组均依照新規定之格式定編號。[34][35]</li>
+<li>xxxx：列車編號（2001～2060、2151～2416、2427～2460、2473～2499、2828、4001～4071、4082～4095），由2014年7月1日起，所有CRH系列动车组編號均作出了更改，原編號為（CRH<sub>2</sub>—xxxA），現改為（CRH2A-2xxx），該日之後的生產动车组均依照新規定之格式定編號。[35][36]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -550,7 +542,7 @@ ZE 2xxx00</p></td>
 
 #### 综合检测车
 
-CRH2A-2010（CRH<sub>2</sub>-010A）为配属中国铁路总公司的综合检测列车之一，亦是首列国产化CRH2A型列车。安装了[ATP](../Page/列车自动保护系统.md "wikilink")、信号参数、无线[场强](https://zh.wikipedia.org/wiki/场强 "wikilink")、弓网关系、轨道几何形态、动力学及加速度检测的设备和线路监视系统\[36\]，主要负责时速200—250公里级的新建高速铁路和既有提速干线的轨道几何状态、动力学、接触网、信号、ATP、无线通信、线路环境等，每月进行三次周期性检测，平均每月检测约4.5万公里，其检测结果即时发送到铁路总公司主管部门和相关铁路局维修部门。
+CRH2A-2010（CRH<sub>2</sub>-010A）为配属中国铁路总公司的综合检测列车之一，亦是首列国产化CRH2A型列车。安装了[ATP](../Page/列车自动保护系统.md "wikilink")、信号参数、无线[场强](https://zh.wikipedia.org/wiki/场强 "wikilink")、弓网关系、轨道几何形态、动力学及加速度检测的设备和线路监视系统\[37\]，主要负责时速200—250公里级的新建高速铁路和既有提速干线的轨道几何状态、动力学、接触网、信号、ATP、无线通信、线路环境等，每月进行三次周期性检测，平均每月检测约4.5万公里，其检测结果即时发送到铁路总公司主管部门和相关铁路局维修部门。
 
 ### CRH2B/CRH2B統型
 
@@ -752,7 +744,7 @@ ZE 2xxx00</p></td>
 </tbody>
 </table>
 <ul>
-<li>xxxx：列車編號（2111～2120、2466～2472、4096～4105），由2014年7月1日起，所有CRH系列动车组編號均作出了更改，原編號為（CRH<sub>2</sub>—xxxB），現改為（CRH2B-2xxx）。[37][38]</li>
+<li>xxxx：列車編號（2111～2120、2466～2472、4096～4105），由2014年7月1日起，所有CRH系列动车组編號均作出了更改，原編號為（CRH<sub>2</sub>—xxxB），現改為（CRH2B-2xxx）。[38][39]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -766,19 +758,19 @@ ZE 2xxx00</p></td>
 
 CRH2C第一阶段共有30列，编号CRH2C-2061～CRH2C-2090，是在CRH2A的200km/h平台基礎上进行改进，并把[动车数量增至](https://zh.wikipedia.org/wiki/动车 "wikilink")6节（6M2T），牵引功率为7200千瓦，采用大型中空薄壁铝合金焊接结构，使用DSA350型高速受电弓，以及在受电弓两旁加装挡板等。CRH2C可两组重联运行。
 
-首列CRH2C动车组（CRH2C-2061，国铁配属作试验列车）于2007年12月22日出厂\[39\]\[40\]，随后南车四方股份和[中国铁道科学研究院](../Page/中国铁道科学研究院.md "wikilink")对动车组进行了为期7个月的试验测试和试运营考验。2008年1月，CRH2C-2061及CRH2C-2062由四方厂开往[北京环铁进行运行测试](https://zh.wikipedia.org/wiki/北京环铁 "wikilink")。\[41\]\[42\]2008年4月24日，CRH2-061C在[京津城际铁路](../Page/京津城际铁路.md "wikilink")上进行高速测试，其最高时速达到近370公里\[43\]，及至同年6月底，该纪录为[德国](../Page/德国.md "wikilink")制[CRH3型的时速](../Page/和谐号CRH3型电力动车组.md "wikilink")394.3公里所打破。此后，该车于2010年1月，在郑西高铁又创造了393公里的时速。2010年，CRH2C-2061开始在[沪宁城际铁路](../Page/沪宁城际铁路.md "wikilink")綜合試驗段上开始测试。2011年7月1日，CRH2C-2061开始在[广深港高铁](https://zh.wikipedia.org/wiki/广深港高铁 "wikilink")（内地段）綜合試驗段上开始测试。
+首列CRH2C动车组（CRH2C-2061，国铁配属作试验列车）于2007年12月22日出厂\[40\]\[41\]，随后南车四方股份和[中国铁道科学研究院](../Page/中国铁道科学研究院.md "wikilink")对动车组进行了为期7个月的试验测试和试运营考验。2008年1月，CRH2C-2061及CRH2C-2062由四方厂开往[北京环铁进行运行测试](https://zh.wikipedia.org/wiki/北京环铁 "wikilink")。\[42\]\[43\]2008年4月24日，CRH2-061C在[京津城际铁路](../Page/京津城际铁路.md "wikilink")上进行高速测试，其最高时速达到近370公里\[44\]，及至同年6月底，该纪录为[德国](../Page/德国.md "wikilink")制[CRH3型的时速](../Page/和谐号CRH3型电力动车组.md "wikilink")394.3公里所打破。此后，该车于2010年1月，在郑西高铁又创造了393公里的时速。2010年，CRH2C-2061开始在[沪宁城际铁路](../Page/沪宁城际铁路.md "wikilink")綜合試驗段上开始测试。2011年7月1日，CRH2C-2061开始在[广深港高铁](https://zh.wikipedia.org/wiki/广深港高铁 "wikilink")（内地段）綜合試驗段上开始测试。
 
-从2008年7月1日起，首批6列CRH2C型动车组模拟正常运营状态在[京津城际铁路](../Page/京津城际铁路.md "wikilink")进行了为期一个月的试运营。2008年8月1日起，CRH2C型动车组正式投入京津城际铁路运营\[44\]。2009年4月，[京津城际铁路](../Page/京津城际铁路.md "wikilink")改用[CRH3電動車組运营](https://zh.wikipedia.org/wiki/和諧號CRH3型電力動車組 "wikilink")，CRH2C不再负责日常营运，仅作为热备列车及线路检查车。
+从2008年7月1日起，首批6列CRH2C型动车组模拟正常运营状态在[京津城际铁路](../Page/京津城际铁路.md "wikilink")进行了为期一个月的试运营。2008年8月1日起，CRH2C型动车组正式投入京津城际铁路运营\[45\]。2009年4月，[京津城际铁路](../Page/京津城际铁路.md "wikilink")改用[CRH3電動車組运营](https://zh.wikipedia.org/wiki/和諧號CRH3型電力動車組 "wikilink")，CRH2C不再负责日常营运，仅作为热备列车及线路检查车。
 
-2008年11月23日，CRH2C-2067和CRH2C-2068被运送至[汉口](../Page/汉口.md "wikilink")\[45\]，2009年1月8日起开始在[武广客运专线武漢綜合試驗段上开始测试](https://zh.wikipedia.org/wiki/武广客运专线 "wikilink")\[46\]，2009年7月至9月期间，CRH2C-2061，CRH2C-2067，CRH2C-2068在武广客运专线進行局部路段聯調聯試及高速試運行。
+2008年11月23日，CRH2C-2067和CRH2C-2068被运送至[汉口](../Page/汉口.md "wikilink")\[46\]，2009年1月8日起开始在[武广客运专线武漢綜合試驗段上开始测试](https://zh.wikipedia.org/wiki/武广客运专线 "wikilink")\[47\]，2009年7月至9月期间，CRH2C-2061，CRH2C-2067，CRH2C-2068在武广客运专线進行局部路段聯調聯試及高速試運行。
 
 2009年3月27日，CRH2C-2070动车组在[膠濟鐵路](../Page/膠濟鐵路.md "wikilink")上进行线路试验时，6号车厢的受电弓因没有与绝缘子紧密接合，造成受电弓脱落的故障。
 
 #### CRH2C第二阶段
 
-[201604_CRH2C-2105_at_SHA.JPG](https://zh.wikipedia.org/wiki/File:201604_CRH2C-2105_at_SHA.JPG "fig:201604_CRH2C-2105_at_SHA.JPG")\]\] CRH2C第二阶段共生产30列，编号CRH2C-2091～CRH2C-2110、CRH2C-2141～CRH2C-2150，均为8节编组。CRH2C第二阶段在第一阶段的基础上进行重新研制，对多方面改善了设计。与第一阶段的动车组相比，CRH2C第二阶段改用了加大功率的YQ-365型交流[牵引电动机](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")（365千瓦），8节短编组列车总功率提升至8760千瓦，传动比也作出相应修改，列车持续运营时速提高至350公里，最高运营时速为380公里\[47\]。车体铝合金结构和隔音减震降噪技术借鉴了[CRH3的设计](../Page/和谐号CRH3型电力动车组.md "wikilink")，改善车体在高速运行时的共振和气动变形问题，并且对转向架二系悬挂进行改进。另外列车也加强了减低阻力的设计，以及减少头车车顶的信号天线等。
+[201604_CRH2C-2105_at_SHA.JPG](https://zh.wikipedia.org/wiki/File:201604_CRH2C-2105_at_SHA.JPG "fig:201604_CRH2C-2105_at_SHA.JPG")\]\] CRH2C第二阶段共生产30列，编号CRH2C-2091～CRH2C-2110、CRH2C-2141～CRH2C-2150，均为8节编组。CRH2C第二阶段在第一阶段的基础上进行重新研制，对多方面改善了设计。与第一阶段的动车组相比，CRH2C第二阶段改用了加大功率的YQ-365型交流[牵引电动机](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")（365千瓦），8节短编组列车总功率提升至8760千瓦，传动比也作出相应修改，列车持续运营时速提高至350公里，最高运营时速为380公里\[48\]。车体铝合金结构和隔音减震降噪技术借鉴了[CRH3的设计](../Page/和谐号CRH3型电力动车组.md "wikilink")，改善车体在高速运行时的共振和气动变形问题，并且对转向架二系悬挂进行改进。另外列车也加强了减低阻力的设计，以及减少头车车顶的信号天线等。
 
-首列CRH2C第二阶段动车组于2010年2月起在[郑西客运专线](../Page/郑西客运专线.md "wikilink")投入运营\[48\]。
+首列CRH2C第二阶段动车组于2010年2月起在[郑西客运专线](../Page/郑西客运专线.md "wikilink")投入运营\[49\]。
 
   - CRH2C 編组表
 
@@ -982,7 +974,7 @@ ZE 2xxx00</p></td>
 </tbody>
 </table>
 <ul>
-<li>xxxx：列車編號（2061～2110，2141～2150），由2014年7月1日起，所有CRH系列动车组編號均作出了更改，原編號為（CRH<sub>2</sub>—xxxC），現改為（CRH2C-2xxx），該日之後的生產动车组均依照新規定之格式定編號。[49][50]</li>
+<li>xxxx：列車編號（2061～2110，2141～2150），由2014年7月1日起，所有CRH系列动车组編號均作出了更改，原編號為（CRH<sub>2</sub>—xxxC），現改為（CRH2C-2xxx），該日之後的生產动车组均依照新規定之格式定編號。[50][51]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -990,17 +982,17 @@ ZE 2xxx00</p></td>
 
 #### 新头型试验车
 
-[201706_CRH2C-2150_at_Shanghai_Hongqiao_Station.jpg](https://zh.wikipedia.org/wiki/File:201706_CRH2C-2150_at_Shanghai_Hongqiao_Station.jpg "fig:201706_CRH2C-2150_at_Shanghai_Hongqiao_Station.jpg")的CRH2C-2150停靠在[上海虹桥站](https://zh.wikipedia.org/wiki/上海虹桥站 "wikilink")\]\] 由于四方机车车辆也承担了新一代时速380公里级别高速动车组（[CRH380A](https://zh.wikipedia.org/wiki/CRH380A "wikilink")）的研发任务，为了预先获得CRH380A型动车组新头型的空气动力效能和实车试验数据，铁道部于2009年决定将CRH2C-2150作为CRH380A的试验实体样车，改为使用下一代的新头型。2010年1月，CRH2-380的车体率先于网上曝光\[51\]。四方机车车辆股份于2010年4月12日，通过新一代高速列车新头型发布会，宣布4月底完成试验车下线。这列动车组于2010年4月底在青岛下线，车身仅标示为“试验车 CRH380A”。2010年4月26日，试验动车组被运送至[中国国家铁道试验中心北京环行铁道](../Page/中国国家铁道试验中心（东郊分院）.md "wikilink")，安装各种试验设备并佈线；2010年5月4日，列车由北京出发经[京广铁路](../Page/京广铁路.md "wikilink")赴[郑州](https://zh.wikipedia.org/wiki/郑州 "wikilink")；5月11日起，试验车开始于[郑西客运专线](../Page/郑西客运专线.md "wikilink")进行时速160公里以下调试试验，6月7日开始正式高速试验，通常每天往返[郑州和](https://zh.wikipedia.org/wiki/郑州站 "wikilink")[灵宝西共三个来回](../Page/灵宝西站.md "wikilink")，试验一直持续至8月。2010年9月初，这列试验车转往[武广客运专线继续进行试验工作](https://zh.wikipedia.org/wiki/武广客运专线 "wikilink")。至同年11月，按铁道部统一安排，CRH2C-2150正式配属上海铁路局，作为综合检测车之用。
+[201706_CRH2C-2150_at_Shanghai_Hongqiao_Station.jpg](https://zh.wikipedia.org/wiki/File:201706_CRH2C-2150_at_Shanghai_Hongqiao_Station.jpg "fig:201706_CRH2C-2150_at_Shanghai_Hongqiao_Station.jpg")的CRH2C-2150停靠在[上海虹桥站](https://zh.wikipedia.org/wiki/上海虹桥站 "wikilink")\]\] 由于四方机车车辆也承担了新一代时速380公里级别高速动车组（[CRH380A](https://zh.wikipedia.org/wiki/CRH380A "wikilink")）的研发任务，为了预先获得CRH380A型动车组新头型的空气动力效能和实车试验数据，铁道部于2009年决定将CRH2C-2150作为CRH380A的试验实体样车，改为使用下一代的新头型。2010年1月，CRH2-380的车体率先于网上曝光\[52\]。四方机车车辆股份于2010年4月12日，通过新一代高速列车新头型发布会，宣布4月底完成试验车下线。这列动车组于2010年4月底在青岛下线，车身仅标示为“试验车 CRH380A”。2010年4月26日，试验动车组被运送至[中国国家铁道试验中心北京环行铁道](../Page/中国国家铁道试验中心（东郊分院）.md "wikilink")，安装各种试验设备并佈线；2010年5月4日，列车由北京出发经[京广铁路](../Page/京广铁路.md "wikilink")赴[郑州](https://zh.wikipedia.org/wiki/郑州 "wikilink")；5月11日起，试验车开始于[郑西客运专线](../Page/郑西客运专线.md "wikilink")进行时速160公里以下调试试验，6月7日开始正式高速试验，通常每天往返[郑州和](https://zh.wikipedia.org/wiki/郑州站 "wikilink")[灵宝西共三个来回](../Page/灵宝西站.md "wikilink")，试验一直持续至8月。2010年9月初，这列试验车转往[武广客运专线继续进行试验工作](https://zh.wikipedia.org/wiki/武广客运专线 "wikilink")。至同年11月，按铁道部统一安排，CRH2C-2150正式配属上海铁路局，作为综合检测车之用。
 
 ### CRH2E
 
-[CRH2E-2127_at_Shoupakou_(20180506190034).jpg](https://zh.wikipedia.org/wiki/File:CRH2E-2127_at_Shoupakou_\(20180506190034\).jpg "fig:CRH2E-2127_at_Shoupakou_(20180506190034).jpg") [CRH2E-2463@BJX_(20190624193548).jpg](https://zh.wikipedia.org/wiki/File:CRH2E-2463@BJX_\(20190624193548\).jpg "fig:CRH2E-2463@BJX_(20190624193548).jpg")\]\] 第一代CRH2E型卧鋪[電力動車組](https://zh.wikipedia.org/wiki/電力動車組 "wikilink")，总数量有20列（现时为19列）。与CRH2B一样，为16輛編組列車，列车設有13節软卧车、2節二等座車和1節餐車，标称时速200公里，最高营运时速为250公里。软卧车每輛10個包廂，共40個鋪位\[52\]，餐車內設有休閒酒吧。全列车列装有四副[集電弓](../Page/集電弓.md "wikilink")。
+[CRH2E-2127_at_Shoupakou_(20180506190034).jpg](https://zh.wikipedia.org/wiki/File:CRH2E-2127_at_Shoupakou_\(20180506190034\).jpg "fig:CRH2E-2127_at_Shoupakou_(20180506190034).jpg") [CRH2E-2463@BJX_(20190624193548).jpg](https://zh.wikipedia.org/wiki/File:CRH2E-2463@BJX_\(20190624193548\).jpg "fig:CRH2E-2463@BJX_(20190624193548).jpg")\]\] 第一代CRH2E型卧鋪[電力動車組](https://zh.wikipedia.org/wiki/電力動車組 "wikilink")，总数量有20列（现时为19列）。与CRH2B一样，为16輛編組列車，列车設有13節软卧车、2節二等座車和1節餐車，标称时速200公里，最高营运时速为250公里。软卧车每輛10個包廂，共40個鋪位\[53\]，餐車內設有休閒酒吧。全列车列装有四副[集電弓](../Page/集電弓.md "wikilink")。
 
 在2011年发生的[动车组列车追尾事故中](../Page/2011年甬台温铁路列车追尾事故.md "wikilink")，由CRH2E-2139（当时编号CRH<sub>2</sub>-139E）担当的D301次列车追尾了一列从杭州站始发前往福州南站的D3115次动车组列车，导致D301次动车组列车第1至4位车辆脱轨坠落桥下，其中1节车厢悬空。事发后1至5號车廂因脱轨而报废，11至16號車厢被鐵道總公司改造為综合检测列车（CRH2J-0205），其餘車廂被鐵路總公司拆解。
 
-直至於2014年11月，19列CRH2E型均配属于北京铁路局，以及上海铁路局。2015年1月起，北京铁路局使用CRH2E开行北京西经[京广高速铁路](../Page/京广高速铁路.md "wikilink")至广州南、深圳北的卧铺动车组列车，这些动卧列车后来改为逢周五、六、日、一开行\[53\]，D923/924次更于2015年11月27日延长至。
+直至於2014年11月，19列CRH2E型均配属于北京铁路局，以及上海铁路局。2015年1月起，北京铁路局使用CRH2E开行北京西经[京广高速铁路](../Page/京广高速铁路.md "wikilink")至广州南、深圳北的卧铺动车组列车，这些动卧列车后来改为逢周五、六、日、一开行\[54\]，D923/924次更于2015年11月27日延长至。
 
-2015年新造的CRH2E現時有5列，其中CRH2E-2461号车（取代CRH2E-2139）采用与CRH2G相同的头型，并已于同年12月14日投入运营。新CRH2E的下层卧铺采用了抽拉式结构，增加了三个靠背，以便[卧代座](../Page/卧代座.md "wikilink")。\[54\]2017年3月，首列采用纵向卧铺的CRH2E下线，并开始进行测试。\[55\]2017年7月1日起，采用纵向卧铺的CRH2E开始担当D311/312次列车，首发列车于当日21时16分从[北京南站](../Page/北京南站.md "wikilink")驶出\[56\]。
+2015年新造的CRH2E現時有5列，其中CRH2E-2461号车（取代CRH2E-2139）采用与CRH2G相同的头型，并已于同年12月14日投入运营。新CRH2E的下层卧铺采用了抽拉式结构，增加了三个靠背，以便[卧代座](../Page/卧代座.md "wikilink")。\[55\]2017年3月，首列采用纵向卧铺的CRH2E下线，并开始进行测试。\[56\]2017年7月1日起，采用纵向卧铺的CRH2E开始担当D311/312次列车，首发列车于当日21时16分从[北京南站](../Page/北京南站.md "wikilink")驶出\[57\]。
 
   - CRH2E 編组表
 
@@ -1398,7 +1390,7 @@ ZE 2xxx00</p></td>
 </tbody>
 </table>
 <ul>
-<li>xxxx：列車編號（2121～2140、2461～2465），由2014年7月1日起，所有CRH系列动车组編號均作出了更改，原編號為（CRH<sub>2</sub>—xxxE），現改為（CRH2E-2xxx），該日之後的生產动车组均依照新規定之格式定編號。[57][58]</li>
+<li>xxxx：列車編號（2121～2140、2461～2465），由2014年7月1日起，所有CRH系列动车组編號均作出了更改，原編號為（CRH<sub>2</sub>—xxxE），現改為（CRH2E-2xxx），該日之後的生產动车组均依照新規定之格式定編號。[58][59]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -1406,9 +1398,9 @@ ZE 2xxx00</p></td>
 
 ### CRH2G
 
-[CRH2G-4072@CDD_(20180217085701).jpg](https://zh.wikipedia.org/wiki/File:CRH2G-4072@CDD_\(20180217085701\).jpg "fig:CRH2G-4072@CDD_(20180217085701).jpg")\]\] CRH2G型高寒抗风沙动车组是由[中国中车](../Page/中国中车.md "wikilink")[青岛四方机车车辆股份有限公司历经](../Page/中车青岛四方机车车辆.md "wikilink")3年的调研、试验和线路考核自主研制的，期间进行了大量试验研究，全面验证了动车组技术性能。其中，耐低温试验67项，抗风沙试验16项，高海拔试验6项，并先后在[哈大高铁和](https://zh.wikipedia.org/wiki/哈大高铁 "wikilink")[兰新铁路第二双线](../Page/兰新铁路第二双线.md "wikilink")通过了线路考核\[59\]。CRH2G是CRH2系列的高寒抗风沙型号，2015年11月10日获得国家铁路局颁发的型号合格证和制造许可证，同年12月开始配属[兰州铁路局和](https://zh.wikipedia.org/wiki/兰州铁路局 "wikilink")[乌鲁木齐铁路局](https://zh.wikipedia.org/wiki/乌鲁木齐铁路局 "wikilink")，用于[兰新铁路第二双线](../Page/兰新铁路第二双线.md "wikilink")上的列车。\[60\]2015年，[中车南京浦镇车辆](../Page/中车南京浦镇车辆.md "wikilink")获四方厂技术平移，开始试制CRH2G\[61\]，首列已于2017年9月下线并运抵[铁科院东郊分院调试](../Page/中国国家铁道试验中心（东郊分院）.md "wikilink")。
+[CRH2G-4072@CDD_(20180217085701).jpg](https://zh.wikipedia.org/wiki/File:CRH2G-4072@CDD_\(20180217085701\).jpg "fig:CRH2G-4072@CDD_(20180217085701).jpg")\]\] CRH2G型高寒抗风沙动车组是由[中国中车](../Page/中国中车.md "wikilink")[青岛四方机车车辆股份有限公司历经](../Page/中车青岛四方机车车辆.md "wikilink")3年的调研、试验和线路考核自主研制的，期间进行了大量试验研究，全面验证了动车组技术性能。其中，耐低温试验67项，抗风沙试验16项，高海拔试验6项，并先后在[哈大高铁和](https://zh.wikipedia.org/wiki/哈大高铁 "wikilink")[兰新铁路第二双线](../Page/兰新铁路第二双线.md "wikilink")通过了线路考核\[60\]。CRH2G是CRH2系列的高寒抗风沙型号，2015年11月10日获得国家铁路局颁发的型号合格证和制造许可证，同年12月开始配属[兰州铁路局和](https://zh.wikipedia.org/wiki/兰州铁路局 "wikilink")[乌鲁木齐铁路局](https://zh.wikipedia.org/wiki/乌鲁木齐铁路局 "wikilink")，用于[兰新铁路第二双线](../Page/兰新铁路第二双线.md "wikilink")上的列车。\[61\]2015年，[中车南京浦镇车辆](../Page/中车南京浦镇车辆.md "wikilink")获四方厂技术平移，开始试制CRH2G\[62\]，首列已于2017年9月下线并运抵[铁科院东郊分院调试](../Page/中国国家铁道试验中心（东郊分院）.md "wikilink")。
 
-作为中国高铁的全新车型，跟普通CRH2系列相比，CRH2G型动车组具有耐高寒、抗风沙、耐高温、适应高海拔、防紫外线等特点，还能经受±40℃的高寒高温、在11级大风下安全运行\[62\]，适合[兰新铁路第二双线](../Page/兰新铁路第二双线.md "wikilink")的气候条件。\[63\]
+作为中国高铁的全新车型，跟普通CRH2系列相比，CRH2G型动车组具有耐高寒、抗风沙、耐高温、适应高海拔、防紫外线等特点，还能经受±40℃的高寒高温、在11级大风下安全运行\[63\]，适合[兰新铁路第二双线](../Page/兰新铁路第二双线.md "wikilink")的气候条件。\[64\]
 
   - CRH2G 編組表
 
@@ -1767,7 +1759,7 @@ SWTB-250/SWMB-250型无摇枕<a href="../Page/空氣彈簧.md" title="wikilink">
 </tr>
 <tr class="even">
 <td><p>最大運用軸重(乘車率200%)（吨）</p></td>
-<td><p>16[64]</p></td>
+<td><p>16[65]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1792,7 +1784,7 @@ SWTB-250/SWMB-250型无摇枕<a href="../Page/空氣彈簧.md" title="wikilink">
 <tr class="odd">
 <td><p>牽引电动机</p></td>
 <td><p>MT205型交流电动机（<a href="https://zh.wikipedia.org/wiki/三菱电机有限公司" title="wikilink">三菱电机技术授权</a>、<a href="https://zh.wikipedia.org/wiki/株洲南车电机股份有限公司" title="wikilink">株洲南车电机生产</a>）<br />
-YJ-92A型交流电动机[65]（<a href="https://zh.wikipedia.org/wiki/日立" title="wikilink">日立技术授权</a>、<a href="https://zh.wikipedia.org/wiki/永济电机" title="wikilink">永济电机生产</a>）<br />
+YJ-92A型交流电动机[66]（<a href="https://zh.wikipedia.org/wiki/日立" title="wikilink">日立技术授权</a>、<a href="https://zh.wikipedia.org/wiki/永济电机" title="wikilink">永济电机生产</a>）<br />
 （300千瓦）</p></td>
 <td><p>YJ-92A型交流电动机（<a href="https://zh.wikipedia.org/wiki/日立" title="wikilink">日立技术授权</a>、<a href="https://zh.wikipedia.org/wiki/永济电机" title="wikilink">永济电机生产</a>）<br />
 MB-5120-A型交流电动机（<a href="https://zh.wikipedia.org/wiki/三菱电机有限公司" title="wikilink">三菱电机技术授权</a>、<a href="https://zh.wikipedia.org/wiki/株洲南车电机股份有限公司" title="wikilink">株洲南车电机生产</a>）<br />
@@ -1850,15 +1842,15 @@ YJ-92A型交流电动机（<a href="https://zh.wikipedia.org/wiki/日立" title=
 
 ### 空调吸风问题
 
-中国的旅客列車中，部份長途車輛的洗手间缺乏集便装置，在行驶时会把污物直接排放在路轨邊的原野。而CRH2空调设备的进风口是置於车下，因此当列车行走在經高速化改造後的既有线铁路上时，进风口会把路轨沿线上的污物及丟棄垃圾等也一并吸入，造成部份车厢充斥异味，而空调过滤网也需频频清洗，平均每两天清洗一次，每四天便得要更换。日本都市化線路无污物排放问题，过滤网每月仅需清洗一次，設計思想不同造成體驗不良。车厢空调出现异味的问题最初仅在网上论坛流传，至2007年8月开始出现媒体报导\[66\]\[67\]。
+中国的旅客列車中，部份長途車輛的洗手间缺乏集便装置，在行驶时会把污物直接排放在路轨邊的原野。而CRH2空调设备的进风口是置於车下，因此当列车行走在經高速化改造後的既有线铁路上时，进风口会把路轨沿线上的污物及丟棄垃圾等也一并吸入，造成部份车厢充斥异味，而空调过滤网也需频频清洗，平均每两天清洗一次，每四天便得要更换。日本都市化線路无污物排放问题，过滤网每月仅需清洗一次，設計思想不同造成體驗不良。车厢空调出现异味的问题最初仅在网上论坛流传，至2007年8月开始出现媒体报导\[67\]\[68\]。
 
-这个问题已經在CRH2C及之后制造的CRH2系列获得解决，列車經改進後其方法是把风口改在上方\[68\]。
+这个问题已經在CRH2C及之后制造的CRH2系列获得解决，列車經改進後其方法是把风口改在上方\[69\]。
 
-[和谐号电力动车组](../Page/和谐号电力动车组.md "wikilink")全部使用[真空集便器](https://zh.wikipedia.org/wiki/真空集便器 "wikilink")。从2004年开始使用的[25T型客车配备真空集便器](https://zh.wikipedia.org/wiki/25T型客车 "wikilink")，未配真空集便器的普速客车，开始加装真空集便器\[69\]\[70\]。
+[和谐号电力动车组](../Page/和谐号电力动车组.md "wikilink")全部使用[真空集便器](https://zh.wikipedia.org/wiki/真空集便器 "wikilink")。从2004年开始使用的[25T型客车配备真空集便器](https://zh.wikipedia.org/wiki/25T型客车 "wikilink")，未配真空集便器的普速客车，开始加装真空集便器\[70\]\[71\]。
 
 ### 媒體報導
 
-在2007年1月，列車开始载客试运营首天，在車站及車廂內採訪的除了中國的媒體外，也有日本的媒體。中國媒體將之報導為「自主研發」的產品，變相把首三列於日本製造的CRH2列車也被硬稱為於中國製造，引起了部份中國鐵路迷及日本媒體的關注，[日本經濟新聞](../Page/日本經濟新聞.md "wikilink")稱此說法是「為了隱瞞讀者有關購買日本車輛及技術的事」。\[71\]
+在2007年1月，列車开始载客试运营首天，在車站及車廂內採訪的除了中國的媒體外，也有日本的媒體。中國媒體將之報導為「自主研發」的產品，變相把首三列於日本製造的CRH2列車也被硬稱為於中國製造，引起了部份中國鐵路迷及日本媒體的關注，[日本經濟新聞](../Page/日本經濟新聞.md "wikilink")稱此說法是「為了隱瞞讀者有關購買日本車輛及技術的事」。\[72\]
 
 ## 参考
 
@@ -1882,7 +1874,7 @@ YJ-92A型交流电动机（<a href="https://zh.wikipedia.org/wiki/日立" title=
   - [产品介绍（南车）](https://web.archive.org/web/20080923215229/http://www.csrgc.com.cn/cpyfw/dcz/2008-05-21/47.shtml)
   - [最高时速300公里 “子弹头”高速列车首次抵汉（163.com）](http://news.163.com/06/1023/09/2U40IAS200011229.html)
   - [组图：全国铁路将实施第六次大面积提速（人民网）](http://pic.people.com.cn/GB/42592/5058580.html)
-  - [走进动车组生产车间 探秘CRH2型列车（组图）](http://www.ce.cn/xwzx/gnsz/gdxw/200704/20/t20070420_11101964.shtml)
+  - [走进动车组生产车间 探秘CRH2型列车（组图）](https://web.archive.org/web/20070502163742/http://www.ce.cn/xwzx/gnsz/gdxw/200704/20/t20070420_11101964.shtml)
   - [CRH2車内設備（日语）](http://www.2427junction.com/chinahighcrh2int.html)
 
 <!-- end list -->
@@ -1896,136 +1888,74 @@ YJ-92A型交流电动机（<a href="https://zh.wikipedia.org/wiki/日立" title=
 [Category:日本出口電力動車組](https://zh.wikipedia.org/wiki/Category:日本出口電力動車組 "wikilink") [Category:川崎製鐵路車輛](https://zh.wikipedia.org/wiki/Category:川崎製鐵路車輛 "wikilink") [Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink") [Category:和谐号电力动车组](https://zh.wikipedia.org/wiki/Category:和谐号电力动车组 "wikilink") [Category:25千伏50赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力动车组 "wikilink") [Category:中车浦镇制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车浦镇制铁路车辆 "wikilink")
 
 1.  [“南车四方造”获铁路科技奖 -----时速300公里动车组年底下线](http://www.qddpc.gov.cn/ReadNews.asp?NewsID=3299)
-
 2.  [南车青岛四方股份高速转向架项目获国家科技进步一等奖](http://society.people.com.cn/GB/1062/10757826.html)
-
 3.
-
 4.  [川崎重工与中国铁道部签订高速铁路改造合同](http://jp.mofcom.gov.cn/aarticle/jmxw/200411/20041100300572.html)
-
 5.  [大公報：首批日本製造的新幹線子彈列車運抵青島港](http://www.takungpao.com:82/news/06/03/09/MW-535506.htm)
-
 6.  [首批日本新干线列车运抵青岛](http://www.gmw.cn/content/2006-03/09/content_386367.htm)
-
 7.  [新华网：“子弹头”周日开跑 沪杭线票价只要44元](http://news.xinhuanet.com/photo/2007-01/24/content_5645371.htm)
-
 8.  [新华网：国产高速列车今日正式投入运营](http://news.xinhuanet.com/photo/2007-01/28/content_5663856.htm)
-
 9.  [公司200公里动车组项目进展顺利](http://www.csrck.com/displaygsdt.asp?id=4)
-
 10. [铁路提速第一天：株洲电机提供核心部件表现优秀](http://news.eastday.com/eastday/06news/china/c/20070418/u1a2777156.html)
-
 11. [株洲时速200公里动车组牵引电机通过铁道部验收](http://hn.rednet.cn/c/2007/08/22/1298002.htm)
-
 12. [南车时代为首列时速300公里动车组装上"心脏"](http://www.csrgc.com.cn/articles/2008/01/15/20080110171302220323.html)
-
 13. [1](http://www.timeselectric.cn/affiche/uploadfiles/2007112618420567661.pdf)
-
 14. [青岛四方车辆公司承认，确与日方订购谈判高铁一事](http://ido.3mt.com.cn/pc/200511/20051128273280.shtm)
-
 15. [铁道部暗恋日本，高速列车再步失败模式后尘](http://www.geocities.jp/ps_dictionary/railway/111.htm)，《商务周刊》
-
 16. [我国自主研制的首列时速300公里动车组下线](http://news.xinhuanet.com/fortune/2007-12/22/content_7295526.htm)
-
 17. [国产首列时速300公里"和谐号"动车组成功下线](http://www.csrgc.com.cn/articles/2007/12/24/20071224163651730035.html)
-
 18. [京津高速列车抵京试验运行](http://www.beijingdaily.com.cn/bjxw/bjsh/shfz/200801/t20080108_409215.htm)
-
 19.
-
 20. [在京津城际跑出370公里时速 创国产动车组纪录](http://www.chinanews.com.cn/cj/cytx/news/2008/04-25/1231510.shtml)
-
 21. [关于动卧车票及CRH2系列列车的一些最新消息！](http://bbs.hasea.com/thread-296376-1-1.html)
-
 22. [视频：我国首列具自主知识产权长大编组动车组下线](http://tv.sohu.com/20080630/n257821447.shtml)
-
 23. [上海至合肥动车昨首发 全程3.5小时](http://www.news365.com.cn/xwzx/shxw/200808/t20080802_1973540.htm)
-
 24.
 25. [南车四方自主研制的世界首批长大编组卧车动车组投入运营](http://news.qingdaomedia.com/content_tv.asp?id=147249)
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
-32. [中国铁路首次开行卧铺动车组](http://news.163.com/08/1222/08/4TOL5IAL0001124J.html)
-
-33. [京沪卧铺动车组列车"揭秘": 休闲酒吧搬进车厢](http://news.xinhuanet.com/life/2008-12/19/content_10526206.htm)
-
-34.
-
+32.
+33. [中国铁路首次开行卧铺动车组](http://news.163.com/08/1222/08/4TOL5IAL0001124J.html)
+34. [京沪卧铺动车组列车"揭秘": 休闲酒吧搬进车厢](http://news.xinhuanet.com/life/2008-12/19/content_10526206.htm)
 35.
-
 36.
-
 37.
 38.
-39. [我国自主研制的首列时速300公里动车组下线](http://news.xinhuanet.com/fortune/2007-12/22/content_7295526.htm)
-
-40. [国产首列时速300公里"和谐号"动车组成功下线](http://www.csrgc.com.cn/articles/2007/12/24/20071224163651730035.html)
-
-41. [京津高速列车抵京试验运行](http://www.beijingdaily.com.cn/bjxw/bjsh/shfz/200801/t20080108_409215.htm)
-
-42.
-
-43. [在京津城际跑出370公里时速 创国产动车组纪录](http://www.chinanews.com.cn/cj/cytx/news/2008/04-25/1231510.shtml)
-
-44. [京津城际铁路开通10天载客超50万人次](http://news.xinhuanet.com/newscenter/2008-08/12/content_9222082.htm)
-
-45. [武汉各位注意，CRH2-067C/068C已到达汉口](http://bbs.hasea.com/thread-292528-1-1.html)
-
-46. [武广客专武汉综合试验段首次实现顺利试车　收集声屏障等相关参数](http://www.sooooob.cn/news/21.htm)
-
-47. 《CRH2-300型350 km/h动车组用YQ-365异步牵引电动机》，成熹，株洲南车电机股份有限公司，《机车电传动》，2009年第6期
-
-48. [南车青岛四方股份造动车组装备郑西高铁](http://finance.people.com.cn/GB/10942524.html)
-
-49.
+39.
+40. [我国自主研制的首列时速300公里动车组下线](http://news.xinhuanet.com/fortune/2007-12/22/content_7295526.htm)
+41. [国产首列时速300公里"和谐号"动车组成功下线](http://www.csrgc.com.cn/articles/2007/12/24/20071224163651730035.html)
+42. [京津高速列车抵京试验运行](http://www.beijingdaily.com.cn/bjxw/bjsh/shfz/200801/t20080108_409215.htm)
+43.
+44. [在京津城际跑出370公里时速 创国产动车组纪录](http://www.chinanews.com.cn/cj/cytx/news/2008/04-25/1231510.shtml)
+45. [京津城际铁路开通10天载客超50万人次](http://news.xinhuanet.com/newscenter/2008-08/12/content_9222082.htm)
+46. [武汉各位注意，CRH2-067C/068C已到达汉口](http://bbs.hasea.com/thread-292528-1-1.html)
+47. [武广客专武汉综合试验段首次实现顺利试车　收集声屏障等相关参数](http://www.sooooob.cn/news/21.htm)
+48. 《CRH2-300型350 km/h动车组用YQ-365异步牵引电动机》，成熹，株洲南车电机股份有限公司，《机车电传动》，2009年第6期
+49. [南车青岛四方股份造动车组装备郑西高铁](http://finance.people.com.cn/GB/10942524.html)
 50.
-51. [CRH380, 新一代的车体 (海子)](http://bbs.hasea.com/thread-440076-1-1.html)
-
-52. [中国铁路首次开行卧铺动车组](http://news.163.com/08/1222/08/4TOL5IAL0001124J.html)
-
-53.
-
+51.
+52. [CRH380, 新一代的车体 (海子)](http://bbs.hasea.com/thread-440076-1-1.html)
+53. [中国铁路首次开行卧铺动车组](http://news.163.com/08/1222/08/4TOL5IAL0001124J.html)
 54.
-
 55.
-
 56.
-
 57.
 58.
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
-65. [YJ92A动车组异步牵引电动机](http://www.yjemf.com.cn/yonge/index_cpjs.asp?action=read&id=240)
-
-66. [子弹头车厢气味难闻 30余乘客要求退票拒绝下车](http://news.sina.com.cn/s/2007-08-24/111013735685.shtml)
-
-67. [D字头列车车厢臭味熏人引发不满](http://news.sina.com.cn/s/2007-09-21/022213937851.shtml)
-
-68. [技术创新带动铁路发展提速-新闻联播080322](http://v.ku6.com/show/Ha0MRMU9eFY5-kqc.html)
-
-69. [武汉开行的旅客列车约九成告别直排式厕所](http://news.cnhubei.com/xw/wuhan/201510/t3421625.shtml)
-
-70. [维护集便器的队伍——列车“掏粪工”](http://news.hsw.cn/system/2015/0216/221622.shtml)
-
-71.
+65.
+66. [YJ92A动车组异步牵引电动机](http://www.yjemf.com.cn/yonge/index_cpjs.asp?action=read&id=240)
+67. [子弹头车厢气味难闻 30余乘客要求退票拒绝下车](http://news.sina.com.cn/s/2007-08-24/111013735685.shtml)
+68. [D字头列车车厢臭味熏人引发不满](http://news.sina.com.cn/s/2007-09-21/022213937851.shtml)
+69. [技术创新带动铁路发展提速-新闻联播080322](http://v.ku6.com/show/Ha0MRMU9eFY5-kqc.html)
+70. [武汉开行的旅客列车约九成告别直排式厕所](http://news.cnhubei.com/xw/wuhan/201510/t3421625.shtml)
+71. [维护集便器的队伍——列车“掏粪工”](http://news.hsw.cn/system/2015/0216/221622.shtml)
+72.

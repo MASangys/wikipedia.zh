@@ -55,48 +55,29 @@
 [Category:蘇格蘭劇作家](https://zh.wikipedia.org/wiki/Category:蘇格蘭劇作家 "wikilink") [Category:兒童文學作家](https://zh.wikipedia.org/wiki/Category:兒童文學作家 "wikilink") [Category:功績勳章成員](https://zh.wikipedia.org/wiki/Category:功績勳章成員 "wikilink") [Category:愛丁堡大學校友](https://zh.wikipedia.org/wiki/Category:愛丁堡大學校友 "wikilink") [Category:英国奇幻小说家](https://zh.wikipedia.org/wiki/Category:英国奇幻小说家 "wikilink")
 
 1.  Birkin, Andrew: J. M. Barrie & the Lost Boys Constable, 1979; revised edition, Yale University Press, 2003
-
 2.  Birkin, Andrew: J. M. Barrie & the Lost Boys (Constable, 1979; revised edition, Yale University Press, 2003)
-
 3.  Birkin, Andrew: *J. M. Barrie & the Lost Boys* Constable, 1979; revised edition, Yale University Press, 2003
-
 4.  *McConnachie and J. M. B.: Speeches of J. M. Barrie*, Peter Davies, 1938
-
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.
 11.
 12. Dominic Shellard, et al. *The Lord Chamberlain Regrets*, 2004, British Library, pp. 77–79.
-
 13.
 14.
-
 15.
-
 16.
-
 17. married the 3Q of 1892 in Hampstead, London: GROMI: vol. 1a, p. 1331
-
 18.
 19.  Retrieved from Internet Archive 27 December 2013.
-
-20. [J. M. Barrie's Boy Castaways](http://beinecke.library.yale.edu/digitallibrary/castaways.html) at the [Beinecke Rare Book and Manuscript Library at Yale University](http://www.library.yale.edu/beinecke/index.html)
-
+20. [J. M. Barrie's Boy Castaways](http://beinecke.library.yale.edu/digitallibrary/castaways.html)  at the [Beinecke Rare Book and Manuscript Library at Yale University](http://www.library.yale.edu/beinecke/index.html)
 21.
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27. Birkin, Andrew: J. M. Barrie & the Lost Boys (Constable, 1979; revised edition, Yale University Press, 2004)

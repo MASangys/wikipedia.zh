@@ -31,21 +31,13 @@
 [Category:蝎虎座BL型天体](https://zh.wikipedia.org/wiki/Category:蝎虎座BL型天体 "wikilink") [Category:耀变体](https://zh.wikipedia.org/wiki/Category:耀变体 "wikilink") [Category:活动星系核](https://zh.wikipedia.org/wiki/Category:活动星系核 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11. {{ Cite news|url=[https://www.nytimes.com/2018/07/12/science/space-neutrinos-blazar.html|title=It](https://www.nytimes.com/2018/07/12/science/space-neutrinos-blazar.html%7Ctitle=It) Came From a Black Hole, and Landed in Antarctica|last=Overbye|first=Dennis|work=NY Times|access-date=2018-07-16|language=en}}

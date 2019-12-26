@@ -19,7 +19,7 @@
 <td><p><strong>陳　威</strong></p></td>
 <td><p>「陳威記」雞檔檔主，後為的士司機<br />
 歐麗蓉之夫<br />
-陳家樂養父<br />
+陳家樂之養父<br />
 陳家寶之親父</p></td>
 <td><p><strong>威記</strong></p></td>
 </tr>
@@ -28,7 +28,7 @@
 <td><p><strong>歐麗蓉</strong></p></td>
 <td><p>「陳威記」雞檔檔主，後為菜檔員工<br />
 陳威之妻<br />
-陳家樂養母<br />
+陳家樂之養母<br />
 陳家寶之親母</p></td>
 <td><p><strong>Honey<br />
 （陳家樂專用）</strong></p></td>
@@ -38,9 +38,9 @@
 <td><p><strong>陳家樂</strong></p></td>
 <td><p>雞檔小開、「川香樓」員工，15集離職<br />
 「有麵食」大廚兼合夥人；「Kopitarn」合夥人<br />
-陳威、歐麗蓉養子<br />
-周文希男友<br />
-周芷茵、游學澧、王福生好友</p></td>
+陳威、歐麗蓉之養子<br />
+周文希之男友<br />
+周芷茵、游學澧、王福生之好友</p></td>
 <td><p><strong>雞仔</strong><br />
 <strong>總陀主</strong></p></td>
 </tr>
@@ -49,7 +49,7 @@
 <td><p><strong>陳家寶</strong></p></td>
 <td><p>陳威、歐麗蓉之女<br />
 陳家樂之妹<br />
-王福生女友</p></td>
+王福生之女友</p></td>
 <td><p>Kabo</p></td>
 </tr>
 </tbody>
@@ -282,73 +282,67 @@ Vicky之上司</p></td>
 <td><p><strong>雞仔</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><strong><a href="../Page/楊怡.md" title="wikilink">楊　怡</a></strong></p></td>
 <td><p><strong>周芷茵</strong></p></td>
 <td><p>「Yummy Yummy終極美食大競賽」香港參賽者</p></td>
 <td><p><strong>Yan/檸檬</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/黃泆潼.md" title="wikilink">黃泆潼</a></p></td>
 <td><p>-</p></td>
 <td><p>「Yummy Yummy終極美食大競賽」香港參賽者</p></td>
 <td><p>朱事厘</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/何俊軒.md" title="wikilink">何俊軒</a></p></td>
 <td><p>-</p></td>
 <td><p>「Yummy Yummy終極美食大競賽」香港參賽者</p></td>
 <td><p>大隻仔</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/伍濼文" title="wikilink">伍濼文</a></p></td>
 <td><p>敏</p></td>
 <td><p>「Yummy Yummy終極美食大競賽」香港參賽者</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/陳文靜" title="wikilink">陳文靜</a></p></td>
 <td><p>麗</p></td>
 <td><p>「Yummy Yummy終極美食大競賽」香港參賽者</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="../Page/楊志龍.md" title="wikilink">楊志龍</a></strong></p></td>
 <td><p><strong>王福生</strong></p></td>
 <td><p>「Yummy Yummy終極美食大競賽」新加坡參賽者</p></td>
 <td><p><strong>Terry</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/陳泓宇" title="wikilink">陳泓宇</a></strong></p></td>
 <td><p>吳世龍</p></td>
 <td><p>「Yummy Yummy終極美食大競賽」新加坡參賽者<br />
 與游學澧不和</p></td>
 <td><p><strong>班長</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/李之晴" title="wikilink">李之晴</a></p></td>
 <td><p>Macy</p></td>
 <td><p>「Yummy Yummy終極美食大競賽」新加坡參賽者</p></td>
 <td><p>大板牙</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/詹金泉" title="wikilink">詹金泉</a></p></td>
 <td><p>-</p></td>
 <td><p>「Yummy Yummy終極美食大競賽」新加坡參賽者</p></td>
 <td><p>Rambo</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/傅芳玲" title="wikilink">傅芳玲</a></p></td>
 <td><p>-</p></td>
 <td><p>「Yummy Yummy終極美食大競賽」新加坡參賽者</p></td>
 <td><p>豆腐妹</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/秦煌.md" title="wikilink">秦　煌</a></p></td>
 <td><p>羅　波</p></td>
 <td><p>著名食家<br />

@@ -121,7 +121,7 @@
 | 2015 | Supper Moment                                                           |
 | 2016 | Supper Moment                                                           |
 | 2017 | Supper Moment                                                           |
-| 2018 | Rubberband                                                              |
+| 2018 | RubberBand                                                              |
 
   - 獲CM共和組合金獎次數排名
 
@@ -615,25 +615,25 @@
 
 ### CM共和唱作人三甲
 
-| 年份   | 得獎歌手                                                                    |
-| ---- | ----------------------------------------------------------------------- |
-| 金獎   | 銀獎                                                                      |
-| 2003 | [梁詠琪](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink")                     |
-| 2004 | [張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink")                     |
-| 2005 | [何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")                     |
-| 2006 | [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")                     |
-| 2007 | [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")                     |
-| 2008 | [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")                     |
-| 2009 | [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")                     |
-| 2010 | [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")                     |
-| 2011 | [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")                     |
-| 2012 | [周國賢](../Page/周國賢.md "wikilink")                                        |
-| 2013 | [藍奕邦](../Page/藍奕邦.md "wikilink")                                        |
-| 2014 | [林奕匡](../Page/林奕匡.md "wikilink")                                        |
-| 2015 | [Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink") |
-| 2016 | [周國賢](../Page/周國賢.md "wikilink")                                        |
-| 2017 | [AGA](https://zh.wikipedia.org/wiki/AGA "wikilink")                     |
-| 2018 | Rubberband                                                              |
+| 年份   | 得獎歌手                                                |
+| ---- | --------------------------------------------------- |
+| 金獎   | 銀獎                                                  |
+| 2003 | [梁詠琪](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink") |
+| 2004 | [張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink") |
+| 2005 | [何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink") |
+| 2006 | [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") |
+| 2007 | 王菀之                                                 |
+| 2008 | 方大同                                                 |
+| 2009 | 王菀之                                                 |
+| 2010 | 王菀之                                                 |
+| 2011 | 王菀之                                                 |
+| 2012 | 周國賢                                                 |
+| 2013 | 藍奕邦                                                 |
+| 2014 | [林奕匡](../Page/林奕匡.md "wikilink")                    |
+| 2015 | Supper Moment                                       |
+| 2016 | 周國賢                                                 |
+| 2017 | [AGA](https://zh.wikipedia.org/wiki/AGA "wikilink") |
+| 2018 | RubberBand                                          |
 
   - 獲CM共和唱作人金獎次數排名
 
@@ -649,7 +649,7 @@
 | [林奕匡](../Page/林奕匡.md "wikilink")                                        | 1                                                   | 2014 |                     |
 | [Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink") | 1                                                   | 2015 |                     |
 | [AGA](https://zh.wikipedia.org/wiki/AGA "wikilink")                     | 1                                                   | 2017 |                     |
-| [Rubberband](https://zh.wikipedia.org/wiki/Rubberband "wikilink")       | 1                                                   | 2018 |                     |
+| [RubberBand](../Page/RubberBand.md "wikilink")                          | 1                                                   | 2018 |                     |
 
 ## 參考
 

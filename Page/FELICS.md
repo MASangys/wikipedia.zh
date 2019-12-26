@@ -27,7 +27,6 @@ FELICS 的改进包括根据前面的数据块搜索 Rice 的参数 k 的方法�
 ## 参考文献
 
 1.  P. G. Howard and J. S. Vitter. \`\`Fast and Efficient Lossless Image Compression,'' Proceedings of the 1993 IEEE Data Compression Conference (DCC '93), Snowbird, UT, April 1993. \[<http://ieeexplore.ieee.org/search/srchabstract.jsp?arnumber=253114&isnumber=6456&punumber=452&k2dockey=253114@ieeecnfs&query=%28%28felics%29%3Cin%3Emetadata%29&pos=2>. IEEExplore Abstract\]
-
 2.
 ## 参见
 

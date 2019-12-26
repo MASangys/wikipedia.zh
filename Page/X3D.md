@@ -45,7 +45,7 @@ X3D浏览器可以通过插件的形式支持Wii控制器、Kinect体感识别�
   - [用X3D替代VRML 2.0的十个理由](http://17de.com/x3d/x3d_vs_vrml.html)
   - [X3D常见问题集](http://17de.com/x3d/faq.html)
   - [从VRML到X3D](http://17de.com/x3d/vrml2x3d.html)
-  - [Flux Player和Flux Studio](http://mediamachines.wordpress.com/flux-player-and-flux-studio/)
+  - [Flux Player和Flux Studio](https://web.archive.org/web/20111225214411/http://mediamachines.wordpress.com/flux-player-and-flux-studio/)
   - [HTML5和WebGL樣例](http://www.x3dom.org/?page_id=5)
 
 [Category:计算机语言](https://zh.wikipedia.org/wiki/Category:计算机语言 "wikilink") [Category:ISO](https://zh.wikipedia.org/wiki/Category:ISO "wikilink") [Category:置标语言](https://zh.wikipedia.org/wiki/Category:置标语言 "wikilink") [Category:虚拟现实](https://zh.wikipedia.org/wiki/Category:虚拟现实 "wikilink") [Category:图形文件格式](https://zh.wikipedia.org/wiki/Category:图形文件格式 "wikilink") [Category:三维计算机图形学](https://zh.wikipedia.org/wiki/Category:三维计算机图形学 "wikilink") [Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink")

@@ -66,20 +66,12 @@
 [Category:中国柴油动车组](https://zh.wikipedia.org/wiki/Category:中国柴油动车组 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink") [Category:中车大连制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车大连制铁路车辆 "wikilink") [Category:南宁铁路局](https://zh.wikipedia.org/wiki/Category:南宁铁路局 "wikilink") [Category:武汉铁路局](https://zh.wikipedia.org/wiki/Category:武汉铁路局 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.

@@ -34,15 +34,10 @@
 [Category:地球帝國系列](https://zh.wikipedia.org/wiki/Category:地球帝國系列 "wikilink") [Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Windows独占游戏](https://zh.wikipedia.org/wiki/Category:Windows独占游戏 "wikilink") [Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink") [Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink") [Category:多人及单人电子游戏](https://zh.wikipedia.org/wiki/Category:多人及单人电子游戏 "wikilink") [Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink") [Category:跨時代遊戲](https://zh.wikipedia.org/wiki/Category:跨時代遊戲 "wikilink") [Category:Gamebryo引擎游戏](https://zh.wikipedia.org/wiki/Category:Gamebryo引擎游戏 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.  [The Art of Supremacy at Gamespot March 1, 2006](http://www.gamespot.com/pc/strategy/empireearth2theartofsupremacy/review.html) 2007年2月23日
-
 8.

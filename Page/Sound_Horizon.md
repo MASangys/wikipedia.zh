@@ -1628,7 +1628,7 @@ REVO個人名義發行的作品
 
   - [Sound Horizon official website](http://soundhorizon.com/) Sound Horizon官方網站
   - [Sound Horizon的官方Twitter](https://twitter.com/S_Horizon_info)
-  - [ポニーキャニオン 音楽専用サイト - Sound Horizon](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_ART_1010&CMD=DSP&DSP_ATSCOD=30947400)唱片公司的Sound Horizon介紹頁
+  - [ポニーキャニオン 音楽専用サイト - Sound Horizon](https://web.archive.org/web/20131215152708/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_ART_1010&CMD=DSP&DSP_ATSCOD=30947400)唱片公司的Sound Horizon介紹頁
 
 ''' 特設網頁 '''
 

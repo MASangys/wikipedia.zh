@@ -174,18 +174,14 @@
 [Category:葬于克朗山公墓](https://zh.wikipedia.org/wiki/Category:葬于克朗山公墓 "wikilink") [Category:美國民主黨副總統候選人](https://zh.wikipedia.org/wiki/Category:美國民主黨副總統候選人 "wikilink") [Category:印第安纳州州长](https://zh.wikipedia.org/wiki/Category:印第安纳州州长 "wikilink") [Category:印第安纳州民主党人](https://zh.wikipedia.org/wiki/Category:印第安纳州民主党人 "wikilink") [Category:印第安纳州律师](https://zh.wikipedia.org/wiki/Category:印第安纳州律师 "wikilink") [Category:印第安纳州哥伦比亚城人士](https://zh.wikipedia.org/wiki/Category:印第安纳州哥伦比亚城人士 "wikilink") [Category:1912年美国总统选举候选人](https://zh.wikipedia.org/wiki/Category:1912年美国总统选举候选人 "wikilink") [Category:1912年美国副总统候选人](https://zh.wikipedia.org/wiki/Category:1912年美国副总统候选人 "wikilink") [Category:1916年美国副总统候选人](https://zh.wikipedia.org/wiki/Category:1916年美国副总统候选人 "wikilink") [Category:美国副总统](https://zh.wikipedia.org/wiki/Category:美国副总统 "wikilink") [Category:瓦伯西學院校友](https://zh.wikipedia.org/wiki/Category:瓦伯西學院校友 "wikilink") [Category:美国民主党副总统](https://zh.wikipedia.org/wiki/Category:美国民主党副总统 "wikilink") [Category:美国民主党州长](https://zh.wikipedia.org/wiki/Category:美国民主党州长 "wikilink") [Category:印第安纳州北曼彻斯特人士](https://zh.wikipedia.org/wiki/Category:印第安纳州北曼彻斯特人士 "wikilink") [Category:印第安纳州普林斯顿人士](https://zh.wikipedia.org/wiki/Category:印第安纳州普林斯顿人士 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.
 7.
-
 8.
 9.
-
 10.
 11.
 12.
@@ -218,7 +214,6 @@
 39.
 40.
 41.
-
 42.
 43.
 44.
@@ -245,10 +240,8 @@
 65.
 66.
 67.
-
 68.
 69.
-
 70.
 71.
 72.
@@ -266,7 +259,6 @@
 84.
 85.
 86.
-
 87.
 88.
 89.
@@ -274,10 +266,8 @@
 91.
 92.
 93.  — Introduction by Mark O. Hatfield (for full citation from the Senate website, see printer option at the bottom of the webpage).
-
 94.
 95.
-
 96.
 97.
 98.
@@ -290,7 +280,6 @@
 105.
 106.
 107.
-
 108.
 109.
 110.
@@ -317,7 +306,6 @@
 131.
 132.
 133.
-
 134.
 135.
 136.
@@ -357,18 +345,15 @@
 170.
 171.
 172.
-
 173.
 174.
 175.
 176.
 177.
 178. Rines, George Edwin, ed. (1920). The Encyclopedia Americana. "Marshall, Thomas Riley"
-
 179.
 180.
 181.
-
 182.
 183.
 184.

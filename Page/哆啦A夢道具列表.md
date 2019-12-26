@@ -1,4 +1,4 @@
-**哆啦A夢的道具列表**是[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")原作[漫畫以及衍生](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[動畫系列](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》角色「[哆啦A夢](../Page/哆啦A夢_\(角色\).md "wikilink")」其腹部的「四次元百寶袋」所拿出的[法寶](../Page/法寶_\(多啦A夢\).md "wikilink")（秘密道-{}-具）的一覽表。**截止目前為止哆啦A夢共有約2616個道具。**\[1\]
+**哆啦A夢的道具列表**是[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")原作[漫畫以及衍生](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[動畫系列](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》角色「[哆啦A夢](../Page/哆啦A夢_\(角色\).md "wikilink")」其腹部的「百寶袋」所拿出的[法寶](../Page/法寶_\(多啦A夢\).md "wikilink")（秘密道-{}-具）的一覽表。**截止目前為止哆啦A夢共有約2616個道具。**\[1\]
 
 ## 原作與動畫的差異
 

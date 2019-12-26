@@ -28,8 +28,8 @@ X线是由高速运行的电子群撞击物质突然被阻时产生的。因此�
 
 <!-- end list -->
 
-  - [制動輻射](https://zh.wikipedia.org/wiki/制動輻射 "wikilink")（Bremsstrahlung） 高速電子突然減速後，其動能轉變成能量釋放齣來，此能量即为X-ray，且此能量會隨減速之程度爾而有所不同。
-  - [特性輻射](https://zh.wikipedia.org/wiki/特性輻射 "wikilink")（Characteristic） 高速電子撞擊原子和外圍軌道上電子，使之遊離且釋放之能量，即为X-ray。
+  - [制動輻射](https://zh.wikipedia.org/wiki/制動輻射 "wikilink")（Bremsstrahlung） 高速電子突然減速後，其動能轉變成能量釋放出來，此能量即为X-ray，且此能量會隨減速之程度而有所不同。
+  - [特性輻射](https://zh.wikipedia.org/wiki/特性輻射 "wikilink")（Characteristic） 高速電子撞擊原子核外圍軌道上電子，使之遊離且釋放之能量，即为X-ray。
 
 ## 運作
 

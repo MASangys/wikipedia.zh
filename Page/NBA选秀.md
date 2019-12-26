@@ -72,7 +72,7 @@ NBA规定了两个选秀资格声明日期。所有希望参与选秀但是没�
 
 ## 外部链接
 
-  - [NBA选秀基本情况介绍：选秀规则、抽签、挑球员](http://sports.163.com/07/0523/10/3F6058U600051GF9.html)
+  - [Espn.com Draft news](http://www.espn.com/nba/draft/news)
   - [NBA.com: NBA Draft History](http://www.nba.com/history/draft)
   - [Basketball-Reference.com: NBA Draft Index](https://www.basketball-reference.com/draft/).
   - [TheDraftReview.com: NBA Draft Index](http://www.thedraftreview.com/index.php?option=com_content&view=category&id=15&Itemid=370)

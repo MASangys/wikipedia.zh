@@ -47,7 +47,7 @@ Xgl在技术上为了要较好的实现OpenGL性能，需要用到目前一些3D
 ## 外部連結
 
   - [Xgl](https://web.archive.org/web/20060413160259/http://www.freedesktop.org/wiki/Software_2fXgl)
-  - [Xegl](http://www.freedesktop.org/wiki/Xegl)
+  - [Xegl](https://web.archive.org/web/20060407111627/http://www.freedesktop.org/wiki/Xegl)
   - [Announcement of Xgl on the xorg mailing list](http://lists.freedesktop.org/pipermail/xorg/2004-November/004358.html)
   - [Accelerated X flame wars\!—Maybe not](https://web.archive.org/web/20060903151727/http://www.freesoftwaremagazine.com/articles/accelerated_x) 一篇說明 AIGLX 和 Xgl 有什麼差別的文章。
 
@@ -55,7 +55,7 @@ Xgl在技术上为了要较好的实现OpenGL性能，需要用到目前一些3D
 
   - [openSUSE wiki for Xgl](http://www.opensuse.org/Xgl)
   - [openSUSE wiki for compiz](http://www.opensuse.org/compiz)
-  - [German XGL/Compiz-Support](http://www.xglusers.de)
+  - [German XGL/Compiz-Support](https://web.archive.org/web/20180808154945/http://xglusers.de/)
   - [查詢支援XGL的顯示晶片，以及推薦的顯示晶片](https://web.archive.org/web/20061024154951/http://en.opensuse.org/Xgl#Hardware_Advisory)
   - [Xgl on Ubuntu 6.06 How-To.](https://web.archive.org/web/20070409010500/http://www.biodesign.com.ar/blog/?p=16)
   - [Xgl on Gentoo How-To](https://web.archive.org/web/20060410140532/http://gentoo-wiki.com/HOWTO_XGL)
@@ -79,9 +79,9 @@ Xgl在技术上为了要较好的实现OpenGL性能，需要用到目前一些3D
   - [Binary packages for Ubuntu](https://web.archive.org/web/20170210105132/http://xgl.compiz.info/)
   - [Unofficial community forums](http://www.compiz.net)
   - [Communication between Xgl and Xorg - For dummies](https://web.archive.org/web/20060415183547/http://principe.homelinux.net/)
-  - [RR4/RR64 - 32/64bit Xgl LiveDVD](http://www.lxnaydesign.net/)
+  - [RR4/RR64 - 32/64bit Xgl LiveDVD](https://web.archive.org/web/20060515181349/http://www.lxnaydesign.net/)
   - Ultra high resolution XGL-KDE [demo and screencaps](http://www.saguratus.com/nick/xgl)
-      - 影片分流站台：[saguratus.com](http://www.saguratus.com/nick/xgl/xgl-kde.avi) [Filefront](http://files.filefront.com/5020047)
+      - 影片分流站台：[saguratus.com](http://www.saguratus.com/nick/xgl/xgl-kde.avi) [Filefront](https://web.archive.org/web/20060615133949/http://files.filefront.com/5020047)
   - [Mandriva 3D Video](http://www.dailymotion.com/video/xb7sz_mandriva-linux-2007-3d-desktop)
 
 [Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink") [Category:X服务器](https://zh.wikipedia.org/wiki/Category:X服务器 "wikilink") [Category:OpenGL](https://zh.wikipedia.org/wiki/Category:OpenGL "wikilink")

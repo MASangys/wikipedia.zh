@@ -140,7 +140,7 @@ FON的股東包括[Google](../Page/Google.md "wikilink")、[Skype](../Page/Skype
 
       - [英文FON網友網站](http://www.fontastic.org)
 
-      - [Fonera–Debricking and more](http://www.easy2design.de/bla/?page_id=98)
+      - [Fonera–Debricking and more](https://web.archive.org/web/20070126191319/http://www.easy2design.de/bla/?page_id=98)
 
       - <s>[香港熱點搜尋器](https://archive.is/20071213042500/http://www.freewifi.com.hk/)</s>
 
@@ -150,7 +150,7 @@ FON的股東包括[Google](../Page/Google.md "wikilink")、[Skype](../Page/Skype
 
 1.  WiFi路由器在[台灣一般稱為無線基地台或簡稱AP](https://zh.wikipedia.org/wiki/台灣 "wikilink")（Access Point，存取點）。
 
-2.  [FON FAQ](http://corp.fon.com/en/support/)
+2.  [FON FAQ](https://web.archive.org/web/20120307100048/http://corp.fon.com/en/support/)
 
 3.  [english.martinvarsavsky.net/2005/12/](http://english.martinvarsavsky.net/2005/12/)
 

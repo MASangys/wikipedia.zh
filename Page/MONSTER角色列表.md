@@ -1,4 +1,4 @@
-這是有關[動畫和](https://zh.wikipedia.org/wiki/動畫 "wikilink")[漫畫上的作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")「[MONSTER](https://zh.wikipedia.org/wiki/MONSTER "wikilink")」的人物列表。
+這是有關[動畫和](https://zh.wikipedia.org/wiki/動畫 "wikilink")[漫畫上的作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")「[MONSTER (漫畫)](https://zh.wikipedia.org/wiki/MONSTER_\(漫畫\) "wikilink")」的人物列表。
 
 ## 登場人物
 

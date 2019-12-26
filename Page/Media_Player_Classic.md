@@ -6,25 +6,25 @@ Media Player Classic是由名為"Gabest"的程式員建立，現時他仍然有�
 
 MPC项目现在主要由Doom9论坛社群维护。现时活跃的分支为Black Edition（MPC-BE）。[Media Player Classic Home Cinema](../Page/Media_Player_Classic_Home_Cinema.md "wikilink")（MPC-HC）分支于2017年7月16日宣布终止。\[1\]
 
-目前clsid2接替更新1.7.13後版本。
+目前clsid2接替更新1.7.13後版本。\[2\]
 
 ## 特色
 
 ### MPEG-1、MPEG-2及MPEG-4播放
 
-能播放[VCD](../Page/VCD.md "wikilink")、[SVCD](../Page/SVCD.md "wikilink")及[DVD格式](https://zh.wikipedia.org/wiki/DVD "wikilink")，無需安裝額外軟件及編碼／解碼器。Media Player Classic內含[MPEG-2](../Page/MPEG-2.md "wikilink")影像支援字幕播放及[LPCM](https://zh.wikipedia.org/wiki/PCM "wikilink")、[MP2](https://zh.wikipedia.org/wiki/MP2 "wikilink")、[AC3及](https://zh.wikipedia.org/wiki/AC3 "wikilink")[DTS](../Page/DTS.md "wikilink")音效播放。亦包含改進的[MPEG](../Page/MPEG.md "wikilink")解碼器以便支援SVCD字幕，利用其VCD/SVCD/XCD閱讀器，可直接播放VCD及SVCD。2005年10月30日，Gabest加上[\*.mp4及](https://zh.wikipedia.org/wiki/MPEG-4_Part_14 "wikilink")[MPEG-4時間字幕支援](https://zh.wikipedia.org/wiki/MPEG-4_Part_17 "wikilink")。\[2\]另外，[AAC解碼器亦已在MPC上推行](https://zh.wikipedia.org/wiki/AAC "wikilink")，這可令MPC可以播放以AAC壓縮的mp4檔案，成為[Winamp](../Page/Winamp.md "wikilink")及[iTunes代替品](https://zh.wikipedia.org/wiki/iTunes "wikilink")。
+能播放[VCD](../Page/VCD.md "wikilink")、[SVCD](../Page/SVCD.md "wikilink")及[DVD格式](https://zh.wikipedia.org/wiki/DVD "wikilink")，無需安裝額外軟件及編碼／解碼器。Media Player Classic內含[MPEG-2](../Page/MPEG-2.md "wikilink")影像支援字幕播放及[LPCM](https://zh.wikipedia.org/wiki/PCM "wikilink")、[MP2](https://zh.wikipedia.org/wiki/MP2 "wikilink")、[AC3及](https://zh.wikipedia.org/wiki/AC3 "wikilink")[DTS](../Page/DTS.md "wikilink")音效播放。亦包含改進的[MPEG](../Page/MPEG.md "wikilink")解碼器以便支援SVCD字幕，利用其VCD/SVCD/XCD閱讀器，可直接播放VCD及SVCD。2005年10月30日，Gabest加上[\*.mp4及](https://zh.wikipedia.org/wiki/MPEG-4_Part_14 "wikilink")支援。\[3\]另外，[AAC解碼器亦已在MPC上推行](https://zh.wikipedia.org/wiki/AAC "wikilink")，這可令MPC可以播放以AAC壓縮的mp4檔案，成為[Winamp](../Page/Winamp.md "wikilink")及[iTunes代替品](https://zh.wikipedia.org/wiki/iTunes "wikilink")。
 
 ### QuickTime及RealPlayer結構
 
-由於這個播放器主要是基於[DirectShow](../Page/DirectShow.md "wikilink")結構運作，如果在您的電腦中已經安裝了[QuickTime](../Page/QuickTime.md "wikilink")及／或[RealPlayer](../Page/RealPlayer.md "wikilink")，MPC亦都可以兩種原先的播放編碼播放這些檔案。
+由於這個播放器主要是基於[DirectShow](../Page/DirectShow.md "wikilink")結構運作，若在電腦中已經安裝[QuickTime](../Page/QuickTime.md "wikilink")及／或[RealPlayer](../Page/RealPlayer.md "wikilink")，可以使用兩種原先的播放編碼在MPC播放其檔案。
 
 ### Matroska及Ogg容器
 
-Media Player Classic本身包含了對[OGM及](https://zh.wikipedia.org/wiki/OGM "wikilink")[Matroska](../Page/Matroska.md "wikilink")等[容器格式的播放支援](https://zh.wikipedia.org/wiki/容器格式 "wikilink")。
+Media Player Classic本身包含了對及[Matroska](../Page/Matroska.md "wikilink")等[容器格式的播放支援](https://zh.wikipedia.org/wiki/容器格式 "wikilink")。
 
 ### 電視調解器
 
-如果已經安裝[電視調解卡的話](https://zh.wikipedia.org/wiki/電視調解卡 "wikilink")，MPC是可以支援[電視播放及錄影](https://zh.wikipedia.org/wiki/電視 "wikilink")。
+如果已經安裝的話，則可以支援[電視播放及錄影](https://zh.wikipedia.org/wiki/電視 "wikilink")。
 
 ### 圖片檢視器
 
@@ -40,10 +40,10 @@ Media Player Classic內置數項圖片格式的支援，包括[JPEG](../Page/JPE
 
 ## GPL版權被侵害
 
-  - 2005年4月23日，Gabest在專案的新聞頁面中發佈信息，指出有2個軟件被懷疑使用了該專案的原始碼卻未同樣以[GPL授權發佈](https://zh.wikipedia.org/wiki/GPL "wikilink")，違反了GPL的授權條款，一個是[韓國人製作的免費軟件](https://zh.wikipedia.org/wiki/韓國 "wikilink")[The KMPlayer](../Page/The_KMPlayer.md "wikilink")，另一個是商業軟件[VX30](http://www.vx30.com/)。Gabest對這個事件表示沮喪，他不知道如何對有關已違反了授權的組織進行有關的行動。\[3\]
+  - 2005年4月23日，Gabest在專案的新聞頁面中發佈信息，指出有2個軟件被懷疑使用了該專案的原始碼卻未同樣以[GPL授權發佈](https://zh.wikipedia.org/wiki/GPL "wikilink")，違反了GPL的授權條款，一個是[韓國人製作的免費軟件](https://zh.wikipedia.org/wiki/韓國 "wikilink")[The KMPlayer](../Page/The_KMPlayer.md "wikilink")，另一個是商業軟件[VX30](http://www.vx30.com/)。Gabest對這個事件表示沮喪，他不知道如何對有關已違反了授權的組織進行有關的行動。\[4\]
   - 2008年[The KMPlayer作者姜勇囍進入Daum](../Page/The_KMPlayer.md "wikilink") Communications，發表了改良版本[Daum PotPlayer](https://zh.wikipedia.org/wiki/Daum_PotPlayer "wikilink")，因此PotPlayer繼承了KMPlayer侵害GPL授權條款。
-  - 2009年[暴风影音](../Page/暴风影音.md "wikilink")和腾讯旗下的[QQ影音](../Page/QQ影音.md "wikilink")先后因未遵循GPL协议登上“耻辱堂”\[4\]。而[射手影音播放器](../Page/射手影音播放器.md "wikilink")也曾被指责有违反GPL协议的嫌疑，但软件作者否认\[5\]。
-  - 2009年射手播放器获得MPC-HC赞赏并成为MPC-HC的代码贡献者。\[6\]
+  - 2009年[暴风影音](../Page/暴风影音.md "wikilink")和腾讯旗下的[QQ影音](../Page/QQ影音.md "wikilink")先后因未遵循GPL协议登上“耻辱堂”\[5\]。而[射手影音播放器](../Page/射手影音播放器.md "wikilink")也曾被指责有违反GPL协议的嫌疑，但软件作者否认\[6\]。
+  - 2009年射手播放器获得MPC-HC赞赏并成为MPC-HC的代码贡献者。\[7\]
 
 ## 注释
 
@@ -68,8 +68,9 @@ Media Player Classic內置數項圖片格式的支援，包括[JPEG](../Page/JPE
 [Category:媒体播放器](https://zh.wikipedia.org/wiki/Category:媒体播放器 "wikilink") [Category:綠色軟件](https://zh.wikipedia.org/wiki/Category:綠色軟件 "wikilink") [Category:SourceForge專案](https://zh.wikipedia.org/wiki/Category:SourceForge專案 "wikilink")
 
 1.
-2.  [在Doom9論壇Gabest釋出之最新CVS組建](http://forum.doom9.org/showthread.php?t=101835)
-3.  <http://sourceforge.net/forum/forum.php?forum_id=462894>
-4.
+2.
+3.  [在Doom9論壇Gabest釋出之最新CVS組建](http://forum.doom9.org/showthread.php?t=101835)
+4.  <http://sourceforge.net/forum/forum.php?forum_id=462894>
 5.
-6.  <http://www.cnbeta.com/articles/91973.htm>
+6.
+7.  <http://www.cnbeta.com/articles/91973.htm>

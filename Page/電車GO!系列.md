@@ -54,7 +54,7 @@
 <!-- end list -->
 
   -
-    在平交道事故發生時顯示。這時必須將氣軔操作至**非常**位置，使車輛在平交道前停止，即可獲得分數。若和車輛發生碰撞時則扣秒數。
+    在平交道事故發生時顯示。這時必須將氣軔操作至**非常（紧急停车）**位置，使車輛在平交道前停止，即可獲得分數。若和車輛發生碰撞時則扣秒數。
 
 <!-- end list -->
 
@@ -72,7 +72,7 @@
 <!-- end list -->
 
   -
-    它設在一些危險之處（隧道口、橋樑、平交道等），玩者必須於它消失之前鳴笛，否則減去玩者的秒數。正方形黃底黑色叉叉。
+    它設在一些危險之處（隧道口、橋樑、平交道等），玩者必須於它出现的时候鳴笛，否則減去玩者的秒數。正方形黃底（部分版本为白底）黑色叉叉。
 
 <!-- end list -->
 
@@ -99,8 +99,8 @@
 <!-- end list -->
 
   -
-    當玩者駕駛列車停站或通過車站，若停站／通過時間比時刻表遲之時，則以1:1或1:2（視乎該路線難度）換算減去玩者持有的秒數。(FINAL版會扣減乘客滿意分)
-    雖然早到太多時間不會有懲罰，但是極有可能在兩站之間的閉塞區間被行車處罰（高機率出現減速或徐行的信號），如果玩家選擇的路線是快車的路線，這是非常不利的情形；在Professional 2中則會因列車早到而減去玩者秒數。
+    當玩者駕駛列車停站或通過車站，若停站／通過時間比時刻表遲之時，則以1:1或1:2（視乎該路線難度）換算減去玩家持有的秒數。(FINAL版會扣減乘客滿意分)
+    除了Professional 2版本以外，若玩家驾驶列车提前到达车站没有懲罰，但是極有可能在兩站之間的閉塞區間被行車處罰（高機率出現減速或停车的信號），如果玩家選擇的路線是快車的路線，這是非常不利的情形；在Professional 2中則會因列車早到而減去玩者秒數。
 
 <!-- end list -->
 
@@ -119,7 +119,7 @@
 
   -
     除緊急停止信號出現外，當列車速度超過20km/h，而又使用「<span lang="ja">非常</span>」刹掣時，減去玩者秒數。
-    當列車於車站時使用「<span lang="ja">非常</span>」刹掣停車時，減去玩者秒數。
+    當列車於車站范围内時，除非列车已经完全停止，否则使用「<span lang="ja">非常</span>」刹掣停車時，減去玩者秒數。
 
 <!-- end list -->
 
@@ -137,7 +137,7 @@
 <!-- end list -->
 
   -
-    當玩者駕駛列車停站，若於車站範圍加速，減去玩者秒數。（Professional 2版本中不會有這個功能。）
+    當玩者駕駛列車停站过程中，若於車站範圍内加速，減去玩者秒數。（Professional 2版本中无此惩罚。）
 
 <!-- end list -->
 
@@ -146,7 +146,7 @@
 <!-- end list -->
 
   -
-    當<span lang="ja">知らせ灯</span>未亮起就開動列車時，減去玩者秒數。（Professional 2版本中不會有這個功能。）
+    當<span lang="ja">知らせ灯</span>未亮起就開動列車時，減去玩者秒數。（Professional 2版本中无此惩罚。）
 
 <!-- end list -->
 
@@ -164,7 +164,7 @@
 <!-- end list -->
 
   -
-    當玩者過量鳴笛時，減去玩者秒數。（2代、Professional 1版本中不會有這個功能。）
+    當玩者频繁鳴笛時，減去玩者秒數。（2代、Professional 1版本中无此惩罚。）
 
 <!-- end list -->
 
@@ -186,7 +186,7 @@
 
 <!-- end list -->
 
-  - 区间內停止（<span lang="ja">セクション内停止</span>）
+  - 中性区內停止（<span lang="ja">セクション内停止</span>）
 
 <!-- end list -->
 
@@ -227,7 +227,7 @@
 <!-- end list -->
 
   -
-    以時刻表的時間通過車站，遊戲會給予玩者秒數。另連續成功<span lang="ja">定通</span>，給予的秒數亦會增加。
+    以時刻表的時間通過或到达車站，遊戲會給予玩者秒數。另連續成功<span lang="ja">定通</span>，給予的秒數亦會增加。
 
 <!-- end list -->
 
@@ -236,7 +236,7 @@
 <!-- end list -->
 
   -
-    以滑行通過中性區。
+    电联车以无动力状态成功通過中性區。若玩家驾驶的是柴油车/气动车则无此奖励。
 
 ## 系列作品
 
@@ -277,7 +277,7 @@
   -
 
       -
-        **[秋田新幹線](../Page/秋田新幹線.md "wikilink")**——[秋田](../Page/秋田站.md "wikilink")—-{[大曲](https://zh.wikipedia.org/wiki/大曲站 "wikilink")}-、[盛岡](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")—-{[新花-{卷}-](https://zh.wikipedia.org/wiki/新花卷站 "wikilink")}-
+        **[秋田新幹線](../Page/秋田新幹線.md "wikilink")**——[秋田](../Page/秋田站.md "wikilink")—-{[大曲](https://zh.wikipedia.org/wiki/大曲站 "wikilink")}-、[盛岡](../Page/盛岡站.md "wikilink")—-{[新花-{卷}-](https://zh.wikipedia.org/wiki/新花卷站 "wikilink")}-
           -
             使用車輛：[E3系](../Page/新幹線E3系電力動車組.md "wikilink")、[200系](https://zh.wikipedia.org/wiki/新幹線200系電力動車組 "wikilink")
         **[北越急行北北線](https://zh.wikipedia.org/wiki/北越急行北北線 "wikilink")**——[直江津](../Page/直江津站.md "wikilink")—[浦川原](../Page/浦川原站.md "wikilink")（初級路線）／[直江津](../Page/直江津站.md "wikilink")—[六日町](../Page/六日町站.md "wikilink")
@@ -299,9 +299,9 @@
         **[大阪環狀線](../Page/大阪環狀線.md "wikilink")**——[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")—[天王寺內回線](../Page/天王寺站.md "wikilink")
           -
             使用車輛：[103系](../Page/日本國鐵103系電力動車組.md "wikilink")、[223系0番台](../Page/JR西日本223系電力動車組.md "wikilink")「關空快速」
-        **[鹿兒島本線](../Page/鹿兒島本線.md "wikilink")**——[博多](https://zh.wikipedia.org/wiki/博多站 "wikilink")—[小倉](https://zh.wikipedia.org/wiki/小倉站_\(福岡縣\) "wikilink")
+        **[鹿兒島本線](../Page/鹿兒島本線.md "wikilink")**——[博多](https://zh.wikipedia.org/wiki/博多站 "wikilink")—[小倉](../Page/小倉站_\(福岡縣\).md "wikilink")
           -
-            使用車輛：[883系](https://zh.wikipedia.org/wiki/JR九州883系電力動車組 "wikilink")、[813系](https://zh.wikipedia.org/wiki/JR九州813系電力動車組 "wikilink")（[折尾](https://zh.wikipedia.org/wiki/折尾站 "wikilink")—[小倉路段](https://zh.wikipedia.org/wiki/小倉站_\(福岡縣\) "wikilink")）
+            使用車輛：[883系](https://zh.wikipedia.org/wiki/JR九州883系電力動車組 "wikilink")、[813系](https://zh.wikipedia.org/wiki/JR九州813系電力動車組 "wikilink")（[折尾](https://zh.wikipedia.org/wiki/折尾站 "wikilink")—[小倉路段](../Page/小倉站_\(福岡縣\).md "wikilink")）
 
 #### 電車GO\!2高速編3000番台
 
@@ -312,13 +312,13 @@
   -
 
       -
-        **[秋田新幹線](../Page/秋田新幹線.md "wikilink")**——[大-{曲}-](https://zh.wikipedia.org/wiki/大曲站 "wikilink")—[盛岡](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")、[秋田](../Page/秋田站.md "wikilink")—[新花-{卷}-](https://zh.wikipedia.org/wiki/新花卷站 "wikilink")
+        **[秋田新幹線](../Page/秋田新幹線.md "wikilink")**——[大-{曲}-](https://zh.wikipedia.org/wiki/大曲站 "wikilink")—[盛岡](../Page/盛岡站.md "wikilink")、[秋田](../Page/秋田站.md "wikilink")—[新花-{卷}-](https://zh.wikipedia.org/wiki/新花卷站 "wikilink")
           -
             使用車輛：[E3系](../Page/新幹線E3系電力動車組.md "wikilink")、[E2系](../Page/新幹線E2系電力動車組.md "wikilink")、[200系](https://zh.wikipedia.org/wiki/新幹線200系電力動車組 "wikilink")
         **[奧羽本線](../Page/奧羽本線.md "wikilink")**——[秋田](../Page/秋田站.md "wikilink")—[大-{曲}-](https://zh.wikipedia.org/wiki/大曲站 "wikilink")
           -
             使用車輛：[701系](https://zh.wikipedia.org/wiki/JR東日本701系電力動車組 "wikilink")
-        **[田澤湖線](../Page/田澤湖線.md "wikilink")**——[田澤湖](https://zh.wikipedia.org/wiki/田澤湖站 "wikilink")—[盛岡](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")
+        **[田澤湖線](../Page/田澤湖線.md "wikilink")**——[田澤湖](https://zh.wikipedia.org/wiki/田澤湖站 "wikilink")—[盛岡](../Page/盛岡站.md "wikilink")
           -
             使用車輛：[701系5000番台](https://zh.wikipedia.org/wiki/JR東日本701系電力動車組 "wikilink")
         **[京濱東北線](../Page/京濱東北線.md "wikilink")**——[橫濱](https://zh.wikipedia.org/wiki/橫濱站 "wikilink")—[品川](https://zh.wikipedia.org/wiki/品川站 "wikilink")、[橫濱](https://zh.wikipedia.org/wiki/橫濱站 "wikilink")—[上野](https://zh.wikipedia.org/wiki/上野站 "wikilink")
@@ -335,7 +335,7 @@
 
 #### 電車GO\!64
 
-本作是以電車GO\!2 3000番台為藍本，於[任天堂64](../Page/任天堂64.md "wikilink")發售之版本。此作的特點是新增一個名為VRS（音聲辨識系統）的系統，在遊玩時的特定地點（例如列車出發時或是看到訊號燈時）發出對應的聲音（「出發進行」、「注意」等）時會有獎勵秒數。路線方面，完成一定程度的路線時刻之後就會出現[東北新幹線](../Page/東北新幹線.md "wikilink")的單獨時刻（[盛岡](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")—[新花-{卷}-](https://zh.wikipedia.org/wiki/新花卷站 "wikilink")，[200系](https://zh.wikipedia.org/wiki/新幹線200系電力動車組 "wikilink")、[E2系](../Page/新幹線E2系電力動車組.md "wikilink")、[E3系](../Page/新幹線E3系電力動車組.md "wikilink")）。此外[北越急行](../Page/北越急行.md "wikilink")[北北線](../Page/北北線.md "wikilink")的「[白鷹](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")（）」列車的難易度亦有所更改，及於「[小町](../Page/小町號列車.md "wikilink")（）」[大-{曲}-](https://zh.wikipedia.org/wiki/大曲站 "wikilink")—[盛岡段中](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")[盛岡站達成](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")0米停車時可以遊玩連結列車的獎勵遊戲。
+本作是以電車GO\!2 3000番台為藍本，於[任天堂64](../Page/任天堂64.md "wikilink")發售之版本。此作的特點是新增一個名為VRS（音聲辨識系統）的系統，在遊玩時的特定地點（例如列車出發時或是看到訊號燈時）發出對應的聲音（「出發進行」、「注意」等）時會有獎勵秒數。路線方面，完成一定程度的路線時刻之後就會出現[東北新幹線](../Page/東北新幹線.md "wikilink")的單獨時刻（[盛岡](../Page/盛岡站.md "wikilink")—[新花-{卷}-](https://zh.wikipedia.org/wiki/新花卷站 "wikilink")，[200系](https://zh.wikipedia.org/wiki/新幹線200系電力動車組 "wikilink")、[E2系](../Page/新幹線E2系電力動車組.md "wikilink")、[E3系](../Page/新幹線E3系電力動車組.md "wikilink")）。此外[北越急行](../Page/北越急行.md "wikilink")[北北線](../Page/北北線.md "wikilink")的「[白鷹](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")（）」列車的難易度亦有所更改，及於「[小町](../Page/小町號列車.md "wikilink")（）」[大-{曲}-](https://zh.wikipedia.org/wiki/大曲站 "wikilink")—[盛岡段中](../Page/盛岡站.md "wikilink")[盛岡站](../Page/盛岡站.md "wikilink")達成0米停車時可以遊玩連結列車的獎勵遊戲。
 
 ### 電車GO\!3通勤編
 
@@ -433,11 +433,11 @@
   -
 
       -
-        **[秋田](../Page/秋田新幹線.md "wikilink")、[東北新幹線](../Page/東北新幹線.md "wikilink")**——[秋田](../Page/秋田站.md "wikilink")—[大-{曲}-](https://zh.wikipedia.org/wiki/大曲站 "wikilink")—[盛岡](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")—[新花-{卷}-](https://zh.wikipedia.org/wiki/新花卷站 "wikilink")
+        **[秋田](../Page/秋田新幹線.md "wikilink")、[東北新幹線](../Page/東北新幹線.md "wikilink")**——[秋田](../Page/秋田站.md "wikilink")—[大-{曲}-](https://zh.wikipedia.org/wiki/大曲站 "wikilink")—[盛岡](../Page/盛岡站.md "wikilink")—[新花-{卷}-](https://zh.wikipedia.org/wiki/新花卷站 "wikilink")
           -
             使用車輛：
-            [E3系](https://zh.wikipedia.org/wiki/新幹線E3系電車 "wikilink")「[小町（こまち）](https://zh.wikipedia.org/wiki/小町_\(列車\) "wikilink")」、[701系](https://zh.wikipedia.org/wiki/JR東日本701系電力動車組 "wikilink")、[701系5000番台](https://zh.wikipedia.org/wiki/JR東日本701系電力動車組 "wikilink")、[485系](../Page/日本國鐵485系電力動車組.md "wikilink")「特急Komakusa（こまくさ）」、[Kiha110系300番台](https://zh.wikipedia.org/wiki/JR東日本Kiha110系柴聯車 "wikilink")（[秋田](../Page/秋田站.md "wikilink")—[盛岡部分](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")）
-            [200系](../Page/新幹線200系電聯車.md "wikilink")、[E1系](https://zh.wikipedia.org/wiki/新幹線E1系電車 "wikilink")、[E2系](https://zh.wikipedia.org/wiki/新幹線E2系電車 "wikilink")、[E3系](https://zh.wikipedia.org/wiki/新幹線E3系電車 "wikilink")、[E4系](https://zh.wikipedia.org/wiki/新幹線E4系電車 "wikilink")（[盛岡](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")—[新花-{卷}-部分](https://zh.wikipedia.org/wiki/新花卷站 "wikilink")）
+            [E3系](https://zh.wikipedia.org/wiki/新幹線E3系電車 "wikilink")「[小町（こまち）](https://zh.wikipedia.org/wiki/小町_\(列車\) "wikilink")」、[701系](https://zh.wikipedia.org/wiki/JR東日本701系電力動車組 "wikilink")、[701系5000番台](https://zh.wikipedia.org/wiki/JR東日本701系電力動車組 "wikilink")、[485系](../Page/日本國鐵485系電力動車組.md "wikilink")「特急Komakusa（こまくさ）」、[Kiha110系300番台](https://zh.wikipedia.org/wiki/JR東日本Kiha110系柴聯車 "wikilink")（[秋田](../Page/秋田站.md "wikilink")—[盛岡部分](../Page/盛岡站.md "wikilink")）
+            [200系](../Page/新幹線200系電聯車.md "wikilink")、[E1系](https://zh.wikipedia.org/wiki/新幹線E1系電車 "wikilink")、[E2系](https://zh.wikipedia.org/wiki/新幹線E2系電車 "wikilink")、[E3系](https://zh.wikipedia.org/wiki/新幹線E3系電車 "wikilink")、[E4系](https://zh.wikipedia.org/wiki/新幹線E4系電車 "wikilink")（[盛岡](../Page/盛岡站.md "wikilink")—[新花-{卷}-部分](https://zh.wikipedia.org/wiki/新花卷站 "wikilink")）
         **[北越急行](../Page/北越急行.md "wikilink")[北北線](../Page/北北線.md "wikilink")**——[直江津](../Page/直江津站.md "wikilink")—[十日町](../Page/十日町站.md "wikilink")—[六日町](../Page/六日町站.md "wikilink")—[越後湯澤](https://zh.wikipedia.org/wiki/越後湯澤站 "wikilink")
           -
             使用車輛：[HK100](../Page/北越急行HK100型電力動車組.md "wikilink")、[115系](../Page/日本國鐵115系電力動車組.md "wikilink")、[181系](../Page/日本國鐵181系電力動車組.md "wikilink")「朱鹮12號」、[485系](../Page/日本國鐵485系電力動車組.md "wikilink")「[白鷹號列車](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")（はくたか）」、[485系3000番台](../Page/日本國鐵485系電力動車組.md "wikilink")「[白鷹號列車](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")」、[583系](https://zh.wikipedia.org/wiki/日本國鐵583系電力動車組 "wikilink")、[681系](https://zh.wikipedia.org/wiki/JR西日本681系電力動車組 "wikilink")「[白鷹號列車](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")」、[681系2000番台](https://zh.wikipedia.org/wiki/JR西日本681系電力動車組 "wikilink")「[白鷹號列車](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")」
@@ -456,7 +456,7 @@
         **JR[嵯峨野線](../Page/嵯峨野線.md "wikilink")（[山陰本線](../Page/山陰本線.md "wikilink")）**——[龜岡](https://zh.wikipedia.org/wiki/龜岡站 "wikilink")—[京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")
           -
             使用車輛：DD51+舊型客車、DD51+12系客車、KIHA181系、KIHA40系、KIHA58系「急行丹後」、KIHA181系「Asashio（あさしお）」、KIHA40系+58系
-        **JR[京都線](https://zh.wikipedia.org/wiki/京都線 "wikilink")（[東海道本線](../Page/東海道本線.md "wikilink")）**——[京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")—[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")
+        **[JR京都線](https://zh.wikipedia.org/wiki/JR京都線 "wikilink")（[東海道本線](../Page/東海道本線.md "wikilink")）**——[京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")—[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")
           -
             使用車輛：
             [201系](../Page/日本國鐵201系電力動車組.md "wikilink")、[205系](../Page/日本國鐵205系電力動車組.md "wikilink")、[207系](../Page/JR西日本207系電力動車組.md "wikilink")、[113系5000番台](../Page/日本國鐵113系電力動車組.md "wikilink")、[117系](https://zh.wikipedia.org/wiki/日本國鐵117系電力動車組 "wikilink")、[221系](https://zh.wikipedia.org/wiki/JR西日本221系電力動車組 "wikilink")、[223系2000番台](../Page/JR西日本223系電力動車組.md "wikilink")、
@@ -465,7 +465,7 @@
         **[大阪環狀線](../Page/大阪環狀線.md "wikilink")**——[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")—[天王寺](../Page/天王寺站.md "wikilink")
           -
             使用車輛：[103系](../Page/日本國鐵103系電力動車組.md "wikilink")、[103系](../Page/日本國鐵103系電力動車組.md "wikilink")「區間快速」、[221系](https://zh.wikipedia.org/wiki/JR西日本221系電力動車組 "wikilink")「大和路快速」、[223系](../Page/JR西日本223系電力動車組.md "wikilink")、[223系0番台](../Page/JR西日本223系電力動車組.md "wikilink")「關空快速」「關空特快」、[381系](https://zh.wikipedia.org/wiki/日本國鐵381系電力動車組 "wikilink")
-        **[鹿兒島本線](../Page/鹿兒島本線.md "wikilink")**——[博多](https://zh.wikipedia.org/wiki/博多站 "wikilink")—[折尾](https://zh.wikipedia.org/wiki/折尾站 "wikilink")—[小倉](https://zh.wikipedia.org/wiki/小倉站_\(福岡縣\) "wikilink")
+        **[鹿兒島本線](../Page/鹿兒島本線.md "wikilink")**——[博多](https://zh.wikipedia.org/wiki/博多站 "wikilink")—[折尾](https://zh.wikipedia.org/wiki/折尾站 "wikilink")—[小倉](../Page/小倉站_\(福岡縣\).md "wikilink")
           -
             使用車輛：[415系](https://zh.wikipedia.org/wiki/JR九州415系電力動車組 "wikilink")、[485系](../Page/日本國鐵485系電力動車組.md "wikilink")「日輪」、[715系](https://zh.wikipedia.org/wiki/日本國鐵715系電力動車組 "wikilink")、[787系](https://zh.wikipedia.org/wiki/JR九州787系電力動車組 "wikilink")「日輪宮崎海洋」、[811系](https://zh.wikipedia.org/wiki/JR九州811系電力動車組 "wikilink")、[813系](https://zh.wikipedia.org/wiki/JR九州813系電力動車組 "wikilink")、[883系](https://zh.wikipedia.org/wiki/JR九州883系電力動車組 "wikilink")「音速」、[ED76寢台特急](../Page/日本國鐵ED76型電力機車.md "wikilink")「隼（はやぶさ）」、[Kiha40系](https://zh.wikipedia.org/wiki/國鐵Kiha40系柴油動車組 "wikilink")
 

@@ -30,6 +30,8 @@
 
 ## 參見
 
+## 外部链接
+
   - [财经百科：贝塔系数](https://web.archive.org/web/20070305113218/http://www.caibai.cn/dictionary_terms.php?term_id=451)
 
 [Category:证券](https://zh.wikipedia.org/wiki/Category:证券 "wikilink") [Category:财务管理](https://zh.wikipedia.org/wiki/Category:财务管理 "wikilink") [Category:財務比率](https://zh.wikipedia.org/wiki/Category:財務比率 "wikilink")

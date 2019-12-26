@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - **[中山加奈子](https://zh.wikipedia.org/wiki/中山加奈子 "wikilink")**（吉他、[和声](https://zh.wikipedia.org/wiki/和声 "wikilink")）1964年11月2日生於日本[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")。
+  - **[中山加奈子](https://zh.wikipedia.org/wiki/中山加奈子 "wikilink")**（吉他、[和声](../Page/和声.md "wikilink")）1964年11月2日生於日本[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")。
       - 现为乐队VooDoo Hawaiians的主唱、吉他，并为其他歌手提供作词。
       - 2004年和一般男性结婚。
 

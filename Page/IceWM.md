@@ -18,7 +18,8 @@ Icewmstartmenu.png|IceWM的开始菜单与Windows 95相似 IceWM 1.3.ogv|IceWM 1
 
   -
   -
-  -
+  - [X窗口管理器比较](https://zh.wikipedia.org/wiki/X窗口管理器比较 "wikilink")
+
   - Spri，[轻量级Linux发行版](../Page/轻量级Linux发行版.md "wikilink")的前身，使用IceWM作为默认用户界面
 
 ## 参考文献
@@ -36,12 +37,9 @@ Icewmstartmenu.png|IceWM的开始菜单与Windows 95相似 IceWM 1.3.ogv|IceWM 1
 [Category:1997年软件](https://zh.wikipedia.org/wiki/Category:1997年软件 "wikilink") [Category:自由桌面环境](https://zh.wikipedia.org/wiki/Category:自由桌面环境 "wikilink") [Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
-
 6.  [1](https://en.opensuse.org/HCL:Raspberry_Pi3)
-
 7.  [2](http://www.marksei.com/suse-linux-enterprise-server-gains-raspberry-pi-3-support/)

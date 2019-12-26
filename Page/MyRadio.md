@@ -464,7 +464,7 @@ MyUniversity</p></td>
 <td><p>嶺南大學學生會退出學聯關注組發起人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/盧斯達" title="wikilink">盧斯達</a>（無待堂）</p></td>
+<td><p><a href="../Page/盧斯達.md" title="wikilink">盧斯達</a>（無待堂）</p></td>
 <td><p>勞思動眾 (已腰斬)</p></td>
 <td><p>作家、時事評論員</p></td>
 </tr>
@@ -489,7 +489,7 @@ MyUniversity</p></td>
 <td><p><a href="../Page/香港理工大學.md" title="wikilink">香港理工大學</a>應用社會科學系講師、立法會議員(2016-)、熱血公民主席(2016-)、熱血時報節目主持</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/馬愉生" title="wikilink">馬愉生</a></p></td>
+<td><p><a href="../Page/馬愉生.md" title="wikilink">馬愉生</a></p></td>
 <td><p>毓民踩場（已離任）<br />
 立睇九龍 (已完結)</p></td>
 <td><p>普羅政治學苑副主席。前社會民主連線副秘書長、社區服務主任，曾參選<a href="../Page/2016年香港立法會選舉.md" title="wikilink">2016年立法會九龍西選區選舉</a>。</p></td>
@@ -540,10 +540,9 @@ MyUniversity</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李政熙.md" title="wikilink">李政熙</a>(過氣熱狗）</p></td>
+<td><p><a href="../Page/李政熙.md" title="wikilink">李政熙</a></p></td>
 <td><p>網上辣辛聞（嘉賓主持）（已完結）</p></td>
-<td><p>前<a href="../Page/熱血公民.md" title="wikilink">熱血公民</a>成員，曾參與<a href="../Page/2015年香港區議會選舉.md" title="wikilink">2015年區議會天平西區選舉</a>。</p>
-<p>李政熙雖然退出熱血公民，但狗性難改，依然喜歡夥同前熱狗三五成群圍爐攻擊Myradio其他嘉賓主持：https://www.facebook.com/696882583746102/posts/1906450009456014?s=100039242374858&amp;sfns=mo</p></td>
+<td><p>前<a href="../Page/熱血公民.md" title="wikilink">熱血公民</a>成員，曾參與<a href="../Page/2015年香港區議會選舉.md" title="wikilink">2015年區議會天平西區選舉</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>Vega</p></td>

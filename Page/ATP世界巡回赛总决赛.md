@@ -101,6 +101,7 @@
 | [2016年](https://zh.wikipedia.org/wiki/2016年ATP世界巡迴賽總決賽 "wikilink") |
 | [2017年](https://zh.wikipedia.org/wiki/2017年ATP世界巡迴賽總決賽 "wikilink") |
 | [2018年](../Page/2018年ATP世界巡迴賽總決賽.md "wikilink")                    |
+| [2019年](https://zh.wikipedia.org/wiki/2019年ATP世界巡迴賽總決賽 "wikilink") |
 |                                                                    |
 
 ### 参赛选手（2000年後）

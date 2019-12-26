@@ -113,7 +113,7 @@
       - 視訊支援
       - 支援新的國際 [iTunes Music Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")
       - 支援從電腦傳輸聯絡人和日曆至 iPod（僅限 Mac OS X v10.4 Tiger）
-      - [安全性提高](http://docs.info.apple.com/article.html?artnum=301596)
+      - [安全性提高](https://web.archive.org/web/20060419230854/http://docs.info.apple.com/article.html?artnum=301596)
   - **4.9－2005年6月28日**
       - 對 [Podcasting](https://zh.wikipedia.org/wiki/Podcasting "wikilink") 的支援
       - 對行動電話的支援（當時僅  與  能夠使用）
@@ -922,6 +922,30 @@ UI 大幅更新，可以預覽和購買影片以及支援第五代 iPod。可以
 
   - **12.9.5.7 — 2019年5月29日**
       - Apple Music 的「為您推薦」標籤頁現可依據主題（例如您喜好的類型、藝人和心情）來建議音樂。這些個人化的推薦內容也會頻繁地更新，讓您在一天中更輕鬆地找到精彩的音樂。
+      - 此更新僅限 Windows。
+
+<!-- end list -->
+
+  - **12.9.6.3 — 2019年7月24日**
+      - 小幅的 App 和效能改進。
+      - 此更新僅限 Windows。
+
+<!-- end list -->
+
+  - **12.10.0.7 — 2019年9月12日**
+      - 新增 iOS 13 和 iPadOS 裝置的支援。
+      - 此更新僅限 Windows。
+
+<!-- end list -->
+
+  - **12.10.1.4 — 2019年10月8日**
+      - 新增 iOS 13 和 iPadOS 裝置的支援。
+      - 此更新僅限 Windows。
+
+<!-- end list -->
+
+  - **12.10.2.3 — 2019年10月31日**
+      - 新增 iOS 13 和 iPadOS 裝置的支援。
       - 此更新僅限 Windows。
 
 ## 參考資料

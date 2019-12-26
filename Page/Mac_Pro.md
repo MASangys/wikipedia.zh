@@ -225,6 +225,133 @@ Expandable to four graphics cards</p></td>
 </tbody>
 </table>
 
+### 第三代
+
+#### Specifications
+
+<table>
+<thead>
+<tr class="header">
+<th><p>機型</p></th>
+<th><p>Late 2019[10]</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>處理器</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Intel" title="wikilink">Intel</a> <a href="https://zh.wikipedia.org/wiki/Xeon" title="wikilink">Xeon</a> W 8, 12, 16, 24, or 28 core</p></td>
+</tr>
+<tr class="even">
+<td><p>發布日期</p></td>
+<td><p>Fall 2019</p></td>
+</tr>
+<tr class="odd">
+<td><p>Model numbers</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Model identifier</p></td>
+<td><p>MacPro7,1</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Extensible_Firmware_Interface" title="wikilink">EFI</a> mode</p></td>
+<td><p>EFI64</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/核心_(電腦科學)" title="wikilink">Kernel</a> mode</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/64-bit_computing" title="wikilink">64-bit</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Chipset" title="wikilink">Chipset</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Central_processing_unit" title="wikilink">Processor</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>rowspan=2  <a href="https://zh.wikipedia.org/wiki/隨機存取記憶體" title="wikilink">Memory</a></p></td>
+<td><p>32GB (four 8GB)<br />
+<em>可擴展到 768 GB（6 個 128 GB DIMM 或 12 64 GB DIMM、8 芯到 16 核），或 Apple 擴展至 1.5 TB（12 128GB DIMM、24 核和 28 核）</em></p></td>
+</tr>
+<tr class="even">
+<td><p>DDR4 ECC at 2666 MHz (8-core) or 2933 MHz (12-core to 28-core)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/顯示卡" title="wikilink">Graphics</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>rowspan=2  次級儲存裝置</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/PCI_Express.md" title="wikilink">PCIe</a> <a href="https://zh.wikipedia.org/wiki/固態硬碟" title="wikilink">SSD</a>, two modules</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>安全芯片</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Apple-designed_processors#Apple_T2" title="wikilink">Apple T2</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>rowspan=3  連接</p></td>
+<td><p>Built-in <a href="../Page/IEEE_802.11ac.md" title="wikilink">Wi-Fi 5</a> (<a href="../Page/IEEE_802.11.md" title="wikilink">802.11a/b/g/n/ac</a>), up to 1.3Gbit/s</p></td>
+</tr>
+<tr class="even">
+<td><p>2× <a href="https://zh.wikipedia.org/wiki/10_Gigabit_Ethernet" title="wikilink">10 Gigabit Ethernet</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Bluetooth" title="wikilink">Bluetooth</a> 5.0</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>rowspan=4  周邊設備</p></td>
+<td><p><a href="../Page/Thunderbolt.md" title="wikilink">Thunderbolt 3</a> (<a href="https://zh.wikipedia.org/wiki/USB-C" title="wikilink">USB-C</a> 3.1 Gen 2) supporting <a href="../Page/DisplayPort.md" title="wikilink">DisplayPort</a><br />
+2× top of case, 2× rear I/O card <em>(all models)</em><br />
+Additional 4× rear <em>(single Vega II/Vega II Duo)</em> or 8× rear <em>(dual Vega II/Vega II Duo)</em></p></td>
+</tr>
+<tr class="odd">
+<td><p>USB 3.0 Type-A, 2× rear, 1× inside case[11]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/HDMI.md" title="wikilink">HDMI</a> 2.0<br />
+2× <em>(580X, dual Vega II/Vega II Duo)</em><br />
+1× <em>(single Vega II/Vega II Duo)</em></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2× <a href="https://zh.wikipedia.org/wiki/Serial_ATA" title="wikilink">SATA</a> ports inside case</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Display support</p></td>
+<td><p>6 * 4K displays, 2 * 5K displays, or 2 * Pro Display XDRs <em>(580X)</em><br />
+6 * 4K displays, 3 * 5K displays, or 2 * Pro Display XDRs <em>(Vega II)</em><br />
+8 * 4K displays, 4 * 5K displays, or 4 * Pro Display XDRs <em>(single Vega II Duo)</em><br />
+12 * 4K displays or 6 * Pro Display XDRs <em>(dual Vega II Duo)</em></p></td>
+</tr>
+<tr class="odd">
+<td><p>rowspan=2  Audio</p></td>
+<td><p>3.5 mm headphone jack</p></td>
+</tr>
+<tr class="even">
+<td><p>Built-in mono speaker</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Dimensions</p></td>
+<td><p>20.8 in (52.9 cm) height x 8.6 in (21.8 cm) width x 17.7 in (45 cm) depth</p></td>
+</tr>
+<tr class="even">
+<td><p>Weight</p></td>
+<td><p>39.7 lb (18 kg)</p></td>
+</tr>
+</tbody>
+</table>
+
 ## 資料來源
 
 <references />
@@ -245,3 +372,5 @@ Expandable to four graphics cards</p></td>
 7.
 8.
 9.
+10.
+11. [Apple's new Mac Pro internal components - answers and lingering questions](https://appleinsider.com/articles/19/06/04/apples-new-mac-pro-internal-components---answers-and-lingering-questions). *Apple Insider*. 2019-06-04.

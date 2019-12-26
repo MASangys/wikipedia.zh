@@ -12,7 +12,7 @@
 
 ### 作为Xbox遊戲工作室（2019—）
 
-在2019年[E3发布会上](https://zh.wikipedia.org/wiki/E3 "wikilink")，Xbox遊戲工作室宣布收购了开发商[Double Fine Productions](../Page/Double_Fine_Productions.md "wikilink")\[4\]，并组建了由Shannon Loftis带队、专门负责《帝国时代》的内部工作室。\[5\]\[6\]
+在2019年[E3发布会上](https://zh.wikipedia.org/wiki/E3 "wikilink")，Xbox遊戲工作室宣布收购了开发商[Double Fine Productions](../Page/Double_Fine_Productions.md "wikilink")\[4\]，并组建了由Shannon Loftis带队、专门负责《帝国时代》的内部工作室World's Edge。\[5\]\[6\]
 
 ## 內部工作室
 
@@ -29,8 +29,8 @@
   - **[The Initiative](https://zh.wikipedia.org/wiki/The_Initiative "wikilink")** - 2018年成立。
   - **[黑曜石娱乐](../Page/黑曜石娱乐.md "wikilink")** - [辐射：新维加斯](../Page/辐射：新维加斯.md "wikilink")、系列，微软于2018年收购。
   - **[InXile娛樂](https://zh.wikipedia.org/wiki/InXile娛樂 "wikilink")** - ，微软于2018年收购。
-  - [Double Fine Productions](../Page/Double_Fine_Productions.md "wikilink")
-  - 负责《帝国时代》的内部工作室
+  - **[Double Fine Productions](../Page/Double_Fine_Productions.md "wikilink")** - 脑航员，微软于2018年收购。
+  - **World's Edge** - 《[帝国时代](https://zh.wikipedia.org/wiki/帝国时代 "wikilink")》系列，微软于2019年建立。
 
 ## 曾經擁有的內部工作室
 

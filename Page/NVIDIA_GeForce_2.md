@@ -123,7 +123,7 @@ GeForce 2 Go系列是全球首款獨立的高效能筆記型電腦顯示核心�
 
   - [NVIDIA GeForce 2主頁](https://web.archive.org/web/20090302084653/http://www.nvidia.com/page/quadro.html)
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:GeForce系列](https://zh.wikipedia.org/wiki/Category:GeForce系列 "wikilink") [Category:2000年面世的產品](https://zh.wikipedia.org/wiki/Category:2000年面世的產品 "wikilink")
 
 1.  [NVIDIA Introduces New Groundbreaking GPU](http://www.nvidia.com/object/IO_20010809_4843.html)
 2.  [NVIDIA GeForce2 Go Selected by Toshiba America](http://www.nvidia.com/object/IO_20010614_5426.html)

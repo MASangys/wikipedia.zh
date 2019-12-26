@@ -12,6 +12,8 @@ FLAC项目由Josh Coalson在2000年发起并开发\[1\]。FLAC位元流格式在
 
 2017年1月1日，FLAC 1.3.2发布。
 
+2019年8月4日，FLAC 1.3.3发布，但 Windows 版本并未被编译为EXE格式，且在主页上的latest news处也未显示，仅在changelog中出现。
+
 ## 项目组成
 
 FLAC项目包含：
@@ -79,13 +81,9 @@ FLAC與其他無損壓縮式，如[ZIP及](https://zh.wikipedia.org/wiki/ZIP_\(�
 [Category:SourceForge专案](https://zh.wikipedia.org/wiki/Category:SourceForge专案 "wikilink") [Category:音频格式](https://zh.wikipedia.org/wiki/Category:音频格式 "wikilink") [Category:无损音频编解码器](https://zh.wikipedia.org/wiki/Category:无损音频编解码器 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:2001年软件](https://zh.wikipedia.org/wiki/Category:2001年软件 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
-
 7.  [Lossless comparison](http://wiki.hydrogenaudio.org/index.php?title=Lossless_comparison)

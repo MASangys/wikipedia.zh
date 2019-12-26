@@ -176,6 +176,7 @@ TT-33成為了[二戰中廣為蘇軍使用的手槍](https://zh.wikipedia.org/wi
   - 2010年—《[-{zh-cn:使命召唤：黑色行动; zh-tw:決勝時刻：黑色行動;}-](../Page/決勝時刻：黑色行動.md "wikilink")》（Call of Duty: Black Ops）：型號為TT-33，於「Project Nova」關卡當中被蘇聯紅軍士兵維克多·雷澤諾夫、列夫·克拉夫錢科及[英國突擊隊](../Page/英國突擊隊.md "wikilink")所使用。
   - 2010年—《[-{zh-hans:战地：叛逆连队2; zh-hant:戰地風雲：惡名昭彰2;}-](../Page/战地：叛逆连队.md "wikilink")》（Battlefield: Bad Company 2）：只於越戰資料片中登場，命名為“TT-33”。
   - 2014年—《合同戰爭》（Contract Wars）
+  - 2015年—《》：型號為TT-33，命名為“TT33 Tokarev”，由民兵及叛軍小隊隊長、醫療兵及特等射手所使用。
   - 2016年—《[英雄與將軍](../Page/英雄與將軍.md "wikilink")》（Heroes and Generals）
   - 2016年—《[女神異聞錄5](../Page/女神異聞錄5.md "wikilink")》(Persona 5) ：主人公Joker在異世界中默認的遠程武器就是TT手槍（托卡列夫）。
   - 2016年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》（Girls' Frontline）：以托卡列夫的名稱登場。
@@ -224,4 +225,4 @@ TT-33成為了[二戰中廣為蘇軍使用的手槍](https://zh.wikipedia.org/wi
 
 1.
 2.
-3.  TT手槍雖然無保險裝置，但可以先把打開到中間位置，即處於「半待擊狀態」便可以防止無意中扣動發射了。這個設計是大部分現代手槍都有的。
+3.  TT手槍雖然無保險裝置，但可以先把[擊錘打開到中間位置](https://zh.wikipedia.org/wiki/擊錘 "wikilink")，即處於「半待擊狀態」便可以防止無意中扣動發射了。這個設計是大部分現代手槍都有的。

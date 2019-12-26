@@ -7,14 +7,14 @@
   - 時間：1994年3月15日至1995年5月，臺灣第一個專門直播體育比賽的衛星頻道
   - 主播群：
       - [陶晶瑩](https://zh.wikipedia.org/wiki/陶晶瑩 "wikilink")（主持[Hit\!Hit\!紅不讓](https://zh.wikipedia.org/wiki/Hit!Hit!紅不讓 "wikilink")　與職棒球星互動的娛樂節目）
-      - [錢定遠](../Page/錢定遠.md "wikilink")（1989-1993年為[中廣主播](https://zh.wikipedia.org/wiki/中廣 "wikilink")，因轉播職棒出色，1994年由邱復生挖角；現為[博斯電視網主播](../Page/博斯運動頻道.md "wikilink")）
+      - [錢定遠](../Page/錢定遠.md "wikilink")（1989-1993年為[中廣棒球主播](https://zh.wikipedia.org/wiki/中廣 "wikilink")，因轉播職棒出色，1994年由邱復生挖角；現為[博斯電視網主播](../Page/博斯運動頻道.md "wikilink")）
       - \-{[蔡明里](../Page/蔡明里.md "wikilink")}-（1989-1993年任職於[中華職棒競紀組](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")，1994年由邱復生挖角；現[緯來體育台](../Page/緯來體育台.md "wikilink")主播）
 
 ### TVIS時期
 
   - 時間：1995年5月至1998年5月31日
   - 主播群：
-      - [詹慶齡](../Page/詹慶齡.md "wikilink")（現中天新聞部總監）
+      - [詹慶齡](../Page/詹慶齡.md "wikilink")（現網路節目 、活動主持人）
       - [錢定遠](../Page/錢定遠.md "wikilink")
       - [鄧國雄](https://zh.wikipedia.org/wiki/鄧國雄 "wikilink")（現[FOX體育台](../Page/FOX體育台.md "wikilink")主播）
       - \-{[蔡明里](../Page/蔡明里.md "wikilink")}-（現[緯來體育臺主播](../Page/緯來體育台.md "wikilink")）

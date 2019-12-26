@@ -132,18 +132,11 @@ Unbihexium的名字是作为元素周期表中的一个[占位符使用的](http
 [Category:第8周期元素](https://zh.wikipedia.org/wiki/Category:第8周期元素 "wikilink") [Category:化学元素](https://zh.wikipedia.org/wiki/Category:化学元素 "wikilink")
 
 1.
-
 2.  [クリプトン加速による類似研究](http://prc.aps.org/abstract/PRC/v8/i1/p375_1)Physical Review C[アメリカ物理学会](https://zh.wikipedia.org/wiki/アメリカ物理学会 "wikilink")
-
 3.  [Primordial Superheavy Element 126](http://prl.aps.org/abstract/PRL/v37/i11/p664_1) Phys. Rev. Lett. 37, 664 – Published 13 September 1976
-
 4.  [Evidence for Primordial Superheavy Elements](http://prl.aps.org/abstract/PRL/v37/i1/p11_1) Phys. Rev. Lett. 37, 11 – Published 5 July 1976
-
 5.
-
 6.
-
 7.
 8.
-
 9.  {{ Cite Web | url = <https://aggieblueprint.wordpress.com/2012/04/23/science-qa-is-there-such-thing-as-kryptonite/> | quote = Kryptonite was described in the first season episode of “Lois and Clark: The New Adventures of Superman” as a transuranic element (element 126) that eventually decays into solid iron. | title = Science Q\&A: Is there such thing as Kryptonite? | date = April 23, 2012 | publisher = BluePrint | accessdate = 2018-1-28}}

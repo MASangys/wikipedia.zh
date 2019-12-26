@@ -87,6 +87,5 @@
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:赤松健](https://zh.wikipedia.org/wiki/Category:赤松健 "wikilink")
 
 1.  此為《純情房東俏房客 0》記載的中文名稱。網站[赤松健作品綜合研究所](http://www2u.biglobe.ne.jp/~clown/)記載的日語名稱為，而「」與日語的「」明顯不同，中文譯名可能有誤。
-
 2.
 3.  [](http://www2u.biglobe.ne.jp/~clown/kidsgame/ura.htm)

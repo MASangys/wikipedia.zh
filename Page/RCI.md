@@ -29,12 +29,12 @@ RCI總裁兼首席執行官是Geoffrey A. Ballotti。RCI公司的總部設在[�
   - [Holiday Cottages Group](http://www.holidaycottagesgroup.co.uk/)
   - [Platinum Interchange](http://www.platinuminterchange.com/)
 
-[Category:溫德姆環球公司](https://zh.wikipedia.org/wiki/Category:溫德姆環球公司 "wikilink")
+[Category:溫德姆環球公司](https://zh.wikipedia.org/wiki/Category:溫德姆環球公司 "wikilink") [Category:總部在美國的跨國公司](https://zh.wikipedia.org/wiki/Category:總部在美國的跨國公司 "wikilink")
 
 1.
 2.
 3.  [2011 Best Places to Work in Indiana](http://www.indianachamber.com/index.php/2011-best-places-to-work-in-indiana-rankings-announced)
 4.  [2010 Best Places to Work in Indiana](http://www.indianachamber.com/index.php/2010-best-places-to-work-in-indiana-rankings-announced)
 5.  [2009 Best Places to Work in Indiana](http://www.indianachamber.com/index.php/annual-best-places-to-work-in-indiana-list-announced-rankings-revealed-may-5)
-6.  [Great Place to Work Institute Mexico](http://www.greatplacetowork.com.au/best/lists.php?year=2009&idListName=mexico500plus&detail=1&order=rank)
+6.
 7.  [2009 List of Best Companies to Work for in Latin America](http://www.greatplacetowork.com/what_we_do/lists-la-la-2009.htm)

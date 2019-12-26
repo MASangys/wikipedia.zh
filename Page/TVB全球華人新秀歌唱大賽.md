@@ -72,7 +72,7 @@
 <td style="text-align: center;"><p><a href="../Page/黎明.md" title="wikilink">黎明</a></p></td>
 <td style="text-align: center;"><p>最突出台風創新獎：文佩玲<br />
 五週年金咪大獎：文佩玲</p></td>
-<td style="text-align: center;"><p><a href="../Page/關淑怡.md" title="wikilink">關淑怡</a>、<a href="../Page/袁鳳瑛.md" title="wikilink">袁鳳瑛</a>、<a href="../Page/黃翊_(香港).md" title="wikilink">黃翊</a>、<a href="../Page/袁志偉_(歌手).md" title="wikilink">袁志偉</a>、<a href="../Page/林俊賢.md" title="wikilink">林俊賢</a>、尹麗玉、<a href="../Page/陳家碧.md" title="wikilink">陳家碧</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/關淑怡.md" title="wikilink">關淑怡</a>、<a href="../Page/袁鳳瑛.md" title="wikilink">袁鳳瑛</a>、<a href="../Page/黃翊_(香港).md" title="wikilink">黃翊</a>、<a href="../Page/袁志偉_(歌手).md" title="wikilink">袁志偉</a>、<a href="../Page/林俊賢.md" title="wikilink">林俊賢</a>、尹麗玉、<a href="../Page/陳家碧.md" title="wikilink">陳家碧</a>、<a href="../Page/吳啟明.md" title="wikilink">吳啟明</a>、<a href="../Page/劉錫明.md" title="wikilink">劉錫明</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
@@ -2538,27 +2538,19 @@
 [Category:香港音樂](https://zh.wikipedia.org/wiki/Category:香港音樂 "wikilink") [Category:無綫電視音樂節目](https://zh.wikipedia.org/wiki/Category:無綫電視音樂節目 "wikilink") [Category:無綫電視特備節目](https://zh.wikipedia.org/wiki/Category:無綫電視特備節目 "wikilink") [Category:演藝選拔節目](https://zh.wikipedia.org/wiki/Category:演藝選拔節目 "wikilink") [Category:歌唱比賽](https://zh.wikipedia.org/wiki/Category:歌唱比賽 "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
-
 6.
 7.
 8.
 9.
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15. 本屆由英皇新秀歌唱大賽的冠軍得主作為香港區代表。
-
 16.
-
 17. 本屆由[超級巨聲](../Page/超級巨聲.md "wikilink")的參賽者作為香港區代表。

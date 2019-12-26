@@ -2,7 +2,7 @@
 
 ## 歷史及設計
 
-Masterkey項目在80年代出現，主要目的是在步槍或卡賓槍上下掛一把用於破門、重量較輕的霰彈槍，而不需另外獨立攜帶霰彈槍。Masterkey由泵動的[雷明登870截短改成](../Page/雷明登870泵動式霰彈槍.md "wikilink")，以掛架安裝在[M16突擊步槍](../Page/M16突擊步槍.md "wikilink")及[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")系列的槍管下，安裝方法類似[M203榴彈發射器](../Page/M203榴彈發射器.md "wikilink")。發射發射[12號口徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")，內置[管式彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，可裝填3發子彈，若加上槍膛中待射的1發，共4發子彈。
+Masterkey項目在80年代出現，主要目的是在步槍或卡賓槍上下掛一把用於破門、重量較輕的霰彈槍，而不需另外獨立攜帶霰彈槍。Masterkey由泵動的[雷明登870截短改成](../Page/雷明登870泵動式霰彈槍.md "wikilink")，以掛架安裝在[M16突擊步槍](../Page/M16突擊步槍.md "wikilink")及[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")系列的槍管下，安裝方法類似[M203榴彈發射器](../Page/M203榴彈發射器.md "wikilink")。發射發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")，內置[管式彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，可裝填3發子彈，若加上槍膛中待射的1發，共4發子彈。
 
 由於發射時需要以彈匣充當握把，Masterkey拆下時無法作獨立發射。
 
@@ -14,13 +14,13 @@ Masterkey很可能被[M26模組配件霰彈槍系統](../Page/M26模組配件霰
 
 ## 使用國
 
-  - —被[特種空勤團和其他](../Page/特種空勤團_\(澳大利亞\).md "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")所採用。
+  -   - [特種空勤團](../Page/特種空勤團_\(澳大利亞\).md "wikilink")
 
-  - —被[美國特種作戰司令部所採用](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")。
+  -   - [美國特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")
 
 ## 登場作品
 
-Masterkey在一些电子游戏中有登场。早在1999年的[三角洲特种部队](https://zh.wikipedia.org/wiki/三角洲特种部队 "wikilink")2中就以M4 Masterkey出现（是该游戏中唯一的霰弹枪）\[2\]，后亦有在《[-{zh-cn:使命召唤; zh-tw:決勝時刻;}-](https://zh.wikipedia.org/wiki/決勝時刻 "wikilink")》系列（《[現代戰爭2](../Page/決勝時刻：現代戰爭2.md "wikilink")》、《[黑色行動](../Page/決勝時刻：黑色行動.md "wikilink")》、 《[現代戰爭3](../Page/決勝時刻：現代戰爭3.md "wikilink")》）中以[突擊步槍的可添加槍掛武器登場](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。
+Masterkey在一些电子游戏中有登场。早在1999年的[三角洲特种部队](https://zh.wikipedia.org/wiki/三角洲特种部队 "wikilink")2中就以M4 Masterkey出现（是该游戏中唯一的霰弹枪）\[2\]，后亦有在《[-{zh-cn:使命召唤; zh-tw:決勝時刻;}-](https://zh.wikipedia.org/wiki/決勝時刻 "wikilink")》系列（《[現代戰爭2](../Page/決勝時刻：現代戰爭2.md "wikilink")》、《[黑色行動](../Page/決勝時刻：黑色行動.md "wikilink")》、 《[現代戰爭3](../Page/決勝時刻：現代戰爭3.md "wikilink")》、《[現代戰爭（2019）](https://zh.wikipedia.org/wiki/使命召唤：现代战争_\(2019年遊戲\) "wikilink")》）中以[突擊步槍的可添加槍掛武器登場](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。
 
 ## 來源
 

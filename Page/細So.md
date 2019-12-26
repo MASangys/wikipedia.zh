@@ -143,10 +143,7 @@
 [Category:蘇姓](https://zh.wikipedia.org/wiki/Category:蘇姓 "wikilink") [Category:香港廣播主持人](https://zh.wikipedia.org/wiki/Category:香港廣播主持人 "wikilink") [Category:香港作曲家](https://zh.wikipedia.org/wiki/Category:香港作曲家 "wikilink") [Category:香港填詞人](https://zh.wikipedia.org/wiki/Category:香港填詞人 "wikilink") [Category:香港華仁書院校友](https://zh.wikipedia.org/wiki/Category:香港華仁書院校友 "wikilink") [Category:香港理工大學校友](https://zh.wikipedia.org/wiki/Category:香港理工大學校友 "wikilink") [Category:香港素食主義者](https://zh.wikipedia.org/wiki/Category:香港素食主義者 "wikilink") [Category:前ViuTV電視藝員‎](https://zh.wikipedia.org/wiki/Category:前ViuTV電視藝員‎ "wikilink")
 
 1.  [我是誰 靠森美小儀響朵](http://hk.apple.nextmedia.com/entertainment/art/20110219/14989796)，[蘋果日報](../Page/蘋果日報_\(香港\).md "wikilink")，2011年2月19日
-
 2.
 3.  [第17屆校園記者·非洲體會 RubberBand：開飯不簡單 津國人尊重食物 一口一感恩](https://web.archive.org/web/20171106160930/http://studentreporter.mingpao.com/cfm/com_OldContent2.cfm?Category=activitystar&Content_ID=1780&Year=17)，[明報](../Page/明報.md "wikilink")校園記者網，2014年
-
 4.  [阿Sa割草餵牛變村姑](http://orientaldaily.on.cc/archive/20090207/ent/ent_a15cnt.html)，[東方日報](../Page/東方日報_\(香港\).md "wikilink")，2009年2月7日
-
 5.  [DJ細So 搬去離島避 傳統教育](http://www.sundaykiss.com/magazine/sunday-family/dj%e7%b4%b0so-%e6%90%ac%e5%8e%bb%e9%9b%a2%e5%b3%b6%e9%81%bf%e5%82%b3%e7%b5%b1%e6%95%99%e8%82%b2/)，[Sundaykiss](https://zh.wikipedia.org/wiki/Sundaykiss "wikilink")，2016年11月15日

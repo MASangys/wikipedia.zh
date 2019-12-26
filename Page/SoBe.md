@@ -100,7 +100,7 @@
 
 ## 外部連結
 
-  - [公司官方網站](http://www.sobebev.com)
+  - [公司官方網站](https://web.archive.org/web/20070123081440/http://www.sobebev.com/)
   - [SoBe Adrenaline Rush](http://www.sobeadrenalinerush.com/)
 
 [Category:机能性饮料](https://zh.wikipedia.org/wiki/Category:机能性饮料 "wikilink") [Category:茶企業](https://zh.wikipedia.org/wiki/Category:茶企業 "wikilink") [Category:1996年成立的公司](https://zh.wikipedia.org/wiki/Category:1996年成立的公司 "wikilink")

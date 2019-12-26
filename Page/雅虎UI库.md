@@ -119,12 +119,8 @@ YUI包含完整的說明文件。它包含了兩種元件：工具與控制項\[
 [Category:雅虎](https://zh.wikipedia.org/wiki/Category:雅虎 "wikilink") [Category:AJAX](https://zh.wikipedia.org/wiki/Category:AJAX "wikilink") [Category:JavaScript函式庫](https://zh.wikipedia.org/wiki/Category:JavaScript函式庫 "wikilink") [Category:CSS框架](https://zh.wikipedia.org/wiki/Category:CSS框架 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.

@@ -4,8 +4,6 @@ avast\!分成家用用途的[免費版本以及企業和專業用戶的付費版
 
 Avast 杀毒的中国大陆网址为：https://www.avast.com/zh-cn/index\#pc2017年10月，Avast收購AVG並完成整合，正式推出新產品線。Avast 的产品包含Avast secure broswer（安全浏览器）,safe price(谷歌和火狐以及Microsoft Edge浏览器插件），Avast 在线安全（[Microsoft Edge](../Page/Microsoft_Edge.md "wikilink"),firefox,chrome 插件），Avast cleanup(免费版及付费版），Driver updater (驱动更新程式，免费版只能扫描电脑上需要更新的驱动，要付费才可以更新驱动。）\[10\]
 
-2019年6月25日，Avast杀毒发布新版本19.6.2383-19.6.4546.0。2019年8月15日，Avast杀毒发布版本19.7.2388-19.7.4674.0 。
-
 ## 特色
 
 ### 核心和檢測
@@ -211,115 +209,62 @@ Avast 於 2016 年 9 月併購 AVG Technologies。
 [Category:Windows軟體](https://zh.wikipedia.org/wiki/Category:Windows軟體 "wikilink") [Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink") [Category:安全軟體](https://zh.wikipedia.org/wiki/Category:安全軟體 "wikilink") [Category:殺毒软件](https://zh.wikipedia.org/wiki/Category:殺毒软件 "wikilink")
 
 1.  2010年6月1日變更其公司名
-
 2.
-
 3.
-
 4.
-
 5.  avast\! 艾維斯特- PChome線上購物
-
 6.  香港商愛維士有限公司
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
-
 19.
 20.
-
 21.
-
 22.
-
 23.
 24.
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
 59.
-
 60. [中国封锁免费杀毒软件Avast](http://www.solidot.org/story?sid=43154)

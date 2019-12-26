@@ -4,7 +4,7 @@ WonderSwan采用16位元[中央处理器](../Page/中央处理器.md "wikilink")
 
 ## 历史
 
-[万代是山科直治在](https://zh.wikipedia.org/wiki/万代 "wikilink")1950年创立的公司，以玩具车与可塑模型生产起家。公司从1963年掌握《[铁臂阿童木](../Page/铁臂阿童木.md "wikilink")》角色版权起，以热门动画角色授权经营，成为玩具业巨头。万代在1970年代中，生产了电视节目和专用游戏机改编的[LCD游戏](https://zh.wikipedia.org/wiki/LCD "wikilink")。公司于1982年在日本发行[Intellivision](../Page/Intellivision.md "wikilink")，于1985年成为首批第三方[红白机](../Page/红白机.md "wikilink")厂商之一。但公司在电子游戏界的最大成功，是1996年首发的电子宠物[他媽哥池](../Page/他媽哥池.md "wikilink")\[1\]。然而万代在产品成功后，突然取消了1997年和[世嘉](../Page/世嘉.md "wikilink")合并的计划。万代董事会不到一周就通过反对合并决议，世嘉在决议当晚的紧急董事会见中，也接受了万代的行动。对未获合并支持一事，万代总裁山科诚表示负责\[2\]。于是在万代没有外部支持的情况下，进入电子游戏市场\[3\]。
+[万代是山科直治在](https://zh.wikipedia.org/wiki/万代 "wikilink")1950年创立的公司，以玩具车与可塑模型生产起家。公司从1963年掌握《[铁臂阿童木](../Page/铁臂阿童木.md "wikilink")》角色版权起，以热门动画角色授权经营，成为玩具业巨头。万代在1970年代中，生产了电视节目和专用游戏机改编的[LCD游戏](https://zh.wikipedia.org/wiki/LCD "wikilink")。公司于1982年在日本发行[Intellivision](../Page/Intellivision.md "wikilink")，于1985年成为首批第三方[红白机](../Page/红白机.md "wikilink")厂商之一。但公司在电子游戏界的最大成功，是1996年首发的电子宠物[他媽哥池](../Page/他媽哥池.md "wikilink")\[1\]。然而万代在产品成功后，突然取消了1997年和[世嘉](../Page/世嘉.md "wikilink")合并的计划。万代董事会不到一周就通过反对合并决议，世嘉在决议当晚的紧急董事会见中，也接受了万代的反對合併決議。对未获合并支持一事，万代总裁山科诚表示负责\[2\]。于是在万代没有外部支持的情况下，进入电子游戏市场\[3\]。
 
 工程设计师[横井军平在](https://zh.wikipedia.org/wiki/横井军平 "wikilink")[任天堂](../Page/任天堂.md "wikilink")时，设计了著名的掌上游戏机[Game Boy](../Page/Game_Boy.md "wikilink")。他在[Virtual Boy失败后](../Page/Virtual_Boy.md "wikilink")，于1996年离开任天堂，自创工程设计公司Koto Laboratory。万代之后请横井军平制作WondoerSwan，和Game Boy竞争\[4\]。横井参与了新掌机的开发，但1997年因车祸先于产品推出前离世\[5\]。
 
@@ -49,18 +49,12 @@ WonderSwan系列售出350万台\[50\]\[51\]，一度占据日本掌机商场份�
 [Category:萬代遊戲機](https://zh.wikipedia.org/wiki/Category:萬代遊戲機 "wikilink") [Category:掌上遊戲機](https://zh.wikipedia.org/wiki/Category:掌上遊戲機 "wikilink") [Category:第五世代遊戲機](https://zh.wikipedia.org/wiki/Category:第五世代遊戲機 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
@@ -70,36 +64,26 @@ WonderSwan系列售出350万台\[50\]\[51\]，一度占据日本掌机商场份�
 14.
 15.
 16.
-
 17.
-
 18.
 19.
-
 20.
-
 21.
-
 22.
 23.
-
 24.
 25.
 26.
 27.
 28.
 29.
-
 30.
 31.
-
 32.
-
 33.
 34.
 35.
 36.
-
 37.
 38.
 39.
@@ -115,7 +99,6 @@ WonderSwan系列售出350万台\[50\]\[51\]，一度占据日本掌机商场份�
 49.
 50.
 51.
-
 52.
 53.
 54.

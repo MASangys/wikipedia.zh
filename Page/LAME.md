@@ -55,7 +55,7 @@ LAME软件已在[GNU宽通用公共许可证](../Page/GNU宽通用公共许可�
 
   - [LAME网站](http://lame.sourceforge.net/)
   - [LAME下载](http://www.rarewares.org/mp3.html)
-  - [LAME版本历史](http://www.rjamorim.com/rrw/lame.html)
+  - [LAME版本历史](https://web.archive.org/web/20060412004044/http://www.rjamorim.com/rrw/lame.html)
 
 [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink") [Category:SourceForge專案](https://zh.wikipedia.org/wiki/Category:SourceForge專案 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:音频编解码器](https://zh.wikipedia.org/wiki/Category:音频编解码器 "wikilink")
 

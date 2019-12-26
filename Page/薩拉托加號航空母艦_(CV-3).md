@@ -58,6 +58,8 @@
 
 由於薩拉托加號的殘骸深度僅有40呎，近年來成為了[水肺潛水](../Page/水肺潛水.md "wikilink")運動的熱門地點。她與[奧里斯卡尼號是兩艘得以進行潛水運動的航空母艦殘骸](https://zh.wikipedia.org/wiki/奧里斯卡尼號航空母艦_\(CV-34\) "wikilink")。
 
+1956年，又有[第二艘薩拉托加號航空母艦下水服役](https://zh.wikipedia.org/wiki/薩拉托加號航空母艦_\(CV-60\) "wikilink")，這是[佛瑞斯特級航空母艦](../Page/佛瑞斯特級航空母艦.md "wikilink")的第二艘。
+
 ## 相關條目
 
   - [列辛頓級航空母艦](https://zh.wikipedia.org/wiki/列辛頓級航空母艦 "wikilink")
@@ -69,4 +71,4 @@
   - [薩拉托加號的照片 英文](http://www.history.navy.mil/photos/sh-usn/usnsh-s/cv3.htm)
   - [薩拉托加號在以戰鬥巡洋艦規格建造時 英文](http://www.history.navy.mil/photos/sh-usn/usnsh-s/cc3.htm)
 
-[Category:美國海軍航空母艦](https://zh.wikipedia.org/wiki/Category:美國海軍航空母艦 "wikilink") [Category:第二次世界大戰航空母艦](https://zh.wikipedia.org/wiki/Category:第二次世界大戰航空母艦 "wikilink") [Category:1927年竣工的船只](https://zh.wikipedia.org/wiki/Category:1927年竣工的船只 "wikilink") [Category:1925年下水](https://zh.wikipedia.org/wiki/Category:1925年下水 "wikilink") [Category:二戰美國軍艦](https://zh.wikipedia.org/wiki/Category:二戰美國軍艦 "wikilink")
+[Category:美國海軍航空母艦](https://zh.wikipedia.org/wiki/Category:美國海軍航空母艦 "wikilink") [Category:第二次世界大戰航空母艦](https://zh.wikipedia.org/wiki/Category:第二次世界大戰航空母艦 "wikilink") [Category:1925年下水](https://zh.wikipedia.org/wiki/Category:1925年下水 "wikilink") [Category:二戰美國軍艦](https://zh.wikipedia.org/wiki/Category:二戰美國軍艦 "wikilink")

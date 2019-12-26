@@ -45,7 +45,7 @@ Wget的命令格式如下：
 
 <!-- end list -->
 
-  - [很老的一个Wget FTP站点](ftp://gnjilux.srk.fer.hr/pub/unix/util/wget/)，里面包含了各个历史时期的发布版本，包括在1.0版前发布的Geturl。
+  - [很老的一个Wget FTP站点](https://web.archive.org/web/20140813040637/http://gnjilux.srk.fer.hr/pub/unix/util/wget/)，里面包含了各个历史时期的发布版本，包括在1.0版前发布的Geturl。
 
 [Category:GNU計劃軟體](https://zh.wikipedia.org/wiki/Category:GNU計劃軟體 "wikilink") [Category:FTP客户端](https://zh.wikipedia.org/wiki/Category:FTP客户端 "wikilink") [Category:HTTP客户端](https://zh.wikipedia.org/wiki/Category:HTTP客户端 "wikilink") [Category:下載工具](https://zh.wikipedia.org/wiki/Category:下載工具 "wikilink") [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
 

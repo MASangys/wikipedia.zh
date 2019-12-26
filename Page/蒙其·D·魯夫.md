@@ -6,7 +6,7 @@
 
 ## 設計
 
-作者[尾田榮一郎在](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")《ONE PIECE》連載10周年的紀念情報志《ONE PARA》中表示，魯夫（Luffy）這名字源自英語「Luff」，意即「逆風航行」，這是他想過最適合船長使用的名字。此外，他也指出魯夫生下來就是運勢非凡的人；只有實力和運氣兼備的人，才能成就偉大功業\[1\]。
+作者[尾田榮一郎在](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")《ONE PIECE》連載10週年的紀念情報志《ONE PARA》中表示，魯夫（Luffy）這名字源自英語「Luff」，意即「逆風航行」，這是他想過最適合船長使用的名字。此外，他也指出魯夫生下來就是運勢非凡的人；只有實力和運氣兼備的人，才能成就偉大功業\[1\]。
 
 ## 人物
 
@@ -54,7 +54,7 @@
 
 為了保護夥伴，魯夫跳入鏡子空間，和卡塔克利展開殊死戰。雖然施展渾身解數，卻始終居於下風，數度透過「BIG MOM」八女布璃叡的能力進出鏡面世界。其後成功因對方陷入混亂而稍微反擊，但很快因對方再度專心而又返回起點，經歷數小時纏鬥後，第一次發動四檔---蛇人形態，和卡塔克利展開最終死鬥。最終雙方均倒地，但又再次爬了起來，卡塔克利問他是不是會回來將「BIG MOM」打倒，魯夫回答：「當然會！我是要成為海賊王的男人！」，而卡塔克利在留下了「那你看到了相當遙遠的未來啊。」這句話後終於力盡倒地。離開前，魯夫將禮帽蓋在卡塔克利的嘴巴上，以遮掩他的臉部。
 
-由於世界經濟新聞社社長摩甘茲的報導，將吉貝爾的加入、擊敗[BIG MOM海賊團旗下的兩名將星](../Page/BIG_MOM海賊團.md "wikilink")、組織草帽大船團以及與薩波的義兄弟關係等事件都一併公開於世，亦提及在圓蛋糕島的「火戰車海賊團」、「太陽海賊團」和「杰爾馬66」皆因魯夫的人格魅力而出手幫助，使草帽一夥的成員基本上都安全逃離[BIG MOM海賊團的追殺](../Page/BIG_MOM海賊團.md "wikilink")，甚至在報紙將魯夫譽為第五位「海上皇帝」；同時魯夫的懸賞金額也提高到15億貝里，成為了全世界的焦點新聞。其中[海軍方面](../Page/海軍_\(ONE_PIECE\).md "wikilink")，[赤犬元帥非常感到不悅](https://zh.wikipedia.org/wiki/赤犬 "wikilink")；[四皇方面](https://zh.wikipedia.org/wiki/四皇 "wikilink")，海道與[夏洛特·莉莉](../Page/夏洛特·莉莉.md "wikilink")氣炸了，[汀奇趁機偷笑](../Page/馬歇爾·D·汀奇.md "wikilink")，至於[傑克則是滿心期待與魯夫的再次見面](../Page/傑克_\(ONE_PIECE\).md "wikilink")。
+由於世界經濟新聞社社長摩甘茲的報導，將吉貝爾的加入、擊敗[BIG MOM海賊團旗下的兩名將星](../Page/BIG_MOM海賊團.md "wikilink")、組織草帽大船團以及與薩波的義兄弟關係等事件都一併公開於世，亦提及在圓蛋糕島的「火戰車海賊團」、「太陽海賊團」和「杰爾馬66」皆因魯夫的人格魅力而出手幫助，使草帽一夥的成員基本上都安全逃離[BIG MOM海賊團的追殺](../Page/BIG_MOM海賊團.md "wikilink")，甚至在報紙將魯夫譽為第五位「海上皇帝」；同時魯夫的懸賞金額也提高到15億貝里，成為了全世界的焦點新聞。其中[海軍方面](../Page/海軍_\(ONE_PIECE\).md "wikilink")，[赤犬元帥非常感到不悅](https://zh.wikipedia.org/wiki/赤犬 "wikilink")；[四皇方面](https://zh.wikipedia.org/wiki/四皇 "wikilink")，[凱多與](https://zh.wikipedia.org/wiki/凱多 "wikilink")[夏洛特·莉莉](../Page/夏洛特·莉莉.md "wikilink")氣炸了，[汀奇趁機偷笑](../Page/馬歇爾·D·汀奇.md "wikilink")，至於[傑克則是滿心期待與魯夫的再次見面](../Page/傑克_\(ONE_PIECE\).md "wikilink")。
 
 #### 和之國篇
 
@@ -97,7 +97,7 @@
 <!-- end list -->
 
   -
-    是藉由咬住武裝色硬化後的手臂，將空氣吹入[肌肉](../Page/肌肉.md "wikilink")的空隙中，讓空氣在肌肉裡移動，使肌肉膨脹產生高速、超強的戰鬥力與彈力。使用時有時間限制，解除後會全身虛脫無力（如果提前解除狀態便不會），要休息10分鐘而且這期間不能使用霸氣。與前面兩個換檔不同，四檔因應能力者的戰鬥方式而進化成多種形態。包括將武裝色霸氣集中於全身並注重於彈力的的彈簧人（）、集中於腹部並注重於防禦的坦克人（）、集中於手並注重於速度及反彈的蛇人（）。
+    是藉由咬住武裝色硬化後的手臂，將空氣吹入[肌肉](../Page/肌肉.md "wikilink")的空隙中，讓空氣在肌肉裡移動，使肌肉膨脹產生高速、超強的戰鬥力與彈力。使用時有時間限制，解除後會全身虛脫無力（如果提前解除狀態便不會），要休息10分鐘而且這期間不能使用霸氣。與前面兩個換檔不同，四檔因應能力者的戰鬥方式而進化成多種形態。包括將武裝色霸氣集中於全身並注重於彈力的的彈簧人（）、集中於腹部並注重於防禦的坦克人（）、集中於手並注重於速度及反彈的大蛇人（）。
 
 ### 霸氣
 
@@ -111,12 +111,12 @@
 
 ### 夥伴
 
-目前與魯夫同行的夥伴共有9人，通稱「[草帽海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團 "wikilink")」，包括[羅羅亞·索隆](../Page/羅羅亞·索隆.md "wikilink")、[娜美](../Page/娜美.md "wikilink")、[騙人布](../Page/騙人布.md "wikilink")、[賓什莫克·香吉士](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink")、[多尼多尼·喬巴](../Page/多尼多尼·喬巴.md "wikilink")、[妮可·羅賓](../Page/妮可·羅賓.md "wikilink")、[佛朗基](../Page/佛朗基.md "wikilink")、[布魯克](../Page/布魯克_\(ONE_PIECE\).md "wikilink")、[吉貝爾](../Page/吉貝爾.md "wikilink")
+目前與路飞同行的夥伴共有9人，通稱「[草帽海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團 "wikilink")」，包括[罗罗诺亚·索隆](https://zh.wikipedia.org/wiki/罗罗诺亚·索隆 "wikilink")、[娜美](../Page/娜美.md "wikilink")、[乌索普](https://zh.wikipedia.org/wiki/乌索普 "wikilink")、[山治](https://zh.wikipedia.org/wiki/山治 "wikilink")、[多尼多尼·喬巴](../Page/多尼多尼·喬巴.md "wikilink")、[妮可·羅賓](../Page/妮可·羅賓.md "wikilink")、[佛朗基](../Page/佛朗基.md "wikilink")、[布魯克](../Page/布魯克_\(ONE_PIECE\).md "wikilink")、[吉貝爾](../Page/吉貝爾.md "wikilink")
 
 ### 家族
 
-爺爺：[蒙其·D·卡普](https://zh.wikipedia.org/wiki/蒙其·D·卡普 "wikilink")
-父親：[蒙其·D·多拉格](https://zh.wikipedia.org/wiki/蒙其·D·多拉格 "wikilink")
+爺爺：[蒙奇·D·卡普](https://zh.wikipedia.org/wiki/蒙奇·D·卡普 "wikilink")
+父親：[蒙奇·D·龙](https://zh.wikipedia.org/wiki/蒙奇·D·龙 "wikilink")
 義兄：[波特卡斯·D·艾斯和](https://zh.wikipedia.org/wiki/波特卡斯·D·艾斯 "wikilink")[薩波](https://zh.wikipedia.org/wiki/革命軍_\(ONE_PIECE\)#薩波 "wikilink")
 養母：[卡莉·達坦](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#柯爾波山 "wikilink")
 
@@ -132,7 +132,7 @@
 
 ## 相關項目
 
-[Category:ONE_PIECE海盜角色](https://zh.wikipedia.org/wiki/Category:ONE_PIECE海盜角色 "wikilink") [Category:草帽海賊團](https://zh.wikipedia.org/wiki/Category:草帽海賊團 "wikilink") [Category:虛構海盜](https://zh.wikipedia.org/wiki/Category:虛構海盜 "wikilink") [Category:虛構船長](https://zh.wikipedia.org/wiki/Category:虛構船長 "wikilink") [Category:虛構男性動漫角色](https://zh.wikipedia.org/wiki/Category:虛構男性動漫角色 "wikilink") [Category:具有超人类力气的日本动漫角色](https://zh.wikipedia.org/wiki/Category:具有超人类力气的日本动漫角色 "wikilink")
+[Category:ONE_PIECE海盜角色](https://zh.wikipedia.org/wiki/Category:ONE_PIECE海盜角色 "wikilink") [Category:草帽海賊團](https://zh.wikipedia.org/wiki/Category:草帽海賊團 "wikilink") [Category:虛構海盜](https://zh.wikipedia.org/wiki/Category:虛構海盜 "wikilink") [Category:虛構船長](https://zh.wikipedia.org/wiki/Category:虛構船長 "wikilink") [Category:虛構男性動漫角色](https://zh.wikipedia.org/wiki/Category:虛構男性動漫角色 "wikilink") [Category:具有超人类力气的日本动漫角色](https://zh.wikipedia.org/wiki/Category:具有超人类力气的日本动漫角色 "wikilink") [Category:1997年首次亮相的漫畫角色](https://zh.wikipedia.org/wiki/Category:1997年首次亮相的漫畫角色 "wikilink")
 
 1.  《ONE PIECE》公式導覽手冊GREEN。
 2.  《ONE PIECE》動畫第 511 話

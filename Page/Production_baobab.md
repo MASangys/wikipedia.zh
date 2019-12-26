@@ -91,21 +91,17 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
 
   - 太田修太
 
-  - 尾上優樹
-
 <!-- end list -->
 
   - 行
 
 <!-- end list -->
 
-  -
-  -
-  -
-  - 國廣直希
+  - 海渡翼
 
-  - 古賀明
-
+  -
+  -
+  -
 <!-- end list -->
 
   - 行
@@ -117,11 +113,12 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
   -
   - [澀谷茂](https://zh.wikipedia.org/wiki/澀谷茂 "wikilink")
 
-  - 莊司勝也
-
+  -
   - [白熊寬嗣](../Page/白熊寬嗣.md "wikilink")
 
   -
+  - 末次楓
+
   - [菅原淳一](../Page/菅原淳一.md "wikilink")
 
   -
@@ -155,17 +152,17 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
 <!-- end list -->
 
   -
-  - 馬場直輝
+  - \-{柊}-一希
 
   -
+  - 久田康樹
+
   - [廣瀨正志](../Page/廣瀨正志.md "wikilink")
 
   - 深澤純
 
   -
   -
-  - 本田真之
-
 <!-- end list -->
 
   - 行
@@ -183,6 +180,8 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
 
   -
   -
+  - 望月遼太
+
 <!-- end list -->
 
   - 行
@@ -193,8 +192,6 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
   -
   -
   - 山下創也
-
-  - 湯淺一喜
 
   -
   -
@@ -211,6 +208,8 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
   - 行
 
 <!-- end list -->
+
+  - 藍澤步實
 
   -
   -
@@ -240,12 +239,16 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
 
   - [金元壽子](../Page/金元壽子.md "wikilink")
 
-  - 川西祐子
+  -
+  - 木村朱里
 
   -
   -
-  -
+  - 倉本華瑠
+
   - [黑河奈美](../Page/黑河奈美.md "wikilink")
+
+  - 黑崎詩織
 
   - [好村俊子](../Page/好村俊子.md "wikilink")
 
@@ -260,10 +263,11 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
 
   - \-{榊}-夏美
 
-  - 佐川未季
+  -
+  - 櫻井海亞
 
-  -
-  -
+  - 鈴木-{咲}-
+
   - 關香澄
 
 <!-- end list -->
@@ -281,6 +285,8 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
 
   - [田中真奈美](../Page/田中真奈美.md "wikilink")
 
+  - 手-{嶋}-雪乃
+
   -
   - [冨樫和美](../Page/冨樫和美.md "wikilink")
 
@@ -296,6 +302,8 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
   - 行
 
 <!-- end list -->
+
+  - 林-{鮎}-莉
 
   - 葉山真理佳
 
@@ -313,7 +321,6 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
 
   - [堀絢子](../Page/堀絢子.md "wikilink")
 
-  -
 <!-- end list -->
 
   - 行
@@ -328,7 +335,11 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
   -
   - [峰敦子](../Page/峰敦子.md "wikilink")
 
+  - 宮坂真由
+
   - [本井英美](../Page/本井英美.md "wikilink")
+
+  - [本宮佳奈](../Page/本宮佳奈.md "wikilink")
 
   -
 <!-- end list -->
@@ -338,9 +349,8 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
 <!-- end list -->
 
   -
-  - [弓場沙織](https://zh.wikipedia.org/wiki/弓場沙織 "wikilink")
+  - [弓場沙織](../Page/弓場沙織.md "wikilink")
 
-  -
   -
 <!-- end list -->
 
@@ -403,16 +413,16 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
 <!-- end list -->
 
   -
-  - （現所屬：[希樂星](../Page/希樂星.md "wikilink")）
+  - （移籍[希樂星](../Page/希樂星.md "wikilink")之後於在籍中死去）
 
-  - 金宗俊二（現所屬：[Production★A組](../Page/Production★A組.md "wikilink")）
-
-  - [神谷明](../Page/神谷明.md "wikilink")（現所屬：冴羽商事代表）
+  - [神谷明](../Page/神谷明.md "wikilink")（現所屬：[-{冴}-羽商事代表](https://zh.wikipedia.org/wiki/神谷明#冴羽商事 "wikilink")）
 
   -
   - [川村拓央](../Page/川村拓央.md "wikilink")（現所屬：[Bell Production](../Page/Bell_Production.md "wikilink")）
 
   - （現所屬：）
+
+  - （自由職業）
 
   - （自由職業）
 
@@ -423,7 +433,7 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
   -
   - （現所屬：Kenyu Office）
 
-  - （自由職業）
+  - （現所屬：[Sigma Seven e](../Page/Sigma_Seven_e.md "wikilink")）
 
   - （自由職業）
 
@@ -447,12 +457,14 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
 
   - [坂詰貴之](../Page/坂詰貴之.md "wikilink")（現所屬：[Aksent](../Page/Aksent.md "wikilink")）
 
+  - [-{笹}-岡繁藏](https://zh.wikipedia.org/wiki/笹岡繁藏 "wikilink")（移籍[九Production](../Page/九Production.md "wikilink")之後於在籍中死去）
+
   -
   - [椎橋和義](https://zh.wikipedia.org/wiki/椎橋和義 "wikilink")
 
-  - （現所屬：Production★A組）
+  - （移籍[Production★A組](../Page/Production★A組.md "wikilink")之後於在籍中死去）
 
-  - （自由職業）
+  - （現所屬：）
 
   -
   - [杉山紀彰](../Page/杉山紀彰.md "wikilink")（現所屬：[Stay Luck](../Page/Stay_Luck.md "wikilink")）
@@ -503,7 +515,8 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
   -
   - （引退）
 
-  -
+  - （現所屬：）
+
   - [仲村秀生](../Page/仲村秀生.md "wikilink")（引退後死去）
 
   -
@@ -520,7 +533,7 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
   - （現所屬：ARTSVISION）
 
   -
-  - [速水獎](../Page/速水獎.md "wikilink")（現所屬：[Rush Style](http://rushstyle.net/)代表）
+  - [速水獎](../Page/速水獎.md "wikilink")（現所屬：[Rush Style代表](../Page/Rush_Style.md "wikilink")）
 
   - [日野聰](../Page/日野聰.md "wikilink")（現所屬：AXL ONE）
 
@@ -532,13 +545,13 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
 
   - （自由職業）
 
-  - [藤本讓](../Page/藤本讓.md "wikilink")（現所屬：81 Produce）
+  - [藤本讓](../Page/藤本讓.md "wikilink")（移籍81 Produce之後於在籍中死去）
 
   - [古澤徹](../Page/古澤徹.md "wikilink")（現所屬：Offices Toto代表）
 
   - （移籍Kenyu Office之後於在籍中死去）
 
-  - [宝龜克壽](https://zh.wikipedia.org/wiki/宝龜克壽 "wikilink")（現所屬：Kenyu Office）
+  - [寶龜克壽](../Page/寶龜克壽.md "wikilink")（現所屬：Kenyu Office）
 
   - [堀內賢雄](../Page/堀內賢雄.md "wikilink")（現所屬：Kenyu Office代表）
 
@@ -558,7 +571,7 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
 
   - [水島大宙](../Page/水島大宙.md "wikilink")（現所屬：AXL ONE）
 
-  - [水島裕](../Page/水島裕.md "wikilink")（現所屬：[Knot Communications](http://www.knot-com.com/)）
+  - [水島裕](../Page/水島裕.md "wikilink")（現所屬：[Production Ace](../Page/Production_Ace.md "wikilink")）
 
   - [三矢雄二](../Page/三矢雄二.md "wikilink")（現所屬：[Combination](../Page/Combination_\(聲優事務所\).md "wikilink")）
 
@@ -612,7 +625,7 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
   -
   - [荒井靜香](../Page/荒井靜香.md "wikilink")（現所屬：）
 
-  - [五十嵐麗](../Page/五十嵐麗.md "wikilink")（現所屬：[Rush Style](http://rushstyle.net/)）
+  - [五十嵐麗](../Page/五十嵐麗.md "wikilink")（現所屬：Rush Style）
 
   - [伊倉一惠](../Page/伊倉一惠.md "wikilink")（現所屬：[青二Production](../Page/青二製作.md "wikilink")）
 
@@ -636,7 +649,7 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
   - （自由職業）
 
   -
-  - [小原乃梨子](../Page/小原乃梨子.md "wikilink")
+  - [小原乃梨子](../Page/小原乃梨子.md "wikilink")（現所屬：81 Produce）
 
   - [折笠愛](../Page/折笠愛.md "wikilink")（現所屬：AXL ONE）
 
@@ -659,6 +672,8 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
   - [川上倫子](../Page/川上倫子.md "wikilink")（在籍中死去）
 
   - [川崎惠理子](../Page/川崎惠理子.md "wikilink")（現所屬：Sigma Seven）
+
+  - （自由職業）
 
   - [菊地優見](../Page/菊地優見.md "wikilink")（自由職業）
 
@@ -703,7 +718,7 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
 
   - [佐藤晴香](../Page/佐藤晴香.md "wikilink")
 
-  - [佐藤佑子](../Page/佐藤佑子.md "wikilink")（現所屬：Akseny）
+  - [佐藤佑子](../Page/佐藤佑子.md "wikilink")（現所屬：Aksent）
 
   - [澤口千惠](../Page/澤口千惠.md "wikilink")（自由職業）
 
@@ -773,6 +788,8 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
   -
   - （現所屬：青二Production）
 
+  - （自由職業）
+
 <!-- end list -->
 
   - 行
@@ -799,7 +816,7 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
 
   -
   -
-  - （現所屬：懸樋Production）
+  - （現所屬：懸-{樋}-Production）
 
   -
   -
@@ -818,6 +835,7 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
   -
   - [橫尾麻里](../Page/橫尾麻里.md "wikilink")（現所屬：Sigma Seven）
 
+  -
   - [吉田理保子](../Page/吉田理保子.md "wikilink")（引退、引退前任職經理）
 
 <!-- end list -->
@@ -855,14 +873,9 @@ baobab事務所的官方網站同時有架設官方部落格『bao通信（<smal
 [Category:Production_baobab](https://zh.wikipedia.org/wiki/Category:Production_baobab "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink") [Category:1979年成立的公司](https://zh.wikipedia.org/wiki/Category:1979年成立的公司 "wikilink")
 
 1.
-
 2.
 3.  [野澤雅子](../Page/野澤雅子.md "wikilink")「第2章 優『野雅子』誕生\!\! 青二」《我是聲優。》，[Opto Communications](http://www.optocomm.co.jp/) 出版，1995年11月19日發行，第78頁 ISBN 4-07-217886-1
-
 4.  「VOICE TOPICS」《[Animage](../Page/Animage.md "wikilink")》1984年8月號，[德間書店](../Page/德間書店.md "wikilink")，第133頁。
-
 5.  「ANIME JOURNAL 央合併\!\!」《[Animedia](../Page/Animedia.md "wikilink")》1984年5月號，[學習研究社](../Page/學研控股.md "wikilink")，第120頁。
-
 6.  《Oricon排行書：1968－1997》，[Oricon出版](../Page/Oricon公信榜.md "wikilink")，1997年發行，第265頁 ISBN 4-87131-041-8。
-
 7.  《Oricon排行書 LP編 昭和45年－平成1年》，Original confidence，1990年發行，第237頁 ISBN 4871310256

@@ -10533,266 +10533,163 @@ Unknown<br />
 [Category:AMD圖形處理器](https://zh.wikipedia.org/wiki/Category:AMD圖形處理器 "wikilink") [Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink") [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:计算机比较](https://zh.wikipedia.org/wiki/Category:计算机比较 "wikilink") [Category:计算机硬件列表](https://zh.wikipedia.org/wiki/Category:计算机硬件列表 "wikilink")
 
 1.  <http://www.tweakpc.de/hardware/tests/cpu/amd_a10-7850k_a10-7700k/s06.php>
-
 2.  <http://www.hitechreview.com/it-products/pc/amd%E2%80%99s-kaveri-chips-to-significantly-boost-performance/45507/>
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.  used in C-30 (1.2GHz) and C-50 (1.0GHz) [APU](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink"), paired with Hudson-M1 SB, socket FT1 (BGA-413)
-
 10.
 11.
 12.
 13.
 14. used in E-240 (1.5GHz) and E-350 (1.6GHz) [APU](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink"), paired with Hudson-M1 SB, socket FT1 (BGA-413)
-
 15.
 16. [HD 6450 Graphics (For OEM Only)](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6450/Pages/amd-radeon-hd-6450-overview.aspx)
-
 17. [HD 6570 Graphics (For OEM Only)](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6570/Pages/amd-radeon-hd-6570-overview.aspx)
-
 18. [HD 6670 Graphics (For OEM Only)](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6670/Pages/amd-radeon-hd-6670-overview.aspx)
-
 19. [HD 6750 Graphics (For OEM Only)](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6750/Pages/amd-radeon-hd-6750-overview.aspx)
-
 20. [HD 6770 Graphics (For OEM Only)](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6770/Pages/amd-radeon-hd-6770-overview.aspx)
-
 21.
-
 22.
-
 23. DisplayPort rev.1.2 (DP1.2) 提供 21.6Gbps / 17.28Gbps 独立视讯频宽 (VBW) (2x DP1.1 频宽 -\> 10.8Gbps / 8.64Gbps VBW; 或者 2x VBW 相当于 DL-DVI) 支持更高的解析度至 4096x2160@50Hz 或在较低分辨率上支持30-bit色深， 48Mbps 传输未压缩的音频(如 8声道 LPCM 192khz/24b)，也支持 杜比Dolby 和 DTS 无损音频格式，以及 3位立体声 (AMD的 HD3D)。 同时，DP1.2 支持多路流传输 （Multi-Stream Transport (MST)），可以在单个端口上交替封包传输多个视频流。
-
 24.
-
 25.
-
 26.
 27. [AMD Radeon HD 6950 Graphics](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6950/Pages/amd-radeon-hd-6950-overview.aspx)
-
 28. [AMD's Radeon HD 6970 & Radeon HD 6950: Paving The Future For AMD](http://www.anandtech.com/show/4061/amds-radeon-hd-6970-radeon-hd-6950/3http://www.anandtech.com/show/4061/amds-radeon-hd-6970-radeon-hd-6950/3)
-
 29.
 30. [AMD Radeon HD 6970 Graphics](http://www.amd.com/us/products/desktop/graphics/amd-radeon-hd-6000/hd-6970/Pages/amd-radeon-hd-6970-overview.aspx)
-
 31.
 32.
-
 33.
-
 34.
-
 35.
 36.
-
 37.
 38.
 39.
 40.
 41.
-
 42.
 43.
 44.
-
 45.
 46.
 47. [AMD launches Radeon 7790: Meet the Xbox 720′s GPU](http://www.extremetech.com/gaming/151367-amd-launches-radeon-7790-meet-the-xbox-720s-gpu) - EXTREMETECH.com
-
 48. [AMD Radeon™ HD 7730 显卡](http://www.amd.com/cn/products/desktop/graphics/7000/7730/Pages/radeon-7730.aspx) - amd.com
-
 49. [GT640杯具?AMD新入门卡HD7730测试](http://www.inpai.com.cn/doc/hard/197931.htm)  - inpai.com
-
 50. [HD 7730再测：DDR3与GDDR5版差距大，性价比依然是硬伤](http://www.expreview.com/27339.html) - expreview.com
-
 51. [Review: Sapphire Radeon HD 7730 1GB GDDR5](http://hexus.net/tech/reviews/graphics/58677-sapphire-radeon-hd-7730-1gb-gddr5/) - hexus.net
-
 52.
-
 53.
 54.
 55.
 56.
 57.
 58.
-
 59.
 60.
 61.
 62.
-
 63.
 64.
-
 65.
-
 66.
-
 67.
 68.
 69.
 70.
 71. PowerColor Radeon HD 7850 SCS3 1GB Passive Video Card Review Read more at <http://www.legitreviews.com/powercolor-radeon-hd-7850-scs3-1gb-passive-video-card-review_2213>
-
 72. [GTX 650 Ti杀手，蓝宝石HD 7850 1GB评测](http://www.expreview.com/22541.html) - expreview.com
-
 73.
 74.
-
 75.
 76.
 77.
 78.
-
 79.
 80. [Radeon HD 7870 "Boost Edition" seitens Club3D und PowerColor vorgestellt](http://www.3dcenter.org/news/radeon-hd-7870-boost-edition-seitens-club3d-und-powercolor-vorgestellt) -3dcenter.org
-
 81.
-
 82.
 83.
-
 84.
-
 85.
 86.
 87.
 88. AMD Radeon HD 7950 w/ Boost Versus NVIDIA GeForce GTX 760 Read more at <http://www.legitreviews.com/amd-radeon-hd-7950-w-boost-versus-nvidia-geforce-gtx-760_2227>
-
 89. [GK104变形记，GeForce GTX 760显卡同步评测](http://www.expreview.com/26301-all.html) - expreview.com
-
 90.
-
 91.
-
 92.
-
 93.
-
 94.
 95.
-
 96.
-
 97.
-
 98. [Radeon HD 7990详尽测试](http://news.mydrivers.com/1/261/261388_all.htm)  - mydrivers.com轉載自Tom’s Hardware
-
 99.
 100.
-
 101. [AMD Radeon™ R5 Series Graphics](http://www.amd.com/en-us/products/graphics/desktop/r5#)
-
 102. [迎战GTX 750：R7 250X迫不及待露面了](http://news.mydrivers.com/1/291/291822.htm) - mydrivers.com
-
 103. [AMD Preparing Tahiti XTL Revision of Radeon R9 280X Graphic Card For November Release](http://wccftech.com/amd-preparing-tahiti-xtl-revision-radeon-r9-280x-graphic-card/)
-
 104. [AnandTech Portal | The AMD Radeon R9 290X Review](http://anandtech.com/show/7457/the-radeon-r9-290x-review/)
-
 105.
 106.
-
 107. <http://www.amd.com/en-us/products/graphics/desktop/r7>
-
 108. <http://www.techpowerup.com/213586/amd-announces-the-radeon-r7-300-series.html>
-
 109.
 110. <http://www.amd.com/en-us/products/graphics/desktop/r9>
-
 111. <http://www.amd.com/en-us/products/graphics/desktop/r9>
-
 112.
 113.
 114. <http://wccftech.com/amd-radeon-r9-fury-fiji-pro-gpu-officially-launched-4k-ready-performance-beats-980-549/>
-
 115. <http://www.techpowerup.com/gpudb/2735/radeon-r9-nano.html>
-
 116.
 117. <http://www.techpowerup.com/gpudb/2677/radeon-r9-fury-x.html/>
-
 118. <http://wccftech.com/amd-dual-fiji-fury-graphics-card/>
-
 119.
-
 120.
-
 121.
-
 122.
-
 123. <http://www.amd.com/en-gb/products/graphics/radeon-rx-series/radeon-rx-480>
-
 124. <http://www.3dcenter.org/news/hardware-und-nachrichten-links-des-45-august-2016>
-
 125. [ATI Radeon Mobility Graphics Cards](http://products.amd.com/en-us/MobilityGPUResult.aspx)
-
 126.
 127.
 128. [ATI Device ID page](http://ati.amd.com/developer/vendorid.html) . Retrieved April 1, 2008.
-
 129. [AMD Launches World’s First 40 nm Graphics Processors](http://www.amd.com/us/press-releases/Pages/amd_launches_worlds_first-2009mar03.aspx)
-
 130.
-
 131.
-
 132.
 133.
 134.
 135.
 136.
 137. <http://www.amd.com/en-us/products/graphics/notebook/r5-m200#>
-
 138.
-
 139.
 140. <http://www.amd.com/en-us/products/graphics/notebook/r7-m200#>
-
 141. <http://h10032.www1.hp.com/ctg/Manual/c04643087>
-
 142. <http://i.imgur.com/drxycq2.png>
-
 143. [High-End Workstation Graphics Shootout - AMD FireGL V8650 Vs. NVIDIA QuadroFX 5600](http://hothardware.com/Articles/Ultra-HighEnd-Workstation-Graphics-Card-Shootout/?page=2)
-
 144. [AMD Vendor ID page](http://developer.amd.com/drivers/pc_vendor_id/Pages/default.aspx) . Retrieved September 6, 2008.
-
 145.
-
 146. [AMD FirePro V4800 & FirePro V7800 Review](http://www.phoronix.com/scan.php?page=article&item=amd_firepro_v4800_v7800). Retrieved September 6, 2008.
-
 147.
 148.
 149. <http://www.amd.com/en-us/products/graphics/workstation/firepro-3d/2100#>
-
 150. <http://www.amd.com/en-us/products/graphics/workstation/firepro-3d/4100#>
-
 151. <http://www.amd.com/en-us/products/graphics/workstation/firepro-3d/5100#>
-
 152. <http://www.amd.com/en-us/products/graphics/workstation/firepro-3d/7100#>
-
 153. <http://www.anandtech.com/show/8196/amd-announces-firepro-w8100>
-
 154. <http://www.amd.com/en-us/products/graphics/workstation/firepro-remote-graphics/s9050#>
-
 155. <http://www.amd.com/en-us/products/graphics/workstation/firepro-remote-graphics/s9150#>
-
 156. [FireMV 2260 brochure](http://ati.amd.com/products/firemvSeries/ATI_FireMV_2260.pdf) : "Also with Microsoft DirectX 10.1 support the ATI FireMV 2260 exceeds all of the Windows Vista Aero minimum requirements". Retrieved July 12, 2008
-
 157. [ATI FirePro 2460 Multi-View Professional Graphics](http://www.amd.com/US/PRODUCTS/WORKSTATION/GRAPHICS/ATI-FIREMV-2D/2460-MV/Pages/2460-firemv.aspx#2)
-
 158. [GameCube vs. Xbox: Part Deux](http://www.extremetech.com/article2/0,1697,1152642,00.asp), ExtremeTech. Retrieved July 9, 2007.
-
 159. Baumann, Dave. [ATI Xenos: Xbox 360 Graphics Demystified](http://www.beyond3d.com/content/articles/4/), Beyond3D, June 13, 2005.
-
 160.
-
 161.

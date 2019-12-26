@@ -76,7 +76,7 @@
 
 ## 外部連結
 
-  - [Newtype日文版官方網站](http://anime.webnt.jp/)
+  - [Newtype日文版官方網站](https://web.archive.org/web/20110901174153/http://anime.webnt.jp/)
   - [NewType韓文版官方網站](http://blog.naver.com/ntblog)
   - [角川書店](http://www.kadokawa.co.jp/)
   - [過期雜誌](https://web.archive.org/web/20070209005128/http://www.kadokawa.co.jp/mag/bknum.php?tp=newtype)

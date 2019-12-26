@@ -74,8 +74,8 @@
 
 ### 收錄路線
 
-  - [山陽新幹線](../Page/山陽新幹線.md "wikilink")：[新大阪](https://zh.wikipedia.org/wiki/新大阪站 "wikilink") — [博多](https://zh.wikipedia.org/wiki/博多站 "wikilink") 上、下行
-  - [博多南線](../Page/博多南線.md "wikilink")：[博多](https://zh.wikipedia.org/wiki/博多站 "wikilink") — [博多南](https://zh.wikipedia.org/wiki/博多南站 "wikilink") 上、下行
+  - [山陽新幹線](../Page/山陽新幹線.md "wikilink")：[新大阪](../Page/新大阪站.md "wikilink") — [博多](../Page/博多站.md "wikilink") 上、下行
+  - [博多南線](../Page/博多南線.md "wikilink")：[博多](../Page/博多站.md "wikilink") — [博多南](https://zh.wikipedia.org/wiki/博多南站 "wikilink") 上、下行
 
 ### 駕駛模式路線
 

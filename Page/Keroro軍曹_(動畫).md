@@ -50,7 +50,7 @@
 
 ### 非洲
 
-  - 在位於[非洲之角](../Page/非洲之角.md "wikilink")的最不發達國家[埃塞俄比亞](https://zh.wikipedia.org/wiki/埃塞俄比亞 "wikilink")，2006年3月，作者吉崎觀音的喜劇漫畫作品《Keroro軍曹》已經被翻譯成為埃塞俄比亞當地的[阿姆哈拉語並正式出版發行](https://zh.wikipedia.org/wiki/阿姆哈拉語 "wikilink")，成為唯一出版發行《Keroro軍曹》漫畫的非洲國家，出版發行《Keroro軍曹》漫畫已經是當今一部份埃塞俄比亞人（主要集中在首都[亞的斯亞貝巴](https://zh.wikipedia.org/wiki/亞的斯亞貝巴 "wikilink")）致富的途徑之一。其後，埃塞俄比亞電視台（Ethiopian Television）宣稱[Keroro](../Page/Keroro.md "wikilink")所屬的K隆星人來自埃塞俄比亞，宇宙警察就是基督教經典[聖經記載的在伊甸園欺騙](https://zh.wikipedia.org/wiki/聖經 "wikilink")[亞當](../Page/亞當.md "wikilink")和[夏娃的古蛇](https://zh.wikipedia.org/wiki/夏娃 "wikilink")（[撒旦](https://zh.wikipedia.org/wiki/撒旦 "wikilink")），2007年9月11日（[埃塞俄比亞曆](../Page/埃塞俄比亞曆.md "wikilink")2000年元旦，即“非洲千禧年”），埃塞俄比亞電視台推出《Keroro軍曹》動畫，以阿姆哈拉語配音播放，逢星期二至六下午3時播出。
+  - 在位於[非洲之角](../Page/非洲之角.md "wikilink")的最不發達國家[埃塞俄比亞](https://zh.wikipedia.org/wiki/埃塞俄比亞 "wikilink")，2006年3月，作者吉崎觀音的喜劇漫畫作品《Keroro軍曹》已經被翻譯成為埃塞俄比亞當地的[阿姆哈拉語並正式出版發行](https://zh.wikipedia.org/wiki/阿姆哈拉語 "wikilink")，成為唯一出版發行《Keroro軍曹》漫畫的非洲國家，出版發行《Keroro軍曹》漫畫已經是當今一部份埃塞俄比亞人（主要集中在首都[亞的斯亞貝巴](https://zh.wikipedia.org/wiki/亞的斯亞貝巴 "wikilink")）致富的途徑之一。其後，埃塞俄比亞電視台（Ethiopian Television）宣稱[Keroro](../Page/Keroro.md "wikilink")所屬的K隆星人來自埃塞俄比亞，宇宙警察就是基督教經典[聖經記載的在伊甸園欺騙](https://zh.wikipedia.org/wiki/聖經 "wikilink")[亞當](../Page/亞當.md "wikilink")和[夏娃](../Page/夏娃.md "wikilink")的古蛇（[撒旦](https://zh.wikipedia.org/wiki/撒旦 "wikilink")），2007年9月11日（[埃塞俄比亞曆](../Page/埃塞俄比亞曆.md "wikilink")2000年元旦，即“非洲千禧年”），埃塞俄比亞電視台推出《Keroro軍曹》動畫，以阿姆哈拉語配音播放，逢星期二至六下午3時播出。
   - 在[坦桑尼亞](https://zh.wikipedia.org/wiki/坦桑尼亞 "wikilink")，動畫於桑給巴爾電視台（TVZ）播放，以當地的[斯瓦希里語配音播放](https://zh.wikipedia.org/wiki/斯瓦希里語 "wikilink")。
 
 ### 北美洲
@@ -86,7 +86,7 @@
 
 1.  「」（Kero！進行曲；1～51集）
       -
-        演唱：角田信朗 & 井端珠裡，作詞：，作曲、編曲：[澤田完](../Page/澤田完.md "wikilink")
+        演唱：[角田信朗](https://zh.wikipedia.org/wiki/角田信朗 "wikilink") & [井端珠裡](https://zh.wikipedia.org/wiki/井端珠裡 "wikilink")，作詞：，作曲、編曲：[澤田完](../Page/澤田完.md "wikilink")
 
 #### 香港粵語版
 
@@ -95,7 +95,7 @@
         [有線電視](https://zh.wikipedia.org/wiki/有線電視 "wikilink")：演唱：[朱茵](../Page/朱茵.md "wikilink")；和唱：[區焯文](../Page/區焯文.md "wikilink")；作詞：區焯文；作曲：澤田完；編曲：Joseph Ip
 2.  「Keroro軍曹」（1～51集）
       -
-        [無綫電視](../Page/電視廣播有限公司.md "wikilink")：演唱：[鄭嘉穎](../Page/鄭嘉穎.md "wikilink") ；作詞：[鄭櫻綸](../Page/鄭櫻綸.md "wikilink")；作曲：澤田完；編曲：[葉肇中](../Page/葉肇中.md "wikilink")
+        [無綫電視](../Page/電視廣播有限公司.md "wikilink")：演唱：[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[周文瑛](../Page/周文瑛.md "wikilink")、[潘文柏](../Page/潘文柏.md "wikilink")、[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")、[雷霆](../Page/雷霆.md "wikilink")、[梁偉德](../Page/梁偉德.md "wikilink") ；作詞：[鄭櫻綸](../Page/鄭櫻綸.md "wikilink")；作曲：澤田完；編曲：[葉肇中](../Page/葉肇中.md "wikilink")
 
 ### 片尾曲
 
@@ -522,6 +522,7 @@
 
   - [無綫電視翡翠台](https://zh.wikipedia.org/wiki/無綫電視翡翠台 "wikilink") 星期二、三下午5:15（2010年7月21日首播）
   - [J2](../Page/J2.md "wikilink")星期一至五下午6:25～7:00<small>（重播時段：早上8:30）</small>
+  - [TVB Window星期一至五早上](https://zh.wikipedia.org/wiki/綜藝台 "wikilink")6:00～6:30<small>（重播時段：下午5:30）</small>
 
 ### 每集內容
 

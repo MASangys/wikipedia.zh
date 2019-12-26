@@ -280,62 +280,34 @@ Visual C++编译出的应用程序，其运行环境通常需要安装Visual C++
 [Category:集成开发环境](https://zh.wikipedia.org/wiki/Category:集成开发环境 "wikilink") [Category:C編譯器](https://zh.wikipedia.org/wiki/Category:C編譯器 "wikilink") [Category:C++編譯器](https://zh.wikipedia.org/wiki/Category:C++編譯器 "wikilink") [Category:Microsoft_Visual_Studio](https://zh.wikipedia.org/wiki/Category:Microsoft_Visual_Studio "wikilink")
 
 1.
-
 2.  Retrieved from <http://support.microsoft.com/kb/196831>.
-
 3.
-
 4.
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20. Douglas Boling :*Programming Microsoft Windows CE .NET, Third Edition* Microsoft Press; 3rd edition (June 25, 2003) Paperback: 1264 pages ISBN 978-0735618848 - [Companion CD with Microsoft eMbedded Visual C++ 4.0 Service Pack 2](http://examples.oreilly.de/english_examples/9780735618848/cd_contents/Readme.txt)
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30. [MSDN: Visual C++ Language Conformance](https://docs.microsoft.com/en-us/cpp/visual-cpp-language-conformance?view=vs-2017)
-
 31. [Visual C++ Team Blog: "Introducing the Universal CRT"](https://blogs.msdn.microsoft.com/vcblog/2015/03/03/introducing-the-universal-crt/)
-
 32. [MSDN: The latest supported Visual C++ downloads](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)

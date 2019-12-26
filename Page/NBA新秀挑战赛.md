@@ -346,7 +346,7 @@
 
 | 位置  | 球員                                                          | 球隊                                                        |
 | --- | ----------------------------------------------------------- | --------------------------------------------------------- |
-| F   | [布莱克·格里芬](https://zh.wikipedia.org/wiki/布莱克·格里芬 "wikilink") | [洛杉磯快艇](https://zh.wikipedia.org/wiki/洛杉磯快艇 "wikilink")   |
+| F   | [布莱克·格里芬](../Page/布莱克·格里芬.md "wikilink")                    | [洛杉磯快艇](https://zh.wikipedia.org/wiki/洛杉磯快艇 "wikilink")   |
 | G   | [林書豪](https://zh.wikipedia.org/wiki/林書豪 "wikilink")         | [紐約尼克](https://zh.wikipedia.org/wiki/紐約尼克 "wikilink")     |
 | G   | [歷奇·盧比奧](https://zh.wikipedia.org/wiki/歷奇·盧比奧 "wikilink")   | [明尼蘇達灰狼](https://zh.wikipedia.org/wiki/明尼蘇達灰狼 "wikilink") |
 | F/C | [格雷格·门罗](../Page/格雷格·门罗.md "wikilink")                      | [底特律活塞](../Page/底特律活塞.md "wikilink")                      |
@@ -411,20 +411,17 @@
 
 ## 外部連結
 
-  - [2007 Rookie Challenge](http://www.nba.com/allstar2007/rookie_challenge/)
+  - [2007 Rookie Challenge](https://web.archive.org/web/20140221125940/http://www.nba.com/allstar2007/rookie_challenge/)
   - [2008 Rookie Challenge](http://www.nba.com/allstar2008/rookie_challenge/)
-  - [Rookie Challenge Recaps and Box Scores](http://www.nba.com/history/allstar/rookie_alltime_results.html)
-  - [Rookie Challenge Coaches](http://www.nba.com/history/allstar/rookie_alltime_coaches.html)
-  - [Team-by-Team Participants](http://www.nba.com/history/allstar/rookie_alltime_teambyteam.html)
+  - [Rookie Challenge Recaps and Box Scores](https://web.archive.org/web/20120209224308/http://www.nba.com/history/allstar/rookie_alltime_results.html)
+  - [Rookie Challenge Coaches](https://web.archive.org/web/20121026101440/http://www.nba.com/history/allstar/rookie_alltime_coaches.html)
+  - [Team-by-Team Participants](https://web.archive.org/web/20121026101449/http://www.nba.com/history/allstar/rookie_alltime_teambyteam.html)
 
 [Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink") [Category:NBA全明星赛](https://zh.wikipedia.org/wiki/Category:NBA全明星赛 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
-
 6.

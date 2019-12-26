@@ -141,7 +141,7 @@ Praat还具有许多其他功能，包括：
   - [Goldman, Jean-Philippe (2004)](https://web.archive.org/web/20060926140136/http://www.unige.ch/lettres/linge/ppp/praat_tutorial.pdf)。Praat tutorial and resources.
   - \[<http://www.slp.utoronto.ca/English/page-1-364-1.html> van Lieshout, Pascal (2005)\]。Praat short tutorial: An introduction.
   - [Welby, Pauline & Ito, Kiwako (2002)](https://web.archive.org/web/20060603171912/http://www.ling.ohio-state.edu/~welby/PRAAT/welby-ito-praat-tutorial.pdf)。Praat tutorial.
-  - [Wood, Sidney (2005)](http://www.ling.lu.se/persons/Sidney/praate/index.html)。Beginners guide to Praat.
+  - [Wood, Sidney (2005)](https://web.archive.org/web/20070213013327/http://www.ling.lu.se/persons/Sidney/praate/index.html)。Beginners guide to Praat.
   - [熊子瑜（2004）](https://web.archive.org/web/20070124195509/http://ling.cass.cn/yuyin/staff/praat_manual.pdf)。Praat语音软件使用手册。2004年现代语音学暑期讲习班课程讲义。
   - [徐清白（2005-2007）](http://praatman.googlepages.com/)。Praat手册汉语版。官方手册的汉语翻译版本HTML文档（未完成）.
 
@@ -152,7 +152,7 @@ Praat还具有许多其他功能，包括：
 
 <!-- end list -->
 
-  - [Praat Language Lab](http://praatlanguagelab.com/) 教导英语教学的师生如何以Praat软件改善发音。
+  - [Praat Language Lab](https://web.archive.org/web/20071022031657/http://www.praatlanguagelab.com/) 教导英语教学的师生如何以Praat软件改善发音。
 
 <!-- end list -->
 
@@ -169,7 +169,7 @@ Praat还具有许多其他功能，包括：
   - [Gareth Walker (2005)](https://web.archive.org/web/20050222210842/http://www-users.york.ac.uk/~gw115/praat/)。Praat.
   - [Guillaume Rolland (2000)](https://web.archive.org/web/20061124103539/http://www.icp.inpg.fr/~loeven/Praat/momel_english.html)。Automatic stylisation of the fundamental frequency F0 using MOMEL.
   - [Ingmar Steiner (2005)](http://www.coli.uni-saarland.de/~steiner/?page=praat.scripts&lang=en)。Praat Scripts.
-  - [Johan Frid (2006)](http://www.ling.lu.se/persons/JohanF/PRAATSCRIPTS/)。Praat Scripts.
+  - [Johan Frid (2006)](https://web.archive.org/web/20070219145922/http://www.ling.lu.se/persons/JohanF/PRAATSCRIPTS/)。Praat Scripts.
   - [John Tøndering (n.d.)](https://web.archive.org/web/20070205150655/http://www.cphling.dk/pers/johtnd/praat/my_praat.htm)。Praat.
   - [Katherine Crosswhite (n.d.)](https://web.archive.org/web/20070302200600/http://www.ling.rochester.edu/people/cross/scripts.html)。Praat Scripts and Other Materials.
   - [Kyuchul Yoon (n.d.)](http://www.ling.ohio-state.edu/~kyoon/scripts/praat/)。praat.

@@ -144,7 +144,7 @@ t.A.T.u. 第三張英文專輯《Waste Management》在 2009 年 12 月 15 日�
 
   - [俄語官方網站](https://web.archive.org/web/20081014164138/http://www.tatu.ru/)
 
-  - [英語官方網站](http://www.tatu.ru/en/)
+  - [英語官方網站](https://web.archive.org/web/20090115143643/http://www.tatu.ru/en/)
 
   - [Tatuの余分な物](https://web.archive.org/web/20070813064637/http://www.tatuextraz.com/)
 

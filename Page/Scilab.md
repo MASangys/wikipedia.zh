@@ -203,7 +203,5 @@ Scilab的許多工具箱可以在網站[ATOMS Portal](http://atoms.scilab.org/)�
 [Category:數值分析軟件](https://zh.wikipedia.org/wiki/Category:數值分析軟件 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
 
 1.
-
 2.
-
 3.

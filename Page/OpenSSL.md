@@ -233,56 +233,31 @@ OpenSSL 1.0.1版本（不含1.0.1g）含有一个严重漏洞，可允许攻击�
 [Category:加密软件](https://zh.wikipedia.org/wiki/Category:加密软件 "wikilink") [Category:C函式庫](https://zh.wikipedia.org/wiki/Category:C函式庫 "wikilink") [Category:自由安全软件](https://zh.wikipedia.org/wiki/Category:自由安全软件 "wikilink")
 
 1.  ，
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.
-
 17.
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23. <https://boringssl.googlesource.com/boringssl/> BoringSSL
-
 24.
-
 25.
-
 26. <https://nakedsecurity.sophos.com/2014/06/24/boringssl-wants-kill-the-excitement-that-led-to-heartbleed/>
-
 27.
-
 28.
-
 29.

@@ -102,6 +102,12 @@
 
     卡多在部下的眼中是個值得信賴的長官，他對自己信奉的思想所抱持的强烈信念，以及貫徹信念的決心與毅力，打動了許多0083的愛好者，使卡多成為0083當中最有人氣的角色。
 
+    某種程度也具有相當大的諷刺性，反射人類對[納粹的盲目崇拜](https://zh.wikipedia.org/wiki/納粹 "wikilink")。如[三K黨](https://zh.wikipedia.org/wiki/三K黨 "wikilink")，[納粹黨](https://zh.wikipedia.org/wiki/納粹黨 "wikilink")。
+
+    基連。薩比（CV:[銀河萬丈](../Page/銀河萬丈.md "wikilink")）的盲從者。（隱射[希特勒](https://zh.wikipedia.org/wiki/希特勒 "wikilink")）
+
+    最終在地球聯邦軍激烈反抗及希瑪艦隊叛變下成功執行[殖民地](../Page/殖民地.md "wikilink")[屠殺](https://zh.wikipedia.org/wiki/屠殺 "wikilink")[任務](https://zh.wikipedia.org/wiki/任務 "wikilink")。
+
 <!-- end list -->
 
   -

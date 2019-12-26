@@ -77,7 +77,7 @@
 
 ## 徵選
 
-Sunday Girls是2001年[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")《[超級星期天](../Page/超級星期天.md "wikilink")》中，由[豐華唱片](../Page/豐華唱片.md "wikilink")、[東風文化傳播](https://zh.wikipedia.org/wiki/東風文化傳播 "wikilink")（當時《超級星期天》製作單位）、[吉本興業](../Page/吉本興業.md "wikilink")聯合舉辦的「超級動員令之日本美少女」活動徵選而出的。
+Sunday Girls是2000年6月[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")《[超級星期天](../Page/超級星期天.md "wikilink")》中，由[豐華唱片](../Page/豐華唱片.md "wikilink")、[東風文化傳播](https://zh.wikipedia.org/wiki/東風文化傳播 "wikilink")（當時《超級星期天》製作單位）、[吉本興業](../Page/吉本興業.md "wikilink")聯合舉辦的「超級動員令之日本美少女」活動徵選而出的。
 
 四名Sunday Girls的成員是由2000多封從[日本](../Page/日本.md "wikilink")各地寄來的報名表中，選出130名合格的參賽者，最後經現場選拔而出六名成員，分別為[遠藤舞](../Page/遠藤舞.md "wikilink")、[安藤裕子](../Page/安藤裕子.md "wikilink")、[佐藤麻衣](../Page/佐藤麻衣.md "wikilink")、[高垣朋子](https://zh.wikipedia.org/wiki/高垣朋子 "wikilink")、[五島千佳和](https://zh.wikipedia.org/wiki/五島千佳 "wikilink")[佐藤梢](https://zh.wikipedia.org/wiki/佐藤梢 "wikilink")（[千田愛紗](../Page/千田愛紗.md "wikilink")為候補）。她們都是至台灣訓練三個月，經過磨練比賽而選出的。
 

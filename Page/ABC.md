@@ -48,6 +48,7 @@
   - [ABC强国](https://zh.wikipedia.org/wiki/ABC强国 "wikilink")，拉丁美洲最强三国阿根廷、巴西和智利的合称
   - [ABC群島](../Page/ABC群島.md "wikilink")，加勒比海阿魯巴、波内赫和库拉索三個島的合称
   - Anyone but CY / Anyone but Carrie，政治宣传，指只接受除[梁振英](../Page/梁振英.md "wikilink")或[林鄭月娥](../Page/林鄭月娥.md "wikilink")以外的人選，擔任香港特別行政區行政長官
+  - Anywhere but China，ABC供應鏈
 
 ## 公司
 

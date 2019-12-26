@@ -344,7 +344,7 @@ F类，经济。
 
 ::\*F093/097 各国经济思想
 
-## F1 世界各国经济概况、[经济史](https://zh.wikipedia.org/wiki/经济史 "wikilink")、[经济地理](https://zh.wikipedia.org/wiki/经济地理 "wikilink")
+## F1 世界各国经济概况、[经济史](../Page/经济史.md "wikilink")、[经济地理](https://zh.wikipedia.org/wiki/经济地理 "wikilink")
 
 :\*F11 [世界经济](https://zh.wikipedia.org/wiki/世界经济 "wikilink")、[国际经济关系](https://zh.wikipedia.org/wiki/国际经济关系 "wikilink")
 

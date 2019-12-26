@@ -82,8 +82,8 @@ PC-BSD專案正在從頭開始開發一個新的[桌面环境](../Page/桌面环
 
   - [TrueOS 官方網站](http://www.trueos.org)
   - [PC-BSD 官方網站](http://www.pcbsd.org)
-  - [txz的資料夾（TrueOS 的軟體庫）](http://pkg.cdn.trueos.org/10.0-RELEASE/amd64/All)
-  - [txz的資料夾（PC-BSD 的軟體庫）](http://pkg.cdn.pcbsd.org/10.0-RELEASE/amd64/All)
+  - [txz的資料夾（TrueOS 的軟體庫）](https://web.archive.org/web/20170102082552/http://pkg.cdn.trueos.org/10.0-RELEASE/amd64/All/)
+  - [txz的資料夾（PC-BSD 的軟體庫）](https://web.archive.org/web/20170109081611/http://pkg.cdn.pcbsd.org/10.0-RELEASE/amd64/All/)
   - [PC-BSD 9.1 使用手冊](https://web.archive.org/web/20160306062759/http://ftp.pcbsd.org/pub/handbook/9.1/handbook_zh_cn_ver9.1.html)
   - [TrueOS在distrowatch.com的介紹頁](http://distrowatch.com/table.php?distribution=trueos)
   - [PC-BSD 0.7.5 預覽報告](http://agnani.blogspot.com/2005/06/pc-bsd-075-review.html)

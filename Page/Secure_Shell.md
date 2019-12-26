@@ -18,13 +18,16 @@ SSH协议有两个主要版本，分别是SSH-1和SSH-2。无论是哪个版本�
 
 SSH也支持基于密码的身份验证，此时密钥是自动生成的。若客户端和服务端从未进行过身份验证，SSH未记录服务器端所使用的密钥，那么攻击者可以模仿服务器端请求并获取密码，即[中间人攻击](../Page/中间人攻击.md "wikilink")。但是密码认证可以禁用，而且SSH客户端在发现新密钥或未知服务器时会向用户发出警告。
 
-## 使用
+## 应用
 
-SSH的经典用途是登录到远程电脑中执行命令。除此之外，SSH也支持[隧道协议](../Page/隧道协议.md "wikilink")、[端口映射和](https://zh.wikipedia.org/wiki/端口映射 "wikilink")[X11连接](../Page/X_Window系統.md "wikilink")。借助[SFTP或](../Page/SSH文件传输协议.md "wikilink")[SCP协议还可以传输文件](../Page/安全复制.md "wikilink")\[12\]。
+SSH的经典用途是登录到远程电脑中执行命令。除此之外，SSH也支持[隧道协议](../Page/隧道协议.md "wikilink")、[端口映射和](https://zh.wikipedia.org/wiki/端口映射 "wikilink")[X11连接](../Page/X_Window系統.md "wikilink")。借助[SFTP或](../Page/SSH文件传输协议.md "wikilink")[SCP协议](../Page/安全复制.md "wikilink")，SSH还可以传输文件\[12\]。
 
-SSH使用[客户端-服务器模型](../Page/主從式架構.md "wikilink")。服务器端需要开启SSH[守护进程](../Page/守护进程.md "wikilink")以便接受远端的连接，而用户需要使用SSH客户端与其建立连接。标准端口中的22端口分配给了SSH服务\[13\]。
+SSH使用[客户端-服务器模型](../Page/主從式架構.md "wikilink")，[标准端口为](https://zh.wikipedia.org/wiki/TCP/UDP端口列表 "wikilink")22\[13\]。服务器端需要开启SSH[守护进程](../Page/守护进程.md "wikilink")以便接受远端的连接，而用户需要使用SSH客户端与其建立连接。
 
-大多数现代操作系统（包括[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、大部分[Linux](../Page/Linux.md "wikilink")、[OpenBSD](../Page/OpenBSD.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")等系统）都提供了SSH，但Windows系统未自带SSH程序。Windows用户可以使用[Cygwin](../Page/Cygwin.md "wikilink")来建立SSH服务。SSH客户端种类很多，包括[专有软件](../Page/专有软件.md "wikilink")、[免費軟體](../Page/免費軟體.md "wikilink")和[开源软件](../Page/开源软件.md "wikilink")，例如[PuTTY](../Page/PuTTY.md "wikilink")和传输文件专用的[WinSCP](../Page/WinSCP.md "wikilink")等。Windows 系統已在2017年於 Windows 10 提供 SSH。
+大多数现代操作系统（包括[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、大部分[Linux](../Page/Linux.md "wikilink")、[OpenBSD](../Page/OpenBSD.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")等系统）都提供了SSH，包括Windows系统也提供SSH程序（在Windows 10 - 1709 版本之后）。在软件层次，许多关于SSH的[专有软件](../Page/专有软件.md "wikilink")、[免費軟體](../Page/免費軟體.md "wikilink")和[开源软件](../Page/开源软件.md "wikilink")被研发出来，如：
+
+  - 文件管理软件（同步、复制、删除等）。如：[PuTTY](../Page/PuTTY.md "wikilink")和window下的[WinSCP](../Page/WinSCP.md "wikilink")、类Unix系统下的Konqueror等。
+  - [SSH客户端](../Page/SSH客户端比较.md "wikilink")。
 
 从[云计算的角度上讲](https://zh.wikipedia.org/wiki/云计算 "wikilink")，SSH能够阻止一些因直接暴露在互联网而产生的安全问题，在解决连接问题上发挥了重要作用。SSH隧道可以在互联网、[防火墙](../Page/防火墙.md "wikilink")和虚拟机之间提供一个安全的通道\[14\]。
 
@@ -73,9 +76,9 @@ SSH协议框架中最主要的部分是三个协议：
 
 在服务器端，SSH也提供安全验证。 在第一种方案中，主机将自己的公用密钥分发给相关的客戶端，客戶端在访问主机时则使用该主机的公开密钥来加密数据，主机则使用自己的私有密钥来解密数据，从而实现主机密钥认证，确保数据的保密性。 在第二种方案中，存在一个密钥认证中心，所有提供服务的主机都将自己的公开密钥提交给认证中心，而任何作为客戶端的主机则-{只}-要保存一份认证中心的公开密钥就可以了。在这种模式下，客戶端必须访问认证中心然后才能访问服务器主机。
 
-## SSH协议的可扩展能力
+## SSH协议的可扩展性
 
-SSH协议框架中设计了大量可扩展的冗余能力，比如用户自定义算法、客户自定义密钥规则、高层扩展功能性应用协议。这些扩展大多遵循[IANA的有关规定](https://zh.wikipedia.org/wiki/IANA "wikilink")，特别是在重要的部分，像命名规则和消息编码方面。
+SSH协议框架中设计了大量可扩展项，比如用户自定义算法、客户自定义密钥规则、高层扩展功能性应用协议。这些扩展大多遵循[IANA的有关规定](https://zh.wikipedia.org/wiki/IANA "wikilink")，特别是在重要的部分，像命名规则和消息编码方面。
 
 ## 参考文献
 
@@ -89,39 +92,22 @@ SSH协议框架中设计了大量可扩展的冗余能力，比如用户自定�
 [Category:Secure_Shell](https://zh.wikipedia.org/wiki/Category:Secure_Shell "wikilink") [Category:应用层协议](https://zh.wikipedia.org/wiki/Category:应用层协议 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  [SSH Hardens the Secure Shell](http://www.serverwatch.com/news/print.php/3551081), Serverwatch.com
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11. [SSH setup manual](http://wiki.qnap.com/wiki/How_To_Set_Up_Authorized_Keys)
-
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.

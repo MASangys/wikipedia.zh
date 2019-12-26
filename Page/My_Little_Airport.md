@@ -1,4 +1,4 @@
-**My Little Airport**是[香港](../Page/香港.md "wikilink")的二人獨立音樂組合，成員為林鵬(阿P)和區健瑩(Nicole)。當中的作品多為阿P所作，亦有少量歌曲為Nicole創作。My Little Airport的作品常配以英語及法語歌詞，\[1\]包括《Gigi Leung is dead》、《失落沮喪歌》及《讓我搭一班會爆炸的飛機》等。
+**My Little Airport**是[香港](../Page/香港.md "wikilink")的二人獨立音樂組合，成員為林鵬(阿P)和區健瑩(Nicole)。當中的作品多為阿P所作，亦有少量歌曲為Nicole創作。My Little Airport的作品常配以英語及法語歌詞，\[1\]包括《Gigi Leung is dead》、《失落沮喪歌》、《讓我搭一班會爆炸的飛機》、《迷人的頸巾》及《牛頭角青年》等。
 
 ## 背景
 
@@ -6,11 +6,15 @@
 
 ### 樂隊風格
 
-其作曲風格自由，除一般的歌曲外也有類似詩歌朗誦配以音樂的形態。\[7\]早期作品多以兩位主唱身邊的人和事為題材，但逐漸加入政治、社會等題材。尤其是有歌曲，例如《Donald Tsang, Please die》（意指請[曾蔭權](../Page/曾蔭權.md "wikilink")去死）批評[香港](../Page/香港.md "wikilink")[特首](https://zh.wikipedia.org/wiki/特首 "wikilink")，政府官員等。也有描述性愛行為、開房等題材；封面經常使用素人肖像，但一般不是主唱本人。\[8\]
+其作曲風格自由，除一般的歌曲外也有類似詩歌朗誦配以音樂的形態。\[7\]早期作品多以兩位主唱身邊的人和事為題材，但逐漸加入政治、社會等題材。尤其是有不少歌曲批評[香港](../Page/香港.md "wikilink")[特首](https://zh.wikipedia.org/wiki/特首 "wikilink")，政府官員等，例如《Donald Tsang, Please die》（意指請[曾蔭權](../Page/曾蔭權.md "wikilink")去死）《給金鐘地鐵站車廂內的人》《海心公園》。也有描述性愛行為、開房、嫖妓等題材；封面經常使用素人肖像，但一般不是主唱本人。\[8\]
 
 ## 影響
 
 My Little Airport的唱片至今已先後被[西班牙](../Page/西班牙.md "wikilink")、[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[臺灣](../Page/臺灣.md "wikilink")、[韓國廠牌發行成當地版](https://zh.wikipedia.org/wiki/韓國 "wikilink")，並被Allmusic.com選為2007年全球「The Twee-est Band」。\[9\]而1980至90年代[蘇格蘭](../Page/蘇格蘭.md "wikilink")Indie pop樂隊「[BMX Bandits](https://zh.wikipedia.org/wiki/BMX_Bandits "wikilink")」曾翻唱了My Little Airport的《You don't wanna be my girlfriend, Phoebe》。\[10\]\[11\]作品曾獲[塞爾維亞遊戲公司](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")「Dreamlore」使用於旗下製作的[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")《[Stalin vs. Martians](https://zh.wikipedia.org/wiki/Stalin_vs._Martians "wikilink")》中。\[12\]此外，他們亦曾多次出版不少支持香港民主的歌曲，\[13\]有如《Donald tsang, Please die》及《瓜分[林瑞麟](../Page/林瑞麟.md "wikilink")三十萬薪金》。\[14\]林瑞麟到台灣訪問時，中天在介紹林瑞麟時放的背景音樂就是《瓜分[林瑞麟](../Page/林瑞麟.md "wikilink")三十萬薪金》；\[15\]更因涉及敏感政治話題而常被禁止在內地演出。\[16\]\[17\]
+
+[反送中運動爆發後](https://zh.wikipedia.org/wiki/反送中 "wikilink")，樂隊成員積極參加社運。2019年7月和8月在[YouTube](../Page/YouTube.md "wikilink")分別發佈反映當前社運狀況的單曲《今夜雪糕》\[18\]和《吳小姐》\[19\]。
+
+2019年9月18日，有網民在[新浪微博](../Page/新浪微博.md "wikilink")指出My Little Airport“深黃”“港獨”，并提議“一起舉報他們”。由次日凌晨開始，My Little Airport的歌曲逐漸在[中國大陸的音樂播放器下架](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，以至搜索“My Little Airport”無結果顯示。\[20\]\[21\]
 
 ## 第34屆香港電影金像獎
 
@@ -30,7 +34,7 @@ My Little Airport的唱片至今已先後被[西班牙](../Page/西班牙.md "wi
 <td><p>最佳原創電影歌曲</p></td>
 <td><p>美麗新香港</p></td>
 <td><p>rowspan="4" </p></td>
-<td><p>[18]</p></td>
+<td><p>[22]</p></td>
 </tr>
 </tbody>
 </table>
@@ -99,18 +103,204 @@ My Little Airport的唱片至今已先後被[西班牙](../Page/西班牙.md "wi
       - 下了兩天雨
       - 今夜雪糕
       - 吳小姐
+      - K同學
 
 ### 專輯
 
-  - 2004年8月1日：《**[在動物園散步才是正經事](https://zh.wikipedia.org/wiki/在動物園散步才是正經事 "wikilink")**》
-  - 2005年10月1日：《**[只因當時太緊張](../Page/只因當時太緊張.md "wikilink")**》
-  - 2007年10月1日：《**[我們在炎熱與抑鬱的夏天，無法停止抽煙](https://zh.wikipedia.org/wiki/我們在炎熱與抑鬱的夏天，無法停止抽煙 "wikilink")**》
-  - 2009年11月20日：《**[介乎法國與旺角的詩意](../Page/介乎法國與旺角的詩意.md "wikilink")**》\[19\]
-  - 2011年8月26日：《**[香港是個大商場](https://zh.wikipedia.org/wiki/香港是個大商場 "wikilink")**》
-  - 2012年10月20日：《**[寂寞的星期五](../Page/寂寞的星期五.md "wikilink")**》
-  - 2014年10月1日：《**[適婚的年齡](https://zh.wikipedia.org/wiki/適婚的年齡 "wikilink")**》
-  - 2016年9月15日：《**[火炭麗琪](https://zh.wikipedia.org/wiki/火炭麗琪 "wikilink")**》\[20\]
-  - 2018年9月30日：《**[你說之後會找我](../Page/你說之後會找我.md "wikilink")**》
+<table>
+<thead>
+<tr class="header">
+<th><p>發行日期</p></th>
+<th><p>專輯名稱</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2004年8月1日</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/在動物園散步才是正經事" title="wikilink">在動物園散步才是正經事</a></strong></p></td>
+<td><ol>
+<li>coka, i'm fine</li>
+<li>在動物園散步才是正經事</li>
+<li>victor, fly me to stafford</li>
+<li>edward, had you ever thought that the end of the world would come on 20.9.01?</li>
+<li>柯德莉，關於風景</li>
+<li>my little banana</li>
+<li>josephine's shop</li>
+<li>王菲，關於你的眉</li>
+<li>you don't wanna be my girlfriend, phoebe</li>
+<li>dee, it may all end tomorrow</li>
+</ol></td>
+</tr>
+<tr class="even">
+<td><p>2005年10月1日</p></td>
+<td><p><strong><a href="../Page/只因當時太緊張.md" title="wikilink">只因當時太緊張</a></strong></p></td>
+<td><ol>
+<li>gigi leung is dead</li>
+<li>i don't know how to download good av like iris does</li>
+<li>只因當時太緊張</li>
+<li>失落沮喪歌</li>
+<li>就當我是張如城</li>
+<li>白田購物中心</li>
+<li>leo, are you still jumping out of windows in expensive clothes?</li>
+<li>你的微笑像朵花</li>
+<li>春天在車廂裡</li>
+<li>my little fish</li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td><p>2007年10月1日</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/我們在炎熱與抑鬱的夏天，無法停止抽煙" title="wikilink">我們在炎熱與抑鬱的夏天，無法停止抽煙</a></strong></p></td>
+<td><ol>
+<li>j'ai peur</li>
+<li>japan實瓜</li>
+<li>我愛官恩娜，都不及愛你的哨牙</li>
+<li>馬田的心事</li>
+<li>讓我搭一班會爆炸的飛機</li>
+<li>indie悲歌</li>
+<li>奇人的離職</li>
+<li>frankie wants to be alone</li>
+<li>悲傷的採購</li>
+<li>荔枝角公園</li>
+<li>je pense a toi</li>
+<li>畢業變成失業</li>
+<li>美孚根斯堡與白田珍寶金</li>
+<li>和陳五msn</li>
+<li>debbie, don't send this song to others</li>
+<li>dolly and bb will not wake up anymore</li>
+<li>my little k and j</li>
+</ol></td>
+</tr>
+<tr class="even">
+<td><p>2009年11月20日</p></td>
+<td><p><strong><a href="../Page/介乎法國與旺角的詩意.md" title="wikilink">介乎法國與旺角的詩意</a>[23]</strong></p></td>
+<td><ol>
+<li>介乎法國與旺角的詩意</li>
+<li>濕濕的夢</li>
+<li>北歐是我們的死亡終站</li>
+<li>窮人賣屎忽</li>
+<li>社會主義青年</li>
+<li>荔枝角網球場宣言</li>
+<li>瓜分林瑞麟三十萬薪金</li>
+<li>藍白紅風格練習</li>
+<li>my little st. valentine's day</li>
+<li>失業抗爭歌</li>
+<li>給face雜誌的記者ivy</li>
+<li>when the party is over, i miss my dear porn star</li>
+<li>浪漫九龍塘</li>
+<li>阿波馬草結婚了</li>
+<li>邊一個發明了返工</li>
+<li>donald tsang, please die</li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td><p>2011年8月26日</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/香港是個大商場" title="wikilink">香港是個大商場</a></strong></p></td>
+<td><ol>
+<li>九龍公園游泳池</li>
+<li>迷人的頸巾</li>
+<li>通利的阿賢</li>
+<li>我是為了兩千蚊才到這裡表演</li>
+<li>豬隻在城中逐一消失</li>
+<li>terence的心事</li>
+<li>你是浪子，別泊岸</li>
+<li>if you bring me to the party</li>
+<li>milan</li>
+<li>rm1210</li>
+<li>公司裁員三百人</li>
+<li>搭的士上班去</li>
+<li>西西弗斯之歌</li>
+<li>給金鐘地鐵站車廂內的人</li>
+<li>直到人類滅亡</li>
+</ol></td>
+</tr>
+<tr class="even">
+<td><p>2012年10月20日</p></td>
+<td><p><strong><a href="../Page/寂寞的星期五.md" title="wikilink">寂寞的星期五</a></strong></p></td>
+<td><ol>
+<li>我們一起離開吧</li>
+<li>回到中學的暑假</li>
+<li>牛頭角青年</li>
+<li>how can you fall in love with a guy who doesn’t know Gainsbourg?</li>
+<li>印度</li>
+<li>my little angel</li>
+<li>憂傷的嫖客</li>
+<li>爺就是一名辭職撚</li>
+<li>廣州足浴一夜</li>
+<li>大象</li>
+<li>寂寞的星期五</li>
+<li>菊花的味道</li>
+<li>去信和賣碟</li>
+<li>羅曼蒂克</li>
+<li>RE：迷惘的人生</li>
+<li>love is not a romantic song</li>
+<li>悼二零一二年的夏</li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td><p>2014年10月1日</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/適婚的年齡" title="wikilink">適婚的年齡</a></strong></p></td>
+<td><ol>
+<li>土瓜灣情歌</li>
+<li>給親戚看見我一個人食吉野家</li>
+<li>愛情disabled</li>
+<li>今晚講嘢夜唔夜</li>
+<li>男神與寇比力克</li>
+<li>年輕的茶餐廳老闆娘</li>
+<li>我在暗中儲首期</li>
+<li>海心公園</li>
+<li>美麗新香港</li>
+<li>月映之審判者</li>
+<li>京都民宿夜</li>
+<li>已婚男人</li>
+<li>阿叔今年四十歲 (原唱：鄒凱光)</li>
+<li>五點鐘去天光墟</li>
+<li>四句</li>
+</ol></td>
+</tr>
+<tr class="even">
+<td><p>2016年9月15日</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/火炭麗琪" title="wikilink">火炭麗琪</a>[24]</strong></p></td>
+<td><ol>
+<li>明天不要賴床 baby</li>
+<li>愛人有新歡</li>
+<li>驗孕的下晝</li>
+<li>麥記最後一夜</li>
+<li>獨身的理由</li>
+<li>海</li>
+<li>下亞厘畢道</li>
+<li>my dear friend ka hei</li>
+<li>火炭麗琪</li>
+<li>第十支煙</li>
+<li>昨晚夢見你</li>
+<li>今天沒大麻在身</li>
+<li>離席，抽一根煙</li>
+<li>某夜電影中心</li>
+<li>我以後不再去長洲</li>
+<li>今夜到干諾道中一起瞓</li>
+<li>攻陷你的西</li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td><p>2018年9月30日</p></td>
+<td><p><strong><a href="../Page/你說之後會找我.md" title="wikilink">你說之後會找我</a></strong></p></td>
+<td><ol>
+<li>阿姆斯特丹夜機</li>
+<li>你說之後會找我</li>
+<li>一六八</li>
+<li>再殺一個人</li>
+<li>沖繩流浪貓</li>
+<li>百份之一機會</li>
+<li>彌敦道的一晚good trip</li>
+<li>HEY HEY BABY</li>
+<li>你叫我譯一首德國歌詞</li>
+<li>心</li>
+<li>西湖沒有中秋</li>
+<li>以為和你熟</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
 
 ## 音樂會
 
@@ -123,7 +313,8 @@ My Little Airport的唱片至今已先後被[西班牙](../Page/西班牙.md "wi
   - 2015年10月10日至10月13日：《今晚不如唔好走音樂會》
   - 2016年9月12日至9月14日：《今年我想同你去音樂會》
   - 2017年12月23日至12月27日：《聖誕留一晚陪我音樂會》
-  - 2018年9月30日至10月6日：《你說之後會找我音樂會》\[21\]
+  - 2018年9月30日至10月6日：《你說之後會找我音樂會》\[25\]
+  - 2019年9月14日至11月16日：《催淚的滋味音樂會》\[26\]
 
 ## 參考資料
 
@@ -165,7 +356,12 @@ My Little Airport成員社交網站：
 15.
 16.
 17.
-18.
-19.
-20.
-21.
+18. [my little airport - 今夜雪糕](https://www.youtube.com/watch?v=SFcFcvD7CDA)
+19. [my little airport - 吳小姐](https://www.youtube.com/watch?v=B-I2hbclzXc)
+20. [【逃犯條例】遭網民標籤「深黃」 my little airport歌曲內地下架](https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/377170/%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B-%E9%81%AD%E7%B6%B2%E6%B0%91%E6%A8%99%E7%B1%A4-%E6%B7%B1%E9%BB%83-my-little-airport%E6%AD%8C%E6%9B%B2%E5%85%A7%E5%9C%B0%E4%B8%8B%E6%9E%B6)
+21. [被指「撐港獨」　my little airport 歌曲多個大陸音樂平台下架](https://thestandnews.com/culture/%E8%A2%AB%E7%B6%B2%E6%B0%91%E9%BB%9E%E5%90%8D-%E6%B7%B1%E9%BB%83-my-little-airport-%E6%AD%8C%E6%9B%B2%E5%A4%9A%E5%80%8B%E5%A4%A7%E9%99%B8%E9%9F%B3%E6%A8%82%E5%B9%B3%E5%8F%B0%E4%B8%8B%E6%9E%B6/)
+22.
+23.
+24.
+25.
+26. [my little airport 11月開show 《催淚的滋味》會是最後一次？](https://www.hk01.com/%E6%89%AD%E8%80%B3%E4%BB%94/369862/my-little-airport-11%E6%9C%88%E9%96%8Bshow-%E5%82%AC%E6%B7%9A%E7%9A%84%E6%BB%8B%E5%91%B3-%E6%9C%83%E6%98%AF%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1)

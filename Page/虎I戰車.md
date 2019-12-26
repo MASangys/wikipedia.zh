@@ -90,7 +90,7 @@
 
 ## 運用
 
-虎I在面對主要的敵方戰車，包括[T-34](https://zh.wikipedia.org/wiki/T-34 "wikilink")、[M4中型戰車](https://zh.wikipedia.org/wiki/M4雪曼戰車 "wikilink")、[丘吉爾步兵戰車時均能在](../Page/丘吉爾戰車.md "wikilink")1,600米以上的遠距離外將其擊毀。反過來說，裝備76.2毫米砲的T-34使用APBC卻無法在零距離貫穿虎I的前方裝甲，同样也不能击穿虎I的侧面裝甲。只有使用BR-350P HVAP彈才能在500米以內貫穿虎I的側面裝甲，在300米击穿炮盾装甲。而[T-34/85中型戰車的](https://zh.wikipedia.org/wiki/T-34 "wikilink")85厘米砲使用BR-365P HVAP彈也要在500米以內才能射穿虎I的側面，在300米击穿炮盾。而[IS-2的](https://zh.wikipedia.org/wiki/IS-2 "wikilink")122毫米砲能在1000米內以任何方位擊毀虎式。但实战中也有IS-2坦克在100米内开火被虎I的前方装甲弹开的记载（有一定倾斜角度）。
+虎I在面對主要的敵方戰車，包括[T-34](https://zh.wikipedia.org/wiki/T-34 "wikilink")、[M4中型戰車](https://zh.wikipedia.org/wiki/M4雪曼戰車 "wikilink")、[丘吉爾步兵戰車時均能在](../Page/丘吉爾戰車.md "wikilink")1,600米以上的遠距離外將其擊毀。反過來說，裝備76.2毫米砲的T-34使用APBC卻無法在零距離貫穿虎I的前方裝甲，同样也不能击穿虎I的侧面裝甲。只有使用BR-350P HVAP彈才能在500米以內貫穿虎I的側面裝甲，在300米击穿炮盾装甲。而[T-34/85中型戰車的](https://zh.wikipedia.org/wiki/T-34 "wikilink")85毫米砲使用BR-365P HVAP彈也要在500米以內才能射穿虎I的側面，在300米击穿炮盾。而[IS-2的](https://zh.wikipedia.org/wiki/IS-2 "wikilink")122毫米砲能在1000米內以任何方位擊毀虎式。但实战中也有IS-2坦克在100米内开火被虎I的前方装甲弹开的记载（有一定倾斜角度）。
 
 [M4雪曼的](https://zh.wikipedia.org/wiki/M4雪曼戰車 "wikilink")[M3 75毫米砲只有在](https://zh.wikipedia.org/wiki/:美軍75毫米坦克炮 "wikilink")100米內才有機會貫穿車體的垂直裝甲，以及在1250米以内才可以貫穿側面裝甲(以M61 AP versus [FHA](https://en.wikipedia.org/wiki/Case-hardening))。雪曼的後期型號裝備了反戰車能力更強的M1 76mm毫米砲，使用M62 APC時可在600米至800米擊穿虎式的首上裝甲，砲盾則需迫近到200米；使用M93 HVAP時可在1000米以上擊破虎式，不過此彈種大多發配給驅逐戰車單位，一般裝備76毫米砲的雪曼單位每車只有2\~5發以內。英軍改造的[雪曼螢火蟲裝備了英製](https://zh.wikipedia.org/wiki/雪曼螢火蟲 "wikilink")[17磅砲](https://zh.wikipedia.org/wiki/17磅砲 "wikilink")，使用普通的APCBC時便能在常規交戰距離上有效擊毀虎式，使用[APDS彈理论上可以在](https://zh.wikipedia.org/wiki/脫殼穿甲彈 "wikilink")1500米的距離擊穿虎式，但此彈種在超過500米後命中率大幅降低。
 
@@ -230,115 +230,63 @@
 [Category:重型坦克](https://zh.wikipedia.org/wiki/Category:重型坦克 "wikilink") [Category:德國二戰坦克](https://zh.wikipedia.org/wiki/Category:德國二戰坦克 "wikilink")
 
 1.  《阿登反擊戰:第一個24小時 pp.108-109》
-
 2.  《阿登反擊戰:第一個24小時 pp.108-109》
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  Perrett 1999, p. 8.
-
 8.  Hart 2007, p. 17.
-
 9.  Jentz 1993, pp. 8, 16.
-
 10.
-
 11.
-
 12.
 13.
-
 14.
-
 15. 《戰車》 羅傑·福特 pp.80
-
 16.
-
 17.
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
 28.
-
 29. 《阿登反擊戰：第一個24小時》pp.158
-
 30. 《戰車》羅傑·福特 pp.74-75
-
 31. 《戰車》羅傑·福特 pp.75
-
 32. 《戰車》羅傑·福特 pp.75
-
 33. 《戰車》羅傑·福特 pp.75
-
 34. 《戰車》羅傑·福特 pp.75中稱是2輛，但是在VK3001H條目中卻稱是4輛，故取2-4輛。
-
 35. 《戰車》羅傑·福特 pp.75
-
 36. 《阿登反擊戰：第一個24小時》pp.158
-
 37. 《戰車》羅傑·福特 pp.75
-
 38. 《戰車》羅傑·福特 pp.74
-
 39. 可參考VK4051(P)條目，此處不再贅述
-
 40. 《戰車》羅傑·福特 pp.75
-
 41. 《戰車》羅傑·福特 pp.75
-
 42. ドイツ戦車発達史 128頁
-
 43. 『PANZER』98年2月号、「ティーガー重戦車Part1 その開発経緯とバリエーション」54頁から55頁。
-
 44. [The Tigerfibel](http://www.alanhamby.com/tigerfibel.shtml) alanhamby.com
-
 45. [Tigerfibel p.89](http://www.alanhamby.com/Tigerfibel/89.jpg) alanhamby.com
-
 46. 『ティーガー戦車』、107頁。
-
 47. 『ティーガー戦車』108頁。
-
 48. 《戰車》羅傑·福特 pp.81
-
 49. 《阿登反擊戰：第一個24小時》 pp.108-109
-
 50. 《戰車》羅傑·福特 pp.81
-
 51. [Tiger Aces](http://www.alanhamby.com/aces.shtml) alanhamby.com
-
 52.
 53.
 54.
 55.
 56.
 57. Carruthers, Bob (2000). German Tanks at War. London: Cassell. ISBN 978-0-304-35394-1.
-
 58.
-
 59.
-
 60. Kliment, C.K. and Bernád, D. (2007). *Maďarská armáda 1919–1945* (n.b.- The source mentions that perhaps 15 vehicles had been delivered but only 13 are accounted for in the Hungarian Army sources.)
-
 61. <https://mil.sina.cn/ls/2018-10-10/detail-ihmhafiq7021764.d.html?from=wap>

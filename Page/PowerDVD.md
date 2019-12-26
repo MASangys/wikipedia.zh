@@ -11,62 +11,107 @@
     [HD DVD](../Page/HD_DVD.md "wikilink")（HD DVD-R, HD DVD-ROM） - 版本8以後省略不支援。
     [CPRM光碟](https://zh.wikipedia.org/wiki/CPRM "wikilink")
 
-### 檔案
+### 檔案 (以下指 PowerDVD 19 所支援的檔案格式以及編碼)
 
-**視訊格式**
+**電影**
 
-  - [ASF](https://zh.wikipedia.org/wiki/Advanced_Systems_Format "wikilink")
-  - [AVCHD](../Page/AVCHD.md "wikilink")
-  - [AVCREC](https://zh.wikipedia.org/wiki/AVCREC "wikilink")
-  - [BDAV](https://zh.wikipedia.org/wiki/BDAV "wikilink")
-  - [BDMV](https://zh.wikipedia.org/wiki/BDMV "wikilink")
-  - [DVD+VR](https://zh.wikipedia.org/wiki/DVD+VR "wikilink")
-  - [DVD-VR](https://zh.wikipedia.org/wiki/DVD-VR "wikilink")
-  - [DVD-Video](../Page/DVD-Video.md "wikilink")
-  - [H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")
-  - [Mini-DVD](https://zh.wikipedia.org/wiki/Mini-DVD "wikilink")
-  - [MPEG-1](../Page/MPEG-1.md "wikilink")
-  - [MPEG-2](../Page/MPEG-2.md "wikilink")
-  - [MPEG-2 HD](../Page/MPEG-2.md "wikilink")
-  - [MPEG-4 ASP](../Page/MPEG-4.md "wikilink")（[DivX](../Page/DivX.md "wikilink")與[Xvid](../Page/Xvid.md "wikilink")等）
-  - [VC-1](../Page/VC-1.md "wikilink")
-  - [WMV-HD](../Page/Windows_Media_Video.md "wikilink")
-  - [VCD](../Page/VCD.md "wikilink")
+  - BD-R 2.0/BD-RE 3.0
+  - BD-R 2.0/BD-RE 3.0
+  - BDROM 2.2
+  - BD-J
+  - BDROM Profile 1.1 (Bonus View)
+  - BDROM Profile 2.0 (BD-Live)
+  - BDROM Profile 5.0 (BD 3D)
+  - BDROM Profile 6.0 (Ultra HD 藍光)
+  - AVCREC
+  - AVCHD
+  - XAVC-S
+  - DVD-Video
+  - DVD-VR
+  - DVD+VR
+  - VCD
+  - SVCD
+  - CD
+  - BD ISO
+  - DVD ISO
 
-**360 影片**
+**影片**
 
-  - 等距柱狀投影MP4格式 (H.264/265)，2:1長寬比最大支援至4K解析度。
+  - 264
+  - 265
+  - 26L
+  - 3G2
+  - 3GP
+  - 3GP2
+  - 3GPP
+  - ASF
+  - AVC
+  - AVI
+  - BSF
+  - DIV
+  - DIVX
+  - DVR-MS
+  - FLV (H.264)
+  - H.264
+  - H.265
+  - HEVC
+  - JSV
+  - JVT
+  - M1V
+  - M2P
+  - M2T
+  - M2TS
+  - M2V
+  - M4V
+  - MK3D
+  - MKV
+  - MOD
+  - MOV (H.264)
+  - MP4
+  - MP4V
+  - MPE
+  - MPEG
+  - MPEG-2
+  - VRO
+  - WEBM (VP9 + Opus/Vorbis)
+  - WM
+  - WMV
+  - WTV (single channel)
+  - **360 度影片**：等距柱狀投影格式的 MP4 (H.264/265)。最高支援 4K 解析度 (2:1 畫面顯示比例)。
+  - **3D-360 度影片**：上下並排式等距柱狀投影格式的 MP4 (H.264/265)。最高支援 4K 解析度 (1:1 畫面顯示比例)。
+  - **HDR 10 影片**\*：H.265 (MP4、MKV 以及 M2TS 格式)、VP9 (WEBM 格式)
 
-**3D-360 影片**
-
-  - 雙等距柱狀投影MP4格式(H.264/265). 1:1長寬比最大支援至4K解析度。 **HDR 10 影片**: MP4, MKV, M2TS的H.265視訊
-
-**音訊格式**
+**音訊**
 
   - [AAC](https://zh.wikipedia.org/wiki/AAC "wikilink")
-  - [DTS 5.1](https://zh.wikipedia.org/wiki/デジタル・シアター・システムズ "wikilink")
-  - [DTS 96/24](https://zh.wikipedia.org/wiki/デジタル・シアター・システムズ "wikilink")
-  - [DTS Neo:6](https://zh.wikipedia.org/wiki/デジタル・シアター・システムズ "wikilink")
-  - [DTS-ES Discrete](https://zh.wikipedia.org/wiki/デジタル・シアター・システムズ "wikilink")
-  - [Dolby Digital EX](https://zh.wikipedia.org/wiki/ドルビーデジタル "wikilink")
-  - [DVD-Audio](../Page/DVD-Audio.md "wikilink") - 版本9以後省略不支援。
-  - [MLP Lossless](https://zh.wikipedia.org/wiki/MLP_Lossless "wikilink")
-  - [MPEG Audio Layer-3](../Page/MP3.md "wikilink")
-  - [WMA](../Page/Windows_Media_Audio.md "wikilink")（[Windows Media Audio](../Page/Windows_Media_Audio.md "wikilink")）
-  - [WAV](../Page/WAV.md "wikilink")（[LPCM](https://zh.wikipedia.org/wiki/LPCM "wikilink")）
-  - [DTS](../Page/DTS.md "wikilink")
-  - [CDDA](../Page/CDDA.md "wikilink")（音樂CD）
-  - [DSD](https://zh.wikipedia.org/wiki/DSD "wikilink") - 版本16以後支援。 (DFS與DFF)
+  - AC3
+  - ADTS
+  - AOB
+  - APE
+  - DSD Audio (DSF、DFF)
+  - M4A (AAC / ALAC)
+  - MID
+  - MKA
+  - MP2
+  - MP3
+  - MPA
+  - OGG
+  - RMI
+  - WAV
+  - WMA
 
-**相片格式**
+**相片**
 
   - [BMP](https://zh.wikipedia.org/wiki/BMP "wikilink")
+  - JPE
   - [JPEG](../Page/JPEG.md "wikilink")
   - [JPG](https://zh.wikipedia.org/wiki/JPG "wikilink")
+  - GIF
+  - HEIC
   - [PNG](../Page/PNG.md "wikilink")
   - [TIF](../Page/TIFF.md "wikilink")
   - [TIFF](../Page/TIFF.md "wikilink")
-  - MPO3
+  - MPO (僅 3D)
   - JPS
   - ARW
   - CR2
@@ -86,6 +131,29 @@
   - SR2
   - SRF
   - X3F
+  - **360 度相片**：等距柱狀投影格式的 JPG
+
+**字幕**
+
+**外掛：**
+
+▪ SubRip (.SRT) ▪ PowerDivX (.PSB)
+
+▪ MicroDVD (.SUB) ▪ SubViewer (.SUB)
+
+▪ SubStation Alpha (.SSA、.ASS) ▪ SAMI (\*.SMI) ▪ VobSub (.sub+.idx)
+
+**嵌入式：**
+
+MKV：▪ SSA ▪ ASS ▪ SRT ▪ PGS (壓縮的 PGS、未壓縮的 PGS) ▪ VobSub
+
+MP4：▪ VobSub ▪ Embedded-Timed Text (MPEG4 PART-17)
+
+**影音網站**
+
+  - YouTube
+  - YouTube 直播
+  - Vimeo
 
 ## 參見
 

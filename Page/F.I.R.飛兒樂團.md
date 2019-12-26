@@ -1,4 +1,4 @@
-**飛兒樂團（F.I.R.）**，為華語樂壇少見一女二男三人組合樂團，由現任主唱Lydia（*韓睿）、*吉他手REAL 阿沁（*黃漢青*）、鍵盤手IAN（*陳建寧*）組成。Faye 飛（*詹雯婷*）（*已離團*）為樂團前主唱 。
+**飛兒樂團（F.I.R.）**，為華語樂壇少見一女二男三人組合樂團，由現任主唱Lydia（*[韓睿](https://zh.wikipedia.org/wiki/韓睿 "wikilink")*）、吉他手REAL [阿沁](https://zh.wikipedia.org/wiki/阿沁 "wikilink")（*黃漢青*）、鍵盤手IAN（*[陳建寧](../Page/陳建寧.md "wikilink")*）組成。Faye 飛（*[詹雯婷](../Page/詹雯婷.md "wikilink")*）（*已離團*）為樂團前主唱 。
 
 ## 樂團歷程
 
@@ -20,7 +20,7 @@ F.I.R.於2004年出道，推出首張專輯《[F.I.R.飛兒樂團 同名專輯](
 
 2018年10月24日前樂團主唱Faye宣布以本名詹雯婷加盟亞神音樂 \[6\]。
 
-2018年10月25日 飛兒樂團在北京舉辦記者會，公佈由22歲的新人韓睿（Lydia）接棒擔任樂團新主唱\[7\]。
+2018年10月25日 飛兒樂團在北京舉辦記者會，公佈由22歲的中國籍新人韓睿（Lydia）接棒擔任樂團新主唱\[7\]。
 
 2019年4月1日 飛兒樂團發布睽違近六年的新專輯首支影片，預告回歸樂壇。
 
@@ -77,7 +77,7 @@ F.I.R.剛成軍，尚未與[華納唱片簽約時](https://zh.wikipedia.org/wiki
 <p><a href="https://zh.wikipedia.org/wiki/黃漢青" title="wikilink">黃漢青</a>（Real）</p></td>
 <td><ul>
 <li>生日：</li>
-<li>學歷：<a href="https://zh.wikipedia.org/wiki/天主教輔仁大學" title="wikilink">天主教輔仁大學統計資訊學系肄業</a>、哲學系肄業<a href="../Page/國立臺北大學.md" title="wikilink">國立臺北大學</a>進修部企業管理學系肄業、<a href="../Page/東南科技大學.md" title="wikilink">東南科技大學</a>就讀中</li>
+<li>學歷：<a href="https://zh.wikipedia.org/wiki/天主教輔仁大學" title="wikilink">天主教輔仁大學統計資訊學系肄業</a>、哲學系肄業<a href="../Page/國立臺北大學.md" title="wikilink">國立臺北大學</a>進修部企業管理學系肄業</li>
 <li>擔任：吉他、E.Guitar（電吉他）、部分音樂編曲、和聲、作詞、作曲</li>
 <li>擅長樂器：原音吉他、E.Guitar（電吉他）、部分鍵盤樂器</li>
 </ul></td>

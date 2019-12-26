@@ -10,7 +10,7 @@
   - 2000年遷入「[南港大樓](../Page/TVBS企業總部.md "wikilink")」一樓。
   - 2009年同TVBS部門集中「[內湖大樓](../Page/TVBS企業總部.md "wikilink")」，目前位於「[內湖大樓](../Page/TVBS企業總部.md "wikilink")」四樓。
   - 2014年2月27日起，TVBS歡樂台的HD高畫質版本開始播放，並陸續在各大有線電視系統上架。
-  - 2014年9月29日起，同家族頻道[TVBS新聞台](../Page/TVBS新聞台.md "wikilink")、[TVBS一樣](../Page/TVBS_\(頻道\).md "wikilink")，TVBS歡樂台的標清版本更改視頻比例為16:9。
+  - 2014年9月29日起，同家族頻道[TVBS新聞台](../Page/TVBS新聞台.md "wikilink")、[TVBS一樣](../Page/TVBS_\(頻道\).md "wikilink")，TVBS歡樂台的標清版本更改比例為16:9。
   - 2016年12月21日，更換全新台標。\[2\]
 
 ## 參考資料

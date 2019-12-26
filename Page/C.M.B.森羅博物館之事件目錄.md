@@ -1170,6 +1170,11 @@
 <td><p>2019年6月17日</p></td>
 <td><p>ISBN 978-4-06-516096-1</p></td>
 </tr>
+<tr class="odd">
+<td><p>42</p></td>
+<td><p>2019年10月17日</p></td>
+<td><p>ISBN 978-4-06-517370-1</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1207,10 +1212,8 @@
 ## 参见
 
   - [东方三博士](https://zh.wikipedia.org/wiki/东方三博士 "wikilink")（C.M.B.一词的来源）
-
   - [大英博物馆](../Page/大英博物馆.md "wikilink")
-
-  - （相似作品）
+  - [怪奇大作戰](https://zh.wikipedia.org/wiki/怪奇大作戰 "wikilink")（相似作品）
 
 ## 外部連結
 

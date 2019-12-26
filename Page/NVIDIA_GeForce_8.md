@@ -171,7 +171,7 @@ GeForce 8800系列顯示卡都支援[HDCP](../Page/HDCP.md "wikilink")（High-ba
   - [Guru 3d Review of Geforce 8](http://www.guru3d.com/article/Videocards/391/1/)
   - [中关村在线 - 离电影画质有多远？详谈DX10最新特效](http://vga.zol.com.cn/41/418722.html)
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:GeForce系列](https://zh.wikipedia.org/wiki/Category:GeForce系列 "wikilink") [Category:2006年面世的產品](https://zh.wikipedia.org/wiki/Category:2006年面世的產品 "wikilink")
 
 1.
 2.

@@ -8,7 +8,7 @@ ASN.1本身只定义了表示信息的[抽象句法](https://zh.wikipedia.org/wi
 
 ASN.1与特定的ASN.1编码规则一起通过使用独立于计算机架构和编程语言的方法来描述数据结构，为结构化数据的交互提供了手段，特别是在网络环境的应用程序。
 
-[应用层协议如](https://zh.wikipedia.org/wiki/应用层 "wikilink")[X.400](https://zh.wikipedia.org/wiki/X.400 "wikilink")（[email](https://zh.wikipedia.org/wiki/email "wikilink")）、[X.500和](https://zh.wikipedia.org/wiki/X.500 "wikilink")[LDAP](https://zh.wikipedia.org/wiki/LDAP "wikilink")（[目录服务](../Page/目录服务.md "wikilink")）、[H.323](../Page/H.323.md "wikilink")（[VoIP](../Page/VoIP.md "wikilink")）和[SNMP使用](https://zh.wikipedia.org/wiki/SNMP "wikilink") ASN.1 描述它们交互的[协议数据单元](https://zh.wikipedia.org/wiki/PDU "wikilink")。在[UMTS的接入和非接入层也有广泛的应用](https://zh.wikipedia.org/wiki/UMTS "wikilink")。 ASN.1的其他应用领域参见此处[1](https://web.archive.org/web/20051023024910/http://asn1.elibel.tm.fr/en/uses/index.htm)。
+[应用层](../Page/应用层.md "wikilink")协议如[X.400](https://zh.wikipedia.org/wiki/X.400 "wikilink")（[email](https://zh.wikipedia.org/wiki/email "wikilink")）、[X.500和](https://zh.wikipedia.org/wiki/X.500 "wikilink")[LDAP](https://zh.wikipedia.org/wiki/LDAP "wikilink")（[目录服务](../Page/目录服务.md "wikilink")）、[H.323](../Page/H.323.md "wikilink")（[VoIP](../Page/VoIP.md "wikilink")）和[SNMP使用](https://zh.wikipedia.org/wiki/SNMP "wikilink") ASN.1 描述它们交互的[协议数据单元](https://zh.wikipedia.org/wiki/PDU "wikilink")。在[UMTS的接入和非接入层也有广泛的应用](https://zh.wikipedia.org/wiki/UMTS "wikilink")。 ASN.1的其他应用领域参见此处[1](https://web.archive.org/web/20051023024910/http://asn1.elibel.tm.fr/en/uses/index.htm)。
 
 这里\[[https://web.archive.org/web/20051023025313/http://asn1.elibel.tm.fr/links/\#tools\]列举了很多ASN.1的自由或者商业的工具](https://web.archive.org/web/20051023025313/http://asn1.elibel.tm.fr/links/#tools%5D列举了很多ASN.1的自由或者商业的工具)。
 

@@ -21,21 +21,12 @@
 [Category:主序星](https://zh.wikipedia.org/wiki/Category:主序星 "wikilink") [Category:黃矮星](https://zh.wikipedia.org/wiki/Category:黃矮星 "wikilink") [Category:恆星類型](https://zh.wikipedia.org/wiki/Category:恆星類型 "wikilink") [Category:矮恒星](https://zh.wikipedia.org/wiki/Category:矮恒星 "wikilink")
 
 1.  \[<http://adsabs.harvard.edu/abs/1981A&AS>...46..193H Empirical bolometric corrections for the main-sequence\], G. M. H. J. Habets and J. R. W. Heintze, *Astronomy and Astrophysics Supplement* **46** (November 1981), pp. 193–237.
-
 2.  [Stellar Evolution: Main Sequence to Giant](http://physics.valpo.edu/courses/a101/notes/070409_LowMass.pdf), class notes, Astronomy 101, [Valparaiso University](https://zh.wikipedia.org/wiki/Valparaiso_University "wikilink"), accessed on line [June 19](https://zh.wikipedia.org/wiki/June_19 "wikilink"), 2007.
-
 3.  [Why Does The Sun Shine?](http://www.astronomy.ohio-state.edu/~ryden/ast162_1/notes2.html), lecture, Barbara Ryden, Astronomy 162, [Ohio State University](https://zh.wikipedia.org/wiki/Ohio_State_University "wikilink"), accessed on line [June 19](https://zh.wikipedia.org/wiki/June_19 "wikilink"), 2007.
-
 4.  [Sun](http://www.ari.uni-heidelberg.de/aricns/cnspages/4c00001.htm) , entry at [ARICNS](https://zh.wikipedia.org/wiki/ARICNS "wikilink"), accessed [June 19](https://zh.wikipedia.org/wiki/June_19 "wikilink"), 2007.
-
 5.  [Alpha Centauri A](http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Alpha+Centauri+A), [SIMBAD](../Page/SIMBAD.md "wikilink") query result. Accessed on line [December 4](https://zh.wikipedia.org/wiki/December_4 "wikilink"), 2007.
-
 6.  [Tau Ceti](http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Tau+Ceti), [SIMBAD](../Page/SIMBAD.md "wikilink") query result. Accessed on line [December 4](https://zh.wikipedia.org/wiki/December_4 "wikilink"), 2007.
-
 7.  [51 Pegasi](http://simbad.u-strasbg.fr/simbad/sim-id?Ident=51+Pegasi), [SIMBAD](../Page/SIMBAD.md "wikilink") query result. Accessed on line [December 4](https://zh.wikipedia.org/wiki/December_4 "wikilink"), 2007.
-
 8.  [What Color Are the Stars?](http://www.vendian.org/mncharity/dir3/starcolor/), Mitchell N. Charity's webpage, accessed [November 25](https://zh.wikipedia.org/wiki/November_25 "wikilink"), 2007
-
 9.  [SIMBAD](../Page/SIMBAD.md "wikilink"), [entry](http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Aldebaran) for [Aldebaran](https://zh.wikipedia.org/wiki/Aldebaran "wikilink"), accessed on line [June 19](https://zh.wikipedia.org/wiki/June_19 "wikilink"), 2007.
-
 10.

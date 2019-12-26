@@ -112,7 +112,6 @@
 [Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:千葉縣出身人物](https://zh.wikipedia.org/wiki/Category:千葉縣出身人物 "wikilink") [Category:X_Japan](https://zh.wikipedia.org/wiki/Category:X_Japan "wikilink")
 
 1.  TOSHI個人官網：
-
 2.
 3.
 4.  [信邪教被痛毆到住院](http://www.chinatimes.com/realtimenews/20180503002908-260404)

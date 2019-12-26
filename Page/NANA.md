@@ -1,6 +1,6 @@
 《**NANA**》（）是日本漫畫家[矢澤愛](../Page/矢澤愛.md "wikilink")的[少女漫畫作品](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")，自1999年起開始連載於《[Cookie](https://zh.wikipedia.org/wiki/Cookie_\(雜誌\) "wikilink")》，2009年時因作者健康問題休載至今。故事的主角是兩個名字同樣讀作「NANA」的少女。漫畫推出之後大受歡迎，除了在2006年時被改編成電視動畫外，也在2005年與2006年時分別改拍成兩部電影。
 
-## 概要
+## 簡介
 
 《NANA》從1999年開始在屬於[集英社](../Page/集英社.md "wikilink")漫畫月刊《[Cookie](https://zh.wikipedia.org/wiki/Cookie_\(雜誌\) "wikilink")》上連載。但由於矢澤愛的健康問題，該漫畫已於2009年六月起休載，復刊日期未定。截至休載為止，共計連載84回。
 
@@ -10,7 +10,13 @@
 
 該漫畫獲得2002年度（第48回）[小學館漫畫獎](https://zh.wikipedia.org/wiki/小學館漫畫獎 "wikilink")。
 
-## 劇情簡介
+## 劇情概要
+
+在這個世界上，總能找到和你同樣的名字的人。或許在你們相遇的時候，你們的命運就會交錯在一起。
+
+小松奈奈和大崎娜娜的名字都叫NANA，但她們卻是從性格到經歷都不相同的兩個女孩子。小松奈奈天真可愛，但生于溫室里的她不懂世故，在小天地里只有她的男朋友。大崎娜娜來自破碎的家庭，她性格堅強，行事果斷，渴望成為一個朋克樂手。命運讓這兩個性格截然相反的NANA在生命的驛站中相遇了。
+
+小松奈奈去東京見男友。在火車上，與她同座位的是搖滾樂隊主音大崎娜娜。到了東京之后，兩個人分開了，但她們卻又在同一個房間里相遇，并且，還成了同屋。雖然兩個人的性格不同，但外表剛強果斷的大崎娜娜與單純可愛的小松奈奈卻能在性格上相互補充，成了一見如故的好友……
 
 ## 登場角色
 
@@ -175,7 +181,7 @@
 
 ### 製作人員
 
-  - 原作：[矢澤愛](../Page/矢澤愛.md "wikilink")
+  - 原作：[矢澤愛](../Page/矢澤愛.md "wikilink")（集英社「Cookie」連載）
   - 監督：[浅香守生](https://zh.wikipedia.org/wiki/浅香守生 "wikilink")
   - 系列構成：[金春智子](../Page/金春智子.md "wikilink")
   - 角色設計：[濱田邦彥](../Page/濱田邦彥.md "wikilink")
@@ -183,7 +189,7 @@
   - 色彩設計：角本百合子
   - 音響監督：[三間雅文](../Page/三間雅文.md "wikilink")
   - 攝影監督：增元由紀大
-  - 音樂：[長谷川智樹](https://zh.wikipedia.org/wiki/長谷川智樹 "wikilink")
+  - 音樂：長谷川智樹
   - 動畫製作：[MADHOUSE](../Page/MADHOUSE.md "wikilink")
   - 製作著作：[日本電視台](../Page/日本電視台.md "wikilink")、[VAP](../Page/VAP.md "wikilink")、[集英社](../Page/集英社.md "wikilink")、MADHOUSE
 
@@ -229,97 +235,97 @@
 <td><p>幸子 故意的 |- </p></td>
 </tr>
 <tr class="odd">
-<td><p>第13話</p></td>
+<td><p>第12話</p></td>
 <td></td>
 <td><p>急接近 章司和幸子 |- </p></td>
 </tr>
 <tr class="even">
-<td><p>第15話</p></td>
+<td><p>第14話</p></td>
 <td></td>
 <td><p>家庭餐館的修羅戰塵 |- </p></td>
 </tr>
 <tr class="odd">
-<td><p>第17話</p></td>
+<td><p>第16話</p></td>
 <td></td>
 <td><p>娜娜愛的去向 |- </p></td>
 </tr>
 <tr class="even">
-<td><p>第19話</p></td>
+<td><p>第18話</p></td>
 <td></td>
 <td><p>奈奈的祈禱 娜娜的想法 |- </p></td>
 </tr>
 <tr class="odd">
-<td><p>第21話</p></td>
+<td><p>第20話</p></td>
 <td></td>
 <td><p>急展開 阿八的命運 |- </p></td>
 </tr>
 <tr class="even">
-<td><p>第23話</p></td>
+<td><p>第21.5話</p></td>
 <td></td>
 <td><p>淳子的房間(2) |- </p></td>
 </tr>
 <tr class="odd">
-<td><p>第25話</p></td>
+<td><p>第23話</p></td>
 <td></td>
 <td><p>不想讓給任何人 |- </p></td>
 </tr>
 <tr class="even">
-<td><p>第27話</p></td>
+<td><p>第25話</p></td>
 <td></td>
 <td><p>反覆無常 任性的男人 |- </p></td>
 </tr>
 <tr class="odd">
-<td><p>第29話</p></td>
+<td><p>第27話</p></td>
 <td></td>
 <td><p>阿八想要的未來 |- </p></td>
 </tr>
 <tr class="even">
-<td><p>第31話</p></td>
+<td><p>第29話</p></td>
 <td></td>
 <td><p>愛情表現的問題 |-</p></td>
 </tr>
 <tr class="odd">
-<td><p>第33話</p></td>
+<td><p>第31話</p></td>
 <td></td>
 <td><p>八子懷孕 |-</p></td>
 </tr>
 <tr class="even">
-<td><p>第35話</p></td>
+<td><p>第33話</p></td>
 <td></td>
 <td><p>阿八的選擇 |-</p></td>
 </tr>
 <tr class="odd">
-<td><p>第37話</p></td>
+<td><p>第35話</p></td>
 <td></td>
 <td><p>蕾拉的孤獨 |-</p></td>
 </tr>
 <tr class="even">
-<td><p>第39話</p></td>
+<td><p>第36.5話</p></td>
 <td></td>
 <td><p>淳子的部屋(3) |-</p></td>
 </tr>
 <tr class="odd">
-<td><p>第41話</p></td>
+<td><p>第38話</p></td>
 <td></td>
 <td><p>命運的扳機 |-</p></td>
 </tr>
 <tr class="even">
-<td><p>第43話</p></td>
+<td><p>第40話</p></td>
 <td></td>
 <td><p>BLAST,出道 |-</p></td>
 </tr>
 <tr class="odd">
-<td><p>第45話</p></td>
+<td><p>第42話</p></td>
 <td></td>
 <td><p>娜娜,突然病發 |-</p></td>
 </tr>
 <tr class="even">
-<td><p>第47話</p></td>
+<td><p>第44話</p></td>
 <td></td>
 <td><p>BLAST VS TRAPNEST |-</p></td>
 </tr>
 <tr class="odd">
-<td><p>第49話</p></td>
+<td><p>第46話</p></td>
 <td></td>
 <td><p>再會！阿八和章司 |-</p></td>
 </tr>
@@ -425,6 +431,8 @@
 ## 外部連結
 
   - [NANA漫畫官方網站](http://annex.s-manga.net/s-nana/index.html)
+
+  - [NANA動畫官方網站](http://www.ntv.co.jp/nana/)
 
   - [KONAMI遊戲官方網站](http://www.konami.jp/gs/game/nana/)
 

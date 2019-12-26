@@ -7,7 +7,7 @@
 TVB新聞台節目內容基本上與無綫新聞台無異，一些分別如下：
 
   - 每小時的整點前一分鐘會播放《眺望维港》。
-  - 無綫新聞台所播放的冠名環節節目在TVB新聞台播放時，不會在片頭顯示[贊助商名字](https://zh.wikipedia.org/wiki/贊助商 "wikilink")。
+  - 無綫新聞台所播放的冠名贊助的節目在TVB新聞台播放時，不會在片頭顯示[贊助商的名稱](https://zh.wikipedia.org/wiki/贊助商 "wikilink")。
   - 2018年起，TVB新聞台不會播放財經跑馬燈，而無綫新聞台仍播放。
 
 TVB新聞台播放內容包括本地及國際新聞大事、新聞回顧、財經資訊、專題特輯等。無綫新聞部在[北京及](https://zh.wikipedia.org/wiki/北京 "wikilink")[廣州等地設有新聞中心](https://zh.wikipedia.org/wiki/廣州 "wikilink")，而新聞報道中包括《中華掠影》等資訊時段。

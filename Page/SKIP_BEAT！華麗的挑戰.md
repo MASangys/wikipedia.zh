@@ -2272,295 +2272,314 @@ ACT.273　DISASTER-擴散的水波
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>ISBN</p></td>
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 <td><p>ISBN</p></td>
-<td><p>發售日期</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p>ISBN 978-4-592-17821-7</p></td>
 <td><p>2002年7月19日</p></td>
-<td><p>ISBN 978-986-11-1441-5</p></td>
+<td><p>ISBN 978-4-592-17821-7</p></td>
+<td><p>2002年12月27日</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p>ISBN 978-4-592-17822-4</p></td>
 <td><p>2002年11月19日</p></td>
-<td><p>ISBN 978-986-11-2349-3</p></td>
+<td><p>ISBN 978-4-592-17822-4</p></td>
+<td><p>2003年5月29日</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p>ISBN 978-4-592-17823-1</p></td>
 <td><p>2003年3月19日</p></td>
-<td><p>ISBN 978-986-11-2350-9</p></td>
+<td><p>ISBN 978-4-592-17823-1</p></td>
+<td><p>2003年5月29日</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
-<td><p>ISBN 978-4-592-17824-8</p></td>
 <td><p>2003年7月18日</p></td>
-<td><p>ISBN 978-986-11-3087-3</p></td>
+<td><p>ISBN 978-4-592-17824-8</p></td>
+<td><p>2003年9月17日</p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p>ISBN 978-4-592-17825-5</p></td>
 <td><p>2003年10月17日</p></td>
-<td><p>ISBN 978-986-11-3284-6</p></td>
+<td><p>ISBN 978-4-592-17825-5</p></td>
+<td><p>2004年1月4日</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
-<td><p>ISBN 978-4-592-17826-2</p></td>
 <td><p>2004年2月19日</p></td>
-<td><p>ISBN 978-986-11-3502-1</p></td>
+<td><p>ISBN 978-4-592-17826-2</p></td>
+<td><p>2004年4月19日</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
-<td><p>ISBN 978-4-592-17827-9</p></td>
 <td><p>2004年7月16日</p></td>
-<td><p>ISBN 978-986-11-4496-2</p></td>
+<td><p>ISBN 978-4-592-17827-9</p></td>
+<td><p>2004年9月27日</p></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
-<td><p>ISBN 978-4-592-17828-6</p></td>
 <td><p>2004年10月19日</p></td>
-<td><p>ISBN 978-986-11-5241-7</p></td>
+<td><p>ISBN 978-4-592-17828-6</p></td>
+<td><p>2004年12月22日</p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
-<td><p>ISBN 978-4-592-17829-3</p></td>
 <td><p>2005年2月18日</p></td>
-<td><p>ISBN 978-986-11-5717-7</p></td>
+<td><p>ISBN 978-4-592-17829-3</p></td>
+<td><p>2005年5月3日</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
-<td><p>ISBN 978-4-592-17830-9</p></td>
 <td><p>2005年6月17日</p></td>
-<td><p>ISBN 978-986-11-7257-6</p></td>
+<td><p>ISBN 978-4-592-17830-9</p></td>
+<td><p>2005年7月20日</p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
-<td><p>ISBN 978-4-592-17831-6</p></td>
 <td><p>2005年10月19日</p></td>
-<td><p>ISBN 978-986-11-7800-4</p></td>
+<td><p>ISBN 978-4-592-17831-6</p></td>
+<td><p>2005年12月2日</p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
-<td><p>ISBN 978-4-592-17832-3</p></td>
 <td><p>2006年2月17日</p></td>
-<td><p>ISBN 978-986-11-8219-3</p></td>
+<td><p>ISBN 978-4-592-17832-3</p></td>
+<td><p>2006年4月28日</p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
-<td><p>ISBN 978-4-592-17833-0</p></td>
 <td><p>2006年6月19日</p></td>
-<td><p>ISBN 978-986-11-8220-9</p></td>
+<td><p>ISBN 978-4-592-17833-0</p></td>
+<td><p>2006年7月28日</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
-<td><p>ISBN 978-4-592-17834-7</p></td>
 <td><p>2006年10月19日</p></td>
-<td><p>ISBN 978-986-11-8710-5</p></td>
+<td><p>ISBN 978-4-592-17834-7</p></td>
+<td><p>2006年12月8日</p></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
-<td><p>ISBN 978-4-592-17835-4</p></td>
 <td><p>2007年2月19日</p></td>
-<td><p>ISBN 978-986-11-8711-2</p></td>
+<td><p>ISBN 978-4-592-17835-4</p></td>
+<td><p>2007年3月26日</p></td>
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
-<td><p>ISBN 978-4-592-17836-1</p></td>
 <td><p>2007年6月25日</p></td>
-<td><p>ISBN 978-986-11-9708-1</p></td>
+<td><p>ISBN 978-4-592-17836-1</p></td>
+<td><p>2007年7月27日</p></td>
 </tr>
 <tr class="even">
 <td><p>17</p></td>
-<td><p>ISBN 978-4-592-17837-8</p></td>
 <td><p>2007年10月19日</p></td>
-<td><p>ISBN 978-986-11-9709-8</p></td>
+<td><p>ISBN 978-4-592-17837-8</p></td>
+<td><p>2007年12月14日</p></td>
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
-<td><p>ISBN 978-4-592-17838-5</p></td>
 <td><p>2008年2月25日</p></td>
-<td><p>ISBN 978-986-10-1462-3</p></td>
+<td><p>ISBN 978-4-592-17838-5</p></td>
+<td><p>2008年4月3日</p></td>
 </tr>
 <tr class="even">
 <td><p>19</p></td>
-<td><p>ISBN 978-4-592-17839-2</p></td>
 <td><p>2008年7月17日</p></td>
-<td><p>ISBN 978-986-10-1463-0</p></td>
+<td><p>ISBN 978-4-592-17839-2</p></td>
+<td><p>2008年9月2日</p></td>
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
-<td><p>ISBN 978-4-592-17840-8</p></td>
 <td><p>2008年10月17日</p></td>
-<td><p>ISBN 978-986-10-2731-9</p></td>
+<td><p>ISBN 978-4-592-17840-8</p></td>
+<td><p>2008年12月15日</p></td>
 </tr>
 <tr class="even">
 <td><p>21</p></td>
-<td><p>ISBN 978-4-592-18611-3</p></td>
 <td><p>2009年2月19日</p></td>
-<td><p>ISBN 978-986-10-3394-5</p></td>
+<td><p>ISBN 978-4-592-18611-3</p></td>
+<td><p>2009年4月23日</p></td>
 </tr>
 <tr class="odd">
 <td><p>22</p></td>
-<td><p>ISBN 978-4-592-18612-0</p></td>
 <td><p>2009年6月19日</p></td>
-<td><p>ISBN 978-986-10-3980-0</p></td>
+<td><p>ISBN 978-4-592-18612-0</p></td>
+<td><p>2009年8月14日</p></td>
 </tr>
 <tr class="even">
 <td><p>23</p></td>
-<td><p>ISBN 978-4-592-18613-7</p></td>
 <td><p>2009年10月19日</p></td>
-<td><p>ISBN 978-986-10-4672-3</p></td>
+<td><p>ISBN 978-4-592-18613-7</p></td>
+<td><p>2009年12月14日</p></td>
 </tr>
 <tr class="odd">
 <td><p>24</p></td>
-<td><p>ISBN 978-4-592-18614-4</p></td>
 <td><p>2010年2月19日</p></td>
-<td><p>ISBN 978-986-10-5305-9</p></td>
+<td><p>ISBN 978-4-592-18614-4</p></td>
+<td><p>2010年4月26日</p></td>
 </tr>
 <tr class="even">
 <td><p>25</p></td>
-<td><p>ISBN 978-4-592-18615-1</p></td>
 <td><p>2010年6月18日</p></td>
-<td><p>ISBN 978-986-10-5982-2</p></td>
+<td><p>ISBN 978-4-592-18615-1</p></td>
+<td><p>2010年8月23日</p></td>
 </tr>
 <tr class="odd">
 <td><p>26</p></td>
-<td><p>ISBN 978-4-592-18616-8</p></td>
 <td><p>2010年10月19日</p></td>
-<td><p>ISBN 978-986-10-6605-9</p></td>
+<td><p>ISBN 978-4-592-18616-8</p></td>
+<td><p>2010年12月24日</p></td>
 </tr>
 <tr class="even">
 <td><p>27</p></td>
-<td><p>ISBN 978-4-592-18617-5</p></td>
 <td><p>2011年2月18日</p></td>
-<td><p>ISBN 978-986-10-7207-4</p></td>
+<td><p>ISBN 978-4-592-18617-5</p></td>
+<td><p>2011年7月4日</p></td>
 </tr>
 <tr class="odd">
 <td><p>28</p></td>
-<td><p>ISBN 978-4-592-18618-2</p></td>
 <td><p>2011年6月20日</p></td>
-<td><p>ISBN 978-986-10-8006-2</p></td>
+<td><p>ISBN 978-4-592-18618-2</p></td>
+<td><p>2011年10月13日</p></td>
 </tr>
 <tr class="even">
 <td><p>29</p></td>
-<td><p>ISBN 978-4-592-18619-9</p></td>
 <td><p>2011年11月24日</p></td>
-<td><p>ISBN 978-986-10-8963-8</p></td>
+<td><p>ISBN 978-4-592-18619-9</p></td>
+<td><p>2012年3月26日</p></td>
 </tr>
 <tr class="odd">
 <td><p>30</p></td>
-<td><p>ISBN 978-4-592-18620-5</p></td>
 <td><p>2012年3月19日</p></td>
-<td><p>ISBN 978-986-10-9733-6</p></td>
+<td><p>ISBN 978-4-592-18620-5</p></td>
+<td><p>2012年7月25日</p></td>
 </tr>
 <tr class="even">
 <td><p>31</p></td>
-<td><p>ISBN 978-4-592-19491-0</p></td>
 <td><p>2012年9月20日</p></td>
-<td><p>ISBN 978-986-317-952-8</p></td>
+<td><p>ISBN 978-4-592-19491-0</p></td>
+<td><p>2012年12月21日</p></td>
 </tr>
 <tr class="odd">
 <td><p>32</p></td>
-<td><p>ISBN 978-4-592-19492-7</p></td>
 <td><p>2013年3月19日</p></td>
-<td><p>ISBN 978-986-332-237-5</p></td>
+<td><p>ISBN 978-4-592-19492-7</p></td>
+<td><p>2013年6月26日</p></td>
 </tr>
 <tr class="even">
 <td><p>33</p></td>
-<td><p>ISBN 978-4-592-19493-4</p></td>
 <td><p>2013年9月20日</p></td>
-<td><p>ISBN 978-986-337-429-9</p></td>
+<td><p>ISBN 978-4-592-19493-4</p></td>
+<td><p>2014年1月13日</p></td>
 </tr>
 <tr class="odd">
 <td><p>34</p></td>
-<td><p>ISBN 978-4-592-19494-1</p></td>
 <td><p>2014年3月20日</p></td>
-<td><p>ISBN 978-986-348-719-7</p></td>
+<td><p>ISBN 978-4-592-19494-1</p></td>
+<td><p>2014年7月21日</p></td>
 </tr>
 <tr class="even">
 <td><p>35</p></td>
-<td><p>ISBN 978-4-592-19495-8</p></td>
 <td><p>2014年9月19日</p></td>
-<td><p>ISBN 978-986-365-857-3</p></td>
+<td><p>ISBN 978-4-592-19495-8</p></td>
+<td><p>2015年1月26日</p></td>
 </tr>
 <tr class="odd">
 <td><p>36</p></td>
-<td><p>ISBN 978-4-592-19496-5</p></td>
 <td><p>2015年3月20日</p></td>
-<td><p>ISBN 978-986-431-122-4</p></td>
+<td><p>ISBN 978-4-592-19496-5</p></td>
+<td><p>2015年8月28日</p></td>
 </tr>
 <tr class="even">
 <td><p>37</p></td>
-<td><p>ISBN 978-4-592-19497-2</p></td>
 <td><p>2015年9月25日</p></td>
-<td><p>ISBN 978-986-462-221-4</p></td>
+<td><p>ISBN 978-4-592-19497-2</p></td>
+<td><p>2016年1月12日</p></td>
 </tr>
 <tr class="odd">
 <td><p>38</p></td>
-<td><p>ISBN 978-4-592-19498-9</p></td>
 <td><p>2016年3月18日</p></td>
-<td><p>ISBN 978-986-337-672-9</p></td>
+<td><p>ISBN 978-4-592-19498-9</p></td>
+<td><p>2016年5月25日</p></td>
 </tr>
 <tr class="even">
 <td><p>39</p></td>
-<td><p>ISBN 978-4-592-19499-6</p></td>
 <td><p>2016年9月20日</p></td>
-<td><p>ISBN 978-986-482-019-1</p></td>
+<td><p>ISBN 978-4-592-19499-6</p></td>
+<td><p>2016年12月30日</p></td>
 </tr>
 <tr class="odd">
 <td><p>40</p></td>
-<td><p>ISBN 978-4-592-19500-9</p></td>
 <td><p>2017年3月20日</p></td>
-<td><p>ISBN 978-986-482-999-6</p></td>
+<td><p>ISBN 978-4-592-19500-9<br />
+ISBN 978-4-592-10571-8（限定版）</p></td>
+<td><p>2017年8月31日</p></td>
 </tr>
 <tr class="even">
 <td><p>41</p></td>
-<td><p>ISBN 978-4-592-21641-4</p></td>
 <td><p>2017年10月20日</p></td>
-<td><p>ISBN 978-957-965-280-3</p></td>
+<td><p>ISBN 978-4-592-21641-4</p></td>
+<td><p>2018年4月12日</p></td>
 </tr>
 <tr class="odd">
 <td><p>42</p></td>
-<td><p>ISBN 978-4-592-21642-1</p></td>
 <td><p>2018年5月18日</p></td>
-<td><p>ISBN 978-957-26-1287-3</p></td>
+<td><p>ISBN 978-4-592-21642-1</p></td>
+<td><p>2018年10月22日</p></td>
 </tr>
 <tr class="even">
 <td><p>43</p></td>
-<td><p>ISBN 978-4-592-21643-8</p></td>
 <td><p>2019年1月18日</p></td>
-<td><p>ISBN 978-957-26-2954-3</p></td>
+<td><p>ISBN 978-4-592-21643-8</p></td>
+<td><p>2019年5月29日</p></td>
+</tr>
+<tr class="odd">
+<td><p>44</p></td>
+<td><p>2019年9月20日</p></td>
+<td><p>ISBN 978-4-592-21644-5<br />
+ISBN 978-4-592-10615-9（限定版）</p></td>
+<td><p>|</p></td>
 </tr>
 </tbody>
 </table>
 
-### 公式 FAN BOOK
+### 公式漫迷手冊
 
   -
-    公式漫迷手冊，詳盡囊括角色、劇情、劇中劇等資料，並收錄祝賀恭子生日快樂的特別短篇ACT.X　LUCKY NUMBER “25” AFTER ～SWEET BITTER～。封面圖源為花與夢2008年14期封面恭子與花與夢2009年06期封面蓮和尚，兩張花與夢封面合成。
+    詳盡囊括角色、劇情、劇中劇等資料，並收錄祝賀恭子生日快樂的特別短篇ACT.X　LUCKY NUMBER “25” AFTER ～SWEET BITTER～。封面圖源為花與夢2008年14期封面恭子與花與夢2009年06期封面蓮和尚，兩張花與夢封面合成。
 
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="../Page/白泉社.md" title="wikilink">白泉社</a></p></th>
-<th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
+<th><p>卷數</p></th>
+<th><p>白泉社</p></th>
+<th><p>東立出版社</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>發售日期</p></td>
 <td><p>ISBN</p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
-<td><p>ISBN 978-4-592-18697-7</p></td>
+<td><p>全</p></td>
 <td><p>2009年3月19日</p></td>
+<td><p>ISBN 978-4-592-18697-7</p></td>
 </tr>
 </tbody>
 </table>
+
+### 小說
+
+  -
+<!-- end list -->
+
+  -
+    2016年9月20日發售、ISBN 978-4-59-221764-0
 
 ## DVD
 
@@ -2589,9 +2608,7 @@ ACT.273　DISASTER-擴散的水波
       - 不破尚：[宮野真守](../Page/宮野真守.md "wikilink")
       - 旁白導覽／社倖一：[川中子雅人](https://zh.wikipedia.org/wiki/川中子雅人 "wikilink")
 
-## CD
-
-### 廣播劇CD
+## 廣播劇CD
 
   -
 

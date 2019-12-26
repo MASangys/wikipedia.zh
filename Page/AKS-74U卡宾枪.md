@@ -16,7 +16,7 @@ AKS-74U除裝備了[蘇聯軍隊](https://zh.wikipedia.org/wiki/蘇聯 "wikilink
 
 在[蘇聯解體後](https://zh.wikipedia.org/wiki/蘇聯解體 "wikilink")，AKS-74U繼續在[俄羅斯及多個蘇聯繼承國的軍警中服役至今](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。另外基於現代化需求，部份AKS-74U更被換上附有戰術導軌的[護木以對應各種戰術配件](https://zh.wikipedia.org/wiki/護木 "wikilink")，以及可可摺疊[槍托](../Page/槍托.md "wikilink")，並裝上瞄準鏡。其中較著名的有俄羅斯Zenitco公司提供的升級配件。
 
-[印尼軍隊的戰鬥偵察排使用](https://zh.wikipedia.org/wiki/印尼 "wikilink")5.56毫米的AKS-74U衍生型，由[保加利亞及](https://zh.wikipedia.org/wiki/保加利亞 "wikilink")[俄羅斯製造](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。已故[蓋達組織首領](https://zh.wikipedia.org/wiki/基地組織 "wikilink")[賓拉登及](https://zh.wikipedia.org/wiki/奥萨玛·本·拉登 "wikilink")[阿布·穆薩布·扎卡維在短片中亦有拿著一支裝上來自](https://zh.wikipedia.org/wiki/阿布·穆薩布·扎卡維 "wikilink")[RPK-74的](https://zh.wikipedia.org/wiki/RPK-74 "wikilink")45發長彈匣的AKS-74U。據說，此槍是拉登在[蘇聯入侵阿富汗戰爭時繳獲的](https://zh.wikipedia.org/wiki/蘇聯入侵阿富汗戰爭 "wikilink")，賓拉登認為這支槍會為他帶來好運。另外，[伊斯蘭國首領](https://zh.wikipedia.org/wiki/伊斯蘭國 "wikilink")[阿布·貝克爾·巴格達迪亦擁有同款武器](https://zh.wikipedia.org/wiki/阿布·貝克爾·巴格達迪 "wikilink")。
+[印尼軍隊的戰鬥偵察排使用](https://zh.wikipedia.org/wiki/印尼 "wikilink")5.56毫米的AKS-74U衍生型，由[保加利亞及](https://zh.wikipedia.org/wiki/保加利亞 "wikilink")[俄羅斯製造](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。已故[蓋達組織首領](https://zh.wikipedia.org/wiki/基地組織 "wikilink")[賓拉登及](https://zh.wikipedia.org/wiki/奥萨玛·本·拉登 "wikilink")[阿布·穆薩布·扎卡維在短片中亦有拿著一支裝上來自](https://zh.wikipedia.org/wiki/阿布·穆薩布·扎卡維 "wikilink")[RPK-74的](https://zh.wikipedia.org/wiki/RPK-74 "wikilink")45發長彈匣的AKS-74U。據說，此槍是拉登在[蘇聯入侵阿富汗戰爭時繳獲的](https://zh.wikipedia.org/wiki/蘇聯入侵阿富汗戰爭 "wikilink")，賓拉登認為這支槍會為他帶來好運。另外，[伊斯蘭國已故](https://zh.wikipedia.org/wiki/伊斯蘭國 "wikilink")「[哈里發](https://zh.wikipedia.org/wiki/哈里發 "wikilink")」[阿布·貝克爾·巴格達迪亦擁有同款武器](https://zh.wikipedia.org/wiki/阿布·貝克爾·巴格達迪 "wikilink")。
 
 ## 其他名字
 
@@ -163,7 +163,7 @@ AKS-74U在蘇軍和俄軍服役期間經常被士兵暱稱為“Kysusha”（К�
 
 ## 相關條目
 
-  - [AK-47](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")
+  - [AK](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")
   - [AKMSU](../Page/AKMSU卡賓槍.md "wikilink")
   - [AK-74](../Page/AK-74突击步枪.md "wikilink")
   - [RPK-74](../Page/RPK-74輕機槍.md "wikilink")
@@ -171,8 +171,8 @@ AKS-74U在蘇軍和俄軍服役期間經常被士兵暱稱為“Kysusha”（К�
   - [AK-104](../Page/AK-104突击步枪.md "wikilink")
   - [AK-105](../Page/AK-105突击步枪.md "wikilink")
   - [AMD-65](https://zh.wikipedia.org/wiki/AMD-65突击步枪 "wikilink")
-  - [Zastava M85](https://zh.wikipedia.org/wiki/Zastava_M85卡賓槍 "wikilink")
-  - [Zastava M92](https://zh.wikipedia.org/wiki/Zastava_M92卡賓槍 "wikilink")
+  - [扎斯塔瓦M85](../Page/扎斯塔瓦M85卡賓槍.md "wikilink")
+  - [扎斯塔瓦M92](../Page/扎斯塔瓦M92卡賓槍.md "wikilink")
   - [BS-1 Tishina榴彈發射器](../Page/BS-1_Tishina榴彈發射器.md "wikilink")
   - [PP-19野牛冲锋枪](../Page/PP-19野牛冲锋枪.md "wikilink")
   - [俄羅斯武器列表](https://zh.wikipedia.org/wiki/俄羅斯武器列表 "wikilink")

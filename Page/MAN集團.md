@@ -16,7 +16,7 @@
           - **客车**品牌：-{MAN}-，[尼奧普蘭](https://zh.wikipedia.org/wiki/尼奧普蘭 "wikilink")
           - **发动机**领域：德国独家生产慢速二冲程柴油发动机的企业，也生产[天然气](../Page/天然气.md "wikilink")发动机，开发、生产、销售卡车、公交车、旅游客车和大中型客车底盘及110马力至1400马力的发动机，其中[纽伦堡](../Page/纽伦堡.md "wikilink")工厂所生产的发动机可用于驱动车辆、船舶和为工业生产提供能量
           - **汽车零部件**：轴、分动器、卡车和轿车的车架和底盘冲压件
-  - **曼恩动力设备公司（-{MAN}- Diesel & Turbo SE）**：2010年**（-{MAN}- Diesel SE）**与**（-{MAN}- Turbo AG）**合并组建为曼恩动力设备公司，曼恩动力设备公司是一家[跨国公司](https://zh.wikipedia.org/wiki/跨国公司 "wikilink")，总部设在[德国](../Page/德国.md "wikilink")[奥格斯堡](https://zh.wikipedia.org/wiki/奥格斯堡 "wikilink")，生产大口径[柴油发动机和](https://zh.wikipedia.org/wiki/柴油发动机 "wikilink")[涡轮机用于海洋和固定应用](https://zh.wikipedia.org/wiki/涡轮机 "wikilink")，如[船舶推进系统](https://zh.wikipedia.org/wiki/船舶 "wikilink")，动力装置的应用和[涡轮增压器](https://zh.wikipedia.org/wiki/涡轮增压器 "wikilink")。是全球领先的船用和固定应用大口径[柴油机以及](https://zh.wikipedia.org/wiki/柴油机 "wikilink")[透平机械供应商之一](https://zh.wikipedia.org/wiki/透平 "wikilink")。
+  - **曼恩动力设备公司（-{MAN}- Diesel & Turbo SE）**：2010年**（-{MAN}- Diesel SE）**与**（-{MAN}- Turbo AG）**合并组建为曼恩动力设备公司，曼恩动力设备公司是一家[跨国公司](https://zh.wikipedia.org/wiki/跨国公司 "wikilink")，总部设在[德国](../Page/德国.md "wikilink")[奥格斯堡](../Page/奥格斯堡.md "wikilink")，生产大口径[柴油发动机和](https://zh.wikipedia.org/wiki/柴油发动机 "wikilink")[涡轮机用于海洋和固定应用](https://zh.wikipedia.org/wiki/涡轮机 "wikilink")，如[船舶推进系统](https://zh.wikipedia.org/wiki/船舶 "wikilink")，动力装置的应用和[涡轮增压器](https://zh.wikipedia.org/wiki/涡轮增压器 "wikilink")。是全球领先的船用和固定应用大口径[柴油机以及](https://zh.wikipedia.org/wiki/柴油机 "wikilink")[透平机械供应商之一](https://zh.wikipedia.org/wiki/透平 "wikilink")。
   - **曼恩拉丁美洲公司（-{MAN}- Latin America）**：前[大众](https://zh.wikipedia.org/wiki/大众汽车 "wikilink")[卡](https://zh.wikipedia.org/wiki/卡車 "wikilink")[客車公司](https://zh.wikipedia.org/wiki/客車 "wikilink")，是[巴西](../Page/巴西.md "wikilink")卡车市场领军者。
 
 ### 其他股份
@@ -41,9 +41,9 @@
 
 1840年，德国[工程师](../Page/工程师.md "wikilink")Ludwig Sander在德国南部的奥格斯堡成立了“Sander'sche Maschinenfabrik（机械制造厂）"，即曼恩集团的雏形。而后曾改名为“"C. Reichenbach'sche Maschinenfabrik（机械制造厂）",这是以印刷机先驱Carl August Reichenbach的名字命名的。最后成为“奥格斯堡机械工厂”。
 
-1898年“[纽伦堡](../Page/纽伦堡.md "wikilink")机械制造股份公司”（1841年建立）与“[奥格斯堡机械工厂股份公司](https://zh.wikipedia.org/wiki/奥格斯堡 "wikilink")”（1840年建立）合并为“奥格斯堡联合机械工厂和纽伦堡机械制造公司股份公司”。1908年改名为“奥格斯堡-纽伦堡机械工厂股份公司”，简称M.A.N.。
+1898年“[纽伦堡](../Page/纽伦堡.md "wikilink")机械制造股份公司”（1841年建立）与“[奥格斯堡](../Page/奥格斯堡.md "wikilink")机械工厂股份公司”（1840年建立）合并为“奥格斯堡联合机械工厂和纽伦堡机械制造公司股份公司”。1908年改名为“奥格斯堡-纽伦堡机械工厂股份公司”，简称M.A.N.。
 
-当时，[矿石开采和炼铁依然是鲁尔地区](https://zh.wikipedia.org/wiki/矿石 "wikilink")[生产的主要核心](https://zh.wikipedia.org/wiki/生产 "wikilink")，然而[工程机械却成为奥格斯堡和纽伦堡的主导业务分支](https://zh.wikipedia.org/wiki/工程 "wikilink")。在Heinrich von Buz（海因里希·冯·布斯）的领导下，奥格斯堡机械工厂由一个只有400名员工的中型工厂增长发展成为1913年拥有12000名员工的骨干企业。
+当时，[矿石开采和炼铁依然是鲁尔地区](https://zh.wikipedia.org/wiki/矿石 "wikilink")[生产](../Page/生产.md "wikilink")的主要核心，然而[工程机械却成为奥格斯堡和纽伦堡的主导业务分支](https://zh.wikipedia.org/wiki/工程 "wikilink")。在Heinrich von Buz（海因里希·冯·布斯）的领导下，奥格斯堡机械工厂由一个只有400名员工的中型工厂增长发展成为1913年拥有12000名员工的骨干企业。
 
 动力[运输](../Page/运输.md "wikilink")和钢结构[建筑](../Page/建筑.md "wikilink")是这个时期的主要话题。曼恩早期的先辈们负责过许多技术革新项目，对新技术的完全开放是这些早期[企业家](../Page/企业家.md "wikilink")和[工程师](../Page/工程师.md "wikilink")的成功的基石。他们在乌珀塔尔市修建了悬轨[列车](https://zh.wikipedia.org/wiki/列车 "wikilink")（Wuppertaler Schwebebahn），1857年在慕尼黑建成钢铁桥Großhesseloher Brücke，1893年到1897年建造的铁路钢轨Müngsten。[Wuppertaler_Schwebebahn_c1913_LOC_03961u.jpg](https://zh.wikipedia.org/wiki/File:Wuppertaler_Schwebebahn_c1913_LOC_03961u.jpg "fig:Wuppertaler_Schwebebahn_c1913_LOC_03961u.jpg")
 
@@ -77,7 +77,7 @@
 
 至2009年，[大众汽車的卡车和客车已经属于猛獅集团的一部分了](https://zh.wikipedia.org/wiki/大众汽車 "wikilink")。也有人推测，[大众汽车公司最初打算在](https://zh.wikipedia.org/wiki/大众汽车 "wikilink")2008年年底收购猛獅的卡车和客车，但这并没有得到官方证实，目前也没有任何行动表明[大众公司在试图占有猛獅的](https://zh.wikipedia.org/wiki/大众公司 "wikilink")[股份或购买猛獅的商用汽车](https://zh.wikipedia.org/wiki/股份 "wikilink")。
 
-在2008年，猛獅的250周年庆典，猛獅集团在[慕尼黑](../Page/慕尼黑.md "wikilink")举行盛大典礼，并在[慕尼黑](../Page/慕尼黑.md "wikilink")的德国[博物馆](../Page/博物馆.md "wikilink")、[奥格斯堡的企业博物馆和Rheinisches](https://zh.wikipedia.org/wiki/奥格斯堡 "wikilink") Industriemuseum举办展览。其中令人注目的莫过于6月的“老车护送队”。汽车行驶过一条经典航线——从慕尼黑穿越纽伦堡到达奥格斯堡。
+在2008年，猛獅的250周年庆典，猛獅集团在[慕尼黑](../Page/慕尼黑.md "wikilink")举行盛大典礼，并在[慕尼黑](../Page/慕尼黑.md "wikilink")的德国[博物馆](../Page/博物馆.md "wikilink")、[奥格斯堡](../Page/奥格斯堡.md "wikilink")的企业博物馆和Rheinisches Industriemuseum举办展览。其中令人注目的莫过于6月的“老车护送队”。汽车行驶过一条经典航线——从慕尼黑穿越纽伦堡到达奥格斯堡。
 
 2009年5月19日猛獅集团圆满地完成了从[德国](../Page/德国.md "wikilink")[股份公司](https://zh.wikipedia.org/wiki/股份公司 "wikilink")（-{MAN}- AG）转变为一家[歐洲股份公司](https://zh.wikipedia.org/wiki/歐洲股份公司 "wikilink")，称之为**-{MAN}- SE**（Societas Europaea）。
 

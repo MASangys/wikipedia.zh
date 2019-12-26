@@ -29,6 +29,6 @@ GeForce 256和[GeForce 2都很長壽和普及](https://zh.wikipedia.org/wiki/GeF
 
   - [NVIDIA: GeForce 256 - The World's First GPU](http://www.nvidia.com/page/geforce256.html)
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:GeForce系列](https://zh.wikipedia.org/wiki/Category:GeForce系列 "wikilink") [Category:1999年面世的產品](https://zh.wikipedia.org/wiki/Category:1999年面世的產品 "wikilink")
 
 1.  [NVIDIA Launches the World's First Graphics Processing Unit: GeForce 256](http://www.nvidia.com/object/IO_20020111_5424.html)

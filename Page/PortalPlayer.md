@@ -52,7 +52,7 @@
 
 由下列裝置使用：
 
-  - [Sandisk](https://zh.wikipedia.org/wiki/Sandisk "wikilink") [Sansa](https://zh.wikipedia.org/wiki/Sansa "wikilink") e200系列 [13](http://www.anythingbutipod.com/archives/2006/03/sandisk-sansa-e200-series-review.php)
+  - [Sandisk](https://zh.wikipedia.org/wiki/Sandisk "wikilink") [Sansa](https://zh.wikipedia.org/wiki/Sansa "wikilink") e200系列 [13](https://web.archive.org/web/20070113055028/http://www.anythingbutipod.com/archives/2006/03/sandisk-sansa-e200-series-review.php)
 
 ## 參考文獻
 

@@ -55,8 +55,6 @@
 [Category:虛構法國人](https://zh.wikipedia.org/wiki/Category:虛構法國人 "wikilink") [Category:虛構私家偵探](https://zh.wikipedia.org/wiki/Category:虛構私家偵探 "wikilink") [Category:愛倫·坡](https://zh.wikipedia.org/wiki/Category:愛倫·坡 "wikilink") [Category:虛構貴族](https://zh.wikipedia.org/wiki/Category:虛構貴族 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

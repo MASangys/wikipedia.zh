@@ -1,8 +1,8 @@
 [Toyoko_inn.jpg](https://zh.wikipedia.org/wiki/File:Toyoko_inn.jpg "fig:Toyoko_inn.jpg") [Toyoko-inn_Bansyu-Ako_Ekimae.jpg](https://zh.wikipedia.org/wiki/File:Toyoko-inn_Bansyu-Ako_Ekimae.jpg "fig:Toyoko-inn_Bansyu-Ako_Ekimae.jpg")
 
-**東橫INN**（）是一間[日本](../Page/日本.md "wikilink")的商務酒店集團，創立於1986年1月。由於總部設於[東京與](https://zh.wikipedia.org/wiki/東京 "wikilink")[横濱之間的](https://zh.wikipedia.org/wiki/横濱 "wikilink")[蒲田](../Page/蒲田.md "wikilink")，因此取名為「東橫」，和旗下的並沒有任何關係。
+**東橫INN**（）是一間[日本](../Page/日本.md "wikilink")商務酒店集團，創立於1986年1月。由於總部設於[東京與](https://zh.wikipedia.org/wiki/東京 "wikilink")[横濱之間的](https://zh.wikipedia.org/wiki/横濱 "wikilink")[蒲田](../Page/蒲田.md "wikilink")，因此取名為「東橫」，與旗下擁有數個以「東橫」冠名之事業的沒有任何關係。
 
-東橫INN現有超過250家分店，至2019年為止，在日本國內僅[高知縣尚未設有分店](https://zh.wikipedia.org/wiki/高知縣 "wikilink")；除了日本國內，在[大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")、[柬埔寨](../Page/柬埔寨.md "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[法國也設有分店](https://zh.wikipedia.org/wiki/法國 "wikilink")，2019年也預定將拓展至[蒙古國](https://zh.wikipedia.org/wiki/蒙古國 "wikilink")。
+東橫INN現有超過250家分店，至2019年為止，在日本國內僅[高知縣尚未展店](https://zh.wikipedia.org/wiki/高知縣 "wikilink")；除了日本國內，在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[柬埔寨](../Page/柬埔寨.md "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[蒙古也設有分店](../Page/蒙古国.md "wikilink")。
 
 根據日本《[每日新聞](../Page/每日新聞.md "wikilink")》在2006年2月2日的報導，東橫INN在2005年3月的住房率達到83.1%，比起全日本都市旅館聯盟（）調查的全國平均住房率67.4%要高出許多。
 

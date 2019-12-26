@@ -535,16 +535,10 @@ PC3-8500 DDR3 SDRAM (1066 MHz)</p></td>
 [Category:多點觸控](https://zh.wikipedia.org/wiki/Category:多點觸控 "wikilink") [Category:麦金塔](https://zh.wikipedia.org/wiki/Category:麦金塔 "wikilink") [Category:2006年面世的產品](https://zh.wikipedia.org/wiki/Category:2006年面世的產品 "wikilink")
 
 1.
-
 2.
-
 3.  [Ars Technica，评论：Apple MacBook，2006年5月18日](http://arstechnica.com/reviews/hardware/macbook.ars)
-
 4.  [Tom's Hardware，Intel的集成显卡足够执行游戏吗？，2005年9月15日](http://www.tomshardware.com/2005/09/15/are_intel/)
-
 5.  [The Inquirer，Intel对Nvidia与ATI具威胁，2005年9月16日](http://theinquirer.net/?article=24729)
-
 6.  [Intel.com — IntelGMA X3100绘图运算](http://www.intel.com/products/chipsets/GM965/index.htm)
-
 7.
 8.  [AppleInsider，Apple的MacBook改善了使用者的硬盘替换方式，2006年5月16日](http://appleinsider.com/article.php?id=1750)

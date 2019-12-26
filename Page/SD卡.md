@@ -493,7 +493,7 @@ SD卡内嵌的[数字版权保护方案是按](https://zh.wikipedia.org/wiki/dig
 [Category:記憶卡](https://zh.wikipedia.org/wiki/Category:記憶卡 "wikilink") [Category:日本發明](https://zh.wikipedia.org/wiki/Category:日本發明 "wikilink")
 
 1.  [快閃記憶卡商機 封測廠搶進](http://www.libertytimes.com.tw/2007/new/jun/29/today-e3.htm)
-2.  [金士頓擴大外包 華泰樂翻](http://tw.nextmedia.com/applenews/article/art_id/32129654/IssueID/20091201)
+2.
 3.
 4.
 5.  [SD Bus Speed](https://www.sdcard.org/consumers/speed/bus_speed/)  SD Association

@@ -360,7 +360,7 @@
 <tr class="odd">
 <td><p><a href="../Page/火之丸相撲.md" title="wikilink">火之丸相撲</a></p></td>
 <td></td>
-<td><p>10月5日－<strong>播放中</strong></p></td>
+<td><p>10月5日－2019年3月29日</p></td>
 <td><p><a href="../Page/山本靖貴.md" title="wikilink">山本靖貴</a></p></td>
 <td></td>
 <td></td>
@@ -376,9 +376,33 @@
 <tr class="odd">
 <td><p><a href="../Page/聖鬥士星矢_聖鬥少女翔.md" title="wikilink">聖鬥士星矢 聖鬥少女翔</a></p></td>
 <td></td>
-<td><p>12月24日－<strong>播放中</strong></p></td>
+<td><p>12月24日－2019年2月25日</p></td>
 <td><p>玉川真人</p></td>
 <td><p>漫畫</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/觸地騎士.md" title="wikilink">觸地騎士</a></p></td>
+<td></td>
+<td><p>7月31日－10月16日</p></td>
+<td><p>佐佐木勅嘉</p></td>
+<td><p>原創</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/夢幻之星Online2" title="wikilink">夢幻之星Online2 EPISODE ORACLE</a></p></td>
+<td></td>
+<td><p>10月7日－播放中</p></td>
+<td><p><a href="../Page/橘正紀.md" title="wikilink">橘正紀</a></p></td>
+<td><p>遊戲</p></td>
 <td></td>
 </tr>
 </tbody>

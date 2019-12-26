@@ -870,14 +870,9 @@ SeaMonkey專案領導團體（SeaMonkey Council），主要負責SeaMonkey的開
 [Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink") [Category:使用XUL的軟體](https://zh.wikipedia.org/wiki/Category:使用XUL的軟體 "wikilink") [Category:Gecko衍生軟體](https://zh.wikipedia.org/wiki/Category:Gecko衍生軟體 "wikilink") [Category:網頁設計軟體](https://zh.wikipedia.org/wiki/Category:網頁設計軟體 "wikilink") [Category:HTML编辑器](https://zh.wikipedia.org/wiki/Category:HTML编辑器 "wikilink") [Category:电子邮件客户端](https://zh.wikipedia.org/wiki/Category:电子邮件客户端 "wikilink") [Category:FTP客户端](https://zh.wikipedia.org/wiki/Category:FTP客户端 "wikilink") [Category:IRC客户端](https://zh.wikipedia.org/wiki/Category:IRC客户端 "wikilink") [Category:Usenet客户端](https://zh.wikipedia.org/wiki/Category:Usenet客户端 "wikilink") [Category:自由网页浏览器](https://zh.wikipedia.org/wiki/Category:自由网页浏览器 "wikilink") [Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
 
 1.
-
 2.  這是豐年蝦的俗名。因為該名詞很少有人知道其真正所指，經常會被誤認為“海裡的猴子”。
-
 3.
-
 4.
 5.
-
 6.
-
 7.

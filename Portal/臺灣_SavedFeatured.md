@@ -16,6 +16,14 @@
 
   - [桃園捷運](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink") - [中華民國陸軍軍官學校](../Page/中華民國陸軍軍官學校.md "wikilink")
 
+## 2019年9月26日
+
+《**荼蘼**》（）為[臺視](../Page/臺灣電視公司.md "wikilink")、[八大電視](../Page/八大電視.md "wikilink")與[公視共同監製之](../Page/公共電視文化事業基金會.md "wikilink")《[植劇場](https://zh.wikipedia.org/wiki/植劇場 "wikilink")》的第二部作品，也為愛情成長系列的第二部劇集。由《[我可能不會愛你](../Page/我可能不會愛你.md "wikilink")》金獎編劇[徐譽庭](../Page/徐譽庭.md "wikilink")攜手恩師[王小棣](../Page/王小棣.md "wikilink")以及《[花是愛](../Page/花是愛.md "wikilink")》導演黃天仁共同打造，影歌雙棲的[金鐘視-{后}-](../Page/金鐘獎戲劇節目女主角獎得獎列表.md "wikilink")[楊丞琳](../Page/楊丞琳.md "wikilink")搭檔[顏毓麟](../Page/顏毓麟.md "wikilink")領銜主演。本劇在2016年10月7日至11月11日間，於[臺視主頻](../Page/臺灣電視台.md "wikilink")[週五優質戲劇時段首播](../Page/台視周五優質戲劇.md "wikilink")，[八大綜合台](../Page/八大綜合台.md "wikilink")則於隔日晚間聯播。
+
+故事描繪走到人生叉路口的女性所面對的選擇題，播出後收獲普遍的好評，楊丞琳的演出與徐譽庭的劇本皆取得不錯的評價，不僅獲得[第52屆金鐘獎三項提名](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")，亦獲[首爾國際電視節與](https://zh.wikipedia.org/wiki/首爾國際電視節 "wikilink")[亞洲電視大獎等海外獎項賞識](https://zh.wikipedia.org/wiki/亞洲電視大獎 "wikilink")。
+
+[了解更多...](../Page/植劇場－荼蘼.md "wikilink")
+
 ## 2019年8月17日
 
 [Taoyuan_International_Airport,_Taiwan_(8336946440).jpg](https://zh.wikipedia.org/wiki/File:Taoyuan_International_Airport,_Taiwan_\(8336946440\).jpg "fig:Taoyuan_International_Airport,_Taiwan_(8336946440).jpg")

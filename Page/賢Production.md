@@ -58,6 +58,7 @@
   -
   - [小伏伸之](../Page/小伏伸之.md "wikilink")
 
+  -
 <!-- end list -->
 
   - 行
@@ -80,8 +81,6 @@
 <!-- end list -->
 
   - [高口公介](../Page/高口公介.md "wikilink")
-
-  - 高仲祐之
 
   -
   - [高橋孝治](../Page/高橋孝治.md "wikilink")
@@ -108,6 +107,7 @@
 
 <!-- end list -->
 
+  -
   -
   - [林勇](../Page/林勇.md "wikilink")
 
@@ -175,7 +175,6 @@
   - [金井美香](../Page/金井美香.md "wikilink")
 
   -
-  -
   - [稀代櫻子](../Page/稀代櫻子.md "wikilink")
 
   -
@@ -205,10 +204,11 @@
 
   -
   -
-  - [嶋崎遙香](../Page/嶋崎遙香.md "wikilink")
+  - [-{嶋}-崎遙香](../Page/嶋崎遙香.md "wikilink")
 
-  - [嶋村侑](../Page/嶋村侑.md "wikilink")
+  - [-{嶋}-村侑](../Page/嶋村侑.md "wikilink")
 
+  -
   -
   -
   -
@@ -223,10 +223,16 @@
 <!-- end list -->
 
   - [高橋里枝](../Page/高橋里枝.md "wikilink")
+
   - [津田匠子](../Page/津田匠子.md "wikilink")
+
   - [藤堂真衣](../Page/藤堂真衣.md "wikilink")
-  - \-{冨}-田泰代
+
+  - [富樫美鈴](../Page/富樫美鈴.md "wikilink")
+
+  -
   - [友川麻里](../Page/友川麻里.md "wikilink")
+
   - [百百麻子](../Page/百百麻子.md "wikilink")
 
 <!-- end list -->
@@ -262,8 +268,7 @@
 
   - [日野未步](../Page/日野未步.md "wikilink")
 
-  - 平井祥惠
-
+  -
   - [平松晶子](../Page/平松晶子.md "wikilink")
 
   - 廣瀨仁美
@@ -305,26 +310,11 @@
 
 <!-- end list -->
 
-  - 天野宏鄉
-
   -
-  - 梅田修一朗
-
-  - 大町知廣
-
-  - 奧田寬章
-
-  - 尾股未知也
-
-<!-- end list -->
-
-  - 行
-
-<!-- end list -->
-
-  - 觀世智顯
-
-  - 黑木陽人
+  -
+  -
+  -
+  - [大町知廣](../Page/大町知廣.md "wikilink")
 
   -
 <!-- end list -->
@@ -333,13 +323,20 @@
 
 <!-- end list -->
 
-  - 佐佐木拓真
+  -
+  -
+  -
+<!-- end list -->
 
+  - 行
+
+<!-- end list -->
+
+  -
   - 澤田龍一
 
   -
-  - 鷲見昂大
-
+  -
 <!-- end list -->
 
   - 行
@@ -347,7 +344,9 @@
 <!-- end list -->
 
   - 武田太一
-  - 田島章寬
+
+  -
+  -
   - 寺井大樹
 
 <!-- end list -->
@@ -366,7 +365,6 @@
 
   - [畠中祐](../Page/畠中祐.md "wikilink")
 
-  -
   - 原俊之
 
   -
@@ -381,11 +379,6 @@
 
   -
   -
-  - 水原真也
-
-  -
-  - 武藏真之介
-
 <!-- end list -->
 
   - 行
@@ -393,7 +386,9 @@
 <!-- end list -->
 
   - 橫田大輔
-  - 吉田丈一郎
+
+  -
+  - 吉原光
 
 #### 女性
 
@@ -405,11 +400,12 @@
 
   - 生田光
 
-  - 池田海-{咲}-
-
-  - 優里安
+  -
+  - 石川藍
 
   -
+  - 漆山優紀
+
 <!-- end list -->
 
   - 行
@@ -419,8 +415,7 @@
   -
   - 金田愛
 
-  - 川上彩
-
+  -
   - [北原沙彌香](../Page/北原沙彌香.md "wikilink")
 
   - 城戶圓
@@ -434,22 +429,11 @@
 <!-- end list -->
 
   -
-  - 清水春香
-
   - [社本悠](../Page/社本悠.md "wikilink")
-
-  - 障子聖奈
 
   - [菅沼千紗](../Page/菅沼千紗.md "wikilink")
 
-<!-- end list -->
-
-  - 行
-
-<!-- end list -->
-
-  - 高津春菜
-  - [富樫美鈴](../Page/富樫美鈴.md "wikilink")
+  - 鈴江梨沙
 
 <!-- end list -->
 
@@ -457,9 +441,25 @@
 
 <!-- end list -->
 
-  - 永井真里子
+  - 高尾葉月
 
-  - 夏吉祐子
+  -
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
+  - [永井真里子](../Page/永井真里子.md "wikilink")
+
+  -
+  -
+  -
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
 
   -
   -
@@ -470,16 +470,7 @@
 <!-- end list -->
 
   -
-  - 弘松芹香
-
-<!-- end list -->
-
-  - 行
-
-<!-- end list -->
-
-  - 三浦千幸
-  - 三日尻望
+  -
   - 森谷彩子
 
 <!-- end list -->
@@ -488,19 +479,28 @@
 
 <!-- end list -->
 
-  - 渡邊理沙
-
+  -
 ## 過往所屬聲優
 
 ### 男性
 
+  - 行
+
+<!-- end list -->
+
   -
-  - [石井康嗣](../Page/石井康嗣.md "wikilink")（現所屬：[Vi-vo](../Page/Vi-vo.md "wikilink")）
+  - [石井康嗣](../Page/石井康嗣.md "wikilink")（[自由職業](../Page/自由職業.md "wikilink")）
 
   - [內海賢二](../Page/內海賢二.md "wikilink")（創辦人，故人／在籍中死去）
 
   -
   - （現所屬：）
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
 
   - [風間勇刀](../Page/風間勇刀.md "wikilink")（現所屬：[Aksent](../Page/Aksent.md "wikilink")）
 
@@ -509,7 +509,14 @@
 
   - 久保隆（現所屬：[Salonde Acturis](http://www.acturis.co.jp/)）
 
-  -
+  - 黑澤壽樹
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
   -
   - （現所屬：[東京俳優生活協同組合](../Page/東京俳優生活協同組合.md "wikilink")）
 
@@ -517,15 +524,30 @@
 
   - （現所屬：[Across Entertainment](../Page/Across_Entertainment.md "wikilink")）
 
-  -
+  - （現所屬：）
+
   - [鈴置洋孝](../Page/鈴置洋孝.md "wikilink")（在籍中死去）
 
   - （自由職業）
 
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
   - 平拳（現所屬：Aksent）
+
+  - （自由職業）
 
   -
   - [-{辻}-親八](../Page/辻親八.md "wikilink")（現所屬：[Office PAC](../Page/Office_PAC.md "wikilink")）
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
 
   - [中澤匡智](../Page/中澤匡智.md "wikilink")（現所屬：東京俳優生活協同組合）
 
@@ -537,17 +559,23 @@
 
   - 成澤卓（現所屬：）
 
-  - （現所屬：[SUPER SHARK Entertainment](http://supershark.jp/)）
+  - （現所屬：）
 
   - [野澤那智](../Page/野澤那智.md "wikilink")（Office PAC創辦人，成立之後於在籍中死去）
 
   - [野瀨育二](../Page/野瀨育二.md "wikilink")（現所屬：東京俳優生活協同組合）
 
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
   - [橋本晃一](../Page/橋本晃一.md "wikilink")（自由職業，（業務委託））
 
   - [花田光](../Page/花田光.md "wikilink")（現所屬：大澤事務所）
 
-  - [-{樋}-口智透](../Page/樋口智透.md "wikilink")（現所屬：[Limia-works](http://www.limia-works.jp/)）
+  - [-{樋}-口智透](../Page/樋口智透.md "wikilink")（現所屬：[Limia-works](https://web.archive.org/web/20180420215301/http://limia-works.jp/)）
 
   - （現所屬：[KeKKe Corporation](../Page/KeKKe_Corporation.md "wikilink")）
 
@@ -557,11 +585,25 @@
 
   - [藤原啓治](https://zh.wikipedia.org/wiki/藤原啓治 "wikilink")（現所屬：[AIR AGENCY代表董事](../Page/AIR_AGENCY.md "wikilink")）
 
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
   - （現所屬：）
 
-  - [增川洋一](../Page/增川洋一.md "wikilink")（現所屬：[Production Ace](../Page/Production_Ace.md "wikilink")）
+  - [增川洋一](../Page/增川洋一.md "wikilink")（自由職業）
+
+  - （自由職業）
 
   - （現所屬：[aptepro](https://zh.wikipedia.org/wiki/aptepro "wikilink")）
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
 
   -
   - [山根剛](../Page/山根剛.md "wikilink")
@@ -569,6 +611,10 @@
   - [優希比呂](https://zh.wikipedia.org/wiki/優希比呂 "wikilink")（自由職業）
 
 ### 女性
+
+  - 行
+
+<!-- end list -->
 
   -
   - [岩居由希子](../Page/岩居由希子.md "wikilink")（自由職業）
@@ -578,17 +624,35 @@
   - [大前茜](../Page/大前茜.md "wikilink")（引退）
 
   -
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
+  - （自由職業）
+
   - [北原知奈](../Page/北原知奈.md "wikilink")
 
   - [木下鈴奈](../Page/木下鈴奈.md "wikilink")
 
   - （現所屬：[Kenyu Office](../Page/Kenyu_Office.md "wikilink")）
 
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
   - [白石冬美](../Page/白石冬美.md "wikilink")（在籍中死去）
-
   - [杉本優](../Page/杉本優.md "wikilink")（現所屬：東京俳優生活協同組合）
-
   - [鈴鹿千春](../Page/鈴鹿千春.md "wikilink")（自由職業）
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
 
   - [高乃麗](../Page/高乃麗.md "wikilink")（現所屬：remax代表董事）
 
@@ -601,11 +665,23 @@
   - （自由職業）
 
   -
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
   - （現所屬：[Mausu Promotion](../Page/Mausu_Promotion.md "wikilink")）
 
   - [永澤菜教](../Page/永澤菜教.md "wikilink")（現所屬：KeKKe Corporation）
 
-  - [永田依子](../Page/永田依子.md "wikilink")
+  - [永田依子](../Page/永田依子.md "wikilink")（引退）
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
 
   -
   - [日比野朱里](../Page/日比野朱里.md "wikilink")（引退）
@@ -613,17 +689,29 @@
   - [冰青](../Page/冰青.md "wikilink")（現所屬：）
 
   -
-  - 廣瀨有香（自由職業）
+  - 廣瀨有香（現所屬：Aksent）
 
   - [伏田里穗](../Page/伏田里穗.md "wikilink")（現所屬：[Office Anemone](../Page/Office_Anemone.md "wikilink")）
 
   - [堀中優希](../Page/堀中優希.md "wikilink")（自由職業）
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
 
   -
   -
   - （引退）
 
   - [水田山葵](../Page/水田山葵.md "wikilink")（現所屬：[青二Production](../Page/青二製作.md "wikilink")）
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
 
   -
   - [山川琴美](../Page/山川琴美.md "wikilink")（現所屬：東京俳優生活協同組合）
@@ -697,6 +785,5 @@
 [Category:賢Production](https://zh.wikipedia.org/wiki/Category:賢Production "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:1984年成立的公司](https://zh.wikipedia.org/wiki/Category:1984年成立的公司 "wikilink")
 
 1.
-
 2.
 3.

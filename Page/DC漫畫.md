@@ -30,6 +30,8 @@ DC娱乐授权、[闪灵侠等一些DC漫画英雄给](https://zh.wikipedia.org/
 
 ## 超人 改编电影
 
+超人
+
 ## 数字发行
 
 ## 相关条目
@@ -56,22 +58,13 @@ DC娱乐授权、[闪灵侠等一些DC漫画英雄给](https://zh.wikipedia.org/
 [Category:DC漫畫](https://zh.wikipedia.org/wiki/Category:DC漫畫 "wikilink") [Category:华纳媒体品牌](https://zh.wikipedia.org/wiki/Category:华纳媒体品牌 "wikilink") [Category:华纳媒体子公司](https://zh.wikipedia.org/wiki/Category:华纳媒体子公司 "wikilink") [Category:加利福尼亞州公司](https://zh.wikipedia.org/wiki/Category:加利福尼亞州公司 "wikilink") [Category:1934年成立的公司](https://zh.wikipedia.org/wiki/Category:1934年成立的公司 "wikilink") [Category:華納兄弟跨媒體製作](https://zh.wikipedia.org/wiki/Category:華納兄弟跨媒體製作 "wikilink") [Category:美国的漫画书出版公司](https://zh.wikipedia.org/wiki/Category:美国的漫画书出版公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  [DC Comics Inc.](http://www.hoovers.com/dc-comics-inc./--ID__104322--/free-co-factsheet.xhtml) Hoovers. Retrieved 2008-10-18.
-
 5.
-
 6.
 7.
-
 8.
-
 9.  [Newsarama: Warner Bros. Creates DC ENTERTAINMENT To Maximize DC Brands](http://www.newsarama.com/comics/090909-DC-Restructuring.html). Retrieved on 2009-09-09.
-
 10.
-
 11.

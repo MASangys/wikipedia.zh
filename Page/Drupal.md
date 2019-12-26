@@ -1,4 +1,4 @@
-**Drupal** 是由Dries Buytaert创立的[自由开源](../Page/自由及开放源代码软件.md "wikilink")[內容管理系统](https://zh.wikipedia.org/wiki/內容管理系统 "wikilink")，用[PHP](../Page/PHP.md "wikilink")语言写成。在业界，Drupal常被视为内容管理框架（CMF），而非一般意义上的内容管理系统（CMS）。
+**Drupal** 是由[德賴斯·布伊泰爾特](../Page/德賴斯·布伊泰爾特.md "wikilink")创立的[自由开源](../Page/自由及开放源代码软件.md "wikilink")[內容管理系统](https://zh.wikipedia.org/wiki/內容管理系统 "wikilink")，用[PHP](../Page/PHP.md "wikilink")语言写成。在业界，Drupal常被视为内容管理框架（CMF），而非一般意义上的内容管理系统（CMS）。
 
 整套平台把所有內容視為一個「節點」 (node)，背後由大量「模組」 (module) 控制其顯示、修改、排列、分類等方式。這種設計令 Drupal 不只可以建立普通的博客網站，只要配合適當組件，控制內容顯示及處理權限的方式，它馬上能變成論壇、Wiki、社區網絡。截至2013年10月，Drupal的社群已編寫了超過23,855個模块（module）。
 
@@ -34,7 +34,7 @@ Drupal可用于[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")/[Linux](../
 
   - [Drupal 官方網站](https://drupal.org/)
   - [Drupal 中文社区](http://drupalchina.cn/)
-  - [Drupal 项目社区](http://www.drupalproject.org)
+  - [Drupal 项目社区](https://web.archive.org/web/20181123190039/http://drupalproject.org/)
   - [Drupal 中国社区（因域名到期且站长失去联系于2011年停机）](https://web.archive.org/web/20060322224732/http://www.drupalchina.org/)
   - [Drupal 台灣正體中文支援站](http://drupaltaiwan.org/)
   - [Drupal 中国社区](https://groups.drupal.org/china)

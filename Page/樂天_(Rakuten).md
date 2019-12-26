@@ -34,7 +34,7 @@
   - [Kobo](https://zh.wikipedia.org/wiki/Kobo "wikilink")(2012年3.15億美元）
   - [Ebates](https://zh.wikipedia.org/wiki/Ebates "wikilink")(2014年10億美元）
   - [Overdrive](https://zh.wikipedia.org/wiki/Overdrive "wikilink")(2015年4.1億美元）
-  - [Viki](https://zh.wikipedia.org/wiki/Viki "wikilink")(2013年2億美元）
+  - Viki(2013年2億美元）
   - [Viber](../Page/Viber.md "wikilink")(2014年9億美元)
   - [樂天醫療](https://zh.wikipedia.org/wiki/樂天醫療 "wikilink")(Rakuten Medical)22.5%
   - [樂天移動](https://zh.wikipedia.org/wiki/樂天移動 "wikilink")(Rakuten Mobile)
@@ -57,7 +57,7 @@
   - [金州勇士隊](https://zh.wikipedia.org/wiki/金州勇士隊 "wikilink")，球衣贊助
   - [Spartan Japan Obstacle Course Races贊助](https://zh.wikipedia.org/wiki/Spartan_Japan_Obstacle_Course_Races "wikilink")
   - [Rakuten Japan Open Tennis](https://www.rakutenopen.com/)贊助
-  - [中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigo桃猿](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")
+  - [中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Rakuten桃猿](https://zh.wikipedia.org/wiki/Rakuten桃猿 "wikilink")
 
 ## 引用文獻
 

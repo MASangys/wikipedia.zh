@@ -19,14 +19,10 @@ YTV的節目表以少年及兒童節目為重點，當中部分節目針對此�
 [Category:康力斯娛樂](https://zh.wikipedia.org/wiki/Category:康力斯娛樂 "wikilink") [Category:加拿大电视频道](https://zh.wikipedia.org/wiki/Category:加拿大电视频道 "wikilink") [Category:1988年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:1988年成立的電視台或電視頻道 "wikilink") [Category:兒童電視網](https://zh.wikipedia.org/wiki/Category:兒童電視網 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
 7.
-
 8.

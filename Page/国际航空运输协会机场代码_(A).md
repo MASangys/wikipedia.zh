@@ -106,7 +106,7 @@
 <td><p>AAM</p></td>
 <td><p>FAMD</p></td>
 <td><p><a href="../Page/馬拉馬拉機場.md" title="wikilink">馬拉馬拉機場</a></p></td>
-<td><p>馬拉馬拉，<a href="https://zh.wikipedia.org/wiki/普馬蘭加省" title="wikilink">普馬蘭加省</a></p></td>
+<td><p>馬拉馬拉，<a href="../Page/普馬蘭加省.md" title="wikilink">普馬蘭加省</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -708,7 +708,7 @@
 <td><p>ADY</p></td>
 <td><p>FAAL</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林波波省" title="wikilink">林波波省</a></p></td>
+<td><p><a href="../Page/林波波省.md" title="wikilink">林波波省</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

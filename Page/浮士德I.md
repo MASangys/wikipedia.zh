@@ -12,7 +12,7 @@
 
 ### 剧情概述
 
-令世人景仰的学者浮士德博士，当他回顾他的一生时，发现作为[科学家](https://zh.wikipedia.org/wiki/科学家 "wikilink")（中世纪概念：泛指含[自然科学](../Page/自然科学.md "wikilink")、[哲学](../Page/哲学.md "wikilink")、[神学](https://zh.wikipedia.org/wiki/神学 "wikilink")、[医学](../Page/医学.md "wikilink")、[法学](../Page/法学.md "wikilink")在内的全部人类知识），他对世界的本质其实并没有任何认知；作为一个人，他根本没有体会到生活的乐趣。由此，他陷入了深深的苦恼之中。在这种情况下，他与[魔鬼](../Page/魔鬼.md "wikilink")[梅菲斯特订立盟约](https://zh.wikipedia.org/wiki/梅菲斯特 "wikilink")，如果魔鬼把他从这种不满足和不安的心境中解脱出来，他就把死后的[灵魂](../Page/灵魂.md "wikilink")交付于他。魔鬼梅菲斯特则带领他游历这个五光十色的大千世界，并使他与少女格雷琴悲剧性地相恋。
+令世人景仰的学者浮士德博士，当他回顾他的一生时，发现作为[科学家](../Page/科学家.md "wikilink")（中世纪概念：泛指含[自然科学](../Page/自然科学.md "wikilink")、[哲学](../Page/哲学.md "wikilink")、[神学](https://zh.wikipedia.org/wiki/神学 "wikilink")、[医学](../Page/医学.md "wikilink")、[法学](../Page/法学.md "wikilink")在内的全部人类知识），他对世界的本质其实并没有任何认知；作为一个人，他根本没有体会到生活的乐趣。由此，他陷入了深深的苦恼之中。在这种情况下，他与[魔鬼](../Page/魔鬼.md "wikilink")[梅菲斯特订立盟约](https://zh.wikipedia.org/wiki/梅菲斯特 "wikilink")，如果魔鬼把他从这种不满足和不安的心境中解脱出来，他就把死后的[灵魂](../Page/灵魂.md "wikilink")交付于他。魔鬼梅菲斯特则带领他游历这个五光十色的大千世界，并使他与少女格雷琴悲剧性地相恋。
 
 ### 人物
 

@@ -16,7 +16,7 @@
 
   - [SkyOS Wiki](http://www.sky-apps.info) — SkyOS Wiki
 
-  - [News about SkyOS at OSNews.com](http://www.osnews.com/search.php?search=skyos)
+  - [News about SkyOS at OSNews.com](https://web.archive.org/web/20050209001037/http://www.osnews.com/search.php?search=skyos)
 
   -
 [Category:作業系統](https://zh.wikipedia.org/wiki/Category:作業系統 "wikilink")

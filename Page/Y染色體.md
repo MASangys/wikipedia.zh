@@ -160,86 +160,49 @@ Y染色体多体症（在每个细胞中有多于两条的Y染色体，如XYYYY�
 [Category:人類染色體](https://zh.wikipedia.org/wiki/Category:人類染色體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  [Human Male Still A Work in Progress](http://www.npr.org/blogs/health/2010/01/human_male_still_a_work_in_pro.html)
-
 9.
 10.
 11.
 12. Nature 432, 913-917 (16 December 2004) | <doi:10.1038/nature03021>
-
 13. DOI 10.1007/BF00360536
-
 14.
 15. Graves, J.A.M. 2004. The degenerate Y chromosome- can conversion save it? Reproduction Fertility and Development 16:527-534.
-
 16. Graves, J.A.M. 2006. Sex chromosome specialization and degeneration in mammals. Cell 124:901-914
-
 17.
-
 18.
-
 19.
 20.
 21. Graves, J. A. M. 2006. Sex chromosome specialization and degeneration in mammals. Cell 124:901-914.
-
 22. Marchal, J. A., M. J. Acosta, M. Bullejos, R. D. de la Guardia, and A. Sanchez. 2003, Sex chromosomes, sex determination, and sex-linked sequences in Microtidae:266-273.
-
 23. Wilson, M. A., and K. D. Makova. 2009. Genomic analyses of sex chromosome evolution. Annual Review of Genomics and Human Genetics 10:333-354.
-
 24. [第三性别将出现 未来男性会消失？-中国新闻网](http://www.chinanews.com/m/life/2016/07-02/7925369.shtml)
-
 25. [人類Ｙ染色體並未減少／安啦 男人不會滅絕 - 國際 - 自由時報電子報](http://news.ltn.com.tw/news/world/paper/563225)
-
 26.
 27.
 28. [第三性别将出现 未来男性会消失？-中国新闻网](http://www.chinanews.com/m/life/2016/07-02/7925369.shtml)
-
 29. [人類Ｙ染色體並未減少／安啦 男人不會滅絕 - 國際 - 自由時報電子報](http://news.ltn.com.tw/news/world/paper/563225)
-
 30. Just, W., A. Baumstark, A. Suss, A. Graphodatsky, W. Rens, N. Schafer, I. Bakloushinskaya et al. 2007. *Ellobius lutescens*: Sex determination and sex chromosome. Sexual Development 1:211-221.
-
 31. Graves 2006
-
 32. Arakawa, Y., C. Nishida-Umehara, Y. Matsuda, S. Sutou, and H. Suzuki. 2002. X-chromosomal localization of mammalian Y-linked genes in two XO species of the Ryukyu spiny rat. Cytogenetic and Genome Research 99:303-309.
-
 33. [Additional copies of CBX2 in the genomes of males of mammals lacking SRY, the Amami spiny rat (Tokudaia osimensis) and the Tokunoshima spiny rat (Tokudaia tokunoshimensis).](http://www.ncbi.nlm.nih.gov/pubmed/21656076)
-
 34. Arakawa et al. 2002
-
 35. [第三性别将出现 未来男性会消失？-中国新闻网](http://www.chinanews.com/m/life/2016/07-02/7925369.shtml)
-
 36. [人類Ｙ染色體並未減少／安啦 男人不會滅絕 - 國際 - 自由時報電子報](http://news.ltn.com.tw/news/world/paper/563225)
-
 37. Marchal et al. 2003
-
 38. Ortiz, M. I., E. Pinna-Senn, G. Dalmasso, and J. A. Lisanti. 2009. Chromosomal aspects and inheritance of the XY female condition in *Akodon azarae* (Rodentia, Sigmodontinae). Mammalian Biology 74:125-129.
-
 39. [Y染色體會最終消失嗎？男人呢？](http://blog.sciencenet.cn/blog-274385-1083367.html)
-
 40. Charlesworth, B., and N. D. Dempsey. 2001. A model of the evolution of the unusual sex chromosome system of *Microtus oregoni*. Heredity 86:387-394.
-
 41. Zhou, Q., J. Wang, L. Huang, W. H. Nie, J. H. Wang, Y. Liu, X. Y. Zhao et al. 2008. Sex chromosomes in the black muntjac recapitulate incipient evolution of mammalian sex chromosomes. Genome Biology 9:11.
-
 42.
 43. Goto, H., L. Peng, and K. D. Makova. 2009. Evolution of X-degenerate Y chromosome genes in greater apes: conservation of gene content in human and gorilla, but not chimpanzee. Journal of Molecular Evolution 68:134-144.
-
 44. [National Library of Medicine's Genetic Home Reference](http://ghr.nlm.nih.gov/chromosome=Y)
-
 45.
-
 46. [ScienceDaily.com Apr. 3, 2008](http://www.sciencedaily.com/releases/2008/04/080401184955.htm)
-
-47. [www.smgf.org 查阅相关系谱学信息](http://www.smgf.org/page.jspx?name=together)
+47.

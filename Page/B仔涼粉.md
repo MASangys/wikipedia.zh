@@ -23,16 +23,10 @@ B仔的名稱來自糖水店的一位外號「康B」的熟客，他當時為駐
 [Category:香港甜品](https://zh.wikipedia.org/wiki/Category:香港甜品 "wikilink") [Category:元朗市中心](https://zh.wikipedia.org/wiki/Category:元朗市中心 "wikilink") [Category:香港食肆](https://zh.wikipedia.org/wiki/Category:香港食肆 "wikilink") [Category:1985年成立的公司](https://zh.wikipedia.org/wiki/Category:1985年成立的公司 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.

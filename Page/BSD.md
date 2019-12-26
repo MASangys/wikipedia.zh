@@ -2,9 +2,9 @@
 
 [BSD许可证](../Page/BSD许可证.md "wikilink")非常地寬鬆，因此BSD常被當作[工作站](../Page/工作站.md "wikilink")級別的Unix系統，許多1980年代成立的計算機公司都從BSD中獲益，比較著名的例子如[DEC的](https://zh.wikipedia.org/wiki/DEC "wikilink")[Ultrix](https://zh.wikipedia.org/wiki/Ultrix "wikilink")，以及[Sun公司的](https://zh.wikipedia.org/wiki/昇陽 "wikilink")[SunOS](../Page/SunOS.md "wikilink")。 1990年代，BSD很大程度上被[System V](https://zh.wikipedia.org/wiki/System_V "wikilink") 4.x版以及[OSF/1系統所取代](https://zh.wikipedia.org/wiki/OSF/1 "wikilink")，但其[開源版本被採用](https://zh.wikipedia.org/wiki/開源 "wikilink")，促進了因特网的開發。
 
-[Unix_history-simple.png](https://zh.wikipedia.org/wiki/File:Unix_history-simple.png "fig:Unix_history-simple.png")
-
 ## 歷史
+
+[Unix_history-simple.png](https://zh.wikipedia.org/wiki/File:Unix_history-simple.png "fig:Unix_history-simple.png")
 
 ### PDP-11開始
 

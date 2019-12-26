@@ -907,6 +907,17 @@ iPASS一卡通前身是[高雄捷運](../Page/高雄捷運.md "wikilink")所發�
 <td><p>免費製發</p></td>
 <td><p>2016年6月22日正式發行[8]</p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/臺南市認同卡" title="wikilink">臺南市認同卡</a></p></td>
+<td><center>
+<p>是</p>
+</center></td>
+<td><p>非設籍於<a href="https://zh.wikipedia.org/wiki/臺南市" title="wikilink">臺南市但所在地設立登記於臺南市之大專院校學生</a>、各機關、學校之所屬員工、公司(行號)所屬員工</p></td>
+<td><p>普通卡<br />
+</p></td>
+<td><p>由學校、各機關、公司(行號)統一向臺南市政府申請、印製及發行</p></td>
+<td><p>2018年11月13日正式發行，用法比照臺南市市民卡一般卡</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1116,6 +1127,14 @@ iPASS一卡通前身是[高雄捷運](../Page/高雄捷運.md "wikilink")所發�
 <!-- end list -->
 
   - ;屏東縣
+
+<!-- end list -->
+
+  - ;臺東縣
+
+<!-- end list -->
+
+  - [國立台東大學](https://zh.wikipedia.org/wiki/國立台東大學 "wikilink")
 
 <!-- end list -->
 
@@ -1939,7 +1958,8 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
       - 於[幹支線公車刷卡上下車即可享](https://zh.wikipedia.org/wiki/大台南公車#幹線公車 "wikilink")8公里區間免費（即優惠26元）。
       - 搭乘公車4小時內轉乘公車，優惠9元。
       - 搭乘台鐵4小時內轉乘公車折9元優惠。
-      - 持大台南公車認同卡，可享[幹支線公車票價](https://zh.wikipedia.org/wiki/大台南公車#幹線公車 "wikilink")85折優惠。
+      - 持大台南公車認同卡，可享[幹支線公車票價](https://zh.wikipedia.org/wiki/大台南公車#幹支線公車 "wikilink")85折優惠。
+      - 持台南市民卡一般卡(包含台南認同卡)，可享[市區公車票價半價優惠](https://zh.wikipedia.org/wiki/大台南公車#市區公車 "wikilink")。
   - [高雄市公車](../Page/高雄市公車.md "wikilink")
       - 每年冬季時期(空污時期)，段次路線、公路客運、就醫公車、國道快捷公車免費搭乘。
       - 持一卡通數位學生證、高雄學生認同卡搭乘段次計費路線，每段次僅收費10元。
@@ -2039,11 +2059,12 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
 | 2018年9月3日   | [LINE](../Page/LINE.md "wikilink")旗下行動支付系統LINE Pay與一卡通合作，推出「LINE Pay 一卡通帳戶」\[35\]                                                                          |
 |             |                                                                                                                                                            |
 | 2019年2月     | 一卡通發卡量突破2,000萬張。\[36\]                                                                                                                                     |
+| 2019年9月     | 一卡通發卡量超越愛金卡，成為發卡量第二名的電子票證。\[37\]                                                                                                                           |
 |             |                                                                                                                                                            |
 
 ## 與Line合作
 
-Line Pay母公司連加網路商業股份有限公司（LINE BIZ+ TAIWAN LIMITED）於2017年底投資一卡通票證公司三成股份，成為最大股東後開始整合一卡通電子支付，在Line裡面提供一卡通帳戶來做電子支付，並且可利用一卡通帳戶裡的款項儲值一卡通票證，做到虛實整合。\[37\]
+Line Pay母公司連加網路商業股份有限公司（LINE BIZ+ TAIWAN LIMITED）於2017年底投資一卡通票證公司三成股份，成為最大股東後開始整合一卡通電子支付，在Line裡面提供一卡通帳戶來做電子支付，並且可利用一卡通帳戶裡的款項儲值一卡通票證，做到虛實整合。\[38\]
 
 ## 未來發展
 
@@ -2064,7 +2085,7 @@ Line Pay母公司連加網路商業股份有限公司（LINE BIZ+ TAIWAN LIMITED
   - 綠色：大眾交通（火車、捷運、公車、腳踏車）
   - 藍色：圖書館、政府規費
 
-自2015年8月起陸續推出多款以魔法少女小帕為圖面的一卡通。\[38\]
+自2015年8月起陸續推出多款以魔法少女小帕為圖面的一卡通。\[39\]
 
 2017年6月20日正式從電子票證卡片跨領域至信用卡，與[新光銀行合作首發](../Page/臺灣新光商業銀行.md "wikilink")「魔法少女iPASS一卡通聯名卡」。
 
@@ -2130,5 +2151,6 @@ Line Pay母公司連加網路商業股份有限公司（LINE BIZ+ TAIWAN LIMITED
 34.
 35. [LINE攜手一卡通 將可轉帳、繳費、搭高捷](https://tw.news.yahoo.com/line%E6%94%9C%E6%89%8B-%E5%8D%A1%E9%80%9A-%E5%B0%87%E5%8F%AF%E8%BD%89%E5%B8%B3-%E7%B9%B3%E8%B2%BB-%E6%90%AD%E9%AB%98%E6%8D%B7-092300243.html)
 36. [一卡通發卡量破2000萬張 未來走向多元行動支付服務](https://www.chinatimes.com/realtimenews/20190221003438-260410?chdtv)
-37. [Line Pay一卡通](https://www.i-pass.com.tw/IPS/Event/LINEPay-iPASS/)
-38.
+37. [電子票證重要業務資訊揭露](https://www.fsc.gov.tw/ch/home.jsp?id=134&parentpath=0,4&mcustomize=multimessage_view.jsp&dataserno=201305300001&aplistdn=ou=disclosure,ou=multisite,ou=chinese,ou=ap_root,o=fsc,c=tw&toolsflag=Y&dtable=Disclosure)
+38. [Line Pay一卡通](https://www.i-pass.com.tw/IPS/Event/LINEPay-iPASS/)
+39.

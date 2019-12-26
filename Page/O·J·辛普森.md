@@ -84,7 +84,7 @@
 
 ### 各种法律纠纷
 
-加利福尼亚州声称辛普森在过去应付的税款中欠144万美元\[37\]。1999年9月1日，在其案件中将其课税扣押权记录在案\[38\]。 在90年代后期，辛普森想要尝试将「O.J.Simpson」、「O.J」和「The Juice」作为大量物品的注册商标，包括雕像，交易卡，运动服，奖章，硬币盒和预付的电话卡。然而，一个“热心市民”，威廉姆.里奇，提起诉讼反对联邦注册批准该注册，他认为这么做是不道德和可耻的，最终辛普森在2000年放弃了注册。 在2001年2月，辛普森在三个月前的交通纠纷中因殴打和抢劫一辆运输车并涉嫌打掉另外一个司机的眼镜被逮捕于佛罗里达州迈阿密。如果罪名成立，辛普森将面临16年的牢狱。在2001年10月他被送上了法庭，但是很快就被释放了。 2001年12月4日，[聯邦調查局](https://zh.wikipedia.org/wiki/聯邦調查局 "wikilink")（FBI）全面搜索了辛普森在迈阿密的家，怀疑其藏有[摇头丸和](https://zh.wikipedia.org/wiki/摇头丸 "wikilink")[洗黑钱](https://zh.wikipedia.org/wiki/洗黑钱 "wikilink")。FBI收到举报信辛普森曾加入一个主要的贩毒圈，该案件中的其他的10个嫌疑人已被捕。在经过两个小时的全面搜查之后，没有发现任何非法毒品，而且在此次搜查之后，也没有逮捕和正式的指控。但是，调查人员发现了能够盗取卫星电视编程的设备，最终将辛普森送上了联邦法庭\[39\]。 2002年7月4日，辛普森由于超速行驶穿过海牛保护区，并且违反划船法规在佛罗里达迈阿密戴德县被捕\[40\]。然而，他的刑事辩护律师耶鲁.加兰特使得这项起诉失败，最终，辛普森只付了超速违规的罚款\[41\]。 2004年3月，卫星电视网络美国直播电视公司控诉辛普森利用非法电子产品盗取他们的直播信号。最后，该公司赢得了25,000的赔偿金，辛普森被要求支付33,678美元的律师费和诉讼费\[42\]。
+加利福尼亚州声称辛普森在过去应付的税款中欠144万美元\[37\]。1999年9月1日，在其案件中将其课税扣押权记录在案\[38\]。 在90年代后期，辛普森想要尝试将「O.J.Simpson」、「O.J」和「The Juice」作为大量物品的注册商标，包括雕像，交易卡，运动服，奖章，硬币盒和预付的电话卡。然而，一个“热心市民”，威廉姆.里奇，提起诉讼反对联邦注册批准该注册，他认为这么做是不道德和可耻的，最终辛普森在2000年放弃了注册。 在2001年2月，辛普森在三个月前的交通纠纷中因殴打和抢劫一辆运输车并涉嫌打掉另外一个司机的眼镜被逮捕于佛罗里达州迈阿密。如果罪名成立，辛普森将面临16年的牢狱。在2001年10月他被送上了法庭，但是很快就被释放了。 2001年12月4日，[聯邦調查局](https://zh.wikipedia.org/wiki/聯邦調查局 "wikilink")（FBI）全面搜索了辛普森在迈阿密的家，怀疑其藏有[摇头丸和](https://zh.wikipedia.org/wiki/摇头丸 "wikilink")[洗黑钱](https://zh.wikipedia.org/wiki/洗黑钱 "wikilink")。FBI收到举报信辛普森曾加入一个主要的贩毒圈，该案件中的其他的10个嫌疑人已被捕。在经过两个小时的全面搜查之后，没有发现任何非法毒品，而且在此次搜查之后，也没有逮捕和正式的指控。但是，调查人员发现了能够盗取卫星电视编程的设备，最终将辛普森送上了联邦法庭\[39\]。 2002年7月4日，辛普森由于超速行驶穿过海牛保护区，并且违反划船法规在佛罗里达迈阿密戴德县被捕\[40\]。然而，他的刑事辩护律师耶鲁.加兰特使得这项起诉失败，最终，辛普森只付了超速违规的罚款\[41\]。 2004年3月，卫星电视网络美国直播电视公司控诉辛普森利用非法电子产品盗取他们的直播信号。最后，该公司赢得了25,000美元的赔偿金，辛普森被要求支付33,678美元的律师费和诉讼费\[42\]。
 
 ### 拉斯维加斯抢劫案
 
@@ -125,127 +125,66 @@
 [Category:美式足球跑卫](https://zh.wikipedia.org/wiki/Category:美式足球跑卫 "wikilink") [Category:加利福尼亞州罪犯](https://zh.wikipedia.org/wiki/Category:加利福尼亞州罪犯 "wikilink") [Category:布法罗比尔队球员](https://zh.wikipedia.org/wiki/Category:布法罗比尔队球员 "wikilink") [Category:旧金山49人队球员](https://zh.wikipedia.org/wiki/Category:旧金山49人队球员 "wikilink") [Category:旧金山城市学院校友](https://zh.wikipedia.org/wiki/Category:旧金山城市学院校友 "wikilink") [Category:20世纪美国男演员](https://zh.wikipedia.org/wiki/Category:20世纪美国男演员 "wikilink") [Category:非洲裔美国男演员](https://zh.wikipedia.org/wiki/Category:非洲裔美国男演员 "wikilink") [Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink") [Category:美國籍囚犯及被拘留者](https://zh.wikipedia.org/wiki/Category:美國籍囚犯及被拘留者 "wikilink") [Category:洛杉磯歷史](https://zh.wikipedia.org/wiki/Category:洛杉磯歷史 "wikilink") [Category:南加州大學校友](https://zh.wikipedia.org/wiki/Category:南加州大學校友 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28. <http://tech.mit.edu/V115/N47/shap.47w.html>
-
 29. <http://pqasb.pqarchiver.com/latimes/access/21373189.html?dids=21373189:21373189&FMT=ABS&FMTS=ABS:FT&date=Oct+08%2C+1995&author=CATHLEEN+DECKER&pub=Los+Angeles+Times+(pre-1997+Fulltext)&desc=THE+TIMES+POLL%3B+Most+in+County+Disagree+With+Simpson+Verdicts>
-
 30. <http://sportsillustrated.cnn.com/2007/writers/michael_mccann/09/18/hearings/>
-
 31. <https://web.archive.org/web/20080213051600/http://www.courttv.com/casefiles/simpson/ojsimpson.html>
-
 32. <https://web.archive.org/web/20070226000602/http://www.cnn.com/2007/LAW/02/08/simpson.lawsuit.ap/index.html>
-
 33. <https://web.archive.org/web/20070226000602/http://www.cnn.com/2007/LAW/02/08/simpson.lawsuit.ap/index.html>
-
 34. <https://web.archive.org/web/20070226000602/http://www.cnn.com/2007/LAW/02/08/simpson.lawsuit.ap/index.html>
-
 35. <https://web.archive.org/web/20071012125737/http://sfgate.com/cgi-bin/article.cgi?f=%2Fn%2Fa%2F2007%2F09%2F13%2Fstate%2Fn092017D86.DTL>
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63. Peter, Josh (July 18, 2017). ["The Latest: OJ Simpson granted parole in Nevada robbery"](https://apnews.com/cd367bba76c64894b7f8d535a5ceef02/The-Latest:-Parole-board-set-to-decide-OJ-Simpson's-fate). *[AP](https://zh.wikipedia.org/wiki/Associated_Press "wikilink")*.
-
 64.

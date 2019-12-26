@@ -60,7 +60,8 @@ CQBR以改進[M16](../Page/M16突擊步槍.md "wikilink")／[AR-15令其達到](
       - 林地迷彩版本为活动武器，白金版中国大陆为K点武器其他地区为活动武器
   - 2014年—《[戰地之王](../Page/戰地之王.md "wikilink")》（Alliance of Valiant Arms）：命名為「MK18 MOD0」。偵察兵武器，自帶消音器，使用EURO購買。
   - 2014年—《》（Insurgency）：命名為“MK18”，安全部隊專用武器。
-  - 2019年-《幽灵行动：荒野》（Ghost Recon:Wildlands)：命名为MK18，可于商城购买或在特种部队箱抽取。
+  - 2019年—《幽灵行动：荒野》（Ghost Recon: Wildlands)：命名为MK18，可于商城购买或在特种部队箱抽取。
+  - 2019年—《[-{zh-cn:使命召唤：现代战争; zh-tw:決勝時刻：現代戰爭; zh-hk:使命召喚：現代戰爭}-](https://zh.wikipedia.org/wiki/使命召唤：现代战争_\(2019年遊戲\) "wikilink")》（Call of Duty: Modern Warfare）：型號為Mk 18 Mod 1（預設），錯誤的命名為“M4A1”，可進行自定義改裝。故事模式中由美國[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[特別活動分部](https://zh.wikipedia.org/wiki/特別活動分部 "wikilink")[特工亞歷克斯](https://zh.wikipedia.org/wiki/特工 "wikilink")、[英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[特種空勤團和](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")[美國海軍陸戰隊所使用](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")。
 
 ## 參考
 

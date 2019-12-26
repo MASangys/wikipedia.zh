@@ -1,4 +1,4 @@
-**nForce 4**系列是[NVIDIA研發的第四代](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[主機板](https://zh.wikipedia.org/wiki/主機板 "wikilink")[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，代號為CK 8，首款產品在2004年10月推出\[1\]，與[nForce 3一样是單晶片組](https://zh.wikipedia.org/wiki/nForce_3 "wikilink")，吸取了[nForce 3](https://zh.wikipedia.org/wiki/nForce_3 "wikilink") 150对[HyperTransport](../Page/HyperTransport.md "wikilink")支援不足的經驗。nForce 4系列效能比同期的[VIA](https://zh.wikipedia.org/wiki/VIA "wikilink") K8T890高，使其成為AMD平臺市場佔有率最高的晶片組，一洗nForce 3 150效能比VIA K8T800差的頹氣。
+**nForce 4**系列是[NVIDIA研發的第四代](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[主機板](https://zh.wikipedia.org/wiki/主機板 "wikilink")[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，代號為CK 8，首款產品在2004年10月推出\[1\]，與[nForce 3一样是單晶片組](https://zh.wikipedia.org/wiki/nForce_3 "wikilink")，吸取了nForce 3 150对[HyperTransport](../Page/HyperTransport.md "wikilink")支援不足的經驗。nForce 4系列效能比同期的[威盛電子](../Page/威盛電子.md "wikilink")推出之VIA K8T890高，使其成為AMD平臺市場佔有率最高的晶片組，一洗nForce 3 150效能比VIA K8T800差的頹氣。
 
 後期nForce 4系列推出[Intel平臺的nForce](https://zh.wikipedia.org/wiki/Intel "wikilink") 4 SLI Intel Edition，亦是nVIDIA的首款Intel平臺晶片組產品，效能相較同期的Intel自有晶片組為高。
 
@@ -46,6 +46,6 @@ Intel平臺的晶片組完全支援[Pentium 4和](https://zh.wikipedia.org/wiki/
 
   - [nForce 4 官方網頁](http://www.nvidia.com/page/nforce4_family.html)
 
-[Category:主板](https://zh.wikipedia.org/wiki/Category:主板 "wikilink") [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:nForce系列](https://zh.wikipedia.org/wiki/Category:nForce系列 "wikilink") [Category:2004年面世的產品](https://zh.wikipedia.org/wiki/Category:2004年面世的產品 "wikilink")
 
 1.  [NVIDIA nForce4 Brings PCI Express, SLI, and Security Processing to AMD64 Platforms](http://www.nvidia.com/object/IO_16486.html)

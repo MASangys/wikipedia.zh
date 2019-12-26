@@ -1,19 +1,19 @@
-**SBS**（），前稱**首爾放送**（，；於2000年3月改為目前的名稱），是[韓國四大全國無線電視及電台網絡中仅有的私營業者](https://zh.wikipedia.org/wiki/韓國 "wikilink")。SBS的經營口號是「共同制造欢乐」（，），這個口號從2015年起使用到現在。
+**SBS**（），前稱**首爾放送**（，；於2000年3月改為目前的名稱），是[韓國四大全國無線電視及電台網絡中仅有的民營業者](https://zh.wikipedia.org/wiki/韓國 "wikilink")。SBS的經營口號是「共同制造欢乐」（，），這個口號從2015年起使用到現在。
 
 ## 沿革
 
-  - 1990年11月14日：泰榮地產建築公司和31家公司共同成立「株式會社漢城放送」，[尹世荣代表理事](https://zh.wikipedia.org/wiki/尹世荣 "wikilink")。
-  - 1991年3月20日：SBS廣播電台開播，頻率為792 kHz（呼號：HLSQ，後改為「SBS Love FM」）。
-  - 1991年12月9日：無線電視（[SBS TV](../Page/SBS_TV.md "wikilink")）於上午10:00开播，在[首尔及其周边地区播出](https://zh.wikipedia.org/wiki/首尔 "wikilink")。
-  - 1992年5月：SBS制作公司得以成立。
-  - 1992年12月：SBS一山演播室竣工。
+  - 1990年11月14日：泰榮地產建築公司和31家公司共同成立「株式會社漢城放送」，[尹世荣代表理事](https://zh.wikipedia.org/wiki/尹世荣 "wikilink")
+  - 1991年3月20日：SBS廣播電台開播，頻率為792 kHz（呼號：HLSQ，後改為「SBS Love FM」）
+  - 1991年12月9日：無線電視（[SBS TV](../Page/SBS_TV.md "wikilink")）於上午10:00开播，在[首尔及其周边地区播出](https://zh.wikipedia.org/wiki/首尔 "wikilink")
+  - 1992年5月：SBS制作公司得以成立
+  - 1992年12月：SBS一山演播室竣工
   - 1994年3月：[尹世荣会长](https://zh.wikipedia.org/wiki/尹世荣 "wikilink")、[尹赫基社长得以就任](https://zh.wikipedia.org/wiki/尹赫基 "wikilink")
-  - 1994年8月8日：台徽变更为第二代台标（全大写SBS）。
+  - 1994年8月8日：台徽变更为第二代台标（全大写SBS）
   - 1994年10月24日，星期六、星期日的《[SBS 8点新闻](../Page/SBS_8点新闻.md "wikilink")》更名為《SBS 新聞 2000》（SBS 뉴스 2000）。
-  - 1995年5月14日，SBS結合其它地方電視台，成立電視聯播網（播放範圍不含[江原道](https://zh.wikipedia.org/wiki/江原道_\(韓國\) "wikilink")、[忠清北道](../Page/忠清北道.md "wikilink")、[濟州](../Page/濟州特別自治道.md "wikilink")）。
-  - 1996年10月26日，《SBS 新聞 2000》更名為《News Q》。
-  - 1996年10月30日：開始試播。
-  - 1996年11月14日：SBS Power FM開播，頻率為107.7 MHz。
+  - 1995年5月14日，SBS結合其它地方電視台，成立電視聯播網（播放範圍不含[江原道](https://zh.wikipedia.org/wiki/江原道_\(韓國\) "wikilink")、[忠清北道](../Page/忠清北道.md "wikilink")、[濟州](../Page/濟州特別自治道.md "wikilink")）
+  - 1996年10月26日，《SBS 新聞 2000》更名為《News Q》
+  - 1996年10月30日：開始試播
+  - 1996年11月14日：SBS Power FM開播，頻率為107.7 MHz
   - 1998年8月：[韩国首次进行](https://zh.wikipedia.org/wiki/韩国 "wikilink")[朝鲜正式采访](https://zh.wikipedia.org/wiki/朝鲜 "wikilink")。
   - 1998年11月：制定新的司训（以人为本、文化创造、走向未来）
   - 1998年12月：SBS ArtTech, SBS NewsTech得以成立

@@ -1,4 +1,4 @@
-**GeForce**（中國大陸又稱**精视**），是由[英伟达](../Page/英伟达.md "wikilink")公司開發的[個人電腦的](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[圖形處理器](../Page/圖形處理器.md "wikilink")的品牌。第一款GeForce產品是為高邊際利潤（高端）遊戲社群和計算機用戶的市場設計開發的，但是後來的產品發佈擴展了產品線，覆蓋圖形市場的所有細分市場，從低端、中端到高端。到2013年為止，GeForce的設計已經包含16個世代。它现在的竞争對手是[AMD的](https://zh.wikipedia.org/wiki/AMD "wikilink")[Radeon](../Page/Radeon.md "wikilink")系列[圖形處理器](../Page/圖形處理器.md "wikilink")。NVIDIA亦擁有定位於專業圖形處理領域的[Quadro](../Page/Quadro.md "wikilink")系列，多數產品使用與GeForce相同的核心，GeForce的早期產品甚至可以藉由改刷[韌體](../Page/韌體.md "wikilink")的方式軟改為Quadro系列。
+**GeForce**（中國大陸又稱**精视**），是由[英伟达](../Page/英伟达.md "wikilink")公司開發的[個人電腦的](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[圖形處理器](../Page/圖形處理器.md "wikilink")的品牌。第一款GeForce產品是為高邊際利潤（高端）遊戲社群和計算機用戶的市場設計開發的，但是後來的產品發佈擴展了產品線，覆蓋圖形市場的所有細分市場，從低端、中端到高端。到2019年為止，GeForce的設計已經包含16個世代。它现在的竞争對手是[AMD的](https://zh.wikipedia.org/wiki/AMD "wikilink")[Radeon](../Page/Radeon.md "wikilink")系列[圖形處理器](../Page/圖形處理器.md "wikilink")。NVIDIA亦擁有定位於專業圖形處理領域的[Quadro](../Page/Quadro.md "wikilink")系列，多數產品使用與GeForce相同的核心，GeForce的早期產品甚至可以藉由改刷[韌體](../Page/韌體.md "wikilink")的方式軟改為Quadro系列。
 
 英伟达通常會為一個新的系列，研發一個旗艦級產品。然後將其的功能（如核心、記憶體）削減，成為中端或低端產品。
 
@@ -27,11 +27,11 @@
 
   - [NVIDIA GeForce 台湾官方網站](http://www.nvidia.com.tw/object/geforce_family_tw.html)
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:GeForce系列](https://zh.wikipedia.org/wiki/Category:GeForce系列 "wikilink") [Category:1999年面世](https://zh.wikipedia.org/wiki/Category:1999年面世 "wikilink")
 
 1.
 2.
-3.  [GTX590-加压-超频-爆炸-烧毁！ - DIY经验谈 - 读编互动 - 话题 - slan7777 - 我的空间 - 微型计算机官方网站](http://member.mcplive.cn/space.php?uid=10442&do=thread&id=5919)
+3.
 4.  [NV官方回应：GTX590“烧毁门”事件](http://diy.pconline.com.cn/front/1103/2371820.html) - 太平洋電腦網
 5.  [NVIDIA官方回应GeForce GTX 590烧毁问题](http://news.mydrivers.com/1/189/189502.htm) - 驅動之家
 6.  [视频: nVIDIA新旗舰GTX590显卡烧毁实录，转自Youtube](http://v.youku.com/v_show/id_XMjUzNjc0OTQw.html)

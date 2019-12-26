@@ -88,7 +88,7 @@ IEEE 802.11ac又被稱為Wi-Fi 5，802.11ac Wave1支援的最大速率為866MBit
 
 ## IEEE 802.11ad
 
-無線千兆聯盟（Wireless Gigabit Alliance，WiGig），工業組織，致力於推動在無執照的60 GHz頻帶上，進行數千兆位元（multi-gigabit）速度的無線裝置資料傳輸技術。此聯盟於2009年5月7日宣布成立，於2009年12月推出第一版1.0 WiGig技術規格（802.11ad）。
+無線千兆聯盟（Wireless Gigabit Alliance，WiGig），工業組織，致力於推動在無執照的60 GHz頻帶上，進行數千兆位元（multi-gigabit）速度的無線裝置資料傳輸技術。此聯盟於2009年5月7日宣布成立，於2009年12月推出第一版1.0 WiGig技術規格（802.11ad）。隨後該標準被[Intel公司放棄](https://zh.wikipedia.org/wiki/Intel "wikilink")。
 
 ## IEEE 802.11ax
 
@@ -118,7 +118,7 @@ IEEE 802.11ac又被稱為Wi-Fi 5，802.11ac Wave1支援的最大速率為866MBit
 | 802.11p  | 2009    | 5.86-5.925 GHz                       | 3 Mbit/s                              | 27 Mbit/s                                                       | 约300米              | 约1000米     |
 | 802.11ac | 2011.11 | 5 GHz                                | 433Mbit/s, 867Mbit/s（80MHz，160MHz为可选） | 867Mbit/s, 1.73 Gbit/s, 3.47 Gbit/s, 6.93 Gbit/s（8 MIMO，160MHz） | 約35米\[9\]          |            |
 | 802.11ad | 2012.12 | 2.4/5/60 GHz                         | 4620Mbps                              | 7Gbps(6756.75Mbps)                                              | 約1-10米\[10\]\[11\] |            |
-| 802.11ax | 2018.12 | 2.4/5 GHz                            |                                       | 10.53Gbps                                                       | 10米                | 100米\[12\] |
+| 802.11ax | 2018.12 | 2.4/5 GHz                            | 9607Mbps                              | 10.53Gbps                                                       | 10米                | 100米\[12\] |
 
 ## 標準及延伸標準
 

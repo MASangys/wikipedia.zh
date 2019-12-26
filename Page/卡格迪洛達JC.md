@@ -106,7 +106,7 @@
 
   - [官方網站](http://www.rodajc.nl/)
   - [介紹球員網站](http://www.rodajcspelers.nl/)
-  - [球迷網站](http://www.rodajcfans.nl/)
+  - [球迷網站](https://web.archive.org/web/20060831195404/http://www.rodajcfans.nl/)
   - [球迷網站](http://www.rodaworld.nl/)
   - [球迷網站](http://www.koempel.nl/)
   - [1st 官方球迷會網站](https://web.archive.org/web/20050401234225/http://www.sv-online.info/)

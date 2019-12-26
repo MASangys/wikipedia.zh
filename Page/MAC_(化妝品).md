@@ -32,7 +32,7 @@ MAC現由化妝品牌[Estée Lauder擁有](../Page/雅诗兰黛公司.md "wikili
   - [黛比·哈利](../Page/黛比·哈利.md "wikilink")
   - Lisa Marie Presley
   - Lady Gaga
-  - [張藝興](../Page/張藝興.md "wikilink")
+  - [張藝興](../Page/張藝興.md "wikilink") （Lay Zhang)
   - [ITZY](../Page/ITZY.md "wikilink")
 
 ## 外部連結

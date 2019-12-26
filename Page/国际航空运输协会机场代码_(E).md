@@ -806,7 +806,7 @@
 <td><p>ELL</p></td>
 <td><p>FAER</p></td>
 <td><p>萊帕拉萊機場</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/萊帕拉萊" title="wikilink">萊帕拉萊</a>，<a href="https://zh.wikipedia.org/wiki/林波波省" title="wikilink">林波波省</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/萊帕拉萊" title="wikilink">萊帕拉萊</a>，<a href="../Page/林波波省.md" title="wikilink">林波波省</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -939,7 +939,7 @@
 <td><p>EMG</p></td>
 <td><p>FAEM</p></td>
 <td><p>恩潘蓋尼機場</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/恩潘蓋尼" title="wikilink">恩潘蓋尼</a>，<a href="https://zh.wikipedia.org/wiki/夸祖魯-納塔爾省" title="wikilink">夸祖魯-納塔爾省</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/恩潘蓋尼" title="wikilink">恩潘蓋尼</a>，<a href="../Page/夸祖魯-納塔爾省.md" title="wikilink">夸祖魯-納塔爾省</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

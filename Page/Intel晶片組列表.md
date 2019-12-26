@@ -4219,42 +4219,23 @@ SLH24 (B3)</p></td>
 [Category:计算机硬件列表](https://zh.wikipedia.org/wiki/Category:计算机硬件列表 "wikilink")
 
 1.
-
 2.  [Intel 430LX ("Mercury")](http://www.pcguide.com/ref/mbsys/chip/pop/g5iI430LX-c.html), PC Guide, accessed August 20, 2007.
-
 3.  [Intel 430NX ("Neptune")](http://www.pcguide.com/ref/mbsys/chip/pop/g5iI430NX-c.html), PC Guide, accessed August 20, 2007.
-
 4.  [Intel 430FX ("Triton")](http://www.pcguide.com/ref/mbsys/chip/pop/g5iI430FX-c.html), PC Guide, accessed August 20, 2007.
-
 5.  [Summary of P5 chipsets](http://groups.google.com/group/comp.sys.intel/msg/0a0cd1fe2b61a6ff), comp.sys.intel, September 1996.
-
 6.  [Intel 430HX ("Triton II")](http://www.pcguide.com/ref/mbsys/chip/pop/g5iI430HX-c.html), PC Guide, accessed August 20, 2007.
-
 7.
 8.  [Intel 430TX](http://www.pcguide.com/ref/mbsys/chip/pop/g5iI430TX-c.html), PC Guide, accessed August 20, 2007.
-
 9.  [1](http://www.tomshardware.com/reviews/intel-intros-3-series-chipsets-FSB1333-ddr3,1607-3.html)
-
 10.
-
 11. <http://www.intel.com/products/chipsets/975x/index.htm> Intel 975X Express Chipset Overview
-
 12. [Intel G35 Express Chipset Overview](http://www.intel.com/products/chipsets/G35/index.htm)
-
 13. [Intel said to have cut G35 chipset features - The Tech Report](http://techreport.com/discussions.x/11720)
-
 14. Pancescu, Alexandru. [Intel's X38 Express Chipset Is Ready](http://news.softpedia.com/news/Intel-039-s-X38-Express-Chipset-Is-Ready-62908.shtml), Softpedia News, August 16, 2007.
-
 15. <http://www.intel.com/products/chipsets/x38/index.htm> Intel X38 Express Chipset Overview
-
 16. <http://www.intel.com/products/desktop/chipsets/g45/g45-overview.htm> Intel G45 Express Chipset
-
 17. <http://www.intel.com/Products/Desktop/Motherboards/DB43LD/DB43LD-overview.htm> Intel Desktop Board DB43LD
-
 18. <http://www.intel.com/Products/Desktop/Chipsets/Q43/Q43-overview.htm> Intel Q43 Express Chipset
-
 19. <http://www.intel.com/products/desktop/chipsets/q45/q45-overview.htm> Intel Q45 Express Chipset
-
 20. <http://www.intel.com/products/desktop/chipsets/q45/q45-overview.htm> Intel Q45 Express Chipset
-
 21.  SATA-IO: Port Multipliers

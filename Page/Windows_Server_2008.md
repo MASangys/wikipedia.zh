@@ -148,19 +148,14 @@ Windows Server 2008的系统需求：\[6\]
   - [VistaBase Longhorn Server section](http://www.vistabase.co.uk/welcome.php?subcats/longhornserver/index)
   - [winsupersite.com Preview](https://web.archive.org/web/20060504234119/http://winsupersite.com/showcase/longhorn_server_preview_1.asp)
   - [winsupersite.com Preview 2](https://web.archive.org/web/20060614200831/http://www.winsupersite.com/reviews/longhorn_server_preview2_01.asp)
-  - [CoreConfigurator](http://blogs.microsoft.co.il/files/folders/guyt/entry68860.aspx)……Basic GUI configuration utility for Windows Server Core 2008
+  - [CoreConfigurator](https://web.archive.org/web/20080420103155/http://blogs.microsoft.co.il/files/folders/guyt/entry68860.aspx)……Basic GUI configuration utility for Windows Server Core 2008
 
 [Category:Windows_Server_2008](https://zh.wikipedia.org/wiki/Category:Windows_Server_2008 "wikilink")
 
 1.  ——據微軟伺服器及工具高級副主席Bob Muglia所表示，微軟將繼續以出版年份決定其伺服器產品的名稱。而"Longhorn"則估計將於2007年底或2008年初公佈。
-
 2.
-
 3.
-
 4.
 5.  [導讀 - Using Reliability Monitor for Troubleshooting](http://blogs.technet.com/jliao/archive/2008/04/06/using-reliability-monitor-for-troubleshooting.aspx)
-
 6.
-
 7.  [Windows Server 2008虛擬實驗室](http://technet.microsoft.com/en-us/virtuallabs/bb467605)

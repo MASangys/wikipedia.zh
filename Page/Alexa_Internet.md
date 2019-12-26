@@ -2,7 +2,7 @@
 
 Alexa分析提供各种[網站](../Page/網站.md "wikilink")的相關資訊與网页访问量，以其Alexa.com網站闻名。透過收集用户的上網資訊，以便統計網站流量及相關資訊。Alexa為Alexadex.com提供[搜尋引擎](https://zh.wikipedia.org/wiki/搜尋引擎 "wikilink")，並為A9.com搜索引擎提供「網站資訊」服務。
 
-Alexa 也是Amazon公司推出的著名语音助手的唤醒名字。语音助手本身称为 echo。
+Alexa也是Amazon公司推出的著名语音助手的唤醒名字。语音助手本身称为echo。
 
 ## 歷史
 
@@ -55,41 +55,22 @@ Alexa網站排名主要根據[Internet Explorer](../Page/Internet_Explorer.md "w
 
 1.
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18. ["Alexa Overhauls Ranking System"](http://techcrunch.com/2008/04/16/alexa-overhauls-ranking-system). TechCrunch. 16 April 2008.
-
 19.
-
 20.
-
 21.

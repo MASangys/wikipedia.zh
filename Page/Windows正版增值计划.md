@@ -112,46 +112,25 @@ WGA可能產生認證失誤（false positives）的問題（錯誤地辨認正�
 [Category:針對微軟的批評與爭議](https://zh.wikipedia.org/wiki/Category:針對微軟的批評與爭議 "wikilink") [Category:數位版權管理](https://zh.wikipedia.org/wiki/Category:數位版權管理 "wikilink")
 
 1.  [Microsoft.com - Description of the Windows Genuine Advantage Notifications application](http://support.microsoft.com/kb/905474/), retrieved [June 13](https://zh.wikipedia.org/wiki/June_13 "wikilink")、2006
-
 2.  [Digital Inspiration - WGA Notifications](http://labnol.blogspot.com/2006/04/wga-notifications-this-copy-of-windows.html), retrieved [June 13](https://zh.wikipedia.org/wiki/June_13 "wikilink")、2006
-
 3.  Announcement on usenet entitled "Windows Genuine Advantage - warning appears on activated machine" by Rubert Sland
-
 4.  [Sydney Morning Herald - Microsoft back to drawing board on piracy](http://www.smh.com.au/news/breaking/microsoft-back-to-drawing-board-on-piracy/2005/08/08/1123353252441.html?oneclick=true), retrieved [June 13](https://zh.wikipedia.org/wiki/June_13 "wikilink")、2006
-
 5.  [MSDN Blogs - New WGA Notifications Released](http://blogs.msdn.com/wga/archive/2006/11/29/new-wga-notifications-released.aspx), retrieved [December 3](https://zh.wikipedia.org/wiki/December_3 "wikilink")、2006
-
 6.  [Microsoft.com - Microsoft Files Lawsuits to Protect Consumers and Software Resellers](http://www.microsoft.com/presspass/press/2005/sep05/09-19PiracyEnfSept05PR.mspx) , retrieved [June 13](https://zh.wikipedia.org/wiki/June_13 "wikilink")、2006
-
 7.  [InformationWeek - Microsoft: Users may have to prove legal Windows use](http://www.informationweek.com/story/showArticle.jhtml?articleID=187200796), retrieved [June 13](https://zh.wikipedia.org/wiki/June_13 "wikilink")、2006
-
 8.
 9.  [The Register - How to stop Microsoft's WGA phoning home](http://www.theregister.co.uk/2006/06/22/wga_remove/)
-
 10. [Microsoft WGA FAQ](http://www.microsoft.com/genuine/downloads/StaticFAQ.aspx) , retrieved [October 20](https://zh.wikipedia.org/wiki/October_20 "wikilink")
-
 11. [Microsoft's Calling Home Problem: It's a Matter of Informed Consent](http://www.groklaw.net/article.php?story=20060608002958907), retrieved [October 20](https://zh.wikipedia.org/wiki/October_20 "wikilink")
-
 12. <http://www.webopedia.com/TERM/T/timebomb.html>
-
 13. [Lauren Weinstein's Blog - Windows XP update may be classified as 'spyware'](http://lauren.vortex.com/archive/000178.html), retrieved [June 13](https://zh.wikipedia.org/wiki/June_13 "wikilink")、2006
-
 14. [Microsoft's antipiracy (sic) tool "phones home" daily](http://news.zdnet.com/2100-3513_22-6081286.html?tag=nl.e589) , retrieved [June 13](https://zh.wikipedia.org/wiki/June_13 "wikilink")、2006
-
 15.
-
 16. [Ars Technica - Microsoft admits Windows Genuine Advantage phones home](http://arstechnica.com/news.ars/post/20060608-7017.html), retrieved [June 13](https://zh.wikipedia.org/wiki/June_13 "wikilink")、2006
-
 17. [Lauren Weinstein's Blog - Microsoft responds regarding Windows XP update vs Spyware](http://lauren.vortex.com/archive/000179.html), retrieved [June 13](https://zh.wikipedia.org/wiki/June_13 "wikilink")、2006
-
 18. [ZDNet - Microsoft to ease up on piracy (sic) check-ins](http://news.zdnet.com/2100-1009_22-6082334.html) , retrieved [June 13](https://zh.wikipedia.org/wiki/June_13 "wikilink")、2006
-
 19.
-
 20. [Lawsuit calls Microsoft's anti-piracy tool spyware | Seattle Post-Intelligencer](http://www.seattlepi.com/business/275780_msftsuit29.html), retrieved [June 29](https://zh.wikipedia.org/wiki/June_29 "wikilink")、2006
-
 21. [Microsoft WGA Help Forum](http://forums.microsoft.com/Genuine/ShowForum.aspx?ForumID=442&SiteID=25)
-
 22. <http://support.microsoft.com/kb/971033>
-
 23. <http://macivilian.blogspot.com/2010/03/windows-7-kb971033.html>

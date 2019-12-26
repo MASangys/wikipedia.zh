@@ -1,6 +1,6 @@
 **Windows 9x**是以[Windows 95](../Page/Windows_95.md "wikilink")[内核](../Page/内核.md "wikilink")作为蓝本的[微软](../Page/微软.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")的通称。这包括了[Windows 95](../Page/Windows_95.md "wikilink")、[Windows 98的所有版本](../Page/Windows_98.md "wikilink")，以及2000年发布的[Windows Me](../Page/Windows_Me.md "wikilink")。\[1\]
 
-Windows 9x所使用的内部发行版本号为“4.x”，而之前基于[MS-DOS](../Page/MS-DOS.md "wikilink")的Windows版本则使用等于或小于3.9的版本号。[Windows NT使用类似但独立的](../Page/Windows_NT.md "wikilink")、介于3.5与4.0的版本号。Windows 9x的第一继承人[Windows XP使用的版本号为](../Page/Windows_XP.md "wikilink")5.1。\[2\]
+Windows 9x所使用的内部发行版本号为“4.x”，而之前基于[MS-DOS](../Page/MS-DOS.md "wikilink")的Windows版本则使用等于或小于3.9的版本号。[Windows NT使用类似但独立的](../Page/Windows_NT.md "wikilink")、介于3.5与4.0的版本号。Windows 9x的第一继承者[Windows XP使用的版本号为](../Page/Windows_XP.md "wikilink")5.1。\[2\]
 
 Windows 9x闻名于它在[桌面的使用](https://zh.wikipedia.org/wiki/桌面 "wikilink")；在1998年，Windows占有了操作系统市场份额的82%。\[3\]
 

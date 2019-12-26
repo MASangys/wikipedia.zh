@@ -13,7 +13,7 @@ The Iconfactory到現時為止最著名的委託專案為替[微軟製作超過]
   - xScope — 用來測量屏幕上任何要素的工具
   - Dine-O-Matic — [Dashboard](../Page/Dashboard.md "wikilink")小工具
   - DownloadCheck — 靈感來自[木馬程式](https://zh.wikipedia.org/wiki/木馬程式 "wikilink")[MP3Concept的簡易公用程式](https://zh.wikipedia.org/wiki/MP3Concept "wikilink")
-  - [Twitterrific](https://zh.wikipedia.org/wiki/Twitterrific "wikilink") — [社會性網路網站](https://zh.wikipedia.org/wiki/社會性網路 "wikilink")[Twitter](../Page/Twitter.md "wikilink")的客户端
+  - [Twitterrific](../Page/Twitterrific.md "wikilink") — [社會性網路網站](https://zh.wikipedia.org/wiki/社會性網路 "wikilink")[Twitter](../Page/Twitter.md "wikilink")的客户端
   - IconDropper — [System 7](https://zh.wikipedia.org/wiki/System_7 "wikilink")、[Mac OS 8與](../Page/Mac_OS_8.md "wikilink")[Mac OS 9使用的圖標管理公用程式](../Page/Mac_OS_9.md "wikilink")
   - iControl — 用來更改任何[Mac OS 8與](../Page/Mac_OS_8.md "wikilink")[Mac OS 9系統圖標的公用程式](../Page/Mac_OS_9.md "wikilink")
 

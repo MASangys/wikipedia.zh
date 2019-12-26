@@ -36,12 +36,8 @@
 [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:地球帝國系列](https://zh.wikipedia.org/wiki/Category:地球帝國系列 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Windows独占游戏](https://zh.wikipedia.org/wiki/Category:Windows独占游戏 "wikilink") [Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink") [Category:Gamebryo引擎游戏](https://zh.wikipedia.org/wiki/Category:Gamebryo引擎游戏 "wikilink") [Category:多人及单人电子游戏](https://zh.wikipedia.org/wiki/Category:多人及单人电子游戏 "wikilink") [Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink") [Category:跨時代遊戲](https://zh.wikipedia.org/wiki/Category:跨時代遊戲 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.

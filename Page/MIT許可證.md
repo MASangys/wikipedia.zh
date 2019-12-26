@@ -8,7 +8,7 @@ MIT內容與三條款[BSD授權條款](https://zh.wikipedia.org/wiki/BSD授權�
 
 ## 運用情形
 
-有許多團體均採用MIT許可證。例如著名的[SSH連線軟體](../Page/Secure_Shell.md "wikilink")[PuTTY](../Page/PuTTY.md "wikilink")與[X視窗系統](https://zh.wikipedia.org/wiki/X視窗系統 "wikilink")。、[Mono](../Page/Mono.md "wikilink")開發平台函式庫、[Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink")、[Lua](../Page/Lua.md "wikilink")等等也都採用MIT授權條款。
+有許多團體均採用MIT許可證。例如著名的[SSH連線軟體](../Page/Secure_Shell.md "wikilink")[PuTTY](../Page/PuTTY.md "wikilink")與[X視窗系統](../Page/X視窗系統.md "wikilink")。、[Mono](../Page/Mono.md "wikilink")開發平台函式庫、[Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink")、[Lua](../Page/Lua.md "wikilink")等等也都採用MIT授權條款。
 
 ## 條款內容
 

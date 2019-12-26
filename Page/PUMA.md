@@ -26,7 +26,7 @@
 
 PUMA赞助不少[足球](../Page/足球.md "wikilink")俱樂部，如有 [曼城](../Page/曼彻斯特城足球俱乐部.md "wikilink")、[水晶宫](../Page/水晶宫足球俱乐部.md "wikilink")、[纽卡斯尔联](../Page/纽卡斯尔联足球俱乐部.md "wikilink")、[AC米蘭](https://zh.wikipedia.org/wiki/AC米蘭足球俱乐部 "wikilink")、[多特蒙德](https://zh.wikipedia.org/wiki/多特蒙德足球俱乐部 "wikilink")、[马赛](https://zh.wikipedia.org/wiki/马赛足球俱乐部 "wikilink")、[巴伦西亚](../Page/巴伦西亚足球俱乐部.md "wikilink")、[波尔多等](../Page/波尔多足球俱乐部.md "wikilink")。
 
-PUMA亦为多队国家足球队制作球衣，例如[意大利](https://zh.wikipedia.org/wiki/意大利国家足球队 "wikilink")、[捷克](https://zh.wikipedia.org/wiki/捷克国家足球队 "wikilink")、[瑞士](https://zh.wikipedia.org/wiki/瑞士国家足球队 "wikilink")、[乌拉圭](https://zh.wikipedia.org/wiki/乌拉圭国家足球队 "wikilink")、[智利](https://zh.wikipedia.org/wiki/智利国家足球队 "wikilink")、[科特迪瓦](https://zh.wikipedia.org/wiki/科特迪瓦国家足球队 "wikilink")、及[加纳等](https://zh.wikipedia.org/wiki/加纳国家足球队 "wikilink")。
+PUMA亦为多队国家足球队制作球衣，例如[意大利](https://zh.wikipedia.org/wiki/意大利国家足球队 "wikilink")、[捷克](https://zh.wikipedia.org/wiki/捷克国家足球队 "wikilink")、[瑞士](https://zh.wikipedia.org/wiki/瑞士国家足球队 "wikilink")、[乌拉圭](https://zh.wikipedia.org/wiki/乌拉圭国家足球队 "wikilink")、[摩洛哥](https://zh.wikipedia.org/wiki/摩洛哥国家足球队 "wikilink")、[喀麦隆](https://zh.wikipedia.org/wiki/喀麦隆国家足球队 "wikilink")、及[加纳等](https://zh.wikipedia.org/wiki/加纳国家足球队 "wikilink")。
 
 PUMA亦赞助了许多足球员，其中以[蒂埃里·亨利](https://zh.wikipedia.org/wiki/蒂埃里·亨利 "wikilink")、[阿奎罗](../Page/塞尔希奥·阿奎罗.md "wikilink")、[埃托奥](../Page/萨缪埃尔·埃托奥.md "wikilink")、[托马什·罗西基](../Page/托马什·罗西基.md "wikilink")、[马尔科·罗伊斯](https://zh.wikipedia.org/wiki/马尔科·罗伊斯 "wikilink")、[巴卡雷·萨尼亚](../Page/巴卡雷·萨尼亚.md "wikilink")、[亚亚·图雷](https://zh.wikipedia.org/wiki/亚亚·图雷 "wikilink")、[布冯](../Page/詹路易吉·布冯.md "wikilink")、[奥利弗·吉鲁](../Page/奥利弗·吉鲁.md "wikilink")、[巴洛特利](https://zh.wikipedia.org/wiki/巴洛特利 "wikilink")、[基耶利尼](../Page/乔吉奥·基耶利尼.md "wikilink")、[米克尔·阿特塔](../Page/米克尔·阿特塔.md "wikilink")及[法布雷加斯等人最为著名](https://zh.wikipedia.org/wiki/塞斯克·法布雷加斯 "wikilink")。
 
@@ -79,19 +79,13 @@ PUMA赞助的[田径](../Page/田径.md "wikilink")选手中，最为人熟悉�
 [Category:跨國公司](https://zh.wikipedia.org/wiki/Category:跨國公司 "wikilink") [Category:運動用品製造商](https://zh.wikipedia.org/wiki/Category:運動用品製造商 "wikilink") [Category:1948年成立的公司](https://zh.wikipedia.org/wiki/Category:1948年成立的公司 "wikilink") [Category:德國鞋類製造商](https://zh.wikipedia.org/wiki/Category:德國鞋類製造商 "wikilink") [Category:德國服裝品牌](https://zh.wikipedia.org/wiki/Category:德國服裝品牌 "wikilink") [Category:歐洲股份公司](https://zh.wikipedia.org/wiki/Category:歐洲股份公司 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11. [如果你走路累了，就穿上這雙球鞋充充電吧｜ ADER ERROR X PUMA 聯乘復刻八十年代經典 RS-SERIES](https://www.mings-fashion.com/ader-error-puma-%E8%81%AF%E4%B9%98-200825/)

@@ -1,13 +1,13 @@
-**I"s**（讀音：Eyes，[日文](../Page/日文.md "wikilink")：****）是日本[漫画家](../Page/漫画家.md "wikilink")[桂正和的愛情漫畫作品](../Page/桂正和.md "wikilink")。自1997年（第19期）至2000年（第24期）間在[集英社](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》連載，單行本全15卷。[東立出版社代理臺灣中文版](../Page/東立出版社.md "wikilink")，[天下出版代理香港中文版](../Page/天下出版.md "wikilink")。
+**I"s**（讀音：Eyes，[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****）是日本[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[桂正和](../Page/桂正和.md "wikilink")的愛情漫畫作品。自1997年（第19期）至2000年（第24期）間在[集英社](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》連載，單行本全15卷。[東立出版社](../Page/東立出版社.md "wikilink")代理臺灣中文版，[天下出版](../Page/天下出版.md "wikilink")代理香港中文版。
 
-2005年12月开始发行[OVA](../Page/OVA.md "wikilink")，约1个月左右出一集，至2006年6月23日出版最后的第6集。
+2005年12月开始发行[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，约1个月左右出一集，至2006年6月23日出版最后的第6集。
 
 2008年3月15日東立出版社發行〈I"s完全版〉臺灣中文版，內容是綜合全部單行本的集數以12本發行外還附加扉頁集與插畫集，並分別為黑白與彩色發行。該版以大開本上市初版（第一刷）於2009年2月5日發行完畢，由於過度色情與暴力內容請集英社刪除或修改，因此不列在成人書籍內。
 
 ## 综述
 
-漫画命名为I"s，原因一是四个主要人物的名字都以[日文的](../Page/日文.md "wikilink")「」（羅馬拼音為「I」）开头（第五个人物麻生蓝子名字的第一个发音“”与「I」发音相同），以字母「s」表示[复数之意](../Page/复数.md "wikilink")；二是伊织在与一贵的第一次合作中，把他们的两人小团体命名为I"s。
-本作的特色是，絕大部分都是透過第一人稱的方式從主角瀨戶一貴的觀點切入，有著大量描述一貴心聲的對白文字、妄想等等。瀨戶一貴並沒有特殊的專長，長相不出眾，體能學業也普普，對男女之情也有著常人的七情六慾，就如同[戀愛模擬遊戲常見的男主角的設定一般](../Page/戀愛模擬遊戲.md "wikilink")，這樣的設定方式使讀者在讀I"s的時候容易融入故事裡。
+漫画命名为I"s，原因一是四个主要人物的名字都以[日文的](https://zh.wikipedia.org/wiki/日文 "wikilink")「」（羅馬拼音為「I」）开头（第五个人物麻生蓝子名字的第一个发音“”与「I」发音相同），以字母「s」表示[复数之意](https://zh.wikipedia.org/wiki/复数 "wikilink")；二是伊织在与一贵的第一次合作中，把他们的两人小团体命名为I"s。
+本作的特色是，絕大部分都是透過第一人稱的方式從主角瀨戶一貴的觀點切入，有著大量描述一貴心聲的對白文字、妄想等等。瀨戶一貴並沒有特殊的專長，長相不出眾，體能學業也普普，對男女之情也有著常人的七情六慾，就如同[戀愛模擬遊戲常見的男主角的設定一般](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")，這樣的設定方式使讀者在讀I"s的時候容易融入故事裡。
 
 ## 内容简介
 
@@ -15,12 +15,11 @@
 
 在他们关系逐渐热化的时候，一贵小时候的玩伴秋叶季子从美国回来追求他。伊织也产生误会以为他的所爱就是季子，在复杂的心理中希望一贵能成功向季子表白。最终季子明白伊织才是一贵的所爱，因此离开了日本。
 
-在一次学生的[温泉旅行中](../Page/温泉.md "wikilink")，矶崎泉因为一系列巧合而开始对一贵进行疯狂地追求，并让伊织的误会逐渐加深。一贵的朋友寺谷开玩笑陷害一贵进入女汤，从而让伊织十分鄙视一贵，还好最终误会解除。由于矶崎泉的热情表现，让一贵陷入了诱惑中。但他最终拒绝了矶崎泉，表示伊织才是他的追求目标。
+在一次学生的[温泉旅行中](https://zh.wikipedia.org/wiki/温泉 "wikilink")，矶崎泉因为一系列巧合而开始对一贵进行疯狂地追求，并让伊织的误会逐渐加深。一贵的朋友寺谷开玩笑陷害一贵进入女汤，从而让伊织十分鄙视一贵，还好最终误会解除。由于矶崎泉的热情表现，让一贵陷入了诱惑中。但他最终拒绝了矶崎泉，表示伊织才是他的追求目标。
 
-在[平安夜的约会中](../Page/平安夜.md "wikilink")，寺谷给一贵创造机会来向伊织表白。而伊织不置可否的回应（说喜欢所有同学）让一贵感到迷茫。在回家的地铁上，伊织问他向谁表白时，他终于鼓起勇气说是“向你”。伊织在沉默良久后，也表示自己也一直在单恋一贵的。双方的表白终于结束了各自高中三年的单恋。
+在[平安夜的约会中](https://zh.wikipedia.org/wiki/平安夜 "wikilink")，寺谷给一贵创造机会来向伊织表白。而伊织不置可否的回应（说喜欢所有同学）让一贵感到迷茫。在回家的地铁上，伊织问他向谁表白时，他终于鼓起勇气说是“向你”。伊织在沉默良久后，也表示自己也一直在单恋一贵的。双方的表白终于结束了各自高中三年的单恋。
 
-[Ispure001.jpg](https://zh.wikipedia.org/wiki/File:Ispure001.jpg "fig:Ispure001.jpg")
-伊织被艺能公司看中后，女负责人古川要求一贵不要公开他与伊织的爱情，因此他们的事情只有少数几个同学知道。同时成绩公布，一贵没考上大学。他们在保密的情况下和同学们开始了毕业旅行，经过朋友的换房，他们终于能同居一室。第二天换房却因为寺谷的叔叔的暗箱操作而让一贵和小泉同一间。一贵在抵抗了小泉的诱惑后，告诉了小泉他与伊织拍拖的事情，让小泉伤心的离开了房间。当晚伊织被公司有急事叫走，而与伊织同一间房的木田因为企图偷拍而被同学绑在了电线杆上。
+[Ispure001.jpg](https://zh.wikipedia.org/wiki/File:Ispure001.jpg "fig:Ispure001.jpg") 伊织被艺能公司看中后，女负责人古川要求一贵不要公开他与伊织的爱情，因此他们的事情只有少数几个同学知道。同时成绩公布，一贵没考上大学。他们在保密的情况下和同学们开始了毕业旅行，经过朋友的换房，他们终于能同居一室。第二天换房却因为寺谷的叔叔的暗箱操作而让一贵和小泉同一间。一贵在抵抗了小泉的诱惑后，告诉了小泉他与伊织拍拖的事情，让小泉伤心的离开了房间。当晚伊织被公司有急事叫走，而与伊织同一间房的木田因为企图偷拍而被同学绑在了电线杆上。
 
 一贵搬离了自己的家，开始了新的生活。伊织每过几天都会来看一贵，虽然只有短短的时间，但让他很满足。邻居麻生蓝子是个长得很象伊织的女生，也因为她，一贵和伊织发生了误会，甚至差点分手。小泉在一段日子的平静之后找到了一贵的住所，并展开了新的攻势，与他、寺谷和蓝子一起玩“手足并用”的情色游戏。此时的伊织也在艺能界发展自己的关系，而她给一贵所写的信和送的生日礼物，都被古川扣留了。古川允许一贵和伊织一起玩一天，作为分手的纪念，而一贵却在聊天时吃醋抛伊织离去。回家后他遇到了同样失落的蓝子，并陪蓝子找到了她的男朋友田中，没想到田中早已放弃了蓝子。他打不通伊织的电话（伊织电话已被改掉），又在无聊的抛玩时不慎让手机落入河中，从而暂时失去了和伊织的联系方式。
 
@@ -32,31 +31,30 @@
 
 ## 漫畫人物
 
-[Snapshot_Is_pure.jpg](https://zh.wikipedia.org/wiki/File:Snapshot_Is_pure.jpg "fig:Snapshot_Is_pure.jpg")
-聲優配音有2002年和2006年的區分，以下以2002版/2006版來表示。
+[Snapshot_Is_pure.jpg](https://zh.wikipedia.org/wiki/File:Snapshot_Is_pure.jpg "fig:Snapshot_Is_pure.jpg") 聲優配音有2002年和2006年的區分，以下以2002版/2006版來表示。
 
   -
-    本作主角。一名普通的高中生，生于1980年10月3日，16岁时开始暗恋同班女生苇月伊织，個性優柔寡斷。本作大部分的視點都是由一貴內心想法切入的。
+    本作主角。一名普通的高中生，天秤座，生于1980年10月3日，16岁时开始暗恋同班女生苇月伊织，個性優柔寡斷。本作大部分的視點都是由一貴內心想法切入的。
 
 <!-- end list -->
 
   -
-    生于1981年3月21日。本作的第一女主角，一贵的同班同学，爱好剧团演出。因長相出眾而被星探相中，試圖朝演藝圈發展。個性溫柔賢淑，端莊有禮，基本上屬於[大和撫子的完美女性](../Page/大和撫子.md "wikilink")。葦月在漫畫圈是有著極高人氣的角色。
+    白羊座，生于1981年3月21日。本作的第一女主角，一贵的同班同学，爱好剧团演出。因長相出眾而被星探相中，試圖朝演藝圈發展。個性溫柔賢淑，端莊有禮，基本上屬於[大和撫子](../Page/大和撫子.md "wikilink")的完美女性。葦月在漫畫圈是有著極高人氣的角色。
 
 <!-- end list -->
 
   -
-    一贵的青梅竹马，比一貴小一歲，從兒時就喜歡著一貴，並一直保持著「朋友以上，戀人未滿」的關係。4年前随父母到[美国定居](../Page/美国.md "wikilink")。本作初期就回到日本。身形嬌小，個性活潑開朗，表面上很天真，其實卻是很有自己人生觀和準則的女孩子。常常鼓勵一貴要誠實面對自己，勇敢追求自己的夢想。和一貴相處一段間後，終於了解到自己喜歡的其實是「喜歡著另一個女生而散發光芒的一貴」，決定離開一貴，隨竹崎老師赴美從事電影特效造型工作。季子是本作早期的另一個女主角，也是一貴除了伊織以外最喜歡的女生(和小泉及麻生相比)。
+    一贵的青梅竹马，比一貴小一歲，從兒時就喜歡著一貴，並一直保持著「朋友以上，戀人未滿」的關係。4年前随父母到[美国](../Page/美国.md "wikilink")定居。本作初期就回到日本。身形嬌小，個性活潑開朗，表面上很天真，其實卻是很有自己人生觀和準則的女孩子。常常鼓勵一貴要誠實面對自己，勇敢追求自己的夢想。和一貴相處一段間後，終於了解到自己喜歡的其實是「喜歡著另一個女生而散發光芒的一貴」，決定離開一貴，隨竹崎老師赴美從事電影特效造型工作。季子是本作早期的另一個女主角，也是一貴除了伊織以外最喜歡的女生(和小泉及麻生相比)。
 
 <!-- end list -->
 
   -
-    生於1982年8月25日(是本作除了一貴和伊織以外唯一被表明生日的角色)，一贵在温泉旅游时认识的一名女生，後來知道是自己灣田高中小兩屆的學妹。在遇到一贵后就一直喜欢他。個性活潑、高調、熱情，性觀念很開放，雖然身為女生但非常積極主動，動不動就熱吻甚至獻身，直到一貴和她表明已經和葦月在交往後才收斂一些(但似乎還是沒有完全放棄)。小泉是本作中期的另一個女主角，一貴每每遭到小泉的熱情誘惑都快把持不住，對小泉主動的個性也很沒輒，因此到後來對小泉常抱著避而遠之的態度。
+    處女座，生於1982年8月25日(是本作除了一貴和伊織以外唯一被表明生日的角色)，一贵在温泉旅游时认识的一名女生，後來知道是自己灣田高中小兩屆的學妹。在遇到一贵后就一直喜欢他。個性活潑、高調、熱情，性觀念很開放，雖然身為女生但非常積極主動，動不動就熱吻甚至獻身，直到一貴和她表明已經和葦月在交往後才收斂一些(但似乎還是沒有完全放棄)。小泉是本作中期的另一個女主角，一貴每每遭到小泉的熱情誘惑都快把持不住，對小泉主動的個性也很沒輒，因此到後來對小泉常抱著避而遠之的態度。瀨戶對小泉的感覺大概只有「性」而已。
 
 <!-- end list -->
 
   -
-    一贵在居时的邻居，雙子座，從[秋田縣來到東京念大學的女生](../Page/秋田縣.md "wikilink")，比一貴大一歲(大學二年級)。她与男朋友过着分离的生活，回到秋田见面时才知道她早已被抛弃。個性有些迷糊，非常單純善良。隨著相處時間的累積，藍子漸漸喜歡上一貴，但知道自己不該干擾一貴和伊織的感情，所以選擇搬走離開。
+    一贵在居时的邻居，雙子座，從[秋田縣來到東京念大學的女生](https://zh.wikipedia.org/wiki/秋田縣 "wikilink")，比一貴大一歲(大學二年級)。她与男朋友过着異地戀的生活，回到秋田见面时才知道她早已被抛弃。個性有些迷糊，非常單純善良。隨著相處時間的累積，藍子漸漸喜歡上一貴，但知道自己不該干擾一貴和伊織的感情，所以選擇搬走離開。藍子是繼伊織和季子外，有感情的女孩。
 
 <!-- end list -->
 
@@ -96,8 +94,7 @@
 
 ### I"s Pure
 
-2005年12月14日开始出版《I"s
-Pure》的系列动画，共6集。动画采取从一贵圣诞节时和伊织约会为开始，以追忆的方式描述了他在中学期间对伊织的追求故事。与漫画不同的是，漫画中的心理描写和比较暴露的情色情节都被忽略或者简化，并采用《一贵的妄想日记》的方式与主情节分开来描述主人公的幻想部分。
+2005年12月14日开始出版《I"s Pure》的系列动画，共6集。动画采取从一贵圣诞节时和伊织约会为开始，以追忆的方式描述了他在中学期间对伊织的追求故事。与漫画不同的是，漫画中的心理描写和比较暴露的情色情节都被忽略或者简化，并采用《一贵的妄想日记》的方式与主情节分开来描述主人公的幻想部分。
 
 ## 電視劇
 
@@ -107,55 +104,39 @@ Pure》的系列动画，共6集。动画采取从一贵圣诞节时和伊织约
 
 <!-- end list -->
 
-  - 男主角・瀬戸一貴／[岡山天音](../Page/岡山天音.md "wikilink")
+  - 男主角・瀬戸一貴／[岡山天音](https://zh.wikipedia.org/wiki/岡山天音 "wikilink")
   - 女主角・葦月伊織／[白石聖](../Page/白石聖.md "wikilink")
   - 秋葉季子／[柴田杏花](../Page/柴田杏花.md "wikilink")
   - 磯崎泉／[萩原農](../Page/萩原農.md "wikilink")
   - 麻生藍子／[加藤小夏](../Page/加藤小夏.md "wikilink")
-  - 寺谷靖雅／[伊島空](../Page/伊島空.md "wikilink")
-  - 越苗純／[小越勇輝](../Page/小越勇輝.md "wikilink")
-  - 木田茂吉／[富田佳輔](../Page/富田佳輔.md "wikilink")
-  - 奈美／[春花](../Page/春花.md "wikilink")
-  - 森崎祐加／[須藤-{叶}-希](../Page/須藤叶希.md "wikilink")
-  - 鮫島／[水石亞飛夢](../Page/水石亞飛夢.md "wikilink")
-  - 花園廣巳／[宇梶剛士](../Page/宇梶剛士.md "wikilink")
+  - 寺谷靖雅／[伊島空](https://zh.wikipedia.org/wiki/伊島空 "wikilink")
+  - 越苗純／[小越勇輝](https://zh.wikipedia.org/wiki/小越勇輝 "wikilink")
+  - 木田茂吉／[富田佳輔](https://zh.wikipedia.org/wiki/富田佳輔 "wikilink")
+  - 奈美／[春花](https://zh.wikipedia.org/wiki/春花 "wikilink")
+  - 森崎祐加／[須藤-{叶}-希](https://zh.wikipedia.org/wiki/須藤叶希 "wikilink")
+  - 鮫島／[水石亞飛夢](https://zh.wikipedia.org/wiki/水石亞飛夢 "wikilink")
+  - 花園廣巳／[宇梶剛士](https://zh.wikipedia.org/wiki/宇梶剛士 "wikilink")
   - 竹澤隆志／[竹財輝之助](../Page/竹財輝之助.md "wikilink")
-  - 瀬戸貴子／[布施繪理](../Page/布施繪理.md "wikilink")
-  - 一貴之父／[荒木誠](../Page/荒木誠.md "wikilink")
-  - 美代子／[牧野羽咲](../Page/牧野羽咲.md "wikilink")
-  - 演劇部部長／[中山龍也](../Page/中山龍也.md "wikilink")
+  - 瀬戸貴子／[布施繪理](https://zh.wikipedia.org/wiki/布施繪理 "wikilink")
+  - 一貴之父／[荒木誠](https://zh.wikipedia.org/wiki/荒木誠 "wikilink")
+  - 美代子／[牧野羽咲](https://zh.wikipedia.org/wiki/牧野羽咲 "wikilink")
+  - 演劇部部長／[中山龍也](https://zh.wikipedia.org/wiki/中山龍也 "wikilink")
 
 ## 参见
 
   - [桂正和](../Page/桂正和.md "wikilink")
-  - [电影少女](../Page/电影少女.md "wikilink")
+  - [电影少女](https://zh.wikipedia.org/wiki/电影少女 "wikilink")
 
 ## 註解
 
 ## 外部链接
 
   - [I"s](https://web.archive.org/web/20090728094228/http://annex.s-manga.net/is/)（日文）
-  - [ZET
-    TOWN](https://web.archive.org/web/20100415163911/http://www.zet-t.com/is/)（日文）
+  - [ZET TOWN](https://web.archive.org/web/20100415163911/http://www.zet-t.com/is/)（日文）
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Studio_Pierrot](https://zh.wikipedia.org/wiki/Category:Studio_Pierrot "wikilink")
-[Category:2002年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2002年日本OVA動畫 "wikilink")
-[Category:2005年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2005年日本OVA動畫 "wikilink")
-[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink")
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink")
-[Category:東京背景漫畫](https://zh.wikipedia.org/wiki/Category:東京背景漫畫 "wikilink")
-[Category:2003年電子遊戲](https://zh.wikipedia.org/wiki/Category:2003年電子遊戲 "wikilink")
-[Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:桂正和](https://zh.wikipedia.org/wiki/Category:桂正和 "wikilink")
-[Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink")
-[Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink")
-[Category:東京背景電視劇](https://zh.wikipedia.org/wiki/Category:東京背景電視劇 "wikilink")
+真人版 <https://www.bs-sptv.com/is/>
+
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Studio_Pierrot](https://zh.wikipedia.org/wiki/Category:Studio_Pierrot "wikilink") [Category:2002年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2002年日本OVA動畫 "wikilink") [Category:2005年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2005年日本OVA動畫 "wikilink") [Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:東京背景漫畫](https://zh.wikipedia.org/wiki/Category:東京背景漫畫 "wikilink") [Category:2003年電子遊戲](https://zh.wikipedia.org/wiki/Category:2003年電子遊戲 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:桂正和](https://zh.wikipedia.org/wiki/Category:桂正和 "wikilink") [Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink") [Category:東京背景電視劇](https://zh.wikipedia.org/wiki/Category:東京背景電視劇 "wikilink")
 
 1.  東立中文版,vol 14,p195
 2.  東立中文版,vol 11,p184

@@ -62,12 +62,6 @@ T型车的起初售价是825美金，而同期与之相竞争的车型售价通�
 
 ## 注释
 
-<div class="references-small">
-
-<references/>
-
-</div>
-
 ## 参见
 
   - [福特汽车](../Page/福特汽车.md "wikilink")
@@ -78,21 +72,13 @@ T型车的起初售价是825美金，而同期与之相竞争的车型售价通�
 [Category:敞篷車](https://zh.wikipedia.org/wiki/Category:敞篷車 "wikilink") [Category:底特律文化](https://zh.wikipedia.org/wiki/Category:底特律文化 "wikilink") [Category:美國歷史_(1865年-1918年)](https://zh.wikipedia.org/wiki/Category:美國歷史_\(1865年-1918年\) "wikilink")
 
 1.
-
 2.
-
 3.  Reynold M. Wik, Henry Ford Grass Roots America, 1972
-
 4.  First hand account of Charles Sorensen from his autobiography, *My Forty Years with Ford* (1956)[1](http://www.eyewitnesstohistory.com/ford.htm)
-
 5.  Essay by Stephen C. Perry, Gardner-Webb University (Published May 8, 2000)
-
 6.  Douglas Brinkley, *Wheels for the World*, 2003
-
 7.
-
 8.
-
 9.
 10.
 11.

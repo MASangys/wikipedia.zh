@@ -230,7 +230,7 @@ FACE TO FACE @ "十大過四十”音樂會 (http://hejnom.blogspot.hk/2012/12/1
 ## 外部連結
 
   - [唱片資料](http://robokon.orgfree.com/9095/9095_FaceToFace.htm)
-  - [憶13年前車禍吳少芳懷念已逝經理人](http://news.sina.com.hk/cgi-bin/news/show_news.cgi?date=2005-11-28&type=entertain&id=1572526&ct=entertain)
+  - [憶13年前車禍吳少芳懷念已逝經理人](https://web.archive.org/web/20070312061851/http://news.sina.com.hk/cgi-bin/news/show_news.cgi?date=2005-11-28&type=entertain&id=1572526&ct=entertain)
 
 [Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
 

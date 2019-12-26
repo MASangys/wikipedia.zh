@@ -76,37 +76,21 @@ Fe尋找社會上的聯繫，並用禮貌、體貼、得體的舉止營造和諧
 [Category:心理測試](https://zh.wikipedia.org/wiki/Category:心理測試 "wikilink") [Category:性格分類](https://zh.wikipedia.org/wiki/Category:性格分類 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.

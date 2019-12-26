@@ -34,6 +34,6 @@
   - [AutoESL](https://web.archive.org/web/20110929221146/http://www.xilinx.com/tools/autoesl.htm) From Xilinx
   - [CatapultC](http://www.calypto.com/catapult_c_synthesis.php) From Calypto
   - [C-to-Silicon](http://www.cadence.com/products/sd/silicon_compiler/pages/default.aspx) From Cadence
-  - [Cynthesizer](http://forteds.com/highleveldesign/index.asp) From Forte
+  - [Cynthesizer](https://web.archive.org/web/20111122010753/http://www.forteds.com/highleveldesign/index.asp) From Forte
 
 [Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink") [Category:硬件验证语言](https://zh.wikipedia.org/wiki/Category:硬件验证语言 "wikilink")

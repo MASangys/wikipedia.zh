@@ -103,22 +103,15 @@
 [Category:量子力学](https://zh.wikipedia.org/wiki/Category:量子力学 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  *Quantum Chemistry: Fifth Edition*, Ira N. Levine, 2000
-
 6.
-
 7.
 8.
 9.
 10.
 11.
 12. V. W. Hughes and T. Kinoshita "Anomalous *g* values of the electron and muon" *Review of Modern Physics* 71, 133（1999）
-
 13.

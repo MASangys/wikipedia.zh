@@ -104,10 +104,7 @@ JetBrains成立於2000年，是一家[私人持股的公司](https://zh.wikipedi
 [Category:软件公司](https://zh.wikipedia.org/wiki/Category:软件公司 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.

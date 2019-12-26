@@ -429,16 +429,10 @@ using FunctionType1 = void (*)(double); // New introduced syntax
 [Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink")
 
 1.  [MSDN：嵌套的类模板](http://msdn.microsoft.com/zh-cn/library/71dw8xzh.aspx)
-
 2.  §14.3.1/2 from the 2003 C++ Standard: A local type, a type with no linkage, an unnamed type or a type compounded from any of these types shall not be used as a template-argument for a template type-parameter.
-
 3.
 4.  C++11标准：§14.7.3，¶16规定：the declaration shall not explicitly specialize a class member template if its enclosing class templates are not explicitly specialized as well
-
 5.  C++11标准：§14.6，¶1
-
 6.  C++11标准§14.6，¶2规定：A name used in a template declaration or definition and that is dependent on a template-parameter is assumed not to name a type unless the applicable name lookup finds a type name or the name is qualified by the keyword typename.
-
 7.  C++11标准§14.6，¶5规定
-
 8.

@@ -71,7 +71,7 @@
 <tr class="odd">
 <td><p><a href="../Page/舞動青春.md" title="wikilink">舞動青春</a></p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/竹内友" title="wikilink">竹内友</a></p></td>
 <td></td>
 <td><p>2011年12月號</p></td>
 <td></td>

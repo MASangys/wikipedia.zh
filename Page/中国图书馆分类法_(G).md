@@ -2830,7 +2830,7 @@
 
 :::\*G894.1 [集邮](https://zh.wikipedia.org/wiki/集邮 "wikilink")
 
-::\*G895 [旅行](https://zh.wikipedia.org/wiki/旅行 "wikilink")
+::\*G895 [旅行](../Page/旅行.md "wikilink")
 
 ::\*G896 [狩猎运动](https://zh.wikipedia.org/wiki/狩猎运动 "wikilink")
 

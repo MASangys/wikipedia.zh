@@ -310,6 +310,12 @@ WTA年终总决赛通常被认为是继[四大网球公开赛之後水平最高�
 <td><p><a href="https://zh.wikipedia.org/wiki/斯洛恩·史蒂芬斯" title="wikilink">斯洛恩·史蒂芬斯</a></p></td>
 <td><p>3-6, 6-2, 6-2</p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/2019年WTA巡回赛总决赛" title="wikilink">2019年</a></p></td>
+<td><p><a href="../Page/阿什莉·巴蒂.md" title="wikilink">阿什莉·巴蒂</a></p></td>
+<td><p><a href="../Page/伊莉娜·斯維托莉娜.md" title="wikilink">伊莉娜·斯維托莉娜</a></p></td>
+<td><p>6-4, 6-3</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -673,7 +679,7 @@ WTA年终总决赛通常被认为是继[四大网球公开赛之後水平最高�
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/玛蒂娜·辛吉斯" title="wikilink">玛蒂娜·辛吉斯</a> <small> (3)</small><br />
+<td><p><a href="../Page/玛蒂娜·辛吉斯.md" title="wikilink">玛蒂娜·辛吉斯</a> <small> (3)</small><br />
  <a href="https://zh.wikipedia.org/wiki/薩尼婭·米爾莎" title="wikilink">薩尼婭·米爾莎</a> <small> (2) </small></p></td>
 <td><p><a href="../Page/加比涅·穆古魯薩.md" title="wikilink">加比涅·穆古魯薩</a><br />
  <a href="https://zh.wikipedia.org/wiki/卡拉·蘇亞雷斯·納凡諾" title="wikilink">卡拉·蘇亞雷斯·納凡諾</a></p></td>

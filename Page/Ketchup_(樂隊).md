@@ -215,7 +215,7 @@ side B
 
 ## 外部連結
 
-  - [殘響音牆﹕Ketchup Ken - One Man Band 一個人的簡單風格](http://news.sina.com.hk/cgi-bin/nw/show.cgi/23/1/1/1511308/1.html)
+  - [殘響音牆﹕Ketchup Ken - One Man Band 一個人的簡單風格](https://web.archive.org/web/20100518183844/http://news.sina.com.hk/cgi-bin/nw/show.cgi/23/1/1/1511308/1.html)
   - [Ketchup留言板](http://www.hkflash.com/gb/gb.asp?id=ketchup)
   - [Ketchup新聞組](news://wonderspace.net/wonder.idol.ketchup)
   - [「1.2.3到你\!音樂會」照片](http://www.pbase.com/izak_mar04/123)

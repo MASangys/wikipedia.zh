@@ -8,7 +8,7 @@
 
 ## 外部链接
 
-  - [IBM China Research Laboratory](http://www-31.ibm.com/ibm/cn/crl/en/index.shtml)
+  - [IBM China Research Laboratory](https://web.archive.org/web/20120806225437/http://www-31.ibm.com/ibm/cn/crl/en/index.shtml)
 
 [Category:IBM研究院](https://zh.wikipedia.org/wiki/Category:IBM研究院 "wikilink") [Category:计算机科学研究机构](https://zh.wikipedia.org/wiki/Category:计算机科学研究机构 "wikilink") [Category:北京市信息技术研究机构](https://zh.wikipedia.org/wiki/Category:北京市信息技术研究机构 "wikilink") [Category:软件研究机构](https://zh.wikipedia.org/wiki/Category:软件研究机构 "wikilink") [Category:中关村研究机构](https://zh.wikipedia.org/wiki/Category:中关村研究机构 "wikilink") [Category:中华人民共和国软件产业](https://zh.wikipedia.org/wiki/Category:中华人民共和国软件产业 "wikilink") [Category:1995年建立的组织](https://zh.wikipedia.org/wiki/Category:1995年建立的组织 "wikilink")
 

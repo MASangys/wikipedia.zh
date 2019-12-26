@@ -747,68 +747,335 @@ Teddy<br />
 
 ### 其他演員
 
-  - [黃天鐸](../Page/黃天鐸.md "wikilink") 飾 Ben，王明慧老闆
-  - [李桂英](https://zh.wikipedia.org/wiki/李桂英 "wikilink") 飾 蘇嘉敏
-  - [陳狄克](../Page/陳狄克.md "wikilink") 飾 胡　超
-  - [戴少民](https://zh.wikipedia.org/wiki/戴少民 "wikilink") 飾 CID
-  - [陳詠文](https://zh.wikipedia.org/wiki/陳詠文 "wikilink") 飾 囡　囡
-  - [溫文英](https://zh.wikipedia.org/wiki/溫文英 "wikilink") 飾 CID/CID乙
-  - [湯俊明](https://zh.wikipedia.org/wiki/湯俊明 "wikilink") 飾 CID/CID甲/便　衣
-  - [曾慧雲](../Page/曾慧雲.md "wikilink") 飾 Iris
-  - [樊亦敏](../Page/樊亦敏.md "wikilink") 飾 樊燕珊（林永泰前女友）
-  - [林漪娸](../Page/林漪娸.md "wikilink") 飾 余靖允Rita（律師，陳桂女友）
-  - [河國榮](../Page/河國榮.md "wikilink") 飾 Gary Lambert（林仔，王明慧前男友）
-  - [蔡雲霞](https://zh.wikipedia.org/wiki/蔡雲霞 "wikilink") 飾 Cindy
-  - [陳中堅](https://zh.wikipedia.org/wiki/陳中堅 "wikilink") 飾 法　官
-  - [艾　威](../Page/艾威.md "wikilink") 飾 Marty
-  - [黃凱詩](https://zh.wikipedia.org/wiki/黃凱詩 "wikilink") 飾 情侶甲
-  - [朱樂輝](https://zh.wikipedia.org/wiki/朱樂輝 "wikilink") 飾 情侶乙
-  - [吳列華](https://zh.wikipedia.org/wiki/吳列華 "wikilink") 飾 售貨員
-  - [蕭玉燕](https://zh.wikipedia.org/wiki/蕭玉燕 "wikilink") 飾 Linda（被扯火強姦，後來自殺）
-  - [楊瑞麟](../Page/楊瑞麟.md "wikilink") 飾 陳醫生（樊燕珊之未婚夫）
-  - [陳鳳冰](../Page/陳鳳冰.md "wikilink") 飾 扯火姑媽（被扯火槍殺）
-  - [何潔珊](https://zh.wikipedia.org/wiki/何潔珊 "wikilink") 飾 Model A/模特兒
-  - [鄧麗雯](https://zh.wikipedia.org/wiki/鄧麗雯 "wikilink") 飾 Model B/模特兒
-  - [趙美裕](https://zh.wikipedia.org/wiki/趙美裕 "wikilink") 飾 Model C/模特兒
-  - [梁健平](../Page/梁健平.md "wikilink") 飾 霍耀祖（伍頌蓮前夫）
-  - [楚　原](../Page/楚原.md "wikilink") 飾 霍爵士
-  - [梁舜燕](../Page/梁舜燕.md "wikilink") 飾 霍　太
-  - [鍾潔儀](https://zh.wikipedia.org/wiki/鍾潔儀 "wikilink") 飾 鍾　莉
-  - [蔡劍雪](https://zh.wikipedia.org/wiki/蔡劍雪 "wikilink") 飾 Connie
-  - [孫季卿](../Page/孫季卿.md "wikilink") 飾 貴朋友
-  - [區　嶽](https://zh.wikipedia.org/wiki/區嶽 "wikilink") 飾 貴朋友
-  - [何璧堅](../Page/何璧堅.md "wikilink") 飾 貴朋友
-  - [朱偉達](https://zh.wikipedia.org/wiki/朱偉達 "wikilink") 飾 Mandy
-  - [羅樂林](../Page/羅樂林.md "wikilink") 飾 羅金勝
-  - [劉桂芳](../Page/劉桂芳.md "wikilink") 飾 羅金勝妻
-  - [譚一清](../Page/譚一清.md "wikilink") 飾 九　叔
-  - [鄭英龍](https://zh.wikipedia.org/wiki/鄭英龍 "wikilink") 飾 雄　頭
-  - [張宏偉](https://zh.wikipedia.org/wiki/張宏偉 "wikilink") 飾 華　B
-  - [伍文生](../Page/伍文生.md "wikilink") 飾 Ken
-  - [石　-{云}-](https://zh.wikipedia.org/wiki/石云 "wikilink") 飾 村　民
-  - [郭德信](../Page/郭德信.md "wikilink") 飾 鄧議員
-  - [黎秀英](https://zh.wikipedia.org/wiki/黎秀英 "wikilink") 飾 村　民
-  - [馮瑞珍](https://zh.wikipedia.org/wiki/馮瑞珍 "wikilink") 飾 圖書管理員
-  - [郭少芸](../Page/郭少芸.md "wikilink") 飾 脫星阿玲
-  - [陳寶玲](https://zh.wikipedia.org/wiki/陳寶玲 "wikilink") 飾 玲媬姆
-  - [何美好](https://zh.wikipedia.org/wiki/何美好 "wikilink") 飾 哥士的女友
-  - [梁雪湄](../Page/梁雪湄.md "wikilink") 飾 髮型屋櫃面
-  - [林嘉麗](https://zh.wikipedia.org/wiki/林嘉麗 "wikilink") 飾 阿Pet
-  - [張詩韻](https://zh.wikipedia.org/wiki/張詩韻 "wikilink") 飾 Stephen秘書
-  - [黃清榕](https://zh.wikipedia.org/wiki/黃清榕 "wikilink") 飾 女護士
-  - [梁詠琳](../Page/梁詠琳.md "wikilink") 飾 傅　婷（Teddy前女友）
-  - [鍾潔怡](https://zh.wikipedia.org/wiki/鍾潔怡 "wikilink") 飾 祖女友
-  - [劉超凡](https://zh.wikipedia.org/wiki/劉超凡 "wikilink") 飾 地產公司經理，與胡世傑有同性戀關係
-  - [陳燕航](https://zh.wikipedia.org/wiki/陳燕航 "wikilink") 飾 職員甲
-  - [劉鳳婷](https://zh.wikipedia.org/wiki/劉鳳婷 "wikilink") 飾 職員乙
-  - [朱孝儀](https://zh.wikipedia.org/wiki/朱孝儀 "wikilink") 飾 鑑証員
-  - [歐耀興](../Page/歐耀興.md "wikilink") 飾 Ray
-  - [朱樂輝](https://zh.wikipedia.org/wiki/朱樂輝 "wikilink") 飾 Patrick
-  - [廖麗麗](../Page/廖麗麗.md "wikilink") 飾 史夫人
-  - [何掌君](https://zh.wikipedia.org/wiki/何掌君 "wikilink") 飾 CID乙
-  - [陳彥行](../Page/陳彥行.md "wikilink") 飾 私鐘妹A
-  - [譚寶珊](https://zh.wikipedia.org/wiki/譚寶珊 "wikilink") 飾 私鐘妹B
-  - [黎　宣](../Page/黎宣.md "wikilink") 飾 盲　婆
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>關係/暱稱</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/黃天鐸.md" title="wikilink">黃天鐸</a></p></td>
+<td></td>
+<td><p>王明慧老闆</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/李桂英" title="wikilink">李桂英</a></p></td>
+<td><p>蘇嘉敏</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/陳狄克.md" title="wikilink">陳狄克</a></p></td>
+<td><p>胡　超</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/戴少民" title="wikilink">戴少民</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/陳詠文" title="wikilink">陳詠文</a></p></td>
+<td><p>囡　囡</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/溫文英" title="wikilink">溫文英</a></p></td>
+<td><p>CID/CID乙</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/湯俊明" title="wikilink">湯俊明</a></p></td>
+<td><p>CID/CID甲/便　衣</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/曾慧雲.md" title="wikilink">曾慧雲</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/樊亦敏.md" title="wikilink">樊亦敏</a></p></td>
+<td><p>樊燕珊</p></td>
+<td><p><br />
+林永泰前女友</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/林漪娸.md" title="wikilink">林漪娸</a></p></td>
+<td><p>余靖允</p></td>
+<td><p><br />
+律師<br />
+陳桂女友</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/河國榮.md" title="wikilink">河國榮</a></p></td>
+<td></td>
+<td><p>林仔<br />
+王明慧前男友</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡雲霞" title="wikilink">蔡雲霞</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/陳中堅" title="wikilink">陳中堅</a></p></td>
+<td><p>法　官</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/艾威.md" title="wikilink">艾　威</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/黃凱詩" title="wikilink">黃凱詩</a></p></td>
+<td><p>情侶甲</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/朱樂輝" title="wikilink">朱樂輝</a></p></td>
+<td><p>情侶乙</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/吳列華" title="wikilink">吳列華</a></p></td>
+<td><p>售貨員</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/蕭玉燕" title="wikilink">蕭玉燕</a></p></td>
+<td></td>
+<td><p>被扯火強姦，後來自殺</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/楊瑞麟.md" title="wikilink">楊瑞麟</a></p></td>
+<td><p>陳醫生</p></td>
+<td><p>樊燕珊之未婚夫</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/陳鳳冰.md" title="wikilink">陳鳳冰</a></p></td>
+<td><p>扯火姑媽</p></td>
+<td><p>被扯火槍殺</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/何潔珊" title="wikilink">何潔珊</a></p></td>
+<td></td>
+<td><p>模特兒</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/鄧麗雯" title="wikilink">鄧麗雯</a></p></td>
+<td></td>
+<td><p>模特兒</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/趙美裕" title="wikilink">趙美裕</a></p></td>
+<td></td>
+<td><p>模特兒</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/梁健平.md" title="wikilink">梁健平</a></p></td>
+<td><p>霍耀祖</p></td>
+<td><p><br />
+伍頌蓮前夫</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/楚原.md" title="wikilink">楚　原</a></p></td>
+<td><p>霍爵士</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/梁舜燕.md" title="wikilink">梁舜燕</a></p></td>
+<td><p>霍　太</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/鍾潔儀" title="wikilink">鍾潔儀</a></p></td>
+<td><p>鍾　莉</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡劍雪" title="wikilink">蔡劍雪</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/孫季卿.md" title="wikilink">孫季卿</a></p></td>
+<td><p>貴朋友</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/區嶽" title="wikilink">區　嶽</a></p></td>
+<td><p>貴朋友</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/何璧堅.md" title="wikilink">何璧堅</a></p></td>
+<td><p>貴朋友</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/朱偉達" title="wikilink">朱偉達</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/羅樂林.md" title="wikilink">羅樂林</a></p></td>
+<td><p>羅金勝</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/劉桂芳.md" title="wikilink">劉桂芳</a></p></td>
+<td><p>羅金勝妻</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/譚一清.md" title="wikilink">譚一清</a></p></td>
+<td><p>九　叔</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭英龍" title="wikilink">鄭英龍</a></p></td>
+<td><p>雄　頭</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/張宏偉" title="wikilink">張宏偉</a></p></td>
+<td><p>華　B</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/伍文生.md" title="wikilink">伍文生</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/石云" title="wikilink">石　-{云}-</a></p></td>
+<td><p>村　民</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/郭德信.md" title="wikilink">郭德信</a></p></td>
+<td><p>鄧議員</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/黎秀英" title="wikilink">黎秀英</a></p></td>
+<td><p>村　民</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/馮瑞珍" title="wikilink">馮瑞珍</a></p></td>
+<td><p>圖書管理員</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/郭少芸.md" title="wikilink">郭少芸</a></p></td>
+<td><p>脫星阿玲</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/陳寶玲" title="wikilink">陳寶玲</a></p></td>
+<td><p>玲媬姆</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/何美好" title="wikilink">何美好</a></p></td>
+<td><p>哥士的女友</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/梁雪湄.md" title="wikilink">梁雪湄</a></p></td>
+<td><p>髮型屋櫃面</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/林嘉麗" title="wikilink">林嘉麗</a></p></td>
+<td><p>阿</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/張詩韻" title="wikilink">張詩韻</a></p></td>
+<td><p>秘書</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/黃清榕" title="wikilink">黃清榕</a></p></td>
+<td><p>女護士</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/梁詠琳.md" title="wikilink">梁詠琳</a></p></td>
+<td><p>傅　婷</p></td>
+<td><p>前女友</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/鍾潔怡" title="wikilink">鍾潔怡</a></p></td>
+<td><p>祖女友</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/劉超凡" title="wikilink">劉超凡</a></p></td>
+<td><p>地產公司經理</p></td>
+<td><p>與胡世傑有同性戀關係</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/陳燕航" title="wikilink">陳燕航</a></p></td>
+<td><p>職員甲</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/劉鳳婷" title="wikilink">劉鳳婷</a></p></td>
+<td><p>職員乙</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/朱孝儀" title="wikilink">朱孝儀</a></p></td>
+<td><p>鑑証員</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/歐耀興.md" title="wikilink">歐耀興</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/朱樂輝" title="wikilink">朱樂輝</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/廖麗麗.md" title="wikilink">廖麗麗</a></p></td>
+<td><p>史夫人</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/何掌君" title="wikilink">何掌君</a></p></td>
+<td><p>CID乙</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/陳彥行.md" title="wikilink">陳彥行</a></p></td>
+<td><p>私鐘妹A</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/譚寶珊" title="wikilink">譚寶珊</a></p></td>
+<td><p>私鐘妹B</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/黎宣.md" title="wikilink">黎　宣</a></p></td>
+<td><p>盲　婆</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 首播集數
 
@@ -824,13 +1091,10 @@ Teddy<br />
 
 ## 重播
 
-此劇于1998年7月28日至1998年8月12日，2003年7月15日至2003年8月16日在翡翠台，2017年7月29日至2017年8月19日在TVB星河頻道（逢星期六“好戲連環看”時段）重播。
+此劇于1998年7月28日至1998年8月12日及2003年7月15日至2003年8月16日在翡翠台重播。
 
 ## 外部連結
 
-  - [無綫電視官方網頁（TVBI）- O記實錄](https://web.archive.org/web/20090917015527/http://tvcity.tvb.com/drama/criminal1/index.htm)
-  - [《O記實錄》 GOTV 第1集重溫](https://web.archive.org/web/20140222162640/http://gotv.tvb.com/programme/103226/153935/)
-
-## 電視節目的變遷
+  - [無綫電視官方網頁（TVBI） – O記實錄](https://web.archive.org/web/20090917015527/http://tvcity.tvb.com/drama/criminal1/index.htm)
 
 [Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink") [Category:1995年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:1995年無綫電視劇集 "wikilink") [Category:無綫電視1990年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視1990年代背景劇集 "wikilink") [Category:有組織罪案及三合會調查科題材電視劇](https://zh.wikipedia.org/wiki/Category:有組織罪案及三合會調查科題材電視劇 "wikilink")

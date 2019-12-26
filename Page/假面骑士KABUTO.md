@@ -1165,40 +1165,18 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
 </ul></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>2006/2/19</p></td>
 <td><p>2008/12/27</p></td>
 <td><p>2009/1/8</p></td>
 <td><p>4</p></td>
 <td><p>愛を説く</p></td>
 <td></td>
+<td><p>說明愛情</p></td>
 <td></td>
 <td><ul>
 <li>サナギ体</li>
 <li>ベルクリケタスワーム</li>
 </ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2006/2/26</p></td>
@@ -1207,12 +1185,12 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
 <td><p>5</p></td>
 <td><p>捕獲指令</p></td>
 <td></td>
+<td><p>捕獲指令</p></td>
 <td></td>
 <td><ul>
 <li>サナギ体</li>
 <li><a href="../Page/瓢蟲.md" title="wikilink">エビラクナワーム</a></li>
 </ul></td>
-<td><p>長石多可男</p></td>
 </tr>
 <tr class="odd">
 <td><p>2006/3/5</p></td>
@@ -1220,7 +1198,7 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
 <td><p>2009/1/12</p></td>
 <td><p>6</p></td>
 <td><p>オレ様の花</p></td>
-<td></td>
+<td><p>我的花朵</p></td>
 <td><ul>
 <li>サナギ体</li>
 <li><a href="../Page/跳蚤.md" title="wikilink">プレクスワーム</a></li>
@@ -1234,7 +1212,7 @@ Cast Off後轉至<strong>Rider Form</strong>。</p></td>
 <td><p>2009/1/13</p></td>
 <td><p>7</p></td>
 <td><p>2号新登場</p></td>
-<td></td>
+<td><p>2號新登場</p></td>
 <td><ul>
 <li>サナギ体</li>
 <li><a href="https://zh.wikipedia.org/wiki/鞭蛛" title="wikilink">ベルバーワーム</a></li>

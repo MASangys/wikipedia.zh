@@ -94,6 +94,6 @@ End Class
   - [XAML and Technical Authors](http://techwritetips.wordpress.com/2006/10/06/what-is-xaml-authorings-best-kept-secret/) A discussion of the affect of the open nature of XAML.
   - [XAML page on NetFXGuide.com](https://web.archive.org/web/20061126063128/http://www.netfxguide.com/guide/xaml.aspx) A selection of categorized resources on XAML.
   - [LearnWPF Website to learn WPX.](http://www.learnwpf.com/)
-  - [XAML Discussion Board](http://www.community-credit.com/cs/forums/49/ShowForum.aspx) - A great discussion board for questions on XAML and the WPF
+  - [XAML Discussion Board](https://web.archive.org/web/20061126164132/http://www.community-credit.com/cs/forums/49/ShowForum.aspx) - A great discussion board for questions on XAML and the WPF
 
 [Category:置标语言](https://zh.wikipedia.org/wiki/Category:置标语言 "wikilink") [Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink") [Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink")

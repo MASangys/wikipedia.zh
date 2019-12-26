@@ -2,11 +2,21 @@
 
 **Super Video CD**（简称**SVCD**，也称**超级VCD**）是一種在標準[CD](../Page/CD.md "wikilink")媒體上儲存視訊的格式。以技術能力和影像品質來說，它的水準在[VCD](../Page/VCD.md "wikilink")和[DVD之間](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
+## 開發史
+
+SVCD起初是在[中華人民共和國信息產業部的指導下](https://zh.wikipedia.org/wiki/中華人民共和國信息產業部 "wikilink")，由China Recording Standards Commmitee所開發的增強VCD格式的標準。它的動機之一是，中國需要獨立於DVD、不會受科技忠誠所影響的替代性格式。[中國政府擔心DVD格式被外國公司高度掌控](https://zh.wikipedia.org/wiki/中國政府 "wikilink")，因此迫切地開發可以在國內散佈而不受限制的格式。另外一個原因是預期SVCD的出現能夠降低成本，諸如中國國內的消費DVD 播放器和DVD授權費。
+
+SVCD有兩個競爭對象，分別是[C-Cube微系統開發的](https://zh.wikipedia.org/wiki/C-Cube "wikilink")**China Video Disc**（CVD）和飛利浦、Sony、[松下](https://zh.wikipedia.org/wiki/松下 "wikilink")、[JVC](../Page/JVC.md "wikilink")集團的[HQ-VCD](https://zh.wikipedia.org/wiki/HQ-VCD "wikilink")（VCD格式就是他們開發的）。CVD是最早出台的格式，其他兩方仍在草創階段時，它的規格書就已經完成。因此信息產業部和VCD集團同意合力開發，將HQ-VCD的功能整合入SVCD，但在1998年7月他們的規格書完成之時，CVD早已經被許多播放器的主力製造商所支援。為了維持相容性，CVD也被帶入SVCD的統一格式中，形成了Chaoji Video CD（規格書1998年11月），這與現存的SVCD幾乎完全相同。一台支援所謂SVCD的播放器，意味著它支援許多不同格式，包括SVCD、CVD、VCD 2.0、VCD 1.1 和[CDDA](../Page/CDDA.md "wikilink")碟片。
+
+SVCD已經於2000年7月15日加入[IEC標準](https://zh.wikipedia.org/wiki/IEC "wikilink")，即IEC 62107；這代表它如同CDDA或VCD一樣，成為國際認定的CD格式之一。飛利浦已經將SVCD字樣加入該公司的經典Compact Disc圖示中。SVCD格式的電影已經在[两岸三地和數個亞洲國家中販售](https://zh.wikipedia.org/wiki/两岸三地 "wikilink")，但在亞洲國家以外，是否成功則仍需商榷。在西方世界，SVCD通常是用來儲存從DVD或[LD上拷貝下來的家庭錄影或電影](https://zh.wikipedia.org/wiki/LD "wikilink")。
+
 ## 規格
 
 SVCD的解析度是DVD的三分之二，並且是VCD的2.7倍以上。一張標準的CD-R燒錄片可以容納60分鐘的一般品質SVCD視訊。因為在規格中並未限制SVCD的影片長度，假如要放入更長的影片，就必須降低[位元率](https://zh.wikipedia.org/wiki/位元率 "wikilink")，影像的品質也會因此而降低。要放入超過100分鐘的影片而沒有明顯品質的損失是非常困難的，況且許多硬體播放器也無法播放位元率低於300-600kbps的影像。
 
 ### 視訊
+
+[Comparison_disk_storage.svg](https://zh.wikipedia.org/wiki/File:Comparison_disk_storage.svg "fig:Comparison_disk_storage.svg")
 
   - [编解码器](../Page/编解码器.md "wikilink")：[MPEG-2](../Page/MPEG-2.md "wikilink")
   - [解析度](https://zh.wikipedia.org/wiki/解析度 "wikilink")：
@@ -19,11 +29,7 @@ SVCD的解析度是DVD的三分之二，並且是VCD的2.7倍以上。一張標�
   - [位元率](https://zh.wikipedia.org/wiki/位元率 "wikilink")：最高每秒2.6Mbps（2,600kbps）
       - 可使用[穩定位元率](https://zh.wikipedia.org/wiki/固定码率 "wikilink") (CBR) 或[可變位元率](https://zh.wikipedia.org/wiki/可变码率 "wikilink")（VBR）
 
-SVCD支援[隔行掃描的影像](https://zh.wikipedia.org/wiki/隔行掃描 "wikilink")，不過在楨率為23.976fps時則一定要使用[3:2 pulldown](https://zh.wikipedia.org/wiki/3:2_pulldown "wikilink")。
-
-不像其他種同樣以CD做儲存的視訊媒體，如China Video Disc和[VCD](../Page/VCD.md "wikilink")，SVCD因為解析度的緣故和DVD-Video並不相容。不過[HD DVD支援](../Page/HD_DVD.md "wikilink")480x480/576的解析度。
-
-视频与音频的总码率不得超过2756[kilobits](https://zh.wikipedia.org/wiki/kilobit "wikilink")。设置此速率上限的原因，在某种程度上是，确保与转速较慢但价格较便宜的“二倍速（2× speed）”CD驱动器的兼容性。
+SVCD支援[隔行掃描的影像](https://zh.wikipedia.org/wiki/隔行掃描 "wikilink")，不過在楨率為23.976fps時則一定要使用[3:2 pulldown](https://zh.wikipedia.org/wiki/3:2_pulldown "wikilink")。不像其他種同樣以CD做儲存的視訊媒體，如China Video Disc和[VCD](../Page/VCD.md "wikilink")，SVCD因為解析度的緣故和DVD-Video並不相容。不過[HD DVD支援](../Page/HD_DVD.md "wikilink")480x480/576的解析度。视频与音频的总码率不得超过2756[kilobits](https://zh.wikipedia.org/wiki/kilobit "wikilink")。设置此速率上限的原因，在某种程度上是，确保与转速较慢但价格较便宜的“二倍速（2× speed）”CD驱动器的兼容性。
 
 ### 音效
 
@@ -42,14 +48,6 @@ SVCD支援一些其他的功能，包括菜單、[超連結](https://zh.wikipedi
 ### 回放問題
 
 許多播放器呈現的SVCD影像天生就有缺陷，因為它的規格幾乎要違反了取樣理論。它的「三分之二」解析度幾乎很少透過完全的播放器內建電路來實現，理由是硬體播放器本身雖然支援許多不同格式（VCD、SVCD、DVD等等），它們的水平解析度並不相同（360、480、540、720像素），但卻只提供一個類比low pass濾鏡，也就是說三種格式中有兩種會產生[混疊](../Page/混疊.md "wikilink")失真（aliasing）。通常這個濾鏡以最好的畫質媒體做最佳化，所以DVD受惠而SVCD則因為 [foldover損失畫質](../Page/混疊.md "wikilink")。如果顯示不遵循正確的理論，這種令人不快的混疊失真，會使影像被來自其他地方的噪訊所埋沒，例如攝影機、量化和MPEG的瑕疵（artifact）。
-
-## 開發歷史
-
-SVCD起初是在[中華人民共和國信息產業部的指導下](https://zh.wikipedia.org/wiki/中華人民共和國信息產業部 "wikilink")，由China Recording Standards Commmitee所開發的增強VCD格式的標準。它的動機之一是，中國需要獨立於DVD、不會受科技忠誠所影響的替代性格式。[中國政府擔心DVD格式被外國公司高度掌控](https://zh.wikipedia.org/wiki/中國政府 "wikilink")，因此迫切地開發可以在國內散佈而不受限制的格式。另外一個原因是預期SVCD的出現能夠降低成本，諸如中國國內的消費DVD 播放器和DVD授權費。
-
-SVCD有兩個競爭對象，分別是[C-Cube微系統開發的](https://zh.wikipedia.org/wiki/C-Cube "wikilink")**China Video Disc**（CVD）和飛利浦、Sony、[松下](https://zh.wikipedia.org/wiki/松下 "wikilink")、[JVC](../Page/JVC.md "wikilink")集團的[HQ-VCD](https://zh.wikipedia.org/wiki/HQ-VCD "wikilink")（VCD格式就是他們開發的）。CVD是最早出台的格式，其他兩方仍在草創階段時，它的規格書就已經完成。因此信息產業部和VCD集團同意合力開發，將HQ-VCD的功能整合入SVCD，但在1998年7月他們的規格書完成之時，CVD早已經被許多播放器的主力製造商所支援。為了維持相容性，CVD也被帶入SVCD的統一格式中，形成了Chaoji Video CD（規格書1998年11月），這與現存的SVCD幾乎完全相同。一台支援所謂SVCD的播放器，意味著它支援許多不同格式，包括SVCD、CVD、VCD 2.0、VCD 1.1 和[CDDA](../Page/CDDA.md "wikilink")碟片。
-
-SVCD已經於2000年7月15日加入[IEC標準](https://zh.wikipedia.org/wiki/IEC "wikilink")，即IEC 62107；這代表它如同CDDA或VCD一樣，成為國際認定的CD格式之一。飛利浦已經將SVCD字樣加入該公司的經典Compact Disc圖示中。SVCD格式的電影已經在[两岸三地和數個亞洲國家中販售](https://zh.wikipedia.org/wiki/两岸三地 "wikilink")，但在亞洲國家以外，是否成功則仍需商榷。在西方世界，SVCD通常是用來儲存從DVD或[LD上拷貝下來的家庭錄影或電影](https://zh.wikipedia.org/wiki/LD "wikilink")。
 
 ## 參見
 

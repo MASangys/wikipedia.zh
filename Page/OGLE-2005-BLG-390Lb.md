@@ -43,9 +43,9 @@ PLANET小組花了連續兩星期，去深入觀測OGLE-2005-BLG-390L恆星的�
   - [Space.com的有關文章](http://www.space.com/scienceastronomy/060125_smallest_planet.html)
   - [PLANET - Probing Lensing Anomalies NETwork](http://planet.iap.fr)
   - [RoboNet](http://www.astro.livjm.ac.uk)
-  - [OGLE Collaboration](http://ogle.astrouw.edu.pl)
+  - [OGLE Collaboration](https://web.archive.org/web/20180909152528/http://ogle.astrouw.edu.pl./)
   - [MOA Collaboration](http://www.phys.canterbury.ac.nz/moa)
-  - [ESO新聞稿](http://www.eso.org/outreach/press-rel/pr-2006/pr-03-06.html)
+  - [ESO新聞稿](https://web.archive.org/web/20060217011028/http://www.eso.org/outreach/press-rel/pr-2006/pr-03-06.html)
   - [BBC新聞](http://news.bbc.co.uk/2/hi/science/nature/4647142.stm)
   - [Notes for Planet OGLE-05-390L b (Extrasolar Planets Encyclopaedia)](https://web.archive.org/web/20061117154916/http://vo.obspm.fr/exoplanetes/encyclo/planet.php?p1=OGLE-05-390L&p2=b)
 

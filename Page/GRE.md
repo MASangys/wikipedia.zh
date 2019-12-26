@@ -214,91 +214,49 @@ ETS公布了一份报告("What is the Value of the GRE?")，包含了GRE在研�
 [Category:美国考试](https://zh.wikipedia.org/wiki/Category:美国考试 "wikilink")
 
 1.  [*GRE Registration and Information Bulletin*](http://www.ets.org/Media/Tests/GRE/pdf/gre_0910_online_bulletin.pdf)
-
 2.  <http://www.questia.com/googleScholar.qst;jsessionid=L7CZ9n7TH1wtX2NDndzLxl9rQ6HFLLNDrKj2595y7hTz6NzKnCTX!289183844?docId=5006090031> Alternative Admissions and Scholarship Selection Measures in Higher Education.\]
-
 3.  MBA Channel: ["GRE:Wharton joins the club"](http://www.mba-channel.com/channel/article/gre-wharton/) 31 July 2009
-
 4.  <http://www.ets.org/portal/site/ets/menuitem.1488512ecfd5b8849a77b13bc3921509/?vgnextoid=0a51d2b54c0c5010VgnVCM10000022f95190RCRD&vgnextchannel=6236e3b5f64f4010VgnVCM10000022f95190RCRD#Computer_Based_General_Test_Content_and_Structure> GRE Test Content\]
-
 5.  [GRE Revised Analytical Writing](http://www.ets.org/gre/revised_general/prepare/analytical_writing)
-
 6.  [The Pool of Issue Topics](http://www.ets.org/gre/general/prepare/sample_questions/analytical/issues/)
-
 7.
-
 8.
 9.  [The Pool of Argument Topics](http://www.ets.org/gre/general/prepare/sample_questions/analytical/argument/)
-
 10.
-
 11.
 12.
 13.
-
 14. [GRE Test Content](http://www.ets.org/gre/general/about/content/)
-
 15. <http://www.ets.org/gre/revised_general/scores/>
-
 16. <https://www.ets.org/gre/revised_general/about/scoreselect>
-
 17. www.ets.org/s/gre/pdf/gre_guide.pdf
-
 18. <http://www.ets.org/s/gre/pdf/concordance_information.pdf>
-
 19. <http://www.ets.org/s/gre/pdf/gre_guide.pdf> Guide to the Use of Scores 2011–2012
-
 20.
-
 21.
-
 22. ["Application Requirements: The Wharton MBA Program"](http://www.wharton.upenn.edu/mba/admissions/application-requirements.cfm#a6)  9 May 2013
-
 23. ["MIT Sloan Application Instructions"](http://mitsloan.mit.edu/mba/admissions/apply-here/instructions/?admissions/applicationinstructions.php)  9 May 2013
-
 24. ["Columbia Business School MBA Program Application Requirements"](https://www4.gsb.columbia.edu/mba/admissions/applynow/apprequirements#GMAT)  9 May 2013
-
 25.
-
 26.
-
 27.
-
 28.
-
 29. The Achievement Gap: Test Bias or School Structures? National Association of Test Directors 2004 Symposia
-
 30.
-
 31.
-
 32.
-
 33.
 34. Kaplan, R. M. & Saccuzzo, D. P. (2009). Psychological testing: Principles, applications, and issues. Belmont, CA:Wadsworth
-
 35. <http://www.princetonreview.com/grad/testprep/testprep.asp?TPRPAGE=880&TYPE=GRE> Comparison Chart of GRE Changes\]
-
 36. [Plans for the Revised GRE Cancelled](http://www.ets.org/portal/site/ets/menuitem.c988ba0e5dd572bada20bc47c3921509/?vgnextoid=e9e8b524b40b1110VgnVCM10000022f95190RCRD&vgnextchannel=dd2d253b164f4010VgnVCM10000022f95190RCRD)
-
 37. [GRE General Test to Include New Question Types in November](http://www.ets.org/portal/site/ets/menuitem.c988ba0e5dd572bada20bc47c3921509/?vgnextoid=8fc9a1d64ffd3110VgnVCM10000022f95190RCRD&vgnextchannel=bf8146f1674f4010VgnVCM10000022f95190RCRD)
-
 38.
-
 39. [Revised General Test](http://www.nytimes.com/2009/12/06/education/06gre.html)
-
 40. [A New Look for Graduate Entrance Test](http://www.ets.org/gre/revised_general_institutions/)
-
 41.
-
 42. [Revised GRE FAQs](http://www.ets.org/gre/revised_general/faq/)
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.

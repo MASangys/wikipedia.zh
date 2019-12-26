@@ -91,15 +91,10 @@ VR快打5有兩個新角色，第一個角色愛琳是一個年輕女孩，她�
 [Category:世嘉遊戲](https://zh.wikipedia.org/wiki/Category:世嘉遊戲 "wikilink") [Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink") [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
-
 7.
-
 8.  [你能够在《如龙6》里玩到《VR战士5 最终决战》了](http://www.vgtime.com/topic/8879.jhtml).游戏时光.2016-09-07.\[2017-09-21\].

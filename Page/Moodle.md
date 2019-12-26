@@ -47,7 +47,7 @@ Moodle 的名字源於英文簡寫 **，即[模組化](https://zh.wikipedia.org/
 ### 非官方Moodle資源
 
   - [Moodle中文加油站（Moodle Support in Taiwan）](https://web.archive.org/web/20140214040045/http://moodle.tw/moodle/)—Moodle的正體中文化、教育訓練課程、教學研究與技術支援服務。
-  - [易魔灯（Easymoodle）](http://www.emoodle.org/)—Moodle简体中文化网站、致力于Moodle主程序及其插件模块的简体中文化，并提供Windows平台下的一体化安装使用程序EasyMoodle。
+  - [易魔灯（Easymoodle）](https://web.archive.org/web/20080901205156/http://www.emoodle.org/)—Moodle简体中文化网站、致力于Moodle主程序及其插件模块的简体中文化，并提供Windows平台下的一体化安装使用程序EasyMoodle。
   - [魔灯中国（CMOODLE）](http://cm2.cmoodle.cn/)—Moodle简体中文体验平台。
   - [爱班moodle](https://archive.is/20130426170514/http://www.iclass.com/)-Moodle简体校内平台。
   - [The Hungarian Moodle Community](http://moodlemoot.hu/)

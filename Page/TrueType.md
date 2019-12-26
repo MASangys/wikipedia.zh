@@ -24,7 +24,7 @@
 
 ### 微软
 
-1991年微软把TrueType加入[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 3.1[操作系统](../Page/操作系统.md "wikilink")。在与[Monotype公司合作下](https://zh.wikipedia.org/wiki/Monotype "wikilink")，微软花了大力气制作了一批高品质TrueType字体，并使其可以与当时PostScript设备捆绑的核心字体兼容。其中包括了目前视窗系统的一些著名字体：[Times New Roman体](../Page/Times_New_Roman.md "wikilink")（与Times Roman兼容）, [Arial](../Page/Arial.md "wikilink")体（与[Helvetica](../Page/Helvetica.md "wikilink")体兼容）和Courier New体（与Courier体兼容）。
+1991年微软把TrueType加入[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 3.1[操作系统](../Page/操作系统.md "wikilink")。在与[Monotype公司合作下](https://zh.wikipedia.org/wiki/Monotype "wikilink")，微软花了大力气制作了一批高品质TrueType字体，并使其可以与当时PostScript设备捆绑的核心字体兼容。其中包括了目前[Windows系统的一些著名字体](https://zh.wikipedia.org/wiki/Windows "wikilink")：[Times New Roman体](../Page/Times_New_Roman.md "wikilink")（与Times Roman兼容）, [Arial](../Page/Arial.md "wikilink")体（与[Helvetica](../Page/Helvetica.md "wikilink")体兼容）和Courier New体（与Courier体兼容）。
 
 请注意，所谓“兼容”意味着两层含义：第一，相兼容字体外观非常相似；第二，也是很重要的，字体含有同样的字符宽度，以便可以用来替代相同文档的内容而不需要重新排版调整。对于字体名称的变化，除了Arial和Helvetica体；导致有人认为产生一个问题：每当一个特定的Windows字体命名之后，必须决定一个与其相当的苹果或PostScript字体，反之亦然。尽管如此，虽然字体中字符轮廓数据本身不一样，风格和字型被做的很相似，导致一般用户很难区别开来。
 

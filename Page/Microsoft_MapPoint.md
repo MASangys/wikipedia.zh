@@ -13,7 +13,7 @@ MapPoint技術用在：
       - [Encarta](../Page/Encarta.md "wikilink")[百科全書](https://zh.wikipedia.org/wiki/百科全書 "wikilink")
   - 網路為基礎的服務：
       - [MapPoint Web服務](http://www.microsoft.com/mappoint/products/webservice)
-      - 微軟地圖網站[mappoint.msn.com](http://mappoint.msn.com)
+      - 微軟地圖網站[mappoint.msn.com](https://web.archive.org/web/20080821110658/http://mappoint.msn.com/)
       - [MSN](../Page/MSN.md "wikilink")為本的[Virtual Earth](https://zh.wikipedia.org/wiki/Virtual_Earth "wikilink")[虛擬地球儀服務](https://zh.wikipedia.org/wiki/虛擬地球儀 "wikilink")
 
 微軟MapPoint每年更新。最新版本為MapPoint 2010。該軟體支援三個平台：Pocket PC, [SmartPhone](../Page/Windows_Mobile.md "wikilink")，Windows。

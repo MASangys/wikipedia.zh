@@ -279,7 +279,7 @@
 | 光月優         | [鈴木琢磨](../Page/鈴木琢磨.md "wikilink")                    | [雷霆](../Page/雷霆.md "wikilink")                                                           | [于正昇](../Page/于正昇.md "wikilink")                    |
 | 光月未來        | [皆口裕子](../Page/皆口裕子.md "wikilink")                    | [沈小蘭](../Page/沈小蘭.md "wikilink")                                                         | [楊凱凱](../Page/楊凱凱.md "wikilink")                    |
 | 夜星星矢        | [真田麻美](../Page/真田麻美.md "wikilink")                    | [蔡惠萍](../Page/蔡惠萍.md "wikilink")                                                         | [楊凱凱](../Page/楊凱凱.md "wikilink")                    |
-| 夜星流         | [野田順子](https://zh.wikipedia.org/wiki/野田順子 "wikilink") | [陸惠玲](../Page/陸惠玲.md "wikilink")                                                         | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |
+| 夜星流         | [野田順子](../Page/野田順子.md "wikilink")                    | [陸惠玲](../Page/陸惠玲.md "wikilink")                                                         | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |
 | 花小町克莉絲汀／姬絲汀 | [池澤春菜](../Page/池澤春菜.md "wikilink")                    | [林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")／[盧素娟](../Page/盧素娟.md "wikilink")（代配） | [楊凱凱](../Page/楊凱凱.md "wikilink")                    |
 | 花小町桃香       | [西村千奈美](../Page/西村千奈美.md "wikilink")                  | [陳凱婷](../Page/陳凱婷.md "wikilink")                                                         | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") |
 | 山川蜜柑        | [金井美香](../Page/金井美香.md "wikilink")                    | [黃鳳英](../Page/黃鳳英.md "wikilink")                                                         | [楊凱凱](../Page/楊凱凱.md "wikilink")                    |

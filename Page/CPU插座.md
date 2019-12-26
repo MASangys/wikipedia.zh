@@ -27,7 +27,7 @@
 <tr class="odd">
 <td><p><a href="../Page/雙列直插封裝.md" title="wikilink">DIP</a></p></td>
 <td><p>1970s</p></td>
-<td><p>仍然使用</p></td>
+<td><p>？</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Intel" title="wikilink">Intel</a> <a href="https://zh.wikipedia.org/wiki/8086" title="wikilink">8086</a><br />
 <a href="https://zh.wikipedia.org/wiki/Intel" title="wikilink">Intel</a> <a href="https://zh.wikipedia.org/wiki/8088" title="wikilink">8088</a></p></td>
 <td></td>
@@ -40,7 +40,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Plastic_leaded_chip_carrier" title="wikilink">PLCC</a></p></td>
 <td><p>?</p></td>
-<td><p>仍在使用</p></td>
+<td><p>？</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Intel" title="wikilink">Intel</a> <a href="https://zh.wikipedia.org/wiki/80186" title="wikilink">80186</a><br />
 <a href="https://zh.wikipedia.org/wiki/Intel" title="wikilink">Intel</a> <a href="https://zh.wikipedia.org/wiki/80286" title="wikilink">80286</a><br />
 <a href="https://zh.wikipedia.org/wiki/Intel" title="wikilink">Intel</a> <a href="https://zh.wikipedia.org/wiki/80386" title="wikilink">80386</a></p></td>
@@ -682,7 +682,7 @@ Intel <a href="https://zh.wikipedia.org/wiki/Broadwell" title="wikilink">Broadwe
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
 <td><p>2015</p></td>
-<td><p>?</p></td>
+<td><p>現在還在使用</p></td>
 <td><p>Intel <a href="../Page/Skylake微架構.md" title="wikilink">Skylake微架構</a>及<a href="https://zh.wikipedia.org/wiki/Kaby_Lake" title="wikilink">Kaby Lake微架構</a></p></td>
 <td><p>Desktop</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Land_grid_array" title="wikilink">LGA</a></p></td>
@@ -694,7 +694,7 @@ Intel <a href="https://zh.wikipedia.org/wiki/Broadwell" title="wikilink">Broadwe
 <tr class="even">
 <td><p>LGA 3647</p></td>
 <td><p>2016</p></td>
-<td><p>?</p></td>
+<td><p>現在還在使用</p></td>
 <td><p>Intel <a href="https://zh.wikipedia.org/wiki/Knights_Landing" title="wikilink">Knights Landing及</a><a href="https://zh.wikipedia.org/wiki/Skylake-EX/EP" title="wikilink">Skylake-EX/EP微架構</a></p></td>
 <td><p>Server</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/LGA" title="wikilink">LGA</a></p></td>
@@ -706,7 +706,8 @@ Intel <a href="https://zh.wikipedia.org/wiki/Broadwell" title="wikilink">Broadwe
 <tr class="odd">
 <td><p><a href="../Page/Socket_AM4.md" title="wikilink">Socket AM4</a></p></td>
 <td><p>2017</p></td>
-<td><p>?</p></td>
+<td><p>現在 還在</p>
+<p>使用</p></td>
 <td><p><a href="../Page/AMD_Ryzen.md" title="wikilink">AMD Ryzen</a><br />
 以及 <a href="../Page/AMD_Athlon.md" title="wikilink">Athlon</a></p></td>
 <td><p>Desktop</p></td>
@@ -719,7 +720,7 @@ Intel <a href="https://zh.wikipedia.org/wiki/Broadwell" title="wikilink">Broadwe
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Socket_R4" title="wikilink">Socket R4</a></p></td>
 <td><p>2017</p></td>
-<td><p>?</p></td>
+<td><p>現在還在使用</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Intel_Skylake-X" title="wikilink">Intel Skylake-X</a><br />
 <a href="https://zh.wikipedia.org/wiki/Intel_Kaby_Lake-X" title="wikilink">Intel Kaby Lake-X</a></p></td>
 <td><p>Desktop</p></td>
@@ -732,7 +733,8 @@ Intel <a href="https://zh.wikipedia.org/wiki/Broadwell" title="wikilink">Broadwe
 <tr class="odd">
 <td><p><a href="../Page/Socket_TR4.md" title="wikilink">Socket TR4</a></p></td>
 <td><p>2017</p></td>
-<td><p>?</p></td>
+<td><p>現在 還在</p>
+<p>使用</p></td>
 <td><p>AMD <a href="../Page/AMD_Ryzen.md" title="wikilink">Ryzen Threadripper</a></p></td>
 <td><p>Desktop</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/LGA" title="wikilink">LGA</a></p></td>
@@ -778,15 +780,9 @@ Intel <a href="https://zh.wikipedia.org/wiki/Broadwell" title="wikilink">Broadwe
 [Category:CPU插座](https://zh.wikipedia.org/wiki/Category:CPU插座 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.

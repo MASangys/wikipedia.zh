@@ -395,7 +395,7 @@ That Time On The Ledge</p></td>
   - 1996年演唱丹麥電視影集《Take Off》之主題曲{{〈}}Are You Ready?{{〉}}（由*Henrik Lund*作詞作曲）。
   - 1998年演唱丹麥電音團體*Puddu Varano*\[[http://www.pudduvarano.dk/\]專輯《Freakuency》中](http://www.pudduvarano.dk/%5D專輯《Freakuency》中){{〈}}Day Without Sun{{〉}}一曲，並發行混音單曲。
   - 2001年演唱丹麥電音團體*Future 3*\[[http://www.systemf3.com/\]專輯《Like](http://www.systemf3.com/%5D專輯《Like)...》中{{〈}}Do/Don't{{〉}}及{{〈}}A Sound{{〉}}二曲。
-  - 2002年與丹麥搖滾樂團*Junior Senior*\[[http://www.juniorsenior.com/\]之吉他兼主唱](http://www.juniorsenior.com/%5D之吉他兼主唱)*Jesper 'Junior' Mortensen*，共同擔任丹麥搖滾樂團*Superheroes*[12](https://web.archive.org/web/20051025091956/http://www.superheroes.dk/)\[[http://www.myspace.com/thomastroelsen\]同名專輯《Superheroes》中](http://www.myspace.com/thomastroelsen%5D同名專輯《Superheroes》中){{〈}}Tomorrow{{〉}}一曲的合音。
+  - 2002年與丹麥搖滾樂團*Junior Senior*\[[https://web.archive.org/web/20080210040358/http://www.juniorsenior.com/\]之吉他兼主唱](https://web.archive.org/web/20080210040358/http://www.juniorsenior.com/%5D之吉他兼主唱)*Jesper 'Junior' Mortensen*，共同擔任丹麥搖滾樂團*Superheroes*[12](https://web.archive.org/web/20051025091956/http://www.superheroes.dk/)\[[http://www.myspace.com/thomastroelsen\]同名專輯《Superheroes》中](http://www.myspace.com/thomastroelsen%5D同名專輯《Superheroes》中){{〈}}Tomorrow{{〉}}一曲的合音。
 
 ##### 音樂
 

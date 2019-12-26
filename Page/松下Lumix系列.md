@@ -211,7 +211,7 @@
 
   - [Panasonic Lumix Club (Hong Kong)](http://www.panasonic.hk/lumixclub/)
 
-  - [Panasonic Lumix Taiwan](http://www.lumix.com.tw/)
+  - [Panasonic Lumix Taiwan](https://web.archive.org/web/20130925004136/http://www.lumix.com.tw/)
 
   - [Panasonic Lumix China](http://home.panasonic.cn/lumix/)
 

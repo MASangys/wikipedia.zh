@@ -115,7 +115,7 @@ LONGREP\[n\]包删除了对距离的直接表示，而是使用包序列最近�
   - [LZMA SDK](http://www.7-zip.org/sdk.html)
   - [p7zip Unix port of command-line utilities](http://sourceforge.net/projects/p7zip/)
   - [PyLZMA Python Wrapper](http://www.joachim-bauch.de/projects/python/pylzma)
-  - [Nullsoft Installer uses LZMA](http://nsis.sourceforge.net/)
+  - [Nullsoft Installer uses LZMA](https://web.archive.org/web/20080516065536/http://nsis.sourceforge.net/)
   - [Inno Setup supports LZMA](http://www.jrsoftware.org/isinfo.php)
   - [Compress home page](https://web.archive.org/web/20060903100509/http://www.fromconcentratesoftware.com/Compress/)
   - [LZMA support for cramfs filesystem](http://babel.ls.fi.upm.es/~aacosta/twiki/bin/view/Projects/CramfsPatches)（dead）

@@ -743,34 +743,20 @@ Version 2.4 of the specification prescribes that all text fields (the fields tha
 [Category:元数据标准](https://zh.wikipedia.org/wiki/Category:元数据标准 "wikilink") [Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink")
 
 1.  [Practical Common Lisp](https://books.google.com/books?id=Bby4FJy49QUC&pg=PA335), p. 335.
-
 2.
 3.  關於ID3v1在[Python](../Page/Python.md "wikilink")中的應用，請看[Dive Into Python, Chapter 5. Objects and Object-Orientation](http://www.diveintopython.net/object_oriented_framework/index.html)
-
 4.  曲目會儲存在評論區的最後兩個位元組中。如果評論有29或30個字元那麼長，就無法儲存曲目。
-
 5.
 6.
 7.  「Primus」是單一樂團而非藝術類型，而「Negerpunk」似乎是瑞典的種族歧視笑話
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.

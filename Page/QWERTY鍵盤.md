@@ -4,7 +4,7 @@
 
 ### 概說
 
-使用QWERTY排列的[打字机在](https://zh.wikipedia.org/wiki/打字机 "wikilink")1874年投入批量生产。從此成為应用最广泛的人机接口，大部分的-{zh-hans:计算机; zh-hant:電腦;}-都是使用QWERTY键盘。\[2\]
+使用QWERTY排列的[打字机在](https://zh.wikipedia.org/wiki/打字机 "wikilink")1874年開始大量生產，從此成為应用最广泛的人机接口。目前大部分的-{zh-hans:计算机; zh-hant:電腦;}-都是使用QWERTY键盘。\[2\]
 
 QWERTY鍵盤安排次序的原則，是减少打字機在打字時連動杆之間的擠壓及故障發生率的狀況，因而要把常用字母隔開（不過像“E”、“R”就在一起）。其他種類的鍵盤，如1932年[奧古斯特·德沃夏克發明的](https://zh.wikipedia.org/wiki/奧古斯特·德沃夏克 "wikilink")[德沃夏克鍵盤](../Page/德沃夏克鍵盤.md "wikilink")，為希望在已經不需要避免連動杆的擠壓後，重新排列鍵位以提高打字速度，因此把[元音](../Page/元音.md "wikilink")及5個最常用的[輔音安排在中間一行](https://zh.wikipedia.org/wiki/輔音 "wikilink")，以便交換左右手打字的頻率，同時也有設計左手或右手為重的鍵位。但是因故無法量產，以至於[德沃夏克鍵盤](../Page/德沃夏克鍵盤.md "wikilink")鍵盤的普及程度不如QWERTY鍵盤。
 
@@ -26,9 +26,9 @@ QWERTY鍵盤安排次序的原則，是减少打字機在打字時連動杆之�
 ## 外部連結
 
   - [Article on QWERTY and Path Dependence from EH.NET's Encyclopedia](https://web.archive.org/web/20060113120201/http://www.eh.net/encyclopedia/article/puffert.path.dependence)
-  - [QWERTY Keyboard History](http://www.ideafinder.com/history/inventions/qwerty.htm)
+  - [QWERTY Keyboard History](https://web.archive.org/web/20080527223912/http://www.ideafinder.com/history/inventions/qwerty.htm)
   - [QWERTY Keyboard in Mobiles](https://web.archive.org/web/20110708055946/http://www.bakwaash.com/2011/07/05/mobile-phone-termonologies/)
-  - [Android phones with QWERTY keyboards](http://merelinc.com/art-and-design/qwerty-android-phones-amazing-buttons/)
+  - [Android phones with QWERTY keyboards](https://web.archive.org/web/20160502220014/http://merelinc.com/art-and-design/qwerty-android-phones-amazing-buttons)
 
 [it:Tastiera (informatica)\#QWERTY](https://zh.wikipedia.org/wiki/it:Tastiera_\(informatica\)#QWERTY "wikilink")
 

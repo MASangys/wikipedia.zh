@@ -28,39 +28,39 @@
 
 [HugoWeavingMay2011.jpg](https://zh.wikipedia.org/wiki/File:HugoWeavingMay2011.jpg "fig:HugoWeavingMay2011.jpg")\]\]
 
-  - [雨果·威明饰演](https://zh.wikipedia.org/wiki/雨果·威明 "wikilink")[V](../Page/V_\(漫畫人物\).md "wikilink")，一名具有獨特魅力與高超武術的自由鬥士，是[北方之火](../Page/北方之火.md "wikilink")為了進行活體實驗而找來的實驗體之一，計畫透過恐怖襲擊點燃革命，進而推翻當時掌權的[極權政府](../Page/極權主義.md "wikilink")。原先飾演V一角的演員為[詹姆斯·鮑弗](https://zh.wikipedia.org/wiki/詹姆斯·鮑弗 "wikilink")，但他在電影开拍后六個星期便离开了剧组，理由是他無法忍受在整部電影中都戴着面具\[2\]。取而代之的是曾在[《駭客任務》系列與乔](https://zh.wikipedia.org/wiki/駭客任務系列 "wikilink")·西佛和沃卓斯基姐妹合作過的雨果·威明。不过，在最终的電影中仍含有幾個由詹姆斯·鮑弗飾演V的镜头，只不过[配音](../Page/配音.md "wikilink")的部分依然由雨果·威明負責\[3\]。
+  - [雨果·威明饰演](https://zh.wikipedia.org/wiki/雨果·威明 "wikilink")[V](../Page/V_\(漫畫人物\).md "wikilink")，一名具有獨特魅力與高超武術的自由鬥士，戴著[盖伊·福克斯面具](https://zh.wikipedia.org/wiki/盖伊·福克斯面具 "wikilink")，是[北方之火](../Page/北方之火.md "wikilink")為了進行活體實驗而找來的實驗體之一，計畫透過恐怖襲擊點燃革命，進而推翻當時掌權的[極權政府](../Page/極權主義.md "wikilink")。原先飾演V一角的演員為[詹姆斯·鮑弗](https://zh.wikipedia.org/wiki/詹姆斯·鮑弗 "wikilink")，但他在電影开拍后六個星期便离开了剧组，理由是他無法忍受在整部電影中都戴着面具\[2\]。取而代之的是曾在[《駭客任務》系列與](https://zh.wikipedia.org/wiki/駭客任務系列 "wikilink")[乔·西佛和](https://zh.wikipedia.org/wiki/乔·西佛 "wikilink")[沃卓斯基姐妹](../Page/沃卓斯基姐妹.md "wikilink")合作過的雨果·威明。不过，在最终的電影中仍含有幾個由詹姆斯·鮑弗飾演V的镜头，只不过[配音](../Page/配音.md "wikilink")的部分依然由雨果·威明負責。\[3\]對於V這個角色，威明在受訪時表示，「他是個非常瀟灑、魅力十足又浪漫的人物，但他也有扭曲、受過創傷的一面。V終究只是個概念，稱不上一個真正的人」\[4\]。
 
 <!-- end list -->
 
-  - [娜塔莉·波曼饰演](https://zh.wikipedia.org/wiki/娜塔莉·波曼 "wikilink")[艾薇·哈蒙德](../Page/艾薇·哈蒙德.md "wikilink")，一名年輕的勞工階級女子，在一次違反宵禁外出時被V所救，進而與他相識，且在之後加入了V的計畫。导演詹姆斯·麦克特格與她的第一次合作是在電影《[星際大戰二部曲：複製人全面進攻](../Page/星際大戰二部曲：複製人全面進攻.md "wikilink")》（2002年），當時麦克特格是該片的助理导演，並對她的演技有很好的評價\[4\]。在波曼被選上之前，其他候選演員還包含[布莱斯·达拉斯·霍华德](../Page/布莱斯·达拉斯·霍华德.md "wikilink")、[史嘉蕾·喬韓森](../Page/史嘉蕾·喬韓森.md "wikilink")及[綺拉·奈特莉等人](https://zh.wikipedia.org/wiki/綺拉·奈特莉 "wikilink")\[5\]。为了能更加完美的饰演該角色，她特地向[方言学家芭芭拉](https://zh.wikipedia.org/wiki/方言學 "wikilink")·伯克里求教，以锻炼出一口如角色本人一般的標準英格兰口音英语，並研究了[梅纳赫姆·贝京](../Page/梅纳赫姆·贝京.md "wikilink")的自傳及《》（2002年）等电影\[6\]。她在該片中的角色和她在自己的成名作《[这个杀手不太冷](https://zh.wikipedia.org/wiki/这个杀手不太冷 "wikilink")》（1994年）中飾演的女主角玛蒂尔达·兰多（）有颇多共同點\[7\]。波曼表示，「艾薇和V之间关系的复杂程度可媲美《这个杀手不太冷》中玛蒂尔德和莱昂（）的关系」\[8\]。
+  - [娜塔莉·波曼饰演](https://zh.wikipedia.org/wiki/娜塔莉·波曼 "wikilink")[艾薇·哈蒙德](../Page/艾薇·哈蒙德.md "wikilink")，一名年輕的勞工階級女子，在一次違反宵禁外出時被V所救，進而與他相識，且在之後加入了V的計畫。导演[詹姆斯·麦克特格](../Page/詹姆斯·麦克特格.md "wikilink")與她的第一次合作是在電影《[星際大戰二部曲：複製人全面進攻](../Page/星際大戰二部曲：複製人全面進攻.md "wikilink")》（2002年），當時麦克特格是該片的助理导演，並對她的演技有很好的評價\[5\]。在波曼被選上之前，其他候選演員還包含[布莱斯·达拉斯·霍华德](../Page/布莱斯·达拉斯·霍华德.md "wikilink")、[史嘉蕾·喬韓森](../Page/史嘉蕾·喬韓森.md "wikilink")及[綺拉·奈特莉等人](https://zh.wikipedia.org/wiki/綺拉·奈特莉 "wikilink")\[6\]。拍片過程中，波曼親自演出劇中剃光頭的戲碼，真的剪去了一頭秀髮\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]，對此她在受訪時表示，「這是我早就想要卻又不太敢嘗試的造型，所以在片中落髮的時候，我還是哭得很難過」\[13\]。另外，她也特地向[方言学家芭芭拉](https://zh.wikipedia.org/wiki/方言學 "wikilink")·伯克里（）求教，以锻炼出一口如角色本人一般的標準英格兰口音英语，同時亦研究了[梅纳赫姆·贝京](../Page/梅纳赫姆·贝京.md "wikilink")的自傳及《》（2002年）等电影\[14\]。波曼認為，艾薇和她在《[这个杀手不太冷](https://zh.wikipedia.org/wiki/这个杀手不太冷 "wikilink")》（1994年）中飾演的女主角玛蒂尔达·兰多（）有共同點：「艾薇和V之间关系的复杂程度，可媲美《这个杀手不太冷》中玛蒂尔德和莱昂（）的关系」\[15\]。
 
 <!-- end list -->
 
-  - 饰演艾瑞克·芬奇，新蘇格蘭場和調查部門「The Nose」的部長，負責調查V的案件，並在调查过程中不自觉的揭开了政府的罪恶黑幕。现实生活中的雷对于政治和[恐怖主义](../Page/恐怖主义.md "wikilink")也并不陌生。他的前妻曾是[爱尔兰共和军](../Page/爱尔兰共和军.md "wikilink")临时派的成员，还曾因为企图炸毁[老贝利而入狱](https://zh.wikipedia.org/wiki/老贝利 "wikilink")。当被问及是否是因該片中的政治内容才前来参演電影时，雷回答说，「我认为如果这些只是漫画裡的事情，那也没什么有趣的。電影中的政治内容不过是故事的一个背景和线索罢了。当然我对政治也挺感兴趣。难道这有什么不可以吗？」\[9\]
+  - 饰演艾瑞克·芬奇，新蘇格蘭場和調查部門「The Nose」的部長，負責調查V的案件，並在调查过程中不自觉的揭开了政府的罪恶黑幕。现实生活中的雷对于政治和[恐怖主义](../Page/恐怖主义.md "wikilink")也并不陌生。他的前妻曾是[爱尔兰共和军](../Page/爱尔兰共和军.md "wikilink")临时派的成员，还曾因为企图炸毁[老贝利而入狱](https://zh.wikipedia.org/wiki/老贝利 "wikilink")。当被问及是否是因該片中的政治内容才前来参演電影时，雷回答说，「我认为如果这些只是漫画裡的事情，那也没什么有趣的。電影中的政治内容不过是故事的一个背景和线索罢了。当然我对政治也挺感兴趣。难道这有什么不可以吗？」\[16\]
 
 <!-- end list -->
 
-  - [约翰·赫特饰演](https://zh.wikipedia.org/wiki/约翰·赫特 "wikilink")，前[保守党籍](https://zh.wikipedia.org/wiki/英国保守党 "wikilink")[下議院議員及](../Page/英国下议院.md "wikilink")[国防次官](https://zh.wikipedia.org/wiki/英国国防部 "wikilink")。亚当·蘇特勒在创建北方之火后，透过一系列的阴谋成为整个英国事实上的独裁者。赫特多年前还曾出演另一部反極權主義电影——根據[乔治·奥威尔](../Page/乔治·奥威尔.md "wikilink")所著小說《[1984](../Page/一九八四.md "wikilink")》改編的[同名1984年電影](https://zh.wikipedia.org/wiki/一九八四_\(1984年電影\) "wikilink")，飾演主人翁[温斯顿·史密斯](../Page/温斯顿·史密斯.md "wikilink")\[10\]。
+  - [约翰·赫特饰演](https://zh.wikipedia.org/wiki/约翰·赫特 "wikilink")，前[保守党籍](https://zh.wikipedia.org/wiki/英国保守党 "wikilink")[下議院議員及](../Page/英国下议院.md "wikilink")[国防次官](https://zh.wikipedia.org/wiki/英国国防部 "wikilink")。亚当·蘇特勒在创建北方之火后，透过一系列的阴谋成为整个英国事实上的独裁者。赫特在多年前就曾出演過另一部反極權主義电影——根據[乔治·奥威尔](../Page/乔治·奥威尔.md "wikilink")所著小說《[1984](../Page/一九八四.md "wikilink")》改編的[同名1984年電影](https://zh.wikipedia.org/wiki/一九八四_\(1984年電影\) "wikilink")，飾演主人翁[温斯顿·史密斯](../Page/温斯顿·史密斯.md "wikilink")\[17\]。
 
 <!-- end list -->
 
-  - [斯蒂芬·弗莱饰演戈登](https://zh.wikipedia.org/wiki/斯蒂芬·弗莱 "wikilink")·戴特里希，一名脱口秀主持人及尚未[出柜的同性恋者](https://zh.wikipedia.org/wiki/橱柜_\(同性恋用语\) "wikilink")。多年以来，在极权政体的压制之下，他於电视上被迫隐瞒了自己的真实想法。
+  - [斯蒂芬·弗莱饰演戈登](https://zh.wikipedia.org/wiki/斯蒂芬·弗莱 "wikilink")·戴特里希，一名脱口秀主持人及尚未[出柜的同性恋者](https://zh.wikipedia.org/wiki/橱柜_\(同性恋用语\) "wikilink")。多年以来，在极权政体的压制之下，他於电视上被迫隐瞒了自己的真实想法，後因協助艾薇而被警察暴力拘捕。對於喜歡戈登這個角色的哪一點，弗莱在受訪時表示：「被揍！我以前從來沒有在電影裡演過被打一頓的角色，我對能被毆打至死感到興奮無比」\[18\]。
 
 <!-- end list -->
 
-  - 饰演彼得·克里迪，身兼北方之火的党主席和全英国秘密警察「The Finger」头目两职\[11\]。
+  - 饰演彼得·克里迪，身兼北方之火的党主席和全英国秘密警察「The Finger」头目两职\[19\]。
 
 <!-- end list -->
 
-  - [鲁珀特·格雷夫斯饰演多米尼克](https://zh.wikipedia.org/wiki/鲁珀特·格雷夫斯 "wikilink")·史東（），总督察芬奇的副手。格雷夫斯指出，「他（指史東）在電影中經歷了一段醒悟的過程」，並概述該角色「並不是一名偉大的夢想家。他總是放下一切，相信國家，但他和芬奇開始意識到他們的政府不如他們所想像的那麼美好」\[12\]。
+  - [鲁珀特·格雷夫斯饰演多米尼克](https://zh.wikipedia.org/wiki/鲁珀特·格雷夫斯 "wikilink")·史東（），总督察芬奇的副手。格雷夫斯指出，「他（指史東）在電影中經歷了一段醒悟的過程」，並概述該角色「並不是一名偉大的夢想家。他總是放下一切，相信國家，但他和芬奇開始意識到他們的政府不如他們所想像的那麼美好」\[20\]。
 
 <!-- end list -->
 
-  - 饰演刘易斯·普罗瑟罗，被宣传机器吹捧为「伦敦之音」，北方之火政权的喉舌。該角色被外界视为是对美国右翼政治评论家[比尔·奥赖利和](https://zh.wikipedia.org/wiki/比尔·奥赖利_\(政治评论家\) "wikilink")[拉什·林博等人的戏仿](https://zh.wikipedia.org/wiki/拉什·林博 "wikilink")\[13\]\[14\]。
+  - 饰演刘易斯·普罗瑟罗，被宣传机器吹捧为「伦敦之音」，北方之火政权的喉舌。該角色被外界视为是对美国右翼政治评论家[比尔·奥赖利和](https://zh.wikipedia.org/wiki/比尔·奥赖利_\(政治评论家\) "wikilink")[拉什·林博等人的戏仿](https://zh.wikipedia.org/wiki/拉什·林博 "wikilink")\[21\]\[22\]。
 
 <!-- end list -->
 
-  - 饰演安东尼·詹姆斯·利利曼[主教](../Page/主教.md "wikilink")，[西敏寺](../Page/西敏寺.md "wikilink")的大主教，不仅贪污腐化，且还是一名[恋童癖](https://zh.wikipedia.org/wiki/恋童癖 "wikilink")。对于利利曼这个角色，斯坦丁评論道「我非常喜欢利利曼这个角色……因为他不仅极端残暴凶恶，还有点滑稽。这个角色很有趣」\[15\]。
+  - 饰演安东尼·詹姆斯·利利曼[主教](../Page/主教.md "wikilink")，[西敏寺](../Page/西敏寺.md "wikilink")的大主教，不仅贪污腐化，且还是一名[恋童癖](https://zh.wikipedia.org/wiki/恋童癖 "wikilink")。对于利利曼这个角色，斯坦丁评論道「我非常喜欢利利曼这个角色……因为他不仅极端残暴凶恶，还有点滑稽。这个角色很有趣」\[23\]。
 
 <!-- end list -->
 
@@ -68,7 +68,7 @@
 
 <!-- end list -->
 
-  - 饰演罗杰·达科姆（），蘇特勒手下的政府宣傳部门「The Mouth」的負責人\[16\]。
+  - 饰演罗杰·达科姆（），蘇特勒手下的政府宣傳部门「The Mouth」的負責人\[24\]。
 
 <!-- end list -->
 
@@ -80,96 +80,106 @@
 
 <!-- end list -->
 
-  - 饰演瓦莱丽·佩奇，瓦莱丽是众多北方之火眼中「不受社会欢迎的人」中的一员，是一名[同性戀者](https://zh.wikipedia.org/wiki/同性戀者 "wikilink")。年輕時的瓦莱丽由[伊莫珍·蓋伊·波茨飾演](../Page/伊莫珍·盖伊·波茨.md "wikilink")\[17\]。
+  - 饰演瓦莱丽·佩奇，瓦莱丽是众多北方之火眼中「不受社会欢迎的人」中的一员，是一名[同性戀者](https://zh.wikipedia.org/wiki/同性戀者 "wikilink")。年輕時的瓦莱丽由[伊莫珍·蓋伊·波茨飾演](../Page/伊莫珍·盖伊·波茨.md "wikilink")\[25\]。
 
 <!-- end list -->
 
-  - 饰演[盖伊·福克斯](../Page/盖伊·福克斯.md "wikilink")，真實人物，於1605年策畫了炸毀英國國會大廈的[火藥陰謀](https://zh.wikipedia.org/wiki/火藥陰謀 "wikilink")（以失敗告終），为V行动的灵感。
+  - 饰演[盖伊·福克斯](../Page/盖伊·福克斯.md "wikilink")\[26\]，真實人物，於1605年策畫了炸毀英國國會大廈的[火藥陰謀](https://zh.wikipedia.org/wiki/火藥陰謀 "wikilink")（以失敗告終），为V行动的灵感。
 
-## 主題解讀
+## 主題與解讀
 
-《V怪客》將[火藥陰謀設定為V行動的靈感來源](https://zh.wikipedia.org/wiki/火藥陰謀 "wikilink")，其有助於V選擇時間、用字遣詞及形象\[18\]。部分影評人認為，就V與兩者之間的直接比較來看，電影整體與[大仲馬的](https://zh.wikipedia.org/wiki/大仲馬 "wikilink")《[基度山恩仇記](../Page/基度山恩仇記.md "wikilink")》相似（在這兩個故事中，英雄跳脫不公司法和創傷的枷鎖，並耗費數十年光陰準備以新的身分對他的壓迫者展開報復）\[19\]\[20\]。幾位影評人及評論家指出，電影的故事和風格與[卡斯頓·勒胡的](https://zh.wikipedia.org/wiki/卡斯頓·勒胡 "wikilink")《[歌劇魅影](../Page/歌劇魅影.md "wikilink")》有所相似\[21\]\[22\]，並拿《歌劇魅影》的角色[魅影和](../Page/艾瑞克_\(歌劇魅影\).md "wikilink")間的關係與V與艾薇的關係來做比較\[23\]\[24\]\[25\]。身為一部關於自由與國家之間鬥爭的電影，《V怪客》自許多經典的極權主義指標（包含[納粹德國](../Page/納粹德國.md "wikilink")和[喬治·歐威爾的](https://zh.wikipedia.org/wiki/喬治·歐威爾 "wikilink")《[1984](../Page/一九八四.md "wikilink")》）中擷取了部分或真或假的意象\[26\]\[27\]。《[舊金山紀事報](https://zh.wikipedia.org/wiki/舊金山紀事報 "wikilink")》的魯斯·史坦因指出，片中女同性戀瓦萊莉的悲慘遭遇使人聯想到[納粹德國對同性戀的迫害及屠殺](https://zh.wikipedia.org/wiki/納粹德國對同性戀的迫害及屠殺 "wikilink")\[28\]。
+製片人[喬·西佛](../Page/喬·西佛.md "wikilink")表示，該片重要的是傳遞一個概念：「人民不該害怕政府，政府應該畏懼人民的力量，自由萬歲！」\[27\]導演[詹姆斯·麥克特格也說](https://zh.wikipedia.org/wiki/詹姆斯·麥克特格 "wikilink")，「我們感到這部小說對時下的政治氛圍頗有先見之明。它表現的正是當政府不再聽取民情，社會完全由政府管控時的情形。若領導者不再聽取人民的聲音，我不認爲片中的場景不會真實發生」。\[28\]
 
-影評人、政治評論家和部分媒體注意到該片多次影射美國[-{zh-cn:乔治·W·布什;zh-hk:佐治·W·布殊;zh-tw:喬治·W·布希;}-政府周遭的事件](https://zh.wikipedia.org/wiki/喬治·W·布希 "wikilink")，如片中拉克希爾拘留中心裡戴著頭套的囚犯，就被視為是對[美軍虐待伊拉克戰俘事件](../Page/美軍虐待伊拉克戰俘事件.md "wikilink")的隱喻\[29\]\[30\]。[國土安全部警報系統及](https://zh.wikipedia.org/wiki/國土安全部警報系統 "wikilink")[非常規引渡](../Page/非常規引渡.md "wikilink")也是電影題材的參考對象之一\[31\]。[IGN](../Page/IGN.md "wikilink")的希拉蕊·戈德斯坦（）指出，《V怪客》明確譴責了[美國愛國者法案](../Page/美國愛國者法案.md "wikilink")\[32\]。當被問到片中的英國電視網（BTN）是否以[福斯新聞頻道](../Page/福斯新聞頻道.md "wikilink")為原型時，詹姆斯·麥克特格回答道「是的，但不只是福斯。隨便一個電視台都算是共謀。BTN照樣可以拿英國的[天空新聞台來當做原型](https://zh.wikipedia.org/wiki/天空新聞台 "wikilink")」\[33\]。
+《V怪客》將[火藥陰謀設定為V行動的靈感來源](https://zh.wikipedia.org/wiki/火藥陰謀 "wikilink")，V在行動時間、用字遣詞及形象上都對其進行了參考\[29\]。部分影評人認為，就V與[愛德蒙·唐泰斯兩者之間的直接比較來看](https://zh.wikipedia.org/wiki/愛德蒙·唐泰斯 "wikilink")，電影整體與[大仲馬的](https://zh.wikipedia.org/wiki/大仲馬 "wikilink")《[基度山恩仇記](../Page/基度山恩仇記.md "wikilink")》相似（在這兩個故事中，英雄跳脫不公司法和創傷的枷鎖，並耗費數十年光陰準備以新的身分對他的壓迫者展開報復）\[30\]\[31\]。幾位影評人及評論家指出，電影的故事和風格與[卡斯頓·勒胡的](https://zh.wikipedia.org/wiki/卡斯頓·勒胡 "wikilink")《[歌劇魅影](../Page/歌劇魅影.md "wikilink")》有所相似\[32\]\[33\]，並拿《歌劇魅影》的角色[魅影和](../Page/艾瑞克_\(歌劇魅影\).md "wikilink")間的關係與V與艾薇的關係來做比較\[34\]\[35\]\[36\]。身為一部關於自由與國家之間鬥爭的電影，《V怪客》自許多經典的極權主義指標（包含[納粹德國](../Page/納粹德國.md "wikilink")和[喬治·歐威爾的](https://zh.wikipedia.org/wiki/喬治·歐威爾 "wikilink")《[1984](../Page/一九八四.md "wikilink")》）中擷取了部分或真或假的意象\[37\]\[38\]。《[舊金山紀事報](https://zh.wikipedia.org/wiki/舊金山紀事報 "wikilink")》的魯斯·史坦因指出，片中女同性戀瓦萊莉的悲慘遭遇使人聯想到[納粹德國對同性戀的迫害及屠殺](https://zh.wikipedia.org/wiki/納粹德國對同性戀的迫害及屠殺 "wikilink")\[39\]。
+
+在部分影評人、政治評論家和媒體眼中，該片多次影射了美國[-{zh-cn:乔治·W·布什;zh-hk:佐治·W·布殊;zh-tw:喬治·W·布希;}-政府周遭的事件](https://zh.wikipedia.org/wiki/喬治·W·布希 "wikilink")，如片中拉克希爾拘留中心裡戴著頭套的囚犯，就被視為是對[美軍虐待伊拉克戰俘事件](../Page/美軍虐待伊拉克戰俘事件.md "wikilink")的隱喻\[40\]\[41\]。[國土安全部警報系統及](https://zh.wikipedia.org/wiki/國土安全部警報系統 "wikilink")[非常規引渡](../Page/非常規引渡.md "wikilink")也被認為是電影題材的參考對象之一\[42\]。[IGN](../Page/IGN.md "wikilink")的希拉蕊·戈德斯坦（）認定，《V怪客》明確譴責了[美國愛國者法案](../Page/美國愛國者法案.md "wikilink")\[43\]。當被問到片中的英國電視網（BTN）是否以[福斯新聞頻道](../Page/福斯新聞頻道.md "wikilink")為原型時，導演麥克特格回答道「是的，但不只是福斯。隨便一家電視台都算是共謀。BTN一樣可以拿英國的[天空新聞台來當做原型](https://zh.wikipedia.org/wiki/天空新聞台 "wikilink")」\[44\]。
 
 ## 製作
 
-1988年，製片人[喬·西佛](../Page/喬·西佛.md "wikilink")取得了[阿蘭·摩爾的兩部漫畫作品](https://zh.wikipedia.org/wiki/阿蘭·摩爾 "wikilink")——《[V怪客](../Page/V煞_\(漫畫\).md "wikilink")》及《[守護者](../Page/守護者_\(漫畫\).md "wikilink")》——的電影改編權\[34\]。在《》（1989年）上映後，編劇受聘撰寫一部改編自《V怪客》的初步草稿。該草稿與原著漫畫的關聯性極少，並含有漫畫中沒有的諷刺和超現實主義的元素，且去除了漫畫裡多半的歧異，特別是在V的身分方面\[35\]。沃卓斯基姐妹是《V字仇杀队》的忠实粉丝。早在1990年代中期着手拍摄《[-{zh-hans:黑客帝国;zh-hk:廿二世紀殺人網絡;zh-tw:駭客任務;}-](../Page/黑客帝国.md "wikilink")》（1999年）前，他们就根据原著小说的劇情写出了一份剧本草稿。在《[駭客任務：重裝上陣](https://zh.wikipedia.org/wiki/駭客任務：重裝上陣 "wikilink")》（2003年）和《[駭客任務完結篇：最後戰役](https://zh.wikipedia.org/wiki/駭客任務完結篇：最後戰役 "wikilink")》（2003年）的后期制作期间，他们重拾了这部早已完成的剧本，并决定由[詹姆斯·麦克特格](../Page/詹姆斯·麦克特格.md "wikilink")擔任電影的导演。他们三人对原著的主题产生了浓厚的兴趣，认为这些内容正是当时的政治形势之下最热门且最富争议的话题。在修订剧本的过程中，沃卓斯基姐妹删减了一些故事情节使全片更加紧凑，并将電影的故事背景转移到了不久的将来。与此同时，他们又尽可能不破坏故事的完整性且不削弱原著的主题\[36\]。
+### 編劇
+
+1988年，製片人[喬·西佛](../Page/喬·西佛.md "wikilink")取得了[阿蘭·摩爾的兩部漫畫作品](https://zh.wikipedia.org/wiki/阿蘭·摩爾 "wikilink")——《[V怪客](../Page/V煞_\(漫畫\).md "wikilink")》及《[守護者](../Page/守護者_\(漫畫\).md "wikilink")》——的電影改編權\[45\]。在《》（1989年）上映後，編劇受聘撰寫一部改編自《V怪客》的初步草稿。該草稿與原著漫畫的關聯性極少，並含有漫畫中沒有的諷刺和超現實主義的元素，且去除了漫畫裡多半的歧異，特別是在V的身分方面。\[46\]沃卓斯基姐妹是《V字仇杀队》的忠实粉丝。早在1990年代中期着手拍摄《[-{zh-hans:黑客帝国;zh-hk:廿二世紀殺人網絡;zh-tw:駭客任務;}-](../Page/黑客帝国.md "wikilink")》（1999年）前，他们就根据原著小说的劇情写出了一份剧本草稿。在《[駭客任務：重裝上陣](https://zh.wikipedia.org/wiki/駭客任務：重裝上陣 "wikilink")》（2003年）和《[駭客任務完結篇：最後戰役](https://zh.wikipedia.org/wiki/駭客任務完結篇：最後戰役 "wikilink")》（2003年）的后期制作期间，他们重拾了这部早已完成的剧本，并决定由[詹姆斯·麦克特格](../Page/詹姆斯·麦克特格.md "wikilink")擔任電影的导演。他们三人对原著的主题产生了浓厚的兴趣，认为这些内容正是当时的政治形势之下最热门且最富争议的话题。在修订剧本的过程中，沃卓斯基姐妹删减了一些故事情节使全片更加紧凑，并将電影的故事背景转移到了不久的将来。与此同时，他们又尽可能不破坏故事的完整性且不削弱原著的主题\[47\]。
+
+### 拍攝與設計
 
 [Aldwych_tube_station_platform_in_1994.jpg](https://zh.wikipedia.org/wiki/File:Aldwych_tube_station_platform_in_1994.jpg "fig:Aldwych_tube_station_platform_in_1994.jpg")[奧德維奇站](../Page/奧德維奇站.md "wikilink")從1994年起停用的西側月台，在電影中被布置為炸彈運輸列車出發的地點\]\]
 
-[主體拍攝始於](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")2005年3月，地點位在[德国](../Page/德国.md "wikilink")[波茨坦](../Page/波茨坦.md "wikilink")的[巴貝爾堡攝影棚](https://zh.wikipedia.org/wiki/巴貝爾堡攝影棚 "wikilink")\[37\]。劇組花費10個星期在巴貝爾堡攝影棚進行拍攝作業，並在柏林拍攝了北方之火舉行集會的閃回片斷、拉克希爾拘留中心和利利曼主教的臥室等三個鏡頭\[38\]。隨後，攝影作業移至英國[倫敦進行](https://zh.wikipedia.org/wiki/倫敦 "wikilink")，為期數個星期\[39\]。劇本中，設置在廢棄的[倫敦地鐵的鏡頭於已停用的](https://zh.wikipedia.org/wiki/倫敦地鐵 "wikilink")[奧德維奇站](../Page/奧德維奇站.md "wikilink")拍攝\[40\]。《V怪客》是的最后一部作品，他于12月7日因[心脏病突发而去世](https://zh.wikipedia.org/wiki/心脏病 "wikilink")\[41\]。片中，V在影子画廊以成千上萬片[西洋骨牌](../Page/西洋骨牌.md "wikilink")精心排列出「V」的圖案。為了拍攝該場景，韋卓斯西洋骨牌製作公司花費200個小時排列22,000個西洋骨牌\[42\]。
+該片的[主體拍攝始於](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")2005年3月，地點位在[德国](../Page/德国.md "wikilink")[波茨坦](../Page/波茨坦.md "wikilink")的[巴貝爾堡攝影棚](https://zh.wikipedia.org/wiki/巴貝爾堡攝影棚 "wikilink")\[48\]。劇組花費10個星期在巴貝爾堡攝影棚進行拍攝作業，並在柏林拍攝了北方之火舉行集會的閃回片斷、拉克希爾拘留中心和利利曼主教的臥室等三個鏡頭\[49\]。隨後，攝影作業移至英國[倫敦進行](https://zh.wikipedia.org/wiki/倫敦 "wikilink")，為期數個星期\[50\]。劇本中，設置在廢棄的[倫敦地鐵的鏡頭於已停用的](https://zh.wikipedia.org/wiki/倫敦地鐵 "wikilink")[奧德維奇站](../Page/奧德維奇站.md "wikilink")拍攝\[51\]。《V怪客》是的最后一部作品，他于2005年12月7日因[心脏病突发而去世](https://zh.wikipedia.org/wiki/心脏病 "wikilink")\[52\]。片中，V在影子画廊以成千上萬片[西洋骨牌](../Page/西洋骨牌.md "wikilink")精心排列出「V」的圖案。為了拍攝該場景，韋卓斯西洋骨牌製作公司花費200個小時排列22,000個西洋骨牌\[53\]。
 
-为了保障能在[威斯敏斯特大教堂顺利拍摄該片的最后一个镜头](https://zh.wikipedia.org/wiki/威斯敏斯特大教堂 "wikilink")，从[特拉法加廣場](../Page/特拉法加廣場.md "wikilink")及[白厅到议会大厦和](https://zh.wikipedia.org/wiki/白厅 "wikilink")[大本钟](../Page/大本钟.md "wikilink")之间的区域被封闭了三夜。每晚的封闭时间从午夜时分持续到次日凌晨五点。此為这一在安全上极其敏感的区域（該区域涵蓋了[唐宁街10号和](https://zh.wikipedia.org/wiki/唐宁街10号 "wikilink")[英国国防部等机构](https://zh.wikipedia.org/wiki/英国国防部 "wikilink")）首次因方便拍片而实施封闭\[43\]。時任英国首相[托尼·布莱尔](../Page/托尼·布莱尔.md "wikilink")之子尤安·布萊爾（）还曾为剧组工作过一段时间。据受访的斯蒂芬·弗莱称，尤安为他们拍摄这部空前的巨制提供了不少帮助。尤安因这一事件以及電影的敏感内容招致了來自[下院议员](https://zh.wikipedia.org/wiki/國會議員 "wikilink")[大卫·戴维斯等人的批评](https://zh.wikipedia.org/wiki/大卫·戴维斯 "wikilink")。不过，該片的制片方否认尤安参与電影的拍摄与为了拍摄電影而破天荒的长时间封闭其敏感区域之间有任何联系\[44\]。他们坚称，为了在拍摄期间获得封闭这一区域的许可，前后共花了9个月与14个不同的政府部门与机构进行谈判\[45\]。電影於2005年6月8日[殺青](https://zh.wikipedia.org/wiki/殺青 "wikilink")\[46\]。導演麦克特格表示，在准备拍摄《V字仇杀队》期间，他从電影《》（1966年）中得到了颇多启发\[47\]。
+为了保障能在[威斯敏斯特大教堂顺利拍摄該片的最后一个镜头](https://zh.wikipedia.org/wiki/威斯敏斯特大教堂 "wikilink")，从[特拉法加廣場](../Page/特拉法加廣場.md "wikilink")及[白厅到议会大厦和](https://zh.wikipedia.org/wiki/白厅 "wikilink")[大本钟](../Page/大本钟.md "wikilink")之间的区域被封闭了三夜。每晚的封闭时间从午夜时分持续到次日凌晨五点。此為这一在安全上极其敏感的区域（該区域涵蓋了[唐宁街10号和](https://zh.wikipedia.org/wiki/唐宁街10号 "wikilink")[英国国防部等机构](https://zh.wikipedia.org/wiki/英国国防部 "wikilink")）首次因方便拍片而实施封闭。\[54\]時任英国首相[托尼·布莱尔](../Page/托尼·布莱尔.md "wikilink")之子尤安·布萊爾（）还曾为剧组工作过一段时间。据受访的斯蒂芬·弗莱称，尤安为他们拍摄这部空前的巨制提供了不少帮助。尤安因这一事件以及電影的敏感内容招致了來自[下院议员](https://zh.wikipedia.org/wiki/國會議員 "wikilink")[大卫·戴维斯等人的批评](https://zh.wikipedia.org/wiki/大卫·戴维斯 "wikilink")。不过，該片的制片方否认尤安参与電影的拍摄与为了拍摄電影而破天荒的长时间封闭其敏感区域之间有任何联系。\[55\]他们坚称，为了在拍摄期间获得封闭这一区域的许可，前后共花了9个月与14个不同的政府部门与机构进行谈判\[56\]。電影於2005年6月8日[殺青](https://zh.wikipedia.org/wiki/殺青 "wikilink")\[57\]。導演麦克特格表示，在准备拍摄《V字仇杀队》期间，他从電影《》（1966年）中得到了颇多启发\[58\]。
 
-電影的畫面風格傾向於未來與復古的混合。拍攝中大量使用的灰色調使片中為極權主義所籠罩的倫敦給人沉悶滯重的印象。該片中搭建的最大一处布景是影子画廊。片中的影子画廊被刻意营造出了一种介于一般的地窖及[圆顶地室之间的效果](https://zh.wikipedia.org/wiki/地下聖堂 "wikilink")。影子画廊不仅是V的住所，也是他收藏为政府禁止的[艺术品的展厅](https://zh.wikipedia.org/wiki/藝術品 "wikilink")。由舞台設計師彼得·沃波爾（）所率領的藝術設計部門表示，他在製作方面遇到的最大難題是取得複製影子畫廊中諸多藝術品的權利\[48\]。
+電影的畫面風格傾向於未來與復古的混合。拍攝中大量使用的灰色調使片中為極權主義所籠罩的倫敦給人沉悶滯重的印象。該片中搭建的最大一处布景是影子画廊。片中的影子画廊被刻意营造出了一种介于一般的地窖及[圆顶地室之间的效果](https://zh.wikipedia.org/wiki/地下聖堂 "wikilink")。影子画廊不仅是V的住所，也是他收藏为政府禁止的[艺术品的展厅](https://zh.wikipedia.org/wiki/藝術品 "wikilink")。由舞台設計師彼得·沃波爾（）所率領的藝術設計部門表示，他在製作方面遇到的最大難題是取得複製影子畫廊中諸多藝術品的權利。\[59\]
 
-《V怪客》中的服裝部分由薩米·謝爾登（）負責。麦克特格希望V的穿著能結合[蓋·福克斯的](https://zh.wikipedia.org/wiki/蓋·福克斯 "wikilink")[17世紀服裝和槍手的元素](https://zh.wikipedia.org/wiki/17世紀 "wikilink")。儘管如此，與福克斯相比，V的穿著顯得更加醒目，且帽子也較福克斯的還要小。同服裝，V所使用的[匕首參雜了現代的風格](https://zh.wikipedia.org/wiki/匕首 "wikilink")\[49\]。拍摄過程中，劇組所遇到的主要挑戰之一是如何生动刻画隐藏在没有表情的面具背后的V。为了弥补角色面部表情的缺失，電影对灯光、表演以及威明本人的声音等因素进行了强化，从而营造出一种与当时场景相吻合的气氛。为了避免面具遮挡威明的声音，剧组事先在他的发际线附近隐藏了一只微型麦克风，以便在后期制作期間進行處理。在后期制作期间，剧组又重新录制了V的全數对白\[50\]。
+《V怪客》中的服裝部分由薩米·謝爾登（）負責。麦克特格希望V的穿著能結合[蓋·福克斯的](https://zh.wikipedia.org/wiki/蓋·福克斯 "wikilink")[17世紀服裝和槍手的元素](https://zh.wikipedia.org/wiki/17世紀 "wikilink")。儘管如此，與福克斯相比，V的穿著顯得更加醒目，且帽子也較福克斯的還要小。同服裝，V所使用的[匕首參雜了現代的風格](https://zh.wikipedia.org/wiki/匕首 "wikilink")。\[60\]拍片部分，威明表示在受訪時，除了片尾V受傷流血的一場戲外，V的戲份都是由他本人帶著面具演出的。他也提到，V的面具和假髮戴起來非常悶熱，常讓他汗如雨下。\[61\]由於V在全片中都戴著面具，劇組面臨到一個問題：如何生动刻画隐藏在没有表情的面具背后的V。为了弥补角色面部表情的缺失，電影对灯光、表演以及威明本人的声音等因素进行了强化，从而营造出一种与当时场景相吻合的气氛。为了避免面具遮挡威明的声音，剧组事先在他的发际线附近隐藏了一只微型麦克风，以便在后期制作期間進行處理。在后期制作期间，剧组又重新录制了V的全數对白。\[62\]
 
 ## 音樂
 
   -
     主條目：
 
-[Pyotr_Ilyich_Tchaikovsky_-_1812_overture.ogg](https://zh.wikipedia.org/wiki/File:Pyotr_Ilyich_Tchaikovsky_-_1812_overture.ogg "fig:Pyotr_Ilyich_Tchaikovsky_-_1812_overture.ogg")的《[1812序曲](../Page/1812序曲.md "wikilink")》，此版本由斯基德莫爾學院樂團演奏。\]\] 《V怪客》的[原声带於](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")2006年3月21日由发行\[51\]。在原声带中，负责電影配乐的[達利歐·馬利安內利所譜寫的原创歌曲佔其中的大多數](../Page/達利歐·馬里安利.md "wikilink")\[52\]。原声帶中还包括了三首在电影中出现的歌曲：[朱莉·伦敦的](https://zh.wikipedia.org/wiki/朱莉·伦敦 "wikilink")《》、[貓女魔力](../Page/貓女魔力.md "wikilink")翻唱[地下丝绒的](https://zh.wikipedia.org/wiki/地下丝绒 "wikilink")《》及的《Bird Gerhl》\[53\]。
+[Pyotr_Ilyich_Tchaikovsky_-_1812_overture.ogg](https://zh.wikipedia.org/wiki/File:Pyotr_Ilyich_Tchaikovsky_-_1812_overture.ogg "fig:Pyotr_Ilyich_Tchaikovsky_-_1812_overture.ogg")的《[1812序曲](../Page/1812序曲.md "wikilink")》，此版本由斯基德莫爾學院樂團演奏。\]\] 《V怪客》的[原声带於](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")2006年3月21日由发行\[63\]。在原声带中，负责電影配乐的[達利歐·馬利安內利所譜寫的原创歌曲佔其中的大多數](../Page/達利歐·馬里安利.md "wikilink")。原声帶中还包括了三首在电影中出现的歌曲：[朱莉·伦敦的](https://zh.wikipedia.org/wiki/朱莉·伦敦 "wikilink")《》、[貓女魔力](../Page/貓女魔力.md "wikilink")翻唱[地下丝绒的](https://zh.wikipedia.org/wiki/地下丝绒 "wikilink")《》及的《Bird Gerhl》。\[64\]
 
-而其他有在電影中出現，但未收錄於原聲帶中的音樂包含[彼得·伊里奇·柴可夫斯基](../Page/彼得·伊里奇·柴可夫斯基.md "wikilink")的[1812序曲](../Page/1812序曲.md "wikilink")、的《BKAB》（於片尾字幕部分播放）、[安東尼奧·卡洛斯·裘賓](../Page/安東尼奧·卡洛斯·裘賓.md "wikilink")與的《靜夜星空》和《[伊帕內瑪姑娘](../Page/伊帕內瑪姑娘.md "wikilink")》、的《》、樂隊的《Out of Sight》（於片尾字幕部分播放）、[滾石的](https://zh.wikipedia.org/wiki/滾石樂隊 "wikilink")《》（於片尾字幕部分播放）、[貝多芬的](https://zh.wikipedia.org/wiki/路德維希·范·貝多芬 "wikilink")《[第五交响曲](https://zh.wikipedia.org/wiki/第五交响曲_\(贝多芬\) "wikilink")》以及的《The Beginning... at Last》\[54\]。
+而其他有在電影中出現，但未收錄於原聲帶中的音樂包含[彼得·伊里奇·柴可夫斯基](../Page/彼得·伊里奇·柴可夫斯基.md "wikilink")的[1812序曲](../Page/1812序曲.md "wikilink")、的《BKAB》（於片尾字幕部分播放）、[安東尼奧·卡洛斯·裘賓](../Page/安東尼奧·卡洛斯·裘賓.md "wikilink")與的《靜夜星空》和《[伊帕內瑪姑娘](../Page/伊帕內瑪姑娘.md "wikilink")》、的《》、樂隊的《Out of Sight》（於片尾字幕部分播放）、[滾石的](https://zh.wikipedia.org/wiki/滾石樂隊 "wikilink")《》（於片尾字幕部分播放）、[貝多芬的](https://zh.wikipedia.org/wiki/路德維希·范·貝多芬 "wikilink")《[第五交响曲](https://zh.wikipedia.org/wiki/第五交响曲_\(贝多芬\) "wikilink")》以及的《The Beginning... at Last》。\[65\]
 
 ## 上映
 
-[V_for_Vendetta_film.jpg](https://zh.wikipedia.org/wiki/File:V_for_Vendetta_film.jpg "fig:V_for_Vendetta_film.jpg")上映時，電影院門口的樣貌\]\]
+[V_for_Vendetta_film.jpg](https://zh.wikipedia.org/wiki/File:V_for_Vendetta_film.jpg "fig:V_for_Vendetta_film.jpg")上映時，電影院門口的照片\]\]
 
-該片原先計劃於2005年11月5日（火藥陰謀400週年紀念日）上映\[55\]，但隨後則因故推遲，外界猜测这一推迟可能与[2005年7月倫敦爆炸事件和未遂的](https://zh.wikipedia.org/wiki/2005年7月倫敦爆炸事件 "wikilink")有關\[56\]\[57\]。不过制片方否认了这一说法，他们声称推迟上映日期是为了有更充裕的时间完成電影後期制作中的视觉特效部分\[58\]。《V怪客》於2005年12月11日在舉行大規模的首映禮\[59\]，隨後則在2006年3月13日於[柏林电影节上進行放映](https://zh.wikipedia.org/wiki/柏林电影节 "wikilink")\[60\]。3月17日，電影在美國院線上映，而同时开始上映的还有英国與其他六个国家\[61\]。[美國電影協會](../Page/美國電影協會.md "wikilink")（MPAA）以片中有「激烈的暴力場面及一些髒話」為由將電影評為[R級](https://zh.wikipedia.org/wiki/美国电影分级制度#美國電影協會電影分級 "wikilink")，意味著18歲以下觀眾需要有家長或成年監護人陪同才能觀看\[62\]\[63\]。
+該片原先計劃於2005年11月5日（火藥陰謀400週年紀念日）上映\[66\]，但隨後則因故推遲，外界猜测这一推迟可能与[2005年7月倫敦爆炸事件和未遂的](https://zh.wikipedia.org/wiki/2005年7月倫敦爆炸事件 "wikilink")有關\[67\]\[68\]。不过制片方否认了这一说法，他们声称推迟上映日期是为了有更充裕的时间完成電影後期制作中的视觉特效部分\[69\]。導演麥克特格也表示，他們並未因倫敦爆炸事件而刪減片中的橋段\[70\]。《V怪客》於2005年12月11日在舉行大規模的首映禮\[71\]，隨後則在2006年3月13日於[柏林电影节上進行放映](https://zh.wikipedia.org/wiki/柏林电影节 "wikilink")\[72\]。2006年3月17日星期五，電影在美國院線上映，而同时开始上映的还有英国與其他六个国家\[73\]\[74\]。[美國電影協會](../Page/美國電影協會.md "wikilink")（MPAA）以片中有「激烈的暴力場面及一些髒話」為由將電影評為[R級](https://zh.wikipedia.org/wiki/美国电影分级制度#美國電影協會電影分級 "wikilink")，意味著18歲以下觀眾需要有家長或成年監護人陪同才能觀看\[75\]\[76\]。
 
 ## 反響
 
 ### 評價
 
-《V怪客》所獲評價多為正面。[爛蕃茄上收集的](https://zh.wikipedia.org/wiki/爛蕃茄 "wikilink")240篇專業影評文章中，有175篇給予該片「新鮮」的正面評價，「新鮮度」為73%，平均得分6.8分（滿分10分），該網站的共識性評價寫道「《V怪客》不僅在視覺方面震撼人心，同時電影整體也發人深省，片中的政治言論也許會激起一些爭論，但其劇情和優秀的部分仍將受到歡迎」\[64\]。而基於另一影評匯總網站[Metacritic](../Page/Metacritic.md "wikilink")上的39篇評論文章，其中28篇予以好評，3篇差評，8篇褒貶不一，平均分為62（滿分100），綜合結果為「普遍良好的評價」\[65\]。據[CinemaScore進行的調查](https://zh.wikipedia.org/wiki/影院評分 "wikilink")，觀眾的平均評價於A+至F間落於「B+」\[66\]。
+《V怪客》所獲評價多為正面。[爛蕃茄上收集的](https://zh.wikipedia.org/wiki/爛蕃茄 "wikilink")240篇專業影評文章中，有175篇給予該片「新鮮」的正面評價，「新鮮度」為73%，平均得分6.8分（滿分10分），該網站的共識性評價寫道「《V怪客》不僅在視覺方面震撼人心，同時電影整體也發人深省，片中的政治言論也許會激起一些爭論，但其劇情和優秀的部分仍將受到歡迎」\[77\]。而基於另一影評匯總網站[Metacritic](../Page/Metacritic.md "wikilink")上的39篇評論文章，其中28篇予以好評，3篇差評，8篇褒貶不一，平均分為62（滿分100），綜合結果為「普遍良好的評價」\[78\]。據[CinemaScore進行的調查](https://zh.wikipedia.org/wiki/影院評分 "wikilink")，觀眾的平均評價於A+至F間落於「B+」\[79\]。
 
-電視節目《》給予了電影「兩根[向上的大拇指](https://zh.wikipedia.org/wiki/拇指手勢 "wikilink")」的好評\[67\]。《[芝加哥太陽報](../Page/芝加哥太陽報.md "wikilink")》的[羅傑·伊伯特表示](https://zh.wikipedia.org/wiki/羅傑·埃伯特 "wikilink")，「《V怪客》中總是有些有意思的事情，它們邀請我們解讀角色及劇情，並將其中所傳遞的信息運用在現實世界中」\[68\]。《》的主持人與說，儘管沒有看見威明的臉孔，但他的表現仍值得讚許。兩人還補充說，《V怪客》令人感到不安，場面使人想起[納粹德國](../Page/納粹德國.md "wikilink")\[69\]。《[時代](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》雜誌的表示，「無論你是愚者還是智囊團，你會發現片中的東西遵從著身為一本使人深思的優質小說應盡的職責——不停的挑戰你並找你麻煩」\[70\]。
+電視節目《》給予了電影「兩根[向上的大拇指](https://zh.wikipedia.org/wiki/拇指手勢 "wikilink")」的好評\[80\]。《[芝加哥太陽報](../Page/芝加哥太陽報.md "wikilink")》的[羅傑·伊伯特表示](https://zh.wikipedia.org/wiki/羅傑·埃伯特 "wikilink")，「《V怪客》中總是有些有意思的事情，它們邀請我們解讀角色及劇情，並將其中所傳遞的信息運用在現實世界中」\[81\]。《》的主持人與說，儘管沒有看見威明的臉孔，但他的表現仍值得讚許。兩人還補充說，《V怪客》令人感到不安，場面使人想起[納粹德國](../Page/納粹德國.md "wikilink")\[82\]。《[時代](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》雜誌的表示，「無論你是愚者還是智囊團，你會發現片中的東西遵從著身為一本使人深思的優質小說應盡的職責——不停的挑戰你並找你麻煩」\[83\]。
 
-不過也有些影評人給予該片負評。[英國廣播公司](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")（BBC）的[強納森·羅斯](../Page/強納森·羅斯.md "wikilink")批評了電影，稱其為「可悲可嘆的敗筆」，他寫道「在華卓斯基姐妹的糟糕劇本和出奇惡劣的對白中，像[約翰·赫特與](https://zh.wikipedia.org/wiki/約翰·赫特 "wikilink")這樣爲人熟知又才華出衆的演員幾乎沒什麼表現機會」\[71\]。《》的蕭恩·伯恩斯（）給予電影「D」的差評，批評電影的政治內涵「黑暗又不成熟」\[72\]。對於[阿蘭·摩爾將他的名字從劇組名單裡刪去一事](https://zh.wikipedia.org/wiki/阿蘭·摩爾 "wikilink")，伯恩斯認為這「不難看出為什麼」\[73\]。BBC的安迪·雅各布斯給予《V怪客》2顆星（滿分5顆）的評價，認為該片「有些雜亂……其缺乏一個故事該有的驚悚部分及連貫性」\[74\]。
+不過也有些影評人給予該片負評。[英國廣播公司](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")（BBC）的[強納森·羅斯](../Page/強納森·羅斯.md "wikilink")批評了電影，稱其為「可悲可嘆的敗筆」，他寫道「在華卓斯基姐妹的糟糕劇本和出奇惡劣的對白中，像[約翰·赫特與](https://zh.wikipedia.org/wiki/約翰·赫特 "wikilink")這樣爲人熟知又才華出衆的演員幾乎沒什麼表現機會」\[84\]。《》的西恩·伯恩斯（）給予電影「D」的差評，批評電影的政治內涵「黑暗又不成熟」。對於[阿蘭·摩爾將他的名字從劇組名單裡刪去一事](https://zh.wikipedia.org/wiki/阿蘭·摩爾 "wikilink")，伯恩斯認為這「不難看出為什麼」。\[85\]BBC的安迪·雅各布斯給予《V怪客》2顆星（滿分5顆）的評價，認為該片「有些雜亂……其缺乏一個故事該有的驚悚部分及連貫性」\[86\]。
 
-片中角色V在由《Fandomania》評選的「100名最偉大的虛構人物」排行中名列第96名\[75\]。《V怪客》在《[帝國雜誌](../Page/帝國雜誌.md "wikilink")》於2008年所評選的「有史以來最偉大的500部電影」列表裡排在第418名\[76\]。導演[凱文·史密斯將電影列於](https://zh.wikipedia.org/wiki/凱文·史密斯 "wikilink")2006年最佳電影列表中\[77\]。WatchMojo.com將V排列在「十大電影中的恐怖份子角色」列表中的第九名\[78\]，並將電影選為「十大視覺小說改編電影」裡的第四名\[79\]。此外，《V怪客》還於同樣由該網站所評選的「十大DC漫畫改編電影」排名中名列第五\[80\]。
+片中角色V在由《Fandomania》評選的「100名最偉大的虛構人物」排行中名列第96名\[87\]。《V怪客》在《[帝國雜誌](../Page/帝國雜誌.md "wikilink")》於2008年所評選的「有史以來最偉大的500部電影」列表裡排在第418名\[88\]。導演[凱文·史密斯將電影列於](https://zh.wikipedia.org/wiki/凱文·史密斯 "wikilink")2006年最佳電影列表中\[89\]。WatchMojo.com將V排列在「十大電影中的恐怖份子角色」列表中的第九名\[90\]，並將電影選為「十大視覺小說改編電影」裡的第四名\[91\]。此外，《V怪客》還於同樣由該網站所評選的「十大DC漫畫改編電影」排名中名列第五\[92\]。
 
 ### 票房
 
-截至下檔日，《V怪客》在美國及加拿大地區共-{zh-hant:累積;zh-hans:累积;}-了7,051萬美元的票房，加上來自其他地區的6,200萬美元，全球票房共計1.325億美元，而其製片預算則是5,400萬美元\[81\]。在美國，該片於上映首週末透過3,365家電影院進帳約2,564萬美元的票房，排名當週第一\[82\]。《V怪客》也在北美的56家[IMAX](../Page/IMAX.md "wikilink")劇院放映，上映前三天的票房總額為136萬美元\[83\]\[84\]。經調查，首週末的男性觀眾佔60%\[85\]。隔週末，該片進帳1,230萬美元，成績約為上週的一半，僅次於新上映的《[臥底](../Page/臥底_\(電影\).md "wikilink")》（約2,900萬美元）\[86\]。
+截至下檔日，《V怪客》在美國及加拿大地區共-{zh-hant:累積;zh-hans:累积;}-了7,051萬美元的票房，加上來自其他地區的6,200萬美元，全球票房共計1.325億美元，而其製片預算則是5,400萬美元\[93\]。在美國，該片於上映首週末透過3,365家電影院進帳約2,564萬美元的票房，排名當週第一\[94\]。《V怪客》也在北美的56家[IMAX](../Page/IMAX.md "wikilink")劇院放映，上映前三天的票房總額為136萬美元\[95\]\[96\]。經調查，首週末的男性觀眾佔60%\[97\]。隔週末，該片進帳1,230萬美元，成績約為上週的一半，僅次於新上映的《[臥底](../Page/臥底_\(電影\).md "wikilink")》（約2,900萬美元）排名第二\[98\]。
 
-該片在臺灣、瑞典、新加坡和菲律賓上映首週即登上票房冠軍，但整體來看，美國以外的市場並不捧場\[87\]。除了北美以外，該片前五大的市場分別為日本（約854萬美元）、英國（約666萬美元）、西班牙（約543萬美元）、澳大利亞（約435萬美元）及法國（約420萬美元）\[88\]。
+該片在臺灣、瑞典、新加坡和菲律賓上映首週即登上票房冠軍，但整體來看，美國以外的市場並不捧場\[99\]。除了北美以外，該片前五大的市場分別為日本（約854萬美元）、英國（約666萬美元）、西班牙（約543萬美元）、澳大利亞（約435萬美元）及法國（約420萬美元）\[100\]。
 
 ### 榮譽
 
-[Natalie_Portman_Cannes_2015_5.jpg](https://zh.wikipedia.org/wiki/File:Natalie_Portman_Cannes_2015_5.jpg "fig:Natalie_Portman_Cannes_2015_5.jpg")榮獲的\]\]
+[Natalie_Portman_Cannes_2015_5.jpg](https://zh.wikipedia.org/wiki/File:Natalie_Portman_Cannes_2015_5.jpg "fig:Natalie_Portman_Cannes_2015_5.jpg")（圖）榮獲[土星獎](../Page/土星獎.md "wikilink")的\]\]
 
-[娜塔莉·波曼於](https://zh.wikipedia.org/wiki/娜塔莉·波曼 "wikilink")上榮獲，且電影還在該屆頒獎典禮入圍三項獎項：[最佳科幻電影獎](https://zh.wikipedia.org/wiki/土星獎最佳科幻電影得獎列表 "wikilink")、（華卓斯基姐妹）和（薩米·謝爾登）\[89\]，而謝爾登還獲的奇幻電影類別的提名，但不敵《[羊男的迷宮](../Page/羊男的迷宮.md "wikilink")》的服裝設計師拉拉·亨特（）而未能得獎\[90\]。《V怪客》在2007年[雨果獎頒獎典禮中](https://zh.wikipedia.org/wiki/雨果獎 "wikilink")，奪得（長片）的提名\[91\]，並入圍的傑出電影獎，但最終並沒有獲獎\[92\]。
+[娜塔莉·波曼於](https://zh.wikipedia.org/wiki/娜塔莉·波曼 "wikilink")[土星獎](../Page/土星獎.md "wikilink")上榮獲，且電影還在該屆頒獎典禮入圍三項獎項：[最佳科幻電影獎](https://zh.wikipedia.org/wiki/土星獎最佳科幻電影得獎列表 "wikilink")、（華卓斯基姐妹）和（薩米·謝爾登）\[101\]，而謝爾登還獲獎的奇幻電影類別的提名，但不敵《[羊男的迷宮](../Page/羊男的迷宮.md "wikilink")》的服裝設計師拉拉·亨特（）而未能得獎\[102\]。《V怪客》在2007年[雨果獎頒獎典禮中](https://zh.wikipedia.org/wiki/雨果獎 "wikilink")，奪得（長片）的提名\[103\]，並入圍的傑出電影獎，但最終並沒有獲獎\[104\]。
 
-導演[詹姆斯·麥克特格入圍了](https://zh.wikipedia.org/wiki/詹姆斯·麥克特格 "wikilink")的最具前途導演獎，但敗給《》的導演[萊恩·詹森](https://zh.wikipedia.org/wiki/萊恩·詹森 "wikilink")\[93\]。獲頒的最佳藝術指導獎\[94\]，並拿下的卓越美術執導獎（奇幻劇情長片）的提名\[95\]。繼榮獲土星獎最佳女主角獎後，波曼還在頒獎典禮上獲提名最佳劇情/動作冒險電影女主角獎，且《V怪客》也在該屆頒獎典禮中入圍，但輸給了《[神鬼奇航2：加勒比海盜](https://zh.wikipedia.org/wiki/神鬼奇航2：加勒比海盜 "wikilink")》\[96\]。
+導演[詹姆斯·麥克特格入圍了](https://zh.wikipedia.org/wiki/詹姆斯·麥克特格 "wikilink")[芝加哥影評人協會獎的最具前途導演獎](https://zh.wikipedia.org/wiki/芝加哥影評人協會 "wikilink")，但敗給《》的導演[萊恩·詹森](https://zh.wikipedia.org/wiki/萊恩·詹森 "wikilink")\[105\]。獲頒[聖地牙哥影評人協會](../Page/聖地牙哥影評人協會.md "wikilink")獎的最佳藝術指導獎\[106\]，並拿下的卓越美術執導獎（奇幻劇情長片）的提名\[107\]。繼榮獲土星獎最佳女主角獎後，波曼還在[青少年票選獎頒獎典禮上獲提名最佳劇情](../Page/青少年选择奖.md "wikilink")/動作冒險電影女主角獎，且《V怪客》也在該屆頒獎典禮中入圍，但輸給了《[神鬼奇航2：加勒比海盜](https://zh.wikipedia.org/wiki/神鬼奇航2：加勒比海盜 "wikilink")》\[108\]。
 
 ### 爭議
 
-2006年4月7日，無政府主義的紐約地鐵聯盟組織了對[DC漫畫](../Page/DC漫畫.md "wikilink")及[時代華納的抗議活動](https://zh.wikipedia.org/wiki/時代華納 "wikilink")，指責它為了暴力場面和特效而排除了故事最初所傳達的信息\[97\]\[98\]。影評人在電視節目《伊伯特與羅珀》上駁斥了[基督教右派](../Page/基督教右派.md "wikilink")對該片的批評\[99\]。
+2006年4月7日，無政府主義的紐約地鐵聯盟組織了對[DC漫畫](../Page/DC漫畫.md "wikilink")及[時代華納的抗議活動](https://zh.wikipedia.org/wiki/時代華納 "wikilink")，指責它為了暴力場面和特效而排除了故事最初所傳達的信息\[109\]\[110\]。影評人在電視節目《伊伯特與羅珀》上駁斥了[基督教右派](../Page/基督教右派.md "wikilink")對該片的批評\[111\]。
 
-[LGBT](../Page/LGBT.md "wikilink")評論家讚許電影對同性戀者的正面描述。的影評人麥克·詹森（）对电影中叙述瓦莱丽经历的段落设置给予了高度评价，認為其段落「不仅演员演技和角色的台词都相當出色，这样的场景设定本身（在好莱坞电影中）也已相当难得」，並稱《V怪客》是「有史以來最親同的電影」\[100\]。[世界社會主義網站的](https://zh.wikipedia.org/wiki/世界社會主義網站 "wikilink")批評V的「反民主主義」行動，並寫道，由於人民沒有參與革命，以致他們無法創造出一個「嶄新、解脫的社會」\[101\]。
+[LGBT](../Page/LGBT.md "wikilink")評論家讚許電影對同性戀者的正面描述。的影評人麥克·詹森（）对电影中叙述瓦莱丽经历的段落设置给予了高度评价，認為其段落「不仅演员演技和角色的台词都相當出色，这样的场景设定本身（在好莱坞电影中）也已相当难得」，並稱《V怪客》是「有史以來最親同的電影」\[112\]。[世界社會主義網站的](https://zh.wikipedia.org/wiki/世界社會主義網站 "wikilink")批評V的「反民主主義」行動，並寫道，由於人民沒有參與革命，以致他們無法創造出一個「嶄新、解脫的社會」\[113\]。
 
-2012年12月14日，《V怪客》於[中国中央电视台电影频道](https://zh.wikipedia.org/wiki/中国中央电视台电影频道 "wikilink")（CCTV，以下簡稱央視）上播出，且完全未經審查\[102\]，引發觀眾热烈討論\[103\]。儘管許多人相信政府已禁播該片，但[國家新聞出版廣電總局的發言人吳保安則聲稱他並不知道有什麼禁令](https://zh.wikipedia.org/wiki/國家新聞出版廣電總局 "wikilink")；因央視有權就是否審查國外電影一事做出自己的決定\[104\]。曾在央視工作的政治學家劉山鷹表示，該片可能是得到批准才播出，亦可能是央視自行決定播出的。劉山鷹推測，央視自行決定播出的可能性較大，並認為這可能是因央視「直覺中國將放鬆或改革電影審查制度」\[105\]。
+2012年12月14日，《V怪客》於[中国中央电视台电影频道](https://zh.wikipedia.org/wiki/中国中央电视台电影频道 "wikilink")（CCTV，以下簡稱央視）上播出，且完全未經審查\[114\]，引發觀眾热烈討論\[115\]\[116\]。儘管許多人相信政府已禁播該片，但[國家新聞出版廣電總局的發言人吳保安則聲稱他並不知道有什麼禁令](https://zh.wikipedia.org/wiki/國家新聞出版廣電總局 "wikilink")；因央視有權就是否審查國外電影一事做出自己的決定\[117\]。曾在央視工作的政治學家劉山鷹表示，該片可能是得到批准才播出，亦可能是央視自行決定播出的。劉山鷹推測，央視自行決定播出的可能性較大，並認為這可能是因央視「直覺中國將放鬆或改革電影審查制度」\[118\]。
 
 ## 與原著漫畫的不同
 
-電影的片長限制意味著劇情不得不從原著漫畫中省略或簡化部分角色、細節及主線劇情\[106\]。[IGN](../Page/IGN.md "wikilink")的希拉蕊·戈德斯坦指出，在原著漫畫中，艾薇是一名未受過教育的16歲女孩，且並不太打算起身反抗政府；而電影中的艾薇則是一名二十來歲、有主見且博學的女性，儘管有著悲慘的過去，她仍試著做出些大事。兩者間有著極大的差異\[107\]。在原著漫畫中，艾薇為了餬口而與一名「Fingermen」成員進行[性交易](../Page/性交易.md "wikilink")，而在後者正要姦殺她時，V出手救了艾薇，並帶她去看[英國國會大廈被炸毀的景象](https://zh.wikipedia.org/wiki/西敏宮 "wikilink")，而艾維也因此與V相遇；而電影中則描述艾薇在電視台工作，並在一次違反宵禁外出時遭一群「Fingermen」成員圍堵，這時V發現並解救了艾薇，且隨後帶著艾薇去觀望[老貝利街被炸毀的景象](https://zh.wikipedia.org/wiki/老貝利街 "wikilink")\[108\]。該片將設定為[北方之火](../Page/北方之火.md "wikilink")的領導人，遭到克里迪設計而死；而在原著漫畫中，北方之火的領導人的名字則是，且是在遊行中遭蘿絲瑪莉·艾蒙德（）暗殺而死的\[109\]\[110\]。
+電影的片長限制意味著劇情不得不從原著漫畫中省略或簡化部分角色、細節及主線劇情\[119\]。[IGN](../Page/IGN.md "wikilink")的希拉蕊·戈德斯坦指出，在原著漫畫中，艾薇是一名未受過教育的16歲女孩，且並不太打算起身反抗政府；而電影中的艾薇則是一名二十來歲、有主見且博學的女性，儘管有著悲慘的過去，她仍試著做出些大事。兩者間有著極大的差異\[120\]。在原著漫畫中，艾薇為了餬口而與一名「Fingermen」成員進行[性交易](../Page/性交易.md "wikilink")，而在後者正要姦殺她時，V出手救了艾薇，並帶她去看[英國國會大廈被炸毀的景象](https://zh.wikipedia.org/wiki/西敏宮 "wikilink")，而艾維也因此與V相遇；而電影中則描述艾薇在電視台工作，並在一次違反宵禁外出時遭一群「Fingermen」成員圍堵，這時V發現並解救了艾薇，且隨後帶著艾薇去觀望[老貝利街被炸毀的景象](https://zh.wikipedia.org/wiki/老貝利街 "wikilink")\[121\]。該片將設定為[北方之火](../Page/北方之火.md "wikilink")的領導人，遭到克里迪設計而死；而在原著漫畫中，北方之火的領導人的名字則是，且是在遊行中遭蘿絲瑪莉·艾蒙德（）暗殺而死的\[122\]\[123\]。
 
-在原著漫畫中，刘易斯·普罗瑟罗因主持他的廣播節目而有了「命運之音」（）的稱號；而電影則在設定上做了些更動，將普罗瑟罗改成電視節目的主持人，而他的稱號也改為了「倫敦之音」\[111\]。戈登·戴特里希在原著漫畫中是一名罪犯，藏匿艾薇並與她發生性關係，最後遭到黑幫謀殺；而電影則將他設定為艾薇在電視台的上司，同時也是一名同性戀，最終因他收藏的[古蘭經副本而遭政府抓走](https://zh.wikipedia.org/wiki/古蘭經 "wikilink")\[112\]。原著漫畫中，法西斯政府能在選舉中勝出是因為公眾的冷眼旁觀；而電影則將原由改為一種由北方之火研發並散播的病毒。北方之火用該病毒來控制國家\[113\]。
+在原著漫畫中，刘易斯·普罗瑟罗因主持他的廣播節目而有了「命運之音」（）的稱號；而電影則在設定上做了些更動，將普罗瑟罗改成電視節目的主持人，而他的稱號也改為了「倫敦之音」\[124\]。戈登·戴特里希在原著漫畫中是一名罪犯，藏匿艾薇並與她發生性關係，最後遭到黑幫謀殺；而電影則將他設定為艾薇在電視台的上司，同時也是一名同性戀，最終因他收藏的[古蘭經副本而遭政府抓走](https://zh.wikipedia.org/wiki/古蘭經 "wikilink")\[125\]。原著漫畫中，法西斯政府能在選舉中勝出是因為公眾的冷眼旁觀；而電影則將原由改為一種由北方之火研發並散播的病毒。北方之火用該病毒來控制國家。\[126\]
 
-由于自己既未参与剧本写作也未曾指导電影的拍摄，原著漫畫的作者[阿蘭·摩爾坚持与該片划清界限](https://zh.wikipedia.org/wiki/阿蘭·摩爾 "wikilink")。实际上，更主要的原因為沃卓斯基姐妹等人对他作品的改编引发的一系列争议\[114\]。由于摩尔先前的出版商[DC漫画的母公司](https://zh.wikipedia.org/wiki/DC漫画 "wikilink")[华纳兄弟](../Page/华纳兄弟.md "wikilink")没有收回他们之前对摩尔支持該片拍摄的承诺，他甚至结束了与DC漫画的长期合作關係。摩尔认为電影的劇情存在着不少漏洞\[115\]。他还一再申明该片曲解了他的原著作品。他认为電影并不是对原著中人类政治的两大极端[无政府主义](../Page/无政府主义.md "wikilink")和[法西斯主义](../Page/法西斯主义.md "wikilink")对抗的反映，而是当下美国[新保守主义与](https://zh.wikipedia.org/wiki/新保守主义 "wikilink")争斗的大银幕版本\[116\]。最终也确实如摩尔所愿，他的名字并没有在電影的片尾字幕中出现。不过原著漫画的另一位作者却对電影對原著所做的改编抱支持态度。他不仅对电影的剧本表示赞赏，还讽刺摩尔只欢迎毫厘不差按照他的小说拍摄的电影\[117\]。[雨果·威明於](https://zh.wikipedia.org/wiki/雨果·威明 "wikilink")2005年6月1日的採訪中表示，「阿蘭·摩爾的作品針對的是過去的事情。原著漫畫諷喻的是[柴契爾時代的英國](https://zh.wikipedia.org/wiki/瑪格麗特·撒切爾 "wikilink")……而我們的電影針對的是我們現在生活的世界。所以我認為這部電影和原著的故事本質上是不同的」\[118\]。
+由于自己既未参与剧本写作也未曾指导電影的拍摄，原著漫畫的作者[阿蘭·摩爾坚持与該片划清界限](https://zh.wikipedia.org/wiki/阿蘭·摩爾 "wikilink")。实际上，更主要的原因為沃卓斯基姐妹等人对他作品的改编引发的一系列争议\[127\]。由于摩尔先前的出版商[DC漫画的母公司](https://zh.wikipedia.org/wiki/DC漫画 "wikilink")[华纳兄弟](../Page/华纳兄弟.md "wikilink")没有收回他们之前对摩尔支持該片拍摄的承诺，他甚至结束了与DC漫画的长期合作關係。摩尔认为電影的劇情存在着不少漏洞\[128\]。他还一再申明该片曲解了他的原著作品。他认为電影并不是对原著中人类政治的两大极端[无政府主义](../Page/无政府主义.md "wikilink")和[法西斯主义](../Page/法西斯主义.md "wikilink")对抗的反映，而是当下美国[新保守主义与](https://zh.wikipedia.org/wiki/新保守主义 "wikilink")争斗的大银幕版本\[129\]。最终也确实如摩尔所愿，他的名字并没有在電影的片尾字幕中出现。不过原著漫画的另一位作者却对電影對原著所做的改编抱支持态度。他不仅对电影的剧本表示赞赏，还讽刺摩尔只欢迎毫厘不差按照他的小说拍摄的电影\[130\]。[雨果·威明於](https://zh.wikipedia.org/wiki/雨果·威明 "wikilink")2005年6月1日的採訪中表示，「阿蘭·摩爾的作品針對的是過去的事情。原著漫畫諷喻的是[柴契爾時代的英國](https://zh.wikipedia.org/wiki/瑪格麗特·撒切爾 "wikilink")……而我們的電影針對的是我們現在生活的世界。所以我認為這部電影和原著的故事本質上是不同的」\[131\]。
 
 ## 家庭媒體
 
-《V怪客》的DVD于2006年8月1日开始在美国发行\[119\]。DVD於首週賣出約141萬份，共計收入2,768萬美元。截至2006年底，DVD已售出308萬份，銷售總額約為5,834美元\[120\]。該片的[通用媒體光碟](../Page/通用媒體光碟.md "wikilink")於2006年7月31日發行\[121\]，而[HD DVD版本則於同年](../Page/HD_DVD.md "wikilink")12月13日上市\[122\]。2008年2月8日，华纳兄弟宣布，他们将在同年晚些时候发布電影的[蓝光光碟版本](https://zh.wikipedia.org/wiki/蓝光光碟 "wikilink")\[123\]。《V怪客》的藍光版本於8月13日在[二區發行](../Page/DVD區域碼.md "wikilink")\[124\]。
+《V怪客》的DVD于2006年8月1日开始在美国发行\[132\]。DVD於首週賣出約141萬份，共計收入2,768萬美元。截至2006年底，DVD已售出308萬份，銷售總額約為5,834美元\[133\]。該片的[通用媒體光碟](../Page/通用媒體光碟.md "wikilink")於2006年7月31日發行\[134\]，而[HD DVD版本則於同年](../Page/HD_DVD.md "wikilink")12月13日上市\[135\]。2008年2月8日，华纳兄弟宣布，他们将在同年晚些时候发布電影的[蓝光光碟版本](https://zh.wikipedia.org/wiki/蓝光光碟 "wikilink")\[136\]。8月13日，《V怪客》的藍光版本於[二區發行](../Page/DVD區域碼.md "wikilink")\[137\]。
 
 ## 書籍
 
-摩爾和勞埃德的原創視覺小說於2005年10月以精裝版重新發行\[125\]。2006年1月31日，出版了根據[華卓斯基姐妹所撰劇本改編的電影小說](https://zh.wikipedia.org/wiki/華卓斯基姐妹 "wikilink")，該書由編寫\[126\]。西蒙·萬斯將電影小說錄製成[有聲書](../Page/有聲書.md "wikilink")，並由發行\[127\]。曾與華卓斯基姐妹合作過的史賓賽·拉姆（）創作了一本介紹電影的「幕後製作過程」、名為《V怪客：從劇本到電影》（）的書籍，並由在2006年8月22日出版\[128\]。
+摩爾和勞埃德的原創視覺小說於2005年10月以精裝版重新發行\[138\]。2006年1月31日，出版了根據[華卓斯基姐妹所撰劇本改編的電影小說](https://zh.wikipedia.org/wiki/華卓斯基姐妹 "wikilink")，該書由編寫\[139\]。西蒙·萬斯將電影小說錄製成[有聲書](../Page/有聲書.md "wikilink")，並由發行\[140\]。曾與華卓斯基姐妹合作過的史賓賽·拉姆（）創作了一本介紹電影的「幕後製作過程」、名為《V怪客：從劇本到電影》（）的書籍，並由在2006年8月22日出版\[141\]。
+
+## 後續影響
+
+在《V怪客》上映後，片中主角V戴的[蓋伊·福克斯面具](../Page/蓋伊·福克斯面具.md "wikilink")開始被國際間許多抗議團體所廣泛採用\[142\]\[143\]。另外，該片也出現在美國作家[約翰·葛林](../Page/約翰·葛林.md "wikilink")的2012年小說《[生命中的美好缺憾](../Page/生命中的美好缺憾.md "wikilink")》中\[144\]\[145\]。
 
 ## 註釋
 
@@ -194,7 +204,7 @@
   -
   -
   -
-[Category:2006年电影](https://zh.wikipedia.org/wiki/Category:2006年电影 "wikilink") [Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:2000年代驚悚片](https://zh.wikipedia.org/wiki/Category:2000年代驚悚片 "wikilink") [Category:美國科幻動作片](https://zh.wikipedia.org/wiki/Category:美國科幻動作片 "wikilink") [Category:美國動作驚悚片](https://zh.wikipedia.org/wiki/Category:美國動作驚悚片 "wikilink") [Category:倫敦背景電影](https://zh.wikipedia.org/wiki/Category:倫敦背景電影 "wikilink") [Category:未來背景電影](https://zh.wikipedia.org/wiki/Category:未來背景電影 "wikilink") [Category:2020年背景电影](https://zh.wikipedia.org/wiki/Category:2020年背景电影 "wikilink") [Category:美國LGBT相關電影](https://zh.wikipedia.org/wiki/Category:美國LGBT相關電影 "wikilink") [Category:美国漫画改编电影](https://zh.wikipedia.org/wiki/Category:美国漫画改编电影 "wikilink") [Category:華納兄弟電影](https://zh.wikipedia.org/wiki/Category:華納兄弟電影 "wikilink") [Category:美國政治劇情片](https://zh.wikipedia.org/wiki/Category:美國政治劇情片 "wikilink") [Category:反烏托邦電影](https://zh.wikipedia.org/wiki/Category:反烏托邦電影 "wikilink") [Category:私刑電影](https://zh.wikipedia.org/wiki/Category:私刑電影 "wikilink") [Category:女同性戀相關電影](https://zh.wikipedia.org/wiki/Category:女同性戀相關電影 "wikilink") [Category:文明崩潰後世界題材電影](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材電影 "wikilink") [Category:恐怖活動電影](https://zh.wikipedia.org/wiki/Category:恐怖活動電影 "wikilink") [Category:隱瞞身分題材電影](https://zh.wikipedia.org/wiki/Category:隱瞞身分題材電影 "wikilink") [Category:連環殺手題材電影](https://zh.wikipedia.org/wiki/Category:連環殺手題材電影 "wikilink") [Category:反法西斯主義電影](https://zh.wikipedia.org/wiki/Category:反法西斯主義電影 "wikilink") [Category:面具相關作品](https://zh.wikipedia.org/wiki/Category:面具相關作品 "wikilink") [Category:社會運動題材電影](https://zh.wikipedia.org/wiki/Category:社會運動題材電影 "wikilink")
+[Category:2006年电影](https://zh.wikipedia.org/wiki/Category:2006年电影 "wikilink") [Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:2000年代驚悚片](https://zh.wikipedia.org/wiki/Category:2000年代驚悚片 "wikilink") [Category:美國科幻動作片](https://zh.wikipedia.org/wiki/Category:美國科幻動作片 "wikilink") [Category:美國動作驚悚片](https://zh.wikipedia.org/wiki/Category:美國動作驚悚片 "wikilink") [Category:倫敦背景電影](https://zh.wikipedia.org/wiki/Category:倫敦背景電影 "wikilink") [Category:未來背景電影](https://zh.wikipedia.org/wiki/Category:未來背景電影 "wikilink") [Category:2020年背景电影](https://zh.wikipedia.org/wiki/Category:2020年背景电影 "wikilink") [Category:美國LGBT相關電影](https://zh.wikipedia.org/wiki/Category:美國LGBT相關電影 "wikilink") [Category:美国漫画改编电影](https://zh.wikipedia.org/wiki/Category:美国漫画改编电影 "wikilink") [Category:華納兄弟電影](https://zh.wikipedia.org/wiki/Category:華納兄弟電影 "wikilink") [Category:美國政治劇情片](https://zh.wikipedia.org/wiki/Category:美國政治劇情片 "wikilink") [Category:反烏托邦電影](https://zh.wikipedia.org/wiki/Category:反烏托邦電影 "wikilink") [Category:私刑電影](https://zh.wikipedia.org/wiki/Category:私刑電影 "wikilink") [Category:女同性戀相關電影](https://zh.wikipedia.org/wiki/Category:女同性戀相關電影 "wikilink") [Category:文明崩潰後世界題材電影](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材電影 "wikilink") [Category:恐怖活動電影](https://zh.wikipedia.org/wiki/Category:恐怖活動電影 "wikilink") [Category:隱瞞身分題材電影](https://zh.wikipedia.org/wiki/Category:隱瞞身分題材電影 "wikilink") [Category:連環殺手題材電影](https://zh.wikipedia.org/wiki/Category:連環殺手題材電影 "wikilink") [Category:反法西斯主義電影](https://zh.wikipedia.org/wiki/Category:反法西斯主義電影 "wikilink") [Category:面具相關作品](https://zh.wikipedia.org/wiki/Category:面具相關作品 "wikilink") [Category:社會運動題材電影](https://zh.wikipedia.org/wiki/Category:社會運動題材電影 "wikilink") [Category:超級英雄電影](https://zh.wikipedia.org/wiki/Category:超級英雄電影 "wikilink")
 
 1.
 2.
@@ -324,3 +334,20 @@
 126.
 127.
 128.
+129.
+130.
+131.
+132.
+133.
+134.
+135.
+136.
+137.
+138.  ISBN 978-1-4012-0792-2
+139.  ISBN 978-1-4165-1699-6
+140.
+141.  ISBN 978-0-7893-1520-5
+142.
+143.
+144.
+145.

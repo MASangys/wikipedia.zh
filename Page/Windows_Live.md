@@ -157,7 +157,7 @@ Windows Live ID的密碼與[Xbox Live是相通的](../Page/Xbox_Live.md "wikilin
 <td></td>
 <td></td>
 <td><p>被取代</p></td>
-<td><p><a href="http://health.msn.com">MSN Health</a></p></td>
+<td><p><a href="https://web.archive.org/web/20130702034854/http://health.msn.com/">MSN Health</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Windows_Live_Home" title="wikilink">Windows Live Home</a></p></td>
@@ -225,7 +225,7 @@ Windows Live ID的密碼與[Xbox Live是相通的](../Page/Xbox_Live.md "wikilin
 <tr class="odd">
 <td><p><a href="../Page/Windows_Live_Messenger.md" title="wikilink">Windows Live Messenger</a></p></td>
 <td><p>即時通訊、個人文件分享、語言通話通訊軟體</p></td>
-<td><p><a href="http://messenger.live.com">http://messenger.live.com</a></p></td>
+<td><p><a href="https://web.archive.org/web/20090503001129/http://messenger.live.com//">https://web.archive.org/web/20090503001129/http://messenger.live.com//</a></p></td>
 <td><p>被取代</p></td>
 <td><p><a href="../Page/Skype.md" title="wikilink">Skype</a></p></td>
 </tr>
@@ -344,7 +344,7 @@ Windows Live ID的密碼與[Xbox Live是相通的](../Page/Xbox_Live.md "wikilin
 <tr class="even">
 <td><p><a href="../Page/Windows_Live_Spaces.md" title="wikilink">Windows Live Spaces</a></p></td>
 <td><p>基於<a href="../Page/AJAX.md" title="wikilink">AJAX</a>的網誌社群</p></td>
-<td><p><a href="http://spaces.live.com">http://spaces.live.com</a></p></td>
+<td><p><a href="https://web.archive.org/web/20080819214707/http://www7203.spaces.live.com/">https://web.archive.org/web/20080819214707/http://www7203.spaces.live.com/</a></p></td>
 <td><p>已結束</p></td>
 <td></td>
 </tr>
@@ -491,7 +491,7 @@ Camera Roll</p></td>
 
 ## 特殊域名
 
-[w.cn](https://web.archive.org/web/20151005114813/http://www.w.cn/)和[9.cn](http://www.9.cn)这两个超短域名由微软购得，均指向Windows Live相关服务。（现在这两个域名分别转向至生活服务网站“[达步溜](https://zh.wikipedia.org/wiki/达步溜 "wikilink")”和游戏平台。）
+[w.cn](https://web.archive.org/web/20151005114813/http://www.w.cn/)和[9.cn](https://web.archive.org/web/20190404204058/http://9.cn/)这两个超短域名由微软购得，均指向Windows Live相关服务。（现在这两个域名分别转向至生活服务网站“[达步溜](https://zh.wikipedia.org/wiki/达步溜 "wikilink")”和游戏平台。）
 
 ## 审查
 

@@ -28,6 +28,7 @@
   - 2012年6月，I.G自製動畫《罪惡王冠》的6課工作室成立「[WIT STUDIO](../Page/WIT_STUDIO.md "wikilink")」。
   - 2012年10月，為幫助投入動畫電影《[009 RE:CYBORG](../Page/009_RE:CYBORG.md "wikilink")》製作委員會的母公司I.G Port資本金達成10％以上，Production I.G從製作委員會中特定子公司化。
   - 2014年10月，I.G的旗下企業「SIGNAL.MD（）」成立。
+  - 2019年6月1日，與XEBEC同社作品及和攝影部門合併「XEBEC zwei」（改名「IG zwei」）。
 
 ## 作品列表
 
@@ -254,6 +255,7 @@
   - [甲鐵城的卡巴內里](../Page/甲鐵城的卡巴內里.md "wikilink")（）（總承包商：WIT STUDIO，協力製作，2016年）
   - [藍海少女！](../Page/藍海少女！.md "wikilink")（）（總承包商：J.C.STAFF，製作委員會參與，2016年）
   - [魔法使的新娘](../Page/魔法使的新娘.md "wikilink")（）（總承包商：[WIT STUDIO](../Page/WIT_STUDIO.md "wikilink")，製作委員會幹事，2017年）
+  - [苍穹之战神 THE BEYOND](https://zh.wikipedia.org/wiki/苍穹之战神 "wikilink")（）（擔當：[IGzwei](../Page/XEBEC.md "wikilink")，2019年－2020年）
 
 ### OVA
 

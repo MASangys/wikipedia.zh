@@ -125,7 +125,7 @@
 2.初始無可用金額，需另行儲值</p></td>
 </tr>
 <tr class="even">
-<td><p>2006<a href="https://zh.wikipedia.org/wiki/洲際盃棒球賽" title="wikilink">洲際盃棒球賽紀念卡</a></p></td>
+<td><p>2006<a href="../Page/洲際盃棒球賽.md" title="wikilink">洲際盃棒球賽</a>紀念卡</p></td>
 <td><p>無</p></td>
 <td><p>1.2006年11月19日發行<br />
 2.內含加值金額</p></td>

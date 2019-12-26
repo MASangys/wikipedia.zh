@@ -52,7 +52,5 @@ XMMS現在支援以下的音訊和視訊檔案：
 ## 外部連結
 
   - [官方網站](http://www.xmms.org/)
-  - [XMMS截圖集](http://www.lynucs.org/?xmms)
-  - [ATER XMMS Skins官方网站](http://www.illusions.hu/)
 
-[Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
+[Category:使用GTK+的软件](https://zh.wikipedia.org/wiki/Category:使用GTK+的软件 "wikilink") [Category:自由音訊軟體](https://zh.wikipedia.org/wiki/Category:自由音訊軟體 "wikilink") [Category:自由媒體播放器](https://zh.wikipedia.org/wiki/Category:自由媒體播放器 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink") [Category:Linux軟件](https://zh.wikipedia.org/wiki/Category:Linux軟件 "wikilink")

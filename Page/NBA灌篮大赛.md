@@ -20,9 +20,9 @@
 <tbody>
 <tr class="odd">
 <td><p>2019</p></td>
-<td><p>Hamidou Diallo</p></td>
-<td><p>奧克拉荷馬雷霆</p></td>
-<td><p>夏洛特</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/哈米杜·迪亞洛" title="wikilink">哈米杜·迪亞洛</a></p></td>
+<td><p><a href="../Page/俄克拉何马城雷霆.md" title="wikilink">奧克拉荷馬雷霆</a></p></td>
+<td><p><a href="../Page/夏洛特_(北卡羅來納州).md" title="wikilink">夏洛特</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
@@ -68,7 +68,7 @@
 </tr>
 <tr class="odd">
 <td><p>2011</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/布莱克·格里芬" title="wikilink">布莱克·格里芬</a></p></td>
+<td><p><a href="../Page/布莱克·格里芬.md" title="wikilink">布莱克·格里芬</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯快船" title="wikilink">洛杉磯快船</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
 </tr>
@@ -250,9 +250,9 @@
 ## 外部連結
 
   - [NBA Top Dunks](https://archive.is/20130102231245/http://www.goppo.com/nba)
-  - [Year By Year Results](http://www.nba.com/history/allstar/slamdunk_year_by_year.html)
-  - [Slam Dunk Records](http://www.nba.com/history/allstar/slamdunk_records.html)
-  - [Slam Dunk contest video history](http://www.nba.com/history/allstar/slam_dunk_video.html)
+  - [Year By Year Results](https://web.archive.org/web/20161219112512/http://www.nba.com/history/allstar/slamdunk_year_by_year.html)
+  - [Slam Dunk Records](https://web.archive.org/web/20170416215829/http://www.nba.com/history/allstar/slamdunk_records.html)
+  - [Slam Dunk contest video history](https://web.archive.org/web/20160303181130/http://www.nba.com/history/allstar/slam_dunk_video.html)
 
 [Category:NBA全明星賽](https://zh.wikipedia.org/wiki/Category:NBA全明星賽 "wikilink")
 

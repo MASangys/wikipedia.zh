@@ -112,10 +112,7 @@ Windows 7以上的使用者即使在裝置中有病毒也不用擔心相關問�
 [Category:系统软件](https://zh.wikipedia.org/wiki/Category:系统软件 "wikilink")
 
 1.  [GetDriveType Function](http://msdn.microsoft.com/en-us/library/aa364939.aspx), 微軟MSDN資料庫
-
 2.  [如何在 Windows 中更正「停用自動執行登錄機碼」增強功能](http://support.microsoft.com/kb/967715)
-
 3.
 4.  [<File:Conficker> worm AutoPlay Vista.png](http://en.wikipedia.org/wiki/File:Conficker_worm_AutoPlay_Vista.png)
-
 5.  [如何在 Windows 中更正「停用自動執行登錄機碼」增強功能](http://support.microsoft.com/kb/967715)，如何在 Windows 7 和其他作業系統中停用或啟用所有自動執行功能

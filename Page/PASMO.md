@@ -236,6 +236,7 @@ PASMO的[吉祥物是一個](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")
   - 2014年（平成26年）1月21日：PASMO可以在東京機場交通的一部分路線上使用。
   - 2014年（平成26年）4月1日：伴隨[消費稅率由](https://zh.wikipedia.org/wiki/消費稅 "wikilink")5%上升至8%，Suica、Pasmo範圍內引入1日元單位的IC車費。
   - 2014年（平成26年）7月22日，PASMO可以使用[Wii U的支付結算](../Page/Wii_U.md "wikilink")、交通系[電子錢包](https://zh.wikipedia.org/wiki/電子錢包 "wikilink")（[Suica](../Page/Suica.md "wikilink")/PASMO/[kitaca](https://zh.wikipedia.org/wiki/kitaca "wikilink")/[TOICA](../Page/TOICA.md "wikilink")/[manaca](https://zh.wikipedia.org/wiki/manaca "wikilink")/[ICOCA](../Page/ICOCA.md "wikilink")/[SUGOCA](../Page/SUGOCA.md "wikilink")/[nimoca](https://zh.wikipedia.org/wiki/nimoca "wikilink")/[はやかけん](https://zh.wikipedia.org/wiki/はやかけん "wikilink")）。\[11\]\[12\]\[13\]\[14\]\[15\]\[16\]。
+  - 2019年9月1日：推出外籍旅客專用的PASMO PASSPORT。外籍旅客出示護照，可在指定的客務中心兌換。PASMO PASSPORT不設押金，使用期限為28天內，過期後卡內餘額將會全數作廢。\[17\]
 
 ## 注释
 
@@ -248,30 +249,19 @@ PASMO的[吉祥物是一個](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")
 [Category:日本智能卡](https://zh.wikipedia.org/wiki/Category:日本智能卡 "wikilink") [Category:電子貨幣](https://zh.wikipedia.org/wiki/Category:電子貨幣 "wikilink")
 
 1.  截至2013年4月只可使用PASMO與Suica。Suica以外可互相使用的其他公司不可使用。
-
 2.
 3.
 4.
 5.  [筑波観光鉄道](http://www.keiseicard.jp/release/100326_tsukubaRopeway.pdf)
-
 6.  [1](http://www.shonan-monorail.co.jp/news/upload/6e89ccf670b822069f4089a4a3df5e6396c7c7fd.pdf)
-
 7.  [10月1日（木）より水戸・取手エリア一般路線バスへの交通系ICカード導入のお知らせ](http://www.kantetsu.co.jp/news/1509040941_bus.html)  - 関東鉄道 ニュースリリース 2015年9月8日
-
 8.  [鹿島 - 東京駅線 ICカードサービス開始](http://www.kantetsu.co.jp/bus/highway/kashima/ic.html)  - 関東鉄道
-
 9.
-
-10. 詳細參見「[バス定期券の購入について](http://www.pasmo.co.jp/seasonticket/bus_ticket.html)」（PASMO官式網站）。
-
+10. 詳細參見「[バス定期券の購入について](http://www.pasmo.co.jp/seasonticket/bus_ticket.html) 」（PASMO官式網站）。
 11. [家庭用ゲーム機「Wii U」でSuicaがご利用いただけるようになります](http://www.nintendo.co.jp/corporate/release/2014/140718.html) - 任天堂ニュースリリース 2014年7月18日
-
 12. [Wii Uで交通系電子マネーが 使えるようになりました。](https://www.youtube.com/watch?v=Z3mAYihmqrM)
-
 13. [ピピっときた](http://www.nintendo.co.jp/campaign/butamedal/)
-
 14. [交通系電子マネーを使ってWii Uのチャージに挑戦、手軽さが魅力的](http://www.inside-games.jp/article/2014/07/22/78797.html)
-
 15. [Wii UでSuicaなど交通系電子マネー支払いが可能に](http://www.itmedia.co.jp/news/articles/1407/18/news144.html)
-
 16. [Wii UのニンテンドーeショップでSuicaが使用可能に。Suicaと相互利用サービスを行っているほとんどの交通系電子マネーにも対応](http://dengekionline.com/elem/000/000/889/889483/)
+17. [Japan’s new Pasmo Passport to boost hassle-free train rides](https://www.traveldailymedia.com/japans-new-pasmo-passport-to-boost-hassle-free-train-rides/)

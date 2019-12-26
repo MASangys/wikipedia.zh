@@ -33,7 +33,7 @@ Frutiger Arabic是Frutiger家族中的阿拉伯字体，由黎巴嫩女设计师
 
 ## 外部链接
 
-  - [Typowiki: Frutiger](http://typophile.com/wiki/Frutiger)
+  - [Typowiki: Frutiger](https://web.archive.org/web/20070613130453/http://typophile.com/wiki/Frutiger)
 
   - [linotype.com: Frutiger typeface family overview & related information](http://www.linotype.com/469/frutiger-family.html)
 

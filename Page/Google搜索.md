@@ -73,7 +73,7 @@ Google即搜即得可以在用户即使不知道要寻找什么，其联想查�
 
 ### 审查
 
-[色情](../Page/色情.md "wikilink")或其他有冒犯性的搜索关键词不会被Google Instant实时搜索。 出版物编译了Google Instant不会搜索的关键词列表。\[7\]Google Instant不会实时给出含有这些关键词的搜索结果。\[8\]\[9\]
+[色情](../Page/色情.md "wikilink")或其他有冒犯性的搜索关键词不会被Google Instant实时搜索。出版物编译了Google Instant不会搜索的关键词列表。\[7\]Google Instant不会实时给出含有这些关键词的搜索结果。\[8\]\[9\]
 
 ## 搜索结果即时预览
 

@@ -46,24 +46,15 @@ BMAA目前可藉由已知檢驗法檢測出，包括：液相色譜法、高效�
 [分類:α-胺基酸](https://zh.wikipedia.org/wiki/分類:α-胺基酸 "wikilink")
 
 1.  注：ALS/PDC 的英文全名是「*Amyotrophic lateral sclerosis / Parkinsonism dementia complex of Guam*」
-
 2.  Cox PA, Banack SA, Murch SJ, Rasmussen U, Tien G, Bidigare RR, Metcalf JS, Morrison LF, Codd GA, Bergman B. Diverse taxa of cyanobacteria produce β-N-methylamino-L-alanine, a neurotoxic amino acid. *Proceedings of the National Academy of Sciences of the United States of America* **2005**, *102*, 5074-5078. [1](http://dx.doi.org/10.1073/pnas.0501526102)
-
 3.  Greg Miller. Guam's Deadly Stalker: On the Loose Worldwide? *Science* **July 2006**, *28* (313), 428-431. [2](http://dx.doi.org/10.1126/science.313.5786.428)
-
 4.  [髮菜無益 調查指三成假貨真貨含神經毒素, 香港明報, 30/1/07](http://www.mingpaonews.com/20070130/gba1.htm)
-
 5.  *中大引述文獻：食髮菜會癡呆*, 香港《[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink")》,30/1/07
-
 6.  PS Spencer, PB Nunn, J Hugon, AC Ludolph, SM Ross, DN Roy, and RC Robertson. Guam amyotrophic lateral sclerosis-parkinsonism-dementia linked to a plant excitant neurotoxin. *Science* **July 1987**, *31* (237), 517-522.
-
 7.
 8.  [3](http://www.mdpi.com/1660-3397/10/2/509)
-
 9.  [4](http://www.sciencedaily.com/releases/2012/02/120223182516.htm)
-
 10. [5](https://dx.doi.org/10.1039%2Fc2an16250d)
-
 11.
 12.
 13.

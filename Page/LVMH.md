@@ -54,6 +54,8 @@ De Beers Diamond Jewellers成立於2001年，由全球最大的精品集團LVMH�
 
 2019年7月15日LVMH集團購買英國設計師品牌[史黛拉·麥卡尼](../Page/史黛拉·麥卡尼.md "wikilink")（Stella McCartney）少數股權。该品牌不久前才結束與[開雲集團的長期合作關係](https://zh.wikipedia.org/wiki/開雲集團 "wikilink")，史黛拉‧麥卡尼（Stella McCartney）仍將擁有同名品牌的多數所有權，並續任創意總監
 
+2019年11月26日法國奢侈品集團LVMH與美國珠寶商Tiffany達成協議，LVMH斥162億美元現金收購Tiffany，即每股135美元，藉此加強集團最弱的珠寶業務，同時利用Tiffany網絡擴大集團的美國市場佔有率。\[13\]
+
 ## 旗下品牌
 
   - 葡萄酒及烈酒
@@ -195,3 +197,4 @@ De Beers Diamond Jewellers成立於2001年，由全球最大的精品集團LVMH�
 10. [LVMH 7.8億購翡翠拉麵小籠包](http://paper.wenweipo.com/2014/05/01/FI1405010022.htm)[文匯報](https://zh.wikipedia.org/wiki/文匯報 "wikilink")2014年5月1日
 11. [LVMH 集團不止經營大品牌，支援全球 Startup 計劃起動](https://www.mings-fashion.com/lvmh-bernard-arnault-1330/)
 12. [你也有機會到參觀 Dior和Givenchy 等絕密時裝工作室｜LVMH 工坊開放日](https://www.mings-fashion.com/dior-givenchy-lvmh-14308/)
+13.

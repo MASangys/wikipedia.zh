@@ -1,4 +1,4 @@
-**塞缪尔·菲利普斯·亨廷顿**（，），当代颇有争议的[美国](../Page/美国.md "wikilink")[保守派](https://zh.wikipedia.org/wiki/保守派 "wikilink")[政治学](../Page/政治学.md "wikilink")家。他以《[文明冲突论](https://zh.wikipedia.org/wiki/文明冲突论 "wikilink")》闻名于世，认为21世纪[國際政治的核心政治角力是在不同文明之间而非国家之间](https://zh.wikipedia.org/wiki/國際政治 "wikilink")。\[1\]亨廷頓与[莫里斯·詹诺维茨是](https://zh.wikipedia.org/wiki/莫里斯·詹诺维茨 "wikilink")20世纪晚期[政军关系研究的先驱者](https://zh.wikipedia.org/wiki/政军关系 "wikilink")。\[2\]。他个人的政治定位是[民主党右翼](https://zh.wikipedia.org/wiki/美国民主党 "wikilink")\[3\]。近来，他对美国[移民问题的看法亦广受关注](https://zh.wikipedia.org/wiki/移民问题 "wikilink")。
+**塞缪尔·菲利普斯·亨廷顿**（，），当代颇有争议的[美国](../Page/美国.md "wikilink")[保守派](https://zh.wikipedia.org/wiki/保守派 "wikilink")[政治学](../Page/政治学.md "wikilink")家。他以《[文明冲突论](https://zh.wikipedia.org/wiki/文明冲突论 "wikilink")》闻名于世，认为21世纪[國際政治的核心政治角力是在不同文明之间而非国家之间](https://zh.wikipedia.org/wiki/國際政治 "wikilink")。\[1\]亨廷頓与莫里斯·詹诺维茨是20世纪晚期[政军关系研究的先驱者](https://zh.wikipedia.org/wiki/政军关系 "wikilink")。\[2\]。他个人的政治定位是[民主党右翼](https://zh.wikipedia.org/wiki/美国民主党 "wikilink")\[3\]。近来，他对美国移民问题的看法亦广受关注。
 
 ## 人物生平
 

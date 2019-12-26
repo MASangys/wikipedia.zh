@@ -206,6 +206,7 @@ SOCKS5请求格式（以字节为单位）：
 
 部分SOCKS服务器软件：
 
+  - Brook, <https://github.com/txthinking/brook>
   - Dante Socks Server，http://www.inet.no/dante
   - Java Socks Server，http://jsocks.sourceforge.net
   - Socks4 Server，https://archive.is/20130502024508/http://www.alhem.net/project/socks4
@@ -227,7 +228,7 @@ SOCKS5请求格式（以字节为单位）：
 | **[Super Socks5Cap](http://www.networktunnel.net/)**                                                                   | \-                                                  | 1.5.3  | \-      | Windows                                  | \-     |
 | **[tsocks](http://tsocks.sourceforge.net/about.php)**                                                                  | GPL                                                 | 1.8    | 10/2002 | \-                                       | \-     |
 | **[nylon](https://web.archive.org/web/20051106034218/http://monkey.org/~marius/pages/?page=nylon)**                    | \-                                                  | \-     | 06/2003 | [OpenBSD](../Page/OpenBSD.md "wikilink") | \-     |
-| [Win2Socks](https://win2socks.com)                                                                                     | \-                                                  | 1.1    | 09/2019 | Windows                                  | v5     |
+| [Win2Socks](https://win2socks.com)                                                                                     | \-                                                  | 1.2    | 10/2019 | Windows                                  | v5     |
 
 ## 注释
 

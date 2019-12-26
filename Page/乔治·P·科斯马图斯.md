@@ -4,7 +4,7 @@
 
 ## 生平
 
-[希腊](../Page/希腊.md "wikilink")[导演乔治](https://zh.wikipedia.org/wiki/导演 "wikilink")·P·科斯马图斯，1941年1月4日生于[意大利](../Page/意大利.md "wikilink")[佛罗伦萨](../Page/佛罗伦萨.md "wikilink")，2005年4月19日因[肺癌](../Page/肺癌.md "wikilink")逝世于[加拿大](../Page/加拿大.md "wikilink")[维多利亚](../Page/維多利亞_\(不列顛哥倫比亞\).md "wikilink")。
+[希腊](../Page/希腊.md "wikilink")[导演](../Page/导演.md "wikilink")乔治·P·科斯马图斯，1941年1月4日生于[意大利](../Page/意大利.md "wikilink")[佛罗伦萨](../Page/佛罗伦萨.md "wikilink")，2005年4月19日因[肺癌](../Page/肺癌.md "wikilink")逝世于[加拿大](../Page/加拿大.md "wikilink")[维多利亚](../Page/維多利亞_\(不列顛哥倫比亞\).md "wikilink")。
 
 科斯马图斯早年在[伦敦](../Page/伦敦.md "wikilink")求学，毕业后曾担任[奥托·普雷明格的巨作](https://zh.wikipedia.org/wiki/奥托·普雷明格 "wikilink")《[出埃及记](https://zh.wikipedia.org/wiki/出埃及记_\(电影\) "wikilink")》（Exodus, 1960）的助理导演，将这部[莱昂·尤瑞斯描绘](https://zh.wikipedia.org/wiki/莱昂·尤瑞斯 "wikilink")[以色列](../Page/以色列.md "wikilink")诞生的史诗搬上银幕。接着科斯马图斯参与了《[希腊人佐巴](https://zh.wikipedia.org/wiki/希腊人佐巴 "wikilink")》（Zorba the Greek, 1964）的拍摄，他自己也在其中出演了一个脸上长粉刺的年轻人角色。
 

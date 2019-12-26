@@ -2,7 +2,7 @@
 
 《Take me Home》 是「[小報](https://zh.wikipedia.org/wiki/小報 "wikilink")」大小，內容是[繁體中文](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")，以香港之社區性新聞為主，另有健康、飲食、商場及資訊性題材，六區內容大致不同。《Take me Home》 的收入來源是[報紙](../Page/報紙.md "wikilink")[廣告](../Page/廣告.md "wikilink")，尤其以商場活動及醫藥健康產品為主。
 
-《Take me Home》於2011年7月22日出版最後一期後停刊，並於該月27日起改組成一份全港性的免費報紙《[晴報](../Page/晴報.md "wikilink")》，逢星期一至五派發。《Take me Home》停刊後，於全香港派發的地區性報紙僅餘《[星島地區報](https://zh.wikipedia.org/wiki/星島地區報 "wikilink")》。
+《Take me Home》於2011年7月22日出版最後一期後停刊，並於該月27日起改組成一份全港性的免費報紙《[晴報](../Page/晴報.md "wikilink")》，逢星期一至五派發。《Take me Home》停刊後，於全香港派發的地區性報紙僅餘《[星島地區報](https://zh.wikipedia.org/wiki/星島地區報 "wikilink")》，然而，《星島地區報》亦於2018年8月停刋。
 
 ## 地區版本
 

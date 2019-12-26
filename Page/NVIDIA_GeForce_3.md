@@ -45,7 +45,7 @@ GeForce3是以FSAA（全景反鋸齒效果）為設計概念，採用名為「Qu
 
   - [NVIDIA GeForce 3主頁](http://www.nvidia.com/page/geforce3.html)
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:GeForce系列](https://zh.wikipedia.org/wiki/Category:GeForce系列 "wikilink") [Category:2001年面世的產品](https://zh.wikipedia.org/wiki/Category:2001年面世的產品 "wikilink")
 
 1.  [NVIDIA Introduces GeForce3--Breaks New Ground in the Quest for Real-Time Cinematic Graphics](http://www.nvidia.com/object/IO_20010530_6131.html)
 2.  [21 GeForce Titanium Boards](http://www.thg.ru/graphic/20011218/print.html)

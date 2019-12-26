@@ -89,7 +89,5 @@ Raidas出版了一張[EP和兩張大碟後](https://zh.wikipedia.org/wiki/EP "wi
 [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:電子音樂團體](https://zh.wikipedia.org/wiki/Category:電子音樂團體 "wikilink") [Category:1986年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1986年成立的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:香港音樂](https://zh.wikipedia.org/wiki/Category:香港音樂 "wikilink")
 
 1.  [《真音樂》](http://www.rthk.org.hk/classicschannel/realmusic.htm) 香港電台文教組及香港作曲家及作詞家協會聯合製作 (2003年)
-
 2.  [歷年十大中文金曲頒獎音樂會 第十屆 (1987)](http://www.rthk.org.hk/classicschannel/goldsong10.htm)
-
 3.

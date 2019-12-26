@@ -60,7 +60,7 @@ SAX事件驅動的模型對於XML解析很有用，但它確實有某些缺點�
 
 ## 外部連結
 
-  - [SAX 首頁](http://www.saxproject.org/)
+  - [SAX 首頁](https://web.archive.org/web/20171012080000/http://www.saxproject.org/)
   - [前10大 SAX2 密技](http://xml.com/pub/a/2001/12/05/sax2.html)
 
 <!-- end list -->

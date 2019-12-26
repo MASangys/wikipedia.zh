@@ -4,12 +4,6 @@ Technorati在2006年西南西音乐节（SXSW）中获得技术最高分奖（Te
 
 ## 注釋
 
-<div class="references-small">
-
-<references/>
-
-</div>
-
 ## 外部链接
 
   - [Technorati网站](http://technorati.com)

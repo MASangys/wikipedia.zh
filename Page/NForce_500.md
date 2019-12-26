@@ -80,6 +80,6 @@
   - [nForce 500 AMD平臺官方網頁](http://www.nvidia.com/page/nforce5_amd.html)
   - [nForce 500 Intel平臺官方網頁](http://www.nvidia.com/page/nforce5_intel.html)
 
-[Category:主板](https://zh.wikipedia.org/wiki/Category:主板 "wikilink") [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:nForce系列](https://zh.wikipedia.org/wiki/Category:nForce系列 "wikilink") [Category:2006年面世的產品](https://zh.wikipedia.org/wiki/Category:2006年面世的產品 "wikilink")
 
 1.  [NVIDIA to Demonstrate Next-Generation NVIDIA® nForce® 500 Family of Core-Logic Solutions at Cebit](http://www.nvidia.com/object/IO_30177.html)

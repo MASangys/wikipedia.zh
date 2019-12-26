@@ -13,7 +13,7 @@
 
 ## 外部連結
 
-  - [計畫網頁](http://ext2fsd.com)
+  - [計畫網頁](https://web.archive.org/web/20190430101555/http://www.ext2fsd.com/)
 
   -
 [Category:SourceForge專案](https://zh.wikipedia.org/wiki/Category:SourceForge專案 "wikilink")

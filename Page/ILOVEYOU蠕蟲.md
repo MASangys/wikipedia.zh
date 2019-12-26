@@ -23,7 +23,7 @@
 
 ## 蠕蟲結構
 
-本蠕蟲的作者辯稱自己在意外中釋放了此惡意軟體。此蠕蟲以[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") Visual Basic Scripting寫成，並需要受害者親自啟動此檔案。它也會在Windows登錄編輯程式增加一些注册表键（registry key），使得此惡意程式可以在電腦每次開機時隨之啟動。
+本蠕蟲的作者辯稱自己在意外中釋放了此惡意軟體。此蠕蟲以[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") [Visual Basic Scripting寫成](https://zh.wikipedia.org/wiki/Visual_Basic_Scripting "wikilink")，並需要受害者親自啟動此檔案。它也會在Windows登錄編輯程式增加一些注册表键（registry key），使得此惡意程式可以在電腦每次開機時隨之啟動。
 
 本蠕蟲將隨之尋找本受感染電腦所有的檔案裝置並將附檔名為\*.JPG, \*.JPEG, \*.VBS, \*.VBE, \*.JS, \*.JSE, \*.CSS, \*.WSH, \*.SCT, \*.HTA的檔案以自己的病毒碼覆蓋之，並再添加.VBS附檔名。此惡意程式也鎖定\*.MP3與\*.MP2檔案，並將它們隱藏，並複製份相同檔名且添增附檔名.VBS的受感染檔案。
 

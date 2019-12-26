@@ -18,11 +18,11 @@
 
 ### UNY
 
-以「獨特的商品推廣及市場營銷的零售商」為企業概念，由“UNIQUE”， “UNITED”， “UNIVERSAL”， “UNITY”， “UNIFY” 五個英文單字已取名為UNY。「UNY」這個名稱被載入香港著名組合[軟硬天師](../Page/軟硬天師.md "wikilink")的著名歌曲之一《川保久齡大戰山本耀司》。UNY生活創庫[樂富店](../Page/樂富廣場.md "wikilink")\[2\]\[3\]於2010年6月1日起試業，並於6月5日開業，該店面積大約11萬呎。\[4\]
+以「獨特的商品推廣及市場營銷的零售商」為企業概念，由“UNIQUE”， “UNITED”， “UNIVERSAL”， “UNITY”， “UNIFY” 五個英文單字已取名為UNY。「UNY」這個名稱被載入香港著名組合[軟硬天師](../Page/軟硬天師.md "wikilink")的著名歌曲之一《川保久齡大戰山本耀司》。UNY生活創庫[樂富店](../Page/樂富廣場.md "wikilink")\[2\]\[3\]於2010年6月1日起試業，並於6月5日開業，該店面積大約11萬呎，其中三樓部分已於2019年5月1日結束營業，令店舖面積縮減近一半，剩餘二樓部分則進行改製翻新工程。\[4\]
 
 ### PIAGO
 
-[piago_logo.gif](https://zh.wikipedia.org/wiki/File:piago_logo.gif "fig:piago_logo.gif") **PIAGO**為日式家居生活百貨，品牌名稱的靈感來自[意大利文](https://zh.wikipedia.org/wiki/意大利文 "wikilink")「Piacevole」和「Luogo」。 有「快樂」的「地方」之意，表示顧客在PIAGO購物能為他們帶來最愉快稱心的消費體驗。PIAGO[德福店於](../Page/德福廣場.md "wikilink")2010年12月17日起試業，並於12月20日開業，樓面面積為7萬平方呎。\[5\]\[6\]設超級市場、美食廣場、家品部和精品部，到2019年3月尾結業。\[7\]
+[piago_logo.gif](https://zh.wikipedia.org/wiki/File:piago_logo.gif "fig:piago_logo.gif") **PIAGO**為日式家居生活百貨，品牌名稱的靈感來自[意大利文](https://zh.wikipedia.org/wiki/意大利文 "wikilink")「Piacevole」和「Luogo」。 有「快樂」的「地方」之意，表示顧客在PIAGO購物能為他們帶來最愉快稱心的消費體驗。PIAGO[德福店於](../Page/德福廣場.md "wikilink")2010年12月17日起試業，並於12月20日開業，樓面面積為7萬平方呎。\[5\]\[6\]設超級市場、美食廣場、家品部和精品部，到2019年3月尾結束營業。\[7\]
 
 ### APITA
 
@@ -34,7 +34,7 @@ APITA[太古城店由](../Page/太古城中心.md "wikilink")1987年開業的舊
 
 ### 私と生活
 
-私と生活是UNY旗下的生活雜貨店，大部分貨品向日本100円雜貨店Seria（セリア）取貨並以12元發售。全部分店已經結業。
+私と生活是UNY旗下的生活雜貨店，大部分貨品向日本100円雜貨店Seria（セリア）取貨並以12元發售。全部分店已經結束營業。
 
 ## 上海分店
 
@@ -43,6 +43,7 @@ APITA[太古城店由](../Page/太古城中心.md "wikilink")1987年開業的舊
 ## 參見
 
   - [一田百貨](../Page/一田百貨.md "wikilink")
+  - [永旺百貨](../Page/永旺百貨.md "wikilink")
 
 ## 參考來源
 
@@ -64,4 +65,4 @@ APITA[太古城店由](../Page/太古城中心.md "wikilink")1987年開業的舊
 5.  [《PIAGO首登陸香港 選址德福》](http://news.sina.com.hk/cgi-bin/nw/show.cgi/19/1/1/1491033/1.html)，明報，2010年4月16日
 6.  [《港鐵11商場聖誕投資額2500萬》](http://property.mpfinance.com/cfm/pa3.cfm?File=20101108/pad01/m.txt)，明報，2010年11月8日
 7.
-8.  \[日式百貨店APiTA入駐上海 <http://paper.wenweipo.com/2010/12/13/QB1012130001.htm>\]
+8.  \[日式百貨店APiTA入駐上海 <http://paper.wenweipo.com/2010/12/13/QB1012130001.htm> \]

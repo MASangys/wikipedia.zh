@@ -446,7 +446,7 @@
 2.  第11回中國即受此條例限制，上屆冠亞軍加上四名種子，超出5人限制，最後種子分配改為韓國6人，中國5人，日本4人，台灣1人
 3.  [向韓國棋手傾斜動作大了點 韓國棋院表示“意外和遺憾”](http://weiqi.sports.tom.com/news/21021.html)
 4.  元晟溱由于军人特殊身份将放弃今年的国际比赛资格
-5.  [LG杯王昊洋不敌李昌镐 李喆柁嘉熹李钦诚谢尔豪8人进本赛](http://weiqi.tom.com/2013-04-23/00UP/22356294.html)
+5.
 6.  [LG杯预选李昌镐首轮出局 周睿羊陈耀烨等晋级](http://sports.sina.com.cn/go/2018-04-02/doc-ifysvuvq4360957.shtml)
 7.  [高清-第23届LG杯预选完全演进图 中国12人晋级](http://slide.sports.sina.com.cn/go/slide_2_820_179670.html#p=1)
 8.  [LG杯柁嘉熹出局俞斌晋级 中国6-2韩国夺12席](http://sports.sina.com.cn/go/2018-04-07/doc-ifyvtmxc5215581.shtml)

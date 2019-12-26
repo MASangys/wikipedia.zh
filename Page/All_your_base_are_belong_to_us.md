@@ -144,50 +144,27 @@
 [Category:恶搞文化](https://zh.wikipedia.org/wiki/Category:恶搞文化 "wikilink") [Category:翻譯](https://zh.wikipedia.org/wiki/Category:翻譯 "wikilink") [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink") [Category:電子遊戲迷因](https://zh.wikipedia.org/wiki/Category:電子遊戲迷因 "wikilink") [Category:和製英語](https://zh.wikipedia.org/wiki/Category:和製英語 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.  [All Your Base Are Belong to Us - Part of a series on Engrish.](http://knowyourmeme.com/memes/all-your-base-are-belong-to-us)
-
 8.  [Red Alert 3 Trailer: All Your Base Are Belong To Us, Cowboy Style](http://www.shacknews.com/article/54849/red-alert-3-trailer-all)
-
 9.  [Plants vs. Zombies - Walkthrough/guide - IGN](http://www.ign.com/faqs/2009/plants-vs-zombies-walkthroughguide-992681)
-
 10.
-
 11.
-
 12. [Empire Earth Cheats & Codes - IGN](http://www.ign.com/cheats/games/empire-earth-pc-14336)
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.  Moog Music Inc|url=[http://www.moogmusic.com/products/merch/moog-slipmats|accessdate=2013-09-11|deadurl=yes|archiveurl=https://web.archive.org/web/20130913184015/http://www.moogmusic.com/products/merch/moog-slipmats|archivedate=2013-09-13](http://www.moogmusic.com/products/merch/moog-slipmats%7Caccessdate=2013-09-11%7Cdeadurl=yes%7Carchiveurl=https://web.archive.org/web/20130913184015/http://www.moogmusic.com/products/merch/moog-slipmats%7Carchivedate=2013-09-13)}}

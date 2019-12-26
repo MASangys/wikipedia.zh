@@ -80,7 +80,7 @@
 
 ::\*Q492 [生殖生理学](https://zh.wikipedia.org/wiki/生殖生理学 "wikilink")
 
-::\*Q493 [新陈代谢与](https://zh.wikipedia.org/wiki/新陈代谢 "wikilink")[营养](https://zh.wikipedia.org/wiki/营养 "wikilink")
+::\*Q493 [新陈代谢与](https://zh.wikipedia.org/wiki/新陈代谢 "wikilink")[营养](../Page/营养.md "wikilink")
 
 ::\*Q494 [特殊环境生理学](https://zh.wikipedia.org/wiki/特殊环境生理学 "wikilink")、[生态生理学](https://zh.wikipedia.org/wiki/生态生理学 "wikilink")
 

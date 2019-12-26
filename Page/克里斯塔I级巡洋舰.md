@@ -29,7 +29,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><em>Admiral Zozulya</em><br />
+<td><p>佐祖利亚海军上将号<br />
 (АДМИРАЛ ЗОЗУЛЯ）</p></td>
 <td><p>1964月7月26日</p></td>
 <td><p>1965年10月17日</p></td>
@@ -37,7 +37,7 @@
 <td><p>1994年9月</p></td>
 </tr>
 <tr class="even">
-<td><p><em>Vize-Admiral Drozd</em><br />
+<td><p>德罗兹德海军中将号<br />
 (ВИЦЕ-АДМИРАЛ ДРОЗД）</p></td>
 <td><p>1965年10月26日</p></td>
 <td><p>1966年11月18日</p></td>
@@ -45,7 +45,7 @@
 <td><p>1990年7月1日</p></td>
 </tr>
 <tr class="odd">
-<td><p>符拉迪沃斯托克号<em>Vladivostok</em><br />
+<td><p>符拉迪沃斯托克号<br />
 (ВЛАДИВОСТОК）</p></td>
 <td><p>1964年12月24日</p></td>
 <td><p>1969年8月1日</p></td>
@@ -53,7 +53,7 @@
 <td><p>1991年1月1日</p></td>
 </tr>
 <tr class="even">
-<td><p>塞瓦斯托波尔号<em>Sevastopol</em><br />
+<td><p>塞瓦斯托波尔号<br />
 (СЕВАСТОПОЛЬ）</p></td>
 <td><p>1966年6月8日</p></td>
 <td><p>1967年4月28日</p></td>

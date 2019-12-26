@@ -75,6 +75,6 @@ MCP73採用80nm製程製造，集成了[GeForce 7顯示核心](https://zh.wikipe
   - [nForce 600 AMD平臺官方網頁](http://www.nvidia.com/page/nforce_600a.html)
   - [nForce 600 Intel平臺官方網頁](http://www.nvidia.com/page/nforce_600i.html)
 
-[Category:主板](https://zh.wikipedia.org/wiki/Category:主板 "wikilink") [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:nForce系列](https://zh.wikipedia.org/wiki/Category:nForce系列 "wikilink") [Category:2006年面世的產品](https://zh.wikipedia.org/wiki/Category:2006年面世的產品 "wikilink")
 
 1.  [New NVIDIA Products Transform the PC Into the Definitive Gaming Platform](http://www.nvidia.com/object/IO_37234.html)

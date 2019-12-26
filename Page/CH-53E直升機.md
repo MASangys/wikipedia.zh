@@ -46,4 +46,4 @@
   - [Mi-24](https://zh.wikipedia.org/wiki/Mi-24 "wikilink")
   - [CH-53直升機](../Page/CH-53直升機.md "wikilink")
 
-[Category:美國軍用直升機](https://zh.wikipedia.org/wiki/Category:美國軍用直升機 "wikilink") [Category:重型直升機](https://zh.wikipedia.org/wiki/Category:重型直升機 "wikilink") [Category:賽考斯基飛行器](https://zh.wikipedia.org/wiki/Category:賽考斯基飛行器 "wikilink")
+[Category:美國軍用直升機](https://zh.wikipedia.org/wiki/Category:美國軍用直升機 "wikilink") [Category:重型直升機](https://zh.wikipedia.org/wiki/Category:重型直升機 "wikilink") [Category:塞考斯基飛行器](https://zh.wikipedia.org/wiki/Category:塞考斯基飛行器 "wikilink")

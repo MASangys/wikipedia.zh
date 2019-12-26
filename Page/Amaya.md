@@ -16,12 +16,9 @@ Amaya最初的設計成一套[HTML](../Page/HTML.md "wikilink")及[CSS編輯器]
 [Category:自由HTML編輯器](https://zh.wikipedia.org/wiki/Category:自由HTML編輯器 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink") [Category:自由網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:自由網頁瀏覽器 "wikilink") [Category:1996年軟體](https://zh.wikipedia.org/wiki/Category:1996年軟體 "wikilink") [Category:全球資訊網聯盟](https://zh.wikipedia.org/wiki/Category:全球資訊網聯盟 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.
-
 7.

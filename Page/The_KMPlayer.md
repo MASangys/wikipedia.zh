@@ -47,16 +47,16 @@ The KMPlayer的在GUI（图形界面，即前端）中包含的功能比跟官�
 ## 外部連結
 
   - [官方网站](http://www.kmpmedia.net/)
-  - [官方中文論壇](http://www.kmplayer.com/forums/forumdisplay.php?f=7)
+  - [官方中文論壇](https://web.archive.org/web/20070503091258/http://www.kmplayer.com/forums/forumdisplay.php?f=7)
 
 [Category:媒体播放器](https://zh.wikipedia.org/wiki/Category:媒体播放器 "wikilink")
 
 1.
-2.  <http://www.kmplayer.com/forums/showthread.php?t=8931>
+2.
 3.
 4.  <http://sourceforge.net/forum/forum.php?forum_id=462894>
 5.
-6.  <http://www.kmplayer.com/forums/showthread.php?t=140>
+6.
 7.
 8.  [Kang Media Player violates FFmpeg's license](http://roundup.ffmpeg.org/roundup/ffmpeg/issue820)
 9.  <http://ffmpeg.org/shame.html>

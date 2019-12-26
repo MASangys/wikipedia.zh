@@ -97,7 +97,7 @@
 
 ### 雙門版本
 
-[Transmac_R315_28C.JPG](https://zh.wikipedia.org/wiki/File:Transmac_R315_28C.JPG "fig:Transmac_R315_28C.JPG") [Transmac_Mitsubishi_Fuso_Rosa_R335.jpg](https://zh.wikipedia.org/wiki/File:Transmac_Mitsubishi_Fuso_Rosa_R335.jpg "fig:Transmac_Mitsubishi_Fuso_Rosa_R335.jpg") 新福利自1990年開始要求三菱方面研製雙門版本的ROSA小巴，令乘客上落車變得更有效率。終在1998年，三菱方面向新福利提供5部雙門版的ROSA小巴作為試驗，新福利於是成為全球首家使用雙門版ROSA小巴的巴士公司。新福利旗下的雙門ROSA小巴現時共有105部，款式大致相同，車上設有19座位，連企位最高可載35人。全部車輛都採用[米芝蓮或](https://zh.wikipedia.org/wiki/米芝蓮 "wikilink")[橫濱橡膠](../Page/橫濱橡膠.md "wikilink")生產的內膽式車胎（前後輪尺寸均為7.00R16）。生產工場為三菱扶桑大江巴士工場（[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")），但在2011年引進的最新版本車輛已改由三菱扶桑客車製造株式會社（[富山縣](../Page/富山縣.md "wikilink")[富山市](../Page/富山市.md "wikilink")）負責生產。
+[Transmac_R315_28C.JPG](https://zh.wikipedia.org/wiki/File:Transmac_R315_28C.JPG "fig:Transmac_R315_28C.JPG") [Transmac_R326_Rt.37.jpg](https://zh.wikipedia.org/wiki/File:Transmac_R326_Rt.37.jpg "fig:Transmac_R326_Rt.37.jpg") [Transmac_R331_Rt._9.jpg](https://zh.wikipedia.org/wiki/File:Transmac_R331_Rt._9.jpg "fig:Transmac_R331_Rt._9.jpg") [Transmac_R350_Line_16.jpg](https://zh.wikipedia.org/wiki/File:Transmac_R350_Line_16.jpg "fig:Transmac_R350_Line_16.jpg") [TCM_1096_28B.jpg](https://zh.wikipedia.org/wiki/File:TCM_1096_28B.jpg "fig:TCM_1096_28B.jpg") 新福利自1990年開始要求三菱方面研製雙門版本的ROSA小巴，令乘客上落車變得更有效率。終在1998年，三菱方面向新福利提供5部雙門版的ROSA小巴作為試驗，新福利於是成為全球首家使用雙門版ROSA小巴的巴士公司。新福利旗下的雙門ROSA小巴現時共有105部，款式大致相同，車上設有19座位，連企位最高可載35人。全部車輛都採用[米芝蓮或](https://zh.wikipedia.org/wiki/米芝蓮 "wikilink")[橫濱橡膠](../Page/橫濱橡膠.md "wikilink")生產的內膽式車胎（前後輪尺寸均為7.00R16）。生產工場為三菱扶桑大江巴士工場（[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")），但在2011年引進的最新版本車輛已改由三菱扶桑客車製造株式會社（[富山縣](../Page/富山縣.md "wikilink")[富山市](../Page/富山市.md "wikilink")）負責生產。
 
 2013年引進兩輛新版車輛，引擎改用[快意製造的](https://zh.wikipedia.org/wiki/菲亞特汽車 "wikilink")4P10（T6）直列四汽缸DOHC共軌直噴渦輪柴油引擎並配合BLUETEC尿素SCR系統以符合歐盟環保五型標準，波箱同時改為六前速DUONIC半自動加減波箱，車胎也改用205/85R16尺寸之無內膽原子胎，唯因波箱在斜路停車時會被中控電腦強制切換至手動模式，該版本的Rosa在斜路起步時對比採用全自動波箱之舊版顯得吃力。
 
@@ -161,14 +161,13 @@ Mitsubishi Fuso MO36S5（後期）</p></td>
 <td></td>
 <td><p>Mitsubishi 4D34直四OHV+Turbo</p></td>
 <td><p>AISIN MO35A4</p></td>
-<td><p>全數使用橙色電牌。<br />
-R277、R291因交通意外而提早退役。<br />
+<td><p>R277、R291因交通意外而提早退役。<br />
 R289於2017年因天鴿風灾嚴重受損而提早退役。<br />
 目前只有下列車輛正在服役：<br />
 R263為新入職車長訓練專車；<br />
 R267為車載機材試驗專用車；<br />
-R268、R270、R275、R282及R287為非專利包車及員工專車；<br />
-R279、R285為現時該批次中仍然用作專利路線巴士之車輛。</p></td>
+R268、R270、R275、R282及R287為非專利包車及員工專車；其中R287行駛澳門大學環校穿梭巴士路線。<br />
+R279、R285為現時該批次中仍然用作專利路線巴士之車輛，並使用通達電牌及藍斯報站系統。</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
@@ -179,8 +178,8 @@ R279、R285為現時該批次中仍然用作專利路線巴士之車輛。</p></
 <td></td>
 <td><p>Mitsubishi 4D34直四OHV+Turbo</p></td>
 <td><p>AISIN MO35A4</p></td>
-<td><p>全數使用橙色電牌。<br />
-R295、R306、R308、R316於2017年因天鴿風灾嚴重受損而提早退役。</p></td>
+<td><p>R295、R306、R308、R316在2017年8月，因天鴿風災嚴重受損提早退役。<br />
+全數使用通達電牌及藍斯報站系統。</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
@@ -191,7 +190,8 @@ R295、R306、R308、R316於2017年因天鴿風灾嚴重受損而提早退役。
 <td></td>
 <td><p>Mitsubishi 4D34直四OHV+Turbo</p></td>
 <td><p>AISIN MO35A4</p></td>
-<td><p>頭幅設計經過改良。</p></td>
+<td><p>頭幅設計經過改良。<br />
+全數使用新款電牌及藍斯報站系統。</p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
@@ -205,7 +205,8 @@ R295、R306、R308、R316於2017年因天鴿風灾嚴重受損而提早退役。
 <td><p>頭幅設計經過改良，保留車頭鬼面罩上之ROSA水牌。<br />
 裝有BLUETEC尿素SCR系統，需加入尿素以符合排放標準。<br />
 R327及R328為樣辦車。<br />
-陸續更換藍斯電牌及報站系統。</p></td>
+R331使用通達電牌及藍斯報站系統。<br />
+其它車輛使用新款電牌及藍斯報站系統。</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
@@ -219,7 +220,7 @@ R327及R328為樣辦車。<br />
 <td><p>頭幅設計經過改良，保留車頭鬼面罩上之ROSA水牌。<br />
 裝有BLUETEC尿素SCR系統，需加入尿素以符合排放標準。<br />
 1098-1093為新時代巴士購入，1094-1098為澳巴購入。<br />
-現全屬澳巴。</p></td>
+現全屬澳巴，並全數使用通達電牌及海信報站系統。</p></td>
 </tr>
 </tbody>
 </table>
@@ -255,7 +256,8 @@ R327及R328為樣辦車。<br />
 
 ## 澳門境內其他非公共巴士用途
 
-在澳門，Rosa小巴除公共巴士用途之外，亦有多數非公共巴士款式作為威尼斯人、巴黎人、英皇等賭場使用的發財巴、以及多數旅行社的旅遊巴，有部分學校亦有使用Rosa作為校車。除此之外，澳門亦有多數政府部門使用Rosa小巴，其中更有警用版本，用於運送囚犯。
+在澳門，Rosa小巴除公共巴士用途外，亦有多數非公共巴士款式。例如威尼斯人、巴黎人、英皇等賭場使用的發財巴、多數旅行社的旅遊巴，也有使用Rosa小巴，部份學校也有使用Rosa小巴作為校車。
+此外，部份政府部門使用Rosa小巴。其中更有警用版本，作為運送囚犯及移動警務室用途。
 
 ## 相關條目
 

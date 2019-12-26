@@ -236,10 +236,8 @@ AICS（Accuracy International Chassis System, 精密国际框架系统）可把�
   - 2015年—《[-{zh-hans:战地：硬仗; zh-hant:戰地風雲：強硬路線;}-](https://zh.wikipedia.org/wiki/戰地風雲：強硬派系 "wikilink")》（Battlefield Hardline）：型號為AWM-F和AWC，前者被命名為「AWM」，後者被命名為「AWS」：
       - AWM-F命名為「AWM」，預設為綠色槍身，歸類為手動式狙擊步槍，發射7.62x51mm NATO子彈，5+1發彈匣，預設裝上“獵人”高倍率瞄準鏡，被匪方專業人士（Professional）所使用（警察解鎖條件為：以任何陣營進行遊戲使用該槍擊殺1250名敵人後購買武器執照），價格為$51,000。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro T1、SRS 02、[Comp M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍） 、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍）、TA 648（放大6倍）、PKS-07（放大7倍）、步槍瞄準鏡（放大8倍）、獵人（放大14倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、延長彈匣（增至10+1發）、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、[直拉式槍機](../Page/手動槍機.md "wikilink")、[.338麥格農子彈](../Page/.338拉普麥格農.md "wikilink")）及槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）。劇情模式當中則能夠被主角尼古拉斯·門多薩所使用。
       - AWC命名為「AWS」，為資料片「大逃亡」新增武器，同樣預設為綠色槍身，歸類為手動式狙擊步槍，發射7.62x51mm NATO子彈，5+1發彈匣，被警匪雙方所有職階所使用，價格為$81,000。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro T1、SRS 02、[Comp M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍） 、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍）、TA 648（放大6倍）、PKS-07（放大7倍）、步槍瞄準鏡（放大8倍）、獵人（放大14倍））及附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、延長彈匣（增至10+1發）、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、[直拉式槍機](../Page/手動槍機.md "wikilink")。
-  - 2017年—《[絕地求生](../Page/絕地求生.md "wikilink")》：型號為AWM，空投武器，使用[.300麥格農子彈](https://zh.wikipedia.org/wiki/.300麥格農子彈 "wikilink")，可裝備狙擊槍消音器、消焰器、補償器; 紅點、全息、二倍、三倍、四倍、六倍、八倍、十五倍瞄準鏡; 狙擊槍快速、擴容以及快速擴容彈匣；狙擊槍托腮版。殺傷力非常高，可一槍爆頭，打身體也僅需兩發，成為與[毛瑟Kar98K齊名的狙擊槍](https://zh.wikipedia.org/wiki/毛瑟Kar98K "wikilink")。
-  - 2017年—《[-{zh-hans:幽灵行动：荒野; zh-hant:火線獵殺：野境;}-](../Page/火線獵殺：野境.md "wikilink")》： 型號為L115A3
-  - 2017年—《Free Fire — 我要活下去》裝備三級補償器後可一發擊倒著裝二級防彈衣或三級頭盔的敵人
-  - 2018年—《[穿越火线高清竞技大区](https://zh.wikipedia.org/wiki/穿越火线高清竞技大区 "wikilink")》（Crossfire HD）：型号为AWSM，命名为“AWM”，橄榄绿色枪身与红色撞针，奇怪的能装填10发弹药。
+  - 2017年—《[絕地求生](../Page/絕地求生.md "wikilink")》：型號為AWM，空投武器，使用[.300麥格農子彈](https://zh.wikipedia.org/wiki/.300麥格農子彈 "wikilink")，可裝備狙擊槍消音器、消焰器、補償器; 紅點、全息、二倍、三倍、四倍、六倍、八倍、十五倍瞄準鏡; 狙擊槍快速、擴容以及快速擴容彈匣；狙擊槍托腮版。
+  - 2017年—《[-{zh-hans:幽灵行动：荒野; zh-hant:火線獵殺：野境;}-](../Page/火線獵殺：野境.md "wikilink")》： 型號為L115A3。
 
 ### 輕小說
 
@@ -286,15 +284,9 @@ AICS（Accuracy International Chassis System, 精密国际框架系统）可把�
 1.
 2.
 3.  [1](http://www.youtube.com/watch?v=MAXDR9l77AI)
-
 4.  <https://sites.google.com/site/worldinventory/wiw_na_canada>
-
 5.  <http://www.isayeret.com/guides/weapons.shtml>
-
 6.
-
 7.  <https://sites.google.com/site/worldinventory/wiw_me_saudiarabia>
-
 8.  <http://www.specijalne-jedinice.com/Galerija-Zandarmerija.html#sthash.ZsZmTa6n.dpbs>
-
 9.  [Syrian Special Forces spotted with British Accuracy International AWM sniper rifles](http://spioenkop.blogspot.hk/2015/09/syrian-special-forces-spotted-with.html)

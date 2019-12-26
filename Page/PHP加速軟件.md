@@ -22,7 +22,7 @@
 
 **XCache**是一套快速稳定的PHP代码加速器。在Linux下测试，高负载状况下表现良好，同时还支持ThreadSafe/Windows。解决了其他opcacher存在的问题，比如可以支持新的PHP版本。其中一个开发者也同时是Lighttpd的开发者。开发解决了一些限制在现有的解决方案中。支持PHP 5.x以上版本，仍在积极维护中。
 
-  - 网址： <http://xcache.lighttpd.net/>
+  - 网址： <https://web.archive.org/web/20120224193029/http://xcache.lighttpd.net/>
 
 ### Zend Optimizer
 

@@ -83,13 +83,13 @@ Spring框架以 [Apache License 2.0](https://zh.wikipedia.org/wiki/Apache_Licens
   - [Spring Framework](http://projects.spring.io/spring-framework/)
       - [Spring Framework API](http://docs.spring.io/spring/docs/)（[Javadoc](../Page/Javadoc.md "wikilink")）
       - <http://www.springframework.org/dtd/spring-beans.dtd>
-          - <https://web.archive.org/web/20060428223906/http://www.springframework.org/docs/reference/springbeansdtd.html> (as HTML)
+          - <http://www.springframework.org/docs/reference/springbeansdtd.html> (as HTML)
   - [Spring Framework .NET](http://www.springframework.net/)
 
 <!-- end list -->
 
-  - [Spring Framework MVC Tutorial](https://web.archive.org/web/20060425075408/http://www.springframework.org/docs/MVC-step-by-step/Spring-MVC-step-by-step.html)
-  - [Simple Spring Demo](https://web.archive.org/web/20150705064622/http://www.drrockit.com/space/Java/Simple%20Spring%20Demo)
+  - [Spring Framework MVC Tutorial](http://www.springframework.org/docs/MVC-step-by-step/Spring-MVC-step-by-step.html)
+  - [Simple Spring Demo](http://www.drrockit.com/space/Java/Simple%20Spring%20Demo)
   - [Introduction to the Spring Framework by Rod Johnson](http://www.theserverside.com/articles/content/SpringFramework/article.html)
   - [The Spring Reference Documentation](http://static.springframework.org/spring/docs/1.1.5/spring-reference.pdf)（[PDF](https://zh.wikipedia.org/wiki/Portable_Document_Format "wikilink")，1329 kb）- Rod Johnson et al. (2004-2005)
 

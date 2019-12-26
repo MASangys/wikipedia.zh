@@ -184,7 +184,7 @@
 
 :::::\*TP393.09 [计算机网络应用](https://zh.wikipedia.org/wiki/计算机网络应用 "wikilink")
 
-::::\*TP393.1 [局域网](../Page/局域网.md "wikilink")（LAN）、[城域网](https://zh.wikipedia.org/wiki/城域网 "wikilink")（MAN）
+::::\*TP393.1 [局域网](../Page/局域网.md "wikilink")（LAN）、[城域网](../Page/城域网.md "wikilink")（MAN）
 
 ::::\*TP393.2 [广域网](https://zh.wikipedia.org/wiki/广域网 "wikilink")（WAN）
 

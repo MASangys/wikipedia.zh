@@ -35,10 +35,7 @@ BPM的特点在于它于25分和29分及55分和59分之间发送[UT1时间信�
 [Category:中國時間](https://zh.wikipedia.org/wiki/Category:中國時間 "wikilink") [Category:时码发播台](https://zh.wikipedia.org/wiki/Category:时码发播台 "wikilink") [Category:蒲城县](https://zh.wikipedia.org/wiki/Category:蒲城县 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.

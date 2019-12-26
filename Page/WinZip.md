@@ -62,9 +62,9 @@ WinZip 14.5開始支援[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wiki
 
 ## 外部链接
 
-  - [WinZip主页](http://www.winzip.com/)
-  - [WinZip正體中文首頁](http://www.corel.com/servlet/Satellite/tw/ct/Product/1207834997200#versionTabview=tab1&tabview=tab0)
-  - [MaximumCompression.com](http://www.maximumcompression.com/)，压缩软件基准性能比较
+  - [WinZip主页](https://www.winzip.com/win/en/)
+  - [WinZip正體中文首頁](https://www.winzip.com/win/tw/)
+  - [MaximumCompression.com](https://web.archive.org/web/20080724035204/http://maximumcompression.com/)，压缩软件基准性能比较
 
 [Category:数据压缩软件](https://zh.wikipedia.org/wiki/Category:数据压缩软件 "wikilink") [Category:专有软件](https://zh.wikipedia.org/wiki/Category:专有软件 "wikilink") [Category:共享软件](https://zh.wikipedia.org/wiki/Category:共享软件 "wikilink")
 

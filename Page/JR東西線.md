@@ -56,7 +56,7 @@ JR東西線全線都屬於JR集團所定義的[大都市近郊區間中](../Page
 
 ### 神戶 Seaside Leisure 號
 
-**神戶 Seaside Leisure 號**（****）是[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）經由[四条畷車站](https://zh.wikipedia.org/wiki/四条畷車站 "wikilink")・[放出車站](https://zh.wikipedia.org/wiki/放出車站 "wikilink")～[西明石車站間的](https://zh.wikipedia.org/wiki/西明石車站 "wikilink")[片町線（學研都市線）](https://zh.wikipedia.org/wiki/片町線 "wikilink")・JR東西線・[東海道本線](../Page/東海道本線.md "wikilink")・[山陽本線](../Page/山陽本線.md "wikilink")（[JR神戶線](../Page/JR神戶線.md "wikilink")）於2000年與2001年的7月～9月土曜・休日運行的[多客臨時](https://zh.wikipedia.org/wiki/臨時列車 "wikilink")[快速列車](https://zh.wikipedia.org/wiki/快速列車 "wikilink")。
+**神戶 Seaside Leisure 號**（****）是[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）經由[四条畷車站](https://zh.wikipedia.org/wiki/四条畷車站 "wikilink")・[放出車站](https://zh.wikipedia.org/wiki/放出車站 "wikilink")～[西明石車站](../Page/西明石車站.md "wikilink")間的[片町線（學研都市線）](https://zh.wikipedia.org/wiki/片町線 "wikilink")・JR東西線・[東海道本線](../Page/東海道本線.md "wikilink")・[山陽本線](../Page/山陽本線.md "wikilink")（[JR神戶線](../Page/JR神戶線.md "wikilink")）於2000年與2001年的7月～9月土曜・休日運行的[多客臨時](https://zh.wikipedia.org/wiki/臨時列車 "wikilink")[快速列車](https://zh.wikipedia.org/wiki/快速列車 "wikilink")。
 
 由於宣傳不足等原因。神戶 Seaside Leisure 號已停止運行。
 

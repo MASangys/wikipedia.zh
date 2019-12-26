@@ -108,7 +108,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/騷動音樂.md" title="wikilink">騷動音樂</a></p></td>
-<td><p><a href="../Page/梁德輝.md" title="wikilink">Eric</a></p></td>
+<td><p><a href="../Page/梁德輝.md" title="wikilink">Eric</a>、<a href="https://zh.wikipedia.org/wiki/閆擎" title="wikilink">閆擎</a></p></td>
 <td><p>2009-07-04</p></td>
 <td><p>星期六</p></td>
 <td><p>以廣東歌為主打，並訪問新晉歌手和音樂人[12]</p></td>

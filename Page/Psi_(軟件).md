@@ -41,7 +41,7 @@ Psi由Justin Karneges创建。虽然当初Psi的更新周期较长，但由于�
 
 2002年后期[Michail Pishchagin](https://web.archive.org/web/20060219051945/http://mblsha.psi-im.org/)开始钻研Qt代码，此后形成了libpsi库。Michail于2003年3月加入团队，负责Psi代码中的许多部分。
 
-2004年11月以来，[Kevin Smith](https://web.archive.org/web/20060402203911/http://kismith.co.uk/)就负责维护工作。而Justin现在独自忙于[Iris](http://delta.affinix.com/iris/)，这是一个Qt/C++的Jabber库，Psi就是基于该库。
+2004年11月以来，[Kevin Smith](https://web.archive.org/web/20060402203911/http://kismith.co.uk/)就负责维护工作。而Justin现在独自忙于[Iris](https://web.archive.org/web/20060211051839/http://delta.affinix.com/iris/)，这是一个Qt/C++的Jabber库，Psi就是基于该库。
 
 [Remko Tronçon](http://el-tramo.be/)2003年开始为Psi写补丁，2005年5月成为正式的开发员。
 

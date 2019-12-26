@@ -246,197 +246,101 @@ Skype的母公司微软，在2014年10月8日的一份声明中称“自2014年1
 [Category:即时通讯软件](https://zh.wikipedia.org/wiki/Category:即时通讯软件 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:2003年软件](https://zh.wikipedia.org/wiki/Category:2003年软件 "wikilink") [Category:P2P](https://zh.wikipedia.org/wiki/Category:P2P "wikilink") [Category:VoIP軟體](https://zh.wikipedia.org/wiki/Category:VoIP軟體 "wikilink") [Category:IP電話公司](https://zh.wikipedia.org/wiki/Category:IP電話公司 "wikilink") [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink") [Category:付費軟件](https://zh.wikipedia.org/wiki/Category:付費軟件 "wikilink") [Category:微軟软件](https://zh.wikipedia.org/wiki/Category:微軟软件 "wikilink") [Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink") [Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink") [Category:Windows即時通訊客戶端](https://zh.wikipedia.org/wiki/Category:Windows即時通訊客戶端 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Windows_Phone軟體](https://zh.wikipedia.org/wiki/Category:Windows_Phone軟體 "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink") [Category:Skype](https://zh.wikipedia.org/wiki/Category:Skype "wikilink") [Category:Modern_UI應用程式](https://zh.wikipedia.org/wiki/Category:Modern_UI應用程式 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15.
-
 16.
-
 17.
-
 18.
-
 19. [MSN今熄燈　Skype卻無法登入挨轟](http://www.appledaily.com.tw/realtimenews/article/life/20130425/176854/)，蘋果日報，2013年4月25日
-
 20.
-
 21. [Skype推出Java客户端大幅增加支持手机](http://news.mydrivers.com/1/104/104718.htm)
-
 22.
-
 23. [Microsoft to Buy Skype for $8.5 Billion](http://dealbook.nytimes.com/2011/05/10/microsoft-to-buy-skype-for-8-5-billion/)
-
 24.
-
 25.
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50. [SILK Speech Codec](http://tools.ietf.org/html/draft-vos-silk-02)
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59. [One-to-One VP8 Video Calling Now Supported in Skype](http://blog.webmproject.org/2011/08/one-to-one-vp8-video-calling-now.html)
-
 60.
-
 61.
-
 62.
-
 63. [SkypeInYourLanguage](https://sourceforge.net/projects/skypeinyourlang)
-
 64.
-
 65. [How to delete a Skype account?](http://en.kioskea.net/faq/30642-how-to-delete-a-skype-account)
-
 66.
-
 67. Language Magazine [article](http://languagemagazine.com/?page_id=2565)
-
 68. [LinguaeLive.ca](http://www.linguaelive.ca/)
-
 69. [the language exchange](http://www.language-exchanges.org/)
-
 70.
-
 71. [Video Conferencing with Skype](http://www.edtechteacher.org/index.php/teaching-technology/discussion-ollaboration/25-video-conferencing)
-
 72.
-
 73. [从美国打中国电话各种方式总结（包括手机、电话卡、skype等）](http://www.renrencall.com/2012/09/tel-china-from-usa/)
-
 74. [费率_Skype简体中文版官方网站-清晰的免费网络电话](http://skype.gmw.cn/product/getMoreRates.html)
-
 75. [80 Port穿透防火牆](http://www.tkwu.net/tkwu/pictures/skype2.png)
-
 76. [FSF High Priority Projects 非開源通訊協議及軟體威脅使用者隱私](http://www.fsf.org/campaigns/priority.html#skypereplacement)
-
 77. [Skype 法律政策、条款和条件](http://www.skype.com/legal/terms/voip/#payment_issues) Credit expiration
-
 78. [skype forum topic](http://forum.skype.com/index.php?showtopic=104480)
-
 79.
-
 80. [skype poor customer service](http://blog.tmcnet.com/blog/tom-keating/skype/skype-poor-customer-service.asp)
-
 81. [目前Skype TM也會有推薦Skype付費項目的廣告。](http://clip2net.com/clip/m96404/1316513444-clip-15kb.jpg)
-
 82. [Skype大當機聯絡人全離線](http://tw.news.yahoo.com/%E5%8F%B0%E6%98%9F%E9%A6%ACskype%E5%A4%A7%E7%95%B6%E6%A9%9F-%E8%81%AF%E7%B5%A1%E4%BA%BA%E5%85%A8%E9%9B%A2%E7%B7%9A-222806309.html)
-
 83. [FBI欲监听Skype等网络通信专家称或带来安全威胁](http://world.huanqiu.com/regions/2013-05/3956840.html)
-
 84.
-
 85.
-
 86.
-
 87.
-
 88.
-
 89.
-
 90.
-
 91.
-
 92.
-
 93.
-
 94.
-
 95.
-
 96.
-
 97.
-
 98.
-
 99.

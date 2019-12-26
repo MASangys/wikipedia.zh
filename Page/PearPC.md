@@ -28,7 +28,5 @@ PearPC拥有一个可以动态转换PPC代码到x86代码并进行高速缓存�
 [Category:仿真软件](https://zh.wikipedia.org/wiki/Category:仿真软件 "wikilink")
 
 1.
-
 2.
-
 3.

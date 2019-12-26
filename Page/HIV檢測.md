@@ -14,7 +14,7 @@
   - [假陽性](https://zh.wikipedia.org/wiki/假陽性 "wikilink")：當一個人沒有感染HIV時，但檢驗結果卻顯示為陽性。
   - [假陰性](https://zh.wikipedia.org/wiki/假陰性 "wikilink")：當一個人感染HIV時，但檢驗結果卻顯示為陰性。
 
-[非特異性反應](https://zh.wikipedia.org/wiki/非特異性反應 "wikilink")、[高伽瑪球蛋白血症或存在針對其他](https://zh.wikipedia.org/wiki/hypergammaglobulinemia "wikilink")[病原體而類似HIV病毒抗原的抗體可能產生假陽性結果](https://zh.wikipedia.org/wiki/病原體 "wikilink")。[自體免疫性疾病](https://zh.wikipedia.org/wiki/自體免疫 "wikilink")，如[系統性紅斑狼瘡](https://zh.wikipedia.org/wiki/系統性紅斑狼瘡 "wikilink") ，也可能造成假陽性的結果。
+[非特異性反應](https://zh.wikipedia.org/wiki/非特異性反應 "wikilink")、[高伽瑪球蛋白血症或存在針對其他](https://zh.wikipedia.org/wiki/hypergammaglobulinemia "wikilink")[病原體而類似HIV病毒抗原的抗體可能產生假陽性結果](https://zh.wikipedia.org/wiki/病原體 "wikilink")。[自體免疫性疾病](https://zh.wikipedia.org/wiki/自體免疫 "wikilink")，如[全身性紅斑狼瘡](../Page/全身性紅斑狼瘡.md "wikilink") ，也可能造成假陽性的結果。
 
 ## 原則
 

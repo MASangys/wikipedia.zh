@@ -290,6 +290,11 @@
 <td><p><a href="../Page/GIVEN_被贈與的未來.md" title="wikilink">GIVEN 被贈與的未來</a></p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年10月 - 12月</p></td>
+<td><p><a href="../Page/PSYCHO-PASS.md" title="wikilink">PSYCHO-PASS 3</a></p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -305,12 +310,6 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2019年10月－</p></td>
-<td><p><a href="../Page/PSYCHO-PASS.md" title="wikilink">PSYCHO-PASS 3</a><br />
-（）</p></td>
-<td><p>製作：<a href="../Page/Production_I.G.md" title="wikilink">Production I.G</a></p></td>
-</tr>
-<tr class="even">
 <td><p>2020年1月－</p></td>
 <td><p><a href="../Page/貓狗寵物街.md" title="wikilink">UCHITAMA？！～貓狗寵物街～</a><br />
 （）</p></td>

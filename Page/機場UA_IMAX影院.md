@@ -1,6 +1,6 @@
 [Airport_UA_IMAX_(Hong_Kong).jpg](https://zh.wikipedia.org/wiki/File:Airport_UA_IMAX_\(Hong_Kong\).jpg "fig:Airport_UA_IMAX_(Hong_Kong).jpg") [AviationDiscoveryCentre_01.JPG](https://zh.wikipedia.org/wiki/File:AviationDiscoveryCentre_01.JPG "fig:AviationDiscoveryCentre_01.JPG")及4D超立體巨幕影館入口\]\] [HKairport_t2_04.JPG](https://zh.wikipedia.org/wiki/File:HKairport_t2_04.JPG "fig:HKairport_t2_04.JPG")
 
-**機場UA IMAX影院**位於[香港國際機場](../Page/香港國際機場.md "wikilink")二號客運大樓[翔天廊](../Page/翔天廊.md "wikilink")，於2012年7月5日開業，是香港第三間IMAX戲院，設有全港最大的IMAX銀幕。前身為[洲立影藝](../Page/洲立影藝.md "wikilink")經營的**4D超立體巨幕影館**（4D Extreme Screen），於2007年3月30日開幕，2012年1月31日結業，2月起改由[娛藝](../Page/娛藝.md "wikilink")接手經營\[1\]。2019年8月14日，因機管局向法庭申請臨時禁制令，規定進入機場客運大樓的人士需要向保安出示護照、機票或登機證等文件。戲院宣佈即日起暫停營業，直至另行通知。
+**機場UA IMAX影院**位於[香港國際機場](../Page/香港國際機場.md "wikilink")二號客運大樓[翔天廊](../Page/翔天廊.md "wikilink")，於2012年7月5日開業，是香港第三間IMAX戲院，設有全港最大的IMAX銀幕。前身為[洲立影藝](../Page/洲立影藝.md "wikilink")經營的**4D超立體巨幕影館**（4D Extreme Screen），於2007年3月30日開幕，2012年1月31日結業，2月起改由[娛藝](../Page/娛藝.md "wikilink")接手經營\[1\]。2019年8月14日，因機管局向法庭申請臨時禁制令，規定進入機場客運大樓的人士需要向保安出示護照、機票或登機證等文件。戲院宣佈即日起暫停營業，直至另行通知。本院因擴建二號客運大樓而已於2019年9月29日結業。
 
 ## 影院設計
 

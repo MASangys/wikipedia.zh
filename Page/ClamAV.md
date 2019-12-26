@@ -94,31 +94,18 @@ ClamAV並非一個即時掃描器（它並不在檔案被讀取或寫入時做�
 [Category:杀毒软件](https://zh.wikipedia.org/wiki/Category:杀毒软件 "wikilink") [Category:SourceForge專案](https://zh.wikipedia.org/wiki/Category:SourceForge專案 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  Sanesecurity [Phishing, Scam and Malware signatures for ClamAV](http://www.sanesecurity.com/clamav/databases.htm)
-
 7.  SecuriteInfo.com [Add 500.000 signatures to Clamav Antivirus](https://www.securiteinfo.com/services/improve-detection-rate-of-zero-day-malwares-for-clamav.shtml)
-
 8.
-
 9.
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.

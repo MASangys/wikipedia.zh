@@ -56,14 +56,10 @@
 ### 電腦遊戲等人物造型設計
 
   - 新天使帝國（1999年，人物造型設計，[大宇資訊](../Page/大宇資訊.md "wikilink")）
-
   - 天使帝國3（2002年，香格-{里}-拉國人物造型設計，大宇資訊）
-
   - 世美吉祥物（1999年，造型設計，世美股份有限公司）
-
   - Famitsu Family三姐妹（2004年，FAMITSU電玩通吉祥物造型設計）
-
-  - 小滿（小滿的府城日誌）（2016年、角色設計、[中華民國文化部](https://zh.wikipedia.org/wiki/中華民國文化部 "wikilink")、[臺南市政府文化局](https://zh.wikipedia.org/wiki/臺南市政府文化局 "wikilink")、臺南市府城社區文創發展協會\[17\]）
+  - [府城少女小滿](https://zh.wikipedia.org/wiki/府城少女 "wikilink")（小滿的府城日誌）（2016年、角色設計、[中華民國文化部](https://zh.wikipedia.org/wiki/中華民國文化部 "wikilink")、[臺南市政府文化局](https://zh.wikipedia.org/wiki/臺南市政府文化局 "wikilink")、臺南市府城社區文創發展協會\[17\]）
 
 ### 其他
 
@@ -131,12 +127,9 @@
 [Category:臺灣插畫家](https://zh.wikipedia.org/wiki/Category:臺灣插畫家 "wikilink") [Category:中原大學校友](https://zh.wikipedia.org/wiki/Category:中原大學校友 "wikilink") [Category:國立臺北藝術大學校友](https://zh.wikipedia.org/wiki/Category:國立臺北藝術大學校友 "wikilink") [Category:台南市人](https://zh.wikipedia.org/wiki/Category:台南市人 "wikilink") [Category:戴姓](https://zh.wikipedia.org/wiki/Category:戴姓 "wikilink") [Category:臺灣漫畫家](https://zh.wikipedia.org/wiki/Category:臺灣漫畫家 "wikilink")
 
 1.
-
 2.  [夜貓館咖啡屋:VOFAN - 樂多日誌](http://blog.roodo.com/yamyoukan/archives/4948201.html)
-
 3.
 4.  [逗‧貓‧棒 » 關於夜貓和逗貓](http://yamyoukan.net/wordpress/%E9%97%9C%E6%96%BC%E5%A4%9C%E8%B2%93%E5%92%8C%E9%80%97%E8%B2%93/)
-
 5.
 6.
 7.
@@ -149,6 +142,5 @@
 14.
 15.
 16.
-17. [府城少女前進京都動漫節](http://www.twtimes.com.tw/index.php?page=news&nid=741501) 2018年9月21日 臺灣時報
-
+17. [府城少女前進京都動漫節](http://www.twtimes.com.tw/index.php?page=news&nid=741501)  2018年9月21日 臺灣時報
 18.

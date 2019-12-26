@@ -16,7 +16,7 @@
   - [B型鏈球菌](https://zh.wikipedia.org/wiki/B型鏈球菌 "wikilink")（Group B Streptococcus）：一種常在於[腸胃道下部和生殖](https://zh.wikipedia.org/wiki/腸胃道 "wikilink")[泌尿道的](https://zh.wikipedia.org/wiki/泌尿道 "wikilink")[細菌](https://zh.wikipedia.org/wiki/細菌 "wikilink")，常造成新生兒和孕婦疾病。
   - [Google Browser Sync](https://zh.wikipedia.org/wiki/Google_Browser_Sync "wikilink")：[Google](../Page/Google.md "wikilink")開發的[Mozilla Firefox專用](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[外掛程式](https://zh.wikipedia.org/wiki/外掛程式 "wikilink")。
   - [導向巴士](../Page/導向巴士.md "wikilink")（guided bus）：接受外來媒介引導行駛的[巴士系統](https://zh.wikipedia.org/wiki/巴士 "wikilink")。
-  - [格林-巴利症候群](https://zh.wikipedia.org/wiki/格林-巴利症候群 "wikilink")（Guillain-Barré syndrome）：一種自身免疫疾病，影響末梢神經系統。
+  - [格林-巴利症候群](https://zh.wikipedia.org/wiki/格林-巴利症候群 "wikilink")（Guillain-Barré syndrome）：一種自體免疫疾病，影響末梢神經系統。
   - [基耶爾莫·巴羅斯·謝洛托](https://zh.wikipedia.org/wiki/基耶爾莫·巴羅斯·謝洛托 "wikilink")（Guillermo Barros Schelotto）：[阿根廷](../Page/阿根廷.md "wikilink")[足球](../Page/足球.md "wikilink")員。
   - [京畿北科學高等學校](https://zh.wikipedia.org/wiki/京畿北科學高等學校 "wikilink")（Gyeonggibuk Science High School）：[大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[京畿道](../Page/京畿道.md "wikilink")[議政府市](../Page/議政府市.md "wikilink")的一所[高級中學](../Page/高級中學.md "wikilink")。
   - [幾內亞比索](../Page/幾內亞比索.md "wikilink")的[IOC國家代碼](https://zh.wikipedia.org/wiki/IOC "wikilink")。

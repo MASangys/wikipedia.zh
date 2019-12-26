@@ -20,7 +20,7 @@ Microsoft Exchange Server
   - Exchange Server 2010 14.0.639.21
   - Exchange Server 2013
   - Exchange Server 2016
-  - Exchange Server 2018
+  - Exchange Server 2019
 
 ## 競爭對手
 

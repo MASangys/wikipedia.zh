@@ -59,7 +59,7 @@ TVB經典台在啟播初期曾把每日所播放的劇集分為以下三類：
 
 ## 海外播放
 
-TVB經典台除了在[香港](../Page/香港.md "wikilink")收看之外，先後於2007年10月4日在[新加坡](../Page/新加坡.md "wikilink")[星和視界第](https://zh.wikipedia.org/wiki/新加坡電視頻道列表 "wikilink")858頻道（其後改為第108頻道）啟播，但这频道是用[华语来联播和比香港版本不同](https://zh.wikipedia.org/wiki/华语 "wikilink")，直至2018年8月31日起22:30停播，當天在1.5小時後，[TVB8](../Page/TVB8.md "wikilink")亦會在同日停播。其後於2008年3月31日在[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[無線衛星台](../Page/無線衛星台.md "wikilink")多頻道平台\[1\]啟播。該頻道啟播2年後，於2010年6月1日在[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[無線衛星台](../Page/無線衛星台.md "wikilink")開始停播，而無綫經典[電視劇在New](https://zh.wikipedia.org/wiki/電視劇 "wikilink") 5 全新多頻道的[無綫星級劇集台](https://zh.wikipedia.org/wiki/無綫星級劇集台 "wikilink")\[2\]播放。其後
+TVB經典台除了在[香港](../Page/香港.md "wikilink")收看之外，先後於2007年10月4日在[新加坡](../Page/新加坡.md "wikilink")[星和視界第](https://zh.wikipedia.org/wiki/新加坡電視頻道列表 "wikilink")858頻道（其後改為第108頻道）啟播，但这频道是用[华语来联播和比香港版本不同](https://zh.wikipedia.org/wiki/华语 "wikilink")，直至2018年8月31日起22:30停播，當天在1.5小時後，[TVB8](../Page/TVB8.md "wikilink")亦會在同日停播。其後於2008年3月31日在[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[無線衛星台](../Page/無線衛星台.md "wikilink")多頻道平台\[1\]啟播。該頻道啟播2年後，於2010年6月1日在[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[無線衛星台](../Page/無線衛星台.md "wikilink")開始停播，而無綫經典[電視劇在New](https://zh.wikipedia.org/wiki/電視劇 "wikilink") 5 全新多頻道的[無綫星級劇集台](https://zh.wikipedia.org/wiki/無綫星級劇集台 "wikilink")\[2\]播放。
 
 ### 马来西亚
 

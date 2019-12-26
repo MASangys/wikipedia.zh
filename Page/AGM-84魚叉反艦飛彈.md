@@ -107,16 +107,10 @@ UGM-84G/L SLAM飛彈，即UGM-84的遠程潛射攻擊型，它们合起来称为
 [Category:反艦飛彈](https://zh.wikipedia.org/wiki/Category:反艦飛彈 "wikilink") [Category:中華民國飛彈](https://zh.wikipedia.org/wiki/Category:中華民國飛彈 "wikilink") [Category:美国导弹](https://zh.wikipedia.org/wiki/Category:美国导弹 "wikilink") [Category:面对面导弹](https://zh.wikipedia.org/wiki/Category:面对面导弹 "wikilink")
 
 1.  [Lockheed Martin F-16A/B Fighting Falcon](http://www.taiwanairpower.org/af/f16.html) Taiwanairpower.org
-
 2.
 3.  [AGM-84“鱼叉”导弹 -兵器装备网|世界军事|中国军事|中国海军|武器装备](http://www.wpeu.net/article/Article.asp?Articleid=138#)
-
 4.  [Time (magazine)](https://zh.wikipedia.org/wiki/Time_\(magazine\) "wikilink"). [High-Tech Firepower](http://www.time.com/time/magazine/article/0,9171,961035,00.html). April 7, 1986.
-
 5.  Ronald Reagan. [Letter to the Speaker of the House of Representatives and the President Pro Tempore of the Senate on the Gulf of Sidra Incident](http://www.reagan.utexas.edu/archives/speeches/1986/32686h.htm). March 26, 1986.
-
 6.  [The New York Times](https://zh.wikipedia.org/wiki/The_New_York_Times "wikilink"). PENTAGON REVISES LIBYAN SHIP TOLL. March 27, 1986.
-
 7.  [The New York Times](https://zh.wikipedia.org/wiki/The_New_York_Times "wikilink"). [U.S. STRIKES 2 IRANIAN OIL RIGS AND HITS 6 WARSHIPS IN BATTLES OVER MINING SEA LANES IN GULF](http://query.nytimes.com/gst/fullpage.html?res=940DE0DC1038F93AA25757C0A96E948260). April 19, 1988.
-
 8.  The New York Times / AP. [U.S. Rocket Hits Indian Ship Accidentally, Killing Crewman](http://query.nytimes.com/gst/fullpage.html?res=940DEEDA1F3AF930A25751C1A96E948260). December 13, 1988.

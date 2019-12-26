@@ -89,6 +89,9 @@ Approximate round trip times in milli-seconds:
 
   - [死亡之Ping](https://zh.wikipedia.org/wiki/死亡之Ping "wikilink")
   - [Pathping](../Page/Pathping.md "wikilink")
+  - [fping](https://zh.wikipedia.org/wiki/fping "wikilink")
+  - [hping](https://zh.wikipedia.org/wiki/hping "wikilink")
+  - [Keepalive](https://zh.wikipedia.org/wiki/Keepalive "wikilink")
 
 ## 外部連結
 

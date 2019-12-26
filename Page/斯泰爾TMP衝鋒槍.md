@@ -66,12 +66,12 @@ B\&T MP-9也被[DSArms](http://www.dsarms.com/)推出民用型[TP9戰術手槍](
 
   - —[Modern Firearms-斯泰爾TMP](http://world.guns.ru/smg/smg11-e.htm)
 
-  - —[斯泰爾公司武器主頁](http://www.steyr-arms.at/index.php?id=55&L=1)
+  - —[斯泰爾公司武器主頁](https://web.archive.org/web/20070219185714/http://www.steyr-arms.at/index.php?id=55&L=1)
 
   - —[D Boy Gun World—TMP冲锋枪](http://firearmsworld.net/austria/steyr/tmp/tmp.htm)
 
       - [SPP手枪](http://firearmsworld.net/austria/steyr/tmp/spp.htm)
 
-[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:衝鋒手槍](https://zh.wikipedia.org/wiki/Category:衝鋒手槍 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink") [Category:包絡式槍機衝鋒槍](https://zh.wikipedia.org/wiki/Category:包絡式槍機衝鋒槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:4.6×30毫米槍械](https://zh.wikipedia.org/wiki/Category:4.6×30毫米槍械 "wikilink")
+[Category:斯太尔武器](https://zh.wikipedia.org/wiki/Category:斯太尔武器 "wikilink") [Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:衝鋒手槍](https://zh.wikipedia.org/wiki/Category:衝鋒手槍 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink") [Category:包絡式槍機衝鋒槍](https://zh.wikipedia.org/wiki/Category:包絡式槍機衝鋒槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:4.6×30毫米槍械](https://zh.wikipedia.org/wiki/Category:4.6×30毫米槍械 "wikilink")
 
 1.  [dsarms.com-TP9](http://www.dsarms.com/prodinfo.asp?number=BTTP9)

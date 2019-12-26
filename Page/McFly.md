@@ -72,7 +72,9 @@ McFly為第6張專輯寫了許多新歌如"Love Is Easy", "Do Watcha", "Cherry C
 
 ### 2019 *The Lost Songs*
 
-2019年9月10日 McFly在各官方社交網站宣布11月20日在[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[O2體育館](../Page/O2體育館.md "wikilink")的演唱會，隨後也宣布將會發行睽違9年的McFly新專輯*The Lost Songs,* 9月15日正式數位發行Red”和“Touch the Rain”兩首單曲。隨著11月O2演唱會門票全數售完,18日樂團宣布再加開10場2020年的正式復出演唱會。
+2019年9月10日 McFly在各官方社交網站宣布11月20日在[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[O2體育館](../Page/O2體育館.md "wikilink")的演唱會，隨後也宣布將會發行睽違9年的新專輯*The Lost Songs,* 9月15日正式數位發行Red”和“Touch the Rain”兩首單曲。隨著11月O2演唱會門票全數售完,18日樂團宣布再加開10場2020年的正式復出演唱會。
+
+專輯*The Lost Songs (遺忘的歌)* 13首歌曲其實6年前就錄好了,2013年單曲Love Is on the Radio原本是作為第六張專輯的主打歌,後來因為與樂團Busted組成McBusted而改變了計畫。團員在復出訪談中也承認未發片中間這幾年團員彼此也有心結,直到2018年底大家才解開心結,他們認為這些錄好的歌曲不該就這樣被遺忘,在發表下一張正式專輯之前應該發表這些歌曲,因為這代表也記錄了他們的一部分,同時也謝謝粉絲6年的等待。
 
 ## 音乐风格
 

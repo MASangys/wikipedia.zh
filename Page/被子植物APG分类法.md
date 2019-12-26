@@ -809,9 +809,7 @@ APG系统下设分类包括40个[目和](https://zh.wikipedia.org/wiki/目 "wiki
 [Category:生物分類學](https://zh.wikipedia.org/wiki/Category:生物分類學 "wikilink") [Category:植物學](https://zh.wikipedia.org/wiki/Category:植物學 "wikilink") [Category:被子植物](https://zh.wikipedia.org/wiki/Category:被子植物 "wikilink")
 
 1.  \[APG, 1998.\]，第532頁，retrieved 2011-06-29。
-
 2.  \[Stevens, P. F. 1986.\]
-
 3.
 4.
 5.

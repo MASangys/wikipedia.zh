@@ -12,7 +12,7 @@
 
 1948年，[康乃狄克州](../Page/康乃狄克州.md "wikilink")居民[James Brunot律師向畢斯購入生產遊戲的權利](https://zh.wikipedia.org/wiki/James_Brunot "wikilink")，並承諾在遊戲上寫明設計人為畢斯。Brunot保留了大部分遊戲設計，但簡化了遊戲規則，並改名為「Scrabble」，他將遊戲放到紐約著名的百貨公司[Macy's售賣](https://zh.wikipedia.org/wiki/梅西百货公司 "wikilink")，遊戲漸受歡迎。\[3\]
 
-到了1953年，Brunot未能應付需求，故將生產權售予（其中一間當初拒絕生產遊戲的公司）。開始在[澳洲售賣此遊戲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，並在1955年1月19日在英國售賣。兩間公司現已成為[美泰儿的附屬公司](https://zh.wikipedia.org/wiki/美泰儿 "wikilink")。\[4\] 1986年，Selchow and Righter將遊戲售予，其後再售予[孩之寶](../Page/孩之寶.md "wikilink")。\[5\]
+到了1953年，Brunot未能應付需求，故將生產權售予（其中一間當初拒絕生產遊戲的公司）。開始在[澳洲售賣此遊戲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，並在1955年1月19日在英國售賣。兩間公司現已成為[美泰儿的附屬公司](https://zh.wikipedia.org/wiki/美泰儿 "wikilink")。\[4\] 1986年，Selchow and Righter將遊戲售予[Coleco](../Page/Coleco.md "wikilink")，其後再售予[孩之寶](../Page/孩之寶.md "wikilink")。\[5\]
 
 ## 遊戲詳情
 
@@ -241,33 +241,24 @@ Zyzzyva則是一個拼字學習程式，包含多個模式學習不同的字母�
 
   - [Scrabble Word Finder 文字寻找工具](http://scrabblewordfinders.net/)
 
-  - [Scrabble問與答](http://home.teleport.com/~stevena/scrabble/faq.html)
+  - [Scrabble問與答](https://web.archive.org/web/20060804003445/http://home.teleport.com/~stevena/scrabble/faq.html)
 
 [Category:圖版遊戲](https://zh.wikipedia.org/wiki/Category:圖版遊戲 "wikilink") [Category:文字游戏](https://zh.wikipedia.org/wiki/Category:文字游戏 "wikilink")
 
 1.  Fatsis, Stefan. Word Freak : Heartbreak, Triumph, Genius, and Obsession in the World of Competitive ScrabblePlayers. ISBN 0-14-200226-7
-
 2.  取自历史的拼字游戏（5月30日，2013年） <http://scrabblewordfinders.net/2013/03/page/2/>
-
 3.
 4.
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
 13.
 14.
 15.
-
 16. 取自关于与朋友的话你不知道的事情（5月31日，2013年） <http://blogmybrain.com/words-with-friends-cheat/things-you-didnt-know-about-words-with-friends.html>
-
 17. 取自拼字策略（2013年6月4日）http://blogmybrain.com/scrabble-word-finder/best-scrabble-strategies.html

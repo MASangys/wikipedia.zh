@@ -4,7 +4,7 @@
 
 **西南貝爾公司**創辦於1983年，是根據的，而成立的其中一間。1995年**西南貝爾公司**易名為SBC通訊公司，再於2005年收購了[美國電話電報公司並易名為](https://zh.wikipedia.org/wiki/美國電話電報公司 "wikilink")**AT\&T公司**，此外並繼承了原由美國電話電報公司所持有的商標及在[紐約證券交易所的上市編碼](https://zh.wikipedia.org/wiki/紐約證券交易所 "wikilink")**T**（電話之意）。
 
-目前AT\&T公司通過購買持有不少因1983年判決而剝離的\[2\]。 公司總部位於美國[德州的](https://zh.wikipedia.org/wiki/德州 "wikilink")[達拉斯](../Page/達拉斯.md "wikilink")市中心\[3\]。
+目前AT\&T公司通過購買持有不少因1983年判決而剝離的\[2\]。公司總部位於美國[德州的](../Page/德克萨斯州.md "wikilink")[達拉斯](../Page/達拉斯.md "wikilink")市中心\[3\]。
 
 AT\&T公司榮獲中的同軸電纜艾美獎（The Emmy Award for Coaxial cable technology）\[4\]。2011年3月20日AT\&T宣布，已与[德国电信](../Page/德国电信.md "wikilink")达成协议收购其旗下[T-Mobile](../Page/T-Mobile.md "wikilink")美国分部，后被[美国司法部](../Page/美国司法部.md "wikilink")否决。
 
@@ -104,7 +104,7 @@ AT\&T收購[時代華納案在美國司法部敗訴後](https://zh.wikipedia.org
 
 ## 通訊監控
 
-根據美國媒體《The Intercept》 的調查，[美國國家安全局](https://zh.wikipedia.org/wiki/美國國家安全局 "wikilink") 以「FAIRVIEW」[網路監視計畫名義](https://zh.wikipedia.org/wiki/網路監視 "wikilink")，透過 AT\&T 在美國境內 8 個網路節點，獲得直接存取 AT\&T 的網路核心架構的授權。除了「FAIRVIEW」之外，AT\&T 也另外參與了另一項代號為「SAGUARO」的計畫，該計劃使用 NSA 的 XKEYSCORE [搜尋引擎工具](https://zh.wikipedia.org/wiki/搜尋引擎 "wikilink")，收集並建立網路使用者未加密的線上活動資料庫。\[26\]\[27\]
+根據美國媒體《The Intercept》的調查，[美國國家安全局以](https://zh.wikipedia.org/wiki/美國國家安全局 "wikilink")「FAIRVIEW」[網路監視計畫名義](https://zh.wikipedia.org/wiki/網路監視 "wikilink")，透過 AT\&T 在美國境內 8 個網路節點，獲得直接存取 AT\&T 的網路核心架構的授權。除了「FAIRVIEW」之外，AT\&T 也另外參與了另一項代號為「SAGUARO」的計畫，該計劃使用 NSA 的 XKEYSCORE [搜尋引擎工具](https://zh.wikipedia.org/wiki/搜尋引擎 "wikilink")，收集並建立網路使用者未加密的線上活動資料庫。\[26\]\[27\]
 
 ## 公司架構
 
@@ -218,7 +218,7 @@ AT\&T公司作為控股公司，經多年收購導致下面的公司架構：
 
   - [AT\&T棉花碗錦標賽](../Page/棉花碗.md "wikilink")（原美孚棉花碗錦標賽，西南貝爾棉花碗錦標賽，SBC棉花碗錦標賽）—在德克薩斯州[阿靈頓的](https://zh.wikipedia.org/wiki/阿靈頓_\(德克薩斯州\) "wikilink")[牛仔球場舉行](../Page/AT&T體育場.md "wikilink")
 
-  - [AT\&T國際高球賽](../Page/奎肯信貸全國賽.md "wikilink")— [華盛頓](https://zh.wikipedia.org/wiki/華盛頓哥倫比亞特區 "wikilink")
+  - [AT\&T國際高球賽](../Page/奎肯信貸全國賽.md "wikilink")—[華盛頓](https://zh.wikipedia.org/wiki/華盛頓哥倫比亞特區 "wikilink")
 
   - [AT\&T圓石灘配對賽](../Page/AT&T圓石灘配對賽.md "wikilink")
 
@@ -261,54 +261,29 @@ AT\&T公司作為控股公司，經多年收購導致下面的公司架構：
 [Category:AT\&T](https://zh.wikipedia.org/wiki/Category:AT&T "wikilink") [Category:標準普爾500指數成分股](https://zh.wikipedia.org/wiki/Category:標準普爾500指數成分股 "wikilink") [Category:1983年成立的公司](https://zh.wikipedia.org/wiki/Category:1983年成立的公司 "wikilink") [Category:美國通信公司](https://zh.wikipedia.org/wiki/Category:美國通信公司 "wikilink") [Category:總部在美國的跨國公司](https://zh.wikipedia.org/wiki/Category:總部在美國的跨國公司 "wikilink") [Category:美國品牌](https://zh.wikipedia.org/wiki/Category:美國品牌 "wikilink") [Category:德克薩斯州公司](https://zh.wikipedia.org/wiki/Category:德克薩斯州公司 "wikilink")
 
 1.
-
 2.
-
 3.  Godinez, Victor and David McLemore. "[AT\&T moving headquarters to Dallas from San Antonio](http://www.dallasnews.com/sharedcontent/dws/bus/stories/DN-att_28bus.ART.State.Edition2.4d5475b.html)." *[The Dallas Morning News](https://zh.wikipedia.org/wiki/The_Dallas_Morning_News "wikilink")*. Saturday June 28, 2008. Retrieved on June 18, 2009.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13. AT\&T - News Room（December 3, 2007）. [AT\&T Announces Intention to Withdraw from Pay Phone Business by End of 2008](http://www.att.com/gen/press-room?pid=4800&cdvn=news&newsarticleid=24840). [Press release](https://zh.wikipedia.org/wiki/Press_release "wikilink"). Retrieved on December 16, 2007.
-
 14.
 15. "[Corporate Inquiries](http://www.att.com/gen/press-room?pid=1916)." *AT\&T*. Retrieved on March 25, 2009.
-
 16. [Source: Dallas News](http://www.dallasnews.com/sharedcontent/dws/dn/latestnews/stories/062808dnbusattmove.4515fb49.html)
-
 17.
-
 18. AT\&T - News Room（June 27, 2008）. [AT\&T Corporate Headquarters to Move to Dallas](http://www.att.com/gen/press-room?pid=4800&cdvn=news&newsarticleid=25882). [Press release](https://zh.wikipedia.org/wiki/Press_release "wikilink"). Retrieved on June 27, 2008.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23. [at\&t-buys-time-warner](https://www.bnext.com.tw/article/41472/at&t-buys-time-warner)
-
 24.
-
 25. <http://www.corp.att.com/ap/about/where/hk/>
-
 26.
-
 27.

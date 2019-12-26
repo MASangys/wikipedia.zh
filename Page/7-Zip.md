@@ -18,7 +18,7 @@
       - 256位[AES加密](../Page/高级加密标准.md "wikilink")
       - [多线程](../Page/多线程.md "wikilink")壓縮與解壓縮
       - [LZMA](../Page/LZMA.md "wikilink")（2）压缩强度远高于[ZIP](../Page/ZIP格式.md "wikilink") [DEFLATE](../Page/DEFLATE.md "wikilink")，速度和压缩强度稍高于[RAR](../Page/RAR.md "wikilink")v3。
-      - 支持動態檔案大小（分卷）压缩，應對備份至移動媒體如[CD](../Page/CD.md "wikilink")與[DVD十分有效](https://zh.wikipedia.org/wiki/DVD "wikilink")
+      - 支持動態檔案大小壓縮（分卷压缩），應對備份至移動媒體如[CD](../Page/CD.md "wikilink")與[DVD十分有效](https://zh.wikipedia.org/wiki/DVD "wikilink")
   - 支持FAR Manager插件
   - 支持79種語言（含英文、中文（簡體、-{zh-hans:繁体; zh-hant:繁體; zh-tw:正體;}-）、日文、韓文）
   - 相對於需付費的[WinRAR](../Page/WinRAR.md "wikilink")、[WinZip](../Page/WinZip.md "wikilink")，提供更多文件类型解压支持，如[exe段读取](../Page/可移植可执行.md "wikilink")。

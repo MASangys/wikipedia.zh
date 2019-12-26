@@ -43,9 +43,9 @@ WinFixer感染電腦的途徑有很多。一般來說，大多數用戶都是使
   - [This Trojan is where many peoples problems start (leads to installing winfixer)](http://www.spynomore.com/trojan-zlob.htm)
   - [塞門鐵克對WinFixer的調查報告](https://web.archive.org/web/20060209035533/http://securityresponse.symantec.com/avcenter/venc/data/winfixer.html)
   - [McAfee對WinFixer的調查報告](https://web.archive.org/web/20060819004046/http://vil.nai.com/vil/content/v_135733.htm)
-  - [卡巴斯基同樣也把它列為惡意軟體](http://www.kaspersky.com/find?words=winfixer&search=1)
+  - [卡巴斯基同樣也把它列為惡意軟體](https://web.archive.org/web/20070928000058/http://www.kaspersky.com/find?words=winfixer&search=1)
   - [Sophos對WinFixer的調查報告](http://www.sophos.com/virusinfo/analyses/winfixer.html)
-  - [一個可能的修復方法](http://www.atribune.org/index.php?option=com_content&task=view&id=30&Itemid=2)
+  - [一個可能的修復方法](https://web.archive.org/web/20070311073445/http://www.atribune.org/index.php?option=com_content&task=view&id=30&Itemid=2)
 
 [Category:間諜軟件](https://zh.wikipedia.org/wiki/Category:間諜軟件 "wikilink")
 

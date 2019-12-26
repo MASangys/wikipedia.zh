@@ -4,7 +4,7 @@
 
 Skyliner約每隔40分鐘開出一班列車來往於[京成上野站及](https://zh.wikipedia.org/wiki/京成上野站 "wikilink")[成田機場站之間](https://zh.wikipedia.org/wiki/成田機場站 "wikilink")，中途只停靠[日暮里及](https://zh.wikipedia.org/wiki/日暮里站 "wikilink")[空港第2大樓站](https://zh.wikipedia.org/wiki/空港第2大樓站 "wikilink")。雖然京成上野站有多條其他路線轉乘，但不少旅客選擇在日暮里站轉乘，這主要是因為日暮里站有[山手線](../Page/山手線.md "wikilink")等主要幹線通過，且在日暮里站轉乘時所需的步行距離也較短之故。
 
-由成田機場至日暮里站行車時間約為36分鐘，成田機場至上野全程則為44分鐘。票價為單程2,470[日圓](../Page/日圓.md "wikilink")（其中包括1,240日圓基本運費與1,230日圓的[特急料金價格](https://zh.wikipedia.org/wiki/特急料金 "wikilink")）。
+由成田機場至日暮里站行車時間約為36分鐘，成田機場至上野全程則為41分鐘。票價為單程2,520[日圓](../Page/日圓.md "wikilink")（其中包括1,270日圓基本運費與1,250日圓的[特急料金價格](https://zh.wikipedia.org/wiki/特急料金 "wikilink")）。
 
 Skyliner的主要競爭對手是由[JR東日本所經營的](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")[成田特快](../Page/成田特快.md "wikilink")（Narita Express，N'EX），後者價格較為高昂但可直接到達多個主要車站。2010年時[成田機場線](../Page/成田機場線.md "wikilink")（或又暱稱為「成田Sky Access線」）通車，Skyliner的行駛路線也從原本的[京成本線](../Page/京成本線.md "wikilink")轉移到新通車的路線。由於路線的更改，由日暮里至[機場第2大樓的行車時間也從原本的](https://zh.wikipedia.org/wiki/機場第2大樓車站 "wikilink")51分鐘大幅縮短至36分鐘。至於Skyliner原本所行駛的京成本線京成上野至成田機場間的路段，則新設特急列車「City Liner」（）來負擔運輸任務。除此之外在早上與傍晚的通勤尖峰時段，尚設有Morning Liner（）與Evening Liner（）兩種特急列車，其行駛路線與City Liner重複，但配合通勤的需求停靠的車站數量較多。Cityliner最後因需求低，於2015年12月5日停止服務。 [SkyLinerTicket.png](https://zh.wikipedia.org/wiki/File:SkyLinerTicket.png "fig:SkyLinerTicket.png") [Skyliner_行車終點顯示器.jpg](https://zh.wikipedia.org/wiki/File:Skyliner_行車終點顯示器.jpg "fig:Skyliner_行車終點顯示器.jpg")
 

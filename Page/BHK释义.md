@@ -18,7 +18,7 @@
 
 恒等函数是公式\(P \to P\)的证明，不管P是什么。
 
-[无矛盾律](https://zh.wikipedia.org/wiki/无矛盾律 "wikilink")\(\neg (P \wedge \neg P)\)被展开为\((P \wedge (P \to \bot)) \to \bot\):
+[无矛盾律](../Page/无矛盾律.md "wikilink")\(\neg (P \wedge \neg P)\)被展开为\((P \wedge (P \to \bot)) \to \bot\):
 
   - \((P \wedge (P \to \bot)) \to \bot\)的证明是函数f，它把\((P \wedge (P \to \bot))\)的证明变换成\(\bot\)的证明。
   - \((P \wedge (P \to \bot))\)的证明是证明的有序对\<a,b\>，这裡的a是P的证明，而b是\(P \to \bot\)的证明。

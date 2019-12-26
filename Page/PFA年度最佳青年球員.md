@@ -560,60 +560,33 @@
 [Category:英格蘭足球](https://zh.wikipedia.org/wiki/Category:英格蘭足球 "wikilink") [Category:英国足球奖项](https://zh.wikipedia.org/wiki/Category:英国足球奖项 "wikilink") [Category:足球紀錄及統計數據](https://zh.wikipedia.org/wiki/Category:足球紀錄及統計數據 "wikilink") [Category:1974年建立的獎項](https://zh.wikipedia.org/wiki/Category:1974年建立的獎項 "wikilink")
 
 1.
-
 2.
 3.  並不包括，雖然他於[法屬圭亞那](../Page/法屬圭亞那.md "wikilink")出生，但他代表英格蘭國家隊上陣。
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.  PPY代表[英格蘭PFA足球先生](../Page/英格蘭PFA足球先生.md "wikilink")、FPY代表[英格蘭FWA足球先生](../Page/英格蘭FWA足球先生.md "wikilink")、FWA代表。
-
 10. [-{zh-hans:梅文·戴; zh-hk:摩雲·地;zh-tw:梅文·戴}-是首次贏得此獎項的門將](../Page/摩雲·地.md "wikilink")。
-
 11. 是首位贏得此獎項的非英格蘭籍球員，亦是首位贏得PFA年度最佳青年球員的球員和[英格蘭PFA足球先生](../Page/英格蘭PFA足球先生.md "wikilink")的球員。
-
 12. 是首位於英國外出生，而贏得此獎項的球員。
-
 13. [-{zh-hans:瑞恩·吉格斯;zh-hk:賴恩·傑斯;zh-tw:瑞恩·吉格斯;}-是首位贏得此獎項兩次和連續兩季贏得此獎項的球員](../Page/瑞恩·吉格斯.md "wikilink")。
-
 14. [-{zh-hans:尼古拉·阿内尔卡; zh-hk:尼古拉·安歷卡;zh-tw:尼古拉·阿内爾卡;}-尼古拉](../Page/尼古拉·阿内尔卡.md "wikilink")·安歷卡是首位贏得此獎項的非英國籍球員。
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
 21.
 22. [-{zh-hans:克里斯蒂亚诺·罗纳尔多;zh-hk:基斯坦奴·朗拿度;zh-tw:克里斯蒂亞諾·羅納度;}-是首位贏得](../Page/基斯坦奴·朗拿度.md "wikilink")[英格蘭PFA足球先生](../Page/英格蘭PFA足球先生.md "wikilink")、[英格蘭FWA足球先生](../Page/英格蘭FWA足球先生.md "wikilink")、和PFA年度最佳青年球員四項獎項的球員。
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.

@@ -193,17 +193,13 @@
 [Category:2006年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2006年日本OVA動畫 "wikilink") [Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink") [Category:BALDR系列](https://zh.wikipedia.org/wiki/Category:BALDR系列 "wikilink") [Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")
 
 1.  [太平洋游戏网 - 年度跳票作《BALDR FORCE EXE RESOLUTION》发售DVD](http://www.pcgames.com.cn/cartoon/dvdzone/dvd/0611/834418.html)
-
 2.  [GENEON ENTERTAINMENT - BALDR FORCE EXE RESOLUTION 01 First Contact](http://www.yodobashi.com/enjoy/more/i/cat_1107_251_750_8057327/50704946.html)
-
 3.  [太平洋游戏网 - 在18禁与全年龄中挣扎？《BALDR FORCE EXE RESOLUTION》方向性修正](http://www.pcgames.com.cn/cartoon/dvdzone/ova/0606/798205.html)
-
 4.
 5.
 6.
 7.
 8.
 9.  [太平洋游戏网 - 期待邪神再临?《BALDR FORCE EXE RESOLUTION》第三卷](http://www.pcgames.com.cn/cartoon/dvdzone/ova/0701/858381.html)
-
 10.
 11. [太平洋游戏网 - 不完美终结?《BALDR FORCE EXE RESOLUTION》最终卷](http://www.pcgames.com.cn/cartoon/dvdzone/ova/0703/869017.html)

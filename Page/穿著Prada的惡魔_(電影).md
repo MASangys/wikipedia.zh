@@ -130,7 +130,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/瓦伦蒂诺·加拉瓦尼" title="wikilink">瓦伦蒂诺·加拉瓦尼</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -754,52 +754,28 @@
 [Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:2006年美國電影](https://zh.wikipedia.org/wiki/Category:2006年美國電影 "wikilink") [Category:2000年代美国电影作品](https://zh.wikipedia.org/wiki/Category:2000年代美国电影作品 "wikilink") [Category:美國喜劇片](https://zh.wikipedia.org/wiki/Category:美國喜劇片 "wikilink") [Category:2000年代喜劇劇情片](https://zh.wikipedia.org/wiki/Category:2000年代喜劇劇情片 "wikilink") [Category:20世纪福斯电影](https://zh.wikipedia.org/wiki/Category:20世纪福斯电影 "wikilink") [Category:美国小说改编电影](https://zh.wikipedia.org/wiki/Category:美国小说改编电影 "wikilink") [Category:上海电影译制厂译制作品](https://zh.wikipedia.org/wiki/Category:上海电影译制厂译制作品 "wikilink") [Category:職場題材電影](https://zh.wikipedia.org/wiki/Category:職場題材電影 "wikilink") [Category:時尚題材電影](https://zh.wikipedia.org/wiki/Category:時尚題材電影 "wikilink") [Category:紐約市背景電影](https://zh.wikipedia.org/wiki/Category:紐約市背景電影 "wikilink") [Category:紐約市取景電影](https://zh.wikipedia.org/wiki/Category:紐約市取景電影 "wikilink") [Category:巴黎背景電影](https://zh.wikipedia.org/wiki/Category:巴黎背景電影 "wikilink") [Category:巴黎取景电影](https://zh.wikipedia.org/wiki/Category:巴黎取景电影 "wikilink")
 
 1.
-
 2.
-
 3.  Amiel, Barbara; July 2, 2006; "[The 'Devil' I know](http://www.telegraph.co.uk/culture/3653567/The-Devil-I-know.html)"; [每日电讯报](../Page/每日电讯报.md "wikilink"); 2007-01-10查阅.
-
 4.
 5.  Brockes, Emma; 2006-09-23; "[The devil in Ms Streep](http://film.guardian.co.uk/interview/interviewpages/0,,1879049,00.html)"; [卫报](https://zh.wikipedia.org/wiki/卫报 "wikilink"); 2007-01-10查阅.
-
 6.
-
 7.  National Board of Review; [Awards for 2006](http://www.nbrmp.org/awards/) ; 2006-12-19查阅.
-
 8.  American Film Institute; [AFI Awards 2006](http://www.afi.com/tvevents/afiawards06/default.aspx), 2006-12-19查阅.
-
 9.  [Hollywood Foreign Press Association](https://zh.wikipedia.org/wiki/Hollywood_Foreign_Press_Association "wikilink"); January 16, 2007; [HFPA — Nominations and Winners](http://www.hfpa.org/nominations/index.html) ; 2007-01-16查阅.
-
 10. 美国演员工会; 2007-01-04; [SAG Awards Official website](http://www.sagawards.org/PR_070104) , retrieved from sagawards.org January 4, 2007.
-
 11. Kilday, Gregg; 2007-01-08; [National Society picks 'Pan' as best pic](http://www.hollywoodreporter.com/hr/content_display/film/news/e3i5b2bddf1415bc8d7073596f319df0d11?imw=Y); *[好莱坞报道](https://zh.wikipedia.org/wiki/好莱坞报道 "wikilink")*; 2007-01-10查阅.
-
 12. Writers Guild of America Award, ; 2007-01-11查阅.
-
 13. [英国电影和电视艺术学院](../Page/英国电影和电视艺术学院.md "wikilink"); 2007-01-12; [LATEST WINNERS & NOMINEES](https://web.archive.org/web/20070820074034/http://www.bafta.org/site/page287.html); 2008-07-04查阅.
-
 14. [奥斯卡奖](https://zh.wikipedia.org/wiki/奥斯卡奖 "wikilink"), 2007-01-23; [Nominations List: 79th Annual Academy Awards](http://www.oscars.org/79academyawards/noms.html), 2007-01-23查阅.
-
 15. Dehnhart, Andy; 2007-02-26; [Oscar's best moments weren't in the script](http://www.msnbc.msn.com/id/17339214/); *[MSNBC](https://zh.wikipedia.org/wiki/MSNBC "wikilink")*; 2007-02-26查阅.
-
 16.
-
 17.
-
 18. , 引自
-
 19. ,引自Spiker.
-
 20.
-
 21.
-
 22. [DVD review: *The Devil Wears Prada*](http://www.currentfilm.com/dvdreviews8/devilwearspradadvd.html)
-
 23. Blooper reel. (2006). *The Devil Wears Prada* \[DVD\]. USA: 20th Century Fox.
-
 24. Bracke, Peter M.; December 11, 2006; "[Blu-Ray Review: The Devil Wears Prada](http://bluray.highdefdigest.com/devilwearsprada.html)"; highdefdigest.com; 2007-01-18查阅.
-
 25.
-
 26.

@@ -9,7 +9,6 @@ ARIMA（p，d，q）模型是[ARMA](../Page/ARMA模型.md "wikilink")（p，q）
 ## 模型特点
 
   - 不直接考虑其他相关随机变量的变化
-
   -
 ## ARIMA模型运用的流程
 

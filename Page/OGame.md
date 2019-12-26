@@ -125,31 +125,31 @@ OGame中玩家的每一項動作都是能被遊戲維護員／超級維護員／
 
 ## 目前各國伺服器狀況
 
-| **語言**                                                    | **網站結尾（開頭皆為 http://ogame{{dead link|date=2017年11月 |bot=InternetArchiveBot |fix-attempted=yes }})** | **開始運行日期**  | **宇宙數** | '''備註           |
-| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------- | ------- | --------------- |
-| [德語](https://zh.wikipedia.org/wiki/德語 "wikilink")         | [.de](http://ogame.de)                                                                             | 2002年10月3日  | 26+10   |                 |
-| [英語](https://zh.wikipedia.org/wiki/英語 "wikilink")         | [.org](http://ogame.org)和[.co.uk](http://ogame.co.uk)                                              | 2004年9月13日  | 15+5    |                 |
-| [芬蘭語](https://zh.wikipedia.org/wiki/芬蘭語 "wikilink")       | [.fi](http://ogame.fi)                                                                             |             | 2       |                 |
-| [法語](https://zh.wikipedia.org/wiki/法語 "wikilink")         | [.fr](http://ogame.fr)                                                                             | 2004年9月23日  | 27+9    |                 |
-| [西班牙語](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")     | [.com.es](http://ogame.com.es)                                                                     | 2004年10月26日 | 26+6    |                 |
-| [波蘭語](https://zh.wikipedia.org/wiki/波蘭語 "wikilink")       | [.pl](http://ogame.pl)                                                                             | 2005年1月20日  | 26+5    |                 |
-| [俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")         | [.ru](http://ogame.ru)                                                                             | 2005年1月20日  | 20+3    |                 |
-| [简体中文](https://zh.wikipedia.org/wiki/简体中文 "wikilink")（中国） | [.cn](http://cn.ogame.org)和[.cn](http://ogame.cn)                                                  | 2006年4月4日   | 9       | 2009年停止运作       |
-| [正體中文](https://zh.wikipedia.org/wiki/正體中文 "wikilink")（台灣） | [.tw](http://ogame.tw)                                                                             | 2005年1月27日  | 6       |                 |
-| [土耳其語](https://zh.wikipedia.org/wiki/土耳其語 "wikilink")     | [.com.tr](http://ogame.com.tr)                                                                     | 2005年3月2日   | 25+8    |                 |
-| [波士尼亞語](https://zh.wikipedia.org/wiki/波士尼亞語 "wikilink")   | [.ba](http://ogame.ba)和[.com.hr](http://ogame.com.hr)                                              | 2005年5月27日  | 7+3     |                 |
-| [荷蘭語](../Page/荷蘭語.md "wikilink")                          | [.nl](http://ogame.nl)                                                                             | 2005年5月27日  | 14+4    |                 |
-| [義大利語](https://zh.wikipedia.org/wiki/義大利語 "wikilink")     | [.it](http://ogame.it)                                                                             | 2005年5月30日  | 24+4    |                 |
-| [葡萄牙語](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")     | [.com.pt](http://ogame.com.pt)                                                                     | 2005年8月11日  | 13+4    |                 |
-| [丹麥語](https://zh.wikipedia.org/wiki/丹麥語 "wikilink")       | [.dk](http://ogame.dk)                                                                             | 2005年11月28日 | 7+2     |                 |
-| [葡萄牙語](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")（巴西） | [.com.br](https://web.archive.org/web/20130914025547/http://ogame.com.br/)                         | 2006年4月6日   | 19+2    |                 |
-| [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")         | [.co.kr](https://web.archive.org/web/20060818201321/http://o-game.co.kr/)                          | 2006年6月30日  | 7       | 2009年11月16日停止運作 |
-| [日本語](https://zh.wikipedia.org/wiki/日本語 "wikilink")       | [.jp](http://www.ogame.jp/)                                                                        | 2006年8月31日  | 4+1     |                 |
-| [瑞典語](../Page/瑞典語.md "wikilink")                          | [.se](http://ogame.se)                                                                             | 2006年10月4日  | 4+1     |                 |
-| [希臘語](https://zh.wikipedia.org/wiki/希臘語 "wikilink")       | [.gr](http://ogame.gr)                                                                             | 2007年1月5日   | 9+1     |                 |
-| [捷克語](https://zh.wikipedia.org/wiki/捷克語 "wikilink")       | [.cz](http://ogame.cz)                                                                             | 2007年7月12日  | 16+1    |                 |
-| [斯洛伐克語](https://zh.wikipedia.org/wiki/斯洛伐克語 "wikilink")   | [.sk](http://ogame.sk)                                                                             |             | 4       |                 |
-| [羅馬尼亞語](../Page/羅馬尼亞語.md "wikilink")                      | [.ro](http://ogame.ro)                                                                             | 2007年6月5日   | 12+1    |                 |
+| **語言**                                                    | **網站結尾**                                                                   | **開始運行日期**  | **宇宙數** | '''備註           |
+| --------------------------------------------------------- | -------------------------------------------------------------------------- | ----------- | ------- | --------------- |
+| [德語](https://zh.wikipedia.org/wiki/德語 "wikilink")         | [.de](http://ogame.de)                                                     | 2002年10月3日  | 26+10   |                 |
+| [英語](https://zh.wikipedia.org/wiki/英語 "wikilink")         | [.org](http://ogame.org)和[.co.uk](http://ogame.co.uk)                      | 2004年9月13日  | 15+5    |                 |
+| [芬蘭語](https://zh.wikipedia.org/wiki/芬蘭語 "wikilink")       | [.fi](http://ogame.fi)                                                     |             | 2       |                 |
+| [法語](https://zh.wikipedia.org/wiki/法語 "wikilink")         | [.fr](http://ogame.fr)                                                     | 2004年9月23日  | 27+9    |                 |
+| [西班牙語](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")     | [.com.es](http://ogame.com.es)                                             | 2004年10月26日 | 26+6    |                 |
+| [波蘭語](https://zh.wikipedia.org/wiki/波蘭語 "wikilink")       | [.pl](http://ogame.pl)                                                     | 2005年1月20日  | 26+5    |                 |
+| [俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")         | [.ru](http://ogame.ru)                                                     | 2005年1月20日  | 20+3    |                 |
+| [简体中文](https://zh.wikipedia.org/wiki/简体中文 "wikilink")（中国） | [.cn](http://cn.ogame.org)和[.cn](http://ogame.cn)                          | 2006年4月4日   | 9       | 2009年停止运作       |
+| [正體中文](https://zh.wikipedia.org/wiki/正體中文 "wikilink")（台灣） | [.tw](http://ogame.tw)                                                     | 2005年1月27日  | 6       |                 |
+| [土耳其語](https://zh.wikipedia.org/wiki/土耳其語 "wikilink")     | [.com.tr](http://ogame.com.tr)                                             | 2005年3月2日   | 25+8    |                 |
+| [波士尼亞語](https://zh.wikipedia.org/wiki/波士尼亞語 "wikilink")   | [.ba](http://ogame.ba)和[.com.hr](http://ogame.com.hr)                      | 2005年5月27日  | 7+3     |                 |
+| [荷蘭語](../Page/荷蘭語.md "wikilink")                          | [.nl](http://ogame.nl)                                                     | 2005年5月27日  | 14+4    |                 |
+| [義大利語](https://zh.wikipedia.org/wiki/義大利語 "wikilink")     | [.it](https://web.archive.org/web/20130917002321/http://ogame.it/)         | 2005年5月30日  | 24+4    |                 |
+| [葡萄牙語](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")     | [.com.pt](http://ogame.com.pt)                                             | 2005年8月11日  | 13+4    |                 |
+| [丹麥語](https://zh.wikipedia.org/wiki/丹麥語 "wikilink")       | [.dk](http://ogame.dk)                                                     | 2005年11月28日 | 7+2     |                 |
+| [葡萄牙語](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")（巴西） | [.com.br](https://web.archive.org/web/20130914025547/http://ogame.com.br/) | 2006年4月6日   | 19+2    |                 |
+| [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")         | [.co.kr](https://web.archive.org/web/20060818201321/http://o-game.co.kr/)  | 2006年6月30日  | 7       | 2009年11月16日停止運作 |
+| [日本語](https://zh.wikipedia.org/wiki/日本語 "wikilink")       | [.jp](http://www.ogame.jp/)                                                | 2006年8月31日  | 4+1     |                 |
+| [瑞典語](../Page/瑞典語.md "wikilink")                          | [.se](http://ogame.se)                                                     | 2006年10月4日  | 4+1     |                 |
+| [希臘語](https://zh.wikipedia.org/wiki/希臘語 "wikilink")       | [.gr](http://ogame.gr)                                                     | 2007年1月5日   | 9+1     |                 |
+| [捷克語](https://zh.wikipedia.org/wiki/捷克語 "wikilink")       | [.cz](http://ogame.cz)                                                     | 2007年7月12日  | 16+1    |                 |
+| [斯洛伐克語](https://zh.wikipedia.org/wiki/斯洛伐克語 "wikilink")   | [.sk](http://ogame.sk)                                                     |             | 4       |                 |
+| [羅馬尼亞語](../Page/羅馬尼亞語.md "wikilink")                      | [.ro](http://ogame.ro)                                                     | 2007年6月5日   | 12+1    |                 |
 
 ## 高速伺服器
 

@@ -117,9 +117,7 @@
 [Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:最终幻想XIII](https://zh.wikipedia.org/wiki/Category:最终幻想XIII "wikilink") [Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:制作中止的PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:制作中止的PlayStation_2游戏 "wikilink") [Category:宗教題材作品](https://zh.wikipedia.org/wiki/Category:宗教題材作品 "wikilink") [Category:女主人公电子游戏](https://zh.wikipedia.org/wiki/Category:女主人公电子游戏 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:歧視與差別待遇題材作品](https://zh.wikipedia.org/wiki/Category:歧視與差別待遇題材作品 "wikilink")
 
 1.  [Final Fantasy XIII (PlayStation 3) - Sales, Wiki, Cheats, Walkthrough, Release Date, Gameplay, ROM on VGChartz](http://www.vgchartz.com/game/7727/final-fantasy-xiii/). 2017年8月17日閲覧。
-
 2.  [Final Fantasy XIII (Xbox 360) - Sales, Wiki, Cheats, Walkthrough, Release Date, Gameplay, ROM on VGChartz](http://www.vgchartz.com/game/24628/final-fantasy-xiii/). 2017年8月17日閲覧。
-
 3.
 4.
 5.
@@ -213,13 +211,11 @@
 93.
 94.
 95.
-
 96.
 97.
 98.
 99.
 100.
-
 101.
 102.
 103.
@@ -249,18 +245,14 @@
 127.
 128.
 129.
-
 130.
-
 131.
-
 132.
 133.
 134.
 135.
 136.
 137.
-
 138.
 139.
 140.
@@ -301,7 +293,6 @@
 175.
 176.
 177.
-
 178.
 179.
 180.

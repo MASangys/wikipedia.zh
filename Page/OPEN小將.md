@@ -27,13 +27,13 @@
   - 2006年9月，統一超商推出OPEN小將造型宣傳車，作為新開幕門市宣傳使用。
   - 2008年，台灣7-ELEVEN的店口海報改為「Always OPEN！」。
   - 2008年2月，[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[統一獅](../Page/統一獅.md "wikilink")隊更名為[統一7-ELEVEN獅隊](https://zh.wikipedia.org/wiki/統一7-ELEVEN獅 "wikilink")，因此OPEN小將家族（Open小將、小桃、小竹輪、條碼貓）與既有的[萊恩一起成為該隊的](https://zh.wikipedia.org/wiki/萊恩 "wikilink")[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")。\[3\]
-  - 2008年5月28日與[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")[統一夢時代購物中心](../Page/統一夢時代購物中心.md "wikilink")合作，推出OPEN小將[高雄捷運](../Page/高雄捷運.md "wikilink")接駁車。
+  - 2008年5月28日，與[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")[統一夢時代購物中心](../Page/統一夢時代購物中心.md "wikilink")合作，推出OPEN小將[高雄捷運](../Page/高雄捷運.md "wikilink")接駁車。
   - 2008年7月2日，OPEN PLAZA門市在全國192家7-ELEVEN開張。以OPEN小將新畫風—粉彩療癒系的風格登場的設計，當中OPEN小將徜徉在藍天白雲草地間；商品種類有文具、用品、衣服等70多項OPEN小將專屬商品，每隔2-3個月還會推出新品。\[4\]
   - 2008年7月29日，OPEN小將第一張音樂專輯「Always OPEN Your Heart」正式發售，其中有[五月天](../Page/五月天.md "wikilink")與[強辯樂團](../Page/強辯樂團.md "wikilink")等作詞作曲與拍攝[MV的協助](../Page/音樂錄影帶.md "wikilink")。
   - 2008年12月10日，[高雄捷運公司](../Page/高雄捷運公司.md "wikilink")與統一超商主題人物「OPEN將」合作，推出「OPEN小將高雄捷運卡」，是首次授權主題儲值卡；12月20日在高雄捷運紅橘兩線各車站服務台發售。\[5\]
-  - 2010年7月10日首度在高雄[統一夢時代開OPEN](https://zh.wikipedia.org/wiki/統一夢時代 "wikilink") KITCHEN魔法主題餐廳，還將進駐統一[阪急台北店開PLAZA商品店](https://zh.wikipedia.org/wiki/阪急 "wikilink")
-  - 2012年2月6日在第63屆[札幌雪祭](../Page/札幌雪祭.md "wikilink")展出高3-4米的冰雕，象徵向[日本](../Page/日本.md "wikilink")邁進。
-  - 2012年7月11日公佈新角色「Secret酷莓」（Secretちゃん）的加入\[6\]；並為八位主要角色建立[臉書粉絲團](https://zh.wikipedia.org/wiki/臉書 "wikilink")。
+  - 2010年7月10日，首度在高雄[統一夢時代開OPEN](https://zh.wikipedia.org/wiki/統一夢時代 "wikilink") KITCHEN魔法主題餐廳，還將進駐統一[阪急台北店開PLAZA商品店](https://zh.wikipedia.org/wiki/阪急 "wikilink")
+  - 2012年2月6日，在第63屆[札幌雪祭](../Page/札幌雪祭.md "wikilink")展出高3-4米的冰雕，象徵向[日本](../Page/日本.md "wikilink")邁進。
+  - 2012年7月11日，公佈新角色「Secret酷莓」（Secretちゃん）的加入\[6\]；並為八位主要角色建立[臉書粉絲團](https://zh.wikipedia.org/wiki/臉書 "wikilink")。
 
 ## OPEN小將[原創故事簡介](https://zh.wikipedia.org/wiki/原創 "wikilink")
 
@@ -97,22 +97,23 @@ OPEN\! COMIC 此為LOCK與OPEN的打情罵俏，非常可愛。
   - [Please\&Secret](../Page/Please&Secret.md "wikilink")
   - [OPEN！ OPEN！](../Page/OPEN！_OPEN！.md "wikilink")
 
-## 參考與來源
+## 參考文獻
 
-<references/>
-
-  -
 ## 外部連結
 
   - [OPEN小將官方網站](http://www.openopen.com.tw/)
 
   -
+  - [7-ELEVEN OPEN小將 魔法世界](https://www.openopen.com.tw/blog/blog.asp)
+
+  -
+  -
 [Category:台灣便利商店](https://zh.wikipedia.org/wiki/Category:台灣便利商店 "wikilink") [Category:動畫角色](https://zh.wikipedia.org/wiki/Category:動畫角色 "wikilink") [Category:虛構外星角色](https://zh.wikipedia.org/wiki/Category:虛構外星角色 "wikilink") [Category:狗吉祥物](https://zh.wikipedia.org/wiki/Category:狗吉祥物 "wikilink") [Category:統一企業集團](https://zh.wikipedia.org/wiki/Category:統一企業集團 "wikilink")
 
 1.  [小竹輪個人資料](http://www.open-chan.com/friends/profile/chikuwa/?lang=tw)
 2.  [Secret酷莓個人資料](http://www.open-chan.com/friends/profile/secret-chan/?lang=tw)
-3.  [中華大聯盟／統一獅改名了　客場球衣冠上7-ELEVEN_NOWnews體育新聞_2008/02/21](http://www.nownews.com/2008/02/21/341-2234675.htm)
+3.  [中華大聯盟／統一獅改名了　客場球衣冠上7-ELEVEN](http://www.nownews.com/2008/02/21/341-2234675.htm).NOWnews 今日新聞.2008-02-21
 4.  [OPEN PLAZA門市列表](http://www.openopen.com.tw/shop/200.xls)
-5.  [高雄捷運第一款授權主題儲值卡初登場 OPEN你的好心情與好運氣_高雄捷運新聞_2008/12/10](http://www.krtco.com.tw/flourishing/flourishing-1_detail.aspx?ID=d55dfe1a-beb6-4996-9ed5-d2b6b6dfbd72)
+5.  [高雄捷運第一款授權主題儲值卡初登場 OPEN你的好心情與好運氣](http://www.krtco.com.tw/flourishing/flourishing-1_detail.aspx?ID=d55dfe1a-beb6-4996-9ed5-d2b6b6dfbd72).高雄捷運新聞.2008-12-10
 6.  [OPEN小將官方網頁](http://www.open-chan.com/friends/profile/?lang=tw)
-7.  [「2008 Always OPEN大遊行」12/30熱鬧展開！7-ELEVEN OPEN小將 魔法世界_2007/12/27](http://www.openopen.com.tw/blog/blog.asp?id=67840)
+7.  [「2008 Always OPEN大遊行」12/30熱鬧展開！](http://www.openopen.com.tw/blog/blog.asp?id=67840).7-ELEVEN OPEN小將 魔法世界.2007-12-27

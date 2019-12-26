@@ -24,7 +24,7 @@ T-money卡價格為2,500 - 4,000[韓圓](../Page/韓圓.md "wikilink")。可以�
 
 ### 優惠卡
 
-優惠卡推出了兩種，一種是青年 (年齡為13-18)。另一個兒童(年齡為7-12)。兩者皆需要在購買時出示如青年卡或學生證等身份證明文。優惠卡必須在首次使用後10天內在互聯網進行註冊登記。註冊時需要提供卡號，國民身份證號或外國人註冊號。或者there is a form available on the t-money website (under English Errors) that can be emailed to customer service along with supporting documentation. 年長市民可享有免費交通，如持有身分證明文件也可在地鐵站的售票機購買免費票。
+優惠卡推出了兩種，一種是青年 (年齡為13-18)。另一個兒童(年齡為7-12)。兩者皆需要在購買時出示如青年卡或學生證等身份證明文。優惠卡必須在首次使用後10天內在互聯網進行註冊登記。註冊時需要提供卡號，國民身份證號或外國人註冊號。用户可自T-mobile网站下载申请所需文件清单， 年長市民可享有免費交通，如持有身分證明文件也可在地鐵站的售票機購買免費票。
 
 ### T-money交通配件
 
@@ -35,14 +35,14 @@ T-money卡價格為2,500 - 4,000[韓圓](../Page/韓圓.md "wikilink")。可以�
   - 定期票 (정기권)：為[首爾](../Page/首爾.md "wikilink")和[仁川](../Page/仁川廣域市.md "wikilink")[地鐵](../Page/地鐵.md "wikilink")的月票。
   - T-money Mpass：與[首爾](../Page/首爾.md "wikilink")市[公車合作](https://zh.wikipedia.org/wiki/公車 "wikilink")，單日最多可搭乘大眾交通工具二十次。
   - Seoul Citypass Plus：同為T-money卡，於觀光景點有額外優惠。
-  - Mobile T-money： is a RF-/[NFC](https://zh.wikipedia.org/wiki/Near_field_communication "wikilink")-[Subscriber Identity Module](https://zh.wikipedia.org/wiki/Subscriber_Identity_Module "wikilink") based T-money service. Mobile T-money application is available on [Google Play](../Page/Google_Play.md "wikilink") and each mobile service provider's ESD.
+  - Mobile T-money：为一种提供T-money 服务的 NFC [SIM卡](../Page/SIM卡.md "wikilink")。 用户可自[Google Play或其通讯服务商处获取T](../Page/Google_Play.md "wikilink")-money流动应用程式
 
 ### 其他
 
-  - eB Card(eBest Card, used in Gyeonggi & Incheon province), now discontinued. → See [cashBee](https://zh.wikipedia.org/wiki/cashBee "wikilink").
-  - Sensepass T-money, previously Topcash T-money, sold in the Gyeongsangnam and Gyeongsangbuk Provinces except Andong. Not wholly compatible with Smart T-money.
-  - Hankkumi card, sold in Daejeon. This is a rebranded version of Smart T-money.
-  - POP card, sold in [GS25](../Page/GS25.md "wikilink"). This is a rebranded Smart T-money with [GS\&Point](https://zh.wikipedia.org/wiki/GS_Caltex "wikilink") and Happy Point [loyalty card](https://zh.wikipedia.org/wiki/Loyalty_program "wikilink").
+  - eB Card(eBest Card), 曾用于[京畿道](../Page/京畿道.md "wikilink")与[仁川市](https://zh.wikipedia.org/wiki/仁川市 "wikilink") 已停止发行。
+  - Sensepass T-money, 前称Topcash T-money, 曾于[庆尚南道](../Page/庆尚南道.md "wikilink")与[庆尚北道](../Page/庆尚北道.md "wikilink")（[安东市](../Page/安东市.md "wikilink")除外）发售，无法与T-money 标准卡完全通用。
+  - Hankkumi card, 曾于[大田广域市](../Page/大田广域市.md "wikilink")发售，为T-money 的新品牌形象。
+  - POP card, 曾于[GS25](../Page/GS25.md "wikilink")便利店发售，是为装载GS积分与Happy Point彩票卡功能的新款T-money卡片。
   - Narasarang Card, issued by [Shinhan Card](https://zh.wikipedia.org/wiki/Shinhan_Card "wikilink")·[Shinhan Bank](https://zh.wikipedia.org/wiki/Shinhan_Bank "wikilink") and [NMD/MMA](https://zh.wikipedia.org/wiki/Ministry_of_National_Defence_\(Republic_of_Korea\) "wikilink"). This is a [K-Cash](https://zh.wikipedia.org/wiki/K-Cash "wikilink") enabled [debit card](https://zh.wikipedia.org/wiki/debit_card "wikilink") with POP card functionality. This card is only issued to ROTC officers and [ROK Armed Forces](https://zh.wikipedia.org/wiki/Republic_of_Korea_Armed_Forces "wikilink") enlisted person including [KATUSA](https://zh.wikipedia.org/wiki/KATUSA "wikilink").
 
 ## 歷史
