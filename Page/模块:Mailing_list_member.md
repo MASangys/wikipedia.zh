@@ -7,10 +7,8 @@ local pageCutoffs = {
 `   --   the colours used to highlight an inactive member`
 `   -- - notarget cutoff controls when a member is no longer sent a mass`
 `   --   mailing`
-`   ['Wikipedia:WikiProject Maine/members'] = { '-10 years', '-10 years', '-10 years' },`
-`   ['Wikipedia:WikiProject Articles for creation/Participants/Message'] = { '-1 year', '-1 year', '-2 years' },`
-`   ['Wikipedia:WikiProject Baseball/Outreach/Newsletter/Subscriber list'] = { '-1 year', '-2 months', '-2 years' },`
-`   ['Template:Mailing list member/testcases'] = { '-1 year', '-18 months', '-2 years' }`
+`   ['Template:Mailing list member/testcases'] = { '-1 year', '-18 months', '-2 years' },`
+`   ['模块讨论:Mailing list member/testcases'] = { '-1 year', '-18 months', '-2 years' }`
 
 }
 
@@ -47,8 +45,7 @@ function p.main(frame)
 `       end`
 `   elseif pargs.page then`
 `       page = pargs.page`
-`       retval = '`[`'``   ``..``   ``page``   ``..``
- ``'`](../Page/'_.._page_.._'.md "wikilink")`'`
+`       retval = '`[`'``   ``..``   ``page``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._page_.._' "wikilink")`'`
 `   else`
 `       return '`<span class="error">`未定義使用者名稱或頁面名稱。`</span>`'`
 `   end`
@@ -77,7 +74,7 @@ function p.main(frame)
 `           ), color, 'inactive-member')`
 `   end`
 `   if notarget then`
-`       return retval .. parenText('未接收大量傳送的訊息。', '#555')`
+`       return retval .. parenText('不接收大量傳送的訊息。', '#555')`
 `   end`
 `   frame:callParserFunction('#target', page)`
 `   return retval`

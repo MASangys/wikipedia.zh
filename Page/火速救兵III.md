@@ -329,7 +329,7 @@ Jackie</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/余鎮淇" title="wikilink">余鎮淇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/余鎮淇" title="wikilink">余鎮淇（魚波）</a></p></td>
 <td></td>
 <td><p>rowspan ="2"|圖書館情侶</p></td>
 <td></td>

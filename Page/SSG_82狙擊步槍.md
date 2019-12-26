@@ -19,9 +19,7 @@ SSG 82曾經被[史塔西](../Page/史塔西.md "wikilink")的第22部門和[第
 [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink") [Category:5.45×39毫米槍械](https://zh.wikipedia.org/wiki/Category:5.45×39毫米槍械 "wikilink")
 
 1.
-
 2.
 3.  <http://waffen-welt.de/archive/index.php/t-4381.html>
-
 4.
 5.

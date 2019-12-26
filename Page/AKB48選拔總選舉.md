@@ -957,54 +957,33 @@ AKB48選拔總選舉博物館（）是一项与AKB48選拔總選舉相关的展�
 [Category:AKB48選拔總選舉](https://zh.wikipedia.org/wiki/Category:AKB48選拔總選舉 "wikilink") [Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink") [Category:HKT48](https://zh.wikipedia.org/wiki/Category:HKT48 "wikilink") [Category:NGT48](https://zh.wikipedia.org/wiki/Category:NGT48 "wikilink") [Category:STU48](https://zh.wikipedia.org/wiki/Category:STU48 "wikilink") [Category:JKT48](https://zh.wikipedia.org/wiki/Category:JKT48 "wikilink") [Category:SNH48](https://zh.wikipedia.org/wiki/Category:SNH48 "wikilink") [Category:BNK48](https://zh.wikipedia.org/wiki/Category:BNK48 "wikilink") [Category:AKB48_Team_TP](https://zh.wikipedia.org/wiki/Category:AKB48_Team_TP "wikilink") [Category:排名](https://zh.wikipedia.org/wiki/Category:排名 "wikilink")
 
 1.  [J-PlatPat 特許情報プラットフォーム](https://www.j-platpat.inpit.go.jp/web/all/top/BTmTopPage) 商標出願・登録情報 第5655187号,第5657674号
-
 2.  ○○為。在日語原名的標示上，依照單曲張數的不同以英語格式「-st」、「-nd」、「-rd」、「-th」等推進。
-
 3.  「粉絲用語 初級篇 總選舉」 - 《AKB48官方日記 2013-2014》，，2013年3月6日。 ISBN 978-4-8356-1826-5
-
 4.  原先預定的場地為同市的「豐崎海濱公園・豐崎美麗陽光海岸」（），為一戶外空間；最終因天候不佳而變更場地，導致[無法開放觀眾參與](../Page/無觀眾比賽.md "wikilink")。
-
 5.
-
 6.
-
 7.  「AKB48 37thシングル選抜総選挙のしくみ」AKB48グループ『AKB48総選挙公式ガイドブック 2014』講談社MOOK、2014年5月14日、p. 4。 ISBN 978-4-06-389832-3
-
 8.  「AKB48 49thシングル選抜総選挙のしくみ」FRIDAY編集部編 AKB48グループ著『AKB48総選挙公式ガイドブック 2017』 講談社MOOK、2017年5月17日、p. 4。ISBN 978-4-06-509565-2
-
 9.
-
 10.
 11.
-
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
 19.
 20.
 21.
-
 22.
-
 23.
-
 24.
 25.
-
 26.
-
 27.
-
 28. 當選者（第1－30名）的總得票數為54,026票。
-
 29.
 30.
 31.
@@ -1012,59 +991,32 @@ AKB48選拔總選舉博物館（）是一项与AKB48選拔總選舉相关的展�
 33.
 34.
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45. 、[岩崎夏海](../Page/岩崎夏海.md "wikilink")、作为嘉宾出演。
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
 58.
-
 59.
-
 60.
-
 61.
 62.
-
 63.
-
 64.

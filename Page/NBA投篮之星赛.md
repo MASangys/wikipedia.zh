@@ -79,15 +79,15 @@
 
 ## 外部链接
 
-  - [2012 Shooting Stars](http://www.nba.com/allstar/2012/shooting-stars/index.html)
-  - [2011 Shooting Stars](http://www.nba.com/allstar/2011/shooting.stars/)
-  - [2010 Shooting Stars](http://www.nba.com/allstar/2010/shooting.stars/index.html)
-  - [2009 Shooting Stars](http://www.nba.com/allstar2009/shooting_stars)
-  - [2008 Shooting Stars](http://www.nba.com/allstar2008/shooting_stars)
-  - [2007 Shooting Stars](http://www.nba.com/allstar2007/shooting_stars)
-  - [2006 Shooting Stars](http://www.nba.com/allstar2006/shooting_stars)
-  - [2005 Shooting Stars](http://www.nba.com/allstar2005/shooting_stars)
-  - [2004 Shooting Stars](http://www.nba.com/allstar2004/shooting_stars)
+  - [2012 Shooting Stars](https://web.archive.org/web/20120406170114/http://www.nba.com/allstar/2012/shooting-stars/index.html)
+  - [2011 Shooting Stars](https://web.archive.org/web/20160308074139/http://www.nba.com/allstar/2011/shooting.stars/)
+  - [2010 Shooting Stars](https://web.archive.org/web/20100219052818/http://www.nba.com/allstar/2010/shooting.stars/index.html)
+  - [2009 Shooting Stars](https://web.archive.org/web/20160401124913/http://www.nba.com/allstar2009/shooting_stars/)
+  - [2008 Shooting Stars](https://web.archive.org/web/20090220145058/http://www.nba.com/allstar2008/shooting_stars/)
+  - [2007 Shooting Stars](https://web.archive.org/web/20070218140218/http://www.nba.com/allstar2007/shooting_stars/)
+  - [2006 Shooting Stars](https://web.archive.org/web/20090307082757/http://www.nba.com/allstar2006/shooting_stars/)
+  - [2005 Shooting Stars](https://web.archive.org/web/20090208104530/http://www.nba.com/allstar2005/shooting_stars/)
+  - [2004 Shooting Stars](https://web.archive.org/web/20090221142747/http://www.nba.com/allstar2004/shooting_stars/)
 
 ## 参考资料
 

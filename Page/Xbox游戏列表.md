@@ -9850,17 +9850,12 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 [Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink") [Category:Xbox遊戲](https://zh.wikipedia.org/wiki/Category:Xbox遊戲 "wikilink")
 
 1.
-
 2.
 3.
 4.  Pack included [Grand Theft Auto III](https://zh.wikipedia.org/wiki/Grand_Theft_Auto_III "wikilink") and [Grand Theft Auto: Vice City](https://zh.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City "wikilink").
-
 5.  Included [Grand Theft Auto III](https://zh.wikipedia.org/wiki/Grand_Theft_Auto_III "wikilink"), [Grand Theft Auto: Vice City](https://zh.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City "wikilink"), and [Grand Theft Auto: San Andreas](https://zh.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas "wikilink").
-
 6.  Special "Manchester United" branded edition of "LMA Manager 2005".
-
 7.  Sleeve marked"Blockbuster Exclusive"; has full case/instructions, but no UPC on sleeve
-
 8.
 9.
 10.

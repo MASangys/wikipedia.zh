@@ -1,4 +1,4 @@
-**Y RNA**係一種短[非編碼RNA](https://zh.wikipedia.org/wiki/非編碼RNA "wikilink")。它是[Ro60核糖核蛋白顆粒的組分之一](../Page/TRIM21.md "wikilink")\[1\]。在系統性紅斑狼瘡患者體內，它是患者自身抗體的攻擊目標之一\[2\]。Y RNA對DNA複製來說至關重要，因爲它們能與[染色質和](https://zh.wikipedia.org/wiki/染色質 "wikilink")[起始點識別複合物](../Page/起始點識別複合物.md "wikilink")相互作用\[3\]\[4\]。
+**Y RNA**係一種短[非編碼RNA](https://zh.wikipedia.org/wiki/非編碼RNA "wikilink")。它是[Ro60核糖核蛋白顆粒的組分之一](../Page/TRIM21.md "wikilink")\[1\]。在全身性紅斑狼瘡患者體內，它是患者自身抗體的攻擊目標之一\[2\]。Y RNA對DNA複製來說至關重要，因爲它們能與[染色質和](https://zh.wikipedia.org/wiki/染色質 "wikilink")[起始點識別複合物](../Page/起始點識別複合物.md "wikilink")相互作用\[3\]\[4\]。
 
 ## 結構
 
@@ -20,7 +20,7 @@
 
 ## 人類病理學中應用
 
-Y RNA在一些人類[腫瘤中處於過度表達狀態](https://zh.wikipedia.org/wiki/腫瘤 "wikilink")，且爲細胞增殖所必需\[19\]。Y染色體的與微RNA大小相近的小型分解產物可能與自身免疫病等病症有關\[20\]。
+Y RNA在一些人類[腫瘤中處於過度表達狀態](https://zh.wikipedia.org/wiki/腫瘤 "wikilink")，且爲細胞增殖所必需\[19\]。Y染色體的與微RNA大小相近的小型分解產物可能與自體免疫病等病症有關\[20\]。
 
 ## 分佈
 
@@ -34,43 +34,28 @@ Y RNA在一些人類[腫瘤中處於過度表達狀態](https://zh.wikipedia.org
 [Category:非編碼RNA](https://zh.wikipedia.org/wiki/Category:非編碼RNA "wikilink")
 
 1.  Y RNAs: recent developments. Adam E. Hall, Carly Turnbull, Tamas Dalmay. Biomolecular Concepts. 2013 January; 4(2):103-110. .
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
-
 8.
 9.  Biogenesis of Y RNA-derived small RNAs is independent of the microRNA pathway. Francisco Esteban Nicolas, Adam E. Hall, Tibor Csorba, Carly Turnbull, Tamas Dalmay. *FEBS Letters*. 2012 April; 586(8):1226-1230. .
-
 10.
-
 11.
-
 12.
 13.
-
 14.
 15.
 16.
 17.
 18.
 19.
-
 20. Are the Ro RNP-associated Y RNAs concealing microRNAs? Y RNA-derived miRNAs may be involved in autoimmunity. Verhagen AP, Pruijn GJ. *Bioessays*. 2011 Sep;33(9):674-82.
-
 21.
-
 22.
-
 23.
 24.
-
 25.
-
 26.

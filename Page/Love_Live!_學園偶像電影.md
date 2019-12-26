@@ -239,28 +239,16 @@ BD於2015年12月15日發售，並分為「特裝限定版」（編號：BCXA-10
 [Category:偶像題材動畫](https://zh.wikipedia.org/wiki/Category:偶像題材動畫 "wikilink") [Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink") [Category:Love_Live\!](https://zh.wikipedia.org/wiki/Category:Love_Live! "wikilink") [Category:2015年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2015年日本劇場動畫 "wikilink")
 
 1.
-
 2.  『Cut』2014年8月号、p.85、p.99
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  [My-Cartoon動畫網](http://www.my-cartoon.com.tw/index.php?option=com_content&task=view&id=4224&It+emid=1)
-
 8.  [ラブライブ！Official Web Site｜『ラブライブ！The School Idol Movie』キャスト&スタッフ](http://www.lovelive-anime.jp/otonokizaka/sp_movie_caststaff.html)
-
 9.
 10. [劇場版動畫《LoveLive\! 學園偶像》上映天數已超過100天，票房已破26億日圓並持續增長中！](http://www.animen.com.tw/NewsArea/NewsItemDetail?NewsId=13279&CategoryId=1&realCategoryId=0&subCategoryId=0)
-
 11. [『ラブライブ！』、114日間で26億1千万円](http://www.bunkatsushin.com/news/article.aspx?id=107659)
-
 12.
-
 13.
-
 14. [官網Blu-ray情報](http://www.lovelive-anime.jp/otonokizaka/bd.html)，LoveLive\!官網。

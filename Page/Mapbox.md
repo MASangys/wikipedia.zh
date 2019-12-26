@@ -32,21 +32,13 @@ Mapbox從其使用者所使用的客戶端（包含了Strava及RunKeeper等）�
 [Category:电子地图](https://zh.wikipedia.org/wiki/Category:电子地图 "wikilink") [Category:2010年建立的网站](https://zh.wikipedia.org/wiki/Category:2010年建立的网站 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.

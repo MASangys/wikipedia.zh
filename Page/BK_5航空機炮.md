@@ -55,10 +55,7 @@
 [Category:50毫米口径武器](https://zh.wikipedia.org/wiki/Category:50毫米口径武器 "wikilink") [Category:機炮](https://zh.wikipedia.org/wiki/Category:機炮 "wikilink") [Category:空用機槍及機炮](https://zh.wikipedia.org/wiki/Category:空用機槍及機炮 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink")
 
 1.  Ziegler, Mano, "Me 262: Hitler's Jet Plane", Greenhill Books, London, Stackpole Books, Pennsylvania, 2004, ISBN 1-85367-624-1, pages 175-182.
-
 2.  Stocker & Petrick, p. 32-33, 39
-
 3.
 4.  [LuftArchiv.de](http://www.luftarchiv.de/bordgerate/waffen2.htm)
-
 5.  [1](http://www.ww2aircraft.net/forum/weapons-systems-tech/luftwaffe-cannons-machineguns-topic-6368-8.html#post268551)

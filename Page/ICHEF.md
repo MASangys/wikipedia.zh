@@ -60,44 +60,24 @@
 [Category:行動軟體](https://zh.wikipedia.org/wiki/Category:行動軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  郭芝榕，網羅外送市場 攜手提供O2O服務，數位時代，2014.11.24。
-
 7.  bnext，\[台灣新創公司「iCHEF」在Startup Nations舉辦的最佳科技新創競賽勇奪 TOP 15，數位時代，2014.11.25。
-
 8.  Masaru IKEDA，グローバル・ブレイン・アライアンス・フォーラム〜World Ventures Pitch Battle 2014の優勝は、台湾のiChefが獲得，The BRIDGE，2014.12.19。
-
 9.  郭芝榕，iCHEF三大策略，打造一站式餐廳POS平台，數位時代，2015.03.04。
-
 10. 郭芝芸，中信銀首創藍芽「直接付」 吃遍450家餐廳，中時電子報，2015.03.13。
-
 11. AAMA台北搖籃計畫，2015.05.05。
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.  ETNEWS生活 {{\!}} ETNEWS新聞雲|last=[https://www.facebook.com/ETtoday|newspaper=ETNEWS新聞雲|accessdate=2017-07-04|language=zh-hant](https://www.facebook.com/ETtoday%7Cnewspaper=ETNEWS新聞雲%7Caccessdate=2017-07-04%7Clanguage=zh-hant)}}
-
 17.
-
 18.
-
 19.
-
 20. INSIDE，iCHEF、中國信託、foodpanda 聯手打造"最強餐廳POS"系統，https://share.inside.com.tw/posts/15341。
-
 21.
 22. 陳炳宏，免刷卡機　手機就可直接付款，自由時報，2015.03.14。

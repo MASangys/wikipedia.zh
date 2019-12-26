@@ -303,24 +303,14 @@
 [Category:富士電視台週一晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週一晚間九點連續劇 "wikilink") [Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink") [Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:音樂家主角題材作品](https://zh.wikipedia.org/wiki/Category:音樂家主角題材作品 "wikilink") [Category:流行音樂題材作品](https://zh.wikipedia.org/wiki/Category:流行音樂題材作品 "wikilink") [Category:發展障礙題材作品](https://zh.wikipedia.org/wiki/Category:發展障礙題材作品 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink") [Category:星空傳媒(台灣)電視外購日劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購日劇 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  [福山雅治新劇選角挨批 東家硬推20歲藤原櫻](http://ent.ltn.com.tw/news/paper/959378)
-
 6.  [福山雅治新劇疑自肥　20歲菜鳥空降女主角](http://www.appledaily.com.tw/realtimenews/article/new/20160222/800765/)
-
 7.  [福山雅治新剧女主确定新人歌手藤原樱](http://yule.sohu.com/20160222/n438066723.shtml)
-
 8.  [福山月9の“隠れたヒロイン”、故人として出演中の新山詩織って？](http://www.excite.co.jp/News/entertainment_g/20160411/Narinari_20160411_37099.html)
-
 9.
-
 10.
-
 11.
 12.

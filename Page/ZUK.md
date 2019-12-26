@@ -26,10 +26,7 @@
 [Category:聯想集團](https://zh.wikipedia.org/wiki/Category:聯想集團 "wikilink") [Category:北京市公司](https://zh.wikipedia.org/wiki/Category:北京市公司 "wikilink") [Category:中國電子公司](https://zh.wikipedia.org/wiki/Category:中國電子公司 "wikilink") [Category:中國民營企業](https://zh.wikipedia.org/wiki/Category:中國民營企業 "wikilink") [Category:行動電話製造商](https://zh.wikipedia.org/wiki/Category:行動電話製造商 "wikilink") [Category:2015年成立的公司](https://zh.wikipedia.org/wiki/Category:2015年成立的公司 "wikilink") [Category:2017年結業公司](https://zh.wikipedia.org/wiki/Category:2017年結業公司 "wikilink")
 
 1.
-
 2.
-
 3.  [Moto全線產品遷移至聯想手機商城，Moto Maker定制體驗全新升級](http://www.motorola.com.cn/lenovo-mobile-store)
-
 4.
 5.

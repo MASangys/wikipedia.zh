@@ -311,7 +311,7 @@ Jessi與JYP製作《Shut Up》Rap，Tiffany即興演唱錄音，真慶錄音；T
 <td><p>2016年6月24日</p></td>
 <td><p><a href="../Page/Bada_(歌手).md" title="wikilink">Bada</a>、<a href="../Page/Shoo.md" title="wikilink">Shoo</a> (<a href="../Page/S.E.S._(組合).md" title="wikilink">S.E.S</a>)</p></td>
 <td><p><strong>S.E.S.指導女團表演方式</strong><br />
-JYP最終舞蹈檢查；真慶的一日日常生活；金淑、羅美蘭百想藝術大賞得獎；JPY招待姐姐們至自家club</p></td>
+JYP最終舞蹈檢查；真慶的一日日常生活；金淑、羅美蘭百想藝術大賞得獎；JYP招待姐姐們至自家club</p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
@@ -758,16 +758,10 @@ Jessi的第一次演戲，笑果不斷。張鎮導演下海客串漁夫。</p></
 [Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:韩国综艺节目](https://zh.wikipedia.org/wiki/Category:韩国综艺节目 "wikilink") [Category:KBS](https://zh.wikipedia.org/wiki/Category:KBS "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  <http://www.allthatstar.com/tw/view.php?action=5205&postID=332252>
-
 6.
-
 7.
 8.  因為外貌像 [G-Dragon](../Page/G-Dragon.md "wikilink")而得名，也是頭聲發音主義者。

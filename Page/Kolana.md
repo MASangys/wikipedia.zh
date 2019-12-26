@@ -25,5 +25,4 @@
 [Category:美灰蝶族](https://zh.wikipedia.org/wiki/Category:美灰蝶族 "wikilink") [Category:Kolana](https://zh.wikipedia.org/wiki/Category:Kolana "wikilink")
 
 1.  Brower, Andrew V. Z. 2008. Kolana Robbins 2004. Version 24 March 2008 (under construction). <http://tolweb.org/Kolana/112965/2008.03.24> in The Tree of Life Web Project, <http://tolweb.org/>
-
 2.

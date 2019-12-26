@@ -269,8 +269,6 @@
 [Category:1985年出生](https://zh.wikipedia.org/wiki/Category:1985年出生 "wikilink") [Category:中央聖馬丁藝術與設計學院校友](https://zh.wikipedia.org/wiki/Category:中央聖馬丁藝術與設計學院校友 "wikilink") [Category:英格蘭電子音樂家](https://zh.wikipedia.org/wiki/Category:英格蘭電子音樂家 "wikilink") [Category:英格蘭鍵盤手](https://zh.wikipedia.org/wiki/Category:英格蘭鍵盤手 "wikilink") [Category:英格蘭男歌手](https://zh.wikipedia.org/wiki/Category:英格蘭男歌手 "wikilink") [Category:英格蘭流行音樂歌手](https://zh.wikipedia.org/wiki/Category:英格蘭流行音樂歌手 "wikilink") [Category:英格蘭唱片製作人](https://zh.wikipedia.org/wiki/Category:英格蘭唱片製作人 "wikilink") [Category:英格蘭創作歌手](https://zh.wikipedia.org/wiki/Category:英格蘭創作歌手 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:混音師](https://zh.wikipedia.org/wiki/Category:混音師 "wikilink") [Category:伦敦人](https://zh.wikipedia.org/wiki/Category:伦敦人 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  <https://twitter.com/THEFRANKMUSIK/status/378721471851679744>

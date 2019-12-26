@@ -24,18 +24,11 @@ Android Nougat在2016年8月22日正式发行，[Google Nexus系列的](../Page/
 [Category:Android](https://zh.wikipedia.org/wiki/Category:Android "wikilink") [Category:2016年软件](https://zh.wikipedia.org/wiki/Category:2016年软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.

@@ -702,18 +702,11 @@
 [Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:富士電視台週日晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週日晚間九點連續劇 "wikilink") [Category:共同電視製作電視劇](https://zh.wikipedia.org/wiki/Category:共同電視製作電視劇 "wikilink") [Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  參考自片尾演員表。
-
 5.  名字取自富士電視台連續劇《該隱與亞伯》（カインとアベル）劇名之諧音。
-
 6.  富士電視台連續劇《該隱與亞伯》（カインとアベル）女主角客串演出。
-
 7.
-
 8.
-
 9.

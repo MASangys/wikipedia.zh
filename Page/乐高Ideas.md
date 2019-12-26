@@ -73,7 +73,7 @@
 <td><p>第一款全球发布的Cuusoo套装。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://ideas.lego.com/projects/4038">#003</a></p></td>
+<td><p><a href="https://web.archive.org/web/20161205232835/https://ideas.lego.com/projects/4038">#003</a></p></td>
 <td><p>21102</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/乐高版我的世界" title="wikilink">乐高版我的世界</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/乐高版我的世界" title="wikilink">《我的世界》微缩世界</a></p></td>

@@ -209,7 +209,7 @@ MIL-STD-1553B指定对于变压器耦合的[短截线](../Page/短截线.md "wik
   - [MIL-STD-1553 Tutorial](http://www.aim-online.com/pdf/OVW1553.PDF) from AIM GmbH
   - [INTRODUCTION TO THE MIL-STD-1553B SERIAL MULTIPLEX DATA BUS](http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA202511) by D. R. Bracknell, [皇家航空研究院](https://zh.wikipedia.org/wiki/皇家航空研究院 "wikilink"), Farnbourogh, 1988.
   - [Introduction to MIL-STD-1553 Short Course](http://www.pe.gatech.edu/courses/introduction-mil-std-1553) from Georgia Tech Professional Education
-  - [*MIL-STD-1553 Complete online reference*](http://www.milstd1553.com/) from Data Device Corporation
+  - [*MIL-STD-1553 Complete online reference*](https://web.archive.org/web/20160206100357/http://www.milstd1553.com/) from Data Device Corporation
   - [Military Computer with MIL-STD-1553 Interface](http://www.amdtec.com.tr/36/military-computer-with-4th-gen-intel-i7-mil-std-1553-canbus-dual-lan-com-usb-30) from AMDTEC Defence
 
 [Category:航空电子学](https://zh.wikipedia.org/wiki/Category:航空电子学 "wikilink") [Category:串行总线](https://zh.wikipedia.org/wiki/Category:串行总线 "wikilink") [Category:美国军用标准](https://zh.wikipedia.org/wiki/Category:美国军用标准 "wikilink")

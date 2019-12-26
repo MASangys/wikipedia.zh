@@ -1,30 +1,27 @@
-是[長月達平所作的](../Page/長月達平.md "wikilink")[日本](../Page/日本.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，簡稱，[插圖由](../Page/插圖.md "wikilink")[大塚真一郎繪畫](../Page/大塚真一郎.md "wikilink")。現已出版本篇19冊\[1\]、短篇集4冊\[2\]和外傳3冊\[3\]。本為投稿網站《[成為小說家吧](../Page/成為小說家吧.md "wikilink")》連載的[網絡小說](../Page/網絡小說.md "wikilink")，當時[筆名是](../Page/筆名.md "wikilink")[鼠色貓](../Page/鼠色貓.md "wikilink")，後來在2014年經由[Media
-Factory整理出版](../Page/Media_Factory.md "wikilink")。繁體中文版由[青文出版社發行及出版](../Page/青文出版社.md "wikilink")；簡體中文版則為[天聞角川發行](../Page/天聞角川.md "wikilink")，第1-2卷由台海出版社出版，第3-6卷由[雲南美術出版社出版](../Page/雲南美術出版社.md "wikilink")，而第7卷開始改由[中國電影出版社出版](../Page/中國電影出版社.md "wikilink")。2015年由《這本Web小說真厲害！》導覽書票選為第二名\[4\]。
+是[長月達平](../Page/長月達平.md "wikilink")所作的[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，簡稱，[插圖由](https://zh.wikipedia.org/wiki/插圖 "wikilink")[大塚真一郎繪畫](https://zh.wikipedia.org/wiki/大塚真一郎 "wikilink")。現已出版本篇20冊\[1\]、短篇集4冊\[2\]和外傳3冊\[3\]。本為投稿網站《[成為小說家吧](../Page/成為小說家吧.md "wikilink")》連載的[網絡小說](../Page/網絡小說.md "wikilink")，當時[筆名](../Page/筆名.md "wikilink")是[鼠色貓](https://zh.wikipedia.org/wiki/鼠色貓 "wikilink")，後來在2014年經由[Media Factory整理出版](../Page/Media_Factory.md "wikilink")。繁體中文版由[青文出版社](../Page/青文出版社.md "wikilink")發行及出版；簡體中文版則為[天聞角川發行](https://zh.wikipedia.org/wiki/天聞角川 "wikilink")，第1-2卷由[台海出版社出版](https://zh.wikipedia.org/wiki/台海出版社 "wikilink")，第3-6卷由[雲南美術出版社出版](https://zh.wikipedia.org/wiki/雲南美術出版社 "wikilink")，第7卷開始改由[中國電影出版社出版](https://zh.wikipedia.org/wiki/中國電影出版社 "wikilink")。2015年由《這本Web小說真厲害！》導覽書票選為第二名\[4\]。
 
-漫畫分別有繪製，《[月刊Comic
-Alive](../Page/月刊Comic_Alive.md "wikilink")》連載的《Re:從零開始的異世界生活
-第一章 王都的一日篇》、《Re:從零開始的異世界生活 第三章 Truth of Zero》；及《[月刊BIG
-GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")》連載，由楓月誠繪圖的《Re:從零開始的異世界生活
-第二章 宅邸的一周篇》的版本。
+漫畫分別有繪製，《[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")》連載的《Re:從零開始的異世界生活 第一章 王都的一日篇》、《Re:從零開始的異世界生活 第三章 Truth of Zero》；及《[月刊BIG GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")》連載，由楓月誠繪圖的《Re:從零開始的異世界生活 第二章 宅邸的一周篇》的版本。
 
-MF文庫J「夏之學園祭2015」於2015年7月19日宣布改編為[電視動畫的消息](../Page/電視動畫.md "wikilink")\[5\]，2016年4月3日起於[東京電視台](../Page/東京電視台.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")、[Animax和](../Page/Animax.md "wikilink")[巴哈姆特動畫瘋等平台上播放](../Page/巴哈姆特動畫瘋.md "wikilink")。因作品動畫化而人氣急升，在2016年9月17日成為中國彈幕視頻分享網站[bilibili首個播放量突破](../Page/bilibili.md "wikilink")1億次的作品\[6\]。2017年9月10日，在MF文庫J「夏之學園祭2017」的節目中，釋出新作OVA的消息\[7\]。
+MF文庫J「夏之學園祭2015」於2015年7月19日宣布改編為[電視動畫的消息](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[5\]，2016年4月3日起於[東京電視台](../Page/東京電視台.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")、[Animax](../Page/Animax.md "wikilink")和[巴哈姆特動畫瘋](../Page/巴哈姆特動畫瘋.md "wikilink")等平台上播放。因作品動畫化而人氣急升，在2016年9月17日成為中國彈幕視頻分享網站[bilibili首個播放量突破](https://zh.wikipedia.org/wiki/bilibili "wikilink")1億次的作品\[6\]。2017年9月10日，在MF文庫J「夏之學園祭2017」的節目中，釋出新作OVA的消息\[7\]。
 
 2019年3月23日宣布製作第二季的動畫\[8\]。
 
+2019年BookLive讀者票選異世界漫畫第9名。\[9\]
+
 ## 故事內容
 
-  - 第一章 （小說第一卷、漫畫第一章、動畫第1－3話）
-    身為[家裏蹲的少年](../Page/家裏蹲.md "wikilink")**[菜月昴](../Page/菜月昴.md "wikilink")**，在從[便利商店回家途中突然發生意外被傳送到異世界](../Page/便利商店.md "wikilink")。少年原以為自己完全沒有任何特長。但本來應該因為遭遇襲擊死去，回過神來後一切卻都被重置。發現自己「**死亡回歸**」的特殊能力後，為了拯救少女，少年跨越無數次絕望，一次次地死亡並重新來過。
+  - 第一章 （小說第一卷、漫畫第一章、動畫第一季第1－3話）
+    身為[家裏蹲的少年](https://zh.wikipedia.org/wiki/家裏蹲 "wikilink")**[菜月昴](https://zh.wikipedia.org/wiki/菜月昴 "wikilink")**，在從[便利商店](../Page/便利商店.md "wikilink")回家途中突然發生意外被傳送到異世界。少年原以為自己完全沒有任何特長。但本來應該因為遭遇襲擊死去，回過神來後一切卻都被重置。發現自己「**死亡回歸**」的特殊能力後，為了拯救少女，少年跨越無數次絕望，一次次地死亡並重新來過。
 
 <!-- end list -->
 
-  - 第二章 （小說第二卷－第三卷、漫畫第二章、動畫第4話－第11話）
-    醒來時發現自己身在羅茲瓦爾宅邸的昴，認識了雙胞胎女僕——**拉姆**和[雷姆](../Page/雷姆_\(角色\).md "wikilink")，以及守護[禁書庫的碧翠絲](../Page/禁書.md "wikilink")。昴爭取以[男僕身分入住宅邸](../Page/管家.md "wikilink")，在雙胞胎女僕的指導下，開始進入羅茲瓦爾宅邸的新生活。然而，卻在某天醒來後發現自己又開始了死亡輪迴。為了守護最重要的人，即使面對無數絕望，昴也要從死亡的命運中開拓未來，突破這無盡的輪迴。
+  - 第二章 （小說第二卷－第三卷、漫畫第二章、動畫第一季第4話－第11話）
+    醒來時發現自己身在羅茲瓦爾宅邸的昴，認識了雙胞胎女僕——[拉姆和](https://zh.wikipedia.org/wiki/拉姆 "wikilink")[雷姆](../Page/雷姆_\(角色\).md "wikilink")，以及守護[禁書](../Page/禁書.md "wikilink")庫的碧翠絲。昴爭取以[男僕身分入住宅邸](../Page/管家.md "wikilink")，在雙胞胎女僕的指導下，開始進入羅茲瓦爾宅邸的新生活。然而，卻在某天醒來後發現自己又開始了死亡輪迴。為了守護最重要的人，即使面對無數絕望，昴也要從死亡的命運中開拓未來，突破這無盡的輪迴。
 
 <!-- end list -->
 
-  - 第三章 （小說第四卷－第九卷、漫畫第三章、動畫版第12話－第25話）
-    王都使者造訪宅邸，向**[愛蜜莉雅](../Page/愛蜜莉雅.md "wikilink")**傳達王選的消息。昴與愛蜜莉雅於是重返王都，並與之前分別的舊識們重逢。在王都昴結識了眾國王候選人，並決心幫助愛蜜莉雅爭取王位，卻因為誤會而遭到了愛蜜莉雅的拒絕。在最惡劣的情況下和愛蜜莉雅別離，昴逃避般寄身至庫珥修宅邸，但此時愛蜜莉雅陷危的消息傳到了他耳中。他試圖挽回一切，但真正的「惡意」正擋在前頭……
+  - 第三章 （小說第四卷－第九卷、漫畫第三章、動畫第一季第12話－第25話）
+    王都使者造訪宅邸，向**[愛蜜莉雅](https://zh.wikipedia.org/wiki/愛蜜莉雅 "wikilink")**傳達王選的消息。昴與愛蜜莉雅於是重返王都，並與之前分別的舊識們重逢。在王都昴結識了眾國王候選人，並決心幫助愛蜜莉雅爭取王位，卻因為誤會而遭到了愛蜜莉雅的拒絕。在最惡劣的情況下和愛蜜莉雅別離，昴逃避般寄身至庫珥修宅邸，但此時愛蜜莉雅陷危的消息傳到了他耳中。他試圖挽回一切，但真正的「惡意」正擋在前頭……
 
 <!-- end list -->
 
@@ -33,31 +30,31 @@ MF文庫J「夏之學園祭2015」於2015年7月19日宣布改編為[電視動�
 
 <!-- end list -->
 
-  - 第五章 （小說第十六卷－）
+  - 第五章 （小說第十六卷－第二十卷）
     離開聖域後一年，愛蜜莉雅陣營迎來了新的冒險——水門都市普利斯提拉。在那裡等待著的是新的相遇與命運的再會，但平靜背後暗濤洶湧。昴來到異世界後最大的危機——憤怒、貪婪、色欲與暴食大罪司教一同襲來。都市的陷落與挺身對抗的王選陣營，只有勇於挑戰命運的人，才可能成為鐫刻歷史的群星。
 
 <!-- end list -->
 
-  - 第六章
+  - 第六章 （小說第二十一卷－）
     極東大瀑布旁的奧古利亞沙漠，全知者駐留400年的監視塔。像是偶然又似乎命中注定地，昴前來挑戰這數百年來無人能到的難關。兇惡的魔獸與魔女的瘴氣，未知的魔法與瞬間奪命的狙擊。「賢者」夏烏拉是否真能為昴釋疑？監視塔裡又藏有甚麼秘密？原為了終結而來，過去卻接踵而至。在昴一行人之前鋪排著的，無疑是來自這世界記憶迴廊的一齣惡戲。
 
 ## 登場人物
 
   -
     本作主人公，17歲的普通高中生。名字取自[金牛座](../Page/金牛座.md "wikilink")「[昴宿星團](../Page/昴宿星團.md "wikilink")」。
-    沒有異於常人的適應能力，換言之他對死亡、痛苦等事心懷恐懼。眼神兇狠，習慣逃離厭惡的事物，被人認作「懼學症學生」。最初因為不明原因而穿越到異世界，並在經歷數次死亡後得知自己擁有特殊能力「[死亡回歸](../Page/#用語.md "wikilink")」。
+    沒有異於常人的適應能力，換言之他對死亡、痛苦等事心懷恐懼。眼神兇狠，習慣逃離厭惡的事物，被人認作「懼學症學生」。最初因為不明原因而穿越到異世界，並在經歷數次死亡後得知自己擁有特殊能力「[死亡回歸](https://zh.wikipedia.org/wiki/#用語 "wikilink")」。
 
 <!-- end list -->
 
   -
-    本作女主角，擁有銀色長髪與紫紺色瞳孔的美麗半妖精，實際年齡約為114歲，外貌年齡18歲，心智年齡14歲\[9\]\[10\]。
-    親生父母不明，從小居住在[艾力歐爾大森林中的妖精部落](../Page/#地名.md "wikilink")，但沒有到達部落前的記憶。小時在部落中受到如同公主般的待遇。樂於助人的性格，即使自己會吃虧也會去行動，總會找藉口替自己的助人行為合理化，但外貌與嫉妒魔女相似，因此常受到眾人的排擠。個性上天然呆和遲鈍而且不坦率。
+    本作女主角，擁有銀色長髪與紫紺色瞳孔的美麗半妖精，實際年齡為107歲，外貌年齡18歲，心智年齡14歲\[10\]\[11\]。
+    親生父母不明，從小居住在[艾力歐爾大森林中的妖精部落](https://zh.wikipedia.org/wiki/#地名 "wikilink")，但沒有到達部落前的記憶。小時在部落中受到如同公主般的待遇。樂於助人的性格，即使自己會吃虧也會去行動，總會找藉口替自己的助人行為合理化，但外貌與嫉妒魔女相似，因此常受到眾人的排擠。個性上天然呆和遲鈍而且不坦率。
 
 ## 用語
 
   -
     被召喚至異世界的昴得到的唯一能力，賦予他在死亡後能重新回歸至一個時間點的時間回溯力量，但死亡之際的痛苦無法免除。昴本人不能決定回溯的時間點，需要回溯過後才會知道，儲存點會根據不同事件而有所改變。死亡回歸後除了記憶外的一切都不能被保有，但「魔女的殘香」濃度會隨著死亡回歸次數而增加。
-    這項能力來自於魔女莎緹拉，昴無法以任何形式告訴別人關於這項能力的任何事，包含過去所有回溯前的經歷。一旦昴想這麼做，他就會被只有自己才能感覺的「魔女之手」掐緊心臟，同時「魔女的殘香」會激增變得極為濃密。若仍不顧阻止強行告知它人，則聽聞告知而知情者或昴本人會被魔女之手殺死\[11\]，這是為了保護昴避免被有心人士覬覦。
+    這項能力來自於魔女莎緹拉，昴無法以任何形式告訴別人關於這項能力的任何事，包含過去所有回溯前的經歷。一旦昴想這麼做，他就會被只有自己才能感覺的「魔女之手」掐緊心臟，同時「魔女的殘香」會激增變得極為濃密。若仍不顧阻止強行告知它人，則聽聞告知而知情者或昴本人會被魔女之手殺死\[12\]，這是為了保護昴避免被有心人士覬覦。
 
 <!-- end list -->
 
@@ -100,9 +97,9 @@ MF文庫J「夏之學園祭2015」於2015年7月19日宣布改編為[電視動�
     生命在出生時從世界得到的祝福，是來自這個世界的福音，亦即來自異世界的人不會有加護。
     由於種類過多而無法一概而論，但有一定會被賦予的種族加護，如地龍族「避風的加護」。
     大多數人在誕生時並沒有加護，而擁有加護的人就算不被告知也會有受到加護的自覺。
-    加護的比例：約百人中有一人擁有沒用(或用不到)的加護，約千人中有一人擁有有用(或用的到)的加護，約萬人中有一人擁有稀有的加護，約十萬人中有一人擁有非常有用(或非常方便)的加護，約百萬人中有一人擁有世上唯一的加護(某種加護在世上只有自己擁有的意思)，而能使用複數加護的更是千萬人中才有一人。所以在這個世界中，常識上不會預期自己能遭遇會使用複數加護的人。\[12\]。
-    若兩加護效果相反（如：必中與必閃避），則加護效果會互相抵消，雙方剩下純粹的技術比拚\[13\]。
-    目前唯有「劍聖」萊因哈魯特能夠後天獲得加護\[14\]。
+    加護的比例：約百人中有一人擁有沒用(或用不到)的加護，約千人中有一人擁有有用(或用的到)的加護，約萬人中有一人擁有稀有的加護，約十萬人中有一人擁有非常有用(或非常方便)的加護，約百萬人中有一人擁有世上唯一的加護(某種加護在世上只有自己擁有的意思)，而能使用複數加護的更是千萬人中才有一人。所以在這個世界中，常識上不會預期自己能遭遇會使用複數加護的人。\[13\]。
+    若兩加護效果相反（如：必中與必閃避），則加護效果會互相抵消，雙方剩下純粹的技術比拚\[14\]。
+    目前唯有「劍聖」萊因哈魯特能夠後天獲得加護\[15\]。
 
 <!-- end list -->
 
@@ -110,8 +107,8 @@ MF文庫J「夏之學園祭2015」於2015年7月19日宣布改編為[電視動�
     利用生物體內負責控制魔力進出的「門」所施展的能力，共有火、水、風、土四種基本屬性，以及陰、陽兩種稀有屬性。
     其中火屬性負責熱量與溫度的變化控制，水屬性掌管生命與治癒，風屬性控制生物體外的活動，土屬性控制生物體內的活動。
     此外陰屬性主要是妨礙及弱化對手的相關減益魔法，陽屬性為支援及強化的相關魔法。
-    魔法強度在抵達各自屬性的頂點後，會被給予對應屬性的顏色作為稱號（精靈除外）\[15\]。
-    在露格尼卡，「青」被授予菲莉絲，而「赤」、「綠」和「黄」都是羅茲瓦爾，「黒」與「白」則空席\[16\]。
+    魔法強度在抵達各自屬性的頂點後，會被給予對應屬性的顏色作為稱號（精靈除外）\[16\]。
+    在露格尼卡，「青」被授予菲莉絲，而「赤」、「綠」和「黄」都是羅茲瓦爾，「黒」與「白」則空席\[17\]。
 
 <!-- end list -->
 
@@ -184,7 +181,7 @@ MF文庫J「夏之學園祭2015」於2015年7月19日宣布改編為[電視動�
   -
     白色裝訂外觀的書，與世界的根源連結，記錄所有人過去的歷史之書，不是未來或者最優的選擇，而僅僅只是事實而已。
     為「貪婪魔女」艾姬多娜所有，能讀取世界的記憶，甚至能以世界的記憶模擬可能性的未來。它沒有既定的形態，且無論對象是誰與做過什麼，只要那屬於已過去的歷史，那麼它皆能將之讀取，跳過「了解」的過程，讓人直接「理解」的魔性之書。由於情報量過於龐大，普通人即使只看上一眼，大腦亦會被龐大的信息量所燒壞。
-    「睿智之書」為世人所給予的稱呼，艾姬多娜本人則是將之稱呼為「世界的記憶」。參見：[阿卡西記錄](../Page/阿卡西記錄.md "wikilink")。
+    「睿智之書」為世人所給予的稱呼，艾姬多娜本人則是將之稱呼為「世界的記憶」。參見：[阿卡西記錄](https://zh.wikipedia.org/wiki/阿卡西記錄 "wikilink")。
 
 <!-- end list -->
 
@@ -240,9 +237,8 @@ MF文庫J「夏之學園祭2015」於2015年7月19日宣布改編為[電視動�
   -
 
       -
-        位於大瀑布前，傳說中是「賢者」[夏烏拉為了監視被封印的](../Page/Re:從零開始的異世界生活角色列表#三英傑.md "wikilink")「嫉妒魔女」而建造的居所，而賢者並不信任一般人，所有接近監視塔的人都會被賢者狙殺。
-        名字原於[希臘神話的](../Page/希臘神話.md "wikilink")[昴星團七姊妹](../Page/普勒阿得斯.md "wikilink")，第六章中，得知是地下一層，地上五層的六層塔形建築。從下而上分別為：
-        第六層、五層、四層、三層、二層及一層。則是零層。
+        位於大瀑布前，傳說中是「賢者」[夏烏拉為了監視被封印的](https://zh.wikipedia.org/wiki/Re:從零開始的異世界生活角色列表#三英傑 "wikilink")「嫉妒魔女」而建造的居所，而賢者並不信任一般人，所有接近監視塔的人都會被賢者狙殺。
+        名字原於[希臘神話的](https://zh.wikipedia.org/wiki/希臘神話 "wikilink")[昴星團七姊妹](../Page/普勒阿得斯.md "wikilink")，第六章中，得知是地下一層，地上五層的六層塔形建築。從下而上分別為： 第六層、五層、四層、三層、二層及一層。則是零層。
         第六章中，得知事實上監視塔另有他用。
 
 :;
@@ -329,7 +325,7 @@ MF文庫J「夏之學園祭2015」於2015年7月19日宣布改編為[電視動�
 <!-- end list -->
 
   -
-    數百年前，在地龍尚未存在的年代，被用來騎乘、運輸的生物\[17\]。
+    數百年前，在地龍尚未存在的年代，被用來騎乘、運輸的生物\[18\]。
 
 <!-- end list -->
 
@@ -349,7 +345,7 @@ MF文庫J「夏之學園祭2015」於2015年7月19日宣布改編為[電視動�
         並非巨大的兔子，而是本名為「」的魔獸被以訛傳訛而變成了大兔，實際上是嬌小而數量非常多的兔子。
         暴食魔女以「**能自動增殖而永遠不用擔心吃完**」為前提創造出來的食物類魔獸。
         群聚行動且擁有無法填滿的食欲，性格殘暴，會不停的獵殺周圍的生物，在吞食殆盡後就會前往下一個地方尋找餌食，如同蝗蟲般的天災。
-        單體的強度不高，雖為魔獸群，卻沒有頭目的概念，只要有一隻大兔殘留，就能以不可思議的速度[分裂增殖](../Page/無性生殖.md "wikilink")。
+        單體的強度不高，雖為魔獸群，卻沒有頭目的概念，只要有一隻大兔殘留，就能以不可思議的速度[分裂增殖](https://zh.wikipedia.org/wiki/無性生殖 "wikilink")。
         整個族群只有一個共有意識，沒有另外單獨存在個體意識的智慧。在沒有獵物時會互相吞食以存活。
 
 :;
@@ -370,14 +366,14 @@ MF文庫J「夏之學園祭2015」於2015年7月19日宣布改編為[電視動�
 <th><p>卷數</p></th>
 <th><p><a href="../Page/KADOKAWA.md" title="wikilink">KADOKAWA</a> <a href="../Page/Media_Factory.md" title="wikilink">Media Factory</a></p></th>
 <th><p><a href="../Page/青文出版社.md" title="wikilink">青文出版社</a></p></th>
-<th><p><a href="../Page/台海出版社.md" title="wikilink">台海出版社</a>→<a href="../Page/雲南美術出版社.md" title="wikilink">雲南美術出版社</a>→<a href="../Page/中國電影出版社.md" title="wikilink">中國電影出版社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/台海出版社" title="wikilink">台海出版社</a>→<a href="https://zh.wikipedia.org/wiki/雲南美術出版社" title="wikilink">雲南美術出版社</a>→<a href="https://zh.wikipedia.org/wiki/中國電影出版社" title="wikilink">中國電影出版社</a>→<a href="https://zh.wikipedia.org/wiki/四川美術出版社" title="wikilink">四川美術出版社</a></p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 <td><p>ISBN</p></td>
 <td><p>發售日期</p></td>
@@ -509,22 +505,22 @@ EAN 471-801-602-900-2<small>（限定版）</small></p></td>
 <td><p>15</p></td>
 <td><p>2017年12月25日</p></td>
 <td><p>ISBN 978-4-04-069611-9</p></td>
-<td><p>預定2019年4月</p></td>
-<td></td>
+<td><p>2019年4月11日</p></td>
+<td><p>ISBN 978-986-356-847-6</p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
 <td><p>2018年3月24日</p></td>
 <td><p>ISBN 978-4-04-069816-8</p></td>
-<td></td>
-<td></td>
+<td><p>2019年8月1日</p></td>
+<td><p>ISBN 978-986-512-000-9</p></td>
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
 <td><p>2018年9月25日</p></td>
 <td><p>ISBN 978-4-04-065158-3</p></td>
-<td></td>
-<td></td>
+<td><p>2020年1月</p></td>
+<td><p>ISBN 978-986-512-147-1</p></td>
 </tr>
 <tr class="even">
 <td><p>18</p></td>
@@ -537,6 +533,27 @@ EAN 471-801-602-900-2<small>（限定版）</small></p></td>
 <td><p>19</p></td>
 <td><p>2019年3月27日</p></td>
 <td><p>ISBN 978-4-04-065628-1</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>20</p></td>
+<td><p>2019年6月25日</p></td>
+<td><p>ISBN 978-4-04-065795-0</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>21</p></td>
+<td><p>2019年9月25日</p></td>
+<td><p>ISBN 978-4-04-064006-8</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -578,6 +595,11 @@ EAN 471-801-602-900-2<small>（限定版）</small></p></td>
 <td><p>4</p></td>
 <td><p>2019年3月27日</p></td>
 <td><p>ISBN 978-4-04-065629-8</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2019年9月25日</p></td>
+<td><p>ISBN 978-4-04-064126-3</p></td>
 </tr>
 </tbody>
 </table>
@@ -633,14 +655,21 @@ EAN 471-801-602-900-2<small>（限定版）</small></p></td>
 <td><p>2018年6月25日</p></td>
 <td><p>ISBN 978-4-04-069953-0</p></td>
 </tr>
+<tr class="even">
+<td><p>4</p></td>
+<td></td>
+<td><p>Re：從零開始的異世界生活EX4<br />
+最佳旅行</p></td>
+<td><p>2019年12月25日</p></td>
+<td><p>ISBN 978-4-04-064265-9</p></td>
+</tr>
 </tbody>
 </table>
 
 ### 漫畫版
 
   -
-    自《[月刊Comic
-    Alive](../Page/月刊Comic_Alive.md "wikilink")》2014年8月號連載至2015年4月號\[18\]\[19\]。全兩卷。作者：。已完結。
+    自《[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")》2014年8月號連載至2015年4月號\[19\]\[20\]。全兩卷。作者：。已完結。
 
 <table>
 <thead>
@@ -653,7 +682,7 @@ EAN 471-801-602-900-2<small>（限定版）</small></p></td>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -671,21 +700,20 @@ ISBN 978-4-04-067235-9（特裝版）</p></td>
 </table>
 
   -
-    自《[月刊BIG GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")》2014
-    Vol.11開始連載。\[20\]作者：[楓月誠](../Page/楓月誠.md "wikilink")。
+    自《[月刊BIG GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")》2014 Vol.11開始連載。\[21\]作者：[楓月誠](https://zh.wikipedia.org/wiki/楓月誠 "wikilink")。
 
 <table>
 <thead>
 <tr class="header">
 <th><p>集數</p></th>
-<th><p><a href="../Page/史克威爾艾尼克斯.md" title="wikilink">史克威爾艾尼克斯</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/史克威爾艾尼克斯" title="wikilink">史克威爾艾尼克斯</a></p></th>
 <th><p><a href="../Page/尖端出版.md" title="wikilink">尖端出版</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -717,8 +745,7 @@ ISBN 978-4-04-067235-9（特裝版）</p></td>
 </table>
 
   -
-    自《[月刊Comic
-    Alive](../Page/月刊Comic_Alive.md "wikilink")》2015年7月號開始連載。\[21\]作者：。
+    自《[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")》2015年7月號開始連載。\[22\]作者：。
 
 <table>
 <thead>
@@ -731,27 +758,27 @@ ISBN 978-4-04-067235-9（特裝版）</p></td>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p>2015年12月22日[22]</p></td>
+<td><p>2015年12月22日[23]</p></td>
 <td><p>ISBN 978-4-04-067828-3</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p>2016年3月23日[23]</p></td>
+<td><p>2016年3月23日[24]</p></td>
 <td><p>ISBN 978-4-04-068220-4</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p>2016年7月23日[24]</p></td>
+<td><p>2016年7月23日[25]</p></td>
 <td><p>ISBN 978-4-04-068279-2</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
-<td><p>2016年12月23日[25]</p></td>
+<td><p>2016年12月23日[26]</p></td>
 <td><p>ISBN 978-4-04-068815-2</p></td>
 </tr>
 <tr class="even">
@@ -779,6 +806,33 @@ ISBN 978-4-04-067235-9（特裝版）</p></td>
 <td><p>2018年11月21日</p></td>
 <td><p>ISBN 978-4-04-065248-1</p></td>
 </tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>2019年6月22日</p></td>
+<td><p>ISBN 978-4-04-065709-7</p></td>
+</tr>
+</tbody>
+</table>
+
+  -
+    自《[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")》2019年1月號開始連載。作者：。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>集數</p></th>
+<th><p><a href="../Page/KADOKAWA.md" title="wikilink">KADOKAWA</a> <a href="../Page/Media_Factory.md" title="wikilink">Media Factory</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2019年6月22日</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -794,7 +848,7 @@ ISBN 978-4-04-067235-9（特裝版）</p></td>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -813,12 +867,12 @@ ISBN 978-4-04-067235-9（特裝版）</p></td>
 
 ## 電視動畫
 
-在「MF文庫J 夏之學園祭2015」宣佈進行電視動畫化。2016年4月3日起在東京電視台聯播網中播放，共25話，其中第1話為1小時特別篇。
+在「MF文庫J 夏之學園祭2015」宣佈進行動畫化。2016年4月3日起在東京電視台聯播網中播放，共25話，其中第1話為1小時特別篇。
 
 ### 製作人員
 
   - 原作、系列監修：[長月達平](../Page/長月達平.md "wikilink")（MF文庫J「Re:從零開始的異世界生活」/KADOKAWA刊）
-  - 原作插畫：[大塚真一郎](../Page/大塚真一郎.md "wikilink")
+  - 原作插畫：[大塚真一郎](https://zh.wikipedia.org/wiki/大塚真一郎 "wikilink")
   - 監督：渡邊政治
   - 系列構成：[橫谷昌宏](../Page/橫谷昌宏.md "wikilink")
   - 角色設計、總作畫監督：[坂井久太](../Page/坂井久太.md "wikilink")
@@ -833,7 +887,7 @@ ISBN 978-4-04-067235-9（特裝版）</p></td>
   - 音樂：[末廣健一郎](../Page/末廣健一郎.md "wikilink")
   - 音樂制作：KADOKAWA
   - 動畫製作：[WHITE FOX](../Page/WHITE_FOX.md "wikilink")
-  - 製作：Re:从零開始的異世界生活製作委員會（[東京電視台](../Page/東京電視台.md "wikilink")、[AT-X等](../Page/AT-X.md "wikilink")）
+  - 製作：Re:从零開始的異世界生活製作委員會（[東京電視台](../Page/東京電視台.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")等）
 
 ### 主題曲
 
@@ -844,7 +898,7 @@ ISBN 978-4-04-067235-9（特裝版）</p></td>
   -
 
       -
-        作詞：，作曲、編曲：，主唱：[鈴木木乃美](../Page/鈴木木乃美.md "wikilink")
+        作詞：，作曲、編曲：，主唱：[鈴木木乃美](https://zh.wikipedia.org/wiki/鈴木木乃美 "wikilink")
 
 :; 「Paradisus-Paradoxum」（第14－25話）
 
@@ -869,8 +923,7 @@ ISBN 978-4-04-067235-9（特裝版）</p></td>
   -
 
       -
-        作詞、作曲、編曲：Heart's
-        Cry，主唱：[愛蜜莉雅](../Page/愛蜜莉雅.md "wikilink")（[高橋李依](../Page/高橋李依.md "wikilink")）
+        作詞、作曲、編曲：Heart's Cry，主唱：[愛蜜莉雅](https://zh.wikipedia.org/wiki/愛蜜莉雅 "wikilink")（[高橋李依](../Page/高橋李依.md "wikilink")）
 
 <!-- end list -->
 
@@ -910,9 +963,9 @@ ISBN 978-4-04-067235-9（特裝版）</p></td>
 <thead>
 <tr class="header">
 <th><p>話數</p></th>
-<th><p>日文標題[26]</p></th>
-<th><p>中文標題-{zh-hant:[27];zh-hans:[28];}-</p></th>
-<th><p>香港標題[29]</p></th>
+<th><p>日文標題[27]</p></th>
+<th><p>中文標題-{zh-hant:[28];zh-hans:[29];}-</p></th>
+<th><p>香港標題[30]</p></th>
 <th><p>劇本</p></th>
 <th><p>分鏡</p></th>
 <th><p>演出</p></th>
@@ -926,7 +979,7 @@ ISBN 978-4-04-067235-9（特裝版）</p></td>
 <td></td>
 <td><p>-{zh-hant:開始的結束與結束的開始;zh-hans:初始的终结与结束的开始;}-</p></td>
 <td><p>開始的終結 終結的開始</p></td>
-<td><p><a href="../Page/横谷昌宏.md" title="wikilink">横谷昌宏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/横谷昌宏" title="wikilink">横谷昌宏</a></p></td>
 <td><p>渡邊政治</p></td>
 <td><p><a href="../Page/坂井久太.md" title="wikilink">坂井久太</a><br />
 小柳達也</p></td>
@@ -1234,15 +1287,15 @@ ISBN 978-4-04-067235-9（特裝版）</p></td>
 
 ### 播放電視台
 
-| 播放地區                                             | 播放電視台                                | 播放日期              | 播放時間（[UTC](../Page/UTC.md "wikilink")[+9](../Page/UTC+9.md "wikilink")） | 所屬聯播網                                | 備註  |
-| ------------------------------------------------ | ------------------------------------ | ----------------- | ----------------------------------------------------------------------- | ------------------------------------ | --- |
-| [關東地方](../Page/關東地方.md "wikilink")               | [東京電視台](../Page/東京電視台.md "wikilink") | 2016年4月3日－9月18日   | 星期日 25時05分－25時35分                                                       | [東京電視網](../Page/東京電視網.md "wikilink") |     |
-| [大阪市](../Page/大阪市.md "wikilink")                 | [大阪電視台](../Page/大阪電視台.md "wikilink") | 2016年4月5日－9月20日   | 星期二 25時35分－26時05分                                                       |                                      |     |
-| [愛知縣](../Page/愛知縣.md "wikilink")                 | [愛知電視台](../Page/愛知電視台.md "wikilink") | 2016年4月7日－9月22日   | 星期四 26時05分－27時35分                                                       |                                      |     |
-| 日本全國                                             | [AT-X](../Page/AT-X.md "wikilink")   | 2016年4月8日－9月23日   | 星期五 22時00分－22時30分                                                       | [衛星電視](../Page/衛星電視.md "wikilink")   | 有重播 |
-| [NICONICO生放送](../Page/NICONICO生放送.md "wikilink") | 2016年4月9日－9月24日                      | 星期六 22時30分－23時00分 | [網路電視](../Page/網路電視.md "wikilink")                                      |                                      |     |
-| [NICONICO頻道](../Page/NICONICO頻道.md "wikilink")   | 星期六 23時00分 更新                        |                   |                                                                         |                                      |     |
-|                                                  |                                      |                   |                                                                         |                                      |     |
+| 播放地區                                                                | 播放電視台                                | 播放日期              | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬聯播網                                                 | 備註  |
+| ------------------------------------------------------------------- | ------------------------------------ | ----------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --- |
+| [關東地方](../Page/關東地方.md "wikilink")                                  | [東京電視台](../Page/東京電視台.md "wikilink") | 2016年4月3日－9月18日   | 星期日 25時05分－25時35分                                                                                             | [東京電視網](../Page/東京電視網.md "wikilink")                  |     |
+| [大阪市](../Page/大阪市.md "wikilink")                                    | [大阪電視台](../Page/大阪電視台.md "wikilink") | 2016年4月5日－9月20日   | 星期二 25時35分－26時05分                                                                                             |                                                       |     |
+| [愛知縣](../Page/愛知縣.md "wikilink")                                    | [愛知電視台](../Page/愛知電視台.md "wikilink") | 2016年4月7日－9月22日   | 星期四 26時05分－27時35分                                                                                             |                                                       |     |
+| 日本全國                                                                | [AT-X](../Page/AT-X.md "wikilink")   | 2016年4月8日－9月23日   | 星期五 22時00分－22時30分                                                                                             | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") | 有重播 |
+| [NICONICO生放送](https://zh.wikipedia.org/wiki/NICONICO生放送 "wikilink") | 2016年4月9日－9月24日                      | 星期六 22時30分－23時00分 | [網路電視](https://zh.wikipedia.org/wiki/網路電視 "wikilink")                                                         |                                                       |     |
+| [NICONICO頻道](https://zh.wikipedia.org/wiki/NICONICO頻道 "wikilink")   | 星期六 23時00分 更新                        |                   |                                                                                                               |                                                       |     |
+|                                                                     |                                      |                   |                                                                                                               |                                                       |     |
 
 日本國內
 
@@ -1260,16 +1313,16 @@ ISBN 978-4-04-067235-9（特裝版）</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/中國大陸.md" title="wikilink">中國大陸</a></p></td>
-<td><p><a href="../Page/bilibili.md" title="wikilink">bilibili</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中國大陸" title="wikilink">中國大陸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/bilibili" title="wikilink">bilibili</a></p></td>
 <td><p>2016年4月3日－9月18日</p></td>
 <td><p>星期一 1時05分 更新</p></td>
-<td><p><a href="../Page/網絡點播.md" title="wikilink">網絡點播</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網絡點播" title="wikilink">網絡點播</a></p></td>
 <td><p><br />
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/台灣.md" title="wikilink">台灣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a></p></td>
 <td><p><a href="../Page/巴哈姆特電玩資訊站.md" title="wikilink">巴哈姆特動畫瘋</a></p></td>
 <td><p>星期一 1時40分 更新</p></td>
 <td></td>
@@ -1288,8 +1341,8 @@ ISBN 978-4-04-067235-9（特裝版）</p></td>
 <td><p><a href="../Page/Animax_Asia.md" title="wikilink">Animax</a></p></td>
 <td><p>2017年1月19日－2月12日</p></td>
 <td><p>每天晚上（週三以外） 20時30分 - 21時00分</p></td>
-<td><p><a href="../Page/收費電視.md" title="wikilink">收費電視</a></p></td>
-<td><p>含<a href="../Page/配音員#台灣.md" title="wikilink">中配</a>，有重播</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/收費電視" title="wikilink">收費電視</a></p></td>
+<td><p>含<a href="https://zh.wikipedia.org/wiki/配音員#台灣" title="wikilink">中配</a>，有重播</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1336,6 +1389,12 @@ ISBN 978-4-04-067235-9（特裝版）</p></td>
 | 8  | 2017年1月25日  | 第21話－第23話 | ZMXZ-10658 | ZMBZ-10668 |
 | 9  | 2017年2月24日  | 第24話－第25話 | ZMXZ-10659 | ZMBZ-10669 |
 
+| 卷數  | 發售日期      | 收錄話數 | 規格編號       | 封面角色       |
+| --- | --------- | ---- | ---------- | ---------- |
+| BD  | DVD       |      |            |            |
+| 限定版 | 通常版       |      |            |            |
+| 1   | 2019年6月7日 | OVA1 | ZMXZ-12941 | ZMXZ-12942 |
+
 #### CD
 
 <table>
@@ -1378,8 +1437,7 @@ ZMCZ-10604</p></td>
 
 ### 短篇動畫
 
-電視動畫於AT-X播放完畢後，放送的短篇動畫。「Re:從零開始的休息時間」內容為幫忙補充電視動畫未提及的一些設定。「Re:從小劇場開始的異世界生活」則與電視動畫內容無關。同樣由短篇動畫製作公司STUDIO
-PUYUKAI所製作的「[異世界四重奏](../Page/異世界四重奏.md "wikilink")」，將包含本作，預定於2019年4月播放。
+電視動畫於AT-X播放完畢後，放送的短篇動畫。「Re:從零開始的休息時間」內容為幫忙補充電視動畫未提及的一些設定。「Re:從小劇場開始的異世界生活」則與電視動畫內容無關。同樣由短篇動畫製作公司STUDIO PUYUKAI所製作的「[異世界四重奏](../Page/異世界四重奏.md "wikilink")」，將包含本作，2019年4月播放。
 
 #### 製作人員
 
@@ -1400,7 +1458,7 @@ PUYUKAI所製作的「[異世界四重奏](../Page/異世界四重奏.md "wikili
 <tr class="header">
 <th><p>話數</p></th>
 <th><p>日文標題</p></th>
-<th><p>中文標題[30]</p></th>
+<th><p>中文標題[31]</p></th>
 <th><p>出演人物</p></th>
 </tr>
 </thead>
@@ -1574,7 +1632,7 @@ PUYUKAI所製作的「[異世界四重奏](../Page/異世界四重奏.md "wikili
 
   -
 
-    是2016年3月28日起在[音泉網上配信](../Page/音泉.md "wikilink")，由高橋李依主持的網絡廣播節目，每週一更新\[31\]。
+    是2016年3月28日起在[音泉](../Page/音泉.md "wikilink")網上配信，由高橋李依主持的網絡廣播節目，每週一更新\[32\]。
 
   - 來賓
 
@@ -1585,8 +1643,7 @@ PUYUKAI所製作的「[異世界四重奏](../Page/異世界四重奏.md "wikili
   - 第3回：[赤崎千夏](../Page/赤崎千夏.md "wikilink")（菲魯特 役）
   - 第4回：內山夕實（帕克 役）
   - 第5回：[村川梨衣](../Page/村川梨衣.md "wikilink")（拉姆 役）
-  - 第6回：[水瀨祈](../Page/水瀨祈.md "wikilink")（雷姆
-    役）、[鈴木KONOMI](../Page/鈴木KONOMI.md "wikilink")
+  - 第6回：[水瀨祈](../Page/水瀨祈.md "wikilink")（雷姆 役）、[鈴木KONOMI](../Page/鈴木KONOMI.md "wikilink")
   - 第7回：[新井里美](../Page/新井里美.md "wikilink")（碧翠絲 役）
   - 第8回：小林裕介（菜月昴 役）
   - 第9回：村川梨衣（拉姆 役）、MYTH & ROID
@@ -1625,29 +1682,27 @@ PUYUKAI所製作的「[異世界四重奏](../Page/異世界四重奏.md "wikili
 
 <!-- end list -->
 
-  - \[32\]\[33\]
+  - \[33\]\[34\]
 
-  - \[34\]\[35\]
+  - \[35\]\[36\]
 
-  - \[36\]
+  - \[37\]
 
-  - melcafe\[37\]
+  - melcafe\[38\]
 
-  - \[38\]\[39\]
+  - \[39\]\[40\]
 
-<!-- end list -->
 
-  - 遊戲
+**遊戲**
 
-<!-- end list -->
-
-  - [幻想神域 -Cross to Fate-](../Page/幻想神域.md "wikilink")\[40\]\[41\]
-  - [乖離性百萬亞瑟王](../Page/擴散性百萬亞瑟王#遊戲系列.md "wikilink")\[42\]
-  - SEVENTH DARK\[43\]
-  - [神聖之門](../Page/神聖之門.md "wikilink")\[44\]
-  - [新楓之谷](../Page/新楓之谷.md "wikilink")\[45\]
-  - [白貓Project](../Page/白貓Project.md "wikilink")\[46\]
-  - [新瑪奇mabinogi](../Page/瑪奇.md "wikilink")\[47\]
+  - [幻想神域 -Cross to Fate-](../Page/幻想神域.md "wikilink")\[41\]\[42\]
+  - [乖離性百萬亞瑟王](https://zh.wikipedia.org/wiki/擴散性百萬亞瑟王#遊戲系列 "wikilink")\[43\]
+  - SEVENTH DARK\[44\]
+  - [神聖之門](../Page/神聖之門.md "wikilink")\[45\]
+  - [新楓之谷](../Page/新楓之谷.md "wikilink")\[46\]
+  - [白貓Project](../Page/白貓Project.md "wikilink")\[47\]
+  - [新瑪奇mabinogi](https://zh.wikipedia.org/wiki/瑪奇 "wikilink")\[48\]
+  - [超異域公主連結 Re:Dive](../Page/超異域公主連結_Re:Dive.md "wikilink")\[49\]
 
 ## 備註
 
@@ -1669,118 +1724,58 @@ PUYUKAI所製作的「[異世界四重奏](../Page/異世界四重奏.md "wikili
 
   - [Re:從零開始的異世界生活—東京電視台TX動畫專頁](http://www.tv-tokyo.co.jp/anime/re-zero/)
 
-
   - [網絡廣播「Re:從零開始的廣播生活」專頁](http://www.onsen.ag/program/rezero/)
 
   -
   -
-[Category:2012年日本小說](https://zh.wikipedia.org/wiki/Category:2012年日本小說 "wikilink")
-[Category:MF文庫J](https://zh.wikipedia.org/wiki/Category:MF文庫J "wikilink")
-[Category:成為小說家吧](https://zh.wikipedia.org/wiki/Category:成為小說家吧 "wikilink")
-[Category:時間迴圈題材作品](https://zh.wikipedia.org/wiki/Category:時間迴圈題材作品 "wikilink")
-[Category:七宗罪題材作品](https://zh.wikipedia.org/wiki/Category:七宗罪題材作品 "wikilink")
-[Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")
-[Category:月刊BIG_GANGAN](https://zh.wikipedia.org/wiki/Category:月刊BIG_GANGAN "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
-[Category:Re:從零開始的異世界生活](https://zh.wikipedia.org/wiki/Category:Re:從零開始的異世界生活 "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:歧視與差別待遇題材作品](https://zh.wikipedia.org/wiki/Category:歧視與差別待遇題材作品 "wikilink")
-[Category:怪物題材作品](https://zh.wikipedia.org/wiki/Category:怪物題材作品 "wikilink")
-[Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")
-[Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")
-[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
+[Category:2012年日本小說](https://zh.wikipedia.org/wiki/Category:2012年日本小說 "wikilink") [Category:MF文庫J](https://zh.wikipedia.org/wiki/Category:MF文庫J "wikilink") [Category:成為小說家吧](https://zh.wikipedia.org/wiki/Category:成為小說家吧 "wikilink") [Category:時間迴圈題材作品](https://zh.wikipedia.org/wiki/Category:時間迴圈題材作品 "wikilink") [Category:七宗罪題材作品](https://zh.wikipedia.org/wiki/Category:七宗罪題材作品 "wikilink") [Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink") [Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink") [Category:月刊BIG_GANGAN](https://zh.wikipedia.org/wiki/Category:月刊BIG_GANGAN "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:Re:從零開始的異世界生活](https://zh.wikipedia.org/wiki/Category:Re:從零開始的異世界生活 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:歧視與差別待遇題材作品](https://zh.wikipedia.org/wiki/Category:歧視與差別待遇題材作品 "wikilink") [Category:怪物題材作品](https://zh.wikipedia.org/wiki/Category:怪物題材作品 "wikilink") [Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink") [Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink") [Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink") [Category:異世界題材作品](https://zh.wikipedia.org/wiki/Category:異世界題材作品 "wikilink") [Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
-10. 原文中指出**生まれて七歳で、そこから百年ほど眠り、七年前に目覚めた**,故年齡應為114歲而非107歲。中文版文庫第13冊作出了有關修訂
-
-11.
-
+10.
+11. 原文中指出**生まれて七歳で、そこから百年ほど眠り、七年前に目覚めた**,故年齡應為114歲而非107歲。中文版文庫第13冊作出了有關修訂
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
-29. 香港Viutv標題，以播放時所顯示的字幕為準。
-
-30.
-
+29.
+30. 香港Viutv標題，以播放時所顯示的字幕為準。
 31.
-
 32.
-
 33.
-
 34.
-
 35.
 36.
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
+48.
+49.

@@ -12,12 +12,8 @@
 [Category:华裔美国人](https://zh.wikipedia.org/wiki/Category:华裔美国人 "wikilink") [Category:英雄聯盟玩家](https://zh.wikipedia.org/wiki/Category:英雄聯盟玩家 "wikilink") [Category:洛杉磯人](https://zh.wikipedia.org/wiki/Category:洛杉磯人 "wikilink") [Category:美國電玩家](https://zh.wikipedia.org/wiki/Category:美國電玩家 "wikilink") [Category:彭姓](https://zh.wikipedia.org/wiki/Category:彭姓 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.

@@ -19,26 +19,15 @@ CyanogenMod商業化計劃的謠言引致CyanogenMod社區的議論\[1\]\[2\]。
 [Category:美國電子公司](https://zh.wikipedia.org/wiki/Category:美國電子公司 "wikilink") [Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  [Guillaume Lesniak - Developer of "Focal" Camera App, Google+ post 2013-09-20](https://plus.google.com/106978520009932034644/posts/L8FJkrcahPs) - covers licensing and dispute controversy with Cyanogen Inc.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12. [Cyanogen Announces Strategic Partnership with Microsoft](https://cyngn.com/press/cyanogen-announces-strategic-partnership-with-microsoft)
-
 13. [Cyanogen OS 12.1.1 On The OnePlus One Is Promoting Microsoft Apps Via The 'Open With' Dialog](http://www.androidpolice.com/2016/01/07/cyanogen-os-12-1-1-on-the-oneplus-one-is-promoting-microsoft-apps-via-the-open-with-dialog/)

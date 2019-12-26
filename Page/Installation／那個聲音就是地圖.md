@@ -42,21 +42,13 @@ ORICON STYLE|publisher=[オリコン](https://zh.wikipedia.org/wiki/オリコン
 [Category:早見沙織单曲](https://zh.wikipedia.org/wiki/Category:早見沙織单曲 "wikilink") [Category:2016年单曲](https://zh.wikipedia.org/wiki/Category:2016年单曲 "wikilink") [Category:電視動畫主題曲](https://zh.wikipedia.org/wiki/Category:電視動畫主題曲 "wikilink")
 
 1.   CHART insight {{\!}} Billboard JAPAN|publisher=[ビルボード](https://zh.wikipedia.org/wiki/ビルボード "wikilink")|accessdate=2016-02-11}}
-
 2.   CHART insight {{\!}} Billboard JAPAN|publisher=[ビルボード](https://zh.wikipedia.org/wiki/ビルボード "wikilink")|accessdate=2016-02-11}}
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.   ORICON STYLE|publisher=[Oricon](../Page/Oricon.md "wikilink")|accessdate=2016-02-11}}
-
 9.
 10.
 11.

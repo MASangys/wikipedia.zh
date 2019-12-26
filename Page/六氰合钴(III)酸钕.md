@@ -19,6 +19,5 @@ Nd\[Co(CN)<sub>6</sub>\]·5H<sub>2</sub>O属[六方晶系](../Page/六方晶系.
 [Category:钴氰酸盐](https://zh.wikipedia.org/wiki/Category:钴氰酸盐 "wikilink") [Category:钕化合物](https://zh.wikipedia.org/wiki/Category:钕化合物 "wikilink")
 
 1.  F. Hulliger, M. Landolt, H. Vetsch. Rare-earth cobalticyanides LnCo(CN)<sub>6</sub>·nH<sub>2</sub>O. Journal of Solid State Chemistry. 1976. 18(4): 307-312
-
 2.
 3.

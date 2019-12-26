@@ -48,33 +48,19 @@ HTTP公钥固定在[RFC](../Page/RFC.md "wikilink") 7469规范中成为标准。
 [Category:HTTP](https://zh.wikipedia.org/wiki/Category:HTTP "wikilink") [Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.

@@ -77,14 +77,9 @@ Velvet的一个主要缺点是使用命令行界面，但用户（尤其是初�
 [Category:生物信息学算法](https://zh.wikipedia.org/wiki/Category:生物信息学算法 "wikilink") [Category:生物信息学软件](https://zh.wikipedia.org/wiki/Category:生物信息学软件 "wikilink") [Category:DNA测序](https://zh.wikipedia.org/wiki/Category:DNA测序 "wikilink")
 
 1.  Zerbino, D. R.; Birney, E. (2008). [“Velvet: de novo assembly using very short reads”](http://www.ebi.ac.uk/~zerbino/velvet/velvet_poster.pdf). Retrieved 2013-10-18.
-
 2.
-
 3.
-
 4.  [“Velvet Manual”](http://www.ebi.ac.uk/~zerbino/velvet/Manual.pdf) Retrieved 2013-10-18
-
 5.
 6.
-
 7.

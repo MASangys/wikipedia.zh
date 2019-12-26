@@ -6,7 +6,7 @@ Teredo是一种临时措施。在长远的未来，所有IPv6主机都应该使�
 
 ## 目的
 
-[6to4](../Page/6to4.md "wikilink")，最常用的IPv6通过IPv4的隧道协议，但它需要隧道端点有一个公网IPv4地址。然而，许多主机目前通过一个或多个NAT设备来连接IPv4互联网，原因之一是[IPv4位址枯竭](https://zh.wikipedia.org/wiki/IPv4位址枯竭 "wikilink")。在这种情况下，只有NAT设备有IPv4地址，6to4隧道端点必须在NAT设备上被实现。出于技术或经济原因，目前已被部署的许多NAT设备无法升级为实现6to4。
+[6to4](../Page/6to4.md "wikilink")，最常用的IPv6通过IPv4的隧道协议，但它需要隧道端点有一个公网IPv4地址。然而，许多主机目前通过一个或多个NAT设备来连接IPv4互联网，原因之一是[IPv4位址枯竭](../Page/IPv4位址枯竭.md "wikilink")。在这种情况下，只有NAT设备有IPv4地址，6to4隧道端点必须在NAT设备上被实现。出于技术或经济原因，目前已被部署的许多NAT设备无法升级为实现6to4。
 
 Teredo通过在UDP/IPv4数据包内封装IPv6数据包来缓解这个问题，大多数NAT可以正确转发此种流量。这样一来，NAT后的IPv6感知主机可以作为Teredo隧道端点，即使它没有专用的公网IPv4地址。实际上，一个实现Teredo的主机可以在没有本地网络环境合作的条件下获得IPv6连通性。
 
@@ -268,20 +268,12 @@ Christian Huitema后将名称改为Teredo以避免将它与[電腦蠕蟲](../Pag
 [Category:IPv6过渡技术](https://zh.wikipedia.org/wiki/Category:IPv6过渡技术 "wikilink") [Category:穿隧協議](https://zh.wikipedia.org/wiki/Category:穿隧協議 "wikilink")
 
 1.
-
 2.
-
 3.   US-CERT}}
-
 4.
 5.
-
 6.
-
 7.
-
 8.  Kabassanov, Konstantin; Jardin, Vincent.
-
 9.  "Solomon, Aaron".
-
 10.

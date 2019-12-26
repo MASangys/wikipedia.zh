@@ -54,8 +54,6 @@
 [Category:葛萊美獎獲得者](https://zh.wikipedia.org/wiki/Category:葛萊美獎獲得者 "wikilink") [Category:南非歌手](https://zh.wikipedia.org/wiki/Category:南非歌手 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

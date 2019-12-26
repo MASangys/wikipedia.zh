@@ -1,4 +1,4 @@
-**李相赫**（，，遊戲ID：**Faker**）是一名南韓知名《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》職業選手，目前效力[SK Telecom T1](../Page/SK_Telecom_T1.md "wikilink")。因為其出眾的遊戲操作能力，而被玩家和對手暱稱「大魔王」和「李哥」等，被英雄聯盟公認為史上最成功和最偉大選手，曾經3度奪得[世界冠軍](../Page/英雄联盟全球总决赛.md "wikilink")、2奪[季中邀請賽冠軍](../Page/英雄联盟季中邀请赛.md "wikilink")、8奪[韓國冠軍聯賽冠軍](../Page/英雄联盟韩国冠军联赛.md "wikilink")、1奪亞洲洲際賽冠軍和一個全明星賽冠軍([季中賽前身](../Page/英雄联盟季中邀请赛.md "wikilink"))。\[1\]職業生涯總獎金超過一千萬美元。也是LOL史上第一位奪得大滿貫的選手。\[2\]2017年和SKT T1戰隊簽下一份史上最高，年薪超過1億美元的合約。\[3\]2018年更簽下了一份估計超30億韓元（約7800萬台幣），年收入估計高達50億韓元（約3400萬港幣）的合同，而且為整個LCK韓國賽區最高薪金的選手。\[4\]過去在韓國伺服器的名稱為「고전파」(GoJeonPa)。現在他在韓國伺服器的名稱是「SKT T1 Faker」，另一個帳戶名称是「Hide on Bush」。
+**李相赫**（，，遊戲ID：**Faker**）是一名南韓知名《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》職業選手，目前效力[SK Telecom T1](../Page/SK_Telecom_T1.md "wikilink")。因為其出眾的遊戲操作能力，而被玩家和對手暱稱「大魔王」和「李哥」等，曾經3度奪得[世界冠軍](../Page/英雄联盟全球总决赛.md "wikilink")、2奪[季中邀請賽冠軍](../Page/英雄联盟季中邀请赛.md "wikilink")、8奪[韓國冠軍聯賽冠軍](../Page/英雄联盟韩国冠军联赛.md "wikilink")、1奪亞洲洲際賽冠軍和一個全明星賽冠軍([季中賽前身](../Page/英雄联盟季中邀请赛.md "wikilink"))。\[1\]職業生涯總獎金超過一千萬美元。也是LOL史上第一位奪得大滿貫的選手。\[2\]2017年和SKT T1戰隊簽下一份史上最高，年薪超過一千万美元的合約。\[3\]2018年更簽下了一份估計超30億韓元，年收入估計高達50億韓元的合約，而且為整個LCK韓國賽區最高薪金的選手。\[4\]過去在韓國伺服器的名稱為「고전파」(GoJeonPa)。現在他在韓國伺服器的名稱是「SKT T1 Faker」，另一個帳戶名称是「Hide on Bush」。
 
 ## 生平
 
@@ -8,7 +8,7 @@
 
 ### 職業生涯
 
-[SK_Telecom_T1_at_LoL_World_Championship_2013.jpg](https://zh.wikipedia.org/wiki/File:SK_Telecom_T1_at_LoL_World_Championship_2013.jpg "fig:SK_Telecom_T1_at_LoL_World_Championship_2013.jpg")，從左至右為Faker、Impact、Piglet、PoohManDu和Bengi。\]\] Faker最出名的英雄是加里歐、奧莉安娜、雷茲、勒布朗、劫、阿璃和璐璐。他是史上第一个三次奪得英雄聯盟世界大賽冠軍的中路選手，與前打野隊友Bengi同為世界大賽奪冠次數最多者。
+[SK_Telecom_T1_at_LoL_World_Championship_2013.jpg](https://zh.wikipedia.org/wiki/File:SK_Telecom_T1_at_LoL_World_Championship_2013.jpg "fig:SK_Telecom_T1_at_LoL_World_Championship_2013.jpg")，從左至右為Faker、Impact、Piglet、PoohManDu和Bengi。\]\] Faker最出名的英雄是加里歐、奧莉安娜、雷茲、勒布朗、劫、阿卡莉、星朵拉和露璐。他是史上第一个三次奪得英雄聯盟世界大賽冠軍的中路選手，與前打野隊友Bengi同為世界大賽奪冠次數最多者。
 
 2013年4月6日第一次為SK Telecom T1 2在職業賽場上陣，對手是CJ Entus Blaze。
 
@@ -38,6 +38,8 @@
 
 2019年7月7日，随着LCK拿下2019年亚洲洲际赛冠军，Faker成为LOL历史上第一个大满贯选手（分赛区冠军、S赛冠军、洲际赛冠军、MSI冠军、全明星冠军）。
 
+2019年11月3日，英雄聯盟世界大賽四強賽第二日，Faker所帶領的SKT戰隊對戰歐洲老牌戰隊G2，最終以1:3的成績敗給G2，無緣晉級冠亞決賽。
+
 ## 個人獎項
 
   - 2015年Korea e-Sports Awards 年度人氣選手、年度最佳選手(得獎)
@@ -53,7 +55,7 @@
 
 ## 人物评价
 
-2016年12月，《[朝鲜日报](https://zh.wikipedia.org/wiki/朝鲜日报 "wikilink")》通过在此之前结束的[英雄联盟2016賽季全球总决赛介绍了](https://zh.wikipedia.org/wiki/英雄联盟2016賽季全球总决赛 "wikilink")[英雄联盟](../Page/英雄联盟.md "wikilink")，并将Faker称为国民级运动员，此外还将Faker的影响力比作[朴智星](../Page/朴智星.md "wikilink")、[金妍儿等运动员](https://zh.wikipedia.org/wiki/金妍儿 "wikilink")。\[15\]
+2016年12月，《[朝鲜日报](https://zh.wikipedia.org/wiki/朝鲜日报 "wikilink")》通过在此之前结束的[英雄联盟2016賽季全球总决赛介绍了](https://zh.wikipedia.org/wiki/英雄联盟2016賽季全球总决赛 "wikilink")[英雄联盟](../Page/英雄联盟.md "wikilink")，并将Faker称为国民级运动员，此外还将Faker的影响力比作[朴智星](../Page/朴智星.md "wikilink")（足球員）、[金妍儿等运动员](https://zh.wikipedia.org/wiki/金妍儿 "wikilink")。\[15\]
 
 2019年4月，Faker入選《[富比士](https://zh.wikipedia.org/wiki/富比士 "wikilink")》年度傑出青年「30 Under 30」亞洲區傑出青年中的「運動與體育」項目，成為[韓國首位入圍該獎項的](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[英雄聯盟選手](../Page/英雄联盟.md "wikilink")\[16\]
 

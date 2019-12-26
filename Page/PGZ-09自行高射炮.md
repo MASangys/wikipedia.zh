@@ -16,7 +16,7 @@ PGZ-09接替[PGZ-95所担负的部队野战防空任务](../Page/PGZ-95自行高
 
 PGZ-09采用了90式双聠35毫米牵引高射炮（歐瑞康GDF-002 35毫米双管牵引高射炮的中国特许生产及改进版本）作为主要武器，但將其双聠结构分拆为两台并分別安装在[砲塔](../Page/砲塔.md "wikilink")外部的两侧。中国宣称其性能超越原GDF-002並接近GDF-003的水平。藉由其[火力](https://zh.wikipedia.org/wiki/火力 "wikilink")，PGZ-09高射炮系统可以击破几乎所有空袭以至各种地面（包括轻型装甲车）和水面目标。
 
-其35毫米机炮的单门射速为550发／分钟，有效射距4,000公尺（4,374.45码），有效射高3,000公尺（3,280.84码）。该型机炮可发射多种为90式研制、具有高破坏力和复數用途的[弹药种类](https://zh.wikipedia.org/wiki/弹药 "wikilink")，以至日后的新彈藥弹药。包括（HEI）、[高爆](https://zh.wikipedia.org/wiki/榴彈 "wikilink")[燃烧](https://zh.wikipedia.org/wiki/燃烧弹 "wikilink")[曳光弹](https://zh.wikipedia.org/wiki/曳光弹 "wikilink")（HEI-T）、半穿甲高爆燃烧曳光弹（SAPHEI-T）、[空爆破片弹](https://zh.wikipedia.org/wiki/空中爆炸 "wikilink")（ABM）和打靶训练曳光弹（TP-T）等[炮彈](../Page/炮彈.md "wikilink")。\[2\]\[3\]
+其35毫米机炮的单门射速为550发／分钟，有效射距4,000公尺（4,374.45码），有效射高3,000公尺（3,280.84码）。该型机炮可发射多种为90式研制、具有高破坏力和复數用途的[弹药种类](https://zh.wikipedia.org/wiki/弹药 "wikilink")，以至日后的新彈藥弹药。包括（HEI）、[高爆](https://zh.wikipedia.org/wiki/榴彈 "wikilink")[燃烧](https://zh.wikipedia.org/wiki/燃烧弹 "wikilink")[曳光弹](https://zh.wikipedia.org/wiki/曳光弹 "wikilink")（HEI-T）、半穿甲高爆燃烧曳光弹（SAPHEI-T）、[空爆](https://zh.wikipedia.org/wiki/空中爆炸 "wikilink")[破片](../Page/破片杀伤.md "wikilink")（ABM）和打靶训练曳光弹（TP-T）等[炮彈](../Page/炮彈.md "wikilink")。\[2\]\[3\]
 
 此外，在炮塔上左右两侧各裝有4聠裝電擊發射式[烟雾弹发射器](https://zh.wikipedia.org/wiki/烟雾弹 "wikilink")，可保证其免遭制导式反坦克武器的袭击。
 

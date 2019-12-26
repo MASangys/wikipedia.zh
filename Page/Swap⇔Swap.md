@@ -48,11 +48,8 @@
 [Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink") [Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink") [Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:身体交换题材漫画](https://zh.wikipedia.org/wiki/Category:身体交换题材漫画 "wikilink")
 
 1.  单行本第一册89页
-
 2.  Manga Time Kirara Carat 2016年1月号第76页
-
 3.  单行本上的人物介绍
-
 4.
 5.
 6.

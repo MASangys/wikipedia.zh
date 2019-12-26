@@ -4,18 +4,23 @@ Uber Eats与世界各地城市的当地餐廳合作，并讓使用者可以使�
 
 ## 概述
 
-Uber Technologies Inc于2014年8月首次进军食品交易市场，在圣莫尼卡推出UberFRESH。
+\-{Uber Technologies Inc}-于2014年8月首次进军食品交易市场，在圣莫尼卡推出-{UberFRESH}-。
 
 ## 相關條目
 
   - [Foodpanda](../Page/Foodpanda.md "wikilink")
-  - Deliveroo
+  - [戶戶送](../Page/Deliveroo.md "wikilink")
+  - [外送](https://zh.wikipedia.org/wiki/外送 "wikilink")
 
 ## 参考资料
 
 ## 外部連結
 
   -
+  - [官方網站（台灣）](https://www.ubereats.com/zh-TW/)
+
+  - [Facebook（台灣）](https://www.facebook.com/Ubereatstaiwan/)
+
 [Category:优步](https://zh.wikipedia.org/wiki/Category:优步 "wikilink") [Category:总部位于旧金山的公司](https://zh.wikipedia.org/wiki/Category:总部位于旧金山的公司 "wikilink") [Category:美國私人公司](https://zh.wikipedia.org/wiki/Category:美國私人公司 "wikilink") [Category:交通网络公司](https://zh.wikipedia.org/wiki/Category:交通网络公司 "wikilink") [Category:网上订餐](https://zh.wikipedia.org/wiki/Category:网上订餐 "wikilink")
 
 1.

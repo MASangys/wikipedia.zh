@@ -45,47 +45,31 @@ Cameleon 先前的云平台已于 2014 年退役，只供早期用户使用。\[
 ## 參考
 
 1.
-
 2.   Cameleon {{\!}} crunchbase|accessdate=2016-12-17|work=www.crunchbase.com|deadurl=yes|archiveurl=[https://web.archive.org/web/20161118224350/https://www.crunchbase.com/product/live-streaming-cameleon\#/entity|archivedate=2016-11-18](https://web.archive.org/web/20161118224350/https://www.crunchbase.com/product/live-streaming-cameleon#/entity%7Carchivedate=2016-11-18)}}
-
 3.   FierceCable|accessdate=2016-12-17|work=www.fiercecable.com}}
-
 4.   crunchbase|accessdate=2016-12-17|work=www.crunchbase.com|deadurl=yes|archiveurl=[https://web.archive.org/web/20161118053701/https://www.crunchbase.com/product/cameleon-software|archivedate=2016-11-18](https://web.archive.org/web/20161118053701/https://www.crunchbase.com/product/cameleon-software%7Carchivedate=2016-11-18)}}
-
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
 15.
 16.
 17.
 18.
-
 19. <https://www.facebook.com/>
-
 20.
 21.
 22.
 23.  DownloadCloud|accessdate=2016-12-17|work=www.downloadcloud.com}}
-
 24.
 25.
 26.
-
 27.
-
 28.
-
 29.

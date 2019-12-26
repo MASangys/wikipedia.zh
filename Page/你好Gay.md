@@ -78,26 +78,15 @@
 [Category:2007年歌曲](https://zh.wikipedia.org/wiki/Category:2007年歌曲 "wikilink") [Category:2007年单曲](https://zh.wikipedia.org/wiki/Category:2007年单曲 "wikilink") [Category:凯蒂·佩芮歌曲](https://zh.wikipedia.org/wiki/Category:凯蒂·佩芮歌曲 "wikilink") [Category:LGBT相關歌曲](https://zh.wikipedia.org/wiki/Category:LGBT相關歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.  Hermann, Andy. ["Katy Perry's One of the Boys is dandy ear candy"](http://www.sun-sentinel.com/entertainment/events/sfl-j17cd-katysbjun17,0,2341281.story) , *Sun-Sentinel*. June 17, 2008.
-
 8.
-
 9.  French, Marguerite. ["Katy Perry – *One of The Boys* Album Review"](http://www.ugo.com/ugo/html/article/?id=18764&sectionId=2) , Ugo.com. Retrieved June 22, 2008.
-
 10. Erlewine, Stephen Thomas (2008). \[ "*One of the Boys* – Katy Perry" review\], AllMusic. Retrieved June 24, 2008.
-
 11. [Video Ur So Gay van Katy Perry – Myspace Video](http://vids.myspace.com/index.cfm?fuseaction=vids.individual&VideoID=30547979)
-
 12. [Katy Perry – Ur So Gay](http://www.discogs.com/release/1181336)
-
 13.

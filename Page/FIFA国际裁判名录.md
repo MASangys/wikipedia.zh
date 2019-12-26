@@ -28,27 +28,17 @@
 [Category:足球裁判](https://zh.wikipedia.org/wiki/Category:足球裁判 "wikilink") [Category:国际足球联合会](https://zh.wikipedia.org/wiki/Category:国际足球联合会 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
-
 11.
-
 12.
 13.
-
 14.
 15.

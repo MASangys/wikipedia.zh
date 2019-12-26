@@ -31,28 +31,16 @@
 [Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:节奏天国系列](https://zh.wikipedia.org/wiki/Category:节奏天国系列 "wikilink") [Category:任天堂游戏](https://zh.wikipedia.org/wiki/Category:任天堂游戏 "wikilink") [Category:任天堂3DS_eShop游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS_eShop游戏 "wikilink") [Category:任天堂3DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS独占游戏 "wikilink") [Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
 
 1.
-
 2.
-
 3.  <https://twitter.com/NintendoAmerica/status/743229771161677825>
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10. <https://twitter.com/NintendoUK/status/743382854311215104>
-
 11.  Polygon|url=[http://www.polygon.com/e3/2016/6/15/11950726/rhythm-heaven-megamix-release-date|accessdate=2016-07-31](http://www.polygon.com/e3/2016/6/15/11950726/rhythm-heaven-megamix-release-date%7Caccessdate=2016-07-31)}}
-
 12.
-
 13.
-
 14.

@@ -48,24 +48,14 @@ Lumia 640和Lumia 640 XL搭載[微軟](../Page/微软.md "wikilink")[Windows Pho
 [Category:微軟硬體](https://zh.wikipedia.org/wiki/Category:微軟硬體 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Windows_10_Mobile設備](https://zh.wikipedia.org/wiki/Category:Windows_10_Mobile設備 "wikilink") [Category:2015年面世的手機](https://zh.wikipedia.org/wiki/Category:2015年面世的手機 "wikilink")
 
 1.  <span class="citation news" contenteditable="false">Nishtha, Author (2 March 2015). </span>
-
 2.  <span class="citation news">Fraser, Adam (2 March 2015). </span>
-
 3.  <span class="citation news">Hachman, Mark (2 March 2015). </span>
-
 4.  <span class="citation web" id="Microsoft_Lumia_640_now_available_in_the_US">T, Florin. </span>
-
 5.  <span class="citation news">Hachman, Mark (2 March 2015). </span>
-
 6.  <http://gadgets.ndtv.com/mobiles/news/microsoft-lumia-640-lumia-640-xl-launched-alongside-dual-sim-lte-variants-666218>
-
 7.
 8.  <span class="citation web">["Microsoft launches Lumia 640 and Lumia 640 XL"](http://www.technokraze.in/2015/03/microsoft-launches-lumia-640-and-lumia-640-xl/). </span>
-
 9.  <http://www.microsoft.com/en-us/mobile/phone/lumia640/specifications/>
-
 10. <span class="citation news">Sarma, Sandeep (8 April 2015). </span>
-
 11. <span class="citation news">Hamblen, Matt (2 March 2015). </span>
-
 12. <span class="citation news">Cheng, Robert W. (2 March 2015). </span>

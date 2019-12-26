@@ -88,15 +88,10 @@
 [Category:日本廣播主持人](https://zh.wikipedia.org/wiki/Category:日本廣播主持人 "wikilink") [Category:日本男性配音員](https://zh.wikipedia.org/wiki/Category:日本男性配音員 "wikilink") [Category:香川縣出身人物](https://zh.wikipedia.org/wiki/Category:香川縣出身人物 "wikilink")
 
 1.
-
 2.
 3.
 4.  《[ART OF FIGHTING 龍虎之拳外傳](../Page/龍虎之拳.md "wikilink")》改由[小市慢太郎](../Page/小市慢太郎.md "wikilink")進行配音。
-
 5.  《侍魂 (1993年)》～《斬紅郎無雙劍》、《閃》擔任。
-
 6.  《斬紅郎無雙劍》為止以**稻毛一弘**名義。
-
 7.  除了《'96》至《2003》由小市慢太郎配音之外，《XIV》開始改由配音。
-
 8.  《'94》以**稻毛一弘**名義。

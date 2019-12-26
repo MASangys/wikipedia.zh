@@ -46,37 +46,21 @@ B理論家諸如[D.H. Mellor](https://zh.wikipedia.org/wiki/D.H._Mellor "wikilin
 [Category:形上學理論](https://zh.wikipedia.org/wiki/Category:形上學理論 "wikilink") [Category:時間哲學](https://zh.wikipedia.org/wiki/Category:時間哲學 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  This sentence has been translated by [Seneca](https://zh.wikipedia.org/wiki/Seneca_the_Younger "wikilink") in Epistulae, [VI, 58, 23](http://www.thelatinlibrary.com/sen/seneca.ep6.shtml).
-
 9.
-
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15. "Brian Green on B-theory of time" <https://www.youtube.com/watch?v=H1WfFkp4puw>
-
 16. "Prof. Brian Greene: Past, present and future exist now" <https://www.youtube.com/watch?v=f9AiPuIsqck/>
-
 17. <https://www.youtube.com/watch?v=R1cexcjdyIE>
-
 18. [Penrose, R.](https://zh.wikipedia.org/wiki/Roger_Penrose "wikilink")（1989）. *[The Emperor's New Mind](https://zh.wikipedia.org/wiki/The_Emperor's_New_Mind "wikilink")*: "Concerning Computers, Minds, and Laws of Physics". New York and Oxford: Oxford University Press.
-
 19.

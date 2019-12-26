@@ -49,11 +49,7 @@
 [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:SpeXial音樂專輯](https://zh.wikipedia.org/wiki/Category:SpeXial音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.

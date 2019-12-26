@@ -30,9 +30,9 @@
 <thead>
 <tr class="header">
 <th><p>|年份</p></th>
-<th><p>電視臺</p></th>
-<th><p>電視劇名稱</p></th>
-<th><p>角色名稱</p></th>
+<th><p>頻道</p></th>
+<th><p>劇名</p></th>
+<th><p>角色</p></th>
 <th><p>性質</p></th>
 </tr>
 </thead>
@@ -60,7 +60,7 @@
 <thead>
 <tr class="header">
 <th><p>|年份</p></th>
-<th><p>電視臺</p></th>
+<th><p>頻道</p></th>
 <th><p>節目名稱</p></th>
 <th><p>性質</p></th>
 </tr>
@@ -139,6 +139,18 @@ tagTV</p></td>
 <td><p><a href="../Page/Get_it_beauty.md" title="wikilink">Get it beauty</a>2019</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC標準FM" title="wikilink">MBC標準FM</a></p></td>
+<td><p><a href="../Page/IDOL_RADIO.md" title="wikilink">IDOL RADIO</a></p></td>
+<td><p>嘉賓</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
+<td><p><a href="../Page/Player_(韓國綜藝).md" title="wikilink">Player</a></p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -149,7 +161,7 @@ tagTV</p></td>
 <tr class="header">
 <th><p>|年份</p></th>
 <th><p>日期</p></th>
-<th><p>電視臺</p></th>
+<th><p>頻道</p></th>
 <th><p>電臺名稱</p></th>
 </tr>
 </thead>
@@ -279,10 +291,22 @@ tagTV</p></td>
 
 **官方連結**
 
-  - APRIL [官方網站](http://dspmedia.co.kr/april/)
+  - APRIL [官方網站](http://www.dspmedia.co.kr/artist/profile?ca_id=50)
+
   - APRIL [官方Daum cafe](http://cafe.daum.net/officialAPRIL)
+
   - APRIL [V頻道](http://www.vlive.tv/channels/FA59B)
 
+  -
+  -
+  -
+  -
+  -
+    <sup>(四月兒是April的吉祥物)</sup>
+
+<!-- end list -->
+
+  -
 **個人SNS**
 
   -

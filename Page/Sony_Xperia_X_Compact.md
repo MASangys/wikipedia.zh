@@ -92,7 +92,7 @@ LTE</p></td>
 </tr>
 <tr class="odd">
 <td><p>傳輸</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/NFC" title="wikilink">NFC</a> <a href="https://zh.wikipedia.org/wiki/microUSB" title="wikilink">microUSB</a> 2.0（含 <a href="https://zh.wikipedia.org/wiki/MHL" title="wikilink">MHL</a> 輸出）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/NFC" title="wikilink">NFC</a> <a href="../Page/USB_Type-C.md" title="wikilink">USB Type-C</a> 3.0（含 <a href="https://zh.wikipedia.org/wiki/MHL" title="wikilink">MHL</a> 輸出）<br />
 <a href="../Page/藍牙.md" title="wikilink">藍牙</a>4.2<a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> 802.11 a/ac/b/g/n</p></td>
 </tr>
 <tr class="even">

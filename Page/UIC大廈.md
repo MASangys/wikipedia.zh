@@ -21,23 +21,15 @@ UIC大廈於1973年完工，建築風格以[粗野主義為主](https://zh.wikip
 [Category:1973年完工建築物](https://zh.wikipedia.org/wiki/Category:1973年完工建築物 "wikilink") [Category:150米至199米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大樓 "wikilink") [Category:新加坡摩天大樓](https://zh.wikipedia.org/wiki/Category:新加坡摩天大樓 "wikilink") [Category:2013年廢除](https://zh.wikipedia.org/wiki/Category:2013年廢除 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.

@@ -4,7 +4,7 @@
 
 Syncthing于2013年12月30日首次公开其二进制版本（V0.2）。
 
-2014年10月，开发者决定将Syncthing重命名为“Pulse”\[2\]但在11月17日，开发商决定不变更Syncthing的名字，并不再与Ind.ie.工作。Ind.ie的“Pulse”现在是Syncthing官方认可的分支\[3\]
+2014年10月，开发者决定将Syncthing重命名为“Pulse”\[2\]但在11月17日，开发商决定不变更Syncthing的名字，并不再与Ind.ie.工作。Ind.ie的“Pulse”现在是Syncthing官方认可的分支\[3\]。
 
 ## 媒体关注
 

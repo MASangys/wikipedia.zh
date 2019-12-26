@@ -27,27 +27,16 @@
 [Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:科幻电子游戏](https://zh.wikipedia.org/wiki/Category:科幻电子游戏 "wikilink") [Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink") [Category:反烏托邦遊戲](https://zh.wikipedia.org/wiki/Category:反烏托邦遊戲 "wikilink") [Category:文明崩潰后世界題材遊戲](https://zh.wikipedia.org/wiki/Category:文明崩潰后世界題材遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:Key遊戲](https://zh.wikipedia.org/wiki/Category:Key遊戲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.

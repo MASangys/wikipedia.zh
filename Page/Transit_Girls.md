@@ -9,28 +9,28 @@
 〈〉内为設定年龄。
 
   - 葉山 小百合〈18〉
-    演员 - [伊藤沙莉](../Page/伊藤沙莉.md "wikilink") (日本)
+    演员 - [伊藤沙莉](../Page/伊藤沙莉.md "wikilink") (日本) ; [何凱怡](../Page/何凱怡.md "wikilink") (香港配音)
     故事主角。高中3年级生。
-  - 志田 ゆい〈21〉
-    演员 - [佐久間由衣](../Page/佐久間由衣.md "wikilink") (日本) ; [何凱怡](../Page/何凱怡.md "wikilink") (香港)
+  - 志田 由衣〈21〉
+    演员 - [佐久間由衣](../Page/佐久間由衣.md "wikilink") (日本) ; [王綺婷](../Page/王綺婷.md "wikilink") (香港配音)
     故事另一主角。目标是成为专业摄影师。
   - 深澤 直〈18〉
-    演员 - [健太郎](https://zh.wikipedia.org/wiki/健太郎 "wikilink") (日本)
+    演员 - [健太郎](https://zh.wikipedia.org/wiki/健太郎 "wikilink") (日本); [竺諺鴻](../Page/竺諺鴻.md "wikilink") (香港配音)
     小百合的童年朋友和高中同学。
   - 門脇 未來〈17〉
     演员 - [吉田-{里}-琴](https://zh.wikipedia.org/wiki/吉田里琴 "wikilink")
     小百合的高中同学。
   - 倉田 葵〈18〉
-    演员 - [渡辺恵伶奈](https://zh.wikipedia.org/wiki/渡辺恵伶奈 "wikilink")
+    演员 - [渡辺恵伶奈](https://zh.wikipedia.org/wiki/渡辺恵伶奈 "wikilink"); [王夢華](../Page/王夢華.md "wikilink") (香港配音)
     小百合的高中同学。
   - 佐伯 柳太朗
-    演员 - [尚玄](https://zh.wikipedia.org/wiki/尚玄 "wikilink") (日本) ; [楊耀泰](../Page/楊耀泰.md "wikilink") (香港)
+    演员 - [尚玄](https://zh.wikipedia.org/wiki/尚玄 "wikilink") (日本) ; [楊耀泰](../Page/楊耀泰.md "wikilink") (香港配音)
     专业摄影师。
   - 志田 まどか
-    演员 - [雾岛丽香](../Page/雾岛丽香.md "wikilink") (日本) ; [莎拉](../Page/莎拉.md "wikilink") (香港)
-    ゆい的母親。
+    演员 - [雾岛丽香](../Page/雾岛丽香.md "wikilink") (日本) ; [莎拉](../Page/莎拉.md "wikilink") (香港配音)
+    由衣的母親。
   - 葉山 圭吾
-    演员 - [Mummy-D](https://zh.wikipedia.org/wiki/Mummy-D "wikilink") (日本) ; [何偉誠](../Page/何偉誠.md "wikilink") (香港)
+    演员 - [Mummy-D](https://zh.wikipedia.org/wiki/Mummy-D "wikilink") (日本) ; [何偉誠](../Page/何偉誠.md "wikilink") (香港配音)
     小百合的父親。
 
 ## 工作人员

@@ -72,32 +72,20 @@
 [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:防彈少年團音樂專輯](https://zh.wikipedia.org/wiki/Category:防彈少年團音樂專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink") [Category:波麗佳音音樂專輯](https://zh.wikipedia.org/wiki/Category:波麗佳音音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.
 18.

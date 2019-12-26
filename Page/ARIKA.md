@@ -111,5 +111,4 @@
 [Category:1995年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1995年開業電子遊戲公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink")
 
 1.
-
 2.

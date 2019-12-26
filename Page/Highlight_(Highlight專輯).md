@@ -234,16 +234,10 @@
 [Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.

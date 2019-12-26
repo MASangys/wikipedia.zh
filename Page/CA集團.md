@@ -343,16 +343,10 @@ CA集團的愛情電影事業\[8\]。
 [Category:1990年成立的公司](https://zh.wikipedia.org/wiki/Category:1990年成立的公司 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink") [Category:日本色情片公司](https://zh.wikipedia.org/wiki/Category:日本色情片公司 "wikilink") [Category:六本木](https://zh.wikipedia.org/wiki/Category:六本木 "wikilink")
 
 1.  [JP WHOIS /JPRS](http://whois.jprs.jp/)における、ドメイン名「outvision.co.jp」の検索結果より参照。
-
 2.
-
 3.  参考文献（金沢誠のコラム）を参照
-
 4.
 5.  官報、2008年10月22日
-
 6.  [株式会社CAの企業情報 - Coojin 求人情報検索（10046826）](http://www.coojin.com/cp10046826.html)
-
 7.  AV OPEN 2015にて企画部門1位を獲得できなかったため公約により改名した。[公式ツイート](https://twitter.com/bibibi_25/status/666465865760530432)
-
 8.

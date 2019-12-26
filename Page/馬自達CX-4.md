@@ -42,7 +42,7 @@
 1.  [马自达将率先在中国投放最新型SUV](http://cn.nikkei.com/industry/icar/18669-20160314.html)
 2.  [TopGear: Mazda's Koeru concept is a swoopy-backed SUV](http://www.topgear.com/car-news/frankfurt-motor-show/mazdas-koeru-concept-swoopy-backed-suv)。
 3.  [【MAZDA】マツダ、新型クロスオーバーSUV「CX-4」を世界初公開](http://www2.mazda.com/ja/publicity/release/2016/201604/160425b.html)。
-4.  請見[【MAZDA】製品一覽](http://www.mazda.co.jp/corporate/profile/products/index.html)一文。
+4.  請見[【MAZDA】製品一覽](http://www.mazda.co.jp/corporate/profile/products/index.html) 一文。
 5.  [一汽馬自達：售價16.08萬元 CX-4探索版限量發售](http://www.faw-mazda.com/index.php/detail/Information/3372)。
 6.  [C-NCAP安全碰撞試驗結果](http://www.c-ncap.org/app/cncap/pzsj.jsp?pzid=5434)、[CX-4獲C-NCAP五星認證](http://www.fawcar.com.cn/faw_online/news/xxdt/jgxw/20170912085600057.htm)。
 7.  [汽車之家：存熄火隱患，一汽馬自達召回5618輛CX-4](http://www.autohome.com.cn/news/201612/896705.html)。

@@ -272,10 +272,10 @@ GFRIEND的完美通殺從2月6日上午的9點開始，持續至2月12日。長�
 
 [Category:GFRIEND](https://zh.wikipedia.org/wiki/Category:GFRIEND "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:GFRIEND音乐专辑](https://zh.wikipedia.org/wiki/Category:GFRIEND音乐专辑 "wikilink") [Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:2016年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon單曲週榜冠軍作品 "wikilink") [Category:2016年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon單曲月榜冠軍作品 "wikilink") [Category:2016年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2010年代Gaon數位下載年榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年代Gaon數位下載年榜冠軍作品 "wikilink")
 
-1.  [回歸概念照、曲目表](http://kpopn.niusnews.com/=K1r4b4x2)
+1.
 2.  [GFRIEND新專輯《Snowflake》宣傳照濃濃學院風](http://www.koreastardaily.com/tc/photo/72691)
 3.  [GFRIEND新歌《Rough》預告片公開 月底回歸](http://www.koreastardaily.com/tc/news/72910)
-4.  [《Rough》第二波預告](http://kpopn.niusnews.com/=K3wpkk85)
-5.  [《Snowflake》試聽](http://kpopn.niusnews.com/=K3fstqj0)
-6.  [新曲《Rough》MV](http://kpopn.niusnews.com/=K1r4cbx2)
+4.
+5.
+6.
 7.

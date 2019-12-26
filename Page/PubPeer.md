@@ -39,32 +39,18 @@ PubPeer有些用戶曾被指控[诽谤](../Page/诽谤.md "wikilink")，有些�
 [Category:學術出版](https://zh.wikipedia.org/wiki/Category:學術出版 "wikilink") [Category:同行評審](https://zh.wikipedia.org/wiki/Category:同行評審 "wikilink") [Category:科學方法](https://zh.wikipedia.org/wiki/Category:科學方法 "wikilink") [Category:學術評論](https://zh.wikipedia.org/wiki/Category:學術評論 "wikilink") [Category:2012年建立的网站](https://zh.wikipedia.org/wiki/Category:2012年建立的网站 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16.

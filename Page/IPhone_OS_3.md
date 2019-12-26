@@ -138,62 +138,36 @@ shuffle模式：如果正在運行iPod App，只需晃動裝置一下，裝置�
 [Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
 
 1.
-
 2.   \#1 iPhone, iPad, iOS Blog|accessdate=2018-07-24|language=en-US|archive-url=[https://web.archive.org/web/20120521025426/http://www.iphonehacks.com/2010/06/iphone-os-4-now-called-ios-4-release-date-june-21.html|archive-date=2012-05-21|dead-url=no](https://web.archive.org/web/20120521025426/http://www.iphonehacks.com/2010/06/iphone-os-4-now-called-ios-4-release-date-june-21.html%7Carchive-date=2012-05-21%7Cdead-url=no)}}
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.  Cult of Mac|date=2009-09-09|newspaper=Cult of Mac|accessdate=2018-07-30|language=en-US}}
-
 15.
 16.
 17.
 18.
-
 19.
-
 20.
-
 21.  Redmond Pie|date=2009-10-10|newspaper=Redmond Pie|accessdate=2018-07-30|language=en-US}}
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
 30.
-
 31.
-
 32.
-
 33.
 34.

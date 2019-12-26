@@ -117,6 +117,10 @@
 |    8     |       M247        |
 |    9     |        M9         |
 
+## 圖片集
+
+<File:Transmac> K260 AP1X.jpg|蘇州金龍KLQ6108GQ28E4 <File:Transmac> K219 AP1X.jpg|蘇州金龍KLQ6108GQ28 <File:Transmac> K178 AP1X.jpg|蘇州金龍KLQ6108GQ30 <File:Transmac> K228 AP1X.jpg|蘇州金龍KLQ6108GQ28
+
 ## 參考資料
 
 ## 相關條目

@@ -7,9 +7,9 @@ local su = require('Module:Su')._main
 local function makeWikilink(link, display)
 
 `   if display then`
-`       return string.format('`[`%s`](../Page/%s.md "wikilink")`', link, display)`
+`       return string.format('`[`%s`](https://zh.wikipedia.org/wiki/%s "wikilink")`', link, display)`
 `   else`
-`       return string.format('`[`%s`](../Page/%s.md "wikilink")`', link)`
+`       return string.format('`[`%s`](https://zh.wikipedia.org/wiki/%s "wikilink")`', link)`
 `   end`
 
 end

@@ -363,8 +363,6 @@
 [分類:日本配音員團體](https://zh.wikipedia.org/wiki/分類:日本配音員團體 "wikilink") [分類:日本演唱團體](https://zh.wikipedia.org/wiki/分類:日本演唱團體 "wikilink") [分類:動畫歌手](https://zh.wikipedia.org/wiki/分類:動畫歌手 "wikilink") [分類:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/分類:愛貝克思集團藝人 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

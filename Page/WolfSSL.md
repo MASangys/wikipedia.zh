@@ -251,21 +251,13 @@ wolfSSL [开放源代码](../Page/开放源代码.md "wikilink"), 根据GNU通�
 [Category:C_libraries](https://zh.wikipedia.org/wiki/Category:C_libraries "wikilink") [Category:Cryptographic_software](https://zh.wikipedia.org/wiki/Category:Cryptographic_software "wikilink") [Category:Transport_Layer_Security_implementation](https://zh.wikipedia.org/wiki/Category:Transport_Layer_Security_implementation "wikilink") [Category:加密软件](https://zh.wikipedia.org/wiki/Category:加密软件 "wikilink") [Category:C函式庫](https://zh.wikipedia.org/wiki/Category:C函式庫 "wikilink") [Category:自由安全软件](https://zh.wikipedia.org/wiki/Category:自由安全软件 "wikilink")
 
 1.  [OpenSSL: Source, License](https://www.openssl.org/source/license.html)
-
 2.  [wolfSSL - License](https://www.wolfssl.com/wolfSSL/License.html)
-
 3.
 4.
-
 5.   Chapter 4: Features {{\!}} Documentation|newspaper=wolfSSL|accessdate=2018-06-18|language=en-US}}
-
 6.  [wolfSSL - Docs | wolfSSL Manual - Chapter 10 (wolfCrypt Usage Reference)](https://www.wolfssl.com/wolfSSL/Docs-wolfssl-manual-10-wolfcrypt-usage-reference.html)
-
 7.  [Kerberos: The Network Authentication Protocol](http://web.mit.edu/kerberos/)
-
 8.  [NTRU CryptoLabs](http://securityinnovation.com/cryptolab/)
-
 9.
 10. [Intel SGX](https://zh.wikipedia.org/wiki/Software_Guard_Extensions "wikilink")
-
 11. [GNU License](https://www.gnu.org/licenses/license-list.html)

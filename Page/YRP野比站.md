@@ -251,60 +251,32 @@ YRP野比站月台
 [Category:日本鐵路車站_Wa](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Wa "wikilink") [Category:橫須賀市鐵路車站](https://zh.wikipedia.org/wiki/Category:橫須賀市鐵路車站 "wikilink") [Category:久里濱線車站](https://zh.wikipedia.org/wiki/Category:久里濱線車站 "wikilink") [Category:1963年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1963年啟用的鐵路車站 "wikilink")
 
 1.
-
 2.  [セブンイレブン 京急ST YRP野比店](http://www.keikyu-sc.com/shop/store/detail/post-112.html) - 京急ステーションコマース
-
 3.  [新宿さぼてん デリカ YRP野比駅前店](http://www.ghf.co.jp/shop/sid-356/) - 株式会社グリーンハウス
-
 4.   - 33ページ
-
 5.  [横須賀市統計書](https://www.city.yokosuka.kanagawa.jp/0210/data/t-k-syo/now.html)  - 横須賀市
-
 6.  [各種報告書](http://www.train-media.net/report/index.html)  - 関東交通広告協議会
-
 7.  [神奈川県県勢要覧](http://www.pref.kanagawa.jp/cnt/f160349/)
-
 8.   - 24ページ
-
 9.  神奈川県県勢要覧（平成12年度）225ページ
-
 10.  - 227ページ
-
 11.
 12.  - 225ページ
-
 13.  - 225ページ
-
 14.
-
 15.  - 225ページ
-
 16.
-
 17.  - 227ページ
-
 18.
-
 19.  - 227ページ
-
 20.  - 229ページ
-
 21.  - 233ページ
-
 22.  - 243ページ
-
 23.  - 241ページ
-
 24.  - 241ページ
-
 25.  - 237ページ
-
 26.  - 239ページ
-
 27.  - 241ページ
-
 28.  - 241ページ
-
 29.  - 249ページ
-
 30.

@@ -1,4 +1,4 @@
-《**Real+**》是韩国创作歌手[IU的第四张韩语迷你专辑](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")。
+《**Real+**》是韩国创作歌手[IU的韓語單曲專輯](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")，同時也為第三張迷你專輯《[Real](https://zh.wikipedia.org/wiki/Real_\(IU_EP\) "wikilink")》的後續專輯。
 
 ## 曲目
 

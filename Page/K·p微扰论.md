@@ -61,7 +61,6 @@
 [Category:固体物理学](https://zh.wikipedia.org/wiki/Category:固体物理学 "wikilink")
 
 1.
-
 2.
 3.
 4.
@@ -74,9 +73,6 @@
 11.
 12.
 13. 参见[Fundamentals of Semiconductors: Physics and Materials Properties](http://books.google.com/books?id=W9pdJZoAeyEC&pg=PA244&dq=isbn:3540254706#PPA71,M1)一书中表2.22
-
 14.
-
 15.
-
 16.

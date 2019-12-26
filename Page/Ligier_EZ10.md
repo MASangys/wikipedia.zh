@@ -11,10 +11,7 @@ EZ-10的設計目的，是一種短途的迷你巴士（Mini shuttle），用於
 [Category:概念车](https://zh.wikipedia.org/wiki/Category:概念车 "wikilink") [Category:都市車](https://zh.wikipedia.org/wiki/Category:都市車 "wikilink") [Category:電動汽車](https://zh.wikipedia.org/wiki/Category:電動汽車 "wikilink") [Category:自動駕駛汽車](https://zh.wikipedia.org/wiki/Category:自動駕駛汽車 "wikilink") [Category:2014年面世的交通工具](https://zh.wikipedia.org/wiki/Category:2014年面世的交通工具 "wikilink") [Category:無人地面載具](https://zh.wikipedia.org/wiki/Category:無人地面載具 "wikilink") [Category:巴士](https://zh.wikipedia.org/wiki/Category:巴士 "wikilink") [Category:法國汽車車種](https://zh.wikipedia.org/wiki/Category:法國汽車車種 "wikilink")
 
 1.  目前無官方中文名，本文為直譯
-
 2.
-
 3.
 4.
-
 5.

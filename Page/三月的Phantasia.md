@@ -204,16 +204,10 @@ VVCL-1172/3</p></td>
 [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink") [Category:日本作詞家](https://zh.wikipedia.org/wiki/Category:日本作詞家 "wikilink") [Category:動畫音樂作曲家](https://zh.wikipedia.org/wiki/Category:動畫音樂作曲家 "wikilink") [Category:日本編曲家](https://zh.wikipedia.org/wiki/Category:日本編曲家 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.

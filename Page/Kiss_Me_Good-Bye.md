@@ -29,20 +29,13 @@
 [Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink") [Category:遊戲主題曲](https://zh.wikipedia.org/wiki/Category:遊戲主題曲 "wikilink") [Category:最终幻想的音乐](https://zh.wikipedia.org/wiki/Category:最终幻想的音乐 "wikilink") [Category:日语歌曲](https://zh.wikipedia.org/wiki/Category:日语歌曲 "wikilink") [Category:親吻題材歌曲](https://zh.wikipedia.org/wiki/Category:親吻題材歌曲 "wikilink")
 
 1.
-
 2.
 3.  [TWELVE DAYS OF FINAL FANTASY: ANGELA AKI INTERVIEW PART 1](http://uk.ign.com/articles/2006/10/27/twelve-days-of-final-fantasy-angela-aki-interview-part-1).IGN.2006-10-27.\[2015-05-08\].
-
 4.
 5.
 6.  [PS2「ファイナルファンタジーXII」試遊レポート ステージイベントでは植松氏がテーマソングを発表](http://game.watch.impress.co.jp/docs/20050730/ffxii.htm).GameWatch.2005-07-30.\[2015-05-08\].
-
 7.  [「ファイナルファンタジーXII」発売記念ミニライブ開催 アンジェラさんと植松氏が「Kiss Me Good-Bye」制作秘話を披露](http://game.watch.impress.co.jp/docs/20060316/fflive.htm).GameWatch.2006-03-16.\[2015-05-08\].
-
 8.  [Kiss Me Good-Bye【初回生産限定盤】](http://www.sonymusic.co.jp/Music/Arch/ES/AngelaAki/ESCL-2808/index.html).Sony Music Japan.\[2015-05-08\].
-
 9.  [Angela Aki簡介](http://www.epic-jp.net/ch/AngelaAki/bio.html).Epic Records Japan.\[2015-05-04\].
-
 10.
-
 11. [THE IDOLM@STER MASTER ARTIST 07 Miura Azusa](http://columbia.jp/idolmaster/2007new/COCX-34393.html).NIPPON COLUMBIA.\[2015-05-07\].

@@ -4,7 +4,7 @@
 
 ## 第一季（2012年）
 
-第一季由韩国Hiphop界经验丰富的Rapper导师、、45RPM、、[Miryo](../Page/趙美慧.md "wikilink")、、和与参赛的新秀Rapper进行两两合作表演。\[4\]由K-pop团体[水晶男孩](../Page/水晶男孩.md "wikilink")成员[殷志源担任此季主持](https://zh.wikipedia.org/wiki/殷志源 "wikilink")。\[5\]引人注目的选手包括[Cheetah](../Page/Cheetah.md "wikilink")，是节目中为数不多的女Rapper参赛者，后赢得了[Unpretty Rapstar第一季的冠军](../Page/Unpretty_Rapstar.md "wikilink")。\[6\]\[7\]新秀Rapper [Loco](../Page/Loco.md "wikilink")在Double K的指导下赢得了此季的冠军，并签约了Hiphop厂牌。后来他以制作人的身份出演了第四季的节目。\[8\]
+第一季由韩国Hiphop界经验丰富的Rapper导师、、45RPM、、[Miryo](../Page/趙美慧.md "wikilink")、、和与参赛的新秀Rapper进行两两合作表演。\[4\]由K-pop团体[水晶男孩](../Page/水晶男孩.md "wikilink")成员[殷志源担任此季主持](https://zh.wikipedia.org/wiki/殷志源 "wikilink")。\[5\]引人注目的选手包括[Cheetah](../Page/Cheetah.md "wikilink")，是节目中为数不多的女Rapper参赛者，后赢得了[Unpretty Rapstar第一季的冠军](../Page/Unpretty_Rapstar.md "wikilink")。\[6\]\[7\]新秀Rapper [Loco](../Page/Loco.md "wikilink")在Double K的指导下赢得了此季的冠军，并签约了Hiphop厂牌[AOMG](../Page/AOMG.md "wikilink")。后来他以制作人的身份出演了第四季的节目。\[8\]
 
 ## 第二季（2013年）
 
@@ -38,11 +38,11 @@ WuTan</p></td>
 
 ## 第四季（2015年）
 
-SMTM第四季的导师分别由[YG的](../Page/YG娛樂.md "wikilink")[Jinusean](../Page/Jinusean.md "wikilink")、[Tablo](https://zh.wikipedia.org/wiki/李善雄 "wikilink")；[Brand New Music的](../Page/Brand_New_Music.md "wikilink")、[San E](../Page/San_E.md "wikilink")；的[朴載範](../Page/朴載範.md "wikilink")、[Loco](../Page/Loco.md "wikilink")以及的与[Block B的成员](../Page/Block_B.md "wikilink")[Zico担任](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")。在此季有越来越多的偶像团体Rapper及退伍军人参赛，最著名的是组合[WINNER](../Page/WINNER.md "wikilink")的成员[MINO以及退伍军人](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")，韩国Hiphop界代表性人物也作为选手参与到此季比赛。许多第三季的参赛选手也回归到了此季。本赛季冠军由[Basick及他的制作人团队](https://zh.wikipedia.org/wiki/Basick "wikilink")[Brand New Music的](../Page/Brand_New_Music.md "wikilink")[San E](../Page/San_E.md "wikilink")、获得。
+SMTM第四季的导师分别由[YG的](../Page/YG娛樂.md "wikilink")[Jinusean](../Page/Jinusean.md "wikilink")、[Tablo](https://zh.wikipedia.org/wiki/李善雄 "wikilink")；[Brand New Music的](../Page/Brand_New_Music.md "wikilink")、[San E](../Page/San_E.md "wikilink")；[AOMG](../Page/AOMG.md "wikilink")的[朴載範](../Page/朴載範.md "wikilink")、[Loco](../Page/Loco.md "wikilink")以及的与[Block B的成员](../Page/Block_B.md "wikilink")[Zico担任](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")。在此季有越来越多的偶像团体Rapper及退伍军人参赛，最著名的是组合[WINNER](../Page/WINNER.md "wikilink")的成员[MINO以及退伍军人](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")，韩国Hiphop界代表性人物也作为选手参与到此季比赛。许多第三季的参赛选手也回归到了此季。本赛季冠军由[Basick及他的制作人团队](https://zh.wikipedia.org/wiki/Basick "wikilink")[Brand New Music的](../Page/Brand_New_Music.md "wikilink")[San E](../Page/San_E.md "wikilink")、获得。
 
 ## 第五季（2016年）
 
-第五季由4组不同的制作人团队组成，分别为的[Simon D](../Page/Simon_D.md "wikilink")、[Gray](../Page/Gray_\(歌手\).md "wikilink")；[YG娛樂](../Page/YG娛樂.md "wikilink")的、[Zion.T](../Page/Zion.T.md "wikilink")；[ILLIONAIRE的](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")[Dok2](../Page/Dok2.md "wikilink")、[The Quiett以及](../Page/The_Quiett.md "wikilink")[Gill和](../Page/吉成俊.md "wikilink")[Mad Clown](../Page/Mad_Clown.md "wikilink")。节目还于美国洛杉矶海选时特邀[Timbaland作为特别评审](../Page/提姆巴蘭.md "wikilink")。与往季相比，此季有更多的韩国Hiphop界流行及知名的Rapper作为选手参与比赛，如、、[C Jamm](../Page/C_Jamm.md "wikilink")、[BewhY](../Page/BewhY.md "wikilink")、Onesun、珍岛狗、、、Snacky Chan、[One](https://zh.wikipedia.org/wiki/鄭帝元 "wikilink")、、、Junoflo、[Superbee和](https://zh.wikipedia.org/wiki/Superbee "wikilink")等。本赛季冠军由[BewhY](../Page/BewhY.md "wikilink")及他的制作人团队的[Simon D](../Page/Simon_D.md "wikilink")、[Gray获得](../Page/Gray_\(歌手\).md "wikilink")。
+第五季由4组不同的制作人团队组成，分别为[AOMG](../Page/AOMG.md "wikilink")的[Simon D](../Page/Simon_D.md "wikilink")、[Gray](../Page/Gray_\(歌手\).md "wikilink")；[YG娛樂](../Page/YG娛樂.md "wikilink")的、[Zion.T](../Page/Zion.T.md "wikilink")；[ILLIONAIRE的](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")[Dok2](../Page/Dok2.md "wikilink")、[The Quiett以及](../Page/The_Quiett.md "wikilink")[Gill和](../Page/吉成俊.md "wikilink")[Mad Clown](../Page/Mad_Clown.md "wikilink")。节目还于美国洛杉矶海选时特邀[Timbaland作为特别评审](../Page/提姆巴蘭.md "wikilink")。与往季相比，此季有更多的韩国Hiphop界流行及知名的Rapper作为选手参与比赛，如、、[C Jamm](../Page/C_Jamm.md "wikilink")、[BewhY](../Page/BewhY.md "wikilink")、Onesun、珍岛狗、、、Snacky Chan、[One](https://zh.wikipedia.org/wiki/鄭帝元 "wikilink")、、、Junoflo、[Superbee和](https://zh.wikipedia.org/wiki/Superbee "wikilink")等。本赛季冠军由[BewhY](../Page/BewhY.md "wikilink")及他的制作人团队[AOMG](../Page/AOMG.md "wikilink")的[Simon D](../Page/Simon_D.md "wikilink")、[Gray获得](../Page/Gray_\(歌手\).md "wikilink")。
 
 ## 第六季（2017年）
 
@@ -1273,44 +1273,24 @@ SMTM第四季的导师分别由[YG的](../Page/YG娛樂.md "wikilink")[Jinusean]
 [Category:正在播放的電視節目](https://zh.wikipedia.org/wiki/Category:正在播放的電視節目 "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.  Soompi|accessdate=2018-04-26|work=soompi|language=en}}
-
 16.  Soompi|accessdate=2018-04-26|work=soompi|language=en}}
-
 17.
-
 18.  Soompi|accessdate=2018-04-26|work=soompi|language=en}}
-
 19.
-
 20. N分之1累计销量：
-
 21. 集合到大厅累计销量：
-
 22. Killin it累计销量：

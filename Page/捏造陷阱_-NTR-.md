@@ -278,48 +278,31 @@ ISBN 978-4-7580-7716-3（特裝版）</p></td>
   - [電視動畫「捏造陷阱 -NTR-」動畫公式官網](http://netsuzoutrap.com/)
 
   -
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:GL漫畫](https://zh.wikipedia.org/wiki/Category:GL漫畫 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:Comic百合姬](https://zh.wikipedia.org/wiki/Category:Comic百合姬 "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:Creators_in_Pack](https://zh.wikipedia.org/wiki/Category:Creators_in_Pack "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:GL漫畫](https://zh.wikipedia.org/wiki/Category:GL漫畫 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:Comic百合姬](https://zh.wikipedia.org/wiki/Category:Comic百合姬 "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:Creators_in_Pack](https://zh.wikipedia.org/wiki/Category:Creators_in_Pack "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:戀愛动畫](https://zh.wikipedia.org/wiki/Category:戀愛动畫 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
 15.
-
 16.
 17.
 18.
 19.
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
 26.

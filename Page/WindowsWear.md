@@ -67,8 +67,8 @@ Windowswear曾被多家知名媒体报道，例如Vogue日本版 \[23\] ，墨�
 20. “Un tour hecho a la medida para los amantes de la moda en NY”,2014. Retrieved 15 July 2015
 21. Julie Steinberg \[<https://jonharari.files.wordpress.com/2015/07/scan_wall_street_journal_wsj_article-for_lehman_brothers_windowswear_jonharari4.pdf>:”Jon Harari and Mike Niemtzow\] 13 September 2013. Retrieved on 15 July 2015
 22. Christine Neff. \[<https://s3.amazonaws.com/presspictures/USA-Today-12-14-Article.png>: “Walking tours showcase the best-dressed windows in NYC”\] Retrieved on 15 July 2015
-23. Yo-douglas <http://www.vogue.co.jp/blog/yo-douglas/archives/79> Retrieved on 15 July 2015
-24. Renata, Julia.\[<http://www.vogue.mx/articulos/compras-en-linea-online-windows-wear/3268>" “Del escaparate a tu armario: Windows Wear presenta su propuesta para llevar a un click las vitrinas top a tu hogar.”\] 17 January 2014. Retrieved on 15 July 2015
+23. Yo-douglas <http://www.vogue.co.jp/blog/yo-douglas/archives/79>  Retrieved on 15 July 2015
+24. Renata, Julia.\[<http://www.vogue.mx/articulos/compras-en-linea-online-windows-wear/3268>" “Del escaparate a tu armario: Windows Wear presenta su propuesta para llevar a un click las vitrinas top a tu hogar.”\]  17 January 2014. Retrieved on 15 July 2015
 25. Lauren Levinson \[<http://www.elle.com/fashion/news/a22414/windowswear-website-launch-holiday-windows/?click=news“Exclusive>: New WindowsWear Site Showcases Fashion Windows in Real-Time”\] 19 November 2012. Retrieved on 15 July 2015
 26. [8](http://www.elle.ru/moda/novosty/novyj-sajt-windowswear-iz-zhizni-vitrin/) 20 November 2012. Retrieved on 15 July 2015
 27. Amy Wicks [Can Start Browsing Those Stunning Holiday Windows Now, Without Leaving Home”](http://www.glamour.com/fashion/blogs/dressed/2012/11/you-can-start-browsing-those-s”You) 19 November 2012. Retrieved on 15 July 2015

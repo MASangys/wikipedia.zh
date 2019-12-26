@@ -512,36 +512,20 @@ Sung-hui Han</p></td>
 [Category:2011年小說](https://zh.wikipedia.org/wiki/Category:2011年小說 "wikilink") [Category:Fami通文庫](https://zh.wikipedia.org/wiki/Category:Fami通文庫 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:2015年電子遊戲](https://zh.wikipedia.org/wiki/Category:2015年電子遊戲 "wikilink") [Category:2016年電子遊戲](https://zh.wikipedia.org/wiki/Category:2016年電子遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:機器人题材作品](https://zh.wikipedia.org/wiki/Category:機器人题材作品 "wikilink") [Category:架空歷史作品](https://zh.wikipedia.org/wiki/Category:架空歷史作品 "wikilink") [Category:外星生命入侵地球題材遊戲](https://zh.wikipedia.org/wiki/Category:外星生命入侵地球題材遊戲 "wikilink") [Category:德國背景作品](https://zh.wikipedia.org/wiki/Category:德國背景作品 "wikilink") [Category:1980年代背景作品](https://zh.wikipedia.org/wiki/Category:1980年代背景作品 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.  [シュヴァルツェスマーケン 公式サイト](https://web.archive.org/web/20151228105721/http://schwarzesmarken.jp/schwarzesmarken/index.html)ixtl
-
 2.  [Schwarzesmarken](https://vndb.org/v14910)The Visual Novel Database
-
 3.  [『シュヴァルツェスマーケン』内田弘樹さんインタビュー 3](http://ln-news.com/archives/10719/sm_aisaka/3/)ラノベニュースオンライン
-
 4.  「シバケン」和「しばけん」的日語讀音相同
-
 5.  [『マブラヴ オルタネイティヴ』公式メカ設定資料集 MUV-LUV ALTERNATIVE INTEGRAL WORKS](https://www.enterbrain.co.jp/product/mook/mook_tech_gian/212_tg_style/07325301)enterbrain
-
 6.  [「シュヴァルツェスマーケン」吉宗鋼紀×内田弘樹対談（前編）―内田先生のゴリゴリの世界観が見たい 1](http://animeanime.jp/article/2016/03/23/27592.html)アニメ！アニメ！
-
 7.  [『シュヴァルツェスマーケン』内田弘樹さんインタビュー 2](http://ln-news.com/archives/10719/sm_aisaka/2/)ラノベニュースオンライン
-
 8.
 9.  [Schwarzesmarken (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=17670)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
-
 10. [シュヴァルツェスマーケン(2016)](http://www.allcinema.net/prog/show_c.php?num_c=354178)allcinema
-
 11. [fripSide、アニメ版＆PC版「シュヴァルツェスマーケン」主題歌担当](http://natalie.mu/music/news/165371)音楽ナタリー
-
 12. [科幻輕小說改編動畫《Schwarzesmarken》第2彈宣傳影片發表，片尾曲『哀しみが時代を駆ける』於片中搶先提供試聽！](http://www.animen.com.tw/NewsArea/NewsItemDetail?NewsId=14495&categoryId=800&realCategoryId=1&subCategoryId=5)Animen
-
 13. [シュヴァルツェスマーケン 紅血の紋章](http://www.4gamer.net/games/318/G031880/)[4Gamer.net](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")
-
 14. [シュヴァルツェスマーケン 殉教者たち](http://www.getchu.com/soft.phtml?id=853838)Getchu.com
-
 15. [怪奇！ 着ぐるみ政治将校](http://kiminozo-radio.jp/kaiki/index.htm) âge
-
 16. [シュヴァルツェスマーケン 紅血の紋章](http://erogetrailers.com/soft/11935)ErogeTrailers
-
 17. [シュヴァルツェスマーケン 殉教者たち](http://erogetrailers.com/soft/13295)ErogeTrailers
-
 18. [HPもオープンなのであります！(￣^￣)ゞ新番組「ラジオ シュヴァルツェスマーケン」は日曜夜に放送中\!\!](http://www.agqr.jp/topics/archives/_104.php)超！A\&G

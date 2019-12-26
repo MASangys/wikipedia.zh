@@ -14,8 +14,6 @@
 
 故事始於2015年，主角Simon Jarrett在車禍中倖存，但腦部受了重創以及腦內出血。為了治好他的傷，Simon同意接受由一位研究生David Munshi幫他做實驗性的腦部掃描。在進行中，Simon昏了過去，等他意識回覆後卻發現自己身處廢棄潛水艇中在名為Site Upsilon (Y) PATHOS-II的研究中心。在Simon探索Upsilon時，和名叫Catherine Chun的女性連絡上了。Catherine請他到Site Lambda並告訴他現在是2104年，一年前一顆彗星破壞了地球，PATHOS-II成了人類在地球上最後一個基地。探索的路程中，Simon相繼遇上自以為是人類的機器人，也得躲避充滿敵意的機器人和變種。
 
-
-
 ## 銷售量與評價
 
 《SOMA》發行後不到十天 ( 截止至2015年10十月1日 ) 銷售量已經達到了92,000份。\[9\] Frictional Games原本的目標只是在第一個月內銷售100,000份。總銷售量達近300,000份即可回本。\[10\]
@@ -39,22 +37,15 @@
 [Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:恐怖遊戲](https://zh.wikipedia.org/wiki/Category:恐怖遊戲 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:獨立遊戲](https://zh.wikipedia.org/wiki/Category:獨立遊戲 "wikilink") [Category:瑞典开发电子游戏](https://zh.wikipedia.org/wiki/Category:瑞典开发电子游戏 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
 8.
-
 9.
-
 10.
-
 11.
 12.
 13.

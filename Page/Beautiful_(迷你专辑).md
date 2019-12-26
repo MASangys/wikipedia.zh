@@ -94,36 +94,20 @@
 [Category:F(x)](https://zh.wikipedia.org/wiki/Category:F\(x\) "wikilink") [Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16.
-
 17.
-
 18.

@@ -32,7 +32,7 @@ How E. Jaques-Dalcroze Put Rhythm at the Center of His Wort, Geneva in Congres d
 
 [Reinhard Ring - 中央音乐学院音乐教育学院客座教授](http://iome.ccom.edu.cn/teaching-internships/external-experts/)
 
-[Reinhard Ring作为“达尔克罗兹150周年庆典”报告人](http://kulturellebildung.de/fa/user/Fachbereiche/Musik_Rhythmik/Veranstaltungen/Rhythmikfestival_15/Rhythmikfestival_d_19-02-2015.pdf)
+[Reinhard Ring作为“达尔克罗兹150周年庆典”报告人](https://web.archive.org/web/20161111061337/http://kulturellebildung.de/fa/user/Fachbereiche/Musik_Rhythmik/Veranstaltungen/Rhythmikfestival_15/Rhythmikfestival_d_19-02-2015.pdf)
 
 [Reinhard Ring讲座纪实，于中央音乐学院«世界音乐周2015»](http://zhuanti.ccom.edu.cn/2015sjyyz/xwbd/201511/t20151114_38609.html)
 

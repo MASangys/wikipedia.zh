@@ -11,17 +11,11 @@ SpaceX的執行長[埃隆·马斯克](https://zh.wikipedia.org/wiki/埃隆·马�
 [Category:2015年6月](https://zh.wikipedia.org/wiki/Category:2015年6月 "wikilink") [Category:2015年科學](https://zh.wikipedia.org/wiki/Category:2015年科學 "wikilink") [Category:2015年美國](https://zh.wikipedia.org/wiki/Category:2015年美國 "wikilink") [Category:爆炸事故](https://zh.wikipedia.org/wiki/Category:爆炸事故 "wikilink") [Category:天龍號太空船](https://zh.wikipedia.org/wiki/Category:天龍號太空船 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
 8.
-
 9.

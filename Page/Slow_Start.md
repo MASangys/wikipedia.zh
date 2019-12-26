@@ -437,7 +437,7 @@
 
 ### 审查下架
 
-本片曾因所谓“[不可抗力](https://zh.wikipedia.org/wiki/中华人民共和国被禁影视作品列表 "wikilink")”，在中国遭[爱奇艺](../Page/爱奇艺.md "wikilink")下线，同年2月13日愛奇藝網站的《Slow Start》視頻資源恢復，並通知恢復兩部作品的版權\[15\]。
+本片曾因所谓“[不可抗力](https://zh.wikipedia.org/wiki/中华人民共和国被禁影视作品列表 "wikilink")”，在中国遭[爱奇艺](../Page/爱奇艺.md "wikilink")下线，同年2月13日愛奇藝網站的《Slow Start》影片資源恢復，並通知恢復兩部作品的版權\[15\]。
 
 ## 联动游戏
 
@@ -473,30 +473,17 @@
 [Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink") [Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink") [Category:高中背景漫画](https://zh.wikipedia.org/wiki/Category:高中背景漫画 "wikilink") [Category:轻井泽背景作品](https://zh.wikipedia.org/wiki/Category:轻井泽背景作品 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:高中背景动画](https://zh.wikipedia.org/wiki/Category:高中背景动画 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:愛奇藝外購動畫](https://zh.wikipedia.org/wiki/Category:愛奇藝外購動畫 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.  [](http://moca-news.net/article/20180105/2018010507190a_/01/?afid=seiyuubot) Moca
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.

@@ -183,23 +183,15 @@
 [Category:2014年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2014年開業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:亞利桑那州公司](https://zh.wikipedia.org/wiki/Category:亞利桑那州公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
 12.
 13.

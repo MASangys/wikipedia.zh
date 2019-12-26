@@ -1,6 +1,6 @@
 **ViuTVsix**（），又稱96台，是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")擁有的一條綜合[英語娛樂電視頻道](https://zh.wikipedia.org/wiki/英語 "wikilink")，2017年3月31日啟播，定頻於[香港數碼地面電視廣播](../Page/香港數碼地面電視廣播.md "wikilink")96頻道，節目以[英語廣播為主](https://zh.wikipedia.org/wiki/英語 "wikilink")。\[1\]
 
-現時以「96台 ViuTVsix」作為中文稱呼，而大部分節目預告的英文稱呼則刪減了「Channel 96」（96台）字眼。該頻道的主要競爭對手是[明珠台](../Page/明珠台.md "wikilink")。
+現時以「96台 ViuTVsix」作為中文稱呼，而大部分節目預告的英文稱呼則刪減了「Channel 96」（96台）字眼。該頻道的主要競爭對手為[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[明珠台](../Page/明珠台.md "wikilink")及[奇妙電視有限公司旗下的](https://zh.wikipedia.org/wiki/奇妙電視有限公司 "wikilink")[香港國際財經台](../Page/香港國際財經台.md "wikilink")。
 
 ## 歷史
 
@@ -54,7 +54,7 @@ ViuTVsix於2017年3月31日上午7時正式啟播，首個節目為。
 
 節目內容以新聞、時事、綜藝、紀實、經典及最新劇集為主。\[4\]
 
-目前的播放時數為17小時（09:00－02:00），同時其介定的黃金時段跟[ViuTV](../Page/ViuTV.md "wikilink")有少許不同，部分節目亦缺乏字幕。
+目前的播放時數為17小時（09:00至翌日02:00），同時其介定的黃金時段跟[ViuTV](../Page/ViuTV.md "wikilink")有少許不同，部分節目亦缺乏字幕。
 
 ### 新聞、時事及財經
 
@@ -62,9 +62,11 @@ ViuTVsix於2017年3月31日上午7時正式啟播，首個節目為。
 
 2019年1月7日起，普通話財經節目《[24K財經](https://zh.wikipedia.org/wiki/24K財經 "wikilink")》於港股交易日播出。
 
+而當[八號或以上熱帶氣旋警告信號生效時](../Page/八號烈風或暴風信號.md "wikilink")，每小時會播出一節由[香港天文台](../Page/香港天文台.md "wikilink")製作的英語《風暴消息》。另外，ViuTVsix會直播重要記者會等突發新聞，如2019年10月4日插播[禁蒙面法記者會](https://zh.wikipedia.org/wiki/禁止蒙面規例 "wikilink")。
+
 ### 體育節目
 
-除了定期播放極限運動節目玩命百科（Red Bull Cliptomaniacs）外，還於西班牙甲組足球聯賽時段內每月一場的西班牙甲組足球聯賽等。
+除了定期播放極限運動節目玩命百科（Red Bull Cliptomaniacs）外，還於[西班牙甲組足球聯賽時段內每月一場的西班牙甲組足球聯賽及賽事精華等](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")。
 
 ### 綜藝、資訊及紀錄片
 

@@ -362,28 +362,16 @@
 [Category:2015年日本電視節目](https://zh.wikipedia.org/wiki/Category:2015年日本電視節目 "wikilink") [Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink")
 
 1.
-
 2.
-
 3.  [66屆紅白名單出爐 綾瀨遙再執主持棒，](https://tw.news.yahoo.com/66%E5%B1%86%E7%B4%85%E7%99%BD%E5%90%8D%E5%96%AE%E5%87%BA%E7%88%90-%E7%B6%BE%E7%80%A8%E9%81%99%E5%86%8D%E5%9F%B7%E4%B8%BB%E6%8C%81%E6%A3%92-091547133.html)Yahoo奇摩新聞（轉載自民視新聞），2015年11月27日。
-
 4.  [NHK紅白 Apps，](https://play.google.com/store/apps/details?id=jp.or.nhk.kouhaku.android&hl=ja)Google Play
-
 5.
-
 6.  [紅白曲目決定！松田聖子は「赤いスイートピー」](http://www.nikkansports.com/entertainment/news/1581850.html),日刊スポーツ,2015年12月21日
-
 7.  [紅白歌合戦 曲順決まる 大トリは松田聖子さん](http://www3.nhk.or.jp/news/html/20151224/k10010351691000.html) ，NHK
-
 8.  [紅白歌合戦の曲順発表、大トリは松田聖子さん，](http://www.asahi.com/articles/ASHDS4TKDHDSUCVL00W.html?iref=comtop_6_05)朝日新聞，2015年12月24日
-
 9.  [ゲスト審査員が決定しました，](http://www.nhk.or.jp/kouhaku/topics/topic_151225a.html) NHK
-
 10. [「第66回 NHK紅白歌合戦」松下奈緒ら豪華ゲスト決定，](http://mdpr.jp/news/detail/1552746)ModelPress，2015年12月26日。
-
 11. [朝ドラ『あさが来た』特別編放送決定 波瑠「うれしいかぎりです\!」](http://www.oricon.co.jp/news/2064509/full/) オリコン 2015年12月27日
-
 12. [NHK紅白歌合戰結果公佈。](http://www.nhk.or.jp/kouhaku/result/)
-
 13.
 14.

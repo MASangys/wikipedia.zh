@@ -15,14 +15,9 @@
 [Category:免疫系統](https://zh.wikipedia.org/wiki/Category:免疫系統 "wikilink") [Category:蛋白质家族](https://zh.wikipedia.org/wiki/Category:蛋白质家族 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.

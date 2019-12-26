@@ -52,24 +52,14 @@
 [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:防彈少年團音樂專輯](https://zh.wikipedia.org/wiki/Category:防彈少年團音樂專輯 "wikilink") [Category:2015年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Oricon單曲週榜冠軍作品 "wikilink") [Category:2015年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2015年Japan_Hot_100冠軍歌曲 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.

@@ -12,10 +12,13 @@
 
 ## 作品概覽
 
-### 獨立製作
+### 作品列表
+
+#### 電視動畫
+
+  - 2010年代
 
 <table>
-<caption>電視動畫</caption>
 <thead>
 <tr class="header">
 <th><p>首播年份</p></th>
@@ -103,38 +106,56 @@
 <tr class="odd">
 <td><p><a href="../Page/女高中生的虛度日常.md" title="wikilink">女高中生的虛度日常</a></p></td>
 <td></td>
-<td><p>7月5日－</p></td>
+<td><p>7月5日－9月20日</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td><p>秋天</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Z/X_Code_reunion" title="wikilink">Z/X Code reunion</a></p></td>
+<td><p>10月8日－</p></td>
 <td><p>末田宜史</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
+</tbody>
+</table>
+
+  - 2020年代
+
+<table>
+<thead>
+<tr class="header">
+<th><p>首播年份</p></th>
+<th><p>中文名稱</p></th>
+<th><p>日文名稱</p></th>
+<th><p>首播時間</p></th>
+<th><p>導演</p></th>
+<th><p>原作類別</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td><p>2020年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/異種族風俗娘評鑑指南" title="wikilink">異種族風俗娘評鑑指南</a></p></td>
 <td></td>
 <td><p>1月－</p></td>
 <td><p>小川優樹</p></td>
-<td></td>
+<td><p>漫畫</p></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-| 首播年份  | 中文名稱                               | 日文名稱 | 首播時間 | 導演 | 原作類別 | 備註 |
-| ----- | ---------------------------------- | ---- | ---- | -- | ---- | -- |
-| 2019年 | [巨蟲列島](../Page/巨蟲列島.md "wikilink") |      |      | 漫畫 |      |    |
+#### OVA
 
-OVA
+| 首播年份  | 中文名稱                               | 日文名稱       | 發行日期                               | 導演 | 原作類別 | 備註 |
+| ----- | ---------------------------------- | ---------- | ---------------------------------- | -- | ---- | -- |
+| 2019年 | [巨蟲列島](../Page/巨蟲列島.md "wikilink") | 2019年6月20日 | [高橋丈夫](../Page/高橋丈夫.md "wikilink") | 漫畫 |      |    |
 
 ### 協力製作
 
@@ -285,8 +306,6 @@ OVA
 
 1.
 2.
-
 3.
 4.
-
 5.  前面3期都由[TNK](../Page/TNK.md "wikilink")製作。

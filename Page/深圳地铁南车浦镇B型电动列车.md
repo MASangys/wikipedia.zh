@@ -113,15 +113,10 @@ Shenzhen Metro CSR Nanjing Puzhen Type B Rolling Stock Cabin 03476.jpg|深圳地
 [Category:深圳地鐵車輛](https://zh.wikipedia.org/wiki/Category:深圳地鐵車輛 "wikilink") [Category:中车浦镇制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车浦镇制铁路车辆 "wikilink")
 
 1.  [深圳地铁3号线列车（浦镇）](http://www.trainnets.com/archives/14072)非人狂想屋，2016-06-06
-
 2.  [深圳地铁客流量2年增近4倍](http://sztqb.sznews.com/html/2013-08/11/content_2583883.htm) 深圳特区报，2013-08-11
-
 3.  [罗宝线、蛇口线、环中线计划增购列车104列](http://www.s1979.com/shenzhen/201212/3069226830.shtml) CUTV深圳台，2012-12-30
-
 4.
 5.  深圳地铁3号线（龙岗线）增购车辆首列车抵达横岗车辆段喜迎新年。3号线增购车辆首列车于2015年2月9日顺利运抵横岗车辆段。3号线增购车辆为100km/h运行速度的B型车，采用不锈钢车体及流线型车头，沿用了与既有车辆一致的牵引和辅助等重要系统。-深圳地铁运营微博，2015-02-09
-
 6.
 7.  [考考你 | 三号线增购的新列车与现有列车有哪些不同？](http://mp.weixin.qq.com/s?__biz=MzA5MTgyMTA4OA==&mid=2651362859&idx=3&sn=4259a33440b2225fd83856f8c70cb819&scene=0#wechat_redirect)深圳地铁，2016-04-13
-
 8.

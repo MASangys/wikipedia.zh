@@ -85,15 +85,15 @@ Swan</p></td>
 
 ### 善宰周邊人物
 
-|                                                     |         |                                  |                                                  |
-| --------------------------------------------------- | ------- | -------------------------------- | ------------------------------------------------ |
-| **演員**                                              | **角色**  | **粵語配音**                         | **介紹**                                           |
-| [全國煥](../Page/全國煥.md "wikilink")                    | 白恩道/曹成培 |                                  | 善宇集團物流子公司社長，殺了金思婉的親生父母後，把自己過去隱埋掉成為了白恩道。          |
-| [徐範植](https://zh.wikipedia.org/wiki/徐範植 "wikilink") | 朴秘書     |                                  | 白恩道秘書、無名殺手，第七集入獄，獄中仍聽從白恩道指使, 後來在獄中被殺。            |
-| [李對淵](../Page/李對淵.md "wikilink")                    | 閔勇宰     |                                  | 閔善宰的爸爸、計程車司機。                                    |
-| [李在勇](../Page/李在勇.md "wikilink")                    | 尹在民     | [蘇裕邦](../Page/蘇裕邦.md "wikilink") | 海軍作戰司令官，車智源於海軍特種部隊時的上司；尹瑪莉的爸爸，閔善宰於海軍特種部隊時的上司兼岳父。 |
-| [崔政宇](../Page/崔政宇.md "wikilink")                    | 徐振卓     |                                  | 徐宇振的爸爸、善宇集團子公司善宇建設副社長。                           |
-|                                                     |         |                                  |                                                  |
+|                                                     |         |                                                     |                                                  |
+| --------------------------------------------------- | ------- | --------------------------------------------------- | ------------------------------------------------ |
+| **演員**                                              | **角色**  | **粵語配音**                                            | **介紹**                                           |
+| [全國煥](../Page/全國煥.md "wikilink")                    | 白恩道/曹成培 | [陳啟熾](https://zh.wikipedia.org/wiki/陳啟熾 "wikilink") | 善宇集團物流子公司社長，殺了金思婉的親生父母後，把自己過去隱埋掉成為了白恩道。          |
+| [徐範植](https://zh.wikipedia.org/wiki/徐範植 "wikilink") | 朴秘書     | [柯偉聰](../Page/柯偉聰.md "wikilink")                    | 白恩道秘書、無名殺手，第七集入獄，獄中仍聽從白恩道指使, 後來在獄中被殺。            |
+| [李對淵](../Page/李對淵.md "wikilink")                    | 閔勇宰     | [柯偉聰](../Page/柯偉聰.md "wikilink")                    | 閔善宰的爸爸、計程車司機。                                    |
+| [李在勇](../Page/李在勇.md "wikilink")                    | 尹在民     | [蘇裕邦](../Page/蘇裕邦.md "wikilink")                    | 海軍作戰司令官，車智源於海軍特種部隊時的上司；尹瑪莉的爸爸，閔善宰於海軍特種部隊時的上司兼岳父。 |
+| [崔政宇](../Page/崔政宇.md "wikilink")                    | 徐振卓     | 吳嘉樂                                                 | 徐宇振的爸爸、善宇集團子公司善宇建設副社長。                           |
+|                                                     |         |                                                     |                                                  |
 
 ### 其他人物
 
@@ -121,7 +121,7 @@ May</p></td>
 <tr class="odd">
 <td><p><a href="../Page/裴侑藍.md" title="wikilink">裴侑藍</a></p></td>
 <td><p>安啟東</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳啟熾" title="wikilink">陳啟熾</a></p></td>
 <td><p>車智源在軍隊時的下屬，現為車智源復仇團隊成員之一。</p></td>
 </tr>
 <tr class="even">
@@ -157,7 +157,7 @@ May</p></td>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/李載宇" title="wikilink">李載宇</a></p></td>
 <td></td>
-<td></td>
+<td><p><a href="../Page/柯偉聰.md" title="wikilink">柯偉聰</a></p></td>
 <td><p>PENDA雜誌社員工，斯婉同事。</p></td>
 </tr>
 <tr class="even">
@@ -408,13 +408,8 @@ May</p></td>
 [Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink") [Category:韓國漫畫改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:韓國漫畫改編韓國電視劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
 
 1.  [李陣郁文彩元確定出演SBS新劇《Goodbye Mr. Black》](http://www.allthatstar.com/tw/view.php?action=5210&postID=141502)  全星網
-
 2.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
-
 3.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)
-
 4.  4月13日因第20屆國會議員選舉而停播，改為14日連播兩集
-
 5.  [《Goodbye Mr. Black》確定明年初亮相螢幕](http://www.allthatstar.com/tw/view.php?action=5210&postID=152925)  全星網
-
 6.

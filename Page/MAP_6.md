@@ -487,50 +487,27 @@
 [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:2015年韓國建立](https://zh.wikipedia.org/wiki/Category:2015年韓國建立 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.  [MAP6重磅出道 新人野獸團來襲](http://www.koreastardaily.com/tc/photo/70517)韓星網
-
 10. [5個城市進行了28場公演！MAP6魅力席捲日本！](http://www.vlovekpop.com/20160728-map6/)  vlovekpop
-
 11. [MAP6 1ST FAN-MEETING「MAP6 University O.T」](http://cafe.daum.net/MAP6/ZMyF/43)
-
 12. [K-POP CD Music Korea](http://musickoreacn.com/product/M.A.P6-%EC%97%A0%EC%97%90%EC%9D%B4%ED%94%BC%EC%8B%9D%EC%8A%A4-STORM/22341/cid/896)
-
-13. [MAP6 新曲由兩段橫踢製作](http://kpopn.niusnews.com/=K0nvm4n9)
-
+13.
 14. ["야심찬 포부 담았다" 맵식스, 23일 새 싱글 '모멘텀'으로 컴백](http://entertain.naver.com/read?oid=112&aid=0002918803)
-
 15. [MAP6 將在26日攜全新數位單曲《Love is Gone》回歸](https://www.kpopn.com/2017/11/22/map6-將在26日攜全新數位單曲《love-gone》回歸/)
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.

@@ -103,15 +103,10 @@ Olympus Air A01 w Panasonic 25mm F1.7.jpg|装配25mm F1.7镜头的Air A01 Olympu
 [Category:奥林巴斯无反可交换镜头数码相机](https://zh.wikipedia.org/wiki/Category:奥林巴斯无反可交换镜头数码相机 "wikilink")
 
 1.  [Open Platform Camera, OLYMPUS AIR A01](http://www.olympus-global.com/en/news/2015a/nr150205opce.jsp)  - Olympus Global
-
 2.  [OPC](https://opc.olympus-imaging.com/) Hack\&Make Project
-
 3.  [【フォトキナ】オリンパス、オープンプラットフォームカメラのコンセプト展示](http://dc.watch.impress.co.jp/docs/news/667257.html) - DC Watch Impress
-
 4.
 5.  [オープンプラットフォームカメラ（OPC）プロトタイプの仕様が公開](http://dc.watch.impress.co.jp/docs/news/680596.html) - DC Watch Impress
-
 6.  [Air APP](https://olympus-imaging.jp/product/opc/a01/feature.html) - Olympus
-
 7.
 8.  [Firmware Update for OLYMPUS DIGITAL CAMERA](http://cameras.olympus-imaging.cn/ww/ud2/ENU/0001/1170/index03a.html) - olympus-imaging

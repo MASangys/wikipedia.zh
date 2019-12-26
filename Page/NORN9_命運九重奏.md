@@ -656,13 +656,9 @@ kinemacitrus</p></td>
 [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:2013年電子遊戲](https://zh.wikipedia.org/wiki/Category:2013年電子遊戲 "wikilink") [Category:少女遊戲](https://zh.wikipedia.org/wiki/Category:少女遊戲 "wikilink") [Category:Otomate](https://zh.wikipedia.org/wiki/Category:Otomate "wikilink") [Category:動畫作品](https://zh.wikipedia.org/wiki/Category:動畫作品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
@@ -671,6 +667,5 @@ kinemacitrus</p></td>
 10.
 11.
 12. 千里透過七海的能力得知曉人的記憶被消去，所以不知曉人作為哥哥的存在
-
 13.
 14.

@@ -19,7 +19,7 @@
 
 ## 參考資料
 
-  - \[[http://rainbow.dspmedia.co.kr/\]DSP](http://rainbow.dspmedia.co.kr/%5DDSP) Rainbow 官方網頁
+  - \[[https://web.archive.org/web/20150530114952/http://rainbow.dspmedia.co.kr/\]DSP](https://web.archive.org/web/20150530114952/http://rainbow.dspmedia.co.kr/%5DDSP) Rainbow 官方網頁
 
 <references/>
 

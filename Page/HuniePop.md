@@ -51,27 +51,16 @@
 [Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:戀愛模擬遊戲](https://zh.wikipedia.org/wiki/Category:戀愛模擬遊戲 "wikilink") [Category:消除类游戏](https://zh.wikipedia.org/wiki/Category:消除类游戏 "wikilink") [Category:益智游戏](https://zh.wikipedia.org/wiki/Category:益智游戏 "wikilink") [Category:Kickstarter計劃](https://zh.wikipedia.org/wiki/Category:Kickstarter計劃 "wikilink") [Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Unity引擎游戏](https://zh.wikipedia.org/wiki/Category:Unity引擎游戏 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.

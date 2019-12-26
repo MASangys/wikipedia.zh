@@ -28,12 +28,8 @@
 [Category:计算机总线](https://zh.wikipedia.org/wiki/Category:计算机总线 "wikilink") [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink") [Category:串行总线](https://zh.wikipedia.org/wiki/Category:串行总线 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.

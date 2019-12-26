@@ -105,30 +105,17 @@ ecute的意思是eki（車站）、center（中心處）、universal（綜合）
 [Category:JR東日本集團](https://zh.wikipedia.org/wiki/Category:JR東日本集團 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  [2009年3月29日（日）エキナカ新ブランド"ecute cutte"誕生](http://www.ecute.jp/pdf/20090318.pdf) 株式会社JR東日本ステーションリテイリング・2009年3月18日
-
 5.  [エキュート大宮に“Conoha Garden”誕生！](http://www.ecute.jp/omiya/pdf/cmm/1007omiyarn.pdf)  株式会社JR東日本ステーションリテイリング・2010年4月8日
-
 6.  [JR東日本プレリリース エキナカ商業空間「ecute大宮」の店舗が決定 2005年1月7日](http://www.jreast.co.jp/press/2004_2/20050102/)
-
 7.  [JR東日本プレリリース エキナカ商業施設第2弾「ecute(エキュート品川)」 2005年7月6日](http://www.jreast.co.jp/press/2005_1/20050702.pdf)
-
 8.  [品川駅中央改札内『ディラ品川』が『エキュート品川 サウス』に生まれ変わります！](http://www.j-retail.co.jp/ekinaka/20101220shinagawa.pdf) JR東日本リテールネット
-
 9.  [東京駅改札内に「South Court（サウスコート）」誕生](http://www.ecute.jp/pdf/100218.pdf)  JR東日本ステーションリテイリング・プレスリリース2010年2月18日
-
 10. [エキュート東京 ショップ一覧](http://www.ecute.jp/pdf/100303-2.pdf)  JR東日本ステーションリテイリング・プレスリリース2010年3月3日
-
 11. [2010年12月18日（土）「ecute上野」第I期オープン](http://www.j-retail.co.jp/cgi-bin/news.cgi?data_id=1289868695) JR東日本リテールネット
-
 12. [2011年3月、首都圏主要3駅のエキナカが生まれ変わります！](http://www.jreast.co.jp/press/2010/20100905.pdf) JR東日本プレスリリース 2010年9月7日
-
 13. [JR東日本/上野駅にエキュート開業](http://www.ryutsuu.biz/store/c111614.html)  流通ニュース 2010年11月16日
-
 14. [2011年夏、赤羽駅が生まれ変わります](http://www.jreast.co.jp/press/2010/20110107.pdf) JR東日本・2011年1月19日
-
 15. 【NHK】2014年4月23日付[「消費税転嫁拒否「エキナカ」会社に勧告」](http://www3.nhk.or.jp/news/html/20140423/k10013974231000.html)

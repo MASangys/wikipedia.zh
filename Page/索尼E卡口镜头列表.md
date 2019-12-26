@@ -279,231 +279,122 @@ Lensbaby也在2016年加入生产原生E卡口镜头。
   - [E卡口镜头列表](http://www.sonystyle.com.cn/products/nex/lens/e_mount.htm) — 索尼（中国）
   - [微单相机专用镜头](http://sigma-photo.com.cn/lens/dn/) — 适马（中国）
   - [安原製作所](http://www.yasuhara.co.jp/)
-  - [E-Mount Lenses](https://voigtlaender.com/e-mount.html) — Voigtländer
+  - [E-Mount Lenses](https://web.archive.org/web/20170326230241/https://voigtlaender.com/e-mount.html) — Voigtländer
 
 [Category:镜头](https://zh.wikipedia.org/wiki/Category:镜头 "wikilink") [Category:索尼镜头](https://zh.wikipedia.org/wiki/Category:索尼镜头 "wikilink")
 
 1.
-
 2.  [E 16 mm F2.8](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel16f28.html) SONY Global
-
 3.  [E 20 mm F2.8](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel20f28.html) SONY Global
-
 4.  [Sonnar T\* E 24 mm F1.8 ZA](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel24f18z.html) SONY Global
-
 5.  [Sonnar T\* E 1,8/24 ZA 快速的完美主义者](http://www.zeiss.com.cn/camera-lenses/zh_cn/camera_lenses/csc/sonnarte1824za.html) — ZEISS（中国）
-
 6.  [E 30 mm F3.5 Macro](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel30m35.html) SONY Global
-
 7.  [E 35 mm F1.8 OSS](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel35f18.html) SONY Global
-
 8.  [E 50 mm F1.8 OSS](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel50f18.html) SONY Global
-
 9.
 10. [E 10-18 mm F4 OSS](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel1018.html) SONY Global
-
 11. [E PZ 16–50 mm F3.5-5.6 OSS](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/selp1650.html) SONY Global
-
 12. [Vario-Tessar T\* E 16-70 mm F4 ZA OSS](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel1670z.html) SONY Global
-
 13. [Vario-Tessar T\* E 4/16-70 ZA 全视之眼](http://www.zeiss.com.cn/camera-lenses/zh_cn/camera_lenses/csc/variotessarte41670za.html) — ZEISS（中国）
-
 14. [E 18-55 mm F3.5-5.6 OSS](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel1855.html) SONY Global
-
 15. [E PZ 18-105 mm F4 G OSS](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/selp18105g.html) SONY Global
-
 16.
-
 17. [E 18-135mm F3.5-5.6 OSS](https://www.sony.com/electronics/camera-lenses/sel18135) SONY Global
-
 18. [E 18-200 mm F3.5-6.3 OSS](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel18200.html) SONY Global
-
 19. [E 18–200 mm F3.5-6.3 OSS LE](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel18200le.html) SONY Global
-
 20. [E PZ 18-200 mm F3.5-6.3 OSS](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/selp18200.html) SONY Global
-
 21. [E 55-210 mm F4.5-6.3 OSS](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel55210.html) SONY Global
-
 22.
 23.
-
 24. [FE 28 mm F2](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel28f20.html) SONY Global
-
 25. [Distagon T\* FE 35 mm F1.4 ZA](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel35f14z.html) SONY Global
-
 26. [Distagon T\* FE 1,4/35 ZA 光学大师](http://www.zeiss.com.cn/camera-lenses/zh_cn/camera_lenses/csc/distagontfe1435za.html) — ZEISS（中国）
-
 27. [Sonnar T\* FE 35 mm F2.8 ZA](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel35f28z.html) SONY Global
-
 28. [SEL35F28Z AE](http://www.sony.com.hk/products/apps/product/simplePage.do?modelCode=32844150&lang=zh) — 索尼（香港）
-
 29. [Sonnar T\* FE 2,8/35 ZA 紧凑小巧的摄影利器](http://www.zeiss.com.cn/camera-lenses/zh_cn/camera_lenses/csc/sonnartfe2835za.html) — ZEISS（中国）
-
 30. [FE 50mm F1.4](http://www.sonystyle.com.cn/products/nex/lens/sel50f14z.htm) SONY Style
-
 31. [SEL50F14Z AE](http://www.sony.com.hk/zh/electronics/camera-lenses/sel50f14z) — 索尼（香港）
-
 32. [FE 50mm F1.8](http://www.sonystyle.com.cn/products/nex/lens/sel50f18f.htm) SONY Style
-
 33. [FE 50mm F2.8微距](http://www.sonystyle.com.cn/products/nex/lens/sel50m28.htm) SONY Style
-
 34. [FE 50 毫米 F2.8 微距鏡頭 SEL50M28](http://www.sony.com.hk/zh/electronics/camera-lenses/sel50m28) — 索尼（香港）
-
 35. [Sonnar T\* FE 55 mm F1.8 ZA](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel55f18z.html) SONY Global
-
 36. [SEL55F18Z AE](http://www.sony.com.hk/products/apps/product/simplePage.do?modelCode=32844250&lang=zh) — 索尼（香港）
-
 37. [Sonnar T\* FE 1,8/55 ZA 为细节而生](http://www.zeiss.com.cn/camera-lenses/zh_cn/camera_lenses/csc/sonnartfe1855za.html) — ZEISS（中国）
-
 38. [FE 85mm F1.4 GM](http://www.sonystyle.com.cn/products/nex/lens/sel85f14gm.htm) SONY Style
-
 39. [FE 85mm F1.8](http://www.sonystyle.com.cn/products/nex/lens/sel85f18.htm) SONY Style
-
 40. [FE 90 mm F2.8 Macro G OSS](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel90m28g.html) SONY Global
-
 41. [FE 100mm F2.8 STF GM OSS](http://www.sonystyle.com.cn/products/nex/lens/sel100f28gm.htm) SONY Style
-
 42.
-
 43.
 44.
-
 45.
-
 46. [Vario-Tessar T\* FE 16-35 mm F4 ZA OSS](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel1635z.html) SONY Global
-
 47. [Vario-Tessar T\* FE 4/16-35 ZA 紧凑型全能镜头](http://www.zeiss.com.cn/camera-lenses/zh_cn/camera_lenses/csc/variotessartfe41635za.html)  — ZEISS（中国）
-
 48. [FE 24-70mm F2.8 GM](http://www.sonystyle.com.cn/products/nex/lens/sel2470gm.htm) SONY style
-
 49. [Vario-Tessar T\* FE 24-70 mm F4 ZA OSS](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel2470z.html) SONY Global
-
 50. [Vario-Tessar T\* FE 4/24-70 ZA 打造卓越的全画幅高画质表现](http://www.zeiss.com.cn/camera-lenses/zh_cn/camera_lenses/csc/variotessartfe42470za.html)  — ZEISS（中国）
-
 51.
-
 52. [FE 24-240 mm F3.5-6.3 OSS](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel24240.html) SONY Global
-
 53. [FE 28-70 mm F3.5-5.6 OSS](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel2870.html) SONY Global
-
 54. [FE PZ 28-135 mm F4 G OSS](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/selp28135g.html) SONY Global
-
 55. [FE 70-200 mm F4 G OSS](http://www.sony.net/Products/di/en-gb/products/lenses/lineup/detail/sel70200g.html) SONY Global
-
 56.
-
 57.
-
 58.
-
 59.
 60. [ZEISS Touit 2.8/12 极目之远](http://www.zeiss.com.cn/camera-lenses/zh_cn/camera_lenses/touit/touit2812.html) — ZEISS（中国）
-
 61. [ZEISS Touit 1.8/32 捕捉瞬间的魔术师](http://www.zeiss.com.cn/camera-lenses/zh_cn/camera_lenses/touit/touit1832.html) — ZEISS（中国）
-
 62. [ZEISS Touit 2.8/50M 着眼于细节的完美主义者](http://www.zeiss.com.cn/camera-lenses/zh_cn/camera_lenses/touit/touit2850m.html) — ZEISS（中国）
-
 63. [ZEISS Loxia 2.8/21 紧凑与广角结合一体](https://www.zeiss.com.cn/camera-lenses/photography/products/loxia-lenses/loxia-2821.html) — ZEISS（中国）
-
 64. [ZEISS Loxia 2/35 低调内敛，记者必备](https://www.zeiss.com.cn/camera-lenses/photography/products/loxia-lenses/loxia-235.html) — ZEISS（中国）
-
 65. [ZEISS broadens lens horizon for E-mount full-frame cameras With the new ZEISS Loxia 2.8/21 the company is expanding its family of compact lenses for compact Sony full-frame cameras with E-mount with a super wide angle.](http://www.zeiss.com/corporate/en_de/media-forum/press-releases.html?id=loxia-21-eng_2015)
-
 66. [ZEISS Loxia 2/50 灵活的多面手](https://www.zeiss.com.cn/camera-lenses/photography/products/loxia-lenses/loxia-250.html) — ZEISS（中国）
-
 67. [ZEISS Loxia 2.4/85 一名不引人注目的观察者](https://www.zeiss.com.cn/camera-lenses/photography/products/loxia-lenses/loxia-2485.html) — ZEISS（中国）
-
 68. [ZEISS Batis 2.8/18 新时代的超广角镜头](https://www.zeiss.com.cn/camera-lenses/photography/products/batis-lenses/batis-2818.html) — ZEISS（中国）
-
 69. [ZEISS Batis 2/25 新时代的广角镜头](https://www.zeiss.com.cn/camera-lenses/photography/products/batis-lenses/batis-225.html) — ZEISS（中国）
-
 70. [ZEISS Batis 1.8/85 新时代的伸缩镜头](https://www.zeiss.com.cn/camera-lenses/photography/products/batis-lenses/batis-1885.html) — ZEISS（中国）
-
 71. [ZEISS Batis 2.8/135 开创摄影新时代的中长焦镜头](https://www.zeiss.com.cn/camera-lenses/photography/products/batis-lenses/batis-28135.html) — ZEISS（中国）
-
 72. [关于镜头类别](http://sigma-photo.com.cn/lens/lens_type.html) — 适马（中国）
-
 73. [SIGMA launches seven interchangeable Art prime lenses for Sony E-mount cameras with full-frame sensors](https://www.sigma-global.com/en/news/2018/02/27/1571/) - Sigma Global Vision
-
 74. [19mm F2.8 EX DG](http://sigma-photo.com.cn/lens/discontinued/19_28/) — 适马（中国）
-
 75. [Sigma 30mm F2.8 EX DN](http://sigma-photo.com.cn/lens/discontinued/30_28/) — 适马（中国）
-
 76. [Sigma 19mm F2.8 DN Art](http://sigma-photo.com.cn/lens/dn/19_28_A013/) — 适马（中国）
-
 77. [Sigma 30mm F2.8 DN Art](http://sigma-photo.com.cn/lens/dn/30_28_A013/) — 适马（中国）
-
 78. [Sigma 60mm F2.8 DN Art](http://sigma-photo.com.cn/lens/dn/60_28_A013/) — 适马（中国）
-
 79.  C|accessdate=2017-12-07|work=Default Store View|language=en}}
-
 80. [Sigma 30mm F1.4 DC DN Contemporarty](http://sigma-photo.com.cn/lens/dn/30_14_C016/) — 适马（中国）
-
 81.
 82. [Tamron 50mm F1.8 の特許](http://egami.blog.so-net.ne.jp/2013-01-16)
-
 83. [18-200mm F/3.5-6.3 Di III VC Model B011](http://www.tamron.com.cn/cameralens/products/b011/index.shtml) — 腾龙（中国）
-
 84. [Tamron 28-75mm F/2.8 Di III RXD](https://www.tamron.eu/lenses/28-75mm-f28-di-iii-rxd/) — Tamron
-
 85. [NANOHA](http://www.yasuhara.co.jp/nanoha/index.html) - 安原製作所
-
 86. [MADOKA](http://www.yasuhara.co.jp/madoka/) - 安原製作所
-
 87. [安原製作所のミラーレス用全周魚眼レンズ「MADOKA」（まどか）を試す](http://dc.watch.impress.co.jp/docs/review/special/20120323_520651.html) - DC Watch
-
 88. [MOMO](http://www.yasuhara.co.jp/momo/index.html) - 安原製作所
-
 89. [VPKで撮ってみた](http://www.yasuhara.co.jp/momo/vpk61.html) - 安原製作所
-
 90. [Samyang 8mm F2.8 UMC Fish-eye](http://www.syopt.com/en/product/photo-lenses-8mm-F2.8-Fish-eye-Lens.php)  — SAMYANG
-
 91. [Samyang 12mm F2.0 NCS CS](http://www.syopt.com/en/product/photo-lenses-12mm-F2.0-NCS-CS.php)  — SAMYANG
-
 92. [Samyang 21mm F1.4 ED AS UMC CS](http://www.samyanglensglobal.com/product/detail.do?SQ=2)  — SAMYANG
-
 93. [Samyang 35mm F1.2 ED AS UMC CS](http://www.samyanglensglobal.com/product/detail.do?SQ=48)  — SAMYANG
-
 94. [Samyang 50mm F1.2 AS UMC CS](http://www.samyanglensglobal.com/product/detail.do?SQ=1)  — SAMYANG
-
 95. [Samyang AF 24mm F2.8 FE](https://www.samyanglensglobal.com/en/product/product-view.php?seq=376) — SAMYANG
-
 96. [Samyang AF 35mm F1.4 FE](https://www.samyanglensglobal.com/en/product/product-view.php?seq=159) — SAMYANG
-
 97. [Samyang AF 35mm F2.8 FE](https://www.samyanglensglobal.com/en/product/product-view.php?seq=151) — SAMYANG
-
 98. [Samyang AF 14mm F2.8 FE](https://www.samyanglensglobal.com/en/product/product-view.php?seq=163) — SAMYANG
-
 99. [Samyang AF 50mm F1.4 FE](https://www.samyanglensglobal.com/en/product/product-view.php?seq=155) — SAMYANG
-
 100. [SPEEDMASTER 50mm f0.95](http://syzygx.com/index.php/2014-07-28-14-07-50/2014-07-29-11-45-44.html) — 沈阳中一光学
-
 101. [SPEEDMASTER 35mm f0.95](http://syzygx.com/index.php/2014-07-28-14-07-50/2014-07-29-11-45-45.html) — 沈阳中一光学
-
 102. [Voigtlander announces three new extreme wide-angle lenses for Sony E-mount](http://www.dpreview.com/articles/4233907278/voigtlander-announces-three-new-extreme-wide-angle-lenses) - DP Review
-
-103. [E-Mount 10 mm / F 5,6 Hyper Wide Heliar aspherical](https://voigtlaender.com/10-mm--f-5%2c6-hyper-wide-heliar-e-mount.html) — Voigtländer
-
-104. [E-Mount 12 mm / F 5,6 Ultra Wide Heliar aspherical](https://voigtlaender.com/12-mm--f-5%2c6-ultra-wide-heliar-e-mount.html) — Voigtländer
-
-105. [E-Mount 15 mm / F 4,5 Super Wide Heliar aspherical](https://voigtlaender.com/15-mm--f-4%2c5-super-wide-heliar-e-mount.html) — Voigtländer
-
+103. [E-Mount 10 mm / F 5,6 Hyper Wide Heliar aspherical](https://voigtlaender.com/10-mm--f-5%2c6-hyper-wide-heliar-e-mount.html)  — Voigtländer
+104. [E-Mount 12 mm / F 5,6 Ultra Wide Heliar aspherical](https://voigtlaender.com/12-mm--f-5%2c6-ultra-wide-heliar-e-mount.html)  — Voigtländer
+105. [E-Mount 15 mm / F 4,5 Super Wide Heliar aspherical](https://voigtlaender.com/15-mm--f-4%2c5-super-wide-heliar-e-mount.html)  — Voigtländer
 106.
-
 107.
-
 108.
-
 109. [TRIO 28 3-in-1 for Mirrorless Cameras](http://lensbaby.com/product/trio-28/) — Lensbaby
-
 110. [3つのアート効果を選べる交換レンズ「レンズベビーTrio 28」](http://dc.watch.impress.co.jp/docs/news/1033023.html) — DC Watch Impress
-
 111. [LA-EA3](http://www.sonystyle.com.cn/products/accessory/di/la_ea3.htm) — 索尼（中国）
-
 112. [LA-EA4](http://www.sonystyle.com.cn/products/accessory/di/la_ea4.htm) — 索尼（中国）
-
 113. [MOUNT CONVERTER MC-11 発表](https://www.sigma-photo.co.jp/new/new_topic.php?id=970)  株式会社シグマ
-
 114. [TECHART、ライカMレンズでAF撮影できるマウントアダプターを発表](http://dc.watch.impress.co.jp/docs/news/20160212_743270.html) - DC Watch Impress
-
 115. [ライカMレンズでAF可能なアダプターが国内発売](http://dc.watch.impress.co.jp/docs/news/20160318_748944.html) - DC Watch Impress

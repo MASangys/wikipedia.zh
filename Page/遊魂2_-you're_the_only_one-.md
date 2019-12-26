@@ -108,7 +108,7 @@
 
 [Category:2016年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2016年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:奇幻電子遊戲](https://zh.wikipedia.org/wiki/Category:奇幻電子遊戲 "wikilink")
 
-1.  [タユタマ2 -you're the only one- 特集](http://www.game-style.jp/special/201604/12/00ty2_lu.php)Game-Style
+1.  [タユタマ2 -you're the only one- 特集](http://www.game-style.jp/special/201604/12/00ty2_lu.php) Game-Style
 2.  [Tayutama 2 -You're the Only One-](https://vndb.org/v17388)The Visual Novel Database
 3.  [Lump of Sugar 10th Anniversaryプロジェクト始動！ ―3大新作や初代タユタマアペンドなど](http://moedigi.com/game/2015/04/lump-of-sugar-10th-anniversary/)moedigi
 4.  [遊魂2 -you're the only one-](http://steamcommunity.com/sharedfiles/filedetails/?id=764321578)[Steam](../Page/Steam.md "wikilink")

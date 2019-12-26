@@ -19,15 +19,9 @@
 [Category:電子遊戲術語](https://zh.wikipedia.org/wiki/Category:電子遊戲術語 "wikilink")
 
 1.  [Eventhubs - How Combo and Damage Scaling works in Street Fighter IV](http://www.eventhubs.com/guides/2009/may/09/how-combo-and-damage-scaling-works-street-fighter-iv/)
-
 2.
-
 3.  [1up.com - The Essential 50, Part 32: Street Fighter II](http://www.1up.com/features/essential-50-street-fighter-ii)
-
 4.
-
 5.
-
 6.
-
 7.

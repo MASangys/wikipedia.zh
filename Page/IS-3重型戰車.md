@@ -161,51 +161,32 @@ IS-3被[蘇聯用於鎮壓](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[195
 [Category:蘇聯二戰坦克](https://zh.wikipedia.org/wiki/Category:蘇聯二戰坦克 "wikilink") [Category:重型坦克](https://zh.wikipedia.org/wiki/Category:重型坦克 "wikilink")
 
 1.  Отечественные бронированные машины. Том 2, стр. 14
-
 2.  <span class="citation">*М. В. Павлов, И. В. Павлов.* Отечественные бронированные машины 1945—1965 гг. // Техника и вооружение: вчера, сегодня, завтра. — Москва: Техинформ, 2012. — № 11. — С. 54.</span>
-
 3.  <span class="citation" contenteditable="false">*Министерство Союза ССР.* Руководство по материальной части и эксплуатации танка ИС-3. — Военное издательство Министерства Обороны СССР, 1955.</span>
-
 4.  <span class="citation" contenteditable="false">*А. Чубачин.* Тяжёлый советский танк ИС-3/ИС-3М / И. Мощанский. — М.: БТВ-Книга, 2007. — С. 106. — 140 с. — (Бронетанковый музей № 15). — 1000 экз.</span><span class="citation" contenteditable="false"></span>
-
 5.  <span class="citation">*М. В. Павлов, И. В. Павлов.* Отечественные бронированные машины 1945—1965 гг. // Техника и вооружение: вчера, сегодня, завтра. — М.: Техинформ, 2008. — № 9. — С. 56.</span>
-
 6.  <span class="citation" contenteditable="false">*А. Чубачин.* Тяжёлый советский танк ИС-3/ИС-3М / И. Мощанский. — М.: БТВ-Книга, 2007. — С. 104. — 140 с. — (Бронетанковый музей № 15). — 1000 экз.</span><span class="citation" contenteditable="false"></span>
-
 7.
 8.  <span class="citation" contenteditable="false">*А. Чубачин.* Тяжёлый советский танк ИС-3/ИС-3М / И. Мощанский. — М.: БТВ-Книга, 2007. — С. 71. — 140 с. — (Бронетанковый музей № 15). — 1000 экз.</span><span class="citation" contenteditable="false"></span>
-
 9.  [Stockholm International Peace Research Institute — Arms Transfers Database](http://armstrade.sipri.org/armstrade/page/trade_register.php)
-
 10.
 11.
 12.
 13.
 14. <span class="citation" contenteditable="false">*Тим Бин, Уилл Фаулер.* Советские танки Второй мировой войны. Бронированный кулак Сталина. — М.: Эксмо, 2007. — 176 с. </span>
-
 15. <span class="citation" contenteditable="false">*Дэвид Портер.* Вторая Мировая - Стальной вал с Востока: Советские бронетанковые войска 1939-1945. — М.: Эксмо, 2011. — 192 с.</span>
-
 16. [Боевое применение тяжёлых танков ИС-3](http://otvaga2004.narod.ru/publ_w4/055_is3.htm)
-
 17. [Танк со «щучьим носом»](http://warspot.ru/2435-tank-so-schuchim-nosom)
-
 18. <span class="citation" contenteditable="false">*А. Чубачин.* Тяжёлый советский танк ИС-3/ИС-3М / И. Мощанский. — М.: БТВ-Книга, 2007. — С. 138. — 140 с. — (Бронетанковый музей № 15). — 1000 экз.</span><span class="citation" contenteditable="false"></span>
-
 19. <span class="citation" contenteditable="false">*А. Чубачин.* Тяжёлый советский танк ИС-3/ИС-3М / И. Мощанский. — М.: БТВ-Книга, 2007. — С. 139. — 140 с. — (Бронетанковый музей № 15). — 1000 экз.</span><span class="citation" contenteditable="false"></span>
-
 20. Израильские танки в бою (2012). Михаил Барятинский. стр. 21
-
 21.
 22.
 23.
 24.
 25. <span class="citation" contenteditable="false">[Ополченцы успешно применили в бою снятый с постамента танк ИС-3](http://www.vz.ru/news/2014/6/30/693464.html). <small>Проверено 1 июля 2014.</small></span><span class="citation" contenteditable="false"></span>
-
 26. <span class="citation" contenteditable="false">[В Красноармейске танк «Иосиф Сталин-3» разгромил блокпост, есть погибшие](http://www.dialog.ua/news/7639_1404154254). <small>Проверено 1 июля 2014.</small></span><span class="citation" contenteditable="false"></span>
-
 27. <span class="citation" contenteditable="false">[Танк «Иосиф Сталин-3» разгромил блокпост на Донбассе, есть погибшие](http://ria.ru/world/20140630/1014198318.html). <small>Проверено 1 июля 2014.</small></span><span class="citation" contenteditable="false"></span>
-
 28. [Сообщение в сообществе «Антимайдан Донбасс Помощь.](http://vk.com/slavadnb?w=wall-68705740_36243)
-
 29.
 30. [Українські військові повертають пам’ятники Великої Вітчизняної війни](http://www.mil.gov.ua/news/2014/08/02/ukrainski-vijskovi-povertayut-pamyatniki-velikoi-vitchiznyanoi-vijni/)

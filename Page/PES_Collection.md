@@ -40,7 +40,7 @@
 
 ## 參考文獻
 
-[Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink") [Category:足球游戏](https://zh.wikipedia.org/wiki/Category:足球游戏 "wikilink") [Category:交換卡片遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲跨界作品 "wikilink") [Category:科樂美遊戲](https://zh.wikipedia.org/wiki/Category:科樂美遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
+[Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink") [Category:足球电子游戏](https://zh.wikipedia.org/wiki/Category:足球电子游戏 "wikilink") [Category:交換卡片遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲跨界作品 "wikilink") [Category:科樂美遊戲](https://zh.wikipedia.org/wiki/Category:科樂美遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
 
 1.
 2.

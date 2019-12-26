@@ -1,39 +1,8 @@
-\--[For functions related to Internet Archive Notes: 1. Internet Archive
-runs Lucene search engine 2. Program flowchart: Break name down into
-number of words Build a base URL based on number of words (1,2,3,4,5+),
-use of sopt=t switch, and availability of birth-death dates If any words
-contain extended-ascii characters append extra code for wildcards based
-on sopt=t or tx return finished URL 3. Lucene has a number of known
-issues to be aware of A. Names with accented letters (é) - aka extended
-ascii - are problematic. There are records on IA in which the accent has
-been dropped thus é is e in the record. Thus a search strategy has to
-use wildcards in place of extended ascii characters. The "?" wildcard
-does not work correctly on Lucene and thus recommend "\*". Wildcards
-severely slow down search times and after about 5 or 8 wildcards it may
-even time out. Thus, only use wildcards in a single expression within a
-search string. The function p.ia_deaccent will return é = e, so it's
-possible to search on an "anglicized" version of the name as well using
-wildcards. B. Extended ascii doesn't work correctly if 1. not surrounded
-in quotes and 2. search string contains numbers and/or wildcards
-somewhere in it and 3. multiple () statements. The extended ascii
-character becomes interpreted as ascii eg. é -\> Ã© Try for example :
-(Évariste Régis Huc) OR (Évariste Régis Huc 1813-1860) OR (É. R. Huc)
-OR (É. R. Huc 1813-1860) OR (Évariste R. Huc) OR (Évariste R. Huc
-1813-1860) OR (Évariste Huc) OR (Évariste Huc 1813-1860) C. B can be
-nullified by enclosing the string in quotes, but this creates a literal
-string and many permutations must be searched on ("John Smith" OR
-"Smith, John" etc). For names longer than 2 words it could exceed URL
-limits. URLs are limited to about 2000 characters to account for most
-browsers (IE is 2083). Thus, strategies used are a balance between
-possibilities and URL length. Update: As of 4 Nov 2015 Internet Archive
-is running Elasticsearch. Some of the bugs noted above are
-fixed.](../Page/For_functions_related_to_Internet_Archive_Notes:_1._Internet_Archive_runs_Lucene_search_engine_2._Program_flowchart:_Break_name_down_into_number_of_words_Build_a_base_URL_based_on_number_of_words_\(1,2,3,4,5+\),_use_of_sopt=t_switch,_and_availability_of_birth-death_dates_If_any_words_contain_extended-ascii_characters_append_extra_code_for_wildcards_based_on_sopt=t_or_tx_return_finished_URL_3._Lucene_has_a_number_of_known_issues_to_be_aware_of_A._Names_with_accented_letters_\(é\)_-_aka_extended_ascii_-_are_problematic._There_are_records_on_IA_in_which_the_accent_has_been_dropped_thus_é_is_e_in_the_record._Thus_a_search_strategy_has_to_use_wildcards_in_place_of_extended_ascii_characters._The_"?"_wildcard_does_not_work_correctly_on_Lucene_and_thus_recommend_"*"._Wildcards_severely_slow_down_search_times_and_after_about_5_or_8_wildcards_it_may_even_time_out._Thus,_only_use_wildcards_in_a_single_expression_within_a_search_string._The_function_p.ia_deaccent_will_return_é_=_e,_so_it's_possible_to_search_on_an_"anglicized"_version_of_the_name_as_well_using_wildcards._B._Extended_ascii_doesn't_work_correctly_if_1._not_surrounded_in_quotes_and_2._search_string_contains_numbers_and/or_wildcards_somewhere_in_it_and_3._multiple_\(\)_statements._The_extended_ascii_character_becomes_interpreted_as_ascii_eg._é_-\>_Ã©_Try_for_example_:_\(Évariste_Régis_Huc\)_OR_\(Évariste_Régis_Huc_1813-1860\)_OR_\(É._R._Huc\)_OR_\(É._R._Huc_1813-1860\)_OR_\(Évariste_R._Huc\)_OR_\(Évariste_R._Huc_1813-1860\)_OR_\(Évariste_Huc\)_OR_\(Évariste_Huc_1813-1860\)_C._B_can_be_nullified_by_enclosing_the_string_in_quotes,_but_this_creates_a_literal_string_and_many_permutations_must_be_searched_on_\("John_Smith"_OR_"Smith,_John"_etc\)._For_names_longer_than_2_words_it_could_exceed_URL_limits._URLs_are_limited_to_about_2000_characters_to_account_for_most_browsers_\(IE_is_2083\)._Thus,_strategies_used_are_a_balance_between_possibilities_and_URL_length._Update:_As_of_4_Nov_2015_Internet_Archive_is_running_Elasticsearch._Some_of_the_bugs_noted_above_are_fixed..md "wikilink")
+\--[For functions related to Internet Archive Notes: 1. Internet Archive runs Lucene search engine 2. Program flowchart: Break name down into number of words Build a base URL based on number of words (1,2,3,4,5+), use of sopt=t switch, and availability of birth-death dates If any words contain extended-ascii characters append extra code for wildcards based on sopt=t or tx return finished URL 3. Lucene has a number of known issues to be aware of A. Names with accented letters (é) - aka extended ascii - are problematic. There are records on IA in which the accent has been dropped thus é is e in the record. Thus a search strategy has to use wildcards in place of extended ascii characters. The "?" wildcard does not work correctly on Lucene and thus recommend "\*". Wildcards severely slow down search times and after about 5 or 8 wildcards it may even time out. Thus, only use wildcards in a single expression within a search string. The function p.ia_deaccent will return é = e, so it's possible to search on an "anglicized" version of the name as well using wildcards. B. Extended ascii doesn't work correctly if 1. not surrounded in quotes and 2. search string contains numbers and/or wildcards somewhere in it and 3. multiple () statements. The extended ascii character becomes interpreted as ascii eg. é -\> Ã© Try for example : (Évariste Régis Huc) OR (Évariste Régis Huc 1813-1860) OR (É. R. Huc) OR (É. R. Huc 1813-1860) OR (Évariste R. Huc) OR (Évariste R. Huc 1813-1860) OR (Évariste Huc) OR (Évariste Huc 1813-1860) C. B can be nullified by enclosing the string in quotes, but this creates a literal string and many permutations must be searched on ("John Smith" OR "Smith, John" etc). For names longer than 2 words it could exceed URL limits. URLs are limited to about 2000 characters to account for most browsers (IE is 2083). Thus, strategies used are a balance between possibilities and URL length. Update: As of 4 Nov 2015 Internet Archive is running Elasticsearch. Some of the bugs noted above are fixed.](https://zh.wikipedia.org/wiki/For_functions_related_to_Internet_Archive_Notes:_1._Internet_Archive_runs_Lucene_search_engine_2._Program_flowchart:_Break_name_down_into_number_of_words_Build_a_base_URL_based_on_number_of_words_\(1,2,3,4,5+\),_use_of_sopt=t_switch,_and_availability_of_birth-death_dates_If_any_words_contain_extended-ascii_characters_append_extra_code_for_wildcards_based_on_sopt=t_or_tx_return_finished_URL_3._Lucene_has_a_number_of_known_issues_to_be_aware_of_A._Names_with_accented_letters_\(é\)_-_aka_extended_ascii_-_are_problematic._There_are_records_on_IA_in_which_the_accent_has_been_dropped_thus_é_is_e_in_the_record._Thus_a_search_strategy_has_to_use_wildcards_in_place_of_extended_ascii_characters._The_"?"_wildcard_does_not_work_correctly_on_Lucene_and_thus_recommend_"*"._Wildcards_severely_slow_down_search_times_and_after_about_5_or_8_wildcards_it_may_even_time_out._Thus,_only_use_wildcards_in_a_single_expression_within_a_search_string._The_function_p.ia_deaccent_will_return_é_=_e,_so_it's_possible_to_search_on_an_"anglicized"_version_of_the_name_as_well_using_wildcards._B._Extended_ascii_doesn't_work_correctly_if_1._not_surrounded_in_quotes_and_2._search_string_contains_numbers_and/or_wildcards_somewhere_in_it_and_3._multiple_\(\)_statements._The_extended_ascii_character_becomes_interpreted_as_ascii_eg._é_-\>_Ã©_Try_for_example_:_\(Évariste_Régis_Huc\)_OR_\(Évariste_Régis_Huc_1813-1860\)_OR_\(É._R._Huc\)_OR_\(É._R._Huc_1813-1860\)_OR_\(Évariste_R._Huc\)_OR_\(Évariste_R._Huc_1813-1860\)_OR_\(Évariste_Huc\)_OR_\(Évariste_Huc_1813-1860\)_C._B_can_be_nullified_by_enclosing_the_string_in_quotes,_but_this_creates_a_literal_string_and_many_permutations_must_be_searched_on_\("John_Smith"_OR_"Smith,_John"_etc\)._For_names_longer_than_2_words_it_could_exceed_URL_limits._URLs_are_limited_to_about_2000_characters_to_account_for_most_browsers_\(IE_is_2083\)._Thus,_strategies_used_are_a_balance_between_possibilities_and_URL_length._Update:_As_of_4_Nov_2015_Internet_Archive_is_running_Elasticsearch._Some_of_the_bugs_noted_above_are_fixed. "wikilink")
 
 local p = {}
 
-\--[For Template:Internet Archive
-author](../Page/For_Template:Internet_Archive_author.md "wikilink")
-function p.author(frame)
+\--[For Template:Internet Archive author](https://zh.wikipedia.org/wiki/For_Template:Internet_Archive_author "wikilink") function p.author(frame)
 
 ` local pframe = frame:getParent()`
 ` local args = pframe.args`
@@ -45,7 +14,7 @@ function p.author(frame)
 ` local sname = nil                                             -- search name (default: current page name)`
 ` local sopt = nil                                              -- search options (default: nil)`
 ` byabout = "的作品或关于他的作品"`
-` tagline = "`[`互联网档案馆中`](../Page/互联网档案馆.md "wikilink")`"`
+` tagline = "`[`互联网档案馆`](../Page/互联网档案馆.md "wikilink")中`"`
 ` urlhead = "//archive.org/search.php?query="`
 ` mydate = ""                                                   -- birth-death date`
 
@@ -96,16 +65,14 @@ function p.author(frame)
 ` local birth = temp[1]`
 ` local death = temp[2]`
 ` if birth == "Error" or death == "Error" then`
-`   return "Error in `[`:Template:"..tname.."`](../Page/:Template:"..tname..".md "wikilink")`: `[`"``
- ``..name..``
- ``"`](../Page/"_..name.._".md "wikilink")` doesn't exist."`
+`   return "Error in `[`:Template:"..tname.."`](https://zh.wikipedia.org/wiki/:Template:"..tname.." "wikilink")`: `[`"``   ``..name..``   ``"`](https://zh.wikipedia.org/wiki/"_..name.._" "wikilink")` doesn't exist."`
 ` end`
 
 ` --- Split sname into words and count words`
 ` local N = mw.text.split(sname, " ")`
 ` local l, count = mw.ustring.gsub(sname, "%S+", "")`
 ` if count == 0 then`
-`   return "Error in `[`:Template:"..tname.."`](../Page/:Template:"..tname..".md "wikilink")`: Zero-word name."`
+`   return "Error in `[`:Template:"..tname.."`](https://zh.wikipedia.org/wiki/:Template:"..tname.." "wikilink")`: Zero-word name."`
 ` end `
 
 ` --- Date string`
@@ -118,7 +85,7 @@ function p.author(frame)
 ` end`
 ` `
 
-` --`[`Format``   ``URL`](../Page/Format_URL.md "wikilink")
+` --`[`Format``   ``URL`](https://zh.wikipedia.org/wiki/Format_URL "wikilink")
 
 `   if count == 1 then `
 
@@ -305,7 +272,7 @@ function p.author(frame)
 
 `   end`
 
-` return "Unknown error (1). Please check documentation for `[`Template:"..tname.."`](../Page/Template:"..tname..".md "wikilink")`"`
+` return "Unknown error (1). Please check documentation for `[`Template:"..tname.."`](https://zh.wikipedia.org/wiki/Template:"..tname.." "wikilink")`"`
 
 end
 
@@ -321,9 +288,7 @@ end
 
 end
 
-\-- Lucene returns too many false positives if first or last character
-in a word is "\*" wildcard ie. accented letter -- Build special search
-in these cases. function p.wildcrazyfix(N, count)
+\-- Lucene returns too many false positives if first or last character in a word is "\*" wildcard ie. accented letter -- Build special search in these cases. function p.wildcrazyfix(N, count)
 
 ` --- Split along "-" and use only first word ie. John-Taylor-Smith becomes John`
 ` local NF = mw.text.split(N[1], "-")`
@@ -340,8 +305,7 @@ in these cases. function p.wildcrazyfix(N, count)
 
 end
 
-\-- Return 1 if the first or last character in any word within name N is
-extended ascii function p.wildcrazycheck(N, count)
+\-- Return 1 if the first or last character in any word within name N is extended ascii function p.wildcrazycheck(N, count)
 
 ` local i = 0`
 ` `
@@ -578,8 +542,7 @@ function p.mediaTypes(argsmedia)
 
 end
 
-\-- Alt way to get b/d dates via getContent() function
-p.bdDateAlt(argsbirth, argsdeath, name)
+\-- Alt way to get b/d dates via getContent() function p.bdDateAlt(argsbirth, argsdeath, name)
 
 `   local pagetext = nil`
 `   local birth = "none"`
@@ -595,8 +558,7 @@ p.bdDateAlt(argsbirth, argsdeath, name)
 `   end`
 
 `   -- Remove false positives`
-`   pagetext = mw.ustring.gsub( mw.ustring.gsub(pagetext, "
-", ""), ".-", "")`
+`   pagetext = mw.ustring.gsub( mw.ustring.gsub(pagetext, " ", ""), ".-", "")`
 
 `   -- "Category:1900 births" `
 `   if argsbirth == "" or argsbirth == nil then`
@@ -626,8 +588,7 @@ p.bdDateAlt(argsbirth, argsdeath, name)
 
 end
 
-\-- Get b/d dates via Wikidata. -- ‎ function p.bdDate(argsbirth,
-argsdeath, name)
+\-- Get b/d dates via Wikidata. -- ‎ function p.bdDate(argsbirth, argsdeath, name)
 
 ` local pagetext = nil`
 ` local birth = "none"`
@@ -690,10 +651,7 @@ argsdeath, name)
 
 end
 
-\--- URL-encode special characters --- Note: this function was added
-later to deal with "&" characters instead of using p.ia_url_encode
-since --- that may break existing instances of the template. function
-p.urlX(str)
+\--- URL-encode special characters --- Note: this function was added later to deal with "&" characters instead of using p.ia_url_encode since --- that may break existing instances of the template. function p.urlX(str)
 
 ` if (str) then`
 `   str = mw.ustring.gsub (str, "&", "%%26")`
@@ -702,8 +660,7 @@ p.urlX(str)
 
 end
 
-\--- URL-encode a string --- <http://lua-users.org/wiki/StringRecipes>
---- function p.ia_url_encode(str)
+\--- URL-encode a string --- <http://lua-users.org/wiki/StringRecipes> --- function p.ia_url_encode(str)
 
 ` if (str) then`
 `   str = mw.ustring.gsub (str, "\n", "\r\n")`
@@ -715,8 +672,7 @@ end
 
 end
 
-\-- Does str contain extended ascii? 1 = yes function
-p.ia_extendedascii(str)
+\-- Does str contain extended ascii? 1 = yes function p.ia_extendedascii(str)
 
 `   for i = 1, str:len() do`
 `     if (str:byte(i) >= 32 and str:byte(i) <= 126) and str:byte(i) ~= 39 then -- 39 = '`
@@ -729,19 +685,13 @@ p.ia_extendedascii(str)
 
 end
 
-\-- UTF-8 aware replacement for string.sub() which doesn't support
-UTF-8. -- Note: Using instead of mw.ustring.sub() which I suspect(?)
-might be cause of intermittent error, and faster here for first-letter
-job. -- Source: prapin @ Stack Overflow
-<http://stackoverflow.com/questions/13235091/extract-the-first-letter-of-a-utf-8-string-with-lua>
-function p.firstLetter(str)
+\-- UTF-8 aware replacement for string.sub() which doesn't support UTF-8. -- Note: Using instead of mw.ustring.sub() which I suspect(?) might be cause of intermittent error, and faster here for first-letter job. -- Source: prapin @ Stack Overflow <http://stackoverflow.com/questions/13235091/extract-the-first-letter-of-a-utf-8-string-with-lua> function p.firstLetter(str)
 
 ` return str:match("[%z\1-\127\194-\244][\128-\191]*")`
 
 end
 
-\-- Replace all extended ascii characters with wildcard '\*' function
-p.ia_extendedascii2wildcard(str)
+\-- Replace all extended ascii characters with wildcard '\*' function p.ia_extendedascii2wildcard(str)
 
 `   local s = ""`
 `   local j = 0`
@@ -750,11 +700,7 @@ p.ia_extendedascii2wildcard(str)
 `     k = str:byte(i)`
 `     if k >= 32 and k <= 126 then`
 
-\-- For list of Lucene special characters needing to be escaped: --
-<http://lucene.apache.org/core/4_10_0/queryparser/org/apache/lucene/queryparser/classic/package-summary.html#Escaping_Special_Characters>
--- We only worry about - (45) and " (34) since the others are unlikely
-to appear in a proper name. -- Also ' (39) since it is sometimes the
-extended character ’
+\-- For list of Lucene special characters needing to be escaped: -- <http://lucene.apache.org/core/4_10_0/queryparser/org/apache/lucene/queryparser/classic/package-summary.html#Escaping_Special_Characters> -- We only worry about - (45) and " (34) since the others are unlikely to appear in a proper name. -- Also ' (39) since it is sometimes the extended character ’
 
 `       if k == 45 or k == 34 or k == 39 then `
 `         s = s .. "*" `
@@ -774,11 +720,7 @@ extended character ’
 
 end
 
-\-- Replace accented letters with non-accented equivalent letters --
-Note: this is not a complete list of all possible accented letters.
-Rather it is -- all of the accented letters found in the first 10,000
-names which are using -- the Internet Archive author template. function
-p.ia_deaccent(str)
+\-- Replace accented letters with non-accented equivalent letters -- Note: this is not a complete list of all possible accented letters. Rather it is -- all of the accented letters found in the first 10,000 names which are using -- the Internet Archive author template. function p.ia_deaccent(str)
 
 `   local s = str`
 

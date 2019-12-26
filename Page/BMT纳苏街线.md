@@ -171,15 +171,10 @@
 [Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1908年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1908年啟用的鐵路線 "wikilink") [Category:1908年紐約州建立](https://zh.wikipedia.org/wiki/Category:1908年紐約州建立 "wikilink")
 
 1.
-
 2.
-
 3.  [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [Mayor Runs a Train Over New Bridge](https://select.nytimes.com/gst/abstract.html?res=FB0B16FC3C5D16738DDDAE0994D1405B888CF1D3), September 17, 1908, page 16
-
 4.  [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [Passenger Killed on Loop's First Day](https://select.nytimes.com/gst/abstract.html?res=FB0C15FE395B13738DDDAC0894D0405B838DF1D3), August 5, 1913, page 2
-
 5.
 6.
 7.
-
 8.

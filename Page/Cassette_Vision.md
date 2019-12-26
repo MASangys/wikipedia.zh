@@ -66,11 +66,10 @@ Cassette Vision共發售11款遊戲，其中3款並不支援Cassette Vision Jr.\
 ## 外部链接
 
   -
-[Category:家用遊戲機](https://zh.wikipedia.org/wiki/Category:家用遊戲機 "wikilink") [Category:第二世代遊戲機](https://zh.wikipedia.org/wiki/Category:第二世代遊戲機 "wikilink") [Category:1981年面世的產品](https://zh.wikipedia.org/wiki/Category:1981年面世的產品 "wikilink")
+[Category:家用遊戲機](https://zh.wikipedia.org/wiki/Category:家用遊戲機 "wikilink") [Category:第二世代遊戲機](https://zh.wikipedia.org/wiki/Category:第二世代遊戲機 "wikilink") [Category:1981年面世的產品](https://zh.wikipedia.org/wiki/Category:1981年面世的產品 "wikilink") [Category:Epoch電子遊戲機](https://zh.wikipedia.org/wiki/Category:Epoch電子遊戲機 "wikilink")
 
 1.
 2.  『[快樂快樂月刊](../Page/快樂快樂月刊.md "wikilink")』1983年10月号の比較記事より。
-
 3.
 4.
 5.
@@ -86,27 +85,17 @@ Cassette Vision共發售11款遊戲，其中3款並不支援Cassette Vision Jr.\
 15.
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
 23.
-
 24.
 25.
-
 26.
 27.
-
 28.
 29.
-
 30.
-
 31.

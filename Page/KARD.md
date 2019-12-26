@@ -761,6 +761,9 @@ DSP Media 表示：「混聲企劃團體 K.A.R.D 是分為三個階段的企劃�
 | 10月11日                          |
 | 10月13日                          |
 | 10月15日                          |
+| WILD KARD Tour in USA           |
+| 10月18日                          |
+| 10月20日                          |
 |                                 |
 
   - KARD其他大型演唱會
@@ -895,169 +898,87 @@ DSP Media 表示：「混聲企劃團體 K.A.R.D 是分為三個階段的企劃�
 [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink") [Category:K.A.R.D](https://zh.wikipedia.org/wiki/Category:K.A.R.D "wikilink")
 
 1.
-
-2.  [April 隊長昭敏退出組合](http://kpopn.niusnews.com/=K19zxo77)
-
-3.  [DSP 新團 K.A.R.D 概念照公開](http://kpopn.niusnews.com/=K2j55es6)
-
-4.  [K.A.R.D 個人表演影片、隱藏成員概念照](http://kpopn.niusnews.com/=K3wp0tj4)
-
+2.
+3.
+4.
 5.
-
-6.  [K.A.R.D 出道曲《Oh NaNa》舞蹈預告](http://kpopn.niusnews.com/=K26c96x0)
-
-7.  [K.A.R.D 將於16日發表第二張單曲](http://kpopn.niusnews.com/=K0gtfw00)
-
-8.  [昭敏、Jeon Ji Woo《Don't Recall》概念照](http://kpopn.niusnews.com/=K1bv43n0)
-
-9.  [BM、J.Seph《Don't Recall》概念照](http://kpopn.niusnews.com/=K2q7zyu3)
-
-10. [K.A.R.D《Don't Recall》團體概念照](http://kpopn.niusnews.com/=K0321h82)
-
+6.
+7.
+8.
+9.
+10.
 11.
-
-12. [K.A.R.D《Don't Recall》舞蹈預告公開](http://kpopn.niusnews.com/=K0vgg2l5)
-
-13. [K.A.R.D《Don't Recall》新團體概念照](http://kpopn.niusnews.com/=K04kkgg4)
-
-14. [K.A.R.D《Don't Recall》分組預告影片](http://kpopn.niusnews.com/=K19bbyn5)
-
+12.
+13.
+14.
 15.
-
 16.
-
 17.
-
-18. [K.A.R.D《Don't Recall》MV 預告公開](http://kpopn.niusnews.com/=K1zxcr77)
-
-19. [K.A.R.D《Don't Recall》MV 公開](http://kpopn.niusnews.com/=K0o4vb49)
-
+18.
+19.
 20.
-
 21. [Hidden track will be unveiled](https://twitter.com/KARD_Official/status/836229407899443203)
-
 22.
-
 23. [KARD to hold their 1st tour in America](http://www.allkpop.com/article/2017/03/kard-to-hold-their-1st-tour-in-america)
-
-24. [K.A.R.D預計四月底回歸](http://kpopn.niusnews.com/=K1blrvl0)
-
+24.
 25.
-
 26.
-
 27.
-
 28. [官方推特宣布正式出道](https://twitter.com/KARD_Official/status/880440725850038272)
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41. [根據官方網站](http://dspmedia.co.kr/dsp/sub/p_pop09.php)
-
 42.
-
 43. [The Birth of Matthew Jinsuk Kim](http://www.californiabirthindex.org/birth/matthew_jinsuk_kim_born_1992_21504495)
-
 44.
 45.
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.
-
 78.
-
 79.
-
 80.
-
 81.
-
 82.
-
 83.
-
 84.
-
 85. [查詢音樂著作權網站](https://m.komca.or.kr:8700/srch2/srch_01.jsp)

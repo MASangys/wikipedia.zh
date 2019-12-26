@@ -37,6 +37,16 @@
 </tr>
 <tr class="odd">
 <td><center>
+<p><a href="../Page/森川智之.md" title="wikilink">森川智之</a></p></td>
+<td><center>
+<p><a href="../Page/于正昇.md" title="wikilink">于正昇</a></p></td>
+<td><center></td>
+<td><center>
+<p><strong>野原廣志</strong><br />
+</p></td>
+</tr>
+<tr class="even">
+<td><center>
 <p><a href="../Page/楢橋美紀.md" title="wikilink">楢橋美紀</a></p></td>
 <td><center>
 <p><a href="../Page/王瑞芹.md" title="wikilink">王瑞芹</a></p></td>
@@ -46,20 +56,11 @@
 <p><strong>野原美冴</strong><br />
 </p></td>
 </tr>
-<tr class="even">
-<td><center>
-<p><a href="../Page/森川智之.md" title="wikilink">森川智之</a></p></td>
-<td><center>
-<p><a href="../Page/于正昌.md" title="wikilink">于正昌</a></p></td>
-<td><center></td>
-<td><center>
-<p><strong>野原廣志</strong><br />
-</p></td>
-</tr>
 <tr class="odd">
 <td><center>
 <p><a href="../Page/興梠里美.md" title="wikilink">興梠里美</a></p></td>
-<td><center></td>
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/吳貴竹" title="wikilink">吳貴竹</a></p></td>
 <td><center></td>
 <td><center>
 <p><strong>野原向日葵</strong><br />
@@ -68,7 +69,8 @@
 <tr class="even">
 <td><center>
 <p><a href="../Page/真柴摩利.md" title="wikilink">真柴摩利</a></p></td>
-<td><center></td>
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/吳貴竹" title="wikilink">吳貴竹</a></p></td>
 <td><center></td>
 <td><center>
 <p><strong>小白</strong><br />
@@ -77,7 +79,8 @@
 <tr class="odd">
 <td><center>
 <p><a href="../Page/真柴摩利.md" title="wikilink">真柴摩利</a></p></td>
-<td><center></td>
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/吳貴竹" title="wikilink">吳貴竹</a></p></td>
 <td><center></td>
 <td><center>
 <p><strong>風間徹</strong><br />
@@ -86,7 +89,8 @@
 <tr class="even">
 <td><center>
 <p><a href="../Page/林玉緒.md" title="wikilink">林玉緒</a></p></td>
-<td><center></td>
+<td><center>
+<p><a href="../Page/楊凱凱.md" title="wikilink">楊凱凱</a></p></td>
 <td><center></td>
 <td><center>
 <p><strong>櫻田妮妮</strong><br />
@@ -95,7 +99,8 @@
 <tr class="odd">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/一龍斎貞友" title="wikilink">一龍斎貞友</a></p></td>
-<td><center></td>
+<td><center>
+<p><a href="../Page/宋昱璁.md" title="wikilink">宋昱璁</a></p></td>
 <td><center></td>
 <td><center>
 <p><strong>佐藤正男</strong><br />
@@ -105,7 +110,7 @@
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/佐藤智恵" title="wikilink">佐藤智恵</a></p></td>
 <td><center>
-<p><a href="../Page/王瑞芹.md" title="wikilink">王瑞芹</a></p></td>
+<p><a href="../Page/于正昇.md" title="wikilink">于正昇</a></p></td>
 <td><center></td>
 <td><center>
 <p><strong>阿呆</strong><br />
@@ -134,7 +139,7 @@
 <td><center>
 <p><strong>Pi力</strong><br />
 </p></td>
-<td><p>突然出現的小小宇宙人，在抵達地球時與小新相識，為了找到爸爸，一邊與小新展開地球之旅一邊尋找。雖然找到了爸爸，但實際上完全是被他利用了，為了阻止爸爸將全球的大人返老還童的陰謀，與野原一家合作。最後成功逼迫爸爸放棄並返回納斯巴帝星，而他則決定與爸爸分道揚鑣，將野原一家送回地球，可惜宇宙船抵達地球時已經嚴重損毀，使得他無法回到故鄉，美冴突然在這時表示決定收留他，往後就待在地球與野原一家生活，直到某個夜晚，其母駕駛宇宙船來到地球，但無交代後續，可能告別野原一家，隨著其母回到納斯巴帝星了。</p></td>
+<td><p>突然出現的小小宇宙人，在抵達地球時與小新相識，為了找到爸爸，一邊與小新展開地球之旅一邊尋找。雖然找到了爸爸，但實際上完全是被他利用了，為了阻止爸爸將全球的大人返老還童的陰謀，與野原一家合作。最後成功逼迫爸爸放棄並返回納斯巴帝星，而他則決定與爸爸分道揚鑣，將野原一家送回地球，可惜宇宙船抵達地球時已經嚴重損毀，使得他無法回到故鄉，美冴突然在這時表示決定收留他，往後就待在地球與野原一家一同生活、與春日部防衛隊一同玩樂，直到某個夜晚，其母駕駛宇宙船來到地球，但無交代後續，可能告別野原一家，隨著其母回到納斯巴帝星了。</p></td>
 </tr>
 <tr class="odd">
 <td><center>

@@ -77,4 +77,4 @@
 2.  [melon](http://www.melon.com/album/detail.htm?albumId=2327679)
 3.  [bugs](http://search.bugs.co.kr/track?q=%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A1%9C%EC%9A%B0)
 4.  [mnet](http://www.mnet.com/album/469204)
-5.  [HIGHBROW 與李海麗合作](http://kpopn.com/2015/07/06/284212/)
+5.

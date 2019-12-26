@@ -21,22 +21,13 @@ Android One由Google-{高}-级副总裁[Sundar Pichai推动](https://zh.wikipedi
 [Category:Android](https://zh.wikipedia.org/wiki/Category:Android "wikilink") [Category:智能手机](https://zh.wikipedia.org/wiki/Category:智能手机 "wikilink")
 
 1.
-
 2.  [Google reveals the first ultra-cheap Android One smartphones](http://www.theverge.com/2014/9/15/6151329/first-android-one-smartphones-announced)
-
 3.  [With Android One, Google puts itself firmly back in the OS' driving seat](http://www.zdnet.com/with-android-one-google-puts-itself-firmly-back-in-the-os-driving-seat-7000033662/)
-
 4.  [MediaTek Teams With Google on Android One™ to Create Affordable Smartphones for Emerging Markets](http://www.mediatek.com/en/news-events/mediatek-news/mediatek-teams-with-google-on-android-one-to-create-affordable-smartphones-for-emerging-markets/)
-
 5.  [Android One launches in India: Why Google’s latest project is a big deal](http://tech.firstpost.com/news-analysis/android-one-launches-in-india-why-googles-latest-project-is-a-big-deal-233891.html)
-
 6.  [Google Gives Out Low-Cost Android One](http://www.technotification.com/2014/09/google-gives-out-low-cost-android-one.html)
-
 7.
 8.
-
 9.  [Google officially launches Android One Smartphones in Nepal](http://np.lifestohack.com/google-officially-launches-android-one-smartphones-in-nepal/)
-
 10. [Android One: Google's push to rule the smartphone world](http://www.cnet.com/news/android-one-googles-push-to-rule-the-smartphone-world/)
-
 11. [official Partner in Pakistan for Android One](http://www.qmobile.com.pk/phone-androidone.html/Google)

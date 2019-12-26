@@ -88,7 +88,7 @@
 
 ### 聖田園調布北極星學園
 
-  - 美麗 （） - [白石麻衣](../Page/白石麻衣.md "wikilink")（幼年期：）（粤语配音：高雅玲）
+  - 美麗 （） - [白石麻衣](../Page/白石麻衣.md "wikilink")（幼年期：）（粤语配音：[高雅玲](https://zh.wikipedia.org/wiki/高雅玲 "wikilink")）
     球衣背號1號，守備位置為[投手](../Page/投手.md "wikilink")。\[20\]
     聖田園調布北極星學園壘球部隊長。
     是位極受歡迎的千金，擁有異於常人的壘球天分。
@@ -626,7 +626,7 @@
 
 ## 參考資料
 
-[Category:電視劇24](https://zh.wikipedia.org/wiki/Category:電視劇24 "wikilink") [Category:與運動有關的電視劇](https://zh.wikipedia.org/wiki/Category:與運動有關的電視劇 "wikilink") [Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink") [Category:乃木坂46電視節目](https://zh.wikipedia.org/wiki/Category:乃木坂46電視節目 "wikilink") [Category:球類運動題材作品](https://zh.wikipedia.org/wiki/Category:球類運動題材作品 "wikilink") [Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
+[Category:電視劇24](https://zh.wikipedia.org/wiki/Category:電視劇24 "wikilink") [Category:體育題材電視劇](https://zh.wikipedia.org/wiki/Category:體育題材電視劇 "wikilink") [Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink") [Category:乃木坂46電視節目](https://zh.wikipedia.org/wiki/Category:乃木坂46電視節目 "wikilink") [Category:球類運動題材作品](https://zh.wikipedia.org/wiki/Category:球類運動題材作品 "wikilink") [Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
 
 1.
 2.

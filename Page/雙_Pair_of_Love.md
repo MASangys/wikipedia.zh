@@ -117,17 +117,10 @@
 [Category:微電影](https://zh.wikipedia.org/wiki/Category:微電影 "wikilink") [Category:中學背景電影](https://zh.wikipedia.org/wiki/Category:中學背景電影 "wikilink") [Category:高中背景電影](https://zh.wikipedia.org/wiki/Category:高中背景電影 "wikilink") [Category:台灣取景電影](https://zh.wikipedia.org/wiki/Category:台灣取景電影 "wikilink") [Category:同性戀電影](https://zh.wikipedia.org/wiki/Category:同性戀電影 "wikilink") [Category:臺灣青春電影](https://zh.wikipedia.org/wiki/Category:臺灣青春電影 "wikilink") [Category:台灣愛情片](https://zh.wikipedia.org/wiki/Category:台灣愛情片 "wikilink")
 
 1.  [双Pair Of Love 官方HD正式版40分30秒 - Youtube](https://www.youtube.com/watch?v=weZZRlUhWaw/), Feb 8, 2014
-
 2.  [影評：雙Pair of Love 完整版@ YOUTUBE\!](https://www.p.cc/bbs/gay/M.1392391954.A.7FE.html/), Feb 14, 2014
-
 3.  [(2010)台灣銘傳大學/數位媒體設計系第七屆畢業製作：雙Pair of Love。（內有線上看+分析）Pchome個人新聞台](http://mypaper.pchome.com.tw/miss33lin/post/1329534202/)
-
 4.  [台湾同志片《双Pair of Love》影评,下载](http://gayi.us/movie-pair-of-love/), Dec 29, 2010
-
 5.  [幸福R. 1號。：雙 Pair of Love - yam天空部落](http://blog.yam.com/biubiuqq/article/42268515/)  April 24, 2012
-
 6.  [台湾短片《双 - Pair of Love》...类似暹罗之恋的美好结局。](http://blog.renren.com/share/291880807/8244890683/)
-
 7.  [雙Pair of Love-演員。男 @ 雙Pair of Love :: 隨意窩 Xuite日誌](http://blog.xuite.net/flytofilm/wretch/186662170-%E5%8F%8C+Pair+of+Love-%E6%BC%94%E5%93%A1%E3%80%82%E7%94%B7/), Mar 18, 2010
-
 8.

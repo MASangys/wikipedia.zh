@@ -301,7 +301,7 @@ SELF\&SHELF LOFT（セルフ&シェルフ - ）…文具為中心的店舖
 [Category:崇光·西武](https://zh.wikipedia.org/wiki/Category:崇光·西武 "wikilink") [Category:日本零售商](https://zh.wikipedia.org/wiki/Category:日本零售商 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink") [Category:1996年成立的公司](https://zh.wikipedia.org/wiki/Category:1996年成立的公司 "wikilink")
 
 1.  [株式会社ロフトと学校法人立命館との連携・協力に関する包括協定の締結について](http://www.ritsumei.jp/news/detail_j/topics/12973/year/2014) - 立命館大学、2014年8月1日
-2.  [ロフトと立命館が協定　商品開発など連携](http://kyoto-np.jp/education/article/20140802000017) - 京都新聞、2014年8月2日
+2.  [ロフトと立命館が協定　商品開発など連携](http://kyoto-np.jp/education/article/20140802000017)  - 京都新聞、2014年8月2日
 3.  [盛岡に「ロフト」出店　カワトク入居、3月上旬予定](http://www.iwate-np.co.jp/economy/y2012/m01/e1201211.html)
 4.
 5.  <http://www.itoyokado.co.jp/dbps_data/_material_/localhost/pdf/2013/130308.pdf>

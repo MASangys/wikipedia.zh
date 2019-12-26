@@ -46,17 +46,23 @@
 
   - [三星Galaxy A8s](../Page/三星Galaxy_A8s.md "wikilink") (國際版)
   - [Samsung Galaxy A9 Pro（2019）](../Page/三星Galaxy_A8s.md "wikilink")(南韓版A8s)
-  - [Samsung Galaxy A10](../Page/三星Galaxy_A10.md "wikilink")
-  - [Samsung Galaxy A20e](https://zh.wikipedia.org/wiki/Samsung_Galaxy_A20e "wikilink")
-  - [Samsung Galaxy A20](https://zh.wikipedia.org/wiki/三星Galaxy_A20 "wikilink")
-  - [Samsung Galaxy A30](https://zh.wikipedia.org/wiki/三星Galaxy_A30 "wikilink")
-  - [Samsung Galaxy A40](https://zh.wikipedia.org/wiki/三星Galaxy_A40 "wikilink")
-  - [Samsung Galaxy A40s](https://zh.wikipedia.org/wiki/三星Galaxy_A40s "wikilink") （國際版M30）
-  - [Samsung Galaxy A50](../Page/三星Galaxy_A50.md "wikilink")
-  - [Samsung Galaxy A60](../Page/三星Galaxy_A60.md "wikilink")
-  - [Samsung Galaxy A60 元氣版](../Page/三星Galaxy_A60.md "wikilink")（中國版A60）
-  - [Samsung Galaxy A70](../Page/三星Galaxy_A70.md "wikilink")
-  - [Samsung Galaxy A80](../Page/三星Galaxy_A80.md "wikilink")
+  - [三星Galaxy A10](../Page/三星Galaxy_A10.md "wikilink")
+  - [三星Galaxy A10s](https://zh.wikipedia.org/wiki/三星Galaxy_A10s "wikilink")
+  - [三星Galaxy A20e](https://zh.wikipedia.org/wiki/三星Galaxy_A20e "wikilink")
+  - [三星Galaxy A20](https://zh.wikipedia.org/wiki/三星Galaxy_A20 "wikilink")
+  - [三星Galaxy A20s](https://zh.wikipedia.org/wiki/三星Galaxy_A20s "wikilink")
+  - [三星Galaxy A30](https://zh.wikipedia.org/wiki/三星Galaxy_A30 "wikilink")
+  - [三星Galaxy A30s](https://zh.wikipedia.org/wiki/三星Galaxy_A30s "wikilink")
+  - [三星Galaxy A40](https://zh.wikipedia.org/wiki/三星Galaxy_A40 "wikilink")
+  - [三星Galaxy A40s](https://zh.wikipedia.org/wiki/三星Galaxy_A40s "wikilink") （國際版M30）
+  - [三星Galaxy A50](../Page/三星Galaxy_A50.md "wikilink")
+  - [三星Galaxy A50s](https://zh.wikipedia.org/wiki/三星Galaxy_A50s "wikilink")
+  - [三星Galaxy A60](../Page/三星Galaxy_A60.md "wikilink")
+  - [三星Galaxy A60元氣版](https://zh.wikipedia.org/wiki/三星Galaxy_A60元氣版 "wikilink")（中國版A60）
+  - [三星Galaxy A70](../Page/三星Galaxy_A70.md "wikilink")
+  - [三星Galaxy A70s](https://zh.wikipedia.org/wiki/三星Galaxy_A70s "wikilink")
+  - [三星Galaxy A80](../Page/三星Galaxy_A80.md "wikilink")
+  - [三星Galaxy A90 5G](https://zh.wikipedia.org/wiki/三星Galaxy_A90_5G "wikilink")
 
 ## 旗下平板電腦 \<ref name 'multiple'\>https://www.samsung.com/hk/\]</ref>
 
@@ -630,8 +636,25 @@
 <td><p>microSDXC (max 512 GB)</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A10s" title="wikilink">Samsung Galaxy A10s</a></p></td>
+<td><p>SM-A107F[39]</p></td>
+<td><p>8 2019</p></td>
+<td><p>156.9 x 75.8 x 7.8</p></td>
+<td><p>168</p></td>
+<td><p>TFT LCD</p></td>
+<td><p>MediaTek Helio P22</p></td>
+<td><p>2 GHz quad-core ARM Cortex-A53 &amp; 1.5GHz quad-core ARM Cortex-A53</p></td>
+<td><p>PowerVR GE8320</p></td>
+<td><p>4,000 mAh</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A20" title="wikilink">Samsung Galaxy A20</a></p></td>
-<td><p>SM-A205x [39][40]</p></td>
+<td><p>SM-A205x [40][41]</p></td>
 <td><p>3 2019</p></td>
 <td><p>158.4 x 74.7 x 7.8</p></td>
 <td><p>169</p></td>
@@ -639,8 +662,25 @@
 <td><p>HD+ (720 x 1560)</p></td>
 <td><p>269</p></td>
 <td><p><a href="../Page/AMOLED.md" title="wikilink">Super AMOLED</a></p></td>
+<td><p>Samsung Exynos 7 Octa 7884</p></td>
+<td><p>1.6 GHz dual-core ARM Cortex-A73 &amp; 1.35 GHz hexa-core ARM Cortex-A73</p></td>
+<td><p>ARM Mali-G71 GPU</p></td>
 <td><p>3</p></td>
-<td><p>4,000 mAh</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A20s" title="wikilink">Samsung Galaxy A20s</a></p></td>
+<td><p>SM-A207x</p></td>
+<td><p>11 2019</p></td>
+<td><p>163.3 x 77.5 x 8</p></td>
+<td><p>183</p></td>
+<td><p>6.5</p></td>
+<td><p>265</p></td>
+<td><p>TFT LCD</p></td>
+<td><p>Qualcomm Snapdragon 450</p></td>
+<td><p>1.8 GHz octa-core ARM Cortex-A53</p></td>
+<td><p>Qualcomm Adreno 506 GPU</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -648,29 +688,49 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A30" title="wikilink">Samsung Galaxy A30</a></p></td>
-<td><p>SM-A305F [41][42]</p></td>
+<td><p>SM-A305F [42][43]</p></td>
 <td><p>2 2019</p></td>
 <td><p>158.5 x 74.7 x 7.7</p></td>
 <td><p>166</p></td>
+<td><p>6.4</p></td>
 <td><p>Full HD+</p>
 <p>(1080 x 2340)</p></td>
 <td><p>404</p></td>
+<td><p><a href="../Page/AMOLED.md" title="wikilink">Super AMOLED</a></p></td>
 <td><p>Samsung Exynos 7 Octa 7904</p></td>
 <td><p>1.8 GHz dual-core ARM Cortex-A73 &amp; 1.6 GHz hexa-core ARM Cortex A53</p></td>
 <td><p>ARM Mali-G71MP2</p></td>
 <td><p>4</p></td>
 <td><p>64</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A30s" title="wikilink">Samsung Galaxy A30s</a></p></td>
+<td><p>SM-A307x</p></td>
+<td><p>8 2019</p></td>
+<td><p>158.5 x 74.7 x 7.8</p></td>
+<td><p>169</p></td>
+<td><p>6.5</p></td>
+<td><p>HD+</p>
+<p>(720 x 1560)</p></td>
+<td><p>269</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A40" title="wikilink">Samsung Galaxy A40</a></p></td>
-<td><p>SM-A405x [43]</p></td>
+<td><p>SM-A405x [44]</p></td>
 <td><p>3 2019</p></td>
 <td><p>144.4 x 69.2 x 7.9</p></td>
 <td><p>140</p></td>
 <td><p>5.9</p></td>
+<td><p>Full HD+</p>
+<p>(1080 x 2340)</p></td>
 <td><p>437</p></td>
 <td><p>Samsung Exynos 7 Octa 7885</p></td>
 <td><p>2.2 GHz dual-core ARM Cortex-A73 &amp; 1.6 GHz hexa-core ARM Cortex-A53</p></td>
@@ -679,11 +739,10 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A40s" title="wikilink">Samsung Galaxy A40s</a></p></td>
-<td><p>SM-A3050 [44]</p></td>
+<td><p>SM-A3050 [45]</p></td>
 <td><p>4 2019</p></td>
 <td><p>159.1 x 75.1 x 8.5</p></td>
 <td><p>174</p></td>
@@ -695,30 +754,48 @@
 <td><p>1.8 GHz dual-core ARM Cortex-A73 &amp; 1.6 GHz hexa-core ARM Cortex-A53</p></td>
 <td><p>ARM Mali-G71MP2</p></td>
 <td><p>6</p></td>
+<td><p>microSDXC</p>
+<p>(max 512 GB)</p></td>
 <td><p>5,000 mAh</p></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A50" title="wikilink">Samsung Galaxy A50</a></p></td>
-<td><p>SM-A505x [45]</p></td>
+<td><p>SM-A505x [46]</p></td>
 <td><p>2 2019</p></td>
 <td><p>158.5 x 74.7 x 7.7</p></td>
 <td><p>166</p></td>
 <td><p>6.4</p></td>
 <td><p>Full HD+ (1080 x 2340)</p></td>
 <td><p>404</p></td>
+<td><p><a href="../Page/AMOLED.md" title="wikilink">Super AMOLED</a></p></td>
 <td><p>Samsung Exynos 7 Octa 9610</p></td>
 <td><p>2.3 GHz quad-core ARM Cortex-A73 &amp; 1.74 GHz quad-core ARM Cortex-A53</p></td>
 <td><p>ARM Mali-G72 GPU</p></td>
 <td><p>4 or 6</p></td>
 <td><p>64 or 128</p></td>
 <td><p>4,000 mAh</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A50s" title="wikilink">Samsung Galaxy A50s</a></p></td>
+<td><p>SM-A507F</p></td>
+<td><p>9 2019</p></td>
+<td><p>158.5 x 74.5 x 7.7</p></td>
+<td><p>4</p></td>
+<td><p>64</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A60" title="wikilink">Samsung Galaxy A60</a></p></td>
-<td><p>SM-A6060 [46]</p></td>
+<td><p>SM-A6060 [47]</p></td>
 <td><p>4 2019</p></td>
 <td><p>155.3 x 73.9 x 7.9</p></td>
 <td><p>168</p></td>
@@ -729,13 +806,13 @@
 <td><p>2 GHz dual-core ARM Cortex-A76 &amp; 1.7 GHz hexa-core ARM Cortex-A55</p></td>
 <td><p>Qualcomm Adreno 612 GPU</p></td>
 <td><p>6</p></td>
+<td><p>64 or 128</p></td>
 <td><p>3,500 mAh</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/三星Galaxy_A70.md" title="wikilink">Samsung Galaxy A70</a></p></td>
-<td><p>SM-A705F [47]</p></td>
+<td><p>SM-A705F [48]</p></td>
 <td><p>3 2019</p></td>
 <td><p>164.3 x 76.7 x 7.9</p></td>
 <td><p>183</p></td>
@@ -751,8 +828,26 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A70s" title="wikilink">Samsung Galaxy A70s</a></p></td>
+<td><p>SM-A707F</p>
+<p>[49]</p></td>
+<td><p>9 2019</p></td>
+<td><p>187</p></td>
+<td><p>8</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/三星Galaxy_A80.md" title="wikilink">Samsung Galaxy A80</a></p></td>
-<td><p>SM-A805x / SM-A805F [48][49][50]</p></td>
+<td><p>SM-A805x / SM-A805F [50][51][52]</p></td>
 <td><p>4 2019</p></td>
 <td><p>165.2 x 76.5 x 9.3</p></td>
 <td><p>220</p></td>
@@ -762,6 +857,23 @@
 <td><p>8</p></td>
 <td><p>不適用</p></td>
 <td><p>3,700 mAh</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A90_5G" title="wikilink">Samsung Galaxy A90 5G</a></p></td>
+<td><p>SM-A908x</p></td>
+<td><p>9 2019</p></td>
+<td><p>164.8 x 76.4 x 8.4</p></td>
+<td><p>206</p></td>
+<td><p>Qualcomm Snapdragon 855</p></td>
+<td><p>2.4-2.8GHz quad-core ARM Cortex-A76 &amp; 1.7 GHz quad-core ARM Cortex-A55</p></td>
+<td><p>Qualcomm Adreno 640 GPU</p></td>
+<td><p>6</p></td>
+<td><p>microSDXC (max 512 GB)</p></td>
+<td><p>4,500 mAh</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -835,15 +947,17 @@
 36.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=14481\&c=samsung_sm-a750fds_galaxy_a7_2018_duos_global_td-lte_128gb__samsung_a750|accessdate=2019-05-28|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=14481&c=samsung_sm-a750fds_galaxy_a7_2018_duos_global_td-lte_128gb__samsung_a750%7Caccessdate=2019-05-28%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
 37.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=13942\&c=samsung_sm-g885fds_galaxy_a8_star_duos_global_td-lte__samsung_g885|accessdate=2019-05-31|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=13942&c=samsung_sm-g885fds_galaxy_a8_star_duos_global_td-lte__samsung_g885%7Caccessdate=2019-05-31%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
 38.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=14860\&c=samsung_sm-a105fds_galaxy_a10_2019_global_dual_sim_td-lte_32gb__samsung_a105|accessdate=2019-05-31|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=14860&c=samsung_sm-a105fds_galaxy_a10_2019_global_dual_sim_td-lte_32gb__samsung_a105%7Caccessdate=2019-05-31%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
-39.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=15006\&c=samsung_sm-a205fds_galaxy_a20_2019_global_dual_sim_td-lte_32gb__samsung_a205|accessdate=2019-05-31|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=15006&c=samsung_sm-a205fds_galaxy_a20_2019_global_dual_sim_td-lte_32gb__samsung_a205%7Caccessdate=2019-05-31%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
-40.  SM-A205GZOVTGY {{\!}} HK|url=[https://www.samsung.com/hk/smartphones/galaxy-a20-a205/SM-A205GZOVTGY/|accessdate=2019-05-31|work=Samsung](https://www.samsung.com/hk/smartphones/galaxy-a20-a205/SM-A205GZOVTGY/%7Caccessdate=2019-05-31%7Cwork=Samsung) hk|language=zh-HK}}
-41.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=14873\&c=samsung_sm-a305fds_galaxy_a30_2019_global_dual_sim_td-lte__samsung_a305|accessdate=2019-05-31|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=14873&c=samsung_sm-a305fds_galaxy_a30_2019_global_dual_sim_td-lte__samsung_a305%7Caccessdate=2019-05-31%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
-42.  SM-A305GZBOBRI {{\!}} Samsung 台灣|url=[https://www.samsung.com/tw/smartphones/galaxy-a30-a305/SM-A305GZBOBRI/|accessdate=2019-05-31|work=Samsung](https://www.samsung.com/tw/smartphones/galaxy-a30-a305/SM-A305GZBOBRI/%7Caccessdate=2019-05-31%7Cwork=Samsung) tw|language=zh-TW}}
-43.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=15008\&c=samsung_sm-a405fnds_galaxy_a40_2019_global_dual_sim_td-lte_64gb__samsung_a405|accessdate=2019-05-31|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=15008&c=samsung_sm-a405fnds_galaxy_a40_2019_global_dual_sim_td-lte_64gb__samsung_a405%7Caccessdate=2019-05-31%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
-44.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=15108\&c=samsung_sm-a3050ds_galaxy_a40s_2019_dual_sim_td-lte_cn__samsung_am305|accessdate=2019-05-31|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=15108&c=samsung_sm-a3050ds_galaxy_a40s_2019_dual_sim_td-lte_cn__samsung_am305%7Caccessdate=2019-05-31%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
-45.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=15009\&c=samsung_sm-a505fds_galaxy_a50_2019_global_dual_sim_td-lte_128gb__samsung_a505|accessdate=2019-05-31|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=15009&c=samsung_sm-a505fds_galaxy_a50_2019_global_dual_sim_td-lte_128gb__samsung_a505%7Caccessdate=2019-05-31%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
-46.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=15110\&c=samsung_sm-a6060ds_galaxy_a60_2019_dual_sim_td-lte_cn_64gb__samsung_a606|accessdate=2019-05-31|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=15110&c=samsung_sm-a6060ds_galaxy_a60_2019_dual_sim_td-lte_cn_64gb__samsung_a606%7Caccessdate=2019-05-31%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
-47.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=15047\&c=samsung_sm-a705fnds_galaxy_a70_2019_standard_edition_dual_sim_td-lte_emea_128gb__samsung_a705|accessdate=2019-05-31|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=15047&c=samsung_sm-a705fnds_galaxy_a70_2019_standard_edition_dual_sim_td-lte_emea_128gb__samsung_a705%7Caccessdate=2019-05-31%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
-48.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=15005\&c=samsung_sm-a805f_galaxy_a80_2019_td-lte_emea__samsung_a805|accessdate=2019-05-31|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=15005&c=samsung_sm-a805f_galaxy_a80_2019_td-lte_emea__samsung_a805%7Caccessdate=2019-05-31%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
-49.
-50.
+39.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=15405\&c=samsung_sm-a107fds_galaxy_a10s_2019_global_dual_sim_td-lte_32gb__samsung_a107|accessdate=2019-11-16|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=15405&c=samsung_sm-a107fds_galaxy_a10s_2019_global_dual_sim_td-lte_32gb__samsung_a107%7Caccessdate=2019-11-16%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
+40.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=15006\&c=samsung_sm-a205fds_galaxy_a20_2019_global_dual_sim_td-lte_32gb__samsung_a205|accessdate=2019-05-31|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=15006&c=samsung_sm-a205fds_galaxy_a20_2019_global_dual_sim_td-lte_32gb__samsung_a205%7Caccessdate=2019-05-31%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
+41.  SM-A205GZOVTGY {{\!}} HK|url=[https://www.samsung.com/hk/smartphones/galaxy-a20-a205/SM-A205GZOVTGY/|accessdate=2019-05-31|work=Samsung](https://www.samsung.com/hk/smartphones/galaxy-a20-a205/SM-A205GZOVTGY/%7Caccessdate=2019-05-31%7Cwork=Samsung) hk|language=zh-HK}}
+42.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=14873\&c=samsung_sm-a305fds_galaxy_a30_2019_global_dual_sim_td-lte__samsung_a305|accessdate=2019-05-31|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=14873&c=samsung_sm-a305fds_galaxy_a30_2019_global_dual_sim_td-lte__samsung_a305%7Caccessdate=2019-05-31%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
+43.  SM-A305GZBOBRI {{\!}} Samsung 台灣|url=[https://www.samsung.com/tw/smartphones/galaxy-a30-a305/SM-A305GZBOBRI/|accessdate=2019-05-31|work=Samsung](https://www.samsung.com/tw/smartphones/galaxy-a30-a305/SM-A305GZBOBRI/%7Caccessdate=2019-05-31%7Cwork=Samsung) tw|language=zh-TW}}
+44.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=15008\&c=samsung_sm-a405fnds_galaxy_a40_2019_global_dual_sim_td-lte_64gb__samsung_a405|accessdate=2019-05-31|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=15008&c=samsung_sm-a405fnds_galaxy_a40_2019_global_dual_sim_td-lte_64gb__samsung_a405%7Caccessdate=2019-05-31%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
+45.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=15108\&c=samsung_sm-a3050ds_galaxy_a40s_2019_dual_sim_td-lte_cn__samsung_am305|accessdate=2019-05-31|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=15108&c=samsung_sm-a3050ds_galaxy_a40s_2019_dual_sim_td-lte_cn__samsung_am305%7Caccessdate=2019-05-31%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
+46.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=15009\&c=samsung_sm-a505fds_galaxy_a50_2019_global_dual_sim_td-lte_128gb__samsung_a505|accessdate=2019-05-31|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=15009&c=samsung_sm-a505fds_galaxy_a50_2019_global_dual_sim_td-lte_128gb__samsung_a505%7Caccessdate=2019-05-31%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
+47.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=15110\&c=samsung_sm-a6060ds_galaxy_a60_2019_dual_sim_td-lte_cn_64gb__samsung_a606|accessdate=2019-05-31|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=15110&c=samsung_sm-a6060ds_galaxy_a60_2019_dual_sim_td-lte_cn_64gb__samsung_a606%7Caccessdate=2019-05-31%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
+48.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=15047\&c=samsung_sm-a705fnds_galaxy_a70_2019_standard_edition_dual_sim_td-lte_emea_128gb__samsung_a705|accessdate=2019-05-31|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=15047&c=samsung_sm-a705fnds_galaxy_a70_2019_standard_edition_dual_sim_td-lte_emea_128gb__samsung_a705%7Caccessdate=2019-05-31%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
+49.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=15696\&c=samsung_sm-a707fdsm_galaxy_a70s_2019_premium_edition_global_dual_sim_td-lte__samsung_a707|accessdate=2019-11-16|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=15696&c=samsung_sm-a707fdsm_galaxy_a70s_2019_premium_edition_global_dual_sim_td-lte__samsung_a707%7Caccessdate=2019-11-16%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
+50.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=15005\&c=samsung_sm-a805f_galaxy_a80_2019_td-lte_emea__samsung_a805|accessdate=2019-05-31|last=PhoneDB|work=phonedb.net|language=en](http://phonedb.net/index.php?m=device&id=15005&c=samsung_sm-a805f_galaxy_a80_2019_td-lte_emea__samsung_a805%7Caccessdate=2019-05-31%7Clast=PhoneDB%7Cwork=phonedb.net%7Clanguage=en)}}
+51.
+52.

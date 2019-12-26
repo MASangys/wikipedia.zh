@@ -35,9 +35,7 @@
 [Category:1906年出生](https://zh.wikipedia.org/wiki/Category:1906年出生 "wikilink") [Category:1974年逝世](https://zh.wikipedia.org/wiki/Category:1974年逝世 "wikilink") [Category:美國第二次世界大戰軍事人物](https://zh.wikipedia.org/wiki/Category:美國第二次世界大戰軍事人物 "wikilink") [Category:美國陸軍人物](https://zh.wikipedia.org/wiki/Category:美國陸軍人物 "wikilink") [Category:新澤西州共和黨黨員](https://zh.wikipedia.org/wiki/Category:新澤西州共和黨黨員 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.

@@ -51,4 +51,4 @@ HAPPY GO擁有超過16,000家特約商，也可以在[中國大陸](https://zh.w
   -
 [Category:遠東集團](https://zh.wikipedia.org/wiki/Category:遠東集團 "wikilink") [Category:總部位於新北市的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於新北市的工商業機構 "wikilink")
 
-1.  [HAPPY GO快樂購卡點數 商品簡介](http://takecoco.com/introduce/11723)
+1.

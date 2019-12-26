@@ -43,53 +43,29 @@ Socket AM4處理器均內建的[PCIe控制器](https://zh.wikipedia.org/wiki/PCI
 [Category:CPU插座](https://zh.wikipedia.org/wiki/Category:CPU插座 "wikilink")
 
 1.  <cite class="citation news">Tyson, Mark (5 September). ["7th Generation AMD A-Series desktop PC systems start to ship"](http://hexus.net/tech/news/cpu/96565-7th-generation-amd-a-series-desktop-pc-systems-start-ship/). </cite>
-
 2.  <cite class="citation news">Mah Ung, Gordon (5 September 2016). </cite>
-
 3.  <cite class="citation web">["AMD's 2016-2017 x86 Roadmap: Zen Is In, Skybridge Is Out"](http://www.anandtech.com/show/9231/amds-20162017-x86-roadmap-zen-is-in). </cite>
-
 4.  <http://wccftech.com/amd-confirms-x86-zen-based-enthsiuast-fx-cpus-7th-generation-apus-2016-compatible-am4-socket/>
-
 5.  <http://www.kitguru.net/components/cpu/anton-shilov/amd-set-to-release-first-zen-based-microprocessors-in-late-2016-document/>
-
 6.
-
 7.
-
 8.  <http://www.pcper.com/news/Cases-and-Cooling/Report-AMD-Socket-AM4-Compatible-Existing-AM2AM3-Coolers>
-
 9.
-
 10.
-
 11.
-
 12. <https://rog.asus.com/articles/technologies/your-guide-to-the-ryzen-am4-platform-and-its-x370-b350-and-a320-chipsets/>
-
 13.
-
 14.
-
 15. <https://rog.asus.com/articles/technologies/your-guide-to-the-ryzen-am4-platform-and-its-x370-b350-and-a320-chipsets/>
-
 16. <https://www.amd.com/zh-hant/chipsets/x570>
-
 17. <https://www.amd.com/zh-hant/products/apu/amd-ryzen-5-3400g>
-
 18.
-
 19.
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
 26. ，無內顯版本的AMD APU
-
 27.

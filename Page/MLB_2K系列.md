@@ -20,4 +20,4 @@
 
 游戏系列
 
-[Category:2K_Sports遊戲](https://zh.wikipedia.org/wiki/Category:2K_Sports遊戲 "wikilink") [Category:2005年首发的电子游戏系列](https://zh.wikipedia.org/wiki/Category:2005年首发的电子游戏系列 "wikilink") [Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink") [Category:體育遊戲](https://zh.wikipedia.org/wiki/Category:體育遊戲 "wikilink")
+[Category:體育電子遊戲](https://zh.wikipedia.org/wiki/Category:體育電子遊戲 "wikilink") [Category:2005年首发的电子游戏系列](https://zh.wikipedia.org/wiki/Category:2005年首发的电子游戏系列 "wikilink") [Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink")

@@ -16,15 +16,17 @@
 
 ## 商場
 
-項目地下至1樓設商場The Parkside Place，總面積42,473方呎。2016年1月以5.1億元連商業車位售予印度船王家族成員。\[3\]同年年尾，以5億元出售6成業權給[安祖高頓](https://zh.wikipedia.org/wiki/安祖高頓 "wikilink")，改名為**The Parkside Mall**。\[4\]現時租戶包括札幌拉麵，翠河餐廳，[大家樂](../Page/大家樂.md "wikilink")及地產代理[利嘉閣](../Page/利嘉閣.md "wikilink")等。1樓為The Campfire Campus和AFTER 3 at Campfire餐廳。\[5\]
+項目地下至1樓設商場The Parkside Place，總面積42,473方呎。2016年1月以5.1億元連商業車位售予印度船王家族成員。\[3\]同年年尾，以5億元出售6成業權給[安祖高頓](https://zh.wikipedia.org/wiki/安祖高頓 "wikilink")，改名為**Parkside Mall**。\[4\]現時租戶包括札幌拉麵，翠河餐廳，[大家樂](../Page/大家樂.md "wikilink")及地產代理[利嘉閣](../Page/利嘉閣.md "wikilink")等。1樓為Campfire Campus和AFTER 3 at Campfire餐廳。\[5\]
 
-2019年4月30日，[宏安集團](../Page/宏安集團.md "wikilink")以7.8億購入商場，連同位於地庫樓層之49個停車位及5個摩托車停車位，可供出租總面積約為32564平方呎
+2019年4月30日，[宏安集團](../Page/宏安集團.md "wikilink")以7.8億購入商場，連同位於地庫樓層之49個停車位及5個摩托車停車位，可供出租總面積約為32564平方呎。同年10月，1樓全層Campfire Campus結業，業主同時將原有的大堂翻新為木系主題，天花的水晶燈亦消失。
 
 ## 宣傳
 
 The Parkside的廣告宣傳「A Brighter Living」為主題。廣告於[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[品川及辰巳之森](https://zh.wikipedia.org/wiki/品川 "wikilink")-綠道公園拍攝。
 
 ## 著名住客
+
+Immigration Officer: CT WONG
 
 ## 會德豐「澳南」項目
 

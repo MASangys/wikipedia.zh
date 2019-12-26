@@ -72,7 +72,7 @@
 <td><p>O型</p></td>
 <td><p>162cm</p></td>
 <td><p>83 / 58 / 84</p></td>
-<td><p><a href="../Page/綠色.md" title="wikilink">綠色</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/綠松石色" title="wikilink">綠松石色</a></p></td>
 <td><p>海豚</p></td>
 <td><p><strong>AZALEA</strong></p></td>
 <td><p>8</p></td>
@@ -86,7 +86,7 @@
 <td><p>A型</p></td>
 <td><p>162cm</p></td>
 <td><p>80 / 57 / 80</p></td>
-<td><p><a href="../Page/红色.md" title="wikilink">红色</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/緋红色" title="wikilink">緋红色</a></p></td>
 <td><p>梅花</p></td>
 <td><p><strong>AZALEA</strong></p></td>
 <td><p>7</p></td>
@@ -100,7 +100,7 @@
 <td><p>AB型</p></td>
 <td><p>157cm</p></td>
 <td><p>82 / 57 / 81</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/水色" title="wikilink">水藍色</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/淺藍色" title="wikilink">淺藍色</a></p></td>
 <td><p>帆船</p></td>
 <td><p><strong>CYaRon!</strong></p></td>
 <td><p>2</p></td>
@@ -128,7 +128,7 @@
 <td><p>O型</p></td>
 <td><p>152cm</p></td>
 <td><p>83 / 57 / 83</p></td>
-<td><p><a href="../Page/黄色.md" title="wikilink">黄色</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金黄色" title="wikilink">金黄色</a></p></td>
 <td><p>花丸標</p></td>
 <td><p><strong>AZALEA</strong></p></td>
 <td><p>4</p></td>
@@ -142,7 +142,7 @@
 <td><p>AB型</p></td>
 <td><p>163cm</p></td>
 <td><p>87 / 60 / 84</p></td>
-<td><p><a href="../Page/紫色.md" title="wikilink">紫色</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中蘭紫色" title="wikilink">中蘭紫色</a></p></td>
 <td><p>閃亮標</p></td>
 <td><p><strong>Guilty Kiss</strong></p></td>
 <td><p>9</p></td>
@@ -156,7 +156,7 @@
 <td><p>A型</p></td>
 <td><p>154cm</p></td>
 <td><p>76 / 56 / 79</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/粉色" title="wikilink">粉色</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/淺玫瑰粉色" title="wikilink">淺玫瑰粉色</a></p></td>
 <td><p>棒棒糖</p></td>
 <td><p><strong>CYaRon!</strong></p></td>
 <td><p>5</p></td>

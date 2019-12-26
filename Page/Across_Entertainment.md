@@ -1,6 +1,6 @@
 **株式會社Across Entertainment**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。由曾管理[東京俳優生活協同組合](../Page/東京俳優生活協同組合.md "wikilink")的藤崎淳\[2\]在2008年4月\[3\]創立。
 
-## 所屬聲優
+## 所屬藝人
 
 該公司的聲優分有正式、預留、準預留、業務提攜數級\[4\]。
 
@@ -11,9 +11,12 @@
 <!-- end list -->
 
   -
+  - 阿部遼哉
+
   -
   -
-  - [岩田光央](../Page/岩田光央.md "wikilink")
+  -
+  - 奧田耕大
 
 <!-- end list -->
 
@@ -21,18 +24,27 @@
 
 <!-- end list -->
 
-  - [加藤健](https://zh.wikipedia.org/wiki/加藤健_\(聲優\) "wikilink")
+  - \-{梶}-原信也
+
+  - 加藤健
 
   - 龜岡孝洋
 
   - [川原慶久](../Page/川原慶久.md "wikilink")
 
-  - 紀之貴紀
-
   -
+  - 黑澤光司
+
   -
   - [小山剛志](../Page/小山剛志.md "wikilink")
 
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
+  -
 <!-- end list -->
 
   - 行
@@ -54,6 +66,8 @@
 
   -
   -
+  - （文化人）
+
   -
   -
   -
@@ -63,6 +77,8 @@
   - 行
 
 <!-- end list -->
+
+  - 町田大和
 
   - [村上喜紀](../Page/村上喜紀.md "wikilink")
 
@@ -87,6 +103,8 @@
 <!-- end list -->
 
   -
+  - 綾見有紀
+
   - [飯塚雅弓](../Page/飯塚雅弓.md "wikilink")
 
   - [池澤春菜](../Page/池澤春菜.md "wikilink")
@@ -103,14 +121,11 @@
 
   - [內田彩](../Page/內田彩.md "wikilink")
 
-  - 大倉菜花
-
   - （業務提攜）
 
-  - 大谷理美
-
   -
-  - [緒乃冬華](../Page/緒乃冬華.md "wikilink")（舊藝名：大浦冬華）
+  -
+  - [緒乃冬華](../Page/緒乃冬華.md "wikilink")
 
 <!-- end list -->
 
@@ -119,12 +134,16 @@
 <!-- end list -->
 
   -
+  - （業務提攜）
+
   - [金田朋子](../Page/金田朋子.md "wikilink")
 
   -
   - [清都亞理沙](../Page/清都亞理沙.md "wikilink")
 
   - 國仲奏繪
+
+  - 倉內麻里香
 
   - 小久保史織
 
@@ -138,6 +157,8 @@
 
   -
   -
+  - 瀨野留里香
+
   -
 <!-- end list -->
 
@@ -146,100 +167,9 @@
 <!-- end list -->
 
   -
-  -
-  -
-  - 谷川智美
-
   -
   - [富岡美沙子](../Page/富岡美沙子.md "wikilink")
 
-<!-- end list -->
-
-  - 行
-
-<!-- end list -->
-
-  - [中西優香](../Page/中西優香.md "wikilink")
-
-  -
-  -
-<!-- end list -->
-
-  - 行
-
-<!-- end list -->
-
-  - [平田裕香](https://zh.wikipedia.org/wiki/平田裕香 "wikilink")（業務提攜）
-
-  - 廣瀨佐夜
-
-  -
-<!-- end list -->
-
-  - 行
-
-<!-- end list -->
-
-  -
-  -
-  - [持月玲依](../Page/持月玲依.md "wikilink")
-
-  -
-<!-- end list -->
-
-  - ～行
-
-<!-- end list -->
-
-  - [湯淺楓](../Page/湯淺楓.md "wikilink")
-
-### 預留
-
-  - 行
-
-<!-- end list -->
-
-  - 我妻麻衣
-  - 阿部遼哉
-  - 綾見有紀
-  - 飯坂紗幸
-  - 井上寶
-  - 奧田耕大
-
-<!-- end list -->
-
-  - 行
-
-<!-- end list -->
-
-  - 風間悠介
-  - 梶原信也
-  - 上村英里子
-  - 倉內麻里香
-
-<!-- end list -->
-
-  - 行
-
-<!-- end list -->
-
-  - 櫻野菜奈美
-  - 柴紅音
-  - 瀨野留理香
-
-<!-- end list -->
-
-  - 行
-
-<!-- end list -->
-
-  - 高里桃子
-
-  - 橘香織
-
-  - 多谷結衣
-
-  -
   - 富田美穗
 
 <!-- end list -->
@@ -248,8 +178,8 @@
 
 <!-- end list -->
 
-  - [中津真莉](../Page/中津真莉.md "wikilink")
-  - 成田早織
+  -
+  -
   - 西田有愛
 
 <!-- end list -->
@@ -258,13 +188,21 @@
 
 <!-- end list -->
 
-  - 服部友香
+  - [平田裕香](https://zh.wikipedia.org/wiki/平田裕香 "wikilink")（業務提攜）
+  - 平山聰美
+  - 廣瀨沙夜
 
-  - 柊里砂
+<!-- end list -->
 
-  - 兵動翔太
+  - 行
 
-  - 寶生範子
+<!-- end list -->
+
+  -
+  - 溝口奈菜
+
+  -
+  - [持月玲依](../Page/持月玲依.md "wikilink")
 
   -
 <!-- end list -->
@@ -273,34 +211,33 @@
 
 <!-- end list -->
 
-  - 町田大和
-  - 松山由依
-  - 三崎夏奈子
+  - [和井瑞希](../Page/和井瑞希.md "wikilink")
 
-<!-- end list -->
+### 預留
 
   - 行
 
 <!-- end list -->
 
-  - 吉田龍介
+  - 我妻麻衣
 
-### 準預留
+  - 飯-{坂}-紗幸
 
-  - 行
-
-<!-- end list -->
-
-  - 大內櫻子
+  -
   - 小笠原健太郎
 
+  - 大內櫻子
+
 <!-- end list -->
 
   - 行
 
 <!-- end list -->
 
-  - 兒玉美樹
+  -
+  - 風間悠介
+
+  -
   - 今野悠人
 
 <!-- end list -->
@@ -309,7 +246,11 @@
 
 <!-- end list -->
 
-  - 志水彩香
+  - 櫻野七海
+  - 柴紅音
+  - 志摩淳
+  - 霜月紫
+  - 白那美杏樹
 
 <!-- end list -->
 
@@ -317,10 +258,24 @@
 
 <!-- end list -->
 
-  - 永堀夢乃
+  - 高里桃子
+  - 多谷結衣
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
+  - [中津真莉](../Page/中津真莉.md "wikilink")
+
   - 二階堂結友
+
+  - 布目直樹
+
   - 望海將太郎
 
+  -
 <!-- end list -->
 
   - 行
@@ -329,13 +284,116 @@
 
   - 堀曜宏
 
-## 過往主要所屬聲優
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
+  - \-{峯}-石桃花
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
+  - 八神結香
+  - 吉田龍介
+
+### 準預留
+
+  - 行
+
+<!-- end list -->
+
+  - 愛堂希來里
+  - 赤塚珠莉
+  - 朝日太一
+  - 安藤由菜
+  - 上田瀨七
+  - 及川南
+  - 大-{坂}-真璃子
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
+  - 窪田伊真
+  - 兒玉美樹
+  - 小湊加也乃
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
+  - 齋藤未空
+  - 櫻町侑里
+  - 東雲優作
+  - 涼屋杏
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
+  - 立石千絢
+  - 恒松悠太
+  - 寺田尚弘
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
+  - 夏來沙瑪
+  - 夏-{嶋}-光
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
+  - 函館羅賓侑希
+  - 林祐人
+  - 原田萌
+  - 晴富櫻
+  - 福久彩香
+  - 藤田悠矢
+  - 本田彩華
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
+  - 山中-{脩}-斗
+
+## 過往主要所屬藝人
 
 ### 男性
 
+  - 行
+
+<!-- end list -->
+
   - （[自由職業](../Page/自由職業.md "wikilink")）
 
-  - 宇藤秀和
+  - [岩田光央](../Page/岩田光央.md "wikilink")（現所屬：[青二Production](../Page/青二製作.md "wikilink")）
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
 
   - （業務提攜，現所屬：）
 
@@ -345,58 +403,112 @@
 
   - [小松史法](../Page/小松史法.md "wikilink")（自由職業）
 
+  - （自由職業）
+
   - （現所屬：[大澤事務所](../Page/大澤事務所.md "wikilink")）
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
 
   - （現所屬：）
 
   - （現所屬：Object）
 
-  - \-{辻}-文丈
+<!-- end list -->
 
-  - [中川明](https://zh.wikipedia.org/wiki/中川明_\(聲優\) "wikilink")
+  - 行
+
+<!-- end list -->
 
   - [浪川大輔](../Page/浪川大輔.md "wikilink")（現所屬：[Stay Luck代表](../Page/Stay_Luck.md "wikilink")）
-
   - 野澤大悟（現所屬：bamboo）
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
 
   - 古野顯一（現所屬：大澤事務所）
 
-  - （自由職業）
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
+  - （現所屬：[Production Ace](../Page/Production_Ace.md "wikilink")）
 
 ### 女性
+
+  - 行
+
+<!-- end list -->
 
   - 伊奈原遙香（引退）
 
   -
   -
-  - 上村英里子
+<!-- end list -->
 
-  - \[5\]
+  - 行
+
+<!-- end list -->
 
   -
-  - [小牧未侑](../Page/小牧未侑.md "wikilink")（現所屬：自由職業）\[6\]
+  - [小牧未侑](../Page/小牧未侑.md "wikilink")（現所屬：[PEERLESS GERBERA](../Page/PEERLESS_GERBERA.md "wikilink")）
 
-  - （現所屬：Extension）\[7\]
+  - （現所屬：Extension）
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
 
   - （自由職業）
 
   - [澤口千惠](../Page/澤口千惠.md "wikilink")（自由職業）
 
-  - 佐藤杏奈
-
   - [佐藤奏美](../Page/佐藤奏美.md "wikilink")
 
-  - 真原彩（現所屬：[Stardust Promotion](../Page/星塵傳播.md "wikilink")）
+  - （現所屬：[Stardust Promotion](../Page/星塵傳播.md "wikilink")）
 
-  - [高島雅羅](../Page/高島雅羅.md "wikilink")（現所屬：[東京俳優生活協同組合](../Page/東京俳優生活協同組合.md "wikilink")）
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
+  - （現所屬：）
+
+  - [高島雅羅](../Page/高島雅羅.md "wikilink")（現所屬：青二Production）
 
   -
   -
+  -
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
+  - [中西優香](../Page/中西優香.md "wikilink")（引退）
+
   - （引退）
 
-  - \[8\]
+  - \[5\]
 
-  - [西口杏里沙](../Page/西口杏里沙.md "wikilink")（引退）\[9\]\[10\]
+  - [西口杏里沙](../Page/西口杏里沙.md "wikilink")（引退）\[6\]\[7\]
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
 
   - （自由職業）
 
@@ -404,15 +516,29 @@
 
   - （現所屬：Surprise）
 
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
   - （現所屬：）
 
   - （自由職業）
 
-  - （自由職業）
+  - （現所屬：[Rush Style](../Page/Rush_Style.md "wikilink")）
 
   - （現所屬：）
 
   - [水原薰](../Page/水原薰.md "wikilink")（自由職業）
+
+<!-- end list -->
+
+  - 行
+
+<!-- end list -->
+
+  - [湯淺楓](../Page/湯淺楓.md "wikilink")（現所屬：[Mausu Promotion](../Page/Mausu_Promotion.md "wikilink")）
 
   - （自由職業）
 
@@ -427,24 +553,17 @@
 ## 外部連結
 
   - [株式會社Across Entertainment公式官網](http://across-ent.com/)
+
   - [株式會社Across公式官網](http://across-japan.com/)
+
+  -
 
 [Category:Across_Entertainment](https://zh.wikipedia.org/wiki/Category:Across_Entertainment "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:2008年成立的公司](https://zh.wikipedia.org/wiki/Category:2008年成立的公司 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
-
 7.
-
-8.
-
-9.
-
-10.

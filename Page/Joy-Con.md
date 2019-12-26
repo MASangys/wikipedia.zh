@@ -21,30 +21,18 @@ Joy-Con有多种配色，可通过主机附带或另行购买的方式获得。�
 [Category:任天堂硬件](https://zh.wikipedia.org/wiki/Category:任天堂硬件 "wikilink") [Category:游戏控制器](https://zh.wikipedia.org/wiki/Category:游戏控制器 "wikilink") [Category:任天堂Switch](https://zh.wikipedia.org/wiki/Category:任天堂Switch "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15.
-
 16.

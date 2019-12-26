@@ -19,29 +19,17 @@ JoeSecurity公司對該病毒進行過全面的分析，並且在該公司的網
 [Category:2015年计算机科学](https://zh.wikipedia.org/wiki/Category:2015年计算机科学 "wikilink") [Category:密码分析](https://zh.wikipedia.org/wiki/Category:密码分析 "wikilink") [Category:勒索軟體](https://zh.wikipedia.org/wiki/Category:勒索軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.

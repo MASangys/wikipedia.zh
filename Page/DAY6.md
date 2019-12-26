@@ -45,13 +45,15 @@ DAY6首場世界巡迴演唱會「Youth」由6月22日至24日首爾站次揭開
 
 11月22日，在官方Facebook上公布了回歸概念照，宣布Day6將會在10日發行新專輯《[Remember Us : Youth Part 2](../Page/Remember_Us_:_Youth_Part_2.md "wikilink")》。11月25日，公開新專輯的曲目，主打曲為《행복했던 날들이었다》。11月27日，開始陸續公開個成員個人照。12月10日韓國時間6時，公布新曲MV，並在當晚9時進行了回歸V Live 直播。
 
-### 2019年：韓語迷你五輯《The Book of Us : Gravity》、第二次世界巡回演唱會、首次獲得一位
+### 2019年：韓語迷你五輯、第二次世界巡回演唱會、首次獲得一位、韓語正規三輯
 
 6月30日.官方在Facebook 上公佈了回歸概念照,宣佈Day6將會在7月15日發行新專輯《The Book of Us : Gravity》\[54\]。7月1日, 公開第二次世界巡回演唱會《DAY6 WORLD TOUR 'GRAVITY'》的地點和日期。翌日,公開新專輯的曲目,並宣佈主打曲為《Time of Our Life(한 페이지가 될 수 있게)》。7月4日,開始陸續公開個成員和團體個人照。7月15日韓國時間6時,公佈新曲MV,並在當晚韓國時間8時進行了回歸V Live 直播。新曲發佈後立刻上了韓國兩大音源網站 Bugs 和 NAVER Music 的即時榜冠軍,並登上了新加坡、泰國、菲律賓、俄羅斯⋯⋯等海外 10 個國家的 iTunes 專輯榜首。\[55\] 在打歌期間，DAY6於Show Champion以《Time of Our Life(한 페이지가 될 수 있게)連續兩周獲得一位，並在M Countdown上再次獲得一位。
 
+10月6日.官方公佈了回歸預告影片,宣佈Day6將會在10月22日發行新專輯《The Book of Us : Entropy》，並在影片中提及主打歌《Sweet Choas》的名字和當中的亮點歌詞「But I Like It」。10月9日, 公開全專曲目表正式公佈主打歌為《Sweet Choas》，並收錄了10首歌曲。\[56\]翌日,陸續公開成員個人和團體的專輯概念照\[57\]20日,公佈MV 預告片。22日,韓國時間6時公開了主打曲《Sweet Choas》的MV,並在當日韓國時間8時在YES24 LIVE HALL舉行了回歸Showcase,也使用V Live同時直播。
+
 ## 成員資料
 
-| 成員列表\[56\]\[57\]                                            |
+| 成員列表\[58\]\[59\]                                            |
 | ----------------------------------------------------------- |
 | 藝名                                                          |
 | 藝名                                                          |
@@ -93,6 +95,7 @@ PlotData =
 
   - [Sunrise](../Page/Sunrise_\(Day6專輯\).md "wikilink")（2017年6月7日）
   - [Moonrise](../Page/Moonrise_\(Day6專輯\).md "wikilink")（2017年12月6日）
+  - [The Book Of Us : Entropy](https://zh.wikipedia.org/wiki/The_Book_Of_Us_:_Entropy "wikilink")（2019年10月22日）
 
 #### 迷你專輯
 
@@ -117,10 +120,11 @@ PlotData =
 ### 精選輯
 
   - [The Best Day](../Page/The_Best_Day.md "wikilink")（2018年6月6日）
+  - [The Best Day2](https://zh.wikipedia.org/wiki/The_Best_Day2 "wikilink")（2019年12月4日）
 
 ## 創作作品
 
-DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[58\]、晟鎮：10010559\[59\]、Young K：10010197\[60\]、元弼：10010555\[61\]及度雲：10010557。\[62\]
+DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[60\]、晟鎮：10010559\[61\]、Young K：10010197\[62\]、元弼：10010555\[63\]及度雲：10010557。\[64\]
 
 ### 已發行
 
@@ -316,7 +320,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 
 | 播出日期                         | 電視臺                                                           | 節目名稱                                                           | 參與成員 | 備註   |
 | ---------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------- | ---- | ---- |
-| 2016年6月28日－2018年7月17日 \[63\] | [Arirang TV](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink") | 《[After School Club](../Page/After_School_Club.md "wikilink")》 | Jae  | 固定主持 |
+| 2016年6月28日－2018年7月17日 \[65\] | [Arirang TV](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink") | 《[After School Club](../Page/After_School_Club.md "wikilink")》 | Jae  | 固定主持 |
 
 ### 廣播節目
 
@@ -362,7 +366,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p>台北</p></td>
 <td><p>ATT Show Box</p></td>
 <td></td>
-<td><p>[64]</p></td>
+<td><p>[66]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -372,7 +376,16 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p>香港</p></td>
 <td><p><a href="../Page/九龍灣國際展貿中心.md" title="wikilink">九龍灣國際展貿中心</a>Music Zone</p></td>
 <td></td>
-<td><p>[65]</p></td>
+<td><p>[67]</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>10月22日</p></td>
+<td><p>DAY6 &lt;The Book of Us : Entropy&gt; SHOWCASE with V LIVE</p></td>
+<td><p>首爾</p></td>
+<td><p>YES24 LIVE HALL</p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -411,7 +424,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p>Fan Meeting in Singapore「DayDream」</p></td>
 <td><p>新加坡</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Megabox" title="wikilink">Megabox會館</a></p></td>
-<td><p>[66]</p></td>
+<td><p>[68]</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
@@ -426,7 +439,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p>Live &amp; Meet in 2017</p></td>
 <td><p>台北</p></td>
 <td><p>ATT Show Box</p></td>
-<td><p>[67]<ref name="2017live">{{cite news|title=台灣的My Day看這裡</p></td>
+<td><p>[69]<ref name="2017live">{{cite news|title=台灣的My Day看這裡</p></td>
 <td><p>! 新世代全能樂團DAY6攜新輯回歸首站6/24售票|url=<a href="http://www.koreastardaily.com/tc/news/95503%7Caccessdate=2017-06-24%7Cpublisher=韓星網%7Cdate=2017-06-16">http://www.koreastardaily.com/tc/news/95503|accessdate=2017-06-24|publisher=韓星網|date=2017-06-16</a>}}</ref></p></td>
 </tr>
 <tr class="even">
@@ -450,7 +463,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p>Live &amp; Meet in North America 2017</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
 <td><p>La Mirada Threatre</p></td>
-<td><p>[68]</p></td>
+<td><p>[70]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -491,7 +504,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p>DAY6 First Fan Meeting「You Made My Day」</p></td>
 <td><p>首爾</p></td>
 <td><p>高麗大學華亭體育館</p></td>
-<td><p>[69]</p></td>
+<td><p>[71]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
@@ -522,7 +535,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p><a href="../Page/JYP娛樂.md" title="wikilink">JYP Nation演唱會</a>「Mix &amp; Match」</p></td>
 <td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td><p><a href="../Page/首爾綜合運動場.md" title="wikilink">首爾蠶室體育館</a></p></td>
-<td><p>[70]</p></td>
+<td><p>[72]</p></td>
 </tr>
 <tr class="even">
 <td><p>9月2日－4日</p></td>
@@ -537,7 +550,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p><a href="../Page/M_Countdown特別活動.md" title="wikilink">KCON</a> 2016 Japan</p></td>
 <td><p><a href="../Page/千葉縣.md" title="wikilink">千葉縣</a></p></td>
 <td><p><a href="../Page/幕張展覽館.md" title="wikilink">幕張展覽館</a></p></td>
-<td><p>[71]</p></td>
+<td><p>[73]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -553,7 +566,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p>KCON 2016 New York</p></td>
 <td><p><a href="../Page/纽约.md" title="wikilink">纽约</a></p></td>
 <td><p>普天壽中心</p></td>
-<td><p>[72]</p></td>
+<td><p>[74]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -562,14 +575,14 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p>KCON 2017 Japan</p></td>
 <td><p>千葉</p></td>
 <td><p>幕張展覽館</p></td>
-<td><p>[73]</p></td>
+<td><p>[75]</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月19日</p></td>
 <td><p><a href="../Page/SUMMER_SONIC.md" title="wikilink">SUMMER SONIC</a> 2017 TOKYO</p></td>
 <td><p>東京</p></td>
 <td><p><a href="../Page/千葉海洋球場.md" title="wikilink">ZOZO海洋球場</a></p></td>
-<td><p>[74]</p></td>
+<td><p>[76]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -577,7 +590,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p>2018平昌冬奧倒數百日聖火傳遞慶祝KPOP演唱會</p></td>
 <td><p>首爾</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/光化門廣場" title="wikilink">光化門廣場</a></p></td>
-<td><p>[75]</p></td>
+<td><p>[77]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -611,13 +624,13 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 | 2017年11月3日－5日                                | 首爾站       | Sangsang Madang                                |
 | Every Day6 Concert in December               |           |                                                |
 | 2017年12月22日－25日                              | 首爾站       | Yes24 Live Hall                                |
-| Every Day6 Concert in 釜山\[76\]               |           |                                                |
+| Every Day6 Concert in 釜山\[78\]               |           |                                                |
 | 2018年1月20日-21日                               | 釜山站       | Sohayng Theater                                |
 | Every Day6 Concert in 大邱                     |           |                                                |
 | 2018年1月27日                                   | 大邱站       | 수성아트피아                                         |
 | Every Day6 Concert in 大田                     |           |                                                |
 | 2018年2月10日                                   | 大田站       | 우송에술희관                                         |
-| Every Day6 Concert最終場「The Best Moment」\[77\] |           |                                                |
+| Every Day6 Concert最終場「The Best Moment」\[79\] |           |                                                |
 | 2018年3月3日－4日                                 | 首爾站       | Olympic Hall                                   |
 | DAY6 Christmas Special Concert 'The Present' |           |                                                |
 | 2018年12月22日－24日                              | 首爾站       | Blue Square I-Market Hall                      |
@@ -660,9 +673,9 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 | 2019年9月25日                                   | 三藩市站      | The Warfield                                   |
 | 2019年9月28-29日                                | 洛杉磯站      | The Novo                                       |
 | 2019年10月5日                                   | 新加坡站      | 星爍藝術表演中心                                       |
-| 2019年11月15日                                  | 墨爾本站      |                                                |
-| 2019年11月17日                                  | 雪梨站       |                                                |
-| 2019年11月23日                                  | 馬尼拉站      |                                                |
+| 2019年11月15日                                  | 墨爾本站      | Festival Hall                                  |
+| 2019年11月17日                                  | 雪梨站       | Enmore Theatre                                 |
+| 2019年11月23日                                  | 馬尼拉站      | Araneta Coliseu                                |
 | 2019年11月30日-12月1日                            | 雅加達站      | Tennis Indoor Senayan                          |
 | 2019年12月7日                                   | 曼谷站       |                                                |
 | 2020年1月8日                                    | 米蘭站       |                                                |
@@ -697,7 +710,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p>新人賞</p></td>
 <td><p>DAY6</p></td>
 <td></td>
-<td><p>[78]</p></td>
+<td><p>[80]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/首爾音樂獎" title="wikilink">首爾音樂獎</a></p></td>
@@ -705,7 +718,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p>本賞</p></td>
 <td><p>〈<a href="../Page/The_Day_(DAY6迷你專輯).md" title="wikilink">Congratulations</a>〉</p></td>
 <td></td>
-<td><p>[79]</p></td>
+<td><p>[81]</p></td>
 </tr>
 <tr class="odd">
 <td><p>新人賞</p></td>
@@ -728,7 +741,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p>2016年12月2日</p></td>
 <td></td>
 <td></td>
-<td><p>[80]</p></td>
+<td><p>[82]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -744,7 +757,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p>最佳樂團表演獎</p></td>
 <td><p>DAY6〈<a href="../Page/Sunrise_(Day6專輯).md" title="wikilink">I Smile</a>〉</p></td>
 <td></td>
-<td><p>[81]</p></td>
+<td><p>[83]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -761,7 +774,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p>搖滾獎</p></td>
 <td><p>DAY6〈<a href="../Page/Sunrise_(Day6專輯).md" title="wikilink">You Were Beautiful</a>〉</p></td>
 <td></td>
-<td><p>[82]</p></td>
+<td><p>[84]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC_Plus_X_Genie音乐奖" title="wikilink">MBC Plus X Genie音乐奖</a></p></td>
@@ -769,7 +782,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <td><p>年度歌曲</p></td>
 <td><p>DAY6〈<a href="../Page/Shoot_Me_:_Youth_Part_1.md" title="wikilink">Shoot Me</a>〉</p></td>
 <td></td>
-<td><p>[83]</p></td>
+<td><p>[85]</p></td>
 </tr>
 <tr class="odd">
 <td><p>最佳乐團音乐奖</p></td>
@@ -985,9 +998,14 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 <tr class="odd">
 <td><p>Time of Our Life (한 페이지가 될 수 있게)</p></td>
 <td><p><a href="../Page/The_Book_of_Us_:_Gravity.md" title="wikilink">The Book of Us : Gravity</a></p></td>
-<td><p>*<strong>1</strong></p></td>
+<td><p><strong>1</strong></p></td>
 </tr>
 <tr class="even">
+<td><p>Sweet Chaos</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/The_Book_Of_Us_:_Entropy" title="wikilink">The Book Of Us : Entropy</a></p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1090,10 +1108,12 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 74.
 75.
 76.
-77.  allkpop.com|url=[https://www.allkpop.com/article/2018/01/day6-announce-encore-concert-every-day6-finale-concert-the-best-moments|website=allkpop|accessdate=2018-01-26|language=en|date=2018-01-26](https://www.allkpop.com/article/2018/01/day6-announce-encore-concert-every-day6-finale-concert-the-best-moments%7Cwebsite=allkpop%7Caccessdate=2018-01-26%7Clanguage=en%7Cdate=2018-01-26)}}
+77.
 78.
-79.
+79.  allkpop.com|url=[https://www.allkpop.com/article/2018/01/day6-announce-encore-concert-every-day6-finale-concert-the-best-moments|website=allkpop|accessdate=2018-01-26|language=en|date=2018-01-26](https://www.allkpop.com/article/2018/01/day6-announce-encore-concert-every-day6-finale-concert-the-best-moments%7Cwebsite=allkpop%7Caccessdate=2018-01-26%7Clanguage=en%7Cdate=2018-01-26)}}
 80.
-81.  Asia No.1 Music Festival|url=[http://www.mwave.me/en/mama/nominees|website=mwave|publisher=cj](http://www.mwave.me/en/mama/nominees%7Cwebsite=mwave%7Cpublisher=cj) e\&m|accessdate=2017-11-26|language=en}}
+81.
 82.
-83.
+83.  Asia No.1 Music Festival|url=[http://www.mwave.me/en/mama/nominees|website=mwave|publisher=cj](http://www.mwave.me/en/mama/nominees%7Cwebsite=mwave%7Cpublisher=cj) e\&m|accessdate=2017-11-26|language=en}}
+84.
+85.

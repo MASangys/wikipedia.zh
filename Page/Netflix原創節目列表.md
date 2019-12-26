@@ -1260,8 +1260,8 @@
 <tr class="even">
 <td><p><a href="../Page/黑鏡.md" title="wikilink">黑鏡</a><br />
 </p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/科幻" title="wikilink">科幻</a>、<a href="https://zh.wikipedia.org/wiki/諷刺" title="wikilink">諷刺</a></p></td>
+<td><p><a href="../Page/第四台_(英國).md" title="wikilink">第四台</a></p></td>
 <td></td>
 <td><p>至今</p></td>
 <td><p>2<br />
@@ -1773,7 +1773,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/凜冬烈火：烏克蘭的自由之戰" title="wikilink">凜冬烈火：烏克蘭的自由之戰</a></p></td>
+<td><p><a href="../Page/凛冬烈火：乌克兰为自由而战.md" title="wikilink">凜冬烈火：烏克蘭的自由之戰</a></p></td>
 <td><p><em>Winter on Fire: Ukraine's Fight for Freedom</em></p></td>
 <td><p><a href="../Page/紀錄片.md" title="wikilink">紀錄片</a></p></td>
 <td></td>

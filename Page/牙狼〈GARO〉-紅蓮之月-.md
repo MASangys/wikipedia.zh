@@ -36,6 +36,10 @@
 
   -
 
+<!-- end list -->
+
+  -
+
 ## 用語
 
 ## 電視動畫
@@ -89,7 +93,7 @@
           - [遠藤正明](../Page/遠藤正明.md "wikilink")（第9、10話）
           - [JAM Project](../Page/JAM_Project.md "wikilink")（第11－14話）
 
-:;「」（第15－24話）
+:;「」（第15－25話）
 
   -
 
@@ -107,7 +111,7 @@
       -
         作詞：[佐咲紗花](../Page/佐咲紗花.md "wikilink")，作曲：[奧井雅美](../Page/奧井雅美.md "wikilink")，編曲：鈴木マサキ，主唱：[佐咲紗花](../Page/佐咲紗花.md "wikilink") with 三狐神囃子（鵜殿麻、佐藤依莉子）
 
-:;「」（第15－24話）
+:;「」（第15－25話）
 
   -
 
@@ -395,6 +399,19 @@ Lee Min Bae</p></td>
 高乘陽子、桑原剛</p></td>
 </tr>
 <tr class="odd">
+<td><p>第25話</p></td>
+<td></td>
+<td><p>刻蝶</p></td>
+<td><p>村越繁</p></td>
+<td><p>永居慎平<br />
+林明偉</p></td>
+<td><p>波多正美</p></td>
+<td><p>海老原雅夫、Kim Myeong Hyeon<br />
+Ryu Seung Chul<br />
+Kim Bo Gyeong<br />
+Kwon Hyeok Jeong</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -434,7 +451,7 @@ Lee Min Bae</p></td>
   - [電視動畫「牙狼－紅蓮之月－」東京電視台節目網頁](http://www.tv-tokyo.co.jp/anime/garo-gurennotsuki/)
 
   -
-[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:時代劇動畫](https://zh.wikipedia.org/wiki/Category:時代劇動畫 "wikilink")
 
 1.
 2.

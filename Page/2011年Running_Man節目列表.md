@@ -909,7 +909,7 @@ Gary<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a>、<a href="https://zh.wikipedia.org/wiki/鄭秀妍" title="wikilink">Jessica</a>、<a href="https://zh.wikipedia.org/wiki/金孝淵" title="wikilink">孝淵</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">俞利</a>、<a href="https://zh.wikipedia.org/wiki/林潤妸" title="wikilink">潤娥</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a><br />
 (<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>)</p></td>
-<td><p><a href="http://gym.gys.or.kr/">高陽體育館</a><br />
+<td><p><a href="https://web.archive.org/web/20120117181533/http://gym.gys.or.kr/">高陽體育館</a><br />
 <small>(<a href="../Page/京畿道.md" title="wikilink">京畿道</a> <a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
 <a href="../Page/一山西區.md" title="wikilink">一山西區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>夥伴特輯(二)(上)－ 雙雙競賽</strong></span><br />

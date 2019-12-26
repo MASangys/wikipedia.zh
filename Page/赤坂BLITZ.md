@@ -31,14 +31,9 @@
 [Category:东京都建筑物](https://zh.wikipedia.org/wiki/Category:东京都建筑物 "wikilink") [Category:TBS电视台](https://zh.wikipedia.org/wiki/Category:TBS电视台 "wikilink") [Category:赤坂](https://zh.wikipedia.org/wiki/Category:赤坂 "wikilink") [Category:2008年完工建築物](https://zh.wikipedia.org/wiki/Category:2008年完工建築物 "wikilink") [Category:日本音樂場地](https://zh.wikipedia.org/wiki/Category:日本音樂場地 "wikilink") [Category:日本職業摔角場館](https://zh.wikipedia.org/wiki/Category:日本職業摔角場館 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.  一例：2001年12月23日「」完成发表试映会
-
 6.
-
 7.

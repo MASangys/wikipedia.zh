@@ -39,26 +39,15 @@ BadVista活動家在Vista於2007年1月30日在[時報廣場](../Page/時報廣�
 [Category:自由軟體基金會](https://zh.wikipedia.org/wiki/Category:自由軟體基金會 "wikilink") [Category:針對微軟的批評與爭議](https://zh.wikipedia.org/wiki/Category:針對微軟的批評與爭議 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.

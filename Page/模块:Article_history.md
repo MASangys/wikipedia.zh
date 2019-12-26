@@ -1,18 +1,12 @@
 -----
 
-\-- 頁面歷史 -- -- 此模塊允許編者連入頁面歷史的重要事件， -- 像是優良或特色內容的提名。 --
-它也展示該頁面的現狀以及一樣好的其他訊息， --
-像是通過的提名之後展示於首頁上的日期。
+\-- 頁面歷史 -- -- 此模塊允許編者連入頁面歷史的重要事件， -- 像是優良或特色內容的提名。 -- 它也展示該頁面的現狀以及一樣好的其他訊息， -- 像是通過的提名之後展示於首頁上的日期。
 
 -----
 
-local CONFIG_PAGE = 'Module:Article history/config' local
-WRAPPER_TEMPLATE = 'Template:Article history' local DEBUG_MODE = false
--- If true, errors are not caught.
+local CONFIG_PAGE = 'Module:Article history/config' local WRAPPER_TEMPLATE = 'Template:Article history' local DEBUG_MODE = false -- If true, errors are not caught.
 
-\-- Load required modules. require('Module:No globals') local Category =
-require('Module:Article history/Category') local yesno =
-require('Module:Yesno') local lang = mw.language.getContentLanguage()
+\-- Load required modules. require('Module:No globals') local Category = require('Module:Article history/Category') local yesno = require('Module:Yesno') local lang = mw.language.getContentLanguage()
 
 -----
 
@@ -29,8 +23,7 @@ local function isPositiveInteger(num)
 
 end
 
-\-- lua cannot interpret xxxx年yy月zz日 local function
-convertDate(dateString)
+\-- lua cannot interpret xxxx年yy月zz日 local function convertDate(dateString)
 
 `   for y,m,d in string.gmatch(dateString, "(%d+)年(%d+)月(%d+)日") do`
 `       return y .. "-" .. m .. "-" .. d`
@@ -85,8 +78,7 @@ end
 
 -----
 
-\-- Message mixin -- This mixin is used by all classes to add
-message-related methods.
+\-- Message mixin -- This mixin is used by all classes to add message-related methods.
 
 -----
 
@@ -381,8 +373,7 @@ end
 
 -----
 
-\-- Status class -- Status objects deal with possible current statuses
-of the article.
+\-- Status class -- Status objects deal with possible current statuses of the article.
 
 -----
 
@@ -443,14 +434,11 @@ end
 
 -----
 
-\-- MultiStatus class -- For when an article can have multiple distinct
-statuses, e.g. former -- featured article status and good article
-status.
+\-- MultiStatus class -- For when an article can have multiple distinct statuses, e.g. former -- featured article status and good article status.
 
 -----
 
-local MultiStatus = setmetatable({}, Row) MultiStatus.__index =
-MultiStatus
+local MultiStatus = setmetatable({}, Row) MultiStatus.__index = MultiStatus
 
 function MultiStatus.new(data)
 
@@ -531,9 +519,7 @@ end
 
 -----
 
-\-- Notice class -- Notice objects contain notices about an article that
-aren't part of its -- current status, e.g. the date an article was
-featured on the main page.
+\-- Notice class -- Notice objects contain notices about an article that aren't part of its -- current status, e.g. the date an article was featured on the main page.
 
 -----
 
@@ -564,14 +550,7 @@ end
 
 -----
 
-\-- Action class -- Action objects deal with a single action in the
-history of the article. We -- use getter methods rather than properties
-for the name and result, etc., as -- their processing needs to be
-delayed until after the status object has been -- initialised. The
-status object needs to parse the action objects when it is --
-initialised, and the value of some names, etc., in the action objects
-depend -- on the status object, so this is necessary to avoid
-errors/infinite loops.
+\-- Action class -- Action objects deal with a single action in the history of the article. We -- use getter methods rather than properties for the name and result, etc., as -- their processing needs to be delayed until after the status object has been -- initialised. The status object needs to parse the action objects when it is -- initialised, and the value of some names, etc., in the action objects depend -- on the status object, so this is necessary to avoid errors/infinite loops.
 
 -----
 
@@ -770,7 +749,7 @@ function Action:exportHtml(articleHistoryObj)
 `   row`
 `       :tag('td')`
 `           :wikitext(string.format(`
-`               "`**[`%s`](../Page/%s.md "wikilink")**`",`
+`               "`**[`%s`](https://zh.wikipedia.org/wiki/%s "wikilink")**`",`
 `               self.link,`
 `               self:getName(articleHistoryObj)`
 `           ))`
@@ -787,13 +766,11 @@ end
 
 -----
 
-\-- CollapsibleNotice class -- This class makes notices that go in the
-collapsible part of the template, -- underneath the list of actions.
+\-- CollapsibleNotice class -- This class makes notices that go in the collapsible part of the template, -- underneath the list of actions.
 
 -----
 
-local CollapsibleNotice = setmetatable({}, Row)
-CollapsibleNotice.__index = CollapsibleNotice
+local CollapsibleNotice = setmetatable({}, Row) CollapsibleNotice.__index = CollapsibleNotice
 
 function CollapsibleNotice.new(data)
 
@@ -845,8 +822,7 @@ function CollapsibleNotice:getIconSize()
 
 end
 
-function CollapsibleNotice:exportHtml(articleHistoryObj,
-isInCollapsibleTable)
+function CollapsibleNotice:exportHtml(articleHistoryObj, isInCollapsibleTable)
 
 `   local cacheKey = isInCollapsibleTable`
 `       and '_htmlCacheCollapsible'`
@@ -915,8 +891,7 @@ end
 
 -----
 
-local ArticleHistory = {} ArticleHistory.__index = ArticleHistory
-addMixin(ArticleHistory, Message)
+local ArticleHistory = {} ArticleHistory.__index = ArticleHistory addMixin(ArticleHistory, Message)
 
 function ArticleHistory.new(args, cfg, currentTitle)
 
@@ -961,30 +936,7 @@ function ArticleHistory.new(args, cfg, currentTitle)
 `   end`
 `   obj.cfg = substituteAliases(cfg or require(CONFIG_PAGE))`
 
-`   --`[`--``   ``Get``   ``a``   ``table``   ``of``   ``the``
- ``arguments``   ``sorted``   ``by``   ``prefix``   ``and``
- ``number.``   ``Non-string``   ``--``   ``keys``   ``and``   ``keys``
- ``that``   ``don't``   ``contain``   ``a``   ``number``   ``are``
- ``ignored.``   ``(This``   ``means``   ``that``   ``--``
- ``positional``   ``parameters``   ``are``   ``ignored,``   ``as``
- ``they``   ``are``   ``numbers,``   ``not``   ``strings.)``   ``--``
- ``The``   ``parameter``   ``numbers``   ``are``   ``stored``   ``in``
- ``the``   ``first``   ``positional``   ``parameter``   ``of``   ``--``
- ``the``   ``subtables,``   ``and``   ``any``   ``gaps``   ``are``
- ``removed``   ``so``   ``that``   ``the``   ``tables``   ``can``
- ``be``   ``--``   ``iterated``   ``over``   ``with``   ``ipairs.``
- ``--``   ``--``   ``For``   ``example,``   ``these``   ``arguments:``
- ``--``   ``{a1x``   ``=``   ``'eggs',``   ``a1y``   ``=``
- ``'spam',``   ``a2x``   ``=``   ``'chips',``   ``b1z``   ``=``
- ``'beans',``   ``b3x``   ``=``   ``'bacon'}``   ``--``   ``would``
- ``translate``   ``into``   ``this``   ``prefixArgs``   ``table.``
- ``--``   ``{``   ``--``   ``a``   ``=``   ``{``   ``--``   ``{1,``
- ``x``   ``=``   ``'eggs',``   ``y``   ``=``   ``'spam'},``   ``--``
- ``{2,``   ``x``   ``=``   ``'chips'}``   ``--``   ``},``   ``--``
- ``b``   ``=``   ``{``   ``--``   ``{1,``   ``z``   ``=``
- ``'beans'},``   ``--``   ``{3,``   ``x``   ``=``   ``'bacon'}``
- ``--``   ``}``   ``--``   ``}``
- ``--`](../Page/--_Get_a_table_of_the_arguments_sorted_by_prefix_and_number._Non-string_--_keys_and_keys_that_don't_contain_a_number_are_ignored._\(This_means_that_--_positional_parameters_are_ignored,_as_they_are_numbers,_not_strings.\)_--_The_parameter_numbers_are_stored_in_the_first_positional_parameter_of_--_the_subtables,_and_any_gaps_are_removed_so_that_the_tables_can_be_--_iterated_over_with_ipairs._--_--_For_example,_these_arguments:_--_{a1x_=_'eggs',_a1y_=_'spam',_a2x_=_'chips',_b1z_=_'beans',_b3x_=_'bacon'}_--_would_translate_into_this_prefixArgs_table._--_{_--_a_=_{_--_{1,_x_=_'eggs',_y_=_'spam'},_--_{2,_x_=_'chips'}_--_},_--_b_=_{_--_{1,_z_=_'beans'},_--_{3,_x_=_'bacon'}_--_}_--_}_--.md "wikilink")
+`   --`[`--``   ``Get``   ``a``   ``table``   ``of``   ``the``   ``arguments``   ``sorted``   ``by``   ``prefix``   ``and``   ``number.``   ``Non-string``   ``--``   ``keys``   ``and``   ``keys``   ``that``   ``don't``   ``contain``   ``a``   ``number``   ``are``   ``ignored.``   ``(This``   ``means``   ``that``   ``--``   ``positional``   ``parameters``   ``are``   ``ignored,``   ``as``   ``they``   ``are``   ``numbers,``   ``not``   ``strings.)``   ``--``   ``The``   ``parameter``   ``numbers``   ``are``   ``stored``   ``in``   ``the``   ``first``   ``positional``   ``parameter``   ``of``   ``--``   ``the``   ``subtables,``   ``and``   ``any``   ``gaps``   ``are``   ``removed``   ``so``   ``that``   ``the``   ``tables``   ``can``   ``be``   ``--``   ``iterated``   ``over``   ``with``   ``ipairs.``   ``--``   ``--``   ``For``   ``example,``   ``these``   ``arguments:``   ``--``   ``{a1x``   ``=``   ``'eggs',``   ``a1y``   ``=``   ``'spam',``   ``a2x``   ``=``   ``'chips',``   ``b1z``   ``=``   ``'beans',``   ``b3x``   ``=``   ``'bacon'}``   ``--``   ``would``   ``translate``   ``into``   ``this``   ``prefixArgs``   ``table.``   ``--``   ``{``   ``--``   ``a``   ``=``   ``{``   ``--``   ``{1,``   ``x``   ``=``   ``'eggs',``   ``y``   ``=``   ``'spam'},``   ``--``   ``{2,``   ``x``   ``=``   ``'chips'}``   ``--``   ``},``   ``--``   ``b``   ``=``   ``{``   ``--``   ``{1,``   ``z``   ``=``   ``'beans'},``   ``--``   ``{3,``   ``x``   ``=``   ``'bacon'}``   ``--``   ``}``   ``--``   ``}``   ``--`](https://zh.wikipedia.org/wiki/--_Get_a_table_of_the_arguments_sorted_by_prefix_and_number._Non-string_--_keys_and_keys_that_don't_contain_a_number_are_ignored._\(This_means_that_--_positional_parameters_are_ignored,_as_they_are_numbers,_not_strings.\)_--_The_parameter_numbers_are_stored_in_the_first_positional_parameter_of_--_the_subtables,_and_any_gaps_are_removed_so_that_the_tables_can_be_--_iterated_over_with_ipairs._--_--_For_example,_these_arguments:_--_{a1x_=_'eggs',_a1y_=_'spam',_a2x_=_'chips',_b1z_=_'beans',_b3x_=_'bacon'}_--_would_translate_into_this_prefixArgs_table._--_{_--_a_=_{_--_{1,_x_=_'eggs',_y_=_'spam'},_--_{2,_x_=_'chips'}_--_},_--_b_=_{_--_{1,_z_=_'beans'},_--_{3,_x_=_'bacon'}_--_}_--_}_-- "wikilink")
 `   do`
 `       local prefixArgs = {}`
 `       for k, v in pairs(obj.args) do`

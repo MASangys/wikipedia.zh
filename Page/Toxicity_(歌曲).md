@@ -31,5 +31,4 @@
 
 1.
 2.  *"VH1 40 Greatest Metal Songs"*, 1–4 May 2006, *VH1* Channel, reported by [VH1.com](http://www.vh1.com/shows/dyn/the_greatest/103446/episode_this_list.jhtml); last accessed September 10, 2006
-
 3.

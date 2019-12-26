@@ -39,28 +39,16 @@
 [Category:肯塔基州副州长](https://zh.wikipedia.org/wiki/Category:肯塔基州副州长 "wikilink") [Category:路易斯维尔大学校友](https://zh.wikipedia.org/wiki/Category:路易斯维尔大学校友 "wikilink")
 
 1.
-
 2.  David M. Jordan, *FDR, Dewey, and the Election of 1944*, [Blomington](https://zh.wikipedia.org/wiki/Bloomington,_Indiana "wikilink"): [Indiana University Press](https://zh.wikipedia.org/wiki/Indiana_University_Press "wikilink"), 2011, pp. 165, 167, ISBN 978-0-253-35683-3
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
-
 14.

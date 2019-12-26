@@ -6,7 +6,7 @@ OG的前身是(monkey) Business，由两名前Secret队员Fly和Notail、Fly在c
 
 夺冠热门OG在上只取得了9-12名的成绩，这导致赛后OG进行了大換血。、MoonMeander和Cr1t-離隊，Ti3冠军中单S4加入OG转型为3号位、曾在IG作为430替补中单的ana和Team Liquid的4号位JerAx加入\[3\]\[4\]。重組的OG在2016-2017赛季夺得了[波士頓特級錦標賽](../Page/2016年波士頓特級錦標賽.md "wikilink")\[5\]和基辅特级锦标赛的冠军\[6\]，于[2017年Dota 2国际邀请赛上取得了](https://zh.wikipedia.org/wiki/2017年Dota_2国际邀请赛 "wikilink")7-8名的成绩。
 
-Ti7之后，ana的位置被Ti6的亚军1号位Resolut1on取代，可OG的状态依然低靡。2017-2018赛季，Valve推出了新的Dota Pro Circuit赛制体系，将全年的大赛分为10个Minor和10个Major，而OG仅仅取得了1个Minor(MDL Macau 2017)的冠军。长期萎靡的状态导致2019年4月Reoslut1ion离队加入VGJ.Storm，他的位置由教练Ceb暂时取代。5月，Fly和s4离队加入EG。\[7\]\[8\]为了迎接Ti8，OG不得不在极短的时间内重组，OG召回ana来打1号位，又找来了高分路人Topson打2号位，之前的1号位Notail转为5号位，由教练Ceb出任3号位。\[9\]\[10\]\[11\]\[12\] 由于DPC的规则限制，想要进入[Ti8的话](../Page/2018年Dota_2国际邀请赛.md "wikilink")，重组后的OG需要从欧洲区海选（Open Qualifier）开始，通过海选进入欧洲区预选赛。OG在Ti8被分到了A组，小组赛结束后位于A组第四名，刚好可以进入胜者组，在淘汰赛阶段，OG取得了每一个系列赛的胜利，直至获得Ti8的冠军和超过1100万美金。\[13\]\[14\]\[15\]OG在Ti8的胜利打破了关于Ti的魔咒之一：中国队会在偶数年捧得冠军。\[16\]
+Ti7之后，ana的位置被Ti6的亚军1号位Resolut1on取代，可OG的状态依然低靡。2017-2018赛季，Valve推出了新的Dota Pro Circuit赛制体系，将全年的大赛分为10个Minor和10个Major，而OG仅仅取得了1个Minor(MDL Macau 2017)的冠军。长期萎靡的状态导致2018年4月Reoslut1ion离队加入VGJ.Storm，他的位置由教练Ceb暂时取代。5月，Fly和s4离队加入EG。\[7\]\[8\]为了迎接Ti8，OG不得不在极短的时间内重组，OG召回ana来打1号位，又找来了高分路人Topson打2号位，之前的1号位Notail转为5号位，由教练Ceb出任3号位。\[9\]\[10\]\[11\]\[12\] 由于DPC的规则限制，想要进入[Ti8的话](../Page/2018年Dota_2国际邀请赛.md "wikilink")，重组后的OG需要从欧洲区海选（Open Qualifier）开始，通过海选进入欧洲区预选赛。OG在Ti8被分到了A组，小组赛结束后位于A组第四名，刚好可以进入胜者组，在淘汰赛阶段，OG取得了每一个系列赛的胜利，直至获得Ti8的冠军和超过1100万美金。\[13\]\[14\]\[15\]OG在Ti8的胜利打破了关于Ti的魔咒之一：中国队会在偶数年捧得冠军。\[16\]
 
 在2019年4月于旧金山，OG败给了。\[17\]同年再次奪得[Dota 2国际邀请赛冠军](../Page/2019年Dota_2国际邀请赛.md "wikilink")。
 
@@ -75,32 +75,19 @@ Ti7之后，ana的位置被Ti6的亚军1号位Resolut1on取代，可OG的状态�
 [Category:歐洲電子競技團體](https://zh.wikipedia.org/wiki/Category:歐洲電子競技團體 "wikilink") [Category:Dota_2](https://zh.wikipedia.org/wiki/Category:Dota_2 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.

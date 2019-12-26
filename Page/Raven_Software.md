@@ -45,8 +45,6 @@
 [Category:1990年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1990年開業電子遊戲公司 "wikilink") [Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
 1.
-
 2.
 3.
-
 4.

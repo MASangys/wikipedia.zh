@@ -546,20 +546,15 @@
 
   - [《萬千呃like賀台慶》官方網站專頁](http://www.tvmost.com.hk/hb)
   - [《萬千呃like賀台慶前奏》節目重溫](https://web.archive.org/web/20160716101921/http://www.tvmost.com.hk/2016_prehb)
-  - [《萬千呃Like賀台慶 （少啲甩轆版）》重溫](http://tvmost.com.hk/201605121505_programme_happybirthdaytome)
+  - [《萬千呃Like賀台慶 （少啲甩轆版）》重溫](https://web.archive.org/web/20160516152644/http://www.tvmost.com.hk/201605121505_programme_happybirthdaytome)
 
 [分類:毛記電視節目](https://zh.wikipedia.org/wiki/分類:毛記電視節目 "wikilink") [分類:2016年香港電視娛樂節目](https://zh.wikipedia.org/wiki/分類:2016年香港電視娛樂節目 "wikilink")
 
 1.  宣傳期間冠名為「灣仔會展毛記電視城5BC錄影廠」
-
 2.  [facebook：林日曦](https://www.facebook.com/linrixi/posts/1018532834905388)
-
 3.  [facebook：林日曦 - （非突發）如無意外，呢幾日內，毛記電視同某電視台將會公佈一件小事。如無意外。](https://www.facebook.com/linrixi/photos/pb.450867315005279.-2207520000.1462380437./1010557055702966/?type=3&theater)
-
 4.  [facebook：ViuTV - （非突然）終於宣布得：ViuTV 99台　5月11日晚8:30原定之實驗電視、真人實況、潮流選擇節目《TBC》會改名為：毛記電視《\#萬千呃Like賀台慶》現場直播](https://www.facebook.com/ViuTV.hk/photos/a.1565829617005787.1073741828.1555649141357168/1633982170190531/?type=3&theater)
-
 5.  [facebook：100毛 - 正式落實！人類史上首個由人哋電視台直播嘅電視台台慶… 毛記電視主辦 ViuTV獨家直播 Pricerite呈獻《萬千呃Like賀台慶》 5月11日晚上8點30分．免費電視99台](https://www.facebook.com/100most/photos/a.292832474177740.66479.273813022746352/894972890630359/?type=3&theater)
-
 6.
 7.
 8.
@@ -571,22 +566,17 @@
 14.
 15.
 16. [【ViuTV獨家直播】毛記台慶紅白大對決](http://viu.tv/readtv/ViuTVduk-ga-jik-boh-mo-gei-toi-hing-hung-baak-daai-dui-kuet)
-
 17. 根據毛記電視傳統，現實公眾人物會於名稱前方加上「真」字或「堅」字，以便與毛記幕前偽員區分。
-
 18.
 19. 疑似東方昇的助手
-
 20.
 21.
 22.
 23. [亞洲電視55週年台慶發生向空凳拋壽包事件](https://zh.wikipedia.org/wiki/亞洲電視五十五周年#全球首家華語電視台-亞洲電視55周年暨香港回歸15周年慶典及晚會 "wikilink")，因而發生此「指定環節」。
-
 24.
 25.
 26.
 27. 毛記電視習慣以此電影的簡體中文版作為填充提名，而毛記更經常自嘲不懂得拼寫主角[里安納度·狄卡比奧的名字全稱](https://zh.wikipedia.org/wiki/里安納度·狄卡比奧 "wikilink")，版本包括「Leonardo Di唔識串」、「Leonardo [Pikachu](https://zh.wikipedia.org/wiki/比卡超 "wikilink")」等等。
-
 28.
 29.
 30.

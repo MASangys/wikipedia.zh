@@ -36,11 +36,8 @@
 [Category:網絡爆紅短片](https://zh.wikipedia.org/wiki/Category:網絡爆紅短片 "wikilink") [Category:YouTube視訊](https://zh.wikipedia.org/wiki/Category:YouTube視訊 "wikilink") [Category:2012年面世的網路迷因](https://zh.wikipedia.org/wiki/Category:2012年面世的網路迷因 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
@@ -49,9 +46,7 @@
 9.
 10.
 11.
-
 12.
-
 13.
 14.
 15.
@@ -64,14 +59,12 @@
 22.
 23.
 24.
-
 25.
 26.
 27.
 28.
 29.
 30.
-
 31.
 32.
 33.

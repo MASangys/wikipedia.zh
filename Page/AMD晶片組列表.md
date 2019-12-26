@@ -1550,33 +1550,22 @@ AHCI1.3</p></td>
 [Category:AMD](https://zh.wikipedia.org/wiki/Category:AMD "wikilink") [Category:冶天科技](https://zh.wikipedia.org/wiki/Category:冶天科技 "wikilink") [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
 
 1.  [AMD's Super Bypass - AMD Improves their 750 Chipset : Introduction - Tom's Hardware](http://www.tomshardware.com/1999/12/29/amd/)
-
 2.  [AMD-768 Peripheral Bus Controller Revision Guide](https://web.archive.org/web/20040331011900/http://www.amd.com/us-en/assets/content_type/white_papers_and_tech_docs/24472.pdf)
-
 3.  [AMD Phenom Motherboard compatibility matrix](http://products.amd.com/en-us/RecommendedComponentResult.aspx?f1=AMD+Phenom%e2%84%a2+X4+Quad-Core&f2=9850&f3=2500&f4=512&f5=AM2%2b&f6=B3&f7=65nm+SOI&f8=125+W&f9=4000&f10=False&models=338&source=desktopCPU&target=motherboard&socket=AM2+&)
-
 4.  [You Asked for It, You Got It: SLI for AMD](http://blogs.nvidia.com/2011/04/you-asked-for-it-you-got-it-sli-for-amd/)
-
 5.  <http://event.asus.com/2011/mb/AM3_PLUS_Ready/>
-
 6.  **M**: 筆記型電腦平台使用
-
 7.
 8.  UMI ×4 Gen. 1 代表基於[PCIe 1.1](https://zh.wikipedia.org/wiki/PCI_Express#PCI_Express_1.1 "wikilink")×4鏈路，提供共1GB/s的頻寬
-
 9.  <http://www.amd.com/us/Documents/43838_Embedded_Solutions_Selection_Brief_web.pdf>
-
 10.
 11.
 12.
 13.
 14. [Deux chipsets pour l'APU Llano sont certifiés USB 3.0](http://www.pcinpact.com/actu/news/62708-amd-llano-hudson-usb-30-fusion.htm)
-
 15.
 16. **D**: 桌上型電腦平台使用
-
 17. UMI ×4 Gen. 2 代表基於[PCIe 2.0](https://zh.wikipedia.org/wiki/PCI_Express#PCI_Express_2.0 "wikilink")×4鏈路，提供共2GB/s的頻寬
-
 18.
 19.
 20.
@@ -1588,33 +1577,21 @@ AHCI1.3</p></td>
 26.
 27.
 28. **E**: 嵌入式平台使用
-
 29.
 30.
 31. <http://support.amd.com/TechDocs/53830%20A77E%20Databook.pdf>
-
 32.
 33. <http://www.anandtech.com/show/11636/amd-ryzen-threadripper-1920x-1950x-16-cores-4g-turbo-799-999-usd>
-
 34.
-
 35.
 36.
-
 37.
-
 38.
-
 39.
-
 40. 提供約4GB/s（3.94GB/s）的[頻寬](https://zh.wikipedia.org/wiki/頻寬 "wikilink")
-
 41.
-
 42.
-
 43.
-
 44.
 45.
 46.
@@ -1622,7 +1599,6 @@ AHCI1.3</p></td>
 48.
 49.
 50.
-
 51.
 52.
 53.

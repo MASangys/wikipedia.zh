@@ -1,6 +1,6 @@
 **CEV聯賽冠軍盃**（官方統一名稱：CEV Champions League），又譯**CEV冠軍聯賽**，通稱**男排歐冠盃**，由[歐洲排球聯合會](https://zh.wikipedia.org/wiki/歐洲排球聯合會 "wikilink")（CEV）舉辦的年度排球比賽，是歐洲最頂級的俱樂部聯賽。
 
-最初由[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")向[國際排球聯合會](https://zh.wikipedia.org/wiki/國際排球聯合會 "wikilink")（FIVB）提出，自1959－1960年度首屆，羅馬尼亞球隊連續十屆晉身決賽，五度稱王。[蘇聯的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[莫斯科中央陸軍除了奪得首屆冠軍以外](https://zh.wikipedia.org/wiki/莫斯科中央陸軍_\(排球\) "wikilink")，至1991年[蘇聯解體前](https://zh.wikipedia.org/wiki/蘇聯解體 "wikilink")12奪冠軍，為奪冠之最。隨後，1991-92至1999-00連續九屆由[意大利](../Page/意大利.md "wikilink")球會奪冠，風雲一時。而近年則多數是由[俄羅斯頂尖球會奪冠](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。
+最初由[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")向[國際排球聯合會](https://zh.wikipedia.org/wiki/國際排球聯合會 "wikilink")（FIVB）提出，自1959－1960年度首屆，羅馬尼亞球隊連續十屆晉身決賽，五度稱王。[蘇聯的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[莫斯科中央陸軍除了奪得首屆冠軍以外](https://zh.wikipedia.org/wiki/莫斯科中央陸軍_\(排球\) "wikilink")，至1991年[蘇聯解體前](https://zh.wikipedia.org/wiki/蘇聯解體 "wikilink")12奪冠軍，為奪冠之最。隨後，1991-92至1999-00連續九屆由[意大利](../Page/意大利.md "wikilink")球會奪冠，風雲一時。而近年則多數是由[俄羅斯頂尖球會奪冠](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。2019年，意大利的球队奇维塔诺瓦击败俄罗斯的喀山夺冠，俄罗斯球队的7连冠被奇维塔诺瓦终结。
 
 ## 歷屆成績
 
@@ -675,6 +675,225 @@
 <td></td>
 <td></td>
 <td></td>
+</tr>
+</tbody>
+</table>
+
+## 冠军榜
+
+<table>
+<thead>
+<tr class="header">
+<th><p>Country</p></th>
+<th><p>Winners</p></th>
+<th><p>Runners-up</p></th>
+<th><p>Finals</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Russia" title="wikilink">Russia</a> /  <a href="https://zh.wikipedia.org/wiki/Soviet_Union" title="wikilink">Soviet Union</a></p></td>
+<td><center>
+<p>23</p>
+</center></td>
+<td><center>
+<p>7</p>
+</center></td>
+<td><center>
+<p>30</p>
+</center></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Italy" title="wikilink">Italy</a></p></td>
+<td><center>
+<p>19</p>
+</center></td>
+<td><center>
+<p>16</p>
+</center></td>
+<td><center>
+<p>35</p>
+</center></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Romania" title="wikilink">Romania</a></p></td>
+<td><center>
+<p>6</p>
+</center></td>
+<td><center>
+<p>9</p>
+</center></td>
+<td><center>
+<p>15</p>
+</center></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Czechoslovakia" title="wikilink">Czechoslovakia</a></p></td>
+<td><center>
+<p>4</p>
+</center></td>
+<td><center>
+<p>2</p>
+</center></td>
+<td><center>
+<p>6</p>
+</center></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/France" title="wikilink">France</a></p></td>
+<td><center>
+<p>2</p>
+</center></td>
+<td><center>
+<p>3</p>
+</center></td>
+<td><center>
+<p>5</p>
+</center></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Kazakh_SSR" title="wikilink">Kazakh SSR</a></p></td>
+<td><center>
+<p>2</p>
+</center></td>
+<td><center>
+<p>0</p>
+</center></td>
+<td><center>
+<p>2</p>
+</center></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Poland" title="wikilink">Poland</a></p></td>
+<td><center>
+<p>1</p>
+</center></td>
+<td><center>
+<p>3</p>
+</center></td>
+<td><center>
+<p>4</p>
+</center></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Bulgaria" title="wikilink">Bulgaria</a></p></td>
+<td><center>
+<p>1</p>
+</center></td>
+<td><center>
+<p>2</p>
+</center></td>
+<td><center>
+<p>3</p>
+</center></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Germany" title="wikilink">Germany</a></p></td>
+<td><center>
+<p>1</p>
+</center></td>
+<td><center>
+<p>2</p>
+</center></td>
+<td><center>
+<p>3</p>
+</center></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/East_Germany" title="wikilink">East Germany</a></p></td>
+<td><center>
+<p>1</p>
+</center></td>
+<td><center>
+<p>1</p>
+</center></td>
+<td><center>
+<p>2</p>
+</center></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Slovakia" title="wikilink">Slovakia</a></p></td>
+<td><center>
+<p>1</p>
+</center></td>
+<td><center>
+<p>1</p>
+</center></td>
+<td><center>
+<p>2</p>
+</center></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Greece" title="wikilink">Greece</a></p></td>
+<td><center>
+<p>0</p>
+</center></td>
+<td><center>
+<p>5</p>
+</center></td>
+<td><center>
+<p>5</p>
+</center></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Yugoslavia" title="wikilink">Yugoslavia</a></p></td>
+<td><center>
+<p>0</p>
+</center></td>
+<td><center>
+<p>3</p>
+</center></td>
+<td><center>
+<p>3</p>
+</center></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Belgium" title="wikilink">Belgium</a></p></td>
+<td><center>
+<p>0</p>
+</center></td>
+<td><center>
+<p>2</p>
+</center></td>
+<td><center>
+<p>2</p>
+</center></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Netherlands" title="wikilink">Netherlands</a></p></td>
+<td><center>
+<p>0</p>
+</center></td>
+<td><center>
+<p>2</p>
+</center></td>
+<td><center>
+<p>2</p>
+</center></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Spain" title="wikilink">Spain</a></p></td>
+<td><center>
+<p>0</p>
+</center></td>
+<td><center>
+<p>1</p>
+</center></td>
+<td><center>
+<p>1</p>
+</center></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Turkey" title="wikilink">Turkey</a></p></td>
+<td><center>
+<p>0</p>
+</center></td>
+<td><center>
+<p>1</p>
+</center></td>
+<td><center>
+<p>1</p>
+</center></td>
 </tr>
 </tbody>
 </table>

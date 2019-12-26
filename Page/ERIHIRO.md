@@ -25,13 +25,11 @@
 
   -
   -
-  - [官方blog](http://lineblog.me/erihiro/)
+  - [官方blog](https://web.archive.org/web/20151018095844/http://lineblog.me/erihiro)
 
 [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:二人組](https://zh.wikipedia.org/wiki/Category:二人組 "wikilink") [Category:VISION_FACTORY](https://zh.wikipedia.org/wiki/Category:VISION_FACTORY "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:SPEED](https://zh.wikipedia.org/wiki/Category:SPEED "wikilink")
 
 1.
-
 2.
-
 3.
 4.

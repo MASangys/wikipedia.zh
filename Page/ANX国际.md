@@ -7,24 +7,25 @@
   - 于2014年3月13日，ANX国际宣布推出全港首台、全球第三台比特币自动柜员机。\[9\]\[10\] 该自动柜员机支持比特币和港币之间的兑换。
   - 于2014年7月，ANX国际推出全球首张数字资产签账金融卡。该金融卡支持商户在全球范围内通过自动柜员机提取当地货币。\[11\]
   - 于2016年5月18日，在亚洲国际博览馆举行的「香港亚太云端科技博览会」上，ANX国际推出全球首个区块链技术云端平台，免费让全球企业使用。该云端平台上的区块链技术应用包括：将传统资产转化成数字资产、建立资料库、电子钱包服务、以及资产交易平台。\[12\]
+  - 從2019年6月1日開始進入維護狀態，所有交易服務停止。\[13\]
 
 ## 收购记录
 
 ### Justcoin
 
-于2014年11月，ANX国际收购了挪威比特币交易公司Justcoin，进一步扩张其欧洲数字货币交易的市场份额。\[13\] \[14\]
+于2014年11月，ANX国际收购了挪威比特币交易公司Justcoin，进一步扩张其欧洲数字货币交易的市场份额。\[14\] \[15\]
 
 ### CoinMkt
 
-于2015年1月，ANX国际收购了美国加密货币交易公司CoinMkt，进一步扩张其美国数字货币交易的市场份额。 \[15\] 并购后，CoinMkt将维持本品牌的独立营运，但将会归列于ANX国际的集团之内。\[16\]
+于2015年1月，ANX国际收购了美国加密货币交易公司CoinMkt，进一步扩张其美国数字货币交易的市场份额。 \[16\] 并购后，CoinMkt将维持本品牌的独立营运，但将会归列于ANX国际的集团之内。\[17\]
 
 ## 所获荣誉
 
-于2015年，ANX荣获由国际著名商业杂志Mediazone Group颁发之“香港最有价值企业大奖”。\[17\]
+于2015年，ANX荣获由国际著名商业杂志Mediazone Group颁发之“香港最有价值企业大奖”。\[18\]
 
 ## 参考资料
 
-[Category:香港金融公司](https://zh.wikipedia.org/wiki/Category:香港金融公司 "wikilink") [Category:比特币交易平台](https://zh.wikipedia.org/wiki/Category:比特币交易平台 "wikilink") [Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink") [Category:2013年香港建立](https://zh.wikipedia.org/wiki/Category:2013年香港建立 "wikilink")
+[Category:香港金融公司](https://zh.wikipedia.org/wiki/Category:香港金融公司 "wikilink") [Category:比特币交易平台](https://zh.wikipedia.org/wiki/Category:比特币交易平台 "wikilink") [Category:2013年成立的香港公司](https://zh.wikipedia.org/wiki/Category:2013年成立的香港公司 "wikilink") [Category:2013年香港建立](https://zh.wikipedia.org/wiki/Category:2013年香港建立 "wikilink")
 
 1.
 2.
@@ -43,3 +44,4 @@
 15.
 16.
 17.
+18.

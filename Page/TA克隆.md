@@ -23,11 +23,7 @@ TA克隆中除了切開載體之外，都不需要使用限制酶，因而其操
 [Category:分子生物学技术](https://zh.wikipedia.org/wiki/Category:分子生物学技术 "wikilink") [Category:基因工程](https://zh.wikipedia.org/wiki/Category:基因工程 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.

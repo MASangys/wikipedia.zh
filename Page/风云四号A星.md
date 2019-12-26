@@ -155,41 +155,23 @@
 [Category:中国人造卫星](https://zh.wikipedia.org/wiki/Category:中国人造卫星 "wikilink") [Category:气象卫星](https://zh.wikipedia.org/wiki/Category:气象卫星 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  又名「辐射成像仪」
-
 7.  又名「干涉式红外探测仪」
-
 8.  包括三台高能粒子探测器、三轴磁通门磁强计、卫星辐照计量仪、充电电位测量仪与环境远置单元，共计7台单机21件产品，可开展磁场探测、粒子的方向探测、充电电位和辐照剂量监测等多种空间环境试验。
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18. 壮哉！“风云四号”，大国重器！|url=[http://weibo.com/ttarticle/p/show?id=2309404051820799477796|accessdate=2016-12-17|website=中国气象局微博|date=2016-12-12](http://weibo.com/ttarticle/p/show?id=2309404051820799477796%7Caccessdate=2016-12-17%7Cwebsite=中国气象局微博%7Cdate=2016-12-12)}}
-
 19.
-
 20.
-
 21.

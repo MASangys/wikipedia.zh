@@ -1,4 +1,4 @@
-**DoubleTap**是一把由[美国](../Page/美国.md "wikilink")雙連擊防務有限責任公司研製及生產、專為個人防護用途的雙管式[手枪](../Page/手枪.md "wikilink")，有發射[9×19毫米魯格彈與](../Page/9×19mm魯格彈.md "wikilink")[.45 ACP](../Page/.45_ACP.md "wikilink")[口徑自動手槍](https://zh.wikipedia.org/wiki/口徑 "wikilink")[子彈](../Page/子彈.md "wikilink")的版本。
+**DoubleTap**是一g款由[美国](../Page/美国.md "wikilink")雙連擊防務有限責任公司所研製及生產、專為個人防護用途的雙管式[手枪](../Page/手枪.md "wikilink")，有發射[9×19毫米魯格彈與](../Page/9×19mm魯格彈.md "wikilink")[.45 ACP](../Page/.45_ACP.md "wikilink")[口徑自動手槍](https://zh.wikipedia.org/wiki/口徑 "wikilink")[子彈](../Page/子彈.md "wikilink")的版本。
 
 該槍的名字來自於[雙連擊](../Page/雙連擊.md "wikilink")（Double tap）[射击技巧](https://zh.wikipedia.org/wiki/射击 "wikilink")，對攻擊目標的同一位置（或非常接近的位置）之上在短時間內連續射出兩發子彈。\[1\]海澤防務已表示，他們汲取了來自[FP-45「解放者」的靈感](../Page/FP-45_解放者手枪.md "wikilink")，該槍曾是[二戰期間為供反抗納粹德國的法國](../Page/第二次世界大战.md "wikilink")[游击队](../Page/游击战.md "wikilink")、反抗勢力使用而設計的武器。\[2\]
 
@@ -82,7 +82,7 @@ DoubleTap在市場上最初是以**海澤DoubleTap**（Heizer DoubleTap）的名
       - [Introducing the Diminutive Heizer DoubleTap](http://www.gunsandammo.com/2011/12/05/introducing-the-diminuitive-heizer-doubletap/)
       - [Palm-Size Two-Shooter: The Heizer DoubleTap Review](http://www.gunsandammo.com/reviews/palm-size-two-shooter-the-heizer-doubletap-review/)
 
-  - —[Is This The First I-Pistol? “Hedy Jane” Pocket Pistol Finished in I-Phone White](http://www.handgunsmag.com/reviews/pistols/is-this-the-first-i-pistol-hedy-jane-pocket-pistol-finished-in-i-phone-white/)
+  - —[Is This The First I-Pistol? “Hedy Jane” Pocket Pistol Finished in I-Phone White](https://web.archive.org/web/20160821061039/http://www.handgunsmag.com/reviews/pistols/is-this-the-first-i-pistol-hedy-jane-pocket-pistol-finished-in-i-phone-white/)
 
   - —Tactical-Life.com—
 
@@ -114,17 +114,12 @@ DoubleTap在市場上最初是以**海澤DoubleTap**（Heizer DoubleTap）的名
 [Category:單發手枪](https://zh.wikipedia.org/wiki/Category:單發手枪 "wikilink") [Category:多管槍械](https://zh.wikipedia.org/wiki/Category:多管槍械 "wikilink") [Category:美國槍械](https://zh.wikipedia.org/wiki/Category:美國槍械 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:.45_ACP口徑槍械](https://zh.wikipedia.org/wiki/Category:.45_ACP口徑槍械 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.
-
 7.
 8.
-
 9.
-
 10.

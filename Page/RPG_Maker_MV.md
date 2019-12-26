@@ -53,17 +53,15 @@ RTP（遊戲運行需要的檔案）機制被廢除了。由於在遊戲前安�
 
 ## 外部連結
 
-  - [ツクールweb (RPG Maker系列官方網站)](http://tkool.jp/)
+  - [ツクールweb (RPG Maker系列官方網站)](https://web.archive.org/web/20110624000425/http://tkool.jp/)
   - [RPG Maker MV 官方網站](https://tkool.jp/mv/)
   - [RPG MAKER WEB](http://www.rpgmakerweb.com/)
   - [RPGアツマール](http://game.nicovideo.jp/atsumaru/?link=blog)
   - [SIAKO.Mobi： RPG Maker MV 遊戲製作教學](http://siakomobi.me/)
 
-[Category:電子遊戲研發](https://zh.wikipedia.org/wiki/Category:電子遊戲研發 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:遊戲製作軟件](https://zh.wikipedia.org/wiki/Category:遊戲製作軟件 "wikilink") [Category:RPG製作大師](https://zh.wikipedia.org/wiki/Category:RPG製作大師 "wikilink")
+[Category:電子遊戲研發](https://zh.wikipedia.org/wiki/Category:電子遊戲研發 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:電子遊戲開發軟件](https://zh.wikipedia.org/wiki/Category:電子遊戲開發軟件 "wikilink") [Category:RPG製作大師](https://zh.wikipedia.org/wiki/Category:RPG製作大師 "wikilink")
 
 1.  <http://store.steampowered.com/app/363890/>
-
 2.   RPG Maker {{\!}} Make Your Own Video Games\!|accessdate=2016-11-03|work=www.rpgmakerweb.com}}
-
 3.
 4.

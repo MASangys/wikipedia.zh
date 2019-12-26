@@ -35,26 +35,89 @@
   - 2017年4月29日，停靠「南新花園」站後，新增停靠「美景花園」站。\[10\]
   - 2018年8月1日，本線回復由澳巴營運。
 
-## 路線資料
+## 使用車輛
 
-### 使用車輛
+### MT1
 
-  - 宇通ZK6902HG、宇通ZK6115HG1(MT2)
-  - 宇通ZK6115HG1、宇通ZK6105HG(MT1)
+  - 宇通ZK6105HG
+  - 宇通ZK6115HG1
 
-### 服務時間及班距
+### MT2
 
-| **MT1路線服務時間**                        | 平日(星期一至五)        | 例假日(含公眾假期) |
-| ------------------------------------ | ---------------- | ---------- |
-| [城市日前地](../Page/城市日前地.md "wikilink") | 07:00-22:30      |            |
-| **班距**                               | 尖峰10-12分鐘，離峰20分鐘 |            |
-|                                      |                  |            |
+  - 宇通ZK6902HG
+  - 宇通ZK6115HG1
+  - 五洲龍FDG6951G
 
-| **MT2路線服務時間**                        | 平日(星期一至五)        | 例假日(含公眾假期) |
-| ------------------------------------ | ---------------- | ---------- |
-| [城市日前地](../Page/城市日前地.md "wikilink") | 07:00-21:45      |            |
-| **班距**                               | 尖峰12-15分鐘，離峰20分鐘 |            |
-|                                      |                  |            |
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p><strong>澳門巴士MT1路线使用車輛列表</strong><br />
+(只記錄掛牌車輛)</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>align="center" width="25%" bgcolor="silver" color:black" | 所屬公司</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>澳巴</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>3138</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>3139</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>3144</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>3147</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>3152</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>3153</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>3155</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p><strong>澳門巴士MT2路线使用車輛列表</strong><br />
+(只記錄掛牌車輛)</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>align="center" width="25%" bgcolor="silver" color:black" | 所屬公司</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>澳巴</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2043</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2056</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>3129</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>3136</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
+## 路線資料(MT1)
 
 ### 收費
 
@@ -64,66 +127,92 @@
   - 使用[澳門通](../Page/澳門通.md "wikilink")學生卡，全程一律扣減車費1.5圓，餘額由政府支助。
   - 使用[澳門通](../Page/澳門通.md "wikilink")長者卡及殘疾卡，全程一律免費，餘額由政府支助。
 
+### 服務時間及班距
+
+| **路線服務時間**                           | 平日(星期一至五)        | 例假日(含公眾假期) |
+| ------------------------------------ | ---------------- | ---------- |
+| [城市日前地](../Page/城市日前地.md "wikilink") | 07:00-22:30      |            |
+| **班距**                               | 尖峰10-12分鐘，離峰20分鐘 |            |
+|                                      |                  |            |
+
 ### 路線停站
 
-|         |                                                                                                                     |
-| :-----: | :-----------------------------------------------------------------------------------------------------------------: |
-| **MT1** |                                                **城市日前地** ↺ **澳門機場**                                                 |
-|   編號    |                                                         循環線                                                         |
-|    1    |                                        [城市日前地](../Page/城市日前地.md "wikilink")                                         |
-|    2    |                           [亞馬喇前地](https://zh.wikipedia.org/wiki/亞馬喇前地_\(總站\) "wikilink")                            |
-|    3    |                                                       史伯泰／麗景灣                                                       |
-|    4    |                                                       氹仔大中華廣場                                                       |
-|    5    |                                                        泉裕豪庭                                                         |
-|    6    |                                                       奧林匹克大馬路                                                       |
-|    7    |                                                        澳門運動場                                                        |
-|    8    |                                                       運動場圓形地                                                        |
-|    9    |                             [奧林匹克游泳館](https://zh.wikipedia.org/wiki/奧林匹克游泳館 "wikilink")                             |
-|   10    |                           [望德聖母灣馬路](https://zh.wikipedia.org/wiki/望德聖母灣馬路 "wikilink")／軍營                            |
-|   11    |                           [望德聖母灣馬路](https://zh.wikipedia.org/wiki/望德聖母灣馬路 "wikilink")／紅樹林                           |
-|   12    |                                                      澳門土木工程實驗室                                                      |
-|   13    |                                                      機場圓形地/偉龍                                                       |
-|   14    |                          [氹仔客運碼頭](https://zh.wikipedia.org/wiki/臨時客運碼頭_\(總站\) "wikilink")                           |
-|   15    |                                                        機場倉庫                                                         |
-|   16    |                                [澳門機場](https://zh.wikipedia.org/wiki/澳門機場 "wikilink")                                |
-|   17    |                                        偉龍／[科大醫院](../Page/科大醫院.md "wikilink")                                        |
-|   18    |                              偉龍／[科技大學](https://zh.wikipedia.org/wiki/科技大學 "wikilink")                               |
-|   19    | [望德聖母灣馬路](https://zh.wikipedia.org/wiki/望德聖母灣馬路 "wikilink")／[連貫公路](https://zh.wikipedia.org/wiki/路氹連貫公路 "wikilink") |
-|   20    |            [望德聖母灣馬路](https://zh.wikipedia.org/wiki/望德聖母灣馬路 "wikilink")／[銀河](../Page/澳門銀河.md "wikilink")             |
-|   21    |                                                     奧林匹克游泳館圓形地                                                      |
-|   22    |                                                        華寶花園                                                         |
-|   23    |                                                        花城公園                                                         |
-|   24    |                                                        百利寶花園                                                        |
-|   25    |                                                        氹仔電訊                                                         |
-|   26    |                                                       史伯泰／盧廉若                                                       |
-|   27    |                                                       蘇利安圓形地                                                        |
-|   28    |                           [亞馬喇前地](https://zh.wikipedia.org/wiki/亞馬喇前地_\(總站\) "wikilink")                            |
-|   29    |                                         [總統酒店](../Page/總統酒店.md "wikilink")                                          |
-|   30    |                                                     城市日大馬路／波爾圖街                                                     |
+[Macau_bus_route_MT1.jpg](https://zh.wikipedia.org/wiki/File:Macau_bus_route_MT1.jpg "fig:Macau_bus_route_MT1.jpg")
 
-|         |                                                                |
-| :-----: | :------------------------------------------------------------: |
-| **MT2** |                     **城市日前地** ↺ **運動場圓形地**                     |
-|   編號    |                              循環線                               |
-|    1    |              [城市日前地](../Page/城市日前地.md "wikilink")              |
-|    2    | [亞馬喇前地](https://zh.wikipedia.org/wiki/亞馬喇前地_\(總站\) "wikilink") |
-|    3    |   [蘇利安圓形地](https://zh.wikipedia.org/wiki/蘇利安圓形地 "wikilink")    |
-|    4    |                              海洋廣場                              |
-|    5    |                            海洋花園衛生中心                            |
-|    6    |                              南新花園                              |
-|    7    |                              美景花園                              |
-|    8    |                           氹仔中央公園／成都街                           |
-|    9    |                            廣東大馬路／濠景                            |
-|   10    |                              賽馬會                               |
-|   11    |                             氹仔海濱花園                             |
-|   12    |                            海洋花園／紫荊苑                            |
-|   13    | [亞馬喇前地](https://zh.wikipedia.org/wiki/亞馬喇前地_\(總站\) "wikilink") |
-|   14    |               [總統酒店](../Page/總統酒店.md "wikilink")               |
-|   15    |                          城市日大馬路／波爾圖街                           |
+|         |                      |
+| :-----: | :------------------: |
+| **MT1** | **城市日前地** ↺ **澳門機場** |
+|   編號    |         循環線          |
+|    1    |         M268         |
+|    2    |        M172/7        |
+|    3    |         T403         |
+|    4    |         T304         |
+|    5    |        T310/1        |
+|    6    |         T368         |
+|    7    |        T324/1        |
+|    8    |         T347         |
+|    9    |        T364/1        |
+|   10    |         T366         |
+|   11    |         T374         |
+|   12    |         T406         |
+|   13    |        T345/6        |
+|   14    |         T344         |
+|   15    |        T356/3        |
+|   16    |         T358         |
+|   17    |         T373         |
+|   18    |         T367         |
+|   19    |         T365         |
+|   20    |         T361         |
+|   21    |        T325/2        |
+|   22    |        T339/2        |
+|   23    |        T311/1        |
+|   24    |        T308/1        |
+|   25    |         T300         |
+|   26    |        T330/1        |
+|   27    |       M172/11        |
+|   28    |         M159         |
+|   29    |         M262         |
 
-## 備註
+## 路線資料(MT2)
 
-交通事務局官方指MT2路線的折返點為運動場圓形地，而現實中，該線只是行經該圓形地，並無停靠與其同名的巴士站。前往運動場的乘客仍需乘搭MT1路線或在南新花園站下車並步行一段路前往。
+### 收費
+
+  - 全程收費：[澳門幣](https://zh.wikipedia.org/wiki/澳門幣 "wikilink")6圓。
+  - 使用[澳門通](../Page/澳門通.md "wikilink")全民卡，全程一律扣減車費3.0圓，餘額由政府支助。
+  - 使用[澳門錢包乘車碼](../Page/澳門通.md "wikilink")，全程一律扣減車費3.0圓，餘額由政府支助。
+  - 使用[澳門通](../Page/澳門通.md "wikilink")學生卡，全程一律扣減車費1.5圓，餘額由政府支助。
+  - 使用[澳門通](../Page/澳門通.md "wikilink")長者卡及殘疾卡，全程一律免費，餘額由政府支助。
+
+### 服務時間及班距
+
+| **路線服務時間**                           | 平日(星期一至五)        | 例假日(含公眾假期) |
+| ------------------------------------ | ---------------- | ---------- |
+| [城市日前地](../Page/城市日前地.md "wikilink") | 07:00-21:45      |            |
+| **班距**                               | 尖峰12-15分鐘，離峰20分鐘 |            |
+|                                      |                  |            |
+
+### 路線停站
+
+[Macau_bus_route_MT2.jpg](https://zh.wikipedia.org/wiki/File:Macau_bus_route_MT2.jpg "fig:Macau_bus_route_MT2.jpg")
+
+|         |                        |
+| :-----: | :--------------------: |
+| **MT2** | **城市日前地** ↺ **氹仔中央公園** |
+|   編號    |          循環線           |
+|    1    |          M268          |
+|    2    |        M172/10         |
+|    3    |         T330/2         |
+|    4    |         T335/2         |
+|    5    |          T338          |
+|    6    |         T332/1         |
+|    7    |          T412          |
+|    8    |          T352          |
+|    9    |          T327          |
+|   10    |          T337          |
+|   11    |          T334          |
+|   12    |        M172/11         |
+|   13    |          M159          |
+|   14    |          M262          |
 
 ## 參考
 

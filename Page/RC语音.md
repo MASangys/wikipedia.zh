@@ -24,13 +24,6 @@ RC語音由[昆侖萬維](https://zh.wikipedia.org/wiki/昆侖萬維 "wikilink")
 
 <references/>
 
-## 外部連結
-
-### 官方網站
-
-  - [<s>RC語音（臺灣版） </s>](http://www.raidcall.com.tw/)（網站已關閉）
-  - [<s>RaidCall（國際版）</s>](http://www.raidcall.com.ru/) （網站已關閉）
-
 [Category:即時通訊軟體](https://zh.wikipedia.org/wiki/Category:即時通訊軟體 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
 
 1.

@@ -9,5 +9,4 @@
 [Category:2016年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2016年发现的系外行星 "wikilink") [Category:適居帶內的系外行星](https://zh.wikipedia.org/wiki/Category:適居帶內的系外行星 "wikilink") [Category:凌星现象](https://zh.wikipedia.org/wiki/Category:凌星现象 "wikilink") [Category:寶瓶座](https://zh.wikipedia.org/wiki/Category:寶瓶座 "wikilink")
 
 1.
-
 2.

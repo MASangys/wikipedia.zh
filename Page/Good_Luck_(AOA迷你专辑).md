@@ -24,7 +24,39 @@ AOA在2016年5月16日的演唱會上，演唱了〈Good Luck〉和〈10 Seconds
 
 ## 曲目
 
+### 韓國盤
+
 ＊粗體字為主打歌
+
+### 日本盤
+
+}}
+
+**CD**
+
+1.  Good Luck (Japanese ver.)
+2.  10 Seconds (Japanese ver.)
+3.  Really Really (Japanese ver.)
+4.  Good Luck -Karaoke ver.-
+5.  10 Seconds -Instrumental-
+6.  Really Really -Instrumental-
+
+**初回限定盤 Type A DVD**
+
+1.  Good Luck (Japanese ver.) -Music Video-
+2.  Good Luck -Making of Music Video-
+3.  特典映像 -Lifesaving Lessons -
+
+**初回限定盤 Type B DVD**
+
+1.  Good Luck (Japanese ver.) -Music Video-
+2.  Good Luck -Making of Jacket Photos-
+3.  特典映像 - Handmade Accessories -
+
+**初回限定盤 成員ver. CD**
+
+1.  Good Luck (Japanese ver.)
+2.  10 Seconds (Japanese ver.)
 
 ## 排行榜
 
@@ -36,6 +68,35 @@ AOA在2016年5月16日的演唱會上，演唱了〈Good Luck〉和〈10 Seconds
 ## 參考
 
 <references />
+
+## 外部鏈接
+
+  - 日本官方網站介紹頁面
+      - [韓國盤 Week ver.](http://aoa-official.jp/free/disco/?ctg=KoreaAlbum&id=52#d_anchor)
+
+      - [韓國盤 Weekend ver.](http://aoa-official.jp/free/disco/?ctg=KoreaAlbum&id=53#d_anchor)
+
+      - [日本初回限定盤 Type A](http://aoa-official.jp/free/disco/?ctg=JapanSingle&id=54#d_anchor)
+
+      - [日本初回限定盤 Type B](http://aoa-official.jp/free/disco/?ctg=JapanSingle&id=55#d_anchor)
+
+      - [日本初回限定盤 Type C](http://aoa-official.jp/free/disco/?ctg=JapanSingle&id=56#d_anchor)
+
+      - [日本通常盤](http://aoa-official.jp/free/disco/?ctg=JapanSingle&id=57#d_anchor)
+
+      - [初回限定盤 雪炫ver.](http://aoa-official.jp/free/disco/?ctg=JapanSingle&id=58#d_anchor)
+
+      - [初回限定盤 草娥ver.](http://aoa-official.jp/free/disco/?ctg=JapanSingle&id=59#d_anchor)
+
+      - [初回限定盤 惠晶ver.](http://aoa-official.jp/free/disco/?ctg=JapanSingle&id=60#d_anchor)
+
+      - [初回限定盤 澯美ver.](http://aoa-official.jp/free/disco/?ctg=JapanSingle&id=61#d_anchor)
+
+      - [初回限定盤 酉奈ver.](http://aoa-official.jp/free/disco/?ctg=JapanSingle&id=62#d_anchor)
+
+      - [初回限定盤 珉娥ver.](http://aoa-official.jp/free/disco/?ctg=JapanSingle&id=63#d_anchor)
+
+      - [初回限定盤 智珉ver.](http://aoa-official.jp/free/disco/?ctg=JapanSingle&id=64#d_anchor)
 
 [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2016年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon數位下載週榜冠軍作品 "wikilink")
 

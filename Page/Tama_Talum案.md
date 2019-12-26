@@ -22,7 +22,7 @@
 
 ## 外部鏈結
 
-  - [原住民族狩獵權：布農族人Talum(王光祿)案件判決摘要– TIPSLAW](http://tipslaw.dscloud.me/wordpress/權利議題/國內權利議題/原住民族狩獵權：布農族人talum王光祿案件判決摘要/)
+  - [原住民族狩獵權：布農族人Talum(王光祿)案件判決摘要– TIPSLAW](https://web.archive.org/web/20170510205120/http://tipslaw.dscloud.me/wordpress/%E6%AC%8A%E5%88%A9%E8%AD%B0%E9%A1%8C/%E5%9C%8B%E5%85%A7%E6%AC%8A%E5%88%A9%E8%AD%B0%E9%A1%8C/%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E7%8B%A9%E7%8D%B5%E6%AC%8A%EF%BC%9A%E5%B8%83%E8%BE%B2%E6%97%8F%E4%BA%BAtalum%E7%8E%8B%E5%85%89%E7%A5%BF%E6%A1%88%E4%BB%B6%E5%88%A4%E6%B1%BA%E6%91%98%E8%A6%81/)
   - [部落沒有「獵人」被關，被關的都是我們的哥哥、爸爸和阿公| Mata Taiwan](http://www.matataiwan.com/2015/12/23/indigenous-culture-back-home/)
   - [龍建宇｜我的獵場，你的律法－淺談王光祿捕獵案| 法律白話文運動PLM](http://plainlaw.me/2015/12/11/hunting/)
   - [從獵槍誤傷案談──原住民的狩獵文化– FOLLAW](http://www.follaw.tw/f-comment/f02/11107/)

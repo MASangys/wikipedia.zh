@@ -18,10 +18,7 @@
 [Category:2014年建立的网站](https://zh.wikipedia.org/wiki/Category:2014年建立的网站 "wikilink") [Category:中国网站](https://zh.wikipedia.org/wiki/Category:中国网站 "wikilink") [Category:電子遊戲網站](https://zh.wikipedia.org/wiki/Category:電子遊戲網站 "wikilink") [Category:網路電視頻道](https://zh.wikipedia.org/wiki/Category:網路電視頻道 "wikilink")
 
 1.
-
 2.
 3.
-
 4.  [ImbaTV直播LOL节目引热议 解说海涛发帖回应](http://gameonline.yesky.com/455/46589955.shtml)
-
 5.  [火猫TV被指盗播imbaTV节目 海涛、BBC微博斥其“不厚道”](http://www.yxdown.com/news/201507/209114.html?t)

@@ -35,7 +35,5 @@ Snagit for Chrome的[扩展插件](https://web.archive.org/web/20150205055843/ht
 
 1.
 2.  ["Screen Capture Software Review"](http://screen-capture-software-review.toptenreviews.com/), TopTen Reviews
-
 3.  ["TechSmith SnagIt"](http://reviews.cnet.com/file-conversion/techsmith-snagit/4505-3685_7-8333679.html), [CNET](../Page/CNET.md "wikilink")
-
 4.  ["TechSmith SnagIt 8 Screen Capture Utility for Windows"](http://graphicssoft.about.com/od/screencapture/gr/snagit.htm) , Sue Chastain, [About.com](https://zh.wikipedia.org/wiki/About.com "wikilink")

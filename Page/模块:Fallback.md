@@ -2,8 +2,7 @@ local p = {}
 
 local langlist = require('Module:Fallbacklist')
 
-function p.fblist(lang) -- list the full fallback chain from a language
-to en
+function p.fblist(lang) -- list the full fallback chain from a language to en
 
 `   local fbtable = p.fallbackloop{ lang:lower() }`
 `   table.insert(fbtable, 'default')`
@@ -21,8 +20,7 @@ function _inArray(x, t)
 
 end
 
-function p.fallbackloop(fbtable) --list of fallback languages in string
-format (more convenient than tables)
+function p.fallbackloop(fbtable) --list of fallback languages in string format (more convenient than tables)
 
 `   local changes = false`
 `   for i, j in ipairs(fbtable) do`
@@ -94,8 +92,7 @@ function p.fallbackpage(base, lang, formatting)
 
 end
 
-function p.autotranslate(frame) -- logic for
-[template:Autotranslate](../Page/template:Autotranslate.md "wikilink")
+function p.autotranslate(frame) -- logic for [template:Autotranslate](https://zh.wikipedia.org/wiki/template:Autotranslate "wikilink")
 
 `   local args = frame.args`
 `   if not args.lang or args.lang == '' then`
@@ -118,7 +115,7 @@ function p.autotranslate(frame) -- logic for
 `       page = p.fallbackpage(args.base, args.lang) `
 `   end`
 `   if not page then`
-`       return string.format('`<strong class="error">`no fallback page found for autotranslate (base=`[`%s`](../Page/%s.md "wikilink")`, lang=%s)`</strong>`', args.base, args.lang)`
+`       return string.format('`<strong class="error">`no fallback page found for autotranslate (base=`[`%s`](https://zh.wikipedia.org/wiki/%s "wikilink")`, lang=%s)`</strong>`', args.base, args.lang)`
 `   end`
 
 `       -- repack args in a standard table`
@@ -166,8 +163,7 @@ function p.runTests()
 
 end
 
-function p.showTemplateArguments(frame) -- list all input arguments of
-the template that calls "{{\#invoke:Fallback|showTemplateArguments}}"
+function p.showTemplateArguments(frame) -- list all input arguments of the template that calls "{{\#invoke:Fallback|showTemplateArguments}}"
 
 `   local str = ''`
 `   for name, value in pairs( mw.getCurrentFrame():getParent().args ) do`

@@ -236,7 +236,7 @@
 </tr>
 <tr class="odd">
 <td><p>センパイ。</p></td>
-<td><p>電影《<a href="../Page/告白實行委員會_～戀愛系列～.md" title="wikilink">喜歡上你的那瞬間。~告白實行委員會~</a>》主題曲</p></td>
+<td><p>動畫電影《<a href="../Page/告白實行委員會_～戀愛系列～.md" title="wikilink">喜歡上你的那瞬間。~告白實行委員會~</a>》主題曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -296,18 +296,12 @@
 [Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
 
 1.  『[声優グランプリ](https://zh.wikipedia.org/wiki/声優グランプリ "wikilink")』2015年3月號、[主婦之友社](https://zh.wikipedia.org/wiki/主婦之友社 "wikilink")、2015年3月、31頁。
-
 2.  『B.L.T. VOICE GIRLS』vol.22、[東京ニュース通信社](https://zh.wikipedia.org/wiki/東京ニュース通信社 "wikilink")、2015年4月、37-38頁。
-
 3.
 4.  『[声優グランプリ](https://zh.wikipedia.org/wiki/声優グランプリ "wikilink")』2015年4月号、[主婦之友社](https://zh.wikipedia.org/wiki/主婦之友社 "wikilink")、2015年4月、44-45頁。
-
 5.  [＜アニメジャパン＞松井玲奈、「TrySail」の生歌を絶賛！「アニメにぴったり」 - ゲーム＆アニメ - ニュース - クランクイン！](http://www.crank-in.net/game_animation/news/35971)、2015年5月1日閲覧。
-
 6.
 7.  [TrySailのTRYangle harmony 第53回 アーカイブ配信](http://www.nicovideo.jp/watch/so25311055)、2015年4月30日閲覽。
-
 8.
 9.  [新レーベル『SACRA MUSIC』発足！ | プレスリリース | Sony Music Group Company Site](https://www.sme.co.jp/s/SME/pressrelease/detail/NEWS00366?ima=1257)
-
 10.

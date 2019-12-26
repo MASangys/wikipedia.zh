@@ -1,21 +1,8 @@
-《**O\! R U L8,
-2?**》是[韓國](../Page/韓國.md "wikilink")[男子團體](../Page/男子團體.md "wikilink")[防彈少年團的第一張韓語迷你專輯](../Page/防彈少年團.md "wikilink")，為「學校三部曲」系列專輯的第二部曲，談述青少年們的幸福。2013年9月11日由[Big
-Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](../Page/LOEN娛樂.md "wikilink")，主打歌為〈N.O〉，後續曲為〈진격의
-방탄（進擊的防彈）〉。
+《**O\! R U L8, 2?**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[防彈少年團](../Page/防彈少年團.md "wikilink")的第一張韓語迷你專輯，為「學校三部曲」系列專輯的第二部曲，談述青少年們的幸福。2013年9月11日由[Big Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，主打歌為〈N.O〉，後續曲為〈진격의 방탄（進擊的防彈）〉。
 
 ## 簡介
 
-8月28日，防彈少年團官方網站放上倒數計時，以及[Comeback
-trailer](https://www.youtube.com/watch?v=fglrRHHSO7A)，預告畫面最後寫道「OH\! ARE
-YOU LATE, TOO?」。30日，公開全員穿上白色服裝的回歸概念照。\[1\]9月2日，公開《O\! R U L8,
-2?》曲目表。\[2\]4日，公開[《O\! R U L8, 2?》Concept
-Trailer](https://www.youtube.com/watch?v=DHAk3T_gqBQ)。6日，公開主打歌[〈N.O〉MV第一支預告](https://www.youtube.com/watch?v=R3017eEgykw)，展現反抗鐵血軍式教育，一觸即發的場面。\[3\]9日，公開[《O\!
-R U
-L8, 2?》專輯Preview](https://www.youtube.com/watch?v=BfVt5jRGWCo)\[4\]。10日，公開[〈N.O〉MV第二支預告](https://www.youtube.com/watch?v=GYDncRcwdlE)。\[5\]12日，公開[主打歌〈N.O〉MV](https://www.youtube.com/watch?v=r5GaAEHvHj0)並且發行首張迷你專輯《O\!
-R U L8, 2?》\[6\]，專輯傳達出「不要活在別人給予的框架裡，必須自己找尋自己的幸福」的意念。團員Rap
-Monster、SUGA、j-hope幾乎參與每首收錄曲的創作。收錄曲〈커피(Coffee)〉是將韓國靈魂樂團Urban
-Zakapa歌曲〈커피를 마시고(喝著咖啡)〉重新演繹的作品。Urban
-Zakapa團員權順日在推特稱讚：「防彈少年團的〈커피(Coffee)〉就如同喝著咖啡一樣別有一番風味」，為防彈少年團加油打氣。
+8月28日，防彈少年團官方網站放上倒數計時，以及[Comeback trailer](https://www.youtube.com/watch?v=fglrRHHSO7A)，預告畫面最後寫道「OH\! ARE YOU LATE, TOO?」。30日，公開全員穿上白色服裝的回歸概念照。\[1\]9月2日，公開《O\! R U L8, 2?》曲目表。\[2\]4日，公開[《O\! R U L8, 2?》Concept Trailer](https://www.youtube.com/watch?v=DHAk3T_gqBQ)。6日，公開主打歌[〈N.O〉MV第一支預告](https://www.youtube.com/watch?v=R3017eEgykw)，展現反抗鐵血軍式教育，一觸即發的場面。\[3\]9日，公開[《O\! R U L8, 2?》專輯Preview](https://www.youtube.com/watch?v=BfVt5jRGWCo)\[4\]。10日，公開[〈N.O〉MV第二支預告](https://www.youtube.com/watch?v=GYDncRcwdlE)。\[5\]12日，公開[主打歌〈N.O〉MV](https://www.youtube.com/watch?v=r5GaAEHvHj0)並且發行首張迷你專輯《O\! R U L8, 2?》\[6\]，專輯傳達出「不要活在別人給予的框架裡，必須自己找尋自己的幸福」的意念。團員Rap Monster、SUGA、j-hope幾乎參與每首收錄曲的創作。收錄曲〈커피(Coffee)〉是將韓國靈魂樂團Urban Zakapa歌曲〈커피를 마시고(喝著咖啡)〉重新演繹的作品。Urban Zakapa團員權順日在推特稱讚：「防彈少年團的〈커피(Coffee)〉就如同喝著咖啡一樣別有一番風味」，為防彈少年團加油打氣。
 
 11月6日，以後續曲〈진격의 방탄（進擊的防彈）〉回歸音樂節目舞台。
 
@@ -37,7 +24,7 @@ Zakapa團員權順日在推特稱讚：「防彈少年團的〈커피(Coffee)〉
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2013年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2013年9月8日－9月14日</p></td>
 <td><p>#92</p></td>
@@ -141,16 +128,14 @@ Zakapa團員權順日在推特稱讚：「防彈少年團的〈커피(Coffee)〉
 <td><p>2013年9月11日</p></td>
 <td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a>、<a href="../Page/CD.md" title="wikilink">CD</a></p></td>
 <td><p><a href="../Page/Big_Hit娛樂.md" title="wikilink">Big Hit娛樂</a><br />
-<a href="../Page/LOEN娛樂.md" title="wikilink">LOEN娛樂</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/LOEN娛樂" title="wikilink">LOEN娛樂</a></p></td>
 </tr>
 </tbody>
 </table>
 
 ## 參考資料
 
-[Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:防彈少年團音樂專輯](https://zh.wikipedia.org/wiki/Category:防彈少年團音樂專輯 "wikilink")
+[Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:防彈少年團音樂專輯](https://zh.wikipedia.org/wiki/Category:防彈少年團音樂專輯 "wikilink")
 
 1.
 2.

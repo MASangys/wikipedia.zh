@@ -36,6 +36,6 @@
   - [官方Facebook](https://www.facebook.com/AhBoysToMen)
   - [官方Youtube](https://www.youtube.com/user/AhBOYStoMEN)
 
-[Category:軍隊背景作品](https://zh.wikipedia.org/wiki/Category:軍隊背景作品 "wikilink") [Category:2014年電影](https://zh.wikipedia.org/wiki/Category:2014年電影 "wikilink") [Category:英语電影](https://zh.wikipedia.org/wiki/Category:英语電影 "wikilink") [Category:华语電影](https://zh.wikipedia.org/wiki/Category:华语電影 "wikilink") [Category:新加坡電影作品](https://zh.wikipedia.org/wiki/Category:新加坡電影作品 "wikilink") [Category:新加坡喜剧片](https://zh.wikipedia.org/wiki/Category:新加坡喜剧片 "wikilink") [Category:续集電影](https://zh.wikipedia.org/wiki/Category:续集電影 "wikilink") [Category:2010年代喜劇劇情片](https://zh.wikipedia.org/wiki/Category:2010年代喜劇劇情片 "wikilink")
+[Category:軍隊背景作品](https://zh.wikipedia.org/wiki/Category:軍隊背景作品 "wikilink") [Category:2014年電影](https://zh.wikipedia.org/wiki/Category:2014年電影 "wikilink") [Category:英语電影](https://zh.wikipedia.org/wiki/Category:英语電影 "wikilink") [Category:华语電影](https://zh.wikipedia.org/wiki/Category:华语電影 "wikilink") [Category:新加坡電影作品](https://zh.wikipedia.org/wiki/Category:新加坡電影作品 "wikilink") [Category:新加坡喜剧片](https://zh.wikipedia.org/wiki/Category:新加坡喜剧片 "wikilink") [Category:续集電影](https://zh.wikipedia.org/wiki/Category:续集電影 "wikilink") [Category:2010年代喜劇劇情片](https://zh.wikipedia.org/wiki/Category:2010年代喜劇劇情片 "wikilink") [Category:閩南語電影](https://zh.wikipedia.org/wiki/Category:閩南語電影 "wikilink") [Category:粵語電影](https://zh.wikipedia.org/wiki/Category:粵語電影 "wikilink")
 
 1.

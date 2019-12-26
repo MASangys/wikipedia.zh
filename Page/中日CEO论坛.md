@@ -58,18 +58,12 @@
 [Category:非营利组织](https://zh.wikipedia.org/wiki/Category:非营利组织 "wikilink") [Category:中華人民共和國經濟](https://zh.wikipedia.org/wiki/Category:中華人民共和國經濟 "wikilink") [Category:中日关系](https://zh.wikipedia.org/wiki/Category:中日关系 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
 7.
-
 8.
-
 9.
-
 10.

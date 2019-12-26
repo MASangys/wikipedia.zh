@@ -218,27 +218,27 @@ ISBN 978-4-06-358801-9[2]</p></td>
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2014年2月21日</p></td>
-<td><p>ISBN 978-4-06-3872972</p></td>
+<td><p>ISBN 978-4-06-387297-2</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>2014年7月23日</p></td>
-<td><p>ISBN 978-4-06-3883558</p></td>
+<td><p>ISBN 978-4-06-388355-8</p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
 <td><p>2014年12月22日</p></td>
-<td><p>ISBN 978-4-06-3884111</p></td>
+<td><p>ISBN 978-4-06-388411-1</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>2015年4月23日</p></td>
-<td><p>ISBN 978-4-06-3885026</p></td>
+<td><p>ISBN 978-4-06-388502-6</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
 <td><p>2015年9月23日</p></td>
-<td><p>ISBN 978-4-06-3885026</p></td>
+<td><p>ISBN 978-4-06-388502-6</p></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
@@ -354,7 +354,7 @@ ISBN 978-4-06-511602-9[6]</p></td>
   -
 
       -
-        作詞、作曲：[松任谷由實](../Page/松任谷由實.md "wikilink")，編曲：Saku，主唱：[瀧川亞里沙\[編輯](https://zh.wikipedia.org/wiki/瀧川亞里沙[編輯 "wikilink")
+        作詞、作曲：[松任谷由實](../Page/松任谷由實.md "wikilink")，編曲：Saku，主唱：[瀧川亞里沙](https://zh.wikipedia.org/wiki/瀧川亞里沙 "wikilink")
 
 ### 各話列表
 
@@ -722,20 +722,13 @@ Jeon Hyongiun</p></td>
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:橄欖球題材漫畫](https://zh.wikipedia.org/wiki/Category:橄欖球題材漫畫 "wikilink") [Category:Morning連載作品](https://zh.wikipedia.org/wiki/Category:Morning連載作品 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:神奈川縣背景作品](https://zh.wikipedia.org/wiki/Category:神奈川縣背景作品 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:TMS_Entertainment](https://zh.wikipedia.org/wiki/Category:TMS_Entertainment "wikilink") [Category:球類運動動畫](https://zh.wikipedia.org/wiki/Category:球類運動動畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 
 1.
-
 2.  附廣播劇CD特裝版。
-
 3.
 4.  附小冊子限定版。
-
 5.
 6.  附可以隨意貼上或撕下的彩色便籤紙限定版。
-
 7.
 8.  採香港J2標題、以播放時所顯示的字幕為準。
-
 9.  在第7話下集預告命名為「小孩子玩沙」。
-
 10. 在第22話下集預告命名為「是我的朋友教我的」。
-
 11.

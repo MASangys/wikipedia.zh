@@ -46,19 +46,12 @@ TV-Y包含了適合所有年齡的兒童觀看的節目。TV-Y7節目則適合�
 [Category:媒體內容分級制度](https://zh.wikipedia.org/wiki/Category:媒體內容分級制度 "wikilink") [Category:電視技術](https://zh.wikipedia.org/wiki/Category:電視技術 "wikilink")
 
 1.
-
 2.
-
 3.  Montgomery, Kathryn C. *Generation Digital:politics, commerce, and childhood in the age of the internet.* (2007) The Massachusetts Institute of Technology Press.
-
 4.
-
 5.
-
 6.
-
 7.  [FCC.gov](http://www.fcc.gov/cgb/consumerfacts/vchip.html)
-
 8.
 9.
 10.

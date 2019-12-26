@@ -37,7 +37,7 @@ BLR採用的是可拆卸式彈匣。正因如此，BLR可以裝填[彈頭型子�
 ## 參見
 
   - [溫徹斯特連發步槍](https://zh.wikipedia.org/wiki/溫徹斯特連發步槍 "wikilink")
-  - [溫徹斯特M1895槓桿式步槍](https://zh.wikipedia.org/wiki/溫徹斯特M1895槓桿式步槍 "wikilink")
+  - [溫徹斯特步槍](../Page/溫徹斯特步槍.md "wikilink")
 
 ## 資料來源
 
@@ -57,8 +57,8 @@ BLR採用的是可拆卸式彈匣。正因如此，BLR可以裝填[彈頭型子�
 
   - —Guns & Ammo.com—
 
-      - [Are You Up to Big-Bore Leverguns?](http://www.gunsandammo.com/reviews/are-you-up-to-big-bore-leverguns/)
-      - [The Browning BLR .358 Takedown](http://www.gunsandammo.com/reviews/browning-blr-358-takedown/)
+      - [Are You Up to Big-Bore Leverguns?](https://web.archive.org/web/20150906082535/http://www.gunsandammo.com/reviews/are-you-up-to-big-bore-leverguns/)
+      - [The Browning BLR .358 Takedown](https://web.archive.org/web/20150906032100/http://www.gunsandammo.com/reviews/browning-blr-358-takedown/)
 
   - —Shooting Times.com—
 

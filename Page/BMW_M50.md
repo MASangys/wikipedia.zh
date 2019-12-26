@@ -201,27 +201,17 @@ S50B32是S50B30的改進版本，投產與1996年，在北美以外的市場上�
 [Category:BMW引擎與技術](https://zh.wikipedia.org/wiki/Category:BMW引擎與技術 "wikilink") [Category:直列六缸引擎](https://zh.wikipedia.org/wiki/Category:直列六缸引擎 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
 9.
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.

@@ -23,7 +23,7 @@
   -
   - [特朗普幕僚称中朝是激进伊斯兰主义盟友](http://cn.nytimes.com/world/20161201/michael-flynn-trump-adviser-china-north-korea/)
 
-[Category:军事情报](https://zh.wikipedia.org/wiki/Category:军事情报 "wikilink") [Category:銅星勳章獲得者](https://zh.wikipedia.org/wiki/Category:銅星勳章獲得者 "wikilink") [Category:國防部優異服役勳章獲得者](https://zh.wikipedia.org/wiki/Category:國防部優異服役勳章獲得者 "wikilink") [Category:功績勳章獲得者](https://zh.wikipedia.org/wiki/Category:功績勳章獲得者 "wikilink") [Category:美國陸軍中將](https://zh.wikipedia.org/wiki/Category:美國陸軍中將 "wikilink") [Category:羅德島大學校友](https://zh.wikipedia.org/wiki/Category:羅德島大學校友 "wikilink") [Category:弗吉尼亚州民主党人](https://zh.wikipedia.org/wiki/Category:弗吉尼亚州民主党人 "wikilink") [Category:美国国家安全顾问](https://zh.wikipedia.org/wiki/Category:美国国家安全顾问 "wikilink")
+[Category:军事情报](https://zh.wikipedia.org/wiki/Category:军事情报 "wikilink") [Category:美國情報機構首長](https://zh.wikipedia.org/wiki/Category:美國情報機構首長 "wikilink") [Category:銅星勳章獲得者](https://zh.wikipedia.org/wiki/Category:銅星勳章獲得者 "wikilink") [Category:國防部優異服役勳章獲得者](https://zh.wikipedia.org/wiki/Category:國防部優異服役勳章獲得者 "wikilink") [Category:功績勳章獲得者](https://zh.wikipedia.org/wiki/Category:功績勳章獲得者 "wikilink") [Category:美國陸軍中將](https://zh.wikipedia.org/wiki/Category:美國陸軍中將 "wikilink") [Category:羅德島大學校友](https://zh.wikipedia.org/wiki/Category:羅德島大學校友 "wikilink") [Category:弗吉尼亚州民主党人](https://zh.wikipedia.org/wiki/Category:弗吉尼亚州民主党人 "wikilink") [Category:美国国家安全顾问](https://zh.wikipedia.org/wiki/Category:美国国家安全顾问 "wikilink")
 
 1.
 2.

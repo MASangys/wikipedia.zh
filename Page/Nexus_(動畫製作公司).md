@@ -27,21 +27,27 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2015年</p></td>
 <td><p><a href="../Page/落第騎士英雄譚.md" title="wikilink">落第騎士英雄譚</a></p></td>
-<td><p>電視動畫</p></td>
 <td><p>與<a href="../Page/SILVER_LINK..md" title="wikilink">SILVER LINK.共同製作</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/漫畫女孩" title="wikilink">漫畫女孩</a></p></td>
-<td><p>電視動畫</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/满月之战" title="wikilink">满月之战</a></p></td>
-<td><p>電視動畫</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年</p></td>
+<td><p><a href="../Page/達爾文遊戲.md" title="wikilink">達爾文遊戲</a></p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

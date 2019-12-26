@@ -31,7 +31,7 @@
 
 **2019年**
 
-  - [Rifle is Beautiful](https://zh.wikipedia.org/wiki/Rifle_is_Beautiful "wikilink")（**小倉光**\[5\]）
+  - [美妙射擊部](https://zh.wikipedia.org/wiki/美妙射擊部 "wikilink")（**小倉光**\[5\]）
 
 ### 遊戲
 
@@ -182,6 +182,13 @@
 <td><p><strong>SOL</strong></p></td>
 <td><p>COZX-1324/5</p></td>
 <td><p>COCX-39951</p></td>
+</tr>
+<tr class="even">
+<td><p>4rd</p></td>
+<td><p>2019年11月13日</p></td>
+<td><p><strong></strong></p></td>
+<td><p>COZX-1593/4</p></td>
+<td><p>COCX-40992</p></td>
 </tr>
 </tbody>
 </table>

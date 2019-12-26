@@ -33,7 +33,7 @@ Image:Suzuki Fronte Coupe 001.JPG Image:Suzuki LC10W Engine 001.JPG|LC10W型引�
 
   - [GAZOO.com：スズキ フロンテ・クーペ](https://web.archive.org/web/20160308223355/http://gazoo.com/car/newcar/vehicle_info/Pages/detail.aspx?MAKER_CD=I&CARTYPE_CD=A08&GENERATION=-1&CARNAME=%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%83%BB%E3%82%AF%E3%83%BC%E3%83%9A)
 
-  - [【車屋四六】第449話 フロンテクーペは美少女だった](http://www.car-l.net/media/2016/05/22/1448)
+  - [【車屋四六】第449話 フロンテクーペは美少女だった](https://web.archive.org/web/20160809084043/http://www.car-l.net/media/2016/05/22/1448)
 
 [Category:鈴木車輛](https://zh.wikipedia.org/wiki/Category:鈴木車輛 "wikilink") [Category:輕型車](https://zh.wikipedia.org/wiki/Category:輕型車 "wikilink") [Category:轎車](https://zh.wikipedia.org/wiki/Category:轎車 "wikilink") [Category:雙門轎跑車](https://zh.wikipedia.org/wiki/Category:雙門轎跑車 "wikilink") [Category:後置引擎](https://zh.wikipedia.org/wiki/Category:後置引擎 "wikilink") [Category:後輪驅動](https://zh.wikipedia.org/wiki/Category:後輪驅動 "wikilink")
 

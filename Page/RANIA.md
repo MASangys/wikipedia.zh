@@ -82,7 +82,7 @@ RANIA為原[Baby V.O.X製作人培養四年的組合](../Page/Baby_V.O.X.md "wik
 
 8月18日，DR Music公布RANIA將會在9月4日至9月5日到[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")參與演出\[46\]，但當時官方尚未公布志恩、Zi.U、Ttabo的退出。
 
-8月28日，RANIA透過粉絲站的YouTube帳戶上傳了有關[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")演出和加入三位新成員的影片，三位新成員包括瑛欣、丞泫和Larissa，當中瑛欣為前[Stellar](../Page/Stellar.md "wikilink")成員，Larissa為日本和巴西混血兒，RANIA重回五人體制活動。同時，官方立場也證實了志恩、Zi.U和Ttabo已正式退出\[47\]。
+8月28日，RANIA透過粉絲站的YouTube帳戶上傳了有關[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")演出和加入三位新成員的影片，三位新成員包括瑛欣、丞泫和Larissa，當中瑛欣為前[Stellar](../Page/Stellar.md "wikilink")成員，丞泫為前[Big Hit娛樂練習生](../Page/Big_Hit娛樂.md "wikilink")，Larissa為日本和巴西混血兒，RANIA重回五人體制活動。同時，官方立場也證實了志恩、Zi.U和Ttabo已正式退出\[47\]。
 
 ## 粉絲團
 
@@ -350,12 +350,14 @@ PlotData =
 
   - RANIA參加的其他演唱會
 
-|             |                                               |                          |
-| ----------- | --------------------------------------------- | ------------------------ |
-| **日期**      | **演唱會站次**                                     | **舉行地點**                 |
-| 2011年12月30日 | 2012 Countdown party                          | 雙威金字塔購物中心                |
-| 2012年11月17日 | Music Bank in Chile                           | Quinta Vergara           |
-| 2018年7月1日   | RANIA & YOU PROMO TOUR PARTY IN MALAYSIA 2018 | HELP University Malaysia |
+|             |                                               |                             |
+| ----------- | --------------------------------------------- | --------------------------- |
+| **日期**      | **演唱會站次**                                     | **舉行地點**                    |
+| 2011年12月30日 | 2012 Countdown party                          | 雙威金字塔購物中心                   |
+| 2012年11月17日 | Music Bank in Chile                           | Quinta Vergara              |
+| 2018年7月1日   | RANIA & YOU PROMO TOUR PARTY IN MALAYSIA 2018 | HELP University Malaysia    |
+| 2019年9月4日   | K-POP CONCERT in ROMANIA                      | Sala Polivalenta, Bucharest |
+| 2019年9月5日   |                                               |                             |
 
 ## 參考資料
 
@@ -390,7 +392,7 @@ PlotData =
 4.
 5.
 6.
-7.  [DR Music 否認 Joy 退隊](http://kpopn.com/2012/06/17/128676/)
+7.
 8.  [Has Joy Left RaNia?](https://wowkpop.wordpress.com/2012/04/04/has-joy-left-rania/)
 9.
 10. [1](http://www.allkpop.com/2012/09/yang-hyun-suk-revealed-to-be-the-producer-behind-ranias-comeback)

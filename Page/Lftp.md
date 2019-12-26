@@ -20,7 +20,7 @@ lftp 最初是 *ftpclass package *的一部份。渐渐地，它成为一个拥
 
   - [官方网站](http://lftp.yar.ru/)
   - [lftp 手冊](http://lftp.yar.ru/lftp-man.html)
-  - [lftp 文件及 wiki](http://linux.overshoot.tv/wiki/networking/lftp) 包含教学及进阶的技巧。
+  - [lftp 文件及 wiki](https://web.archive.org/web/20160329232246/http://linux.overshoot.tv/wiki/networking/lftp) 包含教学及进阶的技巧。
   - [lftp-vi: 让 lftp 具有编辑远程文件能力的外挂。](https://web.archive.org/web/20110719085315/http://michael.stapelberg.de/lftp_vi/)
   - [LftpFS](http://lftpfs.sf.net/) 基由 [FUSE](../Page/FUSE.md "wikilink") 及 lftp 的文件管理系统。
   - [lftp-gtk](https://web.archive.org/web/20120324125612/http://www.lftp-gtk.com/) lftp 的 [GUI](https://zh.wikipedia.org/wiki/GUI "wikilink") 。

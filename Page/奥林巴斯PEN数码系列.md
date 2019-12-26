@@ -68,18 +68,11 @@ Olympus E-P2 with Panasonic Lumix G 20mm F1.7 ASPH Pancake Lens.jpg|装配电子
 [Category:電子式取景可換鏡頭相機](https://zh.wikipedia.org/wiki/Category:電子式取景可換鏡頭相機 "wikilink") [Category:奧林巴斯数码单反相机](https://zh.wikipedia.org/wiki/Category:奧林巴斯数码单反相机 "wikilink")
 
 1.  [ペンシリーズ](http://www.olympus.co.jp/jp/corc/history/camera/pen.cfm) - Olympus.co.jp
-
 2.  [オリンパス、同社初のマイクロフォーサーズ機「E-P1」](http://dc.watch.impress.co.jp/docs/news/20090616_294159.html) - DC Watch Impress
-
 3.  [PEN传承之作，荣耀为您](http://olympus-imaging.cn/product/dslr/ep5/index.html) - 奥林巴斯（中国）
-
 4.
 5.  [内置5轴机身防抖系统](http://olympus-imaging.cn/product/dslr/ep5/feature4.html) - 奥林巴斯（中国）
-
 6.  [《说一说奥林巴斯AP接口》](http://www.jianshu.com/p/40f29ed6369b)
-
 7.  [奥林巴斯PENPAL PP-1通信单元](http://olympus-imaging.cn/product/dslr/accessory/others/pp1.html) - 奥林巴斯（中国）
-
 8.  [SEMA-1麦克风套装1](http://olympus-imaging.cn/product/dslr/accessory/others/sema1.html) - 奥林巴斯（中国）
-
 9.  [为真正的照相机爱好者设计杰作: PEN-F](http://olympus-imaging.cn/product/dslr/penf/index.html) - 奥林巴斯（中国）

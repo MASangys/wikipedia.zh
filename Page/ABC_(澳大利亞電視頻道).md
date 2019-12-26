@@ -5,20 +5,13 @@
 ## 外部連結
 
   - [Official Site](http://www.abc.net.au/tv/channels/abc.htm)
-
   - [Program Websites by Subject of ABC-TV](https://web.archive.org/web/20020601130921/http://www.abc.net.au/tv/guide/subject.htm)
-
   - [ABC-TV's Program Websites – Complete List](http://www.abc.net.au/tv/programs/az.htm)
-
   - [ABC-TV Online website in 1997](https://web.archive.org/web/19970613204649/http://www.abc.net.au/)
-
   - [ABC-TV Online website in 1999](https://web.archive.org/web/20011003192535/http://www.abc.net.au/tv/defaultIE4.htm)
-
   - [ABC-TV Online website in 2000](http://web.archive.org/web/20000229191052/http://www.abc.net.au/tv/defaultIE4.htm)
-
   -
   - [Corporate Site](http://www.abc.net.au/corp/)
-
   - [Australian Broadcasting Corporation](http://www.abc.net.au)
 
 [Category:澳大利亞廣播公司](https://zh.wikipedia.org/wiki/Category:澳大利亞廣播公司 "wikilink") [Category:澳大利亞電視](https://zh.wikipedia.org/wiki/Category:澳大利亞電視 "wikilink")

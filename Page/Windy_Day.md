@@ -47,8 +47,8 @@
 
 [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:Oh_My_Girl音樂專輯](https://zh.wikipedia.org/wiki/Category:Oh_My_Girl音樂專輯 "wikilink")
 
-1.  [5/26 發行改版專輯](http://kpopn.niusnews.com/=K1ycyby7)
-2.  [《WINDY DAY》預告](http://kpopn.niusnews.com/=K25y67y0)
-3.  [改版專輯第二波概念照](http://kpopn.niusnews.com/=K2s5u973)
-4.  [改版專輯個人概念照](http://kpopn.niusnews.com/=K2pufuu8)
-5.  [《WINDY DAY》MV](http://kpopn.niusnews.com/=K25ye5d0)
+1.
+2.
+3.
+4.
+5.

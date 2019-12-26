@@ -68,38 +68,22 @@ Hp prime apps.jpg|系统功能菜单 Hp prime cas.jpg|CAS系统界面
 [Category:惠普计算器](https://zh.wikipedia.org/wiki/Category:惠普计算器 "wikilink") [Category:图形计算器](https://zh.wikipedia.org/wiki/Category:图形计算器 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
-
 14.
-
 15.
 16. <http://www.educalc.net/2336510.page>
-
 17.
-
 18. <http://hp-prime.de/files/composite_file/file/169-hp-prime-support-notice-2015-04-27.pdf>
-
 19.
-
 20.

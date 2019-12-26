@@ -1,8 +1,8 @@
+[WikEd_screenshot.png](https://zh.wikipedia.org/wiki/File:WikEd_screenshot.png "fig:WikEd_screenshot.png")
+
 这是**[wikEd](https://zh.wikipedia.org/wiki/:en:User:Cacycle/wikEd "wikilink")**的使用說明页面。wikEd是运行于浏览器內的全功能文本编辑器，可强化维基百科和其他MediaWiki编辑页面的文字处理功能。
 
 如果您会英文，请在[wikEd讨论页报告错误或请求功能](https://zh.wikipedia.org/wiki/:en:User_talk:Cacycle/wikEd "wikilink")。
-
-[WikEd_screenshot.png](https://zh.wikipedia.org/wiki/File:WikEd_screenshot.png "fig:WikEd_screenshot.png")
 
 ## 快速上手
 

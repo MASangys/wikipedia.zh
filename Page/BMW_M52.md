@@ -223,20 +223,12 @@ S52由M52B北美基礎版進行開發。和M52一樣採用了鋁製機頭和鑄�
 [Category:BMW引擎與技術](https://zh.wikipedia.org/wiki/Category:BMW引擎與技術 "wikilink") [Category:直列六缸引擎](https://zh.wikipedia.org/wiki/Category:直列六缸引擎 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.

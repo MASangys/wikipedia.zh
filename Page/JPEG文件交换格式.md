@@ -155,14 +155,9 @@ JFIF已标准化为ISO/IEC 10918-5:2013，\[5\][ITU-T](../Page/國際電信聯�
 [Category:图形文件格式](https://zh.wikipedia.org/wiki/Category:图形文件格式 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.

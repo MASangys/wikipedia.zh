@@ -1,4 +1,4 @@
-**黃恩妃**\[1\]（，，），藝名**SinB**（），[韓國女](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source Music旗下女子組合](../Page/Source_Music.md "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的成員，在隊內擔任主領舞、副唱、形象、ACE擔當。曾與隊友[Eunha](../Page/Eunha.md "wikilink")於[Big Hit娛樂擔任練習生](../Page/Big_Hit娛樂.md "wikilink")，擁有多年的練習生經歷。
+**黃恩妃**\[1\]（，，），藝名**SinB**（），[韓國女](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source Music旗下女子組合](../Page/Source_Music.md "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的成員，在隊內擔任主領舞、副唱、形象、ACE擔當。曾於[Big Hit娛樂擔任練習生](../Page/Big_Hit娛樂.md "wikilink")，擁有多年的練習生經歷。
 
 ## 经历
 

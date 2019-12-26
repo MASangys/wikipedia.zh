@@ -41,19 +41,12 @@ Mosh使用了State-Synchronization Protocol（SSP）\[6\]，這使得Mosh支援�
 [Category:应用层协议](https://zh.wikipedia.org/wiki/Category:应用层协议 "wikilink") [Category:Unix软件](https://zh.wikipedia.org/wiki/Category:Unix软件 "wikilink")
 
 1.
-
 2.
-
 3.  }}
-
 4.
-
 5.  [Mosh: An Interactive Remote Shell for Mobile Clients](https://www.usenix.org/conference/atc12/technical-sessions/presentation/winstein)
-
 6.  [MIT unveils a new Internet protocol for mobile clients](https://www.helpnetsecurity.com/2012/07/09/mit-unveils-a-new-internet-protocol-for-mobile-clients/)
-
 7.  [Mosh: An Interactive Remote Shell for Mobile Clients](https://mosh.mit.edu/mosh-paper-draft.pdf)
-
 8.
 9.
 10. [CS244 '13: MOSH](https://reproducingnetworkresearch.wordpress.com/2013/03/14/mosh-cs244-13/)

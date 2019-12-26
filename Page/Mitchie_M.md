@@ -127,22 +127,15 @@
 [Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink") [Category:日本音樂家](https://zh.wikipedia.org/wiki/Category:日本音樂家 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
 10.
 11.
-
 12.
 13.

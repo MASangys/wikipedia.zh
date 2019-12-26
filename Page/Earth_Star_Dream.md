@@ -314,43 +314,23 @@
 [Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12. 田中紀奈子（中島由貴）、佐藤胡桃（小出光）、鈴木綾子（新井田泉）、西新井大師西（谷尻麻理亞）
-
 13.
-
 14. 新井田泉暫停活動。
-
 15.
-
 16.
-
 17.
-
 18.
-
 19. 中島由貴、齋藤愛永、谷尻麻理亞、村北沙織
-
 20. 高尾奏音、小出光、愛原亞里沙、新井田泉、曾我部英理
-
 21.

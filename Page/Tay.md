@@ -11,12 +11,8 @@
 [Category:審查制度](https://zh.wikipedia.org/wiki/Category:審查制度 "wikilink") [Category:聊天機器人](https://zh.wikipedia.org/wiki/Category:聊天機器人 "wikilink") [Category:微软软件](https://zh.wikipedia.org/wiki/Category:微软软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.

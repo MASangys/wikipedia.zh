@@ -311,7 +311,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>9th</strong></p></td>
-<td><p>第八張單曲《Everybody Ready?》</p>
+<td><p>第九張單曲《Everybody Ready?》</p>
 <ul>
 <li>發行日期：2019年4月19日</li>
 <li>唱片公司：Plan A娛樂</li>

@@ -244,40 +244,27 @@
 
   - [DISCOGRAPHY](https://web.archive.org/web/20140815150638/http://www.babymetal.jp/discography/) - BABYMETAL 官方網站
   - [DISCOGRAPHY](http://www.toysfactory.co.jp/artist/babymetal/disco) - TOY'S FACTORY 官方網站
-  - [「LIVE AT BUDOKAN 〜RED NIGHT & BLACK NIGHT APOCALYPSE〜」發行DEATH！！](http://www.babymetal.jp/news/0/14577/) - 新聞 - BABYMETAL 官方網站
+  - [「LIVE AT BUDOKAN 〜RED NIGHT & BLACK NIGHT APOCALYPSE〜」發行DEATH！！](https://web.archive.org/web/20141225190045/http://www.babymetal.jp/news/0/14577/) - 新聞 - BABYMETAL 官方網站
   - [LIVE AT BUDOKAN \~RED NIGHT\~的MusicBrainz音樂資料庫](https://musicbrainz.org/release/918616c4-8ec6-4d97-8db7-3b0292798612)
   - [LIVE AT BUDOKAN \~RED NIGHT\~的Discogs音樂資料庫](https://www.discogs.com/ja/release/7673469)
 
 [Category:TOY'S_FACTORY音樂專輯](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY音樂專輯 "wikilink") [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:現場專輯](https://zh.wikipedia.org/wiki/Category:現場專輯 "wikilink") [Category:BABYMETAL](https://zh.wikipedia.org/wiki/Category:BABYMETAL "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.
 18.

@@ -54,7 +54,7 @@ TEC 12採用標準型滑膛槍管，槍管前端設有戰術[喉缩](https://zh.
 
   - —[The Daily Caller—Gun Review: The TriStar Semi-Auto/Pump Tec 12](http://dailycaller.com/2013/12/12/gun-review-the-tristar-semi-autopump-tec-12/)
 
-  - —[Guns.com—Gun Review: Tristar Tec-12 semi-auto/pump shotgun (VIDEO)](http://www.guns.com/review/2013/11/13/gun-review-tristar-tec-12-semiautopump-video/)
+  - —[Guns.com—Gun Review: Tristar Tec-12 semi-auto/pump shotgun (VIDEO)](https://web.archive.org/web/20150630060528/http://www.guns.com/review/2013/11/13/gun-review-tristar-tec-12-semiautopump-video/)
 
   - —[The Firearm Blog.com—Tristar Brings New Auto/Pump Shotgun Option With Tec 12](http://www.thefirearmblog.com/blog/2013/03/07/tristar-brings-new-autopump-shotgun-option-with-tec-12/)
 

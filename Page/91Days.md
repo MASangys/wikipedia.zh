@@ -316,25 +316,14 @@ Kim Yi Sung、飯飼一幸<br />
 [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:報復題材作品](https://zh.wikipedia.org/wiki/Category:報復題材作品 "wikilink") [Category:黑道題材動畫](https://zh.wikipedia.org/wiki/Category:黑道題材動畫 "wikilink") [Category:1920年代背景作品](https://zh.wikipedia.org/wiki/Category:1920年代背景作品 "wikilink")
 
 1.
-
 2.  動畫第2集
-
 3.  動畫第7集
-
 4.  動畫第7集
-
 5.  動畫第7集
-
 6.  動畫第6集
-
 7.  動畫第8集
-
 8.  動畫第10集
-
 9.  動畫第8集
-
 10. 動畫第8集
-
 11.
-
 12.

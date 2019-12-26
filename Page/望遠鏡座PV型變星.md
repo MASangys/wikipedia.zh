@@ -138,12 +138,8 @@
 [Category:變星](https://zh.wikipedia.org/wiki/Category:變星 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.  也是[食聯星](https://zh.wikipedia.org/wiki/食雙星 "wikilink")

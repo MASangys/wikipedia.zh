@@ -125,6 +125,7 @@ Nowhere Boys名字來自關於[約翰藍儂成長的電影](https://zh.wikipedia
 |                                                                                                     |
 | Journey To Nowhere                                                                                  |
 | Journey To Nowhere                                                                                  |
+| Journey To Nowhere                                                                                  |
 
 | **各台冠軍歌總數** |
 | ----------- |

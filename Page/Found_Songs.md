@@ -10,7 +10,7 @@
 
 ## 外部連結
 
-  - [Found Songs的官方網站](http://foundsongs.erasedtapes.com)
+  - [Found Songs的官方網站](https://web.archive.org/web/20100414023052/http://foundsongs.erasedtapes.com/)
 
   -
 [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")

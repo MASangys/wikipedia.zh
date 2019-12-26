@@ -74,15 +74,67 @@ Premiere Classe Records是DJ蛇王創立的唱片公司。
 
 ### [葛萊美獎](../Page/葛萊美獎.md "wikilink")
 
-\!Ref |- | [2012](https://zh.wikipedia.org/wiki/54th_Annual_Grammy_Awards "wikilink") | *[Born This Way](https://zh.wikipedia.org/wiki/Born_This_Way_\(album\) "wikilink")* <small>(製作人)</small> | [年度最佳專輯](https://zh.wikipedia.org/wiki/Grammy_Award_for_Album_of_the_Year "wikilink") |  |\[12\] |- | [2015](https://zh.wikipedia.org/wiki/57th_Annual_Grammy_Awards "wikilink") | "[Turn Down for What](https://zh.wikipedia.org/wiki/Turn_Down_for_What "wikilink")" <small>(& [Lil Jon](https://zh.wikipedia.org/wiki/Lil_Jon "wikilink"))</small> | [最佳音樂影片](https://zh.wikipedia.org/wiki/Grammy_Award_for_Best_Music_Video "wikilink") |  |\[13\] |}
+\!Ref |- | 2012 | Born This Way <small>(製作人)</small> | 年度最佳專輯 |  |\[12\] |- | 2015 | Turn Down for What <small>(& [Lil Jon](https://zh.wikipedia.org/wiki/Lil_Jon "wikilink"))</small> | 最佳音樂影片 |  |\[13\] |}
 
 ### [告示牌音樂獎](https://zh.wikipedia.org/wiki/告示牌音樂獎 "wikilink")
 
-\!Ref |- |[2015](https://zh.wikipedia.org/wiki/2015_Billboard_Music_Awards "wikilink") |"[Turn Down for What](https://zh.wikipedia.org/wiki/Turn_Down_for_What "wikilink")" <small>(& [Lil Jon](https://zh.wikipedia.org/wiki/Lil_Jon "wikilink"))</small> |rowspan="3"|最佳電子舞曲獎 | |\[14\] |- |rowspan="3"|[2016](https://zh.wikipedia.org/wiki/2016_Billboard_Music_Awards "wikilink") |"[You Know You Like It](https://zh.wikipedia.org/wiki/You_Know_You_Like_It "wikilink")" <small>(& [AlunaGeorge](https://zh.wikipedia.org/wiki/AlunaGeorge "wikilink"))</small> | |rowspan=3|\[15\] |- |"[Lean On](../Page/Lean_On.md "wikilink")" <small>(& [Major Lazer](https://zh.wikipedia.org/wiki/Major_Lazer "wikilink") & [MØ](../Page/MØ.md "wikilink"))</small> | |- |本人 |最佳電子舞曲藝術家 | |- |rowspan=2|2017 |本人 |最佳電子舞曲藝術家 | |rowspan=2|\[16\] |- |["Let Me Love You"](https://zh.wikipedia.org/wiki/Let_Me_Love_You_\(DJ_Snake_song\) "wikilink") <small>(& [Justin Bieber](https://zh.wikipedia.org/wiki/Justin_Bieber "wikilink"))</small> |最佳電子舞曲歌曲 | |}
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年分</p></td>
+<td><p>獲提名</p></td>
+<td><p>獎項</p></td>
+<td><p>結果</p></td>
+<td><p>Ref</p></td>
+</tr>
+<tr class="even">
+<td><p>2015</p></td>
+<td><p>Turn Down for What <small>(&amp; <a href="https://zh.wikipedia.org/wiki/Lil_Jon" title="wikilink">Lil Jon</a>)</small></p></td>
+<td><p>最佳電子舞曲獎</p></td>
+<td></td>
+<td><p>[14]</p></td>
+</tr>
+<tr class="odd">
+<td><p>2016</p></td>
+<td><p>You Know You Like It<small>(&amp; <a href="https://zh.wikipedia.org/wiki/AlunaGeorge" title="wikilink">AlunaGeorge</a>)</small></p></td>
+<td></td>
+<td><p>[15]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>"<a href="../Page/Lean_On.md" title="wikilink">Lean On</a>" <small>(&amp; <a href="https://zh.wikipedia.org/wiki/Major_Lazer" title="wikilink">Major Lazer</a> &amp; <a href="../Page/MØ.md" title="wikilink">MØ</a>)</small></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>本人</p></td>
+<td><p>最佳電子舞曲藝術家</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017</p></td>
+<td><p>本人</p></td>
+<td><p>最佳電子舞曲藝術家</p></td>
+<td></td>
+<td><p>[16]</p></td>
+</tr>
+<tr class="odd">
+<td><p>Let Me Love You <small>(&amp; <a href="https://zh.wikipedia.org/wiki/Justin_Bieber" title="wikilink">Justin Bieber</a>)</small></p></td>
+<td><p>最佳電子舞曲歌曲</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### [iHeartRadio 音樂獎](https://zh.wikipedia.org/wiki/iHeartRadio_音樂獎 "wikilink")
 
-\!Ref |- |rowspan=2|2017 |本人 |最佳舞曲藝術家 | |rowspan=2|\[17\] |- |["Let Me Love You"](https://zh.wikipedia.org/wiki/Let_Me_Love_You_\(DJ_Snake_song\) "wikilink") <small>(& [Justin Bieber](https://zh.wikipedia.org/wiki/Justin_Bieber "wikilink"))</small> |年度最佳舞曲 | |}
+\!Ref |- |rowspan=2|2017 |本人 |最佳舞曲藝術家 | |rowspan=2|\[17\] |- |Let Me Love You <small>(& [Justin Bieber](https://zh.wikipedia.org/wiki/Justin_Bieber "wikilink"))</small> |年度最佳舞曲 | |}
 
 ### [兒童票選獎](https://zh.wikipedia.org/wiki/兒童票選獎 "wikilink")
 
@@ -90,7 +142,24 @@ Premiere Classe Records是DJ蛇王創立的唱片公司。
 
 ### [MTV音樂錄影帶獎](https://zh.wikipedia.org/wiki/MTV音樂錄影帶獎 "wikilink")
 
-\!Ref |- |rowspan="4"|[2014](https://zh.wikipedia.org/wiki/2014_MTV_Video_Music_Awards "wikilink") |rowspan="4"|"[Turn Down for What](https://zh.wikipedia.org/wiki/Turn_Down_for_What "wikilink")" <small>(with [Lil Jon](https://zh.wikipedia.org/wiki/Lil_Jon "wikilink"))</small> |MTV夜店獎 | |rowspan="4"|\[19\] |- |最佳導演 | |- |最佳視覺效果 | |- |最佳藝術指導 | |-
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年份</p></td>
+<td><p>獲提名</p></td>
+<td><p>獎項</p></td>
+<td><p>結果</p></td>
+<td><p>Ref</p></td>
+</tr>
+<tr class="even">
+<td><p>2014</p></td>
+<td><p>Turn Down for What <small>(&amp; <a href="https://zh.wikipedia.org/wiki/Lil_Jon" title="wikilink">Lil Jon</a>)</small></p></td>
+<td><p>MTV夜店獎</p></td>
+<td></td>
+<td><p>[19]</p></td>
+</tr>
+</tbody>
+</table>
 
 ### [NRJ音樂獎](https://zh.wikipedia.org/wiki/NRJ音樂獎 "wikilink")
 
@@ -98,11 +167,20 @@ Premiere Classe Records是DJ蛇王創立的唱片公司。
 
 ### [青少年票選獎](https://zh.wikipedia.org/wiki/青少年票選獎 "wikilink")
 
-\!Ref |- | rowspan="1" |2014 | rowspan="1" |"[Turn Down for What](https://zh.wikipedia.org/wiki/Turn_Down_for_What "wikilink")" <small>(& [Lil Jon](https://zh.wikipedia.org/wiki/Lil_Jon "wikilink"))</small> |節奏藍調與嘻哈樂 | |\[21\] |}
+\!Ref |- | 2014 | rowspan="1" |Turn Down for What<small>(& [Lil Jon](https://zh.wikipedia.org/wiki/Lil_Jon "wikilink"))<small> |節奏藍調與嘻哈樂 | |\[21\] |}
 
 ### [電子音樂大獎](https://zh.wikipedia.org/wiki/電子音樂大獎 "wikilink")
 
-\! Ref |- |2017 | "[Let Me Love You](https://zh.wikipedia.org/wiki/Let_Me_Love_You_\(DJ_Snake_song\) "wikilink")" | 年度最佳單曲 |  |\[22\] |- |}
+\! Ref |- |2017 |Let Me Love You | 年度最佳單曲 |  |\[22\] |- |}
+
+### DJ雜誌 百大DJ排行榜
+
+  - 2014年排行榜:第65名 **(新排名)**
+  - 2015年排行榜:第32名 **(上升33名)**
+  - 2016年排行榜:第22名 **(上升10名)**
+  - 2017年排行榜:第23名 (下降1名)
+  - 2018年排行榜:第24名 (下降1名)
+  - 2019年排行榜:第16名 **(上升8名)**
 
 ## 参考资料
 

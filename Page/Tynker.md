@@ -12,7 +12,7 @@ Tynker已在2014年7月在iPad及Android上發行\[5\]。專案可以在任一�
 
 ## 參考資料
 
-[Category:視覺化程式設計語言](https://zh.wikipedia.org/wiki/Category:視覺化程式設計語言 "wikilink") [Category:教育用程式設計語言](https://zh.wikipedia.org/wiki/Category:教育用程式設計語言 "wikilink") [Category:兒童網站](https://zh.wikipedia.org/wiki/Category:兒童網站 "wikilink") [Category:遊戲製作軟件](https://zh.wikipedia.org/wiki/Category:遊戲製作軟件 "wikilink") [Category:教师集成开发环境](https://zh.wikipedia.org/wiki/Category:教师集成开发环境 "wikilink") [Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink")
+[Category:視覺化程式設計語言](https://zh.wikipedia.org/wiki/Category:視覺化程式設計語言 "wikilink") [Category:教育用程式設計語言](https://zh.wikipedia.org/wiki/Category:教育用程式設計語言 "wikilink") [Category:兒童網站](https://zh.wikipedia.org/wiki/Category:兒童網站 "wikilink") [Category:電子遊戲開發軟件](https://zh.wikipedia.org/wiki/Category:電子遊戲開發軟件 "wikilink") [Category:教师集成开发环境](https://zh.wikipedia.org/wiki/Category:教师集成开发环境 "wikilink") [Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink")
 
 1.
 2.

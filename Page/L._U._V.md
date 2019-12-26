@@ -37,10 +37,10 @@
 
 1.  [K-POPボーイズグループが週間シングルチャートTOP2を占拠！ 注目のAKB48はその強さを見せつけ堂々3位ランクイン](http://www.billboard-japan.com/d_news/detail/39004/2) Billboard Japan
 2.
-3.  [『L.U.V』メンバー別CDジャケット公開！　1/3](https://btobofficial.jp/archives/4565)
-4.  [『L.U.V』メンバー別CDジャケット公開！　2/3](https://btobofficial.jp/archives/4569)
-5.  [『L.U.V』メンバー別CDジャケット公開！　3/3](https://btobofficial.jp/archives/4578)
-6.  [6/15(水)発売　『L.U.V』CDジャケット公開！！](https://btobofficial.jp/archives/4606)
+3.
+4.
+5.
+6.
 7.  [BTOB威力證明！日本單曲《L.U.V》登上公信榜1位](http://www.vlovekpop.com/20160617-btob/)  vlovekpop
 8.  [【オリコン】韓国7人組BTOBが初首位 日本デビュー2年目](http://www.oricon.co.jp/news/2073722/full/) ORICON STYLE
 9.  [K-POPボーイズグループが週間シングルチャートTOP2を占拠！ 注目のAKB48はその強さを見せつけ堂々3位ランクイン](http://www.billboard-japan.com/d_news/detail/39004/2) Billboard Japan

@@ -1,4 +1,4 @@
-**春田XD-S**（；XD-S，全稱：**X**-treme **D**uty-**S**limline）是一系列由[克罗地亚](../Page/克罗地亚.md "wikilink")槍械製造商公司（前稱：I.M.金屬工廠，目前亦生產[VHS突擊步槍](../Page/VHS突擊步槍.md "wikilink")）研製的[聚合物](../Page/聚合物.md "wikilink")[底把和](../Page/机匣.md "wikilink")[擊針發射的](../Page/撞針.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。它們與它們的前輩，[HS2000手槍](../Page/HS2000手槍.md "wikilink")（即是在美國最廣為人知的春田XD）極為相似，同樣由[克罗地亚](../Page/克罗地亚.md "wikilink")[卡爾洛瓦茨的HS](https://zh.wikipedia.org/wiki/卡爾洛瓦茨 "wikilink") Produkt公司設計和生產。而此槍的稱呼，春田XD-S半自動手槍就是HS Produkt公司授權生產以後，春田公司在[美国](../Page/美国.md "wikilink")商業市場上出售的名稱。\[1\]
+**春田XD-S**（；XD-S，全稱：**X**-treme **D**uty-**S**limline）是一系列由[克罗地亚](../Page/克罗地亚.md "wikilink")槍械製造商公司（前稱：I.M.金屬工廠，目前亦生產[VHS突擊步槍](../Page/VHS突擊步槍.md "wikilink")）研製的[聚合物](../Page/聚合物.md "wikilink")[底把和](../Page/机匣.md "wikilink")[擊針發射的](../Page/撞針.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。它們與它們的前輩，[HS2000半自動手槍](https://zh.wikipedia.org/wiki/HS2000半自動手槍 "wikilink")（即是在美國最廣為人知的春田XD）極為相似，同樣由[克罗地亚](../Page/克罗地亚.md "wikilink")[卡爾洛瓦茨的HS](https://zh.wikipedia.org/wiki/卡爾洛瓦茨 "wikilink") Produkt公司設計和生產。而此槍的稱呼，春田XD-S半自動手槍就是HS Produkt公司授權生產以後，春田公司在[美国](../Page/美国.md "wikilink")商業市場上出售的名稱。\[1\]
 
 ## 歷史
 
@@ -22,7 +22,7 @@
 
 XD-S是XD手槍系列唯一一種的瘦身手槍型號，[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")、[套筒及槍管的尺寸與其他型號不同](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。春田XD-S採用了一根3.3英吋（83.82毫米）或4英吋（102.5毫米）的短[槍管](../Page/槍管.md "wikilink")，槍身寬度只有25.4毫米（1英吋），套筒寬度更只有22.86毫米（0.9英吋），按照分司的說法是“極盡苗條之致”。最初只適用於[.45 ACP](../Page/.45_ACP.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，專門為而設計的。\[2\]
 
-XD-S使用了雙[復進簧式設計](https://zh.wikipedia.org/wiki/復進簧 "wikilink")。它們採用一種聚合物[底把加上](../Page/机匣.md "wikilink")[钢](../Page/钢.md "wikilink")片鑲塊，[戰術燈](../Page/戰術燈.md "wikilink")安裝導軌和防止有人意圖扣下的情況外發射的[扳機保險](https://zh.wikipedia.org/wiki/扳機保險 "wikilink")。當看到擊針尾突出和裝上了[拋光的](https://zh.wikipedia.org/wiki/拋光 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")和聚合物底座製造的雙排式[彈匣](../Page/彈匣.md "wikilink")的話，白色的[擊針指示器從](https://zh.wikipedia.org/wiki/撞針指示器 "wikilink")[套筒的後方彈出](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，並且警告使用者要注意手槍在待擊狀態。當使用者將一發子彈在[膛室](../Page/膛室.md "wikilink")內，從套筒的上方、[拋殼口的後方彈出](https://zh.wikipedia.org/wiki/拋殼口 "wikilink")，使用者可以看到或摸到以注意安全。手槍在[扳機護圈後部的兩邊都裝有可以靈巧地使用的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[彈匣](../Page/彈匣.md "wikilink")釋放按鈕。手槍的分解方式就是轉動底把左側的槓桿向上，使套筒向底把前方方向拆出。這與[SIG Sauer製造的](https://zh.wikipedia.org/wiki/SIG_Sauer "wikilink")[P220手槍系列一樣](../Page/SIG_P220手槍.md "wikilink")，採取的是完全一樣的分解機構。
+XD-S使用了雙[復進簧式設計](https://zh.wikipedia.org/wiki/復進簧 "wikilink")。它們採用一種聚合物[底把加上](../Page/机匣.md "wikilink")[钢](../Page/钢.md "wikilink")片鑲塊，[戰術燈](../Page/戰術燈.md "wikilink")安裝導軌和防止有人意圖扣下的情況外發射的[扳機保險](https://zh.wikipedia.org/wiki/扳機保險 "wikilink")。當看到擊針尾突出和裝上了[拋光的](https://zh.wikipedia.org/wiki/拋光 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")和聚合物底座製造的雙排式[彈匣](../Page/彈匣.md "wikilink")的話，白色的[擊針指示器從](https://zh.wikipedia.org/wiki/撞針指示器 "wikilink")[套筒的後方彈出](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，並且警告使用者要注意手槍在待擊狀態。當使用者將一發子彈在[膛室](../Page/膛室.md "wikilink")內，從套筒的上方、[拋殼口的後方彈出](https://zh.wikipedia.org/wiki/拋殼口 "wikilink")，使用者可以看到或摸到以注意安全。手槍在[扳機護圈後部的兩邊都裝有可以靈巧地使用的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[彈匣](../Page/彈匣.md "wikilink")釋放按鈕。手槍的分解方式就是轉動底把左側的槓桿向上，使套筒向底把前方方向拆出。這與[西格&紹爾](../Page/西格&紹爾.md "wikilink")製造的[P220手槍系列一樣](../Page/SIG_P220手槍.md "wikilink")，採取的是完全一樣的分解機構。
 
 春田XD-S有點不尋常的地方就是位於握把背後的[握把式保險](https://zh.wikipedia.org/wiki/握把式保險 "wikilink")，必需按壓才可發射，可以大大減低[走火的機會](https://zh.wikipedia.org/wiki/走火 "wikilink")。這種保險功能目前只會裝在一些舊式的手槍，例如[M1911手槍](../Page/M1911手槍.md "wikilink")及其衍生型，但很少會有現代手槍使用這種保險。春田XD-S的和可更換式[握把背板都是春田XD](https://zh.wikipedia.org/wiki/握把背板 "wikilink")-S最顯著的特點。其他功能還包括一條十分有效的[復進簧](https://zh.wikipedia.org/wiki/復進簧 "wikilink")[導桿](https://zh.wikipedia.org/wiki/復進簧導桿 "wikilink")，它亦是一個不明顯的裝置。復進簧導桿的頂頭裝置就在[槍管](../Page/槍管.md "wikilink")的下方並突出了少許，並保持[套筒在直接抵著一個目標時仍能回到](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[閉膛狀態](https://zh.wikipedia.org/wiki/閉膛 "wikilink")，例如在自衛的情況下零距離抵著敵人的[胸部](https://zh.wikipedia.org/wiki/胸 "wikilink")。這可以防止套筒在直接抵著目標時被向後推，因為該裝置代替套筒抵著目標的表面，從而增加了此槍能夠正常運作的機會。\[3\] [Xds_handgun_with_holster.png](https://zh.wikipedia.org/wiki/File:Xds_handgun_with_holster.png "fig:Xds_handgun_with_holster.png")以內的XD-S 3.3"緊湊型手槍。\]\] 春田XD-S除了扳機和握把式保險以外，還有第三個安全保險裝置，就是[防跌落保險](https://zh.wikipedia.org/wiki/防跌落保險 "wikilink")（）。防跌落保險可以防止[擊針在此槍不慎摔落或受到各種巨大的撞擊以下釋放並且撞擊](../Page/撞針.md "wikilink")[底火](https://zh.wikipedia.org/wiki/底火 "wikilink")。除非[套筒是完全閉膛](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，否則仍然在開膛狀態以下都會為求安全而防止射擊。
 
@@ -30,7 +30,7 @@ XD-S使用了雙[復進簧式設計](https://zh.wikipedia.org/wiki/復進簧 "wi
 
 為了縮小握把的闊度，春田XD-S是由[拋光](https://zh.wikipedia.org/wiki/拋光 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")連[聚合物](../Page/聚合物.md "wikilink")彈匣底座所製造的單排交錯可拆卸式[彈匣](../Page/彈匣.md "wikilink")供彈，因此無法與同口徑型號互換。春田XD-S 9×19毫米和.45 ACP口徑型的[彈匣](../Page/彈匣.md "wikilink")容量，分別是7發和5發，但亦具有可選用的加厚彈匣底座型的8、9發和6、7發彈匣，春田XD-S在彈匣容量方面的改進與[格洛克](../Page/格洛克.md "wikilink")手槍相比是有過之而無不及。
 
-經過熱處理以後的金屬部分表面會利用一種專利的（Tenifer Plus+）處理過程。這種處理的特點是具有極高的耐磨擦性和耐腐蝕，它會滲入金屬和表面處理部分，甚至在表面以下的一定深度並且變成類似的性質。特尼弗Plus+氮化的處理過程中會產生[灰色](https://zh.wikipedia.org/wiki/灰色 "wikilink")、無眩光表面和64 [HRC等級](https://zh.wikipedia.org/wiki/洛氏硬度試驗 "wikilink")（相比之下，一顆[工業鑽石的評級為](../Page/钻石.md "wikilink")70 HRC）和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度。與HS2000一樣，春田XD-S的這種處理使得它特別適合作為個人的手槍（尤其是其袖珍型），而高聚氯乙烯耐處理並可以減少手槍受到[汗水的影響](../Page/汗液.md "wikilink")。\[4\]採用類似表面處理的還有瓦爾特[PPS](../Page/瓦爾特PPS手槍.md "wikilink")、[PPQ](../Page/瓦爾特PPQ手槍.md "wikilink")、[PPX手槍](../Page/瓦爾特PPX手槍.md "wikilink")。
+經過熱處理以後的金屬部分表面會利用一種專利的（Tenifer Plus+）處理過程。這種處理的特點是具有極高的耐磨擦性和耐腐蝕，它會滲入金屬和表面處理部分，甚至在表面以下的一定深度並且變成類似的性質。特尼弗Plus+氮化的處理過程中會產生[灰色](https://zh.wikipedia.org/wiki/灰色 "wikilink")、無眩光表面和64 [HRC等級](https://zh.wikipedia.org/wiki/洛氏硬度試驗 "wikilink")（相比之下，一顆[工業鑽石的評級為](../Page/钻石.md "wikilink")70 HRC）和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度。與HS2000一樣，春田XD-S的這種處理使得它特別適合作為個人的手槍（尤其是其袖珍型），而高聚氯乙烯耐處理並可以減少手槍受到[汗水的影響](../Page/汗液.md "wikilink")。\[4\]採用類似表面處理的還有瓦爾特[PPS](https://zh.wikipedia.org/wiki/瓦爾特PPS半自動手槍 "wikilink")、[PPQ](https://zh.wikipedia.org/wiki/瓦爾特PPQ半自動手槍 "wikilink")、[PPX手槍](https://zh.wikipedia.org/wiki/瓦爾特PPX半自動手槍 "wikilink")。
 
 ### XD-S Mod. 2
 
@@ -247,16 +247,18 @@ XD-S使用了雙[復進簧式設計](https://zh.wikipedia.org/wiki/復進簧 "wi
 
   - [格洛克](../Page/格洛克.md "wikilink")
 
-  - [CZ 100](../Page/CZ_100手槍.md "wikilink")
+  - [CZ 100](https://zh.wikipedia.org/wiki/CZ_100半自動手槍 "wikilink")、[CZ 110](https://zh.wikipedia.org/wiki/CZ_110半自動手槍 "wikilink")
 
   -
   - [HS95](https://zh.wikipedia.org/wiki/HS95半自動手槍 "wikilink")
 
-  - [HS2000手槍](../Page/HS2000手槍.md "wikilink")（春田XD手槍）
+  - [HS2000半自動手槍](https://zh.wikipedia.org/wiki/HS2000半自動手槍 "wikilink")（春田XD半自動手槍）
 
   - [春田XDM](../Page/春田XDM半自動手槍.md "wikilink")
 
   - [春田911](https://zh.wikipedia.org/wiki/春田911半自動手槍 "wikilink")
+
+  - [春田地獄貓](https://zh.wikipedia.org/wiki/春田地獄貓半自動手槍 "wikilink")
 
   - [VHS突擊步槍](../Page/VHS突擊步槍.md "wikilink")
 
@@ -302,7 +304,7 @@ XD-S使用了雙[復進簧式設計](https://zh.wikipedia.org/wiki/復進簧 "wi
       - [Size Matters: Springfield's XD(S) 4.0](http://www.americanrifleman.org/articles/2014/8/22/size-matters-springfields-xd-s-40/)
       - [Springfield Armory M1A and XD-S Now Available in Flat Dark Earth Color Tone](http://www.americanrifleman.org/articles/2015/6/1/springfield-armory-m1a-and-xd-s-now-available-in-flat-dark-earth-color-tone/)
 
-  - —[Guns Magazine.com—Springfield Armory XD-S .45 ACP](http://gunsmagazine.com/springfield-armory-xd-s-45-acp/)
+  - —[Guns Magazine.com—Springfield Armory XD-S .45 ACP](https://web.archive.org/web/20140718094559/http://gunsmagazine.com/springfield-armory-xd-s-45-acp/)
 
   - —[Guns Holsters and Gear—Springfield XD-S](http://www.gunsholstersandgear.com/2012/01/17/springfield-xd-s/)
 
@@ -348,15 +350,15 @@ XD-S使用了雙[復進簧式設計](https://zh.wikipedia.org/wiki/復進簧 "wi
 
   - —Guns & Ammo.com—
 
-      - [Scaled for Self-Defense: Springfield XD-S 9mm Review](http://www.gunsandammo.com/reviews/scaled-for-self-defense-springfield-xd-s-9mm-review/)
+      - [Scaled for Self-Defense: Springfield XD-S 9mm Review](https://web.archive.org/web/20151124195414/http://www.gunsandammo.com/reviews/scaled-for-self-defense-springfield-xd-s-9mm-review/)
       - [First Look: Springfield Armory XD-S .40](http://www.gunsandammo.com/first-look/first-look-springfield-armory-xd-s-40/)
 
   - —Handguns Magazine.com—
 
-      - [Springfield Armory XD-S Review](http://www.handgunsmag.com/2012/09/10/springfield-armory-xd-s-review/)
-      - [First Look: Springfield Armory 9mm XD-S 4.0″](http://www.handgunsmag.com/2014/01/13/first-look-springfield-armory-9mm-xd-s-4-0/)
+      - [Springfield Armory XD-S Review](https://web.archive.org/web/20140610105445/http://www.handgunsmag.com/2012/09/10/springfield-armory-xd-s-review/)
+      - [First Look: Springfield Armory 9mm XD-S 4.0″](https://web.archive.org/web/20140705075246/http://www.handgunsmag.com/2014/01/13/first-look-springfield-armory-9mm-xd-s-4-0/)
 
-  - —[Shooting Times.com—Perfectly Petite: Springfield XD-S Review](http://www.shootingtimes.com/2013/02/19/perfectly-petite-springfield-xd-s-review/)
+  - —[Shooting Times.com—Perfectly Petite: Springfield XD-S Review](https://web.archive.org/web/20140401025508/http://www.shootingtimes.com/2013/02/19/perfectly-petite-springfield-xd-s-review/)
 
   - —[Shotgun News.com—SPRINGFIELD XDS 3.3-INCH SUBCOMPACT](http://www.shotgunnews.com/2012/04/19/springfield-xds-3-3-inch-subcompact/)
 

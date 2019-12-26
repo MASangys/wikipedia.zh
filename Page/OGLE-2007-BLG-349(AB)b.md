@@ -26,12 +26,9 @@ OGLE-2007-BLG-349(AB)b 環繞由兩顆[紅矮星](../Page/紅矮星.md "wikilink
 [Category:人馬座](https://zh.wikipedia.org/wiki/Category:人馬座 "wikilink") [Category:2016年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2016年发现的系外行星 "wikilink") [Category:巨行星](https://zh.wikipedia.org/wiki/Category:巨行星 "wikilink") [Category:重力微透鏡法發現的系外行星](https://zh.wikipedia.org/wiki/Category:重力微透鏡法發現的系外行星 "wikilink")
 
 1.  宣布發現該行星的論文錯誤地將後綴編為小寫的「c」，但這可能只是個失誤。並且請勿和代表聯星系統中的伴星，即大寫的「B」混淆。
-
 2.
-3.  [The First Circumbinary Planet Found by Microlensing: OGLE-2007-BLG-349L(AB)c](http://hubblesite.org/pubinfo/pdf/2016/32/pdf.pdf)
-
+3.
 4.
 5.
 6.
-
 7.

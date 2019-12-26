@@ -107,7 +107,7 @@ PlayMemories Camara Apps程序列表
 
 ## 外部链接
 
-  - [PlayMemories Camera Apps](http://discover.store.sony.com/playmemoriesapps/) - SONY(英文)
+  - [PlayMemories Camera Apps](https://web.archive.org/web/20150511044944/http://discover.store.sony.com/playmemoriesapps/) - SONY(英文)
   - [PlayMemories Camera Apps 相机应用程序](http://www.sonystyle.com.cn/products/app/playmemories_camera_apps.htm) - SONY
   - [开始使用PlayMemories Camera Apps](https://www.playmemoriescameraapps.com/portal/fts/index.php) - SONY
   - [NEX单电相机playmemories camera apps安装详解（磨难历程）](http://blog.sina.com.cn/s/blog_3d41476201017nxb.html) 在中国大陆使用域外PlayMemories市场服务

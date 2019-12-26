@@ -94,12 +94,8 @@ BABYMETAL的〈Iine\!〉於2012年1月9日在的「WOMEN'S POWER 20th Anniversar
 [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:BABYMETAL歌曲](https://zh.wikipedia.org/wiki/Category:BABYMETAL歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.

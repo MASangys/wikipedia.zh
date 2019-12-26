@@ -1,5 +1,4 @@
-\-- implements [template:multiple
-image](../Page/template:multiple_image.md "wikilink") local p = {}
+\-- implements [template:multiple image](https://zh.wikipedia.org/wiki/template:multiple_image "wikilink") local p = {}
 
 local autoscaledimages local nonautoscaledimages
 
@@ -24,8 +23,7 @@ local function getdimensions(s, w, h)
 
 end
 
-local function renderImageCell(image, width, height, link, alt,
-thumbtime, caption, textalign, istyle)
+local function renderImageCell(image, width, height, link, alt, thumbtime, caption, textalign, istyle)
 
 `   local root = mw.html.create('')`
 
@@ -45,10 +43,7 @@ thumbtime, caption, textalign, istyle)
 `       imagediv:css('height', tostring(height) .. 'px')`
 `       imagediv:css('overflow', 'hidden')`
 `   end`
-`   imagediv:wikitext('`[`file:'``   ``..``   ``image``   ``..``
- ``widthstr``   ``..``   ``linkstr``   ``..``   ``altstr``   ``..``
- ``thumbtimestr``   ``..``
- ``'`](../Page/file:'_.._image_.._widthstr_.._linkstr_.._altstr_.._thumbtimestr_.._'.md "wikilink")`')`
+`   imagediv:wikitext('`[`file:'``   ``..``   ``image``   ``..``   ``widthstr``   ``..``   ``linkstr``   ``..``   ``altstr``   ``..``   ``thumbtimestr``   ``..``   ``'`](https://zh.wikipedia.org/wiki/file:'_.._image_.._widthstr_.._linkstr_.._altstr_.._thumbtimestr_.._' "wikilink")`')`
 `   if isnotempty(caption) then`
 `       local captiondiv = root:tag('div')`
 `       captiondiv:addClass('thumbcaption')`
@@ -312,5 +307,4 @@ end
 
 return p
 
-[Category:使用多个图像且自动缩放的页面](https://zh.wikipedia.org/wiki/Category:使用多个图像且自动缩放的页面 "wikilink")
-[Category:使用多个图像且手动缩放的页面](https://zh.wikipedia.org/wiki/Category:使用多个图像且手动缩放的页面 "wikilink")
+[Category:使用多个图像且自动缩放的页面](https://zh.wikipedia.org/wiki/Category:使用多个图像且自动缩放的页面 "wikilink") [Category:使用多个图像且手动缩放的页面](https://zh.wikipedia.org/wiki/Category:使用多个图像且手动缩放的页面 "wikilink")

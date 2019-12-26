@@ -515,7 +515,7 @@
 
   - [UP-FRONT WORKS](http://www.up-front-works.jp) - 所属レコード会社
 
-  - [ARTIST](http://www.up-front-works.jp/artist/lovendor/) - プロフィール
+  - [ARTIST](https://web.archive.org/web/20150701165608/http://www.up-front-works.jp/artist/lovendor/) - プロフィール
 
   - [UP-FRONT CREATE](http://www.up-front-create.com/) - 所属事務所
 

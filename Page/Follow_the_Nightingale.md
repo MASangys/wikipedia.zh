@@ -42,37 +42,22 @@ Kokia于2007年12月22日，在动漫游戏展[Jump Festa上演唱了](../Page/J
 [Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink") [Category:遊戲主題曲](https://zh.wikipedia.org/wiki/Category:遊戲主題曲 "wikilink") [Category:勝利娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:勝利娛樂音樂專輯 "wikilink") [Category:傳奇系列音樂](https://zh.wikipedia.org/wiki/Category:傳奇系列音樂 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.  (subscription only)

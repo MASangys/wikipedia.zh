@@ -18,6 +18,6 @@
 
 [Category:自由路由軟體](https://zh.wikipedia.org/wiki/Category:自由路由軟體 "wikilink") [Category:網路結構](https://zh.wikipedia.org/wiki/Category:網路結構 "wikilink") [Category:虛擬化軟體](https://zh.wikipedia.org/wiki/Category:虛擬化軟體 "wikilink") [Category:乙太網路](https://zh.wikipedia.org/wiki/Category:乙太網路 "wikilink") [Category:Linux基金会项目](https://zh.wikipedia.org/wiki/Category:Linux基金会项目 "wikilink")
 
-1.  Simon Stanley,[All Change for Packet Processing](http://www.heavyreading.com/commchip/document.asp?doc_id=228565), Heavy Reading, 2013
+1.  Simon Stanley,[All Change for Packet Processing](http://www.heavyreading.com/commchip/document.asp?doc_id=228565) , Heavy Reading, 2013
 2.  Shamus McGillicudy, [Intel DPDK, switch and server ref designs push SDN ecosystem forward](http://searchsdn.techtarget.com/news/2240182264/Intel-DPDK-switch-and-server-ref-designs-push-SDN-ecosystem-forward), SearchSDN, April 2013
 3.  <http://dev.dpdk.narkive.com/717EdZ0r/dpdk-dev-dpdk-announce-dpdk-1-8-0-released>

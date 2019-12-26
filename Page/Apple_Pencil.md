@@ -17,26 +17,15 @@ Apple Pencil是設計用來讓藝術家完成創作，它讓在iPad Pro上面的
 [Category:蘋果公司硬體](https://zh.wikipedia.org/wiki/Category:蘋果公司硬體 "wikilink") [Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink") [Category:2015年面世的產品](https://zh.wikipedia.org/wiki/Category:2015年面世的產品 "wikilink")
 
 1.  [蘋果 2018 教育發表會：新款 9.7 吋 iPad 2018支援 Apple Pencil，售價台幣 10,900 元起](https://technews.tw/2018/03/28/2018-apple-education-event/)
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.

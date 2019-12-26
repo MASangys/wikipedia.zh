@@ -28,7 +28,6 @@ Snuper團體名稱是表示，「Snuper要比Super更出色更優秀的意思」
 </tr>
 <tr class="odd">
 <td><p>行友泰雄<br />
-<br />
 </p></td>
 </tr>
 <tr class="even">
@@ -243,6 +242,29 @@ Snuper團體名稱是表示，「Snuper要比Super更出色更優秀的意思」
 <ul>
 <li>發行日期：2018年10月8日</li>
 <li>語言：韓語</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 精選輯
+
+<table>
+<thead>
+<tr class="header">
+<th><p>專輯</p></th>
+<th><p>專輯資料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p>首張精選專輯《<strong>SWING</strong>》</p>
+<ul>
+<li>發行日期：2019年12月11日</li>
+<li>語言：日語、韓語</li>
 </ul></td>
 <td></td>
 </tr>

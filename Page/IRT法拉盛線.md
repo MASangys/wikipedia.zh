@@ -374,17 +374,11 @@
 [Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1915年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1915年啟用的鐵路線 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
@@ -425,5 +419,4 @@
 44.
 45.
 46.
-
 47.

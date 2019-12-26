@@ -68,19 +68,12 @@ CD版發售該週進入[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")�
 [Category:偶像大師系列音樂](https://zh.wikipedia.org/wiki/Category:偶像大師系列音樂 "wikilink") [Category:日本古倫美亞歌曲](https://zh.wikipedia.org/wiki/Category:日本古倫美亞歌曲 "wikilink") [Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
-
 9.
-
 10.

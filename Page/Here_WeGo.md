@@ -104,7 +104,7 @@ HERE可以讓用戶將自己喜歡的旅遊目的地的位置和詳細信息保�
 ## 額外鏈接
 
   -
-[Category:2015年软件](https://zh.wikipedia.org/wiki/Category:2015年软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink")
+[Category:2015年软件](https://zh.wikipedia.org/wiki/Category:2015年软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink") [Category:路線規劃軟體](https://zh.wikipedia.org/wiki/Category:路線規劃軟體 "wikilink")
 
 1.
 2.

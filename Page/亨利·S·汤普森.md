@@ -11,6 +11,5 @@
 ## 参考资料
 
 1.  Sunphone Records, "[Lilly Dale Composer Biography: H.S. Thompson](http://www.james-joyce-music.com/songb_06_composer.html)," *Music in the Works of James Joyce* Vol. II.
-
 2.
 3.  Bowen, Zack R. [*Musical Allusions in the Works of James Joyce: Early Poetry Through Ulysses*](http://books.google.com/books?id=srr_rtOEx5YC&pg=PA35&lpg=PA35&source=web&ots=UMLdMGb7RB&sig=IFeJYepkqOTTk5IfEinADDDuO5A#PPA36,M1). SUNY Press, 1974. ISBN 0-87395-248-0

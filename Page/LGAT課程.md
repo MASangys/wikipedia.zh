@@ -40,32 +40,25 @@ LGAT課程經常會刻意塑造學員之間的[同儕壓力](https://zh.wikipedi
 2.
 3.
 4.
-
 5.
 6.
 7.
 8.
 9.
-
 10.
 11.
 12. [論壇（Landmark）香港](https://landmarkworldwide.hk/)
-
 13.
 14. [Landmark (est) parody](https://www.youtube.com/watch?v=T5XYNQv6F_o), [Don't go down to the quarry](https://www.youtube.com/watch?v=2VKTWkiDHOM).
-
 15.
 16.
 17.
 18.
-
 19.
-
 20.
 21.
 22.
 23.
-
 24.
 25.
 26.

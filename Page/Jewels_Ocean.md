@@ -157,7 +157,7 @@
 
 [Category:2004年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2004年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:寶石題材作品](https://zh.wikipedia.org/wiki/Category:寶石題材作品 "wikilink")
 
-1.  [ジュエルスオーシャン特集](http://www.game-style.jp/special/200402/27/00jew_es.php)Game-Style
+1.  [ジュエルスオーシャン特集](http://www.game-style.jp/special/200402/27/00jew_es.php) Game-Style
 2.  [Jewels Ocean](https://vndb.org/v3329)The Visual Novel Database
 3.  [ジュエルスオーシャン Star of Sierra Leone](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=11101)ファミ通.com
 4.  [ジュエルスオーシャン](http://erogetrailers.com/soft/1252#layout_page)ErogeTrailers

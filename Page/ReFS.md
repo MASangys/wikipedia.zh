@@ -46,7 +46,7 @@ ReFS最初只被添加到[Windows Server 2012](../Page/Windows_Server_2012.md "w
 
 2014年，一篇对ReFS的评论与准备在生产中使用的评估显示，ReFS在与它的两个主要竞争对手（[文件系统](../Page/文件系统.md "wikilink")）的比较中具有关键优势。[ZFS](../Page/ZFS.md "wikilink")（在[Solaris](../Page/Solaris.md "wikilink")和[FreeBSD](../Page/FreeBSD.md "wikilink")中使用）被广泛批评为使用数GB的[内存用于联机重复数据消除](https://zh.wikipedia.org/wiki/内存 "wikilink")，这影响了它在大量中小型系统上的使用。但是，在关闭ZFS的联机重复数据消除后（因为ReFS不支持此功能），ZFS只占用几百兆内存，与另外两个系统相对持平。等方案使用[专有方法](../Page/专有软件.md "wikilink")，这意味着如果故障且厂商也无法解决，没有其他解决方案。\[30\]
 
-2012年，[Phoronix](../Page/Phoronix.md "wikilink")撰写了一篇\[31\]ReFS对战[Btrfs](../Page/Btrfs.md "wikilink")的分析（Btrfs是适用于Linux的一个[写时复制文件系统](https://zh.wikipedia.org/wiki/寫入時複製 "wikilink")）。两者具有类似的特性，都支持校验和、类[RAID](../Page/RAID.md "wikilink")使用多块磁盘，以及错误检测与纠正。但是，ReFS缺乏[重复数据删除](../Page/重复数据删除.md "wikilink")、写时快照和压缩，而Btrfs和ZFS支持上述技术。
+2012年，[Phoronix](../Page/Phoronix.md "wikilink")撰写了一篇\[31\]ReFS对战[Btrfs](../Page/Btrfs.md "wikilink")的分析（Btrfs是适用于Linux的一个[写时复制文件系统](https://zh.wikipedia.org/wiki/寫入時複製 "wikilink")）。两者具有类似的特性，都支持校验和、类[RAID](../Page/RAID.md "wikilink")使用多块磁盘，以及错误检测与纠正。但是，当时的ReFS缺乏[重复数据删除](../Page/重复数据删除.md "wikilink")、写时快照和压缩，而Btrfs和ZFS支持上述技术。
 
 ## 参见
 

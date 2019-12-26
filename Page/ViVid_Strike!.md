@@ -370,18 +370,13 @@
 [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:魔法少女奈叶](https://zh.wikipedia.org/wiki/Category:魔法少女奈叶 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:2017年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2017年日本OVA動畫 "wikilink")
 
 1.
-
 2.  《ViVid Strike\!》 OP。
-
 3.
 4.
 5.
 6.
 7.
 8.
-
 9.
-
 10.
-
 11.

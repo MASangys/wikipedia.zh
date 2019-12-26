@@ -205,11 +205,8 @@ COMEBACK V LIVE</a></p></td>
 
 [Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:BTOB音樂專輯](https://zh.wikipedia.org/wiki/Category:BTOB音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
 
-1.  [BTOB《Remember That》曲目表](http://kpopn.com/2016/03/24/349450/)
-
+1.
 2.
-
 3.
-
 4.
 5.  [五大唱片](http://www.5music.com.tw/CDList-C.asp?cdno=437405679124)

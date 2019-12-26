@@ -50,32 +50,21 @@ NTUC中心位在[新加坡地鐵](../Page/新加坡地鐵.md "wikilink")[萊佛�
 [Category:2004年完工建築物](https://zh.wikipedia.org/wiki/Category:2004年完工建築物 "wikilink") [Category:市中心_(新加坡)](https://zh.wikipedia.org/wiki/Category:市中心_\(新加坡\) "wikilink") [Category:150米至199米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大樓 "wikilink") [Category:新加坡摩天大樓](https://zh.wikipedia.org/wiki/Category:新加坡摩天大樓 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
 11.
-
 12.
 13.
 14.
-
 15.
-
 16.
 17.
-
 18.
 19.

@@ -292,55 +292,30 @@
 [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:防彈少年團音樂專輯](https://zh.wikipedia.org/wiki/Category:防彈少年團音樂專輯 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink") [Category:2016年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯月榜冠軍作品 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12. [75小時點擊率破1000萬！防彈少年團《FIRE》再創新紀錄！](http://www.vlovekpop.com/20160506-bts-2/) vlovekpop
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.  Top Heatseekers|url = [http://www.billboard.com/artist/5912948/bts/chart?f=324|website](http://www.billboard.com/artist/5912948/bts/chart?f=324%7Cwebsite) = www.billboard.com|accessdate = 2016-05-10}}
-
 24.  Independent Albums|url = [http://www.billboard.com/artist/5912948/bts/chart?f=326|website](http://www.billboard.com/artist/5912948/bts/chart?f=326%7Cwebsite) = www.billboard.com|accessdate = 2016-05-10}}
-
 25.  World Albums|url = [http://www.billboard.com/artist/5912948/bts/chart?f=339|website](http://www.billboard.com/artist/5912948/bts/chart?f=339%7Cwebsite) = www.billboard.com|accessdate = 2016-05-10}}
-
 26.
-
 27.
 28.

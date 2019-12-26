@@ -1,9 +1,8 @@
-\-- -- This module implements --  --  --  --  -- local p = {} local
-HTMLcolor = mw.loadData( 'Module:Color contrast/colors' )
+\-- -- This module implements --  --  --  --  -- local p = {} local HTMLcolor = mw.loadData( 'Module:Color contrast/colors' )
 
-local function sRGB ( v )
+local function sRGB (v)
 
-`   if (v <= 0.03928) then `
+`   if (v <= 0.03928) then`
 `       v = v / 12.92`
 `   else`
 `       v = math.pow((v+0.055)/1.055, 2.4)`
@@ -12,7 +11,7 @@ local function sRGB ( v )
 
 end
 
-local function rgbdec2lum( R, G, B )
+local function rgbdec2lum(R, G, B)
 
 `   if ( 0 <= R and R < 256 and 0 <= G and G < 256 and 0 <= B and B < 256 ) then`
 `       return 0.2126 * sRGB(R/255) + 0.7152 * sRGB(G/255) + 0.0722 * sRGB(B/255)`
@@ -22,7 +21,7 @@ local function rgbdec2lum( R, G, B )
 
 end
 
-local function hsl2lum( h, s, l )
+local function hsl2lum(h, s, l)
 
 `   if ( 0 <= h and h < 360 and 0 <= s and s <= 1 and 0 <= l and l <= 1 ) then`
 `       local c = (1 - math.abs(2*l - 1))*s`
@@ -56,11 +55,15 @@ local function hsl2lum( h, s, l )
 
 end
 
-local function color2lum( c )
+local function color2lum(c)
 
 `   if (c == nil) then`
 `       return ''`
 `   end`
+
+`   -- html '#' entity`
+`   c = c:gsub("#", "#")`
+
 `   -- whitespace`
 `   c = c:match( '^%s*(.-)[%s;]*$' )`
 
@@ -118,16 +121,23 @@ local function color2lum( c )
 
 end
 
+\-- This exports the function for use in other modules. -- The colour is passed as a string. function p._lum(color)
+
+`   return color2lum(color)`
+
+end
+
 function p._greatercontrast(args)
 
 `   local bias = tonumber(args['bias'] or '0') or 0`
+`   local css = (args['css'] and args['css'] ~= '') and true or false`
 `   local v1 = color2lum(args[1] or '')`
 `   local c2 = args[2] or '#FFFFFF'`
 `   local v2 = color2lum(c2)`
 `   local c3 = args[3] or '#000000'`
 `   local v3 = color2lum(c3)`
-`   local ratio1 = 0;`
-`   local ratio2 = 0;`
+`   local ratio1 = -1;`
+`   local ratio2 = -1;`
 `   if (type(v1) == 'number' and type(v2) == 'number') then`
 `       ratio1 = (v2 + 0.05)/(v1 + 0.05)`
 `       ratio1 = (ratio1 < 1) and 1/ratio1 or ratio1`
@@ -136,7 +146,25 @@ function p._greatercontrast(args)
 `       ratio2 = (v3 + 0.05)/(v1 + 0.05)`
 `       ratio2 = (ratio2 < 1) and 1/ratio2 or ratio2`
 `   end`
-`   return (ratio1 + bias > ratio2) and c2 or c3`
+
+`   if css then`
+`       local c1 = args[1] or ''`
+`       if mw.ustring.match(c1, '^[A-Fa-f0-9][A-Fa-f0-9][A-Fa-f0-9]$') or`
+`           mw.ustring.match(c1, '^[A-Fa-f0-9][A-Fa-f0-9][A-Fa-f0-9][A-Fa-f0-9][A-Fa-f0-9][A-Fa-f0-9]$') then`
+`               c1 = '#' .. c1`
+`       end`
+`       if mw.ustring.match(c2, '^[A-Fa-f0-9][A-Fa-f0-9][A-Fa-f0-9]$') or`
+`           mw.ustring.match(c2, '^[A-Fa-f0-9][A-Fa-f0-9][A-Fa-f0-9][A-Fa-f0-9][A-Fa-f0-9][A-Fa-f0-9]$') then`
+`               c2 = '#' .. c2`
+`       end`
+`       if mw.ustring.match(v3, '^[A-Fa-f0-9][A-Fa-f0-9][A-Fa-f0-9]$') or`
+`           mw.ustring.match(v3, '^[A-Fa-f0-9][A-Fa-f0-9][A-Fa-f0-9][A-Fa-f0-9][A-Fa-f0-9][A-Fa-f0-9]$') then`
+`               c3 = '#' .. c3`
+`       end`
+`       return 'background-color:' .. c1 .. '; color:' .. ((ratio1 > 0) and (ratio2 > 0) and ((ratio1 + bias > ratio2) and c2 or c3) or '') .. ';'`
+`   end`
+
+`   return (ratio1 > 0) and (ratio2 > 0) and ((ratio1 + bias > ratio2) and c2 or c3) or ''`
 
 end
 
@@ -171,9 +199,9 @@ function p._styleratio(args)
 `       if lum ~= '' then fg, lum_fg = args[3], lum end`
 `   end`
 
-`   local slist = mw.text.split(style or '', ';')`
+`   local slist = mw.text.split(mw.ustring.gsub(mw.ustring.gsub(style or '', '&#[Xx]23;', '#'), '#', '#'), ';')`
 `   for k = 1,#slist do`
-`       s = slist[k]`
+`       local s = slist[k]`
 `       local k,v = s:match( '^[%s]*([^:]-):([^:]-)[%s;]*$' )`
 `       k = k or ''`
 `       v = v or ''`
@@ -193,9 +221,16 @@ function p._styleratio(args)
 
 end
 
-function p.lum(frame)
+\--\[\[ Use {{\#invoke:Color contrast|somecolor}} directly or {{\#invoke:Color contrast}} from a wrapper template.
 
-`   return color2lum(frame.args[1] or frame:getParent().args[1])`
+Parameters:
+
+`   -- |1=  — required; A color to check.`
+
+\--\]\] function p.lum(frame)
+
+`   local color = frame.args[1] or frame:getParent().args[1]`
+`   return p._lum(color)`
 
 end
 

@@ -56,6 +56,7 @@
           - 仅所有i5、i7、至强和i3-2115C\[9\]。
       - Intel [Haswell处理器](../Page/Haswell微架構.md "wikilink")。（i3-4000m\[10\]、奔腾和赛扬除外）
       - Intel在其网站上有一个列表，写明了支持AES-NI的处理器\[11\]
+      - Skylake以後微架構的大部分[Intel Core](https://zh.wikipedia.org/wiki/Intel_Core "wikilink")、[Pentium](https://zh.wikipedia.org/wiki/Pentium "wikilink")、[Celeron](https://zh.wikipedia.org/wiki/Celeron "wikilink")。
   - [AMD](../Page/超威半导体.md "wikilink")
       - [AMD Ryzen架构处理器](../Page/AMD_Ryzen.md "wikilink")。
       - [AMD Bulldozer架构处理器](../Page/AMD_Bulldozer.md "wikilink")。\[12\]

@@ -1,4 +1,4 @@
-**MKEK T-40**是一具由[土耳其](../Page/土耳其.md "wikilink")槍械製造商為配合其仿製的[HK G3戰鬥步槍](../Page/HK_G3自動步槍.md "wikilink")／[HK33E](../Page/HK33突擊步槍.md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")而研製和生產的的單發下掛式[榴弹发射器](../Page/榴弹发射器.md "wikilink")，亦是[土耳其軍隊的制式下掛式榴彈發射器](https://zh.wikipedia.org/wiki/土耳其军事 "wikilink")，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。它除了可以下掛於步槍的下護木，也可通過增加及[槍托](../Page/槍托.md "wikilink")配件改裝成一個獨立的[肩射型榴彈發射器武器系統](https://zh.wikipedia.org/wiki/榴弹发射器#肩射型榴弹发射器 "wikilink")。
+**MKEK T-40**是一款由[土耳其](../Page/土耳其.md "wikilink")槍械製造商為配合其仿製的[HK G3戰鬥步槍](../Page/HK_G3自動步槍.md "wikilink")／[HK33E](../Page/HK33突擊步槍.md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")而研製和生產的的單發下掛式[榴弹发射器](../Page/榴弹发射器.md "wikilink")，亦是[土耳其军队](../Page/土耳其军队.md "wikilink")的制式下掛式榴彈發射器，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。它除了可以下掛於步槍的下護木，也可通過增加及[槍托](../Page/槍托.md "wikilink")配件改裝成一個獨立的[肩射型榴彈發射器武器系統](https://zh.wikipedia.org/wiki/榴弹发射器#肩射型榴弹发射器 "wikilink")。
 
 ## 設計細節
 
@@ -8,7 +8,7 @@
 
 ## 使用國
 
-  - ：被[土耳其軍隊所採用](https://zh.wikipedia.org/wiki/土耳其军事 "wikilink")。
+  - ：被[土耳其军队](../Page/土耳其军队.md "wikilink")所採用。
 
 ## 參見
 
@@ -57,7 +57,7 @@
 
 ## 外部連結
 
-  - —[MKEK - Mechanical and Chemical Industry Company—T-40 GRENADE LAUNCHER (H\&K-33E)](http://www.mkek.gov.tr/en/Products.aspx?FactoryID=13&ProductID=86&MainCategory=107&SubCategory=122&SubSubCategory=)
+  - —[MKEK - Mechanical and Chemical Industry Company—T-40 GRENADE LAUNCHER (H\&K-33E)](https://web.archive.org/web/20160706101626/http://mkek.gov.tr/en/Products.aspx?FactoryID=13&ProductID=86&MainCategory=107&SubCategory=122&SubSubCategory=)
 
   - —[Weaponsystems.net—T-40](http://weaponsystems.net/weaponsystem/BB02%20-%20T-40.html)
 

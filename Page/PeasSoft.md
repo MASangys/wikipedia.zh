@@ -55,7 +55,7 @@
 <td><p>来夢、八延、川口トオル</p></td>
 </tr>
 <tr class="even">
-<td><p>君を仰ぎ乙女は姫に</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/仰望君之少女成為公主" title="wikilink">仰望君之少女成為公主</a></p></td>
 <td><p>2011年7月29日</p></td>
 <td><p>さとーさとる、きくらげ</p></td>
 <td><p>八延、川口トオル</p></td>

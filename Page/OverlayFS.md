@@ -17,13 +17,8 @@ OverlayFS支持在上层文件系统中的和opaque目录，以允许删除文�
 [Category:Linux内核功能](https://zh.wikipedia.org/wiki/Category:Linux内核功能 "wikilink") [Category:Unix文件系统技术](https://zh.wikipedia.org/wiki/Category:Unix文件系统技术 "wikilink") [Category:特殊目的自由文件系统](https://zh.wikipedia.org/wiki/Category:特殊目的自由文件系统 "wikilink") [Category:Linux内核支持的特殊目的文件系统](https://zh.wikipedia.org/wiki/Category:Linux内核支持的特殊目的文件系统 "wikilink") [Category:联合文件系统](https://zh.wikipedia.org/wiki/Category:联合文件系统 "wikilink")
 
 1.
-
 2.
-
 3.  <https://archive.is/20161206132431/https://docs.docker.com/engine/userguide/storagedriver/selectadriver/>
-
 4.
-
 5.  <http://docs.slackware.com/slackware:liveslak>
-
 6.

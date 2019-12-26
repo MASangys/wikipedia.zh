@@ -189,26 +189,16 @@
 [Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink") [Category:日本電視台特別劇集](https://zh.wikipedia.org/wiki/Category:日本電視台特別劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:翻拍電視劇](https://zh.wikipedia.org/wiki/Category:翻拍電視劇 "wikilink") [Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink") [Category:日本電視喜劇](https://zh.wikipedia.org/wiki/Category:日本電視喜劇 "wikilink") [Category:橫濱市背景電視劇](https://zh.wikipedia.org/wiki/Category:橫濱市背景電視劇 "wikilink") [Category:1985年背景作品](https://zh.wikipedia.org/wiki/Category:1985年背景作品 "wikilink") [Category:星空傳媒(台灣)電視外購日劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購日劇 "wikilink") [Category:2015年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2015年電視特別劇集 "wikilink") [Category:2016年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年日本電視劇集 "wikilink") [Category:2015年亮相的日本網絡劇](https://zh.wikipedia.org/wiki/Category:2015年亮相的日本網絡劇 "wikilink") [Category:2016年亮相的日本網絡劇](https://zh.wikipedia.org/wiki/Category:2016年亮相的日本網絡劇 "wikilink") [Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink") [Category:電視劇改編電影](https://zh.wikipedia.org/wiki/Category:電視劇改編電影 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  各日『[信濃毎日新聞](https://zh.wikipedia.org/wiki/信濃毎日新聞 "wikilink")』テレビ欄参照。
-
 6.
-
 7.
 8.
-
 9.
-
 10.
 11.
-
 12.
 13.
-
 14.

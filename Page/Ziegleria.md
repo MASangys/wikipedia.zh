@@ -29,5 +29,4 @@
 [Category:美灰蝶族](https://zh.wikipedia.org/wiki/Category:美灰蝶族 "wikilink") [Category:Ziegleria](https://zh.wikipedia.org/wiki/Category:Ziegleria "wikilink")
 
 1.  Brower, Andrew V. Z. 2008. Ziegleria K. Johnson 1993. Groundstreaks. Version 24 March 2008 (under construction). <http://tolweb.org/Ziegleria/112962/2008.03.24> in The Tree of Life Web Project, <http://tolweb.org/>
-
 2.

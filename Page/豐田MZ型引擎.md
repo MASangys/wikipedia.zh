@@ -40,10 +40,7 @@ MZ系列的活塞由抗高溫[鉬](https://zh.wikipedia.org/wiki/鉬 "wikilink")
 [Category:豐田引擎與技術](https://zh.wikipedia.org/wiki/Category:豐田引擎與技術 "wikilink")
 
 1.
-
 2.  [Ward Auto: Guts & glory: ten best engine awards](http://wardsauto.com/news-amp-analysis/guts-glory-ten-best-engine-awards) 。
-
 3.
-
 4.
 5.

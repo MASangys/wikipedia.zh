@@ -181,7 +181,7 @@ Image:Suzuki WAGON R STINGRAY HYBRID X (DAA-MH55S).jpg Image:Suzuki WagonR HYBRI
 3.  [Suzuki Karimun Kotak](http://www.mobilmotorlama.com/2015/12/suzuki-karimun-kotak.html)。
 4.  [汽車之家：北斗星1.4升OBD版上市最低售4.98萬元](http://www.autohome.com.cn/news/200611/16227.html)。
 5.  [汽車之家：新標準升級北斗星現已上市售價47900元](http://www.autohome.com.cn/news/200803/35485.html)。
-6.  [車訊網：昌河鈴木北斗星1.4AMT上市](http://www.chexun.com/news/20090710/23631.html)。
+6.  [車訊網：昌河鈴木北斗星1.4AMT上市](http://www.chexun.com/news/20090710/23631.html) 。
 7.  [スズキ株式会社：「ワゴンＲ 車椅子送迎車」をフルモデルチェンジし新発売](http://www.suzuki.co.jp/release/a/a990304.htm)。
 8.  參考[スズキ株式会社：福祉車両「ワゴンＲ 車椅子送迎車」を一部改良し新発売](http://www.suzuki.co.jp/release/a/a991104.htm)。
 9.  [スズキ株式会社：軽四輪車「ワゴンＲ」、「アルト」、「Ｋｅｉ」、「ジムニー」の４車種にスズキ創立８０周年記念車を設定](http://www.suzuki.co.jp/release/a/a000518.htm)。

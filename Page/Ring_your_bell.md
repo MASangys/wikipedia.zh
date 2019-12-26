@@ -35,8 +35,7 @@
 
   - [索尼音樂娛樂介紹頁（初回盤A）](http://www.sonymusic.co.jp/artist/kalafina/discography/SECL-1691)
 
-[Category:Kalafina單曲](https://zh.wikipedia.org/wiki/Category:Kalafina單曲 "wikilink") [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:電視動畫主題曲](https://zh.wikipedia.org/wiki/Category:電視動畫主題曲 "wikilink") [Category:Fate/stay_night](https://zh.wikipedia.org/wiki/Category:Fate/stay_night "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
+[Category:Kalafina單曲](https://zh.wikipedia.org/wiki/Category:Kalafina單曲 "wikilink") [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:電視動畫主題曲](https://zh.wikipedia.org/wiki/Category:電視動畫主題曲 "wikilink") [Category:Fate系列](https://zh.wikipedia.org/wiki/Category:Fate系列 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
 
 1.
-
 2.

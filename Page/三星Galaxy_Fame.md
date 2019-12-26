@@ -5,8 +5,6 @@
 [Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink")
 
 1.  [Galaxy Fame - Overview | Samsung](http://www.samsung.com/ph/consumer/mobile-devices/smartphones/android/GT-S6810PWNXTC)
-
 2.  [Samsung Galaxy Fame S6810 - Full phone specifications](http://www.gsmarena.com/samsung_galaxy_fame_s6810-5279.php)
-
 3.
 4.  [Samsung Galaxy Fame Hands-On Review: Reasonable performance » Phone Reviews](http://www.phonesreview.co.uk/2013/08/04/samsung-galaxy-fame-hands-on-review-reasonable-performance/)

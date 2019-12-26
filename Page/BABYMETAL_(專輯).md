@@ -68,7 +68,7 @@ PPTF-8058</p></td>
 </tr>
 <tr class="odd">
 <td><p><ref>{{cite web|url=<a href="http://babymetal.jp/news/0/13191/%7Ctitle=1st">http://babymetal.jp/news/0/13191/|title=1st</a> album "BABYMETAL" is Top 10 Rock Album on iTunes chart in 7 countries</p></td>
-<td><p>|work=BABYMETAL|date=2014-03-09日|accessdate=2016-08-20|language=ja}}</ref></p></td>
+<td><p>|work=BABYMETAL|date=2014-03-09日|accessdate=2016-08-20|language=ja|archive-url=<a href="https://web.archive.org/web/20160305084656/http://www.babymetal.jp/news/0/13191/%7Carchive-date=2016-03-05%7Cdead-url=yes">https://web.archive.org/web/20160305084656/http://www.babymetal.jp/news/0/13191/|archive-date=2016-03-05|dead-url=yes</a>}}</ref></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/全世界" title="wikilink">全世界</a></p></td>
 <td><p>數位下載</p></td>
 <td><p>普通版</p></td>
@@ -362,37 +362,79 @@ EMU-0210400</p></td>
 專輯製作人為小林啟（），也是該團體2010年組建以來的製作人\[52\]。專輯的音樂結構很多樣化，融合日本偶像流行音樂、動漫音樂與各種重金屬音樂，應用了強力和弦、快速鼓點和死腔。\[53\]樂曲創作上也由二十人以上的臨時團隊組成，包括著名的日本音樂人如的、的、[VOCALOID](../Page/VOCALOID.md "wikilink")製作人、名製作人等等\[54\]。
 
 1.  **〈Babymetal Death〉**
-    融合[旋律死亡金屬](../Page/死亡旋律金屬.md "wikilink")、[鞭擊金屬與](https://zh.wikipedia.org/wiki/敲擊金屬 "wikilink")[交響金屬](../Page/交響金屬.md "wikilink")，這首以成員自我介紹為詞的曲子，經常作為現場演出的開場曲\[55\]。
+      -
+        融合[旋律死亡金屬](../Page/死亡旋律金屬.md "wikilink")、[鞭擊金屬與](https://zh.wikipedia.org/wiki/敲擊金屬 "wikilink")[交響金屬](../Page/交響金屬.md "wikilink")。
+        這首以成員自我介紹為詞的曲子，經常作為現場演出的開場曲\[55\]。
 2.  **〈女狐〉**
-    融合[民謠金屬](https://zh.wikipedia.org/wiki/民謠金屬 "wikilink")、[金屬蕊](../Page/金屬蕊.md "wikilink")、[力量金屬與典型的日本文化](https://zh.wikipedia.org/wiki/力量金屬 "wikilink")，運用日本傳統樂器太鼓與[三味線](https://zh.wikipedia.org/wiki/三味線 "wikilink")，以及融入[江戶時代民謠](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")〈[櫻花](../Page/樱花_\(民谣\).md "wikilink")〉、狐神祭典等元素\[56\]。它的主題是女權，為如[大和撫子](../Page/大和撫子.md "wikilink")這樣的傳統女性發聲。此曲錄製了36種不同版本後才定案發表\[57\]。至2016年底的Youtube點播數是3600萬次。
+      -
+        融合[民謠金屬](https://zh.wikipedia.org/wiki/民謠金屬 "wikilink")、[金屬蕊](../Page/金屬蕊.md "wikilink")、[力量金屬與典型的日本文化](https://zh.wikipedia.org/wiki/力量金屬 "wikilink")，運用日本傳統樂器太鼓與[三味線](https://zh.wikipedia.org/wiki/三味線 "wikilink")，以及融入[江戶時代民謠](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")〈[櫻花](../Page/樱花_\(民谣\).md "wikilink")〉、狐神祭典等元素\[56\]。
+        主題是女權，為如[大和撫子](../Page/大和撫子.md "wikilink")這樣的傳統女性發聲。
+        此曲錄製了36種不同版本後才定案發表\[57\]。
+        至2016年底的Youtube點播數是3600萬次。
 3.  **〈給我巧克力\!\!〉**
-    融合鞭擊金屬與[Techno](../Page/Techno.md "wikilink")。主題是少女為了保持身材控制飲食，但又禁不起巧克力的誘惑\[58\]。此曲在歐美地區極受歡迎，至2016年底的Youtube點播數是6400萬次。
+      -
+        融合鞭擊金屬與[Techno](../Page/Techno.md "wikilink")。
+        主題是少女為了保持身材控制飲食，但又禁不起巧克力的誘惑\[58\]。
+        此曲在歐美地區極受歡迎，至2016年底的Youtube點播數是6400萬次。
 4.  **〈Iine\!〉**
-    融合[電子核](https://zh.wikipedia.org/wiki/電子核 "wikilink")、[饒舌](../Page/饒舌.md "wikilink")、[青少年流行音樂](../Page/青少年流行音樂.md "wikilink")、[電子舞曲](../Page/電子舞曲.md "wikilink")、死腔和重金屬吉他。各種音樂風格在行進中交錯驟變\[59\]。至2016年底的Youtube點播數是1200萬次。
+      -
+        融合[電子核](https://zh.wikipedia.org/wiki/電子核 "wikilink")、[饒舌](../Page/饒舌.md "wikilink")、[青少年流行音樂](../Page/青少年流行音樂.md "wikilink")、[電子舞曲](../Page/電子舞曲.md "wikilink")、死腔和重金屬吉他。各種音樂風格在行進中交錯驟變\[59\]。
+        至2016年底的Youtube點播數是1200萬次。
 5.  **〈紅月-Akatsuki-〉**
-    融合力量金屬、[速度金屬以及](https://zh.wikipedia.org/wiki/速度金屬 "wikilink")[X JAPAN式的](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[敘事曲](https://zh.wikipedia.org/wiki/敘事曲 "wikilink")、雙吉他對位演奏法，被普遍認為是向X JAPAN的〈[紅](../Page/紅_\(X單曲\).md "wikilink")〉致敬。這首曲子由主唱SU-METAL獨唱，為抒情主題\[60\]。巴西「」網站評論說「這首歌有著[Helloween](../Page/萬聖節樂團.md "wikilink")、[Edguy和](../Page/刀鋒邊緣.md "wikilink")[騰雲樂團](../Page/騰雲樂團.md "wikilink")這種力量金屬名曲的感覺，且聽起來有如15年前的日本金屬樂」\[61\]。
+      -
+        融合力量金屬、[速度金屬以及](https://zh.wikipedia.org/wiki/速度金屬 "wikilink")[X JAPAN式的](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[敘事曲](https://zh.wikipedia.org/wiki/敘事曲 "wikilink")、雙吉他對位演奏法，被普遍認為是向X JAPAN的〈[紅](../Page/紅_\(X單曲\).md "wikilink")〉致敬。
+        [SU-METAL的獨唱曲](../Page/中元鈴香.md "wikilink")，為抒情主題\[60\]。
+        巴西「」網站評論說「這首歌有著[Helloween](../Page/萬聖節樂團.md "wikilink")、[Edguy和](../Page/刀鋒邊緣.md "wikilink")[騰雲樂團](../Page/騰雲樂團.md "wikilink")這種力量金屬名曲的感覺，且聽起來有如15年前的日本金屬樂」\[61\]。
 6.  **〈心跳☆早晨〉**
-    融合和重金屬的實驗曲，是BABYMETAL最早的歌曲。主題是關於少女早上賴床來不及出門的日常生活\[62\]。至2016年底的Youtube點播數是1700萬次。
+      -
+        融合和重金屬的實驗曲，是BABYMETAL最早的歌曲。
+        主題是關於少女早上賴床來不及出門的日常生活\[62\]。
+        至2016年底的Youtube點播數是1700萬次。
 7.  **〈撒嬌大作戰〉**
-    是一首標準[Limp Bizkit式的](../Page/林普巴茲提特.md "wikilink")[饒舌金屬](../Page/饒舌金屬.md "wikilink")、[新金屬](../Page/新金屬.md "wikilink")，的人聲音軌也在此曲出現\[63\]。這首是YUIMETAL與MOAMETAL組成子團體「BLACK BABYMETAL」的曲子，但SU-METAL的和聲也有短暫出現。主題是小女孩向父親撒嬌購買物品，隨著成員的年齡增長，近來這首曲子已不再於現場表演\[64\]。
+      -
+        是一首標準[Limp Bizkit式的](../Page/林普巴茲提特.md "wikilink")[饒舌金屬](../Page/饒舌金屬.md "wikilink")、[新金屬](../Page/新金屬.md "wikilink")，的人聲音軌也在此曲出現\[63\]。
+        [YUIMETAL](../Page/水野由結.md "wikilink")・[MOAMETAL](../Page/菊地最愛.md "wikilink")（BLACK BABYMETAL）的雙主唱曲，但SU-METAL的和聲也有短暫出現。
+        主題是小女孩向父親撒嬌購買物品，隨著成員的年齡增長，近來這首曲子已不再於現場表演\[64\]。
 8.  **〈4之歌〉**
-    詞曲由YUIMETAL與MOAMETAL創作，「BLACK BABYMETAL」的曲子。融合[雷鬼音樂](../Page/雷鬼音樂.md "wikilink")與重金屬\[65\]。
+      -
+        融合[雷鬼音樂](../Page/雷鬼音樂.md "wikilink")與重金屬\[65\]。
+        詞曲由YUIMETAL與MOAMETAL創作，YUIMETAL・MOAMETAL（BLACK BABYMETAL）的雙主唱曲。
 9.  **〈歡樂★午夜〉**
-    結合[迴響貝斯](../Page/迴響貝斯.md "wikilink")與金屬蕊，主題是少女抗拒門禁，夢想著參加玩樂派對\[66\]。
+      -
+        結合[迴響貝斯](../Page/迴響貝斯.md "wikilink")與金屬蕊。
+        主題是少女抗拒門禁，夢想著參加玩樂派對\[66\]。
 10. **〈Catch me if you can〉**
-    融合較重的[工業金屬](../Page/工業金屬.md "wikilink")，以及[Dir en grey與](../Page/Dir_en_grey.md "wikilink")[HIDE式的Cyber](https://zh.wikipedia.org/wiki/HIDE "wikilink") Rock\[67\]。主題是根據日本文學《[哭泣的紅鬼](../Page/哭泣的紅鬼.md "wikilink")》延伸而來。
+      -
+        融合較重的[工業金屬](../Page/工業金屬.md "wikilink")，以及[Dir en grey與](../Page/Dir_en_grey.md "wikilink")[HIDE式的Cyber](https://zh.wikipedia.org/wiki/HIDE "wikilink") Rock\[67\]。
+        主題是根據日本文學《[哭泣的紅鬼](../Page/哭泣的紅鬼.md "wikilink")》延伸而來。
 11. **〈惡夢的輪舞曲〉**
-    融合[前衛金屬](../Page/前衛金屬.md "wikilink")與敘事曲，SU-METAL獨唱，主題是憂鬱的意念\[68\]。
+      -
+        融合[前衛金屬](../Page/前衛金屬.md "wikilink")與敘事曲。
+        SU-METAL的獨唱曲。
+        主題是憂鬱的意念\[68\]。
 12. **〈HeadBanger\!\!〉**
-    融合鞭擊金屬（接近[灣區鞭擊金屬](../Page/灣區鞭擊金屬.md "wikilink")）、力量金屬與旋律死亡金屬。曲名代表重金屬音樂中甩頭的動作。主題是主唱在15歲生日膜拜金屬之神、透過金屬魂的降臨來擺脫過去\[69\]。音樂錄影帶中，用護頸來象徵金屬之神，以及現場演出的甩頭、昏倒等動作，來向因打鼓導致頸椎永久受損的[YOSHIKI致敬](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")。至2016年底的Youtube點播數是1100萬次。
+      -
+        融合鞭擊金屬（接近[灣區鞭擊金屬](../Page/灣區鞭擊金屬.md "wikilink")）、力量金屬與旋律死亡金屬。
+        曲名代表重金屬音樂中甩頭的動作。
+        主題是主唱在15歲生日膜拜金屬之神、透過金屬魂的降臨來擺脫過去\[69\]。
+        在音樂錄影帶中，用護頸來象徵金屬之神，以及現場演出的甩頭、昏倒等動作，來向因打鼓導致頸椎永久受損的[YOSHIKI致敬](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")。
+        至2016年底的Youtube點播數是1100萬次。
 13. **〈欺凌、絕對、不行〉**
-    融合速度金屬、力量金屬與旋律死亡金屬。主題是反霸凌、鼓勵弱者，描述在校園欺凌中自我與他人之間的抗爭\[70\]。此曲通常放在現場演出的最後一首。在限量版單曲裡收錄了[Arch Enemy前吉他手](../Page/邪神大敵.md "wikilink")彈奏電吉他的版本。至2016年底的Youtube點播數是1800萬次。
+      -
+        融合速度金屬、力量金屬與旋律死亡金屬。
+        主題是反霸凌、鼓勵弱者，描述在校園欺凌中自我與他人之間的抗爭\[70\]。
+        此曲通常放在現場演出的最後一首。
+        在限量版單曲裡收錄了[Arch Enemy前吉他手](../Page/邪神大敵.md "wikilink")彈奏電吉他的版本。
+        至2016年底的Youtube點播數是1800萬次。
 
 
 : <small>歐版／美版附贈曲目</small>
 
 1.  **〈Road of Resistance〉**
-    融合速度金屬、力量金屬、旋律交響金屬與[頌歌](../Page/頌歌.md "wikilink")，是與[DragonForce一起創作的曲子](https://zh.wikipedia.org/wiki/DragonForce "wikilink")，吉他部分由[李康敏](../Page/李康敏.md "wikilink")與負責\[71\]。主題是BABYMETAL的金屬抗爭之路\[72\]。至2016年底的Youtube點播數是1100萬次。
+      -
+        融合速度金屬、力量金屬、旋律交響金屬與[頌歌](../Page/頌歌.md "wikilink")，是與[DragonForce一起創作的曲子](https://zh.wikipedia.org/wiki/DragonForce "wikilink")，吉他部分由[李康敏](../Page/李康敏.md "wikilink")與負責\[71\]。
+        主題是BABYMETAL的金屬抗爭之路\[72\]。
+        至2016年底的Youtube點播數是1100萬次。
 
 ## 評價
 
@@ -1185,7 +1227,7 @@ EMU-0210400</p></td>
   -
   - [DISCOGRAPHY](http://www.toysfactory.co.jp/artist/babymetal/disco) - TOY'S FACTORY 官方網站
 
-  - [1st Album「BABYMETAL」發售決定DEATH！！](http://www.babymetal.jp/news/0/12357/) - 新聞 - BABYMETAL 官方網站
+  - [1st Album「BABYMETAL」發售決定DEATH！！](https://web.archive.org/web/20140201195232/http://www.babymetal.jp/news/0/12357/) - 新聞 - BABYMETAL 官方網站
 
   - [BABYMETAL的MusicBrainz音樂資料庫](https://musicbrainz.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550)
 
@@ -1194,65 +1236,43 @@ EMU-0210400</p></td>
 [Category:BABYMETAL](https://zh.wikipedia.org/wiki/Category:BABYMETAL "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:TOY'S_FACTORY音樂專輯](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY音樂專輯 "wikilink") [Category:CD店大獎獲獎作品](https://zh.wikipedia.org/wiki/Category:CD店大獎獲獎作品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
 8.
 9.
 10.
 11.
-
 12. [MARQUEE vol.101](https://zh.wikipedia.org/wiki/#MARQUEE101-memberinterview "wikilink") 19頁
-
 13.
-
 14.
 15.
 16.
 17.
 18.
 19.
-
 20.
 21.
-
 22.
-
 23.
-
 24.
-
 25.
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
 34.
-
 35.
 36.
 37.
 38.
-
 39.
 40.
 41.
@@ -1263,132 +1283,82 @@ EMU-0210400</p></td>
 46.
 47.
 48.
-
 49.
-
 50.
-
 51.
 52.
-
 53.
-
 54.
 55.
-
 56.
 57.
-
 58.
-
 59.
 60.
-
 61.
 62.
-
 63.
-
 64.
 65.
 66.
 67.
 68.
 69.
-
 70.
-
 71.
-
 72.
-
 73.
 74.
 75. [MARQUEE vol.101](https://zh.wikipedia.org/wiki/#MARQUEE101-memberinterview "wikilink") 18頁
-
 76.
 77.
 78.
 79.
 80.
 81.
-
 82.
 83.
-
 84.
 85.
-
 86.
-
 87.
-
 88.
 89.
 90.
-
 91.
-
 92.
-
 93.
-
 94.
-
 95.
-
 96.
-
 97.
-
 98.
-
 99.
-
 100.
 101.
-
 102.
 103.
 104.
 105.
 106.
-
 107.
-
 108.
 109.
-
 110.
-
 111.
-
 112.
-
 113.
-
 114.
-
 115.
-
 116.
-
 117.
-
 118.
-
 119.
-
 120.
-
 121.
-
 122.
-
 123.
-
 124.
-
 125.
 126.
 127.
@@ -1415,32 +1385,19 @@ EMU-0210400</p></td>
 148.
 149.
 150.
-
 151.
 152.
-
 153.
-
 154.
-
 155.
-
 156.
-
 157.
-
 158.
-
 159.
-
 160.
-
 161.
-
 162.
-
 163.
-
 164.
 165.
 166.
@@ -1453,20 +1410,14 @@ EMU-0210400</p></td>
 173.
 174.
 175.
-
 176.
-
 177.
-
 178.
-
 179.
-
 180.
 181.
 182.
 183.
 184.
 185.
-
 186.

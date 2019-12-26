@@ -13,18 +13,11 @@ Plex的媒體播放器本來是基於[Kodi](../Page/Kodi.md "wikilink")（當時
 [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:多媒體軟體](https://zh.wikipedia.org/wiki/Category:多媒體軟體 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  <http://www.theverge.com/2012/12/24/3801306/plex-desktop-app-rebranded-as-plex-home-theater-adds-airplay-in> Plex desktop app rebranded as Plex Home Theater
-
 6.
 7.  <https://blog.plex.tv/2015/10/20/introducing-the-plex-media-player/> Introducing the Plex Media Player
-
 8.
-
 9.

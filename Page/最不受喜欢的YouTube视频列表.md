@@ -42,7 +42,7 @@
 <td><p>†<strong><a href="../Page/2018年YouTube年度回顧.md" title="wikilink">YouTube年度回顾2018：人人掌控回顾</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/YouTube聚光灯" title="wikilink">YouTube聚光灯</a></p></td>
 <td><p>2018年12月6日</p></td>
-<td><p>1,614</p></td>
+<td><p>1,690</p></td>
 <td><p>86.30%</p></td>
 <td></td>
 </tr>
@@ -62,6 +62,15 @@
 <td><p>2017年5月30日</p></td>
 <td><p>430</p></td>
 <td><p>60.27%</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/despacito" title="wikilink">despacito</a></p></td>
+<td><p>路易斯馮西</p></td>
+<td><p>2017年1月12日</p></td>
+<td><p>428</p></td>
+<td><p>12.068%</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -200,47 +209,26 @@ PlotData =
 [Category:YouTube視訊](https://zh.wikipedia.org/wiki/Category:YouTube視訊 "wikilink") [Category:21世紀相關列表](https://zh.wikipedia.org/wiki/Category:21世紀相關列表 "wikilink") [Category:網際網路統計表](https://zh.wikipedia.org/wiki/Category:網際網路統計表 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
-
 19.
-
 20.
-
 21.
-
 22.
 23.
-
 24.

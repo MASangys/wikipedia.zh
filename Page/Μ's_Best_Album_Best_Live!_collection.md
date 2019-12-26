@@ -40,21 +40,13 @@ CD总共收录31首歌曲，其中第一张光盘14首，包含μ's以及其三�
 [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:Lantis發行的音樂專輯](https://zh.wikipedia.org/wiki/Category:Lantis發行的音樂專輯 "wikilink") [Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink") [Category:LoveLive\!音樂](https://zh.wikipedia.org/wiki/Category:LoveLive!音樂 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
 10.
-
 11.

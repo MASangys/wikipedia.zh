@@ -1,6 +1,6 @@
-**獅子LION**原名為獅子合唱團，是歌手[蕭敬騰](../Page/蕭敬騰.md "wikilink")在出道8年後所組的搖滾樂團。2015年8月蕭敬騰在籌備一張搖滾走向的個人專輯，經紀公司找了樂手[力Q編曲](https://zh.wikipedia.org/wiki/力Q "wikilink")，做了幾首歌後讓喜愛搖滾的蕭敬騰覺得不用樂團方式呈現會不夠真實，說服力也不足，遂與公司溝通後於2016年9月發行第一張樂團專輯LION，圓了出道多年來的組團夢。\[1\]\[2\]
+**獅子LION**，原名「**獅子合唱團**」，為歌手[蕭敬騰](../Page/蕭敬騰.md "wikilink")在出道8年後所組的搖滾樂團。2015年8月蕭敬騰在籌備一張個人專輯，找了經紀公司樂手[力Q編曲](https://zh.wikipedia.org/wiki/力Q "wikilink")，於製作過程中讓喜愛搖滾的蕭敬騰覺得不用樂團方式呈現會不夠真實，說服力也不足，遂與公司溝通後於2016年9月成功發行了第一張樂團專輯LION，圓了多年的樂團夢。\[1\]\[2\]
 
-團名由來是Lion這首歌在副歌的旋律很像Lion發音，最後就討論出簡單直接有力的Lion當團名。\[3\]
+團名由來是Lion這首歌在副歌的旋律很像Lion發音，最後就討論出簡單直接有力的Lion當團名。\[3\] 樂團以創作為訴求，曲風多元，伴隨[Hard rock](https://zh.wikipedia.org/wiki/Hard_rock "wikilink")、流行、金屬、抒情、民謠、爵士及電音等樂風。
 
 2019-05-20 宣布新成員並更名為**獅子LION**。
 
@@ -74,7 +74,7 @@
 
 ## 樂團歷程
 
-2016年成軍，現已發行了2張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2017年参加湖南卫视《[歌手2017](../Page/歌手2017.md "wikilink")》，獲得季軍。
+2016年成軍，現已發行了3張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2017年参加湖南卫视《[歌手2017](../Page/歌手2017.md "wikilink")》，獲得季軍。
 
 ## 音樂作品
 
@@ -98,7 +98,7 @@
 <td style="text-align: center;"><p>《<a href="https://zh.wikipedia.org/wiki/LION" title="wikilink">LION</a>》</p></td>
 <td style="text-align: center;"><p>華納唱片</p></td>
 <td style="text-align: center;"><ul>
-<li>蕭敬騰首次創立搖滾樂團的首張專輯。</li>
+<li>蕭敬騰創立搖滾樂團首張專輯，老蕭包辦詞曲全創作。</li>
 </ul></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -120,24 +120,30 @@
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
+<tr class="even">
+<td style="text-align: center;"><p>3rd</p></td>
+<td style="text-align: center;"><p>2019年11月29日</p></td>
+<td style="text-align: center;"><p>《<a href="https://zh.wikipedia.org/wiki/美麗、醜與我" title="wikilink">美麗、醜與我</a>》</p></td>
+<td style="text-align: center;"><ul>
+<li>獅子LION第二張原創專輯，全體團員共同創作。</li>
+</ul></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
 </tbody>
 </table>
 
-## 演出
+### 演出
 
-1.  (首度亮相) [HITO流行音樂獎頒獎典禮](https://zh.wikipedia.org/wiki/HITO流行音樂獎頒獎典禮 "wikilink") 2016年6月5日/台北小巨蛋
-2.  戶外新歌演唱會 2016年10月8日/新北市市民廣場
-3.  ELLE 25週年公益演唱會 2016年10月21日
-4.  校園演唱會 2016年10月28日/[南山中學校慶演唱會](https://zh.wikipedia.org/wiki/:新北市私立南山高級中學 "wikilink")
-5.  [新北市歡樂耶誕城](../Page/新北市歡樂耶誕城.md "wikilink") 2016年12月18日
-6.  花蓮太平洋觀光節 2017年1月1日
-7.  [2017超級巨星紅白藝能大賞](../Page/2017超級巨星紅白藝能大賞.md "wikilink")紅隊
-8.  雪佛蘭探界者Equinox上市發布會 2017年4月7日
-9.  校園演唱會 2017年12月3日/[建國中學校慶舞會ATLANTIS](../Page/臺北市立建國高級中學.md "wikilink")
-10. 湖南衛視 2017年12月31日 跨年演唱會 - 《It's My Life》 《LION》
-11. 第八屆京都念慈菴[全球流行音樂金榜](https://zh.wikipedia.org/wiki/全球流行音樂金榜 "wikilink")－《我們的愛》
-12. 2018年12月1日「桃園鐵玫瑰音樂節」/桃園高鐵站前廣場
-13. (新成員加入後首度亮相) [HITO流行音樂獎頒獎典禮](https://zh.wikipedia.org/wiki/HITO流行音樂獎頒獎典禮 "wikilink") 2019年6月2日/台北小巨蛋
+| 年份         | 演出                                                                      | 附註               |
+| ---------- | ----------------------------------------------------------------------- | ---------------- |
+| 2016年      | [hito流行音樂獎頒獎典禮](https://zh.wikipedia.org/wiki/hito流行音樂獎頒獎典禮 "wikilink") | 首度亮相             |
+| 2016年10月8日 | 戶外新歌演唱會                                                                 | 新北市市民廣場          |
+| 2017年      | [MV《新鹼民Song啦！》](https://www.youtube.com/watch?v=rN6fU9LxD84)            | 維他露基金會x獅子合唱團公益歌曲 |
+| 2018年      | [閃亮的年代](https://www.youtube.com/watch?v=AkfUvPSIz7c)                    | 公視               |
+| 2018年      | [2018 hito流行音樂獎-最受歡迎樂團](https://www.youtube.com/watch?v=7WuAXVtnnRE)    | feat.羅大佑         |
+| 2019年      | [2019 hito流行音樂獎表演](https://www.youtube.com/watch?v=LXlLPLNosd4)         | 新成員加入後首度亮相       |
+|            |                                                                         |                  |
 
 ## 戲劇作品
 

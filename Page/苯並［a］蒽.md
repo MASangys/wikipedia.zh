@@ -11,7 +11,5 @@
 [Category:多环芳香烃](https://zh.wikipedia.org/wiki/Category:多环芳香烃 "wikilink")
 
 1.  Benzo\[a\]anthracene \[MAK Value Documentation, 2012\]
-
 2.  Polycyclic aromatic hydrocarbons (PAH) \[MAK Value Documentation, 2012\]
-
 3.

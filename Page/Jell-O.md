@@ -4,7 +4,7 @@
 
 ## 外部連結
 
-  - [Official Kraft Jell-O website](http://www.jello.com)
+  - [Official Kraft Jell-O website](https://web.archive.org/web/20150116012101/http://www.jello.com/)
   - [Upstate, Where It Was First Made, Unwavering Devotion to Jell-O](http://www.nytimes.com/2008/05/04/nyregion/04jello.html?ex=1210564800&en=11a9dce77358ac6b&ei=5070) New York Times May 4, 2008
   - [Jell-O Gallery, Le Roy Historical Society, Le Roy, NY](http://www.jellogallery.org/)
   - [*How to Make Jello*](http://www.wikihow.com/Make-Jello)

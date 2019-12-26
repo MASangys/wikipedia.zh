@@ -32,24 +32,14 @@
 [Category:巴基斯坦LGBT](https://zh.wikipedia.org/wiki/Category:巴基斯坦LGBT "wikilink") [Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.

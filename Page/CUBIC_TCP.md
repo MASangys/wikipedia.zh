@@ -23,4 +23,4 @@ CUBIC TCP在[Linux](../Page/Linux.md "wikilink")内核2.6.19及更高版本中�
 
 [Category:TCP拥塞控制](https://zh.wikipedia.org/wiki/Category:TCP拥塞控制 "wikilink")
 
-1.  [1](http://www4.ncsu.edu/~rhee/export/bitcp/cubic-paper.pdf) S. Ha, I. Rhee, & L. Xu, "CUBIC: A New TCP-Friendly High-Speed TCP Variant", PDF copy of journal article
+1.  [1](http://www4.ncsu.edu/~rhee/export/bitcp/cubic-paper.pdf)  S. Ha, I. Rhee, & L. Xu, "CUBIC: A New TCP-Friendly High-Speed TCP Variant", PDF copy of journal article

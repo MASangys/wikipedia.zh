@@ -122,18 +122,11 @@ STL也能在CAD、CAM和計算環境（如：[Mathematica](https://zh.wikipedia.
 [Category:電腦圖學](https://zh.wikipedia.org/wiki/Category:電腦圖學 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  . 這格式有許多名字，如："Standard Triangle Language"、"STereolithography Language"和"Stereolithography Tesselation Language"。第55頁陳述：「立體光刻和3D Systems軟體公司的創立人說：『這副檔名是因為STereoLithography。』」
-
 5.  第6章，快速原型格式(Rapid Prototyping Formats)。第237頁6.2節STL檔問題、6.4節STL檔修復：「STL (STeroLithography)檔，如事實上的標準，已被廣泛（即使不是全部）使用在快速原型系統。("The STL (STeroLithography) file, as the de facto standard, has been used in many, if not all, rapid prototyping systems.")」
-
 6.
-
 7.  Fabbers.com, The StL Format: Standard Data Format for Fabbers, reprinted from Marshall Burns, Automated Fabrication, <http://www.ennex.com/~fabbers/StL.asp> 描述：「所代表的對象必須位於全正的[卦限](../Page/卦限.md "wikilink")。換言之，所有的頂點坐標必須是正數（非負且非零）。STL檔不含任何尺度信息；計量單位為任意的。(The object represented must be located in the all-positive octant. In other words, all vertex coordinates must be positive-definite (nonnegative and nonzero) numbers. The StL file does not contain any scale information; the coordinates are in arbitrary units.)
-
 8.
 9.

@@ -29,7 +29,7 @@
 7.  [韓式雪糕店Honey Granny三間分店同時遭刑毁　打爆玻璃淋紅油](http://news.mingpao.com/ins/instantnews/web_tc/article/20160107/s00001/1452162513316)[明報](../Page/明報.md "wikilink") 2016年1月7日
 8.  [「上海仔」女友賣軟雪糕大腸菌又超標 9個月內第2宗](http://hk.apple.nextmedia.com/realtime/news/20160429/55046193?top=4h)[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink") 2016年4月29日
 9.  [九龍城Honey Granny軟雪糕大腸菌群含量超標](http://topick.hket.com/article/1417858/%E4%B9%9D%E9%BE%8D%E5%9F%8EHoney%20Granny%E8%BB%9F%E9%9B%AA%E7%B3%95%E5%A4%A7%E8%85%B8%E8%8F%8C%E7%BE%A4%E5%90%AB%E9%87%8F%E8%B6%85%E6%A8%99)[香港經濟日報](../Page/香港經濟日報.md "wikilink") 2016年4月29日
-10. [Honey Granny牛乳味軟雪糕大腸菌超標](http://toronto.singtao.ca/839230/2016-04-29/post-honey-granny%E7%89%9B%E4%B9%B3%E5%91%B3%E8%BB%9F%E9%9B%AA%E7%B3%95%E5%A4%A7%E8%85%B8%E8%8F%8C%E8%B6%85%E6%A8%99/?variant=zh-hk)[星島日報](../Page/星島日報.md "wikilink") 2016年4月29日
+10. [Honey Granny牛乳味軟雪糕大腸菌超標](http://toronto.singtao.ca/839230/2016-04-29/post-honey-granny%E7%89%9B%E4%B9%B3%E5%91%B3%E8%BB%9F%E9%9B%AA%E7%B3%95%E5%A4%A7%E8%85%B8%E8%8F%8C%E8%B6%85%E6%A8%99/?variant=zh-hk) [星島日報](../Page/星島日報.md "wikilink") 2016年4月29日
 11. [上海仔女兒及女友經營雪糕大腸桿菌又超標](http://orientaldaily.on.cc/cnt/news/20160430/00176_020.html)[東方日報](https://zh.wikipedia.org/wiki/東方日報 "wikilink") 2016年4月30日
 12. [上海仔女兒及女友經營　Honey Granny雪糕含菌](http://hk.on.cc/hk/bkn/cnt/news/20160429/bkn-20160429212203608-0429_00822_001.html)[on.cc](https://zh.wikipedia.org/wiki/on.cc "wikilink") 2016年4月29日
 13. [Honey Granny衞生成疑 食客卻步](http://orientaldaily.on.cc/cnt/news/20160501/00176_065.html)[東方日報](https://zh.wikipedia.org/wiki/東方日報 "wikilink") 2016年5月1日

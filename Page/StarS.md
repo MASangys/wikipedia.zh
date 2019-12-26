@@ -66,8 +66,8 @@
 
 <!-- end list -->
 
-1.  [井上芳雄＆浦井健治＆山崎育三郎が新ユニット「StarS」を結成　来年5月にコンサートを開催](http://www.theaterguide.co.jp/theater_news/2012/09/19_02.php)
-2.  [井上芳雄＆浦井健治＆山崎育三郎のユニット「StarS」の武道館公演が決定](http://www.theaterguide.co.jp/theater_news/2013/07/05.php)
+1.
+2.
 3.  [StarS Profile](http://stars-info.jp/profile)
-4.  [佐渡裕、StarS、八千草薫らが「第5回岩谷時子賞」を受賞](http://www.theaterguide.co.jp/theater_news/2014/05/16_03.php)
+4.
 5.  [StarSのコメディ番組始動！福田雄一演出に井上芳雄「覚悟決めた」](http://natalie.mu/stage/news/174258)

@@ -104,26 +104,26 @@
 <tr class="even">
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><strong>已退出一天成員</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/黃智雯.md" title="wikilink">MANDY</a></p></td>
-</tr>
 </tbody>
 </table>
 
 ### 子團
 
-·[gugudan SEMINA](https://zh.wikipedia.org/wiki/gugudan_SEMINA "wikilink")
+  - [gugudan SEMINA](https://zh.wikipedia.org/wiki/gugudan_SEMINA "wikilink")
+
+<!-- end list -->
 
   -
     成員：[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[金娜英](../Page/娜英.md "wikilink")，2018年7月10日出道，出道專輯為《SEMINA - SINGLE》，而主打曲為《SEMINA》。
 
-·[gugudan OGUOGU](https://zh.wikipedia.org/wiki/gugudan_OGUOGU "wikilink")（已解散）
+<!-- end list -->
+
+  - [gugudan OGUOGU](https://zh.wikipedia.org/wiki/gugudan_OGUOGU "wikilink")（已解散）
+
+<!-- end list -->
 
   -
-    成員:[康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[HYEYEON](https://zh.wikipedia.org/wiki/HYEYEON "wikilink")
+    成員：[康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[HYEYEON](https://zh.wikipedia.org/wiki/HYEYEON "wikilink")
 
 ### 成員變遷表
 
@@ -181,6 +181,7 @@ LineData =
 
 `layer:back`
 ` color:album`
+`  at:06/28/2016`
 `  at:02/27/2017`
 `  at:08/10/2017`
 `  at:11/08/2017`
@@ -192,14 +193,222 @@ LineData =
 
 **注：**
 
-## 影視作品
+## 音樂作品
+
+### 迷你專輯
+
+<table>
+<thead>
+<tr class="header">
+<th><p>專輯</p></th>
+<th><p>專輯資料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p>《<strong>Act.1 The Little Mermaid</strong>》</p>
+<ul>
+<li>發行日期：2016年6月28日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>2nd</strong></p></td>
+<td><p>《<strong>Act.2 Narcissus</strong>》</p>
+<ul>
+<li>發行日期：2017年2月27日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>3rd</strong></p></td>
+<td><p>《<strong>Act.5 New Action</strong>》</p>
+<ul>
+<li>發行日期：2018年11月16日</li>
+<li>語言：韓語</li>
+<li>備註：八人組後首次發行的專輯</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 單曲專輯
+
+<table>
+<thead>
+<tr class="header">
+<th><p>單曲</p></th>
+<th><p>單曲資料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p>《<strong>Act.3 Chococo Factory</strong>》</p>
+<ul>
+<li>發行日期：2017年11月8日</li>
+<li>語言：韓語</li>
+<li>備註：SOYEE有參與專輯錄音，但因肩傷而未參與專輯活動</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>2nd</strong></p></td>
+<td><p>《<strong>Act.4 Cait Sith</strong>》</p>
+<ul>
+<li>發行日期：2018年2月1日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 音樂企劃
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>單曲資料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>2016</strong></p></td>
+<td><p>《<strong>Jellybox Jelly Christmas 2016</strong>》</p>
+<ul>
+<li>發行日期：2016年12月13日</li>
+<li>語言：韓語</li>
+<li>參與藝人： <a href="../Page/徐仁國.md" title="wikilink">徐仁國</a>、<a href="../Page/VIXX.md" title="wikilink">VIXX</a>、<a href="../Page/朴貞雅.md" title="wikilink">朴貞雅</a>、<a href="../Page/金奎善.md" title="wikilink">金奎善</a>、<a href="../Page/金藝元.md" title="wikilink">金藝元</a>、gugudan、朴允夏、祉潏</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>2017</strong></p></td>
+<td><p>《<strong>Story About : 썸, 한달 Episode 1</strong>》</p>
+<ul>
+<li>發行日期：2017年5月31日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>2018</strong></p></td>
+<td><p>《<strong>투유 프로젝트 - 슈가맨2 Part.1</strong>》</p>
+<ul>
+<li>發行日期：2018年1月15日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 電視原聲帶
+
+| 年份                                                                                                                          | 電視劇                                                                                                   | 歌曲           | 參與成員 | 備註 |
+| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------ | ---- | -- |
+| 2016年                                                                                                                       | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink") 《[浪漫醫生金師傅](../Page/浪漫醫生金師傅.md "wikilink")》    | Forever Love | 海彬   |    |
+| 2017年                                                                                                                       | [SBS](../Page/SBS_\(韓國\).md "wikilink") 《[藍色海洋的傳說](https://zh.wikipedia.org/wiki/藍色海洋的傳說 "wikilink")》 | 萬一           | 世正   |    |
+| [KBS](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") 《[學校2017](../Page/學校2017.md "wikilink")》                            | 相信這一瞬間                                                                                                | 全員           |      |    |
+| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") 《[20世紀少男少女](../Page/20世紀少男少女.md "wikilink")》                    | 日記 (2001 Remix Ver.)                                                                                  | 全員           |      |    |
+| [tvN](../Page/TVN.md "wikilink") 《[今生是第一次](../Page/今生是第一次.md "wikilink")》                                                   | Everyday                                                                                              | 海彬           |      |    |
+| 2018年                                                                                                                       | [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")《[操心](../Page/操心.md "wikilink")》                   | 心動預報         | HANA |    |
+| [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[Radio Romance》](../Page/Radio_Romance.md "wikilink")              | 在路上                                                                                                   | 海彬           |      |    |
+| [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[陽光先生](../Page/陽光先生.md "wikilink")》                                     | 情人                                                                                                    | 世正           |      |    |
+| [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[雞龍仙女傳](../Page/雞龍仙女傳.md "wikilink")[》](../Page/陽光先生.md "wikilink")     | Peach Paradise                                                                                        | 美娜           |      |    |
+| 2019年                                                                                                                       | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[赤月青日](../Page/赤月青日.md "wikilink")》       | 從那時起         | 海彬   |    |
+| [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[偉大的Show](../Page/偉大的Show.md "wikilink")[》](../Page/赤月青日.md "wikilink") | 不會來的你                                                                                                 | 海彬           |      |    |
+
+
+\== 影視作品 ==
+
+## 演唱會
+
+### 演唱會
+
+| 日期         | 活動名稱                         | 舉行地點      |
+| ---------- | ---------------------------- | --------- |
+| 2018年12月1日 | gugudan 1st Concert \[Play\] | 梨花女子大學大講堂 |
+| 2018年12月2日 |                              |           |
+
+### 見面會
+
+| 日期         | 活動名稱                                                          | 舉行地點                         |
+| ---------- | ------------------------------------------------------------- | ---------------------------- |
+| 2016年6月28日 | gugudan Debut Showcase Welcome to Wonderland\!                | YES24 LIVE HALL              |
+| 2017年2月28日 | gugudan \<Act.2 Narcissus\> A Girl Like Me Comback Showcase   | YES24 LIVE HALL              |
+| 2017年9月9日  | gugudan 1st fanmeeting \~ 9월 9일의 구구단짝 \~                      | Woori Financial Art Hall     |
+| 2017年9月27日 | gugudan Live Show in Singapore 2017                           | The Mastercard Sands Theater |
+| 2017年11月8日 | gugudan 1st SINGLE \<Act.3 Chococo Factory\> Comback Showcase | Comback Showcase             |
+| 2018年3月25日 | 2018 gu9udan 1st ASIA TOUR LIVE SHOW in HONGKONG              | Macpherson Stadium           |
+| 2018年9月21日 | gugudan 1st Showcase & Fanmeeting "Dear Friend"               | マイナビBLITZ AKASAKA            |
+| 2018年11月6日 | gugudan 3rd MINI ALBUM \<Act.5 New Action\> Showcase          | YES24 LIVE HALL              |
+| 2018年12月7日 | gugudan 1st Tour in Japan ～PLAY                               | Zepp Osaka Bayside           |
+| 2018年12月8日 | CLUB CITTA'                                                   |                              |
+
+### 特別活動
+
+| 日期          | 活動名稱                                        | 舉行地點                 | 備註             |
+| ----------- | ------------------------------------------- | -------------------- | -------------- |
+| 2016年8月21日  | HAPPY 365DAY\! gugudan8月生日宴                 | Seoul Metro人才開發院多目的廳 | 世正、海彬、慧妍生日會    |
+| 2016年11月28日 | gugudan birthday Fanmeeting \<2상한 4라의 9구단\> | Howon Art Hall       | SOYEE、娜英、美娜生日會 |
+
+### 其他大型公演
+
+| 日期          | 活動名稱                                    | 舉行地點                     |
+| ----------- | --------------------------------------- | ------------------------ |
+| 2016年9月11日  | World Friends Music Festival            | 華城綜合體育場                  |
+| 2016年10月2日  | Rookie Asia Mstyle Show                 | 大邱EXCO                   |
+| 2017年4月22日  | LET’S PLAY 태양 CONCERT IN SEOUL          | 奧林匹克公園                   |
+| 2017年6月3日   | 2017 DREAM CONCERT                      | 首爾世界盃競技場                 |
+| 2017年7月12日  | 2017 KBEE, Hongkong                     | AsiaWorld-Expo           |
+| 2017年7月28日  | 2017 High1 Cool 夏季演唱會                   | 江原樂園草坪廣場                 |
+| 2017年9月20日  | 1st SORIBADA BEST K-MUSIC AWARDS        | 首爾蠶室綜合運動場                |
+| 2017年9月30日  | Fandom School 2017 Korea Music Festival | 首爾高尺天空巨蛋                 |
+| 2017年11月15日 | 2017 Asia Artist Award                  | 首爾蠶室綜合運動場                |
+| 2017年11月28日 | 第五屆大韓民國文化演藝大獎                           | 汝矣島韓華63城市                |
+| 2018年2月17日  | 2018 平昌冬季奧運會慶祝 K-POP演唱會                 | 江陵奧林匹克公園                 |
+| 2018年4月13日  | KCON 2018 JAPAN                         | 日本幕張展覽館                  |
+| 2018年8月2日   | 2018 Korea Music Festival               | 首爾高尺 Sky dome            |
+| 2018年9月7日   | Hallyu Pop Fest 2018                    | Singapore Indoor Stadium |
+
+## 代言
+
+### 品牌代言
+
+| 年份                | 名稱                | 參與成員            | 備註     |
+| ----------------- | ----------------- | --------------- | ------ |
+| 2016年             | 法國運動鞋FAGUO        | 全員              | \[22\] |
+| 2017年             | 線上遊戲 海戰1942       |                 |        |
+| 餐飲 T.G.I FRIDAYS  |                   |                 |        |
+| 2018年             | 便利商店快遞 GS Postbox | MIMI、HANA、世正、慧妍 |        |
+| 健康食品 Nature Dream | 世正、美娜             |                 |        |
 
 ### 宣傳大使
 
-| 2016年           |
-| --------------- |
-| 名稱              |
-| MAMA聯同出口商談會宣傳大使 |
+| 年份    | 名稱              | 參與成員 |
+| ----- | --------------- | ---- |
+| 2016年 | MAMA聯同出口商談會宣傳大使 | 世正   |
+
+## 獎項
+
+### 頒獎典禮獎項
+
+| 年份                                                    | 獎項                                                              |
+| ----------------------------------------------------- | --------------------------------------------------------------- |
+| 2017年                                                 | [Soribada最佳音樂大獎](../Page/Soribada最佳音樂大獎.md "wikilink") 【新韓流表演賞】 |
+| [亞洲明星盛典](../Page/亞洲明星盛典.md "wikilink") 【Rising Star獎】 |                                                                 |
+| 大韓民國文化演藝大獎 【K-POP 部門】                                 |                                                                 |
+| 2018年                                                 | [亞洲明星盛典](../Page/亞洲明星盛典.md "wikilink") 【New Wave獎】              |
 
 ## 註釋與參考資料
 
@@ -230,22 +439,24 @@ LineData =
   -
   -
   -
+
+  -
   -
 [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink")
 
-1.  [世正、美娜確定加入 Jellyfish 新女團](http://kpopn.niusnews.com/=K19cxnn6)
-2.  [《101》金娜英加入 Jellyfish 女團](http://kpopn.niusnews.com/=K0hkwaw2)
-3.  [gx9 首波成員概念照公開！](http://kpopn.niusnews.com/=K0gwkf81)
-4.  [gx9 第二波成員概念照公開！](http://kpopn.niusnews.com/=K0hkg232)
-5.  [gx9 gx9 第三波成員概念照公開！](http://kpopn.niusnews.com/=K380ff81)
-6.  [Jellyfish 新女團團名、團體概念照公開](http://kpopn.niusnews.com/=K3181i83)
-7.  [gugudan 開通官方社群、公開問候影片](http://kpopn.niusnews.com/=K3808j11)
-8.  [gugudan 專輯封面照、主打歌歌名公開](http://kpopn.niusnews.com/=K03ga413)
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
 9.
-10. [gugudan 概念照: HANA,MIMI,Na Young](http://kpopn.niusnews.com/=K04kg444)
-11. [gugudan 概念照：Sally,美娜,Hye Yeon](http://kpopn.niusnews.com/=K04khwg4)
-12. [gugudan 概念照：So Yee,世正,Hae Bin](http://kpopn.niusnews.com/=K0h1wwg1)
-13. [gugudan《Narcissus》團體概念照](http://kpopn.niusnews.com/=K2sz5es2)
+10.
+11.
+12.
+13.
 14.
 15.
 16.
@@ -253,4 +464,5 @@ LineData =
 18.
 19.
 20. [뀨](https://twitter.com/gu9udan/status/747794374155599874) twitter
-21. [gugudan 粉絲名：Dear Friend！](http://kpopn.niusnews.com/=K2ed7s61) kpopn
+21. [gugudan 粉絲名：Dear Friend！](http://kpopn.niusnews.com/=K2ed7s61)  kpopn
+22.

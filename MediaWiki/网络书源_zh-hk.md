@@ -1,6 +1,6 @@
-您可以在本頁用這本書的[ISBN號](../Page/国际标准书号.md "wikilink")<b></b>透過下面的圖書館、書店，或者是其他的圖書網站尋找此書。
+您可以在本頁用這本書的[ISBN號](../Page/国际标准书号.md "wikilink")<b></b>通過下面的圖書館、書店，或者是其他的圖書網站尋找此書。
 
-如果您是透過點擊維基百科某個頁面上的ISBN號連結來到本頁，那麼下面的標有「**尋找此書**」的連結將自動用該ISBN號尋找指定的書籍。
+如果您是通過點擊維基百科某個頁面上的ISBN號連結來到本頁，那麼下面的標有「**尋找此書**」的連結將自動用該ISBN號尋找指定的書籍。
 
 若您希望查詢其他的ISBN號，請在[ISBN搜尋頁面中輸入查詢](https://zh.wikipedia.org/wiki/Special:网络书源 "wikilink")。空格和連接線不會影響查詢的結果。<span class="Z3988" title="ctx_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:book&rft.isbn={{{1|}}}">  </span>
 
@@ -10,7 +10,7 @@
   - 使用[Special:網絡書源可以手工尋找某個ISBN號](https://zh.wikipedia.org/wiki/Special:網絡書源 "wikilink")
   - 不同書的ISBN號不同，同一本書的不同版本其ISBN號也可能不同。參看下面的[xISBN尋找其他版本](https://zh.wikipedia.org/wiki/#查找其他版本 "wikilink")。
   - 維基百科與各書商並無任何關係，下面的列表不代表某種認可。
-  - 根據[國際標準書號的編碼規則](https://zh.wikipedia.org/wiki/國際標準書號 "wikilink")，書籍的發行國標記於ISBN‐10第一位往後或ISBN‐13第四位往後，部分國家程式碼如下：
+  - 根據[國際標準書號的編碼規則](https://zh.wikipedia.org/wiki/國際標準書號 "wikilink")，書籍的發行國標記於ISBN‐10第一位往後或ISBN‐13第四位往後，部分國家代碼如下：
       - ：7
 
       - ：957、986
@@ -27,7 +27,7 @@
 
       - ：4
 
-      - 更多國家程式碼請見[這裏](https://zh.wikipedia.org/wiki/国际标准书号#13.E4.BD.8D.E5.9C.8B.E9.9A.9B.E6.A8.99.E6.BA.96.E6.9B.B8.E8.99.9F.EF.BC.88ISBN-13.EF.BC.89.E7.9A.84.E6.A7.8B.E6.88.90 "wikilink")
+      - 更多國家代碼請見[這裏](https://zh.wikipedia.org/wiki/国际标准书号#13.E4.BD.8D.E5.9C.8B.E9.9A.9B.E6.A8.99.E6.BA.96.E6.9B.B8.E8.99.9F.EF.BC.88ISBN-13.EF.BC.89.E7.9A.84.E6.A7.8B.E6.88.90 "wikilink")
 
 ## 網絡圖書資訊
 
@@ -220,7 +220,7 @@
 
 <!-- end list -->
 
-  - 透過[英語維基百科上的站外書源](https://zh.wikipedia.org/wiki/:en: "wikilink")[}}}](https://zh.wikipedia.org/wiki/:en:Special:Booksources/{{{1 "wikilink")
+  - 通過[英語維基百科上的站外書源](https://zh.wikipedia.org/wiki/:en: "wikilink")[}}}](https://zh.wikipedia.org/wiki/:en:Special:Booksources/{{{1 "wikilink")
   - priceOwl：\[<http://www.priceowl.com/books/isbn/>/?site=wikipedia 尋找此書\]
   - AddALL：\[<http://www.addall.com/New/Partner.cgi?query=>\&type=ISBN 尋找此書\]
   - BooksPrice：\[<http://www.booksprice.com/compare.do?inputData=>\&Submit2.x=0\&Submit2.y=0\&Submit2=Search\&searchType=isbn 尋找此書\]
@@ -235,7 +235,7 @@
 
 <!-- end list -->
 
-  - 透過[法語維基百科上的站外書源](https://zh.wikipedia.org/wiki/:fr: "wikilink")[}}}](https://zh.wikipedia.org/wiki/:fr:Special:Booksources/{{{1 "wikilink")
+  - 通過[法語維基百科上的站外書源](https://zh.wikipedia.org/wiki/:fr: "wikilink")[}}}](https://zh.wikipedia.org/wiki/:fr:Special:Booksources/{{{1 "wikilink")
 
 ### 德文圖書
 
@@ -244,7 +244,7 @@
 
 <!-- end list -->
 
-  - 透過[德語維基百科上的站外書源](https://zh.wikipedia.org/wiki/:de: "wikilink")[}}}](https://zh.wikipedia.org/wiki/:de:Special:Booksources/{{{1 "wikilink")
+  - 通過[德語維基百科上的站外書源](https://zh.wikipedia.org/wiki/:de: "wikilink")[}}}](https://zh.wikipedia.org/wiki/:de:Special:Booksources/{{{1 "wikilink")
 
 ### 西班牙文圖書
 
@@ -253,7 +253,7 @@
 
 <!-- end list -->
 
-  - 透過[西班牙語維基百科上的站外書源](https://zh.wikipedia.org/wiki/:es: "wikilink")[}}}](https://zh.wikipedia.org/wiki/:es:Special:Booksources/{{{1 "wikilink")
+  - 通過[西班牙語維基百科上的站外書源](https://zh.wikipedia.org/wiki/:es: "wikilink")[}}}](https://zh.wikipedia.org/wiki/:es:Special:Booksources/{{{1 "wikilink")
 
 ### 日文圖書
 
@@ -262,7 +262,7 @@
 
 <!-- end list -->
 
-  - 透過[日語維基百科上的站外書源](https://zh.wikipedia.org/wiki/:ja: "wikilink")[}}}](https://zh.wikipedia.org/wiki/:ja:Special:Booksources/{{{1 "wikilink")
+  - 通過[日語維基百科上的站外書源](https://zh.wikipedia.org/wiki/:ja: "wikilink")[}}}](https://zh.wikipedia.org/wiki/:ja:Special:Booksources/{{{1 "wikilink")
 
 ### 意大利語圖書
 
@@ -271,7 +271,7 @@
 
 <!-- end list -->
 
-  - 透過[意大利語維基百科上的站外書源](https://zh.wikipedia.org/wiki/:it: "wikilink")[}}}](https://zh.wikipedia.org/wiki/:it:Special:Booksources/{{{1 "wikilink")
+  - 通過[意大利語維基百科上的站外書源](https://zh.wikipedia.org/wiki/:it: "wikilink")[}}}](https://zh.wikipedia.org/wiki/:it:Special:Booksources/{{{1 "wikilink")
 
 ### 芬蘭語圖書
 
@@ -280,7 +280,7 @@
 
 <!-- end list -->
 
-  - 透過[芬蘭語維基百科上的站外書源](https://zh.wikipedia.org/wiki/:fi: "wikilink")[}}}](https://zh.wikipedia.org/wiki/:fi:Special:Booksources/{{{1 "wikilink")
+  - 通過[芬蘭語維基百科上的站外書源](https://zh.wikipedia.org/wiki/:fi: "wikilink")[}}}](https://zh.wikipedia.org/wiki/:fi:Special:Booksources/{{{1 "wikilink")
 
 ## 尋找其他版本
 
@@ -293,7 +293,7 @@
 
 ## 工具
 
-  - ISBN程式碼格式的\[//tools.wmflabs.org/isbn/IsbnCheckAndFormat?ISBN=\&Test=<http://210.82.118.4:8080/F/?func=find-m%26request=MAGIC%26find_code=ISB%26adjacent=Y%26FIND_BASE=NLC09%26FIND_BASE=NLC01%26filter_code_1=WLN%26filter_request_1=%26filter_code_2=WYR%26filter_request_2=%26filter_code_3=WFM%26filter_request_3=%26filter_code_4=WSL%26filter_request_4=%26x=30%26y=0> 檢查工具\]
+  - ISBN代碼格式的\[//tools.wmflabs.org/isbn/IsbnCheckAndFormat?ISBN=\&Test=<http://210.82.118.4:8080/F/?func=find-m%26request=MAGIC%26find_code=ISB%26adjacent=Y%26FIND_BASE=NLC09%26FIND_BASE=NLC01%26filter_code_1=WLN%26filter_request_1=%26filter_code_2=WYR%26filter_request_2=%26filter_code_3=WFM%26filter_request_3=%26filter_code_4=WSL%26filter_request_4=%26x=30%26y=0> 檢查工具\]
 
 ## 參見
 

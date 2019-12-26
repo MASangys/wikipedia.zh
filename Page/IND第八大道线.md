@@ -519,23 +519,14 @@
 [Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1932年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1932年啟用的鐵路線 "wikilink")
 
 1.  : "the property is near the Woodhaven Boulevard station of the Eighth Avenue subway"
-
 2.  : "the Jamaica inspection barn of the Eighth Avenue Subway System, in Kew Gardens, Queens"
-
 3.
-
 4.
-
 5.
-
 6.  自14英哩的長度計算
-
 7.
-
 8.
-
 9.
-
 10.
 11.
 12.

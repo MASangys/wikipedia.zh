@@ -1,4 +1,6 @@
-**CONFiDENCE日劇大獎**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：，[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[日本電視劇獎](../Page/日本电视剧.md "wikilink")，為日本知名[Oricon](../Page/Oricon.md "wikilink")集團旗下公司Oricon Entertainment所發行的娛樂週刊雜誌《ORIGINAL CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\]\[2\]。 與由審查員、記者、讀者，三者票數總和為準《[日劇學院賞](../Page/日劇學院賞.md "wikilink")》不同，《CONFiDENCE日劇大獎》評審僅由電視、傳播界專業人士組成，得獎結果不受觀眾人氣票數影響，也因此會出現較為小眾的電視劇得主，亦會出現得主「從缺」的狀況。
+**CONFiDENCE日劇大獎**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：，[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[日本電視劇獎](../Page/日本电视剧.md "wikilink")，為日本知名[Oricon](../Page/Oricon.md "wikilink")集團旗下公司Oricon Entertainment所發行的娛樂週刊雜誌《ORIGINAL CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\]\[2\]。 與由審查員、記者、讀者，三者票數總和為準《[日劇學院賞](../Page/日劇學院賞.md "wikilink")》不同，《CONFiDENCE日劇大獎》評審僅由電視、傳播界專業人士組成，得獎結果不受觀眾人氣票數影響，而是採集播出後的觀眾滿意度。
+
+此獎項如[WOWOW](../Page/WOWOW.md "wikilink")等衛星電視台的電視劇，不在評選範圍內。
 
 ## 概要
 
@@ -209,7 +211,7 @@
 
 #### 第15回
 
-  - **2019年冬季**\[11\]
+  - **2018年冬季**\[11\]
       - 最佳作品獎：
       - 最佳男主角獎：（）
       - 最佳女主角獎：[常盤貴子](../Page/常盤貴子.md "wikilink")（[The Good Wife](../Page/法庭女王_\(日本電視劇\).md "wikilink")）
@@ -229,9 +231,20 @@
       - 最佳編劇獎：[三浦直之](https://zh.wikipedia.org/wiki/三浦直之 "wikilink")（腐女無意間跟Gay告白）
       - 最佳新人獎：[金子大地](../Page/金子大地.md "wikilink")（腐女無意間跟Gay告白）
 
+#### 第17回
+
+  - **2019年夏季**\[12\]
+      - 最佳作品獎：[凪的新生活](../Page/凪的新生活.md "wikilink")
+      - 優秀作品獎：、[監察醫 朝顏](../Page/監察醫_朝顏.md "wikilink")
+      - 最佳男主角獎：[大泉洋](../Page/大泉洋.md "wikilink")（）
+      - 最佳女主角獎：[上野樹里](../Page/上野樹里.md "wikilink")（監察醫 朝顏）
+      - 最佳男配角獎：[中村倫也](../Page/中村倫也.md "wikilink")（凪的新生活）
+      - 最佳女配角獎：[三田佳子](../Page/三田佳子.md "wikilink")（凪的新生活）
+      - 最佳新人獎：[重岡大毅](../Page/重岡大毅.md "wikilink")（）
+
 ## 年間大賞
 
-  - **2016年度**\[12\]
+  - **2016年度**\[13\]
       - 最佳作品賞：月薪嬌妻
       - 最佳男主角獎：[山田孝之](../Page/山田孝之.md "wikilink")（[黑金丑島君](../Page/黑金丑島君_\(電視劇\).md "wikilink") Season3、[勇者義彥和被引導的七人](../Page/勇者義彥和被引導的七人.md "wikilink")）
       - 最佳女主角獎：[滿島光](../Page/滿島光.md "wikilink")（[小荳荳電視台](../Page/小荳荳電視台.md "wikilink")）
@@ -254,7 +267,7 @@
 
 <!-- end list -->
 
-  - **2018年度**\[13\]
+  - **2018年度**\[14\]
       - 最佳作品獎：[大叔的愛](../Page/大叔的愛.md "wikilink")
       - 最佳男主角獎：[山田孝之](../Page/山田孝之.md "wikilink")、[菅田將暉](../Page/菅田將暉.md "wikilink")（[dele](https://zh.wikipedia.org/wiki/dele "wikilink")）
       - 最佳女主角獎：[石原聰美](../Page/石原聰美.md "wikilink")（[UNNATURAL](../Page/UNNATURAL.md "wikilink")）
@@ -292,3 +305,4 @@
 11.
 12.
 13.
+14.

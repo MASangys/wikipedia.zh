@@ -22,30 +22,17 @@
 [Category:总部位于旧金山的公司](https://zh.wikipedia.org/wiki/Category:总部位于旧金山的公司 "wikilink") [Category:群眾募資](https://zh.wikipedia.org/wiki/Category:群眾募資 "wikilink") [Category:2013年建立的网站](https://zh.wikipedia.org/wiki/Category:2013年建立的网站 "wikilink")
 
 1.  [The California Report.org: "Creating Patrons of the Arts Through Crowdfunding"](http://www.californiareport.org/archive/R201407111630/d) July 11–13, 2014.
-
 2.  [Patreon.org: Intro](http://www.patreon.com) Accessed 14.7.1014
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
-
 14.
-
 15.

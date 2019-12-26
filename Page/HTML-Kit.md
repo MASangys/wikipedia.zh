@@ -55,6 +55,6 @@ HTML-Kit在[download.com](http://www.download.com/3000-2181_4-10636417.html)获�
   - [download网评论和下载](http://www.download.com/)
   - [评论和功能描述](https://web.archive.org/web/20071014121930/http://www.googobits.com/articles/1476-htmlkit.html)
   - [php-editors网评论](http://www.php-editors.com/review/?editor=8)
-  - [devarticles.com教程：使用HTML-Kit提高Web开发效率](http://www.devarticles.com/c/a/HTML/Improved-Web-Development-using-HTML-Kit/)
+  - [devarticles.com教程：使用HTML-Kit提高Web开发效率](https://web.archive.org/web/20120111020956/http://www.devarticles.com/c/a/HTML/Improved-Web-Development-using-HTML-Kit/)
 
 [Category:HTML编辑器](https://zh.wikipedia.org/wiki/Category:HTML编辑器 "wikilink")

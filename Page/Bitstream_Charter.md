@@ -23,19 +23,11 @@ Charter 的設計是基於\[9\]於18世紀所創造的字型。 [Type_sample,_Pi
 [Category:衬线字体](https://zh.wikipedia.org/wiki/Category:衬线字体 "wikilink") [Category:字体](https://zh.wikipedia.org/wiki/Category:字体 "wikilink") [Category:1987年作品](https://zh.wikipedia.org/wiki/Category:1987年作品 "wikilink") [Category:開源字型](https://zh.wikipedia.org/wiki/Category:開源字型 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.

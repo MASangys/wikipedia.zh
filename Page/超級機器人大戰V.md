@@ -1,6 +1,6 @@
 {{ external media | align = | width = | video1 =[PS4、PSV『超級機器人大戰V』繁體中文版宣傳影片 - YouTube](https://www.youtube.com/watch?v=vt7z0F47j0Q) }}
 
-為[萬代南夢宮娛樂發售的](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")[超級機器人大戰系列](../Page/超級機器人大戰系列.md "wikilink")遊戲。簡稱「機戰V」「SRWV」。標題的「V」是指「Voyage」（「航行、旅程」之意）。本作首次為有涉及版權作品的系列作推出亞洲向版本，分別有繁體中文版、韓文版及英文版。本作於2019年推出[任天堂Switch](../Page/任天堂Switch.md "wikilink")移值版，為此平台上的第二部機戰作品。
+為[萬代南夢宮娛樂發售的](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")[超級機器人大戰系列](../Page/超級機器人大戰系列.md "wikilink")遊戲。簡稱「機戰V」「SRWV」。標題的「V」是指「Voyage」（「航行、旅程」之意）。本作首次為有涉及版權作品的系列作推出亞洲向版本，分別有繁體中文版、韓文版及英文版。本作於2019年推出[任天堂Switch](../Page/任天堂Switch.md "wikilink")及[Steam](../Page/Steam.md "wikilink")移植版，為Switch上的第二部作品和Steam上的第一部作品。
 
 本作宣傳詞為「鋼之巨人們　航向新的海域（Voyage）」。
 

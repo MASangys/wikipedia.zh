@@ -188,16 +188,10 @@
 [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:2014年韓國建立](https://zh.wikipedia.org/wiki/Category:2014年韓國建立 "wikilink") [Category:2017年韓國廢除](https://zh.wikipedia.org/wiki/Category:2017年韓國廢除 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.  [［Admin P.🌹］ Recap/Trans of \#Jaehyuk's interview about the lawsuit & the disbandment.](https://twitter.com/5_Herose_5/status/862766033001746437)
-
 7.
-
 8.  組合解散後，回中國發展，曾以本名代表[覺醒東方參加](https://zh.wikipedia.org/wiki/覺醒東方 "wikilink")[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")，最終排名為第18名，現為[覺醒東方旗下組合](https://zh.wikipedia.org/wiki/覺醒東方 "wikilink")[Awaken-F成員](https://zh.wikipedia.org/wiki/Awaken-F "wikilink")

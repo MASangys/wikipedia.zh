@@ -793,9 +793,9 @@ S2中新增人類受感染後Amazon化的新種Amazon。因感染而成的Amazon
 
 ## 劇場版
 
-  - 《[假面騎士Amazons The Movie 最後的審判](https://zh.wikipedia.org/wiki/假面騎士Amazons_The_Movie_最後的審判 "wikilink")》
-
-日本特攝電影《假面騎士Amazons THE MOVIE最後的審判》。《假面騎士Amazons》終於迎來了完結篇。“ 人類 ”與“ Amazon ”，“ 悠 ”與“ 仁 ”之間戰鬥的前方是！？“ 野生 ”與“ 圈養 ”，Amazon的未來又是如何？來親眼印證衝擊的最終戰吧！！
+  - 「[假面騎士×超級戰隊 超 超級英雄大戰](../Page/假面騎士×超級戰隊_超_超級英雄大戰.md "wikilink")」
+  - 「[假面騎士Amazons The Movie 最後的審判](https://zh.wikipedia.org/wiki/假面騎士Amazons_The_Movie_最後的審判 "wikilink")」
+  - 「[假面騎士令和The First Generation](https://zh.wikipedia.org/wiki/假面騎士令和The_First_Generation "wikilink")」
 
 ## 主題曲
 

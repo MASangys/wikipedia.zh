@@ -1,6 +1,6 @@
 [Webdriver_Torso_Slide.tiff](https://zh.wikipedia.org/wiki/File:Webdriver_Torso_Slide.tiff "fig:Webdriver_Torso_Slide.tiff")
 
-**Webdriver Torso**是一個由[Google](../Page/Google.md "wikilink")於2013年3月7日所創建的[YouTube](../Page/YouTube.md "wikilink")自動帳戶\[1\]。這名用戶時常上傳以簡單圖形伴隨著嗶嗶聲組成的幻燈片影片，其目的是為了測試網站的性能。這個頻道於2014年引起公眾關注，是因為有些網友發現並注意到它不尋常的性質和三個與此頻道特色不同的影片。它仍然是一個廣為流傳的謎，直到的YouTube幽默地承認這個頻道的存在是作為一個內部測試工具。此帳戶最近一次上傳影片為2019年8月9日，在這六年多總共上傳了約62萬個短片\[2\]。截止2019年8月14日，此帳戶擁有15萬4000多訂閱，在荷兰排名785名\[3\]。
+**Webdriver Torso**是一個由[Google](../Page/Google.md "wikilink")於2013年3月7日所創建的[YouTube](../Page/YouTube.md "wikilink")自動帳戶\[1\]。這名用戶時常上傳以簡單圖形伴隨著嗶嗶聲組成的幻燈片影片，其目的是為了測試網站的性能。這個頻道於2014年引起公眾關注，是因為有些網友發現並注意到它不尋常的性質和三個與此頻道特色不同的影片。它仍然是一個廣為流傳的謎，直到的YouTube幽默地承認這個頻道的存在是作為一個內部測試工具。此帳戶最近一次上傳影片為2019年10月31日，在這六年多總共上傳了約62萬個短片\[2\]。截止2019年11月14日，此帳戶擁有15萬9000多位訂閱者。\[3\]。
 
 ## 內容
 
@@ -65,38 +65,23 @@
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:YouTube](https://zh.wikipedia.org/wiki/Category:YouTube "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
 20.
 21.
@@ -105,6 +90,5 @@
 24.
 25.
 26. We're never gonna give you uploading that's slow or loses video quality, and we're never gonna let you down by playing YouTube in poor video quality. That's why we're always running tests like Webdriver Torso.
-
 27.
 28.

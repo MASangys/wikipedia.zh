@@ -129,23 +129,15 @@
 [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:旅遊節目](https://zh.wikipedia.org/wiki/Category:旅遊節目 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.
-
 8.
 9.
 10.
-
 11.
-
 12.
-
 13.

@@ -171,7 +171,7 @@ clear（，）是日本的男性歌手。暱稱クリア、dear、會長等等�
   - [niconico投稿歌曲](http://www.nicovideo.jp/mylist/7369586)
   - [clear個人twitter](http://twitter.com/clear_clear)
   - [cleanero官方網站](http://cleanero.com)
-  - [nico百科](http://dic.nicovideo.jp/a/clear\(歌い手\))
+  - \[<https://web.archive.org/web/20190215194428/https://dic.nicovideo.jp/a/clear%28%E6%AD%8Cい手>) nico百科\]
 
 [Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:熊本縣出身人物](https://zh.wikipedia.org/wiki/Category:熊本縣出身人物 "wikilink") [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink") [Category:同人歌手](https://zh.wikipedia.org/wiki/Category:同人歌手 "wikilink")
 

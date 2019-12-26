@@ -89,7 +89,7 @@ FCV概念車也採用豐田汽車的[油電複合動力技術](https://zh.wikipe
 
 ### 安全性能
 
-在豐田汽車的[東富士研究所](https://zh.wikipedia.org/wiki/東富士研究所 "wikilink")，Mirai已進行廣泛的碰撞測試，驗證前端、側邊、和後端遭受碰撞衝擊的設計評估，以提供優越的車內乘員保護，並已達成高水平的碰撞安全，確保燃料電池堆疊和高壓氫氣箱遭受車體變形的防護。高壓氫氣箱具有優越的防止氫氣滲漏性能、強度、和耐久性。[氫氣偵測器能提供警示](https://zh.wikipedia.org/wiki/氫氣偵測器 "wikilink")，並可關閉氫氣箱的主截止閥。氫氣箱和其他氫氣相關組件皆配置於車廂外側，以確保萬一氫氣外洩時能夠快速消散。車體結構採用[東麗株式會社的](https://zh.wikipedia.org/wiki/東麗株式會社 "wikilink")[碳纖維增強複合材料予以強化](https://zh.wikipedia.org/wiki/碳纖維增強複合材料 "wikilink")\[54\]，並設計能擴散和吸收跨越多重組件的碰撞衝擊能量，以確保高水平的碰撞安全性能，當前端、側邊、和後端遭受衝撞時，足以保護豐田汽車的燃料電池堆疊和高壓氫氣箱\[55\]。
+在豐田汽車的[東富士研究所](https://zh.wikipedia.org/wiki/東富士研究所 "wikilink")，Mirai已進行廣泛的碰撞測試，驗證前端、側邊、和後端遭受碰撞衝擊的設計評估，以提供優越的車內乘員保護，並已達成高水準的碰撞安全，確保燃料電池堆疊和高壓氫氣箱遭受車體變形的防護。高壓氫氣箱具有優越的防止氫氣滲漏性能、強度、和耐久性。[氫氣偵測器能提供警示](https://zh.wikipedia.org/wiki/氫氣偵測器 "wikilink")，並可關閉氫氣箱的主截止閥。氫氣箱和其他氫氣相關組件皆配置於車廂外側，以確保萬一氫氣外洩時能夠快速消散。車體結構採用[東麗株式會社的](https://zh.wikipedia.org/wiki/東麗株式會社 "wikilink")[碳纖維增強複合材料予以強化](https://zh.wikipedia.org/wiki/碳纖維增強複合材料 "wikilink")\[54\]，並設計能擴散和吸收跨越多重組件的碰撞衝擊能量，以確保高水準的碰撞安全性能，當前端、側邊、和後端遭受衝撞時，足以保護豐田汽車的燃料電池堆疊和高壓氫氣箱\[55\]。
 
 ## 基礎設施
 
@@ -154,137 +154,84 @@ FCV概念車也採用豐田汽車的[油電複合動力技術](https://zh.wikipe
 [Category:豐田車輛](https://zh.wikipedia.org/wiki/Category:豐田車輛 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.   *One kg of hydrogen is roughly equivalent to one U.S. gallon of gasoline.*
-
 6.
-
 7.
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.
-
 18.
-
 19.
 20.
 21.
-
 22.
-
 23.
-
 24.
 25.
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
 42.
 43.
-
 44.
 45.
 46.
 47.
 48.
-
 49.
 50.
 51.
 52.
 53.
-
 54.
-
 55.
 56. ["JX Energy Planning 40 Hydrogen Refuelling Stations in Japan by 2015"](http://www.fuelcelltoday.com/news-archive/2013/january/jx-energy-planning-40-hydrogen-refuelling-stations-in-japan-by-2015), FuelCellToday.com, January 14, 2013, accessed June 27, 2014
-
 57.
-
 58. ["Japan Bets Big on Making Fuel-Cell Cars a Near-Future Reality"](http://profit.ndtv.com/news/corporates/article-japan-bets-big-on-making-fuel-cell-cars-a-near-future-reality-571779), Reuters, NDTV.com, June 25, 2014
-
 59.
 60.
-
 61.
-
 62.
-
 63.
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
 70.
 71.
 72.
 73.
 74.
-
 75.
-
 76.
-
 77.  *Toyota announced a total subsidy of  for the Mirai in California but did not note that the expiration date for federal FCV subsidies is set at end of this year. Asked about this issue Toyota said it is hoping that the present federal subsides will be extended.*
-
 78.
 79.
 80.
 81.
-
 82. [Toyota Mirai "Fueled By" Commercials](https://ssl.toyota.com/mirai/fueledbyeverything.html) Toyota

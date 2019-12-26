@@ -1,18 +1,18 @@
 **ViolaWWW**是[全球資訊網](https://zh.wikipedia.org/wiki/全球資訊網 "wikilink")（WWW）第一個流行的[瀏覽器](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")，目前已停止开发。其首次在1991／1992年的[UNIX](../Page/UNIX.md "wikilink")作業系統上发布，並成為受全球資訊網发源组织[CERN所推荐的瀏覽器](../Page/歐洲核子研究組織.md "wikilink")\[1\]，但其最常用瀏覽器的地位最終被[Mosaic](../Page/Mosaic.md "wikilink")浏览器取代。
 
-## Viola
+## Viola語言
 
 Viola由[魏培源](../Page/魏培源.md "wikilink")在1991年开发，他也是[加州伯克利大学的](https://zh.wikipedia.org/wiki/加州伯克利大学 "wikilink")（XCF）研究小组成员之一\[2\]\[3\]。Viola是一个基于[UNIX](../Page/UNIX.md "wikilink")平台的[编程语言](../Page/编程语言.md "wikilink")，其名称为可视化交互的面向对象语言及应用（Visually Interactive Object-oriented Language and Application）的首字母缩写\[4\]。
 
-魏培源對於圖形軟體的興趣始於1989年他第一次遇到的[HyperCard](../Page/HyperCard.md "wikilink")，魏培源說：「當時HyperCard非常引人注目，你知道在圖形上，這個超連結的東西不是很全球化，只能在[Mac上運作](../Page/麥金塔.md "wikilink")...我甚至沒有Mac」。魏培源使用於1990年創造了第一個版本的Viola：“我拿到了一個HyperCard手冊，看了一下，基本上把這些概念實現了......”\[5\]
+魏培源對於圖形軟體的興趣始於1989年他接觸到的[HyperCard](../Page/HyperCard.md "wikilink")，魏培源說：「當時HyperCard非常引人注目，這是一款眾人皆知的超連結程式，但只能在[Mac上運作](../Page/麥金塔.md "wikilink")...而當時我甚至連Mac都沒有」。魏培源使用於1990年創造了第一個版本的Viola語言：“我拿到了一本HyperCard手冊看了一下，基本上把這些概念完成了......”\[5\]
 
 ## ViolaWWW历史
 
 毕业后魏培源与XCF及创业伙伴一起继续开发Viola\[6\]\[7\]。随后其接受了[奥莱利公司的投资](https://zh.wikipedia.org/wiki/奥莱利 "wikilink")，這是一家美国电子出版公司。奥莱利公司使用了其软件以显示旗下网站[全球網路導航器](https://zh.wikipedia.org/wiki/全球網路導航器 "wikilink")\[8\]。魏培源的主要工作是创建一个适用于互联网的Viola版本：
 
-ViolaWWW創建於1992年，是第一個添加擴充功能的瀏覽器，如嵌入式腳本對象、樣式表和表。早期版本在[CERN獲得了诸多好评](https://zh.wikipedia.org/wiki/CERN "wikilink")\[9\]。埃德·克羅爾（Ed Kroll）还在其1992年很流行的文章**中強調了该浏览器。
+ViolaWWW創建於1992年，是第一個添加擴充功能的瀏覽器，如嵌入式腳本對象、樣式表和表。早期版本在[CERN獲得了诸多好评](https://zh.wikipedia.org/wiki/CERN "wikilink")\[9\]。Ed Kroll还在其1992年很流行的文章**中強調了该浏览器。
 
-随着ViolaWWW的开发其开始与[HyperCard](../Page/HyperCard.md "wikilink")越来越相似：
+随着ViolaWWW的开发，开始与[HyperCard](../Page/HyperCard.md "wikilink")越来越相似：
 
 ViolaWWW基于Viola工具箱，該工具箱是用於开发与支持视觉交互式媒体应用的工具。Viola在[X Window下运行](https://zh.wikipedia.org/wiki/X_Window "wikilink")，早在1992年就可以用来创建远超[HTML](../Page/HTML.md "wikilink") 3.0（當時最新版本的HTML）的复杂[超媒体应用](https://zh.wikipedia.org/wiki/超媒体 "wikilink")，包括小程序及其他可交互的内容\[10\]。
 
@@ -148,7 +148,7 @@ HREF=&quot;showTime.v&quot;&gt;
 
 ## 與Mosaic競爭
 
-雖然ViolaWWW為全球資訊網打開了大門\[12\]，但由於其局限性，包括它只在-{X Window}-系統上實作，意味著它無法與將網路帶入主流的[Mosaic](../Page/Mosaic.md "wikilink")競爭\[13\]。除此之外，Mosaic更容易安裝在大多數人使用的電腦上\[14\]。雖然最初為[UNIX](../Page/UNIX.md "wikilink")開發，它很快被移植到[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[15\]，而ViolaWWW從未在此平台運行過。
+雖然ViolaWWW為全球資訊網打開了大門\[12\]，但由於其局限性，包括它只能在-{X Window}-系統上執行，意味著它無法與將全球資訊網帶入主流的[Mosaic](../Page/Mosaic.md "wikilink")競爭\[13\]。除此之外，Mosaic更容易安裝在大多數人使用的電腦上\[14\]。雖然最初為[UNIX](../Page/UNIX.md "wikilink")開發，但很快被移植到[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[15\]，這是一個ViolaWWW從未執行過的平台。
 
 ## 參考文獻
 
@@ -162,22 +162,15 @@ HREF=&quot;showTime.v&quot;&gt;
 1.
 2.
 3.
-
 4.
 5.
-
 6.
 7.
-
 8.
-
 9.
 10. <http://assets.en.oreilly.com/1/event/51/webexny2010_what-is-web-20.pdf>
-
 11.
-
 12.
 13.
-
 14.
 15. Freedman, Alan. *Computer Desktop Encyclopedia, 9th Edition.* New York: Osborne, 2001, p. 629

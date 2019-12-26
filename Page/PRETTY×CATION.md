@@ -73,7 +73,7 @@
 
 ## OVA
 
-《PRETTY×CATION THE ANIMATION》由PinkPineapple在2016年發售的成人動畫。\[4\]第一卷女主角是薬王寺小町、エレクトリーチカ・サプサン，第二卷女主角是朝霧姊妹。
+《PRETTY×CATION THE ANIMATION》由PinkPineapple在2016年發售的[成人動畫](../Page/成人動畫.md "wikilink")。第一卷女主角是薬王寺小町、エレクトリーチカ・サプサン，第二卷女主角是朝霧姊妹。
 
 ### 各話列表
 
@@ -91,20 +91,20 @@
 <td><p>＃1</p></td>
 <td></td>
 <td><p>初戀，各自的距離</p></td>
-<td><p>2016年3月25日</p></td>
+<td><p>2016年3月25日[4]</p></td>
 </tr>
 <tr class="even">
 <td><p>＃2</p></td>
 <td></td>
 <td><p>姊妹的初戀</p></td>
-<td><p>2016年7月29日</p></td>
+<td><p>2016年7月29日[5]</p></td>
 </tr>
 </tbody>
 </table>
 
 ### 工作人員
 
-  - 原作：『PRETTY×CATION』（hibiki works）\[5\]
+  - 原作：『PRETTY×CATION』（hibiki works）
   - 監督：雷火劍
   - 劇本：筋肉✩羅生門
   - 分鏡：どしだ友昭、咲坂守（＃2）
@@ -171,7 +171,7 @@ PRETTY×CATION在Getchu.com的美少女遊戲大賞2014中獲得系統部門第5
 1.
 2.
 3.  [PRETTY×CATION](http://erogetrailers.com/soft/11461)ErogeTrailers
-4.  [PRETTY×CATION THE ANIMATION \#1 初恋、それぞれの距離](http://www.pinkpineapple.co.jp/products/detail.php?product_id=1044)PinkPineapple
-5.  [PRETTY×CATION THE ANIMATION ＃1「初恋、それぞれの距離」](http://www.getchu.com/soft.phtml?id=885949)Getchu.com
+4.
+5.
 6.  [美少女ゲーム大賞2014 －システム部門投票・結果発表－](http://www.getchu.com/pc/2014_g_ranking/system.html)Getchu.com
 7.  [2014年4月発売タイトル月間賞投票](http://moe-gameaward.com/ranking/index.html?year_id=2014&month_id=04)[萌えゲーアワード](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")

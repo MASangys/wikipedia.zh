@@ -54,6 +54,6 @@
 
 [Category:2017年韩国网络剧](https://zh.wikipedia.org/wiki/Category:2017年韩国网络剧 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:魔法題材電視劇](https://zh.wikipedia.org/wiki/Category:魔法題材電視劇 "wikilink") [Category:珠寶題材作品](https://zh.wikipedia.org/wiki/Category:珠寶題材作品 "wikilink")
 
-1.  <http://kpopn.niusnews.com/=K0nhong8>
+1.
 2.  <http://www.koreastardaily.com/tc/news/89891>
 3.  <https://stars.udn.com/star/story/10091/2198999>

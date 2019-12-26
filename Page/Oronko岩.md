@@ -20,7 +20,5 @@
 [Category:斜里町](https://zh.wikipedia.org/wiki/Category:斜里町 "wikilink") [Category:知床半島](https://zh.wikipedia.org/wiki/Category:知床半島 "wikilink") [Category:岩石](https://zh.wikipedia.org/wiki/Category:岩石 "wikilink")
 
 1.
-
 2.
-
 3.

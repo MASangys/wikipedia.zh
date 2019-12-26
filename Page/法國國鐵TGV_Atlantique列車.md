@@ -2,7 +2,7 @@
 
 ## 概要
 
-該列車為105雙電流組，編號為301-405，為[法國高速鐵路大西洋線而建造新一代](https://zh.wikipedia.org/wiki/法國高速鐵路大西洋線 "wikilink")[TGV](https://zh.wikipedia.org/wiki/TGV "wikilink")，總車長為237.5米（779英尺），寬2.904米（9英尺6.3英寸）共重444噸（437長噸; 489短噸），由兩輛動力車和十個客車組成編列。每列車一共有485個位子。 列車總功率為8,800千瓦（11,801馬力）。 大西洋TGV的最高500 km/h世界速度記錄在2007年4月3日被TGV POS打敗，它的最高時速達到574.8公里/小時（357.2英里/小時）。
+該列車為105雙電流組，編號為301-405，為[法國高速鐵路大西洋線而建造新一代](https://zh.wikipedia.org/wiki/法國高速鐵路大西洋線 "wikilink")[TGV](https://zh.wikipedia.org/wiki/TGV "wikilink")，總車長為237.5米（779英尺），寬2.904米（9英尺6.3英寸）共重444噸（437長噸; 489短噸），由兩輛動力車和十個客車組成編列。每列車一共有485個位子。 列車總功率為8,800千瓦（11,801馬力）。 大西洋TGV的最高515.3 km/h世界速度記錄在2007年4月3日被TGV POS打敗，它的最高時速達到574.8公里/小時（357.2英里/小時）。
 
 [TGV_ATLANTIQUE.JPG](https://zh.wikipedia.org/wiki/File:TGV_ATLANTIQUE.JPG "fig:TGV_ATLANTIQUE.JPG")
 

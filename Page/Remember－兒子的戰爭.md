@@ -31,38 +31,48 @@
 <tr class="even">
 <td><p><strong><a href="../Page/俞承豪.md" title="wikilink">俞承豪</a></strong></p></td>
 <td><p><strong>徐振宇</strong></p></td>
-<td><p><strong>絕對記憶的律師</strong>；6→18歲（第1~4集）→22歲（第5集開始）</p></td>
+<td><p><strong>絕對記憶的律師</strong><br />
+<strong>18歲（第1~4集）→22歲（第5集開始）</strong><br />
+18歲的高中生，邊緣律師事務所的律師，擁有純情漫畫一般温暖如陽的外貌、修長的身材、溫柔的眼神、極具說服力的嗓音、超強記憶力。小時候因為交通事故失去了媽媽跟哥哥，爸爸成為了他世上唯一的親人。因為爸爸無故蒙受了殘忍殺害女大學生吳貞雅的罪名，為了證明爸爸無罪，18歲高中休學，22歲的他輕鬆通過司法考試，以法律研究所第一名的身分畢業，成為國內最年輕的律師，漸漸在相處過程中喜歡上李仁雅，李仁雅的男朋友。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/張裕東" title="wikilink">張裕東</a><br />
 </p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/朴誠雄.md" title="wikilink">朴誠雄</a></strong><br />
-</p></td>
-<td><p><strong>朴東浩</strong></p></td>
-<td><p><strong>流氓律師</strong>；36歲（第1~4集）→40歲（第5集開始）</p></td>
-<td><p><a href="../Page/陳欣_(配音員).md" title="wikilink">陳欣</a><br />
-</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a></strong></p></td>
+<td><p><strong>李仁雅</strong></p></td>
+<td><p><strong>檢察官→律師→檢察官</strong><br />
+<strong>23歲（第1~4集）→27歲（第5集開始）</strong><br />
+23歲的法律大學生，有著天生開朗明亮的性格，總是愛管閒事，有著非一般的感同身受立、溫暖感性。父母親經營小型的披薩店，在重視人生的父母呵護下開朗的長大，從小學的时候開始已經無法忍受非正義的事情，是被男生們戲弄的女生們的救世主，為了追求正義，最終進入法律大學。凶殺案爆發，在世人都把徐振宇父親當作真正殺人兇手，他卻相信徐振宇，而認為真正殺人兇手另有其人，喜歡徐振宇，徐振宇的女朋友。</p></td>
+<td><p><a href="../Page/何璐怡.md" title="wikilink">何璐怡</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a></strong></p></td>
-<td><p><strong>李仁雅</strong></p></td>
-<td><p><strong>檢察官</strong>；23歲（第1~4集）→27歲（第5集開始）</p></td>
-<td><p><a href="../Page/何璐怡.md" title="wikilink">何璐怡</a></p></td>
+<td><p><strong><a href="../Page/朴誠雄.md" title="wikilink">朴誠雄</a></strong><br />
+</p></td>
+<td><p><strong>朴東浩</strong></p></td>
+<td><p><strong>流氓律師</strong><br />
+<strong>36歲（第1~4集）→40歲（第5集開始）</strong><br />
+说着尚庆道方言，为脱离一穷二白的生活而追逐金钱的流氓律师。为了自己可以从底层律师中突围而出。因为有成社长作为后盾，所以拿起了笔和法典，成为了大龄地方法大生，挑战司法试成为了律师。因为组织的力量让他在法律界占了一席位。原是朴东浩律师事务所律师，徐载赫被判死刑后在南日浩手下工作。</p></td>
+<td><p><a href="../Page/陳欣_(配音員).md" title="wikilink">陳欣</a><br />
+</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/鄭惠成.md" title="wikilink">鄭惠成</a></strong></p></td>
 <td><p><strong>南汝靜</strong></p></td>
-<td><p><strong>檢察官</strong>；南會長的女兒23歲（第1~4集）→27歲（第5集開始）</p></td>
+<td><p><strong>檢察官</strong><br />
+<strong>23歲（第1~4集）→27歲（第5集開始）</strong><br />
+23歲的法律大學生，日浩集團會長南日浩的女兒，跟李仁雅是法律大學的同學，擁有突出的外貌，自我感覺良好，死不認輸，勝負愈強。小時候爸爸集團的承包商因為怨恨而綁架了她，後雖然安全回到家，但10年来一直為此痛苦，每當回想都會帶來恐慌症狀。有著天生無情DNA的檢察官，想利用財團女儿引響力来踐踏李仁雅。</p></td>
 <td><p><a href="../Page/詹健兒.md" title="wikilink">詹健兒</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/南宮珉.md" title="wikilink">南宮珉</a></strong></p></td>
 <td><p><strong>南圭萬</strong></p></td>
-<td><p><strong>繼承者</strong>；南會長的兒子；28歲（第1~4集）→32歲（第5集開始）</p></td>
+<td><p><strong>繼承者</strong><br />
+<strong>28歲（第1~4集）→32歲（第5集開始）</strong><br />
+28歲，日浩集團會長南日浩的兒子，日浩集團的社長，在一次派對中喝醉酒殺了女大學生吳貞雅，自由奔放，丑闻也接连不断，以各种奢侈与游玩享乐的吃喝嫖赌为生。对他来说，女人就像是香菸一样的存在，要抽的话拿新的一根就行了，在精神科正式得到愤怒调节障碍的诊断。不是什么特别的事情也会大发雷霆，只要一兴奋就会失去理智，无法自我控制，後來所有罪刑被揭發，被法院判死刑，最後被爸爸拋棄，在監獄裡上吊自殺。</p></td>
 <td><p><a href="../Page/關令翹.md" title="wikilink">關令翹</a></p></td>
 <td></td>
 </tr>

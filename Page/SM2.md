@@ -15,19 +15,12 @@ SM2主要包括三部分：签名算法、密钥交换算法、加密算法\[9\]
 [Category:密码学](https://zh.wikipedia.org/wiki/Category:密码学 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.  [SM2椭圆曲线公钥密码算法](http://www.sca.gov.cn/sca/xwdt/2010-12/17/1002386/files/b791a9f908bb4803875ab6aeeb7b4e03.pdf)
-
 7.  [SM2椭圆曲线公钥密码算法推荐曲线参数](http://www.sca.gov.cn/sca/xwdt/2010-12/17/1002386/files/b965ce832cc34bc191cb1cde446b860d.pdf)
-
 8.
-
 9.  汪朝晖. \[J\]. 信息安全研究, 2016, 2(11): 972-982.
-
 10.

@@ -1414,22 +1414,14 @@ DVD（影音版）
 [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:槍彈辯駁系列](https://zh.wikipedia.org/wiki/Category:槍彈辯駁系列 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:死亡遊戲題材作品](https://zh.wikipedia.org/wiki/Category:死亡遊戲題材作品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.  小高和剛Twitter [2015年12月2日の発言](https://twitter.com/kazkodaka/status/671968677315534848)
-
 7.
 8.
-
 9.
 10. [アニメ『ダンガンロンパ３』について、寺澤善徳プロデューサーを直撃！　AnimeJapan 2016で配布中の冊子には『２』の一部キャラの名前に変化が\!?](http://www.famitsu.com/news/201603/26102321.html)
-
 11. 小高和剛Twitter [2016年7月12日の発言](https://twitter.com/kazkodaka/status/752893879565770752)
-
 12.

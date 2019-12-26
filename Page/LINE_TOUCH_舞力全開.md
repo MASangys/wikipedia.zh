@@ -96,41 +96,31 @@
 
 ## 外部連結
 
-  - [《LINE TOUCH 舞力全開》官方網站](http://touch.iwplay.com.tw/default.html)
+  - [《LINE TOUCH 舞力全開》官方網站](https://web.archive.org/web/20151222115746/http://touch.iwplay.com.tw/default.html)
   - [iOS版本的《LINE TOUCH 舞力全開》](https://itunes.apple.com/tw/app/TOUCH/id959459535?l=zh&mt=8)
   - [Android版本的《LINE TOUCH 舞力全開》](https://play.google.com/store/apps/details?id=tw.com.iwplay.touch)
 
 [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:LINE](https://zh.wikipedia.org/wiki/Category:LINE "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink")
 
 1.  [LINE GAME首款音樂跳舞遊戲！《LINE TOUCH 舞力全開》台灣代理權確定](http://www.iwplay.com.tw/all/news/20150430/10179.shtml)，《LINE TOUCH 舞力全開》官方網站，2015年4月30日發布，引用時間：2015年12月16日。
-
-2.  [7/7（二）CB - 安卓版不刪檔封測 魅力引爆開台](http://touch.iwplay.com.tw/NewsList/newsevent/20150707/10789.html)，《LINE TOUCH 舞力全開》官方網站，2015年7月7日發布，引用時間：2015年12月16日。
-
-3.  [7/14（二）繁體中文版IOS平台開放 盛大公測開啟](http://touch.iwplay.com.tw/NewsList/newsevent/20150714/10861.html)，《LINE TOUCH 舞力全開》官方網站，2015年7月14日發布，引用時間：2015年12月16日。
-
+2.  [7/7（二）CB - 安卓版不刪檔封測 魅力引爆開台](http://touch.iwplay.com.tw/NewsList/newsevent/20150707/10789.html) ，《LINE TOUCH 舞力全開》官方網站，2015年7月7日發布，引用時間：2015年12月16日。
+3.  [7/14（二）繁體中文版IOS平台開放 盛大公測開啟](http://touch.iwplay.com.tw/NewsList/newsevent/20150714/10861.html) ，《LINE TOUCH 舞力全開》官方網站，2015年7月14日發布，引用時間：2015年12月16日。
 4.  Naga，[《LINE TOUCH 舞力全開》 3D用少女心培養大明星～＊](http://history.n.yam.com/app01/fn/20150725/20150725174356.html) ，[蕃薯藤](../Page/蕃薯藤.md "wikilink")新聞網，2015年7月25日發布，引用時間：2015年12月16日。
-
 5.
 6.
-7.  [遊戲離線模式說明](http://touch.iwplay.com.tw/NewsList/newsevent/20150707/10781.html)，《LINE TOUCH 舞力全開》官方網站，2015年7月7日發布，引用時間：2015年12月16日。
-
+7.  [遊戲離線模式說明](http://touch.iwplay.com.tw/NewsList/newsevent/20150707/10781.html) ，《LINE TOUCH 舞力全開》官方網站，2015年7月7日發布，引用時間：2015年12月16日。
 8.  [跟著韓曲動次動！《LINE TOUCH 舞力全開》7月7日不刪檔封測](http://www.iwplay.com.tw/all/news/20150707/10801.shtml)，《LINE TOUCH 舞力全開》官方網站，2015年7月7日發布，引用時間：2015年12月16日。
-
 9.
 10.
 11. [超韓系魅力破表！《LINE TOUCH 舞力全開》搶先曝光多款角色時裝設計與遊戲場景](http://www.iwplay.com.tw/all/news/20150508/10236.shtml)，《LINE TOUCH 舞力全開》官方網站，2015年5月8日發布，引用時間：2015年12月18日。
-
 12.
 13.
 14. [《LINE TOUCH 舞力全開》上市後首波更新！六大趣味統計結果搶先看](http://www.iwplay.com.tw/all/news/20150714/10879.shtml)，《LINE TOUCH 舞力全開》官方網站，2015年7月24日發布，引用時間：2015年12月16日。
-
 15. ，艾玩天地，2015年7月13日發布，引用時間：2015年12月16日。
-
 16.
 17.
 18.
-19. [每周更新的內容](http://touch.iwplay.com.tw/NewsList/indexnewslist.html)，《LINE TOUCH 舞力全開》官方網站。
-
+19. [每周更新的內容](http://touch.iwplay.com.tw/NewsList/indexnewslist.html) ，《LINE TOUCH 舞力全開》官方網站。
 20.
 21.
 22.

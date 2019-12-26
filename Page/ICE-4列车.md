@@ -314,44 +314,30 @@ ICE-4列车的[招标是自](https://zh.wikipedia.org/wiki/招标 "wikilink")200
 [Category:德國電力動車組](https://zh.wikipedia.org/wiki/Category:德國電力動車組 "wikilink") [Category:西門子製鐵路車輛](https://zh.wikipedia.org/wiki/Category:西門子製鐵路車輛 "wikilink") [Category:龐巴迪製鐵路車輛](https://zh.wikipedia.org/wiki/Category:龐巴迪製鐵路車輛 "wikilink") [Category:城际快车](https://zh.wikipedia.org/wiki/Category:城际快车 "wikilink") [Category:15千伏16.7赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:15千伏16.7赫兹交流电力动车组 "wikilink")
 
 1.  Markus Wacket: [*Neue Züge sollen Bahn-Fernflotte wetterfest machen.*](http://www.welt.de/wirtschaft/article13241888/Neue-Zuege-sollen-Bahn-Fernflotte-wetterfest-machen.html) In: *[Welt online](../Page/世界报_\(德国\).md "wikilink")* , 22. April 2011.
-
 2.  Siemens: [*Der ICx – die neue DB Plattform – Technische Daten (Grundvarianten)*](http://www.mobility.siemens.com/mobility/global/de/fernverkehr/schienenverkehr/hochgeschwindigkeits-intercity/icx/Seiten/icx.aspx#Technische%20Daten%20\(Grundvarianten\)) (Abgerufen am 27. März 2013)
-
 3.  , 2/2015.
-
 4.
 5.
 6.
-
 7.  [Deutsche Bahn auf der Verkehrstechnik-Messe InnoTrans 2012 in Berlin (Abgerufen am 19. September 2012)](https://www.deutschebahn.com/de/konzern/im_blickpunkt/2965452/innotrans_2012.html)
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13. Siemens / Deutsche Bahn AG (Hrsg.):  (PDF-Datei; 7,4 MB). 24-seitige Präsentation vom 9. Mai 2011.
-
 14.
 15.
 16. Roberto Jurkschart: [*Mit dem Fahrrad in den ICx*](http://www.taz.de/1/zukunft/wirtschaft/artikel/1/mit-dem-fahrrad-in-den-icx/). In: [Die Tageszeitung](../Page/日报_\(报纸\).md "wikilink"), 11. Mai 2011.
-
 17.
 18.
 19.
 20.
-
 21.
 22.
 23. [*Bahn kauft weniger ICx-Züge bei Siemens.*](http://www.faz.net/aktuell/wirtschaft/unternehmen/reduzierung-um-31-stueck-bahn-kauft-weniger-icx-zuege-bei-siemens-12582751.html) In: *[FAZ.NET](../Page/法兰克福汇报.md "wikilink")* , 20. September 2013.
-
 24.
 25. [Mehr Bahn für Metropolen und Regionen – Die größte Kundenoffensive in der Geschichte des DB Fernverkehrs](https://web.archive.org/web/20150320151611/http://www.deutschebahn.com/de/presse/presseinformationen/pi_p/9074114/p20150318.html), Presseinformation der Deutschen Bahn AG, 18. März 2015, archiviert im [Internet Archive](../Page/互联网档案馆.md "wikilink") am 20. März 2015.
-
 26.
 27.
 28.
@@ -359,62 +345,45 @@ ICE-4列车的[招标是自](https://zh.wikipedia.org/wiki/招标 "wikilink")200
 30.
 31.
 32. Siemens AG (Hrsg.): *Der ICx. Eine neue Ära im Intercity-Verkehr der Deutschen Bahn*. Zwölfseitige Broschüre, 2011 ([PDF-Datei](http://www.mobility.siemens.com/mobility/global/SiteCollectionDocuments/de/rail-solutions/high-speed-and-intercity-trains/icx/ICx-broschuere-de.pdf)).
-
 33.
 34.
 35.
 36.
 37.
 38.
-
 39.
 40.
 41.
 42.
 43.
 44. *ICx – der neue Fernverkehrszug für die Deutsche Bahn*. In: , S. 296–300.
-
 45.
 46. *Der neue ICx der Deutschen Bahn (Teil 2)*. In: *voraus*, Heft 7/2011, S. 30–32. .
-
 47.
 48.
 49.
 50.
 51.
-
 52.
 53.
 54.
 55.
-
 56.
 57.
-
 58.
-
 59.
 60. [*Internetnutzung im Zug: Tipps und Tricks zur Nutzung*](http://www.teltarif.de/internet-mobilfunk-zug-surfen-langsam-test/news/43884.html?page=3). *teltarif.de*, 5. September 2011, abgerufen am 2. Januar 2012.
-
 61.
-
 62. Deutsche Bahn AG (Hrsg.): *Mehr Kundenkomfort in der neuen Zuggeneration ICx*. Presseinformation, 5. März 2013.
-
 63.
-
 64.
 65.
 66.
 67.
-
 68. Nikolaus Doll: [*Die neuen ICE-Züge – Mehr Platz, mehr Luxus.*](http://www.welt.de/wirtschaft/article113810813/Die-neuen-ICE-Zuege-Mehr-Platz-mehr-Luxus.html) In: *[Welt online](../Page/世界报_\(德国\).md "wikilink")* , 21. Februar 2013.
-
 69. [*Bombardier erhält Folgeauftrag als Partner und Lieferant von Siemens beim Großprojekt ICx der Deutschen Bahn*](http://bombardier.com/de/transportation/pressezentrum/pressemitteilungen/details?docID=0901260d802b0ede). Presseinformation vom 8. April 2013.
-
 70.
-
 71.
-
 72.
 73.
 74.
@@ -425,7 +394,6 @@ ICE-4列车的[招标是自](https://zh.wikipedia.org/wiki/招标 "wikilink")200
 79.
 80.
 81. [Sichtungsbilder mit Fahrzeugnummern bei DSO](http://www.drehscheibe-online.de/foren/read.php?4,7560669,7560669#msg-7560669)
-
 82.
 83.
 84.
@@ -440,9 +408,7 @@ ICE-4列车的[招标是自](https://zh.wikipedia.org/wiki/招标 "wikilink")200
 93.
 94.
 95.
-
 96.
-
 97.
 98.
 99.
@@ -453,130 +419,86 @@ ICE-4列车的[招标是自](https://zh.wikipedia.org/wiki/招标 "wikilink")200
 104.
 105.
 106. *Bahn konkretisiert zwei Milliardenaufträge*. In: [Süddeutsche Zeitung](../Page/南德意志报.md "wikilink"), Nr. 193, 2003, , S. 18.
-
 107. Meldung *Reisezugwagen-Modernisierung*. In: , Heft 6/2003, , S. 245.
-
 108.
 109.
 110. In: *Bahntech*, Nr. 02, 2008, S. 13–14 (, PDF, 2,2 MB).
-
 111. *Neuer ICx soll Bahn-Fernflotte ab 2016 wetterfest machen*. In: [Reuters Deutschland](http://de.reuters.com/article/companiesNews/idDEBEE73F03420110416), 16. April 2011.
-
 112.
 113.
 114. *Jetzt auf dem Reißbrett: die nächste Fahrzeug-Generation*. In: , Ausgabe November 2008, S. 8–9.
-
 115. *Klare Vorstellungen vom Zug der Zukunft*. In: , Ausgabe November 2008, S. 9.
-
 116.
 117. In: Deutsche Bahn AG (Hrsg.): *Deutsche Bahn: Menschen bewegen – Welten verbinden* (, 7 MB). Berlin, 2009, S. 92–97.
-
 118.
 119.
 120.
 121.
 122. Deutsche Bahn AG / DB Mobility Logistics AG (Hrsg.): [*Qualität verbessern – unsere Kunden im Mittelpunkt. Halbjahres-Pressekonferenz 2010*](http://www1.deutschebahn.com/file/ecm2-ml-de/1588056/gVcXSJmaw3tgnVwaQM5oFfH-pK4/1492076/data/hjpk2010_redegrube.pdf)  (PDF-Datei; 1,5 MB). Rede von [Rüdiger Grube](https://zh.wikipedia.org/wiki/顾儒伯 "wikilink"), Vorsitzender des Vorstands, auf der Halbjahres-Pressekonferenz des Unternehmens am 28. Juli 2010, S. 12.
-
 123.
 124.
 125.
 126.
 127.
 128. Deutsche Bahn AG: *DB treibt Modernisierung der Fahrzeugflotte weiter voran*. Presseinformation vom 25. Januar 2010.
-
 129. [*Bahn kauft neue Fernzug-Flotte.*](http://www.welt.de/die-welt/wirtschaft/article5986907/Bahn-kauft-neue-Fernzug-Flotte.html) In: *[Die Welt](../Page/世界报_\(德国\).md "wikilink")*, 26. Januar 2010.
-
 130.
-
-131. *Neue ICE sollen Siemens in Krefeld sichern*. In:  (Onlineausgabe), 26. Januar 2010.
-
-132. Martin Röse: [*Krefeld: Milliardenauftrag für Siemens*](http://www.rp-online.de/niederrheinsued/krefeld/nachrichten/Milliardenauftrag-fuer-Siemens_aid_990606.html) . In:  (Onlineausgabe), ca. 23. April 2011.
-
+131. *Neue ICE sollen Siemens in Krefeld sichern*. In: [Rheinische Post](https://zh.wikipedia.org/wiki/莱茵邮报 "wikilink") (Onlineausgabe), 26. Januar 2010.
+132. Martin Röse: [*Krefeld: Milliardenauftrag für Siemens*](http://www.rp-online.de/niederrheinsued/krefeld/nachrichten/Milliardenauftrag-fuer-Siemens_aid_990606.html) . In: [Rheinische Post](https://zh.wikipedia.org/wiki/莱茵邮报 "wikilink") (Onlineausgabe), ca. 23. April 2011.
 133.
-
 134.
-
 135. Eberhard Krummheuer: *Bahn-Probleme und kein Ende*. In: , Nr. 144, 29. Juli 2010, S. 20–21.
-
 136. *»Das ist Propaganda«*. In: , Nr. 64, 2010, S. 64–67.
-
 137.
-
 138.
 139. Deutsche Bahn AG (Hrsg.): *Deutsche Bahn und Siemens einigen sich auf Milliardenvertrag / Größter Einzelauftrag in der Geschichte der DB*. Presseinformation vom 21. April 2011.
-
 140. Nikolaus Doll, Jens Hartmann: [*Bahn kauft Züge für fünf Milliarden Euro.*](http://www.welt.de/print/die_welt/wirtschaft/article13189018/Bahn-kauft-Zuege-fuer-fuenf-Milliarden-Euro.html) In: *[Die Welt](../Page/世界报_\(德国\).md "wikilink")*, 16. April 2011.
-
 141.
 142. Siemens Mobility / Deutsche Bahn AG (Hrsg.): [*Grünes Licht für den modernsten Zug der Welt*](http://www.siemens.com/press/de/pressemitteilungen/?press=/de/pressemitteilungen/2011/mobility/icx-siemens-db.htm). Presseinformation vom 9. Mai 2011.
-
 143.
-
 144.
 145.
 146.
-
 147.
 148. [*Bahn kürzt Bestellung bei Siemens in Krefeld*](http://www.rp-online.de/wirtschaft/bahn-kuerzt-bestellung-bei-siemens-in-krefeld-aid-1.3692192). , 21. September 2013.
-
 149. Christian Schlesinger: [*ICx der Deutschen Bahn: Wird der Schnellzug für Siemens ein Exporterfolg?*](http://blog.wiwo.de/schlesigers-verkehrslage/2012/09/17/icx-der-deutschen-bahn-wird-der-schnellzug-fur-siemens-ein-exporterfolg/). In: *Train-Spotting* (Blog der ), 17. September 2012.
-
 150. *Der neue ICx der Deutschen Bahn (Teil 1)*. In: *voraus*, Heft 6/2011, S. 32 f. .
-
 151. [*Fulda erhält einen Simulator für neue ICE-Baureihe*](http://www.fuldaerzeitung.de/nachrichten/fulda-und-region/Fulda-Fulda-erhaelt-einen-Simulator-fuer-neue-ICE-Baureihe;art25,674790). In:  (Onlineausgabe), 14. Januar 2013, abgerufen am 15. Januar 2013.
-
 152.
 153.
 154. Bernd Jentsch: [*Grube: Thüringen bekommt Deutschlands schönste Bahnstrecke.*](http://www.thueringer-allgemeine.de/web/zgt/wirtschaft/detail/-/specific/Grube-Thueringen-bekommt-Deutschlands-schoenste-Bahnstrecke-656244595) In: **, 5. Juli 2012.
-
 155.
 156.
 157.
 158.
-
 159.
-
 160.
 161.
 162. Klaus C. Koch: *Unter Beobachtung*. [Süddeutsche Zeitung](../Page/南德意志报.md "wikilink"), 18. Juli 2011, S. 29 ([online](http://www.sueddeutsche.de/auto/deutsche-bahn-icx-unter-beobachtung-1.1120537)).
-
 163.
 164.
-
 165.
 166. *Der ICx unter der Lupe*. In: **. August 2011, S. 26–28.
-
 167.
 168.
-
 169.
-
 170.
-
 171.
-
 172.
 173.
 174.
-
 175.
 176. [*Deutschland-Frankfurt am Main: Informationssysteme*](http://ted.europa.eu/udl?uri=TED:NOTICE:300856-2015:TEXT:DE:HTML). Dokument 2015/S 164-300856 vom 26. August 2015 im Supplement zum .
-
 177.
-
 178.
-
 179.
 180.
 181.
 182. Deutsche Bahn AG (Hrsg.): [*Mehr Bahn für Metropolen und Regionen*](https://web.archive.org/web/20150404013823/http://www.deutschebahn.com/file/de/2185918/vXFkUHaAezV9jn2x6UA_gyt2buo/9067832/data/praesentation_neues_fernverkehrskonzept.pdf). Präsentation vom 18. März 2015, S. 16 (archiviert am 4. April 2015 im [Internet Archive](../Page/互联网档案馆.md "wikilink")).
-
 183.
 184.
 185.
 186.
 187. Olaf Krohn: *Neue Züge braucht das Land*. In: **. Juni 2011, S. 46–48.
-
 188.
-
 189. DB Mobility Logistics AG (Hrsg.): *Deutsche Bahn stellt Pläne für bundesweit modernstes ICE-Werk in Köln vor*. Presseinformation vom 15. Oktober 2013.

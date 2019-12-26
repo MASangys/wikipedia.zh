@@ -17,34 +17,19 @@
 [Category:1992年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1992年開業電子遊戲公司 "wikilink") [Category:猶他州公司](https://zh.wikipedia.org/wiki/Category:猶他州公司 "wikilink") [Category:艺电的部门与子公司](https://zh.wikipedia.org/wiki/Category:艺电的部门与子公司 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
 1.  [Headgate Studios profile](http://www.mobygames.com/company/headgate-studios-inc) at [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
-
 2.
-
 3.  [Headgate's website list of projects](http://headgatestudios.com/projects.html)
-
 4.  [Front Page Golf review @ gamespot.com](http://www.gamespot.com/pc/sports/frontpagesportsgolf/index.html)
-
 5.  [Headgate company history](http://headgatestudios.com/company.html)
-
 6.  [Gamespot details of Tiger Woods PGA Tour 07](http://www.mobygames.com/game/tiger-woods-pga-tour-07)
-
 7.
 8.  [Gamespot details of Tiger Woods PGA Tour 08](http://www.mobygames.com/game/tiger-woods-pga-tour-08)
-
 9.  [*PGA Championship Golf 2000* review](http://www.gamespot.com/pc/sports/pgachampionshipgolf2000/index.html?q=PGA%20Championship%20Golf%202000) from [GameSpot](../Page/GameSpot.md "wikilink")
-
 10. [*Tiger Woods 2001 PGA Tour* review](http://www.sgn.cc/golf/tiger_woods_2001/review.shtml)  from Sports Gaming Network
-
 11. [*Tiger Woods 2002* Review](http://pc.ign.com/articles/354/354044p1.html) from [IGN](../Page/IGN.md "wikilink")
-
 12. [*Tiger Woods PGA Tour 2003* review](http://www.gamerankings.com/itemrankings/launchreview.asp?reviewid=111367)  from [GameSpy](../Page/GameSpy.md "wikilink")
-
 13. [*Tiger Woods PGA Tour 2004*](http://pc.ign.com/articles/451/451107p1.html) from IGN
-
 14. [*Tiger Woods PGA TOUR 2005* review](http://www.gamerankings.com/itemrankings/launchreview.asp?reviewid=438951)  from [Game Rankings](https://zh.wikipedia.org/wiki/Game_Rankings "wikilink")
-
 15. [*Tiger Woods PGA Tour 2005*](http://www.gamerankings.com/itemrankings/launchreview.asp?reviewid=428275)  from Game Rankings
-
 16. ["EA forms Wii-centric studio"](http://www.gamespot.com/news/6162544.html) from [GameSpot](../Page/GameSpot.md "wikilink")
-
 17. ["Electronic Arts opens Salt Lake City office"](http://www.sltrib.com/sltrib/money/49968208-79/electronic-lake-salt-game.html.csp) from [The Salt Lake Tribune](https://zh.wikipedia.org/wiki/The_Salt_Lake_Tribune "wikilink")

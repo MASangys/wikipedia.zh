@@ -13,21 +13,13 @@ Lumberyard于2016年2月9日与[GameLift一起推出](https://zh.wikipedia.org/w
 [Category:亞馬遜公司](https://zh.wikipedia.org/wiki/Category:亞馬遜公司 "wikilink") [Category:電子遊戲研發](https://zh.wikipedia.org/wiki/Category:電子遊戲研發 "wikilink") [Category:虚拟现实](https://zh.wikipedia.org/wiki/Category:虚拟现实 "wikilink") [Category:2016年软件](https://zh.wikipedia.org/wiki/Category:2016年软件 "wikilink") [Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
 11.

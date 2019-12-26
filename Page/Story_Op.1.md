@@ -109,11 +109,7 @@
 [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:鐘鉉音樂專輯](https://zh.wikipedia.org/wiki/Category:鐘鉉音樂專輯 "wikilink")
 
 1.  [SHINee鐘鉉才華洋溢　將推全創作小品集](http://www.koreastardaily.com/tc/news/68231)
-
 2.  [SHINee鐘鉉首推個人原創專輯 17日上市](http://www.koreastardaily.com/tc/news/68252)
-
 3.
-
 4.
-
 5.

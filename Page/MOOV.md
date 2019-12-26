@@ -25,34 +25,21 @@
 [分類:2006年成立的公司](https://zh.wikipedia.org/wiki/分類:2006年成立的公司 "wikilink") [分類:香港公司](https://zh.wikipedia.org/wiki/分類:香港公司 "wikilink") [分類:線上音樂商店](https://zh.wikipedia.org/wiki/分類:線上音樂商店 "wikilink") [分類:Android软件](https://zh.wikipedia.org/wiki/分類:Android软件 "wikilink") [分類:iOS软件](https://zh.wikipedia.org/wiki/分類:iOS软件 "wikilink") [分類:香港音樂](https://zh.wikipedia.org/wiki/分類:香港音樂 "wikilink") [分類:電訊盈科](https://zh.wikipedia.org/wiki/分類:電訊盈科 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
 9.
-
 10.
-
 11.  HKT|last=|first=|date=|website=HKT|language=en|archive-url=|archive-date=|dead-url=|access-date=2018-01-26}}
-
 12.
 13.
 14.
 15.
-
 16.
-
 17.
-
 18.
-
 19.

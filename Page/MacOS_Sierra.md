@@ -2,7 +2,7 @@
 
 macOS Sierra的名稱取自於[內華達山脈](../Page/內華達山脈_\(美國\).md "wikilink")（Sierra Nevada），為一座橫跨於[加利福尼亞州與](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[內華達州的山脈](https://zh.wikipedia.org/wiki/內華達州 "wikilink")，亦涵蓋著[優勝美地國家公園](../Page/優勝美地國家公園.md "wikilink")的大部分區域；有趣的是，macOS的[一個歷史版本亦有以優勝美地做為系統名稱](../Page/OS_X_Yosemite.md "wikilink")。
 
-macOS Sierra的首个开发者预览于2016年[苹果全球开发者大会](../Page/苹果全球开发者大会.md "wikilink")6月13日的主题演讲后发布。macOS Sierra的首个公开测试版本将在2016年7月发布。macOS Sierra于2016年9月20日透過[Mac App Store以免费更新的形式向](../Page/Mac_App_Store.md "wikilink")[最终用户发布](https://zh.wikipedia.org/wiki/最终用户 "wikilink")\[2\]。
+macOS Sierra的首个开发者预览于2016年[苹果全球开发者大会](../Page/苹果全球开发者大会.md "wikilink")6月13日的主题演讲后发布，首个公开测试版本在同年7月发布，正式版于該年9月20日透過[Mac App Store以免费更新的形式向](../Page/Mac_App_Store.md "wikilink")[最终用户发布](https://zh.wikipedia.org/wiki/最终用户 "wikilink")\[2\]。
 
 ## 系统要求
 

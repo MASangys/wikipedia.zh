@@ -157,7 +157,7 @@
     私下在電車上攔住了颯太，並得知了有關於軍服公主的一切。其後到軍服公主面前希望可以說服憤怒的她，但受到軍服公主的暗算（被四把軍刀刺中腹部、一把刺中左肩胛）身受重傷。就在受到軍服公主的致命攻擊時使出了「魔法飛濺閃光彈」把軍服公主的藏身之處周遭一帶一起炸毀後逃脫。
     想把阿爾泰爾欲毀滅世界等訊息告訴愛麗絲特莉婭，然而在遇見她之前先遇到了築城院真鑒，於是將話託付給她，並希望她能轉達給愛麗絲特莉婭。最後因失血過多死在愛麗絲特莉婭懷中，化為藍色方塊消失。
     在「消除室FES」事件過後在某個大廈的廣告牌上登上《緋色的愛麗絲特莉婭》×《魔法殺手茉美香》的合作廣告圖《給你微笑的花束》中和愛麗絲特莉婭一起再度登場。
-    在廣告中茉美香的台詞是「拜託，笑一下吧……愛麗絲「」」。她是唯一的角色没有介绍自己的造物主是谁，名字和身份也没有提到。这个问题已经没有人查过或写下原因，到现在还没找到。
+    在廣告中茉美香的台詞是「拜託，笑一下吧……愛麗絲「」」。她是唯一没有介绍自己造物主是谁的角色，名字和身份也没有提到。这个问题已经没有人查过或写下原因，到现在还没找到。
     角色戰力參數：智力：2，武力：5，防禦：1
     语录：「你的世界大家不也是在互相戰鬥，殘酷至極嗎？\[10\]」
     電視動畫官方人氣角色投票活動中最終結果為第六名。
@@ -1046,11 +1046,11 @@ and the spirit is redeveloped from their passion.</em></sub></p></td>
   -
   -
 
-  - [《Re:CREATORS》原案刊载网页](https://www.sunday-webry.com/events/re_creators_naked/)
+  - [《Re:CREATORS》原案刊载网页](https://web.archive.org/web/20170415081438/https://www.sunday-webry.com/events/re_creators_naked/)
 
   - [電視動畫《Re:CREATORS》朝日放送專頁](http://www.asahi.co.jp/anime/recreators/)
 
-  - [《Re:CREATORS NAKED》 | Sunday everyday](https://www.sunday-webry.com/events/re_creators_naked/)
+  - [《Re:CREATORS NAKED》 | Sunday everyday](https://web.archive.org/web/20170415081438/https://www.sunday-webry.com/events/re_creators_naked/)
 
 [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:魔法少女動畫](https://zh.wikipedia.org/wiki/Category:魔法少女動畫 "wikilink") [Category:平行世界題材作品](https://zh.wikipedia.org/wiki/Category:平行世界題材作品 "wikilink") [Category:電子遊戲題材作品](https://zh.wikipedia.org/wiki/Category:電子遊戲題材作品 "wikilink") [Category:作家題材作品](https://zh.wikipedia.org/wiki/Category:作家題材作品 "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink")
 

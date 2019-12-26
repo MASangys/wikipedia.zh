@@ -95,12 +95,8 @@
 [Category:初音島](https://zh.wikipedia.org/wiki/Category:初音島 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:BDPG](https://zh.wikipedia.org/wiki/Category:BDPG "wikilink") [Category:2008年電子遊戲](https://zh.wikipedia.org/wiki/Category:2008年電子遊戲 "wikilink") [Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
 
 1.  [PS2版官方網站](http://circus.nandemo.gr.jp/common/dc2ps/product/index.html)CIRCUS
-
 2.
 3.  [製品情報](http://circus-co.jp/product/dc2pc/product/index.html)CIRCUS
-
 4.  [PSP版官方網站](http://circus-co.jp/product/dc12-p/product.html)CIRCUS
-
 5.  [製品情報](http://www.hublots.net/dcbd/dc2.html)BD de ゲーム
-
 6.  [PlayStation Stone](https://store.playstation.com/#!/ja-jp/%e3%82%b2%e3%83%bc%e3%83%a0/dc%e2%85%b0%ef%bc%86%e2%85%b1-psp-%ef%bd%9e%e3%83%80%e3%83%bb%e3%82%ab%e3%83%bc%e3%83%9d%e2%85%b0%ef%bc%86%e2%85%b1%ef%bd%9e-%e3%83%97%e3%83%a9%e3%82%b9%e3%82%b7%e3%83%81%e3%83%a5%e3%82%a8%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%96%e3%83%ab/cid=JP0117-NPJH50731_00-0000000000000SET)SONY

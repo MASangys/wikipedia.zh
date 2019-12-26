@@ -73,7 +73,7 @@ Windows軟體只要它們希望便有使用和改變他們生態系統的能力�
 13.
 14. [App packages and deployment (Windows Store apps) (Windows)](http://msdn.microsoft.com/en-us/library/windows/apps/hh464929.aspx)
 15. [Windows Phone 8.1 includes universal apps and lots of feature updates - The Verge](http://www.theverge.com/2014/2/11/5400660/windows-phone-8-1-features-leaked)
-16. [How to Install Appx File on Windows Phone 8.1](http://www.wphoneapps.net/2013/12/how-to-install-xap-file-on-windows-phone.html)
+16.
 17. [How To Sideload Modern Apps on Windows 8 - HowToGeek](http://www.howtogeek.com/129535/how-to-sideload-modern-apps-on-windows-8/)
 18.
 19.

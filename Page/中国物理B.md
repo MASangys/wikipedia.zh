@@ -25,10 +25,8 @@
 [Category:物理学期刊](https://zh.wikipedia.org/wiki/Category:物理学期刊 "wikilink") [Category:中国物理学会期刊](https://zh.wikipedia.org/wiki/Category:中国物理学会期刊 "wikilink") [Category:1992年建立的出版物](https://zh.wikipedia.org/wiki/Category:1992年建立的出版物 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
 6.

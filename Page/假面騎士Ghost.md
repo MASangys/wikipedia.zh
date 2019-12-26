@@ -3893,67 +3893,36 @@ Ghost驅動器使用時音效為「Let's Go！Kakugo！Gho・Gho・Gho・Ghost�
 [Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink") [Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink") [Category:鬼題材電視劇](https://zh.wikipedia.org/wiki/Category:鬼題材電視劇 "wikilink") [Category:历史人物题材作品](https://zh.wikipedia.org/wiki/Category:历史人物题材作品 "wikilink") [Category:羅賓漢題材作品](https://zh.wikipedia.org/wiki/Category:羅賓漢題材作品 "wikilink")
 
 1.  [仮面ライダー最新作は、お化けがモチーフ！目が変身アイテムの「仮面ライダーゴースト」](http://headlines.yahoo.co.jp/hl?a=20150730-00000286-sph-ent)
-
 2.  系列中首位死者設定的主角為[假面騎士555](../Page/假面騎士555.md "wikilink")的乾巧，雖然設定上迥異但確實為已死去之人
-
 3.  [新ライダーはいきなり死亡\!?ジュノンボーイ・西銘駿が「仮面ライダーゴースト」襲名](http://www.cinemacafe.net/article/2015/08/18/33486.html)
-
 4.  最終話特別篇
-
 5.  『東映ヒーローMAX』VOLUME 52（2015 autumn）
-
 6.  過往部分平成騎士主角曾用另一腰帶變身,但只是變身**另一個騎士**,而非強化形態,如[假面騎士555](../Page/假面騎士555.md "wikilink")主角乾巧/假面騎士Faiz曾用Delta變身假面騎士Delta;[假面騎士W主角左翔太郎](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")/假面騎士W用Lost Driver變身假面騎士Joker。首位更換變身腰帶進行強化的平成騎士是[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")驅紋戒斗/假面騎士巴隆,需更換創世紀驅動器和檸檬能量定鎖種子才能變身假面騎士男爵(次世代型),但他不是第一男主角騎士。
-
 7.  內部供奉著[毘沙門天](https://zh.wikipedia.org/wiki/毘沙門天 "wikilink")（也就是四大天王中的多聞天王）的佛像
-
 8.  負責怪人設計的島本和彥曾透露刀眼魔及槍眼魔的藍本均為[佐佐木小次郎](../Page/佐佐木小次郎.md "wikilink")及[胤舜](https://zh.wikipedia.org/wiki/胤舜 "wikilink")，但其後在第二話播出後在[twitter](https://twitter.com/simakazu/status/652989487878828032)透露在其立場不能多說。網友推斷電力眼魔及巨大電力眼魔的藍本為[尼古拉·特斯拉](../Page/尼古拉·特斯拉.md "wikilink")及[費城實驗](../Page/費城實驗.md "wikilink")中的驅逐艦，而島本和彥亦有轉載有關推文。可推斷眼魔均以歷史人物及事件作藍本。
-
 9.  透過亞蘭
     身體進行變身
-
 10. 劇場版
-
 11. 「メガウルオウダー」亦可解作「眼が潤うだ」，中文為「濕潤眼睛」的意思
-
 12. 自《假面騎士AgitΩ》的機械龍捲風之後，主角的機車再次地會隨著變身而變化。
-
 13. 眼魂上簡稱為Tenka
-
 14. 倒立的45，右邊讀起是平成的日文 heisei
-
 15. 跟我魂同樣音效。
-
 16. 每話標題統一為『OO（日文漢字兩字）\!OO\!』
-
 17. 日本關東地區平均收視率。
-
 18. 11月1日因播放第47屆全日本大學驛站接力賽（第47回全日本大学駅伝）而停播一次
-
 19. 1月3日因播放『新春！男女糾察隊傑作選』（『新春\!ロンドンハーツ傑作選』）而停播一次
-
 20. 此話與《[動物戰隊獸王者](../Page/動物戰隊獸王者.md "wikilink")》聯動劇情。
-
 21. 於劇中由遊流仙告知。
-
 22.
 23. 於劇中由朱里與御成兩人重複述說。
-
 24. 於劇中由御成再次告知。
-
 25. 於劇中由深海誠告知。
-
 26. 因死而復生於是沒了99日期限的限制
-
 27. 自《假面騎士響鬼》（2005）之後已經10年內沒再用日語名稱
-
 28. 第一話並非當作主題曲，而是當成插曲使用
-
 29. 第五及三十話則由新垣隆編曲及演奏（我ら思う、故に我ら在り(ピアノバージョン)）並當作劇中歌曲使用
-
 30. 從《假面騎士DECADE》（2009）以後，主題曲MV皆由主角騎士擔任演出已是慣例，但本作的MV假面騎士Ghost卻沒有參與演出。
-
 31. 氣志團的主唱綾小路翔自劇場版《假面騎士×假面騎士 Fourze & OOO MOVIE大戰 MEGA MAX》（2011）以後再次地擔任主題曲的演唱者（在電視版系列上及以氣志團身分演唱卻是首次）
-
 32. 2016年1月29日，氣志團於同台的「[Music Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")」演出並宣傳此歌，劇中的兩位假面騎士（Ghost跟Specter）也在該節目登台亮相。
-
 33. 自《假面騎士龍騎》（2002）之後再次並非由藤林聖子親手作詞的主題曲

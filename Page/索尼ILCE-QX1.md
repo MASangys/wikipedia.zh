@@ -34,20 +34,12 @@ Sony_QX1.jpg|接在长焦镜头后的QX1，看起来像镜头后盖
 [Category:索尼相机](https://zh.wikipedia.org/wiki/Category:索尼相机 "wikilink") [Category:2014年面世的產品](https://zh.wikipedia.org/wiki/Category:2014年面世的產品 "wikilink")
 
 1.  <http://www.photoscala.de/Artikel/Smartphone-Kameramodule-QX1-und-QX30-von-Sony>
-
 2.  <http://www.dpreview.com/articles/1313222874/sony-introduces-qx1-with-aps-c-sensor-and-e-mount-for-smartphones>
-
 3.
-
 4.
-
 5.  [索尼α7S, α5100, and ILCE-QX1荣获TIPA大奖](http://www.sony.com.cn/newscenter/corporate/2339.htm) 索尼（中国）
-
 6.
-
 7.
 8.
-
 9.  [【フォトキナ】オリンパス、オープンプラットフォームカメラのコンセプト展示](http://dc.watch.impress.co.jp/docs/news/20140917_667257.html) DC Watch
-
 10. [オリンパスのレンズ型カメラ「AIR A01」説明会レポート](http://dc.watch.impress.co.jp/docs/news/20150205_687135.html) DC Watch

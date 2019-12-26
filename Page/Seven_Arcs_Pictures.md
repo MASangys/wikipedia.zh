@@ -2,7 +2,9 @@
 
 2004年，Seven Arcs藉《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》正式涉足製作電視動畫。2012年，其創辦人上村修設立**Seven Arcs Pictures**並移轉實質製作部門至新公司\[1\]。Seven Arcs Pictures的主要業務為製作動畫，而Seven Arcs目前則主要負責企劃、製片和版權管理。
 
-2017年12月26日，Seven Arcs Pictures動畫製作公司宣布该公司被[TBS](../Page/TBS.md "wikilink")收購。\[2\]
+2017年12月26日，Seven Arcs Pictures動畫製作公司宣布该公司被[東京放送控股](../Page/東京放送控股.md "wikilink")收購。\[2\]
+
+2019年10月1日Seven Arcs Pictures、Arcturus和Seven Arcs 3社合併為[Seven Arcs公司](../Page/Seven_Arcs.md "wikilink")\[3\]\[4\]。
 
 ## 作品列表
 
@@ -199,3 +201,5 @@
 
 1.
 2.  [TBS、「リリカルなのは」製作のアニメ会社を買収](http://www.itmedia.co.jp/business/spv/1712/26/news106.html)
+3.  合併公告、2019年（令和元年）8月26日付「官報」（号外第99号）62頁。
+4.

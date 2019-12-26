@@ -19,7 +19,9 @@
 <th><p><a href="../Page/Pixel_3.md" title="wikilink">Pixel 3</a></p></th>
 <th><p><a href="../Page/Pixel_3.md" title="wikilink">Pixel 3 XL</a></p></th>
 <th><p><a href="../Page/Pixel_3a.md" title="wikilink">Pixel 3a</a></p></th>
-<th><p><strong><a href="https://zh.wikipedia.org/wiki/Pixel_3a_XL" title="wikilink">Pixel 3a XL</a></strong></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Pixel_3a_XL" title="wikilink">Pixel 3a XL</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Pixel_4" title="wikilink">Pixel 4</a></p></th>
+<th><p><strong><a href="https://zh.wikipedia.org/wiki/Pixel_4_XL" title="wikilink">Pixel 4 XL</a></strong></p></th>
 </tr>
 </thead>
 <tbody>
@@ -28,7 +30,9 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/HTC" title="wikilink">HTC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/LG" title="wikilink">LG</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/富士康" title="wikilink">富士康</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/富士康" title="wikilink">富士康</a></p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -40,6 +44,8 @@
 <td><p>2017年10月5日</p></td>
 <td><p>2018年10月9日</p></td>
 <td><p>2019年5月7日</p></td>
+<td><p>2019年10月15日</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -48,28 +54,35 @@
 <tr class="odd">
 <td><p>显示屏</p></td>
 <td><p>5.0英寸 AMOLED<br />
-1920x1080 解像度<br />
+1920×1080 解像度<br />
 441 <a href="../Page/每英寸像素.md" title="wikilink">ppi</a></p></td>
 <td><p>5.5英寸 AMOLED<br />
-2560x1440 解像度<br />
+2560×1440 解像度<br />
 518 ppi</p></td>
 <td><p>5.0英寸 AMOLED<br />
-1920x1080 解像度<br />
+1920×1080 解像度<br />
 441 ppi</p></td>
 <td><p>6.0英寸 P-OLED<br />
-2880x1440 解像度<br />
+2880×1440 解像度<br />
 538 ppi</p></td>
 <td><p>5.5英寸 OLED<br />
-2160x1080 解像度<br />
+2160×1080 解像度<br />
 443 ppi</p></td>
 <td><p>6.3英寸 OLED<br />
-2960x1440 解像度<br />
+2960×1440 解像度<br />
 523 ppi</p></td>
 <td><p>5.6英寸 OLED<br />
-2220x1080 解像度<br />
+2220×1080 解像度<br />
 441 ppi</p></td>
-<td><p>6.0英寸 OLED 2160×1080 解像度<br />
-523 ppi</p></td>
+<td><p>6.0英寸 OLED<br />
+2160×1080 解像度<br />
+402 ppi</p></td>
+<td><p>5.7英寸 P-OLED<br />
+2280×1080 解像度<br />
+444 ppi</p></td>
+<td><p>6.3英寸 P-OLED<br />
+3040×1440 解像度<br />
+537 ppi</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/系统芯片.md" title="wikilink">系统芯片</a>（SoC）</p></td>
@@ -78,6 +91,8 @@
 <td><p>高通<a href="https://zh.wikipedia.org/wiki/高通驍龍元件列表#Snapdragon_835" title="wikilink">驍龍 835</a></p></td>
 <td><p>高通<a href="https://zh.wikipedia.org/wiki/高通驍龍元件列表#Snapdragon_845/850" title="wikilink">驍龍 845</a></p></td>
 <td><p>高通<a href="https://zh.wikipedia.org/wiki/高通驍龍元件列表#Snapdragon_670/675" title="wikilink">驍龍 670</a>[6]</p></td>
+<td><p>高通<a href="https://zh.wikipedia.org/wiki/高通驍龍元件列表#Snapdragon_855/855_Plus" title="wikilink">驍龍 855</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -89,6 +104,8 @@
 <td><p>Adreno 540</p></td>
 <td><p>Adreno 630</p></td>
 <td><p>Adreno 615</p></td>
+<td><p>Adreno 640</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -98,6 +115,8 @@
 <td><p>内存</p></td>
 <td><p>4 GB LPDDR4 RAM</p></td>
 <td><p>4 GB LPDDR4X RAM</p></td>
+<td><p>6 GB RAM</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -110,6 +129,8 @@
 <td><p>32/128 GB</p></td>
 <td><p>64/128 GB</p></td>
 <td><p>64 GB</p></td>
+<td><p>64/128 GB</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -126,6 +147,8 @@
 <td><p>3430mAh</p></td>
 <td><p>3000mAh</p></td>
 <td><p>3700mAh</p></td>
+<td><p>2800mAh</p></td>
+<td><p>3700mAh</p></td>
 </tr>
 <tr class="odd">
 <td><p>相机</p></td>
@@ -133,6 +156,9 @@
 1230万像素（后置）</p></td>
 <td><p>800万像素（前置）<br />
 1220万像素（后置）</p></td>
+<td><p>800万像素（前置）<br />
+1220万像素+1600万像素（后置）</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -145,6 +171,8 @@
 <td><p><a href="../Page/Android_Nougat.md" title="wikilink">7.1 Nougat</a></p></td>
 <td><p><a href="../Page/Android_Oreo.md" title="wikilink">8.0.0 Oreo</a></p></td>
 <td><p><a href="../Page/Android_Pie.md" title="wikilink">9.0.0 Pie</a></p></td>
+<td><p><a href="../Page/Android_10.md" title="wikilink">Android 10</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -153,7 +181,9 @@
 </tr>
 <tr class="odd">
 <td><p>支持的最新操作系统</p></td>
-<td><p><a href="../Page/Android_Q.md" title="wikilink">Android Q 10.0.0</a></p></td>
+<td><p><a href="../Page/Android_10.md" title="wikilink">Android 10</a></p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -172,8 +202,12 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -191,27 +225,27 @@
 
 ## 笔记本电脑
 
-| 名稱                                      | Pixelbook                                                             |
-| --------------------------------------- | --------------------------------------------------------------------- |
-| 製造商                                     | [Google](../Page/Google.md "wikilink")                                |
-| 发布日期                                    | 2017年10月5日                                                            |
-| 显示屏                                     | 12.3英寸                                                                |
-| [系统芯片](../Page/系统芯片.md "wikilink")（SoC） | Intel Core i5                                                         |
-| 内存                                      | 8/16 GB LPDDR4 RAM                                                    |
-| 容量                                      | 128/256/512 GB支援（NVME 固態硬碟）                                           |
-| 电池                                      | 41 Whr電池 45W充電器（5V / 3A，9V / 3A，15V / 3A，20V / 2.25A）                 |
-| 相机                                      | 720p 攝像頭 (60fps)                                                      |
-| 預裝[操作系统](../Page/操作系统.md "wikilink")    | Chrome OS                                                             |
-| 支持的最新操作系统                               | Chrome OS                                                             |
-| 接口                                      | 兩個[USB-C充電](https://zh.wikipedia.org/wiki/USB-C "wikilink")、3.5mm耳機插孔 |
-| 網站                                      | <https://store.google.com/us/product/google_pixelbook_specs>          |
-|                                         |                                                                       |
+| 名稱                                      | Pixelbook                                                             | Pixelbook Go       |
+| --------------------------------------- | --------------------------------------------------------------------- | ------------------ |
+| 製造商                                     | [Google](../Page/Google.md "wikilink")                                |                    |
+| 发布日期                                    | 2017年10月5日                                                            | 2019年10月15日        |
+| 显示屏                                     | 12.3英寸                                                                |                    |
+| [系统芯片](../Page/系统芯片.md "wikilink")（SoC） | Intel Core i5                                                         | Intel Core i7      |
+| 内存                                      | 8/16 GB LPDDR4 RAM                                                    | 8/16 GB LPDDR4 RAM |
+| 容量                                      | 128/256/512 GB支援（NVME 固態硬碟）                                           |                    |
+| 电池                                      | 41 Whr電池 45W充電器（5V / 3A，9V / 3A，15V / 3A，20V / 2.25A）                 |                    |
+| 相机                                      | 720p 攝像頭 (60fps)                                                      |                    |
+| 預裝[操作系统](../Page/操作系统.md "wikilink")    | Chrome OS                                                             |                    |
+| 支持的最新操作系统                               | Chrome OS                                                             |                    |
+| 接口                                      | 兩個[USB-C充電](https://zh.wikipedia.org/wiki/USB-C "wikilink")、3.5mm耳機插孔 |                    |
+| 網站                                      | <https://store.google.com/us/product/google_pixelbook_specs>          |                    |
+|                                         |                                                                       |                    |
 
 ## 配件
 
 ### Pixel Buds
 
-在谷歌2017年10月的硬件活動中，一系列無線耳機與Pixel 2智能手機一同亮相。耳機專為運行Android Marshmallow或更高級別的手機而設計，並可與Google智能助理配合使用。\[7\]除了音頻播放和接聽電話，耳機支持40種語言的翻譯通過[Google翻譯](https://zh.wikipedia.org/wiki/Google翻譯 "wikilink")\[8\] ，耳機可以與[Pixel 2自動配對後](../Page/Pixel_2.md "wikilink")，可以[Pixel 2內置應用程式裏的](../Page/Pixel_2.md "wikilink")[Google智能助理和Google](https://zh.wikipedia.org/wiki/Google智能助理 "wikilink") Nearby功能\[9\]。Pixel Buds顏色有Just Black,Clearly White和Kinda Blue。耳機的電池容量為120 mAh，而Pixel Buds附帶的充電盒的電池容量為620 mAh。這款耳機的售價為159美元。\[10\]
+在谷歌2017年10月的硬件活動中，一系列無線耳機與Pixel 2智能手機一同亮相。耳機專為運行Android Marshmallow或更高級別的手機而設計，並可與Google智能助理配合使用。\[7\]除了音頻播放和接聽電話，耳機支持40種語言的翻譯通過[Google翻譯](https://zh.wikipedia.org/wiki/Google翻譯 "wikilink")\[8\]，耳機可以與[Pixel 2自動配對後](../Page/Pixel_2.md "wikilink")，可以[Pixel 2內置應用程式裏的](../Page/Pixel_2.md "wikilink")[Google智能助理和Google](https://zh.wikipedia.org/wiki/Google智能助理 "wikilink") Nearby功能\[9\]。Pixel Buds顏色有Just Black,Clearly White和Kinda Blue。耳機的電池容量為120 mAh，而Pixel Buds附帶的充電盒的電池容量為620 mAh。這款耳機的售價為159美元。\[10\]
 
 ### Pixelbook Pen
 

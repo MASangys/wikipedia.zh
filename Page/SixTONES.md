@@ -1,6 +1,6 @@
 **SixTONES**是由[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")的[小傑尼斯](../Page/小傑尼斯.md "wikilink")──[傑西](../Page/傑西.md "wikilink")、[松村北斗](../Page/松村北斗.md "wikilink")、[森本慎太郎](../Page/森本慎太郎.md "wikilink")、[京本大我](../Page/京本大我.md "wikilink")、[田中樹](../Page/田中樹.md "wikilink")及[高地優吾](../Page/高地優吾.md "wikilink")所組成的團體，念作「STONES」。
 
-SixTONES的意思是解作六個不同的音階，代表著六人每人也有各自屬於自己的音調。
+SixTONES的意思是解作六個不同的音階，代表著六人每人也有各自屬於自己的音調。2015年5月1日結成，2020年1月22日正式發行單曲出道。
 
 ### 成員
 
@@ -35,6 +35,8 @@ SixTONES的意思是解作六個不同的音階，代表著六人每人也有各
 同年10月29日，在東京JR線的品川站内揭載了六人的海報「ジャニーズをデジタルに放つ新世代。」 並宣布參與世界各地展開的「YouTube Artist Promotion」活動，成為日本第一組參與這個活動的藝人。 11月5日在YouTube頻道上公開為了該活動拍攝的Music Video \< JAPONICA STYLE \>，該MV由[瀧澤秀明](../Page/瀧澤秀明.md "wikilink")執導。 12月11日參加在幕張展覽館舉行的「YouTube FanFest Music」
 
 2019年8月8日在東京巨蛋舉行的「小傑尼斯大祭〜從東京巨蛋啟程〜」中與同為小傑尼斯組合的[Snow Man一起宣佈將於](../Page/Snow_Man.md "wikilink")2020年發行CD出道。 同時宣佈8月9日起從小傑尼斯共有的YouTube頻道畢業、開設獨立[Artist YouTube頻道](https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww)以及[公式Instagram](https://www.instagram.com/sixtones_official/)。
+
+2019年10月23日用YouTube直播的方式宣布2020年1月22日正式發行單曲出道，所屬唱片公司為[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")。
 
 ## 原創歌曲
 
@@ -153,12 +155,21 @@ SixTONES的意思是解作六個不同的音階，代表著六人每人也有各
 
 <!-- end list -->
 
-  - 光る、兆し
+  - 光る、兆し <JASRAC作品247-5521-4>
 
 <!-- end list -->
 
   -
     作詞：中野領太、作曲：中野領太
+
+<!-- end list -->
+
+  - RAM-PAM-PAM <JASRAC作品IN6-0638-4>
+
+<!-- end list -->
+
+  -
+    作詞：ONIGASHIMA、作曲：STODDART SCOTT RUSSELL/THOMSON MARK ANGELICO
 
 ## 演出
 
@@ -180,7 +191,8 @@ SixTONES的意思是解作六個不同的音階，代表著六人每人也有各
   - Summer Paradise 2018（2018年7月28日 - 8月4日、28日、29日、TOKYO DOME CITY HALL)
   - CHANGE the ERA -201ix-（2019年3月21 - 23日、橫濱體育館 / 4月20日、宮城·Sekisui Heim Super Arena〔追加公演〕 / 5月1 - 2日、大阪城Hall）
   - Johnny's Jr. 8・8祭り〜從東京巨蛋開始〜（2019年8月8日、東京巨蛋）
-  - Rough"xxxxxx"（2019年10月9日 - 12月23日、兵庫．京都．愛知．長野．廣島．大阪．岐阜．石川．富山．東京．福島．宮城．香川．沖繩 / 2020年、神奈川．福岡．大阪．靜岡．宮城）
+  - Rough"xxxxxx"（2019年10月9日 - 12月23日、兵庫．京都．愛知．長野．廣島．大阪．岐阜．石川．富山．東京．福島．宮城．香川．沖繩）
+  - TrackONE -IMPACT-（2020年1月4日 - 3月29日 神奈川．福岡．大阪．靜岡．北海道）
 
 ### 舞台劇
 
@@ -209,13 +221,19 @@ SixTONES的意思是解作六個不同的音階，代表著六人每人也有各
 
   - 少年們（2019年3月29日上映）
 
-<!-- end list -->
+### 代言廣告
+
+  - 怪物彈珠（2019年7月8日CM O.A）
+
+[`SixTONES×モンスト「こいつらまちがいない」篇``   ``60秒Ver.`](https://www.youtube.com/watch?v=xdAFxye5BWc)
+[`SixTONES×モンスト``   ``CM公開記念キャンペーン特設サイト`](https://www.monster-strike.com/promotion/sixtones/?utm_campaign=sixtones&utm_source=youtube_cm)
 
   -
 
 ## 外部連結
 
   - [Johnny's net \> Johnny Jr.](http://www.johnnys-net.jp/page?id=artistTop&artist=21&lang=zh_tw) - Johnny事務所 JohnnyJr.公式網頁
+  - [SixTONES Official site](https://www.sixtones.jp) - Sony Music Entertainment (Japan) Inc. SixTONES公式網頁
 
 [Category:小傑尼斯團體](https://zh.wikipedia.org/wiki/Category:小傑尼斯團體 "wikilink")
 

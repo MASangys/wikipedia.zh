@@ -72,19 +72,12 @@
 [Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
 
 1.  [あねいもNeo Second Sisters](http://www.getchu.com/soft.phtml?id=748123)Getchu.com
-
 2.  [Aneimo Neo \~Second Sisters\~](https://vndb.org/v10867)The Visual Novel Database
-
 3.  [あねいもＮｅｏ](http://www.n43project.com/n43/npg165/outline.html)N43 Project
-
-4.  [あねいも Neo＋ ～Second Sisters～ 特集](http://www.game-style.jp/special/201309/10/00anp_bu.php)Game-Style
-
+4.  [あねいも Neo＋ ～Second Sisters～ 特集](http://www.game-style.jp/special/201309/10/00anp_bu.php) Game-Style
 5.  [Aneimo Neo+ \~Second Sisters\~](https://vndb.org/v12606)The Visual Novel Database
-
 6.  [もっともっと、日向家セット](http://www.net-ride.com/shopping/syosai.php?R_km_url=bootup&R_sm_code=7190&dw_week=20160123233503)NET RIDE
-
 7.
-
 8.
 9.
 10.
@@ -94,9 +87,6 @@
 14.
 15.
 16. [あねいもNeo Second Sisters](http://erogetrailers.com/soft/9140)ErogeTrailers
-
 17. [あねいもNeo＋ Second Sisters](http://erogetrailers.com/soft/10545)ErogeTrailers
-
 18. [あねいも Neo ～Second Sisters～](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=17392)ErogameScape -エロゲー批評空間-
-
 19. [美少女ゲーム大賞2012 エロ部門投票・結果発表](http://www.getchu.com/pc/2012_g_ranking/eros.html)Getchu.com

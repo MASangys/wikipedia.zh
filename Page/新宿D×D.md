@@ -84,7 +84,7 @@
 
   - [友善文創《新宿DxD》相關資訊介紹網站](http://www.friendly-land.com/tw/works.php?uid=23)
   - [《新宿D×D》漫畫特設介紹網站](http://kc.kodansha.co.jp/title?code=1000006762)
-  - [漫畫王APP觀看《新宿D×D》網頁版](https://www.mangabox.me/reader/zh/#manga_106)
+  - [漫畫王APP觀看《新宿D×D》網頁版](https://web.archive.org/web/20140609195912/https://www.mangabox.me/reader/zh/#manga_106)
 
 [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:彭傑](https://zh.wikipedia.org/wiki/Category:彭傑 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:推理漫畫](https://zh.wikipedia.org/wiki/Category:推理漫畫 "wikilink") [Category:醫療漫畫](https://zh.wikipedia.org/wiki/Category:醫療漫畫 "wikilink") [Category:新宿背景作品](https://zh.wikipedia.org/wiki/Category:新宿背景作品 "wikilink") [Category:醫學題材作品](https://zh.wikipedia.org/wiki/Category:醫學題材作品 "wikilink") [Category:臺灣漫畫家與日本漫畫家合作作品](https://zh.wikipedia.org/wiki/Category:臺灣漫畫家與日本漫畫家合作作品 "wikilink")
 

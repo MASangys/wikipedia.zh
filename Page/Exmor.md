@@ -1,4 +1,4 @@
-[Sony_Exmor.jpg](https://zh.wikipedia.org/wiki/File:Sony_Exmor.jpg "fig:Sony_Exmor.jpg") [CMOS_SONY_EXMOR_R_IMX055CHL_sensor_side+size.jpg](https://zh.wikipedia.org/wiki/File:CMOS_SONY_EXMOR_R_IMX055CHL_sensor_side+size.jpg "fig:CMOS_SONY_EXMOR_R_IMX055CHL_sensor_side+size.jpg") **Exmor**是索尼公司应用在其部分[CMOS图像传感器上的技术名称](https://zh.wikipedia.org/wiki/CMOS "wikilink")。其可以实现片上[模数转换以及错行像素的两步降噪并行处理](https://zh.wikipedia.org/wiki/模数转换 "wikilink")。
+[Sony_Exmor.jpg](https://zh.wikipedia.org/wiki/File:Sony_Exmor.jpg "fig:Sony_Exmor.jpg") **Exmor**是索尼公司应用在其部分[CMOS图像传感器上的技术名称](https://zh.wikipedia.org/wiki/CMOS "wikilink")。其可以实现片上[模数转换以及错行像素的两步降噪并行处理](https://zh.wikipedia.org/wiki/模数转换 "wikilink")。
 
 **Exmor R**则是索尼的Exmor的版本\[1\] 。索尼公司于2008年6月11日发布Exmor R，其也是世界上首个量产型背照式传感器技术\[2\] 。索尼声称Exmor R约可达到传统前照式传感器（front illuminated sensor）两倍灵敏度。这类在一些索尼出品的拍照手机与相机中有应用，甚至[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iPhone 4S与](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")[iPhone 5中也有应用](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")\[3\]\[4\] 。Exmor R传感器有助于帮助智能手机在低照度环境下获取高分辨率视频或静止图像。
 
@@ -1386,100 +1386,63 @@
 [Category:图像传感器](https://zh.wikipedia.org/wiki/Category:图像传感器 "wikilink")
 
 1.
-
 2.  <http://www.sony.net/SonyInfo/News/Press/200806/08-069E/index.html>
-
 3.
-
 4.
-
 5.  [Sony Announces the Exmor RS™, the Industry's First\*1 Stacked CMOS Image Sensor with an Image Plane Phase Detection Signal Processing Function for High-Speed AF](http://www.sony.net/SonyInfo/News/Press/201411/14-112E/) sony.net
-
 6.
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
 15.
-
 16.
 17.
-
 18.
 19.
 20.
-
 21.
-
 22.
 23.
 24.
 25.
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
 36.
-
 37.
 38.
 39.
-
 40.
-
 41.
 42.
-
 43.
 44.
 45.
 46.
 47.
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54. <http://techinsights.com/about-techinsights/overview/blog/samsung-galaxy-s9-camera-teardown/>
-
 55. <http://www.sony-semicon.co.jp/products_en/IS/sensor1/img/products/ProductBrief_IMX351_20171109.pdf>
-
 56.
 57.
-
 58.
-
 59.
 60.
 61.

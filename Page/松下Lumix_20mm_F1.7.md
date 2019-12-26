@@ -39,12 +39,8 @@ Panasonic Lumix DMC-GX1 Lumix G 20 f1.7.jpg Micro Four Thirds Olympus E-P2 with 
 [Category:微4/3系統](https://zh.wikipedia.org/wiki/Category:微4/3系統 "wikilink") [Category:松下镜头](https://zh.wikipedia.org/wiki/Category:松下镜头 "wikilink") [Category:饼干镜头](https://zh.wikipedia.org/wiki/Category:饼干镜头 "wikilink")
 
 1.  [マイクロフォーサーズ1号機をアピールしたパナソニック](http://dc.watch.impress.co.jp/cda/other/2008/09/26/9313.html) - DC Watch Impress
-
 2.  [パナソニック、薄型単焦点レンズ「LUMIX G 20mm F1.7 ASPH.」](http://dc.watch.impress.co.jp/docs/news/20090902_312498.html) - DC Watch Impress
-
 3.
 4.  [パナソニック、87gに軽量化した「LUMIX G 20mm F1.7 II ASPH.」](http://dc.watch.impress.co.jp/docs/news/20130627_605459.html) - DC Watch Impress
-
 5.  [Panasonic Lumix G 20mm F1.7 ASPH](http://www.dpreview.com/products/panasonic/lenses/panasonic_20_1p7) - DP Review
-
 6.  [The Panasonic Lumix G 20 1.7 Lens Review](http://www.stevehuffphoto.com/2010/01/18/the-pansonic-lumix-g-20-1-7-lens-review/) - steve huff

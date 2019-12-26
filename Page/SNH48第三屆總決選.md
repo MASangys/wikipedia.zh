@@ -1264,25 +1264,16 @@ BEJ48 TOP 7成員、GNZ48 TOP 7成員將由各自所屬團體拍攝專屬時尚�
 [Category:SNH48](https://zh.wikipedia.org/wiki/Category:SNH48 "wikilink") [Category:SNH48的演唱會](https://zh.wikipedia.org/wiki/Category:SNH48的演唱會 "wikilink")
 
 1.  [SNH48攜姐妹團“比翼齊飛”第三屆年度人氣總決選5月啟動！](http://www.snh48.com/html/allnews/zixun/2016/0513/1683.html)
-
 2.
-
 3.
-
 4.
-
 5.  [關於第三屆偶像人氣年度總決選 參選成員](http://vote.48.cn/web/rules.html)
-
 6.
-
 7.  [關於SNH48第三届偶像年度人气总决选演唱会](http://www.snh48.com/event/s148/)
-
 8.
 9.
 10. 由於只公佈該屆當選成員的得票數，因此這裏只列出連續兩屆皆入圍的成員所得票數變化。
-
 11. 每屆的「未入選排名」都不相同，視乎該屆的當選名額，第一屆為17位以下，上屆為第33位以下，本屆則為第49位以下。
-
 12.
 13.
 14.

@@ -25,17 +25,10 @@ Statista提供统计和调查數據與資料，結合条形图和表格來反應
 [Category:互联网公司](https://zh.wikipedia.org/wiki/Category:互联网公司 "wikilink") [Category:漢堡公司](https://zh.wikipedia.org/wiki/Category:漢堡公司 "wikilink")
 
 1.  [Statista: Balken, die die Welt beschreiben](http://www.spiegel.de/wirtschaft/unternehmen/statista-balken-die-die-welt-beschreiben-a-1055683.html), Spiegel Online
-
 2.  [Encyclopedia Britannica vs. Wikipedia \[INFOGRAPHIC](http://mashable.com/2012/03/16/encyclopedia-britannica-wikipedia-infographic/)\], Mashable Asia
-
 3.  [This Year's Forbes World's Billionaires List In One Simple Infographic](http://www.businessinsider.com/forbes-billionaires-list-infographic-2012-3), Wall Street Journal, New York Times, Business Insider
-
 4.  [Yahoo’s fallback position: Hey, at least we’re not AOL (numbers)](http://venturebeat.com/2012/01/24/yahoos-fallback-position-hey-at-least-were-not-aol-numbers/), VentureBeat
-
 5.  [About Statista Inc.](http://www.statista.com/aboutus/), Statista
-
 6.  [Statista ist das Start-up des Jahres](http://www.deutsche-startups.de/2008/12/15/statista-ist-das-start-up-des-jahres/), Deutsche Startups
-
 7.  [Best Databases 2014](http://reviews.libraryjournal.com/2014/11/reference/best-databases-2014/) , Library Journal
-
 8.

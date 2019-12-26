@@ -15,11 +15,7 @@ foe 這個詞是由[石溪大學的](https://zh.wikipedia.org/wiki/石溪大學 
 [Category:能量單位](https://zh.wikipedia.org/wiki/Category:能量單位 "wikilink") [Category:超新星](https://zh.wikipedia.org/wiki/Category:超新星 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.

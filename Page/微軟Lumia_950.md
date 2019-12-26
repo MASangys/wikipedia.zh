@@ -36,10 +36,6 @@
   - [微软 Lumia 950](http://www.microsoft.com/zh-cn/mobile/phone/lumia950-dual-sim/)
   - [微软 Lumia 950 XL](http://www.microsoft.com/zh-cn/mobile/phone/lumia950-xl-dual-sim/)
 
-### Lumia 950(XL) 发布会视频
-
-  - [微软10月6日发布会视频 中文字幕](http://www.bilibili.com/video/av3026023/)
-
 ## 參見
 
   - [微軟Lumia](https://zh.wikipedia.org/wiki/微軟Lumia "wikilink")

@@ -2046,7 +2046,7 @@ IP位址數量</p></th>
 ## 参见
 
   - [IP位址](https://zh.wikipedia.org/wiki/IP位址 "wikilink")
-  - [IPv4位址枯竭](https://zh.wikipedia.org/wiki/IPv4位址枯竭 "wikilink")
+  - [IPv4位址枯竭](../Page/IPv4位址枯竭.md "wikilink")
   - [2012年互联网普查](https://zh.wikipedia.org/wiki/2012年互联网普查 "wikilink")（卡爾納殭屍網路）
   - [已分配的/8 IPv4地址块列表](https://zh.wikipedia.org/wiki/已分配的/8_IPv4地址块列表 "wikilink")
 

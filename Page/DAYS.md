@@ -222,7 +222,7 @@
 
 ## 出版書籍
 
-  - [安田剛士](../Page/安田剛士.md "wikilink")《DAYS》，[日本](../Page/日本.md "wikilink")[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")〈講談社Comics〉，目前出版31冊（2019年2月）。台灣由[東立出版社](../Page/東立出版社.md "wikilink")發行。
+  - [安田剛士](../Page/安田剛士.md "wikilink")《DAYS》，[日本](../Page/日本.md "wikilink")[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")〈講談社Comics〉，目前出版35冊（2019年11月）。台灣由[東立出版社](../Page/東立出版社.md "wikilink")發行。
 
 <table>
 <thead>
@@ -414,6 +414,11 @@ ISBN 978-4-06-510693-8（限定版）</p></td>
 <td><p>2019年8月16日</p></td>
 <td><p>ISBN 978-4-06-516229-3</p></td>
 </tr>
+<tr class="even">
+<td><p>35</p></td>
+<td><p>2019年11月15日</p></td>
+<td><p>ISBN 978-4-06-517313-8</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -423,26 +428,26 @@ ISBN 978-4-06-510693-8（限定版）</p></td>
 
 ### 製作人員
 
-  - 原作－[安田剛士](../Page/安田剛士.md "wikilink")
-  - 導演、劇本統籌－[宇田鋼之介](../Page/宇田鋼之介.md "wikilink")
-  - 副導演－[境宗久](../Page/境宗久.md "wikilink")
-  - 人物設定－[中澤一登](../Page/中澤一登.md "wikilink")
-  - 總作畫監督－新沼大祐、西村理惠
-  - 美術監督－木下了香
-  - 美術設定－天田俊貴
-  - 色彩設計－鎌田千賀子
-  - CG監督－川田和賜
-  - 攝影監督－KIM BOO CHEOL、藤田智史
-  - 剪輯－奧田浩史
-  - 音響監督－[三間雅文](../Page/三間雅文.md "wikilink")、[中嶋聰彥](../Page/中嶋聰彥.md "wikilink")
-  - 音響製作－
-  - 音樂－[池賴廣](../Page/池賴廣.md "wikilink")
-  - 音樂製作－[Pony Canyon](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")
-  - 音樂製作人－三輪靖史、橫尾勇亮
-  - 製作人－坪井亮祐、立石謙介、川添千世、遠藤哲哉、龜井博司、北澤史隆、成毛克憲、大和田智之、田中葉子、相島豪太
-  - 動畫製作人－大塚學
-  - 動畫製作－[MAPPA](../Page/MAPPA.md "wikilink")
-  - 製作－[「DAYS」製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（Pony Canyon、講談社、電通、每日放送、TOKYO MX、BS11、[Animax Broadcast Japan](../Page/Animax.md "wikilink")、、）
+  - 原作：[安田剛士](../Page/安田剛士.md "wikilink")
+  - 導演、劇本統籌：[宇田鋼之介](../Page/宇田鋼之介.md "wikilink")
+  - 副導演：[境宗久](../Page/境宗久.md "wikilink")
+  - 人物設定：[中澤一登](../Page/中澤一登.md "wikilink")
+  - 總作畫監督：新沼大祐、西村理惠
+  - 美術監督：木下了香
+  - 美術設定：天田俊貴
+  - 色彩設計：-{鎌}-田千賀子
+  - CG監督：川田和賜
+  - 攝影監督：KIM BOO CHEOL、藤田智史
+  - 剪輯：奧田浩史
+  - 音響監督：[三間雅文](../Page/三間雅文.md "wikilink")、[中-{嶋}-聰彥](../Page/中嶋聰彥.md "wikilink")
+  - 音響製作：
+  - 音樂：[池賴廣](../Page/池賴廣.md "wikilink")
+  - 音樂製作：[Pony Canyon](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")
+  - 音樂製作人：三輪靖史、橫尾勇亮
+  - 製作人：坪井亮祐、立石謙介、川添千世、遠藤哲哉、龜井博司、北澤史隆、成毛克憲、、田中葉子、相島豪太
+  - 動畫製作人：大塚學
+  - 動畫製作：[MAPPA](../Page/MAPPA.md "wikilink")
+  - 製作：[「DAYS」製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（Pony Canyon、[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[每日放送](../Page/每日放送.md "wikilink")、[TOKYO MX](../Page/東京都會電視台.md "wikilink")、[BS11](../Page/日本BS放送.md "wikilink")、[Animax Broadcast Japan](../Page/Animax.md "wikilink")、、）
 
 ### 主題曲
 
@@ -890,14 +895,20 @@ Ha Yeun Jung</p></td>
 
 ### 播放電視台
 
-| 播放地區                                   | 播放電視台                                                         | 播放日期              | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬聯播網                                                     | 備註 |
-| -------------------------------------- | ------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | -- |
-| [近畿地方](../Page/近畿地方.md "wikilink")     | [每日放送](../Page/每日放送.md "wikilink")                            | 2016年7月2日－12月17日  | 星期六 26時58分－27時28分                                                                                             | [TBS電視網](https://zh.wikipedia.org/wiki/TBS電視網 "wikilink") |    |
-| [東京都](../Page/東京都.md "wikilink")       | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 2016年7月3日－12月18日  | 星期日 23時00分－23時30分                                                                                             | [獨立局](../Page/全國獨立放送協議會.md "wikilink")                    |    |
-| 日本全國                                   | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")         | 星期日 25時00分－25時30分 | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")                                                         | [ANIME+](../Page/ANIME+.md "wikilink")節目                  |    |
-| [Animax](../Page/Animax.md "wikilink") | 2016年8月4日－2017年1月28日                                          | 星期四 19時00分－19時30分 | 有重播                                                                                                           |                                                           |    |
+{{ 放送期間 | media=電視台 | 播放日期 | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 播放電視台 | 播放地區 | 備註 | 2016年7月2日－12月17日 | 星期六 26時58分－27時28分 | [每日放送](../Page/每日放送.md "wikilink") | [近畿地方](../Page/近畿地方.md "wikilink") | **製作委員會參加**
+[字幕放送](https://zh.wikipedia.org/wiki/電視資訊 "wikilink")
+『』第3部 | 2016年7月3日－12月18日 | 星期日 23時00分－23時30分 | [TOKYO MX](../Page/東京都會電視台.md "wikilink") | [東京都](../Page/東京都.md "wikilink") | **製作委員會參加**
+有重播 | | 星期日 25時00分－25時30分 | [BS11](../Page/日本BS放送.md "wikilink") | 日本全國 | **製作委員會參加**
+[BS放送](https://zh.wikipedia.org/wiki/日本衛星電視廣播#BS卫星频道 "wikilink")
+『[ANIME+](../Page/ANIME+.md "wikilink")』時段
+有重播 | 2016年8月4日－2017年1月28日 | 星期四 19時00分－19時30分 | [Animax](../Page/Animax.md "wikilink") | 日本全國 | **製作委員會參加**
+BS／[CS放送](https://zh.wikipedia.org/wiki/日本衛星電視廣播#CS卫星频道 "wikilink")
+字幕放送
+有重播 | ref= | refname=onair }}
 
-### BD／DVD
+{{ 放送期間 | media=網路電視 | width1=12em | width2=8em | 發佈日期 | 發佈時間 | 發佈網站 | | 2016年7月4日－12月19日 | 星期一 12時00分 更新 |  | | 2016年7月6日－12月21日 | 星期三 12時00分 更新 |  | | refname=onair }}
+
+### BD\&DVD
 
 | 卷數 | 發售日期        | 收錄話數      | 規格編號       |
 | -- | ----------- | --------- | ---------- |

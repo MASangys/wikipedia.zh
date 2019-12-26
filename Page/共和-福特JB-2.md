@@ -23,9 +23,6 @@
 [Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink") [Category:巡弋飛彈](https://zh.wikipedia.org/wiki/Category:巡弋飛彈 "wikilink")
 
 1.
-
 2.  U.S. Air Force Tactical Missiles, (2009), George Mindling, Robert Bolton ISBN 978-0-557-00029-6
-
 3.
-
 4.

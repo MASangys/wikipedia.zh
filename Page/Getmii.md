@@ -39,56 +39,35 @@ Getmii要求用户使用Facebook账户登录。\[32\]因为用户的个人资料
 [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:行動軟體](https://zh.wikipedia.org/wiki/Category:行動軟體 "wikilink") [Category:2015年建立的网站](https://zh.wikipedia.org/wiki/Category:2015年建立的网站 "wikilink") [Category:線上公司](https://zh.wikipedia.org/wiki/Category:線上公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
-
 14.
 15.
 16.
-
 17.
 18.
 19.
 20.
 21.
-
 22. <http://www.buzzfeed.com/cherbear71/10-most-concerning-posts-on-getmii-1vssa>
-
 23.
-
 24.  Culture {{\!}} Hustle|accessdate = 2015-10-08|deadurl = yes|archiveurl = [https://web.archive.org/web/20160323011147/http://smashd.co/what-do-you-need/|archivedate](https://web.archive.org/web/20160323011147/http://smashd.co/what-do-you-need/%7Carchivedate) = 2016-03-23}}
-
 25.
 26.
-
 27.
 28.
-
 29.
-
 30.  Culture {{\!}} Hustle|accessdate = 2015-10-08|deadurl = yes|archiveurl = [https://web.archive.org/web/20160323011147/http://smashd.co/what-do-you-need/|archivedate](https://web.archive.org/web/20160323011147/http://smashd.co/what-do-you-need/%7Carchivedate) = 2016-03-23}}
-
 31.
 32.
 33.  Culture {{\!}} Hustle|accessdate = 2015-10-08|deadurl = yes|archiveurl = [https://web.archive.org/web/20160323011147/http://smashd.co/what-do-you-need/|archivedate](https://web.archive.org/web/20160323011147/http://smashd.co/what-do-you-need/%7Carchivedate) = 2016-03-23}}

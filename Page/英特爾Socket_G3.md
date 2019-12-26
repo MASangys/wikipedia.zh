@@ -22,11 +22,8 @@ Socket G3設計是用於取代[Socket G2](https://zh.wikipedia.org/wiki/Socket_G
 [Category:CPU插座](https://zh.wikipedia.org/wiki/Category:CPU插座 "wikilink")
 
 1.  [Datasheet for Haswell M CPUs, see section 8.1, "Package Mechanical Specifications"](http://www.intel.com/content/dam/www/public/us/en/documents/datasheets/4th-gen-core-family-mobile-m-h-processor-lines-vol-1-datasheet.pdf)
-
 2.  [Intel ARK list of CPUs with socket FCPGA946](http://ark.intel.com/Search/Advanced?s=t&SocketsSupported=FCPGA946)
-
 3.
 4.
 5.  [Test of PGA946 CPUs Intel Core i7-4700MQ](http://www.hardwareluxx.de/index.php/artikel/hardware/notebooks/26507-test-intel-core-i7-4700mq-haswell-im-notebook.html?start=1)
-
 6.

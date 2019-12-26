@@ -10,14 +10,9 @@
 [Category:数据库](https://zh.wikipedia.org/wiki/Category:数据库 "wikilink") [Category:生物信息學](https://zh.wikipedia.org/wiki/Category:生物信息學 "wikilink") [Category:生物資訊資料庫](https://zh.wikipedia.org/wiki/Category:生物資訊資料庫 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.

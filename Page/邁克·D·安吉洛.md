@@ -304,9 +304,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+<td><p>2019</p></td>
+<td><p>口红王子 第二季</p></td>
+<td><p>常驻嘉宾</p></td>
 </tr>
 </tbody>
 </table>
@@ -1007,4 +1007,4 @@ Golf & Mike 已發行3張官方寫真集。全部由GMM Grammy的子公司'In Pu
 
 [Category:泰国演员](https://zh.wikipedia.org/wiki/Category:泰国演员 "wikilink") [Category:泰國電影演員](https://zh.wikipedia.org/wiki/Category:泰國電影演員 "wikilink") [Category:泰國電視演員](https://zh.wikipedia.org/wiki/Category:泰國電視演員 "wikilink") [Category:泰國男歌手](https://zh.wikipedia.org/wiki/Category:泰國男歌手 "wikilink") [Category:泰國華人](https://zh.wikipedia.org/wiki/Category:泰國華人 "wikilink") [Category:華裔混血兒](https://zh.wikipedia.org/wiki/Category:華裔混血兒 "wikilink") [Category:泰族裔混血兒](https://zh.wikipedia.org/wiki/Category:泰族裔混血兒 "wikilink") [Category:曼谷人](https://zh.wikipedia.org/wiki/Category:曼谷人 "wikilink")
 
-1.  [mike没结婚为什么有孩子 前女友生下一子两人依旧难以复合 尚之潮](http://www.shangc.net/news/2017/0821/34151523.html)
+1.

@@ -14,12 +14,8 @@
 [Category:密码学](https://zh.wikipedia.org/wiki/Category:密码学 "wikilink") [Category:分组密码](https://zh.wikipedia.org/wiki/Category:分组密码 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  吕述望. \[J\]. 信息安全研究, 2016, 2(11): 995-1007.
-
 5.  [无线局域网产品使用的SMS4密码算法](http://www.oscca.gov.cn/UpFile/200621016423197990.pdf)
-
 6.  [SMS4 Encryption Algorithm for Wireless Networks](http://eprint.iacr.org/2008/329.pdf)

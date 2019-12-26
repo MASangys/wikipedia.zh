@@ -138,30 +138,22 @@
   - 預告片
       -
   - [DISCOGRAPHY](https://web.archive.org/web/20140815150638/http://www.babymetal.jp/discography/) - BABYMETAL 官方網站
-  - [「BABYMETAL WORLD TOUR 2014」影像作品發行DEATH！！](http://www.babymetal.jp/news//0/14601/) - 新聞 - BABYMETAL 官方網站
-  - [「LIVE IN LONDON」封面公開＆ - THE ONE - 限定版預售啟動DEATH！！](http://www.babymetal.jp/news//0/14700/) - 新聞 - BABYMETAL 官方網站
+  - [「BABYMETAL WORLD TOUR 2014」影像作品發行DEATH！！](https://web.archive.org/web/20150518093619/http://www.babymetal.jp/news//0/14601/) - 新聞 - BABYMETAL 官方網站
+  - [「LIVE IN LONDON」封面公開＆ - THE ONE - 限定版預售啟動DEATH！！](https://web.archive.org/web/20150518093616/http://www.babymetal.jp/news//0/14700/) - 新聞 - BABYMETAL 官方網站
   - [Live in London: World Tour 2014的MusicBrainz音樂資料庫](https://musicbrainz.org/release/6d951c45-8d78-4d9a-a829-292c5d8d5236)
   - [Live In London - Babymetal World Tour 2014的Discogs音樂資料庫](https://www.discogs.com/ja/release/7562143)
 
 [Category:2015年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2015年音樂相關影像作品 "wikilink") [Category:現場影像](https://zh.wikipedia.org/wiki/Category:現場影像 "wikilink") [Category:BABYMETAL](https://zh.wikipedia.org/wiki/Category:BABYMETAL "wikilink")
 
 1.  不包括DVD形式的單曲。
-
 2.  DVD版為兩個場次分開的2枚組。藍光版為1枚組。
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
 11.
-
 12.

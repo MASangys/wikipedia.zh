@@ -85,24 +85,14 @@
 [Category:1991年歌曲](https://zh.wikipedia.org/wiki/Category:1991年歌曲 "wikilink") [Category:1993年單曲](https://zh.wikipedia.org/wiki/Category:1993年單曲 "wikilink") [Category:迈克尔·杰克逊歌曲](https://zh.wikipedia.org/wiki/Category:迈克尔·杰克逊歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  [Michael Jackson Dangerous Album Review | Rolling Stone](http://www.rollingstone.com/music/albumreviews/dangerous-19920101)
-
 8.  [Michael Jackson – Give In To Me – YouTube](https://www.youtube.com/watch?v=LJ7qXHjxj_0&list=PLD0B009A7933C12F4)
-
 9.  [iTunes – Music Videos – Give In to Me (Michael Jackson's Vision) by Michael Jackson](https://itunes.apple.com/ca/music-video/give-in-to-me-michael-jacksons/id405410854)
-
 10.
-
 11.
 12.

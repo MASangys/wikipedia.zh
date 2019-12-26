@@ -383,28 +383,18 @@
 [Category:中央區_(札幌市)](https://zh.wikipedia.org/wiki/Category:中央區_\(札幌市\) "wikilink") [Category:北海道文化](https://zh.wikipedia.org/wiki/Category:北海道文化 "wikilink") [Category:日本的祭](https://zh.wikipedia.org/wiki/Category:日本的祭 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
 8.
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.

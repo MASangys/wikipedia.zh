@@ -40,11 +40,8 @@ DMC超级盛典(**DMC Festival**)是[MBC](https://zh.wikipedia.org/wiki/MBC "wik
 [Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink") [Category:韓國文化](https://zh.wikipedia.org/wiki/Category:韓國文化 "wikilink")
 
 1.  MBC电视台中文版简介
-
 2.  2015 DMC Festival官方网站
-
 3.
 4.
 5.  2016 DMC Festival中文版官方网站
-
 6.

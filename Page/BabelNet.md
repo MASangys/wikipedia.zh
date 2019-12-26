@@ -54,20 +54,12 @@ BabelNet是最新的词汇知识资源库，具有巨大创新性，《[时代�
 [Category:人工智能](https://zh.wikipedia.org/wiki/Category:人工智能 "wikilink") [Category:计算语言学](https://zh.wikipedia.org/wiki/Category:计算语言学 "wikilink") [Category:知识表示](https://zh.wikipedia.org/wiki/Category:知识表示 "wikilink") [Category:多語](https://zh.wikipedia.org/wiki/Category:多語 "wikilink") [Category:在线词典](https://zh.wikipedia.org/wiki/Category:在线词典 "wikilink") [Category:本體_(電腦科學)](https://zh.wikipedia.org/wiki/Category:本體_\(電腦科學\) "wikilink")
 
 1.  R. Navigli and S. P Ponzetto. 2012. [BabelNet: The Automatic Construction, Evaluation and Application of a Wide-Coverage Multilingual Semantic Network](https://zh.wikipedia.org/wiki/doi:10.1016/j.artint.2012.07.001 "wikilink"). Artificial Intelligence, 193, Elsevier, pp. 217-250.
-
 2.  R. Navigli, S. P. Ponzetto. [BabelNet: Building a Very Large Multilingual Semantic Network](http://www.aclweb.org/anthology/P/P10/P10-1023.pdf). Proc. of the 48th Annual Meeting of the Association for Computational Linguistics (ACL 2010), Uppsala, Sweden, July 11–16, 2010, pp. 216–225.
-
 3.
 4.  M. Ehrmann, F. Cecconi, D. Vannella, J. McCrae, P. Cimiano, R. Navigli. [Representing Multilingual Data as Linked Data: the Case of BabelNet 2.0](http://www.lrec-conf.org/proceedings/lrec2014/pdf/810_Paper.pdf). Proc. of the 9th Language Resources and Evaluation Conference (LREC 2014), Reykjavik, Iceland, 26–31 May 2014.
-
 5.  R. Navigli and S. Ponzetto. 2012. [BabelRelate\! A Joint Multilingual Approach to Computing Semantic Relatedness](http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/download/5112/5126). Proc. of the 26th AAAI Conference on Artificial Intelligence (AAAI 2012), Toronto, Canada, pp. 108-114.
-
 6.  J. Camacho-Collados, M. T. Pilehvar and R. Navigli. [NASARI: a Novel Approach to a Semantically-Aware Representation of Items](http://aclweb.org/anthology/N/N15/N15-1059.pdf). Proc. of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2015), Denver, Colorado (US), 31 May-5 June 2015, pp. 567-577.
-
 7.  R. Navigli and S. Ponzetto. [Joining Forces Pays Off: Multilingual Joint Word Sense Disambiguation](http://www.aclweb.org/anthology/D12-1128). Proc. of the 2012 Conference on Empirical Methods in Natural Language Processing (EMNLP 2012), Jeju, Korea, July 12–14, 2012, pp. 1399-1410.
-
 8.  A. Moro, A. Raganato, R. Navigli. [Entity Linking meets Word Sense Disambiguation: a Unified Approach](http://www.transacl.org/wp-content/uploads/2014/05/54.pdf) . Transactions of the Association for Computational Linguistics (TACL), 2, pp. 231-244, 2014.
-
 9.  D. Jurgens, R. Navigli. [It's All Fun and Games until Someone Annotates: Video Games with a Purpose for Linguistic Annotation](http://www.transacl.org/wp-content/uploads/2014/10/421-camera-ready.pdf) . Transactions of the Association for Computational Linguistics (TACL), 2, pp. 449-464, 2014.
-
 10. Katy Steinmetz. [Redefining the modern dictionary](http://time.com/4327440/redefining-the-modern-dictionary/), TIME magazine, vol. 187, 23 maggio 2016, pp. 20-21.

@@ -6,6 +6,12 @@
 
 ## 参考资料
 
+## 外部連結
+
+  - [GT賽車6影片1](https://www.youtube.com/watch?v=FVEO3D76iqY)
+  - [GT賽車6影片2](https://www.youtube.com/watch?v=UVVaecwlccI)
+  - [GT賽車6影片3](https://www.youtube.com/watch?v=3oP407mxyjA)
+
 [Category:跑車浪漫旅系列](https://zh.wikipedia.org/wiki/Category:跑車浪漫旅系列 "wikilink") [Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_3独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3独占游戏 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:竞速模拟游戏](https://zh.wikipedia.org/wiki/Category:竞速模拟游戏 "wikilink") [Category:拉力赛电子游戏](https://zh.wikipedia.org/wiki/Category:拉力赛电子游戏 "wikilink") [Category:多人及单人电子游戏](https://zh.wikipedia.org/wiki/Category:多人及单人电子游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.

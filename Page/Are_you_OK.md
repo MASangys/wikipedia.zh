@@ -22,7 +22,7 @@
 
 [Category:2015年面世的網路迷因](https://zh.wikipedia.org/wiki/Category:2015年面世的網路迷因 "wikilink") [Category:2015年中国网络节目](https://zh.wikipedia.org/wiki/Category:2015年中国网络节目 "wikilink") [Category:鬼畜全明星](https://zh.wikipedia.org/wiki/Category:鬼畜全明星 "wikilink")
 
-1.  [“Are you OK”，英语把大佬们拉下神坛](http://news.163.com/15/0518/00/APRUNL9U00014AED.html)
+1.
 2.  [雷军鬼畜视频作者：希望他能努力说好英文](http://www.techweb.com.cn/internet/2015-05-06/2149208.shtml)
 3.  [新神曲诞生：雷军飚英语《Are You OK》火了](http://www.ithome.com/html/it/145180.htm)
 4.  [【循环向】跟着雷总摇起来！Are you OK！](https://www.bilibili.com/video/av2271112/)-Bilibili视频

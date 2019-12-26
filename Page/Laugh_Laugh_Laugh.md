@@ -50,17 +50,11 @@
 [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:GOT7音樂專輯](https://zh.wikipedia.org/wiki/Category:GOT7音樂專輯 "wikilink")
 
 1.  [GOT7 top Japan's 'Oricon' and 'Tower Records' charts\!](http://www.allkpop.com/article/2015/09/got7-top-japans-oricon-and-tower-records-charts) allkpop. 2015-09-24
-
 2.  [GOT7 3rdシングル「LAUGH LAUGH LAUGH」9月23日に発売決定！\!](http://www.sonymusic.co.jp/Music/Info/got7/information/archive/?457448) 日本索尼音樂官網. 2015-08-10
-
 3.  [GOT7 3rdシングル「LAUGH LAUGH LAUGH」の着うた(R)が8月17日（月）0:00～配信決定！！](http://www.sonymusic.co.jp/Music/Info/got7/information/archive/?457707) 日本索尼音樂官網. 2015-08-17
-
 4.  [LAUGH LAUGH LAUGH（全3形態）](http://www.sonymusicshop.jp/m/item/itemShw.php?site=S&ima=3739&cd=ESCL000004527) Sony Music Shop. 2015-08-10
-
 5.
 6.
 7.  [週間 CDシングルランキング 2015年10月05日付](http://www.oricon.co.jp/rank/js/w/2015-10-05/) 日本Oricon官網. 2015-10-05
-
 8.  [オリコン月間 CDシングルランキング 2015年09月度 11～20位](http://www.oricon.co.jp/rank/js/m/2015-09/p/2/) 日本Oricon官網. 2015-10-08
-
 9.

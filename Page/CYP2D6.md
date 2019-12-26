@@ -21,5 +21,4 @@ CYP2D6是[细胞色素P450](../Page/细胞色素P450.md "wikilink")混合功能�
 [Category:EC_1.14.14](https://zh.wikipedia.org/wiki/Category:EC_1.14.14 "wikilink") [Category:细胞色素P450](https://zh.wikipedia.org/wiki/Category:细胞色素P450 "wikilink")
 
 1.
-
 2.

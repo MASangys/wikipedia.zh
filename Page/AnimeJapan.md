@@ -29,6 +29,6 @@
 ## 外部鍊結
 
   -
-[Category:動畫會展](https://zh.wikipedia.org/wiki/Category:動畫會展 "wikilink") [Category:日本傳統節日](https://zh.wikipedia.org/wiki/Category:日本傳統節日 "wikilink") [Category:東京都文化](https://zh.wikipedia.org/wiki/Category:東京都文化 "wikilink") [Category:東京都觀光地](https://zh.wikipedia.org/wiki/Category:東京都觀光地 "wikilink") [Category:日本书展](https://zh.wikipedia.org/wiki/Category:日本书展 "wikilink") [Category:有明_(江東區)](https://zh.wikipedia.org/wiki/Category:有明_\(江東區\) "wikilink")
+[Category:動畫會展](https://zh.wikipedia.org/wiki/Category:動畫會展 "wikilink") [Category:日本年度事件](https://zh.wikipedia.org/wiki/Category:日本年度事件 "wikilink") [Category:東京都文化](https://zh.wikipedia.org/wiki/Category:東京都文化 "wikilink") [Category:日本书展](https://zh.wikipedia.org/wiki/Category:日本书展 "wikilink") [Category:有明_(江東區)](https://zh.wikipedia.org/wiki/Category:有明_\(江東區\) "wikilink")
 
 1.

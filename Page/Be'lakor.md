@@ -40,27 +40,16 @@ Be'lakor的音樂為沉穩細膩的編曲風格，強調故事性與優美氣氛
 
 1.
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12. [The Best Melodeath/Gothenburg Metal Album](http://www.metalstorm.ee/awards/categories.php?cat_id=4). *MetalStorm.net*. Retrieved 2010-09-16（英語）.
-
 13. [News/Newsletter](http://www.summer-breeze.de/site.php?name=News) . *Summer-Breeze.de*. Retrieved 2010-09-16（英語）
-
 14. [Release details of *Vessels*](http://belakorband.com/release/vessels-2016). *belakorband.com*. Retrieved 2016-09-30（英語）
-
 15.

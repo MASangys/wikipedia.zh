@@ -10,7 +10,7 @@
 
 TÜV的前身于1866年建立。最初负责公众场所与工作场所的安全，特别是设备、蒸汽机、锅炉的安全，建立了地区组织"Dampfkessel-Überwachungs- und Revisions-Vereine" (DÜV) (蒸汽锅炉监督与复审组织)自助独立监督，并取得成功，扩展改组为TÜV。至1870年有43个地区性TÜV；1871年政府不再监督该组织成员的锅炉安全。南德（SÜD）, 北德（NORD）, 莱茵（Rheinland）等即如此得名。
 
-经过历年的合并，现在德国有五家TÜV——TÜV SÜD, TÜV NORD, TÜV Rheinland, TÜV Thüringen, and TÜV Saarland / SGS TÜV；以及奥地利TÜV。它们共享商标，但是独立运营互为竞争对手。\[1\] 这六家组成了“TÜV Markenverbund” (TÜV商标协会)以维护商标的商誉。最大的是SÜD集团有19,000名雇员分布在全世界800个地点。仅有的与之匹敌的商业性认证机构是[瑞士通用公证行](https://zh.wikipedia.org/wiki/瑞士通用公证行 "wikilink")(SGS), 超过8万雇员.
+经过历年的合并，现在德国有五家TÜV——TÜV SÜD, TÜV NORD, TÜV Rheinland, TÜV Thüringen, and TÜV Saarland / SGS TÜV；以及奥地利TÜV。它们共享商标，但是独立运营互为竞争对手。\[1\] 这六家组成了“TÜV Markenverbund” (TÜV商标协会)以维护商标的商誉。最大的是TÜV SÜD集团有24,000多名雇员分布在全世界超过1000个地点。仅有的与之匹敌的商业性认证机构是[瑞士通用公证行](https://zh.wikipedia.org/wiki/瑞士通用公证行 "wikilink")(SGS), 超过8万雇员.
 
 ## TÜV与德国机动车
 

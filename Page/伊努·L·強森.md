@@ -85,17 +85,12 @@
 [Category:大西洋城人](https://zh.wikipedia.org/wiki/Category:大西洋城人 "wikilink") [Category:20世纪美国政治家](https://zh.wikipedia.org/wiki/Category:20世纪美国政治家 "wikilink") [Category:禁酒時期的黑幫](https://zh.wikipedia.org/wiki/Category:禁酒時期的黑幫 "wikilink") [Category:私酒販](https://zh.wikipedia.org/wiki/Category:私酒販 "wikilink") [Category:美國黑幫首領](https://zh.wikipedia.org/wiki/Category:美國黑幫首領 "wikilink") [Category:新澤西州共和黨黨員](https://zh.wikipedia.org/wiki/Category:新澤西州共和黨黨員 "wikilink") [Category:咆哮的二十年代](https://zh.wikipedia.org/wiki/Category:咆哮的二十年代 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.  Johnson, Nelson. *Boardwalk Empire*, Medford, N.J., Plexus Publishing, 2002 ISBN 0-937548-49-9
-
 8.
 9.
 10.
@@ -112,7 +107,6 @@
 21.
 22.
 23. McMahon, William. *So Young...So Gay\!*, Atlantic City, N.J., Press Publishing, 1970
-
 24.
 25.
 26.
@@ -122,14 +116,9 @@
 30.
 31.
 32.
-
 33.
 34.
-
 35.
-
 36.
-
 37.
-
 38.

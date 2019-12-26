@@ -53,74 +53,42 @@ Rita Maria Walburga Grosse-Ruyken成长于一座位于士瓦本－多瑙河地�
 [Category:德国艺术家](https://zh.wikipedia.org/wiki/Category:德国艺术家 "wikilink") [Category:巴伐利亞人](https://zh.wikipedia.org/wiki/Category:巴伐利亞人 "wikilink") [Category:慕尼黑大學校友](https://zh.wikipedia.org/wiki/Category:慕尼黑大學校友 "wikilink") [Category:德国雕塑家](https://zh.wikipedia.org/wiki/Category:德国雕塑家 "wikilink")
 
 1.  [NY TIMES](http://www.nytimes.com/2009/09/12/arts/12iht-rcartrays.html)
-
 2.
-
 3.  [The World in a Drop – The Ability of Water Functioning as Memory and Mirror](http://www.weltimtropfen.de/termine_impressionen_english.html)
-
 4.
 5.
 6.  [Exhibition Catalogue Rays of Light Transformations](https://portal.dnb.de/opac.htm?method=simpleSearch&query=idn%3D132418827)
-
 7.  [FESTSCHRIFT ALOYS GOERGEN](http://www.maeander-buch-kunst.eu/index.php?option=com_content&view=article&id=14&Itemid=14)
-
 8.
 9.  [eMuseum – Museum für Gestaltung Zürich](https://archive.is/20130808150159/http://sammlungen-archive.zhdk.ch/view/exhibitions/asitem/items$0040:153/0;jsessionid=0326426AC78D43C24099B4651E9759CD)
-
 10. [hammer and metal: The New Jewelry: Trends and Traditions](http://hammerandmetal.blogspot.de/2008/04/new-jewelry-trends-and-traditions.html)
-
-11. [Bauer, Helmut (Hrsg.): Münchner Goldschmiede. Schmuck und Gerät der Gegenwart. 914110 München: Klinkhardt und Biermann, im Angebot bei Buchfreund.de](https://www.buchfreund.de/Muenchner-Goldschmiede-Schmuck-und-Geraet-der-Gegenwart-Bauer-Helmut-Hrsg-3781403475,42098211-buch)
-
+11.
 12.
-
 13. [Videoarchiv Deutscher Künstlerbund](http://www.kuenstlerbund.de/deutsch/projekte/videoarchiv/das-videoarchiv/das-videoarchiv.html)
-
 14.
 15. [weltimtropfen.de](http://www.weltimtropfen.de/termine_impressionen_english.html)
-
 16.
 17.
-
 18.
 19.
 20. [faz-archiv.de: Der Gral im Augenblick seiner Enthüllung, Besprechung von Michael Hierholzer in der Frankfurter Allgemeinen Zeitung, abgerufen am 4. August 2013](http://www.genios.de/presse-archiv/artikel/rmo/20090617/0/fab200906172310199.html)
-
 21. [Kunst. "Gold ist nicht irdisch, Silber schon", Besprechung von Mia Beck in: Frankfurter Rundschau](http://www.fr-online.de/rhein-main/kunst--gold-ist-nicht-irdisch--silber-schon-,1472796,3170600.html)
-
 22. [Museum für Angewandte Kunst Frankfurt](http://www.frankfurt.de/sixcms//detail.php?id=2855&_ffmpar%5B_id_inhalt%5D=5931665)
-
 23.
-
 24. [KULTURpur](http://www.kulturpur.de/de/museum/museum-fuer-angewandte-kunst-mak/rays-of-light-rita-grosse-ryuken)
-
 25. [Galerien virtuell](http://galerienvirtuell.de/kunst-report-Ausstellungseroeffnung-Rays-of-Light-Rita-Grosse-Ruyken,1179.html)
-
 26. [Deutsche Nationalbibliothek](https://portal.dnb.de/opac.htm?method=simpleSearch&query=idn%3D132418827)
-
 27. \[<http://kestnergesellschaft.de/?lang=de#>\! Ausstellungen Kestnergesellschaft\]
-
 28. [Helmut Schneider: Kunstkalender München: „Körper – Zeichen“, Die Zeit, 3. August 1979](http://www.zeit.de/1979/32/kunstkalender)
-
 29. [Körper, Schmuck, Zeichen, Raum. Goldschmiedearbeiten, 17.01.1981 – 15.03.1981, Museum für Gestaltung Zürich](http://sammlungen-archive.zhdk.ch/view/exhibitions/asitem/items$0040:153/0;jsessionid=0326426AC78D43C24099B4651E9759CD)
-
 30. [DURCHFLUTUNG/RAYS OF LIGHT](https://drive.google.com/folderview?id=0B-rnmGvnxZPddUNJYmRsdi1DOFE&usp=sharing)
-
 31. [Impressionen Welt in Tropfen](http://www.weltimtropfen.de/termine_impressionen.html)
-
 32. [Die Welt](http://www.welt.de/kultur/article753888/Dubai-ist-auch-scharf-auf-Kunstmessen.html)
-
 33. [Pinakothek München](http://www.pinakothek.de/sites/default/files/files/Fuehrungsthemen_in_der_Pinakothek_der_Moderne\(1\).pdf)
-
 34. [Artikel im The National Abu Dhabi 2011](http://www.thenational.ae/arts-culture/art/relocated-and-reimagined-abu-dhabi-art-fairs-emergence)
-
 35. [The National](http://www.thenational.ae/arts-culture/art/relocated-and-reimagined-abu-dhabi-art-fairs-emergence)
-
 36. [gral.de](http://www.gral.de/aktuell)
-
 37. [Besprechung des Werkes von Rita Grosse-Ruyken Licht-Blüten-Schale auf bildimpuls.de](http://bildimpuls.de/rw_e13v/module/art2/default.asp?WebID=Bildimpuls&modus=det&ID=414)
-
 38. [Kuenstlerbund](http://www.kuenstlerbund.de/deutsch/projekte/videoarchiv/das-videoarchiv/das-videoarchiv.html)
-
 39. [Projekte Deutscher Künstlerbund](http://www.kuenstlerbund.de/deutsch/projekte/projekte-seit-2001/2012/2012_kuenstlerbuch.html)
-
 40. [Frameless Gallery](http://www.google.de/imgres?imgurl=http://www.framelessgallery.com/FramelessGallery/Past_Exhibitions_files/framless%252020131019G_framless0056.jpg&imgrefurl=http://www.framelessgallery.com/FramelessGallery/Past_Exhibitions.html&h=248&w=373&sz=19&tbnid=ntTR6WQDFZY_qM:&tbnh=90&tbnw=135&prev=/search%3Fq%3Drita%2Bgrosse-ruyken%2Bframeless%2Bgallery%26tbm%3Disch%26tbo%3Du&zoom=1&q=rita+grosse-ruyken+frameless+gallery&usg=__65IgRnhAJIw0hRYxXhBw5Q03NFU=&docid=N0p1eZcXPc3p6M&sa=X&ei=0ToDU5DoHcKatQbImYD4CQ&ved=0CGYQ9QEwCA&dur=2033)

@@ -33,7 +33,7 @@
 
 ### 小說插畫
 
-  - [約會大作戰](../Page/約會大作戰.md "wikilink")（[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")，作者：[橘公司](https://zh.wikipedia.org/wiki/橘公司 "wikilink")，2011年連載至今、刊載29卷【本傳20卷、短篇集9卷】）
+  - [約會大作戰](../Page/約會大作戰.md "wikilink")（[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")，作者：[橘公司](https://zh.wikipedia.org/wiki/橘公司 "wikilink")，2011年連載至今、刊載30卷【本傳21卷、短篇集9卷】）
 
 ### 漫畫
 

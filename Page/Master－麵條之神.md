@@ -72,7 +72,7 @@
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金宰英.md" title="wikilink">金宰英</a><br />
+<td><p><a href="../Page/金宰英.md" title="wikilink">金宰永</a><br />
 <small>少年：<a href="https://zh.wikipedia.org/wiki/安元鎮" title="wikilink">安元鎮</a></small></p></td>
 <td><p>高吉勇</p></td>
 <td><p>是保育院四人幫中的一名。雖然是個經常闖禍的民害，卻有著溫暖的內心。暗戀著汝景，默默的在一旁守候，以長腿叔叔自稱，照顧著汝景。</p></td>

@@ -91,7 +91,7 @@
 ## 外部連結
 
   -
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:2017年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2017年台灣電視劇集 "wikilink") [Category:台灣原住民題材作品](https://zh.wikipedia.org/wiki/Category:台灣原住民題材作品 "wikilink") [Category:屏東縣背景作品](https://zh.wikipedia.org/wiki/Category:屏東縣背景作品 "wikilink") [Category:靈媒](https://zh.wikipedia.org/wiki/Category:靈媒 "wikilink") [Category:排灣族](https://zh.wikipedia.org/wiki/Category:排灣族 "wikilink") [Category:社會問題題材作品](https://zh.wikipedia.org/wiki/Category:社會問題題材作品 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:2017年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2017年台灣電視劇集 "wikilink") [Category:台灣原住民題材作品](https://zh.wikipedia.org/wiki/Category:台灣原住民題材作品 "wikilink") [Category:屏東縣背景作品](https://zh.wikipedia.org/wiki/Category:屏東縣背景作品 "wikilink") [Category:靈媒](https://zh.wikipedia.org/wiki/Category:靈媒 "wikilink") [Category:排灣族](https://zh.wikipedia.org/wiki/Category:排灣族 "wikilink") [Category:臺灣社會題材作品](https://zh.wikipedia.org/wiki/Category:臺灣社會題材作品 "wikilink") [Category:人口流動](https://zh.wikipedia.org/wiki/Category:人口流動 "wikilink")
 
 1.  [「錦繡」再合作 《煙起裊裊》傳達歸鄉](http://www.epochtimes.com/b5/16/6/20/n8015428.htm)
 2.  [錦繡二重唱合體 不唱歌改演戲](http://udn.com/news/story/7264/1772965-%E9%8C%A6%E7%B9%A1%E4%BA%8C%E9%87%8D%E5%94%B1%E5%90%88%E9%AB%94-%E4%B8%8D%E5%94%B1%E6%AD%8C%E6%94%B9%E6%BC%94%E6%88%B2)

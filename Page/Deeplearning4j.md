@@ -61,30 +61,17 @@ Deeplearning4j的实际应用情景包括金融行业\[15\]的欺诈侦测、制
 [Category:陣列編程語言](https://zh.wikipedia.org/wiki/Category:陣列編程語言 "wikilink") [Category:人工神经网络](https://zh.wikipedia.org/wiki/Category:人工神经网络 "wikilink") [Category:叢集計算](https://zh.wikipedia.org/wiki/Category:叢集計算 "wikilink") [Category:Scala平台軟體](https://zh.wikipedia.org/wiki/Category:Scala平台軟體 "wikilink") [Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink") [Category:Hadoop](https://zh.wikipedia.org/wiki/Category:Hadoop "wikilink") [Category:图像处理](https://zh.wikipedia.org/wiki/Category:图像处理 "wikilink") [Category:美國資訊科技公司](https://zh.wikipedia.org/wiki/Category:美國資訊科技公司 "wikilink") [Category:JVM程式語言](https://zh.wikipedia.org/wiki/Category:JVM程式語言 "wikilink") [Category:Java函式庫](https://zh.wikipedia.org/wiki/Category:Java函式庫 "wikilink") [Category:Java平台](https://zh.wikipedia.org/wiki/Category:Java平台 "wikilink") [Category:机器学习](https://zh.wikipedia.org/wiki/Category:机器学习 "wikilink") [Category:自然語言處理](https://zh.wikipedia.org/wiki/Category:自然語言處理 "wikilink") [Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.

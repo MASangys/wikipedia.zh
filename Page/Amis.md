@@ -1,4 +1,4 @@
-**李昕**（），[藝名](../Page/藝名.md "wikilink")**Amis艾蜜絲**曾在[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigirls與](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")[Fubon Angels擔任](../Page/Fubon_Angels.md "wikilink")[啦啦隊](../Page/啦啦隊.md "wikilink")，現為[味全龍](../Page/味全龍.md "wikilink")啦啦隊總教練，在[臉書粉專擁有超過](https://zh.wikipedia.org/wiki/臉書 "wikilink")30萬名粉絲，被譽為「啦啦隊女神」！\[1\] \[2\]
+**李昕**（），[藝名](../Page/藝名.md "wikilink")**Amis 艾蜜絲**曾在[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigirls與](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")[Fubon Angels擔任](../Page/Fubon_Angels.md "wikilink")[啦啦隊](../Page/啦啦隊.md "wikilink") \[1\]，現為[味全龍](../Page/味全龍.md "wikilink")啦啦隊總教練\[2\]，在[臉書粉專擁有超過](https://zh.wikipedia.org/wiki/臉書 "wikilink")30萬名粉絲，被譽為「啦啦隊女神」\[3\]！
 
 ## 經歷
 
@@ -17,16 +17,17 @@
 | ----- | ------------------------------------------------------------ | ---------------------------------- | ------------------ |
 | 2015年 | 《Amis，私底下 南陽照射甜寫真》 (2016年[電子書](../Page/電子書.md "wikilink")出版) | [台灣角川](../Page/台灣角川.md "wikilink") | ISBN 9789863663713 |
 | 2016年 | 《Amis L. 艾蜜絲浪漫寫真書》                                           | [尖端出版](../Page/尖端出版.md "wikilink") | ISBN 9789571069524 |
-| 2019年 | 《Amis艾蜜絲夢遊仙境數位寫真》([電子書](../Page/電子書.md "wikilink"))          | [尖端出版](../Page/尖端出版.md "wikilink") | ISBN 3140051620036 |
+| 2019年 | 《Amis艾蜜絲夢遊仙境數位寫真》([電子書](../Page/電子書.md "wikilink"))          | [尖端出版](../Page/尖端出版.md "wikilink") |                    |
 
 **寫真年曆**
 
-| 年份    | 品名                                                     | 攝影  | 備注                   |
-| ----- | ------------------------------------------------------ | --- | -------------------- |
-| 2015年 | AMIS艾蜜絲 X【Fong 】Life is very beautiful 女子攝影美學 2016年曆寫真 | 戴群芳 | 大掛曆+桌曆               |
-| 2016年 | 2017蜜絲桌曆                                               | 戴群芳 | 只開放預購                |
-| 2017年 | Amis2018寫真桌歷                                           | 戴群芳 |                      |
-| 2018年 | Amis2019寫真桌歷                                           | 戴群芳 | 個人寫真桌曆+ 限量直式原色棉帆布手提袋 |
+| 年份    | 品名                                                     | 攝影  | 備注                              |
+| ----- | ------------------------------------------------------ | --- | ------------------------------- |
+| 2015年 | AMIS艾蜜絲 X【Fong 】Life is very beautiful 女子攝影美學 2016年曆寫真 | 戴群芳 | 大掛曆+桌曆                          |
+| 2016年 | 2017蜜絲桌曆                                               | 戴群芳 | 限時限量預購                          |
+| 2017年 | Amis2018寫真桌歷                                           | 戴群芳 | (預購送悠遊卡貼)                       |
+| 2018年 | Amis2019寫真桌歷                                           | 戴群芳 | (預購送聖誕限定卡貼) 個人寫真桌曆＋限量直式原色棉帆布手提袋 |
+| 2019年 | 2020 Amis寫真桌曆                                          | 戴群芳 | (預購送鑰匙圈) 可加價購寫真毛巾               |
 
 ## 團體作品
 
@@ -58,3 +59,4 @@
 
 1.  [從LamiGirls到富邦天使 高人氣女神Amis卸啦啦隊身份](https://sports.ettoday.net/news/1389453) ETtoday運動雲 2019年03月01日
 2.  [中職／轉戰味全龍新角色 Amis打造美麗嬌點](https://sports.ettoday.net/news/1541006) ETtoday運動雲 2019年09月22日
+3.  [啦啦隊女神出寫真　大方露出結實腹肌](https://www.mirrormedia.mg/story/20190830ent026/) 鏡週刊 2019年08月30日

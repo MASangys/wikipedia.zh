@@ -111,7 +111,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/電車GO!2高速編" title="wikilink">電車GO!2高速編</a></p></td>
+<td><p><a href="../Page/電車GO!2高速編.md" title="wikilink">電車GO!2高速編</a></p></td>
 <td><p><span id="D"></span><em>Densha de Go! 2</em></p></td>
 <td><p>電車でGO!2</p></td>
 <td><p><a href="../Page/太東.md" title="wikilink">Taito</a></p></td>

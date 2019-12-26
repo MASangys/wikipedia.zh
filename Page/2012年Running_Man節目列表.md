@@ -573,7 +573,7 @@ IU、Gary、哈哈<br />
 <td><p>6月10日<br />
 <small>(<em>6月4日</em>)</small></p></td>
 <td><p>無嘉賓</p></td>
-<td><p><a href="http://www.homeplusacademy.com/">Tesco Homeplus學堂</a><br />
+<td><p><a href="https://web.archive.org/web/20160611041540/http://www.homeplusacademy.com/">Tesco Homeplus學堂</a><br />
 <small>(<a href="../Page/仁川廣域市.md" title="wikilink">仁川廣域市</a><br />
 <a href="https://zh.wikipedia.org/wiki/中區_(仁川)" title="wikilink">中區</a><a href="https://zh.wikipedia.org/wiki/舞衣島" title="wikilink">舞衣島</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>喪屍競賽</strong></span><br />

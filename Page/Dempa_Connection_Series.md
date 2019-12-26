@@ -193,12 +193,8 @@ Dempa Connection（） 是[電波組.inc](../Page/電波組.inc.md "wikilink")�
 [Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink") [Category:電波組.inc](https://zh.wikipedia.org/wiki/Category:電波組.inc "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.

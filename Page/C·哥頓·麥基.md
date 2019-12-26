@@ -226,50 +226,34 @@
 [Category:香港商人](https://zh.wikipedia.org/wiki/Category:香港商人 "wikilink") [Category:上海商業人物](https://zh.wikipedia.org/wiki/Category:上海商業人物 "wikilink") [Category:前香港立法局議員](https://zh.wikipedia.org/wiki/Category:前香港立法局議員 "wikilink") [Category:前香港行政局議員](https://zh.wikipedia.org/wiki/Category:前香港行政局議員 "wikilink") [Category:太平紳士](https://zh.wikipedia.org/wiki/Category:太平紳士 "wikilink") [Category:在香港的英國人](https://zh.wikipedia.org/wiki/Category:在香港的英國人 "wikilink")
 
 1.  "Births" (13 January 1880)
-
 2.
 3.  "Sad Suicide of a Brechin Doctor" (25 March 1895)
-
 4.
 5.
 6.
 7.  "Brechin Man's Career in the East" (15 May 1935)
-
 8.  *Jurors List for 1905* (1 February 1905), p.17.
-
 9.  "Comprehensive Review of Local Trade" (26 March 1935)
-
 10. Wright (1908), p.216.
-
 11.
 12. "[Notice](http://sunzi.lib.hku.hk/hkgro/view/g1908/8414.pdf)", *Hongkong Government Gazette*, 10 April 1908, p.466.
-
 13. *Jurors List for 1913* (21 February 1913), p.16.
-
 14.
 15.
 16.
 17.
 18. Macmillan (1925), p.245.
-
 19. *The South China Morning Post* (26 May 1923)
-
 20. *Jurors List for 1928* (1 February 1928), p.105.
-
 21. Coates (1977)
-
 22. *The Directory and Chronicle for China, Japan, Corea, Indo-China, Straits Settlements, Malay States, Siam, Netherlands India, Borneo, The Philippins, \&c. for the Year 1920* (1920)
-
 23. *The Directory and Chronicle for China, Japan, Corea, Indo-China, Straits Settlements, Malay States, Siam, Netherlands India, Borneo, The Philippins, \&c. for the Year 1912* (1912)
-
 24.
 25.
 26.
 27.
 28. 〈省港澳輪船公司股東大會詳情〉（1930年3月5日）
-
 29. "One Hundred Years of Continued Progress - The Union Insurance Celebrates Its Centenary" (25 May 1935)
-
 30.
 31.
 32.
@@ -279,156 +263,92 @@
 36.
 37.
 38. "I was an elephant handler" (10 January 2010)
-
 39. "Hong Kong Bank Finances" (9 February 1934)
-
 40. "His Excellency Declares Stone Well Laid" (18 October 1934)
-
 41. "The New Hong Kong Bank Building Opened" (11 October 1935)
-
 42.
 43.
 44.
 45.
 46. 〈上海公共租界工部局董事表〉（造訪於2016年7月4日）
-
 47.
 48. *Report of the Committee of the Shanghai General Chamber of Commerce* (1921)
-
 49.
 50. "2/Lieutenant Charles Gordon Stewart MacKIE Chinese Labour Corps" (retrieved on 4 July 2016)
-
 51. *The Hong Kong General Chamber of Commerce 1966: Annual Report* (1967), p.34.
-
 52. "[No. 146](http://sunzi.lib.hku.hk/hkgro/view/g1909/11782.pdf)", *Hongkong Government Gazette*, 5 March 1909.
-
 53.
 54. "New Council Member - Mr. C. G. S. Mackie The Only Nomination" (4 May 1928)
-
 55. "[No.454](http://sunzi.lib.hku.hk/hkgro/view/g1930/572433.pdf)", *Hong Kong Government Gazette*, 25 July 1930.
-
 56. "Mr. C. G. S. Mackie to Represent Chamber of Commerce on Council" (5 May 1931)
-
 57. *The Hong Kong General Chamber of Commerce 1966: Annual Report* (1967), p.35.
-
 58. "[No.339](http://sunzi.lib.hku.hk/hkgro/view/g1930/572085.pdf)", *Hong Kong Government Gazette*, 6 June 1930.
-
 59. "[No.583](http://sunzi.lib.hku.hk/hkgro/view/g1930/572856.pdf)", *Hong Kong Government Gazette*, 19 September 1930.
-
 60. "[No.261](http://sunzi.lib.hku.hk/hkgro/view/g1931/618522.pdf)", *Hong Kong Government Gazette*, 1 May 1931.
-
 61. "[No.485](http://sunzi.lib.hku.hk/hkgro/view/g1931/619284.pdf)", *Hong Kong Government Gazette*, 31 July 1931.
-
 62. "[No.253](http://sunzi.lib.hku.hk/hkgro/view/g1933/197033.pdf)", *Hong Kong Government Gazette*, 13 April 1933.
-
 63. "[No.608](http://sunzi.lib.hku.hk/hkgro/view/g1934/208301.pdf)", *Hong Kong Government Gazette*, 10 August 1934.
-
 64.
 65. "The Budget Debate - Taxable Limit Reached" (13 October 1933)
-
 66. "Unofficials Debate Budget" (20 October 1930)
-
 67.
 68. "Unofficial Members Laud Colony's Orthodox Budget" (27 September 1934)
-
 69.
 70. *Report of the Commission Appointed by His Excellency the Governor of Hong Kong to Enquire into the Causes and Effects of the Present Trade Depression in Hong Kong and for the Improvement of the Trade of the Colony* (February 1935)
-
 71.
 72. Spurr (1995)
-
 73. Tsang (2009), pp.108-109.
-
 74. "[No.232](http://sunzi.lib.hku.hk/hkgro/view/g1929/562787.pdf)", *Hong Kong Government Gazette*, 10 May 1929.
-
 75. "[No.511](http://sunzi.lib.hku.hk/hkgro/view/g1935/217506.pdf)", *Hong Kong Government Gazette*, 28 June 1935.
-
 76. *Hong Kong General Chamber of Commerce Report for the Year 1930* (1931)
-
 77. "[No.219](http://sunzi.lib.hku.hk/hkgro/view/g1931/618366.pdf)", *Hong Kong Government Gazette*, 10 April 1931.
-
 78. "[No.407](http://sunzi.lib.hku.hk/hkgro/view/g1931/619011.pdf)", *Hong Kong Government Gazette*, 3 July 1931.
-
 79. "[No.154](http://sunzi.lib.hku.hk/hkgro/view/g1936/225688.pdf)", *Hong Kong Government Gazette*, 14 February 1936.
-
 80. "Straight Talk Best - British Economic Mission Entertain Local Merchants at Peninsular Hotel" (28 February 1931)
-
 81. *Report of the Committee to Consider the Formation of a Travel Association and to Make Recommendations for the Development of the Tourist Traffic in Hong Kong* (10 April 1935), pp.135-137.
-
 82.
 83. *Fairplay Weekly Shipping Journal* Vol. 135 (1935), p.332.
-
 84. "Hon. Mr. C. G. S. Mackie - Tribute by Governor" (29 March 1935)
-
 85. "Mr. C. G. Mackie Farewelled" (27 March 1935)
-
 86.
 87. "Mr. Gordon Mackie in Colony" (20 February 1936)
-
 88. "Brechin Infirmary Appointment" (17 July 1945)
-
 89. "Mackie, Charles Gordon Stewart" (1966)
-
 90. "Marriage" (2 December 1908)
-
 91. "Deaths" (5 October 1946)
-
 92.
 93. "Births" (16 October 1909)
-
 94.
 95. "Flying Certificate Obtained - Miss Jean Mackie First Colony Lady to Pass" (2 June 1934)
-
 96.
 97. "Reward for Bravery" (31 May 1941)
-
 98. "Brechin Church Wedding" (1 May 1945)
-
 99. "MASSON, Sir John Robertson" (1966)
-
 100. "Masson, Lady Jean Gertrude Gordon" (1973)
-
 101. "Births" (25 March 1916), p.4.
-
 102. "Marriages" (9 May 1945)
-
 103. *The British Steelmaker* Vol. 30 (1964), p.181.
-
 104. "Charles Gordon MACKIE" (7 September 2005)
-
 105. *The China Who's Who 1922: A Biographical Dictionary* (1922), p.174.
-
 106.
 107. "St Andrew's Annual Meeting at Shanghai" (3 November 1920)
-
 108. "About Us: Past Chieftains" (retrieved on 4 July 2016)
-
 109. "Liberty Bay Romps Home in Champions" (20 February 1935)
-
 110.
 111. *Memorandum and Articles of Association: The Hong Kong Jockey Club* (September 2006), p.13.
-
 112. 〈快活谷馬場重建1929〉（造訪於2016年7月4日）
-
 113.
 114. "Passenger Ships Collide" (30 March 1932)
-
 115.
 116. 〈大霧迷漫中，瑞泰中興兩輪昨日相撞〉（1932年3月13日）
-
 117.
 118.
 119.
 120.
 121. "Hacker on the Trail of Jockey Club Chairmen of Yesteryear" (24 September 1995)
-
 122.
 123. "[No.111](http://sunzi.lib.hku.hk/hkgro/view/g1913/30752.pdf)", *Hongkong Government Gazette*, 11 April 1913.
-
 124. "[No.106](http://sunzi.lib.hku.hk/hkgro/view/g1928/558282.pdf)", *Hong Kong Government Gazette*, 2 March 1928.
-
 125. "[No.513](http://sunzi.lib.hku.hk/hkgro/view/g1935/217512.pdf)", *Hong Kong Government Gazette*, 28 June 1935.
-
 126. "[No.362](http://sunzi.lib.hku.hk/hkgro/view/g1935/217029.pdf)", *Hong Kong Government Gazette*, 6 May 1935.
-
 127.

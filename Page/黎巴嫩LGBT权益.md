@@ -71,7 +71,7 @@ Helem也有自己的网站，包括常规的在线通讯发布。
   - [Helem主页](http://www.helem.net/)
   - [Gay Lebanon](https://web.archive.org/web/20060410135115/http://www.gaylebanon.info/)
   - [Gay Middle East](https://web.archive.org/web/20060305204329/http://www.gaymiddleeast.com/)
-  - [Lebtour，黎巴嫩同性恋指南](http://www.lebtour.com/)
+  - [Lebtour，黎巴嫩同性恋指南](https://web.archive.org/web/20170221062501/http://www.lebtour.com/)
   - [伊斯兰世界性别与禁忌](http://www.spiegel.de/international/spiegel/0,1518,443678,00.html)
   - [黎巴嫩LBTQ女性社区](http://www.meemgroup.org)
   - [黎巴嫩Winq杂志文章](https://web.archive.org/web/20130807061607/http://beirut2010.com/Media/Winq%20INT%20winter%2010%20BEIRUT.pdf)
@@ -81,31 +81,17 @@ Helem也有自己的网站，包括常规的在线通讯发布。
 [Category:黎巴嫩社会](https://zh.wikipedia.org/wiki/Category:黎巴嫩社会 "wikilink") [Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  ["Lebanon: Homosexuals no longer 'perverts,' but still target", *Ynetnews*, reported by Roi Kais, 16 May 2013](http://www.ynetnews.com/articles/0,7340,L-4380690,00.html)
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.

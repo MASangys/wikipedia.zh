@@ -2,6 +2,8 @@
 
 与Google的第一代VR平台[Google Cardboard不同](../Page/Google_Cardboard.md "wikilink")，Daydream自[Android 7.1 Nougat起便集成在](../Page/Android_Nougat.md "wikilink")[Android](../Page/Android.md "wikilink")操作系统中。Daydream平台规范包括软件和硬件两方面，与之兼容的手机标识为“Daydream-ready”。
 
+Google已宣布停售Daydream View設備 Pixel 4也不再支援Daydream
+
 ## 硬件
 
 ### 手机
@@ -76,39 +78,24 @@ VR模式可以让用户在使用支持虚拟现实的应用（如[YouTube](../Pa
 [Category:头戴式显示设备](https://zh.wikipedia.org/wiki/Category:头戴式显示设备 "wikilink") [Category:虚拟现实](https://zh.wikipedia.org/wiki/Category:虚拟现实 "wikilink") [Category:Android](https://zh.wikipedia.org/wiki/Category:Android "wikilink") [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:繪圖函式庫](https://zh.wikipedia.org/wiki/Category:繪圖函式庫 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
-
 19.
-
 20.
 21.
 22.

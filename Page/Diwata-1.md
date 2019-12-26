@@ -24,16 +24,10 @@ Diwata一词源自菲律宾神话。\[8\]
 [Category:2016年亞洲](https://zh.wikipedia.org/wiki/Category:2016年亞洲 "wikilink") [Category:卫星计划](https://zh.wikipedia.org/wiki/Category:卫星计划 "wikilink") [Category:菲律賓人造衛星](https://zh.wikipedia.org/wiki/Category:菲律賓人造衛星 "wikilink") [Category:2016年菲律宾](https://zh.wikipedia.org/wiki/Category:2016年菲律宾 "wikilink") [Category:地球观测卫星](https://zh.wikipedia.org/wiki/Category:地球观测卫星 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.

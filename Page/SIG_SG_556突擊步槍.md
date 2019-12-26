@@ -175,6 +175,7 @@ SIG SG 556還推出了多個裝有折疊式槍托的型號以及整合了皮卡�
   - 2012年—《[-{zh-cn:使命召唤：黑色行动II; zh-tw:決勝時刻：黑色行動II;}-](https://zh.wikipedia.org/wiki/使命召唤：黑色行动II "wikilink")》（Call of Duty: Black Ops II）：型號為SG 556基本型，命名為「SWAT-556」，載彈量為30發（聯機模式時可使用改裝：延長彈匣增至40發），初始攜彈量為180發（故事模式）和90發（聯機模式），最高攜彈量為390發（故事模式）和240發（聯機模式），奇怪地預設為[三發點放](../Page/三發點放.md "wikilink")模式。故事模式之中完成「墜落天使」（Fallen Angel）戰役以後解鎖，被[僱傭兵](../Page/僱傭兵.md "wikilink")和[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[警察](../Page/警察.md "wikilink")部門所使用；聯機模式時於等級10解鎖，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、快速抽出握把、[快速重裝彈匣](../Page/彈匣並聯.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、可調節[槍托](../Page/槍托.md "wikilink")、目標搜索器、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[擊發調變](../Page/擊發調變槍械.md "wikilink")（轉換為全自動射擊模式）、[EOTech全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、、[混合式光學瞄準鏡](https://zh.wikipedia.org/wiki/Leupold_HAMR瞄準鏡 "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[榴彈發射器](../Page/M320榴彈發射器.md "wikilink")、毫米波掃描器。
   - 2015年—《[-{zh-cn:彩虹六号：围攻; zh-tw:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》：型號為SG 556xi，被[聯邦調查局特種武器和戰術部隊](../Page/聯邦調查局特種武器和戰術部隊.md "wikilink")所使用。
   - 2016年—《[-{zh:秘境探險4：盜賊末路; zh-hans:神秘海域4：盗贼末路; zh-hant:秘境探險4：盜賊末路; zh-cn:神秘海域4：盗贼末路; zh-tw:秘境探險4：盜賊末路; zh-hk:秘境探險4：盜賊末路; zh-mo:秘境探險4：盜賊末路;}-](https://zh.wikipedia.org/wiki/神祕海域4：盜賊末路 "wikilink")》（Uncharted 4: A Thief End）：型號為SG 556經典型，裝上[CZ蠍式EVO 3 A1衝鋒槍的槍托](../Page/CZ蠍式EVO_3_A1衝鋒槍.md "wikilink")，全自動射擊，命名為「HS39」。
+  - 2017年—《[火線獵殺：野境](../Page/火線獵殺：野境.md "wikilink")》(Tom Clancy's Ghost Recon: Wildlands)：型號為SG 556俄羅斯型，被命名為「556xi」，可更改槍托、瞄準鏡、板機、彈匣、下槍管配件、槍軌、槍管、槍口等配件。
 
 ## 參見
 
@@ -297,18 +298,11 @@ SIG SG 556還推出了多個裝有折疊式槍托的型號以及整合了皮卡�
 [Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:半自動步槍](https://zh.wikipedia.org/wiki/Category:半自動步槍 "wikilink") [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink") [Category:7.62×39毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×39毫米槍械 "wikilink") [Category:美國槍械](https://zh.wikipedia.org/wiki/Category:美國槍械 "wikilink") [Category:美國步槍](https://zh.wikipedia.org/wiki/Category:美國步槍 "wikilink") [Category:瑞士槍械](https://zh.wikipedia.org/wiki/Category:瑞士槍械 "wikilink")
 
 1.  [SIG SAUER website](https://www.sigarms.com/Products/ShowCatalogProductDetails.aspx?categoryid=35&productid=114)
-
 2.
-
 3.
-
 4.  [GES with SIGs](http://www.fuerzasaeronavales.com/wp-content/uploads/www.fuerzasaeronavales.com_.002061.jpg)
-
 5.  [World Infantry Weapons: Egypt](https://sites.google.com/site/worldinventory/wiw_me_egypt)
-
 6.
-
 7.
 8.  [CAT Timi’ne 100 yeni tabanca](http://www.haberturk.com/gundem/haber/662480-cat-timine-100-yeni-tabanca) (Turkish)
-
 9.  [World Infantry Weapons: UK](https://sites.google.com/site/worldinventory/wiw_eu_unitedkingdom)

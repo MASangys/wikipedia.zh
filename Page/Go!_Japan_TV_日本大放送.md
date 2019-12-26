@@ -841,38 +841,21 @@ And,日本大秘境！四國冒險物語！第三章：大步危峡，祖谷溪<
 [Category:旅遊節目](https://zh.wikipedia.org/wiki/Category:旅遊節目 "wikilink") [Category:亞洲電視節目](https://zh.wikipedia.org/wiki/Category:亞洲電視節目 "wikilink") [Category:2005年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2005年亞洲電視節目 "wikilink") [Category:2006年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2006年亞洲電視節目 "wikilink") [Category:2007年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2007年亞洲電視節目 "wikilink") [Category:2008年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2008年亞洲電視節目 "wikilink") [Category:2009年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2009年亞洲電視節目 "wikilink") [Category:2010年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2010年亞洲電視節目 "wikilink") [Category:2011年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2011年亞洲電視節目 "wikilink") [Category:2012年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2012年亞洲電視節目 "wikilink") [Category:2013年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2013年亞洲電視節目 "wikilink") [Category:2014年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2014年亞洲電視節目 "wikilink") [Category:2015年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2015年亞洲電視節目 "wikilink") [Category:2016年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2016年亞洲電視節目 "wikilink") [Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink") [Category:香港電視娛樂旅遊節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂旅遊節目 "wikilink") [Category:2016年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2016年香港電視娛樂節目 "wikilink") [Category:2017年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2017年香港電視娛樂節目 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  明報旅遊網：[一家去旅行：放任假期童玩「野」大自然就是遊樂場](http://travel.mingpao.com/cfm/whtogo10.cfm?File=20140305/webnews/vja1.txt&PhotoNo=4)
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
-
 19.

@@ -1,4 +1,4 @@
-[Facebook](../Page/Facebook.md "wikilink")是一家[社群網路公司](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")，收購了包括[WhatsApp](../Page/WhatsApp.md "wikilink")在內的50多家公司。WhatsApp以驚人的190億美元被收購；平台每位使用者估值超過40美元。Facebook還在[庭外和解中收購了已停業的ConnectU公司](https://zh.wikipedia.org/wiki/庭外和解 "wikilink")，並獲得了競爭對手[Friendster](../Page/Friendster.md "wikilink")以前持有的專利。Facebook收購的大部分公司都設在美國，而這些公司中的大部分都位於[舊金山灣區](../Page/舊金山灣區.md "wikilink")或其周圍。
+[Facebook](../Page/Facebook.md "wikilink")是一家[社群網路公司](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")，收購了包括[WhatsApp](../Page/WhatsApp.md "wikilink")在內的50多家公司。WhatsApp以驚人的190億美元被收購；平台每位使用者估值超過40美元。Facebook還在[庭外和解中收購了已停業的ConnectU公司](https://zh.wikipedia.org/wiki/庭外和解 "wikilink")，並獲得了競爭對手[Friendster](../Page/Friendster.md "wikilink")以前持有的專利。Facebook收購的大部分公司都設在美國，而這些公司中的大部分都位於[舊金山灣區](../Page/舊金山灣區.md "wikilink")或附近。
 
 ## 收購案
 

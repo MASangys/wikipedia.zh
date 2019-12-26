@@ -137,4 +137,4 @@ Steam、PS4、PSV：[5]</p></td>
 2.  [Studio's Closure Leads to an Unusual Split for Its Many Franchises](http://www.gamespot.com/articles/studios-closure-leads-to-an-unusual-split-for-its-/1100-6443106/).GameSpot.2016-08-29.\[2016-08-31\].
 3.  [Renegade Kid, makers of Mutant Mudds and Xeodrifter, shuts down](http://www.technobuffalo.com/2016/08/29/renegade-kid-studio-shuts-down/).TechnoBuffalo.2016-08-29.\[2016-11-07\].
 4.  [Moon on Mastiff](http://www.mastiff-games.com/games/moon) .Mastiff.\[2016-08-31\].
-5.  [Xeodrifter on Gambitious](http://www.gambitious.com/games/xeodrifter).gambitious.\[2016-11-07\].
+5.  [Xeodrifter on Gambitious](http://www.gambitious.com/games/xeodrifter) .gambitious.\[2016-11-07\].

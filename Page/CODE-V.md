@@ -8,7 +8,7 @@
 
 2017年4月，官方宣布成員佑錫因需照顧祖母，決定完成4月的活動後離團\[12\]。
 
-2018年12月23日，團體舉行《CODE-V LAST LIVE～The Final Harmony きみがくれた奇跡～supported by WIZY》演唱會後宣布解散\[13\]，惟子團體Niiisan's依然繼續活動\[14\]。
+2018年12月23日，團體舉行《CODE-V LAST LIVE～The Final Harmony きみがくれた奇跡～supported by WIZY》演唱會後宣布解散\[13\]，惟子團體[Niiisan's依然繼續活動](https://zh.wikipedia.org/wiki/Niiisan's "wikilink")\[14\]。
 
 CODE-V的團名分別代表著「Vision,Voice,Vital,Variety,Visual」，粉絲名稱為「MIRACLE」。
 
@@ -463,7 +463,7 @@ CODE-V的團名分別代表著「Vision,Voice,Vital,Variety,Visual」，粉絲�
 
 ## 外部連結
 
-  - [日本官方網站](http://code-v.asia/?aid=13)
+  - [日本官方網站](https://web.archive.org/web/20160912145153/http://code-v.asia/?aid=13)
 
   -
   - [CODE-V日本官方博客](http://ameblo.jp/codev-official/)
@@ -473,30 +473,17 @@ CODE-V的團名分別代表著「Vision,Voice,Vital,Variety,Visual」，粉絲�
 [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink") [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.

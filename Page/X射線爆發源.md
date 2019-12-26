@@ -25,8 +25,6 @@ X射線爆發源的行為類似復發新星。在緻密天體是白矮星的情�
 [Category:恆星現象](https://zh.wikipedia.org/wiki/Category:恆星現象 "wikilink") [Category:聯星](https://zh.wikipedia.org/wiki/Category:聯星 "wikilink") [Category:中子星](https://zh.wikipedia.org/wiki/Category:中子星 "wikilink") [Category:變星](https://zh.wikipedia.org/wiki/Category:變星 "wikilink") [Category:標準燭光](https://zh.wikipedia.org/wiki/Category:標準燭光 "wikilink") [Category:X射線聯星](https://zh.wikipedia.org/wiki/Category:X射線聯星 "wikilink") [Category:半接聯星](https://zh.wikipedia.org/wiki/Category:半接聯星 "wikilink") [Category:核合成](https://zh.wikipedia.org/wiki/Category:核合成 "wikilink") [Category:恆星物理](https://zh.wikipedia.org/wiki/Category:恆星物理 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

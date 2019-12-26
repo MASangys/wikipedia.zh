@@ -89,33 +89,24 @@ Z车辆很大程度上可以从基础平台进行区分：
 [Category:BMW車輛](https://zh.wikipedia.org/wiki/Category:BMW車輛 "wikilink")
 
 1.
-
 2.  <http://www.autointell.com/european_companies/BMW/business-figures/BMW-business-figures-1997-2006-WB.xls>
-
 3.
 4.
 5.
-
 6.
 7.
 8.
-
 9.
 10.
 11.
-
 12.
 13.
-
 14.
 15.
-
 16.
 17.
 18.
 19.
 20.
-
 21. <http://www.bmwgroup.com/e/0_0_www_bmwgroup_com/investor_relations/downloads/_pdf/InvestorPresent_March_2014_online.pdf>
-
 22. <http://www.prnewswire.com/news-releases/bmw-group-us-reports-december-and-2014-sales-300015792.html>

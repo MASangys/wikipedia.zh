@@ -64,11 +64,9 @@ ZU-23-2MR安裝在：
 [Category:23毫米口径武器](https://zh.wikipedia.org/wiki/Category:23毫米口径武器 "wikilink") [Category:機炮](https://zh.wikipedia.org/wiki/Category:機炮 "wikilink") [Category:艦炮](https://zh.wikipedia.org/wiki/Category:艦炮 "wikilink") [Category:高射炮](https://zh.wikipedia.org/wiki/Category:高射炮 "wikilink") [Category:波兰火炮](https://zh.wikipedia.org/wiki/Category:波兰火炮 "wikilink")
 
 1.  J. Ciślak, *Polska...*, s. 216-217
-
 2.
 3.
 4.  *"Dwudziestkitrójki" z Tarnowa* w: Nowa Technika Wojskowa nr 9/2010, s. 78.
-
 5.
 6.
 7.

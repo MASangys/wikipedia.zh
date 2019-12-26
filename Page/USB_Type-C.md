@@ -2,7 +2,7 @@
 
 **USB Type-C**，又稱**USB-C**，是一種[通用序列匯流排](https://zh.wikipedia.org/wiki/通用序列匯流排 "wikilink")（USB）的硬體介面形式，外觀上最大特點在於其上下端完全一致，與[Micro-USB相比用戶不必再區分USB正反面](https://zh.wikipedia.org/wiki/Micro-USB "wikilink")。
 
-USB Type-C規範1.0由[USB開發者論壇](../Page/USB開發者論壇.md "wikilink")（[USB-IF](https://zh.wikipedia.org/wiki/USB-IF "wikilink")）發布，並於2014年8月完成\[1\]。與[USB 3.1規格大致相同](../Page/USB_3.1.md "wikilink")。但現實USB-C的設備不一定支援USB 3.1或[Power Delivery](https://zh.wikipedia.org/wiki/Power_Delivery "wikilink")\[2\]\[3\]。自從2014年USB-C規範發佈後，許多新款的[Android](../Page/Android.md "wikilink")[行動裝置](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")、[筆記型電腦](../Page/筆記型電腦.md "wikilink")、[桌上型電腦](../Page/桌上型電腦.md "wikilink")甚至是[遊戲機等](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")3C裝置開始使用這種連接埠。[Windows 10原生支援Type](../Page/Windows_10.md "wikilink")-C。
+USB Type-C規範1.0由[USB開發者論壇](../Page/USB開發者論壇.md "wikilink")（[USB-IF](https://zh.wikipedia.org/wiki/USB-IF "wikilink")）發布，並於2014年8月完成\[1\]。與[USB 3.1規格大致相同](../Page/USB_3.1.md "wikilink")。但USB-C只是一個接口，不一定支援USB 3.1或[Power Delivery](https://zh.wikipedia.org/wiki/Power_Delivery "wikilink")\[2\]\[3\]。自從2014年USB-C規範發佈後，許多新款的[Android](../Page/Android.md "wikilink")[行動裝置](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")、[筆記型電腦](../Page/筆記型電腦.md "wikilink")、[桌上型電腦](../Page/桌上型電腦.md "wikilink")甚至是[遊戲機等](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")3C裝置開始使用這種連接埠。[Windows 10原生支援Type](../Page/Windows_10.md "wikilink")-C。
 
 ## 簡介
 

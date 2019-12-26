@@ -5,11 +5,8 @@
 [Category:BDSM術語](https://zh.wikipedia.org/wiki/Category:BDSM術語 "wikilink")
 
 1.  Brame G. **(2001)** *Come Hither\! A Commonsense Guide to Kinky Sex*, Fusion Press, London, page 63.
-
 2.
-
 3.
-
 4.
 5.
 6.  Newman F. **(2004)** *The Whole Lesbian Sex Book: A Passionate Guide*, Cleis Press, San Francisco, page 271-277.

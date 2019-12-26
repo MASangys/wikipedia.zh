@@ -1,35 +1,10 @@
-local p = { } -- Package to be exported local getArgs =
-require('Module:Arguments').getArgs -- Import module function to work
-with passed arguments local lang = mw.getContentLanguage() -- Retrieve
-built-in locale for date formatting
+local p = { } -- Package to be exported local getArgs = require('Module:Arguments').getArgs -- Import module function to work with passed arguments local lang = mw.getContentLanguage() -- Retrieve built-in locale for date formatting
 
-local routeStates = { } -- Table with route statuses. --[The following
-tables include the following entries: row: The start of the row, for
-this particular type (color) established: The string to be output in the
-"Formed" column. For future routes, "proposed" is displayed here.
-Otherwise, display the year passed in the established parameter.
-removed: The string to be output in the "Removed" column. In the case of
-routeStates.former, the year that the route was decommissioned is output
-instead.](../Page/The_following_tables_include_the_following_entries:_row:_The_start_of_the_row,_for_this_particular_type_\(color\)_established:_The_string_to_be_output_in_the_"Formed"_column._For_future_routes,_"proposed"_is_displayed_here._Otherwise,_display_the_year_passed_in_the_established_parameter._removed:_The_string_to_be_output_in_the_"Removed"_column._In_the_case_of_routeStates.former,_the_year_that_the_route_was_decommissioned_is_output_instead..md "wikilink")--
-routeStates.current = {row = "|-", removed = "current"} -- Data for
-current routes routeStates.future = {row = '|-
-style="background-color:\#ffdead;" title="Future route"', established =
-"proposed", removed = "—"} -- Data for future routes routeStates.former
-= {row = '|- style="background-color:\#d3d3d3;" title="Former route"'}
--- Data for former routes routeStates.formeroverride = {row = '|-
-style="background-color:\#d3d3d3;" title="Former route"', removed = "—"}
--- Data for routes marked as former by override routeStates.unknown =
-{row = "|-", removed = "—"} -- Data for route with unknown status
+local routeStates = { } -- Table with route statuses. --[The following tables include the following entries: row: The start of the row, for this particular type (color) established: The string to be output in the "Formed" column. For future routes, "proposed" is displayed here. Otherwise, display the year passed in the established parameter. removed: The string to be output in the "Removed" column. In the case of routeStates.former, the year that the route was decommissioned is output instead.](https://zh.wikipedia.org/wiki/The_following_tables_include_the_following_entries:_row:_The_start_of_the_row,_for_this_particular_type_\(color\)_established:_The_string_to_be_output_in_the_"Formed"_column._For_future_routes,_"proposed"_is_displayed_here._Otherwise,_display_the_year_passed_in_the_established_parameter._removed:_The_string_to_be_output_in_the_"Removed"_column._In_the_case_of_routeStates.former,_the_year_that_the_route_was_decommissioned_is_output_instead. "wikilink")-- routeStates.current = {row = "|-", removed = "current"} -- Data for current routes routeStates.future = {row = '|- style="background-color:\#ffdead;" title="Future route"', established = "proposed", removed = "—"} -- Data for future routes routeStates.former = {row = '|- style="background-color:\#d3d3d3;" title="Former route"'} -- Data for former routes routeStates.formeroverride = {row = '|- style="background-color:\#d3d3d3;" title="Former route"', removed = "—"} -- Data for routes marked as former by override routeStates.unknown = {row = "|-", removed = "—"} -- Data for route with unknown status
 
 function getRouteState(established, decommissioned)
 
-`   --`[`This``   ``function``   ``is``   ``passed``   ``the``
- ``dates``   ``given``   ``for``   ``the``   ``established``   ``and``
- ``decommissioned``   ``fields``   ``to``   ``the``   ``template.``
- ``It``   ``then``   ``returns``   ``the``   ``entry``   ``in``
- ``the``   ``routeStates``   ``table``   ``corresponding``   ``to``
- ``the``   ``status``   ``of``   ``the``
- ``route.`](../Page/This_function_is_passed_the_dates_given_for_the_established_and_decommissioned_fields_to_the_template._It_then_returns_the_entry_in_the_routeStates_table_corresponding_to_the_status_of_the_route..md "wikilink")`--`
+`   --`[`This``   ``function``   ``is``   ``passed``   ``the``   ``dates``   ``given``   ``for``   ``the``   ``established``   ``and``   ``decommissioned``   ``fields``   ``to``   ``the``   ``template.``   ``It``   ``then``   ``returns``   ``the``   ``entry``   ``in``   ``the``   ``routeStates``   ``table``   ``corresponding``   ``to``   ``the``   ``status``   ``of``   ``the``   ``route.`](https://zh.wikipedia.org/wiki/This_function_is_passed_the_dates_given_for_the_established_and_decommissioned_fields_to_the_template._It_then_returns_the_entry_in_the_routeStates_table_corresponding_to_the_status_of_the_route. "wikilink")`--`
 `   if decommissioned == 'yes' then --If the decommissioned property just says "yes", then mark it as a former route and display default data.`
 `       return routeStates.formeroverride`
 `   elseif decommissioned then -- If the route is decommissioned, then it must be a former route.`
@@ -307,7 +282,7 @@ function route(args)
 `   local abbr = parser(args, 'abbr')`
 `   local link`
 `   if linkTarget then`
-`       link = format("`[`%s`](../Page/%s.md "wikilink")`", linkTarget, abbr)`
+`       link = format("`[`%s`](https://zh.wikipedia.org/wiki/%s "wikilink")`", linkTarget, abbr)`
 `   else`
 `       link = abbr`
 `   end`

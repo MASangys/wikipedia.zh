@@ -1,4 +1,4 @@
-**Busta新宿**（）是位於[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[新宿站南口的](https://zh.wikipedia.org/wiki/新宿站 "wikilink")[大眾運輸](https://zh.wikipedia.org/wiki/大眾運輸 "wikilink")[轉運設施](../Page/公共運輸交匯處.md "wikilink")，主要為提供與集中新宿站周圍的高速巴士（[長途巴士](../Page/城際巴士.md "wikilink")）、[計程車搭乘站點而建造](https://zh.wikipedia.org/wiki/計程車 "wikilink")\[1\]。正式名稱為**新宿南口交通總站**（）\[2\]。2016年4月4日啟用\[3\]，是日本最大的[巴士總站](https://zh.wikipedia.org/wiki/巴士總站 "wikilink")\[4\]。
+**Busta新宿**（）是位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[新宿站南口的](https://zh.wikipedia.org/wiki/新宿站 "wikilink")[大眾運輸](https://zh.wikipedia.org/wiki/大眾運輸 "wikilink")[轉運設施](../Page/公共運輸交匯處.md "wikilink")，主要為提供與集中新宿站周圍的高速巴士（[長途巴士](../Page/城際巴士.md "wikilink")）、[計程車搭乘站點而建造](https://zh.wikipedia.org/wiki/計程車 "wikilink")\[1\]。正式名稱為**新宿南口交通總站**（）\[2\]。2016年4月4日啟用\[3\]，是日本最大的[巴士總站](https://zh.wikipedia.org/wiki/巴士總站 "wikilink")\[4\]。
 
 ## 概要
 
@@ -599,66 +599,47 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
   - [Busta新宿官方網站](http://shinjuku-busterminal.co.jp/)
   - [東京國道事務所／都市再生事業／新宿站南口地區基盤整備事業](https://web.archive.org/web/20160114030712/http://www.ktr.mlit.go.jp/toukoku/saisei/shinjuku/index.htm)
 
-[Category:日本客運總站](https://zh.wikipedia.org/wiki/Category:日本客運總站 "wikilink") [Category:東京都交通](https://zh.wikipedia.org/wiki/Category:東京都交通 "wikilink") [Category:千駄谷](https://zh.wikipedia.org/wiki/Category:千駄谷 "wikilink") [Category:新宿](https://zh.wikipedia.org/wiki/Category:新宿 "wikilink") [Category:2016年完工建築物](https://zh.wikipedia.org/wiki/Category:2016年完工建築物 "wikilink")
+[Category:日本客運總站](https://zh.wikipedia.org/wiki/Category:日本客運總站 "wikilink") [Category:東京都交通](https://zh.wikipedia.org/wiki/Category:東京都交通 "wikilink") [Category:千駄谷](https://zh.wikipedia.org/wiki/Category:千駄谷 "wikilink") [Category:新宿](https://zh.wikipedia.org/wiki/Category:新宿 "wikilink") [Category:2016年完工建築物](https://zh.wikipedia.org/wiki/Category:2016年完工建築物 "wikilink") [Category:日本建筑之最](https://zh.wikipedia.org/wiki/Category:日本建筑之最 "wikilink")
 
 1.
 2.
-
 3.
 4.
-
 5.
 6.
 7.
-
 8.
 9.
-
 10.
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.
-
 18.
 19.
 20.
-
 21. 『東京交通新聞』 2015年8月10日 「新宿駅南口ターミナル来春開業 約140社乗り入れの大拠点に 発着調整など急ピッチ」
-
 22.
 23.
 24.
-
 25.
-
 26.
 27.
-
 28.
 29.
 30.
-
 31.
 32.
-
 33.
-
 34.
 35.
 36.
 37.
-
 38.
 39.
-
 40.
 41.
 42.
@@ -671,85 +652,54 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
 49.
 50.
 51.
-
 52.
 53.
-
 54.
-
 55.
 56.
 57.
-
 58.
-
 59.
-
 60.
 61.
 62.
 63.
-
 64.  - 弘南バス
-
 65.
-
 66.
 67.
-
 68.
-
 69.
 70.
-
 71.
 72.
 73.
-
 74.
 75.
 76.
 77.
-
 78.
-
 79.
-
 80.
-
 81.
 82.
-
 83.
 84.
-
 85.
-
 86.
-
 87.
-
 88.
-
 89.
 90.
-
 91.
-
 92.
-
 93.
-
 94.
-
 95.
 96.
-
 97.
-
 98.
 99.
 100.
 101. [日本最大級「バスタ新宿」開業1か月、国道20号は渋滞大幅緩和　駅からの乗換1分に](http://trafficnews.jp/post/51757/)
-
 102. [お盆期間中の「バスタ新宿」、1日平均利用者数3万6000人](http://response.jp/article/2016/08/29/280808.html)

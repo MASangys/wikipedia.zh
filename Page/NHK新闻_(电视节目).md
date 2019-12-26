@@ -57,6 +57,6 @@
 
   - [NHK新闻](http://www.nhk.or.jp/toppage/navi/news.html)
 
-[Category:NHK新聞](https://zh.wikipedia.org/wiki/Category:NHK新聞 "wikilink") [Category:NHK電視節目](https://zh.wikipedia.org/wiki/Category:NHK電視節目 "wikilink")
+[Category:NHK電視新聞節目](https://zh.wikipedia.org/wiki/Category:NHK電視新聞節目 "wikilink") [Category:NHK電視節目](https://zh.wikipedia.org/wiki/Category:NHK電視節目 "wikilink")
 
 1.

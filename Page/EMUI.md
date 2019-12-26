@@ -8,7 +8,7 @@
 
 2017年9月4日，华为官方宣布，称“为了给用户提供统一、便捷的升级服务，提高升级满意度”，自2017年9月7日起，EMUI官网关闭软件包下载页面，不再单独提供官方SD卡软件包下载服务，统一改为[OTA升级](https://zh.wikipedia.org/wiki/空中下載 "wikilink")\[11\]。不过，在EMUI官网上，软件包下载页所提供的软件包均为适用于2015年及之前发表的机型，2016年起发布的新机型只能通过OTA升级。
 
-2018年5月24日，华为在其EMUI官网中发布公告中称，为了更好的保护消费者的体验，避免刷机后引入的一系列问题，决定对所有2018年5月24日后新上市产品停止解锁码服务，已经上市产品自公告发布之日起60天后停止解锁码服务。此舉意味著此后华为手机将無法通过官方渠道申请解锁[BootLoader的解锁码](../Page/啟動程式.md "wikilink")。\[12\]不過2019年9月發布的mate 30系列受制於美國對華為制裁無法預安裝[Google系列應用](../Page/Google流動服務.md "wikilink")，華為允許Mate30系列解鎖[BootLoader](../Page/啟動程式.md "wikilink")\[13\]。
+2018年5月24日，华为在其EMUI官网中发布公告中称，为了更好的保护消费者的体验，避免刷机后引入的一系列问题，决定对所有2018年5月24日后新上市产品停止解锁码服务，已经上市产品自公告发布之日起60天后停止解锁码服务。此舉意味著此后华为手机将無法通过官方渠道申请解锁[BootLoader的解锁码](../Page/啟動程式.md "wikilink")。\[12\]不過2019年9月發布的mate 30系列受制於美國對華為制裁無法預安裝[Google系列應用](../Page/Google流動服務.md "wikilink")，一度有消息指華為允許Mate30系列解鎖[BootLoader](../Page/啟動程式.md "wikilink")\[13\]，然而華為方面否認了這一說法。
 
 ## 主要特色
 
@@ -16,7 +16,7 @@ EMUI与原生Android系统桌面不同，以“合一桌面”为设计元素，
 
 ## 支援設備
 
-目前，所有在2012年7月30日起发布的华为、[荣耀品牌手机和平板电脑均已预装EMUI](https://zh.wikipedia.org/wiki/华为荣耀 "wikilink").
+目前，所有在2012年7月30日起发布的华为、[荣耀品牌手机和平板电脑均已预装EMUI](https://zh.wikipedia.org/wiki/华为荣耀 "wikilink")。
 
 ## 歷史版本
 
@@ -40,30 +40,17 @@ EMUI与原生Android系统桌面不同，以“合一桌面”为设计元素，
 [Category:华为产品](https://zh.wikipedia.org/wiki/Category:华为产品 "wikilink") [Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink") [Category:售後韌體](https://zh.wikipedia.org/wiki/Category:售後韌體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13. [可安装谷歌GMS！华为Mate30/Pro确认支持Bootloader解锁](https://m.ithome.com/html/446481.htm)
-
 14.
-
 15.

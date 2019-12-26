@@ -1,10 +1,10 @@
-**Sayuri**（）為来自[日本](../Page/日本.md "wikilink")[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[福岡市](../Page/福岡市.md "wikilink")的[J-pop](https://zh.wikipedia.org/wiki/J-pop "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")，又常被称为**酸欠少女さユり**。所屬[唱片公司](../Page/唱片公司.md "wikilink")為。
+**Sayuri**（）為来自[日本](../Page/日本.md "wikilink")[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[福岡市](../Page/福岡市.md "wikilink")的[J-pop](https://zh.wikipedia.org/wiki/J-pop "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")，又常被称为「缺氧少女Sayuri（）」。所屬[唱片公司](../Page/唱片公司.md "wikilink")為。
 
 ## 經歷
 
 ### 正式出道前
 
-Sayuri讀幼兒園的時候，电视上播放的《[珍珠美人鱼](https://zh.wikipedia.org/wiki/珍珠美人鱼 "wikilink")》和《[寻找满月](https://zh.wikipedia.org/wiki/寻找满月 "wikilink")》两部充满音乐元素的动画让她萌生未来当歌手的梦想\[1\]。小學六年級時，接觸到了[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")等偶像團體而深受其感動，後來對音樂產生了興趣而買了一把木吉他\[2\]。
+Sayuri讀幼兒園的時候，电视上播放的《[唱K小魚仙](https://zh.wikipedia.org/wiki/唱K小魚仙 "wikilink")》和《[星河滿月](https://zh.wikipedia.org/wiki/星河滿月 "wikilink")》两部充满音乐元素的动画让她萌生未来当歌手的梦想\[1\]。小學六年級時，接觸到了[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")等偶像團體而深受其感動，後來對音樂產生了興趣而買了一把木吉他\[2\]。
 
 在中学二年級時，因為憧憬關西傑尼斯8能自己作詞作曲，自己也首次開始嘗試作曲。Sayuri还表示因为当时渐渐不适应正常学校生活了，于是有了“那就唱歌吧”的想法\[3\]。
 
@@ -47,7 +47,9 @@ Sayuri讀幼兒園的時候，电视上播放的《[珍珠美人鱼](https://zh.
 #### 2018年
 
 2月28日、發行第六首個人單曲「月と花束」。該曲也做為電視動畫《[Fate/EXTRA](https://zh.wikipedia.org/wiki/Fate/EXTRA "wikilink")》的片尾曲\[17\]\[18\]。
+
 10月6日、首次在台灣舉辦個人LIVE「SAYURI TOUR 2018 in TAIWAN」。\[19\]
+
 12月5日、和日本搖滾樂團[MY FIRST STORY合作發行單曲](https://zh.wikipedia.org/wiki/MY_FIRST_STORY "wikilink")「レイメイ」。該曲作為電視動畫《[黃金神威](../Page/黃金神威.md "wikilink")》第二期片頭曲。\[20\]
 
 #### 2019年
@@ -56,9 +58,9 @@ Sayuri讀幼兒園的時候，电视上播放的《[珍珠美人鱼](https://zh.
 
 ## 個性
 
-升上高中後的Sayuri開始變得不擅長與他人相處，漸漸覺得自己跟世界失去了聯繫，之後便一直帶著這份痛苦到窒息的心情演唱著，所以取名為「酸欠少女」（日文的酸欠為缺氧的意思）。將彈吉他視為自己與他人交流的方式\[21\]。
+升上高中後的Sayuri開始變得不擅長與他人相處，漸漸覺得自己跟世界失去了聯繫，之後便一直帶著這份痛苦到窒息的心情演唱著，所以取名為「缺氧少女（）」（日文的「酸欠」為「缺氧」的意思）。將彈吉他視為自己與他人交流的方式\[21\]。
 
-さユり(Sayuri)是由平假名的[さ和](https://zh.wikipedia.org/wiki/さ "wikilink")[り還有片假名的](https://zh.wikipedia.org/wiki/り "wikilink")[ユ所組成](https://zh.wikipedia.org/wiki/ユ "wikilink")，并与形象设计师YKBX设计了三個不同性格的自己，分別存在於二次元、三次元與平行世界之中，创造出2.5次元平行世界的創作型歌手。
+さユり(Sayuri)是由[平假名](../Page/平假名.md "wikilink")的[さ和](https://zh.wikipedia.org/wiki/さ "wikilink")[り還有片假名的](https://zh.wikipedia.org/wiki/り "wikilink")[ユ所組成](https://zh.wikipedia.org/wiki/ユ "wikilink")，并与形象设计师YKBX设计了三個不同性格的自己，分別存在於二次元、三次元與平行世界之中，创造出2.5次元平行世界的創作型歌手。
 
 本名尚未公開。曾穿國中母校的水手服上TwitCasting的節目，制服的名牌上寫著「○○さゆり（名字部分被隱藏起來，さゆり為平假名）」。
 
@@ -149,18 +151,29 @@ BVCL-859（通常盤）</p></td>
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p>2018年12月5日</p></td>
-<td><p><strong>レイメイ</strong></p></td>
+<td><p><strong></strong>（中文可譯作“黎明”）</p></td>
 <td><p>CD＋DVD（初回生產限定盤・期間生產限定盤）<br />
 CD（通常盤）</p></td>
-<td><p>BVCL-923/4（初回生産限定盤） BVCL-926/7（期間生産限定盤）</p>
-<p>BVCL-925（通常盤）</p></td>
+<td><p>BVCL-923/4（初回生産限定盤）<br />
+BVCL-926/7（期間生産限定盤）<br />
+BVCL-925（通常盤）</p></td>
 <td><p>7位[27]</p></td>
+</tr>
+<tr class="even">
+<td><p>8th</p></td>
+<td><p>2019年11月27日</p></td>
+<td><p><strong>航海の唄</strong></p></td>
+<td><p>CD＋DVD（初回生產限定盤・期間生產限定盤）<br />
+CD（通常盤）</p></td>
+<td><p>BVCL-1020/1（初回生産限定盤）<br />
+BVCL-1023/4（期間生産限定盤）<br />
+BVCL-1022（通常盤）</p></td>
+<td><p>[28]</p></td>
 </tr>
 </tbody>
 </table>
 
-
-\=== 專輯 ===
+### 專輯
 
 <table>
 <thead>
@@ -223,7 +236,7 @@ BVCL-795（通常盤）</p></td>
 </tr>
 <tr class="even">
 <td><p>平行線</p></td>
-<td><p>電視動畫、電視劇《<a href="https://zh.wikipedia.org/wiki/人渣的本願" title="wikilink">人渣的本願</a>》片尾曲[28]</p></td>
+<td><p>電視動畫、電視劇《<a href="https://zh.wikipedia.org/wiki/人渣的本願" title="wikilink">人渣的本願</a>》片尾曲[29]</p></td>
 <td><p>2017年</p></td>
 </tr>
 <tr class="odd">
@@ -235,6 +248,11 @@ BVCL-795（通常盤）</p></td>
 <td><p>レイメイ</p></td>
 <td><p>電視動畫《<a href="../Page/黃金神威.md" title="wikilink">黃金神威</a>》第二期片頭曲</p></td>
 <td><p>2018年</p></td>
+</tr>
+<tr class="odd">
+<td><p>航海の唄</p></td>
+<td><p>電視動畫《<a href="../Page/我的英雄學院.md" title="wikilink">我的英雄學院</a>》第四期片尾曲</p></td>
+<td><p>2019年</p></td>
 </tr>
 </tbody>
 </table>
@@ -261,7 +279,7 @@ BVCL-795（通常盤）</p></td>
 | 夜明けのパラレル実験室 〜男子会編〜 supported by 2.5D×KAI-YOU    | 11月17日                                              |        |
 | 夜明けのパラレル実験室 〜女子会編〜 supported by 2.5D×KAI-YOU    | 11月25日                                              |        |
 | 夜明けのパラレル実験室 supported by 2.5D×KAI-YOU           | 12月23日                                              |        |
-| 2016年                                           | 夜明けのパラレル実験室 〜僕街編〜 supported by 2.5D × KAI-YOU\[29\] | 2月24日  |
+| 2016年                                           | 夜明けのパラレル実験室 〜僕街編〜 supported by 2.5D × KAI-YOU\[30\] | 2月24日  |
 | 夜明けのパラレル実験室 in新宿 〜ここに宣戦布告編〜                     | 11月3日                                               |        |
 | 2017年                                           | 夜明けのパラレル実験室2017 〜それぞれの空白編『　　　　　　　』〜                 | 11月24日 |
 |                                                 |                                                     |        |
@@ -324,55 +342,31 @@ BVCL-795（通常盤）</p></td>
 
 1.
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
-
 10. [株式会社ロッキング・オン](https://zh.wikipedia.org/wiki/ロッキング・オン "wikilink")『[ROCKIN'ON JAPAN](https://zh.wikipedia.org/wiki/ROCKIN'ON_JAPAN "wikilink")』2015年10月号 220頁
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.  さユり×MY FIRST STORY|url=[https://www.oricon.co.jp/prof/731570/products/1296804/1/|accessdate=2019-08-04|work=ORICON](https://www.oricon.co.jp/prof/731570/products/1296804/1/%7Caccessdate=2019-08-04%7Cwork=ORICON) NEWS}}
-
-28.
-
-29.  Peatix|publisher=Peatix|accessdate=2016-02-24}}
+28.  さユり|accessdate=2019-10-26}}
+29.
+30.  Peatix|publisher=Peatix|accessdate=2016-02-24}}

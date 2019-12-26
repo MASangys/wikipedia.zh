@@ -941,7 +941,5 @@
 [Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink") [Category:WonderSwan_Color遊戲](https://zh.wikipedia.org/wiki/Category:WonderSwan_Color遊戲 "wikilink")
 
 1.
-
 2.
-
 3.

@@ -125,41 +125,24 @@
   - YouTuBe[《52Hz, I Love You》預告](https://www.youtube.com/watch?v=NKwu6OeC4Rs)
 
   -
-[Category:2017年電影](https://zh.wikipedia.org/wiki/Category:2017年電影 "wikilink") [Category:2010年代歌舞片](https://zh.wikipedia.org/wiki/Category:2010年代歌舞片 "wikilink") [Category:2017年劇情片](https://zh.wikipedia.org/wiki/Category:2017年劇情片 "wikilink") [Category:2010年代台灣電影作品](https://zh.wikipedia.org/wiki/Category:2010年代台灣電影作品 "wikilink") [Category:魏德聖電影](https://zh.wikipedia.org/wiki/Category:魏德聖電影 "wikilink") [Category:台灣劇情片](https://zh.wikipedia.org/wiki/Category:台灣劇情片 "wikilink") [Category:台灣LGBT相關電影](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電影 "wikilink") [Category:台北市背景電影](https://zh.wikipedia.org/wiki/Category:台北市背景電影 "wikilink") [Category:台灣愛情片](https://zh.wikipedia.org/wiki/Category:台灣愛情片 "wikilink") [Category:臺灣歌舞片](https://zh.wikipedia.org/wiki/Category:臺灣歌舞片 "wikilink") [Category:大臺北取景電影](https://zh.wikipedia.org/wiki/Category:大臺北取景電影 "wikilink") [Category:威視電影發行電影](https://zh.wikipedia.org/wiki/Category:威視電影發行電影 "wikilink")
+[Category:2017年臺灣電影](https://zh.wikipedia.org/wiki/Category:2017年臺灣電影 "wikilink") [Category:2010年代歌舞片](https://zh.wikipedia.org/wiki/Category:2010年代歌舞片 "wikilink") [Category:2017年劇情片](https://zh.wikipedia.org/wiki/Category:2017年劇情片 "wikilink") [Category:魏德聖電影](https://zh.wikipedia.org/wiki/Category:魏德聖電影 "wikilink") [Category:台灣劇情片](https://zh.wikipedia.org/wiki/Category:台灣劇情片 "wikilink") [Category:台灣LGBT相關電影](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電影 "wikilink") [Category:台北市背景電影](https://zh.wikipedia.org/wiki/Category:台北市背景電影 "wikilink") [Category:台灣愛情片](https://zh.wikipedia.org/wiki/Category:台灣愛情片 "wikilink") [Category:臺灣歌舞片](https://zh.wikipedia.org/wiki/Category:臺灣歌舞片 "wikilink") [Category:大臺北取景電影](https://zh.wikipedia.org/wiki/Category:大臺北取景電影 "wikilink") [Category:威視電影發行電影](https://zh.wikipedia.org/wiki/Category:威視電影發行電影 "wikilink")
 
 1.
 2.  [全國電影票房截至2017年五月前資訊](http://www.tfi.org.tw/about-publicinfo04.asp) ,2017.06.05 國家電影中心
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.

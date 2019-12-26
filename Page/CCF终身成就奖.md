@@ -4,14 +4,15 @@
 
 历届获奖者如下：
 
-  - 2011年，[徐家福](../Page/徐家福.md "wikilink")教授，[杨芙清](../Page/杨芙清.md "wikilink")院士 \[3\]
-  - 2012年，[金怡濂院士](https://zh.wikipedia.org/wiki/金怡濂 "wikilink")，[汪成为院士](https://zh.wikipedia.org/wiki/汪成为 "wikilink") \[4\]
-  - 2013年，[陈俊亮院士](https://zh.wikipedia.org/wiki/陈俊亮 "wikilink")，[董韫美院士](https://zh.wikipedia.org/wiki/董韫美 "wikilink") \[5\]
-  - 2014年，[陆汝钤](../Page/陆汝钤.md "wikilink")院士，[张钹](../Page/张钹.md "wikilink")院士 \[6\]\[7\]
-  - 2015年，[倪光南院士](https://zh.wikipedia.org/wiki/倪光南 "wikilink")，[周兴铭](../Page/周兴铭.md "wikilink")院士 \[8\]
-  - 2016年，[沈绪榜院士](https://zh.wikipedia.org/wiki/沈绪榜 "wikilink")、[唐泽圣教授](https://zh.wikipedia.org/wiki/唐泽圣 "wikilink") \[9\]
-  - 2017年，[胡启恒](../Page/胡启恒.md "wikilink")院士，[李伯虎](../Page/李伯虎.md "wikilink")院士\[10\]
-  - 2018年，[何新贵](../Page/何新贵.md "wikilink")院士，[周巢尘院士](https://zh.wikipedia.org/wiki/周巢尘 "wikilink")\[11\]
+  - 2010年，[张效祥](../Page/张效祥.md "wikilink")院士，[夏培肃](../Page/夏培肃.md "wikilink")院士 \[3\]
+  - 2011年，[徐家福](../Page/徐家福.md "wikilink")教授，[杨芙清](../Page/杨芙清.md "wikilink")院士 \[4\]
+  - 2012年，[金怡濂院士](https://zh.wikipedia.org/wiki/金怡濂 "wikilink")，[汪成为院士](https://zh.wikipedia.org/wiki/汪成为 "wikilink") \[5\]
+  - 2013年，[陈俊亮院士](https://zh.wikipedia.org/wiki/陈俊亮 "wikilink")，[董韫美院士](https://zh.wikipedia.org/wiki/董韫美 "wikilink") \[6\]
+  - 2014年，[陆汝钤](../Page/陆汝钤.md "wikilink")院士，[张钹](../Page/张钹.md "wikilink")院士 \[7\]\[8\]
+  - 2015年，[倪光南院士](https://zh.wikipedia.org/wiki/倪光南 "wikilink")，[周兴铭](../Page/周兴铭.md "wikilink")院士 \[9\]
+  - 2016年，[沈绪榜院士](https://zh.wikipedia.org/wiki/沈绪榜 "wikilink")、[唐泽圣教授](https://zh.wikipedia.org/wiki/唐泽圣 "wikilink") \[10\]
+  - 2017年，[胡启恒](../Page/胡启恒.md "wikilink")院士，[李伯虎](../Page/李伯虎.md "wikilink")院士\[11\]
+  - 2018年，[何新贵](../Page/何新贵.md "wikilink")院士，[周巢尘院士](https://zh.wikipedia.org/wiki/周巢尘 "wikilink")\[12\]
 
 ## 参考文献
 
@@ -23,12 +24,13 @@
 
 1.  [CCF终身成就奖](http://www.ccf.org.cn/sites/ccf/ccfzscj.jsp)
 2.  [腾讯将连续5年资助中国计算机学会终身成就奖](http://www.ccf.org.cn/sites/ccf/xhdtnry.jsp?contentId=2713279758184)
-3.  [CCF颁发2011 CCF终身成就奖](http://www.ccf.org.cn/sites/ccf/xhdtnry.jsp?contentId=2652108555012)
-4.  [CCF隆重颁发2012CCF终身成就奖](http://www.ccf.org.cn/sites/ccf/xhdtnry.jsp?contentId=2719154945446)
-5.  [2013CCF终身成就奖隆重颁发](http://www.ccf.org.cn/sites/ccf/xhdtnry.jsp?contentId=2780841651757)
-6.  [陆汝钤、张钹获2014CCF终身成就奖](http://www.ccf.org.cn/sites/ccf/xhdtnry.jsp?contentId=2845154177391)
-7.
-8.  [倪光南、周兴铭获中国计算机学会终身成就奖，科学网，2016/1/31](http://news.sciencenet.cn/htmlnews/2016/1/337557.shtm)
-9.
+3.  [CCF隆重颁发2010 CCF终身成就奖](http://history.ccf.org.cn/xhdtnry.jsp-contentId=2590507188506.htm)
+4.  [CCF颁发2011 CCF终身成就奖](http://www.ccf.org.cn/sites/ccf/xhdtnry.jsp?contentId=2652108555012)
+5.  [CCF隆重颁发2012CCF终身成就奖](http://www.ccf.org.cn/sites/ccf/xhdtnry.jsp?contentId=2719154945446)
+6.  [2013CCF终身成就奖隆重颁发](http://www.ccf.org.cn/sites/ccf/xhdtnry.jsp?contentId=2780841651757)
+7.  [陆汝钤、张钹获2014CCF终身成就奖](http://www.ccf.org.cn/sites/ccf/xhdtnry.jsp?contentId=2845154177391)
+8.
+9.  [倪光南、周兴铭获中国计算机学会终身成就奖，科学网，2016/1/31](http://news.sciencenet.cn/htmlnews/2016/1/337557.shtm)
 10.
 11.
+12.

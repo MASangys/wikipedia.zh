@@ -293,6 +293,7 @@
 
   - [情陷夜中環2](../Page/情陷夜中環2.md "wikilink")（）
   - 嫁錯媽（）
+  - [危險人物](../Page/危險人物.md "wikilink")（）
 
 ## 參見
 
@@ -301,7 +302,7 @@
 
 ## 外部連結
 
-  - [官方網站](http://www.klt.tv/)
+  - [官方網站](https://web.archive.org/web/20160221070217/http://www.klt.tv/)
   - [KLT-靖天國際台 中華電信MOD相關網站](http://mod.cht.com.tw/channelrw/channelinfo.php?id=087)
 
 [Category:台灣電視台](https://zh.wikipedia.org/wiki/Category:台灣電視台 "wikilink") [Category:華語電視頻道](https://zh.wikipedia.org/wiki/Category:華語電視頻道 "wikilink")

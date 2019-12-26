@@ -78,7 +78,7 @@ OPUS：地球計畫是以探索為主軸，藉由探索過程逐步地揭開故�
 
 《OPUS：地球計畫》原聲帶先於2015年10月21日發售\[7\]，後於Steam上架作為遊戲的可下載內容推出。收錄了遊戲中使用的17首曲目，以及4首特別收錄曲。
 
-曲風包含了[氛圍電子](https://zh.wikipedia.org/wiki/氛圍電子 "wikilink")，[超微量後搖](https://zh.wikipedia.org/wiki/超微量後搖 "wikilink")，[實驗音樂](../Page/實驗音樂.md "wikilink")與[Chill Out等](https://zh.wikipedia.org/wiki/Chill_Out "wikilink")，由台灣音樂家Triodust作曲。
+曲風包含了[氛圍電子](https://zh.wikipedia.org/wiki/氛圍電子 "wikilink")，[超微量後搖](https://zh.wikipedia.org/wiki/超微量後搖 "wikilink")，[實驗音樂](../Page/實驗音樂.md "wikilink")與[Chill Out等](https://zh.wikipedia.org/wiki/Chill_Out "wikilink")，由台灣音樂家Triodust作曲。\[8\]
 
 | 曲名                     | 音樂家      |
 | ---------------------- | -------- |
@@ -106,7 +106,7 @@ OPUS：地球計畫是以探索為主軸，藉由探索過程逐步地揭開故�
 
 ## Steam版本
 
-《OPUS：地球計畫》的Steam版本於2016年3月12日通過[Steam Greenlight投票](https://zh.wikipedia.org/wiki/Steam_Greenlight "wikilink")\[8\]，並於4月22日在Steam平台上架，數位版原聲帶同步發售。
+《OPUS：地球計畫》的Steam版本於2016年3月12日通過[Steam Greenlight投票](https://zh.wikipedia.org/wiki/Steam_Greenlight "wikilink")\[9\]，並於4月22日在Steam平台上架，數位版原聲帶同步發售。
 
 遊戲內容與行動平台版本大致相同，添加了全程過場動畫，並且為了從手機轉換到電腦平台做出大量細節修正，包含操作方式從觸控改為鍵盤/滑鼠操作，以及介面、美術素材的重製、高畫質化等。
 
@@ -125,4 +125,5 @@ OPUS：地球計畫是以探索為主軸，藉由探索過程逐步地揭開故�
 5.
 6.  [台灣原生遊戲《OPUS：地球計畫》　在悠揚樂聲中找地球](http://www.setn.com/News.aspx?NewsID=246067)
 7.
-8.
+8.  [沉迷不完美的聲音？！《OPUS》幕後音樂操盤手Triodust](https://blog.addmusic.tw/2017/09/01/%e5%b0%88%e8%a8%aa%e6%b2%89%e8%bf%b7%e4%b8%8d%e5%ae%8c%e7%be%8e%e7%9a%84%e8%81%b2%e9%9f%b3%ef%bc%9f%ef%bc%81%e3%80%8aopus%e3%80%8b%e5%b9%95%e5%be%8c%e9%9f%b3%e6%a8%82%e6%93%8d%e7%9b%a4%e6%89%8btriod/)，加點音樂誌\[2017-9-1\]。
+9.

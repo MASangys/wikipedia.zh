@@ -28,7 +28,7 @@ DeepMind於2014年开始开发[人工智能](../Page/人工智能.md "wikilink")
 
 2016年12月29日，一个注册名为Magister（大陆客户端显示为Magist）的账号开始在弈城围棋网与职业棋手对弈，次日用户名改为Master。12月31日取得30连胜后，2017年1月1日Master转往[腾讯](../Page/腾讯.md "wikilink")野狐围棋网对弈，最终Master在野狐也取得30连胜，总成绩为60场不败\[24\]，在60局结束后，DeepMind CEO[杰米斯·哈萨比斯](../Page/杰米斯·哈萨比斯.md "wikilink")声明确认Master就是升级版AlphaGo\[25\]\[26\]。
 
-2017年10月19日，AlphaGo的团队在《[自然](../Page/自然_\(期刊\).md "wikilink")》杂志上发表了一篇文章，介绍了AlphaGo Zero，这是一个没有用到人类数据的版本，比以前任何击败人类的版本都要强大。\[27\] 通过跟自己对战，AlphaGo Zero经过3天的学习，以100:0的成绩超越了[AlphaGo Lee的实力](../Page/AlphaGo李世乭五番棋.md "wikilink")，21天后达到了[AlphaGo Master的水平](../Page/Master_\(围棋软件\).md "wikilink")，并在40天内超过了所有之前的版本。\[28\]
+2017年10月19日，AlphaGo的团队在《[自然](../Page/自然_\(期刊\).md "wikilink")》杂志上发表了一篇文章，介绍了AlphaGo Zero，这是一个没有用到人类数据的版本，比以前任何击败人类的版本都要强大。\[27\]通过跟自己对战，AlphaGo Zero经过3天的学习，以100:0的成绩超越了[AlphaGo Lee的实力](../Page/AlphaGo李世乭五番棋.md "wikilink")，21天后达到了[AlphaGo Master的水平](../Page/Master_\(围棋软件\).md "wikilink")，并在40天内超过了所有之前的版本。\[28\]
 
 2018年12月7日，DeepMind在《[科学](../Page/科学_\(期刊\).md "wikilink")》期刊上发表关于AlphaZero的论文，AlphaZero使用與[AlphaGo Zero類似但更一般性的演算法](../Page/AlphaGo_Zero.md "wikilink")，在不做太多改變的前提下，並將演算法從[圍棋延伸到](https://zh.wikipedia.org/wiki/圍棋 "wikilink")[将棋與](../Page/将棋_\(日本\).md "wikilink")[國際象棋上](https://zh.wikipedia.org/wiki/國際象棋 "wikilink")。
 
@@ -45,69 +45,40 @@ DeepMind於2014年开始开发[人工智能](../Page/人工智能.md "wikilink")
 ## 外部链接
 
   -
-  - [Google DeepMind - publications](http://deepmind.com/publications.html)
+  - [Google DeepMind - publications](https://web.archive.org/web/20160207072856/http://www.deepmind.com/publications.html)
 
   - [DeepMind在YouTube上的官方频道](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A)
 
 [Category:英国软件公司](https://zh.wikipedia.org/wiki/Category:英国软件公司 "wikilink") [Category:2010年成立的公司](https://zh.wikipedia.org/wiki/Category:2010年成立的公司 "wikilink") [Category:机器学习](https://zh.wikipedia.org/wiki/Category:机器学习 "wikilink") [Category:人工智能](https://zh.wikipedia.org/wiki/Category:人工智能 "wikilink") [Category:Alphabet](https://zh.wikipedia.org/wiki/Category:Alphabet "wikilink") [Category:人工智能实验室](https://zh.wikipedia.org/wiki/Category:人工智能实验室 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10. [Best of 2014: Google's Secretive DeepMind Startup Unveils a "Neural Turing Machine"](http://www.technologyreview.com/view/533741/best-of-2014-googles-secretive-deepmind-startup-unveils-a-neural-turing-machine/), *[MIT Technology Review](https://zh.wikipedia.org/wiki/MIT_Technology_Review "wikilink")*
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29. [DeepMind AI AlphaStar goes 10-1 against top 'StarCraft II' pros](https://www.engadget.com/2019/01/24/deepmind-ai-starcraft-ii-demonstration-tlo-mana/)
-
 30. [AlphaGo挑戰人類圍棋後 傳可能再戰《星海爭霸》](http://news.ltn.com.tw/news/life/breakingnews/1627739)
-
 31.

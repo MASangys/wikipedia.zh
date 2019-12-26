@@ -396,9 +396,9 @@
 <tr class="even">
 <td><p><a href="../Page/盧士燕.md" title="wikilink">盧士燕</a>（노사연）</p></td>
 <td><p>歌手（女）</p></td>
-<td><p>049、103、137、313、374-375</p></td>
+<td><p>049、103、137、313、374-375、415</p></td>
+<td><p>7</p></td>
 <td><p>6</p></td>
-<td><p>5</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金玟廷.md" title="wikilink">金玟廷</a>（김민정）</p></td>
@@ -4958,7 +4958,7 @@
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p>（김용만）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金勇萬" title="wikilink">金勇萬</a>（김용만）</p></td>
 <td><p>喜劇演員（男）</p></td>
 <td><p>339</p></td>
 <td><p>1</p></td>
@@ -5539,7 +5539,7 @@
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/金惠允.md" title="wikilink">金惠允</a>（김혜윤）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金惠奫" title="wikilink">金惠奫</a>（김혜윤）</p></td>
 <td><p>演員（女）</p></td>
 <td><p>448</p></td>
 <td><p>1</p></td>

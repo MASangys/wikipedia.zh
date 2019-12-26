@@ -202,7 +202,7 @@
 2.
 3.  [GOT7突襲回歸 不當乖仔變強悍偶像](http://tw.twent.chinayes.com/Content/20150916/kklcgkrat2a3m.shtml)  Yes娛樂. \[2015-09-16\]
 4.  [GOT7曝新曲《If You Do》宣傳MV JB、MARK陷瘋狂](http://www.koreastardaily.com/tc/news/68564) 韓星網. \[2015-09-21\]
-5.  [GOT7《MAD》概念照](http://kpopn.com/2015/09/18/300518/) kpopn. \[2015-09-18\]
+5.  [GOT7《MAD》概念照](http://kpopn.com/2015/09/18/300518/)  kpopn. \[2015-09-18\]
 6.  [GOT7選用Black Eyed必勝歌曲主打回歸 社長朴振英首次完全不插手](http://chinese.kpopstarz.com/trad/articles/91105/20150917/got7.htm) kpopstarz. \[2015-09-17\]
 7.  [GOT7新曲預告片大公開 卡通人物形象超級呆萌](http://n.yam.com/wownews/entertain/20151119/20151119402211.html) 蕃新聞. \[2015-11-19\]
 8.  [《MAD》冬季版專輯介紹](http://got7.jype.com/discography.asp?idx=6&lng=CH&page=) GOT7官網. \[2015-11-23\]

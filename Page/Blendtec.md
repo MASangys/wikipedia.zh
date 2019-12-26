@@ -69,18 +69,11 @@
 [Category:1975年成立的公司](https://zh.wikipedia.org/wiki/Category:1975年成立的公司 "wikilink") [Category:消費品](https://zh.wikipedia.org/wiki/Category:消費品 "wikilink")
 
 1.  [Mixing It Up](http://www.nytimes.com/2008/08/24/magazine/24wwln-consumed-t.html), \[//en.wikipedia.org/wiki/New_York_Times New York Times\], Rob Walker, August 22, 2008
-
 2.
 3.  [1](http://www.blendtec.com/company/about)
-
 4.
-
 5.  [Blendtec snags 2013 Gold Innovation Award](http://www.couponcodeslady.com/2013/10/blendtec-wins-gold-innovation-award-2013.html)
-
 6.
-
 7.  <http://www.blendtec.com/blenders>
-
 8.  <http://www.blendtec.com/commercial>
-
 9.  <http://www.blendtec.com/jars>

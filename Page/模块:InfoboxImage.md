@@ -1,14 +1,4 @@
-\-- 输入： - 輸入： -- image - 纯文件名（带有File:/Image:前缀与否皆可）或完全格式化的图片链接 -
-純檔案名（帶有File:/Image:字首與否皆可）或完全格式化的圖片連結 -- page - page to
-display for multipage images (DjVu) -- size - 显示图像大小 - 顯示影像大小 -- maxsize
-- 图像最大大小 - 影像最大大小 -- sizedefault - 如果size参数留空，默认显示图像大小 -
-如果size參數留空，預設顯示影像大小 -- alt - 图像替换文本 - 影像替換文字 --
-title - 图像标题文本 - 影像標題文字 -- border - 有边框则设为yes - 有邊框則設為yes -- center -
-图像需居中则设为yes - 影像需居中則設為yes -- upright - 垂直图像参数 - 垂直影像參數 --
-suppressplaceholder - 设为yes则检查图像是否为占位符并停用 - 設為yes則檢查影像是否為佔位符並停用 -- link
-- 点击图像时访问的页面 - 點選影像時訪問的頁面 -- 输出： - 輸出： -- 格式化图像 - 格式化影像 --
-详情请参阅"Module:InfoboxImage/doc"页面 -
-詳情請參閱"Module:InfoboxImage/doc"頁面
+\-- 输入： - 輸入： -- image - 纯文件名（带有File:/Image:前缀与否皆可）或完全格式化的图片链接 - 純檔案名（帶有File:/Image:字首與否皆可）或完全格式化的圖片連結 -- page - page to display for multipage images (DjVu) -- size - 显示图像大小 - 顯示影像大小 -- maxsize - 图像最大大小 - 影像最大大小 -- sizedefault - 如果size参数留空，默认显示图像大小 - 如果size參數留空，預設顯示影像大小 -- alt - 图像替换文本 - 影像替換文字 -- title - 图像标题文本 - 影像標題文字 -- border - 有边框则设为yes - 有邊框則設為yes -- center - 图像需居中则设为yes - 影像需居中則設為yes -- upright - 垂直图像参数 - 垂直影像參數 -- suppressplaceholder - 设为yes则检查图像是否为占位符并停用 - 設為yes則檢查影像是否為佔位符並停用 -- link - 点击图像时访问的页面 - 點選影像時訪問的頁面 -- 输出： - 輸出： -- 格式化图像 - 格式化影像 -- 详情请参阅"Module:InfoboxImage/doc"页面 - 詳情請參閱"Module:InfoboxImage/doc"頁面
 
 local i = {};
 
@@ -146,7 +136,7 @@ function i.InfoboxImage(frame)
 `   if mw.ustring.lower(mw.ustring.sub(image,1,6)) == "[http:" then`
 `       return "";`
 `   end`
-`   if mw.ustring.lower(mw.ustring.sub(image,1,7)) == "`[`%s*thumb%s*[|%`](../Page/http:"_then_return_"";_end_if_mw.ustring.lower\(mw.ustring.sub\(image,1,6\)\)_==_"https:"_then_return_"";_end_if_mw.ustring.lower\(mw.ustring.sub\(image,1,7\)\)_==_"[https:"_then_return_"";_end_if_mw.ustring.lower\(mw.ustring.sub\(image,1,8\)\)_==_"[[https:"_then_return_"";_end_if_mw.ustring.sub\(image,1,2\)_==_"[["_then_--_search_for_thumbnail_images_and_add_to_tracking_cat_if_found_if_mw.title.getCurrentTitle\(\).namespace_==_0_and_\(mw.ustring.find\(image,_".md "wikilink")`") or mw.ustring.find(image, "|%s*thumbnail%s*[|%]]")) then`
+`   if mw.ustring.lower(mw.ustring.sub(image,1,7)) == "`[`%s*thumb%s*[|%`](https://zh.wikipedia.org/wiki/http:"_then_return_"";_end_if_mw.ustring.lower\(mw.ustring.sub\(image,1,6\)\)_==_"https:"_then_return_"";_end_if_mw.ustring.lower\(mw.ustring.sub\(image,1,7\)\)_==_"[https:"_then_return_"";_end_if_mw.ustring.lower\(mw.ustring.sub\(image,1,8\)\)_==_"[[https:"_then_return_"";_end_if_mw.ustring.sub\(image,1,2\)_==_"[["_then_--_search_for_thumbnail_images_and_add_to_tracking_cat_if_found_if_mw.title.getCurrentTitle\(\).namespace_==_0_and_\(mw.ustring.find\(image,_" "wikilink")`") or mw.ustring.find(image, "|%s*thumbnail%s*[|%]]")) then`
 `           return image .. "";`
 `       elseif mw.title.getCurrentTitle().namespace == 0 then`
 `           return image .. "";`
@@ -256,5 +246,4 @@ end
 
 return i;
 
-[Category:信息框內使用縮圖語法的頁面](https://zh.wikipedia.org/wiki/Category:信息框內使用縮圖語法的頁面 "wikilink")
-[Category:使用过时图像语法的页面](https://zh.wikipedia.org/wiki/Category:使用过时图像语法的页面 "wikilink")
+[Category:信息框內使用縮圖語法的頁面](https://zh.wikipedia.org/wiki/Category:信息框內使用縮圖語法的頁面 "wikilink") [Category:使用过时图像语法的页面](https://zh.wikipedia.org/wiki/Category:使用过时图像语法的页面 "wikilink")

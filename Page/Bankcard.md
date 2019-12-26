@@ -14,9 +14,6 @@
 [Category:澳大利亚银行业](https://zh.wikipedia.org/wiki/Category:澳大利亚银行业 "wikilink") [Category:银行卡组织](https://zh.wikipedia.org/wiki/Category:银行卡组织 "wikilink") [Category:信用卡发卡组织](https://zh.wikipedia.org/wiki/Category:信用卡发卡组织 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

@@ -26,7 +26,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 
 ### 2019-2020球季
 
-6月簽入香港年青前鋒來自[中西區足球隊](../Page/中西區足球隊.md "wikilink")[陳嘉寶](https://zh.wikipedia.org/wiki/陳嘉寶 "wikilink")、[傑志體育會](../Page/傑志體育會.md "wikilink")中場[林柱機](../Page/林柱機.md "wikilink")、[大埔足球會](../Page/大埔足球會.md "wikilink")前鋒[伊高沙托尼](../Page/伊高·沙托尼.md "wikilink")。 7月簽入2名新外援，龍門[謝家榮](https://zh.wikipedia.org/wiki/謝家榮 "wikilink")，後衛[方柏倫及](https://zh.wikipedia.org/wiki/方柏倫 "wikilink")[林衍廷](../Page/林衍廷.md "wikilink")，中場[林樂勤](../Page/林樂勤.md "wikilink")。 7月31日(星期三)下午開記者會。8月6日(星期二)去[葡萄牙](../Page/葡萄牙.md "wikilink")集訓正式開操。 2019年8月31日作客[大埔運動場](../Page/大埔運動場.md "wikilink")，憑上半場38分鐘[堤亞高·利安高](../Page/堤亞高·利安高.md "wikilink")，下半場57分鐘[基奥雲尼](https://zh.wikipedia.org/wiki/基奥雲尼 "wikilink")、77分鐘[林志堅](https://zh.wikipedia.org/wiki/林志堅 "wikilink")、83分鐘[梁諾恒四個入球](https://zh.wikipedia.org/wiki/梁諾恒 "wikilink")，以四比一擊敗[和富大埔](https://zh.wikipedia.org/wiki/和富大埔 "wikilink")，取得本季首勝。
+6月簽入香港年青前鋒來自[中西區足球隊](../Page/中西區足球隊.md "wikilink")[陳嘉寶](https://zh.wikipedia.org/wiki/陳嘉寶 "wikilink")、[傑志體育會](../Page/傑志體育會.md "wikilink")中場[林柱機](../Page/林柱機.md "wikilink")、[大埔足球會](../Page/大埔足球會.md "wikilink")前鋒[伊高沙托尼](../Page/伊高·沙托尼.md "wikilink")。 7月簽入2名新外援，龍門[謝家榮](https://zh.wikipedia.org/wiki/謝家榮 "wikilink")，後衛[方柏倫及](https://zh.wikipedia.org/wiki/方柏倫 "wikilink")[林衍廷](../Page/林衍廷.md "wikilink")，中場[林樂勤](../Page/林樂勤.md "wikilink")。 7月31日(星期三)下午開記者會。8月6日(星期二)去[葡萄牙](../Page/葡萄牙.md "wikilink")集訓正式開操。 2019年8月31日作客[大埔運動場](../Page/大埔運動場.md "wikilink")，憑上半場38分鐘[堤亞高·利安高](../Page/堤亞高·利安高.md "wikilink")，下半場57分鐘[基奥雲尼](https://zh.wikipedia.org/wiki/基奥雲尼 "wikilink")、77分鐘[林志堅](https://zh.wikipedia.org/wiki/林志堅 "wikilink")、83分鐘[梁諾恒四個入球](https://zh.wikipedia.org/wiki/梁諾恒 "wikilink")，以四比一擊敗[和富大埔](https://zh.wikipedia.org/wiki/和富大埔 "wikilink")，取得本季首勝。10月19日狂勝元朗八比零。
 
 ## 人員名單
 
@@ -147,7 +147,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 </tr>
 <tr class="odd">
 <td><p>94</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p><a href="../Page/謝家榮_(足球運動員).md" title="wikilink">謝家榮</a>（Tse Ka Wing）</p></td>
 <td><p>1999年9月4日</p></td>
 <td><p>2019年</p></td>
@@ -156,8 +156,18 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>新加盟</p></td>
 </tr>
 <tr class="even">
+<td><p>97</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃子康" title="wikilink">黃子康</a>（Wong Tsz Hong）</p></td>
+<td><p>2000年7月17日</p></td>
+<td><p>2019年</p></td>
+<td><p><a href="../Page/北區足球會.md" title="wikilink">高力北區</a></p></td>
+<td><p>U-22青年球員</p></td>
+<td><p>新加盟</p></td>
+</tr>
+<tr class="odd">
 <td><p>98</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陳梓榮" title="wikilink">陳梓榮</a>（Chen Zirong）</p></td>
 <td><p>1998年1月30日</p></td>
 <td><p>2018年</p></td>
@@ -165,7 +175,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>中國外援</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><font color="black"><strong>後衛</strong></p></td>
 <td></td>
 <td></td>
@@ -175,9 +185,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p><a href="../Page/勞烈斯.md" title="wikilink">勞烈斯</a>（Lilley Nunez Vasudeva Das）</p></td>
 <td><p>1995年11月22日</p></td>
 <td><p>2017年</p></td>
@@ -185,9 +195,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p><a href="../Page/盧均宜.md" title="wikilink">盧均宜</a>（Lo Kwan Yee）</p></td>
 <td><p>1984年10月9日</p></td>
 <td><p>2018年</p></td>
@@ -195,9 +205,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>14</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p><a href="../Page/方栢倫.md" title="wikilink">方栢倫</a>（Fong Pak Lun）</p></td>
 <td><p>1993年4月14日</p></td>
 <td><p>2019年</p></td>
@@ -205,9 +215,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td><p>新加盟</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>15</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p><a href="../Page/羅拔圖·祖利亞.md" title="wikilink">羅拔圖</a>（Roberto Orlando Affonso Júnior）</p></td>
 <td><p>1983年5月28日</p></td>
 <td><p>2017年</p></td>
@@ -215,9 +225,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Captain_sports.svg" title="fig:Captain_sports.svg">Captain_sports.svg</a> 隊長</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>16</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p><a href="../Page/林衍廷.md" title="wikilink">林衍廷</a>（Lam Hin Ting）</p></td>
 <td><p>1999年12月9日</p></td>
 <td><p>2019年</p></td>
@@ -225,9 +235,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>U-22青年球員</p></td>
 <td><p>新加盟</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>23</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p>（Vladis-Emmerson Illoy-Ayyet）</p></td>
 <td><p>1993年4月14日</p></td>
 <td><p>2019年</p></td>
@@ -235,9 +245,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>外援</p></td>
 <td><p>新加盟</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>24</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p><a href="../Page/梁諾恆.md" title="wikilink">梁諾恆</a>（Leung Nok Hang）</p></td>
 <td><p>1994年11月14日</p></td>
 <td><p>2018年</p></td>
@@ -245,7 +255,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><font color="black"><strong>中場</strong></p></td>
 <td></td>
 <td></td>
@@ -255,9 +265,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p><a href="../Page/白鶴_(足球運動員).md" title="wikilink">白鶴</a>（Bai He）</p></td>
 <td><p>1983年11月19日</p></td>
 <td><p>2018年</p></td>
@@ -265,9 +275,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7</p></td>
-<td><p><strong> </strong></p></td>
+<td><p></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/林志堅_(足球運動員)" title="wikilink">林志堅</a>（Lam Zhi Gin Andreas）</p></td>
 <td><p>1991年6月4日</p></td>
 <td><p>2018年</p></td>
@@ -275,9 +285,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>多重國藉本地球員</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p><a href="../Page/羅港威.md" title="wikilink">羅港威</a>（Lo Kong Wai）</p></td>
 <td><p>1992年6月19日</p></td>
 <td><p>2018年</p></td>
@@ -285,9 +295,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>17</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p>（Adama Guira）</p></td>
 <td><p>1988年4月24日</p></td>
 <td><p>2019年</p></td>
@@ -295,9 +305,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>外援</p></td>
 <td><p>新加盟</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>20</p></td>
-<td><p><strong> </strong></p></td>
+<td><p></p></td>
 <td><p><a href="../Page/林柱機.md" title="wikilink">林柱機</a>（Matthew Thomas "Matt" Lam）</p></td>
 <td><p>1989年9月10日</p></td>
 <td><p>2019年</p></td>
@@ -305,9 +315,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>多重國藉本地球員</p></td>
 <td><p>新加盟</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>27</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p><a href="../Page/林樂勤.md" title="wikilink">林樂勤</a>（Lam Jordan Lok Kan）</p></td>
 <td><p>1999年2月2日</p></td>
 <td><p>2019年</p></td>
@@ -315,9 +325,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>U-22青年球員</p></td>
 <td><p>新加盟</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>30</p></td>
-<td><p><strong> </strong></p></td>
+<td><p></p></td>
 <td><p><a href="../Page/謝家強.md" title="wikilink">謝家強</a>（Sean Tse）</p></td>
 <td><p>1992年5月3日</p></td>
 <td><p>2018年</p></td>
@@ -325,9 +335,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>多重國藉本地球員</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>77</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/麥富城" title="wikilink">麥富城</a>（Mak Fu Shing）</p></td>
 <td><p>2000年11月14日</p></td>
 <td><p>2018年</p></td>
@@ -335,7 +345,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>U-22青年球員</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -345,7 +355,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><font color="black"><strong>前鋒</strong></p></td>
 <td></td>
 <td></td>
@@ -355,9 +365,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>8</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p>（Serges Déblé）</p></td>
 <td><p>1989年10月1日</p></td>
 <td><p>2019年</p></td>
@@ -365,9 +375,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>外援</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p><a href="../Page/堤亞高·利安高.md" title="wikilink">利安高</a>（Tiago de Leonço）</p></td>
 <td><p>1992年11月11日</p></td>
 <td><p>2018年</p></td>
@@ -375,9 +385,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>外援</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>18</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p><a href="../Page/伊高·沙托尼.md" title="wikilink">伊高沙托尼</a>（Igor Torres Sartori）</p></td>
 <td><p>1993年1月8日</p></td>
 <td><p>2019年</p></td>
@@ -385,9 +395,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>外援</p></td>
 <td><p>新加盟</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>22</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p><a href="../Page/基奧雲尼·施華.md" title="wikilink">基奧雲尼</a>（Giovane Alves da Silva）</p></td>
 <td><p>1982年11月25日</p></td>
 <td><p>2017年</p></td>
@@ -395,7 +405,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>32</p></td>
 <td></td>
 <td><p><a href="../Page/袁振昇.md" title="wikilink">袁振昇</a>（Yuen Chun Sing）</p></td>
@@ -405,10 +415,10 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 <td><p>外借回歸</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>99</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳嘉宝（足球運動員）" title="wikilink">陳嘉-{宝}-</a>（Adriel Demian Chan "Ka-Po"）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳嘉宝_(足球運動員)" title="wikilink">陳嘉-{宝}-</a>（Adriel Demian Chan "Ka-Po"）</p></td>
 <td><p>2003年5月22日</p></td>
 <td><p>2019年</p></td>
 <td><p><a href="../Page/中西區足球隊.md" title="wikilink">中西區</a></p></td>
@@ -557,7 +567,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p><a href="https://zh.wikipedia.org/wiki/吳偉安" title="wikilink">吳偉安</a>（Wu Weian）</p></td>
 <td><p>中場</p></td>
 <td><p>1981年9月1日</p></td>
-<td></td>
+<td><p>助教</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -571,7 +581,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p><a href="https://zh.wikipedia.org/wiki/王新輝" title="wikilink">王新輝</a>（Wang Xinhui）</p></td>
 <td><p>中場</p></td>
 <td><p>1993年1月2日</p></td>
-<td></td>
+<td><p>助教</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -615,7 +625,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 
   - [楊正光](../Page/楊正光.md "wikilink")（2018年－）
 
-  - 吳耀星（2018年）
+  - [吳耀星](https://zh.wikipedia.org/wiki/吳耀星 "wikilink")（2018年）
 
   - [馬里科](../Page/馬里科.md "wikilink")（2017年一2018年）
 
@@ -714,7 +724,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 1.  [港超聯　R＆F富力來季外援「註3出2」 - on.cc 東網 20160619](http://m.on.cc/nc/sports/20170619/20170619153319sp.html)
 2.  [Ｒ＆Ｆ富力下季大搞？](http://hk.on.cc/hk/bkn/cnt/sport/20170525/bkn-20170525231328756-0525_00882_001.html)
 3.  [港超聯 富力特權被削 將聘9員港將續參戰 - 蘋果日報體育 20160619](http://hk.apple.nextmedia.com/realtime/sports/20170619/56849812)
-4.  [傑志就R\&F富力非法接觸本會球員作出投訴 (2018-05-31)](http://www.kitchee.com/news.php?id=659) 傑志- 最新消息 2018-05-31
+4.  [傑志就R\&F富力非法接觸本會球員作出投訴 (2018-05-31)](http://www.kitchee.com/news.php?id=659)  傑志- 最新消息 2018-05-31
 5.  [关于球员陈俊乐加盟广州富力足球俱乐部的公告](https://weibo.com/2456231390/GpLzObg0J?ref=home&rid=1_0_8_3074308831379527477_0_1)
 6.  [【港超聯】凱景作客負富力正式降班　港超史上首現雙位入場人數](https://www.hk01.com/即時體育/322944/港超聯-凱景作客負富力正式降班-港超史上首現雙位入場人數)
 7.  [港超聯　和富大埔搞掂富力　首奪聯賽冠軍](https://hk.on.cc/hk/bkn/cnt/sport/20190504/bkn-20190504162426410-0504_00882_001.html)

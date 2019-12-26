@@ -2,6 +2,10 @@
 
 這個協定開啟了REST API的消漲，允許資源使用URL來識別並且定義在資料模型中，藉由簡單的HTTP訊息, 能夠被網路上的客戶端發行及編輯。它和[JDBC以及](https://zh.wikipedia.org/wiki/JDBC "wikilink")[ODBC](../Page/ODBC.md "wikilink")類似，但是OData不侷限在[關聯式資料庫](https://zh.wikipedia.org/wiki/關聯式資料庫 "wikilink")。
 
+## 標準化
+
+在最初由微軟開發後，OData變成OASIS OData技術委員會(TC)的標準協定。
+
 ## 參考
 
 [Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink")

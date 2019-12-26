@@ -69,25 +69,14 @@
 [Category:大曼彻斯特郡登录建筑](https://zh.wikipedia.org/wiki/Category:大曼彻斯特郡登录建筑 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  The River Irwell is the boundary between Manchester and Salford, so one end of this bridge is in Manchester, the other is in Salford.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.

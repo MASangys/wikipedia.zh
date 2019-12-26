@@ -312,11 +312,12 @@ PlotData =
 
 ### 專屬影片
 
-| 年份    | 名稱                  | 播放媒體                                                                                        |
-| ----- | ------------------- | ------------------------------------------------------------------------------------------- |
-| 2015年 | SAF D-day           | [KNK 官方YouTube頻道](https://www.youtube.com/playlist?list=PLMB9vFovNSApLjkP7Ber7HttQnn8b2_zt) |
-| 2016年 | My KNK Television   | [KNK 官方YouTube頻道](https://www.youtube.com/playlist?list=PLMB9vFovNSAocI4WhHQVmjEgIwcELtkul) |
-| 2017年 | My KNK Television 2 | [KNK 官方YouTube頻道](https://www.youtube.com/playlist?list=PLMB9vFovNSApIiAP9PVeNVQlIyLSYSVFV) |
+| 年份    | 名稱                  | 播放媒體                                                                                               |
+| ----- | ------------------- | -------------------------------------------------------------------------------------------------- |
+| 2015年 | SAF D-day           | [KNK 官方YouTube頻道](https://www.youtube.com/playlist?list=PLMB9vFovNSApLjkP7Ber7HttQnn8b2_zt)        |
+| 2016年 | My KNK Television   | [KNK 官方YouTube頻道](https://www.youtube.com/playlist?list=PLMB9vFovNSAocI4WhHQVmjEgIwcELtkul)        |
+| 2017年 | My KNK Television 2 | [KNK 官方YouTube頻道](https://www.youtube.com/playlist?list=PLMB9vFovNSApIiAP9PVeNVQlIyLSYSVFV)        |
+| 2019年 | 웬만해선 크나큰을 막을수없다     | [KNK 官方YouTube頻道](https://www.youtube.com/playlist?list=PLMB9vFovNSApIiAP9PVeNVQlIyLSYSVFV) 、Vlive |
 
 ### My KNK Television
 
@@ -544,7 +545,10 @@ PlotData =
 | 7月25日       |
 | 7月29日       |
 | 8月11日       |
-|             |
+| 10月16日      |
+| 10月23日      |
+| 11月17日      |
+| 12月24日      |
 
 ### 廣播電台
 
@@ -588,7 +592,7 @@ PlotData =
 | 7月22日       |
 | 7月29日       |
 | 8月1日        |
-|             |
+| 10月20日      |
 
 ## 音樂現場
 
@@ -1430,7 +1434,7 @@ PlotData =
 
 [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink")
 
-1.  [YNB Ent. 新男團 KNK 3月出道](http://kpopn.com/2016/02/22/341711/)
+1.
 2.  [KNK 與現東家 YNB Entertainment 合意解約　主唱成員決定退團！](https://www.koreastardaily.com/tc/news/109170)
 3.  [官咖公告，KNK更改官方應援色](https://facebook.com/story.php?story_fbid=1962488243810834&id=1057182531008081)
 4.

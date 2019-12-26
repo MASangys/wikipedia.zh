@@ -137,44 +137,24 @@ LineageOS正在开发一个名为“FlipFlap”的專屬功能，並为翻蓋提
 [Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink") [Category:自由移动软件](https://zh.wikipedia.org/wiki/Category:自由移动软件 "wikilink") [Category:嵌入式Linux發行版](https://zh.wikipedia.org/wiki/Category:嵌入式Linux發行版 "wikilink") [Category:软件复刻](https://zh.wikipedia.org/wiki/Category:软件复刻 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12. <http://www.androidpolice.com/2016/11/28/cyanogen-inc-will-shutter-seattle-office-by-end-of-year-more-layoffs-happening-kondik-could-be-out> : *Kondik was removed from the company's board, allegedly*
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.

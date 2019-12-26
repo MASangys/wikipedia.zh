@@ -38,7 +38,7 @@
 
 ## 外部链接
 
-  - [NBA.com教练档案](http://www.nba.com/coachfile/jb_bickerstaff/index.html)
+  - [NBA.com教练档案](https://web.archive.org/web/20160329042849/http://www.nba.com/coachfile/jb_bickerstaff/index.html)
 
 [Category:1979年出生](https://zh.wikipedia.org/wiki/Category:1979年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:美国篮球教练](https://zh.wikipedia.org/wiki/Category:美国篮球教练 "wikilink") [Category:休斯敦火箭队教练](https://zh.wikipedia.org/wiki/Category:休斯敦火箭队教练 "wikilink") [Category:孟菲斯灰熊队教练](https://zh.wikipedia.org/wiki/Category:孟菲斯灰熊队教练 "wikilink")
 

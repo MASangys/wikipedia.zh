@@ -12,7 +12,7 @@
   - Illusion － Kio的好友，愛好學習的認真女孩，黑髮。
   - 多明妮 － Kio的好友，愛講八卦，有點花痴，米色頭髮。
 
-此外像[中國大陸漫畫家](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[孫渣](https://zh.wikipedia.org/wiki/孫渣 "wikilink")、知名遊戲實況主[渗透之C君](https://zh.wikipedia.org/wiki/渗透之C君 "wikilink")（C菌）、游戏网站[机核网的主播编辑等在内的多位网络红人都在遊戲的隱藏房間中客串一角](https://zh.wikipedia.org/wiki/机核网 "wikilink")。\[4\]主要的兩位製作人史悲、Light也在其中，以簡單化的卡通人物形象出現。遊戲中的一些怪物（如肉蟲和[殭屍](../Page/殭屍.md "wikilink")）則是延續了漫畫家史悲先前的漫畫作品《世界太混乱》中的設定。最終boss為漂浮在空中的笑臉小白人，後期會轉變成黑臉，實力增強，眼睛會發出-{zh-cn:[激光](../Page/激光.md "wikilink");zh-tw:[雷射光](https://zh.wikipedia.org/wiki/雷射光 "wikilink")}-。
+此外像[中國大陸漫畫家](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[孫渣](https://zh.wikipedia.org/wiki/孫渣 "wikilink")、知名遊戲實況主[渗透之C君](https://zh.wikipedia.org/wiki/渗透之C君 "wikilink")（C菌）、游戏网站[机核网的主播编辑等在内的多位网络红人都在遊戲的隱藏房間中客串一角](https://zh.wikipedia.org/wiki/机核网 "wikilink")。\[4\]主要的兩位製作人史悲、Light也在其中，以簡單化的卡通人物形象出現。遊戲中的一些怪物（如肉蟲和[殭屍](../Page/殭屍.md "wikilink")）則是延續了漫畫家史悲先前的漫畫作品《世界太混乱》中的設定。最終boss為漂浮在空中的笑臉小白人，後期會轉變成黑臉，實力增強，會發出-{zh-cn:[激光](../Page/激光.md "wikilink");zh-tw:[雷射光](https://zh.wikipedia.org/wiki/雷射光 "wikilink")}-。
 
 ## 評價
 

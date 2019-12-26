@@ -191,7 +191,7 @@
 <small>（471）</small></p></td>
 <td><p>2月19日<br />
 <small>（2月7日）</p></td>
-<td><p>、、<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/金勇萬" title="wikilink">金勇萬</a>、、<br />
 <a href="../Page/李天熙.md" title="wikilink">李天熙</a>、<a href="../Page/許卿煥.md" title="wikilink">許卿煥</a>、<br />
 </p></td>
 <td><p>HALAGO餐廳<br />

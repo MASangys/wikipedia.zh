@@ -155,136 +155,138 @@
   - 漫画和本作中化名为广田雅美的宫野明美都是在港口的集装箱码头处被琴酒杀害的，当时兰也在场；而动画原版对此情节进行了改动，对应漫画原剧情的第13集中，明美在码头遇到的杀手从琴酒改动成了其他龙套角色，且明美并未被杀害，然而动画原创的第128集中，明美最终还是被琴酒杀害于仓库之内。
   - 本作部分角色配音与动画第1集不同，例如小五郎在第1集时由[神谷明](../Page/神谷明.md "wikilink")配音，本作配音则是[小山力也](../Page/小山力也.md "wikilink")。参见[\#与动画第1集配音的不同](https://zh.wikipedia.org/wiki/#与动画第1集配音的不同 "wikilink")。
 
-## 登场人物
+## 登场角色
 
 ### 主要角色
 
 <table>
+<thead>
+<tr class="header">
+<th><p>角色</p></th>
+<th><p>配音</p></th>
+<th><p>簡介</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td><p>角色名稱</p></td>
-<td><p>配音</p></td>
-<td><p>簡介</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>日本</p></td>
-<td><p>臺灣</p></td>
-<td><p>香港</p></td>
-</tr>
-<tr class="odd">
-<td></td>
+<td><p><a href="../Page/江户川柯南.md" title="wikilink">工藤新一</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山口胜平" title="wikilink">山口胜平</a></p></td>
 <td><p><a href="../Page/劉傑_(臺灣).md" title="wikilink">劉傑</a></p></td>
 </tr>
-<tr class="even">
-<td></td>
+<tr class="odd">
+<td><p><a href="../Page/江户川柯南.md" title="wikilink">江户川柯南</a></p></td>
 <td><p><a href="../Page/高山南.md" title="wikilink">高山南</a></p></td>
 <td><p><a href="../Page/蔣篤慧.md" title="wikilink">蔣篤慧</a></p></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p><a href="../Page/毛利兰.md" title="wikilink">毛利兰</a></p></td>
 <td><p><a href="../Page/山崎和佳奈.md" title="wikilink">山崎和佳奈</a></p></td>
 <td><p><a href="../Page/魏晶琦.md" title="wikilink">魏晶琦</a></p></td>
 </tr>
-<tr class="even">
-<td></td>
+<tr class="odd">
+<td><p><a href="../Page/阿笠博士.md" title="wikilink">阿笠博士</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/绪方贤一" title="wikilink">绪方贤一</a></p></td>
 <td><p><a href="../Page/吳文民.md" title="wikilink">吳文民</a></p></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p><a href="../Page/毛利小五郎.md" title="wikilink">毛利小五郎</a></p></td>
 <td><p><a href="../Page/小山力也.md" title="wikilink">小山力也</a></p></td>
 <td><p><a href="../Page/曹冀魯.md" title="wikilink">曹冀魯</a></p></td>
 </tr>
-<tr class="even">
-<td></td>
+<tr class="odd">
+<td><p><a href="../Page/妃英理.md" title="wikilink">妃英理</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/高岛雅罗" title="wikilink">高岛雅罗</a></p></td>
 <td><p><a href="../Page/傅其慧.md" title="wikilink">傅其慧</a></p></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p><a href="../Page/工藤优作.md" title="wikilink">工藤优作</a></p></td>
 <td><p><a href="../Page/田中秀幸.md" title="wikilink">田中秀幸</a></p></td>
 <td><p><a href="../Page/吳文民.md" title="wikilink">吳文民</a></p></td>
 </tr>
-<tr class="even">
-<td></td>
+<tr class="odd">
+<td><p><a href="../Page/工藤有希子.md" title="wikilink">工藤有希子</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/岛本须美" title="wikilink">岛本须美</a></p></td>
 <td><p><a href="../Page/傅其慧.md" title="wikilink">傅其慧</a></p></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/铃木园子" title="wikilink">铃木园子</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/松井菜樱子" title="wikilink">松井菜樱子</a></p></td>
 <td><p><a href="../Page/傅其慧.md" title="wikilink">傅其慧</a></p></td>
 </tr>
-<tr class="even">
-<td></td>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/名偵探柯南角色列表#主要人物的親人" title="wikilink">铃木次郎吉</a></p></td>
 <td><p><a href="../Page/富田耕生.md" title="wikilink">富田耕生</a></p></td>
 <td><p><a href="../Page/吳文民.md" title="wikilink">吳文民</a></p></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/名偵探柯南角色列表#主要人物的親人" title="wikilink">铃木史郎</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/松冈文雄" title="wikilink">松冈文雄</a></p></td>
 <td><p><a href="../Page/吳文民.md" title="wikilink">吳文民</a></p></td>
 </tr>
-<tr class="even">
-<td></td>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/名偵探柯南角色列表#主要人物的親人" title="wikilink">铃木朋子</a></p></td>
 <td></td>
 <td><p><a href="../Page/蔣篤慧.md" title="wikilink">蔣篤慧</a></p></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/少年偵探團" title="wikilink">吉田步美</a></p></td>
 <td><p><a href="../Page/岩居由希子.md" title="wikilink">岩居由希子</a></p></td>
 <td><p><a href="../Page/傅其慧.md" title="wikilink">傅其慧</a></p></td>
 </tr>
-<tr class="even">
-<td></td>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/少年偵探團" title="wikilink">圆谷光彦</a></p></td>
 <td><p><a href="../Page/大谷育江.md" title="wikilink">大谷育江</a></p></td>
 <td><p><a href="../Page/魏晶琦.md" title="wikilink">魏晶琦</a></p></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/少年偵探團" title="wikilink">小岛元太</a></p></td>
 <td><p><a href="../Page/高木涉.md" title="wikilink">高木涉</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/劉傑" title="wikilink">劉傑</a></p></td>
 </tr>
-<tr class="even">
-<td></td>
+<tr class="odd">
+<td><p><a href="../Page/目暮十三.md" title="wikilink">目暮十三</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/茶风林" title="wikilink">茶风林</a></p></td>
 <td><p><a href="../Page/吳文民.md" title="wikilink">吳文民</a></p></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p><a href="../Page/高木涉_(名偵探柯南).md" title="wikilink">高木涉</a></p></td>
 <td><p><a href="../Page/高木涉.md" title="wikilink">高木涉</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/劉傑" title="wikilink">劉傑</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/名偵探柯南角色列表#搜查一課" title="wikilink">千叶和伸</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/千叶一伸" title="wikilink">千叶一伸</a></p></td>
 <td><p><a href="../Page/曹冀魯.md" title="wikilink">曹冀魯</a></p></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td><p><a href="../Page/小松未可子.md" title="wikilink">小松未可子</a></p></td>
-<td><p><a href="../Page/蔣篤慧.md" title="wikilink">蔣篤慧</a></p></td>
-</tr>
 <tr class="even">
-<td></td>
+<td><p><a href="../Page/赤井秀一.md" title="wikilink">赤井秀一</a></p></td>
 <td><p><a href="../Page/池田秀一.md" title="wikilink">池田秀一</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/劉傑" title="wikilink">劉傑</a></p></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/名偵探柯南角色列表#FBI（美國聯邦調查局）" title="wikilink">朱蒂·斯塔琳</a></p></td>
 <td><p><a href="../Page/一城美由希.md" title="wikilink">一城美由希</a></p></td>
 <td><p><a href="../Page/蔣篤慧.md" title="wikilink">蔣篤慧</a></p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/名偵探柯南角色列表#主要人物的關係者" title="wikilink">京极真</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/桧山修之" title="wikilink">桧山修之</a></p></td>
 <td><p><a href="../Page/曹冀魯.md" title="wikilink">曹冀魯</a></p></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="../Page/本堂瑛海.md" title="wikilink">水无怜奈</a></p></td>
 <td><p><a href="../Page/三石琴乃.md" title="wikilink">三石琴乃</a></p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>和田阳奈</p></td>
+<td><p><a href="../Page/小松未可子.md" title="wikilink">小松未可子</a></p></td>
+<td><p><a href="../Page/蔣篤慧.md" title="wikilink">蔣篤慧</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -292,55 +294,57 @@
 #### 黑暗组织
 
 <table>
+<thead>
+<tr class="header">
+<th><p>角色</p></th>
+<th><p>配音</p></th>
+<th><p>簡介</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td><p>角色名稱</p></td>
-<td><p>配音</p></td>
-<td><p>簡介</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>日本</p></td>
-<td><p>臺灣</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
+<td><p><a href="../Page/灰原哀.md" title="wikilink">雪莉／宫野志保</a></p></td>
 <td><p><a href="../Page/林原惠.md" title="wikilink">林原惠</a></p></td>
 <td><p><a href="../Page/魏晶琦.md" title="wikilink">魏晶琦</a></p></td>
 </tr>
-<tr class="even">
-<td></td>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/黑暗组织#已故" title="wikilink">宫野明美</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/玉川砂记子" title="wikilink">玉川砂记子</a></p></td>
 <td><p><a href="../Page/傅其慧.md" title="wikilink">傅其慧</a></p></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/黑暗组织#高級幹部" title="wikilink">琴酒</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/堀之纪" title="wikilink">堀之纪</a></p></td>
 <td><p><a href="../Page/曹冀魯.md" title="wikilink">曹冀魯</a></p></td>
 </tr>
-<tr class="even">
-<td></td>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/黑暗组织#高級幹部" title="wikilink">伏特加</a></p></td>
 <td><p><a href="../Page/立木文彦.md" title="wikilink">立木文彦</a></p></td>
 <td><p><a href="../Page/吳文民.md" title="wikilink">吳文民</a></p></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/黑暗组织#高級幹部" title="wikilink">贝尔摩德</a></p></td>
 <td><p><a href="../Page/小山茉美.md" title="wikilink">小山茉美</a></p></td>
 <td><p><a href="../Page/傅其慧.md" title="wikilink">傅其慧</a></p></td>
 </tr>
-<tr class="even">
-<td></td>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/黑暗组织#幹部" title="wikilink">基安蒂</a></p></td>
 <td><p><a href="../Page/井上喜久子.md" title="wikilink">井上喜久子</a></p></td>
 <td><p><a href="../Page/傅其慧.md" title="wikilink">傅其慧</a></p></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黑暗组织#幹部" title="wikilink">柯恩</a></p></td>
+<td><p>colspan="2" rowspan="2" </p></td>
+<td><p>组织成员，狙击手，与基安蒂一起行动。本作中似乎想乘坐热带乐园的摩天轮。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/安室透.md" title="wikilink">波本／安室透</a></p></td>
+<td><p>組織成员，本作中出现于琴酒台词，情报收集能力高超。真实身份是对组织进行调查的<a href="../Page/公安警察.md" title="wikilink">公安警察</a>，本名降谷零。</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -349,39 +353,41 @@
 ### 於结尾曲中出现的角色
 
 <table>
+<thead>
+<tr class="header">
+<th><p>角色</p></th>
+<th><p>配音</p></th>
+<th><p>簡介</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td><p>角色名稱</p></td>
-<td><p>配音</p></td>
-<td><p>簡介</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>日本</p></td>
-<td><p>臺灣</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/名偵探柯南角色列表#主要人物的關係者" title="wikilink">冲野洋子</a></p></td>
+<td><p>colspan="2" rowspan="3" </p></td>
+<td><p>偶像歌手兼演员，毛利小五郎是其忠实粉丝。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/名偵探柯南角色列表#單一故事重要人物" title="wikilink">淺井成實</a></p></td>
+<td><p>已故，鋼琴奏鳴曲「月光」殺人事件的兇手。是柯南第一個也是唯一一個眼睜睜看著他、無法阻止他自殺的嫌犯，他的死使柯南感到痛苦甚至自責；他的自殺導致柯南改變了辦案時推理的風格：揭穿犯人的同時不把犯人逼上絕路，而是留給犯人一條後路去自首，以避免再次出現自殺的悲劇。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/名偵探柯南角色列表#县警和府警" title="wikilink">横沟参悟</a></p></td>
+<td><p>警部。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
+<td><p><a href="../Page/服部平次.md" title="wikilink">服部平次</a></p></td>
 <td><p><a href="../Page/堀川亮.md" title="wikilink">堀川亮</a></p></td>
 <td><p><a href="../Page/曹冀魯.md" title="wikilink">曹冀魯</a></p></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p><a href="../Page/怪盗基德.md" title="wikilink">怪盗基德</a></p></td>
 <td><p>山口胜平</p></td>
 <td><p><a href="../Page/曹冀魯.md" title="wikilink">曹冀魯</a></p></td>
 </tr>
@@ -391,69 +397,71 @@
 ### 曾於第一話出現的角色
 
 <table>
+<thead>
+<tr class="header">
+<th><p>角色</p></th>
+<th><p>配音</p></th>
+<th><p>簡介</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td><p>角色名稱</p></td>
-<td><p>配音</p></td>
-<td><p>簡介</p></td>
-</tr>
-<tr class="even">
-<td><p>日本</p></td>
-<td><p>臺灣</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="../Page/秋元羊介.md" title="wikilink">秋元羊介</a></p></td>
 <td><p><a href="../Page/陳幼文.md" title="wikilink">陳幼文</a></p></td>
 </tr>
-<tr class="even">
-<td></td>
+<tr class="odd">
+<td><p>濑羽夫人</p></td>
 <td></td>
 <td><p><a href="../Page/蔣篤慧.md" title="wikilink">蔣篤慧</a></p></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p>儿子</p></td>
 <td></td>
 <td><p><a href="../Page/曹冀魯.md" title="wikilink">曹冀魯</a></p></td>
 </tr>
-<tr class="even">
-<td></td>
+<tr class="odd">
+<td><p>女佣</p></td>
 <td><p><a href="../Page/白石涼子.md" title="wikilink">白石涼子</a></p></td>
 <td><p><a href="../Page/傅其慧.md" title="wikilink">傅其慧</a></p></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
+<td></td>
+<td><p>colspan="2" </p></td>
+<td><p>米花银行行长，濑羽尊德的朋友，动画第1集开场时事件的受害人。</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/天野由梨.md" title="wikilink">天野由梨</a></p></td>
 <td><p><a href="../Page/蔣篤慧.md" title="wikilink">蔣篤慧</a></p></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p>礼子</p></td>
 <td><p><a href="../Page/河原木志穗.md" title="wikilink">河原木志穗</a></p></td>
 <td><p><a href="../Page/傅其慧.md" title="wikilink">傅其慧</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/石川英郎.md" title="wikilink">石川英郎</a></p></td>
 <td><p><a href="../Page/陳幼文.md" title="wikilink">陳幼文</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="../Page/百百麻子.md" title="wikilink">百百麻子</a></p></td>
 <td><p><a href="../Page/傅其慧.md" title="wikilink">傅其慧</a></p></td>
 </tr>
-<tr class="even">
-<td></td>
+<tr class="odd">
+<td><p>社长</p></td>
 <td></td>
 <td><p><a href="../Page/陳幼文.md" title="wikilink">陳幼文</a></p></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p>警官</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -463,19 +471,21 @@
 ### 本作原創角色
 
 <table>
+<thead>
+<tr class="header">
+<th><p>角色</p></th>
+<th><p>配音</p></th>
+<th><p>簡介</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td><p>角色名稱</p></td>
-<td><p>配音</p></td>
-<td><p>簡介</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>日本</p></td>
-<td><p>臺灣</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
+<td><p>酒吧男</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/安井邦彦" title="wikilink">安井邦彦</a></p></td>
 <td><p><a href="../Page/陳幼文.md" title="wikilink">陳幼文</a></p></td>
 </tr>
@@ -484,10 +494,62 @@
 
 ### 与动画第1集配音的不同
 
-  -
-    {|class="sortable wikitable" border="1"
-
-|+ **与动画第1集配音的不同** \! 角色 \!\! 动画第1集 \!\! 本作 |- |[毛利小五郎](../Page/毛利小五郎.md "wikilink")||神谷明||小山力也 |- |濑羽尊德||[渡部猛](../Page/渡部猛.md "wikilink")||秋元羊介 |- |仁美||[引田有美](../Page/引田有美.md "wikilink")||天野由梨 |- |礼子||[永泽菜教](https://zh.wikipedia.org/wiki/永泽菜教 "wikilink")||河原木志穗 |- |岸田||千叶一伸||石川英郎 |- |爱子||[丸田麻里](../Page/丸田麻里.md "wikilink")||百百麻子 |- |社长||[辻亲八](https://zh.wikipedia.org/wiki/辻亲八 "wikilink")||浦山迅 |- |社长||千叶一伸||伊東健人 |}
+<table>
+<thead>
+<tr class="header">
+<th><p>角色</p></th>
+<th><p>动画第1集</p></th>
+<th><p>本作</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/毛利小五郎.md" title="wikilink">毛利小五郎</a></p></td>
+<td><p>神谷明</p></td>
+<td><p><a href="../Page/官志宏.md" title="wikilink">官志宏</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>濑羽尊德</p></td>
+<td><p><a href="../Page/渡部猛.md" title="wikilink">渡部猛</a></p></td>
+<td><p>官志宏</p></td>
+</tr>
+<tr class="even">
+<td><p>仁美</p></td>
+<td><p><a href="../Page/引田有美.md" title="wikilink">引田有美</a></p></td>
+<td><p><a href="../Page/呂佩玉.md" title="wikilink">呂佩玉</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>礼子</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/永泽菜教" title="wikilink">永泽菜教</a></p></td>
+<td><p><a href="../Page/許淑嬪.md" title="wikilink">許淑嬪</a></p></td>
+</tr>
+<tr class="even">
+<td><p>岸田</p></td>
+<td><p>千叶一伸</p></td>
+<td><p>官志宏</p></td>
+</tr>
+<tr class="odd">
+<td><p>爱子</p></td>
+<td><p><a href="../Page/丸田麻里.md" title="wikilink">丸田麻里</a></p></td>
+<td><p><a href="../Page/馮友薇.md" title="wikilink">馮友薇</a></p></td>
+</tr>
+<tr class="even">
+<td><p>社长</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/辻亲八" title="wikilink">辻亲八</a></p></td>
+<td><p>劉傑</p></td>
+</tr>
+<tr class="odd">
+<td><p>警官</p></td>
+<td><p>千叶一伸</p></td>
+<td><p>符爽</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 音乐
 
@@ -628,65 +690,34 @@
 
 1.
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.

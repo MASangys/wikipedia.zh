@@ -50,6 +50,7 @@
   - [机动战士高达 ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")
   - [模型战士高达模型大师 BEGINNING G](../Page/模型戰士GUNDAM模型製作家_起始G.md "wikilink")
   - [机动战士高达 UC RE:0096](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_UC#電視動畫 "wikilink")
+  - [GUNDAM Reconguista in G](../Page/GUNDAM_G之复国运动.md "wikilink")
 
 **剧场版动画**
 
@@ -75,8 +76,9 @@
 
 **电子游戏**
 
+  - 高达无双
   - 机动战士高达 CROSS DIMENSION 0079
-  - 机动战士高达外传 THE BLUE DESTINY
+  - [机动战士高达外传 THE BLUE DESTINY](https://zh.wikipedia.org/wiki/机动战士GUNDAM外传_THE_BLUE_DESTINY "wikilink")
   - [机动战士高达外传 殖民地堕落之地…](../Page/機動戰士GUNDAM外傳_殖民地墮落之地.md "wikilink")
   - [机动战士高达战记 Lost War Chronicles](../Page/機動戰士GUNDAM戰記_Lost_War_Chronicles.md "wikilink")
   - 机动战士高达 相逢在宇宙
@@ -84,7 +86,7 @@
   - Zeonic Front 机动战士高达0079
   - [机动战士高达外传 MISSING LINK](https://zh.wikipedia.org/wiki/机动战士GUNDAM_SIDE_STORIES#MISSING_LINK "wikilink")
   - \-{Harmony of Gundam}-
-  - 机动战士高达战记
+  - [机动战士高达战记](../Page/机动战士GUNDAM战记.md "wikilink")
   - GUNDAM TACTICS MOBILITY FLEET0079
   - 机动战士高达 战场之绊
 
@@ -362,14 +364,9 @@
 [Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:GUNDAM系列電子遊戲](https://zh.wikipedia.org/wiki/Category:GUNDAM系列電子遊戲 "wikilink") [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:大型多人線上第三人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:大型多人線上第三人稱射擊遊戲 "wikilink") [Category:电子竞技游戏](https://zh.wikipedia.org/wiki/Category:电子竞技游戏 "wikilink") [Category:萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/Category:萬代南夢宮遊戲 "wikilink") [Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.

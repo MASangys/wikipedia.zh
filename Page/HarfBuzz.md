@@ -18,16 +18,11 @@ HarfBuzz最初是由FreeType计划最初的一部分代码发展而来，随后�
 [Category:數碼字體排印](https://zh.wikipedia.org/wiki/Category:數碼字體排印 "wikilink") [Category:自由發展元件與函式庫](https://zh.wikipedia.org/wiki/Category:自由發展元件與函式庫 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink")
 
 1.
-
 2.  <http://www.freedesktop.org/wiki/HarfBuzz/>
-
 3.
 4.
-
 5.
 6.
-
 7.
 8.
-
 9.

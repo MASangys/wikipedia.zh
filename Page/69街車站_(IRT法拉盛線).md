@@ -54,8 +54,6 @@
 [Category:IRT法拉盛線車站](https://zh.wikipedia.org/wiki/Category:IRT法拉盛線車站 "wikilink") [Category:皇后區紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:皇后區紐約地鐵車站 "wikilink") [Category:1917年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路車站 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

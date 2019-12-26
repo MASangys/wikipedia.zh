@@ -110,7 +110,6 @@ Park YOHO Club GARDA Pool 2017.jpg|50米長室外泳池 Park YOHO Club GARDA Ind
 ## 毗鄰
 
   - [錦田河](../Page/錦田河.md "wikilink")
-  - 架空電纜
   - [南生圍](../Page/南生圍.md "wikilink")
   - [沙埔村](https://zh.wikipedia.org/wiki/沙埔村 "wikilink")
   - [長春新村](https://zh.wikipedia.org/wiki/長春新村 "wikilink")

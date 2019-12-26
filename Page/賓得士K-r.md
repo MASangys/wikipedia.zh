@@ -24,12 +24,8 @@ K-x 的HDR拍攝可一次拍攝不同曝光程度的照片後合併成單張高�
 [Category:宾得数码单镜反光相机](https://zh.wikipedia.org/wiki/Category:宾得数码单镜反光相机 "wikilink") [Category:2010年面世的相機](https://zh.wikipedia.org/wiki/Category:2010年面世的相機 "wikilink")
 
 1.  [PENTAX K-r – Overview](http://www.ricoh-imaging.co.uk/en/digital-slr/pentax-kr.html)
-
 2.  [K-r｜デジタル一眼レフカメラ | RICOH IMAGING](http://www.ricoh-imaging.co.jp/japan/products/k-r/feature.html)
-
 3.
-
 4.  [Pentax K-r Review: Full Review - Image Quality](http://www.imaging-resource.com/PRODS/KR/KRIMAGING.HTM)
-
 5.
 6.  [Steve’s Digicams Pentax K-r dSLR Review](http://www.steves-digicams.com/camera-reviews/pentax/k-r-slr/steves-conclusion-123.html)

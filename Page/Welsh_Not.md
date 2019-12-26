@@ -1,4 +1,4 @@
-禁說威爾斯語（**Welsh Not、Welsh Note、NOT或** **Welsh stick**）是十九世紀末至二十世紀初，在[威爾斯](../Page/威爾斯.md "wikilink")的某些學校所施行的一種處罰方式，目的是為了防止學童說[威爾斯語](https://zh.wikipedia.org/wiki/威爾斯語 "wikilink")。
+**禁說威爾斯語**（**Welsh Not、Welsh Note、NOT或** **Welsh stick**）是十九世紀末至二十世紀初，在[威爾斯](../Page/威爾斯.md "wikilink")的某些學校所施行的一種處罰方式，目的是為了防止學童說[威爾斯語](https://zh.wikipedia.org/wiki/威爾斯語 "wikilink")。
 
 <div>
 
@@ -10,9 +10,16 @@
 
 19世紀末期，英國已經開始實施義務教育，而實行禁說威爾斯語的學校乃屬少數。自開始施行後，威爾斯地區的小學以威爾斯語授課成為常態\[4\]。此外，也沒有證據顯示，以英語授課的中學有使用禁說威爾斯語規定。
 
+## 相關條目
+
+  - [方言札](../Page/方言札.md "wikilink") 、[皇民化政策](https://zh.wikipedia.org/wiki/皇民化政策 "wikilink")、[理蕃政策](../Page/理蕃政策.md "wikilink")- [日本](../Page/日本.md "wikilink")
+  - [语言帝国主义](../Page/语言帝国主义.md "wikilink")
+  - [國語運動](../Page/國語運動.md "wikilink")
+  - [推廣普通話](https://zh.wikipedia.org/wiki/推廣普通話 "wikilink")
+
 ## 參考文獻
 
-[Category:威爾斯歷史](https://zh.wikipedia.org/wiki/Category:威爾斯歷史 "wikilink") [Category:語言歧視](https://zh.wikipedia.org/wiki/Category:語言歧視 "wikilink") [Category:語言權利](https://zh.wikipedia.org/wiki/Category:語言權利 "wikilink")
+[Category:威爾斯歷史](https://zh.wikipedia.org/wiki/Category:威爾斯歷史 "wikilink") [Category:語言歧視](https://zh.wikipedia.org/wiki/Category:語言歧視 "wikilink") [Category:文化地理学](https://zh.wikipedia.org/wiki/Category:文化地理学 "wikilink") [Category:社会语言学](https://zh.wikipedia.org/wiki/Category:社会语言学 "wikilink") [Category:语言权利](https://zh.wikipedia.org/wiki/Category:语言权利 "wikilink") [Category:文化同化](https://zh.wikipedia.org/wiki/Category:文化同化 "wikilink")
 
 1.  <http://www.bbc.co.uk/wales/history/sites/themes/society/language_education.shtml>
 2.  The Welsh Academy Encyclopedia of Wales

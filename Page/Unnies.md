@@ -476,29 +476,17 @@
 [Category:Unnies](https://zh.wikipedia.org/wiki/Category:Unnies "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
 
 1.  <http://entertain.naver.com/read?oid=108&aid=0002578110&gid=999339&cid=1052188>
-
 2.  <https://www.youtube.com/watch?v=Y9-xskvjzQE&feature=youtu.be>
-
 3.  <http://www.allthatstar.com/tw/view.php?action=5205&postID=332252>
-
 4.
 5.  [Unnies 官方 V Live 專頁](http://channels.vlive.tv/E37377)
-
 6.  第一代時聲音最大聲的歌手，但節奏感其實很差。
-
 7.  第11集，以音色和強藝元長遠健康為由，與金淑調換位置，但強藝元依然是高音即興部分副唱擔當。
-
 8.  由金真京委任。雖然洪真慶在舞蹈評比排第六（第一季更是在最後一名），但她的“魷魚舞”反而成為第一主打曲的重點舞蹈，也讓她在該曲站在中心位置。
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15. <http://m.entertain.naver.com/read?oid=108&aid=0002600245>

@@ -1,4 +1,4 @@
-《**守護者K2**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2016年9月23日起播出的[創社10周年特別企劃連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，由《[鄰家英雄](../Page/鄰家英雄.md "wikilink")》[郭正煥導演指導和](https://zh.wikipedia.org/wiki/郭正煥 "wikilink")《[龍八夷](https://zh.wikipedia.org/wiki/龍八夷 "wikilink")》編劇[張赫麟共同製作的作品](https://zh.wikipedia.org/wiki/張赫麟 "wikilink")。講述一位無比熱愛國家與同事卻慘遭陷害的特種部隊成員金濟夏（[池昌旭](../Page/池昌旭.md "wikilink") 飾），被準第一夫人相中挖角，聘用為其的御用保鏢，代號「K2」。故事圍繞著他與總-{}-統候選人私生女高安娜（[林潤娥](https://zh.wikipedia.org/wiki/林潤娥 "wikilink") 飾）的戀情，以及刻畫崔宥真（[宋玧妸](../Page/宋玧妸.md "wikilink") 飾）隱藏的野心和政治與家族鬥爭。
+《**守護者K2**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2016年9月23日起播出的[創社10周年特別企劃連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，由《[鄰家英雄](../Page/鄰家英雄.md "wikilink")》[郭正煥導演指導和](https://zh.wikipedia.org/wiki/郭正煥 "wikilink")《[龍八夷](https://zh.wikipedia.org/wiki/龍八夷 "wikilink")》編劇[張赫麟共同製作的作品](https://zh.wikipedia.org/wiki/張赫麟 "wikilink")。講述一位無比熱愛國家與同事卻慘遭陷害的特種部隊隊員金濟夏（[池昌旭](../Page/池昌旭.md "wikilink") 飾），被準第一夫人相中挖角，聘用為其的御用保鏢，代號「K2」。故事圍繞著他與總-{}-統候選人張世俊議員的私生女高安娜（[林潤娥](https://zh.wikipedia.org/wiki/林潤娥 "wikilink") 飾）的戀情，以及刻畫崔宥真（[宋玧妸](../Page/宋玧妸.md "wikilink") 飾）隱藏的野心和政治與家族鬥爭。
 
 ## 演員陣容
 
@@ -24,7 +24,7 @@
 <td><p><a href="../Page/池昌旭.md" title="wikilink">池昌旭</a><br />
 （童年：崔昇勳）</p></td>
 <td><p>金濟夏/金上士</p></td>
-<td><p>PMC僱傭兵出身的JSS警衛員，代號K2，作為僱傭兵組織「黑石」的精英；也是崔宥珍僱用的御用保鏢，患有<a href="https://zh.wikipedia.org/wiki/PTSD" title="wikilink">PTSD而無法開槍殺人</a>，但後期依然能開槍射擊敵人要害。因數次救了崔宥珍，而成為其核心部門「Cloud 9」的成員，後期更被授予只有崔宥珍能使用的人工智慧AI「魔鏡」。負責執行崔宥珍所派遣的政治鬥爭任務，本人之所以聽從崔宥珍的命令則是因為她能幫助他實踐對陷害他的黑石，及殺害他曾所愛的的人的議員朴冠守的復仇計畫，對崔宥珍的行為並非完全認同。由於就近監視安娜的關係，逐漸對她產生了情愫。金濟夏只是崔宥珍幫助他藏身的名字，並非其本名。</p></td>
+<td><p>PMC(國際戰爭代理機構)僱傭兵出身，作為PMC僱傭兵組織「黑石」的精英，當時黑石內部陷害他，迫使他以二等兵含冤退伍；現任JSS警衛員，代號K2，也是崔宥珍僱用的御用保鏢，患有<a href="https://zh.wikipedia.org/wiki/PTSD" title="wikilink">PTSD而無法開槍殺人</a>，但後期依然能開槍射擊敵人要害。因數次救了崔宥珍，而成為其核心部門「Cloud 9」的成員，後期更被授予只有崔宥珍能使用的人工智慧AI「魔鏡」。負責執行崔宥珍所派遣的政治鬥爭任務，本人之所以聽從崔宥珍的命令則是因為她能幫助他實踐對陷害他的黑石，及殺害他曾所愛的的人的議員朴冠守的復仇計畫，對崔宥珍的行為並非完全認同。由於就近監視安娜的關係，逐漸對她產生了情愫。金濟夏只是崔宥珍幫助他藏身的名字，並非其本名。</p></td>
 <td><p><a href="../Page/曹啟謙.md" title="wikilink">曹啟謙</a></p></td>
 <td><p><a href="../Page/李世揚.md" title="wikilink">李世揚</a></p></td>
 </tr>
@@ -53,6 +53,135 @@
 </tbody>
 </table>
 
+### JSS
+
+<table style="width:70%;">
+<colgroup>
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 39%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+<td><p><strong>粵語配音</strong></p></td>
+<td><p><strong>國語配音</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/宋玧妸.md" title="wikilink">宋玧妸</a></p></td>
+<td><p>崔宥珍</p></td>
+<td><p>JB集團的家族長女、JSS保安公司老闆、JSS核心部門Cloud 9的操控者，能使用人工智慧AI「魔鏡」。<br />
+參見<strong><a href="https://zh.wikipedia.org/wiki/#主要人物" title="wikilink">主要人物</a></strong></p></td>
+<td><p><a href="../Page/朱妙蘭.md" title="wikilink">朱妙蘭</a></p></td>
+<td><p><a href="../Page/魏晶琦.md" title="wikilink">魏晶琦</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/申東美.md" title="wikilink">申東美</a></p></td>
+<td><p>金東美</p></td>
+<td><p>崔宥珍的秘書室參謀長、核心部門Cloud 9成員，通稱「金室長」。對崔宥珍極為忠誠，但因認為崔宥珍過度信任及重用金濟夏而忌妒，曾私下派遣JSS VIP組組長射殺金濟夏。</p></td>
+<td><p><a href="../Page/曾秀清.md" title="wikilink">曾秀清</a></p></td>
+<td><p><a href="../Page/陳美貞.md" title="wikilink">陳美貞</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>朱哲浩</p></td>
+<td><p>退役<a href="../Page/上校.md" title="wikilink">上校</a>、JSS室長、核心部門Cloud 9成員。與張世俊友好。對於所有事情都是犧牲小我完成大我的想法，在以前也以同樣想法犧牲了金濟夏。想進入青瓦台，認為有勢力才有資格說話。雖一開始與濟夏表示友好與信任的一面，但其實依然懷疑濟夏是因殺害平民而遭追捕。</p></td>
+<td><p><a href="../Page/張錦江.md" title="wikilink">張錦江</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/高仁範.md" title="wikilink">高仁範</a></p></td>
+<td><p>國采元</p></td>
+<td><p>前<a href="https://zh.wikipedia.org/wiki/韓國警察" title="wikilink">韓國警察</a>、現任JSS代表、核心部門Cloud 9成員。因背叛崔宥珍替崔盛元做內諜，最後在崔宥珍的威脅下開槍自殺。</p></td>
+<td><p><a href="../Page/陳永信.md" title="wikilink">陳永信</a></p></td>
+<td><p><a href="../Page/李世揚.md" title="wikilink">李世揚</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>JSS醫務室長，因須急救受了槍傷的金濟夏，而成為核心部門cloud9成員。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曾佩儀" title="wikilink">曾佩儀</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>徐组长</p></td>
+<td><p>JSS VIP組組長。一開始對濟夏百般不滿，之後也與之成為好友。曾被金室長私下教唆殺害金濟夏，但因看到濟夏在自己中槍後的關心，便主動停止任務。</p></td>
+<td><p><a href="../Page/陳卓智.md" title="wikilink">陳卓智</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/池昌旭.md" title="wikilink">池昌旭</a><br />
+（童年：崔昇勳）</p></td>
+<td><p>金濟夏/金上士</p></td>
+<td><p>現任JSS警衛員，代號K2，也是崔宥珍僱用的御用保鏢，後因數次救了崔宥珍，而成為其核心部門「Cloud 9」的成員。<br />
+參見<strong><a href="https://zh.wikipedia.org/wiki/#主要人物" title="wikilink">主要人物</a></strong></p></td>
+<td><p><a href="../Page/曹啟謙.md" title="wikilink">曹啟謙</a></p></td>
+<td><p><a href="../Page/李世揚.md" title="wikilink">李世揚</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/李載宇" title="wikilink">李載宇</a></p></td>
+<td><p>姜成圭</p></td>
+<td><p>JSS代號K1，喜歡美蘭。</p></td>
+<td><p><a href="../Page/鍾見麟.md" title="wikilink">鍾見麟</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/李藝恩" title="wikilink">李藝恩</a></p></td>
+<td><p>張美蘭</p></td>
+<td><p>JSS代號J4，原為監視安娜，後來轉為保護安娜，原喜歡濟夏，後與成圭熱戀。</p></td>
+<td><p><a href="../Page/吳羨婷.md" title="wikilink">吳羨婷</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/尹載智" title="wikilink">尹載智</a></p></td>
+<td><p>B1</p></td>
+<td><p>JSS特工，金東美的保鑣兼得力手下。</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/宋景哲.md" title="wikilink">宋景哲</a></p></td>
+<td><p>宋詠春</p></td>
+<td><p>JSS教練。因崔宥珍的父親教唆而殺死嚴慧琳。</p></td>
+<td><p><a href="../Page/葉振聲.md" title="wikilink">葉振聲</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/廉惠蘭.md" title="wikilink">廉惠蘭</a></p></td>
+<td></td>
+<td><p>JSS萬年科長，負責安娜的生活起居。</p></td>
+<td><p><a href="../Page/蔡惠萍.md" title="wikilink">蔡惠萍</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>JSS突擊隊組長。</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/權秀賢.md" title="wikilink">權秀賢</a></p></td>
+<td></td>
+<td><p>JSS特工，多數於任務中擔任司機。</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>JSS特工。</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ### 其他人物
 
 <table style="width:70%;">
@@ -72,74 +201,32 @@
 <td><p><strong>國語配音</strong></p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/李廷鎮.md" title="wikilink">李廷鎮</a></p></td>
+<td><p>崔盛元</p></td>
+<td><p>JB集團會長，崔宥珍的同父異母的弟弟。庫瑪爾門貪汙案的核心人物。表面看似輕浮，實則城府極深、機關算盡，與崔宥珍進行政治及家族企業的爭奪。假裝對安娜友好，利用安娜攻擊崔宥珍的弱點，不過未果。聯手朴冠守攻擊JSS保安公司總部，卻被朴冠守算計，差點死於自己設置的炸彈之下。雖然最後順利的從爆炸危機中活命，但仍遭到金室長在車上以手槍射殺身亡。</p></td>
+<td><p><a href="../Page/蘇強文.md" title="wikilink">蘇強文</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/金甲洙.md" title="wikilink">金甲洙</a></p></td>
 <td><p>朴冠守</p></td>
 <td><p>現任國會議員、總-{}-統候選人，張世俊的競爭對手，也是殺害金濟夏所愛之人的元凶及庫瑪爾閘門貪汙案的核心人物。聯手崔盛元攻擊JSS保安公司總部，並同時設計崔盛元，企圖以炸彈殺害Cloud 9的所有人。最後遭金濟夏挾持至野外，被強迫以上吊的方式結束生命。</p></td>
 <td><p><a href="../Page/朱子聰.md" title="wikilink">朱子聰</a></p></td>
 <td><p><a href="../Page/曹冀魯.md" title="wikilink">曹冀魯</a></p></td>
 </tr>
-<tr class="odd">
-<td><p><a href="../Page/李廷鎮.md" title="wikilink">李廷鎮</a></p></td>
-<td><p>崔盛元</p></td>
-<td><p>JB集團會長，崔宥珍的同父異母的弟弟。庫瑪爾閘門貪汙案的核心人物。表面看似輕浮，實則城府極深、機關算盡，與崔宥珍進行政治及家族企業的爭奪。假裝對安娜友好，利用安娜攻擊崔宥珍的弱點，不過未果。聯手朴冠守攻擊JSS保安公司總部，卻被朴冠守算計，差點死於自己設置的炸彈之下。雖然最後順利的從爆炸危機中活命，但仍遭到金室長在車上以手槍射殺身亡。</p></td>
-<td><p><a href="../Page/蘇強文.md" title="wikilink">蘇強文</a></p></td>
-<td></td>
-</tr>
 <tr class="even">
-<td><p><a href="../Page/申東美.md" title="wikilink">申東美</a></p></td>
-<td><p>金東美</p></td>
-<td><p>崔宥珍的秘書室參謀長、核心部門Cloud 9成員，通稱「金室長」。對崔宥珍極為忠誠，但因認為崔宥珍過度信任及重用金濟夏而忌妒，曾私下派遣JSS VIP組組長射殺金濟夏。</p></td>
-<td><p><a href="../Page/曾秀清.md" title="wikilink">曾秀清</a></p></td>
-<td><p><a href="../Page/陳美貞.md" title="wikilink">陳美貞</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/宋景哲.md" title="wikilink">宋景哲</a></p></td>
-<td><p>宋詠春</p></td>
-<td><p>JSS教練。因崔宥珍的父親教唆而殺死嚴慧琳。</p></td>
-<td><p><a href="../Page/葉振聲.md" title="wikilink">葉振聲</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>徐组长</p></td>
-<td><p>JSS VIP組組長。一開始對濟夏百般不滿，之後也與之成為好友。曾被金室長私下教唆殺害金濟夏，但因看到濟夏在自己中槍後的關心，便主動停止任務。</p></td>
-<td><p><a href="../Page/陳卓智.md" title="wikilink">陳卓智</a></p></td>
+<td><p><a href="../Page/李哲民_(演員).md" title="wikilink">李哲民</a></p></td>
+<td><p>民哲</p></td>
+<td><p>朴冠守的祕書官。最後因勢力變動，倒向勢力最大的一邊，並成為逼迫朴冠守自殺的人。</p></td>
+<td><p><a href="../Page/劉奕希.md" title="wikilink">劉奕希</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/尹鍾和.md" title="wikilink">尹鍾和</a></p></td>
+<td><p>金錫漢</p></td>
+<td><p>醫生，總-{}-統的兒子。握有朴冠守及崔盛元的重大犯罪證據。</p></td>
+<td><p><a href="../Page/李鎮然.md" title="wikilink">李鎮然</a></p></td>
 <td></td>
-<td><p>朱哲浩</p></td>
-<td><p>JSS室長、核心部門Cloud 9成員，與張世俊友好。對於所有事情都是犧牲小我完成大我的想法，在以前也以同樣想法犧牲了金濟夏。想進入青瓦台，認為有勢力才有資格說話。雖一開始與濟夏表示友好與信任的一面，但其實依然懷疑濟夏是因殺害平民而遭追捕。</p></td>
-<td><p><a href="../Page/張錦江.md" title="wikilink">張錦江</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李載宇" title="wikilink">李載宇</a></p></td>
-<td><p>姜成圭</p></td>
-<td><p>JSS代號K1，喜歡美蘭。</p></td>
-<td><p><a href="../Page/鍾見麟.md" title="wikilink">鍾見麟</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李藝恩" title="wikilink">李藝恩</a></p></td>
-<td><p>張美蘭</p></td>
-<td><p>JSS代號J4，原為監視安娜，後來轉為保護安娜，原喜歡濟夏，後與成圭熱戀。</p></td>
-<td><p><a href="../Page/吳羨婷.md" title="wikilink">吳羨婷</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td><p>JSS突擊隊組長。</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/高仁範.md" title="wikilink">高仁範</a></p></td>
-<td><p>國采元</p></td>
-<td><p>前治安總監、現任JSS代表、核心部門Cloud 9成員。因背叛崔宥珍替崔盛元做內諜，最後在崔宥珍的威脅下開槍自殺。</p></td>
-<td><p><a href="../Page/陳永信.md" title="wikilink">陳永信</a></p></td>
-<td><p><a href="../Page/李世揚.md" title="wikilink">李世揚</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/朴順天_(演員).md" title="wikilink">朴順天</a></p></td>
@@ -149,45 +236,17 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李哲民_(演員).md" title="wikilink">李哲民</a></p></td>
-<td><p>民哲</p></td>
-<td><p>朴冠守的祕書官。最後因勢力變動，倒向勢力最大的一邊，並成為逼迫朴冠守自殺的人。</p></td>
-<td><p><a href="../Page/劉奕希.md" title="wikilink">劉奕希</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td></td>
 <td></td>
 <td><p>在兒子過世的49日遇到的果園爺爺。</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/趙載龍.md" title="wikilink">趙載龍</a></p></td>
 <td><p>成祕書</p></td>
 <td><p>張世俊的祕書。</p></td>
 <td><p><a href="../Page/雷霆.md" title="wikilink">雷霆</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/權秀賢.md" title="wikilink">權秀賢</a></p></td>
-<td></td>
-<td><p>JSS保鑣。</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td><p>JSS醫務室長，因須急救受了槍傷的金濟夏，而成為核心部門cloud9成員。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/曾佩儀" title="wikilink">曾佩儀</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td><p>金東美的保鑣。</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -200,43 +259,29 @@
 <tr class="even">
 <td></td>
 <td><p>李卿珍</p></td>
-<td><p>治安總監。</p></td>
+<td><p>治安總監，與朴冠守勾結。</p></td>
 <td><p><a href="../Page/盧國權.md" title="wikilink">盧國權</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/廉惠蘭.md" title="wikilink">廉惠蘭</a></p></td>
-<td></td>
-<td><p>JSS萬年科長，負責安娜的生活起居。</p></td>
-<td><p><a href="../Page/蔡惠萍.md" title="wikilink">蔡惠萍</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/車順裴.md" title="wikilink">車順裴</a></p></td>
 <td></td>
 <td><p>醫生。</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>朴冠守的保鑣。</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>刑警。</p></td>
 <td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/尹鍾和.md" title="wikilink">尹鍾和</a></p></td>
-<td><p>金錫漢</p></td>
-<td><p>醫生，總-{}-統的兒子。握有朴冠守及崔盛元的重大犯罪證據。</p></td>
-<td><p><a href="../Page/李鎮然.md" title="wikilink">李鎮然</a></p></td>
 <td></td>
 </tr>
 </tbody>

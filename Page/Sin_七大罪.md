@@ -852,16 +852,10 @@ Sin 七大罪短篇小劇場《懺悔錄》在各話播出結束後在YouTube上
 [Category:ARTLAND](https://zh.wikipedia.org/wiki/Category:ARTLAND "wikilink") [Category:恶魔题材作品](https://zh.wikipedia.org/wiki/Category:恶魔题材作品 "wikilink") [Category:Hobby_Japan](https://zh.wikipedia.org/wiki/Category:Hobby_Japan "wikilink") [Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:天使题材作品](https://zh.wikipedia.org/wiki/Category:天使题材作品 "wikilink") [Category:萌擬人化題材作品](https://zh.wikipedia.org/wiki/Category:萌擬人化題材作品 "wikilink") [Category:七宗罪題材作品](https://zh.wikipedia.org/wiki/Category:七宗罪題材作品 "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  総集編制作 - キュー・テック / PV制作 - 10GAUGE
-
 5.
-
 6.
-
 7.  [七つの美徳公式 Twitter](https://twitter.com/hj_7_virtues/status/960344989745152000)"
-
 8.

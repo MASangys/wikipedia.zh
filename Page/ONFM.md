@@ -89,7 +89,7 @@ ONFM 副台长[梁佑诚](../Page/梁佑诚.md "wikilink")表示，“我们是�
 
 ## 参考资料
 
-[Category:马来西亚电台](https://zh.wikipedia.org/wiki/Category:马来西亚电台 "wikilink") [Category:马来西亚公司](https://zh.wikipedia.org/wiki/Category:马来西亚公司 "wikilink")
+[Category:馬來西亞中文廣播電台](https://zh.wikipedia.org/wiki/Category:馬來西亞中文廣播電台 "wikilink") [Category:马来西亚电台](https://zh.wikipedia.org/wiki/Category:马来西亚电台 "wikilink") [Category:马来西亚公司](https://zh.wikipedia.org/wiki/Category:马来西亚公司 "wikilink")
 
 1.  [ON FM最强DJ阵容　梁佑诚领军发声](http://cnews.cari.com.my/news.php?id=641611&link=next)
 2.  [东南亚第一家网络视频电台 OnFM](http://www.bigorangemedia.com/10829)

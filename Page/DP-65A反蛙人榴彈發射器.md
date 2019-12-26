@@ -24,6 +24,8 @@ DP-65A設計用於保護船军舰、水力結構、[自來水廠](../Page/供水
   -
   - [CS/AR1型反蛙人火箭炮](https://zh.wikipedia.org/wiki/CS/AR1型反蛙人火箭炮 "wikilink")
 
+  - [CS/LK4型近区防御遥控武器系统](https://zh.wikipedia.org/wiki/CS/LK4型近区防御遥控武器系统 "wikilink")
+
 ## 資料來源
 
 <div class="references-small">

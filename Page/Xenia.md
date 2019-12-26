@@ -21,13 +21,9 @@
 [Category:BSD软件](https://zh.wikipedia.org/wiki/Category:BSD软件 "wikilink") [Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink") [Category:Xbox_360](https://zh.wikipedia.org/wiki/Category:Xbox_360 "wikilink") [Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink") [Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink") [Category:遊戲機模擬器](https://zh.wikipedia.org/wiki/Category:遊戲機模擬器 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.

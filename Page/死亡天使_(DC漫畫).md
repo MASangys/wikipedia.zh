@@ -68,12 +68,8 @@ LeHah為了斬草除根而打算殺死尚-保羅，但注意到LeHah與前任死
 [Category:DC漫畫超級英雄](https://zh.wikipedia.org/wiki/Category:DC漫畫超級英雄 "wikilink") [Category:DC漫畫超級反派](https://zh.wikipedia.org/wiki/Category:DC漫畫超級反派 "wikilink") [Category:DC漫畫超人類](https://zh.wikipedia.org/wiki/Category:DC漫畫超人類 "wikilink") [Category:具有超人力氣的DC漫畫角色](https://zh.wikipedia.org/wiki/Category:具有超人力氣的DC漫畫角色 "wikilink") [Category:虛構刺客](https://zh.wikipedia.org/wiki/Category:虛構刺客 "wikilink") [Category:虛構治安維持者](https://zh.wikipedia.org/wiki/Category:虛構治安維持者 "wikilink") [Category:源自基因工程的虛構角色](https://zh.wikipedia.org/wiki/Category:源自基因工程的虛構角色 "wikilink") [Category:虛構非洲裔美國人](https://zh.wikipedia.org/wiki/Category:虛構非洲裔美國人 "wikilink") [Category:虛構騎士](https://zh.wikipedia.org/wiki/Category:虛構騎士 "wikilink") [Category:虛構警察](https://zh.wikipedia.org/wiki/Category:虛構警察 "wikilink") [Category:DC漫畫作品](https://zh.wikipedia.org/wiki/Category:DC漫畫作品 "wikilink") [Category:可以超人類速度移動的DC漫畫角色](https://zh.wikipedia.org/wiki/Category:可以超人類速度移動的DC漫畫角色 "wikilink") [Category:由葛蘭·莫瑞森創作的角色](https://zh.wikipedia.org/wiki/Category:由葛蘭·莫瑞森創作的角色 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.

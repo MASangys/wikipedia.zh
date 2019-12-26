@@ -72,7 +72,7 @@ X射線營地於2014年10月6日於[紐約市有個特別放映](https://zh.wiki
 7.
 8.
 9.
-10. ["Camp X-Ray"](http://filmguide.sundance.org/film/13908/camp_x-ray)<span class="reference-accessdate">
+10. ["Camp X-Ray"](http://filmguide.sundance.org/film/13908/camp_x-ray) <span class="reference-accessdate">
 11.
 12.
 13.

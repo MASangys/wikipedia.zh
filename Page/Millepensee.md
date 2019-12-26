@@ -162,9 +162,7 @@ Millepensee是日本一家以執行動畫的企畫和製作為主要事業內容
 [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:練馬區公司](https://zh.wikipedia.org/wiki/Category:練馬區公司 "wikilink") [Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.

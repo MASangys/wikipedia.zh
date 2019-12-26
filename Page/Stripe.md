@@ -27,23 +27,14 @@
 [Category:网络应用程序](https://zh.wikipedia.org/wiki/Category:网络应用程序 "wikilink") [Category:电子商务](https://zh.wikipedia.org/wiki/Category:电子商务 "wikilink") [Category:網站開發](https://zh.wikipedia.org/wiki/Category:網站開發 "wikilink") [Category:支付系统](https://zh.wikipedia.org/wiki/Category:支付系统 "wikilink") [Category:市场营销](https://zh.wikipedia.org/wiki/Category:市场营销 "wikilink") [Category:信息技术](https://zh.wikipedia.org/wiki/Category:信息技术 "wikilink") [Category:Y_Combinator公司](https://zh.wikipedia.org/wiki/Category:Y_Combinator公司 "wikilink") [Category:2010年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2010年加利福尼亞州建立 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.

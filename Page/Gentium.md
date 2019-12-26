@@ -36,15 +36,10 @@
 [Category:衬线字体](https://zh.wikipedia.org/wiki/Category:衬线字体 "wikilink") [Category:2001年面世](https://zh.wikipedia.org/wiki/Category:2001年面世 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
 8.

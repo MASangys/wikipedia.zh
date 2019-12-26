@@ -316,10 +316,10 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2012年5月17日</p></td>
+<td><p>2012年</p></td>
+<td><p>5月17日</p></td>
 <td><p>Like That</p></td>
 <td><p>《Rhythm Genius》</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -343,16 +343,16 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2013年3月6日</p></td>
+<td><p>2013年</p></td>
+<td><p>3月6日</p></td>
 <td><p>Two Melodies（뻔한 멜로디）</p></td>
 <td></td>
 <td><p><a href="../Page/Zion.T.md" title="wikilink">Zion.T</a></p></td>
 <td><p>|</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p>2013年3月19日</p></td>
+<td><p>3月19日</p></td>
 <td><p>就這樣待著（그대로 있어도 돼）</p></td>
 <td><p>《Thanks 4 The Wait》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Supreme_Team" title="wikilink">Supreme Team</a></p></td>
@@ -361,7 +361,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2013年3月19日</p></td>
+<td><p>3月19日</p></td>
 <td><p>What You Gonna Do</p></td>
 <td><p>《What You Gonna Do》</p></td>
 <td><p>Money Maker$、TaeWan</p></td>
@@ -370,7 +370,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2013年5月2日</p></td>
+<td><p>5月2日</p></td>
 <td><p>眨眼（깜빡）Remix</p></td>
 <td><p>《眨眼 Remix》</p></td>
 <td><p><a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a>、TaeWan、Elo、Jinbo</p></td>
@@ -379,7 +379,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2013年6月4日</p></td>
+<td><p>6月4日</p></td>
 <td><p>Smoky Girl（스모키걸）</p></td>
 <td><p>《Love Beat》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBLAQ" title="wikilink">MBLAQ</a></p></td>
@@ -388,7 +388,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2013年7月1日</p></td>
+<td><p>7月1日</p></td>
 <td><p>Life is Good（거품 안 넘치게 따라줘）</p></td>
 <td><p>《Luckynumbers》</p></td>
 <td><p><a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>、DJ Friz</p></td>
@@ -397,7 +397,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2013年10月25日</p></td>
+<td><p>10月25日</p></td>
 <td><p>夢是什麼（꿈이 뭐야）</p></td>
 <td><p>《Call Me Gray》</p></td>
 <td><p><a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a>、<a href="../Page/Dok2.md" title="wikilink">Dok2</a></p></td>
@@ -406,7 +406,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2013年11月21日</p></td>
+<td><p>11月21日</p></td>
 <td><p>No More（G-Mix）</p></td>
 <td><p>《Ruthless, The Album》</p></td>
 <td><p>Dok2、Loco</p></td>
@@ -415,7 +415,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2013年11月26日</p></td>
+<td><p>11月26日</p></td>
 <td><p>O.M.G</p></td>
 <td><p>《LOVE&amp;HATE》</p></td>
 <td><p><a href="../Page/孝琳.md" title="wikilink">孝琳</a>、Lil Boi</p></td>
@@ -424,7 +424,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2013年12月20日</p></td>
+<td><p>12月20日</p></td>
 <td><p>HOTpants（Extended版本）</p></td>
 <td><p>《狼》</p></td>
 <td><p>、B-free、Pento、<a href="../Page/Cheetah.md" title="wikilink">Cheetah</a>、BUMZU、Buga Kingz、<a href="https://zh.wikipedia.org/wiki/Paloalto" title="wikilink">Paloalto</a></p></td>
@@ -433,16 +433,16 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2014年1月23日</p></td>
+<td><p>2014年</p></td>
+<td><p>1月23日</p></td>
 <td><p>Stupid Love</p></td>
 <td><p>《月尾島的狗》</p></td>
 <td><p><a href="../Page/Rhythm_Power.md" title="wikilink">Rhythm Power</a></p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p>2014年11月18日</p></td>
+<td><p>11月18日</p></td>
 <td><p>U &amp; I</p></td>
 <td></td>
 <td><p>、빈지노</p></td>
@@ -451,7 +451,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2014年11月18日</p></td>
+<td><p>11月18日</p></td>
 <td><p>美麗人生</p></td>
 <td><p>、<a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>、<a href="https://zh.wikipedia.org/wiki/Zion._T" title="wikilink">Zion. T</a></p></td>
 <td></td>
@@ -460,7 +460,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2014年11月19日</p></td>
+<td><p>11月19日</p></td>
 <td><p>Shall We Dance?</p></td>
 <td><p>《her》</p></td>
 <td><p>피노다인(Pinodyne)</p></td>
@@ -469,7 +469,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2014年11月21日</p></td>
+<td><p>11月21日</p></td>
 <td><p>Ocean</p></td>
 <td><p>《HIM》</p></td>
 <td><p><a href="../Page/金範洙.md" title="wikilink">金範洙</a></p></td>
@@ -478,7 +478,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2014年11月28日</p></td>
+<td><p>11月28日</p></td>
 <td><p>Hands Up（손바닥을 보여줘）</p></td>
 <td><p>《LOCOMOTIVE》</p></td>
 <td><p><a href="../Page/Loco.md" title="wikilink">Loco</a></p></td>
@@ -487,7 +487,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2014年11月28日</p></td>
+<td><p>11月28日</p></td>
 <td><p>閉上眼（감아）</p></td>
 <td></td>
 <td></td>
@@ -496,16 +496,16 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2015年3月10日</p></td>
+<td><p>2015年</p></td>
+<td><p>3月10日</p></td>
 <td><p>Rainbow</p></td>
 <td><p>《Rainbow》</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p>2015年11月5日</p></td>
+<td><p>11月5日</p></td>
 <td><p>身材（몸매）（Remix）</p></td>
 <td><p>《WORLDWIDE》</p></td>
 <td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a>、<a href="../Page/Simon_D.md" title="wikilink">Simon D</a>、Honey Cocaine</p></td>
@@ -514,7 +514,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2015年11月17日</p></td>
+<td><p>11月17日</p></td>
 <td><p>留下來（있어줘）</p></td>
 <td><p>《GRAND CARNIVAL》</p></td>
 <td><p><a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>、Lydia Paek</p></td>
@@ -523,16 +523,16 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2016年1月28日</p></td>
+<td><p>2016年</p></td>
+<td><p>1月28日</p></td>
 <td><p>what2do</p></td>
 <td><p>《what2do (Feat. Crush, Jeff Bernat)》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/權革" title="wikilink">DEAN</a>、Jeff Bernat</p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p>2016年2月19日</p></td>
+<td><p>2月19日</p></td>
 <td><p>冷（추워）</p></td>
 <td><p>《冷》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/nov" title="wikilink">nov</a></p></td>
@@ -541,7 +541,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2016年2月23日</p></td>
+<td><p>2月23日</p></td>
 <td><p>Be You</p></td>
 <td><p>《Daily Note》</p></td>
 <td><p>KimDang</p></td>
@@ -550,7 +550,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2016年4月10日</p></td>
+<td><p>4月10日</p></td>
 <td><p>NO눈치</p></td>
 <td><p>《I AM SAM》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sam_Kim" title="wikilink">Sam Kim</a></p></td>
@@ -560,7 +560,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2016年5月24日</p></td>
+<td><p>5月24日</p></td>
 <td><p>喜歡（좋아）</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/Good（金鐘鉉專輯）" title="wikilink">Good</a>》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金鐘鉉_(歌手)" title="wikilink">金鐘鉉</a></p></td>
@@ -569,7 +569,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2016年7月16日</p></td>
+<td><p>7月16日</p></td>
 <td><p>重播（재방송）</p></td>
 <td><p>《<a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5</a> Episode 5》</p></td>
 <td><p>C Jamm</p></td>
@@ -578,7 +578,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2016年11月28日</p></td>
+<td><p>11月28日</p></td>
 <td><p>Bermuda Triangle（버뮤다 트라이앵글）</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a>、<a href="https://zh.wikipedia.org/wiki/權革" title="wikilink">DEAN</a></p></td>
@@ -587,16 +587,16 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2017年3月14日</p></td>
+<td><p>2017年</p></td>
+<td><p>3月14日</p></td>
 <td><p>Laputa</p></td>
 <td><p>《Coming To You Live》</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p>2017年5月25日</p></td>
+<td><p>5月25日</p></td>
 <td><p>Still（남아있어）</p></td>
 <td><p>《BLEACHED》</p></td>
 <td><p><a href="../Page/Loco.md" title="wikilink">Loco</a></p></td>
@@ -605,7 +605,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2017年10月23日</p></td>
+<td><p>10月23日</p></td>
 <td><p>常去的文培洞小店（문배동 단골집）</p></td>
 <td><p>《We've Done Something Wonderful》</p></td>
 <td><p><a href="../Page/Epik_High.md" title="wikilink">Epik High</a></p></td>
@@ -614,7 +614,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2017年11月10日</p></td>
+<td><p>11月10日</p></td>
 <td><p>Love Story（러브 스토리）</p></td>
 <td></td>
 <td><p><a href="../Page/Suran.md" title="wikilink">Suran</a></p></td>
@@ -623,7 +623,7 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2017年11月13日</p></td>
+<td><p>11月13日</p></td>
 <td><p>퇴근</p></td>
 <td></td>
 <td><p>、<a href="../Page/朴載範.md" title="wikilink">朴載範</a></p></td>
@@ -632,16 +632,25 @@ Crush作为的一员，于2012年12月7日以作曲兼作词的R\&B歌手的身�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019年3月11日</p></td>
+<td><p>2018年</p></td>
+<td><p>3月</p></td>
+<td><p>Your Dog Loves You</p></td>
+<td></td>
+<td><p><a href="../Page/Offonoff.md" title="wikilink">Colde(OFFONOFF)</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>3月11日</p></td>
 <td><p>Lovedrunk（술이 달다）</p></td>
 <td><p>《 sleepless in __________》</p></td>
 <td><p><a href="../Page/Epik_High.md" title="wikilink">Epik High</a></p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="odd">
-<td><p>2019年7月2日</p></td>
+<tr class="even">
+<td><p>7月2日</p></td>
 <td><p>Yummy</p></td>
 <td><p>《Nothing Matters》</p></td>
 <td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a></p></td>

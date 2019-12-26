@@ -31,27 +31,16 @@
 [Category:英语电视频道](https://zh.wikipedia.org/wiki/Category:英语电视频道 "wikilink") [Category:伊斯兰教媒体](https://zh.wikipedia.org/wiki/Category:伊斯兰教媒体 "wikilink") [Category:阿联酋媒体](https://zh.wikipedia.org/wiki/Category:阿联酋媒体 "wikilink") [Category:2006年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2006年成立的电视台或电视频道 "wikilink") [Category:多語廣播](https://zh.wikipedia.org/wiki/Category:多語廣播 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
 14.

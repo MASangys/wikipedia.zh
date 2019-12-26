@@ -42,17 +42,11 @@ ALK能与ACVR2A、ACVR2B发生[相互作用](../Page/蛋白質交互作用.md "w
 [Category:位於12號人類染色體的基因](https://zh.wikipedia.org/wiki/Category:位於12號人類染色體的基因 "wikilink") [Category:人类蛋白质](https://zh.wikipedia.org/wiki/Category:人类蛋白质 "wikilink") [Category:受体](https://zh.wikipedia.org/wiki/Category:受体 "wikilink") [Category:EC_2.7.11](https://zh.wikipedia.org/wiki/Category:EC_2.7.11 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
-
 8.
-
 9.

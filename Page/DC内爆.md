@@ -21,27 +21,16 @@ DC在1977年冬季经历持续滞销，部分原因为北美1977年和1978年的
 [Category:DC漫画](https://zh.wikipedia.org/wiki/Category:DC漫画 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13. *Cancelled Comic Cavalcade* \#1 (Summer 1978)
-
 14. *Cancelled Comic Cavalcade* \#2 (Fall 1978)

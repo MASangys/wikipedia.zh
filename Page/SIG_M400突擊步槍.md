@@ -50,7 +50,13 @@ M400 SPR型面向巡警而M400 SWAT型則面向特警。M400 SPR型取消了傳�
 
 ## 使用國
 
-  -   - [費城](../Page/費城.md "wikilink")[特種武器和戰術部隊](../Page/特種武器和戰術部隊.md "wikilink")
+  -   - [伊拉克特種作戰部隊](../Page/伊拉克特種作戰部隊.md "wikilink")\[1\]
+
+  -   - \[2\]
+
+  -   - [菲律賓武裝部隊](https://zh.wikipedia.org/wiki/菲律賓軍事 "wikilink")\[3\]
+
+  -   - 多個地方警察單位
 
 ## 參見
 
@@ -164,3 +170,7 @@ M400 SPR型面向巡警而M400 SWAT型則面向特警。M400 SPR型取消了傳�
   - —[D Boy Gun World（槍炮世界）—SIG M400系列突击步枪](http://firearmsworld.net/sigsauer/ar/m400.htm)
 
 [Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:半自動步槍](https://zh.wikipedia.org/wiki/Category:半自動步槍 "wikilink") [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink") [Category:.300_AAC_BLK口徑槍械](https://zh.wikipedia.org/wiki/Category:.300_AAC_BLK口徑槍械 "wikilink") [Category:美國步槍](https://zh.wikipedia.org/wiki/Category:美國步槍 "wikilink") [Category:美國槍械](https://zh.wikipedia.org/wiki/Category:美國槍械 "wikilink")
+
+1.  [ISOF Arms & Equipment Part 1 – Personal Equipment](https://armamentresearch.com/isof-arms-equipment-part-1-personal-equipment/)
+2.  [Is This the Ultimate AR-15 Rifle of All Time?](https://nationalinterest.org/blog/buzz/ultimate-ar-15-rifle-all-time-67792)
+3.

@@ -79,12 +79,12 @@ ORCID的目的是帮助“从科学过渡到信息化科学，在不断增长的
 15. Editorial (2009).
 16. <cite class="citation web">["ORCID Launches Registry"](https://about.orcid.org/news/2012/10/16/orcid-launches-registry)<span class="reference-accessdate">. </span></cite>
 17. <cite class="citation web">["Trademark and iD Display Guidelines"](https://orcid.org/trademark-and-id-display-guidelines). </cite>
-18. <cite class="citation web">["Structure of the ORCID Identifier"](https://support.orcid.org/knowledgebase/articles/116780-structure-of-the-orcid-identifier). </cite>
+18. <cite class="citation web">["Structure of the ORCID Identifier"](https://support.orcid.org/knowledgebase/articles/116780-structure-of-the-orcid-identifier) . </cite>
 19. <cite class="citation web">["Hiroshi Asakura"](https://www.hindawi.com/80647648/). </cite>
 20. <cite class="citation web">["ISNI and ORCID"](https://web.archive.org/web/20130304210352/http://www.isni.org/isni_and_orcid). </cite>
 21. <cite class="citation web">["ISNI and ORCID"](https://web.archive.org/web/20130304210352/http://www.isni.org/isni_and_orcid). </cite>
 22. <cite class="citation web">["What is the relationship between ISNI and ORCID?"](https://about.orcid.org/content/what-relationship-between-isni-and-orcid)</cite>
-23. <cite class="citation web">["Structure of the ORCID Identifier"](https://support.orcid.org/knowledgebase/articles/116780). </cite>
+23. <cite class="citation web">["Structure of the ORCID Identifier"](https://support.orcid.org/knowledgebase/articles/116780) . </cite>
 24. <cite class="citation web">["ISNI 0000000031979523"](https://isni-url.oclc.nl/isni/0000000031979523). </cite>
 25. <cite class="citation web">["ORCID 0000-0001-5882-6823"](https://orcid.org/0000-0001-5882-6823). </cite>
 26. <cite class="citation web">["What is the relationship between ISNI and ORCID?"](https://about.orcid.org/content/what-relationship-between-isni-and-orcid)</cite>

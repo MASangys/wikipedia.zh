@@ -290,7 +290,6 @@
 [Category:日本男演員](https://zh.wikipedia.org/wiki/Category:日本男演員 "wikilink") [Category:日本男性配音員](https://zh.wikipedia.org/wiki/Category:日本男性配音員 "wikilink") [Category:大阪府出身人物](https://zh.wikipedia.org/wiki/Category:大阪府出身人物 "wikilink") [Category:1961年出生](https://zh.wikipedia.org/wiki/Category:1961年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.
-
 2.
 3.
 4.
@@ -301,27 +300,15 @@
 9.
 10.
 11.
-
 12.
-
 13. 從《[真侍魂 霸王丸地獄變](https://zh.wikipedia.org/wiki/真侍魂_霸王丸地獄變 "wikilink")》開始。《侍魂新章 ～劍客異聞錄 甦醒的蒼紅之刃～》未登場、《天下一劍客傳》由[大川透](../Page/大川透.md "wikilink")進行配音之外。
-
 14. 只在《真侍魂 霸王丸地獄變》登場。
-
 15. 《3》～《餓狼傳說 WILD AMBITION》為止。
-
 16. 《RB餓狼傳說》～《餓狼傳說 WILD AMBITION》為止。
-
 17. 《2000》以援助角色登場，《XI》首次以操作角色出場。
-
 18. 《2002 UNLIMITED MATCH》登場。
-
 19. 《全明星》登場。
-
 20. 首次以操作角色出場。
-
 21.
-
 22. 戰鬥中的配音。
-
 23. <https://twitter.com/Harada_TEKKEN/status/887304754631659520> .\[2018-11-01\] .

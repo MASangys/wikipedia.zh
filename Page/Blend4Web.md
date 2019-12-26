@@ -90,90 +90,47 @@ Blend4Web基本上是基于Blender实时[GLSL](../Page/GLSL.md "wikilink")渲染
 [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:繪圖函式庫](https://zh.wikipedia.org/wiki/Category:繪圖函式庫 "wikilink") [Category:JavaScript函式庫](https://zh.wikipedia.org/wiki/Category:JavaScript函式庫 "wikilink") [Category:自由三维图形软件](https://zh.wikipedia.org/wiki/Category:自由三维图形软件 "wikilink") [Category:網站開發](https://zh.wikipedia.org/wiki/Category:網站開發 "wikilink")
 
 1.  ["Blend4Web: the Open Source Solution for Online 3D"](https://hacks.mozilla.org/2014/10/blend4web-the-open-source-solution-for-online-3d/). Mozilla Hacks. Retrieved 2015-08-13.
-
 2.  ["Blend4Web on GitHub"](https://github.com/TriumphLLC/Blend4Web). GitHub.com/TriumphLLC. Retrieved2014-08-11.
-
 3.  Прахов, Андрей (Июль, 2015). "Blend4Web". *Linux Format*, стр. 20.
-
 4.  ["Blend4Web, an Interactive 3D Viewer"](http://www.blendernation.com/2014/07/11/blend4web-an-interactive-3d-viewer/). BlenderNation.com. Retrieved 2014-08-11.
-
 5.  ["Blend4Web: способ вставить 3D-содержание на веб-страницу с использованием WebGL"](http://belursus.info/index.php?c=s-blend4web). Belursus.info. Retrieved 2014-09-04.
-
 6.  ["Blender Models in Facebook"](http://www.dalaifelinto.com/?p=1078). Dalai Felinto. Retrieved2015-09-11.
-
 7.  ["Blend4Web Official Site - About"](https://www.blend4web.com/en/about/). Blend4Web.com. Retrieved 2015-08-13.
-
 8.  ["Starting Up - Soft8Soft"](https://www.soft8soft.com/starting-up/). soft8soft.com. Retrieved 2018-08-13.
-
 9.  ["Представлен Blend4Web, движок для создания браузерных 3D-приложений"](http://www.opennet.ru/opennews/art.shtml?num=39506). OpenNet.ru. Retrieved 2015-06-18.
-
 10. ["Релиз движка для создания браузерных 3D-приложений Blend4Web 14.08"](http://www.opennet.ru/opennews/art.shtml?num=40457). OpenNet.ru. Retrieved 2015-08-13.
-
 11. ["Blend4Web update adds improved lighting and more"](http://www.blendernation.com/2014/07/25/blend4web-update-adds-improved-lighting-and-more/). BlenderNation.com. Retrieved 2014-08-13.
-
 12. ["Blend4Web: "The Farm" - Demo einer kleinen virtuellen Welt"](http://echtvirtuell.blogspot.de/2014/09/blend4web-farm-demo-einer-kleine.html). Echt Virtuell. Retrieved 2014-09-18.
-
 13. ["Can I use WebGL?"](http://caniuse.com/webgl). caniuse.com. Retrieved 2014-08-15.
-
 14. ["HTML5, the 3D Web, and the Death of Plugins"](http://3dspace.com/2016/02/html5-the-3d-web-and-the-death-of-plugins/). 3dspace.com. Retrieved 2016-02-18.
-
 15. ["Blend4Web: енджин за създаване на браузърни 3D сцени и приложения"](https://www.kaldata.com/IT-%D0%9D%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8/Blend4Web-%D0%B5%D0%BD%D0%B4%D0%B6%D0%B8%D0%BD-%D0%B7%D0%B0-%D1%81%D1%8A%D0%B7%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D1%8A%D1%80%D0%BD%D0%B8-3D-%D1%81%D1%86%D0%B5-88641.html). Kaldata: Software, Hardware and Game Reviews. Retrieved 2014-09-04.
-
 16. ["Real Time 3D watchfaces from Luxury Watches for the Gear S2"](http://www.tizenexperts.com/2016/08/real-time-3d-watchfaces-from-luxury-watches-for-the-gear-s2/). Tizen Experts. Retrieved 2016-08-12.
-
 17. Cozzi, Patrick. *WebGL Insights*. CRC Press, 2015 ISBN 978-1-49-871607-9.
-
 18. ["Blend4Web Update: Non Linear Animation and more"](http://www.blendernation.com/2014/09/29/blend4web-update-non-linear-animation-and-more/). BlenderNation.com. Retrieved 2014-09-29.
-
 19. ["Выпущен фреймворк Blend4Web 14.09"](http://digilinux.ru/2014/09/26/blend4web-14-09/) . digilinux.ru. Retrieved 2014-09-29.
-
 20. ["Blend4Web: обзор новинки отечественного софтопрома"](http://habrahabr.ru/post/259437/). Habrahabr.ru. Retrieved 2015-06-04.
-
 21. ["Blend4web: annotations interactives et autres nouveautés"](http://www.benicourt.com/blender/2015/04/blend4web-annotations-interactives/). Greg G.d.Bénicourt. Retrieved 2015-05-29.
-
 22. ["Релиз движка для создания браузерных 3D-приложений Blend4Web 15.05"](http://www.opennet.ru/opennews/art.shtml?num=42303). OpenNet.ru. Retrieved 2015-06-18.
-
 23. ["Triumph releases Blend4Web 15.12"](http://www.cgchannel.com/2016/01/triumph-releases-blend4web-15-12/). cgchannel.com. Retrieved 2016-02-18.
-
 24. ["Triumph releases Blend4Web 16.08"](http://www.cgchannel.com/2016/09/triumph-releases-blend4web-16-08/). cgchannel.com. Retrieved 2016-09-14.
-
 25. ["Blend4Web – Must-Have for Blender Fans\!"](http://3ddey.com/blend4web-musthave-for-blenderfans/) . 3ddey.com. Retrieved 2015-05-29.
-
 26. ["Interactives 3D Web – Ist Das Die Zukunft?"](http://3d-magazin.eu/e-commerce/interaktives-3d-web-ist-das-die-zukunft). 3d-magazin.eu. Retrieved 2016-09-16.
-
 27. ["3D-Web-Applikationen mit Blend4Web erstellen"](https://entwickler.de/online/frameworks/3d-web-applikationen-mit-blend4web-erstellen-139994.html). entwickler.de. Retrieved 2015-05-29.
-
 28. ["Blend4Web: Exporter Facilement en HTML"](http://blenderlounge.fr/blend4web-exporter-facilement-vos-scenes-en-html/). BlenderLounge. Retrieved 2015-07-17.
-
 29.
 30. ["Blender en tu Web: Blend4Web"](http://www.patrimoniovirtual.com/blender-en-tu-web-blend4web/). PatrimonioVirtual.com. Retrieved 2014-08-13.
-
 31. ["Blend4Web: Ferramenta publica projetos do Blender para Web"](https://www.allanbrito.com/2015/04/22/blend4web-ferramenta-publica-projetos-do-blender-para-web/). Allan Brito. Retrieved 2015-05-29.
-
 32. ["Unity 5 Ships and Brings One Click WebGL Export to Legions of Game Developers"](https://blog.mozilla.org/blog/2015/03/03/unity-5-ships-and-brings-one-click-webgl-export-to-legions-of-game-developers/). The Mozilla Blog. Retrieved 2015-06-16.
-
 33. ["Blend4Web vs Unity. Битва за Интернет"](http://habrahabr.ru/post/260391/). Habrahabr.ru. Retrieved 2015-06-16.
-
 34. ["Почему в NASA отказались от Unity в пользу Blend4Web"](http://habrahabr.ru/post/264457/). Habrahabr.ru. Retrieved 2015-08-13.
-
 35. ["WebGL Roadmap"](http://forum.unity3d.com/threads/webgl-roadmap.334408/). Unity3D.com. Retrieved 2015-08-13.
-
 36. ["The Good, The Bad and the WebGL-y"](http://benchung.com/good-bad-webgl-y/) . benchung.com. Retrieved 2015-06-19.
-
 37. ["Что выбрать для 3D сайта – Three.js или Blend4Web?"](http://habrahabr.ru/post/262749/). Habrahabr.ru. Retrieved 2015-07-17.
-
 38. ["New Online Exploring Tools Bring NASA's Journey to Mars to New Generation"](http://www.nasa.gov/press-release/new-online-exploring-tools-bring-nasas-journey-to-mars-to-new-generation). NASA. Retrieved 2015-08-07.
-
 39. ["Experience Curiosity"](http://eyes.nasa.gov/curiosity/). NASA's Eyes. Retrieved 2015-08-07.
-
 40. ["Prenez le controle de Curiosity avec Blend4Web"](http://www.benicourt.com/blender/2015/09/prenez-le-controle-de-curiosity-avec-blend4web/). Greg G.d.Bénicourt. Retrieved 2015-09-16.
-
 41. ["Internet 3D: Take the Curiosity Rover for a Spin Right on the NASA Website"](http://www.technology.org/2015/08/11/internet-3d-take-the-curiosity-rover-for-a-spin-right-on-the-nasa-website/). Technology.Org. Retrieved 2015-08-12.
-
 42. ["Khronos Events - 2015 SIGGRAPH"](https://www.khronos.org/news/events/2015-siggraph). Khronos. Retrieved2015-08-13.
-
 43. ["Season's Greetings 2016"](http://www.3ds.com/ecards-2016/) . Dassault Systèmes. Retrieved2016-09-14.
-
 44. ["Чистая мода - Гринпис России"](http://www.greenpeace.org/russia/ru/campaigns/water-pollution/detox/). Greenpeace. Retrieved2016-09-14.
-
 45. ["Megastar 3D Experience"](http://megastar.tallink.com/3d-experience/). Tallink. Retrieved 2016-09-14.

@@ -1,4 +1,4 @@
-**Ami**（），是[日本](../Page/日本.md "wikilink")的[歌手](../Page/歌手.md "wikilink")，[大阪出身](https://zh.wikipedia.org/wiki/大阪 "wikilink")，身高164公分。為[Dream](https://zh.wikipedia.org/wiki/Dream "wikilink")、[E-girls的成員](https://zh.wikipedia.org/wiki/E-girls "wikilink")（E-girls 主唱、Dream隊長）。所屬唱片公司為avex trax，rhythm zone，所屬經紀公司為[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")。2015年以“Dream Ami”的名義單獨出道，推出首張個人專輯。
+**Ami**（），是[日本](../Page/日本.md "wikilink")的[歌手](../Page/歌手.md "wikilink")，[大阪出身](https://zh.wikipedia.org/wiki/大阪 "wikilink")，身高164公分。為[Dream](../Page/Dream_\(日本音樂團體\).md "wikilink")、[E-girls的成員](https://zh.wikipedia.org/wiki/E-girls "wikilink")（E-girls 主唱、Dream隊長）。所屬唱片公司為avex trax，rhythm zone，所屬經紀公司為[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")。2015年以“Dream Ami”的名義單獨出道，推出首張個人專輯。
 
 ## 經歷
 

@@ -117,12 +117,8 @@
 [Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:PlayStation_Vita独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita独占游戏 "wikilink") [Category:少女遊戲](https://zh.wikipedia.org/wiki/Category:少女遊戲 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.  [官方介紹](http://www.otomate.jp/yunohana_spring/story/)
-
 6.

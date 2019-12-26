@@ -384,44 +384,27 @@
 [Category:文明系列电子游戏](https://zh.wikipedia.org/wiki/Category:文明系列电子游戏 "wikilink") [Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink") [Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink") [Category:MacOS游戏](https://zh.wikipedia.org/wiki/Category:MacOS游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:IPad遊戲](https://zh.wikipedia.org/wiki/Category:IPad遊戲 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:官方中文配音游戏](https://zh.wikipedia.org/wiki/Category:官方中文配音游戏 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12. [文明6中国造不造奇观 奇观误国讨论_安游在线](http://www.ahgame.com/wenming6/74873/)奇迹误国文明六的微博
-
 13. 首次出現之雙文明領袖
-
 14.
-
 15.
-
 16.
 17.
-
 18.
-
 19.
 20.
-
 21.
 22.
 23.
-
 24.
-
 25.

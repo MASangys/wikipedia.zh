@@ -219,7 +219,7 @@
 
 ## 爭議
 
-2016年7月18日韓國女[聲優](../Page/聲優.md "wikilink")在[推特發布一張穿著](https://zh.wikipedia.org/wiki/推特 "wikilink")「Girls Do Not Need a Prince（女孩不需要王子）」文字的[T恤](../Page/T恤.md "wikilink")後，很快的被Nexon解雇\[67\]。但根據[BBC News報導](https://zh.wikipedia.org/wiki/BBC_News "wikilink")\[68\]，這件T恤是由韓國具有爭議性的極端女權組織所售賣。
+2016年7月18日韓國女[聲優](../Page/聲優.md "wikilink")在[推特發布一張穿著](https://zh.wikipedia.org/wiki/推特 "wikilink")「Girls Do Not Need a Prince（女孩不需要王子）」文字的[T恤](../Page/T恤.md "wikilink")後，很快的被Nexon解雇\[67\]。但根據[BBC News報導](https://zh.wikipedia.org/wiki/BBC_News "wikilink")\[68\]，這件T恤是由韓國具有爭議性的極端女權組織[Megalia所售賣](https://zh.wikipedia.org/wiki/Megalia "wikilink")。
 
 2017年5月11日，在台港澳地區新增的[泳裝](https://zh.wikipedia.org/wiki/泳裝 "wikilink")[虛擬抽獎](../Page/虛擬抽獎.md "wikilink")，因為要收集整套的難度過高引發眾多玩家不滿，營運商樂意傳播在隔日發起道歉公告\[69\]，並將該虛擬抽獎的商品改成商城販賣\[70\]。玩家向公共政策網路參與平臺提案，希望能改善對線上遊戲的法規\[71\]。
 
@@ -249,127 +249,75 @@ PCGamesN將遊戲列入PC上最佳的動漫遊戲\[72\]。越南媒體網站TCN�
 [Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink") [Category:大型多人在线游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线游戏 "wikilink") [Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:電子遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:電子遊戲改編動畫 "wikilink") [Category:纳克森游戏](https://zh.wikipedia.org/wiki/Category:纳克森游戏 "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
 6.
-
 7.
-
 8.
 9.
 10.
-
 11.
-
 12.
 13.
-
 14.
 15.
 16.
 17.
-
 18.
-
 19.
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
 26.
-
 27.
 28.
 29.
 30.
-
 31.
 32.
 33.
 34.
-
 35.
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68. [South Korea gaming: How a T-shirt cost an actress her job](https://www.bbc.com/news/world-asia-37018916). bbc.com/news. BBC News. 2016-08-15.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.

@@ -26,37 +26,33 @@
 （<a href="https://zh.wikipedia.org/wiki/Super_Girls" title="wikilink">Super Girls</a>）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/古家峯.md" title="wikilink">古家峯</a><br />
-（<a href="https://zh.wikipedia.org/wiki/星夢娛樂" title="wikilink">星夢娛樂唱片合約</a>）</p></td>
-</tr>
-<tr class="even">
 <td><p>One Cool Jam Cast 天下一將士藝人</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/余香凝.md" title="wikilink">余香凝</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>JamCast Management</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/蔡穎恩.md" title="wikilink">蔡穎恩</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/尹倩君" title="wikilink">尹倩君</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/黎學勤.md" title="wikilink">黎學勤</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/林隽健" title="wikilink">林隽健</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Nuno_Wong" title="wikilink">Nuno Wong</a></p></td>
 </tr>
 </tbody>
 </table>
 
-## 過往藝人
+## 過往藝人及模特兒
 
 | '''JamCast Management '''        |
 | -------------------------------- |
@@ -79,7 +75,7 @@
 [Category:娛樂公司](https://zh.wikipedia.org/wiki/Category:娛樂公司 "wikilink")
 
 1.  [人力管理及選角顧問](https://www.fso-createhk.gov.hk/tc/productiondirectory/artist)[創意香港](https://zh.wikipedia.org/wiki/創意香港 "wikilink")
-2.  [Evelyn & Anjaylia 捐二手衣物傳播愛心](http://news.singtao.ca/toronto/2015-08-06/entertainment1438836928d5712303.html)[星島日報](../Page/星島日報.md "wikilink") 2015年8月6日
+2.  [Evelyn & Anjaylia 捐二手衣物傳播愛心](http://news.singtao.ca/toronto/2015-08-06/entertainment1438836928d5712303.html) [星島日報](../Page/星島日報.md "wikilink") 2015年8月6日
 3.  [蔡穎恩陳嘉寶賣二手衫行善](http://hk.on.cc/hk/bkn/cnt/entertainment/20150806/bkn-20150806165555587-0806_00862_001.html)2015年8月6日 [on.cc](https://zh.wikipedia.org/wiki/on.cc "wikilink")
 4.  [Super Girls拒捐體味衫義賣](http://orientaldaily.on.cc/cnt/entertainment/20150724/00282_037.html?fb_ref=Default)[東方日報](https://zh.wikipedia.org/wiki/東方日報 "wikilink") 2015年7月24日
 5.  [SG食住上　勢衝擊紅館開騷](http://hk.on.cc/hk/bkn/cnt/entertainment/20160123/bkn-20160123070056511-0123_00862_001.html?eventsection=hk_entertainment&eventid=402882b04d9a08fe014dc8f26c45653f)[on.cc](https://zh.wikipedia.org/wiki/on.cc "wikilink") 2016年1月23日

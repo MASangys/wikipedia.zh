@@ -175,13 +175,13 @@ Naver V LIVE</p></td>
 <td></td>
 <td><p>《NCT 127 请指教JAPAN!》</p></td>
 <td><p>泰一、Johnny、泰容、悠太、<br />
-道英、在玹、Mark、廷祐</p></td>
+道英、在玹、Mark、廷祐、楷燦</p></td>
 <td><p>6</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年8月18日－9月24日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷</a></p></td>
-<td><p>《少年威計劃》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/少年威計劃" title="wikilink">少年威計劃</a>》</p></td>
 <td><p>錕、Ten、昀昀、Lucas、<br />
 肖俊、Hendery、揚揚</p></td>
 <td><p>12</p></td>
@@ -191,8 +191,24 @@ Naver V LIVE</p></td>
 <td></td>
 <td><p>《NCT 127 请指教JAPAN!》（第2季）</p></td>
 <td><p>泰一、Johnny、泰容、悠太、<br />
-道英、在玹、Mark、廷祐</p></td>
+道英、在玹、Mark、廷祐、楷燦</p></td>
 <td><p>6</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月28日</p></td>
+<td></td>
+<td><p>《!HOLA! EMA NCT 127》</p></td>
+<td><p>泰一、Johnny、泰容、悠太、<br />
+道英、在玹、Mark、楷燦</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年12月2日－</p></td>
+<td><p>KT Seezn<br />
+Naver V LIVE</p></td>
+<td><p>《NCT LIFE in 春川&amp;洪川》</p></td>
+<td><p>泰一、Johnny、悠太、道英、在玹、楷燦</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -269,7 +285,7 @@ Jeno、楷燦、渽民、辰樂、志晟</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2018年11月21日－至今</p></td>
+<td><p>2017年9月14日－至今</p></td>
 <td><p>《Johnny's Communication Center（JCC）》</p></td>
 <td><p>Johnny</p></td>
 <td></td>
@@ -305,16 +321,16 @@ Jeno、楷燦、渽民、辰樂、志晟</p></td>
 肖俊、Hendery、揚揚</p></td>
 </tr>
 <tr class="odd">
-<td><p>2019年4月25日－至今</p></td>
+<td><p>2019年4月25日－2019年7月11日</p></td>
 <td><p>YouTube</p></td>
 <td><p>《NCT 127 HIT THE STATES》</p></td>
 <td><p>泰一、Johnny、泰容、悠太、<br />
 道英、在玹、廷祐、Mark、楷燦</p></td>
 </tr>
 <tr class="even">
-<td><p>2019年3月18日－至今</p></td>
+<td><p>2019年3月18日－2019年6月3日</p></td>
 <td><p>《J♥SMR》</p></td>
-<td><p>Jeno</p></td>
+<td><p>仁俊、Jeno、渽民、辰樂、志晟</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -394,7 +410,7 @@ Jeno、东赫、渽民、志晟</p></td>
 <tr class="even">
 <td><p>2015年7月23日－12月17日</p></td>
 <td><p><a href="../Page/迪士尼頻道.md" title="wikilink">Disney Channel</a></p></td>
-<td><p>《The Mickey Mouse Club 》</p></td>
+<td><p>《The Mickey Mouse Club》</p></td>
 <td><p>Mark、Jeno、东赫、<br />
 渽民、志晟</p></td>
 <td></td>
@@ -542,7 +558,7 @@ Jeno、东赫、渽民、志晟</p></td>
 <td><p>第1-6期</p></td>
 </tr>
 <tr class="odd">
-<td><p>2019年</p></td>
+<td><p>2019年11月2日－</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS株式会社" title="wikilink">SBS</a></p></td>
 <td><p>《<a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a>》</p></td>
 <td><p>道英</p></td>
@@ -719,10 +735,25 @@ Jeno、东赫、渽民、志晟</p></td>
 <td><p>9月28日</p></td>
 </tr>
 <tr class="even">
-<td><p>10月12日</p></td>
+<td><p>10月7日</p></td>
 </tr>
 <tr class="odd">
+<td><p>10月12日</p></td>
+</tr>
+<tr class="even">
 <td><p>10月19日</p></td>
+</tr>
+<tr class="odd">
+<td><p>11月17日</p></td>
+</tr>
+<tr class="even">
+<td><p>11月19日</p></td>
+</tr>
+<tr class="odd">
+<td><p>11月22日</p></td>
+</tr>
+<tr class="even">
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -888,7 +919,7 @@ Jeno、东赫、渽民、志晟</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2018年5月22日－至今</p></td>
+<td><p>2018年5月22日－2019年11月26日</p></td>
 <td></td>
 <td><p>《<a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a>》</p></td>
 <td><p>Jeno</p></td>
@@ -935,6 +966,14 @@ Jeno、东赫、渽民、志晟</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/珉奎" title="wikilink">珉奎</a>、<a href="../Page/林智敏.md" title="wikilink">林智敏</a></p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年10月20日－至今</p></td>
+<td><p>在玹</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">玟赫</a>、<a href="../Page/李娜恩_(APRIL).md" title="wikilink">娜恩</a></p></td>
+<td><p>固定MC</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -956,6 +995,8 @@ Jeno、东赫、渽民、志晟</p></td>
 | 2019年6月15日  | 2019 安東韓流演唱會                                          |           |      |
 | 2019年9月1日   | 2019 浦項韓流演唱會                                          | Jeno、辰樂   |      |
 | 2019年9月22日  | 第12届 KMF 2019 in Tokyo                                | Jeno、渽民   |      |
+| 2019年10月5日  | 2019 光阳韩流超级演唱会                                        | Jeno、渽民   |      |
+| 2019年10月6日  | Super SBS Concert In Incheon 2019                     | Jeno      | 特别MC |
 |             |                                                       |           |      |
 
 ## 廣播電台
@@ -1002,14 +1043,14 @@ Jeno、东赫、渽民、志晟</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2019年8月5日－9月30日</p></td>
+<td><p>2019年8月5日－9月27日</p></td>
 <td></td>
 <td><p>《樂動首爾》</p></td>
 <td><p>仁俊</p></td>
 <td><p>特别DJ</p></td>
 </tr>
 <tr class="even">
-<td><p>2019年10月1日－至今</p></td>
+<td><p>2019年9月30日－至今</p></td>
 <td><p>固定DJ</p></td>
 <td></td>
 <td></td>
@@ -2528,7 +2569,7 @@ Jeno、东赫、渽民、志晟</p></td>
 <tr class="even">
 <td><p>4月18日</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=1CYH4F1KCw8&amp;t=1s">Black on Black</a></p></td>
-<td><p>NCT</p></td>
+<td><p>NCT 2018</p></td>
 <td><p>泰一、Johnny、泰容、悠太、Kun、道英、Ten、在玹、昀昀、廷祐、Lucas、Mark、仁俊、Jeno、楷燦、渽民、辰樂、志晟</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=tOpTQ3Fuf9s">Dance Practice</a></p></td>
 <td></td>
@@ -2660,7 +2701,7 @@ Jeno、东赫、渽民、志晟</p></td>
 </tbody>
 </table>
 
-### [SM STATIONMV](../Page/SM_STATION.md "wikilink")
+### [SM STATION](../Page/SM_STATION.md "wikilink") MV
 
 <table>
 <thead>
@@ -2769,7 +2810,7 @@ Jeno、东赫、渽民、志晟</p></td>
 <tr class="even">
 <td><p>12月15日</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=VMMl0DopcdM">Joy</a></p></td>
-<td><p>NCT Dream</p></td>
+<td><p>NCT Dream（缺渽民）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2817,9 +2858,16 @@ Jeno、东赫、渽民、志晟</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
+<td><p>6月6日</p></td>
+<td><p>Don't Need Your Love</p></td>
+<td><p>NCT Dream（缺楷燦）</p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/Hrvy" title="wikilink">Hrvy合唱</a></p></td>
+</tr>
+<tr class="even">
 <td><p>7月18日</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=SvV49SD99DY">Long Flight</a></p></td>
 <td><p>泰容</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -3322,6 +3370,13 @@ Jeno、东赫、渽民、志晟</p></td>
 <td><p>泰容</p></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月號</p></td>
+<td><p>Chicteen</p></td>
+<td><p>中国</p></td>
+<td><p>NCT Dream</p></td>
 <td></td>
 </tr>
 </tbody>

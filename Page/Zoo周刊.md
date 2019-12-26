@@ -12,7 +12,7 @@
   - [澳洲版](https://web.archive.org/web/20070225161924/http://www.zooweekly.com.au/)
   - [Stealing content](http://www.journalism.co.uk/news/story3385.shtml)
 
-[Category:英國雜誌](https://zh.wikipedia.org/wiki/Category:英國雜誌 "wikilink") [Category:2004年創建的雜誌](https://zh.wikipedia.org/wiki/Category:2004年創建的雜誌 "wikilink") [Category:2015年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2015年停刊的雜誌 "wikilink") [Category:2004年英國建立](https://zh.wikipedia.org/wiki/Category:2004年英國建立 "wikilink")
+[Category:英國周刊](https://zh.wikipedia.org/wiki/Category:英國周刊 "wikilink") [Category:2004年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:2004年創辦的雜誌 "wikilink") [Category:2015年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2015年停刊的雜誌 "wikilink") [Category:2004年英國建立](https://zh.wikipedia.org/wiki/Category:2004年英國建立 "wikilink")
 
 1.
 2.

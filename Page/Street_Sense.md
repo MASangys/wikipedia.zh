@@ -59,19 +59,14 @@
 <!-- end list -->
 
 1.
-
 2.  <http://www.thehilltoponline.com/homeless-show-community-street-sense-1.1713491>
-
 3.
 4.  [Keiper, Caitrin Nicol. Nonprofit Spotlight: Street Sense. Philanthropy Magazine. Spring 2014.](http://www.philanthropyroundtable.org/topic/excellence_in_philanthropy/nonprofit_spotlight_street_sense)
-
 5.
 6.
 7.
-
 8.
 9.
 10.
-
 11.
 12.

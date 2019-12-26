@@ -24,23 +24,16 @@ LynxOS在1988年开始支持80386。之后支持被扩展到PowerPC和ARM\[12\]�
 [Category:实时操作系统](https://zh.wikipedia.org/wiki/Category:实时操作系统 "wikilink") [Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink") [Category:嵌入式操作系统](https://zh.wikipedia.org/wiki/Category:嵌入式操作系统 "wikilink") [Category:嵌入式Linux](https://zh.wikipedia.org/wiki/Category:嵌入式Linux "wikilink")
 
 1.  [Real Time Operation System - Lynx Software Technology](http://www.lynx.com/products/real-time-operating-systems/)
-
 2.  [The Navy’s newest warship is powered by Linux](http://arstechnica.com/information-technology/2013/10/the-navys-newest-warship-is-powered-by-linux/)
-
 3.  [美国F-35战斗机将采用Linux兼容操作系统](http://tech.sina.com.cn/it/2006-05-19/0047945143.shtml)
-
 4.  [Lynx Software Technologies Announces Security Product Support for New ARM-based IoT Designs](http://www.lynx.com/lynx-software-technologies-announces-security-product-support-for-new-arm-based-iot-designs/)
-
 5.  [LynxOS RTOS](http://www.lynx.com/products/real-time-operating-systems/lynxos-rtos/)
-
 6.
 7.
 8.  [LynxOS-178|AdaCore](http://www.adacore.com/gnatpro/embedded/lynxos-178)
-
 9.
 10.
 11. [LynxOS-178 Product Brief](http://www.ec66.com/downloadtemp_2/LynxOS-178jieshao.pdf)
-
 12.
 13.
 14.

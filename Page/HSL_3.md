@@ -21,6 +21,5 @@
 [Category:比利時鐵路](https://zh.wikipedia.org/wiki/Category:比利時鐵路 "wikilink")
 
 1.  [Line 3 completes high speed network](http://www.railwaygazette.com/news/single-view/view//line-3-completes-high-speed-network.html) , [Railway Gazette International](https://zh.wikipedia.org/wiki/Railway_Gazette_International "wikilink") 2009-06-15
-
 2.
 3.

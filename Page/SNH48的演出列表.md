@@ -36,8 +36,9 @@
 | 待播出   | [小夜曲](https://zh.wikipedia.org/wiki/小夜曲_\(電視劇\) "wikilink")             | 黄婷婷、林思意、谢蕾蕾（GNZ48）、吴哲晗、张语格、姜杉、徐子轩、孙珍妮 | 电视剧   |  |       |                                                                     |     |     |
 | 待播出   | [鬼吹灯](https://zh.wikipedia.org/wiki/鬼吹灯 "wikilink")                     | 李艺彤                                   |       |  |       |                                                                     |     |     |
 | 待播出   | [美人暮白首](https://zh.wikipedia.org/wiki/美人暮白首 "wikilink")                 | 李艺彤                                   |       |  |       |                                                                     |     |     |
-| 待播出   | [云上学堂](https://zh.wikipedia.org/wiki/云上学堂 "wikilink")                   | 鞠婧祎                                   |       |  |       |                                                                     |     |     |
+| 待播出   | [云上恋歌](https://zh.wikipedia.org/wiki/云上恋歌 "wikilink")                   | 鞠婧祎                                   |       |  |       |                                                                     |     |     |
 | 待播出   | [如意芳霏](https://zh.wikipedia.org/wiki/如意芳霏 "wikilink")                   | 鞠婧祎、许佳琪、郑丹妮（GNZ48）                    |       |  |       |                                                                     |     |     |
+| 待播出   | [十国千娇](https://zh.wikipedia.org/wiki/十国千娇 "wikilink")                   | 李艺彤、赵佳蕊、胡晓慧（BEJ48)、张茜、林思意（客串）         | 电视剧   |  |       |                                                                     |     |     |
 
 ### 电影
 
@@ -53,32 +54,31 @@
 | 待播出   | [失控·幽靈飛車](../Page/失控·幽靈飛車.md "wikilink")                      | 費沁源        |      |
 | 待播出   | [食神归来](https://zh.wikipedia.org/wiki/食神归来 "wikilink")         | 林思意        |      |
 | 待播出   | [三色镯：破谜重生](https://zh.wikipedia.org/wiki/三色镯：破谜重生 "wikilink") | 林思意        |      |
-|       |                                                               |            |      |
+| 待播出   | [狐女小翠](https://zh.wikipedia.org/wiki/狐女小翠 "wikilink")         | 黄婷婷        |      |
 
 ### 网络电影
 
-| 上映時間  | 中文名称                                                                | 演出成員                        | 备注  |
-| ----- | ------------------------------------------------------------------- | --------------------------- | --- |
-| 2013年 | [夢想預備生之半熟少女](https://zh.wikipedia.org/wiki/夢想預備生之半熟少女 "wikilink")   | 汤敏、赵嘉敏、董芷依、蒋羽熙等             |     |
-| 2015年 | [魔天劫](https://zh.wikipedia.org/wiki/魔天劫 "wikilink")                 | 赵嘉敏、鞠婧祎、吴哲晗、许佳琪、邱欣怡、万丽娜、钱蓓婷 | 微電影 |
-| 2016年 | [紀念品](../Page/紀念品.md "wikilink")                                    | 张语格、黄婷婷、孔肖吟、邱欣怡、冯薪朵         | 微電影 |
-| 2017年 | [十全九美之真爱无双](https://zh.wikipedia.org/wiki/十全九美之真爱无双 "wikilink")     | 张语格、青钰雯、胡博文、陈美君、闫明筠         |     |
-| 2017年 | [見習愛神](https://zh.wikipedia.org/wiki/見習愛神_\(電影\) "wikilink")        | 龔詩淇、孫珍妮、張怡                  |     |
-| 2018年 | [倔强甜心](https://zh.wikipedia.org/wiki/倔强甜心 "wikilink")               | 莫寒、刘炅然、郝婉晴                  |     |
-| 2018年 | [狄大人驾到](https://zh.wikipedia.org/wiki/狄大人驾到 "wikilink")             | 陆婷、刘姝贤、郑丹妮、韩家乐、陈美君、谢蕾蕾      |     |
-| 2018年 | [少女侦探社](https://zh.wikipedia.org/wiki/少女侦探社 "wikilink")             | 戴萌、李梓、刘力菲                   |     |
-| 2018年 | [深宫蜜语](https://zh.wikipedia.org/wiki/深宫蜜语 "wikilink")               | 曾艳芬                         |     |
-| 2018年 | [拯救悟空](https://zh.wikipedia.org/wiki/拯救悟空 "wikilink")               | 万丽娜、冯薪朵                     |     |
-| 2019年 | [西游传奇之宝象国斗神纪](https://zh.wikipedia.org/wiki/西游传奇之宝象国斗神纪 "wikilink") | 蒋芸、冯薪朵                      |     |
-| 2019年 | [萌妹特攻队](https://zh.wikipedia.org/wiki/萌妹特攻队 "wikilink")             | 许佳琪、谢蕾蕾、李梓、姜杉               |     |
-| 2019年 | [仙游记](https://zh.wikipedia.org/wiki/仙游记 "wikilink")                 | 万丽娜、费沁源、於佳怡、陈珂、王诗蒙、菅瑞静      |     |
-| 2019年 | [夜蝶](https://zh.wikipedia.org/wiki/夜蝶 "wikilink")                   | 孔肖吟、吴哲晗                     |     |
-| 待播出   | [女尊三国](https://zh.wikipedia.org/wiki/女尊三国 "wikilink")               | 陆婷、费沁源、张雅梦、谢天依              |     |
-| 待播出   | [荣耀上海滩](https://zh.wikipedia.org/wiki/荣耀上海滩 "wikilink")             | 陆婷、蒋芸                       |     |
-| 待播出   | [白蛇传奇之大话许仙](https://zh.wikipedia.org/wiki/白蛇传奇之大话许仙 "wikilink")     | 冯薪朵、蒋芸、徐诗琪                  |     |
-| 待播出   | [保龙一族之五音镇魔曲](https://zh.wikipedia.org/wiki/保龙一族之五音镇魔曲 "wikilink")   | 莫寒                          |     |
-| 待播出   | [电击少女](https://zh.wikipedia.org/wiki/电击少女 "wikilink")               | 姜杉                          |     |
-|       |                                                                     |                             |     |
+| 上映時間  | 中文名称                                                                | 演出成員                                        | 备注  |
+| ----- | ------------------------------------------------------------------- | ------------------------------------------- | --- |
+| 2013年 | [夢想預備生之半熟少女](https://zh.wikipedia.org/wiki/夢想預備生之半熟少女 "wikilink")   | 汤敏、赵嘉敏、董芷依、蒋羽熙等                             |     |
+| 2015年 | [魔天劫](https://zh.wikipedia.org/wiki/魔天劫 "wikilink")                 | 赵嘉敏、鞠婧祎、吴哲晗、许佳琪、邱欣怡、万丽娜、钱蓓婷                 | 微電影 |
+| 2016年 | [紀念品](../Page/紀念品.md "wikilink")                                    | 张语格、黄婷婷、孔肖吟、邱欣怡、冯薪朵                         | 微電影 |
+| 2017年 | [十全九美之真爱无双](https://zh.wikipedia.org/wiki/十全九美之真爱无双 "wikilink")     | 张语格、青钰雯、胡博文、陈美君、闫明筠                         |     |
+| 2017年 | [見習愛神](https://zh.wikipedia.org/wiki/見習愛神_\(電影\) "wikilink")        | 龔詩淇、孫珍妮、張怡                                  |     |
+| 2018年 | [倔强甜心](https://zh.wikipedia.org/wiki/倔强甜心 "wikilink")               | 莫寒、刘炅然、郝婉晴                                  |     |
+| 2018年 | [狄大人驾到](https://zh.wikipedia.org/wiki/狄大人驾到 "wikilink")             | 陆婷、刘姝贤、郑丹妮、韩家乐、陈美君、谢蕾蕾                      |     |
+| 2018年 | [少女侦探社](https://zh.wikipedia.org/wiki/少女侦探社 "wikilink")             | 戴萌、李梓、刘力菲                                   |     |
+| 2018年 | [深宫蜜语](https://zh.wikipedia.org/wiki/深宫蜜语 "wikilink")               | 曾艳芬                                         |     |
+| 2018年 | [拯救悟空](https://zh.wikipedia.org/wiki/拯救悟空 "wikilink")               | 万丽娜、冯薪朵                                     |     |
+| 2019年 | [西游传奇之宝象国斗神纪](https://zh.wikipedia.org/wiki/西游传奇之宝象国斗神纪 "wikilink") | 蒋芸、冯薪朵                                      |     |
+| 2019年 | [萌妹特攻队](https://zh.wikipedia.org/wiki/萌妹特攻队 "wikilink")             | 许佳琪、谢蕾蕾（GNZ48）、李梓（BEJ48）、姜杉                 |     |
+| 2019年 | [仙游记](https://zh.wikipedia.org/wiki/仙游记 "wikilink")                 | 万丽娜、费沁源、於佳怡、陈珂（GNZ48)、王诗蒙（SHY48）、菅瑞静（SHY48） |     |
+| 2019年 | [夜蝶](https://zh.wikipedia.org/wiki/夜蝶 "wikilink")                   | 孔肖吟、吴哲晗                                     |     |
+| 待播出   | [女尊三国](https://zh.wikipedia.org/wiki/女尊三国 "wikilink")               | 陆婷、费沁源、张雅梦、谢天依                              |     |
+| 待播出   | [荣耀上海滩](https://zh.wikipedia.org/wiki/荣耀上海滩 "wikilink")             | 陆婷、蒋芸                                       |     |
+| 待播出   | [白蛇传奇之大话许仙](https://zh.wikipedia.org/wiki/白蛇传奇之大话许仙 "wikilink")     | 冯薪朵、蒋芸、徐诗琪                                  |     |
+| 待播出   | [保龙一族之五音镇魔曲](https://zh.wikipedia.org/wiki/保龙一族之五音镇魔曲 "wikilink")   | 莫寒                                          |     |
+| 待播出   | [电击少女](https://zh.wikipedia.org/wiki/电击少女 "wikilink")               | 姜杉                                          |     |
 
 ## 舞台剧
 

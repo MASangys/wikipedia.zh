@@ -2,10 +2,7 @@
 
 local CONFIG_MODULE = 'Module:Submit an edit request/config'
 
-\-- Load necessary modules local mRedirect = require('Module:Redirect')
-local cfg = mw.loadData(CONFIG_MODULE) local effectiveProtectionLevel =
-require('Module:Effective protection level')._main local lang =
-mw.language.getContentLanguage()
+\-- Load necessary modules local mRedirect = require('Module:Redirect') local cfg = mw.loadData(CONFIG_MODULE) local effectiveProtectionLevel = require('Module:Effective protection level')._main local lang = mw.language.getContentLanguage()
 
 local p = {}
 
@@ -87,7 +84,7 @@ function p.makeRequestUrl(level, titleObj)
 `   url = tostring(url)`
 
 `   -- Add the preload parameters. @TODO: merge this into the mw.uri.fullUrl`
-`   -- query table once `[`phab:T93059`](../Page/phab:T93059.md "wikilink")` is fixed.`
+`   -- query table once `[`phab:T93059`](https://zh.wikipedia.org/wiki/phab:T93059 "wikilink")` is fixed.`
 `   local function encodeParam(key, val)`
 `       return string.format('&%s=%s', mw.uri.encode(key), mw.uri.encode(val))`
 `   end`
@@ -131,8 +128,6 @@ local function makeInvokeFunc(func, wrapper)
 
 end
 
-p.link = makeInvokeFunc(p._link, message('link-wrapper-template'))
-p.button = makeInvokeFunc(p._button,
-message('button-wrapper-template'))
+p.link = makeInvokeFunc(p._link, message('link-wrapper-template')) p.button = makeInvokeFunc(p._button, message('button-wrapper-template'))
 
 return p

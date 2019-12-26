@@ -1,4 +1,4 @@
-**黑內爾RS9**（）是一枝由[德国](../Page/德国.md "wikilink")槍械製造商以其原型槍[黑內爾RS8為藍本而研製及生產的](https://zh.wikipedia.org/wiki/黑內爾RS8狙擊步槍 "wikilink")[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")，發射[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")（8.58×70毫米）[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。被[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")的[特种部队指挥部和](https://zh.wikipedia.org/wiki/特种部队指挥部 "wikilink")所採用作為取代[G22](../Page/精密國際AWM狙擊步槍.md "wikilink")（精密國際AWM [.300 Winchester Magnum](../Page/.300溫徹斯特麥格農.md "wikilink")）的中程狙擊步槍並且命名為**G29**。\[1\]
+**黑內爾RS9**（）是一款由[德国](../Page/德国.md "wikilink")槍械製造商以其原型槍[黑內爾RS8為藍本而研製及生產的](https://zh.wikipedia.org/wiki/黑內爾RS8狙擊步槍 "wikilink")[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")，發射[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")（8.58×70毫米）[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。被[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")的[特种部队指挥部和](https://zh.wikipedia.org/wiki/特种部队指挥部 "wikilink")所採用作為取代[G22](../Page/精密國際AWM狙擊步槍.md "wikilink")（精密國際AWM [.300 Winchester Magnum](../Page/.300溫徹斯特麥格農.md "wikilink")）的中程狙擊步槍並且命名為**G29**。\[1\]
 
 ## 歷史
 
@@ -72,16 +72,11 @@
 [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:.338_Lapua_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.338_Lapua_Magnum口徑槍械 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.
-
 8.
 9.

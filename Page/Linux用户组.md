@@ -47,7 +47,7 @@ Linux用户组通常每月举行聚会。聚会通常位于大学、学院、社
 ## 外部链接
 
   - [China GNU/Linux User Group list](https://lug.org.cn)
-  - [Linux User Groups list](http://lugslist.com)
+  - [Linux User Groups list](https://web.archive.org/web/20181204135344/http://lugslist.com/)
   - [DMOZ Linux User Groups list](https://web.archive.org/web/20160325173425/https://www.dmoz.org/Computers/Software/Operating_Systems/Linux/User_Groups/)
   - [Linux User Groups List (Léa-Linux)](http://lea-linux.org/documentations/Annuaire:Communaut%C3%A9) (text is in French)
   - [UK Linux User Groups List](http://lug.org.uk)

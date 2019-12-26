@@ -1,5 +1,7 @@
 **兄弟本色G.U.T.S.**，來自[臺灣](../Page/臺灣.md "wikilink")[饒舌](../Page/饒舌.md "wikilink")團體，其中成員為創作歌手[張震嶽](https://zh.wikipedia.org/wiki/張震嶽 "wikilink")、饒舌歌手[熱狗](../Page/MC_HotDog.md "wikilink")（MC HotDog）、饒舌團體[頑童MJ116](../Page/頑童MJ116.md "wikilink")（簡稱「頑童」，成員「瘦子」陳昱榕、「小春」周文傑、 「大淵」林睦淵）等五人。
 
+## 簡介
+
 [張震嶽與](https://zh.wikipedia.org/wiki/張震嶽 "wikilink")[熱狗本為好友](../Page/MC_HotDog.md "wikilink")，在[熱狗進軍演藝圈時](../Page/MC_HotDog.md "wikilink")，已經是知名歌手的張震嶽親自開車到每一家熟識的電臺送宣傳唱片，甚至還親自拜訪各大[夜店](https://zh.wikipedia.org/wiki/夜店 "wikilink")，拜託店方播放熱狗的新歌，而後張震嶽與熱狗以一曲《我愛臺妹》，轟動全臺。而後，熱狗也幫助與自己同門的饒舌團體「頑童」爭取知名度，當時因另外兩名團員服[兵役的關係](https://zh.wikipedia.org/wiki/兵役 "wikilink")，只剩下大淵一人，熱狗就帶著大淵一起演出。五人以後也常常一起演出，並稱這個新團體為「兄弟本色」，成為現今台灣最紅的饒舌團體之一。
 
 2015年7月10日，[張震嶽](https://zh.wikipedia.org/wiki/張震嶽 "wikilink")、[熱狗](../Page/MC_HotDog.md "wikilink")、「瘦子」、小春、大淵等五人，在[中國](../Page/中國.md "wikilink")[北京正式宣布組成團體](https://zh.wikipedia.org/wiki/北京 "wikilink")，定名為「[兄弟本色](https://zh.wikipedia.org/wiki/兄弟本色 "wikilink")」，以一曲俗稱「這樣太危險」的主打歌《Fly Out》爆紅，讓唱片公司下定決心為他們舉辦一次世界巡迴演唱會，即「兄弟本色日落黑趴世界巡迴演唱會」，巡迴了美國洛城、紐約、英國倫敦、廣州、天津、上海、武漢、 北京 、[臺北小巨蛋](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")。

@@ -1167,123 +1167,69 @@ F30的所有发动机均满足[欧洲五号排放标准和](../Page/欧洲汽车
 [Category:中型車](https://zh.wikipedia.org/wiki/Category:中型車 "wikilink") [Category:BMW車輛](https://zh.wikipedia.org/wiki/Category:BMW車輛 "wikilink") [Category:旅行車](https://zh.wikipedia.org/wiki/Category:旅行車 "wikilink") [Category:2011年面世的汽車](https://zh.wikipedia.org/wiki/Category:2011年面世的汽車 "wikilink")
 
 1.
-
 2.  [BMW at the 82nd Geneva Motor Show 2012.](https://www.press.bmwgroup.com/pressclub/p/pcgl/pressDetail.html?title=bmw-at-the-82nd-geneva-motor-show-2012&outputChannelId=6&id=T0124839EN&left_menu_item=node__2230)
-
 3.
-
 4.  [BMW at the 21st Auto Mobil International Leipzig 2012.](https://www.press.bmwgroup.com/pressclub/p/pcgl/pressDetail.html?title=bmw-at-the-21st-auto-mobil-international-leipzig-2012&outputChannelId=6&id=T0126898EN&left_menu_item=node__2231)
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16.
 17.
 18.
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
 28. 双涡轮增压器 （双涡管单涡轮增压发动机）
-
 29.
 30. 取决于所选轮胎
-
 31.
 32. 由标配改装的轮胎：C
-
 33. 双涡轮增压器 （双涡管单涡轮增压发动机）
-
 34.
 35. 取决于所选轮胎
-
 36.
 37. 由标配改装的轮胎：C
-
 38.
-
 39. 取决于所选轮胎
-
 40.
 41. 带蓝效滤清器的为Euro 6；不含四轮驱动款
-
 42. 取决于所选轮胎
-
 43.
 44. 带蓝效滤清器的为Euro 6；不含四轮驱动款
-
 45. 由标配改装的轮胎：B
-
 46.
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63. [The new BMW 3 Series Gran Turismo.](https://www.press.bmwgroup.com/pressclub/p/pcgl/pressDetail.html?title=the-new-bmw-3-series-gran-turismo&outputChannelId=6&id=T0136657EN&left_menu_item=node__7908)
-
 64. [3 Series Sedan Li Specification Sheet 2014-05-15](http://www.bmw.com.cn/cn/en/newvehicles/3series/sedan/2011/showroom/features_specs/spec_sheet_li_pdf.html), abgerufen am 13. Juni 2014.
-
 65.
-
 66. 取决于所选轮胎
-
 67.

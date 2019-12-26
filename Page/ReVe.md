@@ -159,10 +159,10 @@ ReVe 是「Revelation 啟示」的意思，在法文中代表「Dream 夢」； 
 
 ## 參考資料
 
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
+[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:全民造星參賽者](https://zh.wikipedia.org/wiki/Category:全民造星參賽者 "wikilink")
 
 1.  [2016全新唱跳男子組合 REVE](http://www.billboardradiochina.com/story/2016-quan-xin-chang-tiao-nan-zi-zu-he-ReVe-zh_hk?language=zh_hk)
 2.  [﻿向韓國男團挑機 組合ReVe望做亞洲巨星](http://hd.stheadline.com/news/daily/ent/491433/)
-3.  [劉瑞祈韌帶撕裂ReVe面臨停工](http://orientaldaily.oriental.com.hk/cnt/entertainment/20160930/00282_044.html)
+3.
 4.  [ReVe - What? @ 2016/08/04 朗豪坊](http://www.youtube.com/watch?v=QBDanMjbdVY/)
 5.  [20161119 ReVe - “What?” 禁毒滅罪耀北區2016 @ 粉嶺遊樂場](http://www.youtube.com/watch?v=Z2wn_XmDINo/)

@@ -356,24 +356,17 @@ Hilltop Hoods曾在澳大利亚内部和全球巡回开过演唱会，并曾出�
 [Category:1991年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1991年成立的音樂團體 "wikilink") [Category:澳大利亚乐团](https://zh.wikipedia.org/wiki/Category:澳大利亚乐团 "wikilink")
 
 1.
-
 2.
 3.  Peak positions for releases in Australia:
-
 4.
-
 5.
-
 6.
 7.
 8.
 9.
 10.
-
 11.
-
 12.
-
 13.
 14.
 15.

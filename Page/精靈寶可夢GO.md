@@ -1,6 +1,8 @@
 ，是一款[基于位置服务的](https://zh.wikipedia.org/wiki/基于位置的服务 "wikilink")[增强现实类](https://zh.wikipedia.org/wiki/增强现实 "wikilink")[手机游戏](../Page/手机游戏.md "wikilink")，由[任天堂](../Page/任天堂.md "wikilink")公司、[精靈寶可夢公司授权](https://zh.wikipedia.org/wiki/精靈寶可夢_\(企業\) "wikilink")，[Niantic, Inc.负责开发和运营](https://zh.wikipedia.org/wiki/Niantic,_Inc. "wikilink")。于2016年7月起在[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")雙平台发布\[1\]。该游戏允许玩家以现实世界为平台，捕捉、战斗、训练和交易虚拟怪獸「[寶可夢](https://zh.wikipedia.org/wiki/寶可夢列表 "wikilink")」\[2\]。游戏将[免费发布](../Page/网络游戏免费模式.md "wikilink")，亦支持内购\[3\]。同该游戏同期发布的还有一部名为精灵宝-{}-可梦Go Plus的周边设备，利用[蓝牙连接手机](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")，在附近有精灵宝可梦时推送通知\[4\]。
 
-2016年3月4日，Niantic宣布在該月下旬将在日本独占进行内测，允许玩家在游戏正式发布前参与对游戏的改进\[5\]。4月7日，内测扩展到[澳洲和](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[新西兰](../Page/新西兰.md "wikilink")\[6\]。5月16日，针对美国开放内测申请\[7\]\[8\]。2016年7月6日在[澳大利亚](../Page/澳大利亚.md "wikilink")和[新西兰](../Page/新西兰.md "wikilink")发行、7日在美国发行。游戏发布后，[任天堂](../Page/任天堂.md "wikilink")的股票价格在一天内暴涨9%\[9\]。任天堂在東京交易所的股價，兩週內急漲100%；遊戲發布前的7月6日收盤價14380日圓，到了7月19日股價上漲突破了3萬日圓\[10\]。，游戏的下载量在全球范围内已超过1亿次\[11\]。於2016年12月12日開放部分第二世代寶可夢\[12\]\[13\]，於2017年2月17日開放大多數第二世代寶可夢\[14\]，於2017年6月20日更改道館對戰機制並推出團體戰\[15\]，於2017年10月19日陸續推出第三世代寶可夢，於2018年3月20日新增田野任務\[16\]，於2018年6月18日開放交換寶可夢和朋友互贈禮物功能\[17\]。於2018年10月16日晚間開放第四世代寶可夢后，并于2019年即将開放部分第五时代寶可夢。
+精灵宝可梦在中国大陆进行[锁区](https://zh.wikipedia.org/wiki/锁区 "wikilink")，中国玩家不管采取任何方式都无法游戏，这招来了一些玩家的不满。部分中国玩家要求官方解除锁区， 让中国玩家参与到这个游戏中来。
+
+2016年3月4日，Niantic宣布在該月下旬将在日本独占进行内测，允许玩家在游戏正式发布前参与对游戏的改进\[5\]。4月7日，内测扩展到[澳洲和](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[新西兰](../Page/新西兰.md "wikilink")\[6\]。5月16日，针对美国开放内测申请\[7\]\[8\]。2016年7月6日在[澳大利亚](../Page/澳大利亚.md "wikilink")和[新西兰](../Page/新西兰.md "wikilink")发行、7日在美国发行。游戏发布后，[任天堂](../Page/任天堂.md "wikilink")的股票价格在一天内暴涨9%\[9\]。任天堂在東京交易所的股價，兩週內急漲100%；遊戲發布前的7月6日收盤價14380日圓，到了7月19日股價上漲突破了3萬日圓\[10\]。，游戏的下载量在全球范围内已超过1亿次\[11\]。於2016年12月12日開放部分第二世代（城都地區）寶可夢\[12\]\[13\]，於2017年2月17日開放大多數第二世代寶可夢\[14\]，於2017年6月20日更改道館對戰機制並推出團體戰\[15\]，於2017年10月19日陸續推出第三世代（豐緣地區）寶可夢，於2018年3月20日新增田野調查任務\[16\]，於2018年6月18日開放交換寶可夢和朋友互贈禮物功能\[17\]。於2018年10月16日晚間開放第四世代（神奧地區）寶可夢后，并于2019年開放部分第五世代（合眾地區）部分寶可夢。
 
 精靈寶可夢GO亦成為《Google 2016年度搜尋排行榜》香港熱爆關鍵字組別的第一位\[18\]。
 
@@ -28,15 +30,15 @@
 
 在2017年6月19日的更新中，遊戲加入了”團體戰”(Raid Battles)系統。團體戰開始前, 道館上方將會出現一顆蛋。當倒數計數結束後，「頭目寶可夢」就會從中出現。玩家可透過道館轉盤取得免費團體戰入場券，背包內只能有一張且不可丟棄和囤積， 每日只可取得一張。特級團體戰入場券則需要金幣購買且可囤積。使用入場券進入團體戰後，便可以挑戰頭目寶可夢，一場參與人數最多可達20人，5級以上玩家皆可參與。團體戰的難度依序分成五種等級，最高難度為傳說級(Legendary)。2017年7月25日第一隻傳說級寶可夢洛奇亞出現在團體戰。2017年8月14日加入VIP團體戰。
 
-在限定時間內擊敗頭目寶可夢，便有機會捕捉頭目寶可夢，該寶可夢只能用紀念球捕捉，紀念球無法保留，且球數受到傷害量、佔領道館隊伍、團隊貢獻以及好友等級(2018年6月22日更新)等影響。除此之外也有機會獲得神奇糖果、金色蔓莓果、招式學習器、經驗值和星辰。每個人捕捉的頭目寶可夢IV值和技能皆不同，Iv值皆為66以上(攻擊，防禦及血量皆為10)，等級為20等(有天氣加成情況下為25等)。\[25\]
+在限定時間內擊敗頭目寶可夢，便有機會捕捉頭目寶可夢，該寶可夢只能用紀念球捕捉，紀念球無法保留，且球數受到傷害量、佔領道館隊伍、團隊貢獻以及好友等級(2018年6月22日更新)等影響。除此之外也有機會獲得神奇糖果、金色蔓莓果、招式學習器、經驗值和星塵。每個人捕捉的頭目寶可夢IV值和技能皆不同，Iv值皆為66以上(攻擊，防禦及血量皆為10)，等級為20等(有天氣加成情況下為25等)。\[25\]
 
 #### VIP團體戰
 
 2017年9月7日，日本首次開放VIP團體戰，9月13日，世界各地陸續開放VIP道館，超夢是第一隻出現在VIP團體戰的傳說的寶可夢\[26\]。2018年9月21日，幻之寶可夢代歐奇希斯出現在VIP團體戰且取代超夢\[27\]。並且開放玩家將收到的VIP入場券分享給1位朋友，僅能邀請友誼等級為「麻吉好朋友」以上的朋友。
 
-只有收到「VIP團體戰入場券」邀請的玩家才能參加VIP團體戰，在過去一週內在VIP道館團體戰中獲勝的玩家才有機會獲得邀請函，且只有VIP道館能獲得VIP團體戰入場券，玩家可透過道館資訊中的標籤(右上角)確認該道館是否會舉行VIP團體戰。邀請函上會說明VIP團體戰的限定時間及道館地點。若官方取消該場VIP團體戰，玩家會獲得 1000 星塵與 2 張團體戰票券做為補償。
+只有收到「VIP團體戰入場券」邀請的玩家才能參加VIP團體戰，在過去一週內在VIP道館團體戰中獲勝的玩家才有機會獲得邀請函，且只有VIP道館能獲得VIP團體戰入場券，玩家可透過道館資訊中的標籤(右上角)確認該道館是否會舉行VIP團體戰。邀請函上會說明VIP團體戰的限定時間及道館地點。若官方取消該場VIP團體戰，玩家會獲得 50000 星塵與 5 張團體戰票券做為補償。
 
-另外VIP的寶可夢亦有可能在一般的Legendary等級團體戰中出現，如2019年9月出現的代歐奇西斯。
+另外VIP的寶可夢亦有可能在一般的Legendary等級團體戰中出現，如2019年9月出現的代歐奇希斯。
 
 ### 田野任務
 
@@ -52,8 +54,8 @@
 
 在2019年4月8日的更新後，遊戲加入「亮晶晶好朋友」系統，觸發亮晶晶好朋友的條件有，交換寶可夢、互贈禮物與參加各種對戰，且必須為「正港好朋友」。玩家與朋友變成「亮晶晶好朋友」時，雙方都會收到通知。進行交換寶可夢時，雙方的寶可夢都會變成「亮晶晶寶可夢」。交換之後，雙方的狀態就會變回正港好朋友，之後每天仍然有機會再次和對方成為亮晶晶好朋友。\[32\]
 
-  - 幻之寶可夢、暗影寶可夢「不可交換」
-  - 傳說寶可夢、其中一方未開圖鑑、淨化後寶可夢視為「特殊交換」
+  - 幻之寶可夢（除美錄坦、美錄梅塔）、暗影寶可夢「不可交換」
+  - 傳說寶可夢、其中一方未開圖鑑、淨化後寶可夢、美錄坦、美錄梅塔視為「特殊交換」
   - 不能將已經交換過寶可夢再次交換。
 
 ### 訓練家對戰
@@ -216,18 +218,72 @@
 <td><p>孵蛋所需距離縮短1/4、3小時誘餌模組</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>草苗龜</p></td>
+<td><p>亞太地區：2019年 9月15日上午11點至下午2點</p></td>
+<td><p>瘋狂植物</p></td>
+<td><p>3倍捕捉星星沙子、3小時誘餌模組</p></td>
+<td><p>[35]</p></td>
+</tr>
+<tr class="even">
+<td><p>大顎蟻</p></td>
+<td><p>亞太地區：10月12日上午11點至下午2點</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>小火焰猴</p></td>
+<td><p>亞太地區：11月16日上午11點至下午2點</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
+### 其他活動
+
+| 活動名稱                        | 時間               | 主辦城市                                                | 主會場                                                       |
+| --------------------------- | ---------------- | --------------------------------------------------- | --------------------------------------------------------- |
+| 2018 Pokemon Go Safari Zone | 2018年11月1日～11月5日 | [台南市](https://zh.wikipedia.org/wiki/台南市 "wikilink") | [台南都會公園](https://zh.wikipedia.org/wiki/台南都會公園 "wikilink") |
+| 2019 Pokemon Go Safari Zone | 2019年10月3日～10月6日 | [新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink") | [新北大都會公園](../Page/新北大都會公園.md "wikilink")                  |
+
 ## 圖鑑
 
-Pokémon Go 目前只開放部分的寶可夢。在2016年7月份发售时預計囊括的[第一世代的寶可夢](../Page/第一世代寶可夢列表.md "wikilink")，但[百變怪](../Page/百變怪.md "wikilink")及五種初代傳說寶可夢並未開放，而官方在[E3游戏展期间曾谈到本作的宝可梦数量绝对不会只有](https://zh.wikipedia.org/wiki/E3_2016 "wikilink")151種\[35\]。
+### 內容
 
-2016年11月24日，游戏增加了百变怪。\[36\]12月12日，游戏追加[波克比](../Page/波克比.md "wikilink")、[皮丘](../Page/皮丘.md "wikilink")等七種第二世代嬰兒宝可梦，可以通过蛋孵化获得，波克基古可以由波克比進化獲得。之後於2017年2月17日開放大多數第二世代寶可夢，僅未開放六種第二世代傳說寶可夢、圖圖犬及信使鳥。隨後於2017年7月23日，為了慶祝Pokémon Go一週年紀念，以急凍鳥與洛奇亞為首開始逐步開放一、二世代的傳說寶可夢，不過此時仍未開放幻之寶可夢（夢幻及雪拉比）。
+Pokémon Go 目前只開放部分的寶可夢。在2016年7月份发售时預計囊括的[第一世代的寶可夢](../Page/第一世代寶可夢列表.md "wikilink")，但[百變怪](../Page/百變怪.md "wikilink")及五種初代傳說寶可夢並未開放，而官方在[E3游戏展期间曾谈到本作的宝可梦数量绝对不会只有](https://zh.wikipedia.org/wiki/E3_2016 "wikilink")151種\[36\]。
+
+2016年11月24日，游戏增加了百变怪。\[37\]12月12日，游戏追加[波克比](../Page/波克比.md "wikilink")、[皮丘](../Page/皮丘.md "wikilink")等七種第二世代嬰兒宝可梦，可以通过蛋孵化获得，波克基古可以由波克比進化獲得。之後於2017年2月17日開放大多數第二世代寶可夢，僅未開放六種第二世代傳說寶可夢、圖圖犬及信使鳥。隨後於2017年7月23日，為了慶祝Pokémon Go一週年紀念，以急凍鳥與洛奇亞為首開始逐步開放一、二世代的傳說寶可夢，不過此時仍未開放幻之寶可夢（夢幻及雪拉比）。
 
 2017年10月21日因應萬聖節活動，開放了五隻第三世代的幽靈系寶可夢，並且連同其異色（色違）種也一併釋出。
 
-截至2019年9月，一共有**530種**寶可夢被正式開放\[37\] 此外因圣诞节活动还增加了圣诞帽版[皮卡丘](../Page/皮卡丘.md "wikilink")\[38\]。2017年2月27日因應寶可夢系列的週年紀念日還增加了戴著慶生帽的皮卡丘。2017年7月7日\~7月23日，因為正逢「精靈寶可夢」動畫二十週年及迎接Pokémon Go一週年所以推出[小智](../Page/小智.md "wikilink")帽子的皮卡丘（初始版本）。前兩者若是讓其進化為[雷丘](../Page/雷丘.md "wikilink")皆會戴著帽子，而第三個除了雷丘外也有皮丘戴著帽子的造型。之後在2017年及2018年的萬聖節活動推出了戴著巫師帽的皮卡丘及其進化。
+截至2019年11月，一共有**536種**寶可夢被正式開放
+
+  - 第一世代開放全151種
+  - 第二世代開放全100種
+  - 第三世代開放134種（變隱龍未開放）
+  - 第四世代開放102種
+  - 第五世代開放47種
+  - 未知世代開放2種（美錄坦、美錄梅塔）
+  - （已經開放所有的阿羅拉型態，並即將增加伽勒爾型態）
+
+此外因圣诞节活动还增加了圣诞帽版[皮卡丘](../Page/皮卡丘.md "wikilink")\[38\]。2017年2月27日因應寶可夢系列的週年紀念日還增加了戴著慶生帽的皮卡丘。2017年7月7日\~7月23日，因為正逢「精靈寶可夢」動畫二十週年及迎接Pokémon Go一週年所以推出[小智](../Page/小智.md "wikilink")帽子的皮卡丘（初始版本）。前兩者若是讓其進化為[雷丘](../Page/雷丘.md "wikilink")皆會戴著帽子，而第三個除了雷丘外也有皮丘戴著帽子的造型。之後在2017年及2018年的萬聖節活動推出了戴著巫師帽的皮卡丘及其進化。
 
 ### 區域限定
 
@@ -246,6 +302,9 @@ Pokémon Go 目前只開放部分的寶可夢。在2016年7月份发售时預計
       - 煤炭龜為亞洲西南和[印度](../Page/印度.md "wikilink")限定
       - 熱帶龍為非洲限定
       - 古空棘魚為[紐西蘭限定](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")
+
+<!-- end list -->
+
   - 南北方向
       - 聒噪鳥為中南美洲和澳洲及紐西蘭限定（南半球）
   - 氣候
@@ -253,10 +312,13 @@ Pokémon Go 目前只開放部分的寶可夢。在2016年7月份发售时預計
       - 帕奇利茲為北極地區限定
   - 東西方向（1）
       - 海兔獸在西半球為粉紅色，東半球為綠色
+
+<!-- end list -->
+
   - 東西方向（2）
-      - 由克希：亚洲东部
-      - 艾姆利多：欧洲、非洲和亚洲中西部
-      - 亚克诺姆：美洲
+      - 由克希、花椰猴：亚洲东部
+      - 艾姆利多、爆香猴：欧洲、非洲和亚洲中西部
+      - 亚克诺姆、冷水猴：美洲
 
 <!-- end list -->
 
@@ -265,8 +327,8 @@ Pokémon Go 目前只開放部分的寶可夢。在2016年7月份发售时預計
 
 ### 傳送
 
-  - 夢幻、時拉比不可傳送
-  - 幻之、亮晶晶、傳說、特殊、異色寶可夢不可直接傳送
+  - 夢幻、時拉比、基拉祈不可傳送，且玩家只能有一隻。
+  - 幻之（除美路坦和美錄梅塔外）、亮晶晶、傳說、特殊、異色寶可夢不可直接傳送
 
 ## 开发
 
@@ -360,7 +422,7 @@ Pokémon Go 目前只開放部分的寶可夢。在2016年7月份发售时預計
 
 ### 城鄉差距
 
-由於遊戲的補給站位置根據另一款遊戲[Ingress](../Page/Ingress.md "wikilink")而決定位置\[118\]，大都市在可能在一處地區出現大量Pokestop，容易聚集玩家，但在一些鄉會卻可能出現難以補給的情況\[119\]。例如在日本[島根縣](https://zh.wikipedia.org/wiki/島根縣 "wikilink")[海士町](../Page/海士町.md "wikilink")遊戲在日本推出後並沒出現補給站\[120\]，直到9月18日，遊戲開發商才把其加上去\[121\]。[中国福建也有類似情況](https://zh.wikipedia.org/wiki/中国福建 "wikilink")，在台灣推出後，[金門縣](../Page/金門縣.md "wikilink")及[連江縣沒有補給站以及找不到寶可夢](../Page/連江縣_\(中華民國\).md "wikilink")，直到8月16日才能解決\[122\]。
+由於遊戲的補給站位置根據另一款遊戲[Ingress](../Page/Ingress.md "wikilink")而決定位置\[118\]，大都市在可能在一處地區出現大量Pokestop，容易聚集玩家，但在一些鄉會卻可能出現難以補給的情況\[119\]。例如在日本[島根縣](https://zh.wikipedia.org/wiki/島根縣 "wikilink")[海士町](../Page/海士町.md "wikilink")遊戲在日本推出後並沒出現補給站\[120\]，直到9月18日，遊戲開發商才把其加上去\[121\]。[福建也有類似情況](https://zh.wikipedia.org/wiki/福建 "wikilink")，在台灣推出後，[金門縣](../Page/金門縣.md "wikilink")及[連江縣沒有補給站以及找不到寶可夢](../Page/連江縣_\(中華民國\).md "wikilink")，直到8月16日才能解決\[122\]。
 
 ### 動物權利
 
@@ -379,241 +441,128 @@ Pokémon Go 目前只開放部分的寶可夢。在2016年7月份发售时預計
   -
   -
   -
-[Category:2016年電子遊戲](https://zh.wikipedia.org/wiki/Category:2016年電子遊戲 "wikilink") [Category:精靈寶可夢系列_(遊戲)](https://zh.wikipedia.org/wiki/Category:精靈寶可夢系列_\(遊戲\) "wikilink") [Category:休閒遊戲](https://zh.wikipedia.org/wiki/Category:休閒遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Unity引擎遊戲](https://zh.wikipedia.org/wiki/Category:Unity引擎遊戲 "wikilink") [Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
+[Category:2016年電子遊戲](https://zh.wikipedia.org/wiki/Category:2016年電子遊戲 "wikilink") [Category:寶可夢系列_(遊戲)](https://zh.wikipedia.org/wiki/Category:寶可夢系列_\(遊戲\) "wikilink") [Category:休閒遊戲](https://zh.wikipedia.org/wiki/Category:休閒遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Unity引擎遊戲](https://zh.wikipedia.org/wiki/Category:Unity引擎遊戲 "wikilink") [Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11. ['Pok-{}-émon Go' hits 100 million downloads](https://www.engadget.com/2016/08/01/pokemon-go-100-million-downloads/).Engadget.2016-08-01.\[2016-08-11\].
-
 12. <https://zh-tw.facebook.com/Pokemongohktw/>
-
 13. <https://zh-tw.facebook.com/PokemonGotaiwan/>
-
 14. <http://pokemongo.nianticlabs.com/en/post/ver-update-021617>
-
 15. <http://pokemongo.nianticlabs.com/en/post/ver-update-062017>
-
 16. <https://pokemongo.nianticlabs.com/en/post/ver-update-033018>
-
 17. <https://pokemongo.nianticlabs.com/en/post/friendsandtrading>
-
 18. [Google 2016年度搜尋排行榜](https://trends.google.com.hk/trends/yis/2016/HK/)
-
 19.
 20.
 21.
-
 22.
-
 23. [There's One Way To Get Free PokéCoins In 'Pokémon GO'](http://www.forbes.com/sites/davidthier/2016/07/15/theres-one-way-to-get-free-pokecoins-in-pokemon-go/#1b89e5d72792).Forbes.2016-07-15.\[2016-09-20\].
-
 24. [New Pokémon Go Buddy feature coming Have your own Ash-Pikachu moment.](http://www.eurogamer.net/articles/2016-09-03-new-pokemon-go-buddy-feature-coming).Eurogamer.2016-09-03.\[2017-07-25\].
-
 25.
-
 26.
-
 27.
-
 28. <https://pokemongo.nianticlabs.com/en/post/mardevupdate-research>
-
 29. <https://pokemongo.nianticlabs.com/en/post/research>
-
 30. <https://pokemongo.nianticlabs.com/en/post/friendsandtrading/>
-
 31. <https://pokemongolive.com/en/post/luckypokemon/>
-
 32.
-
 33.
-
 34. <https://pokemongo.nianticlabs.com/zh_hant/post/>
-
 35.
-
-36. [百变怪终于登陆《Pokémon Go》，只是你不会直接「抓」到它](http://cn.engadget.com/2016/11/24/pokemon-go-adds-ditto/).Engadget.2016-11-24.\[2016-12-15\].
-
-37. 第一世代開放全151種、第二世代開放全100種、第三世代開放134種（變隱龍未開放）、第四世代開放100種、第五世代開放43種、未知世代開放2種（美錄坦、美錄梅塔）。
-
+36.
+37. [百变怪终于登陆《Pokémon Go》，只是你不会直接「抓」到它](http://cn.engadget.com/2016/11/24/pokemon-go-adds-ditto/).Engadget.2016-11-24.\[2016-12-15\].
 38.
-
 39.
-
 40.
-
 41.
-
 42. [Pokemon Go Was April Fool’s Joke Before It Became a Huge Hit](http://www.bloomberg.com/news/articles/2016-07-12/pokemon-go-was-an-april-fool-s-joke-before-it-became-a-giant-hit). Bloomberg. 2016-07-12. \[2016-07-15\].
-
 43. [Niantic Labs, Maker Of Ingress, Spun Out Of Google As Its Own Company](https://techcrunch.com/2015/08/12/niantic-labs-maker-of-ingress-spun-out-as-its-own-company/). TechCrunch. 2015-08-12. \[2016-07-15\].
-
 44. [](http://www.4gamer.net/games/316/G031663/20150910135/). 4Gamer. 2015-09-10.\[2016-07-15\].
-
 45. [Niantic Inc. Raises $20 Million in Financing from The Pokémon Company, Google and Nintendo](https://www.nianticlabs.com/blog/niantic-tpc-nintendo/).Niantic Blog.2015-10-15.\[2016-07-15\].
-
 46. [](http://tappli.org/column-detail.php?id=1270). TAPPLI. 2016-02-26. \[2016-07-15\].
-
 47.
-
 48.
-
 49. ['Pokemon Go' is a work of art, not a social experiment](http://www.latimes.com/opinion/op-ed/la-oe-heffernan-pokemon-go-as-art-20160715-snap-story.html). Los Angeles Times. 2016-07-15. \[2016-07-22\].
-
 50. [Unity Technologies, Maker of Pok-{}-émon Go Engine, Swells in Value](http://www.nytimes.com/2016/07/14/technology/unity-technologies-maker-of-pokemon-go-engine-swells-in-value.html). New York Times. 2016-07-13. \[2016-07-15\].
-
 51.
 52.
 53. [POKEMON GO BETA PERIOD ENDING THIS WEEK](http://www.ign.com/articles/2016/06/27/pokemon-go-beta-period-ending-this-week).IGN.2016-06-27.\[2016-09-14\].
-
 54. [](http://www.4gamer.net/games/316/G031663/20160616002/). 4Gamer. 2015-06-16. \[2016-07-15\].
-
 55. [Pokemon Go Plus delayed to September](http://www.polygon.com/2016/7/27/12294496/pokemon-go-plus-delay-september).Polygon.2016-07-27.\[2016-09-14\].
-
 56. [Pokémon Go Plus launches next week](http://www.polygon.com/2016/9/8/12844852/pokemon-go-plus-release-date).Polygon.2016-09-08.\[2016-09-14\].
-
 57. [Pokemon Go is coming to Apple Watch](http://www.polygon.com/2016/9/7/12836838/pokemon-go-apple-watch-ios).Polygon.2016-09-07.\[2016-09-14\].
-
 58. [《Pokémon Go》终于登陆 Apple Watch](http://cn.engadget.com/2016/09/07/pokemon-go-coming-apple-watch-phone-still-required-to-catch-em/).engadget中文版.2016-09-08.\[2016-09-14\].
-
 59. ['Pokemon GO' Hits \#1 In App Store](http://www.forbes.com/sites/davidthier/2016/07/07/live-release-ios-android-pokemon-go-hits-1-in-app-store/#42d2280d20a2).Forbes.2016-07-07.\[2016-07-11\].
-
 60.
-
 61.
-
 62. [@PokemonGoApp](https://twitter.com/PokemonGoApp/status/753509144745877504).Twitter.2016-07-14. \[2016-07-14\].
-
 63. [](http://www.famitsu.com/news/201607/22110471.html). FAMI通 .2016-07-22. \[2016-07-22\].
-
 64.
 65.
-
 66. .The Pokemon GO team. [We are excited to share more details about Pokémon GO including the launch across Latin America\!](http://pokemongo.nianticlabs.com/en/post/launch-latam/). Niantic. 2016-08-03. \[2016-08-07\].
-
 67. [Pokemon Go ya está disponible en la Argentina](http://www.lanacion.com.ar/1924498-pokemon-go-llego-a-la-argentina). Lanacion. 2016-08-03. \[2016-08-07\].
-
 68. .The Pokemon GO team. [Pokémon GO is now available in countries and regions across Asia and Oceania](http://pokemongo.nianticlabs.com/en/post/launch-asia/). Niantic. 2016-08-05.\[ 2016-08-07\].
-
 69.
-
 70.
-
 71.
-
 72. [Pokemon Go unleashed on game-mad South Korea six months late](http://www.reuters.com/article/us-southkorea-pokemon-idUSKBN1580CU?il=0).路透社.2017-01-24.\[2017-01-31\].
-
 73. [寶可夢Go東北 大量低頭族尋寶](http://udn.com/news/story/7331/1864911).联合报.2016-08-01.\[2016-08-28\].
-
 74. [Pokemon GO精灵宝可梦GO中国新增解锁地区](http://news.17173.com/z/pokemongo/content/08082016/114612080.shtml).17173.2016-08-08.\[2016-08-28\].
-
 75.
-
 76.
-
 77.
-
 78. [Pokemon Go still isn’t out in Japan](https://www.techinasia.com/pokemon-go-no-go-japan-boo-hoo-hoo). TechinAsia. 2016-07-11.\[2016-07-14\].
-
 79.
-
 80.
-
 81.
-
 82.
-
 83.
-
 84.
-
 85.
-
 86.
-
 87.
-
 88.
-
 89.
-
 90.
-
 91. <http://hk.ulifestyle.com.hk/m/topic/detail.html?id=ABFGD1oyBw5ZHwNr>
-
 92. <http://www.weekendhk.com/lifestyle/pokemon-go-%e5%b7%b4%e5%a3%ab%e7%b7%9a-%e7%b2%be%e9%9d%88%e8%a8%93%e7%b7%b4%e5%93%a1/>
-
 93.
-
 94.
-
 95.
 96.
 97. [Pokémon Go catches five new world records](http://www.guinnessworldrecords.com/news/2016/8/pokemon-go-catches-five-world-records-439327).Guinness World Records.2016-08-10.\[2016-09-14\].
-
 98. [Pokémon Go becomes the fastest game to ever hit $500 million in revenue](https://techcrunch.com/2016/09/08/pokemon-go-becomes-the-fastest-game-to-ever-hit-500-million-in-revenue/).TechCrunch.2016-09-08.\[2016-09-14\].
-
 99. [2016年度　第77期 （2017年3月期）決算説明会 プレゼンテーション資料](https://www.nintendo.co.jp/ir/pdf/2017/170428_2.pdf).任天堂.2017-04-28.\[2017-07-07\].
-
 100. [Pokémon Sun and Moon set big new sales record for Nintendo](https://www.polygon.com/2016/11/30/13797626/pokemon-sun-and-moon-sales-record).Polygon.2016-11-30.\[2017-07-07\].
-
 101. ['Pokémon GO' Is Spawning Lapras To Help Tourism In Tsunami Affected Japanese Regions](https://www.forbes.com/sites/insertcoin/2016/11/11/pokemon-go-is-spawning-lapras-to-help-tourism-in-tsunami-affected-japanese-regions/).Forbes.2016-11-11.\[2017-07-28\].
-
 102. [Pokémon GO Lapras Event Raises $17 Million In Tourist Revenue For Tsunami-Hit Japanese Region](http://www.nintendolife.com/news/2016/12/pokemon_go_lapras_event_raises_usd17_million_in_tourist_revenue_for_tsunami-hit_japanese_region).NintendoLife.2016-12-20.\[2017-07-28\].
-
 103.
-
 104.
 105.
-
 106.
-
 107.
-
 108.
-
 109.
-
 110.
-
 111.
-
 112.
-
 113.
-
 114.
-
 115.
-
 116. [《Pokemon Go》打道館：「補血再來打」認挑釁 「餅王」老闆拿安全帽狂毆訓練家](https://exp.gg/zh_tw/%e6%96%b0%e8%81%9e%e5%b0%88%e5%8d%80-zh_tw/109046) exp.gg
-
 117. [鳥取砂丘は解放区！！　鳥取県、ポケモン人気で知事陣頭に「誘客大作戦」](https://www.sankei.com/west/news/160731/wst1607310027-n1.html) 產經新聞
-
 118. [全球大紅的《Pokémon GO》是複製還是突破了城鄉差距？](http://www.upmedia.mg/news_info.php?SerialNo=2179)
-
 119. [](http://rocketnews24.com/2016/07/22/778365/)
-
 120. [](http://news.livedoor.com/article/detail/11847808/)
-
 121. [](http://oki.keizai.biz/headline/292/)
-
 122. [金門抓到寶了！ 寶可夢離島現蹤影](http://www.cna.com.tw/news/aloc/201608160036-1.aspx)
-
 123.

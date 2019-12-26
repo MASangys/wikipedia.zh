@@ -88,42 +88,23 @@ UH-2原型機在2018年12月25日進行首次飛行測試。\[20\]\[21\]
 [Category:日本軍用機](https://zh.wikipedia.org/wiki/Category:日本軍用機 "wikilink") [Category:軍用直升機](https://zh.wikipedia.org/wiki/Category:軍用直升機 "wikilink")
 
 1.  [防衛省、陸自の次期ヘリ開発に富士重と米ベルを選定](http://jp.reuters.com/article/marketsNews/idJPL4N0ZX3DW20150717)
-
 2.
-
 3.  [自衛隊の次期ヘリ開発、川重・エアバスなど3連合が名乗り＝関係筋](http://jp.reuters.com/article/topNews/idJPKBN0EL2DP20140610)
-
 4.
-
 5.
-
 6.
-
 7.  [佐官級幹部が漏洩か、川崎重工などに入札情報](http://sankei.jp.msn.com/affairs/news/120906/crm12090601490004-n1.htm) （MSN産経、2012/9/6閲覧）
-
 8.  [防衛省が告発状提出、次期多用途ヘリコプター開発不正疑惑](http://sankei.jp.msn.com/affairs/news/121002/crm12100214040010-n1.htm) （MSN産経、2012/10/5閲覧）
-
 9.  [富士重工の内部資料手渡す、防衛省幹部来週にも刑事処分](http://sankei.jp.msn.com/affairs/news/121215/crm12121500560000-n1.htm) （MSN産経、2012/12/15、2012/12/17閲覧）
-
 10. [2等陸佐2人を略式起訴](http://sankei.jp.msn.com/affairs/news/121220/crm12122017290013-n1.htm)
-
 11. [陸自ヘリ開発「白紙」 官製談合事件で小野寺防衛相 MSN](http://sankei.jp.msn.com/affairs/news/130111/crm13011114290014-n1.htm)
-
 12. [次世代ヘリ白紙化も、尖閣防衛に影響](http://sankei.jp.msn.com/affairs/news/121221/crm12122100070000-n1.htm)
-
 13. [川崎重工業株式会社に対する指名停止の措置について](http://www.mod.go.jp/j/press/news/2013/07/31e.html)（防衛省報道資料）
-
 14. [防衛省、UH-X新規国内開発を断念か？](http://flyteam.jp/news/article/34908)
-
 15. Jウイング 2015年 4月号
-
 16. [Airbus Offers X4 For Japanese Army UH-X](http://aviationweek.com/defense/airbus-offers-x4-japanese-army-uh-x)
-
 17.
 18. [UH-X、ベル412EPI発展型に　ガリソンCEOに聞く](http://www.aviationwire.jp/archives/66158)
-
 19. [陸上自衛隊新多用途ヘリコプター（UH-X）の開発事業者決定について](http://www.mod.go.jp/j/press/news/2015/07/17d.html)
-
 20. [ＳＵＢＡＲＵ　陸上自衛隊新多用途ヘリコプター試作機の飛行試験を開始](https://www.subaru.co.jp/press/news/2018_12_25_6678/) - 株式会社SUBARUニュースリリース 2018年12月25日
-
 21. [陸上自衛隊新多用途ヘリコプターの飛行試験について](http://www.mod.go.jp/atla/pinup/pinup301225.pdf) - 防衛装備庁\>お知らせ\>報道資料 2018/12/25

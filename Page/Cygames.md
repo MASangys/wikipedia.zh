@@ -57,7 +57,7 @@
   - 2015年11月 - （與Miracle Positive合作開發）
   - 2016年10月 -  （[PSVR遊戲](https://zh.wikipedia.org/wiki/PSVR "wikilink")）
   - 2018年9月 - [ANUBIS ZONE OF THE ENDERS : MARS](https://zh.wikipedia.org/wiki/星域毀滅者系列 "wikilink")（與[科樂美](../Page/科樂美.md "wikilink")合作開發）
-  - 預定2019年 - （由[Arc System Works開發](../Page/Arc_System_Works.md "wikilink")）
+  - 2020年2月 - （由[Arc System Works開發](../Page/Arc_System_Works.md "wikilink")）
   - 未定 - [碧藍幻想Relink](../Page/碧藍幻想Relink.md "wikilink")（原與[白金工作室](../Page/白金工作室.md "wikilink")合作開發，後改由大阪Cygames獨立開發）
   - 未定 - Project Awakening
 

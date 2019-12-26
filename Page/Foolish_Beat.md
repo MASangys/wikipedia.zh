@@ -16,7 +16,7 @@
 
 ## 參考資料
 
-[Category:美國冠軍單曲](https://zh.wikipedia.org/wiki/Category:美國冠軍單曲 "wikilink") [Category:告示牌百強單曲榜冠軍單曲](https://zh.wikipedia.org/wiki/Category:告示牌百強單曲榜冠軍單曲 "wikilink") [Category:黛比·吉布森歌曲](https://zh.wikipedia.org/wiki/Category:黛比·吉布森歌曲 "wikilink")
+[Category:1988年歌曲](https://zh.wikipedia.org/wiki/Category:1988年歌曲 "wikilink") [Category:美國冠軍單曲](https://zh.wikipedia.org/wiki/Category:美國冠軍單曲 "wikilink") [Category:告示牌百強單曲榜冠軍單曲](https://zh.wikipedia.org/wiki/Category:告示牌百強單曲榜冠軍單曲 "wikilink") [Category:黛比·吉布森歌曲](https://zh.wikipedia.org/wiki/Category:黛比·吉布森歌曲 "wikilink")
 
 1.  [美國告示牌黛比·吉布森單曲榜成績](http://www.billboard.com/artist/300622/debbie-gibson/chart)
 2.  [英國排行榜黛比·吉布森專輯單曲成績](http://www.officialcharts.com/artist/24481/debbie-gibson/)

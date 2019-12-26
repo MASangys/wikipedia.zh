@@ -88,7 +88,7 @@ AJ與姊姊一同合組演唱組合 78violet (前身為 Aly & AJ)。兩人發行
 [Category:21世纪美国女演员](https://zh.wikipedia.org/wiki/Category:21世纪美国女演员 "wikilink") [Category:21世紀美國歌手](https://zh.wikipedia.org/wiki/Category:21世紀美國歌手 "wikilink") [Category:美國電視女演員](https://zh.wikipedia.org/wiki/Category:美國電視女演員 "wikilink") [Category:美國女創作歌手](https://zh.wikipedia.org/wiki/Category:美國女創作歌手 "wikilink") [Category:美國音樂家](https://zh.wikipedia.org/wiki/Category:美國音樂家 "wikilink") [Category:美國電影女演員](https://zh.wikipedia.org/wiki/Category:美國電影女演員 "wikilink") [Category:美國基督徒](https://zh.wikipedia.org/wiki/Category:美國基督徒 "wikilink") [Category:美國兒童歌手](https://zh.wikipedia.org/wiki/Category:美國兒童歌手 "wikilink")
 
 1.  ["Family Tree Legends"](https://www.myheritage.tw/). Family Tree Legends. Retrieved 2010-05-11.
-2.  Axson, Scooby (July 7, 2006). ["Article: Pop sisters: Better known for their acting, Aly and AJ leap onto music... | AccessMyLibrary – Promoting library advocacy"](http://solutions.cengage.com/gale/apps/). AccessMyLibrary. Retrieved 2010-05-11.
+2.  Axson, Scooby (July 7, 2006). ["Article: Pop sisters: Better known for their acting, Aly and AJ leap onto music... | AccessMyLibrary – Promoting library advocacy"](http://solutions.cengage.com/gale/apps/) . AccessMyLibrary. Retrieved 2010-05-11.
 3.  ["Tweenage Riot"](http://www.maxim.com/guide/68270/tweenage-riot). Blender Magazine. May 23, 2006. Retrieved 2010-09-24.
 4.  <http://www.imdb.com/name/nm1404488/bio>
 5.  ["78 Violet, 11/05 – Interviews – Christian Music Today"](http://www.christianitytoday.com/ct/music/interviews/2005/alyandaj-1105.html). Christianitytoday.com. Retrieved 2010-05-11.

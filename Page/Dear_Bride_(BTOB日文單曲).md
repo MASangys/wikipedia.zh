@@ -35,8 +35,8 @@
 
 [Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink") [Category:BTOB單曲](https://zh.wikipedia.org/wiki/Category:BTOB單曲 "wikilink") [Category:日语歌曲](https://zh.wikipedia.org/wiki/Category:日语歌曲 "wikilink")
 
-1.  [2016年2月 日本4thシングル『Dear Bride』発売決定\!\!\!](http://btobofficial.jp/archives/3724)
+1.
 2.
-3.  [2/24(水)発売　『Dear Bride』CDジャケット公開！！](http://btobofficial.jp/archives/3914)
-4.  [BTOB Zepp Tour 2016 B-Loved に関しまして](http://btobofficial.jp/archives/3905)
+3.
+4.
 5.

@@ -1,4 +1,4 @@
-**Jack Wills** 是英國服裝品牌。
+**Jack Wills**是英國服裝品牌。
 
 ## 歷史
 
@@ -20,11 +20,11 @@
 
 2015年，Williams在Becker離任後恢復擔任首席執行官。Richard Nicoll也在2015年秋季友好地與公司分道揚標。
 
-2019年，Jack Wills申請清盤。其後，[Sports Direct以](https://zh.wikipedia.org/wiki/Sports_Direct "wikilink")1240萬英鎊收購Jack Wills。不過，Jack Wills位於香港的5間分店全線結業，香港的5間分店分別位於[沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")[新城市廣場](../Page/新城市廣場.md "wikilink")、[九龍塘](../Page/九龍塘.md "wikilink")[又一城](../Page/又一城.md "wikilink")、[元朗](../Page/元朗.md "wikilink")[YOHO MALL](https://zh.wikipedia.org/wiki/YOHO_MALL "wikilink")、[銅鑼灣](../Page/銅鑼灣.md "wikilink")[禮頓中心](../Page/禮頓中心.md "wikilink")及[尖沙咀](../Page/尖沙咀.md "wikilink")[海港城](../Page/海港城.md "wikilink")。 \[6\]
+2019年，Jack Wills申請清盤。其後，[Sports Direct以](https://zh.wikipedia.org/wiki/Sports_Direct "wikilink")1240萬英鎊收購Jack Wills。不過，Jack Wills位於香港的5間分店全線結業。 \[6\]
 
 ## 店舖
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Jack-Wills-Store.jpg "fig:缩略图") 自從Salcombe開設第一家商店以來，Jack Wills的商店開始在英國和國際上開業。目前（截至2016年9月）約。在英國有70家商店，其中8家在倫敦，4家在蘇格蘭（愛丁堡，聖安德魯斯，阿伯丁和格拉斯哥），兩家在威爾士（Abersoch和卡迪夫），兩家在海峽群島（聖彼得港和聖赫利爾）在北愛爾蘭（貝爾法斯特）。在英國還有五家商店; Gunwharf碼頭在樸次茅斯，Bicester，哈利法克斯，柴郡橡樹和Kilver法院在Shepton Mallet。
+[缩略图](https://zh.wikipedia.org/wiki/File:Jack-Wills-Store.jpg "fig:缩略图") 自從Salcombe開設第一家商店以來，Jack Wills的商店開始在英國和國際上開業。截至2016年9月，在英國有70家商店，其中8家在倫敦，4家在蘇格蘭（愛丁堡，聖安德魯斯，阿伯丁和格拉斯哥），兩家在威爾士（Abersoch和卡迪夫），兩家在海峽群島（聖彼得港和聖赫利爾）在北愛爾蘭（貝爾法斯特）。在英國還有五家商店; Gunwharf碼頭在樸次茅斯，Bicester，哈利法克斯，柴郡橡樹和Kilver法院在Shepton Mallet。
 
 ### 產品
 
@@ -43,8 +43,6 @@ Aubin＆Wills由Jack Wills於2008年9月推出，作為姐妹品牌，面向25�
 ## 外部連結
 
   - [Jack Wills](http://www.jackwills.com/) 官方網站
-
-## 參考文獻
 
 [Category:英國品牌](https://zh.wikipedia.org/wiki/Category:英國品牌 "wikilink") [Category:英國服裝公司](https://zh.wikipedia.org/wiki/Category:英國服裝公司 "wikilink")
 

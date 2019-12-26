@@ -85,20 +85,12 @@ Freitas 说，本软件保护匿名性，但不代表IP不会被[ISP发现](http
 [Category:分布式计算](https://zh.wikipedia.org/wiki/Category:分布式计算 "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:匿名網路](https://zh.wikipedia.org/wiki/Category:匿名網路 "wikilink") [Category:巴西发明](https://zh.wikipedia.org/wiki/Category:巴西发明 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.

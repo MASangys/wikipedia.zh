@@ -47,31 +47,18 @@ CyArk也和一些机构在工程应用，社交媒体以及学术上确立了合
 [Category:非营利组织](https://zh.wikipedia.org/wiki/Category:非营利组织 "wikilink") [Category:文物保护](https://zh.wikipedia.org/wiki/Category:文物保护 "wikilink") [Category:雷射應用](https://zh.wikipedia.org/wiki/Category:雷射應用 "wikilink")
 
 1.
-
 2.  [Video of Ben Kacyra's speech at the TED 2011 conference](http://www.ted.com/talks/ben_kacyra_ancient_wonders_captured_in_3d.html)
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15.
 16.

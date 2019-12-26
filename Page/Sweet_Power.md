@@ -72,10 +72,7 @@ Sweet Power旗下所屬藝人多數為女性，其後成立新人演員部門「
 [Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink") [Category:1996年成立的公司](https://zh.wikipedia.org/wiki/Category:1996年成立的公司 "wikilink")
 
 1.  2007年5月，《日經娛樂》「芸能界を制するのは誰だ?芸能プロ最新勢力図」專題第40頁
-
 2.  [“ポスト・堀北真希”だ！　スウィートパワーの大型新人に注目！！／芸能ショナイ業務話](http://www.sanspo.com/geino/news/20151008/geo15100812200017-n1.html)
-
 3.
 4.  [前KARA知英單飛人氣高　寬姐讚能演能唱](http://www.nownews.com/n/2015/09/15/1814229)
-
 5.  [松風理咲　堀北の“妹分” ＣＭ共演デビュー](http://www.chunichi.co.jp/chuspo/article/entertainment/news/CK2015100202000164.html)

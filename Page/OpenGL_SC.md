@@ -11,7 +11,7 @@
 
   - [OpenGL SC Conformant products](https://www.khronos.org/conformance/adopters/conformant-products#openglsc)
 
-  - [Public forums](http://www.khronos.org/message_boards/viewforum.php?f=10)
+  - [Public forums](https://web.archive.org/web/20110504123226/http://www.khronos.org/message_boards/viewforum.php?f=10)
 
 {{-}}
 

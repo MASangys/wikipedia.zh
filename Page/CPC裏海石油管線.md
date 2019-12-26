@@ -51,29 +51,19 @@ CPC聯盟的營運公司最於1992年設立在百慕達島，其分別給兩家�
 [Category:哈薩克斯坦的石油管線](https://zh.wikipedia.org/wiki/Category:哈薩克斯坦的石油管線 "wikilink") [Category:地緣政治](https://zh.wikipedia.org/wiki/Category:地緣政治 "wikilink") [Category:中哈关系](https://zh.wikipedia.org/wiki/Category:中哈关系 "wikilink") [Category:黑海能源](https://zh.wikipedia.org/wiki/Category:黑海能源 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
 10.
 11.
-
 12.
-
 13.
 14.
 15.
-
 16.
-
 17.

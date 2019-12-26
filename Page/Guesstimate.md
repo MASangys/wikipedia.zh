@@ -45,28 +45,16 @@ Lawrence Weinstein和John Adam在《Guesstimation: Solving the World's Problems 
 [Category:精準](https://zh.wikipedia.org/wiki/Category:精準 "wikilink") [Category:估计理论](https://zh.wikipedia.org/wiki/Category:估计理论 "wikilink") [Category:信息、知识与不确定性](https://zh.wikipedia.org/wiki/Category:信息、知识与不确定性 "wikilink")
 
 1.  [*guess*](http://www.etymonline.com/index.php?term=guess) Online Etymological Dictionary
-
 2.  [*guesstimate*](http://dictionary.reference.com/browse/guesstimate) Dictionary.com Unabridged (v 1.1)
-
 3.  [*guesstimate*](http://www.merriam-webster.com/dictionary/guesstimate)Merriam-Webster On-line Dictionary
-
 4.  [*guesstimate*](http://encarta.msn.com/dictionary_1861615713/guesstimate.html) MSN Encarta Dictionary. [Archived](http://www.webcitation.org/5kwqKSnuz) 2009-10-31.
-
 5.
 6.  [*guesstimate*](http://www.bartleby.com/61/17/G0301700.html)  American Heritage Dictionary
-
 7.  Compact Oxford English Dictionary [guesstimate](http://www.askoxford.com/concise_oed/guesstimate?view=uk)
-
 8.  "Guesstimate with confidence using confidence intervals" from back cover of [Statistics for Dummies](https://zh.wikipedia.org/wiki/For_Dummies "wikilink")
-
 9.  [Guesstimate; Grades 4-6](http://www.thirteen.org/edonline/nttidb/lessons/sf/guesssf.html) NTTI Lesson Plan
-
 10. [Guesstimation: Solving the World's Problems on the Back of a Cocktail Napkin](http://www.timeshighereducation.co.uk/story.asp?storyCode=402275&sectioncode=26), Tony Mann, Times Higher Education Supplement
-
 11. [The Drake Equation](http://wearentalone.googlepages.com/drake.html)  WeAreNotAlone.net
-
 12. [Economic outlooks often rely on guesstimation](http://www.bizjournals.com/sanantonio/stories/2003/10/13/editorial3.html), M. Ray Perryman, San Antonio Business Journal
-
 13. Weinstein & Adam (2008) Problem 5.1
-
 14. Weinstein & Adam (2008) Problem 10.5

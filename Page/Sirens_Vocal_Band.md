@@ -1,17 +1,17 @@
-**Sirens Vocal Band** (中文譯名：**藍色警報**)，或稱 **Sirens 藍色警報**，是臺灣[阿卡貝拉的人聲樂團](https://zh.wikipedia.org/wiki/阿卡貝拉 "wikilink")，成立於2009年4月，成員包括小小 (吳貞璇)、蜻蜓 (黃千庭)、Martin LowC (羅肇麒)、小鐵 (朱世明)，除 Martin 外，團員皆非音樂相關背景出身，擅長在表演中結合豐富的舞台呈現，並與觀眾互動\[1\]。
+**Sirens Vocal Band**（中文譯名：**藍色警報**），或稱 **Sirens 藍色警報**，是臺灣[阿卡貝拉的人聲樂團](https://zh.wikipedia.org/wiki/阿卡貝拉 "wikilink")，成立於2009年4月，成員包括小小 (吳貞璇)、蜻蜓 (黃千庭)、LowC (羅肇麒)、小鐵 (朱世明)，除 LowC 外，團員皆非音樂相關背景出身，擅長在表演中結合豐富的舞台呈現，並與觀眾互動\[1\]。
 
-團名「**Sirens**」取自於希臘神話中的海妖賽倫 ([塞壬](../Page/塞壬.md "wikilink"))，只要賽倫們開口歌唱，美妙的歌聲就會魅惑經過的水手。Sirens 期許自己的表演能具有十足的魅力，且深深吸引觀眾的目光。而中文團名「**藍色警報**」，藍色是取自大海的顏色，警報則是 Sirens 的英文翻譯，希望觀眾像聽到警報聲一樣，注意力受到吸引，並聚集過來聆聽 Sirens 的歌唱\[2\]。
+團名「Sirens」取自於希臘神話中的海妖賽倫 ([塞壬](../Page/塞壬.md "wikilink"))，只要賽倫們開口歌唱，美妙的歌聲就會魅惑經過的水手。Sirens 期許自己的表演能具有十足的魅力，且深深吸引觀眾的目光。而中文團名「藍色警報」，藍色是取自大海的顏色，警報則是 Sirens 的英文翻譯，希望觀眾像聽到警報聲一樣，注意力受到吸引，並聚集過來聆聽 Sirens 的歌唱\[2\]。
 
 ## 團員列表
 
 ### 現任成員
 
-| 本名  | 暱稱          | 團內職務   |
-| --- | ----------- | ------ |
-| 吳貞璇 | 小小          | 女高音    |
-| 黃千庭 | 蜻蜓          | 團長，女中音 |
-| 羅肇麒 | Martin LowC | 男低音    |
-| 朱世明 | 小鐵          | 人聲打擊   |
+| 本名  | 暱稱   | 團內職務   |
+| --- | ---- | ------ |
+| 吳貞璇 | 小小   | 女高音    |
+| 黃千庭 | 蜻蜓   | 團長，女中音 |
+| 羅肇麒 | LowC | 男低音    |
+| 朱世明 | 小鐵   | 人聲打擊   |
 
 ### 離開成員
 
@@ -26,21 +26,10 @@
 
 ## 樂團歷程
 
-§ 起源
-
-2008年，前團長邦邦、小小、燙燙、虹竹為了參加才藝競賽，組成了 Sirens 的前身「4oice人聲樂團」。
-
-§ 第一代變革
-
-2009年，為了參加「台灣國際重唱大賽」而決定重組編制，邦邦找了高中同學小捲與社團夥伴一百，而小小找了大學同學小鐵進來，並把團名改為「Sirens人聲樂團」，但在準備重唱大賽期間，團長邦邦因故離開，剩下的六個人一起參加了2009年的重唱大賽，並獲得「國內組第三名」與「最佳主唱」。
-
-§ 第二代變革
-
-2010年，虹竹與燙燙離開樂團，於是小捲邀請他在明星藝能學園的同學蜻蜓入團，從原先六人編制改為五人編制，此編制長達六年直到2016年，在此期間於「2010年韓國春川亞洲青年阿卡貝拉大賽」獲得冠軍與最佳主唱、「2011年新加坡阿卡貝拉國際組」金獎冠軍、「2012年深圳衛視The Sing off清唱團」全國第五名。
-
-§ 第三代變革
-
-2016年，一百因為生涯規劃離開Sirens，同年12月新團員信迪加入。\[3\]。
+  - 2008年，前團長邦邦、小小、燙燙、虹竹為了參加才藝競賽，組成了 Sirens 的前身「4oice人聲樂團」。
+  - 2009年，為了參加「台灣國際重唱大賽」而決定重組編制，邦邦找了高中同學小捲與社團夥伴一百，而小小找了大學同學小鐵進來，並把團名改為「Sirens人聲樂團」，但在準備重唱大賽期間，團長邦邦因故離開，剩下的六個人一起參加了2009年的重唱大賽，並獲得「國內組第三名」與「最佳主唱」。
+  - 2010年，虹竹與燙燙離開樂團，於是小捲邀請他在明星藝能學園的同學蜻蜓入團，從原先六人編制改為五人編制，此編制長達六年直到2016年，在此期間於「2010年韓國春川亞洲青年阿卡貝拉大賽」獲得冠軍與最佳主唱、「2011年新加坡阿卡貝拉國際組」金獎冠軍、「2012年深圳衛視The Sing off清唱團」全國第五名。
+  - 2016年，一百因為生涯規劃離開Sirens，同年12月新團員信迪加入。\[3\]。
 
 ## 音樂作品
 
@@ -56,7 +45,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><abbr>2011年9月1日</abbr></p></td>
+<td><p>2011年9月1日</p></td>
 <td><p>【A for A Cappella, House for Life 人聲樂團合輯】</p></td>
 <td><p>1 我要去巴黎 / <a href="../Page/Voco_Novo_爵諾人聲樂團.md" title="wikilink">Voco Novo 爵諾人聲樂團</a><br />
 2 自由 / <strong>Sirens Vocal Band</strong><br />
@@ -65,8 +54,7 @@
 5 泰雅族懷念歌 / <a href="../Page/歐開合唱團.md" title="wikilink">歐開合唱團</a> O-Kai Singers<br />
 6 想念你 / 神秘失控人聲樂團 Semiscon<br />
 7 一樣的月光 / 公共澡堂人聲樂團 The Public Bath House<br />
-8 Sing to the world / VA Singers<br />
-</p></td>
+8 Sing to the world / VA Singers</p></td>
 </tr>
 <tr class="even">
 <td><p>2014年9月27日</p></td>
@@ -74,14 +62,12 @@
 <td><p>1 藍色警報 (原創)<br />
 2 Swing<br />
 3 思念是一種病<br />
-4 Wrecking Ball<br />
-</p></td>
+4 Wrecking Ball</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年12月22日</p></td>
 <td><p>【我們都是罪人】數位單曲發行</p></td>
-<td><p>我們都是罪人 (原創)<br />
-<a href="https://sirens.lnk.to/WeAreSinners">https://sirens.lnk.to/WeAreSinners</a></p></td>
+<td><p>我們都是罪人</p></td>
 </tr>
 </tbody>
 </table>
@@ -144,10 +130,10 @@
 
 ## 外部連結
 
-[Sirens Vocal Band的Facebook專頁](https://www.facebook.com/acasirens/)
-[Sirens Vocal Band的YouTube頻道](https://www.youtube.com/user/sirensvocalband)
-[Sirens Vocal Band的新浪微博](http://weibo.com/sirensvocalband/profile?rightmod=1&wvr=6&mod=personinfo)
-[A cappella發展史](http://hsmaterial.moe.edu.tw/file/mu/2-2-1-3-1/index.htm).教育部 高中職資訊融入教學資源網
+  - [Sirens Vocal Band的Facebook專頁](https://www.facebook.com/acasirens/)
+  - [Sirens Vocal Band的YouTube頻道](https://www.youtube.com/user/sirensvocalband)
+  - [Sirens Vocal Band的新浪微博](http://weibo.com/sirensvocalband/profile?rightmod=1&wvr=6&mod=personinfo)
+  - [A cappella發展史](http://hsmaterial.moe.edu.tw/file/mu/2-2-1-3-1/index.htm).教育部 高中職資訊融入教學資源網
 
 [Category:台灣演唱團體](https://zh.wikipedia.org/wiki/Category:台灣演唱團體 "wikilink")
 

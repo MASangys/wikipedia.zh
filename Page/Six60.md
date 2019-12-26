@@ -281,25 +281,15 @@ Six60的創辦成員是在[奧塔哥大學認識的](https://zh.wikipedia.org/wi
 [Category:紐西蘭樂團](https://zh.wikipedia.org/wiki/Category:紐西蘭樂團 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.

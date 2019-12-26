@@ -124,22 +124,13 @@
 [Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink") [Category:1974年成立的公司](https://zh.wikipedia.org/wiki/Category:1974年成立的公司 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.   2012年11月23日閲覧。
-
 8.
-
 9.
-
 10.
-
 11.

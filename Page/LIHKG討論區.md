@@ -1,4 +1,6 @@
-**LIHKG討論區**，俗稱**連登**\[1\]，是[香港](../Page/香港.md "wikilink")的[網上討論區](https://zh.wikipedia.org/wiki/網上討論區 "wikilink")，由[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")[高登討論區](../Page/高登討論區.md "wikilink")第三方[應用程式](../Page/流動應用程式.md "wikilink")「HKG+」演變而成，於2016年11月25日正式開始運作。\[2\]\[3\]
+**LIHKG討論區**，俗稱**連登\[1\]**，是[香港](../Page/香港.md "wikilink")的[網上討論區](https://zh.wikipedia.org/wiki/網上討論區 "wikilink")，由[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")[高登討論區](../Page/高登討論區.md "wikilink")第三方[應用程式](../Page/流動應用程式.md "wikilink")「HKG+」演變而成，於2016年11月25日正式開始運作。\[2\]\[3\]
+
+網站[域名](../Page/域名.md "wikilink")是lihkg.com，但也可以通過縮短域名lih.kg訪問。（[.kg是](https://zh.wikipedia.org/wiki/.kg "wikilink")[吉爾吉斯斯坦的](https://zh.wikipedia.org/wiki/吉爾吉斯斯坦 "wikilink")[國家頂級域名](https://zh.wikipedia.org/wiki/國家頂級域名 "wikilink")。）
 
 ## 成立背景
 
@@ -30,11 +32,27 @@ LIHKG討論區的開設被視為[高登討論區](../Page/高登討論區.md "wi
 
 ## 社會運動
 
-2018年6月19日，個別網民涉及當時的[新屯門中心](../Page/新屯門中心.md "wikilink")三屍命案，有人發表爭議性言論，開帖以氦氣進行自殺之可行性進行「學術討論」\[14\]。部分LIHKG會員涉及沒有制止其他用戶（案中死者）自殺的想法，甚至鼓吹自殺。最終，網站管理團隊發表公告對事件感到惋惜\[15\]。
+### 新屯門中心三屍命案
+
+2018年6月19日，個別網民涉及當時的[新屯門中心](../Page/新屯門中心.md "wikilink")三屍命案，有人發表爭議性言論，開帖以[氦氣進行自殺之可行性進行](https://zh.wikipedia.org/wiki/氦氣 "wikilink")「學術討論」\[14\]。部分LIHKG會員涉及沒有制止其他用戶（案中死者）自殺的想法，甚至鼓吹自殺。最終，網站管理團隊發表公告對事件感到惋惜\[15\]。
+
+### 反對逃犯條例修訂草案運動
 
 從2019年5月起，LIHKG討論區成為討論修訂[逃犯條例的重要平台之一](../Page/2019年逃犯及刑事事宜相互法律協助法例（修訂）條例草案.md "wikilink")。有反修例的會員發起各種文宣及組織行動，並在6月9日及16日遊行、以及6月12日及21日的[佔領行動有着重大的影響力](../Page/反對逃犯條例修訂草案運動.md "wikilink")，獲多個本地、外國媒體所報導，包括[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")、《[洛杉磯時報](../Page/洛杉磯時報.md "wikilink")》等。所組織的行動亦獲得[香港立法會](../Page/香港立法會.md "wikilink")議員[鄺俊宇](../Page/鄺俊宇.md "wikilink")、[香港眾志](../Page/香港眾志.md "wikilink")秘書長[黃之鋒](../Page/黃之鋒.md "wikilink")以及[民間人權陣線](../Page/民間人權陣線.md "wikilink")的支持及意見參考。《[時代雜誌](../Page/時代雜誌.md "wikilink")》稱是次示威屬一場「無領導者運動」，由個人利用網絡連接社會，匿名而快速地互通訊息，群起聚集到外國駐港領事館、包圍警察總部等各項活動。\[16\]抵禦修例的LIHKG人發起網上「眾籌行動」，並成功收集300萬[港元](../Page/港元.md "wikilink")。\[17\]
 
-於[8月31日香港反對逃犯條例修訂草案示威及](../Page/2019年8月31日香港反對逃犯條例修訂草案示威.md "wikilink")[9月29日全球反極權大遊行前](https://zh.wikipedia.org/wiki/9月29日全球反極權大遊行 "wikilink")，LIHKG討論區都曾遭受大型[DDoS網絡攻擊致暫停運作](../Page/阻斷服務攻擊.md "wikilink")。\[18\]
+於[8月31日香港反對逃犯條例修訂草案示威及](../Page/2019年8月31日香港反對逃犯條例修訂草案示威.md "wikilink")[全球反極權大遊行](../Page/全球反極權大遊行.md "wikilink")前，LIHKG討論區都曾遭受大型[DDoS網絡攻擊致暫停運作](../Page/阻斷服務攻擊.md "wikilink")。\[18\]
+
+## 評價
+
+### 正面
+
+有文章指出抗爭運動的參與者能通過連登討論區和[Telegram](../Page/Telegram.md "wikilink")等網站和應用程式，在「無大台」的大型社會運動下，營造虛擬「雲端大台」來作關鍵決策和提供大方向。討論區上年輕人各抒己見，甚至激烈辯論，最終每每能夠達成一種「隱性民主」，即不經投票卻實現[少數服從多數](https://zh.wikipedia.org/wiki/少數服從多數 "wikilink")。\[19\]
+
+在遊行現場有連登討論區網民指出連登這種「去大台」的平台，連結了一眾[香港人](../Page/香港人.md "wikilink")，它通過網絡集百家之大成，為[反送中運動注入了新想法](https://zh.wikipedia.org/wiki/反送中運動 "wikilink")、新動力，並起到宣傳、動員的作用。\[20\]
+
+### 負面
+
+立法會議員[何君堯](../Page/何君堯.md "wikilink")形容連登討論區是「暴徒」交流和分享策略的平台，醞釀「[港獨](https://zh.wikipedia.org/wiki/港獨 "wikilink")」分子的罪惡溫床，並指討論區中成員公開討論各種襲擊警員的方法、不斷煽動他人參與非法遊行，亦有人將警員私隱資料公開示眾。認為這違反《刑事罪行條例》第7、9及10章。他因此去信特首[林鄭月娥](../Page/林鄭月娥.md "wikilink")請求對方考慮引用《[緊急情況規例條例](../Page/緊急情況規例條例.md "wikilink")》取締之。\[21\]\[22\]
 
 ## 相關
 
@@ -46,12 +64,11 @@ LIHKG討論區的開設被視為[高登討論區](../Page/高登討論區.md "wi
 
 ## 外部連結
 
-  - [LIHKG討論區（測試版網站）](http://lihkg.com/)
-
   -
-[Category:香港次文化](https://zh.wikipedia.org/wiki/Category:香港次文化 "wikilink") [Category:香港流行文化](https://zh.wikipedia.org/wiki/Category:香港流行文化 "wikilink") [Category:香港網絡文化](https://zh.wikipedia.org/wiki/Category:香港網絡文化 "wikilink") [Category:香港網上論壇](https://zh.wikipedia.org/wiki/Category:香港網上論壇 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
+  -
+[Category:香港流行文化](https://zh.wikipedia.org/wiki/Category:香港流行文化 "wikilink") [Category:香港網上論壇](https://zh.wikipedia.org/wiki/Category:香港網上論壇 "wikilink") [Category:香港反對逃犯條例修訂草案運動](https://zh.wikipedia.org/wiki/Category:香港反對逃犯條例修訂草案運動 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink") [Category:2016年建立的网站](https://zh.wikipedia.org/wiki/Category:2016年建立的网站 "wikilink")
 
-1.
+1.   立場報道 {{\!}} 立場新聞|url=[https://thestandnews.com/politics/%E9%80%A3%E7%99%BB%E4%BB%94%E5%85%A8%E7%90%83%E6%96%87%E5%AE%A3%E8%A1%8C%E5%8B%95-%E7%9C%BE%E7%B1%8C%E8%B6%85%E9%A1%8D%E9%80%BE%E5%80%8D%E5%AE%8C%E6%88%90-%E5%B0%87%E6%96%BC%E7%B4%90%E6%99%82-ft-%E6%9C%9D%E6%97%A5%E7%AD%89%E6%9C%80%E5%B0%91-9-%E5%9C%8B%E5%AA%92%E9%AB%94%E7%99%BB%E5%A0%B1/|accessdate=2019-10-27|work=立場新聞](https://thestandnews.com/politics/%E9%80%A3%E7%99%BB%E4%BB%94%E5%85%A8%E7%90%83%E6%96%87%E5%AE%A3%E8%A1%8C%E5%8B%95-%E7%9C%BE%E7%B1%8C%E8%B6%85%E9%A1%8D%E9%80%BE%E5%80%8D%E5%AE%8C%E6%88%90-%E5%B0%87%E6%96%BC%E7%B4%90%E6%99%82-ft-%E6%9C%9D%E6%97%A5%E7%AD%89%E6%9C%80%E5%B0%91-9-%E5%9C%8B%E5%AA%92%E9%AB%94%E7%99%BB%E5%A0%B1/%7Caccessdate=2019-10-27%7Cwork=立場新聞) Stand News|language=en}}
 2.
 3.
 4.
@@ -66,6 +83,10 @@ LIHKG討論區的開設被視為[高登討論區](../Page/高登討論區.md "wi
 13.
 14.
 15.
-16. [香港反修例示威者獲選《時代》最具影響力網絡人物](https://hd.stheadline.com/news/daily/hk/780769/%E6%97%A5%E5%A0%B1-%E6%B8%AF%E8%81%9E-%E9%A6%99%E6%B8%AF%E5%8F%8D%E4%BF%AE%E4%BE%8B%E7%A4%BA%E5%A8%81%E8%80%85%E7%8D%B2%E9%81%B8-%E6%99%82%E4%BB%A3-%E6%9C%80%E5%85%B7%E5%BD%B1%E9%9F%BF%E5%8A%9B%E7%B6%B2%E7%B5%A1%E4%BA%BA%E7%89%A9)  頭條網 2019年7月17日
-17. [【逃犯條例】擬全球報章登頭版廣告反修例LIHKG網民眾籌300萬超額完成](https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20190625/s00001/1561439560930/%E3%80%90%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B%E3%80%91%E6%93%AC%E5%85%A8%E7%90%83%E5%A0%B1%E7%AB%A0%E7%99%BB%E9%A0%AD%E7%89%88%E5%BB%A3%E5%91%8A%E5%8F%8D%E4%BF%AE%E4%BE%8B-lihkg%E7%B6%B2%E6%B0%91%E7%9C%BE%E7%B1%8C300%E8%90%AC%E8%B6%85%E9%A1%8D%E5%AE%8C%E6%88%90%EF%BC%88%E9%99%84%E5%85%AC%E9%96%8B%E4%BF%A1%EF%BC%89) 明報新聞網 2019年6月24日
+16.
+17.
 18.
+19.
+20.
+21.
+22.

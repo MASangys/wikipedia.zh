@@ -828,35 +828,21 @@
 [Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink") [Category:排版引擎比较](https://zh.wikipedia.org/wiki/Category:排版引擎比较 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  仅支持`img`。
-
 6.
 7.
 8.  仅支持`font`。
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.
 17.
-
 18.
-
 19.

@@ -50,13 +50,9 @@
 [Category:家用游戏机](https://zh.wikipedia.org/wiki/Category:家用游戏机 "wikilink") [Category:2010年代玩具](https://zh.wikipedia.org/wiki/Category:2010年代玩具 "wikilink") [Category:中国电子游戏界](https://zh.wikipedia.org/wiki/Category:中国电子游戏界 "wikilink")
 
 1.  [英特尔联手腾讯游戏、海尔发布首款腾讯TGP客厅游戏主机](http://www.sootoo.com/content/663338.shtml)
-
 2.  [腾讯“TGP游戏主机”众筹破百万 已远超原定目标2倍](http://news.4399.com/yingjian/m/644168.html)
-
 3.
-
 4.  [腾讯主机“刀锋TGP”硬件配置首曝！实在太“感人”了](http://www.yxdown.com/news/201606/298995.html)
-
 5.
 6.
 7.  [腾讯联合英特尔推出首款TGP客厅游戏主机](http://games.qq.com/a/20160513/064124.htm)

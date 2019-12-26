@@ -192,7 +192,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018年12月</p></td>
-<td><p>女孩要幹嘛</p></td>
+<td><p>女孩要幹嘛 第一季</p></td>
 <td><p>許少瑜、湯瑋琪、FUFU、焦曼婷</p></td>
 <td><p>劇集</p></td>
 </tr>
@@ -225,6 +225,18 @@
 <td><p>哈囉，你有事嗎？</p></td>
 <td><p><a href="../Page/何美.md" title="wikilink">何美</a>、小吳</p></td>
 <td><p>綜藝</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年8月</p></td>
+<td><p>女孩要幹嘛 第二季</p></td>
+<td><p>許少瑜、林子珊、陳甯亞、顏邦智、黃辰邑</p></td>
+<td><p>劇集</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年9月</p></td>
+<td><p>家教哥哥來我家</p></td>
+<td><p>謝毅宏、葉靜涵、余杰恩</p></td>
+<td><p>劇集</p></td>
 </tr>
 <tr class="odd">
 <td></td>

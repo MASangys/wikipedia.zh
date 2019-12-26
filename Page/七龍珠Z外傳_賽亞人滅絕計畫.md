@@ -122,19 +122,13 @@ OVA版分成上下卷[VHS](../Page/VHS.md "wikilink")，上巻是在1993年7月2
 [Category:1993年電子遊戲](https://zh.wikipedia.org/wiki/Category:1993年電子遊戲 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink") [Category:七龍珠系列電子遊戲](https://zh.wikipedia.org/wiki/Category:七龍珠系列電子遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:東星軟體遊戲](https://zh.wikipedia.org/wiki/Category:東星軟體遊戲 "wikilink") [Category:1993年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1993年日本OVA動畫 "wikilink")
 
 1.  [ドラゴンボールZ外伝 サイヤ人絶滅計画](http://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=1111)ファミ通.com
-
 2.  [プレイディア](http://www.dragonball7.info/game/cat12/) ドラゴンボール伝説
-
 3.  [Dragon Ball Z: Plan to Destroy the Saiyajin (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2871)[Anime News Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
-
 4.  [Dragon Ball: Plan to Eradicate the Super Saiyans (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14969)Anime News Network
-
 5.  [「ドラゴンボール レイジングブラスト2」，TGS 2010で公開されたプロモーションムービーが公式サイトに追加](http://www.4gamer.net/games/114/G011403/20100921061/)[4Gamer.net](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")
-
 6.
 7.
 8.
 9.  [ドラゴンボールZ 外伝 サイヤ人絶滅計画(1993)](http://www.allcinema.net/prog/show_c.php?num_c=235802)allcinema
-
 10.
 11.

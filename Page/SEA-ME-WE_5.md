@@ -20,17 +20,11 @@
 [Category:位于阿拉伯海的海底电缆](https://zh.wikipedia.org/wiki/Category:位于阿拉伯海的海底电缆 "wikilink") [Category:位于印度洋的海底电缆](https://zh.wikipedia.org/wiki/Category:位于印度洋的海底电缆 "wikilink") [Category:位于地中海的海底电缆](https://zh.wikipedia.org/wiki/Category:位于地中海的海底电缆 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
-
 8.
-
 9.

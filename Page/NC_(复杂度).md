@@ -45,10 +45,7 @@
 [Category:复杂度类](https://zh.wikipedia.org/wiki/Category:复杂度类 "wikilink") [Category:计算机科学中未解决的问题](https://zh.wikipedia.org/wiki/Category:计算机科学中未解决的问题 "wikilink")
 
 1.  Arora & Barak (2009) p.120
-
 2.  Arora & Barak (2009) p.118
-
 3.
 4.  Clote & Kranakis (2002) p.437
-
 5.  Clote & Kranakis (2002) p.12

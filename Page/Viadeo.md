@@ -46,32 +46,18 @@
 [Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink") [Category:2004年建立的网站](https://zh.wikipedia.org/wiki/Category:2004年建立的网站 "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12. [法国职场社交网站 Viadeo 退出中国，旗下网站天际网将关闭 - TC](http://techcrunch.cn/2015/12/29/linkedin-rival-viadeo-exits-china/)
-
 13. [法国社交网站Viadeo即将退出中国](http://www.epochtimes.com/gb/15/12/29/n4606132.htm)
-
 14. [法国职场社交网站Viadeo将退出中国市场并关闭加州数据中心 cnBeta.COM](http://www.cnbeta.com/articles/460901.htm)
-
 15.
-
 16.

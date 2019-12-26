@@ -406,49 +406,28 @@ Tritops的粉絲名稱為「**Tristar**」，無官方代表色。
 
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國演唱團體](https://zh.wikipedia.org/wiki/Category:韓國演唱團體 "wikilink") [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink")
 
-1.  [韓國組合 Tritops-成員介紹](http://kpopn.com/2012/06/28/129867/)；kpopn 2012年06月28日
-
+1.  [韓國組合 Tritops-成員介紹](http://kpopn.com/2012/06/28/129867/) ；kpopn 2012年06月28日
 2.  [Tritops百度百科](http://baike.baidu.com/item/Tritops/)
-
 3.  [Tritops日本官方網站-簡介](http://tritops.jp/profile/)
-
 4.  [M.C The Max二期簡介](https://ko.wikipedia.org/wiki/엠씨_더_맥스_2기)
-
 5.  [Tritops團體簡介](http://www.blogbus.com/jangyoojun-logs/218047338.html)
-
 6.  [女藝人Jace個人簡介](http://www.generasia.com/wiki/Jace)
-
 7.
 8.  [潘炯文與新人歌手Da Hye的單曲資料](http://es.drama.wikia.com/wiki/Archivo:Da_Hye_\(다혜\)_%26_Ban_Hyung_Moon_\(반형문\)_-_그래서_아프죠_\(Geuraeseo_Apeujyo_So_I_Hurt\))
-
 9.  [Tritops日本官方粉絲俱樂部evergreen - 成員介紹頁面︰潘炯文](http://fan.pia.jp/tritops-evergreen/profile/ban)
-
 10.
 11. [日君單曲I'm Superman的韓文報導](http://osen.mt.co.kr/article/G0909230054)
-
 12. [舞台劇《伊賀の花嫁》的公演詳情](http://theater.hakuhinkan.co.jp/pr_2017_01_13.html)
-
 13.
-
-14. [Tritops Woo Gon 也服完役](http://kpopn.com/2012/04/04/115380/)；kpopn 2012年04月04日
-
+14. [Tritops Woo Gon 也服完役](http://kpopn.com/2012/04/04/115380/) ；kpopn 2012年04月04日
 15. [Tritops member Lee Woo Gon reveals that he is a "military veteran idol"](http://www.allkpop.com/article/2012/04/tritops-member-lee-woo-gon-reveals-that-he-is-a-military-veteran-idol)
-
-16. [張有俊生日賀文(內有音樂劇簡介)](http://kpopn.com/2012/07/28/135977/)；kpopn 2012年07月28日
-
-17. [張有俊：音樂劇宮的練習開始\!](http://kpopn.com/2012/07/03/131241/)；kpopn 2012年07月03日
-
+16. [張有俊生日賀文(內有音樂劇簡介)](http://kpopn.com/2012/07/28/135977/) ；kpopn 2012年07月28日
+17. [張有俊：音樂劇宮的練習開始\!](http://kpopn.com/2012/07/03/131241/) ；kpopn 2012年07月03日
 18. [單曲《Your Temperature》發行日期](http://k2nblog.com/single-tritops-your-temperature/)
-
 19.
 20. \[<http://www.https.jp.net/artist/tritops>＊（トゥリトップス）/ Tritops日本唱片公司簡介專頁\]
-
 21. [Ameblo消息︰新曲《365日》](http://ameblo.jp/yjj-japan/entry-11801909059.html)
-
 22. [Ameblo消息︰新曲《さくらぶ》](http://ameblo.jp/yjj-japan/entry-11801916420.html)
-
 23. [Ameblo消息︰新曲《会いたい…》](http://ameblo.jp/yjj-japan/entry-11838719630.html)
-
 24. [Ameblo消息︰新曲《なつらぶ》](http://ameblo.jp/yjj-japan/entry-11841458503.html)
-
 25. [Ameblo消息︰原創歌曲《ありがとう》](http://ameblo.jp/yjj-japan/entry-11924974597.html)

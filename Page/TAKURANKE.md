@@ -555,10 +555,7 @@
 [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink") [Category:1987年成立的公司](https://zh.wikipedia.org/wiki/Category:1987年成立的公司 "wikilink")
 
 1.  與[葦PRODUCTION共同製作](../Page/PRODUCTION_REED.md "wikilink")。
-
 2.  由I.G 6課總製作的動畫。
-
 3.  與[STUDIO 4℃共同承包動畫製作](../Page/STUDIO_4℃.md "wikilink")。
-
 4.
 5.  共同製作。

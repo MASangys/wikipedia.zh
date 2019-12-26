@@ -19,20 +19,12 @@ K-5 II/IIs 出售時可選配兩款套裝鏡頭的其中一款，即或，或者
 [Category:宾得数码单镜反光相机](https://zh.wikipedia.org/wiki/Category:宾得数码单镜反光相机 "wikilink") [Category:2012年面世的相機](https://zh.wikipedia.org/wiki/Category:2012年面世的相機 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.  [EXPLORE CAMERAS SCORES & REVIEWS](http://www.dxomark.com/Cameras/Ratings)
-
 10.

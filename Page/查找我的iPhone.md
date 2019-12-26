@@ -155,9 +155,7 @@ iOS 6的更新版增加检查设备电量功能\[14\]。自iOS 7版发布以来�
 [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
 
 1.  [“查找我的iPhone”和“查找好友”成为iOS 9 beta1的内置应用程序](http://news.163.com/15/0611/00/ARPQTRRS00014U9R.html)
-
 2.
-
 3.
 4.
 5.
@@ -165,23 +163,14 @@ iOS 6的更新版增加检查设备电量功能\[14\]。自iOS 7版发布以来�
 7.
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15.
-
 16.
 17.
-
 18.
-
 19.
-
 20.

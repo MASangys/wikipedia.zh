@@ -326,7 +326,9 @@ LACM-14887</p></td>
 
 ## 外部連結
 
-  - [fhána官方網站](http://fhana.jp/#intro)
+  - [fhána官方網站](http://fhana.jp)
+
+  - [fhána官方部落格](http://fhana.jp/blog/)
 
   - [經紀公司P._nc官方網站](http://www.pinc.jp/artist/fhana/)
 

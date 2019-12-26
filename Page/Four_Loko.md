@@ -30,27 +30,17 @@ Four Loko的「Four」根據製造商所言，是指其四種主要成分：[咖
 [Category:美國酒精飲料](https://zh.wikipedia.org/wiki/Category:美國酒精飲料 "wikilink") [Category:2005年面世的產品](https://zh.wikipedia.org/wiki/Category:2005年面世的產品 "wikilink") [Category:含咖啡因的酒精飲料](https://zh.wikipedia.org/wiki/Category:含咖啡因的酒精飲料 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
 7.
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.

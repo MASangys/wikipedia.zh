@@ -1,4 +1,4 @@
-《**深情眼眸**》（）是美國女歌手[黛比·吉布森](../Page/黛比·吉布森.md "wikilink")在1989年1月發行的單曲，它在告示牌單曲榜獲得三週冠軍，成為黛比·吉布森繼〈[愚蠢的節奏](../Page/Foolish_Beat.md "wikilink")〉之後所得到的第二首全美冠軍單曲，〈深情眼眸〉在英國單曲榜最高名次為第34名\[1\]\[2\]。
+《**深情眼眸**》（）是美國女歌手[黛比·吉布森](../Page/黛比·吉布森.md "wikilink")在1988年底發行的單曲，它在告示牌單曲榜獲得三週冠軍，成為黛比·吉布森繼〈[愚蠢的節奏](../Page/Foolish_Beat.md "wikilink")〉之後所得到的第二首全美冠軍單曲，〈深情眼眸〉在英國單曲榜最高名次為第34名\[1\]\[2\]。
 
 ## 歌曲資料
 
@@ -16,7 +16,7 @@
 
 ## 參考資料
 
-[Category:美國冠軍單曲](https://zh.wikipedia.org/wiki/Category:美國冠軍單曲 "wikilink") [Category:告示牌百強單曲榜冠軍單曲](https://zh.wikipedia.org/wiki/Category:告示牌百強單曲榜冠軍單曲 "wikilink") [Category:黛比·吉布森歌曲](https://zh.wikipedia.org/wiki/Category:黛比·吉布森歌曲 "wikilink")
+[Category:1988年歌曲](https://zh.wikipedia.org/wiki/Category:1988年歌曲 "wikilink") [Category:美國冠軍單曲](https://zh.wikipedia.org/wiki/Category:美國冠軍單曲 "wikilink") [Category:告示牌百強單曲榜冠軍單曲](https://zh.wikipedia.org/wiki/Category:告示牌百強單曲榜冠軍單曲 "wikilink") [Category:黛比·吉布森歌曲](https://zh.wikipedia.org/wiki/Category:黛比·吉布森歌曲 "wikilink")
 
 1.  [美國告示牌黛比·吉布森單曲榜成績](http://www.billboard.com/artist/300622/debbie-gibson/chart)
 2.  [英國排行榜黛比·吉布森專輯單曲成績](http://www.officialcharts.com/artist/24481/debbie-gibson/)

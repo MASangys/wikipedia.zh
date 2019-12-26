@@ -356,8 +356,8 @@
 <td><p><a href="../Page/凌晞.md" title="wikilink">凌晞</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金宰英.md" title="wikilink">金宰英</a></p></td>
-<td><p>金宰英</p></td>
+<td><p><a href="../Page/金宰英.md" title="wikilink">金宰永</a></p></td>
+<td><p>金宰永</p></td>
 <td><p>男藝人。</p></td>
 <td></td>
 </tr>

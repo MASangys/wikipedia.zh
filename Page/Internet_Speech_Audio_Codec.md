@@ -28,19 +28,12 @@
 [Category:音频编解码器](https://zh.wikipedia.org/wiki/Category:音频编解码器 "wikilink") [Category:語音技術](https://zh.wikipedia.org/wiki/Category:語音技術 "wikilink")
 
 1.
-
 2.
-
 3.  [sites.google.com/site/webrtc/faq\#TOC-What-is-the-iSAC-audio-codec-](http://sites.google.com/site/webrtc/faq#TOC-What-is-the-iSAC-audio-codec-).
-
 4.  [sites.google.com/site/webrtc/license-rights/additional-ip-grant](http://sites.google.com/site/webrtc/license-rights/additional-ip-grant).
-
 5.
 6.
-
 7.
-
 8.
 9.
-
 10.

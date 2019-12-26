@@ -40,31 +40,18 @@
 [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:YOSHIMOTO_R_and_C音樂專輯](https://zh.wikipedia.org/wiki/Category:YOSHIMOTO_R_and_C音樂專輯 "wikilink") [Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:AKB48家族關連音樂專輯](https://zh.wikipedia.org/wiki/Category:AKB48家族關連音樂專輯 "wikilink") [Category:处女作专辑](https://zh.wikipedia.org/wiki/Category:处女作专辑 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.

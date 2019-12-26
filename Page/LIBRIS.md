@@ -21,11 +21,7 @@ LIBRIS的發展可以追溯至1960年代中期\[4\]。正當整合各圖書館�
 3.
 4.
 5.  *Databehandling i forskningsbibliotek* (1965; [in LIBRIS](http://libris.kb.se/bib/8210948)), cited in Olsson (1995), p. 51.
-
 6.  Olsson (1995), p. 55.
-
 7.  Olsson (1995), p. 103.
-
 8.  Olsson (1995), p. 31.
-
 9.  [LIBRIS-meddelanden](http://www.kb.se/libris/aktuellt/LIBRIS-meddelanden/)

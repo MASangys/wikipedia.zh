@@ -110,7 +110,7 @@
       -
   - [DISCOGRAPHY](https://web.archive.org/web/20160303172200/http://www.babymetal.jp/discography/) - BABYMETAL 官方網站
   - [DISCOGRAPHY](http://www.toysfactory.co.jp/artist/babymetal/disco) - TOY'S FACTORY 官方網站
-  - [首張Blu-ray\&DVD-BOX『LIVE〜LEGEND I、D、Z APOCALYPSE〜』發行決定DEATH！！](http://www.babymetal.jp/news/0/10221/) - 新聞 - BABYMETAL 官方網站
+  - [首張Blu-ray\&DVD-BOX『LIVE〜LEGEND I、D、Z APOCALYPSE〜』發行決定DEATH！！](https://web.archive.org/web/20160308161803/http://babymetal.jp/news/0/10221) - 新聞 - BABYMETAL 官方網站
   - [BABYMETAL: LIVE \~LEGEND I、D、Z APOCALYPSE\~ LEGEND I](https://itunes.apple.com/jp/movie/babymetal-live-legend-i-d/id814180776) - iTunes
   - [BABYMETAL: LIVE \~LEGEND I、D、Z APOCALYPSE\~ LEGEND D SU-METAL 聖誕祭](https://itunes.apple.com/jp/movie/babymetal-live-legend-i-d/id814960527) - iTunes
   - [BABYMETAL: LIVE \~LEGEND I、D、Z APOCALYPSE\~ LEGEND Z](https://itunes.apple.com/jp/movie/babymetal-live-legend-i-d/id814971204) - iTunes

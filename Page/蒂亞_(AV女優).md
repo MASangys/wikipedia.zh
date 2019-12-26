@@ -409,7 +409,7 @@
 
   - [ティアATTACKERS 片商官方網站](http://www.attackers.net/actress/-/detail/=/id=1015472/) (2017年3月7日 -2017年6月19日 )
 
-  - [ティアダスッ\! 片商官網](http://www.dasdas.jp/actress/-/detail/=/id=1015472/label=das/)(2017年7月25日 - )
+  - [ティアダスッ\! 片商官網](https://web.archive.org/web/20170729075242/http://www.dasdas.jp/actress/-/detail/=/id=1015472/label=das/)(2017年7月25日 - )
 
   - [ティア madonna( マドンナ )片商](https://www.madonna-av.com/actress/detail/1015472/)(2017年11月24日)
 
@@ -418,31 +418,18 @@
 [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:1991年出生](https://zh.wikipedia.org/wiki/Category:1991年出生 "wikilink") [Category:日本AV女優](https://zh.wikipedia.org/wiki/Category:日本AV女優 "wikilink") [Category:E-BODY女優](https://zh.wikipedia.org/wiki/Category:E-BODY女優 "wikilink") [Category:MOODYZ女優](https://zh.wikipedia.org/wiki/Category:MOODYZ女優 "wikilink") [Category:S1女優](https://zh.wikipedia.org/wiki/Category:S1女優 "wikilink") [Category:惠比壽麝香葡萄](https://zh.wikipedia.org/wiki/Category:惠比壽麝香葡萄 "wikilink") [Category:沖繩縣出身人物](https://zh.wikipedia.org/wiki/Category:沖繩縣出身人物 "wikilink") [Category:IDEAPOCKET女優](https://zh.wikipedia.org/wiki/Category:IDEAPOCKET女優 "wikilink")
 
 1.  [所属モデル](http://mines-pro.jp/pc/blog.html) - マインズ
-
 2.
 3.
-
 4.
 5.  [黒川メイサ（くろかわめいさ）（通販サイト）](http://www.arzon.jp/cast_69201.html)
-
 6.  [浅間アリス（あさまありす）（通販サイト）](http://www.arzon.jp/cast_76299.html)
-
 7.  [ＡＶマイスター「ぶた☆とんぷう（東風 克智）」が選ぶ『このＡＶが（個人的に）スゴい\!\!』](http://blog.livedoor.jp/astrokyu_dan/tag/%E6%B5%85%E9%96%93%E3%82%A2%E3%83%AA%E3%82%B9)
-
 8.
-
 9.
-
 10.
-
 11.
-
 12. [モデル『ティア』](http://withcollection.jp/bewithex/tia.html)  - Be★WIth-ex
-
 13. [在籍キャストプロフィール](http://www.r-dragon.jp/cast_p.html?sn=239)  - 六本木RedDragon
-
 14. [プルルンHcupな美少女ティア きょうは「乳の日」ですよ](http://www.sankei-sports.com/adult/sugao/20120620.html) - ADULT サンスポ・フジ 2012年6月20日
-
 15. [脫光啦！AV團Honey's Secret倒奶慰粉絲](http://www.nownews.com/n/2014/12/21/1551978)，[今日新聞網](https://zh.wikipedia.org/wiki/今日新聞網 "wikilink")，2014年12月21日
-
 16. [AV女優登台曬肉　揪粉絲共享夏日天堂。](http://www.appledaily.com.tw/realtimenews/article/new/20150821/674497/)，[蘋果新聞網](https://zh.wikipedia.org/wiki/蘋果日報_\(台灣\) "wikilink")，2015年8月21日

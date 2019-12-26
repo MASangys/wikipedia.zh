@@ -23,15 +23,11 @@
 [Category:长蛇座](https://zh.wikipedia.org/wiki/Category:长蛇座 "wikilink") [Category:_C型恒星](https://zh.wikipedia.org/wiki/Category:_C型恒星 "wikilink") [Category:以变星命名法命名的天体](https://zh.wikipedia.org/wiki/Category:以变星命名法命名的天体 "wikilink") [Category:半規則變星](https://zh.wikipedia.org/wiki/Category:半規則變星 "wikilink") [Category:HIP天體](https://zh.wikipedia.org/wiki/Category:HIP天體 "wikilink")
 
 1.  [Hubble Detects Plasma Ejections Shooting from V Hydrae](http://scitechdaily.com/hubble-detects-plasma-ejections-shooting-from-v-hydrae/)
-
 2.
 3.
-
 4.
-
 5.
 6.
-
 7.
 8.
 9.

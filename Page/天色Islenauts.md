@@ -121,7 +121,7 @@
 
   - [『天色＊アイルノーツ』時計アプリのiOS版が登場　―ヒロイン4人による時刻読み上げや目覚まし機能搭載](http://moedigi.com/game/2013/05/yuzusoft-amairo-mobile-clock-app-ios/)
   - [ゆずソフト最新作『天色＊アイルノーツ』オープニングムービーが公開　―主題歌はnaoが担当](http://moedigi.com/game/2013/06/yuzusoft-amairo-op-movie/)
-  - [空に浮かぶ不思議な島で、可愛い教え子に囲まれたイチャラブ教師生活を満喫しよう！ 『天色\*アイルノーツ』7月26日発売！](http://www.game-style.jp/soft/backnumber/201306/07/01ama_yu.php?permission=true)
+  - [空に浮かぶ不思議な島で、可愛い教え子に囲まれたイチャラブ教師生活を満喫しよう！ 『天色\*アイルノーツ』7月26日発売！](https://web.archive.org/web/20161019215733/http://www.game-style.jp/soft/backnumber/201306/07/01ama_yu.php?permission=true)
   - [バロックナイト、天色\*アイルノーツがアライブでマンガ化](http://natalie.mu/comic/news/95935)
 
 ## 外部链接
@@ -131,31 +131,20 @@
 [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:師生戀題材作品](https://zh.wikipedia.org/wiki/Category:師生戀題材作品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.   Bangumi 番组计划|accessdate=2016-10-14|work=bangumi.tv}}
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
 15.
 16.
 17.
-
 18.

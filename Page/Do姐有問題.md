@@ -1,4 +1,6 @@
-《**Do姐有問題**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的資訊遊戲節目，共3輯，第1、2輯都是25集，由[鄭裕玲](../Page/鄭裕玲.md "wikilink")、[農夫擔任主持](../Page/農夫_\(組合\).md "wikilink")，第一輯於2016年3月7日起[香港時間](../Page/香港時間.md "wikilink")逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出\[1\]，及於[myTV提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")（集數上傳後兩個月後會刪除），由[樓上特約](https://zh.wikipedia.org/wiki/樓上 "wikilink")。第二輯於2018年3月12日起香港時間逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出\[2\]\[3\]\[4\]，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞特約](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink")。第三輯於2019年7月21日起香港時間逢星期日20:30－21:30在[翡翠台](../Page/翡翠台.md "wikilink")播出\[5\]\[6\]，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞K](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink") Cash特約。
+《**Do姐有問題**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的資訊遊戲節目，共3輯，第1、2輯都是25集，由[鄭裕玲](../Page/鄭裕玲.md "wikilink")、[農夫擔任主持](../Page/農夫_\(組合\).md "wikilink")，第一輯於2016年3月7日起[香港時間](../Page/香港時間.md "wikilink")逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出\[1\]，及於[myTV提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")（集數上傳後兩個月後會刪除），由[樓上特約](https://zh.wikipedia.org/wiki/樓上燕窩莊 "wikilink")。第二輯於2018年3月12日起香港時間逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出\[2\]\[3\]\[4\]，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞特約](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink")。第三輯於2019年7月21日起香港時間逢星期日20:30－21:30在[翡翠台](../Page/翡翠台.md "wikilink")播出\[5\]\[6\]，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞K](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink") Cash贊助。
+
+各片段公開答案之前的口頭禪每輯不同，分別為「有問題有答案」（第一輯）、「識Do姐識答案」（第二輯）及「有Do姐有答案」（第三輯）。
 
 ## 每集內容
 
@@ -46,7 +48,7 @@
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/森美" title="wikilink">森　美</a></strong>、<a href="../Page/陳敏之.md" title="wikilink">陳敏之</a></p></td>
 <td><p>黃智輝</p></td>
 <td><p>官燕</p></td>
-<td><p>鄭裕兇玲</p></td>
+<td><p>鄭裕凶玲</p></td>
 </tr>
 <tr class="even">
 <td><p>03</p></td>
@@ -84,7 +86,7 @@
 <td><p>07</p></td>
 <td><p>3月15日</p></td>
 <td><p><strong><a href="../Page/杜如風.md" title="wikilink">杜如風</a></strong>、<a href="../Page/洪永城.md" title="wikilink">洪永城</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃偉文" title="wikilink">黃偉文</a></p></td>
+<td><p>黃偉文</p></td>
 <td><p>遼參</p></td>
 <td><p>鄭裕啞玲</p></td>
 </tr>
@@ -168,7 +170,7 @@
 <td><p><a href="../Page/鄧麗欣.md" title="wikilink">鄧麗欣</a>、<strong><a href="../Page/林曉峰.md" title="wikilink">林曉峰</a></strong></p></td>
 <td><p>Pedro Samper</p></td>
 <td><p>黑毛豬火腿</p></td>
-<td><p>鄭裕淍玲</p></td>
+<td><p>鄭裕凋玲</p></td>
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
@@ -243,7 +245,7 @@
 
   - 本輯的玩法為嘉賓回答三條問題，答對可得500分
   - 嘉賓可以在遊戲使用兩個錦囊（「Big Big Tips」：給予與該題目相關的大提示；「Double」：如答中該問題，得分將會乘以2），但每個錦囊在全集遊戲只能使用一次
-  - 嘉賓所得的分數可在最後環節中由5個貨幣（其中4個為外幣，1個為[港幣](https://zh.wikipedia.org/wiki/港幣 "wikilink")）中選出心儀的貨幣，之後將該分數的貨幣轉換成港幣，成爲嘉賓該集獲得的獎金（如嘉賓得500分，而嘉賓選擇[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，即該嘉賓可獲得以500[美元](../Page/美元.md "wikilink")轉換成約3920港元的獎金）
+  - 嘉賓所得的分數可在最後環節中由5個貨幣（其中4個為外幣，1個為[港幣](https://zh.wikipedia.org/wiki/港幣 "wikilink")）中選出心儀的貨幣，之後將該分數的貨幣轉換成港幣，成為嘉賓該集獲得的獎金（如嘉賓得500分，而嘉賓選擇[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，即該嘉賓可獲得以500[美元](../Page/美元.md "wikilink")轉換成約3920港元的獎金）匯率以該集錄影當日為準
   - 粗體為該集獎金最多嘉賓。
 
 <table>
@@ -686,12 +688,47 @@
 
 ### 第三輯
 
-  - 本輯加入「Do姐常識問答比賽」，嘉賓回答一條常識題，答對可得底分1000分，答錯則有底分500分
+  - 本輯加入「Do姐常識問答比賽」，嘉賓回答一條常識題，答對可得底分1000分，答錯則有底分500分(如兩組答錯，就每組分別有底分500分)
   - 嘉賓回答五條問題，答對可擲骰決定所加的分數。不過若擲中或踩Do姐圖案則需另再擲骰，以決定嘉賓可額外加分或扣分
   - 嘉賓可以在遊戲使用兩次「Big Big Tips」，即給予與該題目相關的大提示
   - 嘉賓另有六張功能卡，其中包括「進攻卡」：把對方的答案據為己有、「防守卡」：防止自己的答案被對方搶走及「空白卡」：無功用，嘉賓在每次答完問題均必須使用
-  - 在最後環節中，嘉賓先拉[老虎機](https://zh.wikipedia.org/wiki/老虎機 "wikilink")，再按所得的圖案決定所屬的等級，依次為「[頭等艙](https://zh.wikipedia.org/wiki/頭等艙 "wikilink")」：3個地方中有2個屬高匯率國家、「[商務艙](../Page/商務艙.md "wikilink")」：4地中有2個屬高匯率國家及「[經濟艙](../Page/經濟艙.md "wikilink")」：4地中只有1個屬高匯率國家
-  - 嘉賓所得的分數可在3-4個城市中選出其所屬國家的貨幣，之後將該分數的貨幣轉換成港幣，成爲嘉賓該集獲得的獎金（如嘉賓得500分，而嘉賓選擇[華盛頓市](https://zh.wikipedia.org/wiki/華盛頓市 "wikilink")，即該嘉賓可獲得以500[美元](../Page/美元.md "wikilink")轉換成約3900港元的獎金）
+  - 在最後環節中，得分最高的嘉賓先拉[老虎機](https://zh.wikipedia.org/wiki/老虎機 "wikilink")，再按所得的圖案決定所屬的等級，依次為「[頭等艙](https://zh.wikipedia.org/wiki/頭等艙 "wikilink")」：3個地方中有2個屬高匯率國家、「[商務艙](../Page/商務艙.md "wikilink")」：4地中有2個屬高匯率國家及「[經濟艙](../Page/經濟艙.md "wikilink")」：4地中只有1個屬高匯率國家，以下為各等級在拉完老虎機後的圖示：
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>等級</strong></p></td>
+<td><p><strong>老虎機圖示</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>頭等艙</p></td>
+<td><ul>
+<li>「Do姐」「Do姐」「Do姐」</li>
+<li>「陸永」「陸永」「陸永」</li>
+<li>「C君」「C君」「C君」</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>商務艙</p></td>
+<td><ul>
+<li>「Do姐」「Do姐」「陸永」</li>
+<li>「Do姐」「Do姐」「C君」</li>
+<li>「Do姐」「陸永」「陸永」</li>
+<li>「Do姐」「C君」「C君」</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>經濟艙</p></td>
+<td><ul>
+<li>「C君」「C君」「陸永」</li>
+<li>「陸永」「陸永」「C君」</li>
+<li>「Do姐」「陸永」「C君」</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+  - 嘉賓所得的分數可在3-4個城市中選出其所屬國家的貨幣，之後將該分數的貨幣轉換成港幣，成為嘉賓該集獲得的獎金（如嘉賓得500分，而嘉賓選擇[華盛頓市](https://zh.wikipedia.org/wiki/華盛頓市 "wikilink")，即該嘉賓可獲得以500[美元](../Page/美元.md "wikilink")轉換成約3900港元的獎金）。匯率以該集錄影當日為準。
   - 粗體為該集獎金最多嘉賓。
 
 <table>
@@ -720,7 +757,7 @@
 <td><p>01</p></td>
 <td><p>7月21日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a>、<a href="../Page/黃智雯.md" title="wikilink">黃智雯</a><br />
-<strong><a href="../Page/黃翠如.md" title="wikilink">黃翠如</a>、<a href="https://zh.wikipedia.org/wiki/唐詩詠" title="wikilink">唐詩詠</a></strong></p></td>
+<strong><a href="https://zh.wikipedia.org/wiki/唐詩詠" title="wikilink">唐詩詠</a>、<a href="../Page/黃翠如.md" title="wikilink">黃翠如</a></strong></p></td>
 <td><p>2800<br />
 <strong>1100</strong></p></td>
 <td><p><a href="../Page/商務艙.md" title="wikilink">商務艙</a></p></td>
@@ -779,7 +816,7 @@
 <tr class="odd">
 <td><p>05</p></td>
 <td><p>8月18日</p></td>
-<td><p><strong><a href="../Page/王嘉爾.md" title="wikilink">王嘉爾</a>、<a href="../Page/林盛斌.md" title="wikilink">林盛斌</a></strong><br />
+<td><p><strong><a href="../Page/王嘉爾.md" title="wikilink">王嘉爾</a>[7]、<a href="../Page/林盛斌.md" title="wikilink">林盛斌</a></strong><br />
 <a href="../Page/馮允謙.md" title="wikilink">馮允謙</a>、<a href="../Page/黃淑蔓.md" title="wikilink">黃淑蔓</a></p></td>
 <td><p><strong>2400</strong><br />
 2800</p></td>
@@ -795,7 +832,7 @@
 <td><p>06</p></td>
 <td><p>8月25日</p></td>
 <td><p><strong><a href="../Page/黎耀祥.md" title="wikilink">黎耀祥</a>、<a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣</a></strong><br />
-<a href="../Page/李思捷.md" title="wikilink">李思捷</a>、<a href="../Page/田蕊妮.md" title="wikilink">田蕊妮</a></p></td>
+<a href="../Page/田蕊妮.md" title="wikilink">田蕊妮</a>、<a href="../Page/李思捷.md" title="wikilink">李思捷</a></p></td>
 <td><p><strong>2400</strong><br />
 1400</p></td>
 <td><p><a href="../Page/商務艙.md" title="wikilink">商務艙</a></p></td>
@@ -869,8 +906,143 @@
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>10月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/" title="wikilink"></a>、<a href="https://zh.wikipedia.org/wiki/" title="wikilink"></a>、<a href="https://zh.wikipedia.org/wiki/" title="wikilink"></a><br />
-<a href="https://zh.wikipedia.org/wiki/" title="wikilink"></a>、<a href="https://zh.wikipedia.org/wiki/" title="wikilink"></a>、<a href="https://zh.wikipedia.org/wiki/" title="wikilink"></a></p></td>
+<td><p><strong><a href="../Page/蔡一傑.md" title="wikilink">蔡一傑</a>、<a href="../Page/陳健安.md" title="wikilink">陳健安</a></strong><br />
+<a href="../Page/阮兆祥.md" title="wikilink">阮兆祥</a>、<a href="../Page/蔡瀚億.md" title="wikilink">蔡瀚億</a></p></td>
+<td><p><strong>1900</strong><br />
+2300</p></td>
+<td><p><a href="../Page/經濟艙.md" title="wikilink">經濟艙</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/堪察加彼得羅巴甫洛夫斯克" title="wikilink">堪察加彼得羅巴甫洛夫斯克</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/斯雷姆斯卡米特羅維察" title="wikilink">斯雷姆斯卡米特羅維察</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/俄羅斯盧布" title="wikilink">俄羅斯盧布</a></strong><br />
+<a href="../Page/塞爾維亞第納爾.md" title="wikilink">塞爾維亞第納爾</a></p></td>
+<td><p><strong>228</strong><br />
+161</p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>10月13日</p></td>
+<td><p><strong><a href="../Page/薛家燕.md" title="wikilink">薛家燕</a>、<a href="../Page/姜麗文.md" title="wikilink">姜麗文</a></strong><br />
+<a href="../Page/歐陽震華.md" title="wikilink">歐陽震華</a>、<a href="../Page/吳業坤.md" title="wikilink">吳業坤</a></p></td>
+<td><p><strong>2100</strong><br />
+1800</p></td>
+<td><p><a href="../Page/經濟艙.md" title="wikilink">經濟艙</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/努馬納" title="wikilink">努馬納</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/努美亞" title="wikilink">努美亞</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/歐元" title="wikilink">歐元</a></strong><br />
+<a href="../Page/太平洋法郎.md" title="wikilink">太平洋法郎</a></p></td>
+<td><p><strong>18144</strong><br />
+126</p></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p>10月20日</p></td>
+<td><p><strong><a href="../Page/少爺占.md" title="wikilink">少爺占</a>、<a href="../Page/唐劍康.md" title="wikilink">Donald</a></strong><br />
+<a href="../Page/陸永_(藝人).md" title="wikilink">陸永</a>、<a href="../Page/C君.md" title="wikilink">C君</a></p></td>
+<td><p><strong>1700</strong><br />
+2500</p></td>
+<td><p><a href="../Page/商務艙.md" title="wikilink">商務艙</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/麥納麥" title="wikilink">麥納麥</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/魯塞" title="wikilink">魯塞</a></p></td>
+<td><p><strong><a href="../Page/巴林第納爾.md" title="wikilink">巴林第納爾</a></strong><br />
+<a href="../Page/保加利亞列弗.md" title="wikilink">保加利亞列弗</a></p></td>
+<td><p><strong>35462</strong>[8]<br />
+11025</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p>10月27日</p></td>
+<td><p><strong><a href="../Page/姜皓文.md" title="wikilink">姜皓文</a>、<a href="../Page/顏卓靈.md" title="wikilink">顏卓靈</a></strong><br />
+<a href="../Page/陳敏之.md" title="wikilink">陳敏之</a>、<a href="../Page/胡諾言.md" title="wikilink">胡諾言</a></p></td>
+<td><p><strong>1300</strong><br />
+2900</p></td>
+<td><p><a href="../Page/經濟艙.md" title="wikilink">經濟艙</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/聖何塞_(哥斯達黎加)" title="wikilink">聖何塞</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/聖馬丁_(塞薩爾省)" title="wikilink">聖馬丁</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/哥斯達黎加科朗" title="wikilink">哥斯達黎加科朗</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/哥倫比亞披索" title="wikilink">哥倫比亞披索</a></p></td>
+<td><p><strong>13</strong><br />
+5.8</p></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p>11月3日</p></td>
+<td><p><a href="../Page/王浩信.md" title="wikilink">王浩信</a>、<a href="../Page/張頴康.md" title="wikilink">張頴康</a>、<a href="../Page/丁子朗.md" title="wikilink">丁子朗</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/唐詩詠" title="wikilink">唐詩詠</a>、<a href="../Page/馮盈盈.md" title="wikilink">馮盈盈</a>、<a href="../Page/莊思敏.md" title="wikilink">莊思敏</a></strong></p></td>
+<td><p>2600<br />
+<strong>1700</strong></p></td>
+<td><p><a href="../Page/經濟艙.md" title="wikilink">經濟艙</a></p></td>
+<td><p><a href="../Page/東枝.md" title="wikilink">東枝</a><br />
+<strong><a href="../Page/安曼.md" title="wikilink">安曼</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/緬甸元" title="wikilink">緬甸元</a><br />
+<strong><a href="../Page/約旦第納爾.md" title="wikilink">約旦第納爾</a></strong></p></td>
+<td><p>13<br />
+<strong>18802</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>16</p></td>
+<td><p>11月10日</p></td>
+<td><p><strong><a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a>、<a href="../Page/吳若希.md" title="wikilink">吳若希</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a>、<a href="../Page/譚嘉儀.md" title="wikilink">譚嘉儀</a></p></td>
+<td><p><strong>1000</strong><br />
+2800</p></td>
+<td><p><a href="../Page/商務艙.md" title="wikilink">商務艙</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/麥覺理港" title="wikilink">麥覺理港</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/維拉港" title="wikilink">維拉港</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/澳元" title="wikilink">澳元</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/瓦努阿圖瓦圖" title="wikilink">瓦努阿圖瓦圖</a></p></td>
+<td><p><strong>5320</strong><br />
+196</p></td>
+</tr>
+<tr class="odd">
+<td><p>17</p></td>
+<td><p>11月17日</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/衞蘭" title="wikilink">衞蘭</a>、<a href="../Page/關心妍.md" title="wikilink">關心妍</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/薛凱琪" title="wikilink">薛凱琪</a>、<a href="../Page/林欣彤.md" title="wikilink">林欣彤</a></p></td>
+<td><p><strong>2200</strong><br />
+1600</p></td>
+<td><p><a href="../Page/經濟艙.md" title="wikilink">經濟艙</a></p></td>
+<td><p><strong><a href="../Page/齋浦爾.md" title="wikilink">齋浦爾</a></strong><br />
+<a href="../Page/雞龍市.md" title="wikilink">雞龍市</a></p></td>
+<td><p><strong><a href="../Page/印度盧比.md" title="wikilink">印度盧比</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/南韓圜" title="wikilink">南韓圜</a></p></td>
+<td><p><strong>242</strong><br />
+11.2</p></td>
+</tr>
+<tr class="even">
+<td><p>18</p></td>
+<td><p>11月24日</p></td>
+<td><p><a href="../Page/周柏豪.md" title="wikilink">周柏豪</a>、<a href="../Page/黃浩然.md" title="wikilink">黃浩然</a>、<a href="../Page/黃錦燊.md" title="wikilink">黃錦燊</a><br />
+<strong><a href="../Page/洪永城.md" title="wikilink">洪永城</a>、<a href="https://zh.wikipedia.org/wiki/朱晨麗" title="wikilink">朱晨麗</a>、<a href="../Page/王梓軒.md" title="wikilink">王梓軒</a></strong></p></td>
+<td><p>1600<br />
+<strong>2000</strong></p></td>
+<td><p><a href="../Page/商務艙.md" title="wikilink">商務艙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西本德_(威斯康星州)" title="wikilink">西本德</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/北豪森" title="wikilink">北豪森</a></strong></p></td>
+<td><p><a href="../Page/美元.md" title="wikilink">美元</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/歐元" title="wikilink">歐元</a></strong></p></td>
+<td><p>12528<br />
+<strong>17260</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>19</p></td>
+<td><p>12月1日</p></td>
+<td><p><a href="../Page/張振朗.md" title="wikilink">張振朗</a>、<a href="../Page/陳瀅.md" title="wikilink">陳瀅</a><br />
+<strong><a href="../Page/菊梓喬.md" title="wikilink">菊梓喬</a>、<a href="../Page/林穎彤.md" title="wikilink">林穎彤</a></strong></p></td>
+<td><p>2200<br />
+<strong>1800</strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/頭等艙" title="wikilink">頭等艙</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/費爾干納" title="wikilink">費爾干納</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/拉內利" title="wikilink">拉內利</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/烏茲別克索姆" title="wikilink">烏茲別克索姆</a><br />
+<strong><a href="https://zh.wikipedia.org/wiki/英鎊" title="wikilink">英鎊</a></strong></p></td>
+<td><p>1.76<br />
+<strong>18252</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>20</p></td>
+<td><p>12月8日</p></td>
+<td><p><a href="../Page/陳豪.md" title="wikilink">陳豪</a>、<a href="https://zh.wikipedia.org/wiki/李佳芯" title="wikilink">李佳芯</a><br />
+<a href="../Page/蕭正楠.md" title="wikilink">蕭正楠</a>、<a href="../Page/曹永廉.md" title="wikilink">曹永廉</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -886,11 +1058,11 @@
 
 <!-- end list -->
 
+  - [梁芷珮](../Page/梁芷珮.md "wikilink")（ [三藩市](https://zh.wikipedia.org/wiki/三藩市 "wikilink")、[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")、[聖地牙哥](../Page/聖地牙哥_\(加利福尼亞州\).md "wikilink")、[西雅圖](../Page/西雅圖.md "wikilink")、 [溫哥華](../Page/溫哥華.md "wikilink")、 [利馬](../Page/利馬.md "wikilink")）
+  - [胡慧冲](../Page/胡慧冲.md "wikilink")（ [曼谷](../Page/曼谷.md "wikilink")、[清邁](../Page/清邁.md "wikilink")）
   - [張秀文](../Page/張秀文.md "wikilink")（ [台北](../Page/臺北市.md "wikilink")、[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")）
   - [周奕瑋](../Page/周奕瑋.md "wikilink")（ [東京](https://zh.wikipedia.org/wiki/東京 "wikilink")）
   - [鄭金鈴](../Page/鄭金鈴.md "wikilink")（ [首爾](../Page/首爾.md "wikilink")）
-  - [梁芷珮](../Page/梁芷珮.md "wikilink")（ [三藩市](https://zh.wikipedia.org/wiki/三藩市 "wikilink")、[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")、[聖地牙哥](../Page/聖地牙哥_\(加利福尼亞州\).md "wikilink")、[西雅圖](../Page/西雅圖.md "wikilink")、 [溫哥華](../Page/溫哥華.md "wikilink")、 [利馬](../Page/利馬.md "wikilink")）
-  - [胡慧冲](../Page/胡慧冲.md "wikilink")（ [曼谷](../Page/曼谷.md "wikilink")、[清邁](../Page/清邁.md "wikilink")）
 
 <!-- end list -->
 
@@ -899,12 +1071,12 @@
 <!-- end list -->
 
   - [梁芷珮](../Page/梁芷珮.md "wikilink")（ [亞利桑那](https://zh.wikipedia.org/wiki/亞利桑那 "wikilink")、[拉斯維加斯](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")、 [溫哥華](../Page/溫哥華.md "wikilink")、 [馬賽](https://zh.wikipedia.org/wiki/馬賽 "wikilink")、[里昂](../Page/里昂.md "wikilink")、[波爾多](https://zh.wikipedia.org/wiki/波爾多 "wikilink")、[巴黎](../Page/巴黎.md "wikilink")）
+  - [陳雅思](../Page/陳雅思.md "wikilink")、[潘梓鋒](../Page/潘梓鋒.md "wikilink")（ [濟州島](https://zh.wikipedia.org/wiki/濟州島 "wikilink")）
+  - [胡慧冲](../Page/胡慧冲.md "wikilink")（ [曼谷](../Page/曼谷.md "wikilink")、[碧武里府](../Page/碧武里府.md "wikilink")、[差春騷府](../Page/差春騷府.md "wikilink")）
+  - [梁凱晴](../Page/梁凱晴.md "wikilink")（ [台北](../Page/臺北市.md "wikilink")、[台中](https://zh.wikipedia.org/wiki/台中 "wikilink")、[台南](https://zh.wikipedia.org/wiki/台南 "wikilink")、[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")、[屏東](../Page/屏東縣.md "wikilink")、[鹿港](https://zh.wikipedia.org/wiki/鹿港 "wikilink")、[松山](https://zh.wikipedia.org/wiki/松山區_\(臺北市\) "wikilink")、[西門町](../Page/西門町.md "wikilink")）
   - [鄺潔楹](../Page/鄺潔楹.md "wikilink")（ [東京](https://zh.wikipedia.org/wiki/東京 "wikilink")）
   - [陳婉衡](../Page/陳婉衡.md "wikilink")（ [北海道](../Page/北海道.md "wikilink")）
   - [葉韋彤](../Page/葉韋彤.md "wikilink")（ [首爾](../Page/首爾.md "wikilink")）
-  - [陳雅思](../Page/陳雅思.md "wikilink")、[潘梓鋒](../Page/潘梓鋒.md "wikilink")（ [濟州島](https://zh.wikipedia.org/wiki/濟州島 "wikilink")）
-  - [胡慧冲](../Page/胡慧冲.md "wikilink")（ [曼谷](../Page/曼谷.md "wikilink")、[佛丕府](https://zh.wikipedia.org/wiki/佛丕府 "wikilink")、[北柳府](https://zh.wikipedia.org/wiki/北柳府 "wikilink")）
-  - [梁凱晴](../Page/梁凱晴.md "wikilink")（ [台北](../Page/臺北市.md "wikilink")、[台中](https://zh.wikipedia.org/wiki/台中 "wikilink")、[台南](https://zh.wikipedia.org/wiki/台南 "wikilink")、[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")、[屏東](../Page/屏東縣.md "wikilink")、[鹿港](https://zh.wikipedia.org/wiki/鹿港 "wikilink")、[松山](https://zh.wikipedia.org/wiki/松山區_\(臺北市\) "wikilink")、[西門町](../Page/西門町.md "wikilink")）
 
 <!-- end list -->
 
@@ -912,14 +1084,17 @@
 
 <!-- end list -->
 
-  - [梁芷珮](../Page/梁芷珮.md "wikilink")（、、、）
+  - [梁芷珮](../Page/梁芷珮.md "wikilink")（、、、、）
   - [潘梓鋒](../Page/潘梓鋒.md "wikilink")（ [吉隆坡](../Page/吉隆坡.md "wikilink")）
+  - [何廣沛](../Page/何廣沛.md "wikilink")（ [夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")）
+  - [鄺潔楹](../Page/鄺潔楹.md "wikilink")（ [東京](https://zh.wikipedia.org/wiki/東京 "wikilink")）
+  - [周奕瑋](../Page/周奕瑋.md "wikilink")（ [關西](../Page/近畿地方.md "wikilink")）
+  - [鞏姿希](https://zh.wikipedia.org/wiki/鞏姿希 "wikilink")（ [九州](../Page/九州_\(日本\).md "wikilink")）
   - [胡慧冲](../Page/胡慧冲.md "wikilink")（）
   - [梁凱晴](../Page/梁凱晴.md "wikilink")（）
   - [陳貝兒](../Page/陳貝兒.md "wikilink")（）
-  - [何廣沛](../Page/何廣沛.md "wikilink")（ [夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")）
-  - [鄺潔楹](../Page/鄺潔楹.md "wikilink")（ [東京](https://zh.wikipedia.org/wiki/東京 "wikilink")）
-  - [周奕瑋](../Page/周奕瑋.md "wikilink")（ [關西](https://zh.wikipedia.org/wiki/關西 "wikilink")）
+  - [簡淑兒](../Page/簡淑兒.md "wikilink")（）
+  - [周佩婷](../Page/周佩婷.md "wikilink")（）
 
 ## 收視
 
@@ -947,6 +1122,29 @@
 | 4  | 16-20 | 2018年4月2日－4月6日   |       |
 | 5  | 21-25 | 2018年4月9日－4月13日  |       |
 
+### 第三輯
+
+以下為本節目於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")及[myTV SUPER](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")7日跨平台總收視之紀錄：
+
+| 集數 | 日期          | 收視    |
+| -- | ----------- | ----- |
+| 1  | 2019年7月21日  |       |
+| 2  | 2019年7月28日  |       |
+| 3  | 2019年8月4日   |       |
+| 4  | 2019年8月11日  |       |
+| 5  | 2019年8月18日  | 18.5點 |
+| 6  | 2019年8月25日  | 18.3點 |
+| 7  | 2019年9月1日   |       |
+| 8  | 2019年9月15日  | 18.2點 |
+| 9  | 2019年9月22日  | 17.7點 |
+| 10 | 2019年9月29日  | 18.5點 |
+| 11 | 2019年10月6日  | 21.1點 |
+| 12 | 2019年10月13日 | 24.0點 |
+| 13 | 2019年10月20日 | 20.5點 |
+| 14 | 2019年10月27日 | 19.1點 |
+| 15 | 2019年11月3日  | 18.9點 |
+| 16 | 2019年11月10日 | 18.9點 |
+
 ## 獎項
 
 ### 第一輯
@@ -954,10 +1152,10 @@
 | 獎項                                                                           | 得奬單位   |
 | ---------------------------------------------------------------------------- | ------ |
 | align="left"; colspan="2"|[星和無綫電視大獎2016](../Page/星和無綫電視大獎2016.md "wikilink") |        |
-| 「我最愛TVB綜藝節目主持人」\[7\]                                                         | 鄭裕玲、農夫 |
+| 「我最愛TVB綜藝節目主持人」\[9\]                                                         | 鄭裕玲、農夫 |
 |                                                                              |        |
 | align="left"; colspan="2"|[萬千星輝頒獎典禮2016](../Page/萬千星輝頒獎典禮2016.md "wikilink") |        |
-| 「最佳節目主持」\[8\]                                                                | 鄭裕玲、農夫 |
+| 「最佳節目主持」\[10\]                                                               | 鄭裕玲、農夫 |
 | align="left"; colspan="2"|[觀眾在民間電視大奬](../Page/觀眾在民間電視大奬.md "wikilink")2016   |        |
 | 「民選最佳綜藝資訊節目主持」                                                               | 鄭裕玲、農夫 |
 |                                                                              |        |
@@ -984,3 +1182,5 @@
 6.
 7.
 8.
+9.
+10.

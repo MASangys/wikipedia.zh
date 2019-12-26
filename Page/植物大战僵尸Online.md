@@ -12,6 +12,6 @@
 
 [Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:塔防游戏](https://zh.wikipedia.org/wiki/Category:塔防游戏 "wikilink") [Category:电子卡牌游戏](https://zh.wikipedia.org/wiki/Category:电子卡牌游戏 "wikilink") [Category:网页游戏](https://zh.wikipedia.org/wiki/Category:网页游戏 "wikilink") [Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink")
 
-1.  腾讯游戏. [游戏资料](http://pvz.qq.com/web201406/tujian.shtml). \[2016-02-16\]
+1.  腾讯游戏. [游戏资料](http://pvz.qq.com/web201406/tujian.shtml) . \[2016-02-16\]
 2.  一游网. [植物大战僵尸OL先攻值怎么算的](http://www.eeyy.com/webgame/zwdzjsol/20151218250903.html). 2015-12-18
-3.  [PVZ每周礼包](http://pvz.qq.com/cp/a20160707wxzl/index.html). 2016.8.1
+3.  [PVZ每周礼包](http://pvz.qq.com/cp/a20160707wxzl/index.html) . 2016.8.1

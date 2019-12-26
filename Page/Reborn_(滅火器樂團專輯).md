@@ -23,7 +23,7 @@
 <td><p>1</p></td>
 <td><p>基隆路</p></td>
 <td><p>Keelung Road</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/滅火器樂團" title="wikilink">滅火器樂團</a></p></td>
+<td><p>滅火器樂團</p></td>
 <td><p>楊大正</p></td>
 <td><p>楊大正</p></td>
 <td><p>滅火器樂團</p></td>
@@ -35,7 +35,7 @@
 <td><p>最後兩禮拜</p></td>
 <td><p>Last Two Weeks</p></td>
 <td><p>滅火器樂團</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/楊大正" title="wikilink">楊大正</a></p></td>
+<td><p>楊大正</p></td>
 <td><p>楊大正</p></td>
 <td><p>滅火器樂團</p></td>
 <td><p>滅火器樂團</p></td>
@@ -43,7 +43,8 @@
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p>Don’t You Fight （feat. 細美武士）</p></td>
+<td><p>Don’t You Fight<br />
+（feat. 細美武士）</p></td>
 <td><p>Don’t You Fight</p></td>
 <td><p>滅火器樂團<br />
 細美武士</p></td>

@@ -6,11 +6,11 @@
 
 2005年11月，首代ZINGER於臺灣發表\[1\]；同年12月24日正式上市，為五人座[多功能休旅車](../Page/多功能休旅車.md "wikilink")，在台由[中華汽車工業](../Page/中華汽車工業.md "wikilink")生產，使用三菱商標，由[匯豐汽車](../Page/匯豐汽車.md "wikilink")與[順益汽車銷售](../Page/順益關係企業.md "wikilink")。
 
-2007年5月，ZINGER以車名「Mitsubishi Fuzion」於菲律賓上市，由銷售\[2\]。2007年5月，ZINGER於越南上市，由三菱在越合作汽車業者VINASTAR從臺灣引進零組件，以[CKD工程方式在越組裝](https://zh.wikipedia.org/wiki/CKD工程 "wikilink")，並由VINASTAR在越銷售\[3\]。2007年12月，ZINGER在中國大陸上市，由中華汽車工業轉投資之中國[東南汽車生產](https://zh.wikipedia.org/wiki/東南汽車 "wikilink")、銷售，車名為「三菱君閣」\[4\]。
+2007年5月，ZINGER以車名「Mitsubishi Fuzion」於菲律賓上市，由銷售\[2\]。2007年5月，ZINGER於越南上市，由三菱在越合作汽車業者VINASTAR從臺灣引進零組件，以[CKD工程方式在越組裝](https://zh.wikipedia.org/wiki/CKD工程 "wikilink")，並由VINASTAR在越銷售\[3\]。2007年12月，ZINGER在中國大陸上市，由中華汽車工業轉投資之中國大陸[東南汽車生產](https://zh.wikipedia.org/wiki/東南汽車 "wikilink")、銷售，車名為「三菱君閣」\[4\]。
 
 ZINGER除在臺灣、菲律賓、越南、中國大陸銷售，中華汽車工業亦在西亞地區以車名「CMC Z7」在當地銷售\[5\] 。
 
-2015年10月，中華汽車發表第二代車型時，[中國](../Page/中國.md "wikilink")[東南汽車仍中國大陸市場在生產與銷售第一代車型](https://zh.wikipedia.org/wiki/東南汽車 "wikilink")\[6\]。
+2015年10月，中華汽車發表第二代車型時，[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[東南汽車仍中國大陸市場在生產與銷售第一代車型](https://zh.wikipedia.org/wiki/東南汽車 "wikilink")\[6\]。
 
 ### 第二代(2015年9月 - )
 
@@ -31,8 +31,6 @@ ZINGER除在臺灣、菲律賓、越南、中國大陸銷售，中華汽車工�
 第二代ZINGER全車系未使用三菱的品牌，改用中華汽車的「中」字標牌並改名為「双贏Zinger」以區別前代的「三菱Zinger(東南君閣)」。動力方面，配置三菱天狼星4G69型直列四缸引擎，搭配現代汽車使用於Starex的五速[自動變速箱](https://zh.wikipedia.org/wiki/自動變速箱 "wikilink")，取消五速[手動變速箱車型](https://zh.wikipedia.org/wiki/手動變速箱 "wikilink")，全車系仍採前置引擎後輪驅動設定，並因應政府新車法規，全面配備[胎壓偵測系統](../Page/胎壓偵測系統.md "wikilink")。底盤部分，仍採用曾使用於三菱挑戰者的大樑式底盤，及前雙A臂懸吊、後多連桿懸吊設定，避震器仍配置線圈彈簧，未因其兼顧商用車需求而改用葉片彈簧。本車設定為針對台灣的使用環境優化，將扭力輸出最大值降到2300轉，使其更適合台灣城鄉混合的環境。2017年3月小改款時，中文名稱微調為「商旅大贏家ZINGER」\[11\]。
 
 ## 車名由來
-
-  - Zinger：意為「勁辣雞腿堡」。
 
 ## 外部链接
 

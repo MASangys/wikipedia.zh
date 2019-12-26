@@ -107,11 +107,8 @@ R.VI R.30/16是最早使用[機械增壓器的飛機](https://zh.wikipedia.org/w
 [Category:雙翼機](https://zh.wikipedia.org/wiki/Category:雙翼機 "wikilink") [Category:德國轟炸機](https://zh.wikipedia.org/wiki/Category:德國轟炸機 "wikilink") [Category:第一次世界大戰飛機](https://zh.wikipedia.org/wiki/Category:第一次世界大戰飛機 "wikilink")
 
 1.  Gray, P and Thetford, O *German Aircraft of the First World War* 1970 Putnam London 0 85177 809 7
-
 2.
-
 3.
-
 4.
 5.
 6.

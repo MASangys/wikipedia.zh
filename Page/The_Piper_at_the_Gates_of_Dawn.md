@@ -35,16 +35,12 @@
 [Category:1967年音樂專輯](https://zh.wikipedia.org/wiki/Category:1967年音樂專輯 "wikilink") [Category:平克·弗洛伊德音樂專輯](https://zh.wikipedia.org/wiki/Category:平克·弗洛伊德音樂專輯 "wikilink") [Category:处女作专辑](https://zh.wikipedia.org/wiki/Category:处女作专辑 "wikilink") [Category:EMI_Records音乐专辑](https://zh.wikipedia.org/wiki/Category:EMI_Records音乐专辑 "wikilink") [Category:迷幻摇滚专辑](https://zh.wikipedia.org/wiki/Category:迷幻摇滚专辑 "wikilink")
 
 1.  Povey 2007, p. 343
-
 2.
-
 3.
 4.
-
 5.
 6.
 7.
-
 8.
 9.
 10.

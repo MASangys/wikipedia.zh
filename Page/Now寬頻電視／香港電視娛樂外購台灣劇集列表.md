@@ -182,6 +182,5 @@
 </div>
 
 1.  [Now寬頻電視只有收費電視播映權](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")，免費電視播映權由[無綫電視或](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")擁有
-
 2.
 3.  曾在Now影視點播站／Now 101台／Now觀星台自選服務首播

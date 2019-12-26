@@ -60,6 +60,10 @@ Windows 10 IoT版专门为小尺寸、低成本设备和[物联网](../Page/物�
 
 微软的智能眼镜HoloLens使用的系统为基于Windows 10的变种。
 
+#### X
+
+用於雙螢幕surface的特殊系統。
+
 ### 在特殊地区发行的的版本
 
 #### N和KN版
@@ -127,42 +131,23 @@ Windows 10 S的软件安装仅限从[Windows Store获取的应用程序](https:/
 [Category:Windows_10](https://zh.wikipedia.org/wiki/Category:Windows_10 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.  [Microsoft announces Windows 10 China Government Edition](https://www.onmsft.com/news/microsoft-announces-windows-10-china-government-edition)
-
 10.
-
 11. [审查小组提出3个原则](https://finance.china.com/tech/13001906/20180926/34014413_1.html)
-
 12.
-
 13. [神州网信](http://www.cmgos.com/web/product/overview)
-
 14. [定制政府版.数据不出境](https://news.mydrivers.com/1/533/533778.htm)
-
 15.
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.

@@ -47,6 +47,7 @@ MRE的包裝要求非常嚴格，必須能在有[降落傘的狀況下從](https
 
 早期的MRE因為太難吃所以飽受廣大美軍士兵的劣評，MRE得到了以下的渾名:
 
+  - 「眾人拒絕的食品」（**M**eals **R**ejected by **E**veryone）
   - 「敵人也拒絕的食品」（**M**eals **R**ejected by **E**nemy）
   - 「難以下嚥的食品」（**M**eals, **R**arely **E**dible）
   - 「[衣索比亞人拒絕的食品](https://zh.wikipedia.org/wiki/衣索比亞 "wikilink")」（**M**eals **R**ejected by **E**thiopians）
@@ -55,7 +56,7 @@ MRE的包裝要求非常嚴格，必須能在有[降落傘的狀況下從](https
   - 「隨時可丟的食品」（**M**eal **R**eady to **E**xpel）
   - 「貌似可吃的物體」（**M**aterials **R**esembling **E**dibles）
   - 「打擊士氣的因素」（**M**orale **R**educing **E**lements）
-  - 「[一次滿足三個謊言](https://zh.wikipedia.org/wiki/健達出奇蛋#配料 "wikilink")：[既不是食品、也沒準備好、更不能食用](https://zh.wikipedia.org/wiki/神圣罗马帝国#评价 "wikilink")」（Three Lies for the Price of One: it's not a Meal, it's not Ready, and you can't Eat it）
+  - 「[一次滿足三個謊言](https://zh.wikipedia.org/wiki/健達出奇蛋#配料 "wikilink")：[既非食品、也沒準備、更不能吃](https://zh.wikipedia.org/wiki/神圣罗马帝国#评价 "wikilink")」（Three Lies for the Price of One: it's not a Meal, it's not Ready, and you can't Eat it）
 
 甚至聽說有一次國際軍糧交流會中，美軍的MRE完全無人問津，因此被公認為全世界最難吃的野戰口糧。雖然後期的MRE的餐單中的味道有所改善，但這些花名已不徑而走。甚至因為纖維含量低而導致很多士兵患上便秘，所以又有以下的污名:
 

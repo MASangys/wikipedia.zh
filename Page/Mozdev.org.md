@@ -4,7 +4,7 @@
 
 ## 外部链接
 
-  - [mozdev.org](http://www.mozdev.org)
+  - [mozdev.org](https://web.archive.org/web/20040616050106/http://mozdev.org/)
   - [mozdev.org projects](http://www.mozdev.org/projects/active.html)
 
 [Category:2000年建立的网站](https://zh.wikipedia.org/wiki/Category:2000年建立的网站 "wikilink") [Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink") [Category:项目托管网站](https://zh.wikipedia.org/wiki/Category:项目托管网站 "wikilink") [Category:网站小作品](https://zh.wikipedia.org/wiki/Category:网站小作品 "wikilink")

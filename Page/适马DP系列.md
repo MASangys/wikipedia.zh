@@ -188,7 +188,7 @@ X3MENG STUDIO第一时间开发出EFM-2.0固定镜头的电子组件，彻底解
 
 [Category:适马](https://zh.wikipedia.org/wiki/Category:适马 "wikilink") [Category:数码照相机](https://zh.wikipedia.org/wiki/Category:数码照相机 "wikilink")
 
-1.  [Sigma DP1](http://www.dpreview.com/news/0609/06092604sigmadp1.asp), dpreview (2006).
+1.  [Sigma DP1](http://www.dpreview.com/news/0609/06092604sigmadp1.asp), dpreview (2006)
 2.  [Sigma DP1](http://www.dpreview.com/news/0609/06092604sigmadp1.asp), dpreview (2006).
 3.  [シグマ、「DP2」を正式発表](http://dc.watch.impress.co.jp/cda/compact/2009/03/03/10320.html) - Watch Impress
 4.  [自己动手修理DP1的排线](http://info.xitek.com/product/201201/10-74583.html) - 色影无忌

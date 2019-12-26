@@ -29,29 +29,17 @@ D環結構的功能至2007年尚不清楚，但該年的文章認爲它參與了
 [Category:分子生物学](https://zh.wikipedia.org/wiki/Category:分子生物学 "wikilink") [Category:DNA](https://zh.wikipedia.org/wiki/Category:DNA "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.

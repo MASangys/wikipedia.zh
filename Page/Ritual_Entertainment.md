@@ -35,4 +35,4 @@
 1.  [Ritual Entertainment Acquired By Casual Games Developer](http://www.playfuls.com/news_9082_Ritual_Entertainment_Acquired_By_Casual_Games_Developer.html) January 24th 2007
 2.  [id Software Welcomes New Member](http://planetquake.gamespy.com/fullstory.php?id=108741)  Planet Quake, Friday, December 1, 2006
 3.  [RITUALISTIC || Ritual Entertainment's Online Community Hub](http://www.ritualistic.com/newsarticle.php?id=1840)
-4.  [Ritual Apparently Not Exploded, Announces New Studio Director - Ritualistic Forums](http://ritualistic.com/forums/showthread.php?t=18781)
+4.

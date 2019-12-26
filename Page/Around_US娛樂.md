@@ -26,14 +26,14 @@
 
 ### 2018年
 
-  - 9月17日在官方網站設立[audition頁面](http://aroundusent.com/home/audition_notice)並開通[audition推特](https://twitter.com/AU_audition)，正式開始招募練習生。
+  - 9月17日在官方網站設立[audition頁面](http://aroundusent.com/home/audition_notice)並開通[audition推特](https://twitter.com/withus_audition)，正式開始招募練習生。
   - 11月7日官方推特設立。[1](https://twitter.com/ent_aroundus)，官方IG設立。[2](https://www.instagram.com/ent_aroundus/)
 
 ### 2019年
 
   - [HIGHLIGHT全員陸續入伍服役](https://zh.wikipedia.org/wiki/HIGHLIGHT "wikilink")。
   - 練習生禹濟元、鄭在訓、崔時赫參加[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")。
-  - 9月1日起，新設label：With US audition，專門負責練習生相關事項，此名稱由[梁耀燮](../Page/梁耀燮.md "wikilink")命名。
+  - 9月1日起，新設label：With US(위드어스) audition，專門負責練習生相關事項，此名稱由[梁耀燮](../Page/梁耀燮.md "wikilink")命名。
 
 ## 相關人員
 

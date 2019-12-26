@@ -32,7 +32,6 @@ A9芯片是一款双核64位元处理器，系统主频为1.8GHz，相容ARMv8A�
 [Category:微處理器](https://zh.wikipedia.org/wiki/Category:微處理器 "wikilink") [Category:ARM架構](https://zh.wikipedia.org/wiki/Category:ARM架構 "wikilink") [Category:苹果公司处理器](https://zh.wikipedia.org/wiki/Category:苹果公司处理器 "wikilink")
 
 1.
-
 2.
 3.
 4.
@@ -40,26 +39,15 @@ A9芯片是一款双核64位元处理器，系统主频为1.8GHz，相容ARMv8A�
 6.
 7.
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.

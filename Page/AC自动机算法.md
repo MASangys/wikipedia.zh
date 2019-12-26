@@ -65,6 +65,6 @@
   - [Aho-Corasick implementation in C++](https://github.com/bigdatadev/aho_corasick)
   - [Aho-Corasick implementation in Go](https://github.com/iohub/Ahocorasick)
 
-[Category:字符串匹配算法](https://zh.wikipedia.org/wiki/Category:字符串匹配算法 "wikilink")
+[Category:树结构](https://zh.wikipedia.org/wiki/Category:树结构 "wikilink") [Category:字符串匹配算法](https://zh.wikipedia.org/wiki/Category:字符串匹配算法 "wikilink")
 
 1.

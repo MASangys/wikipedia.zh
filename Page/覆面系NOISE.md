@@ -433,8 +433,6 @@
 [Category:花與夢](https://zh.wikipedia.org/wiki/Category:花與夢 "wikilink") [Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink") [Category:音樂漫畫](https://zh.wikipedia.org/wiki/Category:音樂漫畫 "wikilink") [Category:搖滾樂題材作品](https://zh.wikipedia.org/wiki/Category:搖滾樂題材作品 "wikilink") [Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink") [Category:日本漫畫改編真人電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編真人電影 "wikilink") [Category:音樂及音樂家題材電影](https://zh.wikipedia.org/wiki/Category:音樂及音樂家題材電影 "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:音樂動畫](https://zh.wikipedia.org/wiki/Category:音樂動畫 "wikilink") [Category:松竹電影](https://zh.wikipedia.org/wiki/Category:松竹電影 "wikilink") [Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

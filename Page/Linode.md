@@ -50,45 +50,25 @@ Linode 为顾客提供多样化的服务\[7\]\[8\]。它主要提供各种不同
 [Category:2003年成立的公司](https://zh.wikipedia.org/wiki/Category:2003年成立的公司 "wikilink") [Category:互联网寄存](https://zh.wikipedia.org/wiki/Category:互联网寄存 "wikilink") [Category:Web服务](https://zh.wikipedia.org/wiki/Category:Web服务 "wikilink")
 
 1.
-
 2.  "[About us](http://www.linode.com/about/)", *Linode*.
-
 3.
 4.
 5.
-
 6.  [New Linode Datacenter: Tokyo 2](https://blog.linode.com/2016/11/21/new-linode-datacenter-tokyo-2/)
-
 7.
-
 8.
-
 9.
-
 10.
-
 11. Bernstein, Peter.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.

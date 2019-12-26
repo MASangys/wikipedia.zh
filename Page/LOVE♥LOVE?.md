@@ -1,4 +1,4 @@
-《**LOVE♥LOVE?**》是日本在2004年5月3日至6月28日播放的原創電視動畫。\[1\]m.o.e.在官方網站將《[超變身巫女祈鬥士](../Page/超變身巫女祈鬥士.md "wikilink")》（）、《[超變身角色扮演前傳](../Page/超變身角色扮演前傳.md "wikilink")》（ヒットをねらえ\!）、《LOVE♥LOVE?》合稱**變身3部作**（）並在[獨立UHF放送局的動畫節目時段](../Page/獨立UHF放送局.md "wikilink")《A15》依序撥放這3部作品和《[極限女孩](../Page/極限女孩.md "wikilink")》（UG☆アルティメットガール），在重播時則改名為《R15》的30分鐘動畫時段。A15的命名由來是播放15分鐘、推薦15歲以上觀眾收視（15禁動畫）。
+《**LOVE♥LOVE?**》是日本在2004年5月3日至6月28日播放的原創電視動畫。\[1\]m.o.e.在官方網站將《[超變身巫女祈鬥士](../Page/超變身巫女祈鬥士.md "wikilink")》（）、《[超變身角色扮演前傳](../Page/超變身角色扮演前傳.md "wikilink")》（ヒットをねらえ\!）、《LOVE♥LOVE?》合稱**變身3部作**（）並在[獨立UHF放送局的動畫節目時段](https://zh.wikipedia.org/wiki/獨立UHF放送局 "wikilink")《A15》依序撥放這3部作品和《[極限女孩](https://zh.wikipedia.org/wiki/極限女孩 "wikilink")》（UG☆アルティメットガール），在重播時則改名為《R15》的30分鐘動畫時段。A15的命名由來是播放15分鐘、推薦15歲以上觀眾收視（15禁動畫）。
 
 ## 故事
 
@@ -8,16 +8,30 @@
 
   - 大泉直人（CV：[宮野真守](../Page/宮野真守.md "wikilink")）
     本作男主角，堀興學園高中部3年級學生。
-  - 八神菜摘（[CV](../Page/聲優.md "wikilink")：[松来未祐](../Page/松来未祐.md "wikilink")）
-    堀興學園高中部3年級學生。
+  - 八神菜摘（[CV](../Page/聲優.md "wikilink")：[松来未祐](https://zh.wikipedia.org/wiki/松来未祐 "wikilink")）
+    堀興學園高中部3年級學生，擔任男主角所創作的作品[超變身巫女祈鬥士](../Page/超變身巫女祈鬥士.md "wikilink")中的扮演角色之一，飾演星野古都和紅色祈鬥師ミコレイヤー。
   - 桂木洋子（CV：[小林沙苗](../Page/小林沙苗.md "wikilink")）
-    來自英國的堀興學園高中部3年級學生。
-  - 城崎光（CV：[大原さやか](../Page/大原さやか.md "wikilink")）
-    來自印度的堀興學園國中部3年級學生。
-  - 今村明（CV：[吉田真弓](../Page/吉田真弓.md "wikilink")）
-    來自埃及的堀興學園國中部3年級學生。
-  - 早坂美久（CV：[浅井清己](../Page/浅井清己.md "wikilink")）
-    來自美國的堀興學園國小部6年級學生。
+    來自英國的堀興學園高中部3年級學生，擔任男主角所創作的作品[超變身巫女祈鬥士](../Page/超變身巫女祈鬥士.md "wikilink")中的扮演角色之一，飾演スカーレット・チャーチ和藍色祈鬥師シスタレイヤー。
+  - 城崎光（CV：[大原沙耶香](../Page/大原沙耶香.md "wikilink")）
+    來自印度的堀興學園國中部3年級學生，外表看似普通的身高很高的女性，實際上從小就與男孩子們生活在一起，所以個性和行為上很男性化，力氣也比較大，擔任男主角所創作的作品[超變身巫女祈鬥士](../Page/超變身巫女祈鬥士.md "wikilink")中的扮演角色之一，飾演プリシラリヤ・シャマラン和黃色祈鬥師サリーレイヤー。
+  - 今村明（CV：[吉田真弓](https://zh.wikipedia.org/wiki/吉田真弓 "wikilink")）
+    來自埃及的堀興學園國中部3年級學生，擅長偽裝成其他人的聲音，有[懼高症](https://zh.wikipedia.org/wiki/懼高症 "wikilink")，擔任男主角所創作的作品[超變身巫女祈鬥士](../Page/超變身巫女祈鬥士.md "wikilink")中的扮演角色之一，飾演レミューリア・シャリア和紫色祈鬥師ラビアンレイヤー。
+  - 早坂美久（CV：[浅井清己](https://zh.wikipedia.org/wiki/浅井清己 "wikilink")）
+    來自美國的堀興學園國小部6年級學生，喜歡的人並非男主角而是久留米健治郎，動畫結局宣稱已經與其訂婚，擔任男主角所創作的作品[超變身巫女祈鬥士](../Page/超變身巫女祈鬥士.md "wikilink")中的扮演角色之一，飾演イコ・スー和綠色祈鬥師ディアンレイヤー。
+  - 生田美月（CV：[能登麻美子](../Page/能登麻美子.md "wikilink")）
+    本作男主角擔任攝影師的編劇組的負責寶竹公司的製作人，個子很小。同時是[超變身角色扮演前傳](../Page/超變身角色扮演前傳.md "wikilink")的主角。
+  - 谷川彌生（CV：[田口宏子](../Page/田口宏子.md "wikilink")）
+    生田美月的後輩，隸屬於寶竹版權部門。同時也有在[超變身角色扮演前傳](../Page/超變身角色扮演前傳.md "wikilink")中登場的角色之一。
+  - 早川和美（CV：笹島かほる）
+    電視劇「太陽一側(太陽サイド)」的製作人。同時也有在[超變身角色扮演前傳](../Page/超變身角色扮演前傳.md "wikilink")中登場的角色之一。
+  - 久留米健治郎（CV：[草尾毅](../Page/草尾毅.md "wikilink")）
+    生田的前輩，製作人，早坂美久喜歡的對象，動畫結局早坂美久宣稱已經與其訂婚，本人也並沒有反對。同時也有在[超變身角色扮演前傳](../Page/超變身角色扮演前傳.md "wikilink")中登場的角色之一。
+  - 湖島美和（CV：[金田朋子](../Page/金田朋子.md "wikilink")）
+    與兒島美保看似是雙胞胎姊妹，實際上兩個人完全沒關係既不是雙胞胎也不是姊妹，擔任本作男主角所創作的作品[超變身巫女祈鬥士](../Page/超變身巫女祈鬥士.md "wikilink")中的扮演角色之一，飾演イン和レイゲンレイヤー。
+  - 兒島美保（児島美保，CV：金田朋子）
+    與湖島美和看似是雙胞胎姊妹，實際上兩個人完全沒關係既不是雙胞胎也不是姊妹，擔任本作男主角所創作的作品[超變身巫女祈鬥士](../Page/超變身巫女祈鬥士.md "wikilink")中的扮演角色之一，飾演ヨウ和レイゲンレイヤー。
+  - 乾まつり（CV：[清水香里](../Page/清水香里.md "wikilink")）
+    八神菜摘的朋友，已經有一個有錢人的男友，與男友都有擔任本作男主角所創作的作品[超變身巫女祈鬥士](../Page/超變身巫女祈鬥士.md "wikilink")中的扮演角色，飾演タキツヒメ。
 
 ## 主題歌
 
@@ -26,7 +40,7 @@
 <!-- end list -->
 
   -
-    作詞：[荒川稔久](../Page/荒川稔久.md "wikilink")　作曲：[佐橋俊彦](../Page/佐橋俊彦.md "wikilink")　歌：[松来未祐](../Page/松来未祐.md "wikilink")、[小林沙苗](../Page/小林沙苗.md "wikilink")、[大原さやか](../Page/大原さやか.md "wikilink")、[吉田真弓](../Page/吉田真弓.md "wikilink")、[浅井清己](../Page/浅井清己.md "wikilink")
+    作詞：[荒川稔久](../Page/荒川稔久.md "wikilink")　作曲：[佐橋俊彦](https://zh.wikipedia.org/wiki/佐橋俊彦 "wikilink")　歌：[松来未祐](https://zh.wikipedia.org/wiki/松来未祐 "wikilink")、[小林沙苗](../Page/小林沙苗.md "wikilink")、[大原沙耶香](../Page/大原沙耶香.md "wikilink")、[吉田真弓](https://zh.wikipedia.org/wiki/吉田真弓 "wikilink")、[浅井清己](https://zh.wikipedia.org/wiki/浅井清己 "wikilink")
 
 <!-- end list -->
 
@@ -178,7 +192,7 @@
 ## 工作人員
 
   - 企畫/原作：m.o.e.、IMAGIN、スタジオライブ\[2\]
-  - 原案：久米憲司、[荒川稔久](../Page/荒川稔久.md "wikilink")、[大島美和](../Page/大島美和.md "wikilink")、松村やすひろ
+  - 原案：久米憲司、[荒川稔久](../Page/荒川稔久.md "wikilink")、[大島美和](https://zh.wikipedia.org/wiki/大島美和 "wikilink")、松村やすひろ
   - 導演：高橋丈夫
   - 系列構成：荒川稔久
   - 人物設定/總作畫監督：大島美和
@@ -187,7 +201,7 @@
   - 色彩設計：中村近世
   - 攝影監督：天花寺伸宏
   - 編集：田熊純
-  - 音樂：[佐橋俊彦](../Page/佐橋俊彦.md "wikilink")
+  - 音樂：[佐橋俊彦](https://zh.wikipedia.org/wiki/佐橋俊彦 "wikilink")
   - 音樂監督：澁谷知子、小川敬一
   - 音樂製作：サイトロン、デジタルコンテンツ
   - 音響監督：高桑一
@@ -202,13 +216,7 @@
 ## 外部連結
 
   -
-[ja:変身3部作](../Page/ja:変身3部作.md "wikilink")
-
-[Category:2004年UHF動畫](https://zh.wikipedia.org/wiki/Category:2004年UHF動畫 "wikilink")
-[Category:變身女主角動畫](https://zh.wikipedia.org/wiki/Category:變身女主角動畫 "wikilink")
-[Category:職場題材作品](https://zh.wikipedia.org/wiki/Category:職場題材作品 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
+[Category:2004年UHF動畫](https://zh.wikipedia.org/wiki/Category:2004年UHF動畫 "wikilink") [Category:變身女主角動畫](https://zh.wikipedia.org/wiki/Category:變身女主角動畫 "wikilink") [Category:職場題材作品](https://zh.wikipedia.org/wiki/Category:職場題材作品 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
 
 1.
 2.

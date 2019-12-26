@@ -32,9 +32,11 @@ Mina於1997年3月24日出生於[美國](https://zh.wikipedia.org/wiki/美國 "w
 
 2019年7月11日，TWICE所屬公司[JYP發布公告](https://zh.wikipedia.org/wiki/JYP "wikilink")：Mina因對站在舞台上感到突然的極度緊張與不安，經本人與成員的充分商議，認為目前Mina的健康狀況需要進一步治療，因此Mina將不參與接下來的世界巡迴演唱會TWICE WORLD TOUR 2019：TWICELIGHTS。8月27日，JYP娛樂透露：Mina被確診為[焦慮症](../Page/焦虑症.md "wikilink")，將不會與其他團員宣傳新專輯，但已為新專輯錄音和拍攝主打歌MV。\[16\]
 
+2019年10月20日，即隊伍出道四週年，她以《Feel Special》打歌服出席四週年紀念暨萬聖節粉絲見面會，事隔三個月出現在公共場合。三天後，以特別表演嘉賓形式，代替身體抱恙，但有隨團出國的[彩瑛](../Page/彩瑛.md "wikilink")，參加TWICE WORLD TOUR 2019：TWICELIGHTS [北海道](../Page/北海道.md "wikilink")[札幌站演唱會](../Page/札幌市.md "wikilink")。10月27日，Twice 以完全體在其[千葉市](../Page/千葉市.md "wikilink")站表演。10月29日不回韓，為《MCountdown》作事前錄製。
+
 ## 個人生活
 
-2017年12月27日，即TWICE出道第800天，Mina在TWICE的官方instagram帳號透露已在十天前在韓國註冊成為器官捐贈者，她早於2013年已在日本登記。\[17\]
+2017年12月27日，即TWICE出道第800天，Mina在TWICE的官方instagram帳號透露已經在十天前於韓國註冊成為器官捐贈者，她於2013年就已在日本登記。\[17\]
 
 ## 音樂作品
 
@@ -82,7 +84,7 @@ Mina於1997年3月24日出生於[美國](https://zh.wikipedia.org/wiki/美國 "w
 | 8月14日  | MBC                                                                 | 《[真正的男人](../Page/真正的男人.md "wikilink")》                    | 娜璉、Momo、Sana、志效、多賢、彩瑛、子瑜                                            |              |
 | 8月17日  | Mnet                                                                | 《[Hit The Stage](../Page/Hit_The_Stage.md "wikilink")》    | \[19\]                                                              |              |
 | 12月14日 | KBS2                                                                | 《[TRICK\&TRUE](../Page/TRICK&TRUE.md "wikilink")》         | 多賢                                                                  |              |
-| 2017年  | 9月7日                                                                | Mnet                                                      | 《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》             | Momo         |
+| 2017年  | 9月7日                                                                | Mnet                                                      | 《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》             | Momo、Mina    |
 | 2018年  | 4月15日                                                               | MBC                                                       | 《[神秘音乐秀：蒙面歌王](https://zh.wikipedia.org/wiki/神秘音乐秀：蒙面歌王 "wikilink")》 | Momo、彩瑛      |
 | 4月22日  | KBS2                                                                | 《[搞笑演唱会](https://zh.wikipedia.org/wiki/搞笑演唱会 "wikilink")》 | Sana、志效、多贤                                                          |              |
 | MBC    | 《[神秘音乐秀：蒙面歌王](https://zh.wikipedia.org/wiki/神秘音乐秀：蒙面歌王 "wikilink")》 | Momo、彩瑛                                                   |                                                                     |              |
@@ -118,32 +120,18 @@ Mina於1997年3月24日出生於[美國](https://zh.wikipedia.org/wiki/美國 "w
 2.
 3.
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10. THE STAR 2015年11月號提及。Mina在2017年10月24日播出的《[團結才能火](../Page/團結才能火.md "wikilink")》更透露更詳細地點。
-
 11.
-
 12. THE STAR 2015年11月號提及。Mina在2017年10月24日播出的《[團結才能火](../Page/團結才能火.md "wikilink")》更透露更詳細地點。
-
 13.
-
 14.
-
 15. [TWICE(트와이스) 미나 MELODY PROJECT](https://www.youtube.com/watch?v=IG-ykt57E-U)
-
 16.
-
 17.
-
 18. 以“專業舞者”身份支援Momo
-
 19. 以“專業舞者”身份支援Momo

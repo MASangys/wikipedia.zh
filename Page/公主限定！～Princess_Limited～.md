@@ -88,15 +88,10 @@
 [Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:2012年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2012年日本成人動畫 "wikilink") [Category:公主主角題材作品](https://zh.wikipedia.org/wiki/Category:公主主角題材作品 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
 1.
-
 2.  [姫様限定\! 〜Princess Limited〜 特集](http://game-style.jp/special/201102/02b/00lim_ps.php)Game-Style
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
@@ -104,7 +99,5 @@
 10.
 11.
 12.
-
 13.
-
 14.

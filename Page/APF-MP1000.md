@@ -37,10 +37,7 @@
 [Category:1978年面世的產品](https://zh.wikipedia.org/wiki/Category:1978年面世的產品 "wikilink") [Category:家用游戏机](https://zh.wikipedia.org/wiki/Category:家用游戏机 "wikilink") [Category:第二世代遊戲機](https://zh.wikipedia.org/wiki/Category:第二世代遊戲機 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.

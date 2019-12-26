@@ -84,15 +84,15 @@
 </tr>
 <tr class="odd">
 <td><p>适用于雇佣关系的反歧视法</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:X_mark.svg" title="fig:X_mark.svg">X_mark.svg</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:X_mark.svg" title="fig:X_mark.svg">X_mark.svg</a>/<a href="https://zh.wikipedia.org/wiki/File:Yes_check.svg" title="fig:Yes_check.svg">Yes_check.svg</a>（僅部分歧視適用，因司法管轄區而異。）</p></td>
 </tr>
 <tr class="even">
 <td><p>适用于商品及服务的反歧视法</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:X_mark.svg" title="fig:X_mark.svg">X_mark.svg</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:X_mark.svg" title="fig:X_mark.svg">X_mark.svg</a>/<a href="https://zh.wikipedia.org/wiki/File:Yes_check.svg" title="fig:Yes_check.svg">Yes_check.svg</a>（僅部分歧視適用，因司法管轄區而異。）</p></td>
 </tr>
 <tr class="odd">
 <td><p>适用于其他领域的反歧视法（包括间接歧视、厌恶言论）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:X_mark.svg" title="fig:X_mark.svg">X_mark.svg</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:X_mark.svg" title="fig:X_mark.svg">X_mark.svg</a>/<a href="https://zh.wikipedia.org/wiki/File:Yes_check.svg" title="fig:Yes_check.svg">Yes_check.svg</a>（僅部分歧視適用，因司法管轄區而異。）</p></td>
 </tr>
 <tr class="even">
 <td><p>同性婚姻</p></td>

@@ -30,27 +30,16 @@ EMI音樂出版曾經連續超過十年奪得《[音樂一週](https://zh.wikipe
 [Category:EMI](https://zh.wikipedia.org/wiki/Category:EMI "wikilink") [Category:总部在伦敦的跨国公司](https://zh.wikipedia.org/wiki/Category:总部在伦敦的跨国公司 "wikilink") [Category:1974年成立的公司](https://zh.wikipedia.org/wiki/Category:1974年成立的公司 "wikilink") [Category:國際唱片業協會成員](https://zh.wikipedia.org/wiki/Category:國際唱片業協會成員 "wikilink") [Category:英國音樂出版社](https://zh.wikipedia.org/wiki/Category:英國音樂出版社 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.

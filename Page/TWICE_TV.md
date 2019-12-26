@@ -319,7 +319,7 @@ TWICE TV "Dance The Night Away"於2018年7月9日起，不定時在[Naver](https
 | 01♥ 04 | 2018年9月20日  | 娜璉、彩瑛      |
 | 02     | 2018年10月3日  | 娜璉、定延、Momo |
 | EP味增湯  | 2018年12月28日 | 娜璉         |
-| 不一樣的娜璉 | 2019年08月23日 | 娜璉         |
+| 不一樣的娜璉 | 2019年8月23日  | 娜璉         |
 
 ### TWICE TV "YES or YES"
 
@@ -474,6 +474,25 @@ TWICE TV "TWICE ENTERTAINMENT"於2019年7月5日起，每週五在[Naver](https:
 | 2  | 2019年7月12日 | 定延、MOMO、多賢 | A\&R TEAM VER.              |
 | 3  | 2019年7月19日 | 志效、MINA、子瑜 | BUSINESS PLANNING TEAM VER. |
 | 4  | 2019年7月26日 | 全體         | BEHIND SCENE                |
+
+### TWICE TV "FEEL SPECIAL"
+
+TWICE TV "FEEL SPECIAL"於2019年9月22日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") V app 播出。
+
+|    |             |                          |                        |
+| -- | ----------- | ------------------------ | ---------------------- |
+| 集數 | 播放日期        | 參與成員                     | 備註                     |
+| 1  | 2019年9月22日  | 全體                       | Jacket Shooting Behind |
+| 2  | 2019年9月25日  | Jacket Shooting Behind 2 |                        |
+| 3  | 2019年9月29日  | 娜璉篇                      |                        |
+| 4  | 2019年10月1日  | 定延篇                      |                        |
+| 5  | 2019年10月3日  | MOMO篇                    |                        |
+| 6  | 2019年10月5日  | SANA篇                    |                        |
+| 7  | 2019年10月7日  | 志效篇                      |                        |
+| 8  | 2019年10月9日  | MINA篇                    |                        |
+| 9  | 2019年10月11日 | 多賢篇                      |                        |
+| 10 | 2019年10月13日 | 彩瑛篇                      |                        |
+| 11 | 2019年10月18日 | 子瑜篇                      |                        |
 
 ## 註釋
 

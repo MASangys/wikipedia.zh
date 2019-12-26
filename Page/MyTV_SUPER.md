@@ -1,6 +1,6 @@
-是香港[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")旗下MyTV Super Limited於2016年3月成立的收費[OTT平台](https://zh.wikipedia.org/wiki/OTT "wikilink")，於同月15日起測試，4月18日正式推出\[1\]，初期提供[流動應用程式](../Page/流動應用程式.md "wikilink")版及[解碼器版](https://zh.wikipedia.org/wiki/解碼器 "wikilink")。2017年2月，myTV SUPER推出網上版，惟帳戶與前者並不互通（但可以透過跨屏幕同時睇功能配對手機、平板電腦及網頁觀看）。2017年3月，無綫電視宣佈平台用戶數量達至三百萬；2017年4月17日開始接受香港市民訂購至尊版，除了基本版頻道，也增加9個國際知名娛樂組合（直播連點播）和點播組合加入。；2019年4月1日開始接受香港市民訂購myTV Gold，除了基本版頻道，也增加更多組合（包括TVN Movie、BeIN Sport頻道組合及Discovery頻道組合）和點播組合加入。；2019年9月1日起，myTV SUPER全新頻道myTV SUPER 18台正式登陸，提供全面本地賽馬資訊，從馬圈消息、晨操片段、賽前分析、至賽事直播和賽後檢討都一一涵蓋。myTV SUPER更增設「賽馬」專區，提供貼士、賽事、預測及策略等賽馬資訊。
+是香港[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")旗下MyTV Super Limited於2016年3月成立的收費[OTT平台](https://zh.wikipedia.org/wiki/OTT "wikilink")，於同月15日起測試，4月18日正式推出\[1\]，初期提供[流動應用程式](../Page/流動應用程式.md "wikilink")版及[解碼器版](https://zh.wikipedia.org/wiki/解碼器 "wikilink")。2017年2月，myTV SUPER推出網上版，惟帳戶與前者並不互通（但可以透過跨屏幕同時睇功能配對手機、平板電腦及網頁觀看）。2017年3月，無綫電視宣佈平台用戶數量達至三百萬；2017年4月17日開始接受香港市民訂購至尊版，除了基本版頻道，也增加9個國際知名娛樂組合（直播連點播）和點播組合加入。；2019年4月1日開始接受香港市民訂購myTV Gold，除了基本版頻道，也增加更多組合（包括[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") Movie、[beIN SPORTS頻道組合及](https://zh.wikipedia.org/wiki/beIN_Sports "wikilink")[Discovery頻道組合](https://zh.wikipedia.org/wiki/Discovery "wikilink")）和點播組合加入。2019年9月1日起，myTV SUPER全新頻道[myTV SUPER 18台正式登陸](https://zh.wikipedia.org/wiki/myTV_SUPER_18台 "wikilink")，提供全面本地賽馬資訊，從馬圈消息、晨操片段、賽前分析、至賽事直播和賽後檢討都一一涵蓋。myTV SUPER更增設「賽馬」專區，提供貼士、賽事、預測及策略等賽馬資訊。
 
-2017年4月，MyTV SUPER亦向海外地區推出[TVB Anywhere](../Page/TVB_Anywhere.md "wikilink")。因應法律或技術問題，在[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[越南等地未有全面支援](https://zh.wikipedia.org/wiki/越南 "wikilink")。
+2017年4月，MyTV SUPER亦向海外地區推出[TVB Anywhere](../Page/TVB_Anywhere.md "wikilink")。因應法律或技術問題，在[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[美國等地未有全面支援](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
 ## 概要
 
@@ -801,7 +801,7 @@ myTV SUPER早期只供收費用戶使用，後來為了擴大宣傳而推出限�
 <td><p>2017年</p></td>
 <td><p><a href="../Page/彬與瑛.md" title="wikilink">彬與瑛</a></p></td>
 <td></td>
-<td><p><strong>同步播出</strong>(慢日本兩天)</p></td>
+<td><p><strong>同步播出</strong>（慢日本兩天）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Plage.md" title="wikilink">問題室友</a></p></td>
@@ -1780,7 +1780,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
   - **第七集**：[麥玲玲](../Page/麥玲玲.md "wikilink")
   - **第八集**：[黃智賢](https://zh.wikipedia.org/wiki/黃智賢 "wikilink")（《[四個女仔三個BAR](../Page/四個女仔三個BAR.md "wikilink")》范智毅）
   - **第九集**：[農夫](../Page/農夫_\(組合\).md "wikilink")（《[Do姐有問題](../Page/Do姐有問題.md "wikilink")》）
-  - **第十集**：[羅蘭](https://zh.wikipedia.org/wiki/羅蘭 "wikilink")
+  - **第十集**：[羅蘭(香港)](https://zh.wikipedia.org/wiki/羅蘭\(香港\) "wikilink")
   - **第十一集**：[陳凱琳](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")（《[殭](https://zh.wikipedia.org/wiki/殭 "wikilink")》藍夢瑤）
   - **第十二集**：[張秀文](../Page/張秀文.md "wikilink")、[陳婉衡](../Page/陳婉衡.md "wikilink")、[朱智賢](../Page/朱智賢.md "wikilink")（《[3日2夜](../Page/3日2夜.md "wikilink")》）
   - **第十三集**：[洪永城](../Page/洪永城.md "wikilink")（《[張保仔](../Page/張保仔.md "wikilink")》張保仔、《[實習天使](../Page/實習天使.md "wikilink")》楊志明）
@@ -1854,7 +1854,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 
 <!-- end list -->
 
-  - 9月1日，myTV SUPER 18台（18頻道）啟播，並免費至2020年2月29日。
+  - 9月1日，[myTV SUPER 18台](https://zh.wikipedia.org/wiki/myTV_SUPER_18台 "wikilink")（18頻道）啟播，並免費至2019年12月31日。
 
 ## 頻道列表
 
@@ -1885,10 +1885,10 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
-<td><p>myTV SUPER 18台<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/myTV_SUPER_18台" title="wikilink">myTV SUPER 18台</a><br />
 </p></td>
 <td><p>2019年9月1日</p></td>
-<td><p>myTV SUPER 18台</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/myTV_SUPER_18台" title="wikilink">myTV SUPER 18台</a></p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/C18">myTV SUPER節目表</a></p></td>
 </tr>
 <tr class="even">
@@ -2714,9 +2714,9 @@ myTV SUPER網上版2017年2月推出初期，只支援[Internet Explorer](../Pag
 
 ## TVB Anywhere
 
-**TVB Anywhere**是[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")一個收費[OTT服務平台](https://zh.wikipedia.org/wiki/OTT服務 "wikilink")，2014年4月或2015年2月1日正式於歐洲或澳洲推出，2016年9月15日全球啟動，相当于[myTV SUPER的海外版](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")，讓觀眾在電視、[網絡電視盒子及](https://zh.wikipedia.org/wiki/網絡電視盒子 "wikilink")[智能電話收看超過](https://zh.wikipedia.org/wiki/智能電話 "wikilink")50條頻道，以及重溫[無綫電視節目](../Page/無綫電視節目.md "wikilink")。同公司同類服務有encore TVB。\[24\]\[25\]\[26\]
+**TVB Anywhere**是[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")一個收費[OTT服務平台](https://zh.wikipedia.org/wiki/OTT服務 "wikilink")，2014年4月或2015年2月1日正式在歐洲、澳洲推出，2016年9月15日在全球各地推出，相当于[myTV SUPER的海外版](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")，讓觀眾在電視、[網絡電視盒子及](https://zh.wikipedia.org/wiki/網絡電視盒子 "wikilink")[智能電話收看超過](https://zh.wikipedia.org/wiki/智能電話 "wikilink")50條頻道，以及重溫[無綫電視節目](../Page/無綫電視節目.md "wikilink")。同公司同類服務有encore TVB。\[24\]\[25\]\[26\]
 
-本服務現不適用於[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[台灣和](https://zh.wikipedia.org/wiki/台灣 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。
+本服務現不適用於[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[馬來西亞和](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
 ### 頻道列表
 
@@ -2740,7 +2740,7 @@ myTV SUPER網上版2017年2月推出初期，只支援[Internet Explorer](../Pag
 <li>美加東岸時區</li>
 </ul></td>
 <td><ul>
-<li>澳、新時區</li>
+<li>澳新時區</li>
 <li>香港時區</li>
 </ul></td>
 <td><ul>
@@ -2748,7 +2748,7 @@ myTV SUPER網上版2017年2月推出初期，只支援[Internet Explorer](../Pag
 <li>英國時區</li>
 </ul></td>
 <td><ul>
-<li>澳、新時區</li>
+<li>澳新時區</li>
 <li>香港時區</li>
 </ul></td>
 <td><ul>
@@ -3028,57 +3028,32 @@ myTV SUPER網上版2017年2月推出初期，只支援[Internet Explorer](../Pag
   - [Ani-one官方網頁](http://www.ani-one.com.hk/)
   - [Google Play《myTV SUPER》App下載](https://play.google.com/store/apps/details?id=com.tvb.mytvsuper)
 
-[Category:電視廣播（國際）有限公司](https://zh.wikipedia.org/wiki/Category:電視廣播（國際）有限公司 "wikilink") [Category:無綫電視](https://zh.wikipedia.org/wiki/Category:無綫電視 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:無綫電視](https://zh.wikipedia.org/wiki/Category:無綫電視 "wikilink") [Category:IPTV](https://zh.wikipedia.org/wiki/Category:IPTV "wikilink")
+[Category:電視廣播（國際）](https://zh.wikipedia.org/wiki/Category:電視廣播（國際） "wikilink") [Category:無綫電視](https://zh.wikipedia.org/wiki/Category:無綫電視 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:無綫電視](https://zh.wikipedia.org/wiki/Category:無綫電視 "wikilink") [Category:IPTV](https://zh.wikipedia.org/wiki/Category:IPTV "wikilink")
 
 1.
-
 2.
-
 3.  [Ani-one官方網頁](http://www.ani-one.com.hk/)
-
 4.  <https://promo.mytvsuper.com/tc/service-fee>
-
 5.  點播區上載足本版
-
 6.
 7.  [馬丁路德改教500周年 創世電視登陸myTV SUPER 祝福全港700萬人](http://www.media.org.hk/tme_main/index.php/action/1031)
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15. [蘋果日報：節目狂宣傳「myTV SUPER」被罰20萬 TVB擬提司法覆核](http://hk.apple.nextmedia.com/realtime/news/20161122/55951208)，2016年11月22日。
-
 16.
-
 17. 現時已知用戶以被官方系統定性為「新裝置」的[硬件](../Page/硬件.md "wikilink")上，可進行重新登入的限制為每月三次。
-
 18. [myTV 節目整合改動](http://b.tvb.com/whatsnew/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/2010/09/18/mytv-%E7%AF%80%E7%9B%AE%E6%95%B4%E5%90%88%E6%94%B9%E5%8B%95/) tvb.com最新消息，2010年9月18日
-
 19. [【myAVSUPER】色情網站收TVB律師信警告網址及商標刻意抄襲](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/81104/myavsuper-%E8%89%B2%E6%83%85%E7%B6%B2%E7%AB%99%E6%94%B6tvb%E5%BE%8B%E5%B8%AB%E4%BF%A1-%E8%AD%A6%E5%91%8A%E7%B6%B2%E5%9D%80%E5%8F%8A%E5%95%86%E6%A8%99%E5%88%BB%E6%84%8F%E6%8A%84%E8%A5%B2) 香港01 2017年3月29日
-
 20. [myAVSuper反擊：指控無理據、全球流量排名高過myTVSuper](http://www.popnews.hk/?p=15943) POPNews
-
 21. [〈娛樂乜乜乜〉點解毛記冇事，myAVSUPER有事](https://news.now.com/home/entertainment/player?newsId=215990) Now 新聞
-
 22. [介面跟足色情網 ThisATV網站疑惡搞亞視](https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20150319/s00001/1426757357126/%E4%BB%8B%E9%9D%A2%E8%B7%9F%E8%B6%B3%E8%89%B2%E6%83%85%E7%B6%B2-thisatv%E7%B6%B2%E7%AB%99%E7%96%91%E6%83%A1%E6%90%9E%E4%BA%9E%E8%A6%96) 香港明報 2015年3月19日星期四
-
 23. [亞視Fans 惡攪？ thisav 色情網變thisatv](https://unwire.hk/2015/03/19/thisatv/fun-tech/) Unwire 2015年3月19日
-
 24. [2017年TVB中期報告（英語）](http://corporate.tvb.com/_upload_/article/en/1791df98865e688507358541bfd13504.pdf)
-
 25. [2017年TVB中期報告（簡體中文）](http://corporate.tvb.com/_upload_/article/sc/90268189007f13a6ed811bad0f1ebb72.pdf)
-
 26. [2017年TVB中期報告（繁體中文）](http://corporate.tvb.com/_upload_/article/tc/b471bf1a26d9b70e337c224523f09b57.pdf)
-
 27. [Truyền hình Việt ngữ TVB Anywhere](https://www.youtube.com/watch?v=Jj3o1W0Fn_I) TVBAustralia- VietTV, Youtube, 2017年5月7日, 於2018年8月31日查閱

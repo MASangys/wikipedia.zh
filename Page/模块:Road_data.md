@@ -2,14 +2,11 @@ local p = {}
 
 \-- Change to "" upon deployment. local moduleSuffix = "/sandbox"
 
-local parserModuleName = "Module:Road data/parser" .. moduleSuffix local
-statenameModuleName = "Module:Jct/statename/sandbox" -- TODO transition
+local parserModuleName = "Module:Road data/parser" .. moduleSuffix local statenameModuleName = "Module:Jct/statename/sandbox" -- TODO transition
 
-local concat = table.concat local insert = table.insert local format =
-mw.ustring.format
+local concat = table.concat local insert = table.insert local format = mw.ustring.format
 
-local parserModule = require(parserModuleName) local parser =
-parserModule.parser local util = require("Module:Road data/util")
+local parserModule = require(parserModuleName) local parser = parserModule.parser local util = require("Module:Road data/util")
 
 \-- Shields local defaultShieldSize = 20
 
@@ -126,10 +123,7 @@ local missingShields
 
 local shieldExistsCache = {}
 
-\-- Return up to two booleans. -- The first boolean is false if
-\`shield\` does not exist, and true otherwise. -- If the first boolean
-is true, the second boolean is true if the shield is -- landscape (width
-\>= height), and false otherwise. local function shieldExists(shield)
+\-- Return up to two booleans. -- The first boolean is false if \`shield\` does not exist, and true otherwise. -- If the first boolean is true, the second boolean is true if the shield is -- landscape (width \>= height), and false otherwise. local function shieldExists(shield)
 
 `   local result = shieldExistsCache[shield]`
 `   if result == nil then`
@@ -217,7 +211,7 @@ function p.link(route)
 `   local link = parser(route, 'link') or ''`
 `   if link == '' then return abbr, abbr end`
 
-`   return format("`[`%s`](../Page/%s.md "wikilink")`", link, abbr), abbr`
+`   return format("`[`%s`](https://zh.wikipedia.org/wiki/%s "wikilink")`", link, abbr), abbr`
 
 end
 
@@ -257,10 +251,10 @@ function p.locations(args, module, group)
 `   local regionText`
 `   if type(region) == "table" then`
 `       regionName = region.name`
-`       regionText = format("`[`%s`](../Page/%s.md "wikilink")`", region.link, regionName)`
+`       regionText = format("`[`%s`](https://zh.wikipedia.org/wiki/%s "wikilink")`", region.link, regionName)`
 `   else`
 `       regionName = region`
-`       regionText = format("`[`%s`](../Page/%s.md "wikilink")`", regionName)`
+`       regionText = format("`[`%s`](https://zh.wikipedia.org/wiki/%s "wikilink")`", regionName)`
 `   end`
 `   args.region = regionName`
 
@@ -287,7 +281,7 @@ function p.locations(args, module, group)
 `               spec[modulenameprefix] or spec.nameprefix or "",`
 `               indepCity,`
 `               spec[modulenamesuffix] or spec.namesuffix or "")`
-`           indepCityText = format("%s%s`[`%s`](../Page/%s.md "wikilink")`",`
+`           indepCityText = format("%s%s`[`%s`](https://zh.wikipedia.org/wiki/%s "wikilink")`",`
 `               spec[modulearticle] or spec.article or "",`
 `               spec[moduleprefix] or spec.prefix or "",`
 `               link, name)`
@@ -296,12 +290,12 @@ function p.locations(args, module, group)
 `           warnings.indep_city = "Spec for indep_city parameter undefined in road data module"`
 `           local cityLink -- Wikilink for independent city`
 `           if primaryTopic then`
-`               cityLink = format('`[`%s`](../Page/%s.md "wikilink")`', indepCity)`
+`               cityLink = format('`[`%s`](https://zh.wikipedia.org/wiki/%s "wikilink")`', indepCity)`
 `           else`
 `               -- Specialize independent city to the region.`
-`               cityLink = format('`[`%s`](../Page/%s,_%s.md "wikilink")`', indepCity, region, indepCity)`
+`               cityLink = format('`[`%s`](https://zh.wikipedia.org/wiki/%s,_%s "wikilink")`', indepCity, region, indepCity)`
 `           end`
-`           indepCityText = "`[`City`](../Page/Independent_city.md "wikilink")` of " .. cityLink`
+`           indepCityText = "`[`City`](https://zh.wikipedia.org/wiki/Independent_city "wikilink")` of " .. cityLink`
 `       end`
 `   end`
 `   if indepCityText then`
@@ -346,7 +340,7 @@ function p.locations(args, module, group)
 `               spec[modulenameprefix] or spec.nameprefix or "",`
 `               name,`
 `               spec[modulenamesuffix] or spec.namesuffix or "")`
-`           sub1Text = format("%s`[`%s`](../Page/%s.md "wikilink")`", article or "", link, name)`
+`           sub1Text = format("%s`[`%s`](https://zh.wikipedia.org/wiki/%s "wikilink")`", article or "", link, name)`
 `       else`
 `           -- TODO transition`
 `           warnings.sub1 = "Spec for sub1 parameter undefined in road data module"`
@@ -354,10 +348,10 @@ function p.locations(args, module, group)
 `           local sub1Link = sub1name and format("%s %s", sub1, sub1name) or sub1`
 `           local sub1Name = module == "jcttop" and sub1Link or sub1`
 `           if primaryTopic then`
-`               sub1Text = format('`[`%s`](../Page/%s.md "wikilink")`', sub1Link, sub1Name)`
+`               sub1Text = format('`[`%s`](https://zh.wikipedia.org/wiki/%s "wikilink")`', sub1Link, sub1Name)`
 `           else`
 `               -- Specialize first-level subdivision, with type added, to the region.`
-`               sub1Text = format('`[`%s`](../Page/%s,_%s.md "wikilink")`', sub1Link, region, sub1Name)`
+`               sub1Text = format('`[`%s`](https://zh.wikipedia.org/wiki/%s,_%s "wikilink")`', sub1Link, region, sub1Name)`
 `           end`
 `       end`
 `   end`
@@ -376,14 +370,13 @@ function p.locations(args, module, group)
 `           sub2Text = "​" -- Zero-width space`
 `       elseif primaryTopic then`
 `           -- TODO transition`
-`           sub2Text = format("`[`%s`](../Page/%s.md "wikilink")`", sub2)`
+`           sub2Text = format("`[`%s`](https://zh.wikipedia.org/wiki/%s "wikilink")`", sub2)`
 `       else`
 `           local article`
 `           local link = sub2`
 `           local name = sub2`
 `           -- Type of area, e.g., city and village, as a form of disambiguation`
-`           local sub2area = args.sub2area --`[`TODO``
- ``transition`](../Page/TODO_transition.md "wikilink")` or args.area`
+`           local sub2area = args.sub2area --`[`TODO``   ``transition`](https://zh.wikipedia.org/wiki/TODO_transition "wikilink")` or args.area`
 `           if sub2area then`
 `               local sub2areaSpec = locations.sub2areas and locations.sub2areas[sub2area]`
 `               if not sub2areaSpec then`
@@ -468,7 +461,7 @@ function p.locations(args, module, group)
 `               end`
 `               `
 `           end`
-`           sub2Text = format("%s`[`%s`](../Page/%s.md "wikilink")`", article or "", link, name)`
+`           sub2Text = format("%s`[`%s`](https://zh.wikipedia.org/wiki/%s "wikilink")`", article or "", link, name)`
 `       end`
 `   end`
 `   return {region = regionText, sub1 = sub1Text, sub2 = sub2Text, warnings = warnings}`

@@ -73,9 +73,7 @@ HB-E210系共有8列2辆编组列车，编组如下表所示。HB-E211型位于�
 [Category:日本柴油动车组](https://zh.wikipedia.org/wiki/Category:日本柴油动车组 "wikilink") [Category:東日本旅客鐵道車輛](https://zh.wikipedia.org/wiki/Category:東日本旅客鐵道車輛 "wikilink") [Category:綜合車輛製鐵路車輛](https://zh.wikipedia.org/wiki/Category:綜合車輛製鐵路車輛 "wikilink") [Category:桂冠獎](https://zh.wikipedia.org/wiki/Category:桂冠獎 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
@@ -84,21 +82,15 @@ HB-E210系共有8列2辆编组列车，编组如下表所示。HB-E211型位于�
 8.
 9.
 10.
-
 11.
 12.
 13.
 14.
-
 15.
-
 16.
-
 17.
 18.
 19.
-
 20.
 21.
-
 22.

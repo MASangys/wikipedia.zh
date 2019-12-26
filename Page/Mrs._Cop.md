@@ -246,6 +246,16 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/金惠奫" title="wikilink">金惠奫</a></p></td>
+<td></td>
+<td><p>离家出走的青少年（EP5）</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -410,7 +420,7 @@
 
 [Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:警匪電視劇](https://zh.wikipedia.org/wiki/Category:警匪電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
 
-1.  [起光、金旻鍾、申素律合作](http://kpopn.com/2015/07/09/284654/)
+1.
 2.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 3.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)
 4.  2015年9月28日晚間SBS播出中秋特選大作《》，故第17集延至9月29日與第18集連續放送。

@@ -7,7 +7,7 @@
   -
   - [Coverage on the PGA Tour's official site](http://www.pgatour.com/tournaments/bmw-championship.html)
 
-  - [Official site of the Western Golf Association](http://www.westerngolfassociation.com/)
+  - [Official site of the Western Golf Association](https://web.archive.org/web/20100617120914/http://www.westerngolfassociation.com/)
 
   - [BMW signs six-year deal](https://web.archive.org/web/20070930072357/http://www.pgatour.com/2007/tournaments/r028/01/12/bmw_championship/index.html) - includes details of course rotation
 

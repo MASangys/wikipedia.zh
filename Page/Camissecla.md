@@ -32,5 +32,4 @@
 [Category:美灰蝶族](https://zh.wikipedia.org/wiki/Category:美灰蝶族 "wikilink") [Category:Camissecla](https://zh.wikipedia.org/wiki/Category:Camissecla "wikilink")
 
 1.  Brower, Andrew V. Z. 2008. Camissecla Robbins & Duarte 2004. Groundstreaks. Version 24 March 2008 (under construction). <http://tolweb.org/Camissecla/112961/2008.03.24> in The Tree of Life Web Project, <http://tolweb.org/>
-
 2.

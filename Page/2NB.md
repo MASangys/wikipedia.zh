@@ -683,61 +683,34 @@
 [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink")
 
 1.  [투앤비, '여자 플라이투더스카이'로 인정받아](http://star.mt.co.kr/stview_sports.htm?no=2006040616054333419) Star News
-
 2.  ['새 멤버 영입' 투앤비, 신인탈출의 날갯짓](http://m.entertain.naver.com/read?oid=076&aid=0001969330) Sports Chosun
-
 3.  [투앤비, 해체 5년 만에 새 멤버 김효진-손유나 영입 ‘2기 체제 컴백’](http://www.etnews.com/20160831000391) etnews
-
 4.  [First Story - 김현주](http://www.mnet.com/album/8821) Mnet
-
 5.  [첫번째 향기 (Single) - 2NB](http://www.mnet.com/album/146632) Mnet
-
 6.  [Challenge - 솔지](http://www.mnet.com/album/156464) Mnet
-
 7.  [사랑이 고프다 (Single) - 김송이](http://www.mnet.com/album/175929) Mnet
-
-8.  [허솔지, 소속사와 계약만료로 투앤비 탈퇴](http://sports.donga.com/3//20110621/38196455/1) dongA.com
-
+8.  [허솔지, 소속사와 계약만료로 투앤비 탈퇴](http://sports.donga.com/3//20110621/38196455/1)  dongA.com
 9.  [EXID 公開二位新成員](http://kpopn.com/2012/07/31/136269/)  Kpopn
-
 10. [복학생 백지영, 2NB의 '김송이'\! - 히든싱어 10회](https://www.youtube.com/watch?v=ANdm30iTWeQ) JTBC Entertainment
-
 11. [k-pop 걸그룹 블레이디 예능 첫 신고식 가빈 편 blady-tv.kim](https://www.youtube.com/watch?v=zcI6Q647IIs) blady-tv.kim
-
 12. [Blady經紀公司 Profile](http://tenspace.iptime.org/star/blady/?page_id=1557)
-
 13.
 14. [2NB官方Profile](http://www.donutsculture.com/main/page.html?pid=98)
-
 15.
 16. [1](http://www.afreecatv.com/hipgirl) 金嘉熙的直播帳號
-
 17.
 18. [粉絲詢問有關BLADY正名，公司以羅馬拼音及漢字回答](http://1.bp.blogspot.com/-oGbaYhghIlg/VR_kbTTC63I/AAAAAAAAGKs/kBOEP4bGRcc/s1600/11076018_796404280434975_1385512098_n.jpg)
-
 19. [EXID 솔지, 前투앤비 동료 가빈 걸그룹 블레이디 합류 현장 방문..'의리'](http://star.mt.co.kr/view/stview.php?no=2015030917372129035) Star News
-
 20.
 21. [영화 홀리OST \`샤랄라\` - 2NB 김송이 (민아 Of 걸스데이주연)_MV](https://www.youtube.com/watch?v=r7C2_2uXF40) Soribada (소리바다)
-
 22. [女子組合2NB發行單曲 翻唱KISS《因為是女人》](http://yule.sohu.com/20070531/n250326565.shtml) Mydaily
-
-23. [2NB 推出新歌\[그대죠](http://kpopn.com/2010/11/11/40325/)\] Kpopn
-
+23. [2NB 推出新歌\[그대죠](http://kpopn.com/2010/11/11/40325/)\]  Kpopn
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.

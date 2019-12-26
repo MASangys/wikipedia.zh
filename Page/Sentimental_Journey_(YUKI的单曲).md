@@ -35,12 +35,8 @@
 [Category:YUKI歌曲](https://zh.wikipedia.org/wiki/Category:YUKI歌曲 "wikilink") [Category:2003年單曲](https://zh.wikipedia.org/wiki/Category:2003年單曲 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.

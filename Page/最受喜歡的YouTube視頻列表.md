@@ -272,7 +272,7 @@
 <td><center>
 <p>21.</p>
 </center></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/數星星星" title="wikilink">Counting Stars</a>[23]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/數星星" title="wikilink">Counting Stars</a>[23]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/數星星" title="wikilink">數星星</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/OneRepublic" title="wikilink">共和世代</a></p></td>
 <td><p>9,641,823</p></td>
@@ -430,63 +430,33 @@
 
 1.
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.

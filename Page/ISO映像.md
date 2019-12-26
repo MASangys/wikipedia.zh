@@ -4,7 +4,7 @@ ISO映像可以使用三种方式创建：使用从光盘创建，使用[光盘�
 
 ## 描述
 
-实际上不存在对ISO映像文件的标准定义。ISO是未压缩的，并且不使用某种容器格式；它只是逐个复制一张光盘上的数据[扇区](https://zh.wikipedia.org/wiki/磁盘扇区 "wikilink")，然后存储在一个二进制文件中。ISO映像预期包含光学媒体的[文件系统](../Page/文件系统.md "wikilink")（通常是[ISO 9660及其扩展](../Page/ISO_9660.md "wikilink")，或者[UDF](../Page/通用光碟格式.md "wikilink")），复制了存储在光盘上文件的二进制数据。ISO映像内的数据结构与光盘创建时使用的文件系统相同。
+实际上，不存在对ISO映像文件的标准定义。ISO是未压缩的，并且不使用某种容器格式；它只是逐个复制一张光盘上的数据[扇区](https://zh.wikipedia.org/wiki/磁盘扇区 "wikilink")，然后存储在一个二进制文件中。ISO映像预期包含光学媒体的[文件系统](../Page/文件系统.md "wikilink")（通常是[ISO 9660及其扩展](../Page/ISO_9660.md "wikilink")，或者[UDF](../Page/通用光碟格式.md "wikilink")），复制了存储在光盘上文件的二进制数据。ISO映像内的数据结构与光盘创建时使用的文件系统相同。
 
 ISO文件只存储光盘上各扇区的用户数据，会忽略[控制头和错误纠正数据](../Page/CD-ROM.md "wikilink")，因此略小于光盘介质的原始映像。因为光盘上每个逻辑扇区的用户数据是2,048字节，ISO映像的大小会以2,048字节为基础单位。
 
@@ -14,7 +14,7 @@ ISO文件只存储光盘上各扇区的用户数据，会忽略[控制头和错�
 
 格式有着被不同设备、操作系统或硬件读取的能力。一个例子是，[Microsoft Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Macintosh支持单个磁盘映像的安装盘](https://zh.wikipedia.org/wiki/Mac電腦 "wikilink")（包含多个文件系统）。
 
-ISO可以被适当的[驱动程序](../Page/驱动程序.md "wikilink")软件“挂载”，即操作系统将其模拟和对待成一个仿佛一个物理光盘。包括[GNU/Linux和](../Page/Linux.md "wikilink")[Mac OS X等大多数](https://zh.wikipedia.org/wiki/OS_X "wikilink")[类Unix操作系统提供内置功能来挂载ISO](https://zh.wikipedia.org/wiki/类Unix "wikilink")，[Windows 8也提供了此功能](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")。\[2\]其他软件还可安装驱动程序到操作系统以达到相同目的。<span class="cx-segment" data-segmentid="133"></span>
+ISO可以被适当的[驱动程序](../Page/驱动程序.md "wikilink")软件“挂载”，即操作系统将其模拟和对待成一个物理光盘。包括[GNU/Linux和](../Page/Linux.md "wikilink")[Mac OS X等大多数](https://zh.wikipedia.org/wiki/OS_X "wikilink")[类Unix操作系统提供内置功能来挂载ISO](https://zh.wikipedia.org/wiki/类Unix "wikilink")，[Windows 8也提供了此功能](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")。\[2\]其他软件还可安装驱动程序到操作系统以达到相同目的。<span class="cx-segment" data-segmentid="133"></span>
 
 因为没有标准定义ISO光盘映像的文件格式，名词“ISO映像”有时会指任何光盘映像文件，而不限于其所用格式。
 

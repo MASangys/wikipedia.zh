@@ -26,7 +26,7 @@
 
 迷你「鈹」式卡賓槍使用了與Wz. 1989縞瑪瑙卡賓槍的完全相同的槍機機框和活塞連桿、燃氣缸、上護木和瞄準系統；類似地，亦使用了與Wz. 1996「鈹」式步槍的完全相同的機匣外殼、防塵蓋、扳機組件和。
 
-迷你「鈹」式卡賓槍使用與「鈹」式步槍相同的瞄準系統，並非一般[AK-47及其衍生型的](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")[機匣左側](https://zh.wikipedia.org/wiki/機匣 "wikilink")，而是在照門座的兩側加上兩條切口用於固定POPC瞄準具導軌座以安裝以下光學瞄準具：PCS-6被動式[夜視瞄準鏡](../Page/夜視鏡.md "wikilink")、CK-3反射光學準直式瞄準鏡（[紅點瞄準鏡](../Page/紅點鏡.md "wikilink")）、LKA-4望遠式光學瞄準鏡和CWL-1內置[激光測距儀式光學瞄準鏡](https://zh.wikipedia.org/wiki/激光測距儀 "wikilink")。
+迷你「鈹」式卡賓槍使用與「鈹」式步槍相同的瞄準系統，並非一般[AK及其衍生型的](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")[機匣左側](https://zh.wikipedia.org/wiki/機匣 "wikilink")，而是在照門座的兩側加上兩條切口用於固定POPC瞄準具導軌座以安裝以下光學瞄準具：PCS-6被動式[夜視瞄準鏡](../Page/夜視鏡.md "wikilink")、CK-3反射光學準直式瞄準鏡（[紅點瞄準鏡](../Page/紅點鏡.md "wikilink")）、LKA-4望遠式光學瞄準鏡和CWL-1內置[激光測距儀式光學瞄準鏡](https://zh.wikipedia.org/wiki/激光測距儀 "wikilink")。
 
 迷你「鈹」式卡賓槍與「鈹」式步槍一樣發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，當中包括鋼芯式標準彈、[曳光彈](../Page/曳光彈.md "wikilink")和訓練型塊狀彈，這些彈種都是由[斯卡日斯科-卡緬納](../Page/斯卡日斯科-卡緬納.md "wikilink")鎮Zakłady Metalowe Mesko工廠生產。
 

@@ -865,18 +865,11 @@
 [Category:日本電視台週六深夜連續劇](https://zh.wikipedia.org/wiki/Category:日本電視台週六深夜連續劇 "wikilink") [Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink") [Category:2016年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年日本電視劇集 "wikilink") [Category:日本動作劇](https://zh.wikipedia.org/wiki/Category:日本動作劇 "wikilink") [Category:黑幫題材電視劇](https://zh.wikipedia.org/wiki/Category:黑幫題材電視劇 "wikilink") [Category:週刊少年Champion](https://zh.wikipedia.org/wiki/Category:週刊少年Champion "wikilink") [Category:2016年日本電影](https://zh.wikipedia.org/wiki/Category:2016年日本電影 "wikilink") [Category:松竹](https://zh.wikipedia.org/wiki/Category:松竹 "wikilink") [Category:黑幫電影](https://zh.wikipedia.org/wiki/Category:黑幫電影 "wikilink") [Category:日本动作片](https://zh.wikipedia.org/wiki/Category:日本动作片 "wikilink") [Category:2010年代动作片](https://zh.wikipedia.org/wiki/Category:2010年代动作片 "wikilink") [Category:2017年日本電影](https://zh.wikipedia.org/wiki/Category:2017年日本電影 "wikilink")
 
 1.
-
 2.  映画情報のぴあ映画生活(1ページ)|accessdate=2016-05-25|work=ぴあ映画生活}}
-
 3.
-
 4.
-
 5.  [EXILE TRIBE、50名の舞台挨拶\! 4,000人の歓声にAKIRAが”神対応”](http://news.mynavi.jp/news/2016/07/04/474/)
-
 6.
 7.
-
 8.
-
 9.

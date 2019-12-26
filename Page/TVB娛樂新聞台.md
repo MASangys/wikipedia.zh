@@ -150,9 +150,8 @@
 |                    **娛樂新聞台粵語主播**                    |
 | :-------------------------------------------------: |
 |          [周奕瑋](../Page/周奕瑋.md "wikilink")           |
-|          [蘇可欣](../Page/蘇可欣.md "wikilink")           |
-| [郭浩皇](https://zh.wikipedia.org/wiki/郭浩皇 "wikilink") |
-| [吳紫韻](https://zh.wikipedia.org/wiki/吳紫韻 "wikilink") |
+|          [陳婉衡](../Page/陳婉衡.md "wikilink")           |
+|          [周佩婷](../Page/周佩婷.md "wikilink")           |
 | [鍾煒喬](https://zh.wikipedia.org/wiki/鍾煒喬 "wikilink") |
 
 |            **娛樂頭條主播**            |
@@ -184,6 +183,7 @@
 |              [黃煦齡](../Page/黃煦齡.md "wikilink")              |
 |              [黃文意](../Page/黃文意.md "wikilink")              |
 |          [黃曉明](../Page/黃曉明_\(香港\).md "wikilink")           |
+|             [歐陽巧瑩](../Page/歐陽巧瑩.md "wikilink")             |
 |                         **曾任國語主播**                         |
 |    [江欣庭](https://zh.wikipedia.org/wiki/江欣庭 "wikilink")     |
 |         [胡志偉](../Page/胡志偉_\(香港先生\).md "wikilink")          |
@@ -198,6 +198,7 @@
 | [李敏儀](https://zh.wikipedia.org/wiki/李敏儀_\(香港\) "wikilink") |
 |    [鄺芷珊](https://zh.wikipedia.org/wiki/鄺芷珊 "wikilink")     |
 |    [馬梓軒](https://zh.wikipedia.org/wiki/馬梓軒 "wikilink")     |
+|              [葉韋彤](../Page/葉韋彤.md "wikilink")              |
 
 ## 海外播放
 
@@ -293,21 +294,21 @@
 <tr class="odd">
 <td><p>2016</p></td>
 <td><p><a href="https://programme.mytvsuper.com/tc/109983/娛樂3兄弟大民調2016">娛樂3兄弟大民調2016</a></p></td>
-<td><p><a href="../Page/陸浩明.md" title="wikilink">陸浩明</a>、<a href="../Page/區永權.md" title="wikilink">區永權</a>、衛志豪</p></td>
+<td><p><a href="../Page/陸浩明.md" title="wikilink">陸浩明</a>、<a href="../Page/區永權.md" title="wikilink">區永權</a>、<a href="../Page/衛志豪.md" title="wikilink">衛志豪</a>、<a href="../Page/許文軒.md" title="wikilink">許文軒</a>、<a href="../Page/潘盈慧.md" title="wikilink">潘盈慧</a>、<a href="https://zh.wikipedia.org/wiki/王鎮泉" title="wikilink">王鎮泉</a></p></td>
 <td><p><a href="../Page/張志明_(監製).md" title="wikilink">張志明</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/顏家明" title="wikilink">顏家明</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
 <td><p><a href="http://programme.tvb.com/variety/starbizreview2017">娛樂3兄弟繽Fun大派對2017</a></p></td>
-<td><p>陸浩明、區永權、衛志豪</p></td>
+<td><p><a href="../Page/陸浩明.md" title="wikilink">陸浩明</a>、<a href="../Page/區永權.md" title="wikilink">區永權</a>、<a href="../Page/衛志豪.md" title="wikilink">衛志豪</a>、<a href="../Page/許文軒.md" title="wikilink">許文軒</a>、<a href="../Page/潘盈慧.md" title="wikilink">潘盈慧</a>、<a href="https://zh.wikipedia.org/wiki/王鎮泉" title="wikilink">王鎮泉</a></p></td>
 <td><p>張志明</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/顏家明" title="wikilink">顏家明</a></p></td>
+<td><p>顏家明</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
 <td><p><a href="http://programme.tvb.com/variety/starbizreview2018">2018娛樂繽Fun大派對</a></p></td>
-<td><p>區永權、<a href="../Page/許文軒.md" title="wikilink">許文軒</a>、<a href="../Page/陳貝兒.md" title="wikilink">陳貝兒</a>、<a href="../Page/陳約臨.md" title="wikilink">陳約臨</a>、<a href="../Page/鄺潔楹.md" title="wikilink">鄺潔楹</a>、<a href="../Page/蘇可欣.md" title="wikilink">蘇可欣</a></p></td>
+<td><p><a href="../Page/區永權.md" title="wikilink">區永權</a>、<a href="../Page/陳貝兒.md" title="wikilink">陳貝兒</a>、<a href="../Page/許文軒.md" title="wikilink">許文軒</a>、<a href="../Page/陳約臨.md" title="wikilink">陳約臨</a>、<a href="../Page/鄺潔楹.md" title="wikilink">鄺潔楹</a>、<a href="../Page/蘇可欣.md" title="wikilink">蘇可欣</a></p></td>
 <td><p>張志明</p></td>
 <td><p>顏家明</p></td>
 </tr>

@@ -147,67 +147,36 @@ Technical Preview 5<br />
 [Category:2016年软件](https://zh.wikipedia.org/wiki/Category:2016年软件 "wikilink") [Category:Windows服务器](https://zh.wikipedia.org/wiki/Category:Windows服务器 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.  [TechNet: Active Directory Federation Services Overview – AD FS in Windows Server Technical Preview](https://technet.microsoft.com/en-us/library/hh831502.aspx?f=255&MSPPError=-2147217396#BKMK_preview)
-
 6.  [TechNet: Windows Server Antimalware Overview for Windows Server Technical Preview (Updated: February 19, 2015)](https://technet.microsoft.com/en-us/library/dn765478.aspx?f=255&MSPPError=-2147217396)
-
 7.  [TechNet: What's New in Remote Desktop Services in the Windows Server Technical Preview (Updated: October 1, 2014)](https://technet.microsoft.com/en-us/library/dn765476.aspx)
-
 8.  [TechNet: What's New in Storage Services in Windows Server Technical Preview (Updated: October 1, 2014)](https://technet.microsoft.com/en-us/library/dn765475.aspx?f=255&MSPPError=-2147217396)
-
 9.  [TechNet: What's New in Failover Clustering in Windows Server Technical Preview (Updated: October 1, 2014)](https://technet.microsoft.com/en-us/library/dn765474.aspx)
-
 10. [TechNet: What's New in Web Application Proxy in Windows Server Technical Preview (Updated: October 1, 2014)](https://technet.microsoft.com/en-us/library/dn765473.aspx?f=255&MSPPError=-2147217396)
-
 11. [TechNet: What's New in Windows PowerShell (Updated: September 30, 2014)](https://technet.microsoft.com/library/hh857339.aspx#BKMK_new50)
-
 12. [System Center Central: Windows Server Technical Preview – New/Removed Windows Server Roles and Features](http://www.systemcentercentral.com/windows-server-technical-preview-newremoved-windows-server-roles-features/)
-
 13. [TechNet: What's New in DHCP in Windows Server Technical Preview (Updated: October 1, 2014)](https://technet.microsoft.com/en-us/library/dn765482.aspx)
-
 14. [TechNet: What's New in DNS Client in Windows Server Technical Preview (Updated: October 1, 2014)](https://technet.microsoft.com/en-us/library/dn765479.aspx?f=255&MSPPError=-2147217396)
-
 15. [TechNet: What's New in DNS Server in Windows Server Technical Preview (Updated: October 1, 2014)](https://technet.microsoft.com/en-us/library/dn765484.aspx)
-
 16. [TechNet: GRE Tunneling in Windows Server Technical Preview (Updated: October 1, 2014)](https://technet.microsoft.com/en-us/library/dn765485.aspx?f=255&MSPPError=-2147217396)
-
 17. [TechNet: What's New in IPAM in Windows Server Technical Preview (Updated: February 6, 2015)](https://technet.microsoft.com/en-us/library/dn765487.aspx)
-
 18. [TechNet: Network Controller (Updated: December 18, 2014)](https://technet.microsoft.com/en-us/library/dn859239.aspx?f=255&MSPPError=-2147217396)
-
 19. [TechNet: What's New in Hyper-V Network Virtualization in Windows Server Technical Preview (Updated: March 11, 2015)](https://technet.microsoft.com/en-us/library/dn931986.aspx?f=255&MSPPError=-2147217396)
-
 20. [TechNet: What's New in Hyper-V in Technical Preview (Updated: November 12, 2014)](https://technet.microsoft.com/en-us/library/dn765471.aspx#BKMK_hot)
-
 21. [TechNet Wiki: Hyper-V Features in Windows Server 2016](http://social.technet.microsoft.com/wiki/contents/articles/33635.hyper-v-aspects-in-windows-server-2016.aspx)
-
 22. [Windows Server Blog: Microsoft Announces Nano Server for Modern Apps and Cloud](http://blogs.technet.com/b/windowsserver/archive/2015/04/08/microsoft-announces-nano-server-for-modern-apps-and-cloud.aspx)
-
 23. [Server & Cloud Blog: Microsoft Announces New Container Technologies for the Next Generation Cloud](http://blogs.technet.com/b/server-cloud/archive/2015/04/08/microsoft-announces-new-container-technologies-for-the-next-generation-cloud.aspx)
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
 33.
-
 34.

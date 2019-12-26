@@ -145,7 +145,7 @@
 
   - [quia ninelie EP Aimer](http://quia.me/detail/dtl110.html)
 
-  - [Arata Kato Photograpy 257 Aimer「ninelie」](http://kesiki.com/portfolio/music/257.html)
+  - [Arata Kato Photograpy 257 Aimer「ninelie」](https://web.archive.org/web/20161022221223/http://kesiki.com/portfolio/music/257.html)
 
   - [＋α (プラスアルファ) 宇宙ガラス](http://plusalpha-glass.com/)
 

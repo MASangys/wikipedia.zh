@@ -47,33 +47,19 @@ DPReview等多数摄影类媒体猜测其使用的是索尼半导体的IMX017CQE
 [Category:卡西歐數位相機](https://zh.wikipedia.org/wiki/Category:卡西歐數位相機 "wikilink")
 
 1.  [カシオ、高速連写モデル「EXILIM PRO EX-F1」を28日に発売](http://dc.watch.impress.co.jp/cda/compact/2008/03/12/8110.html) - Watch Impress
-
 2.  [カシオが「EX-F1」で狙うデジカメの「新しい価値」－日常を「決定的瞬間」に](http://av.watch.impress.co.jp/docs/20080424/rt058.htm) - Watch Impress
-
 3.
-
 4.
-
 5.
-
 6.  [Casio Exilim Pro EX-P600](http://www.dpreview.com/articles/7745930227/casioexp600) - DP Review
-
 7.  [Casio Exilim Pro EX-P700](http://www.dpreview.com/articles/3756621829/casio-p700) - DP Review
-
 8.  [カシオ、EXILIM PRO初のムービーデジカメ「EX-P505」](http://dc.watch.impress.co.jp/cda/compact/2005/01/31/847.html) - Watch Impress
-
 9.  [【2008 CES】高速連写カメラ「EXILIM PRO EX-F1」を公開した米Casioブース](http://dc.watch.impress.co.jp/cda/other/2008/01/09/7714.html) - Watch Impress
-
 10.
-
 11.
-
 12. [カシオ、「EX-F1」用のPC制御ソフトを公開](http://dc.watch.impress.co.jp/docs/news/20090527_170241.html) - Watch Impress
-
 13.
 14.
 15. [カシオEX-F1でウェーブマシンを撮る](http://edu.casio.jp/h_school/ex/camera01/)  -casio.jp
-
 16. [Lumix 4K Photo - Unmissable Moments](http://www.panasonic.com/uk/consumer/cameras-camcorders/lumix-g-compact-system-cameras-learn/article/4K-Photo.html) - panasonic.com
-
 17. [【iPhone 6徹底レビュー】劇的に進化したカメラ機能はデジタル一眼も脱帽](http://trendy.nikkeibp.co.jp/article/pickup/20140915/1060002/) - 日经技术在线

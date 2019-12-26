@@ -1,4 +1,4 @@
-**全音樂**（英文名**Omusic**）是由[環球音樂及](../Page/環球音樂_\(台灣\).md "wikilink")[台灣索尼音樂](../Page/台灣索尼音樂娛樂.md "wikilink")、[華納音樂](https://zh.wikipedia.org/wiki/華納音樂 "wikilink")、[華研國際音樂](../Page/華研國際音樂.md "wikilink")、[福茂唱片](../Page/福茂唱片.md "wikilink")、[杰威爾音樂](../Page/杰威爾音樂.md "wikilink")、[豐華唱片](../Page/豐華唱片.md "wikilink")等[唱片公司](../Page/唱片公司.md "wikilink")與眾來科技\[1\]共同挹資成立的一個「數位音樂服務公司」。提供線上聽歌、離線聽歌、MP3歌曲下載、來電答鈴及鈴聲下載服務。2017年3月31日加入遠傳 friDay 品牌旗下， 提供friDay音樂 。2019年7月10日與[LINE](../Page/LINE.md "wikilink")台灣策略結盟，協力推出LINE MUSIC。\[2\]。
+**全音樂**（英文名為**Omusic**）是由[環球音樂及](../Page/環球音樂_\(台灣\).md "wikilink")[台灣索尼音樂](../Page/台灣索尼音樂娛樂.md "wikilink")、[華納音樂](https://zh.wikipedia.org/wiki/華納音樂 "wikilink")、[華研國際音樂](../Page/華研國際音樂.md "wikilink")、[福茂唱片](../Page/福茂唱片.md "wikilink")、[杰威爾音樂](../Page/杰威爾音樂.md "wikilink")、[豐華唱片](../Page/豐華唱片.md "wikilink")等[唱片公司](../Page/唱片公司.md "wikilink")與[眾來科技](https://zh.wikipedia.org/wiki/眾來科技 "wikilink")\[1\]共同挹資成立的一個「數位音樂服務公司」。提供線上聽歌、離線聽歌、MP3歌曲下載、來電答鈴及鈴聲下載服務。2017年3月31日加入遠傳 friDay 品牌旗下， 提供friDay音樂 。2019年7月10日與[LINE](../Page/LINE.md "wikilink")台灣共同推出LINE MUSIC。\[2\]。
 
 ## 簡介
 
@@ -10,7 +10,7 @@
   - 2011年2月21日，全音樂公司召開記者會正式宣布 Omusic 正式上線，請來眾多藝人站台；加入台灣線上音樂市場\[3\]。
   - 2014年6月5日，專營線上古典樂聆聽與社群的MUZIK ONLINE與OMUSIC合作，聯手推出新服務OMUZIK全古典；進軍古典音樂市場\[4\]。
   - 2017年3月31日，更名為 friDay音樂。\[5\]
-  - 2019年7月10日，與[LINE](../Page/LINE.md "wikilink")台灣策略結盟，協力推出LINE MUSIC。\[6\]
+  - 2019年7月10日，與[LINE](../Page/LINE.md "wikilink")台灣共同推出LINE MUSIC。\[6\]
 
 ## 服務項目
 
@@ -32,19 +32,17 @@
 
 ## 外部連結
 
-  - [friDay音樂](https://omusic.friday.tw/)
-
-  - [LINE MUSIC](https://music-tw.line.me/)
+  - [官方網站](https://info.omusic.com.tw/)
 
 [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
 
 [Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:台灣音樂產業](https://zh.wikipedia.org/wiki/Category:台灣音樂產業 "wikilink") [Category:線上音樂商店](https://zh.wikipedia.org/wiki/Category:線上音樂商店 "wikilink")
 
-1.  [眾來科技簡介](http://www.otiga.com/)
-2.  [LINE MUSIC (Enjoy Music On LINE)](https://music-tw.line.me/)
+1.  [全音樂股份有限公司:台灣公司資料](http://company.g0v.ronny.tw/id/53097756)
+2.  [1](https://music-tw.line.me/)
 3.
 4.
 5.  [更名再出發 friDay音樂來了](http://www.chinatimes.com/realtimenews/20170328004110-260412)2017-03-28
-6.  [音樂是新世代社群語言！LINE MUSIC 融合 LINE 通訊功能強勢登台](https://technews.tw/2019/07/11/line-music-officially-launched-in-taiwan/)2019-07-11
+6.  [2](https://music-tw.line.me/)
 7.
 8.  [全音樂簡介](https://info.omusic.com.tw/)

@@ -2,11 +2,11 @@
 
 它由[Facebook](../Page/Facebook.md "wikilink")、[Instagram](../Page/Instagram.md "wikilink")和一个由个人开发者和企业组成的社群维护。\[1\]\[2\]\[3\]根据[JavaScript](../Page/JavaScript.md "wikilink")分析服务[Libscore](https://zh.wikipedia.org/wiki/Libscore "wikilink")，React目前正在被[Netflix](../Page/Netflix.md "wikilink")、[Imgur](../Page/Imgur.md "wikilink")、[Bleacher Report](https://zh.wikipedia.org/wiki/Bleacher_Report "wikilink")、[Feedly](../Page/Feedly.md "wikilink")、[Airbnb](https://zh.wikipedia.org/wiki/Airbnb "wikilink")、[SeatGeek](https://zh.wikipedia.org/wiki/SeatGeek "wikilink")、[HelloSign等很多网站的主页使用](https://zh.wikipedia.org/wiki/HelloSign "wikilink")。\[4\]
 
-
-
 ## 历史
 
 React由Facebook 的软件工程师Jordan Walke创建。他受到[PHP](../Page/PHP.md "wikilink")的HTML组件框架影响。\[5\]该框架首先于2011年部署于Facebook的 newsfeed，随后于2012年部署于Instagram。它于2013年5月在JSConf US开源。
+
+除此之外，React还有React Native框架，可以用JavaScript写原生应用程序。
 
 ## 参见
 

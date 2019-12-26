@@ -18,18 +18,11 @@
 [Category:细胞生物学](https://zh.wikipedia.org/wiki/Category:细胞生物学 "wikilink") [Category:信号转导](https://zh.wikipedia.org/wiki/Category:信号转导 "wikilink") [Category:基因家族](https://zh.wikipedia.org/wiki/Category:基因家族 "wikilink") [Category:Toll样受体](https://zh.wikipedia.org/wiki/Category:Toll样受体 "wikilink") [Category:免疫系统](https://zh.wikipedia.org/wiki/Category:免疫系统 "wikilink")
 
 1.  大陆译名「-{Toll}-」来自《免疫学名词》第一版[1](http://www.termonline.cn/list.htm?k=toll)
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.

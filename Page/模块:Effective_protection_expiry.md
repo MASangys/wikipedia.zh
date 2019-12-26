@@ -1,8 +1,6 @@
 local p = {}
 
-\-- Returns the expiry of a restriction of an action on a given title,
-or unknown if it cannot be known. -- If no title is specified, the title
-of the page being displayed is used. function p._main(action, pagename)
+\-- Returns the expiry of a restriction of an action on a given title, or unknown if it cannot be known. -- If no title is specified, the title of the page being displayed is used. function p._main(action, pagename)
 
 `   local title`
 `   if type(pagename) == 'table' and pagename.prefixedText then`

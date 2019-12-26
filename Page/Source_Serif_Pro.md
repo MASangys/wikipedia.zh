@@ -25,14 +25,9 @@ Source Serif Pro的第一版於2014年釋出。2.0於2017年釋出，加入更�
 [Category:衬线字体](https://zh.wikipedia.org/wiki/Category:衬线字体 "wikilink") [Category:Adobe字体](https://zh.wikipedia.org/wiki/Category:Adobe字体 "wikilink") [Category:2014年面世](https://zh.wikipedia.org/wiki/Category:2014年面世 "wikilink") [Category:開源字型](https://zh.wikipedia.org/wiki/Category:開源字型 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.

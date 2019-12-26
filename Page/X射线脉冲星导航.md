@@ -29,20 +29,12 @@
 [Category:导航](https://zh.wikipedia.org/wiki/Category:导航 "wikilink") [Category:航空航天](https://zh.wikipedia.org/wiki/Category:航空航天 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.   科学人 {{\!}} 果壳网 科技有意思|date=2016-10-20|accessdate=2016-11-04}}
-
 7.
 8.   科学人 {{\!}} 果壳网 科技有意思|date=2016-11-03|accessdate=2016-11-04}}
-
 9.   科学人 {{\!}} 果壳网 科技有意思|date=2016-11-03|accessdate=2016-11-04}}
-
 10.

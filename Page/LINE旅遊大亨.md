@@ -167,66 +167,37 @@ LINE旅遊大亨的評價在[Google play商店達到](../Page/Google_Play.md "wi
 
 1.
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.   LINE Corporation {{\!}} News|url=[https://linecorp.com/en/pr/news/en/2014/795|accessdate=2019-07-30|work=LINE](https://linecorp.com/en/pr/news/en/2014/795%7Caccessdate=2019-07-30%7Cwork=LINE) Corporation}}
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.
 18.
 19.
-
 20. [LINE 旅遊大亨 最新骰子功能全覽表\!](http://shouyou.com.tw/how/2016/0203/680358.html#.VzPfYIR96Uk) ，LINE旅遊大亨台灣手遊網，2016-02-03\[2016-05-12\]。
-
 21. [LINE 旅遊大亨 - Google Play Android 應用程式](https://play.google.com/store/apps/details?id=com.linecorp.LGGRTW&hl=zh_TW)
-
 22. [如何分辨嘉義市人？問「哪間雞肉飯最難吃」 - 生活 - 自由時報電子報](http://news.ltn.com.tw/news/life/breakingnews/1204427)
-
 23.
-
 24.  네이버 법률|language=ko}}
-
 25.
-
 26. [旅遊大亨首屆世界賽 台灣選手表現不俗](https://cnews.com.tw/120180423a02/)，匯流新聞網，2018-04-23\[2018-04-24\]。
-
 27.
-
 28.
-
 29.
-
 30. [是真的！2月玩「LINE旅遊大亨」 就送20萬歐洲雙人遊](https://news.cnyes.com/news/id/339598)，鉅亨網，2015-02-13\[2018-05-15\]。
-
 31. [《LINE 旅遊大亨》與三麗鷗合作 Hello Kitty驚喜現身](http://www.chinatimes.com/realtimenews/20150930004329-260405)，蘋果日報，2015-09-30\[2018-05-15\]。
-
 32. [《LINE旅遊大亨》與霹靂合作 新角色「素還真」隆重登場](http://www.pili.com.tw/news/2017012611321136651/)，霹靂網，2017-01-26\[2018-05-15\]。
-
 33. [《LINE旅遊大亨》我的老天鵝特別企劃 杯緣子的奇幻漂流超萌降臨](https://www.computerdiy.com.tw/%E3%80%8Aline%E6%97%85%E9%81%8A%E5%A4%A7%E4%BA%A8%E3%80%8B%E6%88%91%E7%9A%84%E8%80%81%E5%A4%A9%E9%B5%9D%E7%89%B9%E5%88%A5%E4%BC%81%E5%8A%83-%E6%9D%AF%E7%B7%A3%E5%AD%90%E7%9A%84%E5%A5%87%E5%B9%BB/)，電腦DIY網站，2017-04-15-\[2018-05-15\]。
-
 34. [年末最大檔 《LINE旅遊大亨》與「REAL BOUT餓狼傳説2 THE NEWCOMERS」聯名合作登場](http://www.mofang.com.tw/NGnews/10000056-10098338-1.html) ，魔方網，2017-12-12\[2018-05-15\]。
-
 35. [《LINE旅遊大亨》推兄弟球場](https://tw.appledaily.com/new/realtime/20180515/1353849/)，蘋果日報，2018-05-15。
-
 36.

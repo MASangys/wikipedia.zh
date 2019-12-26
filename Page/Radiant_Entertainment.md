@@ -14,8 +14,6 @@ Radiant Entertainment由Tom和Tony Cannon共同创立，\[1\]并开发格斗游�
 [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
 1.  [Radiant将推单按钮操作PC格斗游戏](http://game.donews.com/201507/2897731.shtm)
-
 2.
 3.
-
 4.  [Riot收购Radiant工作室 或使旗下游戏量翻倍](http://news.17173.com/content/2016-03-09/20160309161534313.shtml)

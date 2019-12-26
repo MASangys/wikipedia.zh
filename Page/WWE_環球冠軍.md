@@ -22,7 +22,9 @@ WWE環球冠軍創建於2016年7月25日，是世界摔角娛樂的兩個世界�
 
 在摔角狂熱之後，Rollins連續在Money in the bank, supershowdown, stomping grounds,以及extreme rules 4個ppv大賽上衛冕成功，除了在Money in the bank 上擊敗AJ Styles ，其他都是擊敗Baron Corbin ,但就在extreme rules 擊敗Baron 之後，2019公事包鐵梯戰的合約獲勝者「The beast 」Brock Lesnar 進行cash in ，先是以兩記German suplex,再接上一記F5,冠軍重新回到Lesnar手上，而兩人的冠軍腰帶恩怨即將要在SummerSlam 上面解決...
 
-在2019[夏日衝擊](https://zh.wikipedia.org/wiki/夏日衝擊 "wikilink")[賽特·羅林斯](../Page/賽特·羅林斯.md "wikilink")再一次擊敗[布洛克·雷斯納](../Page/布洛克·雷斯納.md "wikilink")拿下第2次的[WWE環球冠軍](https://zh.wikipedia.org/wiki/WWE環球冠軍 "wikilink")。
+在2019[夏日衝擊](https://zh.wikipedia.org/wiki/夏日衝擊 "wikilink")[賽特·羅林斯](../Page/賽特·羅林斯.md "wikilink")再一次擊敗[布洛克·雷斯納](../Page/布洛克·雷斯納.md "wikilink")拿下第2次的[WWE環球冠軍](https://zh.wikipedia.org/wiki/WWE環球冠軍 "wikilink")
+
+2019年轉移至SmackDown陣營。
 
 ## 參考資料
 

@@ -1,7 +1,6 @@
 -----
 
-\-- 重要：在保存编辑前，请务必跑完所有测试用例并保证没有错误输出。 -- 测试方法为：在调试控制台输入 -- --
-print(p.testCase()) -- -- 如果输出为“所有用例均通过！”，说明可以保存编辑，否则请消除错误。
+\-- 重要：在保存编辑前，请务必跑完所有测试用例并保证没有错误输出。 -- 测试方法为：在调试控制台输入 -- -- print(p.testCase()) -- -- 如果输出为“所有用例均通过！”，说明可以保存编辑，否则请消除错误。
 
 -----
 
@@ -9,9 +8,10 @@ local p = {
 
 `   DEFAULT_LINE_COLOR = 'cccccc',`
 `   DEFAULT_STATION_SUFFIX = '站',`
-`   DEFAULT_PLAIN_LINK_TEMPLATE = '`[`{line_title}`](../Page/{line_link}.md "wikilink")`',`
-`   DEFAULT_RICH_LINK_TEMPLATE = ' `<span style="color:#{line_color}"><big>`■`</big></span>` `[`{line_title}`](../Page/{line_link}.md "wikilink")`',`
+`   DEFAULT_PLAIN_LINK_TEMPLATE = '`[`{line_title}`](https://zh.wikipedia.org/wiki/{line_link} "wikilink")`',`
+`   DEFAULT_RICH_LINK_TEMPLATE = ' `<span style="color:#{line_color}"><big>`■`</big></span>` `[`{line_title}`](https://zh.wikipedia.org/wiki/{line_link} "wikilink")`',`
 `   DEFAULT_TRAIN_TIME_TEMPLATE = '往{station_link}方向：{train_time|H:i|次日}',`
+`   DEFAULT_STATION_TRAIN_TIME_TEMPLATE = '{start_time|H:i|次日}-{end_time|H:i|次日}',`
 `   DEFAULT_DATE_ELAPSED_TEXT = '',`
 `   DEFAULT_LINE_DATE_ABSENT_TEXT = '规划中',`
 
@@ -57,7 +57,7 @@ local function _safeExpandTemplate(frame, title, args)
 `   `
 `   local state, result = pcall(_caller, frame, title, args)`
 `   if not state then`
-`       return string.format('`[`:Template:%s`](../Page/:Template:%s.md "wikilink")`', title)`
+`       return string.format('`[`:Template:%s`](https://zh.wikipedia.org/wiki/:Template:%s "wikilink")`', title)`
 `   else`
 `       return result`
 `   end`
@@ -77,8 +77,7 @@ local function _convBool(val, default)
 
 end
 
-function p._internalStationLink(name, style, short, system_data,
-frame)
+function p._internalStationLink(name, style, short, system_data, frame)
 
 `   local station_parts, station_data`
 `   local station_link, station_name`
@@ -95,12 +94,9 @@ frame)
 `           end`
 `       end`
 `       if style == nil or mw.text.trim(style) == '' then`
-`           return '`[`'``   ``..``   ``station_name``   ``..``
- ``'`](../Page/'_.._station_link_.._'.md "wikilink")`'`
+`           return '`[`'``   ``..``   ``station_name``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._station_link_.._' "wikilink")`'`
 `       else`
-`           return '`[<span style="' .. style .. '">`'``   ``..``
- ``station_name``   ``..``
- ``'`</span>](../Page/'_.._station_link_.._'.md "wikilink")`'`
+`           return '`[<span style="' .. style .. '">`'``   ``..``   ``station_name``   ``..``   ``'`</span>](https://zh.wikipedia.org/wiki/'_.._station_link_.._' "wikilink")`'`
 `       end`
 `   end`
 
@@ -223,8 +219,7 @@ function p._internalLineRichTitle(line_code, auto_degrade, system)
 
 end
 
-function p._internalLineTerminal(line_code, side, type_, branch,
-system)
+function p._internalLineTerminal(line_code, side, type_, branch, system)
 
 `   local system_data = _loadSystemData(system, false)`
 `   local side_data, conds`
@@ -253,43 +248,66 @@ system)
 
 end
 
-function p._internalTrainTime(line_code, dir, type_, delta, system)
+function p._parseTime(time_str)
 
-`   function splitTime(time_str)`
-`       local base_parts = mw.text.split(time_str, ':')`
-`       local parts_size = table.getn(base_parts)`
-`       local hour = 0`
-`       local minute = 0`
-`       local sec = 0`
-`       if parts_size == 1 then`
-`           minute = tonumber(mw.text.trim(base_parts[1]))`
-`       elseif parts_size == 2 then`
-`           hour = tonumber(mw.text.trim(base_parts[1]))`
-`           minute = tonumber(mw.text.trim(base_parts[2]))`
-`       elseif parts_size == 3 then`
-`           hour = tonumber(mw.text.trim(base_parts[1]))`
-`           minute = tonumber(mw.text.trim(base_parts[2]))`
-`           sec = tonumber(mw.text.trim(base_parts[3]))`
-`       else`
-`           error('非法的时间输入')`
-`       end`
-`       return hour, minute, sec`
+`   local base_parts = mw.text.split(time_str, ':')`
+`   local parts_size = table.getn(base_parts)`
+`   local hour = 0`
+`   local minute = 0`
+`   local sec = 0`
+`   if parts_size == 1 then`
+`       minute = tonumber(mw.text.trim(base_parts[1]))`
+`   elseif parts_size == 2 then`
+`       hour = tonumber(mw.text.trim(base_parts[1]))`
+`       minute = tonumber(mw.text.trim(base_parts[2]))`
+`   elseif parts_size == 3 then`
+`       hour = tonumber(mw.text.trim(base_parts[1]))`
+`       minute = tonumber(mw.text.trim(base_parts[2]))`
+`       sec = tonumber(mw.text.trim(base_parts[3]))`
+`   else`
+`       error('非法的时间输入')`
 `   end`
-`   `
-`   local system_data = _loadSystemData(system)`
-`   local dir_info = system_data.lines[line_code].trainTime[dir]`
-`   local bhour, bmin, bsec = splitTime(dir_info[type_])`
-`   local dhour, dmin, dsec = splitTime(delta)`
-`   local totalsec = (bhour * 60 + bmin) * 60 + bsec + (dhour * 60 + dmin) * 60 + dsec`
+`   return hour, minute, sec`
+
+end
+
+function p._extractSeconds(totalsec)
+
 `   local hour = math.floor(totalsec / 3600)`
 `   local minute = math.floor((totalsec - hour * 3600) / 60)`
 `   local sec = totalsec - hour * 3600 - minute * 60`
+`   return hour, minute, sec`
+
+end
+
+function p._internalTrainTime(line_code, dir, type_, delta, system)
+
+`   local system_data = _loadSystemData(system)`
+`   local dir_info = system_data.lines[line_code].trainTime[dir]`
+`   local bhour, bmin, bsec = p._parseTime(dir_info[type_])`
+`   local dhour, dmin, dsec = p._parseTime(delta)`
+`   local totalsec = (bhour * 60 + bmin) * 60 + bsec + (dhour * 60 + dmin) * 60 + dsec`
+`   local hour, minute, sec = p._extractSeconds(totalsec)`
 `   return dir_info.endService, hour, minute, sec`
 
 end
 
-function p._internalLineDateMessage(line_code, type_, reprs, options,
-system)
+function p._formatTemplateTime(frame, sparts, hour, minute, second)
+
+`   local tomorrow_prefix = ''`
+`   if table.getn(sparts) >= 3 then`
+`       if hour >= 24 then `
+`           tomorrow_prefix = mw.text.trim(sparts[3])`
+`           if tomorrow_prefix == '' then tomorrow_prefix = '次日' end`
+`           hour = hour - 24`
+`       end`
+`   end`
+`   local time_str = string.format('%d:%d:%d', hour, minute, second)`
+`   return tomorrow_prefix .. frame:callParserFunction{ name = '#time', args = { sparts[2], time_str } }`
+
+end
+
+function p._internalLineDateMessage(line_code, type_, reprs, options, system)
 
 `   local system_data = _loadSystemData(system)`
 `   local frame = mw.getCurrentFrame()`
@@ -475,8 +493,7 @@ function p.trainDirectionTime(frame)
 `   `
 `   local l = 0`
 `   while true do`
-`       local r, c`
-`       l, r, c = string.find(str, '\{([^\}]+)\}', l + 1)`
+`       local l, r, c = string.find(str, '\{([^\}]+)\}', l + 1)`
 `       if l == nil then break end`
 `       local sparts = mw.text.split(c, '|')`
 `       if sparts[1] == 'station_name' then`
@@ -484,17 +501,64 @@ function p.trainDirectionTime(frame)
 `       elseif sparts[1] == 'station_link' then`
 `           str = plain_replace(str, '{' .. c .. '}', p._internalStationLink(terminal, '', true, a.system, frame))`
 `       elseif sparts[1] == 'train_time' then`
-`           local tomorrow_prefix = ''`
-`           if table.getn(sparts) >= 3 then`
-`               if hour >= 24 then `
-`                   tomorrow_prefix = mw.text.trim(sparts[3])`
-`                   if tomorrow_prefix == '' then tomorrow_prefix = '次日' end`
-`                   hour = hour - 24`
+`           str = plain_replace(str, '{' .. c .. '}', p._formatTemplateTime(frame, sparts, hour, minute, sec))`
+`       end`
+`   end`
+`   return str`
+
+end
+
+function p.stationTrainTime(frame)
+
+`   local a = frame.args`
+`   local dir_reprs = {}`
+`   local system_data = _loadSystemData(a.system)`
+`   `
+`   local min_time_data = 999999`
+`   local max_time_data = -999999`
+`   `
+`   local line_names = mw.text.split(a.name, ',')`
+`   `
+`   for k, v in pairs(a) do`
+`       if type(k) == 'number' then`
+`           dir_reprs[k] = v`
+`       end`
+`   end`
+`   `
+`   for k, line_name in ipairs(line_names) do`
+`       for i = 1, table.getn(dir_reprs), 2 do`
+`           local dir = dir_reprs[i]`
+`           local diff = dir_reprs[i + 1]`
+`           local dir_times = system_data.lines[line_name].trainTime[dir]`
+`   `
+`           if dir_times ~= nil then`
+`               local dh, dm, ds = p._parseTime(diff)`
+`               for _, dir_time in ipairs({dir_times.first, dir_times.last}) do`
+`                   if dir_time ~= nil then`
+`                       local h, m, s = p._parseTime(dir_time)`
+`                       local t = (h * 60 + m) * 60 + s + (dh * 60 + dm) * 60 + ds`
+`                       min_time_data = math.min(min_time_data, t)`
+`                       max_time_data = math.max(max_time_data, t)`
+`                   end`
 `               end`
 `           end`
-`           local time_str = string.format('%d:%d:%d', hour, minute, sec)`
-`           local repl_time = frame:callParserFunction{ name = '#time', args = { sparts[2], time_str } }`
-`           str = plain_replace(str, '{' .. c .. '}', tomorrow_prefix .. repl_time)`
+`       end`
+`   end`
+`   `
+`   local min_h, min_m, min_s = p._extractSeconds(min_time_data)`
+`   local max_h, max_m, max_s = p._extractSeconds(max_time_data)`
+`   `
+`   local str = frame.template`
+`   if str == nil then str = p.DEFAULT_STATION_TRAIN_TIME_TEMPLATE end`
+`   local l = 0`
+`   while true do`
+`       local l, r, c = string.find(str, '\{([^\}]+)\}', l + 1)`
+`       if l == nil then break end`
+`       local sparts = mw.text.split(c, '|')`
+`       if sparts[1] == 'start_time' then`
+`           str = plain_replace(str, '{' .. c .. '}', p._formatTemplateTime(frame, sparts, min_h, min_m, min_s))`
+`       elseif sparts[1] == 'end_time' then`
+`           str = plain_replace(str, '{' .. c .. '}', p._formatTemplateTime(frame, sparts, max_h, max_m, max_s))`
 `       end`
 `   end`
 `   return str`
@@ -584,6 +648,7 @@ function p.testCase(frame)
 `       lineTerminal = mkfp('lineTerminal'),`
 `       lineTerminalName = mkfp('lineTerminalName'),`
 `       trainDirectionTime = mkfp('trainDirectionTime'),`
+`       stationTrainTime = mkfp('stationTrainTime'),`
 `   }`
 `   `
 `   -- stationLink test`
@@ -593,16 +658,16 @@ function p.testCase(frame)
 `   if fp.stationLink{args={name='寧波站', system='UseCase'}} ~= '`[`宁波站`](../Page/宁波站.md "wikilink")`' then`
 `       error('stationLink test failed: name=宁波站.')`
 `   end`
-`   if fp.stationLink{args={name='高桥西', system='UseCase'}} ~= '`[`高桥西`](../Page/高桥西站_\(宁波\).md "wikilink")`' then`
+`   if fp.stationLink{args={name='高桥西', system='UseCase'}} ~= '`[`高桥西`](https://zh.wikipedia.org/wiki/高桥西站_\(宁波\) "wikilink")`' then`
 `       error('stationLink test failed: name=高桥西.')`
 `   end`
-`   if fp.stationLink{args={name='高桥西', short='0', system='UseCase'}} ~= '`[`高桥西站`](../Page/高桥西站_\(宁波\).md "wikilink")`' then`
+`   if fp.stationLink{args={name='高桥西', short='0', system='UseCase'}} ~= '`[`高桥西站`](https://zh.wikipedia.org/wiki/高桥西站_\(宁波\) "wikilink")`' then`
 `       error('stationLink test failed: name=高桥西, short=0.')`
 `   end`
 `   if fp.stationLink{args={name='泽民', system='UseCase'}} ~= '`[`泽民`](../Page/泽民站.md "wikilink")`' then`
 `       error('stationLink test failed: name=泽民.')`
 `   end`
-`   if fp.stationLink{args={name='内嵌模板', system='UseCase'}} ~= '`[`内嵌`](../Page/内嵌模板站.md "wikilink")`' then`
+`   if fp.stationLink{args={name='内嵌模板', system='UseCase'}} ~= '`[`内嵌`](https://zh.wikipedia.org/wiki/内嵌模板站 "wikilink")`' then`
 `       error('stationLink test failed: name=内嵌模板.')`
 `   end`
 `   `
@@ -616,8 +681,7 @@ function p.testCase(frame)
 `   if fp.lineColor{args={name='1', system='TestComp'}} ~= 'cc0000' then`
 `       error('lineColor compatibility test failed: name=1.')`
 `   end`
-`   if fp.lineColor{args={name='1', prefix='1', system='NonExist'}} ~= '#`[`:Template:NonExist``
- ``color`](../Page/:Template:NonExist_color.md "wikilink")`' then`
+`   if fp.lineColor{args={name='1', prefix='1', system='NonExist'}} ~= '#`[`:Template:NonExist``   ``color`](https://zh.wikipedia.org/wiki/:Template:NonExist_color "wikilink")`' then`
 `       error('lineColor compatibility test failed: name=1.')`
 `   end`
 `   `
@@ -631,11 +695,10 @@ function p.testCase(frame)
 `   if p.lineTitle{args={name='WRL', link='0', system='UseCase'}} ~= "西鐵綫" then`
 `       error('lineTitle test failed: name=WRL, link=0.')`
 `   end`
-`   if fp.lineTitle{args={ name='1', system='TestComp'}} ~= '`[`1号线`](../Page/哈尔滨地铁1号线.md "wikilink")`' then`
+`   if fp.lineTitle{args={ name='1', system='TestComp'}} ~= '`[`1号线`](https://zh.wikipedia.org/wiki/哈尔滨地铁1号线 "wikilink")`' then`
 `       error('lineTitle compatibility test failed.')`
 `   end`
-`   if fp.lineTitle{args={ name='1', system='NonExist'}} ~= '`[`:Template:NonExist``
- ``lines`](../Page/:Template:NonExist_lines.md "wikilink")`' then`
+`   if fp.lineTitle{args={ name='1', system='NonExist'}} ~= '`[`:Template:NonExist``   ``lines`](https://zh.wikipedia.org/wiki/:Template:NonExist_lines "wikilink")`' then`
 `       error('lineTitle non compatibility test failed.')`
 `   end`
 `   `
@@ -647,7 +710,7 @@ function p.testCase(frame)
 `       error('lineRichTitle test failed: name=1.')`
 `   end`
 `   -- degrade case`
-`   if p.lineRichTitle{args={name='S1', system='UseCase'}} ~= "`**[`余慈线`](../Page/宁波至余慈城际铁路.md "wikilink")**`" then`
+`   if p.lineRichTitle{args={name='S1', system='UseCase'}} ~= "`**[`余慈线`](https://zh.wikipedia.org/wiki/宁波至余慈城际铁路 "wikilink")**`" then`
 `       error('lineRichTitle test failed: name=1.')`
 `   end`
 `   `
@@ -656,7 +719,7 @@ function p.testCase(frame)
 `   if fp.lineTerminal{args={name='S1', side='left', type='F', system='UseCase'}} ~= '`[`宁波东站`](../Page/宁波东站.md "wikilink")`' then`
 `       error('lineTerminal test failed: name=S1, side=left, type=F.')`
 `   end`
-`   if fp.lineTerminal{args={ name='1', side='left', type='s1', branch='b1', system='TestComp'}} ~= '`[`S1B1`](../Page/S1B1.md "wikilink")`' then`
+`   if fp.lineTerminal{args={ name='1', side='left', type='s1', branch='b1', system='TestComp'}} ~= '`[`S1B1`](https://zh.wikipedia.org/wiki/S1B1 "wikilink")`' then`
 `       error('lineTerminal compatibility test failed: name=S1, side=left, type=F.')`
 `   end`
 `   `
@@ -690,8 +753,7 @@ function p.testCase(frame)
 `   if fp.lineTerminalName{args={ name='1', side='left', ['type']='s2', system='TestComp'}} ~= 'DEFAULT' then`
 `       error('lineTerminalName compatibility test failed: type=s2.')`
 `   end`
-`   if fp.lineTerminalName{args={ name='1', side='left', system='NonExist'}} ~= '`[`:Template:S-line/NonExist``
- ``left/1`](../Page/:Template:S-line/NonExist_left/1.md "wikilink")`' then`
+`   if fp.lineTerminalName{args={ name='1', side='left', system='NonExist'}} ~= '`[`:Template:S-line/NonExist``   ``left/1`](https://zh.wikipedia.org/wiki/:Template:S-line/NonExist_left/1 "wikilink")`' then`
 `       error('lineTerminalName compatibility test failed: type=NonExist.')`
 `   end`
 `   `
@@ -704,11 +766,19 @@ function p.testCase(frame)
 `   end`
 `   `
 `   -- trainDirectionTime test`
-`   if fp.trainDirectionTime{args={name='1', dir='霞高', ['type']='L', delta='0:3', system='UseCase'}} ~= "往`[`高桥西方向`](../Page/高桥西站_\(宁波\).md "wikilink")`：22:06" then`
+`   if fp.trainDirectionTime{args={name='1', dir='霞高', ['type']='L', delta='0:3', system='UseCase'}} ~= "往`[`高桥西方向`](https://zh.wikipedia.org/wiki/高桥西站_\(宁波\) "wikilink")`：22:06" then`
 `       error('trainDirectionTime test failed: dir=霞高, type=L, delta=0:3.')`
 `   end`
-`   if fp.trainDirectionTime{args={name='1', dir='高霞', ['type']='F', delta='0:4', system='UseCase'}} ~= "往`[`霞浦方向`](../Page/霞浦站_\(宁波\).md "wikilink")`：06:08" then`
+`   if fp.trainDirectionTime{args={name='1', dir='高霞', ['type']='F', delta='0:4', system='UseCase'}} ~= "往`[`霞浦方向`](https://zh.wikipedia.org/wiki/霞浦站_\(宁波\) "wikilink")`：06:08" then`
 `       error('trainDirectionTime test failed: dir=高霞, type=F, delta=0:4.')`
+`   end`
+`   `
+`   -- stationTrainTime test`
+`   if fp.stationTrainTime{args={'高霞', '0:3', name='1', system='UseCase'}} ~= "06:07-22:08" then`
+`       error('stationTrainTime test failed: 高霞, 0:3, name=1.')`
+`   end`
+`   if  fp.stationTrainTime{args={'高霞', '0:3', '栎清', '0:1', name='1,2', system='UseCase'}} ~= "06:07-22:10" then`
+`       error('stationTrainTime test failed: 高霞, 0:3, name=1,2.')`
 `   end`
 `   `
 `   -- lineDateMessage test`
@@ -744,11 +814,11 @@ function p.testCase(frame)
 `   end`
 `   `
 `   local child_frame = frame:newChild{title='RenderStations', args={system='UseCase', '1号线从$$高桥西$$\n', '到$$霞浦$$\n'}}`
-`   if p.renderStationLinks(child_frame:newChild{title='renderStationLinks', args={}}) ~= '1号线从`[`高桥西`](../Page/高桥西站_\(宁波\).md "wikilink")`\n|到`[`霞浦`](../Page/霞浦站_\(宁波\).md "wikilink")`' then`
+`   if p.renderStationLinks(child_frame:newChild{title='renderStationLinks', args={}}) ~= '1号线从`[`高桥西`](https://zh.wikipedia.org/wiki/高桥西站_\(宁波\) "wikilink")`\n|到`[`霞浦`](https://zh.wikipedia.org/wiki/霞浦站_\(宁波\) "wikilink")`' then`
 `       error('renderStationLinks test failed: short=true.')`
 `   end`
 `   child_frame = frame:newChild{title='RenderStations', args={system='UseCase', short='0', '1号线从$$高桥西$$\n', '到$$霞浦$$\n'}}`
-`   if p.renderStationLinks(child_frame:newChild{title='renderStationLinks', args={}}) ~= '1号线从`[`高桥西站`](../Page/高桥西站_\(宁波\).md "wikilink")`\n|到`[`霞浦站`](../Page/霞浦站_\(宁波\).md "wikilink")`' then`
+`   if p.renderStationLinks(child_frame:newChild{title='renderStationLinks', args={}}) ~= '1号线从`[`高桥西站`](https://zh.wikipedia.org/wiki/高桥西站_\(宁波\) "wikilink")`\n|到`[`霞浦站`](https://zh.wikipedia.org/wiki/霞浦站_\(宁波\) "wikilink")`' then`
 `       error('renderStationLinks test failed: short=false.')`
 `   end`
 `   `

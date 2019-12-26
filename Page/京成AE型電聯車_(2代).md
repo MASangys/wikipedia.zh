@@ -50,17 +50,14 @@
 [Category:日本電力動車組](https://zh.wikipedia.org/wiki/Category:日本電力動車組 "wikilink") [Category:京成电铁车辆](https://zh.wikipedia.org/wiki/Category:京成电铁车辆 "wikilink") [Category:日本車輛製鐵路車輛](https://zh.wikipedia.org/wiki/Category:日本車輛製鐵路車輛 "wikilink") [Category:1500伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:1500伏直流电力动车组 "wikilink") [Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink") [Category:藍絲帶獎_(鐵路車輛)](https://zh.wikipedia.org/wiki/Category:藍絲帶獎_\(鐵路車輛\) "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
-
 6.
 7.
 8.
 9.
-
 10.
 11.
 12.

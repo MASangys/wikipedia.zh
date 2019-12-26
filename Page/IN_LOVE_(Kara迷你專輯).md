@@ -10,6 +10,6 @@
 
 [Category:KARA專輯](https://zh.wikipedia.org/wiki/Category:KARA專輯 "wikilink") [Category:2015年迷你專輯](https://zh.wikipedia.org/wiki/Category:2015年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
-1.  [KARA 5/26 回歸！](http://kpopn.com/2015/05/14/275533/) 2015年5月14日
-2.  [KARA 新輯曲目、試聽](http://kpopn.com/2015/05/22/276907/) 2015年5月22日
-3.  [KARA《CUPID》MV](http://kpopn.com/2015/05/26/277543/) 2015年5月26日
+1.  [KARA 5/26 回歸！](http://kpopn.com/2015/05/14/275533/)  2015年5月14日
+2.  [KARA 新輯曲目、試聽](http://kpopn.com/2015/05/22/276907/)  2015年5月22日
+3.  [KARA《CUPID》MV](http://kpopn.com/2015/05/26/277543/)  2015年5月26日

@@ -178,46 +178,26 @@ InfiniBand源于1999年两个竞争设计的合并：未来I/O与下一代I/O。
 [Category:计算机总线](https://zh.wikipedia.org/wiki/Category:计算机总线 "wikilink") [Category:電腦網路](https://zh.wikipedia.org/wiki/Category:電腦網路 "wikilink") [Category:串行总线](https://zh.wikipedia.org/wiki/Category:串行总线 "wikilink") [Category:超級電腦](https://zh.wikipedia.org/wiki/Category:超級電腦 "wikilink")
 
 1.
-
 2.  <http://www.nextplatform.com/2016/02/22/oracle-engineers-its-own-infiniband-interconnects/>
-
 3.
-
 4.
-
 5.
-
 6.  <https://cw.infinibandta.org/document/dl/7260>
-
 7.
-
 8.  <http://www.hpcadvisorycouncil.com/events/2014/swiss-workshop/presos/Day_1/1_Mellanox.pdf> // Mellanox
-
 9.
-
 10.
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.

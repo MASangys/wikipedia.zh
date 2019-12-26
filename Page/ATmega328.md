@@ -75,9 +75,7 @@ ATmega328是Atmel發展的megaAVR產品線其中一個單晶片產品。
 [Category:Microcontrollers](https://zh.wikipedia.org/wiki/Category:Microcontrollers "wikilink") [Category:Electrical_components](https://zh.wikipedia.org/wiki/Category:Electrical_components "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.

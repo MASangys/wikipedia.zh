@@ -1,4 +1,4 @@
-在[计算机领域中](https://zh.wikipedia.org/wiki/電腦運算 "wikilink")，尤其是[Unix及](../Page/UNIX.md "wikilink")[类Unix系统](../Page/类Unix系统.md "wikilink")操作系统中，**fork**是一种创建自身[行程](../Page/行程.md "wikilink")副本的操作。它通常是[内核](../Page/内核.md "wikilink")实现的一种[系统调用](https://zh.wikipedia.org/wiki/系统调用 "wikilink")。Fork是类Unix操作系统上创建进程的一种主要方法，甚至历史上是唯一方法。
+在[计算机领域中](https://zh.wikipedia.org/wiki/電腦運算 "wikilink")，尤其是[Unix及](../Page/UNIX.md "wikilink")[类Unix系统](../Page/类Unix系统.md "wikilink")操作系统中，**fork**（进程复制）是一种创建自身[行程](../Page/行程.md "wikilink")副本的操作。它通常是[内核](../Page/内核.md "wikilink")实现的一种[系统调用](https://zh.wikipedia.org/wiki/系统调用 "wikilink")。Fork是类Unix操作系统上创建进程的一种主要方法，甚至历史上是唯一方法。
 
 ## 概述
 
@@ -112,36 +112,21 @@ Fork操作会为子进程创建一个单独的[定址空間](https://zh.wikipedi
 [Category:C_POSIX_library](https://zh.wikipedia.org/wiki/Category:C_POSIX_library "wikilink") [Category:进程](https://zh.wikipedia.org/wiki/Category:进程 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
 11.
-
 12. The OpenSolaris posix_spawn() implementation: <https://sourceforge.net/p/schillix-on/schillix-on/ci/default/tree/usr/src/lib/libc/port/threads/spawn.c>
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.

@@ -1123,7 +1123,7 @@
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>、<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a>）<br />
 13（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[62][63]</p></td>
+<td><p>[62][63][64]</p></td>
 </tr>
 <tr class="even">
 <td><p>4月11日</p></td>
@@ -1138,7 +1138,7 @@
 <td></td>
 <td><p>20（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 17（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[64][65]</p></td>
+<td><p>[65][66]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月12日</p></td>
@@ -1151,7 +1151,7 @@
 <a href="../Page/申鉉濬.md" title="wikilink">申鉉濬</a></p></td>
 <td></td>
 <td><p>16</p></td>
-<td><p>[66][67][68]</p></td>
+<td><p>[67][68][69]</p></td>
 </tr>
 <tr class="even">
 <td><p>4月13日</p></td>
@@ -1169,7 +1169,7 @@
 <a href="../Page/劉多仁.md" title="wikilink">劉多仁</a></p></td>
 <td></td>
 <td><p>14</p></td>
-<td><p>[69]</p></td>
+<td><p>[70]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月23日</p></td>
@@ -1184,7 +1184,7 @@
 <td><p>20（<a href="../Page/Viu.md" title="wikilink">Viu</a>、<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a>）<br />
 18（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
 <td><p>首播時不設粵語配音<br />
-[70][71][72]</p></td>
+[71][72][73]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月3日</p></td>
@@ -1197,7 +1197,7 @@
 <a href="../Page/朴芝秀.md" title="wikilink">朴芝秀</a></p></td>
 <td></td>
 <td><p>10</p></td>
-<td><p>[73][74]</p></td>
+<td><p>[74][75]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月4日</p></td>
@@ -1213,7 +1213,7 @@
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>、<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a>）<br />
 13（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
 <td><p>首播時不設粵語配音<br />
-[75][76][77]</p></td>
+[76][77][78]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月7日</p></td>
@@ -1231,7 +1231,7 @@
 <td><p>20（<a href="../Page/Viu.md" title="wikilink">Viu</a>、<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a>）<br />
 27（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
 <td><p>首播時不設粵語配音<br />
-[78][79][80][81]</p></td>
+[79][80][81][82]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月23日</p></td>
@@ -1245,7 +1245,7 @@
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 14（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[82][83]</p></td>
+<td><p>[83][84]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月31日</p></td>
@@ -1257,7 +1257,7 @@
 <a href="https://zh.wikipedia.org/wiki/南柱赫" title="wikilink">南柱赫</a></p></td>
 <td></td>
 <td><p>16</p></td>
-<td><p>[84][85]</p></td>
+<td><p>[85][86]</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月17日</p></td>
@@ -1270,7 +1270,7 @@
 <td></td>
 <td><p>3</p></td>
 <td><p>首播時不設粵語配音<br />
-[86][87][88]</p></td>
+[87][88][89]</p></td>
 </tr>
 <tr class="even">
 <td><p>6月22日</p></td>
@@ -1283,7 +1283,7 @@
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 13（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[89]</p></td>
+<td><p>[90]</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月22日</p></td>
@@ -1303,7 +1303,7 @@
 <td><p>20（<a href="../Page/Viu.md" title="wikilink">Viu</a>、<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a>）<br />
 17（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
 <td><p>首播時不設粵語配音<br />
-[90][91][92]</p></td>
+[91][92][93]</p></td>
 </tr>
 <tr class="even">
 <td><p>6月22日</p></td>
@@ -1317,7 +1317,7 @@
 <td><p>20（<a href="../Page/Viu.md" title="wikilink">Viu</a>、<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a>）<br />
 18（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
 <td><p>首播時不設粵語配音<br />
-[93][94][95]</p></td>
+[94][95][96]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月2日</p></td>
@@ -1332,7 +1332,7 @@
 <a href="https://zh.wikipedia.org/wiki/曹惠靜" title="wikilink">曹惠靜</a></p></td>
 <td></td>
 <td><p>8</p></td>
-<td><p>[96][97][98]</p></td>
+<td><p>[97][98][99]</p></td>
 </tr>
 <tr class="even">
 <td><p>7月20日</p></td>
@@ -1343,7 +1343,7 @@
 <a href="../Page/劉俊相.md" title="wikilink">劉俊相</a></p></td>
 <td></td>
 <td><p>16</p></td>
-<td><p>[99][100][101]</p></td>
+<td><p>[100][101][102]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月20日</p></td>
@@ -1358,7 +1358,7 @@
 <td><p>24（<a href="../Page/Viu.md" title="wikilink">Viu</a>、<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a>）<br />
 21（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
 <td><p>首播時不設粵語配音<br />
-[102][103][104]</p></td>
+[103][104][105]</p></td>
 </tr>
 <tr class="even">
 <td><p>7月30日</p></td>
@@ -1371,7 +1371,7 @@
 <td></td>
 <td><p>20（<a href="../Page/Viu.md" title="wikilink">Viu</a>、<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a>）<br />
 23（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[105][106][107]</p></td>
+<td><p>[106][107][108]</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月14日</p></td>
@@ -1385,7 +1385,7 @@
 <a href="../Page/劉五性.md" title="wikilink">劉五性</a></p></td>
 <td></td>
 <td><p>22</p></td>
-<td><p>[108][109]</p></td>
+<td><p>[109][110]</p></td>
 </tr>
 <tr class="even">
 <td><p>8月23日</p></td>
@@ -1399,7 +1399,7 @@
 <a href="../Page/崔珉.md" title="wikilink">崔珉</a></p></td>
 <td></td>
 <td><p>12</p></td>
-<td><p>[110][111]</p></td>
+<td><p>[111][112]</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月8日</p></td>
@@ -1415,7 +1415,7 @@
 <a href="../Page/趙載龍.md" title="wikilink">趙載龍</a></p></td>
 <td></td>
 <td><p>12</p></td>
-<td><p>[112][113][114]</p></td>
+<td><p>[113][114][115]</p></td>
 </tr>
 <tr class="even">
 <td><p>9月26日</p></td>
@@ -1429,7 +1429,7 @@
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>、<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a>）<br />
 14（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
 <td><p>首播時不設粵語配音<br />
-[115][116][117]</p></td>
+[116][117][118]</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月18日</p></td>
@@ -1444,7 +1444,7 @@
 <td><p>18（<a href="../Page/Viu.md" title="wikilink">Viu</a>、<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a>）<br />
 23（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
 <td><p>首播時不設粵語配音<br />
-[118][119][120]</p></td>
+[119][120][121]</p></td>
 </tr>
 <tr class="even">
 <td><p>10月30日</p></td>
@@ -1456,7 +1456,7 @@
 <a href="../Page/裕善.md" title="wikilink">裕善</a></p></td>
 <td></td>
 <td><p>16</p></td>
-<td><p>[121]</p></td>
+<td><p>[122]</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月14日</p></td>
@@ -1469,7 +1469,7 @@
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>、<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a>）<br />
 25（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
 <td><p>首播時不設粵語配音<br />
-[122][123][124]</p></td>
+[123][124][125]</p></td>
 </tr>
 <tr class="even">
 <td><p>11月11日</p></td>
@@ -1482,7 +1482,7 @@
 <a href="../Page/郭東延.md" title="wikilink">郭東延</a></p></td>
 <td></td>
 <td><p>1</p></td>
-<td><p>[125][126][127]</p></td>
+<td><p>[126][127][128]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月4日</p></td>
@@ -1493,7 +1493,7 @@
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>、<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a>）<br />
 27（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[128][129][130]</p></td>
+<td><p>[129][130][131]</p></td>
 </tr>
 <tr class="even">
 <td><p>12月5日</p></td>
@@ -1506,7 +1506,7 @@
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 18（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[131]</p></td>
+<td><p>[132]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月8日</p></td>
@@ -1518,7 +1518,7 @@
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>、<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a>）<br />
 13（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
 <td><p>首播時不設粵語配音<br />
-[132][133][134]</p></td>
+[133][134][135]</p></td>
 </tr>
 <tr class="even">
 <td><p>12月30日</p></td>
@@ -1533,7 +1533,7 @@
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>、<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a>）<br />
 14（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
 <td><p>首播時不設粵語配音<br />
-[135][136][137]</p></td>
+[136][137][138]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1568,7 +1568,7 @@
 <td><p><a href="../Page/金賢淑.md" title="wikilink">金賢淑</a></p></td>
 <td></td>
 <td><p>20</p></td>
-<td><p>[138][139][140]</p></td>
+<td><p>[139][140][141]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2月20日</p></td>
@@ -1578,7 +1578,7 @@
 <a href="https://zh.wikipedia.org/wiki/鄭吝善" title="wikilink">鄭吝善</a></p></td>
 <td></td>
 <td><p>4</p></td>
-<td><p>[141][142][143]</p></td>
+<td><p>[142][143][144]</p></td>
 </tr>
 <tr class="even">
 <td><p>2月24日</p></td>
@@ -1592,7 +1592,7 @@
 <a href="https://zh.wikipedia.org/wiki/崔大哲" title="wikilink">崔大哲</a></p></td>
 <td></td>
 <td><p>4</p></td>
-<td><p>[144][145][146]</p></td>
+<td><p>[145][146][147]</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月2日</p></td>
@@ -1606,7 +1606,7 @@
 <td><p>16（<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a>、<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 18（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
 <td><p>首播時不設粵語配音<br />
-[147][148][149]</p></td>
+[148][149][150]</p></td>
 </tr>
 <tr class="even">
 <td><p>3月24日</p></td>
@@ -1620,7 +1620,7 @@
 <td><p>18（<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a>、<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 15（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
 <td><p>首播時不設粵語配音<br />
-[150][151][152]</p></td>
+[151][152][153]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月3日</p></td>
@@ -1635,7 +1635,7 @@
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 20（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[153]</p></td>
+<td><p>[154]</p></td>
 </tr>
 <tr class="even">
 <td><p>4月19日</p></td>
@@ -1648,7 +1648,7 @@
 <a href="../Page/陸星材.md" title="wikilink">陸星材</a></p></td>
 <td></td>
 <td><p>16</p></td>
-<td><p>[154][155][156][157]</p></td>
+<td><p>[155][156][157][158]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月11日</p></td>
@@ -1659,7 +1659,7 @@
 <a href="https://zh.wikipedia.org/wiki/李俊昊" title="wikilink">李俊昊</a></p></td>
 <td></td>
 <td><p>20</p></td>
-<td><p>[158][159][160]</p></td>
+<td><p>[159][160][161]</p></td>
 </tr>
 <tr class="even">
 <td><p>6月8日</p></td>
@@ -1674,7 +1674,7 @@
 <td><p>16（<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a>、<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 23（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
 <td><p>首播時不設粵語配音<br />
-[161][162][163]</p></td>
+[162][163][164]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月6日</p></td>
@@ -1687,7 +1687,7 @@
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 23（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[164]</p></td>
+<td><p>[165]</p></td>
 </tr>
 <tr class="even">
 <td><p>9月22日</p></td>
@@ -1698,7 +1698,7 @@
 <td></td>
 <td><p>16（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>、<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 18（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[165][166][167]</p></td>
+<td><p>[166][167][168]</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月7日</p></td>
@@ -1711,7 +1711,7 @@
 <a href="https://zh.wikipedia.org/wiki/權赫守" title="wikilink">權赫守</a></p></td>
 <td></td>
 <td><p>12</p></td>
-<td><p>[168][169]</p></td>
+<td><p>[169][170]</p></td>
 </tr>
 <tr class="even">
 <td><p>11月23日</p></td>
@@ -1723,7 +1723,7 @@
 <td></td>
 <td><p>20（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>、<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 20（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[170][171][172]</p></td>
+<td><p>[171][172][173]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月13日</p></td>
@@ -1736,7 +1736,7 @@
 <td></td>
 <td><p>40（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 16（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[173]</p></td>
+<td><p>[174]</p></td>
 </tr>
 <tr class="even">
 <td><p>12月21日</p></td>
@@ -1750,7 +1750,7 @@
 <td></td>
 <td><p>16（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>、<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 13（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[174][175][176]</p></td>
+<td><p>[175][176][177]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1789,7 +1789,7 @@
 <a href="../Page/韓善伙.md" title="wikilink">韓善伙</a></p></td>
 <td></td>
 <td><p>20</p></td>
-<td><p>[177][178]</p></td>
+<td><p>[178][179]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2月5日</p></td>
@@ -1802,7 +1802,7 @@
 <td></td>
 <td><p>17（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>、<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 18（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[179][180][181]</p></td>
+<td><p>[180][181][182]</p></td>
 </tr>
 <tr class="even">
 <td><p>2月28日</p></td>
@@ -1814,7 +1814,7 @@
 <a href="../Page/金允慧.md" title="wikilink">金允慧</a></p></td>
 <td></td>
 <td><p>16</p></td>
-<td><p>[182][183]</p></td>
+<td><p>[183][184]</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月22日</p></td>
@@ -1826,7 +1826,7 @@
 <a href="../Page/Baro.md" title="wikilink">Baro</a></p></td>
 <td></td>
 <td><p>16</p></td>
-<td><p>[184][185]</p></td>
+<td><p>[185][186]</p></td>
 </tr>
 <tr class="even">
 <td><p>4月12日</p></td>
@@ -1838,7 +1838,7 @@
 <a href="../Page/酉奈.md" title="wikilink">酉奈</a></p></td>
 <td></td>
 <td><p>12</p></td>
-<td><p>[186]</p></td>
+<td><p>[187][188][189]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月13日</p></td>
@@ -1851,7 +1851,7 @@
 <td></td>
 <td><p>16（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>、<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 54（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[187][188][189]</p></td>
+<td><p>[190][191][192]</p></td>
 </tr>
 <tr class="even">
 <td><p>6月25日</p></td>
@@ -1862,7 +1862,7 @@
 <td></td>
 <td><p>40（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 21（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[190]</p></td>
+<td><p>[193]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月8日</p></td>
@@ -1872,7 +1872,7 @@
 <a href="../Page/千玗嬉.md" title="wikilink">千玗嬉</a></p></td>
 <td></td>
 <td><p>16</p></td>
-<td><p>[191][192]</p></td>
+<td><p>[194][195]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月11日</p></td>
@@ -1884,7 +1884,7 @@
 <td></td>
 <td><p>16（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>、<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 21（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[193][194][195]</p></td>
+<td><p>[196][197][198]</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月8日</p></td>
@@ -1897,7 +1897,7 @@
 <a href="../Page/全慧彬.md" title="wikilink">全慧彬</a></p></td>
 <td></td>
 <td><p>16</p></td>
-<td><p>[196][197]</p></td>
+<td><p>[199][200]</p></td>
 </tr>
 <tr class="even">
 <td><p>6月11日</p></td>
@@ -1909,7 +1909,7 @@
 </p></td>
 <td></td>
 <td><p>16</p></td>
-<td><p>[198][199]</p></td>
+<td><p>[201][202]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月2日</p></td>
@@ -1921,7 +1921,7 @@
 <td></td>
 <td><p>20（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>、<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 22（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[200][201][202]</p></td>
+<td><p>[203][204][205]</p></td>
 </tr>
 <tr class="even">
 <td><p>7月3日</p></td>
@@ -1935,7 +1935,7 @@
 <a href="../Page/洪洙賢.md" title="wikilink">洪洙賢</a></p></td>
 <td></td>
 <td><p>16</p></td>
-<td><p>[203][204]</p></td>
+<td><p>[206][207]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月13日</p></td>
@@ -1951,7 +1951,7 @@
 <td></td>
 <td><p>32（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 45（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[205]</p></td>
+<td><p>[208]</p></td>
 </tr>
 <tr class="even">
 <td><p>7月25日</p></td>
@@ -1966,7 +1966,7 @@
 <td></td>
 <td><p>16（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>、<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 20（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[206][207][208]</p></td>
+<td><p>[209][210][211]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月30日</p></td>
@@ -1976,7 +1976,7 @@
 <a href="../Page/鄭惠成.md" title="wikilink">鄭惠成</a></p></td>
 <td></td>
 <td><p>20</p></td>
-<td><p>[209][210]</p></td>
+<td><p>[212][213]</p></td>
 </tr>
 <tr class="even">
 <td><p>8月16日</p></td>
@@ -1987,7 +1987,7 @@
 <a href="../Page/全昭旻.md" title="wikilink">全昭旻</a></p></td>
 <td></td>
 <td><p>16</p></td>
-<td><p>[211][212][213][214]</p></td>
+<td><p>[214][215][216][217]</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月27日</p></td>
@@ -2001,7 +2001,7 @@
 <td></td>
 <td><p>16（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>、<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 20（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[215][216][217][218]</p></td>
+<td><p>[218][219][220][221]</p></td>
 </tr>
 <tr class="even">
 <td><p>9月7日</p></td>
@@ -2016,7 +2016,7 @@
 <td></td>
 <td><p>20（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 29（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[219][220]</p></td>
+<td><p>[222][223]</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月17日</p></td>
@@ -2028,7 +2028,7 @@
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 21（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）<br />
 18（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[221][222][223]</p></td>
+<td><p>[224][225][226]</p></td>
 </tr>
 <tr class="even">
 <td><p>10月18日</p></td>
@@ -2041,7 +2041,7 @@
 <td></td>
 <td><p>32（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 17（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[224]</p></td>
+<td><p>[227]</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月7日</p></td>
@@ -2052,7 +2052,7 @@
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 21（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>、<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[225][226][227]</p></td>
+<td><p>[228][229][230]</p></td>
 </tr>
 <tr class="even">
 <td><p>11月28日</p></td>
@@ -2064,7 +2064,7 @@
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 21（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[228][229]</p></td>
+<td><p>[231][232]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月19日</p></td>
@@ -2078,7 +2078,7 @@
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 21（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）<br />
 19（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[230][231][232][233]</p></td>
+<td><p>[233][234][235][236]</p></td>
 </tr>
 <tr class="even">
 <td><p>12月20日</p></td>
@@ -2091,7 +2091,7 @@
 <td></td>
 <td><p>40（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 25（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[234][235]</p></td>
+<td><p>[237][238]</p></td>
 </tr>
 </tbody>
 </table>
@@ -2128,9 +2128,8 @@
 <a href="../Page/成東鎰.md" title="wikilink">成東鎰</a></p></td>
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
-23（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）<br />
-（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[236][237][238][239]</p></td>
+23（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>、<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
+<td><p>[239][240][241][242]</p></td>
 </tr>
 <tr class="odd">
 <td><p>1月24日</p></td>
@@ -2141,7 +2140,7 @@
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 22（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[240][241]</p></td>
+<td><p>[243][244][245][246][247]</p></td>
 </tr>
 <tr class="even">
 <td><p>2月4日</p></td>
@@ -2153,7 +2152,7 @@
 <td></td>
 <td><p>32（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 20（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[242][243]</p></td>
+<td><p>[248][249]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2月12日</p></td>
@@ -2165,7 +2164,7 @@
 <td></td>
 <td><p>32（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 18（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[244]</p></td>
+<td><p>[250]</p></td>
 </tr>
 <tr class="even">
 <td><p>3月8日</p></td>
@@ -2179,7 +2178,7 @@
 <td></td>
 <td><p>32（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 16（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[245]</p></td>
+<td><p>[251]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2月24日</p></td>
@@ -2193,7 +2192,7 @@
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 21（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）<br />
 23（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[246][247][248]</p></td>
+<td><p>[252][253][254]</p></td>
 </tr>
 <tr class="even">
 <td><p>3月17日</p></td>
@@ -2204,7 +2203,7 @@
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 26（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[249][250]</p></td>
+<td><p>[255][256]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月12日</p></td>
@@ -2217,7 +2216,7 @@
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 24（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>、<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[251][252][253][254]</p></td>
+<td><p>[257][258][259][260]</p></td>
 </tr>
 <tr class="even">
 <td><p>4月29日</p></td>
@@ -2230,7 +2229,7 @@
 <td></td>
 <td><p>32（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 21（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[255][256]</p></td>
+<td><p>[261][262]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月6日</p></td>
@@ -2242,8 +2241,9 @@
 <a href="../Page/高斗心.md" title="wikilink">高斗心</a></p></td>
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
-20（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[257][258]</p></td>
+20（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）<br />
+21（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
+<td><p>[263][264][265]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月26日</p></td>
@@ -2255,7 +2255,7 @@
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 21（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）<br />
 24（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[259][260][261]</p></td>
+<td><p>[266][267][268]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月28日</p></td>
@@ -2268,7 +2268,7 @@
 <td></td>
 <td><p>32（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 21（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[262]</p></td>
+<td><p>[269]</p></td>
 </tr>
 <tr class="even">
 <td><p>6月4日</p></td>
@@ -2279,7 +2279,7 @@
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 22（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[263][264]</p></td>
+<td><p>[270][271]</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月19日</p></td>
@@ -2291,7 +2291,7 @@
 <td></td>
 <td><p>32（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 21（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[265][266]</p></td>
+<td><p>[272][273]</p></td>
 </tr>
 <tr class="even">
 <td><p>7月10日</p></td>
@@ -2306,7 +2306,7 @@
 <td><p>20（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 22（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）<br />
 30（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[267][268][269]</p></td>
+<td><p>[274][275][276]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月11日</p></td>
@@ -2318,7 +2318,7 @@
 <td></td>
 <td><p>32（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 21（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[270][271]</p></td>
+<td><p>[277][278]</p></td>
 </tr>
 <tr class="even">
 <td><p>8月9日</p></td>
@@ -2329,9 +2329,8 @@
 <a href="../Page/宋再臨.md" title="wikilink">宋再臨</a></p></td>
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
-24（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）<br />
-（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
-<td><p>[272][273][274]</p></td>
+24（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>、<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
+<td><p>[279][280][281]</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月19日</p></td>
@@ -2344,7 +2343,7 @@
 <td></td>
 <td><p>32（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 21（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[275][276]</p></td>
+<td><p>[282][283]</p></td>
 </tr>
 <tr class="even">
 <td><p>9月2日</p></td>
@@ -2354,8 +2353,9 @@
 <a href="../Page/徐恩秀.md" title="wikilink">徐恩秀</a></p></td>
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
-23（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[277][278]</p></td>
+23（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）<br />
+（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
+<td><p>[284][285][286][287]</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月24日</p></td>
@@ -2367,8 +2367,8 @@
 <a href="../Page/趙漢善.md" title="wikilink">趙漢善</a></p></td>
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
-21（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[279][280]</p></td>
+23（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
+<td><p>[288][289]</p></td>
 </tr>
 <tr class="even">
 <td><p>9月25日</p></td>
@@ -2381,7 +2381,7 @@
 <td></td>
 <td><p>12（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 18（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[281][282]</p></td>
+<td><p>[290][291]</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月13日</p></td>
@@ -2393,8 +2393,57 @@
 <a href="../Page/金權.md" title="wikilink">金權</a></p></td>
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
+23（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
+<td><p>[292][293]</p></td>
+</tr>
+<tr class="even">
+<td><p>11月3日</p></td>
+<td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
+<td><p><strong><a href="../Page/成為王的男人.md" title="wikilink">成為王的男人</a></strong></p></td>
+<td><p><a href="../Page/呂珍九.md" title="wikilink">呂珍九</a><br />
+<a href="https://zh.wikipedia.org/wiki/李世榮" title="wikilink">李世榮</a><br />
+<a href="https://zh.wikipedia.org/wiki/金相慶" title="wikilink">金相慶</a></p></td>
+<td></td>
+<td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
+27（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
+<td><p>[294][295]</p></td>
+</tr>
+<tr class="odd">
+<td><p>11月5日</p></td>
+<td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
+<td><p><strong><a href="../Page/絕對達令_(韓國電視劇).md" title="wikilink">絕對達令</a></strong></p></td>
+<td><p><a href="../Page/呂珍九.md" title="wikilink">呂珍九</a><br />
+<a href="https://zh.wikipedia.org/wiki/珉雅" title="wikilink">珉雅</a><br />
+<a href="../Page/洪宗玄.md" title="wikilink">洪宗玄</a></p></td>
+<td></td>
+<td><p>36（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
+26（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
+<td><p>[296][297]</p></td>
+</tr>
+<tr class="even">
+<td><p>12月1日</p></td>
+<td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
+<td><p><strong><a href="../Page/初次見面我愛你_(韓國電視劇).md" title="wikilink">初次見面我愛你</a></strong></p></td>
+<td><p><a href="../Page/金英光.md" title="wikilink">金英光</a><br />
+<a href="../Page/秦基周.md" title="wikilink">秦基周</a><br />
+<a href="../Page/金栽經.md" title="wikilink">金栽經</a><br />
+</p></td>
+<td></td>
+<td><p>32（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 （<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
-<td><p>[283][284]</p></td>
+<td><p>[298][299]</p></td>
+</tr>
+<tr class="odd">
+<td><p>12月19日</p></td>
+<td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
+<td><p><strong><a href="../Page/獬豸_(電視劇).md" title="wikilink">獬豸</a></strong></p></td>
+<td><p><a href="../Page/丁一宇.md" title="wikilink">丁一宇</a><br />
+<a href="https://zh.wikipedia.org/wiki/高雅拉" title="wikilink">高雅拉</a><br />
+<a href="../Page/權律.md" title="wikilink">權律</a></p></td>
+<td></td>
+<td><p>48（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
+（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
+<td><p>[300][301]</p></td>
 </tr>
 </tbody>
 </table>
@@ -2432,20 +2481,16 @@
 [Category:Now寬頻電視節目](https://zh.wikipedia.org/wiki/Category:Now寬頻電視節目 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
 
 1.  [Now寬頻電視只有收費電視播映權](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")，免費電視播映權由[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")、[亞洲電視](../Page/亞洲電視.md "wikilink")或[奇妙電視](../Page/奇妙電視.md "wikilink")擁有
-
 2.
 3.
 4.
 5.  曾於[Now 101台重播](../Page/Now_101台.md "wikilink")
-
 6.  播放第一季及第二季合共16集
-
 7.
 8.
 9.
 10.
 11. 曾在Now影視點播站／Now 101台／Now劇集台（前稱：Now觀星台）自選服務首播
-
 12.
 13.
 14.
@@ -2454,24 +2499,18 @@
 17.
 18.
 19. 曾在其他電視台首播
-
 20. 曾于[Now香港台](../Page/Now香港台.md "wikilink")重播
-
 21. 不設粵語配音
-
 22.
 23.
 24.
 25. 在Now 101台自選服務劇名為輝煌與瘋狂
-
 26.
 27.
 28.
 29.
 30. 可以在Viu OTT Apps重溫
-
 31. 曾于[ViuTV](../Page/ViuTV.md "wikilink")重播
-
 32.
 33.
 34.
@@ -2491,12 +2530,10 @@
 48.
 49.
 50. 在Viu OTT Apps上名稱為村莊：阿雉阿拉的祕密
-
 51.
 52.
 53.
 54. 在Viu OTT Apps上名稱為生意之神－客主2015
-
 55.
 56.
 57.
@@ -2506,7 +2543,7 @@
 61.
 62.
 63.
-64.
+64. 曾于[Now觀星台重播](https://zh.wikipedia.org/wiki/Now觀星台 "wikilink")
 65.
 66.
 67.
@@ -2516,20 +2553,17 @@
 71.
 72.
 73.
-74. 在Viu OTT Apps上名稱為剩魚公主
-
-75.
+74.
+75. 在Viu OTT Apps上名稱為剩魚公主
 76.
 77.
 78.
 79.
 80.
-81. ViuTV播放時節目名叫回答吧！1988
-
-82.
-83. 在Viu OTT Apps上名稱為愛你的時間
-
-84.
+81.
+82. ViuTV播放時節目名叫回答吧！1988
+83.
+84. 在Viu OTT Apps上名稱為愛你的時間
 85.
 86.
 87.
@@ -2556,9 +2590,8 @@
 108.
 109.
 110.
-111. 在Viu OTT Apps上名稱為Riders：抓住明天
-
-112.
+111.
+112. 在Viu OTT Apps上名稱為Riders：抓住明天
 113.
 114.
 115.
@@ -2634,8 +2667,8 @@
 185.
 186.
 187.
-188.
-189.
+188. 曾于[Now劇集台](../Page/Now劇集台.md "wikilink")重播
+189. Now劇集台播放時節目名叫Single Wife
 190.
 191.
 192.
@@ -2660,16 +2693,14 @@
 211.
 212.
 213.
-214. ViuTV播放時節目名叫Cross：復仇之刃
-
+214.
 215.
 216.
-217.
-218. ViuTV播放時節目名叫謎霧殺機
-
+217. ViuTV播放時節目名叫Cross：復仇之刃
+218.
 219.
 220.
-221.
+221. ViuTV播放時節目名叫謎霧殺機
 222.
 223.
 224.
@@ -2681,37 +2712,34 @@
 230.
 231.
 232.
-233. ViuTV播放時節目名叫72小時素描追兇
-
+233.
 234.
 235.
-236.
+236. ViuTV播放時節目名叫72小時素描追兇
 237.
 238.
-239. ViuTV播放時節目名叫逆權法官
-
+239.
 240.
 241.
-242.
+242. ViuTV播放時節目名叫新紮法官
 243.
 244.
 245.
 246.
-247.
+247. ViuTV播放時節目名叫想暫停的瞬間
 248.
 249.
 250.
 251.
 252.
 253.
-254. ViuTV播放時節目名叫變身有情人
-
+254.
 255.
 256.
 257.
 258.
 259.
-260.
+260. ViuTV播放時節目名叫變身有情人
 261.
 262.
 263.
@@ -2736,3 +2764,20 @@
 282.
 283.
 284.
+285.
+286.
+287. ViuTV播放時節目名叫Law界狂人
+288.
+289.
+290.
+291.
+292.
+293.
+294.
+295.
+296.
+297.
+298.
+299.
+300.
+301.

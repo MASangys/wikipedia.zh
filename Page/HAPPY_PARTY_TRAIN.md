@@ -10,7 +10,7 @@
 
 <center>
 
-[File:Izunagaoka-Sta-LLSS-prev.jpg|伊豆箱根铁道](File:Izunagaoka-Sta-LLSS-prev.jpg%7C伊豆箱根铁道)的“HAPPY PARTY TRAIN”喷绘 [File:Izuhakone3506.jpg|伊豆箱根铁道3000系3506F的“HAPPY](File:Izuhakone3506.jpg%7C伊豆箱根铁道3000系3506F的“HAPPY) PARTY TRAIN”喷绘列车
+|伊豆箱根铁道的“HAPPY PARTY TRAIN”喷绘 [File:Izuhakone3506.jpg|伊豆箱根铁道3000系3506F的“HAPPY](File:Izuhakone3506.jpg%7C伊豆箱根铁道3000系3506F的“HAPPY) PARTY TRAIN”喷绘列车
 
 </center>
 

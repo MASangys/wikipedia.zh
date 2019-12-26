@@ -13,24 +13,18 @@ A肝疫苗很少引發嚴重的副作用\[9\]。 15%的孩童和接近50%的成�
 [Category:肝炎](https://zh.wikipedia.org/wiki/Category:肝炎 "wikilink") [Category:世界衛生組織基本藥物標準清單內的疫苗](https://zh.wikipedia.org/wiki/Category:世界衛生組織基本藥物標準清單內的疫苗 "wikilink") [Category:A型肝炎](https://zh.wikipedia.org/wiki/Category:A型肝炎 "wikilink") [Category:疫苗接种](https://zh.wikipedia.org/wiki/Category:疫苗接种 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
 6.
 7.
 8.
-
 9.
 10.
 11.
 12.
 13.
 14.
-
 15.
-
 16.

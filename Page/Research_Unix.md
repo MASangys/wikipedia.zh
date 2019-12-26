@@ -22,27 +22,18 @@
 [Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12. [M. D. McIlroy](https://zh.wikipedia.org/wiki/Doug_McIlroy "wikilink") (1987). [A Research Unix reader: annotated excerpts from the Programmer's Manual, 1971–1986](http://pic.plover.com/UnixReader/) . CSTR 139, Bell Labs.
-
 13.
 14.
-
 15.
 16.

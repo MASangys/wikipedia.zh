@@ -1,4 +1,4 @@
-**IWI GL 40**是一具在2012年由[以色列](../Page/以色列.md "wikilink")[武器工業為配合](https://zh.wikipedia.org/wiki/以色列軍事工業#小型武器 "wikilink")[IWI加利爾ACE和](../Page/IWI加利爾ACE突擊步槍.md "wikilink")[X95兩款](../Page/IWI塔沃爾X95突擊步槍.md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")系列而研製和生產的單發下掛式[榴弹发射器](../Page/榴弹发射器.md "wikilink")，在2012年（Eurosatory 2012）上首度展出，發射[40×46毫米低速、中速榴彈](../Page/40毫米榴彈.md "wikilink")。由於自帶，它除了可以下掛於步槍的下護木，也可通過增加[槍托](../Page/槍托.md "wikilink")配件改裝成一個獨立的[肩射型榴彈發射器武器系統](https://zh.wikipedia.org/wiki/榴弹发射器#肩射型榴弹发射器 "wikilink")。
+**IWI GL 40**是一具在2012年由[以色列](../Page/以色列.md "wikilink")[武器工業為配合](https://zh.wikipedia.org/wiki/以色列軍事工業#小型武器 "wikilink")[IWI加利爾ACE和](../Page/IWI加利爾ACE突擊步槍.md "wikilink")[X95兩款](../Page/IWI塔沃爾X95突擊步槍.md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")系列而研製和生產的下掛式[榴弹发射器](../Page/榴弹发射器.md "wikilink")，在2012年（Eurosatory 2012）上首度展出，發射[40×46毫米低速、中速榴彈](../Page/40毫米榴彈.md "wikilink")。它除了可以下掛於步槍的下護木，也可通過增加及[槍托](../Page/槍托.md "wikilink")配件改裝成一個獨立的[肩射型榴彈發射器武器系統](https://zh.wikipedia.org/wiki/榴弹发射器#肩射型榴弹发射器 "wikilink")。
 
 ## 設計
 

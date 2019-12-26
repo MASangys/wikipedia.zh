@@ -49,27 +49,15 @@ MediaInfo支持[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windo
 [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink") [Category:自由媒體軟體](https://zh.wikipedia.org/wiki/Category:自由媒體軟體 "wikilink") [Category:元数据](https://zh.wikipedia.org/wiki/Category:元数据 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  [MediaInfo About Page](http://mediaarea.net/MediaInfo)
-
 6.  <http://mediaarea.net/en/MediaInfo/powered_by_opencandy>
-
 7.  [MediaInfo About Page](http://mediaarea.net/MediaInfo)
-
 8.  [MediaInfo Download Page](http://mediaarea.net/MediaInfo/Download)
-
 9.  [MediaInfo Download Page](http://mediaarea.net/MediaInfo/Download)
-
 10.
-
 11.
-
 12.
-
 13.

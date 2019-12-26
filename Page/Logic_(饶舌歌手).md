@@ -202,98 +202,57 @@ R&amp;B/HH</a><br />
 
   -
   -
-[Category:1990年出生](https://zh.wikipedia.org/wiki/Category:1990年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:美國男歌手](https://zh.wikipedia.org/wiki/Category:美國男歌手 "wikilink") [Category:美國饒舌歌手](https://zh.wikipedia.org/wiki/Category:美國饒舌歌手 "wikilink") [Category:美国音乐制作人](https://zh.wikipedia.org/wiki/Category:美国音乐制作人 "wikilink") [Category:美国嘻哈歌手](https://zh.wikipedia.org/wiki/Category:美国嘻哈歌手 "wikilink") [Category:马里兰州人](https://zh.wikipedia.org/wiki/Category:马里兰州人 "wikilink")
+[Category:1990年出生](https://zh.wikipedia.org/wiki/Category:1990年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:美國男歌手](https://zh.wikipedia.org/wiki/Category:美國男歌手 "wikilink") [Category:美國饒舌歌手](https://zh.wikipedia.org/wiki/Category:美國饒舌歌手 "wikilink") [Category:美国音乐制作人](https://zh.wikipedia.org/wiki/Category:美国音乐制作人 "wikilink") [Category:美国嘻哈歌手](https://zh.wikipedia.org/wiki/Category:美国嘻哈歌手 "wikilink") [Category:马里兰州人](https://zh.wikipedia.org/wiki/Category:马里兰州人 "wikilink") [Category:美国东海岸嘻哈音乐人](https://zh.wikipedia.org/wiki/Category:美国东海岸嘻哈音乐人 "wikilink")
 
 1.
-
 2.  "Sir"只是他名字的一部分，并不是[爵士](../Page/爵士.md "wikilink")的头衔。消息来源:  .
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21. [Rapper Logic Signs to Def Jam](http://www.complex.com/music/2013/04/rapper-logic-signs-to-def-jam). Complex (April 15, 2013). Retrieved on 2013-08-12.
-
 22. [Video: Logic "Nasty"](http://www.complex.com/music/2013/04/watch-logic-nasty). Complex. Retrieved on August 12, 2013.
-
 23. [Logic – Young Sinatra: Welcome To Forever Hosted by Visionary Music Group // Free Mixtape @](http://www.datpiff.com/Logic-Young-Sinatra-Welcome-To-Forever-mixtape.483644.html). Datpiff.com. Retrieved on August 12, 2013.
-
 24. [Logic Announces "Welcome To Forever" Tour Dates – XXL](http://www.xxlmag.com/news/2013/04/logic-announces-welcome-to-forever-tour-dates/). Xxlmag.com (April 16, 2013). Retrieved on 2013-08-12.
-
 25. [Kid Cudi Announces ‘The Cudy Life Tour’ with Big Sean, Tyler, The Creator & Logic (Updated)](http://www.missinfo.tv/index.php/kid-cudi-the-cud-life-tour/). MissInfo.tv (July 15, 2013). Retrieved on 2013-08-12.
-
 26. <http://www.xxlmag.com/news/2013/11/logic-grabs-hit-boy-no-i-d-for-debut-album/>
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
 39.
 40.
-
 41.
 42.
 43.
 44.
-
 45.
 46.
-
 47. [Logic (Rapper) – XXL Freshman 2013](http://www.xxlmag.com/2013-freshmen/logic/). Xxlmag.com (September 30, 2012). Retrieved on 2013-08-12.
-
 48.
 49. <http://www.billboard.com/artist/6260934/logic/chart?f=305>
-
 50. <http://www.billboard.com/artist/6260934/logic/chart?f=333>
-
 51. <http://www.billboard.com/artist/6260934/logic/chart?f=335>
-
 52.

@@ -92,42 +92,26 @@
 [Category:大都會_(漫畫)](https://zh.wikipedia.org/wiki/Category:大都會_\(漫畫\) "wikilink") [Category:DC漫畫地標](https://zh.wikipedia.org/wiki/Category:DC漫畫地標 "wikilink") [Category:漫畫中的虛構內容](https://zh.wikipedia.org/wiki/Category:漫畫中的虛構內容 "wikilink") [Category:超人](https://zh.wikipedia.org/wiki/Category:超人 "wikilink")
 
 1.
-
 2.
 3.
 4.  Bridwell, E. Nelson. "Metropolis Mailbag," *Superman* \#306 (1976-12).
-
 5.  *Action Comics Weekly* vol. 1 \#601 (May 1988)
-
 6.
-
 7.
 8.
 9.
-
 10.
 11.
-
 12.
-
 13. Frederick M. Binder, David M. Reimers: All the Nations Under Heaven: An Ethnic and Racial History of New York City, p.4;(1996)
-
 14. *Superman* (volume 1) \#233, 21971-01
-
 15. *Action Comics* \#442, 1974-12
-
 16. *Superman* (volume 1) \#317, 1977-11
-
 17.
 18.
-
 19.
-
 20. *Superman* (vol. 1) \#264, 1973-06
-
 21. *Action Comics* \#838, 2006-06
-
 22.
 23. *World's Finest Comics* \#271, 1981-09
-
 24. "Adventures of Superman" \#515

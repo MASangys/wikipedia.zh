@@ -36,27 +36,16 @@ Zalando在2011年推出英国本土化的域名，zalando.co.uk，为英国的�
 [Category:欧洲股份公司](https://zh.wikipedia.org/wiki/Category:欧洲股份公司 "wikilink") [Category:柏林公司](https://zh.wikipedia.org/wiki/Category:柏林公司 "wikilink") [Category:德国鞋业公司](https://zh.wikipedia.org/wiki/Category:德国鞋业公司 "wikilink") [Category:德国品牌](https://zh.wikipedia.org/wiki/Category:德国品牌 "wikilink") [Category:2008年建立](https://zh.wikipedia.org/wiki/Category:2008年建立 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  Bloomberg Businessweek; 3/5/2012, Issue 4269, p74-80, 6p, 5 Color Photographs
-
 5.  [Zalando to Raise Up to $815 Million in German E-Commerce IPO](http://www.bloomberg.com/news/articles/2014-09-17/german-e-tailer-zalando-to-raise-as-much-as-818-million-in-ipo) Retrieved on 31 January 2015
-
 6.
-
 7.  [Zalando kauft Berliner Modemesse Bread & Butter](http://www.berliner-zeitung.de/wirtschaft/onlinehaendler-und-fashion-plattform-zalando-kauft-berliner-modemesse-bread---butter,10808230,30899220.html) (German), [Berliner Zeitung](https://zh.wikipedia.org/wiki/Berliner_Zeitung "wikilink"), 8 June 2015
-
 8.   Retrieved on 22 May 2015
-
 9.
 10. [Estimations Bundesverband des Versandhandels Online-Versendern](http://www.internetworld.de/Nachrichten/E-Commerce/Zahlen-Studien/Die-umsatzstaerksten-deutschen-Online-Shops-Zalando.de-mit-101-2-Millionen-Euro-auf-Platz-31-59260.html) Internetworld, 18 août 2011
-
 11.
-
 12.
-
 13. [Nach heftiger Kritik: Zalando-Partner reagiert](http://www.fashionunited.de/News/Leads/Nach_heftiger_Kritik%3A_Zalando-Partner_reagiert_2012080212302/) , FashionUnited 02 August 2012.
-
 14.

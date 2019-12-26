@@ -86,71 +86,39 @@ VeraCrypt从2015年6月28日起采用Apache 2.0许可证授权。\[32\]在此之
 [Category:2014年软件](https://zh.wikipedia.org/wiki/Category:2014年软件 "wikilink") [Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink") [Category:加密软件](https://zh.wikipedia.org/wiki/Category:加密软件 "wikilink") [Category:磁盘加密](https://zh.wikipedia.org/wiki/Category:磁盘加密 "wikilink") [Category:Linux安全软件](https://zh.wikipedia.org/wiki/Category:Linux安全软件 "wikilink") [Category:Windows安全软件](https://zh.wikipedia.org/wiki/Category:Windows安全软件 "wikilink") [Category:使用wxWidgets的软件](https://zh.wikipedia.org/wiki/Category:使用wxWidgets的软件 "wikilink") [Category:MacOS安全软件](https://zh.wikipedia.org/wiki/Category:MacOS安全软件 "wikilink")
 
 1.  ["VeraCrypt Official Site"](https://veracrypt.codeplex.com/)
-
 2.
-
 3.
-
 4.
-
 5.  ["VeraCrypt Downloads"](https://veracrypt.codeplex.com/releases/view/616110)
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12. ["VeraCrypt Release Notes"](https:/acrypt.codeplex.com/wikipage?title=Release%20Notes)
-
 13. Castle, Alex (March, 2015). "Where Are We At With TrueCrypt?". MaximumPC, p. 59.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
 20.
 21.
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34. [TrueCrypt License](http://www.truecrypt.org/legal/license). Accessed on: May 21, 2012
-
 35. [TrueCrypt Collective License](https://www.ohloh.net/licenses/TrueCrypt_Collective_License). Accessed on: June 4, 2014
-
 36.
-
 37.

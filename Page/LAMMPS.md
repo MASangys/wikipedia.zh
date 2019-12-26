@@ -29,12 +29,9 @@ LAMMPS还可编译为共享库，提供接口供程序调用，通过其它编�
 [Category:分子模擬軟體](https://zh.wikipedia.org/wiki/Category:分子模擬軟體 "wikilink") [Category:自由科學軟件](https://zh.wikipedia.org/wiki/Category:自由科學軟件 "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
-
 6.
-
 7.

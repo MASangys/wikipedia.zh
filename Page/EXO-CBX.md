@@ -608,102 +608,56 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
 
 1.
-
 2.  [伯賢、XIUMIN、CHEN 將組成子團！](http://kpopn.niusnews.com/=K0g3tf81) Kpopn
-
-3.  [EXO-CBX 將於10/31發行首張迷你專輯](http://kpopn.niusnews.com/=K19zyby6)Kpopn
-
-4.  [EXO-CBX《Hey Mama\!》預告照](http://kpopn.niusnews.com/=K034ag13)Kpopn
-
+3.  [EXO-CBX 將於10/31發行首張迷你專輯](http://kpopn.niusnews.com/=K19zyby6) Kpopn
+4.  [EXO-CBX《Hey Mama\!》預告照](http://kpopn.niusnews.com/=K034ag13) Kpopn
 5.  [XO-CBX《Hey Mama\!》MV 預告公開](http://kpopn.niusnews.com/=K19mmrb5E)Kpopn{{zh}
-
-6.  [EXO-CBX《Hey Mama\!》MV、音源](http://kpopn.niusnews.com/=K1dllcd4)Kpopn
-
-7.  [EXO-CBX 公開《The One》特別 MV](http://kpopn.niusnews.com/=K1x4mlx2)Kpopn
-
+6.  [EXO-CBX《Hey Mama\!》MV、音源](http://kpopn.niusnews.com/=K1dllcd4) Kpopn
+7.  [EXO-CBX 公開《The One》特別 MV](http://kpopn.niusnews.com/=K1x4mlx2) Kpopn
 8.
 9.
-
 10.
-
 11.
-
 12.
 13.
-
 14.
 15.
-
 16.
-
 17.
-
 18.
 19.
 20.
-
 21.
-
 22.
-
 23.
-
 24. [最特別的生日禮物！EXO首個SOLO成員Lay，將於7日中韓同步公開作品](http://www.vlovekpop.com/20161006-lay/) vlovekpop
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
 42.
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.

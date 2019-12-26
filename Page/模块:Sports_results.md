@@ -1,5 +1,4 @@
-\-- Module to build results cross-tables for standings in Sports -- See
-documentation for details
+\-- Module to build results cross-tables for standings in Sports -- See documentation for details
 
 require('Module:No globals')
 
@@ -40,7 +39,7 @@ local p = {}
 `   `
 `   -- Create header`
 `   -- Open table`
-`   table.insert(t,'{|class="wikitable plainrowheaders" style="text-align:center;"\n') `
+`   table.insert(t,'{|class="wikitable plainrowheaders" style="text-align:center; font-family:微軟正黑體;"\n') `
 `   -- First column`
 `   t_return.count = 0          -- Dummy parameter, using subfunction call seems best at this point because both module are intertwined`
 `   t_return.tab_text = t       -- Actual text`
@@ -122,9 +121,9 @@ end
 `       return s `
 `   end`
 `   -- replace link text in name with team abbr if possible`
-`   if n and t and n:match('(%[%`[`^%[%`](../Page/^%[%.md "wikilink")`*%]%])') then`
-`       n = mw.ustring.gsub(n, '(%[%`[`%`](../Page/^%.md "wikilink")`*%|)[^%|%]]*(%]%])', '%1' .. t .. '%2')`
-`       n = mw.ustring.gsub(n, '(%[%`[`%`](../Page/^%.md "wikilink")`*)(%]%])', '%1|' .. t .. '%2')`
+`   if n and t and n:match('(%[%`[`^%[%`](https://zh.wikipedia.org/wiki/^%[% "wikilink")`*%]%])') then`
+`       n = mw.ustring.gsub(n, '(%[%`[`%`](https://zh.wikipedia.org/wiki/^% "wikilink")`*%|)[^%|%]]*(%]%])', '%1' .. t .. '%2')`
+`       n = mw.ustring.gsub(n, '(%[%`[`%`](https://zh.wikipedia.org/wiki/^% "wikilink")`*)(%]%])', '%1|' .. t .. '%2')`
 `       return n`
 `   end`
 `   -- nothing worked, so just return the unlinked team abbr`
@@ -139,8 +138,8 @@ local function get_score_background(s)
 `   local wc, lc, tc = '#CCFFCC', '#FFCCCC', '#FFFFCC'`
 
 `   -- delink if necessary  `
-`   if s:match('^%s*%[%`[`^%[%`](../Page/^%[%.md "wikilink")`*%|([^%[%]]*)%]%]') then`
-`       s = s:match('^%s*%[%`[`^%[%`](../Page/^%[%.md "wikilink")`*%|([^%[%]]*)%]%]')`
+`   if s:match('^%s*%[%`[`^%[%`](https://zh.wikipedia.org/wiki/^%[% "wikilink")`*%|([^%[%]]*)%]%]') then`
+`       s = s:match('^%s*%[%`[`^%[%`](https://zh.wikipedia.org/wiki/^%[% "wikilink")`*%|([^%[%]]*)%]%]')`
 `   end`
 
 `   -- get the scores`
@@ -162,8 +161,8 @@ local function format_score(s)
 
 `   s = mw.ustring.gsub(s or '', '^%s*([%d]+)%s*[–−—%-]%s*([%d]+)', '%1–%2')`
 `   s = mw.ustring.gsub(s, '^%s*([%d]+)%s*&[MmNn][Dd][Aa][Ss][Hh];%s*([%d]+)', '%1–%2')`
-`   s = mw.ustring.gsub(s, '^%s*(%[%`[`^%[%`](../Page/^%[%.md "wikilink")`*%|[%d]+)%s*%-%s*([%d]+)', '%1–%2')`
-`   s = mw.ustring.gsub(s, '^%s*(%[%`[`^%[%`](../Page/^%[%.md "wikilink")`*%|[%d]+)%s*&[MmNn][Dd][Aa][Ss][Hh];%s*([%d]+)', '%1–%2')`
+`   s = mw.ustring.gsub(s, '^%s*(%[%`[`^%[%`](https://zh.wikipedia.org/wiki/^%[% "wikilink")`*%|[%d]+)%s*%-%s*([%d]+)', '%1–%2')`
+`   s = mw.ustring.gsub(s, '^%s*(%[%`[`^%[%`](https://zh.wikipedia.org/wiki/^%[% "wikilink")`*%|[%d]+)%s*&[MmNn][Dd][Aa][Ss][Hh];%s*([%d]+)', '%1–%2')`
 `   return s`
 
 end
@@ -207,15 +206,15 @@ function p.row(tt,Args,N_teams,team_list,ii,ii_show)
 `       if ii == jj then`
 `           -- Solid cell`
 `           if ii==ii_show then cell_bold = true else cell_bold = false end`
-`           fw = cell_bold and 'font-weight: bold;' or 'font-weight: normal;'`
-`           bg = 'background-color:transparent;'`
+`           fw = cell_bold and 'font-weight:bold;' or 'font-weight:normal;'`
+`           bg = 'background:transparent;'`
 `           table.insert(tt,'| style="'..fw..bg..'" | —\n')`
 `       else`
 `           -- Content cell`
 `           -- Set bolding and background`
 `           if ii==ii_show or jj == ii_show then cell_bold = true else cell_bold = false end`
-`           fw = cell_bold and 'font-weight: bold;' or 'font-weight: normal;'`
-`           bg = 'background-color:transparent;'`
+`           fw = cell_bold and 'font-weight:bold;' or 'font-weight:normal;'`
+`           bg = 'background:transparent;'`
 `           `
 `           -- Now for the actual result`
 `           team_code_jj = team_list[jj]`
@@ -226,7 +225,7 @@ function p.row(tt,Args,N_teams,team_list,ii,ii_show)
 `           end`
 `           -- Background coloring if enabled`
 `           if matches_style == 'FBR' and result ~= '' then`
-`               bg = 'background-color:' .. get_score_background(result) .. ';'`
+`               bg = 'background:' .. get_score_background(result) .. ';'`
 `           end`
 `           table.insert(tt,'| style="white-space:nowrap;'..fw..bg..'" |'..result..'\n')`
 `       end`

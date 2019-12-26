@@ -307,6 +307,6 @@
 2.  [GFRIEND 首張正規專輯《L.O.L》 第二輪宣傳照公開](http://www.koreastardaily.com/tc/news/80752)
 3.  [GFRIEND《L.O.L》回歸預告片公開　復古少女活力四射](http://www.koreastardaily.com/tc/news/80846)
 4.  [GFRIEND曝新主打歌《NAVILLERA》MV 預告 展現青春洋溢甜美Look](http://www.koreastardaily.com/tc/news/80981)
-5.  [《LOL》音源試聽](http://kpopn.niusnews.com/=K321fkj4)
+5.
 6.  [GFRIEND新專輯《L.O.L》今日發佈　主打歌《NAVILLERA》橫掃音源榜](http://www.koreastardaily.com/tc/news/81062)
 7.  [GFRIEND新專輯《L.O.L》今日發佈　主打歌《NAVILLERA》橫掃音源榜](http://www.koreastardaily.com/tc/news/81062)

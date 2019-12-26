@@ -12,5 +12,4 @@
 
 1.
 2.  SIMBAD, ["Z Camelopardalis"](http://simbak.cfa.harvard.edu/simbad/sim-basic?Ident=Z+Camelopardalis&submit=SIMBAD+search) (accessed 2012-03-20)
-
 3.

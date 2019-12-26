@@ -101,14 +101,10 @@ Starset的音樂風格曾被[Erie Times-News'](https://zh.wikipedia.org/wiki/Eri
 ## 來源
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.
-
 7.
-
 8.

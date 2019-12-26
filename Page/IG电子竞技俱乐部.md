@@ -4,7 +4,7 @@
 
 2011年，富豪[王健林](../Page/王健林.md "wikilink")之子[王思聪](../Page/王思聪.md "wikilink")以600万美元收购了中国知名的电子竞技队伍Catastrophic Cruel Memory（CCM），并成立Invictus Gaming，以促进和改善中国专业电竞环境\[1\]。
 
-IG的Dota团队曾赢得2012年[Dota 2国际邀请赛冠军](../Page/Dota_2国际邀请赛.md "wikilink")，而英雄联盟团队也赢得了2018年[英雄联盟全球总决赛的冠军](../Page/英雄联盟2018赛季全球总决赛.md "wikilink")，因此IG是目前全世界唯一在Dota 2和英雄联盟两大Dota類型游戏的最高级赛事中都有夺冠记录的俱乐部。
+IG的Dota团队曾赢得2012年[Dota 2国际邀请赛冠军](../Page/Dota_2国际邀请赛.md "wikilink")，而英雄联盟团队也赢得了2018年[英雄联盟全球总决赛的冠军](../Page/英雄联盟2018赛季全球总决赛.md "wikilink")，因此IG是目前全世界唯一在Dota 2和英雄联盟两大moba類型游戏的最高级赛事中都有夺冠记录的俱乐部\[2\]。
 
 ## Dota 2分部
 
@@ -198,13 +198,13 @@ IG第二次晋级全球总决赛是在[2015年](../Page/英雄联盟2015赛季�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>李浩成</p></td>
+<td></td>
 <td><p>Duke</p></td>
 <td><p>上单</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>姜承録</p></td>
+<td></td>
 <td><p>TheShy</p></td>
 <td><p>上单</p></td>
 <td></td>
@@ -222,21 +222,9 @@ IG第二次晋级全球总决赛是在[2015年](../Page/英雄联盟2015赛季�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>宋义进</p></td>
+<td></td>
 <td><p>Rookie</p></td>
 <td><p>中单</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>邓杰</p></td>
-<td><p>Forge</p></td>
-<td><p>中单</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>王柳羿</p></td>
-<td><p>Baolan</p></td>
-<td><p>辅助</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -246,9 +234,9 @@ IG第二次晋级全球总决赛是在[2015年](../Page/英雄联盟2015赛季�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>陈龙</p></td>
-<td><p>West</p></td>
-<td><p>下路</p></td>
+<td><p>王柳羿</p></td>
+<td><p>Baolan</p></td>
+<td><p>辅助</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -269,6 +257,7 @@ IG第二次晋级全球总决赛是在[2015年](../Page/英雄联盟2015赛季�
 | [刘谋](../Page/刘谋.md "wikilink")   | PDD      |
 | [孙亚龙](../Page/孙亚龙.md "wikilink") | xiaoxiao |
 | [王思聪](../Page/王思聪.md "wikilink") | WXZ      |
+| 侯宗辰                              | Krisp    |
 
 ### 荣誉
 
@@ -297,15 +286,15 @@ IG第二次晋级全球总决赛是在[2015年](../Page/英雄联盟2015赛季�
 | 曹晋珲 | Jim    | 神族   |
 |     |        |      |
 
+## CS:GO分部
+
+2019年8月，iG收购8esay战队，重新成立CS:GO分部。\[3\]
+
 ## 已解散分部
 
 ### 守望先锋
 
-IG守望先锋分部成立于2016年7月，分为"Ice"和"Fire"两队。2017年9月，IG电竞俱乐部正式宣布将守望先锋分部剩余成员交予网易CC直播，并组成新队伍Team CC。至此，IG电竞俱乐部守望先锋分部不复存在。\[2\]
-
-### 反恐精英
-
-IG反恐精英分部于2017年7月成立，并于当年12月左右解散。
+IG守望先锋分部成立于2016年7月，分为"Ice"和"Fire"两队。2017年9月，IG电竞俱乐部正式宣布将守望先锋分部剩余成员交予网易CC直播，并组成新队伍Team CC。至此，IG电竞俱乐部守望先锋分部不复存在。\[4\]
 
 ## 参考资料
 
@@ -316,3 +305,5 @@ IG反恐精英分部于2017年7月成立，并于当年12月左右解散。
 
 1.
 2.
+3.
+4.

@@ -508,35 +508,22 @@ KEYABINGO\!4有別於前三季，是由櫸坂46的子團「[平假名櫸坂46](h
 [Category:櫸坂46](https://zh.wikipedia.org/wiki/Category:櫸坂46 "wikilink") [Category:平假名櫸坂46](https://zh.wikipedia.org/wiki/Category:平假名櫸坂46 "wikilink") [Category:日本電視台深夜節目](https://zh.wikipedia.org/wiki/Category:日本電視台深夜節目 "wikilink") [Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink") [Category:2016年日本電視節目](https://zh.wikipedia.org/wiki/Category:2016年日本電視節目 "wikilink") [Category:2017年日本電視節目](https://zh.wikipedia.org/wiki/Category:2017年日本電視節目 "wikilink") [Category:2018年日本電視節目](https://zh.wikipedia.org/wiki/Category:2018年日本電視節目 "wikilink") [Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink") [Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
-
 14.
-
 15.
-
 16. 由於當晚直播[里約奧運賽事](https://zh.wikipedia.org/wiki/里約奧運 "wikilink")，故停播一次。
-
 17.
-
 18.
 19.
 20.
@@ -547,10 +534,8 @@ KEYABINGO\!4有別於前三季，是由櫸坂46的子團「[平假名櫸坂46](h
 25.
 26.
 27.
-
 28.
 29.
-
 30.
 31.
 32.
@@ -561,7 +546,6 @@ KEYABINGO\!4有別於前三季，是由櫸坂46的子團「[平假名櫸坂46](h
 37.
 38.
 39.
-
 40.
 41.
 42.

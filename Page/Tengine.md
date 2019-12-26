@@ -30,18 +30,13 @@
 [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink") [Category:自由代理服务器](https://zh.wikipedia.org/wiki/Category:自由代理服务器 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink") [Category:Linux网络服务器软件](https://zh.wikipedia.org/wiki/Category:Linux网络服务器软件 "wikilink") [Category:Linux代理服务器软件](https://zh.wikipedia.org/wiki/Category:Linux代理服务器软件 "wikilink") [Category:自由网络服务器软件](https://zh.wikipedia.org/wiki/Category:自由网络服务器软件 "wikilink") [Category:反向代理](https://zh.wikipedia.org/wiki/Category:反向代理 "wikilink") [Category:使用BSD许可证的软件](https://zh.wikipedia.org/wiki/Category:使用BSD许可证的软件 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.
-
 7.
 8.
-
 9.
 10.
-
 11.

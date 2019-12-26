@@ -35,28 +35,19 @@ D.Va受到了游戏社区的积极评价。[Kotaku](../Page/Kotaku.md "wikilink"
 [Category:虛構女性電子遊戲角色](https://zh.wikipedia.org/wiki/Category:虛構女性電子遊戲角色 "wikilink") [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink") [Category:軍人電子遊戲角色](https://zh.wikipedia.org/wiki/Category:軍人電子遊戲角色 "wikilink") [Category:守望先锋角色](https://zh.wikipedia.org/wiki/Category:守望先锋角色 "wikilink") [Category:2016年推出的電子遊戲角色](https://zh.wikipedia.org/wiki/Category:2016年推出的電子遊戲角色 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.
-
 8.
 9.
-
 10.
-
 11.
 12.
-
 13.
 14.
-
 15.
 16.
 17.
@@ -65,21 +56,14 @@ D.Va受到了游戏社区的积极评价。[Kotaku](../Page/Kotaku.md "wikilink"
 20.
 21.
 22.
-
 23.
 24.
-
 25.
 26.
-
 27.
 28.
 29.
-
 30. [韩国美少女电竞选手现已正式加入《风暴英雄》测试服](http://www.g-cores.com/articles/24659) .机核网.2017-05-09.\[2017-05-22\].
-
 31.
-
 32.
-
 33.

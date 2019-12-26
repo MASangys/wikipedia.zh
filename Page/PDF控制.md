@@ -13,9 +13,7 @@ PDF控制器其架構類似[PI控制器](https://zh.wikipedia.org/wiki/PI控制�
 [分類:控制理论](https://zh.wikipedia.org/wiki/分類:控制理论 "wikilink") [分類:自動控制](https://zh.wikipedia.org/wiki/分類:自動控制 "wikilink") [分類:控制器](https://zh.wikipedia.org/wiki/分類:控制器 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.  [Pseudo-Derivative Feedback Control](http://stablesimulations.com/technotes/pdf.html)

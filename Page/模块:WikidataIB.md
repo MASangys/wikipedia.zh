@@ -20,20 +20,21 @@ local i18n = {
 `       ["property-not-found"] = "未找到属性。",`
 `       ["No property supplied"] = "未找到Wikidata属性。",`
 `       ["entity-not-found"] = "未找到Wikidata实体。",`
-`        ["unknown-claim-type"] = "未知声称类型。",`
+`       ["unknown-claim-type"] = "未知声称类型。",`
 `       ["unknown-entity-type"] = "未知实体类型。",`
 `       ["qualifier-not-found"] = "未找到修饰词。",`
 `       ["site-not-found"] = "未找到维基媒体项目。",`
 `       ["labels-not-found"] = "未找到Wikidata标签。",`
 `       ["descriptions-not-found"] = "未找到描述。",`
-`       ["aliases-not-found"] = "未找到別称",`
+`       ["aliases-not-found"] = "未找到别名。",`
 `       ["unknown-datetime-format"] = "未知日期时间格式。",`
-`       ["local-article-not-found"] = "存在维基数据但中文维基尚无此条目",`
-`       ["dab-page"] = " (dab)",`
+`       ["local-article-not-found"] = "此维基尚无此条目",`
+`       ["dab-page"] = " (消歧义)",`
 `   },`
 `   ["months"] =`
 `   {`
-`       "1月", "2月", "3月", "4月", "5月", "6月", "7月", "8月", "9月", "10月", "11月", "12月"`
+`       "1月", "2月", "3月", "4月", "5月", "6月",`
+`       "7月", "8月", "9月", "10月", "11月", "12月"`
 `   },`
 `   ["century"] = "世纪",`
 `   ["BC"] = "公元前",`
@@ -46,25 +47,24 @@ local i18n = {
 `       ["default"] = ""`
 `   },`
 `   ["filespace"] = "File",`
-`   ["Unknown"] = "Unknown",`
-`   ["NaN"] = "Not a number",`
+`   ["Unknown"] = "未知",`
+`   ["NaN"] = "不是数字",`
 `   -- set the following to the name of a tracking category,`
 `   -- e.g. "", or "" to disable:`
 `   ["missinginfocat"] = "",`
-`   ["editonwikidata"] = "編輯維基數據",`
-`   ["latestdatequalifier"] = function (date) return "before " .. date end,`
+`   ["editonwikidata"] = "编辑维基数据",`
+`   ["latestdatequalifier"] = function (date) return date .. "之前" end,`
 `   -- some languages, e.g. Bosnian use a period as a suffix after each number in a date`
 `   ["datenumbersuffix"] = "",`
-`   ["list separator"] = ", ",`
+`   ["list separator"] = "、",`
 `   ["multipliers"] = {`
 `       [0]  = "",`
-`       [3]  = " thousand",`
-`       [6]  = " million",`
-`       [9]  = " billion",`
-`       [12] = " trillion",`
+`       [4]  = "万",`
+`       [8]  = "亿",`
+`       [12] = "兆",`
 `   }`
 
-} -- This allows a internationisation module to override the above table if 'en' \~= mw.getContentLanguage():getCode() then
+} -- This allows an internationisation module to override the above table if 'en' \~= mw.getContentLanguage():getCode() then
 
 `   require("Module:i18n").loadI18n("Module:WikidataIB/i18n", i18n)`
 
@@ -79,6 +79,12 @@ end
 \-- Some items should not be linked. -- Each wiki can create a list of those in Module:WikidataIB/nolinks -- It should return a table called itemsindex, containing true for each item not to be linked local donotlink = {} local nolinks_exists, nolinks = pcall(mw.loadData, "Module:WikidataIB/nolinks") if nolinks_exists then
 
 `   donotlink = nolinks.itemsindex`
+
+end
+
+\-- To satisfy Wikipedia:Manual of Style/Titles, certain types of items are italicised, and others are quoted. -- The submodule [Module:WikidataIB/titleformats](https://zh.wikipedia.org/wiki/Module:WikidataIB/titleformats "wikilink") lists the entity-ids used in 'instance of' (P31), -- which allows this module to identify the values that should be formatted. -- WikidataIB/titleformats exports a table p.formats, which is indexed by entity-id, and contains the value " or '' local formats = {} local titleformats_exists, titleformats = pcall(mw.loadData, "Module:WikidataIB/titleformats") if titleformats_exists then
+
+`   formats = titleformats.formats`
 
 end
 
@@ -274,7 +280,7 @@ end
 
 -----
 
-\-- formatDate takes a datetime of the usual format from mw.wikibase.entity:formatPropertyValues -- like "1 August 30 BCE" as parameter 1 -- and formats it according to the df (date format) and bc parameters -- df = \["dmy" / "mdy" / "y"\] default will be "dmy" -- bc = \["BC" / "BCE"\] default will be "BCE"
+\-- formatDate takes a datetime of the usual format from mw.wikibase.entity:formatPropertyValues -- like "1 August 30 BCE" as parameter 1 -- and formats it according to the df (date format) and bc parameters -- df = \["dmy" / "mdy" / "y"\] default will be "ymd" -- bc = \["BC" / "BCE"\] default will be "BCE"
 
 -----
 
@@ -289,7 +295,7 @@ local format_Date = function(datetime, dateformat, bc)
 `   -- keep anything before punctuation - we just want a single date:`
 `   local dateval = string.match( datetime, "[%w ]+")`
 
-`   local dateformat = string.lower(dateformat or "dmy") -- default to dmy`
+`   local dateformat = string.lower(dateformat or "ymd") -- default to ymd`
 
 `   local bc = string.upper(bc or "") -- can't use nil for bc`
 `   -- we only want to accept two possibilities: BC or default to BCE`
@@ -413,6 +419,12 @@ local dateFormat = function(timestamp, dprec, df, bcf, pd, qualifiers, lang, adj
 
 `   -- it may also be returned wrapped in a microformat, so remove that`
 `   fdate = fdate:gsub("<[^>]*>", "")`
+`   -- there may be leading zeros that we should remove`
+`   fdate = fdate:gsub("^0*", "")`
+`   -- if a plain date is required, then remove any links (like BC linked)`
+`   if pd then`
+`       fdate = fdate:gsub("%[%[.*|", ""):gsub("]]", "")`
+`   end`
 `   -- if 'circa', use the abbreviated form *** internationalise later ***`
 `   fdate = fdate:gsub('circa ', '`<abbr title="circa">`c.`</abbr>` ')`
 `   -- deal with BC/BCE`
@@ -433,7 +445,7 @@ end
 
 -----
 
-\-- parseParam takes a (string) parameter, e.g. from the list of frame arguments, -- and makes "false", "no", and "0" into the (boolean) false -- it makes the empty string and nil into the (boolean) value passed as default -- allowing the parameter to be true or false by default.
+\-- parseParam takes a (string) parameter, e.g. from the list of frame arguments, -- and makes "false", "no", and "0" into the (boolean) false -- it makes the empty string and nil into the (boolean) value passed as default -- allowing the parameter to be true or false by default. -- It returns a boolean.
 
 -----
 
@@ -443,6 +455,7 @@ end
 
 local parseParam = function(param, default)
 
+`   if type(param) == "boolean" then param = tostring(param) end`
 `   if param and param ~= "" then`
 `       param = param:lower()`
 `       if (param == "false") or (param:sub(1,1) == "n") or (param == "0") then`
@@ -505,15 +518,23 @@ local _getCommonslink = function(qid, onlycat, fallback)
 `       -- check for topic's main category`
 `       local prop910 = mw.wikibase.getBestStatements(qid, "P910")[1]`
 `       if prop910 then`
-`           local tmcid = prop910.mainsnak.datavalue.value.id`
+`           local tmcid = prop910.mainsnak.datavalue and prop910.mainsnak.datavalue.value.id`
 `           sitelink = _getSitelink(tmcid, "commonswiki")`
+`       end`
+`       if not sitelink then`
+`           -- check for list's main category`
+`           local prop1754 = mw.wikibase.getBestStatements(qid, "P1754")[1]`
+`           if prop1754 then`
+`               local tmcid = prop1754.mainsnak.datavalue and prop1754.mainsnak.datavalue.value.id`
+`               sitelink = _getSitelink(tmcid, "commonswiki")`
+`           end`
 `       end`
 `   end`
 `   if not sitelink and fallback then`
 `       -- check for Commons category (string value)`
 `       local prop373 = mw.wikibase.getBestStatements(qid, "P373")[1]`
 `       if prop373 then`
-`           sitelink = prop373.mainsnak.datavalue.value`
+`           sitelink = prop373.mainsnak.datavalue and prop373.mainsnak.datavalue.value`
 `           if sitelink then sitelink = "Category:" .. sitelink end`
 `       end`
 `   end`
@@ -531,9 +552,15 @@ end
 
 -----
 
-local labelOrId = function(id)
+local labelOrId = function(id, lang)
 
-`   local label = mw.wikibase.label(id)`
+`   if lang == "default" then lang = findLang().code end`
+`   local label`
+`   if lang then`
+`       label = mw.wikibase.getLabelByLang(id, lang)`
+`   else`
+`       label = mw.wikibase.label(id)`
+`   end`
 `   if label then`
 `       return mw.text.nowiki(label), true`
 `   else`
@@ -559,6 +586,14 @@ local linkedItem = function(id, lprefix, lpostfix, prefix, postfix, dtxt, shortn
 `   prefix = prefix or ""`
 `   postfix = postfix or ""`
 `   lang = lang or "en" -- fallback to default if missing`
+`   -- see if item might need italics or quotes`
+`   local fmt = ""`
+`   for k, v in ipairs( mw.wikibase.getBestStatements(id, "P31") ) do`
+`       if v.mainsnak.datavalue and formats[v.mainsnak.datavalue.value.id] then`
+`           fmt = formats[v.mainsnak.datavalue.value.id]`
+`           break -- pick the first match`
+`       end`
+`   end`
 `   local disp`
 `   local sitelink = mw.wikibase.sitelink(id)`
 `   local label, islabel`
@@ -583,24 +618,38 @@ local linkedItem = function(id, lprefix, lpostfix, prefix, postfix, dtxt, shortn
 `   if mw.site.siteName ~= "Wikimedia Commons" then`
 `       if sitelink then`
 `           if not (dtxt or shortname) then`
-`               -- strip any namespace or dab from the sitelink and use that as label`
+`               -- strip any namespace or dab from the sitelink`
 `               local pos = sitelink:find(":") or 0`
-`               label = sitelink:sub(pos+1):gsub("%s%(.+%)$", ""):gsub(",.+$", "")`
+`               local slink = sitelink`
+`               if pos > 0 then`
+`                   local prefix = sitelink:sub(1,pos-1)`
+`                   if mw.site.namespaces[prefix] then -- that prefix is a valid namespace, so remove it`
+`                       slink = sitelink:sub(pos+1)`
+`                   end`
+`               end`
+`               -- remove stuff after commas or inside parentheses - ie. dabs`
+`               slink = slink:gsub("%s%(.+%)$", ""):gsub(",.+$", "")`
+`               --  use that as label, preserving label case - find("^%u") is true for 1st char uppercase`
+`               if label:find("^%u") then`
+`                   label = slink:gsub("^(%l)", string.upper)`
+`               else`
+`                   label = slink:gsub("^(%u)", string.lower)`
+`               end`
 `           end`
 `           if donotlink[label] then`
-`               disp = prefix .. label .. postfix`
+`               disp = prefix .. fmt .. label .. fmt .. postfix`
 `           else`
-`               disp = "`[`"``   ``..``   ``prefix``   ``..``   ``label``   ``..``   ``postfix``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._lprefix_.._sitelink_.._lpostfix_.._" "wikilink")`"`
+`               disp = "`[`"``   ``..``   ``prefix``   ``..``   ``fmt``   ``..``   ``label``   ``..``   ``fmt``   ``..``   ``postfix``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._lprefix_.._sitelink_.._lpostfix_.._" "wikilink")`"`
 `           end`
 `       elseif islabel then`
 `           -- no sitelink, label exists, so check if a redirect with that title exists`
 `           local artitle = mw.title.new(label, 0)`
 `           if artitle and artitle.redirectTarget and not donotlink[label] then`
 `               -- there's a redirect with the same title as the label, so let's link to that`
-`               disp = "`[`"``   ``..``   ``prefix``   ``..``   ``label``   ``..``   ``postfix``   ``..``   ``"`](https://zh.wikipedia.org/wiki/".._lprefix_.._label_.._lpostfix_.._" "wikilink")`"`
+`               disp = "`[`"``   ``..``   ``prefix``   ``..``   ``fmt``   ``..``   ``label``   ``..``   ``fmt``   ``..``   ``postfix``   ``..``   ``"`](https://zh.wikipedia.org/wiki/".._lprefix_.._label_.._lpostfix_.._" "wikilink")`"`
 `           else`
 `               -- no sitelink, label exists, not redirect (or donotlink) so output plain label`
-`               disp = prefix .. label .. postfix`
+`               disp = prefix .. fmt .. label .. fmt .. postfix`
 `           end -- test if article title exists as redirect on current Wiki`
 `       else`
 `           -- no sitelink and no label, so return whatever was returned from labelOrId for now`
@@ -765,7 +814,7 @@ end
 local createicon = function(langcode, entityID, propertyID)
 
 `   local icon = " [[" .. i18n["filespace"]`
-`   icon = icon .. ":Blue pencil.svg |frameless |text-top |10px |alt="`
+`   icon = icon .. ":OOjs UI icon edit-ltr-progressive.svg |frameless |text-top |10px |alt="`
 `   icon = icon .. i18n["editonwikidata"]`
 `   icon = icon .. "|link=`<https://www.wikidata.org/wiki/>`" .. entityID`
 `   icon = icon .. "?uselang=" .. langcode`
@@ -917,6 +966,9 @@ local rendersnak = function(propval, args, linked, lpre, lpost, pre, post, uabbr
 `       -- or to set the adjectival form`
 `       -- qualifiers (if any) is a nested table or nil`
 `       -- lang is given, or user language, or site language`
+`       --`
+`       -- Here we can check whether args.df has a value`
+`       -- If not, use code from Module:Sandbox/RexxS/Getdateformat to set it from templates like `
 `       val = dateFormat(dv.time, dv.precision, args.df, args.bc, args.pd, propval.qualifiers, args.lang, "", dv.calendarmodel)`
 `       ------------------------------------`
 `   -- data types which are strings:`
@@ -926,6 +978,8 @@ local rendersnak = function(propval, args, linked, lpre, lpost, pre, post, uabbr
 `       if (lpre == "" or lpre == ":") and lpost == "" then`
 `           -- don't link if no linkpre/postfix or linkprefix is just ":"`
 `           val = pre .. dv .. post`
+`       elseif dtype == "external-id" then`
+`           val = "[" .. lpre .. dv .. lpost .. " " .. pre .. dv .. post .. "]"`
 `       else`
 `           val = "`[`"``   ``..``   ``pre``   ``..``   ``dv``   ``..``   ``post``   ``..``   ``"`](https://zh.wikipedia.org/wiki/"_.._lpre_.._dv_.._lpost_.._" "wikilink")`"`
 `       end -- check for link requested (i.e. either linkprefix or linkpostfix exists)`
@@ -942,6 +996,7 @@ local rendersnak = function(propval, args, linked, lpre, lpost, pre, post, uabbr
 `       local conv = parseParam(args.conv or args.convert, false)`
 `       -- if we have conversions, we won't have formatted numbers or scales`
 `       if conv then`
+`           uabbr = true`
 `           fnum = false`
 `           args.scale = "0"`
 `       end`
@@ -1046,11 +1101,11 @@ local rendersnak = function(propval, args, linked, lpre, lpost, pre, post, uabbr
 `           end`
 `       end`
 `       -- format display:`
-`       if conv and usym ~= "" then`
+`       if conv then`
 `           if range == "" then`
-`               val = mw.getCurrentFrame():expandTemplate{title = "cvt", args = {amount, usym}}`
+`               val = mw.getCurrentFrame():expandTemplate{title = "cvt", args = {amount, unit}}`
 `           else`
-`               val = mw.getCurrentFrame():expandTemplate{title = "cvt", args = {lowb, "to", upb, usym}}`
+`               val = mw.getCurrentFrame():expandTemplate{title = "cvt", args = {lowb, "to", upb, unit}}`
 `           end`
 `       elseif unit == "$" or unit == "£" then`
 `           val = unit .. amount .. range .. i18n.multipliers[scale]`
@@ -1067,9 +1122,10 @@ local rendersnak = function(propval, args, linked, lpre, lpost, pre, post, uabbr
 `       -- format parameter switches from deg/min/sec to decimal degrees`
 `       -- default is deg/min/sec -- decimal degrees needs |format = dec`
 `       local form = (args.format or ""):lower():sub(1,3)`
-`       if form ~= "dec" then form = "dms" end`
+`       if form ~= "dec" then form = "dms" end -- not needed for now`
 `       --`
-`       -- show parameter allows just the latitude or longitude to be shown`
+`       -- show parameter allows just the latitude, or just the longitude, or both`
+`       -- to be returned as a signed decimal, ignoring the format parameter.`
 `       local show = (args.show or ""):lower()`
 `       if show ~= "longlat" then show = show:sub(1,3) end`
 `       --`
@@ -1195,9 +1251,13 @@ local function propertyvalueandquals(objproperty, args, qualID)
 `   local pd = args.plaindate or args.pd or "no"`
 `   args.pd = pd`
 
+`   -- allow qualifiers to have a different date format; default to year`
+`   args.qdf = args.qdf or args.qualifierdateformat or args.df or "y"`
+
 `   local lang = args.lang or findlang().code`
 `   -- all proper values of a Wikidata property will be the same type as the first`
 `   -- qualifiers don't have a mainsnak, properties do`
+
 `   local datatype = objproperty[1].datatype or objproperty[1].mainsnak.datatype`
 `   -- out[] holds the values for this property`
 `   -- mlt[] holds the language code if the datatype is monolingual text`
@@ -1221,7 +1281,7 @@ local function propertyvalueandquals(objproperty, args, qualID)
 
 `       -- See if qualifiers are to be returned:`
 `       local snak = v.mainsnak or v`
-`       if hasvalue and v.qualifiers and qualID and snak.snaktype=="value" then`
+`       if hasvalue and v.qualifiers and qualID and snak.snaktype~="novalue" then`
 `           local qsep = (args.qsep or ""):gsub('"', '')`
 `           local qargs = {`
 `               ["osd"]         = "false",`
@@ -1233,12 +1293,13 @@ local function propertyvalueandquals(objproperty, args, qualID)
 `               ["wdl"]         = "false",`
 `               ["unitabbr"]    = tostring(uabbr),`
 `               ["maxvals"]     = 0,`
-`               ["sorted"]      = args.qsorted,`
+`               ["sorted"]      = tostring(args.qsorted),`
 `               ["noicon"]      = "true",`
 `               ["list"]        = args.qlist,`
 `               ["sep"]         = qsep,`
 `               ["langobj"]     = args.langobj,`
 `               ["lang"]        = args.langobj.code,`
+`               ["df"]          = args.qdf`
 `           }`
 `           local qlist = {}`
 `           local t1, t2 = "", ""`
@@ -1250,16 +1311,16 @@ local function propertyvalueandquals(objproperty, args, qualID)
 `                       if v1 == "P1326" then`
 `                           local ts = v.qualifiers[v1][1].datavalue.value.time`
 `                           local dp = v.qualifiers[v1][1].datavalue.value.precision`
-`                           qlist[#qlist + 1] = dateFormat(ts, dp, args.df, args.bc, pd, "", lang, "before")`
+`                           qlist[#qlist + 1] = dateFormat(ts, dp, args.qdf, args.bc, pd, "", lang, "before")`
 `                       elseif v1 == "P1319" then`
 `                           local ts = v.qualifiers[v1][1].datavalue.value.time`
 `                           local dp = v.qualifiers[v1][1].datavalue.value.precision`
-`                           qlist[#qlist + 1] = dateFormat(ts, dp, args.df, args.bc, pd, "", lang, "after")`
+`                           qlist[#qlist + 1] = dateFormat(ts, dp, args.qdf, args.bc, pd, "", lang, "after")`
 `                       else`
 `                           local q = assembleoutput(propertyvalueandquals(v.qualifiers[v1], qargs), qargs)`
 `                           -- we already deal with circa via 'sourcing circumstances'`
 `                           -- either linked or unlinked *** internationalise later ***`
-`                           if q ~= "circa" and not q:find("circa]]") then`
+`                           if q ~= "circa" and not (type(q) == "string" and q:find("circa]]")) then`
 `                               qlist[#qlist + 1] = q`
 `                           end`
 `                       end`
@@ -1270,7 +1331,7 @@ local function propertyvalueandquals(objproperty, args, qualID)
 `                   for k1, v1 in ipairs(ql) do`
 `                       -- we already deal with circa via 'sourcing circumstances'`
 `                       -- either linked or unlinked *** internationalise later ***`
-`                       if v1 ~= "circa" and not v1:find("circa]]") then`
+`                       if v1 ~= "circa" and not (type(v1) == "string" and v1:find("circa]]")) then`
 `                           qlist[#qlist + 1] = v1`
 `                       end`
 `                   end`
@@ -1295,7 +1356,7 @@ local function propertyvalueandquals(objproperty, args, qualID)
 `                           if k1 == "P1326" then`
 `                               local ts = v1[1].datavalue.value.time`
 `                               local dp = v1[1].datavalue.value.precision`
-`                               qlist[#qlist + 1] = dateFormat(ts, dp, args.df, args.bc, pd, "", lang, "before")`
+`                               qlist[#qlist + 1] = dateFormat(ts, dp, args.qdf, args.bc, pd, "", lang, "before")`
 `                           end`
 `                       end`
 `                   else`
@@ -1424,9 +1485,13 @@ local _getvaluebyqual = function(frame, qualID, checkvalue)
 `                   if onlysrc == false or sourced(v1) then`
 `                       -- if we've got this far, we have a (sourced) claim with qualifiers`
 `                       -- so see if matches the required value`
-`                       -- We'll only deal with wikibase-items for now`
+`                       -- We'll only deal with wikibase-items and strings for now`
 `                       if v1q[qualID][1].datatype == "wikibase-item" then`
 `                           if checkvalue(v1q[qualID][1].datavalue.value.id) then`
+`                               out[#out + 1] = rendersnak(v1, args, linked, lpre, lpost, pre, post, uabbr, filter)`
+`                           end`
+`                       elseif v1q[qualID][1].datatype == "string" then`
+`                           if checkvalue(v1q[qualID][1].datavalue.value) then`
 `                               out[#out + 1] = rendersnak(v1, args, linked, lpre, lpost, pre, post, uabbr, filter)`
 `                           end`
 `                       end`
@@ -1463,17 +1528,24 @@ local _location = function(qid, first, skip)
 `   local langcode = findLang():getCode()`
 `   local finished = false`
 `   local count = 0`
-`   local prevqid = ""`
+`   local prevqid = "Q0"`
 `   repeat`
 `       local prop`
 `       for i1, v1 in ipairs(locs) do`
 `           local proptbl = mw.wikibase.getBestStatements(qid, v1)`
 `           if #proptbl > 1 then`
-`               -- there is more than one parent location`
+`               -- there is more than one higher location`
+`               local prevP131, prevP131id`
+`               if prevqid ~= "Q0" then`
+`                   prevP131 = mw.wikibase.getBestStatements(prevqid, "P131")[1]`
+`                   prevP131id = prevP131`
+`                   and prevP131.mainsnak.datavalue`
+`                   and prevP131.mainsnak.datavalue.value.id`
+`               end`
 `               for i2, v2 in ipairs(proptbl) do`
 `                   parttbl = v2.qualifiers and v2.qualifiers.P518`
 `                   if parttbl then`
-`                       -- this parent location has qualifier 'applies to part' (P518)`
+`                       -- this higher location has qualifier 'applies to part' (P518)`
 `                       for i3, v3 in ipairs(parttbl) do`
 `                           if v3.snaktype == "value" and v3.datavalue.value.id == prevqid then`
 `                               -- it has a value equal to the previous location`
@@ -1481,6 +1553,13 @@ local _location = function(qid, first, skip)
 `                               break`
 `                           end -- of test for matching last location`
 `                       end -- of loop through values of 'applies to part'`
+`                   else`
+`                       -- there's no qualifier 'applies to part' (P518)`
+`                       -- so check if the previous location had a P131 that matches this alternate`
+`                       if qid == prevP131id then`
+`                               prop = proptbl[i2]`
+`                               break`
+`                       end -- of test for matching previous P131`
 `                   end`
 `               end -- of loop through parent locations`
 `               -- fallback to second value if match not found`
@@ -1635,7 +1714,7 @@ end
 
 -----
 
-\-- getValue is used to get the value(s) of a property -- The property ID is passed as the first unnamed parameter and is required. -- A locally supplied parameter may optionaly be supplied as the second unnamed parameter. -- The function will now also return qualifiers if parameter qual is supplied
+\-- _getValue makes the functionality of getValue available to other modules
 
 -----
 
@@ -1643,49 +1722,86 @@ end
 
 -----
 
-p.getValue = function(frame)
-
-`   if not frame.args[1] then`
-`       frame.args = frame:getParent().args`
-`       if not frame.args[1] then return i18n.errors["No property supplied"] end`
-`   end`
+p._getValue = function(args)
 
 `   -- parameter sets for commonly used groups of parameters`
-`   local paraset = tonumber(frame.args.ps or frame.args.parameterset or 0)`
+`   local paraset = tonumber(args.ps or args.parameterset or 0)`
 `   if paraset == 1 then`
-`       frame.args.rank = "best"`
-`       frame.args.fetchwikidata = "ALL"`
-`       frame.args.onlysourced = "no"`
-`       frame.args.noicon = "true"`
+`       -- a common setting`
+`       args.rank = "best"`
+`       args.fetchwikidata = "ALL"`
+`       args.onlysourced = "no"`
+`       args.noicon = "true"`
 `   elseif paraset == 2 then`
-`       -- second set goes here`
+`       -- equivalent to raw`
+`       args.rank = "best"`
+`       args.fetchwikidata = "ALL"`
+`       args.onlysourced = "no"`
+`       args.noicon = "true"`
+`       args.linked = "no"`
+`       args.pd = "true"`
+`   elseif paraset == 3 then`
+`       -- third set goes here`
 `   end`
 
-`   local propertyID = mw.text.trim(frame.args[1] or "")`
+`   -- implement eid parameter`
+`   local eid = args.eid`
+`   if eid == "" then`
+`       return nil`
+`   elseif eid then`
+`       args.qid = eid`
+`   end`
 
-`   frame.args.reqranks = setRanks(frame.args.rank)`
+`   local propertyID = mw.text.trim(args[1] or "")`
 
-`   local entityid, props = parseInput(frame, frame.args[2], propertyID)`
+`   args.reqranks = setRanks(args.rank)`
+
+`   local f = {}`
+`   f.args = args`
+`   local entityid, props = parseInput(f, f.args[2], propertyID)`
 
 `   if not entityid then`
 `       return props -- either the input parameter or nothing`
 `   end`
+
 `   -- qual is a string containing the property ID of the qualifier(s) to be returned`
 `   -- if qual == "ALL" then all qualifiers returned`
 `   -- if qual == "DATES" then qualifiers P580 (start time) and P582 (end time) returned`
 `   -- if nothing or an empty string is passed set it nil -> no qualifiers returned`
-`   local qualID = mw.text.trim(frame.args.qual or ""):upper()`
+`   local qualID = mw.text.trim(args.qual or ""):upper()`
 `   if qualID == "" then qualID = nil end`
 
-`   -- set a language object and code in the frame.args table`
-`   frame.args.langobj = findLang(frame.args.lang)`
-`   frame.args.lang = frame.args.langobj.code`
+`   -- set a language object and code in the args table`
+`   args.langobj = findLang(args.lang)`
+`   args.lang = args.langobj.code`
 
 `   -- table 'out' stores the return value(s):`
-`   local out = propertyvalueandquals(props, frame.args, qualID)`
+`   local out = propertyvalueandquals(props, args, qualID)`
 
 `   -- format the table of values and return it as a string:`
-`   return assembleoutput(out, frame.args, entityid, propertyID)`
+`   return assembleoutput(out, args, entityid, propertyID)`
+
+end
+
+-----
+
+\-- getValue is used to get the value(s) of a property -- The property ID is passed as the first unnamed parameter and is required. -- A locally supplied parameter may optionaly be supplied as the second unnamed parameter. -- The function will now also return qualifiers if parameter qual is supplied
+
+-----
+
+\-- Dependencies: _getValue; setRanks; parseInput; propertyvalueandquals; assembleoutput; parseParam; sourced; -- labelOrId; i18n.latestdatequalifier; format_Date; makeOrdinal; roundto; decimalPrecision; decimalToDMS;
+
+-----
+
+p.getValue = function(frame)
+
+`   local args= frame.args`
+`   if not args[1] then`
+`       args = frame:getParent().args`
+`       if not args[1] then return i18n.errors["No property supplied"] end`
+`   end`
+
+`   return p._getValue(args)`
 
 end
 
@@ -1850,7 +1966,7 @@ end
 
 -----
 
-\-- getValueByQual gets the value of a property which has a qualifier with a given entity value -- The call needs: -- a property ID (the unnamed parameter or 1=Pxxx) -- the ID of a qualifier for that property (qualID=Pyyy) -- the Wikibase-entity ID of a value for that qualifier (qvalue=Qzzz) -- The usual whitelisting, blacklisting, onlysourced, etc. are implemented
+\-- getValueByQual gets the value of a property which has a qualifier with a given entity value -- The call needs: -- a property ID (the unnamed parameter or 1=Pxxx) -- the ID of a qualifier for that property (qualID=Pyyy) -- either the Wikibase-entity ID of a value for that qualifier (qvalue=Qzzz) -- or a string value for that qualifier (qvalue=abc123) -- The usual whitelisting, blacklisting, onlysourced, etc. are implemented
 
 -----
 
@@ -1884,10 +2000,7 @@ end
 p.getValueByLang = function(frame)
 
 `   -- The language code for the qualifier we want to match is in named parameter |lang=`
-`   local langcode = frame.args.lang or ""`
-`   if langcode == "" then`
-`       langcode = frame:callParserFunction{ name = "int", args = "lang" }`
-`   end`
+`   local langcode = findLang(frame.args.lang).code`
 `   local function checkLanguage(id)`
 `       -- id should represent a language like "British English (Q7979)"`
 `       -- it should have string property "Wikimedia language code (P424)"`
@@ -1903,7 +2016,7 @@ end
 
 -----
 
-\-- getValueByRefSource gets the value of a property which has a reference "stated in" (P248) -- whose value has the given entity code. -- The call needs: -- a property ID (the unnamed parameter or 1=Pxxx) -- the entity ID of a value to match where the reference is stated in (match=Qzzz) -- The usual whitelisting, blacklisting, onlysourced, etc. are implemented
+\-- getValueByRefSource gets the value of a property which has a reference "stated in" (P248) -- whose value has the given entity-ID. -- The call needs: -- a property ID (the unnamed parameter or 1=Pxxx) -- the entity ID of a value to match where the reference is stated in (match=Qzzz) -- The usual whitelisting, blacklisting, onlysourced, etc. are implemented
 
 -----
 
@@ -1992,6 +2105,52 @@ p.getValueByRefSource = function(frame)
 `   else`
 `       return props -- no property or local parameter supplied`
 `   end -- of test for success`
+
+end
+
+-----
+
+\-- getPropertyIDs takes most of the usual parameters. -- The usual whitelisting, blacklisting, onlysourced, etc. are implemented. -- It returns the Entity-IDs (Qids) of the values of a property if it is a Wikibase-Entity. -- Otherwise it returns nothing.
+
+-----
+
+\-- Dependencies: parseParam; setRanks; parseInput; sourced; propertyvalueandquals assembleoutput;
+
+-----
+
+p.getPropertyIDs = function(frame)
+
+`   local args = frame.args`
+`   args.reqranks = setRanks(args.rank)`
+`   args.langobj = findLang(args.lang)`
+`   args.lang = args.langobj.code`
+`   -- change default for noicon to true`
+`   args.noicon = tostring(parseParam(args.noicon or "", true))`
+`   local f = {}`
+`   f.args = args`
+`   local pid = mw.text.trim(args[1] or "")`
+
+`   -- get the qid and table of claims for the property, or nothing and the local value passed`
+`   local qid, props = parseInput(f, args[2], pid)`
+`   if not qid then return props end`
+`   if not props[1] then return nil end`
+`   local onlysrc = parseParam(args.onlysourced or args.osd, true)`
+`   local maxvals = tonumber(args.maxvals) or 0`
+
+`   out = {}`
+`   for i, v in ipairs(props) do`
+`       local snak = v.mainsnak`
+`       if ( snak.datatype == "wikibase-item" )`
+`           and ( v.rank and args.reqranks[v.rank:sub(1, 1)] )`
+`           and ( snak.snaktype == "value" )`
+`           and ( sourced(v) or not onlysrc )`
+`           then`
+`           out[#out+1] = snak.datavalue.value.id`
+`       end`
+`       if maxvals > 0 and #out >= maxvals then break end`
+`   end`
+
+`   return assembleoutput(out, args, qid, pid)`
 
 end
 
@@ -2239,6 +2398,124 @@ end
 
 -----
 
+\-- qualsToTable takes most of the usual parameters. -- The usual whitelisting, blacklisting, onlysourced, etc. are implemented. -- A qid may be given, and the first unnamed parameter is the property ID, which is of type wikibase item. -- It takes a list of qualifier property IDs as |quals= -- For a given qid and property, it creates the rows of an html table, -- each row being a value of the property (optionally only if the property matches the value in |pval= ) -- each cell being the first value of the qualifier corresponding to the list in |quals
+
+-----
+
+\-- Dependencies: parseParam; setRanks; parseInput; sourced;
+
+-----
+
+p.qualsToTable = function(frame)
+
+`   local args = frame.args`
+
+`   local quals = args.quals or ""`
+`   if quals == "" then return "" end`
+
+`   args.reqranks = setRanks(args.rank)`
+
+`   local propertyID = mw.text.trim(args[1] or "")`
+`   local f = {}`
+`   f.args = args`
+`   local entityid, props = parseInput(f, "", propertyID)`
+`   if not entityid then return "" end`
+
+`   args.langobj = findLang(args.lang)`
+`   args.lang = args.langobj.code`
+
+`   local pval = args.pval or ""`
+
+`   local qplist = mw.text.split(quals, "%p") -- split at punctuation and make a sequential table`
+`   for i, v in ipairs(qplist) do`
+`       qplist[i] = mw.text.trim(v):upper() -- remove whitespace and capitalise`
+`   end`
+
+`   local col1 = args.firstcol or ""`
+`   if col1 ~= "" then`
+`       col1 = col1 .. "`
+
+</td>
+
+<td>
+
+"
+
+`   end`
+
+`   local emptycell = args.emptycell or " "`
+
+`   -- construct a 2-D array of qualifier values in qvals`
+`   local qvals = {}`
+`   for i, v in ipairs(props) do`
+`       local skip = false`
+`       if pval ~= "" then`
+`           local pid = v.mainsnak.datavalue and v.mainsnak.datavalue.value.id`
+`           if pid ~= pval then skip = true end`
+`       end`
+`       if not skip then`
+`           local qval = {}`
+`           local vqualifiers = v.qualifiers or {}`
+`           -- go through list of wanted qualifier properties`
+`           for i1, v1 in ipairs(qplist) do`
+`               -- check for that property ID in the statement's qualifiers`
+`               local qv, qtype`
+`               if vqualifiers[v1] then`
+`                   qtype = vqualifiers[v1][1].datatype`
+`                   if qtype == "time" then`
+`                       if vqualifiers[v1][1].snaktype == "value" then`
+`                           qv = mw.wikibase.renderSnak(vqualifiers[v1][1])`
+`                           qv = frame:expandTemplate{title="dts", args={qv}}`
+`                       else`
+`                           qv = "?"`
+`                       end`
+`                   elseif qtype == "url" then`
+`                       qv = mw.wikibase.renderSnak(vqualifiers[v1][1])`
+`                       local display = mw.ustring.match( mw.uri.decode(qv, "WIKI"), "([%w ]+)$" )`
+`                       if display then`
+`                           qv = "[" .. qv .. " " .. display .. "]"`
+`                       end`
+`                   else`
+`                       qv = mw.wikibase.formatValue(vqualifiers[v1][1])`
+`                   end`
+`               end`
+`               -- record either the value or a placeholder`
+`               qval[i1] = qv or emptycell`
+`           end -- of loop through list of qualifiers`
+`           -- add the list of qualifier values as a "row" in the main list`
+`           qvals[#qvals+1] = qval`
+`       end`
+`   end -- of for each value loop`
+
+`   local out = {}`
+`   for i, v in ipairs(qvals) do`
+`       out[i] = "`
+
+<tr>
+
+<td>
+
+" .. col1 .. table.concat(qvals\[i\], "
+
+</td>
+
+<td>
+
+") .. "
+
+</td>
+
+</tr>
+
+"
+
+`   end`
+`   return table.concat(out, "\n")`
+
+end
+
+-----
+
 \-- getGlobe takes an optional qid of a Wikidata entity passed as |qid= -- otherwise it uses the linked item for the current page. -- If returns the Qid of the globe used in P625 (coordinate location), -- or nil if there isn't one.
 
 -----
@@ -2332,7 +2609,9 @@ p.getLabel = function(frame)
 
 `   local itemID = mw.text.trim(frame.args[1] or frame.args.qid or "")`
 `   if itemID == "" then return end`
-`   local label = labelOrId(itemID)`
+`   local lang = frame.args.lang or ""`
+`   if lang == "" then lang = nil end`
+`   local label = labelOrId(itemID, lang)`
 `   return label`
 
 end
@@ -2616,7 +2895,7 @@ end
 
 -----
 
-\-- getQid returns the qid, if supplied -- failing that, the Wikidata entity ID of the "category's main topic (P301)", if it exists -- failing that, the Wikidata entity ID asociated with the curent page, if it exists -- otherwise, nothing
+\-- getQid returns the qid, if supplied -- failing that, the Wikidata entity ID of the "category's main topic (P301)", if it exists -- failing that, the Wikidata entity ID associated with the current page, if it exists -- otherwise, nothing
 
 -----
 
@@ -2645,7 +2924,7 @@ end
 
 -----
 
-\-- followQid takes two optional parameters: qid and props -- If qid is not given, it uses the qid for the connected page -- or returns nil if there isn't one. -- props is a list of properties, separated by punctuation. -- If props is given, the Wikidata item for the qid is examined for each property in turn. -- If that property contains a value that is another Wikibase-item, that item's qid is returned, -- and the search terminates, unless |all=y when all of the qids are returned, sparated by spaces. -- If props is not given, the qid is returned.
+\-- followQid takes three optional parameters: qid, props, and all. -- If qid is not given, it uses the qid for the connected page -- or returns nil if there isn't one. -- props is a list of properties, separated by punctuation. -- If props is given, the Wikidata item for the qid is examined for each property in turn. -- If that property contains a value that is another Wikibase-item, that item's qid is returned, -- and the search terminates, unless |all=y when all of the qids are returned, sparated by spaces. -- If props is not given, the qid is returned.
 
 -----
 
@@ -2683,6 +2962,22 @@ p.followQid = function(frame)
 `   else`
 `       return qid`
 `   end`
+
+end
+
+-----
+
+\-- globalSiteID returns the globalSiteID for the current wiki -- e.g. returns "enwiki" for the English Wikipedia, "enwikisource" for English Wikisource, etc.
+
+-----
+
+\-- Dependencies: none
+
+-----
+
+p.globalSiteID = function(frame)
+
+`   return mw.wikibase.getGlobalSiteId()`
 
 end
 
@@ -3069,6 +3364,36 @@ function p.checkValidity(frame)
 
 end
 
+-----
+
+\-- getEntityFromTitle returns the Entity-ID (Q-number) for a given title. -- Modification of Module:ResolveEntityId -- The title is the first unnamed parameter. -- The site parameter determines the site/language for the title. Defaults to current wiki. -- The showdab parameter determines whether dab pages should return the Q-number or nil. Defaults to true. -- Returns the Q-number or nil if it does not exist.
+
+-----
+
+\-- Dependencies: parseParam
+
+-----
+
+function p.getEntityFromTitle(frame)
+
+`   local args=frame.args`
+`   if not args[1] then args=frame:getParent().args end`
+`   if not args[1] then return nil end`
+`   local title = mw.text.trim(args[1])`
+`   local site = args.site or ""`
+`   local showdab = parseParam(args.showdab, true)`
+`   qid = mw.wikibase.getEntityIdForTitle(title, site)`
+`   if qid then`
+`       local prop31 = mw.wikibase.getBestStatements(qid, "P31")[1]`
+`       if not showdab and prop31 and prop31.mainsnak.datavalue.value.id == "Q4167410" then`
+`           return nil`
+`       else`
+`           return qid`
+`       end`
+`   end`
+
+end
+
 return p
 
 -----
@@ -3077,9 +3402,7 @@ return p
 
 -----
 
-\-- getValue -- getPreferredValue -- getCoords -- getQualifierValue -- getSumOfParts -- getValueByQual -- getValueByLang -- getValueByRefSource -- getPropOfProp -- getAwardCat -- getIntersectCat -- getGlobe -- getCommonsLink -- getSiteLink -- getLink -- getLabel -- getAT -- getDescription -- getAliases -- pageId -- formatDate -- location -- checkBlacklist -- emptyor -- labelorid -- getLang -- findLanguage
-
-\-- getQID -- followQid -- siteID -- projID -- formatNumber -- examine -- checkvalue -- url2 -- getWebsite -- getAllLabels -- getAllDescriptions -- getAllAliases -- showNoLinks -- checkValidity
+\--[_getValue getValue getPreferredValue getCoords getQualifierValue getSumOfParts getValueByQual getValueByLang getValueByRefSource getPropertyIDs getPropOfProp getAwardCat getIntersectCat getGlobe getCommonsLink getSiteLink getLink getLabel getAT getDescription getAliases pageId formatDate location checkBlacklist emptyor labelorid getLang getItemLangCode findLanguage getQID followQid globalSiteID siteID projID formatNumber examine checkvalue url2 getWebsite getAllLabels getAllDescriptions getAllAliases showNoLinks checkValidity getEntityFromTitle --](https://zh.wikipedia.org/wiki/_getValue_getValue_getPreferredValue_getCoords_getQualifierValue_getSumOfParts_getValueByQual_getValueByLang_getValueByRefSource_getPropertyIDs_getPropOfProp_getAwardCat_getIntersectCat_getGlobe_getCommonsLink_getSiteLink_getLink_getLabel_getAT_getDescription_getAliases_pageId_formatDate_location_checkBlacklist_emptyor_labelorid_getLang_getItemLangCode_findLanguage_getQID_followQid_globalSiteID_siteID_projID_formatNumber_examine_checkvalue_url2_getWebsite_getAllLabels_getAllDescriptions_getAllAliases_showNoLinks_checkValidity_getEntityFromTitle_-- "wikilink")
 
 -----
 

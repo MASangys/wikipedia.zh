@@ -44,37 +44,22 @@ Security Innovation依然提供付费的专有软件选项。\[18\]
 [Category:密码学](https://zh.wikipedia.org/wiki/Category:密码学 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  <https://ntruprime.cr.yp.to/ntruprime-20160511.pdf>
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
-
 14.
-
 15.
 16.
-
 17.
 18.
-
 19.
-
 20.

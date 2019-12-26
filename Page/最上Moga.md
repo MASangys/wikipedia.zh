@@ -85,98 +85,63 @@
 [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink") [Category:電波組.inc成員](https://zh.wikipedia.org/wiki/Category:電波組.inc成員 "wikilink") [Category:1989年出生](https://zh.wikipedia.org/wiki/Category:1989年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
 6.  [DEMPA la mode](https://zh.wikipedia.org/wiki/#祥伝社 "wikilink"), p59
-
 7.
 8.
-
 9.
-
 10.
 11.
 12.
 13. [でんぱブック](https://zh.wikipedia.org/wiki/#でんぱブック "wikilink"), p140
-
 14. [でんぱブック](https://zh.wikipedia.org/wiki/#でんぱブック "wikilink"), p36
-
 15.
-
 16.
 17. [MARQUEE Vol.100](https://zh.wikipedia.org/wiki/#マーキー100 "wikilink"), p28
-
 18.
 19.
-
 20.
-
 21. [でんぱブック](https://zh.wikipedia.org/wiki/#でんぱブック "wikilink"), p142-143
-
 22.
-
 23.
 24.
 25. [でんぱブック](https://zh.wikipedia.org/wiki/#でんぱブック "wikilink"), p82-83
-
 26.
 27.
 28. [でんぱブック](https://zh.wikipedia.org/wiki/#でんぱブック "wikilink"), p97
-
 29. [でんぱブック](https://zh.wikipedia.org/wiki/#でんぱブック "wikilink"), p145
-
 30.
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
 38.
 39. [でんぱブック](https://zh.wikipedia.org/wiki/#でんぱブック "wikilink"), p80
-
 40.
 41.
-
 42.
 43.
 44.
-
 45.
 46.
 47.
-
 48. [でんぱブック](https://zh.wikipedia.org/wiki/#でんぱブック "wikilink"), p80
-
 49.
 50. [でんぱブック](https://zh.wikipedia.org/wiki/#でんぱブック "wikilink"), p78
-
 51. [でんぱブック](https://zh.wikipedia.org/wiki/#でんぱブック "wikilink"), p82
-
 52.
 53.
-
 54.
 55.
 56. [MARQUEE Vol.107](https://zh.wikipedia.org/wiki/#マーキー107 "wikilink"), p24
-
 57.
-
 58. [でんぱブック](https://zh.wikipedia.org/wiki/#でんぱブック "wikilink"), p27.
-
 59.
-
 60.
-
 61.

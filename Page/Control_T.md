@@ -26,7 +26,7 @@ Control T (2015年5月14號成立)，[臺灣](../Page/臺灣.md "wikilink")樂�
 <td><ul>
 <li>1997年1月25日，出生於桃園</li>
 <li>畢業於桃園高中</li>
-<li>國立政治大學歐語系-法文組(休學中)</li>
+<li>國立政治大學傳播學院大一大二不分系(在學中)</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -157,7 +157,7 @@ Control T (2015年5月14號成立)，[臺灣](../Page/臺灣.md "wikilink")樂�
 <td style="text-align: left;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><p><strong>2st</strong></p></td>
+<td style="text-align: left;"><p><strong>2nd</strong></p></td>
 <td style="text-align: left;"><p>《<strong><a href="https://zh.wikipedia.org/wiki/為我留的光" title="wikilink">為我留的光</a></strong>》</p>
 <ul>
 <li>發行日期：2016年9月13日</li>

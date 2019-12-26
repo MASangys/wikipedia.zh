@@ -44,41 +44,25 @@ Lumia Icon收获了较多的积极评论，一些评论家称这是有史以来�
 [Category:Windows_10_Mobile設備](https://zh.wikipedia.org/wiki/Category:Windows_10_Mobile設備 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.   Verizon Wireless|website=www.verizonwireless.com|access-date=2016-06-23}}
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
 19.
-
 20.
-
 21.
 22.
 23. [The Best Windows Phone Ever Still Disappoints | Product Reviews | Wired.com](http://www.wired.com/reviews/2014/02/nokia-lumia-icon/)

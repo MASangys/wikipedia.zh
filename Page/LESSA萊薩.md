@@ -157,10 +157,8 @@ LESSA萊薩開始連載後就在網上獲得好評，不久NAVER也推出了官�
 [Category:韓國漫畫作品](https://zh.wikipedia.org/wiki/Category:韓國漫畫作品 "wikilink") [Category:韓國網絡漫畫](https://zh.wikipedia.org/wiki/Category:韓國網絡漫畫 "wikilink") [Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink") [Category:搞笑漫畫](https://zh.wikipedia.org/wiki/Category:搞笑漫畫 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:神話題材漫畫](https://zh.wikipedia.org/wiki/Category:神話題材漫畫 "wikilink") [Category:轉生題材作品](https://zh.wikipedia.org/wiki/Category:轉生題材作品 "wikilink") [Category:天使題材漫畫](https://zh.wikipedia.org/wiki/Category:天使題材漫畫 "wikilink") [Category:惡魔題材漫畫](https://zh.wikipedia.org/wiki/Category:惡魔題材漫畫 "wikilink") [Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink") [Category:人吃人題材作品](https://zh.wikipedia.org/wiki/Category:人吃人題材作品 "wikilink") [Category:死後世界背景作品](https://zh.wikipedia.org/wiki/Category:死後世界背景作品 "wikilink") [Category:不死生物題材作品](https://zh.wikipedia.org/wiki/Category:不死生物題材作品 "wikilink") [Category:長生不老題材作品](https://zh.wikipedia.org/wiki/Category:長生不老題材作品 "wikilink") [Category:種族滅絕相關作品](https://zh.wikipedia.org/wiki/Category:種族滅絕相關作品 "wikilink") [Category:反烏托邦題材漫畫](https://zh.wikipedia.org/wiki/Category:反烏托邦題材漫畫 "wikilink") [Category:文明崩潰後世界題材漫畫](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材漫畫 "wikilink") [Category:虛構島嶼背景作品](https://zh.wikipedia.org/wiki/Category:虛構島嶼背景作品 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
 6.
@@ -169,5 +167,4 @@ LESSA萊薩開始連載後就在網上獲得好評，不久NAVER也推出了官�
 9.
 10.
 11.
-
 12.

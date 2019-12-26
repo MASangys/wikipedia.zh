@@ -24,30 +24,17 @@ Level 3为[Netflix](../Page/Netflix.md "wikilink")和[苹果公司分发音乐�
 
 1.
 2.  [About Level 3](http://www.level3.com/index.cfm?pageID=6)  Level 3 Communications Official Site
-
 3.
-
 4.
-
 5.  [International Backhaul Map](http://www.level3.com/en/resource-library/maps/international-backhaul-map/) Level 3 Communications Official Site
-
 6.
 7.  [European Back haul Map](http://www.level3.com/downloads/European_Connectivity_Map.pdf)  Level 3 Communications Official Site
-
 8.  [Financial Services Case Study: Liquidity Express Route: An Information; Fast Track for Financial Services](http://www.level3.com/downloads/Liquidity-Express-Route-Case-Study.pdf)  Level 3 Communications Official Site
-
-9.  [Level 3 acquires Viatel transatlantic assets](http://www.lightwaveonline.com/business/news/level-3-acquires-viatel-transatlantic-network-assets-53473812.html)
-
+9.
 10. [Level 3 Communications Selects Apollo](http://www.apollo-scs.com/transatlantic-capacity-news/2008/02/17/level-3-communications-selects-apollo/0/1/)  apollo-scs.com, 17th February 2008
-
 11. [WHOIS](https://zh.wikipedia.org/wiki/WHOIS "wikilink"): [AS1](http://whois.arin.net/rest/asn/AS1)
-
 12. [Visualizing Internet Topology at a Macroscopic Scale](http://www.caida.org/research/topology/as_core_network/) January 2009, caida.org
-
 13. [AS ranking](http://as-rank.caida.org/) caida.org
-
 14. [Level 3 revenue falls despite Netflix deal](http://www.reuters.com/article/2011/02/02/oukin-uk-level-idUKTRE7113U920110202?type=companyNews) reuters.com, Wed Feb 2, 2011 9:12am EST
-
 15. [Level 3 acquires Savvis video](http://www.networkworld.com/news/2006/122606-level-3-acquires-savvis-video.html)  networkworld.com, December 26, 2006
-
 16. [Internet2 and Level 3 Communications to Deploy Next Generation Nationwide Research Network](https://lists.internet2.edu/sympa/arc/i2-news/2006-06/msg00000.html)

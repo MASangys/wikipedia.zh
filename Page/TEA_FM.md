@@ -28,4 +28,4 @@
 
 [Category:马来西亚电台](https://zh.wikipedia.org/wiki/Category:马来西亚电台 "wikilink") [Category:馬來西亞中文媒體](https://zh.wikipedia.org/wiki/Category:馬來西亞中文媒體 "wikilink") [Category:马来西亚中文广播电台](https://zh.wikipedia.org/wiki/Category:马来西亚中文广播电台 "wikilink")
 
-1.  [诗巫的朋友，Tea FM开始试播啦\!](http://teafm.com.my/%E8%AF%97%E5%B7%AB%E7%9A%84%E6%9C%8B%E5%8F%8B%EF%BC%8Ctea-fm%E5%BC%80%E5%A7%8B%E8%AF%95%E6%92%AD%E5%95%A6/)
+1.

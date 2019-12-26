@@ -6,28 +6,11 @@
 
 ### 原聲帶
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p>發佈日期</p></td>
-<td><p>歌曲名稱</p></td>
-<td><p>專輯名稱</p></td>
-<td><p>合作歌手</p></td>
-</tr>
-<tr class="even">
-<td><p>2016年9月29日</p></td>
-<td><p>The Way</p></td>
-<td><p>《<a href="../Page/購物王路易.md" title="wikilink">購物王路易</a>》電視原聲帶</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+|            |         |                                             |      |
+| ---------- | ------- | ------------------------------------------- | ---- |
+| 發佈日期       | 歌曲名稱    | 專輯名稱                                        | 合作歌手 |
+| 2016年9月29日 | The Way | 《[購物王路易](../Page/購物王路易.md "wikilink")》電視原聲帶 | 无    |
+|            |         |                                             |      |
 
 ## 影視作品
 
@@ -75,5 +58,5 @@
 
 1.  Umji為豎起大拇指（很棒）、GFRIEND吉祥物的意思，並無對應漢字，藝名多被譯作**嚴智**
 2.  在[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")500集特輯和[TWICE的交換舞台中](https://zh.wikipedia.org/wiki/TWICE "wikilink")，Umji演唱了[多賢](../Page/多賢.md "wikilink")饒舌的部分
-3.  Umji曾在2015年7月24日的[Super Junior Kiss The Radio中提及英文幼稚園岀身](https://zh.wikipedia.org/wiki/Super_Junior_Kiss_The_Radio "wikilink")，所以英文水平不錯
+3.  Umji曾在2015年7月24日的[Super Junior Kiss The Radio中提及英文幼稚園岀身](https://zh.wikipedia.org/wiki/Super_Junior_Kiss_The_Radio "wikilink")，所以英文水準不錯
 4.  [1](http://www.vlive.tv/video/45607?channelCode=F73FF)

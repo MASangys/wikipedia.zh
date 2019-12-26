@@ -82,14 +82,9 @@ iPhone 7/7 Plus背後廣角鏡頭均配备[光学防抖功能](https://zh.wikipe
 [Category:iPhone](https://zh.wikipedia.org/wiki/Category:iPhone "wikilink") [Category:触控手机](https://zh.wikipedia.org/wiki/Category:触控手机 "wikilink") [Category:iOS](https://zh.wikipedia.org/wiki/Category:iOS "wikilink") [Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink")
 
 1.
-
 2.
 3.  [iPhone 7 - 技術規格](https://support.apple.com/kb/SP743/).[Apple Inc](https://zh.wikipedia.org/wiki/Apple_Inc "wikilink"). 2017/3/21.
-
 4.  [iPhone 7 Plus - 技術規格](https://support.apple.com/kb/SP744/).[Apple Inc](https://zh.wikipedia.org/wiki/Apple_Inc "wikilink"). 2017/3/21.
-
 5.  [iPhone 7 - 技術規格](https://support.apple.com/kb/SP743/).[Apple Inc](https://zh.wikipedia.org/wiki/Apple_Inc "wikilink"). 2017/3/21.
-
 6.  [iPhone 7 Plus - 技術規格](https://support.apple.com/kb/SP744/).[Apple Inc](https://zh.wikipedia.org/wiki/Apple_Inc "wikilink"). 2017/3/21.
-
 7.  [【等了8年】i7台灣首波開賣　有這兩大原因](http://www.appledaily.com.tw/realtimenews/article/new/20160908/944543/).[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink").2016-09-08.

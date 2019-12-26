@@ -21,5 +21,4 @@
 [Category:四价钒化合物](https://zh.wikipedia.org/wiki/Category:四价钒化合物 "wikilink") [Category:铁氰酸盐](https://zh.wikipedia.org/wiki/Category:铁氰酸盐 "wikilink")
 
 1.  S.B. Etcheverry, E.J. Baran. The thermal decomposition of vanadyl(IV) hexacyanoferrate(II), (VO)<sub>2</sub>\[Fe(CN)<sub>6</sub>\]·10H<sub>2</sub>O Author links open the overlay panel. Numbers correspond to the affiliation list which can be exposed by using the show more link. Thermochimica Acta Volume 111, 15 February 1987, Pages 375-377
-
 2.

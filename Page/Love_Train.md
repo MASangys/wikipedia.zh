@@ -51,23 +51,14 @@
   -
 [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:GOT7音樂專輯](https://zh.wikipedia.org/wiki/Category:GOT7音樂專輯 "wikilink")
 
-1.  [GOT7《Love Train》預告](http://kpopn.com/2015/04/29/273120/) kpopn. 2015-04-29
-
+1.  [GOT7《Love Train》預告](http://kpopn.com/2015/04/29/273120/)  kpopn. 2015-04-29
 2.  [GOT7 日本での2ndシングル「LOVE TRAIN」6月10日発売決定！！](http://www.sonymusic.co.jp/artist/got7/info/453558) 日本索尼音樂官網. 2015-05-01
-
 3.  [LOVE TRAIN（全3形態）](http://www.sonymusicshop.jp/m/item/itemShw.php?cd=ESCL-4471) Sony Music Shop. 2015-05-01
-
 4.  [GOT7　2ndシングル『LOVE TRAIN』発売記念インタビュー（グループ篇①）](http://jisin.jp/serial/%E9%9F%93%E6%B5%81%E3%82%A2%E3%82%B8%E3%82%A2%E3%83%B3/K%E2%98%86STAR%20LOVERS/12361) 女性自身雜誌. \[2015-06-16\]
-
 5.  [GOT7が語る、理想の夏のデートプランは！？](http://www.oricon.co.jp/special/48023/) ORICON STYLE. \[2015-06-12\]
-
 6.  [GOT7日本首次FAN MEETING現場](http://m.star.naver.com/got7/news/end?id=5338670&langCode=cn) NAVER STARCAST. \[2015-06-13\]
-
 7.
 8.  小卡共有9款，除了7款個人成員外，尚有“字母A”和“字母B”兩款，抽到A、B小卡者可在日本參加擊掌會，目前活動已結束。
-
 9.  [GOT7 Announce Japan Concert Tour At Conclusion Of Tokyo-Osaka Fan Meeting Schedule](http://www.kpopstarz.com/articles/210404/20150614/got7-japan-tour.htm) kpopstarz. 2015-06-14
-
 10. [週間　CDシングルランキング 2015年06月22日付](http://www.oricon.co.jp/rank/js/w/2015-06-22/) Oricon. 2015-06-22
-
 11. [月間　CDシングルランキング 2015年06月度](http://www.oricon.co.jp/rank/js/m/2015-06/) Oricon. 2015-07-10

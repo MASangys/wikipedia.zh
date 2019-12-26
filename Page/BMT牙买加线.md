@@ -529,51 +529,35 @@
 [Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1885年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1885年啟用的鐵路線 "wikilink")
 
 1.  1967市紐約市公共運輸局路線圖的車站導覽的服務時間表在JJ線與QJ線視為南行早上隔站停靠列車。
-
 2.
-
 3.
-
 4.
 5.  Lee Dembart, [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [A Sentimental Journey on the BMT](https://select.nytimes.com/gst/abstract.html?res=FB0D16F8385A167493CBA91782D85F438785F9), September 9, 1977, page 61
-
 6.
 7.
 8.
 9.
-
 10.
 11.
-
 12.
 13.
 14.
 15.
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
 25.
-
 26.
 27.
 28.
 29.
 30.
 31. BMT Lines: Brooklyn Manhattan Transit: A History as Seen Through the Company's Maps, Guides and other Documents: 1923-1939," by James Poulous
-
 32.
-
 33.

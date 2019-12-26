@@ -64,19 +64,12 @@
 [Category:1993年电视剧分集](https://zh.wikipedia.org/wiki/Category:1993年电视剧分集 "wikilink") [Category:爱达荷州背景作品](https://zh.wikipedia.org/wiki/Category:爱达荷州背景作品 "wikilink") [Category:X档案第一季剧集](https://zh.wikipedia.org/wiki/Category:X档案第一季剧集 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.   Politics | work = [Vanity Fair](../Page/名利场_\(杂志\).md "wikilink") | url = <http://www.vanityfair.com/news/politics/2005/07/deepthroat200507?currentPage=all&printable=true> | publisher = Condé Nast | first = John D. | archivedate = 2016-03-15 | deadurl = no}}
-
 8.
 9.
 10.
@@ -89,53 +82,33 @@
 17.
 18.
 19.
-
 20.
 21.
-
 22.
 23.
 24.  Film {{\!}} Random Roles | work = The A.V. Club | publisher = The Onion | first = Tasha | last = Robinson | date = 2007-09-13 | archiveurl = <https://web.archive.org/web/20160304010202/http://www.avclub.com/article/seth-green-2034> | deadurl = no | accessdate = 2016-10-02 | archivedate = 2016-03-04}}
-
 25.
 26.
 27.
-
 28.
-
 29.
-
 30.
 31.
-
 32.
 33.
-
 34.
 35.
-
 36.
-
 37.  TV | work = [Entertainment Weekly](../Page/娱乐周刊.md "wikilink") | publisher = Time Inc. | archivedate = 2016-04-02 | deadurl = no}}
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.  The X-Files/Millennium {{\!}} TV Club {{\!}} TV | first1 = Keith | last1 = Phipps | work = The A.V. Club | publisher = The Onion | date = 2008-06-20 | accessdate = 2016-10-02 | url = <http://www.avclub.com/tvclub/the-x-filesmillennium-deep-throatsqueeze-13036> | archiveurl = <https://web.archive.org/web/20160303193315/http://www.avclub.com/tvclub/the-x-filesmillennium-deep-throatsqueeze-13036> | deadurl = no | archivedate = 2016-03-03}}
-
 43.
-
 44.
-
 45.
 46.
-
 47.
 48.
-
 49.  TV {{\!}} EW.com | work = Entertainment Weekly | publisher = [Time Inc](../Page/时代公司.md "wikilink") | archiveurl = <https://web.archive.org/web/20160411092245/http://www.ew.com/article/1999/02/19/100-greatest-moments-television-1990s> | first = Bruce | last = Fretts | date = 1999-02-19 | accessdate = 2016-10-02 | archivedate = 2016-04-11 | deadurl = no}}

@@ -245,7 +245,7 @@
 
 :; 「1,2,Sing for You\!」（第26話 - 第33話）
 
-:: 作詞：空谷泉身，作曲：秋浦智裕，編曲：南田健吾（onetrap），主唱：せな（虹野夢）、りえ（櫻庭蘿拉）、 みき（早乙女亞子）、かな（香澄真晝） from AIKATSU☆STARS！
+:: 作詞：空谷泉身，作曲：秋浦智裕，編曲：（onetrap），主唱：せな（虹野夢）、りえ（櫻庭蘿拉）、 みき（早乙女亞子）、かな（香澄真晝） from AIKATSU☆STARS！
 
 :: 主唱：せな（虹野夢）、りえ（櫻庭蘿拉） from AIKATSU☆STARS！（第29話插入曲）
 
@@ -434,7 +434,7 @@
 
 :; 「Message of a Rainbow」（第73、79話）
 
-:: 作詞：松原さらり，作曲：HALIFANIE，編曲：南田健吾（onetrap），主唱：せな（虹野夢） from AIKATSU☆STARS！（第73話）
+:: 作詞：松原さらり，作曲：，編曲：南田健吾（onetrap），主唱：せな（虹野夢） from AIKATSU☆STARS！（第73話）
 
 :: 主唱：せな（虹野夢）、ななせ（七倉小春） from AIKATSU☆STARS！（第79話）
 
@@ -485,7 +485,7 @@
 <th><p>話數</p></th>
 <th><p>日文標題</p></th>
 <th><p>中文標題</p></th>
-<th><p>劇本</p></th>
+<th><p>編劇</p></th>
 <th><p>分鏡</p></th>
 <th><p>演出</p></th>
 <th><p>作畫監督</p></th>
@@ -1754,7 +1754,7 @@
 <tr class="even">
 <td><p><a href="../Page/萬代頻道.md" title="wikilink">萬代頻道</a></p></td>
 <td><p>星期一 18:00 更新</p></td>
-<td><p>網絡電視</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路電視" title="wikilink">網路電視</a></p></td>
 <td><p>最新話一星期內免費配信</p></td>
 <td></td>
 <td></td>
@@ -1882,97 +1882,20 @@
 
 #### CD
 
-<table>
-<thead>
-<tr class="header">
-<th><p>標題</p></th>
-<th><p>發售日</p></th>
-<th><p>規格產品編號</p></th>
-<th><p>收錄曲</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>スタートライン！／episode Solo</p></td>
-<td><p>2016年5月25日</p></td>
-<td><p>LACM-14490</p></td>
-<td><p>スタートライン！・episode Solo・アイカツ☆ステップ！</p></td>
-</tr>
-<tr class="even">
-<td><p>ハルコレ</p></td>
-<td><p>2016年6月22日</p></td>
-<td><p>LACM-14495</p></td>
-<td><p>Miracle Force Magic・未来トランジット・ハートがスキ♡ップ・みつばちのキス</p></td>
-</tr>
-<tr class="odd">
-<td><p>ナツコレ</p></td>
-<td><p>2016年7月27日</p></td>
-<td><p>LACM-14496</p></td>
-<td><p>8月のマリーナ・Summer Tears Diary・トキメキララン☆</p></td>
-</tr>
-<tr class="even">
-<td><p>ボーカルシングル</p></td>
-<td><p>2016年8月17日</p></td>
-<td><p>LACM-14520</p></td>
-<td><p>POPCORN DREAMING♪・アイカツ☆ステップ！ 〜ゆめ・ローラ・あこ・真昼 Ver.〜</p></td>
-</tr>
-<tr class="odd">
-<td><p>1,2,Sing for You!／So Beautiful Story／スタージェット！</p></td>
-<td><p>2016年11月2日</p></td>
-<td><p>LACM-14549</p></td>
-<td><p>1,2,Sing for You!・So Beautiful Story・スタージェット！</p></td>
-</tr>
-<tr class="even">
-<td><p>アキコレ</p></td>
-<td><p>2016年11月23日</p></td>
-<td><p>LACM-14497</p></td>
-<td><p>Dreaming bird・One Step・ドリームステージ☆・Halloween Night Magic</p></td>
-</tr>
-<tr class="odd">
-<td><p>フユコレ</p></td>
-<td><p>2017年2月22日</p></td>
-<td><p>LACA-15634</p></td>
-<td><p>キミをロックオン・Dancing Days・アニマルカーニバル・TSU-BO-MI 〜鮮やかな未来へ〜・ラン・ラン・ドゥ・ラン・ラン！ 〜NEXT LAP〜</p></td>
-</tr>
-<tr class="even">
-<td><p>STARDOM!／Bon Bon Voyage!</p></td>
-<td><p>2017年4月26日</p></td>
-<td><p>LACM-14604</p></td>
-<td><p>STARDOM!・Bon Bon Voyage!</p></td>
-</tr>
-<tr class="odd">
-<td><p>Fantastic Ocean</p></td>
-<td><p>2017年7月5日</p></td>
-<td><p>LACA-15652</p></td>
-<td><p>Miracle Force Magic 〜ローラ Ver.〜・ハッピー☆パンチ・おねがいメリー・MAKEOVER♡MAKEUP・荒野の奇跡・Forever Dream</p></td>
-</tr>
-<tr class="even">
-<td><p>僕らの奇跡／アリスブルーのキス 〜Another Color〜</p></td>
-<td><p>2017年8月9日</p></td>
-<td><p>LACM-14648</p></td>
-<td><p>僕らの奇跡・アリスブルーのキス 〜Another Color〜・僕らの奇跡 ～すばるソロ Ver.～・僕らの奇跡 ～望ソロ Ver.～・僕らの奇跡 ～朝陽ソロ Ver.～・僕らの奇跡 ～かなたソロ Ver.～</p></td>
-</tr>
-<tr class="odd">
-<td><p>アイカツ! フォトonステージ</p></td>
-<td><p><br />
-スプリットシングル「AIKATSU SCRAPBOOK 02」</p></td>
-<td><p>2017年8月23日</p></td>
-<td><p>LACM-14612</p></td>
-</tr>
-<tr class="even">
-<td><p>MUSIC of DREAM</p></td>
-<td><p>!／森のひかりのピルエット</p></td>
-<td><p>2017年11月1日</p></td>
-<td><p>LACM-14669</p></td>
-</tr>
-<tr class="odd">
-<td><p>Endless Sky</p></td>
-<td><p>2017年12月27日</p></td>
-<td><p>LACM-14701</p></td>
-<td><p>The only sun light・裸足のルネサンス・ネバギバ☆・Bon Bon Voyage! 〜エルザ＆きらら＆レイ＆アリア ver.〜</p></td>
-</tr>
-</tbody>
-</table>
+| 標題                                                 | 發售日            | 規格產品編號     |
+| -------------------------------------------------- | -------------- | ---------- |
+| スタートライン！ / episode Solo                            | 2016年5月25日     | LACM-14490 |
+| ハルコレ                                               | 2016年6月22日     | LACM-14495 |
+| ナツコレ                                               | 2016年7月27日     | LACM-14496 |
+| ボーカルシングル                                           | 2016年8月17日     | LACM-14520 |
+| 1,2,Sing for You\! / So Beautiful Story / スタージェット！ | 2016年11月2日     | LACM-14549 |
+| アキコレ                                               | 2016年11月23日    | LACM-14497 |
+| フユコレ                                               | 2017年2月22日     | LACA-15634 |
+| STARDOM\! / Bon Bon Voyage\!                       | 2017年4月26日     | LACM-14604 |
+| Fantastic Ocean                                    | 2017年7月5日      | LACA-15652 |
+| 僕らの奇跡 / アリスブルーのキス 〜Another Color〜                  | 2017年8月9日      | LACM-14648 |
+| MUSIC of DREAM                                     | \!／森のひかりのピルエット | 2017年11月1日 |
+| Endless Sky                                        | 2017年12月27日    | LACM-14701 |
 
 ## 劇場版
 
@@ -2017,9 +1940,9 @@
 <!-- end list -->
 
   - 相關動畫直播網站
-      - [《偶像活動Stars！一期》Bandai萬代頻道免費播放專題](http://www.b-ch.com/ttl/index.php?ttl_c=5154)
+      - [《偶像活動Stars！一期》Bandai萬代頻道免費播放專題](https://www.b-ch.com/titles/5154/?ttl_c=5154)
 
-      - [《偶像活動Stars！二期》Bandai萬代頻道免費播放專題](http://www.b-ch.com/ttl/index.php?ttl_c=5581)
+      - [《偶像活動Stars！二期》Bandai萬代頻道免費播放專題](https://www.b-ch.com/titles/5581/?ttl_c=5581)
 
 [Category:Aikatsu！偶像活動！](https://zh.wikipedia.org/wiki/Category:Aikatsu！偶像活動！ "wikilink") [Category:2016年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2016年東京電視網動畫 "wikilink") [Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink") [Category:萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/Category:萬代南夢宮遊戲 "wikilink") [Category:藝術學校背景作品](https://zh.wikipedia.org/wiki/Category:藝術學校背景作品 "wikilink") [Category:街機卡片遊戲](https://zh.wikipedia.org/wiki/Category:街機卡片遊戲 "wikilink") [Category:中學背景作品](https://zh.wikipedia.org/wiki/Category:中學背景作品 "wikilink")
 

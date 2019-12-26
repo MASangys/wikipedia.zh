@@ -1851,15 +1851,10 @@ DVD</a><br />
 [Category:BIGBANG](https://zh.wikipedia.org/wiki/Category:BIGBANG "wikilink") [Category:韓國錄像作品列表](https://zh.wikipedia.org/wiki/Category:韓國錄像作品列表 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
@@ -1869,5 +1864,4 @@ DVD</a><br />
 12.
 13.
 14.
-
 15.

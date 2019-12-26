@@ -12,7 +12,7 @@ TRIM21爲RoSSA核糖核蛋白的一個組成成分。RoSSA還含有一條單多�
 
 ## 臨床意義
 
-RoSSA會與[乾燥綜合徵和](https://zh.wikipedia.org/wiki/乾燥綜合徵 "wikilink")[系統性紅斑狼瘡患者體內的自身抗原反應](https://zh.wikipedia.org/wiki/系統性紅斑狼瘡 "wikilink")\[7\]。亦有研究者以TRIM21爲基礎研發新藥\[8\]。
+RoSSA會與[乾燥綜合徵和](https://zh.wikipedia.org/wiki/乾燥綜合徵 "wikilink")[全身性紅斑狼瘡](../Page/全身性紅斑狼瘡.md "wikilink")患者體內的自身抗原反應\[7\]。亦有研究者以TRIM21爲基礎研發新藥\[8\]。
 
 ## 參考
 
@@ -42,13 +42,10 @@ RoSSA會與[乾燥綜合徵和](https://zh.wikipedia.org/wiki/乾燥綜合徵 "w
 <!-- end list -->
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
 7.
 8.

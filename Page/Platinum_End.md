@@ -91,7 +91,6 @@
 <th><p><a href="../Page/集英社.md" title="wikilink">集英社</a></p></th>
 <th><p><a href="../Page/文化傳信.md" title="wikilink">文化傳信</a></p></th>
 <th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
-<th><p>封面人物</p></th>
 </tr>
 </thead>
 <tbody>
@@ -100,87 +99,74 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
-<td><p>發售日期</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2016年2月4日[3]</p></td>
 <td><p>ISBN 978-4-08-880637-2</p></td>
 <td><p>2016年7月27日</p></td>
-<td><p>ISBN 978-962-8896-81-4</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2016年5月7日[4]</p></td>
 <td><p>ISBN 978-4-08-880709-6</p></td>
 <td><p>2016年8月11日</p></td>
-<td><p>ISBN 978-962-8896-97-0</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2016年8月4日[5]</p></td>
 <td><p>ISBN 978-4-08-880760-7</p></td>
 <td><p>2016年9月15日</p></td>
-<td><p>ISBN 978-962-8925-23-7</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>2016年11月4日[6]</p></td>
 <td><p>ISBN 978-4-08-880814-7</p></td>
 <td><p>2016年12月7日</p></td>
-<td><p>ISBN 978-988-8319-49-7</p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
 <td><p>2017年2月3日[7]</p></td>
 <td><p>ISBN 978-4-08-881009-6</p></td>
 <td><p>2017年3月28日</p></td>
-<td><p>ISBN 978-988-8318-49-0</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>2017年6月2日[8]</p></td>
 <td><p>ISBN 978-4-08-881080-5</p></td>
 <td><p>2017年8月22日</p></td>
-<td><p>ISBN 978-988-8318-18-6</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
 <td><p>2017年11月2日[9]</p></td>
 <td><p>ISBN 978-4-08-881161-1</p></td>
 <td><p>2017年12月23日</p></td>
-<td><p>ISBN 978-988-8320-11-0</p></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
 <td><p>2018年4月4日[10]</p></td>
 <td><p>ISBN 978-4-08-881370-7</p></td>
 <td><p>2018年6月2日</p></td>
-<td><p>ISBN 978-988-8510-09-2</p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
 <td><p>2018年9月4日[11]</p></td>
 <td><p>ISBN 978-4-08-881426-1</p></td>
 <td><p>2018年11月9日</p></td>
-<td><p>ISBN 978-988-8510-38-2</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>2019年2月4日[12]</p></td>
 <td><p>ISBN 978-4-08-881729-3</p></td>
 <td><p>2019年5月3日</p></td>
-<td><p>ISBN 978-988-8510-78-8</p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
 <td><p>2019年7月4日[13]</p></td>
 <td><p>ISBN 978-4-08-881887-0</p></td>
 <td><p>2019年9月20日</p></td>
-<td><p>ISBN 978-988-8511-04-4</p></td>
 </tr>
 <tr class="odd">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -200,26 +186,15 @@
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink") [Category:小畑健](https://zh.wikipedia.org/wiki/Category:小畑健 "wikilink") [Category:Jump_Square](https://zh.wikipedia.org/wiki/Category:Jump_Square "wikilink") [Category:死亡遊戲題材作品](https://zh.wikipedia.org/wiki/Category:死亡遊戲題材作品 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.

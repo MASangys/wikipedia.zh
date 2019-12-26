@@ -143,9 +143,9 @@
 
 ### 其他人物
 
-  - :飾 裴秀敏 - 裴大勳的妹妹，小食店的老闆，裴大勳經常聚集組員在此開會或搜集情報。
+  - ：裴秀敏 - 裴大勳的妹妹，小食店的老闆，裴大勳經常聚集組員在此開會或搜集情報。
 
-  - [劉炯官](https://zh.wikipedia.org/wiki/劉炯官 "wikilink"):首爾地方警察廳長
+  - ：首爾地方警察廳長
 
   - [孔多任](https://zh.wikipedia.org/wiki/孔多任 "wikilink")
 
@@ -153,7 +153,7 @@
 
   - [韓哲宇](https://zh.wikipedia.org/wiki/韓哲宇 "wikilink")
 
-  - [朴英樹](https://zh.wikipedia.org/wiki/朴英樹 "wikilink"):房仲業者
+  - [朴英樹](https://zh.wikipedia.org/wiki/朴英樹 "wikilink")：房仲業者
 
   - [李在宇](https://zh.wikipedia.org/wiki/李在宇 "wikilink")
 
@@ -183,7 +183,7 @@
 
   - [崔允俊](https://zh.wikipedia.org/wiki/崔允俊 "wikilink")
 
-  - [申承煥](../Page/申承煥.md "wikilink"):裴達煥（客串演出）
+  - [申承煥](../Page/申承煥.md "wikilink")：裴達煥（客串演出）
 
   - [尹炳熙](https://zh.wikipedia.org/wiki/尹炳熙 "wikilink")
 
@@ -212,22 +212,37 @@
 <!-- end list -->
 
   - [尹容賢](../Page/尹容賢.md "wikilink")
+
   - [金智恩](https://zh.wikipedia.org/wiki/金智恩 "wikilink")
+
   - [金蘭諱](https://zh.wikipedia.org/wiki/金蘭諱 "wikilink")
+
   - [朴成根](https://zh.wikipedia.org/wiki/朴成根 "wikilink")
+
   - [政旭](../Page/政旭.md "wikilink")
+
   - [閔成旭](https://zh.wikipedia.org/wiki/閔成旭 "wikilink")
+
   - [李振權](https://zh.wikipedia.org/wiki/李振權 "wikilink")
+
   - [閔鎮雄](../Page/閔鎮雄.md "wikilink")
+
   - [鄭承吉](https://zh.wikipedia.org/wiki/鄭承吉 "wikilink")
+
   - [朴泰星](https://zh.wikipedia.org/wiki/朴泰星 "wikilink")
-  - [崔宏一](https://zh.wikipedia.org/wiki/崔宏一 "wikilink")
+
+  -
   - [文秀鐘](https://zh.wikipedia.org/wiki/文秀鐘 "wikilink")
+
   - [朴振英](https://zh.wikipedia.org/wiki/朴振英_\(演員\) "wikilink")
+
   - [金旼序](../Page/金旼序.md "wikilink")
+
   - [金學善](https://zh.wikipedia.org/wiki/金學善 "wikilink")
-  - [許正道](https://zh.wikipedia.org/wiki/許正道 "wikilink"):趙載德（客串演出）
-  - [金鐘洙](https://zh.wikipedia.org/wiki/金鐘洙 "wikilink"):（特別演出）
+
+  - [許正道](https://zh.wikipedia.org/wiki/許正道 "wikilink")：趙載德（客串演出）
+
+  - （客串演出）
 
 ## 原聲帶
 

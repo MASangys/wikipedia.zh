@@ -40,13 +40,13 @@
   - [GirlsAward](http://girls-award.com/)
   - [株式会社ガールズアワード](http://girls-award.co.jp/)
 
-[Category:東京都文化](https://zh.wikipedia.org/wiki/Category:東京都文化 "wikilink") [Category:日本時尚](https://zh.wikipedia.org/wiki/Category:日本時尚 "wikilink") [Category:代代木](https://zh.wikipedia.org/wiki/Category:代代木 "wikilink") [Category:日本展览](https://zh.wikipedia.org/wiki/Category:日本展览 "wikilink") [Category:富士电视台](https://zh.wikipedia.org/wiki/Category:富士电视台 "wikilink")
+[Category:東京都文化](https://zh.wikipedia.org/wiki/Category:東京都文化 "wikilink") [Category:日本時尚](https://zh.wikipedia.org/wiki/Category:日本時尚 "wikilink") [Category:代代木](https://zh.wikipedia.org/wiki/Category:代代木 "wikilink") [Category:日本展览](https://zh.wikipedia.org/wiki/Category:日本展览 "wikilink") [Category:富士电视台](https://zh.wikipedia.org/wiki/Category:富士电视台 "wikilink") [Category:日本年度事件](https://zh.wikipedia.org/wiki/Category:日本年度事件 "wikilink")
 
 1.  『[グラビアアイドルも多数出演！豪華ファッションショー＆ライブイベント\!](http://itopix.jp/2009_09/girls_award/index.html)』 2009年 @misty
 2.  『[『Girls Award 2010』 5月22日 代々木体育館で開催決定』](http://www.music-snap.com/news_pXhyrLxP1.html) 』 2010年4月6日 SNAP\!
 3.  『[企業情報](http://girls-award.co.jp/company.html) 』 - Girls Award
 4.  『[スペシャルゲストにYOSHIKI、「ガールズアワード2011」3万人が来場](http://www.fashionsnap.com/news/2011-11-12/girls-award-2011-end/)』 2011年11月12日 Fashionsnap.com
-5.  『[ガールズアワード2012秋冬に3万人熱狂ーローラさんら総勢100人がランウェイ闊歩](http://www.apalog.com/report/archive/1019)』 2012年11月9日 アパレルウェブ
+5.  『[ガールズアワード2012秋冬に3万人熱狂ーローラさんら総勢100人がランウェイ闊歩](http://www.apalog.com/report/archive/1019) 』 2012年11月9日 アパレルウェブ
 6.  『[AKB48から美川憲一まで「ガールズアワード」史上最多3万2500人が熱狂](http://www.fashionsnap.com/news/2012-11-08/akb48-girlsaward-12aw/)』 2012年11月8日 Fashionsnap.com
 7.  『[【総合】ガールズアワード　楽天が出資](http://www.senken.co.jp/news/%E3%80%90%E7%B7%8F%E5%90%88%E3%80%91%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%89%E3%80%80%E6%A5%BD%E5%A4%A9%E3%81%8C%E5%87%BA%E8%B3%87/) 』 2014年2月17日 繊研新聞
 8.  『[【総合】楽天、ガールズアワードの公式ECに](http://www.senken.co.jp/news/%E3%80%90%E7%B7%8F%E5%90%88%E3%80%91%E6%A5%BD%E5%A4%A9%E3%80%81%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%89%E3%81%AE%E5%85%AC%E5%BC%8Fec%E3%81%AB/) 』 2013年8月23日 繊研新聞
@@ -58,7 +58,7 @@
 14. 『[日韓合同イベント「Kiss supported by Girls Award」3日間開催！KARA・少女時代など3万人が熱狂！！](http://www.mapion.co.jp/news/release/dn0000045410-all/) 』 2012年1月30日 マピオン
 15. 『[藤井リナ、トリンドル玲奈ら豪華出演モデル発表「GirlsAward 2012 S／S」開催決定](http://mdpr.jp/fashion/detail/1173592)』 2012年3月16日 モデルプレス
 16. 『[TOKYO FASHION NEWS ♯97](http://fashiontv.co.jp/news/detail/1537.html) 』 2012年9月1日 Fashion TV
-17. 『[「ガールズアワード」海外展開へ布石　11月は3日間のスペシャルウィーク](http://www.apalog.com/report/archive/749)』 2012年9月7日 アパレルウェブ
+17. 『[「ガールズアワード」海外展開へ布石　11月は3日間のスペシャルウィーク](http://www.apalog.com/report/archive/749) 』 2012年9月7日 アパレルウェブ
 18. 『[ガールズアワードにAKB48出演 カフェ&バー出店も](http://www.fashionsnap.com/news/2012-10-27/akb48-girlsaward-12aw/)』 2012年10月27日 Fashionsnap.com
 19. 『[GirlsAward 2012 Autumn/Winterが開催](http://www.wws-channel.com/news/girls-award2012_aw/index.html) 』 2012年11月10日 WWSチャンネル
 20. 『[第7回「ガールズアワード」藤井リナで開幕](http://www.fashionsnap.com/news/2013-03-23/girls-award-2013ss/)』 2013年3月23日 Fashionsnap.com

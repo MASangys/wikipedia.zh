@@ -120,59 +120,33 @@ KTX-山川於2010年3月2日開始商業營運\[5\]。與起初的計劃不同�
 [Category:韓國高速鐵道](https://zh.wikipedia.org/wiki/Category:韓國高速鐵道 "wikilink") [Category:高速鐵路車輛](https://zh.wikipedia.org/wiki/Category:高速鐵路車輛 "wikilink") [Category:韓國鐵路車輛](https://zh.wikipedia.org/wiki/Category:韓國鐵路車輛 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.
-
 17.
-
 18.
-
 19.
-
 20.
 21.
 22.
-
 23.
-
 24.
-
-25. [1](http://news.korail.com/main/php/search_view.php?idx=29120)
-
+25.
 26.
-
 27.
-
 28.
-
 29. [현대로템, 원주\~강릉 고속철 4940억 수주](http://www.hankyung.com/news/app/newsview.php?aid=2014030561521)
-
 30. [수서고속철도 열차명 공모서 '달리안' 최우수상 수상](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=421&aid=0000729671)
-
 31. [현대로템, 3242억원 규모의 수서발 KTX 100량 수주](http://www.asiae.co.kr/news/view.htm?idxno=2014031909493935132)

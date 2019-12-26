@@ -69,7 +69,5 @@
 [Category:TWICE](https://zh.wikipedia.org/wiki/Category:TWICE "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.  [Mnet 측 "트와이스 단독 리얼리티, 3월 1일 첫방송 확정"(공식)](http://entertain.naver.com/read?oid=076&aid=0002893647)
-
 2.  [TWICE初のリアリティ番組「TWICEの優雅な私生活」の日韓同時配信がMnet Smartでスタート](https://www.instagram.com/p/BCrwe5FQNri/?taken-by=mnetsmart)
-
 3.

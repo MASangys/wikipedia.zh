@@ -106,6 +106,6 @@
 
 [Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:鋼琴與鋼琴家題材電視劇](https://zh.wikipedia.org/wiki/Category:鋼琴與鋼琴家題材電視劇 "wikilink")
 
-1.  [金所炫、Jisoo確定出演KBS特別劇](http://kpopn.com/2015/11/18/317395/) Kpopn
+1.  [金所炫、Jisoo確定出演KBS特別劇](http://kpopn.com/2015/11/18/317395/)  Kpopn
 2.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 3.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)

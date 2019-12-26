@@ -1,4 +1,4 @@
-[Savannah_Place_2018.jpg](https://zh.wikipedia.org/wiki/File:Savannah_Place_2018.jpg "fig:Savannah_Place_2018.jpg") **Savannah**，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[將軍澳南](../Page/將軍澳南.md "wikilink")[至善街](https://zh.wikipedia.org/wiki/至善街 "wikilink")3號 ，是[會德豐](../Page/會德豐.md "wikilink")集團旗下的私人住宅屋苑。由梁黃顧建築師（香港）事務所設計，[協興建築](../Page/協興建築.md "wikilink")承建。物業分為4座樓高11至23層的大廈，共提供804伙單位，包括799個分層戶及5間洋房。屋苑於2016年5月開售，於2018年4月落成入伙。管理公司為夏利文物業管理有限公司，管理費每呎4.4元。展覽廳及示範單位設於[尖沙咀](../Page/尖沙咀.md "wikilink")[港威大廈](../Page/港威大廈.md "wikilink")，首批單位的價單，定價由421萬至1187.9萬元。\[1\]
+[Savannah_Place_2018.jpg](https://zh.wikipedia.org/wiki/File:Savannah_Place_2018.jpg "fig:Savannah_Place_2018.jpg") [Savannah_Car_entrance_201911.jpg](https://zh.wikipedia.org/wiki/File:Savannah_Car_entrance_201911.jpg "fig:Savannah_Car_entrance_201911.jpg") **Savannah**，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[將軍澳南](../Page/將軍澳南.md "wikilink")[至善街](https://zh.wikipedia.org/wiki/至善街 "wikilink")3號 ，是[會德豐](../Page/會德豐.md "wikilink")集團旗下的私人住宅屋苑。由梁黃顧建築師（香港）事務所設計，[協興建築](../Page/協興建築.md "wikilink")承建。物業分為4座樓高11至23層的大廈，共提供804伙單位，包括799個分層戶及5間洋房。屋苑於2016年5月開售，於2018年4月落成入伙。管理公司為夏利文物業管理有限公司，管理費每呎4.4元。展覽廳及示範單位設於[尖沙咀](../Page/尖沙咀.md "wikilink")[港威大廈](../Page/港威大廈.md "wikilink")，首批單位的價單，定價由421萬至1187.9萬元。\[1\]
 
 ## 單位
 
@@ -20,15 +20,11 @@
 
 ## 商場
 
-項目地下至1樓設商場，名為Savannah Place，但一直空置。2018年10月，[豐泰地產](../Page/豐泰地產.md "wikilink")向會德豐購入商場。到2019年3月，耀中國際學校預租地下及1樓複式舖位，共2萬方呎樓面，月租約70萬元。\[3\]
+[Savannah_Place_GF_201911.jpg](https://zh.wikipedia.org/wiki/File:Savannah_Place_GF_201911.jpg "fig:Savannah_Place_GF_201911.jpg") [Savannah_Place_Level_1_201911.jpg](https://zh.wikipedia.org/wiki/File:Savannah_Place_Level_1_201911.jpg "fig:Savannah_Place_Level_1_201911.jpg") 項目地下至1樓設商場，名為Savannah Place，但空置多時。2018年10月，[豐泰地產](../Page/豐泰地產.md "wikilink")向會德豐購入商場。到2019年3月，耀中國際學校預租地下及1樓複式舖位，共2萬方呎樓面，月租約70萬元。\[3\]而1樓目前有少量兒童學習中心開業，大部分舖位仍空置中。
 
-現有商戶：
+### 現有商戶
 
-樂誠藥房
-
-皇牌冰室
-
-公文式教育中心
+樂誠藥房、自助洗衣店、皇牌冰室、[公文式教育中心](https://zh.wikipedia.org/wiki/公文式 "wikilink")
 
 ## 宣傳
 

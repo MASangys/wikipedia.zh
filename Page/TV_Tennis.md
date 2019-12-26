@@ -6,7 +6,7 @@
 
 ## 參考文獻
 
-[Category:第一世代遊戲機](https://zh.wikipedia.org/wiki/Category:第一世代遊戲機 "wikilink") [Category:家用游戏机](https://zh.wikipedia.org/wiki/Category:家用游戏机 "wikilink")
+[Category:第一世代遊戲機](https://zh.wikipedia.org/wiki/Category:第一世代遊戲機 "wikilink") [Category:家用游戏机](https://zh.wikipedia.org/wiki/Category:家用游戏机 "wikilink") [Category:1975年面世的產品](https://zh.wikipedia.org/wiki/Category:1975年面世的產品 "wikilink") [Category:Epoch電子遊戲機](https://zh.wikipedia.org/wiki/Category:Epoch電子遊戲機 "wikilink")
 
 1.
 2.

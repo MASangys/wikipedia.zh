@@ -31,7 +31,8 @@
 <tr class="odd">
 <td><p><a href="../Page/J2.md" title="wikilink">J2</a></p></td>
 <td><p>2017年12月4日</p></td>
-<td><p>星期一至五 22:05-23:05（如當日為賽馬日將會暫停播放）</p></td>
+<td><p>星期一至五 22:05-23:05<br />
+（如當日為賽馬日將會暫停播放）</p></td>
 <td><p>TVB粵語剪輯版</p></td>
 <td></td>
 </tr>

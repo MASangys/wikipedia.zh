@@ -21,42 +21,23 @@ GOG.com发行的游戏都是用Inno Setup打包成的，且对安装包进行了
 [Category:電子遊戲線上零售商](https://zh.wikipedia.org/wiki/Category:電子遊戲線上零售商 "wikilink") [Category:2008年建立的网站](https://zh.wikipedia.org/wiki/Category:2008年建立的网站 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  [Website Help Gift certificates](http://www.gog.com/support/website_help/gift_certificates) on GOG.com
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14. [Academia.edu](http://www.academia.edu/6129809/GOG.com_End-User_License_Agreement)
-
 15.
-
 16.  ([mirror](http://www.gamasutra.com/view/news/173538/) on [gamasutra.com](https://zh.wikipedia.org/wiki/gamasutra.com "wikilink"))
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.

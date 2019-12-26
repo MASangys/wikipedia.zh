@@ -27,10 +27,7 @@ Kestrel在燃烧室与喉管处采用烧蚀冷却，在喷管处采用[辐射冷
 [Category:SpaceX](https://zh.wikipedia.org/wiki/Category:SpaceX "wikilink") [Category:火箭发动机](https://zh.wikipedia.org/wiki/Category:火箭发动机 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.

@@ -22,15 +22,10 @@
 [Category:1995年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1995年開業電子遊戲公司 "wikilink") [Category:2003年結業公司](https://zh.wikipedia.org/wiki/Category:2003年結業公司 "wikilink") [Category:Take-Two_Interactive的部门与子公司](https://zh.wikipedia.org/wiki/Category:Take-Two_Interactive的部门与子公司 "wikilink") [Category:美国電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美国電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:美國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國已結業電子遊戲公司 "wikilink") [Category:加利福尼亞州公司](https://zh.wikipedia.org/wiki/Category:加利福尼亞州公司 "wikilink")
 
 1.  <http://www.homeoftheunderdogs.net/company.php?name=Frog+City>
-
 2.  <http://www.gamasutra.com/view/feature/3013/postmortem_frog_citys_trade_.php?page=1>
-
 3.  <http://www.sidecarstudios.com/history.html>
-
 4.  <http://www.firingsquad.com/news/newsarticle.asp?searchid=10578>
-
 5.  <http://sidecarstudios.com/personnel.html>
-
 6.
 7.
 8.

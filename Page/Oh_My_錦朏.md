@@ -30,14 +30,14 @@
 <small>（青年：<a href="../Page/金旻奎.md" title="wikilink">金旻奎</a>）</p></td>
 <td><p>毛輝哲</p></td>
 <td><p>他是一個騙子父親，並不是一個稱職的爸爸。在他的爸爸死後，他開始過著自己想過的霉爛日子。在他深陷在債務的纏繞下，他遇到了小女孩金雨。金雨從此改變了他的人生。</p></td>
-<td><p><a href="../Page/何偉誠.md" title="wikilink">何偉誠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊智聰" title="wikilink">楊智聰</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/朴真熙.md" title="wikilink">朴真熙</a><br />
 <small>（少年：）</small></p></td>
 <td><p>高江熙</p></td>
 <td><p>她是在盆栽上的能手。她在失去自己的家人後，寧願花更多時間在栽種自己的盆栽上也不願結識男朋友。她才賣清在韓國的財產後，遇見了金雨及輝哲。她從此對金雨付出無窮的愛意，同時亦想關顧輝哲的生活。</p></td>
-<td></td>
+<td><p><a href="../Page/莎拉.md" title="wikilink">莎拉</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/吳允兒.md" title="wikilink">吳允兒</a></p></td>
@@ -50,13 +50,13 @@
 
 ### 輝哲周邊人物
 
-|                                                     |        |                                         |
-| --------------------------------------------------- | ------ | --------------------------------------- |
-| **演員**                                              | **角色** | **介紹**                                  |
-| [徐鉉哲](../Page/徐鉉哲.md "wikilink")                    | 孔吉浩    | 教唆輝哲變成騙子的人，由於生於不利的家庭環境，他在青年時期以欺詐行為謀求生活。 |
-| [李仁惠](https://zh.wikipedia.org/wiki/李仁惠 "wikilink") | 許在景    | 女騙子，為人粗魯，有男子氣概。                         |
-| [李志勳](https://zh.wikipedia.org/wiki/李志勳 "wikilink") | 車致秀    | 無良的債券承銷商，沒有良心地獲得客戶的保單。                  |
-|                                                     |        |                                         |
+|                                                     |        |                                         |                                  |
+| --------------------------------------------------- | ------ | --------------------------------------- | -------------------------------- |
+| **演員**                                              | **角色** | **介紹**                                  | **香港配音**                         |
+| [徐鉉哲](../Page/徐鉉哲.md "wikilink")                    | 孔吉浩    | 教唆輝哲變成騙子的人，由於生於不利的家庭環境，他在青年時期以欺詐行為謀求生活。 | [楊啟健](../Page/楊啟健.md "wikilink") |
+| [李仁惠](https://zh.wikipedia.org/wiki/李仁惠 "wikilink") | 許在景    | 女騙子，為人粗魯，有男子氣概。                         |                                  |
+| [李志勳](https://zh.wikipedia.org/wiki/李志勳 "wikilink") | 車致秀    | 無良的債券承銷商，沒有良心地獲得客戶的保單。                  |                                  |
+|                                                     |        |                                         |                                  |
 
 ### 锦朏學校周邊人物
 
@@ -64,35 +64,42 @@
 <colgroup>
 <col style="width: 9%" />
 <col style="width: 9%" />
-<col style="width: 42%" />
+<col style="width: 32%" />
+<col style="width: 9%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>黃載夏</p></td>
 <td><p>金雨最好的朋友，總是離不開她，照顧著她。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>洪實羅</p></td>
 <td><p>生活富裕，住在舒服的的公寓，為人吝嗇，非常妒忌金雨的人際關係。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>姜敏雅</p></td>
 <td><p>金雨的班主任，對孩子們很好。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/金基娟" title="wikilink">金基娟</a></p></td>
 <td><p>具美丹</p></td>
 <td><p>實羅的母親，一個典型的中產母親。</p></td>
+<td></td>
 </tr>
 <tr class="even">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -106,30 +113,36 @@
 <colgroup>
 <col style="width: 9%" />
 <col style="width: 9%" />
-<col style="width: 42%" />
+<col style="width: 32%" />
+<col style="width: 9%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/姜聲振.md" title="wikilink">姜聲振</a></p></td>
 <td><p>高俊弼</p></td>
 <td><p>江熙的哥哥。建築公司的員工，橋樑建築專家。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>崔在俊</p></td>
 <td><p>來自加拿大，擁有私人醫院及大屋的富有人家。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>金熙玲</p></td>
 <td><p>江熙的同事。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -143,79 +156,98 @@
 <colgroup>
 <col style="width: 9%" />
 <col style="width: 9%" />
-<col style="width: 42%" />
+<col style="width: 32%" />
+<col style="width: 9%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>裴中元</p></td>
 <td><p>5次暴力前科者。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>金宇賢</p></td>
 <td><p>韓國大學醫院兒童病房遺傳醫學中心醫生。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>趙聖甲</p></td>
 <td><p>珠英的愛人。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/李浩哲" title="wikilink">李浩哲</a></p></td>
 <td><p>崔武植</p></td>
 <td><p>徵信社社長。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td><p>法官。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/李宗秀.md" title="wikilink">李宗秀</a></p></td>
 <td><p>馬尚秀</p></td>
 <td><p>錦朏外婆的遺產管理律師，後因賭博欠債而捲款逃逸。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/敏雅" title="wikilink">敏雅</a></p></td>
 <td><p>狐狸玩偶</p></td>
 <td><p>聲音出演。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>恩秀</p></td>
 <td><p>與錦朏同房的兒童病患。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td><p>恩秀的爸爸。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>素熙</p></td>
 <td><p>錦朏的幻想朋友。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
 ### 特別出演
 
-|                                  |        |                       |
-| -------------------------------- | ------ | --------------------- |
-| **演員**                           | **角色** | **介紹**                |
-| [吉海妍](../Page/吉海妍.md "wikilink") | 金榮智    | 將錦朏扶養到10歲的阿姨。         |
-| [崔日和](../Page/崔日和.md "wikilink") |        | 江熙的父親。                |
-| [安內相](../Page/安內相.md "wikilink") |        | 輝哲的父親。                |
-| [梁東根](../Page/梁東根.md "wikilink") |        | 汽車公司職員。               |
-| [印喬鎮](../Page/印喬鎮.md "wikilink") |        | 汽車公司社長。               |
-| [金榮在](../Page/金榮在.md "wikilink") |        | 教堂神父，錦朏的生父。           |
-| [金圭哲](../Page/金圭哲.md "wikilink") | 許炳秀    | 致力於尼曼匹克症等遺傳疾病動物實驗的醫生。 |
+|                                  |        |                       |          |
+| -------------------------------- | ------ | --------------------- | -------- |
+| **演員**                           | **角色** | **介紹**                | **香港配音** |
+| [吉海妍](../Page/吉海妍.md "wikilink") | 金榮智    | 將錦朏扶養到10歲的阿姨。         |          |
+| [崔日和](../Page/崔日和.md "wikilink") |        | 江熙的父親。                |          |
+| [安內相](../Page/安內相.md "wikilink") |        | 輝哲的父親。                |          |
+| [梁東根](../Page/梁東根.md "wikilink") |        | 汽車公司職員。               |          |
+| [印喬鎮](../Page/印喬鎮.md "wikilink") |        | 汽車公司社長。               |          |
+| [金榮在](../Page/金榮在.md "wikilink") |        | 教堂神父，錦朏的生父。           |          |
+| [金圭哲](../Page/金圭哲.md "wikilink") | 許炳秀    | 致力於尼曼匹克症等遺傳疾病動物實驗的醫生。 |          |
+|                                  |        |                       |          |
 
 ## 原聲帶
 

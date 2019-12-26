@@ -11,7 +11,5 @@
 [Category:Rocket_engines_using_hydrogen_propellant](https://zh.wikipedia.org/wiki/Category:Rocket_engines_using_hydrogen_propellant "wikilink") [Category:Rocket_engines_of_China](https://zh.wikipedia.org/wiki/Category:Rocket_engines_of_China "wikilink")
 
 1.
-
 2.
-
 3.

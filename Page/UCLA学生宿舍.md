@@ -109,51 +109,29 @@ Sproul的名称来源于[加利福尼亚大学前任校长罗伯特](https://zh.
 
 1.
 2.
-
 3.  [UCLA Building names](http://magazine.ucla.edu/depts/hailhills/ucla-building-name-origins/)
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  [UC Regents Summary](http://regents.universityofcalifornia.edu/regmeet/may17/f7.pdf)
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17. [Hitch-Saxson Suites](https://housing.ucla.edu/student-housing/freshman-students/living-on-campus/hitch-saxon-residential-suites)
-
 18.
 19.
 20.
 21.
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.

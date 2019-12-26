@@ -35,7 +35,7 @@
 
 <center>
 
-**[语言学](../Page/语言学.md "wikilink")** ([主题](https://zh.wikipedia.org/wiki/Portal:语言学 "wikilink"))
+**[语言学](../Page/语言学.md "wikilink")** ([主题](../Page/Portal:语言学.md "wikilink"))
 
 </center>
 

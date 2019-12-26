@@ -31,28 +31,16 @@ JOSM也可以用於編輯開放街圖的姊妹計畫OpenHistoricalMap。其被�
 [Category:GIS软件](https://zh.wikipedia.org/wiki/Category:GIS软件 "wikilink") [Category:自由應用軟體](https://zh.wikipedia.org/wiki/Category:自由應用軟體 "wikilink") [Category:电子地图](https://zh.wikipedia.org/wiki/Category:电子地图 "wikilink") [Category:開放街圖](https://zh.wikipedia.org/wiki/Category:開放街圖 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.

@@ -306,6 +306,62 @@ int _cdecl main(int argc, char** argv)
     SOCKET sRemote = accept( sListen, (sockaddr *)&saRemote, &nRemoteLen );
 ```
 
+### 优雅关闭
+
+TCP连接的关闭过程有两种：
+
+  - 优雅关闭（graceful close）如果发送缓存中还有数据未发出则其发出去，并且收到所有数据的ACK之后，发送FIN包，开始关闭过程
+  - 强制关闭（hard close或abortive close）如果缓存中还有数据，则这些数据都将被丢弃，然后发送RST包，直接重置TCP连接。
+
+<!-- end list -->
+
+``` cpp
+    shutdown(clntSock, SD_SEND);  //数据发送完毕，断开输出流，向客户端发送FIN包
+    recv(clntSock, buffer, BUF_SIZE, 0);  //阻塞，等待客户端接收完毕后closesocket，这将导致本方的recv从阻塞状态返回
+    fclose(fp);  //释放资源
+    closesocket(clntSock);
+    closesocket(servSock);  //也要关闭用于listen/accept的socket
+    WSACleanup();
+```
+
+调用 close()/closesocket() 函数意味着完全断开连接，即不能发送数据也不能接收数据，这种“生硬”的方式有时候会显得不太“优雅”。使用 shutdown() 函数和WSASendDisconnect函数可以优雅关闭连接，其函数原型为
+
+`int shutdown(SOCKET s, int howto);  //Windows  `
+
+howto 在 Windows 下有以下取值：
+
+  - SD_RECEIVE：关闭接收操作，也就是断开输入流。
+  - SD_SEND：关闭发送操作，也就是断开输出流。
+  - SD_BOTH：同时关闭接收和发送操作。
+
+确切地说，close() / closesocket() 用来关闭套接字，将套接字描述符（或句柄）从内存清除，之后再也不能使用该套接字。应用程序关闭套接字后，与该套接字相关的连接和缓存也失去了意义，TCP协议会自动触发关闭连接的操作。shutdown() 用来关闭连接，而不是套接字；套接字依然存在，直到调用 close() / closesocket() 将套接字从内存清除。调用 close()/closesocket() 关闭套接字时，或调用 shutdown() 关闭输出流时，都会向对方发送 FIN 包。FIN 包表示数据传输完毕，对端收到 FIN 包就知道不会再有数据传送过来了。默认情况下，close()/closesocket() 会立即向网络中发送FIN包，不管输出缓冲区中是否还有数据，而shutdown() 会等输出缓冲区中的数据传输完毕再发送FIN包。也就意味着，调用 close()/closesocket() 将丢失输出缓冲区中的数据，而调用 shutdown() 不会。
+
+shutdown()并不实际关闭socket，而是仅仅改变其可用性。shutdown是一种优雅地单方向或者双方向关闭socket的方法。 如果有多个进程共享一个socket，shutdown影响所有进程，而close只影响本进程。shutdown本身并不影响底层，也即此前发出的异步send/recv不会返回。在所有已发送的包被对端确认后，本方会发送FIN包给client，开始TCP四次挥手过程。 对端收到FIN报文后，并不知道server端以何种方式shutdown，甚至不知道server端是shutdown还是close。
+
+若本方发送FIN报文后没有收到对端的FIN-ACK，会两次重传FIN报文，若一直收不到对端的FIN-ACK，则会给对端发送RST信号，关闭socket并释放资源。对端收到FIN信号后，再调用read函数会返回0；因为接收了FIN，表明以后再无数据可以接收。
+
+对端收到RST报文后，行为如下：
+
+  - 阻塞模型下，内核无法主动通知应用层出错，只有应用层主动调用read()或者write()这样的IO系统调用时，内核才会利用出错来通知应用层已经收到RST报文
+  - 非阻塞模型下，select或者epoll会返回sockfd可读,应用层对其进行读取时，read()会报RST错误。
+
+收到RST报文的情况下，再做任何read write都是毫无意义。
+
+调用调用close()，根据参数设置不同，会出现如下两种情况：
+
+  - l_onoff为非0，l_linger为0： 向对端发送一个RST报文，丢弃本地缓冲区的未读数据，关闭socket并释放相关资源，此种方式为强制关闭。
+  - l_onoff 为非0，l_linger为非0：向对端发送一个FIN报文，收到对端FIN-ACK后，进入了FIN_WAIT_2阶段，参考TCP四次挥手过程，此种方式为优雅关闭。如果在l_linger的时间内仍未完成四次挥手，则强制关闭。
+
+当l_onoff值设置为0时，closesocket会立即返回，并关闭用户socket句柄。如果此时缓冲区中有未发送数据，则系统会在后台将这些数据发送完毕后关闭TCP连接，是一个优雅关闭过程，但是这里有一个副作用就是socket的底层资源会被保留直到TCP连接关闭，这个时间用户应用程序是无法控制的。
+
+当l_onoff值设置为非0值，而l_linger也设置为0，那么closesocket也会立即返回并关闭用户socket句柄，但是如果此时缓冲区中有未发送数据，TCP会发送RST包重置连接，所有未发数据都将丢失，这是一个强制关闭过程。
+
+当l_onoff值设置为非0值，而l_linger也设置为非0值时，同时如果socket是阻塞式的，此时如果缓冲区中有未发送数据，如果TCP在l_linger表明的时间内将所有数据发出，则发完后关闭TCP连接，这时是优雅关闭过程；如果如果TCP在l_linger表明的时间内没有将所有数据发出，则会丢弃所有未发数据然后TCP发送RST包重置连接，此时就是一个强制关闭过程了。
+
+另外还有一个socket选项SO_DONTLINGER，它的参数值是一个bool类型的，如果设置为true，则等价于SO_LINGER中将l_onoff设置为0。
+
+注意SO_LINGER和SO_DONTLINGER选项只影响closesocket的行为，而与shutdown函数无关，shutdown总是会立即返回的。
+
 ## 参见
 
   - [Berkeley sockets](https://zh.wikipedia.org/wiki/Berkeley_sockets "wikilink")
@@ -322,7 +378,7 @@ int _cdecl main(int argc, char** argv)
   - [Porting Berkley Socket programs to Winsock](http://msdn2.microsoft.com/en-us/library/ms740096.aspx)
   - [Windows Network Development blog](http://blogs.msdn.com/wndp/) — Microsoft developer blog covering Winsock, WSK, WinINet, Http.sys, WinHttp, QoS and System.Net, with a focus on features being introduced in [Windows Vista](../Page/Windows_Vista.md "wikilink")
   - [Brief History of Microsoft on the Web](http://www.microsoft.com/misc/features/features_flshbk.htm)
-  - [Winsock error codes list](http://winsock-error.danielclarke.com/) with descriptions
+  - [Winsock error codes list](https://web.archive.org/web/20160922213937/http://winsock-error.danielclarke.com/) with descriptions
   - [WinSock Development Information](http://www.sockets.com/)
   - [Winsock Programmer's FAQ](http://tangentsoft.net/wskfaq/)
 

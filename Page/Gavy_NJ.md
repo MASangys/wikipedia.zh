@@ -650,13 +650,13 @@ GAVY NJ 在2005年11月10日以第一張專輯【the very first】出道，並�
   -
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
 
-1.  [Si Hyun 離開 Gavy NJ](http://kpopn.niusnews.com/=K04h2lg5)
-2.  [Gavy NJ《SHUBIRUBIRUB》MV 公開](http://kpopn.niusnews.com/=K1xrxmd3)
-3.  [Gavy NJ 加入新成員](http://kpopn.niusnews.com/=K1rbnrb2)
+1.
+2.
+3.
 4.  加入Gavy NJ前，曾以藝名**「Miho（미호）」**作為Bay.B隊長、領唱身份出道
 5.  加入Gavy NJ前，曾以AL隊長、主唱身份出道
 6.  加入Gavy NJ前，曾以藝名**Hyena（혜나）**作為BGH4和H2 歌人成員身份活動
-7.  [](http://kpopn.niusnews.com/=K1xrxmd3)
+7.
 8.  [](https://www.youtube.com/watch?v=xiGfctpa-x8)
 9.  [1](http://www.koreastardaily.com/tc/news/81633)
 10. [2](https://www.youtube.com/watch?v=d-3G--CjoTQ)

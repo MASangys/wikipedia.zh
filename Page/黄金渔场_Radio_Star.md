@@ -2424,7 +2424,7 @@
 <tr class="odd">
 <td><p>317</p></td>
 <td><p>2月27日</p></td>
-<td><p>、、、<a href="../Page/金聖圭.md" title="wikilink">金圣圭</a></p></td>
+<td><p>、、<a href="https://zh.wikipedia.org/wiki/Sam_Hammington" title="wikilink">Sam Hammington</a>、<a href="../Page/金聖圭.md" title="wikilink">金圣圭</a></p></td>
 <td><p>稀奇的人们（上）</p></td>
 <td></td>
 </tr>
@@ -2432,7 +2432,7 @@
 <td><p>318</p></td>
 <td><p>3月6日</p></td>
 <td><p>(<a href="https://zh.wikipedia.org/wiki/NRG" title="wikilink">NRG</a>)、<a href="https://zh.wikipedia.org/wiki/李在元" title="wikilink">李在元</a> (<a href="../Page/H.O.T..md" title="wikilink">H.O.T.</a>)、<a href="../Page/金在德.md" title="wikilink">金在德</a> (<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>)、<a href="../Page/安信源.md" title="wikilink">Danny安</a> (<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d</a>);<br />
-、、、<a href="../Page/金聖圭.md" title="wikilink">金圣圭</a></p></td>
+、、<a href="https://zh.wikipedia.org/wiki/Sam_Hammington" title="wikilink">Sam Hammington</a>、<a href="../Page/金聖圭.md" title="wikilink">金圣圭</a></p></td>
 <td><p>传说的祖先/音乐Talk<br />
 (第1代偶像组合特辑（上）;稀奇的人们（下）)</p></td>
 <td></td>
@@ -2806,7 +2806,7 @@
 <tr class="odd">
 <td><p>319</p></td>
 <td><p>2月26日</p></td>
-<td><p><a href="../Page/孙佳人.md" title="wikilink">孙佳仁</a>、、<a href="../Page/洪真慶.md" title="wikilink">洪真慶</a>、<a href="../Page/李玟雨.md" title="wikilink">李玟雨</a>、<a href="../Page/朴徽淳.md" title="wikilink">朴辉顺</a></p></td>
+<td><p><a href="../Page/孙佳人.md" title="wikilink">孙佳仁</a>、、<a href="../Page/洪真慶.md" title="wikilink">洪真慶</a>、<a href="../Page/李玟雨.md" title="wikilink">李玟雨</a>、<a href="../Page/朴徽淳.md" title="wikilink">朴徽淳</a></p></td>
 <td><p>纽扣眼特辑</p></td>
 <td></td>
 </tr>
@@ -3134,7 +3134,7 @@
 <tr class="odd">
 <td><p>361</p></td>
 <td><p>1月7日</p></td>
-<td><p><a href="../Page/李大浩.md" title="wikilink">李大浩</a>、<a href="../Page/吳昇桓.md" title="wikilink">吴升桓</a>、<a href="../Page/鄭埻夏.md" title="wikilink">郑俊河</a></p></td>
+<td><p><a href="../Page/李大浩.md" title="wikilink">李大浩</a>、<a href="../Page/吳昇桓.md" title="wikilink">吳昇桓</a>、<a href="../Page/鄭埻夏.md" title="wikilink">鄭埻夏</a></p></td>
 <td><p>李对吴特辑（上）<br />
 (2015年新年特辑)</p></td>
 <td></td>
@@ -3150,14 +3150,14 @@
 <tr class="odd">
 <td><p>363</p></td>
 <td><p>1月21日</p></td>
-<td><p><a href="../Page/劉俊相.md" title="wikilink">刘俊相</a>、<a href="../Page/嚴基俊.md" title="wikilink">严基俊</a>、</p></td>
+<td><p><a href="../Page/劉俊相.md" title="wikilink">劉俊相</a>、<a href="../Page/嚴基俊.md" title="wikilink">嚴基俊</a>、</p></td>
 <td><p>因为痛所以叫中年特辑</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>364</p></td>
 <td><p>1月28日</p></td>
-<td><p>、<a href="https://zh.wikipedia.org/wiki/金建模" title="wikilink">金建模</a>、、<a href="https://zh.wikipedia.org/wiki/金贤正" title="wikilink">金贤正</a></p></td>
+<td><p>、<a href="https://zh.wikipedia.org/wiki/金建模" title="wikilink">金建模</a>、、<a href="../Page/金炫廷_(歌手).md" title="wikilink">金炫廷</a></p></td>
 <td><p>星，星，R(星期三星期三是Radio Star)特辑<br />
 (《无限挑战》《六六歌》结算特辑)</p></td>
 <td></td>
@@ -3165,7 +3165,7 @@
 <tr class="odd">
 <td><p>365</p></td>
 <td><p>2月4日</p></td>
-<td><p>、<a href="../Page/朴廣賢.md" title="wikilink">朴光贤</a>、<a href="../Page/鄭容和.md" title="wikilink">郑容和</a>、<a href="../Page/成赫.md" title="wikilink">成赫</a></p></td>
+<td><p>、<a href="../Page/朴廣賢.md" title="wikilink">朴廣賢</a>、<a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>、<a href="../Page/成赫.md" title="wikilink">成赫</a></p></td>
 <td><p>你就在比我高一点的地方特辑<br />
 (<a href="../Page/FNC娛樂.md" title="wikilink">FNC娱乐家里人特辑</a>)</p></td>
 <td></td>
@@ -3173,7 +3173,7 @@
 <tr class="even">
 <td><p>366</p></td>
 <td><p>2月11日</p></td>
-<td><p><a href="../Page/金承洙.md" title="wikilink">金承洙</a>、<a href="../Page/趙東赫.md" title="wikilink">赵东赫</a>、<a href="https://zh.wikipedia.org/wiki/郑基高" title="wikilink">郑基高</a>、<a href="../Page/姜均成.md" title="wikilink">姜均成</a></p></td>
+<td><p><a href="../Page/金承洙.md" title="wikilink">金承洙</a>、<a href="../Page/趙東赫.md" title="wikilink">趙東赫</a>、<a href="https://zh.wikipedia.org/wiki/郑基高" title="wikilink">郑基高</a>、<a href="../Page/姜均成.md" title="wikilink">姜均成</a></p></td>
 <td><p>Chocoolate Please特辑<br />
 (情人节特辑)</p></td>
 <td></td>
@@ -3196,21 +3196,21 @@
 <tr class="odd">
 <td><p>369</p></td>
 <td><p>3月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/劉逸雲" title="wikilink">Amber</a>、、<a href="https://zh.wikipedia.org/wiki/张度妍" title="wikilink">张度妍</a>、<a href="https://zh.wikipedia.org/wiki/孙钟学" title="wikilink">孙钟学</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉逸雲" title="wikilink">Amber</a> (<a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a>)、、<a href="../Page/張度練.md" title="wikilink">張度練</a>、<a href="https://zh.wikipedia.org/wiki/孙钟学" title="wikilink">孙钟学</a></p></td>
 <td><p>“却，实，搜 - 从未听说却掌握实时搜索排行榜的第一”特辑</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>370</p></td>
 <td><p>3月11日</p></td>
-<td><p><a href="../Page/李昌勳.md" title="wikilink">李昌勋</a>、<a href="https://zh.wikipedia.org/wiki/李鉉宇" title="wikilink">李贤宇</a>、<a href="../Page/顯祐.md" title="wikilink">显祐</a>、<a href="https://zh.wikipedia.org/wiki/艾迪·金" title="wikilink">Eddy Kim</a></p></td>
+<td><p><a href="../Page/李昌勳.md" title="wikilink">李昌勋</a>、<a href="https://zh.wikipedia.org/wiki/李鉉宇" title="wikilink">李鉉宇</a>、<a href="../Page/顯祐.md" title="wikilink">显祐</a>、<a href="https://zh.wikipedia.org/wiki/艾迪·金" title="wikilink">Eddy Kim</a></p></td>
 <td><p>“调味道了”无趣男特辑</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>371</p></td>
 <td><p>3月18日</p></td>
-<td><p><a href="../Page/金志映_(1974年).md" title="wikilink">金智英</a>、<a href="../Page/強藝元.md" title="wikilink">姜艺媛</a>、<a href="../Page/朴河宣.md" title="wikilink">朴河宣</a>、<a href="../Page/安英美.md" title="wikilink">安英美</a></p></td>
+<td><p><a href="../Page/金志映_(1974年).md" title="wikilink">金志映</a>、<a href="../Page/強藝元.md" title="wikilink">強藝元</a>、<a href="../Page/朴河宣.md" title="wikilink">朴河宣</a>、<a href="../Page/安英美.md" title="wikilink">安英美</a></p></td>
 <td><p>“当兵的滋味你们懂吗？”特辑<br />
 (<a href="../Page/真正的男人.md" title="wikilink">真正的男人</a>第二季女兵特辑)</p></td>
 <td></td>
@@ -3225,14 +3225,14 @@
 <tr class="odd">
 <td><p>373</p></td>
 <td><p>4月1日</p></td>
-<td><p>、、<a href="../Page/李洪基.md" title="wikilink">李弘基</a>、</p></td>
+<td><p>、、<a href="../Page/李洪基.md" title="wikilink">李洪基</a>、</p></td>
 <td><p>“诚，和，托 - 诚实的和盘托出”特辑</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>374</p></td>
 <td><p>4月8日</p></td>
-<td><p>、、<a href="https://zh.wikipedia.org/wiki/方銀熙" title="wikilink">方银熙</a>、<a href="../Page/金淑.md" title="wikilink">金淑</a></p></td>
+<td><p>、、<a href="../Page/方銀姬.md" title="wikilink">方銀姬</a>、<a href="../Page/金淑.md" title="wikilink">金淑</a></p></td>
 <td><p>“济州岛Radio Star之夜”特辑</p></td>
 <td></td>
 </tr>
@@ -3254,7 +3254,7 @@
 <tr class="odd">
 <td><p>377</p></td>
 <td><p>4月29日</p></td>
-<td><p><a href="../Page/金應洙.md" title="wikilink">金应洙</a>、<a href="../Page/申正根.md" title="wikilink">申正根</a>、<a href="../Page/朴恩惠.md" title="wikilink">朴恩惠</a>、<a href="../Page/陳世娫.md" title="wikilink">陈世妍</a></p></td>
+<td><p><a href="../Page/金應洙.md" title="wikilink">金应洙</a>、<a href="../Page/申正根.md" title="wikilink">申正根</a>、<a href="../Page/朴恩惠.md" title="wikilink">朴恩惠</a>、<a href="../Page/陳世娫.md" title="wikilink">陳世娫</a></p></td>
 <td><p>“我的年纪怎么了”特辑<br />
 (电影《》特辑)</p></td>
 <td></td>
@@ -3269,7 +3269,7 @@
 <tr class="odd">
 <td><p>379</p></td>
 <td><p>5月13日</p></td>
-<td><p><a href="../Page/金烔完.md" title="wikilink">金烔完</a>、<a href="https://zh.wikipedia.org/wiki/陆重烷" title="wikilink">陆重烷</a>、<a href="../Page/滑川康男.md" title="wikilink">滑川康男</a>、<a href="../Page/黃石正.md" title="wikilink">黄锡晶</a></p></td>
+<td><p><a href="../Page/金烔完.md" title="wikilink">金烔完</a>、<a href="https://zh.wikipedia.org/wiki/陆重烷" title="wikilink">陆重烷</a>、<a href="../Page/滑川康男.md" title="wikilink">滑川康男</a>、<a href="../Page/黃石正.md" title="wikilink">黃石正</a></p></td>
 <td><p>“自我陶醉的男人！容易喝醉的女人！”特辑<br />
 (<a href="https://zh.wikipedia.org/wiki/我独自生活" title="wikilink">我独自生活特辑</a>)</p></td>
 <td></td>
@@ -3277,14 +3277,14 @@
 <tr class="even">
 <td><p>380</p></td>
 <td><p>5月20日</p></td>
-<td><p>、<a href="../Page/林秀香.md" title="wikilink">林秀香</a>、、<a href="https://zh.wikipedia.org/wiki/朴草娥" title="wikilink">草娥</a></p></td>
+<td><p>、<a href="../Page/林秀香.md" title="wikilink">林秀香</a>、、<a href="https://zh.wikipedia.org/wiki/朴草娥" title="wikilink">草娥</a> (<a href="../Page/AOA.md" title="wikilink">AOA</a>)</p></td>
 <td><p>“清新酸酸甜甜人类维他命”特辑</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>381</p></td>
 <td><p>5月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金成柱_(主持人)" title="wikilink">金成柱</a>、<a href="https://zh.wikipedia.org/wiki/金亨锡" title="wikilink">金亨锡</a>、<a href="https://zh.wikipedia.org/wiki/朴嘉熙" title="wikilink">嘉熙</a>、<a href="../Page/朴善英.md" title="wikilink">Luna</a>、<a href="../Page/陸星材.md" title="wikilink">陆星材</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金成柱_(主持人)" title="wikilink">金成柱</a>、<a href="https://zh.wikipedia.org/wiki/金亨锡" title="wikilink">金亨锡</a>、<a href="https://zh.wikipedia.org/wiki/朴嘉熙" title="wikilink">嘉熙</a>、<a href="../Page/朴善英.md" title="wikilink">Luna</a> (<a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a>)、<a href="../Page/陸星材.md" title="wikilink">陆星材</a> (<a href="../Page/BTOB.md" title="wikilink">BTOB</a>)</p></td>
 <td><p>“闭嘴死守蒙面！遮住才能活的人们”特辑<br />
 (<a href="../Page/神秘音樂秀：蒙面歌王.md" title="wikilink">神秘音乐秀 - 蒙面歌王特辑</a>)</p></td>
 <td></td>
@@ -3292,14 +3292,14 @@
 <tr class="even">
 <td><p>382</p></td>
 <td><p>6月3日</p></td>
-<td><p>、<a href="https://zh.wikipedia.org/wiki/郑烨" title="wikilink">郑烨</a>、<a href="https://zh.wikipedia.org/wiki/Gummy_(韓國歌手)" title="wikilink">Gummy</a>、<a href="../Page/金聖圭.md" title="wikilink">金圣圭</a></p></td>
+<td><p>、<a href="https://zh.wikipedia.org/wiki/郑烨" title="wikilink">郑烨</a>、<a href="https://zh.wikipedia.org/wiki/Gummy_(韓國歌手)" title="wikilink">Gummy</a>、<a href="../Page/金聖圭.md" title="wikilink">金圣圭</a> (<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>)</p></td>
 <td><p>“声音保险是必备的！音色痞子”特辑</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>383</p></td>
 <td><p>6月10日</p></td>
-<td><p><a href="../Page/玉珠鉉.md" title="wikilink">玉珠铉</a>、<a href="https://zh.wikipedia.org/wiki/李志勳" title="wikilink">李志勋</a>、<a href="../Page/申成祿.md" title="wikilink">申盛禄</a>、</p></td>
+<td><p><a href="../Page/玉珠鉉.md" title="wikilink">玉珠铉</a>、<a href="https://zh.wikipedia.org/wiki/李志勳" title="wikilink">李志勋</a>、<a href="https://zh.wikipedia.org/wiki/申成祿禄" title="wikilink">申成祿禄</a>、</p></td>
 <td><p>音乐剧明星特辑“duruchigi 四人份”<br />
 (音乐剧《伊丽莎白》特辑)</p></td>
 <td><p>因<a href="../Page/圭賢.md" title="wikilink">圭贤日本行程的关系</a>，特邀客座主持人<a href="../Page/SHINee.md" title="wikilink">SHINee</a>成员<a href="https://zh.wikipedia.org/wiki/崔珉豪" title="wikilink">珉豪进行了主持</a>。</p></td>
@@ -3307,21 +3307,21 @@
 <tr class="even">
 <td><p>384</p></td>
 <td><p>6月17日</p></td>
-<td><p><a href="../Page/鄭普碩.md" title="wikilink">郑宝石</a>、、<a href="../Page/李亨哲.md" title="wikilink">李亨哲</a>、<a href="../Page/張元英.md" title="wikilink">张元英</a></p></td>
+<td><p><a href="../Page/鄭普碩.md" title="wikilink">鄭普碩</a>、、<a href="../Page/李亨哲.md" title="wikilink">李亨哲</a>、<a href="../Page/張元英.md" title="wikilink">张元英</a></p></td>
 <td><p>“宝石般的老光棍们”特辑</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>385</p></td>
 <td><p>6月24日</p></td>
-<td><p><a href="../Page/全烋星.md" title="wikilink">全孝盛</a>、<a href="https://zh.wikipedia.org/wiki/姜智賢" title="wikilink">韶宥</a>、、</p></td>
+<td><p><a href="../Page/全烋星.md" title="wikilink">全烋星</a>、<a href="https://zh.wikipedia.org/wiki/姜智賢" title="wikilink">韶宥</a>、、</p></td>
 <td><p>“视线抢夺！夏日女人”特辑</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>386</p></td>
 <td><p>7月1日</p></td>
-<td><p><a href="../Page/尹博.md" title="wikilink">尹博</a>、<a href="../Page/全昭旻.md" title="wikilink">全昭旻</a>、<a href="https://zh.wikipedia.org/wiki/Sleepy" title="wikilink">Sleepy</a>、<a href="https://zh.wikipedia.org/wiki/郑尚勋" title="wikilink">郑尚勋</a></p></td>
+<td><p><a href="../Page/尹博.md" title="wikilink">尹博</a>、<a href="../Page/全昭旻.md" title="wikilink">全昭旻</a>、<a href="../Page/Sleepy_(韓國歌手).md" title="wikilink">Sleepy</a>、<a href="https://zh.wikipedia.org/wiki/郑尚勋" title="wikilink">郑尚勋</a></p></td>
 <td><p>“热门人物”特辑</p></td>
 <td></td>
 </tr>
@@ -3372,7 +3372,7 @@
 <tr class="odd">
 <td><p>393</p></td>
 <td><p>8月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林智允" title="wikilink">林智允</a>、、<a href="../Page/徐朱玄.md" title="wikilink">徐贤</a>、<a href="../Page/沈亨倬.md" title="wikilink">沈亨泽</a></p></td>
+<td><p><a href="../Page/朴芝潤.md" title="wikilink">朴芝潤</a>、、<a href="../Page/徐朱玄.md" title="wikilink">徐贤</a>、<a href="../Page/沈亨倬.md" title="wikilink">沈亨倬</a></p></td>
 <td><p>“天上天下唯我独尊”特辑</p></td>
 <td></td>
 </tr>
@@ -3407,7 +3407,7 @@
 <tr class="even">
 <td><p>398</p></td>
 <td><p>9月23日</p></td>
-<td><p>、<a href="../Page/尹正秀.md" title="wikilink">尹正秀</a>、<a href="https://zh.wikipedia.org/wiki/朴娜萊_(喜劇演員)" title="wikilink">朴娜莱</a>、</p></td>
+<td><p>、<a href="../Page/尹正秀.md" title="wikilink">尹正秀</a>、<a href="../Page/朴娜勑.md" title="wikilink">朴娜勑</a>、</p></td>
 <td><p>光会说~《口才老手》特辑！！！</p></td>
 <td></td>
 </tr>
@@ -3456,7 +3456,7 @@
 <tr class="odd">
 <td><p>405</p></td>
 <td><p>11月11日</p></td>
-<td><p><a href="../Page/鄭俊鎬.md" title="wikilink">郑俊浩</a>、<a href="../Page/文晶熙.md" title="wikilink">文贞熙</a>、<a href="https://zh.wikipedia.org/wiki/方珉雅" title="wikilink">方敏雅</a>、<a href="../Page/李旼赫.md" title="wikilink">李旼赫</a></p></td>
+<td><p><a href="../Page/鄭俊鎬.md" title="wikilink">鄭俊鎬</a>、<a href="../Page/文晶熙.md" title="wikilink">文晶熙</a>、<a href="https://zh.wikipedia.org/wiki/珉雅" title="wikilink">方珉雅</a> (<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>)、<a href="../Page/李旼赫.md" title="wikilink">李旼赫</a> (<a href="../Page/BTOB.md" title="wikilink">BTOB</a>)</p></td>
 <td><p>“转告一下就是专门来宣传的~”特辑<br />
 (MBC新水木剧《<a href="../Page/甜蜜殺氣的家族.md" title="wikilink">甜蜜杀气的家族</a>》开播特辑)</p></td>
 <td></td>
@@ -3464,21 +3464,21 @@
 <tr class="even">
 <td><p>406</p></td>
 <td><p>11月18日</p></td>
-<td><p>、<a href="../Page/沈敏雅.md" title="wikilink">米娜</a>、、<a href="https://zh.wikipedia.org/wiki/李民雄（演员）" title="wikilink">李民雄</a></p></td>
+<td><p>、<a href="../Page/沈敏雅.md" title="wikilink">沈敏雅</a>、、<a href="https://zh.wikipedia.org/wiki/李民雄（演员）" title="wikilink">李民雄</a></p></td>
 <td><p>“对不起~”特辑</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>407</p></td>
 <td><p>11月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴孝珍" title="wikilink">Narsha</a>、<a href="../Page/朴俊勉.md" title="wikilink">朴俊勉</a>、<a href="https://zh.wikipedia.org/wiki/洪允花" title="wikilink">洪允花</a>、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴孝珍" title="wikilink">Narsha</a>、<a href="../Page/朴俊勉.md" title="wikilink">朴俊勉</a>、<a href="../Page/洪允和.md" title="wikilink">洪允和</a>、</p></td>
 <td><p>《魔性的充满致命魅力的女人》特辑</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>408</p></td>
 <td><p>12月2日</p></td>
-<td><p><a href="../Page/黃石正.md" title="wikilink">黄锡晶</a>、、<a href="https://zh.wikipedia.org/wiki/金永哲_(喜剧演员)" title="wikilink">金永哲</a>、<a href="../Page/朴瑟琪.md" title="wikilink">朴涩琪</a>、<a href="../Page/金旻載.md" title="wikilink">金珉载</a></p></td>
+<td><p><a href="../Page/黃石正.md" title="wikilink">黃石正</a>、、<a href="https://zh.wikipedia.org/wiki/金永哲_(喜剧演员)" title="wikilink">金永哲</a>、<a href="../Page/朴瑟琪.md" title="wikilink">朴瑟琪</a>、<a href="../Page/金旻載.md" title="wikilink">金旻載</a></p></td>
 <td><p>“MBC的儿女们”特辑<br />
 (MBC创立54周年纪念特别节目)</p></td>
 <td></td>
@@ -3486,7 +3486,7 @@
 <tr class="odd">
 <td><p>409</p></td>
 <td><p>12月9日</p></td>
-<td><p><a href="../Page/權五重.md" title="wikilink">权伍中</a>、<a href="../Page/金正民.md" title="wikilink">金正民</a>、、<a href="../Page/趙軟祐.md" title="wikilink">赵延宇</a></p></td>
+<td><p><a href="../Page/權五重.md" title="wikilink">權五重</a>、<a href="../Page/金正民.md" title="wikilink">金正民</a>、、<a href="../Page/趙軟祐.md" title="wikilink">赵延宇</a></p></td>
 <td><p>“不要问我妻子的年龄”特辑</p></td>
 <td></td>
 </tr>
@@ -3501,7 +3501,7 @@
 <tr class="odd">
 <td><p>411</p></td>
 <td><p>12月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/徐章勋" title="wikilink">徐章勋</a>、<a href="../Page/李荷妮.md" title="wikilink">李哈妮</a>、<a href="../Page/李國主.md" title="wikilink">李国主</a>、</p></td>
+<td><p><a href="../Page/徐章煇.md" title="wikilink">徐章煇</a>、<a href="../Page/李荷妮.md" title="wikilink">李荷妮</a>、<a href="../Page/李國主.md" title="wikilink">李国主</a>、</p></td>
 <td><p>“圣诞联盟”特辑<br />
 (2015圣诞特辑)</p></td>
 <td></td>
@@ -3532,7 +3532,7 @@
 <tr class="even">
 <td><p>413</p></td>
 <td><p>1月13日</p></td>
-<td><p><a href="../Page/郭時暘.md" title="wikilink">郭時暘</a>、<a href="https://zh.wikipedia.org/wiki/黄帝聖" title="wikilink">黄帝聖</a>、<a href="https://zh.wikipedia.org/wiki/安喜延" title="wikilink">Hani</a> (<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>)、<a href="../Page/金淑.md" title="wikilink">金淑</a></p></td>
+<td><p><a href="../Page/郭時暘.md" title="wikilink">郭時暘</a>、<a href="../Page/黃帝聖.md" title="wikilink">黃帝聖</a>、<a href="https://zh.wikipedia.org/wiki/安喜延" title="wikilink">Hani</a> (<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>)、<a href="../Page/金淑.md" title="wikilink">金淑</a></p></td>
 <td><p>我的心被偷了~！《偷心人》特辑</p></td>
 <td></td>
 </tr>
@@ -3574,7 +3574,7 @@
 <tr class="even">
 <td><p>419</p></td>
 <td><p>2月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a>、<a href="https://zh.wikipedia.org/wiki/崔成国_(演员)" title="wikilink">崔成国</a>、<a href="https://zh.wikipedia.org/wiki/Chen_(歌手)" title="wikilink">Chen</a> (<a href="../Page/EXO.md" title="wikilink">EXO</a>)、<a href="https://zh.wikipedia.org/wiki/金恩圣" title="wikilink">金恩圣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a>、<a href="https://zh.wikipedia.org/wiki/崔成国_(演员)" title="wikilink">崔成国</a>、<a href="../Page/CHEN_(EXO).md" title="wikilink">Chen</a> (<a href="../Page/EXO.md" title="wikilink">EXO</a>)、<a href="https://zh.wikipedia.org/wiki/金恩圣" title="wikilink">金恩圣</a></p></td>
 <td><p>“欧巴中国style~”特辑</p></td>
 <td></td>
 </tr>
@@ -3609,7 +3609,7 @@
 <tr class="odd">
 <td><p>424</p></td>
 <td><p>3月30日</p></td>
-<td><p><a href="../Page/南宮珉.md" title="wikilink">南宮珉</a>、<a href="../Page/李東輝_(演員).md" title="wikilink">李东辉</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a> (<a href="https://zh.wikipedia.org/wiki/AOA_(韓國)" title="wikilink">AOA</a>)、<a href="../Page/尹正秀.md" title="wikilink">尹正秀</a></p></td>
+<td><p><a href="../Page/南宮珉.md" title="wikilink">南宮珉</a>、<a href="../Page/李東輝_(演員).md" title="wikilink">李東輝</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a> (<a href="https://zh.wikipedia.org/wiki/AOA_(韓國)" title="wikilink">AOA</a>)、<a href="../Page/尹正秀.md" title="wikilink">尹正秀</a></p></td>
 <td><p>“你最完美”特辑</p></td>
 <td></td>
 </tr>
@@ -3644,7 +3644,7 @@
 <tr class="even">
 <td><p>429</p></td>
 <td><p>5月11日</p></td>
-<td><p><a href="../Page/朴軫永.md" title="wikilink">朴振荣</a>、<a href="../Page/闵孝琳.md" title="wikilink">闵孝琳</a>、<a href="../Page/G.Soul.md" title="wikilink">G.Soul</a>、<a href="../Page/趙權.md" title="wikilink">趙權</a> (<a href="../Page/2AM.md" title="wikilink">2AM</a>)</p></td>
+<td><p><a href="../Page/朴軫永.md" title="wikilink">朴軫永</a>、<a href="../Page/闵孝琳.md" title="wikilink">闵孝琳</a>、<a href="../Page/G.Soul.md" title="wikilink">G.Soul</a>、<a href="../Page/趙權.md" title="wikilink">趙權</a> (<a href="../Page/2AM.md" title="wikilink">2AM</a>)</p></td>
 <td><p>“不知道谁有趣 所以我出来了”特辑</p></td>
 <td></td>
 </tr>
@@ -3723,7 +3723,7 @@
 <tr class="odd">
 <td><p>440</p></td>
 <td><p>7月27日</p></td>
-<td><p><a href="../Page/安七炫.md" title="wikilink">安七炫</a>、<a href="https://zh.wikipedia.org/wiki/李陈镐" title="wikilink">李陈镐</a>、<a href="../Page/梁世燦.md" title="wikilink">梁世燦</a>、</p></td>
+<td><p><a href="../Page/安七炫.md" title="wikilink">安七炫</a>、<a href="https://zh.wikipedia.org/wiki/李陈镐" title="wikilink">李陈镐</a>、<a href="../Page/梁世燦.md" title="wikilink">梁世燦</a>、<a href="https://zh.wikipedia.org/wiki/李龍真" title="wikilink">李龍真</a></p></td>
 <td><p>“在无趣上涂抹了有趣”特辑</p></td>
 <td></td>
 </tr>
@@ -3779,7 +3779,7 @@
 <tr class="odd">
 <td><p>448</p></td>
 <td><p>10月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金俊鎬_(喜劇演員)" title="wikilink">金俊鎬</a>、、<a href="https://zh.wikipedia.org/wiki/朴经" title="wikilink">朴经</a> (<a href="../Page/Block_B.md" title="wikilink">Block B</a>)、<a href="../Page/Kisum.md" title="wikilink">Kisum</a></p></td>
+<td><p><a href="../Page/金俊昊.md" title="wikilink">金俊昊</a>、、<a href="https://zh.wikipedia.org/wiki/朴经" title="wikilink">朴经</a> (<a href="../Page/Block_B.md" title="wikilink">Block B</a>)、<a href="../Page/Kisum.md" title="wikilink">Kisum</a></p></td>
 <td><p>“小聪明天才”特辑</p></td>
 <td></td>
 </tr>
@@ -3835,14 +3835,14 @@
 <tr class="odd">
 <td><p>456</p></td>
 <td><p>12月7日</p></td>
-<td><p><a href="../Page/文熙俊.md" title="wikilink">文熙俊</a>、<a href="../Page/安胜浩.md" title="wikilink">Tony An</a>、<a href="https://zh.wikipedia.org/wiki/徐智慧" title="wikilink">徐智慧</a>、<a href="../Page/徐宥利.md" title="wikilink">徐宥利</a>、<a href="../Page/Irene_(Red_Velvet).md" title="wikilink">Irene</a> (<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>)</p></td>
+<td><p><a href="../Page/文熙俊.md" title="wikilink">文熙俊</a>、<a href="../Page/安胜浩.md" title="wikilink">Tony An</a>、<a href="../Page/徐智慧_(1984年).md" title="wikilink">徐智慧</a>、<a href="../Page/徐宥利.md" title="wikilink">徐宥利</a>、<a href="../Page/Irene_(Red_Velvet).md" title="wikilink">Irene</a> (<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>)</p></td>
 <td><p>“heavy精神”特辑</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>457</p></td>
 <td><p>12月14日</p></td>
-<td><p><a href="../Page/金載沅.md" title="wikilink">金載沅</a>、<a href="../Page/李水京.md" title="wikilink">李修庆</a>、<a href="../Page/金善映.md" title="wikilink">金善映</a>、</p></td>
+<td><p><a href="../Page/金載沅.md" title="wikilink">金載沅</a>、<a href="../Page/李水京.md" title="wikilink">李水京</a>、<a href="../Page/金善映.md" title="wikilink">金善映</a>、</p></td>
 <td><p>“真正的唠叨故事之口”特辑</p></td>
 <td></td>
 </tr>
@@ -3914,7 +3914,7 @@
 <tr class="even">
 <td><p>513</p></td>
 <td><p>2月8日</p></td>
-<td><p><a href="../Page/徐鉉哲.md" title="wikilink">徐鉉哲</a>、、<a href="https://zh.wikipedia.org/wiki/闵真雄" title="wikilink">闵真雄</a>、</p></td>
+<td><p><a href="../Page/徐鉉哲.md" title="wikilink">徐鉉哲</a>、、<a href="../Page/閔鎮雄.md" title="wikilink">閔鎮雄</a>、</p></td>
 <td><p>“知道会酱紫红起来吗~（？）”特辑</p></td>
 <td></td>
 </tr>
@@ -3991,7 +3991,7 @@
 <tr class="odd">
 <td><p>524</p></td>
 <td><p>4月26日</p></td>
-<td><p><a href="../Page/金惠恩.md" title="wikilink">金惠恩</a>、<a href="../Page/金成均.md" title="wikilink">金成均</a>、<a href="../Page/趙宇鎮.md" title="wikilink">趙宇鎮</a>、</p></td>
+<td><p><a href="../Page/金惠恩.md" title="wikilink">金惠恩</a>、<a href="../Page/金成均.md" title="wikilink">金成均</a>、<a href="../Page/趙宇鎮.md" title="wikilink">趙宇鎮</a>、<a href="../Page/裴正南.md" title="wikilink">裴正南</a></p></td>
 <td><p>“很牛掰嘛~钟武路疯狂存在（甲）”特辑</p></td>
 <td><p>录制中期<a href="../Page/李聖旻.md" title="wikilink">李聖旻</a>特别出演。</p></td>
 </tr>
@@ -4047,7 +4047,7 @@
 <tr class="odd">
 <td><p>532</p></td>
 <td><p>6月21日</p></td>
-<td><p><a href="../Page/李素拉.md" title="wikilink">李素拉</a>、<a href="../Page/宋慶雅.md" title="wikilink">宋慶雅</a>、<a href="https://zh.wikipedia.org/wiki/韩惠珍_(模特)" title="wikilink">韩惠珍</a>、<a href="../Page/Yura.md" title="wikilink">Yura</a> (<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>)</p></td>
+<td><p><a href="../Page/李素拉.md" title="wikilink">李笑羅</a>、<a href="../Page/宋慶雅.md" title="wikilink">宋慶雅</a>、<a href="https://zh.wikipedia.org/wiki/韩惠珍_(模特)" title="wikilink">韩惠珍</a>、<a href="../Page/Yura.md" title="wikilink">Yura</a> (<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>)</p></td>
 <td><p>“Good Girl~Good Body~！”特辑</p></td>
 <td><p><a href="../Page/金聖圭.md" title="wikilink">金聖圭</a>擔任特别主持。</p></td>
 </tr>
@@ -4068,7 +4068,7 @@
 <tr class="even">
 <td><p>535</p></td>
 <td><p>7月12日</p></td>
-<td><p><a href="../Page/崔民秀.md" title="wikilink">崔民秀</a>、<a href="https://zh.wikipedia.org/wiki/赵泰宽" title="wikilink">赵泰宽</a>、<a href="../Page/李昭娟.md" title="wikilink">李昭娟</a>、<a href="https://zh.wikipedia.org/wiki/黃承言" title="wikilink">黃承言</a></p></td>
+<td><p><a href="../Page/崔民秀.md" title="wikilink">崔民秀</a>、<a href="https://zh.wikipedia.org/wiki/赵泰宽" title="wikilink">赵泰宽</a>、<a href="../Page/李昭娟.md" title="wikilink">李昭娟</a>、<a href="../Page/黃勝妍.md" title="wikilink">黃勝妍</a></p></td>
 <td><p>“RS，在颤抖吗？”特辑</p></td>
 <td><p><a href="../Page/李洪基.md" title="wikilink">李洪基</a>擔任特别主持。</p></td>
 </tr>
@@ -4110,7 +4110,7 @@
 <tr class="even">
 <td><p>541</p></td>
 <td><p>8月23日</p></td>
-<td><p><a href="../Page/白智榮.md" title="wikilink">白智榮</a>、、、</p></td>
+<td><p><a href="../Page/白智榮.md" title="wikilink">白智榮</a>、、<a href="../Page/卓在勳.md" title="wikilink">卓在勳</a>、</p></td>
 <td><p>“跟着朋友来〈RS〉”特辑</p></td>
 <td><p><a href="../Page/柳炳宰.md" title="wikilink">柳炳宰</a>擔任特别主持。</p></td>
 </tr>
@@ -4145,7 +4145,7 @@
 <tr class="odd">
 <td><p>545</p></td>
 <td><p>11月29日</p></td>
-<td><p><a href="../Page/洪秀兒.md" title="wikilink">洪秀兒</a>、、、</p></td>
+<td><p><a href="../Page/洪秀兒.md" title="wikilink">洪秀兒</a>、<a href="../Page/金龍萬.md" title="wikilink">金龍萬</a>、、</p></td>
 <td><p>“离家出走~”特輯</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源擔任特别主持</a>。</p></td>
 </tr>
@@ -4212,7 +4212,7 @@
 <td><p>1月17日</p></td>
 <td><p>、<a href="../Page/朴元淳.md" title="wikilink">朴元淳</a>、<a href="../Page/金伊娜.md" title="wikilink">金伊娜</a>、</p></td>
 <td><p>“以为...与神同行”特辑</p></td>
-<td><p>高昌焕临时受邀代替录制前一天受伤的第四位嘉宾<a href="../Page/秦钟午.md" title="wikilink">秦钟午</a>，<br />
+<td><p>高將焕临时受邀代替录制前一天受伤的第四位嘉宾<a href="../Page/秦钟午.md" title="wikilink">秦钟午</a>，<br />
 并在下部时因公演提早离席[5]。</p></td>
 </tr>
 <tr class="even">
@@ -4239,7 +4239,7 @@
 <tr class="odd">
 <td><p>556</p></td>
 <td><p>2月21日</p></td>
-<td><p><a href="../Page/李起光.md" title="wikilink">李起光</a> (<a href="../Page/Highlight_(韓國組合).md" title="wikilink">Highlight</a>)、<a href="https://zh.wikipedia.org/wiki/朴圣光" title="wikilink">朴圣光</a>、<a href="../Page/San_E.md" title="wikilink">San E</a>、<a href="../Page/金知元_(饒舌者).md" title="wikilink">Bobby</a> (<a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a>)</p></td>
+<td><p><a href="../Page/李起光.md" title="wikilink">李起光</a> (<a href="../Page/Highlight_(韓國組合).md" title="wikilink">Highlight</a>)、<a href="../Page/朴聖光.md" title="wikilink">朴聖光</a>、<a href="../Page/San_E.md" title="wikilink">San E</a>、<a href="../Page/金知元_(饒舌者).md" title="wikilink">Bobby</a> (<a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a>)</p></td>
 <td><p>“我不在乎~我行我素！”特辑</p></td>
 <td></td>
 </tr>
@@ -4387,34 +4387,34 @@
 <td><p>577</p></td>
 <td><p>8月8日</p></td>
 <td><p><a href="../Page/李幼梨.md" title="wikilink">李幼梨</a>、<a href="../Page/宋昶儀.md" title="wikilink">宋昶儀</a>、、<a href="../Page/安普賢.md" title="wikilink">安普賢</a></p></td>
-<td></td>
+<td><p>“<a href="https://zh.wikipedia.org/wiki/捉迷藏_(韓國電視劇)" title="wikilink">捉迷藏</a>: 宣传真是绝了”特輯</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>578</p></td>
 <td><p>8月15日</p></td>
-<td><p><a href="../Page/金完宣.md" title="wikilink">金完宣</a>、、、<a href="https://zh.wikipedia.org/wiki/朱浩民" title="wikilink">朱浩民</a></p></td>
-<td></td>
+<td><p><a href="../Page/金完宣.md" title="wikilink">金完宣</a>、、、<a href="../Page/周灝旻.md" title="wikilink">周灝旻</a></p></td>
+<td><p>“今夜很可怕”特輯</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>579</p></td>
 <td><p>8月22日</p></td>
 <td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a>、、<a href="../Page/權赫秀.md" title="wikilink">權赫秀</a>、楊治勝</p></td>
-<td></td>
+<td><p>“希望拥有与你相似的身身身材”特輯</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>580</p></td>
 <td><p>8月29日</p></td>
 <td><p><a href="../Page/裴斗娜.md" title="wikilink">裴斗娜</a>、、、<a href="../Page/斯蒂芬妮·李.md" title="wikilink">Stephanie Lee</a></p></td>
-<td></td>
+<td><p>“漂洋过海的明星”特輯</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>581</p></td>
 <td><p>9月5日</p></td>
-<td><p>、<a href="../Page/尹正秀.md" title="wikilink">尹正秀</a>、、<a href="https://zh.wikipedia.org/wiki/李昇潤" title="wikilink">李昇潤</a></p></td>
+<td><p>、<a href="../Page/尹正秀.md" title="wikilink">尹正秀</a>、、</p></td>
 <td><p>“我我我我 很自由”特輯</p></td>
 <td></td>
 </tr>
@@ -4477,7 +4477,7 @@
 <tr class="odd">
 <td><p>590</p></td>
 <td><p>11月7日</p></td>
-<td><p>李相璧、<a href="../Page/吳英實.md" title="wikilink">吳英實</a>、許參、<a href="../Page/Boom_(藝人).md" title="wikilink">Boom</a></p></td>
+<td><p>、<a href="../Page/吳英實.md" title="wikilink">吳英實</a>、、<a href="../Page/Boom_(藝人).md" title="wikilink">Boom</a></p></td>
 <td><p>“20世紀MC”特輯</p></td>
 <td></td>
 </tr>
@@ -4491,7 +4491,7 @@
 <tr class="odd">
 <td><p>592</p></td>
 <td><p>11月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴广贤" title="wikilink">朴广贤</a>、、<a href="https://zh.wikipedia.org/wiki/金铉哲" title="wikilink">金铉哲</a>、<a href="https://zh.wikipedia.org/wiki/许卿焕" title="wikilink">许卿焕</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴广贤" title="wikilink">朴广贤</a>、、<a href="https://zh.wikipedia.org/wiki/金铉哲" title="wikilink">金铉哲</a>、<a href="../Page/許卿煥.md" title="wikilink">許卿煥</a></p></td>
 <td><p>“听·见JOB”特辑</p></td>
 <td></td>
 </tr>
@@ -4512,7 +4512,7 @@
 <tr class="even">
 <td><p>595</p></td>
 <td><p>12月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張允珠" title="wikilink">張允珠</a>、金元中、<a href="../Page/洪真英.md" title="wikilink">洪真英</a>、<a href="../Page/DinDin.md" title="wikilink">DinDin</a></p></td>
+<td><p><a href="../Page/張允柱.md" title="wikilink">張允柱</a>、金元中、<a href="../Page/洪真英.md" title="wikilink">洪真英</a>、<a href="../Page/DinDin.md" title="wikilink">DinDin</a></p></td>
 <td><p>“以兴致火起来了”特辑</p></td>
 <td></td>
 </tr>
@@ -4577,7 +4577,7 @@
 <tr class="odd">
 <td><p>602</p></td>
 <td><p>1月30日</p></td>
-<td><p><a href="../Page/孝琳.md" title="wikilink">孝琳</a>（<a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>）、<a href="https://zh.wikipedia.org/wiki/华莎" title="wikilink">华莎</a>（<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>）、<a href="../Page/朴善英.md" title="wikilink">Luna</a>（<a href="https://zh.wikipedia.org/wiki/f(x)" title="wikilink">f(x)</a>）、</p></td>
+<td><p><a href="../Page/孝琳.md" title="wikilink">孝琳</a>（<a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>）、<a href="../Page/華莎.md" title="wikilink">華莎</a>（<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>）、<a href="../Page/朴善英.md" title="wikilink">Luna</a>（<a href="https://zh.wikipedia.org/wiki/f(x)" title="wikilink">f(x)</a>）、</p></td>
 <td><p>“一定要那样心里才痛快吗！”特辑</p></td>
 <td></td>
 </tr>
@@ -4787,7 +4787,7 @@
 <tr class="odd">
 <td><p>632</p></td>
 <td><p>8月28日</p></td>
-<td><p>、<a href="../Page/鄭泰祐.md" title="wikilink">鄭泰祐</a>、 (<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)、韩泰雄</p></td>
+<td><p>、<a href="../Page/鄭泰祐.md" title="wikilink">鄭泰祐</a>、<a href="https://zh.wikipedia.org/wiki/玄勝熙" title="wikilink">玄勝熙</a> (<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)、韩泰雄</p></td>
 <td><p>“从小就干得好”特輯</p></td>
 <td></td>
 </tr>
@@ -4818,6 +4818,69 @@
 <td><p><a href="../Page/吳允兒.md" title="wikilink">吳允兒</a>、、<a href="../Page/Irene_(模特).md" title="wikilink">Irene Kim</a>、<a href="https://zh.wikipedia.org/wiki/河升镇" title="wikilink">河升镇</a></p></td>
 <td><p>“人体探险特辑-巨人的世界”特輯</p></td>
 <td><p><a href="../Page/金範洙.md" title="wikilink">金範洙</a>擔任特别主持。</p></td>
+</tr>
+<tr class="even">
+<td><p>637</p></td>
+<td><p>10月2日</p></td>
+<td><p><a href="../Page/金應洙.md" title="wikilink">金應洙</a>、、<a href="../Page/Car,_the_garden.md" title="wikilink">Car, the garden</a>、Bassagong</p></td>
+<td><p>“外壳脱掉”特輯</p></td>
+<td><p><a href="../Page/鄭在炯.md" title="wikilink">鄭在炯</a>擔任特别主持。</p></td>
+</tr>
+<tr class="odd">
+<td><p>638</p></td>
+<td><p>10月9日</p></td>
+<td><p><a href="../Page/亨敦和大俊.md" title="wikilink">亨敦和大俊</a> (<a href="../Page/鄭亨敦.md" title="wikilink">鄭亨敦</a>、<a href="../Page/Defconn.md" title="wikilink">Defconn</a>)、<a href="../Page/金軟景.md" title="wikilink">金軟景</a>、</p></td>
+<td><p>“王位的游戏”特輯</p></td>
+<td><p><a href="../Page/權律.md" title="wikilink">權律</a>擔任特别主持。</p></td>
+</tr>
+<tr class="even">
+<td><p>639</p></td>
+<td><p>10月16日</p></td>
+<td><p><a href="../Page/李素拉.md" title="wikilink">李笑羅</a>、<a href="../Page/Fly_to_the_Sky.md" title="wikilink">Fly to the Sky</a> (<a href="../Page/朱玟奎.md" title="wikilink">Brian</a>、<a href="../Page/黃倫碩.md" title="wikilink">煥熙</a>)、</p></td>
+<td><p>“闲着干嘛呢”特輯</p></td>
+<td><p><a href="../Page/李相燁.md" title="wikilink">李相燁</a>擔任特别主持。</p></td>
+</tr>
+<tr class="odd">
+<td><p>640</p></td>
+<td><p>10月23日</p></td>
+<td><p><a href="../Page/嚴弘吉.md" title="wikilink">嚴弘吉</a>、、、<a href="../Page/韓寶凜.md" title="wikilink">韓寶凜</a></p></td>
+<td><p>“翻山的傢伙們”特輯</p></td>
+<td><p>擔任特别主持。</p></td>
+</tr>
+<tr class="even">
+<td><p>641</p></td>
+<td><p>10月30日</p></td>
+<td><p><a href="../Page/盧士燕.md" title="wikilink">盧士燕</a>、、<a href="../Page/Boom_(藝人).md" title="wikilink">Boom</a>、<a href="https://zh.wikipedia.org/wiki/田小娟" title="wikilink">田小娟</a> (<a href="../Page/(G)I-DLE.md" title="wikilink">(G)I-DLE</a>)</p></td>
+<td><p>“说吧! Yes or No”特輯</p></td>
+<td><p><a href="../Page/朱玟奎.md" title="wikilink">Brian擔任特别主持</a>。</p></td>
+</tr>
+<tr class="odd">
+<td><p>642</p></td>
+<td><p>11月6日</p></td>
+<td><p><a href="../Page/趙顯宰.md" title="wikilink">趙顯宰</a>、<a href="../Page/金成恩.md" title="wikilink">金成恩</a>、<a href="../Page/韓尚進.md" title="wikilink">韓尚進</a>、</p></td>
+<td><p>“家和萬事興”特輯</p></td>
+<td><p><a href="../Page/Defconn.md" title="wikilink">Defconn</a>擔任特别主持。</p></td>
+</tr>
+<tr class="even">
+<td><p>643</p></td>
+<td><p>11月13日</p></td>
+<td><p><a href="../Page/張聖圭.md" title="wikilink">張聖圭</a>、 、<a href="../Page/金曉鐘.md" title="wikilink">DAWN</a>、</p></td>
+<td><p>“T.M.P Too Much People”特輯</p></td>
+<td><p><a href="../Page/俞世潤.md" title="wikilink">俞世潤</a>擔任特别主持。</p></td>
+</tr>
+<tr class="odd">
+<td><p>644</p></td>
+<td><p>11月20日</p></td>
+<td><p><a href="../Page/金英玉.md" title="wikilink">金英玉</a>、 、、</p></td>
+<td><p>“大婶Crush”特輯</p></td>
+<td><p><a href="../Page/Boom_(藝人).md" title="wikilink">Boom擔任特别主持</a>。</p></td>
+</tr>
+<tr class="even">
+<td><p>645</p></td>
+<td><p>11月27日</p></td>
+<td><p><a href="../Page/金烔完.md" title="wikilink">金烔完</a> (<a href="https://zh.wikipedia.org/wiki/神话_(组合)" title="wikilink">神话</a>)、<a href="../Page/朴芝潤.md" title="wikilink">朴芝潤</a> 、<a href="../Page/徐孝琳.md" title="wikilink">徐孝琳</a>、<a href="../Page/金智淑_(藝人).md" title="wikilink">智淑</a></p></td>
+<td><p>“我獨自在做”特輯</p></td>
+<td><p>擔任特别主持。</p></td>
 </tr>
 </tbody>
 </table>

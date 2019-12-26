@@ -800,18 +800,13 @@ COCP-39172:通常盤</p></td>
 [Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink") [Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink") [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
 6.  此名稱的由來是因為以前曾在SHIBUYA-AX的吧台打工，但是因為偷懶沒有工作而是白看演唱會而被開除的關係。
-
 7.
 8.
-
 9.
 10.
 11.
@@ -820,9 +815,7 @@ COCP-39172:通常盤</p></td>
 14.
 15.
 16.
-
 17.
 18.
 19. [LOVE & ROCK](http://tv.nottv.jp/music/loverock/)
-
 20.

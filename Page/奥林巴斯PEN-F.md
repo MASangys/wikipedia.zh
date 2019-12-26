@@ -51,9 +51,7 @@ PEN-F 受到诟病的一点，是高昂的定价策略。上市时$1199/￥8000�
 [Category:奥林巴斯无反可交换镜头数码相机](https://zh.wikipedia.org/wiki/Category:奥林巴斯无反可交换镜头数码相机 "wikilink") [Category:2016年面世的相機](https://zh.wikipedia.org/wiki/Category:2016年面世的相機 "wikilink")
 
 1.  [《M43机身的流水账》](http://www.jianshu.com/p/9c8d2a13f921)
-
 2.
 3.  [History Repeating: Olympus PEN-F Review](https://www.dpreview.com/reviews/olympus-pen-f) - DP Review
-
 4.
 5.  [OLYMPUS PEN-F 試行錯誤を経て実現したデザインと内部機構の両立](http://dc.watch.impress.co.jp/docs/news/dcm/758231.html) - DC Watch Impress

@@ -28,6 +28,57 @@ Gen.G参加了2018年的英雄联盟全球总决赛，尽管作为卫冕冠军�
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>Rascal</p></td>
+<td><p>金光熙</p></td>
+<td><p>上路</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Clid</p></td>
+<td><p>金太敏</p></td>
+<td><p>打野</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Bdd</p></td>
+<td><p>郭普成</p></td>
+<td><p>中路</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Ruler</p></td>
+<td><p>朴載赫</p></td>
+<td><p>ADC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Life</p></td>
+<td><p>金玎玟</p></td>
+<td><p>輔助</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 過往成員
+
+<table>
+<thead>
+<tr class="header">
+<th><p>ID</p></th>
+<th><p>名字[5]</p></th>
+<th><p>位置</p></th>
+<th><p>生日</p></th>
+<th><p>國籍</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
 <td><p>CuVee</p></td>
 <td><p>李聖-{zh-hans:眞;zh-hant:眞}-</p></td>
 <td><p>上路</p></td>
@@ -77,45 +128,17 @@ Gen.G参加了2018年的英雄联盟全球总决赛，尽管作为卫冕冠军�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Ruler</p></td>
-<td><p>朴載赫</p></td>
-<td><p>ADC</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Life</p></td>
-<td><p>金玎玟</p></td>
-<td><p>輔助</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>Asper</p></td>
 <td><p>金太基</p></td>
 <td><p>輔助</p></td>
 <td></td>
 <td></td>
 </tr>
-</tbody>
-</table>
-
-### 過往成員
-
-<table>
-<thead>
-<tr class="header">
-<th><p>ID</p></th>
-<th><p>名字[5]</p></th>
-<th><p>位置</p></th>
-<th><p>國籍</p></th>
-</tr>
-</thead>
-<tbody>
 <tr class="odd">
 <td><p>Mong</p></td>
 <td><p>文彰敏</p></td>
 <td><p>上路</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -123,11 +146,13 @@ Gen.G参加了2018年的英雄联盟全球总决赛，尽管作为卫冕冠军�
 <td><p>姜贊鎔</p></td>
 <td><p>打野</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Haru</p></td>
 <td><p>姜珉丞[6]</p></td>
 <td><p>打野</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -135,11 +160,13 @@ Gen.G参加了2018年的英雄联盟全球总决赛，尽管作为卫冕冠军�
 <td><p>李民晧</p></td>
 <td><p>中路</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>CoreJJ</p></td>
 <td><p>曺容仁</p></td>
 <td><p>輔助</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -151,9 +178,11 @@ Gen.G俱乐部是[守望先锋联赛](../Page/守望先锋联赛.md "wikilink")�
 
 ## 绝地求生
 
-Gen.G曾经拥有Gen.G Gold与Gen.G Black两支绝地求生战队，其中Gen.G Gold获得了2018年绝地求生全球邀请赛TPP（第三人称）模式的冠军。 2019年獲得MET亞洲系列賽冠軍。
+Gen.G曾经拥有Gen.G Gold与Gen.G Black两支绝地求生战队，其中Gen.G Gold获得了2018年绝地求生全球邀请赛TPP（第三人称）模式的冠军。
 
 现在两支队伍已经合并，以Gen.G名义参赛。
+
+2019年Gen.G獲得MET亞洲系列賽冠軍、PGC世界賽冠軍
 
 <table>
 <thead>

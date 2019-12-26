@@ -36,9 +36,7 @@ CYaRon！的成員有：高海千歌（聲：[伊波杏樹](../Page/伊波杏樹
 [Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink") [Category:LoveLive\!音樂](https://zh.wikipedia.org/wiki/Category:LoveLive!音樂 "wikilink") [Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.

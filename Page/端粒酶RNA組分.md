@@ -47,16 +47,10 @@
 [Category:非編碼RNA](https://zh.wikipedia.org/wiki/Category:非編碼RNA "wikilink") [Category:端粒](https://zh.wikipedia.org/wiki/Category:端粒 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.

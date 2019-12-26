@@ -48,7 +48,7 @@
 19. [韬睿 Colibri VF50/VF61 SoMs 基于 飞思卡尔 Vybrid SoCs](http://www.cnx-software.com/2013/12/15/toradex-colibri-vf50vf61-soms-powered-by-freescale-vybrid-socs-sell-for-as-low-as-19-euros/)
 20. [韬睿 Colibri T30 计算机模块 将在12年第四季度供货](http://presswire.com/pr/toradex/Toradex-Press%20Release_%20Embedded_World_2012.pdf)
 21. [韬睿为不断壮大的基于 ARM 的模块系列增加Apalis iMX6](http://efytimes.com/e1/131572/Toradex-Adds-Apalis-iMX-To-Its-Growing-List-Of-ARM-Powered-Modules)
-22. [韬睿将发布计算机载板综合高速硬件设计指导](http://eecatalog.com/digital-signage/2013/08/06/toradex-is-announcing-a-comprehensive-high-speed-hardware-design-guide-for-computer-carrier-boards/)
+22.
 23. [韬睿发布开源 Viola 定制化单板电脑，发表于 EFY Times](http://efytimes.com/e1/142360/Toradex-Launches-Open-Source-Viola-A-New-Concept-For-UltraLow-Cost-Customized-SingleBoard-Computers-SBC-Starting-At-INR)
 24. [韬睿基于 飞思卡尔 Vybrid 和 i.MX6 的定制化单板电脑，发表于CNXSoft News](http://www.cnx-software.com/2014/06/30/toradex-customized-single-board-computers-freescale-vybrid-imx6/)
 25.

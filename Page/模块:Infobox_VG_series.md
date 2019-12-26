@@ -9,12 +9,12 @@ local parameterList = {
 `   `
 `   { label = '`[`类型`](../Page/电子游戏类型.md "wikilink")`'; 'genre' },`
 `   { label = '`[`开发`](../Page/游戏开发者.md "wikilink")`'; 'developer' },`
-`   { label = '`[`发行`](../Page/游戏发行商.md "wikilink")`'; 'publisher'},`
+`   { label = '`[`发行`](https://zh.wikipedia.org/wiki/游戏发行商 "wikilink")`'; 'publisher'},`
 `   { label = '创始人'; 'producer', 'creator', 'creater' },`
 `   { label = '编剧'; 'writer' },`
 `   { label = '美术'; 'artist'},`
 `   { label = '音乐'; 'composer' },   `
-`   { label = '`[`平台`](../Page/游戏平台.md "wikilink")`'; 'platform', 'platforms' },`
+`   { label = '`[`平台`](https://zh.wikipedia.org/wiki/游戏平台 "wikilink")`'; 'platform', 'platforms' },`
 `   { label = '首版平台'; 'platform of origin' },`
 `   { label = '首发时间'; 'released', 'release' },`
 `   { label = '首作'; 'first release version', 'first release date' },`
@@ -26,8 +26,7 @@ local parameterList = {
 
 local p = {}
 
-local getArgs = require('Module:Arguments').getArgs local infobox =
-require('Module:Infobox').infobox
+local getArgs = require('Module:Arguments').getArgs local infobox = require('Module:Infobox').infobox
 
 local function getData(args, idx)
 

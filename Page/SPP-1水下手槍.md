@@ -85,24 +85,16 @@ SPP-1M手槍基本上與SPP-1相同，但有著以下的不同之處：\[7\]
 [Category:多管槍械](https://zh.wikipedia.org/wiki/Category:多管槍械 "wikilink") [Category:單發手槍](https://zh.wikipedia.org/wiki/Category:單發手槍 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
 
 1.  Popenker, Max R. "[SPP-1 underwater pistol](http://world.guns.ru/handguns/hg140-e.htm) ", *[world.guns.ru](https://zh.wikipedia.org/wiki/world.guns.ru "wikilink")*, Retrieved 2010-04-05''
-
 2.  “[4.5-mm SPS underwater fire cartridge](http://www.tsniitochmash.ru/paten.htm) ”, *Tsniitochmash*, Retrieved 2010-04-05''
-
 3.  [YouTube](../Page/YouTube.md "wikilink").com—[全世界最好的水下步枪在这里, 中国仿制的落后30年, 只学了个皮毛](https://www.youtube.com/watch?v=BfztyzBsTQc)
-
 4.
 5.  ”[Firearms Technical Trivia](http://www.cruffler.com/trivia-November01.html)”, *cruffler.com*, November 2001, Retrieved 2010-04-05
-
 6.
 7.  “[SPP-1 and SPP-1M underwater pistol 4.5mm](http://www.securityarms.com/20010315/galleryfiles/2100/2153.htm)”, *www.securityarms.com*, Retrieved 2010-04-05''
-
 8.
 9.  Popenker, Max R. "[APS underwater assault rifle (5.6x39 mm MPS)](http://world.guns.ru/assault/as69-e.htm) ", *world.guns.ru*, Retrieved 2010-04-05
-
 10. “[4.5-mm SPP-1M Underwater Pistol](http://www.tsniitochmash.ru/wen.htm) ”, *[TsNIITochMash](https://zh.wikipedia.org/wiki/TsNIITochMash "wikilink")*, Retrieved 2010-04-05''
-
 11. “[Special Submarine Pistol SPP-1M](http://www.tulatoz.ru/en/milspp.html) ”, *Tulsky Oruzheiny Zavod (TOZ), Tula Arms Plant*, Retrieved 2010-04-05
-
 12.
 13.
 14. [СПЕЦНАЗ СНБ УЗБЕКИСТАНА-НА СТРАЖЕ МИРА ПРОФЕССИОНАЛЫ](https://m.ok.ru/video/66366383702196-0)

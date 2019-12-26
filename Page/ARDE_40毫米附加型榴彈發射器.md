@@ -58,5 +58,4 @@
 
 1.
 2.  [Asian Military Review—INFANTRY SUPPORT WEAPONS](http://www.asianmilitaryreview.com/infantry-support-weapons/)
-
 3.

@@ -35,7 +35,7 @@
   -
 ## 科技
 
-  - ，一种胆汁酸
+  - [脱氧胆酸](https://zh.wikipedia.org/wiki/脱氧胆酸 "wikilink")，一种胆汁酸
 
   - ，一种统计技术
 

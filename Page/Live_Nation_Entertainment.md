@@ -11,9 +11,6 @@
 [Category:娛樂公司](https://zh.wikipedia.org/wiki/Category:娛樂公司 "wikilink") [Category:售票公司](https://zh.wikipedia.org/wiki/Category:售票公司 "wikilink") [Category:2010年成立的公司](https://zh.wikipedia.org/wiki/Category:2010年成立的公司 "wikilink") [Category:洛杉磯公司](https://zh.wikipedia.org/wiki/Category:洛杉磯公司 "wikilink") [Category:紐約證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:紐約證券交易所上市公司 "wikilink") [Category:2010年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2010年加利福尼亞州建立 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

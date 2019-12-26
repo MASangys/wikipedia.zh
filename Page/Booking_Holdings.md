@@ -23,24 +23,14 @@ Booking Holdings的前身是Priceline集團，到2018年二月正式改名。\[1
 [Category:线上旅行社](https://zh.wikipedia.org/wiki/Category:线上旅行社 "wikilink") [Category:納斯達克100指數成分股](https://zh.wikipedia.org/wiki/Category:納斯達克100指數成分股 "wikilink") [Category:標準普爾500指數成分股](https://zh.wikipedia.org/wiki/Category:標準普爾500指數成分股 "wikilink") [Category:美国互联网公司](https://zh.wikipedia.org/wiki/Category:美国互联网公司 "wikilink") [Category:1999年IPO](https://zh.wikipedia.org/wiki/Category:1999年IPO "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.

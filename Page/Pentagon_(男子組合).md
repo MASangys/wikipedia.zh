@@ -264,15 +264,15 @@ E'Dawn、Kino、Hui(2013年10月)、Yeo One(2013年11月)、信源、禹奭、Yu
 
 **迷你專輯**
 
-  - 2016年：Pentagon
   - 2016年：
-  - 2017年：Ceremony
+  - 2016年：
   - 2017年：
-  - 2017年：Demo_02
-  - 2018年：Positive
-  - 2018年：Thumbs Up\!
+  - 2017年：
+  - 2017年：
+  - 2018年：
+  - 2018年：
   - 2019年：[Genie:us](../Page/Genie:us.md "wikilink")
-  - 2019年：Sum(me:r)
+  - 2019年：
 
 **單曲專輯**
 
@@ -282,7 +282,7 @@ E'Dawn、Kino、Hui(2013年10月)、Yeo One(2013年11月)、信源、禹奭、Yu
 
 **迷你專輯**
 
-  - 2017年：Gorilla
+  - 2017年：
   - 2018年：Violet
   - 2018年：Shine
 
@@ -304,6 +304,7 @@ E'Dawn、Kino、Hui(2013年10月)、Yeo One(2013年11月)、信源、禹奭、Yu
   - 2017年－2019年：PENTAGON的TNL
   - 2017年－2019年：Pentory
   - 2018年－2019年：Just Do It Yo\!
+  - 2019年－：PRISM LOG
 
 ## 公演活動
 
@@ -326,9 +327,10 @@ E'Dawn、Kino、Hui(2013年10月)、Yeo One(2013年11月)、信源、禹奭、Yu
 | 9月20日  | 第1屆 Soribada Best K-Music Awards                               | 新人獎                                    | \[144\]                     |         |
 | 9月24日  | 10th KMF 2017                                                  | Rising star Award                      | \[145\]                     |         |
 | 2018   | 11月28日                                                         | 2018 Korea Culture Entertainment Award | KPop Singer Award           | \[146\] |
-| 12月20日 | 2018 KOREA POPULAR MUSIC AWARDS                                | 大眾歌唱實演獎                                |                             |         |
-| 2019   | 6月9日                                                           | Asia Model Festival Awards             | Popular Star Award (Singer) |         |
+| 12月20日 | 2018 KOREA POPULAR MUSIC AWARDS                                | 大眾歌唱實演獎                                | \[147\]                     |         |
+| 2019   | 6月9日                                                           | Asia Model Festival Awards             | Popular Star Award (Singer) | \[148\] |
 | 8月1日   | [M2 X Genie Music Awards](../Page/M2_X_Genie音樂獎.md "wikilink") | M2 Hot Star Award                      |                             |         |
+| 11月5日  | 2019 Korea Volunteer Awards 韓國奉仕大賞                             | 本賞                                     | \[149\]\[150\]              |         |
 
 ### 韓國主要音樂節目排行榜
 
@@ -433,291 +435,152 @@ E'Dawn、Kino、Hui(2013年10月)、Yeo One(2013年11月)、信源、禹奭、Yu
 [Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:PENTAGON](https://zh.wikipedia.org/wiki/Category:PENTAGON "wikilink") [Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink") [Category:Cube娛樂旗下團體](https://zh.wikipedia.org/wiki/Category:Cube娛樂旗下團體 "wikilink")
 
 1.  [PENTAGON今正式出道 CUBE時隔四年推新男團](http://www.allthatstar.com/tw/view.php?action=5212&postID=280298) 2016-10-10
-
 2.  [171213 SBS NCT Night Night 訪問 手勢由來](https://www.youtube.com/watch?v=TCd2W_Dep5g) 2017-12-18
-
 3.  [Show Champion 口號意思](https://www.youtube.com/watch?v=fedXshDnA44&feature=youtu.be&t=37s) ，2016-11-08
-
 4.  [PENTAGON MAKER 160607 EP.6](https://www.youtube.com/watch?v=kFDa1Nlfiu8) ，2016-6-7
-
 5.  [官方團體口號(登入閱讀)](http://cafe.daum.net/cube-pentagon/fkdB/18) ，2016-10-12
-
 6.  [PENTAGON 官方推特發文暱稱](https://twitter.com/CUBE_PTG/status/788641317563674624) ，2016-10-19
-
 7.  [PENTAGON Official Color](https://twitter.com/CUBE_PTG/status/928820544060891137) 2017-11-10
-
 8.  [PENTAGON Official Slogan](https://cubee.co.kr/shop/shopdetail.html?branduid=581057)2017-11-10
-
 9.  [PENTAGON Official Lightstick and Slogan ver 2](https://twitter.com/CUBE_PTG/status/928880139571621891) 2017-11-10
-
-10. [PENTAGON 官方粉絲名：UNIVERSE](http://kpopn.niusnews.com/=K32fjt83) 2017-3-9
-
+10. [PENTAGON 官方粉絲名：UNIVERSE](http://kpopn.niusnews.com/=K32fjt83)  2017-3-9
 11. [官方粉絲名提名](http://www.vlive.tv/video/21941) 2017-1-31
-
 12. [官方粉絲名投票](http://cafe.daum.net/cube-pentagon/fkdB/54) 2017-1-31
-
 13. [官方歌迷名稱標誌](https://twitter.com/CUBE_PTG/status/839069531435737088) ，2017-3-7
-
-14. [Pentagon 10候選人曝光 讚越多出道機會越大](http://mwave.interest.me/tw/kpop-news/article/105069) 2016-05-03
-
+14. [Pentagon 10候選人曝光 讚越多出道機會越大](http://mwave.interest.me/tw/kpop-news/article/105069)  2016-05-03
 15. [PENTAGON MAKER EP9 Dorm A](https://www.youtube.com/watch?v=7w5lFQiDFjg) 2016-6-27
-
 16. [K-Star Interview (A宿舍像小狗,B宿舍像小貓)](https://www.youtube.com/watch?v=MD05SycjkRo) 2016-10-13
-
 17. [PENTAGON MAKER EP9 Dorm B](https://www.youtube.com/watch?v=ciJiO0sHkTA) 2016-6-27
-
 18. [Soompi Exclusive Interview (練習生時10人同住,出道時分兩宿舍)](https://www.youtube.com/watch?v=9Wct3w8RCSE) 2016-11-24
-
 19. [180311 키노의 미디강좌 珍虎 Kino 工作室](http://www.vlive.tv/video/62558) 2018-3-11
-
 20. [180309 鍵盤上的鬣狗 Hui 工作室](https://www.youtube.com/watch?v=eBgU30XONH0) 2018-3-9
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31. [珍虎個人 V Live 7分鐘起](http://www.vlive.tv/video/9117) 2016-05-31
-
 32. [珍虎個人 V Live](http://www.vlive.tv/video/68989) 2018-04-28
-
 33. [S.M.The Ballad Profiles](http://www.dkpopnews.net/2011/05/sm-ballad-profiles.html) 2011-5-13
-
 34. [SM The Ballad Jino's Pre-debut photos surprises fans](http://www.dkpopnews.net/2010/12/news-sm-ballad-jinos-pre-debut.html) 2010-12-04
-
 35.
-
 36.
-
 37.
-
 38. [Modern K 公告導師珍虎及學生Hui出道](http://www.modernm.co.kr/community/contents/post/view/10315) 2016-10-11
-
 39.
-
 40. [Pentagon Mini Live 37分開始](http://www.vlive.tv/video/10997?channelCode=F2C18D) 2016-07-09
-
 41. [SM出身的JINO-YG出身梁洪碩正式出道 我們選擇Cube的原因是](http://chinese.kpopstarz.com/trad/articles/139713/20161010/pentagon.htm) 2016-10-10
-
 42. [Pentagon 教科書 EP 4 37分起](http://www.vlive.tv/video/16069?channelCode=F2C18D) 2016-10-30
-
 43. [PENTAGON(펜타곤) - PENTORY(펜토리) Ep. 22 ('Like This' 첫방 비하인드 PART 1)](https://www.youtube.com/watch?v=-oZ7ccFd0dg&feature=youtu.be&t=6m10s) 2017-09-25
-
 44. [100919 JYP公開選拔7期 Final Round 男子歌唱](http://tv.kakao.com/channel/2658164/cliplink/26538496) 2010-09-31
-
 45. [100919 JYP公開選拔7期 Final Round 男子歌唱 Part 1](http://tv.kakao.com/channel/2658164/cliplink/27166009) 2010-09-29
-
 46. [100919 JYP公開選拔7期 Final Round 男子歌唱 Part 2](http://tv.kakao.com/channel/2658164/cliplink/27165995) 2010-09-29
-
 47. [JYP公開選拔7期 Final Round 男子歌唱 第一名](http://tv.kakao.com/channel/2658164/cliplink/27438715) 2010-10-11
-
 48. [Hui 原本是JYP練習生 能出道就像命運一般](http://www.kpopstarz.cn/articles/175745/20170503/triple-h.htm) 2017-05-03
-
 49.
-
 50.
-
 51.
-
 52. [Star in Modern K Audition 結果](http://cafe.naver.com/apmusic/125579) 2013-09-18
-
 53.
 54.
-
 55. ，始於27分
-
 56.
-
 57. [The Star Profile Hong Seok](http://entertain.naver.com/read?oid=023&aid=0003289933)  2017-06-20
-
 58.
-
 59. [HUM x JYP公開選拔9期 Final Round 男子模特](http://tv.kakao.com/channel/2658164/cliplink/39909543) 2012-02-08
-
 60.
-
 61.
-
 62. [HUM x JYP公開選拔9期 Final Round 男子舞蹈](http://tv.kakao.com/channel/2658164/cliplink/39908857) 2012-02-08
-
 63. 2013-8-10
-
 64. [2013 Street Style Model](http://blog.naver.com/lefas/20195069847) 2013-09-04
-
 65. [MALE IDOL WHO USED TO WORK AT BWCW AS A PART TIMER](http://www.instiz.net/pt/4159730) 2016-10-25
-
 66.
-
 67.
-
 68.
-
 69. 日本BS TV，韓流ザップ，Pentagon訪問，Yuto表示由於喜歡K-Pop文化，所以15歲時前往韓國當練習生，2018-1-16
-
 70. [信濃日報，長野縣地區報，安達祐人訪問](https://twitter.com/CUBE_PTG_JAPAN/status/956406334437511168)，Yuto 表示初中二年級時，第一次參加韓國經紀公司選拔但不及格，高中一年級時，第三次參加選拔及格，於2014年1月，15年歲時，前往韓國生活，2018-1-20
-
 71. ，ONF成員水口裕斗表示兩人曾是同社練習生，水口裕斗為前JYP練習生。2017-08-20
-
 72. ，MXM成員金東賢表示JYP練習生時期，兩人曾經同住一宿舍。
-
 73. [Urban Boyz If You Wonder](https://www.youtube.com/watch?v=9mbeRTGOdMU) 2013-6-7
-
 74. [NY Showcase Urban boys](https://www.youtube.com/watch?v=B4Yiaj0_ST8) 2013-6-27
-
 75. [SO CHOREOGRAPHY](https://www.youtube.com/watch?v=zVO9Oy0mask) 2013-7-7
-
 76. [FEEDBACK WORKSHOP](https://www.youtube.com/watch?v=fhASKmCAT6Y&feature=youtu.be&t=1m17s) 2014-2-9
-
 77. [FEEDBACK WORKSHOP](https://www.youtube.com/watch?v=TLwh6xAfD9M&feature=youtu.be&t=16s) 2014-2-9
-
 78. [Power Vocal Academy 出道歌手](http://www.powervocal.com/Stars-Debut?PHPSESSID=000e5b9d2effd69a8e53f66fd63ec58e) 2016-10-10
-
 79. [Power Vocal公告 JYP試鏡](https://www.instagram.com/p/BE-0YFWhW7m) 2016-05-04
-
-80. [Power Vocal 公告](http://www.powervocalbusan.com/Stars-Succeed-read-29) 2013-03-07
-
+80. [Power Vocal 公告](http://www.powervocalbusan.com/Stars-Succeed-read-29)  2013-03-07
 81. [Power Vocal公告 JYP試鏡](http://www.powervocal.com/Stars-Succeed-read-51?PHPSESSID=8b32484fa99c6fc073c131455ffcb30b) 2015-04-10
-
-82. [Power Vocal公告 JYP試鏡](http://www.powervocal.com/Stars-Epilogue-read-1) 2015-05-18
-
-83. [Power Vocal 公告 Cube試鏡](http://www.powervocal.com/Stars-Succeed-read-59) 2015-04-10
-
+82. [Power Vocal公告 JYP試鏡](http://www.powervocal.com/Stars-Epilogue-read-1)  2015-05-18
+83. [Power Vocal 公告 Cube試鏡](http://www.powervocal.com/Stars-Succeed-read-59)  2015-04-10
 84. [Pentagon 教科書 EP 2 1小時7分起](http://www.vlive.tv/video/15319) 2016-10-15
-
 85. [Pops in Seoul KINO Profile](https://www.youtube.com/watch?v=yyYtajwUwgc) 2016-10-26
-
 86. [Pentagon 教科書 EP 2 30分起](http://www.vlive.tv/video/15319) 2016-10-15
-
 87. [Hot Debut CUBE Ent PENTAGON](https://www.facebook.com/dancesejong/posts/608827432626083) 2016-04-27
-
 88. [The Star 訪問](https://www.youtube.com/watch?v=3vvPj__JCdw&feature=youtu.be&t=4m35s)2017-06-22
-
 89. [Pentagon Maker EP 8 WOO SEOK](https://www.youtube.com/watch?v=rLP4fTLBivM&feature=youtu.be&t=4m25s) 2016-06-21
-
 90.
 91. [V Star 畢業禮訪問](https://www.youtube.com/watch?v=wZXed2M22qo) 2017-02-06
-
 92. [후이의 뮤직토크 \#7](http://www.vlive.tv/video/72610) 2018-05-28
-
 93. [2013 KBS Song Festival Part 2](https://www.youtube.com/watch?v=8Hhq2y4u878&feature=youtu.be&t=1m54s) 2014-01-17
-
 94. [140102 Mnet Rain Effect Ep 3](https://www.youtube.com/watch?v=ssXM8ZIU1fw) 2014-01-02
-
 95. [Pentagon Thai Showcase Behind](https://www.youtube.com/watch?v=tPoMkSfXgTA&feature=youtu.be&t=3m50s) 2017-04-19
-
 96. [James Ji Monkey King Fan Meeting](https://www.youtube.com/watch?v=VlTDR_PCszs) 2014-02-26
-
 97. [James Ji Monkey King Fan Meeting](https://www.youtube.com/watch?v=ulnBv8B3XFg) 2014-02-26
-
 98. [씨엘씨(CLC) - CLC's Love Chemistry \#2](https://www.youtube.com/watch?v=IX1CQCTjKFM) 2015-3-16
-
 99. [Rainbow Concert](http://www.instiz.net/pt?no=4157413) 2016-10-24
-
 100. [瑞麟洞孩子們 - 為了剛開始的戀人們](http://www.melon.com/album/detail.htm?albumId=2306548) 2015-02-27
-
 101. [실력파 혼성 보컬그룹 등장\! 서린동 아이들, 90년대 리메이크 프로젝트 발동](http://tenasia.hankyung.com/archives/454284) 2015-02-27
-
 102. [150928 偶像運動會 中秋足球賽](https://www.youtube.com/watch?v=5fal2iWxlzs&feature=youtu.be&t=1m22s) 2015-09-28
-
-103. [CUBE 將在2016年推出新男團？](http://kpopn.niusnews.com/=K2qyzzs4) 2015-12-31
-
+103. [CUBE 將在2016年推出新男團？](http://kpopn.niusnews.com/=K2qyzzs4)  2015-12-31
 104. [2016年偶像組合將激烈爭霸](http://www.koreastardaily.com/tc/news/72300) 2016-1-14
-
 105. [조곤조곤](https://www.vlive.tv/video/123679) 2018-04-15
-
 106.
-
 107.
-
-108. [PENTAGON 與 Dok2,Tiger JK 合作曲](http://kpopn.niusnews.com/=K2jiq607) 2016-07-10
-
-109. [CUBE 內部紛爭影響藝人活動？iHQ 回應](http://kpopn.niusnews.com/=K2qse764) 2016-07-13
-
+108. [PENTAGON 與 Dok2,Tiger JK 合作曲](http://kpopn.niusnews.com/=K2jiq607)  2016-07-10
+109. [CUBE 內部紛爭影響藝人活動？iHQ 回應](http://kpopn.niusnews.com/=K2qse764)  2016-07-13
 110. \[<http://www.kpopstarz.cn/trad/articles/145338/20161024/pentagon.htm> [http://www.kpopstarz.cn/trad/articles/145338/20161024/pentagon.htm\]2016-10-24](http://www.kpopstarz.cn/trad/articles/145338/20161024/pentagon.htm%5D2016-10-24)
-
-111. [PENTAGON 12月7日發行迷你二輯](http://kpopn.niusnews.com/=K1x4xml2) 2016-11-24
-
+111. [PENTAGON 12月7日發行迷你二輯](http://kpopn.niusnews.com/=K1x4xml2)  2016-11-24
 112.
-
-113. [PENTAGON 3月將發行首張日文迷你專輯](http://kpopn.niusnews.com/=K15dx769) 2017-2-8
-
-114. [PENTAGON 先行《Beautiful》音源](http://kpopn.niusnews.com/=K0gw8800) 2017-5-16
-
+113. [PENTAGON 3月將發行首張日文迷你專輯](http://kpopn.niusnews.com/=K15dx769)  2017-2-8
+114. [PENTAGON 先行《Beautiful》音源](http://kpopn.niusnews.com/=K0gw8800)  2017-5-16
 115. [PENTAGON Yan An 右手受傷將暫停活動](https://www.kpopn.com/2017/05/31/pentagon-yan-an-%E5%8F%B3%E6%89%8B%E5%8F%97%E5%82%B7%E5%B0%87%E6%9A%AB%E5%81%9C%E6%B4%BB%E5%8B%95/)2017-5-31
-
 116. [Triple H製作歌曲Never 8個音源排行榜 All Kill](http://entertain.naver.com/read?oid=215&aid=0000553962)2017-06-05
-
 117. [Produce排名一位Never 製作的泫雅 x Hui x E'Dawn的Triple H 再發現](http://entertain.naver.com/read?oid=312&aid=0000262841)2017-06-05
-
 118. [PENTAGON Hui對NEVER一位還沒有實感 最感謝PRODUCE 101 S2的練習生](http://entertain.naver.com/read?oid=109&aid=0003551150)2017-06-05
-
-119. [Hui：《Never》多虧有國民的兒子](http://kpopn.niusnews.com/=K318tf82)2017-06-06
-
+119. [Hui：《Never》多虧有國民的兒子](http://kpopn.niusnews.com/=K318tf82) 2017-06-06
 120. [The Best K-pop Songs of 2017: Critics' Picks](https://www.billboard.com/articles/events/year-in-music-2017/8070355/best-k-pop-songs-of-2017-top-20)2017-12-14
-
 121.
-
 122.
-
 123.
-
 124.
-
 125.
-
 126.
-
 127.
-
 128.
-
 129.
-
 130.
-
 131.
-
 132.
-
 133.
-
 134.
-
 135.
-
 136.
-
 137.
-
 138.
-
 139.
-
 140.
-
 141.
-
 142.
-
 143. [2017 아시아모델어워즈 펜타곤 뉴스타상 수상 힘 되어준 팬들 감사](http://entertain.naver.com/read?oid=057&aid=0001140190) 2017-6-24
-
 144. [SOBA Wanna One Pentagon 獲新韓流新人獎](http://www.allthatstar.com/tw/view.php?action=5205&postID=363175) 2017-9-20
-
 145. [10th KMF 2017 Special Awards授賞式](https://www.youtube.com/watch?v=-uPYnbkWxJY) 2017-9-24
-
 146. [2018 대한민국 문화연예대상에서 K-POP 가수상을](https://twitter.com/CUBE_PTG/status/1067747827680301056) 2018-11-28
+147. [워너원·레드벨벳·마마무·비투비 등 출격 준비 완료\! '2018 KPMA' 최종 라인업 공개](http://enews.imbc.com/News/RetrieveNewsInfo/250474) 2018-12-17
+148. [20190609 @ 2019 14th Asia Model Festival in Seoul](https://twitter.com/CUBE_PTG/status/1137709066350931968) 2019-06-09
+149. [한국유엔봉사단, 2019 대한민국 봉사대상 개최](https://n.news.naver.com/article/421/0004276963) 2019-10-30
+150. [20191105 대한민국봉사대상](https://twitter.com/CUBE_PTG/status/1191671846187307009) 2019-11-05

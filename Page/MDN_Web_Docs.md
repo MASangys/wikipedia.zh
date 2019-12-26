@@ -20,14 +20,9 @@ MDN本身有一個論壇，并在Mozilla IRC網絡上有一個[IRC](../Page/IRC.
 [Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.

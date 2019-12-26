@@ -269,7 +269,7 @@
 
 ## 外部連結
 
-  - [EARLY WING集團官方網站](http://www.earlywing.com/earlywinggroup/)
+  - [EARLY WING集團官方網站](https://web.archive.org/web/20140612131145/http://www.earlywing.com/earlywinggroup/)
       - [EARLY WING官方網站](http://www.earlywing.co.jp/)
       - [Ability Soul Pro官方網站](http://www.abilitysoulpro.com/)
       - [WITH LINE官方網站](http://www.withline.jp/)

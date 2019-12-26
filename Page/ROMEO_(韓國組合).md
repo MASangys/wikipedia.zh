@@ -503,7 +503,7 @@ Special</strong></p></td>
 
 <!-- end list -->
 
-  - [ROMEO 韓國官方網站](http://teamctent.com/)
+  - [ROMEO 韓國官方網站](https://web.archive.org/web/20161013131659/http://teamctent.com/)
   - [ROMEO 韓國官方倶樂部](http://cafe.daum.net/ROMEO7)
   - [ROMEO 日本官方網站](http://romeo-official.jp/)
 

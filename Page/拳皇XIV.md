@@ -25,11 +25,11 @@ KOF作為世界級別的大型商業活動，為了追求巨大經濟效益而�
 </tr>
 <tr class="even">
 <td><p>龍虎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/坂崎獠" title="wikilink">坂崎獠</a>（RYO SAKAZAKI）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/坂崎良" title="wikilink">坂崎良</a>（RYO SAKAZAKI）</p></td>
 </tr>
 <tr class="odd">
 <td><p>餓狼</p></td>
-<td><p><a href="../Page/泰瑞·柏格.md" title="wikilink">泰利·波格</a>（TERRY BOGARD）</p></td>
+<td><p><a href="../Page/泰瑞·柏格.md" title="wikilink">泰瑞·柏格</a>（TERRY BOGARD）</p></td>
 </tr>
 <tr class="even">
 <td><p>怒</p></td>
@@ -45,7 +45,7 @@ KOF作為世界級別的大型商業活動，為了追求巨大經濟效益而�
 </tr>
 <tr class="odd">
 <td><p>南鎮</p></td>
-<td><p>傑斯·侯活（GEESE HOWARD）</p></td>
+<td><p>基斯·霍華德（GEESE HOWARD）</p></td>
 </tr>
 <tr class="even">
 <td><p>女性格鬥家</p></td>
@@ -53,7 +53,7 @@ KOF作為世界級別的大型商業活動，為了追求巨大經濟效益而�
 </tr>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/金家藩.md" title="wikilink">金家藩</a>（KIM KAPHWAN）</p></td>
+<td><p><a href="../Page/金家藩.md" title="wikilink">金卡法</a>（KIM KAPHWAN）</p></td>
 </tr>
 <tr class="even">
 <td><p>超能力戰士</p></td>
@@ -93,13 +93,13 @@ KOF作為世界級別的大型商業活動，為了追求巨大經濟效益而�
 </tr>
 <tr class="odd">
 <td><p>DLC</p></td>
-<td><p>葳莆（WHIP）<br />
+<td><p>葳璞（WHIP）<br />
 <a href="../Page/山崎龍二.md" title="wikilink">山崎龍二</a>（RYUJI YAMAZAKI）<br />
 芭妮莎（VANESSA）<br />
-洛克·侯活（ROCK HOWARD）<br />
+洛克·霍華德（ROCK HOWARD）<br />
 娜吉德（NAJD）[10]<br />
 奥斯華德（OSWALD）<br />
-海頓（HEIDERN）<br />
+海迪倫（HEIDERN）<br />
 布魯·瑪莉（BLUE MARY）</p></td>
 </tr>
 <tr class="even">

@@ -67,7 +67,7 @@
   -
     初中時期的紫的學長，比紫大兩屆的學生會長，家裡開大醫院的獨生子，全國模擬考試的名次也一直名列前茅。給人一種溫柔友善的印象，但不太理解別人感受。曾單方面追求紫，雖然被紫拒絕但仍一直希望她能與自己交往，甚至還提到結婚的事情，導致紫在升上高中後對這段往事產生陰影。在畢業後一直沒與紫聯絡，後來在她與直人們在海邊進行合宿時碰見她，並再次向紫提出交往的請求，最後再次被紫拒絕。
 
-## 漫畫
+## 出版書籍
 
 <table>
 <thead>
@@ -93,39 +93,45 @@
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td></td>
-<td></td>
+<td><p>colspan="2" rowspan="7" </p></td>
 <td><p>2016年6月17日</p></td>
+<td><p>ISBN 978-4-06-382809-2</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td></td>
-<td></td>
 <td><p>2017年1月6日</p></td>
+<td><p>ISBN 978-4-06-382909-9</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
-<td></td>
-<td></td>
 <td><p>2017年7月6日</p></td>
+<td><p>ISBN 978-4-06-510023-3</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td></td>
-<td></td>
 <td><p>2018年1月5日</p></td>
+<td><p>ISBN 978-4-06-510701-0</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
-<td></td>
-<td></td>
 <td><p>2018年9月6日</p></td>
+<td><p>ISBN 978-4-06-512808-4</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
-<td></td>
-<td></td>
 <td><p>2019年3月6日</p></td>
+<td><p>ISBN 978-4-06-514805-1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2019年10月4日</p></td>
+<td><p>ISBN 978-4-06-517291-9</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -145,15 +151,10 @@
 [Category:Young_Ace](https://zh.wikipedia.org/wiki/Category:Young_Ace "wikilink") [Category:月刊Young_Magazine](https://zh.wikipedia.org/wiki/Category:月刊Young_Magazine "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.  單行本第1冊第10至11頁
-
 7.  單行本第1冊第100頁
-
 8.  單行本第1冊第13頁

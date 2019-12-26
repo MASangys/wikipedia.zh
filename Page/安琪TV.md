@@ -18,7 +18,5 @@
 [Category:印度媒體](https://zh.wikipedia.org/wiki/Category:印度媒體 "wikilink") [Category:2000年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2000年成立的电视台或电视频道 "wikilink") [Category:無廣告電視網](https://zh.wikipedia.org/wiki/Category:無廣告電視網 "wikilink")
 
 1.
-
 2.
-
 3.

@@ -1153,38 +1153,25 @@ UMBK-1260/1【DVD】</p></td>
 [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
 
 1.  [Da-iCE（ダイス）、12月12日に待望の初ＣＤリリースが決定\!\!](http://prtimes.jp/main/html/rd/p/000000262.000002481.html)，2012-11-09。
-
 2.
 3.  [Da-iCE、1stシングルはライブ定番曲「I'll be back」](http://natalie.mu/music/news/91189)，2013-05-23。
-
 4.  [ダンス＆ヴォーカルグループ“Da-iCE”待望の初シングル](http://tower.jp/article/feature_item/2013/05/08/0702)，2013-05-08。
-
 5.
 6.
 7.  <http://natalie.mu/music/news/103899>
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15. [山田孝之、『闇金ウシジマくん』映画化決定 「“寅さん”みたいにシリーズ化」\!?](http://www.oricon.co.jp/news/2000463/)，2011-08-04。
-
 16. [工業高校の女子描く「アスコーマーチ！」TVドラマ化決定](http://natalie.mu/comic/news/44679)，2011-02-08。
-
 17.
 18.
 19.
 20.
 21.
 22.
-
 23.

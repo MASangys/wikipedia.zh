@@ -1,6 +1,6 @@
 <div id="contentSub">
 
-<span class="subpages">**Music Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md "wikilink") - [2011年](../Page/Music_Café節目列表_\(2011年\).md "wikilink") - [2012年](../Page/Music_Café節目列表_\(2012年\).md "wikilink")** - **[2013年](../Page/Music_Café節目列表_\(2013年\).md "wikilink")** - **[2014年](../Page/Music_Café節目列表_\(2014年\).md "wikilink")** - **[2015年](../Page/Music_Café節目列表_\(2015年\).md "wikilink")** - **[2016年](../Page/Music_Café節目列表_\(2016年\).md "wikilink")** - **2017年** - **[2018年](../Page/Music_Café節目列表_\(2018年\).md "wikilink")** - **[2019年](../Page/Music_Café節目列表_\(2019年\).md "wikilink")**</span>
+<span class="subpages">**Music Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md "wikilink") - [2011年](../Page/Music_Café節目列表_\(2011年\).md "wikilink") - [2012年](../Page/Music_Café節目列表_\(2012年\).md "wikilink")** - **[2013年](../Page/Music_Café節目列表_\(2013年\).md "wikilink")** - **[2014年](../Page/Music_Café節目列表_\(2014年\).md "wikilink")** - **[2015年](../Page/Music_Café節目列表_\(2015年\).md "wikilink")** - **[2016年](../Page/Music_Café節目列表_\(2016年\).md "wikilink")** - **2017年** - **[2018年](../Page/Music_Café節目列表_\(2018年\).md "wikilink")** - **[2019年](../Page/Music_Café節目列表_\(2019年\).md "wikilink")** - **[2020年](https://zh.wikipedia.org/wiki/Music_Café節目列表_\(2020年\) "wikilink")**</span>
 
 </div>
 
@@ -93,7 +93,7 @@
 | 集數  | J2首播日期 | 主題                 | 嘉賓                                                                                                                                         |
 | --- | ------ | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | 340 | 10月7日  | 王嘉儀、伍富橋、丁可欣　樂壇新力軍  | [王嘉儀](../Page/王嘉儀.md "wikilink")、[伍富橋](../Page/伍富橋.md "wikilink")、[丁可欣](../Page/丁可欣.md "wikilink") |- style="background-color: \#FFFFFF" | |
-| 341 | 10月14日 | 陳蕾、谷微　歌唱比賽開展新里程    | [陳　蕾](../Page/陳蕾.md "wikilink")、[谷　微](https://zh.wikipedia.org/wiki/谷微 "wikilink") |- style="background-color: \#FFFFFF" |                 |
+| 341 | 10月14日 | 陳蕾、谷婭溦　歌唱比賽開展新里程   | [陳　蕾](../Page/陳蕾.md "wikilink")、[谷婭溦](../Page/谷婭溦.md "wikilink") |- style="background-color: \#FFFFFF" |                                   |
 | 342 | 10月21日 | 劉威煌、鄭世豪　夢想和「麵包」之取捨 | [劉威煌](../Page/劉威煌.md "wikilink")、[鄭世豪](../Page/鄭世豪.md "wikilink") |- style="background-color: \#FFFFFF" |                                  |
 | 343 | 10月28日 | 吳浩康、羅力威　憑歌訴心聲      | [吳浩康](../Page/吳浩康.md "wikilink")、[羅力威](../Page/羅力威.md "wikilink") |- style="background-color: \#FFFFFF" |                                  |
 
@@ -103,7 +103,7 @@
 | --- | ------ | ----------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | 344 | 11月4日  | 林奕匡、葉巧琳　憑歌思索人生    | [林奕匡](../Page/林奕匡.md "wikilink")、[葉巧琳](https://zh.wikipedia.org/wiki/葉巧琳 "wikilink") |- style="background-color: \#FFFFFF" | |
 | 345 | 11月11日 | JW、HANA　藉歌舒解情感煩惱  | [JW](../Page/王灝兒.md "wikilink")、[HANA](../Page/菊梓喬.md "wikilink") |- style="background-color: \#FFFFFF" |                    |
-| 346 | 11月18日 | 雷深如、羅啟聰　非一般愛情觀    | [J.Arie](../Page/雷深如.md "wikilink")、[羅啟聰](../Page/羅啟聰.md "wikilink") |- style="background-color: \#FFFFFF" |                 |
+| 346 | 11月18日 | J.Arie、羅啟聰　非一般愛情觀 | [J.Arie](../Page/雷深如.md "wikilink")、[羅啟聰](../Page/羅啟聰.md "wikilink") |- style="background-color: \#FFFFFF" |                 |
 | 347 | 11月25日 | 夏韶聲　新專輯「CHAOS」世界觀 | [夏韶聲](../Page/夏韶聲.md "wikilink") |- style="background-color: \#FFFFFF" |                                                     |
 
 ## 12月

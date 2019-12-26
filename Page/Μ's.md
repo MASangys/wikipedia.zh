@@ -69,7 +69,7 @@
 <td><p>O型</p></td>
 <td><p>159cm</p></td>
 <td><p>80 / 58 / 80</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/灰色" title="wikilink">灰色</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/亞麻灰色" title="wikilink">亞麻灰色</a></p></td>
 <td><p>(・8 ・)</p></td>
 <td><p><strong>Printemps</strong></p></td>
 <td><p>2</p></td>
@@ -82,7 +82,7 @@
 <td><p>A型</p></td>
 <td><p>159cm</p></td>
 <td><p>76 / 58 / 80</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蓝色" title="wikilink">蓝色</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/極濃海蓝色" title="wikilink">極濃海蓝色</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/日本弓道" title="wikilink">弓道的弓箭</a></p></td>
 <td><p><strong>lily white</strong></p></td>
 <td><p>3</p></td>
@@ -108,7 +108,7 @@
 <td><p>AB型</p></td>
 <td><p>161cm</p></td>
 <td><p>78 / 56 / 83</p></td>
-<td><p><a href="../Page/红色.md" title="wikilink">红色</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蕃茄紅色" title="wikilink">蕃茄紅色</a></p></td>
 <td><p>☆</p></td>
 <td><p><strong>BiBi</strong></p></td>
 <td><p>4</p></td>
@@ -134,7 +134,7 @@
 <td><p>B型</p></td>
 <td><p>156cm</p></td>
 <td><p>82 / 60 / 83</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/绿色" title="wikilink">绿色</a>（偏黃綠）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/亮绿色" title="wikilink">亮绿色</a></p></td>
 <td><p>盛滿飯的小碗</p></td>
 <td><p><strong>Printemps</strong></p></td>
 <td><p>6</p></td>

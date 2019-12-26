@@ -1,3 +1,5 @@
+local numberToChinese = require('Module:NumberToChinese')._numberToChinese
+
 local p = {
 
 `   RD = {`
@@ -6,7 +8,7 @@ local p = {
 `       '決賽',`
 `       '季軍戰'`
 `   },`
-`   bgColor = {head = '#f2f2f2', 'gold', 'silver', '#CD7F32', '#f9f9f9'},`
+`   bgColor = {head = '#F2F2F2', 'gold', 'silver', '#CD7F32', '#F9F9F9'},`
 `   reuseStr = {},`
 `   saveStr = function(self, name, ...)`
 `       if not self.reuseStr[name] then`
@@ -17,8 +19,7 @@ local p = {
 
 }
 
-\--Provides a convenient naming shortcut up to {{\#invoke:RoundN|N512}}
-=  for columns = 1, 9 do
+\--Provides a convenient naming shortcut up to {{\#invoke:RoundN|N512}} =  for columns = 1, 9 do
 
 `   local N = math.pow(2, columns)`
 `   p['N' .. N] = function(frame)`
@@ -28,9 +29,7 @@ local p = {
 
 end
 
-\--saves memory and avoids errors when using a nil as a table by
-providing a temporary table; if using nil as false; use 'table(k)' to
-look up table\[k\] p.nilAsTab = {
+\--saves memory and avoids errors when using a nil as a table by providing a temporary table; if using nil as false; use 'table(k)' to look up table\[k\] p.nilAsTab = {
 
 `   __index = function(t, i)`
 `       return setmetatable({}, setmetatable(p.nilAsTab, {__index = {t = t, i = i}}))`
@@ -43,13 +42,9 @@ look up table\[k\] p.nilAsTab = {
 `       return t and rawget(t, i)`
 `   end`
 
-} --never assign a value to these or they will stop being empty local
-infiniteEmpty = setmetatable({}, {__index = setmetatable({},
-p.nilAsTab), p.nilAsTab}) -- infiniteEmpty\[1\]\[2\]\[3\]...\[infinity\]
-= {} local callableEmpty = setmetatable({}, p.nilAsTab)
+} --never assign a value to these or they will stop being empty local infiniteEmpty = setmetatable({}, {__index = setmetatable({}, p.nilAsTab), p.nilAsTab}) -- infiniteEmpty\[1\]\[2\]\[3\]...\[infinity\] = {} local callableEmpty = setmetatable({}, p.nilAsTab)
 
-local rowNum, head, m, col, tab, esc = {}, {}, {num = 1, phase = 0, bold
-= infiniteEmpty}, {}, mw.html.create'table', {
+local rowNum, head, m, col, tab, esc = {}, {}, {num = 1, phase = 0, bold = infiniteEmpty}, {}, mw.html.create'table', {
 
 `   bs = require'Module:Escape',--backslash`
 `   comma = {['(%([^,]*),([^%)]*%))'] = '%1|@!#|%2'},--escape commas in ()`
@@ -159,14 +154,13 @@ local rowNum, head, m, col, tab, esc = {}, {}, {num = 1, phase = 0, bold
 
 }
 
-setmetatable(nodeFunc.helper, {__index = nodeFunc}) function
-p.getNodeFunc()
+setmetatable(nodeFunc.helper, {__index = nodeFunc}) function p.getNodeFunc()
 
 `   return nodeFunc.helper`
 
 end
 
-function newRow(bodyRow)
+local function newRow(bodyRow)
 
 `   local first = p.flex_tree.merge and mw.clone(p.flex_tree.cell) or p.flex_tree.cell`
 `   tab.r = tab:tag'tr'`
@@ -181,7 +175,7 @@ function newRow(bodyRow)
 
 end
 
-function drawHead(text, row3rd)
+local function drawHead(text, row3rd)
 
 `   local td = (row3rd and rowNum[row3rd]:tag'td':attr{rowspan = 2}`
 `       or head.row:tag'td')`
@@ -196,7 +190,7 @@ function drawHead(text, row3rd)
 
 end
 
-function spacer(width)
+local function spacer(width)
 
 `   tab.r:tag'td'`
 `       :attr{width = width}`
@@ -204,11 +198,11 @@ function spacer(width)
 
 end
 
-function dpBox(v, r)
+local function dpBox(v, r)
 
 `   p.dpBoxBase = p.dpBoxBase or mw.html.create'td':attr{rowspan = 2, colspan = p.colspan}`
 `   if not v then`
-`       p.dpBoxEmpty = p.dpBoxEmpty or mw.clone(p.dpBoxBase):wikitext(p.flex_tree.wt)`
+`       p.dpBoxEmpty = p.previewnumbers and mw.clone(p.dpBoxBase) or p.dpBoxEmpty or mw.clone(p.dpBoxBase):wikitext(p.flex_tree.wt)`
 `       rowNum[r]:node(p.dpBoxEmpty)`
 `   else`
 `       rowNum[r]:node(mw.clone(p.dpBoxBase):wikitext(v))`
@@ -236,7 +230,7 @@ p.scoreWasher = {
 `       return 0`
 `   end,`
 `   spin = function(self, v)`
-`       table.insert(self, v)   `
+`       table.insert(self, v)`
 `       return self`
 `   end,`
 `   load = function (self, cycle)`
@@ -271,7 +265,7 @@ p.scoreWasher = {
 
 }
 
-function boldWin(s1, s2)
+local function boldWin(s1, s2)
 
 `   return setmetatable(`
 `       p.bold and s1 ~= s2 and (math[({'min', 'max'})[p.bold]](s1, s2) == s1 and {true} or {[2] = true}) or callableEmpty,`
@@ -280,20 +274,17 @@ function boldWin(s1, s2)
 
 end
 
-function maxSpan(span, start, rows)
+local function maxSpan(span, start, rows)
 
 `   return math.min(span, math.max(0, rows - start + 1))`
 
 end
 
-\--in case of templates like RDseed need padding value p.teamBoxPadding
-= function()
+\--in case of templates like RDseed need padding value p.teamBoxPadding = function()
 
-`return '.6ex'`
+`   return '.6ex'`
 
-end p.teamBoxPadTab = {padding = '0 ' .. p.teamBoxPadding()}
-p.teamBoxNormal = {border = '1px solid \#aaa', background =
-p.bgColor\[4\]} function teamBox(v, r, f)
+end p.teamBoxPadTab = {padding = '0 ' .. p.teamBoxPadding()} p.teamBoxNormal = {border = '1px solid \#aaa', background = p.bgColor\[4\]} local function teamBox(v, r, f)
 
 `   if p.flex_tree.merge and not v and f.phase == 2 then`
 `       for i = -2, 0 do`
@@ -306,9 +297,9 @@ p.bgColor\[4\]} function teamBox(v, r, f)
 `   else`
 `       if not p.bold then`
 `       --backwards compatability (wikitemplates bold each arg individually)`
-`           local hasBold, b = tostring(v):gsub("([^']*)'''([^']*)", '%1%%s%2')`
+`           local hasBold, b = tostring(v):gsub("([^']*)'''([^']*)", '%1`<b>`%2`</b>`')`
 `           if b == 1 then`
-`               v = hasBold:format('`<b>`')`
+`               v = hasBold`
 `           end`
 `       end`
 `       local cell`
@@ -352,7 +343,7 @@ function p._main(args)
 `   for k, _ in pairs(args) do`
 `       local mType, mNum = string.match(k, '^(%l+)match(%d*)$')`
 `       mType, mNum = ({skip = skipMatch, manualbold = unBold})[mType], tonumber(mNum)`
-`       if mType then `
+`       if mType then`
 `           if mNum then`
 `               mType[mNum] = args:clean(k) == 'yes' or args[k] == 'true'`
 `           else`
@@ -391,6 +382,8 @@ function p._main(args)
 `           p[v] = args:clean(v) == 'yes' or args[v] == 'true'`
 `       end`
 `   end`
+`   p.namespace = mw.title.getCurrentTitle().namespace`
+`   p.previewnumbers = p.namespace ~= 0 and p.previewnumbers`
 `   p.scoreWasher:init(args['score-clean'])`
 `   p.scoreWasher.demo = args.demoWash and tonumber(args:clean('demoWash', {pattern = '%D'}), 10)`
 `   p.scoreSumBox = args['score-boxes'] and args['score-boxes']:match('%d ?%+ ?sum')`
@@ -408,7 +401,7 @@ function p._main(args)
 `               {},`
 `               {__call = function() return 0 end}`
 `           )`
-`       )   `
+`       )`
 `       or setmetatable({}, {__call = function() return nil end})`
 `   p.colspan = p.scoreBoxes > 0 and (p.scoreBoxes + 1) or nil`
 `   local nodeArgs = {`
@@ -425,11 +418,7 @@ function p._main(args)
 `           for i, n in ipairs(t) do`
 `               s = s + n`
 `           end`
-`           return s--`[`+``   ``(p.scoreSumBox``   ``and``   ``#t``
- ``==``   ``3``   ``and``   ``-2``   ``or``   ``0)``   ``--merging``
- ``disabled``   ``with``   ``score``   ``boxes,``   ``uncomment``
- ``if``
- ``enable`](../Page/+_\(p.scoreSumBox_and_#t_==_3_and_-2_or_0\)_--merging_disabled_with_score_boxes,_uncomment_if_enable.md "wikilink")
+`           return s--`[`+``   ``(p.scoreSumBox``   ``and``   ``#t``   ``==``   ``3``   ``and``   ``-2``   ``or``   ``0)``   ``--merging``   ``disabled``   ``with``   ``score``   ``boxes,``   ``uncomment``   ``if``   ``enable`](https://zh.wikipedia.org/wiki/+_\(p.scoreSumBox_and_#t_==_3_and_-2_or_0\)_--merging_disabled_with_score_boxes,_uncomment_if_enable "wikilink")
 `       end`
 `   }`
 `   nodeArgs.team[1] = 1--constant to be replaced later by new param`
@@ -456,14 +445,14 @@ function p._main(args)
 `       end`
 `   end`
 `   tab`
-`       :cssText(table.concat{args.scroll_height and 'padding' or 'margin', ':', fontSize and (math.ceil(fontSize * 10) / 10) or '.9', 'em 2em 1em 1em;border:0;', fontSize and '' or 'font-size:90%;', args.style})`
+`       :cssText(table.concat{args.scroll_height and 'padding' or 'margin', ':', fontSize and (math.ceil(fontSize * 10) / 10) or '.9', 'em 2em 1em 1em;border:0;', fontSize and '' or 'font-size:90%;border-collapse:separate;', args.style})`
 `       :attr{cellpadding = 0, cellspacing = 0}`
 `   if not p.no_column_head then--headings row`
 `       newRow()`
 `       head.row = tab.r`
 `           :css{['white-space'] = args.scroll_height and 'nowrap'}`
 `       newRow()`
-`   else `
+`   else`
 `       tab.r = tab:tag'tr'`
 `       tab.r:tag'td'`
 `   end`
@@ -513,10 +502,10 @@ function p._main(args)
 `       if not p.no_column_head then`
 `           head.wt = head_br:compare(args:clean('RD' .. k, {pattern = ''}))`
 `               or p.RD[#p.RD + k - p.tCols - 1]`
-`               or (math.pow(2, p.tCols - k + 1).. '強賽')`
+`               or (numberToChinese(math.pow(2, p.tCols - k + 1)) .. '強賽')`
 `           drawHead(`
 `               k == 1 and p.template and mw.getCurrentFrame():expandTemplate{`
-`                   title = 'tnavbar-header',`
+`                   title = 'navbar-header',`
 `                   args = {head.wt, p.templateFixedName}`
 `               } or head.wt`
 `           )`
@@ -557,7 +546,7 @@ function p._main(args)
 `               mw.clone(bumpBase):attr{rowspan = bump}`
 `               or p.no_column_head and p.template and`
 `                   mw.html.create'td':wikitext(mw.getCurrentFrame():expandTemplate{`
-`                       title = 'tnavbar-header',`
+`                       title = 'navbar-header',`
 `                       args = {'', p.templateFixedName}`
 `                   })`
 `           )`
@@ -620,7 +609,7 @@ function p._main(args)
 `                               if rowNum[rows + 1] and p.cols > 1 then --if 3rd place extends below bottom cell`
 `                                   rowNum[rows + 1]:tag'td':attr{`
 `                                       rowspan = m.r + 9 - rows - (text and 0 or 2),`
-`                                       colspan = (p.cols - 1) * 4`
+`                                       colspan = (p.cols - 1) * (3 + p.scoreBoxes)`
 `                                   }`
 `                               end`
 `                               if p.tCols == 1 then`
@@ -637,11 +626,10 @@ function p._main(args)
 `                               end`
 `                           end`
 `                       end`
-`                       dpBox(nodeFunc.pattern and nodeFunc.nonFunc or args[step], m.r, skipMatch[m.num])`
-`                       if p.previewnumbers then`
-`                           p.namespace = p.namespace or mw.title.getCurrentTitle().namespace`
-`                           if p.namespace ~= 0 then`
-`                               tab.r:tag'div'`
+`                       dpBox(nodeFunc.pattern and nodeFunc.nonFunc or args[step], m.r)`
+`                       if p.previewnumbers then                    `
+`                           rowNum[m.r].nodes[#rowNum[m.r].nodes]`
+`                               :tag'div'`
 `                                   :css{`
 `                                       float = 'left',`
 `                                       border = '1px solid red',`
@@ -650,7 +638,6 @@ function p._main(args)
 `                                   }`
 `                                   :wikitext(m.num)`
 `                                   :attr{title = 'Number only visible outside article space (e.g. template) when |numberpreview=yes'}`
-`                           end`
 `                       end`
 `                   end`
 `                   if p.colspan then`
@@ -685,7 +672,7 @@ function p._main(args)
 `                   end`
 `               else`
 `                   if m.showBox[m.phase] then`
-`                       p.teamBoxCSS = colorFinal and `
+`                       p.teamBoxCSS = colorFinal and`
 `                           {border = p.teamBoxNormal.border, background = p.bgColor[m.phase + (col.show3rd or 0)]}`
 `                           or p.teamBoxNormal`
 `                       local f = {phase = m.phase, bold = m.bold.win(m.phase)}`
@@ -714,7 +701,7 @@ function p._main(args)
 `                   end`
 `                   if m.phase == 2 then`
 `                       col.show3rd = col.show3rd ~= 2 and col.show3rd or nil`
-`                       if p.scoreWasher.demo and p.scoreWasher.demo == m.num and mw.title.getCurrentTitle().namespace ~= 0 then`
+`                       if p.scoreWasher.demo and p.scoreWasher.demo == m.num and p.namespace ~= 0 then`
 `                           table.insert(m.bold.clean, 1, {args[step + nodeArgs.team[1]], args[step + nodeArgs.team[2]]})`
 `                           return table.concat{`
 `                               'Score data for match specified by |demoWash=:`
@@ -800,7 +787,7 @@ function p._main(args)
 `                   else`
 `                       tab.r`
 `                           :attr{rowspan = maxSpan(p.unit, r, rows)}`
-`                           :cssText(col.t == 2 and `
+`                           :cssText(col.t == 2 and`
 `                               p:saveStr('topRight', 'border-width:', tab.line[2], ' 0 0;border-style:solid')`
 `                               or col.t == 1 and (nodeFunc.bridge.lay[c](col.n - 2) and`
 `                                   p:saveStr('right', ';border-right:', p.reuseStr.solid)`
@@ -814,7 +801,7 @@ function p._main(args)
 `                           :cssText(col.t == 1 and`
 `                               p:saveStr('bttmRght', 'border-width:0 ', tab.line[2], ' 0;border-style:solid')`
 `                               or col.t == 2 and (nodeFunc.bridge.lay[c](col.n + 2) and`
-`                                   p:saveStr('right', ';border-right:', p.reuseStr.solid)`
+`                                   p:saveStr('right', '; border-right:', p.reuseStr.solid)`
 `                                   or 'vertical-align:top'`
 `                               )`
 `                               or nil`
@@ -845,7 +832,7 @@ function p._main(args)
 `   local lock_height = (head_br.count or 0) + 1`
 `   return args.scroll_height and`
 `       mw.html.create'div'`
-`           :cssText'border-bottom:1px solid #eee;display:inline-block'`
+`           :cssText'border-bottom:1px solid #eee; display:inline-block'`
 `           :node(not (p.scroll_head_unlock or p.no_column_head) and mw.html.create'div'`
 `               :css{`
 `                   overflow = 'hidden',`
@@ -869,10 +856,7 @@ function p._main(args)
 
 end
 
-\--[local standard = { 'beta' = { bold_winner = 'high', omit_blanks =
-'yes', auto_3rd = 'yes' }
-}--](../Page/local_standard_=_{_'beta'_=_{_bold_winner_=_'high',_omit_blanks_=_'yes',_auto_3rd_=_'yes'_}_}--.md "wikilink")
-function p.main(frame, columns)
+\--[local standard = { 'beta' = { bold_winner = 'high', omit_blanks = 'yes', auto_3rd = 'yes' } }--](https://zh.wikipedia.org/wiki/local_standard_=_{_'beta'_=_{_bold_winner_=_'high',_omit_blanks_=_'yes',_auto_3rd_=_'yes'_}_}-- "wikilink") function p.main(frame, columns)
 
 `   local args = require'Module:Arguments'.getArgs(frame, {trim = false})`
 `   args.columns = args.columns or columns`
@@ -883,7 +867,7 @@ end
 function p.seed(frame)
 
 `   local parent = frame:getParent() or frame`
-`   function arg(k, alt)`
+`   local function arg(k, alt)`
 `       return parent.args[k] or frame.args[k] or alt`
 `   end`
 `   local padding, width = arg(2, p.teamBoxPadding()), arg(3, arg('widescore') and 40 or 30)`
@@ -893,7 +877,7 @@ function p.seed(frame)
 `       :css{`
 `           margin = ('-1px %s -1px -%s'):format(padding, padding),`
 `           float = 'left',`
-`           ['background-color'] = p.bgColor.head,`
+`           ['background'] = p.bgColor.head,`
 `           border = '1px solid #aaa',`
 `           ['text-align'] = 'center',`
 `           width = width`

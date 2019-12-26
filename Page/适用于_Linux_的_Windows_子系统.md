@@ -73,56 +73,32 @@ WSL仅在版本1607之后的64位版本的Windows 10中可用。它也可在Wind
 [Category:兼容层](https://zh.wikipedia.org/wiki/Category:兼容层 "wikilink") [Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink") [Category:Windows_10](https://zh.wikipedia.org/wiki/Category:Windows_10 "wikilink") [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  [Get openSUSE Leap 42 - Microsoft Store](https://www.microsoft.com/store/apps/9njvjts82tjx)
-
 7.  [Get SUSE Linux Enterprise Server 12 - Microsoft Store](https://www.microsoft.com/store/apps/9p32mwbh6cns)
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
 19.
-
 20.
-
 21.
-
 22.
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
 29.
-
 30.

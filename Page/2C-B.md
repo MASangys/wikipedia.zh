@@ -28,17 +28,11 @@
 [Category:2C-X家族](https://zh.wikipedia.org/wiki/Category:2C-X家族 "wikilink") [Category:血清素受体激动剂](https://zh.wikipedia.org/wiki/Category:血清素受体激动剂 "wikilink") [Category:致幻劑](https://zh.wikipedia.org/wiki/Category:致幻劑 "wikilink") [Category:宗教致幻剂](https://zh.wikipedia.org/wiki/Category:宗教致幻剂 "wikilink") [Category:芳香醚](https://zh.wikipedia.org/wiki/Category:芳香醚 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.

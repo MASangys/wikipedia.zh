@@ -86,12 +86,8 @@
 [Category:1995年出生](https://zh.wikipedia.org/wiki/Category:1995年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink") [Category:美國電視男演員](https://zh.wikipedia.org/wiki/Category:美國電視男演員 "wikilink") [Category:非洲裔美國男演員](https://zh.wikipedia.org/wiki/Category:非洲裔美國男演員 "wikilink") [Category:21世纪美国男演员](https://zh.wikipedia.org/wiki/Category:21世纪美国男演员 "wikilink") [Category:非洲裔美國人](https://zh.wikipedia.org/wiki/Category:非洲裔美國人 "wikilink")
 
 1.  [How ‘Me and Earl and the Dying Girl’ star RJ Cyler went from homeless to Hollywood](http://www.thestar.com/entertainment/movies/2015/06/08/how-me-and-earl-and-the-dying-girl-star-rj-cyler-went-from-homeless-to-hollywood.html). \[2015-6-8\].
-
 2.  <http://staticmultimedia.com/movies/movie-facts-me-and-earl-and-the-dying-girl>
-
 3.
 4.
-
 5.
-
 6.

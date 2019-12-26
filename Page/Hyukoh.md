@@ -1,6 +1,6 @@
-**hyukoh**（，讀音為「hyeoko」），韓國獨立[樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")，成立於 2014 年 5 月，2015 年簽约 [HIGHGRND](../Page/HIGHGRND.md "wikilink")。團員四人為主唱兼吉他手[吳赫](../Page/吳赫.md "wikilink")、吉他手[林賢帝](https://zh.wikipedia.org/wiki/林賢帝 "wikilink")、貝斯手[任童健](../Page/任童健.md "wikilink")、鼓手[李仁雨](../Page/李仁雨.md "wikilink")。團名的由來為主唱吳赫「Oh Hyuk」的名字倒過來念。
+**HYUKOH**（，讀音為「hyeoko」），韓國獨立[樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")，成立於 2014 年 5 月，2015 年簽约 [HIGHGRND](../Page/HIGHGRND.md "wikilink")。團員四人為主唱兼吉他手[吳赫](../Page/吳赫.md "wikilink")、吉他手[林賢帝](https://zh.wikipedia.org/wiki/林賢帝 "wikilink")、貝斯手[任童健](../Page/任童健.md "wikilink")、鼓手[李仁雨](../Page/李仁雨.md "wikilink")。團名的由來為主唱吳赫「Oh Hyuk」的名字倒過來念。
 
-2014 年 9 月 hyukoh 發行首張 EP【20】，收錄曲是吳赫在北京高中時期的獨自創作，幾乎全英文。該專輯沒有任何宣傳，卻以口碑在弘大地下小有名氣，演出場場售罄。2015 年因參加[無限挑戰 嶺東高速公路歌謠祭爆紅](../Page/無限挑戰_嶺東高速公路歌謠祭.md "wikilink")，成為目前韓國最具代表性的國民樂隊。成員們年齡與樣貌的不符、寡言難採訪的個性、成為了 hyukoh 的特色，也為樂隊增添了許多趣味與神秘感。
+2014 年 9 月 HYUKOH 發行首張 EP【20】，收錄曲是吳赫在北京高中時期的獨自創作，幾乎全英文。該專輯沒有任何宣傳，卻以口碑在弘大地下小有名氣，演出場場售罄。2015 年因參加[無限挑戰 嶺東高速公路歌謠祭爆紅](../Page/無限挑戰_嶺東高速公路歌謠祭.md "wikilink")，成為目前韓國最具代表性的國民樂隊。成員們年齡與樣貌的不符、寡言難採訪的個性、成為了 HYUKOH 的特色，也為樂隊增添了許多趣味與神秘感。
 
 ## 成員資料
 
@@ -120,6 +120,7 @@
 | 2015年11月22日 | [請回答1988](../Page/請回答1988.md "wikilink")               | 少女 (소녀)             | [吳赫](../Page/吳赫.md "wikilink") |
 | 2016年11月5日  | [Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink") | MASITNONSOUL (맛있는술) | 全員                             |
 | 2018年10月15日 | [壞爸爸](https://zh.wikipedia.org/wiki/壞爸爸 "wikilink")    | Golden Goat         | [吳赫](../Page/吳赫.md "wikilink") |
+| 2019年10月27日 | [罪夢者](../Page/罪夢者.md "wikilink")                       | 似是故人來               | 全員                             |
 
 ## 電視劇
 

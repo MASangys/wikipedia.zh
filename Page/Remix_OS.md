@@ -12,7 +12,7 @@ Google移动服务（GMS）在Remix OS Update: 2.0.307后已从Remix Mini中移�
 
   - [技德科技全球官網](http://www.jide.com/)
 
-  - [技德科技中國官網](http://cn.jide.com/)
+  - [技德科技中國官網](https://web.archive.org/web/20161126132950/http://cn.jide.com/)
 
 [Category:Android](https://zh.wikipedia.org/wiki/Category:Android "wikilink") [Category:嵌入式操作系统](https://zh.wikipedia.org/wiki/Category:嵌入式操作系统 "wikilink") [Category:嵌入式Linux](https://zh.wikipedia.org/wiki/Category:嵌入式Linux "wikilink") [Category:售後韌體](https://zh.wikipedia.org/wiki/Category:售後韌體 "wikilink")
 

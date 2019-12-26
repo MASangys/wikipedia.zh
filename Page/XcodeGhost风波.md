@@ -94,41 +94,24 @@
 [Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink") [Category:2015年9月](https://zh.wikipedia.org/wiki/Category:2015年9月 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.  [XcodeGhost](https://github.com/XcodeGhostSource/XcodeGhost) GitHub上的XcodeGhost项目
-
 7.  [苹果App Store火线下架遭感染的软件](http://www.cnbeta.com/articles/431557.htm) — cnbeta
-
 8.  [苹果App被置病毒全部名单 不是只有20多个而是76个](http://www.techweb.com.cn/internet/2015-09-20/2204531.shtml) — techweb
-
 9.  [已知有后门的iOS App](http://bobao.360.cn/news/detail/2088.html)  — 360安全播报平台
-
 10.
 11.
-
 12.
 13.
-
 14. [苹果手机多款应用程序现“后门”](http://news.cntv.cn/2015/09/20/VIDE1442722138330797.shtml) — cntv
-
 15.
 16. [《苹果遭遇信任危机：苹果APP也会被黑》](http://tech.qq.com/a/20150921/010707.htm) - 腾讯科技
-
 17.
-
 18.
-
 19.
-
 20.
-
 21. [你以为服务器关了这事就结束了？ - XcodeGhost截胡攻击和服务端的复现，以及UnityGhost预警](http://drops.wooyun.org/papers/9024) - 乌云
-
 22. [XcodeGhost](https://github.com/XcodeGhostSource/XcodeGhost)

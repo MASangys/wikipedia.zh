@@ -110,12 +110,21 @@ ZERO-G名稱繼承自根岸弘在1991年創立的動畫公司ZERO-G-ROOM（）�
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/同居人時而在腿上，時而跑到腦袋上。" title="wikilink">同居人時而在腿上，時而跑到腦袋上。</a></p></td>
+<td><p><a href="../Page/同居人是貓.md" title="wikilink">同居人時而在腿上，時而跑到腦袋上。</a></p></td>
 <td></td>
 <td><p>1月9日－3月27日</p></td>
 <td><p>鈴木薰</p></td>
 <td><p>漫畫</p></td>
 <td><p>原作：皆月</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年</p></td>
+<td></td>
+<td></td>
+<td><p>1月－預定</p></td>
+<td><p>喜多幡徹</p></td>
+<td><p>漫畫</p></td>
+<td><p>原作：山本アリフレッド</p></td>
 </tr>
 </tbody>
 </table>

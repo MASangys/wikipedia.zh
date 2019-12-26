@@ -13,7 +13,7 @@ Select-A-Game使用7×16的[真空熒光顯示器為主要顯示器](https://zh.
   - *Football 4*（足球4）
   - *Pinball*（彈珠台）
   - *Baseball 4*（棒球4）
-  - *Pac-Man 2*（[食鬼2](https://zh.wikipedia.org/wiki/食鬼 "wikilink")，只有少量發售，因為被當時持有食鬼掌上遊戲機版權的控告侵犯版權）
+  - *Pac-Man 2*（[食鬼2](https://zh.wikipedia.org/wiki/食鬼 "wikilink")，只有少量發售，因為被當時持有食鬼掌上遊戲機版權的[Coleco](../Page/Coleco.md "wikilink")控告侵犯版權）
   - *Battleship*（[海戰](https://zh.wikipedia.org/wiki/海戰_\(遊戲\) "wikilink")，沒有發售）
   - *Turtles*（烏龜）\[3\]\[4\]
 
@@ -26,8 +26,6 @@ Select-A-Game使用7×16的[真空熒光顯示器為主要顯示器](https://zh.
 [Category:掌上遊戲機](https://zh.wikipedia.org/wiki/Category:掌上遊戲機 "wikilink") [Category:第二世代遊戲機](https://zh.wikipedia.org/wiki/Category:第二世代遊戲機 "wikilink") [Category:1981年面世的產品](https://zh.wikipedia.org/wiki/Category:1981年面世的產品 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

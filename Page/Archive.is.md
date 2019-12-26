@@ -61,44 +61,24 @@ archive.is曾多次更換網域名稱。
 [Category:網際網路的歷史](https://zh.wikipedia.org/wiki/Category:網際網路的歷史 "wikilink") [Category:2012年建立的网站](https://zh.wikipedia.org/wiki/Category:2012年建立的网站 "wikilink") [Category:在线存档](https://zh.wikipedia.org/wiki/Category:在线存档 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  [WebCite](http://www.webcitation.org)
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11. ["archive.is"](http://mementoweb.org/depot/native/archiveis/) *Memento Protocol Information*. Memento Development Group. Retrieved 17 September 2013.
-
 12.
-
 13.
-
 14. [archive.is - webpage capture](http://webcache.googleusercontent.com/custom?inlang=ja&client=pub-&hl=ja&q=cache:iKUcXEywpPAJ:http://archive.is/) - [Google](../Page/Google.md "wikilink") 2014年4月14日 11:21:06 GMT （[Peeep.usのキャッシュ](http://megalodon.jp/2014-0420-2143-48/www.peeep.us/66ce5100)）
-
 15. [archive.today - webpage capture](http://webcache.googleusercontent.com/custom?inlang=ja&client=pub-&hl=ja&q=cache:rneU7V6weTIJ:http://archive.is/) - [Google](../Page/Google.md "wikilink") 2014年4月18日 17:40:45 GMT （[Peeep.usのキャッシュ](http://megalodon.jp/2014-0420-2142-46/www.peeep.us/912f1ddb)）
-
 16.
-
 17.
-
 18.
-
 19. [Julian Assange - When Google Met WikiLeaks](https://pdf.yt/d/iZiFQpms8I1pKFs7)
-
 20.
-
 21.
-
 22.

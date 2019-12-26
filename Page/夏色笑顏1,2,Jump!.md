@@ -114,18 +114,11 @@
 [Category:夏天題材樂曲](https://zh.wikipedia.org/wiki/Category:夏天題材樂曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.  ，Sony Magazines Annex 550号，ソニー・マガジンズ，2012年3月，p.83。ISBN 978-4-7897-7165-8
-
 8.  ，M-ON\! ANNEX 571号，エムオン・エンタテインメント，2013年8月，p.87。ISBN 978-4-7897-7196-2。
-
 9.  ，ASCII Media Works，2013年1月，p.30

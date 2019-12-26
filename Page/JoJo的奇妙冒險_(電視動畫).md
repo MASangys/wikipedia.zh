@@ -87,7 +87,7 @@
 <td><p>音樂製作</p></td>
 <td><p>IMAGINE（第一季 原作Part1）<br />
 Office Without（第一季 原作Part2）<br />
-ONE MUSIC（第二季、第三季）</p></td>
+ONE MUSIC（第二季之後）</p></td>
 </tr>
 <tr class="odd">
 <td><p>動畫製作人</p></td>
@@ -133,7 +133,8 @@ ONE MUSIC（第二季、第三季）</p></td>
 <td><p>製作</p></td>
 <td><p>JoJo的奇妙冒險製作委員會（第一季）<br />
 JoJo的奇妙冒險SC製作委員會（第二季）<br />
-JoJo的奇妙冒險DU製作委員會（第三季）</p></td>
+JoJo的奇妙冒險DU製作委員會（第三季）<br />
+JoJo的奇妙冒險GW製作委員會（第四季）</p></td>
 </tr>
 </tbody>
 </table>
@@ -548,8 +549,8 @@ Shin Hyung Woo</p></td>
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷</a></p></td>
-<td><p>2017年8月15日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/bilibili" title="wikilink">bilibili</a></p></td>
+<td><p>2019年11月30日</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/網路電視" title="wikilink">網路電視</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/簡體中文" title="wikilink">簡體中文</a></p></td>
@@ -558,7 +559,7 @@ Shin Hyung Woo</p></td>
 </tbody>
 </table>
 
-## 第二季
+## 第三季
 
 2013年10月18日在[官方正式宣布與各家](https://zh.wikipedia.org/wiki/官方 "wikilink")[媒體透露決定製作原作第三部](https://zh.wikipedia.org/wiki/媒體 "wikilink")。與第一部和第二部不一樣的是，第三部《[星塵鬥士](../Page/星塵鬥士.md "wikilink")》全篇獨立成第二季製作，標題名為《JoJo的奇妙冒險 星塵鬥士》。
 
@@ -568,7 +569,7 @@ Shin Hyung Woo</p></td>
 
 原作登場的自行離家出走的小女孩的名字在電視動畫正式設定叫「（安）」\[8\]。
 
-### 主題曲（第二季）
+### 主題曲（第三季）
 
   - 片頭曲
 
@@ -609,10 +610,10 @@ Shin Hyung Woo</p></td>
         作詞、作曲：L.Sternberg，主唱、演奏：[The Bangles](../Page/手鐲合唱團.md "wikilink")
         第8話、第10話未使用。
 
-:; 「」（第25話－第26話、第28話－第35話、第38話－第40話、第42話－第46話）
+<!-- end list -->
 
   -
-
+    「」（第25話－第26話、第28話－第35話、第38話－第40話、第42話－第46話）
       -
         作詞、作曲：，主唱、演奏：
         第27話、第36話、第37話、第41話、第47話、第48話未使用。
@@ -632,7 +633,7 @@ Shin Hyung Woo</p></td>
       -
         作曲：菅野祐悟
 
-### 各話標題（第二季）
+### 各話標題（第三季）
 
 <table>
 <thead>
@@ -663,7 +664,7 @@ Shin Hyung Woo</p></td>
 <td><p>第1話<br />
 （第27話）</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/惡靈" title="wikilink">惡靈纏身的男子</a></p></td>
+<td><p>惡靈纏身的男子</p></td>
 <td><p>小林靖子</p></td>
 <td><p>津田尚克</p></td>
 <td><p>小美野雅彥</p></td>
@@ -686,7 +687,7 @@ Shin Hyung Woo</p></td>
 <td><p>第3話<br />
 （第29話）</p></td>
 <td></td>
-<td><p>DIO的<a href="../Page/詛咒.md" title="wikilink">詛咒</a></p></td>
+<td><p>DIO的詛咒</p></td>
 <td><p>加藤敏幸</p></td>
 <td><p>Shin Hyung Woo</p></td>
 <td><p>4月18日</p></td>
@@ -697,7 +698,7 @@ Shin Hyung Woo</p></td>
 <td><p>第4話<br />
 （第30話）</p></td>
 <td></td>
-<td><p>灰塔</p></td>
+<td></td>
 <td><p>安川正吾</p></td>
 <td><p>吉田泰三</p></td>
 <td><p>藤本次朗</p></td>
@@ -708,7 +709,7 @@ Shin Hyung Woo</p></td>
 <td><p>第5話<br />
 （第31話）</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/銀色" title="wikilink">銀色</a><a href="https://zh.wikipedia.org/wiki/戰車" title="wikilink">戰車</a></p></td>
+<td></td>
 <td><p>小林靖子</p></td>
 <td><p>鈴木健一</p></td>
 <td><p>石本峻一</p></td>
@@ -719,7 +720,7 @@ Shin Hyung Woo</p></td>
 <td><p>第6話<br />
 （第32話）</p></td>
 <td></td>
-<td><p>暗藍之月</p></td>
+<td></td>
 <td><p>豬爪慎一</p></td>
 <td><p>小倉宏文</p></td>
 <td><p>三室健太、寶谷幸稔</p></td>
@@ -730,7 +731,7 @@ Shin Hyung Woo</p></td>
 <td><p>第7話<br />
 （第33話）</p></td>
 <td></td>
-<td><p>力</p></td>
+<td></td>
 <td><p>筆安一幸</p></td>
 <td><p>米田光宏</p></td>
 <td><p>Shin Hyung Woo、津熊健德</p></td>
@@ -741,7 +742,7 @@ Shin Hyung Woo</p></td>
 <td><p>第8話<br />
 （第34話）</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/惡魔" title="wikilink">惡魔</a></p></td>
+<td></td>
 <td><p>豬爪慎一</p></td>
 <td><p><a href="../Page/副島惠文.md" title="wikilink">副島惠文</a></p></td>
 <td><p>橫山謙次、關崎高明<br />
@@ -754,7 +755,7 @@ Shin Hyung Woo</p></td>
 <td><p>第9話<br />
 （第35話）</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃色" title="wikilink">黃色節制</a></p></td>
+<td></td>
 <td><p>筆安一幸</p></td>
 <td><p>阿部雅司</p></td>
 <td><p>藤本次朗<br />
@@ -770,7 +771,7 @@ Shin Hyung Woo</p></td>
 <td><p>第10話<br />
 （第36話）</p></td>
 <td></td>
-<td><p><a href="../Page/皇帝.md" title="wikilink">皇帝</a>與倒吊男 其1</p></td>
+<td><p>與 其1</p></td>
 <td><p>小林靖子</p></td>
 <td><p>加藤敏幸</p></td>
 <td><p>石本峻一、Choi Hee Eun</p></td>
@@ -781,7 +782,7 @@ Shin Hyung Woo</p></td>
 <td><p>第11話<br />
 （第37話）</p></td>
 <td></td>
-<td><p>皇帝與倒吊男 其2</p></td>
+<td><p>與 其2</p></td>
 <td><p>加藤敏幸</p></td>
 <td><p>町谷俊輔<br />
 加藤敏幸</p></td>
@@ -795,7 +796,7 @@ Shin Hyung Woo</p></td>
 <td><p>第12話<br />
 （第38話）</p></td>
 <td></td>
-<td><p>女帝</p></td>
+<td></td>
 <td><p>安川正吾</p></td>
 <td><p>大脊戶聰</p></td>
 <td><p>Shin Hyung Woo<br />
@@ -807,7 +808,7 @@ Choi Hee Eun</p></td>
 <td><p>第13話<br />
 （第39話）</p></td>
 <td></td>
-<td><p><a href="../Page/命運.md" title="wikilink">命運</a>之輪</p></td>
+<td></td>
 <td><p><a href="../Page/中原禮.md" title="wikilink">中原禮</a></p></td>
 <td><p>玉村仁</p></td>
 <td><p>中屋了、石本峻一<br />
@@ -820,7 +821,7 @@ Choi Hee Eun</p></td>
 <td><p>第14話<br />
 （第40話）</p></td>
 <td></td>
-<td><p><a href="../Page/正義.md" title="wikilink">正義</a>其1</p></td>
+<td><p>其1</p></td>
 <td><p>豬爪慎一</p></td>
 <td><p>小倉宏文</p></td>
 <td><p>山田弘和</p></td>
@@ -831,7 +832,7 @@ Choi Hee Eun</p></td>
 <td><p>第15話<br />
 （第41話）</p></td>
 <td></td>
-<td><p>正義 其2</p></td>
+<td><p>其2</p></td>
 <td><p>小倉宏文</p></td>
 <td><p>橫山謙次、關崎高明<br />
 常盤健太郎</p></td>
@@ -843,7 +844,7 @@ Choi Hee Eun</p></td>
 <td><p>第16話<br />
 （第42話）</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/戀人" title="wikilink">戀人</a> 其1</p></td>
+<td><p>其1</p></td>
 <td><p>筆安一幸</p></td>
 <td><p>吉田泰三</p></td>
 <td><p>町谷俊輔<br />
@@ -856,7 +857,7 @@ Choi Hee Eun</p></td>
 <td><p>第17話<br />
 （第43話）</p></td>
 <td></td>
-<td><p>戀人 其2</p></td>
+<td><p>其2</p></td>
 <td><p>藤本次朗</p></td>
 <td><p>Choi Hee Eun<br />
 Lee Eun Yonung<br />
@@ -869,7 +870,7 @@ Shin Hyung Woo</p></td>
 <td><p>第18話<br />
 （第44話）</p></td>
 <td></td>
-<td><p>太陽</p></td>
+<td></td>
 <td><p>津田尚克</p></td>
 <td><p>副島惠文</p></td>
 <td><p>小林亮、中屋了<br />
@@ -881,7 +882,7 @@ Shin Hyung Woo</p></td>
 <td><p>第19話<br />
 （第45話）</p></td>
 <td></td>
-<td><p><a href="../Page/死神.md" title="wikilink">死神</a>13 其1</p></td>
+<td><p>其1</p></td>
 <td><p>安川正吾</p></td>
 <td><p>加藤敏幸</p></td>
 <td><p>小谷杏子、横山謙次<br />
@@ -894,7 +895,7 @@ Shin Hyung Woo</p></td>
 <td><p>第20話<br />
 （第46話）</p></td>
 <td></td>
-<td><p>死神13 其2</p></td>
+<td><p>其2</p></td>
 <td><p>加藤敏幸</p></td>
 <td><p>津田尚克<br />
 吉川志我津</p></td>
@@ -906,7 +907,7 @@ Shin Hyung Woo</p></td>
 <td><p>第21話<br />
 （第47話）</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/審判" title="wikilink">審判</a> 其1</p></td>
+<td><p>其1</p></td>
 <td><p>小林靖子</p></td>
 <td><p>吉田泰三</p></td>
 <td><p>高村雄太</p></td>
@@ -917,7 +918,7 @@ Shin Hyung Woo</p></td>
 <td><p>第22話<br />
 （第48話）</p></td>
 <td></td>
-<td><p>審判 其2</p></td>
+<td><p>其2</p></td>
 <td><p>副島惠文</p></td>
 <td><p>江副仁美<br />
 鈴木健一</p></td>
@@ -932,7 +933,7 @@ Yu Min Zi、Jang Min Ho<br />
 <td><p>第23話<br />
 （第49話）</p></td>
 <td></td>
-<td><p>女教皇 其1</p></td>
+<td><p>其1</p></td>
 <td><p>豬爪慎一</p></td>
 <td><p>大脊戶聰</p></td>
 <td><p>Shin Hyung Woo<br />
@@ -945,7 +946,7 @@ Lee Eun Yonung<br />
 <td><p>第24<br />
 （第50話）</p></td>
 <td></td>
-<td><p>女教皇 其2</p></td>
+<td><p>其2</p></td>
 <td><p>津田尚克</p></td>
 <td><p>町谷俊輔<br />
 津田尚克</p></td>
@@ -970,7 +971,7 @@ Lee Eun Yonung<br />
 <td><p>第25話<br />
 （第51話）</p></td>
 <td></td>
-<td><p>|「愚者」伊奇與<br />
+<td><p>|「」伊奇與<br />
 「蓋布神」恩多爾 其1</p></td>
 <td><p>小林靖子</p></td>
 <td><p>鈴木健一</p></td>
@@ -984,7 +985,7 @@ Lee Eun Yonung<br />
 <td><p>第26話<br />
 （第52話）</p></td>
 <td></td>
-<td><p>「愚者」伊奇與<br />
+<td><p>「」伊奇與<br />
 「蓋布神」恩多爾 其2</p></td>
 <td><p>加藤敏幸</p></td>
 <td><p>守泰佑<br />
@@ -1046,7 +1047,7 @@ Choi Hee Eun</p></td>
 <td><p>第31話<br />
 （第57話）</p></td>
 <td></td>
-<td><p>「巴絲提<a href="https://zh.wikipedia.org/wiki/女神" title="wikilink">女神</a>」瑪萊雅 其2</p></td>
+<td><p>「巴絲提女神」瑪萊雅 其2</p></td>
 <td><p>吉田泰三</p></td>
 <td><p>高村雄太</p></td>
 <td><p>寶谷幸稔、西村彩<br />
@@ -1131,7 +1132,7 @@ Choi Hee Eun</p></td>
 <td><p>第38話<br />
 （第64話）</p></td>
 <td></td>
-<td><p><a href="../Page/地獄.md" title="wikilink">地獄</a>守門者·佩特夏 其1</p></td>
+<td><p>地獄守門者·佩特夏 其1</p></td>
 <td><p>鈴木健一</p></td>
 <td><p>吉川志我津</p></td>
 <td><p>關崎高明、橫山謙次</p></td>
@@ -1155,7 +1156,7 @@ Lee Eun Young</p></td>
 <td><p>第40話<br />
 （第66話）</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/電玩" title="wikilink">電玩高手</a>·達比 其1</p></td>
+<td><p>電玩高手·達比 其1</p></td>
 <td><p>筆安一幸</p></td>
 <td><p>副島惠文</p></td>
 <td><p>Cha Myoung Jun、山本晃宏</p></td>
@@ -1178,7 +1179,7 @@ Lee Eun Young</p></td>
 <td><p>第42話<br />
 （第68話）</p></td>
 <td></td>
-<td><p>亞空<a href="https://zh.wikipedia.org/wiki/瘴氣" title="wikilink">瘴氣</a> 瓦尼拉·艾斯 其1</p></td>
+<td><p>亞空瘴氣 瓦尼拉·艾斯 其1</p></td>
 <td><p>豬爪慎一</p></td>
 <td><p>町谷俊輔</p></td>
 <td><p>町谷俊輔<br />
@@ -1249,7 +1250,7 @@ Lee Eun Young</p></td>
 <td><p>第48話<br />
 （第74話）</p></td>
 <td></td>
-<td><p>遙遠的旅途 <a href="../Page/朋友.md" title="wikilink">朋友</a>再會吧</p></td>
+<td><p>遙遠的旅途 朋友再會吧</p></td>
 <td><p>鈴村健一<br />
 加藤敏幸</p></td>
 <td><p>吉川志我津<br />
@@ -1266,7 +1267,7 @@ Cha Myoung Jun<br />
 </tbody>
 </table>
 
-### 播放單位（第二季）
+### 播放單位（第三季）
 
 <table>
 <caption>日本國外 網絡平台 / 第2季 前半 播放日期時間</caption>
@@ -1284,8 +1285,8 @@ Cha Myoung Jun<br />
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷</a></p></td>
-<td><p>2017年8月15日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/bilibili" title="wikilink">bilibili</a></p></td>
+<td><p>2019年11月30日</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/網路電視" title="wikilink">網路電視</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/簡體中文" title="wikilink">簡體中文</a></p></td>
@@ -1310,8 +1311,8 @@ Cha Myoung Jun<br />
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷</a></p></td>
-<td><p>2017年8月15日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/bilibili" title="wikilink">bilibili</a></p></td>
+<td><p>2019年11月30日</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/網路電視" title="wikilink">網路電視</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/簡體中文" title="wikilink">簡體中文</a></p></td>
@@ -1320,11 +1321,11 @@ Cha Myoung Jun<br />
 </tbody>
 </table>
 
-## 第三季
+## 第四季
 
 2015年10月24日，來自[電視動畫《JOJO的奇妙冒險》](https://twitter.com/anime_jojo?ref_src=twsrc%5Etfw)在[Twitter](../Page/Twitter.md "wikilink")官網表示，決定製作原作第4部，標題名為《JoJo的奇妙冒險 不滅鑽石》。2016年4月至12月繼續在[TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[MBS](../Page/每日放送.md "wikilink")、[東北放送](https://zh.wikipedia.org/wiki/東北放送 "wikilink")、[BS11等台首播](../Page/日本BS放送.md "wikilink")。主要人物的配音員方面，除了空条承太郎和虹村億泰分別由[小野大輔](../Page/小野大輔.md "wikilink")和[高木涉](../Page/高木涉.md "wikilink")繼續擔任之外，主角東方仗助、廣瀨康一及岸邊露伴從對戰[格鬥遊戲](https://zh.wikipedia.org/wiki/格鬥 "wikilink")《JOJO的奇妙冒險 ALL STAR BATTLE》和2015年12月發行的[動作遊戲](https://zh.wikipedia.org/wiki/動作 "wikilink")《JOJO的奇妙冒險 Eyes of Heaven》中改由[小野友樹](../Page/小野友樹.md "wikilink")、[梶裕貴](../Page/梶裕貴.md "wikilink")及[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")擔任。
 
-### 主題曲（第三季）
+### 主題曲（第四季）
 
   - 片頭曲
 
@@ -1377,7 +1378,7 @@ Cha Myoung Jun<br />
       -
         作詞：ENDCAPE，作曲、編曲：菅野祐悟，主唱：JO☆UNITED（富永TOMMY弘明、Coda、橋本仁、城田純、和田泰右、Jeity、、青木花戀、長谷川大輔）
 
-### 各話標題（第三季）
+### 各話標題（第四季）
 
 <table>
 <thead>
@@ -1492,7 +1493,7 @@ Shin Hyung Woo<br />
 <td><p>第6話<br />
 （第80話）</p></td>
 <td></td>
-<td><p>廣瀨康一（迴音）</p></td>
+<td></td>
 <td><p>筆安一幸</p></td>
 <td><p>副島惠文</p></td>
 <td><p>Cha Myoung Jun</p></td>
@@ -1507,7 +1508,7 @@ Shin Hyung Woo<br />
 <td><p>第7話<br />
 （第81話）</p></td>
 <td></td>
-<td><p>間田敏和（表面）</p></td>
+<td></td>
 <td><p>豬爪慎一</p></td>
 <td><p>大脊戶聰</p></td>
 <td><p>江副仁美</p></td>
@@ -1540,7 +1541,7 @@ Shin Hey Ran</p></td>
 <td><p>第9話<br />
 （第83話）</p></td>
 <td></td>
-<td><p>山岸由花子<a href="https://zh.wikipedia.org/wiki/戀愛" title="wikilink">戀愛了</a> 其2</p></td>
+<td><p>山岸由花子戀愛了 其2</p></td>
 <td><p>加藤敏幸</p></td>
 <td><p>Kim Min Sun</p></td>
 <td><p>Lee Min Bae</p></td>
@@ -1554,7 +1555,7 @@ Shin Hey Ran</p></td>
 <td><p>第10話<br />
 （第84話）</p></td>
 <td></td>
-<td><p>來去吃<a href="https://zh.wikipedia.org/wiki/義大利" title="wikilink">義大利餐點吧</a></p></td>
+<td><p>來去吃義大利餐點吧</p></td>
 <td><p>筆安一幸</p></td>
 <td><p>光田史亮</p></td>
 <td><p>光田史亮<br />
@@ -1587,7 +1588,7 @@ Kim Bo Kyong</p></td>
 <td><p>第12話<br />
 （第86話）</p></td>
 <td></td>
-<td><p>嗆<a href="../Page/辣.md" title="wikilink">辣</a>紅椒 其2</p></td>
+<td><p>嗆辣紅椒 其2</p></td>
 <td><p>加藤敏幸</p></td>
 <td><p>朝木幸彥</p></td>
 <td><p>蘆谷耕平<br />
@@ -1640,7 +1641,7 @@ Shin Hyung Woo<br />
 <td><p>第15話<br />
 （第89話）</p></td>
 <td></td>
-<td><p>來去<a href="https://zh.wikipedia.org/wiki/漫畫家" title="wikilink">漫畫家的家裡玩吧</a> 其2</p></td>
+<td><p>來去漫畫家的家裡玩吧 其2</p></td>
 <td><p>安川正吾</p></td>
 <td><p>副島惠文</p></td>
 <td><p>松林唯人</p></td>
@@ -1656,7 +1657,7 @@ Shin Hyung Woo</p></td>
 <td><p>第16話<br />
 （第90話）</p></td>
 <td></td>
-<td><p>來去「<a href="../Page/狩獵.md" title="wikilink">狩獵</a>」吧！</p></td>
+<td><p>來去「」吧！</p></td>
 <td></td>
 <td><p>關川成人</p></td>
 <td><p>colspan="3" </p></td>
@@ -1670,7 +1671,7 @@ Shin Hyung Woo</p></td>
 <td><p>第17話<br />
 （第91話）</p></td>
 <td></td>
-<td><p>岸邊露伴的<a href="../Page/冒險.md" title="wikilink">冒險</a></p></td>
+<td><p>岸邊露伴的冒險</p></td>
 <td><p>豬爪慎一</p></td>
 <td><p>嶌田惣一</p></td>
 <td><p>矢吹智美</p></td>
@@ -1684,7 +1685,7 @@ Shin Hyung Woo</p></td>
 <td><p>第18話<br />
 （第92話）</p></td>
 <td></td>
-<td><p>「重重」的收成者 其1</p></td>
+<td><p>「重重」的 其1</p></td>
 <td><p>筆安一幸</p></td>
 <td><p>長田繪里</p></td>
 <td><p>蘆谷耕平<br />
@@ -1704,7 +1705,7 @@ Shin Hyung Woo</p></td>
 <td><p>第19話<br />
 （第93話）</p></td>
 <td></td>
-<td><p>「重重」的收成者 其2</p></td>
+<td><p>「重重」的 其2</p></td>
 <td><p><a href="../Page/永居慎平.md" title="wikilink">永居慎平</a></p></td>
 <td><p>Kim Min Sun<br />
 </p></td>
@@ -1722,7 +1723,7 @@ Yang Jeong Hee</p></td>
 <td><p>第20話<br />
 （第94話）</p></td>
 <td></td>
-<td><p>山岸由花子對<a href="../Page/灰姑娘.md" title="wikilink">灰姑娘</a>的憧憬</p></td>
+<td><p>山岸由花子對灰姑娘的憧憬</p></td>
 <td><p>安川正吾</p></td>
 <td><p>藤本次朗<br />
 津田尚克</p></td>
@@ -1804,7 +1805,7 @@ Shin Hyung Woo</p></td>
 <td><p>第25話<br />
 （第99話）</p></td>
 <td></td>
-<td><p><a href="../Page/原子.md" title="wikilink">原子</a>心之父</p></td>
+<td><p>原子心之父</p></td>
 <td><p>豬爪慎一</p></td>
 <td><p>長田繪里</p></td>
 <td><p>Cha Myoung Jun<br />
@@ -1819,7 +1820,7 @@ Seo Jung Ha</p></td>
 <td><p>第26話<br />
 （第100話）</p></td>
 <td></td>
-<td><p><a href="../Page/猜拳.md" title="wikilink">猜拳</a>小子來了！</p></td>
+<td><p>猜拳小子來了！</p></td>
 <td><p>筆安一幸</p></td>
 <td><p>副島惠文</p></td>
 <td><p>Kim Min Sun</p></td>
@@ -1859,7 +1860,7 @@ Ryu Seung Chul<br />
 <td><p>第28話<br />
 （第102話）</p></td>
 <td></td>
-<td><p><a href="../Page/公路.md" title="wikilink">公路</a>之星 其1</p></td>
+<td><p>其1</p></td>
 <td><p>玉村仁</p></td>
 <td><p>千葉山夏惠<br />
 渡邊葉留<br />
@@ -1881,7 +1882,7 @@ Shin Hyung Woo</p></td>
 <td><p>第29話<br />
 （第103話）</p></td>
 <td></td>
-<td><p>公路之星 其2</p></td>
+<td><p>其2</p></td>
 <td><p>古川順康</p></td>
 <td><p>村田光</p></td>
 <td><p>蘆谷耕平<br />
@@ -1909,7 +1910,7 @@ Shin Hyung Woo<br />
 <td><p>第30話<br />
 （第104話）</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/貓" title="wikilink">貓喜歡吉良吉影</a></p></td>
+<td><p>貓喜歡吉良吉影</p></td>
 <td><p>豬爪慎一<br />
 筆安一幸</p></td>
 <td><p>嶌田惣一</p></td>
@@ -2064,7 +2065,7 @@ Cha Myoung Jun</p></td>
 <td><p>第37話<br />
 （第111話）</p></td>
 <td></td>
-<td><p>不滅的瘋狂D（鑽石） 其1</p></td>
+<td><p>不滅的瘋狂 其1</p></td>
 <td><p>筆安一幸</p></td>
 <td><p>古川順康</p></td>
 <td><p>副島惠文<br />
@@ -2088,7 +2089,7 @@ Cha Myoung Jun<br />
 <td><p>第38話<br />
 （第112話）</p></td>
 <td></td>
-<td><p>不滅的瘋狂D（<a href="https://zh.wikipedia.org/wiki/鑽石" title="wikilink">鑽石</a>） 其2</p></td>
+<td><p>不滅的瘋狂 其2</p></td>
 <td><p>追崎史敏</p></td>
 <td><p>加藤敏幸<br />
 村田光<br />
@@ -2113,7 +2114,7 @@ Cha Myoung Jun</p></td>
 <td><p>第39話<br />
 （第113話）</p></td>
 <td></td>
-<td><p>再會了<a href="https://zh.wikipedia.org/wiki/杜王町" title="wikilink">杜王町</a>－<a href="https://zh.wikipedia.org/wiki/黃金" title="wikilink">黃金精神</a></p></td>
+<td><p>再會了杜王町－黃金精神</p></td>
 <td><p>小林靖子</p></td>
 <td><p>津田尚克</p></td>
 <td><p>棚澤隆<br />
@@ -2129,7 +2130,7 @@ Cha Myoung Jun</p></td>
 </tbody>
 </table>
 
-### 播放單位（第三季）
+### 播放單位（第四季）
 
 <table>
 <caption>日本國外 網路頻道 / 第3季 播放日期時間</caption>
@@ -2147,28 +2148,17 @@ Cha Myoung Jun</p></td>
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷</a></p></td>
-<td><p>2016年4月1日－12月23日</p></td>
-<td><p>星期五 24時30分 更新</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/網路電視" title="wikilink">網路電視</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/簡體中文" title="wikilink">簡體中文</a></p></td>
-<td><p>獨播<br />
-<br />
-版權到期，已下架</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/bilibili" title="wikilink">bilibili</a></p></td>
 <td><p>2018年10月1日</p></td>
 <td><p>星期一 16時00分 全集更新</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路電視" title="wikilink">網路電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/簡體中文" title="wikilink">簡體中文</a></p></td>
 <td><p>獨播</p></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>2019年8月16日</p></td>
-<td><p>星期五 13時57分 更新</p></td>
+<td><p>星期五 13時57分 全集更新</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/繁體中文" title="wikilink">繁體中文</a></p></td>
 <td></td>
 <td></td>
@@ -2177,7 +2167,7 @@ Cha Myoung Jun</p></td>
 </tbody>
 </table>
 
-## 第四季
+## 第五季
 
 2018年1月9日在集英社送審的「[黃金之風](../Page/黃金之風.md "wikilink")」商標通過之後，廣泛認為此舉為該作動畫化的標誌。
 
@@ -2185,7 +2175,7 @@ Cha Myoung Jun</p></td>
 
 台灣於2018年10月5日起，每週六由[friDay影音跟播](https://zh.wikipedia.org/wiki/friDay影音 "wikilink")。
 
-### 主題曲（第四季）
+### 主題曲（第五季）
 
   - 片頭曲
 
@@ -2227,7 +2217,7 @@ Cha Myoung Jun</p></td>
       -
         作詞、作曲：、[Carl Orff](https://zh.wikipedia.org/wiki/卡爾·奧爾夫 "wikilink")，主唱：[Enigma](https://zh.wikipedia.org/wiki/謎_\(音樂團體\) "wikilink")
 
-### 各話標題（第四季）
+### 各話標題（第五季）
 
 <table>
 <thead>
@@ -2262,7 +2252,7 @@ Cha Myoung Jun</p></td>
 <td><p>Episodio 01<br />
 （第114話）</p></td>
 <td></td>
-<td><p>黃金體驗</p></td>
+<td></td>
 <td><p>小林靖子</p></td>
 <td><p>津田尚克</p></td>
 <td><p>高村雄太</p></td>
@@ -2337,7 +2327,7 @@ SHIN HYUNG WOO<br />
 <td><p>Episodio 06<br />
 （第119話）</p></td>
 <td></td>
-<td><p>憂鬱藍調的逆襲</p></td>
+<td><p>的逆襲</p></td>
 <td><p>筆安一幸</p></td>
 <td><p>高橋秀彌</p></td>
 <td><p>三上喜子</p></td>
@@ -2354,7 +2344,7 @@ SHIN HYUNG WOO<br />
 <td><p>Episodio 07<br />
 （第120話）</p></td>
 <td></td>
-<td><p>性感手槍登場 其1</p></td>
+<td><p>登場 其1</p></td>
 <td><p>鈴木恭兵</p></td>
 <td><p>森藤希子<br />
 真島二郎<br />
@@ -2372,7 +2362,7 @@ SHIN HYUNG WOO<br />
 <td><p>Episodio 08<br />
 （第121話）</p></td>
 <td></td>
-<td><p>性感手槍登場 其2</p></td>
+<td><p>登場 其2</p></td>
 <td><p>尾根真砂子</p></td>
 <td><p>長田伸二</p></td>
 <td><p>SHIN HYUNG WOO<br />
@@ -2409,7 +2399,7 @@ SHIN HYUNG WOO<br />
 <td><p>Episodio 10<br />
 （第123話）</p></td>
 <td></td>
-<td><p>殺手小組</p></td>
+<td><p>小組</p></td>
 <td><p>藤本次朗</p></td>
 <td><p>小林亮<br />
 森田莉奈<br />
@@ -2426,7 +2416,7 @@ SHIN HYUNG WOO<br />
 <td><p>Episodio 11<br />
 （第124話）</p></td>
 <td></td>
-<td><p>納蘭迦的史密斯飛船</p></td>
+<td><p>納蘭迦的</p></td>
 <td><p>三上喜子<br />
 高橋秀彌</p></td>
 <td><p>長田伸二</p></td>
@@ -2467,7 +2457,7 @@ SHIN HYUNG WOO<br />
 <td><p>Episodio 13<br />
 （第126話）</p></td>
 <td></td>
-<td><p>鏡中人與紫煙</p></td>
+<td><p>與</p></td>
 <td><p>江島泰男</p></td>
 <td><p>SHIN HYUNG WOO<br />
 木下由衣<br />
@@ -2524,7 +2514,7 @@ SHIN HYUNG WOO<br />
 <td><p>Episodio 15<br />
 （第128話）</p></td>
 <td></td>
-<td><p>壯烈成仁 其1</p></td>
+<td><p>其1</p></td>
 <td><p>南川達馬</p></td>
 <td><p>上竹哲郎<br />
 森藤希子<br />
@@ -2541,7 +2531,7 @@ SHIN HYUNG WOO</p></td>
 <td><p>Episodio 16<br />
 （第129話）</p></td>
 <td></td>
-<td><p>壯烈成仁 其2</p></td>
+<td><p>其2</p></td>
 <td><p>小林靖子</p></td>
 <td><p>瀨木弘正</p></td>
 <td><p>高橋賢</p></td>
@@ -2559,7 +2549,7 @@ SHIN HYUNG WOO</p></td>
 <td><p>Episodio 17<br />
 （第130話）</p></td>
 <td></td>
-<td><p>娃娃臉</p></td>
+<td></td>
 <td><p>川-{畑}-喬<br />
 津田尚克</p></td>
 <td><p>津田尚克<br />
@@ -2599,7 +2589,7 @@ SHIN HYUNG WOO</p></td>
 <td><p>Episodio 19<br />
 （第132話）</p></td>
 <td></td>
-<td><p>白色相簿</p></td>
+<td></td>
 <td><p>吉田泰三</p></td>
 <td><p>長田伸二</p></td>
 <td><p>森田莉奈<br />
@@ -2637,7 +2627,7 @@ SHIN HYUNG WOO</p></td>
 <td><p>Episodio 21<br />
 （第134話）</p></td>
 <td></td>
-<td><p>緋紅之王的謎題</p></td>
+<td><p>的謎題</p></td>
 <td><p>津田尚克<br />
 木村泰大</p></td>
 <td><p>津田尚克<br />
@@ -2677,7 +2667,7 @@ determinazione</p></td>
 <td><p>Episodio 22<br />
 （第135話）</p></td>
 <td></td>
-<td><p>Guts的「G」</p></td>
+<td><p>Guts的</p></td>
 <td><p>安川正吾</p></td>
 <td><p>高橋秀彌<br />
 藤本次朗</p></td>
@@ -2696,7 +2686,7 @@ SHIN HYUNG WOO<br />
 <td><p>Episodio 23<br />
 （第136話）</p></td>
 <td></td>
-<td><p>衝擊與臉部特寫</p></td>
+<td><p>與</p></td>
 <td><p>藤本次朗</p></td>
 <td><p>江福仁美</p></td>
 <td><p>木下由衣<br />
@@ -2732,7 +2722,7 @@ SHIN HYUNG WOO<br />
 <td><p>Episodio 25<br />
 （第138話）</p></td>
 <td></td>
-<td><p>辣妹</p></td>
+<td></td>
 <td><p>南川達馬<br />
 藤本次朗</p></td>
 <td><p>高橋雅和</p></td>
@@ -2770,7 +2760,7 @@ SHIN HYUNG WOO<br />
 <td><p>Episodio 27<br />
 （第140話）</p></td>
 <td></td>
-<td><p>緋紅之王v.s.金屬製品</p></td>
+<td><p>vs.</p></td>
 <td><p>堀內全</p></td>
 <td><p>吉田泰三</p></td>
 <td><p>長田伸二</p></td>
@@ -2830,7 +2820,7 @@ destino</p></td>
 <td><p>Episodio 30<br />
 （第143話）</p></td>
 <td></td>
-<td><p>青春歲月與綠洲 其1</p></td>
+<td><p>與 其1</p></td>
 <td><p>川-{畑}-喬</p></td>
 <td><p>佐藤洋二</p></td>
 <td><p>SHIN HYUNG WOO<br />
@@ -2848,7 +2838,7 @@ destino</p></td>
 <td><p>Episodio 31<br />
 （第144話）</p></td>
 <td></td>
-<td><p>青春歲月與綠洲 其2</p></td>
+<td><p>與 其2</p></td>
 <td><p>筆安一幸</p></td>
 <td><p>藤本次朗</p></td>
 <td><p><a href="../Page/木村泰大.md" title="wikilink">木村泰大</a></p></td>
@@ -2865,7 +2855,7 @@ destino</p></td>
 <td><p>Episodio 32<br />
 （第145話）</p></td>
 <td></td>
-<td><p>青春歲月與綠洲 其3</p></td>
+<td><p>與 其3</p></td>
 <td><p>大原實</p></td>
 <td><p>長田伸二</p></td>
 <td><p>石本峻一<br />
@@ -2977,7 +2967,7 @@ SHIN HYUNG WOO<br />
 <td><p>Episodio 37<br />
 （第150話）</p></td>
 <td></td>
-<td><p>王中之王</p></td>
+<td></td>
 <td><p>筆安一幸</p></td>
 <td><p>鈴木恭兵<br />
 大原實</p></td>
@@ -3001,7 +2991,7 @@ SHIN HYUNG WOO</p></td>
 <td><p>Episodio 38<br />
 （第151話）</p></td>
 <td></td>
-<td><p>黃金體驗安魂曲</p></td>
+<td></td>
 <td><p>小林靖子</p></td>
 <td><p>加藤敏幸<br />
 藤本次朗</p></td>
@@ -3050,7 +3040,7 @@ SHIN HYUNG WOO<br />
 </tbody>
 </table>
 
-### 播放單位（第四季）
+### 播放單位（第五季）
 
 <table>
 <caption>日本國外 網路頻道 / 第4季 播放日期時間</caption>
@@ -3082,61 +3072,62 @@ SHIN HYUNG WOO<br />
 
 ### 藍光\&DVD
 
-| 卷數         | 發售日期         | 收錄話數       | 規格編號       |
-| ---------- | ------------ | ---------- | ---------- |
-| 藍光         | DVD          |            |            |
-| 第一季        |              |            |            |
-| 1          | 2013年1月30日   | 第1話～第3話    | 1000361842 |
-| 2          | 2013年2月22日   | 第4話～第6話    | 1000361836 |
-| 3          | 2013年3月29日   | 第7話～第9話    | 1000361830 |
-| 4          | 2013年4月26日   | 第10話～第12話  | 1000361825 |
-| 5          | 2013年5月31日   | 第13話～第15話  | 1000361820 |
-| 6          | 2013年6月28日   | 第16話～第18話  | 1000361810 |
-| 7          | 2013年7月26日   | 第19話～第21話  | 1000361805 |
-| 8          | 2013年8月30日   | 第22話～第24話  | 1000361801 |
-| 9          | 2013年9月27日   | 第25話～第26話  | 1000361587 |
-| 第1季 總集篇    |              |            |            |
-| 1          | 2014年3月26日   | 幻影血脈       | 1000471896 |
-| 2          | 戰鬥潮流 前篇      | 1000471895 | 1000477755 |
-| 3          | 戰鬥潮流 後篇      | 1000471894 | 1000478593 |
-| 第二季 前半     |              |            |            |
-| 1          | 2014年7月30日   | 第1話～第4話    | 1000501439 |
-| 2          | 2014年8月27日   | 第5話～第8話    | 1000501855 |
-| 3          | 2014年9月24日   | 第9話～第12話   | 1000501856 |
-| 4          | 2014年10月22日  | 第13話～第16話  | 1000501857 |
-| 5          | 2014年11月26日  | 第17話～第20話  | 1000501858 |
-| 6          | 2014年12月19日  | 第21話～第24話  | 1000501859 |
-| 第二季 後半 埃及篇 |              |            |            |
-| 1          | 2015年4月22日   | 第25話～第28話  | 1000503841 |
-| 2          | 2015年5月27日   | 第29話～第32話  | 1000505061 |
-| 3          | 2015年6月24日   | 第33話～第36話  | 1000504458 |
-| 4          | 2015年7月29日   | 第37話～第40話  | 1000504459 |
-| 5          | 2015年8月26日   | 第41話～第44話  | 1000505062 |
-| 6          | 2015年9月30日   | 第45話～第48話  | 1000505063 |
-| 第三季        |              |            |            |
-| 1          | 2016年6月22日   | 第1話～第3話    | 1000603710 |
-| 2          | 2016年7月27日   | 第4話～第6話    | 1000603711 |
-| 3          | 2016年8月24日   | 第7話～第9話    | 1000603712 |
-| 4          | 2016年9月28日   | 第10話～第12話  | 1000603713 |
-| 5          | 2016年10月26日  | 第13話～第15話  | 1000603714 |
-| 6          | 2016年11月23日  | 第16話～第18話  | 1000603715 |
-| 7          | 2016年12月21日  | 第19話～第21話  | 1000603716 |
-| 8          | 2017年1月25日   | 第22話～第24話  | 1000603717 |
-| 9          | 2017年2月22日   | 第25話～第27話  | 1000603718 |
-| 10         | 2017年3月29日   | 第28話～第30話  | 1000603719 |
-| 11         | 2017年4月26日   | 第31話～第33話  | 1000603720 |
-| 12         | 2017年5月24日   | 第34話～第36話  | 1000603721 |
-| 13         | 2017年6月28日   | 第37話～第39話  | 1000603722 |
-| 第四季\[18\]  |              |            |            |
-| 1          | 2018年12月19日  | 第1話～第4話    | 1000737000 |
-| 2          | 2019年2月13日   | 第5話～第8話    | 1000737001 |
-| 3          | 2019年3月13日   | 第9話～第12話   | 1000737002 |
-| 4          | 2019年4月10日   | 第13話～第16話  | 1000737003 |
-| 5          | 2019年5月15日   | 第17話～第20話  | 1000737004 |
-| 6          | 2019年7月10日   | 第21話～第24話  | 1000737005 |
-| 7          | 2019年8月14日   | 第25話～第28話  | 1000737006 |
-| 8          | 2019年9月11日   | 第29話～第32話  | 1000737007 |
-| 9          | 預定2019年10月9日 | 第33話～第36話  | 1000737008 |
+| 卷數         | 發售日期        | 收錄話數       | 規格編號       |
+| ---------- | ----------- | ---------- | ---------- |
+| 藍光         | DVD         |            |            |
+| 第一季        |             |            |            |
+| 1          | 2013年1月30日  | 第1話～第3話    | 1000361842 |
+| 2          | 2013年2月22日  | 第4話～第6話    | 1000361836 |
+| 3          | 2013年3月29日  | 第7話～第9話    | 1000361830 |
+| 4          | 2013年4月26日  | 第10話～第12話  | 1000361825 |
+| 5          | 2013年5月31日  | 第13話～第15話  | 1000361820 |
+| 6          | 2013年6月28日  | 第16話～第18話  | 1000361810 |
+| 7          | 2013年7月26日  | 第19話～第21話  | 1000361805 |
+| 8          | 2013年8月30日  | 第22話～第24話  | 1000361801 |
+| 9          | 2013年9月27日  | 第25話～第26話  | 1000361587 |
+| 第1季 總集篇    |             |            |            |
+| 1          | 2014年3月26日  | 幻影血脈       | 1000471896 |
+| 2          | 戰鬥潮流 前篇     | 1000471895 | 1000477755 |
+| 3          | 戰鬥潮流 後篇     | 1000471894 | 1000478593 |
+| 第二季 前半     |             |            |            |
+| 1          | 2014年7月30日  | 第1話～第4話    | 1000501439 |
+| 2          | 2014年8月27日  | 第5話～第8話    | 1000501855 |
+| 3          | 2014年9月24日  | 第9話～第12話   | 1000501856 |
+| 4          | 2014年10月22日 | 第13話～第16話  | 1000501857 |
+| 5          | 2014年11月26日 | 第17話～第20話  | 1000501858 |
+| 6          | 2014年12月19日 | 第21話～第24話  | 1000501859 |
+| 第二季 後半 埃及篇 |             |            |            |
+| 1          | 2015年4月22日  | 第25話～第28話  | 1000503841 |
+| 2          | 2015年5月27日  | 第29話～第32話  | 1000505061 |
+| 3          | 2015年6月24日  | 第33話～第36話  | 1000504458 |
+| 4          | 2015年7月29日  | 第37話～第40話  | 1000504459 |
+| 5          | 2015年8月26日  | 第41話～第44話  | 1000505062 |
+| 6          | 2015年9月30日  | 第45話～第48話  | 1000505063 |
+| 第三季        |             |            |            |
+| 1          | 2016年6月22日  | 第1話～第3話    | 1000603710 |
+| 2          | 2016年7月27日  | 第4話～第6話    | 1000603711 |
+| 3          | 2016年8月24日  | 第7話～第9話    | 1000603712 |
+| 4          | 2016年9月28日  | 第10話～第12話  | 1000603713 |
+| 5          | 2016年10月26日 | 第13話～第15話  | 1000603714 |
+| 6          | 2016年11月23日 | 第16話～第18話  | 1000603715 |
+| 7          | 2016年12月21日 | 第19話～第21話  | 1000603716 |
+| 8          | 2017年1月25日  | 第22話～第24話  | 1000603717 |
+| 9          | 2017年2月22日  | 第25話～第27話  | 1000603718 |
+| 10         | 2017年3月29日  | 第28話～第30話  | 1000603719 |
+| 11         | 2017年4月26日  | 第31話～第33話  | 1000603720 |
+| 12         | 2017年5月24日  | 第34話～第36話  | 1000603721 |
+| 13         | 2017年6月28日  | 第37話～第39話  | 1000603722 |
+| 第四季\[18\]  |             |            |            |
+| 1          | 2018年12月19日 | 第1話～第4話    | 1000737000 |
+| 2          | 2019年2月13日  | 第5話～第8話    | 1000737001 |
+| 3          | 2019年3月13日  | 第9話～第12話   | 1000737002 |
+| 4          | 2019年4月10日  | 第13話～第16話  | 1000737003 |
+| 5          | 2019年5月15日  | 第17話～第20話  | 1000737004 |
+| 6          | 2019年7月10日  | 第21話～第24話  | 1000737005 |
+| 7          | 2019年8月14日  | 第25話～第28話  | 1000737006 |
+| 8          | 2019年9月11日  | 第29話～第32話  | 1000737007 |
+| 9          | 2019年10月9日  | 第33話～第36話  | 1000737008 |
+| 10         | 2019年11月13日 | 第37話～第39話  | 1000737009 |
 
 ### 原聲帶
 
@@ -3182,36 +3173,22 @@ SHIN HYUNG WOO<br />
 [Category:2012年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2012年日本電視動畫 "wikilink") [Category:2013年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2013年日本電視動畫 "wikilink") [Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:緯來電視外購動畫](https://zh.wikipedia.org/wiki/Category:緯來電視外購動畫 "wikilink") [Category:2012年UHF動畫](https://zh.wikipedia.org/wiki/Category:2012年UHF動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:David_Production](https://zh.wikipedia.org/wiki/Category:David_Production "wikilink")
 
 1.  至7月5日為止37話連續播放，有中斷，第38話、第39話（最終回）於7月28日以一小時連續二話的方式播放。
-
 2.
-
 3.
-
 4.  [木棉花國際](../Page/木棉花國際.md "wikilink")代理的中文譯名。
-
 5.  香港J2標題，以播放時所顯示的字幕為準。
-
 6.
-
 7.
-
 8.  原作未設定，方便上記作「離家少女（）」，出自畫冊『JoJo6251 ［荒木飛呂世界］』。
-
 9.  平常是承太郎呼叫出替身「白金之星」之後喔拉喔拉連發痛扁對手的[背景音樂](https://zh.wikipedia.org/wiki/背景 "wikilink")，第三季之後即使在同樣的場合仍繼續使用相同的背景音樂。至於當本話當片尾曲使用有縮短[音樂長度](https://zh.wikipedia.org/wiki/音樂 "wikilink")，並以黑底白字和由下往上顯示工作人員。
-
 10. 第27話片尾曲曲名為「」，第36話、第37話為「」。
-
 11. 於本集片尾曲使用的通常劇中背景音樂，工作人員字幕並無顯示。
-
 12.
 13.
 14.
-
 15.
 16.
 17.
-
 18.
 19.
-
 20.

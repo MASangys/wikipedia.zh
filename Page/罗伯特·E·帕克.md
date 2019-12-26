@@ -24,8 +24,6 @@
 [Category:美国社会学家](https://zh.wikipedia.org/wiki/Category:美国社会学家 "wikilink") [Category:哈佛大學校友](https://zh.wikipedia.org/wiki/Category:哈佛大學校友 "wikilink") [Category:美國社會學會理事長](https://zh.wikipedia.org/wiki/Category:美國社會學會理事長 "wikilink") [Category:芝加哥大學教師](https://zh.wikipedia.org/wiki/Category:芝加哥大學教師 "wikilink") [Category:密西根大學校友](https://zh.wikipedia.org/wiki/Category:密西根大學校友 "wikilink")
 
 1.
-
 2.
 3.
-
 4.

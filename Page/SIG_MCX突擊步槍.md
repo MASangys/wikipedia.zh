@@ -1,4 +1,4 @@
-**SIG MCX**是一款由[西格&紹爾](../Page/西格&紹爾.md "wikilink")所研製及生產的一系列[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，採用了從[SIG MPX衝鋒槍結轉改進而成的](../Page/SIG_MPX衝鋒槍.md "wikilink")[短行程導氣活塞氣動式系統](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#短行程活塞傳動 "wikilink")，並具有[半自動型和](https://zh.wikipedia.org/wiki/半自動步枪 "wikilink")[擊發調變](../Page/擊發調變槍械.md "wikilink")（[突擊步枪](https://zh.wikipedia.org/wiki/突擊步枪 "wikilink")）型兩種配置。\[1\]目前可發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")、和[7.62×39毫米蘇聯](../Page/7.62×39mm.md "wikilink")（M43）這三種[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**SIG MCX**是一款由[西格&紹爾](../Page/西格&紹爾.md "wikilink")所研製及生產的一系列[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，採用了從[SIG MPX衝鋒槍結轉改進而成的](../Page/SIG_MPX衝鋒槍.md "wikilink")[短行程導氣活塞氣動式系統](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#短行程活塞傳動 "wikilink")，並且具有[半自動型和](https://zh.wikipedia.org/wiki/半自動步枪 "wikilink")[擊發調變](../Page/擊發調變槍械.md "wikilink")（[突擊步枪](https://zh.wikipedia.org/wiki/突擊步枪 "wikilink")）型兩種配置。\[1\]目前可發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")、和[7.62×39毫米蘇聯](../Page/7.62×39mm.md "wikilink")（M43）這三種[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 於[西格&紹爾](../Page/西格&紹爾.md "wikilink")在新罕布什爾州的工廠建製的SIG MCX，根據西格&紹爾小冊子對該步槍的描述，為“經過徹底改造以後成為短、輕量、消聲”的武器。\[2\]
 
@@ -53,7 +53,7 @@ SIG設計的上機匣可在裝上適配器以後與標準的[AR-15和](../Page/A
 
   -   - [特别行动组](../Page/特别行动组_\(葡萄牙\).md "wikilink")，SIG MCX 5.56毫米口徑\[41\]
 
-  -   - [倫敦警察廳](../Page/倫敦警察廳.md "wikilink")[專業罪案及行動專業槍械司令部反恐專業槍械警員](../Page/專業槍械司令部.md "wikilink")\[42\]\[43\]
+  -   - [倫敦都市警部](../Page/倫敦警察廳.md "wikilink")[特別罪案及行動特種槍械司令部反恐特種槍械警員](https://zh.wikipedia.org/wiki/特種槍械司令部 "wikilink")\[42\]\[43\]
 
       -
       -
@@ -64,6 +64,18 @@ SIG設計的上機匣可在裝上適配器以後與標準的[AR-15和](../Page/A
 ### 2016年奧蘭多夜店槍擊案
 
 2016年6月12日約上午2:00至5:00（[北美东部时区](../Page/北美东部时区.md "wikilink")[UTC-4](https://zh.wikipedia.org/wiki/UTC-4 "wikilink")），美國[佛罗里达州](../Page/佛罗里达州.md "wikilink")[奧蘭多南奧蘭治大道](../Page/奥兰多_\(佛罗里达州\).md "wikilink")1912號，29歲阿富汗裔[伊斯兰国](../Page/伊斯兰国.md "wikilink")[恐怖分子](../Page/恐怖主义.md "wikilink")[奥马尔·马丁](../Page/奥马尔·马丁.md "wikilink")使用SIG MCX半自動步槍型（和[格洛克17](../Page/格洛克17.md "wikilink")），在佛羅里達州奧蘭多「脈動」[同志酒吧中開槍殺死至少](https://zh.wikipedia.org/wiki/同志酒吧 "wikilink")49人並擊傷53人，直到他在與警方的交火中身亡為止。這是美國歷史上第二嚴重的大規模槍擊事件，死傷人數僅次於[911恐怖攻擊事件和拉斯维加斯枪击事件](../Page/九一一袭击事件.md "wikilink")。\[45\]\[46\]
+
+## 流行文化
+
+### [電影](https://zh.wikipedia.org/wiki/電影 "wikilink")
+
+  - 2018年—《[-{zh-hans:22英里; zh-hk:絕地22哩; zh-tw:拳力逃脫;}-](../Page/拳力逃脫.md "wikilink")》（Mile 22）：型號為MCX，由美國[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[特別活動部特工道格拉斯](../Page/中央情報局特別活動中心.md "wikilink")（飾演）所使用。
+  - 2018年—《[-{zh-hans:制裁特攻; zh-hk:叛諜裁判2; zh-tw:私刑教育2;}-](../Page/私刑教育2.md "wikilink")》（The Equalizer 2）：型號為MCX，由雷斯尼克（飾演）所使用。
+
+### [電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")
+
+  - 2007年—《[戰地之王](../Page/戰地之王.md "wikilink")》（Alliance of Valiant Arms）：命名為“SIG MCX SBR”。
+  - 2019年—《[-{zh-cn:使命召唤：现代战争; zh-tw:決勝時刻：現代戰爭; zh-hk:使命召喚：現代戰爭}-](https://zh.wikipedia.org/wiki/使命召唤：现代战争_\(2019年遊戲\) "wikilink")》（Call of Duty: Modern Warfare）：型號為MCX VIRTUS，命名為“M13”，可進行自定義改裝。故事模式中由[英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[特種空勤團所使用](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")。
 
 ## 參見
 
@@ -167,24 +179,15 @@ SIG設計的上機匣可在裝上適配器以後與標準的[AR-15和](../Page/A
 [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:半自動步槍](https://zh.wikipedia.org/wiki/Category:半自動步槍 "wikilink") [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink") [Category:.300_AAC_BLK口徑槍械](https://zh.wikipedia.org/wiki/Category:.300_AAC_BLK口徑槍械 "wikilink") [Category:7.62×39毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×39毫米槍械 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:美國槍械](https://zh.wikipedia.org/wiki/Category:美國槍械 "wikilink") [Category:美國步槍](https://zh.wikipedia.org/wiki/Category:美國步槍 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
 13.
@@ -192,56 +195,32 @@ SIG設計的上機匣可在裝上適配器以後與標準的[AR-15和](../Page/A
 15.
 16.
 17.
-
 18.
-
 19.
 20.
 21. Federal Gun Control Act 1968 [18 U.S. Code § 921 - Definitions](https://www.law.cornell.edu/uscode/text/18/921), Cornell.edu, "(29) The term “handgun” means— (A) a firearm which has a short stock and is designed to be held and fired by the use of a single hand"
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
 28.
-
 29.
-
 30.
-
 31.
 32.
-
 33.
 34.
-
 35.
-
 36. <http://m.bild.de/regional/berlin/isis-terroristen/das-neue-anti-terror-gewehr-53509630.bildMobile.html?wtmc=mwÜ>
-
 37.
-
 38. [ARMED FORCES OF MALTA ADOPT THE SIG SAUER MCX WEAPON SYSTEM](https://www.lsb-malta.com/en/articles-news/news/20/armed-forces-of-malta-adopt-the-sig-sauer-mcx-weapon-system.htm)
-
 39. [AP Exclusive: Captain feared death in migrant hijack at sea](https://thepublicsradio.org/article/libyan-official-migrants-used-metal-tools-to-threaten-crew)
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.

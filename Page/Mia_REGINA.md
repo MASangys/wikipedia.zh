@@ -73,7 +73,7 @@
 <td><p>2019年8月21日</p></td>
 <td><p><strong></strong></p></td>
 <td><p>LACM-14921</p></td>
-<td></td>
+<td><p>129名</p></td>
 </tr>
 </tbody>
 </table>
@@ -182,15 +182,11 @@
 [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
 7.
 8.
-
 9.

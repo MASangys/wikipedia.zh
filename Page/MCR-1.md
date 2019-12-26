@@ -11,12 +11,8 @@
 [Category:基因](https://zh.wikipedia.org/wiki/Category:基因 "wikilink") [Category:抗生素抗藥性](https://zh.wikipedia.org/wiki/Category:抗生素抗藥性 "wikilink") [Category:大腸桿菌](https://zh.wikipedia.org/wiki/Category:大腸桿菌 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.

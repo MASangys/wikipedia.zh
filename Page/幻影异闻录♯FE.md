@@ -4,7 +4,7 @@
 
 《幻影异闻录♯FE》首次公布于2013年1月23日播出的《[任天堂直面会](../Page/任天堂直面会.md "wikilink")》，当时游戏公布的名称为《真女神转生X火焰之纹章》。最初的開發啟發是高田慎二郎與山上仁志等人雙方交流，有了兩方面合作的共識。在2013年發佈合作遊戲項目後，一段時間曾經打算神話化背景為題材以SRPG作為雙方合作遊戲的類型，但在開發有波折經過商討後有所轉變，變成以現代化的背景+神話人物化的火焰之紋章角色+演藝歌舞元素為題材，接近當時女神異聞錄玩法並加以改策為遊玩類型。最終定案成型作為開發方向，在2015年4月的《任天堂直面會》發表正式名稱為《幻影異聞錄♯FE》並公佈預定的發售日期。將遊戲項目定於該年年底[聖誕節期間在日本發售](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")，歐美地區則在半年後發售。
 
-經過接近四年後，在2019年9月5日透過《任天堂直面會》公佈了《幻影異聞錄♯FE Encore》，作為在[任天堂Switch](../Page/任天堂Switch.md "wikilink")平台移植的加強版遊戲，於2020年1月17日發售，本作同時支持中文同步發售。加強版以Encore命名，對比原來版本追加了全新曲目、新增系統服飾、新劇本、加入更多的MV演出內容等，並且追加社長舞子、導師巴利、偶像琪姬作為參戰成員，並各自有新劇本內容。
+經過接近四年後，在2019年9月5日透過《任天堂直面會》公佈了《幻影異聞錄♯FE Encore》，作為在[任天堂Switch](../Page/任天堂Switch.md "wikilink")平台移植的加強版遊戲，於2020年1月17日發售，本作同時支持中文同步發售。\[4\]加強版以Encore命名，對比原來版本追加了全新曲目、新增系統服飾、新劇本、加入更多的MV演出內容等，並且追加社長舞子、導師巴利、偶像琪姬作為參戰成員，並各自有新劇本內容。值得一提的是Switch版本采用了欧美版本的游戏内容；相较于日本原版，游戏的欧美版在角色的衣着、台词以及“[杀必死](https://zh.wikipedia.org/wiki/杀必死 "wikilink")”等方面进行了比较多的保守向修改。\[5\]而任天堂方面也对最初在日版的宣传中展示的是本作的日版截图所可能产生的误导表示歉意，并将开放对购买预载了日版游戏的玩家退款渠道。\[6\]
 
 ## 登場人物
 
@@ -96,10 +96,13 @@
 ## 外部链接
 
   - [幻影異聞錄♯FE 官方網站](https://www.nintendo.co.jp/wiiu/asej/index.html)
-  - [幻影異聞録♯FE Encore 官方網站](https://www.nintendo.co.jp/switch/asa4a/)
 
+  -
 [Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:女神轉生系列電子遊戲](https://zh.wikipedia.org/wiki/Category:女神轉生系列電子遊戲 "wikilink") [Category:火焰之纹章系列](https://zh.wikipedia.org/wiki/Category:火焰之纹章系列 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:Atlus游戏](https://zh.wikipedia.org/wiki/Category:Atlus游戏 "wikilink") [Category:任天堂游戏](https://zh.wikipedia.org/wiki/Category:任天堂游戏 "wikilink") [Category:Wii_U遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U遊戲 "wikilink") [Category:Wii_U_eShop遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U_eShop遊戲 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink") [Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink") [Category:东京背景电子游戏](https://zh.wikipedia.org/wiki/Category:东京背景电子游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.
 2.
 3.
+4.  [WiiU《幻影异闻录\#FE 安可》2020年1月登陆Switch，包含中文](https://www.vgtime.com/topic/1063989.jhtml).VGtime游戏时光.2019-09-05.\[2019-10-18\].
+5.  [All The Racy Stuff Changed For Tokyo Mirage Sessions' Western Release](https://kotaku.com/all-the-racy-stuff-changed-for-tokyo-mirage-sessions-we-1783052483).Kotaku.2016-07-03.\[2019-10-18\].
+6.  [Nintendo Switch『幻影異聞録♯ＦＥ Encore』に関するお詫び](https://www.nintendo.co.jp/support/information/2019/1018.html).任天堂株式会社.2019-10-18.\[2019-10-18\].

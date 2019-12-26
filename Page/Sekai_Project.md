@@ -2,11 +2,11 @@
 
 ## 历史
 
-Sekai Project创建于2007年，当时Sekai Project是其中一個翻译[十八禁游戏](https://zh.wikipedia.org/wiki/十八禁游戏 "wikilink")《[School Days](../Page/School_Days.md "wikilink")》的非官方翻译组，\[1\]之后其与发行商[JAST USA合作](https://zh.wikipedia.org/wiki/JAST_USA "wikilink")，从而从民间翻译组转型为官方翻译机构。\[2\]从2014年起，Sekai Project开始在[Steam](../Page/Steam.md "wikilink")平台发售游戏，首作为[支仓冻砂的](https://zh.wikipedia.org/wiki/支仓冻砂 "wikilink")《[World End Economica episode.01](https://zh.wikipedia.org/wiki/World_End_Economica "wikilink")》，于当年6月发行。Sekai Project在[公众集资平台](https://zh.wikipedia.org/wiki/公众集资 "wikilink")[Kickstarter](../Page/Kickstarter.md "wikilink")筹集过很多作品的款项。2014年11月，公司在Kickstarter上上載了视觉小说《[Clannad](https://zh.wikipedia.org/wiki/Clannad "wikilink")》的英语版本筹资项目，并将目标定为140,000美元，而最后筹集到了逾500,000美元。\[3\]2015年7月，Sekai Project宣称除电子游戏外，还将发行[漫画的翻译作品](https://zh.wikipedia.org/wiki/漫画 "wikilink")，首部漫画作品为《[GATE 奇幻自卫队](https://zh.wikipedia.org/wiki/GATE_奇幻自卫队 "wikilink")》。\[4\]
+Sekai Project创建于2007年，当时Sekai Project是其中一個翻译[十八禁游戏](https://zh.wikipedia.org/wiki/十八禁游戏 "wikilink")《[School Days](../Page/School_Days.md "wikilink")》的非官方翻译组，\[1\]之后其与发行商[JAST USA合作](https://zh.wikipedia.org/wiki/JAST_USA "wikilink")，从而从民间翻译组转型为官方翻译机构。\[2\]从2014年起，Sekai Project开始在[Steam](../Page/Steam.md "wikilink")平台发售游戏，首作为[支仓冻砂的](https://zh.wikipedia.org/wiki/支仓冻砂 "wikilink")《[World End Economica episode.01](https://zh.wikipedia.org/wiki/月界金融末世錄 "wikilink")》，于当年6月发行。Sekai Project在[公众集资平台](https://zh.wikipedia.org/wiki/公众集资 "wikilink")[Kickstarter](../Page/Kickstarter.md "wikilink")筹集过很多作品的款项。2014年11月，公司在Kickstarter上上載了视觉小说《[Clannad](https://zh.wikipedia.org/wiki/Clannad "wikilink")》的英语版本筹资项目，并将目标定为140,000美元，而最后筹集到了逾500,000美元。\[3\]2015年7月，Sekai Project宣称除电子游戏外，还将发行[漫画的翻译作品](https://zh.wikipedia.org/wiki/漫画 "wikilink")，首部漫画作品为《[GATE 奇幻自卫队](https://zh.wikipedia.org/wiki/GATE_奇幻自卫队 "wikilink")》。\[4\]
 
-Sekai Project已表示有意在将来将游戏翻译至英语外的其他语言。曾参与翻译許多部视觉小说的德国翻译家馬塞爾·韋耶斯（Marcel Weyers）称对翻译Sekai Project的作品有兴趣，据称双方正对此进行协商。\[5\]
+Sekai Project已表示有意在将来将游戏翻译至英语外的其他语言。曾参与翻译許多部视觉小说的德国翻译家[馬塞爾·韋耶斯](https://zh.wikipedia.org/wiki/馬塞爾·韋耶斯 "wikilink")（Marcel Weyers）称对翻译Sekai Project的作品有兴趣，据称双方正对此进行协商。\[5\]
 
-由于[Steam](../Page/Steam.md "wikilink")一般不允许[十八禁游戏在平台发售](https://zh.wikipedia.org/wiki/十八禁游戏 "wikilink")，\[6\]因此Sekai Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的果实](https://zh.wikipedia.org/wiki/灰色的果实 "wikilink")》为例，其全年龄版本在Steam上出售，而成人版本在Denpasoft上出售。\[7\]
+由于[Steam](../Page/Steam.md "wikilink")一般不允许[十八禁游戏在平台发售](https://zh.wikipedia.org/wiki/十八禁游戏 "wikilink")（但还是有一部分十八禁游戏在steam平台发售），\[6\]因此Sekai Project改为於其合作伙伴[Denpasoft上发售成人游戏](https://zh.wikipedia.org/wiki/Denpasoft "wikilink")。以《[灰色的果实](https://zh.wikipedia.org/wiki/灰色的果实 "wikilink")》为例，其全年龄版本在Steam上出售，而成人版本在Denpasoft上出售。\[7\]
 
 ## 作品
 
@@ -23,7 +23,7 @@ Sekai Project已表示有意在将来将游戏翻译至英语外的其他语言�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/World_End_Economica" title="wikilink">World End Economica episode.01</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/月界金融末世錄" title="wikilink">World End Economica episode.01</a></p></td>
 <td><p>Spicy Tails</p></td>
 <td></td>
 <td><p>[8]</p></td>
@@ -581,7 +581,7 @@ Sekai Project已表示有意在将来将游戏翻译至英语外的其他语言�
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="../Page/9-nine-.md" title="wikilink">9-nine- 九次九日九重色</a></p></td>
 <td><p><a href="../Page/PALETTE.md" title="wikilink">PALETTE</a></p></td>
 <td><p>2019年1月31日</p></td>
 <td></td>
@@ -596,6 +596,18 @@ Sekai Project已表示有意在将来将游戏翻译至英语外的其他语言�
 <td><p><a href="../Page/Muv-Luv.md" title="wikilink">Muv-Luv Photonflowers*</a></p></td>
 <td><p><a href="../Page/5pb..md" title="wikilink">5pb.</a></p></td>
 <td><p>2019年8月2日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/9-nine-.md" title="wikilink">9-nine- 天色天歌天籟音</a></p></td>
+<td><p>PALETTE</p></td>
+<td><p>2019年8月12日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/獸娘的養育法" title="wikilink">獸娘的養育法</a></p></td>
+<td><p>SWEET&amp;TEA</p></td>
+<td><p>2019年10月11日</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -627,7 +639,6 @@ Sekai Project已表示有意在将来将游戏翻译至英语外的其他语言�
 | The Reject Demon: Toko Chapter 1                                                                 | Lupiesoft                                  | TBA | \[104\] |
 | Witch Boy Magical Piece                                                                          | Rosemary House                             | TBA | \[105\] |
 | [BALDR SKY](../Page/BALDR_SKY.md "wikilink")                                                     | [戲畫](../Page/戲畫_\(遊戲品牌\).md "wikilink")    | TBA |         |
-| 魔女こいにっき                                                                                          | Qoobrand                                   | TBA |         |
 | はるまで、くるる。                                                                                        | すみっこソフト                                    | TBA |         |
 
 ### 其他作品
@@ -684,211 +695,111 @@ Sekai Project已表示有意在将来将游戏翻译至英语外的其他语言�
 [Category:洛杉磯公司](https://zh.wikipedia.org/wiki/Category:洛杉磯公司 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44. 此作品已停止售卖，其在Steam平台也已下架。
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.
-
 78.
-
 79.
-
 80.
-
 81.
-
 82.
-
 83.
-
 84.
-
 85.
-
 86.
-
 87.
-
 88.
 89.
-
 90.
-
 91.
 92.
-
 93.
-
 94.
-
 95.
-
 96.
 97.
 98.
 99.
-
 100.
 101.
-
 102.
-
 103.
-
 104.
-
 105.
 106.
-
 107.
-
 108.
 109.

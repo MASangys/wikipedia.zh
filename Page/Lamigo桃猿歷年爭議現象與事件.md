@@ -74,39 +74,39 @@ Lamigo TV於2015年球季開幕時開播，但此時有[臉書專頁發現其Log
 
 [Category:中華職棒](https://zh.wikipedia.org/wiki/Category:中華職棒 "wikilink") [Category:Lamigo桃猿](https://zh.wikipedia.org/wiki/Category:Lamigo桃猿 "wikilink")
 
-1.  [那一夜 陳昭穎 連球衣都沒換…](http://sports.ltn.com.tw/news/paper/26533)
-2.  [司法院法學資料檢索系統](http://jirs.judicial.gov.tw/FJUD/index_1.htm)裁判法院選「臺灣臺中地方法院」，裁判類別選「刑事裁判」案號為「96年易字第1851號」
-3.  [La new熊林光宏教練公開說明](http://www.cpbl.com.tw/news/view/3715.html?&news=3715)
-4.  [中華職棒／〈快訊〉林光宏光碟爭議　熊隊暫停教練職](http://news.tvbs.com.tw/old-news.html?nid=345980)
-5.  [〈CPBL〉保羅控告猿隊欠款　Lamigo將提妨礙名譽](http://www.tsna.com.tw/index.php?q=node/37661)
-6.  [Corey Paul致Lamigo桃猿隊道歉函－OttoCat棒球新聞雜記](http://ottocat.pixnet.net/blog/post/28520614-corey-paul%E8%87%B4lamigo%E6%A1%83%E7%8C%BF%E9%9A%8A%E9%81%93%E6%AD%89%E5%87%BD)
-7.  [中職》沒乖乖復健 謝長融要賠桃猿108萬](http://sports.ltn.com.tw/news/breakingnews/1352527)
-8.  [Lamigo向投手求償　二審逆轉判敗訴定讞](http://www.appledaily.com.tw/realtimenews/article/new/20160309/811994/)
-9.  [中職年薪公布 桃猿居然墊底](http://www.chinatimes.com/realtimenews/20150311004348-260403)
-10. [職棒球員工會：希望球團公布選手薪資](http://news.tvbs.com.tw/sports/news-642192/)
-11. [【工會薪資報告】2016中華職棒本國籍球員薪資統計](https://www.facebook.com/TPBPA/posts/1188533164499355)
-12. [猿公布薪資 林泓育月薪45萬全隊第1](http://www.chinatimes.com/realtimenews/20160103002423-260403)
-13. [Lamigo涉抄襲？ 新Logo神似小聯盟球隊](http://sports.ltn.com.tw/news/breakingnews/1261977)
+1.
+2.  [司法院法學資料檢索系統](http://jirs.judicial.gov.tw/FJUD/index_1.htm) 裁判法院選「臺灣臺中地方法院」，裁判類別選「刑事裁判」案號為「96年易字第1851號」
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
 14. [Lamigo標誌涉抄襲　球團致歉商品7折賣](https://tw.news.yahoo.com/lamigo%E6%A8%99%E8%AA%8C%E6%B6%89%E6%8A%84%E8%A5%B2-%E7%90%83%E5%9C%98%E8%87%B4%E6%AD%89%E5%95%86%E5%93%817%E6%8A%98%E8%B3%A3-032400124--mlb.html)
-15. [【更新】伊梓帆談霸凌痛哭　不後悔挺洪秀柱](http://www.appledaily.com.tw/realtimenews/article/new/20150915/691913/)
-16. [中職》猿球探石志偉正式離隊 領隊給予祝福](http://sports.ltn.com.tw/news/breakingnews/1554182)
-17. [石志偉到兄弟　劉玠廷被騙批惡意挖角](http://sports.ettoday.net/news/628898)
-18. [陳金鋒千萬漢白玉雕像　就是長這樣](http://www.appledaily.com.tw/realtimenews/article/new/20160918/951105/)
-19. [鋒哥雕像曝光！「這個地方怪怪的」球迷火了](http://www.appledaily.com.tw/realtimenews/article/new/20160918/951170/)
-20. [不滿贊助商名比「陳金鋒」大！網友集資重建雕像](http://news.tvbs.com.tw/sports/674839)
-21. [動紫大盛海報涉抄襲 桃猿︰有和華納溝通](http://sports.ltn.com.tw/m/news/paper/1204837)
-22. [Lamigo海報相似《一級玩家》　片商：未授權](https://news.tvbs.com.tw/life/930639)
-23. [動紫大盛抄襲電影海報？劉玠廷：翻玩手法](https://tw.appledaily.com/new/realtime/20180602/1365861/)
-24. [中華職棒／猿隊簽下悍力克 戰力再升級](https://www.nownews.com/news/20180807/2798031)
-25. [洋投昔認性侵6歲姪女　遭大聯盟30隊封殺](https://news.tvbs.com.tw/sports/969174)
-26. [中職／桃猿新洋投惹議 網友：球迷敢帶小孩進球場嗎？](https://udn.com/news/story/7001/3295238)
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
 27. [中華職棒大聯盟公告](https://www.cpbl.com.tw/news/view/18301.html?&news=18301)
-28. [女大生泣訴 郭修延對著她脫褲露下體...](http://news.ltn.com.tw/news/society/breakingnews/2005943)
-29. [陽岱鋼掀家醜轟別再借錢 陽耀勳回應了...](http://sports.ltn.com.tw/news/breakingnews/2255061)
-30. [【球星再傳腥】曾在日本共患難　陽耀勳、陽岱鋼疏遠都因為...](https://www.mirrormedia.mg/story/20171114ent010)
-31. [【偷吃女球迷】「你好欠幹」　林泓育調情女球迷鹹濕對話曝光](https://www.mirrormedia.mg/story/20171121ent009/)
-32. [遭爆不正當緋聞　林泓育：不實抹黑](http://www.tsna.com.tw/tw/news/show.php?num=15065)
-33. [【桃猿腥風波】老婆懷孕還偷吃　Lamigo鄭承浩私訊小三：想跟妳玩](https://www.mirrormedia.mg/story/20180102ent016/)
-34. [中職／鄭承浩偷腥事件 猿隊將給予適當懲罰](http://udn.com/news/story/7001/2912102)
-35. [中職球員又婚外情？「摸過最棒的奶」陳禹勳私密照流出](http://www.setn.com/news.aspx?newsid=388133&p=0)
-36. [中華職棒／陳禹勳認了！　為緋聞向家人道歉](http://www.nownews.com/news/20180604/2765748)
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.

@@ -1,4 +1,4 @@
-****是一系列由[美国](../Page/美国.md "wikilink")（，簡稱：）從1977年至2002年製造的單動操作型[半自動手槍](../Page/半自動手槍.md "wikilink")，\[1\]亦是第一個全[不鏽鋼](../Page/不鏽鋼.md "wikilink")製[M1911手槍](../Page/M1911手槍.md "wikilink")系列，\[2\]發射[.45 ACP](../Page/.45_ACP.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。該槍的其他功能包括可調節式[照門和延長型](https://zh.wikipedia.org/wiki/照門 "wikilink")。\[3\]
+****是一系列由[美国](../Page/美国.md "wikilink")（，簡稱：）從1977年至2002年製造的單動操作型[半自動手槍](../Page/半自動手槍.md "wikilink")，\[1\]亦是第一個全[不鏽鋼](../Page/不鏽鋼.md "wikilink")製[M1911手槍](../Page/M1911手槍.md "wikilink")系列，\[2\]發射[.45 ACP](../Page/.45_ACP.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。該槍的其他功能包括可調節式[照門和延長型](https://zh.wikipedia.org/wiki/照門 "wikilink")。\[3\]
 
 ## 設計細節
 
@@ -68,15 +68,10 @@ Hardballer系列手槍的全部使用[不鏽鋼](../Page/不鏽鋼.md "wikilink"
 [Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:美國半自動手槍](https://zh.wikipedia.org/wiki/Category:美國半自動手槍 "wikilink") [Category:.45_ACP口徑槍械](https://zh.wikipedia.org/wiki/Category:.45_ACP口徑槍械 "wikilink") [Category:M1911衍生型](https://zh.wikipedia.org/wiki/Category:M1911衍生型 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
@@ -84,7 +79,5 @@ Hardballer系列手槍的全部使用[不鏽鋼](../Page/不鏽鋼.md "wikilink"
 10.
 11.
 12.
-
 13.
-
 14.

@@ -8,4 +8,4 @@
 
 [Category:氯铝酸盐](https://zh.wikipedia.org/wiki/Category:氯铝酸盐 "wikilink") [Category:镉化合物](https://zh.wikipedia.org/wiki/Category:镉化合物 "wikilink")
 
-1.  Staffel, T.; Dr. Gerd Meyer. Synthesis and crystal structures of Cd\[AlCl<sub>4</sub>\]<sub>2</sub> and Cd<sub>2</sub>\[AlCl<sub>4</sub>\]<sub>2</sub>. Zeitschrift für anorganische und allgemeine Chemie. 1987, **548** (5): 45–54.[doi](https://zh.wikipedia.org/wiki/數位物件識別號 "wikilink"):
+1.  Staffel, T.; Dr. Gerd Meyer. Synthesis and crystal structures of Cd\[AlCl<sub>4</sub>\]<sub>2</sub> and Cd<sub>2</sub>\[AlCl<sub>4</sub>\]<sub>2</sub>. Zeitschrift für anorganische und allgemeine Chemie. 1987, **548** (5): 45–54.

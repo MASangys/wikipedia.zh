@@ -86,7 +86,7 @@ Build 2017于2017年5月10日至5月12日在[西雅图华盛顿州会议中心�
 
 [Category:微软开发者大会](https://zh.wikipedia.org/wiki/Category:微软开发者大会 "wikilink")
 
-1.  [Build Conference 2012 Giveaway](http://www.techsnapr.com/2012/10/31/build-attendees-get-surface-tablet-lumia-920-100gb-free-skydrive-storage/)
+1.
 2.
 3.
 4.

@@ -235,10 +235,10 @@
 
 ## 外部連結
 
-  - [青い鳥文庫｜探偵チームKZ事件ノート](http://aoitori.kodansha.co.jp/series/KZ/)
+  - [青い鳥文庫｜探偵チームKZ事件ノート](https://web.archive.org/web/20151205082557/http://aoitori.kodansha.co.jp/series/KZ)
 
   - [NHKアニメワールド 探偵チームKZ事件ノート | NHK](http://www9.nhk.or.jp/anime/kz/)
 
-  - [青い鳥文庫｜妖精チームG事件ノート](http://aoitori.kodansha.co.jp/series/G/)
+  - [青い鳥文庫｜妖精チームG事件ノート](https://web.archive.org/web/20151204182133/http://aoitori.kodansha.co.jp/series/G/)
 
 [Category:2011年小說](https://zh.wikipedia.org/wiki/Category:2011年小說 "wikilink") [Category:日本推理小說](https://zh.wikipedia.org/wiki/Category:日本推理小說 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")

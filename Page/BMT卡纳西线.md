@@ -325,11 +325,8 @@
 [Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1906年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1906年啟用的鐵路線 "wikilink")
 
 1.
-
 2.  ["Mayor Drives Train in New Subway Link"](http://timesmachine.nytimes.com/timesmachine/1931/05/30/98336745.html), *[New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink")* May 30, 1931 page 11
-
 3.  ["Celebrate Opening of Subway Link"](http://timesmachine.nytimes.com/timesmachine/1924/07/01/101604731.html), *[New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink")* July 1, 1924 page 23
-
 4.
 5.
 6.
@@ -339,7 +336,6 @@
 10.
 11.
 12.
-
 13.
 14.
 15.

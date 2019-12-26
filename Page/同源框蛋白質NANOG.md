@@ -76,32 +76,19 @@ Nanog基因能够使得NIH3T3细胞的生长加快，并表现出能够在软琼
 [Category:转录因子](https://zh.wikipedia.org/wiki/Category:转录因子 "wikilink") [Category:基因表現](https://zh.wikipedia.org/wiki/Category:基因表現 "wikilink") [Category:肿瘤学](https://zh.wikipedia.org/wiki/Category:肿瘤学 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
 11.
-
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.

@@ -71,27 +71,17 @@
 [Category:ONE_OK_ROCK的專輯](https://zh.wikipedia.org/wiki/Category:ONE_OK_ROCK的專輯 "wikilink")
 
 1.
-
 2.
-
 3.  <http://tower.jp/item/3782093/35xxxv-［CD＋DVD>］＜初回数量限定盤＞
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.  \[<http://www.oneokrock.com/jp/news/> ONE OK ROCK 官方網站新消息
-
 10. <http://www.oneokrock.com/jp/music/1268>
-
 11.
 12.
-
 13.
 14.
 15.

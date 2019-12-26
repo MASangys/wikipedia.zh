@@ -27,19 +27,11 @@ Palert 地震P波感測儀所組成的地震預警系統在[2016年高雄美濃�
 [Category:地震學](https://zh.wikipedia.org/wiki/Category:地震學 "wikilink") [Category:台灣地震](https://zh.wikipedia.org/wiki/Category:台灣地震 "wikilink") [Category:預警系統](https://zh.wikipedia.org/wiki/Category:預警系統 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.

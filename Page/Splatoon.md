@@ -364,104 +364,56 @@
 [Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:第三人称射击游戏](https://zh.wikipedia.org/wiki/Category:第三人称射击游戏 "wikilink") [Category:任天堂情报开发本部游戏](https://zh.wikipedia.org/wiki/Category:任天堂情报开发本部游戏 "wikilink") [Category:Wii_U独占游戏](https://zh.wikipedia.org/wiki/Category:Wii_U独占游戏 "wikilink") [Category:Wii_U遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U遊戲 "wikilink") [Category:Wii_U_eShop遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U_eShop遊戲 "wikilink") [Category:Nintendo_Network遊戲](https://zh.wikipedia.org/wiki/Category:Nintendo_Network遊戲 "wikilink") [Category:可使用amiibo的游戏](https://zh.wikipedia.org/wiki/Category:可使用amiibo的游戏 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:頭足綱題材作品](https://zh.wikipedia.org/wiki/Category:頭足綱題材作品 "wikilink") [Category:軟體動物主角故事](https://zh.wikipedia.org/wiki/Category:軟體動物主角故事 "wikilink") [Category:日本开发电子游戏](https://zh.wikipedia.org/wiki/Category:日本开发电子游戏 "wikilink")
 
 1.  《[游戏机实用技术](../Page/游戏机实用技术.md "wikilink")》373期，第31页。
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  [社長が訊く『Splatoon（スプラトゥーン）』part.1 はじめは豆腐](https://www.nintendo.co.jp/wiiu/interview/agmj/vol1/index.html).任天堂.2015-05-21.\[2016-05-01\].
-
 7.  [社長が訊く『Splatoon（スプラトゥーン）』part.2 もがいてウサギ](https://www.nintendo.co.jp/wiiu/interview/agmj/vol1/index2.html).任天堂.2015-05-21.\[2016-05-01\].
-
 8.
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15. [【先出し週刊ファミ通】全イカ研究員待望！　大型アップデート後の新曲も含んだ『Splatoon（スプラトゥーン）』サントラ発売決定！](http://www.famitsu.com/news/201508/25086622.html).Fami通.2015-08-25.\[2016-05-03\].
-
 16. [『スプラトゥーン』、サントラCDもヒットの兆し オリコン初登場2位](http://www.oricon.co.jp/news/2061389/full/).Oricon.2015-10-27.\[2016-05-15\].
-
 17.
 18. [週間　CDアルバムランキング (2015年11月02日付)](http://www.oricon.co.jp/rank/ja/w/2015-11-02/).Oricon.\[2016-05-03\].
-
 19.
-
 20.
-
 21.
 22.
-
 23. [2015年の国内家庭用ゲーム市場規模速報を発表！　ソフト販売本数トップは『モンスターハンタークロス』に](http://www.famitsu.com/news/201601/06096700.html).Fami通.2016-01-06.\[2016-02-01\].
-
 24. [Wii Uの国内累計販売台数が300万台を突破](http://www.famitsu.com/news/201601/15097273.html).Fami通.2016-01-15.\[2016-02-01\].
-
 25.
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46. \>
-
 47.
-
 48. \>
-
 49. [Live from Squid Research Lab](http://splatoonus.tumblr.com/post/138942080934/breaking-news-from-the-squid-research-lab-weve).Tumblr.2016-02-08.\[2017-02-07\].
-
 50. [This Splatoon live concert is equal parts weird and wonderful](http://www.polygon.com/2016/4/29/11540808/splatoon-concert-squid-sisters-live-april-2016).Polygon.2016-04-29.\[2017-02-07\].
-
 51. [Calamazones at Japan Expo](http://www.japan-expo-paris.com/en/programme/2016-07-08/calamazones-at-japan-expo_1346.htm).Japan Expo.2016-06-02.\[2017-02-07\].
-
 52. [ニコニコ超パーティ](http://choparty.jp/timetable/) .ニコニコ.\[2017-02-07\].
-
 53. [周间CDアルバムランキング](http://www.oricon.co.jp/rank/ja/w/2016-07-25/).Oricon.2016-07-25.\[2017-02-07\].
-
 54. [『Splatoon（スプラトゥーン）2』Nintendo Switch向けに今夏発売決定！【Nintendo Switch プレゼンテーション】](http://www.famitsu.com/news/201701/13124713.html).Fami通.2017-01-13.\[2017-01-15\].

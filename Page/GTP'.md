@@ -121,5 +121,4 @@ Data Record Transfer消息对提供了一套防止丢失或重复计算CDR的机
 [Category:网络协议](https://zh.wikipedia.org/wiki/Category:网络协议 "wikilink") [Category:应用层协议](https://zh.wikipedia.org/wiki/Category:应用层协议 "wikilink") [Category:3GPP標準](https://zh.wikipedia.org/wiki/Category:3GPP標準 "wikilink")
 
 1.
-
 2.

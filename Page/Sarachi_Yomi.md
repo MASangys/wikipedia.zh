@@ -100,7 +100,7 @@
 
   - 插畫集 LOVING（[KADOKAWA](../Page/KADOKAWA.md "wikilink")／[ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")）
 
-## 來源
+## 參考來源
 
 ## 外部連結
 
@@ -110,5 +110,4 @@
 
 1.
 2.
-
 3.

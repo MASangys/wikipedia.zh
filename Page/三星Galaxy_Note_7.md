@@ -126,188 +126,100 @@ Galaxy Note 7 搭載的相機和 Galaxy S7 系列的一樣，較前代降低了�
 [Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink") [Category:平板手机](https://zh.wikipedia.org/wiki/Category:平板手机 "wikilink") [Category:工程故障](https://zh.wikipedia.org/wiki/Category:工程故障 "wikilink") [Category:產品召回](https://zh.wikipedia.org/wiki/Category:產品召回 "wikilink") [Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink")
 
 1.
-
 2.  [官翻Note 7真机照现身：名为Note FE](http://mobile.163.com/17/0530/09/CLM5681E00118017.html)
-
 3.  [官翻三星Note7真机照：改名为Note FE，CPU换了](http://item.btime.com/40mtn2nbkah810r90s782kq7mvk)
-
 4.
-
 5.
-
 6.
 7.
 8.
 9.
 10.
 11.
-
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17. [民航局就三星note7手机航空运输发出安全警示](http://www.caac.gov.cn/XWZX/MHYW/201609/t20160914_39781.html).中国民用航空局.2016-09-14.\[2016-09-15\].
-
 18.
-
 19.
-
 20. [网曝国行版note7爆炸 三星被约谈后启动国内召回](http://tech.163.com/16/0918/14/C18IUM7200097U7S.html).网易.2016-09-18.\[2016-09-18\].
-
 21. [防不胜防国行版真的安全？三星Note 7国行版也炸了！](http://tech.sina.com.cn/mobile/n/n/2016-09-18/doc-ifxvyqwa3361304.shtml).新浪.2016-09-18.\[2016-09-18\].
-
 22. [三星Note7国行版也炸了 网友爆料突然黑屏爆炸](http://news.sohu.com/20160918/n468616022.shtml).搜狐.2016-09-18.\[2016-09-18\].
-
 23.
-
 24.
-
 25.
-
 26. <http://news.mydrivers.com/1/501/501860.htm> 三星Note 7香港网吧起火：监控全程拍下
-
 27.
 28. [Replacement Samsung Galaxy Note 7 phone catches fire on Southwest plane](http://www.theverge.com/2016/10/5/13175000/samsung-galaxy-note-7-fire-replacement-plane-battery-southwest).theverge.2016-10-05.\[2016-10-10\].
-
 29. [台灣傳出新版 Note 7 自燃首例](http://chinese.engadget.com/2016/10/08/replacement-galaxy-note-7-fire-taiwan/).engadget中文版.2016-10-09.\[2016-10-10\].
-
 30. <http://www.appledaily.com.tw/appledaily/article/headline/20161010/37411237/applesearch/%E6%96%B0Note7%E7%88%86%E7%82%B8%E7%BE%8E%E5%8F%882%E5%AE%97>
-
 31.
-
 32. [三星 Galaxy Note 7 因为品质问题，需要延期出货](http://cn.engadget.com/2016/09/01/samsung-delays-galaxy-note-7-shipments/).engadget.2016-09-01.\[2016-09-06\].
-
 33.
-
 34.
-
 35. [三星在国内召回部分 Galaxy Note 7 非售品，民航局也给出安全警示了](http://cn.engadget.com/2016/09/14/galaxy-note-7-recall-cn/).engadget.2016-09-14.\[2016-09-15\].
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46. <http://tube.chinatimes.com/20161010001018-261410> 南韓也傳Note 7爆炸起火？驚傳手機冒煙影片
-
 47. <http://www.ettoday.net/news/20161008/789757.htm>
-
 48. <http://qooah.com/2016/10/08/taiwan-new-note-7-explosion/> 台灣新 Note 7 爆炸, 少女險炸屁股
-
 49. [Replacement Samsung Galaxy Note 7 phone catches fire on Southwest plane](http://www.theverge.com/2016/10/5/13175000/samsung-galaxy-note-7-fire-replacement-plane-battery-southwest).theverge.2016-10-05.\[2016-10-10\].
-
 50. [台灣傳出新版 Note 7 自燃首例](http://chinese.engadget.com/2016/10/08/replacement-galaxy-note-7-fire-taiwan/).engadget中文版.2016-10-09.\[2016-10-10\].
-
 51. <http://www.appledaily.com.tw/appledaily/article/headline/20161010/37411237/applesearch/%E6%96%B0Note7%E7%88%86%E7%82%B8%E7%BE%8E%E5%8F%882%E5%AE%97>
-
 52. [AT\&T halting Samsung Galaxy Note 7 sales following multiple fires with replacement phones](http://www.theverge.com/2016/10/9/13219054/att-samsung-galaxy-note-7-stop-sales).theverge.2016-10-09.\[2016-10-10\].
-
 53. [T-Mobile is second US carrier to halt Galaxy Note 7 sales, giving $25 credit to affected customers](http://www.theverge.com/2016/10/9/13220816/t-mobile-samsung-galaxy-note-7-stop-sale-recall).theverge.2016-10-09.\[2016-10-10\].
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
 73.
-
 74.
 75. [市场永远绝跡　三星將销毁全部Note 7 - 马来西亚东方日报](http://www.orientaldaily.com.my/lifestyle/shnote-78/), 2016 Oriental Daily Sdn. Bhd., October 13, 2016.
-
 76. [为免Note 7爆炸 三星想出奇招：充电限制60％](http://tech.ifeng.com/a/20160914/44451584_0.shtml), 2016年09月14日, 快科技
-
 77. [Samsung Galaxy Note 7 OTA系统再更新！充电限制从60%提高至80%！](http://www.techweb.com.cn/tele/2016-09-24/2399740.shtml) 2016年9月24日
-
 78. [三星向国行Note7推送固件:充电限制60%退货请早](http://games.sina.com.cn/g/g/2017-01-10/fxzkfuk3458697.shtml), 2017-01-10
-
 79. [三星将为国行Note7推“死亡升级”：充电量限制为15%](http://tech.ifeng.com/a/20170203/44538635_0.shtml), 2017年2月3日, 凤凰科技
-
 80. [三星结束国行Note 7“生命” 死亡固件充电限制为0%](http://finance.jrj.com.cn/tech/2017/02/13122222053646.shtml), 2017-02-13, 金融界, 蓝鲸TMT
-
 81.
-
 82.
-
 83.
-
 84.
-
 85.
-
 86.
-
 87.
-
 88.
-
 89.
-
 90.
-
 91.
-
 92.
-
 93.
-
 94.
-
 95.
-
 96.
-
 97.
-
 98.

@@ -66,7 +66,7 @@
 
 [Rian_Johnson_by_Gage_Skidmore.jpg](https://zh.wikipedia.org/wiki/File:Rian_Johnson_by_Gage_Skidmore.jpg "fig:Rian_Johnson_by_Gage_Skidmore.jpg")。\]\]
 
-2012年10月，《星球大战》缔造者[乔治·卢卡斯](../Page/乔治·卢卡斯.md "wikilink")把手上的制片公司[卢卡斯影业](../Page/卢卡斯影业.md "wikilink")连带[星際大戰](../Page/星際大戰.md "wikilink")版权卖给了[华特迪士尼公司](../Page/华特迪士尼公司.md "wikilink")。迪士尼宣布启动《星球大战》三部曲\[25\]。2013年1月，[J·J·艾布斯](../Page/J·J·艾布斯.md "wikilink")被提名为新三部曲首部曲《[STAR WARS：原力覺醒](../Page/STAR_WARS：原力覺醒.md "wikilink")》导演\[26\]\[27\]。2014年6月，导演[莱恩·约翰逊](../Page/莱恩·约翰逊.md "wikilink")据报正为暂定名《第八部》（）的续集的编剧和导演工作进行谈判，并为第三部作品《》写了，监制两部作品\[28\]\[29\]。2014年8月，约翰证实执导《第八部》 \[30\]。
+2012年10月，《星球大战》缔造者[乔治·卢卡斯](../Page/乔治·卢卡斯.md "wikilink")把手上的制片公司[卢卡斯影业](../Page/卢卡斯影业.md "wikilink")连带[星際大戰](../Page/星際大戰.md "wikilink")版权卖给了[华特迪士尼公司](../Page/华特迪士尼公司.md "wikilink")。迪士尼宣布启动《[星球大战后传三部曲](https://zh.wikipedia.org/wiki/星球大战后传三部曲 "wikilink")》\[25\]。2013年1月，[J·J·艾布斯](../Page/J·J·艾布斯.md "wikilink")被提名为新三部曲首部曲《[STAR WARS：原力覺醒](../Page/STAR_WARS：原力覺醒.md "wikilink")》导演\[26\]\[27\]。2014年6月，导演[莱恩·约翰逊](../Page/莱恩·约翰逊.md "wikilink")据报正为暂定名《第八部》（）的续集的编剧和导演工作进行谈判，并为第三部作品《[九部曲](../Page/STAR_WARS：天行者的崛起.md "wikilink")》写了，监制两部作品\[28\]\[29\]。2014年8月，约翰证实执导《第八部》 \[30\]。
 
 剧情起于《原力觉醒》结束后没多久\[31\]。在构思概念时，为获取灵感，编剧团队特意参考了《[晴空血战史](../Page/晴空血战史.md "wikilink")》、《[桂河大桥](../Page/桂河大桥_\(电影\).md "wikilink")》、《》、《》、《》和《》\[32\]\[33\]。他认为在《原力觉醒》已经结束的前提下创作影片很艰难\[34\]。
 
@@ -106,11 +106,11 @@
 
 北美方面，最終票房為6.2億美元\[81\]。
 
-台灣方面，首週五天票房為新台幣5412萬元\[82\]；次週票房累計至新台幣8504萬元\[83\]；第三週票房累計至新台幣9835萬元\[84\]；第四週票房累計至新台幣1.03億元\[85\]；最終全台票房為新台幣1.06億元\[86\]，位居[2017年全台票房第29名](https://zh.wikipedia.org/wiki/2017年台灣電影列表#年度電影票房列表 "wikilink")。
+台灣方面，首週五天票房為新台幣5412萬元\[82\]；次週票房累計至新台幣8504萬元\[83\]；第三週票房累計至新台幣9835萬元\[84\]；第四週票房累計至新台幣1.03億元\[85\]；最終全台票房為新台幣1.06億元\[86\]，位居[2017年全台票房第二十九名](https://zh.wikipedia.org/wiki/2017年台灣電影列表#年度電影票房 "wikilink")。
 
 ## 續集
 
-續集三部曲的最後一集《-{zh-cn:星球大战9;zh-tw:[STAR WARS：天行者的崛起](../Page/STAR_WARS：天行者的崛起.md "wikilink");zh-hk:星球大戰九部曲;zh-sg:星际大战9部曲;}-》定於2019年12月20日在美國上映\[87\]。原定由[柯林·崔佛洛執導](https://zh.wikipedia.org/wiki/柯林·崔佛洛 "wikilink")，[萊恩·尊遜編劇](https://zh.wikipedia.org/wiki/萊恩·尊遜 "wikilink")\[88\]。2017年9月，迪士尼方面宣布崔佛洛已退出第九部《星際大戰》電影的製作\[89\]。稍后卢卡斯影业确定由系列第七部的导演[J·J·艾布拉姆斯执导第九部](https://zh.wikipedia.org/wiki/J·J·艾布拉姆斯 "wikilink")《[星球大战](https://zh.wikipedia.org/wiki/星球大战 "wikilink")》电影。\[90\]
+後傳三部曲的最後一集《STAR WARS：天行者的崛起》定於2019年12月20日在美國上映\[87\]。原定由[柯林·崔佛洛執導](https://zh.wikipedia.org/wiki/柯林·崔佛洛 "wikilink")，[萊恩·尊遜編劇](https://zh.wikipedia.org/wiki/萊恩·尊遜 "wikilink")\[88\]。2017年9月，迪士尼方面宣布崔佛洛已退出第九部《星際大戰》電影的製作\[89\]。稍后卢卡斯影业确定由系列第七部的导演[J·J·艾布拉姆斯执导第九部](https://zh.wikipedia.org/wiki/J·J·艾布拉姆斯 "wikilink")《[星球大战](https://zh.wikipedia.org/wiki/星球大战 "wikilink")》电影。\[90\]
 
 ## 參考資料
 
@@ -130,168 +130,92 @@
 [Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:美國電影作品](https://zh.wikipedia.org/wiki/Category:美國電影作品 "wikilink") [Category:2017年美國電影](https://zh.wikipedia.org/wiki/Category:2017年美國電影 "wikilink") [Category:2017年3D电影](https://zh.wikipedia.org/wiki/Category:2017年3D电影 "wikilink") [Category:美国3D电影](https://zh.wikipedia.org/wiki/Category:美国3D电影 "wikilink") [Category:2010年代科幻动作片](https://zh.wikipedia.org/wiki/Category:2010年代科幻动作片 "wikilink") [Category:2010年代冒险片](https://zh.wikipedia.org/wiki/Category:2010年代冒险片 "wikilink") [Category:美國科幻片](https://zh.wikipedia.org/wiki/Category:美國科幻片 "wikilink") [Category:美國冒險片](https://zh.wikipedia.org/wiki/Category:美國冒險片 "wikilink") [Category:太空冒險電影](https://zh.wikipedia.org/wiki/Category:太空冒險電影 "wikilink") [Category:機器人電影](https://zh.wikipedia.org/wiki/Category:機器人電影 "wikilink") [Category:美國續集電影](https://zh.wikipedia.org/wiki/Category:美國續集電影 "wikilink") [Category:星際大戰電影](https://zh.wikipedia.org/wiki/Category:星際大戰電影 "wikilink") [Category:雷恩·強生電影](https://zh.wikipedia.org/wiki/Category:雷恩·強生電影 "wikilink") [Category:白金漢郡取景電影](https://zh.wikipedia.org/wiki/Category:白金漢郡取景電影 "wikilink") [Category:北爱尔兰取景电影](https://zh.wikipedia.org/wiki/Category:北爱尔兰取景电影 "wikilink") [Category:爱尔兰取景电影](https://zh.wikipedia.org/wiki/Category:爱尔兰取景电影 "wikilink") [Category:克罗地亚取景电影](https://zh.wikipedia.org/wiki/Category:克罗地亚取景电影 "wikilink") [Category:盧卡斯影業電影](https://zh.wikipedia.org/wiki/Category:盧卡斯影業電影 "wikilink")
 
 1.
-
 2.
-
 3.  [THE OFFICIAL TITLE FOR STAR WARS: EPISODE VIII REVEALED](http://www.starwars.com/news/the-official-title-for-star-wars-episode-viii-revealed) .StarWars.2017-01-23.\[2017-01-24\].
-
 4.
 5.
 6.
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
 32.
 33.
-
 34.
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.
-
 78.
-
 79.
-
 80.
-
 81.
 82.
-
 83.
 84.
-
 85.
-
 86.
-
 87.
-
 88.
-
 89.
-
 90. [-{JJ Abrams Returning To Director’s Chair On ‘Star Wars: Episode IX’}-](http://deadline.com/2017/09/jj-abrams-star-wars-episode-9-director-colin-trevorrow-lucasfilm-disney-1202167681/) .Deadline.2017-09-12.\[2017-09-13\].

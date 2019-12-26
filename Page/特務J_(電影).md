@@ -67,20 +67,12 @@ Jolin（[蔡依林](../Page/蔡依林.md "wikilink") 飾）在泰國曼谷的火
 [Category:巴黎取景电影](https://zh.wikipedia.org/wiki/Category:巴黎取景电影 "wikilink") [Category:蔡依林電影](https://zh.wikipedia.org/wiki/Category:蔡依林電影 "wikilink") [Category:伦敦取景电影](https://zh.wikipedia.org/wiki/Category:伦敦取景电影 "wikilink") [Category:曼谷取景電影](https://zh.wikipedia.org/wiki/Category:曼谷取景電影 "wikilink") [Category:台灣動作片](https://zh.wikipedia.org/wiki/Category:台灣動作片 "wikilink") [Category:台灣浪漫劇情片](https://zh.wikipedia.org/wiki/Category:台灣浪漫劇情片 "wikilink") [Category:音樂及音樂家題材電影](https://zh.wikipedia.org/wiki/Category:音樂及音樂家題材電影 "wikilink") [Category:2000年代动作片](https://zh.wikipedia.org/wiki/Category:2000年代动作片 "wikilink") [Category:2000年代浪漫劇情片](https://zh.wikipedia.org/wiki/Category:2000年代浪漫劇情片 "wikilink") [Category:2000年代台灣電影作品](https://zh.wikipedia.org/wiki/Category:2000年代台灣電影作品 "wikilink") [Category:2007年劇情片](https://zh.wikipedia.org/wiki/Category:2007年劇情片 "wikilink")
 
 1.   蘋果日報|newspaper=蘋果日報|accessdate=2017-04-05|language=zh-TW}}
-
 2.   蘋果日報|newspaper=蘋果日報|accessdate=2017-04-05|language=zh-TW}}
-
 3.
-
 4.
-
 5.
-
 6.   蘋果日報|newspaper=蘋果日報|accessdate=2017-04-05|language=zh-TW}}
-
 7.
 8.
-
 9.
-
 10. [蔡依林《特务J》遭新加坡电检局禁播](http://www.shw365.com/mp3x/jctl/200710/31022.html)

@@ -23,7 +23,7 @@
 
 `   'use strict';`
 
-`   mw.loader.using('jquery.ui.dialog');`
+`   mw.loader.using('jquery.ui');`
 
 `   var UI;`
 `   // 照顧一下看不懂繁體字的簡體字用戶`

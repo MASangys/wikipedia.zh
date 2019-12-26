@@ -117,35 +117,26 @@ SEA-ME-WE 4用于达成“电话、互联网、多媒体及各种宽带数据应
 [Category:位于阿拉伯海的海底电缆](https://zh.wikipedia.org/wiki/Category:位于阿拉伯海的海底电缆 "wikilink") [Category:位于印度洋的海底电缆](https://zh.wikipedia.org/wiki/Category:位于印度洋的海底电缆 "wikilink") [Category:位于地中海的海底电缆](https://zh.wikipedia.org/wiki/Category:位于地中海的海底电缆 "wikilink") [Category:位于太平洋的海底电缆](https://zh.wikipedia.org/wiki/Category:位于太平洋的海底电缆 "wikilink") [Category:位于红海的海底电缆](https://zh.wikipedia.org/wiki/Category:位于红海的海底电缆 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
 6.
 7.
 8.
-
 9.
 10.
 11.
-
 12.
-
 13.
 14.
 15.
 16.
-
 17.
 18.
 19.
 20.
-
 21.
-
 22.
 23.
 24.
@@ -153,9 +144,6 @@ SEA-ME-WE 4用于达成“电话、互联网、多媒体及各种宽带数据应
 26.
 27.
 28. [Alcatel-Lucent, Ciena to conduct upgrades for SEA-ME-WE 4 cable system - FierceTelecom](http://www.fiercetelecom.com/story/alcatel-lucent-ciena-conduct-upgrades-sea-me-we-4-cable-system/2011-02-01?utm_medium=rss&utm_source=rss)
-
 29. [Mitsubishi Electric Completes Upgrade of SEA-ME-WE 4 Network - Data capacity of the submarine network is increased significantly with 100G technologies](http://www.mitsubishielectric.com/news/2015/pdf/0318.pdf)
-
 30. [Süddeutsche Zeitung](http://www.sueddeutsche.de/politik/internet-ueberwachung-britischer-geheimdienst-zapft-daten-aus-deutschland-ab-1.1757068), 28 August 2013 (accessed 30.8.2013)
-
 31. John Goetz, Hans Leyendecker and Frederik Obermaier (28 August 2013). ["British Officials Have Far-Reaching Access To Internet And Telephone Communications"](http://international.sueddeutsche.de/post/59603415442/british-officials-have-far-reaching-access-to-internet) (accessed 30.8.2013)

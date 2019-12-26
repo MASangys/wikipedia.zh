@@ -128,36 +128,22 @@ O型主序星傾向出現在螺旋星系的螺旋臂中。這是因為隨著螺�
 [Category:恆星類型](https://zh.wikipedia.org/wiki/Category:恆星類型 "wikilink") [Category:O型星](https://zh.wikipedia.org/wiki/Category:O型星 "wikilink")
 
 1.
-
 2.
-
 3.  The Draper Catalogue of stellar spectra photographed with the 8-inch Bache telescope as a part of the Henry Draper memorial, Edward C. Pickering, *Annals of Harvard College Observatory* **27** (1890),
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
 11.
 12.
-
 13.
 14.
-
 15.
 16.
-
 17.
-
 18.
-
 19.
-
 20.

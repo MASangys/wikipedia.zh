@@ -82,7 +82,7 @@
       -
   - [DISCOGRAPHY](https://web.archive.org/web/20140815150638/http://www.babymetal.jp/discography/) - BABYMETAL 官方網站
   - [DISCOGRAPHY](http://www.toysfactory.co.jp/artist/babymetal/disco) - TOY'S FACTORY 官方網站
-  - [「LIVE AT BUDOKAN 〜RED NIGHT & BLACK NIGHT APOCALYPSE〜」發行DEATH！！](http://www.babymetal.jp/news/0/14577/) - 新聞 - BABYMETAL 官方網站
+  - [「LIVE AT BUDOKAN 〜RED NIGHT & BLACK NIGHT APOCALYPSE〜」發行DEATH！！](https://web.archive.org/web/20141225190045/http://www.babymetal.jp/news/0/14577/) - 新聞 - BABYMETAL 官方網站
   - [BABYMETAL: LIVE AT BUDOKAN ～RED NIGHT APOCALYPSE～](https://itunes.apple.com/jp/movie/babymetal-live-legend-i-d/id949982854) - iTunes
   - [BABYMETAL: LIVE AT BUDOKAN ～BLACK NIGHT APOCALYPSE～](https://itunes.apple.com/jp/movie/babymetal-live-legend-i-d/id950082791) - iTunes
   - [LIVE AT BUDOKAN 〜 RED NIGHT & BLACK NIGHT APOCALYPSE 〜的MusicBrainz音樂資料庫](https://musicbrainz.org/release/d05d2868-948b-4f6a-ae4b-56b79cc25d80)
@@ -91,18 +91,11 @@
 [Category:2015年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2015年音樂相關影像作品 "wikilink") [Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink") [Category:BABYMETAL](https://zh.wikipedia.org/wiki/Category:BABYMETAL "wikilink")
 
 1.  不包括DVD形式的單曲。
-
 2.  DVD版為「紅夜」與「黒夜」分開的2枚組。藍光版為1枚組。
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.

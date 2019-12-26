@@ -1,4 +1,4 @@
-**JJCC**（）為武打影星[成龍](../Page/成龍.md "wikilink")所打造的K-POP男子組合，最初由韓國籍的Eddy、E.co、Simba、SanCheong和澳大利亞籍的中國人Prince Mak五名成員組成，現由E.co、Prince Mak、Eddy、Yul、Zica、Simba和SanCheong組成。
+**JJCC**（）為武打影星[成龍](../Page/成龍.md "wikilink")所打造的K-POP男子組合，最初由韓國籍的Eddy、E.co、Simba、SanCheong和澳大利亞華人Prince Mak五名成員組成，現由E.co、Prince Mak、Eddy、Yul、Zica、Simba和SanCheong組成。
 
 ## 簡介
 
@@ -297,9 +297,9 @@
 
 1.
 2.
-3.  [PrinceMak 將缺席 JJCC 新輯活動](http://kpopn.niusnews.com/=K1rlvob2)
+3.
 4.  [EXCLUSIVE: Prince Mak clarifies whether he's still in JJCC](http://www.sbs.com.au/popasia/blog/2016/12/15/exclusive-prince-mak-clarifies-whether-hes-still-jjcc)
-5.  [JJCC 參加《PRODUCE 101》第二季？](http://kpopn.niusnews.com/=K17c5cd8)
+5.
 6.  [A.T.O活動當時藝名為](https://zh.wikipedia.org/wiki/A.T.O "wikilink")**Rihan**
 7.  [A.T.O活動當時藝名為](https://zh.wikipedia.org/wiki/A.T.O "wikilink")**Noah**
 8.  原本的隊長是SanCheong，後來換成了Simba（2014.10.07 After School Club EP107 15:00-16:18提及）

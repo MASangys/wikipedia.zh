@@ -239,14 +239,14 @@
 <td><p>2016年</p></td>
 <td><p>#26</p></td>
 <td><p>-</p></td>
-<td><p><a href="http://www.gaonchart.co.kr/main/section/chart/total.gaon?serviceGbn=ALL">5</a></p></td>
+<td><p><a href="https://web.archive.org/web/20170113055150/http://gaonchart.co.kr/main/section/chart/total.gaon?serviceGbn=ALL">5</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>串流榜</p></td>
 <td><p>#28</p></td>
 <td><p>57,019,442</p></td>
-<td><p><a href="http://www.gaonchart.co.kr/main/section/chart/total.gaon?serviceGbn=S1040">6</a></p></td>
+<td><p><a href="https://web.archive.org/web/20161130222243/http://gaonchart.co.kr/main/section/chart/total.gaon?serviceGbn=S1040">6</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -255,7 +255,7 @@
 <td><p>下載榜</p></td>
 <td><p>#33</p></td>
 <td><p>1,012,807</p></td>
-<td><p><a href="http://www.gaonchart.co.kr/main/section/chart/total.gaon?serviceGbn=S1020">7</a></p></td>
+<td><p><a href="https://web.archive.org/web/20150710170750/http://www.gaonchart.co.kr/main/section/chart/total.gaon?serviceGbn=S1020">7</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -264,7 +264,7 @@
 <td><p>專輯榜</p></td>
 <td><p>#5</p></td>
 <td><p>350,852</p></td>
-<td><p><a href="http://www.gaonchart.co.kr/main/section/chart/total.gaon?serviceGbn=S1060">8</a></p></td>
+<td><p><a href="https://web.archive.org/web/20150210215545/http://gaonchart.co.kr/main/section/chart/total.gaon?termGbn=year&amp;hitYear=2014&amp;targetTime=&amp;nationGbn=T&amp;serviceGbn=S1060">8</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -636,11 +636,11 @@
 </tr>
 <tr class="odd">
 <td><p>2019</p></td>
-<td><p>19,997</p></td>
+<td><p>30,444</p></td>
 </tr>
 <tr class="even">
 <td><p>總共</p></td>
-<td><p>447,851+</p></td>
+<td><p>456,072+</p></td>
 </tr>
 </tbody>
 </table>

@@ -27,8 +27,6 @@ MacPlay再次推出Mac App Store中的Macintosh电脑游戏出版商。该公司
 [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:德克薩斯州公司](https://zh.wikipedia.org/wiki/Category:德克薩斯州公司 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
 
 1.
-
 2.
 3.
-
 4.

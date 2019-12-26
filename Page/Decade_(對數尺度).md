@@ -41,9 +41,7 @@ decade中10倍的差距可以和參考值相乘或相除，因此100 往上一�
 [Category:圖表](https://zh.wikipedia.org/wiki/Category:圖表 "wikilink") [Category:對數尺度量測](https://zh.wikipedia.org/wiki/Category:對數尺度量測 "wikilink")
 
 1.  Levine, William S. (2010). *The Control Handbook: Control System Fundamentals*, p.9-29. ISBN 9781420073621.
-
 2.  Perdikaris, G. (1991). *Computer Controlled Systems: Theory and Applications*, p.117. ISBN 9780792314226.
-
 3.
 4.
 5.  Davis, Don and Patronis, Eugene (2012). *Sound System Engineering*, p.13. ISBN 9780240808307.

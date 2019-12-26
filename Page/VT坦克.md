@@ -32,13 +32,9 @@ VT 1-1坦克裝備了兩門105毫米[線膛炮](https://zh.wikipedia.org/wiki/�
 [Category:驅逐戰車](https://zh.wikipedia.org/wiki/Category:驅逐戰車 "wikilink") [Category:主戰坦克](https://zh.wikipedia.org/wiki/Category:主戰坦克 "wikilink")
 
 1.
-
 2.
 3.  [Bundesamt für Wehrtechnik und Beschaffung](http://www.bwb.org/portal/a/bwb/ueberun/dasbwb/wehrtec/exponat/kettenf/vt12?yw_contentURL=/01DB022000000001/W26HHDWK147INFODE/content.jsp)
-
 4.  [Sign in the Panzermuseum Munster](http://upload.wikimedia.org/wikipedia/commons/c/c1/Panzermuseum_Munster_2010_0697.JPG)
-
 5.  Krapke, p.25
-
 6.
 7.

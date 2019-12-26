@@ -1,4 +1,4 @@
-**SCP基金会**是一个未被证实其真实性的虚构的特工组织，作为同名[网络](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[接龙小说创作项目中的主要要素](https://zh.wikipedia.org/wiki/接龙小说 "wikilink")。在该创作项目中，SCP基金会是一个跨国秘密组织，负责搜寻并收容各种具有异常属性的个體、地点或物体（统称为SCP），其宗旨為「控制」（Secure），「收容」（Contain），「保護」（Protect）。在现实世界中，SCP基金会是一个基于网站社区的[协同写作小说项目](https://zh.wikipedia.org/wiki/协同写作 "wikilink")，其文章包含多种类型的元素和风格，如[科学幻想](https://zh.wikipedia.org/wiki/科学幻想 "wikilink")、[都市奇幻](../Page/都市奇幻.md "wikilink")和[恐怖小说](https://zh.wikipedia.org/wiki/恐怖小说 "wikilink")。
+**SCP基金会**是一个虚构的特工组织，作为同名[互联网](../Page/互联网.md "wikilink")[接龙小说创作项目中的主要要素](https://zh.wikipedia.org/wiki/接龙小说 "wikilink")。在该创作项目中，SCP基金会是一个跨国秘密组织，负责搜寻并收容各种具有异常属性的个體、地点或物体（统称为SCP），其宗旨為「控制」（Secure），「收容」（Contain），「保護」（Protect）。在现实世界中，SCP基金会是一个基于网站社区的[协同写作小说项目](https://zh.wikipedia.org/wiki/协同写作 "wikilink")，其文章包含多种类型的元素和风格，如[科学幻想](https://zh.wikipedia.org/wiki/科学幻想 "wikilink")、[都市奇幻](../Page/都市奇幻.md "wikilink")和[恐怖小说](https://zh.wikipedia.org/wiki/恐怖小说 "wikilink")。
 
 在SCP基金会的维基网站上，大多数SCP作品会详细叙述相应SCP的“特殊收容程序”，其中包括该SCP收容物的各种性质以及针对其的收容方式。网站上还包含上千篇“基金会故事”，这些风格迥异的故事基于SCP基金会的世界观，讲述了SCP基金会组织内部所发生的故事。这一系列作品因高品質的剧情以及特有的通过科学、理性、冷静的写作风格传达恐惧的写法而广受称赞。
 
@@ -6,7 +6,7 @@ SCP基金会的发展启发人们创作了一些相关的衍生作品，如恐�
 
 ## 综述
 
-在该作品的设定中，SCP基金会是一个国际性的[秘密组织](../Page/秘密結社.md "wikilink")，该组织受全球各国政府的授权和委托，致力于控制并研究所有[在自然法则之外运作的异常个体](https://zh.wikipedia.org/wiki/超自然現象 "wikilink")、实体、地点、物体和现象（统称为“SCP对象”，或简称为“SCP”）。\[1\]这些对象大多拥有严重的物理或心理危害性，若不加以控制将对人类社会或认知构成直接威胁。\[2\]
+在该作品的设定中，SCP基金会是一个国际性的[秘密組織](https://zh.wikipedia.org/wiki/秘密組織 "wikilink")，该组织受全球各国政府的授权和委托，致力于控制并研究所有[在自然法则之外运作的异常个体](https://zh.wikipedia.org/wiki/超自然現象 "wikilink")、实体、地点、物体和现象（统称为“SCP对象”，或简称为“SCP”）。\[1\]这些对象大多拥有严重的物理或心理危害性，若不加以控制将对人类社会或认知构成直接威胁。\[2\]
 
 为了防止[大规模动乱并维持人类文明的正常运作](../Page/集體歇斯底里.md "wikilink")，SCP基金会的存在并不被大众所知。当一个SCP被发现时，SCP基金会会暗中派遣特工前往发现地点，收容该SCP并将其押送到基金会设施中。若该SCP无法运输（如该SCP为某一地点或在某一区域出现的特定现象），SCP基金会则会在其周围建立设施就地收容。SCP基金会的科学家会对设施内收容的SCP进行各种研究，出于安全性的考虑以及测试对象（统称为D级人员）的可消耗性，SCP基金会常将D级人员用于危险SCP的交互实验中。\[3\]
 
@@ -54,15 +54,15 @@ SCP基金会的文章风格迥异，其创作题材通常可归类为[科学幻�
 
 ## 评价
 
-SCP基金会的作品收到了许多正面积极的评价。[CNET](../Page/CNET.md "wikilink")的米歇尔·斯塔尔称赞该系列作品读起来令人感到毛骨悚然。\[71\]为写作的加维亚·怀特劳赞扬了SCP基金会的独创性，并将其描述为“互联网上最引人注目的恐怖作品”\[72\]。她指出，SCP基金会的作品几乎没有无来由的血腥内容，相反，该系列作品的恐怖往往通过其“务实”和“冷酷”的写作风格，以及其中所包含的细节来呈现给读者。\[73\][基督教科学箴言报的撰稿人丽施](https://zh.wikipedia.org/wiki/基督教科学箴言报 "wikilink")·苏哈也注意到并称赞了SCP基金会“半开玩笑似的风格”。\[74\]
+SCP基金会的作品收到了许多正面积极的评价。[CNET](../Page/CNET.md "wikilink")的米歇尔·斯塔尔（）称赞该系列作品读起来令人感到毛骨悚然。\[71\]为写作的加维亚·怀特劳（）赞扬了SCP基金会的独创性，并将其描述为“互联网上最引人注目的恐怖作品”\[72\]。她指出，SCP基金会的作品几乎没有无来由的血腥内容，相反，该系列作品的恐怖往往通过其“务实”和“冷酷”的写作风格，以及其中所包含的细节来呈现给读者。\[73\][基督教科学箴言报的撰稿人麗莎](https://zh.wikipedia.org/wiki/基督教科学箴言报 "wikilink")·蘇海（）也注意到并称赞了SCP基金会“半开玩笑似的风格”。\[74\]
 
-亚历克斯·艾克勒在为撰稿时指出，由于SCP基金会的作者写作水平各不相同，导致其中一些作品略显沉闷和重复，但他同时也称赞SCP基金会的作品并没有变得过于阴沉黑暗，并且拥有众多轻松愉快的作品。此外，他还赞扬SCP基金会的作品涵盖了各种不同的写作理念，并认为SCP基金会能吸引并满足所有的读者。\[75\]为[卫报写作的李](https://zh.wikipedia.org/wiki/卫报 "wikilink")·亚历山大指出，SCP基金会网站的投票系统能让读者轻松找到“社区内最好和最恐怖”的文章和作品。\[76\]
+亚历克斯·艾克勒（）在为撰稿时指出，由于SCP基金会的作者写作水平各不相同，导致其中一些作品略显沉闷和重复，但他同时也称赞SCP基金会的作品并没有变得过于阴沉黑暗，并且拥有众多轻松愉快的作品。此外，他还赞扬SCP基金会的作品涵盖了各种不同的写作理念，并认为SCP基金会能吸引并满足所有的读者。\[75\]为[卫报写作的萊](https://zh.wikipedia.org/wiki/卫报 "wikilink")·亞歷珊卓（）指出，SCP基金会网站的投票系统能让读者轻松找到“社区内最好和最恐怖”的文章和作品。\[76\]
 
-的作者温斯顿·库克威尔逊则将SCP基金会与美国作家[洛夫克拉夫特的作品进行比较](https://zh.wikipedia.org/wiki/洛夫克拉夫特 "wikilink")。与洛夫克拉夫特的作品一样，SCP基金会的作品内通常很少出现动作场面，并通篇以伪学术的语调写就。他认为，两者所共有的独特的科学理性的写作基调以及字里行间所散发出的恐怖、令人不安的气息，使洛夫克拉夫特的作品和SCP基金会的作品紧密相连。\[77\]
+的作者温斯顿·库克威尔逊（）则将SCP基金会与美国作家[洛夫克拉夫特的作品进行比较](https://zh.wikipedia.org/wiki/洛夫克拉夫特 "wikilink")。与洛夫克拉夫特的作品一样，SCP基金会的作品内通常很少出现动作场面，并通篇以伪学术的语调写就。他认为，两者所共有的独特的科学理性的写作基调以及字里行间所散发出的恐怖、令人不安的气息，使洛夫克拉夫特的作品和SCP基金会的作品紧密相连。\[77\]
 
-布莱恩·亚历山大在《The New Digital Storytelling》中写道，由于SCP基金会的作者们通过大规模且反复的写作创造出了这一系列惊人的文学作品，因此SCP基金会可能是“用维基讲故事的最先进的成就”。\[78\]
+布莱恩·亚历山大（）在《The New Digital Storytelling》中写道，由于SCP基金会的作者们通过大规模且反复的写作创造出了这一系列惊人的文学作品，因此SCP基金会可能是“用维基讲故事的最先进的成就”。\[78\]
 
-[Medium](../Page/Medium.md "wikilink")上的《Dark(ish) Web》的作者，安德鲁·保罗，注意到了SCP基金会中作品风格的多样性，并将其简短的写作格式与[Snapchat](../Page/Snapchat.md "wikilink")和[Vine](../Page/Vine.md "wikilink")等数字媒体当前的流行趋势联系起来。他还描述了作品中SCP基金会盲目、有序、官僚主义的做法与现实世界政治上的相似性，在他看来，这一相似之处增强了SCP基金会作品所营造出的恐怖氛围。\[79\]
+[Medium](../Page/Medium.md "wikilink")上的《Dark(ish) Web》的作者，安德鲁·保罗（），注意到了SCP基金会中作品风格的多样性，并将其简短的写作格式与[Snapchat](../Page/Snapchat.md "wikilink")和[Vine](../Page/Vine.md "wikilink")等数字媒体当前的流行趋势联系起来。他还描述了作品中SCP基金会盲目、有序、官僚主义的做法与现实世界政治上的相似性，在他看来，这一相似之处增强了SCP基金会作品所营造出的恐怖氛围。\[79\]
 
 ## 文化影响
 
@@ -72,9 +72,9 @@ SCP基金会的故事启发了众多独立游戏工作室。《[SCP：收容失�
 
 在2016年年中，由指挥家带领乐队Glasgow New Music Expedition在第10届Plug年度音乐节上演奏了其原创作品，该作品深受SCP基金会启发。\[95\]
 
-## 备注
+## 註釋
 
-## 参考资料
+## 參考文獻
 
 ## 外部链接
 
@@ -91,150 +91,93 @@ SCP基金会的故事启发了众多独立游戏工作室。《[SCP：收容失�
 3.
 4.
 5.
-
 6.
-
 7.
 8.
 9.  Pedullà, Lorenzo (25 July 2017) [Cos'è la SCP Foundation?](http://www.fantascienza.com/22696/cos-e-la-scp-foundation), *Fantascienza.com*. Retrieved 18 August 2017.
-
 10. Roget (17 February 2013). [History Of The Universe: Part One](http://www.scp-wiki.net/history-of-the-universe-part-one). *SCP Foundation*. Retrieved 12 February 2015.
-
 11.
 12.
 13.
 14.
 15.
 16. Alexander, p.72
-
 17. SCP Foundation Staff, [Staff Structure](http://05command.wikidot.com/staff-structure). *05 Command*. Retrieved 21 May 2018.
-
 18.
 19. Newsom, p. 154
-
 20.
 21.
 22. Tapscott, p. 117-118
-
 23.
 24.
-
 25. Tapscott, p.118
-
 26.
-
 27. Tapscott, p. 115
-
 28.
 29.
 30.
-
 31. SCP Foundation Staff (24 July 2008). [Main Page: "International Sites" table](http://www.scp-wiki.net/). *SCP Foundation*. Retrieved 17 May 2018.
-
 32.
 33.
 34. Newsom, p.152
-
 35.
-
 36.
-
 37.
 38.
-
 39.
-
 40.
-
 41.
 42.
-
 43. Tapscott, p. 122
-
 44.
 45.
 46.
 47. Alexander, p.72
-
 48.
-
 49. Tapscott, p. 122-123
-
 50. Varonas, Nico (4 February 2012). [SCP-087: Escaleras a lo desconocido](https://www.neoteo.com/scp-087-escaleras-a-lo-desconocido/). *NeoTeo*. Retrieved 26 March 2015. "Esta es una comunidad de usuarios y de fanáticos del sci-fi y el terror..." (translation: "This is a community of users and of sci-fi and horror fans...")
-
 51.
 52.
-
 53.
-
 54.
-
 55.
 56.
-
 57.
-
 58.
 59.
 60.
-
 61.
-
 62.
-
 63.
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70. ●●●●●{{\!}}●●{{\!}}● |author=SCP Foundation |accessdate=2019-01-15}}
-
 71. Starr, Michelle (11 August 2013). \[<https://www.cnet.com/news/scp-foundation-web-series-coming-to-youtube/#>\! SCP Foundation web series coming to YouTube\]. *CNET*. Retrieved 6 February 2015.
-
 72.
 73.
-
 74.
-
 75.
-
 76. Alexander, Leigh (5 May 2016).[_9MOTHER9HORSE9EYES9: the mysterious tale terrifying Reddit](https://www.theguardian.com/technology/2016/may/05/9mother9horse9eyes9-the-mysterious-tale-terrifying-reddit).*The Guardian*. Retrieved 25 August 2018.
-
 77.
-
 78. Alexander p. 73
-
 79.
-
 80.
 81.
 82. Diver, p. 4 of chap. 5
-
 83. Chan, Stephanie (8 December 2017). [SCP-3008 is survival horror in an unending Ikea purgatory](https://venturebeat.com/2017/12/08/scp-3008-is-survival-horror-in-an-unending-ikea-purgatory/). *Venture Beat*. Retrieved 20 May 2018.
-
 84. Boring Aloof Gamer, The (27 June 2013). [Cute Little Things- SCP: Containment Breach Review](https://www.gameskinny.com/toe32/cute-little-things-scp-containment-breach-review). *Game Skinny*. Retrieved 20 May 2018.
-
 85.
 86.
 87. Clark, Dean. [SCP Secret Laboratory First Impression: Great Game, If You Can Get it Working](http://gametyrant.com/news/scp-secret-laboratory-first-impression-great-game-if-you-can-get-it-working). "Game Tyrant". Retrieved 31 December 2018.
-
 88.
 89.
 90.
-
 91. Scibetta, Nicholas (13 June 2018), [Preview: Control is a Stunning Action Game for Fans of Annihilation and the SCP Foundation](https://www.gamecrate.com/preview-control-stunning-action-game-fans-annihilation-and-scp-foundation/19694). *Gamecrate*. Retrieved 30 December 2018.
-
 92. Twinfinite Staff (3 July 2018), [Remedy’s Control Shares Eerie Similarities with the SCP CreepyPasta Site](https://twinfinite.net/2018/07/remedy-control-scp-foundation/). *Twinfinite*. Retrieved 30 December 2018.
-
 93.
 94. Power, Una (8 October 2014). [Welcome to the Ethics Committee](https://web.archive.org/web/20150811032448/http://belfieldfm.ie/2014/10/08/welcome-to-the-ethics-committee/). *Belfield FM/UCD Student Radio*. Archived from the [original](http://belfieldfm.ie/2014/10/08/welcome-to-the-ethics-committee/) on 11 August 2015.
-
 95. Molleson, Kate (3 May 2016) [Plug in to a feast of new music in Glasgow](http://www.heraldscotland.com/arts_ents/14466276.Plug_in_to_a_feast_of_new_music_in_Glasgow/). *Herald Scotland.* Retrieved 31 May 2016.

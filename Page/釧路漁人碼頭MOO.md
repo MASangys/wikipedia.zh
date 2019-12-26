@@ -26,12 +26,9 @@
 [Category:北海道建築物](https://zh.wikipedia.org/wiki/Category:北海道建築物 "wikilink") [Category:日本植物園](https://zh.wikipedia.org/wiki/Category:日本植物園 "wikilink") [Category:后现代主义建筑](https://zh.wikipedia.org/wiki/Category:后现代主义建筑 "wikilink") [Category:玻璃建筑](https://zh.wikipedia.org/wiki/Category:玻璃建筑 "wikilink") [Category:1989年完工建築物](https://zh.wikipedia.org/wiki/Category:1989年完工建築物 "wikilink") [Category:釧路市](https://zh.wikipedia.org/wiki/Category:釧路市 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
 7.

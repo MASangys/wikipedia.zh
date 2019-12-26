@@ -28,5 +28,4 @@
 [Category:倉木麻衣音樂專輯](https://zh.wikipedia.org/wiki/Category:倉木麻衣音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink") [Category:名偵探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名偵探柯南歌曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")
 
 1.
-
 2.

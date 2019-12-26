@@ -11,13 +11,9 @@
 [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:夜愿](https://zh.wikipedia.org/wiki/Category:夜愿 "wikilink")
 
 1.
-
 2.
 3.  <http://www.nightwish.com/en/news#2546>
-
 4.
-
 5.
 6.
-
 7.

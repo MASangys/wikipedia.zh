@@ -294,7 +294,7 @@ Image:Osaka Motor Show 2013 (99) Suzuki CARRY KX (DA16T).JPG Image:Suzuki CARRY 
 26. 「IBC」為「**I**suzu **B**edford **C**ompany Ltd」的縮寫，顧名思義本為[五十鈴](../Page/五十鈴.md "wikilink")擁有。1998年通用汽車買下這家工廠，故成為通用汽車歐洲分公司盧頓工廠。
 27. [Rascal History](http://www.mylittlevan.me.uk/page6.htm)。
 28. [Tall, slim mini-trucks for narrow roads](http://koreajoongangdaily.joins.com/news/article/article.aspx?aid=2921760)。
-29. [和訊：長安汽車：中國「軍轉民」的成功典範](http://tech.hexun.com.tw/2012-10-29/147306265.html)，第四張圖片。
+29. [和訊：長安汽車：中國「軍轉民」的成功典範](http://tech.hexun.com.tw/2012-10-29/147306265.html) ，第四張圖片。
 30. 參看[《自由時報》〈日車又出包，鈴木、日產召回問題車款〉](http://iservice.libertytimes.com.tw/liveNews/news.php?no=334969&type=%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E)一文。
 31. [スズキ株式会社：新型軽トラック「キャリイ」・軽キャブバン「エブリイ」を発売](http://www.suzuki.co.jp/release/a/a990106.htm)。
 32. [スズキ株式会社：軽トラック「キャリイ」に大型荷台仕様車を設定し新発売](http://www.suzuki.co.jp/release/a/a991125.htm)。

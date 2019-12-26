@@ -57,27 +57,16 @@
 [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:2PM音樂專輯](https://zh.wikipedia.org/wiki/Category:2PM音樂專輯 "wikilink") [Category:2015年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Oricon專輯週榜冠軍作品 "wikilink") [Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.

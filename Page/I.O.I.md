@@ -1,7 +1,5 @@
 **I.O.I**（）\[1\]，依據 [Mnet](../Page/Mnet.md "wikilink") 節目《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》的出道承諾於2016年成立的韓國女子[期間限定團體](../Page/期間限定團體.md "wikilink")，有十一名成員\[2\]：[林娜榮](https://zh.wikipedia.org/wiki/林娜榮 "wikilink")、[金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")、[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[鄭彩娟](https://zh.wikipedia.org/wiki/鄭彩娟 "wikilink")、[周潔瓊](../Page/周潔瓊.md "wikilink")、[金素慧](../Page/金素慧.md "wikilink")、[俞璉靜](https://zh.wikipedia.org/wiki/俞璉靜 "wikilink")、[磪有情](../Page/磪有情.md "wikilink")、[康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[金度延](../Page/金度延.md "wikilink")和[全昭彌](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")\[3\]。林娜榮由成員們互相投票獲選為隊長\[4\]。依約定I.O.I 以[YMC娛樂旗下藝人的身份進行固定期限的活動](../Page/Imagine_Asia.md "wikilink")，於2016年5月4日正式出道，2017年1月29日正式解散\[5\]\[6\]，共271天。
 
-2019年12月，[林娜榮](https://zh.wikipedia.org/wiki/林娜榮 "wikilink")、[金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")、[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[鄭彩娟](https://zh.wikipedia.org/wiki/鄭彩娟 "wikilink")、[周潔瓊](../Page/周潔瓊.md "wikilink")、[金素慧](../Page/金素慧.md "wikilink")、[磪有情](../Page/磪有情.md "wikilink")、[康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[金度延](../Page/金度延.md "wikilink")重新以I.O.I的名字重組活動，[全昭彌及](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")[俞璉靜暫定不參與此次重組活動](https://zh.wikipedia.org/wiki/俞璉靜 "wikilink")。
-
 團名I.O.I意思是**Ideal Of Idol**。團隊問候口號及手勢：口號是「Yes！I love it！我們是 I.O.I，大家好！」口號開始的同時，右手在右肩前拇指與四指合併旋轉並順向滑至左肩前，讓拇指與食指呈「指愛心發射」手勢。。
 
 由於I.O.I成員都是由「韓國國民」通過投票直接選出，是由「國民」擔任製作人，以投票方式決定出道成員並組團，節目播放期間受韓國觀眾關注度甚高（節目播出期間，每日可投票，累積共約3,400萬票），因此出道後曾被韓國媒體暱稱為「國民女團」。
@@ -89,18 +87,18 @@
 | 現任成員                                                    |
 | ------------------------------------------------------- |
 | 漢字\[66\]                                                |
-| **[林娜榮](https://zh.wikipedia.org/wiki/林娜榮 "wikilink")** |
-| [金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")     |
 | [金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")     |
-| [鄭彩娟](https://zh.wikipedia.org/wiki/鄭彩娟 "wikilink")     |
-| [周潔瓊](../Page/周潔瓊.md "wikilink")                        |
-| [金素慧](../Page/金素慧.md "wikilink")                        |
 | [磪有情](../Page/磪有情.md "wikilink")                        |
-| [康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")     |
+| [金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")     |
+| [金素慧](../Page/金素慧.md "wikilink")                        |
+| [周潔瓊](../Page/周潔瓊.md "wikilink")                        |
+| [鄭彩娟](https://zh.wikipedia.org/wiki/鄭彩娟 "wikilink")     |
 | [金度延](../Page/金度延.md "wikilink")                        |
+| [康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")     |
+| **[林娜榮](https://zh.wikipedia.org/wiki/林娜榮 "wikilink")** |
 | 暫定未參與重組成員                                               |
-| [俞璉靜](https://zh.wikipedia.org/wiki/俞璉靜 "wikilink")     |
 | [全昭彌](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")     |
+| [俞璉靜](https://zh.wikipedia.org/wiki/俞璉靜 "wikilink")     |
 
 ## 音樂作品
 
@@ -465,151 +463,80 @@ Whatta Man+너무너무너무</p></td>
 [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink") [Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink") [Category:I.O.I](https://zh.wikipedia.org/wiki/Category:I.O.I "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink") [Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink") [Category:2017年韓國廢除](https://zh.wikipedia.org/wiki/Category:2017年韓國廢除 "wikilink")
 
 1.
-
 2.  [《PRODUCE 101》最終選拔結果出爐](http://www.nownews.com/n/2016/04/02/2050612) 2016年4月2日 今日傳媒
-
 3.
-
-4.  [娜榮確定成為 I.O.I 的隊長](http://kpopn.com/2016/04/07/353171/) 2016年4月7日 Kpopn
-
+4.  [娜榮確定成為 I.O.I 的隊長](http://kpopn.com/2016/04/07/353171/)  2016年4月7日 Kpopn
 5.
 6.
 7.
 8.  [IOI《Crush》發行的同時佔領音源榜單，躋身大勢女團之列](http://www.vlovekpop.com/20160406-13/) vlovekpop
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21. [I.O.I小分隊面世，俞璉靜「被回收」，經紀公司：需要更多練習](http://www.vlovekpop.com/20160613-ioi/)vlovekpop
-
 22.
-
 23. [I.O.I小分隊的壓場感太強了！只是預告已令人驚歎！](http://www.vlovekpop.com/20160808-ioi/) vlovekpop
-
 24.  M COUNTDOWN 160811 EP.488|date=2016-08-11|url=[https://www.youtube.com/watch?v=h-CG2u8nPoM|accessdate=2016-08-11](https://www.youtube.com/watch?v=h-CG2u8nPoM%7Caccessdate=2016-08-11)}}
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30. [IOI score a certified all-kill with 'Very Very Very'\!](http://www.allkpop.com/article/2016/10/ioi-score-a-certified-all-kill-with-very-very-very)
-
 31. [IOI achieve their first perfect all-kill with 'Very Very Very'\!](http://www.allkpop.com/article/2016/10/ioi-achieve-their-first-perfect-all-kill-with-very-very-very)
-
 32.
-
 33.
-
 34.
-
 35. [這樣就一年了！I.O.I明年1月辦告別演唱會 門票12月9日公開預售！官方推出冰淇淋應援手燈 應援棒燈為深粉色](http://www.vlovekpop.com/20161128-ioi/) vlovekpop
-
 36. \[[http://entertain.naver.com/read?oid=109\&aid=0003445958\&spi_ref=m_entertain_twitter\]1분만에](http://entertain.naver.com/read?oid=109&aid=0003445958&spi_ref=m_entertain_twitter%5D1분만에) 콘서트 매진
-
 37.
-
 38.
-
 39.
-
 40.
-
 41. [I.O.I突然公開單曲《DOWNPOUR》，準備好紙巾才進來聽啊！](http://www.vlovekpop.com/20170118-ioi/) vlovekpop
-
 42.
-
 43.
-
 44.
-
 45.
 46.
-
 47.
-
 48.
-
 49. [Hand in Hand新版本發布](http://m.entertain.naver.com/read?oid=009&aid=0004100998)
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
 67.
-
 68.
-
 69.
-
 70.
-
 71.
 72.
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.
-
 78.

@@ -1018,33 +1018,20 @@ WWVB 相位調製注意位元
 [Category:時間標準](https://zh.wikipedia.org/wiki/Category:時間標準 "wikilink") [Category:時碼發播台](https://zh.wikipedia.org/wiki/Category:時碼發播台 "wikilink")
 
 1.
-
 2.
-
 3.  [All Time, All the Time: Improving NIST Radio](http://www.nist.gov/pml/newsletter/radio.cfm)
-
 4.
-
 5.  e.g. The [MAS6181 dual-frequency time code receiver IC](http://www.mas-oy.com/data/MAS_docu.htm) .
-
 6.
-
 7.
 8.
-
 9.
 10.
-
 11.
-
 12.
 13.
-
 14. [Pending Changes in the WWVB Radio Signal Affects Precision Frequency and Timing Reference](http://www.spectracomcorp.com/Desktopmodules/Bring2Mind/DMX/Download.aspx?EntryId=963&PortalId=0) (Spectracom)
-
 15.
-
 16.
 17. 從6月21日 - 2007年7月10日，WWVB嘗試使用第54位元給予更多的日光節約時的提前預警。[1](http://tf.nist.gov/stations/wwvb2007outages.htm) 由於新的日光節約時系統對一些無線電時鐘產生不良影響，因此決定不實施新的日光節約時系統。
-
 18.

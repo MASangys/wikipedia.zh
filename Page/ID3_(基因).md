@@ -44,12 +44,8 @@ ID3能與（轉錄因子3）發生[相互作用](../Page/蛋白質交互作用.m
 [Category:轉錄因子](https://zh.wikipedia.org/wiki/Category:轉錄因子 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.

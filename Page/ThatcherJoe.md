@@ -65,31 +65,18 @@
 [Category:英國YouTuber](https://zh.wikipedia.org/wiki/Category:英國YouTuber "wikilink") [Category:英国作家](https://zh.wikipedia.org/wiki/Category:英国作家 "wikilink") [Category:威爾特郡人](https://zh.wikipedia.org/wiki/Category:威爾特郡人 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.

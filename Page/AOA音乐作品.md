@@ -478,23 +478,14 @@
 [Category:韩国音乐作品列表](https://zh.wikipedia.org/wiki/Category:韩国音乐作品列表 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  [Oricon Weekly Chart 26-10-2015](http://www.oricon.co.jp/rank/ja/w/2015-10-26/)
-
 5.
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.

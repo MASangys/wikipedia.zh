@@ -556,7 +556,7 @@ Nyki Ikyn</p></td>
   -
   - [巴哈姆特資料庫－動畫《citrus ～柑橘味香氣～》](https://acg.gamer.com.tw/acgDetail.php?s=86010)
 
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:GL漫畫](https://zh.wikipedia.org/wiki/Category:GL漫畫 "wikilink") [Category:Comic百合姬](https://zh.wikipedia.org/wiki/Category:Comic百合姬 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink")
+[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:GL漫畫](https://zh.wikipedia.org/wiki/Category:GL漫畫 "wikilink") [Category:Comic百合姬](https://zh.wikipedia.org/wiki/Category:Comic百合姬 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink") [Category:恋爱漫畫](https://zh.wikipedia.org/wiki/Category:恋爱漫畫 "wikilink")
 
 1.
 2.

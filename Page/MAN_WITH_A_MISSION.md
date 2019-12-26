@@ -171,16 +171,25 @@ SRCL-9553（通常盤）</p></td>
 <td><p>《Take Me Under / Winding Road》</p></td>
 <td><p>SRCL-9718〜19（初回生産限定盤）<br />
 SRCL-9720（通常盤）<br />
-SRCL-9721（动画盤）</p></td>
+SRCL-9721（動畫盤）</p></td>
 <td><p>第4名</p></td>
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
 <td><p>2019年6月5日</p></td>
 <td><p>《Remember Me》</p></td>
-<td><p>SRCL-11153/54（初回生産限定盤）<br />
+<td><p>SRCL-11153〜54（初回生産限定盤）<br />
 SRCL-11155（通常盤）</p></td>
 <td><p>第6名</p></td>
+</tr>
+<tr class="odd">
+<td><p>11th</p></td>
+<td><p>2019年10月23日</p></td>
+<td><p>《Dark Crow》</p></td>
+<td><p>SRCL-11320〜21（初回生産限定盤）<br />
+SRCL-11322（通常盤）<br />
+SRCL-11323〜24（動畫盤）</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -301,29 +310,21 @@ SRCL-9810（通常盤）</p></td>
 [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink") [Category:狼題材作品](https://zh.wikipedia.org/wiki/Category:狼題材作品 "wikilink") [Category:新金屬樂團](https://zh.wikipedia.org/wiki/Category:新金屬樂團 "wikilink") [Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink") [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink") [Category:CD店大獎獲獎者](https://zh.wikipedia.org/wiki/Category:CD店大獎獲獎者 "wikilink")
 
 1.
-
 2.
-
 3.  MAN WITH A MISSION『WELCOME TO THE NEWWORLD』展覽小冊子
-
 4.
 5.
-
 6.
 7.
-
 8.
 9.
 10.
 11.
 12.
-
 13.
 14.
 15.
-
 16.
-
 17.
 18.
 19.

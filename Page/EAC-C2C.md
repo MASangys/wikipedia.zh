@@ -62,12 +62,8 @@ C2C-route.png|完整C2C网络线路及登陆点地图 C2C-North-route.png|C2C北
 [Category:位于太平洋的海底电缆](https://zh.wikipedia.org/wiki/Category:位于太平洋的海底电缆 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.

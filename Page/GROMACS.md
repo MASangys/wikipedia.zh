@@ -32,20 +32,12 @@ GROMACS的非GPL许可证版本被应用于分布式计算项目[Folding@home](.
 [Category:分子模擬軟體](https://zh.wikipedia.org/wiki/Category:分子模擬軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.

@@ -40,28 +40,16 @@ CapitalG主要投资已有稳定的基础且准备好进行商业扩张的公司
 [Category:Alphabet](https://zh.wikipedia.org/wiki/Category:Alphabet "wikilink") [Category:山景城公司](https://zh.wikipedia.org/wiki/Category:山景城公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
-
 14.

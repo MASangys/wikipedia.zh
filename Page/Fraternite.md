@@ -49,7 +49,7 @@
 
 ## 外部連結
 
-  - [官方網站](http://fraternite.club/)
+  - [官方網站](https://web.archive.org/web/20150511193415/http://fraternite.club/)
   - [HD版官方網站](http://clockup.net/fraternite_hd/index.html)
 
 [Category:2014年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2014年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:獵奇作品](https://zh.wikipedia.org/wiki/Category:獵奇作品 "wikilink")

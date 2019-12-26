@@ -91,11 +91,8 @@
 [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:Music_Ray'n所屬藝人](https://zh.wikipedia.org/wiki/Category:Music_Ray'n所屬藝人 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.

@@ -12,10 +12,8 @@
 
   - [Oshinkoshin瀑布](http://www.shiretoko.asia/oshinkoshin.html) - 知床斜里町觀光協會
 
-[Category:斜里町](https://zh.wikipedia.org/wiki/Category:斜里町 "wikilink") [Category:北海道地理](https://zh.wikipedia.org/wiki/Category:北海道地理 "wikilink") [Category:日本瀑布百選](https://zh.wikipedia.org/wiki/Category:日本瀑布百選 "wikilink") [Category:北海道觀光地](https://zh.wikipedia.org/wiki/Category:北海道觀光地 "wikilink") [Category:知床半島](https://zh.wikipedia.org/wiki/Category:知床半島 "wikilink")
+[Category:斜里町](https://zh.wikipedia.org/wiki/Category:斜里町 "wikilink") [Category:北海道地理](https://zh.wikipedia.org/wiki/Category:北海道地理 "wikilink") [Category:日本瀑布百選](https://zh.wikipedia.org/wiki/Category:日本瀑布百選 "wikilink") [Category:北海道旅遊景點](https://zh.wikipedia.org/wiki/Category:北海道旅遊景點 "wikilink") [Category:知床半島](https://zh.wikipedia.org/wiki/Category:知床半島 "wikilink")
 
 1.
-
 2.
-
 3.

@@ -1549,7 +1549,7 @@ KO KOL</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Trip精" title="wikilink">Trip精</a><br />
 Tripper</p></td>
 <td style="text-align: center;"><p>43</p></td>
-<td style="text-align: center;"><p>主持：、<a href="https://zh.wikipedia.org/wiki/梁嘉銘" title="wikilink">Ming仔</a>、<a href="https://zh.wikipedia.org/wiki/陳國熙" title="wikilink">Jerry.C</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/蔡嘉欣.md" title="wikilink">嘉欣</a>、<a href="https://zh.wikipedia.org/wiki/梁嘉銘" title="wikilink">Ming仔</a>、<a href="https://zh.wikipedia.org/wiki/陳國熙" title="wikilink">Jerry.C</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>娛樂清談節目</strong></p></td>
 </tr>
@@ -3060,7 +3060,7 @@ University Secrets</p></td>
 Local Gingers</p></td>
 <td style="text-align: center;"><p>4<br />
 (26)</p></td>
-<td style="text-align: center;"><p>主持：</p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">黃天頤</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/local-gingers">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>音樂節目</strong></p></td>
 </tr>
@@ -3146,7 +3146,7 @@ ATP 17 Highlights 2017</p></td>
 Local Gingers</p></td>
 <td style="text-align: center;"><p>22<br />
 (26)</p></td>
-<td style="text-align: center;"><p>主持：</p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">黃天頤</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/local-gingers">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>音樂節目</strong><br />
 10月14日改為12:30-13:00播出</p></td>

@@ -158,14 +158,10 @@
 [Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1920年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1920年啟用的鐵路線 "wikilink")
 
 1.
-
 2.  [Metropolitan Transportation Authority](https://zh.wikipedia.org/wiki/Metropolitan_Transportation_Authority "wikilink"), [2005 Adopted Budget - February Financial Plan 2005–2008](http://web.mta.info/mta/budget/2005adopted/index.html),  : shows Utica Avenue on "EPK" and Sutter Avenue on "NLT"
-
 3.  [Metropolitan Transportation Authority](https://zh.wikipedia.org/wiki/Metropolitan_Transportation_Authority "wikilink"), [2005 Final Proposed Budget - November Financial Plan 2005–2008](http://web.mta.info/mta/budget/november2005.htm),  : "Sutter Avenue Portal to end"
-
 4.  In a 1981 list of "most deteriorated subway stations", the MTA listed Borough Hall and Court Street stations as part of the New Lots Line:
     [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), Agency Lists Its 69 Most Deteriorated Subway Stations, June 11, 1981, section B, page 5
-
 5.
 6.
 7.

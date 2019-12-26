@@ -350,6 +350,17 @@ Wake Me Up – 2018 ver.</p></td>
 <td></td>
 <td><p>14位</p></td>
 </tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>2019年12月25日</p></td>
+<td><p><strong>WINTER TRIP</strong></p></td>
+<td><p>CD+DVD<br />
+CD</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -548,7 +559,7 @@ ALWAYS -Instrumental-</p></td>
 1月5日日 福岡 福岡BEAT STATION<br />
 1月12日 北海道 札幌ペニーレーン24<br />
 1月18日 宮城 仙台 Rensa<br />
-2月02日 東京 昭和女子大学人見記念講堂 </p></td>
+2月2日 東京 昭和女子大学人見記念講堂 </p></td>
 </tr>
 </tbody>
 </table>

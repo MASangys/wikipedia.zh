@@ -111,29 +111,18 @@ h1= 堰高（英尺）
 [Category:美國發明家](https://zh.wikipedia.org/wiki/Category:美國發明家 "wikilink") [Category:美國工程師](https://zh.wikipedia.org/wiki/Category:美國工程師 "wikilink") [Category:英格蘭發明家](https://zh.wikipedia.org/wiki/Category:英格蘭發明家 "wikilink") [Category:移民美國的英格蘭人](https://zh.wikipedia.org/wiki/Category:移民美國的英格蘭人 "wikilink") [Category:工业革命人物](https://zh.wikipedia.org/wiki/Category:工业革命人物 "wikilink") [Category:纺织工程师](https://zh.wikipedia.org/wiki/Category:纺织工程师 "wikilink")
 
 1.  Lowell National Historic Park publication
-
 2.  Encyclopaedia Britannica
-
 3.
-
 4.
 5.
 6.
-
 7.  THE EARLY HISTORY OF GRINNELL CORPORATION AND THE FIRE SPRINKLER INDUSTRY, Compiled By; Jerome S. Pepi Vice President, Research and Development Fire Protection Products, January 25, 1996
-
 8.
 9.
-
 10. Appletons' annual cyclopaedia and register of important events, Volume 17
-
 11. "Prevention of floods in the valley of Stony Brook: a report by a Commission" By Boston (Mass.). Stony Brook Commission, James Bicheno Francis
-
 12.
 13. Contributions of the Old Residents' Historical Association, Lowell ..., Volume 1 By Old Residents' Historical Association of Lowell (Mass.)
-
 14.
-
 15.
-
 16.

@@ -580,13 +580,9 @@
 [Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink") [Category:2015年小說](https://zh.wikipedia.org/wiki/Category:2015年小說 "wikilink") [Category:月刊少年Ace](https://zh.wikipedia.org/wiki/Category:月刊少年Ace "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:2017年UHF動畫](https://zh.wikipedia.org/wiki/Category:2017年UHF動畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
@@ -594,15 +590,10 @@
 9.
 10.
 11.
-
 12.
 13.
-
 14. 結尾時標題換為「」。
-
 15. 結尾時標題換為「天道花憐與突如其來的幸福結局」。
-
 16.
-
 17.
 18.

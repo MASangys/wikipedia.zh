@@ -32,7 +32,8 @@ interface IUnknown {
 
 ## 相關條目
 
-  -
+  - [IDispatch](https://zh.wikipedia.org/wiki/IDispatch "wikilink")
+
   -
   - [IInspectable](https://zh.wikipedia.org/wiki/IInspectable "wikilink")
 

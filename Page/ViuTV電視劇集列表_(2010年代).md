@@ -1030,7 +1030,7 @@
 <td><p>2</p></td>
 <td><p>香港</p></td>
 <td><p><a href="../Page/瑪嘉烈與大衛系列_前度.md" title="wikilink">瑪嘉烈與大衛系列 前度 (特別篇)</a></p></td>
-<td><p>、<a href="../Page/黃定謙.md" title="wikilink">黃定謙</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、、<a href="../Page/黃可盈.md" title="wikilink">黃可盈</a>、<a href="../Page/蘇皓兒.md" title="wikilink">蘇皓兒</a></p></td>
+<td><p><a href="../Page/陳凱詠.md" title="wikilink">陳凱詠</a>、<a href="../Page/黃定謙.md" title="wikilink">黃定謙</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、、<a href="../Page/黃可盈.md" title="wikilink">黃可盈</a>、<a href="../Page/蘇皓兒.md" title="wikilink">蘇皓兒</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1773,15 +1773,6 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>8月31日</p></td>
-<td><p>1</p></td>
-<td><p>日本</p></td>
-<td><p><a href="../Page/大叔的愛.md" title="wikilink">大叔的愛 特別篇</a></p></td>
-<td><p><a href="../Page/田中圭.md" title="wikilink">田中圭</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>9月2日</p></td>
 <td><p>23</p></td>
 <td><p>韓國</p></td>
@@ -1790,16 +1781,16 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10月3日</p></td>
-<td></td>
+<td><p>24</p></td>
 <td><p>韓國</p></td>
 <td><p><a href="../Page/先熱情地打掃吧.md" title="wikilink">先熱情地打掃吧</a></p></td>
 <td><p><a href="../Page/金裕貞.md" title="wikilink">金裕貞</a>、<a href="../Page/尹鈞相.md" title="wikilink">尹鈞相</a>、<a href="../Page/宋再臨.md" title="wikilink">宋再臨</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10月3日</p></td>
 <td><p>15</p></td>
 <td><p>香港</p></td>
@@ -1808,149 +1799,75 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10月24日</p></td>
-<td></td>
+<td><p>23</p></td>
 <td><p>韓國</p></td>
-<td><p><a href="../Page/漢摩拉比小姐.md" title="wikilink">逆權法官</a></p></td>
+<td><p><a href="../Page/漢摩拉比小姐.md" title="wikilink">新紮法官</a></p></td>
 <td><p><a href="../Page/高雅羅.md" title="wikilink">高雅羅</a>、<a href="../Page/金明洙.md" title="wikilink">金明洙</a>、<a href="../Page/成東鎰.md" title="wikilink">成東鎰</a></p></td>
 <td></td>
 <td></td>
 </tr>
-</tbody>
-</table>
-
-## 預定播放劇集
-
-以下列出[ViuTV](../Page/ViuTV.md "wikilink")於節目宣傳片公佈的預定播放劇集。
-
-<table style="width:331%;">
-<colgroup>
-<col style="width: 80%" />
-<col style="width: 50%" />
-<col style="width: 50%" />
-<col style="width: 15%" />
-<col style="width: 34%" />
-<col style="width: 90%" />
-<col style="width: 12%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>首播日期</p></th>
-<th><p>集數</p></th>
-<th><p>來源</p></th>
-<th><p>劇名</p></th>
-<th><p>演員</p></th>
-<th><p>官方網頁</p></th>
-<th><p>備註</p></th>
+<tr class="even">
+<td><p>11月6日</p></td>
+<td><p>21</p></td>
+<td><p>韓國</p></td>
+<td><p><a href="../Page/雞龍仙女傳.md" title="wikilink">雞龍仙女傳</a></p></td>
+<td><p><a href="../Page/文彩元.md" title="wikilink">文彩元</a>、<a href="../Page/尹賢旻.md" title="wikilink">尹賢旻</a>、<a href="../Page/徐志焄.md" title="wikilink">徐志焄</a>、<a href="../Page/高斗心.md" title="wikilink">高斗心</a></p></td>
+<td></td>
+<td></td>
 </tr>
-</thead>
-<tbody>
 <tr class="odd">
-<td><p>拍攝完成</p></td>
-<td><p>15</p></td>
-<td><p>香港</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/好人好姐" title="wikilink">好人好姐</a></p></td>
-<td><p><a href="../Page/劉美君.md" title="wikilink">劉美君</a>、<a href="../Page/江若琳.md" title="wikilink">江若琳</a>、<a href="../Page/沈震軒.md" title="wikilink">沈震軒</a>、<a href="../Page/張建聲.md" title="wikilink">張建聲</a>、<a href="../Page/雨僑.md" title="wikilink">雨僑</a>、<a href="../Page/羅霖.md" title="wikilink">羅霖</a></p></td>
+<td><p>11月25日</p></td>
+<td><p>22</p></td>
+<td><p>韓國</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/想暫停的瞬間：About_Time" title="wikilink">想暫停的瞬間</a></p></td>
+<td><p><a href="../Page/李相侖.md" title="wikilink">李相侖</a>、<a href="../Page/李聖經.md" title="wikilink">李聖經</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>拍攝完成</p></td>
+<td><p>12月2日</p></td>
 <td><p>20</p></td>
-<td><p>香港</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/歎息橋" title="wikilink">歎息橋</a></p></td>
-<td><p><a href="../Page/林保怡.md" title="wikilink">林保怡</a>、<a href="../Page/周家怡.md" title="wikilink">周家怡</a>、<a href="../Page/伍詠薇.md" title="wikilink">伍詠薇</a>、<a href="../Page/衛詩雅.md" title="wikilink">衛詩雅</a>、<a href="../Page/陳奐仁.md" title="wikilink">陳奐仁</a>、<a href="../Page/秦沛.md" title="wikilink">秦沛</a>、<a href="../Page/唐寧_(香港).md" title="wikilink">唐寧</a>、<a href="../Page/張慧儀.md" title="wikilink">張慧儀</a>、<a href="../Page/劉兆銘.md" title="wikilink">劉兆銘</a>、<a href="../Page/郭鋒_(演員).md" title="wikilink">郭鋒</a>、<a href="../Page/陸駿光.md" title="wikilink">陸駿光</a>、<a href="../Page/談善言.md" title="wikilink">談善言</a>、<a href="../Page/黃溢濠.md" title="wikilink">黃溢濠</a>、<a href="../Page/陳健朗.md" title="wikilink">陳健朗</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a>、</p></td>
+<td><p>日本</p></td>
 <td></td>
-<td><p><small><a href="../Page/電訊盈科媒體.md" title="wikilink">PCCW Media Group</a>、<a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷信息技術 (北京) 有限公司聯合製作</a></small></p></td>
+<td><p><a href="../Page/深田恭子.md" title="wikilink">深田恭子</a>、<a href="https://zh.wikipedia.org/wiki/松山健一" title="wikilink">松山健一</a></p></td>
+<td></td>
+<td><p>不設網上重溫</p></td>
 </tr>
 <tr class="odd">
-<td><p>拍攝完成</p></td>
-<td><p>-</p></td>
+<td><p>12月5日</p></td>
+<td></td>
+<td><p>韓國</p></td>
+<td><p><a href="../Page/Legal_High_(韓國電視劇).md" title="wikilink">Law界狂人</a></p></td>
+<td><p><a href="../Page/晉久.md" title="wikilink">晉久</a>、<a href="../Page/徐恩秀.md" title="wikilink">徐恩秀</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12月25日</p></td>
+<td><p>10</p></td>
 <td><p>香港</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/黑巿_(電視劇)" title="wikilink">黑巿</a></p></td>
-<td><p><a href="../Page/王貽興.md" title="wikilink">王貽興</a>、、<a href="../Page/詹瑞文.md" title="wikilink">詹瑞文</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、、、、<a href="../Page/黃溢濠.md" title="wikilink">黃溢濠</a>、<a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>拍攝中</p></td>
-<td><p>-</p></td>
-<td><p>香港</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/打天下" title="wikilink">打天下</a></p></td>
-<td><p><a href="../Page/歐錦棠.md" title="wikilink">歐錦棠</a>、<a href="../Page/文頌嫻.md" title="wikilink">文頌嫻</a>、<a href="../Page/張建聲.md" title="wikilink">張建聲</a>、<a href="../Page/談善言.md" title="wikilink">談善言</a>、、<a href="../Page/江熚生.md" title="wikilink">江熚生</a>、<a href="../Page/萬斯敏.md" title="wikilink">萬斯敏</a>、<a href="../Page/楊英偉.md" title="wikilink">楊英偉</a>、<a href="https://zh.wikipedia.org/wiki/葉麗娜_(女演員)" title="wikilink">葉麗娜</a></p></td>
+<td><p><a href="../Page/王貽興.md" title="wikilink">王貽興</a>、、<a href="../Page/詹瑞文.md" title="wikilink">詹昊宸</a>、<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<a href="../Page/陳啟泰.md" title="wikilink">陳啟泰</a>、<a href="../Page/魯文傑.md" title="wikilink">魯文傑</a>、<a href="https://zh.wikipedia.org/wiki/朱康" title="wikilink">朱栢康</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、、、、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、、<a href="../Page/黃溢濠.md" title="wikilink">黃溢濠</a>、<a href="../Page/陳潔玲.md" title="wikilink">陳潔玲</a>、<a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、<a href="../Page/麥芷誼.md" title="wikilink">麥芷誼</a>、<a href="../Page/余采霖.md" title="wikilink">余采霖</a>、<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a>（<a href="https://zh.wikipedia.org/wiki/邱士縉" title="wikilink">邱士縉</a>、<a href="https://zh.wikipedia.org/wiki/呂爵安" title="wikilink">呂爵安</a>、<a href="https://zh.wikipedia.org/wiki/邱傲然" title="wikilink">邱傲然</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>籌備中</p></td>
-<td><p>-</p></td>
-<td><p>香港</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/搖滾校園_(電視劇)" title="wikilink">搖滾校園</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a></p></td>
+<td><p>12月28日</p></td>
+<td><p>1</p></td>
+<td><p>日本</p></td>
+<td><p><a href="../Page/大叔的愛.md" title="wikilink">大叔的愛 特別篇</a></p></td>
+<td><p><a href="../Page/田中圭.md" title="wikilink">田中圭</a></p></td>
 <td></td>
-<td></td>
+<td><p>本劇曾於8月31日開始播映後，因臨時插播新聞報道而被腰斬</p></td>
 </tr>
 <tr class="even">
-<td><p>計劃中</p></td>
-<td><p>-</p></td>
-<td><p>香港</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/信任的遊戲" title="wikilink">信任的遊戲</a></p></td>
-<td><p><a href="../Page/盧瀚霆.md" title="wikilink">盧瀚霆</a>、<a href="https://zh.wikipedia.org/wiki/陳卓賢" title="wikilink">陳卓賢</a>、<a href="../Page/楊樂文.md" title="wikilink">楊樂文</a>、<a href="../Page/姜濤.md" title="wikilink">姜濤</a>（四位皆為<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR成員</a>）</p></td>
 <td></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p>計劃中</p></td>
-<td><p>-</p></td>
-<td><p>香港/中國大陸</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/太陽黑子_(電視劇)" title="wikilink">太陽黑子</a></p></td>
 <td></td>
 <td></td>
-<td><p>|</p></td>
-</tr>
-<tr class="even">
-<td><p>未定</p></td>
-<td><p>23</p></td>
-<td><p>韓國</p></td>
-<td><p><a href="../Page/學校2017.md" title="wikilink">學校2017</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金世正" title="wikilink">金世正</a>、<a href="https://zh.wikipedia.org/wiki/金正鉉_(演員)" title="wikilink">金正鉉</a>、<a href="https://zh.wikipedia.org/wiki/張東尹" title="wikilink">張東尹</a></p></td>
 <td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>未定</p></td>
-<td><p>10</p></td>
-<td><p>日本</p></td>
-<td><p><a href="../Page/好醫生_(日本電視劇).md" title="wikilink">Good Doctor</a></p></td>
-<td><p><a href="../Page/山崎賢人.md" title="wikilink">山崎賢人</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>未定</p></td>
-<td><p>10</p></td>
-<td><p>日本</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/行騙天下JP" title="wikilink">信用欺詐師</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/長澤雅美" title="wikilink">長澤雅美</a>、<a href="../Page/東出昌大.md" title="wikilink">東出昌大</a>、<a href="../Page/小日向文世.md" title="wikilink">小日向文世</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>未定</p></td>
-<td><p>7</p></td>
-<td><p>日本</p></td>
-<td></td>
-<td><p><a href="../Page/倉科加奈.md" title="wikilink">倉科加奈</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>未定</p></td>
-<td><p>10</p></td>
-<td><p>日本</p></td>
-<td></td>
-<td><p><a href="../Page/渡邊麻友.md" title="wikilink">渡邊麻友</a>、</p></td>
 <td></td>
 <td></td>
 </tr>

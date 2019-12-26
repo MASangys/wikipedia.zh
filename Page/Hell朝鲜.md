@@ -11,12 +11,8 @@
 [Category:韩语](https://zh.wikipedia.org/wiki/Category:韩语 "wikilink") [Category:互联网用语](https://zh.wikipedia.org/wiki/Category:互联网用语 "wikilink") [Category:黑色幽默](https://zh.wikipedia.org/wiki/Category:黑色幽默 "wikilink") [Category:韓國社會](https://zh.wikipedia.org/wiki/Category:韓國社會 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.

@@ -20,12 +20,8 @@ Creative Market于2012年在加州旧金山成立由Aaron Epstein、Chris Willia
 [Category:Y_Combinator公司](https://zh.wikipedia.org/wiki/Category:Y_Combinator公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.

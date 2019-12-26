@@ -20,11 +20,8 @@
 [Category:金球奖最佳原创歌曲](https://zh.wikipedia.org/wiki/Category:金球奖最佳原创歌曲 "wikilink") [Category:奧斯卡最佳歌曲](https://zh.wikipedia.org/wiki/Category:奧斯卡最佳歌曲 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
 6.

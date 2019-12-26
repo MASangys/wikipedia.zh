@@ -28,8 +28,6 @@
 [Category:航空电子学](https://zh.wikipedia.org/wiki/Category:航空电子学 "wikilink") [Category:預警系統](https://zh.wikipedia.org/wiki/Category:預警系統 "wikilink") [Category:飛機部件](https://zh.wikipedia.org/wiki/Category:飛機部件 "wikilink") [Category:航空儀表](https://zh.wikipedia.org/wiki/Category:航空儀表 "wikilink")
 
 1.
-
 2.
 3.
-
 4.

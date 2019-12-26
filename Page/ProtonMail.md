@@ -1,10 +1,8 @@
-[Protonmail_decentralized_hosting.png](https://zh.wikipedia.org/wiki/File:Protonmail_decentralized_hosting.png "fig:Protonmail_decentralized_hosting.png")（左）[和阿廷豪森](https://zh.wikipedia.org/wiki/Attinghausen "wikilink") \[Attinghausen\]（右）.\]\]
-
-**ProtonMail**（在中国被非正式地称为“**质子邮箱**”）是一個加密的 Webmail 服務，於2013年由[歐洲核子研究組織](../Page/歐洲核子研究組織.md "wikilink")（CERN）成员 Jason Stockman、Andy Yen和Wei Sun創建。ProtonMail 现由总部设在瑞士日内瓦州的 Proton Technologies AG 经营。据 Andy Yen 称，他和公司一半的人都来自麻省理工学院（MIT），ProtonMail 的两个服务器分别设在瑞士的 Lausanne 和 Attinghausen。
+[Protonmail_decentralized_hosting.png](https://zh.wikipedia.org/wiki/File:Protonmail_decentralized_hosting.png "fig:Protonmail_decentralized_hosting.png")（左）和 \[Attinghausen\]（右）.\]\] **ProtonMail**（在中国被非正式地称为“**质子邮箱**”）是一個加密的 Webmail 服務，於2013年由[歐洲核子研究組織](../Page/歐洲核子研究組織.md "wikilink")（CERN）成员 Jason Stockman、Andy Yen和Wei Sun創建。ProtonMail 现由总部设在瑞士日内瓦州的 Proton Technologies AG 经营。据 Andy Yen 称，他和公司一半的人都来自麻省理工学院（MIT），ProtonMail 的两个服务器分别设在瑞士的洛桑和阿廷豪森。
 
 ## 特点
 
-ProtonMail 账户有 protonmail.ch、protonmail.com，pm.me 三个后缀，用户可在设置中自行选择默认后缀。ProtonMail 帐户使用登录密码和邮箱密码两个用户密码。第一认证该用户进入 ProtonMail 系统，而第二解密该用户的电子邮箱。第二密码是已知的仅给用户。ProtonMail 的服务器抱以加密的形式和密码恢复用户的数据是不可能的。钉钉（DingTalk）、Snapchat 和 Telegram 也具有类似的服务。ProtonMail 还包括一个消息过期功能，允许加密的电子邮件经过一段时间后自行销毁。
+ProtonMail账户有protonmail.ch、protonmail.com，pm.me 三个后缀，用户可在设置中自行选择默认后缀。ProtonMail 帐户使用登录密码和邮箱密码两个用户密码。第一认证该用户进入 ProtonMail 系统，而第二解密该用户的电子邮箱。第二密码是已知的仅给用户。ProtonMail 的服务器抱以加密的形式和密码恢复用户的数据是不可能的。钉钉（DingTalk）、Snapchat 和 Telegram 也具有类似的服务。ProtonMail 还包括一个消息过期功能，允许加密的电子邮件经过一段时间后自行销毁。
 
 ProtonMail采用了公钥加密和对称加密协议的组合，以提供终端到终端的加密。当用户创建一个ProtonMail账户，浏览器会生成一对RSA公鑰和私钥。公共密钥用于加密用户的电子邮件和其他用户数据。私钥能够解密该用户的数据的，在对称加密中使用AES-256的用户的网络浏览器的用户的邮箱密码。公开密钥和加密的私钥然后一起存储在ProtonMail服务器。ProtonMail無法解密私鑰，因此ProtonMail开发商无法检索用户的电子邮件。
 
@@ -22,7 +20,7 @@ ProtonMail采用了公钥加密和对称加密协议的组合，以提供终端�
 
 ## 历史事件
 
-ProtonMail是2013年斯诺登事件后，为应对美国国家安全局的全球监测和拦截电子邮件的背景下创建，设计者们对ProtonMail的设计受到了Gmail、Lavabit和Snapchat的启发。
+ProtonMail是2013年斯诺登事件后，为应对美国国家安全局的全球监测和拦截电子邮件的背景下创建，设计者们对ProtonMail的设计受到了[Gmail](../Page/Gmail.md "wikilink")、[Lavabit和](https://zh.wikipedia.org/wiki/Lavabit "wikilink")[Snapchat](../Page/Snapchat.md "wikilink")的启发。
 
 在2014年7月31日，ProtonMail通过Indiegogo一个集资活动从10576名捐助者那里众筹了55,0377美元资金。因集资时间处在在美国竞选期间，以怀疑ProtonMail行为的合法性为由，ProtonMail的PayPal账户被冻结，但在次日冻结即被取消。
 
@@ -54,9 +52,7 @@ ProtonMail 曾于美剧《[Mr. Robot](https://zh.wikipedia.org/wiki/Mr._Robot "w
 [Category:电子邮件网站](https://zh.wikipedia.org/wiki/Category:电子邮件网站 "wikilink") [Category:2013年建立的网站](https://zh.wikipedia.org/wiki/Category:2013年建立的网站 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:使用MIT许可证的软件](https://zh.wikipedia.org/wiki/Category:使用MIT许可证的软件 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.

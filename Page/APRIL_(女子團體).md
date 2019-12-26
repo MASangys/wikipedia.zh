@@ -1,4 +1,4 @@
-**APRIL**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[DSP媒體](../Page/DSP媒體.md "wikilink")於2015年推出的六人女子團體，初始成員包括[昭珉](../Page/全昭珉.md "wikilink")、采媛、[玹珠](../Page/李玹珠.md "wikilink")、[娜恩](../Page/李娜恩.md "wikilink")、睿娜、真率。經成員變動後，現任成員有[彩暻](https://zh.wikipedia.org/wiki/尹彩暻 "wikilink")、采媛、[娜恩](../Page/李娜恩.md "wikilink")、睿娜、Rachel、真率。2015年8月24日推出首張迷你專輯《Dreaming》。2015年8月25日於SBS MTV《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》以主打曲《Dream Candy》正式出道。
+**APRIL**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[DSP媒體](../Page/DSP媒體.md "wikilink")於2015年推出的六人女子團體，初始成員包括[昭珉](../Page/全昭珉.md "wikilink")、[采媛](https://zh.wikipedia.org/wiki/金彩媛 "wikilink")、[玹珠](../Page/李玹珠.md "wikilink")、[娜恩](../Page/李娜恩.md "wikilink")、[睿娜](https://zh.wikipedia.org/wiki/梁睿娜 "wikilink")、[真率](https://zh.wikipedia.org/wiki/李眞率 "wikilink")。經成員變動後，現任成員有[彩暻](https://zh.wikipedia.org/wiki/尹彩暻 "wikilink")、[采媛](https://zh.wikipedia.org/wiki/金彩媛 "wikilink")、[娜恩](../Page/李娜恩.md "wikilink")、[睿娜](https://zh.wikipedia.org/wiki/梁睿娜 "wikilink")、[Rachel](https://zh.wikipedia.org/wiki/成那然 "wikilink")、[真率](https://zh.wikipedia.org/wiki/李眞率 "wikilink")。2015年8月24日推出首張迷你專輯《Dreaming》。2015年8月25日於SBS MTV《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》以主打曲《Dream Candy》正式出道。
 
 團名為APRIL是因為四月是有著嶄新氛圍一個的季節月份，包含著美好以及溫暖的意涵，還有另外一層意義，便是好的「**A**」加上代表可愛女性的「**PRIL**」組合而成，因此涵意為「帶給大眾美好與溫暖的歌曲而讓人無法不深深喜愛的少女們」\[1\]。官方粉絲名為「FINEAPPLE」。
 
@@ -80,13 +80,13 @@
 
 2月4日，公開了娜恩、真率子團單曲《My Story (내 이야기)》\[16\]的 MV 預告。
 
-2月7日，以數位方式發行《My Story (내 이야기)》，並公開《My Story (내 이야기)》的 MV。
+2月7日，以數位方式發行《My Story (내 이야기)》，並公開《My Story (내 이야기)》\[17\]MV。
 
 #### 迷你五輯《The Blue》
 
 2月26日起，官方公開預告照，將於3月12日發行迷你五輯《The Blue》回歸。
 
-3月5日，公開了《The Blue》\[17\]的歌詞 ASMR 的預告。
+3月5日，公開了《The Blue》\[18\]的歌詞 ASMR 的預告。
 
 3月12日，發行迷你五輯《The Blue》回歸，並公開主打曲《青鳥 (파랑새)》的 MV。
 
@@ -96,7 +96,7 @@
 
 #### 迷你六輯《the Ruby》
 
-10月4日，官方宣布10月16日發行迷你六輯《the Ruby》回歸，陸續在官方 Facebook 公開專輯曲目表、音源試聽與團體、個人概念照。13-14日，公開主打曲《Oh\! my mistake(예쁜 게 죄)》MV預告\#1\[18\]、\#2\[19\]。16日，公開主打曲《Oh\! my mistake(예쁜 게 죄)》MV。
+10月4日，官方宣布10月16日發行迷你六輯《the Ruby》回歸，陸續在官方 Facebook 公開專輯曲目表、音源試聽與團體、個人概念照。13-14日，公開主打曲《Oh\! my mistake(예쁜 게 죄)》MV預告\#1\[19\]、\#2\[20\]。16日，公開主打曲《Oh\! my mistake(예쁜 게 죄)》MV。
 
 #### 日語單曲二輯《Oh-e-Oh》
 
@@ -190,6 +190,7 @@ PlotData =
 #### 單曲
 
   - Boing Boing（2015年11月25日）
+  - Snowman（2015年12月21日）
   - MAYDAY（2017年5月29日）
 
 ### 日語作品
@@ -385,8 +386,41 @@ K-POP FESTIVAL</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>10月25日</p></td>
+<td><p>BOF FAMILY PARK</p></td>
+<td><p>韓國－釜山華明生態公園</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
+
+## 代言
+
+### 品牌
+
+| **年份**     | **種類** | **品牌名稱**                                                        | **參與成員**          | **合作藝人**   | **來源** |
+| ---------- | ------ | --------------------------------------------------------------- | ----------------- | ---------- | ------ |
+| 2015年      | 化妝品    | **ACT사**「AQUTOP山羊牛奶面膜」                                          | **全員**            | rowspan =4 | \[21\] |
+| 2017年      | 制果     | **[樂天](https://zh.wikipedia.org/wiki/樂天 "wikilink")**「樂天制果兒童品牌」 | 真率                | \[22\]     |        |
+| 2018年      | 化妝品    | **Foamous**「Foam Mousse」                                        | rowspan =2|**全員** | \[23\]     |        |
+| 2017-2019年 | 食品     | **하림**「MEXICAN炸雞」                                               | \[24\]            |            |        |
+
+### 宣傳大使
+
+| **年份**            | **活動名稱**               | **參與成員**                                              | **合作藝人**   | **來源** |
+| ----------------- | ---------------------- | ----------------------------------------------------- | ---------- | ------ |
+| 2016年             | 韓國童軍聯合會大使              | rowspan =4|**全員**                                     | rowspan =6 | \[25\] |
+| 軍事福利基金會青少年大使      | \[26\]                 |                                                       |            |        |
+| 全球K-FOOD FAIR宣傳大使 | \[27\]                 |                                                       |            |        |
+| 首爾市綠色學校供食大使       | \[28\]                 |                                                       |            |        |
+| 2017年             | Kikoriki動畫：黃金帽子的秘密宣傳大使 | 真率                                                    | \[29\]     |        |
+| 韓國白血病小兒癌症協會大使     | **全員**                 | \[30\]                                                |            |        |
+| 第二屆安陽國際青少年電影節大使   | 彩暻                     | [高田健太](https://zh.wikipedia.org/wiki/高田健太 "wikilink") | \[31\]     |        |
+| 農村人才共享運動          | rowspan =3|**全員**      | rowspan =3                                            | \[32\]     |        |
+| 陸軍部隊節宣傳大使         | \[33\]                 |                                                       |            |        |
+| 2018年             | 農林EPIS國家食品認證大使         | \[34\]                                                |            |        |
 
 ## 獎項
 
@@ -519,7 +553,7 @@ K-POP FESTIVAL</p></td>
 
 **官方連結**
 
-  - APRIL [官方網站](http://dspmedia.co.kr/april/)
+  - APRIL [官方網站](http://www.dspmedia.co.kr/artist/profile?ca_id=50)
 
   - APRIL [官方Daum cafe](http://cafe.daum.net/officialAPRIL)
 
@@ -530,7 +564,9 @@ K-POP FESTIVAL</p></td>
   -
   -
   -
-    <sub>(四月兒是April的吉祥物)</sub>
+    <sup>(四月兒是April的吉祥物)</sup>
+
+<!-- end list -->
 
   -
 **成員個人SNS**
@@ -540,6 +576,9 @@ K-POP FESTIVAL</p></td>
   -
   -
   -
+  -
+**成員個人頻道**
+
   -
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:2015年韓國建立](https://zh.wikipedia.org/wiki/Category:2015年韓國建立 "wikilink")
 
@@ -562,3 +601,18 @@ K-POP FESTIVAL</p></td>
 17.
 18.
 19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.

@@ -29,7 +29,7 @@ LMS職業聯賽於2015年採用個隊伍三循環BO1賽制，2016年採用各隊
 
 ## 現任主播、賽評及主持人
 
-主播：湯米(Tommy)、部分(Section)、考特(Scott)、Rex、Multy、JR
+主播：阿樂(Yunni) 湯米(Tommy)、部分(Section)、考特(Scott)、Rex、Multy、JR
 
 賽評：Albis、MMD、Woody、ZOD、Cyo、Nash、Action
 
@@ -243,7 +243,7 @@ LMS職業聯賽於2015年採用個隊伍三循環BO1賽制，2016年採用各隊
 
 ## 其他
 
-### 歷年代表LMS參加世界大賽隊伍
+### 歷年代表LMS參加[世界大賽隊伍](https://zh.wikipedia.org/wiki/英雄聯盟世界大賽 "wikilink")
 
 <table>
 <tbody>

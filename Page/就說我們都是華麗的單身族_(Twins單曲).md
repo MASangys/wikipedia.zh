@@ -78,16 +78,10 @@
 [Category:Twins歌曲](https://zh.wikipedia.org/wiki/Category:Twins歌曲 "wikilink") [Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink")
 
 1.  [就說我們都是華麗的單身族 kkbox online](https://www.kkbox.com/tw/tc/song/Zeq00-HTZIHqM6WZqM6WZ0XL-index.html)
-
 2.
 3.  [【騰訊娛樂】Twins合體談感情問題 國語新歌將首登演唱會現場](http://www.izxox.cn/yyzx/20160805/373807.shtml)
-
 4.  [【新浪網】Twins新歌透過表象探索感情本質](http://dailynews.sina.com/bg/ent/music/sinacn/20160922/19377531103.html)
-
 5.  [【人民網】林俊傑暌違十年與Twins再度合作分享單身貴族精彩生活](http://ent.people.com.cn/n1/2016/0923/c1085-28736166.html)
-
 6.  [【新華網】Twins新歌《就說我們都是華麗的單身族》首發](http://ent.news.cn/2016-09/23/c_1119610497.htm)
-
 7.
-
 8.  [【Facebook】獨身不孤單 單身也華麗 JJ為TWINS作新曲《就說我們都是華麗的單身族》](https://www.facebook.com/CPOPFANS/posts/676536462496190)

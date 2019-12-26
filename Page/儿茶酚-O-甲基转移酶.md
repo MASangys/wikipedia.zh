@@ -68,16 +68,10 @@ COMT在1957年由[生物化學家](https://zh.wikipedia.org/wiki/生物化學家
 [Category:EC_2.1.1](https://zh.wikipedia.org/wiki/Category:EC_2.1.1 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.

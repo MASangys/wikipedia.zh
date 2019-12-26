@@ -116,27 +116,17 @@ KiHa E131型设有洗手间。
 [Category:日本柴油动车组](https://zh.wikipedia.org/wiki/Category:日本柴油动车组 "wikilink") [Category:東日本旅客鐵道車輛](https://zh.wikipedia.org/wiki/Category:東日本旅客鐵道車輛 "wikilink") [Category:東急製鐵路車輛](https://zh.wikipedia.org/wiki/Category:東急製鐵路車輛 "wikilink") [Category:新潟运输系统制铁路车辆](https://zh.wikipedia.org/wiki/Category:新潟运输系统制铁路车辆 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
 11.
 12.
 13.
-
 14.
-
 15.

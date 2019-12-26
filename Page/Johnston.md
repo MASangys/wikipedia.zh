@@ -9,13 +9,9 @@ Johnston在伦敦乘客运输委员会（）成立并合并了多家公司后成
 [Category:倫敦地鐵](https://zh.wikipedia.org/wiki/Category:倫敦地鐵 "wikilink") [Category:1913年面世](https://zh.wikipedia.org/wiki/Category:1913年面世 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.

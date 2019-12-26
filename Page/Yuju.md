@@ -8,7 +8,7 @@
 
 她在2012年參加\[京畿道高陽市青少年綜合藝術節\]，獲得最優秀獎（初三）。
 
-她在2013年參加\[東亞放送藝術學院主辦的全國大賽\]，演唱\[Ali\]的《Ziugae》，獲得金獎（高一），獲得100萬韓元。
+她在2013年參加\[東亞放送藝術學院主辦的全國大賽\]，演唱Ali的《Ziugae》，獲得金獎（高一），獲得100萬韓元。
 
 ### 2015年
 
@@ -75,13 +75,13 @@
 <td><p>OST</p></td>
 <td><p>2015年4月8日</p></td>
 <td><p>《<a href="../Page/看見味道的少女.md" title="wikilink">看見味道的少女</a>》OST Part.2</p></td>
-<td><p>偶然的春天（우연히 봄）</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=GjyMuHmzxVE">偶然的春天（우연히 봄）</a></p></td>
 <td><p><a href="../Page/Loco.md" title="wikilink">Loco</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年5月20日</p></td>
 <td><p>《偶然的春天》 (Special Edition)</p></td>
-<td><p>偶然的春天(Acoustic Ver.)</p></td>
+<td><p>偶然的春天 (Acoustic Ver.)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -89,13 +89,13 @@
 <td><p>廣播</p></td>
 <td><p>2015年7月19日</p></td>
 <td><p>《<a href="../Page/神秘音樂秀：蒙面歌王.md" title="wikilink">蒙面歌王</a>》第16集</p></td>
-<td><p>Without a Heart （심장이 없어）</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=DDNdnWfyLl4">Without a Heart （심장이 없어）</a></p></td>
 <td><p>The Name</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年7月26日</p></td>
-<td><p>《蒙面歌王》第17集</p></td>
-<td><p>I Love You（난 널 사랑）</p></td>
+<td><p>《<a href="../Page/神秘音樂秀：蒙面歌王.md" title="wikilink">蒙面歌王</a>》第17集</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=3wN5Qdqn7Hk">I Love You（난 널 사랑）</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -110,7 +110,7 @@
 <td><p>單曲</p></td>
 <td><p>2016年3月11日</p></td>
 <td></td>
-<td><p>Cherish（보일 듯 말 듯）</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=Sh1KgVqwWVE">Cherish（보일 듯 말 듯）</a></p></td>
 <td><p><a href="../Page/UP10TION.md" title="wikilink">善燏</a></p></td>
 </tr>
 <tr class="even">
@@ -123,7 +123,7 @@
 <tr class="odd">
 <td><p>2017年12月5日</p></td>
 <td><p>《CHERISH》</p></td>
-<td><p>첫사랑</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=q1K8jz3hBBc">First Love (첫사랑)</a></p></td>
 <td><p><a href="../Page/Jung_Key.md" title="wikilink">정키(Jung Key)</a></p></td>
 <td></td>
 </tr>
@@ -135,10 +135,24 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>OST</p></td>
 <td><p>2018年8月7日</p></td>
-<td><p>《一起吃飯吧3：Begins》OST Part.3</p></td>
-<td><p>只此一曲(이 노래만）</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/一起吃飯吧3" title="wikilink">一起吃飯吧3：Begins》OST</a> Part.3</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=inSzGRKSGD4">Just This Song (이노래만)</a></p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>單曲</p></td>
+<td><p>2018年11月9日</p></td>
+<td><p>《Monthly Project》</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=R4Dsfd06axI">Cramming (벼락치기)</a></p></td>
+<td><p><a href="../Page/尹鍾信.md" title="wikilink">尹鍾信</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>OST</p></td>
+<td><p>2018年12月24日</p></td>
+<td><p>《<a href="../Page/福秀回來了.md" title="wikilink">福秀回來了</a>》OST Part.5</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=OBtWbJsJAOw">Snowflake Love (눈꽃사랑)</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -150,11 +164,14 @@
 
 ### 音樂錄影帶
 
-|       |       |                                                                  |                                      |
-| ----- | ----- | ---------------------------------------------------------------- | ------------------------------------ |
-| 年份    | 發佈日期  | 歌曲名稱                                                             | 合作歌手                                 |
-| 2015年 | 4月8日  | [偶然的春天（우연히 봄）](https://www.youtube.com/watch?v=GjyMuHmzxVE)      | Loco                                 |
-| 2016年 | 3月11日 | [Cherish（보일 듯 말 듯）](https://www.youtube.com/watch?v=Sh1KgVqwWVE) | [善燏](../Page/UP10TION.md "wikilink") |
+|       |                                                                 |                                                                     |                                                         |
+| ----- | --------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------- |
+| 年份    | 發佈日期                                                            | 歌曲名稱                                                                | 合作歌手                                                    |
+| 2015年 | 4月8日                                                            | [偶然的春天（우연히 봄）](https://www.youtube.com/watch?v=GjyMuHmzxVE)         | [Loco](../Page/Loco.md "wikilink")                      |
+| 2016年 | 3月11日                                                           | [Cherish（보일 듯 말 듯）](https://www.youtube.com/watch?v=Sh1KgVqwWVE)    | [善燏](../Page/UP10TION.md "wikilink")                    |
+| 2017年 | 10月27日                                                          | [Heart Signal (하트시그널)](https://www.youtube.com/watch?v=A6-T9TVHaEI) | [志厚](https://zh.wikipedia.org/wiki/IZ "wikilink")       |
+| 12月5日 | [First Love (첫사랑)](https://www.youtube.com/watch?v=q1K8jz3hBBc) | [Jung Key](../Page/Jung_Key.md "wikilink")                          |                                                         |
+| 2018年 | 6月29日                                                           | [Love Rain](https://www.youtube.com/watch?v=YA_QoIh78eA)            | [SURAN](https://zh.wikipedia.org/wiki/SURAN "wikilink") |
 
 ### 綜藝節目
 
@@ -182,6 +199,8 @@
 | 2017年綜藝節目列表 |
 | 10月1日、8日    |
 | 10月21日      |
+| 2018年綜藝節目列表 |
+| 5月12日       |
 
 ### 廣播節目
 

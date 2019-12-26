@@ -43,6 +43,10 @@
 
   - 鄭彩延（[PlayM GIRLS](https://zh.wikipedia.org/wiki/PlayM_GIRLS "wikilink")）
 
+  - 金多溫（[PlayM GIRLS](https://zh.wikipedia.org/wiki/PlayM_GIRLS "wikilink")）
+
+  - 尹世恩（[PlayM GIRLS](https://zh.wikipedia.org/wiki/PlayM_GIRLS "wikilink")）
+
 ## 音樂作品
 
 ### 數碼單曲

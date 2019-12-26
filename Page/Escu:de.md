@@ -1,5 +1,4 @@
-**Escu:de**（エスクード）是日本Element（エレメント）公司的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，於1998年5月在[大阪市成立](../Page/大阪市.md "wikilink")。\[1\]\[2\]2008年和[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")（あかべぇそふとつぅ）共同製作**こんぼく麻雀
-〜こんな麻雀があったら僕はロン\!〜**。\[3\]
+**Escu:de**（エスクード）是日本Element（エレメント）公司的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，於1998年5月在[大阪市](../Page/大阪市.md "wikilink")成立。\[1\]\[2\]2008年和[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")（あかべぇそふとつぅ）共同製作《こんぼく麻雀 〜こんな麻雀があったら僕はロン\!〜》。\[3\]
 
 ## 作品列表
 
@@ -163,11 +162,11 @@
 <tr class="odd">
 <td><p>ヒメゴト・マスカレイド 〜お嬢様たちの戯れ〜</p></td>
 <td><p>2012年12月21日</p></td>
-<td><p><a href="../Page/みけおう.md" title="wikilink">みけおう</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/みけおう" title="wikilink">みけおう</a></p></td>
 <td><p>にゃこ</p></td>
 </tr>
 <tr class="even">
-<td><p>せんすいぶ!</p></td>
+<td><p><a href="../Page/戰水社！.md" title="wikilink">せんすいぶ!</a></p></td>
 <td><p>2013年6月28日</p></td>
 <td><p>光姫満太郎、〆鯖コハダ<br />
 ここのか</p></td>
@@ -181,7 +180,7 @@
 <td><p>藤原休樹</p></td>
 </tr>
 <tr class="even">
-<td><p>Re;Lord ～ヘルフォルトの魔女とぬいぐるみ～</p></td>
+<td><p><a href="../Page/Re;Lord.md" title="wikilink">Re;Lord ～ヘルフォルトの魔女とぬいぐるみ～</a></p></td>
 <td><p>2014年6月27日</p></td>
 <td><p>水鼠</p></td>
 <td><p>西村悠一</p></td>
@@ -189,7 +188,7 @@
 <tr class="odd">
 <td><p><a href="../Page/新娘和魔王_～王室的後宮是下克上～.md" title="wikilink">花嫁と魔王 ～王室のハーレムは下剋上～</a></p></td>
 <td><p>2014年8月29日</p></td>
-<td><p><a href="../Page/白餅櫻.md" title="wikilink">白もち桜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/白餅櫻" title="wikilink">白もち桜</a></p></td>
 <td><p>にゃこ</p></td>
 </tr>
 <tr class="even">
@@ -207,7 +206,7 @@
 <td><p>西村悠一</p></td>
 </tr>
 <tr class="even">
-<td><p>フォーリンラブ×4tune</p></td>
+<td><p><a href="../Page/Fall_in_love×4tune.md" title="wikilink">フォーリンラブ×4tune</a></p></td>
 <td><p>2015年11月27日</p></td>
 <td><p>みけおう、草上明</p></td>
 <td><p>若瀬諒、りりり<br />
@@ -252,6 +251,14 @@ Masaya、明地雫</p></td>
 梅鳥うりり、蒼瀬、遊丸</p></td>
 <td><p>犬童飛沫、御導はるか、さんきち</p></td>
 </tr>
+<tr class="odd">
+<td><p>姫と穢欲のサクリファイス</p></td>
+<td><p>2019年7月26日</p></td>
+<td><p>B-銀河、遊丸、瑠奈璃亞<br />
+はっとりまさき、蒼瀬</p></td>
+<td><p>木下じゃっく、御導はるか、薄迷<br />
+犬童飛沫、紅ぴえろ、星天誠</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -269,5 +276,4 @@ Masaya、明地雫</p></td>
 
 1.  [会社概要](http://www.escude.co.jp/company.html#data)Escu:de
 2.  [Escu:de](https://vndb.org/p403)The Visual Novel Database
-3.  [こんぼく麻雀
-    〜こんな麻雀があったら僕はロン\!〜](http://www.getchu.com/soft.phtml?id=453145)Getchu.com
+3.  [こんぼく麻雀 〜こんな麻雀があったら僕はロン\!〜](http://www.getchu.com/soft.phtml?id=453145)Getchu.com

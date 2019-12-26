@@ -2,7 +2,7 @@
 
 臺灣版由[東森媒體集團旗下之東森整合行銷公司](https://zh.wikipedia.org/wiki/東森媒體集團 "wikilink")，於2014年末開始，以「得易Ponta」名義進行營運\[1\]，其後於2018年12月31日，因東森整合行銷調整經營模式之故而停止營運。
 
-## 概況
+## 历史
 
 [Ponta_OKMart_iPass_CIS.gif](https://zh.wikipedia.org/wiki/File:Ponta_OKMart_iPass_CIS.gif "fig:Ponta_OKMart_iPass_CIS.gif")」推出的「OK好利聯名卡[一卡通](https://zh.wikipedia.org/wiki/一卡通 "wikilink")」\]\] 2010年3月1日\[2\]，Ponta集點服務由三菱商事旗下之LM公司公開發行，當時與、[LAWSON進行整合](../Page/羅森_\(便利店\).md "wikilink")，於發行初期順利移轉並確保了近兩千萬位會員的資格，並確立了會員數三千萬與加盟業者三十間的目標\[3\]。
 
@@ -65,7 +65,7 @@
       -
   - [印尼Ponta](http://www.ponta.co.id/)
 
-[Category:日本經濟](https://zh.wikipedia.org/wiki/Category:日本經濟 "wikilink") [Category:台灣經濟](https://zh.wikipedia.org/wiki/Category:台灣經濟 "wikilink") [Category:印尼經濟](https://zh.wikipedia.org/wiki/Category:印尼經濟 "wikilink") [Category:東森媒體集團](https://zh.wikipedia.org/wiki/Category:東森媒體集團 "wikilink") [Category:哺乳動物吉祥物](https://zh.wikipedia.org/wiki/Category:哺乳動物吉祥物 "wikilink")
+[Category:三菱商事](https://zh.wikipedia.org/wiki/Category:三菱商事 "wikilink") [Category:日本經濟](https://zh.wikipedia.org/wiki/Category:日本經濟 "wikilink") [Category:台灣經濟](https://zh.wikipedia.org/wiki/Category:台灣經濟 "wikilink") [Category:印尼經濟](https://zh.wikipedia.org/wiki/Category:印尼經濟 "wikilink") [Category:東森媒體集團](https://zh.wikipedia.org/wiki/Category:東森媒體集團 "wikilink") [Category:哺乳動物吉祥物](https://zh.wikipedia.org/wiki/Category:哺乳動物吉祥物 "wikilink")
 
 1.
 2.

@@ -33,28 +33,17 @@
 [Category:1982年電子遊戲](https://zh.wikipedia.org/wiki/Category:1982年電子遊戲 "wikilink") [Category:雅達利2600遊戲](https://zh.wikipedia.org/wiki/Category:雅達利2600遊戲 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:成人電子遊戲](https://zh.wikipedia.org/wiki/Category:成人電子遊戲 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:電子遊戲爭議](https://zh.wikipedia.org/wiki/Category:電子遊戲爭議 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15.

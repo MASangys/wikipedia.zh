@@ -243,9 +243,6 @@
 4.
 5.
 6.
-
 7.  劇中的電台DJ，僅聲音演出。
-
 8.  [3DS版](../Page/任天堂3DS.md "wikilink")。
-
 9.  [Android](../Page/Android.md "wikilink")、[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")。

@@ -74,11 +74,11 @@
 ## 外部連結
 
   - [BURIKO](http://www.buriko.jp/index.html)
-  - [Darios Laboratory](http://www.buriko.info/index.html)
+  - [Darios Laboratory](https://web.archive.org/web/20150923195246/http://www.buriko.info/index.html)
 
 [Category:遊戲引擎](https://zh.wikipedia.org/wiki/Category:遊戲引擎 "wikilink")
 
-[Category:遊戲製作軟件](https://zh.wikipedia.org/wiki/Category:遊戲製作軟件 "wikilink")
+[Category:電子遊戲開發軟件](https://zh.wikipedia.org/wiki/Category:電子遊戲開發軟件 "wikilink")
 
 1.  [ゲームシステム開発](http://www.buriko.jp/work.html)BURIKO
 2.  [Ethornell](http://www.studiokuma.com/home.php?page=tools/ethornell)小熊工作室

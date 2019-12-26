@@ -112,7 +112,6 @@
 2.
 3.
 4.
-
 5.
 6.
 7.  僅在、[DC家用機出場](../Page/Dreamcast.md "wikilink")。

@@ -360,87 +360,47 @@ AlphaGo（白方）勝出第五局。
 
 1.
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23. [回覆: 電腦圍棋程式人工智慧大突破-Google AlphaGo](http://www.yigo.org/modules/newbb/viewtopic.php?post_id=87902#forumpost87902)
-
 24.
-
 25.
-
-26. [goratings.org](http://www.goratings.org/)
-
+26.
 27.
-
-28. [Why the Final Game Between AlphaGo and Lee Sedol Is Such a Big Deal for Humanity](http://www.wired.com/2016/03/final-game-alphago-lee-sedol-big-deal-humanity/)
-
-29. [捍衛人類尊嚴首戰 李世乭敗！ - The News Lens 關鍵評論網](http://hk.thenewslens.com/post/295134/) AlphaGo所用的時間比李世乭多（它只餘下5分鐘左右，而李世乭則有還有28分）
-
+28.
+29. [捍衛人類尊嚴首戰 李世乭敗！ - The News Lens 關鍵評論網](http://hk.thenewslens.com/post/295134/)  AlphaGo所用的時間比李世乭多（它只餘下5分鐘左右，而李世乭則有還有28分）
 30.
-
-31. <http://udn.com/news/story/5/1559274/> 李世乭：只是我輸了-不是全人類 - 中央社 首爾
-
-32. [棋王奪首勝 「發現電腦弱點」](http://www.appledaily.com.tw/appledaily/article/headline/20160314/37108499/)
-
-33. [AlphaGo第四戰輸了、為什麼連黃士傑也不知道原因？](http://www.setn.com/News.aspx?NewsID=131342)
-
+31. <http://udn.com/news/story/5/1559274/>  李世乭：只是我輸了-不是全人類 - 中央社 首爾
+32.
+33.
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.

@@ -72,25 +72,17 @@
 [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:TOY'S_FACTORY音樂專輯](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY音樂專輯 "wikilink") [Category:2015年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.
 7.
-
 8.  雜誌『ROCKIN'ON JAPAN』2015年2月號 p40
-
 9.
 10.
-
 11. 雜誌『ROCKIN'ON JAPAN』2015年2月號 p43
-
 12.
 13.
-
 14. 雜誌『ROCKIN'ON JAPAN』2015年2月號 p45
-
 15.

@@ -708,31 +708,20 @@
 [Category:日本女舞者](https://zh.wikipedia.org/wiki/Category:日本女舞者 "wikilink") [Category:Amuse所屬藝人](https://zh.wikipedia.org/wiki/Category:Amuse所屬藝人 "wikilink") [Category:BABYMETAL](https://zh.wikipedia.org/wiki/Category:BABYMETAL "wikilink") [Category:1977年出生](https://zh.wikipedia.org/wiki/Category:1977年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:第32屆夏季奧林匹克運動會組織委員會人物](https://zh.wikipedia.org/wiki/Category:第32屆夏季奧林匹克運動會組織委員會人物 "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
 12.
 13. MIKIKOMETAL名義。
-
 14. 與合作。
-
 15.
-
 16.
-
 17. [椎名林檎らリオ五輪閉会式で東京引き継ぎ式メンバー](https://web.archive.org/web/20160125162515/http://www.nikkansports.com/general/news/1596701.html) - [日刊體育](../Page/日刊體育.md "wikilink")、2016年1月26日
-
 18. [佐々木宏氏、菅野薫氏、リオ五輪閉会式での東京引継ぎ式メンバーに](http://www.advertimes.com/20160127/article215959/) - \#ブレーン | AdverTimes、2016年1月27日

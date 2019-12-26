@@ -291,7 +291,7 @@ Psycho Pass 2</a></p></td>
 <tr class="odd">
 <td><p><a href="../Page/東京喰種.md" title="wikilink">東京喰種<br />
 東京喰種√A<br />
-東京喰種Re</a></p></td>
+東京喰種:re</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/now_101台" title="wikilink">now 101台</a></p></td>
 <td></td>
 <td><p>第1季</p></td>
@@ -443,17 +443,9 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td><p>第1輯</p></td>
 <td><p>38</p></td>
-<td></td>
+<td><p>#1分拆播放 &lt;!--|- bgcolor="beige"</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td><p>第2輯</p></td>
-<td><p>39</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/美少女戰士Crystal.md" title="wikilink">美少女戰士Crystal</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -461,7 +453,7 @@ Psycho Pass 2</a></p></td>
 <td><p>26</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONA" title="wikilink">ONA</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>#27-39</p></td>
 <td><p>13</p></td>
@@ -469,7 +461,7 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/戀愛班長.md" title="wikilink">戀愛班長</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -477,7 +469,7 @@ Psycho Pass 2</a></p></td>
 <td><p>51</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>第2季</p></td>
 <td><p>39</p></td>
@@ -485,7 +477,7 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/境界觸發者.md" title="wikilink">境界觸發者</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -493,7 +485,7 @@ Psycho Pass 2</a></p></td>
 <td><p>48</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>#49-73</p></td>
 <td><p>25</p></td>
@@ -501,7 +493,7 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -509,7 +501,7 @@ Psycho Pass 2</a></p></td>
 <td><p>32</p></td>
 <td><p>每次播放兩集</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -517,7 +509,7 @@ Psycho Pass 2</a></p></td>
 <td><p>16</p></td>
 <td><p>短動畫</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>#17-75</p></td>
 <td><p>59</p></td>
@@ -525,7 +517,7 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/月刊少女野崎同學.md" title="wikilink">月刊少女野崎同學</a>[13]</p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -533,7 +525,7 @@ Psycho Pass 2</a></p></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/舞武器舞亂伎" title="wikilink">舞武器舞亂伎</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -541,7 +533,7 @@ Psycho Pass 2</a></p></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>未定</p></td>
 <td><p>第2期</p></td>
 <td><p>12</p></td>
@@ -549,7 +541,7 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -557,7 +549,7 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/信長協奏曲.md" title="wikilink">信長協奏曲</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -565,7 +557,7 @@ Psycho Pass 2</a></p></td>
 <td><p>10</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/LINE_TOWN.md" title="wikilink">LINE TOWN</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -573,7 +565,7 @@ Psycho Pass 2</a></p></td>
 <td><p>50</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/乾物妹小埋" title="wikilink">-{干}-物妹<br />
 -{干}-物妹R</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
@@ -582,7 +574,7 @@ Psycho Pass 2</a></p></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>第2季</p></td>
 <td><p>12</p></td>
@@ -590,7 +582,7 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/搖滾少女" title="wikilink">搖滾少女</a>[14]<br />
 <a href="https://zh.wikipedia.org/wiki/搖滾少女" title="wikilink">Show By Rock</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
@@ -599,7 +591,7 @@ Psycho Pass 2</a></p></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>第2季</p></td>
 <td><p>12</p></td>
@@ -607,7 +599,7 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/團地友夫" title="wikilink">友夫日記</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -615,7 +607,7 @@ Psycho Pass 2</a></p></td>
 <td><p>78</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/魔神之骨.md" title="wikilink">魔神之骨</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -623,7 +615,7 @@ Psycho Pass 2</a></p></td>
 <td><p>52</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/藍海少女！.md" title="wikilink">藍海少女<br />
 藍海少女！Advance</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
@@ -632,7 +624,7 @@ Psycho Pass 2</a></p></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>第2季</p></td>
 <td><p>12</p></td>
@@ -640,7 +632,7 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/決鬥大師.md" title="wikilink">決鬥大師<br />
 決鬥大師VSR<br />
 決鬥大師VSRF</a>VS</p></td>
@@ -650,7 +642,7 @@ Psycho Pass 2</a></p></td>
 <td><p>49</p></td>
 <td><p><a href="../Page/決鬥大師.md" title="wikilink">決鬥大師</a>系列第6輯</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>第2季</p></td>
 <td><p>51</p></td>
@@ -658,7 +650,7 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>第3季</p></td>
 <td><p>51</p></td>
@@ -666,7 +658,7 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Regalia_三聖星.md" title="wikilink">雷加利亞三聖星</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -674,7 +666,7 @@ Psycho Pass 2</a></p></td>
 <td><p>13</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/企鵝找麻煩.md" title="wikilink">企鵝找麻煩 MAX</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -682,7 +674,7 @@ Psycho Pass 2</a></p></td>
 <td><p>50</p></td>
 <td><p>每次播放兩集</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/神之謎題" title="wikilink">神之謎題</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -690,7 +682,7 @@ Psycho Pass 2</a></p></td>
 <td><p>25</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>第2季</p></td>
 <td><p>25</p></td>
@@ -698,7 +690,7 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>第3季</p></td>
 <td><p>25</p></td>
@@ -706,7 +698,7 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>註釋：</strong></p>
 <references group="註" /></td>
 <td></td>
@@ -715,7 +707,7 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -749,7 +741,7 @@ Psycho Pass 2</a></p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/舞力四射" title="wikilink">舞力四射</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
 <td></td>
@@ -1004,14 +996,23 @@ Psycho Pass 2</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/動物朋友.md" title="wikilink">動物朋友</a></p></td>
+<td><p><a href="../Page/動物朋友.md" title="wikilink">動物朋友<br />
+動物朋友2</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
-<td></td>
+<td><p>第1季</p></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td><p>第2季</p></td>
+<td><p>12</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/多美超級救援DRIVE_HEAD機動救急警察.md" title="wikilink">DRIVE HEAD 機動救急警察</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -1019,7 +1020,7 @@ Psycho Pass 2</a></p></td>
 <td><p>37</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/100%帕斯卡老師.md" title="wikilink">100%帕斯卡老師</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -1027,7 +1028,7 @@ Psycho Pass 2</a></p></td>
 <td><p>36</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>{{tsl|ja|プリプリちぃちゃん</p></td>
 <td><p>|地底小靈精}}</p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
@@ -1035,7 +1036,7 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td><p>36</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/HEROMAN.md" title="wikilink">英雄勇者</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -1043,15 +1044,15 @@ Psycho Pass 2</a></p></td>
 <td><p>26</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/決鬥大師.md" title="wikilink">決鬥大師</a>2017</p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
 <td></td>
 <td><p>51</p></td>
-<td><p><a href="../Page/決鬥大師.md" title="wikilink">決鬥大師</a>系列第7輯</p></td>
+<td><p><a href="../Page/決鬥大師.md" title="wikilink">決鬥大師</a>系列第7輯 &lt;!--|- bgcolor="beige"</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/遊戲王ARC-V.md" title="wikilink">遊戲王ARC-V<br />
 遊戲王ARC-V 2<br />
 遊戲王ARC-V 3</a></p></td>
@@ -1061,7 +1062,7 @@ Psycho Pass 2</a></p></td>
 <td><p>148</p></td>
 <td><p><a href="../Page/遊戲王.md" title="wikilink">遊戲王</a>系列第6輯</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Re:從零開始的異世界生活.md" title="wikilink">從零開始的異世界生活</a>[19]</p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -1069,7 +1070,7 @@ Psycho Pass 2</a></p></td>
 <td><p>25</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/魔物獵人物語#電視動畫" title="wikilink">魔物獵人物語 RIDE ON</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -1077,7 +1078,7 @@ Psycho Pass 2</a></p></td>
 <td><p>75</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/名偵探柯南_Episode&quot;ONE&quot;_變小了的名偵探" title="wikilink">名偵探柯南 Episode"ONE" 變小了的名偵探</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -1085,14 +1086,6 @@ Psycho Pass 2</a></p></td>
 <td><p>1</p></td>
 <td><p>電視特別版本</p></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
-<td></td>
-<td></td>
-<td><p>51</p></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
@@ -1102,6 +1095,14 @@ Psycho Pass 2</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
+<td></td>
+<td></td>
+<td><p>51</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/龍族拼圖X.md" title="wikilink">龍族拼圖X</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -1109,7 +1110,7 @@ Psycho Pass 2</a></p></td>
 <td><p>89</p></td>
 <td><p><a href="../Page/龍族拼圖.md" title="wikilink">龍族拼圖</a>動畫版第1輯</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/棒球大聯盟2nd.md" title="wikilink">棒球大聯盟2nd</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -1117,18 +1118,19 @@ Psycho Pass 2</a></p></td>
 <td><p>25</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/棒球大聯盟" title="wikilink">棒球大聯盟第</a>2輯</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/塔麻可吉！.md" title="wikilink">他媽哥池<br />
 他媽哥池2<br />
 他媽哥池3<br />
-他媽哥池4</a>[20]</p></td>
+他媽哥池4<br />
+他媽哥池5</a>[20]</p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
 <td><p>第1輯</p></td>
 <td><p>143</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>第2輯</p></td>
 <td><p>49</p></td>
@@ -1136,10 +1138,18 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>第3輯#1-5</p></td>
 <td><p>5</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>第3輯#6-29</p></td>
+<td><p>24</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1201,7 +1211,7 @@ Psycho Pass 2</a></p></td>
 <td><p>#1-46</p></td>
 <td><p>46</p></td>
 <td><p><a href="../Page/遊戲王.md" title="wikilink">遊戲王</a>系列第7輯<br />
-日本播放日期：2017年5月10日～</p></td>
+日本播放日期：2017年5月10日～2019年9月25日</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Battle_Spirits_Sword_Eyes.md" title="wikilink">Battle Spirits－劍之眼</a></p></td>
@@ -1268,6 +1278,30 @@ Psycho Pass 2</a></p></td>
 <td><p>每次播放兩集</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/最強銀河_究極ZERO_Battle_Spirits" title="wikilink">Battle Spirits－最強銀河究極Zero</a></p></td>
+<td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
+<td></td>
+<td></td>
+<td><p>49</p></td>
+<td><p><a href="../Page/Battle_Spirits.md" title="wikilink">Battle Spirits系列第</a>6輯</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
+<td></td>
+<td></td>
+<td><p>25</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong>註釋：</strong></p>
 <references group="註" /></td>
 <td></td>
@@ -1276,7 +1310,7 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1727,49 +1761,27 @@ Psycho Pass 2</a></p></td>
 [Category:Now寬頻電視節目](https://zh.wikipedia.org/wiki/Category:Now寬頻電視節目 "wikilink") [Category:動畫相關列表](https://zh.wikipedia.org/wiki/Category:動畫相關列表 "wikilink") [Category:香港電視娛樂節目列表](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目列表 "wikilink") [Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")
 
 1.  [Fate/Zero－宣傳片](https://www.youtube.com/watch?v=9Xyl-5GA-xk)
-
 2.  軍販（漫畫正式譯名）
-
 3.  2014年11月8日起推出
-
 4.  BLOOD LAD 血意少年（漫畫正式譯名）
-
 5.  漫畫家與助手（漫畫正式譯名）
-
 6.  2014年4月15日起推出
-
 7.  [海賊王－宣傳片](https://www.youtube.com/watch?v=CVjeqVM-yp0)
-
 8.  第1季於2014年7月14日起推出，第2季於2015年1月14日起推出
-
 9.  [ViuTV 深夜人氣動畫](http://assets.viu.tv/git_hktve/wp-content/uploads/2016/03/viuTv_Sch_sil_ph_animation.jpg)
-
 10. 2014年7月14日起推出
-
 11. 第1季於2014年11月3日起推出，第2季於2015年4月17日起推出
-
 12. KINGDOM 戰臣（漫畫正式譯名）
-
 13. 月刊少女野崎（漫畫正式譯名）
-
 14. 首播初期使用此譯名，於第1季第12集起及後期重播時均改回Show By Rock。
-
 15. ONE-PUNCH MAN（漫畫正式譯名）
-
 16. 含特別編
-
 17. 怪盜Joker（漫畫正式譯名）
-
 18. 紅髮的白雪公主（漫畫正式譯名）
-
 19. Re:從零開始的異世界生活（小說正式譯名）
-
-20. 寵物反斗星（[無綫播放時的譯名](../Page/電視廣播有限公司.md "wikilink")）
-
+20. 寵物反斗星（[無綫電視播放時譯名](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")）
 21. 足球小將（漫畫正式譯名）
-
 22. [電視免費睇蠟筆小新劇場版電影！親切廣東話配音夠抵死](https://hk.ulifestyle.com.hk/topic/detail/206569/電視免費睇蠟筆小新劇場版電影！親切廣東話配音夠抵死/1)
-
 23.
 24.
 25.

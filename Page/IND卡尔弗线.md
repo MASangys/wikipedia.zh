@@ -408,22 +408,14 @@
 [Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1919年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1919年啟用的鐵路線 "wikilink")
 
 1.
-
 2.
-
 3.  [City of New York](https://zh.wikipedia.org/wiki/City_of_New_York "wikilink") Office of the Comptroller, [Dilemma in the  : Capital Needs of the World's Capital City](http://www.comptroller.nyc.gov/bureaus/eng/complete.pdf) , August 1998, signal system data table (page 197) from the [New York City Transit Authority](https://zh.wikipedia.org/wiki/New_York_City_Transit_Authority "wikilink")
-
 4.
 5.
-
 6.
-
 7.
-
 8.  [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [City Subway Adds Link](https://www.nytimes.com/1933/03/21/archives/city-subway-adds-link-extension-to-bergensmith-street-station-in.html), March 21, 1933, page 4
-
 9.  [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [City Subway Extended](https://www.nytimes.com/1933/10/07/archives/6000000-saving-planned-for-irt-drastic-economies-described-by.html), October 7, 1933, page 16
-
 10.
 11.
 12.
@@ -431,9 +423,7 @@
 14.
 15.
 16.
-
 17. [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [B.R.T. Will Open Culver Line Elevated Road as Far as Kings Highway on Sunday Next](https://select.nytimes.com/gst/abstract.html?res=FA0D14FC355D147A93CBA91788D85F4D8185F9), March 9, 1919, page 23
-
 18.
 19.
 20.
@@ -456,9 +446,7 @@
 37.
 38.
 39. [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [New Transit Line Opened](https://www.nytimes.com/1919/05/11/archives/new-transit-line-opened-culver-elevated-service-extended-from-kings.html), May 11, 1919, page 25
-
 40. [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [New Culver Extension](https://www.nytimes.com/1919/05/18/archives/new-culver-extension-runs-now-as-fay-as-avenue-x-soon-will-reach.html), May 18, 1919, page 116
-
 41.
 42.
 43.

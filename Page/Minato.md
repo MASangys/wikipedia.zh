@@ -89,24 +89,14 @@ minato第一次投稿歌唱影片是2008年2月15日上傳的『卑怯戦隊う�
 [Category:日本音樂家](https://zh.wikipedia.org/wiki/Category:日本音樂家 "wikilink") [Category:Being旗下藝人](https://zh.wikipedia.org/wiki/Category:Being旗下藝人 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11. {{\!}}{{\!}} うさころ学園文化祭 -HAPPY TIME-|accessdate = 2016年1月19日|author = |date = |publisher = }}
-
 12.

@@ -38,10 +38,10 @@
 
 ## 參考資料
 
-  - [スズキ：R06A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/r06a/)
+  - [スズキ：R06A型エンジン](https://web.archive.org/web/20150707053727/http://greeco-channel.com/car/engine/suzuki_eg/r06a/)
 
 ## 外部連結
 
-  - [スズキ：R06A型エンジン](http://greeco-channel.com/car/engine/suzuki_eg/r06a/)
+  - [スズキ：R06A型エンジン](https://web.archive.org/web/20150707053727/http://greeco-channel.com/car/engine/suzuki_eg/r06a/)
 
 [Category:活塞發動機](https://zh.wikipedia.org/wiki/Category:活塞發動機 "wikilink") [Category:直列三缸引擎](https://zh.wikipedia.org/wiki/Category:直列三缸引擎 "wikilink") [Category:鈴木引擎與技術](https://zh.wikipedia.org/wiki/Category:鈴木引擎與技術 "wikilink")

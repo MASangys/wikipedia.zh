@@ -57,36 +57,20 @@ OSIRIS-REx可见光与红外线分光仪，获取小行星[小行星101955](../P
 [Category:新疆界計畫](https://zh.wikipedia.org/wiki/Category:新疆界計畫 "wikilink") [Category:生物起源](https://zh.wikipedia.org/wiki/Category:生物起源 "wikilink") [Category:美國太空總署探測器](https://zh.wikipedia.org/wiki/Category:美國太空總署探測器 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.

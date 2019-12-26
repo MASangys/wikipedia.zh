@@ -165,17 +165,13 @@
 
 ## 参考资料
 
-[Category:Wii_U遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U遊戲 "wikilink") [Category:電子遊戲列表](https://zh.wikipedia.org/wiki/Category:電子遊戲列表 "wikilink") [Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
+[Category:Wii_U遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U遊戲 "wikilink") [Category:電子遊戲列表](https://zh.wikipedia.org/wiki/Category:電子遊戲列表 "wikilink") [Category:暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:暢銷電子遊戲列表 "wikilink")
 
 1.  This game comes with the Deluxe Set, along with a bonus game promotion.
-
 2.
-
 3.
-
 4.
 5.  This game is included with certain console bundles.
-
 6.
 7.
 8.
@@ -184,7 +180,6 @@
 11.
 12.
 13. This game comes with the Deluxe Set, although has largely been replaced by the New Super Mario Bros. U bundle.
-
 14.
 15.
 16.
@@ -197,7 +192,6 @@
 23.
 24.
 25.
-
 26.
 27.
 28.
@@ -207,12 +201,8 @@
 32.
 33.
 34.
-
 35. <http://nintendoeverything.com/switch-ships-2-74-million-units-worldwide-software-at-5-46-million-zelda-at-3-84-million/>
-
 36.
-
 37.
 38.
-
 39.

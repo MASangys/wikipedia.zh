@@ -46,7 +46,7 @@ Image:Mazda FLAIR CROSSOVER XS (MS31S) front.JPG|兄弟車[馬自達Flair Crosso
 10. [スズキ株式会社：軽乗用車「ハスラー」にRJCカーオブザイヤー受賞記念特別仕様車「J STYLE」を発売](http://www.suzuki.co.jp/release/a/2014/1225/index.html)。
 11. [スズキ株式会社：軽乗用車「ハスラー」に「S-エネチャージ」を搭載して発売](http://www.suzuki.co.jp/release/a/2015/0513/index.html)。
 12. [スズキ株式会社：軽乗用車「ハスラー」を一部改良特別仕様車「J STYLEII」を設定し発売](http://www.suzuki.co.jp/release/a/2015/1207/index.html)。
-13. [CarDaily汽車日報：K-Car再襲港Suzuki香港引入Hustler](http://cardaily.hk/news_show.aspx?id=44)。
+13. [CarDaily汽車日報：K-Car再襲港Suzuki香港引入Hustler](http://cardaily.hk/news_show.aspx?id=44) 。
 14. [スズキ株式会社：Android Auto™に対応する
     ナビゲーション更新ソフトをインターネットで配信開始](http://www.suzuki.co.jp/release/a/2016/1017/index.html)。
 15. [スズキ株式会社：軽乗用車「ハスラー」「アルト ラパン」小型乗用車「ソリオ バンディット」の3車種に特別仕様車「Fリミテッド」を設定し発売](http://www.suzuki.co.jp/release/a/2016/1208/index.html)。

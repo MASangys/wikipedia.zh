@@ -6,23 +6,23 @@
 
 第三版加入了「我的房間」系統，玩家可以布置自己的房間，房間中的道具會影響遊戲分數。每一張UR卡會多送一個可布置在房間的娃娃和海報，從第二版繼承的UR卡也有同樣的道具。同時此版本取消了「故事模式」，改為單純選擇樂隊的模式。角色人數正式超過200名。
 
-2014年9月，在「SANRIO EXPO 2014」發表會中宣佈遊戲會被電視動畫化，並定位為深夜動畫，而劇情則為原創\[2\]。第一季於2015年4月至6月播放。短篇動畫《Show By Rock\!\! Short\!\!》於2016年7月至10月播放\[3\]。第二季《SHOW BY ROCK\!\!\#》於同年10月至12月播放\[4\]。
+2014年9月，在「SANRIO EXPO 2014」發表會中宣佈遊戲會被電視動畫化，並定位為深夜動畫，而劇情則為原創\[2\]。第一季於2015年4月至6月播放。短篇動畫《Show By Rock\!\! Short\!\!》於2016年7月至10月播放\[3\]。第二季《SHOW BY ROCK\!\!\#》於同年10月至12月播放\[4\]。2019年11月，官方宣佈新作將於2020年1月開始播放\[5\]。
 
 ## 概要
 
 2012年，人物正式亮相。
 
-登場人物被稱為「」，他們的外表像獸人，但與一般的人類不同，他們是[二頭身角色](../Page/頭身.md "wikilink")。三麗鷗品牌授權部的主管佐佐木章人表示，此遊戲的藝術風格與三麗鷗的一貫作風有所不同的原因是遊戲是以年輕男性為目標\[5\]。遊戲的舞台是一個名為「MIDICITY」的音樂都市。
+登場人物被稱為「」，他們的外表像獸人，但與一般的人類不同，他們是[二頭身角色](../Page/頭身.md "wikilink")。三麗鷗品牌授權部的主管佐佐木章人表示，此遊戲的藝術風格與三麗鷗的一貫作風有所不同的原因是遊戲是以年輕男性為目標\[6\]。遊戲的舞台是一個名為「MIDICITY」的音樂都市。
 
 遊戲的宣傳語為「Gonna be a music millionaire\!」，意為「成為音樂界的百萬富翁」。
 
-在2015年的三麗鷗人物大獎上，Plasmagica獲得第6名，而ShingancrimsonZ獲得第2名\[6\]。
+在2015年的三麗鷗人物大獎上，Plasmagica獲得第6名，而ShingancrimsonZ獲得第2名\[7\]。
 
 ## 故事簡介
 
-**遊戲**：喜歡[哥特蘿莉的貓女](https://zh.wikipedia.org/wiki/哥特蘿莉 "wikilink")**希安**得到了路過的音樂事務所社長有栖川Maple的賞識，並與優等生兔女**秋秋**、網路極客**蕾朵莉**與羊女**摩亞**三人相遇，其後更組成了名為「Plasmagica」的女子樂團組合，目標是成為世界最有名的樂團\[7\]。
+**遊戲**：喜歡[哥特蘿莉的貓女](https://zh.wikipedia.org/wiki/哥特蘿莉 "wikilink")**希安**得到了路過的音樂事務所社長有栖川Maple的賞識，並與優等生兔女**秋秋**、網路極客**蕾朵莉**與羊女**摩亞**三人相遇，其後更組成了名為「Plasmagica」的女子樂團組合，目標是成為世界最有名的樂團\[8\]。
 
-**動畫**：平凡且稍微内向的女高中生**聖川詩杏**，在玩著音樂遊戲《SHOW BY ROCK\!\!》時，因使用了不可思議的道具而被吸入遊戲世界，並以遊戲中的女子樂隊「Plasmagica」成員希安的身份作樂隊出道。在感到困惑的同時，她也在通過音樂而成長著\[8\]。
+**動畫**：平凡且稍微内向的女高中生**聖川詩杏**，在玩著音樂遊戲《SHOW BY ROCK\!\!》時，因使用了不可思議的道具而被吸入遊戲世界，並以遊戲中的女子樂隊「Plasmagica」成員希安的身份作樂隊出道。在感到困惑的同時，她也在通過音樂而成長著\[9\]。
 
 ## 登場人物及樂隊
 
@@ -48,7 +48,7 @@
 <!-- end list -->
 
   -
-    狗族的少女，擔任樂隊的主音及貝斯手。使用的樂器名為「Blue Station」。被官方稱為希安黨代表\[9\]。
+    狗族的少女，擔任樂隊的主音及貝斯手。使用的樂器名為「Blue Station」。被官方稱為希安黨代表\[10\]。
     動畫中是一個生性害羞，且不善於與人交談的御宅，後來為了結交朋友而加入樂隊。把希安當成朋友，經常在她不經意地說出「喵」而感到害羞的時候拿出手機來連拍。得知希安有一天會離開後，曾一度與她反目。是「徒然」的忠實粉絲。
 
 <!-- end list -->
@@ -480,7 +480,7 @@
 
 ### 主題曲
 
-括號內為實際創作者\[10\]。
+括號內為實際創作者\[11\]。
 
   - 第一季
 
@@ -1145,7 +1145,7 @@
 | 2016年6月22日                                                     | Trichronika／「」                                     | PCCG-70293 |
 | 2016年7月20日                                                     | Criticrista／「」                                     | PCCG-70295 |
 | 2016年8月17日                                                     | ShingancrimsonZ／「Break up all this World」          | PCCG-70296 |
-| [Comic Market 90宣傳曲](../Page/Comic_Market.md "wikilink")\[11\] |                                                    |            |
+| [Comic Market 90宣傳曲](../Page/Comic_Market.md "wikilink")\[12\] |                                                    |            |
 | 2016年8月12日                                                     | Plasmagica／「」                                      | BRCG-70009 |
 | <nowiki>Short                                                  | </nowiki>                                          |            |
 | 2016年8月24日                                                     | Plasmagica／「」                                      | PCCG-70313 |
@@ -1181,7 +1181,7 @@
   - [電視動畫《SHOW BY ROCK\!\!Short\!\!》官方網站](http://showbyrock-anime.com/short/)
 
   -
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:BONES](https://zh.wikipedia.org/wiki/Category:BONES "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:2015年UHF動畫](https://zh.wikipedia.org/wiki/Category:2015年UHF動畫 "wikilink") [Category:2016年UHF動畫](https://zh.wikipedia.org/wiki/Category:2016年UHF動畫 "wikilink") [Category:三麗鷗角色](https://zh.wikipedia.org/wiki/Category:三麗鷗角色 "wikilink") [Category:搖滾樂題材作品](https://zh.wikipedia.org/wiki/Category:搖滾樂題材作品 "wikilink") [Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink") [Category:音樂動畫](https://zh.wikipedia.org/wiki/Category:音樂動畫 "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink") [Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")
+[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:2020年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2020年日本電視動畫 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:BONES](https://zh.wikipedia.org/wiki/Category:BONES "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Kinema_Citrus](https://zh.wikipedia.org/wiki/Category:Kinema_Citrus "wikilink") [Category:2015年UHF動畫](https://zh.wikipedia.org/wiki/Category:2015年UHF動畫 "wikilink") [Category:2016年UHF動畫](https://zh.wikipedia.org/wiki/Category:2016年UHF動畫 "wikilink") [Category:三麗鷗角色](https://zh.wikipedia.org/wiki/Category:三麗鷗角色 "wikilink") [Category:搖滾樂題材作品](https://zh.wikipedia.org/wiki/Category:搖滾樂題材作品 "wikilink") [Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink") [Category:音樂動畫](https://zh.wikipedia.org/wiki/Category:音樂動畫 "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink") [Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")
 
 1.
 2.
@@ -1194,3 +1194,4 @@
 9.
 10.
 11.
+12.

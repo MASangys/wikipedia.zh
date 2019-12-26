@@ -264,42 +264,23 @@ WirForce \[waɪˈrfors\] 為一個由4Gamers創辦人暨執行長黃智仁所創
 [Category:台灣電子競技](https://zh.wikipedia.org/wiki/Category:台灣電子競技 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.   4Gamers|accessdate=2016-12-29|last=4Gamers|work=4Gamers 官方網站}}
-
 8.   4Gamers|accessdate=2016-12-27|work=4Gamers 官方網站}}
-
 9.
 10.  4Gamers|accessdate=2017-01-04|last=4Gamers|work=4Gamers 官方網站}}
-
 11.
-
 12.  WirForce 2015 A.V.A TOURNAMENT|accessdate=2016-12-28|work=dev.4gamers.com.tw|deadurl=yes|archiveurl=[https://archive.is/20161228101709/http://dev.4gamers.com.tw/tourney/stage_knockout/3104|archivedate=2016-12-28](https://archive.is/20161228101709/http://dev.4gamers.com.tw/tourney/stage_knockout/3104%7Carchivedate=2016-12-28)}}
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.  英霸指南針|accessdate=2016-12-29|work=暴雪英霸 {{\!}} 英霸指南針}}
-
 19.
-
 20.
-
 21.

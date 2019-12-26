@@ -103,13 +103,9 @@ Returning to the general case, in which the different covariates may not be [ind
 [Category:回归分析](https://zh.wikipedia.org/wiki/Category:回归分析 "wikilink") [Category:統計方法](https://zh.wikipedia.org/wiki/Category:統計方法 "wikilink")
 
 1.  Tibshirani, Robert. 1996. “Regression Shrinkage and Selection via the lasso”. Journal of the Royal Statistical Society. Series B (methodological) 58 (1). Wiley: 267–88. <http://www.jstor.org/stable/2346178>.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.

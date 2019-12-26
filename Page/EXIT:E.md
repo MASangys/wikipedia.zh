@@ -1,7 +1,4 @@
-**EXIT:E**是韓國五人男子團體[WINNER時隔](../Page/WINNER.md "wikilink")1年半的新作品。2016年1月7日，[WINNER通過官方](../Page/WINNER.md "wikilink")[Facebook發布](../Page/Facebook.md "wikilink")《WINNER
-2016 PROJECT EXIT MOVEMENT》專輯預告\[1\]並在2016年1月11日先行發布Entry
-Single《Pricked》（）\[2\]。2016年2月1日于各大音源網站公開而實體發行日則在2月2日。此專輯的版本分別為《S
-Ver.》和《A Ver.》以及限量版的《W Ver.》。
+《**EXIT:E**》是韓國五人男子團體[WINNER](../Page/WINNER.md "wikilink")時隔1年半的新作品。2016年1月7日，[WINNER](../Page/WINNER.md "wikilink")通過官方[Facebook](../Page/Facebook.md "wikilink")發布《WINNER 2016 PROJECT EXIT MOVEMENT》專輯預告\[1\]並在2016年1月11日先行發布Entry Single《Pricked》（）\[2\]。2016年2月1日于各大音源網站公開而實體發行日則在2月2日。此專輯的版本分別為《S Ver.》和《A Ver.》以及限量版的《W Ver.》。
 
 ## 曲目
 
@@ -22,7 +19,7 @@ Ver.》和《A Ver.》以及限量版的《W Ver.》。
 <tbody>
 <tr class="odd">
 <td><p>韓國</p></td>
-<td><p><a href="../Page/Gaon單曲榜.md" title="wikilink">Gaon單曲榜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
 <td><p><a href="../Page/2015年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2016年1月31－2月6日</p></td>
 <td><p>#4</p></td>
@@ -103,7 +100,7 @@ Ver.》和《A Ver.》以及限量版的《W Ver.》。
 </tr>
 <tr class="even">
 <td><p>美國</p></td>
-<td><p><a href="../Page/告示牌.md" title="wikilink">告示牌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/告示牌" title="wikilink">告示牌</a></p></td>
 <td><p>熱門專輯榜</p></td>
 <td><p>2016年2月20日</p></td>
 <td><p>#3</p></td>
@@ -139,10 +136,7 @@ Ver.》和《A Ver.》以及限量版的《W Ver.》。
 
 ## 參考資料
 
-[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:WINNER音樂專輯](https://zh.wikipedia.org/wiki/Category:WINNER音樂專輯 "wikilink")
-[Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:WINNER音樂專輯](https://zh.wikipedia.org/wiki/Category:WINNER音樂專輯 "wikilink") [Category:2016年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

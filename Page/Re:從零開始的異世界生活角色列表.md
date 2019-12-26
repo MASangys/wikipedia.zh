@@ -1,6 +1,6 @@
 本此列表是《[Re:從零開始的異世界生活](../Page/Re:從零開始的異世界生活.md "wikilink")》內的**登場人物**的介紹。列表中所提及的年齡資料皆為登場時年齡，不隨劇情時間推進而異動。內容敘述以文庫版劇情為主，文庫版尚未刊載者才以Web版為主。中文譯名以[青文出版社](../Page/青文出版社.md "wikilink")之繁體中文版為準。
 
-## 愛蜜莉亞方
+## 愛蜜莉雅方
 
   -
     本作男主角，17歲的普通高中生\[1\]，誕生日為4月1日\[2\]，誕生花為「[縷絲花](https://zh.wikipedia.org/wiki/縷絲花 "wikilink")」，花語：純淨的心\[3\]。名字取自[金牛座](../Page/金牛座.md "wikilink")「[昴宿星團](../Page/昴宿星團.md "wikilink")」。
@@ -614,25 +614,17 @@
 [Category:輕小說角色列表](https://zh.wikipedia.org/wiki/Category:輕小說角色列表 "wikilink") [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink") [Category:Re:從零開始的異世界生活](https://zh.wikipedia.org/wiki/Category:Re:從零開始的異世界生活 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
 9.
-
 10.
 11.
 12.
-
 13.
 14.
 15.
@@ -641,10 +633,7 @@
 18.
 19.
 20.
-
 21.
-
 22.
-
 23.
 24.

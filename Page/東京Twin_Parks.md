@@ -1,6 +1,6 @@
 **東京Twin Parks**（）是[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")[東新橋一丁目](https://zh.wikipedia.org/wiki/東新橋 "wikilink")[汐留](../Page/汐留.md "wikilink")地區內的[雙子塔分售式超高層公寓](https://zh.wikipedia.org/wiki/雙子塔 "wikilink")。
 
-位於。建物東側有廣大的[東京都立濱離宮恩賜庭園](https://zh.wikipedia.org/wiki/濱離宮恩賜庭園 "wikilink")。
+位於[舊JR汐留貨物站舊址](https://zh.wikipedia.org/wiki/汐留站_\(國鐵\) "wikilink")。建物東側有廣大的[東京都立濱離宮恩賜庭園](https://zh.wikipedia.org/wiki/濱離宮恩賜庭園 "wikilink")。
 
 ## 概要
 

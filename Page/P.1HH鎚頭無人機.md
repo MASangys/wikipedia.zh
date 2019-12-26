@@ -92,39 +92,23 @@ P.1HH採用美國FLIR系統製造的Star SAFIRE 380HD EO/IR光電偵搜系統，
 [Category:無人機](https://zh.wikipedia.org/wiki/Category:無人機 "wikilink") [Category:義大利航空器](https://zh.wikipedia.org/wiki/Category:義大利航空器 "wikilink")
 
 1.  [Piaggio Aerospace - P.1HH HammerHead](http://www.p1hh.piaggioaerospace.it/)
-
 2.  [Piaggio Aero Indiustries and Selex ES Present at IDEX 2013 The P.1HH 'HammerHead'- Unmanned Aerial System](http://www.leonardocompany.com/-/p1hh-unveilling),Piaggio Aero Indiustries, Selex ES, 18 February 2013. \[13 June 2016\]
-
 3.
 4.  [Paris Air Show 2015: Piaggio targets increased defence production](http://www.janes.com/article/52351/paris-air-show-2015-piaggio-targets-increased-defence-production), Charles Forrester, IHS Jane's 360, 17 June 2015. \[13 June 2016\]
-
 5.  [PT6A|Pratt & Whitney Canada](http://www.pwc.ca/en/engines/pt6a) \[13 June 2016\]
-
 6.  [P.1HH HAMMERHEAD VCMS - THE UAV BRAIN: Piaggio Aerospace - P.1HH HammerHead](http://www.p1hh.piaggioaerospace.it/#p3)
-
 7.  [P.1HH HAMMERHEAD VCMS - MISSION MANAGEMENT SYSTEM: Piaggio Aerospace - P.1HH HammerHead](http://www.p1hh.piaggioaerospace.it/#p4)
-
 8.  [Star SAFIRE 380-HD Data Sheet](http://www.flir.com/uploadedFiles/flirGS/Surveillance/Products/Star_SAFIRE_HD_Family/Star_SAFIRE_HD_Family/380-HD/flir-star-safire-380-hd-datasheet-ltr.pdf) , FLIR Systems,2012.
-
 9.  [Star SAFIRE 380-HD|FILR Systems](http://www.flir.com/surveillance/display/?id=64812)
-
 10. [Needless to say, the most fashionable drone is Italian: the new Piaggio P.1HH unmanned aerial system](https://theaviationist.com/2013/02/19/hammerhead/), David Cenciotti, The Aviationist, 19 February 2013. \[13 June 2016\]
-
 11. [Piaggio HH Launch at Le Bourget](http://www.leonardocompany.com/-/piaggio-aero-hammerhead-uas-launch), Piaggio Aero Indiustries, Selex ES, 18 June 2013. \[16 June 2016\]
-
 12.
 13.
 14.
 15. [Piaggio P.1HH HammerHead unmanned aerial system conducts successful test flight](https://theaviationist.com/2013/11/20/p1hh-test-flight/), The Aviationist, 20 November 2013. \[13 June 2016\]
-
 16. [Piaggio e Selex primo volo del nuovo aereo](http://ricerca.repubblica.it/repubblica/archivio/repubblica/2013/11/19/piaggio-selex-primo-volo-del-nuovo-aereo.html), la Repubblica.it, 19 Novembre 2013. \[16 June 2016\]
-
 17. [Piaggio Aerospace announces first flight and sales of P.1HH HammerHead UAS](http://www.gizmag.com/piaggio-maiden-flight-p1hh-hammerhead-uas/36262/), Tony Borroz, gizmag, February 26, 2015. \[13 June 2016\]
-
 18. Beth Stevenson, A watery end for Piaggio Hammerhead prototype, Flight Intetnational: 7-13 June 2016, Flightglobal, 2016, P.9.
-
 19. [Italian AF First To Buy HammerHead UAV](http://www.defensenews.com/story/defense/2015/02/26/italy-p1hh-hammerhead-uav-piaggio/24060511/), Tom Kington, Defense News, February 26, 2015. \[13 June 2016\]
-
 20. [UAE To Buy 8 Italian-Made Drones](http://www.defensenews.com/story/defense/air-space/2016/03/08/uae-buy-8-italian-made-drones-316m/81503648/), Tom Kington, Defense News, March 9, 2016. \[13 June 2016\]
-
 21. [Technical Specifications: Piaggio Aerospace - P.1HH HammerHead](http://www.p1hh.piaggioaerospace.it/#p5)

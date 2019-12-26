@@ -32,7 +32,7 @@ Roguelike是[角色扮演游戏](../Page/角色扮演游戏.md "wikilink")的一
   - 「游戏应该为玩家提供完成同样方式的多种不同方法，并不同方法的复杂程度应有所不同，是为所谓的『自然的游戏体验』」。\[31\]\[32\]比如为了穿过一扇锁着的门，玩家可以依据自己的实际情况选择尝试撬锁、拆门、烧掉它甚至是在墙上挖个洞。最好的例子是游戏迷宫骇客，他们的开发者似乎把玩家可能尝试的所有技巧都统统做进了游戏，他们的玩家常说：“开发组无所不知（The Dev Team Thinks of Everything）”。一个实例是玩家可以带着手套挥舞石化鸡蛇的尸体，将其当作石化武器把敌人变成石头，而不伤到自己。\[33\]
   - 「为了生存玩家必须妥善管理自己的资源」。\[34\]治疗物品或是食物等延长玩家游玩时间的物品应当限量供应，玩家应当在每次使用时都最大化其作用来尽可能延长自己的生存。[USGamer后来将](https://zh.wikipedia.org/wiki/USGamer "wikilink")“体力衰减”作为资源管理的另一个特性，即玩家的角色需要持续不断地进食来维持生存，否则将会被饿死。这样便可以防止玩家通过挂机或者刷低级怪物来回复自己的属性。\[35\]一个早期Roguelike游戏《Strange Adventures in Infinite Space》的作者Rich Carlson称这一机制为“时钟”，用以给玩家创设一种探索时的紧张感。\[36\]
   - 「游戏核心内容应是『[砍杀游戏](https://zh.wikipedia.org/wiki/Hack_and_slash "wikilink")』」，其目标是尽可能多的消灭怪兽，并且不存在任何和平选项（比如不打怪绕着走）。\[37\]
-  - 「游戏要求玩家探索地图，寻找宝藏并杜绝背板」。魔法物品及附魔装备的属性应该在每轮游戏中都不尽相同，新物品的描述应当模糊并在每轮游戏中都有一点随机性。举例来说，一瓶冒着气泡的药水可能上一轮还是救命良药，下一次就会把你毒死。\[38\]
+  - 「游戏要求玩家探索地图，寻找宝藏并杜绝背叛」。魔法物品及附魔装备的属性应该在每轮游戏中都不尽相同，新物品的描述应当模糊并在每轮游戏中都有一点随机性。举例来说，一瓶冒着气泡的药水可能上一轮还是救命良药，下一次就会把你毒死。\[38\]
 
 柏林准则中的次要元素有：\[39\]
 
@@ -194,160 +194,104 @@ Roguelike游戏设计之初面向存储空间有限的分时大型主机和早�
 [Category:Roguelike游戏](https://zh.wikipedia.org/wiki/Category:Roguelike游戏 "wikilink") [Category:電子遊戲類型](https://zh.wikipedia.org/wiki/Category:電子遊戲類型 "wikilink") [Category:電子遊戲術語](https://zh.wikipedia.org/wiki/Category:電子遊戲術語 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10. Craddock 2015, Introduction: "Rodney and Friends".
-
 11.
 12.
-
 13.
 14.
 15.
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
 23.
 24.
 25.
 26.
 27. Craddock 2015, Chapter 2: "Procedural Dungeons of Doom: Building Rogue, Part 1"
-
 28.
-
 29.
 30.
-
 31.
 32.
-
 33. Craddock 2015, Chapter 6: "It Takes a Village: Raising NetHack"
-
 34.
 35.
-
 36.
-
 37.
 38.
 39.
 40.
 41.
 42. Craddock 2015, Bonus Round: "Excerpt from One Week Dungeons: Diaries of a Seven-Day Roguelike Challenge"
-
 43.
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
 55.
 56.
 57.
-
 58.
 59.
 60.
 61. Craddock 2015, Chapter 1: "The BAM-Like: Exploring Beneath Apple Manor".
-
 62.
-
 63.
-
 64.
 65.
 66.
-
 67.
-
 68. Craddock 2015, Chapter 4: "There and Back Again: Retrieving the Sword of Fargoal"
-
 69.
 70.
 71.
 72. Craddock 2015, Chapter 2: "Procedural Dungeons of Doom: Building Rogue, Part 1"
-
 73.
 74.
-
 75.
 76.
-
 77. Craddock 2015, Chapter 3: "Rodney and the Free Market: Building Rogue, Part 2"
-
 78.
 79.
 80.
 81. [Freeing an old game](http://freesoftwaremagazine.com/articles/freeing_an_old_game_moria/) by Ben Asselstine on [Free software magazine](https://zh.wikipedia.org/wiki/Free_software_magazine "wikilink") (2007-03-12)
-
 82. BSD v4.3（1986） 之前 Rouge 都没有开放源代码
-
 83.
 84.
 85. Craddock 2015, Chapter 5: "When the Inmates Run the Asylum - Hack-ing at Lincoln-Sudbury High School"
-
 86.
 87.
-
 88.
-
 89. Craddock 2015, Chapter 7: "None Shall Pass: Braving the Mines of Moria"
-
 90. Craddock 2015, Chapter 7: "None Shall Pass: Braving the Mines of Moria"
-
 91.
 92.
 93. Craddock 2015, Chapter 8: "Neapolitan Roguelike: The Many Flavors of Angband"
-
 94.
 95.
 96.
-
 97.
-
 98.
-
 99.
-
 100.
 101.
 102.
@@ -357,37 +301,22 @@ Roguelike游戏设计之初面向存储空间有限的分时大型主机和早�
 106.
 107.
 108.
-
 109.
 110.
 111. Craddock 2015, Chapter 6: "It Takes a Village: Raising NetHack"
-
 112. Craddock 2015, Chapter 9: "Wish You Were Here\! Questing for Postcards in Ancient Domains of Mystery"
-
 113.
 114. Craddock 2015, Chapter 9: "Wish You Were Here\! Questing for Postcards in Ancient Domains of Mystery"
-
 115. Craddock 2015, Chapter 9: "Wish You Were Here\! Questing for Postcards in Ancient Domains of Mystery"
-
 116.
-
 117.
 118.
-
 119.
-
 120.  Kotaku UK|url=[https://webcache.googleusercontent.com/search?q=cache:mkHDqqEGdV8J:https://www.kotaku.co.uk/2018/11/02/evolution-of-the-roguelike+\&cd=3\&hl=zh-CN\&ct=clnk\&gl=us|accessdate=2019-06-26|work=webcache.googleusercontent.com](https://webcache.googleusercontent.com/search?q=cache:mkHDqqEGdV8J:https://www.kotaku.co.uk/2018/11/02/evolution-of-the-roguelike+&cd=3&hl=zh-CN&ct=clnk&gl=us%7Caccessdate=2019-06-26%7Cwork=webcache.googleusercontent.com)}}
-
 121.
-
 122.
-
 123.
-
 124.
-
 125.
-
 126.
-
 127.

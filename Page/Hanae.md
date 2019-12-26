@@ -129,7 +129,7 @@ Hanae在十三歲時將一個[樣本唱片](../Page/樣本唱片.md "wikilink")�
 
 ## 外部链接 
 
-  - [個人官方網站](http://hanae-web.com/)
+  - [個人官方網站](https://web.archive.org/web/20130329051002/http://hanae-web.com/)
 
   - 在[Ameba](../Page/Ameba.md "wikilink")上的[官方網站](http://ameblo.jp/hanae-officialblog/)
 

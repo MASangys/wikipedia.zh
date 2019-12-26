@@ -100,6 +100,5 @@ IWI DAN被認為是一枝相當準確的狙擊步槍，但經[角分](https://zh
 [Category:狙击步枪](https://zh.wikipedia.org/wiki/Category:狙击步枪 "wikilink") [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:.338_Lapua_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.338_Lapua_Magnum口徑槍械 "wikilink") [Category:以色列军事](https://zh.wikipedia.org/wiki/Category:以色列军事 "wikilink") [Category:以色列槍械](https://zh.wikipedia.org/wiki/Category:以色列槍械 "wikilink")
 
 1.  [Daily Star.co.uk—EXCLUSIVE: SAS snipers to get world’s best rifle — and it's made in Israel](http://www.dailystar.co.uk/news/latest-news/392376/EXCLUSIVE-SAS-snipers-to-get-world-s-best-rifle)
-
 2.
 3.

@@ -16,7 +16,7 @@
 
 ## 實境遊戲
 
-在遊戲中，玩家透過收音機在島上各處找到的隱藏頻道的頻率數字可以組成一個真實世界中的電話號碼。這組電話號碼的線索指向一個[推特帳號](https://zh.wikipedia.org/wiki/推特 "wikilink")@xray9169363733，該帳號曾發布許多加密的訊息，而這些訊息則似乎指向一個真實世界中的地點。2016年5月7日，[YouTube](../Page/YouTube.md "wikilink")用戶傑西·考克斯（Jesse Cox）發布了他所收到該推特帳號寄出的一部《Oxenfree》的[PS4版本預告片](https://zh.wikipedia.org/wiki/PS4 "wikilink")；他所收到的預告片和[PlayStation](../Page/PlayStation.md "wikilink")在其官方YouTube頻道發布的版本相似，除了結尾有部分字母被標上紅底，而那些紅底的字母則指向網站[www.edwardsisland.com](http://www.edwardsisland.com)。網站中又有一些訊息被發現，其中最重要的一則是「MILNER IS WARD」，也證實了玩家的懷疑——某項特別的物品已被藏在[華盛頓州](https://zh.wikipedia.org/wiki/華盛頓州 "wikilink")[班布里治島上的](../Page/班布里治島_\(華盛頓州\).md "wikilink")中。\[12\]
+在遊戲中，玩家透過收音機在島上各處找到的隱藏頻道的頻率數字可以組成一個真實世界中的電話號碼。這組電話號碼的線索指向一個[推特帳號](https://zh.wikipedia.org/wiki/推特 "wikilink")@xray9169363733，該帳號曾發布許多加密的訊息，而這些訊息則似乎指向一個真實世界中的地點。2016年5月7日，[YouTube](../Page/YouTube.md "wikilink")用戶傑西·考克斯（Jesse Cox）發布了他所收到該推特帳號寄出的一部《Oxenfree》的[PS4版本預告片](https://zh.wikipedia.org/wiki/PS4 "wikilink")；他所收到的預告片和[PlayStation](../Page/PlayStation.md "wikilink")在其官方YouTube頻道發布的版本相似，除了結尾有部分字母被標上紅底，而那些紅底的字母則指向網站[www.edwardsisland.com](https://web.archive.org/web/20181120063523/http://edwardsisland.com/)。網站中又有一些訊息被發現，其中最重要的一則是「MILNER IS WARD」，也證實了玩家的懷疑——某項特別的物品已被藏在[華盛頓州](https://zh.wikipedia.org/wiki/華盛頓州 "wikilink")[班布里治島上的](../Page/班布里治島_\(華盛頓州\).md "wikilink")中。\[12\]
 
 ## 評價
 
@@ -64,28 +64,17 @@
 [Category:2016年電子遊戲](https://zh.wikipedia.org/wiki/Category:2016年電子遊戲 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:多重结局电子游戏](https://zh.wikipedia.org/wiki/Category:多重结局电子游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Xbox_One遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_One遊戲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.   Geek and Sundry|date=2016-01-12|website=Geek and Sundry|access-date=2016-05-27}}
-
 10.
 11.
-
 12.  Telkom Gaming|website=telkomgaming.co.za|access-date=2016-05-25|deadurl=yes|archiveurl=[https://web.archive.org/web/20160521111244/http://telkomgaming.co.za/there-is-something-special-going-on-with-oxenfree/|archivedate=2016-05-21](https://web.archive.org/web/20160521111244/http://telkomgaming.co.za/there-is-something-special-going-on-with-oxenfree/%7Carchivedate=2016-05-21)}}
-
 13.
 14.
 15.
@@ -93,7 +82,5 @@
 17.
 18.
 19.
-
 20.
-
 21.  Skybound|website=www.skybound.com|access-date=2016-05-27|archive-url=[https://web.archive.org/web/20160516131659/http://www.skybound.com/oxenfree-is-out-this-friday-our-newest-partnership/|archive-date=2016-05-16|dead-url=yes](https://web.archive.org/web/20160516131659/http://www.skybound.com/oxenfree-is-out-this-friday-our-newest-partnership/%7Carchive-date=2016-05-16%7Cdead-url=yes)}}

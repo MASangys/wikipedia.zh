@@ -50,66 +50,41 @@
 [Category:適居帶內的系外行星](https://zh.wikipedia.org/wiki/Category:適居帶內的系外行星 "wikilink") [Category:2016年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2016年发现的系外行星 "wikilink") [Category:徑向速度法發現的系外行星](https://zh.wikipedia.org/wiki/Category:徑向速度法發現的系外行星 "wikilink") [Category:半人马座](https://zh.wikipedia.org/wiki/Category:半人马座 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
-
 7.  [A Potentially Habitable World in Our Nearest Star](http://phl.upr.edu/press-releases/proxb). *Planetary Habitability Laboratory*. August 24, 2016.
-
 8.
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15.
 16.
-
 17. 比鄰星大氣的鐵含量是氫的10<sup>0.21</sup>倍，即太陽金屬量的1.62倍。
-
 18.
-
 19.
-
 20.
 21.
 22.
-
 23.
-
 24.
 25.
-
 26.
-
 27.
-
 28.
-
 29.
 30. Aron, Jacob. 24 August 2016. [Proxima b: Closest Earth-like planet discovered right next door](https://www.newscientist.com/article/mg23130884-100-proxima-b-closest-earth-like-planet-discovered-right-next-door/). *New Scientist*. Retrieved 24 August 2016.
-
 31.
-
 32.
 33.
-
 34.
-
 35.
 36.
-
 37.
 38.
-
 39.

@@ -42,5 +42,5 @@ PlayStation VR的開發計畫名称“墨菲斯（morpheus）”与[PlayStation 
 5.  [「PlayStation VR」の初週販売数は5万1000台。「ライズ オブ ザ トゥームレイダー」などの新作もランクインした「週間販売ランキング＋」](http://www.4gamer.net/games/117/G011794/20161019072/).4Gamer.2016-10-19.\[2016-10-19\].
 6.  <http://www.ign.com/articles/2017/12/07/ps4-hits-70-million-sales-psvr-hits-2-million>
 7.  <https://www.jp.playstation.com/blog/detail/8425/20190326-stateofplay04.html>
-8.  [PlayStation 4.5 code-named NEO, rumor links it to Project Morpheus and PlayStation VR](https://www.technobuffalo.com/2016/04/19/playstation-4-5-ps4k-code-name-neo/).TechnoBuffalo.2016-04-19.\[2017-07-15\].
+8.  [PlayStation 4.5 code-named NEO, rumor links it to Project Morpheus and PlayStation VR](https://www.technobuffalo.com/2016/04/19/playstation-4-5-ps4k-code-name-neo/) .TechnoBuffalo.2016-04-19.\[2017-07-15\].
 9.  <https://www.jp.playstation.com/games/kamen-rider-ex-aid-special-contents-genmu-vr-ver-ps4/>

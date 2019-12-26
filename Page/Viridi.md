@@ -30,22 +30,17 @@
 [Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:仅有单人模式的电子游戏](https://zh.wikipedia.org/wiki/Category:仅有单人模式的电子游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:生活模擬遊戲](https://zh.wikipedia.org/wiki/Category:生活模擬遊戲 "wikilink")
 
 1.  Vincent, James (May 9, 2016). ["This zen gardening game is good for your soul"](http://www.theverge.com/2016/5/9/11638680/calming-video-games-viridi-succulent). *[The Verge](../Page/The_Verge.md "wikilink")*. [Vox Media](https://zh.wikipedia.org/wiki/Vox_Media "wikilink"). [Archived](http://web.archive.org/web/20161102070455/http://www.theverge.com/2016/5/9/11638680/calming-video-games-viridi-succulent) from the original on November 2, 2016. Retrieved November 1, 2016.
-
 2.
 3.  Warr, Philippa (August 20, 2015). ["Wot I Think (And Wot I Murdered): Viridi"](https://www.rockpapershotgun.com/2015/08/20/viridi-review/). *[Rock, Paper, Shotgun](../Page/Rock,_Paper,_Shotgun.md "wikilink")*. [Archived](http://web.archive.org/web/20161102073817/https://www.rockpapershotgun.com/2015/08/20/viridi-review/) from the original on November 2, 2016. Retrieved November 2, 2016.
-
 4.
 5.
 6.  Priestman, Chris (August 13, 2015). ["Prepare to chill with your plant friends when Viridi arrives on August 20th"](https://killscreen.com/articles/prepare-chill-plant-friends-viridi-arrives-august/). *[Kill Screen](https://zh.wikipedia.org/wiki/Kill_Screen "wikilink")*. [Archived](https://archive.is/Jc5Cr) from the original on November 2, 2016. Retrieved November 2, 2016.
-
 7.
 8.
 9.  Vicent, James (June 20, 2016). ["Zen gardening game Viridi is now available on iOS and Android"](http://www.theverge.com/2016/6/20/11975414/zen-gardening-game-viridi-ios-and-android). *[The Verge](../Page/The_Verge.md "wikilink")*. [Vox Media](https://zh.wikipedia.org/wiki/Vox_Media "wikilink"). [Archived](http://web.archive.org/web/20161102074624/http://www.theverge.com/2016/6/20/11975414/zen-gardening-game-viridi-ios-and-android) from the original on November 2, 2016. Retrieved November 2, 2016.
-
 10.
 11.
 12.
 13.
 14. ["Viridi OST on Steam"](http://store.steampowered.com/app/378710/). store.steampowered.com. Retrieved 9 January 2017.
-
 15. ["Viridi on Steam"](http://store.steampowered.com/app/375950/). *store.steampowered.com*. Retrieved 9 January 2017.

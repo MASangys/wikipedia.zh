@@ -17,24 +17,16 @@ EGS-zs8-1約誕生於[大爆炸](../Page/大爆炸.md "wikilink")後的6億7,000
 [Category:牧夫座](https://zh.wikipedia.org/wiki/Category:牧夫座 "wikilink") [Category:星系](https://zh.wikipedia.org/wiki/Category:星系 "wikilink") [Category:2013年發現的天體](https://zh.wikipedia.org/wiki/Category:2013年發現的天體 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
 13.
 14.

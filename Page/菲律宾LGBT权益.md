@@ -90,58 +90,34 @@
 [Category:菲律宾LGBT](https://zh.wikipedia.org/wiki/Category:菲律宾LGBT "wikilink") [Category:菲律宾人权](https://zh.wikipedia.org/wiki/Category:菲律宾人权 "wikilink") [Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink")
 
 1.
-
 2.
 3.  [International Human Rights Law and Sexual Orientation & Gender Identity. 2015. Ebook. 1st ed. United Nations. Accessed November 3.](https://www.unfe.org/system/unfe-6-UN_Fact_Sheets_v6_-_International_Human_Rights_Law__and_Sexual_Orientation___Gender_Identity.pdf)
-
 4.  UNDP, USAID. *Being LGBT in Asia: the Philippines Country Report*. (Bangkok: USAID, 2014)
-
 5.  ["Philippines Demographics Profile 2014" *indexmundi.com,* June 30, 2015.](http://www.indexmundi.com/philippines/demographics_profile.html)
-
 6.  [Nina Calleja. "CBCP wants anti-discrimination bill cleansed of provisions on gay rights" *Inquirer.net*, December 7, 2011.](http://newsinfo.inquirer.net/106981/cbcp-wants-anti-discrimination-bill-cleansed-of-provisions-on-gay-rights)
-
 7.  [Joel Locsin. "Only between man and woman: CBCP stands firm on marriage" *GMA News Online,* June 27, 2015.](http://www.gmanetwork.com/news/story/511726/news/nation/only-between-man-and-woman-cbcp-stands-firm-on-marriage#sthash.G0NfRW0l.dpuf)
-
 8.
-
 9.
 10. ["Junk ‘normalization’ of gay unions – CBCP president", *cbcpnews.com*, August 31, 2015,](http://www.cbcpnews.com/cbcpnews/?p=62742)
-
 11. [Leagogo, "Archbishop Villegas: Homosexuality is not a sin." *inquirer.net*, January 12, 2015,](http://newsinfo.inquirer.net/664012/archbishop-villegas-homosexuality-is-not-a-sinRyan)
-
 12.
 13. *That's in the Bible\!* Video. 2012. incmedia.org
-
 14.
 15.
 16. Scott Siraj al-Haqq Kugle, *Homosexuality in Islam* (India: Oneworld Publications, 2010)
-
 17.
 18. [Faraj Pangeran. "Homosexuality and Islam" *filipinofreethinkers.org,* May 18, 2010.](http://filipinofreethinkers.org/2010/05/18/homosexuality-and-islam/)
-
 19.
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29. [「如果那能讓你幸福」　菲律賓狂人杜特蒂聲明支持同婚](https://www.upmedia.mg/news_info.php?SerialNo=31441)。2017.12.18 上報
-
 30. Tokyo Lesbian Gay Parade, TLGP in 1994.
-
 31.
-
 32.

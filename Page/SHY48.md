@@ -836,10 +836,10 @@ Team HIII高崇，预备生王秋茹加入SNH48 Group海外练习生<br />
 <table>
 <thead>
 <tr class="header">
-<th><p>昇格時間</p></th>
+<th><p>升格時間</p></th>
 <th><p>姓名</p></th>
 <th><p>加入期</p></th>
-<th><p>昇格隊伍</p></th>
+<th><p>升格隊伍</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>

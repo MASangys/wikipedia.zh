@@ -18,12 +18,12 @@
   - [野比大雄的生化危機](https://zh.wikipedia.org/wiki/野比大雄的生化危機 "wikilink")，作者：aaa
   - [月夜に響くノクターン](http://members.jcom.home.ne.jp/cogwheel/game/nocturne/)，作者：ショウ
   - [大海原と大海原](http://funamusea.com/story/wadanohara/)，作者：[海底囚人](http://funamusea.com/)
-      - [簡體中文網頁](http://sycrealastudio.lofter.com/post/1c580c_10344a8)
+      - [簡體中文網頁](https://web.archive.org/web/20160523025711/http://sycrealastudio.lofter.com/post/1c580c_10344a8)
   - [灰色庭園](http://funamusea.com/story/gray_garden/)，作者：[海底囚人](http://funamusea.com/)
-      - [簡體中文網頁](http://sycrealastudio.lofter.com/post/1c580c_ff6bb2)
+      - [簡體中文網頁](https://web.archive.org/web/20160520182149/http://sycrealastudio.lofter.com/post/1c580c_ff6bb2)
   - [園庭色灰](http://sikv.web.fc2.com/0401/index.html)，作者：[海底囚人](http://funamusea.com/)
       - [正體中文網站](http://sikv.web.fc2.com/0401/index.html)
-      - [簡體中文網頁](http://sycrealastudio.lofter.com/post/1c580c_1061b20)
+      - [簡體中文網頁](https://web.archive.org/web/20160701043122/http://sycrealastudio.lofter.com/post/1c580c_1061b20)
   - 怪異症候群，作者：[ナオ](http://yuyami1999.web.fc2.com/index.html)
       - [正體中文網站](http://sikv.web.fc2.com/nao/index.html)
   - 怪異症候群2，作者：[ナオ](http://yuyami1999.web.fc2.com/index.html)

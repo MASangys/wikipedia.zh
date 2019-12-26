@@ -245,37 +245,24 @@
 [Category:2016年单曲](https://zh.wikipedia.org/wiki/Category:2016年单曲 "wikilink") [Category:AKB48歌曲](https://zh.wikipedia.org/wiki/Category:AKB48歌曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink") [Category:馬路須加學園](https://zh.wikipedia.org/wiki/Category:馬路須加學園 "wikilink") [Category:日本电视台电视剧主题曲](https://zh.wikipedia.org/wiki/Category:日本电视台电视剧主题曲 "wikilink") [Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink") [Category:2016年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Oricon單曲週榜冠軍作品 "wikilink") [Category:2016年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2016年Oricon單曲月榜冠軍作品 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
 12.
-
 13.
 14.
 15.
 16.
 17.
-
 18.
-
 19.
 20.
-
 21.
-
 22.

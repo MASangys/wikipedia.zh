@@ -142,7 +142,7 @@ ViuTV還籌備大型選美盛事，首個實況選美節目《[美選D.n.A](../P
 
 ViuTV提供不同時段的綜藝節目，另外每日晚上安排清談節目時段，每日安排不同節目，並統稱為《[晚吹](../Page/晚吹.md "wikilink")》。
 
-ViuTV一系列的消閒資訊節目在逢星期一至星期五中午播放，週末播放來自外地的資訊娛樂節目（例如日本的《[恐怖醫學](https://zh.wikipedia.org/wiki/恐怖醫學 "wikilink")》），而娛樂新聞節目《》則安排於星期一至五深夜12:00播放，時尚品味節目《》則安排於星期六晚上播放。
+ViuTV一系列的消閒資訊節目在逢星期一至星期五中午播放，週末播放來自外地的資訊娛樂節目（例如日本的《[恐怖醫學](https://zh.wikipedia.org/wiki/恐怖醫學 "wikilink")》），而娛樂新聞節目《》則安排於星期一至五深夜12:00播放，時尚品味節目《》則安排於星期日晚上播放。
 
 ### 劇集
 
@@ -162,7 +162,7 @@ ViuTV亦會聯播[now新聞台的特備節目](https://zh.wikipedia.org/wiki/now
 
 在[2019年反對逃犯條例示威事件發生後](../Page/反對逃犯條例修訂草案運動.md "wikilink")，若發生較重大的警民衝突，Viutv會在深夜時段暫停部分節目而臨時改播一節或兩節的《新聞報道》。
 
-而當[八號或以上熱帶氣旋警告信號生效時](../Page/八號烈風或暴風信號.md "wikilink")，每小時會播出一節由[now新聞台製作的](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")《風暴消息》。
+而當[八號或以上熱帶氣旋警告信號生效時](../Page/八號烈風或暴風信號.md "wikilink")，每小時會播出一節由[now新聞台製作的](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")《風暴消息》。2019年起，逢區議會及立法會換屆選舉投票日的投票時段內亦會每小時播出now新聞台的選舉快訊。
 
 因應[now新聞台及](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")[now財經台於](https://zh.wikipedia.org/wiki/now財經台 "wikilink")2018年8月13日起全面採用高清製作，現時ViuTV所有新聞及財經節目均以高清播放。
 
@@ -200,7 +200,7 @@ ViuTV首個直播的大型體育比賽為2016年[香港國際七人欖球賽](..
 
 ### 電影
 
-每逢星期六播放一套電影，以週六好戲勢（前稱：金像好戲勢）名義播出，並由大金冷氣呈獻。
+每逢星期六播放一套電影，以週六好戲勢（前稱：金像好戲勢）名義播出。
 
 ### 香港電台節目
 
@@ -254,70 +254,39 @@ ViuTV由啟播開始開放平台讓本地及海外單位在星期一至五的《
   -
   -
   -
-[Category:香港電視娛樂](https://zh.wikipedia.org/wiki/Category:香港電視娛樂 "wikilink") [Category:高清頻道](https://zh.wikipedia.org/wiki/Category:高清頻道 "wikilink") [Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:香港數碼地面電視廣播](https://zh.wikipedia.org/wiki/Category:香港數碼地面電視廣播 "wikilink") [Category:2016年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2016年成立的電視台或電視頻道 "wikilink") [Category:粵語電視頻道](https://zh.wikipedia.org/wiki/Category:粵語電視頻道 "wikilink") [Category:2016年香港建立](https://zh.wikipedia.org/wiki/Category:2016年香港建立 "wikilink") [Category:免費電視頻道](https://zh.wikipedia.org/wiki/Category:免費電視頻道 "wikilink")
+[Category:香港電視娛樂](https://zh.wikipedia.org/wiki/Category:香港電視娛樂 "wikilink") [Category:高清頻道](https://zh.wikipedia.org/wiki/Category:高清頻道 "wikilink") [Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:香港數碼地面電視廣播](https://zh.wikipedia.org/wiki/Category:香港數碼地面電視廣播 "wikilink") [Category:2016年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2016年成立的電視台或電視頻道 "wikilink") [Category:粵語電視頻道](https://zh.wikipedia.org/wiki/Category:粵語電視頻道 "wikilink") [Category:2016年香港建立](https://zh.wikipedia.org/wiki/Category:2016年香港建立 "wikilink") [Category:免費電視頻道](https://zh.wikipedia.org/wiki/Category:免費電視頻道 "wikilink") [Category:網絡電視](https://zh.wikipedia.org/wiki/Category:網絡電視 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  依據牌照規定，本台必需於4月1日前提供廣播，本台3月31日起使用固網方式試播，4月2日凌晨0時起，沿用[亞洲電視](../Page/亞洲電視.md "wikilink")交出的大氣電波，正式開始試播。
-
 5.
-
 6.
-
 7.
-
 8.  [1](http://nowtv.now.com/nowSports/highlights.html?id=2999053)
-
 9.  [2](http://nowtv.now.com/nowSports/highlights.html?id=3696375)
-
 10. [ViuTV搵北極熊做公仔都幾萌　吉祥物係電視台嘅靈魂？](https://www.hk01.com/娛樂/124619/ViuTV搵北極熊做公仔都幾萌-吉祥物係電視台嘅靈魂-)
-
 11. [傳毛記電視殺入ViuTV](https://one.19ga.hk/2017092024515/)
-
 12. [ViuTV 2018年節目發佈會 實況娛樂進化昇華　廣播更多嶄新戲種](http://viu.tv/news/ViuTV-2018nin-jit-muk-faat-bo-wooi--sat-fong-yue-lok-jun-fa-wa-%E3%80%80gwong-boh-gang-doh-jaam-san-hei-jung--chuen-san-sat-fong-yue-lok-ging-gei-yau-hei-jit-muk-Good-Night-Showsung-chut-jung-jik-chiu-gwoh-1000maan-gong-bai-jeung-gam-jeung-ban--chan-wai-saan-chan-kai-taai-mak-ga-kei-chan-gwok-bong-RubberBanddang-kwan-sing-yin-san-ji-chi)
-
 13.
-
 14. [【Formula E】ViuTV未完場就cut直播 晚上向觀眾道歉](http://hk.apple.nextmedia.com/realtime/sports/20161008/55749246)
-
 15. [ViuTV拒播王丹馮敬恩已拍攝片段　指港獨言論有辱民族尊嚴](http://news.mingpao.com/ins/instantnews/web_tc/article/20161019/s00001/1476886701765)
-
 16. [王丹馮敬恩拍《矛盾》講港獨　ViuTV狠批兼拒播　王丹聲明︰無恥](http://www.hk01.com/%E6%B8%AF%E8%81%9E/49464/) [香港01](../Page/香港01.md "wikilink")
-
 17. [ViuTV急急效忠　慘變公關災難與誠信危機](http://www.hk01.com/01%E5%8D%9A%E8%A9%95-%E8%97%9D%EF%BC%8E%E6%96%87%E5%8C%96/49660/) [香港01](../Page/香港01.md "wikilink")
-
 18. [ViuTV改口認安排馮敬恩王丹出席記者會　維持停播重申反港獨](http://www.hk01.com/%E6%B8%AF%E8%81%9E/49642/) [香港01](../Page/香港01.md "wikilink")
-
 19. [ViuTV總經理魯庭暉向王丹與馮敬恩致歉　重申反港獨立場](http://www.hk01.com/%E6%B8%AF%E8%81%9E/49864/) [香港01](../Page/香港01.md "wikilink")
-
-20. [ViuTV月底試播拉長黃金時段](http://std.stheadline.com/yesterday/loc/0302ao03.html)
-
+20.
 21. [ViuTV首個實況選美節目——《美選 D.n.A》](https://event.viu.tv/dna/)
-
 22.
 23.
 24.
-
 25. [ViuTV奪英格蘭足總盃播映權](http://hk.apple.nextmedia.com/financeestate/art/20171010/20177667)
-
 26.
-
 27.
-
 28. [【2018世界盃】ViuTV公布19場直播安排　西葡大戰免費睇](https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/187953/2018%E4%B8%96%E7%95%8C%E7%9B%83-viutv%E5%85%AC%E5%B8%8319%E5%A0%B4%E7%9B%B4%E6%92%AD%E5%AE%89%E6%8E%92-%E8%A5%BF%E8%91%A1%E5%A4%A7%E6%88%B0%E5%85%8D%E8%B2%BB%E7%9D%87)，香港01，2018-05-13
-
 29.
-
 30.
-
 31. [【ViuTV轉身射個三分波！免費播NBA精選賽事！】](https://m.facebook.com/story.php?story_fbid=2116740135248063&id=1555649141357168)
-
 32. [【NBA】籃球博士回歸 ViuTV周六起每周一場免費波](https://hk.sports.appledaily.com/sports/realtime/article/20181102/58867415)，蘋果日報，2018-11-02
-
 33. [通訊事務管理局新聞公報（一月）附錄A](http://www.coms-auth.hk/filemanager/tc/content_713/appx_20160119a_c.pdf)
-
 34. [JP TimeTV官方網站](http://jptime.tv/160327eoa/top_chi.html)

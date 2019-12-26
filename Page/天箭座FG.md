@@ -21,9 +21,6 @@
 [Category:變星](https://zh.wikipedia.org/wiki/Category:變星 "wikilink") [Category:天箭座](https://zh.wikipedia.org/wiki/Category:天箭座 "wikilink") [Category:以變星命名法命名的天體](https://zh.wikipedia.org/wiki/Category:以變星命名法命名的天體 "wikilink") [Category:G-型超巨星](https://zh.wikipedia.org/wiki/Category:G-型超巨星 "wikilink")
 
 1.  [Newscientist: Life and times of a chameleon star](http://www.newscientist.com/article/mg13117862.100-life-and-times-of-a-chameleon-star-since-1955-astronomershave-watched-the-star-fg-sagittae-turn-from-blue-to-yellow-this-rapidchange-has-given-them-the-chance-to-study-a-stars-evolution-in-their-ownlifetime-.html)
-
 2.  [VizieR data on FG Sge](http://webviz.u-strasbg.fr/viz-bin/VizieR-2), search for Catalogue of Stellar Spectral Classifications (Skiff, 2007)
-
 3.  \[<http://adsabs.harvard.edu/abs/2003ApJ>...583..913L NASA ADS: "Sakurai's Object, V605 Aquilae, and FG Sagittae: An Evolutionary Sequence Revealed", by Lawlor, T. M.; MacDonald, J.\]
-
 4.

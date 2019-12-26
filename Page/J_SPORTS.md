@@ -43,15 +43,10 @@ J SPORTS以“国内最大的四频道体育电视台”（）自居，通过[�
 [Category:1996年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1996年成立的电视台或电视频道 "wikilink") [Category:日本电视台](https://zh.wikipedia.org/wiki/Category:日本电视台 "wikilink") [Category:日本卫星电视频道](https://zh.wikipedia.org/wiki/Category:日本卫星电视频道 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
 8.

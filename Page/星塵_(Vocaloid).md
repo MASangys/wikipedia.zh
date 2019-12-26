@@ -106,16 +106,10 @@
 [Category:Vocaloid4引擎产品](https://zh.wikipedia.org/wiki/Category:Vocaloid4引擎产品 "wikilink") [Category:Vocaloid角色](https://zh.wikipedia.org/wiki/Category:Vocaloid角色 "wikilink") [Category:中國虛擬歌手](https://zh.wikipedia.org/wiki/Category:中國虛擬歌手 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.

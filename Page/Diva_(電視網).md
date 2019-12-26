@@ -19,7 +19,7 @@ Hallmark Channel亞洲於2010年9月19日結束放送，並改為**Diva Universa
   - **Diva 亞洲**－[新加坡](../Page/新加坡.md "wikilink")／[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")／[香港](../Page/香港.md "wikilink")／[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")／[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")／[雅加達](https://zh.wikipedia.org/wiki/雅加達 "wikilink")，使用[標準畫質於亞洲國家放送](../Page/標準畫質電視.md "wikilink")。
   - **Diva 亞洲 HD**－於新加坡、馬來西亞、[馬爾代夫與](https://zh.wikipedia.org/wiki/馬爾代夫 "wikilink")[汶萊等國家以](https://zh.wikipedia.org/wiki/汶萊 "wikilink")[HD高畫質放送](https://zh.wikipedia.org/wiki/高清電視 "wikilink")。
   - ****－自亞洲版獨立，節目與亞洲版相同，並與當地的合資。
-  - **Diva 台灣**－與亞洲版節目相同，但由-{杰}-德影音負責代理當地經營與播送，頻道名稱「DIVA」。
+  - **Diva 台灣**－與亞洲版節目相同，但由-{杰}-德影音負責代理當地經營與播送，頻道名稱「DIVA」，带台湾的广告。
 
 ## 影集
 

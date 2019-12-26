@@ -10,4 +10,4 @@
 
 ## 外部連結
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:GeForce系列](https://zh.wikipedia.org/wiki/Category:GeForce系列 "wikilink") [Category:2016年面世](https://zh.wikipedia.org/wiki/Category:2016年面世 "wikilink")

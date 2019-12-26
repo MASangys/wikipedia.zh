@@ -42,14 +42,14 @@
 <td style="text-align: left;"><p>202-年--月--日</p></td>
 <td style="text-align: left;"><p><strong>CD</strong></p>
 <ol>
-<li>大步走向我中心</li>
-<li>低沉</li>
-<li>上個你下個你</li>
-<li>大頭佛</li>
-<li>層壓時代</li>
-<li>朝幸福前行</li>
-<li>Happy Hour</li>
-<li>不許於這旅途嬉戲</li>
+<li><strong>大步走向我中心</strong></li>
+<li><strong>低沉</strong></li>
+<li><strong>上個你下個你</strong></li>
+<li><strong>大頭佛</strong></li>
+<li><strong>層壓時代</strong></li>
+<li><strong>朝幸福前行</strong></li>
+<li><strong>Happy Hour</strong></li>
+<li><strong>不許於這旅途嬉戲</strong></li>
 <li>--</li>
 <li>--</li>
 </ol></td>

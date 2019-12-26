@@ -83,26 +83,15 @@ Studio II的規格如下：
 [Category:家用遊戲機](https://zh.wikipedia.org/wiki/Category:家用遊戲機 "wikilink") [Category:电子游戏系列](https://zh.wikipedia.org/wiki/Category:电子游戏系列 "wikilink") [Category:第二世代遊戲機](https://zh.wikipedia.org/wiki/Category:第二世代遊戲機 "wikilink") [Category:1977年面世的產品](https://zh.wikipedia.org/wiki/Category:1977年面世的產品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  [TV Games Cutback](https://news.google.com/newspapers?nid=1338&dat=19780214&id=47EvAAAAIBAJ&sjid=A_kDAAAAIBAJ&pg=4978,3228228), Page 21, Spokane Daily Chronicle, 1978-02-14, Spokane Daily Chronicle - Google News Archive Search
-
 6.
-
 7.  定價為54,800[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.

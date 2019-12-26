@@ -92,25 +92,15 @@
 [Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:雷亞遊戲](https://zh.wikipedia.org/wiki/Category:雷亞遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
 
 1.
-
 2.   ETtoday星光雲|last=ETtoday新聞雲|newspaper=ETtoday星光雲|accessdate=2018-10-03|language=zh-TW}}
-
 3.
 4.
-
 5.   ETtoday遊戲雲|newspaper=ETtoday遊戲雲|accessdate=2018-10-03|language=zh-TW}}
-
 6.
-
 7.
-
 8.
-
 9.
-
 10. [《兰空VOEZ》5月26日苹果商店正式上架，新手攻略指导](http://www.voez.cn/news/detail/id/32.html)
-
 11.
-
 12.
 13.

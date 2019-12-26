@@ -153,33 +153,20 @@ UPCH-2107（通常盤）</p></td>
 [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.

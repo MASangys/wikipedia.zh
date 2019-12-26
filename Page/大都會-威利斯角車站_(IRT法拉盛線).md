@@ -69,21 +69,12 @@
 [Category:皇后區紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:皇后區紐約地鐵車站 "wikilink") [Category:IRT法拉盛線車站](https://zh.wikipedia.org/wiki/Category:IRT法拉盛線車站 "wikilink") [Category:1927年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1927年啟用的鐵路車站 "wikilink")
 
 1.
-
 2.  此站的坡度並非無障礙通行。
-
 3.  中央軌道往威利斯角和緬街的列車右側開門，其餘列車左側開門。
-
 4.  此月台不可無障礙通行。
-
 5.  其餘時間列車不會開啟此側車門。
-
 6.
-
 7.  [謝亞球場](../Page/謝亞球場.md "wikilink")在2009年由[花旗球場](../Page/花旗球場.md "wikilink")取代
-
 8.
-
 9.
-
 10.

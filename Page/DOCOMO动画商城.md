@@ -37,12 +37,8 @@
 [Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink") [Category:NTT_DOCOMO](https://zh.wikipedia.org/wiki/Category:NTT_DOCOMO "wikilink") [Category:角川集團](https://zh.wikipedia.org/wiki/Category:角川集團 "wikilink") [Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink") [Category:2012年成立的公司](https://zh.wikipedia.org/wiki/Category:2012年成立的公司 "wikilink")
 
 1.
-
 2.
-
 3.  [](http://av.watch.impress.co.jp/docs/news/20140514_648308.html)
-
 4.  [](http://av.watch.impress.co.jp/docs/news/20140908_665742.html)
-
 5.
 6.  \[<http://www.nttdocomo.co.jp/info/news_release/2013/01/22_00_3.html>

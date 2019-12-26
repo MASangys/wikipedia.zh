@@ -35,34 +35,23 @@
   - [British Andrology Society](http://www.britishandrology.org.uk/)
   - [International Society of Andrology](http://andrology.org/)
   - [Andrology Australia](https://www.andrologyaustralia.org/)
-  - [Jiryan / Jaryan in Urdu](http://www.shaafiherbalcare.com/home/23-shaafi-power-plus.html)
+  - [Jiryan / Jaryan in Urdu](https://web.archive.org/web/20160427094033/http://www.shaafiherbalcare.com/home/23-shaafi-power-plus.html)
 
 [Category:性健康](https://zh.wikipedia.org/wiki/Category:性健康 "wikilink") [Category:文化結合症候群](https://zh.wikipedia.org/wiki/Category:文化結合症候群 "wikilink")
 
 1.  曾文星。（2010）。文化精神医学的世界发展趋势：与中国有关事项。上海精神医学杂志, 22, 392-395.
-
 2.  文榮光、王經綸：腎虧症候群：台灣所見一所具文化特殊性精神官能症。林宗義、Arthur Kleinman編、柯永河、蕭欣義譯：文化與行為—古今華人的正常與不正常行為。香港：中文大學出版，1990; 303-313。
-
 3.  Mehte, V., Abhishek, D. & Balachandran, C. 2009. "Dhat Syndrome: A Reappraisal". *Indian Journal of Dermatology*,*54*（1）: 89-80. .
-
 4.  20 More Rare and Unusual Psychiatric Syndromes \],Christoph U. Correll, MD; Bret S. Stetka, MD"
-
 5.  [Diagnostic criteria for research](http://www.who.int/classifications/icd/en/GRNBOOK.pdf)p. 215（WHO 1993）
-
 6.
 7.
-8.  [Dhat综合征--人卫智网百科数据库](http://baike.ipmph.com/wiki/word/show?ID=1365422)
-
+8.
 9.  A., Avasthir., O. P., Jhirwai.（2005）. "The concept and epidemiology of dhat syndrome".*The Journal of Pakistan Psychiatric Society*.*2*（6）.
-
 10.
 11.
-
 12.
 13. Issa El Hamad, Carmelo Scarcella, Maria Chiara Pezzoli, Viviana Bergamaschi, Francesco Castelli. "Forty Meals for a Drop of Blood". *Journal of Travel Medicine*. 16（6）: 64-65.
-
 14.
-
 15.
-
 16. Ruterbusch, K.（2012, July 20）"Dhat Syndrome in the Indian Subcontinent", Retrieved March 29, 2013 from antrhopology.msu.[1](http://anthropology.msu.edu/anp204-us12/2012/07/20/dhat-syndrome-in-the-indian-subcontinent/)

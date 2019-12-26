@@ -13,7 +13,5 @@ H街曾是华盛顿最早、最繁忙的商业区之一，曾是华盛顿第一�
 [Category:华盛顿哥伦比亚特区街道](https://zh.wikipedia.org/wiki/Category:华盛顿哥伦比亚特区街道 "wikilink")
 
 1.
-
 2.
-
 3.

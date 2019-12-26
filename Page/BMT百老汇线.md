@@ -317,29 +317,21 @@ IND第八大道線（），<a href="https://zh.wikipedia.org/wiki/世界貿易�
 [Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1917年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1917年啟用的鐵路線 "wikilink")
 
 1.  Randy Kennedy, [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [Honoring the Champions](https://select.nytimes.com/gst/abstract.html?res=FB0C15F839540C728FDDA90994D8404482), October 31, 2000, section B, page 10: "And the only reason she was standing in the middle of Broadway was that she was below it. Underground. In the N and R subway station."
-
 2.  Susan Saulny, [New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink"), [In Subway Changes, W Follows V, but for Riders It's Not So Simple](https://select.nytimes.com/gst/abstract.html?res=F50B15F73F580C768CDDAB0994D8404482), section B, page 1: "The Q, N, R and W trains would all run on N and R tracks in Manhattan."
-
 3.
-
 4.
 5.  *The New York Times*, [Subway to Open Two New Stations](https://www.nytimes.com/1919/08/31/archives/subway-to-open-two-new-stations-broadway-line-of-brt-will-extend-to.html), August 31, 1919, page 25
-
 6.
-
 7.
 8.
 9.
-
 10.
 11.
 12.
-
 13.
 14.
 15.
 16.
-
 17.
 18.
 19.

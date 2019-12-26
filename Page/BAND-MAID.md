@@ -289,6 +289,16 @@ CRCP-40547</small></p></td>
 <td><p>9位[76]</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>3rd</p></td>
+<td><p><strong>CONQUEROR</strong></p></td>
+<td><p>2019年12月11日</p></td>
+<td><p><small>CRCP-40590<br />
+CRCP-40591<br />
+CRCP-40592</small></p></td>
+<td><p>-位[77]</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -296,9 +306,9 @@ CRCP-40547</small></p></td>
 
 |     | 名稱                      | 發行日期      | 標準編號             | 收錄處                          | 備註欄         |
 | --- | ----------------------- | --------- | ---------------- | ---------------------------- | ----------- |
-| 1st | secret MAIKO lips\[77\] | 2018年4月1日 | 1312293963853534 | **start over**(初回生産限定盤A)附送CD | i-Tunes發佈限定 |
+| 1st | secret MAIKO lips\[78\] | 2018年4月1日 | 1312293963853534 | **start over**(初回生産限定盤A)附送CD | i-Tunes發佈限定 |
 
-## MV／PV\[78\]
+## MV／PV\[79\]
 
 | 發佈日期  | 名稱                                                                    | 觀看次數(萬)                                                            | 收錄單曲／專輯                                                                                     |
 | ----- | --------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
@@ -495,45 +505,33 @@ CRCP-40547</small></p></td>
 [Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:2013年日本建立](https://zh.wikipedia.org/wiki/Category:2013年日本建立 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  [Facebook](../Page/Facebook.md "wikilink")上公開2週創下200萬次播放記錄，YouTube也在公開1年後達成100萬次觀看紀錄。
-
 5.
 6.
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
 13.
 14.
-
 15.
 16.
 17.
 18.
 19.
-
 20.
 21.
 22.
 23.
-
 24.
 25.
 26.
 27.
 28.
-
 29.
 30.
 31.
@@ -547,7 +545,6 @@ CRCP-40547</small></p></td>
 39.
 40.
 41. 2016年 11/21 号の『ヤングキング』でのインタビューにて
-
 42.
 43.
 44.
@@ -560,50 +557,29 @@ CRCP-40547</small></p></td>
 51.
 52.
 53.
-
 54.
-
 55.  チケットぴあ\[音楽 J-POP・ROCK\]|last=PIA|accessdate=2017-01-10|language=ja}}
-
 56.
 57.
 58.
-
 59.
-
 60.
-
 61. [10月に"Brand New MAID" Release Tour World Series5ヵ国6公演ヨーロッパツアーを開催！](http://bandmaid.tokyo/news/57084)
-
 62. [11/16(水)、シングル・リリース決定！そしてリリース・ツアー・ワールド・シリーズに南ヨーロッパ2公演が追加！](http://bandmaid.tokyo/news/58951)
-
 63. [ニュー・シングルのアートワーク、ヴィジュアル公開！また、11/5(土)、香港での公演が決定！](http://bandmaid.tokyo/news/59567)
-
 64.  邦楽 特集 {{\!}} ロッキング・オンの音楽情報サイト RO69|accessdate=2017-03-20|last=株式会社ロッキング・オン|work=ro69.jp|deadurl=yes|archiveurl=[https://web.archive.org/web/20161220130325/http://ro69.jp/feat/bandmiad_201611/page%3A1|archivedate=2016-12-20](https://web.archive.org/web/20161220130325/http://ro69.jp/feat/bandmiad_201611/page%3A1%7Carchivedate=2016-12-20)}}
-
 65.
-
 66.
-
 67.
-
 68. [金曲音樂節猛烈壓軸 BAND-MAID超級反差萌「伺候」](https://memeon-music.com/2017/06/27/band-maid-livereport/)
-
 69.
-
 70.  BARKS|newspaper=BARKS|accessdate=2018-04-08|language=ja}}
-
 71.  BARKS|newspaper=BARKS|accessdate=2019-04-01|language=ja}}
-
 72.  Musicman-net|accessdate=2018-10-02|work=www.musicman-net.com|language=ja}}
-
 73. [Oricon](../Page/Oricon.md "wikilink")週間地下專輯排行榜。
-
 74. Oricon週間專輯排行榜。
-
 75.
 76. Oricon週間專輯排行榜。
-
-77.  BARKS|newspaper=BARKS|accessdate=2018-09-22|language=ja}}
-
-78.
+77. Oricon週間專輯排行榜。
+78.  BARKS|newspaper=BARKS|accessdate=2018-09-22|language=ja}}
+79.

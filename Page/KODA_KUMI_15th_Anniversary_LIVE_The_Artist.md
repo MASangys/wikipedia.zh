@@ -138,9 +138,6 @@
 [Category:倖田來未](https://zh.wikipedia.org/wiki/Category:倖田來未 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

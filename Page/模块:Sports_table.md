@@ -1,5 +1,4 @@
-\-- Module to build tables for standings in Sports -- See documentation
-for details
+\-- Module to build tables for standings in Sports -- See documentation for details
 
 require('Module:No globals')
 
@@ -66,13 +65,14 @@ end
 `       blue1='#BBF3FF', blue2='#CCF9FF', blue3='#DDFCFF', blue4='#EEFFFF',`
 `       yellow1='#FFFFBB', yellow2='#FFFFCC', yellow3='#FFFFDD', yellow4='#FFFFEE',`
 `       red1='#FFBBBB', red2='#FFCCCC', red3='#FFDDDD', red4='#FFEEEE',`
+`       gold1='#FFD700', silver1='#C0C0C0', copper1='#CD7F32', azure1='#9ACDFF',`
 `       black1='#BBBBBB', black2='#CCCCCC', black3='#DDDDDD', black4='#EEEEEE'}`
 `   `
 `   -- Declare results column header`
 `   local results_header = {}`
-`   results_header = {Q='出線資格', QR='出線 或 降級',`
-`       P='升級', PQR='出線，升級 或 降級',`
-`       PR='升級 或 降級', R='降級', FR='最終成績'}`
+`   results_header = {Q='出線資格', QR='出線或降級',`
+`       P='升級', PQR='出線，升級或降級',`
+`       PR='升級或降級', R='降級', FR='最終成績'}`
 `   local results_defined = false -- Check whether this would be needed`
 `   -- Now define line for column header (either option or custom)`
 `   local local_res_header = results_header[Args['res_col_header']] or Args['res_col_header']  or ''`
@@ -144,7 +144,7 @@ end
 `   if match_table then`
 `       -- Add empty column header`
 `       t_return.count = t_return.count+1`
-`       table.insert(t_return.tab_text,'! scope="row" class="unsortable" style="background-color:white;border-top:white;border-bottom:white;line-width:3pt;"| \n')`
+`       table.insert(t_return.tab_text,'! scope="row" class="unsortable" style="background:white;border-top:white;border-bottom:white;line-width:3pt;"| \n')`
 `       `
 `       -- Add rest of header`
 `       t_return = p_matches.header(t_return,Args,p_sub,N_teams,team_list)`
@@ -220,12 +220,12 @@ end
 `       -- Get local background colour`
 `       if result_local then`
 `           bg_col = result_col[Args['col_'..result_local]] or Args['col_'..result_local] or 'white'`
-`           bg_col = 'background-color:'..bg_col..';'   -- Full style tag`
+`           bg_col = 'background:'..bg_col..';'     -- Full style tag`
 `       end`
-`       if not bg_col then bg_col = 'background-color:transparent;' end -- Becomes default if undefined`
+`       if not bg_col then bg_col = 'background:transparent;' end -- Becomes default if undefined`
 `       `
 `       -- Bold this line or not`
-`       local ii_fw = ii == ii_show and 'font-weight: bold;' or 'font-weight: normal;'`
+`       local ii_fw = ii == ii_show and 'font-weight:bold;' or 'font-weight:normal;'`
 `       `
 `       -- Check whether there is a note or not, if so get text ready for it`
 `       if note_local and full_table then`
@@ -294,16 +294,16 @@ end
 `       -- Only add brackets/dash and bolding if it exist`
 `           if not status_let_first then `
 `               if t_status.position == 'before' then`
-`                   status_string = '`<span style="font-weight:bold">`'..string.lower(status_string)..' –`</span>` ' `
+`                   status_string = '`<span style="font-weight:bold;">`'..string.lower(status_string)..' –`</span>` ' `
 `               else`
-`                   status_string = ' `<span style="font-weight:bold">`('..status_string..')`</span>`' `
+`                   status_string = ' `<span style="font-weight:bold;">`('..status_string..')`</span>`' `
 `               end`
 `           end`
 `       end`
 `       `
 `       -- Now build the rows`
 `       table.insert(t,'|- \n')                                                                         -- New row`
-`       table.insert(t,'! scope="row" style="text-align: center;'..ii_fw..bg_col..'"| '..pos_num..'\n') -- Position number`
+`       table.insert(t,'! scope="row" style="text-align:center;'..ii_fw..bg_col..'"| '..pos_num..'\n')  -- Position number`
 `       if full_table and group_col then`
 `           table.insert(t,'| style="'..ii_fw..bg_col..'" |'..group_txt..'\n')                          -- Group number/name`
 `       end`
@@ -314,7 +314,7 @@ end
 `       else`
 `           team_string = team_name..note_string..status_string`
 `       end`
-`       table.insert(t,'| style="text-align: left; white-space:nowrap;'..ii_fw..bg_col..'"| '..team_string..'\n')-- Team (with possible note)`
+`       table.insert(t,'| style="text-align:left; white-space:nowrap;'..ii_fw..bg_col..'"| '..team_string..'\n')-- Team (with possible note)`
 `       -- Call to subfunction`
 `       t_return = p_style.row(frame,t,Args,p_sub,notes_exist,hth_id_list,full_table,rand_val,team_list,team_code_ii,ii_start,ii_end,ii_fw,bg_col,N_teams,ii,ii_show)`
 `       t = t_return.t`
@@ -348,17 +348,17 @@ end
 `               -- Now create this field (reuse ii_fw and bg_col)`
 `               -- Bold (if in range) or not`
 `               if ii_show and (ii_show>=ii) and (ii_show<=(ii+N_rows_res-1)) then`
-`                   ii_fw = 'font-weight: bold;'`
+`                   ii_fw = 'font-weight:bold;'`
 `               else`
-`                   ii_fw = 'font-weight: normal;'`
+`                   ii_fw = 'font-weight:normal;'`
 `               end`
 `               -- Get background colour`
 `               bg_col = nil`
 `               if Args['result'..ii] then`
 `                   bg_col = result_col[Args['col_'..result_local]] or Args['col_'..result_local] or 'white'`
-`                   bg_col = 'background-color:'..bg_col..';'   -- Full style tag`
+`                   bg_col = 'background:'..bg_col..';'     -- Full style tag`
 `               end`
-`               if not bg_col then bg_col = 'background-color:transparent;' end -- Becomes default if undefined`
+`               if not bg_col then bg_col = 'background:transparent;' end -- Becomes default if undefined`
 `               -- Check for notes`
 `               local note_res_string, note_ref, note_text`
 `               if Args['note_res_'..result_local] then`
@@ -398,7 +398,7 @@ end
 `       -- Insert match row if needed`
 `       if match_table then`
 `           -- Add empty cell`
-`           table.insert(t,'| style="background-color:white;border-top:white;border-bottom:white;"| \n')`
+`           table.insert(t,'| style="background:white; border-top:white; border-bottom:white;"| \n')`
 `           `
 `           -- Now include note to match results if needed `
 `           for jj=top_pos,N_teams do`
@@ -446,7 +446,7 @@ end
 `       -- Now, if needed, insert a split (solid line to indicate split in standings, but only when it is not at the last shown position)`
 `       if Args['split'..ii] and (ii<ii_end) then`
 `           -- Base size on N_cols (it needs 2*N_cols |)`
-`           table.insert(t,'|- style="background-color:'..result_col['black1']..'; line-height:3pt;"\n')`
+`           table.insert(t,'|- style="background:'..result_col['black1']..'; line-height:3pt;"\n')`
 `           table.insert(t,string.rep('|',2*N_cols)..'\n')`
 `       end`
 `   end`
@@ -503,9 +503,9 @@ end
 `               status_string = status_string..stack_string`
 `           end`
 `           if t_status.position == 'before' then`
-`               status_string = status_string..'`<span style="font-weight:bold">`'..string.lower(curr_letter)..' –`</span>` '..t_status.code[curr_letter]..'; '`
+`               status_string = status_string..'`<span style="font-weight:bold;">`'..string.lower(curr_letter)..' –`</span>` '..t_status.code[curr_letter]..'; '`
 `           else`
-`               status_string = status_string..'`<span style="font-weight:bold">`('..curr_letter..')`</span>` '..t_status.code[curr_letter]..'; '`
+`               status_string = status_string..'`<span style="font-weight:bold;">`('..curr_letter..')`</span>` '..t_status.code[curr_letter]..'; '`
 `           end`
 `           status_exist = true`
 `       end`

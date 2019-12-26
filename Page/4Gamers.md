@@ -19,18 +19,13 @@
   - [元素圖騰網路商店](http://www.elementaltotem.com/)
   - [WirForce](http://wirforce.com.tw/)
 
-[Category:臺灣電子遊戲公司](https://zh.wikipedia.org/wiki/Category:臺灣電子遊戲公司 "wikilink") [Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink") [Category:總部位於臺北市信義區的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於臺北市信義區的工商業機構 "wikilink")
+[Category:臺灣電子遊戲公司](https://zh.wikipedia.org/wiki/Category:臺灣電子遊戲公司 "wikilink") [Category:2013年成立的台灣公司](https://zh.wikipedia.org/wiki/Category:2013年成立的台灣公司 "wikilink") [Category:總部位於臺北市信義區的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於臺北市信義區的工商業機構 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
-
 8.

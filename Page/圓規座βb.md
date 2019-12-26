@@ -6,5 +6,4 @@
 
 1.
 2.  [Discovery of a brown dwarf companion to the A3V star β Circini.](http://arxiv.org/abs/1509.09226) Retrieved November 9, 2015.
-
 3.

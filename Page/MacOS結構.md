@@ -109,10 +109,7 @@ Mach 是一个由卡内基梅隆大学开发的计算机操作系统[微内核](
 [Category:Mac_OS介面](https://zh.wikipedia.org/wiki/Category:Mac_OS介面 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.

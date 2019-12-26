@@ -46,6 +46,6 @@ R-Studio 提供了适用于 Windows、Mac OSX\[8\]以及 Linux\[9\]的版本。�
 4.  [R-Studio – 数据恢复软件](http://ilvruan.com/4030.html)
 5.  [R-Undletel中国网站](http://www.r-undelete.com/zhcn/)
 6.  [NIST: Forensic File Carving](http://www.cftt.nist.gov/filecarving.htm)
-7.  [Forensic Wiki: Tools:Data Recovery](http://forensicswiki.org/wiki/Tools:Data_Recovery)
+7.
 8.  [R-Studio for Mac可以现场中国](http://www.r-studio.com/zhcn/data_recovery_macintosh/)
 9.  [R-Studio中的Linux中国网站](http://www.r-studio.com/zhcn/data_recovery_linux/)

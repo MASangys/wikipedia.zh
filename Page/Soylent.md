@@ -166,98 +166,58 @@ Soylent的生产者声称其包含健康生活方式所必须的所有营养需�
 
 1.
 2.  [Nutrition - Soylent](http://faq.soylent.com/hc/en-us/articles/200789315-Nutrition). Retrieved 10 June 2015.
-
 3.
-
 4.
-
 5.  [How I Stopped Eating Food](http://robrhinehart.com/?p=298). Feb 13, 2013. Retrieved April 4, 2015
-
 6.  [What's in Soylent](http://robrhinehart.com/?p=424) Feb 14, 2013. Retrieved April 4, 2015
-
 7.
 8.
-
 9.  [Crowdfunding Darling Soylent Nets $1.5 Million In VC Funding](http://www.crowdfundinsider.com/2013/10/24870-crowdfunding-darling-soylent-nets-1-5-million-vc-funding/). October 22, 2013
-
 10.
-
 11. [Soylent Raises Money](http://robrhinehart.com/?p=1192). Retrieved 22 January 2015.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16. [Nutrition advisor for Soylent](http://discourse.soylent.me/t/nutrition-advisor-for-soylent/19994) . 16 March 2015.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23. [Soylent gets a version bump to 1.1—new flavor, new gut flora help](http://arstechnica.com/science/2014/10/soylent-gets-a-version-bump-to-1-1-new-flavor-new-gut-flora-help/). Retrieved 26 February 2015.
-
 24.
-
 25.
 26.
 27. [Soylent 1.3 Shipping Today](http://blog.soylent.me/post/104937168407/soylent-1-3-shipping-today-we-are-pleased-to) . Retrieved 11 December 2014.
-
 28.
 29. [Soylent 1.4 begins shipping today](https://news.ycombinator.com/item?id=9109371). Retrieved 28 February 2015.
-
 30.
-
 31.
 32.
 33.
 34.
 35.
-
 36.
 37.
 38.
 39.
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
 48.
-
 49.
-
 50.
-
 51.
-
 52.
 53.
-
 54.
 55.
-
 56.
-
 57.

@@ -55,15 +55,9 @@ DC Watch(デジカメ Watch)认为2x2双拨盘控制(2×2ダイヤルコント�
 [Category:奥林巴斯无反可交换镜头数码相机](https://zh.wikipedia.org/wiki/Category:奥林巴斯无反可交换镜头数码相机 "wikilink")
 
 1.  ["持ち歩く上質感"を実感できるPENシリーズの最上級機 ミラーレス一眼カメラ　「OLYMPUS PEN E-P5」を発売](http://www.olympus.co.jp/jp/news/2013a/nr130510ep5j.jsp) olympus.co.jp
-
 2.
-
 3.  [IMX109](http://chipworks.force.com/catalog/ProductDetails?sku=SON-IMX109)
-
 4.  [内置5轴机身防抖系统](http://olympus-imaging.cn/product/dslr/ep5/feature4.html) 奥林巴斯 中国
-
 5.  [有用功能](http://olympus-imaging.cn/product/dslr/ep5/feature6.html) 奥林巴斯 中国
-
 6.  [OLYMPUS PEN E-P5 “メカらしさ”が心地よいボディ。新操作系にも注目](http://dc.watch.impress.co.jp/docs/review/newproduct/20130621_604558.html) - デジカメ Watch
-
 7.

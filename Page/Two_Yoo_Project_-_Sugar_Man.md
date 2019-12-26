@@ -1,4 +1,4 @@
-《**Two Yoo Project - Sugar Man**》（）是韓國[JTBC](../Page/JTBC.md "wikilink")電視台的音樂綜藝節目\[1\]\[2\]，於2015年8月19日及8月26日以《Two Yoo Project - 尋找Sugar Man》為名試播；第一季自10月20日起至2016年7月12日止，逢韓國時間星期二晚上10時50分開始播放，每集約85分鐘\[3\]；第二季自2018年1月14日起，逢韓國時間星期日晚上10時30分開始播放。第一季主持人為[劉在錫](../Page/劉在錫.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、作詞家[金伊娜](../Page/金伊娜.md "wikilink")及[2NE1](../Page/2NE1.md "wikilink")成員[Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")。第二季主持人為[劉在錫](../Page/劉在錫.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、[Red Velvet成員](../Page/Red_Velvet.md "wikilink")[Joy及諧星](../Page/Joy_\(Red_Velvet\).md "wikilink")[朴娜勑](../Page/朴娜勑.md "wikilink")。
+《**Two Yoo Project - Sugar Man**》（）是韓國[JTBC](../Page/JTBC.md "wikilink")電視台的音樂綜藝節目\[1\]\[2\]，於2015年8月19日及8月26日以《Two Yoo Project - 尋找Sugar Man》為名試播；第一季自10月20日起至2016年7月12日止，逢韓國時間星期二晚上10時50分開始播放，每集約85分鐘\[3\]；第二季自2018年1月14日起，逢韓國時間星期日晚上10時30分開始播放；第三季將於2019年11月29日起，逢韓國時間星期五晚上9時開始播放。第一季主持人為[劉在錫](../Page/劉在錫.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、作詞家[金伊娜](../Page/金伊娜.md "wikilink")及[2NE1](../Page/2NE1.md "wikilink")成員[Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")。第二季主持人為[劉在錫](../Page/劉在錫.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、[Red Velvet成員](../Page/Red_Velvet.md "wikilink")[Joy及諧星](../Page/Joy_\(Red_Velvet\).md "wikilink")[朴娜勑](../Page/朴娜勑.md "wikilink")。第三季主持人為[劉在錫](../Page/劉在錫.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、[金伊娜](../Page/金伊娜.md "wikilink")、[Heize](https://zh.wikipedia.org/wiki/Heize "wikilink")。
 
 節目尋找曾經風靡一時，但現在卻逐漸被遺忘的歌手，將其經典歌曲重新編製，並呈現出不一樣的舞台。每次邀請兩位Sugar Man、兩組Show Man、兩組製作人及100名10代到50代以上年齡層的觀眾，前半部分藉由聆聽申請原因及路人反應猜測歌曲及召喚歌手，後半部分由劉在錫及柳熙烈為首帶領的兩隊結構重編過程及進行經典歌曲再演繹的對決，並由100名觀眾投票選出該集獲勝隊伍。
 
@@ -18,17 +18,17 @@
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p>第一季、第二季主持；第19集缺席</p></td>
+<td><p>第一至三季主持；第19集缺席</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>第一季、第二季主持</p></td>
+<td><p>第一至三季主持</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p>第一季主持；第二季第19集特別主持</p></td>
+<td><p>第一及第三季主持；第二季第19集特別主持</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -44,6 +44,11 @@
 <td></td>
 <td></td>
 <td><p>第二季主持；第12集缺席、第19集換<a href="../Page/金伊娜.md" title="wikilink">金伊娜</a>擔任特別主持</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>第三季主持</p></td>
 </tr>
 </tbody>
 </table>
@@ -935,7 +940,7 @@ Tenzo</p></td>
 <tr class="even">
 <td><p>、朴相後（）</p></td>
 <td><p>噗喲噗喲<small>（）</small></p></td>
-<td><p>、Mimi（<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/玄勝熙" title="wikilink">勝熙</a>、Mimi（<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1578,6 +1583,67 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 </tbody>
 </table>
 
+### 第三季
+
+#### 2019年
+
+<table>
+<thead>
+<tr class="header">
+<th><p>集數</p></th>
+<th><p>播出日期</p></th>
+<th><p>隊伍</p></th>
+<th><p>原唱歌手</p></th>
+<th><p>歌曲</p></th>
+<th><p>表演歌手</p></th>
+<th><p>勝利隊伍</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>01</p></td>
+<td><p>11月29日</p></td>
+<td><p>在錫隊</p></td>
+<td><p><a href="../Page/太四子.md" title="wikilink">太四子</a></p></td>
+<td><p>道（）</p></td>
+<td><p><a href="../Page/Pentagon_(男子組合).md" title="wikilink">Pentagon</a></p></td>
+<td><p>在錫隊</p></td>
+<td><p>《》劇組影像出演</p></td>
+</tr>
+<tr class="even">
+<td><p>熙烈隊</p></td>
+<td></td>
+<td><p>如果把你的心交給我（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Heize" title="wikilink">Heize</a> &amp; Colde</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>02</p></td>
+<td><p>12月6日</p></td>
+<td><p>在錫隊</p></td>
+<td></td>
+<td><p>（）</p></td>
+<td><p><a href="../Page/金在奐.md" title="wikilink">金在奐</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>熙烈隊</p></td>
+<td></td>
+<td><p>（）</p></td>
+<td><p>Hoppipolla</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 收視率
 
 以下紀錄《**Two Yoo Project - Sugar Man**》節目收視，表示為該年度最高收視率，則表示為該年度最低收視率。
@@ -2018,6 +2084,6 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
   -
 [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
 
-1.  [劉在錫,柳熙烈新節目8月播](http://kpopn.niusnews.com/=K0k21k31)Kpopn
-2.  [《尋找 Sugar Man》十月正式開播](http://kpopn.niusnews.com/=K0mm3nn9)Kpopn
-3.  [JTBC《尋找 Sugar Man》預計7月結束](http://kpopn.niusnews.com/=K17yxxy9)Kpopn
+1.  [劉在錫,柳熙烈新節目8月播](http://kpopn.niusnews.com/=K0k21k31) Kpopn
+2.  [《尋找 Sugar Man》十月正式開播](http://kpopn.niusnews.com/=K0mm3nn9) Kpopn
+3.  [JTBC《尋找 Sugar Man》預計7月結束](http://kpopn.niusnews.com/=K17yxxy9) Kpopn

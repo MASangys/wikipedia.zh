@@ -2,11 +2,11 @@
 
 ## 早期生活和教育状况
 
-史密斯是美国[得克萨斯州](https://zh.wikipedia.org/wiki/得克萨斯州 "wikilink")[科林县人](https://zh.wikipedia.org/wiki/科林县_\(得克萨斯州\) "wikilink")\[2\]。他在位于得克萨斯州[普莱诺的](../Page/普莱诺_\(得克萨斯州\).md "wikilink")[科林学院](../Page/科林学院.md "wikilink")学习戏剧课程。2003年，史密斯在[纽约](../Page/纽约.md "wikilink")市的[茱莉亚戏剧学院就读学制四年的表演专业](https://zh.wikipedia.org/wiki/茱莉亚学院 "wikilink")\[3\]，其中一个同学是\[4\]。2007年，史密斯获得了茱莉亚戏剧学院[艺术学](https://zh.wikipedia.org/wiki/艺术学 "wikilink")[学士学位](https://zh.wikipedia.org/wiki/学士 "wikilink")。
+史密斯是美国[得克萨斯州](https://zh.wikipedia.org/wiki/得克萨斯州 "wikilink")[科林县人](https://zh.wikipedia.org/wiki/科林县_\(得克萨斯州\) "wikilink")\[2\]。在1980年代保守的德州鄉下長大時，因為隱藏的同性戀性向，必須隨時注意自己的言行，而感到很大的壓力和孤獨，於是他投身於戲劇，當人們專注於他在台上的演出，他就找到了歸屬感\[3\]。他在位于得克萨斯州[普莱诺的](../Page/普莱诺_\(得克萨斯州\).md "wikilink")[科林学院](../Page/科林学院.md "wikilink")学习戏剧课程。2003年，史密斯在[纽约](../Page/纽约.md "wikilink")市的[茱莉亚戏剧学院就读学制四年的表演专业](https://zh.wikipedia.org/wiki/茱莉亚学院 "wikilink")\[4\]，其中一个同学是\[5\]。2007年，史密斯获得了茱莉亚戏剧学院[艺术学](https://zh.wikipedia.org/wiki/艺术学 "wikilink")[学士学位](https://zh.wikipedia.org/wiki/学士 "wikilink")。他在30歲時向家人出櫃並得到家人的支持，發覺世界沒有那麼可怕，而對自己更有自信\[6\]。
 
 ## 职业生涯
 
-2005年，史密斯在美国[独立电影](https://zh.wikipedia.org/wiki/独立电影 "wikilink")《》中饰演Trey，一名受到[原教旨主义](https://zh.wikipedia.org/wiki/原教旨主义 "wikilink")[传教士](../Page/传教士.md "wikilink")的儿子偏见的同性恋者。他还出演了两部于2009年上映的独立电影，[剧情片](https://zh.wikipedia.org/wiki/剧情片 "wikilink")《》（饰演George）和[恐怖片](https://zh.wikipedia.org/wiki/恐怖片 "wikilink")《》（饰演Chappy）。2008年，他在纽约[百老汇剧院的戏剧](https://zh.wikipedia.org/wiki/百老汇剧院 "wikilink")《》中饰演Turk\[5\]\[6\]。2009年到2011年，史密斯在科幻电视连续剧《[星际之门：宇宙](https://zh.wikipedia.org/wiki/星际之门：宇宙 "wikilink")》第1季和第2季中饰演主要角色。
+2005年，史密斯在美国[独立电影](https://zh.wikipedia.org/wiki/独立电影 "wikilink")《》中饰演Trey，一名受到[原教旨主义](https://zh.wikipedia.org/wiki/原教旨主义 "wikilink")[传教士](../Page/传教士.md "wikilink")的儿子偏见的同性恋者。他还出演了两部于2009年上映的独立电影，[剧情片](https://zh.wikipedia.org/wiki/剧情片 "wikilink")《》（饰演George）和[恐怖片](https://zh.wikipedia.org/wiki/恐怖片 "wikilink")《》（饰演Chappy）。2008年，他在纽约[百老汇剧院的戏剧](https://zh.wikipedia.org/wiki/百老汇剧院 "wikilink")《》中饰演Turk\[7\]\[8\]。2009年到2011年，史密斯在科幻电视连续剧《[星际之门：宇宙](https://zh.wikipedia.org/wiki/星际之门：宇宙 "wikilink")》第1季和第2季中饰演主要角色。
 
 2011年，他在电视剧《[绯闻女孩](https://zh.wikipedia.org/wiki/绯闻女孩_\(电视剧\) "wikilink")》第5季中饰演Max Harding，在游戏改编[电视电影](https://zh.wikipedia.org/wiki/电视电影 "wikilink")《》中饰演Jake Mason。2012年4月到7月，他在百老汇戏剧《The Columnist》中饰演Andrei。此后，他还客串出演了数部电视剧，包括《[第十三号仓库](../Page/第十三号仓库.md "wikilink")》、《》、《[傲骨贤妻](https://zh.wikipedia.org/wiki/傲骨贤妻 "wikilink")》、《[疑犯追踪](https://zh.wikipedia.org/wiki/疑犯追踪 "wikilink")》、《[警察世家](../Page/警察世家.md "wikilink")》、《[抗争](https://zh.wikipedia.org/wiki/抗争 "wikilink")》、《[记忆神探](https://zh.wikipedia.org/wiki/记忆神探 "wikilink")》等。
 
@@ -186,14 +186,13 @@
 
   - ["Boldly Going From Collin County Community College to SciFi's New Stargate Series"](http://blogs.dallasobserver.com/unfairpark/2009/01/boldly_going_from_collin_count.php/) *Unfair Park*, the *Dallas Observer* blog
 
-[Category:1981年出生](https://zh.wikipedia.org/wiki/Category:1981年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:美国电影演员](https://zh.wikipedia.org/wiki/Category:美国电影演员 "wikilink") [Category:美国电视演员](https://zh.wikipedia.org/wiki/Category:美国电视演员 "wikilink") [Category:茱莉亚学院校友](https://zh.wikipedia.org/wiki/Category:茱莉亚学院校友 "wikilink") [Category:达拉斯人](https://zh.wikipedia.org/wiki/Category:达拉斯人 "wikilink")
+[Category:1981年出生](https://zh.wikipedia.org/wiki/Category:1981年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:美国电影演员](https://zh.wikipedia.org/wiki/Category:美国电影演员 "wikilink") [Category:美国电视演员](https://zh.wikipedia.org/wiki/Category:美国电视演员 "wikilink") [Category:茱莉亚学院校友](https://zh.wikipedia.org/wiki/Category:茱莉亚学院校友 "wikilink") [Category:达拉斯人](https://zh.wikipedia.org/wiki/Category:达拉斯人 "wikilink") [Category:美國男同性戀者](https://zh.wikipedia.org/wiki/Category:美國男同性戀者 "wikilink") [Category:男同性戀演員](https://zh.wikipedia.org/wiki/Category:男同性戀演員 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
 6.
+7.
+8.

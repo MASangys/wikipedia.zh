@@ -1,4 +1,4 @@
-**SmackDown 雙打冠軍**（），是隸屬於[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")[SmackDown LIVE的一雙打冠軍項目](../Page/SmackDown_LIVE.md "wikilink")。SmackDown雙打冠軍是世界摔角娛樂的兩個雙打冠軍之一，另一個則是隸屬於[WWE Raw的](../Page/WWE_Raw.md "wikilink")[Raw 雙打冠軍](../Page/Raw_雙打冠軍.md "wikilink")。SmackDown雙打冠軍創建於2016年7月23日，並於SmackDown LIVE節目上被公布。\[1\]
+**SmackDown 雙打冠軍**（），是隸屬於[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")[SmackDown LIVE的一雙打冠軍項目](../Page/SmackDown_LIVE.md "wikilink")。SmackDown雙打冠軍是世界摔角娛樂的兩個雙打冠軍之一，另一個則是隸屬於[WWE Raw的](../Page/WWE_Raw.md "wikilink")[Raw 雙打冠軍](../Page/Raw_雙打冠軍.md "wikilink")。它創建於2016年7月23日，並於SmackDown LIVE節目上被公布。\[1\]
 
 ## 歷史
 

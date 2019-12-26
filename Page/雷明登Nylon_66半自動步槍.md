@@ -56,6 +56,5 @@ Nylon 66裝有片狀[機械瞄具](../Page/機械瞄具.md "wikilink")，以及�
 [Category:半自動步槍](https://zh.wikipedia.org/wiki/Category:半自動步槍 "wikilink") [Category:美國步槍](https://zh.wikipedia.org/wiki/Category:美國步槍 "wikilink") [Category:.22_LR口徑槍械](https://zh.wikipedia.org/wiki/Category:.22_LR口徑槍械 "wikilink") [Category:雷明登槍械](https://zh.wikipedia.org/wiki/Category:雷明登槍械 "wikilink")
 
 1.
-
 2.
 3.

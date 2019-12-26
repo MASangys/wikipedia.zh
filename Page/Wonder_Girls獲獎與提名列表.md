@@ -1169,48 +1169,27 @@
 [Category:Wonder_Girls](https://zh.wikipedia.org/wiki/Category:Wonder_Girls "wikilink") [Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink")
 
 1.
-
 2.  [2007 Golden Disk Awards](http://forums.soompi.com/discussion/175919/x). *soompi*.November 7, 2007.
-
 3.
 4.  [Wonder Girls Nominations at the 23rd Golden Disk Awards](http://wondergirls.wordpress.com/2008/11/08/wonder-girls-nominations-at-the-23rd-golden-disk-awards/). Wonder Girls Wordpress. November 8, 2008
-
 5.  [Vote for Wonder Girls for the 2010 Golden Disk Awards\!](http://wonderfulsworld.com/2010/11/25/vote-for-wonder-girls-for-the-2010-golden-disk-awards/). wonderfulsworld. November 25, 2010.
-
 6.  [Golden Disk Awards in Malaysia: List of nominees](http://www.hellokpop.com/2012/12/08/golden-disk-awards-in-malaysia-list-of-nominees/). hellokpop. December 8, 2012
-
 7.  [GALAXY The 27th GDA in Kuala Lumpur Nominees](http://hype.my/2012/12/samsung-galaxy-the-27th-gda-in-kuala-lumpur-nominees/Samsung). *Hype Malaysia*. December 10, 2012.
-
 8.
-
 9.
 10.
 11. [원더걸스, \`서울가요대상\` 대상 (*Wonder Girls, "Seoul Music Awards" Artist of the Year*)](http://news.joins.com/article/3491360.html?ctg=1502&cloc=home%7Cstar%7Cstar_article). *[Joins.com](https://zh.wikipedia.org/wiki/JoongAng_Ilbo "wikilink")*. February 12, 2009. Retrieved February 12, 2009.
-
 12.
-
 13. ["2007 Mnet KM Music Festival Part1"](http://mwave.interest.me/mnettv/videodetail.m?searchVideoDetailVO.clip_id=75123). *MAMA*. Retrieved 2014-12-14.
-
 14. Kim, Shi-eun. [‘MKMF 3관왕’ 원더걸스 “변치 않는 원더걸스 되겠다” (''MKMF Triple Winner Wonder Girls "Will Never Change")](http://www.hankyung.com/news/app/newsview.php?aid=2008111638117&sid=01073305&nid=007&ltype=1&pkind=all). *[HanKyung.com](https://zh.wikipedia.org/wiki/Korea_Economic_Daily "wikilink")*. November 16, 2008. Retrieved November 16, 2008.
-
 15.
-
 16. [\[NEWS](http://yeeun-impact.net/blog/news-090204-wonder-girls-nominated-for-3-korean-music-awards/) 090204 Wonder Girls Nominated for 3 Korean Music Awards\] . yeeunimpact. February 4, 2009.
-
 17.  [한국대중음악상, 아이돌 가수는 후보제외‥그 기준은?](http://www.newsen.com/news_view.php?uid=200902041135461002&search=title&searchstring=%C7%D1%B1%B9%B4%EB%C1%DF%C0%BD%BE%C7%BB%F3). *Newsen*. February 4, 2009.
-
 18.
-
 19.
-
 20.
-
 21. [2008 MNet Choice Awards Results](http://www.allkpop.com/2008/08/2008_mnet_choice_awards_results) . allkpop. August 23, 2008.
-
 22. [Bugs reveals the results for “2010 Bugs Music Awards”](http://www.allkpop.com/2010/12/bugs-reveals-the-results-for-2010-bugs-music-awards). *allkpop*. December 14, 2010.
-
 23.  [소녀시대, 벅스뮤직어워드 '올해의 노래' 등 3관왕](http://news.nate.com/view/20101215n10573). *Nate*. December 15, 2010.
-
 24. Gaon Chart Awards
-
 25. [Super Junior wins 2008 MTV Asia Award](http://www.allkpop.com/2008/08/super_junior_wins_2008_mtv_asia_award) . *allkpop*. August 2, 2008.

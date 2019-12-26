@@ -100,6 +100,438 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 </tbody>
 </table>
 
+### 創作作品
+
+(KOMCA登記編號：[10011790](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10011790)）
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>日期</p></td>
+<td><p>歌曲</p></td>
+<td><p>填詞</p></td>
+<td><p>作曲</p></td>
+<td><p>專輯</p></td>
+<td><p>歌手</p></td>
+<td><p>備註</p></td>
+</tr>
+<tr class="even">
+<td><p>2016年2月25日</p></td>
+<td><p>MoMoMo (모모모)</p></td>
+<td></td>
+<td></td>
+<td><p>迷你一輯《<a href="../Page/Would_You_Like?.md" title="wikilink">Would You Like?</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>MoMoMo (Chinese Ver.)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年8月17日</p></td>
+<td><p>비밀이야 (Secret)</p></td>
+<td></td>
+<td></td>
+<td><p>迷你二輯《<a href="../Page/THE_SECRET.md" title="wikilink">THE SECRET</a>》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>짠! (Prince)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年1月4日</p></td>
+<td><p>靠近你的心（너에게 닿기를/ I Wish）</p></td>
+<td></td>
+<td></td>
+<td><p>迷你三輯《<a href="../Page/From.宇宙少女.md" title="wikilink">From.宇宙少女</a>》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Baby Come To Me</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>이리와 (Hug U)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017年5月4日</p></td>
+<td><p>Love Therapy（러브테라피）</p></td>
+<td></td>
+<td></td>
+<td><p>單曲《Love Therapy》</p></td>
+<td><p>EXY＆EUNA KIM (Feat. Zia)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年6月7日</p></td>
+<td><p>기적 같은 아이 (Miracle）</p></td>
+<td></td>
+<td></td>
+<td><p>正規一輯《<a href="../Page/Happy_Moment.md" title="wikilink">Happy Moment</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Babyface</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>퐁당퐁당 (Plop Plop）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Follow Me</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>B.B.B.Boo</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Geeminy</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年2月27日</p></td>
+<td><p>Dreams Come True（꿈꾸는 마음으로）</p></td>
+<td></td>
+<td></td>
+<td><p>迷你四輯《<a href="../Page/Dream_Your_Dream.md" title="wikilink">Dream Your Dream</a>》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Love O'clock（호두까기 인형）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Renaissance（르네상스）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Starry Moment（설레는 밤）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Thawing（겨울잠）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>無限大夢想（《Dreams Come True》中文版）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年3月27日</p></td>
+<td><p>Homegirl</p></td>
+<td></td>
+<td></td>
+<td><p>Sobae單曲《Homegirl》</p></td>
+<td><p>Sobae (Feat. EXY)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年9月19日</p></td>
+<td><p>부탁해（SAVE ME, SAVE YOU）</p></td>
+<td></td>
+<td></td>
+<td><p>迷你五輯《<a href="../Page/WJ_Please?.md" title="wikilink">WJ Please?</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>너, 너, 너（YOU, YOU, YOU）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>아이야（I-YAH）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>가면무도회（MASQUERADE）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>HURRY UP</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2월의 봄（YOU&amp;I）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年12月23日</p></td>
+<td><p>Love Professor(연애박사)</p></td>
+<td></td>
+<td></td>
+<td><p>Nakta Choi專輯《piece, two》</p></td>
+<td><p>Nakta Choi (Feat. EXY)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年1月8日</p></td>
+<td><p>La La Love</p></td>
+<td></td>
+<td></td>
+<td><p>迷你六輯《<a href="../Page/WJ_Stay?.md" title="wikilink">WJ Stay?</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>You Got</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1억개의 볠（Star）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>그때 우리（Memories）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>칸타빌레(노래하듯이)（Cantabile）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12 O clock</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>우주정거장（UJUNG）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年6月4日</p></td>
+<td><p>Boogie Up</p></td>
+<td></td>
+<td></td>
+<td><p>特別專輯《<a href="../Page/For_the_Summer.md" title="wikilink">For the Summer</a>》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>눈부셔（Oh My Summer）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>우리끼리（Let's Dance）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Sugar Pop</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月19日</p></td>
+<td><p>이루리（As You Wish）</p></td>
+<td></td>
+<td></td>
+<td><p>迷你七輯《<a href="https://zh.wikipedia.org/wiki/As_You_Wish" title="wikilink">As You Wish</a>》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>행운을 빌어（Luckitty-cat）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>야광별（LIGHTS UP）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>우와（WW）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>BADABOOM（바다봄）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Fullmoon</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Don't Touch</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 影視作品
 
 ### 音乐录影带(MV)
@@ -272,6 +704,34 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>8月9及16日</p></td>
+<td><p>《<a href="../Page/My_Little_Television_(第二季).md" title="wikilink">My Little Television 2</a>》</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10月11及21日</p></td>
+<td><p>《<a href="../Page/My_Little_Television_(第二季).md" title="wikilink">My Little Television 2</a>》</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>10月14日</p></td>
+<td><p>SBS MTV</p></td>
+<td><p>《半半秀》</p></td>
+<td><p>與恩熙共同出演</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -307,4 +767,4 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 
 1.
 2.
-3.  [宇宙少女「Sweet」成員公開](http://kpopn.com/2015/12/25/327226/)
+3.

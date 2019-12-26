@@ -328,26 +328,17 @@ libSass的设计目标是：
 [Category:网页设计](https://zh.wikipedia.org/wiki/Category:网页设计 "wikilink") [Category:层叠样式表](https://zh.wikipedia.org/wiki/Category:层叠样式表 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  [Sass - Syntactically Awesome Stylesheets](http://sass-lang.com/tutorial.html) Tutorial
-
 5.
-
 6.
-
 7.
-
 8.  [Sass (Syntactically Awesome StyleSheets)](http://sass-lang.com/docs/yardoc/file.SASS_REFERENCE.html) SASS_REFERENCE
-
 9.
 10.
 11.
 12. [Module: Sass::Script::Functions](http://sass-lang.com/docs/yardoc/Sass/Script/Functions.html) Sass Functions
-
 13.
 14.
 15.
@@ -357,10 +348,7 @@ libSass的设计目标是：
 19.
 20.
 21.
-
 22.
-
 23.
-
 24.
 25.

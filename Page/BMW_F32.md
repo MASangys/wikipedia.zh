@@ -400,46 +400,26 @@ F36首先是在2014年的[日内瓦车展亮相](https://zh.wikipedia.org/wiki/�
 [Category:中型車](https://zh.wikipedia.org/wiki/Category:中型車 "wikilink") [Category:BMW車輛](https://zh.wikipedia.org/wiki/Category:BMW車輛 "wikilink") [Category:雙門轎跑車](https://zh.wikipedia.org/wiki/Category:雙門轎跑車 "wikilink") [Category:敞篷車](https://zh.wikipedia.org/wiki/Category:敞篷車 "wikilink") [Category:後輪驅動](https://zh.wikipedia.org/wiki/Category:後輪驅動 "wikilink") [Category:四輪驅動](https://zh.wikipedia.org/wiki/Category:四輪驅動 "wikilink") [Category:2013年面世的汽車](https://zh.wikipedia.org/wiki/Category:2013年面世的汽車 "wikilink")
 
 1.
-
 2.
-
 3.  [BMW at the 2013 Frankfurt International Motor Show (IAA).](https://www.press.bmwgroup.com/pressclub/p/pcgl/pressDetail.html?title=bmw-at-the-2013-frankfurt-international-motor-show-iaa&outputChannelId=6&id=T0144746EN&left_menu_item=node__8258)
-
 4.
-
 5.  [The new BMW 4 Series Coupe.](https://www.press.bmwgroup.com/pressclub/p/pcgl/pressDetail.html?title=the-new-bmw-4-series-coupe&outputChannelId=6&id=T0142634EN&left_menu_item=node__8257)
-
 6.  [BMW model update measures for autumn 2013.](https://www.press.bmwgroup.com/pressclub/p/pcgl/pressDetail.html?title=bmw-model-update-measures-for-autumn-2013&outputChannelId=6&id=T0145791EN&left_menu_item=node__4101)
-
 7.  [BMW at the Tokyo Motor Show 2013.](https://www.press.bmwgroup.com/global/pressDetail.html?title=bmw-at-the-tokyo-motor-show-2013&outputChannelId=6&id=T0153565EN&left_menu_item=node__8259)
-
 8.  [BMW at the LA Motor Show 2013.](https://www.press.bmwgroup.com/global/pressDetail.html?title=bmw-at-the-la-motor-show-2013&outputChannelId=6&id=T0153584EN&left_menu_item=node__8259)
-
 9.
-
 10. [The New BMW 4-Series Convertible](https://www.press.bmwgroup.com/pressclub/p/pcgl/pressDetail.html?title=the-new-bmw-4-series-convertible&outputChannelId=6&id=T0149105EN&left_menu_item=node__4101)
-
 11.
 12.
-
 13. [BMW at the 114th New York International Auto Show 2014.](https://www.press.bmwgroup.com/global/pressDetail.html?title=bmw-at-the-114th-new-york-international-auto-show-2014&outputChannelId=6&id=T0172307EN&left_menu_item=node__8977)
-
 14. [BMW at the 114th New York International Auto Show 2014.](https://www.press.bmwgroup.com/global/pressDetail.html?title=bmw-at-the-114th-new-york-international-auto-show-2014&outputChannelId=6&id=T0172307EN&left_menu_item=node__8977)
-
 15. [BMW at the 13th Beijing International Automotive Exhibition 2014.](https://www.press.bmwgroup.com/global/pressDetail.html?title=bmw-at-the-13th-beijing-international-automotive-exhibition-2014&outputChannelId=6&id=T0177974EN&left_menu_item=node__8977)
-
 16. [The new BMW 4 Series Gran Coupe.](https://www.press.bmwgroup.com/global/pressDetail.html?title=the-new-bmw-4-series-gran-coupe&outputChannelId=6&id=T0164706EN&left_menu_item=node__8877)
-
 17.
-
 18.
-
 19. 双涡轮增压器 （双涡管单涡轮增压发动机）
-
 20.
 21. 取决于所选轮胎
-
 22.
 23. 取决于所选轮胎
-
 24.

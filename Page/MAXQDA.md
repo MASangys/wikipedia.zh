@@ -39,11 +39,12 @@ MAXApp是一个在Android和iOS系统中都可以使用的免费移动应用终�
   - 2015: MAXQDA 12 (Windows 和 Mac OS X 通用)
   - 2016: VERBI 推出两大新产品: MAXQDA基础版和MAXQDA Analytics Pro
   - 2017: MAXQDA 2018 (Windows 和 MacOS 通用)
+  - 2019: MAXQDA 2020 (Windows 和 MacOS 通用)
 
-## MAXQDA 2018 的特性
+## MAXQDA 2020 的特性
 
   - 输入文本文件、表格、音频、视频、图像、Tweeter以及调查数据
-  - 数据被存储于项目文件中(\*.mx18)
+  - 数据被存储于项目文件中
   - 阅读、编辑和对数据编码
   - 将某个文本部分链接到另一个文本
   - 使用备忘录做注解

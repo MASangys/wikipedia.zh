@@ -22,18 +22,11 @@
 [Category:英国广播公司电视](https://zh.wikipedia.org/wiki/Category:英国广播公司电视 "wikilink") [Category:2001年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2001年成立的电视台或电视频道 "wikilink") [Category:康力斯娛樂](https://zh.wikipedia.org/wiki/Category:康力斯娛樂 "wikilink") [Category:加拿大電視頻道](https://zh.wikipedia.org/wiki/Category:加拿大電視頻道 "wikilink")
 
 1.  [Decision CRTC 2000-484](http://www.crtc.gc.ca/eng/archive/2000/DB2000-484.htm), CRTC, 2000-11-24
-
 2.
-
 3.  [Shaw Communications closes purchase of Canwest TV assets, rebrands as Shaw Media](http://www.canadianbusiness.com/markets/headline_news/article.jsp?content=b4951353)
-
 4.  [CRTC approves Shaw’s purchase of the Canwest Global television properties](http://crtc.gc.ca/eng/com100/2010/r101022.htm)
-
 5.
-
 6.
-
 7.
-
 8.
 9.

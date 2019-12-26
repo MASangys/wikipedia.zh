@@ -95,50 +95,27 @@ NetCDF-Java库目前已经能够读取很多文件格式和远程访问协议，
 [Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink") [Category:地球科学数据格式](https://zh.wikipedia.org/wiki/Category:地球科学数据格式 "wikilink") [Category:氣象數據和網絡](https://zh.wikipedia.org/wiki/Category:氣象數據和網絡 "wikilink") [Category:地球科學圖形軟體](https://zh.wikipedia.org/wiki/Category:地球科學圖形軟體 "wikilink")
 
 1.
-
 2.  [Building netCDF with Classic Library Only](https://www.unidata.ucar.edu/software/netcdf/docs/getting_and_building_netcdf.html#build_classic).
-
 3.  [What are the differences between CDF and netCDF, and CDF and HDF?](https://cdf.gsfc.nasa.gov/html/FAQ.html)
-
 4.  [File Structure and Performance: The Extended XDR Layer](https://www.unidata.ucar.edu/software/netcdf/docs/file_structure_and_performance.html#xdr_layer).
-
 5.
-
 6.
-
 7.
 8.  [The netCDF File Format](https://www.unidata.ucar.edu/software/netcdf/docs/netcdf_introduction.html#netcdf_format).
-
 9.  [File Structure and Performance: Parts of a NetCDF-4 HDF5 File](https://www.unidata.ucar.edu/software/netcdf/docs/file_structure_and_performance.html#parts_of_netcdf4).
-
 10. [Appendix B. File Format Specifications: HDF4 SD Format](https://www.unidata.ucar.edu/software/netcdf/docs/file_format_specifications.html#hdf4_sd_format).
-
 11. [CDF-5 file format specification](http://cucis.ece.northwestern.edu/projects/PnetCDF/CDF-5.html).
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21. David Pierce (2014). ncdf4: Interface to Unidata netCDF (version ) format data files. R package version 1.13. <https://cran.r-project.org/package=ncdf4>
-
 22. Pavel Michna and with contributions from Milton Woods (2015). RNetCDF: Interface to NetCDF Datasets. R package version 1.7-3. <https://cran.r-project.org/package=RNetCDF>
-
 23.
-
 24. [NetCDF Conventions](https://www.unidata.ucar.edu/software/netcdf/conventions.html).
-
 25. [File Structure and Performance: Interoperability with HDF5](https://www.unidata.ucar.edu/software/netcdf/docs/file_structure_and_performance.html#interoperability_with_hdf5).

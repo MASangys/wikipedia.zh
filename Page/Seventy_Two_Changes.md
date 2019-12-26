@@ -18,32 +18,18 @@
 [Category:蔡依林](https://zh.wikipedia.org/wiki/Category:蔡依林 "wikilink") [Category:街頭時尚](https://zh.wikipedia.org/wiki/Category:街頭時尚 "wikilink") [Category:美國服裝品牌](https://zh.wikipedia.org/wiki/Category:美國服裝品牌 "wikilink") [Category:时尚品牌](https://zh.wikipedia.org/wiki/Category:时尚品牌 "wikilink") [Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink") [Category:2011年結業公司](https://zh.wikipedia.org/wiki/Category:2011年結業公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.

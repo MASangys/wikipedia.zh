@@ -159,6 +159,17 @@
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Kill_This_Love_-JP_Ver.-" title="wikilink">Kill This Love -JP Ver.-</a></strong></p></td>
+<td><ul>
+<li>發行日期：2019年10月16日</li>
+<li>廠牌：<a href="https://zh.wikipedia.org/wiki/YGEX" title="wikilink">YGEX</a></li>
+<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></li>
+</ul></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><small>"—" 表示該專輯/單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>
 <td></td>
 <td></td>
@@ -618,6 +629,59 @@
 <td></td>
 <td></td>
 <td></td>
+</tr>
+</tbody>
+</table>
+
+## 現場專輯
+
+<table>
+<thead>
+<tr class="header">
+<th><p>Title</p></th>
+<th><p>Details</p></th>
+<th><p>Peak positions</p></th>
+<th><p>Sales</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>JPN</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/:en:Oricon" title="wikilink"><small>DVD</small></a><ref name="DVD">Blackpink Oricon Weekly DVD Positions:</p>
+<ul>
+<li><p></ref></p></li>
+</ul></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:en:Oricon" title="wikilink"><small>Blu-ray</small></a><ref name="Blu">Blackpink Oricon Weekly Blu-ray Positions:</p>
+<ul>
+<li><p></ref></p></li>
+</ul></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><em>Blackpink Arena Tour 2018"Special Final In Kyocera Dome Osaka"</em></p></td>
+<td><ul>
+<li>發行日期：2019年3月22日</li>
+<li>廠牌：YGEX</li>
+<li>格式: DVD、藍光、數位音樂下載</li>
+</ul></td>
+<td><p>9</p></td>
+<td><p>17</p></td>
+</tr>
+<tr class="even">
+<td><p><em>Blackpink 2018 Tour [In Your Area] Seoul</em></p></td>
+<td><ul>
+<li>發行日期：2019年8月8日</li>
+<li>廠牌：YG娛樂</li>
+<li>格式: DVD、數位音樂下載</li>
+</ul></td>
+<td><p>—</p></td>
+<td><p>—|—</p></td>
 </tr>
 </tbody>
 </table>

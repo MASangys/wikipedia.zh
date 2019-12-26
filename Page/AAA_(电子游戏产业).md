@@ -11,28 +11,16 @@
 [Category:电子游戏产业](https://zh.wikipedia.org/wiki/Category:电子游戏产业 "wikilink") [Category:電子遊戲術語](https://zh.wikipedia.org/wiki/Category:電子遊戲術語 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  <https://www.videogamer.com/news/modern-warfare-2-cost-40-50-million>
-
 6.  [InXile acquired by Microsoft: the interview](https://www.eurogamer.net/articles/2018-11-19-inxile-acquired-by-microsoft-the-interview) Eurogamer.net (19/11/2018)
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
-
 14.

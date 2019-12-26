@@ -1,4 +1,4 @@
-**Ela8te**（）是韓國ENTERHAMA娛樂原定在2016年推出的女子流行音樂團體，成員包括[太恩](../Page/李太恩.md "wikilink")、[多萊](../Page/金多萊.md "wikilink")、[真詠](../Page/張真詠.md "wikilink")，三位成員曾在2011年4月以[RANIA](../Page/RANIA.md "wikilink")成員身分出道。
+**Ela8te**（）是韓國ENTERHAMA娛樂原定在2016年推出的女子流行音樂團體，成員包括[太恩](../Page/李太恩.md "wikilink")、[多萊](../Page/金多萊.md "wikilink")、[真詠](../Page/張真詠.md "wikilink")，三位成員曾在2011年4月以 [RANIA](../Page/RANIA.md "wikilink")成員身分出道。
 
 ## 經歷
 
@@ -17,8 +17,6 @@
 2015年11月跟隨[Rania發行迷你專輯](https://zh.wikipedia.org/wiki/Rania "wikilink")《Demonstrate》回歸，這次活動是太恩、多萊、真詠在退出[Rania前發行的最後一張專輯](https://zh.wikipedia.org/wiki/Rania "wikilink")。
 
 2016年5月27日，[太恩](../Page/李太恩.md "wikilink")、[多萊](../Page/金多萊.md "wikilink")、[真詠因約滿確定退出](../Page/張真詠.md "wikilink")[Rania及離開DR](https://zh.wikipedia.org/wiki/Rania "wikilink") Music，並轉投ENTERHAMA娛樂，表示將以本名（Di→多萊、T-ae→太恩、Xia→真詠）在Ela8te重新出道\[5\]。
-
-### 2017年：出道
 
 ## 成員資料
 

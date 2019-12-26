@@ -70,25 +70,17 @@
 [Category:安室奈美惠音樂專輯](https://zh.wikipedia.org/wiki/Category:安室奈美惠音樂專輯 "wikilink") [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:2015年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2015年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
 6.
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15.

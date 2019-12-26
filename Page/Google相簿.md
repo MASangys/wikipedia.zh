@@ -4,6 +4,13 @@
 
 Google相册是一个照片和视频存储和分享服务。它的核心功能之前集成在[Google+](../Page/Google+.md "wikilink")中。新的Google相册包含无限的照片、视频存储，[Android](../Page/Android.md "wikilink")、[iOS和网页版应用](https://zh.wikipedia.org/wiki/iOS "wikilink")。无限存储支持最大1600万像素的照片和最大分辨率为1080p的视频。更大的文件使用[Google Drive存储空间](https://zh.wikipedia.org/wiki/Google_Drive "wikilink")。这项服务分析并整理图片到群组，可识别照片特征，如海滩、地平线、“多伦多的暴风雪”。\[1\] 它还可以识别一个人不同年龄的脸。共享图片的接收者可浏览图库而无须下载应用。\[2\]用户可滑动屏幕调整照片编辑设置，而不使用滑块。\[3\]
 
+用戶可以選擇如何儲存照片到 Google 相簿：
+
+1.  高畫質（免費無限儲存空間）
+    縮減檔案大小但仍然維持良好畫質
+2.  原尺寸
+    以完整解析度上傳（會耗用儲存空間配額）
+
 ## 历史
 
 Google相册是Google+中照片功能的独立后续。Google启动Google+以和[Facebook](../Page/Facebook.md "wikilink")竞争，但它从未十分流行，Facebook仍是互联网上图片分享的首选网站。尽管Google+缺少用户基础，Google+提供超越Facebook的图片存储和管理工具。[The Verge赞赏了Google](../Page/The_Verge.md "wikilink")+照片功能，尤其是和其他在线服务做对比时。他们特别提到了一个可以将连拍和视频重新包装的工具。 Google将Google+功能分离出来，成为独立的Google相册服务，并在[Google I/O](https://zh.wikipedia.org/wiki/Google_I/O "wikilink") 2015上宣布。
@@ -27,7 +34,5 @@ Google相册是Google+中照片功能的独立后续。Google启动Google+以和
 2.
 3.
 4.  [Photos: One year, 200 million users, and a whole lot of selfies](https://googleblog.blogspot.com/2016/05/google-photos-one-year-200-million.html%7CGoogle)
-
 5.  [What Google Photos Could Do Next](https://www.buzzfeed.com/mathonan/after-one-year-and-200-million-users-heres-what-google-photo?utm_term=.gfXJWXAz9#.yppY5VWxvHere’s)
-
 6.  [Google Photos相册服务的用户总量突破10亿](https://m.cnbeta.com/view/871205.htm)

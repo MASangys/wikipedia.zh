@@ -104,37 +104,14 @@
 ### 演員
 
   - [李鍾原](../Page/李鍾原.md "wikilink")
-
-  -
-  - [朱利安·姜](../Page/朱利安·姜.md "wikilink")
-
-  - [柳世恆](https://zh.wikipedia.org/wiki/柳世恆 "wikilink")
-
-  - [金泰允](https://zh.wikipedia.org/wiki/金泰允 "wikilink")
-
+  - [朴基雄](../Page/朴基雄.md "wikilink")
   - [朴貞洙](../Page/朴貞洙.md "wikilink")
-
   - [金善映](../Page/金善映.md "wikilink")
-
-  - [崔智娜](../Page/崔智娜.md "wikilink")
-
-  - [朴藝珍](../Page/朴藝珍.md "wikilink")
-
-  - [孔賢珠](../Page/孔賢珠.md "wikilink")
-
   - [朴貞雅](../Page/朴貞雅.md "wikilink")
-
-  -
+  - [孔賢珠](../Page/孔賢珠.md "wikilink")
+  - [藝元](../Page/金藝元.md "wikilink")
   - [金奎善](../Page/金奎善.md "wikilink")
 
-  -
-  - [金藝元](../Page/金藝元.md "wikilink")
-
-  - [祉潏](https://zh.wikipedia.org/wiki/祉潏 "wikilink")（女子團體[Dal★Shabet](../Page/Dal★Shabet.md "wikilink")前成員）
-
-  - [曹惠晶](../Page/曹惠晶.md "wikilink")
-
-  -
 ## 過去旗下藝人
 
   - [朴孝信](../Page/朴孝信.md "wikilink")
@@ -151,6 +128,7 @@
   - [成始璄](../Page/成始璄.md "wikilink")
   - [Ravi](../Page/金元植.md "wikilink")（仍會參與團體活動，雙方維持合作關係）
   - [庭沼珉](../Page/庭沼珉.md "wikilink")
+  - [祉潏](https://zh.wikipedia.org/wiki/祉潏 "wikilink")（女子團體[Dal★Shabet](../Page/Dal★Shabet.md "wikilink")前成員）
 
 ## 練習生
 

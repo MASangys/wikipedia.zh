@@ -40,39 +40,23 @@ SILK（配以[CELT](https://zh.wikipedia.org/wiki/CELT "wikilink")）是混合�
 
 1.
 2.  [Audio-Mitschnitt](http://nagasaki.bogus.com/ietf79/ietf79-ch8-tue-noon.mp3)  vom Treffen der IETF-Codec-Arbeitsgruppe auf der Konferenz IETF79 in Peking, China mit einer Darstellung der grundlegenden Funktionsprinzipien durch Koen Vos (MP3, \~70 MiB)
-
 3.
-4.  [SILK Patent License](http://developer.skype.com/silk/license), Retrieved 2012-12-26
-
+4.  [SILK Patent License](http://developer.skype.com/silk/license) , Retrieved 2012-12-26
 5.
 6.  [Skype publishes SILK audio codec source code](http://www.h-online.com/open/news/item/Skype-publishes-SILK-audio-codec-source-code-955264.html), Retrieved 2012-12-26
-
 7.
 8.
 9.  [Skype Developer Forum - SILK SDK license](http://devforum.skype.com/t5/Developer-Corner/SILK-SDK-license/td-p/12848) , Retrieved 2012-12-26
-
 10. Michael Stanford (2009-01-13) [Skype’s new super-wideband codec](http://www.wirevolution.com/2009/01/13/skypes-new-super-wideband-codec/), Retrieved 2009-09-01
-
 11. Michael Stanford (2009-01-13) [Skype’s new super-wideband codec](http://www.wirevolution.com/2009/01/13/skypes-new-super-wideband-codec/), Retrieved 2009-09-01
-
 12. Skype Journal (2009-01-07)[Skype for Windows 4.0 Beta 3 Hotfix Introduces New Audio Codec](http://skypejournal.com/2009/01/skype-for-windows-40-beta-3-hotfix.html), Retrieved 2009-09-01
-
 13.
-
 14. Jonathan Christensen (2009-03-03) [SILK, our super wideband audio codec, is now available for free](http://share.skype.com/sites/en/2009/03/silk_now_available_for_free.html) , Retrieved 2009-09-01
-
 15. IETF (2009-07-06) [SILK Speech Codec - draft-vos-silk-00.txt](http://tools.ietf.org/html/draft-vos-silk-00#page-4), Retrieved 2009-09-01
-
 16. IETF (2009-07-06) [RTP Payload Format and File Storage Format for SILK Speech and Audio Codec](http://tools.ietf.org/html/draft-spittka-silk-payload-format-00), Retrieved 2009-09-01
-
 17. [Definition of the Harmony Audio Codec](http://tools.ietf.org/html/draft-ietf-codec-harmony-00)
-
 18.
-
 19. Skype Journal (2009-01-07)[Skype for Windows 4.0 Beta 3 Hotfix Introduces New Audio Codec](http://skypejournal.com/2009/01/skype-for-windows-40-beta-3-hotfix.html), Retrieved 2009-09-01
-
 20. PCWorld (2009-02-04)[Skype Upgrade Simplifies VoIP Video Calls](http://www.pcworld.com/businesscenter/article/158941/skype_upgrade_simplifies_voip_video_calls.html?tk=rel_news), Retrieved 2009-09-01
-
 21. (2009-02-04) [Skype 4.0 audio: smooth as SILK](http://saunderslog.com/2009/02/04/skype-40-audio-smooth-as-silk/), Retrieved 2009-09-01
-
 22. <http://www.teamfortress.com/hatless/>

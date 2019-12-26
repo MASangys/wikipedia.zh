@@ -77,21 +77,16 @@
 ## 外部链接
 
   - [GAYa NUSANTARA](http://www.gayanusantara.or.id/)，印尼LGBT社区支持小组
-  - [Arus Pelangi](http://aruspelangi.org/)，推动印尼LGBT权利和意识
+  - [Arus Pelangi](https://web.archive.org/web/20140126012701/http://aruspelangi.org/)，推动印尼LGBT权利和意识
   - [汤姆·博尔斯托夫：同性恋群岛](http://www.socsci.uci.edu/~tboellst/bio/Gay-Archipelago-bahasa-Indonesia.pdf)
   - [宗教与欲望：印度尼西亚的同性恋穆斯林](http://www.researchgate.net/profile/Tom_Boellstorff/publication/227626122_Between_Religion_and_Desire_Being_Muslim_and_Gay_in_Indonesia/links/0912f50f82113ed36f000000)
 
 [Category:印度尼西亚政治](https://zh.wikipedia.org/wiki/Category:印度尼西亚政治 "wikilink") [Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.

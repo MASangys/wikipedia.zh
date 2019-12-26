@@ -333,19 +333,12 @@ VPCC-82309：通常盤</p></td>
 [Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:VAP旗下藝人](https://zh.wikipedia.org/wiki/Category:VAP旗下藝人 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.  是9（或九）的日文念法之一。
-
 6.  [99RadioService、](http://210.248.156.194/article/feature_item/2011/09/03/81616)
-
 7.  [](http://99rs.sblo.jp/article/49707312.html)
-
 8.
-
 9.  [99RadioService電子琴手GOI於10月獨自退團](http://natalie.mu/music/news/99171). [音樂Natalie](../Page/Natalie_\(網站\).md "wikilink"). 2013-09-11 \[2018-09-24\]
-
 10. [99RadioService鼓手Negi退出樂團](http://natalie.mu/music/news/110051). 音樂Natalie. 2014-02-17 \[2018-09-24\] .

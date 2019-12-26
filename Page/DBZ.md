@@ -44,14 +44,9 @@ dBZ和瞬時雨量的換算
 [Category:计量单位](https://zh.wikipedia.org/wiki/Category:计量单位 "wikilink") [Category:比率](https://zh.wikipedia.org/wiki/Category:比率 "wikilink") [Category:无量纲](https://zh.wikipedia.org/wiki/Category:无量纲 "wikilink") [Category:降水](https://zh.wikipedia.org/wiki/Category:降水 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.

@@ -194,150 +194,83 @@ Oculus認為，長期來看，社交應用程式將成變最受歡迎的虛擬�
 [Category:2016年面世的產品](https://zh.wikipedia.org/wiki/Category:2016年面世的產品 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.  [1](http://store.steampowered.com/app/322500#app_reviews_hash)
-
 7.
 8.
-
 9.
 10.
 11.
-
 12.
-
 13.
 14.
 15.
 16.
-
 17.
-
 18.
-
 19.
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.  Oculus - Oculus VR|url = [https://www.oculus.com/en-us/blog/the-rifts-recommended-spec-pc-sdk-0-6-released-and-mobile-vr-jam-voting/|website](https://www.oculus.com/en-us/blog/the-rifts-recommended-spec-pc-sdk-0-6-released-and-mobile-vr-jam-voting/%7Cwebsite) = www.oculus.com|accessdate = 2015-06-16}}
-
 32.
-
 33.
 34.
-
 35.
 36.
-
 37.
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60. [IGN](http://uk.ign.com/articles/2015/06/11/e3-2015-square-enix-harmonix-among-oculus-publisher-partnerships)
-
 61.
-
 62. [CNET](http://www.cnet.com/news/virtual-reality-and-the-silver-screen-a-match-made-in-heaven/)
-
 63. [Hypergridbusiness.com](http://www.hypergridbusiness.com/2014/07/riftmax-theater-is-a-multi-user-virtual-meeting-space/)
-
 64. [Roadtovr.com](http://www.roadtovr.com/nextvr-stereoscopic-360-degree-vr-cam-uses-180000-worth-of-red-6k-cameras/)
-
 65. [Slashgear.com](http://www.slashgear.com/nextvr-aims-to-transform-sports-entertainment-forever-05372279/)
-
 66. [Wired](http://www.wired.co.uk/news/archive/2015-07/17/oculus-rift-joins-felix-and-paul-vr-film-studios)
-
 67. [Engadget](http://www.engadget.com/2015/01/27/oculus-story-studio-is-the-pixar-of-virtual-reality/)
-
 68. [Vimeo](https://vimeo.com/117849907)
-
 69. [Fastcompany.com](http://www.fastcompany.com/3041482/fast-feed/oculus-debuts-pixar-quality-virtual-reality-short-at-sundance-film-festival)
-
 70. [Roadtovr.com](http://www.roadtovr.com/oculus-story-studio-promo-video-reveals-5-vr-short-films-works/)
-
 71. [Venturebeat.com](http://venturebeat.com/2014/03/25/zuckerberg-paints-a-surprising-future-for-oculus-vr-the-most-social-platform-ever/)
-
 72. [Xconomy.com](http://www.xconomy.com/san-francisco/2015/06/25/second-life-creator-linden-lab-prepares-to-test-parallel-vr-universe/)
-
 73. [Fortune](http://fortune.com/2015/05/20/altspacevr-social-vr/)
-
 74. [NPR](http://www.npr.org/sections/alltechconsidered/2015/06/01/411233592/getting-physical-and-emotional-in-virtual-reality?utm_source=twitter.com&utm_campaign=alltech&utm_medium=social&utm_term=nprnews)
-
 75. [NWM](http://nwn.blogs.com/nwn/2013/10/philip-rosedale-leaves-linden-lab.html)
-
 76. [The Verge](http://www.theverge.com/2014/5/19/5732386/high-fidelity-philip-rosendale-telepresence-second-life-hands-on)
-
 77.
 78.
-
 79.
-
 80.
-
 81.

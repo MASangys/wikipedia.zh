@@ -2,15 +2,19 @@
 
 ## 发展历程
 
+### 英雄联盟
+
 2015年12月30日，韩国影音网站[AfreecaTV](../Page/AfreecaTV.md "wikilink")收购Anarchy战队，并将其改名为Afreeca Freecs，ikssu，lira、Mickey，Sangyoon及SnowFlower亦于此时加入该战队。\[1\]随后，该战队聘请了原教练姜显宗作为该队的主教练，并建立了自己的训练室。\[2\]
 
 在于2016年6月22日所举行的2016年[LCK夏季赛Afreeca](../Page/英雄联盟韩国冠军联赛.md "wikilink") Freecs对阵[SK Telecom T1的比赛中](../Page/SK_Telecom_T1.md "wikilink")，Afreeca Freecs以2:0战胜SK Telecom T1。\[3\]
 
 2017年[LCK春季賽開打前](../Page/英雄联盟韩国冠军联赛.md "wikilink")，大部分隊員轉往。\[4\]
 
-現任遊戲部門總監督為退役著名星海爭霸選手""崔然星。\[5\] 於2019年5月升職為現職位。\[6\]
+現任遊戲部門總監督為退役著名星海爭霸選手""崔然星。\[5\] 於2019年5月升任為現職位。\[6\]
 
 戰隊在2018年春季賽成功勝出季後賽，首次躋身決賽。\[7\]可惜與Kingzone DragonX的決賽戰以1-3 落敗，未能奪冠，僅取得亞軍。
+
+2018作為賽季最高總積分進入[英雄聯盟2018世界大賽](../Page/英雄联盟2018赛季全球总决赛.md "wikilink")，最終不敵C9以0-3止步8強。\[8\]
 
 ## 成员
 
@@ -101,7 +105,7 @@
 <thead>
 <tr class="header">
 <th><p>遊戲名稱</p></th>
-<th><p>姓名[8][9]</p></th>
+<th><p>姓名[9][10]</p></th>
 <th><p>諺文</p></th>
 <th><p>遊戲定位</p></th>
 <th><p>生日<ref>{{Cite web |url = <a href="http://www.dailyesports.com/view.php?ud=2018071011053316690%7Ctitle">http://www.dailyesports.com/view.php?ud=2018071011053316690|title</a> = [롤챔스] kt '폰' 허원석 복귀 등 서머 2R 로스터 공개</p></th>
@@ -152,11 +156,11 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Ucal</p></td>
-<td><p>孫雨鉉</p></td>
-<td><p>손우현</p></td>
+<td><p>Fly</p></td>
+<td><p>宋鏞浚</p></td>
+<td><p>송용준</p></td>
 <td><p>Mid</p></td>
-<td></td>
+<td><p>| </p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -172,9 +176,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Aiming</p></td>
-<td><p>金하람[10]</p></td>
-<td><p>김하람</p></td>
+<td><p>Mystic</p></td>
+<td><p>陳聖俊</p></td>
+<td><p>진성준</p></td>
 <td><p>AD</p></td>
 <td></td>
 <td></td>
@@ -192,16 +196,6 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Jelly</p></td>
-<td><p>孫浩景</p></td>
-<td><p>손호경</p></td>
-<td><p>Support</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>Senan</p></td>
 <td><p>朴喜錫</p></td>
 <td><p>박희석</p></td>
@@ -211,7 +205,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -238,104 +232,125 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>Jelly</p></td>
+<td><p>孫浩景</p></td>
+<td><p>Support</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Aiming</p></td>
+<td><p>金하람[12]</p></td>
+<td><p>AD</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Ucal</p></td>
+<td><p>孫雨鉉</p></td>
+<td><p>Mid</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>Proud</p></td>
 <td><p>李正在</p></td>
 <td><p>Support</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Ruby</p></td>
 <td><p>李率民</p></td>
 <td><p>Mid</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Summit</p></td>
-<td><p>朴湡台[12]</p></td>
+<td><p>朴湡台[13]</p></td>
 <td><p>Top</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Mowgli</p></td>
 <td><p>李在夏</p></td>
 <td><p>Jungle</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>TusiN</p></td>
 <td><p>朴鐘翊</p></td>
 <td><p>Support</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Kramer</p></td>
 <td><p>河悰勛</p></td>
 <td><p>AD</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Kuro</p></td>
 <td><p>李瑞行</p></td>
 <td><p>Mid</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/MaRin" title="wikilink">MaRin</a></p></td>
 <td><p>张庆欢</p></td>
 <td><p>Top</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Lindarang</p></td>
 <td><p>許萬興</p></td>
 <td><p>Top</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>SeongHwan</p></td>
-<td><p>尹成愌[13]</p></td>
+<td><p>尹成愌[14]</p></td>
 <td><p>Jungle</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Mickey</p></td>
 <td><p>孫英珉<ref>{{Cite web |url = <a href="https://m.weibo.cn/detail/4317143828914590">https://m.weibo.cn/detail/4317143828914590</a> |title = [2018 LoL KeSPA Cup] 第1轮比赛名单 (2/2)</p></td>
 <td><p>date = 2018年12月14日|author=Official_KeSPA |publisher = 微博 |language = zh-cn }}</ref></p></td>
 <td><p>Mid</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Sangyoon</p></td>
 <td><p>權相潤</p></td>
 <td><p>AD</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>SnowFlower</p></td>
-<td><p>盧會宗[14]</p></td>
+<td><p>盧會宗[15]</p></td>
 <td><p>Support</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ikssu</p></td>
-<td><p>田益數[15]</p></td>
+<td><p>田數[16]</p></td>
 <td><p>Top</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>lira</p></td>
 <td><p>Nam Tae-yoo</p></td>
 <td><p>Jungle</p></td>
@@ -351,7 +366,7 @@
 <thead>
 <tr class="header">
 <th><p>代號或暱稱</p></th>
-<th><p>姓名[16]</p></th>
+<th><p>姓名[17]</p></th>
 <th><p>國籍</p></th>
 <th><p>職位</p></th>
 </tr>
@@ -364,18 +379,12 @@
 <td><p>總監督</p></td>
 </tr>
 <tr class="even">
-<td><p>NoFe</p></td>
-<td><p>鄭魯喆</p></td>
-<td></td>
-<td><p>監督代行</p></td>
-</tr>
-<tr class="odd">
 <td><p>viNylCat</p></td>
 <td><p>蔡雨哲</p></td>
 <td></td>
 <td><p>教練</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Yeon</p></td>
 <td><p>梁光杓</p></td>
 <td></td>
@@ -390,19 +399,25 @@
 <thead>
 <tr class="header">
 <th><p>代號或暱稱</p></th>
-<th><p>姓名[17]</p></th>
+<th><p>姓名[18]</p></th>
 <th><p>國籍</p></th>
 <th><p>職位</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>NoFe</p></td>
+<td><p>鄭魯喆</p></td>
+<td></td>
+<td><p>監督代行</p></td>
+</tr>
+<tr class="even">
 <td><p>Zefa</p></td>
 <td><p>李載珉</p></td>
 <td></td>
 <td><p>教練</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Comet</p></td>
 <td><p>林慧誠</p></td>
 <td></td>
@@ -415,7 +430,7 @@
 
 #### Afreeca Freecs Blue （已解散）
 
-\[18\]
+\[19\]
 
 <table>
 <thead>
@@ -582,12 +597,13 @@
 7.
 8.
 9.
-10. 無對應漢字
+10.
 11. 只收錄2018的中文姓名名單
-12. \[8\]
-13.
-14. \[7\]
-15. \[15\]
-16. \[7\]
-17. \[12\]
-18.
+12. 無對應漢字
+13. \[10\]
+14.
+15. \[16\]
+16. \[17\]
+17. \[10\]
+18. \[14\]
+19.

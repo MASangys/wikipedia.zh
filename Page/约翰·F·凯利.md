@@ -6,7 +6,7 @@
 
 {{-}}
 
-[Category:美国白宫办公厅主任](https://zh.wikipedia.org/wiki/Category:美国白宫办公厅主任 "wikilink") [Category:美國海軍陸戰隊上將](https://zh.wikipedia.org/wiki/Category:美國海軍陸戰隊上將 "wikilink")
+[Category:美國白宮幕僚長](https://zh.wikipedia.org/wiki/Category:美國白宮幕僚長 "wikilink") [Category:美國海軍陸戰隊上將](https://zh.wikipedia.org/wiki/Category:美國海軍陸戰隊上將 "wikilink")
 
 1.
 2.

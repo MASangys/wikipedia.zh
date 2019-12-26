@@ -44,13 +44,10 @@ Laforet Museum原宿是Laforet 原宿開幕4年後的1982年（昭和57年）啟
 [Category:東京都商場](https://zh.wikipedia.org/wiki/Category:東京都商場 "wikilink") [Category:東京都建築物](https://zh.wikipedia.org/wiki/Category:東京都建築物 "wikilink") [Category:原宿](https://zh.wikipedia.org/wiki/Category:原宿 "wikilink") [Category:森大廈](https://zh.wikipedia.org/wiki/Category:森大廈 "wikilink") [Category:神宮前_(澀谷區)](https://zh.wikipedia.org/wiki/Category:神宮前_\(澀谷區\) "wikilink") [Category:1978年完工建築物](https://zh.wikipedia.org/wiki/Category:1978年完工建築物 "wikilink")
 
 1.  [沿革（ラフォーレ原宿）](http://www.laforet.ne.jp/company_info/group.html) 森ビル流通システム株式会社、平成23年8月4日閲覧
-
 2.  [ラフォーレ原宿](http://www.mori.co.jp/projects/laforet/) 森ビル株式会社、平成23年8月4日閲覧
-
 3.
 4.
 5.
 6.
 7.  [あるあるCity](http://aruarucity.com/)
-
 8.  [ラフォーレ原宿、新潟から撤退へ　競合店に押され赤字に](http://headlines.yahoo.co.jp/hl?a=20150715-00000012-asahi-bus_all=)

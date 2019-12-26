@@ -6,46 +6,46 @@
 
 ## 角色
 
-  - 斑鳩萌衣（[CV](../Page/聲優.md "wikilink")：[三石琴乃](../Page/三石琴乃.md "wikilink")）
+  - 斑鳩萌衣（[CV](../Page/聲優.md "wikilink")：[三石琴乃](../Page/三石琴乃.md "wikilink")（日本）；[黃麗芳](../Page/黃麗芳.md "wikilink")（香港））
     本作女主角，女梅茲（女メイズ）。
 
-  - 斑鳩明（CV：[關智一](../Page/關智一.md "wikilink")）
+  - 斑鳩明（CV：[關智一](../Page/關智一.md "wikilink")（日本）；[郭志權](../Page/郭志權.md "wikilink")（香港））
     本作男主角，男梅茲（男メイズ），萌衣的哥哥。
 
-  - 蜜露（ミル・ヴァルナ　CV：[丹下櫻](../Page/丹下櫻.md "wikilink")；[陸惠玲](../Page/陸惠玲.md "wikilink")（香港））
+  - 蜜露（ミル・ヴァルナ　CV：[丹下櫻](../Page/丹下櫻.md "wikilink")（日本）；[陸惠玲](../Page/陸惠玲.md "wikilink")（香港））
     大バートニアン帝國的公主和第一順位的繼承者。
 
-  - アスタロート・レゲェ（CV：[石塚運昇](../Page/石塚運昇.md "wikilink")）
+  - 阿丹羅．里克（アスタロート・レゲェ CV：[石塚運昇](../Page/石塚運昇.md "wikilink")（日本）；[張炳強](../Page/張炳強.md "wikilink")（香港））
     專門狩獵魔甲機的魔甲獵人（デミハンター），使用大劍作為武器。
 
-  - ソリュード・スフォルツァ（CV：[折笠愛](../Page/折笠愛.md "wikilink")）
-    專門狩獵魔甲機的魔甲獵人，アスタロート的同伴。
+  - 蘇依特・斯科尼芝（ソリュード・スフォルツァ CV：[折笠爱](https://zh.wikipedia.org/wiki/折笠爱 "wikilink")（日本）；[盧素娟](../Page/盧素娟.md "wikilink")（香港））
+    專門狩獵魔甲機的魔甲獵人，阿丹羅的同伴。
 
-  - サリス・レイピア（CV：[小林優子](../Page/小林優子.md "wikilink")）
+  - 沙麗斯・麗迪雅（サリス・レイピア CV：[小林優子](../Page/小林優子.md "wikilink")（日本）；[袁淑珍](../Page/袁淑珍.md "wikilink")（香港））
     過去是ビスタル王國的王宮親衛隊長。
 
-  - ランディ（CV：[西村ちなみ](https://zh.wikipedia.org/wiki/西村ちなみ "wikilink")）
+  - 拉迪（ランディ CV：[西村千奈美](../Page/西村千奈美.md "wikilink")（日本）；[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")（香港））
     尋找5色水晶的妖精。OVA的原創角色。
 
-  - ドルナード・ウル（CV：[佐藤正治](../Page/佐藤正治.md "wikilink")）
+  - 高洛德（ドルナード・ウル CV：[佐藤正治](../Page/佐藤正治.md "wikilink")（日本）；[黎偉明](../Page/黎偉明.md "wikilink")（香港））
 
-  - シック（CV：[森川智之](../Page/森川智之.md "wikilink")）
+  - 薛夫（シック CV：[森川智之](../Page/森川智之.md "wikilink")（日本）；[何國星](../Page/何國星.md "wikilink")（香港））
 
-  - ゴージャス（CV：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")）
+  - 科刹斯（ゴージャス CV：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")（日本）；[林保全](../Page/林保全.md "wikilink")（香港））
     ジャイナ聖教團的幹部。
 
-  - サーベル（CV：[子安武人](../Page/子安武人.md "wikilink")）
+  - 贊比路（サーベル CV：[子安武人](../Page/子安武人.md "wikilink")（日本）；[蘇強文](../Page/蘇強文.md "wikilink")（香港））
 
-  - ファーマウント（CV：[三木眞一郎](https://zh.wikipedia.org/wiki/三木眞一郎 "wikilink")）
+  - 酄馬殊（ファーマウントCV：[三木眞一郎](https://zh.wikipedia.org/wiki/三木眞一郎 "wikilink")（日本）；[林國雄](../Page/林國雄.md "wikilink")（香港））
     神聖王國パルアニア的國王。
 
-  - ランチキ（CV：[今井由香](../Page/今井由香.md "wikilink")）
+  - 南知己（ランチキ CV：[今井由香](../Page/今井由香.md "wikilink")（日本）；[鄭麗麗](../Page/鄭麗麗.md "wikilink")（香港））
 
-  - ヨ・リキ（CV：[冬馬由美](https://zh.wikipedia.org/wiki/冬馬由美 "wikilink")）
-    ファーマウント王的軍師。
+  - 利力克（ヨ・リキ CV：[冬馬由美](https://zh.wikipedia.org/wiki/冬馬由美 "wikilink")（日本）；[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")（香港））
+    酄馬殊國王的軍師。
 
-  - ドーシン（CV：鈴木泰明）
-    ファーマウント王的部下。
+  - 冬申（ドーシン CV：鈴木泰明（日本）；[盧國權](../Page/盧國權.md "wikilink")（香港））
+    酄馬殊國王的部下。
 
 ## 發售日
 

@@ -23,4 +23,4 @@ TWiT在-{Podcast Alley}-、和[iTunes的Podcast中曾經排名第一](https://zh
 1.
 2.
 3.
-4.  [Best Podcast - The 2007 Weblog Awards](http://2007.weblogawards.org/polls/best-podcast-1.php)
+4.

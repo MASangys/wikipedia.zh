@@ -30,7 +30,7 @@
 
 ## 頻道形式
 
-Markiplier知名於他[獨立或](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")[恐怖遊戲](../Page/恐怖遊戲.md "wikilink")的實況，這些遊戲包括《[玩具熊的五夜後宮](../Page/玩具熊的五夜後宮.md "wikilink")》系列、《[失憶症：黑暗後裔](https://zh.wikipedia.org/wiki/失憶症：黑暗後裔 "wikilink")》與《[快樂輪子](../Page/快樂輪子.md "wikilink")》等。另外他也會上傳一些喜劇小品影片。
+Markiplier知名於他[獨立或](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")[恐怖遊戲](../Page/恐怖遊戲.md "wikilink")的實況，這些遊戲包括《[玩具熊的五夜後宮](../Page/玩具熊的五夜後宮.md "wikilink")》系列、《[失憶症：黑暗後裔](https://zh.wikipedia.org/wiki/失憶症：黑暗後裔 "wikilink")》、《[SCP：收容失效](../Page/SCP：收容失效.md "wikilink")》與《[快樂輪子](../Page/快樂輪子.md "wikilink")》等。另外他也會上傳一些喜劇小品影片。
 
 Markiplier已經與許多YouTuber合作過，他們包括[Jacksepticeye](../Page/Jacksepticeye.md "wikilink")、[PewDiePie](../Page/PewDiePie.md "wikilink")、[傑克·道格拉斯等](https://zh.wikipedia.org/wiki/傑克·道格拉斯 "wikilink")。除此之外也有名人，例如[傑克·布萊克](../Page/傑克·布萊克.md "wikilink")\[34\]和[吉米·坎摩尔](https://zh.wikipedia.org/wiki/吉米·坎摩尔 "wikilink")\[35\]。Markiplier亦曾於某些電影亮相，例如《》\[36\]、[迪士尼XD](../Page/迪士尼XD.md "wikilink")的《》\[37\]與《》\[38\]。
 
@@ -115,87 +115,49 @@ Markiplier有一個名叫托馬斯（Thomas）的哥哥，是[網路漫畫](http
 [Category:美國YouTuber](https://zh.wikipedia.org/wiki/Category:美國YouTuber "wikilink") [Category:洛杉磯人](https://zh.wikipedia.org/wiki/Category:洛杉磯人 "wikilink") [Category:檀香山人](https://zh.wikipedia.org/wiki/Category:檀香山人 "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:韓裔美國人](https://zh.wikipedia.org/wiki/Category:韓裔美國人 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
-
 6.
 7.
 8.
 9.
 10.
-
 11.
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.  Reading Your Comments \#4||publisher=|date=2015-11-17}}
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.

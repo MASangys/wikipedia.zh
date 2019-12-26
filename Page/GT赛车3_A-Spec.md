@@ -6,6 +6,12 @@
 
 ## 参考资料
 
+## 外部連結
+
+  - [GT賽車3 A-Spec影片1](https://www.youtube.com/watch?v=L_hC764SVWw)
+  - [GT賽車3 A-Spec影片2](https://www.youtube.com/watch?v=ZZoLn_LLn64)
+  - [GT賽車3 A-Spec影片3](https://www.youtube.com/watch?v=nvCLYBfJHiQ)
+
 [Category:跑車浪漫旅系列](https://zh.wikipedia.org/wiki/Category:跑車浪漫旅系列 "wikilink") [Category:2001年电子游戏](https://zh.wikipedia.org/wiki/Category:2001年电子游戏 "wikilink") [Category:竞速模拟游戏](https://zh.wikipedia.org/wiki/Category:竞速模拟游戏 "wikilink") [Category:多人及单人电子游戏](https://zh.wikipedia.org/wiki/Category:多人及单人电子游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_2独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2独占游戏 "wikilink")
 
 1.

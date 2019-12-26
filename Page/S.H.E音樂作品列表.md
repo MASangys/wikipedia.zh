@@ -625,26 +625,15 @@
 [Category:S.H.E](https://zh.wikipedia.org/wiki/Category:S.H.E "wikilink") [Category:台灣音樂作品列表](https://zh.wikipedia.org/wiki/Category:台灣音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.  成員的個人部分請參閱個人「音樂作品列表」。
-
 2.  [1](http://www.bamid.gov.tw/files/15-1000-538,c138-1.php)
-
 3.  [2](http://www.bamid.gov.tw/files/15-1000-541,c138-1.php)
-
 4.
-
 5.
 6.  [S.H.E合體發EP 自曝團名差點就叫HBO](http://udn.com/news/story/8/1881550)
-
 7.  其中有兩張是S.H.E的精選集。
-
 8.  [Hit Fm2003年度百首單曲](http://www.hitoradio.com/newweb/chart_2.php?ch_year=2003&pageNum_rsList=0)
-
 9.  [台湾G-MUSIC风云排行榜06年第四十八期](http://ent.sina.com.cn/y/2006-12-31/14501394261.html)
-
 10. [台湾G-MUSIC排行榜07年第五期](http://ent.sina.com.cn/y/2007-02-09/20461445496.html)
-
 11. [S.H.E唱《少年班》電影主題曲 打動韓寒](http://www.chinatimes.com/realtimenews/20150520004076-260404)
-
 12.
-
 13.

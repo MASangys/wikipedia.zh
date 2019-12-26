@@ -81,22 +81,13 @@
 [Category:1991年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1991年開業電子遊戲公司 "wikilink") [Category:加拿大電子遊戲公司](https://zh.wikipedia.org/wiki/Category:加拿大電子遊戲公司 "wikilink") [Category:动视](https://zh.wikipedia.org/wiki/Category:动视 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
 1.  2005-03-23. Gamers Hell: <http://www.gamershell.com/companies/v_u_g_/220157.html>
-
 2.
-
 3.
-
 4.
-
 5.  <https://twitter.com/Radical_Ent/status/248450258655379456>
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.

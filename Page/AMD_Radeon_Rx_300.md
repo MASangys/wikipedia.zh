@@ -694,49 +694,29 @@ GDDR5</p></td>
 [Category:AMD圖形處理器](https://zh.wikipedia.org/wiki/Category:AMD圖形處理器 "wikilink") [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
 
 1.  [AMD Announces TrueAudio Technology For Upcoming GPUs](http://www.anandtech.com/show/7370/amd-announces-trueaudio-technology-for-upcoming-gpus) - anandtech.com，2013年9月25日
-
 2.
-
 3.
-
 4.
 5.
-
 6.  <http://www.amd.com/en-us/products/graphics/desktop/r7>
-
 7.  <http://www.techpowerup.com/213586/amd-announces-the-radeon-r7-300-series.html>
-
 8.
 9.  <http://www.amd.com/en-us/products/graphics/desktop/r9>
-
 10. <http://www.amd.com/en-us/products/graphics/desktop/r9>
-
 11.
 12.
 13. <http://wccftech.com/amd-radeon-r9-fury-fiji-pro-gpu-officially-launched-4k-ready-performance-beats-980-549/>
-
 14. <http://www.techpowerup.com/gpudb/2735/radeon-r9-nano.html>
-
 15.
 16. <http://www.techpowerup.com/gpudb/2677/radeon-r9-fury-x.html/>
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22. <http://www.amd.com/en-us/products/graphics/notebook/r5-m200#>
-
 23.
-
 24.
 25. <http://www.amd.com/en-us/products/graphics/notebook/r7-m200#>
-
 26. <http://h10032.www1.hp.com/ctg/Manual/c04643087>
-
 27. <http://i.imgur.com/drxycq2.png>

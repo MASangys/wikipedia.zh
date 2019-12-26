@@ -2,7 +2,7 @@
 
 遊戲在2015年9月發布於[Microsoft Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink")，2016年7月於[Linux](../Page/Linux.md "wikilink")上發行，2017年8月推出[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[PlayStation Vita版本](../Page/PlayStation_Vita.md "wikilink")，2018年9月推出[任天堂Switch](../Page/任天堂Switch.md "wikilink")版本。該遊戲備受遊戲評論家的好評，稱讚遊戲中的幽默元素（像是嘲諷遊戲中的時間流動、大量的雙關笑話等等）、直觀的戰鬥系統、音樂獨創性以及劇情中與角色深刻的情感連結。遊戲銷售超過一百萬份，被提名多個榮譽獎項。
 
-2018年10月31日，作者推出的一款擁有相似角色設定的遊戲《[Deltarune](../Page/Deltarune.md "wikilink")》先導版。Toby Fox 說正式版會在未來7年內推出。
+2018年10月31日，作者推出的一款擁有相似角色設定的遊戲《[Deltarune](../Page/Deltarune.md "wikilink")》先導版。Toby Fox 說正式版會在未來7年內推出\!
 
 2019年9月5日，任天堂明星大亂鬥版本5.0.0的更新時釋出Mii鬥士服裝第3彈，其中包含了Sans的服裝以及額外的音樂。
 
@@ -32,23 +32,23 @@
 
 墜落之子最終仍然向Toriel告別，去尋找Asgore的城堡，其中包含前往地表世界的主要通道（被結界阻擋）。
 
-一路走來，墜落之子遇到了一些怪物，包括：骷髏兄弟Sans和Papyrus，兩人在地下擔任哨兵；Undyne，皇家衛隊的首領；Alphys，王國的皇家科學家；和Mettaton，Alphys造出的機器人，他當上了電視節目主持人。墜落之子會和其中一些怪物戰鬥。
+一路走來，墜落之子遇到了一些怪物，包括：骷髏兄弟Sans和Papyrus，兩人在地下擔任哨兵；Undyne，皇家衛隊的首領；Alphys，王國的皇家科學家；和Mettaton，Alphys造出的機器人，他是一名電視節目主持人。墜落之子會和其中一些怪物戰鬥。
 
-在戰鬥中，墜落之子可選擇殺死或憐憫(Spare)怪物們。在墜落之子的旅途中，他們知道了人類和怪物之間的戰爭由何源起，以及地城王子--Asriel的背景故事。Asriel是Asgore和Toriel的兒子。某日，他與第一個掉到地下的人類孩子Chara(此為系統預設名。玩家開始遊戲時，玩家的命名會替代此預設名)結識，後來Chara被Asgore和Toriel收養。
+在戰鬥中，墜落之子可選擇殺死或饒恕(Spare)怪物們。在墜落之子的旅途中，他們知道了人類和怪物之間的戰爭由何源起，以及地城王子--Asriel的背景故事。Asriel是Asgore和Toriel的兒子。某日，他與第一個掉到地下的人類孩子Chara(此為系統預設名。玩家開始遊戲時，玩家的命名會替代此預設名)結識，後來Chara被Asgore和Toriel收養。
 
 一日，Chara計畫自殺並讓Asriel吸收他的靈魂，藉此穿越屏障，在地表收集六個人類靈魂，意圖解放怪物。按照計畫，Chara喝下毛茛製成的茶自殺了，Asriel吸收了Chara的靈魂，他帶著的屍體穿過屏障，返回他們的家鄉。村莊的居民誤以為Asriel殺了Chara，而開始攻擊他。
 
-Chara打算按照計畫殺害人類，而Asriel卻拒絕執行計劃，並沒有選擇攻擊人類，只是硬抗著村民們的攻擊，將Chara的屍體帶回地底，然後在金色花床上化作灰燼結束生命。其意識附著在了第一朵在地城中盛開的金色花上，後來被Alphys帶回真.實驗室並注射了決心，變成了沒有靈魂的生命，也就是後來的Flowey。
+Chara打算按照計畫殺害人類，而Asriel卻拒絕執行計劃，並沒有攻擊人類，只是硬抗著村民們的攻擊，將Chara的屍體帶回地底，然後在金色花床上化作灰燼。其意識附著在了第一朵在地城中盛開的金色花上，後來被Alphys帶回真.實驗室並注射了決心，變成了沒有靈魂的生命，也就是後來的Flowey。
 
-隨著兩個孩子的死亡，Asgore對人類再次發起了戰爭，並決定將殺死任何落入地下的人類來收集靈魂，打破屏障。遊戲開始時，他已持有六個人類靈魂。
+隨著兩個孩子的死亡，Asgore對人類再次發起戰爭，並決定將殺死任何落入地下的人類來收集靈魂，打破屏障。遊戲開始時，他已持有六個人類靈魂。
 
-遊戲三個不同的結局，取決於玩家如何對應與怪物的戰鬥。結局主要分為三類: 中立路線、和平路線，和屠殺路線。一周目時，若玩家沒有殺死地下世界的所有怪物，將進入中立結局，中立結局有超過十二個，這取決於有哪些重要人物死亡。
+遊戲的結局取決於玩家如何對應與怪物的戰鬥。結局主要分為三類: 中立路線、和平路線，和屠殺路線。一周目時，若玩家沒有殺死地下世界的所有怪物，將進入中立結局，中立結局有超過十二個，這取決於有哪些重要人物死亡。
 
 在遊戲接近尾聲時，墜落之子到達Asgore的城堡，並透過Alphys所述，知道了他們也需要一個怪物的靈魂，才足以越過屏障的事實，這迫使他們和Asgore戰鬥。 Sans在戰鬥前叫住了墜落之子，告訴他們的“**LOVE**”是“暴力等級（**L**evel **O**f **V**iolenc**E**）”的縮寫；以及“**EXP**”是“處決點數（**EX**ecution **P**oints）”的縮寫。當墜落之子到達足夠的"EXP"時，即會升級為"LOVE"。Sans將以墜落之子(更正確而言是玩家)的戰鬥方式為依據，親自審判墜落之子。
 
 ### 中立結局
 
-墜落之子和Asgore戰鬥，並擊敗他。但Flowey會在最後到來，殺死Asgore，並吸收六個人類靈魂，成為一個令人憎惡的怪物（限一周目，在二週目則不會和Flowey戰鬥）。
+墜落之子和Asgore戰鬥，並擊敗他。但Flowey在最後到來，殺死Asgore，並吸收六個人類靈魂，成為一個怪物（限一周目，在二週目則不會和Flowey戰鬥）。
 
 墜落之子用呼叫求助於六個靈魂，戰勝Flowey（如果殺死Flowey，在二週目戰勝Asgore並選擇寬恕之後，Asgore會自殺），遊戲最後以Sans的一通電話作結尾，向玩家講解在墜落之子離開後，地下王國的狀況。
 
@@ -56,7 +56,7 @@ Chara打算按照計畫殺害人類，而Asriel卻拒絕執行計劃，並沒有
 
 和平路線只能在玩家完成一次（或以上）中立路線後達成。其條件為不殺害任何怪物，並且與Papyrus、Undyne與Alphys成為朋友。
 
-墜落之子在Alphys的實驗室中，發現藏在廁所後的通往真.實驗室的電梯，並知曉「混合怪（The Amalgamates）」的悲劇，並說服Alphys公開事情的真相。在通關真.實驗室後，墜落之子將再次與Asgore戰鬥，但Toriel出面阻止戰鬥。 Flowey利用Papyrus召集了墜落之子的朋友們，並伏擊了沉浸在團圓氣氛中的怪物們與墜落之子。
+墜落之子在Alphys的實驗室中，發現藏在廁所後的通往真.實驗室的電梯，並知曉「混合怪（The Amalgamates）」的悲劇，並說服Alphys公開事情的真相。在通關真.實驗室後，墜落之子將再次與Asgore對峙，但Toriel出面阻止戰鬥。 Flowey利用Papyrus召集了墜落之子的朋友們，並伏擊了沉浸在團圓氣氛中的怪物們與墜落之子。
 
 利用所有怪物的靈魂和六個人類靈魂，Flowey化身為成熟型態的Asriel和墜落之子戰鬥，企圖在擊敗墜落之子後重置世界。
 
@@ -68,9 +68,9 @@ Chara打算按照計畫殺害人類，而Asriel卻拒絕執行計劃，並沒有
 
 屠殺結局需要玩家殺死所有的怪物、使玩家的“LOVE”最大化。此結局為唯一不需任何先決條件之結局。
 
-由玩家所控制的墜落之子將在最後的長廊（Last Corridor）與Sans戰鬥，他們最終擊敗了Sans，並進入王位房間，直接砍死Asgore，而他的靈魂被Flowey擊碎。Flowey也在無意義的示好與恐懼後，被Chara殘忍殺害。
+由玩家所控制的墜落之子將在最後的長廊（Last Corridor）與Sans戰鬥，他們最終擊敗了Sans，並進入王位房間，直接砍死Asgore，而他的靈魂被Flowey擊碎。Flowey也在示好與恐懼後，被Chara殺害。
 
-Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋他們透過玩家的行徑，了解到了自己最開始存在的意義：屠殺。Chara邀請玩家一起毀滅這個世界，不論同意與否，Chara都會毀滅整個世界，遊戲視窗會自行關閉，再次啟動遊戲只會出現黑色的畫面與蕭蕭風聲。
+Chara在Flowey死亡後，會出現在玩家面前，解釋他們透過玩家的行徑，了解到了自己最開始存在的意義：屠殺。Chara邀請玩家一起毀滅這個世界，不論同意與否，Chara都會毀滅整個世界，遊戲視窗會自行關閉，再次啟動遊戲只會出現黑色的畫面與蕭蕭風聲。
 
 若要使遊戲再次重置，必須在黑色畫面等待十分鐘，Chara會出現要求玩家以靈魂作為代價，便答應將世界重塑。即使如此，依然不能改變所有怪物都曾被玩家殺害的事實，因此通關屠殺結局後，玩家將永遠無法通過真.和平結局。
 
@@ -83,7 +83,11 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
 <!-- end list -->
 
   -
-    玩家所操縱的角色，膚色偏黃，性別不明。穿著紫藍相間橫條紋上衣，在遊戲過程皆閉著眼睛，面無表情。
+    玩家所操縱的角色，膚色偏黃，性別不明。穿著紫藍相間橫條紋上衣。
+
+因為擁有「決心」(Determination)，能使用Save/Load/Reset等能力。
+
+  -
     若將墜落之子取名為**Frisk**時，系統會*警告*說「這個名字會導致你陷入水深火熱中。即使如此還是要這麼做嗎？」，確認後將會開啟**困難模式**（劇情僅到廢墟結束）。
 
 <!-- end list -->
@@ -95,7 +99,7 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
   -
     八名人類（Eight Humans）是指從地表世界穿過伊波特山的屏障來到地下世界的人類。他們分別是第一個人類、主角和Asgore所收集的六個人類靈魂。
     每個靈魂模式和不同顏色的攻擊類型都與各個八名人類有關。
-    八名人類所擁有的七個靈魂顔色分別為:紅色、水色丶橙色丶藍色丶紫色丶綠色丶黄色。在推雪球遊戲中，更可知道除紅色外六個靈魂顔色的特性分別是耐心（Patience）丶勇氣（Bravery）丶誠實（Integrity）丶毅力（Perseverance）丶仁慈（Kindness）丶正義（Justice）。紅色靈魂在遊戲中並沒有特別交代是何種特性，而決心（Determination）是所有人類靈魂共通的特性。
+    八名人類所擁有的七個靈魂顔色分別為:紅色、水色丶橙色丶藍色丶紫色丶綠色丶黄色。在推雪球遊戲中，更可知道除紅色外六個靈魂顔色的特性分別是耐心（Patience）丶勇氣（Bravery）丶廉正（Integrity）丶毅力（Perseverance）丶仁慈（Kindness）丶正義（Justice）。紅色靈魂在遊戲中並沒有特別交代是何種特性，而決心（Determination）是所有人類靈魂共通的特性。但在粉絲圈中紅色靈魂一般被認為是決心的特性，因為主角Frisk的靈魂為紅色，遊戲中亦時常出現「決心」一詞。
 
 <!-- end list -->
 
@@ -105,7 +109,7 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
 
   -
     高大的白色山羊型怪物，穿著紫色長袍。使用火球攻擊，防禦則會在多次攻擊後大幅減弱。如果墜落之子血量低於2以下會手下留情，但是仍然會有機率失手殺死墜落之子。
-    名字是源自Tutorial，帶領玩家進行地下世界歷險的基本教學，但實際上希望其一直待在起始的廢墟。角色猶如母親。
+    名字源自Tutorial，帶領玩家進行地下世界歷險的基本教學，但實際上希望其一直待在起始的廢墟。角色猶如母親。
     曾經是地下王國的王后。在親生兒子Asriel被人類殺害後，不同意國王Asgore收集人類靈魂的計劃而黯然離開。她來到起始的廢墟並封閉大門，從此與世隔絕，期望收留與保護日後掉入地下世界的人類，可惜總是事與願違。
     長年隱居的生活中，僅與廢墟的怪物和Sans相處，只有很少現存怪物知道其存在。電話亦只有最傳統的通話功能。居處格局跟國王大同小異。
     若將墜落之子取名為**Toriel**時，系統會說「我想，也許你應該想想自己的名字，我的孩子。」
@@ -117,13 +121,13 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
 <!-- end list -->
 
   -
-    身材矮胖的[骷髏](https://zh.wikipedia.org/wiki/骷髏 "wikilink")，穿著藍色連帽外套和白色拖鞋。Papyrus的哥哥，名稱是來自[Comic Sans字體](../Page/Comic_Sans.md "wikilink")，他大部分相關對話框的文字都是使用這種字體。
+    身材矮胖的[骷髏](https://zh.wikipedia.org/wiki/骷髏 "wikilink")，穿著藍色連帽外套和粉紅色拖鞋。Papyrus的哥哥，名稱是來自[Comic Sans字體](../Page/Comic_Sans.md "wikilink")，他大部分相關對話框的文字都是使用這種字體。
     十分懶惰，經常睡覺，似乎沒有將其職責放在心上。總是想著開玩笑或說冷笑話，最拿手的是與「骷髏」一詞相關的雙關笑話。認真起來可以十分殘酷。
     十分疼愛Papyrus。是目前最受歡迎的角色之一。
     神出鬼沒，能穿越空間限制到不同地方，並可以暫停時間，亦能感知玩家的存在，知道玩家重置與存檔的事。
     血量，防禦力與攻擊力皆為1。系統顯示為:「最弱的怪物。任何人都能輕易擊敗。」但他在屠殺路線中卻是最終魔王，亦是唯一懂得迴避墜落之子攻擊的怪物，可謂地城中最強大的存在。
-    擁有對邪惡的特殊能力"業報懲罰"（Karma Retribution，簡稱KR）取消玩家的無敵時間（亦指傷害冷卻時間，一般怪物攻擊玩家時，會使靈魂閃爍，閃爍狀態是無法對靈魂造成傷害，但sans不但可以連續攻擊，且攻擊可將造成持續性的傷害）
-    以骨頭（白色或淺藍色）跟引力（將玩家靈魂變為藍色，藉此改變重力）攻擊，亦配有Gaster Blaster（加斯特衝擊波）等先進武器。
+    擁有特殊能力"業報懲罰"（Karma Retribution，簡稱KR）取消玩家受傷後的無敵時間(Invincibility Frame)
+    以骨頭（白色或淺藍色）跟引力（將玩家靈魂變為藍色，藉此改變重力）攻擊，亦配有Gaster Blaster（加斯特衝擊波）等武器。
     他在戰鬥中會同時對墜落之子提及自己的背景，諸如他早已慣於被困在地下世界的這條時間線，多次努力仍然失敗，因此失去了追隨目標的決心。
     若將墜落之子取名為**Sans**時，系統會說「不行。」
 
@@ -151,7 +155,7 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
     凡事都認真和強硬執行，其中Papyrus糟糕透頂的廚藝便是得到其真傳，亦是這性格使之受國王Asgore賞識。於一次訓練後隨行中結識Alphys，漸生感情，相信其提供的[ACG](../Page/ACG.md "wikilink")漫畫作品乃人類文明的正史。雖對人類文明感到佩服，但仍堅決執行國王Asgore收集人類靈魂的計劃。
     完美路線中會請墜落之子送約會的信給Alphys（需通過中立結局之後才會觸發）。
     攻擊墜落之子時，會讓其靈魂變成綠色（代表盾牌，只能防守一個方向）。
-    屠殺路線中會藉由玩家的攻擊，化身成為Undyne The Undying，以決心來改變自身形態，系統顯示：「真正的女英雄翩然降臨。」。無論哪一種路線，她都不會接受墜落之子殺害任何一名怪物。
+    屠殺路線中會藉由玩家的攻擊，化身成為Undyne The Undying，以決心改變自身形態，系統顯示：「真正的女英雄翩然降臨。」。無論哪一種路線，她都不會接受墜落之子殺害任何一名怪物。
     若將墜落之子取名為**Undyne**時，系統會說「給我去取自己的名字！」
 
 <!-- end list -->
@@ -162,7 +166,7 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
 
   -
     地下王國的皇家科學家。黃色的女性[蜥蜴](../Page/蜥蜴.md "wikilink")或是[恐龍怪物](https://zh.wikipedia.org/wiki/恐龍 "wikilink")，戴著圓形眼鏡、穿著白色[實驗衣](https://zh.wikipedia.org/wiki/實驗衣 "wikilink")。精通電子儀器，墜落之子從遺跡出來後，直到抵達其實驗室前，都一直用自製的鏡頭觀察墜落之子（部分鏡頭可調查），並製造了娛樂機器人Mettaton。
-    在國王Asgore允許下，對於靈魂及決心進行深刻的研究，該研究牽涉和平路線的關鍵劇情，亦造就她凡事欠缺信心的性格，直到Undyne和墜落之子先後相處，狀況才稍微好轉。
+    在國王Asgore允許下，對於靈魂及決心進行研究，該研究牽涉和平路線的關鍵劇情，亦造就她凡事欠缺信心的性格，直到Undyne和墜落之子先後相處，狀況才稍微好轉。
     過去經常到瀑布底下的垃圾堆，撿拾來自人類世界的物品，也因此成為一位[御宅族](../Page/御宅族.md "wikilink")，家中藏著撿來的動漫卡帶和漫畫書，對[貓耳娘有獨特的喜好](https://zh.wikipedia.org/wiki/貓耳 "wikilink")。
     若將墜落之子取名為**Alphys**時，系統會說「不、不要這樣做。」。但如果取名為**Alphy**時系統會說「也...也許可以...?」
 
@@ -198,8 +202,8 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
 <!-- end list -->
 
   -
-    外型為一朵黃色小花，類似[金雀花](../Page/金雀花.md "wikilink")（根據劇情內容目前推斷Flowey可能為[毛茛](../Page/毛茛.md "wikilink")），是遊戲中少數有語音的角色。於廢墟意圖欺騙並殺死玩家，以取得存檔的使用能力，失敗後開始在地下世界跟蹤墜落之子。
-    為生長於皇宮花園的第一株金色花朵，由被Asriel死後散開的灰塵覆蓋的種子長出。在Alphys的靈魂實驗中，從皇宮取來作為乘載人類與魔物靈魂的容器，注入決心後出現自我意識，性格融合了Asriel的消極悲觀，以及Chara的無同理心。
+    外型為一朵黃色小花，類似[金雀花](../Page/金雀花.md "wikilink")（根據劇情內容目前推斷Flowey可能為[毛茛](../Page/毛茛.md "wikilink")），是遊戲中少數有語音的角色。於廢墟意圖欺騙並殺死玩家，失敗後開始在地下世界跟蹤墜落之子。
+    為生長於皇宮花園的第一株金色花朵，附著Asriel的意識。在Alphys的靈魂實驗中，從皇宮取來作為乘載人類與魔物靈魂的容器，注入決心後產生了求生欲。
     知曉Undertale事實上是一款遊戲的事情，能夠從遊戲世界外部接觸玩家及篡改設定，包括重置。除了和平及屠殺路線的重置外，基本上會保留所有時間線的記憶。屠殺路線揭示過去已不斷使用重置能力，使之對世界的一切感到厭倦。但在一次重置後失去能力（因為玩家進入世界時持有的決心比Flowey更為強大，所以在玩家（決心）出現時導致Flowey的能力被剝奪）。
     若將墜落之子取名為**Flowey**時，系統會說「我已經取了那個名字。」
 
@@ -297,7 +301,7 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
 <!-- end list -->
 
   -
-    神秘角色，為前任皇室科學家，他的大部分互動以及3位追隨者的蹤影，只能倚靠改變遊戲特定程式碼接或運氣（約4%機率）接觸。靈魂與決心實驗的核心角色，依照追隨者說明，在生前墜落進了其畢生創作中，從此失去物理狀態。
+    神秘角色，為前任皇室科學家，他的大部分互動以及3位追隨者的蹤影，只能倚靠改變遊戲特定程式碼接或運氣（約4%機率）接觸。靈魂與決心實驗的核心角色，依照追隨者說明，在生前墜落進了其畢生創作中（有理論指「創作」是核心(CORE)或真正的實驗室(True Lab)中的決心提取器(DT Extractor)) ，從此失去物理狀態。
     若將墜落之子取名為**Gaster**，按下「完成」後將會立刻跳回初始動畫。
 
 <!-- end list -->
@@ -319,7 +323,7 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
 
 ### Deltarune
 
-本作具有與Undertale相似的設定，2018年10月31日於Windows和macOS上免費遊玩。 本以為其續作，但其實是另一個平行世界，Toby Fox說會在未來七年內推出正式版。
+本作具有與Undertale相似的設定，2018年10月31日於Windows和macOS上免費遊玩。 許多人誤以為是其續作，但其實是無關的另一款遊戲，Toby Fox說會在未來七年內推出正式版。
 
 ## 評價
 
@@ -346,21 +350,14 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
 [Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:益智游戏](https://zh.wikipedia.org/wiki/Category:益智游戏 "wikilink") [Category:Kickstarter計劃](https://zh.wikipedia.org/wiki/Category:Kickstarter計劃 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:元小说作品](https://zh.wikipedia.org/wiki/Category:元小说作品 "wikilink") [Category:独立游戏](https://zh.wikipedia.org/wiki/Category:独立游戏 "wikilink") [Category:美国开发电子游戏](https://zh.wikipedia.org/wiki/Category:美国开发电子游戏 "wikilink") [Category:復古像素風格遊戲](https://zh.wikipedia.org/wiki/Category:復古像素風格遊戲 "wikilink")
 
 1.
-
 2.  <https://twitter.com/tobyfox/status/643945593308618752>
-
 3.
-
 4.
-
 5.
 6.
 7.
-
 8.
 9.
 10.
-
 11.
-
 12.  The Game Awards 2015 | date = 2015-11-12 | website = [The Game Awards](https://zh.wikipedia.org/wiki/The_Game_Awards "wikilink") | publisher = [Ola Balola](https://zh.wikipedia.org/wiki/Ola_Balola "wikilink") | accessdate = 2015-11-13 | archive-url = <https://web.archive.org/web/20151114024126/http://thegameawards.com/nominees/> | archive-date = 2015-11-14 | dead-url = yes }}

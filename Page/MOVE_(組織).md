@@ -46,41 +46,25 @@ MOVE組織成員因為要求MOVE組織遷出房屋的[法庭判令](https://zh.w
 [Category:環保運動](https://zh.wikipedia.org/wiki/Category:環保運動 "wikilink") [Category:美國政治運動](https://zh.wikipedia.org/wiki/Category:美國政治運動 "wikilink") [Category:1985年美國](https://zh.wikipedia.org/wiki/Category:1985年美國 "wikilink") [Category:美国简易爆炸装置爆炸事件](https://zh.wikipedia.org/wiki/Category:美国简易爆炸装置爆炸事件 "wikilink") [Category:1985年爆炸案](https://zh.wikipedia.org/wiki/Category:1985年爆炸案 "wikilink")
 
 1.
-
 2.  John Anderson and Hilary Hevenor, *Burning Down the House: MOVE and the tragedy of Philadelphia*, W.W. Norton & Co., 1987, ISBN 0-393-02460-1
-
 3.  [Philadelphia, city officials ordered to pay $1.5 million in MOVE case](http://www.cnn.com/US/9606/24/move.vertict/); 1996-06-24; [CNN](https://zh.wikipedia.org/wiki/CNN "wikilink")
-
 4.
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10. [Account of 1985 incident from *USA Today*](http://www.usatoday.com/news/nation/2005-05-11-philadelphia-bombing_x.htm).
-
 11.
-
 12.
 13.
 14. [25 Years Ago: Philadelphia Police Bombs MOVE Headquarters Killing 11, Destroying 65 Homes](http://www.democracynow.org/2010/5/13/25_years_ago_philadelphia_police_bombs) democracynow.org. Retrieved 14 May 2015.
-
 15.
 16.
-
 17.
-
 18.
 19.
-
 20.
-
 21.
-
 22.
-
 23.

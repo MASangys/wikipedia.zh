@@ -7,13 +7,8 @@
 [Category:美国生物学家](https://zh.wikipedia.org/wiki/Category:美国生物学家 "wikilink") [Category:美国国家科学院院士](https://zh.wikipedia.org/wiki/Category:美国国家科学院院士 "wikilink") [Category:美国文理科学院院士](https://zh.wikipedia.org/wiki/Category:美国文理科学院院士 "wikilink") [Category:美国科学促进会会员](https://zh.wikipedia.org/wiki/Category:美国科学促进会会员 "wikilink") [Category:洛杉磯加州大學教師](https://zh.wikipedia.org/wiki/Category:洛杉磯加州大學教師 "wikilink") [Category:霍维茨奖获得者](https://zh.wikipedia.org/wiki/Category:霍维茨奖获得者 "wikilink") [Category:霍华德·休斯医学研究所研究员](https://zh.wikipedia.org/wiki/Category:霍华德·休斯医学研究所研究员 "wikilink") [Category:歐柏林學院校友](https://zh.wikipedia.org/wiki/Category:歐柏林學院校友 "wikilink")
 
 1.  [Horwitz Prize Awarded for Research Revealing How the Brain is Wired](http://newsroom.cumc.columbia.edu/blog/2015/09/22/horwitz-prize-awarded-for-research-revealing-how-the-brain-is-wired/)
-
 2.  [S. Lawrence Zipursky UCLA](http://www.biolchem.ucla.edu/people/faculty/s-lawrence-zipursky)
-
 3.  [Summer Program 2008 CV – RIKEN Brain Science Institute](http://www.brain.riken.jp/en/summer/prev/2008/cv/l_zipursky.html)
-
 4.  [Book of Members 1780–present](https://www.amacad.org/multimedia/pdfs/publications/bookofmembers/ChapterXYZ.pdf)
-
 5.  [S. Lawrence Zipursky NAS](http://www.nasonline.org/member-directory/members/20020170.html)
-
 6.

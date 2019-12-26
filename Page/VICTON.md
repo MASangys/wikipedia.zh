@@ -4,7 +4,7 @@
 
 出道百日的粉絲見面會上公布官方粉絲名為「ALICE」，意為「Always we Love the voICE」。
 
-官方應援色為Blue Atoll Pantone 306c（湖水藍）及Blazing Yellow Pantone 113c（閃耀黃）。
+官方應援色為**Blue Atoll Pantone 306c（湖水藍）**、**Blazing Yellow Pantone 113c（閃耀黃）**。
 
 ## 團體資料
 
@@ -45,17 +45,17 @@
 
 ### 2018年
 
-  - 4月30日，Plan A娛樂宣布即將在5月23日首張單曲《俉月哀》，後陸續釋出各成員的宣傳照片以及宣傳影片。\[11\]\[12\]
-  - 8月3日，Plan A娛樂公開首次歐洲巡迴演出資訊，於9月11日莫斯科站開始。\[13\]
+  - 4月30日，Plan A娛樂宣布即將在5月23日首張單曲《俉月哀》，後陸續釋出各成員的宣傳照片以及宣傳影片。\[11\]
+  - 8月3日，Plan A娛樂公開首次歐洲巡迴演出資訊，於9月11日莫斯科站開始。\[12\]
   - 10月26日，Plan A娛樂公開韓國見面會《VICTON 1ST FAN MEETING : WELCOME TO WONDERLAND》詳細資訊。
 
 ### 2019年
 
-  - 3月15日，Plan A宣布成員韓勝宇、崔秉燦參加Mnet選秀節目《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》\[14\]，兩位成員皆進入A等級，進行主題曲Center網路投票。
+  - 3月15日，Plan A宣布成員韓勝宇、崔秉燦參加Mnet選秀節目《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》\[13\]，兩位成員皆進入A等級，進行主題曲Center網路投票。
 
 <!-- end list -->
 
-  - 7月11日，Play M宣布成員崔秉燦因健康問題，即慢性阿基里斯腱炎而退出《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》。<ref>
+  - 7月11日，Play M娛樂宣布成員崔秉燦因健康問題，即慢性阿基里斯腱炎而退出《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》。<ref>
 
 </ref>
 
@@ -63,7 +63,12 @@
 
 </ref>
 
-  - 8月22日，Play M公開韓國見面會《2019 VICTON FANMEETING：VOICE TO ALICE》資訊，是除了成員韓勝宇以外首次六人團體官方活動。\[15\]
+  - 8月22日，Play M 娛樂公開韓國見面會《2019 VICTON FANMEETING：VOICE TO ALICE》資訊，是除了成員韓勝宇以外首次六人團體官方活動。\[14\]
+  - 10月7日，Play M娛樂宣布即將在11月4日回歸，是初次以6人體制回歸活動。\[15\]
+  - 10月8日，Play M娛樂公開《VICTON 1st ASIA TOUR \[VOICE TO ALICE\] 》Schedule，從11月29日東京站開跑，共五個城市演出。
+  - 10月19日，Play M娛樂公開第五張迷你專輯《nostalgia》行程表，後陸續釋出概念照及影片。
+  - 11月4日，發行第五張迷你專輯《nostalgia》，公開全輯音源和主打歌《그리운 밤 (nostalgic night)》MV，並於當天舉辦Showcase。
+  - 11月12日，出道1098天，以《그리운 밤(nostalgic night)》在《The Show》獲得出道後首個音樂節目一位。
 
 ## 成員資料
 
@@ -76,8 +81,8 @@
 <td><p>本名[16]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/韓勝宇.md" title="wikilink">韓勝宇</a><br />
-</p></td>
+<td><p><strong><a href="../Page/韓勝宇.md" title="wikilink">韓勝宇</a><br />
+</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>姜昇植<br />
@@ -160,6 +165,15 @@
 </ul></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>5th</p></td>
+<td><p>第五張迷你專輯《Nostalgia》</p>
+<ul>
+<li>發行日期：2019年11月4日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -183,7 +197,7 @@
 <ul>
 <li>發行日期：2018年5月23日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：19,523+[21]</li>
+<li>專輯銷量：20,714+[21]</li>
 </ul></td>
 <td><ol>
 <li>Time of sorrow （）</li>
@@ -266,6 +280,8 @@
 | [1theK](https://www.youtube.com/watch?v=uLvr9Q-iJcs) |       |                   |                                                       |
 | 2018                                                 | 5月23日 | 俉月哀 （오월애）         | [VICTON](https://www.youtube.com/watch?v=b4Yo_8Y4FI8) |
 | [1theK](https://www.youtube.com/watch?v=VWz8DmLbhNY) |       |                   |                                                       |
+| 2019                                                 | 11月4日 | 想念的夜晚 （그리운 밤）     | [VICTON](https://www.youtube.com/watch?v=UOXkpWuwfy8) |
+| [1theK](https://www.youtube.com/watch?v=xkMV1CUdJWk) |       |                   |                                                       |
 
 ### 合作音樂錄影帶
 
@@ -277,24 +293,27 @@
 | 2017                                                 | 8月3日 | OASIS(오아시스) | [Apink](../Page/Apink.md "wikilink")、[許閣](../Page/許閣.md "wikilink") | [Plan A](https://www.youtube.com/watch?v=TmbiR0BtKr4) |
 | [1theK](https://www.youtube.com/watch?v=Mu_s7n_XUUM) |      |             |                                                                     |                                                       |
 
-  - Dance Practice(練習室版)
+### Dance Practice(練習室版)
 
-|        |                                                                     |                                                                     |        |
-| ------ | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ------ |
-| 年份     | 發佈日期                                                                | 歌曲名稱                                                                | 備註     |
-| 2016   | 11月15日                                                              | [裝作若無其事（아무렇지 않은 척）](https://www.youtube.com/watch?v=h05m267uyHI)    |        |
-| 12月13日 | [What time is it now?](https://www.youtube.com/watch?v=kv4JguOZKhY) |                                                                     |        |
-| 2017   | 1月30日                                                               | [What time is it now?](https://www.youtube.com/watch?v=dUeworDEp1U) | 韓服版    |
-| 2月16日  | [The Chemistry](https://www.youtube.com/watch?v=4gNuK0GCVBM)        |                                                                     |        |
-| 3月14日  | [EYEZ EYEZ](https://www.youtube.com/watch?v=SH414uNi_u8)            |                                                                     |        |
-| 4月6日   | [Blank](https://www.youtube.com/watch?v=i9B5d5Fm13o)                |                                                                     |        |
-| 4月19日  | [Blank](https://www.youtube.com/watch?v=2eTgtiWP8pI)                | 制服版                                                                 |        |
-| 9月4日   | [不像話 （말도 안돼）](https://www.youtube.com/watch?v=_r7271fr2Zc)          |                                                                     |        |
-| 11月9日  | [记得我（나를 기억해）](https://www.youtube.com/watch?v=SO4UYIeTJ1o)          |                                                                     |        |
-| 12月24日 | [记得我（나를 기억해）](https://www.youtube.com/watch?v=LGUCD0sDs2g)          | 圣诞版                                                                 |        |
-| 2018   | 4月24日                                                               | [记得我（나를 기억해）](https://www.youtube.com/watch?v=el4br_Ied_0)          | REMIX版 |
-| 6月10日  | [俉月哀 （오월애）](https://www.youtube.com/watch?v=-oauPoQ8pRQ)            | 制服版                                                                 |        |
-| 7月25日  | [俉月哀 （오월애）](https://www.youtube.com/watch?v=KBxdxm6VbkY)            | Random Camera版                                                      |        |
+|        |                                                                     |                                                                     |             |
+| ------ | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ----------- |
+| 年份     | 發佈日期                                                                | 歌曲名稱                                                                | 備註          |
+| 2016   | 11月15日                                                              | [裝作若無其事（아무렇지 않은 척）](https://www.youtube.com/watch?v=h05m267uyHI)    |             |
+| 12月13日 | [What time is it now?](https://www.youtube.com/watch?v=kv4JguOZKhY) |                                                                     |             |
+| 2017   | 1月30日                                                               | [What time is it now?](https://www.youtube.com/watch?v=dUeworDEp1U) | 韓服版         |
+| 2月16日  | [The Chemistry](https://www.youtube.com/watch?v=4gNuK0GCVBM)        |                                                                     |             |
+| 3月14日  | [EYEZ EYEZ](https://www.youtube.com/watch?v=SH414uNi_u8)            |                                                                     |             |
+| 4月6日   | [Blank](https://www.youtube.com/watch?v=i9B5d5Fm13o)                |                                                                     |             |
+| 4月19日  | [Blank](https://www.youtube.com/watch?v=2eTgtiWP8pI)                | 制服版                                                                 |             |
+| 9月4日   | [不像話 （말도 안돼）](https://www.youtube.com/watch?v=_r7271fr2Zc)          |                                                                     |             |
+| 11月9日  | [记得我（나를 기억해）](https://www.youtube.com/watch?v=SO4UYIeTJ1o)          |                                                                     |             |
+| 12月24日 | [记得我（나를 기억해）](https://www.youtube.com/watch?v=LGUCD0sDs2g)          | 聖誕版                                                                 |             |
+| 2018   | 4月24日                                                               | [记得我（나를 기억해）](https://www.youtube.com/watch?v=el4br_Ied_0)          | REMIX版      |
+| 6月10日  | [俉月哀 （오월애）](https://www.youtube.com/watch?v=-oauPoQ8pRQ)            | 制服版                                                                 |             |
+| 7月25日  | [俉月哀 （오월애）](https://www.youtube.com/watch?v=KBxdxm6VbkY)            | Random Camera版                                                      |             |
+| 2019   | 10月6日                                                               | [GANGSTA](https://www.youtube.com/watch?v=Lkc0Z37_jRc)              | cover dance |
+| 11月10日 | [想念的夜晚 （그리운 밤）](https://www.youtube.com/watch?v=wceMIgzxPtI)        | 私服版                                                                 |             |
+| 11月24日 | [想念的夜晚 (그리운 밤)](https://www.youtube.com/watch?v=RDvUbWuyQtc)        | SUIT版                                                               |             |
 
 ### 專屬影片
 
@@ -328,8 +347,8 @@
 | 日期                |
 | 2015年10月5日-11月10日 |
 | 2019年6月4日- 6月26日  |
-| 2019年9月8日-        |
-| 2019年11月-         |
+| 2019年9月8日-10月17日  |
+| 2019年11月20日-      |
 
 ### 專屬綜藝節目
 
@@ -341,6 +360,7 @@
 | 2016年11月17日-至今   |
 | 2017年5月16日-7月6日  |
 | 2018年4月26日-6月14日 |
+| 2019年11月14日-     |
 
 ### 主持
 
@@ -465,6 +485,18 @@
 <tr class="odd">
 <td><p>8月28日</p></td>
 </tr>
+<tr class="even">
+<td><p>11月6日</p></td>
+</tr>
+<tr class="odd">
+<td><p>11月11日</p></td>
+</tr>
+<tr class="even">
+<td><p>11月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>11月19日</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -498,22 +530,39 @@
 | 6月16日                 |
 | 2019年                 |
 | 9月2日                  |
+| 11月6日、10日             |
+| 11月11日                |
+| 11月12日                |
+| 11月17日                |
+| 11月17日                |
+| 11月19日                |
+| 11月27日                |
+| 11月29日                |
 
 ## 演唱會
 
+### 演唱會
+
+|           |                                  |              |
+| --------- | -------------------------------- | ------------ |
+| 日期        | 活動名稱                             | 舉行地點         |
+| 2020年1月4日 | VICTON 1ST CONCERT \[NEW WORLD\] | OLYMPIC HALL |
+| 2020年1月5日 |                                  |              |
+
 ### 見面會
 
-|                    |                                                        |                                          |    |
-| ------------------ | ------------------------------------------------------ | ---------------------------------------- | -- |
-| 日期                 | 活動名稱                                                   | 舉行地點                                     | 備註 |
-| 2016年11月9日         | 《VICTON DEBUT SHOWCASE 》                               | YES24 LIVE HALL                          |    |
-| 2017年5月2日          | 《HELLO JAPAN\! VICTON 1st SPECIAL LIVE》                | 豐洲PIT                                    |    |
-| 2017年5月27日         | 《VICTON Special Fan Meeting <Welcome to VICTON CLASS>》 | Universal Art Center                     |    |
-| 2017年8月23日         | 《VICTON 3rd MINI ALBUM SHOWCASE <IDENTITY>》            | 梨花女子大學 Samsung Hall                      |    |
-| 2017年11月9日         | 《VICTON 4th Mini Album Showcase \<From.VICTON\>》       | Blue Square Hall                         |    |
-| 2018年4月15日         | 《2018 VICTON Special Fanmeeting in Japan <美好的一天>》      | 東京TFT Hall300                            |    |
-| 2018年11月17日、11月18日 | 《VICTON 1ST FAN MEETING : WELCOME TO WONDERLAND》       | Sogang University Mary Hall              |    |
-| 2019年9月22日         | 《2019 VICTON FANMEETING：VOICE TO ALICE》                | Kwangwoon University Donghae Arts Center |    |
+|                    |                                                        |                                          |
+| ------------------ | ------------------------------------------------------ | ---------------------------------------- |
+| 日期                 | 活動名稱                                                   | 舉行地點                                     |
+| 2016年11月9日         | 《VICTON DEBUT SHOWCASE 》                               | YES24 LIVE HALL                          |
+| 2017年5月2日          | 《HELLO JAPAN\! VICTON 1st SPECIAL LIVE》                | 豐洲PIT                                    |
+| 2017年5月27日         | 《VICTON Special Fan Meeting <Welcome to VICTON CLASS>》 | Universal Art Center                     |
+| 2017年8月23日         | 《VICTON 3rd MINI ALBUM SHOWCASE <IDENTITY>》            | 梨花女子大學 Samsung Hall                      |
+| 2017年11月9日         | 《VICTON 4th Mini Album Showcase \<From.VICTON\>》       | Blue Square Hall                         |
+| 2018年4月15日         | 《2018 VICTON Special Fanmeeting in Japan <美好的一天>》      | 東京TFT Hall300                            |
+| 2018年11月17日、11月18日 | 《VICTON 1ST FAN MEETING : WELCOME TO WONDERLAND》       | Sogang University Mary Hall              |
+| 2019年9月22日         | 《2019 VICTON FANMEETING：VOICE TO ALICE》                | Kwangwoon University Donghae Arts Center |
+| 2019年11月4日         | 《VICTON 5th Mini Album \[nostalgia\] Showcase》         | YES24 LIVE HALL                          |
 
   - VICTON First Europe Tour 2018
 
@@ -528,6 +577,17 @@
 | 2018年9月20日 | 維也納站  | REIGEN LIVE        |
 | 2018年9月22日 | 埃森站   | TUROCK             |
 | 2018年9月23日 | 伊斯坦堡站 | UNIQ HALL          |
+
+  - VICTON 1st ASIA TOUR \[VOICE TO ALICE\]
+
+|             |      |                               |
+| ----------- | ---- | ----------------------------- |
+| 日期          | 站次   | 舉行地點                          |
+| 2019年11月29日 | 東京站  | 府中の森芸術劇場どりーむホール               |
+| 2019年12月1日  | 大阪站  | COOL JAPAN PARK OSAKA WWホール   |
+| 2019年12月8日  | 曼谷站  | GMM Live House, Central World |
+| 2019年12月14日 | 台北站  | 台北國際會議中心                      |
+| 2019年12月21日 | 馬尼拉站 | SKYDOME, SM NORTH EDSA        |
 
 ### 其他公演
 
@@ -550,7 +610,16 @@
 | 2018年10月13日      | 《秋季浪漫音樂會》                                   | 群山青春夜市場                   |                                             |
 | 2018年11月24日      | 《 Posco Concert: Blooming Dreams》           | Posco中心大廳                 |                                             |
 | 2018年12月1日       | 《2018 Melon Music Awards》                   | 首爾高尺 Sky dome             | 許燦以1theK Dance War Team's Special Stage身分參與 |
+| 2019年10月24日      | 《鄭恩地的歌謠廣場 '秋天Kongcert'》                     | Blue Square Imarket Hall  |                                             |
 | 2019年11月1日       | 《2019 Concert Unicorn》                      | 延世大學露天劇場                  |                                             |
+
+## 代言
+
+|             |               |      |      |
+| ----------- | ------------- | ---- | ---- |
+| 年份          | 名稱            | 參與成員 | 備註   |
+| 2019年       | 潔牙用品 JUSTBITE | 全員   | 勝宇除外 |
+| 保養品 Icepray | 秉燦            |      |      |
 
 ## 獎項
 
@@ -600,6 +669,12 @@
 <td><p>俉月哀</p></td>
 </tr>
 <tr class="odd">
+<td><p>2019年</p></td>
+</tr>
+<tr class="even">
+<td><p>Nostalgia</p></td>
+</tr>
+<tr class="odd">
 <td><ul>
 <li>「/」表示未有相關資料</li>
 <li>「(1)」：兩星期冠軍</li>
@@ -621,78 +696,57 @@
 
 ### 偶像明星運動會獎項
 
-|      |                 |         |    |                 |
-| ---- | --------------- | ------- | -- | --------------- |
-| 年份   | 名稱              | 項目      | 獎項 | 參賽成員            |
-| 2017 | 第十三屆偶像明星運動會春節特輯 | 男子田徑60米 | 銅牌 | rowspan= 2 | 勝宇 |
-| 2018 | 第十四屆偶像明星運動會春節特輯 | 男子田徑60米 | 銀牌 |                 |
+|       |                 |         |    |                 |
+| ----- | --------------- | ------- | -- | --------------- |
+| 年份    | 名稱              | 項目      | 獎項 | 參賽成員            |
+| 2017年 | 第十三屆偶像明星運動會春節特輯 | 男子田徑60米 | 銅牌 | rowspan= 2 | 勝宇 |
+| 2018年 | 第十四屆偶像明星運動會春節特輯 | 男子田徑60米 | 銀牌 |                 |
+
+### 頒獎典禮獎項
+
+|       |                                           |
+| ----- | ----------------------------------------- |
+| 年份    | 獎項                                        |
+| 2017年 | 2017 MAXIM K-MODEL AWARDS 【Model tainer賞】 |
 
 ## 參考資料
 
 ## 外部連結
 
-  - [VICTON](http://play-m.co.kr/victon)官方網站
-  - [VICTON](https://twitter.com/VICTON1109)官方Twitter
-  - [VICTON](https://twitter.com/NewWorld_VICTON)成員Twitter
-  - [VICTON](https://www.facebook.com/VICTON1109)官方Facebook
-  - [VICTON](https://www.instagram.com/victon1109/)官方Instagram
-  - [VICTON](https://www.youtube.com/channel/UCQ7a83KJBE7w_txsT7VaJ8g/videos)官方Youtube
-  - [VICTON](https://channels.vlive.tv/ECB24F/home)官方Vlive
-  - [VICTON](http://cafe.daum.net/PlanAboys/)官方Fan Club
+  - [VICTON的官方網站](http://play-m.co.kr/victon)
+  - [VICTON的官方Twitter](https://twitter.com/VICTON1109)
+  - [VICTON的官方Facebook](https://www.facebook.com/VICTON1109)
+  - [VICTON的官方Instagram](https://www.instagram.com/victon1109/)
+  - [VICTON的官方Youtube](https://www.youtube.com/channel/UCQ7a83KJBE7w_txsT7VaJ8g/videos)
+  - [崔秉燦的官方Instagram帳戶](https://www.instagram.com/_c.b.c_1112/)
 
 [Category:Plan_A娛樂](https://zh.wikipedia.org/wiki/Category:Plan_A娛樂 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink") [Category:VICTON](https://zh.wikipedia.org/wiki/Category:VICTON "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.   Facebook|url=[https://m.facebook.com/notes/plana/%EB%B9%85%ED%86%A4-%EA%B3%B5%EC%8B%9D-%ED%8C%AC%ED%81%B4%EB%9F%BD-%EC%83%9D%EA%B2%BC%EB%8B%A4-%EC%9D%B4%EB%A6%84%EC%9D%80-%EC%95%A8%EB%A6%AC%EC%8A%A4/1243802902363429|accessdate=2019-09-20|work=m.facebook.com](https://m.facebook.com/notes/plana/%EB%B9%85%ED%86%A4-%EA%B3%B5%EC%8B%9D-%ED%8C%AC%ED%81%B4%EB%9F%BD-%EC%83%9D%EA%B2%BC%EB%8B%A4-%EC%9D%B4%EB%A6%84%EC%9D%80-%EC%95%A8%EB%A6%AC%EC%8A%A4/1243802902363429%7Caccessdate=2019-09-20%7Cwork=m.facebook.com)}}
-
 5.
-
 6.
-
 7.   allkpop.com|newspaper=allkpop|access-date=2016-11-12}}
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
-
 14.
-
 15.
-
 16. 成員本名已在官咖正名。
-
 17. 2016年銷量:14,947+ ; 2019年銷量:1,127 (2019/08月榜紀錄)
-
 18. 2017年銷量:27,395+ ; 2019年銷量:837 (2019/08月榜紀錄)
-
 19. 2017年銷量:21,371+ ; 2019年銷量:797 (2019/08月榜紀錄)
-
 20. 2017年銷量:13,419+ ; 2019年銷量:1,298 (2019/08月榜紀錄)
-
-21. 2018年銷量:18,015+ ; 2019年銷量:1,508 (2019/08月榜紀錄)
-
+21. 2018年銷量:18,015+ ; 2019年銷量:2,699 (2019/10月榜紀錄)
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.

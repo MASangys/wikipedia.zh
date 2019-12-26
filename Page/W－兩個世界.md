@@ -161,7 +161,7 @@
 <td><p>吉秀善</p></td>
 <td><p>54歲，吳妍珠的媽媽。</p></td>
 <td><p><a href="../Page/蔣篤慧.md" title="wikilink">蔣篤慧</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃綺婷" title="wikilink">黃綺婷</a></p></td>
+<td><p><a href="../Page/王綺婷.md" title="wikilink">王綺婷</a></p></td>
 <td><p>2-3、5-9、13、16</p></td>
 </tr>
 <tr class="even">
@@ -733,7 +733,7 @@
   -
   - [CHOCO TV免費追](https://www.chocotv.com.tw/drama/4304/1)
 
-[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:虚构书籍](https://zh.wikipedia.org/wiki/Category:虚构书籍 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:星空傳媒(台灣)電視外購韓劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購韓劇 "wikilink") [Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink") [Category:緯來電視外購韓劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購韓劇 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:2016年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2016年韓國電視劇集 "wikilink") [Category:虚构书籍](https://zh.wikipedia.org/wiki/Category:虚构书籍 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:星空傳媒(台灣)電視外購韓劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購韓劇 "wikilink") [Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink") [Category:緯來電視外購韓劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購韓劇 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink")
 
 1.  [MBC官方劇集介紹手冊](http://content.mbc.co.kr/program/drama/__icsFiles/afieldfile/2016/08/12/W_LEAFLET.pdf)
 2.  [李鍾碩、韓孝周確定出演MBC新劇《W》 將接檔《好運羅曼史》](http://www.koreastardaily.com/tc/news/75968) 韓星網

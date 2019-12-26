@@ -4,7 +4,7 @@
 
 2012年，粉红点首次在夜间进行，以手中的灯光形成粉红色的灯海，有1万5000人出席了该场集会\[8\]；接下来的3年也是在夜间举办\[9\]\[10\]。2016年，主办方决定发放5000个粉红色标语牌给新加坡公民与永久居民出席者，让他们写下想说的话\[11\]。
 
-新加坡粉红点的成功引发世界其他地区，如香港、台湾、日本[冲绳](https://zh.wikipedia.org/wiki/冲绳 "wikilink")\[12\]等等，仿效这个概念，主办类似的活动。香港主办方将活动的中文名称定为“**一点粉红**”，2014年开始在[添马公园举办](https://zh.wikipedia.org/wiki/添马公园 "wikilink")，2016年迈入第三个年头，主办方将活动主题定为“爱必胜”并改在[西九苗圃公園举行](https://zh.wikipedia.org/wiki/西九文化区 "wikilink")，吸引逾万人出席\[13\]\[14\]\[15\]。台湾台北华山[中央艺文公园则在](https://zh.wikipedia.org/wiki/中央艺文公园 "wikilink")2015年举行首届粉红点，以“异同靠近点，野餐粉红点”作为主题\[16\]。
+新加坡粉红点的成功引发世界其他地区，如香港、台湾、琉球\[12\]等等，仿效这个概念，主办类似的活动。香港主办方将活动的中文名称定为“**一点粉红**”，2014年开始在[添马公园举办](https://zh.wikipedia.org/wiki/添马公园 "wikilink")，2016年迈入第三个年头，主办方将活动主题定为“爱必胜”并改在[西九苗圃公園举行](https://zh.wikipedia.org/wiki/西九文化区 "wikilink")，吸引逾万人出席\[13\]\[14\]\[15\]。台湾台北华山[中央艺文公园则在](https://zh.wikipedia.org/wiki/中央艺文公园 "wikilink")2015年举行首届粉红点，以“异同靠近点，野餐粉红点”作为主题\[16\]。
 
 近年来，粉红点遭到[基督教](../Page/基督教.md "wikilink")、[回教等宗教团体的反击](https://zh.wikipedia.org/wiki/回教 "wikilink")。2014年的粉红点当晚巧遇回教[斋戒月的开始](https://zh.wikipedia.org/wiki/斋戒月 "wikilink")，回教徒发起「穿白衣运动」抵制该活动，[坚信浸信教会的](https://zh.wikipedia.org/wiki/坚信浸信教会 "wikilink")[邝健雄牧师也响应号召](https://zh.wikipedia.org/wiki/邝健雄 "wikilink")，呼吁基督徒在粉红点当天身着白色，维护“传统家庭”\[17\]\[18\]。这导致主办方首次需要驻守保安人员以维持秩序\[19\]。在接下来两年的粉红点，邝健雄继续号召基督徒穿白衣出席[礼拜](../Page/礼拜.md "wikilink")\[20\]\[21\]\[22\]。
 
@@ -158,76 +158,45 @@
 [Category:2009年建立的週期性事件](https://zh.wikipedia.org/wiki/Category:2009年建立的週期性事件 "wikilink")
 
 1.  〈[新加坡举办粉红点集会活动](http://www.zaobao.com.sg/media/video/story20130630-222433)〉，《[联合早报](../Page/联合早报.md "wikilink")》，2013年6月30日。
-
 2.  [About Pink Dot SG](http://pinkdot.sg/about-pink-dot/)
-
 3.
-
 4.  .
-
 5.  .
-
 6.  [Frequently asked questions](http://pinkdot.sg/about-pink-dot/faq-general/)
-
 7.  [Varsity students to launch independent LGBT network](http://www.todayonline.com/singapore/varsity-students-launch-independent-lgbt-network?singlepage=true), TODAY, 8 May 2015.
-
 8.  [More Than 15,000 Singaporeans at Pink Dot 2012\!](http://pinkdot.sg/more-than-15000-singaporeans-at-pink-dot-2012/), Pink Dot SG, 30 June 2012
-
 9.  〈[支持恋爱自由 新加坡“粉红点”创2万1千人新纪录](http://sg.xinhuanet.com/2013-06/30/c_124932117.htm)〉，新华网，2013年6月30日。
-
 10. [Placards to replace torch lights at annual LGBT event Pink Dot on June 4](http://www.straitstimes.com/singapore/placards-to-replace-torch-lights-at-annual-lgbt-event-pink-dot-on-june-4), The Straits Times, 21 April 2016.
-
 11.
 12. [Japan Inc. tiptoes onto LGBT bandwagon](http://www.japantimes.co.jp/news/2016/07/28/national/social-issues/japan-inc-tiptoes-onto-lgbt-bandwagon/#.V-8NK4h97cc), The Japan Times, 28 July 2016.
-
 13. [Love is love: Over 10,000 attend Hong Kong’s Pink Dot LGBT diversity and equality carnival](https://www.hongkongfp.com/2016/09/25/love-is-love-over-10000-attend-hong-kongs-pink-dot-lgbt-diversity-and-equality-carnival/), Hong Kong Free Press, 25 September 2016.
-
 14. 〈[周一嶽陳章明現身同志活動「一點粉紅」　齊撐同性婚姻](http://www.thestandnews.com/lgbtq/%E4%B8%80%E9%BB%9E%E7%B2%89%E7%B4%85-%E4%BB%8A%E8%88%89%E8%A1%8C-%E5%91%A8%E4%B8%80%E5%B6%BD%E9%99%B3%E7%AB%A0%E6%98%8E%E5%90%8C%E5%8F%B0%E6%92%90%E5%90%8C%E6%80%A7%E5%A9%9A%E5%A7%BB/)〉，立场新闻，2016年9月25日。
-
 15. [Everything You Need To Know About Pink Dot 2016](https://hk-magazine.com/whats-on/specials/family-activities/19483/everything-you-need-know-about-pink-dot-2016), HK Magazine, retrieved 1 October 2016.
-
 16. 〈[化解同志性別霸凌　台第１屆粉紅點華山翻轉歧視](http://tw.on.cc/tw/bkn/cnt/news/20150602/bkntw-20150602020035762-0602_04011_001.html)〉，东网即时，2015年6月2日。
-
 17. [26,000 turn up for annual LGBT rally at Hong Lim Park: Pink Dot spokesman](http://www.straitstimes.com/singapore/26000-turn-up-for-annual-lgbt-rally-at-hong-lim-park-pink-dot-spokesman), The Straits Times, 28 June 2014.
-
 18. 〈[“粉红色”聚会人数剧增 “穿白”运动相对受冷落](http://www.zaobao.com.sg/special/outline/story20140629-360310)〉，《联合早报》，2014年6月29日。
-
 19.
 20. [Christians to don white for services as Hong Lim Park hosts Pink Dot](http://www.straitstimes.com/singapore/christians-to-don-white-for-services-as-hong-lim-park-hosts-pink-dot), The Straits Times, 12 June 2015.
-
 21. [Pastor Lawrence Khong: ‘We will wear white until the pink is gone’](http://mothership.sg/2015/06/pastor-lawrence-khong-we-will-wear-white-until-the-pink-is-gone/), Mothership, 14 June 2015.
-
 22. [‘Traditional values’ wear white campaign returning on Pink Dot weekend](http://www.todayonline.com/singapore/network-churches-revives-campaign-wear-white-pink-dot-weekend), TODAY, 23 May 2016.
-
 23.
 24. [Foreign groups warned against interfering in local politics](http://www.todayonline.com/singapore/gov-make-clear-foreign-entities-should-not-support-events-concerning-domestic-issues-amid), TODAY, 7 June 2016.
-
 25. 〈[内政部：外国机构不应赞助粉红点等演说者角落活动](http://www.channel8news.sg/news8/singapore/20160607-sg-mha/2852816.html)〉，8频道新闻及时事节目，2016年6月7日。
-
 26. [Full capacity: 20,000 S’poreans & PR show up for Pink Dot 2017](https://mothership.sg/2017/07/full-capacity-20000-sporeans-pr-show-up-for-pink-dot-2017/), Mothership, 2 July 2017.
-
 27. [Court of Appeal rules that Section 377A that criminalises sex between men is constitutional](http://www.straitstimes.com/singapore/courts-crime/court-of-appeal-rules-that-section-377a-that-criminalises-sex-between-men-is), The Straits Times, 29 October 2014.
-
 28. 〈[人權組織譴責新加坡法院同性戀裁決](http://www.bbc.com/zhongwen/trad/world/2014/10/141030_singapore_gay_court)〉，BBC，2014年10月30日。
-
 29. [Recognised legally, but challenges remain](http://www.straitstimes.com/singapore/recognised-legally-but-challenges-remain), The Straits Times, 19 September 2016.
-
 30. \[<http://statutes.agc.gov.sg/aol/search/display/view.w3p;ident=e84195b9-a923-4c69-86de-36b316699b17;page=0;query=DocId%3A%22f0897dd7-1f3a-45a9-b1e7-ba30fef2dbba%22%20Status%3Ainforce%20Depth%3A0;rec=0#pr9-he->. 《妇女宪章》第9条\]
-
 31.
 32.
 33.
 34.
 35. [Make Your Own Pink Dot](http://pinkdot.sg/make-your-own-pink-dot/)
-
 36. [Singapore fashion store launches Pink Dot capsule collection](http://www.gaystarnews.com/article/singapore-fashion-pink-dot-collection/#gs.qAsViWU), Gay Star News, 5 May 2016.
-
 37. [How can a pink dot change society?](http://www.gaystarnews.com/article/how-can-pink-dot-change-society071212/#gs.2U6dcls), Gay Star News, 7 December 2012.
-
 38.
 39.
 40. [Pink Dot 2016: Corporate Sponsors](http://pinkdot.sg/2016-corporate-sponsors/)
-
 41.
 42.
 43.

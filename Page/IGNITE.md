@@ -83,21 +83,13 @@ IGNITE的主題是「勇氣」與「再生」，以受精神創傷帶來的恐�
 [Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:電視動畫主題曲](https://zh.wikipedia.org/wiki/Category:電視動畫主題曲 "wikilink") [Category:2014年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2014年Japan_Hot_100冠軍歌曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink") [Category:藍井艾露歌曲](https://zh.wikipedia.org/wiki/Category:藍井艾露歌曲 "wikilink") [Category:刀剑神域](https://zh.wikipedia.org/wiki/Category:刀剑神域 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.

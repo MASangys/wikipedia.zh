@@ -207,9 +207,9 @@
 <li>唱片公司：<a href="https://zh.wikipedia.org/wiki/JYP_Entertainment" title="wikilink">JYP Entertainment</a></li>
 <li>發行公司：KT Music</li>
 </ul></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>6</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -365,7 +365,7 @@
 <td><p>3</p></td>
 <td><p>2</p></td>
 <td><ul>
-<li>KOR: 1,958,845+ <ref>Cumulative sales of "TT":</li>
+<li>KOR: 2,500,000+ <ref>Cumulative sales of "TT":</li>
 <li></li>
 <li></li>
 <li></li>
@@ -391,7 +391,7 @@
 <td><p>4</p></td>
 <td><p>3</p></td>
 <td><ul>
-<li>KOR: 1,065,766+ <ref>Cumulative sales for "SIGNAL":</li>
+<li>KOR: 1,250,964+ <ref>Cumulative sales for "SIGNAL":</li>
 <li></li>
 <li></li>
 <li></li>
@@ -416,6 +416,40 @@
 <td><p>2</p></td>
 <td><ul>
 <li>KOR: 376,885+</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>What is Love?</p></td>
+<td><p>2018</p></td>
+<td><p>1</p></td>
+<td><p>6</p></td>
+<td><p>3</p></td>
+</tr>
+<tr class="even">
+<td><p>Dance the Night Away</p></td>
+<td><p>1</p></td>
+<td><p>5</p></td>
+<td><p>2</p></td>
+<td><ul>
+<li>KOR: 2,500,000+</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>Yes or Yes</p></td>
+<td><p>1</p></td>
+<td><p>5</p></td>
+<td><p>5</p></td>
+<td><ul>
+<li>KOR:</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>The Best Thing I Ever Did</p></td>
+<td><p>27</p></td>
+<td><p>67</p></td>
+<td><p>17</p></td>
+<td><ul>
+<li>KOR:</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -1016,7 +1050,7 @@
 </ul></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
-<td></td>
+<td><p>4</p></td>
 </tr>
 <tr class="even">
 <td><p>5rd</p></td>
@@ -1027,8 +1061,8 @@
 <li>發行公司：Warner Music Japan</li>
 </ul></td>
 <td><p>1</p></td>
-<td></td>
-<td></td>
+<td><p>2</p></td>
+<td><p>5</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -1328,6 +1362,48 @@
 <td><p>彩瑛</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年9月23日</p></td>
+<td><p>RAINBOW</p></td>
+<td><p>《<a href="../Page/Feel_Special.md" title="wikilink">Feel Special</a>》</p></td>
+<td><p>娜璉</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>GET LOUD</p></td>
+<td><p>志效</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>TRICK IT</p></td>
+<td><p>多賢</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>LOVE FOOLISH</p></td>
+<td><p>Momo</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>21:29</p></td>
+<td><p>全體</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月20日</p></td>
+<td><p>How u doin'</p></td>
+<td><p>《<a href="../Page/&amp;TWICE.md" title="wikilink">&amp;TWICE</a>》</p></td>
+<td><p>彩瑛</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -1349,7 +1425,6 @@
 [Category:TWICE](https://zh.wikipedia.org/wiki/Category:TWICE "wikilink") [Category:韩国音乐作品列表](https://zh.wikipedia.org/wiki/Category:韩国音乐作品列表 "wikilink")
 
 1.
-
 2.
 3.
 4.

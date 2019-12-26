@@ -312,12 +312,12 @@ OFF：J-US</p></td>
 1.  [Jobkorea](http://www.jobkorea.co.kr/Recruit/Co_Read/C/wment1?Oem_Code=C1)
 2.  [B1A4 회사있는 망원역 상권 활활](http://www.asiatoday.co.kr/view.php?key=20150909010006049)
 3.  [넓어지는 홍대 상권, 합정·연남동 넘어 망원·성산동까지 '들썩'](http://m.news.naver.com/read.nhn?mode=LSD&mid=sec&sid1=101&oid=015&aid=0003197936)
-4.  [振永驚人的創作能力！](http://kpopn.niusnews.com/=K0t8t281)
-5.  [중소기획사 출신 B1A4이 성공 방식(中小型經紀公司出身，B1A4的成功方式)](https://storyfunding.daum.net/episode/440?page=1)
-6.  [Oh My Girl 新曲12星座編舞引話題](http://kpopn.com/2015/10/12/306857/)
+4.
+5.
+6.
 7.  [WM Entertainment試鏡](http://www.wment.co.kr/?c=user&mcd=wmc001&PHPSESSID=7dacfab50ed11b5524b4f41b28cb78f2)
 8.  [WM Store](http://www.wmstore.co.kr/)
-9.  [B1A4 將正式在日本出道](http://kpopn.com/2012/04/20/118500/)
+9.
 10.
 11. [WM Entertainment announces B1A4′s World Tour\!](http://www.kpopnew.com/wm-entertainment-announces-b1a4%E2%80%B2s-world-tour)
 12. [WM Entertainment Issues Statement In Response To B1A4's Malaysian Fan Meeting Controversy](http://www.kpopstarz.com/articles/163266/20150113/wm-entertainment-issues-statement-in-response-to-b1a4s-malaysian-fan-meeting-controversy.htm)
@@ -325,6 +325,6 @@ OFF：J-US</p></td>
 14. [WM Entertainment全國選秀](http://worldkschool.com/bbs/board.php?bo_table=sub06_05&wr_id=56)
 15. [B1A4 공찬, ‘공찬식 전시회’ 개최 ‘눈길’](http://tenasia.hankyung.com/archives/631701)
 16. [B1A4出演韓來之星第二季第六期](http://yule.sohu.com/20151118/n426877141.shtml)
-17. [Oh My Girl 11/18 訪港過聖誕](http://kpopn.com/2015/11/12/316146/)
+17.
 18.
-19. [WM Ent. 將對散佈惡評者採取法律行動](http://kpopn.niusnews.com/=K3ffups0)
+19.

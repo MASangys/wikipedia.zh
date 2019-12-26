@@ -82,22 +82,13 @@
 
 1.
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.  Martin (2006) *Under the Loving Care of the Fatherly Leader*, p. 521
-
 9.
-
 10. Meyers, Brian R. **. Melville House Publishing, 2010, chapter 5
-
 11.
-
 12.

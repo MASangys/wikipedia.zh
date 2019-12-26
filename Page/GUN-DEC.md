@@ -30,10 +30,7 @@
 [Category:1991年電子遊戲](https://zh.wikipedia.org/wiki/Category:1991年電子遊戲 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:警察主角題材作品](https://zh.wikipedia.org/wiki/Category:警察主角題材作品 "wikilink")
 
 1.  [ガンデック](https://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=19812)[ファミ通.com](https://zh.wikipedia.org/wiki/ファミ通.com "wikilink")
-
 2.  [Vice: Project Doom](http://www.ign.com/games/vice-project-doom/nes-6974)[IGN](../Page/IGN.md "wikilink")
-
 3.  [GUN-DEC](http://www.ne.jp/asahi/hzk/kommander/rvgund.html)GAME KOMMANDER
-
 4.
 5.  [47. Vice: Project Doom](http://www.ign.com/top-100-nes-games/47.html)IGN

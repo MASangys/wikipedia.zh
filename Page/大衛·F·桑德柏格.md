@@ -36,17 +36,10 @@
 [Category:1985年出生](https://zh.wikipedia.org/wiki/Category:1985年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:瑞典电影导演](https://zh.wikipedia.org/wiki/Category:瑞典电影导演 "wikilink") [Category:瑞典电影监制](https://zh.wikipedia.org/wiki/Category:瑞典电影监制 "wikilink") [Category:瑞典编剧](https://zh.wikipedia.org/wiki/Category:瑞典编剧 "wikilink") [Category:延雪平人](https://zh.wikipedia.org/wiki/Category:延雪平人 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.

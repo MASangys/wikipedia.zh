@@ -13,12 +13,12 @@
 |                                  |             |        |        |
 | -------------------------------- | ----------- | ------ | ------ |
 | **藝名**                           | **原名（排灣語）** | **位置** | **生日** |
-| [葛西瓦](../Page/葛西瓦.md "wikilink") | KASIWA      | 主唱     | 07/13  |
-| 好樂迪                              | JALJAN      | 主唱     | 10/17  |
-| 阿六                               | LUWA        | 電吉他    | 06/23  |
-| 曉明                               | KULELE      | 電吉他    | 02/15  |
-| 洛克斯                              | RUKUC       | 貝斯     | 02/02  |
-| 曉龍                               | MUDI        | 鼓手     | 12/03  |
+| [葛西瓦](../Page/葛西瓦.md "wikilink") | Kasiwa      | 主唱     | 07/13  |
+| 好樂迪                              | Jaljan      | 主唱     | 10/17  |
+| 阿六                               | Luwa        | 電吉他    | 06/23  |
+| 曉明                               | Kuljelje    | 電吉他    | 02/15  |
+| 洛克斯                              | Rukuc       | 貝斯     | 02/02  |
+| 曉龍                               | Mudi        | 鼓手     | 12/03  |
 
 ## 音樂作品
 
@@ -163,6 +163,7 @@
 
   - [Boxing（拳）](https://www.facebook.com/Boxing6/)
 
+  -
 [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink") [Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink") [Category:台灣搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣搖滾樂團 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:台灣流行搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣流行搖滾樂團 "wikilink")
 
 1.

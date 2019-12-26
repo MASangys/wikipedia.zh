@@ -192,29 +192,20 @@ U12女︰[尖山國小](https://zh.wikipedia.org/wiki/尖山國小 "wikilink") |
 [Category:台灣足球賽事](https://zh.wikipedia.org/wiki/Category:台灣足球賽事 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.
-
 11.
 12.
-
 13.
 14.
-
 15.
 16.
-
 17.
 18.

@@ -118,7 +118,7 @@ ROQF 75mm 坦克炮主要裝備於[邱吉爾坦克及](https://zh.wikipedia.org/
 ## 外部連結
 
   - [Britwar.co.uk](http://www.britwar.co.uk/files/phatfile/WW2pen14May02.PDF)
-  - [WWIIVehicles.com](http://www.wwiivehicles.com/unitedkingdom/penetration-tables.asp)
+  - [WWIIVehicles.com](https://web.archive.org/web/20140627062404/http://wwiivehicles.com/unitedkingdom/penetration-tables.asp)
   - [Miniatures.de](https://web.archive.org/web/20050325070631/http://www.miniatures.de/html/int/shells-british.html)
 
 [Category:戰車炮](https://zh.wikipedia.org/wiki/Category:戰車炮 "wikilink") [Category:75毫米火炮](https://zh.wikipedia.org/wiki/Category:75毫米火炮 "wikilink")

@@ -20,36 +20,44 @@ Source Music於2009年11月17日，由蘇成鎮（소성진）成立。
 
 ## 現有藝人
 
+  - **粗體字**為隊長
+
 ### 組合
 
-<table>
+<table style="width:175%;">
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 50%" />
+<col style="width: 25%" />
+<col style="width: 50%" />
+<col style="width: 10%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>出道日期</p></th>
+<th><p>組合名稱</p></th>
+<th><p>性別</p></th>
+<th><p>成員</p></th>
+<th><p>狀況</p></th>
+<th><p>粉絲名稱</p></th>
+<th><p>應援顏色</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td><p>出道日期</p></td>
-<td><p>組合名稱</p></td>
-<td><p>性別</p></td>
-<td><p>成員</p></td>
-<td><p>隊長</p></td>
-<td><p>狀況</p></td>
-<td><p>粉絲名稱</p></td>
-<td><p>應援顏色</p></td>
-</tr>
-<tr class="even">
-<td><p>2015年</p></td>
+<td><p>2015年1月16日</p></td>
 <td><p><a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/女" title="wikilink">女</a></p></td>
-<td><p><a href="../Page/Sowon.md" title="wikilink">Sowon</a>、<a href="../Page/Yerin.md" title="wikilink">Yerin</a><br />
-<a href="../Page/Eunha.md" title="wikilink">Eunha</a>、<a href="../Page/Yuju.md" title="wikilink">Yuju</a><br />
-<a href="../Page/SinB.md" title="wikilink">SinB</a>、<a href="../Page/Umji.md" title="wikilink">Umji</a></p></td>
-<td><p><a href="../Page/Sowon.md" title="wikilink">Sowon</a></p></td>
+<td><p><a href="../Page/Sowon.md" title="wikilink">所願</a>、<a href="../Page/Yerin.md" title="wikilink">睿隣</a>、<a href="../Page/Eunha.md" title="wikilink">銀河</a>、<a href="../Page/Yuju.md" title="wikilink">裕株</a>、<a href="../Page/SinB.md" title="wikilink">信飛</a>、<a href="../Page/Umji.md" title="wikilink">嚴智</a></p></td>
 <td><p>活動中</p></td>
 <td><p>Buddy</p></td>
 <td><p>「彩通11-4201 雲白色」<br />
 「彩通16-4725 水藍色」<br />
 「彩通18-3838 紫外光」</p></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -63,9 +71,8 @@ Source Music於2009年11月17日，由蘇成鎮（소성진）成立。
 
 ### SOLO
 
-|       |                                  |    |     |
-| ----- | -------------------------------- | -- | --- |
 | 出道日期  | 名稱                               | 性別 | 狀況  |
+| ----- | -------------------------------- | -- | --- |
 | 1997年 | [簡美妍](../Page/簡美妍.md "wikilink") | 女  | 活動中 |
 |       |                                  |    |     |
 

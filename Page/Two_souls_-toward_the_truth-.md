@@ -38,5 +38,4 @@
 [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:NBC環球娛樂歌曲](https://zh.wikipedia.org/wiki/Category:NBC環球娛樂歌曲 "wikilink") [Category:電視動畫主題曲](https://zh.wikipedia.org/wiki/Category:電視動畫主題曲 "wikilink")
 
 1.
-
 2.

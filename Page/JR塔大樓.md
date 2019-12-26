@@ -2,6 +2,6 @@
 
 ## 參考資料
 
-[Category:中央區_(札幌市)](https://zh.wikipedia.org/wiki/Category:中央區_\(札幌市\) "wikilink") [Category:日本摩天大樓](https://zh.wikipedia.org/wiki/Category:日本摩天大樓 "wikilink") [Category:札幌市建築物](https://zh.wikipedia.org/wiki/Category:札幌市建築物 "wikilink") [Category:日本鐵路車站建築](https://zh.wikipedia.org/wiki/Category:日本鐵路車站建築 "wikilink")
+[Category:中央區_(札幌市)](https://zh.wikipedia.org/wiki/Category:中央區_\(札幌市\) "wikilink") [Category:日本摩天大樓](https://zh.wikipedia.org/wiki/Category:日本摩天大樓 "wikilink") [Category:札幌市建築物](https://zh.wikipedia.org/wiki/Category:札幌市建築物 "wikilink") [Category:日本鐵路車站建築](https://zh.wikipedia.org/wiki/Category:日本鐵路車站建築 "wikilink") [Category:札幌市旅遊景點](https://zh.wikipedia.org/wiki/Category:札幌市旅遊景點 "wikilink")
 
 1.  [JR Tower outline](http://www.jr-tower.com/aboutJRT/outline.html)

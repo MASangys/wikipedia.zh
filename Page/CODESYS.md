@@ -4,6 +4,8 @@ CODESYS是由位在德國[肯普滕的軟體公司](https://zh.wikipedia.org/wik
 
 2016年8月時，因為台灣[研華科技產品所使用的CODESYS軟體被](https://zh.wikipedia.org/wiki/研華公司 "wikilink")[洛克威爾自動化公司](../Page/洛克威爾自動化公司.md "wikilink")認定專利侵權，因此在美國指控研華科技及3S-Smart Software Solutions公司侵害其8項美國專利\[2\]。
 
+ABBBachmann,IFM易福门,EPEC派芬,HOLLYSYS和利时,intercontrol的PROSYD1131，赫思曼公司iFlex 系列、力士乐的RC系列，TT control 公司TTC系列 \[1\] 控制器等PLC厂家都是使用Codesys平台开发自己的编程软件的。 中国首家采用codesys平台的国产PLC 禾晟微电子科技 HSC C4系列控制器也已大批量产业应用。
+
 ## 參考資料
 
 ## 相關條目
@@ -16,6 +18,8 @@ CODESYS是由位在德國[肯普滕的軟體公司](https://zh.wikipedia.org/wik
 ## 外部連結
 
   -
+  - <http://www.hicodesys.com/> 酷德网 - CoDeSys软件教程下载,CoDeSys工控资讯论坛
+
   - <http://www.oscat.de/> OpenSource library for version 2 and 3 of CODESYS
 
   - [YouTube playlist](https://www.youtube.com/playlist?list=PL59Y6KWIp-DfG4i0vU9gyKVKQAAF6A08C) A list of short tutorials for learning PLC programming using CODESYS

@@ -1,4 +1,4 @@
-**Ferret 50**是一枝由[美国](../Page/美国.md "wikilink")槍械製造公司蜘蛛武器公司所研製及生產的競爭射擊和遠距離狩獵用途單發、、[手動枪机式大口徑重型](https://zh.wikipedia.org/wiki/手動槍機#旋轉後拉式槍機 "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")），發射[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50 BMG）[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")、、[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**Ferret 50**是一款由[美国](../Page/美国.md "wikilink")槍械製造公司蜘蛛武器公司所研製及生產的競爭射擊和遠距離狩獵用途單發、、[手動枪机式大口徑重型](https://zh.wikipedia.org/wiki/手動槍機#旋轉後拉式槍機 "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")），發射[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50 BMG）[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")、、[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 概述
 
@@ -30,12 +30,12 @@ Ferret 50的另一個版本是**運動員型**（Sportsman）。這簡直就是�
   - [Grizzly Big Boar](https://zh.wikipedia.org/wiki/Grizzly_Big_Boar狙擊步槍 "wikilink")
   - [OM 50](../Page/OM_50復仇女神狙擊步槍.md "wikilink")
   - [麥克米蘭TAC-50](../Page/TAC-50狙擊步槍.md "wikilink")
-  - [風行者M96](../Page/風行者M96狙擊步槍.md "wikilink")
   - [羅巴爾RC-50](../Page/羅巴爾RC-50狙擊步槍.md "wikilink")
   - [斯泰爾HS .50](../Page/斯泰爾HS_.50狙擊步槍.md "wikilink")
   - [風行者M96](../Page/風行者M96狙擊步槍.md "wikilink")
   - [XADO Snipex](https://zh.wikipedia.org/wiki/XADO_Snipex狙擊步槍 "wikilink")
   - [扎斯塔瓦M93“黑箭”](../Page/扎斯塔瓦M93黑箭狙擊步槍.md "wikilink")
+  - [扎斯塔瓦M12“黑矛”](../Page/扎斯塔瓦M12黑矛狙擊步槍.md "wikilink")
 
 ## 參考文獻
 
@@ -58,4 +58,4 @@ Ferret 50的另一個版本是**運動員型**（Sportsman）。這簡直就是�
       - [Fifty Spotlight – Spider Firearms Ferret .50](http://www.tactical-life.com/firearms/fifty-spotlight-ferret-50/#ferret50-23)
       - [The Dirty Dozen: Today’s Top 12 .50 BMG Rifles](http://www.tactical-life.com/firearms/todays-top-12-50-bmg-rifles/3/)
 
-[Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙击步枪](https://zh.wikipedia.org/wiki/Category:狙击步枪 "wikilink") [Category:反器材步槍](https://zh.wikipedia.org/wiki/Category:反器材步槍 "wikilink") [Category:單發狙擊步槍](https://zh.wikipedia.org/wiki/Category:單發狙擊步槍 "wikilink") [Category:12.7×99毫米槍械](https://zh.wikipedia.org/wiki/Category:12.7×99毫米槍械 "wikilink") [Category:12.7毫米狙擊步槍](https://zh.wikipedia.org/wiki/Category:12.7毫米狙擊步槍 "wikilink") [Category:.408_CheyTac口徑槍械](https://zh.wikipedia.org/wiki/Category:.408_CheyTac口徑槍械 "wikilink") [Category:.338_Lapua_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.338_Lapua_Magnum口徑槍械 "wikilink") [Category:美國狙擊步槍](https://zh.wikipedia.org/wiki/Category:美國狙擊步槍 "wikilink")
+[Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙击步枪](https://zh.wikipedia.org/wiki/Category:狙击步枪 "wikilink") [Category:反器材步槍](https://zh.wikipedia.org/wiki/Category:反器材步槍 "wikilink") [Category:單發栓動式步槍](https://zh.wikipedia.org/wiki/Category:單發栓動式步槍 "wikilink") [Category:12.7×99毫米槍械](https://zh.wikipedia.org/wiki/Category:12.7×99毫米槍械 "wikilink") [Category:12.7毫米狙擊步槍](https://zh.wikipedia.org/wiki/Category:12.7毫米狙擊步槍 "wikilink") [Category:.408_CheyTac口徑槍械](https://zh.wikipedia.org/wiki/Category:.408_CheyTac口徑槍械 "wikilink") [Category:.338_Lapua_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.338_Lapua_Magnum口徑槍械 "wikilink") [Category:美國狙擊步槍](https://zh.wikipedia.org/wiki/Category:美國狙擊步槍 "wikilink")

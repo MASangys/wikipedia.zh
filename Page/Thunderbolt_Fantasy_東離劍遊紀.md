@@ -1,6 +1,6 @@
-《**Thunderbolt Fantasy 東離劍遊紀**》是一部由[臺灣](../Page/臺灣.md "wikilink")和[日本](../Page/日本.md "wikilink")雙方合作的[奇幻](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[武俠](https://zh.wikipedia.org/wiki/武俠 "wikilink")[布袋戲](../Page/布袋戲.md "wikilink")偶電視劇集作品。劇本由日本編劇[虛淵玄](../Page/虛淵玄.md "wikilink")撰寫，布袋戲劇由臺灣[霹靂布袋戲](../Page/霹靂布袋戲.md "wikilink")製作，劇名由霹靂的黃強華董事長命名。\[1\]本作是[布袋戲](../Page/布袋戲.md "wikilink")此一傳統藝術首次進行臺灣及日本跨界合作的作品。自2016年7月8日起在日本首播，並由[巴哈姆特動畫瘋與](../Page/巴哈姆特電玩資訊站.md "wikilink")[愛奇藝臺灣站](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")、[哔哩哔哩及](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink")[Crunchyroll](../Page/Crunchyroll.md "wikilink")進行三地聯播。
+《**Thunderbolt Fantasy 東離劍遊紀**》是一部由[臺灣](../Page/臺灣.md "wikilink")和[日本](../Page/日本.md "wikilink")雙方合作的[奇幻](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[武俠](https://zh.wikipedia.org/wiki/武俠 "wikilink")[布袋戲](../Page/布袋戲.md "wikilink")偶電視劇集作品。劇本由日本編劇[虛淵玄](../Page/虛淵玄.md "wikilink")撰寫，布袋戲劇由臺灣[霹靂布袋戲](../Page/霹靂布袋戲.md "wikilink")製作，劇名由[霹靂國際多媒體](../Page/霹靂國際多媒體.md "wikilink")的董事長黃強華董事長命名。\[1\]本作是[布袋戲](../Page/布袋戲.md "wikilink")此一傳統藝術首次進行臺灣及日本跨界合作的作品。自2016年7月8日起在日本首播，並由[巴哈姆特動畫瘋與](../Page/巴哈姆特電玩資訊站.md "wikilink")[愛奇藝臺灣站](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")、[哔哩哔哩及](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink")[Crunchyroll](../Page/Crunchyroll.md "wikilink")進行三地聯播。
 
-2017年上映外傳電影《[Thunderbolt Fantasy 生死一劍](../Page/Thunderbolt_Fantasy_生死一劍.md "wikilink")》。2018年10月1日開播第二季《[Thunderbolt Fantasy 東離劍遊紀2](../Page/Thunderbolt_Fantasy_東離劍遊紀2.md "wikilink")》。
+2017年上映外傳電影《[Thunderbolt Fantasy 生死一劍](../Page/Thunderbolt_Fantasy_生死一劍.md "wikilink")》，2018年10月1日開播第二季《[Thunderbolt Fantasy 東離劍遊紀2](../Page/Thunderbolt_Fantasy_東離劍遊紀2.md "wikilink")》，2019年上映外傳電影第二部《[Thunderbolt Fantasy 西幽玹歌](https://zh.wikipedia.org/wiki/Thunderbolt_Fantasy_西幽玹歌 "wikilink")》，第三季已宣布製作中。
 
 ## 製作
 
@@ -46,7 +46,7 @@
 ### 主要角色
 
   -
-    操偶師：吳聖恩 ；[聲](../Page/配音員.md "wikilink")：[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")（日語）／[黃滙峰](https://zh.wikipedia.org/wiki/黃滙峰 "wikilink")（臺語）
+    操偶師：吳聖恩 ；[聲](../Page/配音員.md "wikilink")：[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")（日語）／[黃滙峰](https://zh.wikipedia.org/wiki/黃滙峰 "wikilink")（臺語）；演員 - [紅ゆずる](https://zh.wikipedia.org/wiki/紅ゆずる "wikilink")
     詩號：「幽夜匿形不謂隱　明光伏影是迷觀　虛實由來如一紙　誰識幻中吾真顏」
     稱號「」，又自稱「」。
     渾身散發著翩翩風度、氣質神秘的美男子，知識淵博，善於計謀，舉手投足永遠優雅從容。攜有易容用頭巾，手中常持煙管「煙月」，所吐之煙能使人產生幻覺，亦可變成破鎖工具或劍。據本人自述，自己專竊桀傲不遜之人的狂傲，意即竊取他人自尊。
@@ -58,7 +58,7 @@
 <!-- end list -->
 
   -
-    操偶師：洪嘉章 ；聲：[諏訪部順一](../Page/諏訪部順一.md "wikilink")（日語）／黃滙峰（臺語）
+    操偶師：洪嘉章 ；聲：[諏訪部順一](../Page/諏訪部順一.md "wikilink")（日語）／黃滙峰（臺語)；演員 -
     詩號：「狂風驟雨催紙傘，遊人浪跡步不休。天地滂沱如何渡，蓑衣褪盡任濁流。」
     稱號「」，是捲殘雲戲謔他武器無鋒而起的，此後便以此自稱。
     自西幽而來的流浪劍客，表現得一副諷世嫉俗的模樣，常以令人不悅的方式說話，但本性其實相當重義氣又有人情味。因為凜雪鴉的計謀，而讓蔑天骸的手下盯上。結果為了幫助丹翡，不情願地與眾人一齊踏上旅途。想法單純，害怕麻煩，面對問題習慣用最簡單直接的方式應對。
@@ -69,7 +69,7 @@
 <!-- end list -->
 
   -
-    操偶師：廖嘉昇 ；聲：[中原麻衣](../Page/中原麻衣.md "wikilink")（日語）／[鄧瑋德](https://zh.wikipedia.org/wiki/鄧瑋德 "wikilink")（臺語）
+    操偶師：廖嘉昇 ；聲：[中原麻衣](../Page/中原麻衣.md "wikilink")（日語）／[鄧瑋德](https://zh.wikipedia.org/wiki/鄧瑋德 "wikilink")（臺語）；演員 - [綺咲愛里](../Page/綺咲愛里.md "wikilink")
     詩號：「膺懷丹心承天命　身負恩仇江湖行　裂棄柔絲綺羅絹　付盡情夢仗寒兵」
     稱號「聖輝丹心」
     代代相傳的護印師一族後裔，負責看守祀奉著聖劍「天刑劍」的「鍛劍祠」，以及天刑劍的劍鍔。兵器為「翠輝劍」。
@@ -79,7 +79,7 @@
 <!-- end list -->
 
   -
-    聲：[小山力也](../Page/小山力也.md "wikilink")（日語）／黃滙峰（臺語）
+    聲：[小山力也](../Page/小山力也.md "wikilink")（日語）／黃滙峰（臺語）；演員 -
     詩號：「雙目不能視物　隻眼能望千里　凝吾眸光成箭　奪人不避之命」
     稱號「」。兵器為弓箭「銀牙」。
     俠名威震東離的獨眼神射手，為了攻克蔑天骸的城堡，受凜雪鴉邀請成為隊伍一員。
@@ -90,7 +90,7 @@
 <!-- end list -->
 
   -
-    聲：[鈴村健一](../Page/鈴村健一.md "wikilink")（日語）／黃滙峰（臺語）
+    聲：[鈴村健一](../Page/鈴村健一.md "wikilink")（日語）／黃滙峰（臺語）；演員 - [礼真琴](../Page/礼真琴.md "wikilink")
     詩號：「人笑良圖若華胥 吾志凌雲意堅行 不與浮榮競朝夕 無憾黃沙染身時」
     自號「」。兵器為長槍「騰雷槍」。
     是年輕的武術家，對於「英雄」一詞抱有想像而追隨狩雲霄，並自稱其義弟，努力博得與自己武藝相應的名聲。
@@ -99,7 +99,7 @@
 <!-- end list -->
 
   -
-    聲：[大原沙耶香](../Page/大原沙耶香.md "wikilink")（日語）／[郭馨雅](../Page/郭馨雅.md "wikilink")（臺語）
+    聲：[大原沙耶香](../Page/大原沙耶香.md "wikilink")（日語）／[郭馨雅](../Page/郭馨雅.md "wikilink")（臺語）；演員 -
     詩號：「妖歌吟，鴆花蜜，鎮亡夜之魂，惑永寐之軀。生人樂舞，屍亦婆娑。幽冥絕麗之界，不聞人語，唯識月光」
     稱號「泣宵（キュウショウ）」。兵器為鞭子「弔命棘」。
     生於冥界、居於夜魔叢林的妖魔，厭惡人類。能以歌舞的方式來操使咒術，由於此能力可抑制七罪塔前的死屍，故被凜雪鴉招募。
@@ -108,7 +108,7 @@
 <!-- end list -->
 
   -
-    聲：[檜山修之](../Page/檜山修之.md "wikilink")（日語）／黃滙峰（臺語）
+    聲：[檜山修之](../Page/檜山修之.md "wikilink")（日語）／黃滙峰（臺語）；演員 -
     詩號：「今朝啼鳥訴生死　眾生執迷　江湖宿命無人悟　一劍終末」
     稱號「鳴鳳決殺（メイホウケッサツ）」。兵器為雙劍「鳳啼雙聲」。
     冷酷無情、惡名昭彰的殺手，天下無雙的劍客。自視甚高，一遇上強勁的對手，便忍不住向其挑戰。因夙怨而盯上凜雪鴉，近乎偏執地追殺他。最後隻身挑战蔑天骸，被蔑天骸所杀，屍體被對方厚葬。
@@ -117,7 +117,7 @@
 ### 玄鬼宗
 
   -
-    操偶師：廖嘉昇 / : 聲：[關智一](../Page/關智一.md "wikilink")（日語）／黃滙峰（臺語）
+    操偶師：廖嘉昇 / : 聲：[關智一](../Page/關智一.md "wikilink")（日語）／黃滙峰（臺語）；演員 -
     角色詩：「萬物之生　死亡之序　奉吾則功上枯骨　逆吾則劍下亡魂　寒刃之前　唯此二道」
     綽號「森羅枯骨（シンラココツ）」。
     以天然要害環守的山城七罪塔為根據地的「玄鬼宗」首領。劍術高超、並具備有操縱死靈的法術，為故事中最大的敵人。
@@ -126,35 +126,35 @@
 <!-- end list -->
 
   -
-    聲：[安元洋貴](../Page/安元洋貴.md "wikilink")（日語）／黃滙峰（臺語）
+    聲：[安元洋貴](../Page/安元洋貴.md "wikilink")（日語）／黃滙峰（臺語）；演員 -
     蔑天骸的部下，兵器為「貪狼刀」。領命追殺丹翡卻遇上救助丹翡的殤不患及凜雪鴉，因凜雪鴉的幻術與殤不患大打出手，敗於殤不患後自刎而死，首級被魑翼送回七罪塔。
     在《Thunderbolt Fantasy 生死一剑》中参加剑技会，但被狩雲霄射伤手掌，在与殺無生的对战中投降。
 
 <!-- end list -->
 
   -
-    操偶師：吳聖恩 / 聲：[戶松遙](../Page/戶松遙.md "wikilink")（日語）／郭馨雅（臺語）
+    操偶師：吳聖恩 / 聲：[戶松遙](../Page/戶松遙.md "wikilink")（日語）／郭馨雅（臺語）；演員 -
     蔑天骸的部下，玄鬼宗中的強者。稱呼蔑天骸為魔主大人。敗給狩雲霄後接受地獄般的訓練，意圖再戰狩雲霄雪恨，卻未嘗所願便被杀无生杀害。
     武器為「魅月弧」\[13\]。
 
 <!-- end list -->
 
   -
-    聲：[大川透](../Page/大川透.md "wikilink")（日語）／黃滙峰（臺語）
+    聲：[大川透](../Page/大川透.md "wikilink")（日語）／黃滙峰（臺語）；演員 -
     蔑天骸的部下。個性冷靜，擅長局勢分析，不允許任何人讓玄鬼宗蒙羞，即使是女性也手下不留情。起初認為殤不患只是凜雪鴉拿來當替身的小丑，在殤不患表現出壓倒性的實力後仍挑戰殤不患，但卻不敵而亡。
     武器為「寒獠鉤」\[14\]。
 
 ### 其他角色
 
   -
-    聲：[平川大輔](../Page/平川大輔.md "wikilink")（日語）／黃滙峰（臺語）
+    聲：[平川大輔](../Page/平川大輔.md "wikilink")（日語）／黃滙峰（臺語）；演員 -
     丹翡的哥哥，與妹妹同為護印師後裔。武功高強，丹翡自認實力只有兄長的一半。負責保管「天刑劍」的劍柄。
     在玄鬼宗入侵聖地後，為了替妹妹斷後而遭蔑天骸殺死。在故事最後，其兵器「穆輝劍」被捲殘雲繼承。
 
 <!-- end list -->
 
   -
-    聲：[山路和弘](../Page/山路和弘.md "wikilink")（日語）／黃滙峰（臺語）
+    聲：[山路和弘](../Page/山路和弘.md "wikilink")（日語）／黃滙峰（臺語）；演員 -
     兩鬢飛霜的老者。因持有攻克迷宮所需的「迴靈笛」而受凜雪鴉請託，但半途卻遇上殺無生並被他殺害，身上的「迴靈笛」也被取走。
 
 <!-- end list -->
@@ -562,7 +562,7 @@ Thunderbolt Fantasy 東離劍遊紀 外傳小說</p></td>
   -
   -
   -
-[Category:霹靂布袋戲](https://zh.wikipedia.org/wiki/Category:霹靂布袋戲 "wikilink") [Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink") [Category:2016年日本電視節目](https://zh.wikipedia.org/wiki/Category:2016年日本電視節目 "wikilink") [Category:日本與海外合作的動畫](https://zh.wikipedia.org/wiki/Category:日本與海外合作的動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
+[Category:霹靂布袋戲](https://zh.wikipedia.org/wiki/Category:霹靂布袋戲 "wikilink") [Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink") [Category:2016年日本電視節目](https://zh.wikipedia.org/wiki/Category:2016年日本電視節目 "wikilink") [Category:日本與海外合作的動畫](https://zh.wikipedia.org/wiki/Category:日本與海外合作的動畫 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
 
 1.
 2.

@@ -52,7 +52,7 @@
 
 6月2日、在[清迈举办的迷你演唱会及击掌会](https://zh.wikipedia.org/wiki/清迈 "wikilink")“BNK48 Thank You & The Beginner”中，公布了将以清迈为据点组建姐妹团体[CGM48](../Page/CGM48.md "wikilink")的消息\[24\]\[25\]\[26\]。
 
-9月1日，BNK48首度成立的小分隊Mimigumo於「曼谷日本世界博覽會2019」正式亮相。成員為Kaimook、Mewnich、Jaa\[27\]。
+9月1日，BNK48首度成立的小分隊Mimigumo於「曼谷日本世界博覽會2019」正式亮相。成員為Kaimook、Music、Jaa\[27\]。
 
 ## 成員
 
@@ -86,21 +86,6 @@
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p>Izurina</p></td>
-<td><p><a href="../Page/伊豆田莉奈.md" title="wikilink">伊豆田莉奈</a><br />
-</p></td>
-<td><p>Rina Izuta</p></td>
-<td></td>
-<td><p>AKB48<br />
-10期</p></td>
-<td><p>2017年7月2日自AKB48移籍[30]<br />
-前AKB48 Team A（初代橫山）<br />
-前AKB48 Team B（倉持）<br />
-前AKB48 Team 4（高橋朱里）<br />
-預定移籍至CGM48[31]</p></td>
-<td><p>21</p></td>
-</tr>
-<tr class="odd">
 <td><p>Jaa</p></td>
 <td></td>
 <td><p>Napaphat Worraphuttanon</p></td>
@@ -109,7 +94,7 @@
 <td></td>
 <td><p>24</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Jane</p></td>
 <td></td>
 <td><p>Kunjiranut Intarasin</p></td>
@@ -118,7 +103,7 @@
 <td></td>
 <td><p>5</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Jennis</p></td>
 <td></td>
 <td><p>Jennis Oprasert</p></td>
@@ -127,7 +112,7 @@
 <td><p>Team BIII副隊長</p></td>
 <td><p>2</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Jib</p></td>
 <td></td>
 <td><p>Suchaya Saenkhot</p></td>
@@ -136,7 +121,7 @@
 <td></td>
 <td><p>32</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Kaew</p></td>
 <td></td>
 <td><p>Natruja Chutiwansopon</p></td>
@@ -145,7 +130,7 @@
 <td><p>BNK48最年長</p></td>
 <td><p>8</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Kaimook</p></td>
 <td></td>
 <td><p>Warattaya Deesomlert</p></td>
@@ -154,7 +139,7 @@
 <td></td>
 <td><p>15</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Kate</p></td>
 <td></td>
 <td><p>Korapat Nilprapa</p></td>
@@ -163,7 +148,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Korn</p></td>
 <td></td>
 <td><p>Vathusiri Phuwapunyasiri</p></td>
@@ -172,7 +157,7 @@
 <td></td>
 <td><p>28</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Mind</p></td>
 <td></td>
 <td><p>Panisa Srilaloeng</p></td>
@@ -181,7 +166,7 @@
 <td></td>
 <td><p>16</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Miori</p></td>
 <td><p>大久保美織<br />
 </p></td>
@@ -191,16 +176,16 @@
 <td><p>创团成员中唯一的日籍成員</p></td>
 <td><p>20</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Mobile</p></td>
 <td></td>
 <td><p>Pimrapat Phadungwatanachok</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td><p>2018年9月18日－10月15日於AKB48進行短期留學[32][33]</p></td>
+<td><p>2018年9月18日－10月15日於AKB48進行短期留學[30][31]</p></td>
 <td><p>4</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Music</p></td>
 <td></td>
 <td><p>Praewa Suthamphong</p></td>
@@ -209,7 +194,7 @@
 <td></td>
 <td><p>3</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Namneung</p></td>
 <td></td>
 <td><p>Milin Dokthian</p></td>
@@ -218,7 +203,7 @@
 <td></td>
 <td><p>10</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Namsai</p></td>
 <td></td>
 <td><p>Pichayapa Natha</p></td>
@@ -227,7 +212,7 @@
 <td></td>
 <td><p>30</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Noey</p></td>
 <td></td>
 <td><p>Kanteera Wadcharathadsanakul</p></td>
@@ -236,7 +221,7 @@
 <td></td>
 <td><p>7</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Orn</p></td>
 <td></td>
 <td><p>Patchanan Jiajirachote</p></td>
@@ -245,7 +230,7 @@
 <td></td>
 <td><p>6</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Pun</p></td>
 <td></td>
 <td><p>Punsikorn Tiyakorn</p></td>
@@ -254,7 +239,7 @@
 <td><p>Team BIII隊長</p></td>
 <td><p>9</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Pupe</p></td>
 <td></td>
 <td><p>Jiradapa Intajak</p></td>
@@ -263,7 +248,7 @@
 <td></td>
 <td><p>12</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Satchan</p></td>
 <td><p><br />
 花見咲知彌</p></td>
@@ -271,10 +256,10 @@
 Sachiya Hanami</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td><p>日本與泰國混血[34]</p></td>
+<td><p>日本與泰國混血[32]</p></td>
 <td><p>17</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Tarwaan</p></td>
 <td></td>
 <td><p>Isarapa Thawatpakdee</p></td>
@@ -282,6 +267,15 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td></td>
 <td><p>11</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -323,15 +317,6 @@ Sachiya Hanami</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Aom</p></td>
-<td></td>
-<td><p>Punyawee Jungcharoen</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td><p>預定移籍至CGM48[35]</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>Bamboo</p></td>
 <td></td>
 <td><p>Janista Tansiri</p></td>
@@ -340,7 +325,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>18</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Faii</p></td>
 <td></td>
 <td><p>Sumitra Duangkaew</p></td>
@@ -349,7 +334,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Fifa</p></td>
 <td><p>{{lang|th|ปวีณ์ธิดา สกุลพิพัฒน์</p></td>
 <td><p>Paweethida Sakunpiphat</p></td>
@@ -358,7 +343,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Fond</p></td>
 <td></td>
 <td><p>Natticha Chantaravareelekha</p></td>
@@ -367,7 +352,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>26</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Gygee</p></td>
 <td></td>
 <td><p>Nuttakul Pimtongchaikul</p></td>
@@ -376,7 +361,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Juné</p></td>
 <td></td>
 <td><p>Plearnpichaya Komalarajun</p></td>
@@ -385,7 +370,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>31</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Khamin</p></td>
 <td></td>
 <td><p>Manipa Roopanya</p></td>
@@ -394,7 +379,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>22</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Kheng</p></td>
 <td></td>
 <td><p>Juthamas Khonta</p></td>
@@ -403,16 +388,16 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Maira</p></td>
 <td></td>
 <td><p>Maira Kuyama</p></td>
 <td></td>
 <td><p>2期</p></td>
-<td><p>2019年8月12日－10月12日暫停活動[36]</p></td>
+<td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Mewnich</p></td>
 <td></td>
 <td><p>Nannaphas Loetnamchoetsakun</p></td>
@@ -421,7 +406,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>23</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Minmin</p></td>
 <td></td>
 <td><p>Rachaya Tupkunanon</p></td>
@@ -430,7 +415,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>19</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Myyu</p></td>
 <td></td>
 <td><p>Khawisara Singplod</p></td>
@@ -439,7 +424,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Natherine</p></td>
 <td></td>
 <td><p>Dusita Kitisarakulchai</p></td>
@@ -448,7 +433,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>14</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>New</p></td>
 <td></td>
 <td><p>Chanyapuk Numprasop</p></td>
@@ -457,7 +442,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Niky</p></td>
 <td></td>
 <td><p>Warinrat Yolprasong</p></td>
@@ -466,7 +451,7 @@ Sachiya Hanami</p></td>
 <td><p>BNK48最年少</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Nine</p></td>
 <td></td>
 <td><p>Phattharanarin Mueanarit</p></td>
@@ -475,7 +460,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Oom</p></td>
 <td></td>
 <td><p>Natcha Krisdhasima</p></td>
@@ -484,7 +469,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>27</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Pakwan</p></td>
 <td></td>
 <td><p>Pakwan Noijaiboon</p></td>
@@ -493,7 +478,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Panda</p></td>
 <td></td>
 <td><p>Jidrapha Chamchooy</p></td>
@@ -502,7 +487,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Phukkhom</p></td>
 <td></td>
 <td><p>Sirikarn Shinnawatsuwan</p></td>
@@ -511,7 +496,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>25</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Ratah</p></td>
 <td></td>
 <td><p>Ratah Chinkrajangkit</p></td>
@@ -520,7 +505,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Stang</p></td>
 <td></td>
 <td><p>Tarisa Preechatangkit</p></td>
@@ -529,7 +514,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>View</p></td>
 <td></td>
 <td><p>Kamonthida Rotthawinithi</p></td>
@@ -538,7 +523,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Wee</p></td>
 <td></td>
 <td><p>Weeraya Zhang</p></td>
@@ -579,7 +564,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>-</p></td>
 <td><p>2017年9月23日</p></td>
-<td><p>畢業[37]</p></td>
+<td><p>畢業[33]</p></td>
 </tr>
 <tr class="even">
 <td><p>Cincin</p></td>
@@ -589,7 +574,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>-</p></td>
 <td><p>2017年11月18日</p></td>
-<td><p>畢業[38]</p></td>
+<td><p>畢業[34]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Jan</p></td>
@@ -598,9 +583,9 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td><p>BIII</p></td>
-<td><p>2018年2月28日[39]</p></td>
+<td><p>2018年2月28日[35]</p></td>
 <td><p>畢業<br />
-所屬經紀公司為[40][41]</p></td>
+所屬經紀公司為[36][37]</p></td>
 </tr>
 <tr class="even">
 <td><p>Can</p></td>
@@ -610,10 +595,27 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>BIII</p></td>
 <td><p>2018年8月26日</p></td>
-<td><p>畢業[42]<br />
+<td><p>畢業[38]<br />
 所屬經紀公司為BNK48 Office</p></td>
 </tr>
 <tr class="odd">
+<td><p>Izurina</p></td>
+<td><p><a href="../Page/伊豆田莉奈.md" title="wikilink">伊豆田莉奈</a><br />
+</p></td>
+<td><p>Rina Izuta</p></td>
+<td></td>
+<td><p>AKB48<br />
+10期</p></td>
+<td><p>BIII</p></td>
+<td><p>2019年8月27日</p></td>
+<td><p>2017年7月2日自AKB48移籍[39]<br />
+前AKB48 Team A（初代橫山）<br />
+前AKB48 Team B（倉持）<br />
+前AKB48 Team 4（高橋朱里）<br />
+移籍至CGM48<br />
+當日送別公演[40][41]</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -651,7 +653,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>2018年2月12日</p></td>
 <td><p>丹麥與泰國混血<br />
-畢業[43]</p></td>
+畢業[42]</p></td>
 </tr>
 <tr class="even">
 <td><p>Maysa</p></td>
@@ -660,7 +662,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td><p>2018年10月31日</p></td>
-<td><p>畢業[44]</p></td>
+<td><p>10月19日畢業公演[43]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Deenee</p></td>
@@ -669,18 +671,28 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>2期</p></td>
 <td><p>2019年8月11日</p></td>
-<td><p>畢業[45]</p></td>
+<td><p>8月2日畢業公演[44]</p></td>
 </tr>
 <tr class="even">
+<td><p>Aom</p></td>
+<td></td>
+<td><p>Punyawee Jungcharoen</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td><p>2019年8月27日</p></td>
+<td><p>移籍至CGM48<br />
+當日送別公演[45][46]</p></td>
+</tr>
+<tr class="odd">
 <td><p>Cake</p></td>
 <td></td>
 <td><p>Nawaporn Chansuk</p></td>
 <td></td>
 <td><p>2期</p></td>
 <td><p>2019年9月27日</p></td>
-<td><p>畢業[46][47]</p></td>
+<td><p>當日畢業公演[47][48]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -857,18 +869,18 @@ Sachiya Hanami</p></td>
 <td><p>26</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>8月27日</p></td>
+<td><p>Team BIII伊豆田莉奈、研究生Aom移籍至CGM48</p></td>
+<td><p>-2</p></td>
+<td><p>48</p></td>
+<td><p>23</p></td>
+<td><p>25</p></td>
 </tr>
 <tr class="even">
 <td><p>9月27日</p></td>
 <td><p>研究生Cake畢業</p></td>
 <td><p>-1</p></td>
-<td><p>49</p></td>
+<td><p>47</p></td>
 <td><p>24</p></td>
 <td><p>25</p></td>
 </tr>
@@ -950,7 +962,15 @@ Type B</p></td>
 <td><p>6</p></td>
 <td><p>2019年3月15日</p></td>
 <td><p>《Beginner》<br />
-（AKB48《Beginner》泰語版）</p></td>
+（AKB48《<a href="https://zh.wikipedia.org/wiki/Beginner_(AKB48单曲)" title="wikilink">Beginner</a>》泰語版）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2019年11月</p></td>
+<td><p>《77 no Suteki na Machi e 》<br />
+（AKB48《<a href="https://zh.wikipedia.org/wiki/去47個美麗城市" title="wikilink">去47個美麗城市</a>》泰語版）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1011,7 +1031,7 @@ Type B</p></td>
 
 ### 二期生
 
-  - 應徵總數：10782名\[48\]
+  - 應徵總數：10782名\[49\]
   - 徵選時間：2017年12月25日－2018年2月1日
   - 第一次審査：合格者約300名
   - 第二次審査（2018年2月中旬）：合格者94名
@@ -1020,15 +1040,15 @@ Type B</p></td>
 **最終合格者（27名）**（粗體字者為在籍成員）
 
   -
-    **Aom、Bamboo**、Cake、Deenee、**Faii、Fifa、Fond、Gygee、Juné、Khamin、Kheng、Maira、Mewnich、Minmin、Myyu、Natherine、New、Niky、Nine、Oom、Pakwan、Panda、Phukkhom、Ratah、Stang、View、Wee**
+    Aom（移籍CGM48）、**Bamboo**、Cake、Deenee、**Faii、Fifa、Fond、Gygee、Juné、Khamin、Kheng、Maira、Mewnich、Minmin、Myyu、Natherine、New、Niky、Nine、Oom、Pakwan、Panda、Phukkhom、Ratah、Stang、View、Wee**
 
 ## 劇場公演
 
-自2018年5月起、组合与专属剧场“BNK48劇場”进行定期公演\[49\]。 [BNK48_theater.jpg](https://zh.wikipedia.org/wiki/File:BNK48_theater.jpg "fig:BNK48_theater.jpg")
+自2018年5月起、组合与专属剧场“BNK48劇場”进行定期公演\[50\]。 [BNK48_theater.jpg](https://zh.wikipedia.org/wiki/File:BNK48_theater.jpg "fig:BNK48_theater.jpg")
 
 ### Team BIII
 
-1.  [PARTY開始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」#BNK48_Team_BIII_1st_Stage「PARTY開始了」公演 "wikilink")：2018年5月12日\[50\]－\[51\]
+1.  [PARTY開始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」#BNK48_Team_BIII_1st_Stage「PARTY開始了」公演 "wikilink")：2018年5月12日\[51\]－\[52\]
 
 ### 研究生
 
@@ -1130,100 +1150,54 @@ Bluport Huahin</p></td>
 [Category:BNK48](https://zh.wikipedia.org/wiki/Category:BNK48 "wikilink") [Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink") [Category:泰國女子演唱團體](https://zh.wikipedia.org/wiki/Category:泰國女子演唱團體 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink") [Category:曼谷文化](https://zh.wikipedia.org/wiki/Category:曼谷文化 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-50. 于同月6 - 7日举行了面向Founder Member，不对外售票的首演
-
-51.
+50.
+51. 于同月6 - 7日举行了面向Founder Member，不对外售票的首演
+52.

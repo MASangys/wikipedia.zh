@@ -31,12 +31,8 @@ X教授是漫威漫畫世界中最強大的心靈能力者。無需通過身體�
 [Category:由傑克·科比創作的角色](https://zh.wikipedia.org/wiki/Category:由傑克·科比創作的角色 "wikilink") [Category:由斯坦·李創作的角色](https://zh.wikipedia.org/wiki/Category:由斯坦·李創作的角色 "wikilink") [Category:1963年首次亮相的漫畫角色](https://zh.wikipedia.org/wiki/Category:1963年首次亮相的漫畫角色 "wikilink") [Category:超級英雄電影角色](https://zh.wikipedia.org/wiki/Category:超級英雄電影角色 "wikilink") [Category:漫威漫畫突變型](https://zh.wikipedia.org/wiki/Category:漫威漫畫突變型 "wikilink") [Category:X戰警](https://zh.wikipedia.org/wiki/Category:X戰警 "wikilink")
 
 1.
-
 2.
 3.  <http://screenrant.com/michael-fassbender-interview-xmen-first-class-2-prometheus-kofi-175904/>
-
 4.  <http://screenrant.com/michael-fassbender-interview-xmen-first-class-2-prometheus-kofi-175904/>
-
 5.
-
 6.  [1](http://marvel.com/news/story/21069/galactus_lands_in_new_lego_marvel_super_heroes_trailer#ixzz2cc1c8jqE)

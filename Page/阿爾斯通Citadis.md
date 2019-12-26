@@ -817,7 +817,7 @@ Citadis系列提供略低及[特低地台電車](https://zh.wikipedia.org/wiki/�
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/諾定咸" title="wikilink">諾定咸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/諾丁汉" title="wikilink">諾丁汉</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Alstom_Citadis_tram_at_Nottingham_Express_Transit_depot.jpg" title="fig:Alstom_Citadis_tram_at_Nottingham_Express_Transit_depot.jpg">Alstom_Citadis_tram_at_Nottingham_Express_Transit_depot.jpg</a></p></td>
 <td><p>302</p></td>
 <td><p>216 - 237</p></td>
@@ -887,61 +887,37 @@ Citadis系列提供略低及[特低地台電車](https://zh.wikipedia.org/wiki/�
 [Category:有軌電車車輛](https://zh.wikipedia.org/wiki/Category:有軌電車車輛 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
-
 10. [Fiche technique 402](http://perso.wanadoo.fr/florent.brisou/Fiche%20Bordeaux402.htm)
-
 11.
-
 12. [Fiche technique 401](http://perso.wanadoo.fr/florent.brisou/Fiche%20Montpellier401.htm)
-
 13. [Fiche technique Orléans](http://perso.wanadoo.fr/florent.brisou/Fiche%20Orleans.htm)
-
 14.
-
 15.
-
 16.
 17.
-
 18.
-
 19. [Fiche technique Strasbourg](http://perso.wanadoo.fr/florent.brisou/Fiche%20Strasbourg.htm)
-
 20.
-
 21.
-
 22.
-
 23.
 24.
-
 25.
-
 26.
-
 27.
 28.
 29.
 30.
 31.
-
 32.
-
 33.
 34.
 35.

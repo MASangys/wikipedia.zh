@@ -49,8 +49,7 @@
 <td><p>2012年内下架[8]</p></td>
 </tr>
 <tr class="even">
-<td><p>《卡通農場》<br />
-（）</p></td>
+<td><p>《》</p></td>
 <td><p>2012年<small>（iOS）</small><br />
 2013年<small>（Android）</small></p></td>
 <td><p><a href="../Page/模拟经营游戏.md" title="wikilink">模拟经营</a></p></td>
@@ -59,8 +58,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/部落衝突" title="wikilink">部落衝突</a>》<br />
-（Clash of Clans）</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/部落衝突" title="wikilink">部落衝突</a>》</p></td>
 <td><p>2012年<small>（iOS）</small><br />
 2013年<small>（Android）</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/战略游戏" title="wikilink">战略</a></p></td>
@@ -69,8 +67,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《海島奇兵》<br />
-（）</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/海島奇兵" title="wikilink">海島奇兵</a>》</p></td>
 <td><p>2014年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/战略游戏" title="wikilink">战略</a></p></td>
 <td><p>iOS、Android</p></td>
@@ -78,8 +75,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="../Page/部落衝突：皇室戰爭.md" title="wikilink">部落衝突：皇室戰爭</a>》<br />
-（<a href="https://zh.wikipedia.org/wiki/Clash_Royale" title="wikilink">Clash Royale</a>）</p></td>
+<td><p>《<a href="../Page/部落衝突：皇室戰爭.md" title="wikilink">部落衝突：皇室戰爭</a>》</p></td>
 <td><p>2016年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/战略游戏" title="wikilink">战略</a></p></td>
 <td><p>iOS、Android</p></td>
@@ -87,8 +83,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="../Page/荒野亂鬥.md" title="wikilink">荒野亂鬥</a>》<br />
-（<a href="https://zh.wikipedia.org/wiki/Brawl_Stars" title="wikilink">Brawl Stars</a>）</p></td>
+<td><p>《<a href="../Page/荒野亂鬥.md" title="wikilink">荒野亂鬥</a>》</p></td>
 <td><p>2017年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/战略游戏" title="wikilink">战略</a></p></td>
 <td><p>iOS、Android</p></td>
@@ -96,13 +91,12 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/突襲戰爭" title="wikilink">突襲戰爭</a>》<br />
-(<a href="https://zh.wikipedia.org/wiki/Rush_Wars" title="wikilink">Rush Wars</a>)</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/突襲戰爭" title="wikilink">突襲戰爭</a>》</p></td>
 <td><p>2019年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/战略游戏" title="wikilink">战略</a></p></td>
 <td><p>iOS、Android</p></td>
-<td><p>测试中</p></td>
-<td></td>
+<td><p>停止运营</p></td>
+<td><p>2019年11月30日停止运营[9]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -127,6 +121,7 @@
 3.  [SoftBank Ups Its Stake In Supercell To 73% As Sole External Shareholder](http://techcrunch.com/2015/06/01/softbank-buys-another-23-of-supercell-shares-now-owns-73-of-the-mobile-gaming-giant/). techcrunch. 2015-06-01. \[2016-06-21\]
 4.  [腾讯斥资86亿美元收购芬兰手游开发商Supercell 84.3%股权](http://tech.qq.com/a/20160621/051426.htm). 腾讯科技. 2016-06-21. \[2016-06-21\]
 5.  <http://ccc.technews.tw/2018/01/26/jp-gree-sue-supercell/>
-6.  [Zombies Online/Gunshine.net Shutdown notice](http://www.gunshine.net/). Supercell. \[2016-06-21\].
+6.  [Zombies Online/Gunshine.net Shutdown notice](http://www.gunshine.net/) . Supercell. \[2016-06-21\].
 7.
 8.
+9.  [RUSH WARS CLOSING](https://supercell.com/en/news/rush-wars-closing/7225/) Supercell. \[2019-11-05\].

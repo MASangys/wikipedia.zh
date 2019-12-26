@@ -92,18 +92,11 @@ Thrift将由这个描述信息生成独立的代码。例如，在Java里，`Pho
 [Category:应用层协议](https://zh.wikipedia.org/wiki/Category:应用层协议 "wikilink") [Category:数据序列化格式](https://zh.wikipedia.org/wiki/Category:数据序列化格式 "wikilink") [Category:进程间通信](https://zh.wikipedia.org/wiki/Category:进程间通信 "wikilink") [Category:远端程序呼叫](https://zh.wikipedia.org/wiki/Category:远端程序呼叫 "wikilink") [Category:Facebook软件](https://zh.wikipedia.org/wiki/Category:Facebook软件 "wikilink")
 
 1.
-
 2.
-
 3.  [Thrift的要求](http://wiki.apache.org/thrift/ThriftRequirements)，要支持Windows参见[这里](https://issues.apache.org/jira/browse/THRIFT-1123)
-
 4.  Fred Potter，[使用Thrift + Cappuccino](http://blog.parallel48.com/using-thrift-with-cappuccino) ，parallel48的甜美的邮件博客，2010年6月10日。
-
 5.
-
 6.  Mark Slee、Aditya Agarwal、Marc Kwiatkowski，[Thrift：大规模跨语言服务的实现](http://thrift.apache.org/static/files/thrift-20070401.pdf)
-
 7.
-
 8.
 9.

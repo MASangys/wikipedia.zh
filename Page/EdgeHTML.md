@@ -6,9 +6,8 @@
 
 ## 參見
 
-  - [排版引擎列表](../Page/排版引擎列表.md "wikilink")
+  - [排版引擎比較](https://zh.wikipedia.org/wiki/排版引擎比較 "wikilink")
 
-  -
 ## 參考文獻
 
 ### 引用

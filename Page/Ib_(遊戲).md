@@ -134,54 +134,36 @@
 [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:免費遊戲](https://zh.wikipedia.org/wiki/Category:免費遊戲 "wikilink") [Category:恐怖遊戲](https://zh.wikipedia.org/wiki/Category:恐怖遊戲 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:独立游戏](https://zh.wikipedia.org/wiki/Category:独立游戏 "wikilink") [Category:使用RPG製作大師製作的游戲](https://zh.wikipedia.org/wiki/Category:使用RPG製作大師製作的游戲 "wikilink")
 
 1.  「[モノクロームミュージアム](http://kouri.kuchinawa.com)」（作者kouri的個人網站）（2015年5月3日訪問）。
-
 2.  [pixiv百科事典](http://dic.pixiv.net/a/Ib)
-
 3.
 4.
 5.  [ED提示](http://kouri.kuchinawa.com/ib_ed/hint.html)（2015年5月3日訪問）。
-
 6.  引用並翻譯自[官方網站](http://kouri.kuchinawa.com/game_01.html)
-
 7.  [Ib角色介紹](http://kouri.kuchinawa.com/ib_chara.html)（2015年1月30日訪問）
-
 8.  「[Ib畫廊](http://kouri.kuchinawa.com/ib_g/g_top.html)」隨筆畫和設定等（2015年1月30日訪問）
-
 9.
 10.
 11.
 12.
 13. 「[PASH\!](https://zh.wikipedia.org/wiki/アニメ雑誌 "wikilink")」2012年07月号。
-
 14.
 15.
 16.
 17. [ゲルテナ作品](http://dic.pixiv.net/a/%E3%82%B2%E3%83%AB%E3%83%86%E3%83%8A%E4%BD%9C%E5%93%81)（2015年5月4日訪問）
-
 18.
 19.
 20. [Ibの規約](http://kouri.kuchinawa.com/rule.html)（2015年1月30日訪問）。
-
 21.
 22.
 23.
 24. [Ib他国語verご紹介](http://kouri.kuchinawa.com/syoukai/syoukai_2.html)（2015年5月3日訪問）。
-
 25. [Guertena Shop（ゲルテナショップ）](http://gigaplus.makeshop.jp/shopfwinc/special/ib/) （2015年1月30日訪問）。
-
 26. アニメイトより「[アニくじ Ib](http://www.animate.co.jp/special/anikuji/55/pc/)」（2013年11月14日販售）、（2015年1月30日訪問）。
-
 27. ムービックより「[Ib カラコレ](http://www.movic.jp/shop/g/g02618-00700-00002/)」（2014年6月26日販售）、（2015年1月30日訪問）。
-
 28.
 29. [日本下載網站Vector 2012年 總下載數排名(Windows)](http://www.vector.co.jp/magazine/softnews/121225/n121225rank_year_win.html)第3名（2015年1月30日訪問）。
-
 30. [日本下載網站Vector 2013年 總下載數排名(Windows)](http://www.vector.co.jp/magazine/softnews/121225/n121225rank_year_win.html)第6名（2015年1月30日訪問）。
-
 31. [TINAMI企画](https://zh.wikipedia.org/wiki/TINAMI "wikilink")「[Ibオールジャンルコンテスト](http://www.tinami.com/contest/ib)」（2012年6月19日〜7月29日）（2015年1月30日訪問）。
-
 32. 日本藝術社群[pixiv企画](https://zh.wikipedia.org/wiki/pixiv "wikilink")「[Ib祭](http://www.pixiv.net/contest/ib.php)」（2012年6月20日〜7月15日）（2015年1月30日訪問）。
-
 33. [pixiv標籤為「Ib」的繪畫作品](http://www.pixiv.net/search.php?s_mode=s_tag&word=Ib)
-
 34.

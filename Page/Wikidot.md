@@ -1,4 +1,4 @@
-**Wikidot**是一家面向每个人的免费托管[wiki的服务商](https://zh.wikipedia.org/wiki/wiki "wikilink")。可以用来发布内容，共享文档，与朋友或同事合作，创造属于自己的[社群](https://zh.wikipedia.org/wiki/社群 "wikilink")。每个月wikidot流量都超过二百万。[scp基金会就是建立于wikidot](https://zh.wikipedia.org/wiki/scp基金会 "wikilink")。目前在wikidot上有超过二千五百万个页面。\[1\]通过wikidot的工具，创建自己的wiki轻松简单，诸多巨大活跃的门户网站也建立在wikidot上。
+**Wikidot**是一家面向每个人的免费托管[wiki的服务商](https://zh.wikipedia.org/wiki/wiki "wikilink")。可以用来发布内容，共享文档，与朋友或同事合作，创造属于自己的[社群](https://zh.wikipedia.org/wiki/社群 "wikilink")。每个月wikidot流量都超过二百万。[scp基金会就是建立于wikidot](https://zh.wikipedia.org/wiki/scp基金会 "wikilink")。目前在wikidot上有超过二千五百万个页面。\[1\]通过wikidot的工具，创建自己的wiki轻松简单，诸多巨大活跃的门户网站也建立在wikidot上。但是现在，wikidot的创始人无法联系，许多管理员也失联了。
 
 ## wikidot历史
 
@@ -9,6 +9,8 @@
 2008年3月，Wikidot开始提供专业版的[beta测试](https://zh.wikipedia.org/wiki/beta "wikilink")，并于12月17日，Wikidot正式推出了这项功能。\[6\]
 
 自2011年1月开始，Wikidot开始实验项目“翻译Wikidot”，邀请来自世界各地的用户将最常用的命令，帮助文本等从英语翻译为“每一个希望”的语言。一个星期后，有些语言，如德语，法语和塞尔维亚语率先由翻译完成，西班牙文，中文，俄语，芬兰文，意大利文紧接着翻译完成。wikidot的多语言化都是基于志愿者的翻译。
+
+2019年，wikidot创始人无法联系，许多管理员也无法联系。但是依旧正常运行。许多网站准备备份网站内容。
 
 ## 功能和特点
 
@@ -26,7 +28,7 @@ Wikidot还提供了一个应用程序编程接口（API）供第三方开发者�
 
 ### 特点
 
-  - 每个网站都有自己独立的.wikidot.com域名
+  - 谁都可以注册一个.wikidot.com域名（在中国被暂停）
   - 可以选择适用于公共和私人维基灵活的许可制度
   - 可定制的主题，支持自定义的外观
   - 支持众多小部件
@@ -60,48 +62,26 @@ Wikidot的专家用户在社区为他人解答疑难，Wikidot社群致力于为
 [Category:Wiki網站](https://zh.wikipedia.org/wiki/Category:Wiki網站 "wikilink") [Category:維基農場](https://zh.wikipedia.org/wiki/Category:維基農場 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.  [Internal Wikis – Wikidot.com](http://www.laptopmag.com/review/software/10-free-web-tools-for-business.aspx?pid=9)  at www.laptopmag.com Access date: October 11, 2009
-
 9.
-
 10. [After switching to Amazon Route 53 our DNS responses are served 3 times faster.](http://twitter.com/#!/wikidot/status/121543554848923648)
-
 11.
-
 12.
-
 13.
-
 14. [Wikidot, crea wikis de forma sencilla y rápida](http://www.desarrolloweb.com/de_interes/wikidot-crea-wikis-forma-sencilla-rapida-1601.html) March 25, 2009 desarrolloweb.com Access date: October 11, 2009
-
 15. [Wikify.me list of domain names](http://www.wikify.me)
-
 16.
-
 17.
-
 18. [Wikidot <news:Unilimited> members for private wikis, Feb, 28, 2008](https://web.archive.org/web/20080229170615/http://www.wikidot.com/forum/t-43846/unlimited-members-for-private-wikis) Access date October 11, 2009
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.

@@ -65,19 +65,12 @@
 [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink") [Category:刀剑神域](https://zh.wikipedia.org/wiki/Category:刀剑神域 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.

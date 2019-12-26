@@ -49,26 +49,15 @@ Superfly之前只有《Eyes on Me》一首遊戲歌曲，用於[史克威爾艾�
 [Category:2014年歌曲](https://zh.wikipedia.org/wiki/Category:2014年歌曲 "wikilink") [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:Superfly歌曲](https://zh.wikipedia.org/wiki/Category:Superfly歌曲 "wikilink") [Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink") [Category:遊戲主題曲](https://zh.wikipedia.org/wiki/Category:遊戲主題曲 "wikilink") [Category:傳奇系列音樂](https://zh.wikipedia.org/wiki/Category:傳奇系列音樂 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13.

@@ -42,37 +42,21 @@ Let's Encrypt的开发者们本计划在2015年年末推出签发[ECDSA根证书
 [Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink") [Category:电子商务](https://zh.wikipedia.org/wiki/Category:电子商务 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  [Let's Encrypt – Get Involved](https://letsencrypt.org/getinvolved/)
-
 5.
 6.  [Draft ACME specification](https://github.com/letsencrypt/acme-spec)
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14. [Solidot | Let's Encrypt 市场份额突破 36%](http://www.solidot.org/story?sid=54572)
-
 15.
-
 16.
 17.
-
 18.
-
 19.

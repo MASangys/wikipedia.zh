@@ -28,14 +28,9 @@ Zee TV大多数节目以[印地语以及印度其他主要语言播放](https://
 [Category:印度媒體](https://zh.wikipedia.org/wiki/Category:印度媒體 "wikilink") [Category:1992年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1992年成立的电视台或电视频道 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.

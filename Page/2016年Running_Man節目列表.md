@@ -604,7 +604,7 @@ vs<br />
 <td><p>6月26日<br />
 <small>（6月13日）</small></p></td>
 <td><p><a href="../Page/李敬揆.md" title="wikilink">李敬揆</a>、<a href="../Page/李廷鎮.md" title="wikilink">李廷鎮</a>、<br />
-、<a href="../Page/金東炫.md" title="wikilink">金東炫</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/金峻鉉" title="wikilink">金峻鉉</a>、<a href="../Page/金東炫.md" title="wikilink">金東炫</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/曹世鎬" title="wikilink">曹世鎬</a>、、<br />
 <a href="https://zh.wikipedia.org/wiki/李秀敏" title="wikilink">李秀敏</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS登村洞公開廳</a><br />
@@ -1089,7 +1089,7 @@ vs<br />
 <small>（455）</small></p></td>
 <td><p>10月30日<br />
 <small>（10月17日）</small></p></td>
-<td><p>、<a href="../Page/徐智慧_(1984年).md" title="wikilink">徐智慧</a>、<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/金峻鉉" title="wikilink">金峻鉉</a>、<a href="../Page/徐智慧_(1984年).md" title="wikilink">徐智慧</a>、<br />
 <a href="../Page/張度練.md" title="wikilink">張度練</a>、<a href="../Page/梁世燦.md" title="wikilink">梁世燦</a>、<br />
 <a href="../Page/珉豪.md" title="wikilink">珉豪</a>（<a href="../Page/SHINee.md" title="wikilink">SHINee</a>）</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />

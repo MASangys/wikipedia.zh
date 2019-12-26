@@ -12,11 +12,11 @@ Homebrew的作者Max Howell曾应聘过[Google](../Page/Google.md "wikilink")的
 
 ## 参见
 
-  - [Fink](https://zh.wikipedia.org/wiki/Fink "wikilink")
-  - [Gentoo/Alt](https://zh.wikipedia.org/wiki/Gentoo/Alt "wikilink")
+  -
+  -
   - [MacPorts](../Page/MacPorts.md "wikilink")
-  - [Pkgsrc](https://zh.wikipedia.org/wiki/Pkgsrc "wikilink")
 
+  -
 ## 参考
 
 ## 外部链接

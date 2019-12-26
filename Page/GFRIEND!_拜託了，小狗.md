@@ -4,7 +4,7 @@
 
 ## 外部链接
 
-[GFRIEND\! 拜托了，小狗](https://tv.skylife.co.kr/skypetpark/program/intro/567) - 官方网站
+[GFRIEND\! 拜托了，小狗](https://web.archive.org/web/20160403051642/https://tv.skylife.co.kr/skypetpark/program/intro/567) - 官方网站
 
 [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink") [Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink")
 

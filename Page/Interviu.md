@@ -1637,9 +1637,11 @@
 | 46                                                                | 7月1日     | [羅力威](../Page/羅力威.md "wikilink")                                                                                                                       | 羅沛琪    |
 | 48                                                                | 7月3日     | [黃淑儀](../Page/黃淑儀.md "wikilink")、[梁業](https://zh.wikipedia.org/wiki/梁業 "wikilink")、[吳保錡](https://zh.wikipedia.org/wiki/吳保錡 "wikilink")                 | 廖嘉輝    |
 | 50                                                                | 7月5日     | [可嵐](../Page/可嵐.md "wikilink")                                                                                                                         |        |
-| 51                                                                | 7月8日     |                                                                                                                                                        |        |
-| 53                                                                | 7月10日    |                                                                                                                                                        |        |
+| 51                                                                | 7月8日     | [游學修](../Page/游學修.md "wikilink")、[陳穎欣](https://zh.wikipedia.org/wiki/陳穎欣 "wikilink")                                                                   |        |
+| 53                                                                | 7月10日    | [吳鎮宇](../Page/吳鎮宇.md "wikilink")、[王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")                                                                   |        |
 | 55                                                                | 7月12日    |                                                                                                                                                        |        |
+| 135                                                               | 11月1日    | [黎紀君](../Page/黎紀君.md "wikilink")                                                                                                                       |        |
+| 145                                                               | 11月15日   | [梁諾妍](../Page/梁諾妍.md "wikilink")                                                                                                                       |        |
 
 ## 節目調動
 

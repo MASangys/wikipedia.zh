@@ -210,34 +210,19 @@ tf.train.basic_train_loop(sv,train_fn)
 [Category:数据挖掘和机器学习软件](https://zh.wikipedia.org/wiki/Category:数据挖掘和机器学习软件 "wikilink") [Category:机器学习](https://zh.wikipedia.org/wiki/Category:机器学习 "wikilink") [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink") [Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink") [Category:自由統計軟件](https://zh.wikipedia.org/wiki/Category:自由統計軟件 "wikilink") [Category:Python科学库](https://zh.wikipedia.org/wiki/Category:Python科学库 "wikilink") [Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink") [Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink")
 
 1.  ["TensorFlow: Open source machine learning"](https://www.youtube.com/watch?v=oZikw5k_2FM)  "It is machine learning software being used for various kinds of perceptual and language understanding tasks" — Jeffrey Dean, minute 0:47 / 2:17 from Youtube clip
-
 2.  ["TensorFlow: Open source machine learning"](https://www.youtube.com/watch?v=oZikw5k_2FM)  "It is machine learning software being used for various kinds of perceptual and language understanding tasks" — Jeffrey Dean, minute 0:47 / 2:17 from Youtube clip
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12. [Machine Learning: Google I/O 2016 Minute 07:30/44:44](https://www.youtube.com/watch?v=Rnm83GqgqPE)  accessdate=2016-06-05
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.

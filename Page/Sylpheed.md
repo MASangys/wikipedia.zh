@@ -60,25 +60,17 @@ Sylpheed无法发送HTML邮件。因为软件开发者发现HTML邮件是有害�
 
 1.
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
 8.
 9.
-
 10.  エンタープライズ {{\!}} マイコミジャーナル|author=海上忍|publisher=マイコミジャーナル|date=2006-02-14|accessdate=2009-02-27|language=ja|deadurl=yes|archiveurl=[https://web.archive.org/web/20080608005127/http://journal.mycom.co.jp/news/2006/02/14/340.html|archivedate=2008-06-08](https://web.archive.org/web/20080608005127/http://journal.mycom.co.jp/news/2006/02/14/340.html%7Carchivedate=2008-06-08)}}
-
 11.
-
 12.
-
 13.
-
 14.
 15.
 16.
@@ -88,6 +80,5 @@ Sylpheed无法发送HTML邮件。因为软件开发者发现HTML邮件是有害�
 20.
 21.
 22.
-
 23.
 24.

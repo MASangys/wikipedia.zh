@@ -114,28 +114,16 @@ HTC於2018年1月的美國消費者電子展(CES)公布了 Vive 的昇級版Vive
 [Category:電腦週邊設備](https://zh.wikipedia.org/wiki/Category:電腦週邊設備 "wikilink") [Category:头戴式显示设备](https://zh.wikipedia.org/wiki/Category:头戴式显示设备 "wikilink") [Category:HTC](https://zh.wikipedia.org/wiki/Category:HTC "wikilink") [Category:HTC_Vive游戏](https://zh.wikipedia.org/wiki/Category:HTC_Vive游戏 "wikilink") [Category:未来产品](https://zh.wikipedia.org/wiki/Category:未来产品 "wikilink") [Category:威爾烏](https://zh.wikipedia.org/wiki/Category:威爾烏 "wikilink") [Category:虚拟现实](https://zh.wikipedia.org/wiki/Category:虚拟现实 "wikilink") [Category:2016年面世的產品](https://zh.wikipedia.org/wiki/Category:2016年面世的產品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.

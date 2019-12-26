@@ -13,21 +13,12 @@ AdBlock與[Adblock Plus不同](../Page/Adblock_Plus.md "wikilink")\[7\]。AdBloc
 
 1.
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  [FAQ - Adblock Plus Project](https://adblockplus.org/faq_project)
-
 8.
-
 9.
-
 10.
-
 11.

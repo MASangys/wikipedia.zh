@@ -105,7 +105,7 @@
   -
   -
   -
-[Category:2015年劇情片](https://zh.wikipedia.org/wiki/Category:2015年劇情片 "wikilink") [Category:2010年代台灣電影作品](https://zh.wikipedia.org/wiki/Category:2010年代台灣電影作品 "wikilink") [Category:真人動畫電影](https://zh.wikipedia.org/wiki/Category:真人動畫電影 "wikilink") [Category:導演處女作](https://zh.wikipedia.org/wiki/Category:導演處女作 "wikilink") [Category:臺灣動畫](https://zh.wikipedia.org/wiki/Category:臺灣動畫 "wikilink") [Category:人與外星生物接觸題材電影](https://zh.wikipedia.org/wiki/Category:人與外星生物接觸題材電影 "wikilink") [Category:台灣科幻片](https://zh.wikipedia.org/wiki/Category:台灣科幻片 "wikilink") [Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink") [Category:台灣劇情片](https://zh.wikipedia.org/wiki/Category:台灣劇情片 "wikilink") [Category:商店背景作品](https://zh.wikipedia.org/wiki/Category:商店背景作品 "wikilink")
+[Category:2015年劇情片](https://zh.wikipedia.org/wiki/Category:2015年劇情片 "wikilink") [Category:2015年臺灣電影](https://zh.wikipedia.org/wiki/Category:2015年臺灣電影 "wikilink") [Category:真人動畫電影](https://zh.wikipedia.org/wiki/Category:真人動畫電影 "wikilink") [Category:導演處女作](https://zh.wikipedia.org/wiki/Category:導演處女作 "wikilink") [Category:臺灣動畫](https://zh.wikipedia.org/wiki/Category:臺灣動畫 "wikilink") [Category:人與外星生物接觸題材電影](https://zh.wikipedia.org/wiki/Category:人與外星生物接觸題材電影 "wikilink") [Category:台灣科幻片](https://zh.wikipedia.org/wiki/Category:台灣科幻片 "wikilink") [Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink") [Category:台灣劇情片](https://zh.wikipedia.org/wiki/Category:台灣劇情片 "wikilink") [Category:商店背景作品](https://zh.wikipedia.org/wiki/Category:商店背景作品 "wikilink")
 
 1.
 2.  [《OPEN！OPEN！》LOCK 醬宣傳影片釋出《探險活寶》老皮 曹冀魯配音演出](http://gnn.gamer.com.tw/2/117962.html)

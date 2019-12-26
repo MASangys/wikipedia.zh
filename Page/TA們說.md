@@ -28,6 +28,6 @@
   -
   -
   -
-[Category:台灣電視節目](https://zh.wikipedia.org/wiki/Category:台灣電視節目 "wikilink") [Category:清談節目](https://zh.wikipedia.org/wiki/Category:清談節目 "wikilink") [Category:網路節目](https://zh.wikipedia.org/wiki/Category:網路節目 "wikilink") [Category:台灣LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電視節目 "wikilink") [Category:YouTube視訊](https://zh.wikipedia.org/wiki/Category:YouTube視訊 "wikilink")
+[Category:台灣電視節目](https://zh.wikipedia.org/wiki/Category:台灣電視節目 "wikilink") [Category:清談節目](https://zh.wikipedia.org/wiki/Category:清談節目 "wikilink") [Category:臺灣網路節目](https://zh.wikipedia.org/wiki/Category:臺灣網路節目 "wikilink") [Category:台灣LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電視節目 "wikilink") [Category:YouTube視訊](https://zh.wikipedia.org/wiki/Category:YouTube視訊 "wikilink")
 
 1.

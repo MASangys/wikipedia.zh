@@ -13,9 +13,7 @@
 [:分類:掌上遊戲機](https://zh.wikipedia.org/wiki/:分類:掌上遊戲機 "wikilink") [:分類:平板電腦](https://zh.wikipedia.org/wiki/:分類:平板電腦 "wikilink") [:分類:Android設備](https://zh.wikipedia.org/wiki/:分類:Android設備 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.

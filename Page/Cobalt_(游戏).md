@@ -31,7 +31,5 @@ alpha版的主要目标为：
 [Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:Xbox_One遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_One遊戲 "wikilink") [Category:動作冒險遊戲](https://zh.wikipedia.org/wiki/Category:動作冒險遊戲 "wikilink") [Category:橫向捲軸遊戲](https://zh.wikipedia.org/wiki/Category:橫向捲軸遊戲 "wikilink") [Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink") [Category:Mojang](https://zh.wikipedia.org/wiki/Category:Mojang "wikilink")
 
 1.
-
 2.
-
 3.

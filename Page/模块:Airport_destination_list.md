@@ -32,6 +32,7 @@ function p.table(frame)
 `   local row = root:tag('tr')`
 `   local cell= row:tag('th')`
 `   cell:wikitext('航空公司')`
+`   cell:css('width','12%')`
 `   cell= row:tag('th')`
 `   cell:addClass('unsortable')`
 `   cell:wikitext('目的地')`

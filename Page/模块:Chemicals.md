@@ -1,12 +1,17 @@
-local p = {} local origArgs local error = require( 'Module:Error' )
-local element = require( 'Module:Element' ) local strings = require(
-'Module:String' )
-
-function p.formula(frame)
+local p = {} local origArgs local error = require( 'Module:Error' ) local element = {} local lib_arg = {} local strings = require( 'Module:String' ) local element_data = {} function p.formula(frame)
 
 `   -- For calling from #invoke.`
-`   local pframe = frame:getParent()`
-`   local args = pframe.args`
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       args = frame`
+`   end`
 `   return p._formula(args)`
 
 end
@@ -14,8 +19,17 @@ end
 function p.reaction(frame)
 
 `   -- For calling from #invoke.`
-`   local pframe = frame:getParent()`
-`   local args = pframe.args`
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       args = frame`
+`   end`
 `   return p._reaction(args)`
 
 end
@@ -74,9 +88,19 @@ end
 function p.check_CAS_test(frame)
 
 `   -- For calling from #invoke.`
-`   local pframe = frame:getParent()`
+`   local load_args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       load_args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       load_args = frame`
+`   end`
 `   args = {}`
-`   for k, v in pairs( frame.args ) do`
+`   for k, v in pairs( load_args ) do`
 `       args[k] = v;       `
 `   end `
 `   return p._check_CAS_test(args)`
@@ -95,21 +119,39 @@ function p._check_CAS_test(args)
 
 end
 
+function put_elements(element_name, count)
+
+`   body = ''`
+`   if element._element_symbol == nil then element = require('Module:Element') end`
+`   local check_group = mw.ustring.gsub(element_name,"`<官能基/>`","")`
+`   if element_name ~= check_group then`
+`       if( tonumber(count) ~= nil and tonumber(count) > 1 )then`
+`           body = body .. '(' .. check_group .. ')' .. "`<sub>`"``   ``..``   ``tostring(count)``   ``..``   ``"`</sub>`"`
+`       else body = body .. check_group end`
+`   else`
+`       local number = 1 if tonumber(count) ~= nil then number = tonumber(count) end`
+`       if(link and link ~= '' or link == 'nolink')then`
+`           body = body .. element._element_symbol({element_name,number})`
+`       else`
+`           body = body .. element._elementlink({element_name,number})`
+`       end`
+`   end`
+`   return body`
+
+end
+
 function p._formula(args)
 
 `   local body = ''`
 `   if (args['link'] and args['link']  ~= '') then link = args['link'] end`
 `   last=''`
+`   if element._element_symbol == nil then element = require('Module:Element') end`
 `   for v, x in ipairs(args) do `
 `       number=tonumber(x)`
 `       lastn=tonumber(last)`
 `       if(number)then`
 `           if((not (lastn)) and last ~= '')then`
-`               if(link and link ~= '')then `
-`                   body = body .. element._element_symbol({last,x})`
-`               else`
-`                   body = body .. element._elementlink({last,x})`
-`               end`
+`               body = body .. put_elements(last, x)`
 `           else if(body == '' and last == '')then`
 `               body = x .. body `
 `           else if (lastn)then`
@@ -118,36 +160,25 @@ function p._formula(args)
 `               else if(number==-1)then`
 `                   body = body .. '`<sup>`-`</sup>`'`
 `               else if(number>0)then`
-`                   body = body .. '`<sup>`'..``   ``number``
- ``..'+`</sup>`'`
+`                   body = body .. '`<sup>`'..``   ``number``   ``..'+`</sup>`'`
 `               else if(number<0)then`
-`                   body = body .. '`<sup>`'..``   ``-number``
- ``..'−`</sup>`'`
+`                   body = body .. '`<sup>`'..``   ``-number``   ``..'−`</sup>`'`
 `               end end end end`
 `           end end end`
 `       else`
 `           if ((not (lastn)) and last ~= '') then`
-`               if(link and link ~= '')then `
-`                   body = body .. element._element_symbol({last})`
-`               else`
-`                   body = body .. element._elementlink({last})`
-`               end`
+`               body = body .. put_elements(last, 1)`
 `           end`
 `       end`
 `       last=x`
 `   end`
 `   lastn=tonumber(last)`
 `   if ((not (lastn)) and last ~= '') then`
-`       if(link and link ~= '')then `
-`           body = body .. element._element_symbol({last})`
-`       else`
-`           body = body .. element._elementlink({last})`
-`       end`
+`       body = body .. put_elements(last, 1)`
 `   end`
-`   if(link and link ~= '')then`
-`       if(link ~= '#')then`
-`           body = '`[`'``   ``..``   ``body``
- ``..'`](../Page/'_.._link_.._'.md "wikilink")`'`
+`   if(link and link ~= '' or link == 'nolink')then`
+`       if(link ~= '#' and link ~= 'nolink')then`
+`           body = '`[`'``   ``..``   ``body``   ``..'`](https://zh.wikipedia.org/wiki/'_.._link_.._' "wikilink")`'`
 `       end`
 `   end`
 `   return body`
@@ -158,9 +189,11 @@ function p._reaction(args)
 
 `   local body = ''`
 `   last=''`
+`   if element._elementlink == nil then element = require('Module:Element') end`
 `   for v, x in ipairs(args) do `
 `       number=tonumber(x)`
 `       lastn=tonumber(last)`
+`       local check_text = mw.ustring.gsub(last,"`<文字/>`","")`
 `       if(number)then`
 `           if((not (lastn)) and last ~= '')then`
 `               feq = ''`
@@ -175,8 +208,10 @@ function p._reaction(args)
 `                   body = body .. '↓ ' .. feq`
 `               elseif (last == 'eqm') then`
 `                   body = body .. ' `[`Equilibrium.svg`](https://zh.wikipedia.org/wiki/File:Equilibrium.svg "fig:Equilibrium.svg")` ' .. feq`
+`               elseif (last ~= check_text) then`
+`                   body = body .. check_text .. feq`
 `               else`
-`                   body = body .. element._elementlink({last,x})`
+`                   body = body .. put_elements(last, x)`
 `               end`
 `           else if(body == '' and last == '')then`
 `               body = x .. body `
@@ -186,11 +221,9 @@ function p._reaction(args)
 `               elseif(number==-1)then`
 `                   body = body .. '`<sup>`-`</sup>`'`
 `               elseif(number>0)then`
-`                   body = body .. '`<sup>`'..``   ``number``
- ``..'+`</sup>`'`
+`                   body = body .. '`<sup>`'..``   ``number``   ``..'+`</sup>`'`
 `               elseif(number<0)then`
-`                   body = body .. '`<sup>`'..``   ``-number``
- ``..'−`</sup>`'`
+`                   body = body .. '`<sup>`'..``   ``-number``   ``..'−`</sup>`'`
 `               end`
 `           else`
 `               body = last .. x .. body `
@@ -207,8 +240,10 @@ function p._reaction(args)
 `                   body = body .. '↓ ' `
 `               elseif (last == 'eqm') then`
 `                   body = body .. ' `[`Equilibrium.svg`](https://zh.wikipedia.org/wiki/File:Equilibrium.svg "fig:Equilibrium.svg")` '`
+`               elseif (last ~= check_text) then`
+`                   body = body .. check_text`
 `               else`
-`                   body = body .. element._elementlink({last})`
+`                   body = body .. put_elements(last, 1)`
 `               end`
 `           end`
 `       end`
@@ -216,6 +251,7 @@ function p._reaction(args)
 `   end`
 `   lastn=tonumber(last)`
 `   if ((not (lastn)) and last ~= '') then`
+`       local check_text = mw.ustring.gsub(last,"`<文字/>`","")`
 `       if (last == '+') then`
 `           body = body .. ' + '`
 `       elseif (last == 'eq' or last == '→') then`
@@ -226,8 +262,10 @@ function p._reaction(args)
 `               body = body .. '↓ ' `
 `       elseif (last == 'eqm') then`
 `           body = body .. ' `[`Equilibrium.svg`](https://zh.wikipedia.org/wiki/File:Equilibrium.svg "fig:Equilibrium.svg")` '`
+`       elseif (last ~= check_text) then`
+`           body = body .. check_text`
 `       else`
-`           body = body .. element._elementlink({last})`
+`           body = body .. put_elements(last, 1)`
 `       end`
 `   end`
 `   return body`
@@ -237,12 +275,23 @@ end
 \--本模塊的沙盒(測試)函數 function p.sandbox(frame)
 
 `   -- For calling from #invoke.`
-`   local pframe = frame:getParent()`
-`   local args = pframe.args`
+`   local args`
+`   if frame == mw.getCurrentFrame() then`
+`       -- We're being called via #invoke. The args are passed through to the module`
+`       -- from the template page, so use the args that were passed into the template.`
+`       if lib_arg.getArgs == nil then lib_arg = require('Module:Arguments') end`
+`       args = lib_arg.getArgs(frame) --frame.args`
+`   else`
+`       -- We're being called from another module or from the debug console, so assume`
+`       -- the args are passed in directly.`
+`       args = frame`
+`   end`
 `   return p._reaction(args)`
 
 end function p._sandbox(args)
 
-`   return element_data[p.getListID(args[1])].name `
+`   if element.getListID == nil then element = require('Module:Element') end`
+`   if element_data[1] == nil then element_data = require('Module:Element/data') end`
+`   return element_data[element.getListID(args[1])].name `
 
 end return p

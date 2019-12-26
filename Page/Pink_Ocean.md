@@ -26,7 +26,7 @@
 
 [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:Oh_My_Girl音樂專輯](https://zh.wikipedia.org/wiki/Category:Oh_My_Girl音樂專輯 "wikilink")
 
-1.  [28日發行迷你專輯](http://kpopn.niusnews.com/=K1zxycb8)
-2.  [新輯曲目表公開](http://kpopn.niusnews.com/=K2jeiju7)
-3.  [《PINK OCEAN》試聽](http://kpopn.niusnews.com/=K20q0su9)
-4.  [《LIAR LIAR》MV 公開](http://kpopn.niusnews.com/=K0kt00g0)
+1.
+2.
+3.
+4.

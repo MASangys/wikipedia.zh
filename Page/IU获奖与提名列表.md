@@ -20,7 +20,7 @@
 
 ### 金唱片奖
 
-|- | 2010 | 音源本赏\[5\] | 《唠叨》 |  |- | rowspan="2"| 2017 | 音源本赏 | rowspan="2"|《夜信》 |  |- | **音源大賞** |  |}
+|- | 2010 | 音源本赏\[5\] | 《唠叨》 |  |- | rowspan="2"| 2018 | 音源本赏 | rowspan="2"|《夜信》 |  |- | **音源大賞** |  |}
 
 ### Cyworld数位音乐奖
 
@@ -36,7 +36,7 @@
 
 ### 百想艺术大赏
 
-|- | 2011 | 女子人气赏（电视） | 《[梦想高飞](https://zh.wikipedia.org/wiki/梦想高飞 "wikilink")》 |  |- | 2014 | 女子人气赏（电视） | 《[最佳李纯信](https://zh.wikipedia.org/wiki/最佳李纯信 "wikilink")》 |  |- | rowspan="2"| 2019 | 女子最優秀演技獎（電視） | rowspan="2"|《[我的大叔](../Page/我的大叔.md "wikilink")》 |  |- | 女子人气赏（电视） |  |}
+|- | 2011 | 女子人气赏（电视） | 《[梦想高飞](https://zh.wikipedia.org/wiki/梦想高飞 "wikilink")》 |  |- | 2014 | 女子人气赏（电视） | 《[最佳李纯信](https://zh.wikipedia.org/wiki/最佳李纯信 "wikilink")》 |  |- | 2017 | 女子人氣賞（電視） | 《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink")》 |  |- | rowspan="2"| 2019 | 女子最優秀演技獎（電視） | rowspan="2"|《[我的大叔](../Page/我的大叔.md "wikilink")》 |  |- | 女子人氣賞（電視） |  |}
 
 ### Mnet20代选择奖
 
@@ -64,7 +64,7 @@
 
 ### Gaon Chart K-POP大奖
 
-|- | rowspan="2"| 2011 | 音源部门年度歌手 – 2月 | 《只有我不知道的故事》 |  |- | 音源部门年度歌手 –12月 | 《你和我》 |  |- | 2013 | 音源部门年度歌手 – 10月 | 《红舞鞋》 |  |- | rowspan="5"|2017 | 音源部門年度歌手 – 3月 | 《夜信》 |  |- | 音源部門年度歌手 – 4月 | 《Palette》 |  |- | 年度長存獎 | 《夜信》 |  |- | 作詞家獎 | IU |  |- | 年度專輯製作獎 | IU, FAVE娛樂 |  |}
+|- | rowspan="2"| 2011 | 音源部门年度歌手 – 2月 | 《只有我不知道的故事》 |  |- | 音源部门年度歌手 –12月 | 《你和我》 |  |- | 2013 | 音源部门年度歌手 – 10月 | 《红舞鞋》 |  |- | rowspan="5"|2017 2018/02/14 | 音源部門年度歌手 – 3月 | 《夜信》 |  |- | 音源部門年度歌手 – 4月 | 《Palette》 |  |- | 年度長存獎 | 《夜信》 |  |- | 作詞家獎 | IU |  |- | 年度專輯製作獎 | IU, FAVE娛樂 |  |- | 2018 | 音源部门年度歌手 – 10月 | 《BBIBBI》 |  |}
 
 ### 亚洲模特儿大奖
 
@@ -234,11 +234,11 @@
 
 ### KBS[音乐银行](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")
 
-|- | rowspan="4"| 2010 | 6月25日 | rowspan="2"| 《唠叨》 |- | 7月2日 |- | 12月24日\[45\] | rowspan="3"| 《好日子》 |- | 12月31日 |- | rowspan="5"| 2011 | 1月7日\[46\] |- | 12月9日\[47\] | rowspan="6"| 《你和我》 |- | 12月16日\[48\] |- | 12月23日\[49\] |- | 12月30日 |- | rowspan="2"| 2012 | 1月6日\[50\] |- | 1月13日\[51\] |- | 2013 | 10月18日 | 《红舞鞋》 |- | 2014 | 1月3日 | 《星期五见面》 |- | rowspan="2"| 2017 | 5月5日 | rowspan="2"| 《Palette》 |- | 5月19日 |- | 2018 | 10月19日 | 《BBIBBI》 |}
+|- | rowspan="4"| 2010 | 6月25日 | rowspan="2"| 《唠叨》 |- | 7月2日 |- | 12月24日\[45\] | rowspan="3"| 《好日子》 |- | 12月31日 |- | rowspan="5"| 2011 | 1月7日\[46\] |- | 12月9日\[47\] | rowspan="6"| 《你和我》 |- | 12月16日\[48\] |- | 12月23日\[49\] |- | 12月30日 |- | rowspan="2"| 2012 | 1月6日\[50\] |- | 1月13日\[51\] |- | 2013 | 10月18日 | 《红舞鞋》 |- | 2014 | 1月3日 | 《星期五见面》 |- | rowspan="2"| 2017 | 5月5日 | rowspan="2"| 《Palette》 |- | 5月19日 |- | 2018 | 10月19日 | 《BBIBBI》 |- | 2019 | 11月29日 | 《Love poem》 |}
 
 ### SBS[人气歌谣](../Page/人气歌谣.md "wikilink")
 
-|- | rowspan="3"| 2010 | 6月27日 | 《唠叨》 |- | 12月19日\[52\] | rowspan="3"|《好日子》 |- | 12月26日\[53\] |- | rowspan="3"| 2011 | 1月2日 |- | 12月18日\[54\] | rowspan="3"| 《你和我》 |- | 12月25日\[55\] |- | 2012 | 1月1日\[56\] |- | rowspan="2"| 2013 | 10月20日 | 《红舞鞋》 |- | 12月29日 | rowspan="2"| 《星期五见面》 |- | rowspan="3"| 2014 | 1月5日 |- | 5月11日\[57\] |《除了春天、爱情和樱花》 |- | 10月19日 | 《昭格洞》\[58\] |- | rowspan="2"| 2015 | 11月1日 | rowspan="2"|《二十三》 |- | 11月8日 |- | rowspan="4"| 2017 | 4月9日 | 《夜信》 |- | 4月30日 | rowspan="3"|《Palette》 |- | 5月7日 |- | 5月14日 |- | rowspan="3"| 2018 | 10月21日 | rowspan="3"|《BBIBBI》 |- | 10月28日 |- | 11月4日 |}
+|- | rowspan="3"| 2010 | 6月27日 | 《唠叨》 |- | 12月19日\[52\] | rowspan="3"|《好日子》 |- | 12月26日\[53\] |- | rowspan="3"| 2011 | 1月2日 |- | 12月18日\[54\] | rowspan="3"| 《你和我》 |- | 12月25日\[55\] |- | 2012 | 1月1日\[56\] |- | rowspan="2"| 2013 | 10月20日 | 《红舞鞋》 |- | 12月29日 | rowspan="2"| 《星期五见面》 |- | rowspan="3"| 2014 | 1月5日 |- | 5月11日\[57\] |《除了春天、爱情和樱花》 |- | 10月19日 | 《昭格洞》\[58\] |- | rowspan="2"| 2015 | 11月1日 | rowspan="2"|《二十三》 |- | 11月8日 |- | rowspan="4"| 2017 | 4月9日 | 《夜信》 |- | 4月30日 | rowspan="3"|《Palette》 |- | 5月7日 |- | 5月14日 |- | rowspan="3"| 2018 | 10月21日 | rowspan="3"|《BBIBBI》 |- | 10月28日 |- | 11月4日 |- | rowspan="2"| 2019 | 11月17日 | 《Love poem》 |- | 12月1日 | 《Blueming》 |}
 
 ### [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")
 
@@ -254,61 +254,39 @@
 
 ### [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")
 
-|- | 2013 | 10月19日 | 《红舞鞋》 |- | 2014 | 1月4日 | 《星期五见面》 |- | 2015 | 11月14日 | 《二十三》 |- | rowspan="2"| 2017 | 4月29日 | rowspan="2"| 《Palette》 |- | 5月6日 |- | rowspan="3" | 2018 | 10月20日 | rowspan="3"| 《BBIBBI》 |- | 10月27日 |- | 11月3日 |}
+|- | 2013 | 10月19日 | 《红舞鞋》 |- | 2014 | 1月4日 | 《星期五见面》 |- | 2015 | 11月14日 | 《二十三》 |- | rowspan="2"| 2017 | 4月29日 | rowspan="2"| 《Palette》 |- | 5月6日 |- | rowspan="3" | 2018 | 10月20日 | rowspan="3"| 《BBIBBI》 |- | 10月27日 |- | 11月3日 |- | rowspan="2"| 2019 | 11月16日 | rowspan="2"|《Love poem》 |- | 11月23日 |}
 
 ## 参考资料
 
 [Category:音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:音樂家獲獎列表 "wikilink") [Category:韓國相關列表](https://zh.wikipedia.org/wiki/Category:韓國相關列表 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  [Winners from the ’2012 MelOn Music Awards’\!](http://www.allkpop.com/2012/12/winners-from-the-2012-melon-music-awards). allkpop. (December 14, 2012) Retrieved on 2012-12-14.
-
 5.  [Winners from the 25th Golden Disk Awards](http://www.allkpop.com/2010/12/winners-from-the-25th-golden-disk-awards). Allkpop.com. Retrieved on October 24, 2011.
-
 6.  [Cyworld Digital Music Awards – Song Of The Month (June) "Nagging"](http://music.cyworld.com/chart/chart_dma_interview.asp?award_date=201006&type=S). Cyworld. Retrieved June 2, 2012.
-
 7.  [Cyworld Digital Music Awards – Song Of The Month (December) "Good Day"](http://music.cyworld.com/chart/chart_dma_interview.asp?award_date=201012&type=S). Cyworld. Retrieved June 2, 2012.
-
 8.  [Cyworld Digital Music Awards – Song Of The Month (December) "You and I"](http://music.cyworld.com/chart/chart_dma_interview.asp?award_date=201112&type=S). Cyworld. Retrieved June 2, 2012.
-
 9.  [Cyworld Digital Music Awards – Song Of The Month (May) "Peach"](http://music.cyworld.com/chart/chart_dma_interview.asp?award_date=201205&type=S). Cyworld. Retrieved June 2, 2012.
-
 10. [Winners from the 20th High1 Seoul Music Awards](http://www.allkpop.com/2011/01/winners-from-the-20th-high1-seoul-music-awards). Allkpop.com (January 20, 2011). Retrieved on 2011-10-24.
-
 11.
 12. [Winners from the 21st Seoul Music Awards](http://www.allkpop.com/2012/01/winners-from-the-21st-seoul-music-awards). allkpop. (January 19, 2012). Retrieved 2012-11-22.
-
 13.
 14. [Winners from the 2011 Mnet 20s Choice Awards](http://www.allkpop.com/2011/07/winners-from-the-2011-mnet-20s-choice-awards). Allkpop.com (July 7, 2011). Retrieved on 2011-10-24.
-
-15. [Award winners](http://www.tvcf.co.kr/tvcfaward/winners/win2011.asp). Tvcf.co.kr. Retrieved on August 20, 2012.
-
+15. [Award winners](http://www.tvcf.co.kr/tvcfaward/winners/win2011.asp) . Tvcf.co.kr. Retrieved on August 20, 2012.
 16.
-
 17.
 18.
-
 19.
-
 20.
-
 21. [from the 9th Korean Music Awards](http://media.daum.net/entertain/enews/view?cateid=1033&newsid=20120220203404419&p=tvdaily). Daum.net (February 20, 2012) Retrieved on 2012-02-21.
-
 22. [from the 9th Korean Music Awards](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=022&aid=0002368345). Naver.net (February 29, 2012) Retrieved on 2012-02-29.
-
 23. [1](http://ent.ltn.com.tw/m/news/breakingnews/1610510).
-
 24.
-
 25.
-
 26.
 27.
-
 28.
 29.
 30.
@@ -318,55 +296,29 @@
 34.
 35.
 36.
-
 37.
-
 38.
-
 39. <http://beatuscorner.com/korea-drama-awards-2015-nominees-list/>
-
 40. <http://beatuscorner.com/2015-apan-star-awards-winners-list/>
-
 41. <https://entertain.naver.com/read?oid=109&aid=0003882011>
-
 42. \[<https://m.facebook.com/story.php?story_fbid=10153822611450907&id=12642315906>. Retrieved on February 23, 2016.
-
 43. <https://www.youtube.com/watch?v=xBk_5uudJVw>
-
 44. <http://www.koreastardaily.com/tc/news/88631/>
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.

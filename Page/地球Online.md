@@ -18,6 +18,6 @@
 2.  [排名已入前10名](http://steamcommunity.com/sharedfiles/filedetails/updates/499111370/1439826623)
 3.
 4.  [国产游戏《地球 Online》侵权内容曝光](http://digi.163.com/15/0818/06/B19GF98I00162DSP.html)
-5.  [「任大嘴」《地球OL》因侵权下架 被网友质疑不靠谱](http://www.appgame.com/archives/408975.html)
+5.
 6.  [地球Online重新上架Steam 遭众多玩家“怒喷”](http://www.eeyy.com/chanye/20150916/65974.html)
 7.  [地球ol众筹惨败 开发者回应称国内众筹环境变质](http://www.eeyy.com/chanye/20151019/66861.html)

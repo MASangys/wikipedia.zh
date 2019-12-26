@@ -1,4 +1,4 @@
-**威廉·S·蒂利特**（，），美国内科医师和微生物学家，出生于北卡羅來納州的[夏洛特](../Page/夏洛特_\(北卡羅來納州\).md "wikilink")，最知名的贡献是发现了[C反應蛋白和](https://zh.wikipedia.org/wiki/C反應蛋白 "wikilink")[链激酶](../Page/链激酶.md "wikilink")。
+**威廉·S·蒂利特**（，），美国内科医师和微生物学家，教授\[1\]，出生于北卡羅來納州的[夏洛特](../Page/夏洛特_\(北卡羅來納州\).md "wikilink")，最知名的贡献是发现了[C反應蛋白和](https://zh.wikipedia.org/wiki/C反應蛋白 "wikilink")[链激酶](../Page/链激酶.md "wikilink")。
 
 ## 参考文献
 
@@ -18,4 +18,6 @@
 </tbody>
 </table>
 
-[Category:1892年出生](https://zh.wikipedia.org/wiki/Category:1892年出生 "wikilink") [Category:1974年逝世](https://zh.wikipedia.org/wiki/Category:1974年逝世 "wikilink") [Category:美国国家科学院院士](https://zh.wikipedia.org/wiki/Category:美国国家科学院院士 "wikilink") [Category:拉斯克基礎醫學研究獎得主](https://zh.wikipedia.org/wiki/Category:拉斯克基礎醫學研究獎得主 "wikilink")
+[Category:1892年出生](https://zh.wikipedia.org/wiki/Category:1892年出生 "wikilink") [Category:1974年逝世](https://zh.wikipedia.org/wiki/Category:1974年逝世 "wikilink") [Category:美国国家科学院院士](https://zh.wikipedia.org/wiki/Category:美国国家科学院院士 "wikilink") [Category:拉斯克基礎醫學研究獎得主](https://zh.wikipedia.org/wiki/Category:拉斯克基礎醫學研究獎得主 "wikilink") [Category:芝加哥大学荣誉博士](https://zh.wikipedia.org/wiki/Category:芝加哥大学荣誉博士 "wikilink")
+
+1.

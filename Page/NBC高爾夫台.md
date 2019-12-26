@@ -7,7 +7,7 @@
   -
   - [NBC Sports Website](http://nbcsports.msnbc.com/)
 
-[Category:美國電視頻道](https://zh.wikipedia.org/wiki/Category:美國電視頻道 "wikilink")
+[Category:美國電視台](https://zh.wikipedia.org/wiki/Category:美國電視台 "wikilink") [Category:美國高爾夫](https://zh.wikipedia.org/wiki/Category:美國高爾夫 "wikilink")
 
 1.
 2.

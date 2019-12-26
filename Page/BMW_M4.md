@@ -131,28 +131,16 @@
 [Category:中型車](https://zh.wikipedia.org/wiki/Category:中型車 "wikilink") [Category:BMW車輛](https://zh.wikipedia.org/wiki/Category:BMW車輛 "wikilink") [Category:雙門轎跑車](https://zh.wikipedia.org/wiki/Category:雙門轎跑車 "wikilink") [Category:敞篷車](https://zh.wikipedia.org/wiki/Category:敞篷車 "wikilink") [Category:後輪驅動](https://zh.wikipedia.org/wiki/Category:後輪驅動 "wikilink") [Category:2014年面世的汽車](https://zh.wikipedia.org/wiki/Category:2014年面世的汽車 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  双涡轮单涡管增压机（“Echter Bi-Turbo”）
-
 7.  取决于所选轮胎
-
 8.
 9.  [Technische Daten des BMW M4 Coupé](http://www.bmw.de/de/neufahrzeuge/M/m4coupe/2014/technische-daten.html) , abgerufen am 12. Juli 2014.
-
 10. [Technische Daten des BMW M4 Cabrio](http://www.bmw.de/de/neufahrzeuge/M/m4-cabrio/2014/technische-daten.html) , abgerufen am 12. Juli 2014.
-
 11.
-
 12.
-
 13.
-
 14.

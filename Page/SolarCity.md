@@ -32,7 +32,7 @@ Elon Musk本人表示，從現金流的觀點看，SolarCity非常健康，且�
 
 ## 外部链接
 
-  - [Official SolarCity website](http://www.solarcity.com/)
+  - [Official SolarCity website](https://web.archive.org/web/20180402031500/http://www.solarcity.com/)
   - [SolarCity Supplies 2.7 MW of Energy](http://www.renewableenergyworld.com/articles/2008/03/solarcity-supplies-2-7-mw-of-energy-51852.html)
   - [Going solar as a neighborhood group can make installation more affordable](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/01/06/HOGVMNCB361.DTL&hw=solarcity&sn=001&sc=1000)
   - [Paramount Energy Solutions is a SolarCity certified partner.](http://www.paramountenergysolutions.com/)

@@ -16,6 +16,8 @@
 
 ### 電視動畫
 
+  - 2010年代
+
 <table>
 <thead>
 <tr class="header">
@@ -143,6 +145,49 @@
 </tbody>
 </table>
 
+  - 2020年代
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>中文名稱</p></th>
+<th><p>日文名稱</p></th>
+<th><p>名銜</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2020年</p></td>
+<td><p><a href="../Page/無職轉生～到了異世界就拿出真本事～.md" title="wikilink">無職轉生～到了異世界就拿出真本事～</a></p></td>
+<td></td>
+<td><p>企劃製作</p></td>
+</tr>
+</tbody>
+</table>
+
+### OVA／網路動畫
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>中文名稱</p></th>
+<th><p>日文名稱</p></th>
+<th><p>名銜</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p><a href="../Page/齊木楠雄的災難.md" title="wikilink">齊木楠雄的災難 始動篇</a>[8]</p></td>
+<td></td>
+<td><p>動畫製作（共同製作：J.C.STAFF）<br />
+由<a href="../Page/Netflix.md" title="wikilink">Netflix</a>獨家播出</p></td>
+</tr>
+</tbody>
+</table>
+
 ### 電影動畫
 
   - [劇場版 加速世界 INFINITE∞BURST](https://zh.wikipedia.org/wiki/加速世界#劇場版動畫 "wikilink")（2016年）－企劃製作協力
@@ -155,6 +200,8 @@
   - 多數表決廣播劇「[奇諾之旅 the Beautiful World](https://zh.wikipedia.org/wiki/奇諾之旅 "wikilink")」（2016年）－製作
   - 三獸召喚記（2018年）－企劃協力
 
+## 注釋
+
 ## 參考資料
 
 ## 外部連結
@@ -165,11 +212,9 @@
 
 1.
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
+8.  《[齊木楠雄的災難](../Page/齊木楠雄的災難.md "wikilink")》系列添加全新劇情的中間篇幅動畫，由[Netflix](../Page/Netflix.md "wikilink")獨家播出。

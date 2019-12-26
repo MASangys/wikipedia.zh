@@ -872,31 +872,18 @@
 [Category:假面騎士角色列表](https://zh.wikipedia.org/wiki/Category:假面騎士角色列表 "wikilink")
 
 1.  之后于2018年参演[牙狼系列电影](https://zh.wikipedia.org/wiki/牙狼系列 "wikilink")——《[牙狼 神之牙](https://zh.wikipedia.org/wiki/牙狼_神之牙 "wikilink")》中的反派角色——神牙和《[神之牙 GINGA](https://zh.wikipedia.org/wiki/神之牙_GINGA "wikilink")》中的正派角色——影煌骑士 狼是 / 御影神牙
-
 2.  Den-O 變身者有「特異點」跟「與原變身者締結契約的Imagin們」以及「曾旅行過各個世界的Imagin被附身者」
-
 3.  此相片為夏海情急之下拍攝，並非士所拍攝。其後夏海利用此相片使士復活。
-
 4.  此相片士並非使用原作的Blackird Fly相機，而是用另一台[即时成像相机](../Page/即时成像相机.md "wikilink")所拍攝。
-
 5.  第49集結尾和海東站在一起時
-
 6.  特別篇版並沒有雄介被變成假面騎士Kuuga Ultimate Form的畫面。
-
 7.  劇中並沒有說明變身者是誰，有可能並非同一人。
-
 8.
 9.  在士的照片中，Faiz世界、AgitΩ世界和Den-O世界還末完全消失，當中以Faiz世界最為嚴重，Den-O世界最為輕微
-
 10. 蘆河（讀音為Ashikawa）翔一即是原作的**Gills**變身者「『葦（讀音為Ashi）』原涼」、**G3-X**的著裝者「冰『川（讀音為Kawa）』誠」和**AgitΩ** 的變身者「津上『翔一』」的組合
-
 11.
 12. 和原作劇場版「老子，誕生！」一樣，飾演野上 良太郎（少年）
-
 13. 在劇中，良太郎本人並沒有出場，只出現了變身後的**电王**
-
 14. 在士的照片中，Faiz世界、AgitΩ世界和电王的世界還末完全消失，當中以Faiz世界最為嚴重，电王的世界最為輕微
-
 15. 注意：芳賀優里亞雖然有飾演過**Kiva** 的**Queen**「鈴木深央」，但本作中的名字是，變成的Fangire 也不是原作的珍珠貝Fangire 而是Thorn Fangire
-
 16. 劇中只描寫了本作的Blade、Kiva、Hibiki的世界消失了，而其他世界有否消失則沒有描寫，只是說最终都會像以上三個世界那樣消失

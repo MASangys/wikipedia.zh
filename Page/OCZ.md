@@ -47,61 +47,33 @@ OCZ在2011年2月28日\[8\] 的2010财年结束时，停止了所有RAM生产，
 
 [Category:森尼韋爾公司](https://zh.wikipedia.org/wiki/Category:森尼韋爾公司 "wikilink") [Category:2014年成立的公司](https://zh.wikipedia.org/wiki/Category:2014年成立的公司 "wikilink") [Category:2014年結業公司](https://zh.wikipedia.org/wiki/Category:2014年結業公司 "wikilink") [Category:2002年成立的公司](https://zh.wikipedia.org/wiki/Category:2002年成立的公司 "wikilink") [Category:納斯達克已除牌公司](https://zh.wikipedia.org/wiki/Category:納斯達克已除牌公司 "wikilink") [Category:三井集團](https://zh.wikipedia.org/wiki/Category:三井集團 "wikilink") [Category:電腦硬件公司](https://zh.wikipedia.org/wiki/Category:電腦硬件公司 "wikilink") [Category:美國電腦公司](https://zh.wikipedia.org/wiki/Category:美國電腦公司 "wikilink") [Category:2014年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2014年加利福尼亞州建立 "wikilink") [Category:公司丑闻](https://zh.wikipedia.org/wiki/Category:公司丑闻 "wikilink") [Category:会计丑闻](https://zh.wikipedia.org/wiki/Category:会计丑闻 "wikilink")
 
-1.  <http://www.oczenterprise.com/ssd-products/talos-2-r-sas-2.5-mlc.html>
-
+1.
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  Press release: [OCZ Technology Acquires Intellectual Property From Solid Data Inc. for Fibre-Channel, SAS, and Solid-State Drive Controller Assets](http://ir.stockpr.com/ocztechnology/recent-news/detail/833/ocz-technology-acquires-intellectual-property-from-solid-data-inc-for-fibre-channel-sas-and-solid-state-drive-controller-assets), Nov. 15, 2010
-
 8.  Hilbert Hagedoorn, [OCZ to halt DRAM production completely](http://www.guru3d.com/news/ocz-to-halt-dram-production-completely/), January 12, 2011
-
 9.
-
 10. Press release: [OCZ Technology Acquires UK Design Team from PLX Technology](http://www.ocztechnology.com/aboutocz/press/2011/453), October 5, 2011
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
 30.

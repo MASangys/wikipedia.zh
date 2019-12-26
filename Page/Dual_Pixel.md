@@ -1,6 +1,6 @@
 [Canon_5D4_DualPixelRAW_in_menu.jpg](https://zh.wikipedia.org/wiki/File:Canon_5D4_DualPixelRAW_in_menu.jpg "fig:Canon_5D4_DualPixelRAW_in_menu.jpg") **Dual Pixel** 是一种图像传感器上的功能设计，最早由[佳能公司在](https://zh.wikipedia.org/wiki/佳能公司 "wikilink")[EOS 70D上推出](../Page/佳能_EOS_70D.md "wikilink")，之后普及到新推出的EOS机型上。三星公司的[Galaxy S7上相机模块也配置了该种排布](../Page/三星Galaxy_S7.md "wikilink")\[1\]。
 
-该功能在不同区域译名也并不一致，中国大陆称之为**全像素双核**，香港和台湾地区称之为**双像素**\[2\]\[3\]\[4\]。
+该功能在不同区域译名也并不一致，中国大陆称之为**全像素双核**，香港地區和台湾称之为**双像素**\[2\]\[3\]\[4\]。
 
 ## 概述
 
@@ -16,7 +16,7 @@ Dual Pixel构造最初用于加强片上相位对焦点的分布与成像能力�
 
 2010年，[富士胶片](../Page/富士胶片.md "wikilink")在成像传感器上镶嵌相位对焦传感器，代表机型为F300EXR\[7\]。核心技术在于，使用传感器上的成对像素点，对其进行半遮蔽处理，使其构成相位检测点\[8\]。该技术极大程度推动了数码无反和手机拍摄模块的[自动对焦](../Page/自动对焦.md "wikilink")能力发展，也成为其他传感器生产企业的效仿对象。其缺点在于进行了遮蔽处理的像素只能用于自动对焦，无法参与成像。
 
-佳能公司也曾经推出名为**Hybrid CMOS AF**的内嵌相位点混合对焦技术\[9\]，而其后继者便是**Dual Pixel CMOS AF** ；Dual Pixel将子像素获取的光线分为两半，单独读取成对像素的各一半信息，即构成了相位对焦点；而在曝光时，子像素同时读取一对光电二极管信息，即构成完整像素\[10\]。这样的设计，克服了内嵌相位点像素无法参与曝光而只能使用插值方式恢复（影响相对较小），以及可以在较大区域布置海量对焦点，共同辅助对焦（70D为例，分布于中心区附近横竖约80%范围）。
+佳能公司也曾经推出名为**Hybrid CMOS AF**的内嵌相位点混合对焦技术\[9\]，而其后继者便是**Dual Pixel CMOS AF**；Dual Pixel将子像素获取的光线分为两半，单独读取成对像素的各一半信息，即构成了相位对焦点；而在曝光时，子像素同时读取一对光电二极管信息，即构成完整像素\[10\]。这样的设计，克服了内嵌相位点像素无法参与曝光而只能使用插值方式恢复（影响相对较小），以及可以在较大区域布置海量对焦点，共同辅助对焦（70D为例，分布于中心区附近横竖约80%范围）。
 
 ### Dual Pixel RAW
 
@@ -102,36 +102,21 @@ Dual Pixel构造最初用于加强片上相位对焦点的分布与成像能力�
 [Category:图像传感器](https://zh.wikipedia.org/wiki/Category:图像传感器 "wikilink")
 
 1.  [摄像头 - 三星盖乐世S7/S7 edge](http://www.samsung.com/cn/consumer/mobile-phones/smart-phone/galaxy-s/galaxy-s7/camera/) - 三星（中国）
-
 2.  [創新的「雙像素CMOS自動對焦」](http://www.canon.com.hk/cpx/tc/technical/pa_Innovative_Dual_Pixel_CMOS.html) - Canon Professional eXchange - Canon.com.hk
-
 3.  [Canon成功研發全新“雙像素CMOS自動對焦”技術](https://www.canon.com.tw/about/NewsDetail.aspx?NID=000424&year=2013)
-
 4.  [Canon EOS 7D Mark II](http://www.canon.com.tw/specialsite/7dmarkii/function.html)  - 佳能（台湾）
-
 5.  [Canon develops new "Dual Pixel CMOS AF" technology for significantly improved autofocus performance during Live View shooting and when shooting movies](https://www.canon.com.hk/en/corporate/press_release/pressReleaseDetails.do?prmid=10816) - Canon（HK）
-
 6.
 7.  [Exclusive: Fujifilm's phase detection system explained](http://www.dpreview.com/articles/2151234617/fujifilmpd) - DP Review
-
 8.
 9.  [EOS 100D | 产品特征](http://www.canon.com.cn/products/camera/eos/lineup/100d/info4.html) - 佳能（中国）
-
 10. [CINEMA EOS升级功能](http://www.canon.com.cn/products/cinemaeos/upgrade/eosc100_3.html) - 佳能（中国）
-
 11. [Using Canon's Dual Pixel RAW to gain an additional stop in the highlights](http://www.imaging-resource.com/news/2016/09/01/dual-pixel-raw-redux-forget-focus-tweaks-canons-new-tech-can-yield-an-addit) - IMAGING RESOURCE
-
 12. [](http://www.canon.com.cn/products/camera/eos/lineup/5dmk4/info2.html) - 佳能（中国）
-
 13. [Canon EOS 5D Mark IV First Impressions Review](https://www.dpreview.com/reviews/canon-eos-5d-mark-iv-first-impressions-review/5) DP Review
-
 14. [1](http://photoblog.hk/wordpress/169304/5d-iv-%E6%AD%A3%E5%BC%8F%E6%8E%A8%E5%87%BA%EF%BC%8C%E8%A7%A3%E6%A7%8B%E6%96%B0%E5%8A%9F%E8%83%BD%E3%80%8Cdual-pixel-raw%E3%80%8D) - Photoblog.hk
-
 15.
 16. [CINEMA EOS升级功能 | EOS C100](http://www.canon.com.cn/products/cinemaeos/upgrade/eosc100_3.html) - 佳能（中国）
-
 17. [CINEMA EOS升级功能 | EOS C300](http://www.canon.com.cn/products/cinemaeos/upgrade/eosc300_2.html) - 佳能（中国）
-
 18. [全像素双核CMOS AF（Dual Pixel CMOS AF）对应镜头一览](https://www.canon.com.cn/products/camera/eos/data/dual_pixel_cmos_af.html) - 佳能（中国）
-
 19.

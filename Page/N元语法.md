@@ -19,7 +19,5 @@
 [Category:機率模型](https://zh.wikipedia.org/wiki/Category:機率模型 "wikilink") [Category:語言模型](https://zh.wikipedia.org/wiki/Category:語言模型 "wikilink") [Category:计算语言学](https://zh.wikipedia.org/wiki/Category:计算语言学 "wikilink") [Category:自然语言处理](https://zh.wikipedia.org/wiki/Category:自然语言处理 "wikilink")
 
 1.  <https://class.coursera.org/nlp/lecture/17>
-
 2.
-
 3.

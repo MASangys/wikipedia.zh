@@ -19,7 +19,7 @@
   -
 [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:SCANDAL音樂專輯](https://zh.wikipedia.org/wiki/Category:SCANDAL音樂專輯 "wikilink")
 
-1.  [2016年3月2日（水）ニューアルバム『YELLOW』のリリースが決定！](http://www.scandal-4.com/info/archive/?462844).SCANDAL Official Website.2015-12-23.\[2016-04-02\].
+1.  [2016年3月2日（水）ニューアルバム『YELLOW』のリリースが決定！](http://www.scandal-4.com/info/archive/?462844) .SCANDAL Official Website.2015-12-23.\[2016-04-02\].
 2.  [週間　ROCKアルバムランキング(2016年03月14日付)](http://www.oricon.co.jp/rank/ra/w/2016-03-14/).Oricon.\[2016-04-02\].
 3.  [週間　ROCKアルバムランキング(2016年03月21日付)](http://www.oricon.co.jp/rank/ra/w/2016-03-21/).Oricon.\[2016-04-02\].
 4.  [週間　ROCKアルバムランキング(2016年03月28日付)](http://www.oricon.co.jp/rank/ra/w/2016-03-28/).Oricon.\[2016-04-02\].

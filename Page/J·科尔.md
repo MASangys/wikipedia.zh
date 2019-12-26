@@ -1,4 +1,4 @@
-**杰曼·拉马尔·科尔(Jermaine Lamarr Cole)**（），以其艺名**J·科尔**（**J. Cole**）被大众熟知，是一位美国的饶舌歌手、词曲作者及唱片制作人。科尔成长于[北卡罗来纳州](../Page/北卡罗来纳州.md "wikilink")的[费耶特维尔](https://zh.wikipedia.org/wiki/費耶特維爾_\(北卡羅萊納州\) "wikilink")，2007年年初，科尔<span>以饶舌歌手的身份发行了</span>他的首张混音带《The Come Up<span>》</span>。为进一步追求说唱歌手的职业生涯，2009年，在与Jay Z的Roc Nation唱片公司签约后，他发行了另外两张混音带。
+**杰曼·拉马尔·科尔(Jermaine Lamarr Cole)**（），以其艺名**J·科尔**（**J. Cole**）被大众熟知，是一位美国的饶舌歌手、词曲作者及唱片制作人。科尔成长于[北卡罗来纳州](../Page/北卡罗来纳州.md "wikilink")的[费耶特维尔](https://zh.wikipedia.org/wiki/費耶特維爾_\(北卡羅萊納州\) "wikilink")，2007年年初，科尔<span>以饶舌歌手的身份发行了</span>他的首张混音带《The Come Up<span>》</span>。为进一步追求饶舌歌手的职业生涯，2009年，在与Jay Z的Roc Nation唱片公司签约后，他发行了另外两张混音带。
 
 科尔于2011年发行了他的首张录音室专辑《<span>Cole World: The Sideline Story》</span>，这张专辑取得了评论方面\[1\]和商业上的成功。专辑空降美国[公告牌二百强专辑榜](../Page/公告牌二百强专辑榜.md "wikilink")的首位，并在短期内被[美国唱片业协会认证为白金唱片](https://zh.wikipedia.org/wiki/美国唱片业协会 "wikilink")\[2\]。科尔随后分别于2013年和2014年发行的专辑<span>《Born Sinner》、《2014 Forest Hills Drive》均取得了全球范围内的成功</span>\[3\]\[4\]\[5\]\[6\]，并已分别在美国取得了金唱片和双白金唱片的认证，而《2014 Forest Hills Drive》则为他赢得了他的首次[格莱美奖最佳饶舌专辑的提名](../Page/葛萊美獎.md "wikilink")。《<span>2014 Forest Hills Drive》也是近25年来首张无任何客串献唱却获得白金唱片认证的饶舌专辑</span>\[7\]<span>。</span>
 
@@ -148,158 +148,82 @@
 [Category:美国嘻哈歌手](https://zh.wikipedia.org/wiki/Category:美国嘻哈歌手 "wikilink") [Category:美国饶舌歌手](https://zh.wikipedia.org/wiki/Category:美国饶舌歌手 "wikilink") [Category:德國裔美國人](https://zh.wikipedia.org/wiki/Category:德國裔美國人 "wikilink") [Category:哥倫比亞唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:哥倫比亞唱片旗下藝人 "wikilink") [Category:法蘭克福人](https://zh.wikipedia.org/wiki/Category:法蘭克福人 "wikilink") [Category:紐約聖若望大學校友](https://zh.wikipedia.org/wiki/Category:紐約聖若望大學校友 "wikilink")
 
 1.  <cite class="citation web">["Reviews for Cole World: The Sideline Story by J. Cole"](http://www.metacritic.com/music/cole-world-the-sideline-story/j-cole). </cite>
-
 2.  <cite class="citation web">["Gold & Platinum - RIAA"](http://www.riaa.com/gold-platinum/?tab_active=default-award&ar=J.+Cole&ti=COLE+WORLD%3A+THE+SIDELINE+STORY#search_section). </cite>
-
 3.
-
 4.  <cite class="citation web">["Reviews for Born Sinner by J. Cole"](http://www.metacritic.com/music/born-sinner/j-cole). </cite>
-
 5.  <cite class="citation web">Jeffries, David. ["2014 Forest Hills Drive – J. Cole"](http://www.allmusic.com/album/2014-forest-hills-drive-mw0002786766). </cite>
-
 6.
-
 7.
-
 8.  <cite class="citation web">["J. Cole Album & Song Chart History: Hot 100"](http://www.billboard.com/artist/276541/j-cole/chart?f=379). </cite>
-
 9.  <cite class="citation web">["J. Cole Returns To North Carolina For 'Dreamville Weekend'"](http://rapfix.mtv.com/2012/03/02/j-cole-dreamville-weekend-north-carolina/) . </cite>
-
 10. Trent Fitzgerald, [J. Cole Celebrates His 27th Birthday In New York City](http://popcrush.com/j-cole-celebrates-27th-birthday/). popcrush.com.
-
 11.
-
 12. <cite class="citation web">Insanul Ahmed. ["25 Things You Didn't Know About J. Cole"](http://ca.complex.com/music/2013/06/25-things-you-didnt-know-about-j-cole/). </cite>
-
 13.
-
 14.
-
 15.
-
 16. <cite class="citation web">Insanul Ahmed. ["25 Things You Didn't Know About J. Cole"](http://ca.complex.com/music/2013/06/25-things-you-didnt-know-about-j-cole/). </cite>
-
 17.
 18.
-
 19. <cite class="citation web">["As a teenager in Fayetteville, J. Cole was down with a rap duo called Bomm Sheltuh. — 25 Things You Didn't Know About J. Cole"](http://www.complex.com/music/2013/06/25-things-you-didnt-know-about-j-cole/bomm-sheltuh). </cite>
-
 20. <cite class="citation web">AKAASH (June 1, 2015). </cite>
-
 21. <cite class="citation web">["J. Cole's Tales Out of School"](http://www.interviewmagazine.com/music/j-cole-harvard/#_). </cite>
-
 22.
-
 23. <cite class="citation web">Insanul Ahmed. ["25 Things You Didn't Know About J. Cole"](http://ca.complex.com/music/2013/06/25-things-you-didnt-know-about-j-cole/). </cite>
-
 24. <cite class="citation web">["GermanRhymes.de – Interview with J. Cole"](https://www.youtube.com/watch?v=oovaKXIttoo). </cite>
-
 25.
-
 26. <cite class="citation web">["J. Cole Gets Diploma From St. John's University"](http://www.ballerstatus.com/2015/04/11/j-cole-gets-diploma-from-st-johns-university/). </cite>
-
 27.
 28. <cite class="citation web">["J Cole"](http://www.feelingsuccess.com/j-cole/) . </cite>
-
 29. <cite class="citation web">["J Cole Inspired By Eminem & Canibus (Video)"](http://www.rapbasement.com/j-cole/051810-j-cole-says-he-was-inspired-by-eminem-and-canibus-in-his-early-days-watch-here-click-now.html). </cite>
-
 30. <cite class="citation web">["Jay-Z Blueprint 3 Tracklist & Back Cover"](http://www.rapbasement.com/jay-z/081909-jay-z-back-cover-tracklist-for-his-new-blueprint-3-leaks.html). </cite>
-
 31. [1](http://beyondrace.com/articles/features/2245-j-cole) [Archived](https://web.archive.org/web/20100212225000/http://beyondrace.com/articles/features/2245-j-cole)<span> February 12, 2010, at the </span>Wayback Machine<span>.</span>
-
 32. <cite class="citation web">["Rapper Wiz Khalifa set to perform at SU after incarceration – Feature"](https://web.archive.org/web/20110927004106/http://www.dailyorange.com/feature/rapper-wiz-khalifa-set-to-perform-at-su-after-incarceration-1.1815889). </cite>
-
 33. <cite class="citation web">VoodooChild (April 27, 2010). </cite>
-
 34.
-
 35. <cite class="citation web">["Tune in to BET's 106 & Park TODAY 6:00 PM EST to see J. Cole debut the "Who Dat" video\!"](https://www.facebook.com/JColeMusic/posts/126677024036692)</cite>
-
 36. <cite class="citation web">["J. Cole reveals Debut Album Song Titles"](http://www.jcole.org/2010/video-j-cole-speaks-on-final-album-selections/) . </cite>
-
 37. <cite class="citation web">["DOWNLOAD "FRIDAY NIGHT LIGHTS"\!"](https://web.archive.org/web/20110713092437/http://www.jcolemusic.com/news/download-friday-night-lights)</cite>
-
-38. [J. Cole Debuts His First Single “Work Out”, Off His Upcoming Debut Album](http://www.missinfo.tv/index.php/j-cole-delivers-the-first-single-work-out-off-his-upcoming-debut-album/) *MissInfo.tv*
-
+38. [J. Cole Debuts His First Single “Work Out”, Off His Upcoming Debut Album](http://www.missinfo.tv/index.php/j-cole-delivers-the-first-single-work-out-off-his-upcoming-debut-album/)  *MissInfo.tv*
 39. [J. Cole's Work Out sample of Kanye West's The New Workout Plan](http://www.whosampled.com/sample/view/101875/J.%20Cole-Work%20Out_Kanye%20West-The%20New%20Workout%20Plan/) *WhoSampled*
-
 40. [J. Cole's Work Out sample of Paula Abdul's Straight Up](http://www.whosampled.com/sample/view/101874/J.%20Cole-Work%20Out_Paula%20Abdul-Straight%20Up/) *WhoSampled*
-
 41. [J. Cole – Cole World: The Sideline Story (Tracklist)](http://www.2dopeboyz.com/2011/08/29/j-cole-cole-world-the-sideline-story-tracklist/) 2DopeBoyz.com
-
 42. <cite class="citation web">["Peep This: Rihanna Hangs Out With J. Cole And Trey Songz At The 'Can't Get Enough' Shoot"](http://vibe.com/photo-galleries/peep-rihanna-hangs-out-j-cole-and-trey-songz-cant-get-enough-shoot). </cite>
-
 43.
-
 44.
-
-45. Steven J. Horowitz, [J. Cole Says His Sophomore Album Will Arrive In June 2012](http://www.hiphopdx.com/index/news/id.17358/title.j-cole-says-his-sophomore-album-will-arrive-in-june-2012). hiphopdx.com.
-
+45. Steven J. Horowitz, [J. Cole Says His Sophomore Album Will Arrive In June 2012](http://www.hiphopdx.com/index/news/id.17358/title.j-cole-says-his-sophomore-album-will-arrive-in-june-2012) . hiphopdx.com.
 46. [2](http://hiphop2day.com/j-cole-grew-up-fast/) [Archived](https://web.archive.org/web/20120405045454/http://hiphop2day.com/j-cole-grew-up-fast/)<span> April 5, 2012, at the </span>Wayback Machine<span>.</span>
-
 47. [J. Cole Returns To North Carolina For 'Dreamville Weekend'](http://rapfix.mtv.com/2012/03/02/j-cole-dreamville-weekend-north-carolina/) . rapfix.mtv.com.
-
-48. <cite class="citation news">["J Cole To Perform At Big Brother Africa Launch"](http://www.momix.co.za/index.php?option=com_content&view=article&id=756:j-cole-to-perform-at-big-brother-africa-launch&catid=41:news&Itemid=69). momix.co.za. </cite>
-
+48. <cite class="citation news">["J Cole To Perform At Big Brother Africa Launch"](http://www.momix.co.za/index.php?option=com_content&view=article&id=756:j-cole-to-perform-at-big-brother-africa-launch&catid=41:news&Itemid=69) . momix.co.za. </cite>
 49. <cite class="citation news">["Namibia: J Cole to Perform at Big Brother Africa"](http://allafrica.com/stories/201203140184.html). allAfrica.com. </cite>
-
 50.
 51. <cite class="citation web">["Video: J. Cole Performs New Verses Live In Hollywood \~ All City Chess Club"](http://www.allcitychessclub.net/2012/10/video-j-cole-performs-new-verses-live.html) . </cite>
-
-52. <cite class="citation web">["J. Cole "Miss America" Single Cover Art"](http://www.hiphopdx.com/index/news/id.21850/title.j-cole-miss-america-single-cover-art). </cite>
-
+52. <cite class="citation web">["J. Cole "Miss America" Single Cover Art"](http://www.hiphopdx.com/index/news/id.21850/title.j-cole-miss-america-single-cover-art) . </cite>
 53. <cite class="citation web">["AMAs 2012: Watch Red Carpet Videos With J. Cole, Linkin Park + More – American Music Awards"](http://www.billboard.com/articles/news/474094/amas-2012-watch-red-carpet-videos-with-j-cole-linkin-park-more). </cite>
-
 54. <cite class="citation web">["J. Cole Went Head-To-Head With Kanye Because 'My Album Is Great'"](http://www.mtv.com/news/articles/1709365/j-cole-kanye-west-born-sinner-yeezus-competition.jhtml). </cite>
-
 55.
-
 56.
-
 57.
-
 58. <cite class="citation web">["J. Cole to let single mothers live rent-free in childhood home"](http://www.wral.com/j-cole-to-let-single-mothers-live-rent-free-in-childhood-home/14399292/). </cite>
-
 59. <cite class="citation web">["J. Cole Announces New Album '2014 Forest Hills Drive'"](http://www.rap-up.com/2014/11/16/j-cole-announces-new-album-2014-forest-hills-drive/). </cite>
-
 60. <cite class="citation web">["Is J. Cole Dropping A New Album Next Month?"](http://www.vibe.com/article/j-cole-2014-forest-hills-drive-rumors)</cite>
-
 61.
-
 62.
-
 63. <cite class="citation web">["Bravo: J.Cole's '2014 Forest Hills Drive' Album Goes Platinum"](http://www.vibe.com/2015/03/j-cole-2014-forest-hills-drive-album-goes-platinum/). </cite>
-
 64. <cite class="citation web">[""2014 Forest Hills Drive" is Officially J. Cole's First Platinum Album"](http://www.djbooth.net/index/news/entry/2015-3-31-j-cole-forest-hills-drive-platinum-album). </cite>
-
 65.
-
 66.
-
 67.
-
-68. <cite class="citation web">["J. Cole Talks Storytelling, Working with Jay-Z & Kendrick Lamar"](http://www.hiphopdx.com/index/news/id.15889/title.j-cole-talks-storytelling-working-with-jay-z-kendrick-lamar). </cite>
-
+68. <cite class="citation web">["J. Cole Talks Storytelling, Working with Jay-Z & Kendrick Lamar"](http://www.hiphopdx.com/index/news/id.15889/title.j-cole-talks-storytelling-working-with-jay-z-kendrick-lamar) . </cite>
 69. <cite class="citation web">["J Cole talks Tupac, Jay Z, Eminem & Dreamville | Live with Steve Lobel"](http://www.youtube.com/watch?v=5CvED0F5LAw). </cite>
-
-70. <cite class="citation web">["Nas & J. Cole Address Comparisons To Each Other & Lyricism In 2013"](http://www.hiphopdx.com/index/news/id.25037/title.nas-j-cole-address-comparisons-to-each-other-lyricism-in-2013). </cite>
-
+70. <cite class="citation web">["Nas & J. Cole Address Comparisons To Each Other & Lyricism In 2013"](http://www.hiphopdx.com/index/news/id.25037/title.nas-j-cole-address-comparisons-to-each-other-lyricism-in-2013) . </cite>
 71. <cite class="citation web">["J. Cole – Let Nas Down (Born Sinner)"](http://www.youtube.com/watch?v=bLF39513uwM). </cite>
-
 72. <cite class="citation" id="CITEREFMusic-W2016">Music-W (2016-01-18), [*Put On Blast: Creed Director Ryan Coogler Accidentally Revealed J. Cole Is Married During Interview\!*](https://www.youtube.com/watch?v=g6fX56ZeIMk)<span class="reference-accessdate">, retrieved <span class="nowrap">2016-04-26</span></span></cite><cite class="citation" id="CITEREFMusic-W2016"></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fen.wikipedia.org%3AJ.+Cole&rft.au=Music-W&rft.btitle=Put+On+Blast%3A+Creed+Director+Ryan+Coogler+Accidentally+Revealed+J.+Cole+Is+Married+During+Interview%21&rft.date=2016-01-18&rft.genre=book&rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dg6fX56ZeIMk&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"> </span>
-
 73. <cite class="citation web">["KWaK chops it up with Melissa Heholt of Statice Events | Celebrating Women's Empowerment | Karla With A Kay"](http://karlawithakay.com/melissa-heholt/). </cite>
-
 74. <cite class="citation web">["Meet J. Cole's New Wife Melissa Heholt - XXL"](http://www.xxlmag.com/news/2016/01/j-cole-wife-melissa-heholt/). </cite>
-
 75.
-
 76.
-
 77. <cite class="citation web">["J. Cole Announces 'Dollar & A Dream Tour'"](http://www.rap-up.com/2013/05/31/j-cole-announces-dollar-a-dream-tour/). </cite>
-
 78.
-
 79. <cite class="citation web">["J. Cole Announces 'Forest Hills Drive Tour' with Big Sean, Jhené Aiko, Pusha T, & YG"](http://www.rap-up.com/2015/02/23/j-cole-announces-forest-hills-drive-tour-big-sean-jhene-aiko-pusha-t-yg/). </cite>
-
 80.

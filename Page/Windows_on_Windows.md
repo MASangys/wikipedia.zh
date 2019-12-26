@@ -35,7 +35,7 @@ Win16子系统在32位版本的[Windows NT](../Page/Windows_NT.md "wikilink"), [
 ## 外部链接
 
   - [Windows NT子系统](https://web.archive.org/web/20071225171236/http://www.microsoft.com/technet/archive/winntas/training/ntarchitectoview/ntarc_5.mspx?mfr=true)
-  - [什么是NTVDM和WOW?](http://kb.iu.edu/data/acxn.html)
+  - [什么是NTVDM和WOW?](https://web.archive.org/web/20120704233800/http://kb.iu.edu/data/acxn.html)
   - [监测16位Windows应用程序](https://web.archive.org/web/20071225171241/http://www.microsoft.com/technet/prodtechnol/windows2000serv/reskit/prork/preb_mon_ewvl.mspx?mfr=true)
   - [优化Windows 7如何运行16位和MS-DOS的程序](http://technet.microsoft.com/en-us/magazine/ff756590.aspx)
 

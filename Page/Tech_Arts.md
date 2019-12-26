@@ -251,5 +251,5 @@
 3.  [テックアーツ](http://mixi.jp/view_community.pl?id=1770474)mixiコミュニティ
 4.  [テックアーツ通信販売サイトに不正アクセス - 689人の情報が"抜かれる"](http://news.mynavi.jp/news/2013/06/28/220/)マイナビニュース
 5.  [TechArts](https://vndb.org/p1085)the visual novel database
-6.  [第5回：青年失業家、北へ！　その2～テックアーツ編](http://www.game-style.jp/rensai/ogotter/200602/01/01ogg_mi.php?permission=true)Game-Style
+6.  [第5回：青年失業家、北へ！　その2～テックアーツ編](http://www.game-style.jp/rensai/ogotter/200602/01/01ogg_mi.php?permission=true) Game-Style
 7.  [萌色用語の基礎知識 ゲーム・団体名編 (GCOMP)](http://www.wdic.org/w/MOE/北海道えろげー組合) 通信用語の基礎知識

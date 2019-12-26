@@ -216,34 +216,20 @@
 [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:凱文·哈里斯歌曲](https://zh.wikipedia.org/wiki/Category:凱文·哈里斯歌曲 "wikilink") [Category:哥倫比亞唱片單曲](https://zh.wikipedia.org/wiki/Category:哥倫比亞唱片單曲 "wikilink") [Category:凱文·哈里斯創作的歌曲](https://zh.wikipedia.org/wiki/Category:凱文·哈里斯創作的歌曲 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.

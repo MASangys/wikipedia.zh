@@ -1,4 +1,4 @@
-**丁恩妃**\[1\]（，，），藝名**Eunha**（），[韓國女](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source Music旗下女子組合](../Page/Source_Music.md "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的成員，在隊內擔任領唱(lead vocal)。曾與隊友[SinB](../Page/SinB.md "wikilink")於[Big Hit娛樂擔任練習生](../Page/Big_Hit娛樂.md "wikilink")，擁有多年的練習生經歷。
+**丁恩妃**\[1\]（，，），藝名**Eunha**（），[韓國女](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source Music旗下女子組合](../Page/Source_Music.md "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的成員，在隊內擔任第二主唱。
 
 ## 經歷
 
@@ -6,7 +6,7 @@
 
 銀河在1997年5月30日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")\[2\]。她在7歲時確診患上，需一直接受治療和血液測試。直至小學6年級，她才完全康復，並證實病情不會再復發\[3\]。
 
-2007年，銀河成為一位童星，並參與[KBS2劇集](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")「Love & War」（）的演出\[4\]。 她曾與[SinB](../Page/SinB.md "wikilink")一同成為[Big Hit娛樂的練習生](../Page/Big_Hit娛樂.md "wikilink")。她亦曾是[LOEN娛樂的練習生](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")。
+2007年，銀河成為一位童星，並參與[KBS2劇集](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")「Love & War」（）的演出\[4\]。 她曾是[LOEN娛樂的練習生](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")。
 
 ### 生涯發展
 
@@ -124,7 +124,8 @@
 | 10月12日 | Firefly（반딧불이）    | [黃致列](../Page/黃致列.md "wikilink") |                                                         |    |
 | 11月2日  | Chemistry (케미)   | [MC夢](../Page/MC夢.md "wikilink") |                                                         |    |
 | 2017   | 10月26日           | 左手右手（왼손 오른손）                     | [天地](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink") |    |
-| 11月3日  | 今天特别漂亮（오늘따라 예쁘다） | Yun DDan DDan                    |                                                         |    |
+| 11月3日  | 今天特别漂亮（오늘따라 예쁘다） | Yoon Ddan Ddan                   |                                                         |    |
+| 2019   | 4月11日            | BLOSSOM                          | [Ravi](../Page/金元植.md "wikilink")                       |    |
 
 ### 音樂現場
 

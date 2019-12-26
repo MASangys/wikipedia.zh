@@ -42,28 +42,16 @@ CpG岛以至少达到60%的理论CpG位点含量（可达到4-6%）为特征，�
 [Category:分子遺傳學](https://zh.wikipedia.org/wiki/Category:分子遺傳學 "wikilink") [Category:DNA](https://zh.wikipedia.org/wiki/Category:DNA "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.

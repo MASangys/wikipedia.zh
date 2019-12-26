@@ -351,44 +351,31 @@
 [Category:紐約地鐵路線](https://zh.wikipedia.org/wiki/Category:紐約地鐵路線 "wikilink") [Category:1878年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1878年啟用的鐵路線 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.  到布萊頓線無定期服務
-
 7.
-
 8.
 9.
 10.
 11.
 12.
-
 13.
 14.
 15.
 16.
 17.
 18. H大道只對南行月台提供輪椅可達。
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
 25.
 26.
 27.
-
 28.
 29.

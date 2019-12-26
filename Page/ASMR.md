@@ -13,17 +13,11 @@
 [Category:現象](https://zh.wikipedia.org/wiki/Category:現象 "wikilink") [Category:新詞](https://zh.wikipedia.org/wiki/Category:新詞 "wikilink") [Category:感觉系统](https://zh.wikipedia.org/wiki/Category:感觉系统 "wikilink") [Category:知覺](https://zh.wikipedia.org/wiki/Category:知覺 "wikilink") [Category:网络文化](https://zh.wikipedia.org/wiki/Category:网络文化 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.

@@ -768,54 +768,29 @@ STUDIO JACK的前身為「**ANIME STUDIO JACK**（<small></small>）」背景部
 [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:1970年成立的公司](https://zh.wikipedia.org/wiki/Category:1970年成立的公司 "wikilink")
 
 1.  總承包商原為，日本動畫公司接手時參與。
-
 2.  協利製作：[SHAFT](../Page/SHAFT.md "wikilink")、[動畫工房](../Page/動畫工房.md "wikilink")。
-
 3.  Group Tac負責動畫製作，總承包商為MADHOUSE。
-
 4.  從1980年的播出集數開始參與。
-
 5.  負責動畫製作，總承包商為EIKEN。
-
 6.  特攝電影。
-
 7.  與古留美工作室、[童夢共同製作的動畫](../Page/童夢_\(動畫工作室\).md "wikilink")。
-
 8.  與共同製作的動畫。
-
 9.  首部以電腦製作的動畫。
-
 10. 台灣[木棉花國際](../Page/木棉花國際.md "wikilink")代理發行譯名。
-
 11. 與[ZEXCS](../Page/ZEXCS.md "wikilink")共同製作的動畫。
-
 12. MAGICBUS負責動畫製作，總承包商為EIKEN。
-
 13.
 14. 與[雲雀工作室](../Page/雲雀工作室.md "wikilink")共同製作的動畫。
-
 15. 美國播映版。
-
 16. 協力製作：[TMS Entertainment](../Page/TMS娛樂.md "wikilink")。
-
 17. 日本[東京電影新社與](../Page/TMS娛樂.md "wikilink")[法國動畫公司DIC合作的動畫作品](https://zh.wikipedia.org/wiki/法國 "wikilink")。
-
 18. 與日本東京電影新社合作動畫作品。
-
 19. 日韓合作動畫作品。
-
 20. 協力製作：MADHOUSE。
-
 21. 協力製作：J.C.STAFF。
-
 22. 與J.C.STAFF共同製作的動畫。
-
 23. 協力製作：J.C.STAFF。
-
 24. 協力製作：[Studio Fantasia](../Page/Studio_Fantasia.md "wikilink")。
-
 25. 與Sanctuary共同製作的動畫。
-
 26. 動畫實質製作為OLM。
-
 27. 動畫實質製作為MAGICBUS。

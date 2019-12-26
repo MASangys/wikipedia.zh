@@ -4,7 +4,7 @@
 
 MINX 時期的粉絲名稱為**「VitaMINX」**。
 
-Dreamcatcher的官方粉絲名稱為**「인썸니아(InSomnia)」**。**In**是英文「在...之中」的意思，而**Somnia**是拉丁語「夢中」的意思，意謂著在夢裡面Dreamcatcher跟粉絲們見面的幸福的時光，永遠在一起。而Insomnia則有失眠之意。
+Dreamcatcher的官方粉絲名稱為**「인썸니아(InSomnia)」**。**In**是英文「在...之中」的意思，而**Somnia**是拉丁語「夢中」的意思，意謂在夢裡面Dreamcatcher跟粉絲們見面的幸福時光，永遠在一起。
 
 Dreamcatcher的官方應援色為**[彩通](../Page/彩通.md "wikilink")Black 6 C**、**[彩通](../Page/彩通.md "wikilink")7623 C**及**[彩通](../Page/彩通.md "wikilink")P 10-6 C**。\[1\]
 
@@ -110,7 +110,7 @@ Dreamcatcher的官方應援色為**[彩通](../Page/彩通.md "wikilink")Black 6
 
 3月13日，Dreamcatcher發行第二張日本單曲《PIRI～笛を吹け～-Japanese ver.-》。
 
-3月22日，舉行巡迴演唱會《DREAMCATCHER CONCERT : Invitation From Nightmare City》從新加坡站開始，後陸續到亞洲、澳洲、歐洲等國家演出。
+3月22日，舉行巡迴演唱會《DREAMCATCHER CONCERT : Invitation From Nightmare City》從新加坡站開始，後陸續到亞洲、澳洲、歐洲、美國演出。
 
 7月12日，Dreamcatcher在官方SNS宣佈將於9月11日發售日本正規一輯《The Beginning Of The End》，並於8月15日公開行程表。
 
@@ -129,20 +129,20 @@ Dreamcatcher的官方應援色為**[彩通](../Page/彩通.md "wikilink")Black 6
 
 ## 成員
 
-  - 名字**粗體**為隊長
+  - 官方從未公佈過領舞、副Rapper、門面、形象、中心的定位。
 
-|              |
-| ------------ |
-| 成員資料介紹       |
-| 藝名           |
-| 漢字\[19\]     |
-| **祉攸**\[20\] |
-| 秀雅\[21\]     |
-| 始娟\[22\]     |
-| 韓東\[23\]     |
-| 裕賢\[24\]     |
-| 多美           |
-| 佳泫\[25\]     |
+|                                                                            |
+| -------------------------------------------------------------------------- |
+| 成員資料介紹                                                                     |
+| 藝名                                                                         |
+| 漢字\[19\]                                                                   |
+| **[祉攸](https://zh.wikipedia.org/wiki/祉攸 "wikilink")**\[20\]                |
+| [秀雅](https://zh.wikipedia.org/wiki/秀雅 "wikilink")\[21\]                    |
+| [始娟](https://zh.wikipedia.org/wiki/始娟 "wikilink")\[22\]                    |
+| [韓東](https://zh.wikipedia.org/wiki/韓東_\(Dreamcatcher成員\) "wikilink")\[23\] |
+| [裕賢](https://zh.wikipedia.org/wiki/裕賢 "wikilink")\[24\]                    |
+| [多美](https://zh.wikipedia.org/wiki/多美 "wikilink")\[25\]                    |
+| [佳泫](https://zh.wikipedia.org/wiki/佳泫 "wikilink")\[26\]                    |
 
 ## 成員變遷史
 
@@ -216,7 +216,7 @@ LineData =
 <ul>
 <li>發行日期： 2015年7月2日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>專輯銷售量: 1,742+</li>
+<li>專輯銷售量: 1,813+</li>
 </ul></td>
 <td></td>
 </tr>
@@ -400,7 +400,7 @@ LineData =
 <ul>
 <li>發行日期： 2018年9月20日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>專輯銷售量: 28,448+</li>
+<li>專輯銷售量: 30,888+</li>
 </ul></td>
 <td></td>
 </tr>
@@ -410,7 +410,7 @@ LineData =
 <ul>
 <li>發行日期： 2019年2月13日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>專輯銷售量: 30,306+[26]</li>
+<li>專輯銷售量: 30,306+[27]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -434,7 +434,7 @@ LineData =
 <ul>
 <li>發行日期： 2019年9月18日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>專輯銷售量:</li>
+<li>專輯銷售量: 31,865+[28]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -458,6 +458,7 @@ LineData =
 <ul>
 <li>發行日期： 2018年11月21日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
+<li>專輯銷售量：8086+</li>
 </ul></td>
 <td></td>
 </tr>
@@ -467,6 +468,7 @@ LineData =
 <ul>
 <li>發行日期： 2019年3月13日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
+<li>專輯銷售量：6556+</li>
 </ul></td>
 <td></td>
 </tr>
@@ -490,7 +492,7 @@ LineData =
 <ul>
 <li>發行日期： 2019年9月11日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
-<li>專輯銷售量：</li>
+<li>專輯銷售量：4909+</li>
 </ul></td>
 <td></td>
 </tr>
@@ -618,7 +620,7 @@ feat. <a href="https://zh.wikipedia.org/wiki/Jason_Derulo" title="wikilink">Jaso
 <li>語言：韓語</li>
 </ul></td>
 <td><p>祉攸、韓東</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Coco" title="wikilink">Coco</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/玩轉極樂園" title="wikilink">Coco歌曲</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>《<strong>Havana</strong>》</p>
@@ -664,7 +666,7 @@ feat. <a href="https://zh.wikipedia.org/wiki/Jason_Derulo" title="wikilink">Jaso
 <li>語言：英語</li>
 </ul></td>
 <td><p>始娟</p></td>
-<td><p><a href="../Page/娜歐蜜·史考特.md" title="wikilink">娜歐蜜·史考特</a></p></td>
+<td><p><a href="../Page/娜歐蜜·史考特.md" title="wikilink">Naomi Scott</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>《<strong>心跳的證明</strong>》</p>
@@ -690,6 +692,25 @@ feat. <a href="https://zh.wikipedia.org/wiki/Jason_Derulo" title="wikilink">Jaso
 <td><p><a href="https://zh.wikipedia.org/wiki/DJ_Snake" title="wikilink">DJ Snake</a></p></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《<strong>2002</strong>》</p>
+<ul>
+<li>發行日期： 2019年8月22日</li>
+<li>語言：英語</li>
+</ul></td>
+<td><p>裕賢</p></td>
+<td><p><a href="../Page/安-瑪莉_(英國歌手).md" title="wikilink">Anne-Marie</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>《<strong>Eraser</strong>》</p>
 <ul>
 <li>發行日期： 2019年8月29日</li>
@@ -698,24 +719,24 @@ feat. <a href="https://zh.wikipedia.org/wiki/Jason_Derulo" title="wikilink">Jaso
 <td><p>始娟</p></td>
 <td><p><a href="../Page/太妍.md" title="wikilink">太妍</a></p></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>《<strong>Honesty</strong>》</p>
 <ul>
 <li>發行日期： 2019年9月23日</li>
 <li>語言：英語</li>
 </ul></td>
 <td><p>祉攸</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Pink_Sweat$" title="wikilink">Pink Sweat$</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:en:Pink_Sweats" title="wikilink">Pink Sweat$</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -739,20 +760,20 @@ feat. <a href="https://zh.wikipedia.org/wiki/Jason_Derulo" title="wikilink">Jaso
 <td><p>2014年</p></td>
 <td><p>9月22日</p></td>
 <td><p>《為什麼來我家？》</p></td>
-<td><p>為什麼來我家？[27]</p></td>
+<td><p>為什麼來我家？[29]</p></td>
 <td></td>
-<td><p>Dance Practice[28]<br />
-Dance Practice S8 Ver.[29]</p></td>
+<td><p>Dance Practice[30]<br />
+Dance Practice S8 Ver.[31]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
 <td><p>7月2日</p></td>
 <td><p>《Love Shake》</p></td>
-<td><p>Love Shake[30]</p></td>
+<td><p>Love Shake[32]</p></td>
 <td></td>
-<td><p>Dance Practice[31]<br />
-Real MINX Ver.[32]</p></td>
+<td><p>Dance Practice[33]<br />
+Real MINX Ver.[34]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -776,18 +797,18 @@ Real MINX Ver.[32]</p></td>
 <td><p>2017年</p></td>
 <td><p>1月13日</p></td>
 <td><p>《惡夢》</p></td>
-<td><p>Chase Me[33]</p></td>
-<td><p>Dance Video[34]</p></td>
-<td><p>Dance Practice[35]</p></td>
+<td><p>Chase Me[35]</p></td>
+<td><p>Dance Video[36]</p></td>
+<td><p>Dance Practice[37]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>4月5日</p></td>
 <td><p>《惡夢：Fall asleep in the mirror》</p></td>
-<td><p>Good Night[36]</p></td>
-<td><p>Dance Video[37]</p></td>
-<td><p>Dance Practice[38]</p></td>
+<td><p>Good Night[38]</p></td>
+<td><p>Dance Video[39]</p></td>
+<td><p>Dance Practice[40]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -795,10 +816,10 @@ Real MINX Ver.[32]</p></td>
 <tr class="even">
 <td><p>7月27日</p></td>
 <td><p>《Prequel》</p></td>
-<td><p>Fly High[39]</p></td>
-<td><p>Dance Video[40]</p></td>
+<td><p>Fly High[41]</p></td>
+<td><p>Dance Video[42]</p></td>
 <td></td>
-<td><p>應援版本[41]</p></td>
+<td><p>應援版本[43]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -806,36 +827,36 @@ Real MINX Ver.[32]</p></td>
 <td><p>2018年</p></td>
 <td><p>1月12日</p></td>
 <td><p>《Full Moon》</p></td>
-<td><p>Full Moon Promotion Video[42]</p></td>
-<td><p>Dance Video[43]</p></td>
-<td><p>Dance Practice[44]</p></td>
+<td><p>Full Moon Promotion Video[44]</p></td>
+<td><p>Dance Video[45]</p></td>
+<td><p>Dance Practice[46]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>5月10日</p></td>
 <td><p>《惡夢·Escape the ERA》</p></td>
-<td><p>YOU AND I[45]</p></td>
+<td><p>YOU AND I[47]</p></td>
 <td></td>
-<td><p>Dance Practice[46]</p></td>
-<td><p>應援版本[47]</p></td>
+<td><p>Dance Practice[48]</p></td>
+<td><p>應援版本[49]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9月20日</p></td>
 <td><p>《Alone in the City》</p></td>
-<td><p>What[48]</p></td>
+<td><p>What[50]</p></td>
 <td></td>
-<td><p>Dance Practice[49]</p></td>
-<td><p>應援版本[50]</p></td>
+<td><p>Dance Practice[51]</p></td>
+<td><p>應援版本[52]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>11月14日</p></td>
 <td><p>《What-Japanese ver.-》</p></td>
-<td><p>What-Japanese ver.-[51]</p></td>
+<td><p>What-Japanese ver.-[53]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -846,16 +867,16 @@ Real MINX Ver.[32]</p></td>
 <td><p>2019年</p></td>
 <td><p>2月13日</p></td>
 <td><p>《The End of Nightmare》</p></td>
-<td><p>PIRI[52]</p></td>
-<td><p>Dance Video[53]</p></td>
-<td><p>Dance Practice[54]</p></td>
-<td><p>應援版本[55]</p></td>
+<td><p>PIRI[54]</p></td>
+<td><p>Dance Video[55]</p></td>
+<td><p>Dance Practice[56]</p></td>
+<td><p>應援版本[57]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>3月11日</p></td>
 <td><p>《PIRI～笛を吹け～-Japanese ver.-》</p></td>
-<td><p>PIRI～笛を吹け～-Japanese ver.-[56]</p></td>
+<td><p>PIRI～笛を吹け～-Japanese ver.-[58]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -865,21 +886,21 @@ Real MINX Ver.[32]</p></td>
 <tr class="odd">
 <td><p>9月9日</p></td>
 <td><p>《The Beginning Of The End》</p></td>
-<td><p>Breaking Out[57]</p></td>
+<td><p>Breaking Out[59]</p></td>
 <td></td>
-<td><p>Dance Practice[58]</p></td>
-<td><p>應援版本[59]</p></td>
+<td><p>Dance Practice[60]</p></td>
+<td><p>應援版本[61]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>9月18日</p></td>
 <td><p>《Raid of Dream》</p></td>
-<td><p>Deja Vu[60]</p></td>
-<td><p>Dance Video[61]</p></td>
-<td><p>Dance practice[62]</p></td>
-<td><p>應援版本[63]</p></td>
-<td><p>动画版本[64]</p></td>
+<td><p>Deja Vu[62]</p></td>
+<td><p>Dance Video[63]Dance Video (练习室版本)[64]</p></td>
+<td><p>Dance Practice[65]</p></td>
+<td><p>應援版本[66]</p></td>
+<td><p>动画版本[67]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -889,7 +910,7 @@ Real MINX Ver.[32]</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>动画版本[65]</p></td>
+<td><p>动画版本[68]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -904,21 +925,25 @@ Real MINX Ver.[32]</p></td>
 | 2月17日、5月1日  | tbsTV                                                       | Fact in star                                                      |                                                                   |                   |                                           |
 | 4月18日       | [Arirang TV](../Page/阿里郎电视台.md "wikilink")                  | [After School Club](../Page/After_School_Club.md "wikilink")      |                                                                   |                   |                                           |
 | 5月27日       | [KBS](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")     | [演藝家中介](../Page/演藝家中介.md "wikilink")                              | 祉攸                                                                |                   |                                           |
-| 2018年       | 2月15日、16日                                                   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | [MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink") | 全員                | 女子400米接力\[66\]金牌（多美、裕賢、始娟、秀雅 / 成績1分13秒04） |
+| 2018年       | 2月15日、16日                                                   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | [MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink") | 全員                | 女子400米接力\[69\]金牌（多美、裕賢、始娟、秀雅 / 成績1分13秒04） |
 | 5月23日       | MBC every1                                                  | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                  |                                                                   |                   |                                           |
 | 6月1日        | tbsTV                                                       | Fact in star                                                      |                                                                   |                   |                                           |
 | 8月27日       | [Viu](../Page/Viu.md "wikilink")                            | Viu Beauty                                                        | 【韓流情報】今期流行「害羞紅色」胭脂                                                |                   |                                           |
 | 9月25日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")         | [MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink") | 女子田徑60米銀牌 (裕賢 / 成績9秒68)                                           |                   |                                           |
-| 11月3日       | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")    | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")                  | 致DJ (尹詩奈)\[67\]                                                   |                   |                                           |
+| 11月3日       | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")    | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")                  | 致DJ (尹詩奈)\[70\]                                                   |                   |                                           |
 | 11月23-12月8日 | CJ E\&M OGN                                                 | [Gamedolympic](../Page/Gamedolympic.md "wikilink")                |                                                                   |                   |                                           |
 | 2019年       | 2月19日                                                       | tbsTV                                                             | Fact in star                                                      |                   |                                           |
 | 3月2日        | [Viu](../Page/Viu.md "wikilink")                            | Viu Beauty                                                        | 只能選1款化妝包必備品！ (by 女團Dreamcatcher)                                  |                   |                                           |
-| 4月6日        | [KBS2](../Page/KBS第2频道.md "wikilink")                       | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")                  | 猶如印地安玩偶 (羅美)\[68\]                                                |                   |                                           |
+| 4月6日        | [KBS2](../Page/KBS第2频道.md "wikilink")                       | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")                  | 猶如印地安玩偶 (羅美)\[71\]                                                |                   |                                           |
 | 6月23日       | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                    | 始娟                                                                | 出場名稱：咖啡&甜甜圈 甜甜\~圈 |                                           |
 | 7月28日       | [KBS1](https://zh.wikipedia.org/wiki/KBS1 "wikilink")       | 開放音樂會                                                             | 全員                                                                |                   |                                           |
 | 9月12日、13日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")         | [MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink") | 女子400米接力銅牌 (秀雅、韓東、裕賢、多美 / 成績1分15秒90)                              |                   |                                           |
-| 9月13日-9月15日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")         | [V-1 (韓國節目)](../Page/V-1_\(韓國節目\).md "wikilink")                  | 始娟                                                                |                   |                                           |
+| 9月13日-15日   | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")         | [V-1 (韓國節目)](../Page/V-1_\(韓國節目\).md "wikilink")                  | 始娟                                                                |                   |                                           |
 | 10月1日       | [JTBC](../Page/JTBC.md "wikilink")                          | [Idol Room](../Page/Idol_Room.md "wikilink")                      | 全員                                                                |                   |                                           |
+| 10月5日       | tbsTV                                                       | IDOL教室                                                            | 秀雅、韓東、裕賢、佳泫                                                       |                   |                                           |
+| 10月19日      | [JTBC](../Page/JTBC.md "wikilink")2                         | [RUN.wav](../Page/RUN.wav.md "wikilink")                          | 全員                                                                |                   |                                           |
+| 10月23日      | MBC every1                                                  | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                  | 始娟                                                                |                   |                                           |
+| 12月1日、8日    | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                    | 始娟、裕賢                                                             | 藝人評審團             |                                           |
 
 ## 廣播節目
 
@@ -1182,19 +1207,27 @@ Real MINX Ver.[32]</p></td>
 | 2019年11月3日     | 巴黎站    | Élysée Montmartre     |
 | 2019年11月5日     | 阿姆斯特丹站 | Melkweg               |
 | 2019年11月7日     | 赫爾辛基站  | Nosturi               |
+| 2019年12月6日     | 洛杉磯站   | Globe Theatre         |
+| 2019年12月8日     | 芝加哥站   | Concord Music Hall    |
+| 2019年12月11日    | 達拉斯站   | South Side Music Hall |
+| 2019年12月13日    | 奧蘭多站   | The Plaza Live        |
+| 2019年12月15日    | 澤西市站   | White Eagle Hall      |
 
 ### 見面會
 
-| 日期         | 活動名稱                                                                   | 舉行地點             |
-| ---------- | ---------------------------------------------------------------------- | ---------------- |
-| 2017年4月5日  | Dreamcatcher <Good Night> Comeback Showcase                            | 신한카드 판스퀘어 라이브홀   |
-| 2017年7月30日 | Dreamcatcher 1st Fanmeeting <Welcome to the dreamworld>                | 일지아트홀            |
-| 2017年12月9日 | Dreamcatcher 1st Tour in Brazil Showcase                               | Tropical Butantã |
-| 2018年1月13日 | DREAMCATCHER 1st ANNIVERSARY FANMEETING                                | 서강대학교 메리홀 대극장    |
-| 2018年5月10日 | Dreamcatcher SECOND MINI ALBUM \[악몽·Escape the ERA\] Comeback Showcase | 홍대 MUV HALL      |
-| 2019年4月6日  | Dreamcatcher 3rd MINI ALBUM \[Alone In The City\] Comeback Showcase    | 홍대 MUV HALL      |
-| 2019年9月12日 | “The Beginning Of The End” SHOWCASE                                    | マイナビBLITZ赤坂      |
-| 2019年9月18日 | Dreamcatcher Special Mini Album［Raid of Dream］Showcase                 | Ilchi Arthall    |
+| 日期          | 活動名稱                                                                   | 舉行地點                        |
+| ----------- | ---------------------------------------------------------------------- | --------------------------- |
+| 2017年4月5日   | Dreamcatcher <Good Night> Comeback Showcase                            | 신한카드 판스퀘어 라이브홀              |
+| 2017年7月30日  | Dreamcatcher 1st Fanmeeting <Welcome to the dreamworld>                | 일지아트홀                       |
+| 2017年12月9日  | Dreamcatcher 1st Tour in Brazil Showcase                               | Tropical Butantã            |
+| 2018年1月13日  | DREAMCATCHER 1st ANNIVERSARY FANMEETING                                | 서강대학교 메리홀 대극장               |
+| 2018年5月10日  | Dreamcatcher SECOND MINI ALBUM \[악몽·Escape the ERA\] Comeback Showcase | 홍대 MUV HALL                 |
+| 2019年4月6日   | Dreamcatcher 3rd MINI ALBUM \[Alone In The City\] Comeback Showcase    | 홍대 MUV HALL                 |
+| 2019年9月12日  | “The Beginning Of The End” SHOWCASE                                    | マイナビBLITZ赤坂                 |
+| 2019年9月18日  | Dreamcatcher Special Mini Album［Raid of Dream］Showcase                 | Ilchi Arthall               |
+| 2019年10月20日 | Dreamcatcher 1st OFFICIAL FANCLUB FANMEETING 'InSomnia'                | 홍대 MUV HALL                 |
+| 2019年12月21日 | DREAMCATCHER 'NIGHTMARES BEFORE CHRISTMAS' 2019                        | COOL JAPAN PARK OSAKA SSホール |
+| 2019年12月22日 | DREAMCATCHER 'NIGHTMARES BEFORE CHRISTMAS' 2019                        | 渋谷ヒカリエ・ヒカリエホールB             |
 
 ### 其他公演
 
@@ -1226,6 +1259,18 @@ Real MINX Ver.[32]</p></td>
 <tbody>
 <tr class="odd">
 <td><p>專輯</p></td>
+</tr>
+<tr class="even">
+<td><p>2014年</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/為什麼來我家？" title="wikilink">為什麼來我家？</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2015年</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Love_Shake" title="wikilink">Love Shake</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
@@ -1327,8 +1372,8 @@ __强显目录__
 22. [SiYeon在官方微博上正名](http://tw.weibo.com/dreamcatcher7/4098189226852086)
 23. [HanDong在官方微博上正名](http://tw.weibo.com/dreamcatcher7/4051985986845025)
 24. [YooHyeon、DaMi在官方微博上正名](http://tw.weibo.com/dreamcatcher7/4070025989685520)
-25. [GaHyeon在官方微博上正名](http://tw.weibo.com/dreamcatcher7/4067501220640389)
-26.
+25.
+26. [GaHyeon在官方微博上正名](http://tw.weibo.com/dreamcatcher7/4067501220640389)
 27.
 28.
 29.
@@ -1368,6 +1413,9 @@ __强显目录__
 63.
 64.
 65.
-66. 規定各隊第一棒不得搶跑道或有任何侵犯其他跑道之行為，但第二棒以後可以搶跑道。正式400米接力規則為：全程所有選手均不得搶跑道或有任何侵犯其他跑道之行為。
+66.
 67.
 68.
+69. 規定各隊第一棒不得搶跑道或有任何侵犯其他跑道之行為，但第二棒以後可以搶跑道。正式400米接力規則為：全程所有選手均不得搶跑道或有任何侵犯其他跑道之行為。
+70.
+71.

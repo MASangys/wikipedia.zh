@@ -35,15 +35,10 @@ EB-2签证主申请人的配偶和21岁以下子女可以随主申请人一起�
 [Category:美国签证政策](https://zh.wikipedia.org/wiki/Category:美国签证政策 "wikilink") [Category:移民美国](https://zh.wikipedia.org/wiki/Category:移民美国 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.

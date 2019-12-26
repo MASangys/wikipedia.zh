@@ -19,5 +19,4 @@
 
 1.
 2.  ["B.J. Novak on his 'Mindy Project' arc, being BFF with Mindy Kaling, and returning to 'The Office'"](http://ohnotheydidnt.livejournal.com/75080922.html), ohnotheydidnt.livejournal.com, January 29, 2013.
-
 3.

@@ -133,20 +133,13 @@ Take-Two在2000年5月将其进行收购，并试图获得德克萨斯组的管�
 [Category:1998年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1998年開業電子遊戲公司 "wikilink") [Category:2004年結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2004年結業電子遊戲公司 "wikilink") [Category:Take-Two_Interactive的部门与子公司](https://zh.wikipedia.org/wiki/Category:Take-Two_Interactive的部门与子公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:美國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國已結業電子遊戲公司 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
 11.

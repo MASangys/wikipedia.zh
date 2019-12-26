@@ -135,29 +135,28 @@
 `   local h, s, v = unpack(roundarr(color.changedata[4]()))`
 `   local ss = '{|class="toccolours" style="text-align:left;float:right;width:300px;clear:right;margin:0em 0em 1em 1em;"\n'`
 `   ss = ss .. '|-\n!colspan=3 style="text-align:center;font-size:150%;background-color:#' .. hex .. ';color:' .. textcolor .. ';"|' .. title .. '\n'`
-`   ss = ss .. '|-\n!colspan=2|`[`網頁顏色`](../Page/網頁顏色.md "wikilink")`||#' .. hex  .. '\n'`
-`   ss = ss .. '|-\n!`[`RGB`](../Page/RGB.md "wikilink")<sup>`N`</sup>`||(`[`r`](../Page/紅色.md "wikilink")`, `[`g`](../Page/綠色.md "wikilink")`, `[`b`](../Page/藍色.md "wikilink")`)||(' .. r .. ', ' .. g .. ', ' .. b .. ')\n'`
-`   ss = ss .. '|-\n!nowrap|`[`CMYK`](../Page/CMYK.md "wikilink")<sup>`N`</sup>`||nowrap|(`[`c`](../Page/青色.md "wikilink")`, `[`m`](../Page/品紅色.md "wikilink")`, `[`y`](../Page/黃色.md "wikilink")`, `[`k`](../Page/黑色.md "wikilink")`)||(' .. c .. ', ' .. m .. ', ' .. y .. ', ' .. k .. ')\n'`
-`   ss = ss .. '|-\n!`[`HSV`](../Page/HSV色彩空間.md "wikilink")`||(`[`h`](../Page/色相.md "wikilink")`, `[`s`](../Page/色度_\(色彩學\).md "wikilink")`, `[`v`](../Page/明度.md "wikilink")`)||nowrap|(' .. h .. '°, ' .. s .. '%, ' .. v .. '%)\n'`
+`   ss = ss .. '|-\n!colspan=2|`[`網頁顏色`](https://zh.wikipedia.org/wiki/網頁顏色 "wikilink")`||#' .. hex  .. '\n'`
+`   ss = ss .. '|-\n!`[`RGB`](https://zh.wikipedia.org/wiki/RGB "wikilink")<sup>`N`</sup>`||(`[`r`](https://zh.wikipedia.org/wiki/紅色 "wikilink")`, `[`g`](../Page/綠色.md "wikilink")`, `[`b`](../Page/藍色.md "wikilink")`)||(' .. r .. ', ' .. g .. ', ' .. b .. ')\n'`
+`   ss = ss .. '|-\n!nowrap|`[`CMYK`](https://zh.wikipedia.org/wiki/CMYK "wikilink")<sup>`N`</sup>`||nowrap|(`[`c`](../Page/青色.md "wikilink")`, `[`m`](https://zh.wikipedia.org/wiki/品紅色 "wikilink")`, `[`y`](https://zh.wikipedia.org/wiki/黃色 "wikilink")`, `[`k`](../Page/黑色.md "wikilink")`)||(' .. c .. ', ' .. m .. ', ' .. y .. ', ' .. k .. ')\n'`
+`   ss = ss .. '|-\n!`[`HSV`](https://zh.wikipedia.org/wiki/HSV色彩空間 "wikilink")`||(`[`h`](../Page/色相.md "wikilink")`, `[`s`](https://zh.wikipedia.org/wiki/色度_\(色彩學\) "wikilink")`, `[`v`](https://zh.wikipedia.org/wiki/明度 "wikilink")`)||nowrap|(' .. h .. '°, ' .. s .. '%, ' .. v .. '%)\n'`
 `   if source ~= '' then`
 `       ss = ss .. '|-\n!colspan=2|資料來源||' .. source  .. '\n'`
 `   end`
-`   ss = ss .. '|-\n!align=center colspan=3|`<sup>`N`</sup>`：代表`[`值域介於`](../Page/值域.md "wikilink")`0～255之間\n'`
+`   ss = ss .. '|-\n!align=center colspan=3|`<sup>`N`</sup>`：代表`[`值域`](../Page/值域.md "wikilink")介於`0～255之間\n'`
 `   ss = ss .. '|-\n|align=center colspan=3|`
 
 <div class="notice metadata NavFrame collapsed" id="spoiler" style="border: 0px;">
 
 <div class="NavHead" style="border: 0px; background: #E4E4E4">
 
-[Nuvola_apps_kcoloredit.svg](https://zh.wikipedia.org/wiki/File:Nuvola_apps_kcoloredit.svg "fig:Nuvola_apps_kcoloredit.svg")
-\\'\\'\\'注意事項\\'\\'\\'
+[Nuvola_apps_kcoloredit.svg](https://zh.wikipedia.org/wiki/File:Nuvola_apps_kcoloredit.svg "fig:Nuvola_apps_kcoloredit.svg") \\'\\'\\'注意事項\\'\\'\\'
 
 </div>
 
 <div class="NavContent">
 
 1.  本條目的顏色值可能只是參考，並非共通標準。
-2.  本條目包含了使用[顏色標示的內容](../Page/顏色.md "wikilink")，可能會因為不同的閱讀環境而產生差異。參見[網頁親和力](../Page/網頁親和力.md "wikilink")。[色盲人士或黑白](../Page/色盲.md "wikilink")[螢幕使用者需要非色盲人士或使用彩色螢幕來幫助](../Page/螢幕.md "wikilink")，或是使用無障礙軟體幫助。
+2.  本條目包含了使用[顏色標示的內容](https://zh.wikipedia.org/wiki/顏色 "wikilink")，可能會因為不同的閱讀環境而產生差異。參見[網頁親和力](../Page/網頁親和力.md "wikilink")。[色盲](../Page/色盲.md "wikilink")人士或黑白[螢幕使用者需要非色盲人士或使用彩色螢幕來幫助](https://zh.wikipedia.org/wiki/螢幕 "wikilink")，或是使用無障礙軟體幫助。
 
 </div>
 

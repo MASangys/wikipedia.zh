@@ -34,17 +34,13 @@ Game Pocket Computer使用75×64解像度的[液晶顯示器](https://zh.wikiped
 
   - [芸魔の館](http://www.asahi-net.or.jp/~UA4S-NJM/gm_poke/gm_poke0.html)
 
-[Category:掌上遊戲機](https://zh.wikipedia.org/wiki/Category:掌上遊戲機 "wikilink") [Category:电子游戏系列](https://zh.wikipedia.org/wiki/Category:电子游戏系列 "wikilink") [Category:第二世代遊戲機](https://zh.wikipedia.org/wiki/Category:第二世代遊戲機 "wikilink") [Category:1984年面世的產品](https://zh.wikipedia.org/wiki/Category:1984年面世的產品 "wikilink")
+[Category:掌上遊戲機](https://zh.wikipedia.org/wiki/Category:掌上遊戲機 "wikilink") [Category:电子游戏系列](https://zh.wikipedia.org/wiki/Category:电子游戏系列 "wikilink") [Category:第二世代遊戲機](https://zh.wikipedia.org/wiki/Category:第二世代遊戲機 "wikilink") [Category:1984年面世的產品](https://zh.wikipedia.org/wiki/Category:1984年面世的產品 "wikilink") [Category:Epoch電子遊戲機](https://zh.wikipedia.org/wiki/Category:Epoch電子遊戲機 "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
-
 6.
-
 7.
-
 8.

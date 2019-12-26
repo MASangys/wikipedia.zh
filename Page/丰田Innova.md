@@ -36,12 +36,10 @@ Innova这个名字来自Innovation（创新）。
 
 ## 外部链接
 
-  - [台湾丰田Innova官方网站](http://www.toyota.com.tw/showroom_INNOVA/exterior.aspx)
+  - [台湾丰田Innova官方网站](https://web.archive.org/web/20160623220833/http://www.toyota.com.tw/showroom_INNOVA/exterior.aspx)
 
 [Category:2004年面世的汽車](https://zh.wikipedia.org/wiki/Category:2004年面世的汽車 "wikilink") [Category:丰田车辆](https://zh.wikipedia.org/wiki/Category:丰田车辆 "wikilink") [Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink") [Category:多功能休旅車](https://zh.wikipedia.org/wiki/Category:多功能休旅車 "wikilink") [Category:前輪驅動](https://zh.wikipedia.org/wiki/Category:前輪驅動 "wikilink") [Category:中型車](https://zh.wikipedia.org/wiki/Category:中型車 "wikilink")
 
 1.
-
 2.
-
 3.

@@ -518,58 +518,32 @@
 [Category:HTML5](https://zh.wikipedia.org/wiki/Category:HTML5 "wikilink") [Category:排版引擎比较](https://zh.wikipedia.org/wiki/Category:排版引擎比较 "wikilink")
 
 1.  <https://developer.mozilla.org/en/HTML/Element/canvas>
-
 2.
-
 3.  Presto 2.0部分支持此属性。
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13. Opera 9.5（Presto 2.1）支持此功能，但Presto 2.1.1至2.5的支持表格表明该属性不被支持。
-
 14.
-
 15.
-
 16.
-
 17.
 18.
-
 19. Presto 2.4之前仅部分支持此属性。
-
 20. 在Gecko 1.8中显示不正确。
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
 28.
 29.
-
 30.

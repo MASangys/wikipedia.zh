@@ -38,12 +38,8 @@
 [Category:2016年单曲](https://zh.wikipedia.org/wiki/Category:2016年单曲 "wikilink") [Category:Lantis发行的单曲](https://zh.wikipedia.org/wiki/Category:Lantis发行的单曲 "wikilink") [Category:LoveLive\!音樂](https://zh.wikipedia.org/wiki/Category:LoveLive!音樂 "wikilink") [Category:Oricon動畫單曲年榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍歌曲 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.

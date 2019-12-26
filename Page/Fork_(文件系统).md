@@ -61,36 +61,20 @@ ADS最初是为添加与现有的支持fork的操作系统的兼容性。计算�
 [Category:文件系统](https://zh.wikipedia.org/wiki/Category:文件系统 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  [Windows Server 2012: Does ReFS replace NTFS? When should I use it?](http://blogs.technet.com/b/askpfeplat/archive/2013/01/02/windows-server-2012-does-refs-replace-ntfs-when-should-i-use-it.aspx) - Martin Lucas, *[TechNet](../Page/TechNet.md "wikilink")*
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15.
-
 16.
-
 17.
-
 18.

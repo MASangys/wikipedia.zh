@@ -8,7 +8,7 @@
 
 ## 外部連結
 
-  - [第一级别学校列表（官方网站）](http://web1.ncaa.org/ssLists/orgByDiv.do?division=1)
+  - [第一级别学校列表（官方网站）](https://web.archive.org/web/20060626033131/http://web1.ncaa.org/ssLists/orgByDiv.do?division=1)
 
 [Category:美国大学运动联盟](https://zh.wikipedia.org/wiki/Category:美国大学运动联盟 "wikilink")
 

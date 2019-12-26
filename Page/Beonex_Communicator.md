@@ -8,13 +8,9 @@
 [Category:2000年軟體](https://zh.wikipedia.org/wiki/Category:2000年軟體 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:自由網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:自由網頁瀏覽器 "wikilink") [Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.

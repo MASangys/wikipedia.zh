@@ -601,42 +601,30 @@
 [Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:島根縣出身人物](https://zh.wikipedia.org/wiki/Category:島根縣出身人物 "wikilink")
 
 1.  台灣代理目前沒有中文正式譯名。
-
 2.
 3.
 4.  單行本《名偵探社此後立即出動！》書衣折頁作者的話。
-
 5.  單行本《領航的星星》第1冊書衣折頁作者的話。
-
 6.  Tokyo Mangalab「Asada Nikki老師的個人獨家專訪」。[第13回 Asada Nikki老師的個人專訪【青春澀女俱樂部】](http://tokyomangalab.com/interviews/nikki-asada)
-
 7.
 8.
 9.
 10.
 11.
 12. 單行本《青春澀女俱樂部》第5冊（裏表紙）的介紹文。
-
 13.
 14. 單行本《青春澀女俱樂部》收錄的短篇作品「名偵探社此後立即出動！」介紹文（帶）。
-
 15. 單行本《領航的星星》第1冊（裏表紙）的介紹文。
-
 16.
 17. 由講談社、秋田書店、角川書店三家大型出版社共同特別設立的官方網站。[BE·LOVE｜特殊官網｜講談社Comic Plus](http://kc.kodansha.co.jp/magazine/special_detail.php/02766/7113)
-
 18.
 19.
 20.
 21.
-
 22.
-
 23.
-
 24.
 25.
 26.
-
 27.
 28.

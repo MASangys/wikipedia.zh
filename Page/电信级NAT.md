@@ -1,6 +1,6 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:CGN_IPv4.svg "fig:缩略图") **电信级NAT**或**运营商级NAT**（**Carrier-grade NAT**，缩写**CGN**），也称**大规模NAT**（**large-scale NAT**，缩写**LSN**）是一种为[IPv4](../Page/IPv4.md "wikilink")网络端点（尤其是住宅网络）设计的方法，通过嵌入在网络运营商网络中的[网络地址转换](../Page/网络地址转换.md "wikilink")（NAT）设备，将已配置的[专用网络](../Page/专用网络.md "wikilink")地址翻译到[公网IPv4地址](../Page/IP地址.md "wikilink")，允许许多终端站点共享一个小型公共地址池。这将NAT功能及配置从客户端驻地转移到互联网服务提供商网络。
 
-电信级NAT已被提议作为一种[IPv4位址枯竭的缓解方法](https://zh.wikipedia.org/wiki/IPv4位址枯竭 "wikilink")。\[1\]
+电信级NAT已被提议作为一种[IPv4位址枯竭](../Page/IPv4位址枯竭.md "wikilink")的缓解方法。\[1\]
 
 电信级NAT的批评者批评以下几个方面：
 

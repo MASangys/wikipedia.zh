@@ -183,29 +183,16 @@
 [Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:BTOB音樂專輯](https://zh.wikipedia.org/wiki/Category:BTOB音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.  [비투비, 컴백 일정 공유…“신곡 ‘기도’, 파워풀한 남성미 강조”](http://entertain.naver.com/read?oid=382&aid=0000514793&spi_ref=m_entertain_twitter) Naver 2016-10-28
-
 2.  [BTOB 9th MINI ALBUM 「NEW MEN」](https://twitter.com/OFFICIALBTOB/status/791456502326321152) OFFICALBTOB Twitter
-
 3.  [COMEBACK SCHEDULE](https://twitter.com/OFFICIALBTOB/status/791806743793717250) OFFICALBTOB Twitter
-
 4.  [BTOB 9th MINI ALBUM「NEW MEN」CONCEPT IMAGE 1](https://twitter.com/OFFICIALBTOB/status/792954318630420480) OFFICALBTOB Twitter
-
 5.
-
 6.  [TRACK LIST](https://twitter.com/OFFICIALBTOB) OFFICALBTOB Twitter
-
 7.
-
 8.
-
 9.
-
 10. ['컴백' 비투비, 남성적 매력 과시 흑백티저 공개](http://entertain.naver.com/read?oid=311&aid=0000668079&spi_ref=m_entertain_twitter) Naver 2016-11-01
-
-11. [BTOB 迷你九輯《NEW MEN》曲目表](http://kpopn.niusnews.com/=K31ui812) Kpopn 2016-11-03
-
+11. [BTOB 迷你九輯《NEW MEN》曲目表](http://kpopn.niusnews.com/=K31ui812)  Kpopn 2016-11-03
 12.
-
 13.
-
 14.

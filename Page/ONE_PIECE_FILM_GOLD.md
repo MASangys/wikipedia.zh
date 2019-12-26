@@ -8,100 +8,100 @@
 
 面對著吃了黃金果實的泰佐羅，他無窮的野心與撼動新世界勢力版圖的計畫，與新的能力者對決，草帽海賊團該如何應對？面對最強大敵人的魯夫等人，一場賭上生命的戰爭，史上最激烈決鬥即將展開。
 
-## 人物
+## 登場角色
 
-### 原作人物
-
-#### 草帽海賊團
+### 原作角色
 
 <table>
 <thead>
 <tr class="header">
 <th><p>角色名稱</p></th>
 <th><p>配音員</p></th>
+<th><p>角色簡介</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>日本</p></td>
-<td><p>臺灣</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/草帽海賊團" title="wikilink">草帽海賊團</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>'''<a href="../Page/蒙其·D·魯夫.md" title="wikilink">蒙其·D·魯夫</a></p></td>
 <td><p><a href="../Page/田中真弓.md" title="wikilink">田中真弓</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>'''<a href="../Page/羅羅亞·索隆.md" title="wikilink">羅羅亞·索隆</a></p></td>
 <td><p><a href="../Page/中井和哉.md" title="wikilink">中井和哉</a></p></td>
+<td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>'''<a href="../Page/娜美.md" title="wikilink">娜美</a></p></td>
 <td><p><a href="../Page/岡村明美.md" title="wikilink">岡村明美</a></p></td>
+<td><p><a href="../Page/許淑嬪.md" title="wikilink">許淑嬪</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>'''<a href="../Page/騙人布.md" title="wikilink">騙人布</a></p></td>
 <td><p><a href="../Page/山口勝平.md" title="wikilink">山口勝平</a></p></td>
-</tr>
-<tr class="even">
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">賓什莫克·香吉士</a></p></td>
-<td><p><a href="../Page/平田廣明.md" title="wikilink">平田廣明</a></p></td>
+<td><p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">香吉士</a></p></td>
+<td><p><a href="../Page/平田廣明.md" title="wikilink">平田廣明</a></p></td>
+<td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
+</tr>
+<tr class="even">
 <td><p>'''<a href="../Page/多尼多尼·喬巴.md" title="wikilink">多尼多尼·喬巴</a></p></td>
 <td><p><a href="../Page/大谷育江.md" title="wikilink">大谷育江</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>'''<a href="../Page/妮可·羅賓.md" title="wikilink">妮可·羅賓</a></p></td>
 <td><p><a href="../Page/山口由里子.md" title="wikilink">山口由里子</a></p></td>
+<td><p><a href="../Page/許淑嬪.md" title="wikilink">許淑嬪</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>'''<a href="../Page/佛朗基.md" title="wikilink">佛朗基</a></p></td>
 <td><p><a href="../Page/矢尾一樹.md" title="wikilink">矢尾一樹</a></p></td>
+<td><p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>'''<a href="../Page/布魯克_(ONE_PIECE).md" title="wikilink">布魯克</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/長_(日本配音員)" title="wikilink">長</a></p></td>
-</tr>
-</tbody>
-</table>
-
-#### 其他
-
-<table>
-<thead>
-<tr class="header">
-<th><p>角色名稱</p></th>
-<th><p>配音員</p></th>
-<th><p>備注</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>日本</p></td>
-<td><p>臺灣</p></td>
-<td><p>香港</p></td>
+<td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
 </tr>
 <tr class="even">
+<td><p>其他原作角色</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>'''<a href="https://zh.wikipedia.org/wiki/革命軍_(ONE_PIECE)#參謀總長" title="wikilink">薩波</a><ref name="opcom160516">{{Cite web |date=2016-05-16 |url=<a href="https://one-piece.com/news/detail/20160516_3773%7Ctitle=電影「ONE">https://one-piece.com/news/detail/20160516_3773|title=電影「ONE</a> PIECE FILM GOLD」羅布·路基、斯帕達姆、薩波、可亞拉參演</p></td>
 <td><p>! 角色設定畫公開</p></td>
 <td><p>|publisher=ONE PIECE.com|accessdate=2016-05-17}}</ref></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>'''<a href="https://zh.wikipedia.org/wiki/革命軍_(ONE_PIECE)#可亞拉" title="wikilink">可亞拉</a>[1]</p></td>
 <td><p><a href="../Page/雪野五月.md" title="wikilink">雪野五月</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>'''<a href="https://zh.wikipedia.org/wiki/世界政府直屬秘密間諜機關#羅布·路基" title="wikilink">羅布·路基</a>[2]</p></td>
 <td><p><a href="../Page/關智一.md" title="wikilink">關智一</a></p></td>
 <td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>'''<a href="https://zh.wikipedia.org/wiki/世界政府直屬秘密間諜機關#斯帕達姆" title="wikilink">斯帕達姆</a>[3]</p></td>
 <td><p><a href="../Page/小野坂昌也.md" title="wikilink">小野坂昌也</a></p></td>
 <td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>'''<a href="../Page/盃_(ONE_PIECE).md" title="wikilink">赤犬</a></p></td>
 <td><p><a href="../Page/立木文彦.md" title="wikilink">立木文彦</a></p></td>
 <td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
@@ -109,17 +109,15 @@
 </tbody>
 </table>
 
-### 本作人物
+### 本作角色
 
-#### 「GRAN TESORO」
-
-##### 領導層
+#### 泰佐羅一夥
 
   -
-    聲優：[山路和弘](../Page/山路和弘.md "wikilink")\[4\]、[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")〈青年〉\[5\]（日本）；[孫中台](../Page/孫中台.md "wikilink")、[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")〈幼年〉（台灣）；[李家傑](../Page/李家傑_\(配音員\).md "wikilink")、[周恩恩](../Page/周恩恩.md "wikilink")〈幼年〉（香港）；[張震](https://zh.wikipedia.org/wiki/張震 "wikilink")（中國大陸）
+    聲優：[山路和弘](../Page/山路和弘.md "wikilink")\[4\]／[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")〈青年〉\[5\]（日本）；[孫中台](../Page/孫中台.md "wikilink")／[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")〈幼年〉（台灣）；[李家傑](../Page/李家傑_\(配音員\).md "wikilink")／[周恩恩](../Page/周恩恩.md "wikilink")〈幼年〉（香港）；[張震](https://zh.wikipedia.org/wiki/張震 "wikilink")（中國大陸）
     年齡41歲，生日1月24日。世界最大娛樂城市「Gran Tesoro」掌門人、一流藝人，人稱「**黃金大帝**」、「**新世界的怪物**」，擁有全世界20%的貝里，君臨於賭場的賭場之王，甚至有能動用世界政府的力量。曾說過「沒有錢的傢伙只會一事無成，只有被支配的份」。
     特徵是灰綠色頭髮向後梳，平時穿著粉色衣服和褲子，紫色墨鏡。其背上有一個巨大的五角星狀傷疤，掩蓋曾是天龍人奴隸的印記。接待客人時，泰佐羅會穿的十分豪華，全身都是金飾。
-    **超人系「[黃金果實](../Page/惡魔果實.md "wikilink")」**（暫譯，）能力者（已覺醒），能將體質和周圍的環境變成金子，也能操作金屬進行伸縮和變形。
+    **超人系「[黃金果實](../Page/惡魔果實.md "wikilink")」**（）能力者（已覺醒），能將體質和周圍的環境變成金子，也能操作金屬進行伸縮和變形。
     在VIP貴賓賭場與魯夫賭博，輸了給魯夫10倍，贏了只收魯夫2倍的錢。透過部下芭卡拉使草帽海賊團欠債3億2,000萬，後把索隆抓住當做抵押品。向草帽海賊團表示是被騙的人不好，這就是「Gran Tesoro」的規則。由於可以自由操縱在一開始進場所下的金粉，整艘船的住民、遊客都在他的支配下，索隆也因此敗北，沒人能逃過，唯一的辦法就是用海水沖刷金粉。最後被魯夫以四擋擊敗，並由路基帶領的海軍逮補。
 
 :\*【幼年期】喜歡唱歌，出生在很窮的家庭，因為家裡很窮所以沒什麼朋友。由於在娛樂表演會場外面看到光鮮亮麗的表演者，對舞台充滿了憧憬。然而嗜賭如命的父親沉迷賭博，敗光家產，導致父親後來得病時無法支付手術費用而病逝，造成泰佐羅從此抱持「金錢萬能」的想法，加上父親過世後家境更加貧困，母親開始討厭泰佐羅的歌聲。
@@ -152,7 +150,7 @@
 <!-- end list -->
 
   -
-    聲優：[滿島光](../Page/滿島光.md "wikilink")【特別演出】\[6\]\[7\]（日本）；[楊凱凱](../Page/楊凱凱.md "wikilink")（台灣）；[楊婉潼](../Page/楊婉潼.md "wikilink")（香港）；[黎筱濛](https://zh.wikipedia.org/wiki/黎筱濛 "wikilink")（中國大陸）
+    聲優：[滿島光](../Page/滿島光.md "wikilink")\[6\]\[7\]（日本）；[楊凱凱](../Page/楊凱凱.md "wikilink")（台灣）；[楊婉潼](../Page/楊婉潼.md "wikilink")（香港）；[黎筱濛](https://zh.wikipedia.org/wiki/黎筱濛 "wikilink")（中國大陸）
     19歳。世界最大娛樂城市「Gran Tesoro」的歌姬。是個人氣非常高且貌美的歌姬，擁有美麗的歌喉。是一個神秘的歌姬（）。
     雖然和娜美面熟，並有過爭吵，但不知是敵是友。以前也是小偷，外號『**女狐**』（），特徵是紫色長髮（平常是留著包頭），帶著狐狸造型耳環，愛騙人。獨特笑聲是"嗚嘻嘻嘻"。
     跟娜美是舊識，曾經因為竊取了一個海賊團的寶物而被瘋狂的財寶獵人馬德·托雷傑所抓住，卡麗娜為了獲救說要將偷來寶物以及自己所有的財產來當兩個人贖金，娜美被卡莉娜當作了抵押，卡莉娜一個人去取贖金，但是卡莉娜出去之後再也沒回來，出賣了娜美，但其實是為了救娜美所做的障眼法。
@@ -163,7 +161,7 @@
 <!-- end list -->
 
   -
-    聲優：[濱田岳](../Page/濱田岳.md "wikilink")【特別演出】\[8\]\[9\]（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）；[盧恒宇](https://zh.wikipedia.org/wiki/盧恒宇 "wikilink")（中國大陸）
+    聲優：[濱田岳](../Page/濱田岳.md "wikilink")\[8\]\[9\]（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）；[盧恒宇](https://zh.wikipedia.org/wiki/盧恒宇 "wikilink")（中國大陸）
     世界最大娛樂城市「Gran Tesoro」的警備主任。頭比身體還大的二頭身男子，9年前加入，他是泰佐羅最初的部下，同時也是他的心腹大將，負責工作為交予世界政府天龍金、將整個「Gran Tesoro」內部發生的狀況全部匯報給泰佐羅等等各項重大任務。獨特笑聲是"噓嚕嚕嚕嚕"，武器是一把手槍，戰鬥時會配合能力使用。
     **超人系「[穿越果實](../Page/惡魔果實.md "wikilink")」**（暫譯，）能力者。擁有可以讓一切物體脫落自由穿越無機物的能力。
     劇中最後決戰與香吉士、羅賓等人交戰，故意支開香吉士並拿槍脅持羅賓，卻反被花花果實能力趁隙抓住，最終被憤怒的香吉士給擊敗。
@@ -172,7 +170,7 @@
 <!-- end list -->
 
   -
-    聲優：[菜菜緒](../Page/菜菜緒.md "wikilink")【特別演出】\[10\]\[11\]（日本）；[楊凱凱](../Page/楊凱凱.md "wikilink")（台灣）；[鄧潔麗](../Page/鄧潔麗.md "wikilink")（香港）；[張碧玉](https://zh.wikipedia.org/wiki/張碧玉 "wikilink")（中國大陸）
+    聲優：[菜菜緒](../Page/菜菜緒.md "wikilink")\[10\]\[11\]（日本）；[楊凱凱](../Page/楊凱凱.md "wikilink")（台灣）；[鄧潔麗](../Page/鄧潔麗.md "wikilink")（香港）；[張碧玉](https://zh.wikipedia.org/wiki/張碧玉 "wikilink")（中國大陸）
     世界最大娛樂城市「Gran Tesoro」的接待員，泰佐羅一夥中唯一的女性幹部（不包含卡莉娜在內的話），特徵是褐色肌膚和紅色長髮，腿部有著蛇及星星的刺青，說話會帶著英語腔調，負責工作為接待世界各地的名媛權貴，她的幸運能力對泰佐羅貢獻良多，也讓泰佐羅在不費吹灰之力的情況下得到許多奴隸，有著很好的記憶力，能夠輕易記下著名海賊的臉孔與其懸賞金，5年前加入泰佐羅一夥，對泰佐羅有好感。
     **超人系「[幸運果實](../Page/惡魔果實.md "wikilink")」**（暫譯，）能力者，被她碰觸到身體的人運勢會發生改變，平時戴著手套避免觸發能力。
     劇中接待草帽一行人，帶到賭場享受娛樂。最後帶領他們到VIP貴賓級的賭場，吸取魯夫的運氣，使魯夫等人欠債3億2,000萬。
@@ -181,81 +179,81 @@
 <!-- end list -->
 
   -
-    聲優：[小林劍道](../Page/小林劍道.md "wikilink")【特別演出】\[12\]（日本）；[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（台灣）；[張聞天](https://zh.wikipedia.org/wiki/張聞天 "wikilink")（中國大陸）
+    聲優：[小林劍道](../Page/小林劍道.md "wikilink")\[12\]（日本）；[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（台灣）；[張聞天](https://zh.wikipedia.org/wiki/張聞天 "wikilink")（中國大陸）
     世界最大娛樂城市「Gran Tesoro」的莊家。留著金色短髮（平常包著頭巾）和大鬍子的壯漢，8年前原本是地下世界無人能敵的死亡角力手，後來被泰佐羅看上，讓他在VIP貴賓級的賭場擔任擲骰子的工作。武器是一把斧頭，配合擊破骰盅看賭注結果，但因為他本人比較喜歡用頭去擊破骰盅，所以斧頭根本沒意義。
     全身有著發達的筋肉，身上的護手和服裝有骰子的1到6點數字。他有著特殊的力量和防禦力，會使用**「[武裝色霸氣](https://zh.wikipedia.org/wiki/霸氣_\(ONE_PIECE\) "wikilink")」**。是個受虐狂，會自虐，被他人攻擊會感到很舒服。
     劇中最後決戰與索隆交戰落敗，落敗後舒服到講不出話來。
 
-##### 員工
+#### 「GRAN TESORO」職工
 
   -
     聲優：[坂本千夏](../Page/坂本千夏.md "wikilink")\[13\]（日本）；[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）；[鄧潔麗](../Page/鄧潔麗.md "wikilink")（香港）；[曹旭鵬](https://zh.wikipedia.org/wiki/曹旭鵬 "wikilink")（中國大陸）
-    為了替父母還債而在世界最大娛樂城市工作的少年，迪波的哥哥。
+    為了替父母還債而在世界最大娛樂城市「GRAN TESORO」工作的少年，迪波的哥哥。
 
 <!-- end list -->
 
   -
     聲優：[渡邊菜生子](../Page/渡邊菜生子.md "wikilink")\[14\]（日本）；[楊凱凱](../Page/楊凱凱.md "wikilink")（台灣）；[佟心竹](https://zh.wikipedia.org/wiki/佟心竹 "wikilink")（中國大陸）
-    為了替父母還債而在世界最大娛樂城市工作的少女，利卡的妹妹。
+    為了替父母還債而在世界最大娛樂城市「GRAN TESORO」工作的少女，利卡的妹妹。
 
 <!-- end list -->
 
   -
-    聲優：[竹中直人](../Page/竹中直人.md "wikilink")【特別演出】\[15\]（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（台灣）
-    世界最大娛樂城市的牛排店「WILD COW」的店長。原為軍人，家人因落入泰佐羅的陷阱被殺，他自己則淪為泰佐羅的奴隸。
+    聲優：[竹中直人](../Page/竹中直人.md "wikilink")\[15\]（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（台灣）
+    世界最大娛樂城市「GRAN TESORO」的牛排店「WILD COW」的店長。原為軍人，家人因落入泰佐羅的陷阱被殺，他自己則淪為泰佐羅的奴隸。
 
 <!-- end list -->
 
   -
-    聲優：[西野七瀨](../Page/西野七瀨.md "wikilink")【特別演出】\[16\]（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）
-    高爾夫球場的球童。
+    聲優：[西野七瀨](../Page/西野七瀨.md "wikilink")\[16\]（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）
+    世界最大娛樂城市「GRAN TESORO」的高爾夫球場的球童。
 
 <!-- end list -->
 
   -
-    聲優：[三吉彩花](../Page/三吉彩花.md "wikilink")【特別演出】\[17\]（日本）；[楊凱凱](../Page/楊凱凱.md "wikilink")（台灣）
-    「龜車大賽」前台的兔女郎。
+    聲優：[三吉彩花](../Page/三吉彩花.md "wikilink")\[17\]（日本）；[楊凱凱](../Page/楊凱凱.md "wikilink")（台灣）
+    世界最大娛樂城市「GRAN TESORO」的「龜車大賽」前台的兔女郎。
 
 <!-- end list -->
 
   -
-    聲優：[武田玲奈](../Page/武田玲奈.md "wikilink")【特別演出】\[18\]（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）
-    「龜車大賽」開始前揮動旗幟的兔女郎。
+    聲優：[武田玲奈](../Page/武田玲奈.md "wikilink")\[18\]（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）
+    世界最大娛樂城市「GRAN TESORO」的「龜車大賽」開始前揮動旗幟的兔女郎。
 
 #### 「龜車大賽」選手
 
   -
-    聲優：[佐藤亞璃紗](../Page/佐藤亞璃紗.md "wikilink")【特別演出】\[19\]（日本）；[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）
+    聲優：[佐藤亞璃紗](../Page/佐藤亞璃紗.md "wikilink")\[19\]（日本）；[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）
     與「龜車大賽」中編號4號賽車手白傑克搭檔的護士，特技是變臉。龜車大賽中在白傑克的指示下用手持的巨大針筒射出藥水妨礙對手。
 
 <!-- end list -->
 
   -
-    聲優：竹中直人【特別演出】\[20\]（日本）；[孫中台](../Page/孫中台.md "wikilink")（台灣）
+    聲優：竹中直人\[20\]（日本）；[孫中台](../Page/孫中台.md "wikilink")（台灣）
     「龜車大賽」中編號4號賽車手，駕駛龜車與魯夫展開激戰的庸醫。龜車大賽中趁著吉米邁爾斯和斯特萊特軍曹出局的當下搶得第一名的位子，被肯特駕駛的裝甲賽車給撞飛出去。
 
 <!-- end list -->
 
   -
-    聲優：[古田新太](../Page/古田新太.md "wikilink")【特別演出】\[21\]（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
+    聲優：[古田新太](../Page/古田新太.md "wikilink")\[21\]（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
     「龜車大賽」編號1號賽車手，自稱"南方藍畜牧王"。龜車大賽中與魯夫駕駛的6號車、達米斯伯爵駕駛的2號車一路奔向終點，後來被魯夫超車導致無緣奪冠。
 
 <!-- end list -->
 
   -
-    聲優：古田新太【特別演出】\[22\]（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（台灣）
+    聲優：古田新太【\[22\]（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（台灣）
     與「龜車大賽」編號1號賽車手肯特·牛肉搭擋的水牛，龜車大賽中在肯特的指示下丟擲乾草束妨礙對手。
 
 <!-- end list -->
 
   -
-    聲優：【特別演出】\[23\]（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（台灣）
+    聲優：\[23\]（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（台灣）
     「龜車大賽」編號5號賽車手。"吉米商業有限公司"的社長，手握方向盤就會暴露第二人格，龜車大賽一開始位居第一，但馬上就被斯特萊特軍曹用車上配置的大砲連人帶車轟飛出去。
 
 <!-- end list -->
 
   -
-    聲優：[成田凌](../Page/成田凌.md "wikilink")【特別演出】\[24\]（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
+    聲優：[成田凌](../Page/成田凌.md "wikilink")\[24\]（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
     與「龜車大賽」編號3號賽車手斯特萊特軍曹的搭檔的海軍。
 
 <!-- end list -->
@@ -297,26 +295,25 @@
 <!-- end list -->
 
   -
-    聲優：【特別演出】\[28\]（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
+    聲優：\[28\]（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
     長長海賊團一員，外型為一隻手上配戴長鐵爪的白猴。劇中一開始隨同船長襲擊草帽海賊團，向布魯克襲擊反被打倒。
 
-#### 其他人物
+#### 其他角色
 
   -
-    聲優：[北大路欣也](../Page/北大路欣也.md "wikilink")【特別演出】\[29\]\[30\]（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（台灣）；[張遙函](https://zh.wikipedia.org/wiki/張遙函 "wikilink")（中國大陸）
-    傳說中的賭徒，佛朗基表示雷茲曾是他小時候的偶像。在地下與魯夫相遇。他的真實身份其實是革命軍的重要人物，目的正是衝著「黃金大帝」泰佐羅來的。
+    聲優：[北大路欣也](../Page/北大路欣也.md "wikilink")\[29\]\[30\]（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（台灣）；[張遙函](https://zh.wikipedia.org/wiki/張遙函 "wikilink")（中國大陸）
+    傳說中的賭徒，佛朗基表示雷茲曾是他小時候的偶像，在地下與魯夫相遇。他的真實身份其實是革命軍的重要人物，目的正是衝著「黃金大帝」泰佐羅來的。
 
 <!-- end list -->
 
   -
-    聲優：[小栗旬](../Page/小栗旬.md "wikilink")【特別演出】（日本）；[陳彥鈞](../Page/陳彥鈞.md "wikilink")〔電視版〕、[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")〔劇場版〕（台灣）
-    史上最凶殘最瘋狂的財寶獵人，曾經抓過娜美與卡莉娜。
-    於娜美的回憶中登場。也在**[特別篇 ～黃金之心～](https://zh.wikipedia.org/wiki/#特別篇～黃金之心～ "wikilink")**中登場。
+    聲優：[小栗旬](../Page/小栗旬.md "wikilink")（日本）；[陳彥鈞](../Page/陳彥鈞.md "wikilink")〈電視版〉／孟慶府〈劇場版〉（台灣）
+    史上最凶殘最瘋狂的財寶獵人，在劇中於娜美的回憶中登場，曾經抓過娜美與卡莉娜。也在**[特別篇 ～黃金之心～](https://zh.wikipedia.org/wiki/#特別篇～黃金之心～ "wikilink")**中登場。
 
 <!-- end list -->
 
   -
-    聲優：[三村勝和](https://zh.wikipedia.org/wiki/三村勝和 "wikilink")【友情出演】\[31\]（日本）；[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（台灣）
+    聲優：[三村勝和](https://zh.wikipedia.org/wiki/三村勝和 "wikilink")\[31\]（日本）；孟慶府（台灣）
     天龍人，有著藍色長鼻子，没事總喜歡搖頭晃腦的，說話常常帶著“咦喲喲”的尾音，前往「Gran Tesoro」向泰佐羅收取天上金。
 
 <!-- end list -->
@@ -707,19 +704,14 @@
 2.
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
 11.
 12.
-
 13.
 14.
 15.
@@ -727,15 +719,12 @@
 17.
 18.
 19.
-
 20.
-
 21.
 22.
 23.
 24.
 25. （2016年5月6日）。
-
 26.
 27.
 28.
@@ -744,12 +733,9 @@
 31.
 32.
 33. （2016年5月6日）。
-
 34.
 35.
-
 36.
 37.
-
 38.
 39.

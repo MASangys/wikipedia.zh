@@ -91,13 +91,8 @@ Only you リベルクルス在[ファミ通](https://zh.wikipedia.org/wiki/フ�
 [Category:1996年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:1996年日本成人遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:PC-9801遊戲](https://zh.wikipedia.org/wiki/Category:PC-9801遊戲 "wikilink") [Category:FM_Towns遊戲](https://zh.wikipedia.org/wiki/Category:FM_Towns遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:末日题材电子游戏](https://zh.wikipedia.org/wiki/Category:末日题材电子游戏 "wikilink")
 
 1.  [Only You －世紀末のジュリエットたち－](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=2392)ErogameScape -エロゲー批評空間-
-
 2.  [Only You -Seikimatsu no Juliette-tachi-](https://vndb.org/v2003)The Visual Novel Database
-
 3.  [Only you -リ・クルス-](http://www.getchu.com/soft.phtml?id=6586)Getchu.com
-
 4.  [Only You -Re Cross-](https://vndb.org/v2000)The Visual Novel Database
-
 5.  [Only you リベルクルス ドラマCD付](https://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=9903)[ファミ通.com](https://zh.wikipedia.org/wiki/ファミ通.com "wikilink")
-
 6.

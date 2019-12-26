@@ -92,56 +92,37 @@
 [Category:英格蘭裔美國人](https://zh.wikipedia.org/wiki/Category:英格蘭裔美國人 "wikilink") [Category:苏格兰－爱尔兰裔美国人](https://zh.wikipedia.org/wiki/Category:苏格兰－爱尔兰裔美国人 "wikilink") [Category:蘇格蘭裔美國人](https://zh.wikipedia.org/wiki/Category:蘇格蘭裔美國人 "wikilink") [Category:美國天主教徒](https://zh.wikipedia.org/wiki/Category:美國天主教徒 "wikilink") [Category:天主教皈依者](https://zh.wikipedia.org/wiki/Category:天主教皈依者 "wikilink") [Category:美国民主党联邦参议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦参议员 "wikilink") [Category:弗吉尼亚州阿宾登人士](https://zh.wikipedia.org/wiki/Category:弗吉尼亚州阿宾登人士 "wikilink") [Category:弗吉尼亚州南北战争人物](https://zh.wikipedia.org/wiki/Category:弗吉尼亚州南北战争人物 "wikilink") [Category:維吉尼亞州聯邦參議員](https://zh.wikipedia.org/wiki/Category:維吉尼亞州聯邦參議員 "wikilink") [Category:弗吉尼亚州民主党人](https://zh.wikipedia.org/wiki/Category:弗吉尼亚州民主党人 "wikilink") [Category:弗吉尼亚州律师](https://zh.wikipedia.org/wiki/Category:弗吉尼亚州律师 "wikilink") [Category:弗吉尼亚州参议员](https://zh.wikipedia.org/wiki/Category:弗吉尼亚州参议员 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.  John Warfield Johnston to Lavalette Johnston, November 6, 1868, John Warfield Johnston Papers, Special Collections Department, Duke University Library, Durham, North Carolina. This is just one of several letters in which he calls their home this.
-
 9.
-
 10.
 11.
-
 12.
 13.
 14.
 15. Series IV, V 3, p. 812, 816
-
 16.
 17.
-
 18.
 19.
-
 20. John W. Johnston to Lavalette McMullen, November 6, 1868, LS, John W. Johnston Papers, Special Collections, Duke University
-
 21.
-
 22. William Mahone to John W. Johnston, October 18, 1869, LS, John W. Johnston Papers, Special Collections, Duke University.
-
 23.
-
 24.
-
 25.
 26.
 27.
-
 28.
 29.
 30.
 31.
 32.
-
 33.
 34.
 35.
@@ -152,15 +133,11 @@
 40.
 41.
 42.
-
 43.
 44.
-
 45.
-
 46.
 47.
-
 48.
 49.
 50.
@@ -170,24 +147,18 @@
 54.
 55.
 56.
-
 57. John W. Johnston to Daniel Trigg, October 23, 1875, LS, John W. Johnston Papers, Special Collections, Duke University
-
 58.
-
 59.
 60.
-
 61.
 62.
 63.
 64.
 65.
-
 66.
 67.
 68. Louisa J. Trigg to Lavalette McMullen, February 28, 1889, L, John W. Johnston Papers, Special Collections, Duke University
-
 69.
 70.
 71.
