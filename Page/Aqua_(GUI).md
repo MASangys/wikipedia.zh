@@ -1,4 +1,8 @@
-**Aqua**是[Mac OS X的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[GUI之](https://zh.wikipedia.org/wiki/GUI "wikilink")[商標名稱](https://zh.wikipedia.org/wiki/商標 "wikilink")，以及在這個GUI主要使用的佈景主題（另外一個佈景主題是拉丝金屬，Brushed metal）。它是以水的佈景主題為基礎，如同它的名字可以猜想到的，有類似液滴的元件，且大量使用半透明和反射效果。事實上，在[10.4版作業系統中](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4 "wikilink")，水波紋在[Dashboard](../Page/Dashboard.md "wikilink") Widgets被放到螢幕上時出現。作為一個佈景主題，Aqua是Mac OS 8和Mac OS 9所使用的[Platinum的後繼者](https://zh.wikipedia.org/wiki/Platinum（麥金塔） "wikilink")。很多Aqua原先的設計是用來補足[iMac和](https://zh.wikipedia.org/wiki/iMac "wikilink")[Power Macintosh G3](../Page/Power_Macintosh_G3.md "wikilink")／[G4桌上型原先的塑膠外觀](https://zh.wikipedia.org/wiki/Power_Macintosh_G4 "wikilink")，但是在蘋果在他們工業的設計上已經改為金属拉絲（brushed metal），Aqua也已改為融入額外的金屬筆觸。這種介面風格上有些不協調的組合已經在Mac OS X使用者社群引起爭論。
+**Aqua**是[Mac OS X的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[GUI之](https://zh.wikipedia.org/wiki/GUI "wikilink")[商標名稱](https://zh.wikipedia.org/wiki/商標 "wikilink")，以及在這個GUI主要使用的佈景主題（另外一個佈景主題是拉丝金屬，Brushed metal）。
+
+## 特徵
+
+它是以水的佈景主題為基礎，如同它的名字可以猜想到的，有類似液滴的元件，且大量使用半透明和反射效果。事實上，在[10.4版作業系統中](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4 "wikilink")，水波紋在[Dashboard](../Page/Dashboard.md "wikilink") Widgets被放到螢幕上時出現。作為一個佈景主題，Aqua是Mac OS 8和Mac OS 9所使用的[Platinum的後繼者](https://zh.wikipedia.org/wiki/Platinum（麥金塔） "wikilink")。很多Aqua原先的設計是用來補足[iMac和](https://zh.wikipedia.org/wiki/iMac "wikilink")[Power Macintosh G3](../Page/Power_Macintosh_G3.md "wikilink")／[G4桌上型原先的塑膠外觀](https://zh.wikipedia.org/wiki/Power_Macintosh_G4 "wikilink")，但是在蘋果在他們工業的設計上已經改為金属拉絲（brushed metal），Aqua也已改為融入額外的金屬筆觸。這種介面風格上有些不協調的組合已經在Mac OS X使用者社群引起爭論。
 
 Aqua的主要兩個特色是類似膠狀的按鈕（以紅色、黃色、和綠色著色）來控制視窗和[Dock](https://zh.wikipedia.org/wiki/Dock "wikilink")，用來容易啟動和在應用程式之間導引。
 
@@ -6,13 +10,15 @@ Aqua所包含視窗的主要兩個風格是標準的直條橫紋（pinestriped�
 
 在成功的推出後，Aqua已經被調整得色調變得更難以捉摸。例如，直條橫紋已經變得更模糊，系統對話盒和選單已經變得較不半透明，按鈕的外觀和其他[窗口已經變得稍微地柔和](https://zh.wikipedia.org/wiki/窗口 "wikilink")。
 
-Aqua是由負責基本繪圖管理的[Quartz Compositor所驅動的](../Page/Quartz_Compositor.md "wikilink")。
-
 ## 起源
 
 Aqua GUI在2000年2月[東京的Mac](https://zh.wikipedia.org/wiki/東京 "wikilink") World Expo上展示的Mac OS X的開發者預覽3（"DP3"）上首次展露。Aqua首次出現在商業產品是在[iMovie 2](https://zh.wikipedia.org/wiki/iMovie "wikilink")，其中的按鈕和捲動軸使用Mac OS X Aqua外觀。它接著最後於2001年1月的[iTunes之前進展到](https://zh.wikipedia.org/wiki/iTunes "wikilink")2000年秋天的Mac OS X公開測試中。
 
-Aqua當然地變為官方的[Mac OS X推出的標準](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。唯一不是Aqua的部份是在Mac OS X下執行的[Classic應用程式](https://zh.wikipedia.org/wiki/Mac_OS#Classic_Mac_OS "wikilink")。
+## 應用
+
+Aqua為官方的[Mac OS X推出的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[設計語言](https://zh.wikipedia.org/wiki/設計語言 "wikilink")。唯一不是Aqua的部份是在Mac OS X下執行的[Classic應用程式](https://zh.wikipedia.org/wiki/Mac_OS#Classic_Mac_OS "wikilink")。
+
+Aqua是由負責基本繪圖管理的[Quartz Compositor所驅動的](../Page/Quartz_Compositor.md "wikilink")。
 
 ## 訴訟
 
@@ -49,4 +55,4 @@ Aqua當然地變為官方的[Mac OS X推出的標準](https://zh.wikipedia.org/w
 
 {{-}}
 
-[Category:图形用户界面](https://zh.wikipedia.org/wiki/Category:图形用户界面 "wikilink") [Category:Mac_OS介面](https://zh.wikipedia.org/wiki/Category:Mac_OS介面 "wikilink")
+[Category:設計語言](https://zh.wikipedia.org/wiki/Category:設計語言 "wikilink") [Category:图形用户界面](https://zh.wikipedia.org/wiki/Category:图形用户界面 "wikilink") [Category:Mac_OS介面](https://zh.wikipedia.org/wiki/Category:Mac_OS介面 "wikilink")

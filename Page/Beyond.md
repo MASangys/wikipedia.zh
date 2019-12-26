@@ -1,4 +1,4 @@
-**Beyond**是1983年成立的香港搖滾樂隊，早年被視為地下樂隊，1987年加入香港主流樂壇，是[華人樂壇上最具代表性的搖滾樂隊之一](https://zh.wikipedia.org/wiki/華人 "wikilink")。 樂隊自成立以來一直堅持本地原創及積極採用[粵語歌詞取代當時香港以](https://zh.wikipedia.org/wiki/粵語 "wikilink")[英語為主流的搖滾樂](https://zh.wikipedia.org/wiki/英語 "wikilink")，將在香港被視為「地下音樂」的[重金属搖滾樂帶到主流樂壇](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")，並通过重新包装使其普及。樂隊無論在作曲、填詞、編曲、演奏及監製等，大部分均由各成員包辦，而作品內容多以寫實為主，當中包括：樂隊成員對未來的憧憬和盼望、表達追求理想與現實世界之間的矛盾、反映社會狀況及諷刺時弊、宣揚和平與愛，還有各成員對世界周邊事情的所見所感等。 2004年末，樂隊宣佈解散，並於2005年舉行《Beyond The Story Live 2005》告別世界巡迴音樂會，之後各成員各自繼續發展自己的音樂事業。
+**Beyond**是1983年成立的香港搖滾樂隊，早年被視為地下樂隊，1987年加入香港主流樂壇，是[華人樂壇上具代表性的搖滾樂隊之一](https://zh.wikipedia.org/wiki/華人 "wikilink")。 樂隊自成立以來一直堅持本地原創及積極採用[粵語歌詞取代當時香港以](https://zh.wikipedia.org/wiki/粵語 "wikilink")[英語為主流的搖滾樂](https://zh.wikipedia.org/wiki/英語 "wikilink")，將在香港被視為「地下音樂」的[重金属搖滾樂帶到主流樂壇](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")，並通过重新包装使其普及。樂隊無論在作曲、填詞、編曲、演奏及監製等，大部分均由各成員包辦，而作品內容多以寫實為主，當中包括：樂隊成員對未來的憧憬和盼望、表達追求理想與現實世界之間的矛盾、反映社會狀況及諷刺時弊、宣揚和平與愛，還有各成員對世界周邊事情的所見所感等。 2004年末，樂隊宣佈解散，並於2005年舉行《Beyond The Story Live 2005》告別世界巡迴音樂會，之後各成員各自繼續發展自己的音樂事業。
 
 ## Beyond名稱由來
 
@@ -467,7 +467,7 @@ Beyond经过漫长的时间后，终于推出了大碟《[请将手放开](https
 
 ## 影響
 
-在[華語樂壇的地位與日本樂壇的傳奇搖滾樂隊](../Page/華語流行音樂.md "wikilink")[X Japan等同](../Page/X_Japan.md "wikilink")。
+Beyond在[華語樂壇的地位與日本樂壇的傳奇搖滾樂隊](../Page/華語流行音樂.md "wikilink")[X Japan等同](../Page/X_Japan.md "wikilink")。
 
 由[香港電台](../Page/香港電台.md "wikilink")製作的《不死傳奇——黃家駒》紀念特輯中，記述了Beyond的音樂90年代在中國內地、[大中華](../Page/大中華.md "wikilink")地區的流行情況。缺乏開拓市場的宣傳活動、電台媒體播放或[互聯網流傳下](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，內地Beyond歌迷單靠以複製[卡式錄音帶的方式將Beyond的音樂在民間流傳](https://zh.wikipedia.org/wiki/卡式錄音帶 "wikilink")，縱使Beyond的歌曲普遍以[粵語而非](https://zh.wikipedia.org/wiki/粵語 "wikilink")[國語歌唱](https://zh.wikipedia.org/wiki/國語 "wikilink")，而Beyond的音樂卻深深打進了正藉[改革開放時期的年青人心扇](https://zh.wikipedia.org/wiki/改革開放 "wikilink")。這彰顯Beyond的音樂感染力無遠弗屆，亦應驗了「[音樂無疆界](https://zh.wikipedia.org/wiki/音樂 "wikilink")，是不受到語言或地域限制的藝術」，有受訪者甚至稱呼黃家駒為[藝術家](https://zh.wikipedia.org/wiki/藝術家 "wikilink")，並非單純的偶像。
 
@@ -481,7 +481,7 @@ Beyond崇尚理想和自由的歌曲，如《[海闊天空](../Page/海闊天空
 
 2008年[汶川大地震](../Page/汶川大地震.md "wikilink")，[香港演藝人協會選用](https://zh.wikipedia.org/wiki/香港演藝人協會 "wikilink")《[海闊天空](../Page/海闊天空_\(Beyond歌曲\).md "wikilink")》作為了中國版的《[We Are the World](../Page/天下一家.md "wikilink")》——[劉德華](../Page/劉德華.md "wikilink")為這首歌譜寫了國語版歌詞，取名《[承諾](https://zh.wikipedia.org/wiki/承諾 "wikilink")》，並於「[演藝界512關愛行動](../Page/演藝界512關愛行動.md "wikilink")」由[兩岸三地](../Page/兩岸三地.md "wikilink")群星演唱，作為籌款賑災的主題曲之用。
 
-同年[北京奧運會](https://zh.wikipedia.org/wiki/2008年夏季奥林匹克运动会 "wikilink")，[劉翔因傷退賽時](https://zh.wikipedia.org/wiki/劉翔 "wikilink")，場內突然播起《海闊天空》；2013和2015年，廣州恆大足球隊兩次奪得亞冠聯賽錦標時，天河體育場內都唱起了它。
+同年[北京奧運會](../Page/2008年夏季奥林匹克运动会.md "wikilink")，[劉翔因傷退賽時](https://zh.wikipedia.org/wiki/劉翔 "wikilink")，場內突然播起《海闊天空》；2013和2015年，廣州恆大足球隊兩次奪得亞冠聯賽錦標時，天河體育場內都唱起了它。
 
 2017年，有[香港人](../Page/香港人.md "wikilink")在足球賽事前播放國歌時喝倒采\[22\]，指出《海闊天空》在「雨傘運動」時曾試過萬人大合唱，產生共鳴，認為《[義勇軍進行曲](https://zh.wikipedia.org/wiki/義勇軍進行曲 "wikilink")》不能代表香港，建議應以《海闊天空》或另一位歌手[羅文](../Page/羅文.md "wikilink")的《[獅子山下](../Page/獅子山下_\(歌曲\).md "wikilink")》代替，反映《海闊天空》在已被大眾推崇為「[香港精神](../Page/香港核心價值.md "wikilink")」的代表曲之一。
 
@@ -1847,13 +1847,10 @@ Beyond曾奪得7次「叱咤樂壇組合：銀獎」（1988-1995，1993年除外
 [Category:1983年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1983年成立的音樂團體 "wikilink") [Category:2005年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2005年解散的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:Beyond](https://zh.wikipedia.org/wiki/Category:Beyond "wikilink") [Category:香港摇滚乐团](https://zh.wikipedia.org/wiki/Category:香港摇滚乐团 "wikilink") [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:香港音樂](https://zh.wikipedia.org/wiki/Category:香港音樂 "wikilink")
 
 1.  《我與BEYOND的日子》2010年 鄧煒謙著
-
 2.  Beyond官方自傳《擁抱Beyond歲月》1998年 黃貫中、黃家強、葉世榮著
-
 3.
 4.
 5.
-
 6.
 7.
 8.
@@ -1861,33 +1858,19 @@ Beyond曾奪得7次「叱咤樂壇組合：銀獎」（1988-1995，1993年除外
 10.
 11.
 12. 《黃家駒逝世15週年專輯香港樂壇憶念家駒15年》《蘋果日報》C10-C11版，2008年6月10日
-
 13.
-
 14. [黃家強爆黃貫中8宗罪　揭Beyond解散真相](http://ent.appledaily.com.tw/realtimenews/article/entertainment/20141011/485534/)
-
 15. [黃家強：Beyond已緣盡](http://www.msn.com/zh-hk/entertainment/topnews/%e9%bb%83%e5%ae%b6%e5%bc%b7beyond%e5%b7%b2%e7%b7%a3%e7%9b%a1/ar-BBkddqN)
-
 16. [歌詞貼切\! 　Beyond「海闊天空」成佔中曲](http://www.nexttv.com.tw/news/realtime/international/11151047/privacy), [壹電視](../Page/壹電視.md "wikilink"), 2014/09/30
-
 17. [BEYOND-海闊天空](http://www.appledaily.com.tw/realtimenews/article/entertainment/20141001/479647/), [蘋果日報 (台灣)](https://zh.wikipedia.org/wiki/蘋果日報_\(台灣\) "wikilink"), 2014年10月1日
-
 18. [因為不羈放縱愛自由　Beyond《海闊天空》成佔中主題曲](http://www.ettoday.net/news/20140930/407523.htm?from=easynews), [ETtoday](https://zh.wikipedia.org/wiki/ETtoday "wikilink"), 2014/09/30
-
 19. [香港佔中／「佔中」打死不退！　空拍13萬人遍地開花](http://news.tvbs.com.tw/entry/548590), [TVBS](https://zh.wikipedia.org/wiki/TVBS "wikilink"), 2014/09/30
-
 20. [Beyond挺！ 黃貫中與民眾唱「海闊天空」](http://news.ebc.net.tw/apps/newsList.aspx?id=1412131789) , [東森新聞](https://zh.wikipedia.org/wiki/東森新聞 "wikilink"), 2014/10/1
-
 21. [「風雨中抱緊自由」 香港佔中大V隱秘發聲](http://m.ntdtv.com/xtr/mb5/2014/10/01/a1142560.html) , [新唐人](https://zh.wikipedia.org/wiki/新唐人 "wikilink"), 2014年10月1日
-
 22.
-
 23. 《真的BEYOND日子》2013年 陳健添著
-
 24.
 25.
 26. [香港電台 - 文藝港台 (第5集) - 1987年《小說家族》之《對倒》](http://podcast.rthk.hk/podcast/item_epi.php?pid=737&id=46471)
-
 27. [香港電台 - 「光影我城」II (第28集) - 1987年《暴風少年》之《黑仔強》](http://podcast.rthk.hk/podcast/item_epi.php?pid=847&id=55022)
-
 28.

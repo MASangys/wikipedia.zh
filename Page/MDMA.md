@@ -1,4 +1,4 @@
-**亚甲二氧甲基苯丙胺**（**3,4-亚甲二氧甲基苯丙胺**，简称**MDMA**），台灣常見的稱呼還包括“快樂丸”、“衣服”（取 [Ecstasy](https://zh.wikipedia.org/wiki/摇头丸 "wikilink") 第一個字母的發音）、“上面”（衣服是穿在上面的），在香港及南亚等地，这种药味则被称为“甩头丸”、“快乐神”、“劲乐丸”、“狂喜”、“迪士高饼干”等；在国外，最常见的称谓是Ecstasy（忘我）、Adam（亚当）、Dollar、Fido、Bomb等。MDMA属于[苯丙胺类](https://zh.wikipedia.org/wiki/苯丙胺类 "wikilink")[兴奋剂](../Page/兴奋剂.md "wikilink")，是一种[精神药物](../Page/精神药物.md "wikilink")，常用作[娛樂性藥物](https://zh.wikipedia.org/wiki/娛樂性藥物 "wikilink")。預期效應有增加[同理心](../Page/同理心.md "wikilink")及[欣快](../Page/欣快.md "wikilink")感，也會有感覺增強的效果\[1\]\[2\]\[3\] 。若口服的話，藥效會在30至45分鐘後開始，且持續三至六個小時\[4\]\[5\]，有時會用或是吸食的方式服藥。2017年為止，還沒有MDMA的\[6\]。
+**亚甲二氧甲基苯丙胺**（**3,4-亚甲二氧甲基苯丙胺**，简称**MDMA**），台灣常見的稱呼還包括“搖頭丸”、“快樂丸”、“衣服”（取 [Ecstasy](https://zh.wikipedia.org/wiki/摇头丸 "wikilink") 第一個字母的發音）、“上面”（衣服是穿在上面的），在香港及南亚等地，这种药味则被称为“甩头丸”、“快乐神”、“劲乐丸”、“狂喜”、“迪士高饼干”等；在国外，最常见的称谓是Ecstasy（忘我）、Adam（亚当）、Dollar、Fido、Bomb等。MDMA属于[苯丙胺类](https://zh.wikipedia.org/wiki/苯丙胺类 "wikilink")[兴奋剂](../Page/兴奋剂.md "wikilink")，是一种[精神药物](../Page/精神药物.md "wikilink")，常用作[娛樂性藥物](https://zh.wikipedia.org/wiki/娛樂性藥物 "wikilink")。預期效應有增加[同理心](../Page/同理心.md "wikilink")及[欣快](../Page/欣快.md "wikilink")感，也會有感覺增強的效果\[1\]\[2\]\[3\] 。若口服的話，藥效會在30至45分鐘後開始，且持續三至六個小時\[4\]\[5\]，有時會用或是吸食的方式服藥。2017年為止，還沒有MDMA的\[6\]。
 
 MDMA的不良反應包括[上癮](https://zh.wikipedia.org/wiki/上癮 "wikilink")、記憶問題、[偏執](../Page/偏執狂.md "wikilink")、[失眠](../Page/失眠.md "wikilink")、[磨牙](../Page/磨牙.md "wikilink")、視力模糊、流汗、[心跳过速](../Page/心跳过速.md "wikilink")等症狀\[7\]，使用MDMA也可能會造成[抑郁及](https://zh.wikipedia.org/wiki/抑郁_\(情绪\) "wikilink")[疲勞](../Page/疲勞.md "wikilink")\[8\]。已有使用MDMA後因為體温過高及脫水而死亡的案例\[9\]。MDMA是（SNDRA），也是[5-羟色胺、去甲肾上腺素和多巴胺再摄取抑制剂](../Page/5-羟色胺、去甲肾上腺素和多巴胺再摄取抑制剂.md "wikilink")（SNDRI），對大腦中的[神经递质](../Page/神经递质.md "wikilink")[血清素](../Page/血清素.md "wikilink")、[多巴胺](../Page/多巴胺.md "wikilink")及[去甲肾上腺素](../Page/去甲肾上腺素.md "wikilink")有釋放作用，也有再摄取抑制的作用，是[兴奋剂](../Page/兴奋剂.md "wikilink")也是[致幻效果](../Page/迷幻药物.md "wikilink")\[10\]\[11\]。攝取MDMA後，一開始會讓神经递质的濃度上昇，之後會有短期的濃度下降\[12\]\[13\]。MDMA屬於藥物，也是藥物。
 
@@ -107,67 +107,43 @@ MDMA的生產一般僅使用相對較少的[黃樟油](https://zh.wikipedia.org/
 [Category:精神药物](https://zh.wikipedia.org/wiki/Category:精神药物 "wikilink") [Category:苯乙胺类](https://zh.wikipedia.org/wiki/Category:苯乙胺类 "wikilink") [Category:缩醛](https://zh.wikipedia.org/wiki/Category:缩醛 "wikilink") [Category:德国发明](https://zh.wikipedia.org/wiki/Category:德国发明 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
 8.
 9.
 10.
-
 11.
-
 12.
 13.
-
 14.
 15.
 16.
 17.
-
 18.
-
 19.
 20.
 21.
-
 22.
 23.
 24.
-
 25.
 26.
-
 27.
-
 28.
-
 29.
 30.
-
 31.
-
 32.
-
 33. [美國認可搖頭丸中MDMA具高度醫療潛力，可望撫平退伍軍人戰場創傷](https://www.thenewslens.com/article/79654) 2017.9.27 關鍵評論
-
 34.
-
 35.
 36.
-
 37.
-
 38.
-
 39. Reductive aminations of carbonyl compounds with borohydride and borane reducing agents. Baxter, Ellen W.; Reitz, Allen B. *Organic Reactions*（Hoboken, New Jersey, United States）（2002）, 59.
-
 40.
-
 41. [Nov 2005 DEA Microgram newsletter, p. 166](http://www.justice.gov/dea/pr/micrograms/2005/mg1105.pdf) . Usdoj.gov (11 November 2005). Retrieved on 12 August 2013.

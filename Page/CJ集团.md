@@ -24,9 +24,9 @@ CJ E\&M致力成为亚洲No.1传媒集团，旗下共拥有18个有线频道，�
 
 2017年1月8日，首要媒体为CJ Wow Shop设立中文版本，为马来西亚华裔提供另一个电视购物频道，但不提供部分马来商品，并在之后纳入以中文节目为主的八度空间里，其他电视台如TV3、NTV7、TV9和Tonton网站则继续播出马来文版本。
 
-2018年，首要媒体和CJ WOW SHOP决定开全购物频道，并在数码电视Freeview和MY TV播出。
+2017年，首要媒体和CJ WOW SHOP决定开全购物频道，并在数码电视myFreeview和MYTV Broadcasting播出。
 
-2018年12月30日，首要媒体在NTV7再次为CJ WOW SHOP设立中文版本，而NTV7马来文版本的联播正式取消。
+2018年12月31日，首要媒体在NTV7再次为CJ WOW SHOP设立中文版本，而NTV7马来文版本的联播正式取消。
 
 ## 關連企業
 
@@ -38,7 +38,7 @@ CJ E\&M致力成为亚洲No.1传媒集团，旗下共拥有18个有线频道，�
   -
   - [CJ-CGV](https://zh.wikipedia.org/wiki/CJ-CGV "wikilink")
 
-  - [Mnet媒體](../Page/Mnet媒體.md "wikilink")
+  - [Stone Music Entertainment](../Page/Stone_Music_Entertainment.md "wikilink")
 
   - [早安世界](https://zh.wikipedia.org/wiki/早安世界 "wikilink")
 

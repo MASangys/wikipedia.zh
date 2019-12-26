@@ -32,7 +32,7 @@
 
 数据链路层（Data Link Layer）負責網絡尋址、錯誤偵測和改錯。當表頭和表尾被加至數據包時，會形成幀。數據鏈表頭（DLH）是包含了實體位址和錯誤偵測及改錯的方法。數據鏈表尾（DLT）是一串指示數據包末端的字符串。例如乙太網、無線局域网（Wi-Fi）和通用分組無線服務（GPRS）等。
 
-分为两个子层：逻辑链路控制（logical link control，LLC）子层和介质访问控制（Medium access control，MAC）子层。
+分为两个子层：逻辑链路控制（logical link control，LLC）子层和介质访问控制（Media access control，MAC）子层。
 
 ### 第1層 實體層
 

@@ -189,9 +189,9 @@ VBScript主要的优点有：
 
 ### 不能为变量定义类型
 
-在VB中，为变量定义类型使用Dim变量名As类型
+在VB中，为变量定义类型使用“Dim 变量名 As 类型”的语句格式。
 
-但是在VBScript中这样写是错误的，VBScript中的变量都是弱类型（即Variant变体），因此它不需要指定其类型。-{只}-能使用Dim变量名，[解释器会自动根据](https://zh.wikipedia.org/wiki/解释器 "wikilink")[赋值的类型定义变量类型](https://zh.wikipedia.org/wiki/赋值 "wikilink")。
+但是在VBScript中这样写是错误的，VBScript中的变量都是弱类型（即Variant变体），因此它不需要指定类型。-{只}-能使用“Dim 变量名”的格式，[解释器会自动根据](https://zh.wikipedia.org/wiki/解释器 "wikilink")[赋值的类型定义变量类型](https://zh.wikipedia.org/wiki/赋值 "wikilink")。
 
 ### 不能使用条件编译
 
@@ -201,7 +201,7 @@ VBScript主要的优点有：
 
 ## 安全性
 
-微软决定Outlook和[Outlook Express中的HTML邮件可以使用VBScript后出现了许多利用Windows](../Page/Outlook_Express.md "wikilink") Script Host和[ActiveX](../Page/ActiveX.md "wikilink")的功能的[电脑病毒](https://zh.wikipedia.org/wiki/电脑病毒 "wikilink")。这些病毒之所以能够传播开来也是因为一开始这些系统功能完全未受保护。虽然VBScript和JavaScript使用同样的使用操作系统的功能的安全措施，今天呼唤这些功能被看作不符合标准。
+微软决定Outlook和[Outlook Express中的HTML邮件可以使用VBScript后出现了许多利用Windows](../Page/Outlook_Express.md "wikilink") Script Host和[ActiveX](../Page/ActiveX.md "wikilink")的功能的[电脑病毒](https://zh.wikipedia.org/wiki/电脑病毒 "wikilink")。这些病毒之所以能够传播开来也是因为一开始这些系统功能完全未受保护。虽然VBScript和JavaScript使用同样的使用操作系统的功能的安全措施，今天这些功能被看作不符合标准。
 
 一般很难保护VBScript的程序码不被用户看到。
 

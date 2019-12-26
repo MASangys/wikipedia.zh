@@ -86,13 +86,13 @@
 
 ## 评价
 
-《最终幻想VIII》获得媒体积极评价以及商业成功。游戏是日本和英国的畅销游戏\[102\]\[103\]，北美版也在发售两日后登上美国最畅销电子游戏週榜首位，并占据此位超过3周\[104\]。游戏在发售13周后收入5,000万美元\[105\]\[106\]，标志其成为當時销售最快的最终幻想作品\[107\]。游戏在日本发售前4天约售出250万套\[108\]。游戏在1999年底时全球销量超过600万\[109\]。在2003年3月31日时本作的全球累計出货量達815万份，其中日本370万，日本以外445万\[110\]。2008年游戏开场获得《[Game Informer](../Page/Game_Informer.md "wikilink")》“十大电子游戏开场”的第2名\[111\]，并登上2002年[IGN](../Page/IGN.md "wikilink")类似榜单的首位\[112\]，IGN还称游戏结尾在全部PlayStation游戏中排第3位\[113\]。2007年[GameSpy](../Page/GameSpy.md "wikilink")将其列为最佳电子游戏影片的15位\[114\]。2009年[UGO.com则節選本作的部份橋段將之選入FF系列中最深刻的片段之一](https://zh.wikipedia.org/wiki/UGO.com "wikilink")\[115\]。《最终幻想VIII》位列日本杂志《[Fami通](../Page/Fami通.md "wikilink")》2006年读者票选史上最佳电子游戏第22名\[116\]；2008年[Gamasutra将游戏收录在](https://zh.wikipedia.org/wiki/Gamasutra "wikilink")20个必玩日式角色扮演游戏名单中，称“《最终幻想VIII》有大量做错了的，但更多的是它做对了的”\[117\]。截至2009年9月，PS版本的全球出貨量已超過860萬份\[118\]。
+《最终幻想VIII》获得媒体积极评价以及商业成功。游戏是日本和英国的畅销游戏\[102\]\[103\]，北美版也在发售两日后登上美国最畅销电子游戏週榜首位，并占据此位超过3周\[104\]。游戏在发售13周后收入5,000万美元\[105\]\[106\]，标志其成为當時销售最快的最终幻想作品\[107\]。游戏在日本发售前4天约售出250万套\[108\]。游戏在1999年底时全球销量超过600万\[109\]。在2003年3月31日时本作的全球累計出货量達815万份，其中日本370万，日本以外445万\[110\]。2008年游戏开场获得《[Game Informer](../Page/Game_Informer.md "wikilink")》“十大电子游戏开场”的第2名\[111\]，并登上2002年[IGN](../Page/IGN.md "wikilink")类似榜单的首位\[112\]，IGN还称游戏结尾在全部PlayStation游戏中排第3位\[113\]。2007年[GameSpy](../Page/GameSpy.md "wikilink")将其列为最佳电子游戏影片的15位\[114\]。2009年[UGO.com则節選本作的部份橋段將之選入FF系列中最深刻的片段之一](https://zh.wikipedia.org/wiki/UGO.com "wikilink")\[115\]。《最终幻想VIII》位列日本杂志《[Fami通](../Page/Fami通.md "wikilink")》2006年读者票选史上最佳电子游戏第22名\[116\]；2008年[Gamasutra将游戏收录在](https://zh.wikipedia.org/wiki/Gamasutra "wikilink")20个必玩日式角色扮演游戏名单中，称“《最终幻想VIII》有大量做错了的，但更多的是它做对了的”\[117\]。截至2009年9月，PS版本的全球出貨量已超過860萬份\[118\]。截至2019年8月，不包含之後將上市的Remastered版本之統計，本作全球銷量已超過960萬份\[119\]。
 
-游戏系统获得的评价褒贬不一。IGN认为游戏最薄弱的部份：召唤兽的攻击场面“非常有电影艺术性”却太冗长\[119\]，《[电子游戏月刊](../Page/电子游戏月刊.md "wikilink")》同样持此观点\[120\]。他们还认为战斗系统非常复杂，但有著革新性，能讓“RPG狂热者为之沉迷”\[121\]。《[美国官方PlayStation杂志](https://zh.wikipedia.org/wiki/美国官方PlayStation杂志 "wikilink")》称，可反复的魔法存储让结合系统成为游戏主要缺点\[122\]，电子游戏杂志《[Edge](https://zh.wikipedia.org/wiki/Edge_\(雜誌\) "wikilink")》称，战斗系统由若干“使人眼花缭乱的”复杂精细选项和“大多数玩家会饶有趣味”的技术组成\[123\]。[GameSpot](../Page/GameSpot.md "wikilink")称赞游戏系统道，使用结合系统“角色的发展性极为广阔”\[124\]。
+游戏系统获得的评价褒贬不一。IGN认为游戏最薄弱的部份：召唤兽的攻击场面“非常有电影艺术性”却太冗长\[120\]，《[电子游戏月刊](../Page/电子游戏月刊.md "wikilink")》同样持此观点\[121\]。他们还认为战斗系统非常复杂，但有著革新性，能讓“RPG狂热者为之沉迷”\[122\]。《[美国官方PlayStation杂志](https://zh.wikipedia.org/wiki/美国官方PlayStation杂志 "wikilink")》称，可反复的魔法存储让结合系统成为游戏主要缺点\[123\]，电子游戏杂志《[Edge](https://zh.wikipedia.org/wiki/Edge_\(雜誌\) "wikilink")》称，战斗系统由若干“使人眼花缭乱的”复杂精细选项和“大多数玩家会饶有趣味”的技术组成\[124\]。[GameSpot](../Page/GameSpot.md "wikilink")称赞游戏系统道，使用结合系统“角色的发展性极为广阔”\[125\]。
 
-总体上，《最终幻想VIII》在系列作中算是毫不逊色。虽然Game Revolution批評游戏角色没有配音，但称赞了游戏的剧情和结局\[125\]。《Edge》称《最终幻想VIII》是比《最终幻想VII》更为完善的游戏，但另一方面认为游戏拉長让故事不能“提供持续有力的敘事与支线情节”。杂志亦认为某些情节转折“没有适当处理与准备”，导致“很难對這部分情節有所共鳴”。《Edge》总体认为《最终幻想VIII》“又一個Final Fantasy系列的傑作”，总结称其“美術表現上令人惊讶，很难不引人注目，同时视界和演出近乎绝伦”\[126\]。《电子游戏月刊》的评论类似，称游戏角色发展“是所有RPG中最棒的”，而“《最终幻想VIII》位于同类游戏的顶峰”\[127\]。UGO.com称，系列中還没有其他游戏像《最终幻想VIII》那样已引起争议，《最终幻想VIII》是“大胆、创新的游戏”\[128\]。IGN在2002年将游戏列为史上最佳PlayStation作品的第7名，位列《最终幻想VII》上方，IGN称《最终幻想VIII》“自前作FF7的基礎上又有了提升”\[129\]。
+总体上，《最终幻想VIII》在系列作中算是毫不逊色。虽然Game Revolution批評游戏角色没有配音，但称赞了游戏的剧情和结局\[126\]。《Edge》称《最终幻想VIII》是比《最终幻想VII》更为完善的游戏，但另一方面认为游戏拉長让故事不能“提供持续有力的敘事与支线情节”。杂志亦认为某些情节转折“没有适当处理与准备”，导致“很难對這部分情節有所共鳴”。《Edge》总体认为《最终幻想VIII》“又一個Final Fantasy系列的傑作”，总结称其“美術表現上令人惊讶，很难不引人注目，同时视界和演出近乎绝伦”\[127\]。《电子游戏月刊》的评论类似，称游戏角色发展“是所有RPG中最棒的”，而“《最终幻想VIII》位于同类游戏的顶峰”\[128\]。UGO.com称，系列中還没有其他游戏像《最终幻想VIII》那样已引起争议，《最终幻想VIII》是“大胆、创新的游戏”\[129\]。IGN在2002年将游戏列为史上最佳PlayStation作品的第7名，位列《最终幻想VII》上方，IGN称《最终幻想VIII》“自前作FF7的基礎上又有了提升”\[130\]。
 
-PC移植版获得评价褒贬不一。《[Maximum PC](https://zh.wikipedia.org/wiki/Maximum_PC "wikilink")》称赞全动态影像过场“惊人”，还称他们不但逐渐开始习惯游戏系统，亦喜欢系統强调的团队协作，此外游戏视觉呈现也提升了吸引力\[130\]。GameSpy称虽然《最终幻想VIII》和前作相比没有“巨大的飞跃”，但其游戏性和圖像表現相對有利，不过游戏在电脑上预渲染背景显得效果模糊，而且键盘偶尔操作困难\[131\]\[132\]。GameSpot批评游戏没有利用当时电脑的性能优势，称PlayStation版在视效和音效上都更胜一筹，并建议对于PC版，并非值得的采购選擇\[133\]。 UGO.com还称移植版是原版副本的次品，其呈现反过来有碍对整体游戏评价\[134\]。《[电脑游戏世界](https://zh.wikipedia.org/wiki/电脑游戏世界 "wikilink")》称赞移植版在原版上做出的某些变化，并加入了小游戏三三合会，但却严厉批评移植版“偷懒”且“令人失望”，称它只是在突出原版游戏的缺陷\[135\]。他们虽然表示不满，仍却将游戏列为2000年第20佳游戏\[136\]。
+PC移植版获得评价褒贬不一。《[Maximum PC](https://zh.wikipedia.org/wiki/Maximum_PC "wikilink")》称赞全动态影像过场“惊人”，还称他们不但逐渐开始习惯游戏系统，亦喜欢系統强调的团队协作，此外游戏视觉呈现也提升了吸引力\[131\]。GameSpy称虽然《最终幻想VIII》和前作相比没有“巨大的飞跃”，但其游戏性和圖像表現相對有利，不过游戏在电脑上预渲染背景显得效果模糊，而且键盘偶尔操作困难\[132\]\[133\]。GameSpot批评游戏没有利用当时电脑的性能优势，称PlayStation版在视效和音效上都更胜一筹，并建议对于PC版，并非值得的采购選擇\[134\]。 UGO.com还称移植版是原版副本的次品，其呈现反过来有碍对整体游戏评价\[135\]。《[电脑游戏世界](https://zh.wikipedia.org/wiki/电脑游戏世界 "wikilink")》称赞移植版在原版上做出的某些变化，并加入了小游戏三三合会，但却严厉批评移植版“偷懒”且“令人失望”，称它只是在突出原版游戏的缺陷\[136\]。他们虽然表示不满，仍却将游戏列为2000年第20佳游戏\[137\]。
 
 ## 参考文献
 
@@ -105,111 +105,68 @@ PC移植版获得评价褒贬不一。《[Maximum PC](https://zh.wikipedia.org/w
 [Category:最终幻想VIII](https://zh.wikipedia.org/wiki/Category:最终幻想VIII "wikilink") [Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink") [Category:1999年电子游戏](https://zh.wikipedia.org/wiki/Category:1999年电子游戏 "wikilink") [Category:Eidos游戏](https://zh.wikipedia.org/wiki/Category:Eidos游戏 "wikilink") [Category:PlayStation_Network游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Network游戏 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:时间旅行游戏](https://zh.wikipedia.org/wiki/Category:时间旅行游戏 "wikilink") [Category:科学奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:科学奇幻电子游戏 "wikilink") [Category:女性反派电子游戏](https://zh.wikipedia.org/wiki/Category:女性反派电子游戏 "wikilink") [Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink")
 
 1.  <http://store.jp.square-enix.com/item/SEDL_1021.html>
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
-
 11.
 12.
 13.
-
 14.
-
 15.
-
 16.
 17.
-
 18. \<FINAL FANTASY VIII 公式設定集，1999年3月31日 /2004年6月1日 DigiCube出版 第42頁 \>
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
 25.
-
 26.
 27.
-
 28.
 29.
-
 30.
-
 31.
-
 32.
 33.
-
 34.
-
 35.
-
 36.
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
 49.
-
 50.
-
 51.
 52.
-
 53.
 54.
-
 55.
 56.
 57.
 58.
 59.
 60.
-
 61.
 62.
-
 63.
-
 64.
 65.
 66.
@@ -217,124 +174,70 @@ PC移植版获得评价褒贬不一。《[Maximum PC](https://zh.wikipedia.org/w
 68.
 69.
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
 77.
-
 78.
-
 79.
-
 80. [Final Fantasy VIII Coming February 4th | TheSixthAxis - PlayStation PS3, PS Vita, Xbox 360 And Nintendo News, Reviews, Previews And Opinion](http://www.thesixthaxis.com/2010/01/21/final-fantasy-viii-coming-february-4th/)
-
 81.
-
 82.
-
 83.
-
 84. Maeda, Yoshitake (1999). *Final Fantasy VIII Original Soundtrack (Limited Edition)*. [DigiCube](../Page/DigiCube.md "wikilink").
-
 85.
 86.
-
 87.
-
 88.
-
 89.
-
 90.
-
 91.
-
 92.
 93.
-
 94.
-
 95.
-
 96.
-
 97.
-
 98.
-
 99.
-
 100.
-
 101.
-
 102. Dengeki Playstation sales chart, May 1999, published in [Official UK PlayStation Magazine](https://zh.wikipedia.org/wiki/Official_UK_PlayStation_Magazine "wikilink") issue 45
-
 103. UK Playstation sales chart, Christmas 1999, published in [Official UK PlayStation Magazine](https://zh.wikipedia.org/wiki/Official_UK_PlayStation_Magazine "wikilink") issue 53
-
 104.
-
 105.
-
 106.
-
 107.
-
 108.
-
 109.
-
 110.
-
 111.
-
 112.
 113.
 114.
-
 115.
-
 116.
-
 117.
-
 118.
-
-119.
-
+119. <https://www.jp.square-enix.com/company/ja/news/2019/html/e299a2cb98037818e29211870039c964.html>
 120.
-
 121.
 122.
-
 123.
-
 124.
-
 125.
-
 126.
 127.
 128.
 129.
 130.
-
 131.
-
 132.
-
 133.
 134.
-
 135.
-
 136.
+137.

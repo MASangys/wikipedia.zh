@@ -1,4 +1,4 @@
-**Notepad++**是[自由軟體的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[純文字編輯器](../Page/文本编辑器.md "wikilink")，由[侯今吾](../Page/侯今吾.md "wikilink")基于同是[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[Scintilla文本编辑组件並獨力研發](https://zh.wikipedia.org/wiki/Scintilla文本编辑组件 "wikilink")，整个项目起初托管于[SourceForge.net之上](https://zh.wikipedia.org/wiki/SourceForge.net "wikilink")，截止到2011年，已被下載超過2700萬次\[1\]\[2\]，并两度获得SourceForge社群選擇獎——最佳開發工具\[3\]。2010年6月托管于TuxFamily，现由GitHub托管。
+**Notepad++**是[自由軟體的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[純文字編輯器](../Page/文本编辑器.md "wikilink")，由侯今吾基于同是[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[Scintilla文本编辑组件並獨力研發](https://zh.wikipedia.org/wiki/Scintilla文本编辑组件 "wikilink")，整个项目起初托管于[SourceForge.net之上](https://zh.wikipedia.org/wiki/SourceForge.net "wikilink")，截止到2011年，已被下載超過2700萬次\[1\]\[2\]，并两度获得SourceForge社群選擇獎——最佳開發工具\[3\]。2010年6月托管于TuxFamily，现由GitHub托管。
 
 該軟體以[GPL發佈](https://zh.wikipedia.org/wiki/GPL "wikilink")，有完整的[中文化介面及支援多國](https://zh.wikipedia.org/wiki/中文 "wikilink")[語言](../Page/語言.md "wikilink")撰寫的功能（採用[UTF-8](../Page/UTF-8.md "wikilink")编码）。它的功能比[Windows中的](https://zh.wikipedia.org/wiki/Windows "wikilink")[記事本](../Page/記事本.md "wikilink")（Notepad）強大，除了可以用來製作一般的純文字的說明文件，也十分適合用作撰寫[電腦程式的編輯器](https://zh.wikipedia.org/wiki/電腦程式 "wikilink")。由6.2.3版本起，Notepad++的文件預設文字格式由ANSI改為除去[BOM的UTF](../Page/位元組順序記號.md "wikilink")8（UTF8 without BOM）。Notepad++不僅有[語法高亮度顯示](https://zh.wikipedia.org/wiki/語法高亮度顯示 "wikilink")，也有[語法摺疊](../Page/語法摺疊.md "wikilink")功能，並且支援[巨集](../Page/巨集.md "wikilink")以及擴充基本功能的[外掛模組](https://zh.wikipedia.org/wiki/外掛模組 "wikilink")。
 
@@ -34,18 +34,17 @@
 
 ### 2008年奧運風波
 
-2008年，Notepad++在主页上發起「抵制奥运」為抗議[中國政府在](https://zh.wikipedia.org/wiki/中國政府 "wikilink")[西藏的鎮壓行動](https://zh.wikipedia.org/wiki/西藏 "wikilink")\[4\]，。
+2008年，Notepad++在主页上發起「抵制奥运」，抗議[中國政府在](https://zh.wikipedia.org/wiki/中國政府 "wikilink")[西藏的鎮壓行動](https://zh.wikipedia.org/wiki/西藏 "wikilink")\[4\]。托管了Notepad++的软件开发平台[SourceForge](../Page/SourceForge.md "wikilink")随后遭到屏蔽。\[5\]
 
 ### 2015年我是查理
 
-Notepad++ 6.7.4于查理周刊总部枪击案之後的2015年1月7日发布，安裝後首次開啟時會出現下列內容：
+Notepad++ 6.7.4版本于查理周刊总部枪击案之後的2015年1月7日发布，安裝後首次開啟時會出現下列內容：  随即软件官网遭到黑客组织Fallaga的攻击。\[6\]
 
-    Freedom of expression is like the air we breathe, we don't feel it, until people take it away from us.
+### 2019年支持中國维吾尔族
 
-    For this reason, Je suis Charlie, not because I endorse everything they published, but because I cherish the right to speak out freely without risk even when it offends others.
-    And no, you cannot just take someone's life for whatever he/she expressed.
+2019年10月29日，在 Notepad++ 7.8.1 版本的发行通告中，该版本被命名为“Free Uyghur Edition”。作者稱據信有數十萬維吾爾族人在新疆再教育營中受到“政治灌輸和折磨”，認爲維吾爾族人“在血統上與中國人沒有連結，僅是居住在中國境内”，并指稱“中國政府沒有保障維吾爾族的自治”。作者呼籲“采取行動幫助維吾爾族人”從而施壓中國政府使其停止對維吾爾族人的“迫害和罪行”。\[7\]
 
-    Hence this "Je suis Charlie" edition.
+此後，許多来自中国大陆的用户在Notepad++的Github存储库的问题跟踪页（Issue）發表大量言論表達反對立場與不滿情緒，認爲作者的偏信偏頗致其言論不符合事實，不認同其政治表態。據稱，Notepad++官网遭到了[DDOS攻击](https://zh.wikipedia.org/wiki/DDOS "wikilink")，后转到[Cloudflare节点得以恢复访问](https://zh.wikipedia.org/wiki/Cloudflare "wikilink")。\[8\]\[9\]
 
 ## 參見
 
@@ -65,3 +64,8 @@ Notepad++ 6.7.4于查理周刊总部枪击案之後的2015年1月7日发布，�
 2.
 3.
 4.
+5.
+6.
+7.
+8.
+9.

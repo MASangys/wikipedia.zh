@@ -138,34 +138,6 @@
 
 \(e\)的已知位数\[1\]\[2\]
 
-## 高精度计算\(e\)程序（C++）
-
-``` C++
-#include <iostream>
-
-using namespace std;
-
-int main(void) {
-    long N, a, b, i, j = 0, k = 0;
-    cout << "输入e的位数（不超过100000）：\n", cin >> N, N += 5;
-    long *e = new long[N], *c = new long[N];
-    while (++j < N)
-        e[j] = c[j] = 0;
-    for (*c = i = 1; k < N; i++) {
-        while (!c[k])
-            k++;
-        for (b = 0, j = k - 1; ++j < N; b = a % i)
-            e[j] += (c[j] = (a = b * 10 + c[j]) / i);
-    }
-    for (; --j; e[j] %= 10)
-        e[j - 1] += e[j] / 10;
-    for (cout << "2."; ++j < N - 5;)
-        cout << e[j];
-    delete[] e, delete[] c;
-    return 0;
-}
-```
-
 ## 諧取
 
   - 在[Google](../Page/Google.md "wikilink")2004年的[首次公開募股](https://zh.wikipedia.org/wiki/首次公開募股 "wikilink")，集資額不是通常的整頭數，而是$2,718,281,828，這當然是取最接近整數的\(e\)十億[美元](../Page/美元.md "wikilink")。（顺便一提，Google2005年的一次公開募股中，集資額是$14,159,265，与[圆周率有关](https://zh.wikipedia.org/wiki/圆周率 "wikilink")）

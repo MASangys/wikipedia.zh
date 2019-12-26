@@ -28,9 +28,9 @@
 
 在2007年6月，Animax Mobile正式於澳洲[3 Mobile推出](../Page/3_\(電訊\).md "wikilink")3G行動電話手機頻道。
 
-2007年8月1日，香港[無綫收費電視因業務理由停止播放Animax](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")，使香港播放Animax的有線電視系統商數目減至三個。Animax於[無綫收費電視停播前所使用的頻道為第](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")50頻道。隨後於2009年4月1日，Animax連同[AXN](../Page/AXN.md "wikilink")、[beTV及](https://zh.wikipedia.org/wiki/beTV "wikilink")[索尼台等由索尼娛樂亞洲經營的頻道重新於](../Page/Sony_Channel_\(亞洲\).md "wikilink")[無綫收費電視播放](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")，但使用的頻道則改至第24/224頻道。2013年頻道重編之後改為第33頻道，直至2016年7月1日，加盟TVB OTT平台[myTV SUPER](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink"),編號為第504頻道。
+2007年8月1日，香港[無綫收費電視因業務理由停止播放Animax](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")，使香港播放Animax的有線電視系統商數目減至三個。Animax於[無綫收費電視停播前所使用的頻道為第](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")50頻道。隨後於2009年4月1日，Animax連同[AXN](../Page/AXN.md "wikilink")、[beTV及](https://zh.wikipedia.org/wiki/beTV "wikilink")[索尼台等由索尼娛樂亞洲經營的頻道重新於](../Page/Sony_Channel_\(亞洲\).md "wikilink")[無綫收費電視播放](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")，但使用的頻道則改至第24頻道。2013年頻道重編之後改為第33頻道，直至2016年7月1日，加盟TVB OTT平台[myTV SUPER](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink"),編號為第504頻道。
 
-2014年4月1日，[香港寬頻bbTV](../Page/香港寬頻bbTV.md "wikilink")停止播放Animax，使香港播放Animax的有線電視系統商數目減至三個，後因[myTV SUPER啟播變](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink") 回4個。
+2014年4月1日，[香港寬頻bbTV](../Page/香港寬頻bbTV.md "wikilink")停止播放Animax，使香港播放Animax的有線電視系統商數目減至三個，後因[myTV SUPER啟播變回](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")4個, 後因隨著無綫網絡電視停止服務而再度變回3個。
 
 2015年1月20日，台灣[中華電信MOD](../Page/中華電信MOD.md "wikilink")開台[AnimaxHD](http://mod.cht.com.tw/channel/channelinfo.php?chid=132)高畫質頻道，採用1080i視訊格式播放，為[Animax Asia於亞太地區第一個高畫質頻道](../Page/Animax_Asia.md "wikilink")。
 
@@ -47,6 +47,8 @@
 另外，Animax原本預定2008年1月於[波蘭開播](https://zh.wikipedia.org/wiki/波蘭 "wikilink")，同其姊妹頻道AXN由[HBO](../Page/HBO.md "wikilink") Poland代理，不過一再延宕而胎死腹中。2013年10月25日，以[隨選視訊](../Page/隨選視訊.md "wikilink")方式在[英國播放](https://zh.wikipedia.org/wiki/英國 "wikilink")。
 
 ，僅存德國和英國的Animax仍在運作。捷克、匈牙利、羅馬尼亞、斯洛伐克則已改納入AXN旗下。
+
+2016年7月1日，Animax德国频道停播。
 
 ### 非洲
 

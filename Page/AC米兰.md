@@ -1063,11 +1063,11 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <tr class="even">
 <td><p><strong>39</strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/:en:Lucas_Paquetá" title="wikilink">-{zh-hans:帕克塔 ;zh-hk:柏基達;zh-tw:帕克塔;}-</a>（Lucas Paquetá）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:en:Lucas_Paquetá" title="wikilink">-{zh-hans:柏基達 ;zh-hk:柏基達;zh-tw:柏基達;}-</a>（Lucas Paquetá）</p></td>
 <td><p>中場</p></td>
 <td></td>
 <td><p>2019年</p></td>
-<td><p><a href="../Page/法林明高競賽會.md" title="wikilink">-{zh:法林明高;zh-hans:弗拉门戈;zh-hk:法林明高;zh-tw:佛朗明哥;}-</a></p></td>
+<td><p><a href="../Page/法林明高競賽會.md" title="wikilink">-{zh:法林明高;zh-hans:法林明高;zh-hk:法林明高;zh-tw:法林明高;}-</a></p></td>
 <td><p>3,500萬歐元</p></td>
 </tr>
 <tr class="odd">
@@ -1917,7 +1917,13 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p>(<em>Marco Giampaolo</em>)</p></td>
 <td><p><br />
 </p></td>
-<td><p>2019–现任</p></td>
+<td><p>2019</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/斯蒂法諾·皮奧利" title="wikilink">斯蒂法諾·皮奧利</a>（<em>Stefano Pioli</em>）</p></td>
+<td></td>
+<td><p>2019–</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1998,7 +2004,7 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Coppacoppe.png" title="fig:Coppacoppe.png">Coppacoppe.png</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/File:Coppa_delle_Coppe.svg" title="fig:Coppa_delle_Coppe.svg">Coppa_delle_Coppe.svg</a><br />
 <a href="https://zh.wikipedia.org/wiki/欧洲优胜者杯" title="wikilink">-{zh-hans:欧洲优胜者杯; zh-hk:歐洲盃賽冠軍盃;zh-tw:歐洲優勝者杯;}-冠軍</a> (<em>2</em>次)</p></td>
 <td><p>1967-68年 <em>2-0</em> 胜 <strong><a href="../Page/汉堡体育俱乐部.md" title="wikilink">汉堡</a></strong><br />
 1972-73年 <em>1-0</em> 胜 <strong><a href="https://zh.wikipedia.org/wiki/利兹联足球俱乐部" title="wikilink">利兹联</a></strong></p></td>
@@ -2391,32 +2397,18 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 [Category:AC米蘭](https://zh.wikipedia.org/wiki/Category:AC米蘭 "wikilink") [Category:意大利足球俱樂部](https://zh.wikipedia.org/wiki/Category:意大利足球俱樂部 "wikilink") [Category:1899年建立的足球俱樂部](https://zh.wikipedia.org/wiki/Category:1899年建立的足球俱樂部 "wikilink")
 
 1.  [Football Top 20" 2010](http://www.sportundmarkt.com/fileadmin/Mailing/PK_Football_Top_20_2010/20100909_SPORT_MARKT_Football_Top_20_2010_Abstract_Press.pdf)
-
 2.  [AC米兰国际冠军一览：名副其实欧洲之王](http://sports.163.com/07/1216/16/3VRLR1VS00051C9U.html) 网易体育（2007年12月16日）
-
 3.  [The Rossoneri club chief claims he is being cautious and that he will pursue an "all-Italian" team if the Thai investor ends up being ignored](http://www.goal.com/en/news/10/italy/2015/05/10/11587572/berlusconi-warns-mr-bee-milan-wont-be-sold-to-popularity)
-
 4.  [Mr Bee: 'I only wanted Milan' By Football Italia staff](http://www.football-italia.net/67414/mr-bee-i-only-wanted-milan)
-
 5.  [Thai businessman Bee Taechaubol buys 48% stake in AC Milan](http://www.sportskeeda.com/football/thai-businessman-bee-taechaubol-buys-48-percent-stake-ac-milan)
-
 6.  Rossoneri 意思是「紅黑」，AC米兰的綽號，在香港注册的大陸公司「羅森內里體育投資有限公司(Rossoneri Sport Investment Co., Ltd.)」是盧森堡Rossoneri Sport Investment的母公司
-
 7.  [官方！AC米兰股权转让完成 中国人正式入主](http://sports.sina.com.cn/g/seriea/2017-04-13/doc-ifyeimqc3399693.shtml).新浪体育.2017-04-13.\[2017-04-13\].
-
 8.  [Berlusconi sells AC Milan takeover completed following protracted saga at the San Siro](http://www.goal.com/en-sg/news/3881/italy/2017/04/13/34573852/breaking-news-ac-milan-takeover-completed-following?ICID=SP).Goal.2017-04-13.\[2017-04-13\].
-
 9.
-
 10.
 11. <http://www.channel4.com/sport/football_italia/may25p.html>
-
 12. <http://english.people.com.cn/200510/07/eng20051007_212984.html>
-
 13. <http://www.goal.com/en/Articolo.aspx?ContenutoId=170378>
-
 14.
-
 15. [Emirates and AC Milan Score New Sponsorship Deal](http://www.emirates.com/media-centre/emirates-and-ac-milan-score-new-sponsorship-deal#)
-
 16.

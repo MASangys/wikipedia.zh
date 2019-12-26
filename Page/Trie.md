@@ -16,7 +16,7 @@ trie树常用于搜索提示。如当输入一个网址，可以自动搜索出�
 
 ## 实现方式
 
-trie树实际上是一个[DFA](../Page/确定有限状态自动机.md "wikilink")，通常用[转移矩阵表示](https://zh.wikipedia.org/wiki/转移矩阵 "wikilink")。行表示状态，列表示输入字符，（行，列）位置表示转移状态。这种方式的查询效率很高，但由于稀疏的现象严重，空间利用效率很低。也可以采用压缩的存储方式即链表来表示状态转移，但由于要线性查询，会造成效率低下。
+trie树实际上是一个[确定有限状态自动机](../Page/确定有限状态自动机.md "wikilink")(DFA)，通常用[转移矩阵表示](https://zh.wikipedia.org/wiki/转移矩阵 "wikilink")。行表示状态，列表示输入字符，（行，列）位置表示转移状态。这种方式的查询效率很高，但由于稀疏的现象严重，空间利用效率很低。也可以采用压缩的存储方式即链表来表示状态转移，但由于要线性查询，会造成效率低下。
 
 于是人们提出了下面两种结构。\[7\]
 
@@ -164,13 +164,9 @@ main (void)
 [Category:数据结构](https://zh.wikipedia.org/wiki/Category:数据结构 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
-
 7.  [An Implementation of Double-Array Trie](http://linux.thai.net/~thep/datrie/datrie.html)

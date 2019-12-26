@@ -1,6 +1,6 @@
 '''Wolfram Mathematica '''（简称：Mathematica）是一款科学计算软件，有时候也被称为计算机代数系统，广泛使用于科学、工程、数学、计算等领域。
 
-它是由[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[科学家](https://zh.wikipedia.org/wiki/科学家 "wikilink")[斯蒂芬·沃尔夫勒姆提出构想](https://zh.wikipedia.org/wiki/斯蒂芬·沃尔夫勒姆 "wikilink")，并且由他所领导的[沃尔夫勒姆研究公司](../Page/沃尔夫勒姆研究公司.md "wikilink")（位于美国伊利诺伊州香槟市）开发的一款广泛使用的科学计算软件\[1\]\[2\]。它拥有强大的数值计算和符号运算能力，是目前为止使用最广泛的[数学软件之一](https://zh.wikipedia.org/wiki/数学软件 "wikilink")。
+它是由[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[科学家](../Page/科学家.md "wikilink")[斯蒂芬·沃尔夫勒姆提出构想](https://zh.wikipedia.org/wiki/斯蒂芬·沃尔夫勒姆 "wikilink")，并且由他所领导的[沃尔夫勒姆研究公司](../Page/沃尔夫勒姆研究公司.md "wikilink")（位于美国伊利诺伊州香槟市）开发的一款广泛使用的科学计算软件\[1\]\[2\]。它拥有强大的数值计算和符号运算能力，是目前为止使用最广泛的[数学软件之一](https://zh.wikipedia.org/wiki/数学软件 "wikilink")。
 
 [Wolfram 语言是用于Mathematica的编程语言](../Page/Wolfram语言.md "wikilink")\[3\]。
 
@@ -193,157 +193,86 @@ Mathematica囊括了大量可立即计算的数据。用户可以通过编程访
 [Category:1988年软件](https://zh.wikipedia.org/wiki/Category:1988年软件 "wikilink") [Category:天文数据库](https://zh.wikipedia.org/wiki/Category:天文数据库 "wikilink") [Category:计算笔记本](https://zh.wikipedia.org/wiki/Category:计算笔记本 "wikilink") [Category:Linux计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:Linux计算机代数系统软件 "wikilink") [Category:MacOS计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:MacOS计算机代数系统软件 "wikilink") [Category:Windows计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:Windows计算机代数系统软件 "wikilink") [Category:计算机代数系统](https://zh.wikipedia.org/wiki/Category:计算机代数系统 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:数据挖掘和机器学习软件](https://zh.wikipedia.org/wiki/Category:数据挖掘和机器学习软件 "wikilink") [Category:地球科学图形软件](https://zh.wikipedia.org/wiki/Category:地球科学图形软件 "wikilink") [Category:计量经济学软件](https://zh.wikipedia.org/wiki/Category:计量经济学软件 "wikilink") [Category:公式编辑器](https://zh.wikipedia.org/wiki/Category:公式编辑器 "wikilink") [Category:動態幾何軟體](https://zh.wikipedia.org/wiki/Category:動態幾何軟體 "wikilink") [Category:數學最佳化軟體](https://zh.wikipedia.org/wiki/Category:數學最佳化軟體 "wikilink") [Category:数学软件](https://zh.wikipedia.org/wiki/Category:数学软件 "wikilink") [Category:Linux數值分析軟件](https://zh.wikipedia.org/wiki/Category:Linux數值分析軟件 "wikilink") [Category:MacOS數值分析軟件](https://zh.wikipedia.org/wiki/Category:MacOS數值分析軟件 "wikilink") [Category:Windows數值分析軟件](https://zh.wikipedia.org/wiki/Category:Windows數值分析軟件 "wikilink") [Category:數值分析語言](https://zh.wikipedia.org/wiki/Category:數值分析語言 "wikilink") [Category:數值軟體](https://zh.wikipedia.org/wiki/Category:數值軟體 "wikilink") [Category:物理软件](https://zh.wikipedia.org/wiki/Category:物理软件 "wikilink") [Category:圆周率相关软件](https://zh.wikipedia.org/wiki/Category:圆周率相关软件 "wikilink") [Category:圖表軟件](https://zh.wikipedia.org/wiki/Category:圖表軟件 "wikilink") [Category:Linux专有商业软件](https://zh.wikipedia.org/wiki/Category:Linux专有商业软件 "wikilink") [Category:专有跨平台软件](https://zh.wikipedia.org/wiki/Category:专有跨平台软件 "wikilink") [Category:回归和曲线拟合软件](https://zh.wikipedia.org/wiki/Category:回归和曲线拟合软件 "wikilink") [Category:模拟编程语言](https://zh.wikipedia.org/wiki/Category:模拟编程语言 "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink") [Category:统计编程语言](https://zh.wikipedia.org/wiki/Category:统计编程语言 "wikilink") [Category:定理证明软件系统](https://zh.wikipedia.org/wiki/Category:定理证明软件系统 "wikilink") [Category:时间序列软件](https://zh.wikipedia.org/wiki/Category:时间序列软件 "wikilink") [Category:沃尔夫勒姆研究公司](https://zh.wikipedia.org/wiki/Category:沃尔夫勒姆研究公司 "wikilink")
 
 1.  [Stephen Wolfram: Simple Solutions; The iconoclastic physicist's Mathematica software nails complex puzzles](http://www.businessweek.com/magazine/content/05_40/b3953024.htm), BusinessWeek, October 3, 2005.
-
 2.
-
 3.  [Slate's article Stephen Wolfram's New Programming Language: He Can Make The World Computable, March 6, 2014. Retrieved on 2014-05-14.](http://www.slate.com/articles/technology/bitwise/2014/03/stephen_wolfram_s_new_programming_language_can_he_make_the_world_computable.html)
-
 4.  [Mathematica documentation](http://reference.wolfram.com)
-
 5.  [Review: Mathematica 7. Technical computing powerhouse gets more oomph](http://www.macworld.com/article/138219/mathematica_7.html) Macworld, Jan 2009
-
 6.  [Mathematica 6 Labs Review](http://www.cadalyst.com/general-software/mathematica-6-cadalyst-labs-review-6299) Cadalyst Feb 1, 2008
-
 7.  [The Free-Form Linguistics Revolution in Mathematica](http://blog.wolfram.com/2010/11/15/the-free-form-linguistics-revolution-in-mathematica/)
-
 8.  [Patent US8407580](http://www.google.co.uk/patents/US8407580) Google Patent Search
-
 9.  [MacWorld review of Wolfram Workbench](http://www.macworld.com/news/2006/06/21/workbench/index.php)
-
 10. [Using a Text-Based Interface](http://reference.wolfram.com/mathematica/tutorial/UsingATextBasedInterface.html) documentation at wolfram.com
-
 11.
-
 12. [The 21st annual Editors' Choice Awards](http://www.accessmylibrary.com/coms2/summary_0286-12336000_ITM)，Macworld, February 1, 2006.
-
 13. [gridMathematica offers parallel computing solution](http://www.macworld.com/news/2002/11/20/mathematica/index.php) by Dennis Sellers, MacWorld, November 20, 2002.
-
 14. [Mathematica Player Pro - new Application Delivery System for Mathematica](http://www.gizmag.com/mathematica-player-pro-new-application-delivery-system-for-mathematica/9096/) www.gizmag.com
-
 15. [New Mathematica: faster, leaner, linkable and QuickTime-compatible: MathLink kit allows ties to other apps. (Wolfram Research Inc. ships Mathematica 2.1, new QuickTime-compatible version of Mathematica software)](http://www.accessmylibrary.com/coms2/summary_0286-9256461_ITM) by Daniel Todd, MacWeek, June 15, 1992.
-
 16. [.NET/Link](http://www.wolfram.com/solutions/mathlink/netlink/): .NET/Link is a toolkit that integrates Mathematica and the Microsoft .NET Framework.
-
 17.
-
 18. [Mathematica 5.1 Available](http://www.databasejournal.com/news/article.php/3453911)，Database Journal, Jan 3, 2005.
-
 19. [Mathematical Web Services: W3C Note 1 August 2003](http://www.w3.org/Math/Documents/Notes/services.xml)
-
 20. [Introduction to Web Services](http://reference.wolfram.com/mathematica/WebServices/tutorial/Introduction.html)，Mathematica Web Services Tutorial
-
 21. [Haskell pakages](http://hackage.haskell.org/package/mathlink)
-
 22.
-
 23. [MrMathematica website](http://www.cs.utah.edu/~czhu/SchemeLink/mrmma.html)
-
 24. [Mathematica for ActivX](http://library.wolfram.com/infocenter/TechNotes/4710/)
-
 25. [Pythonika MathLink module for Python](http://dkbza.org/pythonika.html)
-
 26. [1](http://clojuratica.weebly.com/)
-
 27. [CalcLink](http://www.lauschkeconsulting.com/calclink.html)  Lauschke Consulting
-
 28. [2](http://www.wolfram.com/products/applications/excel_link/) Mathematica Link for Excel
-
 29. [Mathsource item \#618 for calling MATLAB from Mathematica](http://library.wolfram.com/infocenter/MathSource/618/) Roger Germundsson from [Wolfram Research](https://zh.wikipedia.org/wiki/Wolfram_Research "wikilink")
-
 30. [R-Link](http://www.scienceops.com/Rlink2.asp)  Calling [R](../Page/R.md "wikilink") from within Mathematica
-
 31. [Using [R](../Page/R.md "wikilink")'s functionality with Mathematica](http://library.wolfram.com/infocenter/Conferences/6510/) Wolfram Technology Conference in 2006
-
 32.  Calling Sage from Mathematica
-
 33. <http://facstaff.unca.edu/mcmcclur/Mathematica/Sage/UsingSage.nb> A Mathematica notebook to call Sage from Mathematica.
-
 34. [3](http://www.risc.uni-linz.ac.at/people/mkauers/publications/kauers06m.pdf) Manuel Kauers and Viktor Levandovskyy of the Johannes Kepler University in Austria
-
 35. [\* Interface Links Origin And Mathematica Software](http://electronicdesign.com/Articles/ArticleID/1323/1323.html)  Electronic Design
-
 36. [Mathematica Link to Labview](http://www.bettervi.com/mlink/index.html) BetterView Consulting
-
 37. [DDFLink](http://www.lauschkeconsulting.com/ddfplus.html)  Lauschke Consulting
-
 38. [GITM](https://zh.wikipedia.org/wiki/:sourceforge:projects/gitm/ "wikilink") SourceForge
-
 39. [BTopTools](http://www.wolfram.com/news/btoptools.html) A commercial interface to USB devices
-
 40. [Interfacing Hardware with Mathematica](http://library.wolfram.com/infocenter/MathSource/6380/)
-
 41. [JMath website](http://robotics.caltech.edu/~radford/jmath/)
-
 42. [MASH website](http://ai.eecs.umich.edu/people/dreeves/mash/)
-
 43.
-
 44. [Math, the universe, and Stephen: the author of Mathematica created a whirlwind of scientific controversy this year when, after more than 10 years of research, he published his treatise on the ability of simple structures to create unpredictable complex patterns. (2002 Scientist Of The Year).(Stephen Wolfram)](http://www.accessmylibrary.com/coms2/summary_0286-11287695_ITM) by Tim Studt, R\&D, November 1 , 2002.
-
 45. [A Top Scientist's Latest: Math Software](http://query.nytimes.com/gst/fullpage.html?res=940DE5DA173AF937A15755C0A96E948260) by Andrew Pollack, *The New York Times*，June 24, 19988.
-
 46. [Quick Revision History of Mathematica](http://www.wolfram.com/products/mathematica/quickrevisionhistory.html)
-
 47.
-
 48. <http://www.mathematica-journal.com/issue/v9i1/news.html> Mathematica Journal, Volume 9, Issue 1
-
 49. [Supercomputer Pictures Solve the Once Insoluble](http://query.nytimes.com/gst/fullpage.html?res=940DE6DB133EF933A05753C1A96E948260)，John Markoff, October 30, 1988.
-
 50. [4](http://12000.org/my_notes/compare_mathematica/index.htm)，Nasser M. Abbasi.
-
 51. Mathematica 1.1. Biotechnology Software. Vogel, W. K.（1989）
-
 52.
 53. [Mathematica 1.2 adds new graphics options: upgrade also promises concurrent operations](http://www.accessmylibrary.com/coms2/summary_0286-9205258_ITM) by Elinor Craig, *MacWeek*，July 25, 1989.
-
 54.
 55. [Mathematica + 283 functions = Mathematica 2.0](http://www.accessmylibrary.com/coms2/summary_0286-9227849_ITM) by Raines Cohen, *MacWeek*，January 15, 1991.
-
 56.
 57.
 58.
 59. [New version of Mathematica](http://www.highbeam.com/doc/1G1-13185601.html) ，*Mechanical Engineering*，June 1, 1993.
-
 60. [5](http://www.wolfram.com/news/archive/#1996)，Wolfram news archive, 1996.
-
 61.
 62. [Mathematica 4.0](http://www.highbeam.com/doc/1G1-61370961.html)  by Charles Seiters, *Macworld*，October 1, 1999.
-
 63.
 64.
 65.
 66. [Mathematica 5.0 Adds Up: Exactly 15 years after Mathematica's initial release, Wolfram Research has released Mathematica](http://www.mywire.com/pubs/PCMagazine/2003/09/02/420220?extID=10051)，*PC Magazine*，September 3, 2003.
-
 67.
 68. [Mathematica 5.1's Web Services Add Up; Mathematica 5.1 delivers improvements over Version 5.0 that are vastly out of proportion for a .1 upgrade.](http://moreresults.factiva.com/results/index/index.aspx?ref=PCW0000020050115e0c60001i) by Peter Coffee, *eWeek*，December 6, 2004.
-
 69.
 70. [Mathematica hits 64-bit](http://www.macworld.co.uk/news/index.cfm?NewsID=12069&Page=1&pagePos=6)，*MacWorld* UK, July 13, 2005.
-
 71. [6](http://blog.wolfram.com/2007/05/) Today, Mathematica is reinvented - Blog by Stephen Wolfram
-
 72. [Mathematica 6: Felix Grant finds that version 6 of Wolfram Research's symbolic mathematical software really does live up to its expectations.](http://www.scientific-computing.com/products/review_details.php?review_id=17) Scientific Computing, 2007.
-
 73. \[<http://blog.wolfram.com/?year=2007&monthnum=07&name=mathematica-601-arrives>.\]，Wolfram Blog, 2007.
-
 74. [7](http://www.wolfram.com/products/mathematica/quickrevisionhistory.html)，Mathematica Quick Revision History.
-
 75.
 76. [8](http://blog.wolfram.com/2008/11/)，Mathematica 7.0 Released Today\! - Blog by Stephen Wolfram
-
 77. [9](http://forums.wolfram.com/mathgroup/archive/2009/Mar/msg00118.html)，Announcing Mathematica 7.0.1.
-
 78. <http://company.wolfram.com/news/2015/mathematica-10-1-is-now-available/>
-
 79. <http://www.wolfram.com/mathematica/quick-revision-history.html>
-
 80. <http://blog.wolfram.com/2017/03/16/the-rd-pipeline-continues-launching-version-11-1/>
-
 81. <https://www.wolfram.com/mathematica/quick-revision-history.html>
-
 82. <http://blog.wolfram.com/2017/09/14/its-another-impressive-release-launching-version-11-2-today/>
-
 83. <http://blog.wolfram.com/2018/03/08/roaring-into-2018-with-another-big-release-launching-version-11-3-of-the-wolfram-language-mathematica/>
-
 84. <https://blog.stephenwolfram.com/2019/04/version-12-launches-today-big-jump-for-wolfram-language-and-mathematica/?source=frontpage-stripe>

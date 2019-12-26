@@ -8,7 +8,7 @@
 
 ## 歷史
 
-[WikiWiki.jpg](https://zh.wikipedia.org/wiki/File:WikiWiki.jpg "fig:WikiWiki.jpg")的Wiki Wiki站牌\]\] Wiki軟體由[软件设计模式社群開發](https://zh.wikipedia.org/wiki/软件设计模式 "wikilink")，用來書寫與討論模式語言。[沃德·坎宁安](../Page/沃德·坎宁安.md "wikilink")於1995年3月25日成立了第一個Wiki網站：[WikiWikiWeb](https://zh.wikipedia.org/wiki/WikiWikiWeb "wikilink")，用來補充他自己經營的软件设计模式網站。他發明了Wiki這個名字以及相關概念，並且實作了第一個[Wiki引擎](https://zh.wikipedia.org/wiki/Wiki引擎 "wikilink")。坎宁安說自己是根據[檀香山](../Page/檀香山.md "wikilink")的Weekee Weekee（意為「快點快點」）公車取名的。這是他到檀香山學會的第一個[夏威夷語句子](https://zh.wikipedia.org/wiki/夏威夷語 "wikilink")。
+[WikiWiki.jpg](https://zh.wikipedia.org/wiki/File:WikiWiki.jpg "fig:WikiWiki.jpg")的Wiki Wiki站牌\]\] Wiki軟體由[软件设计模式社群開發](https://zh.wikipedia.org/wiki/软件设计模式 "wikilink")，用來書寫與討論模式語言。[沃德·坎宁安](../Page/沃德·坎宁安.md "wikilink")於1995年3月25日成立了第一個Wiki網站：，用來補充他自己經營的软件设计模式網站。他發明了Wiki這個名字以及相關概念，並且實作了第一個[Wiki引擎](https://zh.wikipedia.org/wiki/Wiki引擎 "wikilink")。坎宁安說自己是根據[檀香山](../Page/檀香山.md "wikilink")的Weekee Weekee（意為「快點快點」）公車取名的。這是他到檀香山學會的第一個[夏威夷語句子](https://zh.wikipedia.org/wiki/夏威夷語 "wikilink")。
 
 坎宁安說，Wiki的構想來自他自己在1980年代晚期利用[蘋果電腦](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[HyperCard](../Page/HyperCard.md "wikilink")程式作出的一個小功能\[5\]。HyperCard類似[名片](../Page/名片.md "wikilink")整理程式，可用來紀錄人物與相關事物。HyperCard管理許多稱為「卡片」的資料，每張卡片上都可劃分欄位、加上圖片、有樣式的文字或按鈕等等，而且這些內容都可在查閱卡片的同時修改編輯。HyperCard類似於後來的網頁，但是缺乏一些重要特徵。
 
@@ -121,26 +121,15 @@ Wiki提供至少一个[标题搜索](https://zh.wikipedia.org/wiki/标题搜索 
 [Category:Wiki](https://zh.wikipedia.org/wiki/Category:Wiki "wikilink") [Category:網站](https://zh.wikipedia.org/wiki/Category:網站 "wikilink") [Category:网络文化](https://zh.wikipedia.org/wiki/Category:网络文化 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:超文字](https://zh.wikipedia.org/wiki/Category:超文字 "wikilink")
 
 1.  Ward Cunningham, The Wiki way: quick collaboration on the Web, Year of Publication: 2001 ISBN 0-201-71499-X
-
 2.  陈立华、徐建初，Wiki:网络时代协同工作与知识共享的平台，中国信息导报，2005 No.1 P.51-54
-
 3.  Ward Cunningham, [Correspondence on the Etymology of Wiki](http://c2.com/doc/etymology.html) , November, 2003
-
 4.
 5.  [Wiki Wiki Hyper Card](http://c2.com/cgi/wiki?WikiWikiHyperCard) ，last edited August 18, 2006
-
 6.  [Wiki History](http://c2.com/cgi/wiki?WikiHistory) ，last edited February 18, 2007
-
 7.  胡科、王荣良，基于Web2.0的Wiki技术应用研究，中国电化教育，2006年 09期
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.

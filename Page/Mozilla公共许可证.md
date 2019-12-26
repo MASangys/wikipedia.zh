@@ -67,61 +67,38 @@ MPL第二版與Apache許可證\[26\]以及GPL第二版或更新、LGPL2.1版或�
 [Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink") [Category:版权](https://zh.wikipedia.org/wiki/Category:版权 "wikilink") [Category:自由軟體授權](https://zh.wikipedia.org/wiki/Category:自由軟體授權 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  <http://standardsandfreedom.net/index.php/2013/01/24/the-meaning-of-the-4-0/>
-
 7.  <https://www.libreoffice.org/download/license/>
-
 8.
-
 9.
 10.
 11.
 12.
-
 13.
 14.
 15.
-
 16.
-
 17.
-
 18.
-
 19.
 20.
-
 21.
 22.
-
 23.
 24.
 25.
 26.
 27.
 28.
-
 29.
-
 30. [CePL, version 1.3](http://www.celtx.com/CePL/)
-
 31.
-
 32.
-
 33.
-
 34. [gSOAP Public License](http://www.cs.fsu.edu/~engelen/license.html)
-
 35.
-
 36.

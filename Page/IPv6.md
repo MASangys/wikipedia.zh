@@ -28,7 +28,7 @@ IPv6具有比IPv4大得多的编码地址空間。這是因為IPv6採用128位�
 
 IPv6從IPv4到IPv6最顯著的變化就是網絡地址的長度。RFC 2373和RFC 2374定義的IPv6地址有128位長；IPv6地址的表達形式一般採用32個十六進制數。
 
-在很多場合，IPv6地址由兩個邏輯部分組成：一個64位的網絡前綴和一個64位的主機地址，主機地址通常根據物理地址自動生成，叫做EUI-64（或者64-位擴展唯一標識）
+在很多場合，IPv6地址由兩個邏輯部分組成：一個64位的網絡前綴和一個64位的主機地址，主機地址通常根據物理地址自動生成，叫做EUI-64（或者64-位擴展唯一標識）。
 
 ## IPv6格式
 
@@ -75,7 +75,7 @@ IPv6位址可分為三種：\[8\]
   - 單播（unicast）位址
     單播位址標示一個網路介面。协议會把送往位址的封包送往給其介面。IPv6的單播位址可以有一個代表特殊位址名字的範疇，如链路本地位址（link local address）和唯一區域位址（ULA，unique local address）。單播地址包括可聚類的全球單播地址、鏈路本地地址等。
   - 任播（anycast）位址
-    Anycast是IPv6特有的資料傳送方式，它像是IPv4的Unicast（單點傳播）與Broadcast（多點廣播）的綜合。IPv4支援單點傳播和多點廣播，單點廣播在來源和目的地間直接進行通訊；多點廣播存在於單一來源和多個目的地進行通訊。
+    任播像是Unicast（單點傳播）與Broadcast（多點廣播）的綜合。單點廣播在來源和目的地間直接進行通訊；多點廣播存在於單一來源和多個目的地進行通訊。
     而Anycast則在以上兩者之間，它像多點廣播（Broadcast）一樣，會有一組接收節點的位址列表，但指定為Anycast的封包，只會傳送給距離最近或傳送成本最低（根據路由表來判斷）的其中一個接收位址，當該接收位址收到封包並進行回應，且加入後續的傳輸。該接收列表的其他節點，會知道某個節點位址已經回應了，它們就不再加入後續的傳輸作業。
     以目前的應用為例，Anycast位址只能分配給中间设备（如路由器、三层交换机等），不能分配给终端设备（手机、电脑等），而且不能作為發送端的位址。
   - 多播（multicast）位址
@@ -340,7 +340,7 @@ IP協議號碼的41號用來標示將IPv6資料訊框直接裝入IPv4封包。IP
 18.
 19. RFC 3056: Connection of IPv6 Domains via IPv4 Clouds
 20. RFC 4380: Teredo: Tunneling IPv6 over UDP through Network Address Translations (NATs)
-21. [The Windows Vista Developer Story: Application Compatibility Cookbook](http://msdn2.microsoft.com/en-us/library/aa480152.aspx)
+21.
 22. RFC 4214: Intra-Site Automatic Tunnel Addressing Protocol (ISATAP)
 23. RFC 3053: IPv6 Tunnel Broker
 24.

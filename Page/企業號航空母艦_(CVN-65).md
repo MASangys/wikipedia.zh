@@ -74,7 +74,7 @@
 
 [US_Task_Force_77_carriers_aerial_photo_c1973.jpeg](https://zh.wikipedia.org/wiki/File:US_Task_Force_77_carriers_aerial_photo_c1973.jpeg "fig:US_Task_Force_77_carriers_aerial_photo_c1973.jpeg")（右方）、[星座號](../Page/星座號航空母艦.md "wikilink")（上方）及[薩拉托加號](https://zh.wikipedia.org/wiki/薩拉托加號航空母艦_\(CV-60\) "wikilink")。企業號在1965年由大西洋調到太平洋艦隊，以強化美國於越戰的空中打擊力量。由於企業號的機動力遠較其他航母優勝，又可搭載艾塞克斯級無法使用的A-6全天候攻擊機，特別適合於天氣時常惡劣的越南作戰。然而相片拍攝時美國已即將與北越停火，企業號的飛機轉為到老撾及柬埔寨執勤。\]\]
 
-1969年1月6日，企業號前往珍珠港訓練演習。14日早上8時19分，企業號正在夏威夷外海預備派出飛機之際，艦艉一架F-4戰鬥機掛載的四支[蘇尼火箭遇熱爆炸](https://zh.wikipedia.org/wiki/蘇尼火箭 "wikilink")，旋即點燃該架F-4的航空燃料，引發大火。1分鐘後，大火引爆F-4另一邊機翼的三支蘇尼火箭，炸穿飛行甲板，使火勢蔓延至下層甲板。不久六枚[Mk 82 500磅炸彈接連爆炸](../Page/Mk_80系列炸彈.md "wikilink")，進一步加劇火勢。大火在三小時後方告撲滅，艦上一共有28人死亡，344人受傷，17架飛機受損，而另外15架飛機則報銷。\[72\]次日企業號旋即進入珍珠港船塢維修，直到3月4日才告完工。11日企業號啟程前往西太平洋，在31日開始在洋基站外海執勤。\[73\]\[74\]
+1969年1月6日，企業號前往珍珠港訓練演習。14日早上8時19分，企業號正在夏威夷外海預備派出飛機之際，艦艉一架F-4戰鬥機掛載的四支[蘇尼火箭遇熱爆炸](../Page/祖尼火箭.md "wikilink")，旋即點燃該架F-4的航空燃料，引發大火。1分鐘後，大火引爆F-4另一邊機翼的三支蘇尼火箭，炸穿飛行甲板，使火勢蔓延至下層甲板。不久六枚[Mk 82 500磅炸彈接連爆炸](../Page/Mk_80系列炸彈.md "wikilink")，進一步加劇火勢。大火在三小時後方告撲滅，艦上一共有28人死亡，344人受傷，17架飛機受損，而另外15架飛機則報銷。\[72\]次日企業號旋即進入珍珠港船塢維修，直到3月4日才告完工。11日企業號啟程前往西太平洋，在31日開始在洋基站外海執勤。\[73\]\[74\]
 
 此時美國艦隊主要派飛機到到南越及柬埔寨執勤，偶爾亦派飛機到北越各地偵察。4月15日，北韓[擊落美軍一架EC-121偵察機](https://zh.wikipedia.org/wiki/EC-121擊落事件 "wikilink")，造成31名美軍死亡，朝鮮半島局勢又再緊張，美國隨即派艦隊到北韓海面示威。16日企業號離開越南，並在黃海與提康德羅加號、[大黃蜂號及遊騎兵號會合](../Page/大黃蜂號航空母艦_\(CV-12\).md "wikilink")，作警戒巡邏。事件逐步降溫後，企業號先後到訪蘇比克灣及新加坡，在5月31日才回到洋基站執勤。由於新任總統[尼克遜推行越南化政策](https://zh.wikipedia.org/wiki/李察·尼克遜 "wikilink")，美軍正逐步淡出戰爭，海軍只派飛機攻擊胡志明小道，間中亦攻擊非軍事區附近的北越補給點，並可以在指定情況下向北越防空炮還火攻擊。6月18日企業號啟程返國，在7月2日返抵阿拉米達。接著企業號繞道合恩角，在8月12日進入東岸的紐波特紐斯船塢維修，並更換核燃料。\[75\]\[76\]
 
@@ -287,49 +287,35 @@
 [Category:美國海軍航空母艦](https://zh.wikipedia.org/wiki/Category:美國海軍航空母艦 "wikilink") [Category:核動力航空母艦](https://zh.wikipedia.org/wiki/Category:核動力航空母艦 "wikilink") [Category:美国军事的世界之最](https://zh.wikipedia.org/wiki/Category:美国军事的世界之最 "wikilink") [Category:1960年竣工的船只](https://zh.wikipedia.org/wiki/Category:1960年竣工的船只 "wikilink") [Category:1960年下水](https://zh.wikipedia.org/wiki/Category:1960年下水 "wikilink") [Category:航空母舰火灾](https://zh.wikipedia.org/wiki/Category:航空母舰火灾 "wikilink")
 
 1.  [企業號1958年至1963年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1958-63.pdf)
-
 2.
 3.
 4.  [1962年至1966年服役年表](http://www.history.navy.mil/shiphist/e/cvn-65/1962-66.pdf企業號)
-
 5.  [BBC：古巴導彈危機－封鎖](http://www.bbc.co.uk/dna/h2g2/A563852)
-
 6.
 7.  [企業號1962年後部署](http://www.gonavy.jp/CV-CVN65f.html)
-
 8.
 9.  [企業號1963年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1963.pdf)
-
 10.
 11. [企業號1964年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1964.pdf)
-
 12. 見越南空戰年表：1965年。
-
 13. [企業號1965年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1965.pdf)
-
 14.
 15. 企業號越戰巡航、在線及戰損紀錄。
-
 16.
 17.
-
 18.
 19.
 20.
 21. [企業號1966年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1966.pdf)
-
 22. 見越南空戰年表：1966年。
-
 23.
 24.
 25.
 26.
 27.
-
 28.
 29.
 30.
-
 31.
 32.
 33.
@@ -338,18 +324,12 @@
 36.
 37.
 38.
-
 39. [企業號1967年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1967.pdf)
-
 40.
 41.
-
 42. 見越南空戰年表：1967年。
-
 43.
-
 44.
-
 45.
 46.
 47.
@@ -361,123 +341,74 @@
 53.
 54.
 55. [1968 in Japan: the student movement and workers' struggles](http://en.internationalism.org/2008/09/japan-1968)
-
 56. [企業號1968年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1968.pdf)
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
 62.
 63.
 64.
 65.
 66.
-
 67.
-
 68.
 69.
 70.
 71.
 72. [The USS ENTERPRISE (CVAN-65) fire and munition explosions](http://www.insensitivemunitions.org/history/the-uss-enterprise-cvan-65-fire-and-munition-explosions/)
-
 73.
 74.
 75.
 76.
 77.
-
 78. [企業號1971年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1971.pdf)
-
 79.
 80. 見越南空戰年表：1972年。
-
 81. [企業號1972年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1972.pdf)
-
 82. [企業號1973年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1973.pdf)
-
 83. [企業號1974年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1974.pdf)
-
 84. [企業號1975年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1975.pdf)
-
 85. 見越南空戰年表：1975年。
-
 86.
 87.
 88.
 89. [企業號1976年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1976.pdf)
-
 90. [企業號1977年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1977.pdf)
-
 91. [企業號1978年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1978.pdf)
-
 92. [企業號1979服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1979.pdf)，[企業號1980服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1980.pdf)
-
 93.
-
 94. [企業號1982年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1982.pdf)，[企業號1983服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1983.pdf)
-
 95. [企業號1984年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1984.pdf)
-
 96. [企業號1985年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1985.pdf)
-
 97. [企業號1986年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1986.pdf)
-
 98.
-
 99. [企業號1987年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1987.pdf)
-
 100. [企業號1988年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1988.pdf)
-
 101. [企業號1989年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1989.pdf)，[企業號1990年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1990.pdf)
-
 102. [企業號1991年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1991.pdf)
-
 103. [企業號1994年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1994.pdf)
-
 104. [企業號1996年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1996.pdf)
-
 105. [企業號1997年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1997.pdf)
-
 106. [企業號1998年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1998.pdf)，[企業號1999年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1999.pdf)
-
 107. [企業號2001年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/2001.pdf)
-
 108.
 109. [小布殊於企業號演說全文](http://www.freerepublic.com/focus/fr/585968/posts)
-
 110. [企業號2003年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/2003.pdf)，[企業號2004年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/2004.pdf)
-
 111. [企業號1998年後航行紀錄](http://www.gonavy.jp/CVLocation65.html)
-
 112.
 113. [House and Senate Armed Services Committees agree FY 2010 Navy shipbuilding authorization](http://www.defpro.com/news/details/10424)
-
-114. ["USS Enterprise: After Spending 2 Years in Newport News, Enterprise Returned to Navy"](http://articles.dailypress.com/2010-04-20/news/dp-local_enterprise_0420apr20_1_uss-enterprise-first-nuclear-powered-carrier-aircraft-carrier)
-
+114.
 115.
 116. [企業號2011年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/2011.pdf)
-
 117.
 118.
 119. [USS Enterprise Official Web Page](http://www.public.navy.mil/airfor/enterprise/Documents/Enterprise/inactivation.html)
-
 120. [USS Enterprise: The Beginning of the End for the “Big E”](http://www.defenseindustrydaily.com/USS-Enterprise-The-Beginning-of-the-End-for-the-Big-E-05157)
-
 121. [Big E preps for final combat deployment](http://www.navytimes.com/news/2010/09/navy-enterprise-prepares-last-combat-deployment-092010w)
-
 122. [Enterprise and Nimitz-class carriers won't be museums- Daily Press, 2012-12-22](http://articles.dailypress.com/2012-10-22/business/dp-nws-enterprise-museum-20121021_1_aircraft-carrier-nuclear-reactors-nimitz-class-carriers)
-
 123. [Navy's Next Ford-Class Aircraft Carrier to be Named Enterprise](http://www.defense.gov//releases/release.aspx?releaseid=15708)
-
 124. [Enterprise Makes Final Trip to Newport News Shipyard - United States Navy News, 2013-06-20](http://www.navy.mil/submit/display.asp?story_id=74946)，[USS Enterprise Public Affairs FAQ](http://www.public.navy.mil/airfor/enterprise/Documents/Enterprise/faqs.html)
-
 125. [Navy Decommissions "The Big E"](http://www.navy.mil/submit/display.asp?story_id=98707)，[Navy to give final farewell to aircraft carrier USS Enterprise](http://pilotonline.com/news/military/local/navy-to-give-final-farewell-to-aircraft-carrier-uss-enterprise/article_7e3e201c-8c2c-5c5b-b474-b4718cd0bdd4.html)，[World’s first nuclear powered aircraft carrier officially decommissioned](http://wtkr.com/2017/02/03/worlds-first-nuclear-powered-aircraft-carrier-uss-enterprise-officially-decommissioned/)
-
 126. [Navsea:Enterprise (cvn-65)](http://www.navsea.navy.mil/teamships/Inactiveships/Historic/pdf/ENTERPRISE_CVN65_FINAL_DOE11Jul2012.pdf)、[Together We Served](http://navy.togetherweserved.com/usn/servlet/tws.webapp.WebApp?cmd=PublicUnitProfile&type=Unit&ID=375)、[Chief of Naval Operations official website for Navy awards](https://awards.navy.mil)

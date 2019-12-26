@@ -10,12 +10,6 @@ ALSA是一个完全[开放源代码](../Page/开放源代码.md "wikilink")的�
 
 ## 参考文献
 
-<div class="references-small">
-
-<references />
-
-</div>
-
 ## 外部链接
 
   - [ALSA官方网站](http://www.alsa-project.org/)

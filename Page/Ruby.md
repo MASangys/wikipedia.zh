@@ -362,7 +362,7 @@ Chris(16)
 
 ## 各種版本
 
-[JRuby](../Page/JRuby.md "wikilink")，類似[Python](../Page/Python.md "wikilink")的[Jython](../Page/Jython.md "wikilink")，一個可於[Java](../Page/Java.md "wikilink")上執行Ruby的語言，支援Java的介面和類別。最新發布版爲9.1.6.0（2016-11-09），與Ruby 2.3兼容。它的官方網站為[jruby.org](http://jruby.org/)。
+[JRuby](../Page/JRuby.md "wikilink")，類似[Python](../Page/Python.md "wikilink")的[Jython](../Page/Jython.md "wikilink")，一個可於[Java](../Page/Java.md "wikilink")上執行Ruby的語言，支援Java的介面和類別。最新發布版爲9.1.6.0（2016-11-09），與Ruby 2.3兼容。它的官方網站為[jruby.org](https://web.archive.org/web/20110208071026/http://jruby.org/)。
 
 ## 參見
 

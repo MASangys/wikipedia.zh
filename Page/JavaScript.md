@@ -1,6 +1,6 @@
 （通常缩写为**JS**）是一种[高级的](https://zh.wikipedia.org/wiki/高级语言 "wikilink")、[-{zh-hans:解释型;zh-hant:直譯}-的](https://zh.wikipedia.org/wiki/直譯語言 "wikilink")[编程语言](../Page/编程语言.md "wikilink")\[1\]。JavaScript是一门基于原型、函数先行的语言\[2\]，是一门多范式的语言，它支持[面向对象编程](../Page/面向对象程序设计.md "wikilink")，[命令式编程](https://zh.wikipedia.org/wiki/命令式编程语言 "wikilink")，以及[函数式编程](https://zh.wikipedia.org/wiki/函数式编程语言 "wikilink")。它提供语法来操控文本、[数组](../Page/数组.md "wikilink")、日期以及[正则表达式](../Page/正则表达式.md "wikilink")等，不支持[I/O](https://zh.wikipedia.org/wiki/I/O "wikilink")，比如网络、存储和图形等，但这些都可以由它的宿主环境提供支持。它已经由ECMA（欧洲电脑制造商协会）通过[ECMAScript](../Page/ECMAScript.md "wikilink")实现语言的标准化\[3\]。它被世界上的绝大多数网站所使用，也被世界主流[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink")（[Chrome](../Page/Google_Chrome.md "wikilink")、[IE](../Page/Internet_Explorer.md "wikilink")、[Firefox](../Page/Firefox.md "wikilink")、[Safari](../Page/Safari.md "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")）支持。
 
-虽然JavaScript与[Java](../Page/Java.md "wikilink")这门语言不管是在名字上，或是在语法上都有很多相似性，但这两门编程语言从设计之初就有很大的不同，JavaScript的语言设计主要受到了[Self](../Page/Self.md "wikilink")（一种基于原型的编程语言）和[Scheme](../Page/Scheme.md "wikilink")（一门函数式编程语言）的影响\[4\]。在语法结构上它又与[C语言有很多相似](https://zh.wikipedia.org/wiki/C语言 "wikilink")（例如if条件语句、while循环、switch语句、do-while循环等）\[5\]。
+虽然JavaScript与[Java](../Page/Java.md "wikilink")这门语言不管是在名字上，或是在语法上都有很多相似性，但这两门编程语言从设计之初就有很大的不同，JavaScript的语言设计主要受到了[Self](../Page/Self.md "wikilink")（一种基于原型的编程语言）和[Scheme](../Page/Scheme.md "wikilink")（一门函数式编程语言）的影响\[4\]。在语法结构上它又与[C语言有很多相似](https://zh.wikipedia.org/wiki/C语言 "wikilink")（例如if条件语句、switch语句、while循环、do-while循环等）\[5\]。
 
 在客户端，JavaScript在传统意义上被实现为一种解释语言，但在最近，它已经可以被[即时编译](../Page/即時編譯.md "wikilink")（JIT）执行。随着最新的[HTML5](../Page/HTML5.md "wikilink")和[CSS3语言标准的推行它还可用于游戏](https://zh.wikipedia.org/wiki/CSS3 "wikilink")、桌面和移动应用程序的开发和在服务器端网络环境运行，如[Node.js](../Page/Node.js.md "wikilink")。
 
@@ -14,7 +14,7 @@
 
 最初命名為**Mocha**，1995年9月在Netscape Navigator 2.0的Beta版中改名為**LiveScript**，同年12月，Netscape Navigator 2.0 Beta 3中部署時被重新命名為**JavaScript**\[9\]\[10\]，當時网景公司与昇阳电脑公司组成的开发联盟为了让这门语言搭上Java这个编程语言“热词”，因此将其临时改名为JavaScript，日后这成为大众对这门语言有诸多误解的原因之一\[11\]。
 
-### 微軟採用
+### 微軟採納
 
 JavaScript推出后在浏览器上大获成功，[微软](../Page/微软.md "wikilink")公司在不久后就为[Internet Explorer 3浏览器推出了](../Page/Internet_Explorer_3.md "wikilink")[JScript](../Page/JScript.md "wikilink")，以与处于市场领导地位的网景产品同台竞争。JScript也是一种JavaScript实现，这两个JavaScript语言版本在浏览器端共存意味着语言标准化的缺失，发展初期，JavaScript的标准并未确定，同期有网景的JavaScript，微软的JScript雙峰並峙。除此之外，微軟也在網頁技術上加入了不少專屬物件，使不少網頁使用非微軟平台及瀏覽器無法正常顯示\[12\]\[13\]，導致在[瀏覽器大戰期間網頁設計者通常會把](https://zh.wikipedia.org/wiki/瀏覽器大戰 "wikilink")「用Netscape可達到最佳效果」或「用IE可達到最佳效果」的標誌放在首頁\[14\]。隨著[Internet Explorer 4的發布](../Page/Internet_Explorer_4.md "wikilink")，微軟引入了[動態HTML](../Page/動態HTML.md "wikilink")的概念，但語言實現和不同專有化的[文件物件模型的差異仍然存在](https://zh.wikipedia.org/wiki/文件物件模型 "wikilink")，成為網路上普及使用JavaScript的阻礙\[15\]。
 
@@ -322,40 +322,23 @@ Server</p></td>
 [Category:JavaScript](https://zh.wikipedia.org/wiki/Category:JavaScript "wikilink") [Category:美国发明](https://zh.wikipedia.org/wiki/Category:美国发明 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:函数式编程语言](https://zh.wikipedia.org/wiki/Category:函数式编程语言 "wikilink") [Category:ISO标准化编程语言](https://zh.wikipedia.org/wiki/Category:ISO标准化编程语言 "wikilink") [Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.

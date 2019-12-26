@@ -47,7 +47,7 @@ Profile建立在Configuration基础之上，一起构成了完整的运行环境
   - [J2ME游戏开发站 - 提供详细的J2ME游戏开发资料](http://www.j2megame.org)
   - [J2ME正式网站](http://java.sun.com/j2me/)
   - [TCP/IP Socket Connections with MIDP 2.0 by Sun](http://developers.sun.com/techtopics/mobility/midp/articles/midp2network/)
-  - [Bluetooth 蓝牙支持](http://benhui.net/bluetooth/index.html)
+  - [Bluetooth 蓝牙支持](https://web.archive.org/web/20040803212312/http://www.benhui.net/bluetooth/index.html)
   - [siemens](https://web.archive.org/web/20040729200516/http://www.j2mepolish.org/)
   - [J2ME.org](http://www.j2me.org)
   - [J2MEDeveloper.com](https://web.archive.org/web/20161021134747/http://www.j2medeveloper.com/)

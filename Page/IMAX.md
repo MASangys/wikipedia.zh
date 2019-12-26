@@ -440,9 +440,9 @@ IMAX激光</p></td>
 <td><p>新一代IMAX雷射</p></td>
 <td><p>2018年12月26日試營運<br />
 2018年12月29日開幕</p></td>
-<td><p>21.5</p></td>
-<td><p>12.04</p></td>
-<td><p>258.86</p></td>
+<td><p>21.33</p></td>
+<td><p>12.03</p></td>
+<td><p>256.5999</p></td>
 <td><p>368</p></td>
 <td><p>12聲道音響系統<br />
 於影城架構時期即設計為IMAX影廳</p></td>
@@ -628,7 +628,7 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>沈阳万达影城(奥体万达广场店)</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2013年7月26日-2019年8月4日(IMAX数字)<br />
-预计2019年8月16日</p></td>
+2019年8月16日</p></td>
 <td><p>22.19</p></td>
 <td><p>11.61</p></td>
 <td><p>257.6259</p></td>
@@ -684,7 +684,7 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>长沙万达影城（解放路悦荟广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2008年7月10日<br />
-2019年9月28日</p></td>
+2019年9月30日</p></td>
 <td><p>22.42<br />
 23.21</p></td>
 <td><p>11.51<br />
@@ -695,21 +695,169 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>12聲道音響系統 IMAX中國第8家IMAX影院</p></td>
 </tr>
 <tr class="odd">
+<td><p>沼津 - シネマサンシャインららぽーと沼津</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>2019年10月4日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>328(2)</p></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="even">
+<td><p>松戶 - ユナイテッド・シネマ テラスモール松戸</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>2019年10月25日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>2D ・IMAX/ 347人<br />
+3D ・IMAX/ 303人</p></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="odd">
+<td><p>東京都 - TOHO Cinemas SHINJYUKU（TOHOシネマズ新宿）</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>2019年11月2日</p></td>
+<td><p>19.44</p></td>
+<td><p>10.91</p></td>
+<td><p>212.0904</p></td>
+<td><p>311</p></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="even">
+<td><p>札幌 - ユナイテッド・シネマ札幌</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>2010年11月19日<br />
+2019年11月8日</p></td>
+<td><p>24.93</p></td>
+<td><p>13.86</p></td>
+<td><p>345.5298</p></td>
+<td><p>2D ・IMAX®/ 458人<br />
+3D ・IMAX®/ 412人</p></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="odd">
+<td><p>南町田 - 109シネマズグランベリーパーク</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>2019年11月13日</p></td>
+<td><p>16.79</p></td>
+<td><p>8.62</p></td>
+<td><p>144.7298</p></td>
+<td></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="even">
 <td><p>济南万达影城(高新万达广场店)</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2016年6月18日<br />
-预计2019年9月</p></td>
-<td></td>
-<td></td>
-<td></td>
+2019年11月15日</p></td>
+<td><p>23.02</p></td>
+<td><p>11.85</p></td>
+<td><p>272.787</p></td>
 <td><p>360</p></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="odd">
+<td><p>大和郡山 - シネマサンシャイン大和郡山</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>2011年7月1日<br />
+2019年11月22日</p></td>
+<td><p>18.25</p></td>
+<td><p>9.60</p></td>
+<td><p>175.2000</p></td>
+<td><p>378</p></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="even">
+<td><p>厦门万达影城（湖里万达广场店）</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>2011年9月2日<br />
+2019年11月22日</p></td>
+<td><p>19.54<br />
+20.18</p></td>
+<td><p>10.058<br />
+10.399</p></td>
+<td><p>196.53332<br />
+209.85182</p></td>
+<td><p>291</p></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="odd">
+<td><p>成都英皇电影城（温江新光天地店）</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>预计2019年12月25日</p></td>
+<td><p>23.87</p></td>
+<td><p>12.46</p></td>
+<td><p>297.4202</p></td>
+<td></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="even">
+<td><p>武汉武商摩尔国际电影城（国广店）</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>预计2019年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="odd">
+<td><p>深圳英皇电影城（平安金融中心店)</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>预计2019年</p></td>
+<td><p>20.80</p></td>
+<td><p>11.00</p></td>
+<td><p>228.8</p></td>
+<td></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="even">
+<td><p>香港英皇戏院iSQUARE</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>预计2019年12月</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="odd">
+<td><p>广州飞扬影城（乐峰店）</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>预计2019年12月</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="even">
+<td><p>茂名东汇国际影城</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>预计2019年12月</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="odd">
+<td><p>贵阳CGV影城（印象城店)</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>预计2019年12月</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
 <tr class="even">
 <td><p>北京万达影城（石景山万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2009年1月1日<br />
-预计2019年9月30日</p></td>
+待定</p></td>
 <td><p>21.3</p></td>
 <td><p>12.6</p></td>
 <td><p>268</p></td>
@@ -717,79 +865,71 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
 <tr class="odd">
-<td><p>包头万达影城（青山万达广场店）</p></td>
-<td><p>新一代IMAX激光</p></td>
-<td><p>2011年11月10日<br />
-预计2019年</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>314</p></td>
-<td><p>12聲道音響系統</p></td>
-</tr>
-<tr class="even">
 <td><p>绵阳万达影城（涪城万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2012年12月21日<br />
-预计2019年</p></td>
+待定</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td><p>347</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>宁波万达影城（鄞州万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2011年7月21日<br />
-预计2019年</p></td>
+待定</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td><p>336</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>北京万达影城（通州万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
-<td><p>2014年11月29日<br />
-预计2019年8月</p></td>
-<td><p>22.36</p></td>
-<td><p>11.70</p></td>
-<td><p>261.612</p></td>
+<td><p>2014年11月29日(IMAX数字)<br />
+待定</p></td>
+<td><p>22.36<br />
+20.9</p></td>
+<td><p>11.70<br />
+11.7</p></td>
+<td><p>261.612<br />
+244.53</p></td>
 <td><p>424</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>天津万达影城（河东万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2011年11月8日<br />
 2017年3月20日<br />
-预计2019年</p></td>
+待定</p></td>
 <td><p>23.77</p></td>
 <td><p>12.34</p></td>
 <td><p>293.3218</p></td>
 <td><p>398</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>石家庄万达影城（裕华万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2011年9月23日<br />
 2017年3月22日<br />
-预计2019年</p></td>
+待定</p></td>
 <td><p>23.21</p></td>
 <td><p>11.95</p></td>
 <td><p>277.3595</p></td>
 <td><p>385</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>青岛万达影城(CBD万达广场店)</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2011年2月1日<br />
 2017年9月7日<br />
-预计2019年</p></td>
+待定</p></td>
 <td><p>21.93<br />
 21.20</p></td>
 <td><p>10.10<br />
@@ -799,13 +939,13 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>374</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>北京UME国际影城（华星店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2006年6月-2009年12月25日(IMAX MPX放映系统)<br />
-2010年(IMAX数字放映系统)<br />
-2015年8月4日(IMAX数字放映系统)<br />
-预计2019年</p></td>
+2010年(IMAX Digital放映系统)<br />
+2015年8月4日(IMAX Digital放映系统)<br />
+待定</p></td>
 <td><p>23.91</p></td>
 <td><p>13.84</p></td>
 <td><p>330.9144</p></td>
@@ -813,22 +953,11 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>IMAX中國第4家IMAX影院<br />
 12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
-<td><p>厦门万达影城（湖里万达广场店）</p></td>
-<td><p>新一代IMAX激光</p></td>
-<td><p>2011年9月2日<br />
-预计2019年</p></td>
-<td><p>19.54</p></td>
-<td><p>10.058</p></td>
-<td><p>196.53332</p></td>
-<td><p>291</p></td>
-<td><p>12聲道音響系統</p></td>
-</tr>
 <tr class="even">
 <td><p>北京万达影城（CBD万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
-<td><p>2011年1月11日(IMAX数字)<br />
-预计2019年12月</p></td>
+<td><p>2011年1月11日(IMAX Digital)<br />
+待定</p></td>
 <td><p>16.86</p></td>
 <td><p>8.39</p></td>
 <td><p>141.4554</p></td>
@@ -837,14 +966,16 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
 <tr class="odd">
-<td><p>英皇戏院iSQUARE</p></td>
+<td><p>上海SFC上影影城(港汇永华IMAX店)</p></td>
 <td><p>新一代IMAX激光</p></td>
-<td><p>预计2019年12月</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>12聲道音響系統</p></td>
+<td><p>2014年12月18日-2016年9月<br />
+2018年7月6日（重新开业）<br />
+项目确定改造日期未定</p></td>
+<td><p>15.24</p></td>
+<td><p>7.85</p></td>
+<td><p>119.634</p></td>
+<td><p>298</p></td>
+<td><p>聲道音響系統</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1059,22 +1190,13 @@ IMAX在各种基础技术和屏幕尺寸方面坚持“IMAX体验”的统一品
 [Category:IMAX電影](https://zh.wikipedia.org/wiki/Category:IMAX電影 "wikilink") [Category:加拿大发明](https://zh.wikipedia.org/wiki/Category:加拿大发明 "wikilink")
 
 1.
-
 2.  <http://www.cinema.com.my/articles/news_details.aspx?search=2017.n_worldsbiggestimaxcinemaopens_36657&title=World-s-biggest-IMAX-cinema-opens-in-Seoul#Bos9zQPFYhP412C1.97>
-
 3.
-
 4.  <https://www.bworldonline.com/southeast-asias-1st-imax-with-laser/>
-
 5.  <https://av.watch.impress.co.jp/docs/news/1144016.html>
-
 6.  <https://av.watch.impress.co.jp/docs/news/1144016.html>
-
 7.  <https://av.watch.impress.co.jp/docs/news/1144016.html>
-
 8.
-
 9.
 10.
-
 11.

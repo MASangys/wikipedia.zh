@@ -434,122 +434,63 @@ iTunes音乐商店最近售出了超过10亿首歌曲\[16\]。至2007年8月1日
 [Category:iPod](https://zh.wikipedia.org/wiki/Category:iPod "wikilink") [Category:ITunes](https://zh.wikipedia.org/wiki/Category:ITunes "wikilink") [Category:数字音频播放器](https://zh.wikipedia.org/wiki/Category:数字音频播放器 "wikilink") [Category:2001年面世的產品](https://zh.wikipedia.org/wiki/Category:2001年面世的產品 "wikilink") [Category:蘋果公司](https://zh.wikipedia.org/wiki/Category:蘋果公司 "wikilink")
 
 1.  [苹果公司宣布部分视频iPod约有1%感染病毒](http://news.xinhuanet.com/tech/2006-10/20/content_5226665.htm) ，新华网
-
 2.  [Apple Unveils New iPods](http://www.apple.com/pr/library/2002/jul/17ipod.html) ，Apple Computer, Inc.
-
 3.  [Apple Launches iTunes for Windows](http://www.apple.com/pr/library/2003/oct/16itms.html) ，Apple Computer, Inc.
-
 4.  [Documentation](http://www.ipodlinux.org/Documentation) ，iPodLinux Project
-
 5.  [Apple Store](http://store.apple.com/1-800-MY-APPLE/WebObjects/AppleStore.woa/wa/RSLID?nnmm=browse&mco=7B72363E&node=home/shop_ipod/family/ipod_classic)
-
 6.  [The differences between iPod mini and iPod mini (Second Generation)](http://docs.info.apple.com/article.html?artnum=300850) ，Apple Inc.
-
 7.  <http://www.apple.com/ipodshuffle/features.html>
-
 8.
 9.  [Steve Jobs live - Apple's "The beat goes on" special event](http://www.engadget.com/2007/09/05/steve-jobs-live-apples-the-beat-goes-on-special-event/)（2007年9月5日）於2007年9月5日引用。
-
 10. [Apple – iPod touch – Features](http://www.apple.com/ipodtouch/features.html?feature=itwfms) （2007年9月5日）於2007年9月5日引用。
-
 11. [Apple Builds Ecosystem With iPod Touch Screen](http://www.informationweek.com/news/showArticle.jhtml?articleID=201804347)（2007年9月5日）於2007年9月5日引用。
-
 12.
-
 13. [$10 from every iPod nano (PRODUCT) RED sold goes directly to the Global Fund to fight AIDS in Africa.](http://www.apple.com/ipodnano/red/) ，Apple Inc.
-
 14. [iPod爆炸噴火花](http://hk.apple.nextmedia.com/news/art/20101108/14637629) 香港蘋果日報 2010年11月08日
-
 15. [英國：蘋果要我封口！](http://opinions.sinchew-i.com/node/10997?tid=12)  光明日報，2009年8月4日
-
 16.
-
 17. [iTunes Store歌曲销量突破30亿大关](http://news.driverchina.com/Html/news/Media/Media/104728825.html) Driverchina新聞頻道2007年8月1日
-
 18. [苹果iTunes Store歌曲销量突破30亿大关](http://tech.tom.com/2007-08-01/06M4/56041229.html)  Tom.com科技前沿2007年8月1日
-
 19. {{〈}}CD失聲{{〉}}，《[國家地理雜誌](https://zh.wikipedia.org/wiki/國家地理雜誌 "wikilink")》中文版2008年1月號ISSN 1608-2601
-
 20. IT168 spirit，[苹果版权保护技术被少年破解](http://publish.it168.com/2006/1026/20061026019001.shtml) ，IT168
-
 21. Eric Bangeman，[Apple responds to RealNetworks FairPlay hack](http://arstechnica.com/news.ars/post/20040729-4051.html)，Ars Technica, LLC
-
 22.
-
 23. Andy Serwer. "[It's iPod's Revolution: We Just Live in It](http://www.fortune.com/fortune/streetlife/0,15704,1071308,00.html) ."财富杂志。发表于2005年8月22日。
-
 24. [The most popular items on Amazon.com](http://www.amazon.com/exec/obidos/tg/new-for-you/top-sellers/-/electronics/all/ref=e_hp_tn_2/103-3541352-3631820)，Amazon.com, Inc.
-
 25. [2](http://news.nasdaq.com/news/newsStory.aspx?&cpath=20040301%5CACQDJON200403011156DOWJONESDJONLINE000696.htm)
-
 26. "[Hewlett-Packard to Stop Reselling iPods](https://web.archive.org/web/20050803025830/http://www.forbes.com/feeds/ap/2005/07/30/ap2164732.html)."福布斯。发表于2005年8月23日。
-
 27. 苹果公司 (2002年1月16日). [Apple Reports First Quarter Profit of $38 Million](http://www.apple.com/pr/library/2002/jan/16results.html) .新闻稿。发布于2006-11-19
-
 28. 苹果公司 (2002年5月14日). [Apple Investor Relations SEC Filings Quarter 2, 2002](http://phx.corporate-ir.net/phoenix.zhtml?c=107357&p=irol-SECText&TEXT=aHR0cDovL2NjYm4uMTBrd2l6YXJkLmNvbS94bWwvZmlsaW5nLnhtbD9yZXBvPXRlbmsmaXBhZ2U9MTc0NjY1MCZkb2M9MSZudW09MjM=).发布于2006-11-19
-
 29. 苹果公司 (2003年8月12日). [Apple Investor Relations SEC Filings Quarter 3, 2003](http://phx.corporate-ir.net/phoenix.zhtml?c=107357&p=irol-SECText&TEXT=aHR0cDovL2NjYm4uMTBrd2l6YXJkLmNvbS94bWwvZmlsaW5nLnhtbD9yZXBvPXRlbmsmaXBhZ2U9MjI4MTk4OSZkb2M9MSZudW09Mjk=)（Under the column of 29 July 2002）.发布于2006-05-25
-
 30. MacWorld (2003年10月17日). [Apple/Analysts on the iTunes Music Store, iPod](http://www.macworld.com/news/2003/10/17/analysts/) .发布于2006-11-07
-
 31. 苹果公司 (2004年1月14日). [Apple Reports First Quarter Results](http://www.apple.com/pr/library/2004/jan/14results.html)  (A 235% increase means that 219000, to the nearest 1000, were sold in the previous quarter).新闻稿。发布于2006-05-25
-
 32. 苹果公司 (2003年5月13日). [Apple Investor Relations SEC Filings Quarter 2, 2003](http://phx.corporate-ir.net/phoenix.zhtml?c=107357&p=irol-SECText&TEXT=aHR0cDovL2NjYm4uMTBrd2l6YXJkLmNvbS94bWwvZmlsaW5nLnhtbD9yZXBvPXRlbmsmaXBhZ2U9MjE0ODI4MCZkb2M9MSZudW09MjY=).发布于2006-11-19
-
 33. 苹果公司 (2003年8月12日). [Apple Investor Relations SEC Filings Quarter 3, 2003](http://phx.corporate-ir.net/phoenix.zhtml?c=107357&p=irol-SECText&TEXT=aHR0cDovL2NjYm4uMTBrd2l6YXJkLmNvbS94bWwvZmlsaW5nLnhtbD9yZXBvPXRlbmsmaXBhZ2U9MjI4MTk4OSZkb2M9MSZudW09Mjk=).发布于2006-11-19
-
 34. 苹果公司 (2003年10月15日). [Apple Reports Fourth Quarter Results](http://www.apple.com/pr/library/2003/oct/15results.html) .新闻稿。发布于2006-05-25
-
 35. 苹果公司 (2004年1月14日). [Apple Reports First Quarter Results](http://www.apple.com/pr/library/2004/jan/14results.html) .新闻稿。发布于2006-05-25
-
 36. 苹果公司 (2004年4月14日). [Apple Reports Second Quarter Results](http://www.apple.com/pr/library/2004/apr/14results.html) .新闻稿。发布于2006-05-25
-
 37. 苹果公司 (2004年7月14日). [Apple Reports Third Quarter Results](http://www.apple.com/pr/library/2004/jul/14results.html) .新闻稿。发布于2006-05-25
-
 38. 苹果公司 (2004年10月13日). [Apple Reports Fourth Quarter Results](http://www.apple.com/pr/library/2004/oct/13results.html) .新闻稿。发布于2006-05-25
-
 39. 苹果公司 (2005年1月12日). [Apple Reports First Quarter Results](http://www.apple.com/pr/library/2005/jan/12results.html) .新闻稿。发布于2006-05-25
-
 40. 苹果公司 (2005年4月13日). [Apple Reports Second Quarter Results](http://www.apple.com/pr/library/2005/apr/13results.html) .新闻稿。发布于2006-05-25
-
 41. 苹果公司 (2005年7月13日). [Apple Reports Third Quarter Results](http://www.apple.com/pr/library/2005/jul/13results.html) .新闻稿。发布于2006-05-25
-
 42. 苹果公司 (2005年11月11日). [Apple Reports Fourth Quarter Results](http://www.apple.com/pr/library/2005/oct/11results.html) .新闻稿。发布于2006-05-25
-
 43. 苹果公司 (2006年1月18日). [Apple Reports First Quarter Results](http://www.apple.com/pr/library/2006/jan/18results.html) .新闻稿。发布于2006-05-24
-
 44. 苹果公司 (2006年4月19日). [Apple Reports Second Quarter Results](http://www.apple.com/pr/library/2006/apr/19results.html) .新闻稿。发布于2006-05-25
-
 45. 苹果公司 (2006年7月19日). [Apple Reports Third Quarter Results](http://www.apple.com/pr/library/2006/jul/19results.html) .新闻稿。发布于2006-07-23
-
 46. 苹果公司 (2006年10月18日). [Apple Reports Fourth Quarter Results](http://www.apple.com/pr/library/2006/oct/18results.html) .新闻稿。发布于2006-10-18
-
 47. 苹果公司 (2007年1月17日). [Apple Reports First Quarter Results](http://www.apple.com/pr/library/2007/01/17results.html) .新闻稿。发布于2007-01-17
-
 48. 苹果公司 (2007年4月25日). [Apple Reports Second Quarter Results](http://www.apple.com/pr/library/2007/04/25results.html).新闻稿。发布于2007-04-25
-
 49. 苹果公司 (2007年7月25日). [Apple Reports Third Quarter Results](http://www.apple.com/pr/library/2007/07/25results.html).新闻稿。发布于2007-07-25
-
 50. 苹果公司 (2007年10月22日). [Apple Reports Fourth Quarter Results](http://www.apple.com/pr/library/2007/10/22results.html) .新闻稿。发布于2007-10-22
-
 51. 苹果公司 (2008年1月22日). [Apple Reports First Quarter Results](http://www.apple.com/pr/library/2008/01/22results.html).新闻稿。发布于2008-01-22
-
 52. 苹果公司 (2008年4月23日). [Apple Reports Second Quarter Results](http://www.apple.com/pr/library/2008/04/23results.html).新闻稿。发布于2008-04-23
-
 53. 苹果公司 (2008年7月21日). [Apple Reports Third Quarter Results](http://www.apple.com/pr/library/2008/07/21results.html).新闻稿。发布于2008-07-21
-
 54. 苹果公司 (2008年10月21日). [Apple Reports Fourth Quarter Results](http://www.apple.com/pr/library/2008/10/21results.html).新闻稿。发布于2008-10-21
-
 55. 苹果公司 (2009年1月21日). [Apple Reports Fourth Quarter Results](http://www.apple.com/pr/library/2009/01/21results.html) .新闻稿。发布于2009-1-21
-
 56. 苹果公司 (2009年4月22日). [Apple Reports Second Quarter Results](http://www.apple.com/pr/library/2009/04/22results.html) .新闻稿。发布于2009-4-22
-
 57. 苹果公司 (2009年7月21日). [Apple Reports Third Quarter Results](http://www.apple.com/pr/library/2009/07/21results.html).新闻稿。发布于2009-7-21
-
 58.
-
 59. [Beat.](http://www.apple.com/hardware/ads/ipod_beat.html) 首部iPod电视广告。
-
 60. [蘋果日報：張學友簽名版 iPod後天開售 2002年12月18日](http://www1.hk.apple.nextmedia.com/template/apple_sub/art_main.php?iss_id=20021218&sec_id=12187373&art_id=3009339)
-
 61. Jim Dalrymple. "[New iPod ads feature U2](http://www.macworld.com/news/2004/10/12/u2ads/index.php)." Macworld。发表于2005年8月22日。

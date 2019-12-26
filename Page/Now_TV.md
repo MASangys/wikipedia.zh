@@ -6,11 +6,14 @@ Now TV於2003年9月26日（星期五）啟播，其電視訊號主要透過[香
 
 [Nowtv_settopbox_hd.jpg](https://zh.wikipedia.org/wiki/File:Nowtv_settopbox_hd.jpg "fig:Nowtv_settopbox_hd.jpg") 擁有數十年電訊專營權的[香港電訊](../Page/電訊盈科.md "wikilink")，於1997年開始[互動電視 iTV](https://zh.wikipedia.org/wiki/互動電視_iTV "wikilink")[自選影像服務](../Page/隨選視訊.md "wikilink")。2000年8月，**[盈科數-{}-碼動力](https://zh.wikipedia.org/wiki/盈科數碼動力 "wikilink")**與**[香港電訊](../Page/香港電訊.md "wikilink")**合併為**[電訊盈科](../Page/電訊盈科.md "wikilink")**。2003年，**電訊盈科**申請直接更改牌照以經營收費電視；由於電訊盈科主席[李澤楷](../Page/李澤楷.md "wikilink")為[新城廣播母公司](https://zh.wikipedia.org/wiki/香港新城電台 "wikilink")[和記黃埔](../Page/和記黃埔.md "wikilink")的關連人士，所以電盈旗下now寬頻電視的收費電視牌照，必須由[行政長官會同行政會議](../Page/行政長官會同行政會議.md "wikilink")給予特別批准，最後獲得通過，毋需進行任何公眾諮詢，牌照上亦毋需設立任何經營限制，處理方法上與[無綫收費電視略有不同](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")，now寬頻電視啟播。更改牌照後，使用[電訊盈科](../Page/電訊盈科.md "wikilink")電視服務的用戶，由98年的不足1000戶，擴展至現時100萬戶，當中約70％為付費用戶，其餘30％則為免費用戶（並無訂購任何付費頻道）。
 
-2004年10月31日，亞洲有線與衛星電視廣播協會（CASBAA）理事會上，頒授首屆「亞洲有線與衛星電視廣播協會主席大獎」，表彰now寬頻電視於過去12個月對亞太區多頻道有線、衛星和寬頻收費電視業所作的卓越貢獻。
+  - 2004年10月31日，亞洲有線與衛星電視廣播協會（CASBAA）理事會上，頒授首屆「亞洲有線與衛星電視廣播協會主席大獎」，表彰now寬頻電視於過去12個月對亞太區多頻道有線、衛星和寬頻收費電視業所作的卓越貢獻。
 
-now寬頻電視2005年的客戶數目目標是50萬戶（已在2005年11月達標，比預期早一個多月）和吸引客戶消費，提高客戶的每月平均月費水平。
+<!-- end list -->
 
-同年年中，為回應[香港寬頻的全港](https://zh.wikipedia.org/wiki/香港寬頻 "wikilink")100 Mbps寬頻包[數碼電視的六個月試用計劃](../Page/香港寬頻bbTV.md "wikilink")，now寬頻電視向其他收費電視用戶推廣免費三個月的試用計劃。
+  - 2005年，now寬頻電視2005年的客戶數目目標是50萬戶（已在2005年11月達標，比預期早一個多月）和吸引客戶消費，提高客戶的每月平均月費水平。
+    同年年中，為回應[香港寬頻的全港](https://zh.wikipedia.org/wiki/香港寬頻 "wikilink")100 Mbps寬頻包[數碼電視的六個月試用計劃](../Page/香港寬頻bbTV.md "wikilink")，now寬頻電視向其他收費電視用戶推廣免費三個月的試用計劃。
+
+<!-- end list -->
 
   - 2005年12月28日，電訊盈科執行委員會副主席兼財務總裁艾維朗表示，旗下寬頻供應商[網上行](../Page/網上行.md "wikilink")除了將會推出18 Mbps寬頻上網服務外，亦會在對手尚未準備好下，搶先為now寬頻電視推出[高清晰度電視](https://zh.wikipedia.org/wiki/高清晰度電視 "wikilink")（HDTV）服務，預計在2006年1月開始進行內部測試，最快可在2006年上半年推出。但他們亦表示，因為要達至不同的質素要求，故此上半年推出的機會不大。[1](https://archive.is/20130105155012/http://hk.news.yahoo.com/051228/74/1jx9m.html)
 
@@ -200,15 +203,197 @@ now寬頻電視在香港收費電視中開了很多先河，以互動功能為�
 
 ## now TV 頻道
 
+## 現有頻道
+
+|         **頻道號碼**          |                                 **頻道名稱**                                  | **頻道備註** |       **頻道組合**        |
+| :-----------------------: | :-----------------------------------------------------------------------: | :------: | :-------------------: |
+|            96             |                [ViuTVsix](../Page/ViuTVsix.md "wikilink")                 |    HD    |                       |
+|            99             |                   [ViuTV](../Page/ViuTV.md "wikilink")                    |    HD    |                       |
+|            102            |                  [Now劇集台](../Page/Now劇集台.md "wikilink")                   |    HD    |       *亞洲娛樂組合*        |
+|            105            |                  [Now華劇台](../Page/Now華劇台.md "wikilink")                   |    HD    |                       |
+|            106            |                                 Now影視點播站                                  |    HD    |                       |
+|            108            | [Now Jelli紫金國際台](https://zh.wikipedia.org/wiki/Now_Jelli紫金國際台 "wikilink") |    HD    |       *亞洲娛樂組合*        |
+|            111            |                 [HBO Hits](../Page/HBO強檔鉅獻.md "wikilink")                 |    HD    |        *電影組合1*        |
+|            112            |                [HBO Family](../Page/HBO溫馨家庭.md "wikilink")                |    HD    |                       |
+|            113            |                 [Cinemax](../Page/Cinemax.md "wikilink")                  |    HD    |                       |
+|            114            |              [HBO Signature](../Page/HBO原創鉅獻.md "wikilink")               |    HD    |                       |
+|            115            |                     [HBO](../Page/HBO.md "wikilink")                      |    HD    |                       |
+|            116            |                                Movie Movie                                |          |                       |
+|            117            |              [Fox Movies](../Page/FOX_Movies.md "wikilink")               |    HD    |        *電影組合2*        |
+|            118            |            [Fox Action Movies](../Page/福斯动作电影频道.md "wikilink")            |    HD    |                       |
+|            120            |  [Fox Family Movies](https://zh.wikipedia.org/wiki/福斯家庭電影頻道 "wikilink")   |    HD    |                       |
+|            125            |                  [Thrill](../Page/Thrill.md "wikilink")                   |          |                       |
+|            129            |                                  電影預告頻道                                   |          |                       |
+|            133            |                  [Now爆谷台](../Page/Now爆谷台.md "wikilink")                   |    HD    |       *中文電影組合*        |
+|            139            |                   [衛視電影台](../Page/衛視電影台.md "wikilink")                    |    HD    |                       |
+|            140            |                   [衛視卡式台](../Page/衛視卡式台.md "wikilink")                    |          |                       |
+|            150            |                  [Animax](../Page/Animax.md "wikilink")                   |          |        亞洲娛樂組合         |
+|            151            |                 [GEM](../Page/GEM_TV_ASIA.md "wikilink")                  |    HD    |                       |
+|            155            |                     [tvN](../Page/TVN.md "wikilink")                      |    HD    |                       |
+|            156            |               [KBS World](../Page/KBS_World.md "wikilink")                |    HD    |                       |
+|            160            |                   [衛視中文台](../Page/衛視中文台.md "wikilink")                    |    HD    |                       |
+|            162            |                  [東森亞洲衛視](../Page/東森亞洲衛視.md "wikilink")                   |          |                       |
+|            163            |               [TVBS Asia](../Page/TVBS-Asia.md "wikilink")                |          |                       |
+|            168            |                [MOOV](../Page/MOOV.md "wikilink") 演唱會/MV台                 |          |                       |
+|            208            |          [Discovery Asia](../Page/Discovery_Asia.md "wikilink")           |    HD    |        *知識組合*         |
+|            209            |              [Discover Channel](../Page/探索頻道.md "wikilink")               |    HD    |                       |
+|            210            |                  [動物星球頻道](../Page/動物星球頻道.md "wikilink")                   |    HD    |                       |
+|            211            |              [Discovery 科學頻道](../Page/探索科學頻道.md "wikilink")               |    HD    |                       |
+|            212            |                [DMAX](../Page/DMAX_\(電視頻道\).md "wikilink")                |    HD    |                       |
+|            213            |              [TLC旅遊生活頻道](../Page/TLC_\(電視頻道\).md "wikilink")              |    HD    |                       |
+|            214            |                                    EVE                                    |    HD    |                       |
+|            215            |                  [國家地理頻道](../Page/國家地理頻道.md "wikilink")                   |          |                       |
+|            216            |                [國家地理野生頻道](../Page/國家地理野生頻道.md "wikilink")                 |    HD    |                       |
+|            217            |                [國家地理悠人頻道](../Page/國家地理悠人頻道.md "wikilink")                 |    HD    |                       |
+|            218            |                                 國家地理高清頻道                                  |    HD    |                       |
+|            220            |                [BBC Earth](../Page/BBC自然知性台.md "wikilink")                |    HD    |                       |
+|            223            |                   [HISTORY](../Page/歷史頻道.md "wikilink")                   |          |                       |
+|            225            |                                HISTORY HD                                 |    HD    |                       |
+|            316            |   [CNN 國際新聞網絡](https://zh.wikipedia.org/wiki/有線電視新聞網國際新聞網絡 "wikilink")    |    HD    |        國際新聞組合         |
+|            318            |                 [Fox News](../Page/福斯新聞頻道.md "wikilink")                  |          |                       |
+|            319            |                 [CNBC](../Page/全国广播公司商业频道.md "wikilink")                  |          |                       |
+|            320            |           [BBC World News](../Page/英國廣播公司世界新聞頻道.md "wikilink")            |    HD    |                       |
+|            321            |            [Bloomberg Television](../Page/彭博電視.md "wikilink")             |          |       *精選播送頻道*        |
+|            322            |                   [亞洲新聞台](../Page/亚洲新闻台.md "wikilink")                    |          |        國際新聞組合         |
+|            323            |                  [Sky News](../Page/天空新闻台.md "wikilink")                  |          |                       |
+|            324            |                 [DW](../Page/德国之声.md "wikilink")（English）                 |          |                       |
+|            325            |               [半島電視台英語頻道](../Page/半島電視台英語頻道.md "wikilink")                |          |       *精選播送頻道*        |
+|            326            |                  [Euronews](../Page/欧洲新闻台.md "wikilink")                  |          |       *國際新聞組合*        |
+|            327            |                 [France 24](../Page/法蘭西24.md "wikilink")                  |          |       *精選播送頻道*        |
+|            328            |      [NHK World-Japan](../Page/NHK_World-Japan_\(頻道\).md "wikilink")      |          |                       |
+|            329            |                     [RT](../Page/RT电视台.md "wikilink")                     |          |                       |
+|            331            |                  [Now直播台](../Page/Now直播台.md "wikilink")                   |          |       *精選播送頻道*        |
+|            332            |                  [Now新聞台](../Page/Now新聞台.md "wikilink")                   |    HD    |                       |
+|            333            |                  [Now財經台](../Page/Now財經台.md "wikilink")                   |    HD    |       *國際新聞組合*        |
+|            336            |         [Now報價台](https://zh.wikipedia.org/wiki/Now報價台 "wikilink")         |          |                       |
+|            338            |         [第一財經電視](https://zh.wikipedia.org/wiki/第一財經電視 "wikilink")         |          |                       |
+|            366            |                 [鳳凰衛視資訊台](../Page/鳳凰衛視資訊台.md "wikilink")                  |          |       *精選播送頻道*        |
+|            367            |                 [鳳凰衛視香港台](../Page/鳳凰衛視香港台.md "wikilink")                  |          |                       |
+|            368            |        [香港衛視綜合台](https://zh.wikipedia.org/wiki/香港衛視綜合台 "wikilink")        |          |                       |
+|            371            |                 [東森亞洲新聞台](../Page/東森亞洲新聞台.md "wikilink")                  |          |                       |
+|            375            |                                   交通資訊                                    |          |                       |
+|            376            |                                   天氣資訊                                    |          |                       |
+|            377            |                                   航班資訊                                    |          |                       |
+|            400            |                                   智叻樂園                                    |          |       *智醒兒童組合*        |
+|            441            |               [Disney Channel](../Page/迪士尼頻道.md "wikilink")               |          |                       |
+|            442            | [Disney Junior](https://zh.wikipedia.org/wiki/迪斯尼少儿频道_\(亚洲\) "wikilink")  |          |                       |
+|            443            |               [Cartoon Network](../Page/卡通頻道.md "wikilink")               |    HD    |                       |
+|            444            |                [Nickelodeon](../Page/尼克儿童频道.md "wikilink")                |          |                       |
+|            445            |              [Boomerang](../Page/迴旋鏢_\(電視頻道\).md "wikilink")              |          |                       |
+|            447            |                [CBeebies](../Page/CBeebies.md "wikilink")                 |          |                       |
+|            448            |                                  Baby TV                                  |          |                       |
+|            449            |                                 Nick Jr.                                  |          |                       |
+|            460            |                                 Da Vinci                                  |    HD    |      *STEM學習組合*       |
+|            501            |                                 Now Shop                                  |          |       *精選播送頻道*        |
+|            502            |              [BBC Lifestyle](../Page/BBC生活風格.md "wikilink")               |    HD    |       *國際娛樂組合2*       |
+|            506            |                                    E！                                     |    HD    |                       |
+|            508            |                                   DIVA                                    |    HD    |                       |
+|            510            |                  [華納電視頻道](../Page/華納電視頻道.md "wikilink")                   |    HD    |                       |
+|            512            |                     [AXN](../Page/AXN.md "wikilink")                      |    HD    |                       |
+|            516            |        [BLUE ANT Extreme](../Page/BLUE_ANT_Extreme.md "wikilink")         |    HD    |                       |
+|            517            |  [BLUE ANT Entertainment](../Page/BLUE_ANT_Entertainment.md "wikilink")   |    HD    |                       |
+|            518            |                  [FOX](../Page/FOX_\(頻道\).md "wikilink")                  |    HD    |       *國際娛樂組合1*       |
+|            521            |             [FOXlife](../Page/FOX_Life_\(亞洲\).md "wikilink")              |    HD    |                       |
+|            523            |                 [FOXCRIME](../Page/福斯警匪頻道.md "wikilink")                  |    HD    |                       |
+|            524            |                   [FX](../Page/FX_\(亞洲\).md "wikilink")                   |    HD    |                       |
+|            525            |                                 Lifetime                                  |    HD    |                       |
+|            526            |   [Food Network](https://zh.wikipedia.org/wiki/美食頻道_\(美國\) "wikilink")    |    HD    |                       |
+|            527            |                                   亞洲美食台                                   |    HD    |                       |
+|            534            |                    \[\[Channel_V|Channel \[V\] 國際\]\]                    |          |                       |
+|            535            |                 [Netflix](../Page/Netflix.md "wikilink")                  |          |                       |
+|            537            |                 [珠江頻道](../Page/广东广播电视台珠江频道.md "wikilink")                 |          |       *精選播送頻道*        |
+|            538            |          [中天亞洲台](https://zh.wikipedia.org/wiki/中天亞洲台 "wikilink")          |          |                       |
+|            539            |                    [點心衛視](../Page/點心衛視.md "wikilink")                     |          |                       |
+|            540            |           [深圳衛視](https://zh.wikipedia.org/wiki/深圳衛視 "wikilink")           |          |                       |
+|            541            |       [CCTV-1](https://zh.wikipedia.org/wiki/CCTV-1_港澳版 "wikilink")       |          |                       |
+|            542            |         [CCTV-4](https://zh.wikipedia.org/wiki/CCTV-4 "wikilink")         |          |                       |
+|            543            |                   [南方衛視](../Page/廣東南方衛視.md "wikilink")                    |          |                       |
+|            544            |           [澳亞衛視](https://zh.wikipedia.org/wiki/澳亞衛視 "wikilink")           |          |                       |
+|            545            |                    [創世電視](../Page/創世電視.md "wikilink")                     |          |                       |
+|            548            |                 [鳳凰衛視中文台](../Page/鳳凰衛視中文台.md "wikilink")                  |          |                       |
+|            549            |                    [大愛電視](../Page/大愛電視.md "wikilink")                     |          |                       |
+|            553            |           [三沙衛視](https://zh.wikipedia.org/wiki/三沙衛視 "wikilink")           |          |                       |
+|            555            |           [浙江衛視](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")           |          |                       |
+|            556            |                                  中國中文衛視                                   |          |                       |
+|            561            |              [ABC](../Page/澳大利亚广播公司.md "wikilink") Australia              |          |                       |
+|            600            |                                  體育節目精選                                   |    HD    |                       |
+|            611            |                               Now Sports 4K                               |  HD/4K   |       *6星級體育組合*       |
+|            620            |                       Now Sports Premier League TV                        |    HD    |                       |
+|            621            |              [Now Sports](../Page/Now體育.md "wikilink") 英超1台               |    HD    |                       |
+|            622            |                              Now Sports 英超2台                              |    HD    |                       |
+|            623            |                              Now Sports 英超3台                              |    HD    |                       |
+|            624            |                              Now Sports 英超4台                              |    HD    |                       |
+|            625            |                              Now Sports 英超5台                              |    HD    |                       |
+|            626            |                              Now Sports 英超6台                              |    HD    |                       |
+|            630            |                               Now Sports 精選                               |          |       *精選播送頻道*        |
+|            631            |                               Now Sports 1                                |    HD    |       *6星級體育組合*       |
+|            632            |                             belN-Now Sports 2                             |    HD    |        *足球組合*         |
+|            633            |                               Now Sports 3                                |    HD    |                       |
+|            634            |                               Now Sports 4                                |    HD    |        *體育組合*         |
+|            635            |                               Now Sports 5                                |    HD    |                       |
+|            636            |                               Now Sports 6                                |    HD    |                       |
+|            637            |                               Now Sports 7                                |    HD    |                       |
+|            638            |                               belN SPORTS 1                               |    HD    |    *beIN SPORTS組合*    |
+|            639            |                               belN SPORTS 2                               |    HD    |                       |
+|            640            |       [曼聯電視頻道](https://zh.wikipedia.org/wiki/曼徹斯特聯足球俱樂部 "wikilink")       |    HD    |                       |
+|            642            |                               FIGHT SPORTS                                |    HD    |       *6星級體育組合*       |
+|            643            |           [belN SPORTS](../Page/BeIN_Sports.md "wikilink") Max            |    HD    | *beIN SPORTS Plus組合*  |
+|            644            |                             belN SPORTS Max 2                             |    HD    |                       |
+|            645            |                             belN SPORTS Max 3                             |    HD    |                       |
+|            650            |                             belN SPORTS RUGBY                             |    HD    |                       |
+|            651            |                              Now Sports 651                               |    HD    |                       |
+|            668            |                  [Now668](../Page/Now668.md "wikilink")                   |    HD    |        *足球組合*         |
+|            670            |     [FOX Sports](https://zh.wikipedia.org/wiki/FOX_Sports "wikilink")     |    HD    |       *6星級體育組合*       |
+|            671            |               [FOX Sports 2](../Page/FOX體育二台.md "wikilink")               |    HD    |                       |
+|            672            |               [FOX Sports 3](../Page/FOX體育三台.md "wikilink")               |    HD    |                       |
+|            674            |                               STAR Cricket                                |    HD    |                       |
+|            675            |                               STAR cricket+                               |          |                       |
+|            679            |                          Setanta Sports Channel                           |    HD    |                       |
+|            680            |                              Now Sports Plus                              |    HD    |                       |
+|            681            |                              Now Sports 681                               |    HD    |                       |
+|            682            |                                Now Golf 1                                 |          |                       |
+|            683            |                                Now Golf 2                                 |    HD    |                       |
+|            684            |                                Now Golf 3                                 |    HD    |                       |
+|            711            |       [NHK World Premium](../Page/NHK_World_Premium.md "wikilink")        |          | *NHK WORLD PREMIUM組合* |
+|            713            |             [TV5MONDE](../Page/法國電視國際五台.md "wikilink") Style              |          |        *法語組合*         |
+|            714            |                               TV5MONDE ASIE                               |          |                       |
+|            715            |             [France 24](../Page/法蘭西24.md "wikilink")（French）              |          |                       |
+|            720            |                               GMA Pinoy TV                                |          |        *菲律賓組合*        |
+|            721            |                                GMA Life TV                                |          |                       |
+|            722            |                         GMA News TV International                         |          |                       |
+|            725            |                                    TFC                                    |          |                       |
+|            765            |                                DW Deutsch                                 |          |                       |
+|            771            |                              Sony TV（India）                               |          |        *印度組合3*        |
+|            772            |                                 Sony MAX                                  |          |                       |
+|            773            |                                 Sony MIX                                  |          |                       |
+|            774            |                                 Sony SAB                                  |          |                       |
+|            779            |                                 MTV India                                 |          |        *印度組合2*        |
+|            780            |                                  COLORS                                   |          |                       |
+|            781            |                         Zee Cinema International                          |          |                       |
+|            782            |                  [Zee TV](../Page/Zee_TV.md "wikilink")                   |          |                       |
+|            785            |                                 Zee News                                  |          |                       |
+|            793            |                                 Star Gold                                 |          |        *印度組合1*        |
+|            794            |                                 STAR PLUS                                 |          |                       |
+|            797            |                                Star Bharat                                |          |                       |
+| **成人頻道（9XX）<sup>1</sup>** |                                                                           |          |                       |
+|            901            |                                   冰火頻道                                    |          |                       |
+|            902            |                                   見摩之頻道                                   |          |                       |
+|            903            |                                   成人極品台                                   |          |                       |
+
+**附注：**
+HD：該頻道提供高清畫質廣播
+4K：該頻道提供4K畫質廣播
+<sup>1</sup>以下內容只准18歲或以上人士觀看
+
 ### 頻道歷史
 
 <table>
 <thead>
 <tr class="header">
-<th style="text-align: center;"><p>停播時間</p></th>
-<th style="text-align: center;"><p>停播前-{台}-號</p></th>
-<th style="text-align: center;"><p>頻道名稱（譯稱）</p></th>
-<th style="text-align: center;"><p>停播原因</p></th>
+<th style="text-align: center;"><p><strong>停播時間</strong></p></th>
+<th style="text-align: center;"><p><strong>停播前-{台}-號</strong></p></th>
+<th style="text-align: center;"><p><strong>頻道名稱（譯稱）</strong></p></th>
+<th style="text-align: center;"><p><strong>停播原因</strong></p></th>
 </tr>
 </thead>
 <tbody>
@@ -221,7 +406,7 @@ now寬頻電視在香港收費電視中開了很多先河，以互動功能為�
 轉移到收費的<a href="../Page/ESPN.md" title="wikilink">ESPN</a>後停播</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>N年前</p></td>
+<td style="text-align: center;"><p>不詳</p></td>
 <td style="text-align: center;"><p>101</p></td>
 <td style="text-align: center;"><p>頻道列表</p></td>
 <td style="text-align: center;"><p>頻道列表停播</p></td>
@@ -1032,6 +1217,24 @@ now寬頻電視在香港收費電視中開了很多先河，以互動功能為�
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
+<td style="text-align: center;"><p>2019年11月1日</p></td>
+<td style="text-align: center;"><p>100</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/now香港台" title="wikilink">now香港台</a></p></td>
+<td style="text-align: center;"><p>now香港台停播，並由全新推出的「試睇區」（只限UX3界面用戶）取代now香港台</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2019年12月31日</p></td>
+<td style="text-align: center;"><p>506</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/w:en:E!" title="wikilink">E! Entertainment Television</a></p></td>
+<td style="text-align: center;"><p>NBCUniversal策略改變下本頻道於香港停播, 並以同系的OTT服務hayU取代</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>508</p></td>
+<td style="text-align: center;"><p><a href="../Page/Diva_(電視網).md" title="wikilink">DIVA</a></p></td>
+<td style="text-align: center;"><p>NBCUniversal策略改變下本頻道於香港停播, 並以同系的OTT服務hayU取代</p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -2097,7 +2300,7 @@ Fashion First（532頻道）啟播，並以標清16:9制式傳送。
 | 118       | 電影預告頻道                                                                                                                 | 129       |
 | 119       | [特納經典電影頻道](https://zh.wikipedia.org/wiki/特納經典電影頻道 "wikilink")                                                          | 126       |
 | 123       | [DIVA](../Page/Diva_\(電視網\).md "wikilink")                                                                             | 508       |
-| 124       | [Syfy Universal](https://zh.wikipedia.org/wiki/w:en:Syfy_Universal_\(Asia\) "wikilink")                                | 507       |
+| 124       | [Syfy Channel](../Page/Syfy_\(亞洲\).md "wikilink")                                                                      | 507       |
 | 221       | [BBC Lifestyle](https://zh.wikipedia.org/wiki/BBC_Lifestyle "wikilink")                                                | 502       |
 | 365       | [DW-TV](https://zh.wikipedia.org/wiki/德國之聲 "wikilink")（德語版）                                                            | 765       |
 | 500       | MOOV演唱會.MV台                                                                                                            | 168       |
@@ -2106,7 +2309,7 @@ Fashion First（532頻道）啟播，並以標清16:9制式傳送。
 | 516       | [Li](https://zh.wikipedia.org/wiki/w:en:Li_\(TV_channel\) "wikilink")                                                  | 533       |
 | 519       | [Food Network](https://zh.wikipedia.org/wiki/w:en:Food_Network "wikilink")                                             | 526       |
 | 520       | [Lifetime](https://zh.wikipedia.org/wiki/w:en:Lifetime_\(Southeast_Asia\) "wikilink")                                  | 525       |
-| 522       | [Universal Channel](https://zh.wikipedia.org/wiki/w:en:Universal_Channel_\(Asia\) "wikilink")                          | 509       |
+| 522       | [Universal Channel](../Page/環球影劇頻道_\(亞洲\).md "wikilink")                                                               | 509       |
 | 528       | [STAR World](https://zh.wikipedia.org/wiki/STAR_World "wikilink") HD                                                   | 521       |
 | 529       | [BBC Entertainment](https://zh.wikipedia.org/wiki/BBC_Entertainment "wikilink")                                        | 503       |
 | 530       | [華納電視頻道](../Page/華納電視頻道.md "wikilink") HD                                                                              | 510       |
@@ -2697,6 +2900,14 @@ Fashion First（532頻道）啟播，並以標清16:9制式傳送。
 <!-- end list -->
 
   - 2019年10月1日，[now香港台](https://zh.wikipedia.org/wiki/now香港台 "wikilink")（100頻道）改為預覽[Now華劇台](../Page/Now華劇台.md "wikilink")（105頻道）直至10月31日。
+
+<!-- end list -->
+
+  - 2019年11月1日，[now香港台](https://zh.wikipedia.org/wiki/now香港台 "wikilink")（100頻道）停播。並推出全新服務——「試睇區」（只限UX3界面用戶），以全面取代[now香港台](https://zh.wikipedia.org/wiki/now香港台 "wikilink")（100頻道）的預覽頻道服務。
+
+<!-- end list -->
+
+  - 2019年12月31日，[E\! Entertainment Television](https://zh.wikipedia.org/wiki/w:en:E! "wikilink")（506頻道）及[DIVA](../Page/Diva_\(電視網\).md "wikilink")（508頻道）停播。
 
 #### 停播[無綫網絡電視頻道組合](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")
 

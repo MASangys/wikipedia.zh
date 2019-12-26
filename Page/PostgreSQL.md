@@ -69,7 +69,7 @@ PostgreSQL还允许类型包括继承，这是在[面向对象编程中的主要
   - 一个内置的名为[PL/pgSQL](http://www.postgresql.org/docs/9.3/static/plpgsql.html)的过程语言，类似于Oracle的[PL/SQL](https://zh.wikipedia.org/wiki/PL/SQL "wikilink")；
   - 包括[PL/Perl](http://www.postgresql.org/docs/9.3/interactive/plperl.html)，[PL/PHP](https://web.archive.org/web/20070528193514/http://www.commandprompt.com/community/plphp)，[PL/Python](http://www.postgresql.org/docs/current/interactive/plpython.html)，[PL/Ruby](http://raa.ruby-lang.org/project/pl-ruby)，[PL/sh](https://web.archive.org/web/20090111030435/http://plsh.projects.postgresql.org/)，[PL/Tcl](http://www.postgresql.org/docs/current/interactive/pltcl.html)与[PL/Scheme](https://web.archive.org/web/20070712205419/http://plscheme.projects.postgresql.org/)在内的脚本语言；
   - 编译语言：[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")，[C++](../Page/C++.md "wikilink")，或Java（通过[PL/Java](https://web.archive.org/web/20070831132714/http://pljava.projects.postgresql.org/)）。
-  - R统计语言（[PL/R](http://www.joeconway.com/plr/)）。
+  - R统计语言（[PL/R](https://web.archive.org/web/20140619175406/http://www.joeconway.com/plr/)）。
 
 以上部分的语言，甚至可以在触发器内执行。PostgreSQL支持行返回函数：它们的输出是一系列行类型数据的集合，可以在查询中当作表来使用。函数也可以被定义成以创建者或者调用者的身份运行。在某些场合，或者其他的数据库产品中，函数也会被称为“[存储过程](https://zh.wikipedia.org/wiki/存储过程 "wikilink")”，但技术上这两者并未有太大分别。
 

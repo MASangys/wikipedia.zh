@@ -2,10 +2,10 @@
 
 ## 新特性
 
-这个系统是在[Windows 95和](../Page/Windows_95.md "wikilink")[Windows 98的基础上开发的](../Page/Windows_98.md "wikilink")，在内核方面没有实质性的进展，但它包括一些相关的小改善。尤其是用户界面方面为之后的[Windows XP提供一些借鉴](../Page/Windows_XP.md "wikilink")。
+这个系统是在[Windows 98的基础上开发的](../Page/Windows_98.md "wikilink")，在内核方面没有实质性的进展，但它包括一些相关的小改善。尤其是用户界面方面为之后的[Windows XP提供一些借鉴](../Page/Windows_XP.md "wikilink")。
 
   - **[Internet Explorer](../Page/Internet_Explorer.md "wikilink") 5.5**：与操作系统更好结合，在许多地方提供更加方便的web视图。
-  - **[Windows Media Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")**：一个能播放多种格式、并能方便管理数字媒体文件的播放器软件。添加CD支持，综合媒体编码器，并能够直接向便携式设备发送音乐。另一个新的特点是它的无线电调谐器，可用于搜索和通过Internet连接到广播电台。
+  - **[Windows Media Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink") 7**：一个能播放多种格式、并能方便管理数字媒体文件的播放器软件。添加CD支持，综合媒体编码器，并能够直接向便携式设备发送音乐。另一个新的特点是它的无线电调谐器，可用于搜索和通过Internet连接到广播电台。
   - **[Windows Movie Maker](../Page/Windows_Movie_Maker.md "wikilink")**：一个全新的系统组件，提供最基本的视频编辑与设计功能，对家庭用户来说更为简单易学，但在视频编辑方面仍处在入门级别。
   - **隱藏[真實模式](../Page/真實模式.md "wikilink")的[MS-DOS](../Page/MS-DOS.md "wikilink")**：这就意味着，与Windows 95和98不同，微軟在加载Windows图形界面前隱藏加载DOS的過程，使得启动时间有所減少。它仍然提供MS-DOS模式，可以运行在窗口中，但是一些应用程序（如较早的磁盘工具）需要实模式，而不能运行在DOS窗口中。微软在Windows Me中摒弃DOS真實模式，理论上这有助于系统的速度提升，减少对系统资源的使用。然而事实上这反而造成Windows Me系统不稳定，而且使Windows Me運行非常慢。以至于在使用Windows Me一段期间后，系统就有明显变慢，甚至不停出現[當機甚至](https://zh.wikipedia.org/wiki/當機 "wikilink")[藍屏死機等異常現象](https://zh.wikipedia.org/wiki/藍屏死機 "wikilink")。\[1\]
   - **[系统还原日志和还原系统](https://zh.wikipedia.org/wiki/系统还原 "wikilink")**：系统还原的加入意味着简化了故障排查和问题解决工作。理论上，这是一个大的改进：用户不再需要难学难懂的DOS命令行，就可以维护和修复系统。可实际上，失去DOS功能对维护来说是一个障碍，而[系统还原功能也带来一些新麻烦](https://zh.wikipedia.org/wiki/系统还原 "wikilink")：性能显著的降低。实际证明系统还原并不能有效胜任一些常见的错误修复任务，例如程式會在[系統還原](../Page/系統還原.md "wikilink")後无法运行、系統死機的情況也更严重。由于系统执行每次更改前都会自动创建一个先前系统状态的备份，这使得非专业人员很难迅速完成修改，甚至包括删除一个不想要的程序或病毒，所以很多防毒軟件在杀毒及一般使用下都不建議開啟系統還原功能。
@@ -57,17 +57,10 @@ Windows Me的[系统还原存在的一个更严重的问题是](https://zh.wikip
 [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink") [Category:已停止開發的作業系統](https://zh.wikipedia.org/wiki/Category:已停止開發的作業系統 "wikilink")
 
 1.  <http://tech.china.com/zh_cn/netschool/os/windowsme/585/20010528/184140.html>
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.

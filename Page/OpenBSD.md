@@ -230,7 +230,7 @@ OpenBSD最初采用[Phil Foglio所绘的](https://zh.wikipedia.org/wiki/Phil_Fog
 
   - [OpenBSD源代码搜索](http://BXR.SU/OpenBSD/)
 
-  - freenode上的[\#openbsd](irc://irc.freenode.net/openbsd)，或直接通过浏览器访问：https://webchat.freenode.net/?channels=openbsd
+  - freenode上的[\#openbsd](irc://irc.freenode.net/openbsd)，或直接通过浏览器访问：https://web.archive.org/web/20140305111015/https://webchat.freenode.net/?channels=openbsd
 
 <!-- end list -->
 
@@ -257,9 +257,7 @@ OpenBSD最初采用[Phil Foglio所绘的](https://zh.wikipedia.org/wiki/Phil_Fog
 
 1.
 2.
-
 3.
-
 4.
 5.
 6.
@@ -271,9 +269,7 @@ OpenBSD最初采用[Phil Foglio所绘的](https://zh.wikipedia.org/wiki/Phil_Fog
 12.
 13.
 14.
-
 15.
-
 16.
 17.
 18.

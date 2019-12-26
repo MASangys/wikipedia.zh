@@ -59,14 +59,9 @@
 [Category:無線通信](https://zh.wikipedia.org/wiki/Category:無線通信 "wikilink") [Category:移动通信标准](https://zh.wikipedia.org/wiki/Category:移动通信标准 "wikilink") [Category:3GPP標準](https://zh.wikipedia.org/wiki/Category:3GPP標準 "wikilink")
 
 1.  [3GPP - Releases](http://www.3gpp.org/Releases)
-
 2.
 3.  Overview of 3GPP Release 99, Summary of all Release 99 Features. ETSI Mobile Competence Centre, Version xx/07/04
-
 4.  Overview of 3GPP Release 4, Summary of all Release 4 Features, v.1.1.0 (draft) ETSI Mobile Competence Centre 2004
-
 5.  Summary of all Release 5 Features, ETSI Mobile Competence Centre, Version 9th September 2003
-
 6.  Overview of 3GPP Release 6, Summary of all Release 6 Features, Version TSG \#33, ETSI Mobile Competence Centre 2006
-
 7.  Review of the Work Plan at Plenaries \#31, 3GPP, SP-060232 3GPP TSG SA\#31 Sanya, March 13–16, 2006

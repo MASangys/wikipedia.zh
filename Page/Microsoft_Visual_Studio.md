@@ -263,109 +263,60 @@ Visual Studio 2017最初称作Visual Studio "15"，其Preview发布于2016年3�
 [Category:微軟開發工具](https://zh.wikipedia.org/wiki/Category:微軟開發工具 "wikilink") [Category:集成开发环境](https://zh.wikipedia.org/wiki/Category:集成开发环境 "wikilink") [Category:Microsoft_Visual_Studio](https://zh.wikipedia.org/wiki/Category:Microsoft_Visual_Studio "wikilink") [Category:图形用户界面设计器](https://zh.wikipedia.org/wiki/Category:图形用户界面设计器 "wikilink") [Category:微軟](https://zh.wikipedia.org/wiki/Category:微軟 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.  [Visual Studio .NET 2002 SP1](http://www.microsoft.com/downloads/details.aspx?FamilyID=c41d8159-b42f-4d06-a797-e510494976ee&displaylang=en)
-
 7.  [Visual Studio .NET 2003 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=69D2219F-CE82-46A5-8AEC-072BD4BB955E&displaylang=en)
-
 8.
-
 9.  詳見[Visual Studio 2008新功能](http://www.ithome.com.tw/itadm/article.php?c=47295&s=1)
-
 10.
-
 11.
-
 12.
 13.
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
 20.
 21.
-
 22.
-
 23.
-
 24.
 25.
 26.
 27.
-
 28.
-
-29. {{ cite web | url = <http://visualstudiomagazine.com/columns/article.aspx?editorialsid=2583> | title = Doing Architecture with Team System Rosario | accessdate = 2009-04-18}}
-
+29.
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35. [Visual Studio 2013 released to web\!](http://blogs.msdn.com/b/visualstudio/archive/2013/10/17/visual-studio-2013-released-to-web.aspx) Microsoft Visual Studio 博客, 2013年10月17日
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42. [ColinBeales from Microsoft Visual Studio UK Team："Visual Studio 2013 - Enhanced Scrollbar"](http://blogs.msdn.com/b/visualstudiouk/archive/2013/08/13/visual-studio-2013-enhanced-scrollbar.aspx)
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51. <https://www.visualstudio.com/news/vs15-preview-vs>
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58. [Create an offline installation of Visual Studio](https://docs.microsoft.com/en-us/visualstudio/install/create-an-offline-installation-of-visual-studio?view=vs-2019)

@@ -180,11 +180,8 @@ Windows CE可支援[MFC](https://zh.wikipedia.org/wiki/MFC "wikilink")，[ATL](h
 [Category:Windows_CE](https://zh.wikipedia.org/wiki/Category:Windows_CE "wikilink") [Category:实时操作系统](https://zh.wikipedia.org/wiki/Category:实时操作系统 "wikilink")
 
 1.  [Microsoft Charts Its Road Map for Windows Embedded Business](http://www.microsoft.com/presspass/press/2008/apr08/04-15RoadMapEmbeddedPR.mspx)
-
 2.   090517 2000grad.com
-
 3.   090517 blogs.msdn.com
-
 4.
 5.
 6.
@@ -192,7 +189,6 @@ Windows CE可支援[MFC](https://zh.wikipedia.org/wiki/MFC "wikilink")，[ATL](h
 8.
 9.
 10. [Talk:Microsoft Windows CE\#Is Windows CE a trimmed down version of desktop Windows ???](https://zh.wikipedia.org/wiki/Talk:Microsoft_Windows_CE#Is_Windows_CE_a_trimmed_down_version_of_desktop_Windows_??? "wikilink") 090517
-
 11.
 12.
 13.
@@ -203,21 +199,16 @@ Windows CE可支援[MFC](https://zh.wikipedia.org/wiki/MFC "wikilink")，[ATL](h
 18.
 19.
 20.  090517 pencomputing.com
-
 21.
 22.
 23.
 24.
 25.  090517 theregister.co.uk
-
 26.
 27.
 28.  090517 seditaville.com
-
 29.
 30.  090517 embedded.net.nz
-
 31.  090517 windowsfordevices.com
-
 32.
 33.  090517 theregister.co.uk

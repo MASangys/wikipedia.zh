@@ -32,7 +32,7 @@ TRIZ是前苏联[亞塞拜然发明家](https://zh.wikipedia.org/wiki/亞塞拜�
   - [The Altshuller Prize](http://www3.sympatico.ca/karasik/altshuller_prize_announcement.html) for outstanding achievements in applying and/or advancing TRIZ.
   - [The TRIZ Journal](http://www.triz-journal.com/)
   - [Official G.S. Altshuller foundation](http://www.altshuller.ru/)
-  - [Journal of TRIZ in Engineering Design](http://www.togopressllc.com/trizined/ojs/index.php)
+  - [Journal of TRIZ in Engineering Design](https://web.archive.org/web/20060909200223/http://www.togopressllc.com/trizined/ojs/index.php)
   - [Anti TRIZ-Journal](http://www3.sympatico.ca/karasik) Critiques of TRIZ by the former close associates of Altshuller
   - Associations: [ETRIA](http://www.etria.net) European TRIZ Association
   - Institutions supporting TRIZ: [IMechE](https://web.archive.org/web/20060903122623/http://www.imeche.org.uk/manufacturing/triz.asp) Institution of Mechanical Engineers TRIZ Network

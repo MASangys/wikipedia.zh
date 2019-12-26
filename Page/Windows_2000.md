@@ -12,7 +12,7 @@ Windows 2000後續系統為[Windows XP](../Page/Windows_XP.md "wikilink")\[13\]�
 
 Windows 2000是Windows NT家族中的一部份，目的是為了要取代[Windows NT 4.0](../Page/Windows_NT_4.0.md "wikilink")。原先被稱作Windows NT 5.0，隨後稱之為Windows NT 2000，最後微軟決定簡化名稱，在1998年10月27日定名為Windows 2000\[15\]。第一個Windows 2000的測試版在1998年9月釋出 \[16\]，測試版一直發佈到1999年4月29日第三個測試版為止 ，測試期間有針對[DEC Alpha平台的Windows](../Page/DEC_Alpha.md "wikilink") 2000釋出，但是第二個測試版取消 （因此[Windows NT 4.0成為微軟最後一個支援](../Page/Windows_NT_4.0.md "wikilink")[跨平台的作業系統](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，直到[Windows XP開始支援](../Page/Windows_XP.md "wikilink")[x86-64平台為止](https://zh.wikipedia.org/wiki/x86-64 "wikilink")）。測試結束之後，從1999年7月到1999年11月微軟還發佈三次釋出候選版（release candidates）。最終在1999年12月12日，微軟發佈Windows 2000。\[17\]
 
-Windows 2000原本是計畫要取代[Windows 98和Windows](../Page/Windows_98.md "wikilink") NT 4.0，不過最後微軟並沒有實施。微軟在1999年發行Windows 98升級版"Windows 98 Second Edition" ，也在2000年9月29日發佈能夠支援32個處理器的Windows 2000 Datacenter Server，目標是瞄準大型的電腦系統。
+Windows 2000原本是計畫取代[Windows 98和Windows](../Page/Windows_98.md "wikilink") NT 4.0，不過最後微軟並沒有實施。微軟在1999年發行Windows 98升級版"Windows 98 Second Edition" ，也在2000年9月29日發佈能夠支援32個處理器的Windows 2000 Datacenter Server，目標是瞄準大型的電腦系統。
 
 2004年2月12日（或者之前），發生Windows 2000原始碼洩漏的事件\[18\]，洩漏者將原始碼流傳到網路上，隨後微軟發佈以下的聲明：
 
@@ -93,45 +93,25 @@ Windows 2000原本是計畫要取代[Windows 98和Windows](../Page/Windows_98.md
 [Category:Windows_NT](https://zh.wikipedia.org/wiki/Category:Windows_NT "wikilink") [Category:已停止開發的作業系統](https://zh.wikipedia.org/wiki/Category:已停止開發的作業系統 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  " [Windows 2000 Professional Accessibility Resources](http://www.microsoft.com/enable/products/windows2000/default.aspx)
-
 6.  \[<http://support.microsoft.com/kb/292246>" Microsoft Support KB 292264: List of Languages Supported in Windows 2000, Windows XP and Windows Server 2003\].
-
 7.  " [Windows 2000 List of Locale IDs and Language Groups](http://www.microsoft.com/globaldev/reference/win2k/setup/lcid.mspx) .
-
 8.
-
 9.  " [Disk Management: Microsoft Technet](http://www.microsoft.com/technet/prodtechnol/windows2000serv/reskit/deploy/dgbj_sto_csmg.mspx?mfr=true)
-
 10.
-
 11.
-
 12. [Code Red/Nimda Worm Activity as seen at Archvillain.com](http://www.archvillain.com/cr/cr.htm)
-
 13.
 14.
 15.
-
 16. [The Road to Gold: The development of Windows 2000 Reviewed](http://www.winsupersite.com/reviews/win2k_gold.asp)
-
 17.
-
 18.
-
 19. [Windows 2000 Architecture](http://flinflon.brandonu.ca/Dueck/SystemsProgramming/blatt03.ppt)
-
 20.
-
 21.
-
 22.
-
 23.

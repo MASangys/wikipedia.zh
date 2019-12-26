@@ -96,6 +96,7 @@
   - [暴能特區](https://zh.wikipedia.org/wiki/暴能特區 "wikilink")（Cyphers）
   - [楓之谷2](https://zh.wikipedia.org/wiki/楓之谷2 "wikilink")（MapleStory 2）
   - [CLOSERS](../Page/CLOSERS.md "wikilink")
+  - [跑跑卡丁車 甩尾](https://zh.wikipedia.org/wiki/跑跑卡丁車_甩尾 "wikilink") (KARTRIDER: DRIFT)
 
 ### 日本
 
@@ -129,6 +130,7 @@
   - [瑪奇](https://zh.wikipedia.org/wiki/瑪奇 "wikilink")（Mabinogi）
   - [楓之谷](https://zh.wikipedia.org/wiki/楓之谷 "wikilink")（MapleStory）
   - [瑪奇英雄传](https://zh.wikipedia.org/wiki/瑪奇英雄传 "wikilink")（Vindictus/Mabinogi:Heroes）
+  - [跑跑卡丁車 甩尾](https://zh.wikipedia.org/wiki/跑跑卡丁車_甩尾 "wikilink") (KARTRIDER: DRIFT)
 
 ### 泰國
 
@@ -148,7 +150,7 @@
 
   - [文明爭戰](https://zh.wikipedia.org/wiki/文明爭戰 "wikilink")
   - [三國志曹操傳](../Page/三國志曹操傳.md "wikilink")
-  - [真三國無雙·斬](https://zh.wikipedia.org/wiki/真三國無雙·斬 "wikilink")（製作公司：[樂陞科技](../Page/樂陞科技.md "wikilink")，授權商：日本[光榮](https://zh.wikipedia.org/wiki/光榮 "wikilink")）
+  - [真·三國無雙 斬](https://zh.wikipedia.org/wiki/真·三國無雙_斬 "wikilink")（製作公司：[樂陞科技](../Page/樂陞科技.md "wikilink")，授權商：日本[光榮](https://zh.wikipedia.org/wiki/光榮 "wikilink")）
   - [無限戰場](https://zh.wikipedia.org/wiki/無限戰場 "wikilink")
   - [暗黑復仇者3](https://zh.wikipedia.org/wiki/暗黑復仇者3 "wikilink")
   - [楓之谷突擊](https://zh.wikipedia.org/wiki/楓之谷突擊 "wikilink")

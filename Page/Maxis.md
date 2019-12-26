@@ -71,5 +71,4 @@
 [Category:1987年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1987年開業電子遊戲公司 "wikilink") [Category:艺电的部门与子公司](https://zh.wikipedia.org/wiki/Category:艺电的部门与子公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:加利福尼亚州娱乐公司](https://zh.wikipedia.org/wiki/Category:加利福尼亚州娱乐公司 "wikilink")
 
 1.
-
 2.

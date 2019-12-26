@@ -52,9 +52,9 @@ Fedora另外還有個用來放置不穩定（Bleeding-Edge）軟體的套件庫�
 
 ### 当前版本
 
-最新的Fedora版本为30，发布于2019年4月29日\[26\]。 Fedora 30的​主​要​特​性​如​下​：
+最新的Fedora版本为31，发布于2019年10月29日\[26\]。 Fedora 31的​主​要​特​性​如​下​：
 
-1.  整合了​GNOME桌​面​最​新​版​本​ 3.32。
+1.  整合了​GNOME桌​面​最​新​版​本​ 3.34。
 
 ### 发布历史
 
@@ -66,38 +66,39 @@ Fedora版本命名规则：第n版与第n+1版有继承关系，但与第n+2版�
 | 绿  | 仍被支持的版本       |
 | 蓝  | 未来版本          |
 
-| 名称          | 版本                | 开发代号              | 发布日期             | 内核版本                                            | Xorg   | GNOME                            | KDE                              |
-| ----------- | ----------------- | ----------------- | ---------------- | ----------------------------------------------- | ------ | -------------------------------- | -------------------------------- |
-| Fedora      | 30                | \-                | 2019年4月29日\[30\] | 5.0                                             | 1.20   | 3.32                             | Plasma 5.15 及 Applications 19.04 |
-| 29          | \-                | 2018年10月30日\[31\] | 4.19             | 1.20                                            | 3.30   | Plasma 5.14 及 Applications 18.08 |                                  |
-| 28          | \-                | 2018年5月1日\[32\]   | 4.16             | 1.19                                            | 3.28   | Plasma 5.12 及 Applications 18.04 |                                  |
-| 27          | \-                | 2017年11月14日\[33\] | 4.13             | 1.19                                            | 3.26   | Plasma 5.11 及 Applications 17.08 |                                  |
-| 26          | \-                | 2017年7月11日\[34\]  | 4.11             | 1.19                                            | 3.24   | Plasma 5.10 及 Applications 17.04 |                                  |
-| 25          | \-                | 2016年11月22日\[35\] | 4.8              | 1.19                                            | 3.22   | Plasma 5.8 及 Applications 16.08  |                                  |
-| 24          | \-                | 2016年6月21日\[36\]  | 4.5              | 1.18                                            | 3.20   | Plasma 5.5 及 Applications 16.04  |                                  |
-| 23          | \-                | 2015年11月3日\[37\]  | 4.2              | 1.17                                            | 3.18   | Plasma 5.4 及 Applications 15.08  |                                  |
-| 22          | \-                | 2015年5月26日\[38\]  | 4.0              | 1.17                                            | 3.16   | Plasma 5.3 及 Applications 15.04  |                                  |
-| 21          | \-\[39\]          | 2014年12月9日\[40\]  | 3.16             | 1.16                                            | 3.14   | 4.14                             |                                  |
-| 20          | Heisenbug         | 2013年12月17日       | 3.11             | 1.14                                            | 3.10   | 4.11                             |                                  |
-| 19          | Schrödinger's Cat | 2013年7月2日         | 3.9              | 1.14                                            | 3.8    | 4.10                             |                                  |
-| 18          | Spherical Cow     | 2013年1月15日        | 3.6              | 1.13                                            | 3.6    | 4.9                              |                                  |
-| 17          | Beefy Miracle     | 2012年5月29日        | 3.3.4            | 1.12                                            | 3.4    | 4.8                              |                                  |
-| 16          | Verne             | 2011年11月8日        | 3.1.0            | 1.11.1                                          | 3.2.1  | 4.7.3                            |                                  |
-| 15          | Lovelock          | 2011年5月24日        | 2.6.38           | 1.10.1                                          | 3.0    | 4.6                              |                                  |
-| 14          | Laughlin          | 2010年11月2日        | 2.6.35           | 1.9.1                                           | 2.32   | 4.5.2                            |                                  |
-| 13          | Goddard           | 2010年5月25日        | 2.6.33           | 1.8.0                                           | 2.30   | 4.4.2                            |                                  |
-| 12          | Constantine       | 2009年11月17日       | 2.6.31           | 1.7.1                                           | 2.28.0 | 4.3.2                            |                                  |
-| 11          | Leonidas          | 2009年6月9日         | 2.6.29.4         | 1.6                                             | 2.26.1 | 4.2.2                            |                                  |
-| 10          | Cambridge         | 2008年11月25日       | 2.6.27           | 1.5.2                                           | 2.24.1 | 4.1.2                            |                                  |
-| 9           | Sulphur           | 2008年5月13日        | 2.6.25           | 1.4.99                                          | 2.22.1 | 4.0.3                            |                                  |
-| 8           | Werewolf          | 2007年11月8日        | 2.6.23.1         | 1.3.0                                           | 2.20.1 | 3.5.8                            |                                  |
-| 7           | Moonshine         | 2007年5月31日        | 2.6.21           | 1.3.0                                           | 2.18.0 | 3.5.6                            |                                  |
-| Fedora Core | 6                 | Zod               | 2006年10月24日      | 2.6.18                                          | 1.1.1  | 2.16.0                           | 3.5.4                            |
-| 5           | Bordeaux          | 2006年3月20日        | 2.6.15           | 1.0.1                                           | 2.14.0 | 3.5.1                            |                                  |
-| 4           | Stentz            | 2005年6月13日        | 2.6.11           | 6.8.2                                           | 2.10.0 | 3.4.0                            |                                  |
-| 3           | Heidelberg        | 2004年11月8日        | 2.6.9            | 6.8.1                                           | 2.8.1  | 3.3.0                            |                                  |
-| 2           | Tettnang          | 2004年5月18日        | 2.6.5            | 6.7.0                                           | 2.6.0  | 3.2.2                            |                                  |
-| 1           | Yarrow            | 2003年11月6日        | 2.4.19           | 4.3.0（[XFree86](../Page/XFree86.md "wikilink")） | 2.4.0  | 3.1.4                            |                                  |
+| 名称          | 版本                | 开发代号              | 发布日期              | 内核版本                                            | Xorg   | GNOME                            | KDE                              |
+| ----------- | ----------------- | ----------------- | ----------------- | ----------------------------------------------- | ------ | -------------------------------- | -------------------------------- |
+| Fedora      | 31                | \-                | 2019年10月29日\[30\] | 5.3                                             | 1.20   | 3.34                             | Plasma 5.17 及 Applications 19.08 |
+| 30          | \-                | 2019年4月29日\[31\]  | 5.0               | 1.20                                            | 3.32   | Plasma 5.15 及 Applications 19.04 |                                  |
+| 29          | \-                | 2018年10月30日\[32\] | 4.19              | 1.20                                            | 3.30   | Plasma 5.14 及 Applications 18.08 |                                  |
+| 28          | \-                | 2018年5月1日\[33\]   | 4.16              | 1.19                                            | 3.28   | Plasma 5.12 及 Applications 18.04 |                                  |
+| 27          | \-                | 2017年11月14日\[34\] | 4.13              | 1.19                                            | 3.26   | Plasma 5.11 及 Applications 17.08 |                                  |
+| 26          | \-                | 2017年7月11日\[35\]  | 4.11              | 1.19                                            | 3.24   | Plasma 5.10 及 Applications 17.04 |                                  |
+| 25          | \-                | 2016年11月22日\[36\] | 4.8               | 1.19                                            | 3.22   | Plasma 5.8 及 Applications 16.08  |                                  |
+| 24          | \-                | 2016年6月21日\[37\]  | 4.5               | 1.18                                            | 3.20   | Plasma 5.5 及 Applications 16.04  |                                  |
+| 23          | \-                | 2015年11月3日\[38\]  | 4.2               | 1.17                                            | 3.18   | Plasma 5.4 及 Applications 15.08  |                                  |
+| 22          | \-                | 2015年5月26日\[39\]  | 4.0               | 1.17                                            | 3.16   | Plasma 5.3 及 Applications 15.04  |                                  |
+| 21          | \-\[40\]          | 2014年12月9日\[41\]  | 3.16              | 1.16                                            | 3.14   | 4.14                             |                                  |
+| 20          | Heisenbug         | 2013年12月17日       | 3.11              | 1.14                                            | 3.10   | 4.11                             |                                  |
+| 19          | Schrödinger's Cat | 2013年7月2日         | 3.9               | 1.14                                            | 3.8    | 4.10                             |                                  |
+| 18          | Spherical Cow     | 2013年1月15日        | 3.6               | 1.13                                            | 3.6    | 4.9                              |                                  |
+| 17          | Beefy Miracle     | 2012年5月29日        | 3.3.4             | 1.12                                            | 3.4    | 4.8                              |                                  |
+| 16          | Verne             | 2011年11月8日        | 3.1.0             | 1.11.1                                          | 3.2.1  | 4.7.3                            |                                  |
+| 15          | Lovelock          | 2011年5月24日        | 2.6.38            | 1.10.1                                          | 3.0    | 4.6                              |                                  |
+| 14          | Laughlin          | 2010年11月2日        | 2.6.35            | 1.9.1                                           | 2.32   | 4.5.2                            |                                  |
+| 13          | Goddard           | 2010年5月25日        | 2.6.33            | 1.8.0                                           | 2.30   | 4.4.2                            |                                  |
+| 12          | Constantine       | 2009年11月17日       | 2.6.31            | 1.7.1                                           | 2.28.0 | 4.3.2                            |                                  |
+| 11          | Leonidas          | 2009年6月9日         | 2.6.29.4          | 1.6                                             | 2.26.1 | 4.2.2                            |                                  |
+| 10          | Cambridge         | 2008年11月25日       | 2.6.27            | 1.5.2                                           | 2.24.1 | 4.1.2                            |                                  |
+| 9           | Sulphur           | 2008年5月13日        | 2.6.25            | 1.4.99                                          | 2.22.1 | 4.0.3                            |                                  |
+| 8           | Werewolf          | 2007年11月8日        | 2.6.23.1          | 1.3.0                                           | 2.20.1 | 3.5.8                            |                                  |
+| 7           | Moonshine         | 2007年5月31日        | 2.6.21            | 1.3.0                                           | 2.18.0 | 3.5.6                            |                                  |
+| Fedora Core | 6                 | Zod               | 2006年10月24日       | 2.6.18                                          | 1.1.1  | 2.16.0                           | 3.5.4                            |
+| 5           | Bordeaux          | 2006年3月20日        | 2.6.15            | 1.0.1                                           | 2.14.0 | 3.5.1                            |                                  |
+| 4           | Stentz            | 2005年6月13日        | 2.6.11            | 6.8.2                                           | 2.10.0 | 3.4.0                            |                                  |
+| 3           | Heidelberg        | 2004年11月8日        | 2.6.9             | 6.8.1                                           | 2.8.1  | 3.3.0                            |                                  |
+| 2           | Tettnang          | 2004年5月18日        | 2.6.5             | 6.7.0                                           | 2.6.0  | 3.2.2                            |                                  |
+| 1           | Yarrow            | 2003年11月6日        | 2.4.19            | 4.3.0（[XFree86](../Page/XFree86.md "wikilink")） | 2.4.0  | 3.1.4                            |                                  |
 
 注：由於Fedora每個版本在整個支持週期內會更新上述程序，所以上述表格的程序版本只是該本版發行初始的軟件版本
 
@@ -113,7 +114,7 @@ Fedora版本命名规则：第n版与第n+1版有继承关系，但与第n+2版�
 
 ## 系統需求
 
-以最新的版本（Fedora 20）为准。\[41\]
+以最新的版本（Fedora 20）为准。\[42\]
 
   - CD或DVD驱动器。
   - 1GHz处理器或更快
@@ -130,17 +131,17 @@ Fedora承繼了Red Hat Linux的安裝介面[Anaconda](../Page/Anaconda.md "wikil
 
 ### 引入新技術
 
-因其趨近半年一次的發佈週期，Fedora在引入新技術的部分頗為快速，通常每一個版本都會引入最新版的Xorg、Gnome以及KDE。\[42\]
+因其趨近半年一次的發佈週期，Fedora在引入新技術的部分頗為快速，通常每一個版本都會引入最新版的Xorg、Gnome以及KDE。\[43\]
 
 ### 軟體套件
 
-Fedora使用[yum工具](https://zh.wikipedia.org/wiki/yum "wikilink")（現為[DNF](../Page/DNF_\(软件\).md "wikilink")）來協助[RPM套件的管理](https://zh.wikipedia.org/wiki/RPM "wikilink")，可以有效避免[相依性地狱](../Page/相依性地狱.md "wikilink")的問題。并且，使用者可以利用dnf來方便取得原先Fedora因專利權因素所不包含的功能，例如：MP3播放支援\[43\]、[DVD影片支援](https://zh.wikipedia.org/wiki/DVD "wikilink")\[44\]以及[NTFS](../Page/NTFS.md "wikilink")檔案系統支援\[45\]等功能。
+Fedora使用[yum工具](https://zh.wikipedia.org/wiki/yum "wikilink")（現為[DNF](../Page/DNF_\(软件\).md "wikilink")）來協助[RPM套件的管理](https://zh.wikipedia.org/wiki/RPM "wikilink")，可以有效避免[相依性地狱](../Page/相依性地狱.md "wikilink")的問題。并且，使用者可以利用dnf來方便取得原先Fedora因專利權因素所不包含的功能，例如：MP3播放支援\[44\]、[DVD影片支援](https://zh.wikipedia.org/wiki/DVD "wikilink")\[45\]以及[NTFS](../Page/NTFS.md "wikilink")檔案系統支援\[46\]等功能。
 
-Fedora的官方套件庫在收納上有其多樣性，例如[ClamAV](../Page/ClamAV.md "wikilink")（[防毒軟體](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")）與[Wine](../Page/Wine.md "wikilink")（[Windows軟體轉譯器](https://zh.wikipedia.org/wiki/Windows "wikilink")）都可在官方套件庫中取得，另外也包含許多開放原始碼的遊戲軟體\[46\]。[livna](http://rpm.livna.org/)和[freshrpms](http://freshrpms.net/)等社群也提供了和官方套件庫相容的第三方套件，使用者可從中取得[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")\[47\]和[ATI](https://zh.wikipedia.org/wiki/ATI "wikilink")\[48\]的3D[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")[驅動程式或是](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")[VLC](https://zh.wikipedia.org/wiki/VLC "wikilink")、[MPlayer](../Page/MPlayer.md "wikilink")等播放軟體。
+Fedora的官方套件庫在收納上有其多樣性，例如[ClamAV](../Page/ClamAV.md "wikilink")（[防毒軟體](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")）與[Wine](../Page/Wine.md "wikilink")（[Windows軟體轉譯器](https://zh.wikipedia.org/wiki/Windows "wikilink")）都可在官方套件庫中取得，另外也包含許多開放原始碼的遊戲軟體\[47\]。[livna](http://rpm.livna.org/)和[freshrpms](http://freshrpms.net/)等社群也提供了和官方套件庫相容的第三方套件，使用者可從中取得[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")\[48\]和[ATI](https://zh.wikipedia.org/wiki/ATI "wikilink")\[49\]的3D[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")[驅動程式或是](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")[VLC](https://zh.wikipedia.org/wiki/VLC "wikilink")、[MPlayer](../Page/MPlayer.md "wikilink")等播放軟體。
 
 ### 多平台支援
 
-Fedora官方支援[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")、[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[PowerPC](../Page/PowerPC.md "wikilink")以及[ARM處理器](https://zh.wikipedia.org/wiki/ARM "wikilink")，[遊戲機方面](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")，Fedora Core 5、Fedora Core 6、Fedora 7也已成功安裝在[PlayStation 3上](../Page/PlayStation_3.md "wikilink")。\[49\]
+Fedora官方支援[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")、[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[PowerPC](../Page/PowerPC.md "wikilink")以及[ARM處理器](https://zh.wikipedia.org/wiki/ARM "wikilink")，[遊戲機方面](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")，Fedora Core 5、Fedora Core 6、Fedora 7也已成功安裝在[PlayStation 3上](../Page/PlayStation_3.md "wikilink")。\[50\]
 
 ### 简化目录结构
 
@@ -150,21 +151,21 @@ Fedora官方支援[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")、[x86-64]
 
 ### 系統安裝
 
-Fedora使用的[Anaconda](../Page/Anaconda.md "wikilink")安裝工具預設會啟動圖形界面以及[ACPI支持](https://zh.wikipedia.org/wiki/ACPI "wikilink")，使得安裝時所要求的硬體相容性提高，使用者在安裝時發生錯誤就必須嘗試更改安裝設定\[50\]。
+Fedora使用的[Anaconda](../Page/Anaconda.md "wikilink")安裝工具預設會啟動圖形界面以及[ACPI支持](https://zh.wikipedia.org/wiki/ACPI "wikilink")，使得安裝時所要求的硬體相容性提高，使用者在安裝時發生錯誤就必須嘗試更改安裝設定\[51\]。
 
 ### 發佈週期與維護
 
-Fedora以趨近半年一次的速度發佈新版本，而每個版本目前提供約13個月的更新維護。使用已停止支援版本的使用者必須升級至新版本才能獲得更新，然而舊版與新版之間有時會帶有軟體的重大變動（例如PHP 5與PHP 7、MySQL 4與MySQL 5），這些變動可能會造成使用者原先的服務無法正常運作\[51\]。
+Fedora以趨近半年一次的速度發佈新版本，而每個版本目前提供約13個月的更新維護。使用已停止支援版本的使用者必須升級至新版本才能獲得更新，然而舊版與新版之間有時會帶有軟體的重大變動（例如PHP 5與PHP 7、MySQL 4與MySQL 5），這些變動可能會造成使用者原先的服務無法正常運作\[52\]。
 
 ### SELinux
 
-Fedora預設會啟動[SELinux安全加強模組](https://zh.wikipedia.org/wiki/SELinux "wikilink")（包括為桌面用戶設計的Fedora Workstation版本），使用者在未正確設定（或者未關閉）SELinux的情形下，可能會造成系統的服務或功能無法正常運作\[52\]。
+Fedora預設會啟動[SELinux安全加強模組](https://zh.wikipedia.org/wiki/SELinux "wikilink")（包括為桌面用戶設計的Fedora Workstation版本），使用者在未正確設定（或者未關閉）SELinux的情形下，可能會造成系統的服務或功能無法正常運作\[53\]。
 
 ## 應用
 
-  - [Linux内核網站](http://www.kernel.org/)使用Fedora。\[53\]
-  - [OLPC](../Page/OLPC.md "wikilink")計畫所使用的作業系統基於Fedora。\[54\]
-  - 3D動畫軟體Massive使用Fedora作為其支援系統。\[55\]
+  - [Linux内核網站](http://www.kernel.org/)使用Fedora。\[54\]
+  - [OLPC](../Page/OLPC.md "wikilink")計畫所使用的作業系統基於Fedora。\[55\]
+  - 3D動畫軟體Massive使用Fedora作為其支援系統。\[56\]
 
 ## 派生版本
 
@@ -174,7 +175,7 @@ Fedora預設會啟動[SELinux安全加強模組](https://zh.wikipedia.org/wiki/S
       - [Fusion Linux](https://distrowatch.com/table-mobile.php?distribution=fusion) - 以[Linux Mint为模版](../Page/Linux_Mint.md "wikilink")，更注重桌面用户和可用性的Remix，現已中止。
       - [MythDora](https://zh.wikipedia.org/wiki/MythDora "wikilink") –基于[MythTV](../Page/MythTV.md "wikilink")的家庭剧院系统
       - [Ojuba Linux](https://zh.wikipedia.org/wiki/Ojuba_Linux "wikilink") - 来自阿拉伯
-      - Omega - Rahul Sundaram, Red Hat公司的社区工程师，创建了一个基于Fedora的Remix，通过添加来自RPM Fusion和Livna源的软件，来拥有对全部多媒体（包括MP3和DVD播放）的支持\[56\]
+      - Omega - Rahul Sundaram, Red Hat公司的社区工程师，创建了一个基于Fedora的Remix，通过添加来自RPM Fusion和Livna源的软件，来拥有对全部多媒体（包括MP3和DVD播放）的支持\[57\]
       - [Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") – Red Hat公司提供的企业版Linux，基于当前的Fedora发行版本
       - [Russian Fedora Remix](https://zh.wikipedia.org/wiki/Russian_Fedora_Remix "wikilink") - 为俄罗斯用户调整的Fedora版本，包含专有软件和驱动程序
       - [Xange](https://zh.wikipedia.org/wiki/Xange "wikilink") –（曾用名：Simplis和Vixta）以[KDE](../Page/KDE.md "wikilink")为特色，易于使用的发行版
@@ -185,13 +186,13 @@ Fedora預設會啟動[SELinux安全加強模組](https://zh.wikipedia.org/wiki/S
 <!-- end list -->
 
   - 非活跃项目（超过12个月未发布新版本）：
-      - ASPLinux –来自俄罗斯。ASPLinux包含闭源[NVIDIA和](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[ATI驱动](https://zh.wikipedia.org/wiki/ATI "wikilink")，且提供专有音频、视频格式的解码器支持\[57\]
+      - ASPLinux –来自俄罗斯。ASPLinux包含闭源[NVIDIA和](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[ATI驱动](https://zh.wikipedia.org/wiki/ATI "wikilink")，且提供专有音频、视频格式的解码器支持\[58\]
       - [Aurora SPARC Linux](https://zh.wikipedia.org/wiki/Aurora_SPARC_Linux "wikilink") – SPARC平台上基于Fedora的发行版
       - [BLAG Linux and GNU](https://zh.wikipedia.org/wiki/BLAG_Linux_and_GNU "wikilink") –压缩至单张CD大小的Fedora，并且使用[Debian](../Page/Debian.md "wikilink")的[APT](../Page/APT.md "wikilink")软件包管理系统
-      - Eeedora\[58\] –为[Asus Eee PC设计的发行版](https://zh.wikipedia.org/wiki/Asus_Eee_PC "wikilink")，始于2007年\[59\]
+      - Eeedora\[59\] –为[Asus Eee PC设计的发行版](https://zh.wikipedia.org/wiki/Asus_Eee_PC "wikilink")，始于2007年\[60\]
       - Fox Linux –来自意大利，为家庭用户的需求（如，浏览网页，刻录光盘，播放多媒体内容）而设计
       - [Linux XP](https://zh.wikipedia.org/wiki/Linux_XP "wikilink") –一个商业Linux发行版，致力于替换[Windows XP作为家庭桌面用操作系统](../Page/Windows_XP.md "wikilink")
-      - Nusantara –由印度尼西亚科技部支持的桌面Linux发行版\[60\]
+      - Nusantara –由印度尼西亚科技部支持的桌面Linux发行版\[61\]
       - Open Discovery:集成的高性能生物信息学Linux平台https://archive.is/20121218183103/http://opendiscovery.org.in/
       - [Yellow Dog Linux](../Page/Yellow_Dog_Linux.md "wikilink") – PowerPC平台上基于Fedora的发行版
 
@@ -240,120 +241,63 @@ Fedora預設會啟動[SELinux安全加強模組](https://zh.wikipedia.org/wiki/S
 [Category:自由作業系統](https://zh.wikipedia.org/wiki/Category:自由作業系統 "wikilink") [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink") [Category:红帽公司](https://zh.wikipedia.org/wiki/Category:红帽公司 "wikilink")
 
 1.  [Enterprise Linux or Fedora?](http://www.redhat.com/en_us/USA/rhel/migrate/whichlinux) ，Red Hat, Inc.
-
 2.  [Fedora概述 - 什么是Fedora发行版](http://fedoraproject.org/wiki/Overview#What_is_the_Fedora_Distribution.3F)（英文） - FedoraProject
-
 3.  [Fedora生命周期与维护](http://fedoraproject.org/wiki/LifeCycle)（英文），FedoraProject
-
 4.
-
 5.
-
 6.
-
 7.  Warren Togami, [Fedora Network Proposal（存档）](https://web.archive.org/web/20030219051938/http://www.fedora.us/fedora.html)
-
 8.  [The Fedora Project Board](http://fedoraproject.org/wiki/Board) - FedoraProject
-
 9.
-
 10.
-
 11. [LiveUSB Creator](https://fedorahosted.org/liveusb-creator/)
-
 12. [CustomSpins - Fedora Project Wiki](http://fedoraproject.org/wiki/CustomSpins).
-
 13.
-
 14. [Extra Packages for Enterprise Linux (EPEL)](http://fedoraproject.org/wiki/EPEL)，检查于2009–05–15.
-
 15.
-
 16.
-
 17.
 18.
-
 19.
-
 20.
-
 21. {{ cite web | url=<http://fedoraproject.org/wiki/Legacy> | title=Fedora Legacy | author=[Fedora Project](https://zh.wikipedia.org/wiki/Fedora_Project "wikilink") | accessdate=2007-11-18 }}
-
 22. {{ cite news | url=<http://www.redhat.com/archives/fedora-legacy-list/2006-December/msg00049.html> | title=Fedora Legacy shutting down | author=David Eisenstein | date=2006-12-29 | accessdate=2007-11-18 }}
-
 23.
-
 24. Jesse Keating，[Announcing a change in the Fedora 7 schedule](http://www.redhat.com/archives/fedora-maintainers/2007-February/msg00525.htm)，fedora-maintainers
-
 25. [Fedora Testing Guide](http://fedoraproject.org/wiki/Testing)，Fedora Project
-
 26.
-
 27. [History of Fedora release names](https://fedoraproject.org/wiki/History_of_Fedora_release_names#Release_name_relationships) - FedoraProject
-
 28. [The Fedora Project Will No Longer Name Its Linux Distributions（英文）](http://news.softpedia.com/news/The-Fedora-Project-Will-No-Longer-Name-Their-Linux-Distributions-416156.shtml)Softpedia
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
-39. [The Fedora Project Will No Longer Name Its Linux Distributions（英文）](http://news.softpedia.com/news/The-Fedora-Project-Will-No-Longer-Name-Their-Linux-Distributions-416156.shtml)Softpedia
-
-40. [Releases/21/Schedule（英文）](https://fedoraproject.org/wiki/Releases/21/Schedule)Fedora Project
-
-41. [1](http://docs.fedoraproject.org/en-US/Fedora/18/html/Installation_Quick_Start_Guide/Requirements.html)
-
-42. [Fedora发行版是什么](https://fedoraproject.org/wiki/Overview#What_is_the_Fedora_Distribution.3F)（英文） - FedoraProject
-
-43. [如何在Fedora中播放MP3（英文）](http://www.fedorafaq.org/#mp3) - FedoraFAQ.org
-
-44. [如何在Fedora中播放DVD（英文）](http://www.fedorafaq.org/#dvd) - FedoraFAQ.org
-
-45. [如何在Fedora中读取NTFS文件系统](http://www.fedorafaq.org/#ntfs)（英文） - FedoraFAQ.org
-
-46. [Fedora游戏](https://fedoraproject.org/wiki/Games)（英文） - FedoraProject
-
-47. （英文）[如何在Fedora中启用NVIDIA显卡的3D支持](http://www.fedorafaq.org/#nvidia) - FedoraFAQ.org
-
-48. （英文）[如何在Fedora中启用ATI显卡的3D支持](http://www.fedorafaq.org/#radeon) - FedoraFAQ.org
-
-49. [Fedora Core 5 Playstation 3完整安装指南](http://ps3.qj.net/PS3-Linux-The-void-has-been-filled-Full-install-instructions-for-Fedora-Core-5-/pg/49/aid/73144) （英文）
-
-50. [奇怪的安装问题](http://www.fedorafaq.org/#otherinstall)（英文） - FedoraFAQ.org
-
-51. [Fedora Core的PHP 4（英文）](http://www.mjmwired.net/resources/mjm-fedora-php4.html)
-
-52. [主機能作的保護：權限設定、套件更新、SELinux](http://linux.vbird.org/linux_server/0240network-secure-1.php#packet_flow_protect)  - 鸟哥的Linux私房菜
-
-53. [Site report for www.kernel.org](http://toolbar.netcraft.com/site_report?url=http://www.kernel.org)
-
-54. [LWN.net Weekly Edition for July 6, 2006](http://lwn.net/Articles/189544/)
-
-55. [Massive Software](http://www.massivesoftware.com/requirements.php)
-
-56. [Omega Linux](https://www.redhat.com/archives/fedora-announce-list/2008-September/msg00015.html)，于2009年5月15日检阅。
-
-57. [ASPLinux website](http://www.asplinux.ru/) ，于2009年5月15日检阅
-
-58.
-
+39.
+40. [The Fedora Project Will No Longer Name Its Linux Distributions（英文）](http://news.softpedia.com/news/The-Fedora-Project-Will-No-Longer-Name-Their-Linux-Distributions-416156.shtml)Softpedia
+41. [Releases/21/Schedule（英文）](https://fedoraproject.org/wiki/Releases/21/Schedule)Fedora Project
+42. [1](http://docs.fedoraproject.org/en-US/Fedora/18/html/Installation_Quick_Start_Guide/Requirements.html)
+43. [Fedora发行版是什么](https://fedoraproject.org/wiki/Overview#What_is_the_Fedora_Distribution.3F)（英文） - FedoraProject
+44. [如何在Fedora中播放MP3（英文）](http://www.fedorafaq.org/#mp3) - FedoraFAQ.org
+45. [如何在Fedora中播放DVD（英文）](http://www.fedorafaq.org/#dvd) - FedoraFAQ.org
+46. [如何在Fedora中读取NTFS文件系统](http://www.fedorafaq.org/#ntfs)（英文） - FedoraFAQ.org
+47. [Fedora游戏](https://fedoraproject.org/wiki/Games)（英文） - FedoraProject
+48. （英文）[如何在Fedora中启用NVIDIA显卡的3D支持](http://www.fedorafaq.org/#nvidia) - FedoraFAQ.org
+49. （英文）[如何在Fedora中启用ATI显卡的3D支持](http://www.fedorafaq.org/#radeon) - FedoraFAQ.org
+50. [Fedora Core 5 Playstation 3完整安装指南](http://ps3.qj.net/PS3-Linux-The-void-has-been-filled-Full-install-instructions-for-Fedora-Core-5-/pg/49/aid/73144) （英文）
+51. [奇怪的安装问题](http://www.fedorafaq.org/#otherinstall)（英文） - FedoraFAQ.org
+52. [Fedora Core的PHP 4（英文）](http://www.mjmwired.net/resources/mjm-fedora-php4.html)
+53. [主機能作的保護：權限設定、套件更新、SELinux](http://linux.vbird.org/linux_server/0240network-secure-1.php#packet_flow_protect)  - 鸟哥的Linux私房菜
+54. [Site report for www.kernel.org](http://toolbar.netcraft.com/site_report?url=http://www.kernel.org)
+55. [LWN.net Weekly Edition for July 6, 2006](http://lwn.net/Articles/189544/)
+56. [Massive Software](http://www.massivesoftware.com/requirements.php)
+57. [Omega Linux](https://www.redhat.com/archives/fedora-announce-list/2008-September/msg00015.html)，于2009年5月15日检阅。
+58. [ASPLinux website](http://www.asplinux.ru/) ，于2009年5月15日检阅
 59.
-
-60. [Tentang Nusantara](http://www.nusantara-linux.web.id/?q=content/tentang-nusantara)
+60.
+61. [Tentang Nusantara](http://www.nusantara-linux.web.id/?q=content/tentang-nusantara)

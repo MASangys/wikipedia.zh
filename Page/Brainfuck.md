@@ -4,7 +4,7 @@
 
 Müller的目标是建立一种简单的、可以用最小的[编译器来实现的](https://zh.wikipedia.org/wiki/编译器 "wikilink")、符合[图灵完全思想的编程语言](https://zh.wikipedia.org/wiki/图灵完全 "wikilink")。这种语言由八种[运算符构成](https://zh.wikipedia.org/wiki/运算符 "wikilink")，为[Amiga](../Page/Amiga.md "wikilink")机器编写的编译器（第二版）只有240个[字节](../Page/字节.md "wikilink")大小。\[1\]
 
-就象它的名字所暗示的，Brainfuck[程序很难读懂](../Page/计算机程序.md "wikilink")。尽管如此，Brainfuck[图灵机](../Page/图灵机.md "wikilink")一样可以完成任何计算任务。虽然Brainfuck的计算方式如此与众不同，但它确实能够正确运行。
+就像它的名字所暗示的，Brainfuck[程序很难读懂](../Page/计算机程序.md "wikilink")。尽管如此，Brainfuck[图灵机](../Page/图灵机.md "wikilink")一样可以完成任何计算任务。虽然Brainfuck的计算方式如此与众不同，但它确实能够正确运行。
 
 这种语言基于一个简单的机器模型，除了指令，这个机器还包括：一个以字节为单位、被初始化为零的[数组](../Page/数组.md "wikilink")、一个指向该数组的[指针](https://zh.wikipedia.org/wiki/指针 "wikilink")（初始时指向数组的第一个字节）、以及用于输入输出的两个[字节流](https://zh.wikipedia.org/wiki/字节流 "wikilink")。
 
@@ -163,7 +163,7 @@ Brainfuck程序可以用下面的替换方法翻译成[C语言](https://zh.wikip
 ## 外部链接
 
   - [Brian Raiter, Muppetlabs. **Brainfuck：八条指令的图灵完全编程语言**](http://www.muppetlabs.com/~breadbox/bf/)。这个网站包括一个Brainfuck程序[quine](../Page/自產生程式.md "wikilink")。
-  - [Panu Kalliokoski. **Brainfuck档案**](http://esoteric.sange.fi/brainfuck/)有许多Brainfuck实现、程序和quine。
+  - [Panu Kalliokoski. **Brainfuck档案**](https://web.archive.org/web/20031206060451/http://esoteric.sange.fi/brainfuck/)有许多Brainfuck实现、程序和quine。
   - [Cat's Eye Technologies. **Brainfuck**](https://web.archive.org/web/20030207172452/http://www.catseye.mb.ca/esoteric/bf/)
   - [Frans Faase. **BF is Turing Complete**](http://home.planet.nl/~faase009/Ha_bf_Turing.html)
   - [**Brainfucked** - Brainfuck Compiler](https://web.archive.org/web/20050303201936/http://home.arcor.de/partusch/html_en/bfd.html)

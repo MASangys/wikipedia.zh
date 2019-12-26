@@ -24,9 +24,11 @@ VCD的[比特率](../Page/比特率.md "wikilink")和普通[音樂CD相當](http
 
 ## 應用
 
-VCD僅在[亞洲地區被廣泛使用](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。在部份國家或地區，VCD和[DVD在發行市場上已完全取代](https://zh.wikipedia.org/wiki/DVD "wikilink")[錄影帶和](https://zh.wikipedia.org/wiki/錄影帶 "wikilink")[鐳射影碟](../Page/鐳射影碟.md "wikilink")的地位。
+VCD因為其畫面質素較低標清電視低播放時間較短，所以在全球起初九十年代中僅在螢幕較小的電腦上流行使用。
 
-VCD因為除了[東南亞和](https://zh.wikipedia.org/wiki/東南亞 "wikilink")[大中華地區外](https://zh.wikipedia.org/wiki/大中華地區 "wikilink")，從未被普及過便直接從錄影帶過渡向DVD，所以被認為會終將在全球被DVD所取代。但是由於它的一些特點，還將保持一段時間的市場。2010年代中才漸逐停產。
+作為給電視機播放的媒在晚[九十年代到](https://zh.wikipedia.org/wiki/九十年代 "wikilink")[2000年代](../Page/2000年代.md "wikilink")，部分[亞洲和](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[非洲](../Page/非洲.md "wikilink")地區被廣泛使用。這是該等國家或地區因為其是使用和最初出現的小型光碟[CD](../Page/CD.md "wikilink")相似規格和技術，所以在剛在八十年代才購入生產CD設備的廠商不用重覆投資，所以VCD在發行市場上先完全取代了在當地未普及的[清晰度較高](https://zh.wikipedia.org/wiki/清晰度 "wikilink")，但價格貴和尺寸大而使用不便先錄好節自的[錄影帶和](https://zh.wikipedia.org/wiki/錄影帶 "wikilink")[鐳射影碟](../Page/鐳射影碟.md "wikilink")的地位。
+
+VCD因為除了[東南亞和](https://zh.wikipedia.org/wiki/東南亞 "wikilink")[大中華地區外](https://zh.wikipedia.org/wiki/大中華地區 "wikilink")，從未被普及過便直接從錄影帶過渡向DVD。所以被認為會終將在全球被DVD所取代。但是由於它的一些特點，還將保持一段時間的市場。2010年代中才在香港等地漸逐停產。而在新世紀電視機才開始普及的非洲國家，在約十年前仍然當作最主要正版視像媒體\[2\]。
 
   - VCD沒有像[DVD區域碼](../Page/DVD區域碼.md "wikilink")一樣的[區域限制](../Page/區域限制.md "wikilink")，這意味著它可以在任何兼容機器上觀看。
   - 有些節目因為成本問題，不會製作[DVD或VHS](https://zh.wikipedia.org/wiki/DVD "wikilink")[錄像帶版本](https://zh.wikipedia.org/wiki/錄像帶 "wikilink")，購買者只能購買VCD版本。
@@ -52,3 +54,4 @@ SVCD是VCD的改進標準，它採用[MPEG-2](../Page/MPEG-2.md "wikilink")壓�
 [Category:電腦儲存媒體](https://zh.wikipedia.org/wiki/Category:電腦儲存媒體 "wikilink") [Category:影像儲存](https://zh.wikipedia.org/wiki/Category:影像儲存 "wikilink")
 
 1.  [80后记忆犹新 盘点那些逝去的家电品牌-中关村在线](http://m.zol.com.cn/article/5206786.html)
+2.  地下經濟 Stealth of Nations: The Global Rise of the Informal Economy 中文版ISBN: 9789862483039，原著於2011年美國初版

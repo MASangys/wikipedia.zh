@@ -389,9 +389,7 @@ ADO包含的对象能够创建、维护、删除给定数据源的记录。但�
 
 {{-}}
 
-ㄍ
-
-[Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink")
+[Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink") [Category:数据库API](https://zh.wikipedia.org/wiki/Category:数据库API "wikilink")
 
 1.  [MSDN KB283115: List of references that you must set when you work with Access 2002](https://support.microsoft.com/en-us/kb/283115)
 2.  Microsoft Knowledge Base 2640696: An ADO-based application that is compiled in Windows 7 SP1 or Windows Server 2008 R2 SP1 does not run in earlier versions of Windows

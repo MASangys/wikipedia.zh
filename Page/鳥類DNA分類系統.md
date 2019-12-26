@@ -28,7 +28,7 @@
                                           - [鹤鸵族Casuariini](https://zh.wikipedia.org/wiki/鹤鸵族 "wikilink")
                                           - [鸸鹋族Dromariini](https://zh.wikipedia.org/wiki/鸸鹋族 "wikilink")
                                   - [无翼鸟科Apterygidae](https://zh.wikipedia.org/wiki/无翼鸟目 "wikilink")(澳洲鹬鸵)
-              - [䳍形目Tinamiformes](https://zh.wikipedia.org/wiki/䳍形目 "wikilink")(会飞)
+              - [䳍形目](../Page/䳍形目.md "wikilink")Tinamiformes(会飞)
                   - \-
                       - \-
                           - \-

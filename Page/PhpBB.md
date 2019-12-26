@@ -2,7 +2,7 @@
 
 ## 历史
 
-詹姆士·艾金森（James Atkinson）在2000年6月17日创设PHPBB，并使用[UBB作为网站上的论坛](https://zh.wikipedia.org/wiki/Ultimate_Bulletin_Board "wikilink")。Nathan Codding与John Abela（现在皆为团队中的样板开发成员）加入phpBB开发，并协助1.0.0版起跑。2000年7月1日率先公开测试phpBB[1](http://forums.devshed.com/showthread.php?threadid=4914)。
+詹姆士·艾金森（James Atkinson）在2000年6月17日创设PHPBB，并使用[UBB作为网站上的论坛](https://zh.wikipedia.org/wiki/Ultimate_Bulletin_Board "wikilink")。Nathan Codding与John Abela（现在皆为团队中的样板开发成员）加入phpBB开发，并协助1.0.0版起跑。2000年7月1日率先公开测试phpBB[1](https://web.archive.org/web/20050408071811/http://forums.devshed.com/showthread.php?threadid=4914)。
 
 2000年12月16日释出PHPBB 1.0.0，随后改进主要的1.x版本。2001年2月16日释出PHPBB 1.2.0，同年4月25日释出1.4.0。2001年11月6日释出最后的PHPBB 1.x系列 - 1.4.4。在1.x系列的时间中，Bart van Bragt，Paul S. Owen（现为合作项目的管理者），Johnathan Haase（现为样板开发成员）与Frank Feingold都加入了PHPBB团队。
 
@@ -89,14 +89,9 @@ phpBB 2.0.x计划开始于2001年2月17日，渐显现phpBB开发人员对研发
 [Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink") [Category:SourceForge專案](https://zh.wikipedia.org/wiki/Category:SourceForge專案 "wikilink") [Category:自由网络论坛软件](https://zh.wikipedia.org/wiki/Category:自由网络论坛软件 "wikilink") [Category:2000年面世的產品](https://zh.wikipedia.org/wiki/Category:2000年面世的產品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.

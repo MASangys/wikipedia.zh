@@ -320,7 +320,7 @@
 <td><p><a href="../Page/德克·诺维茨基.md" title="wikilink">德克·诺维茨基</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/達拉斯小牛队" title="wikilink">達拉斯小牛队</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/達拉斯小牛隊" title="wikilink">達拉斯小牛隊</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2012年</p></td>

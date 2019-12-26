@@ -2,7 +2,7 @@
 
 本片的创作理念源于斯皮尔伯格在[父母于](https://zh.wikipedia.org/wiki/父母 "wikilink")1960年[离婚后想像出来的朋友](https://zh.wikipedia.org/wiki/离婚 "wikilink")。1980年，他与马西森会面并在已陷入僵局的科幻[恐怖片项目](https://zh.wikipedia.org/wiki/恐怖片 "wikilink")《夜空》（）基础上发展出新的故事。影片于1981年9月到12月期间在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")进行摄制，拍摄成本为1050万[美元](../Page/美元.md "wikilink")。与其他大部分电影不同，本片基本上是按时间顺序拍摄的，这样有利于小演员们给出更具可信度的演出。
 
-影片于1982年6月11日经[环球影业](../Page/环球影业.md "wikilink")发行，是一部成功的[大片](../Page/大片.md "wikilink")，[票房收入超越](https://zh.wikipedia.org/wiki/票房 "wikilink")《[星球大战](https://zh.wikipedia.org/wiki/星球大战第四集：新希望 "wikilink")》，成为当时的[历史电影票房总冠军](https://zh.wikipedia.org/wiki/最高电影票房收入列表 "wikilink")，这个纪录接下来保持了十年之久才于[1993年由斯皮尔伯格](https://zh.wikipedia.org/wiki/1993年电影 "wikilink")[导演的另一部电影](https://zh.wikipedia.org/wiki/导演 "wikilink")《[侏罗纪公园](https://zh.wikipedia.org/wiki/侏罗纪公园 "wikilink")》打破。评论家称赞这是一个永恒的友情故事，[烂蕃茄的一项调查也将其评为有史以来最伟大的科幻片](https://zh.wikipedia.org/wiki/烂蕃茄 "wikilink")。电影于[1985年再次上映](https://zh.wikipedia.org/wiki/1985年电影 "wikilink")，后又于[2002年为纪念影片诞生](https://zh.wikipedia.org/wiki/2002年电影 "wikilink")20周年重新发行，其中有部分镜头有所改动，还增加了一些内容。
+影片于1982年6月11日经[环球影业](../Page/环球影业.md "wikilink")发行，是一部成功的[大片](../Page/大片.md "wikilink")，[票房收入超越](https://zh.wikipedia.org/wiki/票房 "wikilink")《[星球大战](https://zh.wikipedia.org/wiki/星球大战第四集：新希望 "wikilink")》，成为当时的[历史电影票房总冠军](https://zh.wikipedia.org/wiki/最高电影票房收入列表 "wikilink")，这个纪录接下来保持了十年之久才于[1993年由斯皮尔伯格](https://zh.wikipedia.org/wiki/1993年电影 "wikilink")[导演](../Page/导演.md "wikilink")的另一部电影《[侏罗纪公园](https://zh.wikipedia.org/wiki/侏罗纪公园 "wikilink")》打破。评论家称赞这是一个永恒的友情故事，[烂蕃茄的一项调查也将其评为有史以来最伟大的科幻片](https://zh.wikipedia.org/wiki/烂蕃茄 "wikilink")。电影于[1985年再次上映](https://zh.wikipedia.org/wiki/1985年电影 "wikilink")，后又于[2002年为纪念影片诞生](https://zh.wikipedia.org/wiki/2002年电影 "wikilink")20周年重新发行，其中有部分镜头有所改动，还增加了一些内容。
 
 ## 剧情
 
@@ -60,7 +60,7 @@
 
 [ETChrist.jpg](https://zh.wikipedia.org/wiki/File:ETChrist.jpg "fig:ETChrist.jpg") 斯皮尔伯格是因父母离婚而构想了《外星人》的故事\[53\]。《[华盛顿邮报](../Page/华盛顿邮报.md "wikilink")》的加里·阿诺德（）认为影片“从本质上是一种精神性的自传”，描述了电影人作为典型郊区孩子所拥有的非典型的神秘而热切的想象\[54\]。片中埃利奥特通过把[温度计贴在](https://zh.wikipedia.org/wiki/温度计 "wikilink")[电灯泡上](https://zh.wikipedia.org/wiki/电灯泡 "wikilink")，以及用电热毯盖住自己的头部来佯装生病，斯皮尔伯格儿时经常使用这样的把戏\[55\]。迈克尔对埃利奥特的戏弄呼应着斯皮尔伯格对小妹妹的捉弄\[56\]，迈克尔从一开始经常玩弄弟弟的坏哥哥演变成保护他的好兄长也折射出斯皮尔伯格在失去父亲后开始照顾妹妹的经历\[57\]。
 
-评论家关注埃利奥特和境遇的相似之处，埃利奥特被父亲抛弃，则被同胞遗留在地球上\[58\]\[59\]。《[纽约时报](../Page/纽约时报.md "wikilink")》的[A·O·斯科特](https://zh.wikipedia.org/wiki/A·O·斯科特 "wikilink")（）在文章中写道，虽然“更明显是个绝望的弃儿”，但埃利奥特也以自己的方式遭受着渴望家庭的折磨\[60\]。也正好是由埃利奥特（）名字的第一和最后一个字母组成\[61\]。成长是电影的核心主题，评论家亨利·希恩（）形容本片是从一个迷失男孩（埃利奥特）的视角重新讲述了[彼得潘](../Page/彼得潘.md "wikilink")的故事：没有埃利奥特的帮助，无法在地球上生存，就像彼得潘在情感上无法在[梦幻岛生存下去一样](https://zh.wikipedia.org/wiki/梦幻岛 "wikilink")，政府部门的[科学家就像是梦幻岛上的](https://zh.wikipedia.org/wiki/科学家 "wikilink")[海盗](../Page/海盗.md "wikilink")\[62\]。《纽约时报》的文森特·坎比（）也有类似的看法，称片中“来自……《[小飞侠](../Page/小飛俠_\(電影\).md "wikilink")》和《[绿野仙踪](../Page/綠野仙蹤_\(1939年電影\).md "wikilink")》的元素随处可见”\[63\]。一些评论家认为斯皮尔伯格对郊区的描写非常黑暗，与人们的普遍看法相反。据·斯科特表示，“郊区中无人看管的儿童和郁郁寡欢的家长，破损的[玩具](../Page/玩具.md "wikilink")和名牌[垃圾食品](../Page/垃圾食品.md "wikilink")，这听起来更像是[瑞蒙·卡佛](../Page/瑞蒙·卡佛.md "wikilink")的故事”\[64\]。沙龙网站（）的查尔斯·泰勒（）写道：“斯皮尔伯格的电影虽然经常被视为对好莱坞理想化家庭和郊区的反映，但实际上并非如此。这些家庭都背负着文化批评家卡罗尔·安·马林（）所说的那种‘苦心经营的标志’”\[65\]。
+评论家关注埃利奥特和境遇的相似之处，埃利奥特被父亲抛弃，则被同胞遗留在地球上\[58\]\[59\]。《[纽约时报](../Page/纽约时报.md "wikilink")》的[A·O·斯科特](https://zh.wikipedia.org/wiki/A·O·斯科特 "wikilink")（）在文章中写道，虽然“更明显是个绝望的弃儿”，但埃利奥特也以自己的方式遭受着渴望家庭的折磨\[60\]。也正好是由埃利奥特（）名字的第一和最后一个字母组成\[61\]。成长是电影的核心主题，评论家亨利·希恩（）形容本片是从一个迷失男孩（埃利奥特）的视角重新讲述了[彼得潘](../Page/彼得潘.md "wikilink")的故事：没有埃利奥特的帮助，无法在地球上生存，就像彼得潘在情感上无法在[梦幻岛生存下去一样](https://zh.wikipedia.org/wiki/梦幻岛 "wikilink")，政府部门的[科学家](../Page/科学家.md "wikilink")就像是梦幻岛上的[海盗](../Page/海盗.md "wikilink")\[62\]。《纽约时报》的文森特·坎比（）也有类似的看法，称片中“来自……《[小飞侠](../Page/小飛俠_\(電影\).md "wikilink")》和《[绿野仙踪](../Page/綠野仙蹤_\(1939年電影\).md "wikilink")》的元素随处可见”\[63\]。一些评论家认为斯皮尔伯格对郊区的描写非常黑暗，与人们的普遍看法相反。据·斯科特表示，“郊区中无人看管的儿童和郁郁寡欢的家长，破损的[玩具](../Page/玩具.md "wikilink")和名牌[垃圾食品](../Page/垃圾食品.md "wikilink")，这听起来更像是[瑞蒙·卡佛](../Page/瑞蒙·卡佛.md "wikilink")的故事”\[64\]。沙龙网站（）的查尔斯·泰勒（）写道：“斯皮尔伯格的电影虽然经常被视为对好莱坞理想化家庭和郊区的反映，但实际上并非如此。这些家庭都背负着文化批评家卡罗尔·安·马林（）所说的那种‘苦心经营的标志’”\[65\]。
 
 还有些影评人在和[耶稣](../Page/耶稣.md "wikilink")之间找到了宗教性的联系\[66\]\[67\]。安德鲁·奈吉尔斯（）形容的故事就是先因“军事科学而受难”，再“由爱和信仰复活”\[68\]。科幻小说作家和评论家[亚当·罗伯茨则称这部电影是世俗化的类宗教神话](https://zh.wikipedia.org/wiki/亚当·罗伯茨 "wikilink")，认为整个剧情是对《[新约](https://zh.wikipedia.org/wiki/新约 "wikilink")》中“凡要承受神国的，若不想小孩子，断不能进去”的重新阐释，电影情节更是多次与[基督](../Page/基督.md "wikilink")的生命经历相和\[69\]。据斯皮尔伯格的传记作者[约瑟夫·麦克布莱德](https://zh.wikipedia.org/wiki/约瑟夫·麦克布莱德 "wikilink")（）表示，环球影业设计的海报让人想到[米开朗基罗](../Page/米开朗基罗.md "wikilink")的《[创造亚当](https://zh.wikipedia.org/wiki/创造亚当 "wikilink")》，上面的商标则写着“”（意为“和平”），希望能够吸引更多的基督徒观看影片\[70\]。斯皮尔伯格则表示，自己无意让电影变成宗教寓言，他开玩笑说：“要是我去和我妈说，‘妈，我想拍部基督教寓言式的电影。’你猜她会怎么说？她在洛杉矶经营过一家犹太餐馆”\[71\]。
 
@@ -124,7 +124,7 @@
 
 威廉·科兹温科（）撰写了本片的改编小说，他还写了部续作《：绿色星球的书》（），于1985年出版。该书中回到了自己的星球，但随后遭到降职和流放。于是决定返回地球，并在这一过程中违反了自己星球上几乎所有的规矩。\[149\]1990年，[佛罗里达环球影城开放了主题公园景点](https://zh.wikipedia.org/wiki/佛罗里达环球影城 "wikilink")“冒险”（），这个耗资4000万美元的景点中会有向游客说再见，并且还会说出游客的名字\[150\]。
 
-1998年，[进步公司](https://zh.wikipedia.org/wiki/进步公司 "wikilink")（）制作的公益广告获得了使用形象的授权。广告中用的嗓音提醒[司机系好](https://zh.wikipedia.org/wiki/司机 "wikilink")[安全带](../Page/座位安全帶.md "wikilink")。美国的多条道路旁边都出现了系着安全带的交通标志\[151\]。1999年，[英國电信发起了](https://zh.wikipedia.org/wiki/英國电信 "wikilink")“保持联络”系列宣传活动，出现在多个[广告中](https://zh.wikipedia.org/wiki/广告 "wikilink")。宣传活动的口号是“英国电信拥有”（），这个“”也可以是“”（意为“附加技术”）的缩写\[152\]。根据斯皮尔伯格的建议，[乔治·卢卡斯](../Page/乔治·卢卡斯.md "wikilink")在《[星球大战前传1：幽灵的威胁](https://zh.wikipedia.org/wiki/星球大战前传1：幽灵的威胁 "wikilink")》中把物种作为其中的背景角色\[153\]。
+1998年，[进步公司](https://zh.wikipedia.org/wiki/进步公司 "wikilink")（）制作的公益广告获得了使用形象的授权。广告中用的嗓音提醒[司机系好](https://zh.wikipedia.org/wiki/司机 "wikilink")[安全带](../Page/座位安全帶.md "wikilink")。美国的多条道路旁边都出现了系着安全带的交通标志\[151\]。1999年，[英國电信发起了](https://zh.wikipedia.org/wiki/英國电信 "wikilink")“保持联络”系列宣传活动，出现在多个[广告中](https://zh.wikipedia.org/wiki/广告 "wikilink")。宣传活动的口号是“英国电信拥有”（），这个“”也可以是“”（意为“附加技术”）的缩写\[152\]。根据斯皮尔伯格的建议，[乔治·卢卡斯](../Page/乔治·卢卡斯.md "wikilink")在《[星際大戰首部曲：威脅潛伏](../Page/星際大戰首部曲：威脅潛伏.md "wikilink")》中把物种作为其中的背景角色\[153\]。
 
 ## 参考资料
 
@@ -141,59 +141,41 @@
 [Category:1982年电影](https://zh.wikipedia.org/wiki/Category:1982年电影 "wikilink") [Category:2002年电影](https://zh.wikipedia.org/wiki/Category:2002年电影 "wikilink") [Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:1980年代科幻片](https://zh.wikipedia.org/wiki/Category:1980年代科幻片 "wikilink") [Category:美國科幻片](https://zh.wikipedia.org/wiki/Category:美國科幻片 "wikilink") [Category:人與外星生物接觸題材電影](https://zh.wikipedia.org/wiki/Category:人與外星生物接觸題材電影 "wikilink") [Category:美國國家電影保護局典藏](https://zh.wikipedia.org/wiki/Category:美國國家電影保護局典藏 "wikilink") [Category:金球獎最佳劇情片](https://zh.wikipedia.org/wiki/Category:金球獎最佳劇情片 "wikilink") [Category:奥斯卡最佳音效剪辑奖获奖电影](https://zh.wikipedia.org/wiki/Category:奥斯卡最佳音效剪辑奖获奖电影 "wikilink") [Category:奧斯卡最佳原創配樂獲獎電影](https://zh.wikipedia.org/wiki/Category:奧斯卡最佳原創配樂獲獎電影 "wikilink") [Category:奥斯卡最佳视觉效果获奖电影](https://zh.wikipedia.org/wiki/Category:奥斯卡最佳视觉效果获奖电影 "wikilink") [Category:斯蒂芬·斯皮尔伯格电影](https://zh.wikipedia.org/wiki/Category:斯蒂芬·斯皮尔伯格电影 "wikilink") [Category:洛杉矶取景电影](https://zh.wikipedia.org/wiki/Category:洛杉矶取景电影 "wikilink") [Category:环球影业电影](https://zh.wikipedia.org/wiki/Category:环球影业电影 "wikilink") [Category:安培林娛樂電影](https://zh.wikipedia.org/wiki/Category:安培林娛樂電影 "wikilink") [Category:日本電影學院獎最佳外語片](https://zh.wikipedia.org/wiki/Category:日本電影學院獎最佳外語片 "wikilink") [Category:奥斯卡最佳音响效果获奖电影](https://zh.wikipedia.org/wiki/Category:奥斯卡最佳音响效果获奖电影 "wikilink") [Category:電影旬報十佳獎最佳外語片](https://zh.wikipedia.org/wiki/Category:電影旬報十佳獎最佳外語片 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
 7.
-
 8.
-
 9.  "The Making of E.T.: The Extra-Terrestrial"--from the "E.T. Signature Collection LaserDisc", MCA/Universal Home Video, 1996
-
 10.
-
 11.
 12.
 13.
-
 14.
 15.
 16.
-
 17.
 18.
 19.
 20.
 21.
-
 22.
 23.
 24. E.T. the Extra-Terrestrial: Production Notes (DVD booklet)
-
 25.
 26.
 27.
 28.
-
 29.
 30.
 31.
-
 32.
 33.
-
 34.
-
 35.
-
 36.
-
 37.
 38.
 39.
@@ -203,196 +185,111 @@
 43.
 44.
 45. James Lipton (host). (2001). *Inside the Actors Studio*: Steven Spielberg. \[Documentary\]. Bravo.
-
 46.
-
 47. Karlin, Fred, and Rayburn Wright. On the Track: A Guide to Contemporary Film Scoring. New York: Schirmer Books, 1990.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
 56.
 57.
 58. Thomas A. Sebeok. "Enter Textuality: Echoes from the Extra-Terrestrial." In *Poetics Today* (1985), Porter Institute for Poetics and Semiotics. Published by Duke University Press.
-
 59. Ilsa J. Beck, "The Look Back in E.T.," *Cinema Journal* 31(4) (1992): 25–41, 33.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
 65.
 66.
-
 67.
-
 68.
-
 69.
-
 70.
 71.
 72.
 73.
 74. Andrew Gordon. "E.T. as a Fairy Tale," *Science Fiction Studies* 10 (1983): 298–305.
-
 75.
 76.
 77.
-
 78.
 79.
-
 80.
-
 81.
-
 82.
-
 83.
 84.
-
 85.
-
 86.
-
 87.
 88.
-
 89.
-
 90.
 91.
-
 92.
-
 93.
 94.
-
 95.
-
 96.
-
 97.
-
 98.
 99.
-
 100.
-
 101.
-
 102.
-
 103.
-
 104.
 105.
 106.
-
 107.
 108.
-
 109.
-
 110.
-
 111.
-
 112.
-
 113.
-
 114.
-
 115.
-
 116.
-
 117.
-
 118.
-
 119.
-
 120.
-
 121.
-
 122.
-
 123.
-
 124.
-
 125.
-
 126.
-
 127.
-
 128.
-
 129.
-
 130.
-
 131.
-
 132.
 133.
-
 134.
 135.
-
 136.
-
 137.
-
 138.
-
 139.
-
 140.
-
 141.
-
 142.
-
 143.
-
 144.
-
 145.
-
 146.
-
 147.
-
 148.
-
 149.
-
 150.
 151.
-
 152.
-
 153.

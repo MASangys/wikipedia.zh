@@ -99,5 +99,4 @@ iTunes 4.7或later</p></td>
 [Category:IPod](https://zh.wikipedia.org/wiki/Category:IPod "wikilink") [Category:2004年面世的產品](https://zh.wikipedia.org/wiki/Category:2004年面世的產品 "wikilink")
 
 1.
-
 2.

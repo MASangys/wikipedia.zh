@@ -64,7 +64,6 @@ DragonFly BSD自FreeBSD 4.8分支後引入了許多FreeBSD 4與5的新功能以�
 [Category:BSD](https://zh.wikipedia.org/wiki/Category:BSD "wikilink") [Category:自由作業系統](https://zh.wikipedia.org/wiki/Category:自由作業系統 "wikilink") [Category:FreeBSD](https://zh.wikipedia.org/wiki/Category:FreeBSD "wikilink")
 
 1.  [Annoucning DragonFly BSD\!](http://lists.freebsd.org/pipermail/freebsd-current/2003-July/006889.html)
-
 2.
 3.
 4.  [DragonFly Design Goals](http://www.dragonflybsd.org/docs/goals.shtml)

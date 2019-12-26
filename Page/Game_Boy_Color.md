@@ -14,7 +14,7 @@ Game Boy Color在日本的主要竞争对手是16位灰色掌机[Neo Geo Pocket�
   - **[ROM](https://zh.wikipedia.org/wiki/ROM "wikilink"):** 8 MB
   - **[RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink"):** 32 KB
   - **[顯示記憶體](https://zh.wikipedia.org/wiki/顯示記憶體 "wikilink"):** 16 KB
-  - **電源:**2個三號[乾電池](../Page/乾電池.md "wikilink")，約能使用30小時，或3[伏特](../Page/伏特.md "wikilink")變壓器。
+  - **電源:**2個[三號](../Page/AA電池.md "wikilink")[乾電池](../Page/乾電池.md "wikilink")，約能使用30小時，或3[伏特](../Page/伏特.md "wikilink")變壓器。
   - **尺寸:**75 mm x 27 mm x 133 mm
 
 ## 游戏

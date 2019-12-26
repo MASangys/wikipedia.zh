@@ -133,20 +133,15 @@
   - [北京中科红旗软件技术有限公司](http://www.redflag-linux.com/)
   - [DistroWatch.com中关于红旗linux的信息](http://www.distrowatch.com/table.php?distribution=redflag)
   - [Raising the Red Flag (Linux Journal)](http://www.linuxjournal.com/article.php?sid=5784)
-  - [*Red Flag Linux Desktop 6.0* at TuxDistro.com](http://www.tuxdistro.com/torrents-details.php?id=610) <small>*([torrent](https://zh.wikipedia.org/wiki/BitTorrent "wikilink") download)*</small>
+  - [*Red Flag Linux Desktop 6.0* at TuxDistro.com](https://web.archive.org/web/20071016114648/http://www.tuxdistro.com/torrents-details.php?id=610) <small>*([torrent](https://zh.wikipedia.org/wiki/BitTorrent "wikilink") download)*</small>
   - [中科红旗墓碑：自主梦倒在市场前](http://tech.163.com/14/0213/10/9KV44OBQ000915BD.html)
 
 [Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink") [Category:國家資助的Linux發行版](https://zh.wikipedia.org/wiki/Category:國家資助的Linux發行版 "wikilink") [Category:中國作業系統](https://zh.wikipedia.org/wiki/Category:中國作業系統 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.  [紅旗-站在变革前沿](http://www.redflag-linux.com/news/today/1000001427.html)
-
 7.

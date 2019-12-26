@@ -20,7 +20,9 @@ GNOME最初是GNU网络对象模型环境（）的缩写，但是已经被废弃
 
 ### GNOME 2
 
-[Gnome-screenshot-full.jpg](https://zh.wikipedia.org/wiki/File:Gnome-screenshot-full.jpg "fig:Gnome-screenshot-full.jpg") GNOME 2與傳統桌面界面十分相似，擁有一個用戶可以與不同例如窗口、圖示、檔案等虛擬物件互動的桌面環境。GNOME 2使用[Metacity](../Page/Metacity.md "wikilink")為它的預設[窗口管理器](https://zh.wikipedia.org/wiki/窗口管理器 "wikilink")。GNOME 2的窗口、程式和檔案管理和一般的桌面操作系统十分相似。在預設的設定中，桌面有一個啓動選單，可以用以開啓已安裝的程式及檔案；己存在的窗口在下方的工作列列出；而在右上角則有一個通知區以顯示在背景運行的程式。不過，這些功能可以隨用戶喜好而更改位置、取代或甚至移除。
+[Ubuntu_10.10_preview.png](https://zh.wikipedia.org/wiki/File:Ubuntu_10.10_preview.png "fig:Ubuntu_10.10_preview.png")。\]\]
+
+GNOME 2與傳統桌面界面十分相似，擁有一個用戶可以與不同例如窗口、圖示、檔案等虛擬物件互動的桌面環境。GNOME 2使用[Metacity](../Page/Metacity.md "wikilink")為它的預設[窗口管理器](https://zh.wikipedia.org/wiki/窗口管理器 "wikilink")。GNOME 2的窗口、程式和檔案管理和一般的桌面操作系统十分相似。在預設的設定中，桌面有一個啓動選單，可以用以開啓已安裝的程式及檔案；己存在的窗口在下方的工作列列出；而在右上角則有一個通知區以顯示在背景運行的程式。不過，這些功能可以隨用戶喜好而更改位置、取代或甚至移除。
 
 ### GNOME 3
 
@@ -194,61 +196,34 @@ GNOME遊戲有與GNOME核心程式外觀，以及與GNOME[軟件版本週期](..
 [Category:桌面环境](https://zh.wikipedia.org/wiki/Category:桌面环境 "wikilink") [Category:GNU計劃軟體](https://zh.wikipedia.org/wiki/Category:GNU計劃軟體 "wikilink") [Category:GNOME](https://zh.wikipedia.org/wiki/Category:GNOME "wikilink") [Category:X_Window系统](https://zh.wikipedia.org/wiki/Category:X_Window系统 "wikilink") [Category:GNU](https://zh.wikipedia.org/wiki/Category:GNU "wikilink")
 
 1.
-
 2.
-
 3.  .
-
 4.
-
 5.
-
 6.   GNOME |accessdate=2013-03-10}}
-
 7.  The GNOME Project: "[GNOME Foundation Guidelines on Copyright Assignment](https://live.gnome.org/CopyrightAssignment/Guidelines) ". Accessed March 26, 2013.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.
-
 17.
-
 18.
-
 19.
-
 20.
 21.
-
 22.
-
 23.
 24.  }}
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
 30.
-
 31.
-
 32.

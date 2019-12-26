@@ -43,7 +43,7 @@ Dragostea din tei於歐陸發行同年，[羅馬尼亞](../Page/羅馬尼亞.md 
 
   - ["You go, Gary\! 'Numa' takes Web by storm"](http://msnbc.msn.com/id/6987134/) article on MSNBC website
   - [Numanuma video (main site)](https://web.archive.org/web/20121118011052/http://www.newgrounds.com/portal/view/206373)
-  - [Original Numanuma video](http://www.funpic.hu/swf/numanuma.html)
+  - [Original Numanuma video](https://web.archive.org/web/20050228090522/http://www.funpic.hu/swf/numanuma.html)
   - [Joi Ito: O-Zone madness](https://web.archive.org/web/20050301074054/http://joi.ito.com/archives/2005/01/18/ozone_madness.html)
   - [Japanese cartoon video](https://web.archive.org/web/20050301022311/http://ikari0310.hp.infoseek.co.jp/flash/maiyahi.html)
   - [Lego dancing video](http://www.koreus.com/files/200407/lego-zone.html)
@@ -52,12 +52,8 @@ Dragostea din tei於歐陸發行同年，[羅馬尼亞](../Page/羅馬尼亞.md 
 [Category:2003年單曲](https://zh.wikipedia.org/wiki/Category:2003年單曲 "wikilink") [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink") [Category:羅馬尼亞歌曲](https://zh.wikipedia.org/wiki/Category:羅馬尼亞歌曲 "wikilink") [Category:RIAJ手機片段下載百萬認證歌曲](https://zh.wikipedia.org/wiki/Category:RIAJ手機片段下載百萬認證歌曲 "wikilink") [Category:2005年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.

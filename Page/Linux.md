@@ -1,4 +1,4 @@
-**Linux**（ ）是一種[自由和開放源碼的](../Page/自由及开放源代码软件.md "wikilink")[類UNIX](../Page/类Unix系统.md "wikilink") [作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。该操作系统的[内核](../Page/内核.md "wikilink")由[林纳斯·托瓦兹](../Page/林纳斯·托瓦兹.md "wikilink")在1991年10月5日首次发布\[1\]\[2\]，在加上[使用者空間的](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")[應用程式之後](https://zh.wikipedia.org/wiki/應用程式 "wikilink")，成為 Linux 作業系統。Linux 也是[自由软件](../Page/自由软件.md "wikilink")和[开放源代码软件发展中最著名的例子](https://zh.wikipedia.org/wiki/开放源代码软件 "wikilink")。只要遵循 [GNU 通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")（GPL），任何个人和机构都可以自由地使用 Linux 的所有底层[源代码](../Page/源代码.md "wikilink")，也可以自由地修改和再发布。大多數 Linux 系統還包括像提供 [GUI](https://zh.wikipedia.org/wiki/GUI "wikilink") 的 [X Window](https://zh.wikipedia.org/wiki/X_Window "wikilink") 之類的程序。除了一部分專家之外，大多數人都是直接使用 [Linux 發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，而不是自己選擇每一樣組件或自行設置。
+**Linux**（ ）是一種[自由和開放源碼的](../Page/自由及开放源代码软件.md "wikilink")[類UNIX](../Page/类Unix系统.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。该操作系统的[内核](../Page/内核.md "wikilink")由[林纳斯·托瓦兹](../Page/林纳斯·托瓦兹.md "wikilink")在1991年10月5日首次发布\[1\]\[2\]，在加上[使用者空間的](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")[應用程式之後](https://zh.wikipedia.org/wiki/應用程式 "wikilink")，成為Linux作業系統。Linux也是[自由软件](../Page/自由软件.md "wikilink")和[开放源代码软件发展中最著名的例子](https://zh.wikipedia.org/wiki/开放源代码软件 "wikilink")。只要遵循[GNU 通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")（GPL），任何个人和机构都可以自由地使用Linux的所有底层[源代码](../Page/源代码.md "wikilink")，也可以自由地修改和再发布。大多數Linux系統還包括像提供[GUI的](https://zh.wikipedia.org/wiki/GUI "wikilink")[X Window之類的程序](https://zh.wikipedia.org/wiki/X_Window "wikilink")。除了一部分專家之外，大多數人都是直接使用[Linux 發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，而不是自己選擇每一樣組件或自行設置。
 
 **Linux**嚴格來說是單指作業系統的内核，因作業系統中包含了許多[用戶圖形介面和其他实用工具](https://zh.wikipedia.org/wiki/GUI "wikilink")。如今Linux常用来指基于Linux的完整操作系统，內核則改以[Linux内核](../Page/Linux内核.md "wikilink")稱之。由于这些支持用户空间的系统工具和库主要由[理查德·斯托曼](../Page/理查德·斯托曼.md "wikilink")于1983年发起的[GNU计划提供](../Page/GNU計劃.md "wikilink")，[自由软件基金会](../Page/自由软件基金会.md "wikilink")提议将其组合系统命名为**GNU/Linux**\[3\]\[4\]，但Linux不屬於[GNU計劃](../Page/GNU計劃.md "wikilink")，這個名稱並沒有得到社群的一致認同。
 
@@ -44,7 +44,7 @@ Linux的[標誌和](https://zh.wikipedia.org/wiki/標誌 "wikilink")[吉祥物�
 
 ### 发展现状
 
-1994年3月，Linux1.0版正式發佈，Marc Ewing成立Red Hat軟件公司，成為最著名的Linux經銷商之一。早期Linux的開機管理程式（boot loader）使用[LILO](../Page/LILO.md "wikilink")（Linux Loader），早期的LILO存在著一些難以容忍的缺陷，例如無法識別1024柱面以後的硬碟空間，後來的[GRUB](https://zh.wikipedia.org/wiki/GRUB "wikilink")（GRand Unified Bootloader）克服這些缺點，具有『動態搜尋核心檔案』的功能，可以讓用户在開機的時候，自行編輯開機設定系統檔案，透過[ext2或](https://zh.wikipedia.org/wiki/ext2 "wikilink")[ext3檔案系統中載入Linux](https://zh.wikipedia.org/wiki/ext3 "wikilink") Kernel（GRUB通過不同的文件系統驅動可以識別幾乎所有Linux支援的文件系統，因此可以使用很多文件系統來格式化核心文件所在的磁區，並不侷限於ext文件系統）。
+[Redhat_5_0_cds.jpeg](https://zh.wikipedia.org/wiki/File:Redhat_5_0_cds.jpeg "fig:Redhat_5_0_cds.jpeg") 1994年3月，Linux1.0版正式發佈，Marc Ewing成立Red Hat軟件公司，成為最著名的Linux經銷商之一。早期Linux的開機管理程式（boot loader）使用[LILO](../Page/LILO.md "wikilink")（Linux Loader），早期的LILO存在著一些難以容忍的缺陷，例如無法識別1024柱面以後的硬碟空間，後來的[GRUB](https://zh.wikipedia.org/wiki/GRUB "wikilink")（GRand Unified Bootloader）克服這些缺點，具有『動態搜尋核心檔案』的功能，可以讓用户在開機的時候，自行編輯開機設定系統檔案，透過[ext2或](https://zh.wikipedia.org/wiki/ext2 "wikilink")[ext3檔案系統中載入Linux](https://zh.wikipedia.org/wiki/ext3 "wikilink") Kernel（GRUB通過不同的文件系統驅動可以識別幾乎所有Linux支援的文件系統，因此可以使用很多文件系統來格式化核心文件所在的磁區，並不侷限於ext文件系統）。
 
 今天由Linus Torvalds带领下，众多开发共同参与开发和维护Linux内核。\[17\]理查德·斯托曼领导的自由软件基金会，继续提供大量支持Linux内核的GNU组件。\[18\]一些个人和企业开发的第三方的非GNU组件也提供对Linux内核的支持，这些第三方组件包括大量的作品，有内核模块和用户应用程序和库等内容。Linux社区或企业都推出一些重要的[Linux发行版](../Page/Linux发行版.md "wikilink")，包括Linux内核、GNU组件、非GNU组件，以及其他形式的软件包管理系统软件。
 
@@ -63,7 +63,7 @@ Linux具有设备独立性，它内核具有高度适应能力，从而给系统
 
 ## Linux發行版
 
-[Ubuntu-18.04-LTS-Wikipedia.png](https://zh.wikipedia.org/wiki/File:Ubuntu-18.04-LTS-Wikipedia.png "fig:Ubuntu-18.04-LTS-Wikipedia.png")是一個流行的[桌面Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")。\]\] **Linux發行版**指的就是通常所說的「Linux作業系統」，它一般是由一些組織、团体、公司或者個人制作并發行的。Linux内核主要作為Linux發行版的一部分而使用。通常來講，一個Linux發行版包括Linux核心，以及將整個軟體安裝到電腦上的一套安裝工具，还有各種GNU軟體，和其他的一些[自由軟體](../Page/自由软件.md "wikilink")，在一些Linux發行版中可能会包含一些[專有軟體](../Page/专有软件.md "wikilink")。發行版為許多不同的目的而製作，包括對不同[電腦硬體結構的支援](../Page/硬件.md "wikilink")，对普通用户或开发者使用方式的调整，针对[實時應用或](../Page/实时操作系统.md "wikilink")[嵌入式系統的开发等等](../Page/嵌入式系统.md "wikilink")。目前，超過三百個發行版被積極的開發，最普遍被使用的發行版有大約十二個。較為知名的有[Debian](../Page/Debian.md "wikilink")、[Ubuntu](../Page/Ubuntu.md "wikilink")、[Fedora](../Page/Fedora.md "wikilink")和[openSUSE等](https://zh.wikipedia.org/wiki/openSUSE "wikilink")。\[19\]
+[Ubuntu_19.10_Eoan_Ermine.png](https://zh.wikipedia.org/wiki/File:Ubuntu_19.10_Eoan_Ermine.png "fig:Ubuntu_19.10_Eoan_Ermine.png")是一個流行的[桌面Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")。\]\] **Linux發行版**指的就是通常所說的「Linux作業系統」，它一般是由一些組織、团体、公司或者個人制作并發行的。Linux内核主要作為Linux發行版的一部分而使用。通常來講，一個Linux發行版包括Linux核心，以及將整個軟體安裝到電腦上的一套安裝工具，还有各種GNU軟體，和其他的一些[自由軟體](../Page/自由软件.md "wikilink")，在一些Linux發行版中可能会包含一些[專有軟體](../Page/专有软件.md "wikilink")。發行版為許多不同的目的而製作，包括對不同[電腦硬體結構的支援](../Page/硬件.md "wikilink")，对普通用户或开发者使用方式的调整，针对[實時應用或](../Page/实时操作系统.md "wikilink")[嵌入式系統的开发等等](../Page/嵌入式系统.md "wikilink")。目前，超過三百個發行版被積極的開發，最普遍被使用的發行版有大約十二個。較為知名的有[Debian](../Page/Debian.md "wikilink")、[Ubuntu](../Page/Ubuntu.md "wikilink")、[Fedora](../Page/Fedora.md "wikilink")和[openSUSE等](https://zh.wikipedia.org/wiki/openSUSE "wikilink")。\[19\]
 
 一個典型的發行版包括：[Linux核心](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")，GNU[函式庫](../Page/函式庫.md "wikilink")和各种系统工具，命令行[Shell](../Page/Unix_shell.md "wikilink")，圖形界面底层的[X Window系統和上层的](../Page/X_Window系統.md "wikilink")[桌面環境等](../Page/桌面环境.md "wikilink")。桌面环境有如[KDE](../Page/KDE.md "wikilink")或[GNOME](../Page/GNOME.md "wikilink")等，並包含數千種從[辦公套件](https://zh.wikipedia.org/wiki/辦公套件 "wikilink")，[編譯器](../Page/編譯器.md "wikilink")，[文字編輯器](https://zh.wikipedia.org/wiki/文字編輯器 "wikilink")，小遊戲，兒童教育軟體，到科學工具的應用軟體。
 
@@ -95,7 +95,7 @@ Linux具有设备独立性，它内核具有高度适应能力，从而给系统
 
 但是，Linux下也有相當多不能在[Windows平台下執行的軟體](https://zh.wikipedia.org/wiki/Windows "wikilink")，主要是依靠[X Window系統和其他Windows無法利用的資源](../Page/X_Window系統.md "wikilink")，或者是因為穩定性等其他方面的考慮並不準備支援Windows。不過近年來，也不斷向其移植。有如[KDE SC](../Page/KDE_Software_Compilation_4.md "wikilink")、[Cinepaint正在進行向Windows的移植](https://zh.wikipedia.org/wiki/Cinepaint "wikilink")。Linux使用的增多也使得Windows開源軟體(Open Source)向Linux移植，比如[Filezilla](https://zh.wikipedia.org/wiki/Filezilla "wikilink")。
 
-<File:CDE> Debian Workspace 1.png|[CDE](../Page/CDE.md "wikilink") <File:Fedora> Showing Gnome 3.22.2 showing overview.png|[GNOME](../Page/GNOME.md "wikilink") <File:Ubuntu> Mate traditional.png|[MATE](../Page/MATE.md "wikilink") <File:KDE> Plasma 5.png|[KDE Plasma](../Page/KDE_Plasma_5.md "wikilink") <File:XFCE-4.12-Desktop-standard.png>|[Xfce](../Page/Xfce.md "wikilink") <File:Lxde-desktop-full.png>|[LXDE](../Page/LXDE.md "wikilink") <File:LXQt> 0.10 - Ambiance.png|[LXQt](../Page/LXQt.md "wikilink") <File:2010-04-24-133031_1280x800_scrot.png>|[Openbox](../Page/Openbox.md "wikilink") <File:Fluxbox.png>|[Fluxbox](../Page/Fluxbox.md "wikilink") <File:I3_window_manager_screenshot.png>|[i3](https://zh.wikipedia.org/wiki/i3_\(窗口管理器\) "wikilink") <File:E17> screenshot.jpg|[Enlightenment](../Page/Enlightenment.md "wikilink") <File:App> Lens on Ubuntu 16.04LTS.png|[Unity](../Page/Unity_\(使用者介面\).md "wikilink") <File:Linux> Mint 19 "Tara" (Cinnamon).png|[Cinnamon](../Page/Cinnamon.md "wikilink") <File:Elementary> OS 5.0 Juno with Croatian Wikipedia.png|[Pantheon](https://zh.wikipedia.org/wiki/elementary_OS "wikilink") <File:Budgie_Desktop_Environment.png>| <File:Screenshot> of Trinity Desktop Environment (TDE) R14.0.5 Development.png|[Trinity](../Page/Trinity桌面环境.md "wikilink") <File:Sugar-home-view-0.82.jpg>|[Sugar](https://zh.wikipedia.org/wiki/Sugar_\(用户界面\) "wikilink")
+<File:Fedora> 27 gnome shell.png|[GNOME](../Page/GNOME.md "wikilink") <File:KDE> Plasma 5.16.png|[KDE Plasma](../Page/KDE_Plasma_5.md "wikilink") <File:Xubuntu_18.04_LTS_English.png>|[Xfce](../Page/Xfce.md "wikilink") <File:Ubuntu> MATE 16.04 screenshot.png|[MATE](../Page/MATE.md "wikilink") <File:Lxde-desktop-full.png>|[LXDE](../Page/LXDE.md "wikilink") <File:LXQt> 0.10 - Ambiance.png|[LXQt](../Page/LXQt.md "wikilink") <File:E17> screenshot.jpg|[Enlightenment](../Page/Enlightenment.md "wikilink") <File:IceWM_in_action.png>|[IceWM](../Page/IceWM.md "wikilink") <File:2010-04-24-133031_1280x800_scrot.png>|[Openbox](../Page/Openbox.md "wikilink") <File:I3> window manager screenshot.png|[i3](../Page/I3_\(窗口管理器\).md "wikilink") <File:Awesome_screenshot.png>|[Awesome](../Page/Awesome.md "wikilink") <File:Elementary> OS 5.0 Juno with Croatian Wikipedia.png|[Pantheon](https://zh.wikipedia.org/wiki/elementary_OS "wikilink") <File:Linux> Mint 18.3 Cinnamon Mint Y.png|[Cinnamon](../Page/Cinnamon.md "wikilink") <File:Budgie_Desktop_Environment.png>|[Budgie](../Page/Budgie_\(桌面环境\).md "wikilink")
 
 ### 上网本
 
@@ -109,17 +109,19 @@ Linux发行版是构成[LAMP](../Page/LAMP.md "wikilink")（Linux操作系统，
 
 Linux发行版也经常使用作为超级计算机的操作系统，2010年11月公布的超级计算机前500强，有459个（91.8％）运行Linux发行版\[40\]。曾经是世界上最强大的超级计算机\[41\]——IBM的红杉（[IBM Sequoia](https://zh.wikipedia.org/wiki/IBM_Sequoia "wikilink")），已於2011年交付[勞倫斯利福摩爾國家實驗室](https://zh.wikipedia.org/wiki/勞倫斯利福摩爾國家實驗室 "wikilink")，並於2012年6月开始运作，也是选择Linux作为操作系统。\[42\]
 
-### 嵌入式设备
+### 智能移动设备
 
-[Samsung_Galaxy_Note_series_2.jpg](https://zh.wikipedia.org/wiki/File:Samsung_Galaxy_Note_series_2.jpg "fig:Samsung_Galaxy_Note_series_2.jpg")是建基於Linux的作業系統，在[智能手機上相當熱門](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。\]\] Linux的低成本、强大的定制功能以及良好的移植性能，使得Linux在嵌入式系统方面也得到广泛应用。流行的TiVo数字视频录像机还采用了定制的Linux，思科在网络[防火墙](../Page/防火墙.md "wikilink")和[路由器](../Page/路由器.md "wikilink")也使用了定制的Linux。Korg OASYS、Korg的KRONOS、雅马哈的YAMAHA MOTIF XS/Motif XF音乐工作站、雅马哈的S90XS/S70XS、雅马哈MOX6/MOX8次合成器、雅马哈MOTIF-RACK XS音源模块，以及Roland RD-700GX数码钢琴均运行Linux。Linux也用于舞台灯光控制系统，如WholeHogIII控制台。
-
-在[智能手机](../Page/智能手机.md "wikilink")、[平板电脑等移动设备方面](../Page/平板電腦.md "wikilink")，Linux也得到重要发展，基于Linux内核的[Android](../Page/Android.md "wikilink")操作系统已经超越[诺基亚](../Page/诺基亚.md "wikilink")的[Symbian操作系统](https://zh.wikipedia.org/wiki/Symbian "wikilink")，成为当今全球最流行的智能手机操作系统。在2010年第三季度，销售全球的全部智能手机中使用[Android](../Page/Android.md "wikilink")的占据25.5%（所有的基于Linux的手机操作系统在这段时间为27.6%）。
+[Android_4.0.png](https://zh.wikipedia.org/wiki/File:Android_4.0.png "fig:Android_4.0.png")是建基於Linux的作業系統，在[智能手機上相當熱門](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。\]\] 在[智能手机](../Page/智能手机.md "wikilink")、[平板电脑等移动设备方面](../Page/平板電腦.md "wikilink")，Linux也得到重要发展，基于Linux内核的[Android](../Page/Android.md "wikilink")操作系统已经超越[诺基亚](../Page/诺基亚.md "wikilink")的[Symbian操作系统](https://zh.wikipedia.org/wiki/Symbian "wikilink")，成为当今全球最流行的智能手机操作系统。在2010年第三季度，销售全球的全部智能手机中使用[Android](../Page/Android.md "wikilink")的占据25.5%（所有的基于Linux的手机操作系统在这段时间为27.6%）。
 
 从2007年起，手机和[掌上电脑上运行基于Linux的操作系统变得更加普遍](https://zh.wikipedia.org/wiki/掌上电脑 "wikilink")，例如：[诺基亚 N810](https://zh.wikipedia.org/wiki/诺基亚_N810 "wikilink")、[OpenMoko](../Page/OpenMoko.md "wikilink")的Neo1973、摩托罗拉的ROKR E8。[Palm](../Page/Palm.md "wikilink")（后来被[HP公司收购](../Page/惠普.md "wikilink")）推出了一个新的基于Linux的[webOS操作系统](https://zh.wikipedia.org/wiki/webOS "wikilink")，并使用在新生产的Palm Pre智能手机上。
 
 [MeeGo](../Page/MeeGo.md "wikilink")是诺基亚和英特尔于2010年2月联合推出的基于Linux的操作系统，诺基亚也推出了使用MeeGo操作系统的N9手机。2011年9月28日，继诺基亚宣布放弃开发MeeGo之后，英特尔也正式宣布将MeeGo与LiMo合并成为新的系统[Tizen](../Page/Tizen.md "wikilink")。[Jolla](../Page/Jolla.md "wikilink") Mobile公司成立并推出了由MeeGo发展而来的[Sailfish操作系统](https://zh.wikipedia.org/wiki/Sailfish "wikilink")。2012年，[Mozilla推出基於Linux核心的](../Page/Mozilla基金會.md "wikilink")[Firefox OS操作系统](../Page/Firefox_OS.md "wikilink")\[43\]。
 
-### 使用比例
+### 嵌入式设备
+
+[Tesla_Model_S_digital_panels.jpg](https://zh.wikipedia.org/wiki/File:Tesla_Model_S_digital_panels.jpg "fig:Tesla_Model_S_digital_panels.jpg")的基于[Ubuntu](../Page/Ubuntu.md "wikilink")的车载[资讯娱乐](../Page/资讯娱乐.md "wikilink")系统\[44\]\[45\]\]\] Linux的低成本、强大的定制功能以及良好的移植性能，使得Linux在嵌入式系统方面也得到广泛应用。流行的TiVo数字视频录像机还采用了定制的Linux，思科在网络[防火墙](../Page/防火墙.md "wikilink")和[路由器](../Page/路由器.md "wikilink")也使用了定制的Linux。Korg OASYS、Korg的KRONOS、雅马哈的YAMAHA MOTIF XS/Motif XF音乐工作站、雅马哈的S90XS/S70XS、雅马哈MOX6/MOX8次合成器、雅马哈MOTIF-RACK XS音源模块，以及Roland RD-700GX数码钢琴均运行Linux。Linux也用于舞台灯光控制系统，如WholeHogIII控制台。
+
+## 市场份额
 
 很多開源軟體的定量研究聚焦在市場佔有率（雖然多數不算作市場中的商品）和可靠性，包括數不清的Linux分析報告。Linux份額成長迅速。[IDC的](https://zh.wikipedia.org/wiki/國際數據資訊公司 "wikilink")2008年第二季度報告指出，Linux在所有伺服器市場的市佔率已經達到29%，比該研究機構在2007年的調查大幅增加了12個百分點。這個估計數字基於Linux伺服器的銷售額。
 
@@ -129,7 +131,7 @@ Linux发行版也经常使用作为超级计算机的操作系统，2010年11月
 
 *Linux*的[註冊商標是Linus](../Page/商标.md "wikilink") Torvalds所有的。這是由於在1996年，一個名字叫做[William R. Della Croce的律師開始向各個Linux發佈商發信](https://zh.wikipedia.org/wiki/William_R._Della_Croce "wikilink")，聲明他擁有*Linux*[商標的所有權](../Page/商标.md "wikilink")，並且要求各個發佈商支付版稅，這些發行商集體進行上訴，要求將該註冊商標重新分配給Linus Torvalds。Linus Torvalds一再聲明Linux是自由且免費的，他本人可以賣掉，但Linux絕不能賣。
 
-“GNU/Linux”此名稱是[GNU](../Page/GNU.md "wikilink")计划的支持者与开发者，特别是其创立者[理查德·斯托曼](../Page/理查德·斯托曼.md "wikilink")對於Linux作業系統的主張。由于此类操作系统使用了众多GNU程序，包含[Bash](../Page/Bash.md "wikilink")（[Shell程式](../Page/Unix_shell.md "wikilink")）、[函式庫](../Page/函式庫.md "wikilink")、[編譯器](../Page/編譯器.md "wikilink")等等作為Linux核心上的系統套件，理查德·斯托曼认为应该将该操作系统称为「GNU/Linux」或「GNU+Linux」較為恰当，但現今多數人仍稱其為Linux。就1997年之前的Linux來看，一間CD-ROM的供應商所提供的資料顯示在他们的“Linux 发行版”中，GNU 软件所占最大的比重，大约占全部源代码的28%，且还包括一些关键的部件，如果没有这些部件，系统就无法工作，而Linux 本身占大约3%。\[44\]
+“GNU/Linux”此名稱是[GNU](../Page/GNU.md "wikilink")计划的支持者与开发者，特别是其创立者[理查德·斯托曼](../Page/理查德·斯托曼.md "wikilink")對於Linux作業系統的主張。由于此类操作系统使用了众多GNU程序，包含[Bash](../Page/Bash.md "wikilink")（[Shell程式](../Page/Unix_shell.md "wikilink")）、[函式庫](../Page/函式庫.md "wikilink")、[編譯器](../Page/編譯器.md "wikilink")等等作為Linux核心上的系統套件，理查德·斯托曼认为应该将该操作系统称为「GNU/Linux」或「GNU+Linux」較為恰当，但現今多數人仍稱其為Linux。就1997年之前的Linux來看，一間CD-ROM的供應商所提供的資料顯示在他们的“Linux 发行版”中，GNU 软件所占最大的比重，大约占全部源代码的28%，且还包括一些关键的部件，如果没有这些部件，系统就无法工作，而Linux 本身占大约3%。\[46\]
 
 Linux社群中的一些成員，如[埃里克·雷蒙](../Page/埃里克·雷蒙.md "wikilink")、[林纳斯·托瓦兹](../Page/林纳斯·托瓦兹.md "wikilink")等人，偏好Linux的名稱，认为Linux朗朗上口，短而好记，拒绝使用「GNU/Linux」作为操作系统名称。并且认为Linux並不屬於[GNU計劃](../Page/GNU計劃.md "wikilink")的一部份，斯托曼直到1990年代中期Linux开始流行后才要求更名。有部分[Linux套件](https://zh.wikipedia.org/wiki/Linux套件 "wikilink")，如[Debian](../Page/Debian.md "wikilink")，采用了「GNU/Linux」的称呼。但大多数商业Linux套件依然将操作系统称为Linux。而有些人则认为「操作系统」一词指的只是系统的内核(Kernel)，其他程序都只能算是[应用软件](https://zh.wikipedia.org/wiki/应用软件 "wikilink")，因而，该操作系统应叫Linux，但Linux系统套件是在Linux內核的基础上加入各种GNU软件套件集合而成的。
 
@@ -144,7 +146,7 @@ Linux社群中的一些成員，如[埃里克·雷蒙](../Page/埃里克·雷蒙
   - 新的[Linux發行版大多數軟體都有伺服器的服務](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，只要點選就可以自動下載、安裝經過認證的軟體，不需要到市面購買、安裝。
   - Linux學習的投資有效時間較長。舊版軟體、系統都還是存在，有原始碼可以衍生、分支，維護週期普遍比[Windows長很多](https://zh.wikipedia.org/wiki/Windows "wikilink")。就算被放棄，還是可以憑藉原始碼衍生。新的軟體更新發展多樣化，容易養成使用者習慣掌握原理，而不是養成操作習慣。
   - 強大的[Shell及](https://zh.wikipedia.org/wiki/Shell "wikilink")[脚本支援](../Page/脚本语言.md "wikilink")，容易組合出符合需求的環境或創造自動程序。
-  - 預設安全設定相對於目前主流的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[作業系統安全很多](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。\[45\]Windows作業系統為了非專業使用者降低了預設安全性的設定，導致系統容易受到木馬、病毒的侵害。[盜版的Windows更糟糕](../Page/盗版.md "wikilink")，可能隨盜版作業系統捆绑[木馬](../Page/特洛伊木马_\(电脑\).md "wikilink")、[惡意程式](../Page/恶意软件.md "wikilink")，部分預設[超級使用者](../Page/超级用户.md "wikilink")（Administrator）登录、關閉安全更新等問題導致安全性更差。
+  - 預設安全設定相對於目前主流的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[作業系統安全很多](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。\[47\]Windows作業系統為了非專業使用者降低了預設安全性的設定，導致系統容易受到木馬、病毒的侵害。[盜版的Windows更糟糕](../Page/盗版.md "wikilink")，可能隨盜版作業系統捆绑[木馬](../Page/特洛伊木马_\(电脑\).md "wikilink")、[惡意程式](../Page/恶意软件.md "wikilink")，部分預設[超級使用者](../Page/超级用户.md "wikilink")（Administrator）登录、關閉安全更新等問題導致安全性更差。
 
 ### 負面
 
@@ -191,90 +193,49 @@ Linux社群中的一些成員，如[埃里克·雷蒙](../Page/埃里克·雷蒙
 [Category:计算平台](https://zh.wikipedia.org/wiki/Category:计算平台 "wikilink") [Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink") [Category:自由作業系統](https://zh.wikipedia.org/wiki/Category:自由作業系統 "wikilink") [Category:LAMP](https://zh.wikipedia.org/wiki/Category:LAMP "wikilink")
 
 1.  {{ cite newsgroup | title = Free minix-like kernel sources for 386-AT | author = Linus Benedict Torvalds | date = 1991-10-05 | newsgroup = comp.os.minix | id = | url = <https://groups.google.com/group/comp.os.minix/msg/2194d253268b0a1b?pli=1> | accessdate =2011-09-30 }}
-
 2.
-
 3.  {{ cite book | url = <https://www.tldp.org/LDP/sag/html/sag.html#GNU-OR-NOT> | title = Linux System Administrator's Guide | chapter = 1.1 | edition = version 0.9 | year = 2004 | accessdate =2007-01-18 | first = Alex | last = Weeks }}
-
 4.
-
 5.
-
 6.
-
-7.  [1](http://www.shortfamilyonline.com/tech/unix/history-of-linux/reference/23-Apr-1992-re-how-to-pronounce-linux.html)
-
+7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13. {{ cite newsgroup | title = What would you like to see most in minix? | newsgroup = comp.os.minix | id = 1991Aug25.205708.9541@klaava.Helsinki.FI | url = <https://groups.google.com/group/comp.os.minix/msg/b813d52cbc5a044b> | last = Torvalds | first = Linus | accessdate = 2006-09-09 }}
-
 14.
-
 15.
-
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
-44. [Linux和GNU](http://www.gnu.org/gnu/linux-and-gnu.html)
-
+44.
 45.
+46. [Linux和GNU](http://www.gnu.org/gnu/linux-and-gnu.html)
+47.

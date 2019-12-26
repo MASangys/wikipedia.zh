@@ -1,6 +1,6 @@
 [Microarray2.gif](https://zh.wikipedia.org/wiki/File:Microarray2.gif "fig:Microarray2.gif")點陣[寡核苷酸的DNA微陣列](https://zh.wikipedia.org/wiki/寡核苷酸 "wikilink")，並有放大圖顯示細節。\]\]
 
-**DNA微陣列**（DNA microarray）又稱**DNA陣列**或**DNA晶片**，比較常用的名字是**[基因](../Page/基因.md "wikilink")晶片**（gene chip）。是一塊帶有[DNA微阵列](https://zh.wikipedia.org/wiki/DNA "wikilink")（microarray）的特殊玻璃片或矽晶元片，在數平方公分之面積上佈放數千或數萬個[核酸](../Page/核酸.md "wikilink")探針；檢體中的DNA、cDNA、RNA等與探針結合後，藉由-{zh-cn:荧光;zh-tw:螢光}-或電流等方式偵測。經由一次測驗，即可提供大量基因序列相關資訊。它是[基因组学和](https://zh.wikipedia.org/wiki/基因组学 "wikilink")[遗传学](../Page/遗传学.md "wikilink")研究的工具。研究人員應用基因芯片就可以在同一時間定量的分析大量（成千上万个）的基因表現，具有快速、精確、低成本之生物分析檢驗能力。
+**DNA微陣列**（DNA microarray）又稱**DNA陣列**或**DNA芯片**，比較常用的名字是**[基因](../Page/基因.md "wikilink")芯片**（gene chip）。是一塊帶有[DNA微阵列](https://zh.wikipedia.org/wiki/DNA "wikilink")（microarray）的特殊玻璃片或矽晶元片，在數平方公分之面積上佈放數千或數萬個[核酸](../Page/核酸.md "wikilink")探針；檢體中的DNA、cDNA、RNA等與探針結合後，藉由-{zh-cn:荧光;zh-tw:螢光}-或電流等方式偵測。經由一次測驗，即可提供大量基因序列相關資訊。它是[基因组学和](https://zh.wikipedia.org/wiki/基因组学 "wikilink")[遗传学](../Page/遗传学.md "wikilink")研究的工具。研究人員應用基因芯片就可以在同一時間定量的分析大量（成千上万个）的基因表現，具有快速、精確、低成本之生物分析檢驗能力。
 
 ## 生產方式
 

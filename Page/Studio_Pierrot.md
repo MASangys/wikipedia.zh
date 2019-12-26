@@ -1,6 +1,6 @@
 **株式會社Pierrot**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[三鷹市](../Page/三鷹市.md "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1979年。[日本動畫協會](../Page/日本動畫協會.md "wikilink")正式會員。由於Pierrot中文有小丑的含義，因此有「小丑社」的別稱。
 
-2004年以前製作動畫的使用商標是「（Pierrot）」表示，2004年以後改為「（Studio Pierrot）」表示。
+2004年以前製作動畫的使用商標是「****（Pierrot）」表示，2004年以後改為「****（Studio Pierrot）」表示。
 
 ## 歷史、沿革
 
@@ -8,19 +8,21 @@
 
 於參加《》等作品的製作之後，Pierrot開始委外承接[學習研究社的動畫完稿外包工作](https://zh.wikipedia.org/wiki/學習研究社 "wikilink")。1979年5月\[4\]正式登記法人化的同時，改名為「**株式會社Studio Pierrot**（<small></small>）」，從此以後，Pierrot全面投入獨立製作，並將工作室搬遷至東京都[三鷹市](../Page/三鷹市.md "wikilink")。然後跟布川有建立人脈關係的、[案納正美](../Page/案納正美.md "wikilink")、、[押井守](../Page/押井守.md "wikilink")等人也加入Pierrot\[5\]。從此Pierrot成為1980年代集結了眾多主力的演出家、製作出多部高品質動畫作品的公司\[6\]。
 
-1980年，由Pierrot獨立製作的首部電視動畫《[尼爾斯的不可思議之旅](https://zh.wikipedia.org/wiki/騎鵝歷險記 "wikilink")》播出之後，大多向學習研究社承包動畫的外包工作。1984年5月，Pierrot成立專門負責嚴格控管動畫之版權著作的旗下企業「**株式會社Pierrot Project**（<small></small>）」\[7\]，直到2002年與母公司合併同時改名為「**株式會社Pierrot**（<small></small>）」。2004年，Pierrot將商標改名成現在使用的「**studio**」。Pierrot除了擁有位在東京都總部的辦公室之外，也有在[福岡縣成立專門負責動畫完稿上色的工作室](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")，但於2012年關閉\[8\]。
+1980年，由Pierrot獨立製作的首部電視動畫《[尼爾斯的不可思議之旅](https://zh.wikipedia.org/wiki/騎鵝歷險記 "wikilink")》播出之後，大多向學習研究社承包動畫的外包工作。1984年5月，Pierrot成立專門負責嚴格控管動畫之版權著作的旗下企業「**株式會社Pierrot Project**（<small></small>）」\[7\]。
 
-在漫畫改編作品方面。1981年，Pierrot因為承包了[Kitty film製作的](../Page/Kitty_film.md "wikilink")《[福星小子](../Page/福星小子.md "wikilink")》而一躍成名，接著在1983年挑戰製作自家原創動畫〈〉，並取得了當年在動畫界的重要地位\[9\]。Pierrot除了成功讓自家的品牌商標得到認可之外，還得到跟[廣告代理商](../Page/廣告代理商.md "wikilink")[讀賣廣告社](../Page/讀賣廣告社.md "wikilink")的長期合作\[10\]。同年，Pierrot創作了自稱全球第一部的[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")《》，並在日本動畫歷史中名留青史。
+1981年，Pierrot承包[Kitty film製作的](../Page/Kitty_film.md "wikilink")《[福星小子](../Page/福星小子.md "wikilink")》而一躍成名，接著在1983年挑戰製作自家原創動畫〈〉，並取得了當年在動畫界的重要地位\[8\]。Pierrot除了成功讓自家的品牌商標得到認可之外，還得到跟[廣告代理商](../Page/廣告代理商.md "wikilink")[讀賣廣告社](../Page/讀賣廣告社.md "wikilink")的長期合作\[9\]。同年，Pierrot創作了自稱全球第一部的[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")《》，並在日本動畫歷史中名留青史。
 
-《福星小子》電視動畫播畢之後，1987年，Pierrot轉往承包[集英社](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》的連載漫畫《[橙路](../Page/橙路.md "wikilink")》，並將其改編成電視動畫。接著在1992年，《週刊少年Jump》的另一部連載漫畫《[幽☆遊☆白書](https://zh.wikipedia.org/wiki/幽遊白書 "wikilink")》動畫在電視上播出之後，就在獲得了最高收視率及高人氣的時候，助長增加了其它漫畫改編成動畫的機會。並從1987年播出的《[甜蜜公主](../Page/甜甜小公主.md "wikilink")》開始，積極展開商品化權的櫃檯服務\[11\]。
+1987年，Pierrot轉往承包[集英社](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》的連載漫畫《[橙路](../Page/橙路.md "wikilink")》，並將其改編成電視動畫。接著在1992年，《週刊少年Jump》的另一部連載漫畫《[幽☆遊☆白書](https://zh.wikipedia.org/wiki/幽遊白書 "wikilink")》動畫在電視上播出之後，就在獲得了最高收視率及高人氣的時候，助長增加了其它漫畫改編成動畫的機會。並從1987年播出的《[甜蜜公主](../Page/甜甜小公主.md "wikilink")》開始，積極展開商品化權的櫃檯服務\[10\]。同年，Pierrot開始向海外市場拓展，與企劃製作公司一起成立株式會社SPO（Sales company of Pierrot and Oriental Service）共同展開影音製造銷售產業的合作\[11\]。包括次年1988年由Pierrot製作發行的OVA《》在內的作品還被株式會社SPO拿來做廣告宣傳\[12\]。
 
-1987年，Pierrot開始拓展海外市場，與企劃製作公司一起成立株式會社SPO（Sales company of Pierrot and Oriental Service）共同展開影音製造銷售產業的合作\[12\]。包括翌年1988年由Pierrot製作發行的OVA《》在內的作品還被株式會社SPO拿來做廣告宣傳\[13\]。
+2002年，Pierrot Project與母公司合併，更名為「**株式會社Pierrot**（<small></small>）」。2004年，Pierrot將商標改名成現在使用的「**studio**」。
 
-2012年7月，長年擔任Pierrot代表董事社長的布川轉任代表董事會長，然後就任執行董事的本間道幸接任代表取締役社長\[14\]。後來布川又從代表董事會長轉任最高顧問。
+2008年，株式會社[Pierrot PLUS子公司化](../Page/St.Signpost.md "wikilink")，正式登記Pierrot集團旗下\[13\]。
 
-2014年2月7日，Pierrot在香港註冊成立「Pierrot (HK) Limited」，藉此於同年4月17日引進[海納亞洲創投基金](https://zh.wikipedia.org/wiki/海納國際集團 "wikilink")（SIG Asia Investment，SAI）資金在上海設立控股子公司「皮乐企业管理（上海）有限公司」（Pierrot China Co., Ltd.，皮乐中国），進軍中國大陸授權市場\[15\]。
+2012年，Pierrot將位於[福岡縣專門負責動畫完稿上色的分工作室關閉](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")\[14\]。同年7月，布川辭去長年擔任Pierrot代表董事社長的職位，轉任代表董事會長，而Pierrot代表董事社長由原執行董事本間道幸接任\[15\]。目前，布川已無公司代表權，而是就任最高顧問。
 
-到目前為止，Pierrot生產了以電視動畫系列為中心的OVA、劇場版、電視動畫特別篇、教育錄影帶等，累計有84套電視動畫系列，電影動畫則有30部以上，主要代表作還包括《[棋魂](https://zh.wikipedia.org/wiki/棋魂 "wikilink")》、《[火影忍者](../Page/火影忍者.md "wikilink")》系列、《[BLEACH](../Page/BLEACH_\(動畫\).md "wikilink")》和《》\[16\]等。
+2014年2月7日，Pierrot在香港註冊成立「Pierrot (HK) Limited」，藉此於同年4月17日引進[海納亞洲創投基金](https://zh.wikipedia.org/wiki/海納國際集團 "wikilink")（SIG Asia Investment，SAI）資金在上海設立控股子公司「皮乐企业管理（上海）有限公司」（Pierrot China Co., Ltd.，皮乐中国），進軍中國大陸授權市場\[16\]。
+
+到目前為止，Pierrot生產了以電視動畫系列為中心的OVA、劇場版、電視動畫特別篇、教育錄影帶等，累計有84套電視動畫系列，電影動畫則有30部以上，主要代表作還包括《[棋魂](https://zh.wikipedia.org/wiki/棋魂 "wikilink")》、《[火影忍者](../Page/火影忍者.md "wikilink")》系列、《[BLEACH](../Page/BLEACH_\(動畫\).md "wikilink")》和《》\[17\]等。
 
 ## 作品列表
 
@@ -117,7 +119,7 @@
 <tr class="even">
 <td><p>1985年</p></td>
 <td><p>1986年</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魔法之星愛美" title="wikilink">魔法之星愛美</a></p></td>
 <td></td>
 <td><p>原創</p></td>
 <td><p>〈Pierrot魔法少女系列〉作品第3作。</p></td>
@@ -253,7 +255,7 @@
 </tr>
 <tr class="even">
 <td><p>1992年</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小小妖怪阿奇、柯奇、索奇" title="wikilink">小小妖怪阿奇、柯奇、索奇</a></p></td>
 <td></td>
 <td><p>繪本</p></td>
 <td></td>
@@ -990,7 +992,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魔法之星愛美" title="wikilink">魔法之星愛美 蟬時雨</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1596,7 +1598,7 @@
 <tr class="even">
 <td><p><a href="../Page/信蜂.md" title="wikilink">信蜂</a></p></td>
 <td></td>
-<td><p><a href="../Page/Pierrot_PLUS.md" title="wikilink">Pierrot PLUS</a></p></td>
+<td><p><a href="../Page/St.Signpost.md" title="wikilink">Pierrot PLUS</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1658,7 +1660,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p><strong>播出中</strong></p></td>
+<td><p>2019年</p></td>
 <td><p><a href="../Page/關於我轉生變成史萊姆這檔事.md" title="wikilink">關於我轉生變成史萊姆這檔事</a></p></td>
 <td></td>
 <td><p><a href="../Page/8bit.md" title="wikilink">8bit</a></p></td>
@@ -1899,7 +1901,7 @@
 
 ## 相關項目
 
-  - [Pierrot PLUS](../Page/Pierrot_PLUS.md "wikilink")（舊名旗艦工作室），僅知同在Pierrot所屬大樓辦公\[17\]，兩者關係不明。
+  - [Pierrot PLUS](../Page/St.Signpost.md "wikilink")（舊名旗艦工作室），僅知同在Pierrot所屬大樓辦公\[18\]，兩者關係不明。
   - [Arcturus](https://zh.wikipedia.org/wiki/Arcturus "wikilink")－[Seven Arcs](../Page/Seven_Arcs.md "wikilink")－ - [feel.](https://zh.wikipedia.org/wiki/feel. "wikilink")
   - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
 
@@ -1921,7 +1923,7 @@
 
 ## 外部連結
 
-  - [株式會社Pierrot公式官網](https://web.archive.org/web/20081108001131/http://pierrot.jp/)
+  - [株式會社Pierrot公式官網](http://www.pierrot.jp/)
 
   - [株式會社Pierrot官方部落格](https://web.archive.org/web/20151022082826/http://blog.pierrot.jp/)
 
@@ -1941,32 +1943,19 @@
 
 1.
 2.  野田，第258頁。
-
 3.
-
 4.
 5.  野田，第204、210頁。
-
 6.  [Animage](../Page/Animage.md "wikilink")編輯部編《浪漫專輯 INNOCENCE押井守的世界 PERSONA增補改訂版》，2004年，[德間書店](../Page/德間書店.md "wikilink")，第40頁。
-
 7.  布川，第114頁。
-
-8.
-
-9.  布川，第81頁。
-
-10. 「【特別談】布川×高田明美」《COLLECTION 語80年代秘話 美少女萌芽》，編輯部編著，，2012年，第169頁。
-
-11. 布川，第111頁。
-
-12. 岡崎優子「SPO」《Kinema旬報》2017年8月上旬號，第116頁。
-
-13. 《[Animedia](../Page/Animedia.md "wikilink")》1988年5月號，第25頁。
-
+8.  布川，第81頁。
+9.  「【特別談】布川×高田明美」《COLLECTION 語80年代秘話 美少女萌芽》，編輯部編著，，2012年，第169頁。
+10. 布川，第111頁。
+11. 岡崎優子「SPO」《Kinema旬報》2017年8月上旬號，第116頁。
+12. 《[Animedia](../Page/Animedia.md "wikilink")》1988年5月號，第25頁。
+13.
 14.
-
 15.
-
 16.
-
 17.
+18.

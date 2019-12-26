@@ -89,26 +89,16 @@ Camino 1.0，在2006年2月14日發佈，是第一個Mozilla家族的瀏覽器�
 [Category:2002年軟體](https://zh.wikipedia.org/wiki/Category:2002年軟體 "wikilink") [Category:自由网页浏览器](https://zh.wikipedia.org/wiki/Category:自由网页浏览器 "wikilink") [Category:Gecko衍生軟體](https://zh.wikipedia.org/wiki/Category:Gecko衍生軟體 "wikilink") [Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
 10.
-
 11.
 12.
-
 13.
-
 14.

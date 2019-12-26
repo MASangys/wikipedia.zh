@@ -63,7 +63,7 @@ MySQL在過去由于性能高、成本低、可靠性好，已经成为最流行
 
   - [MySQL社區](https://web.archive.org/web/20080206224929/http://www.mysqlpub.com/)
 
-  - [中国MySQL社區](http://www.innomysql.com/)
+  - [中国MySQL社區](https://web.archive.org/web/20170214180417/http://www.innomysql.com/)
 
   - [CentOS7下安装MySQL](https://www.ytyzx.org/index.php/%E5%A6%82%E4%BD%95%E5%9C%A8CentOS7%E4%B8%AD%E5%AE%89%E8%A3%85MySQL)
 

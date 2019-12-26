@@ -42,6 +42,6 @@ IEEE 802中定义的服务和协议限定在[OSI模型](../Page/OSI模型.md "wi
 ## 外部連結
 
   - [IEEE 802 LAN/MAN Standards Committee](http://grouper.ieee.org/groups/802/)
-  - [令牌环（token）协议详细资料](http://www.networkdictionary.com/chinese/protocols/token.php)
+  - [令牌环（token）协议详细资料](https://web.archive.org/web/20050505230346/http://www.networkdictionary.com/chinese/protocols/token.php)
 
 [Category:IEEE_802](https://zh.wikipedia.org/wiki/Category:IEEE_802 "wikilink")

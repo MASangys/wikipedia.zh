@@ -2,7 +2,7 @@
 
 Office最初是一个推广名称，出现于1990年代早期，指一些以前曾单独发售的软件的合集。当时主要的推广重点是：购买合集比单独购买要省很多钱。最初的Office版本包含Word、Excel和PowerPoint。「专业版」包含Microsoft Access，Microsoft Outlook 当时不存在。随着时间的改變，Office应用程序逐渐整合，共享特性，例如：拼写和语法检查、OLE数据整合和[VBA](../Page/Visual_Basic_for_Applications.md "wikilink")[脚本语言](../Page/脚本语言.md "wikilink")。微软目前将Office延伸作为一个开发平台，可以藉由專用商店下載第三方軟體搭配使用。
 
-Office常是製作文件檔案的标准，而且有一些其他产品不存在的特性，但是其他产品也有Office缺少的特性。自從[Microsoft 2007 Office System開始](../Page/Microsoft_Office_2007.md "wikilink")，有一个和以前版本差异很大的用户界面，该界面被称为[Ribbon](../Page/Ribbon.md "wikilink")界面，并沿用在[Microsoft Office 2010](https://zh.wikipedia.org/wiki/Microsoft_Office_2010 "wikilink")、[Microsoft Office 2013和](https://zh.wikipedia.org/wiki/Microsoft_Office_2013 "wikilink")[Microsoft Office 2016中](../Page/Microsoft_Office_2016.md "wikilink")。
+Office常是製作文件檔案的标准，而且有一些其他产品不存在的特性，但是其他产品也有Office缺少的特性。自從[Microsoft 2007 Office System開始](../Page/Microsoft_Office_2007.md "wikilink")，有一个和以前版本差异很大的用户界面，该界面被称为[Ribbon](../Page/Ribbon.md "wikilink")界面，并沿用在[Microsoft Office 2010](https://zh.wikipedia.org/wiki/Microsoft_Office_2010 "wikilink")、[Microsoft Office 2013](https://zh.wikipedia.org/wiki/Microsoft_Office_2013 "wikilink")、[Microsoft Office 2016和](../Page/Microsoft_Office_2016.md "wikilink")[Microsoft Office 2019中](../Page/Microsoft_Office_2019.md "wikilink")。
 
 ## 版本歷史
 

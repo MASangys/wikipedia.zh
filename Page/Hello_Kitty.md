@@ -2,9 +2,7 @@
 
 [Hello_Kitty_Dreamcast.jpg](https://zh.wikipedia.org/wiki/File:Hello_Kitty_Dreamcast.jpg "fig:Hello_Kitty_Dreamcast.jpg")\]\] [HelloKitty_VendingMachine.JPG](https://zh.wikipedia.org/wiki/File:HelloKitty_VendingMachine.JPG "fig:HelloKitty_VendingMachine.JPG") **Hello Kitty**（；羅馬字：*Harōkiti*），中文名稱為**凱蒂貓**\[1\]或**吉蒂貓**\[2\]。是[日本](../Page/日本.md "wikilink")的[三麗鷗](../Page/三麗鷗.md "wikilink")公司於1974年所创作的[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")。Hello Kitty的相关商品通常是一只左耳上有红色蝴蝶结的白色小小貓形象。刻意忽略嘴巴部分的Hello Kitty[商標自](https://zh.wikipedia.org/wiki/商標 "wikilink")1976年注册以來，现已广为人知。
 
-Hello Kitty形象註冊商日本[三麗鷗](../Page/三麗鷗.md "wikilink")（Sanrio）指Hello Kitty不是貓。她走路是用兩隻腳，從沒有四隻腳走路，並沒有貓的行為特性。
-
-而第三任Hello Kitty的設計師山口裕子，是把Hello Kitty當成貓去設計，她指刻意不為Hello Kitty加上嘴巴，是為令她永遠保持開心，不會有太多感情變化，讓「每個人見到她就能得到安慰」。
+第三任Hello Kitty的設計師山口裕子，是把Hello Kitty當成貓去設計，她指刻意不為Hello Kitty加上嘴巴，是為令她永遠保持開心，不會有太多感情變化，讓「每個人見到她就能得到安慰」。 2015年Hello Kitty形象註冊商日本[三麗鷗](../Page/三麗鷗.md "wikilink")（Sanrio）發表新設定，指Hello Kitty不是貓。她走路是用兩隻腳，從沒有四隻腳走路，並沒有貓的行為特性，與過往設定並不相同。
 
 ## 名字的由來
 

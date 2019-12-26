@@ -525,7 +525,7 @@
 <td><p>Live demo available with OTA configuration</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="http://www.synkia.com/">Synkia</a></p></td>
+<td><p><a href="https://web.archive.org/web/20110728053332/http://www.synkia.com/">Synkia</a></p></td>
 <td><p>cell phone backup</p></td>
 <td><p>paid</p></td>
 <td></td>

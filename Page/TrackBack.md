@@ -33,5 +33,4 @@ TrackBack的翻譯有些爭議，在臺灣通常是翻譯為「引用」\[告知
 [Category:網誌](https://zh.wikipedia.org/wiki/Category:網誌 "wikilink")
 
 1.
-
 2.

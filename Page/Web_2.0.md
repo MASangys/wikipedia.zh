@@ -248,35 +248,20 @@ Nova Spivack建議將Web 3.0的定義延伸至當前各大技術潮流邁向新�
 [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:Web服务](https://zh.wikipedia.org/wiki/Category:Web服务 "wikilink") [Category:信息革命](https://zh.wikipedia.org/wiki/Category:信息革命 "wikilink") [Category:品牌管理](https://zh.wikipedia.org/wiki/Category:品牌管理 "wikilink") [Category:2000年代創造的新詞語](https://zh.wikipedia.org/wiki/Category:2000年代創造的新詞語 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.  Jeffrey Zeldman [Web 3.0](http://www.alistapart.com/articles/web3point0), *A List Apart (Blog)*, January 16, 2006
-
 7.
-
 8.  Dan Farber & Larry Dignan [TechNet Summit: The new era of innovation](http://blogs.zdnet.com/BTL/?p=3959), *ZDNet blog*, November 15th, 2006
-
 9.  Richard MacManus & Seokchan (Channy) Yun [Eric Schmidt Defines Web 3.0](http://www.readwriteweb.com/archives/eric_schmidt_defines_web_30.php) , *Read/WriteWeb*, August 7th, 2007
-
 10. John Markoff, [Entrepreneurs See a Web Guided by Common Sense](http://www.nytimes.com/2006/11/12/business/12web.html?pagewanted=1&ei=5088&en=254d697964cedc62&ex=1320987600), *[New York Times](https://zh.wikipedia.org/wiki/New_York_Times "wikilink")*, November 12, 2006
-
 11.
 12. Phil Wainewright [What to expect from Web 3.0](http://blogs.zdnet.com/SAAS/?p=68), *ZDNet*, November 29, 2005
-
 13. Sramana Mitra [Web 3.0 = (4C + P + VS)](http://www.sramanamitra.com/blog/572), February 14, 2007
-
 14. Lee Provoost, Erwan Bornier , *University of Utrecht*, February 10, 2006
-
 15. Andrew Wallenstein [Hollywood hot for Second Life](http://www.hollywoodreporter.com/hr/content_display/television/features/e3i49998ef2b580e2b5461e3dfb1faedb43?imw=Y), *The Hollywood Reporter*, Feb 13, 2007
-
 16. Terri Wells [Web 3.0 and SEO](http://www.seochat.com/c/a/Search-Engine-News/Web-30-and-SEO/) , *Search Engine News*, November 29, 2006
-
 17. Cortex Intelligence [Demonstration of Web 3.0](http://www.cortex-intelligence.com/tech) , *Cortex Site*, December 6, 2007
-
 18. Nova Spivack [The Third-Generation Web is Coming](http://www.kurzweilai.net/meme/frame.html?main=/articles/art0689.html?m%3D3) , *KurzweilAI.net*, December 17, 2006

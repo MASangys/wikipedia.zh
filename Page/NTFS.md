@@ -523,104 +523,56 @@ Windows提供了一个命令行工具“convert.exe”可用于将部分文件�
 [Category:微软磁盘文件系统](https://zh.wikipedia.org/wiki/Category:微软磁盘文件系统 "wikilink") [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
 7.
-
 8.
-
 9.
-
 10. MS Windows NT Workstation 4.0 Resource Guide, "[POSIX Compatibility](http://www.microsoft.com/technet/archive/ntwrkstn/reskit/poscomp.mspx?mfr=true) "
-
 11.
-
 12.
-
 13. [Sysinternals Streams v1.56](http://technet.microsoft.com/en-us/sysinternals/bb897440.aspx)
-
 14.
-
 15. [Malware utilising Alternate Data Streams?](https://www.auscert.org.au/render.html?it=7967) , AusCERT Web Log, 21 August 2007
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25. "[Best practices for NTFS compression in Windows](http://support.microsoft.com/default.aspx?scid=kb;en-us;Q251186)." *Microsoft Knowledge Base.* Retrieved on 2005-08-18.
-
 26.
-
 27. [Sparse File Errors: 1450 or 665 due to file fragmentation: Fixes and Workarounds](http://blogs.msdn.com/psssql/archive/2009/03/04/sparse-file-errors-1450-or-665-due-to-file-fragmentation-fixes-and-workarounds.aspx), Microsoft Customer Service and Support (CSS) SQL Server Engineers Blog, March 4, 2009
-
 28.
-
 29.
-
 30.
-
 31. [How EFS Works](http://www.microsoft.com/technet/prodtechnol/windows2000serv/reskit/distrib/dsck_efs_duwf.mspx) , *Microsoft Windows 2000 Resource Kit*
-
 32.
 33.
-
 34. John Saville, "[What is Native Structured Storage?](http://www.windowsitpro.com/Article/ArticleID/13785/13785.html) "
-
 35. <http://msdn.microsoft.com/en-us/library/windows/desktop/aa363997.aspx>
-
 36. <http://technet.microsoft.com/en-us/library/cc736811（WS.10>）.aspx
-
 37.
-
 38. "[Microsoft TechNet Resource Kit](http://www.microsoft.com/technet/archive/ntwrkstn/reskit/file_sys.mspx?mfr=true) "
-
 39. [NTFS Partition Boot Sector](http://www.ntfs.com/ntfs-partition-boot-sector.htm) Information on structure of the boot sector.
-
 40.
-
 41.
-
 42.
 43.
-
 44. <http://technet.microsoft.com/en-us/library/ff383236（WS.10>）.aspx
-
 45. "[Beating the Daylight Saving Time bug and getting correct file modification times](http://www.codeproject.com/datetime/dstbugs.asp) " *The Code Project*
-
 46.
-
 47.
-
 48.
-
 49. [Seagate Read/Write NTFS driver for Mac OS X](http://www.seagate.com/ww/v/index.jsp?locale=en-US&name=goflex-software&vgnextoid=11c1fab114b48210VgnVCM1000001a48090aRCRD)
-
 50.
-
 51.
-
 52. "[ntfsmount wiki page on linux-ntfs.org](http://wiki.linux-ntfs.org/doku.php?id=ntfsmount) "
-
 53. [Recovery information](http://www.avira.de/en/products/avira_ntfs4dos.html)
-
 54. <http://openbsd.com/49.html>

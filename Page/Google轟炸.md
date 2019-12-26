@@ -64,9 +64,7 @@ Mathes开始测试他的理论，企图将好友Andy Pressman的网站变为“�
 
 {{-}}
 
-[he:גוגל (מנוע חיפוש)\#הפצצת גוגל](https://zh.wikipedia.org/wiki/he:גוגל_\(מנוע_חיפוש\)#הפצצת_גוגל "wikilink")
-
-[Category:网络文化](https://zh.wikipedia.org/wiki/Category:网络文化 "wikilink") [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:2000年代創造的新詞語](https://zh.wikipedia.org/wiki/Category:2000年代創造的新詞語 "wikilink")
+[Category:网络文化](https://zh.wikipedia.org/wiki/Category:网络文化 "wikilink") [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:2000年代創造的新詞語](https://zh.wikipedia.org/wiki/Category:2000年代創造的新詞語 "wikilink") [Category:互联网用语](https://zh.wikipedia.org/wiki/Category:互联网用语 "wikilink")
 
 1.  <http://www.google.com.tw/support/bin/answer.py?answer=4115&topic=13924>
 2.  [1](https://web.archive.org/web/20050715083840/http://uber.nu/2001/04/06/)

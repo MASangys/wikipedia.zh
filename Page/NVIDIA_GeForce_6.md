@@ -241,6 +241,6 @@ GeForce 6500於2005年10月發佈，它是建基於NV44核心，即是GeForce 62
   - [NVIDIA GeForce 6主頁](http://www.nvidia.com.tw/page/geforce6.html)
   - [NVIDIA GeForce Go 6主頁](http://www.nvidia.com.tw/page/geforcego6.html)
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:GeForce系列](https://zh.wikipedia.org/wiki/Category:GeForce系列 "wikilink") [Category:2004年面世的產品](https://zh.wikipedia.org/wiki/Category:2004年面世的產品 "wikilink")
 
 1.  [NVIDIA GeForce 6系列繪圖處理器獲遊戲研發業者大力推崇](http://www.nvidia.com.tw/object/IO_12912.html)

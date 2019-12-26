@@ -1,4 +1,4 @@
-**T细胞**（、T淋巴細胞/）是[淋巴细胞的一种](https://zh.wikipedia.org/wiki/淋巴细胞 "wikilink")，在[免疫反應中扮演着重要的角色](https://zh.wikipedia.org/wiki/免疫反應 "wikilink")。T细胞再被製造出來之後，在胸腺内進行「新兵訓練」分化成熟為不同類型的免疫細胞，成熟后就移居于周围[淋巴组织中開始工作](https://zh.wikipedia.org/wiki/淋巴组织 "wikilink")。T是“[胸腺](../Page/胸腺.md "wikilink")”（thymus）而不是[甲狀腺](https://zh.wikipedia.org/wiki/甲狀腺 "wikilink")（thyroid）的[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")。T细胞膜表面分子与T细胞的功能相关，也是T细胞的[表面标志](https://zh.wikipedia.org/wiki/表面标志 "wikilink")（cell-surface marker），可以用以分离、鉴定不同亚群的T细胞。
+**T细胞**（、T淋巴細胞/）是[淋巴细胞的一种](https://zh.wikipedia.org/wiki/淋巴细胞 "wikilink")，在[免疫反應中扮演着重要的角色](https://zh.wikipedia.org/wiki/免疫反應 "wikilink")。T细胞在被製造出來之後，在胸腺内進行「新兵訓練」分化成熟為不同類型的免疫細胞，成熟后就移居于周围[淋巴组织中開始工作](https://zh.wikipedia.org/wiki/淋巴组织 "wikilink")。T是“[胸腺](../Page/胸腺.md "wikilink")”（thymus）而不是[甲狀腺](https://zh.wikipedia.org/wiki/甲狀腺 "wikilink")（thyroid）的[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")。T细胞膜表面分子与T细胞的功能相关，也是T细胞的[表面标志](https://zh.wikipedia.org/wiki/表面标志 "wikilink")（cell-surface marker），可以用以分离、鉴定不同亚群的T细胞。
 
 ## 分类
 
@@ -21,7 +21,7 @@ T细胞按照功能和表面标志可以分成很多种类：
 
   - [niaid.nih.gov](https://web.archive.org/web/20070103005411/http://www.niaid.nih.gov/Publications/immune/the_immune_system.pdf) – The Immune System
 
-  - [T-cell Group – Cardiff University](http://www.tcells.org)
+  - [T-cell Group – Cardiff University](https://web.archive.org/web/20181211160636/http://www.tcells.org/)
 
   - [(Successful\!) Treatment of Metastatic Melanoma with Autologous CD4+ T Cells against NY-ESO-1](http://content.nejm.org/cgi/content/full/358/25/2698).
 

@@ -60,7 +60,7 @@
 </tbody>
 </table>
 
-**米高·E·布朗**（，），美国天文学家，現為[加州理工學院](https://zh.wikipedia.org/wiki/加州理工學院 "wikilink")[行星天文學教授](https://zh.wikipedia.org/wiki/行星科學 "wikilink")（2003年迄今），早先曾任助理教授（1997至2002年）與副教授（2002至2003年）。\[1\]
+**米高·E·布朗**（，），美国天文学家，現為[加州理工學院](../Page/加州理工學院.md "wikilink")[行星天文學教授](https://zh.wikipedia.org/wiki/行星科學 "wikilink")（2003年迄今），早先曾任助理教授（1997至2002年）與副教授（2002至2003年）。\[1\]
 
 ## 教育
 
@@ -93,5 +93,4 @@
 [Category:美国天文学家](https://zh.wikipedia.org/wiki/Category:美国天文学家 "wikilink") [Category:小行星發現者](https://zh.wikipedia.org/wiki/Category:小行星發現者 "wikilink") [Category:行星科學家](https://zh.wikipedia.org/wiki/Category:行星科學家 "wikilink") [Category:加州理工學院教師](https://zh.wikipedia.org/wiki/Category:加州理工學院教師 "wikilink") [Category:加州大學柏克萊分校校友](https://zh.wikipedia.org/wiki/Category:加州大學柏克萊分校校友 "wikilink") [Category:普林斯頓大學校友](https://zh.wikipedia.org/wiki/Category:普林斯頓大學校友 "wikilink") [Category:阿拉巴馬州人](https://zh.wikipedia.org/wiki/Category:阿拉巴馬州人 "wikilink") [Category:海王星外天體發現者](https://zh.wikipedia.org/wiki/Category:海王星外天體發現者 "wikilink") [Category:阋神星](https://zh.wikipedia.org/wiki/Category:阋神星 "wikilink") [Category:科维理奖获得者](https://zh.wikipedia.org/wiki/Category:科维理奖获得者 "wikilink") [Category:马克·阿伦森纪念讲座得主](https://zh.wikipedia.org/wiki/Category:马克·阿伦森纪念讲座得主 "wikilink") [Category:哈罗德·C·尤里奖获得者](https://zh.wikipedia.org/wiki/Category:哈罗德·C·尤里奖获得者 "wikilink")
 
 1.
-
 2.

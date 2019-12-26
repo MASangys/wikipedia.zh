@@ -1,6 +1,6 @@
-是一款由[全效工作室](../Page/全效工作室.md "wikilink")开发、[微软](../Page/微软.md "wikilink")于1999年发行的[即时战略游戏](../Page/即时战略游戏.md "wikilink")，最初支持的平台包括[Microsoft Windows及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac OS操作系统](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，它是[帝国时代系列的第二代游戏产品](https://zh.wikipedia.org/wiki/帝国时代系列 "wikilink")。2000年，微软发布《国王时代》的[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")《[帝国时代II：征服者](https://zh.wikipedia.org/wiki/帝国时代II：征服者 "wikilink")》。2001年，[科乐美发布该游戏的](https://zh.wikipedia.org/wiki/科乐美 "wikilink")[PlayStation 2版本和](../Page/PlayStation_2.md "wikilink")[任天堂DS](../Page/任天堂DS.md "wikilink")衍生版本。
+是一款由[全效工作室](../Page/全效工作室.md "wikilink")开发、[微软](../Page/微软.md "wikilink")于1999年发行的[即时战略游戏](../Page/即时战略游戏.md "wikilink")，最初支持的平台包括[Microsoft Windows及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac OS操作系统](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，它是[帝国时代系列的第二代游戏产品](https://zh.wikipedia.org/wiki/帝国时代系列 "wikilink")。2000年，微软发布《帝王时代》的[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")《[世紀帝國II：征服者入侵](../Page/世紀帝國II：征服者入侵.md "wikilink")》。2001年，[科乐美发布该游戏的](https://zh.wikipedia.org/wiki/科乐美 "wikilink")[PlayStation 2版本和](../Page/PlayStation_2.md "wikilink")[任天堂DS](../Page/任天堂DS.md "wikilink")衍生版本。
 
-《帝国时代II：国王时代》的游戏背景设置於[中世纪](../Page/中世纪.md "wikilink")，玩家能夠从13种不同的文明當中选出其中1种进行游戏，这些文明包括[不列颠](https://zh.wikipedia.org/wiki/不列颠 "wikilink")、[拜占庭](../Page/拜占庭.md "wikilink")、[凯尔特](https://zh.wikipedia.org/wiki/凯尔特 "wikilink")、[哥特](https://zh.wikipedia.org/wiki/哥特 "wikilink")、[条顿](https://zh.wikipedia.org/wiki/条顿 "wikilink")、[法兰克](https://zh.wikipedia.org/wiki/法兰克 "wikilink")、[蒙古](https://zh.wikipedia.org/wiki/蒙古 "wikilink")、[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[日本](../Page/日本.md "wikilink")、[波斯](../Page/波斯.md "wikilink")、[阿拉伯](https://zh.wikipedia.org/wiki/阿拉伯 "wikilink")、[土耳其](../Page/土耳其.md "wikilink")和[維京](https://zh.wikipedia.org/wiki/維京 "wikilink")。玩家经过收集资源，利用资源来修建自己的城镇，建立军队，然后试图消灭敌人。游戏设置5个基于真实历史的[战役](../Page/战役.md "wikilink")模式，玩家必须按照游戏指示完成特定的目标。[单人模式则分为](https://zh.wikipedia.org/wiki/单人游戏 "wikilink")3种，此外游戏支持在[局域网](../Page/局域网.md "wikilink")、[互联网](../Page/互联网.md "wikilink")上进行[多人游戏](https://zh.wikipedia.org/wiki/多人游戏 "wikilink")。
+《世紀帝國II：帝王时代》的游戏背景设置於[中世纪](../Page/中世纪.md "wikilink")，玩家能夠从13种不同的文明當中选出其中1种进行游戏，这些文明包括[不列颠](https://zh.wikipedia.org/wiki/不列颠 "wikilink")、[拜占庭](../Page/拜占庭.md "wikilink")、[凯尔特](https://zh.wikipedia.org/wiki/凯尔特 "wikilink")、[哥特](https://zh.wikipedia.org/wiki/哥特 "wikilink")、[条顿](https://zh.wikipedia.org/wiki/条顿 "wikilink")、[法兰克](https://zh.wikipedia.org/wiki/法兰克 "wikilink")、[蒙古](https://zh.wikipedia.org/wiki/蒙古 "wikilink")、[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[日本](../Page/日本.md "wikilink")、[波斯](../Page/波斯.md "wikilink")、[阿拉伯](https://zh.wikipedia.org/wiki/阿拉伯 "wikilink")、[土耳其](../Page/土耳其.md "wikilink")和[維京](https://zh.wikipedia.org/wiki/維京 "wikilink")。玩家经过收集资源，利用资源来修建自己的城镇，建立军队，然后试图消灭敌人。游戏设置5个基于真实历史的[战役](../Page/战役.md "wikilink")模式，玩家必须按照游戏指示完成特定的目标。[单人模式则分为](https://zh.wikipedia.org/wiki/单人游戏 "wikilink")3种，此外游戏支持在[局域网](../Page/局域网.md "wikilink")、[互联网](../Page/互联网.md "wikilink")上进行[多人游戏](https://zh.wikipedia.org/wiki/多人游戏 "wikilink")。
 
 许多电子游戏媒体都给予该游戏正面的评价，他们对于游戏中相对前作的新特性、玩法的进步等都表示称赞。不过，仍有部分评论者认为游戏对于单位的表现过于平淡无奇，也有人评价这款游戏时认为它和其前作《[帝国时代](https://zh.wikipedia.org/wiki/帝国时代 "wikilink")》过于类似。游戏发行3个月后，其销量达到2百万套，并在7个国家的电子游戏市场成为最畅销的产品。由于该游戏对于同类游戏产生的影响十分重大，业界和媒体授予它多种奖项。该游戏也成為前三届[世界电子竞技大赛](../Page/世界电子竞技大赛.md "wikilink")的比赛项目。\[1\]
 
@@ -116,13 +116,13 @@
 
 ## 資料片、續作與模組
 
-| 資料片名稱                                                                         | 發布日期        | 新增文明                                                                                                                                                                                                                                               | 新增戰役章節 | 備註                 |
-| ----------------------------------------------------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------ |
-| 《[世紀帝國II：征服者入侵](../Page/世紀帝國II：征服者入侵.md "wikilink")》                          | 2000年8月24日  | [西班牙](../Page/西班牙帝國.md "wikilink")，[阿兹特克](https://zh.wikipedia.org/wiki/阿兹特克 "wikilink")，[马雅](https://zh.wikipedia.org/wiki/马雅文明 "wikilink")，[匈奴](https://zh.wikipedia.org/wiki/匈人 "wikilink")，[韓國](https://zh.wikipedia.org/wiki/李氏朝鲜 "wikilink") | 4      | 世紀2歷史的第一個資料片       |
-| 《[世紀帝國II：失落的帝國](../Page/世紀帝國II：失落的帝國.md "wikilink")》                          | 2013年11月7日  | [印度](https://zh.wikipedia.org/wiki/印度歷史 "wikilink")，[義大利](../Page/義大利歷史.md "wikilink")，[印加](https://zh.wikipedia.org/wiki/印加 "wikilink")，[馬札爾](https://zh.wikipedia.org/wiki/匈牙利歷史 "wikilink")，[斯拉夫](https://zh.wikipedia.org/wiki/斯拉夫 "wikilink") | 7      | 僅限於Steam平台的HD版本資料片 |
-| 《[世紀帝國II：非洲王國](https://zh.wikipedia.org/wiki/世紀帝國II：非洲王國 "wikilink")》         | 2015年11月5日  | [柏柏尔](https://zh.wikipedia.org/wiki/柏柏尔 "wikilink")，[馬里](https://zh.wikipedia.org/wiki/馬里 "wikilink")，[衣索比亞](https://zh.wikipedia.org/wiki/衣索比亞 "wikilink")，[葡萄牙](../Page/葡萄牙帝國.md "wikilink")                                                     | 4      | 僅限於Steam平台的HD版本資料片 |
-| 《[世紀帝國II：王者崛起](../Page/世紀帝國II：拉者崛起.md "wikilink")》                            | 2016年12月20日 | [緬甸](https://zh.wikipedia.org/wiki/緬甸 "wikilink")，[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")，[高棉](https://zh.wikipedia.org/wiki/高棉 "wikilink")，[馬來](../Page/馬來.md "wikilink")                                                               | 4      | 僅限於Steam平台的HD版本資料片 |
-| 《[世紀帝國II決定版：最后的可汗](https://zh.wikipedia.org/wiki/世紀帝國II決定版：最后的可汗 "wikilink")》 | 2019年11月15日 | [鞑靼](../Page/鞑靼人.md "wikilink")，[库曼](https://zh.wikipedia.org/wiki/库曼人 "wikilink")，[立陶宛](../Page/立陶宛历史.md "wikilink")，[保加利亚](../Page/保加利亚历史.md "wikilink")                                                                                         | 3      | 決定版的新增內容           |
+| 資料片名稱                                                                    | 發布日期        | 新增文明                                                                                                                                                                                                                                               | 新增戰役章節 | 備註                 |
+| ------------------------------------------------------------------------ | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------ |
+| 《[世紀帝國II：征服者入侵](../Page/世紀帝國II：征服者入侵.md "wikilink")》                     | 2000年8月24日  | [西班牙](../Page/西班牙帝國.md "wikilink")，[阿兹特克](https://zh.wikipedia.org/wiki/阿兹特克 "wikilink")，[马雅](https://zh.wikipedia.org/wiki/马雅文明 "wikilink")，[匈奴](https://zh.wikipedia.org/wiki/匈人 "wikilink")，[韓國](https://zh.wikipedia.org/wiki/李氏朝鲜 "wikilink") | 4      | 世紀2歷史的第一個資料片       |
+| 《[世紀帝國II：失落的帝國](../Page/世紀帝國II：失落的帝國.md "wikilink")》                     | 2013年11月7日  | [印度](https://zh.wikipedia.org/wiki/印度歷史 "wikilink")，[義大利](../Page/義大利歷史.md "wikilink")，[印加](https://zh.wikipedia.org/wiki/印加 "wikilink")，[馬札爾](https://zh.wikipedia.org/wiki/匈牙利歷史 "wikilink")，[斯拉夫](https://zh.wikipedia.org/wiki/斯拉夫 "wikilink") | 7      | 僅限於Steam平台的HD版本資料片 |
+| 《[世紀帝國II：非洲王國](https://zh.wikipedia.org/wiki/世紀帝國II：非洲王國 "wikilink")》    | 2015年11月5日  | [柏柏尔](https://zh.wikipedia.org/wiki/柏柏尔 "wikilink")，[馬里](https://zh.wikipedia.org/wiki/馬里 "wikilink")，[衣索比亞](https://zh.wikipedia.org/wiki/衣索比亞 "wikilink")，[葡萄牙](../Page/葡萄牙帝國.md "wikilink")                                                     | 4      | 僅限於Steam平台的HD版本資料片 |
+| 《[世紀帝國II：王者崛起](../Page/世紀帝國II：拉者崛起.md "wikilink")》                       | 2016年12月20日 | [緬甸](https://zh.wikipedia.org/wiki/緬甸 "wikilink")，[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")，[高棉](https://zh.wikipedia.org/wiki/高棉 "wikilink")，[馬來](../Page/馬來.md "wikilink")                                                               | 4      | 僅限於Steam平台的HD版本資料片 |
+| 《[世紀帝國II決定版：最后的可汗](https://zh.wikipedia.org/wiki/世紀帝國II：決定版 "wikilink")》 | 2019年11月15日 | [鞑靼](../Page/鞑靼人.md "wikilink")，[库曼](https://zh.wikipedia.org/wiki/库曼人 "wikilink")，[立陶宛](../Page/立陶宛历史.md "wikilink")，[保加利亚](../Page/保加利亚历史.md "wikilink")                                                                                         | 3      | 決定版的新增內容           |
 
 《帝国时代II：国王时代》的[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")《[帝国时代II：征服者](https://zh.wikipedia.org/wiki/帝国时代II：征服者 "wikilink")》于2000年发布。该资料片引入5种新的文明，其中2种代表[新大陆](https://zh.wikipedia.org/wiki/新大陆 "wikilink")：[阿兹特克和](https://zh.wikipedia.org/wiki/阿兹特克 "wikilink")[玛雅](https://zh.wikipedia.org/wiki/玛雅文明 "wikilink")，而另外3种分别是西班牙、匈奴和-{zh-hans:朝鲜; zh-hant:韓國;}-。伴随而来的还有关於这几个文明的战役系列；另有一个战役系列其中都是互不相干的独立战役，例如[阿金库尔战役](../Page/阿金库尔战役.md "wikilink")、[黑斯廷斯战役](https://zh.wikipedia.org/wiki/黑斯廷斯战役 "wikilink")、[山崎之战](https://zh.wikipedia.org/wiki/山崎之战 "wikilink")、[勒班陀戰役](../Page/勒班陀戰役.md "wikilink")等。除了资料片《征服者》，《神话时代》（）作为独立的衍生游戏产品于2002年发布。\[93\]
 
@@ -133,6 +133,10 @@
 2013年4月10日，遊戲公司與[Steam](../Page/Steam.md "wikilink")合作推出《帝国时代II》高清版（[HD](https://zh.wikipedia.org/wiki/HD "wikilink") Edition）版本，以《帝国时代II：征服者》為基礎，該版本主要針對遊戲效能與畫面的強化（改變懸崖圖案、農田加入瑞穗、視窗左上角資源圖片變更、投石車不再能摧毀樹木等），及連線功能、社群支援與人工智能水平的增強，並支援Steamwork的成就、雲端存檔與Workshop。唯有系統少有改變，例如最大人口數提升與部分科技研發耗時調整\[99\]。
 
 遊戲公司更於2015年秋季推出第三個官方擴充資料片──《非洲王國》，於2016年年底推出第四個官方擴充資料片──《王者崛起》。
+
+### 決定版
+
+2017年，8月21日在[Gamescom](../Page/Gamescom.md "wikilink"), 微軟宣布世紀帝國II：決定版由Forgotten Empires, Tantalus Media和[Wicked Witch Software所開發](../Page/Wicked_Witch_Software.md "wikilink")。2019年，6月9日微軟釋出試玩版在2019年，XBox E3.這遊戲版本包括前作和資料片所有的內容，4個新文明，新的戰役任務和4K畫質。2019年11月14日，在PC上的Xbox Game Pass, 微軟啇店和Steam上發行。
 
 ## 参考文献
 
@@ -146,88 +150,52 @@
 [Category:世紀帝國系列](https://zh.wikipedia.org/wiki/Category:世紀帝國系列 "wikilink") [Category:1999年电子游戏](https://zh.wikipedia.org/wiki/Category:1999年电子游戏 "wikilink") [Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink") [Category:微軟遊戲](https://zh.wikipedia.org/wiki/Category:微軟遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:製作中止的Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:製作中止的Dreamcast遊戲 "wikilink") [Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink") [Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink") [Category:科乐美游戏](https://zh.wikipedia.org/wiki/Category:科乐美游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方中文配音游戏](https://zh.wikipedia.org/wiki/Category:官方中文配音游戏 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
-
 14.
 15.
-
 16.
-
 17.
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
 24.
-
 25.
-
 26.
-
 27.
 28.
-
 29.
-
 30.
 31.
-
 32.
-
 33.
-
 34.
 35.
-
 36.
-
 37.
 38.
-
 39.
-
 40.
 41.
 42.
 43.
-
 44.
-
 45.
-
 46. 这里列出的名称和音乐长度都是根据《Music From The Ages》和《More Music From The Ages》两张专辑中的資料。
-
 47.
-
 48.
 49.
 50.
@@ -259,44 +227,24 @@
 76.
 77.
 78. ["Age of Empires II: The Age of Kings" Crowned No. 1 On Holiday Sales Charts Around the World](http://www.microsoft.com/presspass/press/2000/Jan00/CrownedPR.mspx)  (January 27, 2000). [Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink"). Retrieved September 24, 2008.
-
 79. Mark Walker (2003). "Chapter 19: Age of Empires II: Good, Semi-Historical Fun", [*Games That Sell\!*](http://books.google.com.au/books?id=G1FqWstFy_YC&printsec=frontcover&source=gbs_summary_r&cad=0#PPA175,M1). Wordware Publishing, Inc. ISBN 978-1-55622-950-3. pp. 175–188.
-
 80.
-
 81.
-
 82.
-
 83.
-
 84.
 85.
-
 86.
-
 87.
-
 88.
-
 89.
-
 90.
-
 91.
-
 92.
-
 93.
-
 94.
-
 95.
-
 96.
-
 97.
-
 98.
-
 99. Steam官方購買網頁：http://store.steampowered.com/app/221380/

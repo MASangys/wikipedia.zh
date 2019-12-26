@@ -227,9 +227,27 @@ MP5現今在[土耳其](../Page/土耳其.md "wikilink")、[希臘](https://zh.w
       - [希臘武裝部隊](https://zh.wikipedia.org/wiki/希臘軍事 "wikilink")
 
   -
-  - （2017年11月16日，根据消息人士透露，制造商黑克勒-科赫公司拒絕了香港警方在年初购买一批MP5衝鋒槍和配件的请求。有报道指出，德國媒體DPA于2016年11月曾引用一名黑克勒-科赫不具名高層的话，他说公司希望只向[民主](../Page/民主.md "wikilink")且非[腐敗的政府售賣槍械](https://zh.wikipedia.org/wiki/政治腐败 "wikilink")，而它們必須是[北約成員國或其盟友](https://zh.wikipedia.org/wiki/北約 "wikilink")。一些观点认为，这或与香港近年[人权](../Page/人权.md "wikilink")和和平[集会权利受损有关](https://zh.wikipedia.org/wiki/集会 "wikilink")。[香港保安局局長李家超拒绝就报道发布评论](https://zh.wikipedia.org/wiki/香港保安局 "wikilink")，并表示市场仍有很多选择，此事不会影响执法机构运作\[9\]\[10\]\[11\]\[12\]。）
+  - ：香港警方在1970年代後期跟隨[英軍選用MP](https://zh.wikipedia.org/wiki/英軍 "wikilink")5\[9\]，早期只由特別任務連等特警單位專用，後來大量購入並擴展為一般單位都裝備。2017年11月，黑克勒-科赫公司拒絕了香港警方在年初购买一批MP5衝鋒槍和配件的请求\[10\]。德國媒體DPA於2016年11月曾引述一名黑克勒-科赫不具名高層稱公司希望只向[北約成員國或北約夥伴國當中的](https://zh.wikipedia.org/wiki/北約 "wikilink")[民主](../Page/民主.md "wikilink")且非[腐敗政府售賣槍械](https://zh.wikipedia.org/wiki/政治腐败 "wikilink")。[香港保安局局長李家超拒绝就报道发布评论](https://zh.wikipedia.org/wiki/香港保安局 "wikilink")，并表示市场仍有很多选择，此事不会影响执法机构运作\[11\]，輿論認為[香港人權](../Page/香港人權.md "wikilink")狀況近年倒退是被德國廠商拒售的原因\[12\]\[13\]。黑克勒-科赫公司在2019年6月證實因應香港近月政局（[反送中運動](https://zh.wikipedia.org/wiki/反送中運動 "wikilink")）決定不再向香港警方供應MP5及配件\[14\]\[15\]，該廠商亦稱其道德標準是不向任何正發生衝突或參與衝突的國家輸出槍械\[16\]。
 
-      - [香港警務處](../Page/香港警務處.md "wikilink")（[衝鋒隊](../Page/衝鋒隊_\(香港\).md "wikilink")、[水警總區](../Page/水警總區.md "wikilink")、[小艇分區](../Page/小艇分區.md "wikilink")、[有組織罪案及三合會調查科](../Page/有組織罪案及三合會調查科.md "wikilink")、[毒品調查科](../Page/毒品調查科.md "wikilink")、[刑事情報科](../Page/刑事情報科.md "wikilink")、[跟蹤支援隊](../Page/跟蹤支援隊.md "wikilink")、[保護證人組](../Page/保護證人組.md "wikilink")、[要員保護組](../Page/要員保護組.md "wikilink")、[機場特警組](../Page/機場特警組.md "wikilink")、[反恐特勤隊](../Page/反恐特勤隊.md "wikilink")及[特別任務連](../Page/特別任務連.md "wikilink")）
+      - [香港警務處](../Page/香港警務處.md "wikilink")
+          - [警察總區](../Page/警察總區.md "wikilink")
+              - [衝鋒隊](../Page/衝鋒隊_\(香港\).md "wikilink")
+          - [水警總區](../Page/水警總區.md "wikilink")
+              - [小艇分區](../Page/小艇分區.md "wikilink")
+          - [有組織罪案及三合會調查科](../Page/有組織罪案及三合會調查科.md "wikilink")
+          - [毒品調查科](../Page/毒品調查科.md "wikilink")
+          - 刑事部
+              - [跟蹤支援隊](../Page/跟蹤支援隊.md "wikilink")
+          - 保安部
+              - [保護證人組](../Page/保護證人組.md "wikilink")
+              - [要員保護組](../Page/要員保護組.md "wikilink")
+          - [警察機動部隊總部](https://zh.wikipedia.org/wiki/警察機動部隊總部 "wikilink")
+              - [特別戰術小隊](../Page/特別戰術小隊.md "wikilink")
+              - [特別任務連](../Page/特別任務連.md "wikilink")
+          - [機場警區](../Page/機場警區.md "wikilink")
+              - [機場特警組](../Page/機場特警組.md "wikilink")
+          - 反恐怖活動及內部保安組
+              - [反恐特勤隊](../Page/反恐特勤隊.md "wikilink")
       - [香港海關](../Page/香港海關.md "wikilink")
 
   -   - [匈牙利國防軍](https://zh.wikipedia.org/wiki/匈牙利軍事 "wikilink")
@@ -279,7 +297,7 @@ MP5現今在[土耳其](../Page/土耳其.md "wikilink")、[希臘](https://zh.w
       - [海上保安廳](../Page/海上保安廳.md "wikilink")[特殊警備隊](https://zh.wikipedia.org/wiki/特殊警備隊 "wikilink")
 
   -
-  -   - 特種部隊單位\[13\]
+  -   - 特種部隊單位\[17\]
 
   -   -
   -
@@ -334,7 +352,7 @@ MP5現今在[土耳其](../Page/土耳其.md "wikilink")、[希臘](https://zh.w
       - 特別行動團
 
   -
-  -   - [挪威國防軍](../Page/挪威國防軍.md "wikilink")（被[MP7所取代](https://zh.wikipedia.org/wiki/HK_MP7衝鋒槍 "wikilink")\[14\]）
+  -   - [挪威國防軍](../Page/挪威國防軍.md "wikilink")（被[MP7所取代](https://zh.wikipedia.org/wiki/HK_MP7衝鋒槍 "wikilink")\[18\]）
 
       -
   -
@@ -370,8 +388,8 @@ MP5現今在[土耳其](../Page/土耳其.md "wikilink")、[希臘](https://zh.w
   -   - 特種作戰營
 
       -
-  -   - [俄羅斯聯邦安全局](https://zh.wikipedia.org/wiki/俄羅斯聯邦安全局 "wikilink")[阿爾法小組](../Page/阿爾法小組.md "wikilink")（A3）\[15\]\[16\]
-      - [俄羅斯聯邦武裝力量特種作戰部隊](../Page/俄羅斯聯邦武裝力量特種作戰部隊.md "wikilink")\[17\]
+  -   - [俄羅斯聯邦安全局](https://zh.wikipedia.org/wiki/俄羅斯聯邦安全局 "wikilink")[阿爾法小組](../Page/阿爾法小組.md "wikilink")（A3）\[19\]\[20\]
+      - [俄羅斯聯邦武裝力量特種作戰部隊](../Page/俄羅斯聯邦武裝力量特種作戰部隊.md "wikilink")\[21\]
 
   -   - 特種部隊單位 （採用合法生產版本）
 
@@ -398,7 +416,7 @@ MP5現今在[土耳其](../Page/土耳其.md "wikilink")、[希臘](https://zh.w
       -
       - [西班牙海軍](../Page/西班牙海軍.md "wikilink")
 
-  - \[18\]
+  - \[22\]
 
   - ：採用[合法生產版本](https://zh.wikipedia.org/wiki/合法生產 "wikilink")
 
@@ -420,14 +438,14 @@ MP5現今在[土耳其](../Page/土耳其.md "wikilink")、[希臘](https://zh.w
 
   -   - 總統衛隊
       - 內務部歐米茄特種部隊
-      - [烏克蘭安全局](https://zh.wikipedia.org/wiki/烏克蘭安全局 "wikilink")[阿爾法小組](../Page/阿爾法小組_\(烏克蘭\).md "wikilink")\[19\]（A3）
+      - [烏克蘭安全局](https://zh.wikipedia.org/wiki/烏克蘭安全局 "wikilink")[阿爾法小組](../Page/阿爾法小組_\(烏克蘭\).md "wikilink")\[23\]（A3）
 
   -
   -   - 安全服務隊
 
   -   - [英國特種部隊](https://zh.wikipedia.org/wiki/英國特種部隊 "wikilink")（A3、SD、K）
 
-      - [倫敦警察廳](../Page/倫敦警察廳.md "wikilink")[專業槍械司令部](../Page/專業槍械司令部.md "wikilink")（SF）
+      - [倫敦都市警部](../Page/倫敦警察廳.md "wikilink")[特種槍械司令部](https://zh.wikipedia.org/wiki/特種槍械司令部 "wikilink")（SF）
 
       - 槍械授權警員（SF）
 
@@ -472,7 +490,7 @@ MP5系列也出現在許多[電影](https://zh.wikipedia.org/wiki/電影 "wikili
   - 1999年—《[-{zh-hk:廿二世紀殺人網絡;zh-cn:黑客帝国;zh-tw:駭客任務;}-](https://zh.wikipedia.org/wiki/駭客任務 "wikilink")》（The Matrix）：型號為MP5K，被湯瑪斯·安德森/尼奧（[基努李維飾演](https://zh.wikipedia.org/wiki/基努李維 "wikilink")）[雙持](../Page/雙持.md "wikilink")使用，會使用“HK拍擊”上膛。
   - 2001年—《[-{zh-hk:黑鷹十五小時;zh-cn:黑鹰坠落;zh-tw:黑鷹計劃;}-](../Page/黑鷹計劃.md "wikilink")》（Black Hawk Down）：型號為MP5A3，[黑鷹直升機超級](https://zh.wikipedia.org/wiki/UH-60黑鷹直升機 "wikilink")64號駕駛員麥可·杜蘭特（朗·艾達飾演）所使用。
   - 2002年—《[-{zh-hk:未來殺人網絡;zh-cn:撕裂的末日;zh-tw:重裝任務;}-](https://zh.wikipedia.org/wiki/重裝任務 "wikilink")》（Equilibrium）：型號為MP5A3和MP5K，被“清道夫”們所使用。
-  - 2002年ㄧ《[雙瞳](../Page/雙瞳_\(電影\).md "wikilink")》：型號為MP5A5，被一群從記者身後經過的[中華民國特種警察](../Page/中華民國特種警察.md "wikilink")所使用。
+  - 2002年ㄧ《[雙瞳](../Page/雙瞳_\(電影\).md "wikilink")》：型號為MP5A5，被一群從記者身後經過的[中華民國特種警察](../Page/中華民國特種警察.md "wikilink")小組所使用。
   - 2002年—《[-{zh-cn:生化危机; zh-tw:惡靈古堡; zh-hk:生化危機之變種生還者}-](https://zh.wikipedia.org/wiki/惡靈古堡_\(電影\) "wikilink")》（Resident Evil）：型號為MP5K，裝上[紅點鏡](../Page/紅點鏡.md "wikilink")，被[保護傘公司的突擊隊員所使用](../Page/安布雷拉.md "wikilink")。
   - 2003年—《[-{zh-hk:廿二世紀殺人網絡2：決戰未來;zh-cn:黑客帝国2：重装上阵;zh-tw:駭客任務：重裝上陣;}-](https://zh.wikipedia.org/wiki/黑客帝國2：重裝上陣 "wikilink")》（The Matrix Reloaded）：型號為MP5A3及MP5K，被墨洛溫（[藍柏·威爾森](../Page/藍柏·威爾森.md "wikilink")飾演）的手下所使用，會使用“HK拍擊”上膛。
   - 2003年—《[-{zh-hk:廿二世紀殺人網絡3：驚變世紀;zh-cn:黑客帝国3：矩阵革命;zh-tw:駭客任務完結篇：最後戰役;}-](https://zh.wikipedia.org/wiki/黑客帝國3：矩陣革命 "wikilink")》（The Matrix Revolutions）：型號為MP5K，裝上[紅點鏡](../Page/紅點鏡.md "wikilink")並移除了[前握把](../Page/輔助握把.md "wikilink")，被莫菲斯（[勞倫斯·費許朋](../Page/勞倫斯·費許朋.md "wikilink")飾演）[雙持](../Page/雙持.md "wikilink")使用。
@@ -593,15 +611,13 @@ MP5系列也出現在許多[電影](https://zh.wikipedia.org/wiki/電影 "wikili
       - MP5SD2命名為「MP5SD」，被[特殊急襲部隊](../Page/特殊急襲部隊.md "wikilink")所使用。
   - 2015年—《[-{zh-hans:黑山：起源;zh-hant:黑色高地：起源;}-](../Page/黑色高地.md "wikilink")》（Black Mesa）：型号为MP5A3，但奇怪的使用MP5SD的枪管，命名为「9毫米冲锋枪」，使用30发弹匣装填并与[格洛克手枪共用备弹](../Page/格洛克17.md "wikilink")，换弹时会手动锁定枪机，更换弹匣后会使用“HK拍击”上膛。裝上了[M203榴彈發射器](../Page/M203榴彈發射器.md "wikilink")并最多可携带3发榴弹，但奇怪的不需要扣动扳机即可击发。MOD版本加装[全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")，独立版本则不安装瞄准镜。
   - 2016年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》(Girls' Frontline):在少女前線中，MP5被設為四星衝鋒戰術人形，可透過工廠製造獲得，外觀為手持MP5的女孩。
-  - 2016年—《[殺戮空間2](https://zh.wikipedia.org/wiki/殺戮空間2 "wikilink")》（Killing Floor 2）:型號為MP5A2，命名為「MP5RAS SMG」，配備戰術導軌護木並裝上前握把，以30發彈匣供彈卻有40發。
+  - 2016年—《[殺戮空間2](../Page/殺戮空間2.md "wikilink")》（Killing Floor 2）:型號為MP5A2，命名為「MP5RAS SMG」，配備戰術導軌護木並裝上前握把，以30發彈匣供彈卻有40發。
   - 2016年—《[-{zh:決勝時刻：現代戰爭; zh-hans:使命召唤：现代战争; zh-hant:決勝時刻：現代戰爭; zh-cn:使命召唤：现代战争; zh-tw:決勝時刻：現代戰爭; zh-hk:使命召喚：現代戰爭;}-重製版](../Page/決勝時刻4：現代戰爭.md "wikilink")》（Call of Duty: Modern Warfare Remastered）：型號為MP5N及MP5SD3，外觀比前作更為精細。
-
-用，命名為「9×19VSN」。
-
   - 2016年—《》（Escape From Tarkov）：登場型號為MP5A4（預設）和MP5SD5（預設）。
   - 2018年—《[-{zh-hans:孤岛惊魂; zh-hant:極地戰嚎;}-5](https://zh.wikipedia.org/wiki/極地戰嚎5 "wikilink")》（Far Cry 5）：型號為MP5A3、MP5SD3和MP5K，會使用「HK拍擊」上膛。
+  - 2018年—《[-{zh-hans:绝地求生; zh-hant:絕地求生;}-](../Page/絕地求生.md "wikilink")》（PUBG）：型號為MP5K，會使用所衝鋒槍的槍口、彈匣、6倍及以下的倍鏡和槍托，並使用9毫米口徑的子彈。
   - 2019年—《[-{zh-hans:孤岛惊魂：新曙光; zh-hant:極地戰嚎：破曉;}-](../Page/孤岛惊魂：新曙光.md "wikilink")》（Far Cry: New Dawn）
-  - 2019-《絕地求生》型號為MPK5,使用九毫米子彈。
+  - 2019年—《[-{zh-cn:使命召唤：现代战争; zh-tw:決勝時刻：現代戰爭; zh-hk:使命召喚：現代戰爭}-](https://zh.wikipedia.org/wiki/使命召唤：现代战争_\(2019年遊戲\) "wikilink")》（Call of Duty: Modern Warfare）：型號為MP5A3（預設），命名為“MP5”，可進行自定義改裝，會使用“HK拍擊”上膛。故事模式中由[英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[特種空勤團所使用](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")。
 
 ### [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")
 
@@ -648,12 +664,12 @@ MP5系列也出現在許多[電影](https://zh.wikipedia.org/wiki/電影 "wikili
 
       - [Heckler und Koch MP-5k](http://world.guns.ru/smg/de/hk-mp5k-e.html)
 
-  - —[槍炮世界—MP5系列冲锋枪](https://web.archive.org/web/20120424050323/http://www.gunsworld.net/german/hk/mp5/mp5.htm)
+  - —[槍炮世界—MP5系列冲锋枪](http://firearmsworld.net/german/hk/mp5/mp5.htm)
 
 [Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:黑克勒-科赫](https://zh.wikipedia.org/wiki/Category:黑克勒-科赫 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:10毫米Auto槍械](https://zh.wikipedia.org/wiki/Category:10毫米Auto槍械 "wikilink") [Category:.40_S\&W口徑槍械](https://zh.wikipedia.org/wiki/Category:.40_S&W口徑槍械 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink") [Category:美國海軍陸戰隊裝備](https://zh.wikipedia.org/wiki/Category:美國海軍陸戰隊裝備 "wikilink") [Category:HK_G3衍生槍](https://zh.wikipedia.org/wiki/Category:HK_G3衍生槍 "wikilink")
 
-1.  [tactical-weapons.com-Comparison between SWA5 and Third world country MP5 weapons](http://www.tactical-weapons.com/SWA5comp.htm)
-2.  [tactical-weapons.com-SWA5](http://www.tactical-weapons.com/swa5.htm)
+1.
+2.
 3.  [diomil.ir](http://www.diomil.ir/en/aig.aspx)
 4.  <http://vitaly.livejournal.com/165234.html>
 5.  <http://www.youtube.com/watch?v=_ihVozn0BeE>
@@ -664,10 +680,14 @@ MP5系列也出現在許多[電影](https://zh.wikipedia.org/wiki/電影 "wikili
 10.
 11.
 12.
-13. <http://www.youtube.com/watch?v=mz-_AVC-tV4>
-14. [*En liten røver med trøkk i (Norwegian article on the Heckler & Koch deal)*](http://www.mil.no/haren/start/article.jhtml?articleID=141475)
-15. <http://scienceport.ru/galleries/Kalendar-Alfy-na-2014-god-9046.html>
-16. <http://lenta.ru/news/2009/12/11/glock/>
-17. <http://i-korotchenko.livejournal.com/662520.html>
-18. [priu.gov.lk-Naval surveillance is the millstone around LTTE's neck](http://www.priu.gov.lk/news_update/features/20031017naval_surveillance_millstone_LTTE.htm)
-19. <https://sites.google.com/site/worldinventory/wiw_eu_ukraine>
+13.
+14.
+15.
+16.
+17. <http://www.youtube.com/watch?v=mz-_AVC-tV4>
+18. [*En liten røver med trøkk i (Norwegian article on the Heckler & Koch deal)*](http://www.mil.no/haren/start/article.jhtml?articleID=141475)
+19. <http://scienceport.ru/galleries/Kalendar-Alfy-na-2014-god-9046.html>
+20. <http://lenta.ru/news/2009/12/11/glock/>
+21. <http://i-korotchenko.livejournal.com/662520.html>
+22. [priu.gov.lk-Naval surveillance is the millstone around LTTE's neck](http://www.priu.gov.lk/news_update/features/20031017naval_surveillance_millstone_LTTE.htm)
+23. <https://sites.google.com/site/worldinventory/wiw_eu_ukraine>

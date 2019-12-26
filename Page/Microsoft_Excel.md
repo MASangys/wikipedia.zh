@@ -307,16 +307,6 @@ Excel 7.0 (Excel 95) 及之前版本行数只能达到16384（=2<sup>14</sup>）
 
 Excel的时间系统中，会认为1900年2月29日是有效日期，也就是[1900年](../Page/1900年.md "wikilink")为闰年，但实际上并不是。这是源于模仿早期竞品Lotus 1-2-3上的缺陷而引入的特性，由于Lotus 1-2-3的时间纪元以1900年起始，之后的时间为差值累加，导致其时间体系一开始就认为1900年是闰年，而Excel为了兼容Lotus 1-2-3的文件格式，也保留了这个缺陷作为特性而不进行修复，即使至今已不需要兼容Lotus 1-2-3。\[5\]
 
-## 工作變遷
-
-|                               |
-| ----------------------------- |
-| 星期一至日 6:10-6:30/21:30-21:45項目 |
-| (2018-12-31 – )               |
-| Microsoft Office Excel        |
-| 上一則                           |
-| MS Office Accounting          |
-
 ## 竞争对手
 
   - [Google文件](../Page/Google文件.md "wikilink")
@@ -334,6 +324,12 @@ Excel的时间系统中，会认为1900年2月29日是有效日期，也就是[1
   - [VisiCalc](https://zh.wikipedia.org/wiki/VisiCalc "wikilink")
   - [WPS表格](https://zh.wikipedia.org/wiki/WPS "wikilink")
   - [LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")
+
+## 轶事
+
+Excel 内置的日期处理程序将1900年视为闰年，在处理该年的日期时默认有2月29日，而实际上并不存在这一天。
+
+对此，微软的解释是，这个 Bug 最初是在 [Lotus 1-2-3](../Page/Lotus_1-2-3.md "wikilink") 中产生的，而早期版本的 Excel 为了与 Lotus 兼容，不得不沿袭这个错误。当前，虽然技术上可以修正这个错误，但带来的影响将远远超过保留它，因此不得不“将错就错”。所以直到最新版本的 Excel 上，仍然将1900年视为闰年。\[6\]
 
 ## 参考文献
 
@@ -362,3 +358,4 @@ Excel的时间系统中，会认为1900年2月29日是有效日期，也就是[1
 3.
 4.
 5.
+6.

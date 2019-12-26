@@ -1,6 +1,6 @@
 **Steam**游戏平台（蒸汽平台）是美國電子遊戲商[维尔福](https://zh.wikipedia.org/wiki/维尔福 "wikilink")（Valve）於2003年9月12日推出的[數位發行平台](https://zh.wikipedia.org/wiki/數位發行 "wikilink")，提供[数字版权管理](../Page/数字版权管理.md "wikilink")、[多人游戏](https://zh.wikipedia.org/wiki/多人电子游戏 "wikilink")、[流媒体](../Page/流媒体.md "wikilink")和[社交网络服务等功能](../Page/社交網路服務.md "wikilink")。借助Steam，用户能安装并自动更新游戏，也可以使用包括好友列表和组在内的社区功能，还能使用[云存储](../Page/云存储.md "wikilink")、游戏内语音和聊天功能。Steam软件免费提供了一个[应用程序接口](../Page/应用程序接口.md "wikilink")，称为Steamworks，开发商可以用来整合Steam的功能到自己的产品中，例如网络、在线对战、成就、微交易，并通过Steam创意工坊分享用户创作的内容。最初Steam只在[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[操作系统](../Page/操作系统.md "wikilink")发布，但后来也发布了[OS X和](../Page/MacOS.md "wikilink")[Linux](../Page/Linux.md "wikilink")版本。2010年以来，Steam推出了为[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")和[Windows Phone设计的移动应用](../Page/Windows_Phone.md "wikilink")，与电脑版软件实现互联。
 
-Steam被认为是[电脑游戏](../Page/电脑游戏.md "wikilink")界最大的数碼发行平台。2013年10月，Screen Digest估计Steam的市场份额有75%。\[1\]2015年，跟踪网站Steam Spy估计，用户从Steam商店或第三方供应商购买的Steam游戏总额约为35亿美元，占当年PC游戏销售总额的15%。\[2\]\[3\]2017年末，跟踪网站Steam Spy的数据表示Steam已有2.81亿注册账户，同时在线用户1750万。\[4\]\[5\]Steam平台的成功也让维尔福开始研发[Steam主机和](../Page/Steam_Machine.md "wikilink")[SteamOS](../Page/SteamOS.md "wikilink")。嗯嗯嗯
+Steam被认为是全世界的[电脑游戏](../Page/电脑游戏.md "wikilink")界最大的数碼发行平台。2013年10月，Screen Digest估计Steam的市场份额有75%。\[1\]2015年，跟踪网站Steam Spy估计，用户从Steam商店或第三方供应商购买的Steam游戏总额约为35亿美元，占当年PC游戏销售总额的15%。\[2\]\[3\]2017年末，跟踪网站Steam Spy的数据表示Steam在全球已有2.81亿注册账户，同时在线用户1750万。\[4\]\[5\]Steam平台的成功也让维尔福开始研发[Steam主机和](../Page/Steam_Machine.md "wikilink")[SteamOS](../Page/SteamOS.md "wikilink")。
 
 ## 历史
 
@@ -60,7 +60,7 @@ Steam平台的用戶必須先安裝Steam客戶端軟體，并經註冊後才能�
 
 ### 線上購物系統
 
-Steam採用[Global Collect公司的支付系統進行電子支付](https://zh.wikipedia.org/wiki/Global_Collect "wikilink")，幣種為[美元](../Page/美元.md "wikilink")，[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")、[巴西](../Page/巴西.md "wikilink")和[香港](../Page/香港.md "wikilink")等本土化地区採用本地幣種進行支付，採用區域定價策略。俄羅斯與[獨聯體國家普遍定價較低](../Page/獨立國家聯合體.md "wikilink")，有部份遊戲限為該區的版本就是「俄區遊戲」。Steam目前支持包括[PayPal](../Page/PayPal.md "wikilink")、[VISA](https://zh.wikipedia.org/wiki/VISA "wikilink")、[MasterCard](https://zh.wikipedia.org/wiki/MasterCard "wikilink")、[American Express](https://zh.wikipedia.org/wiki/American_Express "wikilink")、[Discover](../Page/发现卡.md "wikilink")、[JCB](../Page/JCB.md "wikilink")、[银联](https://zh.wikipedia.org/wiki/银联 "wikilink")、[微信](../Page/微信.md "wikilink")、[支付宝](../Page/支付宝.md "wikilink")（中国大陆）、ClickandBuy、[MoneyBookers](https://zh.wikipedia.org/wiki/MoneyBookers "wikilink")、PaySafeCard、、、[Carte Bleue](../Page/Carte_Bleue.md "wikilink")、DIRECTebanking、Boleto Bancário、Hipercard等在內的多個國際或地區支付方式。
+Steam採用[Global Collect公司的支付系統進行電子支付](https://zh.wikipedia.org/wiki/Global_Collect "wikilink")，幣種為[美元](../Page/美元.md "wikilink")，[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")、[巴西](../Page/巴西.md "wikilink")、[香港](../Page/香港.md "wikilink")、[台灣等本土化地区採用本地幣種進行支付](https://zh.wikipedia.org/wiki/台灣 "wikilink")，採用區域定價策略。俄羅斯與[獨聯體國家普遍定價較低](../Page/獨立國家聯合體.md "wikilink")，有部份遊戲限為該區的版本就是「俄區遊戲」。Steam目前支持包括[PayPal](../Page/PayPal.md "wikilink")、[VISA](https://zh.wikipedia.org/wiki/VISA "wikilink")、[MasterCard](https://zh.wikipedia.org/wiki/MasterCard "wikilink")、[American Express](https://zh.wikipedia.org/wiki/American_Express "wikilink")、[Discover](../Page/发现卡.md "wikilink")、[JCB](../Page/JCB.md "wikilink")、[银联](https://zh.wikipedia.org/wiki/银联 "wikilink")、[微信](../Page/微信.md "wikilink")、[支付宝](../Page/支付宝.md "wikilink")（中国大陆）、ClickandBuy、[MoneyBookers](https://zh.wikipedia.org/wiki/MoneyBookers "wikilink")、PaySafeCard、、、[Carte Bleue](../Page/Carte_Bleue.md "wikilink")、DIRECTebanking、Boleto Bancário、Hipercard等在內的多個國際或地區支付方式。
 
 2016年4月，威爾烏開始接受[比特幣進行電子支付](https://zh.wikipedia.org/wiki/比特幣 "wikilink")，但在2017年12月宣佈不再接受比特幣，理由是手續費暴增且幣值波動劇烈。\[39\]
 
@@ -124,94 +124,50 @@ SteamOS包括了Linux的架构以及为大屏幕模式设计的游戏体验。St
 [Category:2003年軟體](https://zh.wikipedia.org/wiki/Category:2003年軟體 "wikilink") [Category:Steam](https://zh.wikipedia.org/wiki/Category:Steam "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:Windows軟體](https://zh.wikipedia.org/wiki/Category:Windows軟體 "wikilink") [Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink") [Category:雲端運算](https://zh.wikipedia.org/wiki/Category:雲端運算 "wikilink") [Category:電子遊戲線上零售商](https://zh.wikipedia.org/wiki/Category:電子遊戲線上零售商 "wikilink") [Category:威爾烏](https://zh.wikipedia.org/wiki/Category:威爾烏 "wikilink") [Category:虛擬經濟](https://zh.wikipedia.org/wiki/Category:虛擬經濟 "wikilink") [Category:網站](https://zh.wikipedia.org/wiki/Category:網站 "wikilink") [Category:電子商務](https://zh.wikipedia.org/wiki/Category:電子商務 "wikilink") [Category:數位版權管理](https://zh.wikipedia.org/wiki/Category:數位版權管理 "wikilink") [Category:多人遊戲服務](https://zh.wikipedia.org/wiki/Category:多人遊戲服務 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
 20.
-
 21.
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37. [Steam中国落户上海浦东](http://tech.ifeng.com/a/20181129/45240723_0.shtml)
-
 38. Steam 用戶合約: [英文版](http://store.steampowered.com/subscriber_agreement/?l=english)
-
 39. [Steam 不再支援 Bitcoin](https://steamcommunity.com/games/593110/announcements/detail/1464096684955433613)
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47. [Steam 开始默认启用加密，但中国区除外](https://www.solidot.org/story?sid=56316)
-
 48.

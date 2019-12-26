@@ -53,7 +53,7 @@ G-Man还是没有给玩家揭开他神秘的面纱，不管是关于他的身世
 
 ### 半条命2：第一章
 
-在[半条命2：第一章中G](https://zh.wikipedia.org/wiki/半條命2:劫後餘生 "wikilink")-Man对戈登的拘禁被一群[弗地冈人以念力阻止](https://zh.wikipedia.org/wiki/弗地冈人 "wikilink")，之後G-Man愤怒的说：「我們……走著瞧！」（"We'll see... about that\!"）之後會採取什麼樣的行動還未知。直到游戏结束也再没看到他。
+在[半条命2：第一章中G](https://zh.wikipedia.org/wiki/半條命2:劫後餘生 "wikilink")-Man对戈登的拘禁被一群[弗地冈人以念力阻止](https://zh.wikipedia.org/wiki/弗地冈人 "wikilink")，之後G-Man愤怒的说：「我們……走著瞧！」（We'll see... about that\!）之後會採取什麼樣的行動還未知。直到游戏结束也再没看到他。
 
 ### 半条命2：第二章
 
@@ -96,7 +96,7 @@ G-Man还是没有给玩家揭开他神秘的面纱，不管是关于他的身世
   - **运河航道**（d1_canals_06）：大显示屏。
   - **运河航道**（d1_canals_12）：汽船上。
   - **运河航道**（d1_canals_13）：控制门旁边。
-  - **我们不去温莱霍姆**(d1_town_05）：在离开莱温霍姆后，火车上。
+  - **我们不去温莱霍姆**（d1_town_05）：在离开莱温霍姆后，火车上。
   - **17号高速公路**（de_coast_03）：17号公路上。
   - **诺瓦矿场**（de_prison_02）：窗外。
   - **反公民1号**（d3_c17_02）：电视中的木船旁边。
@@ -132,8 +132,6 @@ G-Man还是没有给玩家揭开他神秘的面纱，不管是关于他的身世
 [Category:戰慄時空系列角色](https://zh.wikipedia.org/wiki/Category:戰慄時空系列角色 "wikilink")
 
 1.  [Half-Life 2: Episode One story page](http://ep1.half-life2.com/story.php)
-
 2.  Valve; Hodgson, David SJ (2004), p. 137. *[Half-Life 2: Raising the Bar](https://zh.wikipedia.org/wiki/Half-Life_2:_Raising_the_Bar "wikilink")*. Random House, Inc. ISBN 0-7615-4364-3
-
 3.
 4.   Half Life G MAN Theory |url=<https://www.youtube.com/watch?v=BgYzOLQ8sU8> |website=Youtube |accessdate=2017年8月15日 |date=2017-08-15}}

@@ -4,9 +4,9 @@
 
 ### 1880年至1929年
 
-IBM實际创始人[托馬斯·沃森的先人十九世紀中期因](../Page/托馬斯·J·沃森.md "wikilink")[愛爾蘭大饑荒移民美國](../Page/爱尔兰大饥荒.md "wikilink")，托馬斯·沃森年輕時先後從事過賣[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")、豬肉與證券的工作，原本計劃要存錢開肉店，但卻遭到證券營業員所欺騙而損失所有金錢。托馬斯·沃森改去NCR（National cash register，國民收銀機公司，另譯安訊公司）當業務員，成績優秀，但因銷售手法觸犯[反托拉斯法](https://zh.wikipedia.org/wiki/反托拉斯法 "wikilink")，被判刑一年，後來案件因某專業因素被撤銷。NCR老闆後來與沃森不和，並要求沃森離開NCR。
+**IBM**實际创始人[托馬斯·沃森的先人十九世紀中期因](../Page/托馬斯·J·沃森.md "wikilink")[愛爾蘭大饑荒移民](../Page/爱尔兰大饥荒.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，托馬斯·沃森年輕時先後從事過賣[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")、[豬肉](../Page/豬肉.md "wikilink")與[證券](../Page/證券.md "wikilink")的工作，原本計劃要存錢開[肉店](https://zh.wikipedia.org/wiki/肉 "wikilink")，但卻遭到[證券營業員所欺騙](https://zh.wikipedia.org/wiki/證券營業員 "wikilink"),而損失所有金錢。**托馬斯·沃森**改去[NCR](https://zh.wikipedia.org/wiki/NCR "wikilink")（National cash register，國際收銀機[NCR公司](../Page/NCR公司.md "wikilink")，另譯安訊公司）當業務員，成績優秀，但是因銷售手法觸犯[反托拉斯法](https://zh.wikipedia.org/wiki/反托拉斯法 "wikilink")，被判刑一年，後來案件因某專業因素被撤銷。NCR老闆後來與[沃森](../Page/沃森.md "wikilink")不和，並要求**沃森**離開NCR。
 
-托馬斯·沃森改加入CTR（Computing Tabulating Recording，計算列表紀錄公司，1911年創立），這家公司銷售的機器可以分配資料卡並列印統計表，主要客戶是[美國人口普查局](https://zh.wikipedia.org/wiki/美國人口普查局 "wikilink")。沃森借了許多錢發展公司，採用將機器出租的新銷售手法，沃森自己也借了很多錢買公司的[股票](../Page/股票.md "wikilink")。1924年沃森將CTR改名為IBM。\[1\]
+**托馬斯·沃森**改加入CTR（Computing Tabulating Recording，計算列表紀錄公司，1911年創立），這家公司銷售的機器可以分配資料卡並列印統計表，主要客戶是[美國人口普查局](https://zh.wikipedia.org/wiki/美國人口普查局 "wikilink")。沃森借了許多錢發展公司，採用**將機器出租的新銷售手法**，沃森自己也借了很多錢買公司的[股票](../Page/股票.md "wikilink")。1924年**沃森**將CTR改名為**IBM**。\[1\]
 
 ### 1930年至1979年
 

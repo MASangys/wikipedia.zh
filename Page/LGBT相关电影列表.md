@@ -421,6 +421,11 @@
 <td><p>臺灣</p></td>
 <td><p>2018</p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="../Page/誰先愛上他的.md" title="wikilink">誰先愛上他的</a> (<em>Dear EX</em>)</p></td>
+<td><p>臺灣</p></td>
+<td><p>2018</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -554,7 +559,7 @@ __NOTOC__
 
   - 《[再見](https://zh.wikipedia.org/wiki/再見_\(電影\) "wikilink")》／《[你好，再見](https://zh.wikipedia.org/wiki/你好，再見 "wikilink")》／《[兩廂情願](https://zh.wikipedia.org/wiki/兩廂情願 "wikilink")》（[Ciao](../Page/Ciao.md "wikilink")），美國（2008）
 
-  - ，美国（2017）
+  - 《[以你的名字呼喚我](https://zh.wikipedia.org/wiki/以你的名字呼喚我 "wikilink")》／《[請以你的名字呼喚我](https://zh.wikipedia.org/wiki/请以你的名字呼唤我 "wikilink")》（)，美国（2017）
 
 ### D
 
@@ -784,9 +789,9 @@ __NOTOC__
 
 ### O
 
-  - 《[奧蘭度](https://zh.wikipedia.org/wiki/奧蘭度 "wikilink")》（），英国（1992）
+  - 《[奧蘭度](../Page/美麗佳人歐蘭朶.md "wikilink")》（），英国（1992）
 
-  - 《[夜魔](https://zh.wikipedia.org/wiki/夜魔 "wikilink")》（/），葡萄牙（2000）
+  - 《[夜魔](https://zh.wikipedia.org/wiki/夜魔_\(電影\) "wikilink")》（/），葡萄牙（2000）
 
   - ，德国（2000）
 

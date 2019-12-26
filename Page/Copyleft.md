@@ -82,24 +82,14 @@ Copyleft的標誌是一個反寫的C套上圓圈（即反轉的[版權標誌](ht
 [Category:Copyleft](https://zh.wikipedia.org/wiki/Category:Copyleft "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  <https://www.openfoundry.org/tw/glossary/736-copyleft> Copyleft〈公共-{版權}-〉
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.

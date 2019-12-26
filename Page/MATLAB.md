@@ -1,4 +1,4 @@
-**MATLAB**（矩阵实验室）是**MAT**rix **LAB**oratory的缩写，是一款由美国[The MathWorks公司出品的商业](https://zh.wikipedia.org/wiki/The_MathWorks "wikilink")[数学软件](https://zh.wikipedia.org/wiki/数学软件 "wikilink")。MATLAB是一种用于[算法](../Page/算法.md "wikilink")开发、[数据可视化](../Page/数据可视化.md "wikilink")、[数据分析以及](https://zh.wikipedia.org/wiki/数据分析 "wikilink")[数值计算的高级技术计算语言和交互式环境](https://zh.wikipedia.org/wiki/数值计算 "wikilink")。除了[矩阵运算](https://zh.wikipedia.org/wiki/矩阵运算 "wikilink")、绘制函数/数据图像等常用功能外，MATLAB还可以用来创建[用户界面](../Page/用户界面.md "wikilink")及与调用其它语言（包括[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Python](../Page/Python.md "wikilink")和[FORTRAN](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")）编写的程序。
+**MATLAB**是**MAT**rix **LAB**oratory（**矩阵实验室**）的缩写，是一款由美国[The MathWorks公司出品的商业](https://zh.wikipedia.org/wiki/The_MathWorks "wikilink")[数学软件](https://zh.wikipedia.org/wiki/数学软件 "wikilink")。MATLAB是一种用于[算法](../Page/算法.md "wikilink")开发、[数据可视化](../Page/数据可视化.md "wikilink")、[数据分析以及](https://zh.wikipedia.org/wiki/数据分析 "wikilink")[数值计算的高级技术计算语言和交互式环境](https://zh.wikipedia.org/wiki/数值计算 "wikilink")。除了[矩阵运算](https://zh.wikipedia.org/wiki/矩阵运算 "wikilink")、绘制函数/数据图像等常用功能外，MATLAB还可以用来创建[用户界面](../Page/用户界面.md "wikilink")及与调用其它语言（包括[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Python](../Page/Python.md "wikilink")和[FORTRAN](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")）编写的程序。
 
 尽管MATLAB主要用于数值运算，但利用为数众多的附加工具箱（Toolbox）它也适合不同领域的应用，例如控制系统设计与分析、图像处理、信号处理与通讯、金融建模和分析等。另外还有一个配套软件包[Simulink](../Page/Simulink.md "wikilink")，提供一个可视化开发环境，常用于系统模拟、动态/[嵌入式系统](../Page/嵌入式系统.md "wikilink")开发等方面。
 
@@ -305,7 +305,7 @@ Maple是Waterloo Maple Inc.（简称Maplesoft）开发的商业计算机代数�
 
 #### Mathematica
 
-Mathematica是[斯蒂芬·沃爾夫勒姆开发的科学计算软件](https://zh.wikipedia.org/wiki/斯蒂芬·沃爾夫勒姆 "wikilink")，开发工作现由Wolfram Research公司负责。最新版本是2018年3月8日发布的Mathematica 11.3.0。\[17\]
+Mathematica是[斯蒂芬·沃爾夫勒姆开发的科学计算软件](https://zh.wikipedia.org/wiki/斯蒂芬·沃爾夫勒姆 "wikilink")，开发工作现由Wolfram Research公司负责。最新版本是2019年4月16日发布的Mathematica 12.0。\[17\]
 
 #### LabVIEW
 
@@ -319,7 +319,7 @@ FreeMat是一个与MATLAB和[互動式數據語言](../Page/互動式數據語�
 
 #### GNU Octave
 
-GNU Octave是一種主要用於數值計算的高級語言。它除了提供數值方法解決線性和非線性問題的命令介面，還提供了一種與MATLAB大抵兼容的語言。最新版本是2019年3月01日发布的5.1.0。
+GNU Octave是一種主要用於數值計算的高級語言。它除了提供數值方法解決線性和非線性問題的命令介面，還提供了一種與MATLAB大抵兼容的語言。最新版本是2019年3月1日发布的5.1.0。
 
 #### Scilab
 
@@ -376,30 +376,19 @@ Julia是一种[高级](https://zh.wikipedia.org/wiki/高级语言 "wikilink")[�
 [Category:数学软件](https://zh.wikipedia.org/wiki/Category:数学软件 "wikilink") [Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink") [Category:图表软件](https://zh.wikipedia.org/wiki/Category:图表软件 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
 7.
-
 8.
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.

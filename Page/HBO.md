@@ -139,92 +139,49 @@ HBO的自製節目也授權給許多美國以外的電視台播映（例如英�
 [Category:HBO](https://zh.wikipedia.org/wiki/Category:HBO "wikilink") [Category:美國電視網](https://zh.wikipedia.org/wiki/Category:美國電視網 "wikilink") [Category:国际媒体](https://zh.wikipedia.org/wiki/Category:国际媒体 "wikilink") [Category:華納媒體](https://zh.wikipedia.org/wiki/Category:華納媒體 "wikilink") [Category:1972年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1972年成立的电视台或电视频道 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
 
 1.
-
 2.  [Why Doesn't HBO Allow Non-Cable Subscribers To Subscribe To HBO Go à la Hulu?](http://www.forbes.com/sites/quora/2012/09/05/why-doesnt-hbo-allow-non-cable-subscribers-to-subscribe-to-hbo-go-a-la-hulu/)
-
 3.
-
 4.
-
 5.  ["Cable Subscribers Need Not Order Expanded Packages to Get Premium Channels."](http://www.highbeam.com/doc/1G1-94845278.html) , Knight Ridder/Tribune Business News, December 1, 2002. Retrieved February 23, 2011 from HighBeam Research.
-
 6.  [Cable show producers shoot tamer versions. (Home Box Office Inc., among other cable companies, sanitizes original versions of films produced for commercial television consumption)](http://www.highbeam.com/doc/1G1-11113228.html) , HighBeam Research (via *Multichannel News*), 1991-07-29.
-
 7.  [Cablevision Through the Decades](http://www.multichannel.com/article/87682-Maverick_Plays_and_Wins_by_Its_Own_Rules.php#d9e6-0-a) Retrieved Feb 8, 2010
-
 8.  [Charles Dolan profile page](http://www.forbes.com/profile/charles-dolan) Forbes.com. Retrieved October 24, 2011
-
 9.  [Cablevision: Charles Dolan](http://www.cablevision.com/about/leadership/charles_dolan.jsp) Retrieved October 24, 2011
-
 10.
-
 11. *HBO Soundtrack:Home Box Office 5 Years - Nov 1977 HBO Guide*
-
 12.
-
 13.
 14.
-
 15.
 16.
-
 17.
-
 18. *Festival* program guide 1987
-
 19. *Festival* program guide 1988
-
 20. [Mitchell, Kim. "HBO reaches out to Hispanics; Home Box Office Inc. forms HBO En Espanol"](http://www.highbeam.com/doc/1G1-14041790.html) , *Multichannel News*. 1993-05-31. Retrieved 2011-02-23 from HighBeam Research.
-
 21. [HBO: three channels are better than one](http://www.highbeam.com/doc/1G1-10807607.html) , *Multichannel News* (via HighBeam Research), May 13, 1991.
-
 22. [General Instrument Corp. (GI) awarded contract for digital compression equipment by Home Box Office](http://www.highbeam.com/doc/1G1-13416546.html) , *Satellite News*, 1993-02-25.
-
 23.
-
 24. [CBS News: TV Guide Names Top 50 Shows](http://www.cbsnews.com/stories/2002/04/26/entertainment/main507388.shtml) Retrieved September 23, 2011
-
 25.
-
 26.
-
 27.
-
 28. [HBO ready to go with HDTV](http://www.highbeam.com/doc/1G1-53675563.html) , *Broadcasting & Cable*, January 25, 1999. Retrieved March 2, 2013 from HighBeam Research.
-
 29. [Time Warner to Add HBO Video-On-Demand to Digital Cable in Columbia, S.C.](http://www.highbeam.com/doc/1G1-75710982.html) , *Knight Ridder/Tribune Business News*, June 21, 2001. Retrieved March 4, 2013 from HighBeam Research.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35. [HBO sets new digital networks: five channels will be added to existing multiplex channels to create a package of 10](http://www.highbeam.com/doc/1G1-20511093.html) , HighBeam Research (via *Broadcasting & Cable*, 1998-04-31.
-
 36.
 37. [HBO's B.O. harvest; Beneficial output deals keep cabler in green](http://www.variety.com/article/VR1117793026/?refCatId=14)
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43. [March Gladness For Hbo: A Billion-dollar Deal And Costner, Too](http://articles.philly.com/1995-03-14/entertainment/25701186_1_rating-dreamworks-abc)
-
 44. [HBO and 20th Century Fox renew output deal](http://www.latimes.com/entertainment/envelope/cotown/la-et-ct-hbo20th-20120815,0,5442974.story), *[Los Angeles Times](https://zh.wikipedia.org/wiki/Los_Angeles_Times "wikilink")*, August 15, 2012.
-
 45. [HBO extends Universal deal, keeping films from Netflix](http://movies.yahoo.com/news/hbo-extends-universal-studio-deal-keeping-films-netflix-201204480--finance.html)
-
 46. [HBO and Summit Entertainment Enter Into Exclusive Output Agreement](http://thefutoncritic.com/news/2011/05/26/hbo-and-summit-entertainment-enter-into-exclusive-output-agreement-328415/20110526hbo04/) The Futon Critic 2011-05-26
-
 47. [HBO reups Lions Gate deal after a bid war; Deal attributed to 'Monster's Ball,' 'O' success](http://www.variety.com/article/VR1117870972/)

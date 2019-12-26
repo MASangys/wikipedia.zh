@@ -35,7 +35,7 @@ Dev-C++的用户可以下载额外的库或代码包，增加开发C++的范围�
 ## 外部連結
 
   - [Bloodshed Software](http://www.bloodshed.net) Dev-C++的官方開發團隊，但是停止開發已久
-  - [Orwell's Dev-C++](http://orwelldevcpp.blogspot.com/)由獨立程式員接續開發版本4.9.9.2之後的非官方版本
+  - [Orwell's Dev-C++](https://web.archive.org/web/20150209172858/http://orwelldevcpp.blogspot.com/)由獨立程式員接續開發版本4.9.9.2之後的非官方版本
   - [Sourceforge Partner Sponsor](http://sourceforge.net/projects/dev-cpp/)
   - [wxDev-C++](http://wxdsgn.sourceforge.net/)类似于C++ builder的整合wxWidget和MinGW的Dev-C++
 

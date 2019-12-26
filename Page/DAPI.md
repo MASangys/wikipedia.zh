@@ -47,37 +47,21 @@ DAPI被視為一種[致癌物](https://zh.wikipedia.org/wiki/致癌物 "wikilink
 [Category:染色着色剂](https://zh.wikipedia.org/wiki/Category:染色着色剂 "wikilink") [Category:荧光染料](https://zh.wikipedia.org/wiki/Category:荧光染料 "wikilink") [Category:DNA结合物质](https://zh.wikipedia.org/wiki/Category:DNA结合物质 "wikilink") [Category:吲哚](https://zh.wikipedia.org/wiki/Category:吲哚 "wikilink") [Category:脒](https://zh.wikipedia.org/wiki/Category:脒 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  Scott Prahl, [DAPI](http://omlc.ogi.edu/spectra/PhotochemCAD/html/dapi\(H2O\).html). accessed 2009-12-08.
-
 6.  Kapuscinski J., [1](https://www.ncbi.nlm.nih.gov/pubmed/1696951). accessed 2013-02-25.
-
 7.  Invitrogen, [DAPI Nucleic Acid Stain](http://probes.invitrogen.com/media/pis/mp01306.pdf) . accessed 2009-12-08.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14. <http://www.kpl.com/docs/msds/710301.pdf>
-
 15.
 16.
-
 17.
-
 18. Invitrogen, [DAPI Nucleic Acid Stain](http://probes.invitrogen.com/media/pis/mp01306.pdf) . accessed 2009-12-08.
-
 19.

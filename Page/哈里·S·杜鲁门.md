@@ -1,4 +1,4 @@
-**哈里·S·杜鲁门**（，），[美国](../Page/美国.md "wikilink")[民主黨](https://zh.wikipedia.org/wiki/民主黨_\(美國\) "wikilink")[政治家](../Page/政治家.md "wikilink")，第34任[副总统](../Page/美国副总统.md "wikilink")（1945年），隨後接替因病逝世的[富兰克林·罗斯福总统](../Page/富兰克林·德拉诺·罗斯福.md "wikilink")，成为了第33任[美利堅合眾國总统](https://zh.wikipedia.org/wiki/美利堅合眾國总统 "wikilink")（1945年－1953年）。他也是一名[共濟會成員](https://zh.wikipedia.org/wiki/共濟會 "wikilink")。
+**哈里·S·杜鲁门**（，），[美国](../Page/美国.md "wikilink")[民主黨](https://zh.wikipedia.org/wiki/民主黨_\(美國\) "wikilink")[政治家](../Page/政治家.md "wikilink")，第34任[副总统](../Page/美国副总统.md "wikilink")（1945年），隨後接替因病逝世的[富兰克林·罗斯福总统](../Page/富兰克林·德拉诺·罗斯福.md "wikilink")，成为了第33任[美國总统](https://zh.wikipedia.org/wiki/美國总统 "wikilink")（1945年－1953年）。他也是一名[共濟會成員](https://zh.wikipedia.org/wiki/共濟會 "wikilink")。
 
 面對美國國內事務，杜魯門總統正好遇上新一輪混亂的經濟衰退週期，當時物資短缺、有無數罷工事件和有關否決《塔夫脫-哈特利法》的爭議，都是當代的寫照。杜魯門雖於1948年成功連任總統，但卻未能成功掌握國會多數，以致於他的「[良政](https://zh.wikipedia.org/wiki/良政 "wikilink")」計劃幾乎全部流產。然而他曾率先以行政命令在美軍內部施行廢除[種族隔離](https://zh.wikipedia.org/wiki/種族隔離 "wikilink")，並因應形勢主持第二次「[紅色恐慌](https://zh.wikipedia.org/wiki/紅色恐慌 "wikilink")」，從政府部門辭退了數以千計可能影響國政的[共產黨同情者](https://zh.wikipedia.org/wiki/共產黨 "wikilink")。不過，由於受到一連串財政醜聞打擊，有達數百位由他任命的官員必須辭職。
 
@@ -350,7 +350,7 @@
 
 [Harry_S._Truman_signature.png](https://zh.wikipedia.org/wiki/File:Harry_S._Truman_signature.png "fig:Harry_S._Truman_signature.png") **杜魯門**（**Harry S. Truman**）的[中間名只有一個字母](https://zh.wikipedia.org/wiki/中間名 "wikilink")「S」。這種做法在[南部州份和](../Page/美國南部.md "wikilink")[密蘇里州](../Page/密蘇里州.md "wikilink")也十分普遍，當地人都愛以英文字母來代替名字。杜魯門則表示，他的中間字母是為了紀念他的祖父[安德森·施（普）·杜魯門](https://zh.wikipedia.org/wiki/安德森·施（普）·杜魯門 "wikilink")（Anderson Shipp(e) Truman）和外祖父[所羅門·楊](https://zh.wikipedia.org/wiki/所羅門·楊 "wikilink")（Solomon Young）而起的，因此字母「S」同時代表了「施（普）」（Shipp(e)）和「所羅門」（Solomon）兩個字。他又曾說過，「S」本身就是一個名，不是字母，所以不需加上一點。\[40\]
 
-然而，應說明的是，按照[英文文法](https://zh.wikipedia.org/wiki/英文文法 "wikilink")，只有縮寫的字詞才需要加上一點。但事實上，不論是[美國政府部門的官方文件](https://zh.wikipedia.org/wiki/美國政府 "wikilink")，抑或是杜魯門的[總統圖書館](https://zh.wikipedia.org/wiki/總統圖書館 "wikilink")，都在「S」字後補上了一點\[41\]。另一方面，[杜魯門圖書館內亦保存了很多他本人的親筆簽名](https://zh.wikipedia.org/wiki/杜魯門圖書館 "wikilink")，而這些[簽名的](https://zh.wikipedia.org/wiki/簽名 "wikilink")「S」字後，大多都附有一點。
+然而，應說明的是，按照[英文文法](https://zh.wikipedia.org/wiki/英文 "wikilink")，只有縮寫的字詞才需要加上一點。但事實上，不論是[美國政府部門的官方文件](https://zh.wikipedia.org/wiki/美國政府 "wikilink")，抑或是杜魯門的[總統圖書館](https://zh.wikipedia.org/wiki/總統圖書館 "wikilink")，都在「S」字後補上了一點\[41\]。另一方面，[杜魯門總統圖書館內亦保存了很多他本人的親筆簽名](https://zh.wikipedia.org/wiki/杜魯門總統圖書館 "wikilink")，而這些[簽名的](https://zh.wikipedia.org/wiki/簽名 "wikilink")「S」字後，大多都附有一點。
 
 關於杜魯門的字母「S」後應否加上一點，一直以來也引起了廣泛的爭論。不過一般認為，雖然「S」不是縮寫，但仍需在後面加上一點。
 
@@ -372,7 +372,7 @@
 
   - 於1995年，[HBO](../Page/HBO.md "wikilink")發行了一套關於杜魯門的電視電影，名為，由[蓋瑞·辛尼斯](../Page/蓋瑞·辛尼茲.md "wikilink")（Gary Sinise）飾演總統。該影片以[大衛·麥卡洛](https://zh.wikipedia.org/wiki/大衛·麥卡洛 "wikilink")（David McCullough）所作的傳記為底本，主要講述杜魯門如何由一位小鎮的平常人踏上了美國總統之路。該影片獲得了不少獎項\[42\]。
 
-## 請參見
+## 參見
 
   - [布莱尔宾馆](../Page/布莱尔宫.md "wikilink")
 
@@ -513,83 +513,44 @@
 [Category:國會金質獎章獲得者](https://zh.wikipedia.org/wiki/Category:國會金質獎章獲得者 "wikilink") [Category:時代年度風雲人物](https://zh.wikipedia.org/wiki/Category:時代年度風雲人物 "wikilink") [Category:美国总统](https://zh.wikipedia.org/wiki/Category:美国总统 "wikilink") [Category:美国副总统](https://zh.wikipedia.org/wiki/Category:美国副总统 "wikilink") [Category:美國民主黨總統候選人](https://zh.wikipedia.org/wiki/Category:美國民主黨總統候選人 "wikilink") [Category:美國民主黨副總統候選人](https://zh.wikipedia.org/wiki/Category:美國民主黨副總統候選人 "wikilink") [Category:1948年美國總統選舉](https://zh.wikipedia.org/wiki/Category:1948年美國總統選舉 "wikilink") [Category:1944年美國總統選舉](https://zh.wikipedia.org/wiki/Category:1944年美國總統選舉 "wikilink") [Category:美国民主党联邦参议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦参议员 "wikilink") [Category:美国民主党副总统](https://zh.wikipedia.org/wiki/Category:美国民主党副总统 "wikilink") [Category:冷戰時期領袖](https://zh.wikipedia.org/wiki/Category:冷戰時期領袖 "wikilink") [Category:美國韓戰人物](https://zh.wikipedia.org/wiki/Category:美國韓戰人物 "wikilink") [Category:美國反共主義者](https://zh.wikipedia.org/wiki/Category:美國反共主義者 "wikilink") [Category:第二次世界大戰領袖](https://zh.wikipedia.org/wiki/Category:第二次世界大戰領袖 "wikilink") [Category:美國第二次世界大戰人物](https://zh.wikipedia.org/wiki/Category:美國第二次世界大戰人物 "wikilink") [Category:美國第一次世界大戰人物](https://zh.wikipedia.org/wiki/Category:美國第一次世界大戰人物 "wikilink") [Category:愛爾蘭裔美國人](https://zh.wikipedia.org/wiki/Category:愛爾蘭裔美國人 "wikilink") [Category:蘇格蘭裔美國人](https://zh.wikipedia.org/wiki/Category:蘇格蘭裔美國人 "wikilink") [Category:密蘇里州民主黨人](https://zh.wikipedia.org/wiki/Category:密蘇里州民主黨人 "wikilink") [Category:左撇子](https://zh.wikipedia.org/wiki/Category:左撇子 "wikilink") [Category:美國共濟會會員](https://zh.wikipedia.org/wiki/Category:美國共濟會會員 "wikilink") [Category:死於多重器官衰竭的人](https://zh.wikipedia.org/wiki/Category:死於多重器官衰竭的人 "wikilink") [Category:死於肺炎的人](https://zh.wikipedia.org/wiki/Category:死於肺炎的人 "wikilink") [Category:20世纪美国政治家](https://zh.wikipedia.org/wiki/Category:20世纪美国政治家 "wikilink") [Category:苏格兰－爱尔兰裔美国人](https://zh.wikipedia.org/wiki/Category:苏格兰－爱尔兰裔美国人 "wikilink") [Category:美國陸軍上校](https://zh.wikipedia.org/wiki/Category:美國陸軍上校 "wikilink")
 
 1.  [If you can't stand the heat, get out of the kitchen. - Harry S Truman at BrainyQuote](http://www.brainyquote.com/quotes/quotes/h/harrystru162028.html)
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
 21.
-
 22.
-
 23. 載於1941年6月24日的《[紐約時報](../Page/纽约时报.md "wikilink")》
-
 24. [杜魯門在《時代週刊》的封面](http://www.time.com/time/searchresults?D=Harry+Truman&sid=10AD665DE10C&Ntt=Harry+Truman&Ntk=WithBodyDate&internalid=endeca_dimension&Ntx=mode+matchallpartial&N=46+4294935559&Ns=p_date_sort%7c1&Nty=1)
-
 25.
-
 26.
-
 27.
-
 28. 瑪格麗特·杜魯門，*Harry S. Truman*。載於1974年版方便裝第429頁
-
 29. <http://www.army.mil/cmh-pg/books/integration/IAF-12.htm>  重刊於2005年6月30日
-
 30. [盖洛普民意测验](http://www.uh.edu/engines/epi1199.htm)，休士頓大學
-
 31. [張之傑等](https://zh.wikipedia.org/wiki/張之傑 "wikilink")《20世紀臺灣全紀錄》，[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")，[錦繡出版社](https://zh.wikipedia.org/wiki/錦繡出版社 "wikilink")，1991年。
-
 32. [錢伯斯的證詞](http://www.law.umkc.edu/faculty/projects/ftrials/hiss/8-3testimony.html) ，UMKC法律學院
-
 33. [希斯和錢伯斯的證詞](http://www.law.umkc.edu/faculty/projects/ftrials/hiss/8-17testimony.html) ，UMKC法律學院
-
 34.
-
 35.
-
 36.
-
 37. [Viet Nam Chronology](http://fp.uni.edu/prahl/viet_nam.htm) , UNI FrontPage Help.
-
 38. [《*By the Bomb's Early Light: American Thought and Culture at the Dawn of the Atomic Age*》](http://books.google.com/books?ie=UTF-8&vid=ISBN0807844802&id=A1UoXscXGBwC&pg=PA103&lpg=PA103&dq=%22loyalty+review%22+truman+fired&vq=20,000&sig=_XaBRhZVcqBv9jgUhCEeamZzd8A)，保羅·布瓦耶著，第103頁
-
 39.
-
 40.
-
 41.
 42. [《杜魯門》的獎項，IMDB.com.](http://www.imdb.com/title/tt0114738/awards)

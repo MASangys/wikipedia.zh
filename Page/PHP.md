@@ -160,6 +160,18 @@ PHP 7的首个版本于2015年12月3日開發完成，包含了大量性能上�
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>7.3</p></td>
+<td><p>2018年12月6日</p></td>
+<td><p>未表明</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -445,94 +457,55 @@ PHP程式語言的官方文档中曾写过「PHP是世界上最好的語言，�
 [Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink") [Category:LAMP](https://zh.wikipedia.org/wiki/Category:LAMP "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
 
 1.
-
 2.
-
 3.  {{ cite web | title = GPL-Incompatible, Free Software Licenses | url = <https://www.fsf.org/licensing/licenses/index_html#GPLIncompatibleLicenses> | work = Various Licenses and Comments about Them | publisher = Free Software Foundation | accessdate = 2008-02-22 | deadurl = yes | archiveurl = <https://web.archive.org/web/20081216005913/http://www.fsf.org/licensing/licenses/index_html#GPLIncompatibleLicenses> | archivedate = 2008-12-16 }}
-
 4.
-
 5.  [php.net/history](https://php.net/history)
-
 6.
 7.
-
 8.
 9.
-
 10.
-
 11.
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
 19.
 20.
-
 21.
 22.
 23.
 24.
-
 25.
 26.
-
 27.
 28.
-
 29.
 30.
-
 31. [1](https://php.net/archive/2009.php#id2009-06-30-1)
-
 32. [Zend Weekly Summaries Issue \#359](http://devzone.zend.com/node/view/id/2739)
-
 33.
-
 34. [PHP: PHP 5 Changelog](https://php.net/ChangeLog-5.php#5.6.0)
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44. [2](http://svn.php.net/viewvc/php/php-src/trunk/ext/standard/credits.c?r1=305420&r2=306409)
-
 45. [PHP developer wiki server hacked](http://www.h-online.com/open/news/item/PHP-developer-wiki-server-hacked-1211874.html)
-
 46.
-
 47. [3](https://php.net/archive/2011.php#id2011-03-19-2)
-
 48. [4](http://stackoverflow.com/questions/14188397/why-are-echo-short-tags-permanently-enabled-as-of-php-5-4)，Why are “echo” short tags permanently enabled as of PHP 5.4?
-
 49. [5](http://stackoverflow.com/questions/10457409/escaping-on-php-shorthand-enabled-server-when-using-require)，Escaping \<? on php shorthand enabled server when using require
-
 50. [Types Introduction](https://php.net/manual/en/language.types.php)，The PHP Group
-
 51. [Language variables](https://php.net/manual/en/language.variables.php)，The PHP Group
-
 52. [expose_php](https://php.net/manual/en/ini.core.php#ini.expose-php)
-
 53. 原文：，

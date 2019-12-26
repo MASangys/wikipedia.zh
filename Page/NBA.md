@@ -72,7 +72,7 @@ ABA的一些规则后来也被NBA接纳和采用： [1979-80赛季NBA首次设�
 
 为获得更多的商业利益，NBA把部分[季前赛甚至常规赛安排在](https://zh.wikipedia.org/wiki/NBA季前赛 "wikilink")[欧洲](../Page/欧洲.md "wikilink")、[亚太以及](https://zh.wikipedia.org/wiki/亚太 "wikilink")[墨西哥](../Page/墨西哥.md "wikilink")等地举行，这些比赛亦称为[NBA海外赛](../Page/NBA海外赛.md "wikilink")；[1990-91赛季](https://zh.wikipedia.org/wiki/1990-91_NBA赛季 "wikilink")，NBA把[菲尼克斯太阳](../Page/菲尼克斯太阳.md "wikilink")与[犹他爵士的两场常规赛的比赛场地安排在](https://zh.wikipedia.org/wiki/犹他爵士 "wikilink")[日本](../Page/日本.md "wikilink")[东京](../Page/东京.md "wikilink")，这是NBA正式赛事首次在非[美国](../Page/美国.md "wikilink")及[加拿大](../Page/加拿大.md "wikilink")本地举行。同时全世界对NBA的关注随着电视转播而扩大，[2006-07赛季](../Page/2006-07_NBA赛季.md "wikilink")，全球共有215个国家41种语言188家电视台转播NBA赛事或制作NBA相关节目\[17\]。
 
-随着NBA的影响扩大，越来越多的来自世界各地的球星纷纷加入到NBA。近年来，NBA为了吸引更多来自世界各地的优秀球员，将国际球员的限制逐渐放宽；原先国际球员一般都是先进入[NCAA篮球联赛才能参加NBA选秀](https://zh.wikipedia.org/wiki/NCAA "wikilink")，现在已经可以直接参选了，NBA球探都亲自到各国联赛去挖掘有潜力的新星。很多国际球星在NBA闯出了名堂，例如来自[尼日利亚的中锋](https://zh.wikipedia.org/wiki/尼日利亚 "wikilink")[1994年](https://zh.wikipedia.org/wiki/1993-94_NBA赛季 "wikilink")[MVP](https://zh.wikipedia.org/wiki/NBA最有价值球员 "wikilink")[哈基姆·奥拉朱旺](../Page/哈基姆·奥拉朱旺.md "wikilink")（Hakkem Olajuwon）带领[休斯顿火箭两次问鼎NBA总冠军](https://zh.wikipedia.org/wiki/休斯顿火箭 "wikilink")，[德国](../Page/德国.md "wikilink")球星[德克·诺维茨基](../Page/德克·诺维茨基.md "wikilink")（Dirk Nowitzki）把[達拉斯獨行俠](../Page/達拉斯獨行俠.md "wikilink")带进[2006年NBA总决赛](../Page/2006年NBA总决赛.md "wikilink")并获得了[2007年MVP以及](../Page/2006-07_NBA赛季.md "wikilink")2011年總冠軍及FMVP，还有连续当选[2005年和](../Page/2004-05_NBA赛季.md "wikilink")[2006年MVP的](https://zh.wikipedia.org/wiki/2005-06_NBA赛季 "wikilink")[加拿大](../Page/加拿大.md "wikilink")控卫[史蒂夫·纳什](https://zh.wikipedia.org/wiki/史蒂夫·纳什 "wikilink")（Steve Nash），四次荣获[最佳防守球员的](https://zh.wikipedia.org/wiki/NBA最佳防守球员 "wikilink")[薩伊](../Page/薩伊.md "wikilink")中锋[迪肯貝··穆托姆博](https://zh.wikipedia.org/wiki/迪肯貝··穆托姆博 "wikilink")（Dikembe Mutombo）等等。2006-07赛季NBA的国际球员达到60名，他们来自28个不同的国家\[18\]。
+随着NBA的影响扩大，越来越多的来自世界各地的球星纷纷加入到NBA。近年来，NBA为了吸引更多来自世界各地的优秀球员，将国际球员的限制逐渐放宽；原先国际球员一般都是先进入[NCAA篮球联赛才能参加NBA选秀](https://zh.wikipedia.org/wiki/NCAA "wikilink")，现在已经可以直接参选了，NBA球探都亲自到各国联赛去挖掘有潜力的新星。很多国际球星在NBA闯出了名堂，例如来自[尼日利亚的中锋](https://zh.wikipedia.org/wiki/尼日利亚 "wikilink")[1994年](https://zh.wikipedia.org/wiki/1993-94_NBA赛季 "wikilink")[MVP](https://zh.wikipedia.org/wiki/NBA最有价值球员 "wikilink")[哈基姆·奥拉朱旺](../Page/哈基姆·奥拉朱旺.md "wikilink")（Hakeem Olajuwon）带领[休斯顿火箭两次问鼎NBA总冠军](https://zh.wikipedia.org/wiki/休斯顿火箭 "wikilink")，[德国](../Page/德国.md "wikilink")球星[德克·诺维茨基](../Page/德克·诺维茨基.md "wikilink")（Dirk Nowitzki）把[達拉斯獨行俠](../Page/達拉斯獨行俠.md "wikilink")带进[2006年NBA总决赛](../Page/2006年NBA总决赛.md "wikilink")并获得了[2007年MVP以及](../Page/2006-07_NBA赛季.md "wikilink")2011年總冠軍及FMVP，还有连续当选[2005年和](../Page/2004-05_NBA赛季.md "wikilink")[2006年MVP的](https://zh.wikipedia.org/wiki/2005-06_NBA赛季 "wikilink")[加拿大](../Page/加拿大.md "wikilink")控卫[史蒂夫·纳什](https://zh.wikipedia.org/wiki/史蒂夫·纳什 "wikilink")（Steve Nash），四次荣获[最佳防守球员的](https://zh.wikipedia.org/wiki/NBA最佳防守球员 "wikilink")[薩伊](../Page/薩伊.md "wikilink")中锋[迪肯貝··穆托姆博](https://zh.wikipedia.org/wiki/迪肯貝··穆托姆博 "wikilink")（Dikembe Mutombo）等等。2006-07赛季NBA的国际球员达到60名，他们来自28个不同的国家\[18\]。
 
 1995年，[多倫多猛龍與](https://zh.wikipedia.org/wiki/多倫多猛龍 "wikilink")[溫哥華灰熊加入NBA](https://zh.wikipedia.org/wiki/曼非斯灰熊 "wikilink")，使得NBA的版圖再次擴展至美國本土之外。
 
@@ -117,8 +117,6 @@ ABA的一些规则后来也被NBA接纳和采用： [1979-80赛季NBA首次设�
 **2017年9月24日**，自1985年起，每年NBA总冠军会接受总统会见，该传统在2017年被打破\[19\]。2017年冠军金州勇士内部就是否前往白宫产生分歧，而特朗普推特上宣布"由于库里犹豫不决，所以取消邀请金州勇士前往白宫"。特朗普撤销邀请引发大量NBA球员抨击，NBA聯盟總裁席佛也對此表示對此事件感到遺憾。NBA球員工會表達尊重雙方意見，表示對此事件感到惋惜\[20\]。
 
 **2018年8月24日**，NBA官方向各隊球團與球團負責人與球團總經理與球團現任教練團提出一份備忘錄，上面提到聯盟將針對3項規則做出修改，進攻方在搶到進攻籃板後的進攻時間從原本的24秒縮短為14秒、簡化快攻蓄意犯規的規則定義、擴大對惡意行為的定義（包括球員惡意語言謾罵），NBA賽事委員會將會在9月下旬召開會議以針對這3項規則進行投票，只要通過三分之二的門檻，新規則就將於新賽季正式施行，並且先[NBA G聯盟](../Page/NBA_G聯盟.md "wikilink")（NBA G League）測試。[NBA球員工會也對NBA聯盟聯盟這三項規則修改提議表示尊重與關切](https://zh.wikipedia.org/wiki/NBA球员工会 "wikilink")。
-
-**2019年10月2日**，香港球員政言以年薪2億美元正式加盟洛杉磯湖人隊，與球星勒邦占士並肩作戰。
 
 ## 球队
 
@@ -734,36 +732,27 @@ NBA球員可以獲得的最高榮譽就是入選[籃球名人堂](https://zh.wik
 
 NBA拥有自己的电视台[NBA TV和](https://zh.wikipedia.org/wiki/NBA_TV "wikilink")[NBA TV Canada](https://zh.wikipedia.org/wiki/NBA_TV_Canada "wikilink"), 另外[加拿大](../Page/加拿大.md "wikilink")的[Sportsnet和](https://zh.wikipedia.org/wiki/Sportsnet "wikilink")[TSN也拥有NBA常规赛的转播权](https://zh.wikipedia.org/wiki/TSN "wikilink")，另外在市场外体育套餐方面（Out-of-market sports package）有NBA League Pass和NBA League Pass International。
 
+中國大陸版權由[中國中央電視台和](https://zh.wikipedia.org/wiki/中國中央電視台 "wikilink")[騰訊視頻持有](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")。
+
+香港版權現時由[體通天下](../Page/體通天下.md "wikilink")持有。
+
 ## NBA相关的游戏及娱乐
 
 NBA很多球队都拥有自己的[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")，吉祥物一般出自队名或者当地的珍稀动物。每当比赛暂停时间，吉祥物就会出来场地中央表演，表演的花样很多，包括超高难度的花式灌篮（当然有弹簧垫助跳），另外还有美女啦啦队的表演。
 
 [EA公司开发的](https://zh.wikipedia.org/wiki/EA "wikilink")[NBA Live以及](https://zh.wikipedia.org/wiki/NBA_Live "wikilink")[世嘉](../Page/世嘉.md "wikilink")开发（后转为[Take-Two](https://zh.wikipedia.org/wiki/Take-Two "wikilink")）的[NBA 2K是目前较受欢迎的NBA游戏](https://zh.wikipedia.org/wiki/NBA_2K "wikilink")，不过NBA 2K直到2K9方才推出[PC版](../Page/个人电脑.md "wikilink"),而到2K12時則推出了手機版。 另外还有[NBA篮球经理](https://zh.wikipedia.org/wiki/NBA篮球经理 "wikilink")、[NBA Street等](https://zh.wikipedia.org/wiki/NBA_Street "wikilink")。
 
+## 争议
+
+2019年10月5日，美国NBA[休斯顿火箭队总经理](https://zh.wikipedia.org/wiki/休斯顿火箭队 "wikilink")[达雷尔·莫雷在推特发文支持香港示威人士](https://zh.wikipedia.org/wiki/达雷尔·莫雷 "wikilink")。[中央電視台體育頻道於](https://zh.wikipedia.org/wiki/中央電視台體育頻道 "wikilink")10月6日率先發表聲明，指由於莫雷散布「涉港不當言論」，即日起暫停涉及火箭隊的賽事轉播等一切合作交流事宜。[中国篮球协会](../Page/中国篮球协会.md "wikilink")隨後也發表了同樣的聲明\[56\]，表示将暂停与NBA休斯顿火箭队俱乐部的交流合作事宜，腾讯体育、浦发银行等陆续宣布暂停或中止与休斯顿火箭队相关合作。\[57\]火箭隊球星[哈登為此向中國球迷致歉](https://zh.wikipedia.org/wiki/哈登 "wikilink")\[58\]，与此同时，火箭队相关周边产品也从中国大陆各电商平台下架，“火箭队”在这些电商平台也相应地成为敏感词汇。\[59\]并且绝大多数与NBA相关的[电子游戏](../Page/电子游戏.md "wikilink")在该事件之后也遭到了中国大陆玩家的差评与抵制。
+
 ## 参考文献
 
 ## 外部链接
 
-  - [NBA官方網站](http://www.nba.com/)
-
-  - [NBA台灣官方](http://nba.udn.com/)
-
-  - [NBA中國官方網站](http://china.nba.com/)
-
-  - [NBA-台灣籃球維基館](http://wikibasketball.dils.tku.edu.tw/index.php/NBA)
-
-  - [痞客邦NBA美國職籃](http://nba.pixnet.net/)
-
-  - [虎扑NBA](http://www.hoopchina.com/)
-
-  -
-  - [NBA Player's Association](http://www.nbpa.com/)
-
-  - [The National Basketball Referees Association](http://www.nbra.net/)
-
-  - [NBAhoopsonline, Basketball History](http://www.nbahoopsonline.com/)
-
-  - [USA Basketball](https://web.archive.org/web/20140205122549/http://www.usabasketball.com/)
+  - [NBA官方網站](https://www.nba.com)
+  - [NBA台灣官方網站](https://nba.udn.com)
+  - [NBA中國官方網站](https://china.nba.com)
 
 ## 参见
 
@@ -774,125 +763,71 @@ NBA很多球队都拥有自己的[吉祥物](https://zh.wikipedia.org/wiki/吉�
       - [NBA总得分榜](../Page/NBA总得分榜.md "wikilink")，[NBA总篮板榜](https://zh.wikipedia.org/wiki/NBA总篮板榜 "wikilink")，[NBA总助攻榜](https://zh.wikipedia.org/wiki/NBA总助攻榜 "wikilink")
       - [NBA历届得分王](../Page/NBA历届得分王.md "wikilink")，[NBA历届篮板王](https://zh.wikipedia.org/wiki/NBA历届篮板王 "wikilink")，[NBA历届助攻王](https://zh.wikipedia.org/wiki/NBA历届助攻王 "wikilink")
       - [NBA纪录](https://zh.wikipedia.org/wiki/NBA纪录 "wikilink")
-  - [NBA球员工会](https://zh.wikipedia.org/wiki/NBA球员工会 "wikilink")，[NBA裁判协会](https://zh.wikipedia.org/wiki/NBA裁判协会 "wikilink")
-  - [NBA劳资协议](https://zh.wikipedia.org/wiki/NBA劳资协议 "wikilink")，[1998年封馆事件](https://zh.wikipedia.org/wiki/1998年封馆事件 "wikilink")
-  - [NBA规则](https://zh.wikipedia.org/wiki/NBA规则 "wikilink")
-  - [NBA战术](https://zh.wikipedia.org/wiki/NBA战术 "wikilink")
-  - [篮球术语](https://zh.wikipedia.org/wiki/Category:篮球术语 "wikilink")，[篮球规则](https://zh.wikipedia.org/wiki/篮球规则 "wikilink")
+  - [NBA球员工会](https://zh.wikipedia.org/wiki/NBA球员工会 "wikilink")
+  - [篮球术语](https://zh.wikipedia.org/wiki/Category:篮球术语 "wikilink")
   - [NBA历史](https://zh.wikipedia.org/wiki/NBA历史 "wikilink")
-  - [BAA](https://zh.wikipedia.org/wiki/BAA_\(美国\) "wikilink")（1946-49），[NBL](../Page/国家篮球联盟.md "wikilink")（1937-49），[ABA](https://zh.wikipedia.org/wiki/美国篮球协会 "wikilink")（1967-76）
-  - [美国大学篮球联赛](https://zh.wikipedia.org/wiki/美国大学篮球联赛 "wikilink")：[NCAA](https://zh.wikipedia.org/wiki/NCAA "wikilink")，[NAIA](https://zh.wikipedia.org/wiki/NAIA "wikilink")，[NJCAA](https://zh.wikipedia.org/wiki/NJCAA "wikilink")
-  - [麦当劳全美高中篮球联赛](https://zh.wikipedia.org/wiki/麦当劳全美高中篮球联赛 "wikilink")
-  - [NBA全球](https://zh.wikipedia.org/wiki/NBA全球 "wikilink")
-  - [NBA电视转播](https://zh.wikipedia.org/wiki/NBA电视转播 "wikilink")：
-      - [NBA on CBS](https://zh.wikipedia.org/wiki/NBA_on_CBS "wikilink")
-      - [NBA on NBC](https://zh.wikipedia.org/wiki/NBA_on_NBC "wikilink")
-      - [NBA on ABC](https://zh.wikipedia.org/wiki/NBA_on_ABC "wikilink")
-      - [NBA on TNT](https://zh.wikipedia.org/wiki/NBA_on_TNT "wikilink")
-      - [NBA on ESPN](https://zh.wikipedia.org/wiki/NBA_on_ESPN "wikilink")
-      - [NBA TV](https://zh.wikipedia.org/wiki/NBA_TV "wikilink")
-  - [NBA尼尔森收视调查](https://zh.wikipedia.org/wiki/NBA尼尔森收视调查 "wikilink")
   - [NBA Live](https://zh.wikipedia.org/wiki/NBA_Live "wikilink")、[NBA 2K](https://zh.wikipedia.org/wiki/NBA_2K "wikilink")
 
 {{-}}
 
 [Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink") [Category:美國職業運動聯盟](https://zh.wikipedia.org/wiki/Category:美國職業運動聯盟 "wikilink") [Category:加拿大職業運動聯盟](https://zh.wikipedia.org/wiki/Category:加拿大職業運動聯盟 "wikilink") [Category:美国篮球赛事](https://zh.wikipedia.org/wiki/Category:美国篮球赛事 "wikilink") [Category:加拿大籃球聯賽](https://zh.wikipedia.org/wiki/Category:加拿大籃球聯賽 "wikilink") [Category:1946年建立的體育聯賽](https://zh.wikipedia.org/wiki/Category:1946年建立的體育聯賽 "wikilink")
 
-1.  [The First Game](http://www.nba.com/history/firstgame_feature.html)--NBA.com
-
+1.  [The First Game](http://www.nba.com/history/firstgame_feature.html) --NBA.com
 2.  [NBL](http://hoopedia.nba.com/index.php/NBL_%28USA%29) --Hoopedia
-
-3.  ["Wat" A Player](http://www.nba.com/features/global_misaka_010417.html)--NBA.com
-
+3.  ["Wat" A Player](http://www.nba.com/features/global_misaka_010417.html) --NBA.com
 4.  <http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=7095656>
-
 5.  <http://www.espnstar.com.cn/pub/2007/0223/19275.htm> --ESPN中文网
-
 6.
-
 7.  <http://sports.tom.com/2007-05-11/0426/20101198.html> --TOM鲨威体坛，2007年05月11日
-
 8.  <http://www.cnhubei.com/200602/ca1007591.htm>
-
 9.
 10. [Maurice Podoloff](http://hoopedia.nba.com/index.php/Maurice_Podoloff) --Hoopedia
-
 11.
 12.
-13. [24-Second Clock Revived the Game](http://www.nba.com/history/24secondclock.html)--NBA.com
-
+13. [24-Second Clock Revived the Game](http://www.nba.com/history/24secondclock.html) --NBA.com
 14. [Remember the ABA](http://www.remembertheaba.com/)
-
 15. [ABA(1967-1976)](http://hoopedia.nba.com/index.php/ABA) --Hoopedia
-
 16. [策划：美国篮球梦系列回顾](http://sports.people.com.cn/GB/31928/58095/58098/4682727.html)--人民网
-
 17. [Global NBA Programming](http://www.nba.com/schedules/international_nba_tv_schedule.html)--NBA.com
-
 18. [NBA Players From Around the World](http://www.nba.com/players/int_players_0607.html)--NBA.com
-
 19. [NBA总冠军勇士拒绝前往白宫接受特朗普接见 官方回应：未接受邀请](http://www.guancha.cn/sports/2017_06_14_413163.shtml).观察者.
-
 20. [白宫拒绝接见NBA总冠军 特朗普又被万人喷](http://sports.ifeng.com/a/20170925/52153360_0.shtml).凤凰体育.
-
 21. [微軟前執行長 砸600億掌舵快艇](http://mag.udn.com/mag/sports/storypage.jsp?f_ART_ID=529627)--聯合報，2014年8月14日
-
 22. Air Canada Centre
-
 23. Philips Arena
-
 24. Time Warner Cable Arena
-
 25. Verizon Center
-
 26. Ford Center
-
 27. Rose Garden Arena
-
 28. Delta Center, EnergySolutions Arena
-
 29. US Airways Center
-
 30. New Orleans Arena
-
 31. SBC Center
-
-32. <http://www.nba.com/schedules/2005_2006_game_schedule/October.html#scheds> &<http://www.nba.com/schedules/> **NOTE**: All Hornets home games played at Oklahoma City unless noted
-
+32. <http://www.nba.com/schedules/2005_2006_game_schedule/October.html#scheds>  &<http://www.nba.com/schedules/> **NOTE**: All Hornets home games played at Oklahoma City unless noted
 33. <http://sports.163.com/07/0725/20/3K99T4C200051CA1.html> --网易体育，2007年7月25日
-
 34.
 35.
 36. [NBPA History](http://www.nbpa.com/history.php) --NBA Player's Association
-
 37.
 38. [NBA Salary Cap FAQ](http://members.cox.net/lmcoon/salarycap.htm)
-
 39. [CBA1999](http://www.nbpa.com/downloads/CBA.pdf)
-
 40.
 41. [Top 25 players in salaries](http://asp.usatoday.com/sports/basketball/nba/salaries/top25.aspx?year=2006-07)--USA TODAY Salaries Databases
-
 42.
 43.
 44.
-45. [NBA Player Dress Code](http://www.nba.com/news/player_dress_code_051017.html)--NBA.com
-
+45. [NBA Player Dress Code](http://www.nba.com/news/player_dress_code_051017.html) --NBA.com
 46. <http://www.nba.com/analysis/rules_3.html?nav=ArticleList--NBA.com>
-
 47. [NBA选秀规则](http://sports.sina.com.cn/k/2007-04-04/18242848580.shtml)--新浪体育
-
 48. [NBA公佈07籃球名人堂名單 禪師菲爾-傑克遜領銜](http://sports.sohu.com/20070403/n249150718.shtml)--搜狐體育，2007年4月3日
-
 49. [The NBA at 50](http://www.nba.com/history/players/50greatest.html)--NBA.com
-
-50. [The Commissioners](http://www.nba.com/history/commissioners.html)--NBA.com
-
+50. [The Commissioners](http://www.nba.com/history/commissioners.html) --NBA.com
 51.
 52. [Larry O'Brien](http://hoopedia.nba.com/index.php/Larry_O%27Brien) --Hoopedia
-
 53. [NBA同3家电视网签定6年46亿美元的电视转播合同](http://www.people.com.cn/GB/tiyu/20020123/653864.html)--人民网体育在线，2002年1月23日
-
 54.
-
 55.
+56. [NBA 火箭隊總經理發推聲援香港遭中國抵制，引發中美兩國輿論風暴](https://theinitium.com/article/20191008-morning-brief/) 端傳媒 2019-10-08
+57.
+58. [哈登跟中国球迷道歉！我们道歉，我们爱中国](https://sports.sina.com.cn/basketball/nba/2019-10-07/doc-iicezzrr0570512.shtml)
+59.

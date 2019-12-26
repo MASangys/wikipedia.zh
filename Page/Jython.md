@@ -49,7 +49,7 @@ Jython同时使用以下三种协议授权：\[1\]
   - [Learn how to write DB2 JDBC tools in Jython](http://www-106.ibm.com/developerworks/db2/library/techarticle/dm-0404yang/index.html)
   - [Tips for Scripting Java with Jython](http://www.onjava.com/pub/a/onjava/2002/03/27/jython.html)
   - [Jython tips for Python programmers](http://www.onlamp.com/pub/a/python/2002/04/11/jythontips.html)
-  - [Jython license information](http://www.jython.org/Project/license.html)
+  - [Jython license information](https://web.archive.org/web/20080223110605/http://www.jython.org/Project/license.html)
   - [Scripting on the Java platform](http://www.javaworld.com/javaworld/jw-11-2007/jw-11-jsr223.html)
   - [Jython Bibliography](https://web.archive.org/web/20090215204309/http://www.fishandcross.com/blog/?page_id=214)
 

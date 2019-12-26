@@ -72,9 +72,15 @@
 
   -
 
-  -
+    茜的姐姐，紅髮，故事開幕時經營木綠家的咖啡廳「Coffee Pot」。
 
   -
+
+    茜的父親，戴著眼鏡長相毫無特徵的中年男性。
+
+  -
+
+    茜的母親，在企鵝村高中運動會篇時揭露其實是空豆豆的妹妹，也就是說空豆與木綠兩家實際上是表親。造型模仿自瑪麗蓮夢露。
 
 ### 空豆家
 
@@ -90,9 +96,19 @@
 
   -
 
-  -
+    太郎之弟，總是帶著貓耳形狀的帽子的少年。長相與母親空豆豆相似，個頭矮小，常被當作小學生，十年後也完全沒有長高。
+
+    與太郎一起自稱不良少年，不過其實好像也沒幹什麼壞事。個性比太郎正經但膽小愛哭，興趣是收集"名人"的簽名，就算是銀行搶匪也行。
+
+    十年後與姬子結婚，兩人育有一子空豆波奇。
 
   -
+
+    太郎與嗶助之父，空豆理髮店店主，以前曾經是刑警。與千兵衛是有共同好色興趣的損友。造型來自柯林.伊斯特年輕時出演的警匪片「緊急追捕令」（Dirty Harry）中的扮相。
+
+  -
+
+    太郎與嗶助之母，有著發福的身材與捲捲的頭髮等一望即知的典型家庭主婦外型，頭上戴著老鼠耳朵造型的帽子。其實是木綠家太太木綠紫的姊姊，也就是說空豆與木綠兩家實際上是表親。
 
   -
 
@@ -744,15 +760,10 @@
 [Category:鳥山明](https://zh.wikipedia.org/wiki/Category:鳥山明 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:搞笑漫畫](https://zh.wikipedia.org/wiki/Category:搞笑漫畫 "wikilink") [Category:機器人漫畫](https://zh.wikipedia.org/wiki/Category:機器人漫畫 "wikilink") [Category:1980年首次發行的漫畫](https://zh.wikipedia.org/wiki/Category:1980年首次發行的漫畫 "wikilink") [Category:機器人主角題材作品](https://zh.wikipedia.org/wiki/Category:機器人主角題材作品 "wikilink") [Category:自主機器人題材漫畫](https://zh.wikipedia.org/wiki/Category:自主機器人題材漫畫 "wikilink") [Category:自主機器人題材動畫](https://zh.wikipedia.org/wiki/Category:自主機器人題材動畫 "wikilink") [Category:人形機器人題材作品](https://zh.wikipedia.org/wiki/Category:人形機器人題材作品 "wikilink") [Category:1981年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1981年日本電視動畫 "wikilink") [Category:1997年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1997年日本電視動畫 "wikilink") [Category:搞笑動畫](https://zh.wikipedia.org/wiki/Category:搞笑動畫 "wikilink") [Category:具有超人类力气的日本动漫角色](https://zh.wikipedia.org/wiki/Category:具有超人类力气的日本动漫角色 "wikilink") [Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink") [Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink") [Category:富士電視台動畫](https://zh.wikipedia.org/wiki/Category:富士電視台動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:華視外購動畫](https://zh.wikipedia.org/wiki/Category:華視外購動畫 "wikilink") [Category:民視外購動畫](https://zh.wikipedia.org/wiki/Category:民視外購動畫 "wikilink") [Category:Cobalt文庫](https://zh.wikipedia.org/wiki/Category:Cobalt文庫 "wikilink") [Category:V_Jump](https://zh.wikipedia.org/wiki/Category:V_Jump "wikilink") [Category:擬人化角色電視節目](https://zh.wikipedia.org/wiki/Category:擬人化角色電視節目 "wikilink") [Category:香港有線電視外購動畫](https://zh.wikipedia.org/wiki/Category:香港有線電視外購動畫 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
 
 1.
-
 2.  「曳」一字或「曳曳」一詞在粵話中有「壞」、「頑皮」的意思。
-
 3.  [曳曳博士](https://hk.news.yahoo.com/%E6%9B%B3%E6%9B%B3-%E5%8D%9A%E5%A3%AB-223000201.html)，星島日報(刊於Yahoo\!新聞)，2011年5月3日([Wayback Machine 存檔](http://web.archive.org/web/20141108134929/https://hk.news.yahoo.com/%E6%9B%B3%E6%9B%B3-%E5%8D%9A%E5%A3%AB-223000201.html))
-
 4.  [GU16年秋冬新CMで中条あやみがアラレちゃんに！オシャレな“コナレちゃん”に変身 2016年8月30日](http://news.livedoor.com/article/detail/11952370/)
-
 5.
 6.
 7.  [GU 「アラレがスカート！？」篇 YouTube](https://m.youtube.com/watch?v=StVKc2QZEbU)
-
 8.

@@ -60,7 +60,7 @@ SQLite亦可以作为桌面数据库使用，以下为第三方SQLite的[GUI软�
   - [SQLite.NET 2.0](https://web.archive.org/web/20060408172958/http://sqlite.phxsoftware.com/) - An ADO.NET 2.0 provider for SQLite
   - [Using SQLite Database with OpenOffice.org](http://documentation.openoffice.org/HOW_TO/data_source/SQLite.pdf)（via ODBC or \*[sqlite-sdbc-driver](http://dba.openoffice.org/drivers/sqlite/index.html)）
   - [Interview with Richard Hipp](https://web.archive.org/web/20061001143646/http://www.linuxformat.co.uk/modules.php?op=modload&name=Sections&file=index&req=viewarticle&artid=19)
-  - [SQLite with Python tutorial](http://talkera.org/python/python-database-programming-sqlite-tutorial/)
+  - [SQLite with Python tutorial](https://web.archive.org/web/20150202002316/http://talkera.org/python/python-database-programming-sqlite-tutorial/)
 
 ## 參見
 
@@ -72,24 +72,14 @@ SQLite亦可以作为桌面数据库使用，以下为第三方SQLite的[GUI软�
 [Category:開源資料庫管理系統](https://zh.wikipedia.org/wiki/Category:開源資料庫管理系統 "wikilink") [Category:C软件](https://zh.wikipedia.org/wiki/Category:C软件 "wikilink") [Category:公有领域软件](https://zh.wikipedia.org/wiki/Category:公有领域软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.  <https://lwn.net/Articles/601144/>
-
 7.  <https://www.pgcon.org/2014/schedule/events/736.en.html>
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.

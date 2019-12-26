@@ -189,67 +189,39 @@ Windows Live Messenger除了在人際傳播上打破傳統觀念，帶來現代�
 [Category:Windows_Live](https://zh.wikipedia.org/wiki/Category:Windows_Live "wikilink")
 
 1.  [微软证实Skype明年取代MSN](http://pcedu.pconline.com.cn/softnews/yejie/1211/3056593.html)
-
 2.
 3.  [MSN终于向中国说再见：10月31日正式关闭服务](http://tech.sina.com.cn/i/2014-08-28/21209582778.shtml)，2014年8月28日新浪科技
-
 4.
-
 5.  <http://www.libertytimes.com/2008/new/jun/27/today-life14.htm>
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11. [Windows Live Messenger release dates from official blog](http://messengersays.spaces.live.com/Lists/cns!5B410F7FD930829E!25099/)
-
 12.
 13.
 14. [Windows Live Messenger 8.0 Beta 3 blog entry](http://messengersays.spaces.live.com/blog/cns!5B410F7FD930829E!14406.entry)
-
 15.
 16. [Windows Live Messenger 8.0 Final release blog entry](http://messengersays.spaces.live.com/blog/cns!5B410F7FD930829E!17656.entry)
-
 17.
 18. [Windows Live Messenger 8.1 Beta 1 blog entry](http://messengersays.spaces.live.com/blog/cns!5B410F7FD930829E!23982.entry)
-
 19.
 20. [Windows Live Messenger 8.1 Beta Refresh blog entry](http://messengersays.spaces.live.com/blog/cns!5B410F7FD930829E!25082.entry)
-
 21.
 22. [Windows Live Messenger 8.1 Final blog entry](http://messengersays.spaces.live.com/blog/cns!5B410F7FD930829E!25206.entry)
-
 23. [Windows Live Messenger 8.5 - A First Look: from LiveSide.net](http://www.liveside.net/blogs/main/archive/2007/05/27/windows-live-messenger-8-5-a-first-look.aspx)
-
 24.
 25. [Windows Live Messenger 8.5 Beta 1 blog entry](http://messengersays.spaces.live.com/blog/cns!5B410F7FD930829E!27545.entry)
-
 26. [Details about the bunny emoticon at the Windows Live Messenger blog](http://messengersays.spaces.live.com/blog/cns!5B410F7FD930829E!27545.entry)
-
 27. [Windows Live Messenger 8.5 beta available from LiveSide.net](http://www.liveside.net/blogs/main/archive/2007/05/30/windows-live-messenger-8-5-beta-available.aspx)
-
 28. [Windows Live Messenger 8.5 Beta 2 blog entry](http://messengersays.spaces.live.com/blog/cns!5B410F7FD930829E!29044.entry)
-
 29. [Official Windows Live Messenger team blog: Announcing Windows Live Messenger 8.5\!](http://messengersays.spaces.live.com/blog/cns!5B410F7FD930829E!30775.entry)
-
 30. [Messenger 9, GTalk integration, Messenger API, new client for Mac OS X - news unveiled at Georgia Tech presentation (whew)](http://www.liveside.net/blogs/main/archive/2007/10/31/messenger-9-gtalk-integration-messenger-api-new-client-for-mac-os-x-news-unveiled-at-georgia-tech-presentation-whew.aspx)
-
 31. [Refreshing the Windows Live Essentials beta](http://windowslivewire.spaces.live.com/blog/cns!2F7EB29B42641D59!29044.entry)
-
 32. [Windows Live Essentials is ready to download](http://windowslivewire.spaces.live.com/blog/cns!2F7EB29B42641D59!31833.entry)
-
 33. [MSN今熄燈　Skype卻無法登入挨轟](http://www.appledaily.com.tw/realtimenews/article/life/20130425/176854/)，蘋果日報，2013年4月25日
-
 34. [MSN今天揮手再見 中國為最後服務地區](http://news.cnyes.com/20141031/MSN%E4%BB%8A%E5%A4%A9%E6%8F%AE%E6%89%8B%E5%86%8D%E8%A6%8B-%E4%B8%AD%E5%9C%8B%E7%82%BA%E6%9C%80%E5%90%8E%E6%9C%8D%E5%8B%99%E5%9C%B0%E5%8D%80-162029186662810.shtml?c=detail) ，鉅亨網，2014年10月31日
-
 35. [摩爾多瓦氣象局官方網頁](http://www.meteo.md/)
-
 36.
-
 37.

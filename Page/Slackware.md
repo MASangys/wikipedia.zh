@@ -131,8 +131,6 @@ Slackware是很多现今不那么流行的[论坛的讨论主题](https://zh.wik
   - [CRUX ports for Slackware (not official)](http://code.google.com/p/crux4slack/)
 
   -
-  - [AlphaSlack](http://www.alphaslack.de/alphaslack.html)
-
   - [Splack](http://www.splack.org/)（Slackware For SPARC）
 
   - [Slackintosh](http://slackintosh.workaround.ch/)
@@ -143,6 +141,6 @@ Slackware是很多现今不那么流行的[论坛的讨论主题](https://zh.wik
 
 1.  [The Slackware Philosophy](http://slackware.com/info/), Slackware Project
 2.  [Slackware 1.0 Release Announcement](http://www.slackware.com/announce/1.0.php), Slackware Project
-3.  [Why the jump from 4 to 7](http://www.slackware.com/faq/do_faq.php?faq=general#0), Slackware FAQ
+3.  [Why the jump from 4 to 7](http://www.slackware.com/faq/do_faq.php?faq=general#0) , Slackware FAQ
 4.  [Slackware's Pat needs your help](http://www.osnews.com/story/8889/Slackware_s_Pat_needs_your_help), OS News
 5.  [Slackware's init](http://www.bilbos-stekkie.com/slack_init/en/), Peter Kaagman

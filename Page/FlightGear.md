@@ -4,9 +4,7 @@
 
 ## 历史
 
-\[\[[File:FG-737KLM.jpg|right|thumb|2](File:FG-737KLM.jpg%7Cright%7Cthumb%7C2)
-
-50px|KLM Boeing 737-300 in version 1.0.0 in 2008\]\]
+[FG-737KLM.jpg](https://zh.wikipedia.org/wiki/File:FG-737KLM.jpg "fig:FG-737KLM.jpg")
 
 ### 早期 (1996, 1997-2001)
 
@@ -61,6 +59,6 @@ FlightGear被应用于一些领域。\[4\]
 
 1.
 2.  *The Flight Gear Manual* Version .9, April 2006
-3.  "Flight Gear Flight Simulator" Proposal <http://www.flightgear.org/proposal-3.0.1> checked June 26, 2007
+3.  "Flight Gear Flight Simulator" Proposal <http://www.flightgear.org/proposal-3.0.1>  checked June 26, 2007
 4.
 5.  {{ cite web | title = Flying the Open Skies with FlightGear| first = Howard | last = Wen | date = 2003-12-11 | publisher = O'Reilly Network | url = <http://www.linuxdevcenter.com/pub/a/linux/2003/12/11/flightgear.html> | accessdate = 2008-03-04 }}

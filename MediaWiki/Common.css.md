@@ -524,7 +524,7 @@ Geographical coordinates defaults. See [Template:Coord/link](https://zh.wikipedi
 
 /\* 'show'/'hide' buttons created dynamically by the CollapsibleTables javascript
 
-`  in `[`MediaWiki:Common.js`](https://zh.wikipedia.org/wiki/MediaWiki:Common.js "wikilink")` are styled here so they can be customised. */`
+`  in `[`MediaWiki:Common.js`](../Page/MediaWiki:Common.js.md "wikilink")` are styled here so they can be customised. */`
 
 .collapseButton {
 
@@ -1258,7 +1258,7 @@ table.tmbox-speedy {
 
 } /\* Div based "system" style fmbox messages. Used in
 
-`  `[`MediaWiki:Noarticletext`](https://zh.wikipedia.org/wiki/MediaWiki:Noarticletext "wikilink")`. */`
+`  `[`MediaWiki:Noarticletext`](../Page/MediaWiki:Noarticletext.md "wikilink")`. */`
 
 div.noarticletext, div.fmbox-system {
 
@@ -1491,13 +1491,13 @@ body.mediawiki table.mbox-small { /\* For the "small=yes" option. \*/
 
 }
 
-/\* 存废讨论旧样式 \*/ body.ns-4.action-view\[class\*=" page-Wikipedia_頁面存廢討論_"\] h2, body.ns-4.action-view\[class\*=" page-Wikipedia_檔案存廢討論_"\] h2, body.ns-4.action-submit\[class\*=" page-Wikipedia_頁面存廢討論_"\] h2, body.ns-4.action-submit\[class\*=" page-Wikipedia_檔案存廢討論_"\] h2 {
+/\* 存废讨论旧样式 \*/ body.ns-4.action-view\[class\*=" page-Wikipedia_頁面存廢討論_"\] .mw-parser-output h2, body.ns-4.action-view\[class\*=" page-Wikipedia_檔案存廢討論_"\] .mw-parser-output h2, body.ns-4.action-submit\[class\*=" page-Wikipedia_頁面存廢討論_"\] .mw-parser-output h2, body.ns-4.action-submit\[class\*=" page-Wikipedia_檔案存廢討論_"\] .mw-parser-output h2 {
 
 `   border-bottom: none;`
 `   font-size: 132%;`
 `   margin-bottom: .3em;`
 
-} body.ns-4.action-view\[class\*=" page-Wikipedia_頁面存廢討論_"\] h3, body.ns-4.action-view\[class\*=" page-Wikipedia_檔案存廢討論_"\] h3, body.ns-4.action-submit\[class\*=" page-Wikipedia_頁面存廢討論_"\] h3, body.ns-4.action-submit\[class\*=" page-Wikipedia_檔案存廢討論_"\] h3 {
+} body.ns-4.action-view\[class\*=" page-Wikipedia_頁面存廢討論_"\] .mw-parser-output h3, body.ns-4.action-view\[class\*=" page-Wikipedia_檔案存廢討論_"\] .mw-parser-output h3, body.ns-4.action-submit\[class\*=" page-Wikipedia_頁面存廢討論_"\] .mw-parser-output h3, body.ns-4.action-submit\[class\*=" page-Wikipedia_檔案存廢討論_"\] .mw-parser-output h3 {
 
 `   font-size: 116%;`
 `   margin-bottom: .3em;`

@@ -52,14 +52,9 @@
 [Category:次文化](https://zh.wikipedia.org/wiki/Category:次文化 "wikilink") [Category:男性](https://zh.wikipedia.org/wiki/Category:男性 "wikilink") [Category:集体游戏](https://zh.wikipedia.org/wiki/Category:集体游戏 "wikilink") [Category:恶作剧](https://zh.wikipedia.org/wiki/Category:恶作剧 "wikilink") [Category:性虐待](https://zh.wikipedia.org/wiki/Category:性虐待 "wikilink") [Category:校园暴力](https://zh.wikipedia.org/wiki/Category:校园暴力 "wikilink")
 
 1.  郭怡伶（2005年）， [磨蹭的快感？－阿魯巴的男子氣概建構](http://gender.psc.ntu.edu.tw/Gender/page/page_07_2.php?cat_id=115&type=rl2_detail&RL_ID=15)
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.

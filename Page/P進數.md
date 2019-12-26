@@ -169,29 +169,19 @@ x  \; \; \;\mapsto \; \; x \mod{p^{n-1}}
 [Category:域论](https://zh.wikipedia.org/wiki/Category:域论 "wikilink") [Category:数论](https://zh.wikipedia.org/wiki/Category:数论 "wikilink")
 
 1.
-
 2.  此处指\(\mathbb{Q}\)对四则运算封闭等条件，具体参见[域条目中的定义](https://zh.wikipedia.org/wiki/域_\(数学\) "wikilink")。
-
 3.  ，附录A3
-
 4.
-
 5.
 6.
 7.
 8.
 9.
 10. 其中自变量\(x\)为\(\mathbb{Z}/p^n\mathbb{Z}\)的元素，而映射符号右侧的“\(x \mod{p^{n-1}}\)”表示一个\(\mathbb{Z}/p^{n-1}\mathbb{Z}\)中元素，其中的\(x\)指\(x\)在整数中的自然对应元素。例如当\(p = 3\)时，\(\varphi_2\)将同余类\(\bar{7}_9 \in \mathbb{Z}/3^2\mathbb{Z}\)映射到\(7 \mod{3}\)，也就是\(\bar{1}_3 \in \mathbb{Z}/3\mathbb{Z}\)。正文中为了叙述简便，使用混淆的表达方式。
-
 11. 使用等价的赋值构造的拓扑结构。
-
 12.
-
 13. \(\omega\)与\(\beta_i\)间的距离小于\(\epsilon\)指的是在相应的度量\(\operatorname{d}_{p_i}\)下的距离：\(\left| \omega - \beta_i \right|_{p_i} < \epsilon\)。
-
 14.
 15. 实数中任两个数都能比较大小（有全序），而\(\mathbb{Q}_p\)上面没有全序。
-
 16.
-
 17. ，前言XV.

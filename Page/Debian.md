@@ -303,49 +303,28 @@ Debian的管理也被批評為過於混亂，導致開發進度緩慢，決策�
 [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink") [Category:Debian](https://zh.wikipedia.org/wiki/Category:Debian "wikilink") [Category:自由作業系統](https://zh.wikipedia.org/wiki/Category:自由作業系統 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  Murdock, Ian A，1993年8月16日，[New release under development; suggestions requested](http://groups.google.com/group/comp.os.linux.development/msg/a32d4e2ef3bcdcc6?output=gplain)
-
 9.  ["Fort Wayne News-Sentinel" Divorce Listing](http://www.news-sentinel.com/apps/pbcs.dll/article?aid=/se/20070905/news01/709050331)
-
 10. Debian網站，[About Debian](http://www.debian.org/intro/about)
-
 11. Debian文件組，2006年10月7日，[A Brief History of Debian](http://www.debian.org/doc/manuals/project-history/)
-
 12. <http://www.debian.org/security/faq#testing>
-
 13.
-
 14.
-
 15.
 16.
 17.
 18.
-
 19.
-
 20.
 21.
-
 22.
-
 23.
-
 24. [IOI: All contest machines will be installed to dual-boot in Windows XP and Debian GNU/Linux 3.1.](http://ioinformatics.org/locations/ioi05/contest/rules.shtml)
-
 25. Debian網站，2006年11月1日，[The Debian and mplayer FAQ](http://people.debian.org/~mjr/legal/mplayer.html)
-
 26. [Maintainer's resignation highlights problems in Debian project](http://www.linux.com/article.pl?sid=06/09/01/149211)

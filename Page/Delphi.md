@@ -12,7 +12,7 @@ Delphi目前的最新版本是Delphi 10.3 Rio Release 1(10.3.1)\[1\]。
 
 ### VCL
 
-每一种开发工具，仅有[程式语言是不够的](https://zh.wikipedia.org/wiki/程式语言 "wikilink")，还需要一个完备的[函式庫](https://zh.wikipedia.org/wiki/函数库 "wikilink")／[類別庫](https://zh.wikipedia.org/wiki/类库 "wikilink")。Delphi使用的[類別庫是可視元件類別庫VCL](https://zh.wikipedia.org/wiki/类库 "wikilink")（[Visual Component Library](https://zh.wikipedia.org/wiki/Visual_Component_Library "wikilink")）。同[MFC](https://zh.wikipedia.org/wiki/MFC "wikilink")、[OWL一样](../Page/Object_Windows_Library.md "wikilink")，VCL也是一種[開發架構](https://zh.wikipedia.org/wiki/开发框架 "wikilink")（Framework），采用了[物件導向技术对Windows應用程式的开发进行了封装](https://zh.wikipedia.org/wiki/面向对象 "wikilink")，使用PME（Property/Method/Event）的开发模式，极大的提高了开发效率。
+每一种开发工具，仅有[程式语言是不够的](https://zh.wikipedia.org/wiki/程式语言 "wikilink")，还需要一个完备的[函数库](https://zh.wikipedia.org/wiki/函数库 "wikilink")／[类库](https://zh.wikipedia.org/wiki/类库 "wikilink")。Delphi使用的[類別館是可視元件類別館VCL](https://zh.wikipedia.org/wiki/類別館 "wikilink")（[Visual Component Library](https://zh.wikipedia.org/wiki/Visual_Component_Library "wikilink")）。同[MFC](https://zh.wikipedia.org/wiki/MFC "wikilink")、[OWL一样](../Page/Object_Windows_Library.md "wikilink")，VCL也是一種[開發架構](https://zh.wikipedia.org/wiki/开发框架 "wikilink")（Framework），采用了[物件導向技术对Windows應用程式的开发进行了封装](https://zh.wikipedia.org/wiki/面向对象 "wikilink")，使用PME（Property/Method/Event）的开发模式，极大的提高了开发效率。
 
 ### 跨平台开发
 

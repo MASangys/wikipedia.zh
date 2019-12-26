@@ -229,50 +229,27 @@ Apache OpenOffice使用[OpenDocument作爲預設](https://zh.wikipedia.org/wiki/
 
 1.
 2.  [缺人維護，OpenOffice考慮關閉專案－iThome](http://www.ithome.com.tw/news/108175)
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  [Oracle Donates OpenOffice.org To The Apache Foundation](http://techie-buzz.com/foss/oracle-openoffice-apache.html)
-
 9.  [甲骨文捐贈OpenOffice予Apache軟體基金會](http://www.ithome.com.tw/itadm/article.php?c=67953)
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
 22.
-
 23.
-
 24.
-
 25.
-
 26.

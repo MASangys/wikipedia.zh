@@ -102,75 +102,40 @@ STI 將 Cell 應用於[高畫質數位影音家電](https://zh.wikipedia.org/wik
 [Category:IBM处理器](https://zh.wikipedia.org/wiki/Category:IBM处理器 "wikilink") [Category:索尼](https://zh.wikipedia.org/wiki/Category:索尼 "wikilink") [Category:索尼互動娛樂](https://zh.wikipedia.org/wiki/Category:索尼互動娛樂 "wikilink") [Category:PlayStation_3](https://zh.wikipedia.org/wiki/Category:PlayStation_3 "wikilink")
 
 1.  [Linux on Cell BE-based Systems](http://www.bsc.es/computer-sciences/programming-models/linux-cell)
-
 2.  [What does CBEA stand for? Cell Broadband Engine Architecture (IBM)](http://www.acronymfinder.com/Cell-Broadband-Engine-Architecture-%28IBM%29-%28CBEA%29.html)
-
 3.
-
 4.  [第二代Cell处理器 IBM新刀片服务器登场](http://news.mydrivers.com/1/106/106072.htm)
-
 5.  Krewell, Kevin (14 February 2005). "Cell Moves Into the Limelight". **.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11. [IBM shrinks Cell to 45nm. Cheaper PS3s will follow](http://arstechnica.com/gaming/2008/02/ibm-shrinks-cell-to-45nm-cheaper-ps3s-will-follow/)
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17. [世界第一超算“走鹃”成为绝唱 IBM放弃Cell研发](http://server.51cto.com/News-164509.htm)
-
 18. [天驕的隕落：IBM放棄Cell處理器開發計劃](http://www.chinesebiznews.com/index.php/component/content/article/42-gszx/8495-ibmcell.html)
-
 19.
-
 20.
-
 21. [在 Cell BE 处理器上编写高性能的应用程序](https://www.ibm.com/developerworks/cn/linux/pa-linuxps3-1/)
-
 22.
-
 23.
 24.
-
 25. [Rambus - Sony PlayStation 3](http://www.rambus.com/tw/technology/applications/gaming/ps3.html)
-
 26.
-
 27.
-
 28.
-
 29.
-
 30. [QPACE: power-efficient parallel architecture based on IBM PowerXCell 8i](http://link.springer.com/content/pdf/10.1007/s00450-010-0122-4)
-
 31.
-
 32. [Toshiba 發表 SpursEngine 圖形協同處理晶片](http://chinese.engadget.com/2008/04/08/toshiba-releases-spursengine-graphics-co-processor-for-testing/)
-
 33. [东芝重量级ZF平板电视采用Cell处理器](http://www.hardspell.com/doc/hard/81085.htm)
-
 34. [丽台发布Cell核心视频加速卡](http://news.mydrivers.com/1/116/116171.htm)
-
 35. [Toshiba 的 SpursEngine](http://www.techbang.com/posts/175-toshibas-spursengine)
-
 36.
-
 37. [東芝Cell電視可將數字視頻轉換為3D視頻](http://financenews.sina.com/sinacn/304-000-106-109/2010-01-07/00481227166.html)
-
-38. [商：东芝欲借Cell电视机提高品牌知名度](http://news.ccidnet.com/art/1032/20091007/1902565_1.html)
+38.

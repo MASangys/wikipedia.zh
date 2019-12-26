@@ -1,4 +1,4 @@
-**Adobe Illustrator**，簡稱“**AI**”，是[Adobe](../Page/Adobe.md "wikilink")系统公司推出的基于[向量](../Page/向量.md "wikilink")的图形製作軟體。最初是1986年为[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[麦金塔电脑设计开发的](https://zh.wikipedia.org/wiki/麦金塔电脑 "wikilink")，1987年1月发布，在此之前它只是Adobe内部的[字体](../Page/字体.md "wikilink")开发和[PostScript](../Page/PostScript.md "wikilink")编辑[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")。
+[替代=Danial Taherifar](https://zh.wikipedia.org/wiki/File:Danial-Taherifar.png "fig:替代=Danial Taherifar") **Adobe Illustrator**，簡稱“**AI**”，是[Adobe](../Page/Adobe.md "wikilink")系统公司推出的基于[向量](../Page/向量.md "wikilink")的图形製作軟體。最初是1986年为[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[麦金塔电脑设计开发的](https://zh.wikipedia.org/wiki/麦金塔电脑 "wikilink")，1987年1月发布，在此之前它只是Adobe内部的[字体](../Page/字体.md "wikilink")开发和[PostScript](../Page/PostScript.md "wikilink")编辑[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")。
 
 ## 软件特点
 
@@ -376,7 +376,7 @@ CC版本為Adobe Illustrator的第十七個版本，並捨棄永久授權制，�
 
 ## 外部連結
 
-  - [官方頁面](http://www.adobe.com/products/illustrator/)
+  - [官方頁面](https://www.adobe.com/cn/products/illustrator.html)
 
 [Category:图像软件](https://zh.wikipedia.org/wiki/Category:图像软件 "wikilink") [Category:Adobe软件](https://zh.wikipedia.org/wiki/Category:Adobe软件 "wikilink") [Category:向量图形编辑器](https://zh.wikipedia.org/wiki/Category:向量图形编辑器 "wikilink")
 

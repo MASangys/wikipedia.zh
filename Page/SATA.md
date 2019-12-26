@@ -10,9 +10,9 @@
 
 需要注意的是，在一些新的技术标准中，为了防止数据在高速传输中出错而加入校验码，比如PCI-E 2.0、USB 3.0和SATA 3.0中采用的是[8/10编码](https://zh.wikipedia.org/wiki/8b/10b "wikilink")，每10位编码中只有8位是真实数据，这时单位换算就不再是1:8而是1:10，USB 3.0的5Gbps速度实际上是理论500MB/s而非理论625MB/s，SATA 6Gbps的理论速度则是600MB/s而非750MB/s。
 
-所謂3Gb/s的算法，3000MHz的頻率x每次發送一個數據x 80%(8b/10b的編碼) / 8 bits per byte = 300Mbytes/s，同理1.5Gb/s也是這樣可算成150MB/s，也就是一般我們在買硬碟時，有時候會看到SATA 150MB/s / 300MB/s，有時候又會看到SATA 1.5Gb/s / 3Gb/s的緣故。
+所謂3Gb/s的算法，3000MHz的頻率x每次發送一個數據x 80%(8b/10b的編碼) / 8 bits per byte = 300MBytes/s，同理1.5Gb/s也是這樣可算成150MB/s，也就是一般我們在買硬碟時，有時候會看到SATA 150MB/s / 300MB/s，有時候又會看到SATA 1.5Gb/s / 3Gb/s的緣故。
 
-以USB 3.0而言，它擁有5Gbps的頻寬，每次發送一個數據x 80%(8b/10b的編碼) / 8 bits per byte = 500Mbytes/s，所以USB 3.0的頻寬比SATA 3.0的600MB/s還來的小。
+以USB 3.0而言，它擁有5Gbps的頻寬，每次發送一個數據x 80%(8b/10b的編碼) / 8 bits per byte = 500MBytes/s，所以USB 3.0的頻寬比SATA 3.0的600MB/s還來的小。
 
 | 版本           | 頻寬      | 理論速度     | 編碼        |
 | ------------ | ------- | -------- | --------- |
@@ -368,7 +368,7 @@ Quad Rate</p></td>
 ## 外部链接
 
   - [SATA-IO Official Website](http://www.serialata.org/)
-  - [SATA測試實驗室](http://www.serialata.org/testlabs.asp)
+  - [SATA測試實驗室](https://web.archive.org/web/20071030164256/http://www.serialata.org/testlabs.asp)
 
 ## 相關條目
 
@@ -381,46 +381,26 @@ Quad Rate</p></td>
 [Category:串行总线](https://zh.wikipedia.org/wiki/Category:串行总线 "wikilink") [Category:计算机总线](https://zh.wikipedia.org/wiki/Category:计算机总线 "wikilink") [Category:主板](https://zh.wikipedia.org/wiki/Category:主板 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  [SATA3也落后了? SATA新接口标准将到来](http://vga.zol.com.cn/346/3462421.html) - zol.com.cn
-
 8.  [打破传输瓶颈SATA Express接口标准即将登场](http://news.mydrivers.com/1/251/251408.htm) - mydrivers.com
-
 9.  [SATA的下一代「SATA Express」](http://www.coolaler.com/showthread.php/271253-SATA%E7%9A%84%E4%B8%8B%E4%B8%80%E4%BB%A3%E3%80%8CSATA-Express%E3%80%8D) - coolaler.com
-
 10. [Speedy 8Gbit, 16Gbit SATA Express systems coming this year](http://www.computerworld.com/s/article/9235229/Speedy_8Gbit_16Gbit_SATA_Express_systems_coming_this_year) - computerworld.com
-
 11. [1](http://www.sata-io.org/zh-trad/?lang=zh-trad)  - Serial ATA國際組織
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17. 16 cables can be daisy chained up to 72 m
-
 18.
-
 19. USB hubs can be daisy chained up to 25 m
-
 20.
 21.
 22.
-
 23.
-
 24.

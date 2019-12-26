@@ -26,5 +26,4 @@ Pingback与Trackback的主要区别在于\[2\]：
 [Category:网志](https://zh.wikipedia.org/wiki/Category:网志 "wikilink") [Category:网络技术](https://zh.wikipedia.org/wiki/Category:网络技术 "wikilink")
 
 1.
-
 2.

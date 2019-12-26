@@ -721,62 +721,35 @@ Silverlight 是微軟的新一代[RIA技術](https://zh.wikipedia.org/wiki/RIA "
 [Category:.NET](https://zh.wikipedia.org/wiki/Category:.NET "wikilink") [Category:.NET编程语言](https://zh.wikipedia.org/wiki/Category:.NET编程语言 "wikilink") [Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink") [Category:ASP.NET](https://zh.wikipedia.org/wiki/Category:ASP.NET "wikilink")
 
 1.  [MONO Project](http://www.mono-project.com/Main_Page)
-
 2.  [Architecture Journal Profile: Scott Guthrie](http://msdn.microsoft.com/en-us/library/bb266332.aspx)
-
 3.  若是 IIS 5.x 時，則是轉交給網站的執行緒，IIS 6.0 以後的版本才有 Worker Process 的工作模型
-
 4.  [ASP.NET Page Lifecycle Overview](http://msdn.microsoft.com/en-us/library/ms178472.aspx)
-
 5.  [工作階段狀態模式](http://msdn.microsoft.com/zh-tw/library/ms178586.aspx)
-
 6.  [ASP.NET 網站巡覽](http://msdn.microsoft.com/zh-tw/library/ms227558.aspx)
-
 7.  [使用成員資格管理使用者](http://msdn.microsoft.com/zh-tw/library/tw292whz.aspx)
-
 8.  [使用角色管理授權](http://msdn.microsoft.com/zh-tw/library/9ab2fxh0.aspx)
-
 9.  [ASP.NET 設定檔屬性概觀](http://msdn.microsoft.com/zh-tw/library/2y3fs9xs.aspx)
-
 10. [Web 組件個人化概觀](http://msdn.microsoft.com/zh-tw/library/z36h8be9.aspx)
-
 11. [ASP.NET 健康監視事件概觀](http://msdn.microsoft.com/zh-tw/library/bb398933.aspx)
-
 12. [HTTP 處理常式和 HTTP 模組概觀](http://msdn.microsoft.com/zh-tw/library/bb398986.aspx)
-
 13. [ASP.NET 主版頁面](http://msdn.microsoft.com/zh-tw/library/18sc7456.aspx)
-
 14. [ASP.NET 佈景主題和面板概觀](http://msdn.microsoft.com/zh-tw/library/ykzx33wh.aspx)
-
 15. [ASP.NET 驗證](http://msdn.microsoft.com/zh-tw/library/eeyk640h.aspx)
-
 16. [ASP.NET 授權](http://msdn.microsoft.com/zh-tw/library/wce3kxhd.aspx)
-
 17. 早期還有一個在 ASP 上發展 Web Service 的工具，稱為 SOAP Toolkit。
-
 18. [ASP.NET 路由](http://msdn.microsoft.com/zh-tw/library/cc668201.aspx)
-
 19.
-
 20.
-
 21.
-
 22.
 23.
-
 24.
-
 25.
 26.
 27.
 28.
-
 29.
 30.
-
 31. [Microsoft .NET Framework 4.7.2 正式版发布 2018年05月01日 cnBeta.COM](https://www.cnbeta.com/articles/soft/721649.htm)
-
 32. [Announcing the .NET Framework 4.8](https://devblogs.microsoft.com/dotnet/announcing-the-net-framework-4-8/)
-
 33.

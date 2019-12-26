@@ -15,8 +15,8 @@
   - **K**: [法律和经济学](https://zh.wikipedia.org/wiki/法律和经济学 "wikilink") (Law and Economics)
   - **L**: [产业组织](https://zh.wikipedia.org/wiki/产业组织 "wikilink") (Industrial Organization)
   - **M**: [企业管理和商务经济学](https://zh.wikipedia.org/wiki/企业管理和商务经济学 "wikilink")；[市场学](https://zh.wikipedia.org/wiki/市场学 "wikilink")；[会计学](../Page/会计学.md "wikilink") (Business Administration and Business Economics; Marketing; Accounting)
-  - **N**: [经济史](https://zh.wikipedia.org/wiki/经济史 "wikilink")（Economic History）
-  - **O**: [经济发展](https://zh.wikipedia.org/wiki/经济发展 "wikilink")，[技术变迁和增长](https://zh.wikipedia.org/wiki/技术变迁和增长 "wikilink") (Economic Development, Technological Change, and Growth)
+  - **N**: [经济史](../Page/经济史.md "wikilink")（Economic History）
+  - **O**: [经济发展](https://zh.wikipedia.org/wiki/经济发展 "wikilink")，[技术变迁和增长](https://zh.wikipedia.org/wiki/技术变迁和增长 "wikilink") (Economic Development,innovation， Technological Change, and Growth)
   - **P**: [经济系统](https://zh.wikipedia.org/wiki/经济系统 "wikilink") (Economic Systems)
   - **Q**: [农业和自然资源经济学](https://zh.wikipedia.org/wiki/农业和自然资源经济学 "wikilink") (Agricultural and Natural Resource Economics)
   - **R**: [城市，农村和区域经济学](https://zh.wikipedia.org/wiki/城市，农村和区域经济学 "wikilink") (Urban, Rural and Regional Economics)

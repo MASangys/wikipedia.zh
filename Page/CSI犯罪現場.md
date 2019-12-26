@@ -1,6 +1,6 @@
 《**CSI犯罪現場**》（****，简称****）是一部受歡迎的[美国](../Page/美国.md "wikilink")[刑事系列](https://zh.wikipedia.org/wiki/刑事 "wikilink")[电视剧](../Page/电视剧.md "wikilink")，由[亚特兰提斯同盟](https://zh.wikipedia.org/wiki/亚特兰提斯同盟 "wikilink")（）与[哥伦比亚广播公司](https://zh.wikipedia.org/wiki/哥伦比亚广播公司 "wikilink")（）联合制播，从2000年10月6日开始播映，於2015年9月27日播出。
 
-内容是描述一组[刑事鑑识](https://zh.wikipedia.org/wiki/刑事鑑识 "wikilink")[科学家的故事](https://zh.wikipedia.org/wiki/科学家 "wikilink")。剧中案件发生地点是设定在今日美国[内华达州](../Page/内华达州.md "wikilink")的[拉斯维加斯](../Page/拉斯维加斯.md "wikilink")。之所以选择拉斯维加斯，主要的原因是拉斯维加斯都会警察局的犯罪研究室是全美第二活跃的，仅次於[联邦调查局](../Page/联邦调查局.md "wikilink")在[弗吉尼亚州](../Page/弗吉尼亚州.md "wikilink")宽提科（）的实验室。
+内容是描述一组[刑事鑑识](https://zh.wikipedia.org/wiki/刑事鑑识 "wikilink")[科学家](../Page/科学家.md "wikilink")的故事。剧中案件发生地点是设定在今日美国[内华达州](../Page/内华达州.md "wikilink")的[拉斯维加斯](../Page/拉斯维加斯.md "wikilink")。之所以选择拉斯维加斯，主要的原因是拉斯维加斯都会警察局的犯罪研究室是全美第二活跃的，仅次於[联邦调查局](../Page/联邦调查局.md "wikilink")在[弗吉尼亚州](../Page/弗吉尼亚州.md "wikilink")宽提科（）的实验室。
 
 小组成员们调查神秘、不寻常、有时阴森的死亡事件以判定事实。他们同时也调查其他重大犯罪事件，不过[谋杀案件还是这个系列影集的主题所在](https://zh.wikipedia.org/wiki/谋杀 "wikilink")。
 

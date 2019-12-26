@@ -47,6 +47,6 @@ H.263+项目于1998年2月在ITU正式通过。接下来一个被称为"H.263++"
   - [H.263规范](https://web.archive.org/web/20030627164952/http://standards.pictel.com/ftp/video-site/)
   - [在vic上的H.263实现（有源码）](http://www4.informatik.uni-erlangen.de/Projects/ScalVico/vic/)
   - [SourceForge的OpenH263项目](https://web.archive.org/web/20050403191441/http://sourceforge.net/projects/openh263-s/)
-  - [Video Demystified（一本介绍H.263的书）](http://www.video-demystified.com/)
+  - [Video Demystified（一本介绍H.263的书）](https://web.archive.org/web/20070501013429/http://www.video-demystified.com/)
 
 [Category:影像编解码器](https://zh.wikipedia.org/wiki/Category:影像编解码器 "wikilink") [Category:ITU-T标准](https://zh.wikipedia.org/wiki/Category:ITU-T标准 "wikilink") [Category:影像壓縮技術](https://zh.wikipedia.org/wiki/Category:影像壓縮技術 "wikilink")

@@ -35,7 +35,7 @@ LAN party在[歐洲及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[北美�
   - [KCBeatDown](http://www.kcbeatdown.com)，If it is network playable, we play it - every six weeks in Kansas City, Kansas
   - [ExtremeLAN KC](https://web.archive.org/web/20170630192356/http://www.extremelankc.com/)，Monthly LAN Party group in Kansas City, Missouri
   - [Zion LAN](https://web.archive.org/web/20170520224520/http://zionlan.net/)，Annual 400-Person LAN party in Zion, IL
-  - [EverLan Colorado](http://www.everlan.net/)，Colorado Springs / Denver, Colorado area LAN venue Sponsored by [AMD](https://zh.wikipedia.org/wiki/AMD "wikilink") and [ATI Technologies](https://zh.wikipedia.org/wiki/ATI_Technologies "wikilink")
+  - [EverLan Colorado](https://web.archive.org/web/20050829161855/http://www.everlan.net/)，Colorado Springs / Denver, Colorado area LAN venue Sponsored by [AMD](https://zh.wikipedia.org/wiki/AMD "wikilink") and [ATI Technologies](https://zh.wikipedia.org/wiki/ATI_Technologies "wikilink")
 
 <!-- end list -->
 
@@ -60,7 +60,7 @@ LAN party在[歐洲及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[北美�
 
 ### 英國與愛爾蘭
 
-  - [Gumpcom](http://www.gumpcom.com)，Regular 48-hour 60 person LAN party in central [Scotland](https://zh.wikipedia.org/wiki/Scotland "wikilink")，UK.
+  - [Gumpcom](https://web.archive.org/web/20181216031236/https://www.gumpcom.com/)，Regular 48-hour 60 person LAN party in central [Scotland](https://zh.wikipedia.org/wiki/Scotland "wikilink")，UK.
   - [Multiplay UK](http://www.multiplay.co.uk/)，The UK's largest LAN Party and home of the i-Series
   - [Rix Arena](http://www.rixarena.co.uk/)，A Lan Party in Cambridgshire
   - [GameCon](https://web.archive.org/web/20050825194800/http://www.gamecon.ie/)，Ireland's largest LAN party
@@ -75,7 +75,7 @@ LAN party在[歐洲及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[北美�
   - [European Lan parties](https://web.archive.org/web/20090215121757/http://lansurfer.com/index.phtml?set_country=0) (in English/German)
   - [Party Spain](http://www.partyspain.org/)，spanish parties database.
   - [LanScene.nl](http://www.lanscene.nl)，Benelux LAN scene coverage site (Dutch)
-  - [NetworkingDay](http://www.networkingday.com)，LAN parties in and near Amsterdam, The Netherlands
+  - [NetworkingDay](https://web.archive.org/web/20180809000824/http://networkingday.com/)，LAN parties in and near Amsterdam, The Netherlands
   - [Gameparty.net](http://www.gameparty.net)，Benelux LAN party coverage site (Dutch)
   - [Campzone](http://www.campzone.nl)，large outdoor LAN in The Netherlands (English information available)
   - [LanCamp](http://www.lancamp.be)，large outdoor LAN in Belgium

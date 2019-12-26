@@ -34,13 +34,13 @@ Python開發人員盡量避開不成熟或者不重要的優化。一些針對�
 
 ## 應用范围
 
-### [網絡應用程式](https://zh.wikipedia.org/wiki/網絡應用程式 "wikilink")
+### 網絡應用程式
 
 Python經常被用於Web開發。比如，通過模組，[Apache可以運行用Python編寫的Web程式](https://zh.wikipedia.org/wiki/Apache "wikilink")。使用Python语言编写的[Gunicorn作为Web服务器](https://zh.wikipedia.org/wiki/Gunicorn "wikilink")，也能够运行Python语言编写的Web程序。Python定義了[WSGI標準應用接口来協調Http伺服器與基於Python的Web程式之間的溝通](https://zh.wikipedia.org/wiki/WSGI "wikilink")。一些Web框架，如[Django](../Page/Django.md "wikilink")、[Pyramid](https://zh.wikipedia.org/wiki/Pyramid "wikilink")、[TurboGears](../Page/TurboGears.md "wikilink")、[Tornado](../Page/Tornado.md "wikilink")、[web2py](https://zh.wikipedia.org/wiki/web2py "wikilink")、[Zope](../Page/Zope.md "wikilink")、[Flask](../Page/Flask.md "wikilink")等，可以讓程式設計師輕鬆地開發和管理複雜的Web程式。
 
 Python對於各种網路協定的支援很完善，因此經常被用於編寫伺服器軟體、網路爬蟲。第三方函式庫[Twisted支援非同步線上編寫程式和多數標準的網路協定](https://zh.wikipedia.org/wiki/Twisted "wikilink")（包含客户端和伺服器），並且提供了多種工具，被廣泛用於編寫高性能的伺服器軟體。另有[gevent这个流行的第三方库](https://zh.wikipedia.org/wiki/gevent "wikilink")，同样能够支持高性能高并发的网络开发。
 
-### [GUI开发](https://zh.wikipedia.org/wiki/GUI "wikilink")
+### GUI开发
 
 Python本身包含的Tkinter库能够支持简单的[GUI开发](https://zh.wikipedia.org/wiki/GUI "wikilink")。但是越来越多的Python程序员选择[wxPython或者](https://zh.wikipedia.org/wiki/wxPython "wikilink")[PyQt](../Page/PyQt.md "wikilink")等GUI套件来开发跨平台的桌面软件。使用它们开发的桌面软件运行速度快，与用户的桌面环境相契合。通过[PyInstaller还能将程序发布为独立的安装程序包](https://zh.wikipedia.org/wiki/PyInstaller "wikilink")。
 
@@ -718,22 +718,13 @@ Python是一门跨平台的脚本语言，Python规定了一个Python语法规�
 [Category:Python](https://zh.wikipedia.org/wiki/Category:Python "wikilink") [Category:腳本語言](https://zh.wikipedia.org/wiki/Category:腳本語言 "wikilink") [Category:面向对象的编程语言](https://zh.wikipedia.org/wiki/Category:面向对象的编程语言 "wikilink") [Category:LAMP](https://zh.wikipedia.org/wiki/Category:LAMP "wikilink") [Category:荷兰发明](https://zh.wikipedia.org/wiki/Category:荷兰发明 "wikilink")
 
 1.
-
 2.
-
 3.  [Heavy usage of Python at Google](http://stackoverflow.com/questions/2560310/heavy-usage-of-python-at-google)
-
 4.  call by value (where the value is always an object reference, not the value of the object)或者称作call by object reference
-
 5.  Przemyslaw Piotrowski, [Build a Rapid Web Development Environment for Python Server Pages and Oracle](http://www.oracle.com/technology/pub/articles/piotrowski-pythoncore.html), Oracle Technology Network, July 2006. Accessed October 21, 2008.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11. <http://www.Python.org> CPython

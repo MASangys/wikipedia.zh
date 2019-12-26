@@ -147,6 +147,30 @@ Adobe Flash / Adobe Animate的第一版是FutureSplash Animator，這是一個�
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>Adobe Animate CC 2018 (18)</p></td>
+<td><p>2017</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Adobe Animate CC 2019 (19)</p></td>
+<td><p>2018</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Adobe Animate CC 2019.1 (19.1)</p></td>
+<td><p>2018</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Adobe Animate CC 2019.2 (19.2)</p></td>
+<td><p>2019</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

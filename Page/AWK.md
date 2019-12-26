@@ -218,5 +218,6 @@ awk命令中的`$pattern`并没有为引号所保护。在这里，模式可以�
 
   - [gawk主页](http://www.gnu.org/software/gawk/gawk.html)
   - [aaa - the Amazing Awk Assembler by Henry Spencer](http://doc.cat-v.org/henry_spencer/amazing_awk_assembler/)
+  - [Awk教學](http://www.tw511.com/2/12/204.html)
 
 [Category:1977年软件](https://zh.wikipedia.org/wiki/Category:1977年软件 "wikilink") [Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink") [Category:Unix文字处理实用工具](https://zh.wikipedia.org/wiki/Category:Unix文字处理实用工具 "wikilink") [Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")

@@ -29,4 +29,4 @@ Visual FoxPro 3.0一推出，就受到广大用户的欢迎。因为xBase类的�
 
 [Category:数据库软件](https://zh.wikipedia.org/wiki/Category:数据库软件 "wikilink") [Category:XBase程式語言家族](https://zh.wikipedia.org/wiki/Category:XBase程式語言家族 "wikilink")
 
-1.  <http://msdn2.microsoft.com/en-us/vfoxpro/bb308952.aspx>
+1.

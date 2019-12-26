@@ -8,7 +8,7 @@ PostScript语言的思想起源于[John Warnock](https://zh.wikipedia.org/wiki/J
 
 在1982年12月Warnock和[Chuck Geschke一起离开创建了](https://zh.wikipedia.org/wiki/Chuck_Geschke "wikilink")[Adobe Systems公司](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")。他们开发了一种类似于InterPress名为PostScript的更简单的语言，这种产品在1984年推向市场。大概在这个时候，[Steve Jobs参观了他们的工作](https://zh.wikipedia.org/wiki/Steve_Jobs "wikilink")，他敦促他们改进PostScript作为驱动[激光打印机](../Page/激光打印机.md "wikilink")的语言，它添加到[Canon打印机诞生了](../Page/佳能.md "wikilink")[LaserWriter](https://zh.wikipedia.org/wiki/LaserWriter "wikilink")。
 
-1985年3月，[Apple](https://zh.wikipedia.org/wiki/Apple_Computer "wikilink") LaserWriter是第一款带有PostScript的打印机，这也带来了二十世纪八十年代中期的[桌面印刷革命](https://zh.wikipedia.org/wiki/桌面印刷 "wikilink")。它的技术优点和广泛应用使得PostScript成为打印应用领域影像输出的一个选择。直到二十世纪九十年代，PostScript语言[解释器](https://zh.wikipedia.org/wiki/解释器 "wikilink")，有时称作[Raster image processor](https://zh.wikipedia.org/wiki/光柵圖像處理器 "wikilink")，曾经一度成为[激光打印机](../Page/激光打印机.md "wikilink")的一个普通组成部分。
+1985年3月，[Apple](https://zh.wikipedia.org/wiki/Apple_Computer "wikilink") LaserWriter是第一款带有PostScript的打印机，这也带来了1980年代中期的[桌面印刷革命](https://zh.wikipedia.org/wiki/桌面印刷 "wikilink")。它的技术优点和广泛应用使得PostScript成为打印应用领域影像输出的一个选择。直到1990年代，PostScript语言[解释器](https://zh.wikipedia.org/wiki/解释器 "wikilink")，有时称作[Raster image processor](https://zh.wikipedia.org/wiki/光柵圖像處理器 "wikilink")，曾经一度成为[激光打印机](../Page/激光打印机.md "wikilink")的一个普通组成部分。
 
 随着使用电子方式发布文档最终版本成为事实上的标准，PostScript就在这个领域不断地被它的后续版本Portable Document Format也就是[PDF所超越](https://zh.wikipedia.org/wiki/Portable_Document_Format "wikilink")，到了2001年更少有打印机支持PostScript，这主要是由于来自于非PostScript的廉价喷墨打印机的不断加剧的竞争（PostScript解释器将大幅度地增加打印机成本），以及在计算机上使用软件渲染PostScript图像的新方法可以用于任何的打印机，PDF就是这种方法之一。然而使用PostScript的激光打印机仍然可以大幅度地减少计算机在打印、从计算机到打印机传输渲染出的PostScript图像方面的工作量。
 
@@ -44,13 +44,13 @@ PostScrip也非常擅长于实现[栅格化](../Page/栅格化.md "wikilink")；
 
 许多人认为授权的费用过于高昂，并且Adobe也不愿采用更具吸引力的费率，这样就导致了Apple在1991年左右开发了他们自己的系统[TrueType](../Page/TrueType.md "wikilink")。紧随着TrueType的发布，Adobe就公开了Type 1字体的规范。如Altsys [Fontographer](https://zh.wikipedia.org/wiki/Fontographer "wikilink")（1995年1月被[Macromedia](../Page/Macromedia.md "wikilink")收购，自从2005年5月归[FontLab所有](https://zh.wikipedia.org/wiki/FontLab "wikilink")）这样的零售系统加入了创建Type 1字体的能力。从那时开始，就出现了许多免费Type 1字体，例如[TeX](../Page/TeX.md "wikilink")排版系统中所用字体就是这种格式。
 
-在二十世纪九十年代早期还有其他几种基于字形的字体系统，如[Bitstream和](https://zh.wikipedia.org/wiki/Bitstream_Inc. "wikilink")[METAFONT](../Page/METAFONT.md "wikilink")开发的系统，但是它们都不包括通用的打印解决方案，所以并没有得到广泛应用。
+在1990年代早期还有其他几种基于字形的字体系统，如[Bitstream和](https://zh.wikipedia.org/wiki/Bitstream_Inc. "wikilink")[METAFONT](../Page/METAFONT.md "wikilink")开发的系统，但是它们都不包括通用的打印解决方案，所以并没有得到广泛应用。
 
-在二十世纪九十年代，Adobe和微软公司一同开发[OpenType](../Page/OpenType.md "wikilink")，它基本上是Type 1和TrueType格式功能的超集。当打印到PostScript输出设备的时候，OpenType字体中不需要的部分就会被丢弃，驱动程序送到设备的内容与传送TrueType或者Type 1字体完全一样，根据OpenType字体中的外形不同而有所不同。
+在1990年代，Adobe和微软公司一同开发[OpenType](../Page/OpenType.md "wikilink")，它基本上是Type 1和TrueType格式功能的超集。当打印到PostScript输出设备的时候，OpenType字体中不需要的部分就会被丢弃，驱动程序送到设备的内容与传送TrueType或者Type 1字体完全一样，根据OpenType字体中的外形不同而有所不同。
 
 ### 其他实现
 
-在二十世纪八十年代，Adobe利润的绝大部分都来自于用于打印机的PostScript实现（称为[光栅图像处理器或者](https://zh.wikipedia.org/wiki/光栅图像处理器 "wikilink")*RIP*）的高昂授权费用。RIP相当昂贵，并且通常只在少数一些特定的硬件上运行。二十世纪八十年代中期随着许多基于[RISC的新平台出现](../Page/精简指令集.md "wikilink")，Adobe经常是在支持新机器方面落后一步。
+在1980年代，Adobe利润的绝大部分都来自于用于打印机的PostScript实现（称为[光栅图像处理器或者](https://zh.wikipedia.org/wiki/光栅图像处理器 "wikilink")*RIP*）的高昂授权费用。RIP相当昂贵，并且通常只在少数一些特定的硬件上运行。1980年代中期随着许多基于[RISC的新平台出现](../Page/精简指令集.md "wikilink")，Adobe经常是在支持新机器方面落后一步。
 
 因此第三方的PostScript实现变得很普遍，尤其是在授权费用是关键症结的低端打印机或者新硬件激发更快速度要求的高端排版设备领域更加常用。一方面，微软公司和苹果公司联合起来努力将Adobe从独霸打印机的位置拉下马，微软公司将它购买的[TrueImage](https://zh.wikipedia.org/wiki/TrueImage "wikilink") PostScript解释器授权给苹果公司，苹果公司将它的新字体格式[TrueType](../Page/TrueType.md "wikilink")授权给微软公司。（苹果公司终止了与Adobe保持一致以及它的打印机使用Adobe公司真正的PostScript的策略，但是TrueType在微软视窗和Macintosh上都成为了标准的[outline font](https://zh.wikipedia.org/wiki/outline_font "wikilink")。）一些第三方的PostScript的克隆产品仍在广泛使用，尤其是在作为惠普黑白激光打印机标准[Phoenix Page的中仍在广泛使用](https://zh.wikipedia.org/wiki/Phoenix_Page "wikilink")。
 
@@ -60,7 +60,7 @@ PostScrip也非常擅长于实现[栅格化](../Page/栅格化.md "wikilink")；
 
 ## 作为显示系统的应用
 
-随着PostScript成为打印输出的事实标准，很自然人们也希望将它用来描述[屏幕输出](https://zh.wikipedia.org/wiki/屏幕输出 "wikilink")。二十世纪八十年代后期[CPU性能的快速提升以及人们对于视窗系统兴趣的逐渐增加](https://zh.wikipedia.org/wiki/CPU "wikilink")，促使人们多次试图开发使用PostScript作为主要的显示技术的显示系统。
+随着PostScript成为打印输出的事实标准，很自然人们也希望将它用来描述[屏幕输出](https://zh.wikipedia.org/wiki/屏幕输出 "wikilink")。1980年代后期[CPU性能的快速提升以及人们对于视窗系统兴趣的逐渐增加](https://zh.wikipedia.org/wiki/CPU "wikilink")，促使人们多次试图开发使用PostScript作为主要的显示技术的显示系统。
 
 使用PS作为显示系统有许多优点，其中之一就是在其他系统上用户不仅仅要为屏幕显示保留位图，而且要为打印机保留Type 1字体，在显示器上使用PS只需要保留一套从而可以弥补这个缺点。另外一个优点是就是允许“dumbling down”打印机。当LaserWriter发布的时候它是苹果公司产品线中功能最为强大也是最为昂贵的机器，这样它就需要相当大的处理能力和内存以在合理的时间内生成高达300[dpi分辨率的页面](https://zh.wikipedia.org/wiki/Dots_per_inch "wikilink")。与之形成对比的是，使用[NeXT](../Page/NeXT.md "wikilink")平台的400dpi打印机根本都没有CPU，相反它是使用计算机的CPU进行页面生成，然后将生成的页面[位图](../Page/位图.md "wikilink")传送到打印机。
 
@@ -162,7 +162,7 @@ PostScript有几个操作符用于重组或者控制堆栈：复制（**dup**）
 
   - [*PostScript语言手册*第三版](https://web.archive.org/web/20060614215453/http://partners.adobe.com/public/developer/en/ps/PLRM.pdf)（*PLR3*），以及[*补充*](https://web.archive.org/web/20060603154650/http://partners.adobe.com/public/developer/en/ps/PS3010and3011.Supplement.pdf)，是事实上规范性文件，根据它的封面颜色通常称为“红皮书”。第一版包括PostScript Level 1，第二版包括称为PostScript Level 2的扩展版本以及[Display PostScript的文档](https://zh.wikipedia.org/wiki/Display_PostScript "wikilink")，第三版包括PostScript 3（这一版Adobe放弃了名字中的“level”）但是不再包括DPS。
   - [*PostScript语言教程与手册*](http://www-cdf.fnal.gov/offline/PostScript/BLUEBOOK.PDF)是相应的入门图书，根据封面封面颜色通常称为“蓝皮书”。
-  - [*PostScript入门导引*](http://www.cs.indiana.edu/docproject/programming/postscript/postscript.html)介绍PostScript系统入门书籍。
+  - [*PostScript入门导引*](https://web.archive.org/web/20050307084609/http://www.cs.indiana.edu/docproject/programming/postscript/postscript.html)介绍PostScript系统入门书籍。
   - [*数学图表：几何与PostScript手册*](http://www.math.ubc.ca/~cass/graphics/manual/)—Bill Casselman著。
   - [*Thinking in PostScript*](https://web.archive.org/web/20090122202205/http://rightbrain.com/pages/books.html)，1990年Glenn Reid, Addison-Wesley著—available online courtesy of the author.这是一个详尽的教程。
   - [PS-to-PDF转换器](http://www.ps2pdf.com/convert/convert.cgi)，使用Ghostscript将Postscript转换成PDF的在线转换器。

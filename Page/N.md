@@ -8,8 +8,6 @@
 
 n 在數學的[序列](../Page/序列.md "wikilink")常用來表示項數，可能因而产生「很多」的意思，在20世纪末逐渐推广到社会。
 
-在[中国大陆](../Page/中国大陆.md "wikilink")的[中学生](https://zh.wikipedia.org/wiki/中学生 "wikilink")、[大学生的口语中](https://zh.wikipedia.org/wiki/大学生 "wikilink")，经常可以听到他们口中说 “N多”、“N大”、“N快”等。在这个语境中，“N”为一个[程度副词](https://zh.wikipedia.org/wiki/程度副词 "wikilink")，是“很、非常”的意思，用来修饰限定的中心语（形容词）。
-
 在[香港社會](../Page/香港社會.md "wikilink")，大部分[香港人](../Page/香港人.md "wikilink")也使用n作「幾」或「未知」的意思，[台灣也有使用](https://zh.wikipedia.org/wiki/台灣 "wikilink")。在香港粵語中常能聽到「n[年](../Page/年.md "wikilink")後」、「n咁多個」等等，即「幾年後」及「多得不能數」的意思。此外還有[N無人士](https://zh.wikipedia.org/wiki/N無人士 "wikilink")。
 
 ## 字符编码

@@ -61,9 +61,11 @@ ESPN在美國營運了一系列的頻道，包括：
 
 [Cap01.JPG](https://zh.wikipedia.org/wiki/File:Cap01.JPG "fig:Cap01.JPG")  亞洲地區，在1990年代以前，ESPN即已陸續與各國頻道有零星的授權合作關係；1992年4月起亞洲台開播。\[1\]除[日本](../Page/日本.md "wikilink")與[韓國外由](https://zh.wikipedia.org/wiki/韓國 "wikilink")[ESPN STAR Sports經營ESPN及](https://zh.wikipedia.org/wiki/ESPN_STAR_Sports "wikilink")[衛視體育台](../Page/衛視體育台.md "wikilink")，ESPN 卫视体育台為[星空傳媒有限公司和ESPN各占一半成立的公司](https://zh.wikipedia.org/wiki/星空傳媒有限公司 "wikilink")，[香港](../Page/香港.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[東南亞等地區的觀眾均可以收看ESPN及](https://zh.wikipedia.org/wiki/東南亞 "wikilink")[衛視體育台](../Page/衛視體育台.md "wikilink")。ESPN卫视体育台專注於[足球](../Page/足球.md "wikilink")、[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")、[高爾夫球](../Page/高爾夫球.md "wikilink")、[網球](https://zh.wikipedia.org/wiki/網球 "wikilink")、[一級方程式賽車](https://zh.wikipedia.org/wiki/一級方程式賽車 "wikilink")、[TNA美式摔角和](https://zh.wikipedia.org/wiki/TNA "wikilink")[板球等各項較受亞洲觀眾歡迎的體育節目](https://zh.wikipedia.org/wiki/板球 "wikilink")。ESPN HD在台灣的[中華電信MOD](../Page/中華電信MOD.md "wikilink")有上架播出。
 
-在香港播出時，同樣被[廣東內的](https://zh.wikipedia.org/wiki/廣東 "wikilink")[廣州有線及](https://zh.wikipedia.org/wiki/廣州有線 "wikilink")[廣東有線盜取並直接播放](https://zh.wikipedia.org/wiki/廣東有線 "wikilink")，現在已經停止播放，原有頻道被兩線的體育頻道取代。
+在香港播出時，同樣被[廣東內的](https://zh.wikipedia.org/wiki/廣東 "wikilink")[廣州有線及](https://zh.wikipedia.org/wiki/廣州有線 "wikilink")[廣東有線盜取並直接播放](https://zh.wikipedia.org/wiki/廣東有線 "wikilink")，到00年代开始，原有頻道陆续被兩線的體育頻道（即广东体育频道、广州竞赛频道）取代。
 
-目前在中國大陸地區，ESPN和[衛視體育台](../Page/衛視體育台.md "wikilink")可以在三星級以上賓館以及部分外國人居住區播出。早年中国大陆众多地方电视台都会转播ESPN的中文解说赛事，现已不再安排。
+在中国大陆地区的90年代，多个省级有线电视台陆续开设体育频道变相转播ESPN亚洲版赛事节目，并悬挂当地有线电视台台标和插播当地节目等，后来受1999年[美军轰炸中国驻南斯拉夫联盟使馆事件影响而陆续被迫停止与ESPN合作](https://zh.wikipedia.org/wiki/美军轰炸中国驻南斯拉夫联盟使馆事件 "wikilink")，外加2000年台网分离，有线电视台专业频道划入电视台频道系列，以及央视垄断体育赛事版权，使得地方级电视台体育频道持续走向没落。曾在2009年还与[青海卫视](../Page/青海卫视.md "wikilink")合作打造“壹体育”品牌全天直播ESPN赛事，半年后被广电总局叫停封杀。
+
+目前在中國大陸地區，ESPN和[衛視體育台](../Page/衛視體育台.md "wikilink")可以在三星級以上賓館以及部分外國人居住區播出，实际上现在播出的节目即[FOX体育台的节目](https://zh.wikipedia.org/wiki/FOX体育台 "wikilink")，只是中国区域版本呼号依然维持现状。
 
 隨著ESPN把持有的ESPN STAR Sports所有股份售予新聞集團，ESPN正式退出亞洲，其在亞洲的ESPN頻道也已經陸續更名。
 

@@ -61,4 +61,4 @@
 [Category:已結業電腦公司](https://zh.wikipedia.org/wiki/Category:已結業電腦公司 "wikilink") [Category:網絡硬件公司](https://zh.wikipedia.org/wiki/Category:網絡硬件公司 "wikilink") [Category:惠普](https://zh.wikipedia.org/wiki/Category:惠普 "wikilink")
 
 1.  [以太网巨人3Com退出历史 H3C借船惠普出击全球](http://news.mydrivers.com/1/162/162402.htm)
-2.  [3Com Reports Results for First Quarter Fiscal 2009](http://phx.corporate-ir.net/phoenix.zhtml?c=61382&p=irol-newsArticle&ID=1199528&highlight=)
+2.

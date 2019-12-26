@@ -117,7 +117,7 @@
 <td><p><a href="../Page/緒形拳.md" title="wikilink">緒形拳</a><br />
 </p></td>
 <td><p>＊1996年重新製播成<a href="../Page/秀吉_(大河劇).md" title="wikilink">秀吉</a>，全劇為黑白。<br />
-＊主角是<a href="https://zh.wikipedia.org/wiki/安土桃山時代" title="wikilink">安土桃山時代的戰國後三雄</a><a href="https://zh.wikipedia.org/wiki/豐臣秀吉" title="wikilink">豐臣秀吉</a>。</p></td>
+＊主角是<a href="https://zh.wikipedia.org/wiki/安土桃山時代" title="wikilink">安土桃山時代的天下人</a><a href="https://zh.wikipedia.org/wiki/豐臣秀吉" title="wikilink">豐臣秀吉</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -182,7 +182,7 @@
 <td><p><a href="../Page/石坂浩二.md" title="wikilink">石坂浩二</a><br />
 高橋幸治</p></td>
 <td><p>＊第一部彩色大河劇。<br />
-＊主角是戰國前三雄<a href="../Page/上杉謙信.md" title="wikilink">上杉謙信</a>。</p></td>
+＊主角是戰國時代<a href="https://zh.wikipedia.org/wiki/越後國" title="wikilink">越後國大名</a><a href="../Page/上杉謙信.md" title="wikilink">上杉謙信</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
@@ -379,7 +379,7 @@
 <a href="../Page/中村雅俊.md" title="wikilink">中村雅俊</a><br />
 <br />
 </p></td>
-<td><p>＊主角是<a href="https://zh.wikipedia.org/wiki/安土桃山時代" title="wikilink">安土桃山時代的戰國後三雄</a><a href="https://zh.wikipedia.org/wiki/豐臣秀吉" title="wikilink">豐臣秀吉的正室</a><a href="https://zh.wikipedia.org/wiki/寧寧" title="wikilink">寧寧</a>。</p></td>
+<td><p>＊主角是<a href="https://zh.wikipedia.org/wiki/安土桃山時代" title="wikilink">安土桃山時代的天下人</a><a href="https://zh.wikipedia.org/wiki/豐臣秀吉" title="wikilink">豐臣秀吉的正室</a><a href="https://zh.wikipedia.org/wiki/寧寧" title="wikilink">寧寧</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
@@ -412,7 +412,7 @@
 <a href="../Page/武田鐵矢.md" title="wikilink">武田鐵矢</a><br />
 <br />
 <a href="../Page/夏目雅子.md" title="wikilink">夏目雅子</a></p></td>
-<td><p>＊涵蓋安土桃山到<a href="https://zh.wikipedia.org/wiki/江戶時代" title="wikilink">江戶時代前期</a>，以戰國後三雄之<a href="../Page/德川家康.md" title="wikilink">德川家康</a>為主角。</p></td>
+<td><p>＊涵蓋安土桃山到<a href="https://zh.wikipedia.org/wiki/江戶時代" title="wikilink">江戶時代前期</a>，以江戶幕府首任將軍之<a href="../Page/德川家康.md" title="wikilink">德川家康</a>為主角。</p></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
@@ -503,7 +503,7 @@
 <a href="../Page/西田敏行.md" title="wikilink">西田敏行</a><br />
 <a href="../Page/中村勘三郎_(十八代目).md" title="wikilink">中村勘九郎</a><br />
 </p></td>
-<td><p>＊主角是戰國時代的戰國前三雄<a href="../Page/武田信玄.md" title="wikilink">武田信玄</a>。</p></td>
+<td><p>＊主角是日本戰國時代的<a href="../Page/甲斐國.md" title="wikilink">甲斐國</a>大名<a href="../Page/武田信玄.md" title="wikilink">武田信玄</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>27</p></td>
@@ -577,7 +577,7 @@
 <a href="https://zh.wikipedia.org/wiki/鄉廣美" title="wikilink">鄉廣美</a><br />
 <a href="../Page/宇津井健.md" title="wikilink">宇津井健</a><br />
 </p></td>
-<td><p>＊主角是<a href="https://zh.wikipedia.org/wiki/安土桃山時代" title="wikilink">安土桃山時代的戰國後三雄</a><a href="../Page/織田信長.md" title="wikilink">織田信長</a>。<br />
+<td><p>＊主角是<a href="https://zh.wikipedia.org/wiki/安土桃山時代" title="wikilink">安土桃山時代的戰國大名</a><a href="../Page/織田信長.md" title="wikilink">織田信長</a>。<br />
 ＊以外國傳教士的觀點來描述織田信長的一生。</p></td>
 </tr>
 <tr class="odd">
@@ -673,7 +673,7 @@
 <br />
 <br />
 <a href="../Page/仲代達矢.md" title="wikilink">仲代達矢</a></p></td>
-<td><p>＊主角是<a href="https://zh.wikipedia.org/wiki/安土桃山時代" title="wikilink">安土桃山時代的戰國後三雄</a><a href="https://zh.wikipedia.org/wiki/豐臣秀吉" title="wikilink">豐臣秀吉</a>。</p></td>
+<td><p>＊主角是<a href="https://zh.wikipedia.org/wiki/安土桃山時代" title="wikilink">安土桃山時代的天下人</a><a href="https://zh.wikipedia.org/wiki/豐臣秀吉" title="wikilink">豐臣秀吉</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>36</p></td>
@@ -823,7 +823,8 @@
 <a href="../Page/江口洋介.md" title="wikilink">江口洋介</a><br />
 <a href="../Page/佐藤浩市.md" title="wikilink">佐藤浩市</a><br />
 <a href="https://zh.wikipedia.org/wiki/優香" title="wikilink">優香</a></p></td>
-<td><p>＊講述<a href="https://zh.wikipedia.org/wiki/江戶時代" title="wikilink">江戶時代</a><a href="../Page/幕末.md" title="wikilink">幕末</a>的京都守護職下由<a href="../Page/近藤勇.md" title="wikilink">近藤勇</a>與<a href="../Page/土方歲三.md" title="wikilink">土方歲三</a>帶領的警備組織<a href="../Page/新選組.md" title="wikilink">新選組</a>的興衰。</p></td>
+<td><p>＊講述<a href="https://zh.wikipedia.org/wiki/江戶時代" title="wikilink">江戶時代</a><a href="../Page/幕末.md" title="wikilink">幕末</a>的京都守護職下由<a href="../Page/近藤勇.md" title="wikilink">近藤勇</a>與<a href="../Page/土方歲三.md" title="wikilink">土方歲三</a>帶領的警備組織<a href="../Page/新選組.md" title="wikilink">新選組</a>的興衰。<br />
+＊此劇正值<a href="../Page/神奈川條約.md" title="wikilink">日美通商條約</a>150週年，故本劇以黑船事件為開頭。</p></td>
 </tr>
 <tr class="even">
 <td><p>44</p></td>
@@ -1067,8 +1068,7 @@
 <a href="https://zh.wikipedia.org/wiki/伊勢谷友介" title="wikilink">伊勢谷友介</a><br />
 <a href="../Page/高良健吾.md" title="wikilink">高良健吾</a><br />
 <a href="../Page/東出昌大.md" title="wikilink">東出昌大</a></p></td>
-<td><p>＊主角為幕末長州藩士<a href="https://zh.wikipedia.org/wiki/吉田松陰" title="wikilink">吉田松陰的妹妹</a>、<a href="../Page/久坂玄瑞.md" title="wikilink">久坂玄瑞</a>之妻杉文（後改名楫取美和子）。<br />
-＊本劇自2017年為止為大河劇最低的平均收視率。</p></td>
+<td><p>＊主角為幕末長州藩士<a href="https://zh.wikipedia.org/wiki/吉田松陰" title="wikilink">吉田松陰的妹妹</a>、<a href="../Page/久坂玄瑞.md" title="wikilink">久坂玄瑞</a>之妻杉文（後改名楫取美和子）。</p></td>
 </tr>
 <tr class="even">
 <td><p>55</p></td>
@@ -1128,7 +1128,8 @@
 <td><p><a href="../Page/韋駄天～東京奧運故事～.md" title="wikilink">韋駄天～東京奧運故事～</a><br />
 <br />
 （Idaten～Tokyo Olympic Banashi～）</p></td>
-<td><p>2019年1月6日</p></td>
+<td><p>2019年1月6日<br />
+2019年12月15日（預定）</p></td>
 <td><p><a href="../Page/宮藤官九郎.md" title="wikilink">宮藤官九郎</a></p></td>
 <td><p>宮藤官九郎</p></td>
 <td><p><a href="../Page/大友良英.md" title="wikilink">大友良英</a></p></td>
@@ -1146,7 +1147,7 @@
 <td><p><a href="../Page/麒麟來了.md" title="wikilink">麒麟來了</a><br />
 <br />
 （Kirin ga kuru）</p></td>
-<td><p>2020年</p></td>
+<td><p>2020年1月19日</p></td>
 <td><p><br />
 <br />
 岩本真耶</p></td>
@@ -1157,13 +1158,13 @@
 <td><p><a href="../Page/長谷川博己.md" title="wikilink">長谷川博己</a><br />
 <br />
 <a href="https://zh.wikipedia.org/wiki/染谷將太" title="wikilink">染谷將太</a><br />
-<a href="../Page/澤尻英龍華.md" title="wikilink">澤尻英龍華</a><br />
+<a href="../Page/木村文乃.md" title="wikilink">木村文乃</a><br />
 <a href="../Page/本木雅弘.md" title="wikilink">本木雅弘</a></p></td>
 <td><p>＊主角為日本戰國安土桃山時代的武將<a href="../Page/明智光秀.md" title="wikilink">明智光秀</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>60</p></td>
-<td><p><a href="../Page/直衝蒼天.md" title="wikilink">直衝蒼天</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/直衝青天" title="wikilink">直衝青天</a><br />
 <br />
 （Seiten wo tsuke）</p></td>
 <td><p>2021年</p></td>
@@ -1316,6 +1317,12 @@ NHK不定期會邀請大河劇主角擔任[紅白歌合戰的主持人](https://
 <td><p><a href="../Page/有働由美子.md" title="wikilink">有働由美子</a></p></td>
 <td><p>綜合</p></td>
 <td><p>《<a href="../Page/真田丸_(大河劇).md" title="wikilink">真田丸</a>》(旁白)</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/第70回NHK红白歌合战" title="wikilink">70</a></p></td>
+<td><p><a href="../Page/綾瀨遙.md" title="wikilink">綾瀨遙</a></p></td>
+<td><p>紅</p></td>
+<td><p>《<a href="../Page/韋駄天～東京奧運故事～.md" title="wikilink">韋駄天～東京奧運故事～</a>》</p></td>
 </tr>
 </tbody>
 </table>

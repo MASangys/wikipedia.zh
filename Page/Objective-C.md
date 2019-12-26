@@ -100,7 +100,7 @@ protected:
     void * memberVar2;
 
   public:
-    static return_type class_method(); // 類方法
+    static return_type class_method(); // 类方法
 
     return_type instance_method1();    // 实例方法
     return_type instance_method2( int p1 );

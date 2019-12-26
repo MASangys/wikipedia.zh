@@ -195,7 +195,7 @@
 <p>O型</p>
 </div></td>
 <td><div style="text-align: center;">
-<p>2011年退团，在团体代表色为蓝色，关8的是黄色，2011年26岁的时候退团，現以<a href="https://zh.wikipedia.org/wiki/関ジャニ∞" title="wikilink">關8兼演員身分活動</a></p>
+<p>2011年退团，在团体代表色为蓝色，关8的是黄色，2011年26岁的时候退团，2019年退出<a href="https://zh.wikipedia.org/wiki/関ジャニ∞" title="wikilink">關8擊退社</a>，現為個人活動</p>
 </div></td>
 </tr>
 <tr class="even">

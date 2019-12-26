@@ -98,75 +98,41 @@ L·羅恩·賀伯特於1911年出生于[美国](../Page/美国.md "wikilink")[�
 [Category:山達基](https://zh.wikipedia.org/wiki/Category:山達基 "wikilink") [Category:20世紀美國音樂家](https://zh.wikipedia.org/wiki/Category:20世紀美國音樂家 "wikilink") [Category:20世紀美國小說家](https://zh.wikipedia.org/wiki/Category:20世紀美國小說家 "wikilink") [Category:20世紀美國罪犯](https://zh.wikipedia.org/wiki/Category:20世紀美國罪犯 "wikilink") [Category:20世紀美國詩人](https://zh.wikipedia.org/wiki/Category:20世紀美國詩人 "wikilink") [Category:在英國的美國人](https://zh.wikipedia.org/wiki/Category:在英國的美國人 "wikilink") [Category:在希臘的美國人](https://zh.wikipedia.org/wiki/Category:在希臘的美國人 "wikilink") [Category:美國實驗音樂家](https://zh.wikipedia.org/wiki/Category:美國實驗音樂家 "wikilink") [Category:美国奇幻小说家](https://zh.wikipedia.org/wiki/Category:美国奇幻小说家 "wikilink") [Category:美国科幻小说家](https://zh.wikipedia.org/wiki/Category:美国科幻小说家 "wikilink") [Category:美国男性小说家](https://zh.wikipedia.org/wiki/Category:美国男性小说家 "wikilink") [Category:美国男性音樂家](https://zh.wikipedia.org/wiki/Category:美国男性音樂家 "wikilink") [Category:美国男性詩人](https://zh.wikipedia.org/wiki/Category:美国男性詩人 "wikilink") [Category:低俗小說作家](https://zh.wikipedia.org/wiki/Category:低俗小說作家 "wikilink") [Category:美國海軍軍官](https://zh.wikipedia.org/wiki/Category:美國海軍軍官 "wikilink") [Category:被判欺詐罪的美國人](https://zh.wikipedia.org/wiki/Category:被判欺詐罪的美國人 "wikilink") [Category:被判竊盜罪的美國人](https://zh.wikipedia.org/wiki/Category:被判竊盜罪的美國人 "wikilink") [Category:美國宗教領袖](https://zh.wikipedia.org/wiki/Category:美國宗教領袖 "wikilink") [Category:美國宗教作家](https://zh.wikipedia.org/wiki/Category:美國宗教作家 "wikilink") [Category:美國精神作家](https://zh.wikipedia.org/wiki/Category:美國精神作家 "wikilink") [Category:反精神醫學](https://zh.wikipedia.org/wiki/Category:反精神醫學 "wikilink") [Category:加利福尼亞州罪犯](https://zh.wikipedia.org/wiki/Category:加利福尼亞州罪犯 "wikilink") [Category:內布拉斯加州罪犯](https://zh.wikipedia.org/wiki/Category:內布拉斯加州罪犯 "wikilink") [Category:美國宗教史](https://zh.wikipedia.org/wiki/Category:美國宗教史 "wikilink") [Category:喬治·華盛頓大學校友](https://zh.wikipedia.org/wiki/Category:喬治·華盛頓大學校友 "wikilink") [Category:新興宗教創始人](https://zh.wikipedia.org/wiki/Category:新興宗教創始人 "wikilink") [Category:鹰级童军](https://zh.wikipedia.org/wiki/Category:鹰级童军 "wikilink") [Category:美國陰謀論者](https://zh.wikipedia.org/wiki/Category:美國陰謀論者 "wikilink") [Category:加利福尼亞州音樂家](https://zh.wikipedia.org/wiki/Category:加利福尼亞州音樂家 "wikilink") [Category:被限制進入英國的人](https://zh.wikipedia.org/wiki/Category:被限制進入英國的人 "wikilink") [Category:內布拉斯加州人](https://zh.wikipedia.org/wiki/Category:內布拉斯加州人 "wikilink") [Category:蒙大拿州赫勒拿人](https://zh.wikipedia.org/wiki/Category:蒙大拿州赫勒拿人 "wikilink") [Category:新澤西州人](https://zh.wikipedia.org/wiki/Category:新澤西州人 "wikilink") [Category:西方（流派）作家](https://zh.wikipedia.org/wiki/Category:西方（流派）作家 "wikilink") [Category:加利福尼亞州作家](https://zh.wikipedia.org/wiki/Category:加利福尼亞州作家 "wikilink") [Category:內布拉斯加州作家](https://zh.wikipedia.org/wiki/Category:內布拉斯加州作家 "wikilink") [Category:偽科學的物理學家](https://zh.wikipedia.org/wiki/Category:偽科學的物理學家 "wikilink") [Category:天使夢想家](https://zh.wikipedia.org/wiki/Category:天使夢想家 "wikilink") [Category:搞笑諾貝爾獎得主](https://zh.wikipedia.org/wiki/Category:搞笑諾貝爾獎得主 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15. Miller, p. 125
-
 16.
-
 17. Miller, p. 113
-
 18. Miller, p. 114
-
 19. Miller, p. 117
-
 20.
-
 21. Urban, Hugh B. *Magia sexualis: sex, magic, and liberation in modern Western esotericism*, p. 137. Berkeley, CA: University of California Press, 2006. ISBN 978-0-520-24776-5
-
 22.
 23. Pendle, p. 268
-
 24. Pendle, p. 269
-
 25. Pendle, p. 270
-
 26.
-
 27.
-
 28.
-
 29.
-
 30. [United States of America v. Jane Kember, Morris Budlong, Sentencing Memorandum](https://zh.wikipedia.org/wiki/s:United_States_of_America_v._Jane_Kember,_Morris_Budlong,_Sentencing_Memorandum "wikilink"); pp. 23-25
-
 31.
-
 32. Brown, Mark (January 30, 1986). "Creston provided quiet retreat for controversial church leader". *The County Telegram-Tribune*, San Luis Obispo, pp. 1A/5A.
-
 33. Behar, Richard (October 27, 1986). "The prophet and profits of Scientology". Forbes 400 (Forbes)
-
 34. Reitman, p. 323
-
 35. \[Staff\] (February 7, 1986). "Hubbard Left Most of Estate to Scientology Church; Executor Appointed". The Associated Press
-
 36. Atack, p. 356
-
 37. Lamont, p. 154
-
 38. Miller, p. 306
-
 39.

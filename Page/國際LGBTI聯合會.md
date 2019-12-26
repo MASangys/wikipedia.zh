@@ -118,32 +118,21 @@ ILGA在1993年成為獲得[聯合國](https://zh.wikipedia.org/wiki/聯合國 "w
 [Category:LGBT組織](https://zh.wikipedia.org/wiki/Category:LGBT組織 "wikilink") [Category:1978年建立的組織](https://zh.wikipedia.org/wiki/Category:1978年建立的組織 "wikilink") [Category:非政府间国际组织](https://zh.wikipedia.org/wiki/Category:非政府间国际组织 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
 16.
 17.
-
 18.
-
 19.

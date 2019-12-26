@@ -254,15 +254,9 @@ iWeb是一个网站制作程序。其独有的功能包括：拖放iWeb Widget�
 [Category:多媒體軟體](https://zh.wikipedia.org/wiki/Category:多媒體軟體 "wikilink") [Category:蘋果公司軟體](https://zh.wikipedia.org/wiki/Category:蘋果公司軟體 "wikilink") [Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink") [Category:ITunes](https://zh.wikipedia.org/wiki/Category:ITunes "wikilink")
 
 1.  [iLife '11 Press Release](http://www.apple.com/pr/library/2010/10/20ilife.html)
-
 2.  [iLife, iWork, Aperture now available on Mac App Store](http://www.macworld.com/article/156914/2011/01/bundles.html)
-
 3.  [Apple Completes iLife for iOS With Introduction of iPhoto & Major Updates to iMovie & GarageBand](http://www.apple.com/pr/library/2012/03/07Apple-Completes-iLife-for-iOS-With-Introduction-of-iPhoto-Major-Updates-to-iMovie-GarageBand.html)
-
 4.  [苹果宣布iWork系列/iMovie/iPhoto软件免费](http://tech.qq.com/a/20130911/000750.htm)
-
 5.  [Macworld | Apple Mac Event – Live Update](http://www.macworld.com/news/2007/08/07/macevent/index.php)
-
 6.  [iLife '09 Press Release](http://www.apple.com/pr/library/2009/01/26ilife.html)
-
 7.

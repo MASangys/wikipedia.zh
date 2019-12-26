@@ -425,45 +425,26 @@ PID控制器可以寫成以下的形式
 [Category:控制理论](https://zh.wikipedia.org/wiki/Category:控制理论 "wikilink") [Category:控制工程](https://zh.wikipedia.org/wiki/Category:控制工程 "wikilink") [Category:控制器](https://zh.wikipedia.org/wiki/Category:控制器 "wikilink") [Category:经典控制](https://zh.wikipedia.org/wiki/Category:经典控制 "wikilink")
 
 1.  \[<http://eprints.gla.ac.uk/3816/1/IEEE2pdf.pdf>, Li, Y., Ang, K.H., and Chong, G.C.Y. (2006) **Patents, software and hardware for PID control: an overview and analysis of the current art**. *IEEE Control Systems Magazine*, 26 (1). pp. 42-54. ISSN 0272-1708 (doi:10.1109/MCS.2006.1580153)\]
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
 13. Li, Y., et al. (2004) CAutoCSD - Evolutionary search and optimisation enabled computer automated control system design, Int J Automation and Computing, vol. 1, No. 1, pp. 76-88. ISSN 1751-8520. <http://userweb.eng.gla.ac.uk/yun.li/ga_demo/>
-
 14. Ang, K.H., Chong, G.C.Y., and Li, Y. (2005). PID control system analysis, design, and technology, *IEEE Trans Control Systems Tech*, 13(4), pp.559-576. <http://eprints.gla.ac.uk/3817/1/IEEE3.pdf>
-
 15. Y Li, KH Ang, GCY Chong, Patents, software, and hardware for PID control: An overview and analysis of the current art, Control Systems, IEEE, 26 (1), 42-54. <http://eprints.gla.ac.uk/3816/1/IEEE2pdf.pdf>
-
 16.
 17. [Li, Y. and Ang, K.H. and Chong, G.C.Y. (2006) PID control system analysis and design - Problems, remedies, and future directions. IEEE Control Systems Magazine, 26 (1). pp. 32-41. ISSN 0272-1708](http://eprints.gla.ac.uk/3815/1/IEEE_CS_PID_01580152.pdf)
-
 18.
-
 19.
-
 20.
-
 21. [Two-Degree-of-Freedom PID Controllers Mituhiko Araki and Hidefumi Taguchi](http://ijcas.com/admin/paper/files/401-411.pdf)
-
 22.
-
 23.
-
 24.

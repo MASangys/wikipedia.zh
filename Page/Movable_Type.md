@@ -9,7 +9,7 @@ Movable Type不仅可以应用于个人的[網誌](../Page/網誌.md "wikilink")
 ## 外部链接
 
   - [Movable Type官方网站](http://www.sixapart.com/)
-  - [Movable Type社群网站](http://www.movabletype.org/)
+  - [Movable Type社群网站](https://web.archive.org/web/20120706135617/http://www.movabletype.org/)
 
 ## 参考文献
 

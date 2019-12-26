@@ -205,10 +205,10 @@ QQ推出接近两年后（2001年2月10日），腾讯QQ最高同时在线用户
 <tr class="even">
 <td><p><a href="../Page/Linux.md" title="wikilink">Linux</a></p></td>
 <td></td>
-<td><p>1.0.2</p></td>
+<td><p>2.0.0</p></td>
 <td></td>
 <td><p>简体中文</p></td>
-<td><p>QQ for Linux于2008年7月31日推出，且直至1.0 Beta 1版较Windows版本只有最基本的聊天功能；QQ for Linux支持<a href="https://zh.wikipedia.org/wiki/32位" title="wikilink">32位和</a><a href="https://zh.wikipedia.org/wiki/64位" title="wikilink">64位处理器的Linux系统</a>，如<a href="https://zh.wikipedia.org/wiki/SuSE" title="wikilink">SuSE</a>、<a href="../Page/Ubuntu.md" title="wikilink">Ubuntu</a>、<a href="../Page/Fedora.md" title="wikilink">Fedora</a>、<a href="https://zh.wikipedia.org/wiki/Lemote_Loonux" title="wikilink">Lemote Loonux</a>[30]。有用户报告QQ for Linux在好友列表的加载上存在一些问题，如不能正确显示好友数量、不能显示一部分未上线好友[31]，此外该QQ版本还与使用较为广泛的IBus输入平台（Ubuntu 10.04默认）相冲突，可能会造成聊天窗口一输入中文即出错退出。2010年12月22日更新的QQ For Linux 1.02版本，好友列表不能正确显示的问题得到了解决，并能更好的支持群聊天功能，但其他问题仍然没有明显改进[32]。</p></td>
+<td><p>QQ for Linux最初版本于2008年7月31日推出，且直至1.0 Beta 1版较Windows版本只有最基本的聊天功能；QQ for Linux支持<a href="https://zh.wikipedia.org/wiki/32位" title="wikilink">32位和</a><a href="https://zh.wikipedia.org/wiki/64位" title="wikilink">64位处理器的Linux系统</a>，如<a href="https://zh.wikipedia.org/wiki/SuSE" title="wikilink">SuSE</a>、<a href="../Page/Ubuntu.md" title="wikilink">Ubuntu</a>、<a href="../Page/Fedora.md" title="wikilink">Fedora</a>、<a href="https://zh.wikipedia.org/wiki/Lemote_Loonux" title="wikilink">Lemote Loonux</a>[30]。有用户报告QQ for Linux在好友列表的加载上存在一些问题，如不能正确显示好友数量、不能显示一部分未上线好友[31]，此外该QQ版本还与使用较为广泛的IBus输入平台（Ubuntu 10.04默认）相冲突，可能会造成聊天窗口一输入中文即出错退出。2010年12月22日更新的QQ For Linux 1.02版本，好友列表不能正确显示的问题得到了解决，并能更好的支持群聊天功能，但其他问题仍然没有明显改进[32]。2019年10月24日，腾讯发布qq for linux 2.0.0 版本，支持x64、ARM64、MIPS64三种处理器架构。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -884,7 +884,7 @@ QQ号码由[数字组成](https://zh.wikipedia.org/wiki/数字 "wikilink")，在
 <tr class="odd">
 <td><p>QQ超级会员</p></td>
 <td><p>会员</p></td>
-<td><p>SVIP8</p></td>
+<td><p>SVIP9</p></td>
 <td><p>20元/月</p></td>
 <td><p>2013年6月24日</p></td>
 <td><p>2013年6月24日</p></td>
@@ -1006,7 +1006,7 @@ QQ号码由[数字组成](https://zh.wikipedia.org/wiki/数字 "wikilink")，在
 
 #### QQ等级
 
-在2004年10月腾讯公司推出了QQ“在線时长等级服务”，QQ用戶透過長期在線，便能提升其在QQ中的等級。随着等級的增加可以解锁一些特权。但也增加了挂机行为。QQ等级由用户积累的QQ活跃天数决定。2014年，QQ等级加速规则再次修改，新规则分为**基础加速**、**成长加速**和**服务加速**。
+在2004年10月腾讯公司推出了QQ“在線时长等级服务”，QQ用戶通過長期在線，便能提升其在QQ中的等級。随着等級的增加可以解锁一些特权。但也增加了挂机行为。QQ等级由用户积累的QQ活跃天数决定。2014年，QQ等级加速规则再次修改，新规则分为**基础加速**、**成长加速**和**服务加速**。
 
 ### 轉賬和紅包
 
@@ -1027,168 +1027,88 @@ QQ号码由[数字组成](https://zh.wikipedia.org/wiki/数字 "wikilink")，在
 [Category:即时通讯软件](https://zh.wikipedia.org/wiki/Category:即时通讯软件 "wikilink") [Category:中国驰名商标](https://zh.wikipedia.org/wiki/Category:中国驰名商标 "wikilink") [Category:腾讯QQ](https://zh.wikipedia.org/wiki/Category:腾讯QQ "wikilink")
 
 1.  [腾讯·公司信息](http://www.tencent.com/zh-cn/at/rm/2003.shtml) .\[2010-9-23\]
-
 2.  [腾讯高价海外回购域名秘密重铸QQ品牌战略](http://news.chinabyte.com/110/1659110.shtml).ChinaByte\[2003-3-25\]
-
 3.  黄孟复.[中国民营企业自主创新调查](http://books.google.com.hk/books?id=gr_sWBs78ssC&pg=PA394)\[M\].北京：中华工商联合出版社, 2007:394.
-
 4.  [QQ版本发展历程](http://im.qq.com/culture/version.shtml).QQ官方网站\[2010-9-23\]
-
 5.
 6.
 7.
 8.  北方网.[升级神速！腾讯QQ2003III beta1抢鲜下载](http://it.enorth.com.cn/system/2003/11/18/000670241.shtml).\[2003-11-18\]
-
 9.
 10. 腾讯网.[QQ同时在线历程：2010年3月5日最高在线破1亿](http://tech.qq.com/a/20100305/000559.htm).\[2010-3-5\]
-
 11. QQ官方网站.[QQ发展大事记](http://im.qq.com/culture/progress.shtml).\[2010-9-24\]
-
 12. 姜明媚.[QQ：互联网起家的品牌](http://yule.sohu.com/20050802/n226536247.shtml)。搜狐娱乐\[2005-8-2\]
-
 13. 刘德良.[向下，向下，再向下](http://column.iresearch.cn/u/liudeliang/archives/2007/8926.shtml)。艾瑞网\[2007-10-22\]
-
 14. [QQ所有版本](http://im.qq.com/l).QQ官方网站\[2017-01-01\]
-
 15. [腾讯博客](http://webqq.qzone.qq.com/).WebQQ官方博客\[2010-9-23\]
-
 16. [手机QQ官网](http://im.qq.com/mobileqq/)
-
 17. 腾讯网.[中西合璧：QQ国际版尝鲜体验](http://xian.qq.com/a/20091016/000035.htm).\[2009-10-16\]
-
 18. 东北网.[交友国际化QQ International Beta1发布](http://it.dbw.cn/system/2009/09/27/052131546.shtml).\[2009-9-27\]
-
 19. [腾讯TM](http://im.qq.com/tm/2013).\[2011-4-28\]
-
 20. 华军资讯.[腾讯将收购泰国门户网站Sanook 49.9%股份](http://news.newhua.com/news/2010/0827/100769.shtml). \[2010-8-27\]
-
 21. [ibibo.About Us](http://www.ibibo.com/aboutus/main.php). \[2010-9-26\]
-
 22. 百度空间.[QQ也有盗版？越南ZingChat雷人！开心农场也被山寨！](http://hi.baidu.com/dekaron/blog/item/7fca642320335a4593580775.html).\[2009-12-17\]
-
 23. 《中国企业家》.[腾讯国际化全局](http://tech.qq.com/a/20100512/000284.htm).\[2010-5-12\]
-
 24. [Internet Archive Wayback Machine.Search Result](https://web.archive.org/web/20070116110204/http://www.sonky.com/qqitaly/).\[2010-9-26\]
-
 25. Sonky.[QQITALY for Iphone](http://www.sonky.com/qqitaly/iphone/) . \[2010-9-26\]
-
 26. 企奥网.[南非版QQ测评-斗鸡眼的小企鹅](http://www.qqaomi.com/2010/06/%E4%BC%81%E5%A5%A5%E5%8D%97%E9%9D%9E%E7%89%88qq%E6%B5%8B%E8%AF%84/) .\[2010-6-9\]
-
 27. 太平洋电脑网.[试用QQ for Mac:原来如此简单](http://www.pconline.com.cn/pcedu/qq/zhixun/0801/1216405.html). \[2008-1-28\]
-
 28. 新浪.[腾讯正式推出首款苹果版QQ软件](http://tech.sina.com.cn/i/2008-01-28/18442001949.shtml).\[2008-1-28\]
-
 29. QQ for Mac.[当前版本功能介绍](http://im.qq.com/qq/mac/download.shtml).\[2010-9-25\]
-
 30. QQ for Linux.[一般问题解答](http://im.qq.com/qq/linux/help.shtml). \[2010-9-25\]
-
 31. 腾讯客服.[QQ软件常见问题 - Linux QQ问题](http://service.qq.com/category/1008_1.html) .\[2010-9-25\]
-
 32. Ubuntu之家.[QQ FOR LINUX将要更新了？](http://www.ubuntuhome.com/qq-for-linux-will-update.html) .
-
 33. 太平洋电脑网.[出门在外就用它：WebQQ网页聊天初体验](http://pcedu.pconline.com.cn/qq/jiqiao/0904/1621706.html).\[2009-4-16\]
-
 34. 太平洋电脑网.[腾讯WebOS新布局WebQQ 2.0亮点深度体验](http://pcedu.pconline.com.cn/pingce/pingcenormal/1009/2220885.html).\[2010-9-14\]
-
-35. 驱动之家MyDrivers.[更像OS腾讯WebQQ 3.0新版上线](http://tech.163.com/digi/11/0422/07/727QIRJ600162OUT.html). \[2011-4-22\]
-
+35. 驱动之家MyDrivers.[更像OS腾讯WebQQ 3.0新版上线](http://tech.163.com/digi/11/0422/07/727QIRJ600162OUT.html) . \[2011-4-22\]
 36. [Q+ Web - 搜搜百科](http://baike.soso.com/v43691303.htm)
-
 37. [Q+官方网站-产品中心](http://www.qplus.com/productForWeb.shtml)
-
 38. 91手机.\[<http://android.91.com/content/2010-03-30/20100330075812461.shtml>, droid腾讯官方QQ上线\]. \[2010-3-30\]
-
 39. 南方报业网.\[<http://nf.nfdaily.cn/nanfangdaily/21cn/200909070079.asp>, iPhone创富志\].\[2009-9-7\]
-
 40. [iTunes 的 App Store 中的“QQ”](https://itunes.apple.com/cn/app/qq-2011/id444934666?mt=8)
-
 41. [1](https://itunes.apple.com/am/app/qq-hd/id453718989?mt=8)
-
 42. 聊天升级：原创表情、图文消息展示，聊天草稿，收图升级：2G/3G下聊天缩略图自动下载，下载原图到本地，查找联系人升级：按邮箱查找人，关键词查找群，群成员新增搜索，临时会话升级：群临时支持发图，新增从讨论组发起临时会话，通过链接加入讨论组，性能升级：支持好友24小时消息漫游，联网优化，修复其他程序bug.
-
 43. [S60V5腾讯官网下载](http://mobile.qq.com/2010/v5手机QQ)
-
 44. 天极网.[腾讯QQ七年成长历程回顾](http://soft.yesky.com/lianluo/201/2170201.shtml).\[2005-10-27\]
-
 45. 腾讯.[QQ2005 Beta3](http://im.qq.com/qq/2005/beta3/index_d.shtml).\[2010-10-1\]
-
 46.
-
 47. 太平洋电脑网.[乌云密布！腾讯QQ的天空不需要彩虹？](http://pcedu.pconline.com.cn/softnews/gdpl/0811/1480093_1.html).\[2008-11-17\]
-
 48. 搜狐网.[51.com中止彩虹QQ开发维护内部业务重组](http://it.sohu.com/20081217/n261251511.shtml).\[2008-12-17\]
-
 49. cnBeta.[告别飘云\!飘云QQ核心技术人员正式声明退出开发](http://www.cnbeta.com/articles/40844.htm) . \[2007-10-11\]
-
 50. 华军资讯网.[飘云重拾QQ复制陈寿福珊瑚虫的疯狂？](http://news.newhua.com/news1/net/2008/610/08610153028C9C52FGE95CCFAA0AAK9KK1EFJ4G45GA1JAH3HDG1CID2.html) .\[2008-6-10\]
-
 51. <http://bbs.ntrqq.net/forum.php?mod=forumdisplay&fid=15&filter=typeid&typeid=47>
-
 52. Pidgin.[FullChangeLog](http://developer.pidgin.im/wiki/FullChangeLog).\[2010-9-27\]
-
 53. [libqq](http://code.google.com/p/libqq-pidgin/).
-
 54. LumaQQ.[Java Edition](http://lumaqq.linuxsir.org/main/LumaQQJavaEdition.html) .\[2010-9-27\]
-
 55. TextQQ.[Project Info](http://cosoft.org.cn/projects/textqq/).\[2010-9-27\]
-
 56. Perl OICQ.[Perl OICQ](http://perl-oicq.sourceforge.net/). \[2010-9-27\]
-
 57. Miranda IM.[MirandaQQ (libeva Version) 0.1.0.27](http://addons.miranda-im.org/details.php?action=viewfile&id=2107) .\[2010-10-1\]
-
 58. Miranda IM.[MirandaQQ2 0.2.0.68](http://addons.miranda-im.org/details.php?action=viewfile&id=3348).\[2010-10-1\]
-
 59. AdiumQQ github.com/worr/AdiumQQ/（adiumxtras.com/index.php?a=xtras\&xtra_id=8226）
-
 60. 渤麦堂.[isQ开发小组](http://www.sinomac.com/isQ/index.php) .\[2010-10-1\]
-
 61. 杨子晚报.[网友追捧最牛QQ号](http://epaper.yangtse.com/yzwb/2009-10/09/content_14179623.htm) . \[2009-10-9\]
-
 62. 中国江西省广播电视今视网.[腾讯五位至尊QQ号码“88888”拍出天价26.02万](http://www.jxgdw.com/news/shxw/2005-01-31/3000028795.html) .\[2007-12-23\]
-
 63.
-
 64. 腾讯.[软件许可及服务协议](http://freeqqm.qq.com/agreement.html).\[\]
-
 65. 徐强.[全国首宗盗卖QQ号码案宣判定侵犯通信自由罪](http://www.chinacourt.org/public/detail.php?id=192244)。中国法院网\[2006-1-13\]
-
 66. 硅谷动力.[深入了解：腾讯回收QQ号码原则](http://www.enet.com.cn/article/2006/0123/A20060123496230.shtml) .\[2006-1-23\]
-
 67. 腾讯.[QQ群组](http://service.qq.com/category/18_1.html) .\[2010-10-4\]
-
 68. 腾讯.[校友班级和QQ群问题](http://service.qq.com/category/1154_1.html) . \[2010-10-4\]
-
 69.
 70. [传QQ在内测万人群](http://tech.163.com/16/0406/08/BJV4O6EA00094OE0.html)
-
 71. [QQ认证群功能升级：申请成功立即升级为5000人群](http://tech.sina.com.cn/roll/2017-07-15/doc-ifyiaewh9137183.shtml)
-
 72.
-
 73.
-
 74.
-
 75.
-
 76. 新浪.[QQ挂级：浪费能源谁心疼](http://finance.sina.com.cn/roll/20050802/0903244132.shtml).\[2005-8-2\]
-
 77. 腾讯.[QQ在线计划说明](http://im.qq.com/qq/mo.shtml?time.htm).\[2010-10-6\]
-
 78. 腾讯.[黄钻等级体系](http://beta-imgcache.qzone.qq.com/qzone/mall/v3/vip/portal/series.htm). \[2010-10-4\]
-
 79. 腾讯.[绿钻](http://vip.music.qq.com/v2/privileges/index.html).\[2010-10-5\]
-
 80. 太平洋电脑网.[QQ蓝钻将推出等级体系](http://www.pconline.com.cn/pcedu/qq/zhixun/0811/1473924.html).\[2008-11-11\]
-
 81. [蓝钻贵族使用帮助](http://minigame.qq.com/gamevip/help.html) 。蓝钻贵族FAQ \[2011-11-28\]
-
 82. 腾讯.[黑钻等级规则](http://dnf.qq.com/comm-htdocs/vip/dnf/power_8.htm).\[2010-10-5\]
-
 83. 腾讯.[购Q宠粉钻送礼包限时优惠火爆抢购](http://games.qq.com/a/20070412/000251.htm). \[2007-4-12\]
-
 84.
-
 85.
-
 86.

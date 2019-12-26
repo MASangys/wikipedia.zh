@@ -193,7 +193,7 @@ SHA<sub>d</sub>-256(m)=SHA-256(SHA-256(m))。它會克服有關*延伸長度*攻
   - [FIPS PUB 180-2](https://web.archive.org/web/20021212213605/http://csrc.nist.gov/encryption/tkhash.html)，*安全雜湊標準*
   - [RFC 3174](http://www.ietf.org/rfc/rfc3174.txt)，*美國安全雜湊演算法1（SHA1）*
   - [這個Javascript SHA-1計算機會展示計算過程中的中繼值](http://www.cs.eku.edu/faculty/styer/460/Encrypt/JS-SHA1.html)
-  - [SHA-256在线格计算工具](https://passwordsgenerator.pro/sha256)
+  - [SHA-256在线格计算工具](https://web.archive.org/web/20180620001154/https://passwordsgenerator.pro/sha256)
 
 ## 參見
 

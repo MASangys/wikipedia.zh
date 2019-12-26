@@ -24,7 +24,7 @@
 
 ### 第二次三K党
 
-[BirthofaNation.jpg](https://zh.wikipedia.org/wiki/File:BirthofaNation.jpg "fig:BirthofaNation.jpg") [FrankLynchedLarge.jpg](https://zh.wikipedia.org/wiki/File:FrankLynchedLarge.jpg "fig:FrankLynchedLarge.jpg") [Kkk1928.jpg](https://zh.wikipedia.org/wiki/File:Kkk1928.jpg "fig:Kkk1928.jpg") 第二次三K党成立于[第一次世界大战](../Page/第一次世界大战.md "wikilink")期间，普遍认为它的成立与[伍德罗·威尔逊](../Page/伍德罗·威尔逊.md "wikilink")总统以及葛里菲斯导演的著名影片《[一个国家的诞生](https://zh.wikipedia.org/wiki/一个国家的诞生 "wikilink")》（1915年）有着莫大的关联。这部影片是根据[托马斯·迪克松的两部小说](https://zh.wikipedia.org/wiki/托马斯·迪克松 "wikilink")《同族人》（*The Clansman*）和《美洲豹的斑点》（*The Leopard's Spots*）改编而成的。原作者期望“通过重现一段美好的民主党历史来革命性地改变北方人观念”。这部片中将三K党获得成功的地区说成是中西部地区，而事实上应该是美国南部。许多社会底层的白人在观看此片后，都认为他们的贫穷是由黑人或者犹太银行家造成的，这种宣传手法与[纳粹德国相类似](https://zh.wikipedia.org/wiki/纳粹德国 "wikilink")。这部影片导致了三K党在美国全国的风行。在[洛杉矶](../Page/洛杉矶.md "wikilink")的试映式上，打扮成三K党成员模样的演员被雇作广告宣传员，而之后在[亚特兰大](../Page/亚特兰大.md "wikilink")的正式首映式中，重新集结起来的三K党员走上街头欢呼雀跃。在有些地方，狂热的南方观众甚至朝舞台银幕开枪。
+[BirthofaNation.jpg](https://zh.wikipedia.org/wiki/File:BirthofaNation.jpg "fig:BirthofaNation.jpg") [FrankLynchedLarge.jpg](https://zh.wikipedia.org/wiki/File:FrankLynchedLarge.jpg "fig:FrankLynchedLarge.jpg") [Kkk1928.jpg](https://zh.wikipedia.org/wiki/File:Kkk1928.jpg "fig:Kkk1928.jpg") 第二次三K党成立于[第一次世界大战](../Page/第一次世界大战.md "wikilink")期间，普遍认为它的成立与[伍德罗·威尔逊](../Page/伍德罗·威尔逊.md "wikilink")总统以及葛里菲斯导演的經典電影《[一个国家的诞生](https://zh.wikipedia.org/wiki/一个国家的诞生 "wikilink")》（1915年）有着莫大的关联。这部影片是根据[托马斯·迪克松的两部小说](https://zh.wikipedia.org/wiki/托马斯·迪克松 "wikilink")《同族人》（*The Clansman*）和《美洲豹的斑点》（*The Leopard's Spots*）改编而成的。原作者期望“通过重现一段美好的民主党历史来革命性地改变北方人观念”。这部片中将三K党获得成功的地区说成是中西部地区，而事实上应该是美国南部。许多社会底层的白人在观看此片后，都认为他们的贫穷是由黑人或者犹太银行家造成的，这种宣传手法与[纳粹德国相类似](https://zh.wikipedia.org/wiki/纳粹德国 "wikilink")。这部影片导致了三K党在美国全国的风行。在[洛杉矶](../Page/洛杉矶.md "wikilink")的试映式上，打扮成三K党成员模样的演员被雇作广告宣传员，而之后在[亚特兰大](../Page/亚特兰大.md "wikilink")的正式首映式中，重新集结起来的三K党员走上街头欢呼雀跃。在有些地方，狂热的南方观众甚至朝舞台银幕开枪。
 
 在这一年，另一件导致三K党复活的重要事件是[犹太人](../Page/犹太人.md "wikilink")工厂主[利奥·弗兰克被私刑处死](../Page/利奥·弗兰克案.md "wikilink")。当时的地方报纸报道了一则耸人听闻的消息：在一家犹太人开办的工厂裡，业主利奥·弗兰克对其员工玛丽·帕甘（Mary Phagan）实施了性犯罪并谋杀了她。在[喬治亚州的一次充满疑问的审判中](https://zh.wikipedia.org/wiki/喬治亚州 "wikilink")，弗兰克被宣判犯有[谋杀罪](https://zh.wikipedia.org/wiki/谋杀 "wikilink")（由于法庭内聚集了暴力民众，因此在[陪审团宣布结果时被告与辩护律师并不在场](https://zh.wikipedia.org/wiki/陪审团 "wikilink")）。弗兰克的[上诉也被驳回](https://zh.wikipedia.org/wiki/上诉 "wikilink")（高等法院法官奥利弗·温戴尔·赫尔姆斯表示了不同意见，因为他认为审判不符合合法的诉讼程序）。执政官将弗兰克的刑罚减为[终身监禁](https://zh.wikipedia.org/wiki/终身监禁 "wikilink")，但是一群自称「玛丽·帕甘骑士」的人将弗兰克从监狱劫走，在私刑中将其绞死。具有讽刺意味的是，谋杀案中的证据显示真正的凶手是一名具有犯罪前科的黑人吉姆·克勞，他是工厂的看门人，案发后有人发现他在洗一件带有血迹的衣服。
 
@@ -101,6 +101,7 @@
 ## 参见內部連結
 
   - [三K党服装](https://zh.wikipedia.org/wiki/三K党服装 "wikilink")
+  - [禁蒙面法](../Page/禁蒙面法.md "wikilink")，三K黨成員通常戴上亞麻布製成的白色尖頂頭罩。
   - [吉姆·克劳法](https://zh.wikipedia.org/wiki/吉姆·克劳法 "wikilink")
   - [神圣法庭联盟](https://zh.wikipedia.org/wiki/神圣法庭联盟 "wikilink")
   - [沉默兄弟组织](https://zh.wikipedia.org/wiki/沉默兄弟组织 "wikilink")

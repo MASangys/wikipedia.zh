@@ -18,8 +18,6 @@ Telnet在1969年開發出來，在 RFC 15 定義， RFC 854 定義了擴充功�
 
 [Microsoft Windows從](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Vista開始](https://zh.wikipedia.org/wiki/Vista "wikilink")，不再預先安裝Telnet客戶端，使用者需要手動從程式集裡啟動才可使用。而在之前的版本，只要電腦啟動了TCP/IP服務，Telnet客戶端便可隨時使用。
 
-目前
-
 ## 相關RFC文件
 
 ### 網際網路

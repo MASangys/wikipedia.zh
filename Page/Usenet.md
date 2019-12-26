@@ -82,63 +82,34 @@ PC Magazine的萨沙·西根在2008年表示“Usenet已经奄奄一息了”。
 [Category:Usenet](https://zh.wikipedia.org/wiki/Category:Usenet "wikilink") [Category:1980年面世](https://zh.wikipedia.org/wiki/Category:1980年面世 "wikilink")
 
 1.  *From Usenet to CoWebs: interacting with social information spaces*, Christopher Lueg, Danyel Fisher, Springer (2003),
-
 2.  [The jargon file v4.4.7](http://jargon-file.org/archive/jargon-4.4.7.dos.txt) , Jargon File Archive.
-
 3.  [Chapter 3 - The Social Forces Behind The Development of Usenet](http://www.columbia.edu/~hauben/book/ch106.x03) , Netizens Netbook by Ronda Hauben and Michael Hauben.
-
 4.
 5.
-
 6.  *From Usenet to CoWebs: interacting with social information spaces*, Christopher Lueg, Danyel Fisher, Springer (2003),
-
 7.  ["Invitation to a General Access UNIX Network](http://www.newsdemon.com/first-official-announcement-usenet.php) ", James Ellis and Tom Truscott, in First Official Announcement of USENET, NewsDemon (K\&L Technologies, Inc), 1979
-
 8.  . Carnegie Mellon School of Computer Science.
-
 9.
-
 10.
 11. One way to virtually read and participate in Usenet newsgroups using an ordinary Internet browser is to do an internet search on a known newsgroup, such as the high volume forum: "sci.physics". Retrieved April 28, 2019
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24. "." [TechCrunch](../Page/TechCrunch.md "wikilink"). August 1, 2008. Retrieved on May 8, 2011.
-
 25.
-
 26.
-
 27. Mieszkowski, Katharine. "", archive.salon.com (January 7, 2002).
-
 28. Wiseman, David. ["Magi's NetNews Archive Involvement"](http://www.csd.uwo.ca/~magi/personal/usenet.html) , csd.uwo.ca.
-
 29. Feldman, Ian. , "TidBITS" (February 10, 1992)
-
 30.  (December 21, 2001)
-
 31.
-
 32.

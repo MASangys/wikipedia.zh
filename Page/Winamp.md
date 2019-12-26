@@ -116,85 +116,48 @@ Winamp的各个版本包含数个[彩蛋](https://zh.wikipedia.org/wiki/彩蛋_\
 [Category:視窗媒體播放器](https://zh.wikipedia.org/wiki/Category:視窗媒體播放器 "wikilink") [Category:媒体播放器](https://zh.wikipedia.org/wiki/Category:媒体播放器 "wikilink") [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink") [Category:付費軟件](https://zh.wikipedia.org/wiki/Category:付費軟件 "wikilink") [Category:美國線上公司](https://zh.wikipedia.org/wiki/Category:美國線上公司 "wikilink")
 
 1.
-
 2.  Mariano, Gwendolyn (May 1, 2002). ["Winamp glitch may benefit open source"](http://news.cnet.com/2100-1023-896972.html). [CNET](../Page/CNET.md "wikilink") News. Retrieved March 28, 2010.
-
 3.  [Winamp Features Comparison](http://www.winamp.com/help/Player_Features)  Winamp.com. Retrieved March 28, 2010.
-
 4.  Dixon, Douglas; Dreier, Troy; France, Jasmine (August 6, 2006). ["Nullsoft Winamp 5.23 Review & Editor's Rating"](http://reviews.cnet.com/music-services/nullsoft-winamp-5-23/4505-9240_7-31219285.html?tag=mncolBtm;rnav#cnetReview). [CNET](../Page/CNET.md "wikilink") News. Retrieved March 28, 2010.
-
 5.
-
 6.
 7.
 8.  Van Buskirk, Eliot (November 10, 2007). ["Winamp Packs on Features for 10th-Anniversary Edition"](http://www.wired.com/software/softwarereviews/news/2007/10/winamp_review). [Wired.com](https://zh.wikipedia.org/wiki/Wired.com "wikilink"). Retrieved March 7, 2010.
-
 9.  Graffeo, Deana (September 14, 2005). ["AOL Introduces New Podcast Offerings"](http://www.timewarner.com/corp/newsroom/pr/0,20812,1104613,00.html) *[AOL](https://zh.wikipedia.org/wiki/AOL "wikilink")*; [Time Warner](https://zh.wikipedia.org/wiki/Time_Warner "wikilink"). Retrieved March 7, 2010.
-
 10.
 11. Hart-Davis, Guy (2007). ["How to do everything: iPod & iTunes"](http://books.google.com/books?id=ZO6h8bn1JcYC&pg=RA1-PA388&dq=Winamp&as_brr=3&ei=OaqKSviGMJXgNZW50IcM&client=opera#v=onepage&q=Winamp&f=false). McGraw-Hill. [Google books](https://zh.wikipedia.org/wiki/Google_Book_Search "wikilink"). Pp. 306-309. ISBN 978-0-07-226387-9. Retrieved March 7, 2010.
-
 12.
 13.
 14.
-
 15.
-
 16.
-
 17. As of June 2010,  lists over 920 plugins of all types.
-
 18.  (preview)
-
 19.
-
 20.  Out of print. Online: [O'Reilly Safari Books Online](http://my.safaribooksonline.com/1565926617?cid=orm-cat-readnow-1565926617&portal=oreilly) ($).
-
 21. As of June 2010,  lists over 1900 *Classic* skins and over 700 *Modern* skins.
-
 22.
-
 23.
-
 24. Hacker, p.78.
-
 25.
-
 26. Haring, Bruce (2000) ["Beyond the charts: MP3 and the digital music revolution"](http://books.google.com/books?id=Y7a1LYwpcAEC&pg=PA101&dq=Winamp+Justin+Frankel+1997&ei=JQRbS7aXGaCOlQSL3PDaBg&client=opera&cd=3#v=onepage&q=Winamp%20Justin%20Frankel%201997&f=false). JM Northern Media. ISBN 978-0-9674517-0-1. Retrieved March 7, 2010.
-
 27. License info from Winamp 1.006 Help menu.
-
 28.
-
 29. DEMO.MP3 15592 bytes, 32 kbit/s, 22 kHz, recorded in "1997" "Exclusively for Nullsoft" by JJ McKay. Voice only, no music stinger.
-
 30.
-
 31.
 32.
-
 33.
-
 34.
-
 35.
 36.
-
 37.
-
 38. Release date from
-
 39.
-
 40.
-
 41. ["Winamp Media Player Version History"](http://www.winamp.com/player/version-history) . Winamp.com, *Media player help.* Retrieved March 28, 2010.
-
 42.  AOL.com (press release). AllBusiness.com Retrieved 2010-06-23.
-
 43.
 44. ["Winamp 5.5 Changelog"](http://forums.winamp.com/showthread.php?threadid=278538)
-
 45. Beggs, Josh; Thede, Dylan (2001) ["Designing Web Audio"](http://books.google.com/books?id=EkCSeYHr134C&pg=PA189&dq=winamp+easter+eggs&hl=en&ei=qpGwS8zDC5KqtgOp8enPDQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CDwQ6AEwAA#v=onepage&q=winamp%20easter%20eggs&f=false). [O'Reilly Media](https://zh.wikipedia.org/wiki/O'Reilly_Media "wikilink"), p. 189. ISBN 978-1-56592-353-9
-
 46. Wolf, David; Wolf, Annette ["Application Easter Eggs - Winamp"](http://www.eeggs.com/tree/555.html) The Easter Egg Archive. Retrieved March 28, 2010.

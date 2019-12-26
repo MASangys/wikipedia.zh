@@ -1,4 +1,4 @@
-[Nano_SIM(China_Mobile_HK).jpg](https://zh.wikipedia.org/wiki/File:Nano_SIM\(China_Mobile_HK\).jpg "fig:Nano_SIM(China_Mobile_HK).jpg") [GSM_SIM_card_evolution.svg](https://zh.wikipedia.org/wiki/File:GSM_SIM_card_evolution.svg "fig:GSM_SIM_card_evolution.svg") **用户身份模块**（**S**ubscriber **I**dentity **M**odule，**SIM**），通常称为“**SIM卡**”，是主要用于存储用户身份识别数据、[簡訊](../Page/簡訊.md "wikilink")数据和电话号码的[智能卡](https://zh.wikipedia.org/wiki/智能卡 "wikilink")。
+TNT/_  [Nano_SIM(China_Mobile_HK).jpg](https://zh.wikipedia.org/wiki/File:Nano_SIM\(China_Mobile_HK\).jpg "fig:Nano_SIM(China_Mobile_HK).jpg") [GSM_SIM_card_evolution.svg](https://zh.wikipedia.org/wiki/File:GSM_SIM_card_evolution.svg "fig:GSM_SIM_card_evolution.svg") **用户身份模块**（**S**ubscriber **I**dentity **M**odule，**SIM**），通常称为“**SIM卡**”，是主要用于存储用户身份识别数据、[簡訊](../Page/簡訊.md "wikilink")数据和电话号码的[智能卡](https://zh.wikipedia.org/wiki/智能卡 "wikilink")。
 
 SIM卡主要用于[GSM](../Page/GSM.md "wikilink")网络和[TD-SCDMA网络](https://zh.wikipedia.org/wiki/TD-SCDMA "wikilink")，但是兼容的模块也可以用于[IDEN电话](https://zh.wikipedia.org/wiki/IDEN "wikilink")。有人把[CDMA2000](../Page/CDMA2000.md "wikilink")和[cdmaOne的](https://zh.wikipedia.org/wiki/cdmaOne "wikilink")[RUIM卡和](https://zh.wikipedia.org/wiki/RUIM卡 "wikilink")[UIM卡](https://zh.wikipedia.org/wiki/UIM卡 "wikilink")，也称作SIM卡，虽然两者作用类似，并遵守了一样的所有机械、电气标准和部分软件标准，但是上层应用并不一定兼容。
 
@@ -38,7 +38,7 @@ SIM已经被[GSM](../Page/GSM.md "wikilink")11.11标准规范化，用户可以�
 
 ## 漏洞与安全
 
-[RT频道报道](../Page/今日俄罗斯.md "wikilink")，[德国](../Page/德国.md "wikilink")密码破译专家研究发现，全球大约有7.5亿用户使用的SIM卡存在漏洞。专家已将这一发现通报给[国际电信联盟](../Page/国际电信联盟.md "wikilink")，该联盟也已着手通知相关厂商及时修补漏洞。\[2\]
+2013 年，[RT频道报道](../Page/今日俄罗斯.md "wikilink")，[德国](../Page/德国.md "wikilink")密码破译专家研究发现，全球大约有7.5亿用户使用的SIM卡存在漏洞。专家已将这一发现通报给[国际电信联盟](../Page/国际电信联盟.md "wikilink")，该联盟也已着手通知相关厂商及时修补漏洞。\[2\]
 
 SIM卡只支持单向鉴权，不支持双向鉴权。即网络对手机（SIM）进行合法性的认证，缺乏用户对网络的认证，这就给诸如“[伪基站](../Page/伪基站.md "wikilink")”这样的不法行为留了空子，其后果为犯罪分子任意冒用他人手机号码或任意号码强行向用户手机发送诈骗、推销等垃圾短信。将手机卡升级成[USIM卡就可以解决这一漏洞](https://zh.wikipedia.org/wiki/USIM "wikilink")。
 

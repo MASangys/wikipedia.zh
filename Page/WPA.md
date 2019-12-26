@@ -62,7 +62,7 @@ WPA2是經由Wi-Fi聯盟驗證過的[IEEE 802.11i標準的認證形式](https://
 
 ## 參考
 
-  - [WAPI](../Page/WAPI.md "wikilink") - 受到爭議的無線區域網路安全的中國國家標準
+  - [WAPI](../Page/WAPI.md "wikilink") - 無線區域網路安全的中國國家標準
   - [tinyPEAP](https://zh.wikipedia.org/wiki/tinyPEAP "wikilink") - 設計來載入無線取用點的少量記憶體RADIUS伺服器
 
 ## 參考資料
@@ -78,29 +78,23 @@ WPA2是經由Wi-Fi聯盟驗證過的[IEEE 802.11i標準的認證形式](https://
 
   - [Wi-Fi Alliance's Interoperability Certificate page](https://web.archive.org/web/20050828124348/http://www.wi-fi.org/opensection/certification-certificate.asp)
 
-  - [Network Configuration with WPA](http://www.wi-fiplanet.com/tutorials/article.php/3552826)
+  - [Network Configuration with WPA](https://web.archive.org/web/20070325023634/http://www.wi-fiplanet.com/tutorials/article.php/3552826)
 
   - [Apple Airport and Wi-Fi Network Security](http://theworld.com/~reinhold/airport.html)
 
   - [EAP types supported under WPA-Enterprise](https://web.archive.org/web/20050905003804/http://www.wi-fi.org/OpenSection/eap.asp)
 
-  - [Linux WPA/WPA2/IEEE 802.1X Supplicant](http://hostap.epitest.fi/wpa_supplicant/)
+  - [Linux WPA/WPA2/IEEE 802.1X Supplicant](https://web.archive.org/web/20070811132042/http://hostap.epitest.fi/wpa_supplicant/)
 
   - 's [Perfect Passwords: GRC's Ultra High Security Password Generator](https://www.grc.com/passwords/)
 
 [Category:加密协议](https://zh.wikipedia.org/wiki/Category:加密协议 "wikilink") [Category:无线网络](https://zh.wikipedia.org/wiki/Category:无线网络 "wikilink") [Category:网络访问](https://zh.wikipedia.org/wiki/Category:网络访问 "wikilink")
 
 1.
-
 2.  <https://www.krackattacks.com/>
-
 3.  [symantec.com](https://www.symantec.com/connect/blogs/kracks-what-you-need-know-about-new-wi-fi-encryption-vulnerabilities)
-
 4.   Wi-Fi Alliance|website=www.wi-fi.org|language=en|access-date=2018-01-09}}
-
 5.
-
 6.
-
 7.
 8.  [Wi-Fi Alliance® introduces Wi-Fi CERTIFIED WPA3™ security | Wi-Fi Alliance](https://www.wi-fi.org/news-events/newsroom/wi-fi-alliance-introduces-wi-fi-certified-wpa3-security)

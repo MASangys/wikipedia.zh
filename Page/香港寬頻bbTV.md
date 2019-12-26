@@ -457,7 +457,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2016年4月1日</p></td>
 <td style="text-align: center;"><p>319</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="../Page/Diva_(電視網).md" title="wikilink">DIVA</a></p></td>
 <td style="text-align: center;"><p>合約結束</p></td>
 </tr>
 <tr class="odd">

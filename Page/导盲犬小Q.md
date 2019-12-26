@@ -1,4 +1,4 @@
-《**再見了，可魯**》是[日本](../Page/日本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[石黑谦吾和](https://zh.wikipedia.org/wiki/石黑谦吾 "wikilink")[攝影師](https://zh.wikipedia.org/wiki/攝影師 "wikilink")[秋元良平根據真人實事所合著的](https://zh.wikipedia.org/wiki/秋元良平 "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。並改编為同名[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於2003年6月在[NHK播出](https://zh.wikipedia.org/wiki/NHK "wikilink")；同名[电影](../Page/电影.md "wikilink")于2004年3月13日在[日本](../Page/日本.md "wikilink")上映，并于2004年9月25日发行了DVD。2019年香港根據小說改編拍攝電影《[小Q](../Page/小Q.md "wikilink")》。
+《**再見了，可魯**》是日本[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")和[攝影師](https://zh.wikipedia.org/wiki/攝影師 "wikilink")[秋元良平根據真人實事所合著的](https://zh.wikipedia.org/wiki/秋元良平 "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。並改编為同名[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於2003年6月在[NHK播出](https://zh.wikipedia.org/wiki/NHK "wikilink")；同名[电影](../Page/电影.md "wikilink")于2004年3月13日在[日本](../Page/日本.md "wikilink")上映，并于2004年9月25日发行了DVD。2019年香港根據小說改編拍攝電影《[小Q](../Page/小Q.md "wikilink")》。
 
 ## 剧情介绍
 
@@ -20,32 +20,32 @@
 
 ## 電視劇版
 
-[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")的[月曜ドラマシリーズ](https://zh.wikipedia.org/wiki/月曜ドラマシリーズ "wikilink")，自2003年6月16日到7月28日全7話放送。講述[盲人與導盲犬之間的故事](https://zh.wikipedia.org/wiki/盲人 "wikilink")，另有[口述影像](../Page/口述影像.md "wikilink")供視障者欣賞此劇。
+[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")的，自2003年6月16日到7月28日全7話放送。講述[盲人與導盲犬之間的故事](https://zh.wikipedia.org/wiki/盲人 "wikilink")，另有[口述影像](../Page/口述影像.md "wikilink")供視障者欣賞此劇。
 
 ### 主要工作人員
 
-  - 劇本：[寺田敏雄](https://zh.wikipedia.org/wiki/寺田敏雄 "wikilink")
+  - 劇本：
   - 音樂：[渡辺雄一](https://zh.wikipedia.org/wiki/渡辺雄一 "wikilink")
   - 演出：岡崎栄・渡辺一貴・新田真三
   - 製作統括：諏訪部彰夫（NHKエンタープライズ21）・浅野加寿子（NHKドラマ番組部）
-  - 共同製作：[NHKエンタープライズ21](https://zh.wikipedia.org/wiki/NHKエンタープライズ21 "wikilink")
+  - 共同製作：
 
 ### 主要演員
 
   - 仁井三都子：[沢口靖子](https://zh.wikipedia.org/wiki/沢口靖子 "wikilink")
   - 仁井勇：[勝村政信](../Page/勝村政信.md "wikilink")
-  - 水戸レン：[檀ふみ](https://zh.wikipedia.org/wiki/檀ふみ "wikilink")
-  - 多和田悟：[うじきつよし](https://zh.wikipedia.org/wiki/うじきつよし "wikilink")
+  - 水戸レン：
+  - 多和田悟：
   - 渡辺満：[玉置浩二](../Page/玉置浩二.md "wikilink")
-  - 渡辺祺子：[竹井みどり](https://zh.wikipedia.org/wiki/竹井みどり "wikilink")
-  - 沢木良彦：[大高洋夫](https://zh.wikipedia.org/wiki/大高洋夫 "wikilink")
+  - 渡辺祺子：
+  - 沢木良彦：
   - 沢木正恵：菜木のり子
   - 宮田政晴：[勝地涼](../Page/勝地涼.md "wikilink")
-  - 渡辺の娘：[邑野未亜](https://zh.wikipedia.org/wiki/邑野みあ "wikilink")
-  - 渡辺悦男：[松田祥一](https://zh.wikipedia.org/wiki/松田祥一 "wikilink")
-  - 沢木亜弓：[近内里緒](https://zh.wikipedia.org/wiki/近内里緒 "wikilink")→[木内晶子](https://zh.wikipedia.org/wiki/木内晶子 "wikilink")
-  - 藤原卓郎：[尾崎右宗](https://zh.wikipedia.org/wiki/尾崎右宗 "wikilink")
-  - 長谷川：[益岡徹](https://zh.wikipedia.org/wiki/益岡徹 "wikilink")
+  - 渡辺の娘：
+  - 渡辺悦男：
+  - 沢木亜弓：→
+  - 藤原卓郎：
+  - 長谷川：
 
 ### 副標題
 
@@ -62,9 +62,9 @@
 ### 主要工作人員
 
   - 導演：[崔洋一](https://zh.wikipedia.org/wiki/崔洋一 "wikilink")
-  - 劇本：[丸山昇一](https://zh.wikipedia.org/wiki/丸山昇一 "wikilink")、[中村義洋](../Page/中村義洋.md "wikilink")
-  - 音樂：[栗コーダーカルテット](https://zh.wikipedia.org/wiki/栗コーダーカルテット "wikilink")
-  - 製作：[松竹](../Page/松竹.md "wikilink")、[東京電視台](../Page/東京電視台.md "wikilink")、[大阪電視台](../Page/大阪電視台.md "wikilink")、[衛星劇場](https://zh.wikipedia.org/wiki/衛星劇場_\(企業\) "wikilink")、[日本出版販売](https://zh.wikipedia.org/wiki/日本出版販売 "wikilink")
+  - 劇本：[:ja:丸山昇一](https://zh.wikipedia.org/wiki/:ja:丸山昇一 "wikilink")、[中村義洋](../Page/中村義洋.md "wikilink")
+  - 音樂：[:ja:栗コーダーカルテット](https://zh.wikipedia.org/wiki/:ja:栗コーダーカルテット "wikilink")
+  - 製作：[松竹](../Page/松竹.md "wikilink")、[東京電視台](../Page/東京電視台.md "wikilink")、[大阪電視台](../Page/大阪電視台.md "wikilink")、[衛星劇場](https://zh.wikipedia.org/wiki/:ja:衛星劇場_\(企業\) "wikilink")、[:ja:日本出版販売](https://zh.wikipedia.org/wiki/:ja:日本出版販売 "wikilink")
 
 ### 主要演員
 
@@ -76,18 +76,18 @@
   - 久保マスミ：[黑谷友香](../Page/黑谷友香.md "wikilink")
   - 渡邊美津子：[櫻谷由貴花](https://zh.wikipedia.org/wiki/櫻谷由貴花 "wikilink")
   - 渡邊悅男：[松田和](https://zh.wikipedia.org/wiki/松田和 "wikilink")
-  - 水戸レン：[名取裕子](https://zh.wikipedia.org/wiki/名取裕子 "wikilink")
-  - 戸塚裕史：[石田太郎](https://zh.wikipedia.org/wiki/石田太郎 "wikilink")
-  - 酒井雄一：[水橋研二](https://zh.wikipedia.org/wiki/水橋研二 "wikilink")
+  - 水戸レン：
+  - 戸塚裕史：
+  - 酒井雄一：
   - 蒲田洋子：[坂上智恵](https://zh.wikipedia.org/wiki/坂上智恵 "wikilink")
-  - 矢口京子：[谷川清美](https://zh.wikipedia.org/wiki/谷川清美 "wikilink")
-  - 高橋光夫：[吉田康平](https://zh.wikipedia.org/wiki/吉田康平 "wikilink")
+  - 矢口京子：
+  - 高橋光夫：
   - 水戸乾二：[寺井健人](https://zh.wikipedia.org/wiki/寺井健人 "wikilink")
   - 塚本徹：[落合充](https://zh.wikipedia.org/wiki/落合充 "wikilink")
   - 片岡智則：[野村克也](https://zh.wikipedia.org/wiki/野村克也 "wikilink")
   - 川本：[小市慢太郎](../Page/小市慢太郎.md "wikilink")
   - 吉永：[宇宙亭くいだおれ](https://zh.wikipedia.org/wiki/宇宙亭くいだおれ "wikilink")
-  - 石橋：[佐藤貢三](https://zh.wikipedia.org/wiki/佐藤貢三 "wikilink")
+  - 石橋：
   - 金子：[日出行雄](https://zh.wikipedia.org/wiki/日出行雄 "wikilink")
   - 高野：[中川智弘](https://zh.wikipedia.org/wiki/中川智弘 "wikilink")
   - 平田：[山崎清秀](https://zh.wikipedia.org/wiki/山崎清秀 "wikilink")

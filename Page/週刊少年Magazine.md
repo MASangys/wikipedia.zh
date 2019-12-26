@@ -131,14 +131,6 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td><p>千田大輔</p></td>
-<td><p>－</p></td>
-<td><p>2017年41號</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/化物語.md" title="wikilink">化物語</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大暮維人" title="wikilink">大暮維人</a></p></td>
@@ -146,7 +138,7 @@
 <td><p>2018年15號</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -154,7 +146,7 @@
 <td><p>2018年19號</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Orient" title="wikilink">Orient</a></p></td>
 <td></td>
 <td><p><a href="../Page/大高忍.md" title="wikilink">大高忍</a></p></td>
@@ -162,7 +154,7 @@
 <td><p>2018年26號</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p><a href="../Page/瀨尾公治.md" title="wikilink">瀨尾公治</a></p></td>
@@ -170,7 +162,7 @@
 <td><p>2018年29號</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/EDENS_ZERO.md" title="wikilink">EDENS ZERO</a></p></td>
 <td></td>
 <td><p><a href="../Page/真島浩.md" title="wikilink">真島浩</a></p></td>
@@ -178,7 +170,7 @@
 <td><p>2018年30號</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/BLUE_LOCK" title="wikilink">BLUE LOCK</a></p></td>
 <td></td>
 <td></td>
@@ -186,20 +178,12 @@
 <td><p>2018年35號</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/就算這樣，“步”還是靠了過來" title="wikilink">就算這樣，“步”還是靠了過來</a></p></td>
 <td></td>
 <td><p><a href="../Page/山本崇一朗.md" title="wikilink">山本崇一朗</a></p></td>
 <td><p>－</p></td>
 <td><p>2019年14號</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/不要死啊！明日川" title="wikilink">不要死啊！明日川</a></p></td>
-<td></td>
-<td><p>高畑弓</p></td>
-<td><p>－</p></td>
-<td><p>2019年19號</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -224,6 +208,14 @@
 <td></td>
 <td><p>－</p></td>
 <td><p>2019年39號</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/HERO&#39;S" title="wikilink">HERO'S</a></p></td>
+<td></td>
+<td><p><a href="../Page/真島浩.md" title="wikilink">真島浩</a></p></td>
+<td><p>－</p></td>
+<td><p>2019年46號</p></td>
 <td></td>
 </tr>
 </tbody>

@@ -83,41 +83,24 @@
 [Category:图像软件](https://zh.wikipedia.org/wiki/Category:图像软件 "wikilink") [Category:矢量图形编辑器](https://zh.wikipedia.org/wiki/Category:矢量图形编辑器 "wikilink") [Category:字体编辑软件](https://zh.wikipedia.org/wiki/Category:字体编辑软件 "wikilink")
 
 1.  "[A Short History of CorelDraw](http://www.corel.com/corel/pages/index.jsp?pgid=2100019)", at corel.com, retrieved 11 Jan 2011. ([PDF version](http://www.corel.com/img/content/products/cgsx4/anniversary/history/CorelDRAW_History_highlights_EN.pdf))
-
 2.  Gerard Metrailler, "[A little history of CorelDraw Graphics Suite](http://coreldraw.com/blogs/gerard/archive/2007/10/26/a-little-history-of-coreldraw-graphics-suite.aspx)", Fri, Oct 26 2007 at coreldraw.com/blogs/
-
 3.
 4.
 5.
 6.
 7.  "[Corel Announces 'CorelDraw 3.0'](http://www.highbeam.com/doc/1G1-12141266.html)", May 15, 1992 /PRNewswire/ via www.highbeam.com
-
 8.  "[CorelDraw 3 will remain on market as low-price option](http://books.google.co.uk/books?id=HjwEAAAAMBAJ&lpg=PA8&dq=%22coreldraw%203%22&pg=PA8#v=onepage&q=%22coreldraw%203%22&f=false)", InfoWorld, April 19, 1993. (Anticipated date)
-
 9.  "[Testers praise CorelDraw 5](http://books.google.co.uk/books?id=FjsEAAAAMBAJ&lpg=PA21&dq=%22coreldraw%205%22&pg=PA21#v=onepage&q=%22coreldraw%205%22&f=false)", InfoWorld, April 18, 1995.
-
 10. "[Corel Corporation Begins Shipping CorelDraw 6 Suite for Windows 95](https://web.archive.org/web/19990222010024/http://www.corel.com/news/1995/august/draw6pr.htm)", August 24, 1995, at corel.com via archive.org
-
 11. "[Corel Corporation Announces the Launch of CorelDraw 7](https://web.archive.org/web/19990417232549/http://www.corel.com/news/1996/october/draw7.htm)", October 8, 1996, at corel.com via archive.org
-
 12. "[Corel Corporation Launches CorelDraw 8](https://web.archive.org/web/19990129051200/http://www.corel.com/news/1997/october/draw8.htm)", October 27, 1997, at corel.com via archive.org
-
 13. "[Corel Launches CorelDraw 9 Premium Color Edition](https://web.archive.org/web/19991012192901/http://corel.com/news/1999/august/august_31_1999.htm)", August 31, 1999, at corel.com via archive.org
-
 14. "[CorelDraw 10 Graphics Suite Available Now](https://archive.is/20120530050143/findarticles.com/p/articles/mi_m0EIN/is_2000_Nov_13/ai_66870725/)", Nov. 13, 2000, Corel Press Release via findarticles.com
-
 15. "[CorelDraw Graphics Suite 11 Now Available](https://web.archive.org/web/20020811033451/http://www3.corel.com/cgi-bin/gx.cgi/AppLogic%2BFTContentServer?pagename=Corel%2FPressRelease%2FDetails&id=ZZZZ8DJU88H)", Aug 1, 2002, at corel.com via archive.org
-
 16. "[CorelDraw Graphics Suite 12 Marks a New Era of Intelligent Graphics Software](https://web.archive.org/web/20050306121213/http://www.corel.com/servlet/Satellite?pagename=Corel%2FCompany%2FPressRoom%2FPressRelease&id=1044393442588&prid=1047022861547)", Corel press release, via Archive.org
-
 17. "[Corel Introduces CorelDraw Graphics Suite X3](http://mc.corel.com/servlet/Satellite?c=Content_C1&cid=1153321220497&lc=en&pagename=CorelCom%2FLayout)", Jan 17-06, at corel.com. [Full text](http://hexus.net/tech/press-releases/software/4423-corel-introduces-coreldraw-graphics-suite-x3/) at hexus.net
-
 18. "[CorelDraw Graphics Suite X4 Unveiled Today](http://coreldraw.com/blogs/press/archive/2008/01/22/coreldraw-174-graphics-suite-x4-unveiled-today.aspx)", January 22, 2008, at Corel.com
-
 19. "[CorelDraw Graphics Suite X5 Delivers More Versatility, Content and Color Tools for Graphics Professionals](http://coreldraw.com/blogs/press/archive/2010/02/23/coreldraw-174-graphics-suite-x5-delivers-more-versatility-content-and-color-tools-for-graphics-professionals.aspx)", February 23, 2010 at corel.com
-
 20. "[Corel Releases CorelDraw Graphics Suite X6](http://www.corel.com/content/vpk/cdgsx6/120307_cdgsx6_uk.pdf)", March 20, 2012 corel.com
-
 21. "[CorelDRAW Graphics X7 Press release](http://www.corel.com/static/pdfs/news_releases/CDGSX7_Press_Release_NA.pdf)", March 27, 2014, corel.com
-
 22. "[CorelDRAW Graphics X8 Press release](http://www.corel.com/static/corel/pdfs/news_releases/CDGSX8-News-Release-15-3-16.pdf)", March 15, 2016, corel.com

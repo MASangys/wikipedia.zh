@@ -34,12 +34,8 @@ WMA 7之后的WMA支持证书加密，未经许可（即未获得许可证书）
 [Category:數位音訊](https://zh.wikipedia.org/wiki/Category:數位音訊 "wikilink") [Category:音頻格式](https://zh.wikipedia.org/wiki/Category:音頻格式 "wikilink") [Category:音频编解码器](https://zh.wikipedia.org/wiki/Category:音频编解码器 "wikilink") [Category:Windows多媒体](https://zh.wikipedia.org/wiki/Category:Windows多媒体 "wikilink") [Category:有損壓縮演算法](https://zh.wikipedia.org/wiki/Category:有損壓縮演算法 "wikilink") [Category:無損壓縮演算法](https://zh.wikipedia.org/wiki/Category:無損壓縮演算法 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.  [Audio 8 及 Video 8](http://www.microsoft.com/windows/windowsmedia/tw/format/audvid8.aspx)
-
 6.

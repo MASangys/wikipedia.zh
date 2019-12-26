@@ -44,9 +44,11 @@ GAINAX亦制作[电脑游戏](../Page/电脑游戏.md "wikilink")。1989年发�
 
 2011年，GAINAX總部由[小金井市](../Page/小金井市.md "wikilink")轉移至[三鷹市](../Page/三鷹市.md "wikilink")下連雀。同年8月，GAINAX再一次出現較大規模的成員離開，曾主力創作《[天元突破 紅蓮螺巖](../Page/天元突破_紅蓮螺巖.md "wikilink")》的[今石洋之](../Page/今石洋之.md "wikilink")和[大塚雅彦](../Page/大塚雅彦.md "wikilink")等人宣佈獨立，創立[TRIGGER](../Page/TRIGGER.md "wikilink")。以及部分人员如：[吉成曜](../Page/吉成曜.md "wikilink")、芳垣裕介、[石崎寿夫等移籍TRIGGER](https://zh.wikipedia.org/wiki/石崎寿夫 "wikilink")；村田康人、井関修一移籍khara；同時期退社的还有：[錦織敦史](../Page/錦織敦史.md "wikilink")、山口智、上村泰、[貞方希久子](../Page/貞方希久子.md "wikilink")等。
 
-### 之后的发展
+### 經營困難
 
-2015年，推出《[放學後的昴星團](../Page/放學後的昴星團.md "wikilink")》。
+2015年，於推出多年企劃轉化而成的完整電視動畫《[放學後的昴星團](../Page/放學後的昴星團.md "wikilink")》後，雖則期間傳出多項原創企劃，亦在日本不同城市開設了工作室，但最終都沒有新作品成形和正式對外發佈，甚至有一定舊作的新作改篇權被賣到其他公司，如《FLCL》被賣予Production I.G。
+
+2016年，khara起訴公司在洽談使用《新世紀福音戰士》版權時借用1億日圓而沒有按時歸還。此案揭露了GAINAX受到收入所限和負債擴大困擾，而專屬動畫師團隊亦幾乎全數解散。於2018年，原本接下的《[琴之森](https://zh.wikipedia.org/wiki/琴之森 "wikilink")》亦因資金和管理問題，要由及後被賣至其他控股公司的子公司GAINA工作室代勞。普遍認為導致GAINAX發展缺乏方向的元凶，為後期側重作品概念多於公司實質運作的主席[山賀博之](https://zh.wikipedia.org/wiki/山賀博之 "wikilink")。
 
 ## 作品
 
@@ -159,7 +161,5 @@ GAINAX亦制作[电脑游戏](../Page/电脑游戏.md "wikilink")。1989年发�
 [Category:1984年成立的公司](https://zh.wikipedia.org/wiki/Category:1984年成立的公司 "wikilink") [Category:GAINAX](https://zh.wikipedia.org/wiki/Category:GAINAX "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink") [Category:三鷹市公司](https://zh.wikipedia.org/wiki/Category:三鷹市公司 "wikilink")
 
 1.
-
 2.
-
 3.

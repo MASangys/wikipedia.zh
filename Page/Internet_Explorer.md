@@ -1096,94 +1096,52 @@ Internet Explorer對一些標準化技術都有一定程度上的支援，但亦
 [Category:网页浏览器](https://zh.wikipedia.org/wiki/Category:网页浏览器 "wikilink") [Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink") [Category:1995年軟體](https://zh.wikipedia.org/wiki/Category:1995年軟體 "wikilink") [Category:網際網路的歷史](https://zh.wikipedia.org/wiki/Category:網際網路的歷史 "wikilink") [Category:專有軟體](https://zh.wikipedia.org/wiki/Category:專有軟體 "wikilink") [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
 
 1.  [Deadlink](http://almanac.epsilonnetworking.com/post/ZTIEe887aae58fa4e4bba5e69da5e5b0b1e698afwindowse4b88de58fafe58886e589b2e79a84e4b880e983a8e58886e38082.aspx)
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  "In E.U. Deal, Microsoft Allows Rival Browsers". Time. 2009-12-17. Retrieved 2010-05-05.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
 14.
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29. "SVG Support Tables". codedread.com.
-
 30. Internet Explorer 9 Network Performance Improvements
-
 31. 见[小XSLT度量](http://annevankesteren.nl/2004/07/ie-xhtml)Anne’s Weblog\] for a sample of the minimal [transformation](http://annevankesteren.nl/test/examples/xhtml/ie/xhtml.xml) required.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
 37.
 38.
 39.
 40.
-
 41. Michael Muchmore, Lead Software Analyst
-
 42.
-
 43.
-
 44.
-
 45. [1,169 results for "Internet Explorer"](http://download.cnet.com/Internet-Explorer/3000-2356_4-10497433.html)
-
 46.
-
 47. [IE盒模型缺陷](../Page/IE盒模型缺陷.md "wikilink")
-
 48.
-
 49.
-
 50.

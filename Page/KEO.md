@@ -44,7 +44,5 @@ KEO衛星是一個直徑為80公分的中空球體，球體表面刻劃了世界
 [Category:時間囊](https://zh.wikipedia.org/wiki/Category:時間囊 "wikilink") [Category:航天器](https://zh.wikipedia.org/wiki/Category:航天器 "wikilink")
 
 1.  [Current launch date estimation](http://www.keo.org/Alerte.html)
-
 2.  [Official FAQ page](http://www.keo.org/uk/pages/faq.html#q1)
-
 3.

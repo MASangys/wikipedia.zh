@@ -26,7 +26,7 @@ Duga是最初的实验性系统\[2\]\[3\]，位于[乌克兰](../Page/乌克兰.
 
 ## 文化
 
-乌克兰游戏《[潜行者系列](https://zh.wikipedia.org/wiki/潜行者系列 "wikilink")》有情节与[切尔诺贝利核电站](../Page/切尔诺贝利核电站.md "wikilink")以及那里的[核事故有关](../Page/切尔诺贝利核事故.md "wikilink")。游戏着重刻画了包括Duga-1雷达在内的这一区域。雷达出现在游戏《[潜行者：晴空](https://zh.wikipedia.org/wiki/潜行者：晴空 "wikilink")》虚构的城市Limansk-13中。同时《[潜行者：切尔诺贝利的阴影](https://zh.wikipedia.org/wiki/潜行者：切尔诺贝利的阴影 "wikilink")》中的“焦脑器”是受Duga-1是精神控制器而非雷达这一阴谋论启发。
+乌克兰游戏《[潜行者系列](https://zh.wikipedia.org/wiki/潜行者系列 "wikilink")》有情节与[切尔诺贝利核电站](../Page/切尔诺贝利核电站.md "wikilink")以及那里的[核事故有关](../Page/切尔诺贝利核事故.md "wikilink")。游戏着重刻画了包括Duga-1雷达在内的这一区域。雷达出现在游戏《[潜行者：晴空](https://zh.wikipedia.org/wiki/潜行者：晴空 "wikilink")》虚构的城市Limansk-13中。同时《[潜行者：切尔诺贝利的阴影](https://zh.wikipedia.org/wiki/潜行者：切尔诺贝利的阴影 "wikilink")》中的“焦脑器”是受Duga-1是精神控制器而非雷达这一阴谋论启发。此外，美國《[分歧者](../Page/分歧者系列電影.md "wikilink")》系列電影中，矗立在未來[芝加哥](../Page/芝加哥.md "wikilink")邊界的高牆也是以Duga雷達為原型，部分鏡頭甚至就是直接在當地拍攝的。而在电子游戏《绝地求生》中的游戏地图“艾伦格”中，也有类似的建筑物。
 
 ## 参考文献
 

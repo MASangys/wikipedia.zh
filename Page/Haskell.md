@@ -379,34 +379,20 @@ f g = \x -> g x + 5
 [Category:静态类型编程语言](https://zh.wikipedia.org/wiki/Category:静态类型编程语言 "wikilink") [Category:函数式编程语言](https://zh.wikipedia.org/wiki/Category:函数式编程语言 "wikilink")
 
 1.
-
 2.  Haskell Report
-
 3.
-
 4.
-
 5.  , with 2 sections by William Craig, see paragraph 9E
-
 6.   Reprinted in revised form, with two pages commentary, in:
-
 7.  .
-
 8.
-
 9.
-
 10.
 11.
 12.
-
 13.
-
 14.
 15.
-
 16.
-
 17. [Computer Language Benchmarks Game](http://shootout.alioth.debian.org/)
-
 18.

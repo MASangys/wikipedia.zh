@@ -1,4 +1,4 @@
-，是一个[总部位于](https://zh.wikipedia.org/wiki/总部 "wikilink")[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[圣荷西市的](https://zh.wikipedia.org/wiki/圣荷西 "wikilink")[因特网](https://zh.wikipedia.org/wiki/因特网 "wikilink")[第三方支付](../Page/第三方支付.md "wikilink")服务商，允许在使用[电子邮件](../Page/电子邮件.md "wikilink")来标识身份的用户之间[转移资金](https://zh.wikipedia.org/wiki/转移资金 "wikilink")，避免了传统的[邮寄](https://zh.wikipedia.org/wiki/邮寄 "wikilink")[支票](../Page/支票.md "wikilink")或者[汇款的方法](https://zh.wikipedia.org/wiki/汇款 "wikilink")。也和一些[电子商务](../Page/电子商务.md "wikilink")[网站合作](https://zh.wikipedia.org/wiki/网站 "wikilink")，成为它们的付款方式之一；但是用这种付款方式[转账时](https://zh.wikipedia.org/wiki/转账 "wikilink")，收取数额比例相当高昂的[手续费](https://zh.wikipedia.org/wiki/手续费 "wikilink")。
+，是一个[总部位于](https://zh.wikipedia.org/wiki/总部 "wikilink")[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[圣荷西市的](../Page/聖荷西_\(加利福尼亞州\).md "wikilink")[因特网](https://zh.wikipedia.org/wiki/因特网 "wikilink")[第三方支付](../Page/第三方支付.md "wikilink")服务商，允许在使用[电子邮件](../Page/电子邮件.md "wikilink")来标识身份的用户之间[转移资金](https://zh.wikipedia.org/wiki/转移资金 "wikilink")，避免了传统的[邮寄](https://zh.wikipedia.org/wiki/邮寄 "wikilink")[支票](../Page/支票.md "wikilink")或者[汇款的方法](https://zh.wikipedia.org/wiki/汇款 "wikilink")。也和一些[电子商务](../Page/电子商务.md "wikilink")[网站合作](https://zh.wikipedia.org/wiki/网站 "wikilink")，成为它们的付款方式之一；但是用这种付款方式[转账时](https://zh.wikipedia.org/wiki/转账 "wikilink")，收取数额比例相当高昂的[手续费](https://zh.wikipedia.org/wiki/手续费 "wikilink")。
 
 ## 發展
 
@@ -33,6 +33,8 @@ PayPal在1998年12月由、[马克斯·列夫琴](../Page/马克斯·列夫琴.m
 2018年6月25日PayPal斥資1.2億美元收購反詐騙風險管理平台Simility，將以此加強自己的相關安全功能。
 
 2019年9月30日PayPal透過子公司美銀寶信息技術（上海）有限公司，收購海航集團旗下第三方支付公司國付寶信息科技有限公司70%的股權，成為國付寶實際控制人並進入中國支付服務市場，Paypal也為首家進入大陸市場的外資支付機構。
+
+2019年11月22日PayPal以40億美玩現金收購購物優惠券平台Honey的母公司Honey Science。
 
 ## 特点
 
@@ -73,7 +75,7 @@ PayPal与eBay的相关手续费高昂，例如收款一般为4.4%+0.3美元，�
 
 ## 卡特里娜風災募款爭議
 
-2005年9月，佛罗里达州检察官总署關閉了一個透過PayPal籌募[卡特里娜颶風賑災經費的網站](https://zh.wikipedia.org/wiki/颶風卡特里娜 "wikilink")，指該網站違例募捐。\[2\]
+2005年9月，佛罗里达州检察官总署關閉了一個透過PayPal籌募[卡特里娜颶風賑災經費的網站](../Page/2005年颶風卡特里娜.md "wikilink")，指該網站違例募捐。\[2\]
 
 另外，PayPal也把Something Awful網站站長Richard Kyanka的帳戶凍結\[3\]，他的帳戶用作為[紅十字會籌募卡特里娜颶風賑災經費](https://zh.wikipedia.org/wiki/紅十字會 "wikilink")，在9小時內籌得30,000美元後，PayPal便把他的帳戶凍結，而解凍條件是要提交「物品付運證明」。Kyanka沒有透過該帳戶銷售物品，並向PayPal表示該筆錢是捐助紅十字會，PayPal回應說不能這樣做，但可以提交予另一慈善團體，最初Kyanka答允傳錢予United Way，但後來他發現United Way面對的法律問題後，便要求PayPal退回款項。
 
@@ -84,16 +86,16 @@ PayPal与eBay的相关手续费高昂，例如收款一般为4.4%+0.3美元，�
 从PayPal提现到中國大陸有四种途径：
 
   - 提现到中國大陸的银行，是比较实用的方式。目前中國大陸有13家银行可支持PayPal提现，PayPal固定收取35美元，提現失败的退还费用是15美元。由于电汇方式費用固定（35美元，等於在香港银行兌換1400美元所收取的2.5%的兑换费），故超过1400美元以电汇提现費率更低。中國大陸的银行有50000美元/年的限额，香港银行没有限制。
-  - 通过香港银行提现，美元兑成港元收2.5%兑换费，1000港元或以上免费，1000港元以下收3.5港元。提现失败的退还费是20港元。通过香港银行提现是比较方便廉价快捷的方式，网上流行的招行两地一卡通已经于2012年停止办理，并且分拆为中国招行卡与香港招行卡两张卡。除了招行之外，[中国银行](../Page/中国银行.md "wikilink")、[工商银行](https://zh.wikipedia.org/wiki/工商银行 "wikilink")、[交通银行](https://zh.wikipedia.org/wiki/交通银行 "wikilink")、[建设银行都允许内地人在内地申请香港户](https://zh.wikipedia.org/wiki/建设银行 "wikilink")，也可亲自到香港开户2天左右。不过香港账户普遍要收年费，活期10万元以上免费，不足则收取约60港元，另外还要算上港元兑人民币的汇率。当然直接使用港元比较划算，适合经常去香港消费的人士。
+  - 通过香港银行提现，美元兑成港元收2.5%兑换费，1000港元或以上免费，1000港元以下收3.5港元。提现失败的退还费是20港元。通过香港银行提现是比较方便廉价快捷的方式，网上流行的招行两地一卡通已经于2012年停止办理，并且分拆为中国招行卡与香港招行卡两张卡。除了招行之外，[中国银行](../Page/中国银行.md "wikilink")、[工商银行](../Page/中国工商银行.md "wikilink")、[交通银行](https://zh.wikipedia.org/wiki/交通银行 "wikilink")、[建设银行都允许内地人在内地申请香港户](https://zh.wikipedia.org/wiki/建设银行 "wikilink")，也可亲自到香港开户2天左右。不过香港账户普遍要收年费，活期10万元以上免费，不足则收取约60港元，另外还要算上港元兑人民币的汇率。当然直接使用港元比较划算，适合经常去香港消费的人士。
   - 提现到美国的本地银行，但是需要亲自到美国开户，并要提供美国居住证明、社保号、驾驶证等证明，非美国人很难开户。
       - 此外，还可以从PayPal免费提现到[Payoneer虚拟美国账号和Payoneer](https://zh.wikipedia.org/wiki/Payoneer "wikilink")[万事达预付卡](https://zh.wikipedia.org/wiki/万事达 "wikilink")。一般2天内都能到账，到时可以拿Payoneer卡在中國大陸的银行ATM取出人民币。但需要注意的是，以上只是说paypal提现免费，payoneer補發新卡$12.95，年费$29.95，目前Payoneer已不收取入账费，提现到银行的话收1.2%的手续费。\[4\]\[5\]ATM提款或销售点/银行柜台现金支出每次收$3.15，加上汇率转换3.5%。提现费用实际上比电汇更加高昂\[6\]
   - 申请支票，如果经中介行要托收将增加提现成本，存在寄失的风险，不比电汇便宜。
 
 ## PayPal台灣
 
-2015 年9月9日 PayPal網站宣布停止台灣內帳戶間收付款交易，只提供跨國交易。
+2015年9月9日 PayPal網站宣布停止台灣內帳戶間收付款交易，只提供跨國交易。
 
-2017年3月起PayPal陸續關閉台灣帳號之台灣內收付交易功能，預計在 5 月 9 日全數完成關閉。 [3](https://www.bnext.com.tw/article/37337/BN-2015-09-09-191509-143)
+2017年3月起PayPal陸續關閉台灣帳號之台灣內收付交易功能，預計在5月9日全數完成關閉。 [3](https://www.bnext.com.tw/article/37337/BN-2015-09-09-191509-143)
 
 ## 参考文献
 

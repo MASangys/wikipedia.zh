@@ -3290,33 +3290,21 @@ SMAP正式出道之后，滑板男孩剩下的成员组成“”继续活动，�
 1.
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
 11.
-
 12.
-
 13.
-
 14.
 15.
-
 16.
-
 17.
 18.
-
 19.
 20.
 21.
@@ -3327,87 +3315,57 @@ SMAP正式出道之后，滑板男孩剩下的成员组成“”继续活动，�
 26.
 27.
 28. 卒業時22歳で、[オートレースの養成学校に入れるのは](https://zh.wikipedia.org/wiki/オートレース "wikilink")23歳が上限であるため
-
 29.
 30.
 31.
-
 32.
 33.
 34.
-
 35.
 36.
 37.
 38.
 39.
 40.
-
 41.
 42.
-
 43.
 44.
-
 45.
 46.
-
 47.
-
 48.
 49.
 50. [SMAP分裂危機\!“育ての親”退社に4人同調、キムタクは残留](http://www.sponichi.co.jp/entertainment/news/2016/01/13/kiji/K20160113011849710.html)（Sponichi Annex/[體育日本](https://zh.wikipedia.org/wiki/體育日本 "wikilink") 2016年1月13日付）
-
 51. [SMAP解散へ\!木村拓哉以外ジャニーズから独立](http://www.nikkansports.com/entertainment/news/1591422.html)（[日刊體育](../Page/日刊體育.md "wikilink") 2016年1月13日付）
-
 52. [SMAP存続へ 解散騒動を謝罪 生番組に5人出演](http://mainichi.jp/articles/20160119/k00/00m/040/110000c)（[毎日新聞](https://zh.wikipedia.org/wiki/毎日新聞 "wikilink") 2016年1月18日付）
-
 53. [SMAP存続\!キムタク直訴電から「空中分解」回避…スマスマで謝罪](http://www.sponichi.co.jp/entertainment/news/2016/01/19/kiji/K20160119011882940.html)（Sponichi Annex/體育日本 2016年1月19日付）
-
 54.
-
 55.
 56.
-
 57.
-
 58.
-
 59.
 60.
-
 61.
 62.
 63.
 64. 「[2/2 主演俳優を出していると主題歌も](http://allabout.co.jp/gm/gc/312876/2/)」[All About](https://zh.wikipedia.org/wiki/All_About "wikilink") 2014年7月14日閲覧。
-
 65.
 66.
 67.
 68.
-
 69.
 70. 「[SMAP新曲が29作目首位　草なぎドラマ主題歌＆キティ40周年曲](http://www.oricon.co.jp/news/2032293/full/)」オリコン、2013年12月24日
-
 71. 「[SMAP42作トップ10、史上初の主要4部門制覇](http://www.oricon.co.jp/news/rankmusic/52737/full/)」オリコン、2008年3月11日
-
 72.
-
 73.
 74. [SMAP紅白辞退！正式断り、生出演もなく解散へ](http://www.nikkansports.com/entertainment/news/1755407.html) 日刊スポーツ,2016年12月23日
-
 75.
-
 76.
-
 77. 统计至2014年。
-
 78.
-
 79. 因出演日本电视网《[歌番](../Page/歌番.md "wikilink")》而放弃演出。
-
 80. 因无新曲发表而辞演。
-
 81.
-
 82.

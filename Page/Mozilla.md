@@ -34,7 +34,7 @@ Mozilla社群也指一个非嚴密組織。其成员使用、開發、推廣並�
   -
   - [Mozilla宣言](https://www.mozilla.org/en-US/about/manifesto/)
 
-  - [Mozilla Wiki](https://wiki.mozilla.org/)（[Mozilla社群的重要里程碑\[英文](https://zh.wikipedia.org/wiki/mozillawiki:Timeline "wikilink")\]）
+  - [Mozilla Wiki](https://web.archive.org/web/20100721213731/https://wiki.mozilla.org/)（[Mozilla社群的重要里程碑\[英文](https://zh.wikipedia.org/wiki/mozillawiki:Timeline "wikilink")\]）
 
   - \[//hg.mozilla.org/ Mozilla Mercurial Repository\]
 

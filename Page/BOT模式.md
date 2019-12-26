@@ -274,32 +274,19 @@
 [Category:公共经济学](https://zh.wikipedia.org/wiki/Category:公共经济学 "wikilink") [Category:公共行政](https://zh.wikipedia.org/wiki/Category:公共行政 "wikilink") [Category:基础设施投资](https://zh.wikipedia.org/wiki/Category:基础设施投资 "wikilink")
 
 1.  [關於台北101（TAIPEP 101）](http://www.taipei-101.com.tw/ch/Corp/company/abouttaipei101.asp)
-
 2.  [台北101 今上最後一根樑（大紀元，2003年7月1日）](http://www.epochtimes.com/b5/3/7/1/n336230.htm)
-
 3.  [雲林縣投資環境](http://investtaiwan.org/showInvestInfoPage?lang=cht&IIFCity=9)
-
 4.  [香港法例第215章東區海底隧道條例第215章第4、5、64(1)條](http://www.legislation.gov.hk/blis_pdf.nsf/6799165D2FEE3FA94825755E0033E532/392FB2F5036DE86D482575EE004DD81F?OpenDocument&bt=0)
-
 5.
-
 6.
 7.  第一期由[新世界發展](../Page/新世界發展.md "wikilink")自行出資興建，特許期由1988年起計40年；新翼擴建由政府支付新世界發展興建，特許期由1997年起計20年；中庭擴建由[香港貿易發展局](../Page/香港貿易發展局.md "wikilink")自資興建，特許期起2009年起計8年，與新翼一同歸還貿易發展局。因此嚴格來說只有第一期是BOT，但所有部分均由香港會議展覽中心(管理)有限公司一同管理。
-
 8.
-
 9.  [北京奧運場館完成招標](http://www.singtao.com/archive/fullstory.asp?andor=or&year1=2003&month1=11&day1=10&year2=2003&month2=11&day2=10&category=all&id=20031110e06&keyword1=&keyword2=)星島日報，2003年11月10日，於2010年5月5日查閱
-
 10. [京港地铁-公司简介](http://www.mtr.bj.cn/about/profile.html)
-
 11.
 12.
 13.
-
 14.  梧桐山隧道免费通行 马田水田收费站有望撤销
-
 15. [港铁深圳-业务介绍](http://www.mtrsz.com.cn/chi/About/detail/2)
-
 16. [杭港地铁-公司概况](http://www.mtrhz.com.cn/about/gsgk.htm)
-
 17.

@@ -1,4 +1,4 @@
-这里是[Portal:化学的](https://zh.wikipedia.org/wiki/Portal:化学 "wikilink")“[特色与优良条目](https://zh.wikipedia.org/wiki/Portal:化学/Featured "wikilink")”栏目内容的存档。这个栏目中介绍的条目来自入选[Wikipedia:特色条目和](https://zh.wikipedia.org/wiki/Wikipedia:特色条目 "wikilink")[Wikipedia:优良条目的条目](https://zh.wikipedia.org/wiki/Wikipedia:优良条目 "wikilink")。
+这里是[Portal:化学](../Page/Portal:化学.md "wikilink")的“[特色与优良条目](https://zh.wikipedia.org/wiki/Portal:化学/Featured "wikilink")”栏目内容的存档。这个栏目中介绍的条目来自入选[Wikipedia:特色条目和](https://zh.wikipedia.org/wiki/Wikipedia:特色条目 "wikilink")[Wikipedia:优良条目的条目](https://zh.wikipedia.org/wiki/Wikipedia:优良条目 "wikilink")。
 
 ## 特色条目
 

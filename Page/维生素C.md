@@ -12,7 +12,7 @@
 
 ## 生物學意義
 
-對生物以及人體有意義的「維生素C」是左式結構抗壞血酸（旋光性為右旋（+））；其對掌異構物右式結構抗壞血酸（旋光性為左旋（-）），在生物體內毫無用處。因此在蔬菜水果的「維生素C」幾乎為左式結構抗壞血酸。在光學異構物中，“維生素C”的學名“左式結構抗壞血酸”的首字母為L，常被混淆為左旋性（levorotatory）。
+對生物以及人體有意義的「維生素C」是左式結構抗壞血酸（旋光性為右旋（+））；其掌性異構物右式結構抗壞血酸（旋光性為左旋（-）），在生物體內毫無用處。因此在蔬菜水果的「維生素C」幾乎為左式結構抗壞血酸。在光學異構物中，“維生素C”的學名“左式結構抗壞血酸”的首字母為L，常被混淆為左旋性（levorotatory）。
 
 抗壞血酸是強[還原劑](https://zh.wikipedia.org/wiki/还原剂 "wikilink")，當它進行[作用時](https://zh.wikipedia.org/wiki/氧化還原反應 "wikilink")，會轉化為它的氧化形式為[左式脫氫抗壞血酸](https://zh.wikipedia.org/wiki/左式脫氫抗壞血酸 "wikilink")\[17\]。左式脫氫抗壞血酸經由體內的[酶](../Page/酶.md "wikilink")和[穀胱甘肽可回覆至活性的左式抗壞血酸的形式](https://zh.wikipedia.org/wiki/穀胱甘肽 "wikilink")。\[18\]左式光抗壞血酸是一個與[葡萄糖](../Page/葡萄糖.md "wikilink")相似的[弱](https://zh.wikipedia.org/wiki/弱酸 "wikilink")[糖酸結構](https://zh.wikipedia.org/wiki/糖酸 "wikilink")，能夠很自然的使[氫離子附著上去而形成抗壞血酸](https://zh.wikipedia.org/wiki/氫離子 "wikilink")，或是附著[金屬離子](https://zh.wikipedia.org/wiki/金屬離子 "wikilink")，形成[抗壞血酸礦物質](https://zh.wikipedia.org/wiki/抗壞血酸礦物質 "wikilink")。
 
@@ -61,7 +61,7 @@
 
 如果刷牙時，常有[牙齦](../Page/牙齦.md "wikilink")出血的現象，或者雖然沒有用力碰撞，但身上常見多處烏青、瘀血，這是維生素C不足的症狀之一。\[43\]\[44\]
 
-## 发现历史
+## 發現歷史
 
 [James_lind.jpg](https://zh.wikipedia.org/wiki/File:James_lind.jpg "fig:James_lind.jpg")，是英國皇家海軍外科醫生，1747年，第一次記錄對照實驗，證實新鮮水果能夠治療壞血病。\]\]
 
@@ -415,171 +415,94 @@ Reichstein制造法需要许多有机及无机化学物质和溶剂，例如[丙
 [Category:食品抗氧化剂](https://zh.wikipedia.org/wiki/Category:食品抗氧化剂 "wikilink") [Category:膳食抗氧化剂](https://zh.wikipedia.org/wiki/Category:膳食抗氧化剂 "wikilink") [Category:有机酸](https://zh.wikipedia.org/wiki/Category:有机酸 "wikilink") [Category:维生素](https://zh.wikipedia.org/wiki/Category:维生素 "wikilink") [Category:辅酶](https://zh.wikipedia.org/wiki/Category:辅酶 "wikilink") [Category:抗抑郁药物](https://zh.wikipedia.org/wiki/Category:抗抑郁药物 "wikilink") [Category:呋喃酮](https://zh.wikipedia.org/wiki/Category:呋喃酮 "wikilink") [Category:2,5-二氢呋喃](https://zh.wikipedia.org/wiki/Category:2,5-二氢呋喃 "wikilink") [Category:醇](https://zh.wikipedia.org/wiki/Category:醇 "wikilink") [Category:维生素C](https://zh.wikipedia.org/wiki/Category:维生素C "wikilink") [Category:世界卫生组织基本药物](https://zh.wikipedia.org/wiki/Category:世界卫生组织基本药物 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
 10.
 11.
 12.
 13.
-
 14.
-
 15.
-
 16.
 17.
-
 18.
-
 19.
 20. Levine M, Rumsey SC, Wang Y, Park JB, Daruwala R. Vitamin C. In Stipanuk MH (ed): "Biochemical and Physiological Aspects of Human Nutrition." Philadelphia: W B Saunders, pp 541–567, 2000.
-
 21. Prockop DJ, Kivirikko KI: Collagens: molecular biology, diseases, and potentials for therapy. Annu Rev Biochem 64:403–434, 1995.
-
 22. Peterkofsky B: Ascorbate requirement for hydroxylation and secretion of procollagen: relationship to inhibition of collagen synthesis in scurvy. Am J Clin Nutr 54:1135S–1140S, 1991.
-
 23. Kivirikko KI, Myllyla R: Post-translational processing of procollagens. Ann N Y Acad Sci 460:187–201, 1985.
-
 24. McGee, William, M.D., M.H.A., Assistant Professor of Medicine and Surgery, Tufts University School of Medicine; [Medical Encyclopedia: Ascorbic acid](http://www.nlm.nih.gov/medlineplus/ency/article/002404.htm)
-
 25. Rebouche CJ: Ascorbic acid and carnitine biosynthesis. Am J Clin Nutr 54:1147S–1152S, 1991.
-
 26. Dunn WA, Rettura G, Seifter E, Englard S. Carnitine biosynthesis from gamma-butyrobetaine and from exogenous protein-bound 6-N-trimethyl-L-lysine by the perfused guinea pig liver. Effect of ascorbate deficiency on the in situ activity of gammabutyrobetaine hydroxylase. J Biol Chem 259:10764–10770, 1984.
-
 27. Levine M, Dhariwal KR, Washko P, Welch R, Wang YH, Cantilena CC, Yu R: Ascorbic acid and reaction kinetics in situ: a new approach to vitamin requirements. J Nutr Sci Vitaminol (Tokyo) Spec No:169–172, 1992.
-
 28. Kaufman S: Dopamine-beta-hydroxylase. J Psychiatr Res 11: 303–316, 1974.
-
 29. Eipper BA, Milgram SL, Husten EJ, Yun HY, Mains RE: Peptidylglycine alpha-amidating monooxygenase: a multifunctional protein with catalytic, processing, and routing domains. Protein Sci 2:489–497, 1993.
-
 30. Eipper BA, Stoffers DA, Mains RE: The biosynthesis of neuropeptides: peptide alpha-amidation. Annu Rev Neurosci 15:57–85, 1992.
-
 31.
-
 32. Lindblad B, Lindstedt G, Lindstedt S: The mechanism of enzymic formation of homogentisate from p-hydroxyphenylpyruvate. J Am Chem Soc 92:7446–7449, 1970.
-
 33.
 34.
-
 35.
 36.
-
 37. Milton, K.（1999）"Nutritional characteristics of wild primate foods: do the diets of our closest living relatives have lessons for us?" Nutrition. 1999 Jun;15（6）:488-98.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43. [維他命C（抗壞血酸）（ Vitamin C）](http://chia8138.myweb.hinet.net/FA28.htm)
-
 44. [維生素C](http://www.dharmazen.org/X1Chinese/D32Health/H203VitC.htm)
-
 45.
-
 46.
-
 47.
-
 48. Burns, J. J., and Evans, C., J. Biol. Chem., 200, 125 (1953).
-
 49. Burns, J. J., Peyser, P., and Maltz, A., Science, 124, 1148 (1956).
-
 50.
-
 51.
-
 52.
 53.
-
 54.
 55. <http://consumer.doh.gov.tw/fdaciw/pages/panelist_content.jsp?typeSn=4&listSn=28&sn=135&pageNo=1&prePageNo=1> <sup>\[Dead link\]</sup>
-
 56.
 57.
-
 58.
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68. [DSM vitamin plant gains green thumbs-up](http://www.nutraingredients.com/news/ng.asp?n=86166-dsm-carbon-foot-printing-quali-c) Shane Starling,Decision News Media SAS , 26-Jun-2008. Accessed July 2008
-
 69. [Vitamin C: Distruptions to Production in China to Maintain Firm Market](http://www.flex-news-food.com/pages/17441/China/Vitamin/vitamin-distruptions-production-china-maintain-firm-market.html) FLEXNEWS, 30/06/2008, Accessed July 2008
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.
-
 78.
-
 79. [High Doses of Vitamin C Are Not Effective as a Cancer Treatment](http://www.quackwatch.org/01QuackeryRelatedTopics/Cancer/c.html)
-
 80.
-
 81.
-
 82. <http://www.sciencedaily.com/releases/2008/08/080804190645.htm> from Science News, *Vitamin C Injections Slow Tumor Growth In Mice* as reported in ScienceDaily Aug. 5, 2008, retrieved August 5 2008
-
 83. McGregor GP, Biesalski HK. Rationale and impact of vitamin C in clinical nutrition. Curr Opin Clin Nutr Metab Care 2006; 9:697–703
-
 84.
 85. Kelly FJ. Use of antioxidants in the prevention and treatment of disease. J Int Fed Clin Chem 1998; 10:21–23
-
 86. Mayne ST. Antioxidant nutrients and chronic disease: use of biomarkers of exposure and oxidative stress status in epidemiologic research. J Nutr 2003; 133 (Suppl 3):933S–940S
-
 87. Tak PP, Zvaifler NJ, Green DR, Firestein GS. Rheumatoid arthritis and p53: how oxidative stress might alter the course of inflammatory diseases. Immunol Today 2000; 21:78–82.
-
 88. Goodyear-Bruch C, Pierce JD. Oxidative stress in critically ill patients. Am J Crit Care 2002; 11:543–551; quiz 552–543.
-
 89. Schorah CJ, Downing C, Piripitsi A, et al. Total vitamin C, ascorbic acid, and dehydroascorbic acid concentrations in plasma of critically ill patients. Am J Clin Nutr 1996; 63:760–765.
-
 90.
-
 91.
-
 92.

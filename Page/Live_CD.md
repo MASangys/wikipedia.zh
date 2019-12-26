@@ -50,7 +50,7 @@
   - [Damn Small Linux](https://zh.wikipedia.org/wiki/Damn_Small_Linux "wikilink") - 輕量化的Knoppix，可裝載於[卡片型CD上](https://zh.wikipedia.org/wiki/卡片型CD "wikilink")。
   - [fanx基于SLAX](https://zh.wikipedia.org/wiki/fanx "wikilink")-5.0.6的[FanX-1.1版](https://web.archive.org/web/20050813000933/http://www.linuxsky.net/fanx/download/iso/)【中文版】[说明](https://web.archive.org/web/20060331171517/http://www.linuxfans.org/nuke/modules.php?name=Forums&file=viewtopic&t=126162)
   - [floppyfw](https://zh.wikipedia.org/wiki/floppyfw "wikilink") - 基于[BusyBox](../Page/BusyBox.md "wikilink")的可装载于软盘内的带防火墙功能的路由服务自生系统。
-  - [geexbox](https://zh.wikipedia.org/wiki/geexbox "wikilink") a free software media center for Linux，[官网](http://www.geexbox.org/)
+  - [geexbox](https://zh.wikipedia.org/wiki/geexbox "wikilink") a free software media center for Linux，[官网](https://web.archive.org/web/20160303182312/http://www.geexbox.org/)
   - [Gnoppix](https://zh.wikipedia.org/wiki/Gnoppix "wikilink") - 基于[Ubuntu](../Page/Ubuntu.md "wikilink")使用[GNOME](../Page/GNOME.md "wikilink")作为桌面的自生系统CD。
   - [Knoppix](../Page/Knoppix.md "wikilink") - 基於[Debian](../Page/Debian.md "wikilink")的自生系统CD。
   - [Knoppix bv1al](https://zh.wikipedia.org/wiki/Knoppix_bv1al "wikilink") - 基於[Knoppix](../Page/Knoppix.md "wikilink")的[繁體中文自生系统CD](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")。

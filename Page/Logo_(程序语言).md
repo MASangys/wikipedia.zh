@@ -59,7 +59,7 @@ Logo的方言NetLogo、StarLogo进一步深化了Logo的海龟绘图概念，可
   - [StarLogo](https://web.archive.org/web/20061115214729/http://education.mit.edu/starlogo/)
   - [NetLogo](http://ccl.northwestern.edu/netlogo/)
   - [Comenius Logo](https://web.archive.org/web/20040603134510/http://www.input.sk/slogo/)
-  - [rLogo](http://www.embry.com/rLogo/)可於瀏覽器上執行（需[Java](../Page/Java.md "wikilink")）
+  - [rLogo](https://web.archive.org/web/20080509121801/http://www.embry.com/rLogo/)可於瀏覽器上執行（需[Java](../Page/Java.md "wikilink")）
   - [CLogo](https://archive.is/20121222033208/http://plum.yuntech.edu.tw/Clogo/index.html)可用中文為指令（需要[Java](../Page/Java.md "wikilink")）
   - [Galapago](http://www.hexidec.com/galapago.php)用[Java](../Page/Java.md "wikilink")寫成
   - [ProLOGO](http://prologo.sourceforge.net/)用[Prolog](../Page/Prolog.md "wikilink")寫成，可用意大利語為指令

@@ -1,6 +1,4 @@
-**藤子·F·不二雄**（），本名**藤本弘**（），[日本](../Page/日本.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")。[富山縣](../Page/富山縣.md "wikilink")[高岡市](../Page/高岡市.md "wikilink")人、毕业于[富山縣](../Page/富山縣.md "wikilink")立[高岡工藝高等学校電氣科](https://zh.wikipedia.org/wiki/高岡工藝高等学校 "wikilink")。[血型O](https://zh.wikipedia.org/wiki/血型 "wikilink")。曾经长期与安孫子素雄（笔名[藤子不二雄Ⓐ](../Page/藤子不二雄Ⓐ.md "wikilink")）共用[藤子不二雄](../Page/藤子不二雄.md "wikilink")的[笔名](https://zh.wikipedia.org/wiki/笔名 "wikilink")。代表作有《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》、《[小超人帕門](../Page/小超人帕門.md "wikilink")》、《[奇天烈大百科](../Page/奇天烈大百科.md "wikilink")》、《[超能力魔美](../Page/超能力魔美.md "wikilink")》等。
-
-1996年9月21日（星期六），藤子·F·不二雄先生在繪畫將作為電影放映的影畫原作《哆啦A夢大長篇──[發條城市冒險記](../Page/大雄的發條都市冒險記.md "wikilink")》（《》）的執筆途中，突然失去意識昏倒，一直沒有醒來，經搶救後仍回天乏術，於9月23日（星期一）凌晨2時10分宣告不治，享壽62歲。他的葬禮於9月29日（星期日）在[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[台東區](../Page/台東區.md "wikilink")的[寬永寺](../Page/寬永寺.md "wikilink")舉行。
+**藤子·F·不二雄**（），本名**藤本弘**（），[日本](../Page/日本.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")。[富山縣](../Page/富山縣.md "wikilink")[高岡市](../Page/高岡市.md "wikilink")人、毕业于[富山縣](../Page/富山縣.md "wikilink")立高岡工藝高等学校電氣科。[血型O](https://zh.wikipedia.org/wiki/血型 "wikilink")。曾经长期与安孫子素雄（笔名[藤子不二雄Ⓐ](../Page/藤子不二雄Ⓐ.md "wikilink")）共用[藤子不二雄](../Page/藤子不二雄.md "wikilink")的[笔名](https://zh.wikipedia.org/wiki/笔名 "wikilink")。代表作有《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》、《[小超人帕門](../Page/小超人帕門.md "wikilink")》、《[奇天烈大百科](../Page/奇天烈大百科.md "wikilink")》、《[超能力魔美](../Page/超能力魔美.md "wikilink")》等。1996年9月21日（星期六），藤子·F·不二雄先生在繪畫將作為電影放映的影畫原作《哆啦A夢大長篇──[發條城市冒險記](../Page/大雄的發條都市冒險記.md "wikilink")》（《》）的執筆途中，突然失去意識昏倒，一直沒有醒來，經搶救後仍回天乏術，於9月23日（星期一）凌晨2時10分宣告不治，享壽62歲。他的葬禮於9月29日（星期日）在[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[台東區](../Page/台東區.md "wikilink")的[寬永寺](../Page/寬永寺.md "wikilink")舉行。
 
 ## 经历
 
@@ -156,9 +154,9 @@
 
   - [芝山努](../Page/芝山努.md "wikilink")
 
-  - [中村英一](https://zh.wikipedia.org/wiki/中村英一 "wikilink")
+  - 中村英一
 
-  - [富永貞義](https://zh.wikipedia.org/wiki/富永貞義 "wikilink")
+  - 富永貞義
 
   -
 <!-- end list -->

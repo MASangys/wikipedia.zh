@@ -58,4 +58,4 @@ Sleipnir 1.xx版時是由柏木泰幸個人進行開發，然而在2004年11月�
 
 1.  [](http://www.forest.impress.co.jp/article/2004/11/18/lostsleipnir.html)，[窗之杜](https://zh.wikipedia.org/wiki/窗之杜 "wikilink")，2004年11月18日
 2.  切換到Gecko的功能在1.60版時就已經裝設了，不過（在1.6x）Gecko的外掛必須另外下載。
-3.  [](http://blog.excite.co.jp/tabbrowser/4660581)
+3.  梅田ではたらく社長のblog : Sleipnir 2.5リリース}} |access-date=2007-02-13 |archive-url=<https://web.archive.org/web/20070217110445/http://blog.excite.co.jp/tabbrowser/4660581> |archive-date=2007-02-17 |dead-url=yes }}

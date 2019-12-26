@@ -225,6 +225,16 @@ Cinema 4D的前身是1989年发表的软件[FastRay最初只发表在](https://z
   - **[2017年](../Page/2017年.md "wikilink")**
       - CINEMA 4D R19发布。
 
+<!-- end list -->
+
+  - **[2018年](../Page/2018年.md "wikilink")**
+      - CINEMA 4D R20发布。
+
+<!-- end list -->
+
+  - **[2019年](../Page/2019年.md "wikilink")**
+      - CINEMA 4D R21发布。
+
 ## 外部链接
 
   - [MAXON英文官方主页](http://www.maxon.net)

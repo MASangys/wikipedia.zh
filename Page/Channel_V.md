@@ -68,13 +68,14 @@ Channel \[V\]中國大陸頻道還播放過來自「Channel \[V\]娛樂台（台
 
 [中国国际电视总公司](../Page/中国国际电视总公司.md "wikilink")境外卫星代理部接收Channel \[V\]中国频道信号，通过[亚太6号卫星发射ku波段信号](https://zh.wikipedia.org/wiki/亞太衛星 "wikilink")。该服务一般只提供给三星级以上的[酒店](../Page/酒店.md "wikilink")和政府指定的居住区。
 
-## 其它的Channel \[V\]頻道
+## 其他的Channel \[V\]頻道
 
 其他地區性的Channel \[V\]頻道还包括：
 
   - 泰國台
   - 澳洲台
   - 印度台
+  - 菲律賓台
 
 ## 参见
 

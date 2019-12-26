@@ -1,6 +1,6 @@
 《**週刊少年Jump**》（）由日本[集英社](../Page/集英社.md "wikilink")發行，于1968年（[昭和](../Page/昭和.md "wikilink")43年）7月創刊，當時是[雙週刊](https://zh.wikipedia.org/wiki/雙週刊 "wikilink")，於1969年轉為[週刊](https://zh.wikipedia.org/wiki/週刊 "wikilink")，每周一发售。刊载作品以动作冒险类为主，多带有幻想味道，并刻意张扬个性，追求情节的峰回路转。间或也有部分恋爱、运动及历史题材的作品。多数作品人物造型唯美，因此亦拥有大量少女读者。
 
-为日本發行量最高的连载[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，位列三大週刊[少年漫畫雜誌](../Page/少年漫画.md "wikilink")（《週刊少年Jump》、《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》和《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》）之首。於1993年每期發行量突破600萬冊。[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")《[寶島少年](../Page/寶島少年.md "wikilink")》（[東立出版](https://zh.wikipedia.org/wiki/東立 "wikilink")）、[香港](../Page/香港.md "wikilink")的《[EX-am](../Page/EX-am.md "wikilink")》（[文化傳信](../Page/文化傳信.md "wikilink")出版，已停刊）和 中国大陆《漫画行》（[翻翻动漫](../Page/翻翻动漫.md "wikilink")出版） 則是該雜誌漫畫連載的中文版。
+为日本**發行量最高**的连载[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，位列三大週刊[少年漫畫雜誌](../Page/少年漫画.md "wikilink")（《週刊少年Jump》、《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》和《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》）之首。於1993年每期發行量突破600萬冊。[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")《[寶島少年](../Page/寶島少年.md "wikilink")》（[東立出版](https://zh.wikipedia.org/wiki/東立 "wikilink")）、[香港](../Page/香港.md "wikilink")的《[EX-am](../Page/EX-am.md "wikilink")》（[文化傳信](../Page/文化傳信.md "wikilink")出版，已停刊）和 中国大陆《漫画行》（[翻翻动漫](../Page/翻翻动漫.md "wikilink")出版） 則是該雜誌漫畫連載的中文版。
 
 ## 历史
 
@@ -46,7 +46,7 @@
 
 而《[影子籃球員](https://zh.wikipedia.org/wiki/影子籃球員 "wikilink")》（2009年～2014年）、《[惡魔奶爸](../Page/惡魔奶爸.md "wikilink")》（2009年～2014年）、《[偽戀](../Page/偽戀.md "wikilink")》（2011年～2016年）、《[排球少年\!\!](https://zh.wikipedia.org/wiki/排球少年!! "wikilink")》（2012年～）、《[齊木楠雄的Ψ難](https://zh.wikipedia.org/wiki/齊木楠雄的Ψ難 "wikilink")》（2012年～2018年）、《[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教室 "wikilink")》（2012年～2016年）、《[食戟之靈](https://zh.wikipedia.org/wiki/食戟之靈 "wikilink")》（2012年～2019年）、《[境界觸發者](../Page/境界觸發者.md "wikilink")》（2013年～）、《[我的英雄學院](../Page/我的英雄學院.md "wikilink")》（2014年～）、《[黑色五葉草](https://zh.wikipedia.org/wiki/黑色五葉草 "wikilink")》（2015年～）被稱作強勢新生代的中軸。
 
-JUMP多部知名大作（[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教室 "wikilink")、[偽戀](../Page/偽戀.md "wikilink")、[BLEACH](../Page/BLEACH.md "wikilink")、[烏龍派出所](../Page/烏龍派出所.md "wikilink")、[美食獵人](https://zh.wikipedia.org/wiki/美食獵人 "wikilink")）都陸續的結束連載。
+JUMP多部知名大作（[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教室 "wikilink")、[偽戀](../Page/偽戀.md "wikilink")、[BLEACH](../Page/BLEACH.md "wikilink")、[烏龍派出所](../Page/烏龍派出所.md "wikilink")、[美食獵人](https://zh.wikipedia.org/wiki/美食獵人 "wikilink")、[火影忍者](../Page/火影忍者.md "wikilink")）都陸續的結束連載。
 
 ## 特征
 
@@ -183,7 +183,7 @@ JUMP多部知名大作（[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教�
 <td></td>
 <td></td>
 <td></td>
-<td><p>2018年8號</p></td>
+<td><p>2018年08號</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -195,7 +195,7 @@ JUMP多部知名大作（[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教�
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="../Page/鏈鋸人.md" title="wikilink">鏈鋸人</a></p></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>
@@ -203,27 +203,11 @@ JUMP多部知名大作（[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/梳扎頭髮的神緒結衣" title="wikilink">梳扎頭髮的神緒結衣</a></p></td>
 <td></td>
-<td><p><a href="../Page/椎橋寬.md" title="wikilink">椎橋寬</a></p></td>
-<td><p>－</p></td>
-<td><p>2019年15號</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/SAMURAI8～機侍_八丸傳" title="wikilink">SAMURAI8～機侍 八丸傳</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大久保彰" title="wikilink">大久保彰</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/岸本齊史" title="wikilink">岸本齊史</a></p></td>
 <td><p>2019年24號</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/雙心的太星" title="wikilink">雙心的太星</a></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/福田健太郎" title="wikilink">福田健太郎</a></p></td>
-<td><p>－</p></td>
-<td><p>2019年25號</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -256,6 +240,22 @@ JUMP多部知名大作（[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教�
 <td></td>
 <td><p>－</p></td>
 <td><p>2019年40號</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/Dr.STONE_新石紀.md" title="wikilink">Dr.STONE reboot:百夜</a></p></td>
+<td></td>
+<td><p><a href="../Page/Boichi.md" title="wikilink">Boichi</a></p></td>
+<td><p><a href="../Page/稻垣理一郎.md" title="wikilink">稻垣理一郎</a>、<a href="../Page/Boichi.md" title="wikilink">Boichi</a></p></td>
+<td><p>2019年48號</p></td>
+<td><p>短期集中連載</p></td>
+</tr>
+<tr class="even">
+<td><p>[[ZIPMAN</p></td>
+<td><p>|ZIPMAN</p></td>
+<td><p>]]</p></td>
+<td><p>{{lang|ja|ZIPMAN</p></td>
+<td><p>}}</p></td>
 <td></td>
 </tr>
 </tbody>

@@ -32,10 +32,7 @@ WPP由[董事会](../Page/董事会.md "wikilink")管理，现任董事会成员
 
 1.
 2.
-
 3.
-
 4.
 5.
-
 6.  [WPP集團再傳整併 Neo@Ogilvy納入傳立媒體](http://www.brain.com.tw/news/articlecontent?ID=44988&sort=)

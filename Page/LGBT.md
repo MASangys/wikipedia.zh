@@ -35,7 +35,7 @@
   - [GLBTQ GLBT和酷兒文化百科全書](https://web.archive.org/web/20050317094204/http://www.glbtq.com/)
   - [美国和国际LGBT社区中心](https://web.archive.org/web/20081010152330/http://directory.lgbtcenters.org/)目录
   - [美国心理学协会LGBT问题办公室](http://www.apa.org/pi/lgbt/index.aspx)
-  - 校园安全联盟[术语表](http://www.safeschoolscoalition.org/glossary.pdf)
+  - 校园安全联盟[术语表](https://web.archive.org/web/20110515204547/http://www.safeschoolscoalition.org/glossary.pdf)
   - 宗教研究所 [Time to Seek](http://www.religiousinstitute.org/sites/default/files/study_guides/timetoseekfinal.pdf)
 
 ## 参见
@@ -57,61 +57,38 @@
 [Category:LGBT](https://zh.wikipedia.org/wiki/Category:LGBT "wikilink") [Category:LGBT用語](https://zh.wikipedia.org/wiki/Category:LGBT用語 "wikilink") [Category:字首縮寫](https://zh.wikipedia.org/wiki/Category:字首縮寫 "wikilink") [Category:新詞](https://zh.wikipedia.org/wiki/Category:新詞 "wikilink") [Category:男同性戀](https://zh.wikipedia.org/wiki/Category:男同性戀 "wikilink") [Category:女同性戀](https://zh.wikipedia.org/wiki/Category:女同性戀 "wikilink") [Category:雙性戀](https://zh.wikipedia.org/wiki/Category:雙性戀 "wikilink") [Category:跨性別](https://zh.wikipedia.org/wiki/Category:跨性別 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.  [National Lesbian & Gay Journalists Association: Stylebook Supplement on LGBT Terminology](http://www.nlgja.org/resources/stylebook.html), NLGJA 2008.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
 12.
-
 13.
 14.
-
 15.
 16. Kennedy, Hubert C. (1980) *The "third sex" theory of Karl Heinrich Ulrichs*, Journal of Homosexuality. 1980–1981 Fall–Winter; 6(1–2): pp. 103–1
-
 17. Hirschfeld, Magnus, 1904. *Berlins Drittes Geschlecht* ("Berlin's Third Sex")
-
 18. Ellis, Havelock and Symonds, J. A., 1897. *Sexual Inversion*.
-
 19. Carpenter, Edward, 1908. *[The Intermediate Sex: A Study of Some Transitional Types of Men and Women](http://www.fordham.edu/halsall/pwh/carpenter-is.html)*.
-
 20. Duc, Aimée, 1901. *Sind es Frauen? Roman über das dritte Geschlecht* ("Are These Women? Novel about the Third Sex")
-
 21.
-
 22.
-
 23.
 24. Esterberg, Kristen (September, 1994). "From Accommodation to Liberation: A Social Movement Analysis of Lesbians in the Homophile Movement." *Gender and Society*, **8**, (3) p. 424–443.
-
 25.
-
 26.
 27.
-
 28.
-
 29.
 30.
 31. [Research, policy and practice: Annual meeting](http://books.google.ch/books?ei=PW9JTfOeOtPd4AbR54SjDA&ct=result&id=PiglAQAAIAAJ&dq=%22An+Examination+of+the+Family-School+Relationship%22&q=LGBT#search_anchor), American Educational Research Association Verlag AERA, 1988.
-
 32.
 33.
-
 34.
 35.
 36.
@@ -120,39 +97,23 @@
 39.
 40.
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
 48.
-
 49.
-
 50.
 51.
-
 52.
-
 53. Young, R M & Meyer, I H (2005) The Trouble with "MSM" and "WSW": Erasure of the Sexual-Minority Person in Public Health Discourse American Journal of Public Health July 2005 Vol. 95 No. 7.
-
 54. Glick, M Muzyka, B C Salkin, L M Lurie, D (1994) Necrotizing ulcerative periodontitis: a marker for immune deterioration and a predictor for the diagnosis of [AIDS](https://zh.wikipedia.org/wiki/AIDS "wikilink") Journal of Periodontology 1994 65 p. 393–397.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
 60.
 61.
@@ -164,24 +125,19 @@
 67.
 68.
 69.
-
 70.
-
 71.
 72.
 73.
 74.
 75.
-
 76.
 77.
 78.
 79.
 80.
 81.
-
 82.
-
 83.
 84.
 85.

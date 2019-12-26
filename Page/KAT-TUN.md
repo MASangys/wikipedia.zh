@@ -1008,16 +1008,11 @@
   - [J-FRIENDS](../Page/J-FRIENDS.md "wikilink")
   - [修二與彰](../Page/修二與彰.md "wikilink")
 
-## 参考文献
-
 ## 外部連結
 
   - [Johnny's net](http://www.johnnys-net.jp/page?id=profile&artist=14)官方網站
-
   - [カートゥンKAT-TUN](https://web.archive.org/web/20070623050804/http://www.ntv.co.jp/cartoonkat-tun/) - 節目官網
-
   - [J Storm官方網站](http://www.j-storm.co.jp/) - TOKIO、ARASHI、KAT-TUN、Hey\!Say\!JUMP官方網站
-
   -
 [Category:KAT-TUN](https://zh.wikipedia.org/wiki/Category:KAT-TUN "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:傑尼斯事務所正式團體](https://zh.wikipedia.org/wiki/Category:傑尼斯事務所正式團體 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink") [Category:Oricon單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon單曲年榜冠軍獲得者 "wikilink") [Category:Oricon音樂相關影像作品年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon音樂相關影像作品年榜冠軍獲得者 "wikilink")
 

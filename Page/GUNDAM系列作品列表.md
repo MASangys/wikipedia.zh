@@ -159,9 +159,10 @@
       - Scramble（1991）（劇場版）
       - 武者，騎士，Commando（1991）（兩集OVA）
       - 大集合（）（1993）（劇場版）
-  - SD（SUPERIOR DEFENDER）GUNDAM FORCE（2003）（52集美國製TV動畫）
+  - [SD鋼彈FORCE](../Page/SD鋼彈FORCE.md "wikilink")(五十二集電視動畫)
   - [-{zh-tw:SD鋼彈三國傳BraveBattleWarriors;zh-hk:SD鋼彈三國傳BraveBattleWarriors;zh-hans:SD高达三国传BraveBattleWarriors;}-](../Page/SD_GUNDAM三國傳BraveBattleWarriors.md "wikilink")
-      - [SD GUNDAM Online](../Page/SD_GUNDAM_Online.md "wikilink")（SD高达Online）（2008年中国大陆开始测试）
+      - [SD GUNDAM Online](../Page/SD_GUNDAM_Online.md "wikilink")（SD高达Online）（2008年中国大陆开始测试
+  - [SD高達世界 三國創傑傳](https://zh.wikipedia.org/wiki/SD高達世界_三國創傑傳 "wikilink")([網絡動畫播放中](https://zh.wikipedia.org/wiki/網絡動畫 "wikilink"))
 
 ## [鋼彈創鬥者系列](https://zh.wikipedia.org/wiki/鋼彈創鬥者 "wikilink")
 
@@ -170,6 +171,7 @@
   - [GUNDAM創戰者TRY](../Page/GUNDAM創戰者TRY.md "wikilink")(TV)
   - [鋼彈創鬥者 潛網大戰](../Page/鋼彈創鬥者_潛網大戰.md "wikilink")（TV）
   - [鋼彈EXA](https://zh.wikipedia.org/wiki/鋼彈EXA "wikilink")
+  - [高達創戰潛行者Re:RISE](https://zh.wikipedia.org/wiki/高達創戰潛行者Re:RISE "wikilink")([網絡動畫](https://zh.wikipedia.org/wiki/網絡動畫 "wikilink"))
 
 ## 其他系列作品
 

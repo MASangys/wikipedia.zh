@@ -450,7 +450,7 @@ or<br />
 地址耗尽：
 
   - [RIPE report on address consumption as of October 2003](https://web.archive.org/web/20110109025511/http://www.ripe.net/rs/news/ipv4-ncc-20031030.html)
-  - [Official current state of IPv4 /8 allocations, as maintained by IANA](http://www.iana.org/assignments/ipv4-address-space)
+  - [Official current state of IPv4 /8 allocations, as maintained by IANA](https://web.archive.org/web/20100430190605/http://www.iana.org/assignments/ipv4-address-space/)
   - [Dynamically generated graphs of IPv4 address consumption with predictions of exhaustion dates — Geoff Huston](http://www.potaroo.net/tools/ipv4/)
   - [IP addressing in China and the myth of address shortage](https://web.archive.org/web/20110629000602/http://www.apnic.net/community/about-the-internet-community/internet-governance/articles/ip-addressing-in-china-2004)
   - [Countdown of remaining IPv4 available addresses](http://www.inetcore.com/project/ipv4ec/index_en.html) (estimated)
@@ -458,16 +458,10 @@ or<br />
 [Category:网际协议](https://zh.wikipedia.org/wiki/Category:网际协议 "wikilink") [Category:互联网标准](https://zh.wikipedia.org/wiki/Category:互联网标准 "wikilink") [Category:网络层协议](https://zh.wikipedia.org/wiki/Category:网络层协议 "wikilink") [Category:互联网结构](https://zh.wikipedia.org/wiki/Category:互联网结构 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.

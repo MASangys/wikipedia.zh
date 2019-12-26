@@ -230,7 +230,7 @@ try {
 
 {{-}}
 
-[Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink") [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink") [Category:Java规范请求](https://zh.wikipedia.org/wiki/Category:Java规范请求 "wikilink") [Category:数据库](https://zh.wikipedia.org/wiki/Category:数据库 "wikilink")
+[Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink") [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink") [Category:Java规范请求](https://zh.wikipedia.org/wiki/Category:Java规范请求 "wikilink") [Category:数据库API](https://zh.wikipedia.org/wiki/Category:数据库API "wikilink")
 
 1.  [1](http://java.sun.com/j2se/1.5.0/docs/guide/jdbc/getstart/intro.html#1018466)
 2.

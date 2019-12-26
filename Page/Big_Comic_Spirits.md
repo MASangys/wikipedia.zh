@@ -364,7 +364,6 @@
 [Category:小學館的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:小學館的漫畫雜誌 "wikilink") [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink") [Category:週刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:週刊漫畫雜誌 "wikilink")
 
 1.  [社団法人日本雑誌協会](http://www.j-magazine.or.jp/)JMPAマガジンデータによる該当期間中に発売された雑誌1号当たりの平均印刷部数。
-
 2.
 3.
 4.

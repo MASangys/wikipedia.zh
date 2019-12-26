@@ -111,7 +111,7 @@ Swing API的大部分是[AWT](../Page/AWT.md "wikilink")的补充扩展而不是
   - Article "[BlackMamba：一个Swing的实例学习](http://www.onjava.com/pub/a/onjava/2004/03/10/blackmamba.html)" by [Ashwin Jayaprakash](https://zh.wikipedia.org/wiki/Ashwin_Jayaprakash "wikilink")
   - [有关AWT/Swing的文章](http://www.javaworld.com/channel_content/jw-awt-index.shtml)
   - [Citations from CiteSeer](http://citeseer.ist.psu.edu/cis?q=Java+Swing)
-  - [Swing wiki](http://www.swingwiki.org)包含了最棒的练习、技巧、诀窍以及如何入门
+  - [Swing wiki](https://web.archive.org/web/20110526164920/http://www.swingwiki.org/)包含了最棒的练习、技巧、诀窍以及如何入门
 
 [ar:جافا (لغة برمجة)\#تطبيق Swing](https://zh.wikipedia.org/wiki/ar:جافا_\(لغة_برمجة\)#تطبيق_Swing "wikilink")
 

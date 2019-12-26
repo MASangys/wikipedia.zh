@@ -1,12 +1,12 @@
-《**JoJo的奇妙冒險**》（）是日本漫畫家[荒木飛呂彥](../Page/荒木飛呂彥.md "wikilink")的[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")。簡稱**JoJo**。自1987年—2004年在《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》連載，2005年後移往《Ultra Jump》連載。故事描述英國貴族喬斯達家族與吸血鬼迪奧及其後繼者間長達百年以上的對決，現系列作已進行至第八部，單行本目前總計出刊至125冊，是集英社內集數次多的作品。
+《**JoJo的奇妙冒險**》（）是日本漫畫家[荒木飛呂彥](../Page/荒木飛呂彥.md "wikilink")的[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")。簡稱**JoJo**。自1987年起至2004年在《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》連載，2005年後移往《Ultra Jump》連載。故事描述英國貴族喬斯達家族與吸血鬼迪奧及其後繼者間長達百年以上的對決，現系列作已進行至第八部，單行本目前總計出刊至125冊，是集英社內集數次多的作品。
 
-該系列作品在1993年改編成[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，在2007年改編成電影版，2012年推出電視動畫，至2016年全系列累計發行量超過一億冊，改編作品橫跨了多種媒體，於2017年推出真人電影。另外還包括數款電子遊戲、卡牌遊戲、可動模型等，衍生商品的領域廣泛，包括手錶、領帶、耳機、智慧型手機、食品等。
+該系列作品至2016年全系列累計發行量超過一億冊，改編作品橫跨了多種媒體，在1993年改編成[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，在2007年改編成電影版，2012年推出電視動畫於2017年推出真人電影。另外還包括數款電子遊戲、卡牌遊戲、可動模型等，衍生商品的領域廣泛，包括手錶、領帶、耳機、智慧型手機、食品等。
 
 ## 作品概要
 
 由日本[集英社](../Page/集英社.md "wikilink")的少年漫畫雜誌《[少年JUMP週刊](https://zh.wikipedia.org/wiki/少年JUMP週刊 "wikilink")》连载（1987年－2004年）至第六部，2005年之後於集英社的青年向漫畫雜誌《[Ultra Jump](https://zh.wikipedia.org/wiki/Ultra_Jump "wikilink")》連載。目前連載至第八部，並有大量的外傳。
 
-台灣無版權時期[東立出版社](../Page/東立出版社.md "wikilink")譯為《**強人陣線**》，後來[大然出版社取得授權譯為](https://zh.wikipedia.org/wiki/大然出版社 "wikilink")《**JoJo冒險野郎**》，之後[東立出版社](../Page/東立出版社.md "wikilink")取得版權改回與日文相同的《**JoJo的奇妙冒險**》
+台灣無版權時期[東立出版社](../Page/東立出版社.md "wikilink")譯為《**強人陣線**》（也譯為《**魔域冒險**》），後來[大然出版社取得授權譯為](https://zh.wikipedia.org/wiki/大然出版社 "wikilink")《**JoJo冒險野郎**》，之後[東立出版社](../Page/東立出版社.md "wikilink")取得版權改回與日文相同的《**JoJo的奇妙冒險**》
 
 全篇作品以「歌頌人類」為主題，故事中有著夥伴之間的羈絆、與強大的敵人戰鬥等少年漫畫的經典元素，由其獨特的畫風和表現形式構成不可思議的獨特世界。除漫畫之外，亦改編成動畫、小說、遊戲、電影等作品。
 
@@ -29,7 +29,7 @@
   - 第七部《[飆馬野郎](../Page/飆馬野郎.md "wikilink")》
     收錄於單行本第81卷至第104卷。1890年，橫跨[北美大陸的超長程賽馬](https://zh.wikipedia.org/wiki/北美大陸 "wikilink")「STEEL·BALL·RUN」即將展開，為了奪得冠軍，操作鐵球的神秘騎手傑洛·齊貝林參加了比賽，而曾是天才騎手、卻因為事故而癱瘓的喬尼·喬斯達，為了從傑洛身上得到能使他癱瘓的下半身行動的秘密，一起參加了比賽。在過程中，他們漸漸發現隱藏於這場比賽真正的意圖。
   - 第八部《[JoJolion](../Page/JoJolion.md "wikilink")》（連載中）
-    目前已收錄於單行本第105卷至第125卷。舞臺是2011年，住在[日本](../Page/日本.md "wikilink")杜王町的平凡少女廣瀨康穗在一處泥巴坑中發現一名擁有替身能力的失去記憶並擁有四顆蛋蛋男子，事後該男子被東方家收養並命名為「東方定助」，為了找回失去的記憶，東方定助開始了他的追尋。
+    目前已收錄於單行本第105卷至第125卷。舞臺是2011年，住在[日本](../Page/日本.md "wikilink")杜王町的平凡少女廣瀨康穗在一處泥巴坑中發現一名擁有替身能力的失去記憶的男子，事後該男子被東方家收養並命名為「東方定助」，為了找回失去的記憶，東方定助開始了他的旅程。
 
 ## 設定解說
 
@@ -40,7 +40,7 @@
 
 JoJo的奇妙冒險中出現了大量的[超自然元素](https://zh.wikipedia.org/wiki/超自然 "wikilink")，也結合了真實世界的人物和事件。第一部的故事圍繞著一個只要沾上血就能將配戴者變成[吸血鬼](../Page/吸血鬼.md "wikilink")的石鬼面，而吸血鬼可以將人變成[屍生人](../Page/殭屍.md "wikilink")，吸血鬼和殭屍只能被太陽光或波紋[氣功消滅](https://zh.wikipedia.org/wiki/氣功 "wikilink")，波紋是一種透過規律呼吸來產生能量的[武術](../Page/武術.md "wikilink")。在第二部中，出現了超古代生物柱之男，他們有著遠超過人類的力量和壽命，但卻和吸血鬼一樣不能曬到太陽光。此外、第二部還使用了[納粹](https://zh.wikipedia.org/wiki/納粹 "wikilink")、[賽博格](../Page/賽博格.md "wikilink")等元素。
 
-在第三部之後出現了替身，這是一種將精神力化成具體的超能力，在第三部也出現了[靈魂的設定](https://zh.wikipedia.org/wiki/靈魂 "wikilink")，而在第四部中、也出現了身份是[幽靈的角色](https://zh.wikipedia.org/wiki/幽靈 "wikilink")。在第六部中、有著可以奪取他人替身和[記憶](../Page/記憶.md "wikilink")並將之製成[光碟](../Page/光碟.md "wikilink")的能力，以及[平行世界等設定](https://zh.wikipedia.org/wiki/平行世界 "wikilink")。從第七部開始引入了新的平行世界，這個平行世界和第六部之前的世界有一些關係。雖然故事未明確說明，但通常被認為是由第六部石之海的最大反派：普奇神父的替身能力所創造出來的平行世界。普奇神父為了打倒當時的主角徐倫一行人，發動能力將世界於瞬間毀滅後重生，重新設定了所有故事角色的歷史。
+在第三部之後出現了替身，這是一種將精神力化成具體的超能力，在第三部也出現了[靈魂的設定](https://zh.wikipedia.org/wiki/靈魂 "wikilink")，而在第四部中也出現了身份是[幽靈的角色](https://zh.wikipedia.org/wiki/幽靈 "wikilink")。在第六部中有著可以奪取他人替身和[記憶](../Page/記憶.md "wikilink")並將之製成[光碟](../Page/光碟.md "wikilink")的能力，以及[平行世界等設定](https://zh.wikipedia.org/wiki/平行世界 "wikilink")。從第七部開始引入了新的平行世界，這個平行世界和第六部之前的世界有一些關係。雖然故事未明確說明，但通常被認為是由第六部石之海的最大反派：普奇神父的替身能力所創造出來的平行世界。普奇神父為了打倒當時的主角徐倫一行人，發動能力將世界於瞬間毀滅後重生，重新設定了所有故事角色的歷史。
 
 在第七部裡、出現了迴轉這一門技術，這是種讓鐵球和物體按照[黃金比例和](https://zh.wikipedia.org/wiki/黃金比例 "wikilink")[黃金長方形進行迴轉的招式](https://zh.wikipedia.org/wiki/黃金矩形 "wikilink")，同時、第七部還有著能引發奇蹟的[聖人](https://zh.wikipedia.org/wiki/聖人 "wikilink")[遺體](https://zh.wikipedia.org/wiki/遺體 "wikilink")，那是一具影射[耶穌的遺體](https://zh.wikipedia.org/wiki/耶穌 "wikilink")，能給持有者帶來幸福。在第八部中以[東日本大震災](../Page/東日本大震災.md "wikilink")後的日本為舞台背景發展故事，出現了可以長時間不吃不喝、能化身為石頭的特殊種族石頭人。
 
@@ -429,142 +429,75 @@ JoJo風格也延伸到了文學作品，2008年時，他為[川端康成](../Pag
 [Category:JoJo的奇妙冒险](https://zh.wikipedia.org/wiki/Category:JoJo的奇妙冒险 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:冒险作品](https://zh.wikipedia.org/wiki/Category:冒险作品 "wikilink") [Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink") [Category:吸血鬼題材漫畫](https://zh.wikipedia.org/wiki/Category:吸血鬼題材漫畫 "wikilink") [Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:Ultra_Jump](https://zh.wikipedia.org/wiki/Category:Ultra_Jump "wikilink") [Category:日本OVA動畫](https://zh.wikipedia.org/wiki/Category:日本OVA動畫 "wikilink") [Category:2007年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2007年日本劇場動畫 "wikilink") [Category:系列漫畫](https://zh.wikipedia.org/wiki/Category:系列漫畫 "wikilink") [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink")
 
 1.  <http://jojoss.bngames.net/>
-
 2.  [人気漫画『ジョジョの奇妙な冒険』が初の実写映画化 山崎賢人が主演](http://www.oricon.co.jp/news/2079123/?anc=115)。
-
 3.
-
 4.
 5.
-
 6.
-
 7.  *Weekly [Famitsu](https://zh.wikipedia.org/wiki/Famitsu "wikilink")*, March 2, 2007, issue
-
 8.  *Manga no Genba*, [NHK](https://zh.wikipedia.org/wiki/NHK "wikilink") BS, July 4, 2006 broadcast
-
 9.
-
 10.
-
 11.
-
 12.
-
-13. [修女也要学姿势！意大利举办“JOJO立大赛”](http://cartoon.southcn.com/c/2016-11/07/content_159207278.htm)，南方網。
-
+13. [修女也要学姿势！意大利举办“JOJO立大赛”](http://cartoon.southcn.com/c/2016-11/07/content_159207278.htm) ，南方網。
 14.
-
 15.
-
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
 41.
-
 42. [CLAMP in Wonderland 1](https://www.youtube.com/watch?v=81CDfP7CbuY&feature=youtu.be&t=3m27s)
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54. [「ジョジョの奇妙な冒険」創作ヘア＆メーキャップ作品集](http://gdmediad2011.jp/shiseido/130924sp.html)
-
 55.
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
 70.
-
 71.
-
 72.
-
 73.

@@ -6,11 +6,11 @@
 
 以字体版权分类则分为自由版权和受限版权。下表中标注有<span style="background-color:#90FF90;">\[F\]</span> 代表[自由及開放原始碼軟體](https://zh.wikipedia.org/wiki/自由及開放原始碼軟體 "wikilink") (FOSS)；<span style="background-color:#FFEF00;"><s>\[F\]</s></span> 代表曾經獲普遍認為是自由及開源軟件，但現在有爭議。
 
-## 宋体 / 明体
+## 宋体／明体
 
-| 字体名称                                | 样例（简）                                                          | 样例（繁）                                                                                                                                                                       |
-| ----------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [宋體 / 明體](../Page/宋体.md "wikilink") | [80px](https://zh.wikipedia.org/wiki/图像:songti.png "wikilink") | [80px](https://zh.wikipedia.org/wiki/图像:Songti-zh-hant.png "wikilink") [Mingti-zh-hant.png](https://zh.wikipedia.org/wiki/File:Mingti-zh-hant.png "fig:Mingti-zh-hant.png") |
+| 字体名称                              | 样例（简）                                                          | 样例（繁）                                                                                                                                                                       |
+| --------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [宋體／明體](../Page/宋体.md "wikilink") | [80px](https://zh.wikipedia.org/wiki/图像:songti.png "wikilink") | [80px](https://zh.wikipedia.org/wiki/图像:Songti-zh-hant.png "wikilink") [Mingti-zh-hant.png](https://zh.wikipedia.org/wiki/File:Mingti-zh-hant.png "fig:Mingti-zh-hant.png") |
 
 ### 泛Unicode
 
@@ -78,7 +78,7 @@
   - 中易仿宋_GB2312、[中易仿宋](https://zh.wikipedia.org/wiki/中易仿宋 "wikilink")：北京中易制作，随微软Windows分发，早期版本仅含GB2312字符集的字符
   - 华文仿宋：常州华文制作，随微软Office分发
 
-#### 宫书(궁서)
+#### 宫书（궁서）
 
 严格来说宫书体更近似于楷体，但英文版原文如是分类。
 
@@ -89,12 +89,12 @@
 
 ### 泛Unicode
 
-  - [Arial Unicode MS](../Page/Arial_Unicode_MS.md "wikilink") – 附贈於 Microsoft Office 2000 及更高版本
-  - <span style="background-color:#90FF90;">\[F\]</span> [Droid Sans Fallback](../Page/Droid.md "wikilink") – 由  為 Google 的-{zh-hans:移动; zh-tw:行動; zh-hk:流動;}--{zh-hans:操作系统;zh-hk:作業系統;zh-tw:作業系統;}- [Android](../Page/Android.md "wikilink") 製作，以 Apache License 2 授權
+  - [Arial Unicode MS](../Page/Arial_Unicode_MS.md "wikilink") – 附贈於Microsoft Office 2000及更高版本
+  - <span style="background-color:#90FF90;">\[F\]</span> [Droid Sans Fallback](../Page/Droid.md "wikilink") – 由為Google的-{zh-hans:移动; zh-hant:行動; zh-hk:流動;}--{zh-hans:操作系统;zh-hant:作業系統;}-[Android](../Page/Android.md "wikilink")製作，以Apache License 2授權
 
 ### 泛CJK
 
-  - <span style="background-color:#90FF90;">\[F\]</span> [思源黑体](https://zh.wikipedia.org/wiki/思源黑体 "wikilink") - 由[Adobe](../Page/Adobe.md "wikilink")与[Google](../Page/Google.md "wikilink")所领导开发的开源字体家族，支持[繁体中文](https://zh.wikipedia.org/wiki/繁体中文 "wikilink")、[简体中文](https://zh.wikipedia.org/wiki/简体中文 "wikilink")、[日文及](https://zh.wikipedia.org/wiki/日文 "wikilink")[韩文](https://zh.wikipedia.org/wiki/韩文 "wikilink")，并且各有7种字体粗细
+  - <span style="background-color:#90FF90;">\[F\]</span> [思源黑体](https://zh.wikipedia.org/wiki/思源黑体 "wikilink") - 由[Adobe](../Page/Adobe.md "wikilink")与[Google](../Page/Google.md "wikilink")所领导开发的开源字体家族，支持[傳統中文](https://zh.wikipedia.org/wiki/傳統中文 "wikilink")、[简体中文](https://zh.wikipedia.org/wiki/简体中文 "wikilink")、[日文及](https://zh.wikipedia.org/wiki/日文 "wikilink")[韩文](https://zh.wikipedia.org/wiki/韩文 "wikilink")，并且各有7种字体粗细
 
 ### 简体中文
 
@@ -103,19 +103,19 @@
   - [中易黑体](https://zh.wikipedia.org/wiki/中易黑体 "wikilink")：[北京中易制作](https://zh.wikipedia.org/wiki/中易中标电子信息技术有限公司 "wikilink")，1995年后随微软Windows和Office分发
   - [微软雅黑](../Page/微软雅黑.md "wikilink")、微软雅黑UI：[北大方正制作](https://zh.wikipedia.org/wiki/北大方正 "wikilink")，微软Cleartype专用新字体之一，随微软Windows和Office分发
   - <span style="background-color:#90FF90;">\[F\]</span> [文泉驿微米黑](https://zh.wikipedia.org/wiki/文泉驿微米黑 "wikilink")
-  - [华文黑体](https://zh.wikipedia.org/wiki/华文黑体 "wikilink")：常州华文制作，附贈於 Mac OS X 10.2 或以上
+  - [华文黑体](https://zh.wikipedia.org/wiki/华文黑体 "wikilink")：常州华文制作，附贈於Mac OS X 10.2或以上
   - [华文细黑](https://zh.wikipedia.org/wiki/华文细黑 "wikilink")：常州华文制作，随Mac OS X 10.2以上版本和Office 2000以上版本分发
-  - [黑体-简](https://zh.wikipedia.org/wiki/黑体-简 "wikilink")：常州华文制作，附贈於 Mac OS X 10.6
-  - [苹方](../Page/苹方.md "wikilink")-简：台湾华康制作，附贈於 Mac OS X 10.11及iOS9
-  - Hiragino Sans GB – 附贈於 Mac OS X 10.6
+  - [黑体-简](https://zh.wikipedia.org/wiki/黑体-简 "wikilink")：常州华文制作，附贈於Mac OS X 10.6
+  - [苹方](../Page/苹方.md "wikilink")-简：台湾华康制作，附贈於Mac OS X 10.11及iOS 9
+  - Hiragino Sans GB – 附贈於Mac OS X 10.6
 
-### 繁体中文
+### 傳統中文
 
   - [微軟正黑體](../Page/微軟正黑體.md "wikilink")
-  - 蘋方-繁、蘋方-港 – 附贈於 OS X 10.11
-  - [黑體-繁](../Page/黑體-繁.md "wikilink") – 附贈於 Mac OS X 10.6
-  - [儷黑 Pro](https://zh.wikipedia.org/wiki/儷黑_Pro "wikilink") – 附贈於 Mac OS X 10.3 或以上
-  - [蘋果儷中黑](https://zh.wikipedia.org/wiki/蘋果儷中黑 "wikilink") – 附贈於 Mac OS 9 及 Mac OS X 10.2 或以上
+  - 蘋方-繁、蘋方-港 – 附贈於OS X 10.11
+  - [黑體-繁](../Page/黑體-繁.md "wikilink") – 附贈於Mac OS X 10.6
+  - [儷黑 Pro](https://zh.wikipedia.org/wiki/儷黑_Pro "wikilink") – 附贈於Mac OS X 10.3或以上
+  - [蘋果儷中黑](https://zh.wikipedia.org/wiki/蘋果儷中黑 "wikilink") – 附贈於Mac OS 9及Mac OS X 10.2或以上
   - <span style="background-color:#90FF90;">\[F\]</span> [文泉驿正黑](https://zh.wikipedia.org/wiki/文泉驿正黑 "wikilink")
   - H-明蘭（H-Minglan）
   - H-雲林（H-YunLin）
@@ -124,11 +124,11 @@
 
 ### 日文
 
-  - [明-{瞭}-體](https://zh.wikipedia.org/wiki/明瞭體 "wikilink")（Meiryo）
+  - [Meiryo](../Page/Meiryo.md "wikilink")
   - MS Gothic（）– 日文版[Windows 3.1及以后版本附赠的默认系统字体](https://zh.wikipedia.org/wiki/Windows_3.1 "wikilink")，所有语言的[Windows 2000至](../Page/Windows_2000.md "wikilink")[Windows 8.1](../Page/Windows_8.1.md "wikilink")、[Windows 10日文版](../Page/Windows_10.md "wikilink")、Microsoft Office v.X至2004、Internet Explorer 3的日文字体包、Microsoft Global IME 5.02（日文版）、Office XP Tool: Japanese Language Pack、Windows 10的日文附加字体。
   - MS PGothic（）– 随日文版[Windows 95及以后版本](../Page/Windows_95.md "wikilink")、所有语言的[Windows XP](../Page/Windows_XP.md "wikilink")、Microsoft Office 2004附赠。
   - MS UI Gothic – Windows 98至Windows XP的默认界面字体，随日文版[Windows 98及以后版本](../Page/Windows_98.md "wikilink")、所有语言的[Windows XP附赠](../Page/Windows_XP.md "wikilink")。
-  - <span style="background-color:#90FF90;">\[F\]</span> Takao Gothic、Takao PGothic 及 Takao ExGothic（在 Ubuntu 安裝「日文支援」會安裝此等字型）
+  - <span style="background-color:#90FF90;">\[F\]</span> Takao Gothic、Takao PGothic及Takao ExGothic（在Ubuntu安裝「日文支援」會安裝此等字型）
   - <span style="background-color:#90FF90;">\[F\]</span> **[IPAex Gothic](http://ossipedia.ipa.go.jp/ipafont/index.html#en)** – 独立行政法人情报处理推进机构开发，使用IPA字体授权。
   - <span style="background-color:#90FF90;">\[F\]</span> [Mona Font](https://zh.wikipedia.org/wiki/Mona_Font "wikilink") – 附赠于多个Linux发行版的自由字体，公有领域。
   - <span style="background-color:#90FF90;">\[F\]</span>? VL Gothic（）– 起于[Vine Linux的字体](../Page/Vine_Linux.md "wikilink")。包含由M+ FONTS及Sazanami Gothic字体衍生而来的字形，由此使用两种许可条款。
@@ -147,7 +147,7 @@
 
   - <span style="background-color:#90FF90;">\[F\]</span> UnDotum（）
 
-  - AppleGothic（）– 苹果 [Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink") 9至[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 10.7及[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") 1至5.0的默认韩文字体。自OS X起完全支持Unicode。
+  - AppleGothic（）– 苹果[Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink") 9至[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 10.7及[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") 1至5.0的默认韩文字体。自OS X起完全支持Unicode。
 
   - Seoul Namsan（）- [首尔市政府的官方字体](https://zh.wikipedia.org/wiki/首尔市政府 "wikilink")。
 
@@ -159,7 +159,7 @@
 
 #### 圆体
 
-圆体是[黑体的变体](https://zh.wikipedia.org/wiki/黑體_\(字體\) "wikilink")，也称圆头体，与黑体的不同在于笔划的末端与转角呈[圆](https://zh.wikipedia.org/wiki/圓 "wikilink")[弧](../Page/弧.md "wikilink")状，而黑体则有棱角，因此圆体不但具有黑体清晰易读的优点，而且也予人较柔和的感觉。
+圆体是方體的变体，也称圆头体，与方體的不同在于笔划的末端与转角呈[圆](https://zh.wikipedia.org/wiki/圓 "wikilink")[弧](../Page/弧.md "wikilink")状，而方體则有棱角，因此圆体不但具有方體清晰易读的优点，而且也予人较柔和的感觉。
 
   - 幼圆体：北京四通制作，随Windows发行
 
@@ -176,13 +176,13 @@
 ### 中文
 
   - [標楷體](../Page/標楷體.md "wikilink")
-  - [中易楷体](https://zh.wikipedia.org/wiki/中易楷体 "wikilink") 或 楷体_GB2312
-  - [华文楷体](https://zh.wikipedia.org/wiki/华文楷体 "wikilink") (STKaiti)
-  - Kai – 附贈於 [Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink") 簡體中文版
-  - BiauKai – 附贈於 Mac OS 繁體中文版
-  - <span style="background-color:#90FF90;">\[F\]</span> **文鼎PL中楷** 及 **文鼎PL簡中楷** – 文鼎公共授權自由字体，由文鼎科技釋出，現時大部份 Linux 分發版本都有
+  - [中易楷体或楷体](https://zh.wikipedia.org/wiki/中易楷体 "wikilink")_GB2312
+  - [华文楷体](https://zh.wikipedia.org/wiki/华文楷体 "wikilink")（STKaiti）
+  - Kai – 附贈於[Mac OS簡體中文版](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")
+  - BiauKai – 附贈於Mac OS繁體中文版
+  - <span style="background-color:#90FF90;">\[F\]</span> **文鼎PL中楷** 及 **文鼎PL簡中楷** – 文鼎公共授權自由字体，由文鼎科技釋出，現時大部份Linux分發版本都有
   - <span style="background-color:#90FF90;">\[F\]</span> **文鼎PL新中楷** 及 **文鼎PL新中楷 Mono** – 文鼎公共授權自由字体，由開源社群將文鼎科技釋出之兩套自由楷書字體合併而成\[8\]
-  - <span style="background-color:#90FF90;">\[F\]</span> **[AR PL UKai](../Page/CJK_Unifonts.md "wikilink")** – 文鼎公共授權自由字体，由開源社群將文鼎科技釋出之兩套自由楷書字體合併而成，現時大部份 Linux 分發版本都有
+  - <span style="background-color:#90FF90;">\[F\]</span> **[AR PL UKai](../Page/CJK_Unifonts.md "wikilink")** – 文鼎公共授權自由字体，由開源社群將文鼎科技釋出之兩套自由楷書字體合併而成，現時大部份Linux分發版本都有
   - <span style="background-color:#90FF90;">\[F\]</span> **[I.顏體](http://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%A1%8F%E9%AB%94)** – 基于王汉宗的一款颜体字体开发，GPL授权。
   - <span style="background-color:#90FF90;">\[F\]</span> **[自由香港楷書](https://github.com/freehkfonts/freehkkai)**（Free HK Kai）– 自由香港字-{}-型专案依據香港教育局《常用字字形表》2007年重排本中的小學生常用字及修改台灣全字庫楷體而成，以[共享創意署名4.0國際授權條款釋出](https://zh.wikipedia.org/wiki/創作共用授權條款 "wikilink")。
 
@@ -355,17 +355,10 @@
 [Category:東亞字體](https://zh.wikipedia.org/wiki/Category:東亞字體 "wikilink")
 
 1.   "[Quy trình Nôm Na: *Giúp đọc Nôm và Hán Việt* và chữ Nôm trên mạng](http://www.tapchithoidai.org/ThoiDai5/200505_NhomNomNa.pdf)", *Tạp chí Nghiên cứu và Thảo luận*, 5 July 2005.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  [Author page](http://wiki.fdiary.net/font/?sazanami)  (in Japanese)
-
 7.  [Deprecated ttf-sazanami-gothic Debian package](http://packages.debian.org/wheezy/ttf-sazanami-gothic)
-
 8.

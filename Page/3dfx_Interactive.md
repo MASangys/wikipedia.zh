@@ -82,8 +82,6 @@ Voodoo是3dfx第一款纯3D加速芯片，它并非单独的显示卡，而是�
 [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink") [Category:電腦硬件公司](https://zh.wikipedia.org/wiki/Category:電腦硬件公司 "wikilink") [Category:顯示設備硬件公司](https://zh.wikipedia.org/wiki/Category:顯示設備硬件公司 "wikilink") [Category:已結業電腦公司](https://zh.wikipedia.org/wiki/Category:已結業電腦公司 "wikilink") [Category:聖荷西公司](https://zh.wikipedia.org/wiki/Category:聖荷西公司 "wikilink")
 
 1.  [NVIDIA To Acquire 3dfx Core Graphics Assets](http://www.nvidia.com/object/IO_20010612_6602.html)
-
 2.  \=<http://www.falconfly.de/identify-3dfx.htm>
-
 3.
 4.

@@ -198,7 +198,6 @@
 [Category:集英社的雜誌](https://zh.wikipedia.org/wiki/Category:集英社的雜誌 "wikilink") [Category:服裝](https://zh.wikipedia.org/wiki/Category:服裝 "wikilink") [Category:時尚雜誌](https://zh.wikipedia.org/wiki/Category:時尚雜誌 "wikilink")
 
 1.
-
 2.
 3.
 4.

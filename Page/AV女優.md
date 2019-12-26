@@ -20,7 +20,7 @@
 
 ### 從初亮相到引退
 
-AV女優通常是在一般場合被經紀人發掘，或製作公司募集。不過，製作公司的選拔和-{面}-試非常嚴格。部份製作公司會為初出道的AV女優推出[泳裝](https://zh.wikipedia.org/wiki/泳裝 "wikilink")[寫真集及](https://zh.wikipedia.org/wiki/寫真集 "wikilink")[錄影帶](https://zh.wikipedia.org/wiki/錄影帶 "wikilink")，稱為[水著女優](https://zh.wikipedia.org/wiki/水著女優 "wikilink")。提升知名度後，才會拍摄成人視訊。
+AV女優通常是在一般場合被[經紀人發掘](https://zh.wikipedia.org/wiki/經紀人 "wikilink")，或製作公司募集。不過，製作公司的選拔和-{面}-試非常嚴格。部份製作公司會為初出道的AV女優推出[泳裝](https://zh.wikipedia.org/wiki/泳裝 "wikilink")[寫真集及](https://zh.wikipedia.org/wiki/寫真集 "wikilink")[錄影帶](https://zh.wikipedia.org/wiki/錄影帶 "wikilink")，稱為[水著女優](https://zh.wikipedia.org/wiki/水著女優 "wikilink")。提升知名度後，才會拍摄成人視訊。
 
 一般AV女優的演出壽命非常短，不少轉而從事[性產業](https://zh.wikipedia.org/wiki/性產業 "wikilink")、[作家或](https://zh.wikipedia.org/wiki/作家 "wikilink")[藝人等](https://zh.wikipedia.org/wiki/藝人 "wikilink")。略受歡迎的AV女優大部分都只有2至3年的工作壽命，大部分以「家族或朋友的反對」為理由引退，而非常受歡迎的AV女優的工作壽命或許可以長達10年。持續受歡迎的AV女優的作品數量，主演作品可達约50部，含共同演出和配角演出則可高達约100部。
 
@@ -137,7 +137,7 @@ AV女優同時在演藝界活躍的包括：（主持人）[Rio](../Page/Rio_\(A
 
 通常條件：身材好、兼職性質\[8\]（簽約1～3部作品，或1個月演出1次）。
 
-企劃女優以隱藏名字，以素人為名代替，或臉部打馬賽克等方法演出。企劃演出費非常便宜。行情一般認為是10萬日元，不過現在也有越來越多低到5萬。另一方面，並沒有像推銷單體女優那種特別宣傳，所以被認識的人知道的可能性較低，也比較能以放心参演。
+企劃女優以隱藏名字，以素人為名代替，或臉部打馬賽克等方法演出。企劃k演出費非常便宜。行情一般認為是10萬日元，不過現在也有越來越多低到5萬。另一方面，並沒有像推銷單體女優那種特別宣傳，所以被認識的人知道的可能性較低，也比較能以放心参演。
 
 ### 企劃單體女優
 
@@ -321,29 +321,17 @@ AV女優同時在演藝界活躍的包括：（主持人）[Rio](../Page/Rio_\(A
 [Category:色情](https://zh.wikipedia.org/wiki/Category:色情 "wikilink") [Category:日本AV女優](https://zh.wikipedia.org/wiki/Category:日本AV女優 "wikilink")
 
 1.  日本語“”，，縮寫[AV](https://zh.wikipedia.org/wiki/AV "wikilink") 。意即[色情录像帶](../Page/色情片.md "wikilink")。
-
 2.  在[日语](../Page/日语.md "wikilink")[漢字詞彙中](https://zh.wikipedia.org/wiki/漢字詞 "wikilink")，“優”意即“演員”，引用了[中文古書以優伶一詞表示](../Page/漢字史.md "wikilink")[戲子 (演員)的意思](../Page/演員.md "wikilink")。“女優”即為“女演員”。
-
 3.  片商會建議AV女優服用[避孕藥物](https://zh.wikipedia.org/wiki/避孕藥物 "wikilink")、使用[避孕器](https://zh.wikipedia.org/wiki/避孕器 "wikilink")。另見
-
 4.  參見[硬調色情](https://zh.wikipedia.org/wiki/硬調色情 "wikilink")。
-
 5.  見[日本成人视频的分类](https://zh.wikipedia.org/wiki/成人视频制造商#販售的分類 "wikilink")
-
 6.  參見
-
 7.
 8.
 9.  在同集團內其他片商客串演出而共同發布的作品只能算在專屬片商內。6個月以上未發布新作品將被視為失去專屬（包含未發行版本和總集篇，個人精選除外），來作為沒有宣布任何消息的標準。
-
 10. [AV主要メーカー専属女優リスト](https://www.dmm.co.jp/mono/dvd/-/exclusive-actress/) - FANZA
-
 11. 由於2016年JHV跟WILL的流通部門進行了整合，兩者可被視為屬於同一個集團。
-
 12.
-
 13.
-
 14. [ワイズプロモーション](http://www.ys-promotion.jp/index.html)
-
 15. [サンプロ](http://www.sunpro.tv/)

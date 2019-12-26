@@ -68,20 +68,12 @@
 [Category:Windows即时通讯客户端](https://zh.wikipedia.org/wiki/Category:Windows即时通讯客户端 "wikilink") [Category:中国组织](https://zh.wikipedia.org/wiki/Category:中国组织 "wikilink") [Category:软件工作室](https://zh.wikipedia.org/wiki/Category:软件工作室 "wikilink") [Category:腾讯QQ](https://zh.wikipedia.org/wiki/Category:腾讯QQ "wikilink")
 
 1.  [珊瑚虫只是民事侵权而非犯罪-知识产权律师评论](http://blog.sina.com.cn/s/blog_49e5b12401000anv.html?tj=1)
-
 2.  [珊瑚虫QQ被判侵权作者赔偿腾讯十万元并道歉 - 天极网](http://soft.yesky.com/lianluo/354/3090854.shtml)
-
 3.  [珊瑚虫作者陈寿福被抓腾讯表示不知情 - 天极网](http://soft.yesky.com/info/311/7589311.shtml)
-
 4.
 5.  [替陈寿福申冤！用过珊瑚虫的进！](http://pop.pcpop.com/071007/3517502.html)
-
 6.  [腾讯QQ的快速普及离不开珊瑚虫的贡献，本是同根生，相煎何太急？－京都华人资讯网](http://www.kyotocn.com/html/33/t-26233.html)
-
 7.  [腾讯总裁刘炽平：珊瑚虫属恶意软件作者被抓与腾讯无关](http://www.cnbeta.com/articles/41172.htm) ，[CnBeta.com](https://zh.wikipedia.org/wiki/CnBeta.com "wikilink")，2007/10/16
-
 8.  [一审判决结果](http://www.coralqq.com/yspj.html)
-
 9.  [珊瑚虫QQ案终审维持原判陈寿福入狱三年](http://it.sohu.com/20081124/n260813298.shtml)
-
 10. [陈寿福谈三年后互联网再创业：不想过去只看未来](http://tech.sina.com.cn/i/2010-09-08/14214633902.shtml) ，新浪科技2010年9月8日

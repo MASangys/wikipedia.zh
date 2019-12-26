@@ -2,45 +2,45 @@
 
 Photoshop由和[约翰·诺尔](../Page/约翰·诺尔.md "wikilink")在1988年首次发布新版本。自那时起，它已经在位图成为受欢迎的标准，到这时，Photoshop已成为一个通用商标，导致它逐渐演变成俚语，如“to Photoshop an image”，“Photoshopping”和“photoshop contest”，但是Adobe建议不要这样的使用。它可以编辑和合成多个图层中的位图，支持图层遮罩、图像合成和包含RGB、CMYK、CIELAB、专色通道和双色调等多种颜色模型。PS图象处理软件对许多图形文件格式都有支持，并且它也使用自己的PSD和PSB文件格式来支持上述所有功能。除了位图之外，它还具有编辑或渲染文本、矢量图形（特别是通过剪辑路径）、3D图形和视频。Photoshop的功能可以通过Photoshop插件、独立于PS图象处理软件开发和分发的程序来扩展，这些程序可以在其内部运行并提供增强的或者是全新的功能。
 
-Photoshop的新版本最初是通过更新版本号进行发布。但是，在2002年10月，随着[Creative Suite品牌的推出](../Page/Adobe_Creative_Suite.md "wikilink")，Photoshop的每个新版本都被指定为“CS”加上一个数字; 例如，Photoshop的第八个主要版本是Photoshop CS，第九个主要版本是Photoshop CS2。Photoshop CS3到CS6也分为两种版本：标准版和扩展版。2013年6月，随着[Creative Cloud的推出](../Page/Adobe_Creative_Cloud.md "wikilink")，Photoshop的授权模式被改为软件为服务的订阅模式，而原有的“CS”后缀被替换为“CC”。这些新版本的命名方式也应用到其他的adobe系列软件中，例如：[Adobe Fireworks](../Page/Adobe_Fireworks.md "wikilink")，[Adobe Bridge](../Page/Adobe_Bridge.md "wikilink")，[Adobe Device Central和Adobe](https://zh.wikipedia.org/wiki/Adobe_Device_Central "wikilink") Camera RAW。
+Photoshop的新版本最初是通过更新版本号进行发布。但是，在2002年10月，随着[Creative Suite品牌的推出](../Page/Adobe_Creative_Suite.md "wikilink")，Photoshop的每个新版本都被指定为“CS”加上一个数字; 例如，Photoshop的第八个主要版本是Photoshop CS，第九个主要版本是Photoshop CS2。Photoshop CS3到CS6也分为两种版本：标准版和扩展版。2013年6月，随着[Creative Cloud的推出](../Page/Adobe_Creative_Cloud.md "wikilink")，Photoshop的授权模式被改为软件为服务的订阅模式，而原有的“CS”后缀被替换为“CC”。这些新版本的命名方式也应用到其他的adobe系列软件中，例如：[Adobe Fireworks](../Page/Adobe_Fireworks.md "wikilink")，[Adobe Bridge](../Page/Adobe_Bridge.md "wikilink")，[Adobe Device Central和Adobe](https://zh.wikipedia.org/wiki/Adobe_Device_Central "wikilink") Camera RAW。2019年11月正式推出iPad版本\[1\]。
 
 除Photoshop之外，Adobe还开发并发售了[Photoshop Elements](https://zh.wikipedia.org/wiki/Photoshop_Elements "wikilink")，[Photoshop Lightroom](https://zh.wikipedia.org/wiki/Photoshop_Lightroom "wikilink")，和[Photoshop Touch](https://zh.wikipedia.org/wiki/Photoshop_Touch "wikilink")。总体来说，它们被称为“Adobe Photoshop系列”。这些软件目前都是属于[专有软件](../Page/专有软件.md "wikilink")。
 
 ## 历史
 
-1987年，在[美国](../Page/美国.md "wikilink")[密歇根大学](../Page/密歇根大学.md "wikilink")就读博士研究生，他用课余时间编写了一个叫“Display”的程序，程序的功能是让黑白位图显示器显示[灰阶图像](https://zh.wikipedia.org/wiki/灰阶 "wikilink")。托馬斯的哥哥[约翰·诺尔](../Page/约翰·诺尔.md "wikilink")就职于[光影魔幻工业特效公司](https://zh.wikipedia.org/wiki/光影魔幻工业特效公司 "wikilink")，他建议弟弟托馬斯将“Display”变成一个处理数字图像的程序，于是在1988年两兄弟花了六个月时间合作完成这个项目。最初托马斯想将软件改名为“ImagePro”，但没曾想到这个名字已经被人用了\[1\]。同年晚些时候，托马斯将软件改名为“**Photoshop**”（实际上是参加展览时一位观众建议改为此名）并与一家[扫描仪公司进行了短期合作](https://zh.wikipedia.org/wiki/扫描仪 "wikilink")，用于处理[扫描仪扫描下来的图像](https://zh.wikipedia.org/wiki/扫描仪 "wikilink")。
+1987年，在[美国](../Page/美国.md "wikilink")[密歇根大学](../Page/密歇根大学.md "wikilink")就读博士研究生，他用课余时间编写了一个叫“Display”的程序，程序的功能是让黑白位图显示器显示[灰阶图像](https://zh.wikipedia.org/wiki/灰阶 "wikilink")。托馬斯的哥哥[约翰·诺尔](../Page/约翰·诺尔.md "wikilink")就职于[光影魔幻工业特效公司](https://zh.wikipedia.org/wiki/光影魔幻工业特效公司 "wikilink")，他建议弟弟托馬斯将“Display”变成一个处理数字图像的程序，于是在1988年两兄弟花了六个月时间合作完成这个项目。最初托马斯想将软件改名为“ImagePro”，但没曾想到这个名字已经被人用了\[2\]。同年晚些时候，托马斯将软件改名为“**Photoshop**”（实际上是参加展览时一位观众建议改为此名）并与一家[扫描仪公司进行了短期合作](https://zh.wikipedia.org/wiki/扫描仪 "wikilink")，用于处理[扫描仪扫描下来的图像](https://zh.wikipedia.org/wiki/扫描仪 "wikilink")。
 
-在这期间，约翰前往[硅谷](../Page/硅谷.md "wikilink")向[苹果公司的工程师以及](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[Adobe Systems艺术总监罗素](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")·布朗展示了Photoshop。两边的展示都很成功，最终在1988年9月[Adobe](../Page/Adobe.md "wikilink")决定买下Photoshop的发行权\[2\]。此时约翰在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")致力于[插件](../Page/插件.md "wikilink")开发，而托马斯仍然在[密歇根州](../Page/密歇根州.md "wikilink")[安娜堡](../Page/安娜堡.md "wikilink")编写代码。
+在这期间，约翰前往[硅谷](../Page/硅谷.md "wikilink")向[苹果公司的工程师以及](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[Adobe Systems艺术总监罗素](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")·布朗展示了Photoshop。两边的展示都很成功，最终在1988年9月[Adobe](../Page/Adobe.md "wikilink")决定买下Photoshop的发行权\[3\]。此时约翰在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")致力于[插件](../Page/插件.md "wikilink")开发，而托马斯仍然在[密歇根州](../Page/密歇根州.md "wikilink")[安娜堡](../Page/安娜堡.md "wikilink")编写代码。
 
-1990年，Photoshop 1.0版本发布，只有[苹果机系统版本](https://zh.wikipedia.org/wiki/苹果机 "wikilink")\[3\]。
+1990年，Photoshop 1.0版本发布，只有[苹果机系统版本](https://zh.wikipedia.org/wiki/苹果机 "wikilink")\[4\]。
 
-1991年，发行Photoshop 2.5版本，Photoshop正式开始支持[Windows操作系统](https://zh.wikipedia.org/wiki/Windows "wikilink")\[4\]。
+1991年，发行Photoshop 2.5版本，Photoshop正式开始支持[Windows操作系统](https://zh.wikipedia.org/wiki/Windows "wikilink")\[5\]。
 
-1995年，发行Photoshop 3.0版本，增加了图层功能\[5\]。
+1995年，发行Photoshop 3.0版本，增加了图层功能\[6\]。
 
-1998年，发行Photoshop 5.02，开始支持中文\[6\]。
+1998年，发行Photoshop 5.02，开始支持中文\[7\]。
 
-1999年2月，发行Photoshop 5.5，此版本中捆绑了一个独立的软件[ImageReady](https://zh.wikipedia.org/wiki/ImageReady "wikilink")，加强了Photoshop对网络图像（主要是[GIF](../Page/GIF.md "wikilink")图像文件）的支持功能\[7\]。
+1999年2月，发行Photoshop 5.5，此版本中捆绑了一个独立的软件[ImageReady](https://zh.wikipedia.org/wiki/ImageReady "wikilink")，加强了Photoshop对网络图像（主要是[GIF](../Page/GIF.md "wikilink")图像文件）的支持功能\[8\]。
 
-2003年9月，发行[Adobe Creative Suite套装](../Page/Adobe_Creative_Suite.md "wikilink")，将Adobe Photoshop 8更名为Adobe Photoshop CS。并增加了镜头校正、镜头模糊、智能调节亮度等功能\[8\]。
+2003年9月，发行[Adobe Creative Suite套装](../Page/Adobe_Creative_Suite.md "wikilink")，将Adobe Photoshop 8更名为Adobe Photoshop CS。并增加了镜头校正、镜头模糊、智能调节亮度等功能\[9\]。
 
-2007年4月，发行Photoshop CS3，重新设计了软件界面，并增加3D、智能滤镜、视频编辑等功能\[9\]。因对Photoshop本身功能不断加强，大部分ImageReady的功能在Photoshop CS3中已经具备，所以Photoshop CS3不再捆绑ImageReady。
+2007年4月，发行Photoshop CS3，重新设计了软件界面，并增加3D、智能滤镜、视频编辑等功能\[10\]。因对Photoshop本身功能不断加强，大部分ImageReady的功能在Photoshop CS3中已经具备，所以Photoshop CS3不再捆绑ImageReady。
 
-2008年11月，发行Photoshop CS4，开始原生支援64位元系统。在软件安裝過程中，若安裝程式检测到電腦為64位元，將會自動多出一个64位元Photoshop的安装选项\[10\]。
+2008年11月，发行Photoshop CS4，开始原生支援64位元系统。在软件安裝過程中，若安裝程式检测到電腦為64位元，將會自動多出一个64位元Photoshop的安装选项\[11\]。
 
 2010年4月，发行Photoshop CS5 , 支持Mac OS X 64位。
 
 2012年4月23日，发行Photoshop CS6，重新设计了界面，拥有新一代Adobe Mercury图形引擎以及大量改进的工具。
 
-2013年6月17日，发行Photoshop CC，提供了加强的Raw工具，以及更丰富的滤镜。并在2014年10月的Photoshop CC 2014.2更新中，新增Creative Cloud库功能，使在不同的计算机上可以使用多种应用程序查看以相同 Adobe ID 创建的资源，并支持Windows触控设备\[11\]。
+2013年6月17日，发行Photoshop CC，提供了加强的Raw工具，以及更丰富的滤镜。并在2014年10月的Photoshop CC 2014.2更新中，新增Creative Cloud库功能，使在不同的计算机上可以使用多种应用程序查看以相同 Adobe ID 创建的资源，并支持Windows触控设备\[12\]。
 
-2015年6月15日 , 发行Photoshop CC 2015，引入了Artboards功能，在单个文档中即可进行跨设备体验设计，并能够进行快速预览，更快更简单的图像导出功能，Windows下高DPI显示屏中更好的视觉体验，简化复杂3D模型设计\[12\]。
+2015年6月15日 , 发行Photoshop CC 2015，引入了Artboards功能，在单个文档中即可进行跨设备体验设计，并能够进行快速预览，更快更简单的图像导出功能，Windows下高DPI显示屏中更好的视觉体验，简化复杂3D模型设计\[13\]。
 
 2016年11月2日 , 发行Photoshop CC 2017。
 
 2017年10月18日 , 发行Photoshop CC 2018。
 
-Photoshop被人们认为是最好的图像处理软件，但与著名的[3D Studio Max一样](https://zh.wikipedia.org/wiki/3D_Studio_Max "wikilink")，昂贵的价格使其难以普及。但Adobe为了向中国大陆推广，在2011年推出了“校园先锋计划”，价格大幅降低，比如原价7707元人民幣的Adobe Photoshop CS5 Extended在此计划中只卖349元人民幣。不过此计划只面向大学生与高校教师\[13\]\[14\]。
+Photoshop被人们认为是最好的图像处理软件，但与著名的[3D Studio Max一样](https://zh.wikipedia.org/wiki/3D_Studio_Max "wikilink")，昂贵的价格使其难以普及。但Adobe为了向中国大陆推广，在2011年推出了“校园先锋计划”，价格大幅降低，比如原价7707元人民幣的Adobe Photoshop CS5 Extended在此计划中只卖349元人民幣。不过此计划只面向大学生与高校教师\[14\]\[15\]。
 
 ## Photoshop支持的图片文件格式
 
@@ -187,7 +187,7 @@ Photoshop CC目前提供以下语言版本：
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><small>Windows, IRIX, Solaris [15]</small></p></td>
+<td><p><small>Windows, IRIX, Solaris [16]</small></p></td>
 <td></td>
 <td><p><small>1994年11月</small></p></td>
 <td></td>
@@ -274,7 +274,7 @@ Photoshop CC目前提供以下语言版本：
 <li>顏色匹配命令</li>
 <li>"鏡頭模糊"濾鏡</li>
 <li>實時柱狀圖</li>
-<li>Detection and refusal to print scanned images of various <a href="https://zh.wikipedia.org/wiki/banknote" title="wikilink">banknotes</a>[16]</li>
+<li>Detection and refusal to print scanned images of various <a href="https://zh.wikipedia.org/wiki/banknote" title="wikilink">banknotes</a>[17]</li>
 <li>使用<a href="https://zh.wikipedia.org/wiki/Safecast" title="wikilink">Safecast的</a><a href="https://zh.wikipedia.org/wiki/Digital_Rights_Management" title="wikilink">DRM複製保護技術</a></li>
 <li>支援<a href="../Page/JavaScript.md" title="wikilink">JavaScript</a>腳本語言及其他語言</li>
 </ul></td>
@@ -366,7 +366,7 @@ Photoshop CC目前提供以下语言版本：
 <li>媒体管理</li>
 <li>跨平台性能</li>
 <li>3D突出</li>
-<li>高效工作流程[17]</li>
+<li>高效工作流程[18]</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -510,16 +510,6 @@ Photoshop CC目前提供以下语言版本：
   - [Affinity Designer](../Page/Affinity_Designer.md "wikilink")
   - [Adobe Experience Design](../Page/Adobe_Experience_Design.md "wikilink")
 
-## 工作變遷
-
-|                               |
-| ----------------------------- |
-| 星期一至日 6:10-6:30/21:30-21:45項目 |
-| (2019-09-29 – 2019-10-28)     |
-| Photoshop CS6 試用版             |
-| 上一則                           |
-| Abobe Photoshop CS6試用版        |
-
 ## 参考文献
 
 ## 外部連結
@@ -537,29 +527,21 @@ Photoshop CC目前提供以下语言版本：
 
 [Category:位图编辑软件](https://zh.wikipedia.org/wiki/Category:位图编辑软件 "wikilink") [Category:Adobe软件](https://zh.wikipedia.org/wiki/Category:Adobe软件 "wikilink") [Category:图像软件](https://zh.wikipedia.org/wiki/Category:图像软件 "wikilink") [Category:Adobe_Photoshop](https://zh.wikipedia.org/wiki/Category:Adobe_Photoshop "wikilink")
 
-1.
-
+1.  [App Store 預覽](https://apps.apple.com/tw/app/adobe-photoshop/id1457771281)
 2.
 3.
-
 4.
 5.
 6.
 7.
 8.
 9.
-10. [PhotoShop CS4将支持原生64位运算](http://news.mydrivers.com/1/102/102844.htm)
-
-11.
-
-12. [Adobe Creative Cloud 2015设计套件全线更新发布](http://www.lovehhy.net/News/View/406372)
-
-13.
-
+10.
+11. [PhotoShop CS4将支持原生64位运算](http://news.mydrivers.com/1/102/102844.htm)
+12.
+13. [Adobe Creative Cloud 2015设计套件全线更新发布](http://www.lovehhy.net/News/View/406372)
 14.
-
-15. [1999: SUMMARY: Solaris-Adobe Products (a little long)](http://www.sunmanagers.org/archives/1999/0973.html)
-
-16. [Photoshop and CDS](http://www.adobe.com/products/photoshop/cds.html)
-
-17. [Photoshop CS5 Extended的新增功能](http://www.adobe.com/cn/products/photoshop/photoshopextended/whatsnew/index.html?segment=design)
+15.
+16. [1999: SUMMARY: Solaris-Adobe Products (a little long)](http://www.sunmanagers.org/archives/1999/0973.html)
+17. [Photoshop and CDS](http://www.adobe.com/products/photoshop/cds.html)
+18. [Photoshop CS5 Extended的新增功能](http://www.adobe.com/cn/products/photoshop/photoshopextended/whatsnew/index.html?segment=design)

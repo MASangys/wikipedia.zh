@@ -2,7 +2,7 @@
 
 托爾金曾於1925年至1945年間，在[牛津大學](https://zh.wikipedia.org/wiki/牛津大學 "wikilink")[彭布罗克学院擔任](../Page/牛津大学彭布罗克学院.md "wikilink")[盎格魯-撒克遜語的](https://zh.wikipedia.org/wiki/古英語 "wikilink")，並於1945年至1959年間轉至[牛津大學默頓學院任](https://zh.wikipedia.org/wiki/牛津大學默頓學院 "wikilink")[英國語言與](https://zh.wikipedia.org/wiki/英語 "wikilink")[文學的](../Page/英國文學.md "wikilink")[默顿教授](../Page/默顿教授.md "wikilink")\[1\]。他是[C·S·路易斯](../Page/C·S·路易斯.md "wikilink")的密友——兩人皆為非正式文學讨论社「[迹象](../Page/迹象文学社.md "wikilink")」的社員。1972年3月28日，托爾金獲英國女王[伊莉莎白二世頒授的](https://zh.wikipedia.org/wiki/伊莉莎白二世 "wikilink")[大英帝國司令勳章](../Page/大英帝國勳章.md "wikilink")。
 
-托尔金的儿子[克里斯托夫在父亲去世后](../Page/克里斯托夫·托爾金.md "wikilink")，整理了大量的笔记和未发表的手稿，出版了一系列作品，包括《[精灵宝钻](https://zh.wikipedia.org/wiki/精灵宝钻 "wikilink")》、《[未完成的故事](../Page/未完成的故事.md "wikilink")》、《》等。这些作品与《[霍比特人](https://zh.wikipedia.org/wiki/霍比特人 "wikilink")》和《[魔戒](../Page/魔戒.md "wikilink")》一起构成了有联系的共同体，由传说、诗歌、虚构历史、人造语言和短文所组成，关于一个名叫[阿尔达](https://zh.wikipedia.org/wiki/阿尔达 "wikilink")（及其中的[中土大陆](https://zh.wikipedia.org/wiki/中土大陆 "wikilink")）的奇幻世界。1951至1955年间，托尔金用“[传说故事集](https://zh.wikipedia.org/wiki/托爾金的傳說故事集 "wikilink")”（）一词来称呼大部分作品。\[2\]尽管在他之前有很多其他作者的奇幻作品问世\[3\]，但《[霍比特人](https://zh.wikipedia.org/wiki/霍比特人 "wikilink")》和《[魔戒](../Page/魔戒.md "wikilink")》的巨大成功造成了该文学类型的流行与复兴。因此托尔金被大众公认为“现代奇幻文学之父”\[4\]\[5\]——或更准确地说，是对于[古典奇幻](../Page/古典奇幻.md "wikilink")。\[6\]
+托尔金的儿子[克里斯托夫在父亲去世后](../Page/克里斯托夫·托爾金.md "wikilink")，整理了大量的笔记和未发表的手稿，出版了一系列作品，包括《[精灵宝钻](https://zh.wikipedia.org/wiki/精灵宝钻 "wikilink")》、《[未完成的故事](../Page/未完成的故事.md "wikilink")》、《[胡林的子女](https://zh.wikipedia.org/wiki/胡林的子女 "wikilink")》等。这些作品与《[霍比特人](https://zh.wikipedia.org/wiki/霍比特人 "wikilink")》和《[魔戒](../Page/魔戒.md "wikilink")》一起构成了有联系的共同体，由传说、诗歌、虚构历史、人造语言和短文所组成，关于一个名叫[阿尔达](https://zh.wikipedia.org/wiki/阿尔达 "wikilink")（及其中的[中土大陆](https://zh.wikipedia.org/wiki/中土大陆 "wikilink")）的奇幻世界。1951至1955年间，托尔金用“[传说故事集](https://zh.wikipedia.org/wiki/托爾金的傳說故事集 "wikilink")”（）一词来称呼大部分作品。\[2\]尽管在他之前有很多其他作者的奇幻作品问世\[3\]，但《[霍比特人](https://zh.wikipedia.org/wiki/霍比特人 "wikilink")》和《[魔戒](../Page/魔戒.md "wikilink")》的巨大成功造成了该文学类型的流行与复兴。因此托尔金被大众公认为“现代奇幻文学之父”\[4\]\[5\]——或更准确地说，是对于[古典奇幻](../Page/古典奇幻.md "wikilink")。\[6\]
 
 2008年，《[泰晤士报](../Page/泰晤士报.md "wikilink")》把他列为“1945年后50位最伟大的英国作家”榜单上的第6名。\[7\] 2009年，他在《[福布斯](../Page/福布斯.md "wikilink")》收入最高的“已故名人”榜单中列第5名。\[8\]
 
@@ -220,7 +220,7 @@
   - 1982年 《[幸福先生](../Page/幸福先生.md "wikilink")》（Mr. Bliss）（\* 中文繁體版，2013年12月，台灣[聯經出版](../Page/聯經出版.md "wikilink")公司出版 [ISBN：9789570843040](https://www.linkingbooks.com.tw/LNB/book/Book.aspx?ID=1100549)）
   - 1983年 The Monsters and the Critics
   - 1998年 《[羅佛蘭登](../Page/羅佛蘭登.md "wikilink")》（Roverandom）
-  - 2007年 《》（The Children of Hurin）\[138\]（\* 中文繁體版，2008年5月，台灣[聯經出版](../Page/聯經出版.md "wikilink")公司出版 [ISBN：9789570832662](https://www.linkingbooks.com.tw/LNB/book/Book.aspx?ID=187019)）
+  - 2007年 《[胡林的子女](https://zh.wikipedia.org/wiki/胡林的子女 "wikilink")》（The Children of Hurin）\[138\]（\* 中文繁體版，2008年5月，台灣[聯經出版](../Page/聯經出版.md "wikilink")公司出版 [ISBN：9789570832662](https://www.linkingbooks.com.tw/LNB/book/Book.aspx?ID=187019)）
   - 2017年《[貝倫與露西安](../Page/貝倫與露西安.md "wikilink")》（Beren and Luthien）\[139\]\[140\]
   - 2018年《[貢多林的陷落](../Page/貢多林的陷落.md "wikilink")》（The Fall of Gondolin），將於八月出版\[141\]\[142\]\[143\]\[144\]
 
@@ -279,7 +279,7 @@
 
   - [The Tolkien Estate Website](https://web.archive.org/web/20150316141435/http://www.tolkienestate.com/home/)
 
-  - [Journal of Inklings Studies](http://www.inklings-studies.com/) 牛津上经过[同行评审的关于托尔金及奇幻与神话文学界的文章](https://zh.wikipedia.org/wiki/同行评审 "wikilink")
+  - [Journal of Inklings Studies](https://web.archive.org/web/20120317113722/http://www.inklings-studies.com/) 牛津上经过[同行评审的关于托尔金及奇幻与神话文学界的文章](https://zh.wikipedia.org/wiki/同行评审 "wikilink")
 
   - [Arda百科 - 马克菲舍尔的礼品站 托尔金作品](http://www.glyphweb.com/arda/default.htm)
 
@@ -296,160 +296,87 @@
   -
   -
   -
-[Category:J·R·R·托爾金](https://zh.wikipedia.org/wiki/Category:J·R·R·托爾金 "wikilink") [Category:牛津大学埃克塞特学院校友](https://zh.wikipedia.org/wiki/Category:牛津大学埃克塞特学院校友 "wikilink") [Category:英国作家](https://zh.wikipedia.org/wiki/Category:英国作家 "wikilink") [Category:20世纪作家](https://zh.wikipedia.org/wiki/Category:20世纪作家 "wikilink") [Category:英格兰儿童文学作家](https://zh.wikipedia.org/wiki/Category:英格兰儿童文学作家 "wikilink") [Category:罗马天主教作家](https://zh.wikipedia.org/wiki/Category:罗马天主教作家 "wikilink") [Category:CBE勳銜](https://zh.wikipedia.org/wiki/Category:CBE勳銜 "wikilink") [Category:牛津大学教授](https://zh.wikipedia.org/wiki/Category:牛津大学教授 "wikilink") [Category:牛津大学荣誉博士](https://zh.wikipedia.org/wiki/Category:牛津大学荣誉博士 "wikilink") [Category:語言創造者](https://zh.wikipedia.org/wiki/Category:語言創造者 "wikilink") [Category:文字發明者](https://zh.wikipedia.org/wiki/Category:文字發明者 "wikilink") [Category:英國天主教徒](https://zh.wikipedia.org/wiki/Category:英國天主教徒 "wikilink") [Category:德國裔英格蘭人](https://zh.wikipedia.org/wiki/Category:德國裔英格蘭人 "wikilink") [Category:英國第一次世界大戰人物](https://zh.wikipedia.org/wiki/Category:英國第一次世界大戰人物 "wikilink") [Category:英国语言学家](https://zh.wikipedia.org/wiki/Category:英国语言学家 "wikilink") [Category:皇家文学学会院士](https://zh.wikipedia.org/wiki/Category:皇家文学学会院士 "wikilink") [Category:利兹大学教师](https://zh.wikipedia.org/wiki/Category:利兹大学教师 "wikilink") [Category:英国奇幻小说家](https://zh.wikipedia.org/wiki/Category:英国奇幻小说家 "wikilink")
+[Category:J·R·R·托爾金](https://zh.wikipedia.org/wiki/Category:J·R·R·托爾金 "wikilink") [Category:牛津大学埃克塞特学院校友](https://zh.wikipedia.org/wiki/Category:牛津大学埃克塞特学院校友 "wikilink") [Category:英国作家](https://zh.wikipedia.org/wiki/Category:英国作家 "wikilink") [Category:20世纪作家](https://zh.wikipedia.org/wiki/Category:20世纪作家 "wikilink") [Category:英格兰儿童文学作家](https://zh.wikipedia.org/wiki/Category:英格兰儿童文学作家 "wikilink") [Category:罗马天主教作家](https://zh.wikipedia.org/wiki/Category:罗马天主教作家 "wikilink") [Category:CBE勳銜](https://zh.wikipedia.org/wiki/Category:CBE勳銜 "wikilink") [Category:牛津大学教授](https://zh.wikipedia.org/wiki/Category:牛津大学教授 "wikilink") [Category:牛津大学荣誉博士](https://zh.wikipedia.org/wiki/Category:牛津大学荣誉博士 "wikilink") [Category:語言創造者](https://zh.wikipedia.org/wiki/Category:語言創造者 "wikilink") [Category:文字發明者](https://zh.wikipedia.org/wiki/Category:文字發明者 "wikilink") [Category:英國天主教徒](https://zh.wikipedia.org/wiki/Category:英國天主教徒 "wikilink") [Category:德國裔英格蘭人](https://zh.wikipedia.org/wiki/Category:德國裔英格蘭人 "wikilink") [Category:英國第一次世界大戰人物](https://zh.wikipedia.org/wiki/Category:英國第一次世界大戰人物 "wikilink") [Category:英国语言学家](https://zh.wikipedia.org/wiki/Category:英国语言学家 "wikilink") [Category:皇家文学学会院士](https://zh.wikipedia.org/wiki/Category:皇家文学学会院士 "wikilink") [Category:利兹大学教师](https://zh.wikipedia.org/wiki/Category:利兹大学教师 "wikilink") [Category:英国奇幻小说家](https://zh.wikipedia.org/wiki/Category:英国奇幻小说家 "wikilink") [Category:英国无政府主义者](https://zh.wikipedia.org/wiki/Category:英国无政府主义者 "wikilink")
 
 1.  *Biography*, pp. 111, 200, 266.
-
 2.  *Letters*, nos. 131, 153, 154, 163.
-
 3.   作者强调这影响不仅来自托尔金，也来自[威廉·莫里斯](../Page/威廉·莫里斯.md "wikilink")、[喬治·麥克唐納](../Page/喬治·麥克唐納.md "wikilink")、[罗伯特·欧文·霍华德](../Page/罗伯特·欧文·霍华德.md "wikilink")和[艾立克·洛克·艾丁生](../Page/艾立克·洛克·艾丁生.md "wikilink").
-
 4.
-
 5.  The *Oxford companion to English Literature* calls him "*the greatest influence within the fantasy genre*. (Sixth edition, 2000, page 352. Ed. Margaret Drabble.)
-
 6.
-
 7.
-
 8.
-
 9.  *Letters*, no. 165.
-
 10.  Tolkien jokingly inserted himself as a "cameo" into ** under the name Rashbold, a literal translation of *tollkühn*.
-
 11.
-
 12.
-
 13. Georg Gerullis: *Die altpreußischen Ortsnamen*, o.v., Berlin/Leipzig 1922, p. 184.
-
 14. Max Mechow: *Deutsche Familiennamen prussischer Herkunft*, Tolkemita, Dieburg 1994, S. 99.
-
 15. *Biography*, p. 14.
-
 16. *Biography*, p. 13. Both the spider incident and the visit to a kraal are covered here.
-
 17. *Biography*, p. 24.
-
 18. *Biography*, p. 27.
-
 19. *Biography*, p. 113.
-
 20. *Biography*, p. 29.
-
 21.
-
 22. *Biography*, p. 22.
-
 23. *Biography*, p. 30.
-
 24. Carpenter, *Biography*, pages 24–51.
-
 25. *Biography*, p. 31.
-
 26. [Find A Grave](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=10841494) Retrieved on 25 December 2012.
-
 27. Carpenter, *Biography*, page 31.
-
 28. Carpenter, *Letters of J.R.R. Tolkien*, letter 267.
-
 29. *Letters*, no. 306.
-
 30. [J.R.R. Tolkien](http://www.birminghamheritage.org.uk/tolkien.html), Birmingham Heritage Forum. Retrieved on 27 April 2009.
-
 31. [J. R. R. Tolkien](http://www.birmingham.gov.uk/tolkien), Archives and Heritage Service, Birmingham City Council. Updated 7 January 2009. Retrieved on 28 April 2009.
-
 32. Saler, Michael T. (2012) *As If: Modern Enchantment and the Literary Pre-History of Virtual Reality*, Oxford University Press, ISBN 978-0-19-534316-8, page 181
-
 33. [Tolkien's Not-So-Secret Vice](http://folk.uib.no/hnohf/vice.htm)
-
 34. [Tolkien's Languages | The Tongues of Middle-Earth](https://web.archive.org/web/20131224110153/http://lordfingulfin.webs.com/earlierlanguages.htm)
-
 35. *Biography*, pp. 53–54.
-
 36. *Tolkien and the Great War*, page 6.
-
 37. Reference RG14PN17925 RG78PN1093 RD383 SD3 ED15 SN118.
-
 38.
 39. [dab](http://maps.google.de/maps/user?uid=112792823367225913506&hl=de&gl=de) , [Roots of Romance](http://maps.google.de/maps/ms?ie=UTF8&hl=de&om=1&msa=0&msid=108471754903242205397.00000112a38e113bc84bd&ll=46.363988,8.055725&spn=0.843415,1.683655&t=k&z=9) (zoomed in on 1911 trail), hosted on [Google Maps](https://zh.wikipedia.org/wiki/Google_Maps "wikilink"). Retrieved 28 April 2009.
-
 40.
-
 41.
-
 42. *Biography*, p. 43.
-
 43. *Biography*, pp. 67–69.
-
 44. *Biography*, p. 73.
-
 45. *Biography*, p. 86.
-
 46. *Biography*, pp. 77–85.
-
 47. *Tolkien and the Great War*, page 94.
-
 48. Garth, John. *Tolkien and the Great War*, Boston, Houghton Mifflin 2003, pp. 89, 138, 147.
-
 49. Quoted in John Garth, *Tolkien and the Great War*, p. 138.
-
 50. *Biography*, p. 93.
-
 51. Carpenter, Humphrey. J.R.R. Tolkien A Biography. Houghton Mifflin, 1977. Print.
-
 52. Garth, John. *Tolkien and the Great War*, Boston, Houghton Mifflin 2003, pp. 207 *et seq.*
-
 53. Tolkien's [Webley .455](https://zh.wikipedia.org/wiki/Webley_.455 "wikilink") service revolver was put on display in 2006 as part of a [Battle of the Somme](https://zh.wikipedia.org/wiki/Battle_of_the_Somme "wikilink") exhibition in the [Imperial War Museum](https://zh.wikipedia.org/wiki/Imperial_War_Museum "wikilink"), London. (See  and ) Several of his service records, mostly dealing with his health problems, can be seen at the National Archives. ()
-
 54.
-
 55.
-
 56.
-
 57. See *The Name Nodens* (1932) in the bibliographical listing. For the etymology, see [Nodens\#Etymology](https://zh.wikipedia.org/wiki/Nodens#Etymology "wikilink").
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
 66.
-
 67. *Biography*, p. 143.
-
 68.
-
 69. Tolkien: **. Chiefly, p.4 in the Introduction by .
-
 70. Tolkien: *Finn and Hengest*, the discussion of *Eotena*, *passim*.
-
 71.
-
 72. "The Data File: 'New' Tolkien Book," [Locus](https://zh.wikipedia.org/wiki/Locus "wikilink"), February 2003, p.85.
-
 73. *Letters*, no. 35 (see also editorial note).
-
 74.
-
 75.
 76.
 77.
 78.
 79.
-
 80.
 81.
 82.
@@ -457,148 +384,79 @@
 84.
 85.
 86.
-
 87.
-
 88. Rogerson, John. *The Oxford Illustrated History of the Bible*, 2001.
-
 89. J. R. R. Tolkien,  (1976)
-
 90.
-
 91.
-
 92.
 93.
-
 94. *Letters*, no. 336.
-
 95. *Letters*, no. 332.
-
 96. *Letters*, no. 334 (editorial note).
-
 97.
 98.
-
 99.
-
 100.
 101.
-
 102.
-
 103.
-
 104.
-
 105.
 106.
-
 107.
 108. *Letters*, no. 1.
-
 109. *Letters*, no. 226.
-
 110. Anderson, Douglas A. *The Annotated Hobbit*, Boston, Houghton Mifflin 1988, p. 183, note 10.
-
 111. Anderson, Douglas A. *The Annotated Hobbit*, Boston, Houghton Mifflin 1988, pp. 6–7.
-
 112.
-
 113.
-
 114.
-
 115.
-
 116. Anderson, Douglas A. *The Annotated Hobbit*, Boston, Houghton Mifflin 1988, p. 150.
-
 117. Lobdell, Jared C. *The World of the Rings: Language, Religion, and Adventure in Tolkien*, pp. 6–7.
-
 118. As described by Christopher Tolkien in *Hervarar Saga ok Heidreks Konung* (Oxford University, Trinity College). B. Litt. thesis. 1953/4. \[Year uncertain\], *The Battle of the Goths and the Huns*, in: Saga-Book (University College, London, for the Viking Society for Northern Research) 14, part 3 (1955–6) [1](http://www.tolkiensociety.org/tolkien/bibl4.html)
-
 119.
-
 120. Alex Ross, ["The Ring and The Rings: Wagner vs. Tolkien"](http://www.newyorker.com/archive/2003/12/22/031222crat_atlarge), *The New Yorker*, 22 December 2003. Retrieved on 2 December 2011.
-
 121. , [The 'Ring' and the remnants of the West](http://www.atimes.com/atimes/Front_Page/EA11Aa02.html), *Asia Times*, 11 January 2003. Retrieved on 27 April 2009.
-
 122. Spengler, [Tolkien's Christianity and the pagan tragedy](http://www.atimes.com/atimes/Front_Page/ID24Aa01.html), *Asia Times*, 11 January 2003. Retrieved on 27 April 2009.
-
 123. [Tolkien's Ring and Der Ring des Nibelungen](http://tolkienonline.de/etep/1ring5.html), Chapter 5 in Harvey, David (1995). *[One Ring to Rule them All](http://tolkienonline.de/etep/ring_toc.html)*. Updated 20 October 1995. Retrieved on 27 April 2009.
-
 124.
-
 125.
-
 126.
-
 127.
 128.
-
 129.
-
 130.
-
 131. *Road*, pp. 141–145.
-
 132.
-
 133. Winchester, Simon (2003). *The Meaning of Everything: The Story of the Oxford English Dictionary.* Oxford University Press. ISBN 978-0-9654996-3-7
-
 134. (Letter dated 27 June 1925 to the Electors of the Rawlinson and Bosworth Professorship of Anglo-Saxon, University of Oxford,
-
 135.
-
 136.
-
 137.
-
 138.
-
 139.
-
 140.
-
 141.
-
 142.
-
 143.
-
 144.
-
 145.
-
 146.
-
 147.
-
 148.
-
 149.
-
 150.
-
 151.
-
 152.
-
 153. [朱學恆](https://zh.wikipedia.org/wiki/朱學恆 "wikilink")〈旅程開始之前〉（源自：）
-
 154.
 155.
-
 156.
-
 157.
-
 158.
-
 159.
-
 160.
-
 161.
-
 162.

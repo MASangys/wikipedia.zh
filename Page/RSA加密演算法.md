@@ -121,13 +121,16 @@ RSA-768表示如下：
 
 ### 时间攻击
 
-1995年有人提出了一种非常意想不到的攻击方式：假如Eve对Alice的硬件有充分的了解，而且知道它对一些特定的消息加密时所需要的时间的话，那么她可以很快地推导出*d*。這種攻擊方式之所以會成立，主要是因為在進行加密時所進行的模指數運算是一個位元一個位元進行的，而位元為1所花的運算比位元為0的運算要多很多，因此若能得到多組訊息與其加密時間，就會有機會可以反推出私鑰的內容。\[10\]
+1995年有人提出了一种非常意想不到的攻击方式：假如[Eve](../Page/愛麗絲與鮑伯.md "wikilink")（竊密者）对[Alice的硬件有充分的了解](../Page/愛麗絲與鮑伯.md "wikilink")，而且知道它对一些特定的消息加密时所需要的时间的话，那么她可以很快地推导出*d*。這種攻擊方式之所以會成立，主要是因為在進行加密時所進行的模指數運算是一個位元一個位元進行的，而位元為1所花的運算比位元為0的運算要多很多，因此若能得到多組訊息與其加密時間，就會有機會可以反推出私鑰的內容。\[10\]
 
 ## 相關條目
 
   - [公开密钥加密](../Page/公开密钥加密.md "wikilink")
   - [量子電腦](https://zh.wikipedia.org/wiki/量子電腦 "wikilink")
   - [秀爾演算法](../Page/秀爾演算法.md "wikilink")
+  - [Miller-Rabin 质数测试](https://zh.wikipedia.org/wiki/Miller-Rabin_质数测试 "wikilink")
+  - [快速幂](https://zh.wikipedia.org/wiki/快速幂 "wikilink")
+  - [扩展欧几里得算法](../Page/扩展欧几里得算法.md "wikilink")
 
 ## 参考文献
 
@@ -136,7 +139,7 @@ RSA-768表示如下：
   - [RSA, The Security Division of EMC](http://www.rsasecurity.com)
   - [RSA算法详解](http://www.guideep.com/read?guide=5676830073815040)
 
-[Category:密码学](https://zh.wikipedia.org/wiki/Category:密码学 "wikilink") [Category:算法](https://zh.wikipedia.org/wiki/Category:算法 "wikilink")
+[Category:密码学](https://zh.wikipedia.org/wiki/Category:密码学 "wikilink") [Category:算法](https://zh.wikipedia.org/wiki/Category:算法 "wikilink") [Category:数字签名方案](https://zh.wikipedia.org/wiki/Category:数字签名方案 "wikilink")
 
 1.
 2.

@@ -122,7 +122,7 @@ iTunes 6介紹了對[視訊播客的支持](https://zh.wikipedia.org/wiki/視訊
 
 ### 同步iPod與其它播放器
 
-每當一個iPod與它相連時，iTunes會自動的[同步它的音樂與影片庫](https://zh.wikipedia.org/wiki/同步 "wikilink")（OS X版本的iTunes可以同步幾種不同的[數字音頻播放器](https://zh.wikipedia.org/wiki/數字音頻播放器 "wikilink")[2](http://docs.info.apple.com/article.html?artnum=93548)；Windows版本的iTunes只支持iPod[3](http://docs.info.apple.com/article.html?artnum=93377)）。新的曲目與播放列表被自動的複製到iPod上，電腦曲庫裡刪除了的曲目也會在iPod中被刪除。iPod中對曲目的評價將被反饋到iTunes曲庫裡，[有聲書](../Page/有聲書.md "wikilink")將記住最後一次播放的位置。
+每當一個iPod與它相連時，iTunes會自動的[同步它的音樂與影片庫](https://zh.wikipedia.org/wiki/同步 "wikilink")（OS X版本的iTunes可以同步幾種不同的[數字音頻播放器](https://zh.wikipedia.org/wiki/數字音頻播放器 "wikilink")[2](https://web.archive.org/web/20060420133112/http://docs.info.apple.com/article.html?artnum=93548)；Windows版本的iTunes只支持iPod[3](https://web.archive.org/web/20080109181921/http://docs.info.apple.com/article.html?artnum=93377)）。新的曲目與播放列表被自動的複製到iPod上，電腦曲庫裡刪除了的曲目也會在iPod中被刪除。iPod中對曲目的評價將被反饋到iTunes曲庫裡，[有聲書](../Page/有聲書.md "wikilink")將記住最後一次播放的位置。
 
 自動同步可以關閉，以便手動複製單獨的曲目或完整的播放列表；然而，iTunes只可以把音樂複製到iPod上卻不可以反向進行，這啟發了第三方軟件支持把音樂從iPod中複製出來。通過一些軟件，在[Unix命令行也可以做這一工作](https://zh.wikipedia.org/wiki/Unix "wikilink")。
 

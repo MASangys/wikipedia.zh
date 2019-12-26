@@ -223,7 +223,6 @@
 [Category:AMD處理器列表](https://zh.wikipedia.org/wiki/Category:AMD處理器列表 "wikilink") [Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink")
 
 1.  [AMD Turion X2/Turion X2 Ultra](http://www.amd.com/uk/products/notebook/processors/turion-x2/Pages/turion-x2-ultra-model-numbers.aspx)
-
 2.
 3.
 4.
@@ -237,7 +236,5 @@
 12.
 13.
 14. [AMD Athlon Neo X2](http://www.amd.com/us/Documents/43838F_ECSD_selection_guide.pdf)
-
 15. [AMD Athlon Neo X2](http://forums.amd.com/forum/messageview.cfm?catid=34&threadid=116940)
-
 16.

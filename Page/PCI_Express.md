@@ -252,31 +252,18 @@ PCI Express連接器引腳（×1，×4，×8，×16的變體）
 [Category:计算机总线](https://zh.wikipedia.org/wiki/Category:计算机总线 "wikilink") [Category:主板](https://zh.wikipedia.org/wiki/Category:主板 "wikilink") [Category:串行总线](https://zh.wikipedia.org/wiki/Category:串行总线 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
-
 8.
-
 9.  <https://www.tomshardware.com/news/pci-sig-releases-final-pcie-5-spec,39521.html>
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16. <https://www.dell.com/support/article/us/en/04/sln301626/how-to-distinguish-the-differences-between-m2-cards?lang=en>

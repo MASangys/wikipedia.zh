@@ -58,9 +58,9 @@
 
   - （含、）2,892家
 
-      - 7-Eleven（[牛奶公司](https://zh.wikipedia.org/wiki/牛奶國際有限公司 "wikilink")）933家
+      - 7-Eleven（[牛奶公司](https://zh.wikipedia.org/wiki/牛奶國際有限公司 "wikilink")）959家
 
-      - 7-Eleven（[牛奶公司](https://zh.wikipedia.org/wiki/牛奶國際有限公司 "wikilink")）47家
+      - 7-Eleven（[牛奶公司](https://zh.wikipedia.org/wiki/牛奶國際有限公司 "wikilink")）51家
 
   - 7-Eleven（[成功零售有限公司](https://zh.wikipedia.org/wiki/成功零售有限公司 "wikilink")（Berjaya Retail Bhd）持有57%股份7-11大马控股）2,311家
 
@@ -68,11 +68,11 @@
 
   - 170家
 
-  - 7-Eleven（[牛奶公司](https://zh.wikipedia.org/wiki/牛奶國際有限公司 "wikilink")）398家
+  - 7-Eleven（[牛奶公司](https://zh.wikipedia.org/wiki/牛奶國際有限公司 "wikilink")）393家
 
-  - 7-Eleven（[統一超商](https://zh.wikipedia.org/wiki/統一超商股份有限公司 "wikilink")）5,443家\[5\]
+  - 7-Eleven（[統一超商](https://zh.wikipedia.org/wiki/統一超商股份有限公司 "wikilink")）5,443家\[5\]（2018年營業額1534.12億新臺幣）
 
-  - 7-Eleven（[統一超商持股](https://zh.wikipedia.org/wiki/統一超商股份有限公司 "wikilink")51.56％）2,593家
+  - 7-Eleven（[統一超商持股](https://zh.wikipedia.org/wiki/統一超商股份有限公司 "wikilink")51.56％）2,593家（2018年營業額261億新臺幣，利潤8.8706億新臺幣）
 
   - 696家
 
@@ -101,7 +101,7 @@
 
 ### 7-11 Day
 
-每年的7月11日為「7-11 Day」，據信此傳統為[臺灣](../Page/臺灣.md "wikilink")7-Eleven所創，最早的目的是希望後勤單位不要忘記第一線門市店作業的辛苦，因此選定每年的此日，所有臺灣7-Eleven後勤單位人員包含所有高級主管，都要到門市上班一天，因此又稱並肩工作日，後來其他[國家陸續仿效](https://zh.wikipedia.org/wiki/國家 "wikilink")，但其目的不一，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")7-11 Day定位在慶祝的角色，每年此日全美國7-Eleven均會提供免費的[思樂冰](../Page/思樂冰.md "wikilink")，[日本](../Page/日本.md "wikilink")的7-11 Day有兩天，除了7月11日外還有11月7日，在這天全[日本](../Page/日本.md "wikilink")的7-Eleven均會清理門市店的周邊巷道，這項工作目前也被[臺灣](../Page/臺灣.md "wikilink")列入7-11 Day的工作項目之一 。\[6\]
+每年的7月11日為「7-11 Day」，此傳統為[臺灣](../Page/臺灣.md "wikilink")7-Eleven所創。最早的目的是希望後勤單位不要忘記第一線門市店作業的辛苦，因此選定每年的此日，所有臺灣7-Eleven後勤單位人員包含所有高級主管，都要到門市上班一天，因此又稱並肩工作日，後來其他[國家陸續仿效](https://zh.wikipedia.org/wiki/國家 "wikilink")，但其目的不一，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")7-11 Day定位在慶祝的角色，每年此日全美國7-Eleven均會提供免費的[思樂冰](../Page/思樂冰.md "wikilink")，[日本](../Page/日本.md "wikilink")的7-11 Day有兩天，除了7月11日外還有11月7日，在這天全[日本](../Page/日本.md "wikilink")的7-Eleven均會清理門市店的周邊巷道，這項工作目前也被[臺灣](../Page/臺灣.md "wikilink")列入7-11 Day的工作項目之一 。\[6\]
 
 因澳洲的日期格式為日／月／年，因此其「7-11 Day」是在 11月 7日，也考慮到 11 月正是南半球的夏天。當日上午七點至晚上十一點，任何人只要到 7-Eleven 門市，對工作人員說「Happy 7-Eleven Day\!」便可免費獲贈一杯思樂冰，因此每年當天各門市往往人滿為患。
 
@@ -186,7 +186,7 @@
 #### 特色
 
   - 澳門7-Eleven除路環外，各區均已設立分店；其中以[花地瑪堂區](../Page/花地瑪堂區.md "wikilink")和[大堂區擁有最多分店](https://zh.wikipedia.org/wiki/大堂區 "wikilink")，各有9間分店；而[風順堂區和](https://zh.wikipedia.org/wiki/風順堂區 "wikilink")[路氹城](../Page/路氹城.md "wikilink")均只有一間分店。
-  - 與香港一樣，澳門人會把7-Eleven唸作「七十一」，也有「七仔」或「些粉」的坊間俗稱。
+  - 與香港一樣，澳門人會把7-Eleven唸作「七十一」，也有「七仔」或7的英文「Seven」的坊間俗稱。
   - 澳門7-Eleven已經成為[澳門通](../Page/澳門通.md "wikilink")的認可服務供應商，接受澳門通卡購物消費、加值和新卡銷售等服務。
   - 澳門7-Eleven除提供[澳門本地的報紙和雜誌外](https://zh.wikipedia.org/wiki/澳門報紙 "wikilink")、亦會提供香港的報紙和雜誌。
   - 澳門7-Eleven提供的贈品換領基本與香港相同。
@@ -212,17 +212,25 @@
 
 至2019年2月，南中國7-ELEVEn在廣東省各地展店數目：廣州536間，深圳284間，東莞31間，佛山155間，中山32間，珠海16間，江門8間，惠州10間，湛江4間，茂名2間，陽江4間。（共計1,082店）\[20\]
 
-#### 京津地区
+#### 北京市
 
-[7-Eleven_Lianhuachi_East_Rd_Store_(20160323144319).jpg](https://zh.wikipedia.org/wiki/File:7-Eleven_Lianhuachi_East_Rd_Store_\(20160323144319\).jpg "fig:7-Eleven_Lianhuachi_East_Rd_Store_(20160323144319).jpg")南侧的7-Eleven便利店\]\] [201606_A_7-11_store_in_798,_Beijing.jpg](https://zh.wikipedia.org/wiki/File:201606_A_7-11_store_in_798,_Beijing.jpg "fig:201606_A_7-11_store_in_798,_Beijing.jpg")内的7-Eleven便利店\]\] [京津地区的](https://zh.wikipedia.org/wiki/京津地区 "wikilink")7-Eleven便利店由柒—拾壹（北京）有限公司经营，该公司由日商株式会社[伊藤洋华堂](https://zh.wikipedia.org/wiki/伊藤洋华堂 "wikilink")、[王府井百貨以及中国糖业酒类集团于](https://zh.wikipedia.org/wiki/王府井百貨 "wikilink")2004年1月合资设立，该公司目前拥有京津冀三个省份的店铺经营权，但尚未有在河北省开设直营或加盟店铺的考量。
+[7-Eleven_Lianhuachi_East_Rd_Store_(20160323144319).jpg](https://zh.wikipedia.org/wiki/File:7-Eleven_Lianhuachi_East_Rd_Store_\(20160323144319\).jpg "fig:7-Eleven_Lianhuachi_East_Rd_Store_(20160323144319).jpg")南侧的7-Eleven便利店\]\] [201606_A_7-11_store_in_798,_Beijing.jpg](https://zh.wikipedia.org/wiki/File:201606_A_7-11_store_in_798,_Beijing.jpg "fig:201606_A_7-11_store_in_798,_Beijing.jpg")内的7-Eleven便利店\]\] [京津地区的](https://zh.wikipedia.org/wiki/京津地区 "wikilink")7-Eleven便利店由柒—拾壹（北京）有限公司经营，该公司由日商株式会社[伊藤洋华堂](https://zh.wikipedia.org/wiki/伊藤洋华堂 "wikilink")、[王府井百貨以及中国糖业酒类集团于](https://zh.wikipedia.org/wiki/王府井百貨 "wikilink")2004年1月合资设立，该公司目前拥有京津冀三个省份的店铺经营权。
 
-[北京地区](https://zh.wikipedia.org/wiki/北京 "wikilink")7-ELEVEn首店（[東直門店](https://zh.wikipedia.org/wiki/東直門 "wikilink")）於2004年4月15日開幕，目前主要分布于北京主城四区及通州、丰台、昌平靠近市区的区域。天津地区首店（[小白楼](../Page/小白楼.md "wikilink")店）于2009年9月17日开幕，店面主要分佈於天津市[中心城区](../Page/天津市区.md "wikilink")，2018年起逐步向津南、西青、北辰与东丽等环城区域内大型居住区进驻。[滨海新区](../Page/滨海新区.md "wikilink")的4間店铺因城市发展的政策因素、物流运输成本过高及[2015年天津港危化品仓库爆炸事故的后续影响](https://zh.wikipedia.org/wiki/2015年天津港危化品仓库爆炸事故 "wikilink")，于2017年1月已悉数收店。
+[北京地区](https://zh.wikipedia.org/wiki/北京 "wikilink")7-ELEVEn首店（[東直門店](https://zh.wikipedia.org/wiki/東直門 "wikilink")）於2004年4月15日開幕，目前主要分布于北京主城四区及通州、丰台、昌平靠近市区的区域。
 
-北京市政府曾在部分店面推广使用[市政公交一卡通消费](../Page/北京市政交通一卡通.md "wikilink")，后放弃。京津地区7-ELEVEn直至2017年中才先后普及支付宝及微信支付，采用与[卡购商城合作另设扫码机收单方式进行结算](https://zh.wikipedia.org/wiki/卡购商城 "wikilink")，对收银员结算及记账造成诸多不变，此后直至2018年春天才正式将该功能整合至收银机内。然因系统与银联的刷卡机整合不顺，截至2018年10月，银行卡消费及Apple Pay功能在北京的7-ELEVEn店铺中一直无法正常使用。而天津地区店铺则一直使用旧有的手持式POS进行银行卡交易。
+北京市政府曾在部分店面推广使用[市政公交一卡通消费](../Page/北京市政交通一卡通.md "wikilink")，后放弃。京津地区7-ELEVEn直至2017年中才先后普及支付宝及微信支付，采用与[卡购商城合作另设扫码机收单方式进行结算](https://zh.wikipedia.org/wiki/卡购商城 "wikilink")，对收银员结算及记账造成诸多不变，此后直至2018年春天才正式将该功能整合至收银机内。然因系统与银联的刷卡机整合不顺，截至2018年10月，银行卡消费及Apple Pay功能在北京的7-ELEVEn店铺中一直无法正常使用。
 
-天津地區7-ELEVEn自2016年起即普及7-Coffee服務，並在2018年陸續增加了熱牛奶、可可、奶茶及抹茶拿鐵等更符合在地人消費習慣的飲品種類。而该服务在北京于2017年末才开始慢慢普及，饮品种类则只有美式咖啡及拿铁两种。北京地区店铺使用的商用咖啡机与[星巴克及](https://zh.wikipedia.org/wiki/星巴克 "wikilink")[瑞幸咖啡](../Page/瑞幸咖啡.md "wikilink")一致，而天津地区店铺使用的则与[肯德基](../Page/肯德基.md "wikilink")、[麦当劳](../Page/麦当劳.md "wikilink")等快餐店一致。
+北京地区7-ELEVEn店铺2017年末才普及7-Coffee服务，饮品种类只有美式咖啡及拿铁两种，店中使用的商用咖啡机为与瑞幸咖啡一致的瑞士[Schärer](https://zh.wikipedia.org/wiki/Schärer "wikilink") Coffee Art Plus商用咖啡机。
 
-至2019年7月末，7-ELEVEn京津地區展店數目：北京291間\[21\]，天津160間\[22\]。（共計451店）
+至2019年10月中，7-ELEVEn北京地區展店數目：北京284間\[21\]。
+
+#### 天津市
+
+[天津地区](https://zh.wikipedia.org/wiki/天津 "wikilink")7-ELEVEn首店（[小白楼](../Page/小白楼.md "wikilink")店）于2009年9月17日开幕，店面主要分佈於天津市[中心城区](../Page/天津市区.md "wikilink")，2018年起逐步向津南、西青、北辰与东丽等环城区域内大型居住区进驻。[滨海新区](../Page/滨海新区.md "wikilink")的4間店铺因城市发展的政策因素、物流运输成本过高及[2015年天津港危化品仓库爆炸事故的后续影响](https://zh.wikipedia.org/wiki/2015年天津港危化品仓库爆炸事故 "wikilink")，于2017年1月已悉数收店。
+
+天津地區7-ELEVEn自2016年起即普及7-Coffee服務，並在2018年陸續增加了熱牛奶、可可、奶茶及抹茶拿鐵等更符合在地人消費習慣的飲品種類，部分店铺提供红枣及原味豆浆。
+
+至2019年11月末，7-ELEVEn天津地區展店數目：天津171間\[22\]。
 
 #### 上海市
 
@@ -242,7 +250,7 @@
 
 7-Eleven于2012年11月7日在山东[青岛开出第一家店铺](https://zh.wikipedia.org/wiki/青岛 "wikilink")，该地区店铺由山东众邸便利生活有限公司经营，其中[众地集团有限公司持有股份](https://zh.wikipedia.org/wiki/众地集团 "wikilink")65%，株式会社7\&i持有股份35%。于2012年7月9日经过柒一拾壹（中国）投资有限公司授予该公司山东省内的特许经营授权。
 
-山东省7-Eleven曾在部分店铺销售思乐冰饮品，该机器由可口可乐方提供，但由于机器维修零件完全依赖进口，且山东本地无可维修该机器的师傅，因而总公司决定在2018年农历年后将该产品停售并取消。
+山东省7-Eleven曾在部分店铺销售思乐冰饮品，该机器由太古可口可乐方提供，但由于机器维修零件完全依赖进口，且山东本地无可维修该机器的师傅，因而总公司决定在2018年农历年后将该产品停售并取消。
 
 至2019年8月中，7-Eleven山東展店數目：青島87間\[25\]。（共計87店）
 
@@ -264,7 +272,7 @@
 
 江蘇首間7-ELEVEn門市於2018年5月30日上午7點開業，單店日銷超過人民幣37萬，打破全球7-ELEVEn最高單店日銷紀錄。\[29\]
 
-至2019年7月末，7-Eleven江蘇展店數目：南京9間。（共計9店）\[30\]
+至2019年11月末，7-Eleven江蘇展店數目：南京14間。（共計14店） \[30\]
 
 #### 湖北省
 
@@ -272,25 +280,33 @@
 
 根据「7-ELEVEn湖北」公众号的信息，全省首店将于2019年3月21日于武汉市汉街楚汉路开幕。\[32\]
 
-至2019年7月末，7-Eleven湖北展店數目：武漢7間。（共計7店）\[33\]
+至2019年11月末，7-Eleven湖北展店數目：武漢11間。（共計11店）\[33\]
 
 #### 陕西省
 
 2018年12月18日晚间，柒一拾壹（中国）投资有限公司与[陕西赛文提客便利连锁有限公司合作](https://zh.wikipedia.org/wiki/陕西赛文提客便利连锁有限公司 "wikilink")，并授权该公司在[陕西省](../Page/陕西省.md "wikilink")内的7-ELEVEn特许经营权\[34\]，此授权具有唯一性，该公司注册在西咸新区内。陕西赛文提客便利连锁有限公司是陕西提客商贸有限公司的全资子公司，由陕西省实业发展集团和陕西高川实业集团共同出资注册，从事便利店的连锁运营和管理业务，并将从[西安](https://zh.wikipedia.org/wiki/西安 "wikilink")、[咸阳两市开始进行全省便利店的布点](https://zh.wikipedia.org/wiki/咸阳 "wikilink")。2019年8月22日，陕西省首家店铺在西安高新区大都荟开出。
 
+至2019年11月末，7-Eleven陕西展店數目：西安20間。（共計20店）\[35\]
+
 #### 福建省
 
-2019年4月11日，福建榕宁便利店管理有限公司与柒一拾壹（中国）投资有限公司签订福建省特许经营合同\[35\]，获得[中国大陆](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[福建省](../Page/福建省.md "wikilink")境内的7-ELEVEn特许经营权。7-ELEVEn福建门店初期将立足[福州](../Page/福州市.md "wikilink")，并在未来向[厦门](../Page/厦门市.md "wikilink")、[泉州等城市扩张](../Page/泉州市.md "wikilink")。\[36\]。
+2019年4月11日，福建榕宁便利店管理有限公司与柒一拾壹（中国）投资有限公司签订福建省特许经营合同\[36\]，获得[中国大陆](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[福建省](../Page/福建省.md "wikilink")境内的7-ELEVEn特许经营权。7-ELEVEn福建门店初期将立足[福州](../Page/福州市.md "wikilink")，并在未来向[厦门](../Page/厦门市.md "wikilink")、[泉州等城市扩张](../Page/泉州市.md "wikilink")\[37\]。2019年11月7日，福建省首店在福州市[东街口](../Page/东街口.md "wikilink")开业\[38\]。
 
-#### 河北省
+至2019年11月末，7-Eleven福建展店數目：福州3間。（共計3店）\[39\]
+
+#### 唐山市
 
 2019年8月，唐山金匙集团、北京庄典集团与日本7-ELEVEn连锁便利店集团共同签订了唐山市7-ELEVEn的特许经营合同。预计2019年年内开业。
 
+#### 湖南省
+
+2019年10月17日，[湖南友誼阿波羅全資子公司湖南友阿便利超市管理有限公司與柒一拾壹](https://zh.wikipedia.org/wiki/湖南友誼阿波羅 "wikilink")(中國)投資有限公司簽訂地區特許經營合同，在湖南省開展7-Eleven便利店業務，預計2020年開業
+
 ### 新加坡和马来西亚
 
-[新加坡](../Page/新加坡.md "wikilink")的7-Eleven是[牛奶国际的一员](https://zh.wikipedia.org/wiki/牛奶国际 "wikilink")，自1983年起由美国的7-Eleven总部授权经营。1983年6月，7-Eleven在[樟宜路上段设立了第一家分店](https://zh.wikipedia.org/wiki/樟宜路 "wikilink")。时至今日，7-Eleven在新加坡已经设立了455间店面。7-Eleven在新加坡除了零售外，还提供包括[NETS-FlashPay充值](https://zh.wikipedia.org/wiki/NETS-FlashPay "wikilink")、[易通卡](../Page/易通卡.md "wikilink")出售，缴付帐单等服务。位於新加坡的7-Eleven多數都是設立與購物中心和百貨商店的一層，並與內部相連，成為一個進入內部的通路。另外一些7-Eleven設立與地鐵站中，但是會因為地鐵站營業時間的限制無法24小時經營。極小部分的7-Eleven是獨立在類似加油站地區的戶外。除此之外，根據新加坡7-Eleven的消費條例，在部分店面消費滿20[新加坡幣即可使用信用卡消費](https://zh.wikipedia.org/wiki/新加坡幣 "wikilink")\[37\]
+[新加坡](../Page/新加坡.md "wikilink")的7-Eleven是[牛奶国际的一员](https://zh.wikipedia.org/wiki/牛奶国际 "wikilink")，自1983年起由美国的7-Eleven总部授权经营。1983年6月，7-Eleven在[樟宜路上段设立了第一家分店](https://zh.wikipedia.org/wiki/樟宜路 "wikilink")。时至今日，7-Eleven在新加坡已经设立了455间店面。7-Eleven在新加坡除了零售外，还提供包括[NETS-FlashPay充值](https://zh.wikipedia.org/wiki/NETS-FlashPay "wikilink")、[易通卡](../Page/易通卡.md "wikilink")出售，缴付帐单等服务。位於新加坡的7-Eleven多數都是設立與購物中心和百貨商店的一層，並與內部相連，成為一個進入內部的通路。另外一些7-Eleven設立與地鐵站中，但是會因為地鐵站營業時間的限制無法24小時經營。極小部分的7-Eleven是獨立在類似加油站地區的戶外。除此之外，根據新加坡7-Eleven的消費條例，在部分店面消費滿20[新加坡幣即可使用信用卡消費](https://zh.wikipedia.org/wiki/新加坡幣 "wikilink")\[40\]
 
-馬來西亞至2019年5月已有2,323家分店，每年展店目標上看200間。\[38\]
+馬來西亞至2019年5月已有2,323家分店，每年展店目標上看200間。\[41\]
 
 #### 特色
 
@@ -310,18 +326,18 @@
 
 [臺灣](../Page/臺灣.md "wikilink")的7-Eleven是起源於1978年4月由[統一企業](../Page/統一企業.md "wikilink")集資[新臺幣](../Page/新臺幣.md "wikilink")1億9千萬元，創辦「統一超級商店股份有限公司」，並於1979年引進7-Eleven。同年5月，14家「統一超級商店」於[臺北市](../Page/臺北市.md "wikilink")、[高雄市](../Page/高雄市.md "wikilink")與[臺南市同時開幕](https://zh.wikipedia.org/wiki/臺南市 "wikilink")。
 
-臺灣7-Eleven早期因民眾消費習慣等因素，而出現連續7年的虧損窘境，1982年因虧損累累被合併入[統一企業](../Page/統一企業.md "wikilink")，而在之後經歷了一段時間的努力與摸索，並調整商品品項與經營方式，由原本完全移植自美國的風格逐漸本土化，終於在1986年轉虧為盈，並於1987年重新獨立為[統一超商股份有限公司](https://zh.wikipedia.org/wiki/統一超商股份有限公司 "wikilink")，其後逐漸在國內的通路競賽中嶄露頭角，最後終贏得臺灣[零售業第一的地位](https://zh.wikipedia.org/wiki/零售業 "wikilink")，並於2000年4月20日與美國7-Eleven簽訂永久的授權契約。1994年7月千成門市成立後首度突破1,000家，1999年突破2,000家。1995年進入[宜蘭](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")，1996年進入[花東地區](../Page/東臺灣.md "wikilink")，完成臺灣本島縣市全部展店目標。1999年開始也跨海至離島展店，先後在[澎湖縣](../Page/澎湖縣.md "wikilink")、[金門縣](../Page/金門縣.md "wikilink")本島、[烈嶼](../Page/烈嶼鄉.md "wikilink")、[馬祖](https://zh.wikipedia.org/wiki/馬祖 "wikilink")[南竿](../Page/南竿鄉.md "wikilink")、[北竿](../Page/北竿鄉.md "wikilink")、[東引](../Page/東引鄉.md "wikilink")、[綠島](../Page/綠島鄉.md "wikilink")、[蘭嶼](../Page/蘭嶼.md "wikilink")、[琉球等島成立超過](../Page/琉球鄉.md "wikilink")41家門市；2019年5月則為5,459家門市\[39\]。
+臺灣7-Eleven早期因民眾消費習慣等因素，而出現連續7年的虧損窘境，1982年因虧損累累被合併入[統一企業](../Page/統一企業.md "wikilink")，而在之後經歷了一段時間的努力與摸索，並調整商品品項與經營方式，由原本完全移植自美國的風格逐漸本土化，終於在1986年轉虧為盈，並於1987年重新獨立為[統一超商股份有限公司](https://zh.wikipedia.org/wiki/統一超商股份有限公司 "wikilink")，其後逐漸在國內的通路競賽中嶄露頭角，最後終贏得臺灣[零售業第一的地位](https://zh.wikipedia.org/wiki/零售業 "wikilink")，並於2000年4月20日與美國7-Eleven簽訂永久的授權契約。1994年7月千成門市成立後首度突破1,000家，1999年突破2,000家。1995年進入[宜蘭](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")，1996年進入[花東地區](../Page/東臺灣.md "wikilink")，完成臺灣本島縣市全部展店目標。1999年開始也跨海至離島展店，先後在[澎湖縣](../Page/澎湖縣.md "wikilink")、[金門縣](../Page/金門縣.md "wikilink")本島、[烈嶼](../Page/烈嶼鄉.md "wikilink")、[馬祖](https://zh.wikipedia.org/wiki/馬祖 "wikilink")[南竿](../Page/南竿鄉.md "wikilink")、[北竿](../Page/北竿鄉.md "wikilink")、[東引](../Page/東引鄉.md "wikilink")、[綠島](../Page/綠島鄉.md "wikilink")、[蘭嶼](../Page/蘭嶼.md "wikilink")、[琉球等島成立超過](../Page/琉球鄉.md "wikilink")41家門市；2019年5月則為5,459家門市\[42\]。
 
 #### 特色
 
 [Taipei_Bridge_Station_7-ELEVEN.jpg](https://zh.wikipedia.org/wiki/File:Taipei_Bridge_Station_7-ELEVEN.jpg "fig:Taipei_Bridge_Station_7-ELEVEN.jpg")[台北橋站的](https://zh.wikipedia.org/wiki/台北橋站 "wikilink")7-Eleven（已於2012年結束營業）\]\] [Slurpee_Machine.jpg](https://zh.wikipedia.org/wiki/File:Slurpee_Machine.jpg "fig:Slurpee_Machine.jpg")
 
-  - 臺灣在門市總數上僅次於美國、日本、韩国與泰國，但在土地平均分店密度方面，臺灣遙遙領先在美日之前，在人口平均分店密度方面，自2012年以來都較南韓低上許多，南韓便利商店密集度居全球之冠（2017年每店1,291人），2018年台灣和日本則依次為每店2,148及2,235人。\[40\]
-  - 在臺灣，從[車站](https://zh.wikipedia.org/wiki/車站 "wikilink")、[街道](https://zh.wikipedia.org/wiki/街道 "wikilink")、[體育場](https://zh.wikipedia.org/wiki/體育場 "wikilink")、[學校](https://zh.wikipedia.org/wiki/學校 "wikilink")、[醫院](../Page/醫院.md "wikilink")、[百貨公司](../Page/百貨公司.md "wikilink")、[國道休息站到公司行號都有](https://zh.wikipedia.org/wiki/中華民國國道服務區列表 "wikilink")7-Eleven的蹤跡，店面大小差異也很大，相較日本近幾年才跨入特殊通路店鋪，臺灣7-Eleven店型變化之大可以堪稱全球之最。現今臺灣的7-Eleven也向有車流的道路旁展店，該型店面具有可容納汽機車的停車空間。
-  - 2000年開始與[臺鐵合作](https://zh.wikipedia.org/wiki/臺鐵 "wikilink")，在火車站站內新開「Express」門市，後來有其他業者跟進；在臺鐵[臺北車站站內一度擁有](https://zh.wikipedia.org/wiki/臺北車站 "wikilink")6間「Express」門市（其中兩間位於付費區內）和2間高鐵門市（也在付費區內）\[41\]，還有1間捷運門市，當時成為最多7-Eleven的車站，但台鐵高鐵門市全數在2019年換約時被全家便利商店得標。
+  - 臺灣在門市總數上僅次於美國、日本、韩国與泰國，但在土地平均分店密度方面，臺灣遙遙領先在美日之前，在人口平均分店密度方面，自2012年以來都較南韓低上許多，南韓便利商店密集度居全球之冠（2017年每店1,291人），2018年台灣和日本則依次為每店2,148及2,235人。\[43\]
+  - 在臺灣，從[車站](https://zh.wikipedia.org/wiki/車站 "wikilink")、[街道](https://zh.wikipedia.org/wiki/街道 "wikilink")、[體育場](https://zh.wikipedia.org/wiki/體育場 "wikilink")、[學校](https://zh.wikipedia.org/wiki/學校 "wikilink")、[醫院](../Page/醫院.md "wikilink")、[百貨公司](../Page/百貨公司.md "wikilink")、[國道休息站到公司行號都有](https://zh.wikipedia.org/wiki/中華民國國道服務區列表 "wikilink")7-Eleven的蹤跡，店面大小差異也很大，相較日本近幾年才跨入特殊通路店鋪，臺灣7-Eleven店型變化之大可以堪稱全球之最。現今臺灣的7-Eleven也向有車流的道路旁展店，該型店面具有可容納汽機車的停車空間\[44\]。
+  - 2000年開始與[臺鐵合作](https://zh.wikipedia.org/wiki/臺鐵 "wikilink")，在火車站站內新開「Express」門市，後來有其他業者跟進；在臺鐵[臺北車站站內一度擁有](https://zh.wikipedia.org/wiki/臺北車站 "wikilink")6間「Express」門市（其中兩間位於付費區內）和2間高鐵門市（也在付費區內）\[45\]，還有1間捷運門市，當時成為最多7-Eleven的車站，但台鐵高鐵門市全數在2019年換約時被全家便利商店得標。
   - 是臺灣第一個完成臺灣本島各縣市全面展店與第一個跨入離島展店的便利商店業者，但仍有部份較偏遠鄉鎮尚未展店。
-  - 店內提供的代收業務，可以讓消費者直接在店內繳交水電等多達上百種費用。\[42\]
-  - [自動提款機](../Page/自動櫃員機.md "wikilink")（ATM）與[臺灣中國信託商業銀行獨家簽約](../Page/中國信託商業銀行.md "wikilink")，機臺數超過3,000台以上，並於2007年4月起雙方合作發行兼具[電子錢包與](https://zh.wikipedia.org/wiki/電子錢包 "wikilink")[信用卡](../Page/信用卡.md "wikilink")功能的「icashwave」卡\[43\]。
+  - 店內提供的代收業務，可以讓消費者直接在店內繳交水電等多達上百種費用。\[46\]
+  - [自動提款機](../Page/自動櫃員機.md "wikilink")（ATM）與[臺灣中國信託商業銀行獨家簽約](../Page/中國信託商業銀行.md "wikilink")，機臺數超過3,000台以上，並於2007年4月起雙方合作發行兼具[電子錢包與](https://zh.wikipedia.org/wiki/電子錢包 "wikilink")[信用卡](../Page/信用卡.md "wikilink")功能的「icashwave」卡\[47\]。
   - 店內設置有多媒體終端機[ibon](https://zh.wikipedia.org/wiki/ibon "wikilink")，可提供售票、繳費與信用卡紅利兌換等服務。
   - 本身沒有直接經營網路購物業務，是透過子公司介入經營，並與許多網路購物業者簽約提供到店取貨或付款的服務。
   - 2005年複製香港7-Eleven的經驗，以購物滿額送贈品的方式，在臺灣掀起全店整合行銷戰爭，業績大幅成長。
@@ -379,86 +395,49 @@
 [Category:1927年成立的公司](https://zh.wikipedia.org/wiki/Category:1927年成立的公司 "wikilink") [Category:便利商店](https://zh.wikipedia.org/wiki/Category:便利商店 "wikilink") [Category:零售商](https://zh.wikipedia.org/wiki/Category:零售商 "wikilink") [Category:總部在日本的跨國公司](https://zh.wikipedia.org/wiki/Category:總部在日本的跨國公司 "wikilink") [Category:日本零售商](https://zh.wikipedia.org/wiki/Category:日本零售商 "wikilink") [Category:美國零售商](https://zh.wikipedia.org/wiki/Category:美國零售商 "wikilink") [Category:澳門零售業](https://zh.wikipedia.org/wiki/Category:澳門零售業 "wikilink") [Category:香港零售商](https://zh.wikipedia.org/wiki/Category:香港零售商 "wikilink") [Category:日本便利商店](https://zh.wikipedia.org/wiki/Category:日本便利商店 "wikilink") [Category:台灣便利商店](https://zh.wikipedia.org/wiki/Category:台灣便利商店 "wikilink") [Category:美國連鎖速食店](https://zh.wikipedia.org/wiki/Category:美國連鎖速食店 "wikilink") [Category:1927年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:1927年加利福尼亞州建立 "wikilink")
 
 1.  "[7-Eleven, Inc. Announces Aggressive Growth Plans Throughout SoCal](http://www.cbre.com/NR/rdonlyres/1C0F25B8-CDBC-4839-AE4B-77AFEF021249/0/SoCalCBRE724logo.pdf) ." 7-Eleven. Retrieved on November 15, 2009.
-
 2.  [7–11 Corporate website](http://www.sej.co.jp/company/en/g_stores.html)
-
 3.  2005年11月9日，[Seven-ELEVEN Japan Completes Cash Tender Offer for 7-ELEVEN, Inc.](http://www.7-ELEVEN.com/newsroom/articles.asp?p=2371) ，7-ELEVEN News Room；2007年6月11日驗證引用。
-
 4.  [セブン-イレブン・ジャパン 世界のセブン-イレブン](http://www.sej.co.jp/company/tenpo.html)，日本7-Eleven官方網站
-
 5.  [台灣 7-11全台電子地圖系統](http://emap.pcsc.com.tw/)
-
 6.  [7月11日（セブン−イレブンデー）に全国のセブン−イレブンで一斉清掃活動を実施](http://www.sej.co.jp/news/h11izen/070102.html)，[日本](../Page/日本.md "wikilink")7-Eleven[新聞稿](../Page/新聞稿.md "wikilink")；2007年6月11日驗證引用。
-
 7.  [小「n」謎團猜猜看](http://blog.7-11.com.tw/diary.asp?blogid=27)
-
 8.  [小「n」謎團揭曉](http://blog.7-11.com.tw/diary.asp?blogid=28)
-
 9.  [常見問題－學生篇Q4：為什麼7-ELEVEN的商標LOGO，最後一個n是小寫呢？有無特別的意義呢？](http://www.7-11.com.tw/faq/q4.asp)（臺灣7-11）
-
 10.
-
 11.
-
 12. [International Licensing](http://corp.7-eleven.com/AboutUs/InternationalLicensing/tabid/115/Default.aspx)
-
 13. [About Us](http://corp.7-eleven.com/AboutUs/tabid/73/Default.aspx)
-
 14. [セブン銀行官方網站](http://www.sevenbank.co.jp/)
-
 15.
-
 16. [匯豐銀行香港：7-Eleven自動櫃員機服務](http://www.hsbc.com.hk/1/2/chinese/hk/personal/customer-care/improve/detail#atm711)
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
-37. [7-Eleven:Company Info](http://www.7-eleven.com.sg/company-info.html)
-
-38. [7-Eleven Malaysia: Parcel services next](https://www.thesundaily.my/business/7-eleven-malaysia-parcel-services-next-KH854268)The Sun Daily，2019年5月8日
-
-39. [台灣便利商店全球最多？亞洲第一名其實是這國](https://tw.mobi.yahoo.com/news/%E5%8F%B0%E7%81%A3%E4%BE%BF%E5%88%A9%E5%95%86%E5%BA%97%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%9A-%E4%BA%9E%E6%B4%B2%E7%AC%AC-%E5%90%8D%E5%85%B6%E5%AF%A6%E6%98%AF%E9%80%99%E5%9C%8B-021500455.html)Yahoo\!奇摩，2019年6月30日
-
-40.
-41. [台灣7-Eleven Blog](http://blog.7-11.com.tw/diary.asp?blogid=20)
-
-42. 臺灣 7-Eleven 官方網站服務一覽，2007年6月11日
-
-43. [臺灣 7-Eleven 新聞稿](http://www.7-11.com.tw/pcsc/news/news_detail.asp?typeid=01&SerialID=0120070117001&SearchType=&SearchCriteria=)，2007年6月11日
+37.
+38.
+39.
+40. [7-Eleven:Company Info](http://www.7-eleven.com.sg/company-info.html)
+41. [7-Eleven Malaysia: Parcel services next](https://www.thesundaily.my/business/7-eleven-malaysia-parcel-services-next-KH854268)The Sun Daily，2019年5月8日
+42. [台灣便利商店全球最多？亞洲第一名其實是這國](https://tw.mobi.yahoo.com/news/%E5%8F%B0%E7%81%A3%E4%BE%BF%E5%88%A9%E5%95%86%E5%BA%97%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%9A-%E4%BA%9E%E6%B4%B2%E7%AC%AC-%E5%90%8D%E5%85%B6%E5%AF%A6%E6%98%AF%E9%80%99%E5%9C%8B-021500455.html)Yahoo\!奇摩，2019年6月30日
+43.
+44. [臺灣 7-Eleven 新聞稿](https://www.7-11.com.tw/company/news_page.asp?dId=162)，2003年7月11日
+45. [台灣7-Eleven Blog](http://blog.7-11.com.tw/diary.asp?blogid=20)
+46. 臺灣 7-Eleven 官方網站服務一覽，2007年6月11日
+47. [臺灣 7-Eleven 新聞稿](http://www.7-11.com.tw/pcsc/news/news_detail.asp?typeid=01&SerialID=0120070117001&SearchType=&SearchCriteria=)，2007年6月11日

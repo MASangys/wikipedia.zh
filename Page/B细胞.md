@@ -6,7 +6,7 @@
 
 ## 词源
 
-B细胞中的这个缩写B来自于鸟类B细胞分化成熟的器官——[法氏囊](../Page/腔上囊.md "wikilink")（Bursa of Fabricius）\[2\]。而在大部分哺乳动物中，B细胞形成于骨髓（bone marrow），所以B细胞一词被沿用下来，尽管其它由多能干细胞分化而来的血细胞也是在骨髓中成熟的\[3\]。
+B细胞中的这个缩写B来自于鸟类B细胞分化成熟的器官——[腔上囊](../Page/腔上囊.md "wikilink")\[2\]。而在大部分哺乳动物中，B细胞形成于骨髓（bone marrow），所以B细胞一词被沿用下来，尽管其它由多能干细胞分化而来的血细胞也是在骨髓中成熟的\[3\]。
 
 ## 参见
 
@@ -17,6 +17,5 @@ B细胞中的这个缩写B来自于鸟类B细胞分化成熟的器官——[法�
 [Category:淋巴细胞](https://zh.wikipedia.org/wiki/Category:淋巴细胞 "wikilink")
 
 1.  [Bursa of Fabricius](http://www.nlm.nih.gov/cgi/mesh/2007/MB_cgi?mode=&term=Bursa+of+Fabricius&field=entry)
-
 2.
 3.  <http://www.albrecht-kossel-institut.de/en/4_publications/2006/Mix_J_Neurol_2006.pdf> page V/12 top-left column

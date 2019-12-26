@@ -67,17 +67,12 @@ Leveson指出此事件的一個重大教訓就是不可以假設復用的軟體�
 [Category:工程故障](https://zh.wikipedia.org/wiki/Category:工程故障 "wikilink") [Category:健康災害](https://zh.wikipedia.org/wiki/Category:健康災害 "wikilink") [Category:卫生信息学](https://zh.wikipedia.org/wiki/Category:卫生信息学 "wikilink") [Category:核医学](https://zh.wikipedia.org/wiki/Category:核医学 "wikilink") [Category:程式錯誤](https://zh.wikipedia.org/wiki/Category:程式錯誤 "wikilink") [Category:软件工程](https://zh.wikipedia.org/wiki/Category:软件工程 "wikilink") [Category:医疗事故](https://zh.wikipedia.org/wiki/Category:医疗事故 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.

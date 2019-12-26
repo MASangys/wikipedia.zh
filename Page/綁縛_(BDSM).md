@@ -1,4 +1,4 @@
-[Spreizstange_(Bondage).jpg](https://zh.wikipedia.org/wiki/File:Spreizstange_\(Bondage\).jpg "fig:Spreizstange_(Bondage).jpg") [Leather,_Latex,_and_BDSM_pride_-_Light.svg](https://zh.wikipedia.org/wiki/File:Leather,_Latex,_and_BDSM_pride_-_Light.svg "fig:Leather,_Latex,_and_BDSM_pride_-_Light.svg")\]\] **绑缚**是一種人類性活動，以綑綁等約束肢體的方式來達到愉悅感。这是虐恋活动最常见的行为，也是最典型的活动。虐恋活动中，施虐者使用绳索、[手銬](https://zh.wikipedia.org/wiki/手銬#情趣手銬與玩具手銬 "wikilink")、脚镣、枷锁、铁链等用具捆绑、束缚受虐者，造成受虐者无法自由活动，再对被缚的受虐者施加其他项目。
+[Spreizstange_(Bondage).jpg](https://zh.wikipedia.org/wiki/File:Spreizstange_\(Bondage\).jpg "fig:Spreizstange_(Bondage).jpg") [Leather,_Latex,_and_BDSM_pride_-_Light.svg](https://zh.wikipedia.org/wiki/File:Leather,_Latex,_and_BDSM_pride_-_Light.svg "fig:Leather,_Latex,_and_BDSM_pride_-_Light.svg")\]\] **绑缚**是一種人類性活動，以綑綁等約束肢體的方式來達到愉悅感。这是虐恋活动最常见的行为，也是最典型的活动。虐恋活动中，施虐者使用绳索、[手銬](https://zh.wikipedia.org/wiki/手銬#情趣手銬與玩具手銬 "wikilink")、脚镣、枷锁、铁链等用具捆绑、束缚受虐者，造成受虐者无法自由活动，再对被缚的受虐者施加其他项目，例如[打屁股](../Page/打屁股.md "wikilink")、[肛交](../Page/肛交.md "wikilink")和其他项目等等。
 
 绳索捆绑的手法多种多样，除了简单的捆绑手腕之外，还有更多复杂的绑法，最常用的主要有中式的五花大绑、[日式绑缚](../Page/日式绑缚.md "wikilink")和欧式绑缚等，每一种绑法都有很多的种类。甚至有的手法还拥有专门的名称和教学资料，绑缚爱好者社群通常会聚会举办活动，来相互交流、切磋各种捆绑方法。
 
@@ -9,6 +9,8 @@
 在美國的研究顯示，大約有一半的[男人覺得將人綁縛起來聽起來是](https://zh.wikipedia.org/wiki/男人 "wikilink")[情色](../Page/情色.md "wikilink")的，許多女人也如此認為。不過，就如同任何關於性想法與性行為的研究一樣，目前可得的研究資料操作得並非很好，而一些做得最好的研究則已經過時，绑缚行为现在以非情色的方式为主，变得纯粹是一种爱好而已。
 
 大眾對將緊縛作為一種个人爱好的接受程度以緩慢的速度上升，人们开始理解并且接受这种爱好。在1970年代受歡迎的主流性愛手冊《The Joy of Sex》一書，將緊縛視為一種正面的活動（如果時間不長的話）。[瑪丹娜出版的](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")《Sex》一書中有被緊縛起來的裸體者圖片，這對大眾知覺並且接受緊縛具有很大的幫助。到了1990年代，緊縛可以在如《[魔法奇兵](https://zh.wikipedia.org/wiki/魔法奇兵 "wikilink")》（Buffy the Vampire Slayer）這種主流的黃金時段[電視影集中看到](https://zh.wikipedia.org/wiki/電視影集 "wikilink")，在那裡面會出現如绳索、手銬、項圈這類道具，以及安全暗號這種概念的使用。
+
+[Spanking_on_Bondage_Furniture.png](https://zh.wikipedia.org/wiki/File:Spanking_on_Bondage_Furniture.png "fig:Spanking_on_Bondage_Furniture.png")
 
 ## 分歧觀點
 

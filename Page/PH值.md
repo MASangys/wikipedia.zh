@@ -45,7 +45,7 @@ pH的計算公式如下：
 
 在25°C下，pH=7的水溶液（如：純[水](../Page/水.md "wikilink")）為中性，這是因為水在25°C下自然電離出的氫離子和[氫氧根離子濃度的乘積](https://zh.wikipedia.org/wiki/氫氧根 "wikilink")（水的[離子積常數](https://zh.wikipedia.org/wiki/離子積 "wikilink")）始終是1×10<sup>−14</sup>，且兩種離子的濃度都是1×10<sup>−7</sup>mol/L。pH小于7說明H<sup>+</sup>的濃度大於OH<sup>−</sup>的濃度，故溶液酸性強，而pH大于7則說明H<sup>+</sup>的濃度小於OH<sup>−</sup>的濃度，故溶液鹼性強。所以pH愈小，溶液的酸性愈強；pH愈大，溶液的鹼性也就愈強。
 
-在非水溶液或25°C的條件下，pH=7可能並不代表溶液呈中性，這需要通過計算該[溶劑在這種條件下的電離常數來決定pH為中性的值](https://zh.wikipedia.org/wiki/溶劑 "wikilink")。如373[K](https://zh.wikipedia.org/wiki/開爾文 "wikilink")（100℃）的溫度下，水的离子积常数为5.5×10<sup>−13</sup>，即pH约为6.13，此时為中性溶液。 由于实际中的溶液不是理想溶液，所以仅仅用H<sup>+</sup>浓度是不可以准确测量的，因此也无法准确计算得到溶液的pH。故而应当采用H<sup>+</sup>活度，即
+在非水溶液或25°C的條件下呢，pH=7可能並不代表溶液呈中性，這需要通過計算該[溶劑在這種條件下的電離常數來決定pH為中性的值](https://zh.wikipedia.org/wiki/溶劑 "wikilink")。如373[K](https://zh.wikipedia.org/wiki/開爾文 "wikilink")（100℃）的溫度下，水的离子积常数为5.5×10<sup>−13</sup>，即pH约为6.13，此时為中性溶液。 由于实际中的溶液不是理想溶液，所以仅仅用H<sup>+</sup>浓度是不可以准确测量的，因此也无法准确计算得到溶液的pH。故而应当采用H<sup>+</sup>活度，即
 
 \[\mathrm{pH} = - \log_{10}(a {H}^+) = \log_{10}\left(\frac{1}{a {H}^+}\right)\]
 

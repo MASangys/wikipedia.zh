@@ -29,6 +29,5 @@ OSS 是在 1992年由 [Hannu Savolainen](https://zh.wikipedia.org/wiki/Hannu_Sav
 [Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink") [Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink") [Category:自由音訊軟體](https://zh.wikipedia.org/wiki/Category:自由音訊軟體 "wikilink") [Category:應用程序介面](https://zh.wikipedia.org/wiki/Category:應用程序介面 "wikilink") [Category:Linux内核功能](https://zh.wikipedia.org/wiki/Category:Linux内核功能 "wikilink")
 
 1.
-
 2.
 3.

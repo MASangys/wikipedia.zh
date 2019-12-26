@@ -32,7 +32,7 @@ DIY在今日已經是個不需額外解釋就能理解的常用字彙，由於�
   - 日本
       - [東急手創館](../Page/東急手創館.md "wikilink")（，其台灣分店稱為[台隆手創館](../Page/台隆手創館.md "wikilink")）：東急手創館與一般歐美風格DIY賣場不大相同，它的主要商品並非建材類產品，而是手工藝DIY用的工具、材料，以及生活工具與用品之專業賣店。
   - 香港
-      - [實惠](https://zh.wikipedia.org/wiki/實惠 "wikilink")（[實惠家居](../Page/實惠家居.md "wikilink")）
+      - [實惠家居](../Page/實惠家居.md "wikilink")
   - 瑞典
       - [IKEA](https://zh.wikipedia.org/wiki/IKEA "wikilink")\[6\]
   - 德国

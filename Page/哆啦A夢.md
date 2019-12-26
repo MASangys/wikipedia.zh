@@ -4,6 +4,12 @@
 
 1973年，本作首度由[日本電視台](../Page/日本電視台.md "wikilink")動畫公司製成[動畫播放](https://zh.wikipedia.org/wiki/動畫 "wikilink")，半年後因該公司倒閉而終止播出。其後由[朝日電視台](../Page/朝日電視台.md "wikilink")於1979年起製作播放至今，從1980年起每年3月上映一部[動畫電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。
 
+## 都市傳說
+
+### [藝人](https://kowai-tosidensetu.com/ドラえもん都市伝説！謎の回「タレント」とは何.html)
+
+1984年，當時正在放映中的多啦A夢出現很詭異的一集。標題名稱叫タレント，這集很明顯作畫崩壞，而且偏向沒有聲音的樣子不尋常的接連許多不知名的角色出現。該劇情內容：大雄跟多啦A夢利用道具到地球中心去，兩人一路上不知道說什麼話。而往裡面前進時，卻突然出現一名神秘人物，嚇到兩個人。但該神秘人物好像釋出好意，帶他們到一間房間來參觀，而房間就擺出一個地球儀。是很突然的，地球儀裂成兩半，裡面還流出黑色的液體，多啦A夢和大雄就嚇到互抱在一起。[之後有網友做出還原影片](https://sp.nicovideo.jp/watch/sm4711937)。
+
 ## 歷史概要與背景
 
 ### 學習雜誌
@@ -30,7 +36,7 @@
 
 1973年哆啦A夢電視動畫開始播映，1980年動畫電影亦開始播映。同年開始為了拍攝動畫電影，藤子·F·不二雄開始創作單行本一本的長篇故事，這就是《[哆啦A夢大長篇](https://zh.wikipedia.org/wiki/哆啦A夢大長篇 "wikilink")》的開始。
 
-在1996年藤子·F·不二雄過世後，電視動畫及電影動畫的製作依然持續，由[麥原伸太郎](https://zh.wikipedia.org/wiki/麥原伸太郎 "wikilink")（筆名為，是藤子·F·不二雄的入室弟子，也是《[哆啦A夢超棒球外傳](../Page/哆啦A夢超棒球外傳.md "wikilink")》的作者）或[岡田康則](https://zh.wikipedia.org/wiki/岡田康則 "wikilink")（1998年進入[藤子·F·不二雄製作公司](../Page/藤子·F·不二雄製作公司.md "wikilink")，2001年為大長篇《[大雄與翼之勇者](../Page/大雄與翼之勇者.md "wikilink")們》的主畫者）執筆。但自2016年始不再有新的大長篇作品。
+在1996年藤子·F·不二雄過世後，電視動畫及電影動畫的製作依然持續，由[麥原伸太郎](https://zh.wikipedia.org/wiki/麥原伸太郎 "wikilink")（筆名為，是藤子·F·不二雄的入室弟子，也是《[哆啦A夢超棒球外傳](../Page/哆啦A夢超棒球外傳.md "wikilink")》的作者）或[岡田康則](https://zh.wikipedia.org/wiki/岡田康則 "wikilink")（1998年進入[藤子·F·不二雄製作公司](../Page/藤子·F·不二雄製作公司.md "wikilink")，2001年為大長篇《[大雄與翼之勇者](../Page/大雄與翼之勇者.md "wikilink")們》的主畫者）執筆。但自2006年始不再有新的大長篇作品。
 
 ### 哆啦A夢歌舞劇
 
@@ -102,13 +108,13 @@
 
 哆啦A夢（短篇漫畫）中的主要角色有：
 
-| 角色名稱                                      | 角色簡介                                                                                                                                                                                                                                                                                                                                            |
-| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [哆啦A夢](../Page/哆啦A夢_\(角色\).md "wikilink") | 本作主角（原名：ドラえもん），香港稱多-{}-啦A夢，來自未來世界（22世紀）的藍色貓型機器人，身上的四次元百寶袋裝有許多道具，為改變大雄的命運而來。因為失去原生的耳朵（电视动画设定被真正的老鼠咬掉，《[2112年哆啦A梦的诞生](https://zh.wikipedia.org/wiki/2112年哆啦A梦的诞生 "wikilink")》设定被机械鼠咬掉），常被人以為是[藍色](../Page/藍色.md "wikilink")的[狸貓而引起不滿](https://zh.wikipedia.org/wiki/狸貓 "wikilink")。弱點為害怕[老鼠](https://zh.wikipedia.org/wiki/老鼠 "wikilink")，喜歡吃銅鑼燒。 |
-| [大雄](../Page/野比大雄.md "wikilink")          | 本名野比大雄（野比のび太）。本作主角，哆啦A夢負責照顧的對象。功課、體育都不好（程度小學二年級），也因個性懦弱、懶惰而常受師長的責罵及同學的霸凌。時常因獲得道具而貪心，但總體心地善良，富有同理心，熱愛自然。擅長射擊、翻花繩和快速入睡(最快記錄為0.93秒)。喜歡靜香。                                                                                                                                                                                                          |
-| [靜香](../Page/源靜香.md "wikilink")           | 本名源靜香（源しずか）。本作要角，大雄的同學兼朋友，後成為女友與妻子，讀書用功兼性情溫和。愛好和平。缺點是有點潔癖（時常被發現在洗澡），有時性格小氣，而且拉小提琴的琴聲甚至比胖虎的歌還具有破壞力（最初設定並非如此）。                                                                                                                                                                                                                                    |
-| [小夫](../Page/骨川小夫.md "wikilink")          | 本名骨川小夫（骨川すね夫）。本作要角，家境富裕，篤信科學並喜愛藝術，缺點是喜好賣弄、膽小、炫耀、耍小聰明、非常自戀。                                                                                                                                                                                                                                                                                      |
-| [胖虎](../Page/剛田武.md "wikilink")           | 本名剛田武（剛田たけし）。本作要角，隨-{zh-hant:著;zh-hans:着}-作品的發展，個性愈來愈兇暴。身強力壯，愛欺負人，打人時最常用拳頭。有時在同學受外人欺負時也會挺身而出的孩子王。喜歡唱歌和烹飪，水平極差卻不自覺。尤其是唱歌，沒有人受得了。優點是勇敢、有正義感。很怕自己的媽媽。喜歡玩洋娃娃。                                                                                                                                                                                       |
+| 角色名稱                                      | 角色簡介                                                                                                                                                                                                                                                                                                                         |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [哆啦A夢](../Page/哆啦A夢_\(角色\).md "wikilink") | 本作主角（原名：ドラえもん），香港稱多-{}-啦A夢，來自未來世界（22世紀）的藍色貓型機器人，身上的四次元百寶袋裝有許多道具，為改變大雄的命運而來。因為失去原生的耳朵（电视动画设定被真正的老鼠咬掉，《[2112年哆啦A梦的诞生](https://zh.wikipedia.org/wiki/2112年哆啦A梦的诞生 "wikilink")》设定被机械鼠咬掉），常被人以為是[藍色](../Page/藍色.md "wikilink")的[狸貓而引起不滿](../Page/化狸.md "wikilink")。弱點為害怕[老鼠](https://zh.wikipedia.org/wiki/老鼠 "wikilink")，喜歡吃銅鑼燒。 |
+| [大雄](../Page/野比大雄.md "wikilink")          | 本名野比大雄（野比のび太）。本作主角，哆啦A夢負責照顧的對象。功課、體育都不好（程度小學二年級），也因個性懦弱、懶惰而常受師長的責罵及同學的霸凌。時常因獲得道具而貪心，但總體心地善良，富有同理心，熱愛自然。擅長射擊、翻花繩和快速入睡(最快記錄為0.93秒)。喜歡靜香。                                                                                                                                                                                       |
+| [靜香](../Page/源靜香.md "wikilink")           | 本名源靜香（源しずか）。本作要角，大雄的同學兼朋友，後成為女友與妻子，讀書用功兼性情溫和。愛好和平。缺點是有點潔癖（時常被發現在洗澡），有時性格小氣，而且拉小提琴的琴聲甚至比胖虎的歌還具有破壞力（最初設定並非如此）。                                                                                                                                                                                                                 |
+| [小夫](../Page/骨川小夫.md "wikilink")          | 本名骨川小夫（骨川すね夫）。本作要角，家境富裕，篤信科學並喜愛藝術，缺點是喜好賣弄、膽小、炫耀、耍小聰明、非常自戀。                                                                                                                                                                                                                                                                   |
+| [胖虎](../Page/剛田武.md "wikilink")           | 本名剛田武（剛田たけし）。本作要角，隨-{zh-hant:著;zh-hans:着}-作品的發展，個性愈來愈兇暴。身強力壯，愛欺負人，打人時最常用拳頭。有時在同學受外人欺負時也會挺身而出的孩子王。喜歡唱歌和烹飪，水平極差卻不自覺。尤其是唱歌，沒有人受得了。優點是勇敢、有正義感。很怕自己的媽媽。喜歡玩洋娃娃。                                                                                                                                                                    |
 
 ## 名稱由來
 
@@ -326,7 +332,7 @@
 <p>小学館</p></td>
 <td><p>小学館corocoro文庫</p></td>
 <td><p>1—16集</p></td>
-<td><p>1994年—刊行中</p></td>
+<td><p>1994年—</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -450,7 +456,7 @@
 ### 哆啦A夢教育動畫
 
 日本曾經制作兩部關於交通安全運動的防災動畫短篇影片，第一片的內容是胖虎追趕大雄而遭到交通事故；第二片的內容都是在說明交通規則常識，在交通安全指導日的時候放映於各小學。而哆啦A夢亦曾經是[台北市政府衛生局的代言人之一](https://zh.wikipedia.org/wiki/台北市政府 "wikilink")\[27\]。
-香港方面，哆啦A夢亦曾經是機電工程處的代言人之一。
+香港方面，哆啦A夢亦曾經是機電工程處的代言人之一，宣傳「安全使用升降機」知識。
 
 ## 道具
 
@@ -486,7 +492,7 @@
 
 1973年，《哆啦A夢》（當時名為《叮噹》）由《[兒童樂園](../Page/兒童樂園.md "wikilink")》引入香港之後，香港成為日本以外最早的《哆啦A夢》出版地區。 叮噹、大雄、靜宜、牙擦仔及技安等名字亦是由《兒童樂園》所起的。在1980年代中、後期，《叮噹》的書籍由一間名叫「海豹叢書」的公司出版，該公司在每本書的背頁聲稱擁有版權，但在期數編輯上與日本相異。
 
-直至1992年，正規版本由[玉郎集團](https://zh.wikipedia.org/wiki/玉郎集團 "wikilink")（後改名[文化傳信](../Page/文化傳信.md "wikilink")）出版，仍以《叮噹》名稱推出，直至1997年改為《哆啦A夢》。 自1999年起，第十七集以後的大長篇、彩色作品集、彩色電影版及其他學習漫畫系列由香港[青文出版社](../Page/青文出版社.md "wikilink")陸續出版。2003年，文化傳信獲授權推出《哆啦A夢文庫版》香港中文版。2005年，《哆啦A夢+》（哆啦A夢PLUS）及《哆啦A夢兒童版》亦由文化傳信出版。
+直至1992年，正規版本由[玉郎集團](https://zh.wikipedia.org/wiki/玉郎集團 "wikilink")（後改名[文化傳信](../Page/文化傳信.md "wikilink")）出版，仍以《叮噹》名稱推出，直至1996年改為《哆啦A夢》。 自1999年起，第十七集以後的大長篇、彩色作品集、彩色電影版及其他學習漫畫系列由香港[青文出版社](../Page/青文出版社.md "wikilink")陸續出版。2002年，文化傳信獲授權推出《哆啦A夢文庫版》香港中文版。2005年，《哆啦A夢+》（哆啦A夢PLUS）及《哆啦A夢兒童版》亦由文化傳信出版。
 
 電視動畫方面，1982年2月1日開始在《[430穿梭機](../Page/430穿梭機.md "wikilink")》節目內播放（香港從未播放過日本電視台NTV的第1作版本），同年8月14日至26日首套電影版以《八寶叮噹》名稱上映（原名：[大雄的恐龍](../Page/大雄的恐龍.md "wikilink")）。
 
@@ -596,15 +602,19 @@
 
 同年12月29日至2013年4月7日移師[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，4月23日至7月21日移師[台中](https://zh.wikipedia.org/wiki/台中 "wikilink")。日本於2013年3月9日至3月31日亦有同類展覽，為電影《[大雄的秘密道具博物館](../Page/大雄的秘密道具博物館.md "wikilink")》宣傳活動之一。而結束了台中的展覽後，在2013年11月13日宣布將於2013年12月14日至2014年3月23日，為期100天，在馬來西亞吉隆坡Viva Home EXPO Hall舉行，陪伴馬來西亞的朋友度過聖誕節、跨年以及農曆新年。而馬來西亞成為第四個亞洲國家，也是第一個在東南亞舉辦此展覽的國家。[中国大陆](../Page/中国大陆.md "wikilink")方面，原定于2012年9月15日在[上海举行哆啦A梦诞生前](https://zh.wikipedia.org/wiki/上海 "wikilink")100年展览，而后宣布展览延期，原因不明。后来又宣布取消展览计划。
 
+### 官方旗艦店
+
+2019年12月哆啦A夢全球首家常設性官方店將在[東京台場開業](https://zh.wikipedia.org/wiki/東京 "wikilink")，店名為「哆啦A夢未來百貨公司」位於台場購物廣場（DiverCity Tokyo Plaza ）內，設有秘密道具實驗室、哆啦A夢時間廣場等。\[50\]
+
 ## 冷知識
 
   - [藤子不二雄<font class="Unicode">Ⓐ</font>在和藤子](../Page/藤子不二雄Ⓐ.md "wikilink")·F·不二雄拆夥之前，也曾經對於特殊專案或特製商品等畫過哆啦A夢與大雄。
-  - 根據統計，大雄在《哆啦A夢》全集中一共被胖虎揍173次，被老師罵60次，被媽媽罵327次，被狗咬23次，掉進水溝14次。此數據統計範圍為瓢蟲漫畫45卷短篇，不包含未收録作品、大長篇、動畫作品。\[50\]。
-  - [富士電視台](../Page/富士電視台.md "wikilink")有個專門介紹各種情報與偏門知識的節目，曾經對[美国联邦通信委员会質疑過為何他們的Broadband會與哆啦A夢這麼酷似](https://zh.wikipedia.org/wiki/美国联邦通信委员会 "wikilink")；不過後來因為很多原因，這件事情並未被收錄在該節目所出版的書本中；而當時美國聯邦通訊委員會的相關人員並無法回應這個節目的質問，考察者的回報內容是說：「網頁是與臨時一起開發的設計師所做，目前消息並不清楚。」\[51\]
+  - 根據統計，大雄在《哆啦A夢》全集中一共被胖虎揍173次，被老師罵60次，被媽媽罵327次，被狗咬23次，掉進水溝14次。此數據統計範圍為瓢蟲漫畫45卷短篇，不包含未收録作品、大長篇、動畫作品。\[51\]。
+  - [富士電視台](../Page/富士電視台.md "wikilink")有個專門介紹各種情報與偏門知識的節目，曾經對[美国联邦通信委员会質疑過為何他們的Broadband會與哆啦A夢這麼酷似](https://zh.wikipedia.org/wiki/美国联邦通信委员会 "wikilink")；不過後來因為很多原因，這件事情並未被收錄在該節目所出版的書本中；而當時美國聯邦通訊委員會的相關人員並無法回應這個節目的質問，考察者的回報內容是說：「網頁是與臨時一起開發的設計師所做，目前消息並不清楚。」\[52\]
   - 1996年，在[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")的葬禮上，藤子不二雄<font class="Unicode">Ⓐ</font>被許多[記者](../Page/記者.md "wikilink")詢問「是否會接續《哆啦A夢》的執筆？」，藤子不二雄<font class="Unicode">Ⓐ</font>的回應是：「那是我所無法畫出的作品類型。」
   - 2006年，中華民國[雙十國慶煙火中](https://zh.wikipedia.org/wiki/雙十國慶 "wikilink")，曾出現過以哆啦A夢為圖案的煙火，主要樣貌以頭型、眼睛及其鬍鬚為主軸。而2007年在[嘉義縣](../Page/嘉義縣.md "wikilink")[太保市舉行的](https://zh.wikipedia.org/wiki/太保市 "wikilink")[台灣燈會也點放了哆啦A夢煙火](https://zh.wikipedia.org/wiki/臺灣燈會 "wikilink")。
-  - 2007年，香港發生[叮噹網站因版權問題被逼關站事件](https://zh.wikipedia.org/wiki/香港哆啦A夢迷網站版權爭議事件 "wikilink")，引起爭議。\[52\]
-  - 在中國真人版推出之前，還有日本[豐田汽車廣告版](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")\[53\]、泰國版及越南版\[54\]。
+  - 2007年，香港發生[叮噹網站因版權問題被逼關站事件](https://zh.wikipedia.org/wiki/香港哆啦A夢迷網站版權爭議事件 "wikilink")，引起爭議。\[53\]
+  - 在中國真人版推出之前，還有日本[豐田汽車廣告版](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")\[54\]、泰國版及越南版\[55\]。
 
 ### 以哆啦A夢為題材的歌曲
 
@@ -613,11 +623,11 @@
 
 <!-- end list -->
 
-  - 2014年，[馬來西亞歌手](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[四葉草單曲](../Page/朱主爱.md "wikilink")《[伸出圓手](https://zh.wikipedia.org/wiki/伸出圓手 "wikilink")》，四葉草作曲，四葉草及[黃明志填詞](https://zh.wikipedia.org/wiki/黃明志 "wikilink")。歌曲改編自主題曲《哆啦A夢之歌》，歌詞中有動漫哆啦A夢的對白\[55\]\[56\]。
+  - 2014年，[馬來西亞歌手](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[四葉草單曲](../Page/朱主爱.md "wikilink")《[伸出圓手](https://zh.wikipedia.org/wiki/伸出圓手 "wikilink")》，四葉草作曲，四葉草及[黃明志填詞](https://zh.wikipedia.org/wiki/黃明志 "wikilink")。歌曲改編自主題曲《哆啦A夢之歌》，歌詞中有動漫哆啦A夢的對白\[56\]\[57\]。
 
 ### 跟《哆啦A夢》有關的電視劇
 
-  - 2019年，香港無線電視翡翠台劇集《[十二傳說](../Page/十二傳說.md "wikilink")》中的「抗日達德學校殺人事件」，有部分角色的名字為影射《哆啦A夢》中的多個角色，包括哆啦A夢、哆啦美、大雄、靜香、小夫、胖虎和出木杉。雖劇集情節與《哆啦A夢》無關，卻看到人物設定與《哆啦A夢》中的角色有關係，比如劇中的江兆夫 (小夫) 是骨川集團的少東、戴偉雄 (大雄) 為了阮靜宜 (靜香) 而謀殺他人 **<font color=red>(注意：不是指《哆啦A夢》中大雄為了靜香而殺人(不是暴力漫畫)，而是指出相同之處是大雄會為了靜香而做事，沒有人會認同劇中戴偉雄 (大雄) 的做法)</font>**。除了劇情涉及對阮靜宜 (靜香) 的性暴力及不雅行為外，最諷刺的竟然是設定戴偉雄 (大雄) 是一個舊制會考「十優狀元」！
+  - 2019年，香港無線電視翡翠台劇集《[十二傳說](../Page/十二傳說.md "wikilink")》中的「抗日達德學校殺人事件」，有部分角色的名字為影射《哆啦A夢》中的多個角色，包括哆啦A夢、哆啦美、大雄、靜香、小夫、胖虎和出木杉。雖劇集情節與《哆啦A夢》無關，卻看到人物設定與《哆啦A夢》中的角色有關係，比如劇中的江兆夫 (小夫) 是骨川集團的少東、戴偉雄 (大雄) 為了阮靜宜 (靜香) 而謀殺他人 **<font color=red>(注意：不是指《哆啦A夢》中大雄為了靜香而殺人(不是暴力漫畫)，而是指出相同之處是大雄會為了靜香而做事，沒有人會認同劇中戴偉雄 (大雄) 的做法)</font>**。除了劇情涉及對阮靜宜 (靜香) 的性暴力及不雅行為「不知所謂」外，最諷刺的竟然是設定戴偉雄 (大雄) 是一個舊制會考「十優狀元」！
 
 ## 注释
 
@@ -650,115 +660,62 @@
 
   - [-{Doraemon Official US website}-](http://www.doraemon.com/index.html)（哆啦A夢美國官方網站）
 
-[Category:哆啦A夢](https://zh.wikipedia.org/wiki/Category:哆啦A夢 "wikilink") [Category:日本動畫](https://zh.wikipedia.org/wiki/Category:日本動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink") [Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink") [Category:藤子·F·不二雄](https://zh.wikipedia.org/wiki/Category:藤子·F·不二雄 "wikilink") [Category:手塚治虫文化獎獲獎作品](https://zh.wikipedia.org/wiki/Category:手塚治虫文化獎獲獎作品 "wikilink") [Category:時間旅行漫畫](https://zh.wikipedia.org/wiki/Category:時間旅行漫畫 "wikilink") [Category:虛構時間旅行者](https://zh.wikipedia.org/wiki/Category:虛構時間旅行者 "wikilink") [Category:22世纪背景作品](https://zh.wikipedia.org/wiki/Category:22世纪背景作品 "wikilink") [Category:自主機器人題材漫畫](https://zh.wikipedia.org/wiki/Category:自主機器人題材漫畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:朝日電視台節目](https://zh.wikipedia.org/wiki/Category:朝日電視台節目 "wikilink") [Category:小學館](https://zh.wikipedia.org/wiki/Category:小學館 "wikilink") [Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink")
+[Category:哆啦A夢](https://zh.wikipedia.org/wiki/Category:哆啦A夢 "wikilink") [Category:日本動畫](https://zh.wikipedia.org/wiki/Category:日本動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink") [Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink") [Category:藤子·F·不二雄](https://zh.wikipedia.org/wiki/Category:藤子·F·不二雄 "wikilink") [Category:手塚治虫文化獎獲獎作品](https://zh.wikipedia.org/wiki/Category:手塚治虫文化獎獲獎作品 "wikilink") [Category:時間旅行漫畫](https://zh.wikipedia.org/wiki/Category:時間旅行漫畫 "wikilink") [Category:虛構時間旅行者](https://zh.wikipedia.org/wiki/Category:虛構時間旅行者 "wikilink") [Category:22世纪背景作品](https://zh.wikipedia.org/wiki/Category:22世纪背景作品 "wikilink") [Category:自主機器人題材漫畫](https://zh.wikipedia.org/wiki/Category:自主機器人題材漫畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:香港之最](https://zh.wikipedia.org/wiki/Category:香港之最 "wikilink") [Category:朝日電視台節目](https://zh.wikipedia.org/wiki/Category:朝日電視台節目 "wikilink") [Category:小學館](https://zh.wikipedia.org/wiki/Category:小學館 "wikilink") [Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink")
 
 1.  《哆啦A夢全集》（全45卷），藤子·F·不二雄，（日本）小學館，[ISBN 978-4971189453](http://www.amazon.co.jp/gp/search?search-alias=stripbooks&__mk_ja_JP=%83J%83%5E%83J%83i&author=&select-author=field-author&title=&select-title=field-title&subject=&select-subject=field-subject&field-isbn=9784871189453&field-publisher=&field-binding=&node=&field-dateyear=2009&field-datemod=0&field-dateop=before&rank=%2Bsalesrank&mysubmitbutton1.x=28&mysubmitbutton1.y=12)
-
 2.  《哆啦A夢短篇集PLUS》（全6卷），藤子·F·不二雄，台灣青文出版社
-
 3.  《哆啦A夢電影大長篇》（全24卷），藤子·F·不二雄，台灣青文出版社
-
 4.  為什麼靜香一定要嫁給大雄：從哆啦A夢發覺日常生活不思議，中川右介，尖端出版，[ISBN 9789571059013](https://zh.wikipedia.org/wiki/ISBN_9789571059013 "wikilink")
-
 5.  科幻作品原先在當時並不是用SF稱呼
-
 6.  出版月報
-
 7.  ドラえもん学，出版：PHP研究所(2005/4/16)，作者：横山泰行，P.60
-
 8.  [YESASIA: Fujiko F. Fujio - 全カテゴリー - - 無料配送](http://global.yesasia.com/jp/artIdxDept.aspx/aid-30167/section-comics/code-c/)
-
 9.  [hanaballcon](http://hanaballoon.com/dorachan/data/comics/index.html)
-
 10. 第15卷《人生重來機》p.100
-
 11.
-
 12.
-
 13.
-
 14. <http://chinesedora.com/data/story.htm>
-
 15. 《藤子·F·不二雄大全集 哆啦A夢》第20卷 藤子·F·不二雄 臺灣青文出版社
-
 16. 劇場版《2112年，哆啦Ａ夢誕生》https://www.youtube.com/watch?v=FCRz3lITYtE
-
 17.
-
 18.
-
 19. Manga: An Anthology of Global and Cultural Perspectives,P.339
-
 20. 《日本畫報》，1982年第5卷第2期第4頁。
-
 21.
-
 22. 《》作者：大山羡代，[小學館](../Page/小學館.md "wikilink")出版；ISBN 978-4-09-387654-4。書名中譯：我是哆啦A夢。透露26年來淚水與歡笑的告白；這是一部大山羡代在退休後於2005年6月所寫的自傳。
-
 23. [](http://www.12girls.jp/report/0506/dora2.html) （有關[女子十二樂坊](../Page/女子十二樂坊.md "wikilink")與哆啦A夢的余談）
-
 24. [朝日電視臺上的報道](http://www.tv-asahi.co.jp/doraemon/contents/topics/backnumber/0064/top.html)
-
 25. [次回のドラえもんは１０月５日（土）ごご５時からの放送だよ！](https://www.tv-asahi.co.jp/doraemon/news/0360/)
-
 26. <http://www.kudan.jp/osusume/doraemon.html> 當時這個夢幻企劃案的企劃書
-
 27. [哆啦A夢健康百寶袋](http://www.dora-world.com.tw/event/news_conference_200411/index.htm)
-
 28. [](http://www3.u-toyama.ac.jp/doraemon/submit/repo_70.html) （哆啦A夢新聞紀錄，2004年4月2日，日刊體育新聞）；[](http://www3.u-toyama.ac.jp/doraemon/submit/repo_69.html)（哆啦A夢新聞紀錄，2004年4月2日，產經新聞）；[](http://www3.u-toyama.ac.jp/doraemon/submit/repo_71.html)（哆啦A夢新聞紀錄，2004年4月2日，北日本新聞）；[](http://www3.u-toyama.ac.jp/doraemon/submit/repo_66.html)（哆啦A夢新聞紀錄，2004年4月1日18時19分更新，日本Yahoo\!社會新聞）
-
 29. 第18卷《百苦受難器》
-
 30. 第10卷《願望之星》
-
 31. 第八卷《[人類製造機](https://zh.wikipedia.org/wiki/人類製造機 "wikilink")》
-
 32. [ファンのみなさんへ](http://www.dora-world.com/news/dearfans_f.html)
-
 33. [速報\!\! 新映画は『のび太の恐竜2006』](http://www.dora-world.com/news/movie2006/index.html)
-
 34. [2008年　『映画ドラえもん　のび太と緑の巨人伝』　公式サイト](http://doraeiga.com/2008/index.html)
-
 35.
-
 36. 《皮里卡星球大戰》刊載于《兒童時代》，1989年，20-24頁
-
 37.
-
 38.
-
 39. <https://list.youku.com/show/id_zd79cc8ba652411e1b318.html>
-
 40. <https://www.iqiyi.com/lib/m_204959014.html>
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47. 《》出版社：，作者：司馬理英子。ISBN 978-4-07-221273-8。
-
 48.
 49. [産経、新聞　ENAK　ドラえもん海底列車　今月でお別れ　ＪＲ北海道](http://www.sankei.co.jp/enak/2006/aug/kiji/02doraemon.html)
-
-50. 參見[遠足新報（日文）](http://uuseizin.web.infoseek.co.jp/dora/)
-
-51. 參見[美國通訊委員會 Kids Zone](http://www.fcc.gov/cgb/kidszone/)
-
-52.
-
+50. [哆啦A夢未來百貨開幕](https://zh.cn.nikkei.com/trend/cool-japan/38393-2019-11-29-16-13-37.html)
+51. 參見[遠足新報（日文）](http://uuseizin.web.infoseek.co.jp/dora/)
+52. 參見[美國通訊委員會 Kids Zone](http://www.fcc.gov/cgb/kidszone/)
 53.
-
-54. [越南推真人版《哆啦A梦》 网友吐槽:毁童年(组图)](http://gb.cri.cn/42071/2014/07/04/6611s4602503.htm)
-
-55. [](http://www.buzzhand.com/post_170396.html)
-
-56.
+54.
+55. [越南推真人版《哆啦A梦》 网友吐槽:毁童年(组图)](http://gb.cri.cn/42071/2014/07/04/6611s4602503.htm)
+56. [](http://www.buzzhand.com/post_170396.html)
+57.

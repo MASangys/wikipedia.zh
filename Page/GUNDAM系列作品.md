@@ -20,7 +20,9 @@
 
 ### 其他[軍事](../Page/軍事.md "wikilink")[硬科幻](../Page/硬科幻.md "wikilink")派動畫
 
-首先見於[G GUNDAM](https://zh.wikipedia.org/wiki/G_GUNDAM "wikilink")，和宇宙世紀一樣是正經地拍一個有關政治和軍事的故事，但屬於一部完成的簡化的以地球中心的近未來科幻動畫。因為其制作出來的的總片長和集數都超過了宇宙世紀系列，所以可以說是在非宇宙世紀的正統鋼彈系列。而其特色是和宇宙世紀一樣，都是從一部電視動畫而來，制作的[導演擁有使用全新的背景設定](https://zh.wikipedia.org/wiki/導演 "wikilink")，所以不重覆使舊作相似的人物組織機械等，而這類作品多是出於日昇另一主要部門第三工作室之手，有別於第一工作室的作畫風格，但也形成了自己的固定觀眾而足和宇宙世紀系列分庭抗禮。
+首先見於[G GUNDAM](https://zh.wikipedia.org/wiki/G_GUNDAM "wikilink")，和宇宙世紀一樣是正經地拍一個有關政治和軍事的故事，但屬於一部完成的簡化的以地球中心的近未來科幻動畫。和宇宙世紀系列一樣，僅有較太空歌劇低得多的科技水平，如沒有超光速旅行和通信手段。
+
+因為其制作出來的的總片長和集數都超過了宇宙世紀系列，所以可以說是在非宇宙世紀的正統鋼彈系列。而其特色是和宇宙世紀一樣，都是從一部電視動畫而來，制作的[導演擁有使用全新的背景設定](https://zh.wikipedia.org/wiki/導演 "wikilink")，所以不重覆使舊作相似的人物組織機械等，而這類作品多是出於日昇另一主要部門第三工作室之手，有別於第一工作室的作畫風格，但也形成了自己的固定觀眾而足和宇宙世紀系列分庭抗禮。
 
 雖則各紀元名義上可組成一條完整時間線，但作品皆僅是一至兩季，每季也是半至一年，集中在單一場戰爭發展到結束。集中描述人類在某一紀元進入宇宙時代後的狀況。而這些作品較少有續集外傳等，鮮有使用電視以外的發行方式，其電影動畫和[OVA或](https://zh.wikipedia.org/wiki/OVA "wikilink")[網絡動畫產量很少的](https://zh.wikipedia.org/wiki/網絡動畫 "wikilink")。
 
@@ -34,39 +36,39 @@
 
 ## 系列的開展
 
-初時是以GUNBOY（約2米高的機械強化服，類似[星艦戰將](../Page/星艦戰將.md "wikilink")的風格，但以人與人之間的戰爭為主軸）為題，後來因應贊助商要求改為18米高，並以《**機動戰士GUNDAM**》為題，被定爲一年計劃的機器人動畫而製作、播放，而且定位成青少年的作品。可是因為作品的風格與當時主流的機械人作品並不相同，收視率和週邊玩具的銷售額每況愈下，播放集數也從原定的50集被縮減為43集。但次年轉到午夜的時段重播時卻突然大受當時的高中生及已經投入社會的動畫迷歡迎，並在81及82年重新編集成共三部的劇場版電影，從此成為不滅的系列作。
+初時是以GUNBOY（約2米高的機械強化服，類似[星艦戰將](../Page/星艦戰將.md "wikilink")的風格，但以人與人之間的戰爭為主軸）為題，後來因應贊助商要求改為18米高，並以《**機動戰士GUNDAM**》為題，被定爲一年計劃的[機器人動畫](../Page/機器人動畫.md "wikilink")而製作、播放，而且定位成青少年的作品。可是因為作品的風格與當時主流的機械人作品並不相同，收視率和週邊玩具的銷售額每況愈下，播放集數也從原定的50集被縮減為43集。但次年轉到午夜的時段重播時卻突然大受當時的[高中生及已經投入社會的動畫迷歡迎](https://zh.wikipedia.org/wiki/高中生 "wikilink")，並在[1981年](../Page/1981年.md "wikilink")及[1982年](../Page/1982年.md "wikilink")重新編集成共三部的劇場版電影，從此成為不滅的系列作。
 
-機動戰士GUNDAM的塑膠玩具產品[模型](https://zh.wikipedia.org/wiki/模型 "wikilink")，在重播結束半年後，第一個“1:144 Gundam”開始銷售。銷路從一開始就很順利，此後充實了商品的陣容，自小學生到青少年的廣大愛好者使其更爲暢銷。而專為模型銷售，只做了設定的軍事化系列**MSV**機動戰士模型也大受歡迎。
+機動戰士GUNDAM的塑膠玩具產品[模型](https://zh.wikipedia.org/wiki/模型 "wikilink")，在重播結束半年後，第一個“1:144 Gundam”開始銷售。銷路從一開始就很順利，此後充實了商品的陣容，自[小學生到](https://zh.wikipedia.org/wiki/小學生 "wikilink")[青少年](../Page/青少年.md "wikilink")的廣大愛好者使其更爲暢銷。而專為模型銷售，只做了設定的軍事化系列**MSV**機動戰士模型也大受歡迎。
 
-人氣與日俱增的同時，愛好者們期望續作的聲音亦更爲強烈，爲了回應期盼，在《機動戰士GUNDAM》完結六年後製作了《Z GUNDAM》（此為史上第一部於台灣電視上播映的鋼彈作品，當時譯名為「-{剛}-彈勇士」），開啟了GUNDAM的系列化。與此同時，開始以[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[遊戲等多種媒體展開業務](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，**GUNDAM**成爲了一項産業。
+人氣與日俱增的同時，愛好者們期望續作的聲音亦更爲強烈，爲了回應期盼，在《[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")》完結六年後製作了《[Z GUNDAM](https://zh.wikipedia.org/wiki/Z_GUNDAM "wikilink")》（此為史上第一部於[台灣電視上播映的鋼彈作品](https://zh.wikipedia.org/wiki/台灣 "wikilink")，當時譯名為「-{剛}-彈勇士」），開啟了GUNDAM的系列化。與此同時，開始以[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[遊戲等多種媒體展開業務](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，**GUNDAM**成爲了一項産業。
 
-在《GUNDAM ZZ》後，日昇制作了一部使用和初代GUNDAM相似設定的[機甲戰記威龍](../Page/機甲戰記威龍.md "wikilink")，但在故事世界是毫無相關的獨立作品，影響了日後日昇創作的方向。另一方面又以以前的GUNDAM系列為藍本，制作了搞笑兒童向的[SD高達](https://zh.wikipedia.org/wiki/SD高達 "wikilink")，成為第一部以高達為名，但故事全無關係的動畫。
+在《[GUNDAM ZZ](https://zh.wikipedia.org/wiki/GUNDAM_ZZ "wikilink")》後，[日昇](../Page/日昇.md "wikilink")制作了一部使用和初代GUNDAM相似設定的[機甲戰記威龍](../Page/機甲戰記威龍.md "wikilink")，但在故事世界是毫無相關的獨立作品，影響了日後日昇創作的方向。另一方面又以以前的GUNDAM系列為藍本，制作了搞笑兒童向的[SD高達](https://zh.wikipedia.org/wiki/SD高達 "wikilink")，成為第一部以高達為名，但故事全無關係的動畫。
 
-UC系列也有兩部剧场版推出，分别为《逆襲的夏亞》、《GUNDAM F91》。前者頗受好評，後者則是為了之後的TV版新作《V GUNDAM》鋪路。
+UC系列也有兩部剧场版推出，分别为《[逆襲的夏亞](https://zh.wikipedia.org/wiki/逆襲的夏亞 "wikilink")》、《GUNDAM F91》。前者頗受好評，後者則是為了之後的TV版新作《[V GUNDAM](https://zh.wikipedia.org/wiki/V_GUNDAM "wikilink")》鋪路。
 
-《V GUNDAM》，由於不再以UC傳統的聯邦和吉翁之間的衝突為背景，未能取得佳績。
+《[V GUNDAM](https://zh.wikipedia.org/wiki/V_GUNDAM "wikilink")》，由於不再以UC傳統的聯邦和吉翁之間的衝突為背景，未能取得佳績。
 
-在90年代為了開闢新市場，引入新风格而制作的《G GUNDAM》，开创了GUNDAM系列唯一的超級系作品。《G GUNDAM》中滲入大量的「香港元素」令眾多香港的GUNDAM同好看得不亦樂乎。本劇在香港播出時，官方廣東話插曲曾被一些不明就里的觀眾投訴電視台篡改日本原聲動畫歌曲。由《G GUNDAM》開始，到《GUNDAM W》以至《GUNDAM X》，這三部於平成年間播放的作品均以原創的非UC紀元為背景，因此有人便將它們合稱為「平成三部曲」，代表著鋼彈的另一創作高峰。
+在1990年代為了開闢新市場，引入新风格而制作的《[G GUNDAM](https://zh.wikipedia.org/wiki/G_GUNDAM "wikilink")》，开创了GUNDAM系列唯一的超級系作品。《G GUNDAM》中滲入大量的「香港元素」令眾多[香港](../Page/香港.md "wikilink")的GUNDAM同好看得不亦樂乎。本劇在香港播出時，官方[廣東話插曲曾被一些不明就里的觀眾投訴電視台篡改日本原聲動畫歌曲](https://zh.wikipedia.org/wiki/廣東話 "wikilink")。由《G GUNDAM》開始，到《[GUNDAM W](https://zh.wikipedia.org/wiki/GUNDAM_W "wikilink")》以至《[GUNDAM X](https://zh.wikipedia.org/wiki/GUNDAM_X "wikilink")》，這三部於[平成](../Page/平成.md "wikilink")年間播放的作品均以原創的非UC紀元為背景，因此有人便將它們合稱為「平成三部曲」，代表著鋼彈的另一創作高峰。
 
-GUNDAM引入寫實風格也是從90年代几部OVA开始的，其中在GUNDAM历史上大受好评的OVA三部作《第08MS小队》、《GUNDAM 0080 口袋中的戰爭》、《GUNDAM 0083 星塵作戰回憶錄》。这三部作品摒弃了富野的风格，以趋向真实为目标，设定严谨，作畫精致而著称。之后又陸續推出了剧场版《米拉的报告书》、《吉翁的残光》，大致上可视为总集篇，僅有少量新作画面出现。
+GUNDAM引入寫實風格也是從90年代几部[OVA开始的](https://zh.wikipedia.org/wiki/OVA "wikilink")，其中在GUNDAM历史上大受好评的OVA三部作《第08MS小队》、《GUNDAM 0080 口袋中的戰爭》、《GUNDAM 0083 星塵作戰回憶錄》。这三部作品摒弃了富野的风格，以趋向真实为目标，设定严谨，作畫精致而著称。之后又陸續推出了剧场版《米拉的报告书》、《吉翁的残光》，大致上可视为总集篇，僅有少量新作画面出现。
 
-后来UC纪元又一次推出全新的全3D的OVA作品，一年战争秘录系列。第一部以吉翁装备试验部队的视角重新演绎波澜壮阔的0079一年战争，但因“吉翁翻案风”味道过重而被指为“军国主义复辟”。第二部重力战线以联邦军普通士兵的视角记述一年战争期间在地表发生的战斗。
+后来UC纪元又一次推出全新的全3D的OVA作品，一年战争秘录系列。第一部以吉翁装备试验部队的视角重新演绎波澜壮阔的0079一年战争，但因“吉翁翻案风”味道过重而被指为“[军国主义](../Page/军国主义.md "wikilink")复辟”。第二部重力战线以联邦军普通士兵的视角记述一年战争期间在地表发生的战斗。
 
-《GUNDAM W》採用了類似現場[舞台演出的元素](https://zh.wikipedia.org/wiki/舞台 "wikilink")，如現實中不可能的光暗等方式，配合美少年形象的鋼彈駕駛員，出乎意料地大受女性觀眾歡迎，打破鋼彈愛好者以男性為主的傳統局面，美形角色的充斥亦為日後如《GUNDAM SEED》及《GUNDAM 00》等所承襲。
+《[GUNDAM W](https://zh.wikipedia.org/wiki/GUNDAM_W "wikilink")》採用了類似現場[舞台演出的元素](https://zh.wikipedia.org/wiki/舞台 "wikilink")，如現實中不可能的光暗等方式，配合美少年形象的鋼彈駕駛員，出乎意料地大受女性觀眾歡迎，打破鋼彈愛好者以男性為主的傳統局面，美形角色的充斥亦為日後如《GUNDAM SEED》及《GUNDAM 00》等所承襲。
 
-《GUNDAM X》的人氣與評價低迷，由本來五十集被縮短為三十九集，GUNDAM陷入了低潮。
+《[GUNDAM X](https://zh.wikipedia.org/wiki/GUNDAM_X "wikilink")》的人氣與評價低迷，由本來五十集被縮短為三十九集，GUNDAM陷入了低潮。
 
 《GUNDAM TURN A》是把以上的“平成三部曲”(G、W、X)合併到[宇宙世紀](../Page/宇宙世紀.md "wikilink")之作。被富野定位為「最後的GUNDAM」與官方定性超未來的鋼彈，但这在商業上顯然仍是失敗的，但其內涵在GUNDAM史上取得崇高地位。反战思維逐漸成為GUNDAM的主流，这一点在后来的TV新作中有所体现。剧场版《地球光》、《月光蝶》，是TV版的总集篇。
 
-《GUNDAM SEED》作為「21世紀的初代鋼彈」，採用初代的劇情，美形的人物設計，取得了商業上的巨大成功。
+《[GUNDAM SEED](https://zh.wikipedia.org/wiki/GUNDAM_SEED "wikilink")》作為「21世紀的初代鋼彈」，採用初代的劇情，美形的人物設計，取得了商業上的巨大成功。
 
 《GUNDAM SEED Destiny》為《GUNDAM SEED》續作，儘管劇情混亂，卻也引發話題，輿論負面多於正面。TV版播放完結後推出的OVA《GUNDAM SEED C.E.73 Stargazer》頗獲好評，由於採用大河原邦男機設及SEED商業化成功，CE紀元亦成為繼UC之後，擁有MSV設定的第二大GUNDAM系列。
 
-《GUNDAM 00》維持了平成三部曲和SEED採用較原創的背景，但又很強烈硬科幻和軍事風格，取得商業化與深度的平衡。TV版播放完結後上映了劇場版電影，大膽嘗試了鋼彈史上首次的人類對外星生命體的遭遇，透過另一種方式詮釋原點。
+《[GUNDAM 00](https://zh.wikipedia.org/wiki/GUNDAM_00 "wikilink")》維持了平成三部曲和SEED採用較原創的背景，但又很強烈硬科幻和軍事風格，取得商業化與深度的平衡。TV版播放完結後上映了劇場版電影，大膽嘗試了鋼彈史上首次的人類對外星生命體的遭遇，透過另一種方式詮釋原點。
 
-《GUNDAM UC》為GUNDAM三十週年的紀念作，七集的OVA，再次延續UC的作品。
+《[GUNDAM UC](https://zh.wikipedia.org/wiki/GUNDAM_UC "wikilink")》為GUNDAM三十週年的紀念作，七集的OVA，再次延續UC的作品。
 
-《GUNDAM AGE》首次挑戰全年齡市場，較能讓年輕的觀眾接受,為之後的TV版新作《GUNDAM Build Fighters》系列鋪路。
+《[GUNDAM AGE](https://zh.wikipedia.org/wiki/GUNDAM_AGE "wikilink")》首次挑戰全年齡市場，較能讓年輕的觀眾接受,為之後的TV版新作《[GUNDAM Build Fighters](https://zh.wikipedia.org/wiki/GUNDAM_Build_Fighters "wikilink")》系列鋪路。
 
 《GUNDAM 鐵血的孤兒》是首套不採用歷代GUNDAM系列的“光束武器”戰鬥風格的作品，劇中大部分機體都是用“[冷武器](https://zh.wikipedia.org/wiki/冷武器 "wikilink")”、“實彈武器”作戰。
 
@@ -200,18 +202,36 @@ Birnam(バーナム)</p></td>
 <td><p>死亡先鋒军(クロスボーン・バンガード)</p></td>
 </tr>
 <tr class="even">
+<td><p><strong>宇宙世纪0133年</strong></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/機動戰士海盜鋼彈" title="wikilink">機動戰士海盜鋼彈</a>》》(1994年 - 1997年)</p></td>
+<td><p>死亡先鋒军(クロスボーン・バンガード)</p></td>
+<td><p>木星帝國(ジュピター・エンパイア)&amp;E.F.S.F(地球聯邦軍)</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>宇宙世紀0136</strong></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/機動戰士海盜鋼彈_鋼鐵的7人" title="wikilink">機動戰士海盜鋼彈 鋼鐵的7人</a>》》(2006 - 2007)</p></td>
+<td><p>死亡先鋒军(クロスボーン・バンガード)&amp;E.F.S.F(地球聯邦軍)</p></td>
+<td><p>木星帝國(ジュピター・エンパイア)</p></td>
+</tr>
+<tr class="even">
 <td><p><strong>宇宙世纪0153年</strong></p></td>
 <td><p>《<a href="../Page/機動戰士V_GUNDAM.md" title="wikilink">機動戰士V GUNDAM</a>》(1993年 - 1994年)</p></td>
 <td><p>神聖軍事(リガ・ミリティア)</p></td>
 <td><p>渣斯卡路帝國(ザンスカール帝国)</p></td>
 </tr>
 <tr class="odd">
+<td><p><strong>宇宙世纪0203</strong></p></td>
+<td><p>《<a href="../Page/Gaia_Gear.md" title="wikilink">Gaia Gear</a>》(1987年 - 1991年)</p></td>
+<td><p>梅塔特隆 (ガイア・ギア)</p></td>
+<td><p>地球聯邦軍（MHA）</p></td>
+</tr>
+<tr class="even">
 <td><p><strong>宇宙世纪0223年</strong></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/G-SAVIOUR" title="wikilink">G-SAVIOUR</a>》(2000年)</p></td>
 <td><p>光照派(イルミナーティ)</p></td>
 <td><p>CONSENT(SETTLEMENT国家议会)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>重鍍世紀1014年</strong></p></td>
 <td><p>《<a href="../Page/GUNDAM_G之复国运动.md" title="wikilink">GUNDAM G之复国运动</a>》(2014年 - 2015年)</p></td>
 <td><p>首都衛隊(キャピタル・アーミィ)<br />
@@ -219,38 +239,38 @@ Birnam(バーナム)</p></td>
 <td><p>-{zh-hk:多華申加;zh-tw:永賀軍;zh-cn:永贺军;}-(トワサンガ)<br />
 -{zh-hk:維納斯軍;zh-tw:金星軍;zh-cn:金星军;}-(ビーナス・グロゥブ)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>正曆2345年</strong></p></td>
 <td><p>《<a href="../Page/∀GUNDAM.md" title="wikilink">∀GUNDAM</a>》(1999年 - 2000年)</p></td>
 <td><p>民兵(ミリシャ)</p></td>
 <td><p>迪亞娜迎擊隊(ディアナ・カウンター)<br />
 金卡納姆艦隊(ギンガナム艦隊)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ANOTHER GUNDAM</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>未来世纪60年</strong></p></td>
 <td><p>《<a href="../Page/機動武鬥傳G_GUNDAM.md" title="wikilink">機動武鬥傳G GUNDAM</a>》(1994年 - 1995年)</p></td>
 <td><p>撲克同盟(シャッフル同盟)</p></td>
 <td><p>恶魔鋼彈軍團(デビルガンダム軍団)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>後殖民紀元195年</strong></p></td>
 <td><p>《<a href="../Page/新機動戰記GUNDAM_W.md" title="wikilink">新機動戰記GUNDAM W</a>》(1995年 - 1996年)</p></td>
 <td><p>鋼彈部隊(ガンダムチーム)</p></td>
 <td><p>OZ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>後殖民紀元196年</strong></p></td>
 <td><p>《<a href="../Page/新機動戰記GUNDAM_W_無盡的華爾茲.md" title="wikilink">新機動戰記GUNDAM W 無盡的華爾茲</a>》(1997年 - 1998年)</p></td>
 <td><p>鋼彈部隊(ガンダムチーム)</p></td>
 <td><p>瑪麗梅雅軍(マリーメイア軍)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>戰後紀元15年</strong></p></td>
 <td><p>《<a href="../Page/機動新世紀GUNDAM_X.md" title="wikilink">機動新世紀GUNDAM X</a>》(1996年)</p></td>
 <td><p>自由號同盟(フリーデン同盟)</p></td>
@@ -258,7 +278,7 @@ Birnam(バーナム)</p></td>
 宇宙革命軍<br />
 D.O.M.E.</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>宇宙纪元71年</strong></p></td>
 <td><p>《<a href="../Page/機動戰士GUNDAM_SEED.md" title="wikilink">機動戰士GUNDAM SEED</a>》(2002年 - 2003年)</p></td>
 <td><p>O.M.N.I.(地球連合)<br />
@@ -266,7 +286,7 @@ ORB(歐普聯合首長國)</p></td>
 <td><p>Z.A.F.T.(札夫特)<br />
 藍色宇宙(ブルーコスモス)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>宇宙纪元73年</strong></p></td>
 <td><p>《<a href="../Page/機動戰士GUNDAM_SEED_DESTINY.md" title="wikilink">機動戰士GUNDAM SEED DESTINY</a>》(2004年 - 2005年)<br />
 《<a href="https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_C.E.73_STARGAZER" title="wikilink">機動戰士GUNDAM SEED STARGAZER</a>》(2006年)</p></td>
@@ -276,7 +296,7 @@ D.S.S.D.(深宇宙探察开发机构)</p></td>
 <td><p>O.M.N.I.(地球連合)<br />
 洛高斯&amp;幻痛(ロゴス&amp;ファントムペイン)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>西元2307年</strong></p></td>
 <td><p>《<a href="../Page/機動戰士GUNDAM_00.md" title="wikilink">機動戰士GUNDAM 00</a>》(2007年 - 2008年)</p></td>
 <td><p>天人(ソレスタルビーイング)</p></td>
@@ -284,7 +304,7 @@ D.S.S.D.(深宇宙探察开发机构)</p></td>
 A.E.U.(新歐盟)<br />
 H.R.L.(人類革新聯盟)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>西元2312年</strong></p></td>
 <td><p>《<a href="../Page/機動戰士GUNDAM_00.md" title="wikilink">機動戰士GUNDAM 00 II</a>》(2008年 - 2009年)</p></td>
 <td><p>天人(ソレスタルビーイング)<br />
@@ -292,20 +312,20 @@ H.R.L.(人類革新聯盟)</p></td>
 <td><p>A-LAWS<br />
 變革者(イノベイター)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>西元2314年</strong></p></td>
 <td><p>《<a href="../Page/劇場版_機動戰士GUNDAM00_-A_wakening_of_the_Trailblazer-.md" title="wikilink">劇場版 機動戰士GUNDAM00 -A wakening of the Trailblazer-</a>》(2010年)</p></td>
 <td><p>天人(ソレスタルビーイング)<br />
 E.S.F.(地球联邦)</p></td>
 <td><p>E.L.S.</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>A.G.115年 - 164年</strong></p></td>
 <td><p>《<a href="../Page/機動戰士GUNDAM_AGE.md" title="wikilink">機動戰士GUNDAM AGE</a>》(2011年 - 2013年)</p></td>
 <td><p>E.F.F.(地球聯邦軍)</p></td>
 <td><p>域根(ヴェイガン)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>P.D.323年</strong></p></td>
 <td><p>《<a href="../Page/機動戰士GUNDAM_鐵血的孤兒.md" title="wikilink">機動戰士GUNDAM 鐵血的孤兒</a>》(2015年 - 2016年)</p></td>
 <td><p>C.G.S.(克里斯護衛保全)<br />
@@ -343,9 +363,10 @@ E.S.F.(地球联邦)</p></td>
   - [機動戰士GUNDAM UC](../Page/機動戰士GUNDAM_UC.md "wikilink")（UC0096，OVA，2010年春動畫化）
   - [機動戰士GUNDAM Twilight AXIS](../Page/機動戰士GUNDAM_Twilight_AXIS.md "wikilink")（UC0096，OVA，2017年6月動畫化）
   - [機動戰士GUNDAM NT](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_NT "wikilink")（UC0097，電影）
-  - [機動戰士GUNDAM 閃光的哈薩維](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_閃光的哈薩維 "wikilink")
+  - [機動戰士GUNDAM 閃光的哈薩維](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_閃光的哈薩維 "wikilink") (UC0100，小說，2020年1月動畫化)
   - [機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")（UC0123，電影，1991年首映）
   - [機動戰士V GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")（UC0153，電視動畫，1993年首播）
+  - [Gaia Gear](../Page/Gaia_Gear.md "wikilink") (UC0203，廣播劇，1987年播出)
   - [G-SAVIOUR](https://zh.wikipedia.org/wiki/G-SAVIOUR "wikilink")（[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[特攝電影](https://zh.wikipedia.org/wiki/特攝 "wikilink")，UC0223，DVD電影，2000年首播）
 
 ### 未来世纪（Future Century, F.C.）

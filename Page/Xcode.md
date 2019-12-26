@@ -155,27 +155,16 @@ Xcode最新的版本是Xcode 10（2018 年 WWDC發布），支持[iOS](https://z
 [Category:MacOS_軟體](https://zh.wikipedia.org/wiki/Category:MacOS_軟體 "wikilink") [Category:iOS_開發](https://zh.wikipedia.org/wiki/Category:iOS_開發 "wikilink") [Category:軟件史](https://zh.wikipedia.org/wiki/Category:軟件史 "wikilink") [Category:蘋果公司軟體](https://zh.wikipedia.org/wiki/Category:蘋果公司軟體 "wikilink") [Category:文本編輯器](https://zh.wikipedia.org/wiki/Category:文本編輯器 "wikilink") [Category:集成開發環境](https://zh.wikipedia.org/wiki/Category:集成開發環境 "wikilink")
 
 1.  [GNU Pascal and Xcode](http://www.microbizz.nl/gpcxcode.html)
-
 2.  [Using Free Pascal with Xcode](http://pascal-central.com/fp-xcode/)
-
 3.  [Tools](http://www.adapower.net/macos/tools.html)
-
 4.  [CSharpPlugin - cocoa-sharp-dev - Google Code](http://code.google.com/p/cocoa-sharp-dev/wiki/CSharpPlugin)
-
 5.  [CamelBones, an Objective-C/Perl bridge for Mac OS X & GNUStep - Home](http://camelbones.sourceforge.net/index.html)
-
 6.  [Haskell Xcode Plugin](http://hoovy.org/HaskellXcodePlugin/)
-
 7.
-
 8.
-
 9.
 10.
 11.
-
 12.
-
 13.
-
 14.

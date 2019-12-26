@@ -213,22 +213,13 @@ SQL标准包含9部分：
 [Category:SQL](https://zh.wikipedia.org/wiki/Category:SQL "wikilink") [Category:数据库](https://zh.wikipedia.org/wiki/Category:数据库 "wikilink") [Category:數據查詢語言](https://zh.wikipedia.org/wiki/Category:數據查詢語言 "wikilink") [Category:宣告式編程語言](https://zh.wikipedia.org/wiki/Category:宣告式編程語言 "wikilink") [Category:ISO标准化编程语言](https://zh.wikipedia.org/wiki/Category:ISO标准化编程语言 "wikilink")
 
 1.  {{ cite book |last= Beaulieu | first = Alan |title=Learning SQL |editor=Mary E Treseler |publisher=O'Reilly |location=Sebastapol, CA, USA |date=April 2009 |edition= 2nd | isbn = 978-0-596-52083-0}}
-
 2.  {{ cite web | title=SQL, n. | website=Oxford English Dictionary | publisher=Oxford University Press | accessdate=2014-11-27 | url=<http://www.oed.com/view/Entry/260112?redirectedFrom=SQL#eid> }}
-
 3.
-
 4.  From Oxford Dictionaries: "Definition of SQL - abbreviation, Structured Query Language, an international standard for database manipulation."
-
 5.
-
 6.  From Microsoft: "Structured Query Language, invented at IBM in the 1970s. It is more commonly known by its acronym, SQL .."
-
 7.  {{ cite journal | last = Codd | first = Edgar F | title = A Relational Model of Data for Large Shared Data Banks | journal = Communications of the ACM | volume = 13 | issue = 6 | pages = 377–87 | publisher = Association for Computing Machinery | date = June 1970 | url = <http://www.acm.org/classics/nov95/toc.html> | accessdate = 2007-06-09 | doi = 10.1145/362384.362685 | deadurl = yes | archiveurl = <https://web.archive.org/web/20070612235326/http://www.acm.org/classics/nov95/toc.html> | archivedate = 2007-06-12 }}
-
 8.
-
 9.
-
 10.
 11. ANSI/ISO/IEC International Standard (IS). Database Language SQL—Part 2: Foundation (SQL/Foundation). 1999.

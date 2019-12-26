@@ -37,5 +37,4 @@ __NOTOC__   [Beard_token.jpg](https://zh.wikipedia.org/wiki/File:Beard_token.jpg
 
 1.
 2.  October 27, 1955 entry in Bernstein's diary, [Зигзаги памяти](http://macedonia.kroraina.com/sb2/sb_1955.htm). Bernstein transcribed the words as рънка, чендо.
-
 3.

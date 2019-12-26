@@ -515,7 +515,7 @@
 <td><p>戸田博史、岸間信明</p></td>
 <td><p><a href="../Page/影山楙倫.md" title="wikilink">影山楙倫</a></p></td>
 <td><p><a href="../Page/渡邊浩.md" title="wikilink">渡邊浩</a></p></td>
-<td><p>香月邦夫、河南正昭、</p></td>
+<td><p>香月邦夫、河南正昭、<a href="https://zh.wikipedia.org/wiki/外崎春雄" title="wikilink">外崎春雄</a></p></td>
 <td></td>
 </tr>
 </tbody>

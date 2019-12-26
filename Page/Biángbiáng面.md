@@ -1,4 +1,4 @@
-[Biang_Biang_Mian.jpg](https://zh.wikipedia.org/wiki/File:Biang_Biang_Mian.jpg "fig:Biang_Biang_Mian.jpg")[Biáng_(regular_script).svg](https://zh.wikipedia.org/wiki/File:Biáng_\(regular_script\).svg "fig:Biáng_(regular_script).svg") **面**（[拼音](../Page/汉语拼音.md "wikilink")：，[注音符號](../Page/注音符號.md "wikilink")：，[国际音标](../Page/國際音標.md "wikilink")：；亦称“**儿面**”，“”字有多种写法，均无法输入电脑，常被代替写为[拼音](../Page/汉语拼音.md "wikilink")：「**BiángBiáng面**」、「**biángbiáng面**」或「**彪彪面**」、「**冰冰面**」），为流行于[陕西](../Page/陕西省.md "wikilink")[关中地区的一种知名传统风味](../Page/渭河平原.md "wikilink")[面食](https://zh.wikipedia.org/wiki/麵食 "wikilink")，属于[扯面](https://zh.wikipedia.org/wiki/扯面 "wikilink")，通过揉、抻、甩、扯等步骤制作，面宽而厚，犹如“裤腰带”，口感劲道，食用前加入各色[臊子或](https://zh.wikipedia.org/wiki/臊子 "wikilink")[油泼辣子](https://zh.wikipedia.org/wiki/油辣 "wikilink")。位居[关中十大怪之首](https://zh.wikipedia.org/wiki/关中十大怪 "wikilink")“扯面像裤带”。
+[Biang_Biang_Mian.jpg](https://zh.wikipedia.org/wiki/File:Biang_Biang_Mian.jpg "fig:Biang_Biang_Mian.jpg")[Biáng_(regular_script).svg](https://zh.wikipedia.org/wiki/File:Biáng_\(regular_script\).svg "fig:Biáng_(regular_script).svg") **面**（[普通話](https://zh.wikipedia.org/wiki/普通話 "wikilink")[拼音](../Page/汉语拼音.md "wikilink")：，[注音符號](../Page/注音符號.md "wikilink")：，[国际音标](../Page/國際音標.md "wikilink")：；亦称“**儿面**”，“”字有多种写法，均无法输入电脑，常被代替写为[拼音](../Page/汉语拼音.md "wikilink")：「**BiángBiáng面**」、「**biángbiáng面**」或「**彪彪面**」、「**冰冰面**」），为流行于[陕西](../Page/陕西省.md "wikilink")[关中地区的一种知名传统风味](../Page/渭河平原.md "wikilink")[面食](https://zh.wikipedia.org/wiki/麵食 "wikilink")，属于[扯面](https://zh.wikipedia.org/wiki/扯面 "wikilink")，通过揉、抻、甩、扯等步骤制作，面宽而厚，犹如“裤腰带”，口感劲道，食用前加入各色[臊子或](https://zh.wikipedia.org/wiki/臊子 "wikilink")[油泼辣子](https://zh.wikipedia.org/wiki/油辣 "wikilink")。位居[关中十大怪之首](https://zh.wikipedia.org/wiki/关中十大怪 "wikilink")“扯面像裤带”。
 
 ## 读音与字型
 
@@ -367,31 +367,31 @@
 
 #### 在Unicode代码收录
 
-由于这一个汉字在当前Unicode代码里面是未收录汉字，但最近被[表意文字小组了解](https://zh.wikipedia.org/wiki/表意文字小组 "wikilink")，预计将收录至[CJK统一汉字扩充G区的版块中](https://zh.wikipedia.org/wiki/CJK统一汉字 "wikilink")。\[59\] \[60\]。-{zh-tw:正;zh-hk:繁;zh-cn:繁;}-體字的編碼將為 U+30F1D，簡化字編碼將為 U+30F1C。
+由于这一个汉字在当前Unicode代码里面是未收录汉字，但最近被[表意文字小组了解](https://zh.wikipedia.org/wiki/表意文字小组 "wikilink")，预计将收录至[CJK统一汉字扩充G区的版块中](https://zh.wikipedia.org/wiki/CJK统一汉字 "wikilink")。\[59\] \[60\]。-{zh-tw:正;zh-hk:繁;zh-cn:繁;}-體字的編碼將為 U+30EDE，簡化字編碼將為 U+30EDD\[61\]。
 
 #### 思源字体的表示
 
 [替代=⿺辶⿳穴⿰月⿰⿲⿱-{幺}-长⿱言马⿱-{幺}-长刂心](https://zh.wikipedia.org/wiki/File:Biáng_Source_Han_Serif.png "fig:替代=⿺辶⿳穴⿰月⿰⿲⿱-{幺}-长⿱言马⿱-{幺}-长刂心") [思源宋体](../Page/思源宋体.md "wikilink")和[思源黑体通过组字的特性](https://zh.wikipedia.org/wiki/思源黑体 "wikilink")，可以将“⿺辶⿳穴⿰月⿰⿲⿱-{幺}-长⿱言马⿱-{幺}-长刂心”显示为“”。
 
-2.000版起的思源黑體已收錄此字，但由於此字未正式加入Unicode，未能正常使用。\[61\]
+2.000版起的思源黑體已收錄此字，但由於此字未正式加入Unicode，未能正常使用。\[62\]
 
 ## 饮食民俗
 
 ### 民间歌谣
 
-有[关中](../Page/渭河平原.md "wikilink")[民谣称](https://zh.wikipedia.org/wiki/民歌 "wikilink")：  [贾平凹](../Page/贾平凹.md "wikilink")取其含义说：  这展现了关中刚烈火辣的秦风秦味，以及他们对面和[油泼辣子的热爱](https://zh.wikipedia.org/wiki/油辣 "wikilink")。\[62\]\[63\]
+有[关中](../Page/渭河平原.md "wikilink")[民谣称](https://zh.wikipedia.org/wiki/民歌 "wikilink")：  [贾平凹](../Page/贾平凹.md "wikilink")取其含义说：  这展现了关中刚烈火辣的秦风秦味，以及他们对面和[油泼辣子的热爱](https://zh.wikipedia.org/wiki/油辣 "wikilink")。\[63\]\[64\]
 
 [关中](../Page/渭河平原.md "wikilink")[俗谚称](../Page/谚语.md "wikilink")：
 
-意指过门[媳妇需要打骂以使其听话](https://zh.wikipedia.org/wiki/媳妇 "wikilink")，制作[Biáng.svg](https://zh.wikipedia.org/wiki/File:Biáng.svg "fig:Biáng.svg")[Biáng.svg](https://zh.wikipedia.org/wiki/File:Biáng.svg "fig:Biáng.svg")面需要反复揉压才能有筋道。\[64\]
+意指过门[媳妇需要打骂以使其听话](https://zh.wikipedia.org/wiki/媳妇 "wikilink")，制作[Biáng.svg](https://zh.wikipedia.org/wiki/File:Biáng.svg "fig:Biáng.svg")[Biáng.svg](https://zh.wikipedia.org/wiki/File:Biáng.svg "fig:Biáng.svg")面需要反复揉压才能有筋道。\[65\]
 
-[陕西](../Page/陕西省.md "wikilink")[民谣称](https://zh.wikipedia.org/wiki/民歌 "wikilink")：   意指面和[秦腔](../Page/秦腔.md "wikilink")对百姓生活的重要性。\[65\]
+[陕西](../Page/陕西省.md "wikilink")[民谣称](https://zh.wikipedia.org/wiki/民歌 "wikilink")：   意指面和[秦腔](../Page/秦腔.md "wikilink")对百姓生活的重要性。\[66\]
 
 ### 民间传说
 
 #### 康熙皇帝相关传说
 
-相传，[清朝](../Page/清朝.md "wikilink")[康熙](../Page/康熙.md "wikilink")皇帝假扮为商人巡查[西北地区](https://zh.wikipedia.org/wiki/西北地区 "wikilink")，路过[陕西省](../Page/陕西省.md "wikilink")[临潼县](../Page/临潼区.md "wikilink")[鱼池村时](https://zh.wikipedia.org/wiki/鱼池村 "wikilink")，借住于一[房姓人家中](https://zh.wikipedia.org/wiki/房姓 "wikilink")，房家用家常面招待。康熙十分喜欢此面，称赞不已，趁机询问其做法，房家人说：“红嘴绿叶玉石板，金色鱼儿浮水-{面}-，釜中两沸即成餐”，并详细交待了原料、配料和制作方法。康熙回[京后命](../Page/北京市.md "wikilink")[御膳房进行烹制](https://zh.wikipedia.org/wiki/御膳房 "wikilink")，却制作失败，故诏令房氏进京为其做面。为表感谢，皇帝恩准鱼池村不必纳粮。此面也因此名震天下。\[66\]
+相传，[清朝](../Page/清朝.md "wikilink")[康熙](../Page/康熙.md "wikilink")皇帝假扮为商人巡查[西北地区](https://zh.wikipedia.org/wiki/西北地区 "wikilink")，路过[陕西省](../Page/陕西省.md "wikilink")[临潼县](../Page/临潼区.md "wikilink")[鱼池村时](https://zh.wikipedia.org/wiki/鱼池村 "wikilink")，借住于一[房姓人家中](https://zh.wikipedia.org/wiki/房姓 "wikilink")，房家用家常面招待。康熙十分喜欢此面，称赞不已，趁机询问其做法，房家人说：“红嘴绿叶玉石板，金色鱼儿浮水-{面}-，釜中两沸即成餐”，并详细交待了原料、配料和制作方法。康熙回[京后命](../Page/北京市.md "wikilink")[御膳房进行烹制](https://zh.wikipedia.org/wiki/御膳房 "wikilink")，却制作失败，故诏令房氏进京为其做面。为表感谢，皇帝恩准鱼池村不必纳粮。此面也因此名震天下。\[67\]
 
 ## 市场与文化推广
 
@@ -399,9 +399,9 @@
 
 近年来，一家名为“Noodle King”的面连锁店在[西安以及其他城市开设众多分店](../Page/西安市.md "wikilink")，注册商标，将面品牌化运营。
 
-2003年12月，西安眼镜山野人家的眼镜山野面被[中国烹饪协会认定为第三届](https://zh.wikipedia.org/wiki/中国烹饪协会 "wikilink")“[中华名小吃](https://zh.wikipedia.org/wiki/中华名小吃 "wikilink")”。\[67\]
+2003年12月，西安眼镜山野人家的眼镜山野面被[中国烹饪协会认定为第三届](https://zh.wikipedia.org/wiki/中国烹饪协会 "wikilink")“[中华名小吃](https://zh.wikipedia.org/wiki/中华名小吃 "wikilink")”。\[68\]
 
-作为[陕西面食的代表之一](../Page/陕西省.md "wikilink")，加之独一无二的读音与字型，面-{}-包含有丰富而独特的民俗文化。2009年10月，[西安市非物质文化遗产保护中心在](https://zh.wikipedia.org/wiki/西安市非物质文化遗产保护中心 "wikilink")面故乡的[户县](https://zh.wikipedia.org/wiki/户县 "wikilink")[康王村组织了](https://zh.wikipedia.org/wiki/康王村 "wikilink")面“老碗会”，当地村民希望将此面制作技艺申报[非物质文化遗产](../Page/非物质文化遗产.md "wikilink")，还可打造专营面的餐饮旅游村。\[68\]
+作为[陕西面食的代表之一](../Page/陕西省.md "wikilink")，加之独一无二的读音与字型，面-{}-包含有丰富而独特的民俗文化。2009年10月，[西安市非物质文化遗产保护中心在](https://zh.wikipedia.org/wiki/西安市非物质文化遗产保护中心 "wikilink")面故乡的[户县](https://zh.wikipedia.org/wiki/户县 "wikilink")[康王村组织了](https://zh.wikipedia.org/wiki/康王村 "wikilink")面“老碗会”，当地村民希望将此面制作技艺申报[非物质文化遗产](../Page/非物质文化遗产.md "wikilink")，还可打造专营面的餐饮旅游村。\[69\]
 
 ## 注释
 
@@ -417,36 +417,23 @@
 [Category:未收錄漢字](https://zh.wikipedia.org/wiki/Category:未收錄漢字 "wikilink") [Category:陝西食品](https://zh.wikipedia.org/wiki/Category:陝西食品 "wikilink") [Category:中式面条](https://zh.wikipedia.org/wiki/Category:中式面条 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
-
 9.
-
 10. 网上有流传此句时将“工”作“二”，现实中却未发现类似字型，怀疑“二”为“工”字之误。
-
 11.
-
 12.
 13.
 14. 又作“飞上天”
-
 15. 音：cháng
-
 16.
-
 17.
 18. 音：zhǎng
-
 19.
 20.
 21.
@@ -458,66 +445,43 @@
 27.
 28.
 29. 即“老鸹”，指乌鸦
-
 30.
 31.
 32.
-
 33.
 34.
 35. 在[关中方言中](../Page/渭河平原.md "wikilink")，“搋”字与“钗”字同音
-
 36. 陕西[歇后语](../Page/歇後語.md "wikilink")：“挂面调醋——有盐（言）在先”
-
 37.
 38.
-
 39.
 40.
 41.
 42.
 43.
 44.
-
 45. [重庆一带](../Page/重庆市.md "wikilink")“[Zuí_Chongqing.svg](https://zh.wikipedia.org/wiki/File:Zuí_Chongqing.svg "fig:Zuí_Chongqing.svg")”字歌谣为：“一点一横长，二字下来口字方；两边丝绕绕，拉根板凳来坐倒；你也长，我也长，中间夹个马儿郎；心字来打底，月字来包墙，打个金钩银钩挂衣裳。”
-
 46. [四川一带](../Page/四川省.md "wikilink")“[Zuí_Sichuan.svg](https://zh.wikipedia.org/wiki/File:Zuí_Sichuan.svg "fig:Zuí_Sichuan.svg")”字的常见歌谣为：“一点一横长，二字口言旁；丝绕对丝绕，长对长，中间一个马儿郎。心在底，月在旁，两个钩钩照月亮。”， [绵阳一带为](../Page/绵阳市.md "wikilink")“……两边丝绕绕，马儿郎，长又长，心字底，月字旁，扯根金钩钩挂衣裳，拣砣石头砸你娘。”，[巴中一带为](../Page/巴中市.md "wikilink")“……两横下面口字方；两边丝绕绕……你也长，我也长，中间来个马大王；用心来打底，用月来相伴，金钩银钩挂衣裳。””
-
 47. [臺灣](../Page/臺灣.md "wikilink")一帶 “一點一橫長一兩口在言旁兩邊糸繞繞，中間坐個馬大娘，你也長我也長，心在底，月在旁，打個金勾掛衣裳，揀起一塊石頭甩過了牆。”
-
 48.
-
 49.
 50.
 51. 洪帮传统上有“一片丹心”、“反清”、“复明”等词构成的组装字。
-
 52.
 53.
-
 54. “-{戀}-”字的传统写法中，常将“亠”头扩大覆盖全字。见[书法字典：恋](http://images.gg-art.com/dictionary/dcontent.php?word=%C1%B5)
-
 55. “月”字的[甲骨文](../Page/甲骨文.md "wikilink")和[金文](../Page/金文.md "wikilink")中常写作钩状[新月](../Page/新月.md "wikilink")样式。
-
 56. 《[汉语大字典](../Page/汉语大字典.md "wikilink")》辶部中笔画最多字为30画的“”，《[中华字海](../Page/中华字海.md "wikilink")》辶部中笔画最多字为36画的“”。
-
 57. 在[《中国方志库》和《中国基本古籍库》](http://www.er07.com)中检索歌谣内容暂时无果。
-
 58.
-
 59. [Unicode Technical Report \#45](http://www.unicode.org/reports/tr45/tr45-9.html)
-
 60. [表意文字小组协会文件](http://www.unicode.org/Public/UNIDATA/USourceData.txt) UTC-00791
-
 61.
-
 62.
-
 63.
-
 64.
 65.
-
 66.
 67.
-
 68.
+69.

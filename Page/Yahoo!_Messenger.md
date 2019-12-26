@@ -258,7 +258,7 @@ Yahoo\!自定義的封包結構如下：
   - [Yahoo\! Messenger Blog](http://blog.messenger.yahoo.com/)
   - [Yahoo\! Messenger網路版即時通](http://hk.webmessenger.yahoo.com/)
   - [Yahoo\! Messenger網路版即時通](http://webmessenger.yahoo.com/)
-  - [Yahoo即時通開發套件（中文）](http://rd-program.blogspot.com/2008/11/msnsdk-yahoo.html)
+  - [Yahoo即時通開發套件](http://rd-program.blogspot.com/2008/11/msnsdk-yahoo.html)
 
 [Category:即时通讯软件](https://zh.wikipedia.org/wiki/Category:即时通讯软件 "wikilink") [Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink") [Category:雅虎](https://zh.wikipedia.org/wiki/Category:雅虎 "wikilink") [Category:VoIP軟體](https://zh.wikipedia.org/wiki/Category:VoIP軟體 "wikilink") [Category:Windows即時通訊客戶端](https://zh.wikipedia.org/wiki/Category:Windows即時通訊客戶端 "wikilink")
 

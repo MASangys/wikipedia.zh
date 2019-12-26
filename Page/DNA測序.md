@@ -108,44 +108,24 @@ Sanger（桑格）[双脱氧链终止法是](https://zh.wikipedia.org/wiki/双�
 [Category:DNA测序](https://zh.wikipedia.org/wiki/Category:DNA测序 "wikilink") [Category:分子生物学技术](https://zh.wikipedia.org/wiki/Category:分子生物学技术 "wikilink")
 
 1.
-
 2.
-
 3.  <http://en.wikipedia.org/wiki/Chain_termination_method>
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12. [New Products: PacBio's RS II; Cufflinks | In Sequence | Sequencing | GenomeWeb](http://www.genomeweb.com/sequencing/new-products-pacbios-rs-ii-cufflinks)
-
 13.
-
 14. [Pacific Biosciences Introduces New Chemistry With Longer Read Lengths](http://globenewswire.com/news-release/2013/10/03/577891/10051072/en/Pacific-Biosciences-Introduces-New-Chemistry-With-Longer-Read-Lengths-to-Detect-Novel-Features-in-DNA-Sequence-and-Advance-Genome-Studies-of-Large-Organisms.html)
-
 15. <http://www.nature.com/nmeth/journal/v10/n6/full/nmeth.2474.html>
-
 16. [De novo bacterial genome assembly: a solved problem? | In between lines of code](http://flxlexblog.wordpress.com/2013/07/05/de-novo-bacterial-genome-assembly-a-solved-problem/)
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.

@@ -179,7 +179,7 @@ EO2由以下四位成員組成的：
 | 2005     | 《[回來愛我](https://zh.wikipedia.org/wiki/回來愛我 "wikilink")》                 | Eddie，Otto      |
 | 2005     | 《[魔幻賭船](https://zh.wikipedia.org/wiki/魔幻賭船 "wikilink")》                 | Eddie，Otto      |
 | 2005     | 《[黑白戰場](../Page/黑白戰場.md "wikilink")》                                    | Eddie，Otto      |
-| 2005     | 《[偷窺](https://zh.wikipedia.org/wiki/偷窺 "wikilink")》                     | Otto            |
+| 2005     | 《[偷窺](../Page/偷窺.md "wikilink")》                                        | Otto            |
 | 2006     | 《[雀聖](../Page/雀聖.md "wikilink")2自摸天后》                                   | Eddie，Otto      |
 | 2006     | 《[斷路](https://zh.wikipedia.org/wiki/斷路 "wikilink")》                     | Eddie           |
 | 2006     | 《[半醉人間](../Page/半醉人間.md "wikilink")》                                    | 全員              |
@@ -413,6 +413,6 @@ Otto 飾演 學生領袖</p></td>
 
   - [Starj & Snazz娛樂官方網站](https://archive.is/20070927065057/http://www.snazz.com.hk/)
 
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:EO2](https://zh.wikipedia.org/wiki/Category:EO2 "wikilink")
+[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:1999年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1999年成立的音樂團體 "wikilink") [Category:EO2](https://zh.wikipedia.org/wiki/Category:EO2 "wikilink")
 
 1.

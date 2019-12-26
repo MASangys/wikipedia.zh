@@ -1,4 +1,4 @@
-《**Coming Home**》（意思：回家）是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王靖雯的第四張大碟](https://zh.wikipedia.org/wiki/王靖雯 "wikilink")，[粵語專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")（1首[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")），於1992年8月13日发行。這是王靖雯從[美國回來後的第一張專輯](https://zh.wikipedia.org/wiki/美國 "wikilink")，一共10首歌曲，6首為翻唱。其中翻唱日本歌-{后}-（中島美雪）70年代末的作品「容易受傷的女人」（原曲「ルージュ」）橫掃全港，令她一舉躍入香港一線女歌手的行列。專輯總體仍延續了上一張大碟《[You're the Only One](../Page/You're_the_Only_One.md "wikilink")》的[R\&B風格](https://zh.wikipedia.org/wiki/R&B "wikilink")。她在專輯中第一次演唱了原創全英文歌曲「Kisses in the Wind」。
+《**Coming Home**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王菲](../Page/王菲.md "wikilink")的第四張大碟，[粵語專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")（1首[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")），於1992年8月13日发行。這是王菲從[美國回來後的第一張專輯](https://zh.wikipedia.org/wiki/美國 "wikilink")，一共10首歌曲，6首為翻唱。其中翻唱日本歌-{后}-（中島美雪）70年代末的作品「容易受傷的女人」（原曲「ルージュ」）橫掃全港，令她一舉躍入香港一線女歌手的行列。專輯總體仍延續了上一張大碟《[You're the Only One](../Page/You're_the_Only_One.md "wikilink")》的[R\&B風格](https://zh.wikipedia.org/wiki/R&B "wikilink")。她在專輯中第一次演唱了原創全英文歌曲「Kisses in the Wind」。
 
 ## 唱片版本
 
@@ -13,7 +13,7 @@
   - 《精彩全記錄》版（首版、再版）：《精彩全記錄》是將王菲前8張大碟捆綁發售。
   - 《從頭認識》版：《從頭認識》是將王菲在新藝寶一共9張粵語大碟捆綁發售。
   - 24K Gold 金碟版：1994年，金色盤片和金色托盤。
-  - 寶麗金20世紀光輝印記版（[dCS處理](https://zh.wikipedia.org/wiki/dCS "wikilink")）：1999年4月。
+  - 寶麗金20世紀光輝印記版（dCS處理）：1999年4月。
   - [DSD系列](https://zh.wikipedia.org/wiki/DSD "wikilink")：2003年5月7日。
   - 環球24K Gold金碟週年紀念經典系列：2012年11月14日
   - [黑膠唱片](../Page/黑膠唱片.md "wikilink")：2013年8月9日

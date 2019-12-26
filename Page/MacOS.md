@@ -350,12 +350,12 @@ Intel 64</p></td>
 （山獅）</p></td>
 <td><p>EFI64</p></td>
 <td><p>Intel 64</p></td>
+<td><p>Intel 64</p></td>
 <td><p>64位元</p></td>
 <td><p>2012年2月16日</p></td>
 <td><p>2012年7月25日</p></td>
 <td><p>10.8.5 (12F45)<br />
 （2013年10月3日）</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -446,13 +446,13 @@ Intel 64</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/macOS_Catalina" title="wikilink">macOS 10.15</a></p></td>
 <td><p>Catalina<br />
 (圣卡塔利娜岛)</p></td>
-<td><p>2019年6月</p></td>
-<td><p>2019年6月</p></td>
-<td><p>10.15 (19A471t)<br />
-(2019年6月)</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>Intel 64</p></td>
+<td><p>Intel 64</p></td>
+<td><p>64位元</p></td>
+<td><p>2019年6月3日</p></td>
+<td><p>2019年10月7日</p></td>
+<td><p>10.15.1 (19B88)<br />
+(2019年10月29日)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -580,7 +580,7 @@ OS X 10.10於[WWDC](https://zh.wikipedia.org/wiki/WWDC "wikilink") 2014發表（
 
 #### OS X 10.11 El Capitan
 
-以 OS X Yosemite 為基礎的新 macOS 系統，具備更強大的視窗管理功能、更出色的內建 app，以及更強大的 Spotlight 搜尋功能。另外， OS X El Capitan 一大重點就是效能提升，主要是因為把Metal 繪圖技術整合在 OS X El Capitan 中，不僅提供全系統可見的效能提升，同時也能讓遊戲及專業 app 能更進一步發揮 Mac 繪圖處理器的完整效能。
+以 OS X Yosemite 為基礎的新 OS X 系統，具備更強大的視窗管理功能、更出色的內建 app，以及更強大的 Spotlight 搜尋功能。另外， OS X El Capitan 一大重點就是效能提升，主要是因為把 Metal 繪圖技術整合在 OS X El Capitan 中，不僅提供全系統可見的效能提升，同時也能讓遊戲及專業 app 能更進一步發揮 Mac 繪圖處理器的完整效能。
 
 #### macOS 10.12 Sierra
 
@@ -598,7 +598,7 @@ macOS Mojave針對使用者體驗有重大的變革，此次發表全新完整�
 
 ## Unix認證
 
-[The Open Group曾批評蘋果将](https://zh.wikipedia.org/wiki/The_Open_Group "wikilink")“Unix”字眼用于macOS廣告宣傳，而蘋果並沒有讓-{zh-hant:作業系統;zh-hans:操作系统}-獲得正式的認證，且使用這個字眼可能構成[商标](../Page/商标.md "wikilink")上的違法行為。
+[The Open Group曾批評蘋果将](https://zh.wikipedia.org/wiki/The_Open_Group "wikilink")“Unix”字眼用于Mac OS X的廣告宣傳，而蘋果並沒有讓-{zh-hant:作業系統;zh-hans:操作系统}-獲得正式的認證，且使用這個字眼可能構成[商标](../Page/商标.md "wikilink")上的違法行為。
 
 2007年發布的Mac OS X 10.5 Leopard已經通過了The Open Group的UNIX03認證。
 

@@ -147,14 +147,9 @@ Windows 8中引入了“ 应用历史记录”选项卡，并显示了被称为�
 [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
 
 1.
-
 2.  [Magic 15 with GetProcessesByName on Windows 2000](http://yangcao88.spaces.live.com/blog/cns!45B36D487518CDF5!126.entry)
-
 3.
-
 4.
 5.
-
 6.
-
 7.

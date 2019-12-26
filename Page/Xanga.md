@@ -171,7 +171,7 @@ Xanga亦被批評指它為用戶提供*太大*彈性，包括可使用自己的[
 ## 外部链接
 
   - [Xanga.com](http://www.xanga.com/)
-  - [XangaHK](http://www.xanga.hk/)
+  - [XangaHK](https://web.archive.org/web/20140110121528/http://www.xanga.hk/)
   - [Datingish](https://web.archive.org/web/20121122011334/http://www.datingish.hk/)
   - [Lovelyish](https://web.archive.org/web/20121210221545/http://www.lovelyish.hk/)
   - [Black](https://web.archive.org/web/20121126022008/http://www.black.hk/)

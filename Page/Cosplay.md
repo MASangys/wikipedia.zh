@@ -21,7 +21,7 @@ Cosplay的名稱起源於1978年[Comic Market召集人米澤嘉博氏為場刊�
 
 ## 词源
 
-[Cosplayer_of_Dark_Magician_Girl,_Yu-Gi-Oh\!_20161029.jpg](https://zh.wikipedia.org/wiki/File:Cosplayer_of_Dark_Magician_Girl,_Yu-Gi-Oh!_20161029.jpg "fig:Cosplayer_of_Dark_Magician_Girl,_Yu-Gi-Oh!_20161029.jpg")角色“黑魔導女孩”的扮裝者\]\] 在1984年美國[洛杉磯舉行的](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[世界科幻年會上](https://zh.wikipedia.org/wiki/世界科幻年會 "wikilink")，赴會的日本動畫家暨日本藝術工作室「」行政總裁把一種自力演繹角色的扮裝性質表演藝術行為正式以一條[和製英語](../Page/和製英語.md "wikilink")詞語「Cosplay」來表示，Cosplay因而得名。
+[Cosplayer_of_Dark_Magician_Girl,_Yu-Gi-Oh\!_20161029.jpg](https://zh.wikipedia.org/wiki/File:Cosplayer_of_Dark_Magician_Girl,_Yu-Gi-Oh!_20161029.jpg "fig:Cosplayer_of_Dark_Magician_Girl,_Yu-Gi-Oh!_20161029.jpg")角色“白魔導”的扮裝者\]\] 在1984年美國[洛杉磯舉行的](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[世界科幻年會上](https://zh.wikipedia.org/wiki/世界科幻年會 "wikilink")，赴會的日本動畫家暨日本藝術工作室「」行政總裁把一種自力演繹角色的扮裝性質表演藝術行為正式以一條[和製英語](../Page/和製英語.md "wikilink")詞語「Cosplay」來表示，Cosplay因而得名。
 
 之後到1990年代，日本ACG業界成功舉辦了大量的動漫畫展和遊戲展，此時的日本漫畫商和[電玩公司為了宣傳自身產品](https://zh.wikipedia.org/wiki/電玩 "wikilink")，在這些遊戲展和漫畫節中找來一些男男女女裝扮成ACG作品中的角色以吸引參展人群。這一招可以說是與當年和路迪士尼開辦迪士尼樂園的時引客招數如出一轍，由此可見當代Cosplay的顯露成形與蓬勃發展的關鍵是建立在本身ACG商業化的程度之上，可以說正是將Cosplay作為一種商業上的促銷手段，Cosplay其本身才可能得到長足的發展與認識。就因此，Cosplay文化在ACG界熱門化和發揚光大，同時藉著各種Cosplay活動、傳媒的介紹、[互聯網有關Cosplay的大量資訊傳播等](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，使Cosplay的自由參與者激增，Cosplay才漸漸得到了真正的、獨立的發展。更甚者，專門為Cosplay行為而舉行的活動也漸漸出現，形式類似化粧舞會，遂民眾逐漸能在越來越多的場合中看到該批奇裝異服者，並了解到這集服飾、化粧、表演於一體的扮裝文化現象──Cosplay。 \[5\]
 
@@ -442,6 +442,10 @@ Cosplay在2000年代初期藉著附在動畫、漫畫、遊戲或科幻相關的
 法国cosplayers主要集中在角色扮演比赛，这在几乎所有的漫画，科幻小说，幻想或角色扮演游戏公约。他们不是真正具有竞争力，他们更多的机会来展示服装，似乎不如可能不是（例如场景，灯光，音乐等）。代理和唱歌技能竞赛高度重视，一些团体重演战斗或音乐喜剧场面也。举例来说，能够做翻特技是在服装的一部分，日本世博会的传统，其中最有价值的数字竞赛。
 
 ## 註釋
+
+## 参见
+
+  - [布偶装](https://zh.wikipedia.org/wiki/布偶装 "wikilink")（）
 
 ## 参考文獻
 

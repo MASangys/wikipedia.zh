@@ -368,6 +368,14 @@ Ubuntu每6個月發佈一個新版，每個版本都有代號和版本號。版�
 <td><p>5.3[66]</p></td>
 </tr>
 <tr class="odd">
+<td><p>20.04 LTS</p></td>
+<td><p>Focal Fossa</p></td>
+<td><p>焦點的<a href="../Page/馬島長尾狸貓.md" title="wikilink">馬島長尾狸貓</a></p></td>
+<td><p>2020-04-23[67]</p></td>
+<td><p>colspan="2" </p></td>
+<td><p>5.5[68]</p></td>
+</tr>
+<tr class="even">
 <td><p><small></small></p></td>
 <td></td>
 <td></td>
@@ -380,17 +388,17 @@ Ubuntu每6個月發佈一個新版，每個版本都有代號和版本號。版�
 
 ### 長期支援版本
 
-長期支援版本（LTS），更新維護的時間比較長，約2年會推出一個LTS版本。LTS針對企業用戶，有別於一般版本的9個月支援。代號「Dapper Drake」的Ubuntu 6.06 LTS是第一個獲得長期支援的版本，Canonical公司計劃對6.06的桌面系列版本提供3年的更新及付費技術支援服務，對伺服器版則提供5年的支援。Ubuntu 6.06 LTS包括[GNOME](../Page/GNOME.md "wikilink") 2.14、[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink") 1.5.0.3、[OpenOffice.org](../Page/OpenOffice.org.md "wikilink") 2.0.2、[Xorg](https://zh.wikipedia.org/wiki/X.Org服务器 "wikilink")7.0、[GCC](../Page/GCC.md "wikilink") 4.0.3以及2.6.15版的[Linux核心](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")，2006年8月10日發佈的首個維護更新版本6.06.1。\[67\]因為其較長的支援週期，Canonical宣佈將繼續為Dapper Drake提供送達（Shipping）服務，但不支援隨後發佈的Edgy Eft。不過，隨著Feisty Fawn版的發布，送達（Shipping）服務再次啟動，但是，Natty Narwhal（11.04）发布前，送達（Shipping）服務再次停止。\[68\]
+長期支援版本（LTS），更新維護的時間比較長，約2年會推出一個LTS版本。LTS針對企業用戶，有別於一般版本的9個月支援。代號「Dapper Drake」的Ubuntu 6.06 LTS是第一個獲得長期支援的版本，Canonical公司計劃對6.06的桌面系列版本提供3年的更新及付費技術支援服務，對伺服器版則提供5年的支援。Ubuntu 6.06 LTS包括[GNOME](../Page/GNOME.md "wikilink") 2.14、[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink") 1.5.0.3、[OpenOffice.org](../Page/OpenOffice.org.md "wikilink") 2.0.2、[Xorg](https://zh.wikipedia.org/wiki/X.Org服务器 "wikilink")7.0、[GCC](../Page/GCC.md "wikilink") 4.0.3以及2.6.15版的[Linux核心](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")，2006年8月10日發佈的首個維護更新版本6.06.1。\[69\]因為其較長的支援週期，Canonical宣佈將繼續為Dapper Drake提供送達（Shipping）服務，但不支援隨後發佈的Edgy Eft。不過，隨著Feisty Fawn版的發布，送達（Shipping）服務再次啟動，但是，Natty Narwhal（11.04）发布前，送達（Shipping）服務再次停止。\[70\]
 
 最新的長期支援版本為2019年8月8日发布的18.04.3 LTS。
 
 ### 其它分支
 
-Ubuntu還有一個代號為Grumpy Groundhog的分支\[69\]，這個分支直接從Ubuntu的軟體[版本控制系統裡獲取軟體的原始碼](https://zh.wikipedia.org/wiki/版本控制系統 "wikilink")，主要用於測試和開發。由於這個分支不穩定，因此不對公眾開放。
+Ubuntu還有一個代號為Grumpy Groundhog的分支\[71\]，這個分支直接從Ubuntu的軟體[版本控制系統裡獲取軟體的原始碼](https://zh.wikipedia.org/wiki/版本控制系統 "wikilink")，主要用於測試和開發。由於這個分支不穩定，因此不對公眾開放。
 
 ### 版本代號命名
 
-Ubuntu版本的命名規則是根據正式版發行的年月命名，Ubuntu 8.10也就意味著2008年10月發行的Ubuntu，研發人員與使用者可從版本號碼就知道正式發布的時間。Ubuntu是基於[Debian](../Page/Debian.md "wikilink")開發的[Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，Debian的開發代號來自於電影[玩具總動員](https://zh.wikipedia.org/wiki/玩具總動員 "wikilink")，不過，Ubuntu各版本的代號卻固定是形容詞加上動物名稱，而且這2個词的英文首字母一定是相同的。从Ubuntu 6.06开始，两个词的首字母按照英文字母表的排列顺序取用。\[70\]
+Ubuntu版本的命名規則是根據正式版發行的年月命名，Ubuntu 8.10也就意味著2008年10月發行的Ubuntu，研發人員與使用者可從版本號碼就知道正式發布的時間。Ubuntu是基於[Debian](../Page/Debian.md "wikilink")開發的[Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，Debian的開發代號來自於電影[玩具總動員](https://zh.wikipedia.org/wiki/玩具總動員 "wikilink")，不過，Ubuntu各版本的代號卻固定是形容詞加上動物名稱，而且這2個词的英文首字母一定是相同的。从Ubuntu 6.06开始，两个词的首字母按照英文字母表的排列顺序取用。\[72\]
 
 ### 時間線
 
@@ -398,13 +406,13 @@ Ubuntu版本的命名規則是根據正式版發行的年月命名，Ubuntu 8.10
 
 ### 回應
 
-2005年於倫敦舉行的[Linux世界論壇及會議](https://zh.wikipedia.org/wiki/Linux世界論壇及會議 "wikilink")（LinuxWorld Conference and Expo）上，Ubuntu被評為讀者所選的最佳Linux發行版。\[71\] Ubuntu也經常被網路和平面出版媒體評審，\[72\]\[73\]很多評審者認為Ubuntu的成功主要原因在於其擁有一個龐大的社群，使用者可以便捷地從中獲得幫助和支援。\[74\]\[75\] informationweek網站於2008年5月對7款主流的Linux發行版系統進行了測試，包括openSUSE，Ubuntu 8.04，PCLinuxOS，Mandriva Linux One，Fedora，SimplyMEPIS和CentOS 5.1，結果是Ubuntu獲勝。目前[維基百科的網站伺服器](https://zh.wikipedia.org/wiki/維基百科 "wikilink")，也是採用Ubuntu Linux。
+2005年於倫敦舉行的[Linux世界論壇及會議](https://zh.wikipedia.org/wiki/Linux世界論壇及會議 "wikilink")（LinuxWorld Conference and Expo）上，Ubuntu被評為讀者所選的最佳Linux發行版。\[73\] Ubuntu也經常被網路和平面出版媒體評審，\[74\]\[75\]很多評審者認為Ubuntu的成功主要原因在於其擁有一個龐大的社群，使用者可以便捷地從中獲得幫助和支援。\[76\]\[77\] informationweek網站於2008年5月對7款主流的Linux發行版系統進行了測試，包括openSUSE，Ubuntu 8.04，PCLinuxOS，Mandriva Linux One，Fedora，SimplyMEPIS和CentOS 5.1，結果是Ubuntu獲勝。目前[維基百科的網站伺服器](https://zh.wikipedia.org/wiki/維基百科 "wikilink")，也是採用Ubuntu Linux。
 
 ### 批評
 
-Ubuntu源自[Debian](../Page/Debian.md "wikilink")，但Debian的創始人[Ian Murdock卻不滿意Ubuntu](https://zh.wikipedia.org/wiki/Ian_Murdock "wikilink")。他認為，雖然Ubuntu是優秀的Linux發行版，也促進了Debian的全球化，但Ubuntu另建-{zh-hans:软件包; zh-hant:套件庫;}-，而不是直接改進Debian已有的-{zh-hans:软件包; zh-hant:套件庫;}-，因此出現了與Debian不相容的問題。他希望Ubuntu能與Debian進行更為緊密的合作，使其改進也可以被Debian所採用\[76\]。
+Ubuntu源自[Debian](../Page/Debian.md "wikilink")，但Debian的創始人[Ian Murdock卻不滿意Ubuntu](https://zh.wikipedia.org/wiki/Ian_Murdock "wikilink")。他認為，雖然Ubuntu是優秀的Linux發行版，也促進了Debian的全球化，但Ubuntu另建-{zh-hans:软件包; zh-hant:套件庫;}-，而不是直接改進Debian已有的-{zh-hans:软件包; zh-hant:套件庫;}-，因此出現了與Debian不相容的問題。他希望Ubuntu能與Debian進行更為緊密的合作，使其改進也可以被Debian所採用\[78\]。
 
-2010年欧洲GUADEC会议上公布的“GNOME开发者分布”，显示出Ubuntu的母公司Canonical对GNOME项目的贡献十分小。由此，一些人抱怨，觉得Canonical应该作出更多的贡献\[77\]。前Red Hat开发者Greg DeKoenigsberg亦对Ubuntu批评：“Red Hat对开源的贡献远高于Canonical，而Canonical是一家伪装成技术企业的营销机构”，后来对其言论进行了公开道歉，但一直坚持Canonical应该为Linux作出更大的贡献\[78\]。
+2010年欧洲GUADEC会议上公布的“GNOME开发者分布”，显示出Ubuntu的母公司Canonical对GNOME项目的贡献十分小。由此，一些人抱怨，觉得Canonical应该作出更多的贡献\[79\]。前Red Hat开发者Greg DeKoenigsberg亦对Ubuntu批评：“Red Hat对开源的贡献远高于Canonical，而Canonical是一家伪装成技术企业的营销机构”，后来对其言论进行了公开道歉，但一直坚持Canonical应该为Linux作出更大的贡献\[80\]。
 
 因为Ubuntu基于[Debian](../Page/Debian.md "wikilink")的不稳定分支（sid），更容易遇到和弹出内部错误。
 
@@ -426,15 +434,15 @@ Ubuntu源自[Debian](../Page/Debian.md "wikilink")，但Debian的創始人[Ian M
 
   - [Xubuntu](../Page/Xubuntu.md "wikilink")：属于轻量级发行版，使用[Xfce](../Page/Xfce.md "wikilink")4作为默认的桌面环境。
 
-  - [Lubuntu](../Page/Lubuntu.md "wikilink")：使用[LXDE](../Page/LXDE.md "wikilink")桌面环境的轻量级发行版\[79\]，从10.04版本开始正式发行。
+  - [Lubuntu](../Page/Lubuntu.md "wikilink")：使用[LXDE](../Page/LXDE.md "wikilink")桌面环境的轻量级发行版\[81\]，从10.04版本开始正式发行。
 
-  - Ubuntu Server Edition：自Ubuntu 5.10版（*Breezy Badger*）起，与桌面版同步发行，\[80\]可当作多种软件服务器，如[电子邮件服务器](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、基于[LAMP](../Page/LAMP.md "wikilink")的Web网站服务器、[DNS服务器](https://zh.wikipedia.org/wiki/DNS "wikilink")、文件服务器与[数据库服务器等](https://zh.wikipedia.org/wiki/資料庫 "wikilink")。\[81\]服务器版通常不预装任何桌面环境，与桌面版本相比，佔用空間少，运行时对硬件要求较低，最少只需要500MB硬盘空间和64MB内存。\[82\]
+  - Ubuntu Server Edition：自Ubuntu 5.10版（*Breezy Badger*）起，与桌面版同步发行，\[82\]可当作多种软件服务器，如[电子邮件服务器](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、基于[LAMP](../Page/LAMP.md "wikilink")的Web网站服务器、[DNS服务器](https://zh.wikipedia.org/wiki/DNS "wikilink")、文件服务器与[数据库服务器等](https://zh.wikipedia.org/wiki/資料庫 "wikilink")。\[83\]服务器版通常不预装任何桌面环境，与桌面版本相比，佔用空間少，运行时对硬件要求较低，最少只需要500MB硬盘空间和64MB内存。\[84\]
 
   - [Ubuntu Studio](../Page/Ubuntu_Studio.md "wikilink")：適合於音訊，視訊和圖像設計的版本。使用Xfce4作为默认的桌面环境。
 
   - ：一套基于Ubuntu的面向媒体中心电脑的发行版，Mythbuntu=MythTV+Ubuntu，MythTV是其中关键的软件包，用于实现媒体中心等功能。它没有包含一些不必要的程序，如OpenOffice, Evolution和完全安裝的Gnome。
 
-  - [Ubuntu Kylin](https://zh.wikipedia.org/wiki/Ubuntu_Kylin "wikilink")（优麒麟）：语言的默认设置为简体中文，为中国用户专门定制。\[83\]\[84\]
+  - [Ubuntu Kylin](https://zh.wikipedia.org/wiki/Ubuntu_Kylin "wikilink")（优麒麟）：语言的默认设置为简体中文，为中国用户专门定制。\[85\]\[86\]
 
   - [Ubuntu MATE](../Page/Ubuntu_MATE.md "wikilink")：針對老舊桌上型、筆記型、樹莓派（Raspberry Pi）電腦，及硬體效能等級不高，或喜歡簡潔、不用特效桌面環境者，使用[MATE](../Page/MATE.md "wikilink")桌面環境的Ubuntu發行版。
 
@@ -456,7 +464,7 @@ Ubuntu源自[Debian](../Page/Debian.md "wikilink")，但Debian的創始人[Ian M
 
   - [Ubuntu GNOME](../Page/Ubuntu_GNOME.md "wikilink")：在Ubuntu使用Unity时使用[GNOME](../Page/GNOME.md "wikilink")桌面環境的Ubuntu發行版。现已合并至Ubuntu主线。
 
-另外，[馬克·舍特爾沃斯承諾將製作](https://zh.wikipedia.org/wiki/馬克·沙特爾沃思 "wikilink")**Ubuntu-libre**發行版，只使用[自由軟體基金會認證過的](https://zh.wikipedia.org/wiki/自由軟體基金會 "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。\[85\]\[86\]
+另外，[馬克·舍特爾沃斯承諾將製作](https://zh.wikipedia.org/wiki/馬克·沙特爾沃思 "wikilink")**Ubuntu-libre**發行版，只使用[自由軟體基金會認證過的](https://zh.wikipedia.org/wiki/自由軟體基金會 "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。\[87\]\[88\]
 
 ### 非正式衍生版本
 
@@ -466,7 +474,7 @@ Ubuntu源自[Debian](../Page/Debian.md "wikilink")，但Debian的創始人[Ian M
   - [Gnoppix](https://zh.wikipedia.org/wiki/Gnoppix "wikilink")：基於Ubuntu [Live CD而研製的以](../Page/Live_CD.md "wikilink")[GNOME](../Page/GNOME.md "wikilink")為預設桌面環境的[Live CD](../Page/Live_CD.md "wikilink")。
   - [PUD GNU/Linux](https://zh.wikipedia.org/wiki/PUD_GNU/Linux "wikilink")：由台灣愛好者所製作的改良版，以輕量化為目標，可安裝在光碟或256 MB以上的USB隨身碟上，並使用Ubuntu的套件來源。
   - [gOS](https://zh.wikipedia.org/wiki/gOS "wikilink")：基於[Enlightenment](../Page/Enlightenment.md "wikilink")桌面環境，整合Google多數的線上服務的版本。（並非由Google官方所開發）
-  - [Linux Mint](../Page/Linux_Mint.md "wikilink")：基於Ubuntu的Linux發行版，目標是提供一種更完整的即刻可用體驗\[87\]。
+  - [Linux Mint](../Page/Linux_Mint.md "wikilink")：基於Ubuntu的Linux發行版，目標是提供一種更完整的即刻可用體驗\[89\]。
   - [Easy Peasy](https://zh.wikipedia.org/wiki/Easy_Peasy "wikilink")（[eeeXubuntu](https://zh.wikipedia.org/wiki/eeeXubuntu "wikilink")）：專為[華碩](../Page/華碩.md "wikilink")的[Eee PC定製](https://zh.wikipedia.org/wiki/Eee_PC "wikilink")。
   - [gNewSense](https://zh.wikipedia.org/wiki/gNewSense "wikilink")：由自由軟體基金會官方於2006年11月2日推出，為一基於Ubuntu且只使用自由軟體的Linux發行版，但與[馬克·沙特爾沃思所提到的Ubuntu](https://zh.wikipedia.org/wiki/馬克·沙特爾沃思 "wikilink")-libre沒有直接關係。
   - [Elementary OS](https://zh.wikipedia.org/wiki/Elementary_\(操作系统\) "wikilink")：Elementary开发团队推出的Ubuntu修改版。
@@ -474,7 +482,7 @@ Ubuntu源自[Debian](../Page/Debian.md "wikilink")，但Debian的創始人[Ian M
 
 ## 參與中文翻譯
 
-由Ubuntu母公司[Canonical有限公司所架設的](https://zh.wikipedia.org/wiki/Canonical有限公司 "wikilink")[Launchpad網站提供了線上翻譯服務](../Page/Launchpad_\(網站\).md "wikilink")，任何人都可以通過這個網站協助翻譯Ubuntu。但是經由此方式對非Ubuntu獨有組件的翻譯成果將不會自動反饋到上游，故不被推薦。\[88\]
+由Ubuntu母公司[Canonical有限公司所架設的](https://zh.wikipedia.org/wiki/Canonical有限公司 "wikilink")[Launchpad網站提供了線上翻譯服務](../Page/Launchpad_\(網站\).md "wikilink")，任何人都可以通過這個網站協助翻譯Ubuntu。但是經由此方式對非Ubuntu獨有組件的翻譯成果將不會自動反饋到上游，故不被推薦。\[90\]
 
 ## 回報錯誤
 
@@ -523,164 +531,92 @@ sudo為substitute user do的簡寫，即超級用戶的工作，在Ubuntu的預�
 [Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink") [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink") [Category:自由作業系統](https://zh.wikipedia.org/wiki/Category:自由作業系統 "wikilink") [Category:LiveCD](https://zh.wikipedia.org/wiki/Category:LiveCD "wikilink") [Category:2004年软件](https://zh.wikipedia.org/wiki/Category:2004年软件 "wikilink") [Category:基于Debian的发行版](https://zh.wikipedia.org/wiki/Category:基于Debian的发行版 "wikilink") [Category:可从只读媒体启动的操作系统发行版](https://zh.wikipedia.org/wiki/Category:可从只读媒体启动的操作系统发行版 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  [Ubuntu's African Roots](http://www.easy-ubuntu-linux.com/ubuntu-african-word.html)
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.  [ubuntu/releases - Ubuntu](http://www.ubuntulinux.org/ubuntu/releases)，2006年3月11日更新。
-
 10. [Announcing Beta release of Ubuntu 6.06 LTS](https://lists.ubuntu.com/archives/ubuntu-announce/2006-April/000065.html)，2006年4月26日更新。
-
 11. [Ubuntu计划缩短非LTS版本支持时间](http://cnbeta.com/articles/230518.htm)
-
 12. [community - Ubuntu](http://ubuntulinux.org/community) ，2006年7月20日更新。
-
 13. [XYZ computing article on kubuntu](http://www.xyzcomputing.com/index.php?option=content&task=view&id=492&Itemid=0&limit=1&limitstart=1) ，2006年7月20日更新。
-
 14.
-
 15. 笨兔的名字来源于
-
 16. Ubuntu的版本編號是以釋出的年份與月份命名。
-
 17.
-
 18.
-
 19.
 20.
-
 21.
-
 22.
-
 23.
-
 24.
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
 41.
 42.
 43.
-
 44. ["Ubuntu 14.10 (Utopic Unicorn) Now Based on Linux Kernel 3.16"](http://news.softpedia.com/news/Ubuntu-14-10-Utopic-Unicorn-Now-Based-on-Linux-Kernel-3-16-451606.shtml), 22 July 2014, Silviu Stahie
-
 45.
 46.
-
 47.
-
 48.
 49.
-
 50.
-
 51.
 52.
-
 53.
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
 75.
 76.
-
 77.
-
 78.
-
-79. <http://linuxtoy.org/archives/lubuntu-10-04.html>
-
-80. <http://www.ubuntu.com/server>
-
-81.
-82.
+79.
+80.
+81. <http://linuxtoy.org/archives/lubuntu-10-04.html>
+82. <http://www.ubuntu.com/server>
 83.
-
 84.
-
 85.
-
 86.
-
 87.
-
-88. [LaunchpadFAQ](http://wiki.ubuntu.org.cn/index.php?title=LaunchpadFAQ&variant=zh-hans).Ubuntu_Launchpad
+88.
+89.
+90. [LaunchpadFAQ](http://wiki.ubuntu.org.cn/index.php?title=LaunchpadFAQ&variant=zh-hans).Ubuntu_Launchpad

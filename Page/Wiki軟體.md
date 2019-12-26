@@ -40,7 +40,7 @@
   - [UseModWiki](../Page/UseModWiki.md "wikilink")：採用 [Perl](../Page/Perl.md "wikilink") 語言所開發的維基引擎，曾為[維基百科所使用](https://zh.wikipedia.org/wiki/維基百科 "wikilink")。
   - [Instiki](https://zh.wikipedia.org/wiki/Instiki "wikilink")：採用 [Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink") 框架開發的維基引擎，以安裝簡便和使用方便而著稱。
   - [TWiki](https://zh.wikipedia.org/wiki/TWiki "wikilink")：企業內部常用的Wiki，開放源碼系統。
-  - [Generic Applications Server](http://www.thingsprime.com)
+  - [Generic Applications Server](https://web.archive.org/web/20180826020959/https://thingsprime.com/)
   - [PukiWiki](../Page/PukiWiki.md "wikilink")：由[YukiWiki所衍生](https://zh.wikipedia.org/wiki/YukiWiki "wikilink")，大多為[日文的](https://zh.wikipedia.org/wiki/日文 "wikilink")[Wiki](../Page/Wiki.md "wikilink")網站所使用。
   - [Tiddlywiki](https://zh.wikipedia.org/wiki/Tiddlywiki "wikilink")：個人使用的筆記型wiki，沒有後端資料庫，無須安裝，儘由單個html網頁檔組成，內核極度輕量化（以kb計算），只要有瀏覽器就可以瀏覽與編輯，適合裝在隨身碟裡帶著走。也可以將檔案直接放在網路空間成為網頁，但網路應用時預設不支援遠程內容變更（可以透過外掛取得支援）。
   - [Project forum](https://zh.wikipedia.org/wiki/Project_forum "wikilink")：是个收费的维基引擎，有免费版本，但功能受限。自带网络服务器，安装简单。
@@ -94,5 +94,5 @@
 [Category:Wiki软件](https://zh.wikipedia.org/wiki/Category:Wiki软件 "wikilink") [Category:Wiki](https://zh.wikipedia.org/wiki/Category:Wiki "wikilink") [Category:门户网站](https://zh.wikipedia.org/wiki/Category:门户网站 "wikilink") [Category:資訊科技管理](https://zh.wikipedia.org/wiki/Category:資訊科技管理 "wikilink")
 
 1.
-2.  [諾貝爾物理獎女得主　曾遭維基百科拒建專頁](https://tw.appledaily.com/new/realtime/20181005/1442041/) 2018/10/05
-3.  [諾貝爾物理獎女得主 曾遭維基百科拒絕建檔\[影](http://www.cna.com.tw/news/firstnews/201810040385.aspx)最新更新：2018/10/05 \]
+2.
+3.   國際 {{\!}} 重點新聞 {{\!}} 中央社 CNA|url=[https://www.cna.com.tw/news/firstnews/201810040385.aspx|accessdate=2019-11-03|author=|date=|format=|work=www.cna.com.tw|publisher=|language=zh-TW](https://www.cna.com.tw/news/firstnews/201810040385.aspx%7Caccessdate=2019-11-03%7Cauthor=%7Cdate=%7Cformat=%7Cwork=www.cna.com.tw%7Cpublisher=%7Clanguage=zh-TW)}}

@@ -1372,6 +1372,10 @@ SHAA作画。在电击G's magazine上刊登。从2007年6月30日开始，至200
 
 動畫《**CLANNAD ～AFTER STORY～**》在中國ACG圈被譽為“人生”、“神作”，是許多ACG愛好者童年時代的記憶與寶藏。也於2017年5月30日被中國知名ACG彈幕影片網站bilibili推薦。\[85\]
 
+### 简体中文版
+
+2019年6月，key社宣布将会在现有steam英文版《CLANNAD》的基础上添加简体中文版\[86\]，在同年9月底的官方直播中指出，简体中文版的上线时间为2019年10月。
+
 ## 註釋
 
 <div class="references-small">
@@ -1391,155 +1395,88 @@ SHAA作画。在电击G's magazine上刊登。从2007年6月30日开始，至200
 [Category:CLANNAD](https://zh.wikipedia.org/wiki/Category:CLANNAD "wikilink") [Category:Key游戏](https://zh.wikipedia.org/wiki/Category:Key游戏 "wikilink") [Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:任天堂Switch遊戲](https://zh.wikipedia.org/wiki/Category:任天堂Switch遊戲 "wikilink") [Category:2007年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2007年日本劇場動畫 "wikilink") [Category:2007年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2007年TBS電視網動畫 "wikilink") [Category:戀愛遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:戀愛遊戲改編電視動畫 "wikilink") [Category:京都動畫](https://zh.wikipedia.org/wiki/Category:京都動畫 "wikilink") [Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.  [電視動畫版官方網頁](http://www.bs-i.co.jp/clannad/)
-
 10. 『pre-CLANNAD』 SOFTBANK Publishing 2004 ISBN 4-7973-2723-5 35頁
-
 11. 朋也：「なぁ…町は、大きな家族か」；渚：「はい。町も人も、みんな家族です」（朋也：「吶…**小鎮，是一個龐大的家族嗎？**」；渚：「**嗯。**小鎮和人們、全都是家人」）
-
 12.
 13.
-
 14. 遊戲原作中未提及學校名字，京都版動畫将学校定名為光坂高等學校，人物介紹中寫的「某高中」皆為同一所高中。
-
 15. 在日本人的習慣中，對於不熟的人才會用「君」或者是「」，因此直幸對朋也使用「朋也君」的稱呼時，其實也有著「我不瞭解你這個外人所以我這樣叫你」的意味在。
-
 16. 《》和《》都在KEY社的官方资料中出现过，因此都是正式名称，区别仅仅是有否把假名“”转换为汉字“手”。
-
 17.
-
 18. 「」有時也作「」。
-
 19.
 20.
 21.
 22.
-
 23.
-
 24.
 25.
-
 26.
 27.
-
 28.
-
 29.
-
 30.
 31.
-
 32.
 33.
-
 34. 不包括特別編。
-
 35.
-
 36.
 37.
 38. 番外篇、总集篇和特别篇标题中的光玉被幻想世界的少女取代。
-
 39.
 40.
 41. BS-i於2009年4月1日起改名為BS-TBS。
-
 42.
 43.
 44.
-
 45.
 46.
-
 47.
-
 48.
-
 49. 原文如此。
-
 50.
-
 51.
-
 52.
-
 53.
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.
-
 78.
-
 79.
-
 80.
-
 81.
-
 82.
-
 83.
-
 84.
-
 85.
+86. <https://www.4gamer.net/games/411/G041111/20190620154/>

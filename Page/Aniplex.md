@@ -294,49 +294,30 @@
 [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink") [Category:日本索尼音樂娛樂](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂 "wikilink") [Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink") [Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink") [Category:音樂出版社](https://zh.wikipedia.org/wiki/Category:音樂出版社 "wikilink") [Category:电影发行公司](https://zh.wikipedia.org/wiki/Category:电影发行公司 "wikilink")
 
 1.  [Aniplex新聞稿](http://www.aniplex.co.jp/company/press100120.html)
-
 2.  “SPE”為“Sony Pictures Entertainment”的縮寫。
-
 3.  “SME”為“Sony Music Entertainment”的縮寫。
-
 4.
-
 5.  音楽制作はランティスが担当。
-
 6.  [フジテレビ系](https://zh.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ノイタミナ](https://zh.wikipedia.org/wiki/ノイタミナ "wikilink")』枠による再放映版ではソニーミュージック系による主題歌差し替えが行われる。
-
 7.  リアル系では「[SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")」、SD系では「[SDガンダムフォース](https://zh.wikipedia.org/wiki/SDガンダムフォース "wikilink")」以降の作品から。当作品以降は制作スタッフに同ジャンルの同業他社が加わっている事や他のスポンサーとの兼ね合いからソニーミュージック名義となっている。但し、[ガンダムビルドファイターズには不参加](https://zh.wikipedia.org/wiki/ガンダムビルドファイターズ "wikilink")（こちらは[エイベックスが担当](https://zh.wikipedia.org/wiki/エイベックス "wikilink")）。
-
 8.  初版では[エピックソニーレコードから発売されていたが](https://zh.wikipedia.org/wiki/エピックレコードジャパン "wikilink")、[ブルースペックCD化に伴うデジタルリマスター盤の発売から担当](https://zh.wikipedia.org/wiki/ブルースペックCD "wikilink")（但し近年のガンダムシリーズにおける他のスポンサーとの兼ね合いから[GT music名義での販売](https://zh.wikipedia.org/wiki/ソニー・ミュージックダイレクト "wikilink")）。
-
 9.  アニプレックスは制作委員会出資のみ。主題歌制作はソニー・ミュージックエンタテインメント名義で協力。
-
 10.
 11.
 12. [ノーツ](../Page/TYPE-MOON.md "wikilink")・[一迅社](../Page/一迅社.md "wikilink")・[MBSとの共同企画](https://zh.wikipedia.org/wiki/毎日放送 "wikilink")。[他系列局・ABCでも](../Page/朝日放送.md "wikilink")「[劇場版 空の境界TV版](https://zh.wikipedia.org/wiki/空の境界 "wikilink")」放映中の提供スポットにてCM告知があったが別のネット局（[BS11でも放送](../Page/日本BS放送.md "wikilink")）では1クール前に放映終了して「[魔法少女まどか☆マギカ](https://zh.wikipedia.org/wiki/魔法少女まどか☆マギカ "wikilink")（TV再放映版）」を放送している ため制作キー局としての権限は前者のMBSにある。
-
 13. [都築真紀](../Page/都築真紀.md "wikilink")率いる[セブン・アークスグループがアニメ制作の作品において同社が音楽制作](https://zh.wikipedia.org/wiki/セブン・アークス "wikilink")・主題歌制作共に手掛ける作品は現時点で同作品のみ（『[DOG DAYS](../Page/DOG_DAYS.md "wikilink")』シリーズでは映像制作および劇中音楽・挿入歌制作を担当）。
-
 14. MBS制作枠のテレビアニメ。
-
 15.
 16. サウンドトラック制作は同社、キャラクターソング等も一部を除き同社が担当 。
-
 17.
 18.
 19. [角川グループによる](https://zh.wikipedia.org/wiki/角川ゲームス "wikilink")[リメイク版PSVゲームの音楽制作も直接親会社である](https://zh.wikipedia.org/wiki/Fate/stay_night#Fate/stay_night_Réalta_Nua "wikilink")[ソニー・ミュージックエンタテインメントを通じて担当](https://zh.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
-
 20. アニプレックス、[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")、[ufotableの](https://zh.wikipedia.org/wiki/ufotable "wikilink")3社共同によるリメイク作品
-
 21. 主演がアーティスト声優・[水樹奈々のため](https://zh.wikipedia.org/wiki/水樹奈々 "wikilink")。当該各項を参照。
-
 22.
 23. 一部楽曲はゲーム版のものを流用。
-
 24. 同社とニトロプラス・[芳文社](../Page/芳文社.md "wikilink")・シャフトとの共同企画。
-
 25.
 26.
 27. アニプレックスと[アニメ制作会社の](https://zh.wikipedia.org/wiki/アニメ制作会社 "wikilink")[ufotableによるオリジナルレーベル](https://zh.wikipedia.org/wiki/ユーフォーテーブル "wikilink")（[公式サイト](http://www.animebunko.com/)）。
-
 28. アニプレックスが制作委員会に出資、音楽制作にも関与。但し、キャラクターソング・サウンドトラックのリリース分については前掲の都合上ミュージックレインが実質的に代行。

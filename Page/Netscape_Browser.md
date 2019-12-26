@@ -22,14 +22,6 @@
 | 8.1.2               | 2006年9月27日  | 1.0.8               | 強化RSS功能                |
 | 8.1.3               | 2007年4月2日   | 1.0.8               | 隨Firefox1.5.0.8安全性修正更新 |
 
-## 中文化
-
-Netscape Browser並未有中文化的版本或是語言套件。
-
-## 外部連結
-
-  - [下載各舊版本的Netscape瀏覽器和網路套件](http://sillydog.org/narchive/full123.php)
-
 ## 相關文章
 
   - [Netscape](https://zh.wikipedia.org/wiki/Netscape "wikilink")

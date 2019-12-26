@@ -232,34 +232,20 @@ RLC並聯電路的衰减量\(\alpha \,\)可以用下式求得\[12\]：
 [Category:電路分析](https://zh.wikipedia.org/wiki/Category:電路分析 "wikilink")
 
 1.  Nilsson and Riedel, p.308.
-
 2.  Agarwal and Lang, p.641.
-
 3.  Irwin, p.532.
-
 4.  Agarwal and Lang, p.648.
-
 5.  Nilsson and Riedel, p.295.
-
 6.  Humar, pp.223-224.
-
 7.
 8.  Agarwal and Lang, p. 692.
-
 9.  Nilsson and Riedel, p.303.
-
 10. 本章節是Lokenath Debnath, Dambaru Bhatta, *Integral transforms and their applications*, 2nd ed. Chapman & Hall/CRC, 2007, ISBN 1-58488-575-0,198-202頁的Example 4.2.13為基礎，不過為了和本文用的符號一致，有修改其中部份標示
-
 11. Kumar and Kumar, *Electric Circuits & Networks*, p. 464.
-
 12. Nilsson and Riedel, p.286.
-
 13. Kaiser, pp. 5.26–5.27.
-
 14. Agarwal and Lang, p. 805.
-
 15.
-
 16.
 17.
 18.

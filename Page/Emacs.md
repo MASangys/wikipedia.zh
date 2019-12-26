@@ -227,7 +227,7 @@ Emacs将文本存放在[缓冲区中](https://zh.wikipedia.org/wiki/缓冲区 "w
   - [Reviewed entry](http://directory.fsf.org/wiki/Emacs) in the [Free Software Directory](https://zh.wikipedia.org/wiki/Free_Software_Directory "wikilink")
   - [Emacs实现列表](http://www.finseth.com/emacs.html)
   - [WikEmacs](http://www.wikemacs.org/index.php)
-  - [Emacs中文网(已失效)](http://emacser.com)
+  - [Emacs中文网(已失效)](https://web.archive.org/web/20120508003548/http://emacser.com/)
   - [Emacs China中文论坛](http://emacs-china.org)
   - [中文Emacs User's Guide](https://web.archive.org/web/20030626193707/http://www.cbi.pku.edu.cn/chinese/documents/csdoc/emacs/)
   - [IBM dw教程：生活在Emacs中](https://web.archive.org/web/20090207193326/http://www.ibm.com/developerworks/cn/views/linux/tutorials.jsp?cv_doc_id=84932)

@@ -1,4 +1,4 @@
-《**ONE PIECE**》（，中文譯名：海賊王、航海王），是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[尾田榮一郎創作的一部](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，至今還在連載。該作品以虛構的「大海賊時代」為故事舞台，描述一名少年**[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")**想要得到「****」和成為「**海賊王**」而出海向「偉大的航道」航行的海洋冒險[故事](../Page/故事.md "wikilink")。
+《**ONE PIECE**》（，中文譯名：海賊王、航海王），是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[尾田榮一郎創作的一部](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，至今還在連載。該作品以虛構的「大海賊時代」為故事舞台，描述一名少年[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")想要得到「****」和成為「**海賊王**」而出海向「偉大的航道」航行的海洋冒險[故事](../Page/故事.md "wikilink")。
 
 該作於[1997年](../Page/1997年.md "wikilink")在日本[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）定期連載，之後被改編為各種系列的[衍生作品](https://zh.wikipedia.org/wiki/ONE_PIECE#衍生作品 "wikilink")，主要包括同名的[電視動畫](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")、[電影](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\)#電影 "wikilink")、[小說和](https://zh.wikipedia.org/wiki/ONE_PIECE#輕小說 "wikilink")[電子遊戲等周邊](https://zh.wikipedia.org/wiki/ONE_PIECE#電子遊戲 "wikilink")[媒體產品](https://zh.wikipedia.org/wiki/傳播媒體 "wikilink")。
 
@@ -20,28 +20,99 @@
 
 為《ONE PIECE》的第一部故事。收錄卷數為第1～61卷；收錄話數為第1～597話。
 
+;
+
   -
-    **[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")**童年時受到海賊[「紅髮」傑克的啟蒙](https://zh.wikipedia.org/wiki/「紅髮」傑克 "wikilink")，自小就立志要成為「**海賊王**」。17歲時他出海之後，接續遇見了海賊獵人**[羅羅亞·索隆](../Page/羅羅亞·索隆.md "wikilink")**、航海士**[娜美](../Page/娜美.md "wikilink")**、狙擊手**[騙人布](../Page/騙人布.md "wikilink")**、廚師**[賓什莫克·香吉士](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink")**等人並結為夥伴。他們組成了草帽海賊團準備進入偉大的航道來到了羅格鎮。離開羅格鎮後，一行人在偉大航道的入口「顛倒山」之前以各自的夢想立誓，跨越顛倒山之後進入偉大航道，展開下一段冒險。
+<!-- end list -->
+
+  -
+    **[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")**童年時受到海賊[「紅髮」傑克的啟蒙](https://zh.wikipedia.org/wiki/「紅髮」傑克 "wikilink")，自小就立志要成為「**海賊王**」。17歲時他出海之後，接續遇見了海賊獵人**[罗罗诺亚](https://zh.wikipedia.org/wiki/罗罗诺亚 "wikilink")**、航海士**[娜美](../Page/娜美.md "wikilink")**、狙擊手**[騙人布](../Page/騙人布.md "wikilink")**、廚師**[香客丝](https://zh.wikipedia.org/wiki/香客丝 "wikilink")**等人並結為夥伴。他們組成了草帽海賊團準備進入偉大的航道來到了羅格鎮。離開羅格鎮後，一行人在偉大航道的入口「顛倒山」之前以各自的夢想立誓，跨越顛倒山之後進入偉大航道，展開下一段冒險。
+
+;
+
+  -
+<!-- end list -->
+
   -
     草帽海賊團一行人來到偉大航道、在威士忌山峰遇到臥底在秘密犯罪組織[巴洛克華克](../Page/巴洛克華克.md "wikilink")的[阿拉巴斯坦王國](../Page/阿拉巴斯坦王國.md "wikilink")公主[納菲魯塔莉·薇薇](../Page/納菲魯塔莉·薇薇.md "wikilink")，從公主口中得知阿拉巴斯坦正處於水深火熱之中，以及[王下七武海](../Page/王下七武海.md "wikilink")[『Mr.0』克洛克達爾的陰謀後](../Page/克洛克達爾.md "wikilink")，魯夫決定幫助這位公主。在途中前往島嶼「小花園」與[巴洛克華克](../Page/巴洛克華克.md "wikilink")的部分成員開戰，並在旅途中為了治好在小花園生病的娜美去了[磁鼓島並增添一名船醫夥伴](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#磁鼓島「櫻花王國」 "wikilink")[多尼多尼·喬巴](../Page/多尼多尼·喬巴.md "wikilink")。
+
+;
+
+  -
+<!-- end list -->
+
   -
     抵達阿拉巴斯坦後，當地因為克洛克達爾的煽動爆發內戰，魯夫最後擊敗克洛克達爾，內戰亦隨之結束。其後薇薇向魯夫等人道別，而原[巴洛克華克](../Page/巴洛克華克.md "wikilink")副社長**[妮可·羅賓](../Page/妮可·羅賓.md "wikilink")**，因失去人生目標，以考古學家的身份加入了草帽海賊團。
+
+;
+
+  -
+<!-- end list -->
+
   -
     離開阿拉巴斯坦王國之後，草帽海賊團撞見一艘從天而降的大船，同時紀錄指針竟然向上指向天空。對[空島](../Page/空島.md "wikilink")產生興趣的魯夫靠著上升海流前往空島。誤入了空島統治者[「神」艾涅爾的領地](https://zh.wikipedia.org/wiki/空島#艾涅爾 "wikilink")，草帽海賊團、神的軍團、以及領地原住民「香狄亞」展開激戰，艾涅爾最終被擊敗，而空島居民和香狄亞一族長達400年的戰爭也終止。
+
+;
+
+  -
+<!-- end list -->
+
   -
     草帽海賊團遇見專門以Davy Back Fight遊戲搶奪其它海賊團船員的[「銀狐」弗克西](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#弗克西 "wikilink")，船醫喬巴被其搶走，兩個海賊團展開對決。
+
+;
+
+  -
+<!-- end list -->
+
   -
     為修繕傷痕累累的[前進梅利號](../Page/前進梅利號.md "wikilink")，草帽海賊團來到以造船業聞名的水之七島，卻得知梅莉號已經無法修復的消息，騙人布又慘敗給拆船流氓**[佛朗基](../Page/佛朗基.md "wikilink")**，因而離團。另一方面，羅賓遇見了政府機關[CP9](https://zh.wikipedia.org/wiki/世界政府直屬秘密間諜機關#CP9 "wikilink")，由於害怕過去發生在自己故鄉的悲劇重演在草帽海賊團上，因此自願被CP9帶走。而騙人布又因為不滿魯夫換掉梅利號的決定而決定離開，草帽海賊團陷入分崩離析的危機。
+
+;
+
+  -
+<!-- end list -->
+
   -
     草帽海賊團前往司法島救回羅賓，與世界政府底下的CP9部隊全面對決，最後救回羅賓，騙人布也回到團裡。魯夫以火葬儀式為大限已至的梅利號送行，而佛朗基用當初偷來的2億貝里建造一艘新船[千陽號](../Page/千陽號.md "wikilink")，繼續出海冒險，而佛朗基也以船匠的身分加入海賊團。
+
+;
+
+  -
+<!-- end list -->
+
   -
     草帽海賊團踏入魔幻的三桅帆船地帶，遇見神秘的骷髏人**[布魯克](../Page/布魯克_\(ONE_PIECE\).md "wikilink")**，並與王下七武海之一的[月光·摩利亞](../Page/月光·摩利亞.md "wikilink")產生衝突。最後魯夫擊敗了摩利亞，布魯克也以音樂家的身分加入草帽海賊團。
+
+;
+
+  -
+<!-- end list -->
+
   -
     草帽海賊團進入偉大航道前半段的最末端夏波帝諸島，和世界貴族[天龍人起了衝突](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#世界貴族「天龍人」 "wikilink")，之後遇到[海軍上將](../Page/海軍_\(ONE_PIECE\).md "wikilink")[黃猿](https://zh.wikipedia.org/wiki/黃猿 "wikilink")、[戰桃丸以及改造人攻擊](https://zh.wikipedia.org/wiki/海軍_\(ONE_PIECE\)#戰桃丸 "wikilink")，到最後[巴索羅繆·大熊利用果實幫助草帽海賊團逃脫](https://zh.wikipedia.org/wiki/革命軍_\(ONE_PIECE\)#巴索羅謬·大熊 "wikilink")，把各個船員擊飛至不同的島嶼。
+
+;
+
+  -
+<!-- end list -->
+
   -
     被擊飛至女人島的魯夫遇見島上的[「海賊女帝」波雅·漢考克](../Page/波雅·漢考克.md "wikilink")，又得知自己的兄長[「火拳」波特卡斯·D·艾斯要被處決](https://zh.wikipedia.org/wiki/白鬍子海賊團#波特卡斯·D·艾斯 "wikilink")，便請蛇姬將自己偷渡至海底大監獄「推進城」。
+
+;
+
+  -
+<!-- end list -->
+
   -
     魯夫在推進城遇見過去的敵人（[「小丑」巴其](https://zh.wikipedia.org/wiki/巴其_\(ONE_PIECE\)#巴其 "wikilink")、以克洛克達爾為首的巴洛巴華克部分成員）等人，眾人為達成各自的目的，分別先後集結組成聯盟後展開越獄行動，最後魯夫來到處刑的場所海軍本部[馬林福特](https://zh.wikipedia.org/wiki/馬林福特 "wikilink")。
+
+;
+
+  -
+<!-- end list -->
+
   -
     魯夫及越獄同伴、以及為了救艾斯而來的[白鬍子海賊團](../Page/白鬍子海賊團.md "wikilink")、[海軍的三上將以及眾多海軍展開了](../Page/海軍_\(ONE_PIECE\).md "wikilink")「頂點戰爭」。戰爭最後由「紅髮」傑克出面調停而收場，但遺憾的是艾斯和白鬍子皆殞命於戰場。戰爭結束後，失去了哥哥艾斯並深感自身實力不足的魯夫，在[「冥王」雷利的建議下給夥伴留下了訊息](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#席爾巴斯·雷利 "wikilink")，之後展開了為期兩年的[霸氣修行之旅](https://zh.wikipedia.org/wiki/ONE_PIECE用語列表#霸氣 "wikilink")。
 
@@ -49,19 +120,24 @@
 
 為《ONE PIECE》的第二部故事，收錄卷數為第61卷起；收錄話數為第598話起。
 
+;
+
+  -
+<!-- end list -->
+
   -
     歷經兩年修行後重逢的草帽海賊團為了前往新世界，而出發邁向位於海底10,000公尺以下處的「[魚人島](../Page/魚人島.md "wikilink")」。他們遇到[吉貝爾](../Page/吉貝爾.md "wikilink")並得知魚人島的悲劇歷史，原本魚人島繼承已故王妃的想法、漸漸地接近與人類和平共處的理想，但是由荷帝·瓊斯所率領的新魚人海賊團卻粉碎了這個美夢。草帽海賊團挺身阻止荷帝所率領的「[新魚人海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#新魚人海賊團 "wikilink")」，並與[白星](../Page/白星.md "wikilink")公主為首的魚人與人類之間開始建立新的羈絆。
-  -
+  - \*
     草帽海賊團與新任王下七武海[托拉法爾加·D·瓦特爾·羅](../Page/托拉法爾加·D·瓦特爾·羅.md "wikilink")相遇，魯夫接受羅的提議，組成了「海賊同盟」，目標是「[四皇](https://zh.wikipedia.org/wiki/四皇 "wikilink")」之一的[「百獸」海道](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#海道 "wikilink")。他們靠著這強力的同盟來對抗在龐克哈薩特製造人工惡魔果實的[凱薩·克勞恩](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#凱薩·克勞恩 "wikilink")。
-  -
+  - \*
     草帽海賊團和羅潛入到[唐吉訶德·多佛朗明哥](../Page/唐吉訶德·多佛朗明哥.md "wikilink")治理下的王國「[多雷斯羅薩](../Page/多雷斯羅薩.md "wikilink")」，與多佛朗明哥旗下人馬展開對決，期間與[革命軍](../Page/革命軍.md "wikilink")參謀總長的義兄[薩波重逢](https://zh.wikipedia.org/wiki/革命軍_\(ONE_PIECE\)#薩波 "wikilink")，在擊敗多佛朗明哥後，多雷斯羅薩的悲劇就此結束。而作為檯面下引路人的多佛朗明哥的垮台，也使得世界局勢開始出現大幅變化。
-  -
+  - \*
     魯夫等人到佐烏國家與娜美等人會合，但此國家卻已呈現潰滅狀態。一行人追查發生在這個國家的秘密，卻意外發現香吉士出身為殺手家族。魯夫一行人為了阻止其結婚，正在思考救回香吉士的方法時，意外得知了和之國光月一族的秘密。魯夫等人得知這件驚人事實，於是將下一個擊倒的目標鎖定為四皇「百獸」海道。魯夫、索隆與和之國光月一族及佐烏的住民為各自的目的分組團隊。
-  -
+  - \*
     魯夫團隊前往四皇[「BIG MOM」夏洛特·莉莉所在的](../Page/夏洛特·莉莉.md "wikilink")「萬國」蛋糕島準備奪回要結婚的香吉士。魯夫等人理解香吉士與家族聯姻的真正理由，再度和吉貝爾相會，並與想要暗殺BIG MOM的[火戰車海賊團組成暫時聯盟](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#火戰車海賊團 "wikilink")，成功破壞雙方聯姻婚禮，救出香吉士和其家族[杰爾馬66](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#杰爾馬66 "wikilink")。吉貝爾為實踐理念，正式宣布退出BIG MOM旗下與辭別[太陽海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#太陽海賊團 "wikilink")，以掌舵手的身分加入草帽海賊團。在一行人達成目的後，逃出BIG MOM的領地，期間魯夫與[BIG MOM海賊團的](../Page/BIG_MOM海賊團.md "wikilink")[夏洛特·卡塔克利](../Page/夏洛特·卡塔克利.md "wikilink")有多次激烈對決，在最後的對決中獲勝。
-  -
+  - \*
     世界政府加盟國裡作為代表的50個國家，再度前往「聖地」馬力喬亞召開每4年一次的世界會議，商討世界大局政策。
-  -
+  - \*
     索隆等人按[錦衛門的要求偽裝成](https://zh.wikipedia.org/wiki/和之國#錦衛門 "wikilink")[和之國](../Page/和之國.md "wikilink")國民。另一方面，魯夫等人先後抵達四皇「百獸」海道駐紮的和之國。
 
 ## 登場角色
@@ -247,6 +323,12 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>24</p></td>
+<td style="text-align: center;"><p>"ギャング"ベッジのオーマイファミリー</p></td>
+<td><p>「匪幫」培基的Oh my family</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td style="text-align: center;"></td>
 <td></td>
@@ -311,7 +393,7 @@
 | THE 17TH LOG "SABÃODY"       | 2012年9月14日  | ISBN 978-4-08-111052-0 |
 | THE 18TH LOG "IMPEL DOWN"    | 2012年10月12日 | ISBN 978-4-08-111053-7 |
 | THE 19TH LOG "MARINEFORD"    | 2012年11月9日  | ISBN 978-4-08-111054-4 |
-| XTRA LOG 1 "STRONG WORLD"    | 2012年12月4日  | ISBN 978-4-08-111061-2 |
+| EXTRA LOG 1 "STRONG WORLD"   | 2012年12月4日  | ISBN 978-4-08-111061-2 |
 | THE 20TH LOG "ACE"           | 2012年12月14日 | ISBN 978-4-08-111055-1 |
 | THE 21ST LOG "2 YEARS LATER" | 2017年6月23日  | ISBN 978-4-08-111183-1 |
 | THE 22TH LOG "SHIRAHOSHI"    | 2017年7月28日  | ISBN 978-4-08-111184-8 |
@@ -415,52 +497,52 @@
 <td><p>ISBN 978-4-08-908320-8</p></td>
 </tr>
 <tr class="odd">
-<td><p>BOOSTER PACK東方藍的強者們</p></td>
+<td><p>BOOSTER PACK 東方藍的強者們</p></td>
 <td></td>
 <td><p>2018年10月4日</p></td>
 </tr>
 <tr class="even">
-<td><p>BOOSTER SET 集結! 「超新星」</p></td>
+<td><p>BOOSTER PACK 集結!「超新星」</p></td>
 <td></td>
 <td><p>ISBN 978-4-08-908322-2</p></td>
 </tr>
 <tr class="odd">
-<td><p>BOOSTER SET アーロン一味とココヤシ村の人々</p></td>
+<td><p>BOOSTER PACK 惡龍海賊團與可可亞西村村民</p></td>
 <td><p>2018年11月2日</p></td>
 <td><p>ISBN 978-4-08-908323-9</p></td>
 </tr>
 <tr class="even">
-<td><p>BOOSTER SET インペルダウンの番人VS囚人達</p></td>
-<td></td>
+<td><p>BOOSTER PACK 推進城獄卒VS囚犯!</p></td>
 <td><p>ISBN 978-4-08-908324-6</p></td>
+<td><p>2019年10月18日</p></td>
 </tr>
 <tr class="odd">
-<td><p>BOOSTER SET 砂の王国・アラバスタの精鋭</p></td>
-<td></td>
+<td><p>BOOSTER PACK 沙漠王國・阿拉巴斯坦的精銳!</p></td>
 <td><p>2018年12月4日</p></td>
+<td><p>ISBN 978-4-08-908325-3</p></td>
 </tr>
 <tr class="even">
-<td><p>BOOSTER SET “四皇”白ひげ海賊団</p></td>
+<td><p>BOOSTER PACK 「四皇」白鬍子海賊團</p></td>
 <td></td>
 <td><p>ISBN 978-4-08-908326-0</p></td>
 </tr>
 <tr class="odd">
-<td><p>BOOSTER SET 結集! 秘密結社バロックワークス</p></td>
+<td><p>BOOSTER PACK 集結! 秘密結社巴洛克華克</p></td>
 <td><p>2019年1月4日</p></td>
 <td><p>ISBN 978-4-08-908327-7</p></td>
 </tr>
 <tr class="even">
-<td><p>BOOSTER SET 海底の楽園・魚人島の住人達</p></td>
+<td><p>BOOSTER PACK 海底の楽園・魚人島の住人達</p></td>
 <td></td>
 <td><p>ISBN 978-4-08-908328-4</p></td>
 </tr>
 <tr class="odd">
-<td><p>BOOSTER SET ~空島の強敵達~</p></td>
+<td><p>BOOSTER PACK 空島の強敵達</p></td>
 <td><p>2019年2月4日</p></td>
 <td><p>ISBN 978-4-08-908329-1</p></td>
 </tr>
 <tr class="even">
-<td><p>BOOSTER SET ~魚人島の強敵達~</p></td>
+<td><p>BOOSTER PACK 魚人島の強敵達</p></td>
 <td><p>ISBN 978-4-08-908330-7</p></td>
 <td></td>
 </tr>
@@ -470,52 +552,52 @@
 <td><p>ISBN 978-4-08-908331-4</p></td>
 </tr>
 <tr class="even">
-<td><p>BOOSTER SET シャンドラの戦士VS神の軍勢</p></td>
+<td><p>BOOSTER PACK シャンドラの戦士VS神の軍勢</p></td>
 <td></td>
 <td><p>2019年4月4日</p></td>
 </tr>
 <tr class="odd">
-<td><p>BOOSTER SET パンクハザードの脅威</p></td>
+<td><p>BOOSTER PACK パンクハザードの脅威</p></td>
 <td></td>
 <td><p>ISBN 978-4-08-908345-1</p></td>
 </tr>
 <tr class="even">
-<td><p>BOOSTER SET 世界一の船大工!ガレーラカンパニー</p></td>
+<td><p>BOOSTER PACK 世界一の船大工!ガレーラカンパニー</p></td>
 <td></td>
 <td><p>2019年5月2日</p></td>
 </tr>
 <tr class="odd">
-<td><p>BOOSTER SET 恐怖の支配者! ドンキホーテファミリー</p></td>
+<td><p>BOOSTER PACK 恐怖の支配者! ドンキホーテファミリー</p></td>
 <td></td>
 <td><p>ISBN 978-4-08-908347-5</p></td>
 </tr>
 <tr class="even">
-<td><p>BOOSTER SET “闇の正義”の執行人!CP9</p></td>
+<td><p>BOOSTER PACK “闇の正義”の執行人!CP9</p></td>
 <td></td>
 <td><p>2019年6月4日</p></td>
 </tr>
 <tr class="odd">
-<td><p>BOOSTER SET 激突!コロシアムの闘士達</p></td>
+<td><p>BOOSTER PACK 激突!コロシアムの闘士達</p></td>
 <td></td>
 <td><p>ISBN 978-4-08-908349-9</p></td>
 </tr>
 <tr class="even">
-<td><p>BOOSTER SET 悪夢!スリラーバークの怪人達</p></td>
+<td><p>BOOSTER PACK 悪夢!スリラーバークの怪人達</p></td>
 <td></td>
 <td><p>2019年7月4日</p></td>
 </tr>
 <tr class="odd">
-<td><p>BOOSTER SET 天性の戦士!モコモ公国のミンク族</p></td>
+<td><p>BOOSTER PACK 天性の戦士!モコモ公国のミンク族</p></td>
 <td></td>
 <td><p>ISBN 978-4-08-908351-2</p></td>
 </tr>
 <tr class="even">
-<td><p>BOOSTER SET “北の海”の戦争屋・ジェルマ66</p></td>
+<td><p>BOOSTER PACK “北の海”の戦争屋・ジェルマ66</p></td>
 <td></td>
 <td><p>2019年8月4日</p></td>
 </tr>
 <tr class="odd">
-<td><p>BOOSTER SET “四皇”ビッグ・マム海賊団</p></td>
+<td><p>BOOSTER PACK “四皇”ビッグ・マム海賊団</p></td>
 <td></td>
 <td><p>ISBN 978-4-08-908353-6</p></td>
 </tr>
@@ -989,7 +1071,7 @@ ISBN 978-986-486-993-0 |- \! 2 | 2017年8月4日 | ISBN 978-4-08-102233-5 | 2018
     原作：尾田榮一郎。目前已出版2冊，日本由集英社發行，香港由[天下出版](../Page/天下出版.md "wikilink")發行，台灣由[東立出版社](../Page/東立出版社.md "wikilink")代理。
     {| class="wikitable" style="font-size:small;"
 
-\! rowspan="2" |卷數 \! colspan="2" | [集英社](../Page/集英社.md "wikilink") (JUMP COMICS) \! colspan="2" | [天下出版](../Page/天下出版.md "wikilink") \! colspan="2" | [東立出版社](../Page/東立出版社.md "wikilink") |- \!發售日期\!\!ISBN\!\!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 1 | 2018年6月4日 || ISBN 978-4-08-881559-6 | 2018年10月12日 || ISBN 978-988-8217-38-0 | 2019年1月11日 || ISBN 978-957-2620-54-0 |- \! 2 | 2018年7月4日 || ISBN 978-4-08-881560-2 | 2019年3月29日 || | 2019年7月12日 || ISBN 978-957-2620-55-7 |}
+\! rowspan="2" |卷數 \! colspan="2" | [集英社](../Page/集英社.md "wikilink") \! colspan="2" | [天下出版](../Page/天下出版.md "wikilink") \! colspan="2" | [東立出版社](../Page/東立出版社.md "wikilink") |- \!發售日期\!\!ISBN\!\!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |- \! 1 | 2018年6月4日 || ISBN 978-4-08-881559-6 | 2018年10月12日 || ISBN 978-988-8217-38-0 | 2019年1月11日 || ISBN 978-957-2620-54-0 |- \! 2 | 2018年7月4日 || ISBN 978-4-08-881560-2 | 2019年3月29日 || | 2019年7月12日 || ISBN 978-957-2620-55-7 |- \! 3 | 2019年10月4日 || ISBN 978-4-08-882098-9 | || | || |}
 
 ## 衍生作品
 

@@ -199,49 +199,29 @@ Scheme的精簡設計使得程式語言設計人士與愛好者特別鍾愛研�
 [Category:动态类型编程语言](https://zh.wikipedia.org/wiki/Category:动态类型编程语言 "wikilink") [Category:LISP程式語言家族](https://zh.wikipedia.org/wiki/Category:LISP程式語言家族 "wikilink") [Category:Scheme語言](https://zh.wikipedia.org/wiki/Category:Scheme語言 "wikilink")
 
 1.  Barbara Liskov, "A History of CLU", MIT Laboratory for Computer Science Technical Report 561 (1993)
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16. cons，car，與cdr的名稱來自於Lisp。這三者的含義分別為「construct」（意為「建立」），「**C**ontent of **A**ddress **R**egister」（意為「記憶體地址暫存器內容」），與「**C**ontent of **D**ecrement **R**egister」（意為「記憶體減量暫存器內容」）。這些名稱反映了Lisp中有序對最早的實現方法。
-
 17. 事實上，Richard Kelsey與Jonathan Rees曾在1986年8月6日僅用48小時寫作過一個Scheme直譯器，並命名為[Scheme 48](https://zh.wikipedia.org/wiki/Scheme_48 "wikilink")。詳見
-
 18.
 19.
-
 20.
 21.
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.

@@ -86,7 +86,7 @@ Katie在新版时的设定是住在Konqi隔壁的女孩子，至于是不是他�
 
   - [Konqi's page on KDE Community Wiki](https://community.kde.org/Konqi)
   - [Mascots artwork collection on KDE Community Wiki](https://community.kde.org/Promo/Material/Mascots)
-  - [20 Years of KDE on KDE.org](https://timeline.kde.org/)
+  - [20 Years of KDE on KDE.org](https://web.archive.org/web/20171210142519/https://timeline.kde.org/)
   - [Tyson Tan's Tumblr post featuring new Konqi's design description](https://tysontan.tumblr.com/post/102534895981/)
   - [Blender Source of Konqi's former design](http://www.kde.org/stuff/clipart/konqi-blender-source.tar.bz2)
   - [Konqi and the Magical Rope of Curiosity video](http://www.kde.org/stuff/clipart/konqi-magical-rope-video-720x576-divx.avi) and [Blender Source Files](http://www.kde.org/stuff/clipart/konqi-magical-rope-video-sources.tar.bz2)
@@ -95,20 +95,12 @@ Katie在新版时的设定是住在Konqi隔壁的女孩子，至于是不是他�
 [Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink") [Category:电脑吉祥物](https://zh.wikipedia.org/wiki/Category:电脑吉祥物 "wikilink") [Category:龍吉祥物](https://zh.wikipedia.org/wiki/Category:龍吉祥物 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.

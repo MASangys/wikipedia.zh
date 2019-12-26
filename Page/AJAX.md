@@ -100,7 +100,7 @@ Ajax是以异步的方式向服务器提交需求。对服务器而言，其与�
   - [Rico](http://openrico.sourceforge.net/)知名的開源碼的AJAX函式庫，跨平台支援。
   - [DWR](http://getahead.org/) Web Remoting
   - [qooxdoo](http://qooxdoo.org/) JS UI component（C/S Style）
-  - [jsLINB](http://www.linb.net)完全OOP，帶有線程模擬的ajax RIA框架。
+  - [jsLINB](https://web.archive.org/web/20190407101206/http://www.linb.net/)完全OOP，帶有線程模擬的ajax RIA框架。
   - [GWT](http://code.google.com/webtoolkit/) Google開源框架。
   - [Quicknet](https://web.archive.org/web/20091212094700/http://www.myquicknet.com/)一個能提供安全資料傳輸的AJAX系統架構。
 

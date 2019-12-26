@@ -1,4 +1,4 @@
-**BIOS**是**B**asic **I**nput/**O**utput **S**ystem的縮寫，中文：**基本輸入輸出系統**，亦稱為ROM BIOS、System BIOS、PC BIOS）是在通電啟動階段執行硬體初始化，以及為[作業系統和程式提供運行時服務的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[韌體](../Page/韌體.md "wikilink")。BIOS最早隨著[CP/M作業系統的推出在](https://zh.wikipedia.org/wiki/CP/M "wikilink")1975年出現。BIOS預安裝在[個人電腦的](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[主機板上](https://zh.wikipedia.org/wiki/主機板 "wikilink")，是[个人电脑](../Page/个人电脑.md "wikilink")启动时加载的第一个软件。
+**BIOS**是**B**asic **I**nput/**O**utput **S**ystem的縮寫，中文：**基本輸入輸出系統**，亦稱為ROM BIOS、System BIOS、PC BIOS，是在通電啟動階段執行硬體初始化，以及為[作業系統和程式提供運行時服務的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[韌體](../Page/韌體.md "wikilink")。BIOS最早隨著[CP/M作業系統的推出在](https://zh.wikipedia.org/wiki/CP/M "wikilink")1975年出現。BIOS預安裝在[個人電腦的](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[主機板上](https://zh.wikipedia.org/wiki/主機板 "wikilink")，是[个人电脑](../Page/个人电脑.md "wikilink")启动时加载的第一个软件。
 
 現在，BIOS用於初始化和測試系統的硬體元件，以及從大容量儲存裝置（如硬碟）載入[啟動程式](../Page/啟動程式.md "wikilink")，並由[啟動程式](../Page/啟動程式.md "wikilink")載入作業系統。BIOS還為[DOS](../Page/DOS.md "wikilink")作業系統提供鍵盤、顯示及其他[I/O裝置的](https://zh.wikipedia.org/wiki/I/O "wikilink")[硬體抽象層](../Page/硬體抽象層.md "wikilink")。許多較新的作業系統在啟動後不再通過BIOS存取硬體。
 
@@ -24,7 +24,7 @@ BIOS最早可追溯到[1970年代](../Page/1970年代.md "wikilink")的[CP/M作�
 
 大約從[80386](https://zh.wikipedia.org/wiki/80386 "wikilink") PC開始，個人電腦的BIOS ROM整合了設定程式（Setup）。主板的CMOS晶片用於儲存BIOS設定值及硬體偵測值。主板上的鈕扣電池用於讓[CMOS儲存BIOS設定值](https://zh.wikipedia.org/wiki/CMOS "wikilink")，以及電腦在斷電時依然可以讓系統時鐘運作。
 
-現代的BIOS可以讓使用者選擇由哪個啟動裝置啟動電腦，如[光碟機](https://zh.wikipedia.org/wiki/光碟機 "wikilink")、[硬碟](https://zh.wikipedia.org/wiki/硬碟 "wikilink")、[軟碟](https://zh.wikipedia.org/wiki/軟碟 "wikilink")、USB[隨身碟等等](https://zh.wikipedia.org/wiki/隨身碟 "wikilink")。
+現代的BIOS可以讓使用者選擇由哪個啟動裝置啟動電腦，如[光碟機](https://zh.wikipedia.org/wiki/光碟機 "wikilink")、[硬碟](https://zh.wikipedia.org/wiki/硬碟 "wikilink")、[軟碟](https://zh.wikipedia.org/wiki/軟碟 "wikilink")、[隨身碟等等](https://zh.wikipedia.org/wiki/隨身碟 "wikilink")。
 
 ## BIOS韌體
 
@@ -46,7 +46,7 @@ BIOS可通過[BIOS中斷呼叫](../Page/BIOS中斷呼叫.md "wikilink")為[MS-DO
 
 ### 現代用途
 
-BIOS以16位元[真實模式](../Page/真實模式.md "wikilink")執行。現代作業系統以[保護模式](../Page/保護模式.md "wikilink")或[長模式執行](https://zh.wikipedia.org/wiki/長模式 "wikilink")，存取BIOS的16位元[真實模式](../Page/真實模式.md "wikilink")服務（如[BIOS中斷呼叫](../Page/BIOS中斷呼叫.md "wikilink")）是低效的。現代作業系統僅在啟動時使用[BIOS中斷呼叫](../Page/BIOS中斷呼叫.md "wikilink")服務。後來的BIOS加入了[ACPI等功能](https://zh.wikipedia.org/wiki/ACPI "wikilink")。
+BIOS以16位元[真實模式](../Page/真實模式.md "wikilink")執行。現代作業系統以[保護模式](../Page/保護模式.md "wikilink")或[長模式執行](https://zh.wikipedia.org/wiki/長模式 "wikilink")，存取BIOS的16位元[真實模式](../Page/真實模式.md "wikilink")服務（如[BIOS中斷呼叫](../Page/BIOS中斷呼叫.md "wikilink")）是低效的。現代作業系統僅在啟動時使用[BIOS中斷呼叫](../Page/BIOS中斷呼叫.md "wikilink")服務。後來的BIOS加入了[APM](https://zh.wikipedia.org/wiki/進階電源管理 "wikilink")、隨插即用規範（PnP）、[ACPI等功能](https://zh.wikipedia.org/wiki/ACPI "wikilink")。
 
 ## 与[CMOS的联系和区别](https://zh.wikipedia.org/wiki/CMOS "wikilink")
 
@@ -58,15 +58,15 @@ CMOS是计算机上另一个重要的存储器。之所以提到它，是因为B
 
 二者的区别是，BIOS是儲存在唯读记憶體（[EEPROM](https://zh.wikipedia.org/wiki/EEPROM "wikilink")），而CMOS为随机存储器（[RAM](https://zh.wikipedia.org/wiki/随机存取记忆体 "wikilink")）；BIOS中存储的是[程序](https://zh.wikipedia.org/wiki/程序 "wikilink")，而CMOS中存储的是普通信息。
 
-CMOS的內容在斷電會消失。所以，把[主機板的電池拆出](https://zh.wikipedia.org/wiki/主機板 "wikilink")，便可重置其內容。另外，拆出電池也會重設[時間](https://zh.wikipedia.org/wiki/時間 "wikilink")。UEFI使用NVRAM儲存資料，主板電池沒有電量會導致時間不正確，可能會導致UEFI設定值遺失。可通過主板的有關Jumper重設UEFI設定。
+CMOS的內容在斷電會消失。所以，把[主機板的電池拆出](https://zh.wikipedia.org/wiki/主機板 "wikilink")，便可重置其內容。另外，拆出電池也會重設[時間](https://zh.wikipedia.org/wiki/時間 "wikilink")。
 
 ## 擴充程式（Option ROM）
 
-[擴充卡如](https://zh.wikipedia.org/wiki/擴充卡 "wikilink")[硬碟控制器](https://zh.wikipedia.org/wiki/硬碟控制器 "wikilink")、[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")、[網卡可能包含BIOS擴充程式](https://zh.wikipedia.org/wiki/網卡 "wikilink")（即Option ROM），為BIOS提供附加的功能。在BIOS啟動作業系統前，Option ROM被BIOS執行。部分內建於主板的裝置，其Option ROM可作為主機板BIOS的一部分。Option ROM通過擴充BIOS的啟動功能。
+[擴充卡如](https://zh.wikipedia.org/wiki/擴充卡 "wikilink")[硬碟控制器](https://zh.wikipedia.org/wiki/硬碟控制器 "wikilink")、[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")、[網卡可能包含BIOS擴充程式](https://zh.wikipedia.org/wiki/網卡 "wikilink")（即Option ROM），為BIOS提供附加的功能。在BIOS啟動作業系統前，Option ROM被BIOS執行。部分內建於主板的裝置（如板載RAID），其Option ROM可能包含在主機板BIOS中。Option ROM通過擴充BIOS的啟動功能。
 
 ### 系統初始化
 
-系統在加電自檢（POST）階段，尋找Option ROMs（也叫BIOS Extension ROMs）且執行Option ROMs。Option ROM通過[BIOS中斷呼叫](../Page/BIOS中斷呼叫.md "wikilink")對硬體進行測試、初始化，並顯示診斷資訊或顯示組態畫面。
+系統在加電自檢（POST）階段，尋找並執行Option ROM。Option ROM通過[BIOS中斷呼叫](../Page/BIOS中斷呼叫.md "wikilink")對硬體進行測試、初始化，並顯示診斷資訊或顯示設定畫面。
 
 ## 供應商
 

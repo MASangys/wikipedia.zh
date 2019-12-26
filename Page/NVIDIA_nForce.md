@@ -40,7 +40,7 @@
   - [nForce 官方網頁](http://www.nvidia.com/page/mobo.html)
   - [nForce Professional 官方網頁](http://www.nvidia.com/page/nforce_pro.html)
 
-[Category:主板](https://zh.wikipedia.org/wiki/Category:主板 "wikilink") [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:nForce系列](https://zh.wikipedia.org/wiki/Category:nForce系列 "wikilink") [Category:2001年面世的產品](https://zh.wikipedia.org/wiki/Category:2001年面世的產品 "wikilink")
 
 1.  [NVIDIA有关MCP芯片组业务的完整声明](http://news.mydrivers.com/1/146/146246.htm)
 2.  [NVIDIA新一代硬件调控工具](http://news.mydrivers.com/1/96/96917.htm)

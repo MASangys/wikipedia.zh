@@ -185,7 +185,8 @@ Terminal Server、Embedded</p></td>
 15063（RS2）<br />
 16299（RS3）<br />
 17134（RS4） 17763（RS5）</p>
-<p>18362（19H1）</p></td>
+<p>18362（19H1）<br />
+18363（19H2）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Windows_Server_2016.md" title="wikilink">Windows Server 2016</a></p></td>
@@ -221,16 +222,10 @@ Terminal Server、Embedded</p></td>
 [Category:Windows_NT](https://zh.wikipedia.org/wiki/Category:Windows_NT "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  《Windows NT的历史全景》，戴夫·卡特勒（David Cutler）为《Microsoft Windows Internals》第四版写的序
-
 6.
-
 7.
 8.

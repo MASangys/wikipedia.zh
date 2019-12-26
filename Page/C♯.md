@@ -80,8 +80,8 @@ C# 1.2</p></td>
 </tr>
 <tr class="odd">
 <td><p>C# 5.0</p></td>
-<td><p><a href="https://web.archive.org/web/20121202194727/http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-334.pdf">2017年12月</a></p></td>
-<td></td>
+<td><p><a href="https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-334.pdf">2017年12月</a></p></td>
+<td><p><a href="https://standards.iso.org/ittf/PubliclyAvailableStandards/c075178_ISO_IEC_23270_2018.zip">2018年12月</a></p></td>
 <td><p><a href="https://www.microsoft.com/en-us/download/details.aspx?id=7029">2013年6月</a></p></td>
 <td><p>2012年8月</p></td>
 </tr>
@@ -119,6 +119,13 @@ C# 1.2</p></td>
 <td></td>
 <td></td>
 <td><p>2018年5月</p></td>
+</tr>
+<tr class="odd">
+<td><p>C# 8.0</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>2019年9月</p></td>
 </tr>
 </tbody>
 </table>
@@ -572,6 +579,8 @@ C\# 有5個著名的編譯器（compilers）:
   - [Visual Studio Express首頁](http://www.microsoft.com/taiwan/vstudio/express/)
 
   - [Visual C\# Logo](http://cdn.instructables.com/FHW/SGEW/HS3GUNOY/FHWSGEWHS3GUNOY.LARGE.jpg)
+
+  - [C\#教學](http://www.tw511.com/2/13/219.html)
 
 {{-}}
 

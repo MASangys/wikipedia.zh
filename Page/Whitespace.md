@@ -10,13 +10,13 @@
 
 IMP ( Instruction Modification Parameter)是whitespace語法中的一種特色，在每個指令前要指名要使用哪種形式的IMP，之後在進行屬於每個IMP裡的不同操作。
 
-| IMP                 | 意義   |
-| ------------------- | ---- |
-| \[Space\]           | 堆疊操作 |
-| \[Tab\]\[Space\]    | 數學運算 |
-| \[Tab\]\[Tab\]      | 堆積存取 |
-| \[LineFeed\]        | 流程控制 |
-| \[Tab\]\[LineFeed\] | I/O  |
+| IMP              | 意義   |
+| ---------------- | ---- |
+| \[Space\]        | 堆疊操作 |
+| \[Tab\]\[Space\] | 數學運算 |
+| \[Tab\]\[Tab\]   | 堆積存取 |
+| \[LF\]           | 流程控制 |
+| \[Tab\]\[LF\]    | I/O  |
 
 虛擬機（程式所運行的地點）中有一個堆疊與堆積. 程式設計者可以任意的將整數放入堆疊( 只有整數 ,目前沒有浮點數與實數的實作). 堆積也可以任意且永久的儲存變數或資料結構. 許多命令需要數字或是標籤（label）作為參數. 整數可以為任意長度的位元(bits), 以一系列的空白（Space）與製表符（Tab）表現, 以換行（LF）作為結束. 空白代表數位上的"0",製表符則代表"1".給定的第一個字元代表整數的正負號, 空白為正號而製表符為負號. 要注意兩號並非互補, 只是單純代表正負號. 標籤也是由一系列空白與製表符組成而以\[LF\]作為結尾. 所有標籤必須是獨一無二而不能重複的.
 
@@ -93,6 +93,6 @@ T<span style="background:#9999ff"> </span>L S<span style="background:#ff9999"> <
   - [在Slashdot上的發佈聲明](http://developers.slashdot.org/article.pl?sid=03/04/01/0332202)
   - [Matrix67上的介绍](http://www.matrix67.com/blog/archives/169)
   - [Wandsea'Blog上的介绍](https://web.archive.org/web/20090421134110/http://wandsea.com/blog/65.htm)
-  - [Adreaman'Blog上的介绍](http://adreaman.com/1212more-whitespace-program.html)
+  - [Adreaman'Blog上的介绍](https://web.archive.org/web/20151106212650/http://adreaman.com/1212more-whitespace-program.html)
 
 [Category:深奥的编程语言](https://zh.wikipedia.org/wiki/Category:深奥的编程语言 "wikilink")

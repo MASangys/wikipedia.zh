@@ -226,6 +226,8 @@ w-inds. 10th Anniversary Best Album-We sing for you-</p></td>
 | 2016/07/13 | w-inds. 15th Anniversary Live                              | 收錄2016年3月13日‧14日於東京‧兩國國技館舉行的出道15週年紀念LIVE演出                        |
 | 2016/12/28 | w-inds. 15th Anniversary LIVE TOUR 2016 “Forever Memories” | 收錄LIVE演出                                                          |
 | 2017/11/29 | w-inds. LIVE TOUR 2017 "INVISIBLE"                         | 收錄LIVE演出                                                          |
+| 2018/12/12 | w-inds. LIVE TOUR 2018 "100"                               | 收錄LIVE演出                                                          |
+| 2020/01/22 | w-inds. LIVE TOUR 2019 "Future/Past"                       | 收錄LIVE演出                                                          |
 
 ## 媒體演出
 

@@ -82,7 +82,7 @@ Visual Basic 2015（VB 14.0）于2015年7月20日发布。
 
   - [VBScript](../Page/VBScript.md "wikilink")是[ASP的預設语言](https://zh.wikipedia.org/wiki/ASP "wikilink")，还可以用在[Windows脚本编写](https://zh.wikipedia.org/wiki/Windows "wikilink")（Shell Script）和[网页编码](https://zh.wikipedia.org/wiki/网页 "wikilink")（[HTML](../Page/HTML.md "wikilink")）中。尽管它的语法类似于VB，但是它却是一种完全不同的语言。VBS不使用VB运行库运行，而是由[Windows脚本宿主](../Page/Windows_Script_Host.md "wikilink")（wscript.exe - Microsoft Windows Based Script Host）解释执行。这两种语言之中的不同点影响ASP网站的表现。
 
-当微软准备开发一种新的编程工具的时候，第一决定就是利用最抢手的VB6来进行修改，或者就是重新组建工程开发新工具。微软后来开发了VB的继任者[Visual Basic .NET](../Page/Visual_Basic_.NET.md "wikilink")，同时也是[.NET平台的一部分](https://zh.wikipedia.org/wiki/.NET "wikilink")。VB.NET编程语言是一种真正的[面向对象编程语言](https://zh.wikipedia.org/wiki/面向对象的程序设计 "wikilink")（VB4-VB6只能称为基于对象而不是面向对象，最明显的特征就是VB4-VB6都不支持类的继承），和传统Visual Basic并不完全兼容。
+当微软准备开发一种新的编程工具的时候，第一决定就是利用最抢手的VB6来进行修改，或者就是重新组建工程开发新工具。微软后来开发了VB的继任者[Visual Basic .NET](../Page/Visual_Basic_.NET.md "wikilink")，同时也是[.NET平台的一部分](https://zh.wikipedia.org/wiki/.NET "wikilink")。VB.NET编程语言是一种真正的[面向对象编程语言](https://zh.wikipedia.org/wiki/面向对象的程序设计 "wikilink")（VB4-VB6祇能称为基于对象而不是面向对象，最明显的特征就是VB4-VB6都不支持类的继承），和传统Visual Basic并不完全兼容。
 
 ## 语言特性
 

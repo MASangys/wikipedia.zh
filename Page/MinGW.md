@@ -16,9 +16,13 @@ GCC支援的語言大多在MinGW也受支援，其中涵蓋[C](https://zh.wikipe
 
 ## 与Cygwin比较
 
-Cygwin和MinGW都可用于将Unix软件移植到Windows，但它们采用不同的实作。 Cygwin旨在提供一个完整的[POSIX层](https://zh.wikipedia.org/wiki/POSIX "wikilink")，包括所有主要Unix [System_call](https://zh.wikipedia.org/wiki/系统呼叫 "wikilink")。重视兼容性优先于性能。而MinGW着重简化与性能。因此，它没有提供某些无法套用Windows API轻松实现的POSIX API，例如fork()，mmap()和ioctl()。
+Cygwin 與 MinGW 皆可用來移植 Unix 软件到 Windows，但它们采用截然不同的实作。Cygwin 旨在提供一个完整的 [POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink") 层，包括主流 Unix 的系統呼叫及函式庫實作；其重视兼容性优先于性能。相對的，MinGW 則着重简化与性能。因此，它並不提供某些難以用 Windows API 实现的 POSIX API，例如 fork()，mmap() 和 ioctl()。使用跨平台函式庫寫成的應用，若函式庫本身已移植到了 MinGW（例如 [SDL](https://zh.wikipedia.org/wiki/SDL "wikilink")、[wxWidgets](https://zh.wikipedia.org/wiki/wxWidgets "wikilink")、[Qt](../Page/Qt.md "wikilink") 或 [GTK](../Page/GTK.md "wikilink")+），則那些應用通常也滿容易用 MinGW 編譯的。
 
-用Cygwin编写的Windows程序所使用的DLL及其源代码必须随程序一起发布。 MinGW不需要兼容层，因为基于MinGW的程序是直接调用Windows API编译的。
+用 Cygwin 寫成的 Windows 程序，因為是跑在[公共版權的兼容](../Page/Copyleft.md "wikilink") [DLL](../Page/动态链接库.md "wikilink") 上，所以 DLL 必須隨著程序源代碼一起發布。MinGW 則不需要[兼容层](../Page/兼容层.md "wikilink")，因為基於 MinGW 的程序是直接调用 Windows API 编译的。
+
+MinGW 搭配 MSYS 可以產生一個小卻完整的執行環境，讓程式可以載入隨身裝置當中，卻不動到[註冊表或產生額外檔案](../Page/注册表.md "wikilink")。
+
+在 POSIX 系統下，用 MinGW-GCC [交叉編譯](../Page/交叉編譯器.md "wikilink") Windows 應用也是可行的。這意味著開發者不需要安裝 Windows 與 MSYS 才能編譯 Windows 軟件，或 Windows+Cygwin 軟件。
 
 ## 异常机制
 

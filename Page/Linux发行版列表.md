@@ -43,7 +43,7 @@ Debian GNU / Linux是一種強調使用自由軟件的发行版。它支持多�
 
 ### 基于RPM（Red Hat系）
 
-[Red Hat Linux和](../Page/Red_Hat_Linux.md "wikilink")[SUSE Linux是最早使用RPM格式软件包的发行版](https://zh.wikipedia.org/wiki/SUSE_Linux "wikilink")，如今RPM格式已广泛运用于众多的发行版。这两种发行版后来都分为商业版本和社区支持版本。Red Hat Linux的社区支持版本现称为[Fedora](../Page/Fedora.md "wikilink")，商業版本则称为[Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")。
+[RedHatFamilyTree1210.svg](https://zh.wikipedia.org/wiki/File:RedHatFamilyTree1210.svg "fig:RedHatFamilyTree1210.svg") [Red Hat Linux和](../Page/Red_Hat_Linux.md "wikilink")[SUSE Linux是最早使用RPM格式软件包的发行版](https://zh.wikipedia.org/wiki/SUSE_Linux "wikilink")，如今RPM格式已广泛运用于众多的发行版。这两种发行版后来都分为商业版本和社区支持版本。Red Hat Linux的社区支持版本现称为[Fedora](../Page/Fedora.md "wikilink")，商業版本则称为[Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")。
 
   - [aLinux](https://zh.wikipedia.org/wiki/aLinux "wikilink")：原名Peanut Linux，针对家庭用户。
   - [ALT Linux](https://zh.wikipedia.org/wiki/ALT_Linux "wikilink")：[东欧](../Page/东欧.md "wikilink")版本。
@@ -164,7 +164,7 @@ Slackware走了一條同其他的發行版本（Red Hat、Debian、Gentoo、SuSE
 
 ### 其它平台
 
-[iPodLinux](http://www.ipodlinux.org)基于修改版[uClinux内核](https://zh.wikipedia.org/wiki/uClinux "wikilink")，并编写有所谓的“podzilla”简单用户界面。目前仅支持第四代之前的[iPod](https://zh.wikipedia.org/wiki/iPod "wikilink")。
+[iPodLinux](https://web.archive.org/web/20090318135550/http://www.ipodlinux.org/)基于修改版[uClinux内核](https://zh.wikipedia.org/wiki/uClinux "wikilink")，并编写有所谓的“podzilla”简单用户界面。目前仅支持第四代之前的[iPod](https://zh.wikipedia.org/wiki/iPod "wikilink")。
 
 ## 选择合适的Linux发行版
 

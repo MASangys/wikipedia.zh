@@ -1,10 +1,8 @@
-**Blogger.com**是公司创建，針對个人用戶，且以[因特网為平台](https://zh.wikipedia.org/wiki/因特网 "wikilink")，提供[網誌](../Page/網誌.md "wikilink")书写、发布的网站，同時也是全球最大、最为知名的个人[网志服务提供商](https://zh.wikipedia.org/wiki/网志 "wikilink")。Pyra Labs和Blogger.com目前已经被[Google公司收购](https://zh.wikipedia.org/wiki/Google公司 "wikilink")，成为其旗下的一项服务内容。
+**Blogger.com**是由公司创立，是目前全球使用者数量最多的个人[网志服务提供商](https://zh.wikipedia.org/wiki/网志 "wikilink")。Pyra Labs和Blogger.com均被[Google公司收购](https://zh.wikipedia.org/wiki/Google公司 "wikilink")，成为其旗下的一项服务内容。
 
-Blogger服務使得網路日誌的发布更加容易。Blogger提供免費主機Blogspot.com存放網誌，用戶不必寫任何代碼或者安裝伺服器軟體或脚本，通过[所見即所得](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")（WYSIWYG）界面轻松地建立、发布、维护和修改自己的网志。但Blogger也允许有经验的用户自由地設計網誌界面，并在在线帮助页面提供了详细的资料和指南。
+Blogger提供免費主機Blogspot.com存放網誌，用戶不必寫任何代碼或者安裝伺服器軟體或脚本，通过[所見即所得界面轻松地建立](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")、发布、维护和修改自己的网志。
 
-Blogger与其他的博客提供的显著优势在于有强大的模板编辑功能，对于[HTML](../Page/HTML.md "wikilink")及[CSS的高手Blogger无疑是最好的选择](https://zh.wikipedia.org/wiki/CSS "wikilink")，模板完全支持[HTML](../Page/HTML.md "wikilink")编辑，你可以把Blogger打造成一个专业的站点，而Blogger就好像空间提供商，而这个服务是非常稳定的。
-
-另外，使用Blogger你可以注册一个[Google AdSense帐号](../Page/Google_AdSense.md "wikilink")，然后就可以在您的个人網誌上投放Google的广告，从而營利。
+Blogger允许有经验的用户自行設計網誌界面，其模板支持使用[HTML](../Page/HTML.md "wikilink")和[CSS进行编辑](https://zh.wikipedia.org/wiki/CSS "wikilink")
 
 ## 歷史
 

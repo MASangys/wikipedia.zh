@@ -60,26 +60,15 @@ NGC2000.0（又稱星雲和星團的全新的總表和索引目錄）是在1988�
 [Category:天文学目录](https://zh.wikipedia.org/wiki/Category:天文学目录 "wikilink") [Category:NGC天體](https://zh.wikipedia.org/wiki/Category:NGC天體 "wikilink") [Category:IC天体](https://zh.wikipedia.org/wiki/Category:IC天体 "wikilink") [Category:1970年代科学](https://zh.wikipedia.org/wiki/Category:1970年代科学 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.

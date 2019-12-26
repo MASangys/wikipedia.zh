@@ -114,7 +114,7 @@ Plone被评为最安全的内容管理系统，根据Mitres CVE's CVE's via Mitr
 
   - ["18 Things I Wish Were True About Plone" an essay by Plone founder Alexander Limi](http://limi.net/articles/18-things-i-wish-were-true-about-plone/)
 
-  - [Directory of Plone services providers, case studies, and Plone-related news items](http://plone.net/)
+  - [Directory of Plone services providers, case studies, and Plone-related news items](https://web.archive.org/web/20101221184341/http://plone.net/)
 
   - [Introducing Plone, a Screencast](http://www.archive.org/details/SeanKellyIntroducingPlone)
 
@@ -133,4 +133,4 @@ Plone被评为最安全的内容管理系统，根据Mitres CVE's CVE's via Mitr
 7.  [3](http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=drupal)
 8.  [4](http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=joomla)
 9.
-10. [Plone 3.0功能— Plone CMS:开源内容管理系统](http://plone.org/products/plone/features/3.0/)
+10.

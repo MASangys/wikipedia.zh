@@ -20,7 +20,7 @@ NTSC電視機需要色彩控制（tint control）來手動調節顏色，這亦�
 
 PAL本身是指色彩系統，經常被配以625線、每秒25格畫面、隔行掃瞄的電視廣播格式：如B、G、H、I、N。亦有PAL是配以其他解像度的格式：例如[巴西](../Page/巴西.md "wikilink")使用的M廣播格式為525線、29.97格（與NTSC格式一樣），用NTSC彩色，但巴西是使用PAL彩色調頻的。現在大部分的PAL電視機都能收看以上所有不同系統格式的PAL。很多PAL電視機更能同時收看[基頻的NTSC](https://zh.wikipedia.org/wiki/基頻 "wikilink")-M，例如電視遊戲機、錄影機等等的NTSC訊號，但是它們不一定可以接收NTSC廣播。
 
-當影像訊號是以基頻傳送時（例如電視遊戲機、錄影機等等），便再沒有以上所說各種以"字母"區分廣播格式的分別了。這情況下，PAL的意思是指：625條掃瞄線，每秒25格畫面，隔行掃瞄，PAL色彩調頻。對數碼影像如DVD或數碼廣播，制式亦沒有分別，這情況下PAL是指：625條掃瞄線，每秒25格畫面，隔行掃瞄；即是跟SECAM一模一樣。
+當影像訊號是以基頻傳送時（例如電視遊戲機、錄影機等等），便再沒有以上所說各種以「字母」區分廣播格式的分別了。這情況下，PAL的意思是指：625條掃瞄線、每秒25格畫面、隔行掃瞄、PAL色彩調頻。對數碼影像如DVD或數碼廣播，制式亦沒有分別，這情況下PAL是指：625條掃瞄線、每秒25格畫面、隔行掃瞄；即是跟SECAM一模一樣。
 
 [英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")使用的是PAL-I，[中國大陸使用的是PAL](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")-D，[新加坡](../Page/新加坡.md "wikilink")使用的是PAL B/G或D/K。
 
@@ -537,7 +537,6 @@ PAL本身是指色彩系統，經常被配以625線、每秒25格畫面、隔行
 [Category:電視技術](https://zh.wikipedia.org/wiki/Category:電視技術 "wikilink") [Category:德国发明](https://zh.wikipedia.org/wiki/Category:德国发明 "wikilink")
 
 1.
-
 2.
 3.
 4.
@@ -561,7 +560,6 @@ PAL本身是指色彩系統，經常被配以625線、每秒25格畫面、隔行
 22.
 23.
 24.
-
 25.
 26.
 27.

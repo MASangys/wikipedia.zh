@@ -134,9 +134,7 @@ MS的行動目的大多為與敵方勢力進行戰鬥，因此會攜帶許多不
 [Category:GUNDAM兵器](https://zh.wikipedia.org/wiki/Category:GUNDAM兵器 "wikilink")
 
 1.  Gundam Officials, 公式百科事典
-
 2.
 3.  EX Model
-
 4.
 5.  Gundam and World War II, 廣濟堂, ISBN 4-331-50999-0

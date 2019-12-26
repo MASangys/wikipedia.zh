@@ -113,14 +113,9 @@ Crawl-delay: 10
 [Category:全球資訊網](https://zh.wikipedia.org/wiki/Category:全球資訊網 "wikilink") [Category:搜索引擎](https://zh.wikipedia.org/wiki/Category:搜索引擎 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.  [如何拦截Googlebot（谷歌网站站长工具帮助）](http://www.google.com/support/webmasters/bin/answer.py?answer=40364&hl=zh-CN)

@@ -264,11 +264,11 @@ Public Function GetEnumerator() As IEnumerator _
 `    Public Event monitor As PlayHandler`
 ` End Class`
 
-對一個具體的-{zh-cn:实例; zh-tw:實體;}-，可以給它的事件在運行時動態追加上一個或多個事件處理函數：
+對一個具體的實例，可以給它的事件在運行時動態追加上一個或多個事件處理函數：
 
 ` AddHandlerins.monitor, AddressOf playHandle_1`
 
-AddHandle指向引發事件的對象；AddressOf把一個函數或過程名轉化為一個隱式創建的委託-{zh-cn:实例; zh-tw:實體;}-，用於確定該事件物件所要呼叫的事件處理程序。在AddressOf關鍵字可隱式創建一個引用特定過程的委託的-{zh-cn:实例; zh-tw:實體;}-。
+AddHandle指向引發事件的對象；AddressOf把一個函數或過程名轉化為一個隱式創建的委託實例，用於確定該事件物件所要呼叫的事件處理程序。在AddressOf關鍵字可隱式創建一個引用特定過程的委託的實例。
 
 程序可以抛出一個事件：
 
@@ -281,7 +281,7 @@ AddHandle指向引發事件的對象；AddressOf把一個函數或過程名轉�
 using语句，定义一个范围，在范围结束时自动释放对象所占用的资源。
 
 `-{}-`
-`Using conn As New SqlConnection'當在某個代碼段中使用了類別的實體，而希望無論因為什麼原因，只要離開了這個代碼段就自動呼叫這個類別實體的Dispose。`
+`Using conn As New SqlConnection'當在某個代碼段中使用了類別的實例，而希望無論因為什麼原因，只要離開了這個代碼段就自動呼叫這個類別實例的Dispose。`
 `   '执行代码`
 `End Using`
 

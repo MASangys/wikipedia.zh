@@ -70,8 +70,6 @@ JR西日本依罹難者家屬及受傷者的意見，於事故現場闢建名為
   - [2008年膠濟鐵路列車相撞事故](https://zh.wikipedia.org/wiki/2008年膠濟鐵路列車相撞事故 "wikilink")：2008年4月28日發生在[中國](../Page/中國.md "wikilink")[山東省](https://zh.wikipedia.org/wiki/山東省 "wikilink")[淄博市](../Page/淄博市.md "wikilink")[膠濟鐵路](../Page/膠濟鐵路.md "wikilink")王村站附近，因鐵路局間調度命令傳遞混亂造成[T195次司機員使用的IC卡資料未更新](https://zh.wikipedia.org/wiki/T195/196次列車 "wikilink")，王村站亦未通知該列車相關限速，加上司機員未確實瞭望，最後在彎道時超速出軌，車廂並侵入對向路線和5034次列車發生衝突，造成72人死亡，416人受傷。
   - [2018年宜蘭普悠瑪列車出軌事故](https://zh.wikipedia.org/wiki/2018年宜蘭普悠瑪列車出軌事故 "wikilink")：2018年10月21日下午4點50分，一列從[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樹林車站開往](https://zh.wikipedia.org/wiki/樹林車站 "wikilink")[臺東車站](../Page/臺東車站.md "wikilink")的6432次[普悠瑪](https://zh.wikipedia.org/wiki/普悠瑪 "wikilink")[自強號](https://zh.wikipedia.org/wiki/自強號 "wikilink")，於[宜蘭縣](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[蘇澳鎮](../Page/蘇澳鎮_\(台灣\).md "wikilink")[新馬車站](../Page/新馬車站.md "wikilink")發生列車出軌意外，造成18人死亡，215人（包含司機員）受傷。是普悠瑪號列車開行以來最重大之事故。
 
-### 信號故障
-
 ## 相關條目
 
   - [JR羽越本線出軌事故](../Page/JR羽越本線出軌事故.md "wikilink")：發生於同一年的重大鐵路事故，造成5死33傷
@@ -96,9 +94,7 @@ JR西日本依罹難者家屬及受傷者的意見，於事故現場闢建名為
 [Category:脱轨](https://zh.wikipedia.org/wiki/Category:脱轨 "wikilink") [Category:西日本旅客鐵道](https://zh.wikipedia.org/wiki/Category:西日本旅客鐵道 "wikilink") [Category:日本鐵路事故](https://zh.wikipedia.org/wiki/Category:日本鐵路事故 "wikilink") [Category:2005年铁路事故](https://zh.wikipedia.org/wiki/Category:2005年铁路事故 "wikilink") [Category:2005年日本](https://zh.wikipedia.org/wiki/Category:2005年日本 "wikilink") [Category:尼崎市](https://zh.wikipedia.org/wiki/Category:尼崎市 "wikilink")
 
 1.  [航空與鐵道事故調查委員會官方報告](http://www.mlit.go.jp/jtsb/eng-rail_report/RA2007-3-1en.pdf)（英文）
-
 2.
-
 3.
 4.
 5.

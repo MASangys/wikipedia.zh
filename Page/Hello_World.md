@@ -70,32 +70,18 @@ Hello World已經成為流行文化的一部分，例如以Hello World命名首�
 [Category:计算机编程](https://zh.wikipedia.org/wiki/Category:计算机编程 "wikilink") [Category:带有C代码示例的条目](https://zh.wikipedia.org/wiki/Category:带有C代码示例的条目 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.  [BCPL](http://www.catb.org/jargon/html/B/BCPL.html), *Jargon File*
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.

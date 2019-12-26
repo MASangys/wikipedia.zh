@@ -21,3 +21,4 @@
   - [光之美少女](../Page/光之美少女.md "wikilink")（）
   - [神奇寶貝中心](https://zh.wikipedia.org/wiki/精靈寶可夢遊戲機制#主系列遊戲結構 "wikilink")（）
   - [將軍澳中心](../Page/將軍澳中心.md "wikilink")（）
+  - [胃壁細胞](../Page/胃壁細胞.md "wikilink")

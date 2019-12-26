@@ -250,5 +250,6 @@ Eclipse基金會及其社區項目和貢獻者每年都會按照協調的時間�
   - [有关Eclipse 2.1 API的网站](http://help.eclipse.org/help21/index.jsp?topic=/org.eclipse.platform.doc.isv/reference/api/)
   - [有关Eclipse 3.0 API的网站](http://help.eclipse.org/help30/index.jsp?topic=/org.eclipse.platform.doc.isv/reference/api/)
   - [Acceleo, Eclipse的代码生成程序](https://www.eclipse.org/acceleo/)
+  - [Eclipse教學](http://www.tw511.com/12/118/3522.html)
 
 [Category:集成开发环境](https://zh.wikipedia.org/wiki/Category:集成开发环境 "wikilink") [Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink") [Category:自由整合開發環境](https://zh.wikipedia.org/wiki/Category:自由整合開發環境 "wikilink") [Category:Linux集成开发环境](https://zh.wikipedia.org/wiki/Category:Linux集成开发环境 "wikilink")

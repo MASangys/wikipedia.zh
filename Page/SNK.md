@@ -1,4 +1,4 @@
-**SNK**（）是一家[日本](../Page/日本.md "wikilink")的[遊戲公司](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，於1978年成立。SNK此簡稱缘起自[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")****的[羅馬拼音](https://zh.wikipedia.org/wiki/羅馬拼音 "wikilink")：**Shin Nihon Kikaku**的三個字首 ，英譯為**New Japan Project**。SNK製作發行過很多有名的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，在2001年10月30日宣布破產，將所有[知識產權轉入](https://zh.wikipedia.org/wiki/知識產權 "wikilink")**PLAYMORE**公司之下，於2001年8月1日成立SNK Playmore作為公司名稱。2015年8月6日被[中國](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[蕪湖順榮三七互娛公司收買倂購](https://zh.wikipedia.org/wiki/蕪湖 "wikilink")。2016年4月25日宣佈公司重新回歸為SNK作為公司名稱並會用這個名義去製作發行遊戲。2016年12月1日，SNK Playmore官方宣布将其公司重新名为SNK。\[1\]\[2\]
+**SNK**（）是一家[日本](../Page/日本.md "wikilink")的[電子遊戲公司](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，於1978年成立。SNK此簡稱缘起自[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")****的[羅馬拼音](https://zh.wikipedia.org/wiki/羅馬拼音 "wikilink")：**Shin Nihon Kikaku**的三個字首 ，英譯為**New Japan Project**。SNK製作發行過很多有名的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，在2001年10月30日宣布破產，將所有[知識產權轉入](https://zh.wikipedia.org/wiki/知識產權 "wikilink")**PLAYMORE**公司之下，於2001年8月1日成立SNK Playmore作為公司名稱。2015年8月6日被[中國](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[蕪湖順榮三七互娛公司收買倂購](https://zh.wikipedia.org/wiki/蕪湖 "wikilink")。2016年4月25日宣佈公司重新回歸為SNK作為公司名稱並會用這個名義去製作發行遊戲。2016年12月1日，SNK Playmore官方宣布将其公司重新名为SNK。\[1\]\[2\]
 
 [SNK_Playmore_logo_and_wordmark.png](https://zh.wikipedia.org/wiki/File:SNK_Playmore_logo_and_wordmark.png "fig:SNK_Playmore_logo_and_wordmark.png")
 
@@ -42,7 +42,9 @@
 
   - NEOGEO CD體積小型化並改善CD-ROM讀入速度的版本，不過遊戲內的過場讀取速度仍然未改善。由於世面上販售的遊戲片也幾乎全都是MVS上的移植作品而沒有新作，銷售量並不如同期發售的[SEGA土星和](https://zh.wikipedia.org/wiki/SEGA土星 "wikilink")[PlayStation](../Page/PlayStation_\(遊戲機\).md "wikilink")。在1999年的《[拳皇'99](https://zh.wikipedia.org/wiki/拳皇'99 "wikilink")》之後就再也沒有發售過本主機專用的遊戲片。
 
-*' NEOGEO mini（2018年7月24日）*'
+*' NEOGEO mini（2018年7月24日）*'  **NEOGEO Arcade Stick Pro**
+
+  - 是[街機](https://zh.wikipedia.org/wiki/街機 "wikilink")[搖桿](../Page/控制杆.md "wikilink")，同時是遊戲主機的產品。SNK 當時表示會預載20 款格鬥遊戲，可切換「搖桿模式」與「主機模式」 可作為搖桿連接「[NEOGEO mini](../Page/NEOGEO_mini.md "wikilink")」或PC 。
 
 ### 攜帶型遊戲機
 
@@ -55,7 +57,7 @@
 **1986年**
 
   - 《[怒](https://zh.wikipedia.org/wiki/怒_\(遊戲\) "wikilink")》
-  - 《》
+  - 《雅典娜》
   - 《怒号層圏》
 
 **1987年**

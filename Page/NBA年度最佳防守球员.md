@@ -175,7 +175,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2003-04_NBA赛季" title="wikilink">2003-04</a></p></td>
-<td><p>慈善·世界和平[42]{{#tag:ref|罗恩·阿泰斯特于2011年9月16日更名<a href="../Page/慈善·世界和平.md" title="wikilink">慈善·世界和平</a>[43]。|group="注"}}</p></td>
+<td><p><a href="../Page/慈善·世界和平.md" title="wikilink">慈善·世界和平</a>[42]{{#tag:ref|罗恩·阿泰斯特于2011年9月16日更名<a href="../Page/慈善·世界和平.md" title="wikilink">慈善·世界和平</a>[43]。|group="注"}}</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/篮球位置" title="wikilink">前锋</a></p></td>
 <td></td>
 <td><p><a href="../Page/印第安纳步行者.md" title="wikilink">印第安纳步行者</a></p></td>
@@ -324,41 +324,25 @@
 [Category:NBA獎項](https://zh.wikipedia.org/wiki/Category:NBA獎項 "wikilink") [Category:NBA列表](https://zh.wikipedia.org/wiki/Category:NBA列表 "wikilink") [Category:1983年建立的獎項](https://zh.wikipedia.org/wiki/Category:1983年建立的獎項 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
-
 14.
 15.
 16.
-
 17.
-
 18.
 19.
-
 20.
-
 21.
 22.
 23.
@@ -368,12 +352,10 @@
 27.
 28.
 29.
-
 30.
 31.
 32.
 33.
-
 34.
 35.
 36.
@@ -384,12 +366,10 @@
 41.
 42.
 43.
-
 44.
 45.
 46.
 47.
 48.
 49.
-
 50.

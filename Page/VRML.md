@@ -41,7 +41,7 @@ VRML格式除了一般3D模型呈現外，對於3D掃描所產生的點雲資料
   - [从VRML到X3D](http://17de.com/x3d/vrml2x3d.html)
   - [VRML经典场景](https://web.archive.org/web/20060626150259/http://dmoz.org/Computers/Data_Formats/Graphics/3D/VRML/Showcases/)（英文）
   - [Web3D联盟](http://www.web3d.org)
-  - [Flux Player和Flux Studio](http://mediamachines.wordpress.com/flux-player-and-flux-studio/)
+  - [Flux Player和Flux Studio](https://web.archive.org/web/20111225214411/http://mediamachines.wordpress.com/flux-player-and-flux-studio/)
 
 [Category:计算机语言](https://zh.wikipedia.org/wiki/Category:计算机语言 "wikilink") [Category:建模语言](https://zh.wikipedia.org/wiki/Category:建模语言 "wikilink") [Category:ISO標準](https://zh.wikipedia.org/wiki/Category:ISO標準 "wikilink") [Category:IEC標準](https://zh.wikipedia.org/wiki/Category:IEC標準 "wikilink") [Category:置标语言](https://zh.wikipedia.org/wiki/Category:置标语言 "wikilink") [Category:虚拟现实](https://zh.wikipedia.org/wiki/Category:虚拟现实 "wikilink") [Category:图形文件格式](https://zh.wikipedia.org/wiki/Category:图形文件格式 "wikilink") [Category:三维计算机图形学](https://zh.wikipedia.org/wiki/Category:三维计算机图形学 "wikilink")
 

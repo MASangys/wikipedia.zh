@@ -105,7 +105,7 @@ merge_max({_, _, Right}, Tree2) ->
   - [The AVL TREE Data Type](https://web.archive.org/web/20051120135525/http://www-old.physik.fu-berlin.de/edv_docu/documentation/xemacs-21.1.4/elib_toc.html#SEC21)
   - [CNAVLTree Class Reference](http://www.comnets.rwth-aachen.de/doc/cncl/classCNAVLTree.html)
   - [GNU libavl](http://www.stanford.edu/~blp/avl/)
-  - [AVL-trees - balanced binary trees](http://home.earthlink.net/~akonshin/delphi_components.htm) by Alex Konshin
+  - [AVL-trees - balanced binary trees](https://web.archive.org/web/20051101013055/http://home.earthlink.net/~akonshin/delphi_components.htm) by Alex Konshin
   - [Simulation of AVL Trees](https://web.archive.org/web/20051101013400/http://www.informatik.uni-mannheim.de/~cjk/publications/ed-media98/node11.html)
   - [AVL tree applet](http://www.csi.uottawa.ca/~stan/csi2514/applets/avl/BT.html)
   - [Simulation of AVL Trees (DYNAMIC)](https://web.archive.org/web/20050801080205/http://webpages.ull.es/users/jriera/Docencia/AVL/AVL%20tree%20applet.htm)

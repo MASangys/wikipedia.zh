@@ -99,7 +99,7 @@ Lindenmayer研究海藻生长模式时提出的最早的L-系统：
   - [Java applet showing random L-Systems while driving down Lindenmayer Boulevard](http://www.cs.ucf.edu/~acampbel/applets/LSystems/LSystems.php)
   - [Magic Garden - Artificial Plants Laboratory](http://sourceforge.net/projects/magicgarden/) - free plants generator using L-Systems
   - [Inkscape](http://www.inkscape.org/) a free software vector graphics program which implements, among its plugins, an L-system generator
-  - [Garabatos](http://garabatos.wikidot.com)，an interactive evolutionary image generator based in L-Systems
+  - [Garabatos](https://web.archive.org/web/20180322175452/http://garabatos.wikidot.com/)，an interactive evolutionary image generator based in L-Systems
   - [Online experiments with L-Systems using JSXGraph (JavaScript)](http://jsxgraph.uni-bayreuth.de/wiki/index.php/L-systems)
 
 ## 参见

@@ -61,46 +61,25 @@ Adobe也被批評會推送使用者不想要的第三方瀏覽器插件以及病
 [Category:Adobe_Systems](https://zh.wikipedia.org/wiki/Category:Adobe_Systems "wikilink") [Category:納斯達克上市公司](https://zh.wikipedia.org/wiki/Category:納斯達克上市公司 "wikilink") [Category:倫敦證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:倫敦證券交易所上市公司 "wikilink") [Category:跨國軟件公司](https://zh.wikipedia.org/wiki/Category:跨國軟件公司 "wikilink") [Category:聖荷西公司](https://zh.wikipedia.org/wiki/Category:聖荷西公司 "wikilink")
 
 1.  \[
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.

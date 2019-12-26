@@ -35,14 +35,9 @@ Gopher最初的设计目标与[万维网](../Page/万维网.md "wikilink")类似
 [Category:網際網路標準](https://zh.wikipedia.org/wiki/Category:網際網路標準 "wikilink") [Category:網際網路的歷史](https://zh.wikipedia.org/wiki/Category:網際網路的歷史 "wikilink") [Category:1991年面世](https://zh.wikipedia.org/wiki/Category:1991年面世 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.

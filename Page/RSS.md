@@ -19,9 +19,9 @@ RSS可以是以下三種解釋中任一種的縮寫，但其實這三者都是�
 
 ## 歷史
 
-RSS格式采纳之前有过几次web联合化的尝试，但都没有达到广泛的传播。关于重构web站点信息的基本思想可以追溯到早至1995年，当时以及他在[苹果公司高科技小组的同事开发出](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[元内容框架](https://zh.wikipedia.org/wiki/元内容框架 "wikilink")。对这些早期发展的更详细讨论，请参见[网页联合供稿技术的历史](https://zh.wikipedia.org/wiki/网页联合供稿技术的历史 "wikilink")。
+RSS格式采纳之前有过几次web联合化的尝试，但都没有达到广泛的传播。关于重构web站点信息的基本思想可以追溯到早至1995年，当时{以及他在[苹果公司高科技小组的同事开发出](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[元内容框架](https://zh.wikipedia.org/wiki/元内容框架 "wikilink")。对这些早期发展的更详细讨论，请参见。
 
-RSS的第一個版本為RDF Site Summary，在1999年三月由美國[網景](../Page/網景.md "wikilink")公司的Guha為了用在My.Netscape.Com入口網站而開發。這個版本開始以RSS0.9為名。在1999年七月，美國網景公司的Dan Libby發明了新版本RSS 0.91，此版本簡化了形式，藉由 撤去RDF元素及合併Dave Winer的scriptingNews企業聯合組織化格式。Libby並且將此重新命名為RSS，全名"Rich Site Summary"，並且在"futures document"論述了未來的發展形式。
+RSS的第一個版本為RDF Site Summary，在1999年三月由美國[網景](../Page/網景.md "wikilink")公司的Guha為了用在My.Netscape.Com入口網站而開發。這個版本開始以RSS0.9為名。在1999年七月，美國網景公司的Dan Libby發明了新版本RSS 0.91，此版本簡化了形式，藉由 撤去RDF元素及合併Dave Winer的scriptingNews企業聯合組織化格式。Libby並且將此重新命名為RSS，全名「Rich Site Summary」，並且在「Futures document」論述了未來的發展形式。
 
 這會是[Netscape在RSS八年的研究中最後一次的參與](https://zh.wikipedia.org/wiki/Netscape "wikilink")，當RSS被一些想要他們的feeds被用在My.Netscape.Com和其他早期RSS入口的網路出版者環繞，美國「網景」公司下降RSS並支持MY. Netscape.Com在2001年四月期間新主人AOL的重建公司，還取消了支撐格式化的使用說明文件和工具。
 

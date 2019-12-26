@@ -35,7 +35,7 @@ RFC文件是由Internet Society審核後給定編號並發行。雖然經過審�
   - [UDP](../Page/用户数据报协议.md "wikilink")：768
   - [ICMP](https://zh.wikipedia.org/wiki/ICMP "wikilink")：792
   - [FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")：959
-  - [SOCK5](https://zh.wikipedia.org/wiki/SOCKS#SOCKS5 "wikilink")：1928
+  - [SOCKS5](https://zh.wikipedia.org/wiki/SOCKS#SOCKS5 "wikilink")：1928
   - [CHAP](https://zh.wikipedia.org/wiki/CHAP "wikilink")：1994
   - [SMTP](https://zh.wikipedia.org/wiki/SMTP "wikilink")：2821 5321
   - [POP3](https://zh.wikipedia.org/wiki/POP3 "wikilink")：1957

@@ -92,7 +92,7 @@ GIMP本身是以源代码的形式发布的。在源代码之后，一些跟GIMP
 
 GIMP的[軟件版本號](../Page/軟件版本號.md "wikilink")表现为“主-次-微” 格式，每个数字都带有各自的意义：第一个数字仅随着主要的开发活动（当前为2）而递增；第二个数字随着版本的新功能递增，单号表达进行中的开发版本乃至数字分配到稳定版；第三个数字在每个发行版前后递增 ，含有随后应用的错误修正并作为稳定版发布。
 
-每年GIMP都在[Google Summer of Code](https://zh.wikipedia.org/wiki/Google_Summer_of_Code "wikilink")（GSoC）申请席位。\[26\]\[27\]到目前为止GIMP参加了除2007年外的所有年会。\[28\]从2006年到2009年他们有9个GSoC项目取得成功，\[29\]即使不是所有成功的项目加入到GIMP。修复画笔和透视克隆工具以及[Ruby](../Page/Ruby.md "wikilink")绑定作为2006年GSoC的一部分创建并用于GIMP 2.8.0，即使当时有其他三个项目且没有在GIMP稳定版中使用；这些项目存在于矢量图层和[JPEG 2000插件](../Page/JPEG_2000.md "wikilink")。一部分GSoC项目在2008年完成，但没加入到GIMP的稳定版。
+每年GIMP都在[Google Summer of Code](https://zh.wikipedia.org/wiki/Google_Summer_of_Code "wikilink")（GSoC）申请席位。\[26\]\[27\]到目前为止GIMP参加了除2007年外的所有年会。\[28\]从2006年到2009年他们有9个GSoC项目取得成功，\[29\]即便不是所有成功的项目加入到GIMP。修复画笔和透视克隆工具以及[Ruby](../Page/Ruby.md "wikilink")绑定作为2006年GSoC的一部分创建并用于GIMP 2.8.0，即便当时有其他三个项目且没有在GIMP稳定版中使用；这些项目存在于矢量图层和[JPEG 2000插件](../Page/JPEG_2000.md "wikilink")。一部分GSoC项目在2008年完成，但没加入到GIMP的稳定版。
 
 ### 用户界面
 
@@ -202,92 +202,50 @@ GIMP是[GNOME](../Page/GNOME.md "wikilink")的子計劃之一，故其相關的�
 [Category:位图编辑软件](https://zh.wikipedia.org/wiki/Category:位图编辑软件 "wikilink") [Category:自由圖像軟件](https://zh.wikipedia.org/wiki/Category:自由圖像軟件 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink") [Category:GNU计划软件](https://zh.wikipedia.org/wiki/Category:GNU计划软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
 11.
-
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
 26.
-
 27.
-
 28.
-
 29.
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38. <https://play.google.com/store/apps/details?id=com.cuntubuntu>
-
 39.
-
 40. [Internet Archive上的](https://zh.wikipedia.org/wiki/Internet_Archive "wikilink")[Ingimp网站](https://web.archive.org/web/20120320120006/http://www.ingimp.org/)
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47. [法國國家圖書館](../Page/法國國家圖書館.md "wikilink")上的[Wilber](https://web.archive.org/web/20070929112000/http://blinkenlights.de/images/arcade/live/live-arcade-wilber-quai-large.jpg)
-
 48. [GIMP — linking to us](http://www.gimp.org/about/linking.html). For Wilber kit see `/docs/Wilber_Construction_Kit.xcf.gz`

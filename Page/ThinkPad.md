@@ -224,7 +224,7 @@ Overview of UltraBay types and available devices
 
   - ThinkPad是開源碼作業系統[OpenBSD](../Page/OpenBSD.md "wikilink")開發人員當中最受歡迎的攜帶型電腦，而ThinkPad X40更是最受系統支持的攜帶型電腦型號之一。
 
-## 图片
+## 图集
 
 <File:IBM> Thinkpad R51.jpg|IBM ThinkPad R51 <File:Touchpad> - Trackpoint.jpg|[触摸板](https://zh.wikipedia.org/wiki/触摸板 "wikilink")。（低端R61e取消了触摸板。） <File:Thinkpad> logo.jpg|IBM时代的ThinkPad标志 <File:Lenovo> ThinkPad Logo.jpg|[联想集团收购ThinkPad后的新标志](https://zh.wikipedia.org/wiki/联想集团 "wikilink")
 

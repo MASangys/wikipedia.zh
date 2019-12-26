@@ -154,7 +154,7 @@ XPath 1.0定义四种数据型别：节点型（本身无序的节点组）、�
   -
     string(), number(), boolean()
 
-某些常用的函式详列如下。完整明细请参照[W3C建议书](http://www.w3.org/TR/xpath)。
+某些常用的函式详列如下。完整明细请参照[W3C建议书](https://web.archive.org/web/20121209085946/http://www.w3.org/TR/xpath/)。
 
 ### 节点组函式
 
@@ -208,7 +208,7 @@ XPath 3.0 於 2014年 4月 8日成為 W3C 推薦標準，而 XPath 3.1 則於 20
 
 ## 外部链接
 
-  - [W3C XPath1.0规范](http://www.w3.org/TR/xpath)
+  - [W3C XPath1.0规范](https://web.archive.org/web/20121209085946/http://www.w3.org/TR/xpath/)
   - [W3C XPath 2.0候选推荐](http://www.w3.org/TR/xpath20/)
 
 [Category:W3C标准](https://zh.wikipedia.org/wiki/Category:W3C标准 "wikilink") [Category:XML](https://zh.wikipedia.org/wiki/Category:XML "wikilink")

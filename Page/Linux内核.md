@@ -122,7 +122,7 @@ Linux内核含有不同的调度器类\[46\]。内核缺省使用的调度机制
 
 #### 可移植性
 
-[Ipod_linux_booting_kernel.jpg](https://zh.wikipedia.org/wiki/File:Ipod_linux_booting_kernel.jpg "fig:Ipod_linux_booting_kernel.jpg")啟動Linux\]\] 尽管林納斯·托瓦茲的初衷不是使Linux成为一个可移植的操作系统，今天的Linux却是全球被最广泛移植的操作系统内核。從行動電話到超級電腦，甚至於有人成功的將Linux内核在[索尼](../Page/索尼.md "wikilink")出品的遊戲機[PS2及](../Page/PlayStation_2.md "wikilink")[PS3和](https://zh.wikipedia.org/wiki/PS3 "wikilink")[微軟出品的遊戲機](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Xbox](../Page/Xbox.md "wikilink")上使用。Linux也是IBM[超级计算机](../Page/超级计算机.md "wikilink")[Blue Gene的操作系统](https://zh.wikipedia.org/wiki/Blue_Gene "wikilink")。直至2011年11月，全球前五百大超級電腦（[TOP500](../Page/TOP500.md "wikilink")）有高達91.4%的比例採用Linux為它們的作業系統\[55\]。一些为手机开发的操作系统，使用Linux内核的修改后的版本，其中包括谷歌[Android](../Page/Android.md "wikilink")、[Firefox OS](../Page/Firefox_OS.md "wikilink")、HP [WebOS和诺基亚](https://zh.wikipedia.org/wiki/WebOS "wikilink")[Maemo](../Page/Maemo.md "wikilink")。\[56\]\[57\]\[58\]
+[Ds_lite_with_slot-2_device_running_dslinux.jpg](https://zh.wikipedia.org/wiki/File:Ds_lite_with_slot-2_device_running_dslinux.jpg "fig:Ds_lite_with_slot-2_device_running_dslinux.jpg")上运行[DSLinux](../Page/DSLinux.md "wikilink")\]\] 尽管林納斯·托瓦茲的初衷不是使Linux成为一个可移植的操作系统，今天的Linux却是全球被最广泛移植的操作系统内核。從行動電話到超級電腦，甚至於有人成功的將Linux内核在[索尼](../Page/索尼.md "wikilink")出品的遊戲機[PS2及](../Page/PlayStation_2.md "wikilink")[PS3和](https://zh.wikipedia.org/wiki/PS3 "wikilink")[微軟出品的遊戲機](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Xbox](../Page/Xbox.md "wikilink")上使用。Linux也是IBM[超级计算机](../Page/超级计算机.md "wikilink")[Blue Gene的操作系统](https://zh.wikipedia.org/wiki/Blue_Gene "wikilink")。直至2011年11月，全球前五百大超級電腦（[TOP500](../Page/TOP500.md "wikilink")）有高達91.4%的比例採用Linux為它們的作業系統\[55\]。一些为手机开发的操作系统，使用Linux内核的修改后的版本，其中包括谷歌[Android](../Page/Android.md "wikilink")、[Firefox OS](../Page/Firefox_OS.md "wikilink")、HP [WebOS和诺基亚](https://zh.wikipedia.org/wiki/WebOS "wikilink")[Maemo](../Page/Maemo.md "wikilink")。\[56\]\[57\]\[58\]
 
 #### 内核错误和oops
 
@@ -323,14 +323,14 @@ Linus Torvalds拥有对Linux内核能够接受哪些更改和谁可以成为维�
 <td></td>
 <td></td>
 <td><p>2.6.32.71[83]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Willy_Tarreau" title="wikilink">Willy Tarreau</a>（前維護者<a href="../Page/葛雷格·克羅哈曼.md" title="wikilink">葛雷格·克羅哈曼</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Willy_Tarreau" title="wikilink">Willy Tarreau</a>[84]（前維護者<a href="../Page/葛雷格·克羅哈曼.md" title="wikilink">葛雷格·克羅哈曼</a>）</p></td>
 <td><p><strong>EOL</strong>，长期支持版本，由2009年12月3日至2016年3月</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>2.6.34.15[84]</p></td>
+<td><p>2.6.34.15[85]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Paul_Gortmaker" title="wikilink">Paul Gortmaker</a>（前維護者<a href="https://zh.wikipedia.org/wiki/Andi_Kleen" title="wikilink">Andi Kleen</a>）</p></td>
 <td><p><strong>EOL</strong>，长期支持版本，從2010年6月至2014年2月</p></td>
 <td></td>
@@ -366,7 +366,7 @@ Linus Torvalds拥有对Linux内核能够接受哪些更改和谁可以成为维�
 <td><p>3.0.101</p></td>
 <td></td>
 <td><p><strong>EOL</strong>，长期支持版本，從2011年7月至2013年10月</p></td>
-<td><p>托瓦兹宣布，大的变化是，“没有，绝对没有。”[85]2011年5月30日，托瓦兹宣布，“让我们确保我们真正的下一个版本不只是一个全新的闪亮的数字，而是有一个好的内核。”3.0的发布日接近Linux的20周年纪念日。</p></td>
+<td><p>托瓦兹宣布，大的变化是，“没有，绝对没有。”[86]2011年5月30日，托瓦兹宣布，“让我们确保我们真正的下一个版本不只是一个全新的闪亮的数字，而是有一个好的内核。”3.0的发布日接近Linux的20周年纪念日。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -452,7 +452,7 @@ Linus Torvalds拥有对Linux内核能够接受哪些更改和谁可以成为维�
 </tr>
 <tr class="even">
 <td></td>
-<td><p>[86]</p></td>
+<td><p>[87]</p></td>
 <td><p>3.9.11</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
 <td><p><strong>EOL</strong></p></td>
@@ -687,8 +687,8 @@ Linus Torvalds拥有对Linux内核能够接受哪些更改和谁可以成为维�
 <td></td>
 <td></td>
 <td><p>4.1.52</p></td>
-<td><p>Sasha Levin[87]<br />
-[88]</p></td>
+<td><p>Sasha Levin[88]<br />
+[89]</p></td>
 <td><p>EOL</p></td>
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/ext4" title="wikilink">ext4支援檔案系統層級的加密</a>。</li>
@@ -787,11 +787,11 @@ Linus Torvalds拥有对Linux内核能够接受哪些更改和谁可以成为维�
 <td><p>EOL</p></td>
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/tmpfs" title="wikilink">tmpfs文件系统支援透明大暫存頁</a>。</li>
-<li>新的Formatted Kernel Documentation。[89]</li>
-<li>解決延遲問題的Timer Wheel。[90]</li>
-<li>改進高性能網路路由。[91]</li>
-<li>建立核心時允許使用GCC plugins。[92]</li>
-<li>加強使用者複製。[93]</li>
+<li>新的Formatted Kernel Documentation。[90]</li>
+<li>解決延遲問題的Timer Wheel。[91]</li>
+<li>改進高性能網路路由。[92]</li>
+<li>建立核心時允許使用GCC plugins。[93]</li>
+<li>加強使用者複製。[94]</li>
 <li>AMD GPU驅動支援超頻，改進PowerPlay。</li>
 <li>初步支援NVIDIA <a href="../Page/NVIDIA_GeForce_10系列.md" title="wikilink">Pascal顯卡</a>。</li>
 <li>支援<a href="https://zh.wikipedia.org/wiki/Raspberry_Pi" title="wikilink">Raspberry Pi</a> 3的BCM2837 SoC。</li>
@@ -804,7 +804,7 @@ Linus Torvalds拥有对Linux内核能够接受哪些更改和谁可以成为维�
 <td><p>2016年12月11日</p></td>
 <td><p>4.9.148</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
-<td><p>长期支持版本，從2016年12月至2019年1月</p></td>
+<td><p>长期支持版本，從2016年12月至2023年1月</p></td>
 <td><ul>
 <li>2/3 程式碼翻新。</li>
 <li>新增 Greybus 硬體協定。</li>
@@ -916,7 +916,7 @@ Linus Torvalds拥有对Linux内核能够接受哪些更改和谁可以成为维�
 <td><p>葛雷格·克羅哈曼</p></td>
 <td><p>长期支持版本，從2017年11月至2020年1月</p></td>
 <td><ul>
-<li>2017/09/20 確認為長期支援版本。[94]</li>
+<li>2017/09/20 確認為長期支援版本。[95]</li>
 <li>支援最大 4,000TB 和 1,280,000TB 記憶體。</li>
 <li>支援 AMD 加密的協處理器（CCP）。</li>
 <li>高通 MSM8916 SoC 耳機插孔檢測，Allwinner H3 和 Cirrus Logic CS43130 的支持，Intel Kabylake 系統上對 RT5663、Realtek RT274、TI TLV320AIC32x6 和 Wolfson WM8523 的支持。</li>
@@ -948,7 +948,7 @@ Linus Torvalds拥有对Linux内核能够接受哪些更改和谁可以成为维�
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>[95]</p></td>
+<td><p>[96]</p></td>
 <td><p>4.16.18</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
 <td><p>EOL</p></td>
@@ -962,7 +962,7 @@ Linus Torvalds拥有对Linux内核能够接受哪些更改和谁可以成为维�
 </tr>
 <tr class="even">
 <td></td>
-<td><p>2018年4月1日[96]</p></td>
+<td><p>2018年4月1日[97]</p></td>
 <td><p>4.17.19</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
 <td><p>EOL</p></td>
@@ -983,7 +983,7 @@ Linus Torvalds拥有对Linux内核能够接受哪些更改和谁可以成为维�
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>2018年6月3日[97]</p></td>
+<td><p>2018年6月3日[98]</p></td>
 <td><p>4.18.20</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
 <td><p>EOL</p></td>
@@ -999,7 +999,7 @@ Linus Torvalds拥有对Linux内核能够接受哪些更改和谁可以成为维�
 </tr>
 <tr class="even">
 <td></td>
-<td><p>2018年10月22日[98]</p></td>
+<td><p>2018年10月22日[99]</p></td>
 <td><p>4.19.13</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
 <td><p>长期支持版本，从2018年10月至2020年12月</p></td>
@@ -1017,10 +1017,10 @@ Linus Torvalds拥有对Linux内核能够接受哪些更改和谁可以成为维�
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>| [99]</p></td>
+<td><p>| [100]</p></td>
 <td><p>4.20.2</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
-<td><p>EOL版本，从2018年12月至2019年3月</p></td>
+<td><p>EOL</p></td>
 <td><ul>
 <li>BPF 网络流解析器</li>
 <li>taprio 流量调度器</li>
@@ -1051,37 +1051,46 @@ Linus Torvalds拥有对Linux内核能够接受哪些更改和谁可以成为维�
 <th><p>当前版本</p></th>
 <th><p>维护者</p></th>
 <th><p>支持状态</p></th>
-<th><p>备注</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p>| [100]</p></td>
-<td><p>5.0.17<ref name="latest 5.0">{{cite mailing list</p></td>
-<td><p>title = Linux 5.0.17</p></td>
-<td><p>url = <a href="http://lkml.iu.edu/hypermail/linux/kernel/1905.2/01257.html">http://lkml.iu.edu/hypermail/linux/kernel/1905.2/01257.html</a></p></td>
-<td><p>date = 17 May 2019</p></td>
+<td><p>| [101]</p></td>
+<td><p>5.0.21[102]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Greg_Kroah-Hartman" title="wikilink">Greg Kroah-Hartman</a></p></td>
+<td><p>EOL [103]</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>| [101]</p></td>
-<td><p>5.1.3[102]</p></td>
+<td><p>| [104]</p></td>
+<td><p>5.1.21[105]</p></td>
 <td><p>Greg Kroah-Hartman</p></td>
-<td><p>最新稳定发行</p></td>
-<td></td>
+<td><p>EOL [106]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>| [103]</p></td>
-<td><p>5.2-rc1[104]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Linus_Torvalds" title="wikilink">Linus Torvalds</a></p></td>
-<td><p>最新不稳定发行</p></td>
+<td><p>| [107]</p></td>
+<td><p>5.2.18<ref name="latest 5.2">{{cite mailing list</p></td>
+<td><p>title = Linux 5.2.18</p></td>
+<td><p>url = <a href="https://lore.kernel.org/lkml/20191001072452.GA2912323@kroah.com/">https://lore.kernel.org/lkml/20191001072452.GA2912323@kroah.com/</a></p></td>
+</tr>
+<tr class="even">
 <td></td>
+<td><p>| [108]</p></td>
+<td><p>5.3.2[109]</p></td>
+<td><p>Greg Kroah-Hartman</p></td>
+<td><p>最新稳定版本</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>| [110]</p></td>
+<td><p>5.4-rc1[111]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Linus_Torvalds" title="wikilink">Linus Torvalds</a></p></td>
+<td><p>最新不稳定版本。将成为第20次的LTS[112]。</p></td>
 </tr>
 <tr class="even">
 <td><p><small></small></p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1094,7 +1103,7 @@ Linux内核的主要贡献者可见于[Linux核心黑客列表](https://zh.wikip
 
 ### 版本命名
 
-Linux内核有三个不同的命名方案。早期版本：第一个版本的内核是0.01，其次是0.02,0.03,0.10,0.11,0.12（第一[GPL版本](https://zh.wikipedia.org/wiki/GPL "wikilink")),0.95,0.96,0.97,0.98,0.99及1.0。\[105\]，从0.95版有许多的补丁发布於主要版本版本之间。
+Linux内核有三个不同的命名方案。早期版本：第一个版本的内核是0.01，其次是0.02,0.03,0.10,0.11,0.12（第一[GPL版本](https://zh.wikipedia.org/wiki/GPL "wikilink")),0.95,0.96,0.97,0.98,0.99及1.0。\[113\]，从0.95版有许多的补丁发布於主要版本版本之间。
 
 旧计划（1.0和2.6版之间)，版本的格式為A.B.C，其中A,B,C代表：**A**大幅度转变的内核，这是很少发生变化，只有当发生重大变化的代码和核心发生才会发生，在历史上曾改变两次的内核：1994年的1.0及1996年的2.0； **B**是指一些重大修改的内核，内核使用了传统的奇数次要版本号码的软件号码系统（用偶数的次要版本号码来表示稳定版本）；**C**是指轻微修订的内核，这个数字当有安全补丁，bug修复，新的功能或驱动程序，内核便会有变化。自2.6.0（2003年12月）发布後，人们认识到，更短的发布周期将是有益的。自那时起，版本的格式為A.B.C.D，其中A,B,C,D代表：**A**和**B**是无关緊要的，**C**是内核的版本，**D**是安全补丁。
 
@@ -1102,25 +1111,25 @@ Linux内核有三个不同的命名方案。早期版本：第一个版本的内
 
 ### 版本時間線
 
-<small>來源：kernel.org\[106\]</small>
+<small>來源：kernel.org\[114\]</small>
 
 ## 法律層面
 
 ### 许可证
 
-原先托瓦茲将 Linux 置于一个禁止任何商业行为的条例之下\[107\]，但0.12版本之后改用 [GNU 通用公共许可证第二版](../Page/GNU通用公共许可证.md "wikilink")。\[108\] 该协议允许任何人对软件进行修改或发行，包括商业行为，只要其遵守该协议，所有基于Linux的软件也必须以该协议的形式发表，并提供[源代码](../Page/源代码.md "wikilink")。
+原先托瓦茲将 Linux 置于一个禁止任何商业行为的条例之下\[115\]，但0.12版本之后改用 [GNU 通用公共许可证第二版](../Page/GNU通用公共许可证.md "wikilink")。\[116\] 该协议允许任何人对软件进行修改或发行，包括商业行为，只要其遵守该协议，所有基于Linux的软件也必须以该协议的形式发表，并提供[源代码](../Page/源代码.md "wikilink")。
 
-托瓦茲曾经公开声称将Linux置于GNU通用公共许可证之下是他一生中所做的“最好的决定”。\[109\]
+托瓦茲曾经公开声称将Linux置于GNU通用公共许可证之下是他一生中所做的“最好的决定”。\[117\]
 
 #### GPL第三版
 
-Linux 内核明确地仅发表在 GNU 通用公共许可证（GPL）第二版下，\[110\]而不向被许可方提供选择“任何更高版本”的选项（这是常见的 GPL 扩展）。关于如何轻松地改变许可证以使用后来的 GPL 版本（包括第3版）以及这种更改是否合乎需要，存在着相当多的争论。\[111\] 托瓦茲本人在版本2.4.0的发布中明确指出，他自己的代码仅在版本2下发布。\[112\]然而，GPL的条款规定，如果没有指定版本，那么可以使用任何版本；\[113\]并且[艾伦·考克斯指出](../Page/艾倫·考克斯.md "wikilink")，很少有其他 Linux 贡献者指定了特定版本的 GPL。\[114\]
+Linux 内核明确地仅发表在 GNU 通用公共许可证（GPL）第二版下，\[118\]而不向被许可方提供选择“任何更高版本”的选项（这是常见的 GPL 扩展）。关于如何轻松地改变许可证以使用后来的 GPL 版本（包括第3版）以及这种更改是否合乎需要，存在着相当多的争论。\[119\] 托瓦茲本人在版本2.4.0的发布中明确指出，他自己的代码仅在版本2下发布。\[120\]然而，GPL的条款规定，如果没有指定版本，那么可以使用任何版本；\[121\]并且[艾伦·考克斯指出](../Page/艾倫·考克斯.md "wikilink")，很少有其他 Linux 贡献者指定了特定版本的 GPL。\[122\]
 
-2006年9月，对29位关键内核程序员的调查显示其中的28位更倾向于使用 GPL 第二版（GPLv2）而非当时的 GPL 第三版（GPLv3）草案。 托瓦茲评论说：“我认为一些外界人士......相信我才是那个古怪不合群的人，因为我这么大张旗鼓地不做 GPLv3 的忠实粉丝。”\[115\]这些高水平的内核开发者就大众媒体对 GPLv3 的反对发表了评论，其中包括林納斯·托瓦茲本人、葛雷格·克羅哈曼和[安德鲁·莫顿](../Page/安德魯·莫頓.md "wikilink")。\[116\]他们提到有关[DRM](https://zh.wikipedia.org/wiki/DRM "wikilink")/、专利及“附加限制”的条款，并警告GPLv3对“开源宇宙”的[巴尔干化](../Page/巴尔干化.md "wikilink")。\[117\]\[118\]决定不采用 GPLv3 作为 Linux 内核许可证的托瓦茲在几年后重申了他的批评。\[119\]
+2006年9月，对29位关键内核程序员的调查显示其中的28位更倾向于使用 GPL 第二版（GPLv2）而非当时的 GPL 第三版（GPLv3）草案。 托瓦茲评论说：“我认为一些外界人士......相信我才是那个古怪不合群的人，因为我这么大张旗鼓地不做 GPLv3 的忠实粉丝。”\[123\]这些高水平的内核开发者就大众媒体对 GPLv3 的反对发表了评论，其中包括林納斯·托瓦茲本人、葛雷格·克羅哈曼和[安德鲁·莫顿](../Page/安德魯·莫頓.md "wikilink")。\[124\]他们提到有关[DRM](https://zh.wikipedia.org/wiki/DRM "wikilink")/、专利及“附加限制”的条款，并警告GPLv3对“开源宇宙”的[巴尔干化](../Page/巴尔干化.md "wikilink")。\[125\]\[126\]决定不采用 GPLv3 作为 Linux 内核许可证的托瓦茲在几年后重申了他的批评。\[127\]
 
 #### 韌體爭議
 
-許可證爭議的一個重點是Linux使用[韌體](../Page/韌體.md "wikilink")[二進位包以支援某些硬體裝置](https://zh.wikipedia.org/wiki/二進位包 "wikilink")。[理察·馬修·斯托曼認為這些東西讓Linux某部份成為](https://zh.wikipedia.org/wiki/理察·馬修·斯托曼 "wikilink")[非自由軟體](https://zh.wikipedia.org/wiki/非自由軟體 "wikilink")，甚至以此散佈Linux更會破壞GPL，因為GPL需要**完全可獲取的原始碼**\[120\]。
+許可證爭議的一個重點是Linux使用[韌體](../Page/韌體.md "wikilink")[二進位包以支援某些硬體裝置](https://zh.wikipedia.org/wiki/二進位包 "wikilink")。[理察·馬修·斯托曼認為這些東西讓Linux某部份成為](https://zh.wikipedia.org/wiki/理察·馬修·斯托曼 "wikilink")[非自由軟體](https://zh.wikipedia.org/wiki/非自由軟體 "wikilink")，甚至以此散佈Linux更會破壞GPL，因為GPL需要**完全可獲取的原始碼**\[128\]。
 
 林纳斯·托瓦兹及Linux社群中的領導者，支持較寬鬆的許可證，不支持[理察·馬修·斯托曼的立場](https://zh.wikipedia.org/wiki/理察·馬修·斯托曼 "wikilink")。社群中的[Linux-libre](../Page/Linux-libre.md "wikilink")提供完整的自由軟體韌體。
 
@@ -1140,7 +1149,7 @@ Linux 内核明确地仅发表在 GNU 通用公共许可证（GPL）第二版下
 
   - [Linux内核官方下载中心](http://www.kernel.org/)
 
-  - [日渐膨胀的Linux邮件列表内容摘要](http://kt.zork.net/)
+  - [日渐膨胀的Linux邮件列表内容摘要](https://web.archive.org/web/20061005060017/http://kt.zork.net/)
 
   - [林納斯與塔能包姆爭論微核心的筆仗](https://web.archive.org/web/20121003060514/http://www.dina.dk/~abraham/Linus_vs_Tanenbaum.html)
 
@@ -1158,230 +1167,130 @@ Linux 内核明确地仅发表在 GNU 通用公共许可证（GPL）第二版下
 [Category:Linux內核](https://zh.wikipedia.org/wiki/Category:Linux內核 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  [COPYING](http://git.kernel.org/?p=linux/kernel/git/torvalds/linux-2.6.git;a=blob;f=COPYING)
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
 27.
-
 28.
-
 29.
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73. [Economic impact of FLOSS on innovation and competitiveness of the EU ICT sector](http://ec.europa.eu/enterprise/sectors/ict/files/2006-11-20-flossimpact_en.pdf) , Table 3 on page 50.
-
 74.
-
 75. [Kernel 1.0 Source Code Release](http://www.kernel.org/pub/linux/kernel/v1.0/)（last checked 2008-10-27）
-
 76. [Kernel 1.2 Source Code Release](http://www.kernel.org/pub/linux/kernel/v1.2/)（last checked 2008-10-27）
-
 77.
-
 78.
-
 79.
-
 80.
-
 81.
-
 82.
-
 83.
-
-84. <http://kernel.org/>
-
-85. [Linux 3.0-rc1](http://permalink.gmane.org/gmane.linux.kernel/1147415) , [Linus Torvalds](https://zh.wikipedia.org/wiki/Linus_Torvalds "wikilink"), 30 May 2011, accessed 31 May 2011
-
-86.
-
+84.
+85. <http://kernel.org/>
+86. [Linux 3.0-rc1](http://permalink.gmane.org/gmane.linux.kernel/1147415) , [Linus Torvalds](https://zh.wikipedia.org/wiki/Linus_Torvalds "wikilink"), 30 May 2011, accessed 31 May 2011
 87.
-
 88.
-
-89. [Kernel documentation with Sphinx](http://lwn.net/Articles/692704/), part 1: how we got here
-
-90. [Reinventing the timer wheel](http://lwn.net/Articles/646950/)
-
-91. [Early packet drop](http://lwn.net/Articles/682538/) — and more — with BPF
-
-92. [Kernel building with GCC plugins](http://lwn.net/Articles/691102/)
-
-93. [Hardened usercopy](http://lwn.net/Articles/695991/)
-
-94.
-
+89.
+90. [Kernel documentation with Sphinx](http://lwn.net/Articles/692704/), part 1: how we got here
+91. [Reinventing the timer wheel](http://lwn.net/Articles/646950/)
+92. [Early packet drop](http://lwn.net/Articles/682538/) — and more — with BPF
+93. [Kernel building with GCC plugins](http://lwn.net/Articles/691102/)
+94. [Hardened usercopy](http://lwn.net/Articles/695991/)
 95.
-
 96.
-
 97.
-
 98.
-
 99.
-
 100.
-
 101.
-
 102.
 103.
 104.
-105. [Linux Kernel Archives - Volume 1](http://ftp.cdut.edu.cn/pub/linux/kernel/history/lka-001.html) （Riley Williams）
-
+105.
 106.
-
 107.
-
 108.
 109.
 110.
 111.
-
 112.
-
-113.
-
+113. [Linux Kernel Archives - Volume 1](http://ftp.cdut.edu.cn/pub/linux/kernel/history/lka-001.html) （Riley Williams）
 114.
-
 115.
-
 116.
 117.
-
 118.
-
-119. [Linus Torvalds says GPL v3 violates everything that GPLv2 stood for](https://www.youtube.com/watch?v=PaKIZ7gJlRU) [Debconf](https://zh.wikipedia.org/wiki/Debconf "wikilink") 2014, [Portland, Oregon](https://zh.wikipedia.org/wiki/Portland,_Oregon "wikilink") (accessed 11 March 2015)
-
-120. <http://www.gnu.org/philosophy/linux-gnu-freedom.html>
+119.
+120.
+121.
+122.
+123.
+124.
+125.
+126.
+127. [Linus Torvalds says GPL v3 violates everything that GPLv2 stood for](https://www.youtube.com/watch?v=PaKIZ7gJlRU) [Debconf](https://zh.wikipedia.org/wiki/Debconf "wikilink") 2014, [Portland, Oregon](https://zh.wikipedia.org/wiki/Portland,_Oregon "wikilink") (accessed 11 March 2015)
+128. <http://www.gnu.org/philosophy/linux-gnu-freedom.html>

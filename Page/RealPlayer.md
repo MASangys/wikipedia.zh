@@ -43,7 +43,6 @@ RealPlayer除了其基本作為音訊和視訊的播放器以外，亦包括了�
       - [Adobe Flash](../Page/Adobe_Flash.md "wikilink")（`.swf`，需要安裝Flash或Shockwave播放器）
       - [Flash Video](../Page/Flash_Video.md "wikilink")（`.flv`）〔版本11對應〕
       - [MJPEG video](https://zh.wikipedia.org/wiki/MJPEG_video "wikilink") playback from .avi files
-      - [Matroska](../Page/Matroska.md "wikilink")（`.mkv`）〔版本17之後才支援〕
   - [音訊](https://zh.wikipedia.org/wiki/音訊 "wikilink")：
       - [MP3](../Page/MP3.md "wikilink")（`.mp3`, `.mp2`）
       - [CD](../Page/CD.md "wikilink")音訊（`.cda`）
@@ -54,7 +53,6 @@ RealPlayer除了其基本作為音訊和視訊的播放器以外，亦包括了�
       - [AIFF](https://zh.wikipedia.org/wiki/AIFF "wikilink")（`.aif`, `.aiff`）
       - [AU](https://zh.wikipedia.org/wiki/Audio_Units "wikilink")（`.au`）
       - [Panasonic](https://zh.wikipedia.org/wiki/Panasonic "wikilink") AAC（`.acp`）
-      - [Matroska](../Page/Matroska.md "wikilink")（`.mka`）〔版本17之後才支援〕
   - 串流：
       - RealTime串流格式（rtsp://）
       - Progressive Networks串流格式（pna://, pnm://）

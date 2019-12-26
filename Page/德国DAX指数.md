@@ -31,7 +31,6 @@ DAX指数于1987年推出，以取代当时的Börsen-Zeitung指数和[法兰克
   - [拜耳](../Page/拜耳.md "wikilink")（Bayer AG，医药）
   - [拜尔斯道夫](../Page/拜尔斯道夫.md "wikilink")（Beiersdorf AG，日化）
   - [宝马](https://zh.wikipedia.org/wiki/宝马 "wikilink")（Bayerische Motoren Werke AG，汽车制造）
-  - [德国商业银行](../Page/德国商业银行.md "wikilink")（Commerzbank AG，金融）
   - [戴姆勒股份有限公司](https://zh.wikipedia.org/wiki/戴姆勒股份有限公司 "wikilink")（Daimler AG，汽车制造）
   - [德意志银行](../Page/德意志银行.md "wikilink")（Deutsche Bank AG，金融）
   - [德国证券交易所](https://zh.wikipedia.org/wiki/德国证券交易所 "wikilink")（Deutsche Börse AG，金融）

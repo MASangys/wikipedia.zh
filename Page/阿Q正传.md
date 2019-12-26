@@ -62,25 +62,16 @@
 
 {{-}}
 
-[Category:中國農村題材作品](https://zh.wikipedia.org/wiki/Category:中國農村題材作品 "wikilink") [Category:中华民国大陆时期小说](https://zh.wikipedia.org/wiki/Category:中华民国大陆时期小说 "wikilink") [Category:1921年長篇小說](https://zh.wikipedia.org/wiki/Category:1921年長篇小說 "wikilink") [Category:中文中篇小說](https://zh.wikipedia.org/wiki/Category:中文中篇小說 "wikilink") [Category:鲁迅作品](https://zh.wikipedia.org/wiki/Category:鲁迅作品 "wikilink") [Category:宣統時期背景小說](https://zh.wikipedia.org/wiki/Category:宣統時期背景小說 "wikilink") [Category:辛亥革命题材作品](https://zh.wikipedia.org/wiki/Category:辛亥革命题材作品 "wikilink")
+[Category:中國農村題材作品](https://zh.wikipedia.org/wiki/Category:中國農村題材作品 "wikilink") [Category:1921年小说](https://zh.wikipedia.org/wiki/Category:1921年小说 "wikilink") [Category:1920年代中国小说](https://zh.wikipedia.org/wiki/Category:1920年代中国小说 "wikilink") [Category:中文中篇小說](https://zh.wikipedia.org/wiki/Category:中文中篇小說 "wikilink") [Category:鲁迅作品](https://zh.wikipedia.org/wiki/Category:鲁迅作品 "wikilink") [Category:宣統時期背景小說](https://zh.wikipedia.org/wiki/Category:宣統時期背景小說 "wikilink") [Category:辛亥革命题材作品](https://zh.wikipedia.org/wiki/Category:辛亥革命题材作品 "wikilink")
 
 1.  鲁迅《1930年10月13日致王乔春书信》，载《[鲁迅全集](../Page/鲁迅全集.md "wikilink")》，第12卷，第26页
-
 2.  《俄文译本〈阿Q正传〉序》，《集外集》，载《[鲁迅全集](../Page/鲁迅全集.md "wikilink")》第七卷，人民文学出版社，1981年
-
 3.  [寄《戲》周刊編者信](https://zh.wikipedia.org/wiki/wikisource:zh:寄《戲》周刊編者信 "wikilink")，魯迅，1934年
-
 4.
-
 5.
-
 6.
 7.  鲁迅：《<阿Q正传>的成因》，《鲁迅全集》第3卷，第397页。
-
 8.
-
 9.
-
 10.
-
 11.

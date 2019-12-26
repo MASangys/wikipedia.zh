@@ -96,7 +96,7 @@ BT下载方式目前引起社会的广泛讨论。利用BT免费发布版权内�
 
   - [Under the hood of BitTorrent](http://www.stanford.edu/class/ee380/Abstracts/050216.html)—lecture given by BitTorrent protocol designer, Bram Cohen at [Stanford University](https://zh.wikipedia.org/wiki/Stanford_University "wikilink")（[video archive](https://web.archive.org/web/20120218161156/http://stanford-online.stanford.edu/courses/ee380/050216-ee380-100.asx)）。
 
-  - [Tiny perl script to view contents inside torrent files](http://wiki.gotux.net/downloads/btview)
+  - [Tiny perl script to view contents inside torrent files](https://web.archive.org/web/20130510071407/http://wiki.gotux.net/downloads/btview)
 
   - [P2P極速下載誰最受傷？](http://blog.yam.com/BTnews/article/14420692)
 

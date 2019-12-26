@@ -68,7 +68,7 @@ MAME 由多個元件組成，包含：中央處理器模擬器，用以模擬各
   - [MAMEUI 官方網站](http://www.mameui.info/) - [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") [圖形使用介面的官方授權改版](https://zh.wikipedia.org/wiki/GUI "wikilink")
   - [MAME Plus\!](https://zh.wikipedia.org/wiki/MAME_Plus! "wikilink") - Windows 圖形使用介面的多國語言版本
   - [XMAME](http://freshmeat.net/projects/xmame/) - [Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink") 版本
-  - [MacMAME](http://www.macmame.org/) - [Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")（[麥金塔](../Page/麥金塔.md "wikilink")）版本
+  - [MacMAME](https://web.archive.org/web/20040729233305/http://macmame.org/) - [Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")（[麥金塔](../Page/麥金塔.md "wikilink")）版本
   - [BeMAME](http://www.beemulated.net/arcade/multi.phtml) - [BeOS](../Page/BeOS.md "wikilink") 版本
 
 ### 相關資料

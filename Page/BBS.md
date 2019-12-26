@@ -50,7 +50,7 @@ BBS發展初期，BBS站台大部份是由站长（通常被称为SYSOP，SYStem
   - 1992年 - [國立中山大學](../Page/國立中山大學.md "wikilink")陳年興教授（openmind）立志推廣台灣的電腦網路，他們以Pirates BBS為基礎加以改良，支援Internet E-mail與bit-8，建構起全台灣第一個全[中文化](../Page/中文化.md "wikilink")的BBS——中山大學美麗之島站。後來他們將程式寄回給原來的作者，作者再整理發表出來，就成為所謂的Eagle BBS\[10\]。Eagle BBS採用[開放源始碼方式發行](https://zh.wikipedia.org/wiki/開放源始碼 "wikilink")，而後臺灣各大專院校根據Eagle BBS開放源始碼自行修改而衍生出許多BBS系統分支，如：Eagle BBS 3.0、Pivot BBS、NCTU CIS BBS、Phoenix BBS等。
   - 1994年 - 臺灣正大力推行Internet網際網路，由台灣學術網路（TANet）、中華電信局HINet和資策會的SEEDNet構成台灣三大INTERNET網路並與世界接軌，在台灣學術網路（TANet）推行主導下，加上Telnet BBS中文化成熟，各大專院校紛紛開始架設Telnet BBS站台，在TANet架構之下的Telnet BBS站際之間是即時連線，只要在學校電腦中心便可連入各校際BBS站台，無需透過電話撥接，間接節省可觀的電話費，且Telnet BBS站台同時可接受數百人（後期甚至數萬人，如PTT）同時登入，在各大聊天室、討論區便是熱鬧非凡，盛況空前，此時撥接BBS與Telnet BBS並行年代，臺灣兩大BBS系統彼此開始嘗試討論區互遞，但由於轉換不穩定，一年之後便告取消。
   - 1996年 - 雖然撥接BBS與Telnet BBS所提供的服務並無太大差異，但在節省費用、即時、可登入數量形成群聚效應之下，撥接BBS開始邁入衰退期。
-  - 1998年 - 依據Telnet BBS全台灣站台統計，大學共計有575站台，科技大學、學院共計有91站台，專校、職校、官校共計有89站台，中學、國中、小學共計有103站台，政府共計有27站台，民間單位計有117站台，全部合計1002站台，此時為Telnet BBS高峰期。
+  - 1998年 - 依據 1998 年12 月全台灣 Telnet BBS 站台統計\[11\]，大學共計有575站台，科技大學、學院共計有91站台，專校、職校、官校共計有89站台，中學、國中、小學共計有103站台，政府共計有27站台，民間單位計有117站台，全部合計1002站台，此時為 Telnet BBS高峰期。
   - 2000年 - 隨著WWW盛行，Telnet BBS開始邁入衰退期，依2018年統計只剩85有效站台，而使用者幾乎集中至[PTT](https://zh.wikipedia.org/wiki/PTT "wikilink")。
 
 ### 中國大陆BBS歷史
@@ -83,7 +83,7 @@ BBS軟體依連線技術區分三大類：撥接式、Telnet、Web，目前BBS�
 ##### 離線讀信軟體
 
   -
-  - 銀版快信（Silver Xpress）\[11\]
+  - 銀版快信（Silver Xpress）\[12\]
 
 #### 架站軟體
 
@@ -125,7 +125,7 @@ BBS軟體依連線技術區分三大類：撥接式、Telnet、Web，目前BBS�
 
 #### 服务器端软件
 
-台灣BBS界最早期是以Pirates BBS為基礎加以改良成為Engle BBS為主，再加以修改衍生出BBS系統分支，如：\[12\]
+台灣BBS界最早期是以Pirates BBS為基礎加以改良成為Engle BBS為主，再加以修改衍生出BBS系統分支，如：\[13\]
 
   - PirateBBS 和 EagleBBS 這兩個版本是台灣學術網路BBS的始祖
   - Phoenix - 是由交大資工由 EagleBBS 所發展出來的程式
@@ -170,7 +170,7 @@ BBS軟體依連線技術區分三大類：撥接式、Telnet、Web，目前BBS�
 
 ### “资料洩漏”现象
 
-BBS站的站长拥有很大的权力，因为是由纯文字组合而成，有权限的人甚至不用任何基础就能轻易查看他人资料\[13\]。
+BBS站的站长拥有很大的权力，因为是由纯文字组合而成，有权限的人甚至不用任何基础就能轻易查看他人资料\[14\]。
 
 ### BBS用語
 
@@ -193,25 +193,16 @@ BBS站的站长拥有很大的权力，因为是由纯文字组合而成，有�
 [Category:BBS](https://zh.wikipedia.org/wiki/Category:BBS "wikilink") [Category:互联网](https://zh.wikipedia.org/wiki/Category:互联网 "wikilink")
 
 1.  Internet/Fidonet網路技術實務v1.00 PD version, released on Jan 20, 1995
-
 2.  [BBS,E-Mail,MSN,IM,ICQ,Skype網路人際關係，南華出版所研究生，洪宗慶、蕭嘉農](http://mail.nhu.edu.tw/~society/e-j/46/46-03.htm)
-
 3.  [傳說中的Honlin](http://honlin.com/2007/04/14/bbs-%E4%BB%80%E9%BA%BC%E6%98%AFbbs/)
-
 4.
 5.
 6.
-
 7.
-
 8.
-
 9.
-
-10. [台灣BBS發展簡史](http://content.edu.tw/senior/computer/ks_ks/comsense/bbs.htm)
-
-11. [銀版快信（Silver Xpress）](http://www.santronics.com/products/sxpress/index.php)
-
-12.
-
+10.
+11. [全台灣 Telnet BBS 站台統計](https://hackmd.io/@nMJkS_HyStK8olPY_uc31A/rk91dlzSm?type=view)
+12. [銀版快信（Silver Xpress）](http://www.santronics.com/products/sxpress/index.php)
 13.
+14.

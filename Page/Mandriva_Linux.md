@@ -92,10 +92,7 @@ Mandriva Linux 目前的发行周期约为半年，在每年的4月和10月发�
 [Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink") [Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")
 
 1.  [1](http://www.businessinsider.com/mandriva-goes-out-of-business-2015-5)
-
 2.
-
 3.
-
 4.
 5.

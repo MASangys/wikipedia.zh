@@ -2430,10 +2430,10 @@
 <td><p>結成！ お笑いMAHO堂</p></td>
 <td><p>結成！ 搞笑魔法堂</p></td>
 <td><p>栗山綠</p></td>
-<td><p>谷東</p></td>
-<td></td>
+<td><p>不適用</p></td>
 <td><p><strong>2019年</strong></p>
 <p>3月23日</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2441,9 +2441,9 @@
 <td><p>今は昔 パート1</p></td>
 <td><p>很久很久以前 Part1</p></td>
 <td><p>大和屋曉</p></td>
-<td><p>谷東</p></td>
-<td></td>
 <td><p>4月14日</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2451,9 +2451,9 @@
 <td><p>誰が突っ込み？</p></td>
 <td><p>誰才是吐槽役？</p></td>
 <td><p>大和屋曉</p></td>
-<td><p>谷東</p></td>
-<td></td>
 <td><p>4月27日</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2461,9 +2461,9 @@
 <td><p>連想クイズ</p></td>
 <td><p>聯想測試</p></td>
 <td><p>大和屋曉</p></td>
-<td><p>谷東</p></td>
-<td></td>
 <td><p>5月11日</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2471,9 +2471,59 @@
 <td><p>ステーキの呪い</p></td>
 <td><p>牛排的詛咒</p></td>
 <td><p>栗山綠</p></td>
-<td><p>谷東</p></td>
-<td></td>
 <td><p>5月26日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第6话</p></td>
+<td><p>今は昔 パート2</p></td>
+<td><p>很久很久以前 Part2</p></td>
+<td><p>栗山綠</p></td>
+<td><p>6月8日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第7话</p></td>
+<td><p>何食べる？</p></td>
+<td><p>你想吃什麼</p></td>
+<td><p>大和屋曉</p></td>
+<td><p>6月22日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第8话</p></td>
+<td><p>おジャ魔女大喜利 その1</p></td>
+<td><p>小魔女的笑話比賽 其一</p></td>
+<td><p>栗山綠</p></td>
+<td><p>7月6日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第9话</p></td>
+<td><p>今は昔 パート3</p></td>
+<td><p>很久很久以前 Part3</p></td>
+<td><p>大和屋曉</p></td>
+<td><p>7月20日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第10话</p></td>
+<td><p>玩具</p></td>
+<td><p>玩具</p></td>
+<td><p>大和屋曉</p></td>
+<td><p>8月4日</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -2776,7 +2826,7 @@
 
 ### 尋找魔女見習生
 
-（****，暫譯: 尋找魔女見習生)，將於2020年內於日本電影院上映。此為第三部劇場版，為「小魔女Doremi」電視播放20周年的紀念作品。 故事內容有待東映方面公佈。此作會由大部分原本班底製作，並由原本聲優負責配音。\[7\]
+（****，暫譯: 尋找魔女見習生)，將於2020年5月15日於日本電影院上映。此為第三部劇場版，為「小魔女Doremi」電視播放20周年的紀念作品。 故事內容有待東映方面公佈。此作會由大部分原本班底製作，並由原本聲優負責配音。\[7\]
 
 ## 书籍信息
 
@@ -2913,7 +2963,7 @@
 <td><p>10</p></td>
 <td><p>おジャ魔女どれみ20’s</p></td>
 <td><p>Ojamajo Doremi 20’s</p></td>
-<td></td>
+<td><p>序章: MAHO堂に何か起こつたか (在魔法堂發生什麼事) 第一章: 神さまのほうび （上帝的奖賞） 第二章: 月と女神と （月亮与女神） 第三章: あいことミミ （小愛和咪咪） 第四章: 心の溫度 (心的溫度) 第五章: リメンバ一~ (記住一個) 最終章: 未来ヘ （未來）</p></td>
 <td><p>2019年10月2日</p></td>
 </tr>
 <tr class="odd">
@@ -3123,7 +3173,7 @@
   - [<span lang="ko">꼬마마법사 레미</span>](https://web.archive.org/web/20051018150237/http://www.magicalremi.co.kr/) - Iconix Entertainment（韓國）
   - [Magical DoReMi](http://4kids.tv/magicaldoremi/) - 4kids.tv（美國）
 
-[Category:1999年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1999年日本電視動畫 "wikilink") [Category:2000年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2000年日本電視動畫 "wikilink") [Category:2001年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2001年日本電視動畫 "wikilink") [Category:2002年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2002年日本電視動畫 "wikilink") [Category:日本OVA動畫](https://zh.wikipedia.org/wiki/Category:日本OVA動畫 "wikilink") [Category:2000年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2000年日本劇場動畫 "wikilink") [Category:2001年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2001年日本劇場動畫 "wikilink") [Category:糖果甜點題材作品](https://zh.wikipedia.org/wiki/Category:糖果甜點題材作品 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink") [Category:魔法少女](https://zh.wikipedia.org/wiki/Category:魔法少女 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink") [Category:講談社輕小說文庫](https://zh.wikipedia.org/wiki/Category:講談社輕小說文庫 "wikilink") [Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink") [Category:变身女主角动画](https://zh.wikipedia.org/wiki/Category:变身女主角动画 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:2004年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2004年日本OVA動畫 "wikilink") [Category:2011年小說](https://zh.wikipedia.org/wiki/Category:2011年小說 "wikilink") [Category:2012年小說](https://zh.wikipedia.org/wiki/Category:2012年小說 "wikilink") [Category:2013年小說](https://zh.wikipedia.org/wiki/Category:2013年小說 "wikilink") [Category:朝日電視台節目](https://zh.wikipedia.org/wiki/Category:朝日電視台節目 "wikilink") [Category:日本動畫短片電影](https://zh.wikipedia.org/wiki/Category:日本動畫短片電影 "wikilink") [Category:日語電影](https://zh.wikipedia.org/wiki/Category:日語電影 "wikilink") [Category:五十嵐卓哉電影](https://zh.wikipedia.org/wiki/Category:五十嵐卓哉電影 "wikilink") [Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink") [Category:日本原創動畫](https://zh.wikipedia.org/wiki/Category:日本原創動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink")
+[Category:1999年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1999年日本電視動畫 "wikilink") [Category:2000年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2000年日本電視動畫 "wikilink") [Category:2001年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2001年日本電視動畫 "wikilink") [Category:2002年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2002年日本電視動畫 "wikilink") [Category:日本OVA動畫](https://zh.wikipedia.org/wiki/Category:日本OVA動畫 "wikilink") [Category:2000年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2000年日本劇場動畫 "wikilink") [Category:2001年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2001年日本劇場動畫 "wikilink") [Category:糖果甜點題材作品](https://zh.wikipedia.org/wiki/Category:糖果甜點題材作品 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink") [Category:魔法少女](https://zh.wikipedia.org/wiki/Category:魔法少女 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink") [Category:講談社輕小說文庫](https://zh.wikipedia.org/wiki/Category:講談社輕小說文庫 "wikilink") [Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink") [Category:变身女主角动画](https://zh.wikipedia.org/wiki/Category:变身女主角动画 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:2004年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2004年日本OVA動畫 "wikilink") [Category:2011年小說](https://zh.wikipedia.org/wiki/Category:2011年小說 "wikilink") [Category:2012年小說](https://zh.wikipedia.org/wiki/Category:2012年小說 "wikilink") [Category:2013年小說](https://zh.wikipedia.org/wiki/Category:2013年小說 "wikilink") [Category:朝日電視台節目](https://zh.wikipedia.org/wiki/Category:朝日電視台節目 "wikilink") [Category:日本動畫短片電影](https://zh.wikipedia.org/wiki/Category:日本動畫短片電影 "wikilink") [Category:日語電影](https://zh.wikipedia.org/wiki/Category:日語電影 "wikilink") [Category:五十嵐卓哉電影](https://zh.wikipedia.org/wiki/Category:五十嵐卓哉電影 "wikilink") [Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink") [Category:日本原創動畫](https://zh.wikipedia.org/wiki/Category:日本原創動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink") [Category:魔法少女動畫](https://zh.wikipedia.org/wiki/Category:魔法少女動畫 "wikilink")
 
 1.
 2.

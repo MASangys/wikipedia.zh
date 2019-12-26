@@ -131,6 +131,8 @@ Joe Junior聲線嘹亮，[音域廣闊](https://zh.wikipedia.org/wiki/音域 "wi
       - [波士早晨](https://zh.wikipedia.org/wiki/波士早晨 "wikilink") 飾 榮福全
       - [愛·回家之開心速遞](../Page/愛·回家之開心速遞.md "wikilink") 飾 神父（第276集）
       - [三個女人一個「因」](https://zh.wikipedia.org/wiki/三個女人一個「因」 "wikilink") 飾 Benny（第11集）
+  - 2019年
+      - [解決師](../Page/解決師.md "wikilink") 飾 教授（第19集）
 
 ### 電影
 

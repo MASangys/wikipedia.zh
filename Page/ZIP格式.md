@@ -37,7 +37,7 @@ ZIP是一种相当简单的分别压缩每个文件的存档格式。分别压�
 
 ZIP的规约指出文件可以不经压缩或者使用不同的压缩算法来存储。然而，在实际上，ZIP几乎差不多总是在使用[卡茨](../Page/菲尔·卡茨.md "wikilink")（Katz）的[DEFLATE](../Page/DEFLATE.md "wikilink")算法。
 
-ZIP支持基于对称加密系统的一个简单的密码，现在已知有严重的缺陷，[已知明文攻击](https://zh.wikipedia.org/wiki/已知明文攻击 "wikilink")，[字典攻击和](https://zh.wikipedia.org/wiki/字典攻击 "wikilink")[暴力攻击](https://zh.wikipedia.org/wiki/暴力攻击 "wikilink")。ZIP也支持分卷压缩。
+ZIP支持基于对称加密系统的一个简单的密码，现在已知有严重的缺陷，[已知明文攻击](https://zh.wikipedia.org/wiki/已知明文攻击 "wikilink")、[字典攻击和](https://zh.wikipedia.org/wiki/字典攻击 "wikilink")[暴力攻击](../Page/蛮力攻击.md "wikilink")。ZIP也支持分卷压缩。
 
 在近来一段时间，ZIP加入了包括新的压缩和加密方法的新特征，不过这些新特征并没有被许多工具所支持并且没有得到广泛应用。
 

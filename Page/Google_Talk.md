@@ -62,14 +62,11 @@ Google在[Gmail](../Page/Gmail.md "wikilink")上有着遵循用戶建議的良�
 [Category:已終止開發的Google軟體](https://zh.wikipedia.org/wiki/Category:已終止開發的Google軟體 "wikilink") [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink") [Category:Jabber客户端](https://zh.wikipedia.org/wiki/Category:Jabber客户端 "wikilink") [Category:Windows即時通訊客戶端](https://zh.wikipedia.org/wiki/Category:Windows即時通訊客戶端 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
 
 1.  <http://www.google.com/talk/developer.html>
-
 2.
-
 3.
 4.
 5.
 6.  <http://googletalk.blogspot.com/2006/01/xmpp-federation.html>
-
 7.
 8.
 9.

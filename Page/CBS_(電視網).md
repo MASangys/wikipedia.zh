@@ -137,30 +137,17 @@ CBS的相關節目在美國以外的地方都有播送。例如：CBS新聞台�
 [Category:1927年成立的公司](https://zh.wikipedia.org/wiki/Category:1927年成立的公司 "wikilink") [Category:1941年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1941年成立的电视台或电视频道 "wikilink") [Category:CBS電視網](https://zh.wikipedia.org/wiki/Category:CBS電視網 "wikilink") [Category:CBS公司](https://zh.wikipedia.org/wiki/Category:CBS公司 "wikilink") [Category:美國電視網](https://zh.wikipedia.org/wiki/Category:美國電視網 "wikilink") [Category:总部位于纽约市的公司](https://zh.wikipedia.org/wiki/Category:总部位于纽约市的公司 "wikilink") [Category:1927年紐約州建立](https://zh.wikipedia.org/wiki/Category:1927年紐約州建立 "wikilink")
 
 1.
-
 2.  According to a *The New York Times* piece on November 9, 1950, "the first local public demonstrations of color television will be initiated Tuesday by the Columbia Broadcasting System. Ten color receivers are being installed on the ground floor of the former Tiffany building at 401 Fifth Avenue, near Thirty-seventh Street, where several hundred persons can be accommodated for each presentation"
-
 3.
-
 4.  *Radio Digest*, 1927年9月, quoted in: McLeod, Elizabeth (September 20, 2002). [CBS – In the Beginning](http://members.aol.com/jeff560/cbs.html) , *History of American Broadcasting*. Retrieved on 2007-01-01. 當時參與聯合直播的16家電台是位於[新澤西州](https://zh.wikipedia.org/wiki/新澤西州 "wikilink")[紐瓦克市的WOR](https://zh.wikipedia.org/wiki/紐瓦克_\(紐澤西州\) "wikilink")；位於宾夕法尼亚州[費城](../Page/費城.md "wikilink")市的WCAU；位於[俄亥俄州](../Page/俄亥俄州.md "wikilink")[阿克倫市的WADC](https://zh.wikipedia.org/wiki/阿克倫 "wikilink")；位於俄亥俄州哥倫比亞市的WAIU；位於[馬里蘭州](https://zh.wikipedia.org/wiki/馬里蘭州 "wikilink")[巴爾的摩](../Page/巴爾的摩.md "wikilink")市的WCAO；位於[羅德島州](../Page/羅德島州.md "wikilink")[普洛威頓斯的WEAN](https://zh.wikipedia.org/wiki/普洛威頓斯 "wikilink")；位於[紐約州](https://zh.wikipedia.org/wiki/紐約州 "wikilink")[雪城的WFBL](../Page/锡拉丘兹_\(纽约州\).md "wikilink")；位於[密歇根州](../Page/密歇根州.md "wikilink")[底特律的WWJ](https://zh.wikipedia.org/wiki/底特律 "wikilink")；位於[賓夕法尼亞州](https://zh.wikipedia.org/wiki/賓夕法尼亞州 "wikilink")[匹兹堡](../Page/匹兹堡.md "wikilink")的WJAS；位於俄亥俄州[辛辛那堤的WKRC](https://zh.wikipedia.org/wiki/辛辛那堤 "wikilink")；位於紐約州[水牛城](../Page/水牛城.md "wikilink")的WMAK；位於密歇根州[芝加哥](../Page/芝加哥.md "wikilink")的WMAQ；位於[馬薩諸塞州](https://zh.wikipedia.org/wiki/馬薩諸塞州 "wikilink")[波士頓的WNAC](https://zh.wikipedia.org/wiki/波士頓 "wikilink")；位於[印第安納州](https://zh.wikipedia.org/wiki/印第安納州 "wikilink")[韋恩堡](../Page/韋恩堡.md "wikilink")的WOWO；位於[密西西比州](../Page/密西西比州.md "wikilink")[聖路易市的KMOX和位於](https://zh.wikipedia.org/wiki/聖路易市 "wikilink")[愛荷華州康瑟爾布拉夫斯的KOIL](https://zh.wikipedia.org/wiki/愛荷華州 "wikilink")。
-
 5.  Erik Barnouw (1966). *A Tower in Babel: A History of Broadcasting in the United States to 1933*. New York: Oxford University Press. ISBN 978-0-19-500474-8. p. 222
-
 6.  Barnouw, *Tower*, p. 223
-
 7.
 8.  Barnouw, *Tower*, p. 224
-
 9.  Bergreen, Laurence (1980). *Look Now, Pay Later: The Rise of Network Broadcasting*. New York: Doubleday and Co. ISBN 978-0-451-61966-2. p. 59. Page numbers in this article refer to the first paperback edition, May 1981
-
 10. Bergreen, p. 56. The station moved to a new frequency, 880 kHz, in the FCC's 1941 reassignment of stations; in 1946, WABC was renamed WCBS.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
