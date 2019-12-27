@@ -1,6 +1,6 @@
 [Sig_Sauer_P227_RS_with_Mag.jpg](https://zh.wikipedia.org/wiki/File:Sig_Sauer_P227_RS_with_Mag.jpg "fig:Sig_Sauer_P227_RS_with_Mag.jpg")。\]\]
 
-**SIG P227**是一系列由[SIG Sauer所設計和生產的全尺寸](../Page/西格&紹爾.md "wikilink")、緊湊型與大尺寸軍用型[半自動手槍](../Page/半自動手槍.md "wikilink")，是[SIG P226的](https://zh.wikipedia.org/wiki/SIG_P226半自動手槍 "wikilink")[.45 ACP](../Page/.45_ACP.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")版本。
+**SIG P227**是一系列由[SIG Sauer所設計和生產的全尺寸](../Page/西格&紹爾.md "wikilink")、緊湊型與大尺寸軍用型[半自動手槍](../Page/半自動手槍.md "wikilink")，是[SIG P226的](../Page/SIG_P226半自動手槍.md "wikilink")[.45 ACP](../Page/.45_ACP.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")版本。
 
 該槍在2013年第35屆（美國著名槍展）上首次推出，以圖與市場上的大彈匣容量.45 ACP口徑手槍競爭，並且取代因彈匣容量少而導致銷售量日漸萎縮的[SIG P220](../Page/SIG_P220手槍.md "wikilink")。
 
@@ -88,17 +88,17 @@ P227與P226一樣，都將操作部件設在槍身左側，位於滑套以下。
   - [SIG P220](../Page/SIG_P220手槍.md "wikilink")
   - [SIG P224](https://zh.wikipedia.org/wiki/SIG_P224半自動手槍 "wikilink")
   - [SIG P225](https://zh.wikipedia.org/wiki/SIG_P225手槍 "wikilink")
-  - [SIG P226](https://zh.wikipedia.org/wiki/SIG_P226半自動手槍 "wikilink")
-  - [SIG P228](https://zh.wikipedia.org/wiki/SIG_P228半自動手槍 "wikilink")
-  - [SIG P229](https://zh.wikipedia.org/wiki/SIG_P229半自動手槍 "wikilink")
+  - [SIG P226](../Page/SIG_P226半自動手槍.md "wikilink")
+  - [SIG P228](../Page/SIG_P228半自動手槍.md "wikilink")
+  - [SIG P229](../Page/SIG_P229半自動手槍.md "wikilink")
   - [SIG P245](https://zh.wikipedia.org/wiki/SIG_P245手槍 "wikilink")
   - [SIG M1911](https://zh.wikipedia.org/wiki/SIG_M1911半自動手槍 "wikilink")（SIG GSR）
   - [貝瑞塔Px4 Storm半自動手槍](../Page/貝瑞塔Px4_Storm半自動手槍.md "wikilink")
-  - [CZ 97半自動手槍](https://zh.wikipedia.org/wiki/CZ_97半自動手槍 "wikilink")
-  - [FN FNX半自動手槍](https://zh.wikipedia.org/wiki/FN_FNX半自動手槍 "wikilink")
+  - [CZ 97半自動手槍](../Page/CZ_97半自動手槍.md "wikilink")
+  - [FN FNX半自動手槍](../Page/FN_FNX半自動手槍.md "wikilink")
   - [格洛克21](../Page/格洛克21.md "wikilink")／[30](../Page/格洛克30.md "wikilink")／[41](../Page/格洛克41.md "wikilink")
   - [HK USP手槍](../Page/HK_USP手槍.md "wikilink")
-  - [HK Mk 23 Mod 0半自動手槍](https://zh.wikipedia.org/wiki/HK_Mk_23_Mod_0半自動手槍 "wikilink")
+  - [HK Mk 23 Mod 0半自動手槍](../Page/HK_Mk_23_Mod_0半自動手槍.md "wikilink")
   - [HK45半自動手槍](https://zh.wikipedia.org/wiki/HK45半自動手槍 "wikilink")
   - [HS2000半自動手槍](https://zh.wikipedia.org/wiki/HS2000半自動手槍 "wikilink")
   - [春田XDM半自動手槍](../Page/春田XDM半自動手槍.md "wikilink")

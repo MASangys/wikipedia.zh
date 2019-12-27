@@ -3,7 +3,7 @@
 ## 專屬藝人
 
   - 台灣：[鄭世彬](https://zh.wikipedia.org/wiki/鄭世彬 "wikilink")（文化人）
-  - 日本：[小沼綺音](https://zh.wikipedia.org/wiki/小沼綺音 "wikilink")（艺人）
+  - 日本：[小沼綺音](../Page/小沼綺音.md "wikilink")（艺人）
 
 ## 參考資料
 

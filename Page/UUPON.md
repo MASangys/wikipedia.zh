@@ -57,8 +57,6 @@ UUPON 另外還提供多家電商平台點數轉換、折抵電信費、APP 兌�
 
   - 2019年4月15日，UUPON 與 來自日本的優惠平台 Gotchamall 扭蛋寶合作，在UUPON APP 共同推出幸運扭蛋，提供給予UUPON 會員透過扣除一點UUPON點數即可得到高CP值的台灣在地優惠，包含了美食/[肯德基](../Page/肯德基.md "wikilink")、[必勝客](https://zh.wikipedia.org/wiki/必勝客 "wikilink")，美妝[日藥本舖](https://zh.wikipedia.org/wiki/日藥本舖 "wikilink")，便利商店[全家便利商店](../Page/全家便利商店.md "wikilink")、[萊爾富](../Page/萊爾富.md "wikilink")，賣場[美廉社](../Page/美廉社.md "wikilink")....等台灣生活中各式各樣的折扣優惠。
 
-免費[扭蛋寶](https://zh.wikipedia.org/wiki/扭蛋寶 "wikilink") <https://tw.gotchamall.com>
-
 ## 活動記錄
 
   - 2017年月9月19日，點鑽公司宣佈，聯手「全家」、「萊爾富」、「OK」3大超商通路，打造超商點數聯盟。 UUPON 擁有全台超過 5200 家可集點、兌點的超商通路，多元便利性及獨家優勢， UUPON 會員在該年度上半年，全台三大超商通路集點、兌點，共同創下相當於 10 億元新台幣經濟價值。\[21\]。

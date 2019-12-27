@@ -337,7 +337,7 @@ featuring 康 on Guitar/2nd Voice</p></td>
   - [Ever](../Page/Ever.md "wikilink")[《陽光燦爛》](https://www.youtube.com/watch?v=BWutbDUW0zI) - 康飾爛口發、偉飾大蕃薯、豐飾惡霸
   - [After10](../Page/After10.md "wikilink")[《大步走向我中心》](https://www.youtube.com/watch?v=sCnzp3AsE3E) - 豐飾拳手及嘰嘰
   - [After10](../Page/After10.md "wikilink")[《低沉》](https://www.youtube.com/watch?v=i9U8FAa_2f4) - After10 飾 After10
-  - [RubberBand](../Page/RubberBand.md "wikilink")[《我是樂隊》](https://www.youtube.com/watch?v=DAkhgqR_Nzc) - RubberBand 邀請八隊樂隊參與 MV 演出: [太極樂隊](../Page/太極樂隊.md "wikilink")、[ToNick](../Page/ToNick.md "wikilink")、[Kolor](../Page/Kolor.md "wikilink")、[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")、[觸執毛](../Page/觸執毛.md "wikilink")、[Blaster](https://zh.wikipedia.org/wiki/Blaster "wikilink")、[雞蛋蒸肉餅](../Page/雞蛋蒸肉餅.md "wikilink")、After10
+  - [RubberBand](../Page/RubberBand.md "wikilink")[《我是樂隊》](https://www.youtube.com/watch?v=DAkhgqR_Nzc) - RubberBand 邀請八隊樂隊參與 MV 演出: [太極樂隊](../Page/太極樂隊.md "wikilink")、[ToNick](../Page/ToNick.md "wikilink")、[Kolor](../Page/Kolor.md "wikilink")、[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")、[觸執毛](../Page/觸執毛.md "wikilink")、[Blaster](../Page/Blaster.md "wikilink")、[雞蛋蒸肉餅](../Page/雞蛋蒸肉餅.md "wikilink")、After10
   - [鍾舒漫](../Page/鍾舒漫.md "wikilink") [鍾舒淇](https://zh.wikipedia.org/wiki/鍾舒淇 "wikilink")[《1111》](https://www.youtube.com/watch?v=HYE5POvqpLc)- 偉飾鼓手
   - [After10](../Page/After10.md "wikilink")[《上個你 下個你》](https://www.youtube.com/watch?v=8MW_nGY7_BM) - 康飾男友、After10 飾 After10
   - [After10](../Page/After10.md "wikilink")[《大頭佛》](https://www.youtube.com/watch?v=jCfI83FTdtc) - 康飾市民、偉飾老師、豐飾職員
@@ -628,7 +628,7 @@ WHF Home Music 是他們位於葵芳的私人Band 房。
   - [After10 Apple Music](https://music.apple.com/hk/artist/after10/985607789)
   - [After10 新浪微博](http://weibo.com/after10hk)
   - [After10 Streetvoice專頁](http://tw.streetvoice.com/after10)
-  - [After10 INDIEVOX專頁](https://www.indievox.com/after10hk)
+  - [After10 INDIEVOX專頁](https://web.archive.org/web/20160820051603/https://www.indievox.com/after10hk)
   - [MOOV音樂 - After10](http://moov.netvigator.com/music/contributor/contributordetail.do?contributorid=00202904&roleid=Artist&ptype=AUDIO)
 
 <!-- end list -->

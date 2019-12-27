@@ -247,7 +247,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金惠奫" title="wikilink">金惠奫</a></p></td>
+<td><p><a href="../Page/金惠奫.md" title="wikilink">金惠奫</a></p></td>
 <td></td>
 <td><p>离家出走的青少年（EP5）</p></td>
 </tr>

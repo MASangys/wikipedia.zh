@@ -4,7 +4,7 @@
 
 **孫勝完**於1994年2月21日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")[城北區城北洞](https://zh.wikipedia.org/wiki/城北區 "wikilink")，屬於首爾高尚半山住宅區，當時就讀堤川中心小學。因姐姐孫勝希（音譯）的關係，小學5年級時便獨自留學在[加拿大](../Page/加拿大.md "wikilink")\[4\]\[5\]\[6\]，之后孫勝完的家人從韓國移民至[加拿大](../Page/加拿大.md "wikilink")的[多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink")。\[7\]\[8\]由於家人都是喜愛音樂，孫勝完從5歲時就有要當[歌手](../Page/歌手.md "wikilink")的夢想。\[9\]除了她对歌唱的热情，她还能够演奏几种乐器，包括[钢琴](../Page/钢琴.md "wikilink")，[吉他](../Page/吉他.md "wikilink")，[长笛](../Page/长笛.md "wikilink")和[萨克斯風](https://zh.wikipedia.org/wiki/萨克斯風 "wikilink")。\[10\]
 
-留學時期，孫勝完住在[安大略省](../Page/安大略省.md "wikilink")的[布罗克维尔](https://zh.wikipedia.org/wiki/布罗克维尔 "wikilink")，然後前往[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[明尼苏达州](https://zh.wikipedia.org/wiki/明尼苏达州 "wikilink")[法里博的](https://zh.wikipedia.org/wiki/法里博_\(明尼蘇達州\) "wikilink")就讀。她以“Wendy Shon”的身份留學，凴自己的成績獲得許多榮耀，成爲一名榮譽生。她也曾參加籃球、[曲棍球](../Page/草地曲棍球.md "wikilink")，也是女子[高爾夫球](../Page/高爾夫球.md "wikilink")團員，其中四位隊友是女子冰球聯盟（NWHL）職業球員，而當中一位是在[2018年平昌奧運會獲得金牌的美國](https://zh.wikipedia.org/wiki/2018年冬季奥林匹克运动会 "wikilink")[冰球](../Page/冰球.md "wikilink")國手。\[11\]<ref>
+留學時期，孫勝完住在[安大略省](../Page/安大略省.md "wikilink")的[布罗克维尔](https://zh.wikipedia.org/wiki/布罗克维尔 "wikilink")，然後前往[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[明尼苏达州](https://zh.wikipedia.org/wiki/明尼苏达州 "wikilink")[法里博的](https://zh.wikipedia.org/wiki/法里博_\(明尼蘇達州\) "wikilink")就讀。她以“Wendy Shon”的身份留學，凴自己的成績獲得許多榮耀，成爲一名榮譽生。她也曾參加籃球、[曲棍球](../Page/草地曲棍球.md "wikilink")，也是女子[高爾夫球](../Page/高爾夫球.md "wikilink")團員，其中四位隊友是女子冰球聯盟（NWHL）職業球員，而當中一位是在[2018年平昌奧運會獲得金牌的美國](../Page/2018年冬季奥林匹克运动会.md "wikilink")[冰球](../Page/冰球.md "wikilink")國手。\[11\]<ref>
 
   -
   -
@@ -688,6 +688,7 @@
 
   -
 
+  -
   -
   -
   -

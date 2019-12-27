@@ -1,4 +1,4 @@
-**IR石川鐵道線**（）是一條連結[石川縣](../Page/石川縣.md "wikilink")[金澤市](../Page/金澤市.md "wikilink")的[金澤站與](https://zh.wikipedia.org/wiki/金澤站 "wikilink")[石川縣](../Page/石川縣.md "wikilink")[河北郡](https://zh.wikipedia.org/wiki/河北郡 "wikilink")[津幡町的](https://zh.wikipedia.org/wiki/津幡町 "wikilink")[俱利伽羅站](../Page/俱利伽羅站.md "wikilink")，屬於[IR石川鐵道](../Page/IR石川鐵道.md "wikilink")的鐵道路線。起初是[北陸本線](../Page/北陸本線.md "wikilink")的一部分，2015年3月14日[北陸新幹線](../Page/北陸新幹線.md "wikilink")[長野站](https://zh.wikipedia.org/wiki/長野站 "wikilink")－[金澤站間開業之際自](https://zh.wikipedia.org/wiki/金澤站 "wikilink")[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）經營分離路段的一部分。
+**IR石川鐵道線**（）是一條連結[石川縣](../Page/石川縣.md "wikilink")[金澤市](../Page/金澤市.md "wikilink")的[金澤站](../Page/金澤站.md "wikilink")與[石川縣](../Page/石川縣.md "wikilink")[河北郡](https://zh.wikipedia.org/wiki/河北郡 "wikilink")[津幡町的](https://zh.wikipedia.org/wiki/津幡町 "wikilink")[俱利伽羅站](../Page/俱利伽羅站.md "wikilink")，屬於[IR石川鐵道](../Page/IR石川鐵道.md "wikilink")的鐵道路線。起初是[北陸本線](../Page/北陸本線.md "wikilink")的一部分，2015年3月14日[北陸新幹線](../Page/北陸新幹線.md "wikilink")[長野站](../Page/長野站.md "wikilink")－[金澤站](../Page/金澤站.md "wikilink")間開業之際自[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）經營分離路段的一部分。
 
 ## 路線資料
 
@@ -6,7 +6,7 @@
       - IR石川鐵道（[第一種鐵道事業者](https://zh.wikipedia.org/wiki/鐵路公司 "wikilink")）：
           - 金澤－俱利伽羅間 17.8公里
               -
-                距離標沿用移管前的北陸本線（[米原起計](https://zh.wikipedia.org/wiki/米原站 "wikilink")），線內各平交道記載的距離數也是米原起計算。
+                距離標沿用移管前的北陸本線（[米原起計](../Page/米原站.md "wikilink")），線內各平交道記載的距離數也是米原起計算。
       - [日本貨物鐵道](https://zh.wikipedia.org/wiki/日本貨物鐵道 "wikilink")（[第二種鐵道事業者](https://zh.wikipedia.org/wiki/鐵路公司 "wikilink")）：
           - 金澤－俱利伽羅間 17.8公里
   - [軌距](https://zh.wikipedia.org/wiki/軌距 "wikilink")：1067毫米
@@ -24,7 +24,7 @@
 
   - 1898年：
 
-:\* 4月1日：[北陸線](../Page/北陸本線.md "wikilink")[小松](../Page/小松站.md "wikilink")～[金澤間伸延開業](https://zh.wikipedia.org/wiki/金澤站 "wikilink")。
+:\* 4月1日：[北陸線](../Page/北陸本線.md "wikilink")[小松](../Page/小松站.md "wikilink")～[金澤間伸延開業](../Page/金澤站.md "wikilink")。
 
 :\* 11月1日：北陸線金澤～[高岡間延伸開業](https://zh.wikipedia.org/wiki/高岡站 "wikilink")。[津幡站](../Page/津幡站.md "wikilink")啟用。
 
@@ -94,7 +94,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金澤站" title="wikilink">金澤</a></p></td>
+<td><p><a href="../Page/金澤站.md" title="wikilink">金澤</a></p></td>
 <td></td>
 <td></td>
 <td><p>-</p></td>
@@ -102,7 +102,7 @@
 <td><p>176.6</p></td>
 <td><p>●</p></td>
 <td><p><a href="../Page/西日本旅客鐵道.md" title="wikilink">西日本旅客鐵道</a>：<a href="https://zh.wikipedia.org/wiki/File:Shinkansen_jrw.svg" title="fig:Shinkansen_jrw.svg">Shinkansen_jrw.svg</a> <a href="../Page/北陸新幹線.md" title="wikilink">北陸新幹線</a>、<a href="../Page/北陸本線.md" title="wikilink">北陸本線</a><br />
-： …<a href="https://zh.wikipedia.org/wiki/金澤站" title="wikilink">北鐵金澤</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/北陸鐵道" title="wikilink">北陸鐵道</a>： …<a href="../Page/金澤站.md" title="wikilink">北鐵金澤</a></p></td>
 <td><p><a href="../Page/金澤市.md" title="wikilink">金澤市</a></p></td>
 </tr>
 <tr class="even">

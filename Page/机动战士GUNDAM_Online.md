@@ -78,7 +78,7 @@
 
   - 高达无双
   - 机动战士高达 CROSS DIMENSION 0079
-  - [机动战士高达外传 THE BLUE DESTINY](https://zh.wikipedia.org/wiki/机动战士GUNDAM外传_THE_BLUE_DESTINY "wikilink")
+  - [机动战士高达外传 THE BLUE DESTINY](../Page/机动战士GUNDAM外传_THE_BLUE_DESTINY.md "wikilink")
   - [机动战士高达外传 殖民地堕落之地…](../Page/機動戰士GUNDAM外傳_殖民地墮落之地.md "wikilink")
   - [机动战士高达战记 Lost War Chronicles](../Page/機動戰士GUNDAM戰記_Lost_War_Chronicles.md "wikilink")
   - 机动战士高达 相逢在宇宙

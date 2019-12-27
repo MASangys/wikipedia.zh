@@ -6,7 +6,7 @@
   - *Blaptica aurorae* Hepper, 1966
   - ''Blaptica confusa Lopes & de Oliveira, 2005
   - *Blaptica daguerrei* Hepper, 1968
-  - *Blaptica dubia* (Serville, 1839)\]\]
+  - *[Blaptica dubia](https://zh.wikipedia.org/wiki/杜比亞蟑螂 "wikilink")* (Serville, 1839)
   - *Blaptica dureti* Hepper, 1968
   - *Blaptica fernandezi* Hepper, 1966
   - *Blaptica formosa* Lopes & de Oliveira, 2005

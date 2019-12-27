@@ -1,14 +1,14 @@
-《**Complete**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的首張韓語正規專輯，於2015年6月29日發行\[1\]，主打曲目為《沒關係》（）。
+《**Complete**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的首張韓語正規專輯，於2015年6月29日發行\[1\]，主打曲目為〈沒關係〉（）。
 
 ## 背景
 
-2015年6月4日，韓國有媒體指出BTOB將會在6月下旬發行首張韓語正規專輯\[2\]，隨後6月16日[Cube娛樂](../Page/Cube娛樂.md "wikilink")在BTOB官方[Twitter](../Page/Twitter.md "wikilink")發布首張概念照片，預告他們將在6月29日回歸，而新專輯則定名為《Complete》\[3\]，並首次選用抒情曲《沒關係》作為主打曲，藉以展現團體成員的歌唱實力\[4\]。
+2015年6月4日，韓國有媒體指出BTOB將會在6月下旬發行首張韓語正規專輯\[2\]，隨後6月16日[Cube娛樂](../Page/Cube娛樂.md "wikilink")在BTOB官方[Twitter](../Page/Twitter.md "wikilink")發布首張概念照片，預告他們將在6月29日回歸，而新專輯則定名為《Complete》\[3\]，並首次選用抒情曲〈沒關係〉作為主打曲，藉以展現團體成員的歌唱實力\[4\]。
 
 6月18日，BTOB在[SNS公開完整專輯曲目名單](https://zh.wikipedia.org/wiki/SNS "wikilink")\[5\]，同時在官方[Facebook](../Page/Facebook.md "wikilink")發放個人概念照片\[6\]；而專輯歌曲試聽影片則分兩批於6月23日及6月24日在官方[YouTube](../Page/YouTube.md "wikilink")頻道推出\[7\]\[8\]。
 
-主打曲《沒關係》音樂錄影帶的個人版和團體版預告在6月27日和6月28日公布\[9\]\[10\]、6月29日隨專輯音源公開完整音樂錄影帶\[11\]。
+主打曲〈沒關係〉音樂錄影帶的個人版和團體版預告在6月27日和6月28日公布\[9\]\[10\]、6月29日隨專輯音源公開完整音樂錄影帶\[11\]。
 
-專輯公開後，《沒關係》在Melon、[Mnet](../Page/Mnet.md "wikilink")、Soribada、[Genie](https://zh.wikipedia.org/wiki/Genie "wikilink")、Olleh Music與[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") Music都獲得了音源榜冠軍位置，他們在專輯發表會中對此表示十分激動與興奮\[12\]\[13\]。
+專輯公開後，〈沒關係〉在Melon、[Mnet](../Page/Mnet.md "wikilink")、Soribada、[Genie](https://zh.wikipedia.org/wiki/Genie "wikilink")、Olleh Music與[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") Music都獲得了音源榜冠軍位置，他們在專輯發表會中對此表示十分激動與興奮\[12\]\[13\]。
 
 ## 曲目
 

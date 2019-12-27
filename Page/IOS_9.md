@@ -324,7 +324,7 @@ iOS 9能運行於所有搭載[iOS 8的裝置上](https://zh.wikipedia.org/wiki/i
 80.
 81.
 82.
-83.  好有格設計|accessdate=2018-08-06|work=www.theaccentstudio.net|language=en-US|archive-url=[https://web.archive.org/web/20180806145822/http://www.theaccentstudio.net/%E3%80%90%E5%A5%BD%E6%9C%89%E6%A0%BC%E4%BA%82%E7%A8%BF%E3%80%91apple%E6%9C%80%E6%96%B0%E5%AD%97%E9%AB%94-san-francisco/|archive-date=2018-08-06|dead-url=no](https://web.archive.org/web/20180806145822/http://www.theaccentstudio.net/%E3%80%90%E5%A5%BD%E6%9C%89%E6%A0%BC%E4%BA%82%E7%A8%BF%E3%80%91apple%E6%9C%80%E6%96%B0%E5%AD%97%E9%AB%94-san-francisco/%7Carchive-date=2018-08-06%7Cdead-url=no)}}
+83.  好有格設計|accessdate=2018-08-06|work=www.theaccentstudio.net|language=en-US|archive-url=[https://web.archive.org/web/20180806145822/http://www.theaccentstudio.net/%E3%80%90%E5%A5%BD%E6%9C%89%E6%A0%BC%E4%BA%82%E7%A8%BF%E3%80%91apple%E6%9C%80%E6%96%B0%E5%AD%97%E9%AB%94-san-francisco/|archive-date=2018-08-06|dead-url=yes](https://web.archive.org/web/20180806145822/http://www.theaccentstudio.net/%E3%80%90%E5%A5%BD%E6%9C%89%E6%A0%BC%E4%BA%82%E7%A8%BF%E3%80%91apple%E6%9C%80%E6%96%B0%E5%AD%97%E9%AB%94-san-francisco/%7Carchive-date=2018-08-06%7Cdead-url=yes)}}
 84.
 85.
 86.

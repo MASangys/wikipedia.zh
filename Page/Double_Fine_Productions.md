@@ -98,7 +98,7 @@
 <td><p>2013年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/The_Playroom#追加下載內容" title="wikilink">My Alien Buddy</a></p></td>
 <td><p><em>My Alien Buddy</em></p></td>
-<td><p>PlayStation 4（適用<a href="https://zh.wikipedia.org/wiki/PlayStation_Camera" title="wikilink">PlayStation Camera</a>）</p></td>
+<td><p>PlayStation 4（適用<a href="../Page/PlayStation_Camera.md" title="wikilink">PlayStation Camera</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>

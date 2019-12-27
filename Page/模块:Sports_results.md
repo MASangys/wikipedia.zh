@@ -39,7 +39,7 @@ local p = {}
 `   `
 `   -- Create header`
 `   -- Open table`
-`   table.insert(t,'{|class="wikitable plainrowheaders" style="text-align:center; font-family:微軟正黑體;"\n') `
+`   table.insert(t,'{|class="wikitable plainrowheaders" style="text-align:center;"\n') `
 `   -- First column`
 `   t_return.count = 0          -- Dummy parameter, using subfunction call seems best at this point because both module are intertwined`
 `   t_return.tab_text = t       -- Actual text`

@@ -55,7 +55,7 @@
 </tr>
 <tr class="odd">
 <td><p>标配变速箱</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/自动变速箱" title="wikilink">6速自动变速箱</a></p></td>
+<td><p>6速<a href="https://zh.wikipedia.org/wiki/手动变速箱" title="wikilink">手排</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

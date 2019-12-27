@@ -4,9 +4,9 @@
 
 ## 外部連結
 
-  - [Ricoh Imaging: Lens compatibility](http://www.us.ricoh-imaging.com/products/lens-compatibility)
+  - [Ricoh Imaging: Lens compatibility](https://web.archive.org/web/20150815115343/http://www.us.ricoh-imaging.com/products/lens-compatibility)
   - [The Evolution of the Pentax K-mount – Technical Information and a Little Bit of History](http://www.pentaxforums.com/articles/photo-articles/evolution-of-pentax-k-mount.html)
-  - [Bojidar Dimitrov's Pentax K-mount page](http://kmp.bdimitrov.de/)
+  - [Bojidar Dimitrov's Pentax K-mount page](https://web.archive.org/web/20150811093720/http://kmp.bdimitrov.de/)
   - [List of cameras with a Pentax K-mount](https://web.archive.org/web/20060222072318/http://www.butkus.org/chinon/ultimate_k-mount.htm)
   - [List of Pentax K lenses and some comparison on bokeh and flare, also selected non-Pentax ones](http://plg.komkon.org)
   - [The largest database of PK-lens mount](http://www.photopentax.com/compatibilite-en.html)

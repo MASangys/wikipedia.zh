@@ -14,7 +14,7 @@ Spark專案包含下列幾項:
 
 ### Spark核心和彈性分散式資料集（RDDs）
 
-Spark核心是整個專案的基礎，提供了分散式任務調度，排程和基本的I／O功能。而其基礎的程序抽象則稱為彈性分散式資料集（RDDs），是一個可以并行操作、有容錯機制的資料集合。 RDDs可以透過引用外部存儲系統的資料集建立（例如：共享文件系統、HDFS、HBase或其他 Hadoop 資料格式的資料來源）。或者是透過在現有RDDs的轉換而創建（比如：map、filter、reduce、join等等）。
+Spark核心是整個專案的基礎，提供了分散式任務調度，排程和基本的I／O功能。而其基礎的程序抽象則稱為彈性分散式資料集（RDDs），是一個可以并行操作、有容錯機制的資料集合。 RDDs可以透過引用外部存儲系統的資料集建立（例如：共享文件系統、HDFS、HBase或其他 Hadoop 資料格式的資料來源）。或者是通過在現有RDDs的轉換而創建（比如：map、filter、reduce、join等等）。
 
 RDD抽象化是經由一個以[Scala](../Page/Scala.md "wikilink"), [Java](../Page/Java.md "wikilink"), [Python](../Page/Python.md "wikilink")的語言集成API所呈現，簡化了編程複雜性，應用程序操縱RDDs的方法類似於操縱本地端的資料集合。
 

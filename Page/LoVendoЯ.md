@@ -158,10 +158,10 @@
 <p>9会場10公演</p>
 </div>
 <div class="NavContent" style="text-align:center">
-<p>3月27日 <a href="https://zh.wikipedia.org/wiki/LIQUIDROOM" title="wikilink">LIQUIDROOM</a>（東京）<br />
+<p>3月27日 <a href="../Page/LIQUIDROOM.md" title="wikilink">LIQUIDROOM</a>（東京）<br />
 4月3日 umeda AKASO（大阪）<br />
 4月8日 DRUM Be-1（福岡）<br />
-4月9日 広島<a href="https://zh.wikipedia.org/wiki/CLUB_QUATTRO" title="wikilink">CLUB QUATTRO</a>（広島）<br />
+4月9日 広島<a href="../Page/CLUB_QUATTRO.md" title="wikilink">CLUB QUATTRO</a>（広島）<br />
 4月15日 <a href="https://zh.wikipedia.org/wiki/Electric_Lady_Land" title="wikilink">ell.FITS ALL</a>（愛知）<br />
 4月22日 <a href="https://zh.wikipedia.org/wiki/エドワード・エンターテインメント・グループ#darwin" title="wikilink">darwin</a>（宮城）<br />
 4月23日 HEAVEN'S ROCK 宇都宮 VJ-2（栃木）<br />

@@ -54,7 +54,7 @@
 
 ## 外部連結
 
-  - [Cystatin: a protein that flips out\!](http://www.ebi.ac.uk/pdbe/quips?story=Cystatin) QUite Interesting PDB Structure article at [PDBe](http://www.pdbe.org)
+  - [Cystatin: a protein that flips out\!](https://web.archive.org/web/20130928064442/http://www.ebi.ac.uk/pdbe/quips?story=Cystatin) QUite Interesting PDB Structure article at [PDBe](http://www.pdbe.org)
   - The [MEROPS](../Page/MEROPS.md "wikilink") online database for peptidases and their inhibitors: [I25.004](http://merops.sanger.ac.uk/cgi-bin/merops.cgi?id=I25.004)
 
 [Category:人类蛋白质](https://zh.wikipedia.org/wiki/Category:人类蛋白质 "wikilink") [Category:蛋白质](https://zh.wikipedia.org/wiki/Category:蛋白质 "wikilink") [Category:肾脏学](https://zh.wikipedia.org/wiki/Category:肾脏学 "wikilink")

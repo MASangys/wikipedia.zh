@@ -63,4 +63,4 @@
   -
 [Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink") [Category:2015年电子游戏](https://zh.wikipedia.org/wiki/Category:2015年电子游戏 "wikilink") [Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink") [Category:任天堂3DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS独占游戏 "wikilink") [Category:Nintendo_Network遊戲](https://zh.wikipedia.org/wiki/Category:Nintendo_Network遊戲 "wikilink")
 
-1.  [](http://otakomu.jp/archives/259900.html)
+1.  【速報】3DS「スーパーロボット大戦BX」参戦する作品が判明！『SDガンダム外伝』『マクロス30』『機動戦士ガンダムAGE』 {{\!}} オタク.com}} |access-date=2015-05-19 |archive-url=<https://web.archive.org/web/20150520222945/http://otakomu.jp/archives/259900.html> |archive-date=2015-05-20 |dead-url=yes }}

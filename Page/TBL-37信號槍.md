@@ -1,4 +1,4 @@
-**TBL-37**是一款由位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[康乃狄克州](../Page/康乃狄克州.md "wikilink")的槍械製造商[貝茨&迪圖斯公司所設計及生產的肩射型](https://zh.wikipedia.org/wiki/貝茨&迪圖斯公司 "wikilink")[上擺式](https://zh.wikipedia.org/wiki/上擺式 "wikilink")[信號](https://zh.wikipedia.org/wiki/信號槍 "wikilink")[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，發射[37毫米信號彈](https://zh.wikipedia.org/wiki/37mm信號彈 "wikilink")。
+**TBL-37**是一款由位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[康乃狄克州](../Page/康乃狄克州.md "wikilink")的槍械製造商[貝茨&迪圖斯公司所設計及生產的肩射型](https://zh.wikipedia.org/wiki/貝茨&迪圖斯公司 "wikilink")[上擺式](https://zh.wikipedia.org/wiki/上擺式 "wikilink")[信號](https://zh.wikipedia.org/wiki/信號槍 "wikilink")[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，發射[37毫米信號彈](../Page/37mm信號彈.md "wikilink")。
 
 ## 概述
 
@@ -25,7 +25,7 @@ TBL-37信號彈發射器有兩種配置。第一種配置為手槍型，具有6�
   - [M79榴彈發射器](../Page/M79榴彈發射器.md "wikilink")
   - [B\&T GL-06榴彈發射器](../Page/B&T_GL-06榴彈發射器.md "wikilink")
   - [40毫米榴彈](../Page/40毫米榴彈.md "wikilink")
-  - [37毫米信號彈](https://zh.wikipedia.org/wiki/37mm信號彈 "wikilink")
+  - [37毫米信號彈](../Page/37mm信號彈.md "wikilink")
   - [HK P2A1信號槍](../Page/HK_P2A1信號槍.md "wikilink")
 
 ## 資料來源

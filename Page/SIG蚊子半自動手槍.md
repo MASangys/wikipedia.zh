@@ -1,4 +1,4 @@
-**SIG蚊子**（；以下簡稱為「蚊子」）是一把由[德国](../Page/德国.md "wikilink")槍械公司[西格-紹爾研製](../Page/西格&紹爾.md "wikilink")、[德國運動槍有限公司生產的一把等比例縮小型](https://zh.wikipedia.org/wiki/德國運動槍有限公司 "wikilink")[反沖作用式](../Page/反沖作用_\(槍械\).md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，是以[SIG P226為藍本並將尺寸縮小](https://zh.wikipedia.org/wiki/SIG_P226半自動手槍 "wikilink")10％的版本，發射[.22 LR](../Page/.22_LR.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**SIG蚊子**（；以下簡稱為「蚊子」）是一把由[德国](../Page/德国.md "wikilink")槍械公司[西格-紹爾研製](../Page/西格&紹爾.md "wikilink")、[德國運動槍有限公司生產的一把等比例縮小型](https://zh.wikipedia.org/wiki/德國運動槍有限公司 "wikilink")[反沖作用式](../Page/反沖作用_\(槍械\).md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，是以[SIG P226為藍本並將尺寸縮小](../Page/SIG_P226半自動手槍.md "wikilink")10％的版本，發射[.22 LR](../Page/.22_LR.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 設計細節
 
@@ -8,7 +8,7 @@
 
 ### 規格
 
-標準型蚊子型號為[.22 LR](../Page/.22_LR.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，並且具有[雙／單動操作扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")。單動操作扳機的[扳機扣力為](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")4.4磅，而雙動則為12.4磅。相對於[SIG P226而言的](https://zh.wikipedia.org/wiki/SIG_P226半自動手槍 "wikilink")[聚合物](../Page/聚合物.md "wikilink")[底把和小型尺寸讓該手槍連彈匣的重量也僅比](../Page/机匣.md "wikilink")697.4克（24.6盎司，1.54磅）稍高。其全長、全寬和全高分別為182.88毫米（7.2英吋）、38.1毫米（1.5英吋）和134.62毫米（5.3英吋），而[槍管](../Page/槍管.md "wikilink")長度則為99.06毫米（3.9英吋）。\[2\]蚊子具有在底把[扳機護圈前方的防塵蓋所整合的一條附件導軌](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，10發容量彈匣和可調節[機械瞄具](../Page/機械瞄具.md "wikilink")。雖然蚊子是為了美國市場而生產，事實上現在卻是由[德國運動槍有限公司所特許生產](https://zh.wikipedia.org/wiki/德國運動槍有限公司 "wikilink")。\[3\]
+標準型蚊子型號為[.22 LR](../Page/.22_LR.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，並且具有[雙／單動操作扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")。單動操作扳機的[扳機扣力為](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")4.4磅，而雙動則為12.4磅。相對於[SIG P226而言的](../Page/SIG_P226半自動手槍.md "wikilink")[聚合物](../Page/聚合物.md "wikilink")[底把和小型尺寸讓該手槍連彈匣的重量也僅比](../Page/机匣.md "wikilink")697.4克（24.6盎司，1.54磅）稍高。其全長、全寬和全高分別為182.88毫米（7.2英吋）、38.1毫米（1.5英吋）和134.62毫米（5.3英吋），而[槍管](../Page/槍管.md "wikilink")長度則為99.06毫米（3.9英吋）。\[2\]蚊子具有在底把[扳機護圈前方的防塵蓋所整合的一條附件導軌](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，10發容量彈匣和可調節[機械瞄具](../Page/機械瞄具.md "wikilink")。雖然蚊子是為了美國市場而生產，事實上現在卻是由[德國運動槍有限公司所特許生產](https://zh.wikipedia.org/wiki/德國運動槍有限公司 "wikilink")。\[3\]
 
 ### 附件
 
@@ -69,10 +69,10 @@
 ## 參見
 
   - [SIG P224](https://zh.wikipedia.org/wiki/SIG_P224半自動手槍 "wikilink")
-  - [SIG P226](https://zh.wikipedia.org/wiki/SIG_P226半自動手槍 "wikilink")
-  - [SIG P227](https://zh.wikipedia.org/wiki/SIG_P227半自動手槍 "wikilink")
-  - [SIG P228](https://zh.wikipedia.org/wiki/SIG_P228半自動手槍 "wikilink")
-  - [SIG P229](https://zh.wikipedia.org/wiki/SIG_P229半自動手槍 "wikilink")
+  - [SIG P226](../Page/SIG_P226半自動手槍.md "wikilink")
+  - [SIG P227](../Page/SIG_P227半自動手槍.md "wikilink")
+  - [SIG P228](../Page/SIG_P228半自動手槍.md "wikilink")
+  - [SIG P229](../Page/SIG_P229半自動手槍.md "wikilink")
   - [SIG P230](../Page/SIG_P230手槍.md "wikilink")
 
 ## 資料來源

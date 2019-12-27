@@ -176,6 +176,15 @@
 
   - 9月21日，宣佈演唱電視動畫[魔髮精靈](../Page/魔髮精靈.md "wikilink")OP「Hair up 空へ」\&ED「もうサイコー！」。兩首歌即為翻唱作品。
 
+<!-- end list -->
+
+  - 2019年
+
+<!-- end list -->
+
+  - 5月8日官方公告，成員[淺倉樹樹因腰椎間盤突出症有明顯復發的情況發生](https://zh.wikipedia.org/wiki/淺倉樹樹 "wikilink")，因此必須再次暫停所有活動，進行休養與治療。
+  - 10月9日，於[早安家族](../Page/早安家族.md "wikilink")官方網路節目「ハロ！ステ」中宣布，[淺倉樹樹已能恢復部分藝能活動](https://zh.wikipedia.org/wiki/淺倉樹樹 "wikilink")。並且公布明年新單曲發售日程。
+
 ## 作品
 
 ### 單曲
@@ -275,6 +284,16 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>6th</p></td>
+<td><p>2020年1月15日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>第2張2A單曲。</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

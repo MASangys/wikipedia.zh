@@ -39,7 +39,7 @@ P238配有[铝](../Page/铝.md "wikilink")製[底把和](../Page/机匣.md "wiki
 
   - [瓦爾特PK380半自動手槍](https://zh.wikipedia.org/wiki/瓦爾特PK380半自動手槍 "wikilink")
 
-  - [SIG P938半自動手槍](https://zh.wikipedia.org/wiki/SIG_P938半自動手槍 "wikilink")
+  - [SIG P938半自動手槍](../Page/SIG_P938半自動手槍.md "wikilink")
 
 ## 資料來源
 

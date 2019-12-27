@@ -20,9 +20,11 @@ Linode 为顾客提供多样化的服务\[7\]\[8\]。它主要提供各种不同
 
 ### 資料中心
 
-至2017年3月，Linode在全球下列城市設有資料中心：
+至2019年12月，Linode在全球下列城市設有資料中心：
 
   - ：[紐華克](https://zh.wikipedia.org/wiki/紐華克 "wikilink")、[亞特蘭大](https://zh.wikipedia.org/wiki/亞特蘭大 "wikilink")、[佛蒙特](https://zh.wikipedia.org/wiki/佛蒙特 "wikilink")、[達拉斯](../Page/達拉斯.md "wikilink")
+
+  - ：[多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink")
 
   - ：[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")
 
@@ -31,6 +33,10 @@ Linode 为顾客提供多样化的服务\[7\]\[8\]。它主要提供各种不同
   - ：[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")1、東京2
 
   -
+  - ：[孟買](https://zh.wikipedia.org/wiki/孟買 "wikilink")
+
+  - ：[雪梨](https://zh.wikipedia.org/wiki/雪梨 "wikilink")
+
 ## 安全事故
 
 8名持有[比特币](../Page/比特币.md "wikilink")的 Linode 用户在2012年3月时自己持有的，估计约共40000枚比特币被窃。这些比特币在当时大约相当于7万美元\[16\]\[17\] 。

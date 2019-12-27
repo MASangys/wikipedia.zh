@@ -7,7 +7,7 @@
 ## 人员
 
   - [约翰·列侬](../Page/约翰·列侬.md "wikilink") – 双声轨（录音磁带）、主唱、节奏吉他
-  - [保罗·麦卡特尼](../Page/保罗·麦卡特尼.md "wikilink") – [和声](https://zh.wikipedia.org/wiki/和声 "wikilink")、[贝司](https://zh.wikipedia.org/wiki/低音吉他 "wikilink")
+  - [保罗·麦卡特尼](../Page/保罗·麦卡特尼.md "wikilink") – [和声](../Page/和声.md "wikilink")、[贝司](https://zh.wikipedia.org/wiki/低音吉他 "wikilink")
   - [乔治·哈里森](../Page/乔治·哈里森.md "wikilink") – 和声、主音吉他
   - [林戈·斯塔尔](https://zh.wikipedia.org/wiki/林戈·斯塔尔 "wikilink") – [鼓](../Page/鼓.md "wikilink")、[手鼓](https://zh.wikipedia.org/wiki/手鼓 "wikilink")、钟（乐器）
   - [乔治·马丁](../Page/乔治·马丁.md "wikilink") – [钢琴](../Page/钢琴.md "wikilink")

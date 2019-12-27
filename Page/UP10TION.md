@@ -256,7 +256,7 @@ UP10TION的官方粉絲名稱為「**HONEY10**」（） 代表著喜歡的人珍
 <thead>
 <tr class="header">
 <th><p>width="60px" style="background:#ffcc22 | 歌手</p></th>
-<th><p>width="350px" style="background:#ffcc22| 歌曲资料</p></th>
+<th><p>width="350px" style="background:#ffcc22| 歌曲資料</p></th>
 </tr>
 </thead>
 <tbody>
@@ -265,8 +265,8 @@ UP10TION的官方粉絲名稱為「**HONEY10**」（） 代表著喜歡的人珍
 <td><p>《Cherish》（보일 듯 말 듯）[37]</p>
 <ul>
 <li>發行日期：2016年3月11日</li>
-<li>語言：韩语</li>
-<li>收录专辑：《SPOTLIGHT》</li>
+<li>語言：韓語</li>
+<li>收錄專輯：《SPOTLIGHT》</li>
 </ul></td>
 </tr>
 </tbody>
@@ -274,12 +274,12 @@ UP10TION的官方粉絲名稱為「**HONEY10**」（） 代表著喜歡的人珍
 
 ### 原聲歌曲(OST)
 
-| width="150px" style="background:\#ffcc22 | 發布日期 | width="200px" style="background:\#ffcc22 | 歌曲名稱 | width="350px" style="background:\#ffcc22 | 專輯名稱                                                                                            | width="220px" style="background:\#ffcc22 | 參與成员 |
-| ----------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
-| 2016年6月20日                                      | 《RUN》                                           | [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")《[38師機動隊](../Page/38師機動隊.md "wikilink")》OST Part.1                                      | 鎮琥、碧土、善燏                                        |
-| 2017年4月18日                                      | 《Leave Me Alone》                                | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《Telemonster》OST                                                                        | 高潔、善燏、歡喜、曉悟                                     |
-| 2018年10月20日                                     | 《Flower》                                        | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[Ms.Ma，復仇的女神](../Page/Ms.Ma，復仇的女神.md "wikilink")》OST Part.3                            | 偉、善燏、歡喜                                         |
-| 2019年11月9日                                      | 《OH\! Ready\!》                                  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[延南洞Global House](https://zh.wikipedia.org/wiki/延南洞Global_House "wikilink")》OST Part.1 | 善燏、歡喜、曉悟                                        |
+| width="150px" style="background:\#ffcc22 | 發布日期 | width="200px" style="background:\#ffcc22 | 歌曲名稱 | width="350px" style="background:\#ffcc22 | 專輯名稱                                                                         | width="220px" style="background:\#ffcc22 | 參與成员 |
+| ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 2016年6月20日                                      | 《RUN》                                           | [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")《[38師機動隊](../Page/38師機動隊.md "wikilink")》OST Part.1                   | 鎮琥、碧土、善燏                                        |
+| 2017年4月18日                                      | 《Leave Me Alone》                                | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《Telemonster》OST                                                     | 高潔、善燏、歡喜、曉悟                                     |
+| 2018年10月20日                                     | 《Flower》                                        | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[Ms.Ma，復仇的女神](../Page/Ms.Ma，復仇的女神.md "wikilink")》OST Part.3         | 偉、善燏、歡喜                                         |
+| 2019年11月9日                                      | 《OH\! Ready\!》                                  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[延南洞Global House](../Page/延南洞Global_House.md "wikilink")》OST Part.1 | 善燏、歡喜、曉悟                                        |
 
 ## 影視作品
 
@@ -299,90 +299,95 @@ UP10TION的官方粉絲名稱為「**HONEY10**」（） 代表著喜歡的人珍
 
 ### 參與綜藝節目
 
-|                   |                                                                        |                                                                     |                                                                      |                                                                 |               |
-| ----------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------------------------- | ------------- |
-| 年份                | 日期                                                                     | 電視台                                                                 | 節目名稱                                                                 | 參與成員                                                            | 備註            |
-| 2015年             | 9月9日                                                                   | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")               | 《MV Bank Stardust 2》                                                 | 全體                                                              |               |
-| 9月26日、9月27日       | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")            | 《2015偶像運動會-中秋特輯 》                                                   | 全體                                                                   |                                                                 |               |
-| 9月28日             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《全國偶像歌唱大賽》                                                          | 全體                                                                   |                                                                 |               |
-| 9月29日             | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")      | 《[After School Club](../Page/After_School_Club.md "wikilink")》      | 全體                                                                   | EP.179                                                          |               |
-| 10月9日             | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《改變世界的Quiz》                                                         | 坤、高潔、[宇信](../Page/金宇碩.md "wikilink")、奎真、曉悟                           | EP.314（出演VCR）                                                   |               |
-| 10月13日            | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《MV Bank Stardust 2》                                                | 全體                                                                   |                                                                 |               |
-| 10月14日            | [MWave](https://zh.wikipedia.org/wiki/MWave "wikilink")                | 《Meet & Greet》                                                      | 全體                                                                   |                                                                 |               |
-| 10月30日            | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《改變世界的Quiz》                                                         | 坤、[宇信](../Page/金宇碩.md "wikilink")                                    | EP.317（出演VCR）                                                   |               |
-| 11月10日、11月17日     | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《[1 VS 100](../Page/1_VS_100.md "wikilink")》                        | 坤、[宇信](../Page/金宇碩.md "wikilink")                                    |                                                                 |               |
-| 11月28日            | [KBS](../Page/韓國放送公社.md "wikilink")                                    | 《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》                  | 全體                                                                   | EP.227                                                          |               |
-| 12月1日             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《MV Bank Stardust 2》                                                | 全體                                                                   |                                                                 |               |
-| 12月16日            | [MWave](https://zh.wikipedia.org/wiki/MWave "wikilink")                | 《Meet & Greet》                                                      | 全體                                                                   |                                                                 |               |
-| 12月27日            | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")                | 《[Running Man](../Page/Running_Man.md "wikilink")》                  | 坤、高潔、碧土、[宇信](../Page/金宇碩.md "wikilink")、曉悟                           | EP.279（特別演出）                                                    |               |
-| 12月29日            | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《明星王Star King》                                                      | 坤、高潔、[宇信](../Page/金宇碩.md "wikilink")                                 |                                                                 |               |
-| 12月29日            | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")                    | 《挑戰金鐘》                                                              | 全體                                                                   |                                                                 |               |
-| 2016年             | 1月5日                                                                   | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")   | 《[After School Club](../Page/After_School_Club.md "wikilink")》       | 全體                                                              | EP.193        |
-| 1月10日、1月17日       | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")            | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                    | 善燏                                                                   | EP.41、42                                                        |               |
-| 1月11日             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《逃離危機No.1》                                                          | 高潔、[宇信](../Page/金宇碩.md "wikilink")、坤                                 | EP.515（出演VCR）                                                   |               |
-| 1月12日             | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《明星王Star King》                                                      | 坤                                                                    |                                                                 |               |
-| 1月13日             | MBC Every1                                                             | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                  | 全體                                                                   | EP.233                                                          |               |
-| 2月6日              | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《社長在看》                                                              | 全體                                                                   |                                                                 |               |
-| 2月8日              | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《全國偶像歌唱大賽》                                                          | 全體                                                                   |                                                                 |               |
-| 2月9日              | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")      | 《[After School Club](../Page/After_School_Club.md "wikilink")》      | 奎真                                                                   | EP.198                                                          |               |
-| 2月9日、2月10日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《[MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》 | 全體                                                                   |                                                                 |               |
-| 2月14日             | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")                    | 《挑戰金鐘》                                                              | 全體                                                                   |                                                                 |               |
-| 2月23日             | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《明星王Star King》                                                      | 坤、歡喜                                                                 |                                                                 |               |
-| 2月29日             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《逃離危機No.1》                                                          | 奎真、曉悟                                                                | EP.521（出演VCR）                                                   |               |
-| 3月8日              | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《明星王Star King》                                                      | 坤、歡喜                                                                 |                                                                 |               |
-| 3月23日             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《MV Bank Stardust 2》                                                | 高潔、偉、碧土、[宇信](../Page/金宇碩.md "wikilink")、善燏                           |                                                                 |               |
-| 4月22日             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《2TV 早晨》                                                            | 全體                                                                   |                                                                 |               |
-| 5月4日              | Onstyle                                                                | 《[明星義賣](../Page/明星義賣.md "wikilink")》                                | 全體                                                                   |                                                                 |               |
-| 5月6日              | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《[二重唱歌謠祭](https://zh.wikipedia.org/wiki/二重唱歌謠祭 "wikilink")》         | 善燏、曉悟                                                                | EP.5（聽審團）                                                       |               |
-| 5月9日              | [MWave](https://zh.wikipedia.org/wiki/MWave "wikilink")                | 《Meet & Greet》                                                      | 全體                                                                   |                                                                 |               |
-| 5月16日             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》                      | [宇信](../Page/金宇碩.md "wikilink")                                      | EP.275                                                          |               |
-| 5月21日             | 音悅Tai & PIKICAST                                                       | 《飯心攻略 偶像TV》                                                         | 全體                                                                   | EP.10                                                           |               |
-| 6月7日              | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《明星王Star King》                                                      | 鎮琥、坤、高潔、偉、[宇信](../Page/金宇碩.md "wikilink")、曉悟                         |                                                                 |               |
-| 6月29日             | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")                    | 《[小區明星全國放送](../Page/小區明星全國放送.md "wikilink")》                        | [宇信](../Page/金宇碩.md "wikilink")、善燏                                   | EP.13                                                           |               |
-| 7月27日、8月3日        | JTBC2                                                                  | 《[演藝班長](https://zh.wikipedia.org/wiki/演藝班長 "wikilink") 今天做什麼》       | 全體                                                                   |                                                                 |               |
-| 8月16日             | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")      | 《[After School Club](../Page/After_School_Club.md "wikilink")》      | 全體                                                                   | EP.225                                                          |               |
-| 8月28日             | MBC Every1                                                             | 《美味地圖 2》                                                            | 高潔、曉悟                                                                |                                                                 |               |
-| 9月6日              | [MWave](https://zh.wikipedia.org/wiki/MWave "wikilink")                | 《Meet & Greet》                                                      | 全體                                                                   |                                                                 |               |
-| 9月14日             | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《[偶像料理王](../Page/偶像料理王.md "wikilink")》                              | 全體                                                                   |                                                                 |               |
-| 9月15日             | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《[MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》 | 全體                                                                   |                                                                 |               |
-| 9月16日             | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《[二重唱歌謠祭](https://zh.wikipedia.org/wiki/二重唱歌謠祭 "wikilink")》         | 善燏                                                                   | EP.22（秋夕特輯）                                                     |               |
-| 9月21日             | [Mnet](../Page/Mnet.md "wikilink")                                     | 《[Hit The Stage](../Page/Hit_The_Stage.md "wikilink")》              | 碧土                                                                   | EP.9                                                            |               |
-| 10月17日            | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")                    | 《藝能人力所》                                                             | 坤                                                                    |                                                                 |               |
-| 11月9日-11月23日      | MBN                                                                    | 《[放羊狼少年的大叔牧場](https://zh.wikipedia.org/wiki/放羊狼少年的大叔牧場 "wikilink")》 | 曉悟                                                                   | EP.1-3（固定成员）                                                    |               |
-| 11月23日            | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《MV Bank Stardust 2》                                                | 全體                                                                   |                                                                 |               |
-| 11月28日            | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《[大國民脱口秀-你好](https://zh.wikipedia.org/wiki/大國民脱口秀-你好 "wikilink")》   | 坤、偉                                                                  | EP.301                                                          |               |
-| 12月6日             | [BS2](https://zh.wikipedia.org/wiki/BS2 "wikilink")                    | 《[1 VS 100](../Page/1_VS_100.md "wikilink")》                        | 坤                                                                    |                                                                 |               |
-| 12月27日            | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《[Game show遊戲樂樂](../Page/Game_show遊戲樂樂.md "wikilink")》              | 全體                                                                   | EP.2（VCR出演）                                                     |               |
-| 12月27日-2017年5月13日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《[Game show遊戲樂樂](../Page/Game_show遊戲樂樂.md "wikilink")》              | [宇信](../Page/金宇碩.md "wikilink")                                      | EP.2-19（希澈遊戲團固定團員）                                              |               |
-| 2017年             | 1月11日、1月29日                                                            | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                 | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                     | [宇信](../Page/金宇碩.md "wikilink")                                 | EP.95、96（聽審團） |
-| 1月30日             | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《[偶像明星運動會](../Page/偶像明星運動會.md "wikilink")》                          | 全體                                                                   |                                                                 |               |
-| 3月31日             | [KBS World](../Page/KBS_World.md "wikilink")                           | 《K-RUSH》                                                            | 高潔、偉、碧土、善燏、奎真、歡喜                                                     |                                                                 |               |
-| 4月12日、4月19日       | MBC Every1                                                             | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                  | 坤                                                                    | 《蒙面偶像，你的名字是？》環節                                                 |               |
-| 5月21日             | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")                    | 《挑戰金鐘》                                                              | 全體                                                                   |                                                                 |               |
-| 7月11日             | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")      | 《[After School Club](../Page/After_School_Club.md "wikilink")》      | 全體                                                                   | EP.272                                                          |               |
-| 7月23日             | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                    | 歡喜                                                                   | EP.121                                                          |               |
-| 7月23日、7月30日       | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《[Fantastic Duo 2](../Page/Fantastic_Duo_2.md "wikilink")》          | 鎮琥、坤、碧土、善燏、奎真、曉悟                                                     | EP.17、18                                                        |               |
-| 9月17日、9月24日       | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《[Fantastic Duo 2](../Page/Fantastic_Duo_2.md "wikilink")》          | 鎮琥、坤、高潔、善燏                                                           | EP.25、26                                                        |               |
-| 11月10日、11月17日     | [KBS World](../Page/KBS_World.md "wikilink")                           | 《K-RUSH 2-首爾探索》                                                     | 偉、碧土、奎真、歡喜、曉悟                                                        |                                                                 |               |
-| 11月19日            | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《[Fantastic Duo 2](../Page/Fantastic_Duo_2.md "wikilink")》          | 鎮琥、坤、高潔、善燏                                                           | EP.33                                                           |               |
-| 2018年             | 2月15日                                                                  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                 | 《[偶像明星運動會](../Page/偶像明星運動會.md "wikilink")》                           | 全體（除[宇信](../Page/金宇碩.md "wikilink")）                            |               |
-| 3月20日             | TBS TV                                                                 | 《Fact in star》                                                      | 全體                                                                   |                                                                 |               |
-| 9月25日             | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《[偶像明星運動會](../Page/偶像明星運動會.md "wikilink")》                          | 全體                                                                   |                                                                 |               |
-| 12月11日            | TBS TV                                                                 | 《Fact in star》                                                      | 全體                                                                   |                                                                 |               |
-| 12月11日            | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")      | 《[After School Club](../Page/After_School_Club.md "wikilink")》      | 全體                                                                   | EP.346                                                          |               |
-| 12月25日            | [KBS World](../Page/KBS_World.md "wikilink")                           | 《K-RUSH 3》                                                          | 全體                                                                   |                                                                 |               |
-| 2019年             | 5月3日-7月19日                                                             | [Mnet](../Page/Mnet.md "wikilink")                                  | 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》               | [鎭赫](../Page/李鎭赫.md "wikilink")、[宇信](../Page/金宇碩.md "wikilink") | EP.1-12       |
-| 8月10日             | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《[Radio Star](https://zh.wikipedia.org/wiki/Radio_Star "wikilink")》 | [鎭赫](../Page/李鎭赫.md "wikilink")                                      | EP.629（「不放棄」特輯）                                                 |               |
-| 8月24、31日          | [JTBC](../Page/JTBC.md "wikilink")                                     | 《[獨族App](../Page/獨族App.md "wikilink")》                              | [鎭赫](../Page/李鎭赫.md "wikilink")                                      | EP.4、5                                                          |               |
-| 9月3日-10月22日       | [JTBC](../Page/JTBC.md "wikilink")                                     | 《[快點說話吧](../Page/快點說話吧.md "wikilink")》                              | [鎭赫](../Page/李鎭赫.md "wikilink")                                      | EP.5-10（固定成員）                                                   |               |
-| 9月12日             | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《姐姐家的沙龍》                                                            | [鎭赫](../Page/李鎭赫.md "wikilink")                                      | 試播EP.2                                                          |               |
-| 9月14日             | [JTBC](../Page/JTBC.md "wikilink")                                     | 《[RUN.wav](../Page/RUN.wav.md "wikilink")》                          | 全體（除[鎭赫](../Page/李鎭赫.md "wikilink")、[宇信](../Page/金宇碩.md "wikilink")） | EP.13                                                           |               |
-| 9月25、29日          | 올레tv모바일, [LIFETIME](https://zh.wikipedia.org/wiki/LIFETIME "wikilink") | 《偶像茶館》                                                              | 全體（除[鎭赫](../Page/李鎭赫.md "wikilink")、[宇信](../Page/金宇碩.md "wikilink")） | EP.7                                                            |               |
-| 9月29日、10月20日      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《越線的傢伙們returns》                                                     | [鎭赫](../Page/李鎭赫.md "wikilink")                                      | EP.7、10                                                         |               |
-| 10月31日-           | [JTBC](../Page/JTBC.md "wikilink")                                     | 《乖僻的五兄弟》                                                            | [鎭赫](../Page/李鎭赫.md "wikilink")                                      | 固定成員                                                            |               |
-| 11月2日-            | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")                    | 《[唐吉訶德](https://zh.wikipedia.org/wiki/唐吉訶德_\(韓國綜藝\) "wikilink")》    | [鎭赫](../Page/李鎭赫.md "wikilink")                                      | 固定成員                                                            |               |
-| 11月3日             | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")                    | 《挑戰金鐘》                                                              | 全體（除[鎭赫](../Page/李鎭赫.md "wikilink")、[宇信](../Page/金宇碩.md "wikilink")） | 出演VCR                                                           |               |
-|                   |                                                                        |                                                                     |                                                                      |                                                                 |               |
+|                   |                                                                        |                                                                     |                                                                           |                                                                 |               |
+| ----------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------- |
+| 年份                | 日期                                                                     | 電視台                                                                 | 節目名稱                                                                      | 參與成員                                                            | 備註            |
+| 2015年             | 9月9日                                                                   | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")               | 《MV Bank Stardust 2》                                                      | 全體                                                              |               |
+| 9月26日、9月27日       | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")            | 《2015偶像運動會-中秋特輯 》                                                   | 全體                                                                        |                                                                 |               |
+| 9月28日             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《全國偶像歌唱大賽》                                                          | 全體                                                                        |                                                                 |               |
+| 9月29日             | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")      | 《[After School Club](../Page/After_School_Club.md "wikilink")》      | 全體                                                                        | EP.179                                                          |               |
+| 10月9日             | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《改變世界的Quiz》                                                         | 坤、高潔、[宇信](../Page/金宇碩.md "wikilink")、奎真、曉悟                                | EP.314（出演VCR）                                                   |               |
+| 10月13日            | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《MV Bank Stardust 2》                                                | 全體                                                                        |                                                                 |               |
+| 10月14日            | [MWave](https://zh.wikipedia.org/wiki/MWave "wikilink")                | 《Meet & Greet》                                                      | 全體                                                                        |                                                                 |               |
+| 10月30日            | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《改變世界的Quiz》                                                         | 坤、[宇信](../Page/金宇碩.md "wikilink")                                         | EP.317（出演VCR）                                                   |               |
+| 11月10日、11月17日     | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《[1 VS 100](../Page/1_VS_100.md "wikilink")》                        | 坤、[宇信](../Page/金宇碩.md "wikilink")                                         |                                                                 |               |
+| 11月28日            | [KBS](../Page/韓國放送公社.md "wikilink")                                    | 《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》                  | 全體                                                                        | EP.227                                                          |               |
+| 12月1日             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《MV Bank Stardust 2》                                                | 全體                                                                        |                                                                 |               |
+| 12月16日            | [MWave](https://zh.wikipedia.org/wiki/MWave "wikilink")                | 《Meet & Greet》                                                      | 全體                                                                        |                                                                 |               |
+| 12月27日            | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")                | 《[Running Man](../Page/Running_Man.md "wikilink")》                  | 坤、高潔、碧土、[宇信](../Page/金宇碩.md "wikilink")、曉悟                                | EP.279（特別演出）                                                    |               |
+| 12月29日            | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《明星王Star King》                                                      | 坤、高潔、[宇信](../Page/金宇碩.md "wikilink")                                      |                                                                 |               |
+| 12月29日            | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")                    | 《挑戰金鐘》                                                              | 全體                                                                        |                                                                 |               |
+| 2016年             | 1月5日                                                                   | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")   | 《[After School Club](../Page/After_School_Club.md "wikilink")》            | 全體                                                              | EP.193        |
+| 1月10日、1月17日       | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")            | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                    | 善燏                                                                        | EP.41、42                                                        |               |
+| 1月11日             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《逃離危機No.1》                                                          | 高潔、[宇信](../Page/金宇碩.md "wikilink")、坤                                      | EP.515（出演VCR）                                                   |               |
+| 1月12日             | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《明星王Star King》                                                      | 坤                                                                         |                                                                 |               |
+| 1月13日             | MBC Every1                                                             | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                  | 全體                                                                        | EP.233                                                          |               |
+| 2月6日              | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《社長在看》                                                              | 全體                                                                        |                                                                 |               |
+| 2月8日              | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《全國偶像歌唱大賽》                                                          | 全體                                                                        |                                                                 |               |
+| 2月9日              | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")      | 《[After School Club](../Page/After_School_Club.md "wikilink")》      | 奎真                                                                        | EP.198                                                          |               |
+| 2月9日、2月10日        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《[MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》 | 全體                                                                        |                                                                 |               |
+| 2月14日             | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")                    | 《挑戰金鐘》                                                              | 全體                                                                        |                                                                 |               |
+| 2月23日             | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《明星王Star King》                                                      | 坤、歡喜                                                                      |                                                                 |               |
+| 2月29日             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《逃離危機No.1》                                                          | 奎真、曉悟                                                                     | EP.521（出演VCR）                                                   |               |
+| 3月8日              | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《明星王Star King》                                                      | 坤、歡喜                                                                      |                                                                 |               |
+| 3月23日             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《MV Bank Stardust 2》                                                | 高潔、偉、碧土、[宇信](../Page/金宇碩.md "wikilink")、善燏                                |                                                                 |               |
+| 4月22日             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《2TV 早晨》                                                            | 全體                                                                        |                                                                 |               |
+| 5月4日              | Onstyle                                                                | 《[明星義賣](../Page/明星義賣.md "wikilink")》                                | 全體                                                                        |                                                                 |               |
+| 5月6日              | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《[二重唱歌謠祭](https://zh.wikipedia.org/wiki/二重唱歌謠祭 "wikilink")》         | 善燏、曉悟                                                                     | EP.5（聽審團）                                                       |               |
+| 5月9日              | [MWave](https://zh.wikipedia.org/wiki/MWave "wikilink")                | 《Meet & Greet》                                                      | 全體                                                                        |                                                                 |               |
+| 5月16日             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》                      | [宇信](../Page/金宇碩.md "wikilink")                                           | EP.275                                                          |               |
+| 5月21日             | 音悅Tai & PIKICAST                                                       | 《飯心攻略 偶像TV》                                                         | 全體                                                                        | EP.10                                                           |               |
+| 6月7日              | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《明星王Star King》                                                      | 鎮琥、坤、高潔、偉、[宇信](../Page/金宇碩.md "wikilink")、曉悟                              |                                                                 |               |
+| 6月29日             | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")                    | 《[小區明星全國放送](../Page/小區明星全國放送.md "wikilink")》                        | [宇信](../Page/金宇碩.md "wikilink")、善燏                                        | EP.13                                                           |               |
+| 7月27日、8月3日        | JTBC2                                                                  | 《[演藝班長](https://zh.wikipedia.org/wiki/演藝班長 "wikilink") 今天做什麼》       | 全體                                                                        |                                                                 |               |
+| 8月16日             | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")      | 《[After School Club](../Page/After_School_Club.md "wikilink")》      | 全體                                                                        | EP.225                                                          |               |
+| 8月28日             | MBC Every1                                                             | 《美味地圖 2》                                                            | 高潔、曉悟                                                                     |                                                                 |               |
+| 9月6日              | [MWave](https://zh.wikipedia.org/wiki/MWave "wikilink")                | 《Meet & Greet》                                                      | 全體                                                                        |                                                                 |               |
+| 9月14日             | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《[偶像料理王](../Page/偶像料理王.md "wikilink")》                              | 全體                                                                        |                                                                 |               |
+| 9月15日             | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《[MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》 | 全體                                                                        |                                                                 |               |
+| 9月16日             | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《[二重唱歌謠祭](https://zh.wikipedia.org/wiki/二重唱歌謠祭 "wikilink")》         | 善燏                                                                        | EP.22（秋夕特輯）                                                     |               |
+| 9月21日             | [Mnet](../Page/Mnet.md "wikilink")                                     | 《[Hit The Stage](../Page/Hit_The_Stage.md "wikilink")》              | 碧土                                                                        | EP.9                                                            |               |
+| 10月17日            | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")                    | 《藝能人力所》                                                             | 坤                                                                         |                                                                 |               |
+| 11月9日-11月23日      | MBN                                                                    | 《[放羊狼少年的大叔牧場](https://zh.wikipedia.org/wiki/放羊狼少年的大叔牧場 "wikilink")》 | 曉悟                                                                        | EP.1-3（固定成员）                                                    |               |
+| 11月23日            | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《MV Bank Stardust 2》                                                | 全體                                                                        |                                                                 |               |
+| 11月28日            | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                  | 《[大國民脱口秀-你好](https://zh.wikipedia.org/wiki/大國民脱口秀-你好 "wikilink")》   | 坤、偉                                                                       | EP.301                                                          |               |
+| 12月6日             | [BS2](https://zh.wikipedia.org/wiki/BS2 "wikilink")                    | 《[1 VS 100](../Page/1_VS_100.md "wikilink")》                        | 坤                                                                         |                                                                 |               |
+| 12月27日            | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《[Game show遊戲樂樂](../Page/Game_show遊戲樂樂.md "wikilink")》              | 全體                                                                        | EP.2（VCR出演）                                                     |               |
+| 12月27日-2017年5月13日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《[Game show遊戲樂樂](../Page/Game_show遊戲樂樂.md "wikilink")》              | [宇信](../Page/金宇碩.md "wikilink")                                           | EP.2-19（希澈遊戲團固定團員）                                              |               |
+| 2017年             | 1月11日、1月29日                                                            | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                 | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                          | [宇信](../Page/金宇碩.md "wikilink")                                 | EP.95、96（聽審團） |
+| 1月30日             | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《[偶像明星運動會](../Page/偶像明星運動會.md "wikilink")》                          | 全體                                                                        |                                                                 |               |
+| 3月31日             | [KBS World](../Page/KBS_World.md "wikilink")                           | 《K-RUSH》                                                            | 高潔、偉、碧土、善燏、奎真、歡喜                                                          |                                                                 |               |
+| 4月12日、4月19日       | MBC Every1                                                             | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                  | 坤                                                                         | 《蒙面偶像，你的名字是？》環節                                                 |               |
+| 5月21日             | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")                    | 《挑戰金鐘》                                                              | 全體                                                                        |                                                                 |               |
+| 7月11日             | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")      | 《[After School Club](../Page/After_School_Club.md "wikilink")》      | 全體                                                                        | EP.272                                                          |               |
+| 7月23日             | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                    | 歡喜                                                                        | EP.121                                                          |               |
+| 7月23日、7月30日       | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《[Fantastic Duo 2](../Page/Fantastic_Duo_2.md "wikilink")》          | 鎮琥、坤、碧土、善燏、奎真、曉悟                                                          | EP.17、18                                                        |               |
+| 9月17日、9月24日       | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《[Fantastic Duo 2](../Page/Fantastic_Duo_2.md "wikilink")》          | 鎮琥、坤、高潔、善燏                                                                | EP.25、26                                                        |               |
+| 11月10日、11月17日     | [KBS World](../Page/KBS_World.md "wikilink")                           | 《K-RUSH 2-首爾探索》                                                     | 偉、碧土、奎真、歡喜、曉悟                                                             |                                                                 |               |
+| 11月19日            | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                    | 《[Fantastic Duo 2](../Page/Fantastic_Duo_2.md "wikilink")》          | 鎮琥、坤、高潔、善燏                                                                | EP.33                                                           |               |
+| 2018年             | 2月15日                                                                  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                 | 《[偶像明星運動會](../Page/偶像明星運動會.md "wikilink")》                                | 全體（除[宇信](../Page/金宇碩.md "wikilink")）                            |               |
+| 3月20日             | TBS TV                                                                 | 《Fact in star》                                                      | 全體                                                                        |                                                                 |               |
+| 9月25日             | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《[偶像明星運動會](../Page/偶像明星運動會.md "wikilink")》                          | 全體                                                                        |                                                                 |               |
+| 12月11日            | TBS TV                                                                 | 《Fact in star》                                                      | 全體                                                                        |                                                                 |               |
+| 12月11日            | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")      | 《[After School Club](../Page/After_School_Club.md "wikilink")》      | 全體                                                                        | EP.346                                                          |               |
+| 12月25日            | [KBS World](../Page/KBS_World.md "wikilink")                           | 《K-RUSH 3》                                                          | 全體                                                                        |                                                                 |               |
+| 2019年             | 5月3日-7月19日                                                             | [Mnet](../Page/Mnet.md "wikilink")                                  | 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》                    | [鎭赫](../Page/李鎭赫.md "wikilink")、[宇信](../Page/金宇碩.md "wikilink") | EP.1-12       |
+| 8月7日              | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《[Radio Star](https://zh.wikipedia.org/wiki/Radio_Star "wikilink")》 | [鎭赫](../Page/李鎭赫.md "wikilink")                                           | EP.629（「不放棄」特輯）                                                 |               |
+| 8月24、31日          | [JTBC](../Page/JTBC.md "wikilink")                                     | 《[獨族App](../Page/獨族App.md "wikilink")》                              | [鎭赫](../Page/李鎭赫.md "wikilink")                                           | EP.4、5                                                          |               |
+| 8月31日             | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")                    | 《[傻瓜們的監獄生活](../Page/傻瓜們的監獄生活.md "wikilink")》                        | [宇信](../Page/金宇碩.md "wikilink")（與[X1成員](../Page/X1_\(組合\).md "wikilink")） | EP.25                                                           |               |
+| 9月10日-10月22日      | [JTBC](../Page/JTBC.md "wikilink")                                     | 《[快點說話吧](../Page/快點說話吧.md "wikilink")》                              | [鎭赫](../Page/李鎭赫.md "wikilink")                                           | EP.5-10（固定成員）                                                   |               |
+| 9月12日             | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《姐姐家的沙龍》                                                            | [鎭赫](../Page/李鎭赫.md "wikilink")                                           | 試播EP.2                                                          |               |
+| 9月14日             | [JTBC](../Page/JTBC.md "wikilink")                                     | 《[RUN.wav](../Page/RUN.wav.md "wikilink")》                          | 全體（除[鎭赫](../Page/李鎭赫.md "wikilink")、[宇信](../Page/金宇碩.md "wikilink")）      | EP.13                                                           |               |
+| 9月18日             | [JTBC](../Page/JTBC.md "wikilink")                                     | 《[請給一頓飯](../Page/請給一頓飯.md "wikilink")》                              | [宇信](../Page/金宇碩.md "wikilink")（與[X1成員](../Page/X1_\(組合\).md "wikilink")） | EP.143                                                          |               |
+| 9月25、29日          | 올레tv모바일, [LIFETIME](https://zh.wikipedia.org/wiki/LIFETIME "wikilink") | 《偶像茶館》                                                              | 全體（除[鎭赫](../Page/李鎭赫.md "wikilink")、[宇信](../Page/金宇碩.md "wikilink")）      | EP.7                                                            |               |
+| 9月29日、10月20日      | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                    | 《[越線的傢伙們 Returns](../Page/越線的傢伙們.md "wikilink")》                    | [鎭赫](../Page/李鎭赫.md "wikilink")                                           | EP.7、10                                                         |               |
+| 10月12日            | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")                    | 《[驚人的星期六](../Page/驚人的星期六.md "wikilink")》                            | [宇信](../Page/金宇碩.md "wikilink")（與[X1成員](../Page/X1_\(組合\).md "wikilink")） | EP.79                                                           |               |
+| 10月31日-至今         | [JTBC](../Page/JTBC.md "wikilink")                                     | 《[乖僻的五兄弟](../Page/怪癖的五兄弟.md "wikilink")》                            | [鎭赫](../Page/李鎭赫.md "wikilink")                                           | EP.1-（固定成員）                                                     |               |
+| 11月2日-至今          | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")                    | 《[唐吉訶德](../Page/唐吉訶德_\(韓國綜藝\).md "wikilink")》                       | [鎭赫](../Page/李鎭赫.md "wikilink")                                           | 固定成員                                                            |               |
+| 11月3日             | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")                    | 《挑戰金鐘》                                                              | 全體（除[鎭赫](../Page/李鎭赫.md "wikilink")、[宇信](../Page/金宇碩.md "wikilink")）      | 出演VCR                                                           |               |
+| 11月27日            | [JTBC](../Page/JTBC.md "wikilink")                                     | 《[請給一頓飯](../Page/請給一頓飯.md "wikilink")》                              | [鎭赫](../Page/李鎭赫.md "wikilink")                                           | EP.153                                                          |               |
+| 12月3日             | 올레tv모바일, [LIFETIME](https://zh.wikipedia.org/wiki/LIFETIME "wikilink") | 《偶像茶館》                                                              | [鎭赫](../Page/李鎭赫.md "wikilink")                                           | 第二季EP.1                                                         |               |
+|                   |                                                                        |                                                                     |                                                                           |                                                                 |               |
 
 ### 廣播節目
 
@@ -416,30 +421,32 @@ UP10TION的官方粉絲名稱為「**HONEY10**」（） 代表著喜歡的人珍
 | 11月11日       | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink")         | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink")》                    | [鎭赫](../Page/李鎭赫.md "wikilink")                                         | Ep.405                               |    |
 | 11月12日       | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") Power FM        | 《》                                                                  | [鎭赫](../Page/李鎭赫.md "wikilink")                                         |                                      |    |
 | 11月29日       | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink")         | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink")》                    | 歡喜                                                                      | Ep.423                               |    |
+| 12月6日        | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink")         | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink")》                    | 善燏、歡喜                                                                   | Ep.430                               |    |
+| 12月8日        | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink")         | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink")》                    | 善燏、歡喜                                                                   | Ep.432(無可視放送)                        |    |
 
 ### 音樂劇作品
 
 |      |                  |      |     |                   |
 | ---- | ---------------- | ---- | --- | ----------------- |
-| 年份   | 音乐剧名称            | 演出成员 | 角色  | 备注                |
-| 2017 | The Human of Age | 坤    | 男主角 | 第22届江东史前文化祭开幕式音乐剧 |
+| 年份   | 音樂劇名稱            | 演出成員 | 角色  | 備註                |
+| 2017 | The Human of Age | 坤    | 男主角 | 第22屆江東史前文化祭開幕式音樂劇 |
 
 ### 主持節目
 
 |                        |                                                         |                                                                      |                                                                      |                                    |                 |
 | ---------------------- | ------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------- | --------------- |
-| 年分                     | 日期                                                      | 電視台                                                                  | 節目名稱                                                                 | 主持成員                               | 备注              |
-| 2015年                  | 10月3日                                                   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                  | 《[Show\! 音乐中心](https://zh.wikipedia.org/wiki/Show!_音乐中心 "wikilink")》 | [宇信](../Page/金宇碩.md "wikilink")、晓悟 | Special MC      |
+| 年份                     | 日期                                                      | 電視台                                                                  | 節目名稱                                                                 | 主持成員                               | 備註              |
+| 2015年                  | 10月3日                                                   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                  | 《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》 | [宇信](../Page/金宇碩.md "wikilink")、曉悟 | Special MC      |
 | 10月6日                  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")2    | 《MV Bank Stardust 2》                                                 | 善燏、[宇信](../Page/金宇碩.md "wikilink")                                   |                                    |                 |
 | 10月20日                 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")2    | 《MV Bank Stardust 2》                                                 | 善燏、[宇信](../Page/金宇碩.md "wikilink")                                   |                                    |                 |
-| 10月20日                 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") MTV | 《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》      | [宇信](../Page/金宇碩.md "wikilink")、晓悟                                   | 韩秀榜新闻MC                            |                 |
-| 10月24日                 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")     | 《[Show\! 音乐中心](https://zh.wikipedia.org/wiki/Show!_音乐中心 "wikilink")》 | 晓悟                                                                   | Special MC                         |                 |
+| 10月20日                 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") MTV | 《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》      | [宇信](../Page/金宇碩.md "wikilink")、曉悟                                   | 韓秀榜新聞MC                            |                 |
+| 10月24日                 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")     | 《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》 | 曉悟                                                                   | Special MC                         |                 |
 | 11月11日                 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")2    | 《MV Bank Stardust 2》                                                 | 善燏、[宇信](../Page/金宇碩.md "wikilink")                                   |                                    |                 |
-| 2016年                  | 3月18日-12月9日                                             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                | 《2TV早晨》                                                              | 坤                                  | 周五固定Weather-dol |
+| 2016年                  | 3月18日-12月9日                                             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                | 《2TV早晨》                                                              | 坤                                  | 週五固定Weather-dol |
 | 5月17日                  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") MTV | 《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》      | [宇信](../Page/金宇碩.md "wikilink")                                      | 代班MC                               |                 |
 | 5月24日                  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") MTV | 《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》      | [宇信](../Page/金宇碩.md "wikilink")                                      | 代班MC                               |                 |
-| 7月20日-8月18日            | EBS                                                     | 《暖洋洋11》                                                              | [宇信](../Page/金宇碩.md "wikilink")、晓悟                                   | 固定MC                               |                 |
-| 8月13日                  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")     | 《[Show\! 音乐中心](https://zh.wikipedia.org/wiki/Show!_音乐中心 "wikilink")》 | [宇信](../Page/金宇碩.md "wikilink")、晓悟                                   | Special MC                         |                 |
+| 7月20日-8月18日            | EBS                                                     | 《暖洋洋11》                                                              | [宇信](../Page/金宇碩.md "wikilink")、曉悟                                   | 固定MC                               |                 |
+| 8月13日                  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")     | 《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》 | [宇信](../Page/金宇碩.md "wikilink")、曉悟                                   | Special MC                         |                 |
 | 8月22日                  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") MTV | 《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》      | [宇信](../Page/金宇碩.md "wikilink")                                      | 代班MC                               |                 |
 | 2016年10月11日-2017年4月25日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") MTV | 《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》      | [宇信](../Page/金宇碩.md "wikilink")                                      | 第5季固定MC                            |                 |
 
@@ -463,63 +470,62 @@ UP10TION的官方粉絲名稱為「**HONEY10**」（） 代表著喜歡的人珍
 | 2015年9月22日 | 北京站 | 北京268文化產業基地     |
 | 2017年3月8日  | 東京站 | Zepp Tokyo      |
 
-### 单独演唱会
+### 單獨演唱會
 
   - Zepp Tour 2017『ID』
 
 |              |              |      |                    |
 | ------------ | ------------ | ---- | ------------------ |
-| 日期           | 时间           | 城市   | 舉行地點               |
+| 日期           | 時間           | 城市   | 舉行地點               |
 | 2017年5月3日    | 14:00(GMT+9) | 大阪站  | Zepp Osaka Bayside |
 | 18:00(GMT+9) |              |      |                    |
 | 2017年5月5日    | 15:00(GMT+9) | 名古屋站 | Zepp Nagoya        |
-| 2017年5月6日    | 14:00(GMT+9) | 东京站  | Zepp Diver-City    |
+| 2017年5月6日    | 14:00(GMT+9) | 東京站  | Zepp Diver-City    |
 | 18:00(GMT+9) |              |      |                    |
 
   - PLAY with TOP ARTISTS 2017 SUMMER
 
 |            |                    |     |                |
 | ---------- | ------------------ | --- | -------------- |
-| 日期         | 主题                 | 城市  | 舉行地點           |
+| 日期         | 主題                 | 城市  | 舉行地點           |
 | 2017年7月30日 | The 1st TENSION UP | 首爾站 | KBS Arena Hall |
 
-### 家族演唱会
+### 家族演唱會
 
   - PLAY with TOP ARTISTS 2017 SUMMER
 
 |            |                |     |                |
 | ---------- | -------------- | --- | -------------- |
-| 日期         | 主题             | 城市  | 舉行地點           |
+| 日期         | 主題             | 城市  | 舉行地點           |
 | 2017年7月30日 | PTA After Show | 首爾站 | KBS Arena Hall |
 
-### 粉丝见面会
+### 粉絲見面會
 
-  - 1期见面会 <HONEYMOON>
+  - 1期見面會 <HONEYMOON>
 
 |             |     |                 |
 | ----------- | --- | --------------- |
 | 日期          | 城市  | 舉行地點            |
 | 2016年10月30日 | 首爾站 | YES24 Live Hall |
 
-  - 日本1期见面会 \<\~ Sweet Honey Time \~\>
+  - 日本1期見面會 \<\~ Sweet Honey Time \~\>
 
 |              |              |     |                |
 | ------------ | ------------ | --- | -------------- |
-| 日期           | 时间           | 城市  | 舉行地點           |
-| 2016年11月3日   | 14:00(GMT+9) | 东京站 | TFT HALL 1000  |
+| 日期           | 時間           | 城市  | 舉行地點           |
+| 2016年11月3日   | 14:00(GMT+9) | 東京站 | TFT HALL 1000  |
 | 18:00(GMT+9) |              |     |                |
 | 2016年11月5日   | 14:00(GMT+9) | 大阪站 | NHK Osaka Hall |
 | 18:00(GMT+9) |              |     |                |
 
-## 奖项
+  - 2期見面會 <HONEYthing>
 
-### 音樂節目獎項
+|             |     |                                          |
+| ----------- | --- | ---------------------------------------- |
+| 日期          | 城市  | 舉行地點                                     |
+| 2019年11月30日 | 首爾站 | KwangWoon University Donghae Arts Center |
 
-| 年份 | 日期 | 電視台 | 節目名稱 | 獲獎歌曲 | 排名 |
-| -- | -- | --- | ---- | ---- | -- |
-|    |    |     |      |      |    |
-
-#### 主要音樂節目榜單排名
+## 獎項
 
 <table>
 <thead>
@@ -601,29 +607,29 @@ UP10TION的官方粉絲名稱為「**HONEY10**」（） 代表著喜歡的人珍
 | ------------------------------------ |
 | [Mnet](../Page/Mnet媒體.md "wikilink") |
 | 0                                    |
-| 六台冠軍歌曲總數：0                           |
+| 一位總數：0                               |
 
-### 颁奖典礼獎項
+### 頒獎典禮獎項
 
-#### [Gaon Chart K-POP大奖](https://zh.wikipedia.org/wiki/Gaon_Chart_K-POP大奖 "wikilink")
+#### [Gaon Chart K-POP大獎](https://zh.wikipedia.org/wiki/Gaon_Chart_K-POP大奖 "wikilink")
 
-{{ South Korean awards table | header_color= \#ffcc22}} |- | 2015 | 年度新人奖\[44\] | UP10TION |  |}
+|- | 2015 | 年度新人獎\[44\] | UP10TION |  |}
 
-#### [甜瓜音乐奖](https://zh.wikipedia.org/wiki/甜瓜音乐奖 "wikilink") (MMA)
+#### [甜瓜音樂獎](https://zh.wikipedia.org/wiki/甜瓜音乐奖 "wikilink") (MMA)
 
-{{ South Korean awards table | header_color= \#ffcc22 }} |- |rowspan=1 align="center"|2015 |align="center"|男子新人奖 |align="center"|UP10TION | |}
+|- |rowspan=1 align="center"|2015 |align="center"|男子新人獎 |align="center"|UP10TION | |}
 
-#### [Mnet亚洲音乐大奖](https://zh.wikipedia.org/wiki/Mnet亚洲音乐大奖 "wikilink") (MAMA)
+#### [Mnet亞洲音樂大獎](https://zh.wikipedia.org/wiki/Mnet亚洲音乐大奖 "wikilink") (MAMA)
 
 {{ South Korean awards table | header_color= \#ffcc22 }} |- |rowspan=2 | 2015 || 最佳新人男组合 || rowspan=2 |UP10TION || |- | UnionPay年度最佳歌手 ||  |}
 
-#### [首尔音乐奖](https://zh.wikipedia.org/wiki/首尔音乐奖 "wikilink") (SMA)
+#### [首爾音樂獎](https://zh.wikipedia.org/wiki/首尔音乐奖 "wikilink") (SMA)
 
-|- |rowspan=3 | 2015 || 新人赏 || rowspan=3 |UP10TION || |- | 本赏 ||  |- | 人气赏 ||  |- |rowspan=2 | 2016 || 本赏 || rowspan=2 |UP10TION || |- | 人气赏 ||  |}
+|- |rowspan=3 | 2015 || 新人賞 || rowspan=3 |UP10TION || |- | 本賞 ||  |- | 人氣賞 ||  |- |rowspan=2 | 2016 || 本賞 || rowspan=2 |UP10TION || |- | 人氣賞 ||  |}
 
-#### [金唱片奖](https://zh.wikipedia.org/wiki/金唱片奖 "wikilink") (GDA)
+#### [金唱片獎](https://zh.wikipedia.org/wiki/金唱片奖 "wikilink") (GDA)
 
-|- |rowspan=1 align="center"|2016 |align="center"|唱片部门本赏 |align="center"|UP10TION |
+|- |rowspan=1 align="center"|2016 |align="center"|唱片部門本賞 |align="center"|UP10TION |
 
 |}
 
@@ -643,20 +649,20 @@ UP10TION的官方粉絲名稱為「**HONEY10**」（） 代表著喜歡的人珍
 <tr class="odd">
 <td><p>2015</p></td>
 <td><p>Hello Asia! K-Pop Awards[45]</p></td>
-<td><p>最佳新人奖</p></td>
+<td><p>最佳新人獎</p></td>
 <td><p>UP10TION</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>菲律宾K-Pop年度大会</p></td>
-<td><p>最佳男子新人奖</p></td>
+<td><p>菲律賓K-Pop年度大會</p></td>
+<td><p>最佳男子新人獎</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>Soompi Awards</p></td>
-<td><p>年度新人奖</p></td>
+<td><p>年度新人獎</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -664,13 +670,13 @@ UP10TION的官方粉絲名稱為「**HONEY10**」（） 代表著喜歡的人珍
 <tr class="even">
 <td><p>2016</p></td>
 <td><p>Soompi Awards</p></td>
-<td><p>最佳编舞奖</p></td>
+<td><p>最佳編舞獎</p></td>
 <td><p>《ATTENTION》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
-<td><p>日本唱片协会认定 3月金唱片部门[46]</p></td>
+<td><p>日本唱片協會認定 3月金唱片部門[46]</p></td>
 <td><p>《ID》</p></td>
 <td></td>
 <td></td>
@@ -678,7 +684,7 @@ UP10TION的官方粉絲名稱為「**HONEY10**」（） 代表著喜歡的人珍
 </tbody>
 </table>
 
-## 参考文献
+## 參考文獻
 
 ## 外部連結
 

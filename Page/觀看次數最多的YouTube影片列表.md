@@ -27,7 +27,7 @@
 <td><p><a href="../Page/慢慢來_(路易斯·方辛歌曲).md" title="wikilink">Despacito</a>[4]</p></td>
 <td><p><a href="../Page/慢慢來_(路易斯·方辛歌曲).md" title="wikilink">慢慢來</a></p></td>
 <td><p><a href="../Page/路易斯·馮西.md" title="wikilink">路易斯·馮西</a><small>（<a href="../Page/洋基老爹.md" title="wikilink">洋基老爹</a>伴唱）</small></p></td>
-<td><p>65.30</p></td>
+<td><p>65.67</p></td>
 <td><p>2017年1月13日</p></td>
 </tr>
 <tr class="even">
@@ -36,7 +36,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/妳的樣子_(歌曲)" title="wikilink">妳的樣子</a></p></td>
 <td><p><a href="../Page/紅髮艾德.md" title="wikilink">紅髮艾德</a><br />
 </p></td>
-<td><p>45.01</p></td>
+<td><p>45.29</p></td>
 <td><p>2017年1月30日</p></td>
 </tr>
 <tr class="odd">
@@ -44,7 +44,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/當我們再相見" title="wikilink">See You Again</a>[6]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/當我們再相見" title="wikilink">當我們再相見</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/維兹·卡利法" title="wikilink">維兹·卡利法</a><small>（伴唱）</small></p></td>
-<td><p>43.03</p></td>
+<td><p>43.30</p></td>
 <td><p>2015年4月7日</p></td>
 </tr>
 <tr class="even">
@@ -52,7 +52,7 @@
 <td><p><a href="../Page/瑪莎與熊.md" title="wikilink">Masha and the Bear: Recipe for disaster</a>[7]</p></td>
 <td><p><a href="../Page/瑪莎與熊.md" title="wikilink">瑪莎與熊</a>：瑪莎與麥片粥</p></td>
 <td><p>Get Movies</p></td>
-<td><p>41.64</p></td>
+<td><p>42.00</p></td>
 <td><p>2012年1月31日</p></td>
 </tr>
 <tr class="odd">
@@ -60,7 +60,7 @@
 <td><p><a href="../Page/Baby_Shark.md" title="wikilink">Baby Shark Dance</a>[8]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鯊魚寶寶" title="wikilink">鯊魚寶寶</a></p></td>
 <td><p><a href="../Page/碰碰狐.md" title="wikilink">碰碰狐</a></p></td>
-<td><p>40.00</p></td>
+<td><p>41.70</p></td>
 <td><p>2016年6月17日</p></td>
 </tr>
 <tr class="even">
@@ -68,7 +68,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/放克名流" title="wikilink">Uptown Funk</a>[9]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/放克名流" title="wikilink">放克名流</a></p></td>
 <td><p><a href="../Page/馬克·朗森.md" title="wikilink">馬克·朗森</a><small>（<a href="https://zh.wikipedia.org/wiki/火星人布魯諾" title="wikilink">火星人布魯諾伴唱</a>）</small></p></td>
-<td><p>37.13</p></td>
+<td><p>37.29</p></td>
 <td><p>2014年11月19日</p></td>
 </tr>
 <tr class="odd">
@@ -76,15 +76,15 @@
 <td><p><a href="../Page/江南Style.md" title="wikilink">Gangnam Style</a>[10]</p></td>
 <td><p><a href="../Page/江南Style.md" title="wikilink">江南Style</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Psy" title="wikilink">PSY</a></p></td>
-<td><p>34.59</p></td>
+<td><p>34.68</p></td>
 <td><p>2012年7月15日</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p>[11]</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/對不起_(賈斯汀·比伯歌曲)" title="wikilink">Sorry</a>[11]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/對不起_(賈斯汀·比伯歌曲)" title="wikilink">對不起</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/賈斯汀·比伯" title="wikilink">賈斯汀·比伯</a></p></td>
-<td><p>32.16</p></td>
+<td><p>32.23</p></td>
 <td><p>2015年10月22日</p></td>
 </tr>
 <tr class="odd">
@@ -92,7 +92,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/甜心" title="wikilink">Sugar</a>[12]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/甜心" title="wikilink">甜心</a></p></td>
 <td><p><a href="../Page/魔力紅.md" title="wikilink">魔力紅</a></p></td>
-<td><p>30.70</p></td>
+<td><p>30.83</p></td>
 <td><p>2015年1月14日</p></td>
 </tr>
 <tr class="even">
@@ -100,7 +100,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/聽我吼" title="wikilink">Roar</a>[13]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/聽我吼" title="wikilink">聽我吼</a></p></td>
 <td><p><a href="../Page/凱蒂·佩芮.md" title="wikilink">凱蒂·佩芮</a></p></td>
-<td><p>29.56</p></td>
+<td><p>29.66</p></td>
 <td><p>2013年9月5日</p></td>
 </tr>
 <tr class="odd">
@@ -108,7 +108,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/數星星" title="wikilink">Counting Stars</a>[14]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/數星星" title="wikilink">數星星</a></p></td>
 <td><p><a href="../Page/共和世代.md" title="wikilink">共和世代</a></p></td>
-<td><p>28.68</p></td>
+<td><p>28.80</p></td>
 <td><p>2013年5月31日</p></td>
 </tr>
 <tr class="even">
@@ -116,7 +116,7 @@
 <td><p>[15]</p></td>
 <td></td>
 <td><p><a href="../Page/紅髮艾德.md" title="wikilink">紅髮艾德</a></p></td>
-<td><p>28.53</p></td>
+<td><p>28.62</p></td>
 <td><p>2014年10月7日</p></td>
 </tr>
 <tr class="odd">
@@ -124,7 +124,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/通通甩掉" title="wikilink">Shake It Off</a>[16]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/通通甩掉" title="wikilink">通通甩掉</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/泰勒絲" title="wikilink">泰勒絲</a></p></td>
-<td><p>28.45</p></td>
+<td><p>28.52</p></td>
 <td><p>2014年8月18日</p></td>
 </tr>
 <tr class="even">
@@ -132,7 +132,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/舞力全開_(安立奎·伊格萊西亞斯歌曲)" title="wikilink">Bailando</a>[17]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/舞力全開_(安立奎·伊格萊西亞斯歌曲)" title="wikilink">舞力全開</a></p></td>
 <td><p><a href="../Page/安立奎·伊格萊西亞斯.md" title="wikilink">安立奎·伊格萊西亞斯</a><small>（、伴唱）</small></p></td>
-<td><p>27.84</p></td>
+<td><p>27.90</p></td>
 <td><p>2014年4月11日</p></td>
 </tr>
 <tr class="odd">
@@ -140,7 +140,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/依靠_(歌曲)" title="wikilink">Lean On</a>[18]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/依靠_(歌曲)" title="wikilink">依靠</a></p></td>
 <td><p>、<a href="../Page/DJ蛇王.md" title="wikilink">DJ蛇王</a> <small>（<a href="../Page/MØ.md" title="wikilink">MØ</a>伴唱）</small></p></td>
-<td><p>26.86</p></td>
+<td><p>26.95</p></td>
 <td><p>2015年3月22日</p></td>
 </tr>
 <tr class="even">
@@ -148,7 +148,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/黑馬_(歌曲)" title="wikilink">Dark Horse</a>[19]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/黑馬_(歌曲)" title="wikilink">黑馬</a></p></td>
 <td><p><a href="../Page/凱蒂·佩芮.md" title="wikilink">凱蒂·佩芮</a><small>（<a href="../Page/裘西·J.md" title="wikilink">裘西·J</a>伴唱）</small></p></td>
-<td><p>26.75</p></td>
+<td><p>26.86</p></td>
 <td><p>2014年2月20日</p></td>
 </tr>
 <tr class="odd">
@@ -156,7 +156,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/你好_(阿黛爾歌曲)" title="wikilink">Hello</a>[20]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/你好_(阿黛爾歌曲)" title="wikilink">你好</a></p></td>
 <td><p><a href="../Page/愛黛兒.md" title="wikilink">愛黛兒</a></p></td>
-<td><p>25.89</p></td>
+<td><p>25.95</p></td>
 <td><p>2015年10月22日</p></td>
 </tr>
 <tr class="even">
@@ -164,7 +164,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/人間迷走" title="wikilink">Faded</a>[21]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/人間迷走" title="wikilink">人間迷走</a></p></td>
 <td><p><a href="../Page/艾倫·沃克.md" title="wikilink">艾倫‧沃克</a>、<a href="https://zh.wikipedia.org/wiki/艾瑟琳·索尔海姆" title="wikilink">艾瑟琳·索尔海姆</a></p></td>
-<td><p>25.72</p></td>
+<td><p>25.88</p></td>
 <td><p>2015年12月3日</p></td>
 </tr>
 <tr class="odd">
@@ -172,7 +172,7 @@
 <td><p>[22]</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/J_Balvin" title="wikilink">J·巴爾文</a>、</p></td>
-<td><p>25.54</p></td>
+<td><p>25.67</p></td>
 <td><p>2017年6月30日</p></td>
 </tr>
 <tr class="even">
@@ -180,7 +180,7 @@
 <td><p>[23]</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吟遊詩人_(歌手)" title="wikilink">吟遊詩人</a></p></td>
-<td><p>25.49</p></td>
+<td><p>25.62</p></td>
 <td><p>2012年7月25日</p></td>
 </tr>
 <tr class="odd">
@@ -188,71 +188,71 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/空格_(泰勒·斯威夫特歌曲)" title="wikilink">Blank Space</a>[24]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/空格_(泰勒·斯威夫特歌曲)" title="wikilink">空白</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/泰勒絲" title="wikilink">泰勒絲</a></p></td>
-<td><p>25.18</p></td>
+<td><p>25.26</p></td>
 <td><p>2014年11月10日</p></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
-<td><p>[25]</p></td>
+<td><p><a href="../Page/Girls_Like_You.md" title="wikilink">Girls Like You</a>[25]</p></td>
 <td></td>
-<td><p><a href="../Page/夏奇拉.md" title="wikilink">夏奇拉</a><small>（<a href="../Page/馬路馬.md" title="wikilink">馬路馬</a>伴唱）</small></p></td>
-<td><p>24.67</p></td>
-<td><p>2016年11月18日</p></td>
+<td><p><a href="../Page/魔力紅.md" title="wikilink">魔力紅</a> <small>（<a href="https://zh.wikipedia.org/wiki/Cardi_B" title="wikilink">Cardi B伴唱</a>）</small></p></td>
+<td><p>25.02</p></td>
+<td><p>2018年5月31日</p></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
-<td><p><a href="../Page/Girls_Like_You.md" title="wikilink">Girls Like You</a>[26]</p></td>
+<td><p>[26]</p></td>
 <td></td>
-<td><p><a href="../Page/魔力紅.md" title="wikilink">魔力紅</a> <small>（<a href="https://zh.wikipedia.org/wiki/Cardi_B" title="wikilink">Cardi B伴唱</a>）</small></p></td>
-<td><p>24.54</p></td>
-<td><p>2018年5月31日</p></td>
+<td><p><a href="../Page/夏奇拉.md" title="wikilink">夏奇拉</a><small>（<a href="../Page/馬路馬.md" title="wikilink">馬路馬</a>伴唱）</small></p></td>
+<td><p>24.73</p></td>
+<td><p>2016年11月18日</p></td>
 </tr>
 <tr class="even">
 <td><p>24</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Closer_(老菸槍雙人組歌曲)" title="wikilink">Closer (Lyric)</a>[27]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Closer_(老菸槍雙人組歌曲)" title="wikilink">近在身邊（歌詞版）</a></p></td>
 <td><p><a href="../Page/老菸槍雙人組.md" title="wikilink">老菸槍雙人組</a><small>（<a href="../Page/海爾希_(歌手).md" title="wikilink">海爾希伴唱</a>）</small></p></td>
-<td><p>24.30</p></td>
+<td><p>24.37</p></td>
 <td><p>2016年7月29日</p></td>
 </tr>
 <tr class="odd">
 <td><p>25</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/聖杯之役" title="wikilink">Waka Waka (This Time for Africa)</a>[28]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/聖杯之役" title="wikilink">瓦卡瓦卡</a></p></td>
-<td><p><a href="../Page/夏奇拉.md" title="wikilink">夏奇拉</a><small>（<a href="https://zh.wikipedia.org/wiki/鮮蘑樂團" title="wikilink">鮮蘑樂團伴唱</a>）</small></p></td>
-<td><p>23.60</p></td>
-<td><p>2010年6月4日</p></td>
+<td><p>Johny Johny Yes Papa-The Best Song for Children [28]</p></td>
+<td><p>強尼強尼是的爸爸</p></td>
+<td><p>LooLoo Kids</p></td>
+<td><p>24.04</p></td>
+<td><p>2016年10月8日</p></td>
 </tr>
 <tr class="even">
 <td><p>26</p></td>
-<td><p>Johny Johny Yes Papa-The Best Song for Children [29]</p></td>
-<td><p>強尼強尼是的爸爸</p></td>
-<td><p>LooLoo Kids</p></td>
-<td><p>23.35</p></td>
-<td><p>2016年10月8日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/聖杯之役" title="wikilink">Waka Waka (This Time for Africa)</a>[29]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/聖杯之役" title="wikilink">瓦卡瓦卡</a></p></td>
+<td><p><a href="../Page/夏奇拉.md" title="wikilink">夏奇拉</a><small>（<a href="https://zh.wikipedia.org/wiki/鮮蘑樂團" title="wikilink">鮮蘑樂團伴唱</a>）</small></p></td>
+<td><p>23.71</p></td>
+<td><p>2010年6月4日</p></td>
 </tr>
 <tr class="odd">
 <td><p>27</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/All_About_That_Bass" title="wikilink">All About That Bass</a>[30]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/All_About_That_Bass" title="wikilink">棉花糖女孩</a></p></td>
-<td><p><a href="../Page/梅根·崔娜.md" title="wikilink">梅根·崔娜</a></p></td>
-<td><p>23.33</p></td>
-<td><p>2014年6月11日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/We_Don&#39;t_Talk_Anymore" title="wikilink">We Don't Talk Anymore</a>[30]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/不再甜蜜" title="wikilink">不再甜蜜</a></p></td>
+<td><p><small>（<a href="../Page/赛琳娜·戈麦斯.md" title="wikilink">席琳娜·戈梅茲伴唱</a>）</small></p></td>
+<td><p>23.39</p></td>
+<td><p>2016年8月2日</p></td>
 </tr>
 <tr class="even">
 <td><p>28</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/We_Don&#39;t_Talk_Anymore" title="wikilink">We Don't Talk Anymore</a>[31]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/不再甜蜜" title="wikilink">不再甜蜜</a></p></td>
-<td><p><small>（<a href="../Page/赛琳娜·戈麦斯.md" title="wikilink">席琳娜·戈梅茲伴唱</a>）</small></p></td>
-<td><p>23.30</p></td>
-<td><p>2016年8月2日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/All_About_That_Bass" title="wikilink">All About That Bass</a>[31]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/All_About_That_Bass" title="wikilink">棉花糖女孩</a></p></td>
+<td><p><a href="../Page/梅根·崔娜.md" title="wikilink">梅根·崔娜</a></p></td>
+<td><p>23.36</p></td>
+<td><p>2014年6月11日</p></td>
 </tr>
 <tr class="odd">
 <td><p>29</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/天注定_(歌曲)" title="wikilink">This Is What You Came For</a>[32]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/天注定_(歌曲)" title="wikilink">天注定</a></p></td>
 <td><p><a href="../Page/凱文·哈里斯.md" title="wikilink">凱文·哈里斯</a><small>（<a href="../Page/蕾哈娜.md" title="wikilink">蕾哈娜</a>伴唱）</small></p></td>
-<td><p>22.86</p></td>
+<td><p>22.93</p></td>
 <td><p>2016年6月16日</p></td>
 </tr>
 <tr class="even">
@@ -260,7 +260,7 @@
 <td><p>[33]</p></td>
 <td></td>
 <td><p><a href="../Page/潔淨的盜賊.md" title="wikilink">潔淨的盜賊</a><small>（<a href="https://zh.wikipedia.org/wiki/Sean_Paul" title="wikilink">Sean Paul</a>、 伴唱）</small></p></td>
-<td><p>22.36</p></td>
+<td><p>22.44</p></td>
 <td><p>2016年10月21日</p></td>
 </tr>
 <tr class="odd">
@@ -268,71 +268,71 @@
 <td><p>[34]</p></td>
 <td></td>
 <td></td>
-<td><p>22.35</p></td>
+<td><p>22.41</p></td>
 <td><p>2014年8月9日</p></td>
 </tr>
 <tr class="even">
 <td><p>32</p></td>
 <td><p>[35]</p></td>
-<td></td>
-<td><p><a href="../Page/五佳人.md" title="wikilink">五佳人</a><small>（伴唱）</small></p></td>
-<td><p>22.09</p></td>
-<td><p>2016年2月26日</p></td>
+<td><p><a href="../Page/完美無瑕.md" title="wikilink">完美無瑕</a></p></td>
+<td><p><a href="../Page/紅髮艾德.md" title="wikilink">紅髮艾德</a></p></td>
+<td><p>22.17</p></td>
+<td><p>2017年11月9日</p></td>
 </tr>
 <tr class="odd">
 <td><p>33</p></td>
 <td><p>[36]</p></td>
-<td><p><a href="../Page/完美無瑕.md" title="wikilink">完美無瑕</a></p></td>
-<td><p><a href="../Page/紅髮艾德.md" title="wikilink">紅髮艾德</a></p></td>
-<td><p>22.02</p></td>
-<td><p>2017年11月9日</p></td>
+<td></td>
+<td><p><a href="../Page/五佳人.md" title="wikilink">五佳人</a><small>（伴唱）</small></p></td>
+<td><p>22.16</p></td>
+<td><p>2016年2月26日</p></td>
 </tr>
 <tr class="even">
 <td><p>34</p></td>
-<td><p><a href="../Page/水晶吊灯_(歌曲).md" title="wikilink">Chandelier</a>[37]</p></td>
-<td><p><a href="../Page/水晶吊灯_(歌曲).md" title="wikilink">水晶吊燈</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/希雅" title="wikilink">希雅</a></p></td>
-<td><p>21.63</p></td>
-<td><p>2014年5月6日</p></td>
+<td><p>Учим цвета-Разноцветные яйца на ферме[37]</p></td>
+<td><p>我們學習顏色-農場的多色蛋</p></td>
+<td><p>Мирошка ТВ</p></td>
+<td><p>22.05</p></td>
+<td><p>2018年2月27日</p></td>
 </tr>
 <tr class="odd">
 <td><p>35</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Baby_(歌曲)" title="wikilink">Baby</a>[38]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Baby_(歌曲)" title="wikilink">寶貝</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/賈斯汀·比伯" title="wikilink">賈斯汀·比伯</a><small>（<a href="https://zh.wikipedia.org/wiki/路達克里斯" title="wikilink">路達克里斯伴唱</a>）</small></p></td>
-<td><p>21.62</p></td>
-<td><p>2010年2月19日</p></td>
+<td><p>[38]</p></td>
+<td></td>
+<td></td>
+<td><p>21.88</p></td>
+<td><p>2018年5月2日</p></td>
 </tr>
 <tr class="even">
 <td><p>36</p></td>
-<td><p>[39]</p></td>
-<td></td>
-<td></td>
-<td><p>21.57</p></td>
-<td><p>2018年5月2日</p></td>
+<td><p><a href="../Page/水晶吊灯_(歌曲).md" title="wikilink">Chandelier</a>[39]</p></td>
+<td><p><a href="../Page/水晶吊灯_(歌曲).md" title="wikilink">水晶吊燈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/希雅" title="wikilink">希雅</a></p></td>
+<td><p>21.71</p></td>
+<td><p>2014年5月6日</p></td>
 </tr>
 <tr class="odd">
 <td><p>37</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Love_Me_Like_You_Do" title="wikilink">Love Me Like You Do</a>[40]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛由你做主" title="wikilink">愛由你做主</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/艾麗·高登" title="wikilink">艾麗·高登</a></p></td>
-<td><p>20.76</p></td>
-<td><p>2015年1月22日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Baby_(歌曲)" title="wikilink">Baby</a>[40]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Baby_(歌曲)" title="wikilink">寶貝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賈斯汀·比伯" title="wikilink">賈斯汀·比伯</a><small>（<a href="https://zh.wikipedia.org/wiki/路達克里斯" title="wikilink">路達克里斯伴唱</a>）</small></p></td>
+<td><p>21.67</p></td>
+<td><p>2010年2月19日</p></td>
 </tr>
 <tr class="even">
 <td><p>38</p></td>
-<td><p>Учим цвета-Разноцветные яйца на ферме[41]</p></td>
-<td><p>我們學習顏色-農場的多色蛋</p></td>
-<td><p>Мирошка ТВ</p></td>
-<td><p>20.73</p></td>
-<td><p>2018年2月27日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Love_Me_Like_You_Do" title="wikilink">Love Me Like You Do</a>[41]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛由你做主" title="wikilink">愛由你做主</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/艾麗·高登" title="wikilink">艾麗·高登</a></p></td>
+<td><p>20.81</p></td>
+<td><p>2015年1月22日</p></td>
 </tr>
 <tr class="odd">
 <td><p>39</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/What_Do_You_Mean?" title="wikilink">What Do You Mean?</a>[42]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/妳在想什麼呢？" title="wikilink">什麼意思？</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/賈斯汀·比伯" title="wikilink">賈斯汀·比伯</a></p></td>
-<td><p>20.53</p></td>
+<td><p>20.57</p></td>
 <td><p>2015年8月30日</p></td>
 </tr>
 <tr class="even">
@@ -340,55 +340,55 @@
 <td><p>[43]</p></td>
 <td></td>
 <td><p>、、、、、<a href="../Page/Ozuna.md" title="wikilink">Ozuna</a></p></td>
-<td><p>19.85</p></td>
+<td><p>20.08</p></td>
 <td><p>2018年4月11日</p></td>
 </tr>
 <tr class="odd">
 <td><p>41</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛情守則" title="wikilink">New Rules</a>[44]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛情守則" title="wikilink">愛情守則</a></p></td>
-<td><p><a href="../Page/杜娃·黎波.md" title="wikilink">杜娃·黎波</a></p></td>
-<td><p>19.53</p></td>
-<td><p>2017年7月7日</p></td>
+<td><p>[44]</p></td>
+<td></td>
+<td></td>
+<td><p>19.96</p></td>
+<td><p>2014年3月6日</p></td>
 </tr>
 <tr class="even">
 <td><p>42</p></td>
-<td><p>[45]</p></td>
-<td></td>
-<td></td>
-<td><p>19.34</p></td>
-<td><p>2016年4月13日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛情守則" title="wikilink">New Rules</a>[45]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛情守則" title="wikilink">愛情守則</a></p></td>
+<td><p><a href="../Page/杜娃·黎波.md" title="wikilink">杜娃·黎波</a></p></td>
+<td><p>19.78</p></td>
+<td><p>2017年7月7日</p></td>
 </tr>
 <tr class="odd">
 <td><p>43</p></td>
 <td><p>[46]</p></td>
 <td></td>
-<td><p><a href="../Page/路易斯·馮西.md" title="wikilink">路易斯·馮西</a>、<a href="../Page/黛咪·洛瓦特.md" title="wikilink">黛咪·洛瓦特</a></p></td>
-<td><p>19.18</p></td>
-<td><p>2017年11月16日</p></td>
+<td></td>
+<td><p>19.43</p></td>
+<td><p>2016年4月13日</p></td>
 </tr>
 <tr class="even">
 <td><p>44</p></td>
 <td><p>[47]</p></td>
 <td></td>
-<td><p>、<a href="../Page/Ozuna.md" title="wikilink">Ozuna</a></p></td>
-<td><p>19.05</p></td>
-<td><p>2017年8月18日</p></td>
+<td><p><a href="../Page/路易斯·馮西.md" title="wikilink">路易斯·馮西</a>、<a href="../Page/黛咪·洛瓦特.md" title="wikilink">黛咪·洛瓦特</a></p></td>
+<td><p>19.26</p></td>
+<td><p>2017年11月16日</p></td>
 </tr>
 <tr class="odd">
 <td><p>45</p></td>
 <td><p>[48]</p></td>
 <td></td>
-<td></td>
-<td><p>19.00</p></td>
-<td><p>2014年3月6日</p></td>
+<td><p>、<a href="../Page/Ozuna.md" title="wikilink">Ozuna</a></p></td>
+<td><p>19.15</p></td>
+<td><p>2017年8月18日</p></td>
 </tr>
 <tr class="even">
 <td><p>46</p></td>
 <td><p>[49]</p></td>
 <td></td>
 <td><p><a href="../Page/阿姆.md" title="wikilink">阿姆</a><small>（<a href="../Page/蕾哈娜.md" title="wikilink">蕾哈娜</a>伴唱）</small></p></td>
-<td><p>18.87</p></td>
+<td><p>18.97</p></td>
 <td><p>2010年8月5日</p></td>
 </tr>
 <tr class="odd">
@@ -396,47 +396,47 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/輾轉難眠" title="wikilink">Stressed Out</a>[50]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/輾轉難眠" title="wikilink">輾轉難眠</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/二十一名飛員樂團" title="wikilink">二十一名飛員樂團</a></p></td>
-<td><p>18.81</p></td>
+<td><p>18.95</p></td>
 <td><p>2015年4月27日</p></td>
 </tr>
 <tr class="even">
 <td><p>48</p></td>
 <td><p>[51]</p></td>
 <td></td>
-<td><p><a href="../Page/艾維奇.md" title="wikilink">艾維奇</a></p></td>
-<td><p>18.71</p></td>
-<td><p>2013年7月29日</p></td>
-</tr>
-<tr class="odd">
-<td><p>49</p></td>
-<td><p>[52]</p></td>
 <td></td>
-<td></td>
-<td><p>18.63</p></td>
-<td><p>2018年8月10日</p></td>
-</tr>
-<tr class="even">
-<td><p>50</p></td>
-<td><p>[53]</p></td>
-<td></td>
-<td></td>
-<td><p>18.61</p></td>
+<td><p>18.88</p></td>
 <td><p>2009年6月16日</p></td>
 </tr>
 <tr class="odd">
-<td><p>51</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Let_It_Go_(迪士尼歌曲)" title="wikilink">Let It Go</a>[54]</p></td>
+<td><p>49</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Let_It_Go_(迪士尼歌曲)" title="wikilink">Let It Go</a>[52]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Let_It_Go_(迪士尼歌曲)" title="wikilink">放手吧</a></p></td>
 <td><p>(<a href="../Page/伊迪娜·曼佐.md" title="wikilink">伊迪娜·曼佐</a>)</p></td>
 <td><p>18.60</p></td>
 <td><p>2014年1月30日</p></td>
 </tr>
 <tr class="even">
+<td><p>50</p></td>
+<td><p>[53]</p></td>
+<td></td>
+<td></td>
+<td><p>18.86</p></td>
+<td><p>2018年8月10日</p></td>
+</tr>
+<tr class="odd">
+<td><p>51</p></td>
+<td><p>[54]</p></td>
+<td></td>
+<td><p><a href="../Page/艾維奇.md" title="wikilink">艾維奇</a></p></td>
+<td><p>18.77</p></td>
+<td><p>2013年7月29日</p></td>
+</tr>
+<tr class="even">
 <td><p>52</p></td>
 <td><p>[55]</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/肖恩·曼德斯" title="wikilink">肖恩·曼德斯</a></p></td>
-<td><p>18.47</p></td>
+<td><p>18.55</p></td>
 <td><p>2016年7月12日</p></td>
 </tr>
 <tr class="odd">
@@ -444,7 +444,7 @@
 <td><p>[56]</p></td>
 <td></td>
 <td></td>
-<td><p>18.28</p></td>
+<td><p>18.45</p></td>
 <td><p>2007年10月10日</p></td>
 </tr>
 <tr class="even">
@@ -452,7 +452,7 @@
 <td><p>[57]</p></td>
 <td></td>
 <td><p><a href="../Page/五佳人.md" title="wikilink">五佳人</a><small>（伴唱）</small></p></td>
-<td><p>17.76</p></td>
+<td><p>17.81</p></td>
 <td><p>2015年3月28日</p></td>
 </tr>
 <tr class="odd">
@@ -460,7 +460,7 @@
 <td><p>[58]</p></td>
 <td></td>
 <td><p>、<a href="https://zh.wikipedia.org/wiki/J_Balvin" title="wikilink">J·巴爾文</a></p></td>
-<td><p>17.60</p></td>
+<td><p>17.68</p></td>
 <td><p>2018年3月1日</p></td>
 </tr>
 <tr class="even">
@@ -468,7 +468,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Rude" title="wikilink">Rude</a>[59]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Rude" title="wikilink">沒禮貌</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/魔幻樂團" title="wikilink">魔幻樂團</a></p></td>
-<td><p>17.47</p></td>
+<td><p>17.57</p></td>
 <td><p>2013年12月5日</p></td>
 </tr>
 <tr class="odd">
@@ -476,7 +476,7 @@
 <td><p>[60]</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/火星人布魯諾" title="wikilink">火星人布魯諾</a></p></td>
-<td><p>17.35</p></td>
+<td><p>17.50</p></td>
 <td><p>2011年4月15日</p></td>
 </tr>
 <tr class="even">
@@ -484,47 +484,47 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/如此而已" title="wikilink">Something Just Like This (Lyric)</a>[61]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/如此而已" title="wikilink">如此而已（歌詞版）</a></p></td>
 <td><p><a href="../Page/老菸槍雙人組.md" title="wikilink">老菸槍雙人組</a>、<a href="../Page/酷玩樂團.md" title="wikilink">酷玩樂團</a></p></td>
-<td><p>17.29</p></td>
+<td><p>17.36</p></td>
 <td><p>2017年2月22日</p></td>
 </tr>
 <tr class="odd">
 <td><p>59</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Party_Rock_Anthem" title="wikilink">Party Rock Anthem</a>[62]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Party_Rock_Anthem" title="wikilink">派對國歌</a></p></td>
-<td><p><a href="../Page/笑本部.md" title="wikilink">笑本部</a><small>（、伴唱）</small></p></td>
-<td><p>17.18</p></td>
-<td><p>2011年3月8日</p></td>
+<td><p>[62]</p></td>
+<td></td>
+<td><p>、</p></td>
+<td><p>17.30</p></td>
+<td><p>2018年10月5日</p></td>
 </tr>
 <tr class="even">
 <td><p>60</p></td>
 <td><p>[63]</p></td>
 <td></td>
 <td><p><a href="../Page/貝姬·G.md" title="wikilink">貝姬·G</a><small>（伴唱）</small></p></td>
-<td><p>17.17</p></td>
+<td><p>17.29</p></td>
 <td><p>2017年7月13日</p></td>
 </tr>
 <tr class="odd">
 <td><p>61</p></td>
-<td><p>[64]</p></td>
-<td></td>
-<td></td>
-<td><p>17.00</p></td>
-<td><p>2014年11月14日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Party_Rock_Anthem" title="wikilink">Party Rock Anthem</a>[64]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Party_Rock_Anthem" title="wikilink">派對國歌</a></p></td>
+<td><p><a href="../Page/笑本部.md" title="wikilink">笑本部</a><small>（、伴唱）</small></p></td>
+<td><p>17.27</p></td>
+<td><p>2011年3月8日</p></td>
 </tr>
 <tr class="even">
-<td><p>62</p></td>
+<td><p>61</p></td>
 <td><p>[65]</p></td>
 <td></td>
-<td><p>、</p></td>
-<td><p>16.97</p></td>
-<td><p>2018年10月5日</p></td>
+<td></td>
+<td><p>17.03</p></td>
+<td><p>2014年11月14日</p></td>
 </tr>
 <tr class="odd">
 <td><p>63</p></td>
 <td><p>[66]</p></td>
 <td></td>
 <td></td>
-<td><p>16.85</p></td>
+<td><p>16.90</p></td>
 <td><p>2015年6月25日</p></td>
 </tr>
 <tr class="even">
@@ -532,39 +532,39 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Side_to_Side" title="wikilink">Side to Side</a>[67]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/招搖_(歌曲)" title="wikilink">招搖</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/亞莉安娜·格蘭德" title="wikilink">亞莉安娜·格蘭德</a><small>（<a href="https://zh.wikipedia.org/wiki/妮姬·米娜" title="wikilink">妮姬·米娜伴唱</a>）</small></p></td>
-<td><p>16.71</p></td>
+<td><p>16.78</p></td>
 <td><p>2016年8月29日</p></td>
 </tr>
 <tr class="odd">
 <td><p>65</p></td>
-<td><p>[68]</p></td>
+<td><p><a href="../Page/Dame_Tu_Cosita.md" title="wikilink">Dame Tu Cosita</a>[68]</p></td>
 <td></td>
-<td><p><a href="../Page/卡蜜拉·卡貝羅.md" title="wikilink">卡蜜拉·卡貝羅</a><small>（<a href="https://zh.wikipedia.org/wiki/Young_Thug" title="wikilink">Young Thug伴唱</a>）</small></p></td>
-<td><p>16.35</p></td>
-<td><p>2017年8月3日</p></td>
+<td><p><small>（伴唱）</small></p></td>
+<td><p>16.65</p></td>
+<td><p>2018年4月6日</p></td>
 </tr>
 <tr class="even">
 <td><p>66</p></td>
 <td><p>[69]</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/J_Balvin" title="wikilink">J·巴爾文</a></p></td>
-<td><p>16.33</p></td>
-<td><p>2014年8月29日</p></td>
+<td><p><a href="../Page/卡蜜拉·卡貝羅.md" title="wikilink">卡蜜拉·卡貝羅</a><small>（<a href="https://zh.wikipedia.org/wiki/Young_Thug" title="wikilink">Young Thug伴唱</a>）</small></p></td>
+<td><p>16.41</p></td>
+<td><p>2017年8月3日</p></td>
 </tr>
 <tr class="odd">
 <td><p>67</p></td>
-<td><p><a href="../Page/Dame_Tu_Cosita.md" title="wikilink">Dame Tu Cosita</a>[70]</p></td>
+<td><p>[70]</p></td>
 <td></td>
-<td><p><small>（伴唱）</small></p></td>
-<td><p>16.20</p></td>
-<td><p>2018年4月6日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/J_Balvin" title="wikilink">J·巴爾文</a></p></td>
+<td><p>16.37</p></td>
+<td><p>2014年8月29日</p></td>
 </tr>
 <tr class="even">
 <td><p>68</p></td>
 <td><p>[71]</p></td>
 <td></td>
 <td><p><a href="../Page/DJ蛇王.md" title="wikilink">DJ蛇王</a> <small>（<a href="../Page/赛琳娜·戈麦斯.md" title="wikilink">席琳娜·戈梅茲</a>、<a href="../Page/Ozuna.md" title="wikilink">Ozuna</a>、<a href="https://zh.wikipedia.org/wiki/Cardi_B" title="wikilink">Cardi B伴唱</a>）</small></p></td>
-<td><p>16.14</p></td>
+<td><p>16.32</p></td>
 <td><p>2018年10月9日</p></td>
 </tr>
 <tr class="odd">
@@ -572,7 +572,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Rolling_in_the_Deep" title="wikilink">Rolling in the Deep</a>[72]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/墜入深淵" title="wikilink">墜入深淵</a></p></td>
 <td><p><a href="../Page/愛黛兒.md" title="wikilink">愛黛兒</a></p></td>
-<td><p>16.13</p></td>
+<td><p>16.20</p></td>
 <td><p>2010年11月30日</p></td>
 </tr>
 <tr class="even">
@@ -580,7 +580,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/星聞人物_(歌曲)" title="wikilink">Starboy</a>[73]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/星聞人物_(歌曲)" title="wikilink">星聞人物</a></p></td>
 <td><p><a href="../Page/威肯.md" title="wikilink">威肯</a><small>（<a href="../Page/傻朋克.md" title="wikilink">傻瓜龐克伴唱</a>）</small></p></td>
-<td><p>16.10</p></td>
+<td><p>16.17</p></td>
 <td><p>2016年9月28日</p></td>
 </tr>
 <tr class="odd">
@@ -588,55 +588,55 @@
 <td><p>[74]</p></td>
 <td></td>
 <td><p><a href="../Page/貝姬·G.md" title="wikilink">貝姬·G</a>、</p></td>
-<td><p>15.95</p></td>
+<td><p>16.08</p></td>
 <td><p>2018年4月20日</p></td>
 </tr>
 <tr class="even">
 <td><p>72</p></td>
-<td><p><a href="../Page/就愛這一味.md" title="wikilink">That's What I Like</a>[75]</p></td>
-<td><p><a href="../Page/就愛這一味.md" title="wikilink">就愛這一味</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/火星人布魯諾" title="wikilink">火星人布魯諾</a></p></td>
-<td><p>15.90</p></td>
-<td><p>2017年3月1日</p></td>
+<td><p>[75]</p></td>
+<td></td>
+<td><p><a href="../Page/洋基老爹.md" title="wikilink">洋基老爹</a>、</p></td>
+<td><p>16.04</p></td>
+<td><p>2019年1月24日</p></td>
 </tr>
 <tr class="odd">
 <td><p>73</p></td>
-<td><p>[76]</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/瑞奇·馬汀" title="wikilink">瑞奇·馬汀</a><small>（<a href="../Page/馬路馬.md" title="wikilink">馬路馬</a>伴唱）</small></p></td>
-<td><p>15.83</p></td>
-<td><p>2016年9月22日</p></td>
+<td><p><a href="../Page/就愛這一味.md" title="wikilink">That's What I Like</a>[76]</p></td>
+<td><p><a href="../Page/就愛這一味.md" title="wikilink">就愛這一味</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/火星人布魯諾" title="wikilink">火星人布魯諾</a></p></td>
+<td><p>16.00</p></td>
+<td><p>2017年3月1日</p></td>
 </tr>
 <tr class="even">
 <td><p>74</p></td>
 <td><p>[77]</p></td>
 <td></td>
-<td><p><a href="../Page/洋基老爹.md" title="wikilink">洋基老爹</a>、</p></td>
-<td><p>15.72</p></td>
-<td><p>2019年1月24日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/瑞奇·馬汀" title="wikilink">瑞奇·馬汀</a><small>（<a href="../Page/馬路馬.md" title="wikilink">馬路馬</a>伴唱）</small></p></td>
+<td><p>15.87</p></td>
+<td><p>2016年9月22日</p></td>
 </tr>
 <tr class="odd">
 <td><p>75</p></td>
 <td><p>[78]</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/德瑞克_(歌手)" title="wikilink">德瑞克</a></p></td>
-<td><p>15.68</p></td>
-<td><p>2015年10月26日</p></td>
+<td><p><a href="../Page/約翰·傳奇.md" title="wikilink">約翰·傳奇</a></p></td>
+<td><p>15.75</p></td>
+<td><p>2013年10月2日</p></td>
 </tr>
 <tr class="even">
 <td><p>76</p></td>
 <td><p>[79]</p></td>
 <td></td>
-<td><p><a href="../Page/約翰·傳奇.md" title="wikilink">約翰·傳奇</a></p></td>
-<td><p>15.65</p></td>
-<td><p>2013年10月2日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德瑞克_(歌手)" title="wikilink">德瑞克</a></p></td>
+<td><p>15.73</p></td>
+<td><p>2015年10月26日</p></td>
 </tr>
 <tr class="odd">
 <td><p>77</p></td>
 <td><p>[80]</p></td>
 <td></td>
 <td><p><a href="../Page/馬路馬.md" title="wikilink">馬路馬</a></p></td>
-<td><p>15.58</p></td>
+<td><p>15.62</p></td>
 <td><p>2017年4月21日</p></td>
 </tr>
 <tr class="even">
@@ -644,31 +644,31 @@
 <td><p>[81]</p></td>
 <td></td>
 <td><p><a href="../Page/CNCO_(音樂團體).md" title="wikilink">CNCO</a></p></td>
-<td><p>15.43</p></td>
+<td><p>15.45</p></td>
 <td><p>2016年10月7日</p></td>
 </tr>
 <tr class="odd">
 <td><p>79</p></td>
 <td><p>[82]</p></td>
 <td></td>
-<td></td>
-<td><p>15.31</p></td>
-<td><p>2013年9月9日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Marshmello" title="wikilink">Marshmello</a></p></td>
+<td><p>15.42</p></td>
+<td><p>2016年7月2日</p></td>
 </tr>
 <tr class="even">
 <td><p>80</p></td>
 <td><p>[83]</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Marshmello" title="wikilink">Marshmello</a></p></td>
-<td><p>15.25</p></td>
-<td><p>2016年7月2日</p></td>
+<td></td>
+<td><p>15.38</p></td>
+<td><p>2013年9月9日</p></td>
 </tr>
 <tr class="odd">
 <td><p>81</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/愛你自己" title="wikilink">Love Yourself</a>[84]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/愛你自己" title="wikilink">愛你自己</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/賈斯汀·比伯" title="wikilink">賈斯汀·比伯</a></p></td>
-<td><p>15.20</p></td>
+<td><p>15.22</p></td>
 <td><p>2015年11月14日</p></td>
 </tr>
 <tr class="even">
@@ -676,7 +676,7 @@
 <td><p>[85]</p></td>
 <td></td>
 <td><p><a href="../Page/洋基老爹.md" title="wikilink">洋基老爹</a></p></td>
-<td><p>14.85</p></td>
+<td><p>14.93</p></td>
 <td><p>2018年1月18日</p></td>
 </tr>
 <tr class="odd">
@@ -684,7 +684,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/別讓我失望" title="wikilink">Don't Let Me Down</a>[86]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Don&#39;t_Let_Me_Down" title="wikilink">別讓我失望</a></p></td>
 <td><p><a href="../Page/老菸槍雙人組.md" title="wikilink">老菸槍雙人組</a><small>（伴唱）</small></p></td>
-<td><p>14.66</p></td>
+<td><p>14.75</p></td>
 <td><p>2016年4月29日</p></td>
 </tr>
 <tr class="even">
@@ -692,7 +692,7 @@
 <td><p>[87]</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/珍妮佛·洛佩茲" title="wikilink">珍妮佛·洛佩茲</a><small>（<a href="https://zh.wikipedia.org/wiki/嘻哈鬥牛梗" title="wikilink">嘻哈鬥牛梗伴唱</a>）</small></p></td>
-<td><p>14.56</p></td>
+<td><p>14.63</p></td>
 <td><p>2011年3月3日</p></td>
 </tr>
 <tr class="odd">
@@ -700,131 +700,131 @@
 <td><p>[88]</p></td>
 <td></td>
 <td><p><small>（伴唱）</small></p></td>
-<td><p>14.53</p></td>
+<td><p>14.57</p></td>
 <td><p>2017年10月19日</p></td>
 </tr>
 <tr class="even">
 <td><p>86</p></td>
 <td><p>[89]</p></td>
 <td></td>
-<td><p><small>（<a href="../Page/洋基老爹.md" title="wikilink">洋基老爹</a>伴唱）</small></p></td>
-<td><p>14.40</p></td>
-<td><p>2016年4月20日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/克莉絲汀·派瑞" title="wikilink">克莉絲汀·派瑞</a></p></td>
+<td><p>14.46</p></td>
+<td><p>2011年10月26日</p></td>
 </tr>
 <tr class="odd">
 <td><p>87</p></td>
 <td><p>[90]</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/克莉絲汀·派瑞" title="wikilink">克莉絲汀·派瑞</a></p></td>
-<td><p>14.34</p></td>
-<td><p>2011年10月26日</p></td>
+<td><p><small>（<a href="../Page/洋基老爹.md" title="wikilink">洋基老爹</a>伴唱）</small></p></td>
+<td><p>14.44</p></td>
+<td><p>2016年4月20日</p></td>
 </tr>
 <tr class="even">
 <td><p>88</p></td>
 <td><p>[91]</p></td>
 <td></td>
-<td><p><a href="../Page/馬路馬.md" title="wikilink">馬路馬</a> <small>（伴唱）</small></p></td>
-<td><p>14.26</p></td>
-<td><p>2017年12月8日</p></td>
+<td></td>
+<td><p>14.32</p></td>
+<td><p>2018年5月24日</p></td>
 </tr>
 <tr class="odd">
 <td><p>89</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Someone_Like_You" title="wikilink">Someone Like You</a>[92]</p></td>
 <td><p><a href="../Page/如你.md" title="wikilink">如你</a></p></td>
 <td><p><a href="../Page/愛黛兒.md" title="wikilink">愛黛兒</a></p></td>
-<td><p>14.24</p></td>
+<td><p>14.31</p></td>
 <td><p>2011年9月29日</p></td>
 </tr>
 <tr class="even">
 <td><p>90</p></td>
 <td><p>[93]</p></td>
 <td></td>
-<td><p><a href="../Page/威肯.md" title="wikilink">威肯</a></p></td>
-<td><p>14.23</p></td>
-<td><p>2015年5月27日</p></td>
+<td><p><a href="../Page/馬路馬.md" title="wikilink">馬路馬</a> <small>（伴唱）</small></p></td>
+<td><p>14.30</p></td>
+<td><p>2017年12月8日</p></td>
 </tr>
 <tr class="odd">
 <td><p>91</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/砰砰" title="wikilink">Bang Bang</a>[94]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/砰砰" title="wikilink">砰砰</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/潔西·J" title="wikilink">潔西·J</a>、<a href="https://zh.wikipedia.org/wiki/亞莉安娜·格蘭德" title="wikilink">亞莉安娜·格蘭德</a>、<a href="https://zh.wikipedia.org/wiki/妮姬·米娜" title="wikilink">妮姬·米娜</a></p></td>
-<td><p>14.21</p></td>
-<td><p>2014年8月25日</p></td>
+<td><p>[94]</p></td>
+<td></td>
+<td><p><a href="../Page/威肯.md" title="wikilink">威肯</a></p></td>
+<td><p>14.29</p></td>
+<td><p>2015年5月27日</p></td>
 </tr>
 <tr class="even">
 <td><p>92</p></td>
-<td><p>[95]</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/希雅" title="wikilink">希雅</a><small>（<a href="https://zh.wikipedia.org/wiki/尚恩·保羅" title="wikilink">尚恩·保羅伴唱</a>）</small></p></td>
-<td><p>14.20</p></td>
-<td><p>2016年2月10日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/砰砰" title="wikilink">Bang Bang</a>[95]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/砰砰" title="wikilink">砰砰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/潔西·J" title="wikilink">潔西·J</a>、<a href="https://zh.wikipedia.org/wiki/亞莉安娜·格蘭德" title="wikilink">亞莉安娜·格蘭德</a>、<a href="https://zh.wikipedia.org/wiki/妮姬·米娜" title="wikilink">妮姬·米娜</a></p></td>
+<td><p>14.27</p></td>
+<td><p>2014年8月25日</p></td>
 </tr>
 <tr class="odd">
 <td><p>93</p></td>
 <td><p>[96]</p></td>
 <td></td>
-<td></td>
-<td><p>14.17</p></td>
-<td><p>2016年1月14日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/希雅" title="wikilink">希雅</a><small>（<a href="https://zh.wikipedia.org/wiki/尚恩·保羅" title="wikilink">尚恩·保羅伴唱</a>）</small></p></td>
+<td><p>14.27</p></td>
+<td><p>2016年2月10日</p></td>
 </tr>
 <tr class="even">
 <td><p>94</p></td>
-<td><p>[97]</p></td>
-<td></td>
-<td></td>
-<td><p>14.12</p></td>
-<td><p>2018年5月24日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/璀鑽_(蕾哈娜歌曲)" title="wikilink">Diamonds</a>[97]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/璀鑽_(蕾哈娜歌曲)" title="wikilink">璀鑽</a></p></td>
+<td><p><a href="../Page/蕾哈娜.md" title="wikilink">蕾哈娜</a></p></td>
+<td><p>14.20</p></td>
+<td><p>2012年11月8日</p></td>
 </tr>
 <tr class="odd">
 <td><p>95</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/璀鑽_(蕾哈娜歌曲)" title="wikilink">Diamonds</a>[98]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/璀鑽_(蕾哈娜歌曲)" title="wikilink">璀鑽</a></p></td>
-<td><p><a href="../Page/蕾哈娜.md" title="wikilink">蕾哈娜</a></p></td>
-<td><p>14.11</p></td>
-<td><p>2012年11月8日</p></td>
+<td><p>[98]</p></td>
+<td></td>
+<td></td>
+<td><p>14.19</p></td>
+<td><p>2016年1月14日</p></td>
 </tr>
 <tr class="even">
 <td><p>96</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/完美情人_(火星人布魯諾歌曲)" title="wikilink">Just the Way You Are</a>[99]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/完美情人_(火星人布魯諾歌曲)" title="wikilink">完美情人</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/火星人布魯諾" title="wikilink">火星人布魯諾</a></p></td>
-<td><p>14.03</p></td>
+<td><p>14.10</p></td>
 <td><p>2010年9月8日</p></td>
 </tr>
 <tr class="odd">
 <td><p>97</p></td>
 <td><p>[100]</p></td>
 <td></td>
-<td><p><a href="../Page/洋基老爹.md" title="wikilink">洋基老爹</a></p></td>
-<td><p>13.95</p></td>
-<td><p>2016年7月14日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/傑森·德魯羅" title="wikilink">傑森·德魯羅</a><small>（<a href="https://zh.wikipedia.org/wiki/妮姬·米娜" title="wikilink">妮姬·米娜</a>、伴唱）</small></p></td>
+<td><p>14.01</p></td>
+<td><p>2017年3月17日</p></td>
 </tr>
 <tr class="even">
 <td><p>98</p></td>
 <td><p>[101]</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/傑森·德魯羅" title="wikilink">傑森·德魯羅</a><small>（<a href="https://zh.wikipedia.org/wiki/妮姬·米娜" title="wikilink">妮姬·米娜</a>、伴唱）</small></p></td>
-<td><p>13.94</p></td>
-<td><p>2017年3月17日</p></td>
+<td><p><a href="../Page/洋基老爹.md" title="wikilink">洋基老爹</a></p></td>
+<td><p>14.00</p></td>
+<td><p>2016年7月14日</p></td>
 </tr>
 <tr class="odd">
 <td><p>99</p></td>
 <td><p>[102]</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/艾麗·高登" title="wikilink">艾麗·高登</a></p></td>
-<td><p>13.77</p></td>
-<td><p>2013年7月7日</p></td>
+<td></td>
+<td><p>13.92</p></td>
+<td><p>2018年6月25日</p></td>
 </tr>
 <tr class="even">
 <td><p>100</p></td>
-<td><p>[103]</p></td>
-<td></td>
-<td></td>
-<td><p>13.64</p></td>
-<td><p>2018年6月25日</p></td>
+<td><p>Hush a Bye Baby [103]</p></td>
+<td><p>寶寶快睡</p></td>
+<td><p>infobells</p></td>
+<td><p>13.90</p></td>
+<td><p>2017年9月16日</p></td>
 </tr>
 <tr class="odd">
-<td><p><small>截至2019年11月19日</small></p></td>
+<td><p><small>截至2019年12月09日</small></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -840,7 +840,7 @@
 
 ### 十億觀看次數
 
-本區列出所有YouTube上達到10億次觀看次數的影片，20、30、40、50、60億次的也一併列出。在2015年6月之前，只有兩部影片達到10億觀看次數的里程碑（分別是《[Gangnam Style](../Page/江南Style.md "wikilink")》和《[Baby](https://zh.wikipedia.org/wiki/Baby_\(歌曲\) "wikilink")》）。但截至2015年10月，有十支影片達到10億觀看次數\[104\]。截到2018年2月14日，觀看次數達到10億的影片突破100部。直到今日，已有197支影片超過10億觀看次數；39支影片超過20億觀看次數\[105\]；9支影片超過30億觀看次數；5支影片超過40億觀看次數；1支影片超過50、60億觀看次數。到目前為止，利用最少天數達到10億觀看次數的影片為《[Hello](https://zh.wikipedia.org/wiki/你好_\(阿黛爾歌曲\) "wikilink")》（88天），利用最少天數達到20億（155天）、30億（204天）、40億（272天）、50億（447天）、60億觀看次數（772天）的影片為《[Despacito](../Page/慢慢來_\(路易斯·方辛歌曲\).md "wikilink")》。
+本區列出所有YouTube上達到10億次觀看次數的影片，20、30、40、50、60億次的也一併列出。在2015年6月之前，只有兩部影片達到10億觀看次數的里程碑（分別是《[Gangnam Style](../Page/江南Style.md "wikilink")》和《[Baby](https://zh.wikipedia.org/wiki/Baby_\(歌曲\) "wikilink")》）。但截至2015年10月，有十支影片達到10億觀看次數\[104\]。截到2018年2月14日，觀看次數達到10億的影片突破100部。直到今日，已有200支影片超過10億觀看次數；40支影片超過20億觀看次數\[105\]；9支影片超過30億觀看次數；5支影片超過40億觀看次數；1支影片超過50、60億觀看次數。到目前為止，利用最少天數達到10億觀看次數的影片為《[Hello](https://zh.wikipedia.org/wiki/你好_\(阿黛爾歌曲\) "wikilink")》（88天），利用最少天數達到20億（155天）、30億（204天）、40億（272天）、50億（447天）、60億觀看次數（772天）的影片為《[Despacito](../Page/慢慢來_\(路易斯·方辛歌曲\).md "wikilink")》。
 
 <table>
 <thead>
@@ -2150,87 +2150,108 @@
 </tr>
 <tr class="even">
 <td><p>186</p></td>
+<td><p>Sesame Street:Song:Shake Shake The Mango Tree</p></td>
+<td><p>2012年1月13日</p></td>
+<td><p>2019年9月20日</p></td>
+<td><p>2686</p></td>
+</tr>
+<tr class="odd">
+<td><p>187</p></td>
 <td></td>
 <td><p>2017年4月14日</p></td>
 <td><p>2019年9月28日</p></td>
 <td><p>897</p></td>
 </tr>
-<tr class="odd">
-<td><p>187</p></td>
+<tr class="even">
+<td><p>188</p></td>
 <td><p>Baby Shark Kids Songs and Nursery Rhymes</p></td>
 <td><p>2018年5月12日</p></td>
 <td><p>2019年9月29日</p></td>
 <td><p>505</p></td>
 </tr>
-<tr class="even">
-<td><p>188</p></td>
+<tr class="odd">
+<td><p>189</p></td>
 <td></td>
 <td><p>2009年12月25日</p></td>
 <td><p>2019年10月16日</p></td>
 <td><p>3582</p></td>
 </tr>
-<tr class="odd">
-<td><p>189</p></td>
+<tr class="even">
+<td><p>190</p></td>
 <td></td>
 <td><p>2019年3月29日</p></td>
 <td><p>2019年10月16日</p></td>
 <td><p>201</p></td>
 </tr>
-<tr class="even">
-<td><p>190</p></td>
+<tr class="odd">
+<td><p>191</p></td>
 <td></td>
 <td><p>2018年6月1日</p></td>
 <td><p>2019年10月17日</p></td>
 <td><p>503</p></td>
 </tr>
-<tr class="odd">
-<td><p>191</p></td>
+<tr class="even">
+<td><p>192</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/You_Belong_With_Me" title="wikilink">You Belong With Me</a></p></td>
 <td><p>2009年6月17日</p></td>
 <td><p>2019年10月28日</p></td>
 <td><p>3785</p></td>
 </tr>
-<tr class="even">
-<td><p>192</p></td>
+<tr class="odd">
+<td><p>193</p></td>
 <td><p>МОЙ ДРУГ В РЕАЛЬНОЙ ЖИЗНИ! ПОЯВИЛСЯ ИЗ ТЕЛЕВИЗОРА, ВИДЕО ДЛЯ ДЕТЕЙ 0+</p></td>
 <td><p>2018年2月26日</p></td>
 <td><p>2019年11月11日</p></td>
 <td><p>623</p></td>
 </tr>
-<tr class="odd">
-<td><p>193</p></td>
+<tr class="even">
+<td><p>194</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du" title="wikilink">DDU-DU DDU-DU</a></p></td>
 <td><p>2018年6月15日</p></td>
 <td><p>2019年11月11日</p></td>
 <td><p>514</p></td>
 </tr>
-<tr class="even">
-<td><p>194</p></td>
+<tr class="odd">
+<td><p>195</p></td>
 <td></td>
 <td><p>2015年7月1日</p></td>
 <td><p>2019年11月14日</p></td>
 <td><p>1597</p></td>
 </tr>
-<tr class="odd">
-<td><p>195</p></td>
+<tr class="even">
+<td><p>196</p></td>
 <td></td>
 <td><p>2016年7月21日</p></td>
 <td><p>2019年11月16日</p></td>
 <td><p>1213</p></td>
 </tr>
-<tr class="even">
-<td><p>196</p></td>
+<tr class="odd">
+<td><p>197</p></td>
 <td><p>UPA CAVALINHO Clipe Música oficial</p></td>
 <td><p>2017年7月7日</p></td>
 <td><p>2019年11月22日</p></td>
 <td><p>868</p></td>
 </tr>
-<tr class="odd">
-<td><p>197</p></td>
+<tr class="even">
+<td><p>198</p></td>
 <td></td>
 <td><p>2014年1月30日</p></td>
 <td><p>2019年11月25日</p></td>
 <td><p>2125</p></td>
+</tr>
+<tr class="odd">
+<td><p>199</p></td>
+<td><p>Baby Shark Cocomelon Nursery Rhymes&amp;kids songs</p></td>
+<td><p>2017年11月21日</p></td>
+<td><p>2019年12月13日</p></td>
+<td><p>752</p></td>
+</tr>
+<tr class="even">
+<td><p>200</p></td>
+<td></td>
+<td><p>2018年2月21日</p></td>
+<td><p>2019年12月20日</p></td>
+<td><p>667</p></td>
 </tr>
 </tbody>
 </table>
@@ -2518,6 +2539,20 @@
 <td><p>2018年2月6日</p></td>
 <td><p>2019年10月31日</p></td>
 <td><p>612</p></td>
+</tr>
+<tr class="even">
+<td><p>40</p></td>
+<td></td>
+<td><p>2018年4月12日</p></td>
+<td><p>2019年12月7日</p></td>
+<td><p>605</p></td>
+</tr>
+<tr class="odd">
+<td><p>41</p></td>
+<td><p>Phonics Song with TWO words</p></td>
+<td><p>2014年3月6日</p></td>
+<td><p>2019年12月22日</p></td>
+<td><p>2117</p></td>
 </tr>
 </tbody>
 </table>
@@ -2868,8 +2903,8 @@
 25.
 26.
 27.
-28.
-29.  Popular Nursery Rhymes Collection by ChuChu TV|publisher=[YouTube](../Page/YouTube.md "wikilink")|accessdate=2016-07-19}}
+28.  Popular Nursery Rhymes Collection by ChuChu TV|publisher=[YouTube](../Page/YouTube.md "wikilink")|accessdate=2016-07-19}}
+29.
 30.
 31.
 32.
@@ -2878,23 +2913,23 @@
 35.
 36.
 37.
-38.
-39.  Popular Nursery Rhymes Collection by ChuChu TV|publisher=[YouTube](../Page/YouTube.md "wikilink")|accessdate=2016-07-19}}
+38.  Popular Nursery Rhymes Collection by ChuChu TV|publisher=[YouTube](../Page/YouTube.md "wikilink")|accessdate=2016-07-19}}
+39.
 40.
 41.
 42.
 43.
-44.
+44.  Popular Nursery Rhymes Collection by ChuChu TV|publisher=[YouTube](../Page/YouTube.md "wikilink")|accessdate=2016-07-19}}
 45.
 46.
 47.
-48.  Popular Nursery Rhymes Collection by ChuChu TV|publisher=[YouTube](../Page/YouTube.md "wikilink")|accessdate=2016-07-19}}
+48.
 49.
 50.
 51.
-52.  Popular Nursery Rhymes Collection by ChuChu TV|publisher=[YouTube](../Page/YouTube.md "wikilink")|accessdate=2016-07-19}}
-53.
-54.  Official Disney HD|publisher=[YouTube](../Page/YouTube.md "wikilink")|accessdate=2016-07-19}}
+52.  Official Disney HD|publisher=[YouTube](../Page/YouTube.md "wikilink")|accessdate=2016-07-19}}
+53.  Popular Nursery Rhymes Collection by ChuChu TV|publisher=[YouTube](../Page/YouTube.md "wikilink")|accessdate=2016-07-19}}
+54.
 55.
 56.
 57.
@@ -2904,8 +2939,8 @@
 61.
 62.
 63.
-64.  Popular Nursery Rhymes Collection by ChuChu TV|publisher=[YouTube](../Page/YouTube.md "wikilink")|accessdate=2016-07-19}}
-65.
+64.
+65.  Popular Nursery Rhymes Collection by ChuChu TV|publisher=[YouTube](../Page/YouTube.md "wikilink")|accessdate=2016-07-19}}
 66.
 67.
 68.
@@ -2931,19 +2966,19 @@
 88.
 89.
 90.
-91.
+91.  Popular Nursery Rhymes Collection by ChuChu TV|publisher=[YouTube](../Page/YouTube.md "wikilink")|accessdate=2016-07-19}}
 92.
 93.
 94.
 95.
 96.
-97.  Popular Nursery Rhymes Collection by ChuChu TV|publisher=[YouTube](../Page/YouTube.md "wikilink")|accessdate=2016-07-19}}
+97.
 98.
 99.
 100.
 101.
-102.
-103.  Popular Nursery Rhymes Collection by ChuChu TV|publisher=[YouTube](../Page/YouTube.md "wikilink")|accessdate=2016-07-19}}
+102.  Popular Nursery Rhymes Collection by ChuChu TV|publisher=[YouTube](../Page/YouTube.md "wikilink")|accessdate=2016-07-19}}
+103.
 104.
 105.
 106.

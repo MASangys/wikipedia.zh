@@ -1,16 +1,16 @@
-**WebAssembly**或稱**wasm**是一個實驗性的[低階程式語言](https://zh.wikipedia.org/wiki/低级编程语言 "wikilink")，應用於[瀏覽器內的](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[客戶端](https://zh.wikipedia.org/wiki/客戶端 "wikilink")。WebAssembly是可攜式的[抽象語法樹](https://zh.wikipedia.org/wiki/抽象語法樹 "wikilink")\[1\]，被設計來提供比[JavaScript](../Page/JavaScript.md "wikilink")更快速的[編譯及執行](https://zh.wikipedia.org/wiki/編譯 "wikilink")\[2\]。WebAssembly將讓開發者能運用自己熟悉的程式語言（最初以[C](https://zh.wikipedia.org/wiki/C語言 "wikilink")/[C++](../Page/C++.md "wikilink")作為實作目標）編譯，再藉虛擬機器引擎在瀏覽器內執行\[3\]。WebAssembly的開發團隊分別來自[Mozilla](../Page/Mozilla基金會.md "wikilink")、[Google](../Page/Google.md "wikilink")、[Microsoft](https://zh.wikipedia.org/wiki/微軟 "wikilink")、[Apple](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，代表著四大網路瀏覽器[Firefox](../Page/Firefox.md "wikilink")、[Chrome](../Page/Google_Chrome.md "wikilink")、[Microsoft Edge](../Page/Microsoft_Edge.md "wikilink")、[Safari](../Page/Safari.md "wikilink")\[4\]。2017年11月，以上四個瀏覽器都開始實驗性的支援WebAssembly\[5\]\[6\]。
+**WebAssembly**或稱**wasm**是一個實驗性的[低階程式語言](https://zh.wikipedia.org/wiki/低级编程语言 "wikilink")，應用於[瀏覽器內的](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[客戶端](https://zh.wikipedia.org/wiki/客戶端 "wikilink")。WebAssembly是可攜式的[抽象語法樹](https://zh.wikipedia.org/wiki/抽象語法樹 "wikilink")\[1\]，被設計來提供比[JavaScript](../Page/JavaScript.md "wikilink")更快速的[編譯及執行](https://zh.wikipedia.org/wiki/編譯 "wikilink")\[2\]。WebAssembly將讓開發者能運用自己熟悉的程式語言（最初以[C](https://zh.wikipedia.org/wiki/C語言 "wikilink")/[C++](../Page/C++.md "wikilink")作為實作目標）編譯，再藉虛擬機器引擎在瀏覽器內執行\[3\]。WebAssembly的開發團隊分別來自[Mozilla](../Page/Mozilla基金會.md "wikilink")、[Google](../Page/Google.md "wikilink")、[Microsoft](https://zh.wikipedia.org/wiki/微軟 "wikilink")、[Apple](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，代表著四大網路瀏覽器[Firefox](../Page/Firefox.md "wikilink")、[Chrome](../Page/Google_Chrome.md "wikilink")、[Microsoft Edge](../Page/Microsoft_Edge.md "wikilink")、[Safari](../Page/Safari.md "wikilink")\[4\]。2017年11月，以上四個瀏覽器都開始實驗性的支援WebAssembly\[5\]\[6\]。WebAssembly 于 2019 年 12 月 5 日成为万维网联盟（W3C）的推荐，与 HTML，CSS 和 JavaScript 一起，成为 Web 的第四种语言。\[7\]。
 
 ## 設計
 
 ### Ending定律
 
-Ending's law\[7\]: "Any application that can be compiled to WebAssembly, will be compiled to WebAssembly eventually."
+Ending's law\[8\]: "Any application that can be compiled to WebAssembly, will be compiled to WebAssembly eventually."
 
 Ending定律也称为终结者定律，它是Ending在2016年Emscripten技术交流会上给出的断言：所有可以用WebAssembly实现的终将会用WebAssembly实现。
 
 ### 最高指導目標
 
-在官方的一個github頁面\[8\]與說明文件\[9\]中，闡述了WebAssembly的設計與實作原則，包含：
+在官方的一個github頁面\[9\]與說明文件\[10\]中，闡述了WebAssembly的設計與實作原則，包含：
 
 1.  定義一個可移植，具有大小與載入高效率的二進位格式，作為編譯標的。這個編譯標的必須可以被編譯至常見的平台，包含[移動端與](../Page/移动电话.md "wikilink")[物聯網](../Page/物联网.md "wikilink")，並且可以善用[硬體資源](../Page/硬件.md "wikilink")、有原生執行碼的執行速度。
 2.  規格與實作：
@@ -31,7 +31,7 @@ Ending定律也称为终结者定律，它是Ending在2016年Emscripten技术交
 
 ### 下一階段要實作的特色
 
-在2017年推出第一個版本後，同時也列出了下一階段將實作的特色\[10\]\[11\]
+在2017年推出第一個版本後，同時也列出了下一階段將實作的特色\[11\]\[12\]
 
   - 制定規格
   - [執行緒](../Page/线程.md "wikilink")
@@ -97,3 +97,4 @@ Ending定律也称为终结者定律，它是Ending在2016年Emscripten技术交
 9.
 10.
 11.
+12.

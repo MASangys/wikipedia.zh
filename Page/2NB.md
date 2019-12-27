@@ -685,10 +685,10 @@
 1.  [투앤비, '여자 플라이투더스카이'로 인정받아](http://star.mt.co.kr/stview_sports.htm?no=2006040616054333419) Star News
 2.  ['새 멤버 영입' 투앤비, 신인탈출의 날갯짓](http://m.entertain.naver.com/read?oid=076&aid=0001969330) Sports Chosun
 3.  [투앤비, 해체 5년 만에 새 멤버 김효진-손유나 영입 ‘2기 체제 컴백’](http://www.etnews.com/20160831000391) etnews
-4.  [First Story - 김현주](http://www.mnet.com/album/8821) Mnet
-5.  [첫번째 향기 (Single) - 2NB](http://www.mnet.com/album/146632) Mnet
-6.  [Challenge - 솔지](http://www.mnet.com/album/156464) Mnet
-7.  [사랑이 고프다 (Single) - 김송이](http://www.mnet.com/album/175929) Mnet
+4.  [First Story - 김현주](http://www.mnet.com/album/8821)  Mnet
+5.  [첫번째 향기 (Single) - 2NB](http://www.mnet.com/album/146632)  Mnet
+6.  [Challenge - 솔지](http://www.mnet.com/album/156464)  Mnet
+7.  [사랑이 고프다 (Single) - 김송이](http://www.mnet.com/album/175929)  Mnet
 8.  [허솔지, 소속사와 계약만료로 투앤비 탈퇴](http://sports.donga.com/3//20110621/38196455/1)  dongA.com
 9.  [EXID 公開二位新成員](http://kpopn.com/2012/07/31/136269/)  Kpopn
 10. [복학생 백지영, 2NB의 '김송이'\! - 히든싱어 10회](https://www.youtube.com/watch?v=ANdm30iTWeQ) JTBC Entertainment
