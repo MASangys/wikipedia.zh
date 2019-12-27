@@ -22,9 +22,9 @@ Wish最早於2002年在日本國內上市，以「滿足你的希望」來命名
 
 2005年11月左右，[馬自達推出](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[Premacy第二代](https://zh.wikipedia.org/wiki/Mazda5 "wikilink")(海外版稱為Mazda5)且尺碼增加到與Wish相近。為應付競爭對手的增加，Toyota及時推出Wish Z運動版來撐場。Wish Z與其他版本的不同在於座位上由七人座改為六人座，因此增加了一條中央走道，同時將後[懸吊系統](../Page/懸吊系統.md "wikilink")由扭力桿拖曳臂式改成[獨立雙A臂式](https://zh.wikipedia.org/wiki/雙橫臂懸架 "wikilink")，並將輪胎尺寸由195/65 R15提升到215/50 R17，輪圈也同時由15吋加大到17吋，並由五爪改到七爪，裝上加大輪弧。外觀Z將左右側裙列為標準配備。由於規格上有多處被性能化，因此Wish Z的操控性提升不少，但價位也因此提高，所以銷售量遠不及七人座的版本。Wish Z仍分為兩版，分別是Z和Z-option，後者價位超過新台幣九十萬。
 
-Image:Toyota Wish (first generation) (front), Kajang.jpg|第一代WishZ版車頭 Image:Toyota Wish (first generation) (rear), Kajang.jpg|第一代WishZ版車尾
+<File:Toyota> Wish (first generation) (front), Kajang.jpg|第一代WishZ版車頭 <File:Toyota> Wish (first generation) (rear), Kajang.jpg|第一代WishZ版車尾 <File:Toyota> Wish 10 Taiwan 03.JPG|第一代Wish台灣版車頭 <File:Toyota> Wish 10 Taiwan 02.JPG|第一代Wish台灣版後車燈
 
-由於市場上的競爭者[Ford](https://zh.wikipedia.org/wiki/福特汽車 "wikilink") [i-MAX](../Page/馬自達5.md "wikilink")、[Mazda](https://zh.wikipedia.org/wiki/Mazda "wikilink") [Mazda5和](https://zh.wikipedia.org/wiki/馬自達Mazda5 "wikilink")[Mitsubishi](https://zh.wikipedia.org/wiki/Mitsubishi "wikilink") [Savrin皆以改款提升產品競爭力](https://zh.wikipedia.org/wiki/三菱Savrin "wikilink")。再加上多款同級車型即將登場，在2007年3月，Wish推出了小改款車型，內裝以及車頭的質感提升是此次改款的重點，其餘則未做更動。 {{-}}
+由於市場上的競爭者[福特i-MAX](https://zh.wikipedia.org/wiki/福特i-MAX "wikilink")、[馬自達5](../Page/馬自達5.md "wikilink")和[三菱Savrin皆以改款提升產品競爭力](https://zh.wikipedia.org/wiki/三菱Savrin "wikilink")。再加上多款同級車型即將登場，在2007年3月，Wish推出了小改款車型，內裝以及車頭的質感提升是此次改款的重點，其餘則未做更動。 {{-}}
 
 ### 第二代
 

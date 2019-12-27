@@ -136,47 +136,64 @@ Hit Fm 除媒體主業之外，也積極舉辦許多文教與娛樂性活動，�
 
 ### 北部DJ
 
-|                  **DJ**                   |
-| :---------------------------------------: |
-| [周玉蔻](../Page/周玉蔻.md "wikilink")（周玉蔻嗆新聞）  |
-|  [蔣卓嘉](../Page/蔣卓嘉.md "wikilink")（翹班DJ）   |
-|               Bibi趙之璧（不累DJ）               |
-|      Bryan（耐玩DJ & TOYOTA HITO中文排行榜）       |
-| [Dennis](../Page/區耕祥.md "wikilink")（夜貓DJ） |
-|                                           |
+  - [周玉蔻](../Page/周玉蔻.md "wikilink")（周玉蔻嗆新聞）
+  - [GiGi](../Page/林如琦.md "wikilink")（HIT週末\!）
+  - 阿娟（活力DJ & 全球流行音樂金榜）
+  - Austin（嗑音樂-日）
+  - [蔣卓嘉](../Page/蔣卓嘉.md "wikilink")（翹班DJ）
+  - 克里斯（HITO唱片行）
+  - SoWhat（午茶DJ）
+  - Kris（嗑音樂-六）
+  - Bibi趙之璧（不累DJ）
+  - [ciacia](../Page/何欣穗.md "wikilink")（ROCK DJ）
+  - elsa（HITO 西洋排行榜 \&HITO 日亞排行榜 & HEY！MISS DJ ）
+  - [馬念先](../Page/馬念先.md "wikilink")+奇哥（HITO LATE NIGHT SHOW）
+  - Bryan（耐玩DJ & TOYOTA HITO中文排行榜）
+  - 奇哥（HITO LATE NIGHT SHOW）
+  - Waa([魏如萱](../Page/魏如萱.md "wikilink"))（OH夜DJ）
+  - 代班：[魏如昀](../Page/魏如昀.md "wikilink")(OH OH DJ)
+  - Christine（LOVE DJ）
+  - [Dennis](../Page/區耕祥.md "wikilink")（夜貓DJ）
+  - [蔡榮祖](../Page/蔡榮祖.md "wikilink")（夠DJ）
+  - Phoenix（賴床DJ）
+  - 羅友志（羅友志嗆新聞）
 
 ### 中部DJ
 
-|     **DJ**      |
-| :-------------: |
-| Michelle（早安DJ）  |
-| Erin（RELAX DJ）  |
-| Alice（FRESH DJ） |
-|                 |
+  - Michelle（早安DJ）
+  - Mini（馬路 DJ）
+  - 阿尼(NOW DJ)（校園青春錄）
+  - Debbie（點播特區）
+  - Erin（RELAX DJ）
+  - Gracie（FUN DJ）
+  - Umi 醬（FREE DJ）
+  - AKA（代班DJ）
+  - Alice（FRESH DJ）
 
 ### 南部DJ
 
-|     **DJ**      |
-| :-------------: |
-| Tracy（HAPPY DJ） |
-|   FIFI（元氣DJ）    |
-|                 |
+  - Tracy（HAPPY DJ）
+  - 小米（點播特區）
+  - 童童（午餐DJ & 不睡週末夜）
+  - Alan（LOVE DJ）
+  - FIFI（元氣DJ）
+  - UNI（HITO FUN 輕鬆）
+  - Momoko（不睡週末夜）\[16\]
 
 ### 宜蘭DJ
 
-|                **DJ**                 |
-| :-----------------------------------: |
-| [偉苓](../Page/解偉苓.md "wikilink")（翹班DJ） |
-|              宥鈞（LOVE DJ）              |
-|                                       |
+  - [偉苓](../Page/解偉苓.md "wikilink")（翹班DJ）
+  - 維多（嗑音樂-六）
+  - [EVA](https://zh.wikipedia.org/wiki/藍雅苡 "wikilink")（嗑音樂-日）
+  - 宥鈞（LOVE DJ）
 
 ### 前DJ
 
   - [黃韻玲](../Page/黃韻玲.md "wikilink")：曾任《Freezy DJ》主持人
   - [黃小楨](../Page/黃小楨.md "wikilink")
-  - 何語蓉：曾任中台灣廣播電台《俏迷DJ》主持人， 曾參選台中市議員\[16\]。
+  - 何語蓉：曾任中台灣廣播電台《俏迷DJ》主持人， 曾參選台中市議員\[17\]。
   - 凱莉：現為[港都電台](../Page/好事聯播網.md "wikilink")《港都好心情》主持人
-  - NANA\[17\]，於2013\~2015年\[18\]在高屏電台擔任周末HITO FUN輕鬆DJ，現以[一隻阿圓的藝名活耀於Youtube圈](https://zh.wikipedia.org/wiki/一隻阿圓 "wikilink")。
+  - NANA\[18\]，於2013\~2015年\[19\]在高屏電台擔任周末HITO FUN輕鬆DJ，現以[一隻阿圓的藝名活耀於Youtube圈](https://zh.wikipedia.org/wiki/一隻阿圓 "wikilink")。
 
 ## 整點新聞時段
 
@@ -219,7 +236,7 @@ Hit Fm 除媒體主業之外，也積極舉辦許多文教與娛樂性活動，�
 
 ### 廣播金鐘獎
 
-|- |2004年 |《校園青春錄》（中台灣廣播電台） |[第39屆廣播金鐘獎少年節目獎](https://zh.wikipedia.org/wiki/第39屆金鐘獎 "wikilink") | |- |2004年 |《校園青春錄》／洪-{韵}-婷（Sharon）\[19\]（中台灣廣播電台） |[第39屆廣播金鐘獎少年節目主持人獎](https://zh.wikipedia.org/wiki/第39屆金鐘獎 "wikilink") | |- |2006年 |《音樂五六七》（高屏廣播電台） |[第41屆廣播金鐘獎流行音樂節目獎](https://zh.wikipedia.org/wiki/第41屆金鐘獎 "wikilink") | |- |2007年 |《校園青春錄》／黃攸真(Gracie)（中台灣廣播電台） |第三屆廣播電視小金鐘獎\[20\]最佳少年節目主持人獎 | |- |2013年 |《聖誕版臺呼—A-Lin+小宇版》 |[第48屆廣播金鐘獎電臺臺呼獎](https://zh.wikipedia.org/wiki/第48屆金鐘獎 "wikilink") | |- |2015年 |《毛起來愛–流浪動物認養活動》 |[第50屆廣播金鐘獎電臺品牌行銷創新獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink") | |- |2015年 |《Hit FM聯播網官方APP》 |[第50屆廣播金鐘獎電臺數位應用獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink") | |- |2015年 |《生活在宜蘭》（宜蘭中山廣播電台） |[第50屆廣播金鐘獎社區節目獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink") | |- |2016年 |《2015 Hit Fm年度百首單曲票選-我的年度一歌》 |[第51屆廣播金鐘獎電臺品牌行銷創新獎](https://zh.wikipedia.org/wiki/第51屆金鐘獎 "wikilink") |
+|- |2004年 |《校園青春錄》（中台灣廣播電台） |[第39屆廣播金鐘獎少年節目獎](https://zh.wikipedia.org/wiki/第39屆金鐘獎 "wikilink") | |- |2004年 |《校園青春錄》／洪-{韵}-婷（Sharon）\[20\]（中台灣廣播電台） |[第39屆廣播金鐘獎少年節目主持人獎](https://zh.wikipedia.org/wiki/第39屆金鐘獎 "wikilink") | |- |2006年 |《音樂五六七》（高屏廣播電台） |[第41屆廣播金鐘獎流行音樂節目獎](https://zh.wikipedia.org/wiki/第41屆金鐘獎 "wikilink") | |- |2007年 |《校園青春錄》／黃攸真(Gracie)（中台灣廣播電台） |第三屆廣播電視小金鐘獎\[21\]最佳少年節目主持人獎 | |- |2013年 |《聖誕版臺呼—A-Lin+小宇版》 |[第48屆廣播金鐘獎電臺臺呼獎](https://zh.wikipedia.org/wiki/第48屆金鐘獎 "wikilink") | |- |2015年 |《毛起來愛–流浪動物認養活動》 |[第50屆廣播金鐘獎電臺品牌行銷創新獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink") | |- |2015年 |《Hit FM聯播網官方APP》 |[第50屆廣播金鐘獎電臺數位應用獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink") | |- |2015年 |《生活在宜蘭》（宜蘭中山廣播電台） |[第50屆廣播金鐘獎社區節目獎](https://zh.wikipedia.org/wiki/第50屆金鐘獎 "wikilink") | |- |2016年 |《2015 Hit Fm年度百首單曲票選-我的年度一歌》 |[第51屆廣播金鐘獎電臺品牌行銷創新獎](https://zh.wikipedia.org/wiki/第51屆金鐘獎 "wikilink") |
 
 ## 年度百首單曲
 
@@ -287,8 +304,9 @@ Hit Fm 除媒體主業之外，也積極舉辦許多文教與娛樂性活動，�
 13. [Re: 台北之音Hit Fm聯播網](http://www.ptt.cc/bbs/radio/M.1356640617.A.EB7.html)，[PTT電台版](https://zh.wikipedia.org/wiki/批踢踢 "wikilink")（因「濁水溪廣播電台」和高屏廣播電台頻率都是FM 90.1）
 14. [頻率資料庫查詢系統](http://i.imgur.com/jFVCI8M.png)，國家通訊傳播委員會
 15. [台東根本收不到hitfm](http://www.hitoradio.com/newweb/forum/viewtopic.php?f=83&t=40509)，hitoradio
-16. [歐巴桑聯盟台中市議員第一波候選人今天出擊](http://www.chinatimes.com/realtimenews/20180308001819-260407)
-17.
+16. 曾任[KISS RadioDJ](../Page/KISS_Radio.md "wikilink")
+17. [歐巴桑聯盟台中市議員第一波候選人今天出擊](http://www.chinatimes.com/realtimenews/20180308001819-260407)
 18.
-19. [校園青春錄](https://web.archive.org/web/20040612005733/http://www.hitfm.com.tw/dj_prifiles/sharon.htm)
-20. [2007年第三屆廣播電視小金鐘獎入圍名單-來源:PTT](https://www.ptt.cc/bbs/Golden-Award/M.1192919578.A.FDB.html)
+19.
+20. [校園青春錄](https://web.archive.org/web/20040612005733/http://www.hitfm.com.tw/dj_prifiles/sharon.htm)
+21. [2007年第三屆廣播電視小金鐘獎入圍名單-來源:PTT](https://www.ptt.cc/bbs/Golden-Award/M.1192919578.A.FDB.html)

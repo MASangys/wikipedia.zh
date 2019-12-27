@@ -2,7 +2,7 @@
 
 ## 歷史
 
-SK-II本是蜜絲佛陀的子公司，其後[蜜絲佛陀](../Page/蜜絲佛陀.md "wikilink")市佔率萎縮，賣了SK-II給REVLON 露華濃，其後再賣給P\&G。
+SK-II本是蜜絲佛陀的子公司，其後[蜜絲佛陀](../Page/蜜絲佛陀.md "wikilink")市佔率萎縮，賣了SK-II給REVLON露華濃，其後再賣給P\&G。
 
 1980年代，日本科學家在參觀釀造[米](../Page/稻.md "wikilink")[酒](../Page/酒.md "wikilink")廠時，發現釀酒工人雙手[皮膚](../Page/皮膚.md "wikilink")細緻。研究發現在米酒提煉過程中產生的天然[酵母](../Page/酵母.md "wikilink")菌具有護膚成份，並把天然酵母菌提煉成Pitera。
 

@@ -71,7 +71,7 @@
 <!-- end list -->
 
   - 「WHITE REFLECTION」
-  - 作詞：[永野椎菜](../Page/永野椎菜.md "wikilink")、作曲：[高山南](../Page/高山南.md "wikilink")、編曲：高山南、永野椎菜、主唱：[TWO-MIX](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")
+  - 作詞：[永野椎菜](../Page/永野椎菜.md "wikilink")、作曲：[高山南](../Page/高山南.md "wikilink")、編曲：高山南、永野椎菜、主唱：[TWO-MIX](../Page/TWO-MIX.md "wikilink")
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@
 <!-- end list -->
 
   - 「LAST IMPRESSION」
-  - 作詞：[永野椎菜](../Page/永野椎菜.md "wikilink")、作曲：[高山南](../Page/高山南.md "wikilink")、編曲：高山南、永野椎菜、主唱：[TWO-MIX](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")
+  - 作詞：[永野椎菜](../Page/永野椎菜.md "wikilink")、作曲：[高山南](../Page/高山南.md "wikilink")、編曲：高山南、永野椎菜、主唱：[TWO-MIX](../Page/TWO-MIX.md "wikilink")
 
 ## 外部連結
 

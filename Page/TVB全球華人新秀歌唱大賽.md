@@ -693,7 +693,7 @@
 <td><p><a href="../Page/陈势安.md" title="wikilink">陈势安</a></p></td>
 <td><p>男</p></td>
 <td><p><a href="../Page/马来西亚.md" title="wikilink">马来西亚</a><a href="../Page/槟城.md" title="wikilink">槟城</a></p></td>
-<td><p>第五名</p></td>
+<td><p>冠軍</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -845,7 +845,7 @@
 <td><p><a href="../Page/高遠_(歌手).md" title="wikilink">高远</a></p></td>
 <td><p>男</p></td>
 <td><p><a href="../Page/香港.md" title="wikilink">香港</a></p></td>
-<td><p>第六名</p></td>
+<td><p>亞軍</p></td>
 <td></td>
 </tr>
 </tbody>

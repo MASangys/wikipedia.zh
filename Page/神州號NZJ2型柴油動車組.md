@@ -63,7 +63,7 @@
 
   - [中国北车股份有限公司：NZJ2型“神州”号双层内燃动车组](https://web.archive.org/web/20160304191418/http://www.chinacnr.com/p325.aspx?ProductID=348&ParentID=7)
 
-[Category:中国柴油动车组](https://zh.wikipedia.org/wiki/Category:中国柴油动车组 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink") [Category:中车大连制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车大连制铁路车辆 "wikilink") [Category:南宁铁路局](https://zh.wikipedia.org/wiki/Category:南宁铁路局 "wikilink") [Category:武汉铁路局](https://zh.wikipedia.org/wiki/Category:武汉铁路局 "wikilink")
+[Category:中国柴油动车组](https://zh.wikipedia.org/wiki/Category:中国柴油动车组 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink") [Category:中车大连制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车大连制铁路车辆 "wikilink") [Category:中国铁路南宁局集团有限公司](https://zh.wikipedia.org/wiki/Category:中国铁路南宁局集团有限公司 "wikilink") [Category:中国铁路武汉局集团有限公司](https://zh.wikipedia.org/wiki/Category:中国铁路武汉局集团有限公司 "wikilink")
 
 1.
 2.

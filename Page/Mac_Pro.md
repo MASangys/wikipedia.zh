@@ -220,7 +220,7 @@ Expandable to four graphics cards</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>最高支援作業系統</strong></p></td>
-<td><p><a href="../Page/MacOS_Mojave.md" title="wikilink">macOS 10.14</a> "Mojave"</p></td>
+<td><p><a href="../Page/MacOS_Catalina.md" title="wikilink">macOS 10.15</a> "Catalina"</p></td>
 </tr>
 </tbody>
 </table>

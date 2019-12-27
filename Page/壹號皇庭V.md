@@ -651,9 +651,9 @@
 </tr>
 <tr class="odd">
 <td><p><strong>被害人</strong></p></td>
-<td><p>陳秀芝(被殺)<br />
-李凱琪(被殺)<br />
-趙麗瑩(被強姦)</p></td>
+<td><p>陳秀芝（被殺）<br />
+李凱琪（被殺）<br />
+趙麗瑩（被強姦）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>檢控官</strong></p></td>
@@ -1211,5 +1211,5 @@
 
 [Category:1997年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:1997年無綫電視劇集 "wikilink") [Category:無綫電視1990年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視1990年代背景劇集 "wikilink")
 
-1.  [【洗腦20年】《壹號皇庭V》帶挈爆紅 MLTR上大台熱爆Google流行榜 (游大東)](https://hk.lifestyle.appledaily.com/nextplus/magazine/article/20171205/2_523376_0/-%E6%B4%97%E8%85%A620%E5%B9%B4-%E5%A3%B9%E8%99%9F%E7%9A%87%E5%BA%ADV-%E5%B8%B6%E6%8C%88%E7%88%86%E7%B4%85-MLTR%E4%B8%8A%E5%A4%A7%E5%8F%B0%E7%86%B1%E7%88%86Google%E6%B5%81%E8%A1%8C%E6%A6%9C-%E6%B8%B8%E5%A4%A7%E6%9D%B1-)
+1.  [【洗腦20年】《壹號皇庭V》帶挈爆紅 MLTR上大台熱爆Google流行榜（游大東）](https://hk.lifestyle.appledaily.com/nextplus/magazine/article/20171205/2_523376_0/-%E6%B4%97%E8%85%A620%E5%B9%B4-%E5%A3%B9%E8%99%9F%E7%9A%87%E5%BA%ADV-%E5%B8%B6%E6%8C%88%E7%88%86%E7%B4%85-MLTR%E4%B8%8A%E5%A4%A7%E5%8F%B0%E7%86%B1%E7%88%86Google%E6%B5%81%E8%A1%8C%E6%A6%9C-%E6%B8%B8%E5%A4%A7%E6%9D%B1-)
 2.  [《壹號皇庭V》神秘歌曲《No Matter》原來是TVB劇萬能key](https://www.hk01.com/%E5%A8%9B%E6%A8%82/140872/-%E5%A3%B9%E8%99%9F%E7%9A%87%E5%BA%ADV-%E7%A5%9E%E7%A7%98%E6%AD%8C%E6%9B%B2-No-Matter-%E5%8E%9F%E4%BE%86%E6%98%AFTVB%E5%8A%87%E8%90%AC%E8%83%BDkey)

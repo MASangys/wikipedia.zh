@@ -91,7 +91,7 @@
 
   - [KNN](../Page/KNN.md "wikilink")（Korea New Network）：原[釜山放送](../Page/KNN.md "wikilink")（PSB）。
   - [大邱放送](https://zh.wikipedia.org/wiki/大邱放送 "wikilink")（TBC）
-  - [光州放送](https://zh.wikipedia.org/wiki/光州放送 "wikilink")（KBC）
+  - [光州广播](https://zh.wikipedia.org/wiki/光州广播 "wikilink")（KBC）
   - [G1](https://zh.wikipedia.org/wiki/G1有限公司 "wikilink")（Gangwon No.1 Broadcasting）：原名**江原民放**（GTB）。
   - [大田放送](https://zh.wikipedia.org/wiki/大田放送 "wikilink")（TJB）
   - [清州放送](https://zh.wikipedia.org/wiki/清州放送 "wikilink")（CJB）

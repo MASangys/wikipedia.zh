@@ -124,7 +124,7 @@
 
   - [大橋彩香](../Page/大橋彩香.md "wikilink")
 
-̈\*[ORESAMA](../Page/ORESAMA.md "wikilink")
+  - [ORESAMA](../Page/ORESAMA.md "wikilink")
 
   - rionos
 
@@ -146,7 +146,7 @@
 
 ### GloryHeaven所属者
 
-  - [sphere](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")（豊崎愛生、高垣彩陽、戶松遙、寿美菜子）
+  - [sphere](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")（豐崎愛生、高垣彩陽、戶松遙、寿美菜子）
 
   - [中原麻衣](../Page/中原麻衣.md "wikilink")
 

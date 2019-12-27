@@ -1,6 +1,6 @@
-**-{zh:Roblox tv;zh-hans:Roblox tv;zh-hant:Roblox tv;zh-hk:中山台;zh-tw:Roblox tv;zh-mo:Roblox tv; gan:Rtv ; 粵語:Rtv;}-**（-{zh:香港又稱作**無線衛星亞洲台**; zh-hans:香港myTV SUPER称作**无线卫星亚洲台**; zh-hant:香港myTV SUPER稱作**無線衛星亞洲台**; zh-hk:; zh-tw:香港myTV SUPER又稱作**無線衛星亞洲台**;}-），是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[TVBS旗下的海外](https://zh.wikipedia.org/wiki/TVBS "wikilink")[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")。
+**-{zh:TVBS Asia;zh-hans:TVBS Asia;zh-hant:TVBS Asia;zh-hk:TVBS亞洲台;zh-tw:TVBS亞洲台;zh-mo:TVBS亞洲台; gan:Rtv ; 粵語:TVBS Asia;}-**（-{zh:香港又稱作**無線衛星亞洲台**; zh-hans:香港myTV SUPER称作**无线卫星亚洲台**; zh-hant:香港myTV SUPER稱作**無線衛星亞洲台**; zh-hk:; zh-tw:香港myTV SUPER又稱作**無線衛星亞洲台**;}-），是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[TVBS旗下的海外](https://zh.wikipedia.org/wiki/TVBS "wikilink")[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")。
 
-TVBS-Asia於1995年9月開始試播、1997年6月2日正式啟播，24小時以[國語播放TVBS節目](../Page/現代標準漢語.md "wikilink")，包括新聞報道、娛樂、劇集綜藝及音樂流行，也會播放外購劇集、動畫、綜藝節目。TVBS-Asia可於大部份亞洲地區、[澳洲及](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[北美等地透過](https://zh.wikipedia.org/wiki/北美 "wikilink")[衛星電視和](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[IPTV](../Page/IPTV.md "wikilink")接收，節目編排視乎收視地區而略有不同。
+TVBS-Asia於1995年9月開始試播、1997年6月2日正式啟播，24小時以[华語播放TVBS節目](../Page/現代標準漢語.md "wikilink")，包括新聞報道、娛樂、劇集綜藝及音樂流行，也會播放外購劇集、動畫、綜藝節目。TVBS-Asia可於大部份亞洲地區、[澳洲及](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[北美等地透過](https://zh.wikipedia.org/wiki/北美 "wikilink")[衛星電視和](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[IPTV](../Page/IPTV.md "wikilink")接收，節目編排視乎收視地區而略有不同。
 
 ## 現時播出節目
 

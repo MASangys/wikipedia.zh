@@ -113,6 +113,11 @@ MIDI信息傳輸速率達到每秒31250位。同時其它的相關參數也一�
 
 MIDI訊息（包含時間資訊）會被收集和儲存在一個[電腦檔案](../Page/電腦檔案.md "wikilink")裡，而這個檔案稱為一個MIDI文件，或者更正式地說，一個標準MIDI文件（Standard MIDI File，簡稱**SMF**）。
 
+## 參見
+
+  - [戴夫·史密斯](https://zh.wikipedia.org/wiki/戴夫·史密斯 "wikilink")
+  - [ABC記譜法](../Page/ABC记谱法.md "wikilink")
+
 ## 參考文獻
 
 [Category:標準](https://zh.wikipedia.org/wiki/Category:標準 "wikilink") [Category:介面_(資訊科技)](https://zh.wikipedia.org/wiki/Category:介面_\(資訊科技\) "wikilink") [Category:電子音樂](https://zh.wikipedia.org/wiki/Category:電子音樂 "wikilink") [Category:MIDI](https://zh.wikipedia.org/wiki/Category:MIDI "wikilink") [Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink") [Category:音频格式](https://zh.wikipedia.org/wiki/Category:音频格式 "wikilink") [Category:日本發明](https://zh.wikipedia.org/wiki/Category:日本發明 "wikilink")

@@ -1,4 +1,4 @@
-**CalorieMate**（カロリーメイト）是一個由[日本](../Page/日本.md "wikilink")[大塚製藥](../Page/大塚製藥.md "wikilink")生產的[能量補充食品品牌](https://zh.wikipedia.org/wiki/膳食補充劑 "wikilink")。CalorieMate產品包裝上只標注為"Balanced Food"，它們的包裝非常簡潔，可說是毫不起眼。
+**CalorieMate**（カロリーメイト）是[日本](../Page/日本.md "wikilink")[大塚製藥](../Page/大塚製藥.md "wikilink")自1983年\[1\]起販售的[能量補充食品品牌](https://zh.wikipedia.org/wiki/膳食補充劑 "wikilink")。CalorieMate產品包裝上只標注為"Balanced Food"，它們的包裝非常簡潔，可說是毫不起眼。
 
 所有CalorieMate產品皆有以下描述：
 
@@ -57,3 +57,5 @@ CalorieMate擁有數種形式，分別為Block、Jelly與Can。*CalorieMate Bloc
   - [與電視劇*[24](../Page/24_\(電視劇\).md "wikilink")*合作宣傳CalorieMate的網站](http://www.cmt24.net)
 
 [Category:食品](https://zh.wikipedia.org/wiki/Category:食品 "wikilink") [Category:大塚製藥](https://zh.wikipedia.org/wiki/Category:大塚製藥 "wikilink")
+
+1.  <https://www.otsuka.co.jp/cmt/history/>

@@ -33,7 +33,7 @@
 
   - [臺灣臺北市立百齡高中](http://blog.blsh.tp.edu.tw/lifetype/summary.php)
   - [臺灣高雄市立五福國中](http://blog.wfjh.kh.edu.tw)
-  - [臺灣高雄市立東光國小](http://163.32.170.6/blog/)
+  - [臺灣高雄市立東光國小](https://web.archive.org/web/20100414042320/http://163.32.170.6/blog/)
   - [臺灣台中市立華龍國小](https://web.archive.org/web/20051125161457/http://plog.hlps.tcc.edu.tw/plog/)
   - [臺灣澎湖縣政府教育局暨國民中小學教育業務及教學交流部落格系統](https://web.archive.org/web/20100117110327/http://lifetype.phc.edu.tw/)
 

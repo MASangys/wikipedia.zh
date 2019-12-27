@@ -1506,7 +1506,7 @@
 <td><p>CJA</p></td>
 <td><p>SPJR</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡哈馬卡" title="wikilink">卡哈馬卡</a>，<a href="https://zh.wikipedia.org/wiki/卡哈馬卡大區" title="wikilink">卡哈馬卡大區</a></p></td>
+<td><p><a href="../Page/卡哈馬卡.md" title="wikilink">卡哈馬卡</a>，<a href="https://zh.wikipedia.org/wiki/卡哈馬卡大區" title="wikilink">卡哈馬卡大區</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

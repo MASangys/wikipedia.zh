@@ -18,7 +18,7 @@ GIUK缺口在許多書中被描述為作戰計畫的重要關鍵點，例如[湯
 
 ## 相關條目
 
-  - [富爾達缺口](https://zh.wikipedia.org/wiki/富爾達缺口 "wikilink")
+  - [富爾達缺口](../Page/富爾達缺口.md "wikilink")
   - [不可思議行動](https://zh.wikipedia.org/wiki/不可思議行動 "wikilink")
 
 [Category:军事设施](https://zh.wikipedia.org/wiki/Category:军事设施 "wikilink") [Category:冷战](https://zh.wikipedia.org/wiki/Category:冷战 "wikilink")

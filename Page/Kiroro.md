@@ -2,8 +2,8 @@
 
 ## 成員
 
-  - 玉城千春（、1977年4月17日－A型）。
-  - 金城綾乃（、1977年8月15日－AB型）。
+  - 玉城千春（），1977年4月17日出生，A型血，主唱。
+  - 金城綾乃（），1977年8月15日出生，AB型血，鋼琴、鍵盤。
 
 兩名成員均出身於[沖繩縣](../Page/沖繩縣.md "wikilink")[中頭郡](../Page/中頭郡.md "wikilink")[讀谷村](../Page/讀谷村.md "wikilink")。
 
@@ -158,14 +158,52 @@ Kiroro在沖繩展現的超人氣吸引了日本本土主流唱片公司的注�
 
 #### 錄音室專輯
 
-|     | 发行日期        | 專輯名                               |
-| --- | ----------- | --------------------------------- |
-| 1st | 1998年10月1日  | 长久 〜Kiroro的森林〜 <small>（）</small>  |
-| 2nd | 1999年12月8日  | 心爱的人〜Kiroro的天空〜 <small>（）</small> |
-| 3rd | 2001年1月24日  | TREE OF LIFE                      |
-| 4th | 2002年12月18日 | Four Leaves Clover                |
-| 5th | 2004年3月3日   | Diary                             |
-| 6th | 2005年11月23日 | Wonderful Days                    |
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>发行日期</p></th>
+<th><p>專輯名</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p>1998年10月1日</p></td>
+<td><p>长久 〜Kiroro的森林〜 <small>（）</small></p></td>
+</tr>
+<tr class="even">
+<td><p>2nd</p></td>
+<td><p>1999年12月8日</p></td>
+<td><p>心爱的人〜Kiroro的天空〜 <small>（）</small></p></td>
+</tr>
+<tr class="odd">
+<td><p>3rd</p></td>
+<td><p>2001年1月24日</p></td>
+<td><p>TREE OF LIFE</p></td>
+</tr>
+<tr class="even">
+<td><p>4th</p></td>
+<td><p>2002年12月18日</p></td>
+<td><p>Four Leaves Clover</p></td>
+</tr>
+<tr class="odd">
+<td><p>5th</p></td>
+<td><p>2004年3月3日</p></td>
+<td><p>Diary</p></td>
+</tr>
+<tr class="even">
+<td><p>6th</p></td>
+<td><p>2005年11月23日</p></td>
+<td><p>Wonderful Days</p></td>
+</tr>
+<tr class="odd">
+<td><p>7th</p></td>
+<td><p>2018年1月24日</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 #### 迷你專輯
 
@@ -192,7 +230,7 @@ Kiroro在沖繩展現的超人氣吸引了日本本土主流唱片公司的注�
 </tbody>
 </table>
 
-#### 最佳精選专辑
+#### 精選专辑
 
 <table>
 <thead>
@@ -210,7 +248,8 @@ Kiroro在沖繩展現的超人氣吸引了日本本土主流唱片公司的注�
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p>2006年3月29日</p></td>
+<td><p>2006年3月29日<br />
+2018年1月24日（Remaster盤）</p></td>
 <td><p>Kiroro好歌精選<small>（）</small></p></td>
 </tr>
 <tr class="odd">
@@ -226,6 +265,47 @@ Kiroro在沖繩展現的超人氣吸引了日本本土主流唱片公司的注�
 </tbody>
 </table>
 
-## 参考文献
+## NHK紅白歌合戰出場紀錄
 
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本有線大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本有線大獎最優秀新人獎獲獎者 "wikilink") [Category:BEST_HIT歌謠祭最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:BEST_HIT歌謠祭最優秀新人獎獲獎者 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
+<table>
+<thead>
+<tr class="header">
+<th><p>年份/屆數</p></th>
+<th><p>出場次數</p></th>
+<th><p>曲目</p></th>
+<th><p>出演次序</p></th>
+<th><p>對戰歌手</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1998年（平成10年）/</p></td>
+<td><p>初</p></td>
+<td><p>向著未來</p></td>
+<td><p>16/25</p></td>
+<td><p><a href="../Page/武田鐵矢.md" title="wikilink">武田鐵矢</a>（）</p></td>
+</tr>
+<tr class="even">
+<td><p>1999年（平成11年）/</p></td>
+<td><p>2</p></td>
+<td><p>長久</p></td>
+<td><p>9/27</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2001年（平成13年）/</p></td>
+<td><p>3</p></td>
+<td><p>Best Friend</p></td>
+<td><p>16/27</p></td>
+<td><p>・</p></td>
+</tr>
+</tbody>
+</table>
+
+## 外部連結
+
+  -
+  -
+## 参考資料
+
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本有線大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本有線大獎最優秀新人獎獲獎者 "wikilink") [Category:BEST_HIT歌謠祭最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:BEST_HIT歌謠祭最優秀新人獎獲獎者 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink") [Category:1996年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1996年成立的音樂團體 "wikilink") [Category:二人組](https://zh.wikipedia.org/wiki/Category:二人組 "wikilink") [Category:沖繩縣出身人物](https://zh.wikipedia.org/wiki/Category:沖繩縣出身人物 "wikilink")

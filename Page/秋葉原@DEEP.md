@@ -82,7 +82,7 @@
   - 太鼓 - [星野源](../Page/星野源.md "wikilink")
   - 小光 - [小阪由佳](https://zh.wikipedia.org/wiki/小阪由佳 "wikilink")
   - 泉虫 - [松嶋初音](https://zh.wikipedia.org/wiki/松嶋初音 "wikilink")
-  - 達磨 - [日村勇紀](https://zh.wikipedia.org/wiki/日村勇紀 "wikilink")
+  - 達磨 - [日村勇紀](../Page/日村勇紀.md "wikilink")
   - 結衣 - [本上真奈美](https://zh.wikipedia.org/wiki/本上真奈美 "wikilink")
   - 中込威 - [北村一輝](../Page/北村一輝.md "wikilink")
 

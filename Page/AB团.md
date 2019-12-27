@@ -26,7 +26,7 @@ AB团仅存在三个月，但后来在江西的中国共产党认为有AB团混�
 
 {{-}}
 
-[Category:1926年中国政治](https://zh.wikipedia.org/wiki/Category:1926年中国政治 "wikilink") [Category:中國國民黨組織](https://zh.wikipedia.org/wiki/Category:中國國民黨組織 "wikilink") [Category:江西民国时期政治组织](https://zh.wikipedia.org/wiki/Category:江西民国时期政治组织 "wikilink") [Category:中國國民黨歷史](https://zh.wikipedia.org/wiki/Category:中國國民黨歷史 "wikilink") [Category:苏区肃反](https://zh.wikipedia.org/wiki/Category:苏区肃反 "wikilink") [Category:共产主义恐怖主义](https://zh.wikipedia.org/wiki/Category:共产主义恐怖主义 "wikilink")
+[Category:1926年中国政治](https://zh.wikipedia.org/wiki/Category:1926年中国政治 "wikilink") [Category:中國國民黨大陸時期組織](https://zh.wikipedia.org/wiki/Category:中國國民黨大陸時期組織 "wikilink") [Category:江西民国时期政治组织](https://zh.wikipedia.org/wiki/Category:江西民国时期政治组织 "wikilink") [Category:中國國民黨歷史](https://zh.wikipedia.org/wiki/Category:中國國民黨歷史 "wikilink") [Category:苏区肃反](https://zh.wikipedia.org/wiki/Category:苏区肃反 "wikilink") [Category:共产主义恐怖主义](https://zh.wikipedia.org/wiki/Category:共产主义恐怖主义 "wikilink")
 
 1.
 2.  AB團團員[王禮錫](../Page/王禮錫.md "wikilink")在《讀書雜誌》上發表[佐藤貞一的一封信中附帶提到AB團時說](https://zh.wikipedia.org/wiki/佐藤貞一 "wikilink")：「說到AB團，不過是前五年的一種政治組織，也不過是幾個人的一個小團體。所謂AB團者，原不過是兩重組織，並不是什麼的省寫，後來不久就解散了。」

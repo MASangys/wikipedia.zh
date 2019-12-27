@@ -199,7 +199,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <tr class="even">
 <td><p><a href="../Page/黑潮號列車.md" title="wikilink">黑潮</a><br />
 （）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新大阪站" title="wikilink">新大阪站</a> - <a href="https://zh.wikipedia.org/wiki/新宮站" title="wikilink">新宮站</a></p></td>
+<td><p><a href="../Page/新大阪站.md" title="wikilink">新大阪站</a> - <a href="https://zh.wikipedia.org/wiki/新宮站" title="wikilink">新宮站</a></p></td>
 <td><p><a href="../Page/紀勢本線.md" title="wikilink">紀勢本線</a></p></td>
 <td><p>1978年10月2日</p></td>
 <td><p>運行系統分割</p></td>
@@ -299,7 +299,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <td><p>JR九州</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/有明號列車" title="wikilink">有明</a><br />
 （）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/博多站" title="wikilink">博多站</a> - <a href="https://zh.wikipedia.org/wiki/熊本站" title="wikilink">熊本站</a></p></td>
+<td><p><a href="../Page/博多站.md" title="wikilink">博多站</a> - <a href="../Page/熊本站.md" title="wikilink">熊本站</a></p></td>
 <td><p><a href="../Page/鹿兒島本線.md" title="wikilink">鹿兒島本線</a></p></td>
 <td><p>1967年10月1日（運行開始）<br />
 1975年3月10日（指定）</p></td>
@@ -366,7 +366,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <tr class="odd">
 <td><p><a href="../Page/霧島號列車.md" title="wikilink">霧島</a><br />
 （）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/宮崎站" title="wikilink">宮崎站</a> - <a href="https://zh.wikipedia.org/wiki/鹿兒島中央站" title="wikilink">鹿兒島中央站</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宮崎站" title="wikilink">宮崎站</a> - <a href="../Page/鹿兒島中央站.md" title="wikilink">鹿兒島中央站</a></p></td>
 <td><p>1995年4月20日</p></td>
 <td><p>系統分割</p></td>
 <td></td>
@@ -688,7 +688,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/常陸號列車" title="wikilink">常陸</a><br />
 （）</p></td>
-<td><p>上野站 - <a href="https://zh.wikipedia.org/wiki/仙台站" title="wikilink">仙台站</a></p></td>
+<td><p>上野站 - <a href="../Page/仙台站.md" title="wikilink">仙台站</a></p></td>
 <td><p><a href="../Page/常磐線.md" title="wikilink">常磐線</a></p></td>
 <td><p>1969年10月1日（運行開始）<br />
 1972年10月2日（指定）</p></td>
@@ -760,7 +760,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/溪蓀號列車" title="wikilink">溪蓀</a><br />
 （）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/東京站" title="wikilink">東京站</a> - <a href="https://zh.wikipedia.org/wiki/鹿島神宮站" title="wikilink">鹿島神宮站</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東京站" title="wikilink">東京站</a> - <a href="../Page/鹿島神宮站.md" title="wikilink">鹿島神宮站</a></p></td>
 <td><p><a href="../Page/成田線.md" title="wikilink">成田線</a>、<a href="../Page/鹿島線.md" title="wikilink">鹿島線</a></p></td>
 <td><p>1975年3月10日</p></td>
 <td><p>新設時指定</p></td>
@@ -798,7 +798,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <tr class="odd">
 <td><p><a href="../Page/東方白鸛號列車.md" title="wikilink">北近畿</a><br />
 （）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新大阪站" title="wikilink">新大阪站</a> - <a href="https://zh.wikipedia.org/wiki/城崎溫泉站" title="wikilink">城崎溫泉站</a></p></td>
+<td><p><a href="../Page/新大阪站.md" title="wikilink">新大阪站</a> - <a href="https://zh.wikipedia.org/wiki/城崎溫泉站" title="wikilink">城崎溫泉站</a></p></td>
 <td><p><a href="../Page/福知山線.md" title="wikilink">福知山線</a></p></td>
 <td><p>1986年11月1日</p></td>
 <td><p>新設時設定</p></td>

@@ -556,6 +556,7 @@
 ###
 
   - [城市俊傑](https://zh.wikipedia.org/wiki/城市俊傑 "wikilink") - Tales Runner
+  - 2013年︰[楊棟樑](https://zh.wikipedia.org/wiki/楊棟樑_\(歌手\) "wikilink") - 燃燒的跳動
 
 ###
 

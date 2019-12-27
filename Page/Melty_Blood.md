@@ -1403,7 +1403,7 @@ ver.TYPE-MOON ver空の境界
 
   - [SEGAによるMELTY BLOOD Act Cadenza Ver.B紹介ページ](https://web.archive.org/web/20131226010445/http://am.sega.jp/utop/closeup/melty_b_01.html)
 
-  - [Fans论坛](http://www.s6.invisionfree.com/melty_blood)
+  - [Fans论坛](https://web.archive.org/web/20070222103644/http://www.s6.invisionfree.com/Melty_Blood)
 
   - [メルティブラッド アクトレスアゲイン カレントコード 公式サイト](http://e56.info/mbaacc/)
 

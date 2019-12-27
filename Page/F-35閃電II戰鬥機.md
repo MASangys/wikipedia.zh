@@ -6,9 +6,9 @@ F-35將是美國和其盟國在21世紀的空戰主力，美国[空軍](https://
 
 ## 命名
 
-當初[JSF計畫是採](../Page/联合打击战斗机计划.md "wikilink")[實驗機](../Page/X-飛機.md "wikilink")（X）競標，而非原型實驗機（XF），得標時尚未賦予戰機正式編號，照現行《[美軍航空器命名系統](../Page/1962美國三軍航空器命名系統.md "wikilink")》，流水號應在[F-22](../Page/F-22猛禽戰鬥機.md "wikilink")/[23之後為F](../Page/YF-23戰鬥機.md "wikilink")-24/25。
+當初[JSF計畫是採](../Page/联合打击战斗机计划.md "wikilink")[實驗機](../Page/X-飛機.md "wikilink")（X）競標，而非原型實驗機（XF），得標時尚未賦予戰機正式型號，照現行《[美軍航空器命名系統](../Page/1962美國三軍航空器命名系統.md "wikilink")》，流水號應在[F-22](../Page/F-22猛禽戰鬥機.md "wikilink")/[23之後為F](../Page/YF-23戰鬥機.md "wikilink")-24/25。
 
-但是在2001年10月26日宣布[X-35得標記者會上](https://zh.wikipedia.org/wiki/X-35验证机 "wikilink")，國防部官員Edward Aldridge就戰機編號被記者問倒，求助在場的空軍部長James Roche，部長不知所措又問一旁JSF計畫主持人[海陸Michael](../Page/美国海军陆战队.md "wikilink") Hough少將，少將回答「F-35」，部長等人隨之附和；記者質疑編號是如何決定、哪來的，少將及主持官員則含混帶過<ref>命名「F-35」相關資訊：
+但是在2001年10月26日宣布[X-35得標記者會上](https://zh.wikipedia.org/wiki/X-35验证机 "wikilink")，顯然沒準備，主持的國防部官員Edward Aldridge就戰機型號被記者問倒，求助在場的空軍部長James Roche，部長不知所措又問一旁JSF計畫主持人[海陸Michael](../Page/美国海军陆战队.md "wikilink") Hough少將，少將回答「F-35」，部長等人隨之附和；記者質疑型號是如何決定、哪來的，少將及主持官員則含混帶過<ref>命名「F-35」相關資訊：
 
   -
   -

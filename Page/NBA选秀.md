@@ -58,7 +58,7 @@ NBA规定了两个选秀资格声明日期。所有希望参与选秀但是没�
 
   -
   -
-  - [‘One-and-done’ rule about to hit colleges hard](http://nbcsports.msnbc.com/id/36007533/ns/sports-college_basketball//) – Ken Davis, NBC Sports, March 23, 2010
+  - [‘One-and-done’ rule about to hit colleges hard](https://web.archive.org/web/20130415002821/http://nbcsports.msnbc.com/id/36007533/ns/sports-college_basketball) – Ken Davis, NBC Sports, March 23, 2010
 
   - [Roots of one-and-done rule run deep](http://espn.go.com/mens-college-basketball/story/_/id/8097411/roots-nba-draft-one-done-rule-run-deep-men-college-basketball) – Myron Medcalf, ESPN, June 26, 2012
 

@@ -271,7 +271,7 @@
 
 </div>
 
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:粵語流行音樂團體](https://zh.wikipedia.org/wiki/Category:粵語流行音樂團體 "wikilink") [Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink") [Category:三人組](https://zh.wikipedia.org/wiki/Category:三人組 "wikilink")
+[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:粵語流行音樂團體](https://zh.wikipedia.org/wiki/Category:粵語流行音樂團體 "wikilink") [Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink") [Category:二人組](https://zh.wikipedia.org/wiki/Category:二人組 "wikilink") [Category:三人組](https://zh.wikipedia.org/wiki/Category:三人組 "wikilink")
 
 1.
 2.  [陳偉霆：梁洛施英皇決裂可惜](http://hk.news.yahoo.com/080419/60/2snrf.html)

@@ -234,6 +234,7 @@ Xbox Live Artist aXcess 提供 Xbox Live 會員免費的音樂影片下載服務
 
   - [PlayStation Network](../Page/PlayStation_Network.md "wikilink")
   - [Nintendo Network](../Page/任天堂Network.md "wikilink")
+  - [任天堂Switch線上服務](../Page/任天堂Switch線上服務.md "wikilink")
   - [Windows Live](../Page/Windows_Live.md "wikilink")
   - [Xbox ( 第一代 )](../Page/Xbox_\(遊戲機\).md "wikilink")
   - [Xbox 360](../Page/Xbox_360.md "wikilink")

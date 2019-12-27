@@ -2,10 +2,10 @@
 
 ## 沿革
 
-  - 1955年4月1日，東京電台於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[赤坂](../Page/赤坂.md "wikilink")開始電視廣播業務，台名為「**KR電視台**」（），以「**JOKR-TV**」為[呼號](https://zh.wikipedia.org/wiki/無線電台呼號 "wikilink")。
+  - 1955年4月1日，東京電台（；今[東京放送控股](../Page/東京放送控股.md "wikilink")）於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[赤坂](../Page/赤坂.md "wikilink")開始電視廣播業務，台名為「**KR電視台**」（），以「**JOKR-TV**」為[呼號](https://zh.wikipedia.org/wiki/無線電台呼號 "wikilink")。
   - 1959年8月1日，為了與擁有全國性電視網的[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）競爭轉播皇太子[明仁](../Page/明仁.md "wikilink")的[成婚](https://zh.wikipedia.org/wiki/結婚 "wikilink")[慶祝遊行](https://zh.wikipedia.org/wiki/巡遊 "wikilink")，在東京電台的主導下，日本第一個[電視聯播網](../Page/電視聯播網.md "wikilink")「[日本新聞網](../Page/日本新聞網_\(TBS\).md "wikilink")」（JNN）成立。
   - 1960年9月10日，KR電視台開始[彩色電視](../Page/彩色電視.md "wikilink")廣播。
-  - 1960年11月29日，東京電台改名為株式會社**東京放送**（），略稱「**TBS**」，當時還使用「東京電視台」（）、「東京電台」（）等簡稱。
+  - 1960年11月29日，東京電台改名為**東京放送**（），略稱「**TBS**」，當時還使用「東京電視台」（）、「東京電台」（）等簡稱。
   - 1961年12月1日，東京放送正式統一以「TBS」做為簡稱。
   - 2000年3月21日，TBS成立兩家全資子公司：
 
@@ -21,7 +21,7 @@
   - 2001年10月1日，TBS的電視頻道呼號改為「JORX-TV」，其頻道名稱亦同步從「東京放送」改為「**TBS電視台**」（）。
   - 2003年12月1日上午11時（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")），TBS開始無線[數位電視廣播](https://zh.wikipedia.org/wiki/數位電視 "wikilink")，呼號為「**JORX-DTV**」。
   - 2004年10月1日：TBS娛樂與TBS體育、TBS LIVE合併，並將公司名稱改為「**TBS電視**」（），全面承接TBS的電視節目製作業務。
-  - 2009年4月1日：TBS導入[控股公司](../Page/控股公司.md "wikilink")制度，東京放送更名為[東京放送控股](../Page/東京放送控股.md "wikilink")株式會社，TBS電視則承接原東京放送的電視廣播業務，同時接收原東京放送使用的「TBS」簡稱。
+  - 2009年4月1日：TBS導入[控股公司](../Page/控股公司.md "wikilink")制度，東京放送更名為東京放送控股，TBS電視則承接原東京放送的電視廣播業務，同時接收原東京放送使用的「TBS」簡稱。
   - 2011年7月24日：TBS結束無線[類比電視](../Page/類比電視.md "wikilink")廣播，全面由數位電視廣播取代。
   - 2013年5月31日：TBS的電視訊號發射站從[東京鐵塔轉移至](https://zh.wikipedia.org/wiki/東京鐵塔 "wikilink")[東京晴空塔](../Page/東京晴空塔.md "wikilink")，原在東京鐵塔的設備改為備援之用。
 

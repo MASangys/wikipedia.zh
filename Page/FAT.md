@@ -952,7 +952,7 @@ unsigned char lfn_checksum (const unsigned char *pFcbName)
 
   - \- 长、短文件名公用的命名空间。1996年9月5日备案。它非常类似于5,579,517。
 
-      - [公共专利基金会成功地对这项专利发起了挑战](https://zh.wikipedia.org/wiki/Public_Patent_Foundation "wikilink")；[美国专利商标局基于](https://zh.wikipedia.org/wiki/美国专利商标局 "wikilink") ["the six assignees names were incorrect"](http://www.theregister.co.uk/2005/10/05/microsoft_patent/) [2](http://www.out-law.com/default.aspx?page=6202) 在2005年10月5日驳回了这项专利。这个决定也在后来的2006年1月10日被美国专利局推翻。
+      - [公共专利基金会成功地对这项专利发起了挑战](https://zh.wikipedia.org/wiki/Public_Patent_Foundation "wikilink")；[美国专利商标局基于](https://zh.wikipedia.org/wiki/美国专利商标局 "wikilink") ["the six assignees names were incorrect"](http://www.theregister.co.uk/2005/10/05/microsoft_patent/) [2](https://web.archive.org/web/20070927002013/http://www.out-law.com/default.aspx?page=6202) 在2005年10月5日驳回了这项专利。这个决定也在后来的2006年1月10日被美国专利局推翻。
 
 <!-- end list -->
 

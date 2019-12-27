@@ -337,14 +337,6 @@ ZE 2xxx00</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/北京局集团" title="wikilink">北京局集团</a></p></td>
-<td><p>2</p></td>
-<td><p>2478、2479</p></td>
-<td><p>北京南</p></td>
-<td><p><a href="../Page/京广铁路.md" title="wikilink">京广铁路</a>、<a href="../Page/京哈铁路.md" title="wikilink">京哈铁路</a>、唐山客车线</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/武汉局集团" title="wikilink">武汉局集团</a></p></td>
 <td><p>24</p></td>
 <td><p>2011、2013、2019、2033、2034、2039、2043、2045～2051、2053、2055、2169、2179、2180、2200、2205、2206、2209、2210</p></td>
@@ -352,7 +344,7 @@ ZE 2xxx00</p></td>
 <td><p><a href="../Page/武九铁路.md" title="wikilink">武九铁路</a>、<a href="https://zh.wikipedia.org/wiki/合宁铁路" title="wikilink">合宁铁路</a>、<a href="../Page/合武铁路.md" title="wikilink">合武铁路</a>、<a href="../Page/沪宁城际铁路.md" title="wikilink">沪宁城际铁路</a>、<a href="../Page/汉丹铁路.md" title="wikilink">汉丹铁路</a>、<a href="../Page/襄渝铁路.md" title="wikilink">襄渝铁路</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>24</p></td>
 <td><p>2017、2022、2023、2027、2029、2035、2052、2054、2056、2059、2060、2151、2152、2162～2164、2173、2192、2193、2199、2201、2207、2208、2211</p></td>
 <td><p>武汉</p></td>
@@ -360,7 +352,7 @@ ZE 2xxx00</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/上海局集团" title="wikilink">上海局集团</a></p></td>
 <td><p>46</p></td>
 <td><p>2001、2003～2009、2012、2015、2018、2020、2024、2026、2028、2030、2031、2044、2057、2058、2153、2154、2158、2159、2161、2166～2168、2174～2177、2181～2184、2186～2189、<br />
@@ -369,7 +361,7 @@ ZE 2xxx00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/沪杭高速铁路" title="wikilink">沪杭高速铁路</a>、<a href="https://zh.wikipedia.org/wiki/金山铁路" title="wikilink">金山铁路</a>、<a href="../Page/沪宁城际铁路.md" title="wikilink">沪宁城际铁路</a>、<a href="https://zh.wikipedia.org/wiki/沪汉蓉铁路" title="wikilink">沪汉蓉铁路</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7</p></td>
 <td><p>2021、2032、2041、2155、2157、2185、2190</p></td>
 <td><p>合肥南</p></td>
@@ -377,7 +369,7 @@ ZE 2xxx00</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12</p></td>
 <td><p>2002、2014、2016、2025、2036～2038、2156、2160、2165、2178、2197</p></td>
 <td><p>南京</p></td>
@@ -385,7 +377,7 @@ ZE 2xxx00</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/南昌局集团" title="wikilink">南昌局集团</a></p></td>
 <td><p>20</p></td>
 <td><p>2215～2218、2233、2236、2237、2246、2249、2250、2252、2257、2258、2260、2261、2284、2285、2290、2429、2430</p></td>
@@ -393,7 +385,7 @@ ZE 2xxx00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="https://zh.wikipedia.org/wiki/沪杭高速铁路" title="wikilink">沪杭高速铁路</a>、<a href="../Page/向莆铁路.md" title="wikilink">向莆铁路</a>、<a href="https://zh.wikipedia.org/wiki/昌九城际铁路" title="wikilink">昌九城际铁路</a></p></td>
 <td><p>2271、2326尚未正式配屬動車所。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>20</p></td>
 <td><p>2212～2214、2220～2224、2247、2248、2251、2253～2256、2259、2291～2293、2302</p></td>
 <td><p>南昌西</p></td>
@@ -401,7 +393,7 @@ ZE 2xxx00</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>18</p></td>
 <td><p>2219、2234、2235、2282、2283、2324、2427、2447、2452、2457、2458、4006、4045～4050</p></td>
 <td><p>廈門北</p></td>
@@ -409,7 +401,7 @@ ZE 2xxx00</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3</p></td>
 <td><p>2451、2453、2454</p></td>
 <td><p>福州南</p></td>
@@ -417,7 +409,7 @@ ZE 2xxx00</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>23</p></td>
 <td><p>2275、2434～2437、2440～2442、2446、2455、2456、2476、2477、2493、2494、4008、4009、4012～4017</p></td>
 <td><p>龙岩</p></td>
@@ -425,7 +417,7 @@ ZE 2xxx00</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/成都局集团" title="wikilink">成都局集团</a></p></td>
 <td><p>31</p></td>
 <td><p>2230、2231、2272、2305、2321、2323、2325、2333、2335～2340、2363、2374、2385、2390、2438、2480～2482、2491、4007、4022、4035～4040</p></td>
@@ -433,7 +425,7 @@ ZE 2xxx00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/沪汉蓉铁路" title="wikilink">沪汉蓉铁路</a>、<a href="../Page/宁杭客运专线.md" title="wikilink">宁杭客运专线</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="../Page/武九铁路.md" title="wikilink">武九铁路</a>、<a href="https://zh.wikipedia.org/wiki/昌九城际铁路" title="wikilink">昌九城际铁路</a>、<a href="https://zh.wikipedia.org/wiki/渝貴铁路" title="wikilink">渝貴铁路</a>、<a href="https://zh.wikipedia.org/wiki/貴廣客運專綫" title="wikilink">貴廣客運專綫</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>22</p></td>
 <td><p>2040、2042、2170～2172、2191、2198、<br />
 2228、2304、2360、2364、2373、2391、2392、2395～2397、2490、2492、4020、4023、4042</p></td>
@@ -442,7 +434,7 @@ ZE 2xxx00</p></td>
 <td><p>2228起為統型車.</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/南宁局集团" title="wikilink">南宁局集团</a></p></td>
 <td><p>54</p></td>
 <td><p>2238、2240～2245、2262、2263、2269、2270、2276、2281、2286、2287、2296、2297、2303、2312～2315、2327、2328、2346～2348、2351、2370、2371、2375、2377、2378、2383、2386、2387、2393、2394、2398、2399、2401、2404、2407、2443～2445、2450、4018、4027、4031、4032、4069、4114、4115</p></td>
@@ -450,7 +442,7 @@ ZE 2xxx00</p></td>
 <td><p><a href="../Page/衡柳铁路.md" title="wikilink">衡柳铁路</a>、<a href="https://zh.wikipedia.org/wiki/南钦铁路" title="wikilink">南钦铁路</a>、<a href="../Page/钦防铁路.md" title="wikilink">钦防铁路</a>、<a href="../Page/钦北铁路.md" title="wikilink">钦北铁路</a>、<a href="https://zh.wikipedia.org/wiki/柳南客运专线" title="wikilink">柳南客运专线</a>、<a href="../Page/南广铁路.md" title="wikilink">南广铁路</a>、<a href="../Page/贵广客运专线.md" title="wikilink">贵广客运专线</a>、<a href="https://zh.wikipedia.org/wiki/渝貴铁路" title="wikilink">渝貴铁路</a>、<a href="https://zh.wikipedia.org/wiki/蘭渝铁路" title="wikilink">蘭渝铁路</a>、<a href="https://zh.wikipedia.org/wiki/西成高速鐵路" title="wikilink">西成高速鐵路</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>40</p></td>
 <td><p>2239、2266、2277～2280、2288、2289、2300、2301、2306、2307、2366～2369、2376、2384、2400、2402、2412、2413、2431～2433、2439、4033、4034、4041、4043、4044、4068、4070、4071、4116～4121</p></td>
 <td><p>桂林北</p></td>
@@ -458,7 +450,7 @@ ZE 2xxx00</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/太原局集团" title="wikilink">太原局集团</a></p></td>
 <td><p>20</p></td>
 <td><p>2294、2295、2308～2311、2316～2319、4122～4131</p></td>
@@ -466,15 +458,15 @@ ZE 2xxx00</p></td>
 <td><p><a href="../Page/大西客运专线.md" title="wikilink">大西客运专线</a>、<a href="https://zh.wikipedia.org/wiki/西成客運專綫" title="wikilink">西成客運專綫</a>、<a href="https://zh.wikipedia.org/wiki/石太客運專綫" title="wikilink">石太客運專綫</a>、<a href="https://zh.wikipedia.org/wiki/石濟客運專綫" title="wikilink">石濟客運專綫</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/广州局集团" title="wikilink">广州局集团</a></p></td>
-<td><p>16</p></td>
-<td><p>2330、2350、2380、2416、2428、2473～2475、2487、2497、4001、4003、4004、4055、4063、4066</p></td>
+<td><p>17</p></td>
+<td><p>2330、2350、2380、2416、2428、2473～2475、2479、2487、2497、4001、4003、4004、4055、4063、4066</p></td>
 <td><p>广州南</p></td>
 <td><p><a href="../Page/遂成铁路.md" title="wikilink">遂成铁路</a>、<a href="../Page/遂渝铁路.md" title="wikilink">遂渝铁路</a>、<a href="https://zh.wikipedia.org/wiki/渝貴铁路" title="wikilink">渝貴铁路</a>、<a href="https://zh.wikipedia.org/wiki/貴廣高速铁路" title="wikilink">貴廣高速铁路</a>、<a href="../Page/南广铁路.md" title="wikilink">南广铁路</a>、<a href="https://zh.wikipedia.org/wiki/柳南客运专线" title="wikilink">柳南客运专线</a>、<a href="https://zh.wikipedia.org/wiki/南钦铁路" title="wikilink">南钦铁路</a>、<a href="../Page/钦北铁路.md" title="wikilink">钦北铁路</a>、<a href="../Page/南昆客运专线.md" title="wikilink">南昆客运专线</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>28</p></td>
 <td><p>2274、2320、2329、2331、2341、2343、2344、2349、2372、2379、2388、2403、2408、2409、2448、2496、4005、4019、4028～4030、4056、4060～4062、4064、4065、4067</p></td>
 <td><p>佛山（客专场）</p></td>
@@ -482,7 +474,7 @@ ZE 2xxx00</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>15</p></td>
 <td><p>2298、2299、2342、2381、2382、2389、2405、2406、2449、2488、2495、2498、4002、4024、4025</p></td>
 <td><p>佛山（城際场）</p></td>
@@ -490,7 +482,7 @@ ZE 2xxx00</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/济南局集团" title="wikilink">济南局集团</a></p></td>
 <td><p>22</p></td>
 <td><p>2225～2227、2267、2268、2332、2334、2361、2362、2365、2410、2411、2414、2415、2459、2483、2485、2486、4010、4011、4051、4052</p></td>
@@ -498,7 +490,7 @@ ZE 2xxx00</p></td>
 <td><p><a href="../Page/胶济客运专线.md" title="wikilink">胶济客运专线</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10</p></td>
 <td><p>2345、2352～2359、2484</p></td>
 <td><p>濟南</p></td>
@@ -506,16 +498,16 @@ ZE 2xxx00</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/昆明局集团" title="wikilink">昆明局集团</a></p></td>
-<td><p>31</p></td>
-<td><p>2229、2232、2264、2265、2273、2322、2460、2489、2499、2828、4021、4026、4053、4054、4057～4059、4082～4095</p></td>
+<td><p>32</p></td>
+<td><p>2229、2232、2264、2265、2273、2322、2460、2478、2489、2499、2828、4021、4026、4053、4054、4057～4059、4082～4095</p></td>
 <td><p>昆明南</p></td>
 <td><p><a href="../Page/南昆客运专线.md" title="wikilink">南昆客运专线</a>、<a href="../Page/昆玉河铁路.md" title="wikilink">昆玉河铁路</a></p></td>
 <td><p>CRH2A-2460为新头型试验车。<br />
 部分列車即將轉配<a href="https://zh.wikipedia.org/wiki/南昌局集團" title="wikilink">南昌局集團</a>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/中国铁路总公司.md" title="wikilink">中国铁路总公司</a></p></td>
 <td><p>1</p></td>
 <td><p>2010</p></td>
@@ -523,7 +515,7 @@ ZE 2xxx00</p></td>
 <td></td>
 <td><p>200~250km/h综合检测列车</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -762,7 +754,7 @@ CRH2C第一阶段共有30列，编号CRH2C-2061～CRH2C-2090，是在CRH2A的200
 
 从2008年7月1日起，首批6列CRH2C型动车组模拟正常运营状态在[京津城际铁路](../Page/京津城际铁路.md "wikilink")进行了为期一个月的试运营。2008年8月1日起，CRH2C型动车组正式投入京津城际铁路运营\[45\]。2009年4月，[京津城际铁路](../Page/京津城际铁路.md "wikilink")改用[CRH3電動車組运营](https://zh.wikipedia.org/wiki/和諧號CRH3型電力動車組 "wikilink")，CRH2C不再负责日常营运，仅作为热备列车及线路检查车。
 
-2008年11月23日，CRH2C-2067和CRH2C-2068被运送至[汉口](../Page/汉口.md "wikilink")\[46\]，2009年1月8日起开始在[武广客运专线武漢綜合試驗段上开始测试](https://zh.wikipedia.org/wiki/武广客运专线 "wikilink")\[47\]，2009年7月至9月期间，CRH2C-2061，CRH2C-2067，CRH2C-2068在武广客运专线進行局部路段聯調聯試及高速試運行。
+2008年11月23日，CRH2C-2067和CRH2C-2068被运送至[汉口](../Page/汉口.md "wikilink")\[46\]，2009年1月8日起开始在[武广客运专线](../Page/武广客运专线.md "wikilink")武漢綜合試驗段上开始测试\[47\]，2009年7月至9月期间，CRH2C-2061，CRH2C-2067，CRH2C-2068在武广客运专线進行局部路段聯調聯試及高速試運行。
 
 2009年3月27日，CRH2C-2070动车组在[膠濟鐵路](../Page/膠濟鐵路.md "wikilink")上进行线路试验时，6号车厢的受电弓因没有与绝缘子紧密接合，造成受电弓脱落的故障。
 
@@ -982,7 +974,7 @@ ZE 2xxx00</p></td>
 
 #### 新头型试验车
 
-[201706_CRH2C-2150_at_Shanghai_Hongqiao_Station.jpg](https://zh.wikipedia.org/wiki/File:201706_CRH2C-2150_at_Shanghai_Hongqiao_Station.jpg "fig:201706_CRH2C-2150_at_Shanghai_Hongqiao_Station.jpg")的CRH2C-2150停靠在[上海虹桥站](https://zh.wikipedia.org/wiki/上海虹桥站 "wikilink")\]\] 由于四方机车车辆也承担了新一代时速380公里级别高速动车组（[CRH380A](https://zh.wikipedia.org/wiki/CRH380A "wikilink")）的研发任务，为了预先获得CRH380A型动车组新头型的空气动力效能和实车试验数据，铁道部于2009年决定将CRH2C-2150作为CRH380A的试验实体样车，改为使用下一代的新头型。2010年1月，CRH2-380的车体率先于网上曝光\[52\]。四方机车车辆股份于2010年4月12日，通过新一代高速列车新头型发布会，宣布4月底完成试验车下线。这列动车组于2010年4月底在青岛下线，车身仅标示为“试验车 CRH380A”。2010年4月26日，试验动车组被运送至[中国国家铁道试验中心北京环行铁道](../Page/中国国家铁道试验中心（东郊分院）.md "wikilink")，安装各种试验设备并佈线；2010年5月4日，列车由北京出发经[京广铁路](../Page/京广铁路.md "wikilink")赴[郑州](https://zh.wikipedia.org/wiki/郑州 "wikilink")；5月11日起，试验车开始于[郑西客运专线](../Page/郑西客运专线.md "wikilink")进行时速160公里以下调试试验，6月7日开始正式高速试验，通常每天往返[郑州和](https://zh.wikipedia.org/wiki/郑州站 "wikilink")[灵宝西共三个来回](../Page/灵宝西站.md "wikilink")，试验一直持续至8月。2010年9月初，这列试验车转往[武广客运专线继续进行试验工作](https://zh.wikipedia.org/wiki/武广客运专线 "wikilink")。至同年11月，按铁道部统一安排，CRH2C-2150正式配属上海铁路局，作为综合检测车之用。
+[201706_CRH2C-2150_at_Shanghai_Hongqiao_Station.jpg](https://zh.wikipedia.org/wiki/File:201706_CRH2C-2150_at_Shanghai_Hongqiao_Station.jpg "fig:201706_CRH2C-2150_at_Shanghai_Hongqiao_Station.jpg")的CRH2C-2150停靠在[上海虹桥站](https://zh.wikipedia.org/wiki/上海虹桥站 "wikilink")\]\] 由于四方机车车辆也承担了新一代时速380公里级别高速动车组（[CRH380A](https://zh.wikipedia.org/wiki/CRH380A "wikilink")）的研发任务，为了预先获得CRH380A型动车组新头型的空气动力效能和实车试验数据，铁道部于2009年决定将CRH2C-2150作为CRH380A的试验实体样车，改为使用下一代的新头型。2010年1月，CRH2-380的车体率先于网上曝光\[52\]。四方机车车辆股份于2010年4月12日，通过新一代高速列车新头型发布会，宣布4月底完成试验车下线。这列动车组于2010年4月底在青岛下线，车身仅标示为“试验车 CRH380A”。2010年4月26日，试验动车组被运送至[中国国家铁道试验中心北京环行铁道](../Page/中国国家铁道试验中心（东郊分院）.md "wikilink")，安装各种试验设备并佈线；2010年5月4日，列车由北京出发经[京广铁路](../Page/京广铁路.md "wikilink")赴[郑州](https://zh.wikipedia.org/wiki/郑州 "wikilink")；5月11日起，试验车开始于[郑西客运专线](../Page/郑西客运专线.md "wikilink")进行时速160公里以下调试试验，6月7日开始正式高速试验，通常每天往返[郑州和](https://zh.wikipedia.org/wiki/郑州站 "wikilink")[灵宝西共三个来回](../Page/灵宝西站.md "wikilink")，试验一直持续至8月。2010年9月初，这列试验车转往[武广客运专线](../Page/武广客运专线.md "wikilink")继续进行试验工作。至同年11月，按铁道部统一安排，CRH2C-2150正式配属上海铁路局，作为综合检测车之用。
 
 ### CRH2E
 
@@ -1356,7 +1348,7 @@ ZE 2xxx00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/北京局集團" title="wikilink">北京局集團</a></p></td>
 <td><p>19</p></td>
 <td><p>2121～2126、2128、2130～2138、2463～2465</p></td>
-<td><p>北京南</p></td>
+<td><p>北京</p></td>
 <td><p><a href="../Page/京广高速铁路.md" title="wikilink">京广高速铁路</a>、<a href="../Page/廣深港高速鐵路.md" title="wikilink">廣深港高速鐵路</a>、<a href="../Page/广珠城际铁路.md" title="wikilink">广珠城际铁路</a>、<a href="https://zh.wikipedia.org/wiki/沪昆高速铁路" title="wikilink">沪昆高速铁路</a></p></td>
 <td><p>有时套跑广州南/深圳北/珠海始发的广铁管内动车组列车或短途跨局动车组列车<br />
 2463～2465为纵向卧铺动车组列车。</p></td>

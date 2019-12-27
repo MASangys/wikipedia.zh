@@ -58,7 +58,7 @@ X-site座落於2樓至6樓，是這個創新懸浮建築物的心臟地帶。X-s
 
 ## 各層環境
 
-<File:Apm> LG view 2015.jpg|LG層 <File:Apm> Drop off area 201309.jpg|上落客車區 <File:Apm> C level shops 201202.jpg|大堂層（C） <File:HK> apm UC Corridor.jpg|大堂高層（UC） <File:Apm> cookedDeli 201309.jpg|2樓 cookedDeli 美食廣場 <File:Apm> Level 3 Shops 201309.jpg|3樓 <File:Apm> Level 4 Shops 201309.jpg|4樓商店 <File:Apm> Level 5 X-site 201309.jpg|5樓以影音店為主 Apm Level 6 Restaurants 201712.jpg|6樓食肆 <File:HK> Palace apm.jpg|6樓「PALACE apm」 <File:Apm> L11 2015.jpg|11樓
+<File:Apm> LG view 2015.jpg|LG層 <File:Apm> Drop off area 201309.jpg|上落客車區 <File:Apm> C level shops 201202.jpg|大堂層（C） <File:HK> apm UC Corridor.jpg|大堂高層（UC） <File:Apm> cookedDeli 201309.jpg|2樓 cookedDeli 美食廣場 <File:Apm> Level 3 Shops 201309.jpg|3樓 <File:Apm> Level 4 Shops 201309.jpg|4樓商店 <File:Apm> Level 5 X-site 201309.jpg|5樓以影音店為主 Apm Level 6 Restaurants 201712.jpg|6樓食肆 <File:HK> Palace apm.jpg|6樓「PALACE apm」(現名為B+ cinema apm) <File:Apm> L11 2015.jpg|11樓
 
 ## 歷史
 

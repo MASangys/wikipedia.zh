@@ -25,7 +25,7 @@ Calibri為字型設計師替[微軟開發的字型](https://zh.wikipedia.org/wik
 
   - [Microsoft ClearType字體總目錄](http://www.ascendercorp.com/ctfonts.html)at Ascender Corporation
 
-  - [下載Calibri字體](http://www.ascendercorp.com/font/calibri/)
+  - [下載Calibri字體](https://web.archive.org/web/20100619100618/http://www.ascendercorp.com/font/calibri/)
 
   - [下載PPTViewer兼Calibri字體](http://www.microsoft.com/downloads/details.aspx?familyid=048DC840-14E1-467D-8DCA-19D2A8FD7485&displaylang=en)
 

@@ -69,6 +69,6 @@
   - [Amit Singh's Apple Infrared Remote Daemon](http://www.osxbook.com/book/bonus/chapter10/iremoted/)
   - [Twisted Melon - mira](http://twistedmelon.com/mira/features.html)
   - [Case Apps - Sofa Control](https://web.archive.org/web/20070702232506/http://caseapps.com/sofacontrol.html)
-  - [iRedLite - free and customizable](http://www.filewell.com/iRedLite/)
+  - [iRedLite - free and customizable](https://web.archive.org/web/20061018195912/http://www.filewell.com/iRedLite/)
 
 [Category:蘋果公司周邊設備](https://zh.wikipedia.org/wiki/Category:蘋果公司周邊設備 "wikilink") [Category:遙控產品](https://zh.wikipedia.org/wiki/Category:遙控產品 "wikilink") [Category:2005年面世的產品](https://zh.wikipedia.org/wiki/Category:2005年面世的產品 "wikilink")

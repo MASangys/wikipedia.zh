@@ -2,7 +2,7 @@
 
 Synaptics公司從事於為多種行動計算、通訊與其他電子設備的互動開發與供應用戶界面方案，並供應包括[專用集成電路](https://zh.wikipedia.org/wiki/專用集成電路 "wikilink")、[韌體](../Page/韌體.md "wikilink")、[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")、[模式識別與觸感技術等多項技術](https://zh.wikipedia.org/wiki/模式識別 "wikilink")。
 
-該公司成功為多個MP3播放器建立界面方案，包括了某些版本的[iPod與](https://zh.wikipedia.org/wiki/iPod "wikilink")[iPod mini和用於後期](https://zh.wikipedia.org/wiki/iPod_mini "wikilink")[Creative Zen裝置的觸控板](https://zh.wikipedia.org/wiki/Creative_Zen "wikilink")；以及與[蘋果公司的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iPhone不同的觸控式螢幕概念手機Onyx](https://zh.wikipedia.org/wiki/iPhone "wikilink")\[1\]。
+該公司成功為多個MP3播放器建立界面方案，包括了某些版本的[iPod與](https://zh.wikipedia.org/wiki/iPod "wikilink")[iPod mini和用於後期](https://zh.wikipedia.org/wiki/iPod_mini "wikilink")裝置的觸控板；以及與[蘋果公司的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iPhone不同的觸控式螢幕概念手機Onyx](https://zh.wikipedia.org/wiki/iPhone "wikilink")\[1\]。
 
 2018年初，與[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[手機廠商](https://zh.wikipedia.org/wiki/手機 "wikilink")[Vivo](../Page/Vivo.md "wikilink")一起推出了全球第一款「屏幕下指紋識別」手機Vivo X20 Plus\[2\]。
 

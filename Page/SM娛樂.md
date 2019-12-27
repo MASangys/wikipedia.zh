@@ -17,7 +17,7 @@
 ### 2000至2004年
 
   - 2000年4月，韩国SM娱乐有限公司登记注册[韩国高斯达克市场](https://zh.wikipedia.org/wiki/韩国 "wikilink")，发行股票，成为韩国第一个娱乐文化股份公司。同年8月，[BoA出道](https://zh.wikipedia.org/wiki/BoA "wikilink")。有＂韓國天后＂之稱的[BoA](https://zh.wikipedia.org/wiki/BoA "wikilink")\[3\]取得的成就對韩国SM娱乐有限公司發展成[韩国最出色的经纪公司有着舉足輕重的地位](https://zh.wikipedia.org/wiki/韩国 "wikilink")。
-  - 2001年，设立面向日本市场的SM Entertainment Japan，與[日本](../Page/日本.md "wikilink")最大[唱片公司](../Page/唱片公司.md "wikilink")[愛貝克思建立長久的合作關係](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")。同年，[H.O.T宣布正式解散](https://zh.wikipedia.org/wiki/H.O.T "wikilink")\[4\]，現時只有[安七炫](../Page/安七炫.md "wikilink")（Kangta）為韩国SM娱乐有限公司藝人。
+  - 2001年，设立面向日本市场的SM Entertainment Japan，與[日本](../Page/日本.md "wikilink")最大[唱片公司](../Page/唱片公司.md "wikilink")[愛貝克思建立長久的合作關係](../Page/愛貝克思集團.md "wikilink")。同年，[H.O.T宣布正式解散](https://zh.wikipedia.org/wiki/H.O.T "wikilink")\[4\]，現時只有[安七炫](../Page/安七炫.md "wikilink")（Kangta）為韩国SM娱乐有限公司藝人。
   - 2002年12月，与[日本](../Page/日本.md "wikilink")的FANDANGO JAPAN（YOSHIMOTO集团和KDDI的合资公司）、YOSHIMOTO集团以及AVEX共同创立了网络娱乐公司---FANDANGO KOREA，在网络与移动通信迅速发展的时代，将主要负责为大众开发数字信息资源。同年，[S.E.S解散](https://zh.wikipedia.org/wiki/S.E.S._\(组合\) "wikilink")。
   - 2003年，[神話不與SM](https://zh.wikipedia.org/wiki/神話_\(組合\) "wikilink") Entertainment續約，開始新的演藝生涯。
   - 2004年，[TRAX出道](https://zh.wikipedia.org/wiki/TRAX "wikilink")。同年2月，韩国至尊偶像团体[東方神起](../Page/東方神起.md "wikilink")出道，一躍成為極受歡迎的新世代合聲團體。[東方神起](../Page/東方神起.md "wikilink")的官方歌迷俱乐部Cassiopeia人數更以80萬打破了當時的世界紀錄\[5\]。
@@ -655,13 +655,16 @@
 
 <small>**歌手**</small>
 
+  - [程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink")（[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")）
   - [崔智壽](../Page/崔智秀.md "wikilink")（[ITZY](../Page/ITZY.md "wikilink")，藝名為**Lia**）
   - [咸𤨒晶](../Page/咸𤨒晶.md "wikilink")（[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")，除本名另有藝名**Elsie**）
   - 張知秀（[七學年一班](../Page/七學年一班.md "wikilink")，藝名為**白世熙**）
-  - 趙河朗（藝名為*'趙敏雅*)
+  - 趙河朗（藝名為**趙敏雅**）
+  - [金知妍](../Page/苞娜.md "wikilink")（[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，藝名為**苞娜**）
   - 金容媛（[C-REAL](../Page/C-REAL.md "wikilink")，藝名為**Chemi**）
   - [李孝利](../Page/李孝利.md "wikilink")
   - 李欢熙
+  - [李Luda](../Page/Luda.md "wikilink")（[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")）
   - [李宣美](https://zh.wikipedia.org/wiki/李宣美 "wikilink")
   - 权志晏（藝名為**率悲**）
   - [吳惠麟](../Page/Raina.md "wikilink")（[After School](../Page/After_School.md "wikilink")、[橙子焦糖](../Page/橙子焦糖.md "wikilink")，藝名為**萊娜**）

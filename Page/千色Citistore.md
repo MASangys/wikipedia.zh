@@ -10,6 +10,10 @@
 
 2013年3月，位於[屯門](../Page/屯門.md "wikilink")的旗下服裝專門店id:c結業，至4月重新裝修開設**千色Citistore**。
 
+2018年8月，位於[馬鞍山的千色Citistore進行翻新](https://zh.wikipedia.org/wiki/馬鞍山 "wikilink")
+
+2019年4月，位於[大角咀](../Page/大角咀.md "wikilink")的千色Citistore縮小範圍
+
 ## 分店
 
 ### 千色Citistore

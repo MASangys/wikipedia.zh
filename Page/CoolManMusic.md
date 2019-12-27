@@ -222,7 +222,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/The_Strength_of_Weakness" title="wikilink">The Strength of Weakness</a>》<br />
+<td><p>《<a href="../Page/The_Strength_of_Weakness.md" title="wikilink">The Strength of Weakness</a>》<br />
 <a href="https://zh.wikipedia.org/wiki/鄧小巧" title="wikilink">鄧小巧</a></p></td>
 </tr>
 <tr class="even">
@@ -463,21 +463,21 @@
 
   - 獲CM共和聯頒專輯大獎次數排名
 
-|                                                             | 歌手                               | 得獎次數      | 得獎年份           |
-| ----------------------------------------------------------- | -------------------------------- | --------- | -------------- |
-| 1                                                           | [謝安琪](../Page/謝安琪.md "wikilink") | 3         | 2008、2014、2018 |
-| 2                                                           | [古巨基](../Page/古巨基.md "wikilink") | 2         | 2004、2006      |
-| [陳奕迅](../Page/陳奕迅.md "wikilink")                            | 2                                | 2005、2009 |                |
-| [五月天](../Page/五月天.md "wikilink")                            | 2                                | 2012、2016 |                |
-| [容祖兒](../Page/容祖兒.md "wikilink")                            | 2                                | 2013、2016 |                |
-| [麥浚龍](../Page/麥浚龍.md "wikilink")                            | 2                                | 2015、2018 |                |
-| 7                                                           | [楊千嬅](../Page/楊千嬅.md "wikilink") | 1         | 2004           |
-| [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")         | 1                                | 2007      |                |
-| [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")         | 1                                | 2011      |                |
-| [薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")         | 1                                | 2012      |                |
-| [C AllStar](../Page/C_AllStar.md "wikilink")                | 1                                | 2013      |                |
-| [藍奕邦](../Page/藍奕邦.md "wikilink")                            | 1                                | 2013      |                |
-| [Serrini](https://zh.wikipedia.org/wiki/Serrini "wikilink") | 1                                | 2017      |                |
+|                                                     | 歌手                               | 得獎次數      | 得獎年份           |
+| --------------------------------------------------- | -------------------------------- | --------- | -------------- |
+| 1                                                   | [謝安琪](../Page/謝安琪.md "wikilink") | 3         | 2008、2014、2018 |
+| 2                                                   | [古巨基](../Page/古巨基.md "wikilink") | 2         | 2004、2006      |
+| [陳奕迅](../Page/陳奕迅.md "wikilink")                    | 2                                | 2005、2009 |                |
+| [五月天](../Page/五月天.md "wikilink")                    | 2                                | 2012、2016 |                |
+| [容祖兒](../Page/容祖兒.md "wikilink")                    | 2                                | 2013、2016 |                |
+| [麥浚龍](../Page/麥浚龍.md "wikilink")                    | 2                                | 2015、2018 |                |
+| 7                                                   | [楊千嬅](../Page/楊千嬅.md "wikilink") | 1         | 2004           |
+| [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink") | 1                                | 2007      |                |
+| [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink") | 1                                | 2011      |                |
+| [薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink") | 1                                | 2012      |                |
+| [C AllStar](../Page/C_AllStar.md "wikilink")        | 1                                | 2013      |                |
+| [藍奕邦](../Page/藍奕邦.md "wikilink")                    | 1                                | 2013      |                |
+| [Serrini](../Page/Serrini.md "wikilink")            | 1                                | 2017      |                |
 
   - 獲CM共和聯頒歌手大獎次數排名
 

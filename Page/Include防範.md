@@ -79,7 +79,7 @@ struct foo {
 
 ## 外部連結
 
-  - [引入防範的最佳化](http://www.bobarcher.org/software/include/index.html)
+  - [引入防範的最佳化](https://web.archive.org/web/20100819052043/http://www.bobarcher.org/software/include/index.html)
   - [多餘的引入防範](http://c2.com/cgi/wiki?RedundantIncludeGuards)
   - [引入防範生成器](https://web.archive.org/web/20070930015629/http://www.codeproject.com/tools/includeguard.asp)
 

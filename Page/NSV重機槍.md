@@ -94,5 +94,5 @@ NSVT是裝在車輛射架上的NSV改裝版本，如[主戰坦克及](https://zh
 
 [Category:重機槍](https://zh.wikipedia.org/wiki/Category:重機槍 "wikilink") [Category:12.7×108毫米槍械](https://zh.wikipedia.org/wiki/Category:12.7×108毫米槍械 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:運動及狩獵武器中央設計研究局](https://zh.wikipedia.org/wiki/Category:運動及狩獵武器中央設計研究局 "wikilink")
 
-1.  <http://www.mil.fi/maavoimat/kalustoesittely/index.dsp?level=54&equipment=73>
+1.
 2.  [zastava官方頁面-zastava M87](http://www.zastava-arms.co.yu/images/vojni/m87/m87_engleski.htm)

@@ -87,7 +87,7 @@ ATI的[Catalyst Drivers支援所有R](https://zh.wikipedia.org/wiki/Catalyst_Dri
   - ["ATI R200 Chip Details"](http://www.beyond3d.com/misc/chipcomp/?view=chipdetails&id=13&orderby=release_date&order=Order&cname=) by Beyond3D, retrieved 2006年1月9日
   - ["ATI RV250 Chip Details"](http://www.beyond3d.com/misc/chipcomp/?view=chipdetails&id=16&orderby=release_date&order=Order&cname=) by Beyond3D, retrieved 2006年1月9日
   - ["ATI RV280 Chip Details"](http://www.beyond3d.com/misc/chipcomp/?view=chipdetails&id=17&orderby=release_date&order=Order&cname=) by Beyond3D, retrieved 2006年1月9日
-  - ["How ATI's Radeon 8500 drivers 'optimize' Quake III"](http://techreport.com/etc/2001q4/radeon-q3/index.x?pg=1) by Scott Wasson, The Tech Report, 2001年11月6日，retrieved 2006年6月1日
+  - ["How ATI's Radeon 8500 drivers 'optimize' Quake III"](https://web.archive.org/web/20060207184107/http://techreport.com/etc/2001q4/radeon-q3/index.x?pg=1) by Scott Wasson, The Tech Report, 2001年11月6日，retrieved 2006年6月1日
   - ["Optimizing or Cheating Radeon 8500 Drivers"](http://www.hardocp.com/article.html?art=MTEx) by Kyle Bennett, HardOCP, 2001年10月23日，retrieved 2006年6月1日
 
 [Category:ATI顯示卡](https://zh.wikipedia.org/wiki/Category:ATI顯示卡 "wikilink")

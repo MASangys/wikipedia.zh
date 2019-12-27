@@ -22,9 +22,9 @@ Myriad拥有一个多控制界面可以与一个智能[软件](../Page/软件.md
 
 ## 外部链接
 
-  - [Typowiki: Myriad](http://typophile.com/wiki/myriad)
+  - [Typowiki: Myriad](https://web.archive.org/web/20080906115608/http://typophile.com/wiki/Myriad)
   - [Adobe Systems information on Myriad multiple masters](https://web.archive.org/web/20140802113913/http://www.adobe.com/support/techdocs/328600.html)
-  - [Frutiger字体和Myriad字体的对比](http://typophile.com/wiki/Myriad)
+  - [Frutiger字体和Myriad字体的对比](https://web.archive.org/web/20080906115608/http://typophile.com/wiki/Myriad)
   - [Linotype.com中展示的Myriad字体家族](http://www.linotype.com/1257/myriad-family.html)
 
 [Category:蘋果公司字體](https://zh.wikipedia.org/wiki/Category:蘋果公司字體 "wikilink") [Category:无衬线字体](https://zh.wikipedia.org/wiki/Category:无衬线字体 "wikilink") [Category:Adobe字体](https://zh.wikipedia.org/wiki/Category:Adobe字体 "wikilink")

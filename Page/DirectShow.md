@@ -38,7 +38,7 @@ DirectShow也因為僅支援非常有限的[数位版权管理](https://zh.wikip
 
   - [MSDN中DirectShow的官方文档](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/directshow/htm/directshow.asp)
   - [MSDN](https://web.archive.org/web/20081010131256/http://msdn2.microsoft.com/en-us/library/ms783323.aspx) - 'Official DirectShow documentation from MSDN'
-  - [DirectShow论坛，MSDN英文站](http://social.msdn.microsoft.com/Forums/en/windowsdirectshowdevelopment/threads)
+  - [DirectShow论坛，MSDN英文站](https://web.archive.org/web/20100303022850/http://social.msdn.microsoft.com/Forums/en/windowsdirectshowdevelopment/threads)
   - [MSDN](http://www.microsoft.com/downloads/results.aspx?productID=&freetext=directshow&DisplayLang=en) - 'DirectShow Downloads from MSDN'
   - [Home page of Geraint Davies](http://www.gdcl.co.uk) - 'Creator of DirectShow and a DirectShow [MVP](https://zh.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional "wikilink") – Contains several [FAQs](https://zh.wikipedia.org/wiki/FAQ "wikilink") and examples.'
   - [The March Hare](http://tmhare.mvps.org/) - 'Prolific DirectShow MVP – Contains several FAQs'

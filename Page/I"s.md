@@ -1,15 +1,10 @@
-**I"s**（讀音：Eyes，[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****）是日本[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[桂正和](../Page/桂正和.md "wikilink")的愛情漫畫作品。自1997年（第19期）至2000年（第24期）間在[集英社](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》連載，單行本全15卷。[東立出版社](../Page/東立出版社.md "wikilink")代理臺灣中文版，[天下出版](../Page/天下出版.md "wikilink")代理香港中文版。
+**I"s**（、讀音：Eyes）是[日本漫画家](https://zh.wikipedia.org/wiki/日本漫画家 "wikilink")[桂正和](../Page/桂正和.md "wikilink")的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）1997年19號至2000年24號期間進行連載，單行本全15卷。
 
-2005年12月开始发行[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，约1个月左右出一集，至2006年6月23日出版最后的第6集。
+本作命名为I"s，原因一是四个主要人物的名字都以[日文的](https://zh.wikipedia.org/wiki/日文 "wikilink")「」（羅馬拼音為「I」）开头（第五个人物麻生蓝子名字的第一个发音“”与「I」发音相同），以字母「s」表示[复数之意](https://zh.wikipedia.org/wiki/复数 "wikilink")；二是伊织在与一贵的第一次合作中，把他们的两人小团体命名为I"s。絕大部分都是透過第一人稱的方式從主角瀨戶一貴的觀點切入，有著大量描述一貴心聲的對白文字、妄想等等。瀨戶一貴並沒有特殊的專長，長相不出眾，體能學業也普普，對男女之情也有著常人的七情六慾，就如同[戀愛模擬遊戲常見的男主角的設定一般](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")，這樣的設定方式使讀者在讀I"s的時候容易融入故事裡。
 
-2008年3月15日東立出版社發行〈I"s完全版〉臺灣中文版，內容是綜合全部單行本的集數以12本發行外還附加扉頁集與插畫集，並分別為黑白與彩色發行。該版以大開本上市初版（第一刷）於2009年2月5日發行完畢，由於過度色情與暴力內容請集英社刪除或修改，因此不列在成人書籍內。
+之後的完全版內容是統整單行本的集數還附加扉頁集與插畫集，由於過度色情與暴力內容請集英社刪除或修改，因此不列在成人書籍內。
 
-## 综述
-
-漫画命名为I"s，原因一是四个主要人物的名字都以[日文的](https://zh.wikipedia.org/wiki/日文 "wikilink")「」（羅馬拼音為「I」）开头（第五个人物麻生蓝子名字的第一个发音“”与「I」发音相同），以字母「s」表示[复数之意](https://zh.wikipedia.org/wiki/复数 "wikilink")；二是伊织在与一贵的第一次合作中，把他们的两人小团体命名为I"s。
-本作的特色是，絕大部分都是透過第一人稱的方式從主角瀨戶一貴的觀點切入，有著大量描述一貴心聲的對白文字、妄想等等。瀨戶一貴並沒有特殊的專長，長相不出眾，體能學業也普普，對男女之情也有著常人的七情六慾，就如同[戀愛模擬遊戲常見的男主角的設定一般](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")，這樣的設定方式使讀者在讀I"s的時候容易融入故事裡。
-
-## 内容简介
+## 劇情简介
 
 一贵的高中同学伊织是一个靓丽文静的女生。由于其清纯的外表加上经常参加剧团演出以及雜誌封面制作，因此在同学中有很高的知名度，甚至有同学为她组织了后援会。一贵作为一个并无十分特色的男生，一直在暗恋伊织，却苦于其逆反心理而在表面上不断对伊织有所冷淡。这时发生了部分学生偷窥伊织换衣的事件，也因为一贵和朋友寺谷的鼎力相助，伊织才逃脱出魔掌。伊织在逃脱后还对一贵有所误解，却被深受压抑的一贵怒斥。也因为误解的消除，他们开始了新的进展。
 
@@ -19,7 +14,7 @@
 
 在[平安夜的约会中](https://zh.wikipedia.org/wiki/平安夜 "wikilink")，寺谷给一贵创造机会来向伊织表白。而伊织不置可否的回应（说喜欢所有同学）让一贵感到迷茫。在回家的地铁上，伊织问他向谁表白时，他终于鼓起勇气说是“向你”。伊织在沉默良久后，也表示自己也一直在单恋一贵的。双方的表白终于结束了各自高中三年的单恋。
 
-[Ispure001.jpg](https://zh.wikipedia.org/wiki/File:Ispure001.jpg "fig:Ispure001.jpg") 伊织被艺能公司看中后，女负责人古川要求一贵不要公开他与伊织的爱情，因此他们的事情只有少数几个同学知道。同时成绩公布，一贵没考上大学。他们在保密的情况下和同学们开始了毕业旅行，经过朋友的换房，他们终于能同居一室。第二天换房却因为寺谷的叔叔的暗箱操作而让一贵和小泉同一间。一贵在抵抗了小泉的诱惑后，告诉了小泉他与伊织拍拖的事情，让小泉伤心的离开了房间。当晚伊织被公司有急事叫走，而与伊织同一间房的木田因为企图偷拍而被同学绑在了电线杆上。
+伊织被艺能公司看中后，女负责人古川要求一贵不要公开他与伊织的爱情，因此他们的事情只有少数几个同学知道。同时成绩公布，一贵没考上大学。他们在保密的情况下和同学们开始了毕业旅行，经过朋友的换房，他们终于能同居一室。第二天换房却因为寺谷的叔叔的暗箱操作而让一贵和小泉同一间。一贵在抵抗了小泉的诱惑后，告诉了小泉他与伊织拍拖的事情，让小泉伤心的离开了房间。当晚伊织被公司有急事叫走，而与伊织同一间房的木田因为企图偷拍而被同学绑在了电线杆上。
 
 一贵搬离了自己的家，开始了新的生活。伊织每过几天都会来看一贵，虽然只有短短的时间，但让他很满足。邻居麻生蓝子是个长得很象伊织的女生，也因为她，一贵和伊织发生了误会，甚至差点分手。小泉在一段日子的平静之后找到了一贵的住所，并展开了新的攻势，与他、寺谷和蓝子一起玩“手足并用”的情色游戏。此时的伊织也在艺能界发展自己的关系，而她给一贵所写的信和送的生日礼物，都被古川扣留了。古川允许一贵和伊织一起玩一天，作为分手的纪念，而一贵却在聊天时吃醋抛伊织离去。回家后他遇到了同样失落的蓝子，并陪蓝子找到了她的男朋友田中，没想到田中早已放弃了蓝子。他打不通伊织的电话（伊织电话已被改掉），又在无聊的抛玩时不慎让手机落入河中，从而暂时失去了和伊织的联系方式。
 
@@ -29,9 +24,9 @@
 
 最终伊织放弃了舞台，回到了一贵身边。他们和朋友们一起开了PARTY，并观看了季子从美国寄来的DVD。从此一贵终于抓住了自己的梦想，与自己所爱的人在一起幸福的生活。
 
-## 漫畫人物
+## 登場人物
 
-[Snapshot_Is_pure.jpg](https://zh.wikipedia.org/wiki/File:Snapshot_Is_pure.jpg "fig:Snapshot_Is_pure.jpg") 聲優配音有2002年和2006年的區分，以下以2002版/2006版來表示。
+聲優配音有2002年和2006年的區分，以下以2002版/2006版來表示。
 
   -
     本作主角。一名普通的高中生，天秤座，生于1980年10月3日，16岁时开始暗恋同班女生苇月伊织，個性優柔寡斷。本作大部分的視點都是由一貴內心想法切入的。
@@ -86,15 +81,291 @@
   -
     一貴的同班同學，早期就有登場(外型有些微差異)。沒交過女朋友。迷戀依織的美貌，知道伊織在演藝圈成名後更是變成瘋狂追求者，造成依織和大家的困擾，漸漸被大家排擠。
 
+## 出版書籍
+
+  - 單行本
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p><a href="../Page/集英社.md" title="wikilink">集英社</a></p></th>
+<th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>1997年9月9日</p></td>
+<td><p>ISBN 4-08-872411-9</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>1997年11月9日</p></td>
+<td><p>ISBN 4-08-872412-7</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>1997年12月29日</p></td>
+<td><p>ISBN 4-08-872506-9</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>1998年3月9日</p></td>
+<td><p>ISBN 4-08-872531-X</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>1998年5月6日</p></td>
+<td><p>ISBN 4-08-872553-0</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>1998年8月9日</p></td>
+<td><p>ISBN 4-08-872592-1</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>1998年10月7日</p></td>
+<td><p>ISBN 4-08-872617-0</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>1998年12月8日</p></td>
+<td><p>ISBN 4-08-872639-1</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>1999年3月9日</p></td>
+<td><p>ISBN 4-08-872681-2</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>1999年6月8日</p></td>
+<td><p>ISBN 4-08-872727-4</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>1999年8月9日</p></td>
+<td><p>ISBN 4-08-872747-9</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>1999年11月9日</p></td>
+<td><p>ISBN 4-08-872791-6</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>2000年2月7日</p></td>
+<td><p>ISBN 4-08-872821-1</p></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>2000年4月9日</p></td>
+<td><p>ISBN 4-08-872846-7</p></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>2000年7月9日</p></td>
+<td><p>ISBN 4-08-872887-4</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 完全版
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>集英社</p></th>
+<th><p>東立出版社</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2005年12月19日</p></td>
+<td><p>ISBN 4-08-877009-9</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>ISBN 4-08-877010-2</p></td>
+<td><p>2008年4月8日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2006年1月19日</p></td>
+<td><p>ISBN 4-08-877011-0</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>ISBN 4-08-877012-9</p></td>
+<td><p>2008年8月26日</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2006年2月17日</p></td>
+<td><p>ISBN 4-08-877013-7</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>ISBN 4-08-877014-5</p></td>
+<td><p>2008年10月31日</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2006年3月17日</p></td>
+<td><p>ISBN 4-08-877015-3</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>ISBN 4-08-877016-1</p></td>
+<td><p>2008年12月25日</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>2006年4月19日</p></td>
+<td><p>ISBN 4-08-877017-X</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>2006年5月19日</p></td>
+<td><p>ISBN 4-08-877018-8</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>2006年6月19日</p></td>
+<td><p>ISBN 4-08-877019-6</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>2006年7月19日</p></td>
+<td><p>ISBN 4-08-877020-X</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 小說版 『I"s』（著者：富田祐弘）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>集英社</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td><p>全</p></td>
+<td><p>1998年10月8日</p></td>
+</tr>
+</tbody>
+</table>
+
 ## OVA
 
-### 夏日物语
+### I"s 夏日物语
 
-2002年曾出版《夏日物语・前编》，2003年接着出版了《夏日物语・后编》。剧情是描述伊织在湖边拍摄影时遭遇的一段故事，与I"s漫画无直接关系。
+《I"s 夏日物语》（）於2002年出版前编、2003年出版后编。剧情是描述伊织在湖边拍摄影时遭遇的一段故事，与原作无关完全是原創故事。
+
+#### 配音員
+
+※ 以前面為主後面為副來標記。
+
+  - 葦月伊織 - [佐久間紅美](../Page/佐久間紅美.md "wikilink") / [仲根かすみ](https://zh.wikipedia.org/wiki/仲根かすみ "wikilink")
+  - 瀨戶一貴 - [櫻井孝宏](../Page/櫻井孝宏.md "wikilink") / [吉岡美穂](https://zh.wikipedia.org/wiki/吉岡美穂 "wikilink")
+  - 秋葉季子 - [仲西環](https://zh.wikipedia.org/wiki/仲西環 "wikilink") / [磯山沙也加](../Page/磯山沙也加.md "wikilink")
+  - 寺谷靖雅 - [私市淳](../Page/私市淳.md "wikilink")
+  - 越苗純 - [石田彰](../Page/石田彰.md "wikilink")
+  - 奈美 - [小林沙苗](../Page/小林沙苗.md "wikilink")
+  - 森崎祐加 - [河原木志穂](https://zh.wikipedia.org/wiki/河原木志穂 "wikilink")
+  - 市村洋介 - [一条和矢](https://zh.wikipedia.org/wiki/一条和矢 "wikilink")
+
+#### 製作人員
+
+  - 監督、分鏡 - [杜野幼青](../Page/影山楙倫.md "wikilink")
+  - 系列構成、劇本 - [影山楙倫](../Page/影山楙倫.md "wikilink")
+  - 演出 - 内田祐司
+  - 人物設計 - [鈴真](../Page/鈴真.md "wikilink")
+  - 作画監督 - 高木信一郎
+  - 美術監督 - 伊藤聖
+  - 色彩設計 - 中田亮大
+  - 攝影監督 - [白井久男](https://zh.wikipedia.org/wiki/白井久男 "wikilink")
+  - 編輯 - [瀬山武司](https://zh.wikipedia.org/wiki/瀬山武司 "wikilink")
+  - 音響監督 - [本田保則](https://zh.wikipedia.org/wiki/本田保則 "wikilink")
+  - 音楽 - Torsten Rasch
+  - 製作人 - 津野竜之輔、越中おさむ
+  - 制作協力 - [Arms](../Page/Arms.md "wikilink")
+  - 動畫製作 - [Studio Pierrot](../Page/Studio_Pierrot.md "wikilink")
+  - 製作 - [h.m.p](https://zh.wikipedia.org/wiki/h.m.p "wikilink")、[DigiCube](../Page/DigiCube.md "wikilink")
 
 ### I"s Pure
 
 2005年12月14日开始出版《I"s Pure》的系列动画，共6集。动画采取从一贵圣诞节时和伊织约会为开始，以追忆的方式描述了他在中学期间对伊织的追求故事。与漫画不同的是，漫画中的心理描写和比较暴露的情色情节都被忽略或者简化，并采用《一贵的妄想日记》的方式与主情节分开来描述主人公的幻想部分。
+
+#### 配音員
+
+  - 瀨戶一貴 - [野村勝人](https://zh.wikipedia.org/wiki/野村勝人 "wikilink")
+  - 葦月伊織 - [伊藤静](https://zh.wikipedia.org/wiki/伊藤静 "wikilink")
+  - 秋葉季子 - [中世明日香](https://zh.wikipedia.org/wiki/中世明日香 "wikilink")
+  - 寺谷靖雅 - [小伏伸之](../Page/小伏伸之.md "wikilink")
+  - 森崎祐加 - [後藤邑子](../Page/後藤邑子.md "wikilink")
+  - 奈美 - [鈴木菜穂子](https://zh.wikipedia.org/wiki/鈴木菜穂子 "wikilink")
+  - 磯崎 泉 - [門脇舞](../Page/門脇舞以.md "wikilink")
+  - 古川理惠 - [勝生真沙子](../Page/勝生真沙子.md "wikilink")
+  - カミノギ イサイ - [諸角憲一](https://zh.wikipedia.org/wiki/諸角憲一 "wikilink")
+  - 鮫島/Marionette King -[成瀬誠](https://zh.wikipedia.org/wiki/成瀬誠 "wikilink")
+  - 花園廣巳 - [江川央生](../Page/江川央生.md "wikilink")
+  - 瀨戶貴子 - [湯屋敦子](../Page/湯屋敦子.md "wikilink")
+
+#### 製作人員
+
+  - 監督 - [神戶守](../Page/神戶守.md "wikilink")
+  - 系列構成、劇本 - [大石哲也](https://zh.wikipedia.org/wiki/大石哲也 "wikilink")
+  - 人物設計 - [鈴真](../Page/鈴真.md "wikilink")
+  - 美術監督 - 常盤庄司
+  - 色彩設計 - 中田亮大
+  - 攝影監督 - 山口則和
+  - 編輯 - [瀬山武司](https://zh.wikipedia.org/wiki/瀬山武司 "wikilink")
+  - 音響監督 - [清水勝則](https://zh.wikipedia.org/wiki/清水勝則 "wikilink")
+  - 音樂 - 小西香葉、[近藤由紀夫](https://zh.wikipedia.org/wiki/近藤由紀夫 "wikilink")
+  - 動畫製作人 - 津野竜之輔、越中おさむ
+  - 動畫製作 - [Arms](../Page/Arms.md "wikilink")
+  - 製作 - [Studio Pierrot](../Page/Studio_Pierrot.md "wikilink")
+  - 監製 - Liverpool
+
+#### 主題曲
+
+  - 片頭曲《》
+    作詞 - 松尾康冶 / 作曲 - Kacky / 編曲 - [大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink") / 歌 - Mizuho
+  - 片尾曲《》
+    作詞 - 松尾康冶 / 作曲 - Kacky / 編曲 - 桑田衛 / 歌 - Mizuho
+
+#### 各話列表
+
+| 話數 | 副標題                   | 分鏡                               | 演出                             | 作画監督                                                    |
+| -- | --------------------- | -------------------------------- | ------------------------------ | ------------------------------------------------------- |
+| 1  | au commencement（）     | [神戶守](../Page/神戶守.md "wikilink") | 小高義規                           | [宮田奈保美](https://zh.wikipedia.org/wiki/宮田奈保美 "wikilink") |
+| 2  | souvenir（）            | 岩永彰                              | [鈴真](../Page/鈴真.md "wikilink") |                                                         |
+| 3  | adieu（）               | 小高義規                             | EUM IK HYUN                    |                                                         |
+| 4  | vertige（）             | 岩永彰                              | 嶋田俊彦                           |                                                         |
+| 5  | declaration d'amour（） | 小高義規                             | 白石涼子                           |                                                         |
+| 6  | ensemble（）            | 岩永彰                              | 鈴真                             |                                                         |
 
 ## 電視劇
 
@@ -124,7 +395,6 @@
 
 ## 参见
 
-  - [桂正和](../Page/桂正和.md "wikilink")
   - [电影少女](https://zh.wikipedia.org/wiki/电影少女 "wikilink")
 
 ## 註解

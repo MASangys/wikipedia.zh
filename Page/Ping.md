@@ -1,4 +1,4 @@
-**ping**是一种[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[網路工具](../Page/计算机网络.md "wikilink")，用來測試数据包能否透過[IP协议到達特定](https://zh.wikipedia.org/wiki/IP协议 "wikilink")[主機](https://zh.wikipedia.org/wiki/主機 "wikilink")。ping的運作原理是向目標主機傳出一個[ICMP的请求回显](https://zh.wikipedia.org/wiki/ICMP "wikilink")[数据包](https://zh.wikipedia.org/wiki/数据包 "wikilink")，并等待接收回显回應封包。程式會按時間和成功响应的次數估算丢失封包率（丢包率）和[封包往返時間](https://zh.wikipedia.org/wiki/來回通訊延遲 "wikilink")（网络时延，）。
+**ping**（呯）是一种[计算机网络](../Page/计算机网络.md "wikilink")工具，用來測試数据包能否透過[IP协议到達特定](https://zh.wikipedia.org/wiki/IP协议 "wikilink")[主機](https://zh.wikipedia.org/wiki/主機 "wikilink")。ping的運作原理是向目標主機傳出一個[ICMP的请求回显](https://zh.wikipedia.org/wiki/ICMP "wikilink")[数据包](https://zh.wikipedia.org/wiki/数据包 "wikilink")，并等待接收回显回應封包。程式會按時間和成功响应的次數估算丢失封包率（丢包率）和[封包往返時間](https://zh.wikipedia.org/wiki/來回通訊延遲 "wikilink")（网络时延，）。
 
 在1983年12月，Mike Muuss编写了首个這样的程式，用于在IP網路出现問題時方便探查其根源。因為這個程式的運作原理与[潛水艇的主动](https://zh.wikipedia.org/wiki/潛水艇 "wikilink")[声纳相似](https://zh.wikipedia.org/wiki/声纳 "wikilink")，他便用聲納的聲音來為程式取名。David L. Mills曾提出另一個取名：**P**acket **I**nter**n**et **G**rouper/**G**opher（後者指[地鼠](https://zh.wikipedia.org/wiki/地鼠 "wikilink")）。
 
@@ -83,7 +83,22 @@ Approximate round trip times in milli-seconds:
     Minimum = 22ms, Maximum = 25ms, Average = 23ms
 ```
 
-總計，最小22ms，最大25ms，平均23ms
+總計，最小22ms，最大25ms，平均23ms。
+
+windows下若是ping命令不加任何參數，一次只返回4個封包，如果希望持續ping某個IP，可以在ping ip地址後加上-t，想終止可以按下[ctrl](https://zh.wikipedia.org/wiki/ctrl "wikilink")+c，如下所示：
+
+``` doscon
+C:\> ping www.baidu.com -t
+
+正在 Ping www.a.shifen.com [112.80.248.75] 具有 32 字节的数据:
+来自 112.80.248.75 的回复: 字节=32 时间=10ms TTL=56
+来自 112.80.248.75 的回复: 字节=32 时间=9ms TTL=56
+来自 112.80.248.75 的回复: 字节=32 时间=10ms TTL=56
+来自 112.80.248.75 的回复: 字节=32 时间=9ms TTL=56
+来自 112.80.248.75 的回复: 字节=32 时间=9ms TTL=56
+来自 112.80.248.75 的回复: 字节=32 时间=9ms TTL=56
+...............
+```
 
 ## 相關條目
 

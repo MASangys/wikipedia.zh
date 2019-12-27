@@ -44,7 +44,7 @@ Diskeeper吹噓如「磁碟碎片導致死機、速度減慢、凍結甚至整�
 ## 外部連結
 
   - [官方網站](http://www.diskeeper.com/)
-  - [繁體中文網站](http://www.diskeeper.com.tw/)
+  - [繁體中文網站](https://web.archive.org/web/20071206041815/http://www.diskeeper.com.tw/)
   - [Diskeeper台灣代理商](https://web.archive.org/web/20100312090605/http://www.apacer.com.tw/tw/products/Diskeeper_Software.htm)
   - [Diskeeper網誌](https://web.archive.org/web/20170601011852/http://diskeeperblog.com/)
   - [新聞發佈](http://www.diskeeper.com/press/newsroom.aspx)

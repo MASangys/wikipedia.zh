@@ -66,7 +66,7 @@ ARJ21最初被安排在2007年交付，之后因为在研发过程中遇到了�
 
 2002年9月，[中国航空工业第一集团公司成立了](https://zh.wikipedia.org/wiki/中国航空工业第一集团公司 "wikilink")[中航商用飞机有限公司以负责运作ARJ](https://zh.wikipedia.org/wiki/中航商用飞机有限公司 "wikilink")21项目。起初该机型由[中航商用飞机有限公司工程部总体设计](https://zh.wikipedia.org/wiki/中航商用飞机有限公司 "wikilink")。2003年转至中航[一飞院负责初步设计和详细设计工作](https://zh.wikipedia.org/wiki/一飞院 "wikilink")。ARJ21以可适应西部地区高温高原机场起降和复杂航路越障的营运要求作为设计目标。ARJ21从设计之初即对飞机全寿命成本（LCC）进行严格控制。
 
-ARJ21采用“主制造商-供应商”模式，将装配GE[通用电气公司的CF](https://zh.wikipedia.org/wiki/通用电气公司 "wikilink")34-10A支线喷气发动机、Rockwell Collins洛克韦尔柯林斯公司的航电系统\[47\]、Honeywell霍尼韦尔公司的主飞行控制系统，而其零部件多为进口。
+ARJ21采用“主制造商-供应商”模式，将装配GE[通用电气公司的CF](https://zh.wikipedia.org/wiki/通用电气公司 "wikilink")34-10A支线喷气发动机、Rockwell Collins洛克韦尔柯林斯公司的航电系统\[47\]、Honeywell霍尼韦尔公司的主飞行控制系统。
 
 ARJ21使用了1960年代[麦克唐纳·道格拉斯轉移的](https://zh.wikipedia.org/wiki/麦克唐纳·道格拉斯 "wikilink")[DC-9模具](https://zh.wikipedia.org/wiki/DC-9 "wikilink")，故ARJ21的機身直徑、機頭構型、和發動機佈局與DC-9系列客機相同，機翼則是由[烏克蘭的](https://zh.wikipedia.org/wiki/烏克蘭 "wikilink")[安托诺夫设计局設計的后掠](https://zh.wikipedia.org/wiki/安托诺夫设计局 "wikilink")25°、配有[翼尖小帆的新](https://zh.wikipedia.org/wiki/小翼 "wikilink")[超臨界機翼](https://zh.wikipedia.org/wiki/超臨界機翼 "wikilink")。安托諾夫也協助計算ARJ21的[空氣力學幾何和結構強度](https://zh.wikipedia.org/wiki/空氣力學 "wikilink")。
 
@@ -91,7 +91,7 @@ ARJ21使用了1960年代[麦克唐纳·道格拉斯轉移的](https://zh.wikiped
 
 ## 实际交付
 
-[B-3328@SHA_(20191112105701).jpg](https://zh.wikipedia.org/wiki/File:B-3328@SHA_\(20191112105701\).jpg "fig:B-3328@SHA_(20191112105701).jpg")ARJ21在[上海虹桥国际机场滑行](https://zh.wikipedia.org/wiki/上海虹桥国际机场 "wikilink")\]\]
+[B-3328@SHA_(20191112105701).jpg](https://zh.wikipedia.org/wiki/File:B-3328@SHA_\(20191112105701\).jpg "fig:B-3328@SHA_(20191112105701).jpg")ARJ21在[上海虹桥国际机场滑行](https://zh.wikipedia.org/wiki/上海虹桥国际机场 "wikilink")\]\] [B-803P_Chengdu_Airline_ARJ21-700_At_Wudalianchi_Dedu_Airport.jpg](https://zh.wikipedia.org/wiki/File:B-803P_Chengdu_Airline_ARJ21-700_At_Wudalianchi_Dedu_Airport.jpg "fig:B-803P_Chengdu_Airline_ARJ21-700_At_Wudalianchi_Dedu_Airport.jpg")上客\]\] [ARJ21-700_Chengdu_Airlnes_B-3329_At_Harbin_Taiping_Airport.jpg](https://zh.wikipedia.org/wiki/File:ARJ21-700_Chengdu_Airlnes_B-3329_At_Harbin_Taiping_Airport.jpg "fig:ARJ21-700_Chengdu_Airlnes_B-3329_At_Harbin_Taiping_Airport.jpg")\]\]
 
 <table>
 <thead>

@@ -6,7 +6,7 @@
 
 PASMO是由「PASSNET」的「PAS」與表示「更加」含義的「MORE」的前兩個字母組合命名而成。並且，「PASMO」的「MO」（平假名寫做も）有兩種含意：一方面も外型與＆類似，暗示將 PASSNET 與公共汽車共通卡合為一體；另一方面日文助詞も意指「也」，其含意為「電車也能用、公車也能用、那裡也能用、這裡也能用」，含有表示擴展性的「mo」的意思。
 
-PASMO的[吉祥物是一個](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")。和Suica卡的吉祥物[企鵝](../Page/企鵝.md "wikilink")一樣沒有名字。基本的顏色是粉紅色，不過官网说他会变色（[pasmo机器人介绍](http://www.pasmo.co.jp/special/character.html?linkid=top)）。設定上是此機器人在搭車的時候會打開其腹部的蓋子取出PASMO卡來使用，而在趕時間的情況下，機器人自己會變身成公共汽車或電車進行移動。
+PASMO的[吉祥物是一個](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")。和Suica卡的吉祥物[企鵝](../Page/企鵝.md "wikilink")一樣沒有名字。基本的顏色是粉紅色，不過官网说他会变色（[pasmo机器人介绍](https://web.archive.org/web/20130416144258/http://www.pasmo.co.jp/special/character.html?linkid=top)）。設定上是此機器人在搭車的時候會打開其腹部的蓋子取出PASMO卡來使用，而在趕時間的情況下，機器人自己會變身成公共汽車或電車進行移動。
 
 ## 引入公司列表
 
@@ -244,7 +244,7 @@ PASMO的[吉祥物是一個](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")
 
 ## 外部連結
 
-  - PASMO官方网站：[日文](http://www.pasmo.co.jp/)、[简体中文](http://www.pasmo.co.jp/cn/index.html)、[繁体中文](http://www.pasmo.co.jp/tcn/index.html)
+  - PASMO官方网站：[日文](http://www.pasmo.co.jp/)、[简体中文](https://web.archive.org/web/20140208020847/http://www.pasmo.co.jp/cn/index.html)、[繁体中文](https://web.archive.org/web/20131120010502/http://www.pasmo.co.jp/tcn/index.html)
 
 [Category:日本智能卡](https://zh.wikipedia.org/wiki/Category:日本智能卡 "wikilink") [Category:電子貨幣](https://zh.wikipedia.org/wiki/Category:電子貨幣 "wikilink")
 

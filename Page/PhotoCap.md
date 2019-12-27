@@ -92,7 +92,7 @@ PhotoCap還提供了去背功能，可以輕易的將背景去除，讓影像合
 ## 外部連結
 
   - [PhotoCap 6.0 簡介](http://www.photocap.com.tw/intro/intro.htm)
-  - [PhotoCap論壇](http://www.photocap.com.tw/forum/)
+  - [PhotoCap論壇](https://web.archive.org/web/20071128102242/http://www.photocap.com.tw/forum/)
 
 ★論壇網頁已於2017年11月24日關閉至今。
 

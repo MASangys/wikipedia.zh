@@ -46,10 +46,6 @@ TAV-8B是[美國海軍陸戰隊的雙座獵鷹II式攻擊機](https://zh.wikiped
 
 <!-- end list -->
 
-  - [泰國皇家海軍](https://zh.wikipedia.org/wiki/泰國皇家海軍 "wikilink")（以[查克里·納呂貝特航空母艦為基地](https://zh.wikipedia.org/wiki/查克里·納呂貝特航空母艦 "wikilink")，自西班牙轉售）
-
-<!-- end list -->
-
   - [英國皇家空軍](../Page/英國皇家空軍.md "wikilink")
       - [第一中隊](https://zh.wikipedia.org/wiki/第一中隊 "wikilink")
       - [第IV中隊](https://zh.wikipedia.org/wiki/第IV中隊 "wikilink")

@@ -72,7 +72,7 @@ Pages和[Keynote](../Page/Keynote.md "wikilink")可以與[iLife套裝整合](htt
 
 Numbers是在2007年加入iWork '08套裝的一個試算表應用程式。類似於[Microsoft Excel以及其他試算表應用程式](../Page/Microsoft_Excel.md "wikilink")，Numbers讓使用者將數據組織成表單，利用公式進行運算及建立圖表。不同於其他的試算表應用程式，Numbers允許使用者在一個文件中建立多個試算表，並且提供包含設計給個人金融、教育、商業使用的樣板。当前版本的Numbers支持存储或输出的格式有：
 
-  - Numbers ’09（2.0或更高版本)
+  - Numbers '09（2.0或更高版本)
   - [Microsoft Excel](../Page/Microsoft_Excel.md "wikilink")（.[xlsx和](https://zh.wikipedia.org/wiki/xlsx "wikilink").[xls](https://zh.wikipedia.org/wiki/xls "wikilink")）
   - [制表符分隔文本文件](https://zh.wikipedia.org/wiki/制表符 "wikilink")
   - 逗号分隔值（CSV）

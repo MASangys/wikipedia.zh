@@ -1,4 +1,6 @@
-**Pages** 是一个[文字处理和](https://zh.wikipedia.org/wiki/文字处理 "wikilink")[页面排版应用程序](https://zh.wikipedia.org/wiki/页面排版 "wikilink")。由 [苹果电脑公司开发](https://zh.wikipedia.org/wiki/苹果电脑公司 "wikilink")，包括在 [iWork软件套装中](https://zh.wikipedia.org/wiki/iWork "wikilink")。Pages 1.0 发布于2005年初，并于当年5月开始上市。和苹果其他大部分软件一样，它只能运行在 [OS X系统上](https://zh.wikipedia.org/wiki/OS_X "wikilink")。 Pages 2作为[iWork](https://zh.wikipedia.org/wiki/iWork "wikilink") '06 的一部分，于2006年发布。
+**Pages** 是一个[文字处理和](https://zh.wikipedia.org/wiki/文字处理 "wikilink")[页面排版应用程序](https://zh.wikipedia.org/wiki/页面排版 "wikilink")。由 [苹果电脑公司开发](https://zh.wikipedia.org/wiki/苹果电脑公司 "wikilink")，包括在 [iWork软件套装中](https://zh.wikipedia.org/wiki/iWork "wikilink")。Pages 1.0 发布于2005年初，并于当年5月开始上市。 Pages 2作为[iWork](https://zh.wikipedia.org/wiki/iWork "wikilink") '06 的一部分，于2006年发布。
+
+2010年**Pages推出iOS版。**
 
 ## 历史
 

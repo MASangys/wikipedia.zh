@@ -10,7 +10,7 @@
 
 魚叉飛彈研制费382.3百万[美元](../Page/美元.md "wikilink")，采购费为3909.6百万美元，总计4291.9百万美元，制造样本飞弹84枚，首批生产总数4013枚，每月生产率40枚，单价97.4万美元。
 
-艦射型魚叉飛彈絕大部分都裝設在上，但某些缺少放置發射架空間的艦種也可以使用[Mk 13型飛彈發射器或](../Page/Mk_13型飛彈發射器.md "wikilink")[MK-16反潛火箭發射器投射](https://zh.wikipedia.org/wiki/阿斯洛克反潛飛彈 "wikilink")。至今仍不相容[Mark 41垂直發射系統](../Page/Mark_41垂直發射系統.md "wikilink")。
+艦射型魚叉飛彈絕大部分都裝設在上，但某些缺少放置發射架空間的艦種也可以使用[Mk 13型飛彈發射器或](../Page/Mk_13型飛彈發射器.md "wikilink")[MK-16反潛火箭發射器投射](https://zh.wikipedia.org/wiki/阿斯洛克反潛飛彈 "wikilink")，如[派里級跟](https://zh.wikipedia.org/wiki/派里級 "wikilink")[諾克斯級](https://zh.wikipedia.org/wiki/諾克斯級 "wikilink")。至今仍不相容[Mark 41垂直發射系統](../Page/Mark_41垂直發射系統.md "wikilink")。
 
 [中华民国空军的](https://zh.wikipedia.org/wiki/中华民国空军 "wikilink")[F-16 Block 20是全世界F](../Page/F-16_Block_20.md "wikilink")-16族系中第一款整合魚叉飛彈做為主力反艦武器的型號\[1\]。
 

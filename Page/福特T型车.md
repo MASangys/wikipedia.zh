@@ -16,7 +16,7 @@ border | caption = 1919款福特T型轿跑车 | assembly =  | weight =  | wheelb
 
 ### 引擎与启动方式
 
-[Fordsidevalve.jpg](https://zh.wikipedia.org/wiki/File:Fordsidevalve.jpg "fig:Fordsidevalve.jpg") T型车拥有一部前置177 in³（2.9 L）的四[汽缸一体](https://zh.wikipedia.org/wiki/汽缸 "wikilink")[引擎](https://zh.wikipedia.org/wiki/引擎 "wikilink")，可提供20 匹[马力](https://zh.wikipedia.org/wiki/马力 "wikilink")（15 kW）和45 mph（72 km/h）的速度。该引擎有旁侧阀门与三个主要轴承，可靠[汽油](../Page/汽油.md "wikilink")[煤油或](https://zh.wikipedia.org/wiki/煤油 "wikilink")[酒精](https://zh.wikipedia.org/wiki/酒精 "wikilink")([乙醇](../Page/乙醇.md "wikilink"))提供动力\[7\]，后者后随着汽油价格的下降和[禁酒令的出台](https://zh.wikipedia.org/wiki/禁酒時期 "wikilink")，遂停止使用。缺省配置的T型车的[耗油量大约为](../Page/汽车燃油经济性.md "wikilink")25至30 mpg（7.8-9.4 L/100 km）。
+[Fordsidevalve.jpg](https://zh.wikipedia.org/wiki/File:Fordsidevalve.jpg "fig:Fordsidevalve.jpg") T型车拥有一部前置177 in³（2.9 L）的四[汽缸一体](https://zh.wikipedia.org/wiki/汽缸 "wikilink")[引擎](https://zh.wikipedia.org/wiki/引擎 "wikilink")，可提供20 匹[马力](https://zh.wikipedia.org/wiki/马力 "wikilink")（15 kW）和45 mph（72 km/h）的速度。该引擎有旁侧阀门与三个主要轴承，可靠[汽油](../Page/汽油.md "wikilink")[煤油](../Page/煤油.md "wikilink")或[酒精](https://zh.wikipedia.org/wiki/酒精 "wikilink")([乙醇](../Page/乙醇.md "wikilink"))提供动力\[7\]，后者后随着汽油价格的下降和[禁酒令的出台](https://zh.wikipedia.org/wiki/禁酒時期 "wikilink")，遂停止使用。缺省配置的T型车的[耗油量大约为](../Page/汽车燃油经济性.md "wikilink")25至30 mpg（7.8-9.4 L/100 km）。
 
 在以[手摇起动柄启动T型车前](https://zh.wikipedia.org/wiki/手摇起动柄 "wikilink")，必须使点火延迟，否则可能损坏启动装置或者被旋轉的起动柄打伤。多数T型车由[冷却器底部引出的电线控制](https://zh.wikipedia.org/wiki/冷却器 "wikilink")[阻风门](https://zh.wikipedia.org/wiki/阻风门 "wikilink")，藉此可以在右手使用手摇起动柄的同时用左手操作它。1926年后，销售的T型车基本都配置了电子启动装置。
 

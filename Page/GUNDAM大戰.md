@@ -58,7 +58,7 @@ GUNDAM大戰 ガンダムウォー（GUNDAM WAR） 以『[機動戰士GUNDAM](..
 
 ## 外部链接
 
-  - [Daniel & Co. 瑞華行 - -{GUNDAM}- WAR比賽頁面](http://www.danielco.com.hk/card/gundamwar/index.htm)
+  - [Daniel & Co. 瑞華行 - -{GUNDAM}- WAR比賽頁面](https://web.archive.org/web/20090424041044/http://www.danielco.com.hk/card/gundamwar/index.htm)
   - [尖端出版 卡牌遊戲區 - 鋼彈大戰台灣官方網站](http://www.spp.com.tw/asp/Gundamwar/nmain.asp)
   - [鋼彈大戰官方網站](http://www.carddas.com/cdmasters/gundamwar/)
 

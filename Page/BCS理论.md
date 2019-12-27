@@ -10,7 +10,7 @@
 
 ## 貢獻
 
-巴丁、库珀、施里弗因此获得1972年的[诺贝尔物理学奖](../Page/诺贝尔物理学奖.md "wikilink")。不過[BCS理論并無法成功的解釋所謂第二類超導](https://zh.wikipedia.org/wiki/BCS理論 "wikilink")，或[高溫超導](../Page/高溫超導.md "wikilink")的現象。
+巴丁、库珀、施里弗因此获得1972年的[诺贝尔物理学奖](../Page/诺贝尔物理学奖.md "wikilink")。不過[BCS理論無法成功地解釋所謂第二類超導](https://zh.wikipedia.org/wiki/BCS理論 "wikilink")，或[高溫超導](../Page/高溫超導.md "wikilink")的現象。
 
 ## 参见
 

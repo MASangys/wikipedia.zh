@@ -412,7 +412,7 @@
 ## 外部連結
 
   - [2007 Rookie Challenge](https://web.archive.org/web/20140221125940/http://www.nba.com/allstar2007/rookie_challenge/)
-  - [2008 Rookie Challenge](http://www.nba.com/allstar2008/rookie_challenge/)
+  - [2008 Rookie Challenge](https://web.archive.org/web/20120114035408/http://www.nba.com/allstar2008/rookie_challenge/)
   - [Rookie Challenge Recaps and Box Scores](https://web.archive.org/web/20120209224308/http://www.nba.com/history/allstar/rookie_alltime_results.html)
   - [Rookie Challenge Coaches](https://web.archive.org/web/20121026101440/http://www.nba.com/history/allstar/rookie_alltime_coaches.html)
   - [Team-by-Team Participants](https://web.archive.org/web/20121026101449/http://www.nba.com/history/allstar/rookie_alltime_teambyteam.html)

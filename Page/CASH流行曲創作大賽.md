@@ -463,7 +463,7 @@
 
 ## 外部連結
 
-  - [CASH流行曲創作大賽｜香港作曲家及作詞家協會](http://www.cash.org.hk/tc/index.php?main=3&id=23)
+  - [CASH流行曲創作大賽｜香港作曲家及作詞家協會](https://web.archive.org/web/20160319212101/http://www.cash.org.hk/tc/index.php?main=3&id=23)
   - [香港作曲家及作詞家協會](http://www.cash.org.hk/)
 
 [Category:無綫電視音樂節目](https://zh.wikipedia.org/wiki/Category:無綫電視音樂節目 "wikilink") [Category:無綫電視特備節目](https://zh.wikipedia.org/wiki/Category:無綫電視特備節目 "wikilink")

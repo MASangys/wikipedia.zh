@@ -1,10 +1,6 @@
-《**DNA²**》是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[桂正和](../Page/桂正和.md "wikilink")創作的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[漫畫以及改編的](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，1993年至1994年連載於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》，[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")5冊。
+《**DNA²**》是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[桂正和](../Page/桂正和.md "wikilink")創作的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於[集英社](../Page/集英社.md "wikilink")漫畫雜誌《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》1993年36・37合併號連載至1994年29號，[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")5冊。
 
-## 概要
-
-在[集英社](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》上從1993年36・37合併號連載至1994年29號，[台灣中文版由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[東立出版社](../Page/東立出版社.md "wikilink")發行，[香港](../Page/香港.md "wikilink")中文版由[文化傳信](../Page/文化傳信.md "wikilink")發行。
-
-作品本身雖短，但有[電視動畫與](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，也曾經被考慮過拍成[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。電視動畫版在台灣是由[首華卡通頻道](../Page/首華卡通頻道.md "wikilink")首播，中文片名是《再造基因》，但是是未經授權的[B拷版](https://zh.wikipedia.org/wiki/B拷 "wikilink")，故每集片頭與片尾的「製作協力：[Bandai Visual](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")、[Movic](https://zh.wikipedia.org/wiki/Movic "wikilink")」與「製作：[BaoHouse](../Page/MADHOUSE.md "wikilink")」均被覆蓋。
+另有[電視動畫與](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")。電視動畫版在台灣是由[首華卡通頻道](../Page/首華卡通頻道.md "wikilink")首播，中文片名是《再造基因》，但是是未經授權的[B拷版](https://zh.wikipedia.org/wiki/B拷 "wikilink")，故每集片頭與片尾的「製作協力：[Bandai Visual](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")、[Movic](https://zh.wikipedia.org/wiki/Movic "wikilink")」與「製作：[BaoHouse](../Page/MADHOUSE.md "wikilink")」均被覆蓋。
 
 原作和動畫的故事順序與結局並不同。
 
@@ -18,58 +14,95 @@
 
 ## 登場人物
 
-<table style="width:10%;">
-<colgroup>
-<col style="width: 5%" />
-<col style="width: 5%" />
-</colgroup>
+  - 桃生純太：[難波圭一](../Page/難波圭一.md "wikilink")
+  - 葵華林（葵加玲）：[富永美衣奈](../Page/富永美衣奈.md "wikilink")
+  - 佐伯倫子：[林原惠](../Page/林原惠.md "wikilink")
+  - 栗本亞美：[笠原弘子](../Page/笠原弘子.md "wikilink")
+  - 高梨琴美：[椎名碧流](../Page/椎名碧流.md "wikilink")
+  - 菅下龍二：[子安武人](../Page/子安武人.md "wikilink")
+  - 染屋垣麿：[岩田光央](../Page/岩田光央.md "wikilink")
+  - 市川一期：[菊池英博](https://zh.wikipedia.org/wiki/菊池英博 "wikilink")
+  - 栗本三郎：[峰惠研](https://zh.wikipedia.org/wiki/峰惠研 "wikilink")
+  - 桃生千代：[丸山裕子](https://zh.wikipedia.org/wiki/丸山裕子 "wikilink")
+  - 時光機電腦：[山田榮子](../Page/山田榮子.md "wikilink")
+  - 橫森：[大林隆之介](../Page/大林隆介.md "wikilink")
+  - 森：[筈見純](https://zh.wikipedia.org/wiki/筈見純 "wikilink")
+  - 川崎嚕啦啦：[玉川紗己子](https://zh.wikipedia.org/wiki/玉川紗己子 "wikilink")
+
+## 出版書籍
+
+  - 單行本
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p><a href="../Page/集英社.md" title="wikilink">集英社</a></p></th>
+<th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td><ul>
-<li>桃生純太：<a href="../Page/難波圭一.md" title="wikilink">難波圭一</a></li>
-<li>葵華林（葵加玲）：<a href="../Page/富永美衣奈.md" title="wikilink">富永美衣奈</a></li>
-<li>佐伯倫子：<a href="../Page/林原惠.md" title="wikilink">林原惠</a></li>
-<li>栗本亞美：<a href="../Page/笠原弘子.md" title="wikilink">笠原弘子</a></li>
-<li>高梨琴美：<a href="../Page/椎名碧流.md" title="wikilink">椎名碧流</a></li>
-<li>菅下龍二：<a href="../Page/子安武人.md" title="wikilink">子安武人</a></li>
-<li>染屋垣麿：<a href="../Page/岩田光央.md" title="wikilink">岩田光央</a></li>
-</ul></td>
-<td><ul>
-<li>市川一期：<a href="https://zh.wikipedia.org/wiki/菊池英博" title="wikilink">菊池英博</a></li>
-<li>栗本三郎：<a href="https://zh.wikipedia.org/wiki/峰惠研" title="wikilink">峰惠研</a></li>
-<li>桃生千代：<a href="https://zh.wikipedia.org/wiki/丸山裕子" title="wikilink">丸山裕子</a></li>
-<li>時光機電腦：<a href="../Page/山田榮子.md" title="wikilink">山田榮子</a></li>
-<li>橫森：<a href="../Page/大林隆介.md" title="wikilink">大林隆之介</a></li>
-<li>森：<a href="https://zh.wikipedia.org/wiki/筈見純" title="wikilink">筈見純</a></li>
-<li>川崎嚕啦啦：<a href="https://zh.wikipedia.org/wiki/玉川紗己子" title="wikilink">玉川紗己子</a></li>
-</ul></td>
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>1993年12月2日</p></td>
+<td><p>ISBN 4-08-871756-2</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>1994年4月4日</p></td>
+<td><p>ISBN 4-08-871757-0</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>1994年7月4日</p></td>
+<td><p>ISBN 4-08-871758-9</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>1994年10月4日</p></td>
+<td><p>ISBN 4-08-871759-7</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>1995年2月3日</p></td>
+<td><p>ISBN 4-08-871760-0</p></td>
 </tr>
 </tbody>
 </table>
 
-## 單行本
+  - 文庫版
 
-  - 日文版
-
-<!-- end list -->
-
-1.  集英社1993年12月2日刊行 ISBN 4-08-871756-2
-2.  集英社1994年4月4日刊行 ISBN 4-08-871757-0
-3.  集英社1994年7月4日刊行 ISBN 4-08-871758-9
-4.  集英社1994年10月4日刊行 ISBN 4-08-871759-7
-5.  集英社1995年2月3日刊行 ISBN 4-08-871760-0
-
-<!-- end list -->
-
-  - 台灣中文版
-
-<!-- end list -->
-
-1.  東立出版社1994年1月30日第1刷發行 ISBN 957-34-1304-3
-2.  東立出版社1994年6月20日第1刷發行 ISBN 957-34-1887-8
-3.  東立出版社1994年10月20日第1刷發行 ISBN 957-34-1888-6
-4.  東立出版社1995年2月20日第1刷發行 ISBN 957-34-1889-4
-5.  東立出版社1995年5月20日第1刷發行 ISBN 957-34-1890-8
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>集英社</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2012年10月18日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2012年11月16日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>ISBN 978-4-08-619388-7</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 動畫
 

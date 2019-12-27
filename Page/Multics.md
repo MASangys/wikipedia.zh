@@ -6,7 +6,7 @@ MULTICS以[相容分時系統](https://zh.wikipedia.org/wiki/相容分時系統 
 
 ## 外部連結
 
-  - <http://www.multicians.org/> is a great site with a lot of material
+  - <https://web.archive.org/web/20191030094546/https://www.multicians.org/> is a great site with a lot of material
       - [Multics papers online](http://www.multicians.org/papers.html)
       - [Myths](http://www.multicians.org/myths.html) discusses numerous myths about Multics in some detail, including the myths that it failed, that it was big and slow, and numerous other canards, as well as a few understandable misapprehensions
       - [Multics security](http://www.multicians.org/security.html)

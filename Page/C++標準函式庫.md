@@ -84,5 +84,6 @@ C++標準程式庫大量參考了並基於[標準模板程式庫（STL）所建�
   - \[<http://msdn2.microsoft.com/en-us/library/cscc687y(VS.80>).aspx Microsoft MSDN Library - Standard C++ Library Reference\]
   - [C++ Standard Library reference](http://cs.stmarys.ca/~porter/csc/ref/cpp_standlib.html)
   - [The C++ Resources Network](http://www.cplusplus.com/)
+  - [C++標準庫教學](https://www.tw511.com/2/15/347.html)
 
 [Category:C++標準函式庫](https://zh.wikipedia.org/wiki/Category:C++標準函式庫 "wikilink")

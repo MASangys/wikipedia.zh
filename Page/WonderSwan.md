@@ -1,52 +1,66 @@
-**WonderSwan**是日本[万代公司发行](https://zh.wikipedia.org/wiki/万代 "wikilink")，[横井军平的Koto](https://zh.wikipedia.org/wiki/横井军平 "wikilink") Laboratory公司和万代开发的[掌上游戏机](https://zh.wikipedia.org/wiki/掌上游戏机 "wikilink")。这款[第五世代游戏机于](https://zh.wikipedia.org/wiki/游戏机历史_\(第五世代\) "wikilink")1999年推出，WonderSwan有**WonderSwan Color**和**SwanCrystal**两款后继型号，万代在2003年正式停止支持三款主机。WonderSwan系列主机市场等原因，未在日本外推出。
+是[日本](../Page/日本.md "wikilink")[玩具](../Page/玩具.md "wikilink")製造商[萬代](../Page/萬代.md "wikilink")（後與[南夢宮合併為](https://zh.wikipedia.org/wiki/南夢宮 "wikilink")[萬代南夢宮](https://zh.wikipedia.org/wiki/萬代南夢宮 "wikilink")）推出的[16位元](https://zh.wikipedia.org/wiki/16位元 "wikilink")[掌上遊戲機](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")、[第五世代遊戲機](../Page/第五世代遊戲機.md "wikilink")，由[Game Boy設計者](../Page/Game_Boy.md "wikilink")[橫井軍平](../Page/橫井軍平.md "wikilink")成立的的公司[Koto Laboratory和萬代共同設計](https://zh.wikipedia.org/wiki/Koto_Laboratory "wikilink")，並是橫井軍平在1997年因車禍逝世前主導設計的最後一款硬體。
 
-WonderSwan采用16位元[中央处理器](../Page/中央处理器.md "wikilink")（CPU），和竞争对手——[任天堂](../Page/任天堂.md "wikilink")的[Game Boy Color与](../Page/Game_Boy_Color.md "wikilink")[SNK的](https://zh.wikipedia.org/wiki/SNK_Playmore "wikilink")[Neo Geo Pocket Color](https://zh.wikipedia.org/wiki/Neo_Geo_Pocket_Color "wikilink")——相比，价格低廉且电池使用时间更长。后继型号除延续优势外，还改用彩色显示屏。WonderSwan可以横向或竖向游玩。掌机有一批独占游戏，除改编自第一方动画资产的游戏外，还有[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")、[南梦宫](../Page/南梦宫.md "wikilink")、[太东等知名第三方的游戏](https://zh.wikipedia.org/wiki/太东 "wikilink")。WonderSwan各型号累计销量约350万，在受任天堂[Game Boy Advance边缘化前](../Page/Game_Boy_Advance.md "wikilink")，一度占据日本掌机市场份额的8%。虽然WonderSwan在和任天堂的短暂竞争中销量弱势，但回顾评论称赞了掌机的潜力。
+初代WonderSwan於1990年3月於日本推出；衍生機型包括於2000年推出的**WonderSwan Color**（，簡稱為****），以及2002年推出的**SwanCrystal**（，簡稱為****）。在生命週期內，沒有任何一款WonderSwan系列主機於日本以外的地區正式推出。
 
-## 历史
+WonderSwan系列主機在其生命週期中銷量共計約350萬部，於日本掌上遊戲機市場市佔率最高達8%。儘管在市場龍頭[任天堂](../Page/任天堂.md "wikilink")[Game Boy系列的競爭下表現並不算突出](../Page/Game_Boy家系.md "wikilink")，多數輿論仍給予WonderSwan正面評價。
 
-[万代是山科直治在](https://zh.wikipedia.org/wiki/万代 "wikilink")1950年创立的公司，以玩具车与可塑模型生产起家。公司从1963年掌握《[铁臂阿童木](../Page/铁臂阿童木.md "wikilink")》角色版权起，以热门动画角色授权经营，成为玩具业巨头。万代在1970年代中，生产了电视节目和专用游戏机改编的[LCD游戏](https://zh.wikipedia.org/wiki/LCD "wikilink")。公司于1982年在日本发行[Intellivision](../Page/Intellivision.md "wikilink")，于1985年成为首批第三方[红白机](../Page/红白机.md "wikilink")厂商之一。但公司在电子游戏界的最大成功，是1996年首发的电子宠物[他媽哥池](../Page/他媽哥池.md "wikilink")\[1\]。然而万代在产品成功后，突然取消了1997年和[世嘉](../Page/世嘉.md "wikilink")合并的计划。万代董事会不到一周就通过反对合并决议，世嘉在决议当晚的紧急董事会见中，也接受了万代的反對合併決議。对未获合并支持一事，万代总裁山科诚表示负责\[2\]。于是在万代没有外部支持的情况下，进入电子游戏市场\[3\]。
+## 歷史
 
-工程设计师[横井军平在](https://zh.wikipedia.org/wiki/横井军平 "wikilink")[任天堂](../Page/任天堂.md "wikilink")时，设计了著名的掌上游戏机[Game Boy](../Page/Game_Boy.md "wikilink")。他在[Virtual Boy失败后](../Page/Virtual_Boy.md "wikilink")，于1996年离开任天堂，自创工程设计公司Koto Laboratory。万代之后请横井军平制作WondoerSwan，和Game Boy竞争\[4\]。横井参与了新掌机的开发，但1997年因车祸先于产品推出前离世\[5\]。
+### 背景及開發
 
-1998年10月8日，WonderSwan在东京正式公开\[6\]。WonderSwan其名有凸显美学和技术性能之意：水面上看到的是优雅的天鹅（[Swan](https://zh.wikipedia.org/wiki/wikt:swan "wikilink")），水面下则脚掌在拼命的打水\[7\]。公司宣称，电池使用时间为30小时，价格低廉，首发游戏约50款\[8\]。
+萬代是由[山科直治於](https://zh.wikipedia.org/wiki/山科直治 "wikilink")1950年建立的一家公司，以玩具車與可塑模型生產起家，自1963年取得《[原子小金剛](https://zh.wikipedia.org/wiki/原子小金剛 "wikilink")》版權後，就以製造熱門[日本動畫角色授權玩具成為玩具界巨頭之一](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。1970年代中期，萬代開始製造以電視節目為題材的[液晶顯示器](https://zh.wikipedia.org/wiki/液晶顯示器 "wikilink")（）遊戲和[專用遊戲機](https://zh.wikipedia.org/wiki/專用遊戲機 "wikilink")；1982年，將[美泰兒](../Page/美泰兒.md "wikilink")的[家用遊戲機](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")[Intellivision](../Page/Intellivision.md "wikilink")引入日本。1985年後，萬代成為首批[任天堂](../Page/任天堂.md "wikilink")[紅白機第三方電子遊戲發行商之一](https://zh.wikipedia.org/wiki/紅白機 "wikilink")。不過萬代在電子遊戲界的最大成功則是於1996年首發的[電子寵物](https://zh.wikipedia.org/wiki/電子寵物 "wikilink")[塔麻可吉](https://zh.wikipedia.org/wiki/塔麻可吉 "wikilink")，甚至使公司原先預定與另一家電子遊戲商[世嘉](../Page/世嘉.md "wikilink")合併的計畫於1997年取消\[1\]；萬代董事會在通過與世嘉合併的決議後不到一周就決定反對合併計畫，世嘉在萬代董事會通過反對決議當晚召開了緊急董事會，會中決定尊重萬代的選擇。對合併提議未獲-{支持}-一事，時任萬代總裁[山科誠表示負責](https://zh.wikipedia.org/wiki/山科誠 "wikilink")\[2\]。於是萬代就在沒有外部支援的情況下，進入了電子遊戲市場\[3\]。
 
-[WonderSwan-WonderWave-PocketStation.jpg](https://zh.wikipedia.org/wiki/File:WonderSwan-WonderWave-PocketStation.jpg "fig:WonderSwan-WonderWave-PocketStation.jpg")（右）上的部分万代游戏\]\]
+[橫井軍平](../Page/橫井軍平.md "wikilink")是一名工程設計師，以主導設計任天堂的[掌上遊戲機](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")[Game Boy聞名](../Page/Game_Boy.md "wikilink")。在[Virtual Boy失敗後](../Page/Virtual_Boy.md "wikilink")，橫井於1996年離開任天堂，自創公司[Koto Laboratory](https://zh.wikipedia.org/wiki/Koto_Laboratory "wikilink")。萬代在此時與他聯繫，請他協助設計一部掌上遊戲機與Game Boy競爭\[4\]。橫井參與了新主機的研發過程，但卻於1997年因車禍逝世，無緣見到WonderSwan正式推出\[5\]。
 
-WonderSwan于1999年3月4日首发\[9\]，外壳颜色有9种：珍珠白、镂空绿、金属银、镂空红、金属蓝、镂空蓝、镂空黑、迷彩、金色。此外还有冰薄荷、冰霜瓜和苏打蓝，三种限量双色版主机。万代在官方网站发起推荐颜色投票，而为金属版和珍珠白版，为给特别版腾出位置，栏位在7月22日取消\[10\]。虽然任天堂在5个月前发行[Game Boy Color](../Page/Game_Boy_Color.md "wikilink")，但万代相信黑白屏的WonderSwan表现也会出色：因黑白屏节电、游戏库质量高，Game Boy最终战胜彩屏的[世嘉Game Gear和](../Page/Game_Gear.md "wikilink")[雅达利Lynx](../Page/雅达利Lynx.md "wikilink")。WonderSwan零售价4,800日圆也比对手便宜\[11\]。万代曾在2000年和Mattel签定协议，由后者代理WonderSwan的北美销售，但掌机最终未能上市\[12\]。取消发售的确切原因不明，但掌上游戏机市场拥挤或为一原因\[13\]。
+1998年10月8日，WonderSwan相關資訊於東京首次公開\[6\]。萬代希望藉由「」之名凸顯主機兼具設計美學和性能，即是因為「」（天鵝）普遍被認為是優雅的鳥類，而強勁有力的雙腿則在水面下划動輔助游泳；萬代並承諾WonderSwan將擁有約30小時的電池續航力、合理的售價，以及約50款首發遊戲\[7\]\[8\]。
 
-万代在翌年公开了WonderSwan Color，该游戏机显示屏为彩色，同时向下兼容WonderSwan\[14\]。WonderSwan Color于2000年9月在日本发行，外壳颜色有珍珠蓝、珍珠粉、水晶黑、水晶蓝和水晶橙\[15\]\[16\]。主机首发获一般成功，不到一个月间售出27万台\[17\]。任天堂在WonderSwan能发售之前，宣布了硬件配置更优的[Game Boy Advance](../Page/Game_Boy_Advance.md "wikilink")。相较于Advance的9,800日圆，WonderSwan Color的6,800日圆仍更廉价；WonderSwan Color的日本掌机市场占有率虽一度达8%，但自2001年3月Game Boy Advance上架后，WonderSwan的销量就再未上去\[18\]。
+### 發售及競爭
 
-SwanCrystal是WonderSwan Color的重新设计版，2002年7月12日在日本上市，售价7,800日圆\[19\]\[20\]，比当时的Game Boy Advance便宜1,000日圆\[21\]。万代网站再次举办外壳色彩投票，选项为紫罗兰、暗红、水晶蓝恶化水晶黑\[22\]\[23\]。SwanCrystal虽优化LCD屏幕并降价，却仍无竞争力，万代因此宣布，在2003年停产低销量的WonderSwan家族，并彻底退出游戏硬件制造业\[24\]。WonderSwan家族累计销量350万台\[25\]\[26\]，其中WonderSwan销量155万，WonderSwan Color销量超过110万\[27\]\[28\]。
+1999年3月4日，WonderSwan於日本首發，售價為4,800[日圓](../Page/日圓.md "wikilink")，有珍珠白、鏤空綠、金屬銀、鏤空紅、金屬藍、鏤空藍、鏤空黑、迷彩、金色等9種外殼顏色供選擇，之後並經在萬代的網站舉行的線上投票活動新增冰薄荷、冰霜瓜和蘇打藍三種限量的雙色選項，與此同時於7月22日停售了金屬銀、金屬藍和珍珠白型號，以為雙色選項騰出空間\[9\]\[10\]。儘管任天堂的[Game Boy Color剛於五個月前發售](../Page/Game_Boy_Color.md "wikilink")，萬代仍然對WonderSwan的前景充滿信心，因為WonderSwan採用了與初代[Game Boy相似的](../Page/Game_Boy.md "wikilink")螢幕，而初代Game Boy憑藉其優異的電池續航力和堅實的遊戲陣容在市場上較世嘉的[Game Gear和](../Page/Game_Gear.md "wikilink")[雅達利](../Page/雅達利.md "wikilink")的[雅達利Lynx等採用彩色螢幕的競爭對手都更為成功](https://zh.wikipedia.org/wiki/雅達利Lynx "wikilink")。同時，WonderSwan 4,800日圓的首發售價亦較當時市面上的競爭對手便宜\[11\]。
 
-## 技术规格
+萬代在2000年間曾與美泰兒達成協議將WonderSwan引入[北美地區市場](https://zh.wikipedia.org/wiki/北美地區 "wikilink")，不過最終沒有實現\[12\]。萬代放棄向北美市場發展的確切原因尚不得而知，不過有意見認為北美掌上遊戲機市場本身的飽和是萬代卻步的因素之一\[13\]。
 
-[WonderSwan-Color-Back-wBattery.jpg](https://zh.wikipedia.org/wiki/File:WonderSwan-Color-Back-wBattery.jpg "fig:WonderSwan-Color-Back-wBattery.jpg")供电\]\]
+2000年中後，萬代推出了WonderSwan Color（），改採彩色螢幕，同時[向下相容於初代WonderSwan](https://zh.wikipedia.org/wiki/向下相容 "wikilink")\[14\]。WonderSwan Color於2000年12月9日在日本上市，有珍珠藍、珍珠粉、水晶黑、水晶藍和水晶橙等外殼顏色選項\[15\]\[16\]。WonderSwan Color取得了一定程度的成功，在發售後一個月銷量即達27萬餘部\[17\]。然而任天堂於WonderSwan Color正式上市前發表了新一代主機[Game Boy Advance](../Page/Game_Boy_Advance.md "wikilink")，硬體規格較WonderSwan Color優異；雖然WonderSwan Color 6,800日圓的首發售價仍較Game Boy Advance的9,800日圓便宜，一度於日本掌上遊戲機市場市佔率達8%的WonderSwan系列主機在Game Boy Advance於2001年3月上市後銷量再無起色\[18\]。
 
-WonderSwan的主[CPU为](../Page/中央处理器.md "wikilink")16位的[NEC V20](https://zh.wikipedia.org/wiki/NEC_V20 "wikilink")。原版WonderSwan显示屏灰度为8位，主要对手Game Boy的则为4。主机和雅达利Lynx类似，有一组附加按键，可供玩家不同角度游玩；有了这些按键，玩家横向或竖向操作皆可。WonderSwan系列皆由单节AA电池供电，每节电池可为黑白屏原版供电40小时。掌机内有储存器记录存档，玩家无需抄写密码\[29\]。游戏机LCD屏幕为，分辨率为224 × 144\[30\]。游戏机音源为4 [PCM声道](../Page/脈衝編碼調變.md "wikilink")，各声道音频皆32采样、4位元，可调节音量和音高\[31\]。
+2002年7月12日，WonderSwan Color經過重新設計，以SwanCrystal（）之名推出，首發售價7,800日圓（時較Game Boy Advance售價便宜1,000日圓）\[19\]\[20\]\[21\]。萬代再次在網站舉行線上投票活動，選出了紫羅蘭、暗紅、水晶藍和水晶黑為外殼顏色選項\[22\]\[23\]。不過儘管有著相對低廉的售價和更優質的螢幕，SwanCrystal仍無力競爭。最終萬代於2003年全面停產WonderSwan系列主機，並轉型為純[第三方遊戲開發商](https://zh.wikipedia.org/wiki/游戏开发者#第三方开发商 "wikilink")。WonderSwan系列主機在其生命週期內銷量共計約350萬部，其中初代WonderSwan銷量約155萬部，WonderSwan Color銷量則至少達110萬部\[24\]\[25\]\[26\]。
 
-WonderSwan有专门开发的产品和外设。[WonderWitch是](https://zh.wikipedia.org/wiki/WonderWitch "wikilink")[Qute开发的官方](https://zh.wikipedia.org/wiki/Qute "wikilink")[软件开发工具](https://zh.wikipedia.org/wiki/软件开发工具 "wikilink")，面向业余程序员\[32\]。工具包售价11,800日圆，用户可以[C语言开发游戏](https://zh.wikipedia.org/wiki/C语言 "wikilink")。WonderSwan没有耳机接口，故公司推出了耳机－掌机转接器。WonderSwan还有遥控机器人WonderBorg。此外WonderWave连接掌机和[PlayStation 2](../Page/PlayStation_2.md "wikilink")，惟该功能很罕用。WonderSwan及后续机种可用移动电话网上网\[33\]。
+## 硬體
 
-WonderSwan Color尺寸略大于WonderSwan，为12.8 × 7.43 × 24.3厘米，其重96克。WonderSwan Color的CPU为3.072 MHz的NEC V20，[RAM为](../Page/随机存取存储器.md "wikilink")512 kB，由[显示RAM和工作RAM共用](https://zh.wikipedia.org/wiki/VRAM "wikilink")。游戏机调色板为4,096色，最大同屏发色数为241，每行至多支持28个精灵\[34\]。游戏机LCD屏幕尺寸为\[35\]，亦大于原版WonderSwan\[36\]。WonderSwan Color完全兼容WonderSwan作品\[37\]。SwanCrystal采用[TFT LCD显示器](https://zh.wikipedia.org/wiki/TFT_LCD "wikilink")，比Color的[FSTN显示器响应更快](https://zh.wikipedia.org/wiki/覆膜型STN "wikilink")，减弱了画面[動態模糊](../Page/動態模糊.md "wikilink")。重新设计的外壳也更耐用。每节电池可使用约15小时\[38\]。
+[替代=](https://zh.wikipedia.org/wiki/File:WonderSwan-Color-Back-wBattery.jpg "fig:替代=")作為主要電力來源\]\] [替代=](https://zh.wikipedia.org/wiki/File:WonderSwan-WonderWave-PocketStation.jpg "fig:替代=")與[索尼](../Page/索尼.md "wikilink")的[PocketStation](../Page/PocketStation.md "wikilink")進行連動\]\] 初代WonderSwan主機之長、寬、高分別為74.3[公釐](https://zh.wikipedia.org/wiki/公釐 "wikilink")×121公釐×24.3公釐（裝載專用充電電池時為74.3公釐×128公釐×17.5公釐），WonderSwan Color分別為74.3公釐×128公釐×24.3公釐（裝載專用充電電池時為74.3公釐×128公釐×17.5公釐），SwanCrystal則分別為77.5公釐×127.7公釐×17.5公釐\[27\]\[28\]\[29\]。WonderSwan系列主機所使用的卡帶之長、寬、高分別為41.8×65.2×6.0公釐\[30\]。
 
-## 游戏库
+WonderSwan系列主機皆採用[日本電氣](../Page/日本電氣.md "wikilink")研發的[16位元](https://zh.wikipedia.org/wiki/16位元 "wikilink")[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")（），頻率為3.072 [MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")\[31\]\[32\]。和[雅達利Lynx類似](https://zh.wikipedia.org/wiki/雅達利Lynx "wikilink")，WonderSwan附有一組額外的按鍵，可供玩家以不同角度持裝置遊玩，橫向或豎向操作皆可\[33\]。WonderSwan系列主機皆使用單顆[AA電池](../Page/AA電池.md "wikilink")作為主要電力來源，在電池電量全滿的情況下，初代WonderSwan的續航力最多可達30小時之久，WonderSwan Color則達20小時，SwanCrystal也有15小時\[34\]\[35\]\[36\]。初代WonderSwan的[隨機存取記憶體](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")（）和[唯讀記憶體](../Page/唯讀記憶體.md "wikilink")（）皆為16 [KB](../Page/千字节.md "wikilink")（128 [Kbit](https://zh.wikipedia.org/wiki/千比特 "wikilink")），而在WonderSwan Color和SwanCrystal上兩者皆增加至64 KB（512 Kbit）\[37\]\[38\]。此外，玩家可以在主機內建的128 [B](../Page/字节.md "wikilink")（1 Kbit）[電子抹除式可複寫唯讀記憶體](../Page/電子抹除式可複寫唯讀記憶體.md "wikilink")（）上記錄姓名、生日和血型等個人資訊，以供遊戲存取使用\[39\]。
 
-Koto Laboratories称WonderSwan游戏卡带共售出1,000万张\[39\]。万代在开发WonderSwan时，获得数间厂商的支持。[萬普](../Page/萬普.md "wikilink")——万代当时部分持有——在动画授权和作品许可上提供支持，[南梦宫](../Page/南梦宫.md "wikilink")和[卡普空](../Page/卡普空.md "wikilink")为掌机开发了多款作品\[40\]。[史克威尔为游戏机重制了](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")《[最终幻想](../Page/最终幻想_\(游戏\).md "wikilink")》、《[最终幻想II](../Page/最终幻想II.md "wikilink")》和《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》，这些游戏后亦登陆Game Boy Advance\[41\]\[42\]。[太东移植了](https://zh.wikipedia.org/wiki/太东 "wikilink")[太空侵略者](../Page/太空侵略者.md "wikilink")和[電車GO\!系列](../Page/電車GO!系列.md "wikilink")，这些移植游戏获得好评。万代也发行了自己的作品，包括[数码宝贝和](https://zh.wikipedia.org/wiki/数码宝贝 "wikilink")[GUNDAM](../Page/GUNDAM.md "wikilink")系列的独占作品\[43\]。横井军平为抗衡《[俄罗斯方块](https://zh.wikipedia.org/wiki/俄罗斯方块 "wikilink")》，自己为系统开发了一款益智游戏，游戏最终以自己的名字命名为“Gunpey”\[44\]。其续作《Gunpey EX》是WonserSwan Color的首发游戏\[45\]。一些游戏由WonderWitch工具制作，其中的《Judgment Silversword》评价出色\[46\]\[47\]。
+初代WonderSwan主機配有一面對角線寬度為2.49英寸（63公釐）的[FSTN液晶螢幕](https://zh.wikipedia.org/wiki/FSTN液晶 "wikilink")，解析度為224×144像素\[40\]\[41\]；螢幕可顯示八種灰色，較Game Boy的四種多了兩倍\[42\]\[43\]。WonderSwan Color和SwanCrystal的螢幕尺寸則較初代WonderSwan增大至2.8英寸（71公釐），解析度維持224×144像素不變，並可顯示彩色，同時發色數241色\[44\]\[45\]\[46\]。WonderSwan Color和SwanCrystal都[向下相容於初代WonderSwan](https://zh.wikipedia.org/wiki/向下相容 "wikilink")，不過初代WonderSwan遊戲在WonderSwan Color和SwanCrystal上遊玩時會維持灰階原色，而不會以彩色顯示\[47\]\[48\]。WonderSwan Color同樣採用FSTN液晶螢幕，而SwanCrystal則採用了技術上更先進的[TFT-LCD螢幕](../Page/薄膜電晶體液晶顯示器.md "wikilink")，以減少遊戲過程中常見的[動態模糊](../Page/動態模糊.md "wikilink")現象\[49\]\[50\]；此外，SwanCrystal的外殼也經過重新設計，較前代主機更加耐用\[51\]。
 
-第三方开发者对WonderSwan的支持不够热烈。WonderSwan虽由部分知名厂商支持，但多数发行商依然全力支持任天堂掌机。史克威尔放弃WonderSwan，转而为任天堂开发游戏，是为掌机晚期销量下跌的原因之一\[48\]。WonderSwan在2003年停产后，几家开发商将WonderSwan游戏移植到Game Boy Advance\[49\]。
+WonderSwan系列主機皆配有4個[脈波編碼調變](https://zh.wikipedia.org/wiki/脈波編碼調變 "wikilink")（）音訊頻道，可透過[壓電發音體輸出不同音量和音高的](../Page/壓電效應.md "wikilink")[4位元](https://zh.wikipedia.org/wiki/4位元 "wikilink")[立體聲](../Page/立體聲.md "wikilink")\[52\]\[53\]。
 
-## 评价
+在WonderSwan系列主機的生命週期內，萬代和第三方廠商為其開發了一些配件。是由推出的[軟體開發套件](https://zh.wikipedia.org/wiki/軟體開發套件 "wikilink")，售價11,800日圓，可讓開發者以[C語言為WonderSwan平臺開發遊戲](https://zh.wikipedia.org/wiki/C語言 "wikilink")\[54\]\[55\]。萬代則和合作推出了，可經WonderSwan操控\[56\]\[57\]。另外，透過WonderWave（）配件，WonderSwan可以[紅外線與](https://zh.wikipedia.org/wiki/紅外線 "wikilink")[索尼](../Page/索尼.md "wikilink")的[PocketStation](../Page/PocketStation.md "wikilink")進行連動\[58\]。此外，WonderSwan還可利用行動網路與[網際網路連接](https://zh.wikipedia.org/wiki/網際網路 "wikilink")\[59\]。
 
-WonderSwan系列售出350万台\[50\]\[51\]，一度占据日本掌机商场份额的8%，但最终被Game Boy Advance击败\[52\]。任天堂因Game Boy Advance鲜艳的屏幕和丰富的游戏库，几乎将日本掌机市场垄断，直到索尼2004年发行的[PlayStation Portable将局面打破](../Page/PlayStation_Portable.md "wikilink")\[53\]。
+## 遊戲陣容
 
-西方怀旧评论称赞了掌机的成就，但称其只“定位于”特定玩家。杰里米·帕里什认为，WonderSwan极致展现了横井军平的设计哲学。他还将掌机不温不火归罪于万代：“人们最后想起WonderSwan，就是掌机史上的一现昙花，这非系统设计缺陷之过，而是万代莫名软弱的战略，保持低调而恶化时机” \[54\]。帕里什提出WonderSwan在未上市北美的假设，称“在美国零售店，很难看到Neo Geo Pocket系统和游戏，很难想象，会有人强烈要求另一小众日本掌机”\[55\]。[Kotaku](../Page/Kotaku.md "wikilink")的卢克·布朗克称赞WonderSwan挑战任天堂，“它尝试了些非常独特有趣的东西，和过往大多掌机经营者相比，他打了一场更坚决的战斗”\[56\]。《[Retro Gamer](https://zh.wikipedia.org/wiki/Retro_Gamer "wikilink")》的金·王尔德多处批评掌机，如无耳机和交流电接口、左撇子操作方案差、接耳机适配器时不能多人连线游戏。但王尔德也有所称赞，“万代的WonderSwan经营竞争令人称奇。今天看来依然低廉的售价，使其更值得考虑。”\[57\]
+Koto Laboratory稱WonderSwan系列遊戲卡匣銷量達1000萬份\[60\]。萬代的子公司[萬普](../Page/萬普.md "wikilink")透過動漫授權和作品許可支援WonderSwan的遊戲陣容，[南夢宮](https://zh.wikipedia.org/wiki/南夢宮 "wikilink")（當時尚未與萬代合併）和[卡普空](../Page/卡普空.md "wikilink")也為主機研發了一些遊戲\[61\]。[史克威爾](../Page/史克威爾.md "wikilink")（後與[艾尼克斯](../Page/艾尼克斯.md "wikilink")合併為[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）推出了《[最终幻想](../Page/最终幻想_\(游戏\).md "wikilink")》、《[最终幻想II](../Page/最终幻想II.md "wikilink")》和《[最終幻想IV](../Page/最終幻想IV.md "wikilink")》的重製版，這些遊戲之後也登上了Game Boy Advance平臺\[62\]\[63\]。[太東](../Page/太東.md "wikilink")移植了《[太空侵略者](../Page/太空侵略者.md "wikilink")》和一些[電車GO\!系列](../Page/電車GO!系列.md "wikilink")作品，獲得良好評價。萬代自己也為主機製作了數款[數碼寶貝系列和](https://zh.wikipedia.org/wiki/數碼寶貝系列 "wikilink")[鋼彈系列作品獨佔遊戲](https://zh.wikipedia.org/wiki/鋼彈系列作品 "wikilink")\[64\]。為了與Game Boy系列的[殺手級遊戲](https://zh.wikipedia.org/wiki/殺手級應用 "wikilink")《[俄羅斯方塊](../Page/俄羅斯方塊.md "wikilink")》競爭，橫井軍平為WonderSwan開發了一款[益智遊戲](https://zh.wikipedia.org/wiki/益智遊戲 "wikilink")，之後為紀念他以《》（即「軍平」）之名發行；其續作《》則是WonderSwan Color的首發遊戲\[65\]\[66\]\[67\]。此外，一些以WonderWitch開發套件開發的遊戲，如《》等，也都有不錯的評價\[68\]\[69\]\[70\]。
 
-## 参考文献
+WonderSwan的遊戲陣容並不能算是充足。儘管有一些第三方電子遊戲發行商為主機開發遊戲，不過多數第三方電子遊戲發行商仍然僅支援任天堂的掌上遊戲機；史克威爾後來選擇回到任天堂陣營，成為WonderSwan在生命週期末期銷量下滑的主因之一\[71\]。WonderSwan退出市場後，部分WonderSwan平臺的遊戲作品被移植至Game Boy Advance\[72\]。
 
-## 外部链接
+## 評價
 
-  - [官方网站](https://web.archive.org/web/20000816000422/http://www.swan.channel.or.jp/)（已存档）
+WonderSwan系列主機在其生命週期內銷量共計約350萬部，於日本掌上遊戲機市場市佔率最高達8%，不過最終仍不敵任天堂的Game Boy Advance\[73\]\[74\]\[75\]。Game Boy Advance之後藉其鮮豔的彩色螢幕和堅實的遊戲陣容持續壟斷日本掌上遊戲機市場，直到[索尼](../Page/索尼.md "wikilink")於2004年推出[PlayStation Portable為止](../Page/PlayStation_Portable.md "wikilink")\[76\]。
 
-[Category:萬代遊戲機](https://zh.wikipedia.org/wiki/Category:萬代遊戲機 "wikilink") [Category:掌上遊戲機](https://zh.wikipedia.org/wiki/Category:掌上遊戲機 "wikilink") [Category:第五世代遊戲機](https://zh.wikipedia.org/wiki/Category:第五世代遊戲機 "wikilink")
+輿論多給予WonderSwan正面評價，不過同時也認為WonderSwan較為小眾，僅對部分市場有較大吸引力。傑里米·佩瑞許（）在為USgamer（[Eurogamer](../Page/Eurogamer.md "wikilink")支部）撰寫的報導中將WonderSwan評價為橫井軍平設計哲學的終極體現，同時指出主機對市場的影響不大，惟將主機的失敗歸因於萬代，稱：「儘管WonderSwan最終將只被視為掌上遊戲機史中一次局部的波瀾，不過其已真正擁有做為電子遊戲平臺的地位⋯⋯主機的隱沒更多應歸因於進入市場的時機不當，以及萬代本身異常溫和的行銷策略，而非硬體本身的缺陷所致。」佩瑞許並對WonderSwan系列主機未進入北美地區市場的原因進行了推測：「基於當時[NEO-GEO Pocket相關商品在美國零售通路中有多難找](https://zh.wikipedia.org/wiki/NEO-GEO_Pocket "wikilink")，很難想像消費者會想要另一臺定位尷尬的日本主機。」\[77\][Kotaku](../Page/Kotaku.md "wikilink")的路克·普朗克特（）讚譽了WonderSwan對任天堂的挑戰：「她（WonderSwan）擁有些非常獨特而有趣的事物，並打出了比其他多數掌上遊戲機都要精彩的一役。」\[78\]《》的金·魏爾德（）則批評了WonderSwan缺乏耳機孔和[AC](../Page/交流電.md "wikilink")[變壓器插槽](https://zh.wikipedia.org/wiki/變壓器 "wikilink")，以及按鈕配置對左撇子玩家不友善、在連接耳機轉接器的狀態下無法藉傳輸線進行多人對戰等缺點，不過也讚譽了WonderSwan：「在受到強力競爭的情況下，（萬代）以WonderSwan達成的事情是非常優秀的。主機低廉的售價使其即使是在今天仍然值得作為購買選項考慮。」\[79\]
+
+## 參見
+
+  - [Game Boy Advance](../Page/Game_Boy_Advance.md "wikilink")
+  - [Game Gear](../Page/Game_Gear.md "wikilink")
+  - [橫井軍平](../Page/橫井軍平.md "wikilink")
+
+## 參考資料
+
+## 外部連結
+
+  -
+
+[Category:1999年面世的產品](https://zh.wikipedia.org/wiki/Category:1999年面世的產品 "wikilink") [Category:第五世代遊戲機](https://zh.wikipedia.org/wiki/Category:第五世代遊戲機 "wikilink") [Category:掌上遊戲機](https://zh.wikipedia.org/wiki/Category:掌上遊戲機 "wikilink") [Category:萬代遊戲機](https://zh.wikipedia.org/wiki/Category:萬代遊戲機 "wikilink")
 
 1.
 2.
@@ -73,7 +87,7 @@ WonderSwan系列售出350万台\[50\]\[51\]，一度占据日本掌机商场份�
 23.
 24.
 25.
-26.
+26.  受託開発|archive-url=[https://web.archive.org/web/20191123151512/https://www.koto.co.jp/oem/dev_records.html|archive-date=2019-11-23](https://web.archive.org/web/20191123151512/https://www.koto.co.jp/oem/dev_records.html%7Carchive-date=2019-11-23)}}
 27.
 28.
 29.
@@ -105,3 +119,25 @@ WonderSwan系列售出350万台\[50\]\[51\]，一度占据日本掌机商场份�
 55.
 56.
 57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+72.
+73.
+74.
+75.
+76.
+77.
+78.
+79.

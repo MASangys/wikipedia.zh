@@ -1,6 +1,6 @@
 **LumaQQ**是[腾讯QQ](../Page/腾讯QQ.md "wikilink")的非官方客户端程序，是一个遵循[GPL的](https://zh.wikipedia.org/wiki/GPL "wikilink")[自由软件](../Page/自由软件.md "wikilink")，由独立的开发小组进行开发，使用[Java](../Page/Java.md "wikilink")语言编写，采用[SWT](../Page/SWT.md "wikilink")的仿[QQ界面](https://zh.wikipedia.org/wiki/QQ "wikilink")。由于Java的[跨平台特性](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，LumaQQ可以用于多种操作系统，包括[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")等。
 
-LumaQQ实现了腾讯QQ官方客户端的大部分功能，包括参加群聊、接收自定义图像，但还有一些功能尚没有实现，包括文件传输等。它还扩充了一些官方客户端不具备的功能，如显示[IP等](../Page/IP地址.md "wikilink")，但是LumaQQ最著名的，也是最具有争议的扩充[功能](../Page/功能.md "wikilink")，就是能够显示对方[隐身状态的](https://zh.wikipedia.org/wiki/隐身 "wikilink")“如来神掌”。
+LumaQQ实现了腾讯QQ官方客户端的大部分功能，包括参加群聊、接收自定义图像，但还有一些功能尚没有实现，包括文件传输等。它还扩充了一些官方客户端不具备的功能，如显示[IP等](../Page/IP地址.md "wikilink")，但是LumaQQ最著名的，也是最具有争议的扩充功能，就是能够显示对方[隐身状态的](https://zh.wikipedia.org/wiki/隐身 "wikilink")“如来神掌”。
 
 ## 发布规则
 

@@ -27,7 +27,7 @@
 | 4  | 2004年 | 陳逸達 三段                                                 |     | [林書陽](../Page/林書陽.md "wikilink") 二段                    |
 | 5  | 2005年 | [林至涵](../Page/林至涵.md "wikilink") 七段                    |     | [陳鋒](../Page/陳鋒.md "wikilink") 初段                      |
 | 6  | 2006年 | 林至涵 七段                                                 |     | [蕭正浩](../Page/蕭正浩.md "wikilink") 五段                    |
-| 7  | 2007年 | [陳詩淵](../Page/陳詩淵.md "wikilink") 七段                    | 2:0 | [劉耀文](https://zh.wikipedia.org/wiki/劉耀文 "wikilink") 初段 |
+| 7  | 2007年 | [陳詩淵](../Page/陳詩淵.md "wikilink") 七段                    | 2:0 | [劉耀文](../Page/劉耀文.md "wikilink") 初段                    |
 | 8  | 2008年 | 林至涵 八段                                                 | 1:0 | [夏大銘](https://zh.wikipedia.org/wiki/夏大銘 "wikilink") 五段 |
 |    |       |                                                        |     |                                                        |
 

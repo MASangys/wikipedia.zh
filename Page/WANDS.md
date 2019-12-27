@@ -273,6 +273,20 @@
 <td><p>FREEZE</p></td>
 <td><p>32</p></td>
 </tr>
+<tr class="odd">
+<td><p>第5期</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>16</p></td>
+<td><p>2020年1月29日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -424,6 +438,7 @@
 ## 外部連結
 
   - [WANDS - Being Official Web Site](http://www.being.co.jp/wands/)
+  - [WANDS OFFICIAL WEBSITE 第5期](https://wands-official.jp/)
 
 [Category:日本摇滚樂團](https://zh.wikipedia.org/wiki/Category:日本摇滚樂團 "wikilink") [Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink") [Category:流行搖滾樂團](https://zh.wikipedia.org/wiki/Category:流行搖滾樂團 "wikilink") [Category:Being旗下艺人](https://zh.wikipedia.org/wiki/Category:Being旗下艺人 "wikilink") [Category:日本金唱片大獎邦樂部門獲獎者](https://zh.wikipedia.org/wiki/Category:日本金唱片大獎邦樂部門獲獎者 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink") [Category:1991年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1991年成立的音樂團體 "wikilink") [Category:2000年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2000年解散的音樂團體 "wikilink")
 

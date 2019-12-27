@@ -129,7 +129,7 @@ AIM-7分成四個主要區段：導引段、彈頭、控制器、火箭引擎（
   - [AIM-120先進中程空對空飛彈](../Page/AIM-120先進中程空對空飛彈.md "wikilink")
   - [RIM-7海麻雀导弹](../Page/RIM-7海麻雀导弹.md "wikilink")
   - [RIM-162進化型海麻雀飛彈 ESSM](../Page/RIM-162导弹.md "wikilink")
-  - [AIM-260聯合先進戰術飛彈](https://zh.wikipedia.org/wiki/AIM-260聯合先進戰術飛彈 "wikilink")
+  - [AIM-260聯合先進戰術飛彈](../Page/AIM-260聯合先進戰術飛彈.md "wikilink")
   - [火闪导弹](https://zh.wikipedia.org/wiki/火闪导弹 "wikilink")
   - [天兵防空系統](../Page/天兵防空系統.md "wikilink")
   - [空對空飛彈](https://zh.wikipedia.org/wiki/空對空飛彈 "wikilink")

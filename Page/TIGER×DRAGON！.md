@@ -102,22 +102,26 @@
 
 ### 其他角色
 
-## 輕小說
+## 出版書籍
+
+### 輕小說
 
 <table>
 <thead>
 <tr class="header">
 <th><p>日文版</p></th>
 <th><p>中文版[2]</p></th>
-<th><p>日文版</p></th>
-<th><p>繁體中文版</p></th>
-<th><p>簡體中文版</p></th>
+<th><p><a href="../Page/MediaWorks.md" title="wikilink">MediaWorks</a><br />
+→<a href="../Page/ASCII_Media_Works.md" title="wikilink">ASCII Media Works</a></p></th>
+<th><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/湖南美術出版社" title="wikilink">湖南美術出版社</a>（出版）<br />
+<a href="https://zh.wikipedia.org/wiki/天聞角川" title="wikilink">天聞角川</a>（發行）</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p>ISBN</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 <td><p>ISBN</p></td>
 <td><p>發售日期</p></td>
@@ -152,54 +156,47 @@
 </tr>
 <tr class="even">
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
 <td><p>TIGER×DRAGON5！</p></td>
 <td><p>2007年8月10日</p></td>
 <td><p>ISBN 978-4-8402-3932-5</p></td>
 <td><p>2008年4月30日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>TIGER×DRAGON6！</p></td>
 <td><p>2007年12月10日</p></td>
 <td><p>ISBN 978-4-8402-4117-5</p></td>
 <td><p>2008年11月4日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>TIGER×DRAGON7！</p></td>
 <td><p>2008年4月10日</p></td>
 <td><p>ISBN 978-4-04-867019-7</p></td>
 <td><p>2009年1月23日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>TIGER×DRAGON8！</p></td>
 <td><p>2008年8月10日</p></td>
 <td><p>ISBN 978-4-04-867170-5</p></td>
 <td><p>2009年4月28日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>TIGER×DRAGON9！</p></td>
 <td><p>2008年10月10日</p></td>
 <td><p>ISBN 978-4-04-867265-8</p></td>
 <td><p>2009年7月22日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>TIGER×DRAGON10！</p></td>
 <td><p>2009年3月10日</p></td>
 <td><p>ISBN 978-4-04-867593-2</p></td>
 <td><p>2009年9月25日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>TIGER×DRAGON SPIN OFF！<br />
 幸福的櫻色龍捲風</p></td>
@@ -207,7 +204,7 @@
 <td><p>ISBN 978-4-8402-3838-0</p></td>
 <td><p>2008年8月16日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>TIGER×DRAGON SPIN OFF2！<br />
 秋高虎肥</p></td>
@@ -215,7 +212,7 @@
 <td><p>ISBN 978-4-04-867459-1</p></td>
 <td><p>2009年12月11日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>TIGER×DRAGON SPIN OFF3！<br />
 瞧瞧我的便當</p></td>
@@ -223,7 +220,7 @@
 <td><p>ISBN 978-4-04-867019-7</p></td>
 <td><p>2010年11月19日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -233,15 +230,14 @@
 </tbody>
 </table>
 
-## 漫畫
+### 漫畫
 
 <table>
 <thead>
 <tr class="header">
-<th><p>日文版</p></th>
-<th><p>中文版</p></th>
-<th><p>日文版</p></th>
-<th><p>繁體中文版</p></th>
+<th><p>冊數</p></th>
+<th><p><a href="../Page/KADOKAWA.md" title="wikilink">KADOKAWA</a></p></th>
+<th><p>台灣角川</p></th>
 </tr>
 </thead>
 <tbody>
@@ -249,57 +245,48 @@
 <td><p>發售日期</p></td>
 <td><p>ISBN</p></td>
 <td><p>發售日期</p></td>
-<td><p>ISBN</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td><p>TIGER×DRAGON1！</p></td>
+<td><p>1</p></td>
 <td><p>2008年2月27日</p></td>
 <td><p>ISBN 978-4-8402-4219-6</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td><p>TIGER×DRAGON2！</p></td>
-<td><p>2009年1月27日（特裝版）<br />
-2009年2月27日（通常版）</p></td>
+<td><p>2</p></td>
+<td><p>2009年1月27日<br />
+2009年2月27日</p></td>
 <td><p>ISBN 978-4-04-867400-3（特裝版）<br />
 ISBN 978-4-04-867633-5（通常版）</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td><p>TIGER×DRAGON3！</p></td>
+<td><p>3</p></td>
 <td><p>2010年1月27日</p></td>
 <td><p>ISBN 978-4-04-868368-5</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td><p>TIGER×DRAGON4！</p></td>
+<td><p>4</p></td>
 <td><p>2011年1月27日</p></td>
 <td><p>ISBN 978-4-04-870244-7</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td><p>TIGER×DRAGON5！</p></td>
+<td><p>5</p></td>
 <td><p>2012年3月27日</p></td>
 <td><p>ISBN 978-4-04-886492-3</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td><p>TIGER×DRAGON6！</p></td>
-<td><p>2013年7月27日（特裝版）<br />
-2013年8月27日（通常版）</p></td>
+<td><p>6</p></td>
+<td><p>2013年7月27日<br />
+2013年8月27日</p></td>
 <td><p>ISBN 978-4-04-891651-6（特裝版）<br />
 ISBN 978-4-04-891618-9（通常版）</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td><p>TIGER×DRAGON7！</p></td>
+<td><p>7</p></td>
 <td><p>2015年2月27日</p></td>
 <td><p>ISBN 978-4-04-869057-7</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td><p>TIGER×DRAGON8！</p></td>
+<td><p>8</p></td>
 <td><p>2017年10月27日</p></td>
 <td><p>ISBN 978-4-04-893426-8</p></td>
 </tr>
@@ -799,6 +786,8 @@ ISBN 978-4-04-891618-9（通常版）</p></td>
   - [動畫官方網站](http://www.tv-tokyo.co.jp/anime/toradora/index.html)
 
   - [動畫官方網站（Star Child）](http://www.starchild.co.jp/special/toradora/index.html)
+
+  - [電撃文庫網站](http://www.mediaworks.co.jp/users_s/d_hp/)
 
 [Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:2008年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2008年東京電視網動畫 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink") [Category:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/Category:月刊Comic電擊大王連載作品 "wikilink") [Category:校園小說](https://zh.wikipedia.org/wiki/Category:校園小說 "wikilink") [Category:2006年小說](https://zh.wikipedia.org/wiki/Category:2006年小說 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 

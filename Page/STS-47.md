@@ -4,7 +4,7 @@
 
   - **[罗伯特·吉布森](../Page/罗伯特·吉布森.md "wikilink")**（，曾执行、、、以及任务），指令长
   - **[柯提斯·布朗](../Page/柯提斯·布朗.md "wikilink")**（，曾执行、、、、以及任务），飞行员
-  - **[马克·李](https://zh.wikipedia.org/wiki/马克·李 "wikilink")**（，曾执行、、以及任务），任务专家
+  - **[马克·李](../Page/马克·李.md "wikilink")**（，曾执行、、以及任务），任务专家
   - **[简·戴维斯](https://zh.wikipedia.org/wiki/简·戴维斯 "wikilink")**（，曾执行、以及任务），任务专家
   - **[杰罗姆·阿普特](https://zh.wikipedia.org/wiki/杰罗姆·阿普特 "wikilink")**（，曾执行、、以及任务），任务专家
   - **[梅·杰米森](https://zh.wikipedia.org/wiki/梅·杰米森 "wikilink")**（，曾执行任务），有效载荷专家

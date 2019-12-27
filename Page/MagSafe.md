@@ -68,7 +68,7 @@ USB-C充電器提供三款不同功率，分別是29W、61W和87W。
 
 ## 外部連結
 
-  - [MacBook Pro - Design](http://www.apple.com/macbookpro/design.html)，包括MagSafe插頭介紹
+  - [MacBook Pro - Design](https://web.archive.org/web/20120519074257/http://www.apple.com/macbookpro/design.html)，包括MagSafe插頭介紹
   - [The power of magnets](http://arstechnica.com/reviews/hardware/macbookpro.ars/4)，[Ars Technica對](../Page/Ars_Technica.md "wikilink")[MacBook Pro評論的一部份](../Page/MacBook_Pro.md "wikilink")，集中評論MagSafe插頭
   - [Where are the MagSafe adapters for cars and airplanes?](http://blogs.zdnet.com/Apple/?cat=65)
   - [MacBook與MacBook Pro用的MagSafe汽車與飛機交直流兩用充電器，可在汽車與飛機上充電](http://mikegyver.com/)

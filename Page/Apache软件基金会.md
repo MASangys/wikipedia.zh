@@ -80,7 +80,7 @@ Apache软件基金会正式创建于1999年，创始团队自称“Apache组织�
 
 ## 外部链接
 
-  - [Apache官方站点](http://www.apache.org)
+  - [Apache官方站点](https://www.apache.org/)
 
 ## 参见
 

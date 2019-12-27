@@ -14,13 +14,13 @@ Times New Roman的最初原稿在斯坦利·莫里森的監製之下，由维克
 
 ## 电脑字体
 
-[Times_Roman_vs_Times_New_Roman.png](https://zh.wikipedia.org/wiki/File:Times_Roman_vs_Times_New_Roman.png "fig:Times_Roman_vs_Times_New_Roman.png") [视窗系统中的字体是](https://zh.wikipedia.org/wiki/视窗 "wikilink")[Monotype公司为](https://zh.wikipedia.org/wiki/Monotype "wikilink")[微软](../Page/微软.md "wikilink")公司制作的Times New Roman PS（[TrueType](../Page/TrueType.md "wikilink")字体），[视窗系统从](https://zh.wikipedia.org/wiki/视窗 "wikilink")3.1版本开始就一直附带这个字体。而在[苹果电脑公司的](https://zh.wikipedia.org/wiki/苹果电脑公司 "wikilink")[麦金塔系统中使用的是Linotype公司的Times](https://zh.wikipedia.org/wiki/麦金塔 "wikilink") Roman（在Macintosh系统中直接简称为“Times”）。[开放源代码](../Page/开放源代码.md "wikilink")的[操作系统](../Page/操作系统.md "wikilink")中一般使用的[Nimbus Roman No. 9 L](../Page/Nimbus_Roman_No._9_L.md "wikilink")，它是Times Roman的URW PostScript版本，是基于[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")发布的。
+[Times_Roman_vs_Times_New_Roman.png](https://zh.wikipedia.org/wiki/File:Times_Roman_vs_Times_New_Roman.png "fig:Times_Roman_vs_Times_New_Roman.png") [Windows系统中的字体是](https://zh.wikipedia.org/wiki/Windows "wikilink")[Monotype公司为](https://zh.wikipedia.org/wiki/Monotype "wikilink")[微软](../Page/微软.md "wikilink")公司制作的Times New Roman PS（[TrueType](../Page/TrueType.md "wikilink")字体），Windows系统从3.1版本开始就一直附带这个字体。而在[苹果电脑公司的](https://zh.wikipedia.org/wiki/苹果电脑公司 "wikilink")[麦金塔系统中使用的是](https://zh.wikipedia.org/wiki/麦金塔 "wikilink")[Linotype公司的Times](https://zh.wikipedia.org/wiki/Linotype "wikilink") Roman（在Macintosh系统中直接简称为“Times”）。[开放源代码](../Page/开放源代码.md "wikilink")的[操作系统](../Page/操作系统.md "wikilink")中一般使用的[Nimbus Roman No. 9 L](../Page/Nimbus_Roman_No._9_L.md "wikilink")，它是Times Roman的URW PostScript版本，是基于[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")发布的。
 
 在[电脑方面](https://zh.wikipedia.org/wiki/电脑 "wikilink")，现在很多[应用程序](../Page/应用程序.md "wikilink")，还有[网页浏览器](../Page/网页浏览器.md "wikilink")和[文字处理软件都是用它作为默认字体](https://zh.wikipedia.org/wiki/文字处理 "wikilink")。
 
-需要注意的是，[Linotype公司的Times](https://zh.wikipedia.org/wiki/Linotype "wikilink") Roman字体，对于一般使用者来说，它和Times New Roman PS几乎没有区别，二者的区别，一般是在涉及注册商标的时候才提及，虽然在设计方面的确有细微的差别，比如Linotype公司的字体中大写S的[衬线是倾斜的](https://zh.wikipedia.org/wiki/衬线 "wikilink")，而Monotype公司的是垂直的；二者在小写字母z的斜体字重等方面的处理也不一样。原先Times New Roman和Times Roman字宽不一样，当[微软](../Page/微软.md "wikilink")在[Windows系统中采用Times](https://zh.wikipedia.org/wiki/Windows "wikilink") New Roman时，他们让Monotype公司修改PostScript字体，使其与[Adobe](../Page/Adobe.md "wikilink")／[Linotype的字体保持一样的字宽](https://zh.wikipedia.org/wiki/Linotype "wikilink")；所以现在看到的字体宽度都是一样的。
+需要注意的是，Linotype公司的Times Roman字体，对于一般使用者来说，它和Times New Roman PS几乎没有区别，二者的区别，一般是在涉及注册商标的时候才提及，虽然在设计方面的确有细微的差别，比如Linotype公司的字体中大写S的[衬线是倾斜的](https://zh.wikipedia.org/wiki/衬线 "wikilink")，而Monotype公司的是垂直的；二者在小写字母z的斜体字重等方面的处理也不一样。原先Times New Roman和Times Roman字宽不一样，当微软在Windows系统中采用Times New Roman时，他们让Monotype公司修改PostScript字体，使其与[Adobe](../Page/Adobe.md "wikilink")／Linotype的字体保持一样的字宽；所以现在看到的字体宽度都是一样的。
 
-另外方正公司的方正小标宋、方正宋三字体的英文部分也使用Times Roman（但是方正宋三字体中阿拉伯数字使用的是Bodoni MT字体）。
+另外[方正公司的方正小标宋](../Page/方正集團.md "wikilink")、方正宋三字体的英文部分也使用Times Roman（但是方正宋三字体中阿拉伯数字使用的是Bodoni MT字体）。
 
 ## 外部連結
 

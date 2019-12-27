@@ -6,7 +6,7 @@
 
 因為不敵網絡影音娛樂的普及，業務無法扭轉劣勢，再加上未能尋求資金持續營運，於2013年1月15日，HMV母公司委任[德勤會計師事務所為](https://zh.wikipedia.org/wiki/德勤會計師事務所 "wikilink")[破產](../Page/破產.md "wikilink")管理人\[1\]，接管英國及[愛爾蘭業務](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")，並尋求清盤或賣盤。
 
-HMV於2013年4月被希爾科公司（Hilco）收購。HMV香港、新加坡的全數股權及中國、台灣及澳門的hmv經營權由私募基金[匯友資本](https://zh.wikipedia.org/wiki/匯友資本 "wikilink")（AID Partners）收購。
+HMV於2013年4月被希爾科公司（Hilco）收購。HMV香港、新加坡的全數股權及中国大陆、台灣及澳門的hmv經營權由私募基金[匯友資本](https://zh.wikipedia.org/wiki/匯友資本 "wikilink")（AID Partners）收購。
 
 ## 香港HMV
 
@@ -30,7 +30,7 @@ HMV在曾香港設有5間分店，包括[中環](../Page/中環.md "wikilink")[�
 
 ## 圖片
 
-[File:hmv.jpg|標誌](File:hmv.jpg%7C標誌) <File:HMV> - Oxford Street 1.jpg|位於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦的HMV分店](https://zh.wikipedia.org/wiki/倫敦 "wikilink") <File:HMV> Oxford Street by Alex Liivet.jpg|HMV 英國倫敦牛津街分店於2013年11月以新形象重開 <File:HMV> Central Store Upper floor view 201501.jpg|往時位於[中環](../Page/中環.md "wikilink")[中建大廈](../Page/中建大廈.md "wikilink")的HMV分店，於2014年已遷往至[娛樂行](../Page/娛樂行.md "wikilink")，並以新品牌 HMVideal開設，佔地約12,500平方呎。 <File:HKElementsHMV> 20071026.jpg|位於[西九龍](../Page/西九龍.md "wikilink")[圓方](../Page/圓方.md "wikilink")的HMV分店，現已遷往場內另一個舖位 <File:HMV> in iSquare Hong Kong on 2018-12-17.jpg|位於[尖沙咀](../Page/尖沙咀.md "wikilink")[iSquare的HMV分店](https://zh.wikipedia.org/wiki/iSquare "wikilink")，攝於其最後一個營業日（2018年12月17日）
+[File:Hmv.jpg|標誌](File:Hmv.jpg%7C標誌) <File:HMV> - Oxford Street 1.jpg|位於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦的HMV分店](https://zh.wikipedia.org/wiki/倫敦 "wikilink") <File:HMV> Oxford Street by Alex Liivet.jpg|HMV 英國倫敦牛津街分店於2013年11月以新形象重開 <File:HMV> Central Store Upper floor view 201501.jpg|往時位於[中環](../Page/中環.md "wikilink")[中建大廈](../Page/中建大廈.md "wikilink")的HMV分店，於2014年已遷往至[娛樂行](../Page/娛樂行.md "wikilink")，並以新品牌 HMVideal開設，佔地約12,500平方呎。 <File:HKElementsHMV> 20071026.jpg|位於[西九龍](../Page/西九龍.md "wikilink")[圓方](../Page/圓方.md "wikilink")的HMV分店，現已遷往場內另一個舖位 <File:HMV> in iSquare Hong Kong on 2018-12-17.jpg|位於[尖沙咀](../Page/尖沙咀.md "wikilink")[iSquare的HMV分店](https://zh.wikipedia.org/wiki/iSquare "wikilink")，攝於其最後一個營業日（2018年12月17日）
 
 ## 參考
 
@@ -48,7 +48,7 @@ HMV在曾香港設有5間分店，包括[中環](../Page/中環.md "wikilink")[�
 
 1.
 2.
-3.  [HMV變身多元生活概念店 《資本企業家》 第118期 2014年9月11日](http://www.capitalentrepreneur.com/common_emag/view_content.php?issue_no=118&pub_id=23&top_id=153&art_id=195939)
+3.
 4.  [中國3D數碼與HMV合併　張智霖喜見公司發展強大](http://www.china3d8078.com/news/detail.html?news_id=25)
 5.
 6.

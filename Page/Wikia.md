@@ -1,4 +1,4 @@
-**Wikia**（中文：**維基亞**），原名（中文：**維基城**），是一個[Wiki農場](https://zh.wikipedia.org/wiki/Wiki農場 "wikilink")，創立於2004年10月18日，創立人為[吉米·威爾士和](https://zh.wikipedia.org/wiki/吉米·威爾士 "wikilink")[安琪拉·貝絲蕾](https://zh.wikipedia.org/wiki/安琪拉·貝絲蕾 "wikilink")，主要提供[wiki服務](../Page/Wiki.md "wikilink")。Wikia股份有限公司集結了許多不同族群的wiki站，免費提供使用者參與閱讀和編輯，以[廣告](../Page/廣告.md "wikilink")作為收入來源。2016年9月所屬的網路頁面以及手機應用程式正名為Fandom powered by Wikia。
+**Wikia**（中文：**維基亞**），原名（中文：**維基城**），是一個[Wiki農場](https://zh.wikipedia.org/wiki/Wiki農場 "wikilink")，創立於2004年10月18日，創立人為[吉米·威爾士和](https://zh.wikipedia.org/wiki/吉米·威爾士 "wikilink")[安琪拉·貝絲蕾](https://zh.wikipedia.org/wiki/安琪拉·貝絲蕾 "wikilink")，主要提供[wiki服務](../Page/Wiki.md "wikilink")。Wikia股份有限公司集結了許多不同族群的wiki站，免費提供使用者參與閱讀和編輯，以[廣告](../Page/廣告.md "wikilink")作為收入來源。2016年9月所屬的網路頁面以及手機應用程式改名為Fandom powered by Wikia。
 
 ## 网站说明
 

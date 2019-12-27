@@ -256,7 +256,7 @@
     喜歡的食物:[牛排](../Page/牛排.md "wikilink")；討厭的食物:[青椒](https://zh.wikipedia.org/wiki/青椒 "wikilink")、[苦瓜](../Page/苦瓜.md "wikilink")
     2月29日生，大雄的同學，顯示欲強。家境富裕，喜好賣弄、炫耀、耍小聰明，非常乞人憎的富家子。
 
-## 主要配角
+## 主要角色的家人及配角
 
   - [野比玉子](../Page/野比玉子.md "wikilink")（）美國版本稱Tammy，中文舊稱葉美玉
 
@@ -292,7 +292,7 @@
 
 <!-- end list -->
 
-  - [多啦美](https://zh.wikipedia.org/wiki/多啦美 "wikilink")（） 中文舊稱小叮鈴、哆啦咪。
+  - [哆啦美](../Page/哆啦美.md "wikilink")（） 中文舊稱小叮鈴、哆啦咪。
 
 <!-- end list -->
 
@@ -348,31 +348,6 @@
 
 <!-- end list -->
 
-  - [出木杉英才](../Page/出木杉英才.md "wikilink")（出木杉，或稱小杉，）
-
-<!-- end list -->
-
-  - 日本配音員：[白川澄子](https://zh.wikipedia.org/wiki/白川澄子 "wikilink")（1980年4月—2005年3月）→[萩野志保子](../Page/萩野志保子.md "wikilink")（朝日電視台版2005年5月—）／
-
-<!-- end list -->
-
-  -
-    青年期：[納谷六朗](../Page/納谷六朗.md "wikilink")（1989）→[白川澄子](https://zh.wikipedia.org/wiki/白川澄子 "wikilink")（1999年電影版：[大雄的結婚前夜](../Page/大雄的結婚前夜.md "wikilink")）→[大滝進矢](https://zh.wikipedia.org/wiki/大滝進矢 "wikilink")（2007）→[萩野志保子](../Page/萩野志保子.md "wikilink")（2010 太雄的結婚前夜）
-
-<!-- end list -->
-
-  - 香港配音員：[黃麗芳](../Page/黃麗芳.md "wikilink")、[巫哲棋](../Page/巫哲棋.md "wikilink")（無綫版，成年）、[劉惠雲](../Page/劉惠雲.md "wikilink")、[曾秀清](../Page/曾秀清.md "wikilink")（電影版）、[馬慧琪](https://zh.wikipedia.org/wiki/馬慧琪 "wikilink")（STAND BY ME）
-  - 台灣配音員（哆啦A夢版本）：[于正昇](../Page/于正昇.md "wikilink")＆[于正昌](../Page/于正昌.md "wikilink")（1979年版、除了2008年的電影版）→[姚敏敏](../Page/姚敏敏.md "wikilink")（2005年版前52集）→[雷碧文](../Page/雷碧文.md "wikilink")（2005年版第53集起）→[連思宇](../Page/連思宇.md "wikilink")（2005年版第182集起）、[劉如蘋](../Page/劉如蘋.md "wikilink")（電影版，2014年起）
-  - [中国大陆](../Page/中国大陆.md "wikilink")配音員：[武向彤](https://zh.wikipedia.org/wiki/武向彤 "wikilink")（电影版）、[劉紅韻](https://zh.wikipedia.org/wiki/劉紅韻 "wikilink")（廣東梁穎配音版）
-  - 真人版演員：[內村航平](https://zh.wikipedia.org/wiki/內村航平 "wikilink")（豐田汽車廣告）
-
-<!-- end list -->
-
-  -
-    1964年4月生（以前設定為1962年生）。野比大雄的同學，是個近乎完美的少年。讀書成績為班上最好，其他興趣(包括煮食)也有很好的表現，和靜香很談得來，令大雄感到妒忌。最初設定為靜香未來的伴侶，哆啦A夢便是為了這個原因，才回到過去協助大雄改變。
-
-<!-- end list -->
-
   - 春待老師，美國版本稱Mr S
 
 <!-- end list -->
@@ -420,7 +395,7 @@
     跟多啦A夢一樣，最喜歡吃[銅鑼燒](https://zh.wikipedia.org/wiki/銅鑼燒 "wikilink")。對美食無法抗拒，有一次紅色迷你多啦為了一枝[棒棒糖](https://zh.wikipedia.org/wiki/棒棒糖 "wikilink")，答應幫助大雄裝病，也偷吃過多啦A夢的豆沙包（一件不留）。在迷你哆啦與貓之手一集，三個迷你哆啦吃了大約十串的串燒（雖然只吃肉）。迷你哆啦還被​​設定為能識別並修改或修復機器內部結構的道具。
     在電影版《[大雄與白金迷宮](../Page/大雄與白金迷宮.md "wikilink")》中，哆啦A夢在被拷問時遭到嚴重破壞，大雄將紅色迷你哆啦縮小後由哆啦A夢的鼻子處送入哆啦A夢體內，並成功修復了哆啦A夢；在對付叛變首領納波基斯特拉時，哆啦A夢以​​彈弓將攜帶病毒程式的迷你哆啦送入納波基斯特拉口中，並成功植入病毒，消滅了獨裁者及其叛軍。在漫畫《多啦A夢生病了?》中，-{zh-cn:哆啦;zh-hk:多啦;zh-tw:哆啦}-美用迷你-{zh-cn:哆啦;zh-hk:多啦;zh-tw:哆啦}-為不肯做身體檢查的多啦A夢進行修復工作。動畫1979年版的迷你哆啦A夢的配音員有在1989年的電影版《[哆啦美！迷你哆啦SOS！！](https://zh.wikipedia.org/wiki/哆啦美與迷你哆啦SOS "wikilink")》（）和1990年4月6日的播放的TV動畫《哆啦A夢生重病！》中声演。
 
-## 主要角色的家人及寵物
+## 次要角色的家人、配角及寵物
 
 ### 野比家
 
@@ -730,6 +705,31 @@
     是胖虎母親的妹妹，長相與胖虎相似，只出現過一次\[26\]。
 
 ### 出木杉家
+
+  - [出木杉英才](../Page/出木杉英才.md "wikilink")（出木杉，或稱小杉，）
+
+<!-- end list -->
+
+  - 日本配音員：[白川澄子](https://zh.wikipedia.org/wiki/白川澄子 "wikilink")（1980年4月—2005年3月）→[萩野志保子](../Page/萩野志保子.md "wikilink")（朝日電視台版2005年5月—）／
+
+<!-- end list -->
+
+  -
+    青年期：[納谷六朗](../Page/納谷六朗.md "wikilink")（1989）→[白川澄子](https://zh.wikipedia.org/wiki/白川澄子 "wikilink")（1999年電影版：[大雄的結婚前夜](../Page/大雄的結婚前夜.md "wikilink")）→[大滝進矢](https://zh.wikipedia.org/wiki/大滝進矢 "wikilink")（2007）→[萩野志保子](../Page/萩野志保子.md "wikilink")（2010 太雄的結婚前夜）
+
+<!-- end list -->
+
+  - 香港配音員：[黃麗芳](../Page/黃麗芳.md "wikilink")、[巫哲棋](../Page/巫哲棋.md "wikilink")（無綫版，成年）、[劉惠雲](../Page/劉惠雲.md "wikilink")、[曾秀清](../Page/曾秀清.md "wikilink")（電影版）、[馬慧琪](https://zh.wikipedia.org/wiki/馬慧琪 "wikilink")（STAND BY ME）
+  - 台灣配音員（哆啦A夢版本）：[于正昇](../Page/于正昇.md "wikilink")＆[于正昌](../Page/于正昌.md "wikilink")（1979年版、除了2008年的電影版）→[姚敏敏](../Page/姚敏敏.md "wikilink")（2005年版前52集）→[雷碧文](../Page/雷碧文.md "wikilink")（2005年版第53集起）→[連思宇](../Page/連思宇.md "wikilink")（2005年版第182集起）、[劉如蘋](../Page/劉如蘋.md "wikilink")（電影版，2014年起）
+  - [中国大陆](../Page/中国大陆.md "wikilink")配音員：[武向彤](https://zh.wikipedia.org/wiki/武向彤 "wikilink")（电影版）、[劉紅韻](https://zh.wikipedia.org/wiki/劉紅韻 "wikilink")（廣東梁穎配音版）
+  - 真人版演員：[內村航平](https://zh.wikipedia.org/wiki/內村航平 "wikilink")（豐田汽車廣告）
+
+<!-- end list -->
+
+  -
+    1964年4月生（以前設定為1962年生）。野比大雄的同學，是個近乎完美的少年。讀書成績為班上最好，其他興趣(包括煮食)也有很好的表現，和靜香很談得來，令大雄感到妒忌。最初設定為靜香未來的伴侶，哆啦A夢便是為了這個原因，才回到過去協助大雄改變。
+
+<!-- end list -->
 
   -
     《限時傻瓜彈》發出怪叫。

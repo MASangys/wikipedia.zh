@@ -94,7 +94,7 @@ GeForce4 MX產品線於2004年仍被第三次更新，該產品同[GeForce 5系�
 9.  Wasson, Scott. [ATI's Radeon 9500 Pro graphics card: DirectX 9 goes mainstream](http://www.techreport.com/reviews/2002q4/radeon-9500pro/index.x?pg=1) , Tech Report, November 27, 2002.
 10. Gasior, Geoff. [ATI's Radeon 9600 Pro GPU: One step forward, two steps back?](http://www.techreport.com/reviews/2003q2/radeon-9600pro/index.x?pg=1) , Tech Report, April 16, 2003.
 11. Gasior, Geoff. [NVIDIA's GeForce FX 5200 GPU: Between capability and competence](http://www.techreport.com/reviews/2003q2/geforcefx-5200/index.x?pg=1) , Tech Report, April 29, 2003.
-12. Wasson, Scott. [ATI's Radeon 9700 Pro graphics card: Render farm on a stick](http://www.techreport.com/reviews/2002q3/radeon-9700pro/index.x?pg=1), Tech Report, September 16, 2002.
+12. Wasson, Scott. [ATI's Radeon 9700 Pro graphics card: Render farm on a stick](http://www.techreport.com/reviews/2002q3/radeon-9700pro/index.x?pg=1) , Tech Report, September 16, 2002.
 13. [GeForce4 Go](http://www.nvidia.com/page/geforce4go.html), NVIDIA, accessed May 15, 2007.
 14. Witheiler, Matthew. [NVIDIA GeForce4 4200 Go: Bringing mobile gaming to new heights](http://www.anandtech.com/mobile/showdoc.aspx?i=1745), AnandTech, November 14, 2002.
 15.

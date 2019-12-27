@@ -56,7 +56,7 @@
 
 <!-- end list -->
 
-  - [ティアリングサーガ ユトナ英雄戦記](https://zh.wikipedia.org/wiki/ティアリングサーガ_ユトナ英雄戦記 "wikilink")
+  - [泪指轮传说 尤特娜英雄战记](../Page/泪指轮传说_尤特娜英雄战记.md "wikilink")
 
 <!-- end list -->
 
@@ -65,7 +65,15 @@
 
 <!-- end list -->
 
-  - [ベルウィックサーガ](https://zh.wikipedia.org/wiki/ベルウィックサーガ "wikilink") - Tear Ring Saga開發團隊製作的Tear Ring Saga系列第2作。2005年5月發售。
+  - 贝里克传说
+
+<!-- end list -->
+
+  -
+    泪指轮传说開發團隊製作的泪指轮传说系列第2作。2005年5月發售。
+
+<!-- end list -->
+
   - [真愛故事系列](https://zh.wikipedia.org/wiki/真愛故事 "wikilink") - 由[ビッツラボラトリー開發](https://zh.wikipedia.org/wiki/ビッツラボラトリー "wikilink")。
   - [君吻](../Page/君吻.md "wikilink")（）。
   - [聖誕之吻](../Page/聖誕之吻.md "wikilink")

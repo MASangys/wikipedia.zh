@@ -18,7 +18,7 @@ Icewmstartmenu.png|IceWM的开始菜单与Windows 95相似 IceWM 1.3.ogv|IceWM 1
 
   -
   -
-  - [X窗口管理器比较](https://zh.wikipedia.org/wiki/X窗口管理器比较 "wikilink")
+  - [X窗口管理器比较](../Page/X窗口管理器比较.md "wikilink")
 
   - Spri，[轻量级Linux发行版](../Page/轻量级Linux发行版.md "wikilink")的前身，使用IceWM作为默认用户界面
 

@@ -9,7 +9,7 @@
     [DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（DVD-ROM, DVD-R, DVD-RW, DVD+R, DVD+RW, [DVD-RAM](https://zh.wikipedia.org/wiki/DVD-RAM "wikilink")）
     [Blu-ray Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink") (BD-R, BD-RE, BD-ROM)
     [HD DVD](../Page/HD_DVD.md "wikilink")（HD DVD-R, HD DVD-ROM） - 版本8以後省略不支援。
-    [CPRM光碟](https://zh.wikipedia.org/wiki/CPRM "wikilink")
+    [CPRM](../Page/CPRM.md "wikilink")光碟
 
 ### 檔案 (以下指 PowerDVD 19 所支援的檔案格式以及編碼)
 

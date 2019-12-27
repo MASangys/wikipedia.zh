@@ -12,7 +12,7 @@ JasperReports的報告模板可以以[iReport之類的工具來製作](https://z
   - [JasperReports 在 SourceForge 的項目頁面](http://sourceforge.net/projects/jasperreports/)
   - [JasperReports官方主頁](http://jasperreports.sourceforge.net/)
   - [JasperReports: Tips and Information](https://web.archive.org/web/20060720165442/http://www.brianburridge.com/tag/jasper-reports/)
-  - [JasperReports Tutorial/Getting Started Guide](http://ensode.net/jasperreports_intro.html)
+  - [JasperReports Tutorial/Getting Started Guide](https://web.archive.org/web/20060721094118/http://ensode.net/jasperreports_intro.html)
   - [**DynamicReports**](http://dynamicreports.sourceforge.net/)
   - [JasperWave Report Designer - 是一个 Eclipse 插件，用来设计 JasperReports 报表。](https://web.archive.org/web/20180210145042/http://jasperwave.com/)
 

@@ -1362,7 +1362,7 @@
 
 :::\*D921.7 国籍法
 
-:::\*D921.8 [地方自治法](https://zh.wikipedia.org/wiki/地方自治法 "wikilink")
+:::\*D921.8 [地方自治法](../Page/地方自治法.md "wikilink")
 
 :::\*D921.9 [特别行政区基本法](https://zh.wikipedia.org/wiki/特别行政区基本法 "wikilink")
 

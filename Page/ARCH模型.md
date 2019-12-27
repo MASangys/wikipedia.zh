@@ -12,7 +12,7 @@
 
 \[\sigma_t^2=\alpha_0+\alpha_1 \varepsilon_{t-1}^2+\cdots+\alpha_p \varepsilon_{t-p}^2\]
 
-（其中\(\alpha_0>0 , \alpha_i\ge 0 , i>0\)，即各期[收益以](https://zh.wikipedia.org/wiki/收益 "wikilink")[非负数](https://zh.wikipedia.org/wiki/非负数 "wikilink")[线性组合](https://zh.wikipedia.org/wiki/线性组合 "wikilink")，[常数项为](https://zh.wikipedia.org/wiki/常数项 "wikilink")[正数](https://zh.wikipedia.org/wiki/正数 "wikilink")。
+（其中\(\alpha_0>0 , \alpha_i\ge 0 , i>0\)，即各期[收益以](https://zh.wikipedia.org/wiki/收益 "wikilink")[非负数](https://zh.wikipedia.org/wiki/非负数 "wikilink")[线性组合](../Page/线性组合.md "wikilink")，[常数项为](https://zh.wikipedia.org/wiki/常数项 "wikilink")[正数](https://zh.wikipedia.org/wiki/正数 "wikilink")。
 
 ## GARCH模型
 

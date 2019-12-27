@@ -35,12 +35,6 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
 
 ## 專題節目
 
-### 自製類
-
-  - 詹怡宜《**[一步一腳印 發現新台灣](../Page/一步一腳印_發現新台灣.md "wikilink")**》。
-  - 莊開文《**[中國進行式](https://zh.wikipedia.org/wiki/中國進行式 "wikilink")**》。
-  - 詹怡宜《**[奮起台灣](https://zh.wikipedia.org/wiki/奮起台灣 "wikilink")**》。
-
 ### 國際新聞專題
 
   - [TVB所採訪新聞](https://zh.wikipedia.org/wiki/TVB "wikilink")，剪輯而成專題報導。
@@ -144,7 +138,7 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
 
   - [張雅琴](../Page/張雅琴.md "wikilink")（現任《[1800年代晚報](https://zh.wikipedia.org/wiki/1800年代晚報-挑戰新聞 "wikilink")》主播）
   - [陳雅琳](../Page/陳雅琳.md "wikilink")（現任[壹電視新聞台](../Page/壹電視新聞台.md "wikilink")總編輯、《10點上新聞》主播、《新聞深呼吸》主持人）
-  - [黃寶慧](https://zh.wikipedia.org/wiki/黃寶慧 "wikilink")（現任[ETtoday新聞雲](../Page/ETtoday新聞雲.md "wikilink")《慧眼看天下》節目主持人）
+  - [黃寶慧](../Page/黃寶慧.md "wikilink")（現任[ETtoday新聞雲](../Page/ETtoday新聞雲.md "wikilink")《慧眼看天下》節目主持人）
   - [趙薇](../Page/趙薇_\(台灣主播\).md "wikilink")（2001年擔任[年代MUCH台](../Page/年代MUCH台.md "wikilink")《[台灣人在大陸](https://zh.wikipedia.org/wiki/台灣人在大陸 "wikilink")》節目主持人）
   - [鍾佩玲](../Page/鍾佩玲.md "wikilink")（現任台北市議員）
   - [張婯嬅](../Page/張婯嬅.md "wikilink")（現任[壹電視](../Page/壹電視.md "wikilink")主播）
@@ -187,7 +181,7 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
   - [鍾沛君](../Page/鍾沛君.md "wikilink")（現任台北市議員）
   - [林婉婷](https://zh.wikipedia.org/wiki/林婉婷 "wikilink")
   - [華舜嘉](https://zh.wikipedia.org/wiki/華舜嘉 "wikilink")（現為[三立新聞台](../Page/三立新聞台.md "wikilink")記者）
-  - [廖芳潔](https://zh.wikipedia.org/wiki/廖芳潔 "wikilink")（現任[三立新聞台](../Page/三立新聞台.md "wikilink")《[台灣大頭條](../Page/台灣大頭條.md "wikilink")》主播）
+  - [廖芳潔](https://zh.wikipedia.org/wiki/廖芳潔 "wikilink")（現任[三立新聞台](../Page/三立新聞台.md "wikilink")《[台灣大頭條](../Page/台灣大頭條.md "wikilink")》當家主播）
   - [許儷齡](https://zh.wikipedia.org/wiki/許儷齡 "wikilink")（現任[客家電視台](../Page/客家電視台.md "wikilink")主播）
   - [曾奕慈](https://zh.wikipedia.org/wiki/曾奕慈 "wikilink")（現為[三立新闻台記者](https://zh.wikipedia.org/wiki/三立新闻台 "wikilink")）
   - [劉懿萱](https://zh.wikipedia.org/wiki/劉懿萱 "wikilink")（現為[壹新聞記者](https://zh.wikipedia.org/wiki/壹新聞 "wikilink")）

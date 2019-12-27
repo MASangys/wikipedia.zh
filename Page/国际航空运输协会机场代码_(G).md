@@ -50,7 +50,7 @@
 <td><p>GAE</p></td>
 <td><p>DTTG</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/加貝斯" title="wikilink">加貝斯</a>，<a href="https://zh.wikipedia.org/wiki/加貝斯省" title="wikilink">加貝斯省</a></p></td>
+<td><p><a href="../Page/加貝斯.md" title="wikilink">加貝斯</a>，<a href="https://zh.wikipedia.org/wiki/加貝斯省" title="wikilink">加貝斯省</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

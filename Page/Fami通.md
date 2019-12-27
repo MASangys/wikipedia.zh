@@ -1,4 +1,4 @@
-是由[角川書店](../Page/角川書店.md "wikilink")發行的[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，原由[ASCII](https://zh.wikipedia.org/wiki/ASCII_\(企業\) "wikilink")（創刊至2000年3月）和[Enterbrain](../Page/Enterbrain.md "wikilink")（2000年4月至2013年9月）發行。 1986年，从计算机杂志《Login》派生的电子游戏专门杂志《ファミコン通信（Famicom通信）》创刊。自1995年起，杂志将正式名称定为从创刊伊始就常用的简称《Fami通》。其中週刊Fami通是最早發行的Fami通刊物，被視為[日本](../Page/日本.md "wikilink")最受尊敬的電子遊戲新聞雜誌\[1\]\[2\]\[3\]。
+是由[角川書店](../Page/角川書店.md "wikilink")發行的[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，原由[ASCII](https://zh.wikipedia.org/wiki/ASCII_\(企業\) "wikilink")（創刊至2000年3月）和[Enterbrain](../Page/Enterbrain.md "wikilink")（2000年4月至2013年9月）發行。1986年，从计算机杂志《Login》派生的电子游戏专门杂志《ファミコン通信（Famicom通信）》创刊。自1995年起，杂志将正式名称定为从创刊伊始就常用的简称《Fami通》。其中週刊Fami通是最早發行的Fami通刊物，被視為[日本](../Page/日本.md "wikilink")最受尊敬的電子遊戲新聞雜誌\[1\]\[2\]\[3\]。
 
 ## 週刊Fami通
 

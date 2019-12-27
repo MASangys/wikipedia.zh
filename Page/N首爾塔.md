@@ -175,7 +175,7 @@ N首尔塔的观景台是眺望[汉江和欣赏](https://zh.wikipedia.org/wiki/�
 
   - [首爾塔詳細介紹，內含登塔方式詳細介紹以及預訂](http://www.hanyouwang.com/content/show_1552.html)
 
-[Category:首爾建築物](https://zh.wikipedia.org/wiki/Category:首爾建築物 "wikilink") [Category:亚洲塔式建筑](https://zh.wikipedia.org/wiki/Category:亚洲塔式建筑 "wikilink") [Category:首爾旅遊景點](https://zh.wikipedia.org/wiki/Category:首爾旅遊景點 "wikilink") [Category:韩国地标](https://zh.wikipedia.org/wiki/Category:韩国地标 "wikilink") [Category:1971年完工建築物](https://zh.wikipedia.org/wiki/Category:1971年完工建築物 "wikilink")
+[Category:首爾建築物](https://zh.wikipedia.org/wiki/Category:首爾建築物 "wikilink") [Category:韓國塔式建築](https://zh.wikipedia.org/wiki/Category:韓國塔式建築 "wikilink") [Category:首爾旅遊景點](https://zh.wikipedia.org/wiki/Category:首爾旅遊景點 "wikilink") [Category:韩国地标](https://zh.wikipedia.org/wiki/Category:韩国地标 "wikilink") [Category:1971年完工建築物](https://zh.wikipedia.org/wiki/Category:1971年完工建築物 "wikilink") [Category:電波塔](https://zh.wikipedia.org/wiki/Category:電波塔 "wikilink")
 
 1.  《韩国现代城市景观设计》2013. 作者: （韩）朴景子 吴辉泳主编 李华译 294-296
 2.  [N首尔塔历史](http://www.nseoultower.co.kr/eng/global/intro3.asp)，N首尔塔官网

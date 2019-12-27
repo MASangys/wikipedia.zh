@@ -137,7 +137,7 @@ SSE128：寬度為128位元的SSE單元，每顆核心中的[SSE](../Page/SSE.md
 
 高階的K10桌上型微處理器將不再使用[Athlon名稱](https://zh.wikipedia.org/wiki/Athlon "wikilink")，會以[Phenom的姿態出現](../Page/AMD_Phenom.md "wikilink")。 \[58\]。而沒有L3快取的*Rana*低階處理器將會繼續使用Athlon 64 X2的名稱。\[59\]
 
-型號表格請參閱[AMD Phenom](https://zh.wikipedia.org/wiki/AMD_Phenom#產品型號 "wikilink")、[AMD Opteron](https://zh.wikipedia.org/wiki/AMD_Opteron處理器列表#1000系列_"Budapest"_\(90_nm\) "wikilink")。 目前K10产品则有两代，一代为65nm工艺的Phenom，Athlon 7XXX系列，第二代则为45nm制程的 Athlon II系列和Phenom II系列。
+型號表格請參閱[AMD Phenom](https://zh.wikipedia.org/wiki/AMD_Phenom#產品型號 "wikilink")、[AMD Opteron](https://zh.wikipedia.org/wiki/AMD_Opteron處理器列表#1000系列_"Budapest"_\(90_nm\) "wikilink")。 目前K10产品则有两代，一代为65nm-{zh-tw:製程;zh-cn:工艺}-的Phenom，Athlon 7XXX系列，第二代则为45nm-{zh-tw:製程;zh-cn:工艺}-的 Athlon II系列和Phenom II系列。
 
 ### 後續改進架構發表
 

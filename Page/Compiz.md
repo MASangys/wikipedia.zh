@@ -1,8 +1,8 @@
-**Compiz** 是第一个由 [OpenGL](../Page/OpenGL.md "wikilink") 驱动的运行于 [X Window System](https://zh.wikipedia.org/wiki/X_Window_System "wikilink") 上的[混合窗口管理器](https://zh.wikipedia.org/wiki/混合窗口管理器 "wikilink") 。Compiz的[混合渲染能力使其可以在窗口管理过程中实现多种视觉效果](https://zh.wikipedia.org/wiki/混合渲染 "wikilink")，比如在矩形虚拟桌面上的窗口最小化。
+**Compiz** 是第一个由[OpenGL](../Page/OpenGL.md "wikilink")驱动的运行于[X Window System上的](https://zh.wikipedia.org/wiki/X_Window_System "wikilink")[混合窗口管理器](https://zh.wikipedia.org/wiki/混合窗口管理器 "wikilink") 。Compiz的[混合渲染能力使其可以在窗口管理过程中实现多种视觉效果](https://zh.wikipedia.org/wiki/混合渲染 "wikilink")，比如在矩形虚拟桌面上的窗口最小化。
 
 Compiz符合[ICCCM標準](https://zh.wikipedia.org/wiki/ICCCM "wikilink")，可以取代[GNOME](../Page/GNOME.md "wikilink")環境的[Metacity](../Page/Metacity.md "wikilink")視窗管理器，或是[KDE Plasma環境下的](https://zh.wikipedia.org/wiki/KDE_Plasma_Workspaces "wikilink")[KWin](../Page/KWin.md "wikilink")。 Compiz拥有類似[蘋果電腦的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Mac OS X作業系統中所提供的許多桌面特效](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，例如 [Exposé](https://zh.wikipedia.org/wiki/Exposé_\(Mac_OS_X\) "wikilink")。 Compiz 使用 OpenGL 繪圖層 [Glitz](https://zh.wikipedia.org/wiki/Glitz "wikilink") 架構在 [Xgl](../Page/Xgl.md "wikilink") 這個新的 X 環境上。Compiz 最早是由[Novell](../Page/Novell.md "wikilink")在2006年一月時公佈新版 Xgl 時所發表的。在开发初期Compiz只能正常运行在有限的几种[Xgl](../Page/Xgl.md "wikilink")所支援的硬件3D加速卡上。尽管Xgl和Compiz这两个全新构造的系统还存在一些bug并且仍處於積極的开发阶段，大多数[NVIDIA和](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[ATI图形处理卡可以在Xgl上正常运行Compiz](https://zh.wikipedia.org/wiki/ATI_Technologies "wikilink")。Compiz在其他一些X服务器和硬件上也可以正常运行。据报道，Compiz在现时仍处于开发阶段的[AIGLX上运行良好](https://zh.wikipedia.org/wiki/AIGLX "wikilink")。
 
-2007年7月30日，Compiz已經與其分支套件[Beryl合併](https://zh.wikipedia.org/wiki/Beryl "wikilink")，並且更名為[Compiz Fusion](https://zh.wikipedia.org/wiki/Compiz_Fusion "wikilink")。 2009年2月2日，Compiz和Compiz Fusion合并，新名字叫Compiz。
+2007年7月30日，Compiz已經與其分支套件[Beryl合併](https://zh.wikipedia.org/wiki/Beryl "wikilink")，並且更名為[Compiz Fusion](https://zh.wikipedia.org/wiki/Compiz_Fusion "wikilink")。2009年2月2日，Compiz和Compiz Fusion合并，新名字叫Compiz。
 
 ## 特点
 

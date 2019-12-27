@@ -4,7 +4,7 @@
 
 故事中之[殭屍](../Page/殭屍.md "wikilink")近似[吸血鬼](../Page/吸血鬼.md "wikilink")，多於傳統[殭屍](../Page/殭屍.md "wikilink")，並結合[中國神話](https://zh.wikipedia.org/wiki/中國神話 "wikilink")、[世界末日](https://zh.wikipedia.org/wiki/世界末日 "wikilink")、[時間旅行等等元素](https://zh.wikipedia.org/wiki/時間旅行 "wikilink")，此劇為《[我和殭屍有個約會系列](../Page/我和殭屍有個約會系列.md "wikilink")》第三輯。
 
-韓國SBS則計劃翻拍同名劇集第三部，並將會在晨間連續劇公開首播，預計集數為130集。
+該輯有多個版本，其中亞洲電視播映原版為36集（每集40分鐘，結局為加長版）、香港台灣等地推出的DVD及VCD為38集（每集40分鐘），中國大陸地區推出的VCD為47集（每集30分鐘，并改名至《盤古傳說》）。三個版本各有刪減，其中亞洲電視播映原版的結局亦與另外兩個版本的結局有所不同。
 
 ## 內容簡介
 
@@ -163,8 +163,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金沛晟.md" title="wikilink">金沛晟</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/流星" title="wikilink">流星</a>／<a href="../Page/死神.md" title="wikilink">死神</a>／地藏代理／<a href="https://zh.wikipedia.org/wiki/地藏王" title="wikilink">地藏王</a></p></td>
-<td><p>岳家軍之一。老徐的儿子，十分崇拜箭頭。朱仙鎮一戰死亡，死後沒投胎成為死神。</p></td>
+<td><p>徐流星／<a href="../Page/死神.md" title="wikilink">死神</a>／地藏代理／<a href="https://zh.wikipedia.org/wiki/地藏王" title="wikilink">地藏王</a></p></td>
+<td><p>岳家軍之一。老徐的儿子，十分崇拜箭頭。朱仙鎮一戰死亡，死後沒投胎成為死神Nick。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/杜秋霞" title="wikilink">杜秋霞</a></p></td>

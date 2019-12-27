@@ -1,6 +1,6 @@
 {{Infobox Website | name = QQ空间 | logo =[<File:Qzone-logo.png>](https://zh.wikipedia.org/wiki/File:Qzone-logo.png "fig:File:Qzone-logo.png") | logocaption = QQ空间登录页LOGO | screenshot =Qzone_screenshot.PNG | traded_as = | company_type =[上市公司](../Page/上市公司.md "wikilink") | collapsible = | collapsetext = | caption = 网站首页（2015年6月14日） | native_name = | url =  | commercial = 是 | type = [社交網絡服務](https://zh.wikipedia.org/wiki/社交網絡服務 "wikilink") | registration = 是 | language = [簡體中文](https://zh.wikipedia.org/wiki/簡體中文 "wikilink") | num_users = | content_license = | programming language = | owner = 腾讯公司 | author = | editor = [腾讯公司](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink") | launch_date = | revenue = | alexa =全球排名7\[1\]
 中國排名2
-() | ip = | current_status = 活躍 | footnotes = | location =[廣東省](https://zh.wikipedia.org/wiki/廣東省 "wikilink")[深圳市](../Page/深圳市.md "wikilink") }} **QQ空间**（）是[腾讯计算机通讯公司](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")（）于2005年推出的一个[博客系统](https://zh.wikipedia.org/wiki/博客 "wikilink")，目前活跃于中国大陆。其推出的另一个博客系统**[TM空间](https://zh.wikipedia.org/wiki/TM空间 "wikilink")**（I-zone）目前已与QQ空间合并。
+() | ip = | current_status = 活躍 | footnotes = | location =[廣東省](https://zh.wikipedia.org/wiki/廣東省 "wikilink")[深圳市](../Page/深圳市.md "wikilink") }} **QQ空间**（）是[腾讯计算机通讯公司](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")（）于2005年推出的一个[微部落格系统](https://zh.wikipedia.org/wiki/微部落格 "wikilink")，目前活跃于中国大陆。其推出的另一个微部落格系统**[TM空间](https://zh.wikipedia.org/wiki/TM空间 "wikilink")**（I-zone）目前已与QQ空间合并。
 
 ## 應用及服務
 

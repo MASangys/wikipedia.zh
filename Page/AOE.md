@@ -1,6 +1,6 @@
 **AOE**或**AoE**可以指：
 
-  - （《[-{zh-cn:帝国时代; zh-tw:世紀帝國;}-](https://zh.wikipedia.org/wiki/世紀帝國 "wikilink")》），一種電腦遊戲
+  - （《[-{zh-cn:帝国时代; zh-tw:世紀帝國;}-](https://zh.wikipedia.org/wiki/世紀帝國 "wikilink")》），一種[即時戰略](../Page/即时战略游戏.md "wikilink")[電子遊戲](../Page/电子游戏.md "wikilink")
 
   - （[入境航空站](https://zh.wikipedia.org/wiki/入境航空站 "wikilink")），一種提供海關和移民業務的[機場](../Page/機場.md "wikilink")
 

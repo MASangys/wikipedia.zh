@@ -124,8 +124,6 @@ ATR 72的海軍反潛艦機種，整合了軍用版[ATR 42的海上巡邏系統�
 
   - [馬印航空](https://zh.wikipedia.org/wiki/馬印航空 "wikilink")：11架
 
-  - [遠東航空](https://zh.wikipedia.org/wiki/遠東航空 "wikilink")：10架（租用）
-
   - [華信航空](../Page/華信航空.md "wikilink") 3架租用 6架自有
 
 2016年2月，[伊朗航空](../Page/伊朗航空.md "wikilink")向ATR訂購了20至40架ATR 72-600
@@ -156,7 +154,7 @@ ATR 72的海軍反潛艦機種，整合了軍用版[ATR 42的海上巡邏系統�
   - [復興航空222號班機事故](https://zh.wikipedia.org/wiki/復興航空222號班機事故 "wikilink")
       - 2014年7月23日，復興航空的一架機號為B-22810的ATR 72-500在馬公機場大雨及疑似受[麥德姆颱風影響](https://zh.wikipedia.org/wiki/麥德姆 "wikilink")，班機向塔台要求重飛後於[澎湖縣](../Page/澎湖縣.md "wikilink")湖西鄉西溪村重飛失敗，事故造成49死9傷，地面人員5傷。\[4\]\[5\]\[6\]
   - [復興航空235號班機事故](https://zh.wikipedia.org/wiki/復興航空235號班機事故 "wikilink")
-      - 2015年2月4日，[復興航空](../Page/復興航空.md "wikilink")的一架機號為B-22816的ATR 72-600於10時45分從[台北松山機場起飛](https://zh.wikipedia.org/wiki/台北松山機場 "wikilink")，目的地為[金門尚義機場](https://zh.wikipedia.org/wiki/金門機場 "wikilink")。因發動機失效，又誤關正常的發動機，於上午10時55分飛機急轉墜下擦撞[環東大道](../Page/環東大道.md "wikilink")高架橋導致墜入距南陽大橋800公尺的內溝溪抽水站附近基隆河流域，機上共58人，事故造成43人死亡、17人受傷（含地面2人）。左側機翼撞擊高架橋之前，還擦到一台正常行駛的[計程車](https://zh.wikipedia.org/wiki/計程車 "wikilink")，計程車車頭損毀。兩台在[環東大道](../Page/環東大道.md "wikilink")行駛的車輛裡面行車記錄儀記錄了飛機失事墜落的過程。\[7\]
+      - 2015年2月4日，[復興航空](../Page/復興航空.md "wikilink")的一架機號為B-22816的ATR 72-600於10時45分從[台北松山機場起飛](https://zh.wikipedia.org/wiki/台北松山機場 "wikilink")，目的地為[金門尚義機場](https://zh.wikipedia.org/wiki/金門機場 "wikilink")。因一側發動機失效，機師又誤關正常的發動機，導致飛機於上午10時55分失去動力，急轉墜下擦撞[環東大道](../Page/環東大道.md "wikilink")高架橋後墜入距南陽大橋800公尺，草濫溪抽水站附近的基隆河流域，機上共58人，事故造成43人死亡、17人受傷（含地面2人）。左側機翼撞擊高架橋之前還擦撞到一台行駛中的[計程車](https://zh.wikipedia.org/wiki/計程車 "wikilink")，導致該輛計程車車頭損毀。而兩台當時正在[環東大道](../Page/環東大道.md "wikilink")行駛的車輛安裝的行車記錄器碰巧錄下飛機失事墜落的過程。\[7\]
   - [伊朗阿塞曼航空3704號班機空难](https://zh.wikipedia.org/wiki/伊朗阿塞曼航空3704號班機空难 "wikilink")
       - 2018年2月18日，一架往[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")[亞蘇季的伊朗阿塞曼航空ATR](https://zh.wikipedia.org/wiki/亞蘇季 "wikilink") 72-212客機在伊斯法罕省的塞米羅姆附近墜毀，機上全部人員遇難。\[8\]
 

@@ -198,7 +198,7 @@ CRH5型[电力动车组采用](https://zh.wikipedia.org/wiki/电力动车组 "wi
 <td><p><a href="../Page/中国铁路北京局集团有限公司.md" title="wikilink">北京局集团</a></p></td>
 <td><p>2</p></td>
 <td><p>5201、5202</p></td>
-<td><p>|北京南</p></td>
+<td><p>|北京</p></td>
 <td></td>
 <td><p>卧铺动车组，在<a href="../Page/中国国家铁道试验中心（东郊分院）.md" title="wikilink">中国国家铁道试验中心（东郊分院）</a>试车后于2016年2月15日开赴沈阳皇姑屯动车所，然後闲置。<br />
 2019年1月27日起，担当北京-青岛北D335/336次列车。</p></td>

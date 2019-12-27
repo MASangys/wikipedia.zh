@@ -1625,7 +1625,7 @@ Snoopy 65週年巡迴特展紀念一卡通</p></td>
 
   - [豐原客運](https://zh.wikipedia.org/wiki/豐原客運 "wikilink")
   - [中台灣客運](../Page/中台灣客運.md "wikilink")
-  - [台中客運](https://zh.wikipedia.org/wiki/台中客運 "wikilink")
+  - [台中客運](../Page/台中客運.md "wikilink")
   - [彰化客運](../Page/彰化客運.md "wikilink")
   - [杉林溪客運](https://zh.wikipedia.org/wiki/溪阿客運 "wikilink")\[17\]
   - [員林客運](../Page/員林客運.md "wikilink")
@@ -2134,7 +2134,7 @@ Line Pay母公司連加網路商業股份有限公司（LINE BIZ+ TAIWAN LIMITED
 17. [【交通快訊】6871.6277 杉林溪公路客運 適用多卡通電子票證](http://www.goto307.com.tw/news/ins.php?index_id=92)2017年3月3日,杉林溪遊樂事業股份有限公司
 18. [一卡通服務資訊](https://www.i-pass.com.tw/News/Detail/122)
 19. [一卡通台中服務中心暫停服務](https://www.i-pass.com.tw/News/Detail/100099)
-20. [高雄市市區公車里程段次收費Q\&A](https://www.tbkc.gov.tw/Service/PublicTransport/abc12)高雄市政府交通局，2018-03-01
+20. [高雄市市區公車里程段次收費Q\&A](https://www.tbkc.gov.tw/Service/PublicTransport/abc12) 高雄市政府交通局，2018-03-01
 21. [一卡通公司—重要里程](https://www.i-pass.com.tw/About/Mileage)
 22. [臺日電子票證 簽署合作備忘錄](http://www.epochtimes.com/b5/14/3/14/n4106480.htm%E5%8F%B0%E6%97%A5%E9%9B%BB%E5%AD%90%E7%A5%A8%E8%AD%89%E6%A5%AD%E5%90%88%E4%BD%9C-%E5%85%B1%E5%89%B5%E6%96%B0%E5%A5%91%E6%A9%9F.html?photo=2)
 23. [正忠排骨飯全台門市開放一卡通支付](https://www.i-pass.com.tw/News/Detail/230)
@@ -2142,7 +2142,7 @@ Line Pay母公司連加網路商業股份有限公司（LINE BIZ+ TAIWAN LIMITED
 25. [7-ELEVEN開放服務](https://www.i-pass.com.tw/News/Detail/264)
 26. [台中iBike微笑單車正式啟用](https://www.i-pass.com.tw/News/Detail/249)
 27. [臺南市市民卡官網](http://map.tncg.gov.tw/)
-28. [南市首創　一卡通小額繳稅](http://www.times-bignews.com/content.php?t=28836)
+28.
 29. [1](http://www.bnext.com.tw/article/view/id/36251)
 30. [一卡通官網](https://www.i-pass.com.tw/News/Detail/309)
 31. [一卡通官網](https://www.i-pass.com.tw/News/Detail/371)

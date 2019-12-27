@@ -299,7 +299,7 @@
         **[大阪環狀線](../Page/大阪環狀線.md "wikilink")**——[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")—[天王寺內回線](../Page/天王寺站.md "wikilink")
           -
             使用車輛：[103系](../Page/日本國鐵103系電力動車組.md "wikilink")、[223系0番台](../Page/JR西日本223系電力動車組.md "wikilink")「關空快速」
-        **[鹿兒島本線](../Page/鹿兒島本線.md "wikilink")**——[博多](https://zh.wikipedia.org/wiki/博多站 "wikilink")—[小倉](../Page/小倉站_\(福岡縣\).md "wikilink")
+        **[鹿兒島本線](../Page/鹿兒島本線.md "wikilink")**——[博多](../Page/博多站.md "wikilink")—[小倉](../Page/小倉站_\(福岡縣\).md "wikilink")
           -
             使用車輛：[883系](https://zh.wikipedia.org/wiki/JR九州883系電力動車組 "wikilink")、[813系](https://zh.wikipedia.org/wiki/JR九州813系電力動車組 "wikilink")（[折尾](https://zh.wikipedia.org/wiki/折尾站 "wikilink")—[小倉路段](../Page/小倉站_\(福岡縣\).md "wikilink")）
 
@@ -346,14 +346,14 @@
   -
 
       -
-        **[篠栗線](../Page/篠栗線.md "wikilink")**——[篠栗](https://zh.wikipedia.org/wiki/篠栗站 "wikilink")—[博多](https://zh.wikipedia.org/wiki/博多站 "wikilink")
+        **[篠栗線](../Page/篠栗線.md "wikilink")**——[篠栗](https://zh.wikipedia.org/wiki/篠栗站 "wikilink")—[博多](../Page/博多站.md "wikilink")
           -
             使用車輛：[Kiha66系](https://zh.wikipedia.org/wiki/日本國鐵Kiha66系柴油動車組 "wikilink")（キハ66系）、[Kiha58系](https://zh.wikipedia.org/wiki/日本國鐵Kiha58系柴油動車組 "wikilink")（キハ58系）、[Kiha200系](https://zh.wikipedia.org/wiki/JR九州Kiha200系柴油動車組 "wikilink")（キハ200系）
         **[鹿兒島本線](../Page/鹿兒島本線.md "wikilink")**
           -
-            [二日市](https://zh.wikipedia.org/wiki/二日市站 "wikilink")—[博多](https://zh.wikipedia.org/wiki/博多站 "wikilink")
+            [二日市](https://zh.wikipedia.org/wiki/二日市站 "wikilink")—[博多](../Page/博多站.md "wikilink")
             使用車輛：[811系](https://zh.wikipedia.org/wiki/JR九州811系電力動車組 "wikilink")、[813系](https://zh.wikipedia.org/wiki/JR九州813系電力動車組 "wikilink")
-            [鳥栖](https://zh.wikipedia.org/wiki/鳥栖站 "wikilink")→[博多](https://zh.wikipedia.org/wiki/博多站 "wikilink")
+            [鳥栖](https://zh.wikipedia.org/wiki/鳥栖站 "wikilink")→[博多](../Page/博多站.md "wikilink")
             使用車輛：[787系](https://zh.wikipedia.org/wiki/JR九州787系電車 "wikilink")、[Kiha72系](https://zh.wikipedia.org/wiki/JR九州Kiha72系柴油動車組 "wikilink")（キハ72系）
         **[山陽本線](../Page/山陽本線.md "wikilink")**——[神戶](../Page/神戶站_\(兵庫縣\).md "wikilink")—[西明石](https://zh.wikipedia.org/wiki/西明石站 "wikilink")
           -
@@ -465,7 +465,7 @@
         **[大阪環狀線](../Page/大阪環狀線.md "wikilink")**——[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")—[天王寺](../Page/天王寺站.md "wikilink")
           -
             使用車輛：[103系](../Page/日本國鐵103系電力動車組.md "wikilink")、[103系](../Page/日本國鐵103系電力動車組.md "wikilink")「區間快速」、[221系](https://zh.wikipedia.org/wiki/JR西日本221系電力動車組 "wikilink")「大和路快速」、[223系](../Page/JR西日本223系電力動車組.md "wikilink")、[223系0番台](../Page/JR西日本223系電力動車組.md "wikilink")「關空快速」「關空特快」、[381系](https://zh.wikipedia.org/wiki/日本國鐵381系電力動車組 "wikilink")
-        **[鹿兒島本線](../Page/鹿兒島本線.md "wikilink")**——[博多](https://zh.wikipedia.org/wiki/博多站 "wikilink")—[折尾](https://zh.wikipedia.org/wiki/折尾站 "wikilink")—[小倉](../Page/小倉站_\(福岡縣\).md "wikilink")
+        **[鹿兒島本線](../Page/鹿兒島本線.md "wikilink")**——[博多](../Page/博多站.md "wikilink")—[折尾](https://zh.wikipedia.org/wiki/折尾站 "wikilink")—[小倉](../Page/小倉站_\(福岡縣\).md "wikilink")
           -
             使用車輛：[415系](https://zh.wikipedia.org/wiki/JR九州415系電力動車組 "wikilink")、[485系](../Page/日本國鐵485系電力動車組.md "wikilink")「日輪」、[715系](https://zh.wikipedia.org/wiki/日本國鐵715系電力動車組 "wikilink")、[787系](https://zh.wikipedia.org/wiki/JR九州787系電力動車組 "wikilink")「日輪宮崎海洋」、[811系](https://zh.wikipedia.org/wiki/JR九州811系電力動車組 "wikilink")、[813系](https://zh.wikipedia.org/wiki/JR九州813系電力動車組 "wikilink")、[883系](https://zh.wikipedia.org/wiki/JR九州883系電力動車組 "wikilink")「音速」、[ED76寢台特急](../Page/日本國鐵ED76型電力機車.md "wikilink")「隼（はやぶさ）」、[Kiha40系](https://zh.wikipedia.org/wiki/國鐵Kiha40系柴油動車組 "wikilink")
 
@@ -481,10 +481,10 @@
       -
         **[山陽新幹線](../Page/山陽新幹線.md "wikilink")**
           -
-            [新大阪](https://zh.wikipedia.org/wiki/新大阪站 "wikilink")—[博多](https://zh.wikipedia.org/wiki/博多站 "wikilink")
+            [新大阪](../Page/新大阪站.md "wikilink")—[博多](../Page/博多站.md "wikilink")
         **[博多南線](../Page/博多南線.md "wikilink")**
           -
-            [博多總合車輛所](https://zh.wikipedia.org/wiki/博多總合車輛所 "wikilink")—[博多南](https://zh.wikipedia.org/wiki/博多南站 "wikilink")—[博多](https://zh.wikipedia.org/wiki/博多站 "wikilink")
+            [博多總合車輛所](https://zh.wikipedia.org/wiki/博多總合車輛所 "wikilink")—[博多南](https://zh.wikipedia.org/wiki/博多南站 "wikilink")—[博多](../Page/博多站.md "wikilink")
 
 <!-- end list -->
 
@@ -539,7 +539,7 @@
   -
 
       -
-        **[湘南新宿線](../Page/湘南新宿線.md "wikilink")**（[東海道本線](../Page/東海道本線.md "wikilink")／[山手線](../Page/山手線.md "wikilink")／[東北本線](../Page/東北本線.md "wikilink")）——[橫濱](https://zh.wikipedia.org/wiki/橫濱站 "wikilink")—[西大井](../Page/西大井站.md "wikilink")—[澀谷](https://zh.wikipedia.org/wiki/澀谷站 "wikilink")—[新宿](https://zh.wikipedia.org/wiki/新宿站 "wikilink")—[大宮](https://zh.wikipedia.org/wiki/大宮站_\(埼玉縣\) "wikilink")
+        **[湘南新宿線](../Page/湘南新宿線.md "wikilink")**（[東海道本線](../Page/東海道本線.md "wikilink")／[山手線](../Page/山手線.md "wikilink")／[東北本線](../Page/東北本線.md "wikilink")）——[橫濱](https://zh.wikipedia.org/wiki/橫濱站 "wikilink")—[西大井](../Page/西大井站.md "wikilink")—[澀谷](https://zh.wikipedia.org/wiki/澀谷站 "wikilink")—[新宿](https://zh.wikipedia.org/wiki/新宿站 "wikilink")—[大宮](../Page/大宮站_\(埼玉縣\).md "wikilink")
         <small>註：於收錄當時（2002年）**[東京臨海高速鐵道臨海線](../Page/臨海線_\(東京臨海高速鐵道\).md "wikilink")**並未伸延至[大崎](../Page/大崎站.md "wikilink")、全列車於此站通過</small>
           -
             使用車輛：
@@ -554,13 +554,13 @@
             [113系](../Page/日本國鐵113系電力動車組.md "wikilink")（L編成）、117系、201系、207系、221系（A編成）、
             223系（Ｗ編成）、413系、419系、485系、681系、
             683系、kiha185系（キハ185系）、EF81
-        **[瀨戶大橋線](../Page/瀨戶大橋線.md "wikilink")**（[宇野線](../Page/宇野線.md "wikilink")／[本四備讚線](../Page/本四備讚線.md "wikilink")／[予讚線](../Page/予讚線.md "wikilink")／[土讚線](../Page/土讚線.md "wikilink")）——[岡山](https://zh.wikipedia.org/wiki/岡山站_\(日本\) "wikilink")—[宇多津](https://zh.wikipedia.org/wiki/宇多津站 "wikilink")—[琴平](../Page/琴平站.md "wikilink")、[岡山](https://zh.wikipedia.org/wiki/岡山站_\(日本\) "wikilink")—[坂出](https://zh.wikipedia.org/wiki/坂出站 "wikilink")—[高松](https://zh.wikipedia.org/wiki/高松站_\(香川縣\) "wikilink")、[琴平](../Page/琴平站.md "wikilink")—[坂出](https://zh.wikipedia.org/wiki/坂出站 "wikilink")—[高松](https://zh.wikipedia.org/wiki/高松站_\(香川縣\) "wikilink")
+        **[瀨戶大橋線](../Page/瀨戶大橋線.md "wikilink")**（[宇野線](../Page/宇野線.md "wikilink")／[本四備讚線](../Page/本四備讚線.md "wikilink")／[予讚線](../Page/予讚線.md "wikilink")／[土讚線](../Page/土讚線.md "wikilink")）——[岡山](../Page/岡山站_\(日本\).md "wikilink")—[宇多津](https://zh.wikipedia.org/wiki/宇多津站 "wikilink")—[琴平](../Page/琴平站.md "wikilink")、[岡山](../Page/岡山站_\(日本\).md "wikilink")—[坂出](https://zh.wikipedia.org/wiki/坂出站 "wikilink")—[高松](https://zh.wikipedia.org/wiki/高松站_\(香川縣\) "wikilink")、[琴平](../Page/琴平站.md "wikilink")—[坂出](https://zh.wikipedia.org/wiki/坂出站 "wikilink")—[高松](https://zh.wikipedia.org/wiki/高松站_\(香川縣\) "wikilink")
           -
             使用車輛：
             113系、121系、2000系、N2000系、213系、
             6000系、7000系、8000系、kiha32+kiha54系（キハ32+キハ54）、kiha58系（キハ58系，四國色）、
             kiha181系（キハ181系）、kiha185系（キハ185系）
-        **[長崎·佐世保線](https://zh.wikipedia.org/wiki/長崎·佐世保線 "wikilink")**（[鹿兒島本線](../Page/鹿兒島本線.md "wikilink")／[長崎本線](../Page/長崎本線.md "wikilink")／[佐世保線](../Page/佐世保線.md "wikilink")／[大村線](../Page/大村線.md "wikilink")）——[博多](https://zh.wikipedia.org/wiki/博多站 "wikilink")—[鳥栖](https://zh.wikipedia.org/wiki/鳥栖站 "wikilink")—[肥前山口](https://zh.wikipedia.org/wiki/肥前山口站 "wikilink")—[早岐](https://zh.wikipedia.org/wiki/早岐站 "wikilink")—[佐世保](../Page/佐世保站.md "wikilink")／[早岐](https://zh.wikipedia.org/wiki/早岐站 "wikilink")—[豪斯登堡](https://zh.wikipedia.org/wiki/豪斯登堡站 "wikilink")
+        **[長崎·佐世保線](https://zh.wikipedia.org/wiki/長崎·佐世保線 "wikilink")**（[鹿兒島本線](../Page/鹿兒島本線.md "wikilink")／[長崎本線](../Page/長崎本線.md "wikilink")／[佐世保線](../Page/佐世保線.md "wikilink")／[大村線](../Page/大村線.md "wikilink")）——[博多](../Page/博多站.md "wikilink")—[鳥栖](https://zh.wikipedia.org/wiki/鳥栖站 "wikilink")—[肥前山口](https://zh.wikipedia.org/wiki/肥前山口站 "wikilink")—[早岐](https://zh.wikipedia.org/wiki/早岐站 "wikilink")—[佐世保](../Page/佐世保站.md "wikilink")／[早岐](https://zh.wikipedia.org/wiki/早岐站 "wikilink")—[豪斯登堡](https://zh.wikipedia.org/wiki/豪斯登堡站 "wikilink")
           -
             使用車輛：
             415系、485系、783系、787系、811系、

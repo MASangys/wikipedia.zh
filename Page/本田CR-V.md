@@ -1,4 +1,4 @@
-**本田CR-V**（**Honda CR-V**）是一款由[本田技研工业股份有限公司于](https://zh.wikipedia.org/wiki/本田技研工业股份有限公司 "wikilink")1995年推出的小型[SUV](https://zh.wikipedia.org/wiki/SUV "wikilink")，於2006年推出第三代車型，於2011年於日本推出第四代車型，2017年推出第五代車型，[Nissan X-Trail](../Page/日产奇骏.md "wikilink")、[豐田RAV4等車為其主要競爭對手](https://zh.wikipedia.org/wiki/豐田RAV4 "wikilink")。
+**本田CR-V**（**Honda CR-V**）是一款由[本田技研工业股份有限公司于](https://zh.wikipedia.org/wiki/本田技研工业股份有限公司 "wikilink")1995年推出的小型[SUV](https://zh.wikipedia.org/wiki/SUV "wikilink")，於2006年推出第三代車型，於2011年於日本推出第四代車型，2017年推出第五代車型，[Nissan X-Trail](../Page/日产奇骏.md "wikilink")、[豐田RAV4](../Page/豐田RAV4.md "wikilink")等車為其主要競爭對手。
 
 車名由來有三種說法，其一為本田官網所載的「Comfortable Runabout Vehicle」（舒適輕便車），另一為「Compact Recreational Vehicle」（小型休闲车）；再为“Civic related vehicle"。
 

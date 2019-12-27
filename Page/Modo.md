@@ -213,7 +213,7 @@ modo的材质组织，是极为独特的基于树状的明暗器结构Shader Tre
 
 ## 外部链接
 
-  - [公司官方主页（英语）](http://community.foundry.com/discuss/modo)-最强大的专家社群与最热情的用户交流互动，提供第一手官方意见指导
+  - [公司官方主页（英语）](https://web.archive.org/web/20190416152328/http://community.foundry.com/discuss/modo)-最强大的专家社群与最热情的用户交流互动，提供第一手官方意见指导
   - [日本modo代理官方主页（日文）](http://www.mars-inc.net/)-美国以外最好的modo主页，用户群强大
   - [最全的modo资源主站（英语）](http://www.vertexmonkey.com/)-官方认证最权威也是最全的modo的周边应用资源站
   - [官方特约Cgsociety论坛（英语）](http://forums.cgsociety.org/forumdisplay.php?f=141)-第一时间与业界同行切磋的论坛

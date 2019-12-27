@@ -5,7 +5,7 @@
 ### SSA/5
 
   - Sold as **5K86** P75 to P100, later as **K5** PR75 to PR100
-  - 在350/500nm有430萬個電晶體
+  - 在350/500nm製程下有430萬個電晶體
   - 一級緩存：8 + 16 KiB（數據 + 指令）
   - 插座：[Socket 5](../Page/Socket_5.md "wikilink") and [Socket 7](../Page/Socket_7.md "wikilink")
   - 核心電壓：3.52V
@@ -16,7 +16,7 @@
 ### 5k86
 
   - Sold as **K5** PR120 to PR166 (200)
-  - 在350nm有430萬個電晶體
+  - 在350nm製程下有430萬個電晶體
   - 一級緩存：8 + 16 KiB（數據 + 指令）
   - 插座：[Socket 5](../Page/Socket_5.md "wikilink") and [Socket 7](../Page/Socket_7.md "wikilink")
   - 核心電壓：3.52V
@@ -32,4 +32,4 @@
   - [The AMD K5, a much underrated chip](https://web.archive.org/web/20050308184007/http://www.zen26266.zen.co.uk/AMD-K5.htm)
   - [AMD K5 technical specifications](https://web.archive.org/web/20050524105625/http://balusc.xs4all.nl/ned/har-cpu-amd-k5.php)
 
-[Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink") [Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink")
+[Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink") [Category:x86架構](https://zh.wikipedia.org/wiki/Category:x86架構 "wikilink")

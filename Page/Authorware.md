@@ -28,6 +28,6 @@ Authorware可通過CD、DVD以及網絡，進行e-learning內容發佈。遵照[
   - [Authorware 资源](http://www.awaretips.net/)
   - [Authorware Web Ring](http://r.webring.com/hub?ring=authoring)
 
-[Category:Macromedia_软件](https://zh.wikipedia.org/wiki/Category:Macromedia_软件 "wikilink")
+[Category:Macromedia_软件](https://zh.wikipedia.org/wiki/Category:Macromedia_软件 "wikilink") [Category:Adobe软件](https://zh.wikipedia.org/wiki/Category:Adobe软件 "wikilink")
 
 1.  <http://www.adobe.com/products/authorware/productinfo/faq/eod>

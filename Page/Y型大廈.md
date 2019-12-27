@@ -4,7 +4,7 @@
 
 ## 簡介
 
-Y型大廈是[香港房屋委員會](../Page/香港房屋委員會.md "wikilink")（簡稱「房委會」）成立後首款非[長型標準設計的公屋](../Page/舊長型大廈.md "wikilink")／居屋大廈。顧名思義，Y型樓宇的橫切面呈「Y」字型，三條翼樓自中央[電梯大堂放射而出](https://zh.wikipedia.org/wiki/電梯大堂 "wikilink")。4款Y型大廈的外觀和每層的單位佈局都有明顯分別。Y型樓宇及同期推出的[新長型樓宇與傳統長型公屋大廈相比](https://zh.wikipedia.org/wiki/新長型 "wikilink")，設計靈活性較低，不能隨意修改樓宇層數，佔地也較廣，所以這兩種樓宇設計經常用於新開拓土地、面積較大及不受高度限制的地盤，亦因此大多數Y型大廈落座於[新市鎮](../Page/香港新市鎮.md "wikilink")，部分位於[港島及](https://zh.wikipedia.org/wiki/港島 "wikilink")[新九龍](../Page/新九龍.md "wikilink")的公共屋邨／居屋屋苑亦有Y型大廈，但多採用佔地相對小的Y4型設計（其中，港島並無Y3型大廈；另外，Y1及Y3型大廈並無應用於徙置區重建項目，而Y2型亦僅有一座屬重建項目）。
+Y型大廈是[香港房屋委員會](../Page/香港房屋委員會.md "wikilink")（簡稱「房委會」）成立後首款非[長型標準設計的公屋](../Page/舊長型大廈.md "wikilink")／居屋大廈，分別在1981（Y1及Y2）及1984年（Y3及Y4）發表。顧名思義，Y型樓宇的橫切面呈「Y」字型，三條翼樓自中央[電梯大堂放射而出](https://zh.wikipedia.org/wiki/電梯大堂 "wikilink")。4款Y型大廈的外觀和每層的單位佈局都有明顯分別。Y型樓宇及同期推出的[新長型樓宇與傳統長型公屋大廈相比](https://zh.wikipedia.org/wiki/新長型 "wikilink")，設計靈活性較低，不能隨意修改樓宇層數，佔地也較廣，所以這兩種樓宇設計經常用於新開拓土地、面積較大及不受高度限制的地盤，亦因此大多數Y型大廈落座於[新市鎮](../Page/香港新市鎮.md "wikilink")，部分位於[港島及](https://zh.wikipedia.org/wiki/港島 "wikilink")[新九龍](../Page/新九龍.md "wikilink")的公共屋邨／居屋屋苑亦有Y型大廈，但多採用佔地相對小的Y4型設計（其中，港島並無Y3型大廈；另外，Y1及Y3型大廈並無應用於徙置區重建項目，而Y2型亦僅有一座屬重建項目）。
 
 另外，由於1980年代居屋需求殷切，令為數不少Y2型、Y3型及Y4型原公屋大廈改裝作居屋出售。直至1998年，房委會推行租者置其屋計劃，讓租戶以合理價錢購買現居單位，而租者置其屋計劃中出售的屋邨皆為1982至1992年或之前落成（東頭邨其中三座，以及翠屏（北）邨翠樟樓除外），所以大部分被納入租者置其屋計劃中出售的屋邨，都是由Y型大廈組成的公共屋邨。
 
@@ -22,9 +22,11 @@ Y1型大廈樓高35層，單位設計主要是編配給3人或以下家庭的小
 
 ### Y2型
 
-Y2型大廈樓高35層，約有816個單位，每翼8伙，每層共24伙。樓宇的四分之三單位屬中型單位，編配給4-6人家庭，為房屋署首次引入「一屋多房」設計概念的標準設計大廈；只有佔四分一的翼尾單位是供7人或以上家庭的大型單位。欄柵式窗花全面改為鐵窗設計，窗戶位置配合房間間隔。此類大廈主要集中於1984-1989年間落成，最早落成的是[沙田區](../Page/沙田區.md "wikilink")[美城苑](../Page/美城苑.md "wikilink")逸城閣，於1984年12月落成，甚至比Y1型更早落成，亦是首幢廣義Y型大廈。其他還有[博康邨](../Page/博康邨.md "wikilink")博逸樓（1985年落成）及[長康邨](../Page/長康邨.md "wikilink")康美樓（1986年落成）。另外部分居屋亦擁有Y2型大廈，如[青衣](https://zh.wikipedia.org/wiki/青衣 "wikilink")[青盛苑等](https://zh.wikipedia.org/wiki/青盛苑 "wikilink")；而最後兩座同類樓宇是[元朗](../Page/元朗.md "wikilink")[朗屏邨](../Page/朗屏邨.md "wikilink")畫屏樓和喜屏樓（1989年初入伙）。此款樓宇的最大特徵為每翼頂層（天台）的外牆都有圓形開口。
+Y2型大廈樓高35層，約有816個單位，每翼8伙，每層共24伙。樓宇的四分之三單位屬中型單位，編配給4-6人家庭，為房屋署首次引入「一屋多房」設計概念的標準設計大廈；只有佔四分一的翼尾單位是供7人或以上家庭的大型單位。欄柵式窗花全面改為鐵窗設計，窗戶位置配合房間間隔。另外，部份較早期落成的Y2型大廈，單位內洗手間未設有額外淋浴空間，洗手間面積亦因此較其它同類大廈爲小（例如[祥華邨](../Page/祥華邨.md "wikilink")祥德樓\[1\]）。
 
-Y2型大廈除廣福邨及長康邨因時間不合而未能出售外，皆已透過租者置其屋計劃出售。
+此類大廈主要集中於1984-1989年間落成，最早落成的是[大圍](../Page/大圍.md "wikilink")[美城苑](../Page/美城苑.md "wikilink")逸城閣，於1984年12月落成，甚至比Y1型更早落成，亦是首幢廣義Y型大廈。其他還有[博康邨](../Page/博康邨.md "wikilink")博逸樓（1985年落成）及[長康邨](../Page/長康邨.md "wikilink")康美樓（1986年落成）。另外部分居屋亦擁有Y2型大廈，如[青衣](https://zh.wikipedia.org/wiki/青衣 "wikilink")[青盛苑等](https://zh.wikipedia.org/wiki/青盛苑 "wikilink")；而最後兩座同類樓宇是[元朗](../Page/元朗.md "wikilink")[朗屏邨](../Page/朗屏邨.md "wikilink")畫屏樓和喜屏樓（1989年初入伙）。此款樓宇的最大特徵為每翼頂層（天台）的外牆都有圓形開口。
+
+除[廣福邨因同邨內設有](https://zh.wikipedia.org/wiki/廣福邨 "wikilink")[雙塔式大廈](../Page/雙塔式大廈.md "wikilink")而導致整條屋邨的所有大廈不作出售，以及[長康邨](../Page/長康邨.md "wikilink")因時間不合而未能出售外，其他屋邨的Y2型大廈皆已透過[租者置其屋計劃](../Page/租者置其屋計劃.md "wikilink")出售。
 
 ### Y3型
 
@@ -42,19 +44,19 @@ Y4型是最後一款Y型大廈，基本上跟Y3型同期興建。單位間隔設
 
 ## Y3及Y4型大廈的劏房
 
-自1985年[26座問題公屋醜聞](../Page/26座問題公屋醜聞.md "wikilink")曝光後，加上政府於1987年起推展「[整體重建計劃](https://zh.wikipedia.org/wiki/整體重建計劃 "wikilink")」，部分[徙置屋邨及](https://zh.wikipedia.org/wiki/徙置屋邨 "wikilink")[政府廉租屋](../Page/政府廉租屋.md "wikilink")需於短期內清拆。為了安置上述屋邨的一至二人住戶，以及小型家庭的住屋需求增加，房委會在1988年起將部分Y3型大廈（尤其是指定安置屋邨）末端大單位，分拆為若干個擁有獨立廚廁、面積可低至150平方尺的小單位（俗稱「[劏房](https://zh.wikipedia.org/wiki/劏房 "wikilink")」），具體執行方式如下：
+自1985年[26座問題公屋醜聞](../Page/26座問題公屋醜聞.md "wikilink")曝光後，加上政府於1987年起推展「[整體重建計劃](../Page/整體重建計劃.md "wikilink")」，部分[徙置屋邨及](https://zh.wikipedia.org/wiki/徙置屋邨 "wikilink")[政府廉租屋](../Page/政府廉租屋.md "wikilink")需於短期內清拆。為了安置上述屋邨的一至二人住戶，以及小型家庭的住屋需求增加，房委會在1988年起將部分Y3型大廈（尤其是指定安置屋邨）末端大單位，分拆為若干個擁有獨立廚廁、面積可低至150平方尺的小單位（俗稱「[劏房](https://zh.wikipedia.org/wiki/劏房 "wikilink")」），具體執行方式如下：
 
   - 1.將一個可間兩房單位分間成三個一人單位（廚房改為一個單位，另起居室及主人房各被改為一個單位）
   - 2.將一個可間兩房單位分間成兩個二人單位（單位在起居室中央一分為二）
 
-以上形式的「劏房」可按當區房屋需求靈活配合，由最少半翼末端\[1\]到全部三翼末端改裝均可，而且兩邊單位可以有不同的改裝方式\[2\]。首批設有「劏房」的Y3型大廈為[良景邨](../Page/良景邨.md "wikilink")良偉及良俊樓，1988年6月完工；最後一批則為[天耀邨](../Page/天耀邨.md "wikilink")耀富及耀民樓，1992年5月完工。在此期間，一共有24幢設劏房的Y3型大廈落成。
+以上形式的「劏房」可按當區房屋需求靈活配合，由最少半翼末端\[2\]到全部三翼末端改裝均可，而且兩邊單位可以有不同的改裝方式\[3\]。首批設有「劏房」的Y3型大廈為[良景邨](../Page/良景邨.md "wikilink")良偉及良俊樓，1988年6月完工；最後一批則為[天耀邨](../Page/天耀邨.md "wikilink")耀富及耀民樓，1992年5月完工。在此期間，一共有24幢設劏房的Y3型大廈落成。
 
-此外，其中20幢1989-1991年間完工的Y4型大廈，亦設有類似形式的「劏房」，但改裝方法略有不同：
+此外，其中20幢1989-1992年間完工的Y4型大廈，亦設有類似形式的「劏房」，但改裝方法略有不同：
 
-  - 1.將其中16座Y4型大廈全部三翼的可間三房單位，分拆為可間兩房及小型單位各一個（當中主人房改為兩人單位）\[3\]\[4\]
+  - 1.將其中16座Y4型大廈全部三翼的可間三房單位，分拆為可間兩房及小型單位各一個（當中主人房改為兩人單位）\[4\]\[5\]
   - 2.將[東頭邨](../Page/東頭邨.md "wikilink")振東及貴東樓的可間三房單位，分拆為可間兩房及小型單位各一個，唯B翼三房單位不作改裝。
-  - 3.將[峰華邨](../Page/峰華邨.md "wikilink")各樓宇可間兩房的17室，分間成兩個小型單位（單位在起居室中央一分為二）\[5\]
-  - 4.將[景林邨](../Page/景林邨.md "wikilink")景榕樓的其中兩個可間三房單位，分拆為三個小型單位，另一個分拆為可間兩房及小型單位各一個；此外，其中一個可間兩房單位分拆為兩個小型單位（即同時執行第1及3項改建工程）\[6\]
+  - 3.將[峰華邨](../Page/峰華邨.md "wikilink")各樓宇可間兩房的17室，分間成兩個小型單位（單位在起居室中央一分為二）\[6\]
+  - 4.將[景林邨](../Page/景林邨.md "wikilink")景榕樓的其中兩個可間三房單位，分拆為三個小型單位，另一個分拆為可間兩房及小型單位各一個；此外，其中一個可間兩房單位分拆為兩個小型單位（即同時執行第1及3項改建工程）\[7\]
 
 上述設有「劏房」的Y3及Y4型大廈，除翠屏南邨、天耀邨及長亨邨外均已按租者置其屋計劃出售。
 
@@ -560,9 +562,10 @@ Y4型是最後一款Y型大廈，基本上跟Y3型同期興建。單位間隔設
 
 [Category:香港公屋類型](https://zh.wikipedia.org/wiki/Category:香港公屋類型 "wikilink") [Category:建築技術](https://zh.wikipedia.org/wiki/Category:建築技術 "wikilink")
 
-1.  [鳳德邨黛鳳樓-平面圖](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/fungtakestate_toifunghouse.pdf)
-2.  [廣源邨廣楊樓-平面圖](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/kwongyuenestate_alderhouse.pdf)
-3.  [華貴邨華善樓-平面圖](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wahkwaiestate_wahsinhouse.pdf)
-4.  [景林邨景楠樓-平面圖](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/kinglamestate_kingnamhouse.pdf)
-5.  [峰華邨曉峰樓-平面圖](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/fungwahestate_hiufunghouse.pdf)
-6.  [景林邨景榕樓-平面圖](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/kinglamestate_kingyunghouse.pdf)
+1.  [祥華邨祥德樓-平面圖](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/cheungwahestate_cheungtakhouse.pdf)
+2.  [鳳德邨黛鳳樓-平面圖](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/fungtakestate_toifunghouse.pdf)
+3.  [廣源邨廣楊樓-平面圖](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/kwongyuenestate_alderhouse.pdf)
+4.  [華貴邨華善樓-平面圖](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/wahkwaiestate_wahsinhouse.pdf)
+5.  [景林邨景楠樓-平面圖](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/kinglamestate_kingnamhouse.pdf)
+6.  [峰華邨曉峰樓-平面圖](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/fungwahestate_hiufunghouse.pdf)
+7.  [景林邨景榕樓-平面圖](https://www.housingauthority.gov.hk/hdw/content/static/file/b5/residential/plans/kinglamestate_kingyunghouse.pdf)

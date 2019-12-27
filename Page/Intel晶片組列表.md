@@ -2299,25 +2299,26 @@ DDR2 667/800[19]</p></td>
   - P35 (Bearlake)
       - 上一代P965的後續品，原生支援65nm、1333 MHz前端匯流排[Core 2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")，後期也支援45nm[Core 2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")。支援最大8GB的雙通道DDR2(實際支援到16GB決定於主機板) 533/667/800或DDR3(8G) 800/1066記憶體。搭配ICH9系列南橋
       - 簡化版：
-          - P31 - 規格與P35基本相同，但記憶體只支援到最大4GB的雙通道DDR2 533/667/800，只搭配ICH7南橋。
+          - P31 - 規格與P35基本相同，只支援最大4GB的雙通道DDR2 533/667/800，搭配ICH7南橋。
   - G35 Broadwater(GC) Refresh
       - 上一代G965的後續品，整合了支援[DirectX](../Page/DirectX.md "wikilink")10的[GMA X3500顯示核心](../Page/Intel_GMA.md "wikilink")，支援最大8GB的雙通道DDR2 533/667/800記憶體
-      - 簡化版：
-          - G33 Bearlake (G+) - 規格與G35基本相同，整合了[GMA X3500的簡化版](../Page/Intel_GMA.md "wikilink")[GMA X3100顯示核心](../Page/Intel_GMA.md "wikilink")
-          - G31 Bearlake (G) - 規格與G33基本相同，整合了[GMA X3500的簡化版](../Page/Intel_GMA.md "wikilink")[GMA X3100顯示核心](../Page/Intel_GMA.md "wikilink")，只支援最大4GB的雙通道DDR2 533/667/800記憶體，南橋只能搭配ICH7系列
+  - G33 Bearlake (G+)
+      - P35整合了[GMA 3100顯示核心的版本](../Page/Intel_GMA.md "wikilink")，搭配ICH9南橋。
+  - G31 Bearlake (G)
+      - P31整合了[GMA 3100顯示核心的版本](../Page/Intel_GMA.md "wikilink")，只支援最大4GB的雙通道DDR2 533/667/800記憶體，南橋只能搭配ICH7系列。
   - X38 Bearlake (X)
       - 上一代975X的後續品，規格與975X基本相同，支援65nm、1333 MHz前端匯流排[Core 2處理器](https://zh.wikipedia.org/wiki/Core_2 "wikilink")。支援最大8GB的雙通道DDR2 533/667/800 ECC或Non-ECC記憶體，或DDR3 800/1066 Non-ECC記憶體
   - X48 Eaglelake (X)
       - 上一代X38的後續品，規格與X38基本相同，原生支援1600 MHz前端匯流排並支援PCIE2.0。支援最大16GB的雙通道DDR2 533/667/800/1066 ECC或Non-ECC記憶體，或DDR3 800/1066/1333 Non-ECC記憶體。搭配ICH10系列南橋。
   - P45 Eaglelake (P+)
-      - 上一代P35的後續品，規格與P35基本相同，原生支援45nm、1600 MHz前端匯流排[Core 2並支援PCIE](https://zh.wikipedia.org/wiki/Core_2 "wikilink")2.0。支援雙通道DDR2(16GB) 533/667/800/1066或DDR3(8GB) 800/1066/1333記憶體。搭配ICH10系列南橋。
+      - 上一代P35的後續品，規格與P35基本相同，原生支援45nm、1600 MHz前端匯流排、[Core 2處理器並支援PCIE](https://zh.wikipedia.org/wiki/Core_2 "wikilink")2.0。支援雙通道DDR2(16GB) 533/667/800/1066或DDR3(8GB) 800/1066/1333記憶體。搭配ICH10系列南橋。
       - 簡化版：
           - P43 Eaglelake (P) - 規格與P45基本相同，但不支援組建[ATi的](https://zh.wikipedia.org/wiki/ATi "wikilink")[CrossFire](https://zh.wikipedia.org/wiki/CrossFire "wikilink")，只支援最大8GB的雙通道DDR2 533/667/800或DDR3 800/1066記憶體
   - G45 Eaglelake (G+)
       - 上一代G35的後續品，規格與P45基本相同，但整合了[GMA X4500HD顯示核心](../Page/Intel_GMA.md "wikilink")
       - 簡化版：
-          - G43 Bearlake (G+) - 規格與G45基本相同，整合了[GMA X4500顯示核心](../Page/Intel_GMA.md "wikilink")
-          - G41 Bearlake (G) - 規格與G43基本相同，只支援雙通道DDR2(8G) 533/667/800或DDR3(4G) 800/1066記憶體，南橋只能搭配ICH7系列
+          - G43 Eaglelake (G+) - 規格與G45基本相同，整合了[GMA X4500顯示核心](../Page/Intel_GMA.md "wikilink")
+          - G41 Eaglelake (G) - 規格與G43基本相同，只支援雙通道DDR2(8G) 533/667/800或DDR3(4G) 800/1066記憶體，南橋只能搭配ICH7系列
 
 #### [Core 2移動晶片組](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")
 

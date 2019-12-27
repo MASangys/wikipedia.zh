@@ -86,7 +86,7 @@
   - 2017年10月13日 - プレイホーム★
   - 2018年4月27日 - [戀活！](https://zh.wikipedia.org/wiki/戀活！ "wikilink")★
   - 2019年4月26日 - エモーション・クリエイターズ★
-  - 2019年10月25日 - [AI\*少女](https://zh.wikipedia.org/wiki/AI*少女 "wikilink")
+  - 2019年10月25日 - [AI\*少女](../Page/AI*少女.md "wikilink")
 
 ### Vision
 

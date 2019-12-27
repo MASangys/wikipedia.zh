@@ -96,7 +96,7 @@
       - [丹东](https://zh.wikipedia.org/wiki/丹东 "wikilink")[黄海客车](../Page/黄海客车.md "wikilink")
       - [郑州](https://zh.wikipedia.org/wiki/郑州 "wikilink")[宇通客车](https://zh.wikipedia.org/wiki/宇通客车 "wikilink")
       - [厦门](https://zh.wikipedia.org/wiki/厦门 "wikilink")[金龙客车](../Page/金龙联合汽车.md "wikilink")（[大金龙](https://zh.wikipedia.org/wiki/大金龙 "wikilink")）
-      - [金華](https://zh.wikipedia.org/wiki/金華 "wikilink")[青年汽車](../Page/青年汽車.md "wikilink")
+      - [金華](https://zh.wikipedia.org/wiki/金華 "wikilink")[青年汽車](../Page/青年汽車.md "wikilink")（已倒闭）
       - [陕汽集团](https://zh.wikipedia.org/wiki/陕汽集团 "wikilink")
       - [重庆红岩](https://zh.wikipedia.org/wiki/重庆 "wikilink")
       - [上汽集团](../Page/上汽集团.md "wikilink")

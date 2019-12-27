@@ -204,8 +204,7 @@ Dr.Lip</strong></p></td>
 <td><p>零食樂園企業主席<br />
 王英傑之兄<br />
 另見<a href="https://zh.wikipedia.org/wiki/#七年之后（第18-20集）" title="wikilink"><strong>七年之后（第18-20集）</strong></a></p></td>
-<td><p><strong>零食大王<br />
-英年</strong></p></td>
+<td><p><strong>零食大王</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/蔡子健.md" title="wikilink">蔡子健</a></strong></p></td>
@@ -218,7 +217,7 @@ Dr.Lip</strong></p></td>
 孫靜君之前男友<br />
 參見<a href="https://zh.wikipedia.org/wiki/#蔡家" title="wikilink"><strong>蔡家</strong></a><br />
 另見<a href="https://zh.wikipedia.org/wiki/#迷姦慘案（第4-10集）" title="wikilink"><strong>迷姦慘案（第4-10集）</strong></a></p></td>
-<td><p><strong>英傑</strong></p></td>
+<td><p><strong>亞傑</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/李珊珊_(藝員)" title="wikilink">李珊珊</a></strong></p></td>
@@ -679,7 +678,7 @@ Dr.Lip</strong></p></td>
 <td><p>攝影師<br />
 井依婷之前夫<br />
 唐詠心之情夫<br />
-誤殺唐詠心<br />
+殺害唐詠心之兇手<br />
 於第3集被捕</p></td>
 <td><p><strong>Richard</strong> |-2</p></td>
 </tr>
@@ -790,7 +789,7 @@ Susanna之好友<br />
 <td><p><a href="../Page/郭卓樺.md" title="wikilink">郭卓樺</a></p></td>
 <td><p>打　手</p></td>
 <td><p>社團展老大之手下<br />
-毆打劉彥修</p></td>
+兩度毆打劉彥修</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -833,7 +832,7 @@ Susanna之好友<br />
 <td><p><strong>王英傑</strong></p></td>
 <td><p>葉冠榮之辯方律師<br />
 參見<a href="https://zh.wikipedia.org/wiki/#王家" title="wikilink"><strong>王家</strong></a></p></td>
-<td></td>
+<td><p><strong>亞傑</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/羅君左.md" title="wikilink">羅君左</a></p></td>
@@ -898,7 +897,7 @@ Susanna之好友<br />
 3年前因開車撞死蔡權而入獄<br />
 出獄後，成为齊敏之秘密情人<br />
 當年殺害馬永達後嫁禍於陳國豪<br />
-被馬玉珍殺害</p></td>
+於第5集被馬玉珍殺害</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -909,7 +908,7 @@ Susanna之好友<br />
 馬玉珍之媳<br />
 陳安之母<br />
 彭子康之秘密情人<br />
-曾預謀殺害彭子康以報復<br />
+謀殺彭子康之主謀，惜在案發當天被彭子康識穿<br />
 嫁禍曾家原為殺害彭子康之凶手<br />
 曾多次騷擾曾家原<br />
 於第7集被捕</p></td>
@@ -939,7 +938,7 @@ Susanna之好友<br />
 陳國豪之母<br />
 齊敏之婆婆<br />
 陳安之祖母<br />
-殺害彭子康<br />
+下手殺害彭子康之真兇<br />
 於第7集被捕</p></td>
 <td></td>
 </tr>
@@ -986,7 +985,7 @@ Susanna之好友<br />
 <td><p><strong>金妙玲</strong></p></td>
 <td><p>好味快餐店員工<br />
 聶津津、潘幸瑤之好友<br />
-被曹柄生奸殺<br />
+於第8集被曹柄生奸殺<br />
 另見<a href="https://zh.wikipedia.org/wiki/#迷姦慘案（第4-10集）" title="wikilink"><strong>迷姦慘案（第4-10集）</strong></a></p></td>
 <td><p><strong>亞miu</strong></p></td>
 </tr>
@@ -998,7 +997,7 @@ Susanna之客人<br />
 王英傑之客戶<br />
 威脅卓家輝、梁雪麗<br />
 有注射興奮劑的習慣<br />
-被梁雪麗殺害<br />
+於第8集被金妙玲襲擊后，被梁雪麗殺害<br />
 另見<a href="https://zh.wikipedia.org/wiki/#迷姦慘案（第4-10集）" title="wikilink"><strong>迷姦慘案（第4-10集）</strong></a></p></td>
 <td><p><strong>Thomas</strong></p></td>
 </tr>
@@ -1024,7 +1023,7 @@ Susanna之客人<br />
 <td><p>曹柄生</p></td>
 <td><p>好味快餐店老闆之子<br />
 暗戀金妙玲<br />
-姦殺金妙玲<br />
+姦殺金妙玲之兇手<br />
 於第9集被捕</p></td>
 <td><p><strong>生哥</strong></p></td>
 </tr>
@@ -1042,7 +1041,7 @@ Susanna之客人<br />
 選美集訓營Sandy同房室友<br />
 愛滋病患者<br />
 被葉冠榮多次勒索<br />
-殺害葉冠榮<br />
+殺害葉冠榮之兇手<br />
 於第10集被捕<br />
 另見<a href="https://zh.wikipedia.org/wiki/#情殺之謎（第1-3集）" title="wikilink"><strong>情殺之謎（第1-3集）</strong></a></p></td>
 <td><p><strong>Cherry</strong></p></td>
@@ -1110,7 +1109,7 @@ Susanna之客人<br />
 <tr class="even">
 <td><p><a href="../Page/康華.md" title="wikilink">康　華</a></p></td>
 <td><p><strong>溫若嫻</strong></p></td>
-<td><p>針對聶寶言<br />
+<td><p>針對聶寶言，數次企圖謀殺其<br />
 間接炸傷曾家喬、蔡國忠<br />
 於第11集被捕<br />
 參見《<strong><a href="../Page/鑑證實錄.md" title="wikilink">鑑證實錄</a></strong>》</p></td>
@@ -1134,6 +1133,7 @@ Susanna之客人<br />
 <td><p><strong><a href="../Page/陳慧珊.md" title="wikilink">陳慧珊</a></strong></p></td>
 <td><p><strong>聶寶言</strong></p></td>
 <td><p>溫若嫻之針對對象<br />
+多次被其企圖謀殺<br />
 參見<a href="https://zh.wikipedia.org/wiki/#聶家" title="wikilink"><strong>聶家</strong></a></p></td>
 <td></td>
 </tr>
@@ -1347,6 +1347,7 @@ Susanna之客人<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/黃煒林" title="wikilink">黃煒林</a></p></td>
 <td><p>田守信</p></td>
 <td><p>田世東之子<br />
+與上輯（第5集）被馮望山殺害<br />
 已去世<br />
 參見《<strong><a href="../Page/鑑證實錄.md" title="wikilink">鑑證實錄</a></strong>》</p></td>
 <td></td>
@@ -1440,8 +1441,7 @@ Susanna之客人<br />
 <td><p>於7年前曾為私家偵探山之客戶<br />
 曾暗戀楊志美<br />
 間接陷害孫靜君導致其終身癱瘓<br />
-殺害楊志美、趙錫佳<br />
-於第19集險溺水身亡<br />
+殺害楊志美、趙錫佳，間接害死蔡小棠之真兇<br />
 於第20集被捕<br />
 參見<a href="https://zh.wikipedia.org/wiki/#王家" title="wikilink"><strong>王家</strong></a></p></td>
 <td></td>
@@ -1455,8 +1455,9 @@ Susanna之客人<br />
 楊志美之前夫<br />
 楊志倫之前姊夫兼針對對象<br />
 孫靜君之前男友<br />
+一度被認為是真兇<br />
 參見<a href="https://zh.wikipedia.org/wiki/#王家" title="wikilink"><strong>王家</strong></a></p></td>
-<td><p><strong>英傑</strong></p></td>
+<td><p><strong>亞傑</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/李珊珊_(藝員)" title="wikilink">李珊珊</a></strong></p></td>

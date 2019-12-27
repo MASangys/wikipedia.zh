@@ -332,6 +332,8 @@ int main () {
   - [浮點數](https://zh.wikipedia.org/wiki/浮點數 "wikilink")
   - [單精度浮點數](https://zh.wikipedia.org/wiki/單精度浮點數 "wikilink")
   - [雙精度浮點數](../Page/雙精度浮點數.md "wikilink")
+  - [MIPS](https://zh.wikipedia.org/wiki/MIPS "wikilink")
+  - [TOP500](../Page/TOP500.md "wikilink")
 
 ## 外部連結
 

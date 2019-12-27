@@ -8,7 +8,7 @@ Windows NT 4.0在[Windows 2000推出之後](../Page/Windows_2000.md "wikilink")�
 
 ## 特色
 
-最值得注意的特點是不論工作站或者伺服器版本的Windows NT 4.0都使用[Windows 95的使用者介面](../Page/Windows_95.md "wikilink")，包括[Windows Shell](https://zh.wikipedia.org/wiki/Windows_Shell "wikilink")、[Windows Explorer](https://zh.wikipedia.org/wiki/Windows_Explorer "wikilink")（被稱為Windows NT Explorer）、以及使用"我的"命名法（舉例：[我的文件](../Page/我的文件.md "wikilink")、[我的電腦](https://zh.wikipedia.org/wiki/我的電腦 "wikilink")）。
+最值得注意的特點是不論工作站或者伺服器版本的Windows NT 4.0都使用[Windows 95的使用者介面](../Page/Windows_95.md "wikilink")，包括[Windows Shell](../Page/Windows_shell.md "wikilink")、[Windows Explorer](https://zh.wikipedia.org/wiki/Windows_Explorer "wikilink")（被稱為Windows NT Explorer）、以及使用"我的"命名法（舉例：[我的文件](../Page/我的文件.md "wikilink")、[我的電腦](https://zh.wikipedia.org/wiki/我的電腦 "wikilink")）。
 
 伺服器版本的Windows NT 4.0內建了[網頁伺服器](../Page/網頁伺服器.md "wikilink")，[IIS](../Page/網際網路資訊服務.md "wikilink") 2.0。並且直接支援[Microsoft FrontPage](../Page/Microsoft_FrontPage.md "wikilink")（撰寫以及管理網站的一支應用程式）的外掛插件（plugins）以及延伸資源（extensions）。
 

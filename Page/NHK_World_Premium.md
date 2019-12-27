@@ -4,7 +4,7 @@
 
 ## 概要
 
-  - [NHK World-Japan的同系頻道](../Page/NHK_World-Japan_\(頻道\).md "wikilink")，以播放NHK精選（）新聞、資訊、綜合節目、劇集、音樂、體育及兒童節目為主。除部分时段外，其余时段全部锁码播出。每日卫星电视开锁时间如下（[日本时间](https://zh.wikipedia.org/wiki/日本时间 "wikilink")，仅限国际19号、国际20号、国际21号卫星）\[2\]：
+  - [NHK World-Japan的同系頻道](../Page/NHK_World-Japan_\(頻道\).md "wikilink")，以播放NHK精選（）新聞、資訊、綜合節目、劇集、音樂、體育及兒童節目為主。除新闻时段外，其余时段全部锁码播出。每日卫星电视开锁时间如下（[日本时间](https://zh.wikipedia.org/wiki/日本时间 "wikilink")，仅限国际19号、国际20号、国际21号卫星）\[2\]：
 
 <!-- end list -->
 
@@ -49,7 +49,7 @@
 
 [Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:台灣電視播放頻道](https://zh.wikipedia.org/wiki/Category:台灣電視播放頻道 "wikilink") [Category:卫星电视频道](https://zh.wikipedia.org/wiki/Category:卫星电视频道 "wikilink") [Category:NHK电视频道](https://zh.wikipedia.org/wiki/Category:NHK电视频道 "wikilink")
 
-1.  [FAQ: Reception through Local Operators - Q2](http://nhkworldpremium.com/faq/index3_e.aspx?ssl=false#02). NHK World Premium. \[2016-09-19\] .
+1.  [FAQ: Reception through Local Operators - Q2](http://nhkworldpremium.com/faq/index3_e.aspx?ssl=false#02) . NHK World Premium. \[2016-09-19\] .
 2.  [NHKワールドプレミアム](https://www3.nhk.or.jp/nhkworld/ja/premium/)，NHK
 3.
 4.  [我國衛星電視產業92-94年度營運調查期末報告](http://neverland.km.nccu.edu.tw/xms/read_attach.php?id=1953) . [國立政治大學新聞學系](https://zh.wikipedia.org/wiki/國立政治大學新聞學系 "wikilink"). [國家通訊傳播委員會九十四年度委託研究計畫](https://zh.wikipedia.org/wiki/國家通訊傳播委員會 "wikilink"). 2006-10. 第127頁. \[2016-02-06\] .

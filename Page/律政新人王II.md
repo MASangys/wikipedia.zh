@@ -1,4 +1,4 @@
-《**律政新人王II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共20集，由[陳鍵鋒](https://zh.wikipedia.org/wiki/陳鍵鋒 "wikilink")、[馬國明](https://zh.wikipedia.org/wiki/馬國明 "wikilink")、[官恩娜](../Page/官恩娜.md "wikilink")及[李詩韻領銜主演](https://zh.wikipedia.org/wiki/李詩韻 "wikilink")，監製[關永忠](../Page/關永忠.md "wikilink")。此劇為《律政新人王系列》第二輯。
+《**律政新人王II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共20集，由[陳鍵鋒](https://zh.wikipedia.org/wiki/陳鍵鋒 "wikilink")、[馬國明](https://zh.wikipedia.org/wiki/馬國明 "wikilink")、[官恩娜](../Page/官恩娜.md "wikilink")及[李詩韻領銜主演](https://zh.wikipedia.org/wiki/李詩韻 "wikilink")，監製[關永忠](../Page/關永忠.md "wikilink")。此劇為《律政新人王系列》第二輯，但相比起第一輯，本輯只保留了卓偉名（陳鍵鋒）一角。
 
 ## 演員表
 
@@ -38,19 +38,20 @@
 參見上集<strong><a href="../Page/律政新人王.md" title="wikilink">律政新人王</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朱婉儀" title="wikilink">朱婉儀</a></p></td>
-<td><p>周小燕</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李彩寧" title="wikilink">李彩寧</a></p></td>
-<td><p>董冰冰</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/張美妮.md" title="wikilink">張美妮</a></p></td>
 <td><p>張美倩</p></td>
-<td><p>Cindy</p></td>
+<td><p><strong>Cindy</strong><br />
+法律文員</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/朱婉儀" title="wikilink">朱婉儀</a></p></td>
+<td><p>周小燕</p></td>
+<td><p>接待員</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/李彩寧" title="wikilink">李彩寧</a></p></td>
+<td><p>董冰冰</p></td>
+<td><p>辦公室助理</p></td>
 </tr>
 </tbody>
 </table>
@@ -169,6 +170,98 @@
 </tbody>
 </table>
 
+### 與案件有關人物
+
+#### 模特兒違約案（第1集）
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>關係/暱稱</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/李子奇.md" title="wikilink">李子奇</a></p></td>
+<td><p>鄭志達</p></td>
+<td><p>「Overmars」時裝公司老闆<br />
+控告Michelle Sung違反時裝表演合約並要求賠償，後敗訴</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/楊卓娜.md" title="wikilink">楊卓娜</a></p></td>
+<td><p>Michelle Sung</p></td>
+<td><p>模特兒<br />
+於時裝表演中途因被表演道具蟑螂爬到身上而突然失控，並撞跌儀器<br />
+被鄭志達控告違反合約並要求賠償，後勝訴</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>龐愛儀</p></td>
+<td><p>時裝表演服裝師<br />
+於每位模特兒出場前檢查扣針，確保蟑螂不會脫落</p></td>
+</tr>
+</tbody>
+</table>
+
+#### 的士遲到案／業權爭取案（第1—2集）
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>關係/暱稱</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>|李志能</p></td>
+<td><p>控告丁榮炳的的士遲到，令他們一家四口未能準時到達機場<br />
+向丁榮炳索居賠償，後勝訴</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/歐瑞偉.md" title="wikilink">歐瑞偉</a></p></td>
+<td><p>丁榮炳</p></td>
+<td><p>的士司機<br />
+被李志能控告遲到而使其未能趕上機，後敗訴並貼償二十萬元予李志能</p></td>
+</tr>
+</tbody>
+</table>
+
+#### 分手索償案（第2集）
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>關係/暱稱</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/甄志強.md" title="wikilink">甄志強</a></p></td>
+<td><p>彭宇琛</p></td>
+<td><p><strong>Sam</strong><br />
+方嘉琳之前男友<br />
+曾答應方嘉琳若她能親手做蛋糕會送一枚鑽石戒指給她<br />
+向方嘉琳追討拍拖期間曾送予她的禮物，後勝訴</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/關伊彤.md" title="wikilink">關伊彤</a></p></td>
+<td><p>方嘉琳</p></td>
+<td><p><strong>Kelly</strong><br />
+髮型師<br />
+彭宇琛之前女友<br />
+曾送蛋糕給彭宇琛，實際是請蛋糕師傅代勞<br />
+被彭宇琛追討拍拖期間曾送予她的禮物，後敗訴</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/江嘉俊" title="wikilink">江嘉俊</a></p></td>
+<td></td>
+<td><p>蛋糕師傅<br />
+於法庭上證實方嘉琳送給彭宇琛的蛋糕是自己親手所做，並表示成事後方嘉琳答應與他逛街看電影</p></td>
+</tr>
+</tbody>
+</table>
+
 ### 其他演員
 
 <table>
@@ -213,72 +306,82 @@
 Zenbi之徒弟</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/甄志強.md" title="wikilink">甄志強</a></p></td>
-<td><p>彭宇琛</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/趙永洪.md" title="wikilink">趙永洪</a></p></td>
 <td><p>William</p></td>
 <td><p>孫伯滔助手</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/楊英偉.md" title="wikilink">楊英偉</a></p></td>
 <td><p>李啟賢</p></td>
 <td><p>丁麗娜之前男友，曾偷過酒佬吧錢</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/秦煌.md" title="wikilink">秦　煌</a></p></td>
 <td><p>王天保</p></td>
 <td><p><a href="../Page/茶餐廳.md" title="wikilink">茶餐廳</a>老闆</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/胡楓.md" title="wikilink">胡　楓</a></p></td>
 <td><p>潘永良</p></td>
 <td><p>崔正平之師傅（客串第19-20集）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/郭卓樺.md" title="wikilink">郭卓樺</a></p></td>
 <td><p>葉志開</p></td>
 <td><p>辛萬軍之好友<br />
 於第18集被簡明慧誤殺</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/張智軒.md" title="wikilink">張智軒</a></p></td>
 <td><p>鄭志高</p></td>
 <td><p>Marco<br />
 辛萬軍之好友</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/陳堃.md" title="wikilink">陳　堃</a></p></td>
 <td><p>戴健威</p></td>
 <td><p>辛萬軍之好友<br />
 月之男友</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/卓姿" title="wikilink">卓　姿</a></p></td>
 <td><p>月</p></td>
 <td><p>戴健威之女友</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/羅貫峰.md" title="wikilink">羅貫峰</a></p></td>
-<td><p>洪日飛</p></td>
+<td><p>洪劍飛</p></td>
 <td><p>辛萬軍之好友</p></td>
 </tr>
+<tr class="even">
+<td><p><a href="../Page/冼灝英.md" title="wikilink">冼灝英</a></p></td>
+<td></td>
+<td><p>「酒佬吧」侍應</p></td>
+</tr>
 <tr class="odd">
+<td><p><a href="../Page/戴耀明.md" title="wikilink">戴耀明</a></p></td>
+<td></td>
+<td><p>「酒佬吧」侍應</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/潘冠霖.md" title="wikilink">潘冠霖</a></p></td>
+<td><p>Mary</p></td>
+<td><p>「酒佬吧」啤酒妹</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/廖麗麗.md" title="wikilink">廖麗麗</a></p></td>
+<td><p>蓮　姐</p></td>
+<td><p>孫家工人</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/黃文標.md" title="wikilink">黃文標</a></p></td>
 <td><p>財</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
 <td><p>熟　客</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/鄺佐輝.md" title="wikilink">鄺佐輝</a></p></td>
-<td><p>吳楚雄</p></td>
-<td><p>裁判官</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/陸詩韻.md" title="wikilink">陸詩韻</a></p></td>
@@ -306,41 +409,21 @@ Zenbi之徒弟</p></td>
 <td><p>裁判官</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/楊卓娜.md" title="wikilink">楊卓娜</a></p></td>
-<td><p>Michelle</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/楊瑞麟.md" title="wikilink">楊瑞麟</a></p></td>
 <td><p>彭一全</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p><a href="../Page/歐瑞偉.md" title="wikilink">歐瑞偉</a></p></td>
-<td><p>丁榮炳</p></td>
-<td><p>的士司機</p></td>
-</tr>
 <tr class="even">
-<td><p><a href="../Page/關伊彤.md" title="wikilink">關伊彤</a></p></td>
-<td><p>方嘉琳</p></td>
-<td><p>Kelly（客串第2集）</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/姚瑩瑩.md" title="wikilink">姚瑩瑩</a></p></td>
 <td><p>Zenbi</p></td>
 <td><p>Stephy之師父</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/沈可欣.md" title="wikilink">沈可欣</a></p></td>
 <td><p>沈德如</p></td>
 <td><p>裁判官<br />
 Elsa<br />
 范振庭之妻</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/魯振順.md" title="wikilink">魯振順</a></p></td>
-<td><p>裁判官</p></td>
-<td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/王維德.md" title="wikilink">王維德</a></p></td>
@@ -353,19 +436,9 @@ Elsa<br />
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/廖麗麗.md" title="wikilink">廖麗麗</a></p></td>
-<td><p>連</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/吳幸美.md" title="wikilink">吳幸美</a></p></td>
 <td><p>蔣　泳</p></td>
 <td><p>第7集</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/潘冠霖.md" title="wikilink">潘冠霖</a></p></td>
-<td><p>Mary</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/啤酒妹" title="wikilink">啤酒妹</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/張雪芹.md" title="wikilink">張雪芹</a></p></td>
@@ -396,6 +469,114 @@ Elsa<br />
 <td><p><a href="../Page/陳霽平.md" title="wikilink">陳霽平</a></p></td>
 <td><p>歐陽丹</p></td>
 <td><p>林韋章之女友</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/鄭家生.md" title="wikilink">鄭家生</a></p></td>
+<td><p>黃玉發</p></td>
+<td><p><strong>豬肉發</strong><br />
+拒絕接收傳訊令狀，後為辛萬軍馴服（第1集）</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/周麗欣.md" title="wikilink">周麗欣</a></p></td>
+<td></td>
+<td><p>靚女客人（第1集）</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/鍾凱琪.md" title="wikilink">鍾凱琪</a></p></td>
+<td><p>李麗妮</p></td>
+<td><p>「酒佬吧」客人<br />
+喜歡辛萬軍（第1集）</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/李穎芝.md" title="wikilink">李穎芝</a></p></td>
+<td></td>
+<td><p>「酒佬吧」客人（第1集）</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/魯振順.md" title="wikilink">魯振順</a></p></td>
+<td></td>
+<td><p>法官<br />
+辛萬軍藏毒案的裁判官（第1集）</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/黃鳳琼" title="wikilink">黃鳳-{琼}-</a></p></td>
+<td></td>
+<td><p>機場路人（第1集）</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/溫裕紅.md" title="wikilink">溫裕紅</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/沈穎婷.md" title="wikilink">沈穎婷</a></p></td>
+<td></td>
+<td><p>空姐（第1集）</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/鄺佐輝.md" title="wikilink">鄺佐輝</a></p></td>
+<td><p>吳楚維</p></td>
+<td><p>法官（第1-2集）</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>法庭書記（第1-2集）</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/何俊軒.md" title="wikilink">何俊軒</a></p></td>
+<td></td>
+<td><p>庭警（第1-2集）</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/柯嵐" title="wikilink">柯　嵐</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/黃澤鋒.md" title="wikilink">黃澤鋒</a></p></td>
+<td><p>Ben</p></td>
+<td><p>（第2集）</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/麥嘉倫.md" title="wikilink">麥嘉倫</a></p></td>
+<td><p>George</p></td>
+<td><p>（第2集）</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/鍾志光.md" title="wikilink">鍾志光</a></p></td>
+<td></td>
+<td><p>律師（第2集）</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/黃淑怡" title="wikilink">黃淑怡</a></p></td>
+<td></td>
+<td><p>侍應（第2集）</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/黃瑩_(演員).md" title="wikilink">黃　瑩</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/傅千盈" title="wikilink">傅千盈</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>Susie</p></td>
+<td><p>（第2集）</p></td>
 </tr>
 </tbody>
 </table>

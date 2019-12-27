@@ -1227,7 +1227,7 @@
 <td><p><code>_w</code></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Xsampa-_w.png" title="fig:File:Xsampa- w.png"><a href="File:Xsampa-">File:Xsampa-</a> w.png</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/唇音化" title="wikilink">唇音化</a></p></td>
+<td><p><a href="../Page/唇音化.md" title="wikilink">唇音化</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><code>_X</code></p></td>

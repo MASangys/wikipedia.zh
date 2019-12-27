@@ -1,4 +1,4 @@
-**老牛皮國際股份有限公司**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：La New Corporation，縮寫：**La New**），是一家[臺灣](../Page/臺灣.md "wikilink")[皮鞋](../Page/皮鞋.md "wikilink")[品牌](../Page/品牌.md "wikilink")，負責人是[劉保佑](../Page/劉保佑.md "wikilink")。
+**老牛皮國際股份有限公司**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：La New Corporation，縮寫：**La New**），是一家[臺灣](../Page/臺灣.md "wikilink")[皮鞋](../Page/皮鞋.md "wikilink")[品牌](../Page/品牌.md "wikilink")，負責人是[劉保佑](../Page/劉保佑.md "wikilink")；2004年至2019年曾經營[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigo桃猿](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")。
 
 ## 發展歷史
 
@@ -8,9 +8,11 @@
 
 近年由於經濟不景氣，加上La New許多業外投資的回收並不如預期，原本預計2007年上市上櫃的計畫已經撤回。
 
-2006年藉由[La New熊隊奪得](https://zh.wikipedia.org/wiki/La_New熊隊 "wikilink")[亞洲職棒大賽](../Page/亞洲職棒大賽.md "wikilink")亞軍，助長La New在[日本](../Page/日本.md "wikilink")開店的宣傳，目前在日本已經有多家店面。
+2006年，藉由[La New熊奪得](https://zh.wikipedia.org/wiki/La_New熊 "wikilink")[亞洲職棒大賽](../Page/亞洲職棒大賽.md "wikilink")亞軍，助長La New在[日本](../Page/日本.md "wikilink")開店的宣傳，目前在日本已經有多家店面。
 
-2009年起成立那米哥集團，經營包括行社、休閒會館、宴會廣場業務\[1\]。
+2009年，成立那米哥集團，經營包括行社、休閒會館、宴會廣場業務\[1\]。
+
+2019年9月19日，將[Lamigo桃猿轉賣給](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")[樂天株式會社](https://zh.wikipedia.org/wiki/樂天株式會社 "wikilink")\[2\]\[3\]\[4\]。
 
 ## 參見
 
@@ -31,3 +33,6 @@
 [Category:鞋類品牌](https://zh.wikipedia.org/wiki/Category:鞋類品牌 "wikilink") [Category:台灣品牌](https://zh.wikipedia.org/wiki/Category:台灣品牌 "wikilink") [Category:總部位於新北市的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於新北市的工商業機構 "wikilink") [Category:1996年台灣建立](https://zh.wikipedia.org/wiki/Category:1996年台灣建立 "wikilink")
 
 1.
+2.
+3.
+4.

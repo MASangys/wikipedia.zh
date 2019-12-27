@@ -3498,7 +3498,7 @@ MBLAQ、FTIsland<br />
   - 《一夜再成名》
   - 《潛龍追擊》
   - 《[辣警霸王花](../Page/辣警霸王花.md "wikilink")》
-  - 《[不義之戰](https://zh.wikipedia.org/wiki/不義之戰 "wikilink")》
+  - 《[不義之戰](../Page/不義之戰.md "wikilink")》
 
 ## 演唱會
 

@@ -62,46 +62,7 @@ BONES工作室是在1998年10月由前[日昇動畫](../Page/日昇動畫.md "wi
   - [路人超能100](../Page/路人超能100.md "wikilink") 第二季（2019年1月7日－2019年4月1日）
   - [卡萝与星期二](https://zh.wikipedia.org/wiki/Carole_&_Tuesday "wikilink")（2019年4月10日－2019年10月3日）
   - [文豪Stray Dogs](../Page/文豪Stray_Dogs.md "wikilink") 第三季（2019年4月12日－2019年6月30日）
-  - [我的英雄學院](../Page/我的英雄學院.md "wikilink") 第四季 （2019年10月12日－）
-
-<table>
-<thead>
-<tr class="header">
-<th><p>中文名稱</p></th>
-<th><p>日文名稱</p></th>
-<th><p>播出時間</p></th>
-<th><p>導演</p></th>
-<th><p>原作類別</p></th>
-<th><p>備註</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2019年</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Carole_&amp;_Tuesday" title="wikilink">卡蘿與星期二</a></p></td>
-<td></td>
-<td><p>4月－預定</p></td>
-<td><p>渡边信一郎、堀元宣</p></td>
-<td><p>原創</p></td>
-<td><p>20周年纪念动画</p></td>
-</tr>
-<tr class="odd">
-<td><p>我的英雄學院</p></td>
-<td></td>
-<td><p>10月－預定</p></td>
-<td><p>長崎健司</p></td>
-<td><p>漫畫</p></td>
-<td><p>第4期</p></td>
-</tr>
-</tbody>
-</table>
+  - [我的英雄學院](../Page/我的英雄學院.md "wikilink") 第四季（2019年10月12日－）
 
 ### [网络动画](https://zh.wikipedia.org/wiki/网络动画 "wikilink")
 

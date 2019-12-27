@@ -8,7 +8,7 @@
 
 所谓「阿帕」（ARPA），是美国高级研究计划局（**A**dvanced **R**esearch **P**roject **A**gency）的简称。他的核心机构之一是信息处理处（IPTO, **I**nformation **P**rocessing **T**echniques **O**ffice），一直在关注[电脑图形](https://zh.wikipedia.org/wiki/电脑图形 "wikilink")、[网络通讯](https://zh.wikipedia.org/wiki/网络通讯 "wikilink")、[超级计算机](../Page/超级计算机.md "wikilink")等研究课题。
 
-1962年，J·C·R·利克里德（J.C.R.Licklider）离开MIT，加入ARPA，并在后来成为IPTO的首席执行官。也就是他在任期间将办公室名称从命令控制研究（Command and Control Research）改为IPTO。也就是在他任职期间，据估计，整个美国计算机科学领域研究的70%由ARPA赞助，并在许多人看来与一个严格意义上的军事机构相去甚远，并给许多研究者自由领域来实验，结果ARPA不仅成为网络诞生地，同样也是[电脑图形](https://zh.wikipedia.org/wiki/电脑图形 "wikilink")、[平行过程](https://zh.wikipedia.org/wiki/平行过程 "wikilink")、[计算机模拟飞行等重要成果的诞生地](https://zh.wikipedia.org/wiki/计算机模拟飞行 "wikilink")。
+1962年，（J.C.R.Licklider）离开MIT，加入ARPA，并在后来成为IPTO的首席执行官。也就是他在任期间将办公室名称从命令控制研究（Command and Control Research）改为IPTO。也就是在他任职期间，据估计，整个美国计算机科学领域研究的70%由ARPA赞助，并在许多人看来与一个严格意义上的军事机构相去甚远，并给许多研究者自由领域来实验，结果ARPA不仅成为网络诞生地，同样也是[电脑图形](https://zh.wikipedia.org/wiki/电脑图形 "wikilink")、[平行过程](https://zh.wikipedia.org/wiki/平行过程 "wikilink")、[计算机模拟飞行等重要成果的诞生地](https://zh.wikipedia.org/wiki/计算机模拟飞行 "wikilink")。
 
 1964年伊凡·沙日尔兰德（Ivan Sutherland）继任担任该处处长，两年后的上任，他在任职期间萌发了新型计算机网络的想法，并筹集资金启动试验。在鲍勃·泰勒的一再邀请下，日后成为“阿帕网之父”的出任信息处理处处长。
 

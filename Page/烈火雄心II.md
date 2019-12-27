@@ -1387,9 +1387,21 @@ Gary之前女友<br />
 
 ## 小趣事
 
-本劇中奇怪地亦同上集《[烈火雄心](https://zh.wikipedia.org/wiki/烈火雄心 "wikilink")》一樣近半角色的名字均取自香港的公共屋邨、居屋及私人屋苑的名稱。較明顯的例子包括紀德田－[德田邨](../Page/德田邨.md "wikilink")、紀興田－[興田邨](../Page/興田邨.md "wikilink")、唐明－[唐明苑](https://zh.wikipedia.org/wiki/唐明苑 "wikilink")、 鍾茵怡－ [茵怡花園](../Page/茵怡花園.md "wikilink")、關安蔭－[安蔭邨](../Page/安蔭邨.md "wikilink")、蔡南豐－[南豐新邨](../Page/南豐新邨.md "wikilink")等等。
+本劇中亦同上輯《[烈火雄心](https://zh.wikipedia.org/wiki/烈火雄心 "wikilink")》一樣，部分角色名字均取自香港的公共屋邨、居屋、私人屋苑、鄉村以及街道的名稱，尤其是本劇大部分主角均有此種現象。
 
-此外，本劇的消防局《鰂魚涌消防局》、《火炭消防局》、《碧瑤消防局》、及《蝴蝶灣滅火輪消防局》全是虛構出來，劇中的「碧瑤消防局」現實名稱為「薄扶林消防局」，與碧瑤灣約有一公里距離。而劇中早期部份取景就用「北角消防局」去替代「鰂魚涌消防局」。「火炭消防局」現實名稱為「沙田消防局」。而蝴蝶灣滅火輪消防局則取景於屯門滅火輪消防局。
+  - 紀德田—[德田邨](../Page/德田邨.md "wikilink")
+  - 紀興田—[興田邨](../Page/興田邨.md "wikilink")
+  - 唐明—[唐明苑](https://zh.wikipedia.org/wiki/唐明苑 "wikilink")
+  - 鍾茵怡—[茵怡花園](../Page/茵怡花園.md "wikilink")
+  - 關安蔭—[安蔭邨](../Page/安蔭邨.md "wikilink")
+  - 蔡南豐—[南豐新邨](../Page/南豐新邨.md "wikilink")
+  - 江逸雅—[逸雅苑](https://zh.wikipedia.org/wiki/逸雅苑 "wikilink")
+  - 王碧霞—[碧霞花園](https://zh.wikipedia.org/wiki/碧霞花園 "wikilink")
+  - 何寶琳—[寶林邨](../Page/寶林邨.md "wikilink")/[寶琳路](../Page/寶琳路.md "wikilink")
+  - 康珊—[康山花園](../Page/康山花園.md "wikilink")/[康山道](https://zh.wikipedia.org/wiki/康山道 "wikilink")
+  - 梁孟功—[孟公屋](../Page/孟公屋.md "wikilink")
+
+此外，本劇的消防局《鰂魚涌消防局》、《火炭消防局》、《碧瑤消防局》、及《蝴蝶灣滅火輪消防局》均是虛構，劇中的「碧瑤消防局」現實名稱為「薄扶林消防局」，與碧瑤灣約有一公里距離。而劇中早期部份取景就以「北角消防局」替代「鰂魚涌消防局」。「火炭消防局」現實名稱為「沙田消防局」。而「蝴蝶灣滅火輪消防局」則取景於「屯門滅火輪消防局」。
 
 ## 參考資料
 

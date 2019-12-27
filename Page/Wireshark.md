@@ -32,8 +32,8 @@ Ethereal 在經過幾次中斷開發的事件過後，終於在1998年7月釋出
 
 ## 另見
 
-  - [Pcap](https://zh.wikipedia.org/wiki/Pcap "wikilink"):與Wireshark搭配使用的封包截取程式
-  - [tcpdump](https://zh.wikipedia.org/wiki/tcpdump "wikilink"):命令行下的封包分析工具。
+  - [Pcap](https://zh.wikipedia.org/wiki/Pcap "wikilink")：與Wireshark搭配使用的封包截取程式
+  - [tcpdump](https://zh.wikipedia.org/wiki/tcpdump "wikilink")：命令行下的封包分析工具。
 
 ## 延伸導讀
 

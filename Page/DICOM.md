@@ -92,7 +92,8 @@ DICOM支持的設備有下列項目：
 
   - [LOINC](https://zh.wikipedia.org/wiki/LOINC "wikilink")
   - [HL7](https://zh.wikipedia.org/wiki/HL7 "wikilink")
-  - [IHE](https://zh.wikipedia.org/wiki/IHE "wikilink")
+  - [IHE](https://zh.wikipedia.org/wiki/IHE "wikilink") (https://en.wikipedia.org/wiki/Integrating_the_Healthcare_Enterprise)
   - [HIPAA](https://zh.wikipedia.org/wiki/HIPAA "wikilink")
+  - [FHIR](https://zh.wikipedia.org/wiki/FHIR "wikilink")
 
 [Category:医学成像](https://zh.wikipedia.org/wiki/Category:医学成像 "wikilink") [Category:医学信息学](https://zh.wikipedia.org/wiki/Category:医学信息学 "wikilink")

@@ -67,7 +67,7 @@ DJ2型电力机车采用交流辅助电路系统，机车上设有一台TGF9A型
 
   - [「中原之星」及「奧星」](http://www.56.com/u73/v_MTI0NDYxNjY.html)
 
-[Category:中车株机制铁路机车](https://zh.wikipedia.org/wiki/Category:中车株机制铁路机车 "wikilink") [Category:Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo軸式機車 "wikilink") [Category:25千伏50赫兹交流电力机车](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力机车 "wikilink") [Category:郑州铁路局](https://zh.wikipedia.org/wiki/Category:郑州铁路局 "wikilink") [Category:其他中国电力机车](https://zh.wikipedia.org/wiki/Category:其他中国电力机车 "wikilink")
+[Category:中车株机制铁路机车](https://zh.wikipedia.org/wiki/Category:中车株机制铁路机车 "wikilink") [Category:Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo軸式機車 "wikilink") [Category:25千伏50赫兹交流电力机车](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力机车 "wikilink") [Category:中国铁路郑州局集团有限公司](https://zh.wikipedia.org/wiki/Category:中国铁路郑州局集团有限公司 "wikilink") [Category:其他中国电力机车](https://zh.wikipedia.org/wiki/Category:其他中国电力机车 "wikilink")
 
 1.
 2.

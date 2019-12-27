@@ -24,7 +24,7 @@
 
 #### 台灣
 
-[DAF_Linkou_Service_Center_20160725.jpg](https://zh.wikipedia.org/wiki/File:DAF_Linkou_Service_Center_20160725.jpg "fig:DAF_Linkou_Service_Center_20160725.jpg") [Kerry_TJ_(DAF).jpg](https://zh.wikipedia.org/wiki/File:Kerry_TJ_\(DAF\).jpg "fig:Kerry_TJ_(DAF).jpg")
+[DAF_Linkou_Service_Center_20160725.jpg](https://zh.wikipedia.org/wiki/File:DAF_Linkou_Service_Center_20160725.jpg "fig:DAF_Linkou_Service_Center_20160725.jpg") [Kerry_TJ_(DAF).jpg](https://zh.wikipedia.org/wiki/File:Kerry_TJ_\(DAF\).jpg "fig:Kerry_TJ_(DAF).jpg")[P_20190725_072732.jpg](https://zh.wikipedia.org/wiki/File:P_20190725_072732.jpg "fig:P_20190725_072732.jpg")
 
   - 1985年至1992年，總力易商引進DAF貨車底盤、巴士底盤及曳引車三百餘台，在市場上販售；後因售後服務力有未逮，而逐漸沒落\[1\]。
   - 2005年[台塑集團開始與DAF合作重新引進台灣市場](https://zh.wikipedia.org/wiki/台塑集團 "wikilink")。

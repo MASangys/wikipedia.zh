@@ -47,7 +47,7 @@ FeliCa是使用13.56MHz频率的非接觸式無線電[RFID技術](https://zh.wik
           -
             ※特急列車等可購入別途特急券等。但首都圈地域的[東武線直通特急](https://zh.wikipedia.org/wiki/日光號列車 "wikilink")，不可用於車費和特急料金。
       - 新幹線（下述只限Suica定期券與）
-          - （首）[東京站](https://zh.wikipedia.org/wiki/東京站 "wikilink")－[那須鹽原站](https://zh.wikipedia.org/wiki/那須鹽原站 "wikilink")、[上毛高原站](https://zh.wikipedia.org/wiki/上毛高原站 "wikilink")、[上越妙高站](https://zh.wikipedia.org/wiki/上越妙高站 "wikilink")\[6\]
+          - （首）[東京站](https://zh.wikipedia.org/wiki/東京站 "wikilink")－[那須鹽原站](https://zh.wikipedia.org/wiki/那須鹽原站 "wikilink")、[上毛高原站](../Page/上毛高原站.md "wikilink")、[上越妙高站](https://zh.wikipedia.org/wiki/上越妙高站 "wikilink")\[6\]
           - （仙）郡山站－[古川站](https://zh.wikipedia.org/wiki/古川站 "wikilink")\[7\]
           - （新）[長岡站](https://zh.wikipedia.org/wiki/長岡站 "wikilink")－[新潟站](../Page/新潟站.md "wikilink")\[8\]
         <!-- end list -->

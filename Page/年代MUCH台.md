@@ -63,55 +63,23 @@
 
 ### 綜藝
 
-<table>
-<thead>
-<tr class="header">
-<th><p>節目名稱</p></th>
-<th><p>主持人</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><center>
-<p>《<a href="https://zh.wikipedia.org/wiki/荳荳快樂學堂" title="wikilink">荳荳快樂學堂</a>》</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>《<a href="../Page/健康好生活.md" title="wikilink">健康好生活</a>》</p></td>
-<td><p><a href="../Page/陳凝觀.md" title="wikilink">陳凝觀</a></p></td>
-</tr>
-<tr class="odd">
-<td><center>
-<p>《<a href="../Page/MUCH金點秀.md" title="wikilink">MUCH金點秀</a>》</p></td>
-<td><p><a href="../Page/張秀卿.md" title="wikilink">張秀卿</a>、<a href="https://zh.wikipedia.org/wiki/邵大倫" title="wikilink">邵大倫</a></p></td>
-</tr>
-</tbody>
-</table>
+  - 《[荳荳快樂學堂](https://zh.wikipedia.org/wiki/荳荳快樂學堂 "wikilink")》
+  - 《[健康好生活](../Page/健康好生活.md "wikilink")》[陳凝觀](../Page/陳凝觀.md "wikilink")
+  - 《[MUCH金點秀](../Page/MUCH金點秀.md "wikilink")》[張秀卿](../Page/張秀卿.md "wikilink")、[邵大倫](https://zh.wikipedia.org/wiki/邵大倫 "wikilink")
 
 ### 戲劇
 
   - 中國大陸
 
-<table>
-<thead>
-<tr class="header">
-<th><p>中國大陸名稱</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><center>
-<p>《我的二哥二嫂》</p></td>
-</tr>
-</tbody>
-</table>
+<!-- end list -->
+
+  - 《我的二哥二嫂》
 
 ## 參考資料
 
 ## 外部連結
 
-  - [年代MUCH台](http://muchtv.eracom.com.tw/)
+  - [年代MUCH台](http://www.eracom.com.tw/MuchTV/Home/)
 
   -
 [Category:台灣電視播放頻道](https://zh.wikipedia.org/wiki/Category:台灣電視播放頻道 "wikilink") [Category:年代MUCH台](https://zh.wikipedia.org/wiki/Category:年代MUCH台 "wikilink") [Category:年代電視旗下頻道](https://zh.wikipedia.org/wiki/Category:年代電視旗下頻道 "wikilink") [Category:年代電視](https://zh.wikipedia.org/wiki/Category:年代電視 "wikilink")

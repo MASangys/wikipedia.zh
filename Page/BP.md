@@ -34,7 +34,7 @@
 
 [Steven_Koonin_BP_2005-02-22.jpg](https://zh.wikipedia.org/wiki/File:Steven_Koonin_BP_2005-02-22.jpg "fig:Steven_Koonin_BP_2005-02-22.jpg")
 
-2004年4月，BP决定把其大部分的石化产业整合成集团下一个单独实体，名为“[亿诺](http://www.innovene.com)”。目的是通过在美国[首次公开募股来出售新公司](https://zh.wikipedia.org/wiki/首次公开募股 "wikilink")，实际上他们在2005年9月12日向[纽约证券交易所](../Page/纽约证券交易所.md "wikilink")递交了首次公开募股计划。然后而，当年的10月7日，BP宣布他们同意以总价值90亿美元将亿诺卖给英国一家私营化工公司[英力士](https://zh.wikipedia.org/wiki/英力士 "wikilink")，因此放弃了首次公开募股计划\[10\]。
+2004年4月，BP决定把其大部分的石化产业整合成集团下一个单独实体，名为“[亿诺](http://www.innovene.com)”。目的是通过在美国[首次公开募股来出售新公司](https://zh.wikipedia.org/wiki/首次公开募股 "wikilink")，实际上他们在2005年9月12日向[纽约证券交易所](../Page/纽约证券交易所.md "wikilink")递交了首次公开募股计划。然后而，当年的10月7日，BP宣布他们同意以总价值90亿美元将亿诺卖给英国一家私营化工公司[英力士](../Page/英力士.md "wikilink")，因此放弃了首次公开募股计划\[10\]。
 
 2005年3月23日，位于[德克萨斯城的](https://zh.wikipedia.org/wiki/德克萨斯城，德州 "wikilink")[BP的德克萨斯城炼油厂发生爆炸](https://zh.wikipedia.org/wiki/德克萨斯城炼油厂（BP） "wikilink")。该炼油厂为美国第三大炼油厂，也是世界上最大的炼油厂之一，日处理原油，占美国汽油供应量的3%。100多人受伤，15人已确认罹难，除BP员工外，还包括[福乐公司的员工](https://zh.wikipedia.org/wiki/福乐公司 "wikilink")。BP已经接受了事故由于管理不当引起。液面指示器失灵，导致加热器超量填充，轻烃蔓延整个地区。一个无法确认的火源引起了爆炸\[11\]。
 

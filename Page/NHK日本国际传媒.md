@@ -45,7 +45,7 @@
 NHK日本国际传媒通过它的网站向访客提供其18种语言的对外广播在线收听、回看点播服务，同时也会通过其APP“NHK WORLD TV”进行中文和英文的灾害播报\[7\]；除此以外还提供以下服务：
 
   -
-    利用網際網路向全世界播送，主要播送[NHK World-Japan英語新聞頻道以及英語的日本相關資訊](https://zh.wikipedia.org/wiki/NHK_World-Japan "wikilink")，可直接透過[Apple App Store或](../Page/App_Store_\(iOS\).md "wikilink")[Google Play下載應用程式](../Page/Google_Play.md "wikilink")「NHK WORLD TV」。
+    利用網際網路向全世界播送，主要播送[NHK World-Japan英語新聞頻道以及英語的日本相關資訊](../Page/NHK_World-Japan_\(頻道\).md "wikilink")，可直接透過[Apple App Store或](../Page/App_Store_\(iOS\).md "wikilink")[Google Play下載應用程式](../Page/Google_Play.md "wikilink")「NHK WORLD TV」。
   -
     利用網際網路向全世界播送[日本國際廣播電台](https://zh.wikipedia.org/wiki/日本國際廣播電台 "wikilink")，並提供17國語言廣播資訊，可直接透過[Apple App Store或](../Page/App_Store_\(iOS\).md "wikilink")[Google Play下載應用程式](../Page/Google_Play.md "wikilink")「NHK WORLD RADIO JAPAN」。
   -

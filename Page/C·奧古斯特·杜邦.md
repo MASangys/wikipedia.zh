@@ -1,6 +1,4 @@
-**C·奧古斯特·杜邦**（C. Auguste Dupin）是登場於[愛倫·坡](https://zh.wikipedia.org/wiki/愛倫·坡 "wikilink")[推理小說](../Page/推理小說.md "wikilink")筆下的[偵探](../Page/名偵探.md "wikilink")。也被當成[小說世界裡的第一位偵探](https://zh.wikipedia.org/wiki/小說 "wikilink")。杜邦也成為許多後起者的典範（最出名的莫過於[夏洛克·福爾摩斯](https://zh.wikipedia.org/wiki/夏洛克·福爾摩斯 "wikilink")）。故事中杜邦是一位沒落[貴族](../Page/貴族.md "wikilink")，與他不知名諱的密友同住在[巴黎](../Page/巴黎.md "wikilink")，並由這位友人闡述偵探故事。
-
-許多推理小說所設計的模式可以由杜邦的冒險中看出端倪：行為古怪卻推理精闢的[私家偵探](https://zh.wikipedia.org/wiki/私家偵探 "wikilink")、常常犯錯的[警察](../Page/警察.md "wikilink")還有一位闡述探案故事的親密好友。杜邦也有著許多名偵探的共同特點，運用驚人的推理能力與觀察力緝兇。
+**C·奧古斯特·杜邦**（C. Auguste Dupin）是登場於[愛倫·坡](https://zh.wikipedia.org/wiki/愛倫·坡 "wikilink")[推理小說](../Page/推理小說.md "wikilink")筆下的[偵探](../Page/名偵探.md "wikilink")。也被當成[小說世界裡的第一位偵探](https://zh.wikipedia.org/wiki/小說 "wikilink")。杜邦也成為許多後起者的典範（最出名的莫過於[夏洛克·福爾摩斯](https://zh.wikipedia.org/wiki/夏洛克·福爾摩斯 "wikilink")）。故事中杜邦是一位沒落[貴族](../Page/貴族.md "wikilink")，與他不知名諱的密友同住在[巴黎](../Page/巴黎.md "wikilink")，並由這位友人闡述其偵探故事。許多推理小說所設計的模式可以由杜邦的冒險中看出端倪：行為古怪卻推理精闢的[私家偵探](https://zh.wikipedia.org/wiki/私家偵探 "wikilink")、常常犯錯的[警察](../Page/警察.md "wikilink")還有一位闡述探案故事的親密好友。杜邦也有著許多名偵探的共同特點，運用驚人的推理能力與觀察力緝兇。
 
 ## 登場作品
 

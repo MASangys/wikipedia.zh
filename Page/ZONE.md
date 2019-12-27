@@ -218,4 +218,4 @@
   - [Runtime歌迷俱樂部「HIGH-JUMP」網站](https://web.archive.org/web/20060615111434/http://www.fancube.gr.jp/high-jump/)
   - [FENDER OFFICIAL JAPAN](https://web.archive.org/web/20080115080236/http://www.fender.jp/)
 
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本有線大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本有線大獎最優秀新人獎獲獎者 "wikilink") [Category:BEST_HIT歌謠祭最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:BEST_HIT歌謠祭最優秀新人獎獲獎者 "wikilink")
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本有線大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本有線大獎最優秀新人獎獲獎者 "wikilink") [Category:BEST_HIT歌謠祭最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:BEST_HIT歌謠祭最優秀新人獎獲獎者 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink") [Category:1997年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1997年成立的音樂團體 "wikilink") [Category:2005年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2005年解散的音樂團體 "wikilink")

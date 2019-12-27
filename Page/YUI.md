@@ -1,6 +1,6 @@
 **YUI**（，），[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")、作曲人及多樂器演奏者，為[Stardust Promotion經紀公司旗下女歌手](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")，唱片公司為[SONY BMG及](https://zh.wikipedia.org/wiki/SONY_BMG "wikilink")[STUDIOSEVEN Recordings](https://zh.wikipedia.org/wiki/STUDIOSEVEN_Recordings "wikilink")，她以曲詞創作及演奏[結他為主](https://zh.wikipedia.org/wiki/結他 "wikilink")。她於[日本](../Page/日本.md "wikilink")[福岡縣出生及成長](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")，17歲時在家鄉的不同地方作現場表演，被[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")發掘，並在數月後推出她的首張單曲，然而她的單曲只獲得溫和成功。初出道的YUI並沒有甚麼人氣，但憑著《[LIFE](https://zh.wikipedia.org/wiki/LIFE_\(YUI单曲\) "wikilink")》一曲成為動畫系列《[BLEACH](../Page/BLEACH.md "wikilink")》的第五首片尾曲後，以及她推出《[Good-bye days](../Page/Good-bye_days.md "wikilink")》才得到突破的成功，歌曲在《[Oricon](../Page/Oricon.md "wikilink")榜》中停留44周，標誌著她成為日本樂壇新星之一\[1\]，及後她接拍電影《[太陽之歌](https://zh.wikipedia.org/wiki/太陽之歌#電影版 "wikilink")》而開始為人所熟悉。
 
-自《[From Me to You](https://zh.wikipedia.org/wiki/From_Me_to_You "wikilink")》開始，YUI的每張專輯都高踞流行榜榜首，並由2007年開始便至少有一首單曲成為冠軍單曲，包括2008年中至2011年末的五連勝紀錄\[2\]。出道初期的YUI與歌手[伊藤由奈](../Page/伊藤由奈.md "wikilink")、[木村KAELA](../Page/木村KAELA.md "wikilink")及[絢香](../Page/絢香.md "wikilink")被《[日經娛樂](https://zh.wikipedia.org/wiki/日經娛樂 "wikilink")》雜誌封為「日本樂壇新生代四天-{后}-」。她在[日本](../Page/日本.md "wikilink")及鄰近地區都很受歡迎，得到《[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")》的「最親愛的女藝人\[3\]」及《[MUSIC STATION](../Page/MUSIC_STATION.md "wikilink")》的「你最想跟她結婚的藝人\[4\]」投票選舉，還有[香港電台](../Page/香港電台.md "wikilink")的「最受歡迎日本藝人\[5\]」。YUI曾經在2008年8月宣布暫別樂壇，並在2009年3月宣布復出。其後在2012年11月再度宣布暫別樂壇。2013年，YUI與其他音樂人組成樂隊[FLOWER FLOWER在日本各地演出](https://zh.wikipedia.org/wiki/FLOWER_FLOWER "wikilink")，她在這次復出後以金色短髮的新形象示人\[6\]\[7\]。2015年4月17日，YUI在[FLOWER FLOWER官方網站日誌上宣佈與圈外人結婚並已懷孕的消息](https://zh.wikipedia.org/wiki/FLOWER_FLOWER "wikilink")\[8\]，同年8月宣佈誕下一對雙胞胎兒子\[9\]。2017年8月與丈夫離婚，結束為期兩年半的短暫婚姻。
+自《[From Me to You](https://zh.wikipedia.org/wiki/From_Me_to_You "wikilink")》開始，YUI的每張專輯都高踞流行榜榜首，並由2007年開始便至少有一首單曲成為冠軍單曲，包括2008年中至2011年末的五連勝紀錄\[2\]。出道初期的YUI與歌手[伊藤由奈](../Page/伊藤由奈.md "wikilink")、[木村KAELA](../Page/木村KAELA.md "wikilink")及[絢香](../Page/絢香.md "wikilink")被《[日經娛樂](https://zh.wikipedia.org/wiki/日經娛樂 "wikilink")》雜誌封為「日本樂壇新生代四天-{后}-」。她在[日本](../Page/日本.md "wikilink")及鄰近地區都很受歡迎，得到《[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")》的「最親愛的女藝人\[3\]」及《[MUSIC STATION](../Page/MUSIC_STATION.md "wikilink")》的「你最想跟她結婚的藝人\[4\]」投票選舉，還有[香港電台](../Page/香港電台.md "wikilink")的「最受歡迎日本藝人\[5\]」。YUI曾經在2008年8月宣布暫別樂壇，並在2009年3月宣布復出。其後在2012年11月再度宣布暫別樂壇。2013年，YUI與其他音樂人組成樂隊在日本各地演出，她在這次復出後以金色短髮的新形象示人\[6\]\[7\]。2015年4月17日，YUI在FLOWER FLOWER官方網站日誌上宣佈與圈外人結婚並已懷孕的消息\[8\]，同年8月宣佈誕下一對雙胞胎兒子\[9\]。2017年8月與丈夫離婚，結束為期兩年半的短暫婚姻。
 
 在音樂風格上，伊藤由奈及絢香相對擅長演唱高音域[節奏藍調及](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")[靈魂樂](../Page/靈魂樂.md "wikilink")，而YUI則代表[流行民謠及](https://zh.wikipedia.org/wiki/民間音樂 "wikilink")[搖滾樂的](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")。
 
@@ -96,7 +96,7 @@ YUI公布隨後推出的單曲是她參與了《NHK第79屆全國音樂合唱比
 
 ### 成為FLOWER FLOWER樂隊組合成員（2013年至今）
 
-2013年，YUI結束休假，並與其他音樂人組成樂隊FLOWER FLOWER，並隱姓埋名地在日本各地進行演出\[50\]，消息很快被爆出，樂隊隨後推出首張單曲《月》\[51\]，而她在這次復出後換上一個新的形象，以棕色短髮示人\[52\]\[53\]。
+2013年，YUI結束休假，並與其他音樂人組成樂隊，並隱姓埋名地在日本各地進行演出\[50\]，消息很快被爆出，樂隊隨後推出首張單曲《月》\[51\]，而她在這次復出後換上一個新的形象，以棕色短髮示人\[52\]\[53\]。
 
 2014年3月27日，YUI於其樂隊的網誌上透露，她已被診斷患有[恐慌症](../Page/恐慌症.md "wikilink")，導致一些表演演出被取消\[54\]\[55\] 。2014年8月，樂隊Flower Flower為五十嵐大介的人氣漫畫《小森食光》的電影四部曲之主題曲，由[橋本愛](../Page/橋本愛.md "wikilink")主演。據公司宣布，為了對應電影的上映日期，故發布主題曲《夏》、《秋》。同年11月，Flower Flower推出樂隊的首張專輯《實》，收錄他們的首張單曲《月》及其餘12首歌曲，包括TV東京電視劇《玉川區役所 OF THE DEAD》的片尾曲《素晴らしい世界》。
 
@@ -1066,8 +1066,9 @@ DVD內容：</p>
 
 ## 獲得獎項
 
-  - [第20回日本ゴールドディスク大賞](https://zh.wikipedia.org/wiki/w:ja:日本ゴールドディスク大賞 "wikilink") ニュー・アーティスト・オブ・ザ・イヤー (new artist of the year 最佳新人獎)\[62\]
-  - [第30回日本アカデミー賞](https://zh.wikipedia.org/wiki/w:ja:第30回日本アカデミー賞 "wikilink") 新人俳優賞（「[太陽之歌](../Page/太陽之歌.md "wikilink")」）\[63\]
+  - 第20回[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink") 年度最佳新人\[62\]
+  - [第30屆日本電影學院獎](../Page/第30屆日本電影學院獎.md "wikilink") 新人俳優賞 - 《太陽之歌》\[63\]
+  - 第11回 日本電影部門新人獎 - 《太陽之歌》\[64\]
   - [IFPI香港唱片銷量大獎](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎 "wikilink")2007 「最暢銷日韓語唱片」- **YUI - CAN'T BUY MY LOVE**
   - [香港電台](../Page/香港電台.md "wikilink")「第二十二屆國際流行音樂大獎」「Top Japanese Gold Song最受歡迎日本金曲 - 銀獎Silver prize」（得獎作品：[Please Stay With Me](https://zh.wikipedia.org/wiki/Please_Stay_With_Me "wikilink")）及「Top Japanese New Act最受歡迎日本新人∕組合 - 金獎Gold prize」
 
@@ -1089,7 +1090,7 @@ DVD內容：</p>
 
   - [YUI香港官方網站](https://web.archive.org/web/20070927092739/http://www.sonybmg.com.hk/yui/)
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink") [Category:日本女演員](https://zh.wikipedia.org/wiki/Category:日本女演員 "wikilink") [Category:日本電影演員](https://zh.wikipedia.org/wiki/Category:日本電影演員 "wikilink") [Category:福岡縣出身人物](https://zh.wikipedia.org/wiki/Category:福岡縣出身人物 "wikilink") [Category:日本電影學院獎新人獎得主](https://zh.wikipedia.org/wiki/Category:日本電影學院獎新人獎得主 "wikilink") [Category:日本女性作曲家](https://zh.wikipedia.org/wiki/Category:日本女性作曲家 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink") [Category:日本女演員](https://zh.wikipedia.org/wiki/Category:日本女演員 "wikilink") [Category:日本電影演員](https://zh.wikipedia.org/wiki/Category:日本電影演員 "wikilink") [Category:福岡縣出身人物](https://zh.wikipedia.org/wiki/Category:福岡縣出身人物 "wikilink") [Category:日本電影學院獎新人獎得主](https://zh.wikipedia.org/wiki/Category:日本電影學院獎新人獎得主 "wikilink") [Category:日本女性作曲家](https://zh.wikipedia.org/wiki/Category:日本女性作曲家 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink") [Category:SCHOOL_OF_LOCK\!](https://zh.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink")
 
 1.
 2.
@@ -1154,3 +1155,4 @@ DVD內容：</p>
 61. [搖滾小天后YUI下月開巡迴](http://appledaily.atnext.com/template/apple/art_main.cfm?iss_id=20080411&sec_id=462&subsec_id=465&art_id=10974340) 《[蘋果日報 (香港)](../Page/蘋果日報_\(香港\).md "wikilink")》2008年4月11日 C26版
 62.
 63.
+64.

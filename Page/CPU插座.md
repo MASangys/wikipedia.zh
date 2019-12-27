@@ -680,7 +680,7 @@ Intel <a href="https://zh.wikipedia.org/wiki/Broadwell" title="wikilink">Broadwe
 <td><p>第一代 AMD 低功耗 APU</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+<td><p><a href="../Page/LGA_1151.md" title="wikilink">LGA 1151</a></p></td>
 <td><p>2015</p></td>
 <td><p>現在還在使用</p></td>
 <td><p>Intel <a href="../Page/Skylake微架構.md" title="wikilink">Skylake微架構</a>及<a href="https://zh.wikipedia.org/wiki/Kaby_Lake" title="wikilink">Kaby Lake微架構</a></p></td>

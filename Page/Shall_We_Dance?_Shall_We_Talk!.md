@@ -44,7 +44,7 @@
 
   - 2001年度[叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/叱吒樂壇流行榜頒獎典禮 "wikilink") - 至尊唱片大獎
   - [四台聯頒音樂大獎](../Page/四台聯頒音樂大獎.md "wikilink")2001 - 大碟獎
-  - [IFPI香港唱片銷量大獎](https://zh.wikipedia.org/wiki/IFPI "wikilink")2001 - 十大銷量廣東唱片
+  - [IFPI香港唱片銷量大獎](https://zh.wikipedia.org/wiki/IFPI "wikilink")2001 - 十大銷量廣東唱片\[1\]
 
 ### 歌曲《2001太空漫遊》
 
@@ -69,3 +69,5 @@
   - 2001年度無線電視兒歌金曲頒獎典禮 - 十大兒歌金曲
 
 [Category:陳奕迅音樂專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅音樂專輯 "wikilink") [Category:陳奕迅粵語專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅粵語專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink")
+
+1.

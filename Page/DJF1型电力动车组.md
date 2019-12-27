@@ -256,7 +256,7 @@ RZ<sub>25DD</sub> 110965</p></td>
 
   - [四方机车车辆厂：160km/h动力分散电动车组](https://web.archive.org/web/20041010145443/http://www.cqsf.com/showprod.jsp?id=46&class=303)
 
-[Category:中国电力动车组](https://zh.wikipedia.org/wiki/Category:中国电力动车组 "wikilink") [Category:中车株机制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车株机制铁路车辆 "wikilink") [Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink") [Category:郑州铁路局](https://zh.wikipedia.org/wiki/Category:郑州铁路局 "wikilink")
+[Category:中国电力动车组](https://zh.wikipedia.org/wiki/Category:中国电力动车组 "wikilink") [Category:中车株机制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车株机制铁路车辆 "wikilink") [Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink") [Category:中国铁路郑州局集团有限公司](https://zh.wikipedia.org/wiki/Category:中国铁路郑州局集团有限公司 "wikilink")
 
 1.
 2.

@@ -47,6 +47,10 @@
 
 ## 相關獎項及提名
 
+### 專輯《Human我生》
+
+  - 2006年度IFPI十大銷量廣東唱片\[1\]
+
 ### 歌曲《愛得太遲》
 
   - 第二十九屆十大中文金曲頒獎典禮 — 全球華人至尊金曲獎
@@ -78,3 +82,5 @@
   - 2006勁歌金曲優秀選第二回 - 得獎歌曲《花灑》
 
 [Category:古巨基音樂專輯](https://zh.wikipedia.org/wiki/Category:古巨基音樂專輯 "wikilink") [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+
+1.  [www.ifpihk.org](http://www.ifpihk.org/hong-kong-top-sales-music-award-presented-01-11/hong-kong-top-sales-music-award-presented/2006)
