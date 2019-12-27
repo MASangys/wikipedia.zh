@@ -48,7 +48,7 @@ __NOTOC__ |} |valign="top" style="width:250px"|
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/Portal:日本" title="wikilink">日本主題</a></li>
+<li><a href="../Page/Portal:日本.md" title="wikilink">日本主題</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/WP:JP" title="wikilink">日本專題</a>／<a href="https://zh.wikipedia.org/wiki/Wikipedia:新闻事件专题" title="wikilink">新聞事件專題</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/Wikipedia:日本維基人佈告板" title="wikilink">佈告板</a>／<a href="https://zh.wikipedia.org/wiki/Wikipedia:日本專題/評級" title="wikilink">評比</a></li>
 <li><a href="../Page/日本历史年表.md" title="wikilink">日本历史年表</a>／<a href="https://zh.wikipedia.org/wiki/Category:每年日本" title="wikilink">每年日本</a></li>

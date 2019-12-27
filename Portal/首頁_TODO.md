@@ -1,7 +1,7 @@
 ## 如何建立
 
   - <font color=red>注意</font>： 建立[主題前](https://zh.wikipedia.org/wiki/Wikipedia:主題 "wikilink")，請確保你有維護主題頁的決心，建立後不會棄之不顧。可以尽量先创建大家比较关注的首页，这样可以保证有相当的人手来维护。若創建超過三個月仍嚴重未完成的主題，很可能會面臨提刪的命運。
-  - **提示**：請主題創建者於頁面創建後，同時發布[工作進展](https://zh.wikipedia.org/wiki/Template:工作進展 "wikilink")、[主題數與](https://zh.wikipedia.org/wiki/Template:主題首頁數 "wikilink")[主題列表](https://zh.wikipedia.org/wiki/Portal:首頁/列表 "wikilink")，這樣大家才知道您所創建之主題，以便於後續共同維護作業。
+  - **提示**：請主題創建者於頁面創建後，同時發布[工作進展](../Page/Template:工作進展.md "wikilink")、[主題數與](https://zh.wikipedia.org/wiki/Template:主題首頁數 "wikilink")[主題列表](https://zh.wikipedia.org/wiki/Portal:首頁/列表 "wikilink")，這樣大家才知道您所創建之主題，以便於後續共同維護作業。
 
 如你想建立「某題目」的主題頁：
 
@@ -75,7 +75,7 @@
 
 ### 主題頁版面的各區塊
 
-  - 主題頁版面的各區塊應該要使用模板技術，以方便維護該主題頁。（相關範例請參考[Portal:飲食或](https://zh.wikipedia.org/wiki/Portal:飲食 "wikilink")[Portal:電子學](https://zh.wikipedia.org/wiki/Portal:電子學 "wikilink")）
+  - 主題頁版面的各區塊應該要使用模板技術，以方便維護該主題頁。（相關範例請參考[Portal:飲食](../Page/Portal:飲食.md "wikilink")或[Portal:電子學](../Page/Portal:電子學.md "wikilink")）
 
 <!-- end list -->
 

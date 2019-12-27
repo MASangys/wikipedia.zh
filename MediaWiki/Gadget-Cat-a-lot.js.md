@@ -7,7 +7,7 @@
 `* RegExes by Ilmari Karonen`
 `* Completely rewritten by DieBuche`
 `*`
-`* Requires `[`MediaWiki:Gadget-SettingsManager.js`](../Page/MediaWiki:Gadget-SettingsManager.js.md "wikilink")` and `[`MediaWiki:Gadget-SettingsUI.js`](../Page/MediaWiki:Gadget-SettingsUI.js.md "wikilink")` (properly registered) for per-user-settings`
+`* Requires `[`MediaWiki:Gadget-SettingsManager.js`](../MediaWiki/Gadget-SettingsManager.js.md "wikilink")` and `[`MediaWiki:Gadget-SettingsUI.js`](../MediaWiki/Gadget-SettingsUI.js.md "wikilink")` (properly registered) for per-user-settings`
 `*`
 `* READ THIS PAGE IF YOU WANT TO TRANSLATE OR USE THIS ON ANOTHER SITE:`
 `* `<http://commons.wikimedia.org/wiki/MediaWiki:Gadget-Cat-a-lot.js/translating>

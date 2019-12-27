@@ -10,9 +10,9 @@
 `*`
 `* @see: `[`Wikipedia:RefToolbar`](https://zh.wikipedia.org/wiki/Wikipedia:RefToolbar "wikilink")
 `* @see: `[`MediaWiki:RefToolbar.js`](https://zh.wikipedia.org/wiki/MediaWiki:RefToolbar.js "wikilink")
-`* @see: `[`MediaWiki:RefToolbarConfig.js`](https://zh.wikipedia.org/wiki/MediaWiki:RefToolbarConfig.js "wikilink")
+`* @see: `[`MediaWiki:RefToolbarConfig.js`](../MediaWiki/RefToolbarConfig.js.md "wikilink")
 `* @see: `[`MediaWiki:RefToolbarLegacy.js`](https://zh.wikipedia.org/wiki/MediaWiki:RefToolbarLegacy.js "wikilink")
-`* @see: `[`MediaWiki:RefToolbarMessages-en.js`](https://zh.wikipedia.org/wiki/MediaWiki:RefToolbarMessages-en.js "wikilink")
+`* @see: `[`MediaWiki:RefToolbarMessages-en.js`](../MediaWiki/RefToolbarMessages-en.js.md "wikilink")
 `* @see: `[`MediaWiki:RefToolbarMessages-de.js`](https://zh.wikipedia.org/wiki/MediaWiki:RefToolbarMessages-de.js "wikilink")
 `* @see: `[`MediaWiki:Gadget-refToolbarBase.js`](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-refToolbarBase.js "wikilink")
 `* @author: `[`User:Mr.Z-man`](https://zh.wikipedia.org/wiki/User:Mr.Z-man "wikilink")
