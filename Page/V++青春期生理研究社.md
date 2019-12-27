@@ -8,7 +8,7 @@
 
 ## 參考資料
 
-[Category:中国小说](https://zh.wikipedia.org/wiki/Category:中国小说 "wikilink") [Category:性教育题材作品](https://zh.wikipedia.org/wiki/Category:性教育题材作品 "wikilink") [Category:天漫·轻小说](https://zh.wikipedia.org/wiki/Category:天漫·轻小说 "wikilink") [Category:2010年小說](https://zh.wikipedia.org/wiki/Category:2010年小說 "wikilink")
+[Category:2012年中国小说](https://zh.wikipedia.org/wiki/Category:2012年中国小说 "wikilink") [Category:性教育题材作品](https://zh.wikipedia.org/wiki/Category:性教育题材作品 "wikilink") [Category:天漫·轻小说](https://zh.wikipedia.org/wiki/Category:天漫·轻小说 "wikilink")
 
 1.
 2.
