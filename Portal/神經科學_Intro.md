@@ -4,7 +4,7 @@
 
 </div>
 
-**神經科學**，又稱**神經生物學**，是專門研究[神經系統的](https://zh.wikipedia.org/wiki/神經系統 "wikilink")[結構](https://zh.wikipedia.org/wiki/結構 "wikilink")、[功能](../Page/功能.md "wikilink")、[发育](https://zh.wikipedia.org/wiki/发育 "wikilink")、[演化](../Page/演化.md "wikilink")、[遗传学](../Page/遗传学.md "wikilink")、[生物化學](https://zh.wikipedia.org/wiki/生物化學 "wikilink")、[生理學](https://zh.wikipedia.org/wiki/生理學 "wikilink")、[藥理學及](https://zh.wikipedia.org/wiki/藥理學 "wikilink")[病理學的一门科学](https://zh.wikipedia.org/wiki/病理學 "wikilink")。對行為及學習的研究都是神經科學的分支。
+**神經科學**，又稱**神經生物學**，是專門研究[神經系統的](https://zh.wikipedia.org/wiki/神經系統 "wikilink")[結構](https://zh.wikipedia.org/wiki/結構 "wikilink")、、[发育](https://zh.wikipedia.org/wiki/发育 "wikilink")、[演化](../Page/演化.md "wikilink")、[遗传学](../Page/遗传学.md "wikilink")、[生物化學](https://zh.wikipedia.org/wiki/生物化學 "wikilink")、[生理學](https://zh.wikipedia.org/wiki/生理學 "wikilink")、[藥理學及](https://zh.wikipedia.org/wiki/藥理學 "wikilink")[病理學的一门科学](https://zh.wikipedia.org/wiki/病理學 "wikilink")。對行為及學習的研究都是神經科學的分支。
 
 對人腦研究是個跨領域的範疇，當中涉及分子層面、細胞層面、神經小組、大型神經系統，如[視覺神經系統](https://zh.wikipedia.org/wiki/視覺神經系統 "wikilink")、[腦幹](../Page/腦幹.md "wikilink")、[腦皮層](https://zh.wikipedia.org/wiki/腦皮層 "wikilink")。
 
