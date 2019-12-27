@@ -25,7 +25,7 @@
 
 ```
 
-mw.loader.using(['jquery.ui.dialog', 'jquery.ui.progressbar']).then(function () {
+mw.loader.using(['jquery.ui']).then(function () {
     'use strict';
 
     var LTUI;

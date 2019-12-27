@@ -98,8 +98,8 @@
 `               PAGENOTCHANGED: '无法更改页面',`
 `               SUCCESS: '成功',`
 `               WARNING: '警告：在您决定提交之前，请您认真检查上下文是否正确，并且您需要主动承担编辑错误的后果（如果程序正常的话）。建议先点击“显示更改”以检查变更。是否决定直接提交？',`
-`               SUMMARY: '`[`摘掉`](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-fixlinkstyle.js "wikilink")`：共$1个跨语言链接',`
-`               SUMMARY2: '`[`清理`](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-fixlinkstyle.js "wikilink")`$1个跨语言链接',`
+`               SUMMARY: '`[`摘掉`](../MediaWiki/Gadget-fixlinkstyle.js.md "wikilink")`：共$1个跨语言链接',`
+`               SUMMARY2: '`[`清理`](../MediaWiki/Gadget-fixlinkstyle.js.md "wikilink")`$1个跨语言链接',`
 `               AND: '和',`
 `               UNDO: '撤销',`
 `               TITLELINKS: '$1个标题链接'`
@@ -172,8 +172,8 @@
 `               PAGENOTCHANGED: '無法更改頁面',`
 `               SUCCESS: '成功',`
 `               WARNING: '警告：在您決定提交之前，請您認真檢查上下文是否正確，並且您需要主動承擔編輯錯誤的後果（如果程式正常的話）。建議先點擊「查看差異」以檢查變更。是否決定直接提交？',`
-`               SUMMARY: '`[`摘掉`](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-fixlinkstyle.js "wikilink")`模板：共$1個跨語言連結',`
-`               SUMMARY2: '`[`清理`](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-fixlinkstyle.js "wikilink")`$1個跨語言連結',`
+`               SUMMARY: '`[`摘掉`](../MediaWiki/Gadget-fixlinkstyle.js.md "wikilink")`模板：共$1個跨語言連結',`
+`               SUMMARY2: '`[`清理`](../MediaWiki/Gadget-fixlinkstyle.js.md "wikilink")`$1個跨語言連結',`
 `               AND: '和',`
 `               UNDO: '還原',`
 `               TITLELINKS: '$1個標題連結'`

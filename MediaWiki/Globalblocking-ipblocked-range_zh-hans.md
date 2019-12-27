@@ -23,7 +23,6 @@ __NOEDITSECTION____NOTOC__
 <p><strong>怎么办？</strong></p>
 </div>
 <ul>
-<li>通常情况下，<strong><a href="https://zh.wikipedia.org/wiki/Special:Login" title="wikilink">登录即可绕过这个封禁</a>。</strong></li>
 <li>直接访问维基百科，不经过代理服务。</li>
 </ul>
 <ul>
