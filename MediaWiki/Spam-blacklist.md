@@ -11,6 +11,7 @@
  #   * Everything from a "#" character to the end of the line is a comment
  #   * Every non-blank line is a regex fragment which will only match hosts inside URL
 
+\bmanagertoday\.com\.tw\b # curid=689345 history
 \btaocao\.cn\b # 125.227.38.22
 \bbountypr\.com\b
 \bwww\.patea\.tips\b # 172.104.98.195 203.90.233.5
@@ -965,8 +966,6 @@
 \bfqz999\.com\b # [[Special:Contributions/怀念亦是怀念|Special:Contributions/怀念亦是怀念]]
 \bjzxfy\.com\b # [[Special:Contributions/怀念亦是怀念|Special:Contributions/怀念亦是怀念]]
 \bbjfbyy\.com\b # [[Special:Contributions/怀念亦是怀念|Special:Contributions/怀念亦是怀念]]
-\bhynews\.net\b # [[Special:Contributions/陈银魁|Special:Contributions/陈银魁]]
-\bnewsyc\.com\b # [[Special:Contributions/陈银魁|Special:Contributions/陈银魁]]
 \bzhjiakang\.com\b # [[Special:用户贡献/翟章锁|Special:用户贡献/翟章锁]]
 \bwjjiakang\.com\b # [[Special:用户贡献/翟章锁|Special:用户贡献/翟章锁]]
 \bfeibing999\.com\b # [[Special:用户贡献/翟章锁|Special:用户贡献/翟章锁]] [[Special:Contributions/陈银魁|Special:Contributions/陈银魁]]

@@ -10,14 +10,7 @@
   -
     inactive|<span style="font-size: 13pt; font-variant:small-caps; font-family:Arial">[Ben](https://zh.wikipedia.org/wiki/User:Bencmq "wikilink").[mq](https://zh.wikipedia.org/wiki/User_talk:Bencmq "wikilink")</span>
     inactive|[Gakmo](https://zh.wikipedia.org/wiki/User:Gakmo "wikilink")（[留言](https://zh.wikipedia.org/wiki/User_talk:Gakmo "wikilink")）
-
-<!-- end list -->
-
-  - [JeanHavoc](https://zh.wikipedia.org/wiki/User:JeanHavoc "wikilink")（[留言](https://zh.wikipedia.org/wiki/User_talk:JeanHavoc "wikilink")）
-
-<!-- end list -->
-
-  -
+    inactive|[JeanHavoc](https://zh.wikipedia.org/wiki/User:JeanHavoc "wikilink")（[留言](https://zh.wikipedia.org/wiki/User_talk:JeanHavoc "wikilink")）
     inactive|[<font color="#6666FF">Ｌｏｋｉ</font>](https://zh.wikipedia.org/wiki/User:Lokionly "wikilink")[<sup><font color="#66CC66">Talk</font></sup>](https://zh.wikipedia.org/wiki/User_talk:Lokionly "wikilink")
     inactive|[Stewart](https://zh.wikipedia.org/wiki/User:Stewart "wikilink")\~[惡龍](https://zh.wikipedia.org/wiki/User_talk:Stewart "wikilink")
     inactive|[張子房](https://zh.wikipedia.org/wiki/User:子房 "wikilink") ([煮酒論英雄](https://zh.wikipedia.org/wiki/User_talk:子房 "wikilink"))
@@ -62,7 +55,6 @@
     inactive|[<font color="#007FFF">**蓝色☆枫叶**</font>](https://zh.wikipedia.org/wiki/User:Blove_maple "wikilink")♂<sup>[<font color="#48272E">拉呱</font>](https://zh.wikipedia.org/wiki/User_talk:Blove_maple "wikilink")</sup>
     inactive|<font face='Verdana'>[Kegns](https://zh.wikipedia.org/wiki/User:Kegns "wikilink")</font>（[留言](https://zh.wikipedia.org/wiki/User_talk:Kegns "wikilink")）
     inactive|<B>[耶](https://zh.wikipedia.org/wiki/user:_yhz1221 "wikilink")[叶](https://zh.wikipedia.org/wiki/user_talk:_yhz1221 "wikilink")[爷](https://zh.wikipedia.org/wiki/Special:用户贡献/Yhz1221 "wikilink")[<font color="blue">♥GO BRUINS\!</font>](https://zh.wikipedia.org/wiki/UCLA "wikilink")</B>
-    inactive|<span style="color:darkblue">**[SnowKylin](https://zh.wikipedia.org/wiki/User:Snowkylin "wikilink")**</span>（[Li](https://zh.wikipedia.org/wiki/雪豹 "wikilink")|[Sn](https://zh.wikipedia.org/wiki/User_talk:Snowkylin "wikilink")|[Δ*H*](https://zh.wikipedia.org/wiki/Special:用户贡献/Snowkylin "wikilink")）
     inactive|[<span style="color:#00FF7F;font-family:Comic Sans MS;font-size: 14pt;">**CHEM**</span>](https://zh.wikipedia.org/wiki/User:jsjsjs1111 "wikilink").[<span style="color:#FF0000;">is</span>](../Page/Portal:化学.md "wikilink").[<span style="color:#007FFF;font-size: 14pt;">***TRY***</span>](https://zh.wikipedia.org/wiki/User_talk:jsjsjs1111 "wikilink")
     inactive|[章安德魯](https://zh.wikipedia.org/wiki/User:Ch.Andrew "wikilink")（[留言](https://zh.wikipedia.org/wiki/User_talk:Ch.Andrew "wikilink")）
     inactive|[Supaplex](https://zh.wikipedia.org/wiki/User:Supaplex "wikilink")（[留言](https://zh.wikipedia.org/wiki/User_talk:Supaplex "wikilink")）
@@ -71,10 +63,10 @@
     inactive|[<span style="font:83% Times;line-height:1.1em;border-radius:9em;padding:0 4em;box-shadow:0 2px 9px #999;background:#222;color:#777" lang="en">Bluedeck</span>](https://zh.wikipedia.org/wiki/User_talk:Bluedeck "wikilink") <small>祝福香港</small>
     inactive|[Yvtou](https://zh.wikipedia.org/wiki/User:Yvtou "wikilink")（[留言](https://zh.wikipedia.org/wiki/User_talk:Yvtou "wikilink")）
     inactive|[Wetrace歡迎參與](https://zh.wikipedia.org/wiki/User:Wetrace "wikilink")[人權專題](https://zh.wikipedia.org/wiki/WP:人權專題 "wikilink")
-    inactive|[♬Encore Melody♬](https://zh.wikipedia.org/wiki/User:Wasami007 "wikilink")（[留言](https://zh.wikipedia.org/wiki/User_talk:Wasami007 "wikilink")）
 
 <!-- end list -->
 
+  - [♬Encore Melody♬](https://zh.wikipedia.org/wiki/User:Wasami007 "wikilink")（[留言](https://zh.wikipedia.org/wiki/User_talk:Wasami007 "wikilink")）
   - [冥王歐西里斯](https://zh.wikipedia.org/wiki/User:S8321414 "wikilink")（[留言](https://zh.wikipedia.org/wiki/User_talk:S8321414 "wikilink")）
 
 <!-- end list -->
@@ -99,28 +91,25 @@
 <!-- end list -->
 
   -
-    inactive|[Fantasticfears](https://zh.wikipedia.org/wiki/User:Fantasticfears "wikilink")（[留言](https://zh.wikipedia.org/wiki/User_talk:Fantasticfears "wikilink")）
     inactive|[Chiefwei](https://zh.wikipedia.org/wiki/User:Chiefwei "wikilink")（[论](https://zh.wikipedia.org/wiki/User_talk:Chiefwei "wikilink") - [历](https://zh.wikipedia.org/wiki/Special:Contributions/Chiefwei "wikilink")）
     inactive|--[<font color="#08C428" face="Mincho">**脳補**</font>](https://zh.wikipedia.org/wiki/User:脳内補完 "wikilink")<font color="08C476">｡◕‿◕｡</font>[<span style="color:#007FFF">讨论</span>](https://zh.wikipedia.org/wiki/User_talk:脳内補完 "wikilink")
     inactive|[DGideas](https://zh.wikipedia.org/wiki/user:DGideas "wikilink")（[留言](https://zh.wikipedia.org/wiki/user_talk:DGideas "wikilink")）
     inactive|[<span style="color:blue; text-shadow:0 1px 1px black;">蓝灯</span>](https://zh.wikipedia.org/wiki/User:Lt2818 "wikilink") <sup>[留言](https://zh.wikipedia.org/wiki/User_talk:Lt2818 "wikilink")</sup>
-    inactive|[Wolffy chan](https://zh.wikipedia.org/wiki/User:Wolffy_chan "wikilink")（[留言](https://zh.wikipedia.org/wiki/User_talk:Wolffy_chan "wikilink")）
     inactive|<span style="font-family:'century gothic';background:Silver;border-radius:2em 0;">  [<span style="color:#FF0000">Ivy</span>Ӫ](https://zh.wikipedia.org/wiki/User:ivyxjc "wikilink")[<span style="color:#006374">xjc</span>](https://zh.wikipedia.org/wiki/User_talk:ivyxjc#top "wikilink")  </span>
     inactive|[<span style="color: #007FFF;">**Azunyan**</span>](https://zh.wikipedia.org/wiki/User:Yxyang93 "wikilink")([<span style="color: #007FFF;">留言</span>](https://zh.wikipedia.org/wiki/User_talk:Yxyang93 "wikilink"))
-    inactive|[小過兒](https://zh.wikipedia.org/wiki/User:Subscriptshoe9 "wikilink")（[留言](https://zh.wikipedia.org/wiki/User_talk:Subscriptshoe9 "wikilink")）
+
+<!-- end list -->
+
+  - [小過兒](https://zh.wikipedia.org/wiki/User:Subscriptshoe9 "wikilink")（[留言](https://zh.wikipedia.org/wiki/User_talk:Subscriptshoe9 "wikilink")）
+
+<!-- end list -->
+
+  -
     inactive|[2thuriel](https://zh.wikipedia.org/wiki/User:2thuriel "wikilink")（[留言](https://zh.wikipedia.org/wiki/User_talk:2thuriel "wikilink")）
 
 <!-- end list -->
 
   - —[<font color="#008B8B">关山</font>](https://zh.wikipedia.org/wiki/用戶:Davidzdh "wikilink") ([修書](https://zh.wikipedia.org/wiki/User_talk:Davidzdh "wikilink")) [<span style="background:crimson;color:white;padding:0 4px;border-radius:4px; font-size:small">同賀大典十三載､共書佳文千萬篇｡</span>](https://zh.wikipedia.org/wiki/:lzh: "wikilink")
-
-<!-- end list -->
-
-  -
-    inactive|[<span style="color:#00c10b;">*Good afternoon*</span>](https://zh.wikipedia.org/wiki/User:Good_afternoon "wikilink")<small>（[留言](https://zh.wikipedia.org/wiki/User_Talk:Good_afternoon "wikilink")）</small>
-
-<!-- end list -->
-
   - 砜中嘌呤的[白磷](https://zh.wikipedia.org/wiki/User:WhitePhosphorus "wikilink")<sub>[萃取](https://zh.wikipedia.org/wiki/User_talk:WhitePhosphorus "wikilink") [打谱](https://zh.wikipedia.org/wiki/Special:用户贡献/WhitePhosphorus "wikilink")</sub>
 
 <!-- end list -->
@@ -211,14 +200,7 @@
 
   -
     inactive|[S099001](https://zh.wikipedia.org/wiki/User:S099001 "wikilink")（[留言](https://zh.wikipedia.org/wiki/User_talk:S099001 "wikilink")）
-
-<!-- end list -->
-
-  - [<span style="color: #22C32E;">**小培**</span>](https://zh.wikipedia.org/wiki/User:Smallpei "wikilink") <sub>[<font color="#48D1CC">**吐槽區**</font>](https://zh.wikipedia.org/wiki/User_talk:Smallpei "wikilink") [<font color="#FF00FF">**簽名區**</font>](https://zh.wikipedia.org/wiki/用戶:Smallpei/訪客簽名區 "wikilink")</sub>
-
-<!-- end list -->
-
-  -
+    inactive| [<span style="color: #22C32E;">**小培**</span>](https://zh.wikipedia.org/wiki/User:Smallpei "wikilink") <sub>[<font color="#48D1CC">**吐槽區**</font>](https://zh.wikipedia.org/wiki/User_talk:Smallpei "wikilink") [<font color="#FF00FF">**簽名區**</font>](https://zh.wikipedia.org/wiki/用戶:Smallpei/訪客簽名區 "wikilink")</sub>
     inactive|——[Aotfs2013](https://zh.wikipedia.org/wiki/User:Aotfs2013 "wikilink") 留於
 
 <!-- end list -->
@@ -235,7 +217,7 @@
 
 <!-- end list -->
 
-  - [ꓢꓯꓠ](https://zh.wikipedia.org/wiki/U:Sanmosa "wikilink")[ꓟꓳ](https://zh.wikipedia.org/wiki/UT:Sanmosa "wikilink")[ꓢꓮ](https://zh.wikipedia.org/wiki/Special:Contribs/Sanmosa "wikilink") <sub>災難固首發於[荃灣](../Page/荃灣.md "wikilink")</sub>
+  - [-{亲}-](https://zh.wikipedia.org/wiki/U:Sanmosa "wikilink")，[-{我簽名那刻}-](https://zh.wikipedia.org/wiki/UT:Sanmosa "wikilink")[-{的時間是}-](https://zh.wikipedia.org/wiki/Special:Contribs/Sanmosa "wikilink")
   - [<font size="4.5" color="brown">**B**</font>](https://zh.wikipedia.org/wiki/U:Brror "wikilink")[<font size="4.5" color="brown">**r**</font>](https://zh.wikipedia.org/wiki/UT:Brror "wikilink")[<font color=brown>**<sub>2</sub>**</font>](https://zh.wikipedia.org/wiki/U:Brror/s "wikilink")
 
 <!-- end list -->
@@ -245,14 +227,13 @@
     inactive|[1233](https://zh.wikipedia.org/wiki/U:1233 "wikilink") <small>（[T](https://zh.wikipedia.org/wiki/UT:1233 "wikilink")</small> / <small>[C](https://zh.wikipedia.org/wiki/Special:Contributions/1233 "wikilink")）</small>
     inactive|[<span style="color: #0033FF;">**Soaring Swallow**</span>](https://zh.wikipedia.org/wiki/User:Soaring_swallow "wikilink")※[<span style="color: #FFBF00;">**给我留言**</span>](https://zh.wikipedia.org/wiki/User_talk:Soaring_swallow "wikilink")
     disallowed|--<span style="color:#343434">**期待有一天能回归现实生活的[<templatestyles src="Template:IPA/styles.css" /><span class="IPA">ŊGULS</span>](https://zh.wikipedia.org/wiki/Special:用户贡献/Ngguls "wikilink")**</span>
-    inactive|[<span style="color:#04b7ff;">채진</span>](https://zh.wikipedia.org/wiki/U:Jane9306 "wikilink")[<span style="color:#55d8a8;">이야</span>](https://zh.wikipedia.org/wiki/UT:Jane9306 "wikilink")·[<span style="color: #Ff5fa2;">TWICE❤</span>](https://zh.wikipedia.org/wiki/TWICE "wikilink")·[<span style="color: #fcc89b;">One In A Million \!</span>](https://zh.wikipedia.org/wiki/U:Jane9306/Sign "wikilink")
 
 <!-- end list -->
 
+  - [<span style="color:#04b7ff;">채진</span>](https://zh.wikipedia.org/wiki/U:Jane9306 "wikilink")[<span style="color:#55d8a8;">이야</span>](https://zh.wikipedia.org/wiki/UT:Jane9306 "wikilink")·[<span style="color: #Ff5fa2;">TWICE❤</span>](https://zh.wikipedia.org/wiki/TWICE "wikilink")·[<span style="color: #fcc89b;">One In A Million \!</span>](https://zh.wikipedia.org/wiki/U:Jane9306/Sign "wikilink")
   - \[\[U:Streetdeck|<span style="color:#800080;font-family:Comic Sans">*'Wright **</span>\]\][<span style="color:#1E90FF;font-family:Comic Sans">**Streetdeck**</span>](https://zh.wikipedia.org/wiki/UT:Streetdeck "wikilink") . <span style="color:#CCAC00">**HKers，加油！*'</span>
-  - [<font color="#FD99DB">Catherine Laurence</font>](https://zh.wikipedia.org/wiki/User:Catherine_Laurence "wikilink") [<sup><font color="#99dbfd">discussion</font></sup>](https://zh.wikipedia.org/wiki/User_talk:Catherine_Laurence "wikilink")
   - [<span style="font-family: Book Antiqua;color:#D200D2;"> **Vikarna**</span>](https://zh.wikipedia.org/wiki/User_talk:Vikarna "wikilink")
-  - —<span style="text-shadow:0 1px 5px #66F9CF">[Rowing](https://zh.wikipedia.org/wiki/U:Rowingbohe "wikilink")[bohe♬](https://zh.wikipedia.org/wiki/UT:Rowingbohe "wikilink")</span> <small>（[台州专题](https://zh.wikipedia.org/wiki/WP:TZ "wikilink")·[浙江专题](https://zh.wikipedia.org/wiki/WP:ZJ "wikilink")）</small>
+  - —<span style="text-shadow:0 1px 5px #66F9CF">[Rowing](https://zh.wikipedia.org/wiki/U:Rowingbohe "wikilink")[bohe♬](https://zh.wikipedia.org/wiki/UT:Rowingbohe "wikilink")</span> <small>祝贺[台州路桥机场](../Page/台州路桥机场.md "wikilink")改扩建工程开工（[台州专题](https://zh.wikipedia.org/wiki/WP:TZ "wikilink")）</small>
 
 <!-- end list -->
 
@@ -276,7 +257,14 @@
   - [AlexLeeCN](https://zh.wikipedia.org/wiki/User:AlexLeeCN "wikilink")（[留言](https://zh.wikipedia.org/wiki/User_talk:AlexLeeCN "wikilink")）
   - [<span style="color: #0029CC">**人人生來平等**</span>](https://zh.wikipedia.org/wiki/U:人人生來平等 "wikilink")[<font face="微軟正黑體" color="#FE0000" size="1">相信中華⚾</font>](../Page/中華成棒隊.md "wikilink")
   - [<span style="color:#FF69B4;font-family:arial">**奈威**</span>](https://zh.wikipedia.org/wiki/U:Nightwayyyyy "wikilink")[<span style="color:#1E90FF;font-family:arial">**空白鍵**</span>](https://zh.wikipedia.org/wiki/UT:Nightwayyyyy "wikilink")
-  - —— **[Eric Liu](https://zh.wikipedia.org/wiki/使用者:Ericliu1912 "wikilink")** <sub>（**[留言](https://zh.wikipedia.org/wiki/使用者討論:Ericliu1912 "wikilink")．[留名](https://zh.wikipedia.org/wiki/使用者:Ericliu1912#訪客芳名錄 "wikilink")．[學生會](https://zh.wikipedia.org/wiki/維基百科:維基學生會 "wikilink")**）</sub>
+
+<!-- end list -->
+
+  -
+    toolong|—— **[Eric Liu](https://zh.wikipedia.org/wiki/使用者:Ericliu1912 "wikilink")**<sub>編輯次數[突破二萬](https://zh.wikipedia.org/wiki/特殊:使用者貢獻/Ericliu1912 "wikilink")（**[留言](https://zh.wikipedia.org/wiki/使用者討論:Ericliu1912 "wikilink")．[留名](https://zh.wikipedia.org/wiki/使用者:Ericliu1912#訪客芳名錄 "wikilink")．[學生會](https://zh.wikipedia.org/wiki/維基百科:維基學生會 "wikilink")**）</sub>
+
+<!-- end list -->
+
   - <font face='Segoe UI'><span style="text-shadow:0 1px 3px#0066FF">-- [春去秋來](https://zh.wikipedia.org/wiki/U:Terry850324 "wikilink")</span>，<span style="text-shadow:0 1px 3px#33FF33">[何見冬也](https://zh.wikipedia.org/wiki/UT:Terry850324 "wikilink")</span>，[(🏸🏸🏸)](https://zh.wikipedia.org/wiki/WP:羽毛球專題 "wikilink")</font>
 
 <!-- end list -->
@@ -292,9 +280,11 @@
 
   -
     inactive|\<span style="margin:0 0.3em;padding:.1em .9em;background:linear-gradient(0,\#76e,\#6BF);color:\#FFE; font-size:.9em\>**\~ [<font color=#EFF>viz</font>](https://zh.wikipedia.org/wiki/U:viztor "wikilink")[<span style="color:#FFE;font-size:.8em;"> ✪</span>](https://zh.wikipedia.org/wiki/UT:viztor "wikilink")**</span>
+    inactive|**Wiki emoji | [<font color="black">🅔🅜🅞🅙🅘🅦🅘🅚🅘</font>](https://zh.wikipedia.org/wiki/User:Emojiwiki/r "wikilink")** <sub>[<font color="grey">不需犧～牲～</font>](https://zh.wikipedia.org/wiki/UT:Emojiwiki "wikilink")</sub> ♬[Main User](https://zh.wikipedia.org/wiki/User:Emojiwiki "wikilink")
 
 <!-- end list -->
 
-  - **Wiki emoji | [<font color="black">🅔🅜🅞🅙🅘🅦🅘🅚🅘</font>](https://zh.wikipedia.org/wiki/User:Emojiwiki/r "wikilink")** <sub>[<font color="grey">不需犧～牲～</font>](https://zh.wikipedia.org/wiki/UT:Emojiwiki "wikilink")</sub> ♬[Main User](https://zh.wikipedia.org/wiki/User:Emojiwiki "wikilink")
-  - [<span style="color:LIME;font:微軟正黑體">UsFTBu3TR</span>](https://zh.wikipedia.org/wiki/U:UsFTBu3TR "wikilink")（[<span style="color:#00BFFF">留言📩</span>](https://zh.wikipedia.org/wiki/UT:UsFTBu3TR "wikilink")）<sub>香港人·半退休</sub>
+  - <sub>來自香港的</sub>[<span style="color:#6A5ACD">**UsFTB</span><span style="color:#9ACD32">u3TR**</span>](https://zh.wikipedia.org/wiki/U:UsFTBu3TR "wikilink")（[<span style="color:#1e90ff">留言<sub>📩</sub></span>](https://zh.wikipedia.org/wiki/UT:UsFTBu3TR "wikilink")<sub>）</sub>
   - [Timmyboger](https://zh.wikipedia.org/wiki/User:Timmyboger "wikilink")（[留言](https://zh.wikipedia.org/wiki/User_talk:Timmyboger "wikilink")）
+  - [<span style="color: #383838;">**Weesteed**</span>](https://zh.wikipedia.org/wiki/User:Weesteed "wikilink")<sup><small>（[talk](https://zh.wikipedia.org/wiki/User_talk:Weesteed "wikilink")）</small></sup>
+  - [Daniel J Zhao](https://zh.wikipedia.org/wiki/User:Daniel_J_Zhao "wikilink")（[留言](https://zh.wikipedia.org/wiki/User_talk:Daniel_J_Zhao "wikilink")）
