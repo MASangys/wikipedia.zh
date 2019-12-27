@@ -8,6 +8,6 @@
 * 链接引用的位置不对，参考文献部分也有大量空白
 * 未处理多语言的 wikitext 语法
 
-本项目目前只有接受对 `Script` 目录的 PR，里面是 [pandoc](https://github.com/chinapedia/pandoc) 用到的过滤器脚本。也可以给 [mediawiki-to-gfm](https://github.com/chinapedia/mediawiki-to-gfm) 发 PR，改进数据生成工具。
+本项目数据由[mediawiki-to-gfm](https://github.com/chinapedia/mediawiki-to-gfm)中的`runzhwp.sh`脚本生产，其中用到的`pandoc`以及其过滤器还有诸多问题，欢迎提PR改进数据生成工具。
 
 如果你有意见或者建议，欢迎加入Telegram讨论群[Chinapedia](https://t.me/chinapedia)。
