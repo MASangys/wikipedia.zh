@@ -1,4 +1,4 @@
-**李昕**（），[藝名](../Page/藝名.md "wikilink")**Amis 艾蜜絲**曾在[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigirls與](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")[Fubon Angels擔任](../Page/Fubon_Angels.md "wikilink")[啦啦隊](../Page/啦啦隊.md "wikilink") \[1\]，現為[味全龍](../Page/味全龍.md "wikilink")啦啦隊總教練\[2\]，在[臉書粉專擁有超過](https://zh.wikipedia.org/wiki/臉書 "wikilink")30萬名粉絲，被譽為「啦啦隊女神」\[3\]！
+**李昕**（），[藝名](../Page/藝名.md "wikilink")**Amis 艾蜜絲**，曾在[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigirls與](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")[Fubon Angels擔任](../Page/Fubon_Angels.md "wikilink")[啦啦隊](../Page/啦啦隊.md "wikilink") \[1\]，現為[味全龍](../Page/味全龍.md "wikilink")啦啦隊總教練\[2\]，在[臉書粉專擁有超過](https://zh.wikipedia.org/wiki/臉書 "wikilink")29萬名粉絲，被譽為「啦啦隊女神」\[3\]。
 
 ## 經歷
 
@@ -43,20 +43,15 @@
 | ----- | ------------------------------ | ----------------------------------------- |
 | 2016年 | LamiGirls《2016 首張寫真單曲 獨一無二的閃爍》 | [AVEX](../Page/愛貝克思_\(台灣\).md "wikilink") |
 
+## 參考資料
+
 ## 外部連結
 
   -
   -
   -
-  - [Amis艾蜜絲](http://17.media/share/profile/99db850f-3271-4a7b-950f-e442a262f2fc?lang=TW)的17直播
-
-  - [Amis86](https://shopee.tw/amis86?version=424568f24b2dbfe8c759699553e6e601)的蝦皮購物
-
-## 參考資料
-
-  -
 [Category:中華職棒](https://zh.wikipedia.org/wiki/Category:中華職棒 "wikilink") [Category:世新大學校友](https://zh.wikipedia.org/wiki/Category:世新大學校友 "wikilink") [Category:台灣女性模特兒](https://zh.wikipedia.org/wiki/Category:台灣女性模特兒 "wikilink") [Category:臺灣女舞者](https://zh.wikipedia.org/wiki/Category:臺灣女舞者 "wikilink") [Category:台灣啦啦隊](https://zh.wikipedia.org/wiki/Category:台灣啦啦隊 "wikilink") [Category:李姓](https://zh.wikipedia.org/wiki/Category:李姓 "wikilink")
 
-1.  [從LamiGirls到富邦天使 高人氣女神Amis卸啦啦隊身份](https://sports.ettoday.net/news/1389453) ETtoday運動雲 2019年03月01日
-2.  [中職／轉戰味全龍新角色 Amis打造美麗嬌點](https://sports.ettoday.net/news/1541006) ETtoday運動雲 2019年09月22日
-3.  [啦啦隊女神出寫真　大方露出結實腹肌](https://www.mirrormedia.mg/story/20190830ent026/) 鏡週刊 2019年08月30日
+1.
+2.
+3.

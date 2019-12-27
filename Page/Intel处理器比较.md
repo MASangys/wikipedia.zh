@@ -237,7 +237,7 @@
 <td><p>2009 - 至今</p></td>
 <td></td>
 <td><p>1.2 GHz - 3.33 GHz</p></td>
-<td><p><a href="../Page/LGA_775.md" title="wikilink">LGA 775</a>、 、 <a href="../Page/LGA_775.md" title="wikilink">LGA 775</a>、 <a href="../Page/LGA_1156.md" title="wikilink">LGA 1156</a>、 <a href="https://zh.wikipedia.org/wiki/LGA_1155" title="wikilink">LGA 1155</a>、 <a href="../Page/LGA_1150.md" title="wikilink">LGA 1150</a>、 <a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+<td><p><a href="../Page/LGA_775.md" title="wikilink">LGA 775</a>、 、 <a href="../Page/LGA_775.md" title="wikilink">LGA 775</a>、 <a href="../Page/LGA_1156.md" title="wikilink">LGA 1156</a>、 <a href="https://zh.wikipedia.org/wiki/LGA_1155" title="wikilink">LGA 1155</a>、 <a href="../Page/LGA_1150.md" title="wikilink">LGA 1150</a>、 <a href="../Page/LGA_1151.md" title="wikilink">LGA 1151</a></p></td>
 <td><p>14 nm、22 nm、32 nm、45 nm、65 nm</p></td>
 <td><p>2.9 W - 73 W</p></td>
 <td><p>1或2</p></td>
@@ -285,7 +285,7 @@
 <td><p>2010 - 至今</p></td>
 <td></td>
 <td><p>1.2 GHz - 3.7 GHz</p></td>
-<td><p><a href="../Page/LGA_1156.md" title="wikilink">LGA 1156</a>、<a href="https://zh.wikipedia.org/wiki/LGA_1155" title="wikilink">LGA 1155</a>、<a href="../Page/LGA_1150.md" title="wikilink">LGA 1150</a>、<a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+<td><p><a href="../Page/LGA_1156.md" title="wikilink">LGA 1156</a>、<a href="https://zh.wikipedia.org/wiki/LGA_1155" title="wikilink">LGA 1155</a>、<a href="../Page/LGA_1150.md" title="wikilink">LGA 1150</a>、<a href="../Page/LGA_1151.md" title="wikilink">LGA 1151</a></p></td>
 <td><p>14 nm、22 nm、32 nm</p></td>
 <td><p>35 W - 73 W</p></td>
 <td><p>2 及超线程</p></td>
@@ -301,7 +301,7 @@
 <td><p>2009 - 至今</p></td>
 <td></td>
 <td><p>1.06 GHz - 3.6 GHz</p></td>
-<td><p><a href="../Page/LGA_1156.md" title="wikilink">LGA 1156</a>、<a href="https://zh.wikipedia.org/wiki/LGA_1155" title="wikilink">LGA 1155</a>、<a href="../Page/LGA_1150.md" title="wikilink">LGA 1150</a>、<a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+<td><p><a href="../Page/LGA_1156.md" title="wikilink">LGA 1156</a>、<a href="https://zh.wikipedia.org/wiki/LGA_1155" title="wikilink">LGA 1155</a>、<a href="../Page/LGA_1150.md" title="wikilink">LGA 1150</a>、<a href="../Page/LGA_1151.md" title="wikilink">LGA 1151</a></p></td>
 <td><p>14 nm、22 nm、32 nm、45 nm</p></td>
 <td><p>17 W - 95 W</p></td>
 <td><p>2 及超线程、4</p></td>
@@ -317,7 +317,7 @@
 <td><p>2008 - 至今</p></td>
 <td></td>
 <td><p>1.6 GHz - 4.4 GHz</p></td>
-<td><p><a href="../Page/LGA_1156.md" title="wikilink">LGA 1156</a>、 <a href="https://zh.wikipedia.org/wiki/LGA_1155" title="wikilink">LGA 1155</a>、 <a href="https://zh.wikipedia.org/wiki/LGA_1366" title="wikilink">LGA 1366</a>、 <a href="../Page/LGA_2011.md" title="wikilink">LGA 2011</a>、 <a href="../Page/LGA_1150.md" title="wikilink">LGA 1150</a>、 <a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+<td><p><a href="../Page/LGA_1156.md" title="wikilink">LGA 1156</a>、 <a href="https://zh.wikipedia.org/wiki/LGA_1155" title="wikilink">LGA 1155</a>、 <a href="https://zh.wikipedia.org/wiki/LGA_1366" title="wikilink">LGA 1366</a>、 <a href="../Page/LGA_2011.md" title="wikilink">LGA 2011</a>、 <a href="../Page/LGA_1150.md" title="wikilink">LGA 1150</a>、 <a href="../Page/LGA_1151.md" title="wikilink">LGA 1151</a></p></td>
 <td><p>14 nm、22 nm、32 nm、45 nm</p></td>
 <td><p>45 W - 130 W</p></td>
 <td><p>4、4 及超线程</p></td>

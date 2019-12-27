@@ -105,11 +105,11 @@
 <thead>
 <tr class="header">
 <th><p>遊戲名稱</p></th>
-<th><p>姓名[9][10]</p></th>
+<th><p>姓名[9]</p></th>
 <th><p>諺文</p></th>
 <th><p>遊戲定位</p></th>
-<th><p>生日<ref>{{Cite web |url = <a href="http://www.dailyesports.com/view.php?ud=2018071011053316690%7Ctitle">http://www.dailyesports.com/view.php?ud=2018071011053316690|title</a> = [롤챔스] kt '폰' 허원석 복귀 등 서머 2R 로스터 공개</p></th>
-<th><p>publisher = Daily e-sport|language = ko}}</ref><ref>{{Cite web |url = <a href="http://www.dailyesports.com/view.php?ud=2019021911123690083cf949c6b9_27%7Ctitle">http://www.dailyesports.com/view.php?ud=2019021911123690083cf949c6b9_27|title</a> = [롤챔스] 아프리카, 10인 로스터로 보강…2R 로스터 공개</p></th>
+<th><p>生日<ref>{{Cite web |url = <a href="http://www.dailyesports.com/view.php?ud=20191220164851619190ea4f0acc_27%7Ctitle">http://www.dailyesports.com/view.php?ud=20191220164851619190ea4f0acc_27|title</a> = [KeSPA컵] 1라운드 참가팀 로스터 공개</p></th>
+<th><p>date= 2019年12月20日</p></th>
 <th><p>publisher = Daily e-sport|language = ko}}</ref></p></th>
 <th><p>國籍</p></th>
 </tr>
@@ -196,9 +196,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Senan</p></td>
-<td><p>朴喜錫</p></td>
-<td><p>박희석</p></td>
+<td><p>Jelly</p></td>
+<td><p>飱浩景</p></td>
+<td><p>손호경</p></td>
 <td><p>Support</p></td>
 <td></td>
 <td></td>
@@ -206,6 +206,16 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>Ben</p></td>
+<td><p>南東現</p></td>
+<td><p>남동현</p></td>
+<td><p>Support</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -224,7 +234,7 @@
 <thead>
 <tr class="header">
 <th><p>遊戲名稱</p></th>
-<th><p>姓名[11]</p></th>
+<th><p>姓名[10]</p></th>
 <th><p>遊戲定位</p></th>
 <th><p>生日</p></th>
 <th><p>國籍</p></th>
@@ -232,15 +242,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Jelly</p></td>
-<td><p>孫浩景</p></td>
+<td><p>Senan</p></td>
+<td><p>朴喜錫</p></td>
 <td><p>Support</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>Aiming</p></td>
-<td><p>金하람[12]</p></td>
+<td><p>金하람[11]</p></td>
 <td><p>AD</p></td>
 <td></td>
 <td></td>
@@ -268,7 +278,7 @@
 </tr>
 <tr class="even">
 <td><p>Summit</p></td>
-<td><p>朴湡台[13]</p></td>
+<td><p>朴湡台[12]</p></td>
 <td><p>Top</p></td>
 <td></td>
 <td></td>
@@ -317,7 +327,7 @@
 </tr>
 <tr class="odd">
 <td><p>SeongHwan</p></td>
-<td><p>尹成愌[14]</p></td>
+<td><p>尹成愌[13]</p></td>
 <td><p>Jungle</p></td>
 <td></td>
 <td></td>
@@ -338,14 +348,14 @@
 </tr>
 <tr class="even">
 <td><p>SnowFlower</p></td>
-<td><p>盧會宗[15]</p></td>
+<td><p>盧會宗[14]</p></td>
 <td><p>Support</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>ikssu</p></td>
-<td><p>田數[16]</p></td>
+<td><p>田銖[15]</p></td>
 <td><p>Top</p></td>
 <td></td>
 <td></td>
@@ -366,7 +376,7 @@
 <thead>
 <tr class="header">
 <th><p>代號或暱稱</p></th>
-<th><p>姓名[17]</p></th>
+<th><p>姓名[16]</p></th>
 <th><p>國籍</p></th>
 <th><p>職位</p></th>
 </tr>
@@ -385,8 +395,8 @@
 <td><p>教練</p></td>
 </tr>
 <tr class="odd">
-<td><p>Yeon</p></td>
-<td><p>梁光杓</p></td>
+<td><p>ActScene</p></td>
+<td><p>延亨模</p></td>
 <td></td>
 <td><p>教練</p></td>
 </tr>
@@ -399,25 +409,31 @@
 <thead>
 <tr class="header">
 <th><p>代號或暱稱</p></th>
-<th><p>姓名[18]</p></th>
+<th><p>姓名[17]</p></th>
 <th><p>國籍</p></th>
 <th><p>職位</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>Yeon</p></td>
+<td><p>梁光杓</p></td>
+<td></td>
+<td><p>教練</p></td>
+</tr>
+<tr class="even">
 <td><p>NoFe</p></td>
 <td><p>鄭魯喆</p></td>
 <td></td>
 <td><p>監督代行</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Zefa</p></td>
 <td><p>李載珉</p></td>
 <td></td>
 <td><p>教練</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Comet</p></td>
 <td><p>林慧誠</p></td>
 <td></td>
@@ -430,7 +446,7 @@
 
 #### Afreeca Freecs Blue （已解散）
 
-\[19\]
+\[18\]
 
 <table>
 <thead>
@@ -597,13 +613,12 @@
 7.
 8.
 9.
-10.
-11. 只收錄2018的中文姓名名單
-12. 無對應漢字
-13. \[10\]
-14.
-15. \[16\]
-16. \[17\]
-17. \[10\]
-18. \[14\]
-19.
+10. 只收錄2018的中文姓名名單
+11. 無對應漢字
+12. \[10\]
+13.
+14. \[14\]
+15. \[9\]
+16. \[9\]
+17. \[11\]
+18.

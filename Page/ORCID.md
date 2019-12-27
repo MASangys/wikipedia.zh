@@ -1,4 +1,4 @@
-**开放的研究员和贡献者ID**（，简称**ORCID**）是一种非[专有的](https://zh.wikipedia.org/wiki/专有 "wikilink")，用以唯一性识别[科学家及其他](https://zh.wikipedia.org/wiki/科学家 "wikilink")[学术作者和贡献者](https://zh.wikipedia.org/wiki/学术作者 "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]。此地址簿要解决的问题是，特定作者在或[出版物](../Page/出版物.md "wikilink")上的[人名](../Page/人名.md "wikilink")可能不唯一而难以识别，它们可能改变（如因[婚姻](../Page/婚姻.md "wikilink")）、顺序上有文化的差异、对不同的部分缩写，以及使用不同的[文字](../Page/文字.md "wikilink")系统。它为一个[人](../Page/人.md "wikilink")提供一个持久的身份，类似为数字网络上的内容相关实体创建[数字对象标识符](../Page/DOI.md "wikilink")（DOI）\[6\]。
+**开放的研究员和贡献者ID**（，简称**ORCID**）是一种非[专有的](https://zh.wikipedia.org/wiki/专有 "wikilink")，用以唯一性识别[科学家](../Page/科学家.md "wikilink")及其他[学术作者和贡献者](https://zh.wikipedia.org/wiki/学术作者 "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]。此地址簿要解决的问题是，特定作者在或[出版物](../Page/出版物.md "wikilink")上的[人名](../Page/人名.md "wikilink")可能不唯一而难以识别，它们可能改变（如因[婚姻](../Page/婚姻.md "wikilink")）、顺序上有文化的差异、对不同的部分缩写，以及使用不同的[文字](../Page/文字.md "wikilink")系统。它为一个[人](../Page/人.md "wikilink")提供一个持久的身份，类似为数字网络上的内容相关实体创建[数字对象标识符](../Page/DOI.md "wikilink")（DOI）\[6\]。
 
 ORCID组织提供一个开放、独立的注册表，旨在成为研究和[学术出版](../Page/学术出版.md "wikilink")领域中贡献者识别的[事实标准](https://zh.wikipedia.org/wiki/事实标准 "wikilink")。2012年10月16日，ORCID启动其注册服务\[7\]\[8\]，并开始发布用户标识符\[9\]。
 
@@ -80,7 +80,7 @@ ORCID的目的是帮助“从科学过渡到信息化科学，在不断增长的
 16. <cite class="citation web">["ORCID Launches Registry"](https://about.orcid.org/news/2012/10/16/orcid-launches-registry)<span class="reference-accessdate">. </span></cite>
 17. <cite class="citation web">["Trademark and iD Display Guidelines"](https://orcid.org/trademark-and-id-display-guidelines). </cite>
 18. <cite class="citation web">["Structure of the ORCID Identifier"](https://support.orcid.org/knowledgebase/articles/116780-structure-of-the-orcid-identifier) . </cite>
-19. <cite class="citation web">["Hiroshi Asakura"](https://www.hindawi.com/80647648/). </cite>
+19. <cite class="citation web">["Hiroshi Asakura"](https://www.hindawi.com/80647648/) . </cite>
 20. <cite class="citation web">["ISNI and ORCID"](https://web.archive.org/web/20130304210352/http://www.isni.org/isni_and_orcid). </cite>
 21. <cite class="citation web">["ISNI and ORCID"](https://web.archive.org/web/20130304210352/http://www.isni.org/isni_and_orcid). </cite>
 22. <cite class="citation web">["What is the relationship between ISNI and ORCID?"](https://about.orcid.org/content/what-relationship-between-isni-and-orcid)</cite>
@@ -88,8 +88,8 @@ ORCID的目的是帮助“从科学过渡到信息化科学，在不断增长的
 24. <cite class="citation web">["ISNI 0000000031979523"](https://isni-url.oclc.nl/isni/0000000031979523). </cite>
 25. <cite class="citation web">["ORCID 0000-0001-5882-6823"](https://orcid.org/0000-0001-5882-6823). </cite>
 26. <cite class="citation web">["What is the relationship between ISNI and ORCID?"](https://about.orcid.org/content/what-relationship-between-isni-and-orcid)</cite>
-27. <cite class="citation web">["Hiroshi Asakura"](https://www.hindawi.com/80647648/). </cite>
-28. <cite class="citation web">["Hiroshi Asakura"](https://www.hindawi.com/80647648/). </cite>
+27. <cite class="citation web">["Hiroshi Asakura"](https://www.hindawi.com/80647648/) . </cite>
+28. <cite class="citation web">["Hiroshi Asakura"](https://www.hindawi.com/80647648/) . </cite>
 29. <cite class="citation web">["Nick Jennings"](https://orcid.org/0000-0003-0166-248X). </cite>
 30. <cite class="citation web">["Josiah Carberry"](https://orcid.org/0000-0002-1825-0097). </cite>
 31. [ORCID: About us](https://about.orcid.org/about)
@@ -110,7 +110,7 @@ ORCID的目的是帮助“从科学过渡到信息化科学，在不断增长的
 46. <cite class="citation web">["Announcements"](http://www.jneurosci.org/site/misc/announcementspage.xhtml) . </cite>
 47. <cite class="citation web">["The Journal of Neuroscience Rolls Out ORCID Integration"](http://www.sfn.org/news-and-calendar/news-and-calendar/news/spotlight/2014/the-journal-of-neuroscience-rolls-out-orcid-integration). </cite>
 48. <cite class="citation web">["Author Zone 16 - ORCID"](http://www.springer.com/authors/author+zone?SGWID=0-168002-12-1028464-0). </cite>
-49. <cite class="citation web">["Hiroshi Asakura"](https://www.hindawi.com/80647648/). </cite>
+49. <cite class="citation web">["Hiroshi Asakura"](https://www.hindawi.com/80647648/) . </cite>
 50. <cite class="citation web">["ORCID Article Claiming"](http://europepmc.org/orcid/import). </cite>
 51. <cite class="citation web">["ORCID integration"](http://rns.nii.ac.jp/html_us/orcid_integration_help_en.html) . </cite>
 52. <cite class="citation web">Wikipedia authors. </cite>

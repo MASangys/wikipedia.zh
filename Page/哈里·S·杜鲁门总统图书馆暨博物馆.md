@@ -1,4 +1,4 @@
-**哈里·S·杜鲁门总统图书馆暨博物馆**（Harry S. Truman Presidential Library and Museum）是第33任[美国总统](../Page/美国总统.md "wikilink")（1945年至1953年）[哈里·S·杜鲁门](../Page/哈里·S·杜鲁门.md "wikilink")的[总统图书馆](../Page/总统图书馆.md "wikilink")和总统一家的安葬地，位于[密苏里州](https://zh.wikipedia.org/wiki/密苏里州 "wikilink")[独立城](https://zh.wikipedia.org/wiki/独立城_\(密苏里州\) "wikilink")[24号美国国道](https://zh.wikipedia.org/wiki/24号美国国道 "wikilink")。
+**哈里·S·杜鲁门总统图书馆暨博物馆**（Harry S. Truman Presidential Library and Museum）是第33任[美国总统](../Page/美国总统.md "wikilink")（1945年至1953年）[哈里·S·杜鲁门](../Page/哈里·S·杜鲁门.md "wikilink")的[总统图书馆](../Page/总统图书馆.md "wikilink")和总统一家的安葬地，位于[密苏里州](https://zh.wikipedia.org/wiki/密苏里州 "wikilink")[独立城](../Page/独立城_\(密苏里州\).md "wikilink")[24号美国国道](https://zh.wikipedia.org/wiki/24号美国国道 "wikilink")。
 
 这是第一个根据1955年总统图书馆法的规定设立的[总统图书馆](../Page/总统图书馆.md "wikilink")，是由[国家档案和记录管理局](../Page/国家档案和记录管理局.md "wikilink")管理的十三个总统图书馆之一。
 

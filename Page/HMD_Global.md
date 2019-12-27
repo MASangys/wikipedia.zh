@@ -41,14 +41,15 @@ Smart Feature OS是为功能手机提供部分智能手机功能的移动操作�
 [Android](../Page/Android.md "wikilink")手机：
 
   - Nokia 9系列：[Nokia 9 PureView](../Page/Nokia_9_PureView.md "wikilink")
-  - Nokia 8系列：[Nokia 8](../Page/Nokia_8.md "wikilink")、[Nokia 8 Sirocco](../Page/Nokia_8_Sirocco.md "wikilink")、-{zh-hans:[Nokia 8.1](https://zh.wikipedia.org/wiki/Nokia_8.1 "wikilink");}-
+  - Nokia 8系列：[Nokia 8](../Page/Nokia_8.md "wikilink")、[Nokia 8 Sirocco](../Page/Nokia_8_Sirocco.md "wikilink")、-{zh-hans:[Nokia 8.1](../Page/Nokia_8.1.md "wikilink");}-
   - Nokia 7系列：[Nokia 7](../Page/Nokia_7.md "wikilink")、[Nokia 7 Plus](../Page/Nokia_7_Plus.md "wikilink")、[Nokia 7.1](../Page/Nokia_7.1.md "wikilink")、[Nokia X7](https://zh.wikipedia.org/wiki/Nokia_X7 "wikilink")、 [Nokia 7.2](https://zh.wikipedia.org/wiki/Nokia_7.2 "wikilink")
-  - Nokia 6系列：[Nokia 6](../Page/Nokia_6.md "wikilink")、-{zh-hans:[Nokia 6 第二代](https://zh.wikipedia.org/wiki/Nokia_6_第二代 "wikilink"); zh-hant:[Nokia 6.1](../Page/Nokia_6.1.md "wikilink");}-、-{zh-hans:[Nokia X6](../Page/Nokia_X6_\(2018年\).md "wikilink"); zh-hant:[Nokia 6.1 Plus](https://zh.wikipedia.org/wiki/Nokia_6.1_Plus "wikilink");}-、[Nokia 6.2](https://zh.wikipedia.org/wiki/Nokia_6.2 "wikilink")
-  - Nokia 5系列：[Nokia 5](https://zh.wikipedia.org/wiki/Nokia_5 "wikilink")、[Nokia 5.1](../Page/Nokia_5.1.md "wikilink")、-{zh-hans:[Nokia X5](../Page/Nokia_X5_\(2018年\).md "wikilink"); zh-hant:[Nokia 5.1 Plus](https://zh.wikipedia.org/wiki/Nokia_5.1_Plus "wikilink");}-
+  - Nokia 6系列：[Nokia 6](../Page/Nokia_6.md "wikilink")、-{zh-hans:[Nokia 6 第二代](https://zh.wikipedia.org/wiki/Nokia_6_第二代 "wikilink"); zh-hant:[Nokia 6.1](../Page/Nokia_6.1.md "wikilink");}-、-{zh-hans:[Nokia X6](../Page/Nokia_X6_\(2018年\).md "wikilink"); zh-hant:[Nokia 6.1 Plus](../Page/Nokia_6.1_Plus.md "wikilink");}-、[Nokia 6.2](https://zh.wikipedia.org/wiki/Nokia_6.2 "wikilink")
+  - Nokia 5系列：[Nokia 5](https://zh.wikipedia.org/wiki/Nokia_5 "wikilink")、[Nokia 5.1](../Page/Nokia_5.1.md "wikilink")、-{zh-hans:[Nokia X5](../Page/Nokia_X5_\(2018年\).md "wikilink"); zh-hant:[Nokia 5.1 Plus](../Page/Nokia_5.1_Plus.md "wikilink");}-
   - Nokia 4系列：[Nokia 4.2](https://zh.wikipedia.org/wiki/Nokia_4.2 "wikilink")
   - Nokia 3系列：[Nokia 3](https://zh.wikipedia.org/wiki/Nokia_3 "wikilink")、[Nokia 3.1](../Page/Nokia_3.1.md "wikilink")、[Nokia 3.1 Plus](https://zh.wikipedia.org/wiki/Nokia_3.1_Plus "wikilink")、[Nokia 3.2](https://zh.wikipedia.org/wiki/Nokia_3.2 "wikilink")
-  - Nokia 2系列：[Nokia 2](../Page/Nokia_2.md "wikilink")、[Nokia 2.1](../Page/Nokia_2.1.md "wikilink")
+  - Nokia 2系列：[Nokia 2](../Page/Nokia_2.md "wikilink")、[Nokia 2.1](../Page/Nokia_2.1.md "wikilink")、[Nokia 2.2](https://zh.wikipedia.org/wiki/Nokia_2.2 "wikilink") 、 [Nokia 2.3](https://zh.wikipedia.org/wiki/Nokia_2.3 "wikilink")
   - Nokia 1系列：[Nokia 1](../Page/Nokia_1.md "wikilink")、[Nokia 1 Plus](https://zh.wikipedia.org/wiki/Nokia_1_Plus "wikilink")
+  - Nokia C系列：[Nokia C1](https://zh.wikipedia.org/wiki/Nokia_C1 "wikilink")
 
 [经典手机](https://zh.wikipedia.org/wiki/功能手机 "wikilink")：
 
@@ -57,7 +58,7 @@ Smart Feature OS是为功能手机提供部分智能手机功能的移动操作�
   - [Nokia 2720 Flip 4G](https://zh.wikipedia.org/wiki/Nokia_2720_Flip_4G "wikilink")
   - [Nokia 800 Tough 4G](https://zh.wikipedia.org/wiki/Nokia_800_Tough_4G "wikilink")
   - [Nokia 3310](../Page/Nokia_3310_\(2017年\).md "wikilink")
-  - [Nokia 106](https://zh.wikipedia.org/wiki/Nokia_106_\(2018年\) "wikilink")
+  - [Nokia 106](../Page/Nokia_106_\(2018年\).md "wikilink")
   - [Nokia 130](../Page/Nokia_130.md "wikilink")
   - [Nokia 105](../Page/Nokia_105_\(2017年\).md "wikilink")
   - [Nokia 150](../Page/Nokia_150.md "wikilink")

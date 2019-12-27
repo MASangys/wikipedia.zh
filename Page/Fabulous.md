@@ -12,6 +12,10 @@
 | 06   | Fabulous |              | 2016年9月15日  | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")                                        | [官方MV連結](https://www.youtube.com/watch?v=2thHcC5B_Bk) | 巡迴幕後花絮/ 並沒有收錄在DVD              |
 | 04   | 我不是歌手    | FatBall & 25 | 2016年10月11日 | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")                                        | [官方MV連結](https://www.youtube.com/watch?v=3DMYFZ50jHU) | 林保怡，周家怡，王宗堯，游學修演出MV/ 並沒有收錄在DVD |
 
+## 獎項
+
+  - 2016年香港IFPI十大銷量廣東唱片\[3\]
+
 ## 参考
 
 ## 外部連結
@@ -22,3 +26,4 @@
 
 1.
 2.
+3.

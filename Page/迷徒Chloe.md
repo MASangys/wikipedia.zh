@@ -1,4 +1,4 @@
-《**迷徒Chloe**》【迷徒第二季】（英語： Lost ? Me too II ），2016年由製作公司《傳遞娛樂》製作出品的台灣網路劇，為《迷徒》此IP系列劇集的第二季，第一季為《[迷徒·Claire](../Page/迷徒·Claire.md "wikilink")》，第二季為另外一個獨立故事，由[李千那](../Page/李千那.md "wikilink")、[吳慷仁](../Page/吳慷仁.md "wikilink")、[劉以豪](../Page/劉以豪.md "wikilink")、[謝祖武](../Page/謝祖武.md "wikilink")、[吳岱凌](https://zh.wikipedia.org/wiki/吳岱凌 "wikilink")、[張雁名](../Page/張雁名.md "wikilink")、[穆熙妍](../Page/穆熙妍.md "wikilink")等人主演。
+《**迷徒Chloe**》【迷徒第二季】（英語： Lost ? Me too II ），2016年由製作公司《傳遞娛樂》製作出品的台灣網路劇，為《迷徒》此IP系列劇集的第二季，第一季為《[迷徒·Claire](../Page/迷徒·Claire.md "wikilink")》，第二季為另外一個獨立故事，由[李千那](../Page/李千那.md "wikilink")、[吳慷仁](../Page/吳慷仁.md "wikilink")、[劉以豪](../Page/劉以豪.md "wikilink")、[謝祖武](../Page/謝祖武.md "wikilink")、[吳岱凌](../Page/吳岱凌.md "wikilink")、[張雁名](../Page/張雁名.md "wikilink")、[穆熙妍](../Page/穆熙妍.md "wikilink")等人主演。
 
 傳遞娛樂的《迷徒》故事IP，開啟了一種寫實的風格，打破了台灣偶像劇慣有的王子公主夢幻童話套路，不論是第一季的Claire或是第二季的Chloe，都以寫實的職場都會女性為主人翁切入，探討女性在追求夢想、追逐愛情以及事業、感情、成名、虛榮等人生諸多選項中"迷途"，在其中迷失或重新找到自我的過程；兩季的影像視覺，也具質感與電影感。
 
@@ -69,7 +69,7 @@ Chloe，三十歲，是一名[新媒體](../Page/新媒體.md "wikilink")[製作
 | [吳慷仁](../Page/吳慷仁.md "wikilink")                    | 汪士棋     | 音樂製作人，CHLOE的前男友。五年前的離開讓Chloe身心疲憊，受傷至深，就在Chloe準備開播新節目之際，突然帶著獨生女亞亞回台灣定居。                             |
 | [劉以豪](../Page/劉以豪.md "wikilink")                    | Rex     | 羅少陽，音樂創作者,地下樂團帥哥主唱。才華洋溢，性格叛逆，玩世不恭，鄙視主流文化。在因緣際會接觸到Chloe，認為終於找到了知音，演藝之路一片看好，但也因愛上Chloe陷入了無法自拔的嫉妒情緒中。 |
 | [謝祖武](../Page/謝祖武.md "wikilink")                    | 戴恆毅     | 經歷過感情和婚姻的滄桑，總是默默陪在Chloe身邊。                                                                         |
-| [吳岱凌](https://zh.wikipedia.org/wiki/吳岱凌 "wikilink") | 汪潔亞（亞亞） | 汪士棋的獨生女，對Chloe相當依賴。                                                                                |
+| [吳岱凌](../Page/吳岱凌.md "wikilink")                    | 汪潔亞（亞亞） | 汪士棋的獨生女，對Chloe相當依賴。                                                                                |
 | [洪棠](../Page/洪棠.md "wikilink")                      | 沈蔓      | 汪士棋亡妻，離婚後自殺。                                                                                       |
 | [金允喬](../Page/金允喬.md "wikilink")                    | Lulu    | Chloe同組同事。喜歡Rex。                                                                                   |
 | [張雁名](../Page/張雁名.md "wikilink")                    | 方哥      | Chloe同事，競爭關係。在Chloe提案時，與其競爭，提出「小三時代」節目企劃。                                                          |

@@ -134,15 +134,24 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2016年8月6日</p></td>
+<td><p>Do Better</p></td>
+<td></td>
+<td></td>
+<td><p>單曲《Do Better》</p></td>
+<td><p>Y teen (<a href="https://zh.wikipedia.org/wiki/Monsta_X" title="wikilink">Monsta X</a>&amp;<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2016年8月17日</p></td>
 <td><p>비밀이야 (Secret)</p></td>
 <td></td>
 <td></td>
 <td><p>迷你二輯《<a href="../Page/THE_SECRET.md" title="wikilink">THE SECRET</a>》</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>짠! (Prince)</p></td>
 <td></td>
 <td></td>
@@ -151,7 +160,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年1月4日</p></td>
 <td><p>靠近你的心（너에게 닿기를/ I Wish）</p></td>
 <td></td>
@@ -160,7 +169,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Baby Come To Me</p></td>
 <td></td>
 <td></td>
@@ -169,7 +178,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>이리와 (Hug U)</p></td>
 <td></td>
 <td></td>
@@ -178,7 +187,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年5月4日</p></td>
 <td><p>Love Therapy（러브테라피）</p></td>
 <td></td>
@@ -187,7 +196,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td><p>EXY＆EUNA KIM (Feat. Zia)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年6月7日</p></td>
 <td><p>기적 같은 아이 (Miracle）</p></td>
 <td></td>
@@ -196,7 +205,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td><p><a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Babyface</p></td>
 <td></td>
 <td></td>
@@ -205,7 +214,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>퐁당퐁당 (Plop Plop）</p></td>
 <td></td>
 <td></td>
@@ -214,7 +223,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Follow Me</p></td>
 <td></td>
 <td></td>
@@ -223,7 +232,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>B.B.B.Boo</p></td>
 <td></td>
 <td></td>
@@ -232,7 +241,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Geeminy</p></td>
 <td></td>
 <td></td>
@@ -241,7 +250,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年2月27日</p></td>
 <td><p>Dreams Come True（꿈꾸는 마음으로）</p></td>
 <td></td>
@@ -250,7 +259,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Love O'clock（호두까기 인형）</p></td>
 <td></td>
 <td></td>
@@ -259,7 +268,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Renaissance（르네상스）</p></td>
 <td></td>
 <td></td>
@@ -268,7 +277,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Starry Moment（설레는 밤）</p></td>
 <td></td>
 <td></td>
@@ -277,7 +286,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Thawing（겨울잠）</p></td>
 <td></td>
 <td></td>
@@ -286,7 +295,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>無限大夢想（《Dreams Come True》中文版）</p></td>
 <td></td>
 <td></td>
@@ -295,7 +304,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年3月27日</p></td>
 <td><p>Homegirl</p></td>
 <td></td>
@@ -304,7 +313,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td><p>Sobae (Feat. EXY)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年9月19日</p></td>
 <td><p>부탁해（SAVE ME, SAVE YOU）</p></td>
 <td></td>
@@ -313,7 +322,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td><p><a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>너, 너, 너（YOU, YOU, YOU）</p></td>
 <td></td>
 <td></td>
@@ -322,7 +331,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>아이야（I-YAH）</p></td>
 <td></td>
 <td></td>
@@ -331,7 +340,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>가면무도회（MASQUERADE）</p></td>
 <td></td>
 <td></td>
@@ -340,7 +349,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>HURRY UP</p></td>
 <td></td>
 <td></td>
@@ -349,7 +358,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2월의 봄（YOU&amp;I）</p></td>
 <td></td>
 <td></td>
@@ -358,7 +367,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年12月23日</p></td>
 <td><p>Love Professor(연애박사)</p></td>
 <td></td>
@@ -367,7 +376,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td><p>Nakta Choi (Feat. EXY)</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年1月8日</p></td>
 <td><p>La La Love</p></td>
 <td></td>
@@ -376,7 +385,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td><p><a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>You Got</p></td>
 <td></td>
 <td></td>
@@ -385,7 +394,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1억개의 볠（Star）</p></td>
 <td></td>
 <td></td>
@@ -394,7 +403,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>그때 우리（Memories）</p></td>
 <td></td>
 <td></td>
@@ -403,7 +412,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>칸타빌레(노래하듯이)（Cantabile）</p></td>
 <td></td>
 <td></td>
@@ -412,7 +421,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12 O clock</p></td>
 <td></td>
 <td></td>
@@ -421,7 +430,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>우주정거장（UJUNG）</p></td>
 <td></td>
 <td></td>
@@ -430,7 +439,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年6月4日</p></td>
 <td><p>Boogie Up</p></td>
 <td></td>
@@ -439,7 +448,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>눈부셔（Oh My Summer）</p></td>
 <td></td>
 <td></td>
@@ -448,7 +457,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>우리끼리（Let's Dance）</p></td>
 <td></td>
 <td></td>
@@ -457,7 +466,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Sugar Pop</p></td>
 <td></td>
 <td></td>
@@ -466,16 +475,16 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年11月19日</p></td>
 <td><p>이루리（As You Wish）</p></td>
 <td></td>
 <td></td>
-<td><p>迷你七輯《<a href="https://zh.wikipedia.org/wiki/As_You_Wish" title="wikilink">As You Wish</a>》</p></td>
+<td><p>迷你七輯《<a href="../Page/As_You_Wish.md" title="wikilink">As You Wish</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>행운을 빌어（Luckitty-cat）</p></td>
 <td></td>
 <td></td>
@@ -484,7 +493,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>야광별（LIGHTS UP）</p></td>
 <td></td>
 <td></td>
@@ -493,7 +502,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>우와（WW）</p></td>
 <td></td>
 <td></td>
@@ -502,7 +511,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>BADABOOM（바다봄）</p></td>
 <td></td>
 <td></td>
@@ -511,7 +520,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Fullmoon</p></td>
 <td></td>
 <td></td>
@@ -520,7 +529,7 @@ EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Don't Touch</p></td>
 <td></td>
 <td></td>

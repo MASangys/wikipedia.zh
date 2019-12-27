@@ -826,7 +826,7 @@
 <tr class="odd">
 <td><p>1月24日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/第四屆偶像明星田徑游泳錦標賽" title="wikilink">第四屆偶像明星田徑游泳錦標賽</a>》</p></td>
+<td><p>《<a href="../Page/第四屆偶像明星田徑游泳錦標賽.md" title="wikilink">第四屆偶像明星田徑游泳錦標賽</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -104,9 +104,8 @@
 <td><p><a href="../Page/法國唱片出版業公會.md" title="wikilink">FRA</a><br />
 <ref>法國唱片出版業公會專輯榜：</p>
 <ul>
-<li></li>
-</ul>
-<p></ref></p></td>
+<li><p></ref></p></li>
+</ul></td>
 </tr>
 <tr class="even">
 <td><p>韓國</p></td>

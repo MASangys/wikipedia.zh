@@ -359,7 +359,7 @@ EMU-0210400</p></td>
 
 ## 樂曲內容
 
-專輯製作人為小林啟（），也是該團體2010年組建以來的製作人\[52\]。專輯的音樂結構很多樣化，融合日本偶像流行音樂、動漫音樂與各種重金屬音樂，應用了強力和弦、快速鼓點和死腔。\[53\]樂曲創作上也由二十人以上的臨時團隊組成，包括著名的日本音樂人如的、的、[VOCALOID](../Page/VOCALOID.md "wikilink")製作人、名製作人等等\[54\]。
+專輯製作人為小林啟（），也是該團體2010年組建以來的製作人\[52\]。專輯的音樂結構很多樣化，融合日本偶像流行音樂、動漫音樂與各種重金屬音樂，應用了強力和弦、快速鼓點和[死腔](https://zh.wikipedia.org/wiki/死腔 "wikilink")。\[53\]樂曲創作上也由二十人以上的臨時團隊組成，包括著名的日本音樂人如的、的、[VOCALOID](../Page/VOCALOID.md "wikilink")製作人、名製作人等等\[54\]。
 
 1.  **〈Babymetal Death〉**
       -
@@ -368,26 +368,26 @@ EMU-0210400</p></td>
 2.  **〈女狐〉**
       -
         融合[民謠金屬](https://zh.wikipedia.org/wiki/民謠金屬 "wikilink")、[金屬蕊](../Page/金屬蕊.md "wikilink")、[力量金屬與典型的日本文化](https://zh.wikipedia.org/wiki/力量金屬 "wikilink")，運用日本傳統樂器太鼓與[三味線](https://zh.wikipedia.org/wiki/三味線 "wikilink")，以及融入[江戶時代民謠](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")〈[櫻花](../Page/樱花_\(民谣\).md "wikilink")〉、狐神祭典等元素\[56\]。
-        主題是女權，為如[大和撫子](../Page/大和撫子.md "wikilink")這樣的傳統女性發聲。
+        主題是[女權](https://zh.wikipedia.org/wiki/女權 "wikilink")，為如[大和撫子](../Page/大和撫子.md "wikilink")這樣的傳統女性發聲。
         此曲錄製了36種不同版本後才定案發表\[57\]。
         至2016年底的Youtube點播數是3600萬次。
 3.  **〈給我巧克力\!\!〉**
       -
-        融合鞭擊金屬與[Techno](../Page/Techno.md "wikilink")。
+        融合[鞭擊金屬與](https://zh.wikipedia.org/wiki/鞭擊金屬 "wikilink")[Techno](../Page/Techno.md "wikilink")。
         主題是少女為了保持身材控制飲食，但又禁不起巧克力的誘惑\[58\]。
-        此曲在歐美地區極受歡迎，至2016年底的Youtube點播數是6400萬次。
+        此曲在歐美地區極受歡迎，至2019年底的Youtube點播數是1.1億次。
 4.  **〈Iine\!〉**
       -
-        融合[電子核](https://zh.wikipedia.org/wiki/電子核 "wikilink")、[饒舌](../Page/饒舌.md "wikilink")、[青少年流行音樂](../Page/青少年流行音樂.md "wikilink")、[電子舞曲](../Page/電子舞曲.md "wikilink")、死腔和重金屬吉他。各種音樂風格在行進中交錯驟變\[59\]。
+        融合[電子核](https://zh.wikipedia.org/wiki/電子核 "wikilink")、[饒舌](../Page/饒舌.md "wikilink")、[青少年流行音樂](../Page/青少年流行音樂.md "wikilink")、[電子舞曲](../Page/電子舞曲.md "wikilink")、[死腔和](https://zh.wikipedia.org/wiki/死腔 "wikilink")[重金屬吉他](https://zh.wikipedia.org/wiki/重金屬 "wikilink")。各種音樂風格在行進中交錯驟變\[59\]。
         至2016年底的Youtube點播數是1200萬次。
 5.  **〈紅月-Akatsuki-〉**
       -
-        融合力量金屬、[速度金屬以及](https://zh.wikipedia.org/wiki/速度金屬 "wikilink")[X JAPAN式的](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[敘事曲](https://zh.wikipedia.org/wiki/敘事曲 "wikilink")、雙吉他對位演奏法，被普遍認為是向X JAPAN的〈[紅](../Page/紅_\(X單曲\).md "wikilink")〉致敬。
+        融合[力量金屬](https://zh.wikipedia.org/wiki/力量金屬 "wikilink")、[速度金屬以及](https://zh.wikipedia.org/wiki/速度金屬 "wikilink")[X JAPAN式的](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[敘事曲](https://zh.wikipedia.org/wiki/敘事曲 "wikilink")、雙吉他對位演奏法，被普遍認為是向[X JAPAN的](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")〈[紅](../Page/紅_\(X單曲\).md "wikilink")〉致敬。
         [SU-METAL的獨唱曲](../Page/中元鈴香.md "wikilink")，為抒情主題\[60\]。
         巴西「」網站評論說「這首歌有著[Helloween](../Page/萬聖節樂團.md "wikilink")、[Edguy和](../Page/刀鋒邊緣.md "wikilink")[騰雲樂團](../Page/騰雲樂團.md "wikilink")這種力量金屬名曲的感覺，且聽起來有如15年前的日本金屬樂」\[61\]。
 6.  **〈心跳☆早晨〉**
       -
-        融合和重金屬的實驗曲，是BABYMETAL最早的歌曲。
+        融合和[重金屬的實驗曲](https://zh.wikipedia.org/wiki/重金屬 "wikilink")，是BABYMETAL最早的歌曲。
         主題是關於少女早上賴床來不及出門的日常生活\[62\]。
         至2016年底的Youtube點播數是1700萬次。
 7.  **〈撒嬌大作戰〉**
@@ -401,7 +401,7 @@ EMU-0210400</p></td>
         詞曲由YUIMETAL與MOAMETAL創作，YUIMETAL・MOAMETAL（BLACK BABYMETAL）的雙主唱曲。
 9.  **〈歡樂★午夜〉**
       -
-        結合[迴響貝斯](../Page/迴響貝斯.md "wikilink")與金屬蕊。
+        結合[迴響貝斯](../Page/迴響貝斯.md "wikilink")與[金屬蕊](../Page/金屬蕊.md "wikilink")。
         主題是少女抗拒門禁，夢想著參加玩樂派對\[66\]。
 10. **〈Catch me if you can〉**
       -
@@ -414,25 +414,25 @@ EMU-0210400</p></td>
         主題是憂鬱的意念\[68\]。
 12. **〈HeadBanger\!\!〉**
       -
-        融合鞭擊金屬（接近[灣區鞭擊金屬](../Page/灣區鞭擊金屬.md "wikilink")）、力量金屬與旋律死亡金屬。
+        融合[鞭擊金屬](https://zh.wikipedia.org/wiki/鞭擊金屬 "wikilink")（接近[灣區鞭擊金屬](../Page/灣區鞭擊金屬.md "wikilink")）、[力量金屬與](https://zh.wikipedia.org/wiki/力量金屬 "wikilink")[旋律死亡金屬](https://zh.wikipedia.org/wiki/旋律死亡金屬 "wikilink")。
         曲名代表重金屬音樂中甩頭的動作。
         主題是主唱在15歲生日膜拜金屬之神、透過金屬魂的降臨來擺脫過去\[69\]。
         在音樂錄影帶中，用護頸來象徵金屬之神，以及現場演出的甩頭、昏倒等動作，來向因打鼓導致頸椎永久受損的[YOSHIKI致敬](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")。
         至2016年底的Youtube點播數是1100萬次。
 13. **〈欺凌、絕對、不行〉**
       -
-        融合速度金屬、力量金屬與旋律死亡金屬。
+        融合[速度金屬](https://zh.wikipedia.org/wiki/速度金屬 "wikilink")、[力量金屬與](https://zh.wikipedia.org/wiki/力量金屬 "wikilink")[旋律死亡金屬](https://zh.wikipedia.org/wiki/旋律死亡金屬 "wikilink")。
         主題是反霸凌、鼓勵弱者，描述在校園欺凌中自我與他人之間的抗爭\[70\]。
         此曲通常放在現場演出的最後一首。
         在限量版單曲裡收錄了[Arch Enemy前吉他手](../Page/邪神大敵.md "wikilink")彈奏電吉他的版本。
-        至2016年底的Youtube點播數是1800萬次。
+        至2019年底的Youtube點播數是2400萬次。
 
 
 : <small>歐版／美版附贈曲目</small>
 
 1.  **〈Road of Resistance〉**
       -
-        融合速度金屬、力量金屬、旋律交響金屬與[頌歌](../Page/頌歌.md "wikilink")，是與[DragonForce一起創作的曲子](https://zh.wikipedia.org/wiki/DragonForce "wikilink")，吉他部分由[李康敏](../Page/李康敏.md "wikilink")與負責\[71\]。
+        融合[速度金屬](https://zh.wikipedia.org/wiki/速度金屬 "wikilink")、[力量金屬](https://zh.wikipedia.org/wiki/力量金屬 "wikilink")、[旋律交響金屬與](https://zh.wikipedia.org/wiki/旋律交響金屬 "wikilink")[頌歌](../Page/頌歌.md "wikilink")，是與[DragonForce一起創作的曲子](https://zh.wikipedia.org/wiki/DragonForce "wikilink")，吉他部分由[李康敏](../Page/李康敏.md "wikilink")與負責\[71\]。
         主題是BABYMETAL的金屬抗爭之路\[72\]。
         至2016年底的Youtube點播數是1100萬次。
 

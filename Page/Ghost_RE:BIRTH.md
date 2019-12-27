@@ -242,7 +242,7 @@ Ghost驅動器使用時音效為「Pride！Greed！Lust！Wrath！Envy！Glutton
 
 ## 外部連結
 
-  - [官方網站](http://www.ghost-rebirth.com///)
+  - [官方網站](https://web.archive.org/web/20170103113122/http://www.ghost-rebirth.com/)
 
   -
 ## 參考資料

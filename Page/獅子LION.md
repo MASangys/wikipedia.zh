@@ -2,7 +2,7 @@
 
 團名由來是Lion這首歌在副歌的旋律很像Lion發音，最後就討論出簡單直接有力的Lion當團名。\[3\] 樂團以創作為訴求，曲風多元，伴隨[Hard rock](https://zh.wikipedia.org/wiki/Hard_rock "wikilink")、流行、金屬、抒情、民謠、爵士及電音等樂風。
 
-2019-05-20 宣布新成員並更名為**獅子LION**。
+2019年05月20日，宣布新成員並更名為**獅子LION**。
 
 ## 成員介紹
 
@@ -175,7 +175,7 @@
 <td style="text-align: center;"><center>
 <p>2017年9月30日</p></td>
 <td style="text-align: center;"><center>
-<p><a href="https://zh.wikipedia.org/wiki/相信音樂" title="wikilink">相信音樂</a></p></td>
+<p><a href="../Page/相信音樂.md" title="wikilink">相信音樂</a></p></td>
 </tr>
 </tbody>
 </table>

@@ -1,4 +1,4 @@
-下表列有12名现役及退役[NBA](../Page/NBA.md "wikilink")球员的主要职业生涯及国际比赛成就。这12名球员是[ESPN](../Page/ESPN.md "wikilink")球员历史排名的前12名。\[1\] 他们分别是[<span style="color:White; background-color:Coral">迈克尔·乔丹</span>](../Page/迈克尔·乔丹.md "wikilink")、[<span style="background-color:Yellow">卡里姆·阿卜杜勒-贾巴尔</span>](https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔 "wikilink")、[<span style="color:White; background-color:Navy">勒布朗·詹姆斯</span>](../Page/勒布朗·詹姆斯.md "wikilink")、[<span style="color:White; background-color:Green">埃尔文·约翰逊</span>](../Page/魔术师约翰逊.md "wikilink")、[<span style="background-color:GreenYellow">威尔特·张伯伦</span>](../Page/威尔特·张伯伦.md "wikilink")、[<span style="background-color:Plum">拉里·伯德</span>](https://zh.wikipedia.org/wiki/拉里·伯德 "wikilink")、[<span style="color:White; background-color:Crimson">比尔·拉塞尔</span>](../Page/比尔·拉塞尔.md "wikilink")、[<span style="background-color:Lime">蒂姆·邓肯</span>](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink")、[<span style="color:White; background-color:Teal">沙奎尔·奥尼尔</span>](../Page/沙奎尔·奥尼尔.md "wikilink")、[<span style="color:White; background-color:DodgerBlue">哈基姆·奥拉朱旺</span>](../Page/哈基姆·奥拉朱旺.md "wikilink")、[<span style="color:White; background-color:Blue">奥斯卡·罗伯特森</span>和](../Page/奥斯卡·罗伯逊.md "wikilink")[<span style="background-color:Gold">科比·布莱恩特</span>](../Page/科比·布莱恩特.md "wikilink")。
+下表列有12名现役及退役[NBA](../Page/NBA.md "wikilink")球员的主要职业生涯及国际比赛成就。这12名球员是[ESPN](../Page/ESPN.md "wikilink")球员历史排名的前12名。\[1\] 他们分别是[<span style="color:White; background-color:Coral">迈克尔·乔丹</span>](../Page/迈克尔·乔丹.md "wikilink")、[<span style="background-color:Yellow">卡里姆·阿卜杜勒-贾巴尔</span>](../Page/卡里姆·阿卜杜勒-贾巴尔.md "wikilink")、[<span style="color:White; background-color:Navy">勒布朗·詹姆斯</span>](../Page/勒布朗·詹姆斯.md "wikilink")、[<span style="color:White; background-color:Green">埃尔文·约翰逊</span>](../Page/魔术师约翰逊.md "wikilink")、[<span style="background-color:GreenYellow">威尔特·张伯伦</span>](../Page/威尔特·张伯伦.md "wikilink")、[<span style="background-color:Plum">拉里·伯德</span>](https://zh.wikipedia.org/wiki/拉里·伯德 "wikilink")、[<span style="color:White; background-color:Crimson">比尔·拉塞尔</span>](../Page/比尔·拉塞尔.md "wikilink")、[<span style="background-color:Lime">蒂姆·邓肯</span>](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink")、[<span style="color:White; background-color:Teal">沙奎尔·奥尼尔</span>](../Page/沙奎尔·奥尼尔.md "wikilink")、[<span style="color:White; background-color:DodgerBlue">哈基姆·奥拉朱旺</span>](../Page/哈基姆·奥拉朱旺.md "wikilink")、[<span style="color:White; background-color:Blue">奥斯卡·罗伯特森</span>和](../Page/奥斯卡·罗伯逊.md "wikilink")[<span style="background-color:Gold">科比·布莱恩特</span>](../Page/科比·布莱恩特.md "wikilink")。
 
 ## NBA球员主要荣誉
 
@@ -16,7 +16,7 @@
 <th><p><a href="https://zh.wikipedia.org/wiki/NBA全明星赛" title="wikilink">全明星赛首发</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/NBA全明星賽最有价值球员" title="wikilink">全明星赛MVP</a></p></th>
 <th><p><a href="../Page/NBA年度最佳新秀.md" title="wikilink">最佳新秀</a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/夏季奥林匹克运动会篮球比赛" title="wikilink">奥运会金牌</a></p></th>
+<th><p><a href="../Page/夏季奥林匹克运动会篮球比赛.md" title="wikilink">奥运会金牌</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/世界杯篮球赛" title="wikilink">世界杯冠军</a></p></th>
 <th></th>
 <th><p><a href="../Page/年度最佳体育人物_(运动画刊).md" title="wikilink">运动画刊最佳体育人物</a></p></th>
@@ -407,7 +407,7 @@
 <td><p>—</p></td>
 <td><p><a href="../Page/奥斯卡·罗伯逊.md" title="wikilink"><span style="color:White; background-color:Blue">罗伯特森</span></a><sub>(10)</sub></p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -424,21 +424,21 @@
 </tr>
 <tr class="even">
 <td><p>1971</p></td>
-<td><p><a href="../Page/奥斯卡·罗伯逊.md" title="wikilink"><span style="color:White; background-color:Blue">罗伯特森</span></a> <a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a></p></td>
+<td><p><a href="../Page/奥斯卡·罗伯逊.md" title="wikilink"><span style="color:White; background-color:Blue">罗伯特森</span></a> <a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a></p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a></p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a></p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a></p></td>
 <td><p>—</p></td>
 <td></td>
 <td></td>
@@ -451,20 +451,20 @@
 <tr class="odd">
 <td><p>1972</p></td>
 <td><p><a href="../Page/威尔特·张伯伦.md" title="wikilink"><span style="background-color:GreenYellow">张伯伦</span></a><sub>(2)</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(2)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(2)</sub></p></td>
 <td><p><a href="../Page/威尔特·张伯伦.md" title="wikilink"><span style="background-color:GreenYellow">张伯伦</span></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(2)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(2)</sub></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(2)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(2)</sub></p></td>
 <td><p><a href="../Page/威尔特·张伯伦.md" title="wikilink"><span style="background-color:GreenYellow">张伯伦</span></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(2)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(2)</sub></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(2)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(2)</sub></p></td>
 <td><p>—</p></td>
 <td></td>
 <td></td>
@@ -481,7 +481,7 @@
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(3)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(3)</sub></p></td>
 <td><p><a href="../Page/威尔特·张伯伦.md" title="wikilink"><span style="background-color:GreenYellow">张伯伦</span></a><sub>(2)</sub></p></td>
 <td><p><a href="../Page/威尔特·张伯伦.md" title="wikilink"><span style="background-color:GreenYellow">张伯伦</span></a><sub>(9)</sub></p></td>
 <td><p>—</p></td>
@@ -503,20 +503,20 @@
 <tr class="odd">
 <td><p>1974</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(3)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(3)</sub></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(4)</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(3)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(4)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(3)</sub></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(3)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(3)</sub></p></td>
 <td><p>—</p></td>
 <td></td>
 <td></td>
@@ -534,8 +534,8 @@
 <td><p>—</p></td>
 <td></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(2)</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(4)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(2)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(4)</sub></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -555,20 +555,20 @@
 <tr class="odd">
 <td><p>1976</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(4)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(4)</sub></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(5)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(5)</sub></p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(5)</sub></p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(5)</sub></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(4)</sub></p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(4)</sub></p></td>
 <td><p>—</p></td>
 <td></td>
 <td></td>
@@ -581,11 +581,11 @@
 <tr class="even">
 <td><p>1977</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(5)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(5)</sub></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(6)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(6)</sub></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -594,7 +594,7 @@
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(5)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(5)</sub></p></td>
 <td><p>—</p></td>
 <td></td>
 <td></td>
@@ -638,8 +638,8 @@
 <td><p>—</p></td>
 <td></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(3)</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(6)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(3)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(6)</sub></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -658,21 +658,21 @@
 </tr>
 <tr class="odd">
 <td><p>1980</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(2)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(6)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(2)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(6)</sub></p></td>
 <td><p><a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a></p></td>
 <td><p>—</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(7)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(4)</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(7)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(7)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(4)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(7)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a></p></td>
 <td><p>—</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(6)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(6)</sub></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td></td>
@@ -689,9 +689,9 @@
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(8)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(2)</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(5)</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(8)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(8)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(2)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(5)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(8)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -710,14 +710,14 @@
 </tr>
 <tr class="odd">
 <td><p>1982</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(3)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(2)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(3)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(2)</sub></p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(2)</sub></p></td>
 <td><p>—</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(3)</sub></p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(9)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(2)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(9)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(2)</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -743,7 +743,7 @@
 <td><p>—</p></td>
 <td><p><a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(4)</sub></p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(10)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(2)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(3)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(10)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(2)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(3)</sub></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -767,9 +767,9 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(9)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(2)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(5)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(9)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(2)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(5)</sub></p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(11)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(3)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(4)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(11)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(3)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(4)</sub></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/迈克尔·乔丹.md" title="wikilink"><span style="color:White; background-color:Coral">乔丹</span></a></p></td>
@@ -788,20 +788,20 @@
 </tr>
 <tr class="even">
 <td><p>1985</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(4)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(3)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(4)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(3)</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(2)</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(2)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(2)</sub></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(3)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(6)</sub></p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(12)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(4)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(5)</sub> <a href="../Page/迈克尔·乔丹.md" title="wikilink"><span style="color:White; background-color:Coral">乔丹</span></a></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(12)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(4)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(5)</sub> <a href="../Page/迈克尔·乔丹.md" title="wikilink"><span style="color:White; background-color:Coral">乔丹</span></a></p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/迈克尔·乔丹.md" title="wikilink"><span style="color:White; background-color:Coral">乔丹</span></a></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -819,9 +819,9 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(2)</sub></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(10)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(4)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(7)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(10)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(4)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(7)</sub></p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(13)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(5)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(6)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(13)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(5)</sub> <a href="https://zh.wikipedia.org/wiki/拉里·伯德" title="wikilink"><span style="background-color:Plum">伯德</span></a><sub>(6)</sub></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -840,7 +840,7 @@
 </tr>
 <tr class="even">
 <td><p>1987</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(5)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(4)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(5)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(4)</sub></p></td>
 <td><p><a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a></p></td>
 <td><p><a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(3)</sub></p></td>
 <td><p><a href="../Page/迈克尔·乔丹.md" title="wikilink"><span style="color:White; background-color:Coral">乔丹</span></a></p></td>
@@ -866,7 +866,7 @@
 </tr>
 <tr class="odd">
 <td><p>1988</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(6)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(5)</sub></p></td>
+<td><p><a href="../Page/卡里姆·阿卜杜勒-贾巴尔.md" title="wikilink"><span style="background-color:Yellow">贾巴尔</span></a><sub>(6)</sub> <a href="../Page/魔术师约翰逊.md" title="wikilink"><span style="color:White; background-color:Green">约翰逊</span></a><sub>(5)</sub></p></td>
 <td><p><a href="../Page/迈克尔·乔丹.md" title="wikilink"><span style="color:White; background-color:Coral">乔丹</span></a></p></td>
 <td><p>—</p></td>
 <td><p><a href="../Page/迈克尔·乔丹.md" title="wikilink"><span style="color:White; background-color:Coral">乔丹</span></a><sub>(2)</sub></p></td>
@@ -1630,7 +1630,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/NBA全明星赛" title="wikilink">全明星赛首发</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/NBA全明星賽最有价值球员" title="wikilink">全明星赛MVP</a></p></td>
 <td><p><a href="../Page/NBA年度最佳新秀.md" title="wikilink">最佳新秀</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/夏季奥林匹克运动会篮球比赛" title="wikilink">奥运会金牌</a></p></td>
+<td><p><a href="../Page/夏季奥林匹克运动会篮球比赛.md" title="wikilink">奥运会金牌</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/世界杯篮球赛" title="wikilink">世界杯冠军</a></p></td>
 <td></td>
 <td><p><a href="../Page/年度最佳体育人物_(运动画刊).md" title="wikilink">运动画刊最佳体育人物</a></p></td>

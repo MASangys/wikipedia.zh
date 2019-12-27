@@ -20,7 +20,7 @@
 <th><p><a href="../Page/Pixel_3.md" title="wikilink">Pixel 3 XL</a></p></th>
 <th><p><a href="../Page/Pixel_3a.md" title="wikilink">Pixel 3a</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/Pixel_3a_XL" title="wikilink">Pixel 3a XL</a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/Pixel_4" title="wikilink">Pixel 4</a></p></th>
+<th><p><a href="../Page/Pixel_4.md" title="wikilink">Pixel 4</a></p></th>
 <th><p><strong><a href="https://zh.wikipedia.org/wiki/Pixel_4_XL" title="wikilink">Pixel 4 XL</a></strong></p></th>
 </tr>
 </thead>

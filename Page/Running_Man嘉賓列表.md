@@ -3441,138 +3441,138 @@
 <tr class="odd">
 <td><p><a href="../Page/林在範.md" title="wikilink">JB</a>（제이비）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）</p></td>
-<td><p>272</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
+<td><p>272、418</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/段宜恩.md" title="wikilink">Mark</a>（마　크）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）</p></td>
-<td><p>272</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
+<td><p>272、418</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/王嘉爾.md" title="wikilink">Jackson</a>（잭　슨）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）</p></td>
-<td><p>272</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
+<td><p>272、418</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/朴珍榮.md" title="wikilink">Jinyoung</a>（주니어）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）</p></td>
-<td><p>272</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
+<td><p>272、418、477-478</p></td>
+<td><p>4</p></td>
+<td><p>3</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/崔榮宰.md" title="wikilink">Youngjae</a>（영　재）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）</p></td>
-<td><p>272</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
+<td><p>272、418</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/BamBam.md" title="wikilink">BamBam</a>（뱀　뱀）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）</p></td>
-<td><p>272</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
+<td><p>272、418</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金有謙.md" title="wikilink">Yugyeom</a>（유　겸）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）</p></td>
-<td><p>272</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
+<td><p>272、418</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Seventeen_(組合).md" title="wikilink">S.Coups</a>（에스쿱스）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔勝哲" title="wikilink">S.Coups</a>（에스쿱스）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>）</p></td>
 <td><p>272</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Seventeen_(組合).md" title="wikilink">Jeong Han</a>（정　한）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尹淨漢" title="wikilink">Jeong Han</a>（정　한）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>）</p></td>
 <td><p>272</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Seventeen_(組合).md" title="wikilink">Joshua</a>（조슈아）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua</a>（조슈아）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>）</p></td>
 <td><p>272</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Seventeen_(組合).md" title="wikilink">Jun</a>（준）</p></td>
+<td><p><a href="../Page/文俊輝.md" title="wikilink">Jun</a>（준）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>）</p></td>
 <td><p>272</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Seventeen_(組合).md" title="wikilink">Hoshi</a>（호　시）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a>（호　시）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>）</p></td>
 <td><p>272</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Seventeen_(組合).md" title="wikilink">Won Woo</a>（원　우）</p></td>
+<td><p><a href="../Page/全圓佑.md" title="wikilink">Won Woo</a>（원　우）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>）</p></td>
 <td><p>272</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Seventeen_(組合).md" title="wikilink">Woozi</a>（우　지）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李知勳" title="wikilink">Woozi</a>（우　지）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>）</p></td>
 <td><p>272</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Seventeen_(組合).md" title="wikilink">DK</a>（도　겸）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>（도　겸）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>）</p></td>
 <td><p>272</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/金珉奎.md" title="wikilink">珉奎</a>（민규）</p></td>
+<td><p><a href="../Page/金珉奎.md" title="wikilink">Min Gyu</a>（민규）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>）</p></td>
 <td><p>272、448</p></td>
 <td><p>2</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Seventeen_(組合).md" title="wikilink">THE8</a>（디에잇）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/徐明浩" title="wikilink">THE8</a>（디에잇）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>）</p></td>
 <td><p>272</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/夫勝寛.md" title="wikilink">勝寛</a>（승관）</p></td>
+<td><p><a href="../Page/夫勝寛.md" title="wikilink">Seung Kwan</a>（승관）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>）</p></td>
 <td><p>272、448</p></td>
 <td><p>2</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Seventeen_(組合).md" title="wikilink">Vernon</a>（버　논）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a>（버　논）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>）</p></td>
 <td><p>272</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Seventeen_(組合).md" title="wikilink">Dino</a>（디　노）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李燦" title="wikilink">Dino</a>（디　노）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>）</p></td>
 <td><p>272</p></td>
 <td><p>1</p></td>
@@ -4988,9 +4988,9 @@
 <tr class="even">
 <td><p><a href="../Page/姜漢娜.md" title="wikilink">姜漢娜</a>（강한나）</p></td>
 <td><p>演員（女）</p></td>
-<td><p>343、380、392-396、399-400、406-408、426-427</p></td>
-<td><p>14</p></td>
-<td><p>8</p></td>
+<td><p>343、380、392-396、399-400、406-408、426-427、476-477、480</p></td>
+<td><p>17</p></td>
+<td><p>10</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Umji.md" title="wikilink">Umji</a>（엄지）</p></td>
@@ -5539,7 +5539,7 @@
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金惠奫" title="wikilink">金惠奫</a>（김혜윤）</p></td>
+<td><p><a href="../Page/金惠奫.md" title="wikilink">金惠奫</a>（김혜윤）</p></td>
 <td><p>演員（女）</p></td>
 <td><p>448</p></td>
 <td><p>1</p></td>

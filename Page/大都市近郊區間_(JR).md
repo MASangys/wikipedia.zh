@@ -26,7 +26,7 @@
   - [川越線](../Page/川越線.md "wikilink")：大宮站－[高麗川站](../Page/高麗川站.md "wikilink")（全線）
   - [高崎線](../Page/高崎線.md "wikilink")：大宮站－高崎站（全線）
   - [上越線](../Page/上越線.md "wikilink")：高崎站－[水上站](https://zh.wikipedia.org/wiki/水上站_\(日本\) "wikilink")
-  - [兩毛線](../Page/兩毛線.md "wikilink")：[新前橋站](../Page/新前橋站.md "wikilink")－[小山站](https://zh.wikipedia.org/wiki/小山站 "wikilink")（全線）
+  - [兩毛線](../Page/兩毛線.md "wikilink")：[新前橋站](../Page/新前橋站.md "wikilink")－[小山站](../Page/小山站.md "wikilink")（全線）
   - [水戶線](../Page/水戶線.md "wikilink")：小山站－（全線）
   - [日光線](../Page/日光線.md "wikilink")：[宇都宮站](https://zh.wikipedia.org/wiki/宇都宮站 "wikilink")－[日光站](../Page/日光站.md "wikilink")（全線）
   - [烏山線](../Page/烏山線.md "wikilink")：[寶積寺站](https://zh.wikipedia.org/wiki/寶積寺站 "wikilink")－[烏山站](../Page/烏山站_\(日本\).md "wikilink")（全線）
@@ -51,12 +51,12 @@
 
 ### 大阪近郊區間
 
-[Osaka_Suburban_Area.gif](https://zh.wikipedia.org/wiki/File:Osaka_Suburban_Area.gif "fig:Osaka_Suburban_Area.gif") **大阪近郊區間**為JR東海與JR西日本以下的區間。不包括[山陽新幹線](../Page/山陽新幹線.md "wikilink")[新大阪站](https://zh.wikipedia.org/wiki/新大阪站 "wikilink")－[西明石站](https://zh.wikipedia.org/wiki/西明石站 "wikilink")。
+[Osaka_Suburban_Area.gif](https://zh.wikipedia.org/wiki/File:Osaka_Suburban_Area.gif "fig:Osaka_Suburban_Area.gif") **大阪近郊區間**為JR東海與JR西日本以下的區間。不包括[山陽新幹線](../Page/山陽新幹線.md "wikilink")[新大阪站](../Page/新大阪站.md "wikilink")－[西明石站](https://zh.wikipedia.org/wiki/西明石站 "wikilink")。
 
-  - [東海道本線](../Page/東海道本線.md "wikilink")：[米原站](https://zh.wikipedia.org/wiki/米原站 "wikilink")－[神戶站](../Page/神戶站_\(兵庫縣\).md "wikilink")（JR西日本管內全域）
+  - [東海道本線](../Page/東海道本線.md "wikilink")：[米原站](../Page/米原站.md "wikilink")－[神戶站](../Page/神戶站_\(兵庫縣\).md "wikilink")（JR西日本管內全域）
   - [東海道新幹線](../Page/東海道新幹線.md "wikilink")：米原站－新大阪站\[2\]
   - [湖西線](../Page/湖西線.md "wikilink")：[山科站](https://zh.wikipedia.org/wiki/山科站 "wikilink")－近江鹽津站（全線）
-  - [大阪東線](../Page/大阪東線.md "wikilink")：[新大阪站](https://zh.wikipedia.org/wiki/新大阪站 "wikilink")－[久寶寺站](https://zh.wikipedia.org/wiki/久寶寺站 "wikilink")（全線）
+  - [大阪東線](../Page/大阪東線.md "wikilink")：[新大阪站](../Page/新大阪站.md "wikilink")－[久寶寺站](https://zh.wikipedia.org/wiki/久寶寺站 "wikilink")（全線）
   - [大阪環狀線](../Page/大阪環狀線.md "wikilink")：[天王寺站](../Page/天王寺站.md "wikilink")－[大阪站](https://zh.wikipedia.org/wiki/大阪站 "wikilink")－[新今宮站](https://zh.wikipedia.org/wiki/新今宮站 "wikilink")（全線）
   - [櫻島線](../Page/櫻島線.md "wikilink")：[西九條站](https://zh.wikipedia.org/wiki/西九條站 "wikilink")－[櫻島站](https://zh.wikipedia.org/wiki/櫻島站 "wikilink")（全線）
   - [JR東西線](../Page/JR東西線.md "wikilink")：[京橋站](https://zh.wikipedia.org/wiki/京橋站_\(大阪府\) "wikilink")－[尼崎站](../Page/尼崎站_\(JR西日本\).md "wikilink")（全線）
@@ -64,7 +64,7 @@
   - [北陸本線](../Page/北陸本線.md "wikilink")：米原站－
   - [山陽本線](../Page/山陽本線.md "wikilink")
       - 本線（包括[JR神戶線](../Page/JR神戶線.md "wikilink")）：神戶站－[相生站](https://zh.wikipedia.org/wiki/相生站_\(兵庫縣\) "wikilink")
-      - [和田岬線](../Page/和田岬線.md "wikilink")：－[和田岬站](../Page/和田岬站.md "wikilink")
+      - [和田岬線](../Page/和田岬線.md "wikilink")：[兵庫站](https://zh.wikipedia.org/wiki/兵庫站 "wikilink")－[和田岬站](../Page/和田岬站.md "wikilink")
   - 山陽新幹線：西明石站－相生站
   - [加古川線](../Page/加古川線.md "wikilink")：－谷川站（全線）
   - [赤穗線](../Page/赤穗線.md "wikilink")：相生站－
@@ -87,10 +87,10 @@
   - [鹿兒島本線](../Page/鹿兒島本線.md "wikilink")：[門司港站](../Page/門司港站.md "wikilink")－[鳥栖站](https://zh.wikipedia.org/wiki/鳥栖站 "wikilink")
   - [香椎線](../Page/香椎線.md "wikilink")：－（全線）
   - [篠栗線](../Page/篠栗線.md "wikilink")：－（全線）
-  - [博多南線](../Page/博多南線.md "wikilink")：[博多站](https://zh.wikipedia.org/wiki/博多站 "wikilink")－[博多南站](https://zh.wikipedia.org/wiki/博多南站 "wikilink")（全線）\[3\]
-  - [日豐本線](../Page/日豐本線.md "wikilink")：[小倉站](https://zh.wikipedia.org/wiki/小倉站_\(福岡縣\) "wikilink")－
+  - [博多南線](../Page/博多南線.md "wikilink")：[博多站](../Page/博多站.md "wikilink")－[博多南站](https://zh.wikipedia.org/wiki/博多南站 "wikilink")（全線）\[3\]
+  - [日豐本線](../Page/日豐本線.md "wikilink")：[小倉站](../Page/小倉站_\(福岡縣\).md "wikilink")－
   - [日田彥山線](../Page/日田彥山線.md "wikilink")：－
-  - [筑豐本線](../Page/筑豐本線.md "wikilink")：－（全線）
+  - [筑豐本線](../Page/筑豐本線.md "wikilink")：－[原田站](https://zh.wikipedia.org/wiki/原田站_\(福岡縣\) "wikilink")（全線）
   - [後藤寺線](../Page/後藤寺線.md "wikilink")：[新飯塚站](https://zh.wikipedia.org/wiki/新飯塚站 "wikilink")－（全線）
 
 ### 新潟近郊區間
@@ -99,7 +99,7 @@
 
   - [磐越西線](https://zh.wikipedia.org/wiki/磐越西線 "wikilink")：－[新津站](https://zh.wikipedia.org/wiki/新津站 "wikilink")
   - [羽越本線](../Page/羽越本線.md "wikilink")：新津站－
-  - [白新線](../Page/白新線.md "wikilink")：[新潟站](https://zh.wikipedia.org/wiki/新潟站 "wikilink")－（全線）
+  - [白新線](../Page/白新線.md "wikilink")：[新潟站](../Page/新潟站.md "wikilink")－（全線）
   - [信越本線](../Page/信越本線.md "wikilink")：[直江津站](../Page/直江津站.md "wikilink")－新潟站（新潟縣內全線）
   - [越後線](../Page/越後線.md "wikilink")：[柏崎站](../Page/柏崎站.md "wikilink")－新潟站（全線）
   - [彌彥線](../Page/彌彥線.md "wikilink")：－（全線）
@@ -114,12 +114,12 @@
       - [利府支線](../Page/利府線.md "wikilink")：[岩切站](https://zh.wikipedia.org/wiki/岩切站 "wikilink")－[利府站](https://zh.wikipedia.org/wiki/利府站 "wikilink")
       - 仙石線、東北本線接續線（[仙石東北線](https://zh.wikipedia.org/wiki/仙石東北線 "wikilink")）：[松島站](https://zh.wikipedia.org/wiki/松島站_\(日本\) "wikilink")－[高城町站](../Page/高城町站.md "wikilink")
   - [常磐線](../Page/常磐線.md "wikilink")：[原之町站](https://zh.wikipedia.org/wiki/原之町站 "wikilink")－[岩沼站](https://zh.wikipedia.org/wiki/岩沼站 "wikilink")
-  - [仙山線](../Page/仙山線.md "wikilink")：[仙台站](https://zh.wikipedia.org/wiki/仙台站 "wikilink")－[羽前千歲站](https://zh.wikipedia.org/wiki/羽前千歲站 "wikilink")（全線）
+  - [仙山線](../Page/仙山線.md "wikilink")：[仙台站](../Page/仙台站.md "wikilink")－[羽前千歲站](https://zh.wikipedia.org/wiki/羽前千歲站 "wikilink")（全線）
   - [仙石線](../Page/仙石線.md "wikilink")：[青葉通站](../Page/青葉通站.md "wikilink")－[石卷站](../Page/石卷站.md "wikilink")（全線）
   - [石卷線](../Page/石卷線.md "wikilink")：[小牛田站](https://zh.wikipedia.org/wiki/小牛田站 "wikilink")－[女川站](../Page/女川站.md "wikilink")（全線）
   - [磐越東線](../Page/磐越東線.md "wikilink")：[船引站](../Page/船引站.md "wikilink")－[郡山站](https://zh.wikipedia.org/wiki/郡山站_\(福島縣\) "wikilink")
   - [磐越西線](https://zh.wikipedia.org/wiki/磐越西線 "wikilink")：郡山站－[喜多方站](../Page/喜多方站.md "wikilink")
-  - [奥羽本線](https://zh.wikipedia.org/wiki/奥羽本線 "wikilink")（[山形線](../Page/山形線.md "wikilink")）：[福島站](https://zh.wikipedia.org/wiki/福島站_\(福島縣\) "wikilink")－[新-{庄}-站](../Page/新庄站_\(日本\).md "wikilink")（同區間乘搭特別急行列車（[山形新幹線](../Page/山形新幹線.md "wikilink")）的情況除外）
+  - [奥羽本線](https://zh.wikipedia.org/wiki/奥羽本線 "wikilink")（[山形線](../Page/山形線.md "wikilink")）：[福島站](../Page/福島站_\(福島縣\).md "wikilink")－[新-{庄}-站](../Page/新庄站_\(日本\).md "wikilink")（同區間乘搭特別急行列車（[山形新幹線](../Page/山形新幹線.md "wikilink")）的情況除外）
   - [左澤線](../Page/左澤線.md "wikilink")：[北山形站](../Page/北山形站.md "wikilink")－（全線）
   - [陸羽東線](../Page/陸羽東線.md "wikilink")：小牛田站－新-{庄}-站（全線）
 

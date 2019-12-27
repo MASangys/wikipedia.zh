@@ -327,12 +327,12 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 </tr>
 <tr class="odd">
 <td><p>30</p></td>
-<td><p></p></td>
+<td></td>
 <td><p><a href="../Page/謝家強.md" title="wikilink">謝家強</a>（Sean Tse）</p></td>
 <td><p>1992年5月3日</p></td>
 <td><p>2018年</p></td>
 <td><p><a href="../Page/大埔足球會.md" title="wikilink">和富大埔</a></p></td>
-<td><p>多重國藉本地球員</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">

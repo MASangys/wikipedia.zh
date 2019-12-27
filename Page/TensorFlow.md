@@ -20,7 +20,7 @@ TensorFlow是谷歌大脑的第二代[机器学习](../Page/机器学习.md "wik
 
 1.0.0版本发布于2017年2月11日。虽然参考实现运行在单台设备，TensorFlow可以运行在多个[CPU和](https://zh.wikipedia.org/wiki/CPU "wikilink")[GPU](../Page/圖形處理器.md "wikilink")（和可选的[CUDA](../Page/CUDA.md "wikilink")扩展和[图形处理器通用计算](../Page/图形处理器通用计算.md "wikilink")的[SYCL](../Page/SYCL.md "wikilink")扩展）。\[11\]TensorFlow可用于64位[Linux](../Page/Linux.md "wikilink")、[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，以及移动计算平台，包括[Android](../Page/Android.md "wikilink")和[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
-TensorFlow的计算使用有状态的数据流图表示。TensorFlow的名字来源于这类神经网络对多维数组执行的操作。这些多维数组被称为[张量](https://zh.wikipedia.org/wiki/张量 "wikilink")（Tensor）。2016年6月，Jeff Dean称在[GitHub](../Page/GitHub.md "wikilink")有1500个库提到了TensorFlow，其中只有5个来自Google。\[12\]
+TensorFlow的计算使用有状态的数据流图表示。TensorFlow的名字来源于这类神经网络对多维数组执行的操作。这些多维数组被称为[张量](https://zh.wikipedia.org/wiki/张量 "wikilink")（Tensor）。2016年6月，Jeff Dean称在[GitHub](../Page/GitHub.md "wikilink")有1500个库了TensorFlow，其中只有5个来自Google。\[12\]
 
 ### 张量处理单元（TPU）
 
@@ -40,9 +40,9 @@ TensorFlow的计算使用有状态的数据流图表示。TensorFlow的名字来
 
 TensorFlow提供了一个[Python API](https://www.tensorflow.org/versions/master/api_docs/python/index.html)，以及[C++](https://www.tensorflow.org/versions/master/api_docs/cc/index.html)、[Haskell](https://github.com/tensorflow/haskell)、[Java](https://www.tensorflow.org/api_docs/java/reference/org/tensorflow/package-summary)、[Go](https://godoc.org/github.com/tensorflow/tensorflow/tensorflow/go)和[Rust](https://github.com/tensorflow/rust) API。第三方包可用于 [C\#](https://github.com/migueldeicaza/TensorFlowSharp)、[.NET Core](https://github.com/SciSharp/TensorFlow.NET)、[Julia](https://github.com/malmaud/TensorFlow.jl)、[R](https://github.com/rstudio/tensorflow)和[Scala](https://github.com/eaplatanios/tensorflow_scala)。
 
-TensorFlow的底层核心引擎由C++实现，通过 [gRPC](https://grpc.io/) 实现网络互访、分布式执行。虽然它的Python/C++/Java API共享了大部分执行代码，但是有关于反向传播梯度计算的部分需要在不同语言单独实现。目前只有Python API较为丰富的实现了[反向传播部分](../Page/反向传播算法.md "wikilink")。所以大多数人使用[Python](../Page/Python.md "wikilink")进行模型训练，但是可以选择使用其它语言进行线上推理。
+TensorFlow的底层核心引擎由C++实现，通过gRPC实现网络互访、分布式执行。虽然它的Python/C++/Java API共享了大部分执行代码，但是有关于反向传播梯度计算的部分需要在不同语言单独实现。目前只有Python API较为丰富的实现了[反向传播部分](../Page/反向传播算法.md "wikilink")。所以大多数人使用[Python](../Page/Python.md "wikilink")进行模型训练，但是可以选择使用其它语言进行线上推理。
 
-TensorFlow在Windows和Linux上支持使用 Bazel 或 [CMake](../Page/CMake.md "wikilink") 构建，在某些平台上也支持直接使用 [GNU Make](https://zh.wikipedia.org/wiki/GNU_make "wikilink") 进行编译。
+TensorFlow在Windows和Linux上支持使用Bazel或[CMake](../Page/CMake.md "wikilink")构建，在某些平台上也支持直接使用[GNU make进行编译](https://zh.wikipedia.org/wiki/GNU_make "wikilink")。
 
 ## 例子
 

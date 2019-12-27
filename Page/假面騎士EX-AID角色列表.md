@@ -2,7 +2,7 @@
 
 ## 假面騎士
 
-**寶生永夢（）**（[飯島寛騎](https://zh.wikipedia.org/wiki/飯島寛騎 "wikilink")、[高橋來](../Page/高橋來.md "wikilink")（童年期）飾／台灣配音：[王辰驊](../Page/王辰驊.md "wikilink")（本篇）、[江志倫](../Page/江志倫.md "wikilink")（冬季電影版）、[宋昱璁](../Page/宋昱璁.md "wikilink")（平成世代FINAL）／香港配音：[李凱杰](https://zh.wikipedia.org/wiki/李凱杰 "wikilink") ）
+**寶生永夢（）**（[飯島寛騎](https://zh.wikipedia.org/wiki/飯島寛騎 "wikilink")、[高橋來](../Page/高橋來.md "wikilink")（童年期）飾／台灣配音：[王辰驊](../Page/王辰驊.md "wikilink")（本篇）、[江志倫](../Page/江志倫.md "wikilink")（冬季電影版）、[宋昱璁](../Page/宋昱璁.md "wikilink")（平成世代FINAL）／香港配音：[李凱杰](https://zh.wikipedia.org/wiki/李凱杰 "wikilink")（TVB)、[杜景煜](../Page/杜景煜.md "wikilink")（平成世代FINAL））
 
   -
     **假面騎士EX-AID**、**假面騎士Para-DX Fighter Gamer Level 50（被帕拉德附身時）** 的變身者。
@@ -56,7 +56,7 @@
     升級成Level 2 的口頭禪是「大變身！」（日語原文為「」）；Level 3 的口頭禪是「大大大變身！」（日語原文為「」）；Level 4 的口頭禪是「大大大大變身」（日語原文為「」）；Level 5 的口頭禪是「大大大大大變身」（日語原文為「」）；Level X 的口頭禪是「大--變身！」（日語原文為「」）；Level XX 的口頭禪是「大---變身！」（日語原文為「」）；Level 99 的口頭禪是「MAX大變身！」（日語原文為「」）；Hyper Muteki 的口頭禪是「Hyper大變身！」（日語原文為「」）
     角色命名由來：「從永遠的夢想中誕生出寶物，願給予病患笑容（宝を生む永遠の夢、患者を笑顔にするえむ）」
 
-**鏡飛彩（）**（[瀨戶利樹](../Page/瀨戶利樹.md "wikilink") 飾／台灣配音：[李勇](../Page/李勇_\(配音員\).md "wikilink")（本篇）、歐祖豪（冬季劇場版））
+**鏡飛彩（）**（[瀨戶利樹](../Page/瀨戶利樹.md "wikilink") 飾／台灣配音：[李勇](../Page/李勇_\(配音員\).md "wikilink")（本篇）、歐祖豪（冬季劇場版）／香港配音：[郭湛深](../Page/郭湛深.md "wikilink"))
 
   -
     **假面騎士Brave** 的變身者。
@@ -92,7 +92,7 @@
     升級成Level 2 的口頭禪是「手術Level 2」（日語原文為「」）；Level 3 的口頭禪是「手術Level 3」（日語原文為「」）；Level 4 的口頭禪是「手術Level 4」（日語原文為「」）；Level 5 的口頭禪是「手術Level 5」（日語原文為「」）；Level 50 的口頭禪是「手術Level 50」（日語原文為「」）；Level 100 的口頭禪是「手術Level 100」（日語原文為「術式レベル100」）。
     角色命名由來：「鏡中的英雄（鏡の中のヒーロー）」
 
-**花家大我（）**（[松本享恭](../Page/松本享恭.md "wikilink") 飾／台灣配音：[徐偉翔](../Page/B.L..md "wikilink")（本篇）、[鈕凱暘](../Page/鈕凱暘.md "wikilink")（冬季電影版））
+**花家大我（）**（[松本享恭](../Page/松本享恭.md "wikilink") 飾／台灣配音：[徐偉翔](../Page/B.L..md "wikilink")（本篇）、[鈕凱暘](../Page/鈕凱暘.md "wikilink")（冬季電影版）／香港配音：[何偉誠](../Page/何偉誠.md "wikilink"))
 
   -
     **假面騎士Snipe**、**假面騎士Cronus**的變身者。
@@ -140,7 +140,7 @@
     雖然在本作為第三騎士，但按故事時間軸，他應為本作第一位假面騎士。
     原本因為設定為較狂暴的角色而預定命名為「バラト大我」，但為了與帕拉德（パラド，日文發音相近）區分而修改。
 
-**九条貴利矢（）**（[小野塚勇人](../Page/小野塚勇人.md "wikilink") 飾／台灣配音：[胡鎮璽](https://zh.wikipedia.org/wiki/胡鎮璽 "wikilink")）（本篇、平成世代FINAL）、[陳彥鈞](../Page/陳彥鈞.md "wikilink")（冬季電影版））
+**九条貴利矢（）**（[小野塚勇人](../Page/小野塚勇人.md "wikilink") 飾／台灣配音：[胡鎮璽](https://zh.wikipedia.org/wiki/胡鎮璽 "wikilink")）（本篇、平成世代FINAL）、[陳彥鈞](../Page/陳彥鈞.md "wikilink")（冬季電影版）／香港配音：[楊啟健](../Page/楊啟健.md "wikilink"))
 
   -
     **假面騎士Lazer**、**假面騎士Lazer Turbo** 的變身者。
@@ -180,7 +180,7 @@
     命名由來為「營造出不自然的氣息（ギザっぽい）的角色」的發想。
     原本的劇本就設定會死亡，但並沒有預定要復活，是因為他的人氣在觀眾間相當高所做出的修改
 
-**西馬妮可（）(台譯:西馬彌兒)**（[黑崎莉奈](../Page/黑崎莉奈.md "wikilink")、[宮野叶愛](https://zh.wikipedia.org/wiki/宮野叶愛 "wikilink")（少女期）飾／台灣配音：[高嘉鎂](https://zh.wikipedia.org/wiki/高嘉鎂 "wikilink")（本篇）、[劉如蘋](../Page/劉如蘋.md "wikilink")（平成世代FINAL））
+**西馬妮可（）(台譯:西馬彌兒)**（[黑崎莉奈](../Page/黑崎莉奈.md "wikilink")、[宮野叶愛](https://zh.wikipedia.org/wiki/宮野叶愛 "wikilink")（少女期）飾／台灣配音：[高嘉鎂](https://zh.wikipedia.org/wiki/高嘉鎂 "wikilink")（本篇）、[劉如蘋](../Page/劉如蘋.md "wikilink")（平成世代FINAL）／香港配音：[張惠雯](../Page/張惠雯.md "wikilink"))
 
   -
     **騎士玩家妮可**的變身者。
@@ -221,7 +221,7 @@
     根據演員訪談，原本的劇本中會由她成為第二代假面騎士Lazer。
     Final Stage中成為第二代假面騎士Snipe，稱為假面騎士Snipe Nico
 
-**檀黎斗（）**（[岩永徹也](../Page/岩永徹也.md "wikilink")、[佐藤光將](https://zh.wikipedia.org/wiki/佐藤光將 "wikilink")（少年期）飾）
+**檀黎斗（）**（[岩永徹也](../Page/岩永徹也.md "wikilink")、[佐藤光將](https://zh.wikipedia.org/wiki/佐藤光將 "wikilink")（少年期）飾／香港配音：[蔡忠衛](../Page/蔡忠衛.md "wikilink"))
 
 **帕拉德（）**（[甲斐翔真](../Page/甲斐翔真.md "wikilink")飾）
 
@@ -235,7 +235,7 @@
 
 ## 衛生省
 
-**仮野明日那\[25\]（）/ Poppypipopapo（ポッピーピポパポ）（台譯：波比皮波帕波）**（[松田路加](../Page/松田路加.md "wikilink")飾／台灣配音：[穆宣名](../Page/穆宣名.md "wikilink")（本篇）、[李昀晴](../Page/李昀晴.md "wikilink")（冬季電影版）、[連思宇](../Page/連思宇.md "wikilink")（平成世代FINAL））
+**仮野明日那\[25\]（）/ Poppypipopapo（ポッピーピポパポ）（台譯：波比皮波帕波）**（[松田路加](../Page/松田路加.md "wikilink")飾／台灣配音：[穆宣名](../Page/穆宣名.md "wikilink")（本篇）、[李昀晴](../Page/李昀晴.md "wikilink")（冬季電影版）、[連思宇](../Page/連思宇.md "wikilink")（平成世代FINAL）／香港配音：[姜嘉蕾](../Page/姜嘉蕾.md "wikilink"))
 
   -
     **假面騎士Poppy** 的變身者。
@@ -346,7 +346,7 @@
 
 ## 幻夢集團（Genm Corporation）
 
-**檀黎斗（）**（岩永徹也\[28\]、佐藤光將（少年期）飾／台灣配音：[彭彥錚](https://zh.wikipedia.org/wiki/彭彥錚 "wikilink")（本篇）、[陳彥鈞](../Page/陳彥鈞.md "wikilink")（冬季電影版）、[胡鎮璽](https://zh.wikipedia.org/wiki/胡鎮璽 "wikilink")（平成世代FINAL））
+**檀黎斗（）**（岩永徹也\[28\]、佐藤光將（少年期）飾／台灣配音：[彭彥錚](https://zh.wikipedia.org/wiki/彭彥錚 "wikilink")（本篇）、[陳彥鈞](../Page/陳彥鈞.md "wikilink")（冬季電影版）、[胡鎮璽](https://zh.wikipedia.org/wiki/胡鎮璽 "wikilink")（平成世代FINAL）／香港配音：[蔡忠衛](../Page/蔡忠衛.md "wikilink")）
 
   -
     **假面騎士Genm**\[29\]、**假面騎士Genm X**\[30\]的變身者，同時也是推薦永夢進入電腦救命中心（CR）的推薦人\[31\]，查理崩源體（Level 30）的寄生者。

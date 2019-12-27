@@ -50,7 +50,7 @@ Source Music於2009年11月17日，由蘇成鎮（소성진）成立。
 <td><p>2015年1月16日</p></td>
 <td><p><a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/女" title="wikilink">女</a></p></td>
-<td><p><a href="../Page/Sowon.md" title="wikilink">所願</a>、<a href="../Page/Yerin.md" title="wikilink">睿隣</a>、<a href="../Page/Eunha.md" title="wikilink">銀河</a>、<a href="../Page/Yuju.md" title="wikilink">裕株</a>、<a href="../Page/SinB.md" title="wikilink">信飛</a>、<a href="../Page/Umji.md" title="wikilink">嚴智</a></p></td>
+<td><p><strong><a href="../Page/Sowon.md" title="wikilink">所願</a></strong>、<a href="../Page/Yerin.md" title="wikilink">睿隣</a>、<a href="../Page/Eunha.md" title="wikilink">銀河</a>、<a href="../Page/Yuju.md" title="wikilink">裕株</a>、<a href="../Page/SinB.md" title="wikilink">信飛</a>、<a href="../Page/Umji.md" title="wikilink">嚴智</a></p></td>
 <td><p>活動中</p></td>
 <td><p>Buddy</p></td>
 <td><p>「彩通11-4201 雲白色」<br />

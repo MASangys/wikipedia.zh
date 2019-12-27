@@ -665,5 +665,5 @@
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2019年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年解散的音樂團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
 
 1.  [MATILDA 夏天下定了絕心 四人四色魅力"超了不起"](http://star.mk.co.kr/new/view.php?mc=ST&no=539479&year=2016) 2016年7月28日
-2.  [Matilda's Semmi And Dan-A Departure From Box Media Entertainment](https://www.allkpop.com/article/2019/09/matildas-semmi-and-dan-a-departure-from-box-media-entertainment) 2019年9月7日
+2.  [Matilda's Semmi And Dan-A Departure From Box Media Entertainment](https://www.allkpop.com/article/2019/09/matildas-semmi-and-dan-a-departure-from-box-media-entertainment)  2019年9月7日
 3.  [Matilda confirm disbandment](https://www.allkpop.com/?view=a&feed=a&sort=n#google_vignette) 2019年9月11日

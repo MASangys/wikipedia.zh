@@ -89,6 +89,24 @@
 </ul></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><strong>8th</strong></p></td>
+<td><p>單曲《<strong>你可以依靠我</strong>》（）</p>
+<ul>
+<li>發行日期：2019年6月27日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>9th</strong></p></td>
+<td><p>單曲《<strong>需要治療的人</strong>》（）</p>
+<ul>
+<li>發行日期：2019年12月15日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

@@ -347,7 +347,7 @@ SUMMER SONG<br />
 Be Mine<br />
 See you again<br />
 Wake Me Up – 2018 ver.</p></td>
-<td></td>
+<td><p>初回特典：写真集（完全撮り下ろし）</p></td>
 <td><p>14位</p></td>
 </tr>
 <tr class="even">
@@ -356,9 +356,21 @@ Wake Me Up – 2018 ver.</p></td>
 <td><p><strong>WINTER TRIP</strong></p></td>
 <td><p>CD+DVD<br />
 CD</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>KSCL-3230～KSCL-3231<br />
+KSCL-3232～KSCL-3233<br />
+KSCL-3234</p></td>
+<td><p>taste<br />
+スターライトパレード<br />
+雪色<br />
+冬がはじまるよ<br />
+Heartbreaker<br />
+Starry Christmas</p></td>
+<td><p>初回A盤：<br />
+1.CD＋ロシア・ウラジオストック撮影 撮りおろしPHOTO BOOK（48P）<br />
+2.グリーティングカードA（メンバーソロVer.ランダム封入（全5種））<br />
+初回B盤：<br />
+1.FlowBack Behind The Scenes Vol.10<br />
+2.Step in Vladivostok</p></td>
 <td></td>
 </tr>
 </tbody>

@@ -25,16 +25,16 @@ Girl Spirit是围绕着还没有成功达到主流的十二个女子组合的歌
 
 ### A组
 
-| 参赛者                                                | 所属组合                                                              | 出道年份 | feat. | 流行歌曲  |
-| -------------------------------------------------- | ----------------------------------------------------------------- | ---- | ----- | ----- |
-| [Kei](../Page/Kei.md "wikilink")                   | [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")       | 2014 |       |       |
-| [旼宰](../Page/旼宰.md "wikilink")                     | [SONAMOO](../Page/SONAMOO.md "wikilink")                          | 2014 | Ep.4  |       |
-| 吴承姬                                                | [CLC](../Page/CLC.md "wikilink")                                  | 2015 | Ep.9  |       |
-| [勝熙](https://zh.wikipedia.org/wiki/玄勝熙 "wikilink") | [Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink") | 2015 | Ep.9  | Ep.11 |
-| [多願](https://zh.wikipedia.org/wiki/多願 "wikilink")  | [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")             | 2016 | Ep.4  |       |
-| 成嬿                                                 | [Pristin](https://zh.wikipedia.org/wiki/Pristin "wikilink")       | 2017 |       | Ep.9  |
-|                                                    |                                                                   |      |       |       |
-|                                                    |                                                                   |      |       |       |
+| 参赛者                                               | 所属组合                                                              | 出道年份 | feat. | 流行歌曲  |
+| ------------------------------------------------- | ----------------------------------------------------------------- | ---- | ----- | ----- |
+| [Kei](../Page/Kei.md "wikilink")                  | [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")       | 2014 |       |       |
+| [旼宰](../Page/旼宰.md "wikilink")                    | [SONAMOO](../Page/SONAMOO.md "wikilink")                          | 2014 | Ep.4  |       |
+| 吴承姬                                               | [CLC](../Page/CLC.md "wikilink")                                  | 2015 | Ep.9  |       |
+| [勝熙](../Page/玄勝熙.md "wikilink")                   | [Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink") | 2015 | Ep.9  | Ep.11 |
+| [多願](https://zh.wikipedia.org/wiki/多願 "wikilink") | [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")             | 2016 | Ep.4  |       |
+| 成嬿                                                | [Pristin](https://zh.wikipedia.org/wiki/Pristin "wikilink")       | 2017 |       | Ep.9  |
+|                                                   |                                                                   |      |       |       |
+|                                                   |                                                                   |      |       |       |
 
 ### B组
 

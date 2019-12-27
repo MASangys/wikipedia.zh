@@ -10,6 +10,8 @@ Zee TV大多数节目以[印地语以及印度其他主要语言播放](https://
 
 目前Zee TV除了印度国内版本外，还在全世界各地开办了当地版本频道如： Zee TV亚太频道和）。根据一项对[美国](../Page/美国.md "wikilink")[纽约](../Page/纽约.md "wikilink")18岁至34岁收视群体的调查，Zee TV黄金时段的收视率甚至超过了[CNN](https://zh.wikipedia.org/wiki/CNN "wikilink")、[CNBC等当地电视频道](https://zh.wikipedia.org/wiki/CNBC "wikilink")\[4\]。 亞太版本(2004年起)：在[香港](../Page/香港.md "wikilink")，观众可通过[香港有线电视和](https://zh.wikipedia.org/wiki/香港有线电视 "wikilink")[now宽频电视收看Zee](https://zh.wikipedia.org/wiki/now宽频电视 "wikilink") TV的节目\[5\]\[6\]；而在[中国大陆](../Page/中国大陆.md "wikilink")，Zee TV亚太频道一般只提供给三星级以上涉外宾馆等机构接收\[7\]，新加坡由星和視界和新加坡電信電視播出，馬來西亞於2017年4月起於Unifi TV開播，印尼於2016年9月開播，First Media則唯一獨家播放，而印尼文翻譯字幕的Zee Bioskop只有絕大多數收費電視供應商播放，泰國由TOTiptv獨家播放，菲律賓就由Skycable獨家播放。 中東版本：該頻道唯一由OSN播放。
 
+2018年2月14日, Ditto TV更名為Zee5, 並擴展至190多個國家收視, 透過手機, 平板電腦等收看Zee TV等頻道, 不受地域界限.
+
 ## 参见
 
   - [全印电视台](../Page/全印电视台.md "wikilink")

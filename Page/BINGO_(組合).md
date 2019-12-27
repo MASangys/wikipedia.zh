@@ -1,4 +1,4 @@
-**BINGO**，[香港](../Page/香港.md "wikilink")的女子跳唱組合，於2016年成立，現共3位成員。BINGO的現有成員包括關嘉敏（Carman）、陳康琪（Odilia）及 夏子涓（Queena）現於天盟娛樂旗下。
+**BINGO**，[香港](../Page/香港.md "wikilink")的女子跳唱組合，於2016年成立，現共2位成員。BINGO的現有成員包括關嘉敏（Carman）及陳康琪（Odilia） 現於天盟娛樂旗下。
 
 ## 團名由來
 
@@ -52,14 +52,6 @@
 <td><p>副唱、主領舞</p></td>
 <td><p>鑽研芭蕾舞13年，專業舞蹈員，曾為譚詠麟，鄭伊健等大星伴舞， 更考取鋼琴演奏級。</p></td>
 </tr>
-<tr class="odd">
-<td><p>夏子涓</p></td>
-<td><p>Queena</p></td>
-<td></td>
-<td><p><a href="../Page/香港公開大學.md" title="wikilink">香港公開大學</a>（創意寫作與電影藝術）</p></td>
-<td><p>主唱、副領舞</p></td>
-<td><p>皇家音樂學院鋼琴八級，皇家音樂學院樂理八級， 皇家音樂學院聲樂五級。</p></td>
-</tr>
 </tbody>
 </table>
 
@@ -71,6 +63,7 @@
 | 王嘉怡  | Kylie   |    |
 | 周彥   | Christy |    |
 | 陳韻瑧  | Katie   |    |
+| 夏子涓  | Queena  |    |
 
 ## 音樂作品
 
@@ -177,11 +170,8 @@
 
   -
   -
-  -
   - [關嘉敏 (Carman) Facebook](https://www.facebook.com/Car67016701/)
 
   - [陳康琪 (Odilia) Facebook](https://www.facebook.com/odi.odi.odilia/)
-
-  - [夏子涓 (Queena) Facebook](https://www.facebook.com/Queena.Bingo/)
 
 [Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:粵語流行音樂團體](https://zh.wikipedia.org/wiki/Category:粵語流行音樂團體 "wikilink")

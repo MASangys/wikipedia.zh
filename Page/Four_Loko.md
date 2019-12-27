@@ -18,7 +18,7 @@ Four Loko的「Four」根據製造商所言，是指其四種主要成分：[咖
 
 2016年，這款酒在[中國大陸與](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[香港](../Page/香港.md "wikilink")忽然風行，兩地的網友將其稱為「斷片酒」或「失身酒」\[13\]\[14\]\[15\]。
 
-2017年，這款酒在[台灣警察被驗出含有](https://zh.wikipedia.org/wiki/台灣警察 "wikilink")[迷姦水成份](https://zh.wikipedia.org/wiki/迷姦水 "wikilink")「[伽瑪羥基丁酸](https://zh.wikipedia.org/wiki/伽瑪羥基丁酸 "wikilink")」\[GHB}。
+2017年，這款酒在[台灣警察被驗出含有](https://zh.wikipedia.org/wiki/台灣警察 "wikilink")[迷姦水成份](https://zh.wikipedia.org/wiki/迷姦水 "wikilink")「[伽瑪羥基丁酸](https://zh.wikipedia.org/wiki/伽瑪羥基丁酸 "wikilink")」（GHB）。
 
 ## 参考文献
 

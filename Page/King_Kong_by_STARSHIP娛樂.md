@@ -48,7 +48,7 @@ King Kong娛樂成立於2009年，由李眞聲（Lee Jin-sung）成立。首位�
 
   - [宋承憲](../Page/宋承憲.md "wikilink")
 
-  - [崔元明](https://zh.wikipedia.org/wiki/崔元明 "wikilink")
+  - [崔元明](../Page/崔元明.md "wikilink")
 
   - [宋昰昀](https://zh.wikipedia.org/wiki/宋昰昀 "wikilink") (2019年-現今)
 

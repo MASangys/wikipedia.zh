@@ -137,7 +137,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/神田川JET_GIRLS" title="wikilink">神田川JET GIRLS</a></p></td>
+<td><p><a href="../Page/神田川JET_GIRLS.md" title="wikilink">神田川JET GIRLS</a></p></td>
 <td></td>
 <td></td>
 <td></td>

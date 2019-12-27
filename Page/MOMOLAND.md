@@ -1,18 +1,20 @@
-**MOMOLAND**（），是（前稱Dublekick Company）於2016年透過與[Mnet](../Page/Mnet.md "wikilink")合作的練習生競爭節目[《SURVIVAL MOMOLAND를 찾아서》選出的女子演唱團體](../Page/尋找MOMOLAND.md "wikilink")，由10位少女在節目中挑戰不同任務，爭取出道機會，最終選出 [慧彬](../Page/慧彬.md "wikilink")、[Nancy](../Page/南希·麥多尼.md "wikilink")、、[娜允](https://zh.wikipedia.org/wiki/娜允 "wikilink")、[妸仁](https://zh.wikipedia.org/wiki/妸仁 "wikilink")、[珠伊](../Page/JooE.md "wikilink")、JANE 七名成員。
+**MOMOLAND**（），是（前稱Dublekick Company）於2016年透過與[Mnet](../Page/Mnet.md "wikilink")合作的練習生競爭節目[《SURVIVAL MOMOLAND를 찾아서》選出的女子演唱團體](../Page/尋找MOMOLAND.md "wikilink")，由10位少女在節目中挑戰不同任務，爭取出道機會，最終選出 [慧彬](../Page/慧彬.md "wikilink")、[Nancy](../Page/南希·麥多尼.md "wikilink")、[妍雨](https://zh.wikipedia.org/wiki/李多斌 "wikilink")、[娜允](https://zh.wikipedia.org/wiki/娜允 "wikilink")、[妸仁](https://zh.wikipedia.org/wiki/妸仁 "wikilink")、[珠伊](../Page/JooE.md "wikilink")、JANE 七名成員。後來再加入兩名成員 、DAISY。
 
 2017年3月28日，加入在[《SURVIVAL MOMOLAND를 찾아서》落選](../Page/尋找MOMOLAND.md "wikilink")，[JYP娛樂](../Page/JYP娛樂.md "wikilink")練習生出身的DAISY。
 
 2017年4月10日，加入[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")、[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")練習生、[宇宙少女預備成員出身的](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")（[JYJ](../Page/JYJ.md "wikilink")成員[金俊秀](../Page/金俊秀.md "wikilink")的堂妹）。
 
+2019年11月30日，官方宣布妍雨和泰河退出組合。
+
 MOMOLAND在打招呼時會說"Get your ticket\!"，可知MOMOLAND團名的含意是一座遊樂園。粉絲名為"'''Merry-go-round / Merry '''"，意旨MOMOLAND就像旋轉木馬一樣老少咸宜。\[1\]
 
-## 經歷
+## 發展歷程
 
 ### 出道前
 
 2016年8月26日，在Mnet出道生存實境節目[《SURVIVAL MOMOLAND를 찾아서》中未能完成最終任務](../Page/尋找MOMOLAND.md "wikilink")，10位練習生在「聚集三千人」的最終任務中未能成功，現場只有約2,300多位市民參與，確定延後出道。
 
-### 2016年：出道、《Welcome to MOMOLAND》
+### 2016年：出道、首張迷你專輯《Welcome to MOMOLAND》
 
 11月2日，透過官方YouTube頻道、官方Facebook釋出專輯《Welcome to MOMOLAND》的成員個人與團體動態概念照\[2\]。
 
@@ -22,9 +24,9 @@ MOMOLAND在打招呼時會說"Get your ticket\!"，可知MOMOLAND團名的含意
 
 11月10日，發行出道專輯《Welcome to MOMOLAND》，並透過官方YouTube頻道公開主打歌〈JJan\! Koong\! Kwang\!(짠쿵쾅)〉MV\[5\]。
 
-12月21日，所屬公司Dublekick Company發表聲明，因受傷無限期暫休，接下來這段日子MOMOLAND將以六人團體形式持續活動\[6\]。
+12月21日，所屬公司Dublekick Company發表聲明，[妍雨因受傷無限期暫休](https://zh.wikipedia.org/wiki/李多斌 "wikilink")，接下來這段日子MOMOLAND將以六人團體形式持續活動\[6\]。
 
-### 2017年：加入新成員、《Wonderful love》、《Freeze\!》
+### 2017年：首次成員變動、單曲《Wonderful love》、迷你二輯《Freeze\!》
 
 3月28日，加入一起參與[《SURVIVAL MOMOLAND를 찾아서》出道節目](../Page/尋找MOMOLAND.md "wikilink")，曾是[JYP娛樂](../Page/JYP娛樂.md "wikilink")練習生的DAISY\[7\]。DAISY直到11歲都在加拿大溫哥華生活，有良好的外語及芭蕾舞實力。
 
@@ -48,7 +50,7 @@ MOMOLAND在打招呼時會說"Get your ticket\!"，可知MOMOLAND團名的含意
 
 12月26日至29日，透過官方Facebook發佈各成員宣傳影片及《BBoom BBoom (뿜뿜)》MV teaser。後引發抄襲俄羅斯女團Serebro為電影《SPY》獻唱的OST《Mi Mi Mi》之爭議，經原作者新沙洞老虎出面否認。
 
-### 2018年：《GREAT\!》、七個一位、MV破億、《Fun to the World》、娜允暫停活動
+### 2018年：迷你三輯《GREAT\!》、七個一位、MV破億、迷你四輯《Fun to the World》、娜允暫停活動
 
 1月3日，發表第三張迷你專輯《GREAT\!》回歸，並舉辦回歸Showcase、主打歌《BBoom BBoom (뿜뿜)》首度進入各大音源排行榜的前100名\[8\]。
 
@@ -72,7 +74,7 @@ MOMOLAND在打招呼時會說"Get your ticket\!"，可知MOMOLAND團名的含意
 
 11月7日，發行日本單曲《BAAM -Japanese ver.-》。
 
-### 2019年：《Show Me》、DAISY及泰河暫停活動
+### 2019年：迷你五輯《Show Me》、DAISY及泰河暫停活動、第二次成員變動
 
 3月20日，發表第五張迷你專輯《[Show Me](../Page/Show_Me_\(MOMOLAND專輯\).md "wikilink")》，但DAISY與將不參與該迷你專輯的活動。
 
@@ -84,10 +86,31 @@ MOMOLAND在打招呼時會說"Get your ticket\!"，可知MOMOLAND團名的含意
 
 4月3日，于 [Show Champion](../Page/Show_Champion.md "wikilink") 拿下回归后的第三个一位。
 
+9月4日，發佈日文單曲《Chiri Chiri（チリチリ）》，主打歌《Pinky Love》為首個日文原創曲。
+
+11月30日，經紀公司透過公告宣布，妍雨因為難以兼顧歌手和演員的行程，決定退隊，「今後將會繼續留在公司作為演員活動」。泰河則是已經解約，經紀公司強調：「（泰河）本人也苦惱已久，但公司仍舊尊重本人意願，會繼續為泰河的新開始應援。」至於Daisy的去留則「仍在與公司商討當中」，結果待定後公司將再次告知，而目前MOMOLAND將暫時以六人女團的形式活動。
+
 ## 成員資料
 
   - 名字**粗體**為隊長
   - *斜体*为成长地
+
+| colspan="8" style="" |成員列表                        |
+| ------------------------------------------------- |
+| 藝名                                                |
+| 藝名                                                |
+| **[慧彬](../Page/慧彬.md "wikilink")**                |
+|                                                   |
+| JANE                                              |
+| [娜允](https://zh.wikipedia.org/wiki/娜允 "wikilink") |
+| DAISY                                             |
+| 戴西·柳                                              |
+| [珠伊](../Page/JooE.md "wikilink")                  |
+| [妸仁](https://zh.wikipedia.org/wiki/妸仁 "wikilink") |
+| [Nancy](../Page/南希·麥多尼.md "wikilink")             |
+| 南希·潔韋兒·麥多尼                                        |
+
+### 已離團成員
 
 <table>
 <thead>
@@ -103,44 +126,17 @@ MOMOLAND在打招呼時會說"Get your ticket\!"，可知MOMOLAND團名的含意
 <td><p>藝名</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/慧彬.md" title="wikilink">慧彬</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李多斌" title="wikilink">妍雨</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
-</tr>
-<tr class="odd">
-<td><p>JANE</p></td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/娜允" title="wikilink">娜允</a></p></td>
-</tr>
-<tr class="even">
-<td><p>DAISY</p></td>
-</tr>
-<tr class="odd">
-<td><p>戴西·柳</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/JooE.md" title="wikilink">珠伊</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/妸仁" title="wikilink">妸仁</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/南希·麥多尼.md" title="wikilink">Nancy</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>李그루</p></td>
 </tr>
 </tbody>
 </table>
 
 ### 成員變遷史
 
-<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2016 till:2019 TimeAxis = orientation:horizontal format:yyyy
+<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2016 till:2020 TimeAxis = orientation:horizontal format:yyyy
 
 Colors =
 
@@ -166,11 +162,11 @@ PlotData =
 ` color:blue width:10 textcolor:black align:left anchor:from`
 ` bar:HyeBin from:11/10/2016 till:end`
 ` color:blue width:10 textcolor:black align:left anchor:from`
-` bar:YeonWoo from:11/10/2016 till:end`
+` bar:YeonWoo from:11/10/2016 till:11/30/2019`
 ` color:blue width:10 textcolor:black align:left anchor:from`
 ` bar:Jane from:11/10/2016 till:end`
 ` color:skyblue width:10 textcolor:black align:left anchor:from`
-` bar:TaeHa from:04/10/2017 till:end`
+` bar:TaeHa from:04/10/2017 till:11/30/2019`
 ` color:blue width:10 textcolor:black align:left anchor:from`
 ` bar:NaYun from:11/10/2016 till:end`
 ` color:darkblue width:10 textcolor:black align:left anchor:from`
@@ -293,6 +289,29 @@ LineData =
 </tbody>
 </table>
 
+### 日文專輯
+
+<table>
+<thead>
+<tr class="header">
+<th><p>單曲 #</p></th>
+<th><p>單曲資料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p>《<strong>Chiri Chiri」（チリチリ）</strong>》</p>
+<ul>
+<li>發行日期：2019年9月4日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ### 日文單曲
 
 <table>
@@ -379,28 +398,28 @@ LineData =
 
 ### 其他大型公演
 
-| 日期            | 公演名稱                              | 舉行地點                                                                                                                                            |
-| ------------- | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2016年11月26日   | Web TV Asia Awards 2016           | 韓國－首爾國際會展中心                                                                                                                                     |
-| 2016年11月30日   | SBS「Love Concert」                 | 韓國－京畿道光明市 Speed Dome                                                                                                                            |
-| 2016年12月26日   | SBS 歌謠大戰 2016                     | 韓國－SBS COEX D廳                                                                                                                                  |
-| 2017年9月9日     | INK Incheon K-Pop Concert 2017    | 韓國－仁川文鶴競技場                                                                                                                                      |
-| 2017年10月22日   | Busan One Asia Festival 2017      | 韓國－釜山亞運會主體育場                                                                                                                                    |
-| 2017年11月1日    | 平昌冬季奧運 K-POP 演唱會                  | 韓國－首爾光化門                                                                                                                                        |
-| 2017年11月15日   | Asia Artist Award 2017            | 韓國－首爾蠶室綜合運動場                                                                                                                                    |
-| 2017年12月21日   | 2018 PyeongChang Olympic G-50     | 韓國－KBS大廳                                                                                                                                        |
-| 2018年2月14日    | 2018 K-POP WORLD FESTIVAL         | 韓國－江陵原州大學體育場                                                                                                                                    |
-| 2018年4月13日    | KCON 2018 JAPAN                   | 日本－千葉縣幕張展覽館                                                                                                                                     |
-| 2018年7月5日     | M\!Countdown in Taipei            | 台灣－台北小巨蛋                                                                                                                                        |
-| 2018年7月15日    | Red Angel K-POP FESTIVAL          | 韓國－京畿道加平區鱉島                                                                                                                                     |
-| 2018年8月1日     | 2018 Korea Music Festival         | 韓國－首爾高尺Sky dome                                                                                                                                 |
-| 2018年8月11日    | KCON 2018 USA in LA\[17\]         | 美國－洛杉磯[史坦波中心](../Page/斯台普斯中心.md "wikilink")                                                                                                     |
-| 2018年8月30日    | 2018 SORIBADA BEST K-MUSIC AWARDS | 韓國－首爾奧林匹克體操競技場                                                                                                                                  |
-| 2018年9月8日     | HallyuPopFest 2018                | 新加坡－新加坡室內體育館                                                                                                                                    |
-| 2018年10月2日    | Asia Song Festival                | [韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")－[釜山](https://zh.wikipedia.org/wiki/釜山 "wikilink")[亞運會主競技場](../Page/釜山亞運會主競技場.md "wikilink") |
-| 2018年10月9日    | 2018 World Friends Music Festival | 韓國－京畿道華城市                                                                                                                                       |
-| 2019年4月28日    | 人氣歌謠 Super Concert                | 韓國－光州世界盃競技場                                                                                                                                     |
-| 2019年11月9-10日 | 2019 KAMP Global K-Pop Festival   | 新加坡－新加坡室內體育館                                                                                                                                    |
+| 日期          | 公演名稱                              | 舉行地點                                                                                                                                            |
+| ----------- | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2016年11月26日 | Web TV Asia Awards 2016           | 韓國－首爾國際會展中心                                                                                                                                     |
+| 2016年11月30日 | SBS「Love Concert」                 | 韓國－京畿道光明市 Speed Dome                                                                                                                            |
+| 2016年12月26日 | SBS 歌謠大戰 2016                     | 韓國－SBS COEX D廳                                                                                                                                  |
+| 2017年9月9日   | INK Incheon K-Pop Concert 2017    | 韓國－仁川文鶴競技場                                                                                                                                      |
+| 2017年10月22日 | Busan One Asia Festival 2017      | 韓國－釜山亞運會主體育場                                                                                                                                    |
+| 2017年11月1日  | 平昌冬季奧運 K-POP 演唱會                  | 韓國－首爾光化門                                                                                                                                        |
+| 2017年11月15日 | Asia Artist Award 2017            | 韓國－首爾蠶室綜合運動場                                                                                                                                    |
+| 2017年12月21日 | 2018 PyeongChang Olympic G-50     | 韓國－KBS大廳                                                                                                                                        |
+| 2018年2月14日  | 2018 K-POP WORLD FESTIVAL         | 韓國－江陵原州大學體育場                                                                                                                                    |
+| 2018年4月13日  | KCON 2018 JAPAN                   | 日本－千葉縣幕張展覽館                                                                                                                                     |
+| 2018年7月5日   | M\!Countdown in Taipei            | 台灣－台北小巨蛋                                                                                                                                        |
+| 2018年7月15日  | Red Angel K-POP FESTIVAL          | 韓國－京畿道加平區鱉島                                                                                                                                     |
+| 2018年8月1日   | 2018 Korea Music Festival         | 韓國－首爾高尺Sky dome                                                                                                                                 |
+| 2018年8月11日  | KCON 2018 USA in LA\[17\]         | 美國－洛杉磯[史坦波中心](../Page/斯台普斯中心.md "wikilink")                                                                                                     |
+| 2018年8月30日  | 2018 SORIBADA BEST K-MUSIC AWARDS | 韓國－首爾奧林匹克體操競技場                                                                                                                                  |
+| 2018年9月8日   | HallyuPopFest 2018                | 新加坡－新加坡室內體育館                                                                                                                                    |
+| 2018年10月2日  | Asia Song Festival                | [韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")－[釜山](https://zh.wikipedia.org/wiki/釜山 "wikilink")[亞運會主競技場](../Page/釜山亞運會主競技場.md "wikilink") |
+| 2018年10月9日  | 2018 World Friends Music Festival | 韓國－京畿道華城市                                                                                                                                       |
+| 2019年4月28日  | 人氣歌謠 Super Concert                | 韓國－光州世界盃競技場                                                                                                                                     |
+| 2019年11月10日 | 2019 KAMP Global K-Pop Festival   | 新加坡－新加坡室內體育館                                                                                                                                    |
 
 ## 獎項
 
@@ -552,36 +571,33 @@ LineData =
 <td><p><strong>專輯</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>2016年</p></td>
-</tr>
-<tr class="odd">
 <td><p>Welcome to MOMOLAND</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>어마어마해</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Freeze!</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>GREAT!</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Fun_to_the_World.md" title="wikilink">Fun to the World</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Show_Me_(MOMOLAND專輯).md" title="wikilink">Show Me</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><ul>
 <li>「/」表示未有相關資料</li>
 <li>「 (1) 」：兩星期冠軍</li>
@@ -646,12 +662,12 @@ LineData =
 [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:MOMOLAND](https://zh.wikipedia.org/wiki/Category:MOMOLAND "wikilink")
 
 1.  [MOMOLAND官方粉絲名](https://www.soompi.com/2017/04/25/girl-group-momoland-announces-fanclub-name/)
-2.  [MOMOLAND 首張迷你專輯動態概念照](http://kpopn.niusnews.com/=K3kp0815)
-3.  [MOMOLAND 出道專輯曲目表公開](http://kpopn.niusnews.com/=K0hf8g11)
-4.  [MOMOLAND 個人預告公開](http://kpopn.niusnews.com/=K2uy5y64)
+2.
+3.
+4.
 5.
 6.
-7.  [MOMOLAND 加入新成員 Daisy！](http://kpopn.niusnews.com/=K1yx9bx6)
+7.
 8.
 9.
 10.

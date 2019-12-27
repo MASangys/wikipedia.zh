@@ -36,7 +36,7 @@ LWA主要設計是遵照3GPP Release 12 LTE Dual Connectivity (DC) 架構\[3\], 
 
 ## 延伸閱讀
 
-  - 5G Americas , "[LTE Aggregation & Unlicensed Spectrum](http://www.4gamericas.org/files/1214/4648/2397/4G_Americas_LTE_Aggregation__Unlicensed_Spectrum_White_Paper_-_November_2015.pdf)"
+  - 5G Americas , "[LTE Aggregation & Unlicensed Spectrum](https://web.archive.org/web/20151106085720/http://www.4gamericas.org/files/1214/4648/2397/4G_Americas_LTE_Aggregation__Unlicensed_Spectrum_White_Paper_-_November_2015.pdf)"
   - The Ruckus Room, "[Getting Engaged: LTE and Wi-Fi Fall in Love](http://www.theruckusroom.net/2015/04/getting-engaged-lte-and-wi-fi-falling-in-love.html)"
   - Qualcomm, "[Improving LTE and Wi-Fi integration with PDCP aggregation](https://www.qualcomm.com/invention/research/projects/lte-advanced/lte-wi-fi-interworking)"
   - [点对点协议](../Page/点对点协议.md "wikilink")（Multiclass PPP、Multilink PPP）

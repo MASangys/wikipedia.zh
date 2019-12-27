@@ -62,6 +62,13 @@ Gen.G参加了2018年的英雄联盟全球总决赛，尽管作为卫冕冠军�
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>Kellin</p></td>
+<td><p>金亨圭</p></td>
+<td><p>輔助</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -94,7 +101,7 @@ Gen.G参加了2018年的英雄联盟全球总决赛，尽管作为卫冕冠军�
 </tr>
 <tr class="odd">
 <td><p>Peanut</p></td>
-<td><p>韓旺乎</p></td>
+<td><p>韓王浩</p></td>
 <td><p>打野</p></td>
 <td></td>
 <td></td>

@@ -2,7 +2,7 @@
 
 ## 历史
 
-2003年11月，半岛电视台开办了体育频道，面向[阿拉伯国家免费播出](https://zh.wikipedia.org/wiki/阿拉伯国家 "wikilink")\[4\]，并在2004年首次向卡塔尔观众全程转播了[雅典奥运会的赛事](https://zh.wikipedia.org/wiki/2004年夏季奥林匹克运动会 "wikilink")\[5\]。2011年，半岛电视台体育频道开始大力拓展欧美市场\[6\]，并于当年12月获得了[2012年](../Page/2012年欧洲足球锦标赛.md "wikilink")、[2016年欧洲杯足球赛以及](https://zh.wikipedia.org/wiki/2016年欧洲足球锦标赛 "wikilink")2012年至2015年[欧冠联赛在](https://zh.wikipedia.org/wiki/欧冠联赛 "wikilink")[法国的转播权](https://zh.wikipedia.org/wiki/法国 "wikilink")，同时也获得了[法甲联赛的转播权](https://zh.wikipedia.org/wiki/法甲联赛 "wikilink")\[7\]\[8\]\[9\]。2012年，半岛电视台在法国推出了“beIN Sport”频道，通过[Canal+](../Page/Canal+.md "wikilink")旗下的平台播出。2014年1月1日，半岛电视台体育频道正式从半岛媒体集团独立出来，由新成立的beIN Media Group管理，并将旗下频道全部更名为“beIN Sports”\[10\]。
+2003年11月，半岛电视台开办了体育频道，面向[阿拉伯国家免费播出](https://zh.wikipedia.org/wiki/阿拉伯国家 "wikilink")\[4\]，并在2004年首次向卡塔尔观众全程转播了[雅典奥运会的赛事](../Page/2004年夏季奥林匹克运动会.md "wikilink")\[5\]。2011年，半岛电视台体育频道开始大力拓展欧美市场\[6\]，并于当年12月获得了[2012年](../Page/2012年欧洲足球锦标赛.md "wikilink")、[2016年欧洲杯足球赛以及](https://zh.wikipedia.org/wiki/2016年欧洲足球锦标赛 "wikilink")2012年至2015年[欧冠联赛在](https://zh.wikipedia.org/wiki/欧冠联赛 "wikilink")[法国的转播权](https://zh.wikipedia.org/wiki/法国 "wikilink")，同时也获得了[法甲联赛的转播权](https://zh.wikipedia.org/wiki/法甲联赛 "wikilink")\[7\]\[8\]\[9\]。2012年，半岛电视台在法国推出了“beIN Sport”频道，通过[Canal+](../Page/Canal+.md "wikilink")旗下的平台播出。2014年1月1日，半岛电视台体育频道正式从半岛媒体集团独立出来，由新成立的beIN Media Group管理，并将旗下频道全部更名为“beIN Sports”\[10\]。
 
 ## 概要
 

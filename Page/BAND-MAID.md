@@ -296,7 +296,7 @@ CRCP-40547</small></p></td>
 <td><p><small>CRCP-40590<br />
 CRCP-40591<br />
 CRCP-40592</small></p></td>
-<td><p>-位[77]</p></td>
+<td><p>9位[77]</p></td>
 <td></td>
 </tr>
 </tbody>

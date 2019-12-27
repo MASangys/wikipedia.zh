@@ -1157,6 +1157,7 @@ BRMM-10225 &lt;ドキドキVer.&gt;</p></td>
 <th></th>
 <th><p>第一季 《BanG Dream!》</p></th>
 <th><p>第二季 《BanG Dream! 2nd Season》</p></th>
+<th><p>第三季 《BanG Dream! 3rd Season》</p></th>
 <th><p>Girls Band Party Pico</p></th>
 </tr>
 </thead>
@@ -1165,11 +1166,13 @@ BRMM-10225 &lt;ドキドキVer.&gt;</p></td>
 <td><p>原作</p></td>
 <td><p>ISSEN（<a href="../Page/武士道_(公司).md" title="wikilink">武士道</a>、<a href="../Page/OLM.md" title="wikilink">OLM</a>[27]）</p></td>
 <td><p>武士道</p></td>
-<td><p>武士道</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>故事原案</p></td>
 <td><p>[28]</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1178,16 +1181,19 @@ BRMM-10225 &lt;ドキドキVer.&gt;</p></td>
 <td><p>[29]</p></td>
 <td><p>、</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>導演</p></td>
 <td><p>[30]</p></td>
 <td><p>柿本廣大</p></td>
 <td><p>、<a href="https://zh.wikipedia.org/wiki/宮嶋星矢" title="wikilink">宮嶋星矢</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>劇本統籌</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/綾奈由仁子" title="wikilink">綾奈由仁子</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1196,18 +1202,21 @@ BRMM-10225 &lt;ドキドキVer.&gt;</p></td>
 <td><p>[31]</p></td>
 <td><p>植田和幸</p></td>
 <td><p>宮嶋星矢</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>音樂製作人</p></td>
 <td><p><a href="../Page/上松範康.md" title="wikilink">上松範康</a>、<a href="../Page/藤田淳平.md" title="wikilink">藤田淳平</a>[32]</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>動畫製作</p></td>
 <td><p>ISSEN × <a href="../Page/XEBEC.md" title="wikilink">XEBEC</a>[33]</p></td>
-<td><p>三次元</p></td>
+<td><p><a href="../Page/三次元_(動畫製作公司).md" title="wikilink">三次元</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DMM.Futureworks" title="wikilink">DMM.Futureworks</a> 、、<a href="../Page/三次元_(動畫製作公司).md" title="wikilink">三次元</a></p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -1446,9 +1455,32 @@ BRMM-10225 &lt;ドキドキVer.&gt;</p></td>
 
 :; 「FIRE BIRD」（第13話）
 
-:: 作詞：，作曲：上松範康 ，編曲：藤永龍太郎，主唱：Roselia
+  -
 
-:;
+      -
+        作詞：，作曲：上松範康 ，編曲：藤永龍太郎，主唱：Roselia
+
+#### 第三季
+
+  - 片頭曲
+
+:;「」
+
+  -
+
+      -
+        作詞：中村航，作曲：上松範康 ，編曲：藤永龍太郎，主唱：Poppin'Party
+
+<!-- end list -->
+
+  - 片尾曲
+
+:; 「」
+
+  -
+
+      -
+        作詞：中村航，作曲：上松範康，編曲：竹田祐介，主唱：Poppin'Party
 
 ### 各話列表
 
@@ -1812,31 +1844,49 @@ BRMM-10225 &lt;ドキドキVer.&gt;</p></td>
 
 #### 日本国内
 
-| 播放地區                                                | 播放電視台                                                       | 播放日期               | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 備註              |
-| --------------------------------------------------- | ----------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- | --------------- |
-| 第一季                                                 |                                                             |                    |                                                                                                               |                 |
-| [東京都](../Page/東京都.md "wikilink")                    | [東京都會](../Page/東京都會電視台.md "wikilink")                       | 2017年1月21日 - 4月22日 | 星期六 22:30 - 23:00                                                                                             | 『製作委員會參加』/有重播時段 |
-| [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink") | [KBS京都](https://zh.wikipedia.org/wiki/KBS京都 "wikilink")     | 星期六 22:30 - 23:00  |                                                                                                               |                 |
-| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink") | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")   | 星期六 22:30 - 23:00  |                                                                                                               |                 |
-| 日本全國                                                | [AT-X](../Page/AT-X.md "wikilink")                          | 星期六 22:30 - 23:00  | CS放送/有重播時段                                                                                                    |                 |
-| [AbemaTV](../Page/AbemaTV.md "wikilink")            | 星期六 22:00 - 22:30                                           | 有重播時段              |                                                                                                               |                 |
-| [愛知縣](../Page/愛知縣.md "wikilink")                    | [愛知電視台](../Page/愛知電視台.md "wikilink")                        | 2017年1月23日 - 4月24日 | 星期日 25:05 - 25:35                                                                                             |                 |
-| [埼玉縣](../Page/埼玉縣.md "wikilink")                    | [埼玉電視台](../Page/埼玉電視台.md "wikilink")                        | 2017年1月24日 - 4月25日 | 星期一 24:30 - 25:00                                                                                             |                 |
-| 日本全國                                                | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")       | 星期一 26:00 - 26:30  | BS放送/[ANIME+](../Page/ANIME+.md "wikilink")                                                                   |                 |
-| [BS富士](../Page/BS富士.md "wikilink")                  | 2017年1月25日 - 4月26日                                          | 星期二 24:30 - 25:00  | BS放送                                                                                                          |                 |
-| [神奈川縣](../Page/神奈川縣.md "wikilink")                  | [神奈川電視台](../Page/神奈川電視台.md "wikilink")                      | 2017年1月26日 - 4月27日 | 星期三 25:00 - 25:30                                                                                             |                 |
-| [宮城縣](../Page/宮城縣.md "wikilink")                    | [宮城電視台](../Page/宮城電視台.md "wikilink")                        | 2017年1月28日 - 4月29日 | 星期五 26:30 - 27:00                                                                                             |                 |
-| 第二季                                                 |                                                             |                    |                                                                                                               |                 |
-| 東京都                                                 | TOKYO MX                                                    | 2019年1月3日 - 3月28日  | 星期四 23:00 - 23:30                                                                                             | 『製作委員會參加』/有重播時段 |
-| 京都府                                                 | KBS京都                                                       |                    |                                                                                                               |                 |
-| 日本全國                                                | BS11                                                        | 星期四 23:30 - 24:00  | BS放送/[ANIME+](../Page/ANIME+.md "wikilink")                                                                   |                 |
-| AT-X                                                | CS放送/有重播時段                                                  |                    |                                                                                                               |                 |
-| 兵庫縣                                                 | SUN電視台                                                      | 2019年1月4日 - 3月29日  | 星期四 24:00 - 24:30                                                                                             |                 |
-| 神奈川縣                                                | 神奈川電視台                                                      | 星期四 25:00 - 25:30  |                                                                                                               |                 |
-| [新潟縣](https://zh.wikipedia.org/wiki/新潟縣 "wikilink") | [新潟綜合電視台](../Page/新潟綜合電視台.md "wikilink")                    | 星期四 26:15 - 26:45  |                                                                                                               |                 |
-| [青森縣](../Page/青森縣.md "wikilink")                    | [青森放送](https://zh.wikipedia.org/wiki/青森放送 "wikilink")       | 2019年1月5日 - 3月30日  | 星期五 25:56 - 26:26                                                                                             |                 |
-| [靜岡縣](../Page/靜岡縣.md "wikilink")                    | [靜岡朝日電視台](https://zh.wikipedia.org/wiki/靜岡朝日電視台 "wikilink") | 2019年1月8日 - 4月2日   | 星期一 25:50 - 26:20                                                                                             |                 |
-| [愛知縣](../Page/愛知縣.md "wikilink")                    | [愛知電視台](../Page/愛知電視台.md "wikilink")                        | 2019年1月9日 - 4月3日   | 星期二 25:35 - 26:05                                                                                             | 有重播時段           |
+| 播放地區                                                | 播放電視台                                                       | 播放日期               | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 備註                                          |
+| --------------------------------------------------- | ----------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| 第一季                                                 |                                                             |                    |                                                                                                               |                                             |
+| [東京都](../Page/東京都.md "wikilink")                    | [東京都會](../Page/東京都會電視台.md "wikilink")                       | 2017年1月21日 - 4月22日 | 星期六 22:30 - 23:00                                                                                             | 『製作委員會參加』/有重播時段                             |
+| [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink") | [KBS京都](https://zh.wikipedia.org/wiki/KBS京都 "wikilink")     | 星期六 22:30 - 23:00  |                                                                                                               |                                             |
+| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink") | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")   | 星期六 22:30 - 23:00  |                                                                                                               |                                             |
+| 日本全國                                                | [AT-X](../Page/AT-X.md "wikilink")                          | 星期六 22:30 - 23:00  | CS放送/有重播時段                                                                                                    |                                             |
+| [AbemaTV](../Page/AbemaTV.md "wikilink")            | 星期六 22:00 - 22:30                                           | 有重播時段              |                                                                                                               |                                             |
+| [愛知縣](../Page/愛知縣.md "wikilink")                    | [愛知電視台](../Page/愛知電視台.md "wikilink")                        | 2017年1月23日 - 4月24日 | 星期日 25:05 - 25:35                                                                                             |                                             |
+| [埼玉縣](../Page/埼玉縣.md "wikilink")                    | [埼玉電視台](../Page/埼玉電視台.md "wikilink")                        | 2017年1月24日 - 4月25日 | 星期一 24:30 - 25:00                                                                                             |                                             |
+| 日本全國                                                | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")       | 星期一 26:00 - 26:30  | BS放送/[ANIME+](../Page/ANIME+.md "wikilink")                                                                   |                                             |
+| [BS富士](../Page/BS富士.md "wikilink")                  | 2017年1月25日 - 4月26日                                          | 星期二 24:30 - 25:00  | BS放送                                                                                                          |                                             |
+| [神奈川縣](../Page/神奈川縣.md "wikilink")                  | [神奈川電視台](../Page/神奈川電視台.md "wikilink")                      | 2017年1月26日 - 4月27日 | 星期三 25:00 - 25:30                                                                                             |                                             |
+| [宮城縣](../Page/宮城縣.md "wikilink")                    | [宮城電視台](../Page/宮城電視台.md "wikilink")                        | 2017年1月28日 - 4月29日 | 星期五 26:30 - 27:00                                                                                             |                                             |
+| 第二季                                                 |                                                             |                    |                                                                                                               |                                             |
+| 東京都                                                 | TOKYO MX                                                    | 2019年1月3日 - 3月28日  | 星期四 23:00 - 23:30                                                                                             | 『製作委員會參加』/有重播時段                             |
+| 京都府                                                 | KBS京都                                                       |                    |                                                                                                               |                                             |
+| 日本全國                                                | BS11                                                        | 星期四 23:30 - 24:00  | BS放送/[ANIME+](../Page/ANIME+.md "wikilink")                                                                   |                                             |
+| AT-X                                                | CS放送/有重播時段                                                  |                    |                                                                                                               |                                             |
+| 兵庫縣                                                 | SUN電視台                                                      | 2019年1月4日 - 3月29日  | 星期四 24:00 - 24:30                                                                                             |                                             |
+| 神奈川縣                                                | 神奈川電視台                                                      | 星期四 25:00 - 25:30  |                                                                                                               |                                             |
+| [新潟縣](https://zh.wikipedia.org/wiki/新潟縣 "wikilink") | [新潟綜合電視台](../Page/新潟綜合電視台.md "wikilink")                    | 星期四 26:15 - 26:45  |                                                                                                               |                                             |
+| [青森縣](../Page/青森縣.md "wikilink")                    | [青森放送](https://zh.wikipedia.org/wiki/青森放送 "wikilink")       | 2019年1月5日 - 3月30日  | 星期五 25:56 - 26:26                                                                                             |                                             |
+| [靜岡縣](../Page/靜岡縣.md "wikilink")                    | [靜岡朝日電視台](https://zh.wikipedia.org/wiki/靜岡朝日電視台 "wikilink") | 2019年1月8日 - 4月2日   | 星期一 25:50 - 26:20                                                                                             |                                             |
+| 愛知縣                                                 | 愛知電視台                                                       | 2019年1月9日 - 4月3日   | 星期二 25:35 - 26:05                                                                                             | 有重播時段                                       |
+| 第三季                                                 |                                                             |                    |                                                                                                               |                                             |
+| 東京都                                                 | TOKYO MX                                                    | 2020年1月23日 -       | 星期四 23:00 - 23:30                                                                                             | 『製作委員會參加』/有重播時段                             |
+| 京都府                                                 | KBS京都                                                       | 星期四 23:30 - 24:00  |                                                                                                               |                                             |
+| 日本全國                                                | [BS日本](../Page/BS日本.md "wikilink")                          | 2020年1月24日 -       | 星期四 24:00 - 24:30                                                                                             | BS放送/[ANIME+](../Page/ANIME+.md "wikilink") |
+| 兵庫縣                                                 | SUN電視台                                                      |                    |                                                                                                               |                                             |
+| [大分縣](https://zh.wikipedia.org/wiki/大分縣 "wikilink") | [大分放送](https://zh.wikipedia.org/wiki/大分放送 "wikilink")       | 星期四 26:55 - 27:25  |                                                                                                               |                                             |
+| 日本全國                                                | AT-X                                                        | 星期五 20:00 - 20:30  | 有重播時段                                                                                                         |                                             |
+| 愛知縣                                                 | 愛知電視台                                                       | 2020年1月27日 -       | 星期日 25:05 - 25:35                                                                                             |                                             |
+| [山口縣](https://zh.wikipedia.org/wiki/山口縣 "wikilink") | [山口朝日放送](https://zh.wikipedia.org/wiki/山口朝日放送 "wikilink")   | 星期日 25:29 - 25:59  |                                                                                                               |                                             |
+| [北海道](../Page/北海道.md "wikilink")                    | [北海道電視台](../Page/北海道電視台.md "wikilink")                      | 2020年1月28日 -       | 星期一 25:20 - 25:50                                                                                             |                                             |
+| [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink") | [RKB毎日放送](https://zh.wikipedia.org/wiki/RKB毎日放送 "wikilink") | 星期一 25:25 - 25:55  |                                                                                                               |                                             |
+| [長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink") | [長野朝日放送](https://zh.wikipedia.org/wiki/長野朝日放送 "wikilink")   | 星期一 25:45 - 26:15  |                                                                                                               |                                             |
+| [靜岡縣](../Page/靜岡縣.md "wikilink")                    | [靜岡朝日電視台](https://zh.wikipedia.org/wiki/靜岡朝日電視台 "wikilink") | 星期一 25:50 - 26:20  |                                                                                                               |                                             |
+| [秋田縣](https://zh.wikipedia.org/wiki/秋田縣 "wikilink") | [秋田朝日放送](https://zh.wikipedia.org/wiki/秋田朝日放送 "wikilink")   |                    |                                                                                                               |                                             |
+| [石川縣](../Page/石川縣.md "wikilink")                    | [北陸朝日放送](https://zh.wikipedia.org/wiki/北陸朝日放送 "wikilink")   | 星期一 26:10 - 26:40  |                                                                                                               |                                             |
+| [愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink") | [愛媛朝日電視台](https://zh.wikipedia.org/wiki/愛媛朝日電視台 "wikilink") | 星期一 20:50 - 26:50  |                                                                                                               |                                             |
+| [廣島縣](../Page/廣島縣.md "wikilink")                    | [中國放送](../Page/中國放送.md "wikilink")                          | 2019年2月8日 -        | 星期六 25:55 - 26:25                                                                                             |                                             |
+| [長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink") | [長崎國際電視台](https://zh.wikipedia.org/wiki/長崎國際電視台 "wikilink") | 星期六 26:04 - 26:34  |                                                                                                               |                                             |
 
 #### 日本國外
 
@@ -1906,16 +1956,17 @@ BRMM-10225 &lt;ドキドキVer.&gt;</p></td>
 
 ### 藍光（BD）
 
-| 卷數  | 發售日期        | 收錄話數        | 規格編號      |
-| --- | ----------- | ----------- | --------- |
-| 第一季 |             |             |           |
-| 1   | 2017年5月24日  | 第1話 - 第2話   | OVXN-0029 |
-| 2   | 2017年6月21日  | 第3話 - 第4話   | OVXN-0030 |
-| 3   | 2017年7月26日  | 第5話 - 第6話   | OVXN-0031 |
-| 4   | 2017年8月23日  | 第7話 - 第8話   | OVXN-0032 |
-| 5   | 2017年9月27日  | 第9話 - 第10話  | OVXN-0033 |
-| 6   | 2017年10月25日 | 第11話 - 第12話 | OVXN-0034 |
-| 7   | 2017年11月22日 | 第13話、OVA    | OVXN-0035 |
+| 卷數  | 發售日期        | 收錄話數           | 規格編號      |
+| --- | ----------- | -------------- | --------- |
+| 第一季 |             |                |           |
+| 1   | 2017年5月24日  | 第1話 - 第2話      | OVXN-0029 |
+| 2   | 2017年6月21日  | 第3話 - 第4話      | OVXN-0030 |
+| 3   | 2017年7月26日  | 第5話 - 第6話      | OVXN-0031 |
+| 4   | 2017年8月23日  | 第7話 - 第8話      | OVXN-0032 |
+| 5   | 2017年9月27日  | 第9話 - 第10話     | OVXN-0033 |
+| 6   | 2017年10月25日 | 第11話 - 第12話    | OVXN-0034 |
+| 7   | 2017年11月22日 | 第13話、OVA       | OVXN-0035 |
+| BOX | 2018年11月28日 | 第1話 - 第13話、OVA | OVXN-0046 |
 
 ## 遊戲
 
@@ -1941,9 +1992,11 @@ BRMM-10225 &lt;ドキドキVer.&gt;</p></td>
   - [《BanG Dream\! Girls Band Party\!》官方網站](http://bang-dream.bushimo.jp/)
 
   -
-  - [電視動畫《BanG Dream\! 第一季》官方網站](https://anime.bang-dream.com/1st/)
+  - [電視動畫《BanG Dream\!》官方網站](https://anime.bang-dream.com/1st/)
 
-  - [電視動畫《BanG Dream\! 第二季》官方網站](https://anime.bang-dream.com/2nd/)
+  - [電視動畫《BanG Dream\! 2nd Season》官方網站](https://anime.bang-dream.com/2nd/)
+
+  - [電視動畫《BanG Dream\! 3rd Season》官方網站](https://anime.bang-dream.com/3rd/)
 
   - [電影動畫《BanG Dream！FILM LIVE》官方網站](https://anime.bang-dream.com/filmlive/)
 

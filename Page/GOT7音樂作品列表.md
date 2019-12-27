@@ -320,9 +320,19 @@ Billboard公佈最新季度熱門巡演排行榜，GOT7憑藉7月6日在洛杉�
 <li>發行公司：Dreamus</li>
 </ul></td>
 <td><p>1</p></td>
-<td><p>－</p></td>
+<td><p>1</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/Call_My_Name.md" title="wikilink">Call My Name</a></p></td>
+<td><ul>
+<li>發行日期：2019年11月4日</li>
+<li>唱片公司：JYP娛樂</li>
+<li>發行公司：Dreamus</li>
+</ul></td>
+<td><p>1</p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

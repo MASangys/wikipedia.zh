@@ -198,44 +198,44 @@ IG第二次晋级全球总决赛是在[2015年](../Page/英雄联盟2015赛季�
 </thead>
 <tbody>
 <tr class="odd">
-<td></td>
-<td><p>Duke</p></td>
-<td><p>上单</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
+<td><p>姜承錄</p></td>
 <td><p>TheShy</p></td>
 <td><p>上单</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>高振宁</p></td>
 <td><p>Ning</p></td>
 <td><p>打野</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>卢崛</p></td>
 <td><p>Leyan</p></td>
 <td><p>打野</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p>宋義進</p></td>
 <td><p>Rookie</p></td>
 <td><p>中单</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>喻文波</p></td>
-<td><p>JackeyLove</p></td>
+<tr class="odd">
+<td><p>丁旺</p></td>
+<td><p>Puff</p></td>
 <td><p>下路</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>王柳羿</p></td>
 <td><p>Baolan</p></td>
+<td><p>辅助</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>苏志林</p></td>
+<td><p>Southwind</p></td>
 <td><p>辅助</p></td>
 <td></td>
 </tr>
@@ -250,14 +250,14 @@ IG第二次晋级全球总决赛是在[2015年](../Page/英雄联盟2015赛季�
 
 ### 前著名成员
 
-| 姓名                               | ID       |
-| -------------------------------- | -------- |
-| 刘志豪                              | Zz1tai   |
-| [葛炎](../Page/葛炎.md "wikilink")   | Kid      |
-| [刘谋](../Page/刘谋.md "wikilink")   | PDD      |
-| [孙亚龙](../Page/孙亚龙.md "wikilink") | xiaoxiao |
-| [王思聪](../Page/王思聪.md "wikilink") | WXZ      |
-| 侯宗辰                              | Krisp    |
+| 姓名                               | ID         |
+| -------------------------------- | ---------- |
+| 刘志豪                              | Zz1tai     |
+| [葛炎](../Page/葛炎.md "wikilink")   | Kid        |
+| [刘谋](../Page/刘谋.md "wikilink")   | PDD        |
+| [孙亚龙](../Page/孙亚龙.md "wikilink") | xiaoxiao   |
+| [王思聪](../Page/王思聪.md "wikilink") | WXZ        |
+| 喻文波                              | JackeyLove |
 
 ### 荣誉
 

@@ -103,10 +103,10 @@ Nowhere Boys名字來自關於[約翰藍儂成長的電影](https://zh.wikipedia
 | --------------------------------------------------------------------------------------------------- |
 | 唱片                                                                                                  |
 | **2015年**                                                                                           |
-| [Nowhere Boys](https://zh.wikipedia.org/wiki/Nowhere_Boys\(Nowhere_Boys同名專輯\) "wikilink")           |
+| [Nowhere Boys](https://zh.wikipedia.org/wiki/Nowhere_Boys_\(專輯\) "wikilink")                        |
 | **2016年**                                                                                           |
-| Nowhere Boys                                                                                        |
 | [Welcome To Our Hyperreality](https://zh.wikipedia.org/wiki/Welcome_To_Our_Hyperreality "wikilink") |
+| Welcome To Our Hyperreality                                                                         |
 | [月光寶盒](https://zh.wikipedia.org/wiki/月光寶盒_\(EP\) "wikilink")                                        |
 | Welcome To Our Hyperreality                                                                         |
 | 月光寶盒                                                                                                |

@@ -32,7 +32,7 @@ GM1推出后，其惊艳的外形尺寸令许多媒体惊讶。与当时流行�
   - [](http://www.dpreview.com/reviews/panasonic-lumix-dmc-gm1) - DP Review
   - [パナソニックLUMIX DMC-GM1](http://dc.watch.impress.co.jp/docs/review/longterm/628606.html) - DC Watch Impress
   - [Panasonic Lumix GM1 评测：「细」不可挡](http://cn.engadget.com/2013/11/29/panasonic-lumix-gm1-review/) - 瘾科技
-  - [Panasonic单眼相机 - "微"单眼的重新定义 Panasonic GM1](http://www.5i01.cn/newsdetail.php?id=14347) - Mobil01
+  - [Panasonic单眼相机 - "微"单眼的重新定义 Panasonic GM1](https://web.archive.org/web/20150402053934/http://www.5i01.cn/newsdetail.php?id=14347) - Mobil01
 
 [Category:松下无反可交换镜头数码相机](https://zh.wikipedia.org/wiki/Category:松下无反可交换镜头数码相机 "wikilink")
 

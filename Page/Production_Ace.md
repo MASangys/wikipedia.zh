@@ -8,7 +8,62 @@
 
 旗下聲優經常一起在改編自KADOKAWA出版之[輕小說](../Page/輕小說.md "wikilink")、[漫畫的](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[動畫作品中演出及演唱主題曲](../Page/日本动画.md "wikilink")。
 
-## 旗下聲優
+## 所屬聲優
+
+### 男性
+
+<table>
+<tbody>
+<tr class="odd">
+<td><ul>
+<li><a href="https://zh.wikipedia.org/wiki/雨澤祐貴" title="wikilink">雨澤祐貴</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/荒井勇樹" title="wikilink">荒井勇樹</a></li>
+<li></li>
+<li><p>（）</p></li>
+<li><a href="https://zh.wikipedia.org/wiki/岩川拓吾" title="wikilink">岩川拓吾</a></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li><a href="https://zh.wikipedia.org/wiki/柏野昌俊" title="wikilink">柏野昌俊</a></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul></td>
+<td><ul>
+<li></li>
+<li></li>
+<li></li>
+<li><a href="https://zh.wikipedia.org/wiki/黑羽保" title="wikilink">黑羽保</a></li>
+<li><a href="../Page/河本啟佑.md" title="wikilink">河本啟佑</a></li>
+<li><a href="../Page/里卓哉.md" title="wikilink">里卓哉</a></li>
+<li></li>
+<li><a href="https://zh.wikipedia.org/wiki/菅井一步" title="wikilink">菅井一步</a></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul></td>
+<td><ul>
+<li></li>
+<li><a href="https://zh.wikipedia.org/wiki/橋本雅史" title="wikilink">橋本雅史</a></li>
+<li></li>
+<li></li>
+<li><a href="https://zh.wikipedia.org/wiki/廣瀨龍一" title="wikilink">廣瀨龍一</a></li>
+<li></li>
+<li><a href="https://zh.wikipedia.org/wiki/丸山智行" title="wikilink">丸山智行</a></li>
+<li></li>
+<li></li>
+<li></li>
+<li><a href="../Page/山本和臣.md" title="wikilink">山本和臣</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/龍門睦月" title="wikilink">龍門睦月</a></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
 ### 女性
 
@@ -72,62 +127,37 @@
 </tbody>
 </table>
 
-### 男性
+### 新人聲優
+
+#### 男性
 
 <table>
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/雨澤祐貴" title="wikilink">雨澤祐貴</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/荒井勇樹" title="wikilink">荒井勇樹</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/碓冰剛史" title="wikilink">碓冰剛史</a></li>
 <li></li>
-<li><p>（）</p></li>
-<li><a href="https://zh.wikipedia.org/wiki/岩川拓吾" title="wikilink">岩川拓吾</a></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li><a href="https://zh.wikipedia.org/wiki/柏野昌俊" title="wikilink">柏野昌俊</a></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li><a href="https://zh.wikipedia.org/wiki/梶田大嗣" title="wikilink">梶田大嗣</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/神長壯一郎" title="wikilink">神長壯一郎</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/神谷亮" title="wikilink">神谷亮</a></li>
 </ul></td>
 <td><ul>
+<li><a href="https://zh.wikipedia.org/wiki/黑井智廣" title="wikilink">黑井智廣</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/齊藤隼一" title="wikilink">齊藤隼一</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/坂本佳一" title="wikilink">坂本佳一</a></li>
 <li></li>
-<li></li>
-<li></li>
-<li><a href="https://zh.wikipedia.org/wiki/黑羽保" title="wikilink">黑羽保</a></li>
-<li><a href="../Page/河本啟佑.md" title="wikilink">河本啟佑</a></li>
-<li><a href="../Page/里卓哉.md" title="wikilink">里卓哉</a></li>
-<li></li>
-<li><a href="https://zh.wikipedia.org/wiki/菅井一步" title="wikilink">菅井一步</a></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li><a href="https://zh.wikipedia.org/wiki/永松清信" title="wikilink">永松清信</a></li>
 </ul></td>
 <td><ul>
-<li></li>
-<li><a href="https://zh.wikipedia.org/wiki/橋本雅史" title="wikilink">橋本雅史</a></li>
-<li></li>
-<li></li>
-<li><a href="https://zh.wikipedia.org/wiki/廣瀨龍一" title="wikilink">廣瀨龍一</a></li>
-<li></li>
-<li><a href="https://zh.wikipedia.org/wiki/丸山智行" title="wikilink">丸山智行</a></li>
-<li></li>
-<li></li>
-<li></li>
-<li><a href="../Page/山本和臣.md" title="wikilink">山本和臣</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/龍門睦月" title="wikilink">龍門睦月</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/林廣太朗" title="wikilink">林廣太朗</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/平井貴大" title="wikilink">平井貴大</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/真鍋俊之" title="wikilink">真鍋俊之</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/村上聰" title="wikilink">村上聰</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/湯越康平" title="wikilink">湯越康平</a></li>
 </ul></td>
 </tr>
 </tbody>
 </table>
-
-### 新人聲優
 
 #### 女性
 
@@ -177,152 +207,9 @@
 </tbody>
 </table>
 
-#### 男性
+## 過往所屬聲優、藝人
 
-<table>
-<tbody>
-<tr class="odd">
-<td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/碓冰剛史" title="wikilink">碓冰剛史</a></li>
-<li></li>
-<li><a href="https://zh.wikipedia.org/wiki/梶田大嗣" title="wikilink">梶田大嗣</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/神長壯一郎" title="wikilink">神長壯一郎</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/神谷亮" title="wikilink">神谷亮</a></li>
-</ul></td>
-<td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/黑井智廣" title="wikilink">黑井智廣</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/齊藤隼一" title="wikilink">齊藤隼一</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/坂本佳一" title="wikilink">坂本佳一</a></li>
-<li></li>
-<li><a href="https://zh.wikipedia.org/wiki/永松清信" title="wikilink">永松清信</a></li>
-</ul></td>
-<td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/林廣太朗" title="wikilink">林廣太朗</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/平井貴大" title="wikilink">平井貴大</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/真鍋俊之" title="wikilink">真鍋俊之</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/村上聰" title="wikilink">村上聰</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/湯越康平" title="wikilink">湯越康平</a></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
-## 過去所屬聲優、藝人
-
-※含Trial Production時期
-
-### 女性
-
-  - [青木千尋](https://zh.wikipedia.org/wiki/青木千尋 "wikilink")
-
-  - [淺山惠](https://zh.wikipedia.org/wiki/淺山惠 "wikilink")
-
-  -
-  - [伊藤佳織](https://zh.wikipedia.org/wiki/伊藤佳織 "wikilink")
-
-  - [岩永尚子](https://zh.wikipedia.org/wiki/岩永尚子 "wikilink")（現屬[SR Production](https://zh.wikipedia.org/wiki/SR_Production "wikilink")）
-
-  - \[2\]（）
-
-  - [遠藤久美子](https://zh.wikipedia.org/wiki/遠藤久美子 "wikilink")
-
-  - [大川千尋](https://zh.wikipedia.org/wiki/大川千尋 "wikilink")（）
-
-  - [大笹繪里](https://zh.wikipedia.org/wiki/大笹繪里 "wikilink")
-
-  - [大原由美](https://zh.wikipedia.org/wiki/大原由美 "wikilink")
-
-  - （引退\[3\]）
-
-  - [小澤瑞季](https://zh.wikipedia.org/wiki/小澤瑞季 "wikilink")
-
-  - [小野愛美](https://zh.wikipedia.org/wiki/小野愛美 "wikilink")
-
-  - [柏山奈奈美](../Page/柏山奈奈美.md "wikilink")（現屬\[4\]）
-
-  - [加茂朱音](https://zh.wikipedia.org/wiki/加茂朱音 "wikilink")
-
-  - [加茂友美](https://zh.wikipedia.org/wiki/加茂友美 "wikilink")
-
-  - （舊名合田彩\[5\]，現自由身\[6\]）
-
-  -
-  - [合田迪世](https://zh.wikipedia.org/wiki/合田迪世 "wikilink")
-
-  - （，舊名齋藤綾，現屬[Vi-vo](../Page/Vi-vo.md "wikilink")）
-
-  - [齊藤美希](https://zh.wikipedia.org/wiki/齊藤美希 "wikilink")（）
-
-  - [佐土原香織](../Page/佐土原香織.md "wikilink")\[7\]（現屬[object](https://zh.wikipedia.org/wiki/object "wikilink")\[8\]）
-
-  - [清水智美](https://zh.wikipedia.org/wiki/清水智美 "wikilink")
-
-  - [鈴木綾音](https://zh.wikipedia.org/wiki/鈴木綾音 "wikilink")
-
-  - [曾和圓香](../Page/曾和圓香.md "wikilink")
-
-  - [玉置陽子](https://zh.wikipedia.org/wiki/玉置陽子 "wikilink")
-
-  - [月宮綠](https://zh.wikipedia.org/wiki/月宮綠 "wikilink")（中止聲優活動\[9\]）
-
-  - [富樫美鈴](../Page/富樫美鈴.md "wikilink")\[10\]（現屬[賢Production](../Page/賢Production.md "wikilink")\[11\]）
-
-  - [堤真理子](https://zh.wikipedia.org/wiki/堤真理子 "wikilink")
-
-  - [中島扶美子](https://zh.wikipedia.org/wiki/中島扶美子 "wikilink")
-
-  - [中村聰美](https://zh.wikipedia.org/wiki/中村聰美 "wikilink")
-
-  - [夏谷美希](https://zh.wikipedia.org/wiki/夏谷美希 "wikilink")
-
-  - [新倉芽以](https://zh.wikipedia.org/wiki/新倉芽以 "wikilink")
-
-  - [西川實沙](https://zh.wikipedia.org/wiki/西川實沙 "wikilink")
-
-  - [野口祐希子](https://zh.wikipedia.org/wiki/野口祐希子 "wikilink")
-
-  - [箱崎早苗](https://zh.wikipedia.org/wiki/箱崎早苗 "wikilink")
-
-  - [箱田真尋](https://zh.wikipedia.org/wiki/箱田真尋 "wikilink")
-
-  -
-  - [樋口結美](https://zh.wikipedia.org/wiki/樋口結美 "wikilink")
-
-  - [廣坂愛](../Page/廣坂愛.md "wikilink")（中止聲優活動\[12\]）
-
-  - [日渡美伸](https://zh.wikipedia.org/wiki/日渡美伸 "wikilink")（）
-
-  -
-  -
-  - [古谷靜佳](../Page/古谷靜佳.md "wikilink")（現自由身\[13\]）
-
-  - [堀川千華](../Page/堀川千華.md "wikilink")（現自由身\[14\]）
-
-  - [堀田春菜](https://zh.wikipedia.org/wiki/堀田春菜 "wikilink")
-
-  - [堀中優希](../Page/堀中優希.md "wikilink")（現屬賢Production\[15\]）
-
-  - [本多真梨子](../Page/本多真梨子.md "wikilink")（現屬[Amuleto](../Page/Amuleto.md "wikilink")\[16\]）
-
-  - [三神由紀](https://zh.wikipedia.org/wiki/三神由紀 "wikilink")
-
-  - [味里](../Page/味里.md "wikilink")（現自由身\[17\]）
-
-  - [南佐知](https://zh.wikipedia.org/wiki/南佐知 "wikilink")
-
-  - [明瀨未央](https://zh.wikipedia.org/wiki/明瀨未央 "wikilink")
-
-  -
-  - （）
-
-  - [森朝日](https://zh.wikipedia.org/wiki/森朝日 "wikilink")（）
-
-  -
-  -
-  - [渡邊紗英子](https://zh.wikipedia.org/wiki/渡邊紗英子 "wikilink")
-
-  -
-  - （）
+※含Trial Production時期。
 
 ### 男性
 
@@ -357,7 +244,7 @@
 
   - [高浦瞬](https://zh.wikipedia.org/wiki/高浦瞬 "wikilink")
 
-  - （舊名鷹野晶，現屬object\[18\]）
+  - （舊名鷹野晶，現屬object\[2\]）
 
   - [高野宗大](https://zh.wikipedia.org/wiki/高野宗大 "wikilink")
 
@@ -377,7 +264,7 @@
 
   - [幡野智宏](https://zh.wikipedia.org/wiki/幡野智宏 "wikilink")
 
-  - [比上孝浩](../Page/比上孝浩.md "wikilink")（現屬\[19\]）
+  - [比上孝浩](../Page/比上孝浩.md "wikilink")（現屬\[3\]）
 
   - [平松優](https://zh.wikipedia.org/wiki/平松優 "wikilink")
 
@@ -409,11 +296,125 @@
 
   - [山中誠也](https://zh.wikipedia.org/wiki/山中誠也 "wikilink")
 
+### 女性
+
+  - [青木千尋](https://zh.wikipedia.org/wiki/青木千尋 "wikilink")
+
+  - [淺山惠](https://zh.wikipedia.org/wiki/淺山惠 "wikilink")
+
+  -
+  - [伊藤佳織](https://zh.wikipedia.org/wiki/伊藤佳織 "wikilink")
+
+  - [岩永尚子](https://zh.wikipedia.org/wiki/岩永尚子 "wikilink")（現屬[SR Production](https://zh.wikipedia.org/wiki/SR_Production "wikilink")）
+
+  - \[4\]（）
+
+  - [遠藤久美子](https://zh.wikipedia.org/wiki/遠藤久美子 "wikilink")
+
+  - [大川千尋](https://zh.wikipedia.org/wiki/大川千尋 "wikilink")（）
+
+  - [大笹繪里](https://zh.wikipedia.org/wiki/大笹繪里 "wikilink")
+
+  - [大原由美](https://zh.wikipedia.org/wiki/大原由美 "wikilink")
+
+  - （引退\[5\]）
+
+  - [小澤瑞季](https://zh.wikipedia.org/wiki/小澤瑞季 "wikilink")
+
+  - [小野愛美](https://zh.wikipedia.org/wiki/小野愛美 "wikilink")
+
+  - [柏山奈奈美](../Page/柏山奈奈美.md "wikilink")（現屬\[6\]）
+
+  - [加茂朱音](https://zh.wikipedia.org/wiki/加茂朱音 "wikilink")
+
+  - [加茂友美](https://zh.wikipedia.org/wiki/加茂友美 "wikilink")
+
+  - （舊名合田彩\[7\]，現自由身\[8\]）
+
+  -
+  - [合田迪世](https://zh.wikipedia.org/wiki/合田迪世 "wikilink")
+
+  - （，舊名齋藤綾，現屬[Vi-vo](../Page/Vi-vo.md "wikilink")）
+
+  - [齊藤美希](https://zh.wikipedia.org/wiki/齊藤美希 "wikilink")（）
+
+  - [佐土原香織](../Page/佐土原香織.md "wikilink")\[9\]（現屬[object](https://zh.wikipedia.org/wiki/object "wikilink")\[10\]）
+
+  - [清水智美](https://zh.wikipedia.org/wiki/清水智美 "wikilink")
+
+  - [鈴木綾音](https://zh.wikipedia.org/wiki/鈴木綾音 "wikilink")
+
+  - [曾和圓香](../Page/曾和圓香.md "wikilink")
+
+  - [玉置陽子](https://zh.wikipedia.org/wiki/玉置陽子 "wikilink")
+
+  - [月宮綠](https://zh.wikipedia.org/wiki/月宮綠 "wikilink")（中止聲優活動\[11\]）
+
+  - [富樫美鈴](../Page/富樫美鈴.md "wikilink")\[12\]（現屬[賢Production](../Page/賢Production.md "wikilink")\[13\]）
+
+  - [堤真理子](https://zh.wikipedia.org/wiki/堤真理子 "wikilink")
+
+  - [中島扶美子](https://zh.wikipedia.org/wiki/中島扶美子 "wikilink")
+
+  - [中村聰美](https://zh.wikipedia.org/wiki/中村聰美 "wikilink")
+
+  - [夏谷美希](https://zh.wikipedia.org/wiki/夏谷美希 "wikilink")
+
+  - [新倉芽以](https://zh.wikipedia.org/wiki/新倉芽以 "wikilink")
+
+  - [西川實沙](https://zh.wikipedia.org/wiki/西川實沙 "wikilink")
+
+  - [野口祐希子](https://zh.wikipedia.org/wiki/野口祐希子 "wikilink")
+
+  - [箱崎早苗](https://zh.wikipedia.org/wiki/箱崎早苗 "wikilink")
+
+  - [箱田真尋](https://zh.wikipedia.org/wiki/箱田真尋 "wikilink")
+
+  -
+  - [樋口結美](https://zh.wikipedia.org/wiki/樋口結美 "wikilink")
+
+  - [廣坂愛](../Page/廣坂愛.md "wikilink")（中止聲優活動\[14\]）
+
+  - [日渡美伸](https://zh.wikipedia.org/wiki/日渡美伸 "wikilink")（）
+
+  -
+  -
+  - [古谷靜佳](../Page/古谷靜佳.md "wikilink")（現自由身\[15\]）
+
+  - [堀川千華](../Page/堀川千華.md "wikilink")（現自由身\[16\]）
+
+  - [堀田春菜](https://zh.wikipedia.org/wiki/堀田春菜 "wikilink")
+
+  - [堀中優希](../Page/堀中優希.md "wikilink")（現屬賢Production\[17\]）
+
+  - [本多真梨子](../Page/本多真梨子.md "wikilink")（現屬[Amuleto](../Page/Amuleto.md "wikilink")\[18\]）
+
+  - [三神由紀](https://zh.wikipedia.org/wiki/三神由紀 "wikilink")
+
+  - [味里](../Page/味里.md "wikilink")（現自由身\[19\]）
+
+  - [南佐知](https://zh.wikipedia.org/wiki/南佐知 "wikilink")
+
+  - [明瀨未央](https://zh.wikipedia.org/wiki/明瀨未央 "wikilink")
+
+  -
+  - （）
+
+  - [森朝日](https://zh.wikipedia.org/wiki/森朝日 "wikilink")（）
+
+  -
+  -
+  - [渡邊紗英子](https://zh.wikipedia.org/wiki/渡邊紗英子 "wikilink")
+
+  -
+  - （）
+
 ## 參考資料
 
 ## 外部連結
 
-  -
+  - [Production Ace官方網站](https://www.production-ace.co.jp/)
+
 [Category:Production_Ace](https://zh.wikipedia.org/wiki/Category:Production_Ace "wikilink") [Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:角川集團](https://zh.wikipedia.org/wiki/Category:角川集團 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:1993年成立的公司](https://zh.wikipedia.org/wiki/Category:1993年成立的公司 "wikilink")
 
 1.

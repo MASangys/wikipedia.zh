@@ -77,7 +77,7 @@
       -
   - [DISCOGRAPHY](https://web.archive.org/web/20140815150638/http://www.babymetal.jp/discography/) - BABYMETAL 官方網站
   - [DISCOGRAPHY](http://www.toysfactory.co.jp/artist/babymetal/disco) - TOY'S FACTORY 官方網站
-  - [7月4日〈HeadBanger\!\!〉封面、收錄曲、優惠情報發表DEATH！！](http://www.babymetal.jp/news/0/3134/) - 新聞 - BABYMETAL 官方網站
+  - [7月4日〈HeadBanger\!\!〉封面、收錄曲、優惠情報發表DEATH！！](https://web.archive.org/web/20160304203023/http://www.babymetal.jp/news/0/3134/) - 新聞 - BABYMETAL 官方網站
   - [BABYMETAL - HeadBanger\!\!歌詞](http://www.uta-net.com/movie/131878/)
   - [BABYMETAL - 欺凌、絕對、不行歌詞](http://www.uta-net.com/movie/131877/)
 

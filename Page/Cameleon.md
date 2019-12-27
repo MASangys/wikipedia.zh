@@ -30,7 +30,7 @@ Cameleon 先前的云平台已于 2014 年退役，只供早期用户使用。\[
 
   - [社交網絡](https://zh.wikipedia.org/wiki/社交網絡 "wikilink")
   - [串流媒体](https://zh.wikipedia.org/wiki/串流媒体 "wikilink")
-  - [TwitCasting](https://zh.wikipedia.org/wiki/TwitCasting "wikilink")
+  - [TwitCasting](../Page/TwitCasting.md "wikilink")
   - [Twitch](https://zh.wikipedia.org/wiki/Twitch_\(網路\) "wikilink")
   - [Ustream](https://zh.wikipedia.org/wiki/Ustream "wikilink")
 

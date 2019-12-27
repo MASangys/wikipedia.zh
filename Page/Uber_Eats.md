@@ -10,7 +10,7 @@ Uber Eats与世界各地城市的当地餐廳合作，并讓使用者可以使�
 
   - [Foodpanda](../Page/Foodpanda.md "wikilink")
   - [戶戶送](../Page/Deliveroo.md "wikilink")
-  - [外送](https://zh.wikipedia.org/wiki/外送 "wikilink")
+  - [外送](../Page/外送.md "wikilink")
 
 ## 参考资料
 

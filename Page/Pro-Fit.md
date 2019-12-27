@@ -17,7 +17,7 @@
   - [岡本信彥](../Page/岡本信彥.md "wikilink")
 
   -
-  - [相馬康一](https://zh.wikipedia.org/wiki/相馬康一 "wikilink")
+  - [相馬康一](../Page/相馬康一.md "wikilink")
 
   - [高橋伸也](../Page/高橋伸也.md "wikilink")
 
@@ -75,6 +75,8 @@
   -
   - [悠木碧](../Page/悠木碧.md "wikilink")
 
+  - [鬼頭明里](../Page/鬼頭明里.md "wikilink")
+
 <!-- end list -->
 
   - 準所屬
@@ -82,7 +84,7 @@
 <!-- end list -->
 
   - [嘉山未紗](../Page/嘉山未紗.md "wikilink")
-  - [鬼頭明里](../Page/鬼頭明里.md "wikilink")
+  - [高柳知葉](../Page/高柳知葉.md "wikilink")
 
 <!-- end list -->
 
@@ -99,8 +101,6 @@
 <!-- end list -->
 
   - [大島美咲](https://zh.wikipedia.org/wiki/大島美咲 "wikilink")
-
-  - [高柳知葉](../Page/高柳知葉.md "wikilink")
 
   -
 ### LINK PLAN

@@ -2,9 +2,7 @@
 
 截至2014年，它是超级计算机最常用的互连技术。和[英特尔](../Page/英特尔.md "wikilink")制造InfiniBand[主机总线适配器和](https://zh.wikipedia.org/wiki/主机总线适配器 "wikilink")[網路交換器](../Page/網路交換器.md "wikilink")，并根据2016年2月的报道，\[2\][甲骨文公司](../Page/甲骨文公司.md "wikilink")已经设计了自己的Infiniband交换机单元和服务器适配芯片，用于自己的产品线和第三方。Mellanox IB卡可用于[Solaris](../Page/Solaris.md "wikilink")、[RHEL](../Page/Red_Hat_Enterprise_Linux.md "wikilink")、、[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[HP-UX](../Page/HP-UX.md "wikilink")、、\[3\] [AIX](../Page/IBM_AIX.md "wikilink")。\[4\]它被设计为[可扩展和使用](https://zh.wikipedia.org/wiki/可扩展性 "wikilink")的[网络拓扑](https://zh.wikipedia.org/wiki/网络拓扑 "wikilink")。
 
-作为互连技术，IB与[以太网](../Page/以太网.md "wikilink")、[光纤通道和其他专有技术](https://zh.wikipedia.org/wiki/光纤通道 "wikilink")\[5\]（例如[克雷公司](../Page/克雷公司.md "wikilink")的SeaStar）竞争。
-
-该技术由推动。
+作为互连技术，IB与[以太网](../Page/以太网.md "wikilink")、[光纤通道和其他专有技术](https://zh.wikipedia.org/wiki/光纤通道 "wikilink")\[5\]（例如[克雷公司](../Page/克雷公司.md "wikilink")的SeaStar）竞争。该技术由推动。
 
 ## 规格
 

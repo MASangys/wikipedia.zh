@@ -200,7 +200,7 @@ MIL-STD-1553B指定对于变压器耦合的[短截线](../Page/短截线.md "wik
 
 ## 外部链接
 
-  - [MIL-STD-1553 Tutorial](http://aviftech.com/files/3313/5168/8298/1553_Tutorial.pdf) from [Avionics Interface Technologies](http://www.aviftech.com/) (registration required)
+  - [MIL-STD-1553 Tutorial](https://web.archive.org/web/20130903081458/http://aviftech.com/files/3313/5168/8298/1553_Tutorial.pdf) from [Avionics Interface Technologies](http://www.aviftech.com/) (registration required)
   - [MIL-STD-1553 Tutorial (video)](http://www.mil-1553.com/tutorials-1553) from Excalibur Systems Inc.
   - [MIL-STD-1553 Tutorial](http://defense.ge-ip.com/library/detail/11743?cid=wik1553) by GE Intelligent Platforms (registration required)
   - [MIL-STD-1553 Tutorial and References](http://www.ballardtech.com/support.aspx/Tutorials/#mil-std-1553) from Ballard Technology (includes MIL-STD-1553B & MIL-HDBK-1553A Notice2)

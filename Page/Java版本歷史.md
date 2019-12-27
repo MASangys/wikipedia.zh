@@ -165,7 +165,7 @@ OpenJDK 在 2019 年 9 月停止免费更新</p></td>
 代號為**Merlin**。2002年2月6日釋出了[JSR 59](http://www.jcp.org/en/jsr/detail?id=59)，是第一個在JCP下開發的Java平臺。主要的變化包括︰\[11\]\[12\]
 
   - 語言上的改變
-      - [`assert`](../Page/斷言_\(程式\).md "wikilink") 關鍵字 (在 [JSR 41](http://www.jcp.org/en/jsr/detail?id=41) 中被指定)
+      - [`assert`](../Page/斷言_\(程式\).md "wikilink") 關鍵字 (在 [JSR 41](https://web.archive.org/web/20080616233205/http://www.jcp.org/en/jsr/detail?id=41) 中被指定)
   - 程式庫的改善
       - 仿照[Perl](../Page/Perl.md "wikilink")的[正規表示式](https://zh.wikipedia.org/wiki/正規表示式 "wikilink")
       - [異常鏈](https://zh.wikipedia.org/wiki/异常链 "wikilink")，允許一個异常來封裝原先处于較低級別的异常
@@ -825,7 +825,7 @@ JDK 12 于2019年3月19日发布。该版本包含较多新特性，例如：
 22. [Version 6](http://java.sun.com/javase/6/webnotes/version-6.html), Java webnotes, Sun.
 23. [Version 1.6 press release](http://www.sun.com/smi/Press/sunflash/2006-12/sunflash.20061211.1.xml).
 24. [Version 1.6 full list of changes](http://java.sun.com/javase/6/features.jsp).
-25. [Java Lobby](http://www.javalobby.org/java/forums/t66270.html).
+25. [Java Lobby](http://www.javalobby.org/java/forums/t66270.html) .
 26. [Mustang's HotSpot](http://weblogs.java.net/blog/opinali/archive/2005/11/mustangs_hotspo.html) , Sun weblogs.
 27.
 28.

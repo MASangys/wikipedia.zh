@@ -414,7 +414,7 @@
 <td><p>52</p></td>
 <td><p>9月11日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2008年夏季奥林匹克运动会" title="wikilink">奥运会尾声</a></p></td>
+<td><p><a href="../Page/2008年夏季奥林匹克运动会.md" title="wikilink">奥运会尾声</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

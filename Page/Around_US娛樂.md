@@ -77,14 +77,14 @@
 
 ### 練習生
 
-  - 禹濟元（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - 鄭在訓（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
 
 ## 離開藝人
 
 ### 練習生
 
-  - 崔時赫(2018-2019) （[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - 崔時赫(2018-2019)（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - 禹濟元(2018-2019)（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
 
 ## 腳註
 

@@ -73,11 +73,10 @@ Dinitz在1969年一月向他人公布了他发明的算法，又在1970年将其
 
 ## 参考文献
 
+  -
 ## 参见
 
-[网络流](../Page/网络流.md "wikilink")
-
-[Ford–Fulkerson算法](../Page/Ford–Fulkerson算法.md "wikilink")
+[网络流](../Page/网络流.md "wikilink") [Ford–Fulkerson算法](../Page/Ford–Fulkerson算法.md "wikilink")
 
 [Category:图算法](https://zh.wikipedia.org/wiki/Category:图算法 "wikilink") [Category:網絡流](https://zh.wikipedia.org/wiki/Category:網絡流 "wikilink")
 

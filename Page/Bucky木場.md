@@ -65,6 +65,8 @@
 
   - 好想看漫畫\!\! 奇蹟影像博覧會（不定期特別節目）
 
+  - [8時J](https://zh.wikipedia.org/wiki/8時J "wikilink")（2019年）※復活版。
+
 <!-- end list -->
 
   - [TBS電視網](../Page/日本新聞網_\(TBS\).md "wikilink")

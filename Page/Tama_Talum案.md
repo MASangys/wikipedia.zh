@@ -32,7 +32,7 @@
 
 <references />
 
-[Category:布農族](https://zh.wikipedia.org/wiki/Category:布農族 "wikilink") [Category:狩獵](https://zh.wikipedia.org/wiki/Category:狩獵 "wikilink") [Category:2010年代台灣](https://zh.wikipedia.org/wiki/Category:2010年代台灣 "wikilink") [Category:臺灣原住民族](https://zh.wikipedia.org/wiki/Category:臺灣原住民族 "wikilink") [Category:臺灣刑事罪案](https://zh.wikipedia.org/wiki/Category:臺灣刑事罪案 "wikilink")
+[Category:布農族](https://zh.wikipedia.org/wiki/Category:布農族 "wikilink") [Category:狩獵](https://zh.wikipedia.org/wiki/Category:狩獵 "wikilink") [Category:2010年代台灣](https://zh.wikipedia.org/wiki/Category:2010年代台灣 "wikilink") [Category:臺灣原住民族](https://zh.wikipedia.org/wiki/Category:臺灣原住民族 "wikilink") [Category:台灣刑事案件](https://zh.wikipedia.org/wiki/Category:台灣刑事案件 "wikilink")
 
 1.  [為母打獵將入獄 法扶搶救布農男](http://news.ltn.com.tw/news/society/paper/937758)，自由時報。
 2.  [Aborigine Sentenced Three Years for Hunting in the Mountains](https://international.thenewslens.com/article/32039)，關鍵評論網。

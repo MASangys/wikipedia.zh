@@ -159,14 +159,14 @@ PlotData =
 `bar:Hyeme        from:12/01/2014 till:end       `
 `color:d width:7 textcolor:black align:left anchor:from`
 `bar:Alex         from:11/03/2015 till:08/19/2017`
-`bar:Zi.U         from:11/03/2015 till:03/19/2019`
+`bar:Zi.U         from:11/03/2015 till:08/28/2019`
 `color:e width:7 textcolor:black align:left anchor:from`
 `bar:Jieun        from:06/26/2016 till:08/28/2019     `
 `bar:Jihyun       from:06/26/2016  till:09/01/2016`
 `bar:Crystal      from:06/26/2016  till:09/01/2016`
 `color:f width:7 textcolor:black align:left anchor:from`
 `bar:Yumin        from:12/25/2016 till:05/30/2018`
-`bar:Ttabo        from:12/26/2016 till:11/07/2018        `
+`bar:Ttabo        from:12/26/2016 till:08/28/2019        `
 `color:pink width:7 textcolor:black align:left anchor:from`
 `bar:Namfon       from:06/28/2018 till:end`
 `color:skyblue width:7 textcolor:black align:left anchor:from`

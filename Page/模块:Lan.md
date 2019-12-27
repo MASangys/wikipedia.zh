@@ -19,6 +19,9 @@ function l._main(args, frame)
 `   local userlanguage=frame:callParserFunction{ name = 'int', args = {'Conversionname'} }`
 `   --mw.message.new('Conversionname'):plain()`
 `   local fallback=l.fallbackList[userlanguage]`
+`   if fallback == nil then`
+`       fallback=l.fallbackList['zh']`
+`   end`
 `   for _,langArgName in ipairs(fallback)  do`
 `       if  args[langArgName] ~= nil then`
 `           return args[langArgName]`

@@ -66,7 +66,15 @@ hotaru負責所有錄音的寫作，同時也在推動樂團的音樂世界觀�
 
   - 2月27日發行第八張單曲「shadowgraph」，為電視動畫[幻影死神片頭曲](https://zh.wikipedia.org/wiki/幻影死神 "wikilink")\[11\]，當中收錄曲「Remembrance」，為劇場版[幼女戰記](../Page/幼女戰記.md "wikilink")主題曲\[12\]。
   - 7月24日發行第九張單曲「PANTA RHEI」，為電視動畫[異世界超能魔術師](../Page/異世界超能魔術師.md "wikilink")片頭曲\[13\]。
-  - 10月23日發行第十張單曲「TIT FOR TAT」，為電視動畫[這個勇者明明超TUEEE卻過度謹慎片頭曲](https://zh.wikipedia.org/wiki/這個勇者明明超TUEEE卻過度謹慎 "wikilink")\[14\]。
+  - 10月23日發行第十張單曲「TIT FOR TAT」，為電視動畫[這個勇者明明超TUEEE卻過度謹慎](../Page/這個勇者明明超TUEEE卻過度謹慎.md "wikilink")片頭曲\[14\]。
+
+<!-- end list -->
+
+  - 2020年
+
+<!-- end list -->
+
+  - 3月4日發行第二張專輯「untitled」，收錄所有的動畫歌曲\[15\]，當中收錄曲「Forever Lost」，為劇場版[來自深淵 深沉靈魂的黎明主題曲](../Page/來自深淵_\(漫畫\).md "wikilink")\[16\]。
 
 ## 成員
 
@@ -80,7 +88,7 @@ hotaru負責所有錄音的寫作，同時也在推動樂團的音樂世界觀�
   - 個人Twitter: [Tom Oshima[twitter](https://zh.wikipedia.org/wiki/twitter "wikilink")](https://twitter.com/TomOshima_TH)
   - 音乐制作人，MYTH & ROID的总策划，负责海内外众多歌手、影像音乐的制作。至今所与所参与制作的内容跨越了各种风格席卷了整个业界。
 
-在Tom-H@ck擔任藝人尋找歌手搭檔時觀看了Mayu的LIVE，被Tom-H@ck看中。在與Tom-H@ck初次見面Mayu時由於還是學生的緣故，還穿著學生制服\[15\]。
+在Tom-H@ck擔任藝人尋找歌手搭檔時觀看了Mayu的LIVE，被Tom-H@ck看中。在與Tom-H@ck初次見面Mayu時由於還是學生的緣故，還穿著學生制服\[17\]。
 
 **hotaru**- 作詞（2017年加入）
 
@@ -119,35 +127,35 @@ hotaru負責所有錄音的寫作，同時也在推動樂團的音樂世界觀�
 <td><p>2015年8月26日</p></td>
 <td><p>L.L.L.</p></td>
 <td><p>LACM-14129</p></td>
-<td><p>29[16]位</p></td>
+<td><p>29[18]位</p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
 <td><p>2016年2月24日</p></td>
 <td><p>ANGER/ANGER</p></td>
 <td><p>LACM-14148</p></td>
-<td><p>82[17]位</p></td>
+<td><p>82[19]位</p></td>
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
 <td><p>2016年5月25日</p></td>
 <td><p>STYX HELIX</p></td>
 <td><p>LACM-14173</p></td>
-<td><p>26[18]位</p></td>
+<td><p>26[20]位</p></td>
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
 <td><p>2016年8月24日</p></td>
 <td><p>Paradisus-Paradoxum</p></td>
 <td><p>LACM-14228</p></td>
-<td><p>24[19]位</p></td>
+<td><p>24[21]位</p></td>
 </tr>
 <tr class="even">
 <td><p>5th</p></td>
 <td><p>2017年2月8日</p></td>
 <td><p>JINGO JUNGLE</p></td>
 <td><p>LACM-14279</p></td>
-<td><p>22[20]位</p></td>
+<td><p>22[22]位</p></td>
 </tr>
 <tr class="odd">
 <td><p>KIHOW</p></td>
@@ -162,45 +170,46 @@ hotaru負責所有錄音的寫作，同時也在推動樂團的音樂世界觀�
 <td><p>HYDRA</p></td>
 <td><p>ZMCZ-11853<br />
 ZMCZ-11852（初回限定盤）</p></td>
-<td><p>33[21]位</p></td>
+<td><p>33[23]位</p></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p>2018年7月25日</p></td>
 <td><p>VORACITY</p></td>
 <td><p>ZMCZ-12354</p></td>
-<td><p>47[22]位</p></td>
+<td><p>47[24]位</p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
 <td><p>2019年2月27日</p></td>
 <td><p>shadowgraph</p></td>
 <td><p>ZMCZ-12951</p></td>
-<td><p>40[23]位</p></td>
+<td><p>40[25]位</p></td>
 </tr>
 <tr class="odd">
 <td><p>9th</p></td>
 <td><p>2019年7月24日</p></td>
 <td><p>PANTA RHEI</p></td>
 <td><p>ZMCZ-13171</p></td>
-<td><p>80[24]位</p></td>
+<td><p>80[26]位</p></td>
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
 <td><p>2019年10月23日</p></td>
 <td><p>TIT FOR TAT</p></td>
 <td><p>ZMCZ-13571</p></td>
-<td><p>90[25]位</p></td>
+<td><p>90[27]位</p></td>
 </tr>
 </tbody>
 </table>
 
 ### 專輯
 
-| 枚     | 發售日        | 名稱    | 規格品番       | Oricon週榜最高位 |
-| ----- | ---------- | ----- | ---------- | ----------- |
-| 初回限定盤 | 通常盤        |       |            |             |
-| 1st   | 2017年4月26日 | eYe's | ZMCZ-11076 | ZMCZ-11077  |
+| 枚     | 發售日        | 名稱       | 規格品番       | Oricon週榜最高位 |
+| ----- | ---------- | -------- | ---------- | ----------- |
+| 初回限定盤 | 通常盤        |          |            |             |
+| 1st   | 2017年4月26日 | eYe's    | ZMCZ-11076 | ZMCZ-11077  |
+| 2nd   | 2020年3月4日  | untitled | ZMCZ-13931 | ZMCZ-13932  |
 
 ## 音樂合作
 
@@ -219,7 +228,8 @@ ZMCZ-11852（初回限定盤）</p></td>
 | **Remembrance**              | 劇場版『[幼女戰記](../Page/幼女戰記.md "wikilink")』主題曲                                                                            |       |
 | **PANTA RHEI**               | 電視動畫『[異世界超能魔術師](../Page/異世界超能魔術師.md "wikilink")』片頭曲                                                                   |       |
 | **追想輪迴**                     | [手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")『[永遠的七日之都](https://zh.wikipedia.org/wiki/永遠的七日之都 "wikilink")』主題曲 |       |
-| **TIT FOR TAT**              | 電視動畫『[這個勇者明明超TUEEE卻過度謹慎](https://zh.wikipedia.org/wiki/這個勇者明明超TUEEE卻過度謹慎 "wikilink")』片頭曲                              |       |
+| **TIT FOR TAT**              | 電視動畫『[這個勇者明明超TUEEE卻過度謹慎](../Page/這個勇者明明超TUEEE卻過度謹慎.md "wikilink")』片頭曲                                                 |       |
+| **Forever Lost**             | [電影動畫](https://zh.wikipedia.org/wiki/電影動畫 "wikilink")『[來自深淵 深沉靈魂的黎明](../Page/來自深淵_\(漫畫\).md "wikilink")』主題曲           | 2020年 |
 
 ## 註解
 
@@ -261,3 +271,5 @@ ZMCZ-11852（初回限定盤）</p></td>
 23.
 24.
 25.
+26.
+27.

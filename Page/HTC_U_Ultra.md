@@ -1,5 +1,7 @@
 **HTC U Ultra**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2017年開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，已可透過升級運行 [Android 8.0操作系统](https://zh.wikipedia.org/wiki/Android_8.0 "wikilink")，競爭對手為[Samsung Galaxy S7 edge](../Page/三星Galaxy_S7.md "wikilink")、[LG V20](https://zh.wikipedia.org/wiki/LG_V20 "wikilink")、[Sony Xperia XZ Premium](../Page/Sony_Xperia_XZ_Premium.md "wikilink")。
 
+主機板疑似有瑕疵，正常使用會突然當機，送修只能更換主機板。
+
 ## 簡介
 
   - 新的U系列採用3D水漾玻璃（Liquid）設計，揮別過往的金屬機殼改用的玻璃機身。

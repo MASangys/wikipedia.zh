@@ -1,4 +1,4 @@
-**Sleepy**（，），本名**金成源**（），[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饶舌](../Page/饒舌.md "wikilink")[男歌手及](../Page/歌手.md "wikilink")[嘻哈音樂](../Page/嘻哈音樂.md "wikilink")[团体](../Page/男子音乐组合.md "wikilink")[Untouchable的队长](../Page/Untouchable_\(韓國團體\).md "wikilink")，隶属[TS娛樂](../Page/TS娛樂.md "wikilink")旗下艺人。\[1\]
+**Sleepy**（，），本名**金成源**（），[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饶舌](../Page/饒舌.md "wikilink")[男歌手及](../Page/歌手.md "wikilink")[嘻哈音樂](../Page/嘻哈音樂.md "wikilink")[团体](../Page/男子音乐组合.md "wikilink")[Untouchable的队长](../Page/Untouchable_\(韓國團體\).md "wikilink")，於2008年10月10日簽約加入TS娛樂，曾隶属[TS娛樂](../Page/TS娛樂.md "wikilink")旗下艺人至2019年。現已離開TS娛樂。\[1\]
 
 ## 生平与经历
 
@@ -9,6 +9,12 @@ Sleepy出生在[仁川廣域市](../Page/仁川廣域市.md "wikilink")，并于
 2015年，他出演了[MBC的节目](../Page/文化廣播公司.md "wikilink")《[真正的男人](../Page/真正的男人.md "wikilink")》。\[4\]在节目中他展现了一个永不放弃的弱者形象，这个形象让他获得了“僵尸士兵”的称号，并因此获得了大量的人气。
 
 2015年6月16日，Sleepy与[Secret成员](../Page/Secret_\(組合\).md "wikilink")[宋枝恩](../Page/宋枝恩.md "wikilink")合作发布歌曲《Cool Night》。\[5\]随后于同年10月20日发布了他的首张单曲专辑《F/W》并邀请[白娥娟](../Page/白娥娟.md "wikilink")参与主打曲〈都怪心情〉的配唱，\[6\]自此起他正式开始了他的独唱生涯。2016年4月发布了他的第二张单曲专辑《BODY LOTION》，同名主打曲由制作，并邀请[B.A.P](../Page/B.A.P.md "wikilink")的成员[方容國参与配唱](https://zh.wikipedia.org/wiki/方容國 "wikilink")。\[7\]
+
+Sleepy於2019年4月向首爾法院提出確認公司合約無效的請求，並於五月提出終止專屬合約。Sleepy 當時表示：「公司並未提供任何與付款相關的文件，也從沒給我看過我們合約的實體副本。我對他們的信心由於管理問題等原因已經瓦解。」對此，TS Entertainment 反駁表示有提供文件，也有在約定日期前付款，並指出 Sleepy 看過文件，當時沒有提出任何異議，且公司情況現在已經穩定，管理上也沒有任何問題。
+
+首爾西部地方法院6月份聽取雙方意見後，拒絕了 Sleepy 終止合約的請求；8月29日，此案進行另一次審理，這次，雙方接受法庭調解、同意分道揚鑣。然而，有 TS Entertainment 相關人士表示，公司對 Sleepy 提出侵吞廣告費用等公司款項的質疑，並計畫在九月底、十月初左右提出損害賠償訴訟。
+
+2019年9月23日，韓國傳媒Dispatch報道，Sleepy與TS娛樂於2008年10月10日簽約中，訂明TS娛樂將會抽佣高達9成。活動期間，TS娛樂經常不發薪，加上前經理人偷取收入，Sleepy迫不得已在3年間每月向公司借取110萬韓元（約港幣）以維持生活，並需在收益中扣除有關費用。2016年，Sleepy與TS娛樂續約，公司抽佣比例由9成降至5.5成，但Sleepy在13年來收入僅得1億2000萬韓元（約港幣783,742），平均月薪僅港幣5,000，而TS娛樂亦拖欠Sleepy寓所的水電費和租金，令Sleepy時常被斷水斷電，甚至被房東趕走。
 
 ## 音乐作品
 
@@ -351,18 +357,53 @@ Sleepy出生在[仁川廣域市](../Page/仁川廣域市.md "wikilink")，并于
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>8月27日</p></td>
+<td><p><a href="../Page/我家的熊孩子.md" title="wikilink">我家的熊孩子</a></p></td>
+<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
+<td><p>嘉宾</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>8月20日、8月27日</p></td>
 <td><p><a href="../Page/Fantastic_Duo_2.md" title="wikilink">Fantastic Duo 2</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p>參賽者</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鍵盤上的鬣狗" title="wikilink">鍵盤上的鬣狗</a></p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p>嘉宾与<a href="../Page/Loco.md" title="wikilink">Loco</a>、 一同出演</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>11月19日</p></td>
+<td><p><a href="../Page/我家的熊孩子.md" title="wikilink">我家的熊孩子</a></p></td>
+<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
+<td><p>嘉宾</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018</p></td>
+<td><p>9月16日</p></td>
+<td><p><a href="../Page/我家的熊孩子.md" title="wikilink">我家的熊孩子</a></p></td>
+<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
+<td><p>嘉宾</p></td>
+</tr>
+<tr class="even">
+<td><p>12月20日</p></td>
+<td><p><a href="../Page/不是你所認識的我.md" title="wikilink">不是你所認識的我</a></p></td>
+<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
+<td><p>嘉宾</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p>11月19日</p></td>
+<td><p><a href="../Page/我家的熊孩子.md" title="wikilink">我家的熊孩子</a></p></td>
+<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
+<td><p>嘉宾</p></td>
 </tr>
 </tbody>
 </table>
