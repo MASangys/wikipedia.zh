@@ -2,7 +2,7 @@
 `# 本列表僅在中文維基百科有效，維基媒體計劃共用的列表請見`[`:meta:Spam``   ``blacklist`](https://zh.wikipedia.org/wiki/:meta:Spam_blacklist "wikilink")
 `# Mediawiki軟體的詳細說明請見`[`:mw:Extension:SpamBlacklist`](https://zh.wikipedia.org/wiki/:mw:Extension:SpamBlacklist "wikilink")
 `# 管理员可以通过`[`seth's``   ``tool`](https://tools.wmflabs.org/searchsbl/?userdeflang=zh&userdefproj=w)`在垃圾链接黑名单中搜索匹配项`
-`# 白名單另見`[`MediaWiki:Spam-whitelist`](../Page/MediaWiki:Spam-whitelist.md "wikilink")
+`# 白名單另見`[`MediaWiki:Spam-whitelist`](../MediaWiki/Spam-whitelist.md "wikilink")
 `#  `
 
 ```
