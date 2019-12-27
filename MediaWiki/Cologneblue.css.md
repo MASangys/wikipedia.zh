@@ -1,6 +1,13 @@
-/\* This [CSS](https://zh.wikipedia.org/wiki/Cascading_Style_Sheets "wikilink") is called in addition to [MediaWiki:Common.css](../MediaWiki/Common.css.md "wikilink"). See [Catalogue of CSS classes](https://zh.wikipedia.org/wiki/Wikipedia:Catalogue_of_CSS_classes "wikilink") for full list.
+/\* This [CSS](../Page/Cascading_Style_Sheets.md "wikilink") is called
+in addition to
+[MediaWiki:Common.css](../Page/MediaWiki:Common.css.md "wikilink"). See
+[Catalogue of CSS
+classes](https://zh.wikipedia.org/wiki/Wikipedia:Catalogue_of_CSS_classes "wikilink")
+for full list.
 
-/\* The versions for Monobook are at [MediaWiki:Monobook.css](../MediaWiki/Monobook.css.md "wikilink") and [MediaWiki:Monobook.js](https://zh.wikipedia.org/wiki/MediaWiki:Monobook.js "wikilink")
+/\* The versions for Monobook are at
+[MediaWiki:Monobook.css](../Page/MediaWiki:Monobook.css.md "wikilink")
+and [MediaWiki:Monobook.js](../Page/MediaWiki:Monobook.js.md "wikilink")
 
 /\*
 

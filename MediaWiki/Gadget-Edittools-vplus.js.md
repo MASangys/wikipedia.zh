@@ -41,7 +41,9 @@ customizeToolbar( function() {
 `                       action: {`
 `                           type: 'encapsulate',`
 `                           options: {`
-`                               pre: '\n==参见==\n* `[`',``   ``periMsg:``   ``'参见地址',``   ``post:``   ``'`](https://zh.wikipedia.org/wiki/',_periMsg:_'参见地址',_post:_' "wikilink")`\n'`
+`                               pre: '\n==参见==\n* `[`',``
+ ``periMsg:``   ``'参见地址',``   ``post:``
+ ``'`](../Page/',_periMsg:_'参见地址',_post:_'.md "wikilink")`\n'`
 `                           }`
 `                       }`
 `                   },`
@@ -51,7 +53,7 @@ customizeToolbar( function() {
 `                           type: 'encapsulate',`
 `                           options: {`
 `                               pre: '\n\'\'\'``\'\'\'可以指：\n',`
-`                               periMsg: '* `[`歧义1`](https://zh.wikipedia.org/wiki/歧义1 "wikilink")`，描述1\n* `[`歧义2`](https://zh.wikipedia.org/wiki/歧义2 "wikilink")`，描述2',`
+`                               periMsg: '* `[`歧义1`](../Page/歧义1.md "wikilink")`，描述1\n* `[`歧义2`](../Page/歧义2.md "wikilink")`，描述2',`
 `                               post: '\n{\{disambig}\}'`
 `                           }`
 `                       }`

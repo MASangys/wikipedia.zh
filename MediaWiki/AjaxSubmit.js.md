@@ -1,4 +1,15 @@
-// ajaxSubmit // Submit a form through Ajax. Doesn't handle file uploads yet. // // Parameters: // form DOM element The form to submit // button optional DOM element If set and a submit button of 'form', is added to the // form arguments sent // func optional Function Function to call once the call has been made or the // result has arrived, if want_result == true // want_result optional Boolean If true, call func with the result of the submit once // it has arrived. Otherwise, call func as soon as the // submit request has been received by the server, and // ignore any result of the submit. // // Notes: // Func should be a function (request). If func is not defined, // ajaxSubmit just submits the form and ignores any result. function ajaxSubmit (form, button, func, want_result) {
+// ajaxSubmit // Submit a form through Ajax. Doesn't handle file uploads
+yet. // // Parameters: // form DOM element The form to submit // button
+optional DOM element If set and a submit button of 'form', is added to
+the // form arguments sent // func optional Function Function to call
+once the call has been made or the // result has arrived, if
+want_result == true // want_result optional Boolean If true, call func
+with the result of the submit once // it has arrived. Otherwise, call
+func as soon as the // submit request has been received by the server,
+and // ignore any result of the submit. // // Notes: // Func should be a
+function (request). If func is not defined, // ajaxSubmit just submits
+the form and ignores any result. function ajaxSubmit (form, button,
+func, want_result) {
 
 ` if (want_result && (!func || typeof (func) != 'function' || func.length < 1)) {`
 `   /**** TODO: improve error handling: should throw an exception! */`
@@ -147,7 +158,9 @@
 
 }
 
-// submitAndClose // Submit a form and close the window containing it as soon as the request has been // received by the server // // Parameters: // form DOM element The form to submit. function submitAndClose (form) {
+// submitAndClose // Submit a form and close the window containing it as
+soon as the request has been // received by the server // // Parameters:
+// form DOM element The form to submit. function submitAndClose (form) {
 
 ` ajaxSubmit (form, null, function () { window.close (); });`
 

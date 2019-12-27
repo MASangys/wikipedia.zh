@@ -19,7 +19,8 @@
 `   color: black;`
 `   text-decoration: none;`
 
-} .fundraiser-box a.hidelink small, .fundraiser-box a.hidelink .showlink {
+} .fundraiser-box a.hidelink small, .fundraiser-box a.hidelink .showlink
+{
 
 `   color: #002bb8;`
 

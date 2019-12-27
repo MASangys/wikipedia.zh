@@ -19,7 +19,9 @@ div.Boxmerge, div.NavFrame {
 `       border-style: none;`
 `       border-style: hidden;`
 
-} div.NavFrame + div.NavFrame, div.NavFrame + table.collapsible, table.collapsible + div.NavFrame, table.collapsible + table.collapsible {
+} div.NavFrame + div.NavFrame, div.NavFrame + table.collapsible,
+table.collapsible + div.NavFrame, table.collapsible + table.collapsible
+{
 
 `       border-top-style: none;`
 `       border-top-style: hidden;`

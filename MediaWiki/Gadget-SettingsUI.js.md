@@ -15,9 +15,16 @@
 `* Usage instructions: See "smMembers = {"`
 `*/`
 
-// List the global variables for jsHint-Validation. Please make sure that it passes <http://jshint.com/> // Scheme: globalVariable:allowOverwriting\[, globalVariable:allowOverwriting\]\[, globalVariable:allowOverwriting\] /\*global jQuery:false, mediaWiki:false\*/
+// List the global variables for jsHint-Validation. Please make sure
+that it passes <http://jshint.com/> // Scheme:
+globalVariable:allowOverwriting\[, globalVariable:allowOverwriting\]\[,
+globalVariable:allowOverwriting\] /\*global jQuery:false,
+mediaWiki:false\*/
 
-// Set jsHint-options. You should not set forin or undef to false if your script does not validate. /\*jshint forin:true, noarg:true, noempty:true, eqeqeq:true, bitwise:true, strict:true, undef:true, curly:false, browser:true\*/
+// Set jsHint-options. You should not set forin or undef to false if
+your script does not validate. /\*jshint forin:true, noarg:true,
+noempty:true, eqeqeq:true, bitwise:true, strict:true, undef:true,
+curly:false, browser:true\*/
 
 ( function ( $, mw, undefined ) { 'use strict';
 
@@ -45,7 +52,8 @@ mw.messages.set({
 
 });
 
-var smMembers, smPrivate, nOEvents = 'input.numbersOnly keyup.numbersOnly';
+var smMembers, smPrivate, nOEvents = 'input.numbersOnly
+keyup.numbersOnly';
 
 $('.numbersOnly').off(nOEvents).live(nOEvents, function () {
 
@@ -172,7 +180,8 @@ function SUI(settings, tool, saveoptions, title, intro) {
 `       });`
 `       $('`
 
-').attr('class', 'sui-intro').text(sui.intro || sui._msg('intro')).appendTo($dlg);
+').attr('class', 'sui-intro').text(sui.intro ||
+sui._msg('intro')).appendTo($dlg);
 
 `       $dlg.$c = $('`
 

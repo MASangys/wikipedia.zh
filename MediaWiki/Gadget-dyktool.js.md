@@ -1,7 +1,7 @@
 /\*\*
 
 `* DYK Tool`
-`* Developer & maintainer: `[`User:PhiLiP`](https://zh.wikipedia.org/wiki/User:PhiLiP "wikilink")
+`* Developer & maintainer: `[`User:PhiLiP`](../Page/User:PhiLiP.md "wikilink")
 `*/`
 
 jQuery( document ).ready( function() {

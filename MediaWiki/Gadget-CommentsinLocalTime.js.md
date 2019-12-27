@@ -1,4 +1,7 @@
-//Gary King, "User:Gary King/comments in local time.js," Wikipedia, The Free Encyclopedia, <http://en.wikipedia.org/w/index.php?title=User:Gary_King/comments_in_local_time.js&oldid=281324481> (accessed May 28, 2009).
+//Gary King, "User:Gary King/comments in local time.js," Wikipedia, The
+Free Encyclopedia,
+<http://en.wikipedia.org/w/index.php?title=User:Gary_King/comments_in_local_time.js&oldid=281324481>
+(accessed May 28, 2009).
 
 CommentsInLocalTime = (function() {
 
@@ -61,7 +64,8 @@ function add_leading_zero(number) {
 
 }
 
-function adjust_time(original_timestamp, old_year, old_month, old_day, old_hour, old_minute, offset) {
+function adjust_time(original_timestamp, old_year, old_month,
+old_day, old_hour, old_minute, offset) {
 
 `   var today = new Date(), yesterday = new Date(), tomorrow = new Date();`
 `   yesterday.setDate(yesterday.getDate() - 1);`

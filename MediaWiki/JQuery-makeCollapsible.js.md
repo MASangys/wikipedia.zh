@@ -1,4 +1,8 @@
-// Documentation/Examples: [mw:RL/DM\#jQuery.makeCollapsible](https://zh.wikipedia.org/wiki/mw:RL/DM#jQuery.makeCollapsible "wikilink") /\* <http://svn.wikimedia.org/viewvc/mediawiki/trunk/phase3/resources/jquery/jquery.makeCollapsible.js?view=markup&pathrev=83309> \*/
+// Documentation/Examples:
+[mw:RL/DM\#jQuery.makeCollapsible](https://zh.wikipedia.org/wiki/mw:RL/DM#jQuery.makeCollapsible "wikilink")
+/\*
+<http://svn.wikimedia.org/viewvc/mediawiki/trunk/phase3/resources/jquery/jquery.makeCollapsible.js?view=markup&pathrev=83309>
+\*/
 
 /\*\*
 
@@ -355,7 +359,11 @@ etc.
 
 }; } )( jQuery, mediaWiki );
 
-// Remove when deployed // <http://translatewiki.net/wiki/MediaWiki:Collapsible-collapse/en> // <http://translatewiki.net/wiki/MediaWiki:Collapsible-expand/en> mw.messages.set({"collapsible-collapse":"折叠","collapsible-expand":"展开"}); $(document).ready(function(){
+// Remove when deployed //
+<http://translatewiki.net/wiki/MediaWiki:Collapsible-collapse/en> //
+<http://translatewiki.net/wiki/MediaWiki:Collapsible-expand/en>
+mw.messages.set({"collapsible-collapse":"折叠","collapsible-expand":"展开"});
+$(document).ready(function(){
 
 `$('.mw-collapsible').makeCollapsible();`
 

@@ -71,7 +71,8 @@
 
 }
 
-.skin-modern \#mw_contentwrapper div.portlet div.pbody ul li.selected a {
+.skin-modern \#mw_contentwrapper div.portlet div.pbody ul li.selected a
+{
 
 `   text-decoration: none;`
 

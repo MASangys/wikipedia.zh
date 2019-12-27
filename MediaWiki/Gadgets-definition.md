@@ -1,4 +1,6 @@
-[Special:Gadgets](https://zh.wikipedia.org/wiki/Special:Gadgets "wikilink") [Special:GadgetUsage](https://zh.wikipedia.org/wiki/Special:GadgetUsage "wikilink") [Special:参数设置\#mw-prefsection-gadgets](https://zh.wikipedia.org/wiki/Special:参数设置#mw-prefsection-gadgets "wikilink")
+[Special:Gadgets](../Page/Special:Gadgets.md "wikilink")
+[Special:GadgetUsage](../Page/Special:GadgetUsage.md "wikilink")
+[Special:参数设置\#mw-prefsection-gadgets](../Page/Special:参数设置#mw-prefsection-gadgets.md "wikilink")
 
 <div style='font-family:monospace; word-break:break-all;'>
 
@@ -17,9 +19,9 @@
   - ToolsRedirect-opt-bolds\[ResourceLoader|dependencies=ext.gadget.ToolsRedirect|rights=edit\]|ToolsRedirect-opt-bolds.js
   - ToolsRedirect-bio-latin-names\[ResourceLoader|dependencies=ext.gadget.ToolsRedirect|rights=edit\]|ToolsRedirect-bio-latin-names.js
   - ToolsRedirect-courtesy-and-art-names\[ResourceLoader|dependencies=ext.gadget.ToolsRedirect|rights=edit\]|ToolsRedirect-courtesy-and-art-names.js
-  - Wordcount\[ResourceLoader\]|Wordcount.js
-  - fixlinkstyle\[ResourceLoader|dependencies=mediawiki.util,jquery.ui\]|fixlinkstyle.js
-  - dykc-nomination\[ResourceLoader|dependencies=mediawiki.util,jquery.ui|rights=autoconfirmed\]|dykc-nomination.js
+  - Wordcount\[ResourceLoader|dependencies=ext.gadget.Wordcount\]|Wordcount.js
+  - fixlinkstyle\[ResourceLoader|dependencies=mediawiki.util,jquery.ui.dialog\]|fixlinkstyle.js
+  - dykc-nomination\[ResourceLoader|dependencies=mediawiki.util,jquery.ui.dialog|rights=autoconfirmed\]|dykc-nomination.js
   - WikidataDesc\[ResourceLoader\]|WikidataDesc.js
   - link-ts\[ResourceLoader\]|link-ts.js
   - easy-archive\[ResourceLoader\]|easy-archive.js
@@ -31,26 +33,25 @@
   - Edittools-vplus\[ResourceLoader|dependencies=ext.gadget.site-lib,ext.gadget.Edittools-vector\]|Edittools-vplus.js
   - Edittools-vote\[ResourceLoader|dependencies=ext.gadget.Edittools-vector\]|Edittools-vote.js
   - Edittools-delh\[ResourceLoader|dependencies=ext.gadget.site-lib,ext.gadget.Edittools-vector|rights=autoconfirmed\]|Edittools-delh.js
-  - Edittools-refToolbar\[ResourceLoader|dependencies=ext.gadget.site-lib,user.options|default\]|refToolbar.js
+  - Edittools-refToolbar\[ResourceLoader|dependencies=user.options,mediawiki.legacy.wikibits|default\]|refToolbar.js
 
 ## browser
 
   - Navigation_popups\[ResourceLoader|dependencies=ext.gadget.site-lib|type=general\]|popups.js|popups.css
-  - removeAccessKeys\[ResourceLoader|dependencies=mediawiki.util\]|removeAccessKeys.js
+  - removeAccessKeys\[ResourceLoader|dependencies=jquery.accessKeyLabel\]|removeAccessKeys.js
   - UTCLiveClock\[ResourceLoader\]|UTCLiveClock.js
   - contribsrange\[ResourceLoader|dependencies=mediawiki.util,jquery.spinner,ext.gadget.site-lib\]|contribsrange.js
   - shareTool\[ResourceLoader|dependencies=ext.gadget.site-lib\]|shareTool.js|shareTool.css
   - WikiMiniAtlas\[ResourceLoader|default\]|WikiMiniAtlas.js
   - fullwidth-search-fix\[ResourceLoader|dependencies=mediawiki.util|top\]|fullwidth-search-fix.js
   - ExternalLinkNewWin\[ResourceLoader\]|ExternalLinkNewWin.js
-  - ReferenceTooltips\[ResourceLoader|dependencies=mediawiki.util,ext.gadget.site-lib|default|type=general\]|ReferenceTooltips.js|ReferenceTooltips.css
+  - ReferenceTooltips\[ResourceLoader|dependencies=mediawiki.util|default|type=general\]|ReferenceTooltips.js|ReferenceTooltips.css
   - UnihanTooltips\[ResourceLoader|dependencies=ext.gadget.site-lib,jquery.cookie|default|type=general\]|UnihanTooltips.js|UnihanTooltips.css
   - webfont\[ResourceLoader|targets=desktop,mobile\] |webfont.js
   - variant-link-fix\[ResourceLoader|dependencies=mediawiki.Uri|default|top\]|variant-link-fix.js
   - OSMMap\[ResourceLoader|dependencies=ext.gadget.site-lib,ext.gadget.MoveResizeAbsolute|type=general\]|OSMMap.js|OSMMap.css
-  - FixedTopBottomLink\[ResourceLoader|dependencies=ext.gadget.site-lib,jquery.cookie,jquery.ui|default|type=general\]|FixedTopBottomLinkLeftSide.js|FixedTopBottomLinkLeftSide.css
+  - FixedTopBottomLink\[ResourceLoader|dependencies=ext.gadget.site-lib,jquery.cookie,jquery.ui.dialog|default|type=general\]|FixedTopBottomLinkLeftSide.js|FixedTopBottomLinkLeftSide.css
   - confirm-logout\[ResourceLoader\]|confirm-logout.js
-  - shortURL\[ResourceLoader|dependencies=ext.gadget.site-lib,mediawiki.util,oojs-ui-windows,mediawiki.widgets,mediawiki.ForeignApi|default|type=general\]|shortURL.js
 
 ## appear
 
@@ -82,7 +83,7 @@
   - internalLinkHelper-cravix\[ResourceLoader|dependencies=mediawiki.util,ext.gadget.site-lib\]|internalLinkHelper-cravix.css|internalLinkHelper-cravix.js
   - internalLinkHelper-altcolor\[ResourceLoader|dependencies=mediawiki.util,jquery.tipsy,ext.gadget.site-lib|default|type=general\]|internalLinkHelper-redonly.css|internalLinkHelper-redtipsy.css|internalLinkHelper-altcolor.css|internalLinkHelper-redtipsy.js
   - internalLinkHelper-ilbluehl\[ResourceLoader|dependencies=mediawiki.util,jquery.tipsy,ext.gadget.site-lib|type=general\]|internalLinkHelper-redonly.css|internalLinkHelper-redtipsy.css|internalLinkHelper-altcolor.css|internalLinkHelper-ilbluehl.css|internalLinkHelper-redtipsy.js
-  - noteTA\[ResourceLoader|dependencies=jquery.ui,mediawiki.api,ext.gadget.site-lib,jquery.makeCollapsible|default|type=general\]|noteTA.js|noteTA.css
+  - noteTA\[ResourceLoader|dependencies=jquery.ui.dialog,mediawiki.api,ext.gadget.site-lib,jquery.makeCollapsible|default|type=general\]|noteTA.js|noteTA.css
   - noteTAvector\[ResourceLoader|dependencies=site,ext.gadget.site-lib|skins=vector|default|type=general\]|noteTAvector.js|noteTAvector.css
   - NavFrame\[ResourceLoader|dependencies=ext.gadget.site-lib|default|type=general\]|NavFrame.js|NavFrame.css
   - collapsibleTables\[ResourceLoader|dependencies=ext.gadget.site-lib|default\]|collapsibleTables.js
@@ -98,9 +99,9 @@
 
 ## sysop
 
-  - Twinkle\[ResourceLoader|dependencies=mediawiki.user,mediawiki.util,mediawiki.notify,jquery.ui,jquery.tipsy,moment|rights=autoconfirmed|type=general|peers=Twinkle-pagestyles\]|morebits.js|morebits.css|Twinkle.js|friendlytag.js|friendlytalkback.js|twinklearv.js|twinklebatchdelete.js|twinklebatchundelete.js|twinkleblock.js|twinkleclose.js|twinkleconfig.js|twinklecopyvio.js|twinkledelimages.js|twinklediff.js|twinklefluff.js|twinkleimage.js|twinkleprotect.js|twinklespeedy.js|twinkleunlink.js|twinklewarn.js|twinklexfd.js|Twinkle.css
+  - Twinkle\[ResourceLoader|dependencies=mediawiki.user,mediawiki.util,mediawiki.RegExp,mediawiki.notify,jquery.ui.dialog,jquery.tipsy,moment|rights=autoconfirmed|type=general|peers=Twinkle-pagestyles\]|morebits.js|morebits.css|Twinkle.js|friendlytag.js|friendlytalkback.js|twinklearv.js|twinklebatchdelete.js|twinklebatchundelete.js|twinkleblock.js|twinkleclose.js|twinkleconfig.js|twinklecopyvio.js|twinkledelimages.js|twinklediff.js|twinklefluff.js|twinkleimage.js|twinkleprotect.js|twinklespeedy.js|twinkleunlink.js|twinklewarn.js|twinklexfd.js|Twinkle.css
   - Twinkle-pagestyles\[hidden|skins=vector\]|Twinkle-pagestyles.css
-  - PatrollCount\[ResourceLoader|rights=patrol|dependencies=ext.gadget.site-lib\]|PatrollCount.js
+  - PatrollCount\[ResourceLoader|rights=patrol\]|PatrollCount.js
   - rollback-summary\[ResourceLoader|rights=rollback\]|rollback-summary.js
   - CleanDeleteReasons\[ResourceLoader|rights=delete|targets=desktop,mobile|default\]|CleanDeleteReasons.js
   - dyktool\[ResourceLoader|dependencies=ext.gadget.site-lib|rights=delete\]|dyktool.js
@@ -108,11 +109,13 @@
 ## compatibility
 
   - JSL\[ResourceLoader\]|JSL.js
-  - SettingsUI\[ResourceLoader|dependencies=jquery.ui,mediawiki.user,ext.gadget.libJQuery|rights=hidden|hidden\]|SettingsUI.js
-  - SettingsManager \[ResourceLoader|dependencies=mediawiki.user,user.options,user.tokens,mediawiki.api|rights=hidden|hidden\]|SettingsManager.js
-  - libJQuery \[ResourceLoader|rights=hidden|hidden\]|libJQuery.js|libJQuery.css
+  - SettingsUI\[ResourceLoader|dependencies=jquery.ui.dialog,jquery.ui.slider,jquery.ui.button,mediawiki.user,ext.gadget.libJQuery|rights=hidden|hidden\]|SettingsUI.js
+  - SettingsManager
+    \[ResourceLoader|dependencies=mediawiki.user,user.options,user.tokens,mediawiki.api|rights=hidden|hidden\]|SettingsManager.js
+  - libJQuery
+    \[ResourceLoader|rights=hidden|hidden\]|libJQuery.js|libJQuery.css
   - css3-mediaqueries-js\[ResourceLoader|rights=hidden|hidden\]|css3-mediaqueries.js
-  - site-lib\[ResourceLoader|dependencies=mediawiki.util|rights=hidden|hidden|targets=desktop,mobile\]|site-lib.js
+  - site-lib\[ResourceLoader|dependencies=mediawiki.legacy.wikibits,mediawiki.util|rights=hidden|hidden|targets=desktop,mobile\]|site-lib.js
   - MoveResizeAbsolute\[ResourceLoader|rights=hidden|hidden\]|MoveResizeAbsolute.js
 
 ## mainpage

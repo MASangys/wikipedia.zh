@@ -1,6 +1,8 @@
-/\* Der Grossteil der Codes befindet sich in [MediaWiki:Common.js](../MediaWiki/Common.js.md "wikilink") \*/
+/\* Der Grossteil der Codes befindet sich in
+[MediaWiki:Common.js](../Page/MediaWiki:Common.js.md "wikilink") \*/
 
-//================================================================================ //\*\*\* moveEditsection: Moving of the editsection links
+//================================================================================
+//\*\*\* moveEditsection: Moving of the editsection links
 
 /\*
 
@@ -11,7 +13,7 @@
 `* directly right next to the corresponding headings.`
 `*`
 `* Zum Abschalten die folgende Zeile (ohne führendes Sternchen) in die eigene`
-`* monobook.js (zu finden unter `[`Benutzer:Name/monobook.js`](https://zh.wikipedia.org/wiki/Special:Mypage/monobook.js "wikilink")`) kopieren:`
+`* monobook.js (zu finden unter `[`Benutzer:Name/monobook.js`](../Page/Special:Mypage/monobook.js.md "wikilink")`) kopieren:`
 `* var oldEditsectionLinks = true;`
 `*`
 `* dbenzhuser (de:Benutzer:Dbenzhuser)`

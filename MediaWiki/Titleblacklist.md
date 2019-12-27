@@ -1,10 +1,10 @@
 `# -{}-本页面为“标题黑名单”`
-`# 任何匹配本名单`[`正则表达式`](../Page/正则表达式.md "wikilink")的标题会被阻止建立和编辑`。`
+`# 任何匹配本名单`[`正则表达式的标题会被阻止建立和编辑`](../Page/正则表达式.md "wikilink")`。`
 `# 本页面用来添加有共性的某一类要被阻止的标题，如果一个很明确的标题要被阻止，请直接在该标题的页面内用保护页面的方式进行。`
 `# 請使用「< >」添加屬性，並將屬性寫在括號內（見下面屬性解釋）。如果含有多個屬性，請用「|」分隔。`
 `# 请使用“#”来添加注释。如果項目設有屬性，注意必須寫在屬性的後面。`
-`# 詳細說明請見`[`:mw:Extension:Title_Blacklist`](https://zh.wikipedia.org/wiki/:mw:Extension:Title_Blacklist "wikilink")`。`
-`# 另有白名單`[`MediaWiki:Titlewhitelist來避免過度封鎖`](https://zh.wikipedia.org/wiki/MediaWiki:Titlewhitelist "wikilink")`。`
+`# 詳細說明請見`[`:mw:Extension:Title_Blacklist`](../Page/:mw:Extension:Title_Blacklist.md "wikilink")`。`
+`# 另有白名單`[`MediaWiki:Titlewhitelist來避免過度封鎖`](../Page/MediaWiki:Titlewhitelist.md "wikilink")`。`
 `# 若為暫時禁止，請務必列明屆滿日期。`
 
 `# -{}-屬性解釋`
@@ -13,26 +13,18 @@
 `# noedit - 用戶亦會被禁止編輯該條目`
 `# moveonly - 禁止移動但允許平常創建`
 `# reupload - 允許再上載現存於黑名單中的圖片`
-`# errmsg - 於此列出自定訊息名稱，以取代標準訊息並展示自訂訊息，已建立訊息請參閱`[`Special:前缀索引/MediaWiki:Titleblacklist`](https://zh.wikipedia.org/wiki/Special:前缀索引/MediaWiki:Titleblacklist "wikilink")
-`# 請注意 newaccountonly 在本地不再有效，請加入至`[`Special:滥用过滤器/194`](https://zh.wikipedia.org/wiki/Special:滥用过滤器/194 "wikilink")
+`# errmsg - 於此列出自定訊息名稱，以取代標準訊息並展示自訂訊息`
+`# 請注意 newaccountonly 在本地不再有效，請加入至`[`Special:滥用过滤器/194`](../Page/Special:滥用过滤器/194.md "wikilink")
 
 `#未整理`
-`\d+ <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
-`.*春池玻璃.* <autoconfirmed|errmsg=Titleblacklist-semiprotected>`
-`^[^:]*((\d{1,3}\.){3}\d{1,3}|([0-9a-f]{1,4}:){7}[0-9a-f]{1,4}).* <autoconfirmed|errmsg=Titleblacklist-semiprotected>`
-`.*(國瑜|換瑜).* <autoconfirmed|errmsg=Titleblacklist-semiprotected> # 破壞`
-`.*王[則则]翠慈善基金.* <autoconfirmed|errmsg=Titleblacklist-semiprotected> # 持续绕过存废讨论删除决定`
-`.*邱士縉.* <errmsg=Titleblacklist-fullprotected> # 持續繞過存廢討論刪除決定`
-`^[\d-]+$ <autoconfirmed|errmsg=Titleblacklist-semiprotected> # X43破壞和韓文廣告或無意義內容破壞`
-`^[^:]*沙盒.*$ `<autoconfirmed>
-`.*水.*玲.* <autoconfirmed|errmsg=Titleblacklist-semiprotected> # 破壞`
-`.*衝上雲霄.* <autoconfirmed|errmsg=Titleblacklist-semiprotected> # 破壞`
-`.*TXO.* <autoconfirmed|errmsg=Titleblacklist-semiprotected> # 持續繞過存廢討論刪除決定`
-`.*[颛顓].*[儒如] <noedit|errmsg=Titleblacklist-semiprotected> #长期加入错误资讯`
+`.*水.*玲.* `<autoconfirmed>` # 破壞`
+`.*衝上雲霄.* `<autoconfirmed>` # 破壞`
+`.*TXO.* `<autoconfirmed>` # 持續繞過存廢討論刪除決定`
+`.*[颛顓].*[儒如] `<noedit>` #长期加入错误资讯`
 `.*法國.*臺灣.* `<autoconfirmed>` #动态IP创建不当页面`
 `.*陳雲林.* `<autoconfirmed>` #动态IP创建不当页面`
 `.*臭屄.* `<autoconfirmed>` #IP长期创建攻击性重定向`
-`.*([台檯飓颱][风風]|[热熱][带帶][风風]暴).* <autoconfirmed|errmsg=Titleblacklist-semiprotected> # RFPP oldid=36572154 长期破坏`
+`.*([台檯飓颱][风風]|[热熱][带帶][风風]暴).* `<autoconfirmed>` # RFPP oldid=36572154 长期破坏`
 `.*考试.*答案.* `<autoconfirmed>
 `.*航.*电子客票行程单.* `<autoconfirmed>
 `.*去哪儿网.* `<autoconfirmed>
@@ -42,11 +34,11 @@
 `.*[滙匯]八坊.*`
 `.*[\d０-９零一二三四五六七八九年].*兄.*弟.*象.* #防止多次重複建立`
 `.*智慧台[湾灣].*`
-`.*[宝寶]福[凯凱].* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected> `
-`.*理.*想.*[语語].* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
-`.*[双雙].*合.*推.*[导導].* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
-`User:WhitePhosphorus-bot\/(misc|message|controls).* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
-`User:Liangent-bot\/message\/.* <noedit|errmsg=Titleblacklist-fullprotected>`
+`.*[宝寶]福[凯凱].* <autoconfirmed|noedit> `
+`.*理.*想.*[语語].* <autoconfirmed|noedit>`
+`.*[双雙].*合.*推.*[导導].* <autoconfirmed|noedit>`
+`User:WhitePhosphorus-bot\/(misc|message|controls).* <autoconfirmed|noedit>`
+`User:Liangent-bot\/message\/.* `<noedit>
 `.*Ashen.* `<autoconfirmed>
 `.*97051253.* `<autoconfirmed>
 `.*洪.*任.*諭.* `<autoconfirmed>`#違反生者傳記的傀儡破壞`
@@ -55,7 +47,7 @@
 `.*(2012|2013|2014).*([空海].*[姐哥乘]|报名|应聘|招生|分数线).* `<autoconfirmed>
 `(?!Draft:).*梅州市.* <autoconfirmed|Titleblacklist-custom-draft> #有IP用户多次创建含有此名称的不当页面`
 `(?!Draft:).*梅县区.* <autoconfirmed|Titleblacklist-custom-draft> #有IP用户多次创建含有此名称的不当页面`
-`User( talk)?:Liangent\/.* <noedit|errmsg=Titleblacklist-fullprotected> # Targeting Jimmy-bot`
+`User( talk)?:Liangent\/.* `<noedit>` # Targeting Jimmy-bot`
 `.*[点點]炮.* `<autoconfirmed>
 `.*神.*抄.* `<autoconfirmed>
 `.*之.*塔.* `<autoconfirmed>
@@ -95,7 +87,7 @@
 
 `#博彩广告`
 `.*老虎[机機].*`
-`.*百家[乐樂].* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
+`.*百家[乐樂].* <autoconfirmed|noedit>`
 `.*投.*注.* `<autoconfirmed>
 `.*博.*彩.* `<autoconfirmed>
 `.*彩.*票.* `<autoconfirmed>
@@ -105,7 +97,7 @@
 `#医药广告`
 `.*[医社].*保.* `<autoconfirmed>
 `.*[腎肾].* `<autoconfirmed>
-`.*癌.* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
+`.*癌.* <autoconfirmed|noedit>`
 `.*心.*脏.*病.* `<autoconfirmed>
 `.*治.*疗.* `<autoconfirmed>
 `.*男.*[科性].* `<autoconfirmed>
@@ -161,6 +153,7 @@
 `.*丝.*袜.* `<autoconfirmed>
 `.*旧.*房.* `<autoconfirmed>
 `.*二.*手.*[房车].* `<autoconfirmed>
+`.*[动動]漫.* `<autoconfirmed>
 `.*免.*费.*上.*网.* `<autoconfirmed>
 `.*水.*电.*改.*造.* `<autoconfirmed>
 `.*回.*收.*利.*用.* `<autoconfirmed>
@@ -311,7 +304,7 @@
 `.*目[標标][頁页]名[称稱].*`
 `.*按.*此.*`
 `.*正在[編编][輯辑].*`
-`.*[．‧•･・].* <errmsg=titleblacklist-middot> #不正确的間隔號，见`[`帮助:间隔号`](https://zh.wikipedia.org/wiki/帮助:间隔号 "wikilink")
+`.*[．‧•･・].* <errmsg=titleblacklist-middot> #不正确的間隔號，见`[`帮助:间隔号`](../Page/帮助:间隔号.md "wikilink")
 `^[^ \f\n\r\t\v\:]+?`\([^IVX]+\)`$ <errmsg= titleblacklist-disambig-space> #避免消歧義空格錯誤。請使用“條目名 (消歧義項)”的格式，詳見`[`相關方針`](https://zh.wikipedia.org/wiki/Wikipedia:命名常规#括号的使用 "wikilink")
 `=.+= #最近被人创建的一些错误标题`
 `模版[:：].* # 錯字，應為模板`
@@ -329,31 +322,28 @@
 
 `#模板`
 `Template:.*主[题題]名[称稱].*`
-`Template:Editnotices\/.* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
-`Template\:(?:Efn|Notelist)(?!\/doc$|\/Sandbox$|\/沙盒$).* <noedit|errmsg=Titleblacklist-fullprotected> #高風險模板系列`
-`Template:Editnotices\/Namespace\/((?!doc$|Sandbox$|沙盒$).)* <noedit|errmsg=Titleblacklist-fullprotected> #高風險模板系列`
+`Template:Editnotices\/.* <autoconfirmed|noedit>`
+`Template\:(?:Efn|Notelist)(?!\/doc$|\/Sandbox$|\/沙盒$).* `<noedit>` #高風險模板系列`
 
 `#項目頁面`
 `Wikipedia:.* `<autoconfirmed>` #祇允許自動確認用戶創建計畫頁面`
 `Help:.* `<autoconfirmed>
-`模块:.*(?<!\/doc|\/sandbox|\/沙盒) <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected> #防止破壞`
+`模块:.*(?<!\/doc|\/sandbox|\/沙盒) <autoconfirmed|noedit> #防止破壞`
 `Wikipedia:繁簡體轉換請求\/.* #只允许简体页面`
 `Wikipedia( talk)?:Guestbook for non-Chinese-speakers\/Archives\/w\/index\.php`
 `Wikipedia( talk)?:Guestbook for non-Chinese-speakers\/w\/w\/index\.php`
 `Wikipedia( talk)?:[刪删]除投票.*`
 `Wikipedia( talk)?:(页面|图像|档案|文件)存废讨论.* #请使用繁体`
 `Wikipedia( talk)?:(頁面|圖像|檔案|文件)存廢討論.* #祇允許建立特定日期格式`
-`Wikipedia( talk)?:.*[維维].*基.*[獎奖奬].*[勵励].*\/.*授.*[獎奖奬].*提.*名.*投.*票.*\/.*([見见].*[習习]|助.*理|[執执].*行|[資资].*深).* #請到`[`WP:AH申請`](https://zh.wikipedia.org/wiki/WP:AH "wikilink")
+`Wikipedia( talk)?:.*[維维].*基.*[獎奖奬].*[勵励].*\/.*授.*[獎奖奬].*提.*名.*投.*票.*\/.*([見见].*[習习]|助.*理|[執执].*行|[資资].*深).* #請到`[`WP:AH申請`](../Page/WP:AH.md "wikilink")
 `Wikipedia( talk)?:.*[維维].*基.*[獎奖奬].*[勵励].*\/.*授.*[獎奖奬].*提.*名.*投.*票.* `<autoconfirmed>` #祇允許維基助理編輯提出`
-`Wikipedia:建立條目精靈\/.* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
+`Wikipedia:建立條目精靈\/.* <autoconfirmed|noedit>`
 `Wikipedia:典範條目\/.* #請使用簡體 Wikipedia:典范条目`
 `Wikipedia:優良條目\/.* #請使用簡體 Wikipedia:优良条目`
-`Wikipedia:持续出没的破坏者.* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
-`Wikipedia:条目请求\/.* <autoconfirmed|noedit> # 未註冊使用者（IP使用者）或非自動確認用戶不得放置請求`
 
 `# prevent redundant namespace prefix during page move`
 `.*Special talk:.*`
-`(talk|Wikipedia|维基百科|維基百科|‏‎WP|Help|帮助|User|用户|Category|Cat|分类|分類|File|Image|文件|MediaWiki|Template|模板|Portal|Module|模块|模組|Draft|草稿)[：;].* <errmsg=titleblacklist-namespace-colon>`
+`(talk|Wikipedia|维基百科|維基百科|‏‎WP|Help|帮助|User|用户|Category|Cat|分类|分類|File|Image|文件|MediaWiki|Template|模板|Portal|Module|模块|模組|Draft|草稿)：.*`
 `(Wikipedia|维基百科|維基百科|‏‎WP):(Wikipedia|维基百科|維基百科|‏‎WP):.* <errmsg=titleblacklist-redundant-namespace>`
 `(Template|模板):(Template|模板):.* <errmsg=titleblacklist-redundant-namespace>`
 `(User|用户):(User|用户):.* <errmsg=titleblacklist-redundant-namespace>`
@@ -531,7 +521,9 @@
 `.*kzm\.pas.*  #used to create malicious user talk subpages`
 `.*zilog\s*head.* `<autoconfirmed>` # Prolific sock GEORGIEGIBBONS`
 `.*on\s*wheels.*edition.* `<autoconfirmed>
-`.*shakur green.* #Recreation under different titles; see `[`Wikipedia:Articles``   ``for``   ``deletion/Shakur``   ``Green`](https://zh.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Shakur_Green "wikilink")
+`.*shakur green.* #Recreation under different titles; see `[`Wikipedia:Articles``
+ ``for``   ``deletion/Shakur``
+ ``Green`](https://zh.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Shakur_Green "wikilink")
 `.* shitt?ing in .*'?s? mouth #A specific page which needs to be SALTed and redacted`
 `.* fucking bastard.* #A specific page which needs to be SALTed and redacted`
 `.* first male to female transsexuall #A specific page which needs to be SALTed and redacted`
@@ -555,14 +547,14 @@
 `.{3,}(特别版|翻版) `<autoconfirmed>
 `.*[蔴麻]雀.* `<autoconfirmed>
 
-`#`[`User:影武者`](https://zh.wikipedia.org/wiki/User:影武者 "wikilink")
+`#`[`User:影武者`](../Page/User:影武者.md "wikilink")
 `#注意：请同时更新71#过滤器`
 `.*User( talk)?:.*(Kegns|Lanwi1|T.A Shirakawa).*\/.*(林浩生|阮文雄).* `<autoconfirmed>
-`.*阮.*文.*雄.* `<autoconfirmed>` #影武者破坏，禁止创建`[`阮文雄以外的任何条目`](https://zh.wikipedia.org/wiki/阮文雄 "wikilink")
+`.*阮.*文.*雄.* `<autoconfirmed>` #影武者破坏，禁止创建`[`阮文雄以外的任何条目`](../Page/阮文雄.md "wikilink")
 
-`#`[`User:十字军大屠杀`](https://zh.wikipedia.org/wiki/User:十字军大屠杀 "wikilink")
+`#`[`User:十字军大屠杀`](../Page/User:十字军大屠杀.md "wikilink")
 
-`#`[`:ja:WP:MACHINE`](https://zh.wikipedia.org/wiki/:ja:WP:MACHINE "wikilink")
+`#`[`:ja:WP:MACHINE`](../Page/:ja:WP:MACHINE.md "wikilink")
 
 `# 长期出没的破坏者`
 `.*朱.*(明|日月).* `<autoconfirmed>
@@ -578,12 +570,12 @@
 `.*(H|C)at.*(\d{3}).* `<autoconfirmed>
 `.*(Mak|ake).*(ca|at).* `<autoconfirmed>
 `.*Ji(m|nn)(m|nn)y.*xu.*wrk.* `<autoconfirmed>
-`Template:DC11.* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
+`Template:DC11.* <autoconfirmed|noedit>`
 `# Prevent users from creating pages with bad names after searching`
 `# <errmsg=titleblacklist-forbidden-prefix>`
 `.+ prefix:.*`
 
-`# `[`User:萬聖至尊`](https://zh.wikipedia.org/wiki/User:萬聖至尊 "wikilink")
+`# `[`User:萬聖至尊`](../Page/User:萬聖至尊.md "wikilink")
 `.*User( talk)?:.*涉毒.* `<autoconfirmed>
 
 `# Appleeeeeeeeeeeeeee`

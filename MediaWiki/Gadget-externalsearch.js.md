@@ -1,15 +1,16 @@
 /\*
 
-## [Special:Search其他搜尋引擎連結表單](https://zh.wikipedia.org/wiki/Special:Search "wikilink")
+## [Special:Search其他搜尋引擎連結表單](../Page/Special:Search.md "wikilink")
 
   - /
 
-/\*\* Change Special:Search to use a drop-down menu \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+/\*\* Change Special:Search to use a drop-down menu
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 ` *`
 ` *  Description: Change Special:Search to use a drop-down menu, with the default being`
 ` *               the internal MediaWiki engine`
-` *  Created and maintained by: `[`en:User:Gracenotes`](https://zh.wikipedia.org/wiki/en:User:Gracenotes "wikilink")
+` *  Created and maintained by: `[`en:User:Gracenotes`](../Page/en:User:Gracenotes.md "wikilink")
 ` */`
 
 function SpecialSearchEnhanced() {
@@ -63,7 +64,8 @@ function SpecialSearchEnhanced() {
 
 window.searchEngines = \[\];
 
-// Script is specific to Special:Search if ( mw.config.get( 'wgCanonicalSpecialPageName' ) === 'Search'){
+// Script is specific to Special:Search if ( mw.config.get(
+'wgCanonicalSpecialPageName' ) === 'Search'){
 
 ` $(SpecialSearchEnhanced);`
 

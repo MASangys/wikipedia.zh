@@ -15,6 +15,7 @@
 `       title_instapaper: 'Instapaper',`
 `       title_readitlaterlist: 'Read It Later',`
 `       title_qrcode: 'QR码',`
+`       title_googleplus: 'Google +1',`
 `       title_tumblr: 'tumblr',`
 `       title_evernote: 'Evernote',`
 `       title_citeulike: 'CiteULike',`
@@ -37,6 +38,7 @@
 `       title_instapaper: 'Instapaper',`
 `       title_readitlaterlist: 'Read It Later',`
 `       title_qrcode: 'QR碼',`
+`       title_googleplus: 'Google +1',`
 `       title_tumblr: 'tumblr',`
 `       title_evernote: 'Evernote',`
 `       title_citeulike: 'CiteULike',`
@@ -83,7 +85,8 @@
 
 <h3>
 
-<a href="#" title="' + share_msgs.title + '"><span style="background-image: url(//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Shareicon.svg/16px-Shareicon.svg.png); background-position: 0px 85%; background-repeat: no-repeat;width: 18px;padding-top: 0;"/></a><span>' + share_msgs.title + '</span>
+<a href="#" title="' + share_msgs.title + '"><span style="background-image: url(//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Shareicon.svg/16px-Shareicon.svg.png); background-position: 0px 85%; background-repeat: no-repeat;width: 18px;padding-top: 0;"/></a><span>'
++ share_msgs.title + '</span>
 
 </h3>
 
@@ -97,7 +100,8 @@
 
 <div/>
 
-').addClass('vectorMenu extraMenu').attr('id', 'p-share').html(htmlline).insertAfter('\#p-cactions');
+').addClass('vectorMenu extraMenu').attr('id',
+'p-share').html(htmlline).insertAfter('\#p-cactions');
 
 `           } else {`
 `               $('#p-tb').clone().attr('id', 'p-share').find('h3').text(share_msgs.title).end().find('li').remove().end().insertAfter('#p-tb');`
@@ -118,7 +122,7 @@
 `           }`
 `           url += '?&' + $.param(query);`
 
-`           var portletLink = $(mw.util.addPortletLink('p-share', url, title, 's-share' + id)).find('a').addBack().filter('a');`
+`           var portletLink = $(mw.util.addPortletLink('p-share', url, title, 's-share' + id)).find('a').andSelf().filter('a');`
 `           $(portletLink).click(function (e) {`
 `               e.preventDefault();`
 `               window.open(url, '_blank', 'scrollbars=' + scroll + ',width=' + w + ',height=' + h + ',left=75,top=20,status=no,resizable=yes');`
@@ -127,7 +131,7 @@
 
 `       // build li: twitter`
 `       this._li_twitter = function () {`
-`           var url = '`<https://twitter.com/intent/tweet>`',`
+`           var url = '`<https://twitter.com/home>`',`
 `               query = {`
 `               status: pagetitle + ' ' + urlshort + ' #wikipedia'`
 `           };`
@@ -248,6 +252,14 @@
 `               chl: urllocal`
 `           };`
 `           _li('qrcode', share_msgs.title_qrcode, url, query, 500, 450);`
+`       };`
+
+`       this._li_googleplus = function () {`
+`           var url = '`<https://plusone.google.com/_/+1/confirm>`';`
+`           var query = {`
+`               url: urllocal`
+`           };`
+`           _li('googleplus', share_msgs.title_googleplus, url, query, 700, 450);`
 `       };`
 
 `       this._li_tumblr = function () {`

@@ -9,7 +9,9 @@
 `@method getInsertAction 返回一个钩子函数 (action可以設成'line'表示默認的行模式插入)`
 `*/`
 
-if(mwCustomEditButtons.length\>0){mwCustomEditButtons=\[\];} mwCustomEditButtons.state="normal"; mwCustomEditButtons.indexOf=function(item){
+if(mwCustomEditButtons.length\>0){mwCustomEditButtons=\[\];}
+mwCustomEditButtons.state="normal";
+mwCustomEditButtons.indexOf=function(item){
 
 `   var item=typeof item=='string'?mwCustomEditButtons[item]:item;`
 `   for(var i=mwCustomEditButtons.length;i>0;i--){`
@@ -298,7 +300,9 @@ function checkExistEditID(id){
 
 }
 
-if( window.jQuery ){ //加入按鈕; jQuery(document).on('edittoolsAddEditButton', function(event, id, attrs) {
+if( window.jQuery ){ //加入按鈕;
+jQuery(document).on('edittoolsAddEditButton', function(event, id, attrs)
+{
 
 `   id=checkExistEditID(id);`
 `   var button=createEditButton(id,attrs);`
@@ -307,7 +311,8 @@ if( window.jQuery ){ //加入按鈕; jQuery(document).on('edittoolsAddEditButton
 
 });
 
-//加入下拉菜單 jQuery(document).on('edittoolsAddDropdownMenu', function(event, id, text, options, attrs) {
+//加入下拉菜單 jQuery(document).on('edittoolsAddDropdownMenu', function(event,
+id, text, options, attrs) {
 
 `   id=checkExistEditID(id);`
 `   var menu=createDropdownMenu(id,text,attrs);`
@@ -364,7 +369,9 @@ function addEditButton(id, attrs) {
 
 }}
 
-//根據情況覆蓋mwInsertEditButton函數 if ( typeof mwInsertEditButton \!= 'undefined' ) { var oldInsertEditButton=mwInsertEditButton; function exInsertEditButton(parent,item) {
+//根據情況覆蓋mwInsertEditButton函數 if ( typeof mwInsertEditButton \!=
+'undefined' ) { var oldInsertEditButton=mwInsertEditButton; function
+exInsertEditButton(parent,item) {
 
 `   parent.appendChild(item.element);`
 

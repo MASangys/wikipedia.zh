@@ -6,11 +6,13 @@
 `* @author Outriggr - created the script and used to maintain it`
 `* @author Pyrospirit - currently maintains and updates the script`
 
-from [:en:MediaWiki:Gadget-metadata.js](https://zh.wikipedia.org/wiki/:en:MediaWiki:Gadget-metadata.js "wikilink")
+from
+[:en:MediaWiki:Gadget-metadata.js](../Page/:en:MediaWiki:Gadget-metadata.js.md "wikilink")
 
 `*/`
 
-// Import stylesheet with custom classes for header colors importStylesheet('User:Shizhao/metadata.css');
+// Import stylesheet with custom classes for header colors
+importStylesheet('User:Shizhao/metadata.css');
 
 var assessment = {
 
@@ -561,7 +563,8 @@ var assessment = {
 
 };
 
-// Implement Array.indexOf for older browsers that don't have it if (\!Array.prototype.indexOf) {
+// Implement Array.indexOf for older browsers that don't have it if
+(\!Array.prototype.indexOf) {
 
 `   Array.prototype.indexOf = function indexOf (elt, from) {`
 `       var len = this.length >>> 0;`
@@ -578,7 +581,8 @@ var assessment = {
 
 }
 
-// Implement String.trim for browsers that don't have it if (\!String.prototype.trim) {
+// Implement String.trim for browsers that don't have it if
+(\!String.prototype.trim) {
 
 `   String.prototype.trim = function trim () {`
 `       var str = this.replace(/^\s\s*/, ''),`
@@ -597,7 +601,9 @@ var assessment = {
 `* Initializes the script on page load`
 `*/`
 
-if (mw.config.get('wgNamespaceNumber') == 0 && (mw.config.get('wgAction') == 'view' || mw.config.get('wgAction') == 'purge')
+if (mw.config.get('wgNamespaceNumber') == 0 &&
+(mw.config.get('wgAction') == 'view' || mw.config.get('wgAction') ==
+'purge')
 
 `       && document.location.href.search(/\?(.+\&)?printable=[^&]/i) == -1`
 `       && mw.config.get('wgPageName') != 'Main_Page') {`

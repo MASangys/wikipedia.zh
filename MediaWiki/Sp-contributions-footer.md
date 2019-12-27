@@ -1,4 +1,6 @@
-跨語言活動\] **·** </span> <span style="white-space: nowrap;">[$1}}}](https://zh.wikipedia.org/wiki/sulutil:{{{1 "wikilink") / [$1}}}](https://zh.wikipedia.org/wiki/Special:CentralAuth/{{{1 "wikilink")</span>
+跨語言活動\] **·** </span>
+<span style="white-space: nowrap;">[$1}}}](../Page/sulutil:{{{1.md "wikilink")
+/ [$1}}}](../Page/Special:CentralAuth/{{{1.md "wikilink")</span>
 
 </td>
 

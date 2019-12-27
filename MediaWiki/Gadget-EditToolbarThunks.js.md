@@ -1,4 +1,5 @@
-if ((mw.config.get('wgAction') == 'edit' || mw.config.get('wgAction') == 'submit') && window.jQuery) {
+if ((mw.config.get('wgAction') == 'edit' || mw.config.get('wgAction') ==
+'submit') && window.jQuery) {
 
 `   window.addButton = true;`
 `   window.mwCustomEditButtons = [];`
@@ -128,9 +129,12 @@ if ((mw.config.get('wgAction') == 'edit' || mw.config.get('wgAction') == 'submit
 
 $( function() {
 
-// new method according to [usability:Toolbar customization](https://zh.wikipedia.org/wiki/usability:Toolbar_customization "wikilink"), begin
+// new method according to [usability:Toolbar
+customization](../Page/usability:Toolbar_customization.md "wikilink"),
+begin
 
-// Check that the toolbar is available if ( typeof $j \!= 'undefined' && typeof $.fn.wikiEditor \!= 'undefined' ) {
+// Check that the toolbar is available if ( typeof $j \!= 'undefined' &&
+typeof $.fn.wikiEditor \!= 'undefined' ) {
 
 `   // Execute on load`
 `   $( document ).ready( function() {`

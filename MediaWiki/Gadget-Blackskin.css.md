@@ -1,7 +1,8 @@
 /\*\* MediaWiki:Gadget-Blackskin.css \*\*\*\*\*\*\*
 
-`* Original by `[`:it:Utente:Kormoran`](https://zh.wikipedia.org/wiki/:it:Utente:Kormoran "wikilink")
-`* Maintained by `[`User:Dispenser`](https://zh.wikipedia.org/wiki/User:Dispenser "wikilink")` for `[`WP:WikiProject``   ``Accessibility`](https://zh.wikipedia.org/wiki/WP:WikiProject_Accessibility "wikilink")
+`* Original by `[`:it:Utente:Kormoran`](../Page/:it:Utente:Kormoran.md "wikilink")
+`* Maintained by `[`User:Dispenser`](../Page/User:Dispenser.md "wikilink")` for `[`WP:WikiProject``
+ ``Accessibility`](../Page/WP:WikiProject_Accessibility.md "wikilink")
 `*/`
 
 @media screen { /\* Selection highlight \*/
@@ -33,14 +34,21 @@
 
 }
 
-/\* Color the links \*/ html a { color: \#7070FF; } html a:visited { color: \#9090D0; } html a:active, html a.new { color: \#FF4040; } html a.interwiki, html a.external { color: \#5386DB; } html a.interwiki:visited, html a.external:visited { color: \#5386DB; } html a.stub { color: \#974253; }
+/\* Color the links \*/ html a { color: \#7070FF; } html a:visited {
+color: \#9090D0; } html a:active, html a.new { color: \#FF4040; } html
+a.interwiki, html a.external { color: \#5386DB; } html
+a.interwiki:visited, html a.external:visited { color: \#5386DB; } html
+a.stub { color: \#974253; }
 
-/\* De-Color user signature links (black-on-black) \*/ html a:not(\[class\]) font, html a:not(\[class\]) span, html a:not(\[class\]) bold {
+/\* De-Color user signature links (black-on-black) \*/ html
+a:not(\[class\]) font, html a:not(\[class\]) span, html a:not(\[class\])
+bold {
 
 `   background-color:inherit!important;`
 `   color:inherit!important;`
 
-} /\* Color user links \*/ /\* html a\[title^="User"\], html a\[title^="Special:Contributions/"\] {
+} /\* Color user links \*/ /\* html a\[title^="User"\], html
+a\[title^="Special:Contributions/"\] {
 
 `   background-color:#010!important;`
 `   color: #7070FF!important;`
@@ -53,14 +61,18 @@ html .mw-body-content .external {
 
 }
 
-/\* Headings \*/ html h1, html \#bodyContent h1, html h2, html \#bodyContent h2, html h3, html \#bodyContent h3, html h4, html \#bodyContent h4, html h5, html \#bodyContent h5, html h6, html \#bodyContent h6 {
+/\* Headings \*/ html h1, html \#bodyContent h1, html h2, html
+\#bodyContent h2, html h3, html \#bodyContent h3, html h4, html
+\#bodyContent h4, html h5, html \#bodyContent h5, html h6, html
+\#bodyContent h6 {
 
 `   color: #00dd00;`
 `   border-color:#008000;`
 
 }
 
-/\* Color Table of Contents \*/ html \#toc, html .toc, html .mw-warning, html .toccolours {
+/\* Color Table of Contents \*/ html \#toc, html .toc, html .mw-warning,
+html .toccolours {
 
 `   background-color: #002000; `
 `   border-color: #008000; `
@@ -74,7 +86,8 @@ html .mw-body-content .external {
 
 }
 
-/\* Fix background of TeX images, which are black on transparent. \*/ html .mw-body img.mwe-math-fallback-image-inline {
+/\* Fix background of TeX images, which are black on transparent. \*/
+html .mw-body img.mwe-math-fallback-image-inline {
 
 `   background-color: #fff;`
 `   filter:invert(100%) hue-rotate(180deg);`
@@ -90,7 +103,8 @@ html hr {
 
 }
 
-/\* Color explanations with tool tips \*/ html abbr, html acronym, html .explain {
+/\* Color explanations with tool tips \*/ html abbr, html acronym, html
+.explain {
 
 `   border-color: #004000;`
 `   color: White;`
@@ -115,7 +129,8 @@ html hr {
 
 }
 
-/\* Color highlighted ref \*/ html body.action-info .mw-body-content :target, html .citation:target {
+/\* Color highlighted ref \*/ html body.action-info .mw-body-content
+:target, html .citation:target {
 
 `   background-color: rgba(0, 127, 255, 0.133);`
 
@@ -213,7 +228,8 @@ html hr {
 `   background-color: #004000;`
 `   border: solid 2px white;`
 
-} html li.gallerybox div.thumb, html div\#content .gallerybox div.thumb {
+} html li.gallerybox div.thumb, html div\#content .gallerybox div.thumb
+{
 
 `   background-color:transparent;`
 `   border: 1px solid #002000;`
@@ -242,13 +258,15 @@ html hr {
 
 `   border: 1px solid #004000; /* @theme */`
 
-} html input\[type="number"\], html input\[type="text"\], html input:not(\[type\]), html select {
+} html input\[type="number"\], html input\[type="text"\], html
+input:not(\[type\]), html select {
 
 `   background-color: #004000;`
 `   border-color: #008000;  `
 `   color: #00dd00;`
 
-} html button, html input\[type="button"\], html input\[type="reset"\], html input\[type="submit"\] {
+} html button, html input\[type="button"\], html input\[type="reset"\],
+html input\[type="submit"\] {
 
 `   cursor: pointer;`
 
@@ -257,7 +275,8 @@ html hr {
 `   border-color: lime;`
 `   box-shadow: inset 0 0 0 1px lime;`
 
-} html .postedit, /\* untested \*/ html .mw-notification { /\* top right bubble \*/
+} html .postedit, /\* untested \*/ html .mw-notification { /\* top right
+bubble \*/
 
 `   background-color:#004000;`
 `   background-color:rgba(0, 64, 0, 0.93);`
@@ -334,7 +353,11 @@ html table.diff, html td.diff-otitle, html td.diff-ntitle {
 
 }
 
-/\* Visual Editor \*/ html .oo-ui-toolbar-bar, html .oo-ui-popupWidget-popup, html .oo-ui-popupToolGroup-active.oo-ui-widget-enabled, html .oo-ui-toolGroup.oo-ui-widget-enabled .oo-ui-tool-link .oo-ui-tool-title, html .oo-ui-popupToolGroup .oo-ui-toolGroup-tools {
+/\* Visual Editor \*/ html .oo-ui-toolbar-bar, html
+.oo-ui-popupWidget-popup, html
+.oo-ui-popupToolGroup-active.oo-ui-widget-enabled, html
+.oo-ui-toolGroup.oo-ui-widget-enabled .oo-ui-tool-link
+.oo-ui-tool-title, html .oo-ui-popupToolGroup .oo-ui-toolGroup-tools {
 
 `   background-color:#002000;`
 `   background-image:none;`
@@ -348,11 +371,13 @@ html table.diff, html td.diff-otitle, html td.diff-ntitle {
 
 `   background-color: rgba(0, 0, 0, 0.5);`
 
-} html .oo-ui-windowManager-modal \> .oo-ui-dialog \> .oo-ui-window-frame {
+} html .oo-ui-windowManager-modal \> .oo-ui-dialog \>
+.oo-ui-window-frame {
 
 `   background-color:black;`
 
-} html .oo-ui-textInputWidget input, html .oo-ui-textInputWidget textarea {
+} html .oo-ui-textInputWidget input, html .oo-ui-textInputWidget
+textarea {
 
 `   background-color: #001000;`
 `   color: #90FF90;`
@@ -370,7 +395,8 @@ html table.diff, html td.diff-otitle, html td.diff-ntitle {
 
 } html span.autocomment { color: \#008000; }
 
-/\* Special:Search \*/ html .mw-search-profile-tabs, html \#mw-searchoptions {
+/\* Special:Search \*/ html .mw-search-profile-tabs, html
+\#mw-searchoptions {
 
 ` background-color: #002000;`
 `   border-color: #008000;`
@@ -417,12 +443,15 @@ html table.diff, html td.diff-otitle, html td.diff-ntitle {
 
 `   background-color:#000000 !important/*HACK?*/; `
 
-} /\* Vector Tabs \*/ html div.vectorTabs, html div.vectorTabs span { /\* left and right tab breaks \*/
+} /\* Vector Tabs \*/ html div.vectorTabs, html div.vectorTabs span {
+/\* left and right tab breaks \*/
 
 `   /* `<https://en.wikipedia.org/w/skins/Vector/images/tab-break.png>` */`
 `   background-image:none;`
 
-} html div.vectorTabs { border-left:1px solid black; } html div.vectorTabs span { border-right:1px solid black; } html div.vectorTabs ul li {
+} html div.vectorTabs { border-left:1px solid black; } html
+div.vectorTabs span { border-right:1px solid black; } html
+div.vectorTabs ul li {
 
 `   /* `<https://en.wikipedia.org/w/skins/Vector/images/tab-normal-fade.png>` */`
 `   background-image: linear-gradient(#000000,#004000);`
@@ -438,11 +467,13 @@ html table.diff, html td.diff-otitle, html td.diff-ntitle {
 
 `   color:#7070FF;`
 
-} html div.vectorTabs li.selected a, html div.vectorTabs li.selected a:visited {
+} html div.vectorTabs li.selected a, html div.vectorTabs li.selected
+a:visited {
 
 `   color:#00DD00;`
 
-} /\* Vector watch icon -- XXX contrast issues \*/ html \#ca-watch.icon a {
+} /\* Vector watch icon -- XXX contrast issues \*/ html \#ca-watch.icon
+a {
 
 `   filter:invert(1) hue-rotate(80deg);`
 
@@ -483,17 +514,22 @@ html table.diff, html td.diff-otitle, html td.diff-ntitle {
 
 }
 
-/\* Bad specificity in originals \*/ html \#pt-mytalk a.mw-echo-alert, html \#pt-mytalk a.mw-echo-alert:hover {
+/\* Bad specificity in originals \*/ html \#pt-mytalk a.mw-echo-alert,
+html \#pt-mytalk a.mw-echo-alert:hover {
 
 `   color: #222;`
 
-} /\* Use vector person icon by your username \*/ html body.skin-monobook li\#pt-userpage { background-image: url(/w/skins/Vector/images/user-icon.png); }
+} /\* Use vector person icon by your username \*/ html
+body.skin-monobook li\#pt-userpage { background-image:
+url(/w/skins/Vector/images/user-icon.png); }
 
 /\* Use black logo \*/ html \#p-logo {
 
 `   background-color: transparent;`
 
-} html .mw-wiki-logo:not(\[href="/wiki/MediaWiki"\]):not(\[href^="/wiki/Wikidata:"\]):not(\[href^="/wiki/Wiktionary:"\]) {
+} html
+.mw-wiki-logo:not(\[href="/wiki/MediaWiki"\]):not(\[href^="/wiki/Wikidata:"\]):not(\[href^="/wiki/Wiktionary:"\])
+{
 
 `   -webkit-filter: invert(1);`
 `   filter: invert(100%);`
@@ -537,7 +573,8 @@ html table.diff, html td.diff-otitle, html td.diff-ntitle {
 `   border-color: #00FFFF #008080 #008080 #00FFFF;`
 `   color : #00dd00; `
 
-} /\* Color main search box - Vector \*/ html div\#simpleSearch, html div\#simpleSearch input {
+} /\* Color main search box - Vector \*/ html div\#simpleSearch, html
+div\#simpleSearch input {
 
 `   background-color:transparent;`
 `   color: #00dd00;`
@@ -546,7 +583,8 @@ html table.diff, html td.diff-otitle, html td.diff-ntitle {
 
 `   color:#008800;`
 
-} /\* Search results suggestion box \*/ html .suggestions-results, html .suggestions-special {
+} /\* Search results suggestion box \*/ html .suggestions-results, html
+.suggestions-special {
 
 `   background-color: #000000;`
 `   border: solid 1px #00dd00;                            `
@@ -593,13 +631,15 @@ html .infobox {
 
 }
 
-/\* template RFA, AN/I closed \*/ html div.boilerplate, html .portal \> ul {
+/\* template RFA, AN/I closed \*/ html div.boilerplate, html .portal \>
+ul {
 
 `   background-color: #000000!important;`
 
 }
 
-/\* \*/ html div.mw-warning-with-logexcerpt, html div.mw-lag-warn-high, html div.mw-cascadeprotectedwarning, html \#mw-protect-cascadeon {
+/\* \*/ html div.mw-warning-with-logexcerpt, html div.mw-lag-warn-high,
+html div.mw-cascadeprotectedwarning, html \#mw-protect-cascadeon {
 
 `   background-color: #700;`
 `   color:#fff;`
@@ -657,16 +697,19 @@ html .mw-trackedTemplate {
 
 1.  histlegend { background-color:inherit\!important; }
 
-/\* De-color [mw:CentralNotice](https://zh.wikipedia.org/wiki/mw:CentralNotice "wikilink") \*/
+/\* De-color [mw:CentralNotice](../Page/mw:CentralNotice.md "wikilink")
+\*/
 
-1.  centralNotice, \#cnotice-main { background-color:\#000\!important; color:inherit\!important; }
+1.  centralNotice, \#cnotice-main { background-color:\#000\!important;
+    color:inherit\!important; }
 
 /\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 `*        GADGETS       *`
 `************************/`
 
-/\* [WP:Navigation popups](https://zh.wikipedia.org/wiki/WP:Navigation_popups "wikilink") \*/ html .navpopup {
+/\* [WP:Navigation popups](../Page/WP:Navigation_popups.md "wikilink")
+\*/ html .navpopup {
 
 `   background:#000;`
 `   border-color:inherit;`
@@ -677,7 +720,8 @@ html .mw-trackedTemplate {
 
 `    color:#0d0;   `
 
-} html .popup_menu, html .popup_drop:hover .popup_menu, html .popup_drop .popup_menu:hover {
+} html .popup_menu, html .popup_drop:hover .popup_menu, html
+.popup_drop .popup_menu:hover {
 
 `   background-color:#000;`
 
@@ -696,7 +740,8 @@ html .mw-trackedTemplate {
 
 }
 
-/\* [mw:Reference Tooltips](https://zh.wikipedia.org/wiki/mw:Reference_Tooltips "wikilink") \*/ html .referencetooltip li {
+/\* [mw:Reference Tooltips](../Page/mw:Reference_Tooltips.md "wikilink")
+\*/ html .referencetooltip li {
 
 `  /*border-color: #008000;*/`
 `  background-color:#001000;`
@@ -704,30 +749,41 @@ html .mw-trackedTemplate {
 
 }
 
-/\* [mw:HoverCards](https://zh.wikipedia.org/wiki/mw:HoverCards "wikilink") \*/ html .mwe-popups {
+/\* [mw:HoverCards](../Page/mw:HoverCards.md "wikilink") \*/ html
+.mwe-popups {
 
 `   background-color: #000;`
 `   box-shadow: /* tint #00F000 */`
 `       0 30px 90px -20px rgba(0,224,0,0.3),`
 `       0px 0px 1px rgba(0,224,0,0.5);`
 
-} /\* callout arrow \*/ html .mwe-popups.mwe-popups-image-tri:after, html .mwe-popups.mwe-popups-no-image-tri:after, html .mwe-popups.mwe-popups-image-tri.flipped_x:after, html .mwe-popups.mwe-popups-no-image-tri.flipped_x:after {
+} /\* callout arrow \*/ html .mwe-popups.mwe-popups-image-tri:after,
+html .mwe-popups.mwe-popups-no-image-tri:after, html
+.mwe-popups.mwe-popups-image-tri.flipped_x:after, html
+.mwe-popups.mwe-popups-no-image-tri.flipped_x:after {
 
 `   border-bottom-color:#000;`
 
-} html .mwe-popups.flipped_y:after, html .mwe-popups.flipped_x_y:after {
+} html .mwe-popups.flipped_y:after, html
+.mwe-popups.flipped_x_y:after {
 
 `   border-top-color:#000;`
 
-} /\* callout arrow shadow \*/ html .mwe-popups.mwe-popups-image-tri:before, html .mwe-popups.mwe-popups-no-image-tri:before, html .mwe-popups.mwe-popups-image-tri.flipped_x:before, html .mwe-popups.mwe-popups-no-image-tri.flipped_x:before {
+} /\* callout arrow shadow \*/ html
+.mwe-popups.mwe-popups-image-tri:before, html
+.mwe-popups.mwe-popups-no-image-tri:before, html
+.mwe-popups.mwe-popups-image-tri.flipped_x:before, html
+.mwe-popups.mwe-popups-no-image-tri.flipped_x:before {
 
 `   border-bottom-color:#004000;`
 
-} html .mwe-popups.flipped_y:before, html .mwe-popups.flipped_x_y:before {
+} html .mwe-popups.flipped_y:before, html
+.mwe-popups.flipped_x_y:before {
 
 `   border-top-color:#004000;`
 
-} html .mwe-popups .mwe-popups-container, html .mwe-popups .mwe-popups-extract {
+} html .mwe-popups .mwe-popups-container, html .mwe-popups
+.mwe-popups-extract {
 
 `   color:#0d0;`
 
@@ -737,11 +793,15 @@ html .mw-trackedTemplate {
 
 }
 
-/\* [WP:WikEd](https://zh.wikipedia.org/wiki/WP:WikEd "wikilink") \*/ html .wikEdDiffFragment, html .wikEdPreviewArticle, html .wikEdDiffNoChange, html .wikEdConsoleWrapper {
+/\* [WP:WikEd](../Page/WP:WikEd.md "wikilink") \*/ html
+.wikEdDiffFragment, html .wikEdPreviewArticle, html .wikEdDiffNoChange,
+html .wikEdConsoleWrapper {
 
 `   background-color:inherit;`
 
-} html .wikEdButtonsPreview, html .wikEdButtonBarGrip, html .wikEdButtonBarButtonsWrapperVisible, html .wikEdButtonBarButtonsWrapperHidden {
+} html .wikEdButtonsPreview, html .wikEdButtonBarGrip, html
+.wikEdButtonBarButtonsWrapperVisible, html
+.wikEdButtonBarButtonsWrapperHidden {
 
 `   background-color:#666;`
 
@@ -757,7 +817,12 @@ html .mw-trackedTemplate {
 
 }
 
-/\* [mw:Echo](https://zh.wikipedia.org/wiki/mw:Echo "wikilink") \*/ html .mw-echo-ui-notificationItemWidget-content-message-header, html .mw-echo-ui-notificationItemWidget-unread, html .mw-echo-ui-notificationItemWidget-unread:hover, html .mw-echo-ui-notificationItemWidget, html .mw-echo-ui-notificationItemWidget:hover {
+/\* [mw:Echo](../Page/mw:Echo.md "wikilink") \*/ html
+.mw-echo-ui-notificationItemWidget-content-message-header, html
+.mw-echo-ui-notificationItemWidget-unread, html
+.mw-echo-ui-notificationItemWidget-unread:hover, html
+.mw-echo-ui-notificationItemWidget, html
+.mw-echo-ui-notificationItemWidget:hover {
 
 `   color:#0d0;`
 `   background-color:#010;`
@@ -770,7 +835,9 @@ html .mw-trackedTemplate {
 
 `   filter:invert(1);`
 
-} /\* [mw:User:Remember the dot/Syntax highlighter](https://zh.wikipedia.org/wiki/mw:User:Remember_the_dot/Syntax_highlighter "wikilink") \*/ html \#wpTextbox0 {
+} /\* [mw:User:Remember the dot/Syntax
+highlighter](../Page/mw:User:Remember_the_dot/Syntax_highlighter.md "wikilink")
+\*/ html \#wpTextbox0 {
 
 ` filter:saturate(8) invert(1) hue-rotate(180deg);`
 
@@ -786,7 +853,10 @@ html .mw-trackedTemplate {
 
 }
 
-html \#mp-2012 .mp-2012-text, html \#mp-2012-banner-title p, html \#mp-2012 \#column-tips, html \#mp-2012 \#column-participate, html \#mp-2012-sisters, html \#mp-2012 \#column-feature-more .column-feature-more-header a {
+html \#mp-2012 .mp-2012-text, html \#mp-2012-banner-title p, html
+\#mp-2012 \#column-tips, html \#mp-2012 \#column-participate, html
+\#mp-2012-sisters, html \#mp-2012 \#column-feature-more
+.column-feature-more-header a {
 
 `   color: #00dd00;`
 
@@ -798,7 +868,8 @@ html \#mp-2012-banner {
 
 }
 
-html \#mp-2012-column-right-block-a, html \#mp-2012-column-right-block-b {
+html \#mp-2012-column-right-block-a, html \#mp-2012-column-right-block-b
+{
 
 `   background: #000;`
 

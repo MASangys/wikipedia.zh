@@ -4,7 +4,8 @@
 
 mw.log.deprecate( window, 'JSConfig', {} );
 
-mw.loader.using(\['mediawiki.util', 'ext.gadget.site-lib'\], function () {
+mw.loader.using(\['mediawiki.util', 'ext.gadget.site-lib'\], function ()
+{
 
 ` (function ($, mw) {`
 
@@ -44,7 +45,7 @@ mw.loader.using(\['mediawiki.util', 'ext.gadget.site-lib'\], function () {
 `    * Add pseudo-selector class to last-child list items in IE8`
 `    * @source mediawiki.org/wiki/Snippets/Horizontal_lists`
 `    * @revision 6 (2014-08-23)`
-`    * @author `[`User:Edokter`](https://zh.wikipedia.org/wiki/User:Edokter "wikilink")
+`    * @author `[`User:Edokter`](../Page/User:Edokter.md "wikilink")
 `    */`
 `   var profile = $.client.profile();`
 `   if ( profile.name === 'msie' && profile.versionNumber === 8 ) {`
@@ -177,7 +178,7 @@ mw.loader.using(\['mediawiki.util', 'ext.gadget.site-lib'\], function () {
 `* Magic editintros ****************************************************`
 `*`
 `* Description: Adds editintros on disambiguation pages, BLP pages, policy pages and guidlines.`
-`* Maintainers: `[`User:RockMFR`](https://zh.wikipedia.org/wiki/User:RockMFR "wikilink")
+`* Maintainers: `[`User:RockMFR`](../Page/User:RockMFR.md "wikilink")
 `*/`
 
 function addEditIntro( name ) {
@@ -293,7 +294,9 @@ if ( extraJS ) {
 
 });
 
-/\* Check for any client-side simplified/traditional Chinese conversion \*/ /\* This routine must be placed here to make sure the field is inserted in time \*/ $('\#antispam-container').append(
+/\* Check for any client-side simplified/traditional Chinese conversion
+\*/ /\* This routine must be placed here to make sure the field is
+inserted in time \*/ $('\#antispam-container').append(
 
 `   $('`<input type="text" />`').attr({`
 `       id: 'wpAntiConv',`
@@ -302,4 +305,6 @@ if ( extraJS ) {
 
 );
 
-//临时修复！侧边栏的“打印页面”移动到“打印/导出”章节 $('div\#p-electronpdfservice-sidebar-portlet-heading.portal div.body ul').append($('li\#t-print'));
+//临时修复！侧边栏的“打印页面”移动到“打印/导出”章节
+$('div\#p-electronPdfService-sidebar-portlet-heading div.body
+ul').append($('li\#t-print'));

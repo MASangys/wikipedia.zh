@@ -6,13 +6,15 @@
 `*`
 `* @version 2.0.3 (2014-03-14)`
 `* @source `<https://www.mediawiki.org/wiki/MediaWiki:Gadget-collapsibleTables.js>
-`* @author `[`User:R.``   ``Koot`](https://zh.wikipedia.org/wiki/User:R._Koot "wikilink")
+`* @author `[`User:R.``
+ ``Koot`](https://zh.wikipedia.org/wiki/User:R._Koot "wikilink")
 `* @author `[`User:Krinkle`](https://zh.wikipedia.org/wiki/User:Krinkle "wikilink")
 `* @deprecated Since MediaWiki 1.20: Use class="mw-collapsible" instead which`
 `* is supported in MediaWiki core.`
 `*/`
 
-var autoCollapse = 2; var collapseCaption = wgULS('隐藏', '隱藏'); var expandCaption = wgULS('显示', '顯示'); var tableIndex = 0;
+var autoCollapse = 2; var collapseCaption = wgULS('隐藏', '隱藏'); var
+expandCaption = wgULS('显示', '顯示'); var tableIndex = 0;
 
 function collapseTable( tableIndex ) {
 
@@ -74,7 +76,7 @@ function createCollapseButtons( $content ) {
 `           var Button     = document.createElement( 'span' );`
 `           var ButtonLink = document.createElement( 'a' );`
 `           var ButtonText = document.createTextNode( collapseCaption );`
-`           // Styles are declared in `[`MediaWiki:Common.css`](https://zh.wikipedia.org/wiki/MediaWiki:Common.css "wikilink")
+`           // Styles are declared in `[`MediaWiki:Common.css`](../Page/MediaWiki:Common.css.md "wikilink")
 `           Button.className = 'collapseButton';`
 
 `           ButtonLink.style.color = Header.style.color;`

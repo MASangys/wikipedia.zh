@@ -1,6 +1,6 @@
 /\*\*
 
-`  Author: ZUO Haocheng `[`User:zuohaocheng`](https://zh.wikipedia.org/wiki/User:zuohaocheng "wikilink")
+`  Author: ZUO Haocheng `[`User:zuohaocheng`](../Page/User:zuohaocheng.md "wikilink")
 `  Email: Please feel free to email me via `<http://en.wikipedia.org/wiki/Special:EmailUser/Zuohaocheng>
 `  电邮: 请通过 `<http://zh.wikipedia.org/wiki/Special:EmailUser/Zuohaocheng>` 给我发送电邮`
 `  Date: 2011年11月21日, 星期一 (4年2个月10日前), 09:47 PM (UTC+8)`
@@ -68,7 +68,8 @@ $(document).ready(function() {
 
 </li>
 
-").html('<a href="' + link + '" title="' + page.title + '">' + shortTitle + '</a>').appendTo($list);
+").html('<a href="' + link + '" title="' + page.title + '">' +
+shortTitle + '</a>').appendTo($list);
 
 `       if (!page.confidence) {`
 `           item.addClass('patrollListNotConfident');`
@@ -98,7 +99,7 @@ $(document).ready(function() {
 `       }).append($("`<a></a>`", {`
 `           text: "more...",`
 `           href: "#patrollListShowAll",`
-`           title: wgULS("显示所有未巡查的页面", "顯示所有未巡查的頁面")}));`
+`           title: "显示所有未巡查的页面"}));`
 `       $list.after($showAll);`
 `       }`
 `       else {`
@@ -239,7 +240,7 @@ $(document).ready(function() {
 `   var addlink = function(page) {`
 `       var $patrollinks = $("`<a></a>`", {`
 `       href: ("/w/index.php?title=" + encodeURIComponent(page.title) + "&rcid=" + encodeURIComponent(page.rcid)),`
-`       text: wgULS("标记此页面为已巡查", "標記此頁面為已巡查")`
+`       text: "标记此页面为已巡查"`
 `       });`
 `       var $divPatrolllink = $("`
 
@@ -260,19 +261,19 @@ $(document).ready(function() {
 `           token: page.rctoken`
 `       };`
 `       var uri = apiPrefix + '?format=xml&action=patrol';`
-`       $patrollinks.text(wgULS('标记巡查中...', '標記巡查中...'));`
+`       $patrollinks.text('标记巡查中...');`
 `       $patrollinks = $patrollinks.parent();`
 `       $.post(uri, data, function( data, status, request ) {`
 `           //window.data = [data, status, request]; // DEBUG`
 `           if ( status == 'success' ) {`
-`           $patrollinks.html('`<span style="color:green">`' + wgULS('已标记为已巡查', '已標記為已巡查') + '`</span>`');// MediaWiki:Markedaspatrolled`
+`           $patrollinks.html('`<span style="color:green">`已标记为已巡查`</span>`');// MediaWiki:Markedaspatrolled`
 `           if (typeof kAjaxPatrolLinks_closeafter !== 'undefined' && kAjaxPatrolLinks_closeafter == true){`
 `               window.close();`
 `               // Firefox 2+ doesn't allow closing normal windows. If we're still here, open up the selfclosing page.`
 `               window.open("`<http://toolserver.org/~krinkle/close.html>`", "_self");`
 `           }`
 `           } else {`
-`           $patrollinks.html('`<span style="color:red">`' + wgULS('不能标记为已巡查', '不能標記為已巡查') + '`</span>`');// MediaWiki:Markedaspatrollederror`
+`           $patrollinks.html('`<span style="color:red">`不能标记为已巡查`</span>`');// MediaWiki:Markedaspatrollederror`
 `           }`
 `       });`
 `       };`
@@ -328,8 +329,8 @@ $(document).ready(function() {
 `   //在"监视列表"右边加入"最新页面"以便巡查`
 `   var ptPatrollLink = $('`<a></a>`', {`
 `   'href': "/wiki/Special:最新页面?hidepatrolled=1",`
-`   'title': wgULS('最新页面', '最新頁面'), `
-`   'text': wgULS('最新页面', '最新頁面')`
+`   'title': '最新页面', `
+`   'text': '最新页面'`
 `   });`
 `   $("body div#mw-head div#p-personal ul li#pt-watchlist").after($('`
 
