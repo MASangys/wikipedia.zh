@@ -1,7 +1,7 @@
 ###
 
   - 已发出最后警告。
-  - 发现人：砜中嘌呤的[白磷](https://zh.wikipedia.org/wiki/User:WhitePhosphorus "wikilink")<sub>[萃取](https://zh.wikipedia.org/wiki/User_talk:WhitePhosphorus "wikilink") [打谱](https://zh.wikipedia.org/wiki/Special:用户贡献/WhitePhosphorus "wikilink")</sub> 2019年11月27日 (三) 03:13 (UTC)
+  - 发现人：砜中嘌呤的[白磷](https://zh.wikipedia.org/wiki/User:WhitePhosphorus "wikilink")<sub>[萃取](https://zh.wikipedia.org/wiki/User_talk:WhitePhosphorus "wikilink") [打谱](https://zh.wikipedia.org/wiki/Special:用户贡献/WhitePhosphorus "wikilink")</sub> 2019年12月3日 (二) 07:30 (UTC)
   - 处理：
 
 ###
