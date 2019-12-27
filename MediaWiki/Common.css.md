@@ -524,7 +524,7 @@ Geographical coordinates defaults. See [Template:Coord/link](https://zh.wikipedi
 
 /\* 'show'/'hide' buttons created dynamically by the CollapsibleTables javascript
 
-`  in `[`MediaWiki:Common.js`](../Page/MediaWiki:Common.js.md "wikilink")` are styled here so they can be customised. */`
+`  in `[`MediaWiki:Common.js`](../MediaWiki/Common.js.md "wikilink")` are styled here so they can be customised. */`
 
 .collapseButton {
 
@@ -1258,7 +1258,7 @@ table.tmbox-speedy {
 
 } /\* Div based "system" style fmbox messages. Used in
 
-`  `[`MediaWiki:Noarticletext`](../Page/MediaWiki:Noarticletext.md "wikilink")`. */`
+`  `[`MediaWiki:Noarticletext`](../MediaWiki/Noarticletext.md "wikilink")`. */`
 
 div.noarticletext, div.fmbox-system {
 
