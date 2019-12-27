@@ -230,12 +230,22 @@ The Stories Between U &amp; I</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><strong><a href="../Page/Love_poem.md" title="wikilink">Love poem</a></strong></p></td>
+<td><ul>
+<li>發行：2019年11月18日</li>
+<li>唱片公司：LOEN Tree</li>
+<li>形式：CD、數字下載</li>
+</ul></td>
+<td><p>3</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>日語</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/I□U.md" title="wikilink">I□U</a></p></td>
 <td><ul>
 <li>發行：2011年12月14日</li>
@@ -246,7 +256,7 @@ The Stories Between U &amp; I</p></td>
 <td><p>—</p></td>
 <td><p>15</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Can_You_Hear_Me?_(IU迷你專輯)" title="wikilink">Can You Hear Me?</a></p></td>
 <td><ul>
 <li>發行：2013年3月20日</li>
@@ -256,7 +266,7 @@ The Stories Between U &amp; I</p></td>
 <td><p>—</p></td>
 <td><p>23</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>"—" 表示無排行或未在該地區發行</p></td>
 <td></td>
 <td></td>

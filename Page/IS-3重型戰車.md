@@ -10,11 +10,7 @@ IS-3重戰車的名稱取自於前[蘇聯領導人](https://zh.wikipedia.org/wik
 
 在草擬IS-3的設計圖時，設計人員特別重視蘇聯裝甲部隊在[庫斯克會戰的交戰結果](https://zh.wikipedia.org/wiki/庫斯克會戰 "wikilink")，並將之納入戰車的設計重點。當時的[蘇聯坦克經常會由於車體正面以及炮塔被擊穿而被擊毀](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")。因此，當時的蘇聯坦克工程師在設計[IS-2重戰車時便刻意將裝甲的傾斜幅度加大](../Page/IS-2重型坦克.md "wikilink")，並將炮塔做得更流線型。依照這樣的原則設計出來的成果就是[IS-2戰車的正面相當傾斜](../Page/IS-2重型坦克.md "wikilink")，等效裝甲厚度被極大化。IS-3汲取了這樣的設計經驗；正面裝甲厚110毫米，並以前方凸起的方式安裝，以獲得最大的等效裝甲厚度；這種裝甲造型日後便被稱為「楔形裝甲」。此外，炮塔裝甲也被刻意加厚，以避免被擊穿，造成人員傷亡。IS-3的設計將會成為當代最優秀的裝甲防護。這種裝甲設計也被後來的[IS-7及](https://zh.wikipedia.org/wiki/IS-7重型戰車 "wikilink")[T-10等戰車所使用](https://zh.wikipedia.org/wiki/T-10 "wikilink")。
 
-|                         |
-| ----------------------- |
-| **IS-3的產量列表\[1\]\[2\]** |
-| 1945年                   |
-| 955                     |
+IS-3分別於1945年和1946年生產955和600輛，總計生產1555輛\[1\]\[2\]。
 
 ## 型號
 
@@ -135,7 +131,7 @@ IS-3被[蘇聯用於鎮壓](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[195
 
 ## 圖集
 
-<File:Collar> insignia of the Russian Tank Troops.svg| <File:IS-3-batey-haosef-1.jpg>| <File:IS-3-latrun-1.jpg>| <File:IS-3-latrun-2.jpg>| <File:IS-3-latrun-3.jpg>| <File:IS-3> Tank Kiev 2007 G1.jpg| <File:IS-3> Tank Kiev 2007 G2.jpg|
+<File:IS-3-batey-haosef-1.jpg>| <File:IS-3-latrun-1.jpg>| <File:IS-3-latrun-2.jpg>| <File:IS-3-latrun-3.jpg>| <File:IS-3> Tank Kiev 2007 G1.jpg| <File:IS-3> Tank Kiev 2007 G2.jpg|
 
 ## 註記
 

@@ -49,7 +49,7 @@ Ferret 50的另一個版本是**運動員型**（Sportsman）。這簡直就是�
 
   - —US Shooter.com—
 
-      - [Budget or Entry Level 50 BMG Rifle](http://www.us-shooter.com/budget-or-entry-level-50-bmg-rifle/)
+      - [Budget or Entry Level 50 BMG Rifle](https://web.archive.org/web/20160810202900/http://www.us-shooter.com/budget-or-entry-level-50-bmg-rifle/)
       - [Spider Firearms Ferret 50 AR-15 Upper Review (Video)](http://www.us-shooter.com/category/rifles/50-bmg/)
 
   - —Tactical-Life.com—

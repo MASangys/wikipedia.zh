@@ -160,7 +160,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/VLIVE_AWARDS_V_HEARTBEAT" title="wikilink">第一屆 VLIVE AWARDS V HEARTBEAT</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/VLIVE_AWARDS_V_HEARTBEAT.md" title="wikilink">第一屆 VLIVE AWARDS V HEARTBEAT</a></p></td>
 <td style="text-align: center;"><p>最受歡迎網劇系列演員獎</p></td>
 <td style="text-align: center;"><p><a href="../Page/A-TEEN_2_(電視劇).md" title="wikilink">A-TEEN 2</a></p></td>
 <td style="text-align: center;"></td>
@@ -180,10 +180,12 @@
 
 ## 畫報 
 
-  - 2018年：《GRAZIA》11月號**[CLINIQUE](../Page/倩碧.md "wikilink")**xPink Holiday
+  - 2018年：《GRAZIA》11月號 **[CLINIQUE](../Page/倩碧.md "wikilink")**xPink Holiday
   - 2019年：《MAPS》雜誌內頁
-  - 2019年：《@star1》**[New Balance](https://zh.wikipedia.org/wiki/New_Balance "wikilink")**xNewtro Girl
-  - 2019年：《@star1》**[J.ESTINA](https://zh.wikipedia.org/wiki/J.ESTINA "wikilink")**xHandbag
+  - 2019年：《@star1》3月號 **[New Balance](https://zh.wikipedia.org/wiki/New_Balance "wikilink")**xNewtro Girl
+  - 2019年：《@star1》6月號 **[J.ESTINA](https://zh.wikipedia.org/wiki/J.ESTINA "wikilink")**
+  - 2019年：《@star1》12月號 **[Alcon](https://zh.wikipedia.org/wiki/Alcon "wikilink")**
+  - 2020年：《NYLON》1月號
 
 ## 註解
 

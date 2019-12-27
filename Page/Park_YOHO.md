@@ -1,18 +1,16 @@
 [Park_YOHO_Phase_1B_Landscape_area_2016.jpg](https://zh.wikipedia.org/wiki/File:Park_YOHO_Phase_1B_Landscape_area_2016.jpg "fig:Park_YOHO_Phase_1B_Landscape_area_2016.jpg") [Park_YOHO_Green_area_2016.jpg](https://zh.wikipedia.org/wiki/File:Park_YOHO_Green_area_2016.jpg "fig:Park_YOHO_Green_area_2016.jpg")用\]\] [Park_YOHO_Lake_201706.jpg](https://zh.wikipedia.org/wiki/File:Park_YOHO_Lake_201706.jpg "fig:Park_YOHO_Lake_201706.jpg") [Park_YOHO_Fairyland_overview1_2017.jpg](https://zh.wikipedia.org/wiki/File:Park_YOHO_Fairyland_overview1_2017.jpg "fig:Park_YOHO_Fairyland_overview1_2017.jpg")
 
-**Park YOHO**，前稱**Acappella**、**峻巒**（英文：**Park Vista**）\[1\]，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[元朗區](../Page/元朗區.md "wikilink")[錦田](../Page/錦田.md "wikilink")北[沙埔](https://zh.wikipedia.org/wiki/沙埔 "wikilink")[青山公路](../Page/青山公路.md "wikilink")潭尾段18號，是[新鴻基地產](../Page/新鴻基地產.md "wikilink")的大型中密度住宅項目，由[呂元祥建築師事務所](../Page/呂元祥建築師事務所.md "wikilink")設計。
+**峻巒**（，前稱：Park YOHO、Acappella、Park Vista）\[1\]，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[元朗區](../Page/元朗區.md "wikilink")[錦田](../Page/錦田.md "wikilink")北[沙埔](https://zh.wikipedia.org/wiki/沙埔 "wikilink")[青山公路](../Page/青山公路.md "wikilink")潭尾段18號，是[新鴻基地產](../Page/新鴻基地產.md "wikilink")的大型中密度住宅項目，由[呂元祥建築師事務所](../Page/呂元祥建築師事務所.md "wikilink")設計。
 
 物業於2014年開始興建，2016年10月至2018年分階段落成。示範單位設於[環球貿易廣場](../Page/環球貿易廣場.md "wikilink")及現樓。
 
 ## 名稱
 
-Park YOHO項目名稱在初期稱為Acappella，不過到2015年9月開售前易名峻巒（Park Vista），唯住宅在2015年11月銷售期間表現緩慢，截至同年12月尾累售150伙，原計劃在2016年年初銷售的1B及1C期最終擱置。\[2\]到2016年1月，改由新地副董事總經理雷霆負責銷售項目，並大改樓盤中、英名標誌設計。
+項目名稱在初期稱為Acappella，不過到2015年9月開售前易名Park Vista，唯住宅在2015年11月銷售期間表現緩慢，截至同年12月尾累售150伙，原計劃在2016年年初銷售的1B及1C期最終擱置。\[2\]到2016年1月，改由新地副董事總經理雷霆負責銷售項目，並大改樓盤中、英名標誌設計。
 
-2016年4月28日，新地將項目易名為**PARK YOHO**作市場推廣名稱。關於期數的任何公契、臨時買賣合約、買賣合約、轉讓契及契據仍會展示Park Vista。\[3\]
+2016年4月28日，新地將項目易名為Park YOHO作市場推廣名稱。關於期數的任何公契、臨時買賣合約、買賣合約、轉讓契及契據仍會展示Park Vista，是現時項目的唯一名稱。\[3\]
 
 2016年5月10日，Park YOHO Venezia (1B期) 及Park YOHO Sicilia (1C期) 作為正式名稱列於買賣合約內，不設中文名。\[4\]
-
-Park YOHO是現時項目的唯一名稱。
 
 ## 住宅
 

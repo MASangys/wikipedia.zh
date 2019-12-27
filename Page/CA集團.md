@@ -119,7 +119,7 @@ CA集團的直營品牌管理和製造商事務主要是由「**Outvision Group*
 
   - （「[淫亂](https://zh.wikipedia.org/wiki/性成癮 "wikilink")」AV専門製造商）（2008年6月設立） [官方網站](https://web.archive.org/web/20081222021824/http://www.ran-maru.com/)
 
-  - 変態紳士倶楽部（「按摩[偷窺](https://zh.wikipedia.org/wiki/窺視症 "wikilink")」専門製造商）（2015年4月設立） [官方網站](http://www.to-satsu.com/)
+  - 変態紳士倶楽部（「按摩[偷窺](../Page/窺視症.md "wikilink")」専門製造商）（2015年4月設立） [官方網站](http://www.to-satsu.com/)
 
 #### [女同性戀](../Page/女同性戀.md "wikilink")專門製造商
 
@@ -222,7 +222,7 @@ CA集團的直營品牌管理和製造商事務主要是由「**Outvision Group*
 
   - 美（2008年12月設立，後改名癡女天堂）
 
-  - 東京スペシャル（「[偷窺](https://zh.wikipedia.org/wiki/偷窺 "wikilink")」専門製造商）（2009年10月設立） [官方網站](https://web.archive.org/web/20160229235151/http://www.tokyo-special.com/)
+  - 東京スペシャル（「[偷窺](../Page/偷窺.md "wikilink")」専門製造商）（2009年10月設立） [官方網站](https://web.archive.org/web/20160229235151/http://www.tokyo-special.com/)
 
   - （「[亂交](../Page/群交.md "wikilink")」専門製造商）（2012年5月設立）[官方網站](https://web.archive.org/web/20160303213222/http://www.zukobako.jp/)
 

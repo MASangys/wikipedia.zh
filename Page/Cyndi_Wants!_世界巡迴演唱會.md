@@ -272,7 +272,7 @@
 
 ## 外部連結
 
-[Category:各藝人巡迴演唱會](https://zh.wikipedia.org/wiki/Category:各藝人巡迴演唱會 "wikilink")
+[Category:王心凌巡迴演唱會](https://zh.wikipedia.org/wiki/Category:王心凌巡迴演唱會 "wikilink") [Category:各藝人巡迴演唱會](https://zh.wikipedia.org/wiki/Category:各藝人巡迴演唱會 "wikilink")
 
 1.
 2.

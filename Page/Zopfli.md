@@ -1,4 +1,4 @@
-**Zopfli**是一个[数据压缩](../Page/数据压缩.md "wikilink")算法，可以将数据编码为[DEFLATE](../Page/DEFLATE.md "wikilink")、[gzip或](https://zh.wikipedia.org/wiki/gzip "wikilink")[zlib格式](https://zh.wikipedia.org/wiki/zlib "wikilink")。\[1\]Zopfli被认为是目前压缩率最有效的DEFLATE编码器。\[2\]2013年2月，[Google](../Page/Google.md "wikilink")将Zopfli算法的一个参考实现以[Apache许可证](../Page/Apache许可证.md "wikilink")2.0发布为[自由软件](../Page/自由软件.md "wikilink")[程序库](../Page/函式庫.md "wikilink")。\[3\]名称Zöpfli是“”的[瑞士德语](../Page/瑞士德语.md "wikilink")[指小](../Page/指小.md "wikilink")，一种不加糖的。\[4\]
+**Zopfli**是一个[数据压缩](../Page/数据压缩.md "wikilink")算法，可以将数据压缩为[DEFLATE](../Page/DEFLATE.md "wikilink")、[gzip或](https://zh.wikipedia.org/wiki/gzip "wikilink")[zlib格式](https://zh.wikipedia.org/wiki/zlib "wikilink")。\[1\]Zopfli被认为是目前压缩率最高的DEFLATE压缩算法。\[2\]2013年2月，[Google](../Page/Google.md "wikilink")将Zopfli算法的一个参考实现以[Apache许可证](../Page/Apache许可证.md "wikilink")2.0发布为[自由软件](../Page/自由软件.md "wikilink")[程序库](../Page/函式庫.md "wikilink")。\[3\]名称Zöpfli是[瑞士德语](../Page/瑞士德语.md "wikilink")“[Zopf](https://zh.wikipedia.org/wiki/辫子面包 "wikilink")”（一种不加糖的花环面包）的[指小](../Page/指小.md "wikilink")形式。\[4\]
 
 ## 属性和使用案例
 

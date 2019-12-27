@@ -7,7 +7,7 @@
   - 2015年9月16日
     NHK放送總局局長板野裕爾在定期記者會上公佈節目播出時間。
   - 2015年11月18日
-    公佈直播當天的第二聲道「紅白幕後Talk Channel」及播出前的宣傳節目「紅白宣傳部」的主持人，為連續兩年擔任的二人搞笑組合「[香蕉人](../Page/香蕉人.md "wikilink")」（[設樂統](../Page/設樂統.md "wikilink")及[日村勇紀](https://zh.wikipedia.org/wiki/日村勇紀 "wikilink")）\[1\]。
+    公佈直播當天的第二聲道「紅白幕後Talk Channel」及播出前的宣傳節目「紅白宣傳部」的主持人，為連續兩年擔任的二人搞笑組合「[香蕉人](../Page/香蕉人.md "wikilink")」（[設樂統](../Page/設樂統.md "wikilink")及[日村勇紀](../Page/日村勇紀.md "wikilink")）\[1\]。
 
 <!-- end list -->
 

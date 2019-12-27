@@ -1144,7 +1144,7 @@ Gary、哈哈</p></td>
 、、<br />
 <a href="../Page/金完宣.md" title="wikilink">金完宣</a>、<a href="https://zh.wikipedia.org/wiki/具荷拉" title="wikilink">具荷拉</a>(<a href="../Page/Kara.md" title="wikilink">Kara</a>)</p></td>
 <td><p><a href="http://sports.shsi.or.kr/">始興市體育館</a><br />
-<small>(<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="https://zh.wikipedia.org/wiki/始興市" title="wikilink">始興市</a><br />
+<small>(<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/始興市.md" title="wikilink">始興市</a><br />
 )</small></p></td>
 <td><p><span style=font-size:110%><strong>8090傳奇特輯</strong></span><br />
 <span style=color:#008000><strong>Running Man隊</strong></span><br />

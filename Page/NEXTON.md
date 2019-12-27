@@ -310,6 +310,7 @@ BaseSon、BaseSon SPICE\*、BaseSon Light的作品請參閱[BaseSon](../Page/Bas
 ### ユメミル
 
   - 2019年5月31日 ガールズ・ブック・メイカー -幸せのリブレット-
+  - 2020年2月28日 ガールズ・ブック・メイカー ～グリムと三人のお姫さま1～
 
 ### KarinProject
 

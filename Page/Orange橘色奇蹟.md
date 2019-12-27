@@ -608,7 +608,7 @@ LETTER22</p></td>
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:改編成電影的日本漫畫](https://zh.wikipedia.org/wiki/Category:改編成電影的日本漫畫 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:長野縣背景作品](https://zh.wikipedia.org/wiki/Category:長野縣背景作品 "wikilink") [Category:日本愛情片](https://zh.wikipedia.org/wiki/Category:日本愛情片 "wikilink") [Category:東寶](https://zh.wikipedia.org/wiki/Category:東寶 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:Comico](https://zh.wikipedia.org/wiki/Category:Comico "wikilink")
 
 1.
-2.  [Orange橘色奇蹟01－金石堂網路書店](http://kingstone.com.tw/book/book_page.asp?kmcode=2019477712932&lid=search&actid=wise)
+2.
 3.
 4.
 5.

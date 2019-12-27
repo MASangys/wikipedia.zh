@@ -267,7 +267,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Lumia_950" title="wikilink">Microsoft Lumia 950</a></p></td>
 <td></td>
-<td><p>1.44 GHz</p></td>
+<td><p>1.82 GHz</p></td>
 <td><p>3 GB</p></td>
 <td><p>32 GB</p></td>
 <td><p>5.2" AMOLED</p></td>
@@ -277,7 +277,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Lumia_950XL" title="wikilink">Microsoft Lumia 950XL</a></p></td>
 <td></td>
-<td><p>1.5 GHz</p></td>
+<td><p>2.0 GHz</p></td>
 <td><p>3 GB</p></td>
 <td><p>32 GB</p></td>
 <td><p>5.7" AMOLED</p></td>

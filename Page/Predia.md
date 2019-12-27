@@ -843,20 +843,44 @@ CD</p></td>
 </tbody>
 </table>
 
+**映像作品**
+
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>發行日期</p></th>
+<th><p>名稱</p></th>
+<th><p>規格</p></th>
+<th><p>其他</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>2019年6月12日</p></td>
+<td><p><strong>predia tour "THE ONE" FINAL ～Supported By LIVE DAM STADIUM～</strong>[36]</p></td>
+<td><p>CRBP-10064 DVD<br />
+CRXP-10005 BD</p></td>
+<td><p>2019年2月2日<strong>"THE ONE"</strong>巡迴最終場紀錄</p></td>
+</tr>
+</tbody>
+</table>
+
 ## 相關團體
 
 ### 麻糬加起司（）
 
-湊與岡村、村上三人在2013年12月，與同事務所的女子樂團[BAND-MAID](../Page/BAND-MAID.md "wikilink")成員的廣瀨茜、遠乃歌波共組[原樂器伴奏演唱團體](https://zh.wikipedia.org/wiki/原音樂 "wikilink")「****」，由湊與村上主唱、岡村負責鍵盤樂器、廣瀨擔當木箱鼓、遠乃彈奏吉他。並曾於2015年9月時發行單曲「**」。\[36\]
-\=== Odd Eye（） === 澤口自2016年開始，固定擔當深夜網路廣播節目「」的每週二助理主持人。以此為契機，澤口與該節目的冠名主持人鷲崎健，以及週三助理主持人青木佑磨三人組成音樂團體「****」。並在2017年9月22日，透過節目所屬廣播公司[文化放送發行原創音樂CD](https://zh.wikipedia.org/wiki/株式會社文化放送 "wikilink")「**」。\[37\]
+湊與岡村、村上三人在2013年12月，與同事務所的女子樂團[BAND-MAID](../Page/BAND-MAID.md "wikilink")成員的廣瀨茜、遠乃歌波共組[原樂器伴奏演唱團體](https://zh.wikipedia.org/wiki/原音樂 "wikilink")「****」，由湊與村上主唱、岡村負責鍵盤樂器、廣瀨擔當木箱鼓、遠乃彈奏吉他。並曾於2015年9月時發行單曲「**」。\[37\]
+\=== Odd Eye（） === 澤口自2016年開始，固定擔當深夜網路廣播節目「」的每週二助理主持人。以此為契機，澤口與該節目的冠名主持人鷲崎健，以及週三助理主持人青木佑磨三人組成音樂團體「****」。並在2017年9月22日，透過節目所屬廣播公司[文化放送發行原創音樂CD](https://zh.wikipedia.org/wiki/株式會社文化放送 "wikilink")「**」。\[38\]
 
 ## 節目出演
 
 ### 電視劇
 
 **2015年**
-\***[給夢的女孩](https://zh.wikipedia.org/wiki/w:ja:夢を与える "wikilink")**\[38\]（暫譯）（2015年5月16日 - 6月6日、[WOWOW](../Page/WOWOW.md "wikilink")）-青山、林、前田、松本、湊、村上等6人飾演[夏帆](../Page/夏帆.md "wikilink")在劇中所屬的二線女子團體「ニャンギャル7」的團員，岡村、櫻子、澤口、水野在劇中亦有客串演出。 **2017年**
-\***[東京妄想女子](../Page/東京白日夢女.md "wikilink")**\[39\] （2017年1月18日-、[NTV](../Page/日本電視台.md "wikilink")）-前田、松本（客串）
+\***[給夢的女孩](https://zh.wikipedia.org/wiki/w:ja:夢を与える "wikilink")**\[39\]（暫譯）（2015年5月16日 - 6月6日、[WOWOW](../Page/WOWOW.md "wikilink")）-青山、林、前田、松本、湊、村上等6人飾演[夏帆](../Page/夏帆.md "wikilink")在劇中所屬的二線女子團體「ニャンギャル7」的團員，岡村、櫻子、澤口、水野在劇中亦有客串演出。 **2017年**
+\***[東京妄想女子](../Page/東京白日夢女.md "wikilink")**\[40\] （2017年1月18日-、[NTV](../Page/日本電視台.md "wikilink")）-前田、松本（客串）
 
 ### 綜藝節目
 
@@ -864,11 +888,11 @@ CD</p></td>
 
 ### 網路直播
 
-  - **prediaの大人のオモチャ箱** （隔週四出演）\[40\] （2014年4月15日 -、[SHOWROOM](https://zh.wikipedia.org/wiki/w:ja:SHOWROOM "wikilink")）
+  - **prediaの大人のオモチャ箱** （隔週四出演）\[41\] （2014年4月15日 -、[SHOWROOM](https://zh.wikipedia.org/wiki/w:ja:SHOWROOM "wikilink")）
 
 ## 定期公演
 
-每月約一至二次不等頻率的公演。常與姊妹團體**PASSPO☆**、**[palet](https://zh.wikipedia.org/wiki/w:ja:palet "wikilink")**等，以及同經紀公司的其他團體舉行共同售票公演，公演亦開放網路同步收看。\[41\]
+每月約一至二次不等頻率的公演。常與姊妹團體**PASSPO☆**、**[palet](https://zh.wikipedia.org/wiki/w:ja:palet "wikilink")**等，以及同經紀公司的其他團體舉行共同售票公演，公演亦開放網路同步收看。\[42\]
 
 ## 演唱會
 
@@ -974,9 +998,10 @@ CD</p></td>
 33. [ファビュラス＜Type-A＞ | pre-dia | ORICON NEWS](https://www.oricon.co.jp/prof/532667/products/1260927/1/)，2018年3月5日查詢。
 34. [白夜のヴィオラにいだかれて(TYPE-A) | pre-dia | ORICON STYLE](http://www.oricon.co.jp/prof/532667/products/1176791/1/)，2016年7月29日查詢。
 35. [Best of predia “THE ONE”(Type-A) | pre-dia | ORICON NEWS](https://www.oricon.co.jp/prof/532667/products/1297238/1/)，2018年9月28日查詢。
-36. [もちとちーずオフィシャルブログ Powered by Ameba](http://ameblo.jp/mochitocheeze/)，2017年4月23日查詢。
-37. [番組からお知らせ！（CD予約受付中＆イベント開催決定） - 鷲崎健のヨルナイト×ヨルナイト](http://www.joqr.co.jp/yonayona/2017/10/cd.html)，2017年10月2日查詢。
-38. [predia、犬童一心監督作品・WOWOW連続ドラマW「夢を与える」に出演決定！｜prediaオフィシャルブログ Powered by Ameba](http://ameblo.jp/pre-dia/entry-12002607719.html)，2017年1月17日查詢。
-39. [【1月18日メディア出演情報】](https://twitter.com/pre_dia/status/821342978530607104)predia官方推特2017年1月17日推文
-40. [prediaの大人のオモチャ箱 - SHOWROOM](https://www.showroom-live.com/predia) predia的SHOWROOM直播頻道。
-41. [定例公演 | H.I.P. HAYASHI INTERNATIONAL PROMOTION](http://www.hipjpn.co.jp/archives/43007) 公演資訊。
+36. [predia tour“THE ONE”FINAL ～Supported By LIVE DAM STADIUM～ | pre-dia | ORICON NEWS](https://www.oricon.co.jp/prof/532667/products/1317881/1/)，2019年12月13日查詢。
+37. [もちとちーずオフィシャルブログ Powered by Ameba](http://ameblo.jp/mochitocheeze/)，2017年4月23日查詢。
+38. [番組からお知らせ！（CD予約受付中＆イベント開催決定） - 鷲崎健のヨルナイト×ヨルナイト](http://www.joqr.co.jp/yonayona/2017/10/cd.html)，2017年10月2日查詢。
+39. [predia、犬童一心監督作品・WOWOW連続ドラマW「夢を与える」に出演決定！｜prediaオフィシャルブログ Powered by Ameba](http://ameblo.jp/pre-dia/entry-12002607719.html)，2017年1月17日查詢。
+40. [【1月18日メディア出演情報】](https://twitter.com/pre_dia/status/821342978530607104)predia官方推特2017年1月17日推文
+41. [prediaの大人のオモチャ箱 - SHOWROOM](https://www.showroom-live.com/predia) predia的SHOWROOM直播頻道。
+42. [定例公演 | H.I.P. HAYASHI INTERNATIONAL PROMOTION](http://www.hipjpn.co.jp/archives/43007) 公演資訊。

@@ -983,7 +983,7 @@ Denuvo声称这项技术不是一个[数字版权管理](../Page/数字版权管
 <tr class="even">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SEGA" title="wikilink">SEGA</a></p></td>
-<td></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2019年电子游戏界" title="wikilink">2019-05-21</a></p></td>
 <td><p>[241]</p></td>
 <td><p>否</p></td>
@@ -1302,7 +1302,7 @@ Denuvo声称这项技术不是一个[数字版权管理](../Page/数字版权管
 <td><p>是[331]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/突變元年：伊甸園之路" title="wikilink">突變元年：伊甸園之路</a></p></td>
+<td><p><a href="../Page/突變元年：伊甸園之路.md" title="wikilink">突變元年：伊甸園之路</a></p></td>
 <td></td>
 <td><p>The Bearded Ladies</p></td>
 <td><p><a href="../Page/2018年电子游戏界.md" title="wikilink">2018-12-04</a></p></td>

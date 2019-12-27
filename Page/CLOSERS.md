@@ -135,6 +135,22 @@
     UNION秘密計畫的人造人實驗中失敗品與次元獸超能兵器靈魂結合的“人造人”，在UNION研究所被不斷進行數次人體實驗，彷彿地獄般痛苦著
     賽特趁研究員不注意而逃離UNION研究所，並展開逃亡之旅……。
 
+### Rattus 嚙鼠小隊
+
+  -
+    聲：（韓）（日）
+    生日：???
+    年齡：???
+    職業：無名者
+
+<!-- end list -->
+
+  -
+    聲：（韓）（日）
+    生日：???
+    年齡：???
+    職業：死神
+
 ### 故事反派
 
   - 卡波克・德克斯
@@ -219,7 +235,7 @@
 
 ## 爭議
 
-2016年7月18日韓國女[聲優](../Page/聲優.md "wikilink")在[推特發布一張穿著](https://zh.wikipedia.org/wiki/推特 "wikilink")「Girls Do Not Need a Prince（女孩不需要王子）」文字的[T恤](../Page/T恤.md "wikilink")後，很快的被Nexon解雇\[67\]。但根據[BBC News報導](https://zh.wikipedia.org/wiki/BBC_News "wikilink")\[68\]，這件T恤是由韓國具有爭議性的極端女權組織[Megalia所售賣](https://zh.wikipedia.org/wiki/Megalia "wikilink")。
+2016年7月18日韓國女[聲優](../Page/聲優.md "wikilink")在[推特發布一張穿著](https://zh.wikipedia.org/wiki/推特 "wikilink")「Girls Do Not Need a Prince（女孩不需要王子）」文字的[T恤](../Page/T恤.md "wikilink")後，很快的被Nexon解雇\[67\]。但根據[BBC News報導](https://zh.wikipedia.org/wiki/BBC_News "wikilink")\[68\]，這件T恤是由韓國具有爭議性的極端女權組織[Megalia](../Page/Megalia.md "wikilink")所售賣。
 
 2017年5月11日，在台港澳地區新增的[泳裝](https://zh.wikipedia.org/wiki/泳裝 "wikilink")[虛擬抽獎](../Page/虛擬抽獎.md "wikilink")，因為要收集整套的難度過高引發眾多玩家不滿，營運商樂意傳播在隔日發起道歉公告\[69\]，並將該虛擬抽獎的商品改成商城販賣\[70\]。玩家向公共政策網路參與平臺提案，希望能改善對線上遊戲的法規\[71\]。
 

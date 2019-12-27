@@ -1,4 +1,4 @@
-《**Switchblade**》是[Core Design开发](https://zh.wikipedia.org/wiki/Core_Design "wikilink")、[Gremlin Graphics](https://zh.wikipedia.org/wiki/Gremlin_Graphics "wikilink")1989年发行的电脑[平台游戏](../Page/平台游戏.md "wikilink")。
+《**Switchblade**》是[Core Design开发](../Page/Core_Design.md "wikilink")、[Gremlin Graphics](https://zh.wikipedia.org/wiki/Gremlin_Graphics "wikilink")1989年发行的电脑[平台游戏](../Page/平台游戏.md "wikilink")。
 
 游戏对应[Amiga](../Page/Amiga.md "wikilink")、[雅达利ST](https://zh.wikipedia.org/wiki/雅达利ST "wikilink")、[ZX Spectrum](https://zh.wikipedia.org/wiki/ZX_Spectrum "wikilink")、[Commodore 64和](https://zh.wikipedia.org/wiki/Commodore_64 "wikilink")[Amstrad CPC电脑](https://zh.wikipedia.org/wiki/Amstrad_CPC "wikilink")。后有1991年的[Amstrad GX4000强化移植版发行](../Page/Amstrad_GX4000.md "wikilink")\[1\]。
 

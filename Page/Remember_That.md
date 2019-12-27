@@ -1,4 +1,4 @@
-《**Remember That**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第8張韓語迷你專輯，於2016年3月28日發行，主打歌曲為《春天的記憶》（）\[1\]。
+《**Remember That**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第8張韓語迷你專輯，於2016年3月28日發行，主打歌曲為〈春天的記憶〉（）\[1\]。
 
 ## 曲目
 

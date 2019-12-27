@@ -1592,7 +1592,7 @@
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Colin_McRae:_Dirt_2" title="wikilink">Colin McRae: Dirt 2</a></em><br />
 <small><em>Dirt 2</em></small></p></td>
 <td><p><span style="display:None">2009-09-08</span> {{#time:F j, Y|2009-09-08}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td><p><a href="../Page/Codemasters.md" title="wikilink">Codemasters</a></p></td>
 <td><p>NA, EU, AUS</p></td>
 <td><p>2-4</p></td>
@@ -2298,7 +2298,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Driver_76" title="wikilink">Driver 76</a></em></p></td>
 <td><p><span style="display:None">2007-05-08</span> {{#time:F j, Y|2007-05-08}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft" title="wikilink">Ubisoft</a></p></td>
 <td><p>NA, AUS, EU</p></td>
 <td><p>2</p></td>
@@ -2566,7 +2566,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/F1_2009_(video_game)" title="wikilink">F1 2009</a></em></p></td>
 <td><p><span style="display:None">2009-11-17</span> {{#time:F j, Y|2009-11-17}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td><p><a href="../Page/Codemasters.md" title="wikilink">Codemasters</a></p></td>
 <td><p>NA, EU, UK, JP</p></td>
 <td><p>?</p></td>
@@ -3084,7 +3084,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Free_Running" title="wikilink">Free Running</a></em></p></td>
 <td><p><span style="display:None">2007-04-05</span> {{#time:F j, Y|2007-04-05}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Core_Design" title="wikilink">Core Design</a></p></td>
+<td><p><a href="../Page/Core_Design.md" title="wikilink">Core Design</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Eidos_Interactive" title="wikilink">Eidos Interactive</a></p></td>
 <td><p>AUS, EU</p></td>
 <td><p>2</p></td>
@@ -3326,7 +3326,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Go!_Sudoku" title="wikilink">Go! Sudoku</a></em></p></td>
 <td><p><span style="display:None">2005-12-02</span> {{#time:F j, Y|2005-12-02}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft" title="wikilink">Ubisoft</a></p></td>
 <td><p>EU, NA, JP</p></td>
 <td><p>2-4</p></td>
@@ -6385,7 +6385,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/OutRun_2006:_Coast_2_Coast" title="wikilink">OutRun 2006: Coast 2 Coast</a></em></p></td>
 <td><p><span style="display:None">2006-03-31</span> {{#time:F j, Y|2006-03-31}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sega" title="wikilink">Sega</a></p></td>
 <td><p>EU, AUS, NA</p></td>
 <td><p>2-6</p></td>
@@ -7201,7 +7201,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Race_Driver_2006" title="wikilink">Race Driver 2006</a></em></p></td>
 <td><p><span style="display:None">2006-06-06</span> {{#time:F j, Y|2006-06-06}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td><p><a href="../Page/Codemasters.md" title="wikilink">Codemasters</a></p></td>
 <td><p>NA</p></td>
 <td><p>2-12</p></td>
@@ -7886,7 +7886,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Smart_Bomb_(video_game)" title="wikilink">Smart Bomb</a></em></p></td>
 <td><p><span style="display:None">2005-05-10</span> {{#time:F j, Y|2005-05-10}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Core_Design" title="wikilink">Core Design</a></p></td>
+<td><p><a href="../Page/Core_Design.md" title="wikilink">Core Design</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Eidos_Interactive" title="wikilink">Eidos Interactive</a></p></td>
 <td><p>NA, JP</p></td>
 <td><p>2-4</p></td>
@@ -9052,7 +9052,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/TOCA_Touring_Car_series#TOCA_Race_Driver_2" title="wikilink">TOCA Race Driver 2: The Ultimate Racing Simulator</a></em></p></td>
 <td><p><span style="display:None">2005-09-01</span> {{#time:F j, Y|2005-09-01}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td><p><a href="../Page/Codemasters.md" title="wikilink">Codemasters</a></p></td>
 <td><p>EU, JP</p></td>
 <td><p>2-12</p></td>
@@ -9536,7 +9536,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Virtua_Tennis_3" title="wikilink">Virtua Tennis 3</a></em></p></td>
 <td><p><span style="display:None">2007-03-26</span> {{#time:F j, Y|2007-03-26}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sega" title="wikilink">Sega</a></p></td>
 <td><p>NA, AUS, EU</p></td>
 <td><p>2-4</p></td>
@@ -9547,7 +9547,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Virtua_Tennis:_World_Tour" title="wikilink">Virtua Tennis: World Tour</a></em></p></td>
 <td><p><span style="display:None">2005-09-01</span> {{#time:F j, Y|2005-09-01}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sega" title="wikilink">Sega</a></p></td>
 <td><p>EU, NA, JP</p></td>
 <td><p>2-4</p></td>

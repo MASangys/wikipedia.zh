@@ -78,7 +78,7 @@ Chara在Flowey死亡後，會出現在玩家面前，解釋他們透過玩家的
 
 ### 主要角色
 
-  - **Frisk**（玩家操縱角色，第七位墜落之子）
+  - **Frisk 弗里斯克**（玩家操縱角色，第八位墜落之子）
 
 <!-- end list -->
 
@@ -103,7 +103,7 @@ Chara在Flowey死亡後，會出現在玩家面前，解釋他們透過玩家的
 
 <!-- end list -->
 
-  - **Toriel**
+  - **Toriel 托丽尔**
 
 <!-- end list -->
 
@@ -116,7 +116,7 @@ Chara在Flowey死亡後，會出現在玩家面前，解釋他們透過玩家的
 
 <!-- end list -->
 
-  - **Sans**
+  - **Sans 衫斯**
 
 <!-- end list -->
 
@@ -133,7 +133,7 @@ Chara在Flowey死亡後，會出現在玩家面前，解釋他們透過玩家的
 
 <!-- end list -->
 
-  - **Papyrus**
+  - **Papyrus 帕派瑞斯**
 
 <!-- end list -->
 
@@ -145,7 +145,7 @@ Chara在Flowey死亡後，會出現在玩家面前，解釋他們透過玩家的
 
 <!-- end list -->
 
-  - **Undyne**
+  - **Undyne 安黛因**
 
 <!-- end list -->
 
@@ -160,7 +160,7 @@ Chara在Flowey死亡後，會出現在玩家面前，解釋他們透過玩家的
 
 <!-- end list -->
 
-  - **Alphys**
+  - **Alphys 艾菲斯**
 
 <!-- end list -->
 
@@ -172,7 +172,7 @@ Chara在Flowey死亡後，會出現在玩家面前，解釋他們透過玩家的
 
 <!-- end list -->
 
-  - **Mettaton**
+  - **Mettaton 镁塔顿**
 
 <!-- end list -->
 
@@ -184,7 +184,7 @@ Chara在Flowey死亡後，會出現在玩家面前，解釋他們透過玩家的
 
 <!-- end list -->
 
-  - **Asgore Dreemurr**
+  - **Asgore Dreemurr 艾斯戈尔 逐梦**
 
 <!-- end list -->
 
@@ -197,7 +197,7 @@ Chara在Flowey死亡後，會出現在玩家面前，解釋他們透過玩家的
 
 <!-- end list -->
 
-  - **Flowey**
+  - **Flowey 小花**
 
 <!-- end list -->
 
@@ -209,7 +209,7 @@ Chara在Flowey死亡後，會出現在玩家面前，解釋他們透過玩家的
 
 <!-- end list -->
 
-  - **Chara**（玩家命名角色，第一位墜落之子）
+  - **Chara 查拉**（玩家命名角色，第一位墜落之子）
 
 <!-- end list -->
 
@@ -219,12 +219,16 @@ Chara在Flowey死亡後，會出現在玩家面前，解釋他們透過玩家的
     但因表象的Asriel拒絕使用力量，而兩人的融合體承受不了人類們的攻擊，在回到地下世界後化作灰燼消逝。此事導致國王打算再次跟人類發起戰爭。
     有一說認為Chara是被人類欺負或遭到家暴，才爬上Ebott山試圖自殺。
     另一說為遊戲裡大部分的旁白或資訊，極有可能是Chara向墜落之子與玩家說明的。Chara在墜落之子掉落後，被墜落之子的決心喚醒。在屠殺結局後，玩家將無法以正常途徑，阻止對遊戲的永久性逆變。
+
+<!-- end list -->
+
+  -
     Toby Fox的推特上向玩家說，有人問應該為墜落之子取甚麼名字，他說：「取你自己的名字。」\[2\]
     若將墜落之子取名為**Chara**時，系統會說「真正的名字。」。
 
 <!-- end list -->
 
-  - **Asriel Dreemurr**
+  - **Asriel Dreemurr 艾斯利尔 逐梦**
 
 <!-- end list -->
 

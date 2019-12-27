@@ -43,7 +43,7 @@
 ## 20世紀初期
 
   - 1901年 - [馬可尼首次接收到橫跨](https://zh.wikipedia.org/wiki/馬可尼 "wikilink")[大西洋](../Page/大西洋.md "wikilink")[無線電信號](https://zh.wikipedia.org/wiki/無線電 "wikilink")
-  - 1899 - 1902 - 首次操作
+  - 1899 - 1902 - 首次操作[無線電報](../Page/無線電報.md "wikilink")
   - 1902 -
   - 1903 - [武西傑水電站](https://zh.wikipedia.org/wiki/武西傑水電站 "wikilink")
   - 1904年 -

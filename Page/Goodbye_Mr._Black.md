@@ -52,7 +52,7 @@ Swan</p></td>
 <tr class="odd">
 <td><p><a href="../Page/宋再臨.md" title="wikilink">宋再臨</a></p></td>
 <td><p>徐宇振</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蔡威賢" title="wikilink">蔡威賢</a></p></td>
+<td><p><a href="../Page/蔡威賢.md" title="wikilink">蔡威賢</a></p></td>
 <td><p><strong>電子媒體PENDA代表、出版社的代表兼總編</strong><br />
 擁有完美人設的天之驕子。韓國最好法學大學的首席入學者，期間除了法學外還兼修了新聞放送學，是非常出色的才子，他相信舆論的力量是比法律更加有力的武器，非常信任群眾的力量。以首席身份進入韓國最好的法律大學，主修新聞放送專業和復仇，是個可怕的秀才。比起法律，他更相信輿論的力量，或者說是大眾的力量。然而他的知識水平跟他的舉動相比，沒眼色造就了他這個戀愛絕緣體。這個“母胎單身”對女人沒什麼興趣。</p></td>
 </tr>

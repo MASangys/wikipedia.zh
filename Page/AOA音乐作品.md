@@ -201,10 +201,19 @@
 <li>發行：2018年5月28日（韓國）</li>
 <li>唱片公司：FNC娛樂</li>
 </ul></td>
-<td></td>
+<td><p>14</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/NEW_MOON_(AOA迷你专辑)" title="wikilink">NEW MOON</a></p></td>
+<td><ul>
+<li>發行：2019年12月13日（韓國）</li>
+<li>唱片公司：FNC娛樂</li>
+</ul></td>
+<td><p>3</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>"—" 表示没有进入排行榜或未在该地区发行</p></td>
 <td></td>
 <td></td>

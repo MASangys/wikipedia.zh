@@ -10,12 +10,12 @@
 
 ## 音樂錄影帶
 
-| 歌名                                                           | 執導                | 首播時間                                                   | 首播媒介                                                   |
-| ------------------------------------------------------------ | ----------------- | ------------------------------------------------------ | ------------------------------------------------------ |
-| Boyz On Fire                                                 | 鄺盛                | 2016年7月19日                                             | [YouTube](https://www.youtube.com/watch?v=MxJva6DEcKQ) |
-| 憂傷來襲                                                         | 2016年8月10日        | [YouTube](https://www.youtube.com/watch?v=qkid_25vjdk) |                                                        |
-| 愛的附加檔案                                                       | 簽唱會及專輯花絮片段        | 2016年10月20日                                            | [各大KTV平台](https://www.youtube.com/watch?v=AxojL1xcoxw) |
-| [Really Really](https://www.youtube.com/watch?v=qTPtIhEPtQQ) | SpeXial、沐旅影像製作工作室 | 2017年3月3日                                              | [LINE TV](http://tv.line.me/tl/1484317?n=c)            |
+| 歌名                                                           | 執導                | 首播時間                                                   | 首播媒介                                                                                    |
+| ------------------------------------------------------------ | ----------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| Boyz On Fire                                                 | 鄺盛                | 2016年7月19日                                             | [YouTube](https://www.youtube.com/watch?v=MxJva6DEcKQ)                                  |
+| 憂傷來襲                                                         | 2016年8月10日        | [YouTube](https://www.youtube.com/watch?v=qkid_25vjdk) |                                                                                         |
+| 愛的附加檔案                                                       | 簽唱會及專輯花絮片段        | 2016年10月20日                                            | [各大KTV平台](https://www.youtube.com/watch?v=AxojL1xcoxw)                                  |
+| [Really Really](https://www.youtube.com/watch?v=qTPtIhEPtQQ) | SpeXial、沐旅影像製作工作室 | 2017年3月3日                                              | [LINE TV](https://web.archive.org/web/20181212040804/https://tv.line.me/tl/1484317?n=c) |
 
 ## 派台歌成績
 

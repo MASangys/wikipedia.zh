@@ -224,7 +224,7 @@ local list = {
 `   { 'IT DoNT', 1 },`
 `   { 'Itemx', 3 },`
 `   { 'Ivysia', 45, nickname = '艾薇希亞' },`
-`   { 'Jacklamf1d14', 314 },`
+`   { 'Jacklamf1d14', 323 },`
 `   { 'Jackyang721', 3 },`
 `   { 'Jacueni', 2 },`
 `   { 'Jasonforce', 6 },`
@@ -323,7 +323,7 @@ local list = {
 `   { 'Mike8411251995', 205 },`
 `   { 'Mikepanhu', 13 },`
 `   { 'Millionhere', 1 },   `
-`   { 'Milkypine', 75 },`
+`   { 'Milkypine', 85 },`
 `   { 'Milopo23', 2 },`
 `   { 'Milotic', 1 },`
 `   { 'Minbean', 32 },`
@@ -354,7 +354,7 @@ local list = {
 `   { 'Nicerelationship', 1 },`
 `   { 'Nick 22645828a', 3 },`
 `   { 'Nickice', 2 },`
-`   { 'Nm9h', 381 },`
+`   { 'Nm9h', 384 },`
 `   { 'No0183', 3 },`
 `   { 'Nod32', 2, nickname = '張張' },`
 `   { 'Nyf', 1 },`
@@ -539,6 +539,7 @@ local list = {
 `   { 'Yookoala', 2 },`
 `   { 'Yoshi', 4 },`
 `   { 'Yoshi谷聲', 6, nickname = '谷聲' },`
+`   { 'Ypaper', 3 },`
 `   { 'Yr', 3 },`
 `   { 'Yu franky', 6 },`
 `   { 'Yucacoffee', 2 },`

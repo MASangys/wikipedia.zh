@@ -9,7 +9,12 @@ end
 function p.table(frame)
 
 `   local args = (frame.args[1] ~= nil) and frame.args or frame:getParent().args`
-`   local cols = isnotempty(args['3rdcoltitle']) and 3 or 2`
+`   local cols`
+`   if isnotempty(args['4thcoltitle']) and isnotempty(args['3rdcoltitle']) then`
+`       cols = 4`
+`   elseif isnotempty(args['3rdcoltitle']) then cols = 3`
+`   else cols = 2`
+`   end`
 
 `   -- compute the maximum cell index`
 `   local cellcount = 0`
@@ -26,20 +31,29 @@ function p.table(frame)
 `   root`
 `       :addClass('wikitable')`
 `       :addClass('sortable')`
-`       :css('font-size', '95%')`
+`       :css('font-size', '85%')`
 
 `   -- add the header row`
 `   local row = root:tag('tr')`
 `   local cell= row:tag('th')`
 `   cell:wikitext('航空公司')`
-`   cell:css('width','12%')`
 `   cell= row:tag('th')`
 `   cell:addClass('unsortable')`
 `   cell:wikitext('目的地')`
 `   if (isnotempty(args['3rdcoltitle'])) then`
 `       cell= row:tag('th')`
 `       cell:css('width','10%')`
+`       if (isnotempty(args['3rdcolunsortable'])) then`
+`           cell:addClass('unsortable')`
+`       end`
 `       cell:wikitext(args['3rdcoltitle'])`
+`   end`
+`   if (isnotempty(args['4thcoltitle'])) then`
+`       cell= row:tag('th')`
+`       if (isnotempty(args['4thcolunsortable'])) then`
+`           cell:addClass('unsortable')`
+`       end`
+`       cell:wikitext(args['4thcoltitle'])`
 `   end`
 `   -- loop over rows`
 `   for j=1,rows do`

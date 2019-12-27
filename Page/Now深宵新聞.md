@@ -20,7 +20,7 @@
   - [2018年](../Page/2018年.md "wikilink")[7月18日凌晨起](https://zh.wikipedia.org/wiki/7月18日 "wikilink")，[ViuTV](../Page/ViuTV.md "wikilink")改為在星期二至五00:30-01:00及星期六01:00-01:30聯播《now深宵新聞》，節目表仍然顯示以《深宵新聞》名義播放。
   - [2018年](../Page/2018年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink")起，《now深宵新聞》改以高清播出，採用新的主播桌和電視螢幕背景，惟節目停止在now.com提供23:00-23:30足本重溫。
   - [2019年](../Page/2019年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink")凌晨起，[ViuTV](../Page/ViuTV.md "wikilink")改為在星期二至五00:00-00:30及星期六00:30-01:00聯播《now深宵新聞》，[2019年](../Page/2019年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")凌晨起改為在星期二至六00:00-00:30聯播。
-  - [2019年](../Page/2019年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")凌晨起，[ViuTV](../Page/ViuTV.md "wikilink")改為在星期二至五02:00-02:30及星期六02:30-03:00聯播《now深宵新聞》，[2019年](../Page/2019年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")凌晨起改為在星期二至六02:00-02:30聯播。
+  - [2019年](../Page/2019年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")凌晨起，[ViuTV](../Page/ViuTV.md "wikilink")改為在星期二至五02:00-02:30及星期六02:30-03:00聯播《now深宵新聞》，[2019年](../Page/2019年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")凌晨起改為在星期二至六02:00-02:30聯播，再於[2019年](../Page/2019年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")凌晨起改回在星期二至五02:00-02:30及星期六02:30-03:00聯播。
 
 ## 播出時段
 
@@ -28,7 +28,8 @@
 
 ### [ViuTV](../Page/ViuTV.md "wikilink")
 
-  - 逢星期二至六凌晨<small>（星期一至五深夜）</small>02:00-02:30。
+  - 逢星期二至五凌晨<small>（星期一至四深夜）</small>02:00-02:30。
+  - 逢星期六凌晨<small>（星期五深夜）</small>02:30-03:00。
   - 星期日及一凌晨<small>（星期六及日深夜）</small>則暫停播映。
 
 ### [now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")

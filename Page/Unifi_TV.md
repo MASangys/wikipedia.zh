@@ -35,16 +35,16 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>103</p></td>
+<td><p>103<sub>HD</sub></p></td>
 <td><p><a href="../Page/TV3_(马来西亚).md" title="wikilink">TV3</a></p></td>
 <td></td>
 <td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/16:9" title="wikilink">16:9</a> <a href="../Page/高清电视.md" title="wikilink">高清电视</a></p></td>
 <td><p><a href="../Page/首要媒体.md" title="wikilink">首要媒体</a>（Media Prima）旗下的马来語综合频道，也有播放<a href="../Page/好莱坞.md" title="wikilink">好莱坞</a>电影，少许英语节目和部分的中文电影。</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>107</p></td>
+<td><p>107<sub>HD</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/NTV7" title="wikilink">NTV7</a></p></td>
 <td></td>
 <td></td>
@@ -53,7 +53,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>108</p></td>
+<td><p>108<sub>HD</sub></p></td>
 <td><p><a href="../Page/八度空间_(电视台).md" title="wikilink">八度空间</a></p></td>
 <td></td>
 <td></td>
@@ -62,7 +62,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>109</p></td>
+<td><p>109<sub>HD</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TV9" title="wikilink">TV9</a></p></td>
 <td></td>
 <td></td>
@@ -71,7 +71,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>110</p></td>
+<td><p>110<sub>HD</sub></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Highlights" title="wikilink">Highlights</a></p></td>
 <td></td>
 <td></td>
@@ -84,8 +84,8 @@
 <td><p>Salam HD</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/16:9" title="wikilink">16:9</a> <a href="../Page/高清电视.md" title="wikilink">高清电视</a></p></td>
 <td><p>Unifi TV首个伊斯兰高清频道。</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -409,7 +409,7 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 <tr class="even">
 <td><p>474<sub>HD</sub></p></td>
 <td><p><a href="../Page/BLUE_ANT_Extreme.md" title="wikilink">BLUE ANT Extreme</a> HD</p></td>
-<td><p>Ultimate 配套</p></td>
+<td><p>免费频道</p></td>
 <td></td>
 <td></td>
 <td><p>BLUE ANT Extreme這是為極限及動作迷而設的一站式頻道，包羅了最流行又驚險的劇集; 及能令你腎上腺素極速飆升的特技節目; 更有眾多匪夷所思的魔幻秀; 還有一系列真人冒險秀。</p></td>
@@ -470,11 +470,12 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>529<sub>HD</sub> (尚未明确即將停播)</p></td>
+<td><p>529<sub>HD</sub> (2020年起即將停播，由TLC取代)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Luxe.TV_HD" title="wikilink">Luxe.TV HD</a></p></td>
 <td></td>
 <td></td>
-<td><p>探索豪華商品及生活為主，提供奢華文化愛好者深度體驗相關藝術文化的視聽享受。報導奢華商品上市、商品展示會、藝術設計等開幕典禮和最新活動訊息及藝術家創作歷程、商品成功故事、香水服裝美食等設計過程專題報導。因为低成本和较少的客户观看。 经过10年历史的老频道广播，马来西亚版Unifi TV电视供应商的LUXE.TV HD总算在将于尚未明确停止传输。</p></td>
+<td><p>探索豪華商品及生活為主，提供奢華文化愛好者深度體驗相關藝術文化的視聽享受。報導奢華商品上市、商品展示會、藝術設計等開幕典禮和最新活動訊息及藝術家創作歷程、商品成功故事、香水服裝美食等設計過程專題報導。</p>
+<p>(因为低成本和较少的客户观看。 经过10年历史的老频道广播，马来西亚版Unifi TV电视供应商的LUXE.TV HD总算在将于2020年停止传输，不過，由TravelXP HD頻道取代)。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -656,7 +657,7 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/16:9" title="wikilink">16:9</a> <a href="../Page/高清电视.md" title="wikilink">高清电视</a></p></td>
-<td><p>FOX SPORTS全日24小時高清播放全球頂尖體育賽事，包括德國甲級足球聯賽，亞冠及亞協盃，F-1，MotoGP，UFC，網球大滿貫，及FOX SPORTS旗艦體育新聞節目：:FOX Sports Central。</p></td>
+<td><p>FOX SPORTS全日24小時高清播放全球頂尖體育賽事，包括德國甲級足球聯賽，亞冠及亞協盃，F-1，MotoGP，UFC，網球大滿貫，及FOX SPORTS旗艦體育新聞節目：FOX Sports Central。</p></td>
 </tr>
 <tr class="even">
 <td><p>707<sub>HD</sub></p></td>
@@ -672,7 +673,7 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 <td><p><a href="https://zh.wikipedia.org/wiki/FOX体育三台" title="wikilink">Fox Sports 3</a> HD</p></td>
 <td></td>
 <td></td>
-<td><p>FOX SPORTS 3全日24小時高清播放緊張刺激賽車和極限運動, 主要直播賽事包括: Formula E電動方程式賽車, 全美房車大賽, 世界超級電單車錦標賽, 以及自由搏擊及經典拳擊。</p></td>
+<td><p>FOX SPORTS 3全日24小時高清播放緊張刺激賽車和極限運動，主要直播賽事包括: Formula E電動方程式賽車，全美房車大賽，世界超級電單車錦標賽，以及自由搏擊及經典拳擊。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -694,56 +695,78 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 
   - BBC First HD
   - Hypp Flicks Plus
-  - Hypp Play
+  - unifi TV Catch Up On Demand
   - TV AlHijrah HD On Demand
   - Snek (PlayTV獨家)
+  - YEAR END SALE (截止12月31日结束)
+  - Star Wars Collection
 
 ## 即将啟播的頻道
 
-**即将来临的频道（2020年1月即将开播，有些频道是在2020年开播(有可能会开播)全新频道）** (仅供参考，一些频道正在争取播放权，一些频道有可能有所更动或取代，需等待官方消息，请留意Unifi TV官网或Unifi TV Facebook Page -Unifi TV Admin Team)
+**即将来临的频道（全新频道將於日後公佈開播詳情）**
+
+仅供参考， 一些频道有可能有所更动或取代，需等待官方消息，请留意Unifi TV官网或Unifi TV Facebook Page -Unifi TV Admin Team
+
+**（重點開播頻道）:注意-恢復接收澳洲的foxtel， 香港的now TV， 毛里求斯的My.T和新西蘭的SKY**
 
   - RTM 新闻频道 HD
   - TV OKEY HD
   - RTM HD Sports
-  - KBS World HD (210频道，以下频道和Astro同步) (正在争取播放权)
-  - Oh\!K HD (213频道，以下频道和Astro同步) (正在争取播放权)
-  - Sony GEM HD (221频道，取代RED By HBO HD) (正在争取播放权)
-  - [中天亚洲台HD](https://zh.wikipedia.org/wiki/中天亚洲台 "wikilink") (231频道) （由于观众需求，此频道取代已停播的[Now lnternational HD](../Page/Now_International.md "wikilink")，从Astro频道商搬到Unifi TV频道商） (正在争取播放权)
-  - [東森亞洲衛視](../Page/東森亞洲衛視.md "wikilink")（ETTV Asia） (235頻道) (正在争取播放权) （2020年1月农历新年期间开播）
-  - [東森亞洲新聞台](../Page/東森亞洲新聞台.md "wikilink")（ETTV News）(261頻道) (正在争取播放权) （2020年1月农历新年期间开播）
-  - [東森亞洲幼幼台](../Page/東森亞洲幼幼台.md "wikilink")（Yoyo TV）(275頻道) (正在争取播放权) （2020年1月农历新年期间开播）
-  - Lifetime Channel (HD) (452頻道，取代Fox Crime HD) (正在爭取播映權)
-  - [AXN](../Page/AXN.md "wikilink") HD (457頻道，以下频道和Astro同步) (正在爭取播映權)
-  - [Discovery Science](../Page/探索科學頻道.md "wikilink") HD (502频道，以下频道和Astro同步) (正在争取播放权)
-  - [Discovery Channel](https://zh.wikipedia.org/wiki/探索频道 "wikilink") HD (503频道，以下频道和Astro同步) (正在争取播放权)
-  - [Discovery Asia](../Page/Discovery_Asia.md "wikilink") HD (504频道，以下频道和Astro同步) (正在争取播放权)
-  - [Animal Planet](https://zh.wikipedia.org/wiki/动物星球 "wikilink") HD (505频道，以下频道和Astro同步) (正在争取播放权)
-  - [歷史頻道](../Page/歷史頻道.md "wikilink") HD (506频道，以下频道和Astro同步) (正在争取播放权)
-  - CRIME+INVESTIGATION HD (510频道，以下频道和Astro同步) (正在争取播放权)
-  - Asian Food Network HD (513频道，以下频道和Astro同步) (正在争取播放权)
-  - DMAX HD (514频道，以下频道和Astro同步) (正在争取播放权)
-  - [Food Network Asia HD](https://zh.wikipedia.org/wiki/美食频道 "wikilink") (515频道，以下频道和Astro同步) (正在争取播放权)
-  - [HGTV HD](https://zh.wikipedia.org/wiki/HGTV_HD "wikilink") (517频道，以下频道和Astro同步) (正在争取播放权)
-  - TLC HD (529频道，以下频道和Astro同步) 此频道取代已停播的LUXE.TV HD (正在争取播放权)
-  - Disney Junior (551頻道，與Astro同步) (正在争取播放权)
-  - 卡通頻道 HD (556頻道，與Astro同步) (正在争取播放权)
-  - Disney Channel (557頻道，與Astro同步) (正在争取播放权)
-  - Disney XD (558頻道，與Astro同步) (正在争取播放权)
-  - CNN 國際新聞網絡 HD (604頻道，與Astro同步) (正在争取播放权)
-  - [Russia Today](https://zh.wikipedia.org/wiki/Russia_Today "wikilink") (613頻道) (正在争取播放权)
-  - Arirang HD (634頻道) (正在争取播放权)
-  - [Eurosport HD](../Page/Eurosport.md "wikilink") (705频道，以下频道和Astro同步) (正在争取播放权)
-  - Unifi TV UHD/4K (901频道) (专属UHD节目)
-  - Love Nature 4K (TBA频道) (正在争取播放权)
+  - Drama Sangat HD
+  - Citra Drama (142頻道)
+  - Horee (143頻道)
+  - Citra Bioskop (144頻道)
+  - Citra Muslim (145頻道)
+  - Citra Dangdut (146頻道)
+  - The Filipino Channel (135頻道)
+  - [Sony GEM](../Page/GEM_TV_ASIA.md "wikilink") HD (221频道，替補原RED By HBO HD編號空缺)
+  - [凤凰卫视中文台HD](https://zh.wikipedia.org/wiki/凤凰卫视中文台 "wikilink") (230频道，与Astro同步) (2020年1月24日农历新年除夕开播)
+  - [东森亚洲卫视HD](https://zh.wikipedia.org/wiki/东森亚洲卫视 "wikilink") (ETTV Asia HD) (235頻道) (2020年1月24日农历新年除夕开播)
+  - [TVB星河频道HD](https://zh.wikipedia.org/wiki/TVB星河频道 "wikilink") (236频道，与Astro同步) (2020年1月24日农历新年除夕开播)
+  - [TVBS-Asia HD](../Page/TVBS-Asia.md "wikilink") (237频道，与Astro同步) (2020年1月24日农历新年除夕开播)
+  - [东森亚洲新闻台HD](../Page/東森亞洲新聞台.md "wikilink")（ETTV News HD）(261頻道)
+  - [神州新闻台HD](https://zh.wikipedia.org/wiki/神州新闻台 "wikilink") (262频道)
+  - [凤凰卫视资讯台HD](https://zh.wikipedia.org/wiki/凤凰卫视资讯台 "wikilink") (263频道，与Astro同步)
+  - [CCTV-4 HD](https://zh.wikipedia.org/wiki/CCTV-4 "wikilink") (264频道，与Astro同步)
+  - [東森亞洲幼幼台](../Page/東森亞洲幼幼台.md "wikilink")（Yoyo TV）(275頻道)
+  - ABP News (301頻道)
+  - Times Now (302頻道)
+  - Star Vijay HD (310頻道，與Astro同步)
+  - MTV India (320頻道)
+  - Zoom (321頻道)
+  - Star Gold (334頻道)
+  - Star Plus (344頻道)
+  - Star Bharat (345頻道)
+  - Colors Rishtey (346頻道)
+  - Lifetime Channel (HD) (452頻道，替補原Fox Crime HD頻道編號空缺)
+  - [AXN](../Page/AXN.md "wikilink") HD (457頻道，替補原Sony Channel HD頻道編號空缺，以下频道和Astro同步)
+  - CRIME+INVESTIGATION HD (502频道，以下频道和Astro同步)
+  - [History](../Page/歷史頻道.md "wikilink") HD (503频道，以下频道和Astro同步)
+  - [Discovery Channel](https://zh.wikipedia.org/wiki/探索频道 "wikilink") HD (504频道，以下频道和Astro同步)
+  - [Discovery Asia](../Page/Discovery_Asia.md "wikilink") HD (505频道，以下频道和Astro同步)
+  - [Animal Planet](https://zh.wikipedia.org/wiki/动物星球 "wikilink") HD (506频道，以下频道和Astro同步) (正在争取播放权)
+  - TLC HD (513频道，以下频道和Astro同步)
+  - Asian Food Network HD (522频道，以下频道和Astro同步) (正在争取播放权)
+  - [Food Network Asia HD](https://zh.wikipedia.org/wiki/美食频道 "wikilink") (523频道，以下频道和Astro同步) (正在争取播放权)
+  - [HGTV HD](https://zh.wikipedia.org/wiki/HGTV_HD "wikilink") (524频道，以下频道和Astro同步) (正在争取播放权)
+  - Travel XP HD (529頻道, 接替LUXE.TV HD)
+  - Mezzo Live HD (536頻道）
+  - 卡通頻道 HD (556頻道，與Astro同步)
+  - ZooMoo HD (560频道)
+  - CNN 國際新聞網絡 HD (604頻道，與Astro同步)
+  - CNBC Asia HD (622頻道，與Astro同步)
+  - [Russia Today](https://zh.wikipedia.org/wiki/Russia_Today "wikilink") (613頻道)
+  - [France 24 (English)](https://zh.wikipedia.org/wiki/法國24 "wikilink") (614频道，以下频道和Astro同步)
+  - TRT World (615频道)
+  - Arirang HD (644頻道)
+  - [Eurosport HD](../Page/Eurosport.md "wikilink") (705频道，以下频道和Astro同步)
+  - Unifi TV UHD/4K Malay (980频道) (专属UHD节目)
+  - Love Nature 4K (985频道)
 
 **即将升级至高清频道** (国营电视台采用数字电视，先透过myFreeview平台播出，过后Unifi TV将在未来全面节目高清之后才正式開播)
 
   - TV1 HD (101频道)
   - TV2 HD (102频道)
-  - TV3 HD (103频道)
-  - NTV7 HD (107频道)
-  - 八度空间HD (108频道)
-  - TV9 HD (109频道)
   - 马新社新闻台 HD (631频道)
 
 ## Unifi TV已停播频道
@@ -753,13 +776,13 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 | 频道  | 标志／名字                                                                   | 升級日期        |
 | --- | ----------------------------------------------------------------------- | ----------- |
 | 612 | [Universal Channel HD](../Page/環球影劇頻道_\(亞洲\).md "wikilink")             | 2011年       |
-| 611 | [Syfy HD](../Page/Syfy_\(亞洲\).md "wikilink")                            | 2011年       |
+| 611 | [Syfy HD](../Page/Syfy_\(亞洲\).md "wikilink")                            |             |
 | 228 | [卫视电影台](https://zh.wikipedia.org/wiki/卫视电影台 "wikilink")                 | 2014年9月     |
-| 116 | HyppSensasi                                                             | 2014年9月     |
+| 116 | HyppSensasi                                                             |             |
 | 225 | [now爆谷台](https://zh.wikipedia.org/wiki/now爆谷台 "wikilink")               | 2014年5月15日  |
 | 553 | [CBeebies](../Page/CBeebies.md "wikilink")                              | 2015年10月12日 |
 | 206 | [衛視中文台](../Page/衛視中文台.md "wikilink")                                    | 2017年       |
-| 620 | [BBC Lifestyle](https://zh.wikipedia.org/wiki/BBC_Lifestyle "wikilink") | 2017年       |
+| 620 | [BBC Lifestyle](https://zh.wikipedia.org/wiki/BBC_Lifestyle "wikilink") |             |
 | 226 | [卫视卡式台](https://zh.wikipedia.org/wiki/卫视卡式台 "wikilink")                 | 2017年4月     |
 | 234 | [TVB8](../Page/TVB8.md "wikilink")                                      | 2018年4月     |
 |     |                                                                         |             |
@@ -768,37 +791,37 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 | 633 | Parlimen Malaysia                                                       | 2019年8月     |
 | 554 | Nickelodeon                                                             | 2019年8月26日  |
 | 561 | BabyFirst                                                               | 2019年9月7日   |
+| 103 | TV3                                                                     | 2019年12月14日 |
+| 107 | NTV7                                                                    |             |
+| 108 | 8TV                                                                     | 2019年12月18日 |
+| 109 | TV9                                                                     |             |
 | 552 | Nick.Jr                                                                 | 2020年       |
 | 101 | TV1                                                                     |             |
 | 102 | TV2                                                                     |             |
-| 103 | TV3                                                                     |             |
-| 107 | NTV7                                                                    |             |
-| 108 | 八度空间                                                                    |             |
-| 109 | TV9                                                                     |             |
 | 631 | 马新社新闻台                                                                  |             |
 |     |                                                                         |             |
 
 **取代、更名並提升级至高清频道**
 
-| 频道               | 标志／名字                                                                      | 改動日期                  | 详细                                                                                                     |
-| ---------------- | -------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------ |
-| 604<sub>HD</sub> | [Nat Geo Music HD](https://zh.wikipedia.org/wiki/Nat_Geo_Music "wikilink") | 2013年8月31日            | 由[Channel V International HD代替](https://zh.wikipedia.org/wiki/Channel_V_International_HD "wikilink")。  |
-| 301<sub>HD</sub> | [UTV Stars HD](https://zh.wikipedia.org/wiki/UTV_Stars "wikilink")         | 2014年9月30日            | 更名為[Bindass Play HD](https://zh.wikipedia.org/wiki/Bindass_Play_HD "wikilink")。                        |
-| 501              | [BBC Knowledge](https://zh.wikipedia.org/wiki/BBC_Knowledge "wikilink")    | 2013年                 | 更名為[BBC地球](https://zh.wikipedia.org/wiki/BBC地球 "wikilink")。                                            |
-| 227              | Screen Red                                                                 | 2015年                 | 2015年起由Screen Red SD改版去高清频道和改名为RED BY HBO HD。                                                          |
-| 603<sub>HD</sub> | Iconcerts HD                                                               | 2017年                 | 2017年起改名为Stingray iConcerts HD。                                                                        |
-| 205              | now芒果台                                                                     | 2015年2月               | 2015年2月1日起由now Jelli HD代替。                                                                             |
-| 111              | EC Inspirasi                                                               | 2015年9月               | 2015年9月1日起由HyppInspirasi HD代替和改版去高清频道。                                                                 |
-| 601              | Channel M                                                                  | 2011年11月28日和2016年6月3日 | 2011年11月28日起由Channel M SD改版去高清频道和改名为tvN HD。                                                            |
-| 113              | Hikmah                                                                     | 2016年                 | 2016年起由Hypp Salam HD代替和改版去高清频道。                                                                        |
-| 221              | [now海润台](https://zh.wikipedia.org/wiki/now海润台 "wikilink")                  | 2016年6月14日            | 2016年6月14日起改名为now华剧台。                                                                                  |
-| 115              | MNC Channel                                                                | 2017年4月               | 2017年4月起改版去Pesona HD，然而Hypp Pesona HD是由HyppTV自创的。                                                      |
-| 602<sub>HD</sub> | [MTV Live HD](https://zh.wikipedia.org/wiki/MTV_Live_HD "wikilink")        | 2017年8月               | 由[MTV Asia HD代替](https://zh.wikipedia.org/wiki/MTV_Asia_HD "wikilink")。                                |
-| 311              | Zee Tamil                                                                  | 2019年4月               | Zee India Networks與馬來西亞Unifi TV終止授權長達兩年合約結束。因應在地印度觀眾需求，更換新电视商Viacom18合作伙伴于指定频道。                        |
-| 333              | Zee Cinema                                                                 |                       |                                                                                                        |
-| 341              | Zee TV                                                                     |                       |                                                                                                        |
-|                  |                                                                            |                       |                                                                                                        |
-| 529<sub>HD</sub> | Luxe.TV HD                                                                 | 尚未明确，正在争取播放权          | 此频道预计可能会停播。France Télévisions旗下LUXE.TV終止授權而停播映和裁减Opuntia S. A. 资源因收视率下跌收视率不理想和下降和广播和版权问题。不過，由TLC HD取代。 |
+| 频道               | 标志／名字                                                                      | 改動日期                  | 详细                                                                                                          |
+| ---------------- | -------------------------------------------------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 604<sub>HD</sub> | [Nat Geo Music HD](https://zh.wikipedia.org/wiki/Nat_Geo_Music "wikilink") | 2013年8月31日            | 由[Channel V International HD代替](https://zh.wikipedia.org/wiki/Channel_V_International_HD "wikilink")。       |
+| 301<sub>HD</sub> | [UTV Stars HD](https://zh.wikipedia.org/wiki/UTV_Stars "wikilink")         | 2014年9月30日            | 更名為[Bindass Play HD](https://zh.wikipedia.org/wiki/Bindass_Play_HD "wikilink")。                             |
+| 501              | [BBC Knowledge](https://zh.wikipedia.org/wiki/BBC_Knowledge "wikilink")    | 2013年                 | 更名為[BBC地球](https://zh.wikipedia.org/wiki/BBC地球 "wikilink")。                                                 |
+| 227              | Screen Red                                                                 | 2015年                 | 2015年起由Screen Red SD改版去高清频道和改名为RED BY HBO HD。                                                               |
+| 603<sub>HD</sub> | Iconcerts HD                                                               | 2017年                 | 2017年起改名为Stingray iConcerts HD。                                                                             |
+| 205              | now芒果台                                                                     | 2015年2月               | 2015年2月1日起由now Jelli HD代替。                                                                                  |
+| 111              | EC Inspirasi                                                               | 2015年9月               | 2015年9月1日起由HyppInspirasi HD代替和改版去高清频道。                                                                      |
+| 601              | Channel M                                                                  | 2011年11月28日和2016年6月3日 | 2011年11月28日起由Channel M SD改版去高清频道和改名为tvN HD。                                                                 |
+| 113              | Hikmah                                                                     | 2016年                 | 2016年起由Hypp Salam HD代替和改版去高清频道。                                                                             |
+| 221              | [now海润台](https://zh.wikipedia.org/wiki/now海润台 "wikilink")                  | 2016年6月14日            | 2016年6月14日起改名为now华剧台。                                                                                       |
+| 115              | MNC Channel                                                                | 2017年4月               | 2017年4月起改版去Pesona HD，然而Hypp Pesona HD是由HyppTV自创的。                                                           |
+| 602<sub>HD</sub> | [MTV Live HD](https://zh.wikipedia.org/wiki/MTV_Live_HD "wikilink")        | 2017年8月               | 由[MTV Asia HD代替](https://zh.wikipedia.org/wiki/MTV_Asia_HD "wikilink")。                                     |
+| 311              | Zee Tamil                                                                  | 2019年4月1日             | Zee India Networks與馬來西亞Unifi TV終止授權長達兩年合約結束。因應在地印度觀眾需求，更換新电视商Viacom 18合作伙伴于指定频道。                            |
+| 333              | Zee Cinema                                                                 |                       |                                                                                                             |
+| 341              | Zee TV                                                                     |                       |                                                                                                             |
+|                  |                                                                            |                       |                                                                                                             |
+| 529<sub>HD</sub> | Luxe.TV HD                                                                 | 2020年，正在争取播放权         | 此频道预计可能会停播。France Télévisions旗下LUXE.TV終止授權而停播映和裁减Opuntia S. A. 资源因收视率下跌收视率不理想和下降和广播和版权问题。不過，由TravelXP HD取代。 |
 
 **已停播頻道**
 
@@ -812,7 +835,7 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 | 560              | [Kidsco](https://zh.wikipedia.org/wiki/Kidsco "wikilink")                               | 2014年2月10日                                                                                            | 頻道商宣佈停播。                                                                                                     |
 | 112              | [Emas](https://zh.wikipedia.org/wiki/Emas "wikilink")                                   | 2014年7月31日                                                                                            | 頻道商宣佈停播。                                                                                                     |
 | 614              | [BBC Entertainment](https://zh.wikipedia.org/wiki/BBC_Entertainment "wikilink")         | 2015年10月                                                                                              | 因應BBC Worldwide全球策略而停播。                                                                                      |
-| 705<sub>HD</sub> | [Fox Football Channel HD](https://zh.wikipedia.org/wiki/Fox_Fotball_Channel "wikilink") | 2015年10月                                                                                              | 頻道商宣佈停播。                                                                                                     |
+| 706<sub>HD</sub> | [Fox Football Channel HD](https://zh.wikipedia.org/wiki/Fox_Fotball_Channel "wikilink") | 2015年10月                                                                                              | 頻道商宣佈停播。                                                                                                     |
 | 561              | [Discovery Kids](https://zh.wikipedia.org/wiki/Discovery_Kids "wikilink")               | 2016年1月                                                                                               |                                                                                                              |
 | 623<sub>HD</sub> | [Fashion TV HD](https://zh.wikipedia.org/wiki/Fashion_TV "wikilink")                    | 2016年1月                                                                                               |                                                                                                              |
 | 121              | TV Direct Showcase                                                                      | 2016年12月                                                                                              | 頻道商宣佈停播。                                                                                                     |
@@ -840,8 +863,8 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 | 711<sub>HD</sub> | MUTV HD                                                                                 | [Manchester United與Unifi](https://zh.wikipedia.org/wiki/Manchester_United_F.C. "wikilink") TV終止授權而停播。 |                                                                                                              |
 | 621              | [Bloomberg TV](https://zh.wikipedia.org/wiki/彭博电视 "wikilink")                           | 2019年9月1日                                                                                             | Bloomberg TV與Unifi TV終止授權而停播因收视率下降和没有遇到商业银行赞助此频道。 \[8\]                                                      |
 | 561<sub>HD</sub> | BabyFirst HD                                                                            | 2019年10月1日                                                                                            | 第一媒體旗下BabyFirst與Unifi TV將合作停播。\[9\]                                                                          |
-| 221<sub>HD</sub> | [RED by HBO](../Page/RED_by_HBO.md "wikilink") HD                                       | HBO旗下RED by HBO與Unifi TV馬來西亞地區停播。\[10\]                                                               |                                                                                                              |
-| 231<sub>HD</sub> | [Now International](../Page/Now_International.md "wikilink") HD                         | 2019年11月15日                                                                                           | Now TV與Unifi TV終止授權而停播因收视率下降。\[11\]                                                                          |
+| 221<sub>HD</sub> | [RED by HBO HD](../Page/RED_by_HBO.md "wikilink")                                       | HBO旗下RED by HBO與Unifi TV馬來西亞地區停播。\[10\]                                                               |                                                                                                              |
+| 231<sub>HD</sub> | [Now International HD](../Page/Now_International.md "wikilink")                         | 2019年11月15日                                                                                           | Now TV與Unifi TV終止授權而停播因收视率下降。\[11\]                                                                          |
 
 ## 参考资料
 

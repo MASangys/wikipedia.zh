@@ -53,7 +53,7 @@
 5.  <http://www.windowscentral.com/new-microsoft-lumia-950-and-lumia-950-xl-slides?utm_medium=slider&utm_campaign=navigation&utm_source=wp>
 6.  <http://www.windowscentral.com/microsoft-lists-lumia-950-and-lumia-950-xl-company-store-ahead-release>
 7.  <http://www.windowscentral.com/nexus-5x-and-6p-vs-lumia-950-and-lumia-950-xl?utm_medium=slider&utm_campaign=navigation&utm_source=wp>
-8.  <http://www.windowscentral.com/lumia-950-and-lumia-950-xl-forums?utm_medium=slider&utm_campaign=navigation&utm_source=wp>
+8.
 9.  <http://www.windowscentral.com/new-high-res-photos-lumia-950-and-950-xl>
 10. <http://www.ithome.com.tw/news/99163>
 11. <http://unwire.hk/2015/10/07/lumia-950-win10/mobile-phone/>

@@ -42,7 +42,7 @@
 
 <!-- end list -->
 
-  - 2015年4月，推出女子團體**[Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")**。
+  - 2015年4月，推出首个女子團體**[Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")**。
 
 <!-- end list -->
 

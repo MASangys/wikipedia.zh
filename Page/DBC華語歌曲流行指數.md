@@ -31,7 +31,7 @@ DBC華語歌曲流行指數是結合DBC每週播放率和DJ評分的總和後，
 | 3  | 你是你本身的傳奇（2）                             | 方皓玟                                                         |
 | 4  | 炮火                                      | [鄭俊弘](../Page/鄭俊弘.md "wikilink")                            |
 | 5  | 雙雙                                      | [Gin Lee](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink") |
-| 6  | 星期一太空漫遊                                 | [Blaster](https://zh.wikipedia.org/wiki/Blaster "wikilink") |
+| 6  | 星期一太空漫遊                                 | [Blaster](../Page/Blaster.md "wikilink")                    |
 | 7  | 告別之前                                    | [陳柏宇](../Page/陳柏宇.md "wikilink")                            |
 | 8  | 休眠                                      | [RubberBand](../Page/RubberBand.md "wikilink")              |
 | 9  | 記住忘記我                                   | [許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink")         |

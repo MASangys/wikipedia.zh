@@ -6,7 +6,7 @@
 
   - [磐越西线](https://zh.wikipedia.org/wiki/磐越西线 "wikilink") （[新津](https://zh.wikipedia.org/wiki/新津市 "wikilink") - [会津若松](https://zh.wikipedia.org/wiki/会津若松站 "wikilink")）
   - [羽越本线](https://zh.wikipedia.org/wiki/羽越本线 "wikilink") （新津 - [酒田](../Page/酒田市.md "wikilink")（山形县））
-  - [信越本线](https://zh.wikipedia.org/wiki/信越本线 "wikilink") （新津-[新潟](https://zh.wikipedia.org/wiki/新潟站 "wikilink")）
+  - [信越本线](https://zh.wikipedia.org/wiki/信越本线 "wikilink") （新津-[新潟](../Page/新潟站.md "wikilink")）
   - [白新线](https://zh.wikipedia.org/wiki/白新线 "wikilink")
   - [米坂线](https://zh.wikipedia.org/wiki/米坂线 "wikilink")
 

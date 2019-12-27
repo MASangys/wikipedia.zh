@@ -82,7 +82,7 @@ iPhone 6s/6s Plus使用了蘋果自家設計的64位元架構Apple A9晶片，�
 
 ## 晶片門事件
 
-由於iPhone 6s所使用的[CPU是由](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[台積電及](https://zh.wikipedia.org/wiki/台積電 "wikilink")[三星等這两家公司代工](https://zh.wikipedia.org/wiki/三星集團 "wikilink")，三星代工的CPU雖然在[製程上較台積電小](https://zh.wikipedia.org/wiki/製程 "wikilink")，但由於台積電也代工的關係，所以臺灣人自己測試稱三星在溫度上卻容易過熱以及效能及電力能耗的表現較差，因此在香港及臺灣這些[意識形態](../Page/意識形態.md "wikilink")主導的地區市場為了開始出現不願意接受三星版本的消費者，而導致非理性退貨潮，
+由於iPhone 6s所使用的[CPU是由](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[台積電及](https://zh.wikipedia.org/wiki/台積電 "wikilink")[三星等這两家公司代工](https://zh.wikipedia.org/wiki/三星集團 "wikilink")，三星代工的CPU雖然在[製程上較台積電小](https://zh.wikipedia.org/wiki/製程 "wikilink")，但由於台積電也代工的關係，所以臺灣人自己測試聲稱三星在溫度上卻容易過熱以及效能及電力能耗的表現較差，但[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[消费者报告](../Page/消费者报告.md "wikilink")及PC Magazine提出實驗證明兩者並無差異\[5\]\[6\] 。但在香港及臺灣這些[意識形態](../Page/意識形態.md "wikilink")主導的地區市場開始出現不願意接受三星版本的消費者，而導致非理性退貨潮，
 
 ## 軼事
 
@@ -90,7 +90,7 @@ iPhone 6s/6s Plus使用了蘋果自家設計的64位元架構Apple A9晶片，�
 
 ## 銷售
 
-第一季度銷售量iPhone 6s／6s plus是7480萬台，銷售量仅比前一代高出0.4%，低于市场预期。\[5\]
+第一季度銷售量iPhone 6s／6s plus是7480萬台，銷售量仅比前一代高出0.4%，低于市场预期。\[7\]
 
 ## 参考资料
 
@@ -107,3 +107,5 @@ iPhone 6s/6s Plus使用了蘋果自家設計的64位元架構Apple A9晶片，�
 3.
 4.
 5.
+6.
+7.

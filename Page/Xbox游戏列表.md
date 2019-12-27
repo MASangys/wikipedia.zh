@@ -6256,7 +6256,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/OutRun_2" title="wikilink">OutRun 2</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Game_Studios" title="wikilink">Microsoft Game Studios</a></p></td>
 <td></td>
 <td></td>
@@ -6266,7 +6266,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <tr class="odd">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/OutRun_2006:_Coast_2_Coast" title="wikilink">OutRun 2006: Coast 2 Coast</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sega" title="wikilink">Sega</a></p></td>
 <td></td>
 <td></td>

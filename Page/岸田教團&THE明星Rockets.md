@@ -135,6 +135,13 @@
 <td><p>1000723086</p></td>
 <td><p>1000723087</p></td>
 </tr>
+<tr class="even">
+<td><p>9th</p></td>
+<td><p>2020年1月29日</p></td>
+<td><p><strong>nameless story</strong></p></td>
+<td></td>
+<td><p>1000757476</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -253,7 +260,7 @@
 </tr>
 <tr class="odd">
 <td><p>nameless story</p></td>
-<td><p>電視動畫《<a href="../Page/科學超電磁砲.md" title="wikilink">科學超電磁砲 T</a>》片頭曲</p></td>
+<td><p>電視動畫《<a href="../Page/科學超電磁砲.md" title="wikilink">科學超電磁砲 T</a>》片尾曲</p></td>
 <td><p>2020年</p></td>
 </tr>
 <tr class="even">

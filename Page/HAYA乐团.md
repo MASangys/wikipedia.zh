@@ -62,6 +62,13 @@
 <td style="text-align: center;"><p><a href="../Page/風潮音樂.md" title="wikilink">風潮音樂</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
+<tr class="even">
+<td style="text-align: center;"><p>6th</p></td>
+<td style="text-align: center;"><p><strong><a href="https://zh.wikipedia.org/wiki/Link(專輯)" title="wikilink">Link</a></strong></p></td>
+<td style="text-align: center;"><p>2019/5/29</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/哈雅盛世" title="wikilink">哈雅盛世</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
 </tbody>
 </table>
 

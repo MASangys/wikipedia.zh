@@ -54,21 +54,26 @@
 
 9月1日，BNK48首度成立的小分隊Mimigumo於「曼谷日本世界博覽會2019」正式亮相。成員為Kaimook、Music、Jaa\[27\]。
 
+11月16日，營運單位於官方臉書公布新分隊Team NV成立及成員轉隊相關訊息（轉隊時間未定）\[28\]。
+
+### 2020年
+
+3月，預定舉辦「BNK48第9張單曲選拔總選舉」開票活動\[29\]。
+
 ## 成員
 
-  - 在泰国，除了本名之外，青少年另有一易于称呼的昵称，在BNK48中，这一昵称常被直接用做成员名称\[28\]。
-
-### Team BIII
+  - 在泰国，除了本名之外，青少年另有一易于称呼的昵称，在BNK48中，这一昵称常被直接用做成员名称\[30\]。
+  - **Team BIII**、**Team NV**、**研究生**分別以「BIII」、「NV」、「研」表示。新分隊Team NV成立及成員轉隊之相關訊息已公布\[31\]。
 
 <table>
 <thead>
 <tr class="header">
+<th><p>所屬隊伍</p></th>
 <th><p>姓名</p></th>
 <th><p>本名</p></th>
-<th><p>拉丁化转写</p></th>
+<th><p>拉丁化轉寫</p></th>
 <th><p>出生日期</p></th>
-<th><p>加入<br />
-期别</p></th>
+<th><p>加入期別</p></th>
 <th><p>備註</p></th>
 <th><p>总选举<br />
 最高<br />
@@ -77,178 +82,429 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>現</p></td>
+<td><p>新</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>研</p></td>
+<td><p>NV</p></td>
+<td><p>Bamboo</p></td>
+<td></td>
+<td><p>Janista Tansiri</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>BIII</p></td>
+<td><p>BIII</p></td>
 <td><p><a href="../Page/丘普朗·阿瑞昆.md" title="wikilink">Cherprang</a></p></td>
 <td></td>
 <td><p>Cherprang Areekul</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td><p>BNK48總隊長[29]</p></td>
-<td><p>1</p></td>
+<td><p><strong>BNK48總隊長</strong>[32]</p></td>
 </tr>
 <tr class="even">
+<td><p>研</p></td>
+<td><p>BIII</p></td>
+<td><p>Faii</p></td>
+<td></td>
+<td><p>Sumitra Duangkaew</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>研</p></td>
+<td><p>研</p></td>
+<td><p>Fifa</p></td>
+<td></td>
+<td><p>Paweethida Sakunpiphat</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>研</p></td>
+<td><p>NV</p></td>
+<td><p>Fond</p></td>
+<td></td>
+<td><p>Natticha Chantaravareelekha</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>研</p></td>
+<td><p>NV</p></td>
+<td><p>Gygee</p></td>
+<td></td>
+<td><p>Nuttakul Pimtongchaikul</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>BIII</p></td>
+<td><p>NV</p></td>
 <td><p>Jaa</p></td>
 <td></td>
 <td><p>Napaphat Worraphuttanon</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
-<td><p>24</p></td>
 </tr>
 <tr class="odd">
+<td><p>BIII</p></td>
+<td><p>BIII</p></td>
 <td><p>Jane</p></td>
 <td></td>
 <td><p>Kunjiranut Intarasin</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
-<td><p>5</p></td>
 </tr>
 <tr class="even">
+<td><p>BIII</p></td>
+<td><p>BIII</p></td>
 <td><p>Jennis</p></td>
 <td></td>
 <td><p>Jennis Oprasert</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td><p>Team BIII副隊長</p></td>
-<td><p>2</p></td>
 </tr>
 <tr class="odd">
+<td><p>BIII</p></td>
+<td><p>BIII</p></td>
 <td><p>Jib</p></td>
 <td></td>
 <td><p>Suchaya Saenkhot</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
-<td><p>32</p></td>
 </tr>
 <tr class="even">
+<td><p>研</p></td>
+<td><p>BIII</p></td>
+<td><p>Juné</p></td>
+<td></td>
+<td><p>Plearnpichaya Komalarajun</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>BIII</p></td>
+<td><p>BIII</p></td>
 <td><p>Kaew</p></td>
 <td></td>
 <td><p>Natruja Chutiwansopon</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td><p>BNK48最年長</p></td>
-<td><p>8</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
+<td><p>BIII</p></td>
+<td><p>NV</p></td>
 <td><p>Kaimook</p></td>
 <td></td>
 <td><p>Warattaya Deesomlert</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
-<td><p>15</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
+<td><p>BIII</p></td>
+<td><p>BIII</p></td>
 <td><p>Kate</p></td>
 <td></td>
 <td><p>Korapat Nilprapa</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>研</p></td>
+<td><p>研</p></td>
+<td><p>Khamin</p></td>
+<td></td>
+<td><p>Manipa Roopanya</p></td>
+<td></td>
+<td><p>2期</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>研</p></td>
+<td><p>BIII</p></td>
+<td><p>Kheng</p></td>
+<td></td>
+<td><p>Juthamas Khonta</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>BIII</p></td>
+<td><p>BIII</p></td>
 <td><p>Korn</p></td>
 <td></td>
 <td><p>Vathusiri Phuwapunyasiri</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
-<td><p>28</p></td>
+</tr>
+<tr class="odd">
+<td><p>研</p></td>
+<td><p>NV</p></td>
+<td><p>Mewnich</p></td>
+<td></td>
+<td><p>Nannaphas Loetnamchoetsakun</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p>BIII</p></td>
+<td><p>BIII</p></td>
 <td><p>Mind</p></td>
 <td></td>
 <td><p>Panisa Srilaloeng</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
-<td><p>16</p></td>
 </tr>
 <tr class="odd">
+<td><p>研</p></td>
+<td><p>BIII</p></td>
+<td><p>Minmin</p></td>
+<td></td>
+<td><p>Rachaya Tupkunanon</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>BIII</p></td>
+<td><p>BIII</p></td>
 <td><p>Miori</p></td>
 <td><p>大久保美織<br />
 </p></td>
 <td><p>Miori Ohkubo</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td><p>创团成员中唯一的日籍成員</p></td>
-<td><p>20</p></td>
+<td><p>創團成員中唯一的日籍成員[33]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
+<td><p>BIII</p></td>
+<td><p>NV</p></td>
 <td><p>Mobile</p></td>
 <td></td>
 <td><p>Pimrapat Phadungwatanachok</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td><p>2018年9月18日－10月15日於AKB48進行短期留學[30][31]</p></td>
-<td><p>4</p></td>
+<td><p>2018年9月18日－10月15日於AKB48進行短期留學[34][35]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
+<td><p>BIII</p></td>
+<td><p>NV</p></td>
 <td><p>Music</p></td>
 <td></td>
 <td><p>Praewa Suthamphong</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
-<td><p>3</p></td>
+</tr>
+<tr class="odd">
+<td><p>研</p></td>
+<td><p>BIII</p></td>
+<td><p>Myyu</p></td>
+<td></td>
+<td><p>Khawisara Singplod</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p>BIII</p></td>
+<td><p>NV</p></td>
 <td><p>Namneung</p></td>
 <td></td>
 <td><p>Milin Dokthian</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
-<td><p>10</p></td>
 </tr>
 <tr class="odd">
+<td><p>BIII</p></td>
+<td><p>NV</p></td>
 <td><p>Namsai</p></td>
 <td></td>
 <td><p>Pichayapa Natha</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
-<td><p>30</p></td>
 </tr>
 <tr class="even">
+<td><p>研</p></td>
+<td><p>NV</p></td>
+<td><p>Natherine</p></td>
+<td></td>
+<td><p>Dusita Kitisarakulchai</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>研</p></td>
+<td><p>NV</p></td>
+<td><p>New</p></td>
+<td></td>
+<td><p>Chanyapuk Numprasop</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>研</p></td>
+<td><p>BIII</p></td>
+<td><p>Niky</p></td>
+<td></td>
+<td><p>Warinrat Yolprasong</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td><p>BNK48最年少</p></td>
+</tr>
+<tr class="odd">
+<td><p>研</p></td>
+<td><p>NV</p></td>
+<td><p>Nine</p></td>
+<td></td>
+<td><p>Phattharanarin Mueanarit</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>研</p></td>
+<td><p>NV</p></td>
+<td><p>Nink</p></td>
+<td></td>
+<td><p>Mananya Kaoju</p></td>
+<td></td>
+<td><p>1期</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>BIII</p></td>
+<td><p>BIII</p></td>
 <td><p>Noey</p></td>
 <td></td>
 <td><p>Kanteera Wadcharathadsanakul</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
-<td><p>7</p></td>
+</tr>
+<tr class="even">
+<td><p>研</p></td>
+<td><p>研</p></td>
+<td><p>Oom</p></td>
+<td></td>
+<td><p>Natcha Krisdhasima</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p>BIII</p></td>
+<td><p>NV</p></td>
 <td><p>Orn</p></td>
 <td></td>
 <td><p>Patchanan Jiajirachote</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
-<td><p>6</p></td>
 </tr>
 <tr class="even">
+<td><p>研</p></td>
+<td><p>研</p></td>
+<td><p>Pakwan</p></td>
+<td></td>
+<td><p>Pakwan Noijaiboon</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>研</p></td>
+<td><p>BIII</p></td>
+<td><p>Panda</p></td>
+<td></td>
+<td><p>Jidrapha Chamchooy</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>研</p></td>
+<td><p>NV</p></td>
+<td><p>Phukkhom</p></td>
+<td></td>
+<td><p>Sirikarn Shinnawatsuwan</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>研</p></td>
+<td><p>BIII</p></td>
+<td><p>Piam</p></td>
+<td></td>
+<td><p>Rinrada Inthaisong</p></td>
+<td></td>
+<td><p>1期</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>BIII</p></td>
+<td><p>BIII</p></td>
 <td><p>Pun</p></td>
 <td></td>
 <td><p>Punsikorn Tiyakorn</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td><p>Team BIII隊長</p></td>
-<td><p>9</p></td>
+<td><p><strong>Team BIII隊長</strong></p></td>
 </tr>
 <tr class="odd">
+<td><p>BIII</p></td>
+<td><p>NV</p></td>
 <td><p>Pupe</p></td>
 <td></td>
 <td><p>Jiradapa Intajak</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td></td>
-<td><p>12</p></td>
+<td><p>預定擔任Team NV副隊長</p></td>
 </tr>
 <tr class="even">
+<td><p>研</p></td>
+<td><p>研</p></td>
+<td><p>Ratah</p></td>
+<td></td>
+<td><p>Ratah Chinkrajangkit</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>BIII</p></td>
+<td><p>NV</p></td>
 <td><p>Satchan</p></td>
 <td><p><br />
 花見咲知彌</p></td>
@@ -256,281 +512,47 @@
 Sachiya Hanami</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td><p>日本與泰國混血[32]</p></td>
-<td><p>17</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tarwaan</p></td>
-<td></td>
-<td><p>Isarapa Thawatpakdee</p></td>
-<td></td>
-<td><p>1期</p></td>
-<td></td>
-<td><p>11</p></td>
+<td><p>日本與泰國混血[36]</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 研究生
-
-<table>
-<thead>
-<tr class="header">
-<th><p>姓名</p></th>
-<th><p>本名</p></th>
-<th><p>拉丁化转写</p></th>
-<th><p>出生日期</p></th>
-<th><p>加入<br />
-期别</p></th>
-<th><p>備註</p></th>
-<th><p>总选举<br />
-最高<br />
-名次</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Nink</p></td>
-<td></td>
-<td><p>Mananya Kaoju</p></td>
-<td></td>
-<td><p>1期</p></td>
-<td></td>
-<td><p>29</p></td>
-</tr>
-<tr class="even">
-<td><p>Piam</p></td>
-<td></td>
-<td><p>Rinrada Inthaisong</p></td>
-<td></td>
-<td><p>1期</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Bamboo</p></td>
-<td></td>
-<td><p>Janista Tansiri</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td><p>18</p></td>
-</tr>
-<tr class="even">
-<td><p>Faii</p></td>
-<td></td>
-<td><p>Sumitra Duangkaew</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Fifa</p></td>
-<td><p>{{lang|th|ปวีณ์ธิดา สกุลพิพัฒน์</p></td>
-<td><p>Paweethida Sakunpiphat</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Fond</p></td>
-<td></td>
-<td><p>Natticha Chantaravareelekha</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td><p>26</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gygee</p></td>
-<td></td>
-<td><p>Nuttakul Pimtongchaikul</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Juné</p></td>
-<td></td>
-<td><p>Plearnpichaya Komalarajun</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td><p>31</p></td>
-</tr>
-<tr class="odd">
-<td><p>Khamin</p></td>
-<td></td>
-<td><p>Manipa Roopanya</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td><p>22</p></td>
-</tr>
-<tr class="even">
-<td><p>Kheng</p></td>
-<td></td>
-<td><p>Juthamas Khonta</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Maira</p></td>
-<td></td>
-<td><p>Maira Kuyama</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Mewnich</p></td>
-<td></td>
-<td><p>Nannaphas Loetnamchoetsakun</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td><p>23</p></td>
-</tr>
-<tr class="odd">
-<td><p>Minmin</p></td>
-<td></td>
-<td><p>Rachaya Tupkunanon</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td><p>19</p></td>
-</tr>
-<tr class="even">
-<td><p>Myyu</p></td>
-<td></td>
-<td><p>Khawisara Singplod</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Natherine</p></td>
-<td></td>
-<td><p>Dusita Kitisarakulchai</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td><p>14</p></td>
-</tr>
-<tr class="even">
-<td><p>New</p></td>
-<td></td>
-<td><p>Chanyapuk Numprasop</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Niky</p></td>
-<td></td>
-<td><p>Warinrat Yolprasong</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td><p>BNK48最年少</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Nine</p></td>
-<td></td>
-<td><p>Phattharanarin Mueanarit</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Oom</p></td>
-<td></td>
-<td><p>Natcha Krisdhasima</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td><p>27</p></td>
-</tr>
-<tr class="even">
-<td><p>Pakwan</p></td>
-<td></td>
-<td><p>Pakwan Noijaiboon</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Panda</p></td>
-<td></td>
-<td><p>Jidrapha Chamchooy</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Phukkhom</p></td>
-<td></td>
-<td><p>Sirikarn Shinnawatsuwan</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td><p>25</p></td>
-</tr>
-<tr class="odd">
-<td><p>Ratah</p></td>
-<td></td>
-<td><p>Ratah Chinkrajangkit</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
+<td><p>研</p></td>
+<td><p>NV</p></td>
 <td><p>Stang</p></td>
 <td></td>
 <td><p>Tarisa Preechatangkit</p></td>
 <td></td>
 <td><p>2期</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
+<td><p>BIII</p></td>
+<td><p>NV</p></td>
+<td><p>Tawaan</p></td>
+<td></td>
+<td><p>Isarapa Thawatpakdee</p></td>
+<td></td>
+<td><p>1期</p></td>
+<td><p>預定擔任Team NV隊長</p></td>
+</tr>
+<tr class="even">
+<td><p>研</p></td>
+<td><p>研</p></td>
 <td><p>View</p></td>
 <td></td>
 <td><p>Kamonthida Rotthawinithi</p></td>
 <td></td>
 <td><p>2期</p></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
+<td><p>研</p></td>
+<td><p>BIII</p></td>
 <td><p>Wee</p></td>
 <td></td>
 <td><p>Weeraya Zhang</p></td>
 <td></td>
 <td><p>2期</p></td>
 <td></td>
-<td><p>13</p></td>
 </tr>
 </tbody>
 </table>
@@ -544,15 +566,18 @@ Sachiya Hanami</p></td>
 <tr class="header">
 <th><p>姓名</p></th>
 <th><p>本名</p></th>
-<th><p>拉丁化转写</p></th>
+<th><p>拉丁化轉寫</p></th>
 <th><p>出生日期</p></th>
 <th><p>加入<br />
 期别</p></th>
-<th><p>最後所属<br />
-队伍</p></th>
+<th><p>最後所屬<br />
+隊伍</p></th>
 <th><p>最後在籍<br />
 日期</p></th>
 <th><p>備註</p></th>
+<th><p>总选举<br />
+最高<br />
+名次</p></th>
 </tr>
 </thead>
 <tbody>
@@ -564,7 +589,8 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>-</p></td>
 <td><p>2017年9月23日</p></td>
-<td><p>畢業[33]</p></td>
+<td><p>畢業[37]</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>Cincin</p></td>
@@ -574,7 +600,8 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>-</p></td>
 <td><p>2017年11月18日</p></td>
-<td><p>畢業[34]</p></td>
+<td><p>畢業[38]</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Jan</p></td>
@@ -583,9 +610,10 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td><p>BIII</p></td>
-<td><p>2018年2月28日[35]</p></td>
+<td><p>2018年2月28日[39]</p></td>
 <td><p>畢業<br />
-所屬經紀公司為[36][37]</p></td>
+所屬經紀公司為[40][41]</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>Can</p></td>
@@ -595,8 +623,9 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>BIII</p></td>
 <td><p>2018年8月26日</p></td>
-<td><p>畢業[38]<br />
+<td><p>畢業[42]<br />
 所屬經紀公司為BNK48 Office</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Izurina</p></td>
@@ -608,14 +637,16 @@ Sachiya Hanami</p></td>
 10期</p></td>
 <td><p>BIII</p></td>
 <td><p>2019年8月27日</p></td>
-<td><p>2017年7月2日自AKB48移籍[39]<br />
+<td><p>2017年7月2日自AKB48移籍[43]<br />
 前AKB48 Team A（初代橫山）<br />
 前AKB48 Team B（倉持）<br />
 前AKB48 Team 4（高橋朱里）<br />
 移籍至CGM48<br />
-當日送別公演[40][41]</p></td>
+當日送別公演[44][45]</p></td>
+<td><p>21</p></td>
 </tr>
 <tr class="even">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -635,13 +666,16 @@ Sachiya Hanami</p></td>
 <tr class="header">
 <th><p>姓名</p></th>
 <th><p>本名</p></th>
-<th><p>拉丁化转写</p></th>
+<th><p>拉丁化轉寫</p></th>
 <th><p>出生日期</p></th>
 <th><p>加入<br />
 期别</p></th>
 <th><p>最後在籍<br />
 日期</p></th>
 <th><p>備註</p></th>
+<th><p>总选举<br />
+最高<br />
+名次</p></th>
 </tr>
 </thead>
 <tbody>
@@ -653,7 +687,8 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>2018年2月12日</p></td>
 <td><p>丹麥與泰國混血<br />
-畢業[42]</p></td>
+畢業[46]</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>Maysa</p></td>
@@ -662,7 +697,8 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td><p>2018年10月31日</p></td>
-<td><p>10月19日畢業公演[43]</p></td>
+<td><p>10月19日畢業公演[47]</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Deenee</p></td>
@@ -671,7 +707,8 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>2期</p></td>
 <td><p>2019年8月11日</p></td>
-<td><p>8月2日畢業公演[44]</p></td>
+<td><p>8月2日畢業公演[48]</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>Aom</p></td>
@@ -681,7 +718,8 @@ Sachiya Hanami</p></td>
 <td><p>2期</p></td>
 <td><p>2019年8月27日</p></td>
 <td><p>移籍至CGM48<br />
-當日送別公演[45][46]</p></td>
+當日送別公演[49][50]</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Cake</p></td>
@@ -690,9 +728,21 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>2期</p></td>
 <td><p>2019年9月27日</p></td>
-<td><p>當日畢業公演[47][48]</p></td>
+<td><p>當日畢業公演[51][52]</p></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p>Maira</p></td>
+<td></td>
+<td><p>Maira Kuyama</p></td>
+<td></td>
+<td><p>2期</p></td>
+<td><p>2019年12月7日</p></td>
+<td><p>11月29日畢業公演[53]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -881,16 +931,16 @@ Sachiya Hanami</p></td>
 <td><p>研究生Cake畢業</p></td>
 <td><p>-1</p></td>
 <td><p>47</p></td>
+<td><p>23</p></td>
 <td><p>24</p></td>
-<td><p>25</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>12月7日</p></td>
+<td><p>研究生Maira畢業</p></td>
+<td><p>-1</p></td>
+<td><p>46</p></td>
+<td><p>23</p></td>
+<td><p>23</p></td>
 </tr>
 </tbody>
 </table>
@@ -968,9 +1018,17 @@ Type B</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
-<td><p>2019年11月</p></td>
+<td><p>2019年10月30日</p></td>
 <td><p>《77 no Suteki na Machi e 》<br />
 （AKB48《<a href="https://zh.wikipedia.org/wiki/去47個美麗城市" title="wikilink">去47個美麗城市</a>》泰語版）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2020年3月</p></td>
+<td><p>《High Tension》<br />
+（AKB48《<a href="../Page/High_Tension.md" title="wikilink">High Tension</a>》泰語版）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1031,7 +1089,7 @@ Type B</p></td>
 
 ### 二期生
 
-  - 應徵總數：10782名\[49\]
+  - 應徵總數：10782名\[54\]
   - 徵選時間：2017年12月25日－2018年2月1日
   - 第一次審査：合格者約300名
   - 第二次審査（2018年2月中旬）：合格者94名
@@ -1040,15 +1098,15 @@ Type B</p></td>
 **最終合格者（27名）**（粗體字者為在籍成員）
 
   -
-    Aom（移籍CGM48）、**Bamboo**、Cake、Deenee、**Faii、Fifa、Fond、Gygee、Juné、Khamin、Kheng、Maira、Mewnich、Minmin、Myyu、Natherine、New、Niky、Nine、Oom、Pakwan、Panda、Phukkhom、Ratah、Stang、View、Wee**
+    Aom（移籍CGM48）、**Bamboo**、Cake、Deenee、**Faii、Fifa、Fond、Gygee、Juné、Khamin、Kheng**、Maira、**Mewnich、Minmin、Myyu、Natherine、New、Niky、Nine、Oom、Pakwan、Panda、Phukkhom、Ratah、Stang、View、Wee**
 
 ## 劇場公演
 
-自2018年5月起、组合与专属剧场“BNK48劇場”进行定期公演\[50\]。 [BNK48_theater.jpg](https://zh.wikipedia.org/wiki/File:BNK48_theater.jpg "fig:BNK48_theater.jpg")
+自2018年5月起、组合与专属剧场“BNK48劇場”进行定期公演\[55\]。 [BNK48_theater.jpg](https://zh.wikipedia.org/wiki/File:BNK48_theater.jpg "fig:BNK48_theater.jpg")
 
 ### Team BIII
 
-1.  [PARTY開始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」#BNK48_Team_BIII_1st_Stage「PARTY開始了」公演 "wikilink")：2018年5月12日\[51\]－\[52\]
+1.  [PARTY開始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」#BNK48_Team_BIII_1st_Stage「PARTY開始了」公演 "wikilink")：2018年5月12日\[56\]－\[57\]
 
 ### 研究生
 
@@ -1176,7 +1234,7 @@ Bluport Huahin</p></td>
 25.
 26.
 27.
-28.
+28. [“BNK48 Team BIII 1st Stage “Party ga Hajimaru yo” จะทำการแสดงรอบสุดท้ายในวันเสาร์ที่ 14 ธันวาคม 2562”](https://www.facebook.com/bnk48official/posts/2434801976647046/). *Facebook*. (2019年11月16日) 2019年12月18日閲覧。
 29.
 30.
 31.
@@ -1199,5 +1257,10 @@ Bluport Huahin</p></td>
 48.
 49.
 50.
-51. 于同月6 - 7日举行了面向Founder Member，不对外售票的首演
+51.
 52.
+53.
+54.
+55.
+56. 于同月6 - 7日举行了面向Founder Member，不对外售票的首演
+57.

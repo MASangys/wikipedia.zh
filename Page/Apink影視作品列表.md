@@ -171,7 +171,7 @@
 <tr class="even">
 <td><p>2019</p></td>
 <td><p>SBS、Netflix</p></td>
-<td><p>《農夫士官學校》</p></td>
+<td><p>《<a href="../Page/農夫士官學校.md" title="wikilink">農夫士官學校</a>》</p></td>
 <td><p>尹普美</p></td>
 <td><p>姜寒星</p></td>
 <td><p>主角</p></td>
@@ -229,18 +229,18 @@
 
 ## 網絡劇
 
-| 年份                                                                    | 播放平台                                                              | 劇集名稱                                           | 參與成員 | 角色   | 性質  | 集數 |
-| --------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------- | ---- | ---- | --- | -- |
-| 2015年                                                                 | [NAVER](../Page/NAVER.md "wikilink") tvcast                       | 《[檢察官愛麗絲](../Page/檢察官愛麗絲.md "wikilink")》       | 金南珠  | 千妍珠  | 女主角 | 全集 |
-| NAVER tvcast／[KBS1](https://zh.wikipedia.org/wiki/KBS第1頻道 "wikilink") | 《》                                                                | 尹普美                                            | U-na | 第二主角 |     |    |
-| 2016年                                                                 | NAVER tvcast                                                      | 《[檢察官愛麗絲2](../Page/檢察官愛麗絲2.md "wikilink")》     | 金南珠  | 千妍珠  | 女主角 |    |
-| 2017年                                                                 | KBS 2TV                                                           | 《[找到那女人吧](../Page/找到那女人吧.md "wikilink")》       | 吳夏榮  | 高夏榮  | 配角  |    |
-| [NAVER tvcast](../Page/NAVER.md "wikilink")                           | 《[淘氣鬼偵探](../Page/淘氣鬼偵探.md "wikilink")》                            | 金南珠                                            | 玉珍京  | 女主角  |     |    |
-| [NAVER tvcast](../Page/NAVER.md "wikilink")                           | 《[羅曼史特別法](../Page/羅曼史特別法.md "wikilink")》                          | 朴初瓏                                            | 徐智慧  | 女主角  |     |    |
-| 2018年                                                                 | [NAVER tvcast](../Page/NAVER.md "wikilink")                       | 《[愛情，在記憶中停留](../Page/愛情，在記憶中停留.md "wikilink")》 | 吳夏榮  | 劉夏莉  | 女主角 | 全集 |
-| [NAVER tvcast](../Page/NAVER.md "wikilink")                           | 《淘氣鬼偵探2》                                                          | 金南珠                                            | 玉珍京  | 女主角  |     |    |
-| [NAVER tvcast](../Page/NAVER.md "wikilink")                           | 《[愛情，在時間中停留](https://zh.wikipedia.org/wiki/愛情，在時間中停留 "wikilink")》 | 吳夏榮                                            | 劉夏莉  | 女主角  |     |    |
-|                                                                       |                                                                   |                                                |      |      |     |    |
+| 年份                                                                    | 播放平台                                           | 劇集名稱                                           | 參與成員 | 角色   | 性質  | 集數 |
+| --------------------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- | ---- | ---- | --- | -- |
+| 2015年                                                                 | [NAVER](../Page/NAVER.md "wikilink") tvcast    | 《[檢察官愛麗絲](../Page/檢察官愛麗絲.md "wikilink")》       | 金南珠  | 千妍珠  | 女主角 | 全集 |
+| NAVER tvcast／[KBS1](https://zh.wikipedia.org/wiki/KBS第1頻道 "wikilink") | 《》                                             | 尹普美                                            | U-na | 第二主角 |     |    |
+| 2016年                                                                 | NAVER tvcast                                   | 《[檢察官愛麗絲2](../Page/檢察官愛麗絲2.md "wikilink")》     | 金南珠  | 千妍珠  | 女主角 |    |
+| 2017年                                                                 | KBS 2TV                                        | 《[找到那女人吧](../Page/找到那女人吧.md "wikilink")》       | 吳夏榮  | 高夏榮  | 配角  |    |
+| [NAVER tvcast](../Page/NAVER.md "wikilink")                           | 《[淘氣鬼偵探](../Page/淘氣鬼偵探.md "wikilink")》         | 金南珠                                            | 玉珍京  | 女主角  |     |    |
+| [NAVER tvcast](../Page/NAVER.md "wikilink")                           | 《[羅曼史特別法](../Page/羅曼史特別法.md "wikilink")》       | 朴初瓏                                            | 徐智慧  | 女主角  |     |    |
+| 2018年                                                                 | [NAVER tvcast](../Page/NAVER.md "wikilink")    | 《[愛情，在記憶中停留](../Page/愛情，在記憶中停留.md "wikilink")》 | 吳夏榮  | 劉夏莉  | 女主角 | 全集 |
+| [NAVER tvcast](../Page/NAVER.md "wikilink")                           | 《淘氣鬼偵探2》                                       | 金南珠                                            | 玉珍京  | 女主角  |     |    |
+| [NAVER tvcast](../Page/NAVER.md "wikilink")                           | 《[愛情，在時間中停留](../Page/愛情，在時間中停留.md "wikilink")》 | 吳夏榮                                            | 劉夏莉  | 女主角  |     |    |
+|                                                                       |                                                |                                                |      |      |     |    |
 
 ## 綜藝節目
 
@@ -265,65 +265,47 @@
 
 |                      |                                                     |                                                         |                                                                   |                                                                                                              |
 | -------------------- | --------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| 日期                   | 頻道                                                  | |節目名稱                                                   | |參與成員                                                             | |備註                                                                                                          |
+| 日期                   | 頻道                                                  | 節目名稱                                                    | 參與成員                                                              | 備註                                                                                                           |
 | 2013年4月27日－2014年1月4日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [我們結婚了](../Page/我們結婚了.md "wikilink")                    | [孫娜恩](../Page/孫娜恩.md "wikilink")                                  | 與[泰民](https://zh.wikipedia.org/wiki/李泰民 "wikilink")（[SHINee](../Page/SHINee.md "wikilink")） 第四季，35-71回 \[3\] |
 | 2013年7月17日－2015年7月8日 | MBC every1                                          | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》      | [尹普美](../Page/尹普美.md "wikilink")                                  | ( 單元主持 )                                                                                                     |
 | 2015年9月2日－2016年3月23日 | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》  | [吳夏榮](../Page/吳夏榮.md "wikilink")                        | ( 單元主持 )                                                          |                                                                                                              |
 | 2016年5月6日－6月3日       | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》巴布亞紐幾內亞篇          | [吳夏榮](../Page/吳夏榮.md "wikilink")                                  |                                                                                                              |
 | 2016年10月1日－2017年3月4日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [我們結婚了](../Page/我們結婚了.md "wikilink")                    | [尹普美](../Page/尹普美.md "wikilink")                                  | 與[崔泰俊](../Page/崔泰俊.md "wikilink") 第四季，第208-231回                                                              |
-| 2016年2月15日－3月15日     | OLIVE                                               | [吃貨48小時 S2](../Page/吃貨48小時.md "wikilink")               | 朴初瓏                                                               | 與鄭鎰勳（BTOB)、權赫秀、文世允                                                                                           |
+| 2016年2月15日－3月15日     | OLIVE                                               | [吃貨48小時 S2](../Page/吃貨48小時.md "wikilink")               | [朴初瓏](../Page/朴初瓏.md "wikilink")                                  | 與鄭鎰勳（BTOB)、權赫秀、文世允                                                                                           |
 | 2017年4月21日－7月14日     | [JTBC](../Page/JTBC.md "wikilink")                  | [犯罪現場3](../Page/Crime_Scene_犯罪現場_\(第三季\).md "wikilink") | [鄭恩地](../Page/鄭恩地.md "wikilink")                                  |                                                                                                              |
 | 2017年5月19日－6月23日     | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》紐西蘭北島篇            | [鄭恩地](../Page/鄭恩地.md "wikilink")                                  |                                                                                                              |
 | 2017年7月21日－12月16日    | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [遊戲樂樂](https://zh.wikipedia.org/wiki/遊戲樂樂 "wikilink")   | [吳夏榮](../Page/吳夏榮.md "wikilink")                                  |                                                                                                              |
 | 2017年9月22日－11月24日    | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》斐濟篇               | [朴初瓏](../Page/朴初瓏.md "wikilink")、[尹普美](../Page/尹普美.md "wikilink") |                                                                                                              |
 | 2018年5月22日－6月19日     | OLIVE                                               | [吃貨48小時 S3](../Page/吃貨48小時.md "wikilink")               | [鄭恩地](../Page/鄭恩地.md "wikilink")                                  | 與[沈素英](../Page/沈素英.md "wikilink") in 西班牙                                                                     |
+| 2018年7月27日－8月17日     | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》沙巴篇               | [金南珠](../Page/金南珠_\(歌手\).md "wikilink")                           | 5月10日出發拍攝，5月15日因頸椎間盤突出受傷提前回國                                                                                 |
 | 2018年7月27日－8月31日     | [JTBC](../Page/JTBC.md "wikilink")                  | [秘密姐姐](../Page/秘密姐姐.md "wikilink")                      | [吳夏榮](../Page/吳夏榮.md "wikilink")                                  | 與[孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink") EP13-18                                                   |
-| 2018年7月27日－8月17日     | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》沙巴篇               | [金南珠](https://zh.wikipedia.org/wiki/金南珠 "wikilink")               | 5月10日出發拍攝，5月15日因頸椎間盤突出受傷提前回國                                                                                 |
-| 2019年10月5日－          | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [戰鬥旅行](../Page/戰鬥旅行.md "wikilink")                      | [尹普美](../Page/尹普美.md "wikilink")                                  | 與[金淑](../Page/金淑.md "wikilink")、[金峻鉉](https://zh.wikipedia.org/wiki/金峻鉉 "wikilink") EP159起                   |
-
-### 固定主持
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>日期</p></td>
-<td><p>頻道</p></td>
-<td><p>|節目名稱</p></td>
-<td><p>|參與成員</p></td>
-<td><p>|備註</p></td>
-</tr>
-<tr class="even">
-<td><p>2017年4月18日至-7月24日</p></td>
-<td></td>
-<td><p><a href="../Page/The_Show_Fan_PD_-_DIY_idol_fan_meeting.md" title="wikilink">The Show Fan PD - DIY idol fan meeting</a></p></td>
-<td><p>南珠</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/Sleepy" title="wikilink">Sleepy</a>（<a href="../Page/Untouchable_(韓國團體).md" title="wikilink">Untouchable</a>）</p></td>
-</tr>
-</tbody>
-</table>
 
 ### 節目主持
 
-| 節目主持列表            |
-| ----------------- |
-| 播放日期              |
-| 2014年11月29日       |
-| 2015年4月25日        |
-| 2015年7月21日        |
-| 2015年7月25日        |
-| 2015年8月5日         |
-| 2016年3月19日        |
-| 2016年3月23、30日     |
-| 2016年5月7日         |
-| 2017年1月30日        |
-| 2017年6月22日、29日    |
-| 2017年7月16日        |
-| 2017年9月16日、23日    |
-| 2018年2月15日－16日    |
-| 2018年4月25日－5月30日  |
-| 2019年4月5日－4月26日   |
-| 2019年6月26日–9月27日  |
-| 2019年11月16、23、30日 |
+| 節目主持列表               |
+| -------------------- |
+| 播放日期                 |
+| 2014年11月29日          |
+| 2015年4月25日           |
+| 2015年7月21日           |
+| 2015年7月25日           |
+| 2015年8月5日            |
+| 2016年3月19日           |
+| 2016年3月23、30日        |
+| 2016年5月7日            |
+| 2017年1月30日           |
+| 2017年4月18日至-7月24日    |
+| 2017年6月22日、29日       |
+| 2017年7月16日           |
+| 2017年12月2日、2018年1月6日 |
+| 2018年2月15日－16日       |
+| 2018年4月25日－5月30日     |
+| 2019年4月5日－4月26日      |
+| 2019年6月26日–9月27日     |
+| 2019年9月12日、13日       |
+| 2019年10月5日－          |
+| 2019年11月16、23、30日    |
+| 2019年12月5日–          |
 
 ### 典禮主持
 
@@ -489,6 +471,7 @@
 | 1月27日                                                 |
 | 1月30日                                                 |
 | 2月16日                                                 |
+| 3月10日                                                 |
 | 3月24日                                                 |
 | 4月2日                                                  |
 | 4月22日                                                 |
@@ -505,12 +488,11 @@
 | [JTBC](../Page/JTBC.md "wikilink")                    |
 | 6月22日                                                 |
 | 6月24日                                                 |
-| 6月25日                                                 |
+| 6月25日、7月2日                                            |
 | 6月28日                                                 |
 | 6月29日                                                 |
 | 7月1日                                                  |
 | 7月2日                                                  |
-| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   |
 | 7月9日                                                  |
 | 7月9日                                                  |
 | 7月14日                                                 |
@@ -522,9 +504,8 @@
 | 9月10日                                                 |
 | 9月15日                                                 |
 | 10月4日                                                 |
-| 10月11日                                                |
+| 10月11日、18日                                            |
 | 10月15日                                                |
-| 10月18日                                                |
 | 10月30日                                                |
 | 11月19日                                                |
 | 11月25日                                                |
@@ -587,13 +568,22 @@
 | 5月16日                                                 |
 | 5月25日                                                 |
 | 6月14日–6月21日                                           |
+| 6月16日、23日                                             |
 | 7月5日                                                  |
 | 7月7日、14日                                              |
 | 7月23日                                                 |
 | 7月30日                                                 |
+| 8月22日、26日、29日                                         |
+| 8月23日                                                 |
+| 8月24日                                                 |
+| 8月24日、31日                                             |
+| 8月25日                                                 |
 | 8月25日、9月1日                                            |
+| 8月26日                                                 |
 | 8月27日                                                 |
 | 9月8日、15日、22日                                          |
+| 9月11日、18日                                             |
+| 9月14日                                                 |
 | 10月13日                                                |
 | 10月30日                                                |
 | 11月13日                                                |
@@ -822,15 +812,24 @@
 | 8月4日        |
 | 8月8日        |
 
+| 2016年廣播節目列表 |
+| ----------- |
+| 播放日期        |
+| 9月22日、29日   |
+| 10月6日       |
+
 | 2017年廣播節目列表 |
 | ----------- |
 | 播放日期        |
+| 7月5日        |
 | 7月12日       |
 
 | 2018年廣播節目列表 |
 | ----------- |
 | 播放日期        |
 | 7月5日        |
+| 7月10日       |
+| 7月12日       |
 | 7月12日       |
 | 7月18日       |
 | 7月19日       |

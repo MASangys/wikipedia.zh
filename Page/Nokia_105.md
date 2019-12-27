@@ -39,6 +39,6 @@
 
 ## 外部連結
 
-  - [Nokia 105——全球](https://www.nokia.com/en_int/phones/sites/default/files/user-guides/105.pdf)
+  - [Nokia 105——全球](https://web.archive.org/web/20170525130045/https://www.nokia.com/en_int/phones/sites/default/files/user-guides/105.pdf)
 
 [Category:诺基亚手机](https://zh.wikipedia.org/wiki/Category:诺基亚手机 "wikilink")

@@ -5,7 +5,7 @@
 ## 外部連結
 
   -
-  - [NBC Sports Website](http://nbcsports.msnbc.com/)
+  - [NBC Sports Website](https://web.archive.org/web/20100319073053/http://nbcsports.msnbc.com/)
 
 [Category:美國電視台](https://zh.wikipedia.org/wiki/Category:美國電視台 "wikilink") [Category:美國高爾夫](https://zh.wikipedia.org/wiki/Category:美國高爾夫 "wikilink")
 

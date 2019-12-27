@@ -42,7 +42,7 @@
   - [三星Galaxy A9 (2018) (國際版)/ 三星Galaxy A9s (中國版)](../Page/三星Galaxy_A9_\(2018\).md "wikilink") \[17\]
   - [三星Galaxy A8s](../Page/三星Galaxy_A8s.md "wikilink") (中國版)
 
-### 2019
+### 2019年
 
   - [三星Galaxy A8s](../Page/三星Galaxy_A8s.md "wikilink") (國際版)
   - [Samsung Galaxy A9 Pro（2019）](../Page/三星Galaxy_A8s.md "wikilink")(南韓版A8s)
@@ -62,7 +62,14 @@
   - [三星Galaxy A70](../Page/三星Galaxy_A70.md "wikilink")
   - [三星Galaxy A70s](https://zh.wikipedia.org/wiki/三星Galaxy_A70s "wikilink")
   - [三星Galaxy A80](../Page/三星Galaxy_A80.md "wikilink")
-  - [三星Galaxy A90 5G](https://zh.wikipedia.org/wiki/三星Galaxy_A90_5G "wikilink")
+  - [三星Galaxy A90 5G](../Page/三星Galaxy_A90_5G.md "wikilink")
+
+### 2020
+
+  - Galaxy A31
+  - Galaxy A51
+  - Galaxy A71
+  - Galaxy A91
 
 ## 旗下平板電腦 \<ref name 'multiple'\>https://www.samsung.com/hk/\]</ref>
 
@@ -672,7 +679,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A20s" title="wikilink">Samsung Galaxy A20s</a></p></td>
 <td><p>SM-A207x</p></td>
-<td><p>11 2019</p></td>
+<td><p>9 2019</p></td>
 <td><p>163.3 x 77.5 x 8</p></td>
 <td><p>183</p></td>
 <td><p>6.5</p></td>
@@ -710,7 +717,7 @@
 <td><p>8 2019</p></td>
 <td><p>158.5 x 74.7 x 7.8</p></td>
 <td><p>169</p></td>
-<td><p>6.5</p></td>
+<td><p>6.4</p></td>
 <td><p>HD+</p>
 <p>(720 x 1560)</p></td>
 <td><p>269</p></td>

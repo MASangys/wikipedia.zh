@@ -778,9 +778,7 @@ Sulli｜朴智星、劉在錫、Gary、哈哈<br />
 <span style=color:#00CED1>趙正治、鄭仁</span></strong></p></td>
 <td><p>收集最多金條</p></td>
 <td><p>Gary、宋智孝、趙正治、鄭仁<strong>勝出</strong><br />
-但由於趙正治、鄭仁的選擇不同<br />
-Gary、宋智孝共獲得金條8條<br />
-趙正治單獨獲得金條4條</p></td>
+但由於趙正治、鄭仁的選擇不同，所以Gary、宋智孝共獲得金條8條，而趙正治單獨獲得金條4條</p></td>
 </tr>
 <tr class="even">
 <td><p>128</p></td>

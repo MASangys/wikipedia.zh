@@ -26,7 +26,7 @@
 2.  [雷军鬼畜视频作者：希望他能努力说好英文](http://www.techweb.com.cn/internet/2015-05-06/2149208.shtml)
 3.  [新神曲诞生：雷军飚英语《Are You OK》火了](http://www.ithome.com/html/it/145180.htm)
 4.  [【循环向】跟着雷总摇起来！Are you OK！](https://www.bilibili.com/video/av2271112/)-Bilibili视频
-5.  [“Are you OK”视频爆红网络 作者：纯粹是为了好玩](http://money.163.com/15/0506/17/AOUU54KK00254TI5.html)
+5.
 6.  [雷军鬼畜视频作者：希望他能努力说好英文](http://www.techweb.com.cn/internet/2015-05-06/2149208.shtml)
 7.
 8.  [Are You OK？雷军现身B站为小米5造势 然而弹幕无节操](http://www.chinaz.com/mobile/2016/0222/506561.shtml)

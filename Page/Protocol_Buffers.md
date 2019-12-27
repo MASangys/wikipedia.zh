@@ -8,7 +8,7 @@
 
 **proto3**提供一個程式產生器，支援[C++](../Page/C++.md "wikilink")、[Java](../Page/Java.md "wikilink") (包含JavaNano)、[Python](../Page/Python.md "wikilink")、[Go](../Page/Go.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[Objective-C](../Page/Objective-C.md "wikilink")和[C\#](https://zh.wikipedia.org/wiki/C_Sharp_\(programming_language\) "wikilink").\[3\]從 3.0.0 Beta 2 版開始支援JavaScript。\[4\]
 
-第三方實作支援[Perl](../Page/Perl.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[Scala](../Page/Scala.md "wikilink")和[Julia](../Page/Julia_\(编程语言\).md "wikilink").\[5\]
+第三方實作支援[Perl](../Page/Perl.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[Dart](../Page/Dart.md "wikilink")、[Scala](../Page/Scala.md "wikilink")和[Julia](../Page/Julia_\(编程语言\).md "wikilink").\[5\]
 
 ## 參考文獻
 

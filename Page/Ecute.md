@@ -64,7 +64,7 @@ ecute的意思是eki（車站）、center（中心處）、universal（綜合）
 
 無特別記載的商場皆由JR東日本車站零售開發營運。 [Ecute_Omiya.jpg](https://zh.wikipedia.org/wiki/File:Ecute_Omiya.jpg "fig:Ecute_Omiya.jpg") [Ueno_Sta_ecute.jpg](https://zh.wikipedia.org/wiki/File:Ueno_Sta_ecute.jpg "fig:Ueno_Sta_ecute.jpg")
 
-  - [大宮站](https://zh.wikipedia.org/wiki/大宮站_\(埼玉縣\) "wikilink") - 位於中央剪票口（南）內，占地2300m<sup>2</sup>，76店鋪。商店概念是「Market Avenue」、環境概念是「Parkside Market」\[6\]。
+  - [大宮站](../Page/大宮站_\(埼玉縣\).md "wikilink") - 位於中央剪票口（南）內，占地2300m<sup>2</sup>，76店鋪。商店概念是「Market Avenue」、環境概念是「Parkside Market」\[6\]。
   - [品川站](https://zh.wikipedia.org/wiki/品川站 "wikilink")（分為兩個營運主體）
       - エキュート品川 - 位於中央剪票口內，占地1600m<sup>2</sup>，46店鋪。共有兩層。商店概念是「Premium Private」、環境概念是は「J-Style Terrace」\[7\]。
       - ecute品川 South\[8\] - 位於中央剪票口內（舊Dila品川），占地1800m<sup>2</sup>，39店鋪。商店概念是「Smart Heartful Style」、環境概念是「Shinagawa Sunny Gardens」。開發營運為JR東日本零售網。

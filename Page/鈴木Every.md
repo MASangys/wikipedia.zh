@@ -18,7 +18,7 @@ Every車系衍生自1982年發售的[鈴木Carry](../Page/鈴木Carry.md "wikili
 
 1982年 - 12月[第七代Carry實行小改款](https://zh.wikipedia.org/wiki/鈴木Carry#第七代ST30/ST31/ST40/ST41/ST90系（1979年-1985年） "wikilink")，微型麵包車ST41V型改稱作**鈴木Every**；自此Every獨立成一個車系。
 
-Image:Suzuki Every 1st 02.jpg|車尾
+Image:Suzuki Every 1st 02.jpg|車尾 <File:An> old Changhe in Pinggu Market (20150214120438).JPG|[昌河汽车](../Page/昌河汽车.md "wikilink")在ST41V基础上生产的CH6320
 
 {{-}}
 

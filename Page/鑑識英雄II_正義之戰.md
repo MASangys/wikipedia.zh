@@ -578,7 +578,7 @@
 <td><center>
 <p>李奧</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/段鈞豪" title="wikilink">段鈞豪</a></p></td>
+<p><a href="../Page/段鈞豪.md" title="wikilink">段鈞豪</a></p></td>
 <td><p>梁遇的經紀人，被蘇蘇殺害並偽裝成因氣喘病發導致車禍</p></td>
 <td><center>
 <p>11-13</p></td>

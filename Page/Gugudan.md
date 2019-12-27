@@ -36,12 +36,6 @@
 
 [thumb](https://zh.wikipedia.org/wiki/file:181106_구구단\(gugudan\)_미니앨범_'Act_5_New_Action'_쇼케이스.jpg "wikilink")
 
-### 2019年：一天成員MANDY加入、發佈《NOT THAT TYPE》9人版本
-
-1月，Jellyfish娛樂邀請[MANDY蒞臨面試及成為](../Page/黃智雯.md "wikilink")「一天成員」。為迎接一天成員MANDY，gugudan 特意重新編排《Not That Type》9人版本。\[16\]\[17\] \[18\]
-
-2月10日，電視播出《NOT THAT TYPE》9人 Perfomance Version，該影片於[翡翠台](../Page/翡翠台.md "wikilink")的《[一個因去跳舞](../Page/一個因去跳舞.md "wikilink")》節目中首播亮相。\[19\]節目播出後，MANDY完成其gugudan一天成員活動。
-
 ## 組合資料
 
 ### 團名由來
@@ -51,11 +45,11 @@
 
 ### 吉祥物
 
-吉祥物（劇團團長）為擁有一雙長耳和戴著眼鏡的精靈Gyu（뀨）。\[20\]
+吉祥物（劇團團長）為擁有一雙長耳和戴著眼鏡的精靈Gyu（뀨）。\[16\]
 
 ### 粉絲名稱
 
-粉絲名稱是단짝（摯友），這代表著 gugudan和粉絲將會是最好的朋友，而這份友誼亦將會一直持續直到永遠，希望“摯友”们能和 gugudan一起製造更多美好、愉快的回憶。\[21\]
+粉絲名稱是단짝（摯友），這代表著 gugudan和粉絲將會是最好的朋友，而這份友誼亦將會一直持續直到永遠，希望“摯友”们能和 gugudan一起製造更多美好、愉快的回憶。\[17\]
 
 ## 成員資料
 
@@ -387,7 +381,7 @@ LineData =
 
 | 年份                | 名稱                | 參與成員            | 備註     |
 | ----------------- | ----------------- | --------------- | ------ |
-| 2016年             | 法國運動鞋FAGUO        | 全員              | \[22\] |
+| 2016年             | 法國運動鞋FAGUO        | 全員              | \[18\] |
 | 2017年             | 線上遊戲 海戰1942       |                 |        |
 | 餐飲 T.G.I FRIDAYS  |                   |                 |        |
 | 2018年             | 便利商店快遞 GS Postbox | MIMI、HANA、世正、慧妍 |        |
@@ -459,10 +453,6 @@ LineData =
 13.
 14.
 15.
-16.
-17.
+16. [뀨](https://twitter.com/gu9udan/status/747794374155599874) twitter
+17. [gugudan 粉絲名：Dear Friend！](http://kpopn.niusnews.com/=K2ed7s61)  kpopn
 18.
-19.
-20. [뀨](https://twitter.com/gu9udan/status/747794374155599874) twitter
-21. [gugudan 粉絲名：Dear Friend！](http://kpopn.niusnews.com/=K2ed7s61)  kpopn
-22.

@@ -2436,14 +2436,27 @@
 <tr class="odd">
 <td><p>12月19日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="../Page/獬豸_(電視劇).md" title="wikilink">獬豸</a></strong></p></td>
-<td><p><a href="../Page/丁一宇.md" title="wikilink">丁一宇</a><br />
-<a href="https://zh.wikipedia.org/wiki/高雅拉" title="wikilink">高雅拉</a><br />
-<a href="../Page/權律.md" title="wikilink">權律</a></p></td>
+<td><p><strong><a href="../Page/檢法男女2.md" title="wikilink">檢法男女2</a></strong></p></td>
+<td><p><a href="../Page/鄭在詠.md" title="wikilink">鄭在詠</a><br />
+<a href="../Page/鄭柔美.md" title="wikilink">鄭柔美</a><br />
+<a href="../Page/吳萬石.md" title="wikilink">吳萬石</a><br />
+<a href="https://zh.wikipedia.org/wiki/魯敏宇" title="wikilink">魯敏宇</a><br />
+</p></td>
 <td></td>
-<td><p>48（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
-（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
+<td><p>32（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
+21（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
 <td><p>[300][301]</p></td>
+</tr>
+<tr class="even">
+<td><p>12月22日</p></td>
+<td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
+<td><p><strong><a href="../Page/德魯納酒店.md" title="wikilink">德魯納酒店</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IU_(藝人)" title="wikilink">IU</a><br />
+<a href="../Page/呂珍九.md" title="wikilink">呂珍九</a></p></td>
+<td></td>
+<td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
+23（<a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a>）</p></td>
+<td><p>[302][303]</p></td>
 </tr>
 </tbody>
 </table>
@@ -2781,3 +2794,5 @@
 299.
 300.
 301.
+302.
+303.

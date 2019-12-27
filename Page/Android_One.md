@@ -10,7 +10,7 @@ Android One由Google-{高}-级副总裁[Sundar Pichai推动](https://zh.wikipedi
 
 2017年起，Google調整產品策略，將Android One提升為中階手機產品，原本針對開發中國家市場的入門產品改為[Android Go](../Page/Android_Go.md "wikilink")。
 
-常見的機型有[小米A1](https://zh.wikipedia.org/wiki/小米A1 "wikilink")、[小米A2](https://zh.wikipedia.org/wiki/小米A2 "wikilink")、[HTC U11 life](https://zh.wikipedia.org/wiki/HTC_U11_life "wikilink")、[Nokia 8.1](https://zh.wikipedia.org/wiki/Nokia_8.1 "wikilink")、[Nokia 7 plus](https://zh.wikipedia.org/wiki/Nokia_7_plus "wikilink")、[Nokia 8 Sirocco](../Page/Nokia_8_Sirocco.md "wikilink")、[Nokia 6.1](../Page/Nokia_6.1.md "wikilink")、[Nokia 6.1 Plus](https://zh.wikipedia.org/wiki/Nokia_6.1_Plus "wikilink")、Nokia 3.1、[LG G7 One等等](https://zh.wikipedia.org/wiki/LG_G7_One "wikilink")。
+常見的機型有[小米A1](https://zh.wikipedia.org/wiki/小米A1 "wikilink")、[小米A2](https://zh.wikipedia.org/wiki/小米A2 "wikilink")、[HTC U11 life](https://zh.wikipedia.org/wiki/HTC_U11_life "wikilink")、[Nokia 8.1](../Page/Nokia_8.1.md "wikilink")、[Nokia 7 plus](https://zh.wikipedia.org/wiki/Nokia_7_plus "wikilink")、[Nokia 8 Sirocco](../Page/Nokia_8_Sirocco.md "wikilink")、[Nokia 6.1](../Page/Nokia_6.1.md "wikilink")、[Nokia 6.1 Plus](../Page/Nokia_6.1_Plus.md "wikilink")、Nokia 3.1、[LG G7 One等等](https://zh.wikipedia.org/wiki/LG_G7_One "wikilink")。
 
 ## 引用
 
@@ -28,6 +28,6 @@ Android One由Google-{高}-级副总裁[Sundar Pichai推动](https://zh.wikipedi
 6.  [Google Gives Out Low-Cost Android One](http://www.technotification.com/2014/09/google-gives-out-low-cost-android-one.html)
 7.
 8.
-9.  [Google officially launches Android One Smartphones in Nepal](http://np.lifestohack.com/google-officially-launches-android-one-smartphones-in-nepal/)
+9.
 10. [Android One: Google's push to rule the smartphone world](http://www.cnet.com/news/android-one-googles-push-to-rule-the-smartphone-world/)
 11. [official Partner in Pakistan for Android One](http://www.qmobile.com.pk/phone-androidone.html/Google)

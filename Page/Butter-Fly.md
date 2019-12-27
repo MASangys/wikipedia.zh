@@ -1,4 +1,4 @@
-**《Butter-Fly》**是[日本](../Page/日本.md "wikilink")歌手[和田光司](../Page/和田光司.md "wikilink")的第一首单曲，也是电视动画《[数码宝贝大冒险](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink")》的片头曲。1999年4月23日首发，2004年8月1日再次发行。该首歌曲也收录于和田光司的专辑《》和《》中。
+**《Butter-Fly》**是[日本](../Page/日本.md "wikilink")已故歌手[和田光司](../Page/和田光司.md "wikilink")的第一首单曲，也是电视动画《[数码宝贝大冒险](https://zh.wikipedia.org/wiki/数码宝贝大冒险 "wikilink")》的片头曲。1999年4月23日首发，2004年8月1日再次发行。该首歌曲也收录于和田光司的专辑《》和《》中。
 
 《Butter-Fly》版本众多，仅以单曲形式发行的便有三个版本，即原版、《Butter-Fly \~Strong Version\~》和《Butter-Fly～tri.Version～》，这三个版本均为和田光司演唱，编曲有所不同。其中《Butter-Fly～tri.Version～》被用作2015年-2018年的OVA《[数码宝贝大冒险tri.](https://zh.wikipedia.org/wiki/数码宝贝大冒险tri. "wikilink")》全六章片头曲。
 

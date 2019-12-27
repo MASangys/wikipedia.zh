@@ -20,5 +20,5 @@
 1.
 2.
 3.
-4.  [ImbaTV直播LOL节目引热议 解说海涛发帖回应](http://gameonline.yesky.com/455/46589955.shtml)
+4.
 5.  [火猫TV被指盗播imbaTV节目 海涛、BBC微博斥其“不厚道”](http://www.yxdown.com/news/201507/209114.html?t)

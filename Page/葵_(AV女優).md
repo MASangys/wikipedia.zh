@@ -6,7 +6,7 @@
   - 出道之前曾擔任\[3\]。
   - 從小學開始吃冰一直到高中\[4\]。
   - 她是[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[迷](https://zh.wikipedia.org/wiki/愛好者 "wikilink")，包括《[烙印勇士](https://zh.wikipedia.org/wiki/烙印勇士 "wikilink")》、《[凡爾賽玫瑰](../Page/凡爾賽玫瑰.md "wikilink")》、《[福星小子](../Page/福星小子.md "wikilink")》，喜歡《[七龍珠](https://zh.wikipedia.org/wiki/七龍珠 "wikilink")》裡面的人物培植人（栽培マン）\[5\]。
-  - 喜歡[春天和](https://zh.wikipedia.org/wiki/春天 "wikilink")[旅行還有](https://zh.wikipedia.org/wiki/旅行 "wikilink")[貓熊](https://zh.wikipedia.org/wiki/貓熊 "wikilink")\[6\]。喜歡吃的東西有[軟糖](https://zh.wikipedia.org/wiki/軟糖 "wikilink")、[章魚燒](../Page/章魚燒.md "wikilink")、[鰻魚](https://zh.wikipedia.org/wiki/鰻魚 "wikilink")、[赤鯥](../Page/赤鯥.md "wikilink")、[麵包](../Page/麵包.md "wikilink")、[竹輪](../Page/竹輪.md "wikilink")、[黃瓜](https://zh.wikipedia.org/wiki/黃瓜 "wikilink")、[草莓](../Page/草莓.md "wikilink")、[奶油起司等等](https://zh.wikipedia.org/wiki/奶油芝士 "wikilink")，不喜歡[冷](../Page/冷.md "wikilink")、[豆沙](https://zh.wikipedia.org/wiki/豆沙 "wikilink")、[巧克力](../Page/巧克力.md "wikilink")、[餅乾](https://zh.wikipedia.org/wiki/餅乾 "wikilink")\[7\]。她也不喜歡[昆蟲和](https://zh.wikipedia.org/wiki/昆蟲 "wikilink")[蛇](../Page/蛇.md "wikilink")，但是喜歡[蜥蜴](../Page/蜥蜴.md "wikilink")\[8\]。
+  - 喜歡[春天和](https://zh.wikipedia.org/wiki/春天 "wikilink")[旅行](../Page/旅行.md "wikilink")還有[貓熊](https://zh.wikipedia.org/wiki/貓熊 "wikilink")\[6\]。喜歡吃的東西有[軟糖](https://zh.wikipedia.org/wiki/軟糖 "wikilink")、[章魚燒](../Page/章魚燒.md "wikilink")、[鰻魚](https://zh.wikipedia.org/wiki/鰻魚 "wikilink")、[赤鯥](../Page/赤鯥.md "wikilink")、[麵包](../Page/麵包.md "wikilink")、[竹輪](../Page/竹輪.md "wikilink")、[黃瓜](https://zh.wikipedia.org/wiki/黃瓜 "wikilink")、[草莓](../Page/草莓.md "wikilink")、[奶油起司等等](https://zh.wikipedia.org/wiki/奶油芝士 "wikilink")，不喜歡[冷](../Page/冷.md "wikilink")、[豆沙](https://zh.wikipedia.org/wiki/豆沙 "wikilink")、[巧克力](../Page/巧克力.md "wikilink")、[餅乾](https://zh.wikipedia.org/wiki/餅乾 "wikilink")\[7\]。她也不喜歡[昆蟲和](https://zh.wikipedia.org/wiki/昆蟲 "wikilink")[蛇](../Page/蛇.md "wikilink")，但是喜歡[蜥蜴](../Page/蜥蜴.md "wikilink")\[8\]。
   - 首次亮相的機會是透過熟人的介紹，因為沒有明確的細節，所以只演出了一部作品並在臉部打上[馬賽克](https://zh.wikipedia.org/wiki/馬賽克 "wikilink")\[9\]。
   - 在「葵」這個[藝名](../Page/藝名.md "wikilink")決定之前曾經有人建議叫做「冴羽葵」\[10\]。
   - 曾在個人[Twitter](../Page/Twitter.md "wikilink")上發文控訴剪髮店家在[染髮](../Page/染髮.md "wikilink")時導致她髮質嚴重受損，生活受到嚴重影響\[11\]。
@@ -104,6 +104,12 @@
   - たっぷりローションで責め勃てる粘着痴女テク連続射精セックス12連発 葵（5月7日）
   - 拝啓、わたくし(愛妻家)単身赴任中に隣に越してきた無愛想な文学女子(巨乳)に不覚にも欲情し、寝取られてしまいました（6月7日）
 
+### 2020年
+
+| 影片番號      | 影片標題                             | 發行日期 | 製作商    | 備註      |
+| --------- | -------------------------------- | ---- | ------ | ------- |
+| FSDSS-007 | 謎のFALENO star専属 この巨乳美女は誰だ！？ 小野夕子 | 1月9日 | FALENO | \[27\]。 |
+
 ### VR
 
   - 長尺VR×S1 超リアルAV体験！Hcup葵の初VRド迫力セックス！【巨乳エステお姉さまの裏オプ・パイズリサービス】【のぞきVR！漫喫の個室でこっそり手コキしてる葵をピーピング】【おっぱい採用されたドM巨乳秘書の下から目線ご奉仕セックス】（2017年9月7日）
@@ -158,7 +164,7 @@
 
 ## 台灣活動
 
-  - 2015年1月，受到有「AV達人」之稱的[一劍浣春秋](../Page/一劍浣春秋.md "wikilink")邀約，首次來台舉辦個人攝影會\[27\]，並於同年12月再度受邀來台一連舉辦三場攝影會\[28\]\[29\]\[30\]。
+  - 2015年1月，受到有「AV達人」之稱的[一劍浣春秋](../Page/一劍浣春秋.md "wikilink")邀約，首次來台舉辦個人攝影會\[28\]，並於同年12月再度受邀來台一連舉辦三場攝影會\[29\]\[30\]\[31\]。
 
 ## 參考資料
 
@@ -208,3 +214,4 @@
 28.
 29.
 30.
+31.

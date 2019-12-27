@@ -1,4 +1,4 @@
-**Filmitsuda**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，成立於1993年3月，由韓國電影導演[張鎮所創立的公司](../Page/張鎮_\(韓國導演\).md "wikilink")，包括電影投資製作、藝人管理等。
+**Filmitsuda**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，成立於1993年3月，由韓國電影導演[張鎮所創立的公司](../Page/張鎮_\(韓國導演\).md "wikilink")，包括電影投資製作、藝人管理等。當前旗下藝人包括[金瑟琪](../Page/金瑟琪.md "wikilink")等多名演員。
 
 ## 旗下藝人
 
@@ -9,6 +9,8 @@
   - [李本](https://zh.wikipedia.org/wiki/李本_\(演員\) "wikilink")
 
   - [高木里奈](https://zh.wikipedia.org/wiki/高木里奈 "wikilink")
+
+  - [金瑟琪](../Page/金瑟琪.md "wikilink")
 
 ## 離開藝人
 
@@ -45,7 +47,10 @@
 
   - [柳德煥](../Page/柳德煥.md "wikilink")
 
-  - [金瑟琪](../Page/金瑟琪.md "wikilink")
-
   -
+## 外部連結
+
+  - [官方網站](https://web.archive.org/web/20080113122439/http://www.filmitsuda.com/)
+  - [官方 Blog](http://blog.naver.com/cwb2852/)
+
 [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")

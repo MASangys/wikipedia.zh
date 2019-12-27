@@ -102,14 +102,14 @@ Blend4Web基本上是基于Blender实时[GLSL](../Page/GLSL.md "wikilink")渲染
 11. ["Blend4Web update adds improved lighting and more"](http://www.blendernation.com/2014/07/25/blend4web-update-adds-improved-lighting-and-more/). BlenderNation.com. Retrieved 2014-08-13.
 12. ["Blend4Web: "The Farm" - Demo einer kleinen virtuellen Welt"](http://echtvirtuell.blogspot.de/2014/09/blend4web-farm-demo-einer-kleine.html). Echt Virtuell. Retrieved 2014-09-18.
 13. ["Can I use WebGL?"](http://caniuse.com/webgl). caniuse.com. Retrieved 2014-08-15.
-14. ["HTML5, the 3D Web, and the Death of Plugins"](http://3dspace.com/2016/02/html5-the-3d-web-and-the-death-of-plugins/). 3dspace.com. Retrieved 2016-02-18.
+14. ["HTML5, the 3D Web, and the Death of Plugins"](http://3dspace.com/2016/02/html5-the-3d-web-and-the-death-of-plugins/) . 3dspace.com. Retrieved 2016-02-18.
 15. ["Blend4Web: енджин за създаване на браузърни 3D сцени и приложения"](https://www.kaldata.com/IT-%D0%9D%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8/Blend4Web-%D0%B5%D0%BD%D0%B4%D0%B6%D0%B8%D0%BD-%D0%B7%D0%B0-%D1%81%D1%8A%D0%B7%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D1%8A%D1%80%D0%BD%D0%B8-3D-%D1%81%D1%86%D0%B5-88641.html). Kaldata: Software, Hardware and Game Reviews. Retrieved 2014-09-04.
 16. ["Real Time 3D watchfaces from Luxury Watches for the Gear S2"](http://www.tizenexperts.com/2016/08/real-time-3d-watchfaces-from-luxury-watches-for-the-gear-s2/). Tizen Experts. Retrieved 2016-08-12.
 17. Cozzi, Patrick. *WebGL Insights*. CRC Press, 2015 ISBN 978-1-49-871607-9.
 18. ["Blend4Web Update: Non Linear Animation and more"](http://www.blendernation.com/2014/09/29/blend4web-update-non-linear-animation-and-more/). BlenderNation.com. Retrieved 2014-09-29.
 19. ["Выпущен фреймворк Blend4Web 14.09"](http://digilinux.ru/2014/09/26/blend4web-14-09/) . digilinux.ru. Retrieved 2014-09-29.
 20. ["Blend4Web: обзор новинки отечественного софтопрома"](http://habrahabr.ru/post/259437/). Habrahabr.ru. Retrieved 2015-06-04.
-21. ["Blend4web: annotations interactives et autres nouveautés"](http://www.benicourt.com/blender/2015/04/blend4web-annotations-interactives/). Greg G.d.Bénicourt. Retrieved 2015-05-29.
+21. ["Blend4web: annotations interactives et autres nouveautés"](http://www.benicourt.com/blender/2015/04/blend4web-annotations-interactives/) . Greg G.d.Bénicourt. Retrieved 2015-05-29.
 22. ["Релиз движка для создания браузерных 3D-приложений Blend4Web 15.05"](http://www.opennet.ru/opennews/art.shtml?num=42303). OpenNet.ru. Retrieved 2015-06-18.
 23. ["Triumph releases Blend4Web 15.12"](http://www.cgchannel.com/2016/01/triumph-releases-blend4web-15-12/). cgchannel.com. Retrieved 2016-02-18.
 24. ["Triumph releases Blend4Web 16.08"](http://www.cgchannel.com/2016/09/triumph-releases-blend4web-16-08/). cgchannel.com. Retrieved 2016-09-14.
@@ -128,7 +128,7 @@ Blend4Web基本上是基于Blender实时[GLSL](../Page/GLSL.md "wikilink")渲染
 37. ["Что выбрать для 3D сайта – Three.js или Blend4Web?"](http://habrahabr.ru/post/262749/). Habrahabr.ru. Retrieved 2015-07-17.
 38. ["New Online Exploring Tools Bring NASA's Journey to Mars to New Generation"](http://www.nasa.gov/press-release/new-online-exploring-tools-bring-nasas-journey-to-mars-to-new-generation). NASA. Retrieved 2015-08-07.
 39. ["Experience Curiosity"](http://eyes.nasa.gov/curiosity/). NASA's Eyes. Retrieved 2015-08-07.
-40. ["Prenez le controle de Curiosity avec Blend4Web"](http://www.benicourt.com/blender/2015/09/prenez-le-controle-de-curiosity-avec-blend4web/). Greg G.d.Bénicourt. Retrieved 2015-09-16.
+40. ["Prenez le controle de Curiosity avec Blend4Web"](http://www.benicourt.com/blender/2015/09/prenez-le-controle-de-curiosity-avec-blend4web/) . Greg G.d.Bénicourt. Retrieved 2015-09-16.
 41. ["Internet 3D: Take the Curiosity Rover for a Spin Right on the NASA Website"](http://www.technology.org/2015/08/11/internet-3d-take-the-curiosity-rover-for-a-spin-right-on-the-nasa-website/). Technology.Org. Retrieved 2015-08-12.
 42. ["Khronos Events - 2015 SIGGRAPH"](https://www.khronos.org/news/events/2015-siggraph). Khronos. Retrieved2015-08-13.
 43. ["Season's Greetings 2016"](http://www.3ds.com/ecards-2016/) . Dassault Systèmes. Retrieved2016-09-14.

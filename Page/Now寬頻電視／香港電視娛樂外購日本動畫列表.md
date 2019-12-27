@@ -741,7 +741,7 @@ Psycho Pass 2</a></p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/舞力四射" title="wikilink">舞力四射</a></p></td>
+<td><p><a href="../Page/舞力四射.md" title="wikilink">舞力四射</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
 <td></td>
@@ -1149,10 +1149,10 @@ Psycho Pass 2</a></p></td>
 <tr class="odd">
 <td></td>
 <td><p>第3輯#6-29</p></td>
-<td><p>24</p></td>
+<td><p>24 &lt;!--|- bgcolor="beige"</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>第4輯</p></td>
+<td><p>50--&gt;</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>註釋：</strong></p>
@@ -1233,7 +1233,7 @@ Psycho Pass 2</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/蠟筆小新" title="wikilink">蠟筆小新</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
-<td><p>#608-</p></td>
+<td><p>#608-625、668-</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1559,6 +1559,27 @@ Psycho Pass 2</a></p></td>
 <td><p>劇場版22</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/机动战士GUNDAM_NT.md" title="wikilink">機動戰士高達NT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/now爆谷台" title="wikilink">now爆谷台</a></p></td>
+<td></td>
+<td><p>2018</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/蠟筆小新：新婚旅行風暴〜奪回廣志大作戰〜.md" title="wikilink">蠟筆小新劇場版：蜜月風暴～拯救老豆大作戰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/now爆谷台" title="wikilink">now爆谷台</a></p></td>
+<td></td>
+<td><p>2019</p></td>
+<td><p>劇場版27</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/NO_GAME_NO_LIFE_遊戲人生.md" title="wikilink">遊戲人生ZERO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/now爆谷台" title="wikilink">now爆谷台</a></p></td>
+<td></td>
+<td><p>2017</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

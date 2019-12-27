@@ -1,4 +1,4 @@
-《**Do姐有問題**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的資訊遊戲節目，共3輯，第1、2輯都是25集，由[鄭裕玲](../Page/鄭裕玲.md "wikilink")、[農夫擔任主持](../Page/農夫_\(組合\).md "wikilink")，第一輯於2016年3月7日起[香港時間](../Page/香港時間.md "wikilink")逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出\[1\]，及於[myTV提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")（集數上傳後兩個月後會刪除），由[樓上特約](https://zh.wikipedia.org/wiki/樓上燕窩莊 "wikilink")。第二輯於2018年3月12日起香港時間逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出\[2\]\[3\]\[4\]，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞特約](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink")。第三輯於2019年7月21日起香港時間逢星期日20:30－21:30在[翡翠台](../Page/翡翠台.md "wikilink")播出\[5\]\[6\]，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞K](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink") Cash贊助。
+《**Do姐有問題**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的資訊遊戲節目，共3輯，第1、2輯都是25集，由[鄭裕玲](../Page/鄭裕玲.md "wikilink")、[農夫擔任主持](../Page/農夫_\(組合\).md "wikilink")，第一輯於2016年3月7日起[香港時間](../Page/香港時間.md "wikilink")逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出\[1\]，及於[myTV提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")（集數上傳後兩個月後會刪除），由[樓上特約](https://zh.wikipedia.org/wiki/樓上燕窩莊 "wikilink")。第二輯於2018年3月12日起香港時間逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出\[2\]\[3\]\[4\]，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞特約](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink")。第三輯於2019年7月21日起香港時間逢星期日20:30－21:30在[翡翠台](../Page/翡翠台.md "wikilink")播出\[5\]\[6\]，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞K](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink") Cash贊助（第1-13集）。
 
 各片段公開答案之前的口頭禪每輯不同，分別為「有問題有答案」（第一輯）、「識Do姐識答案」（第二輯）及「有Do姐有答案」（第三輯）。
 
@@ -680,12 +680,6 @@
 </tbody>
 </table>
 
-|         |                                  |                                                                     |          |
-| ------- | -------------------------------- | ------------------------------------------------------------------- | -------- |
-|         | '''嘉賓                            | '''貨幣                                                               | **所得港元** |
-| 所得港元最高者 | [周柏豪](../Page/周柏豪.md "wikilink") | [約旦第納爾](../Page/約旦第納爾.md "wikilink")                                | 22140    |
-| 所得港元最低者 | [陸浩明](../Page/陸浩明.md "wikilink") | [聖多美和普林西比多布拉](https://zh.wikipedia.org/wiki/聖多美和普林西比多布拉 "wikilink") | 0.78     |
-
 ### 第三輯
 
   - 本輯加入「Do姐常識問答比賽」，嘉賓回答一條常識題，答對可得底分1000分，答錯則有底分500分(如兩組答錯，就每組分別有底分500分)
@@ -1035,14 +1029,28 @@
 <strong><a href="https://zh.wikipedia.org/wiki/拉內利" title="wikilink">拉內利</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/烏茲別克索姆" title="wikilink">烏茲別克索姆</a><br />
 <strong><a href="https://zh.wikipedia.org/wiki/英鎊" title="wikilink">英鎊</a></strong></p></td>
-<td><p>1.76<br />
+<td><p>1.76[9]<br />
 <strong>18252</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
 <td><p>12月8日</p></td>
-<td><p><a href="../Page/陳豪.md" title="wikilink">陳豪</a>、<a href="https://zh.wikipedia.org/wiki/李佳芯" title="wikilink">李佳芯</a><br />
+<td><p><strong><a href="../Page/陳豪.md" title="wikilink">陳豪</a>、<a href="https://zh.wikipedia.org/wiki/李佳芯" title="wikilink">李佳芯</a></strong><br />
 <a href="../Page/蕭正楠.md" title="wikilink">蕭正楠</a>、<a href="../Page/曹永廉.md" title="wikilink">曹永廉</a></p></td>
+<td><p><strong>1800</strong><br />
+1900</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/頭等艙" title="wikilink">頭等艙</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/詹姆斯敦_(聖赫勒拿)" title="wikilink">詹姆斯敦</a></strong><br />
+<a href="https://zh.wikipedia.org/wiki/帕爾米拉_(奇里基省)" title="wikilink">帕爾米拉</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/聖赫勒拿鎊" title="wikilink">聖赫勒拿鎊</a></strong><br />
+<a href="../Page/巴拿馬巴波亞.md" title="wikilink">巴拿馬巴波亞</a></p></td>
+<td><p><strong>18018</strong><br />
+14877</p></td>
+</tr>
+<tr class="odd">
+<td><p>21</p></td>
+<td><p>12月15日</p></td>
+<td><p>精彩笑料大放送</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1089,7 +1097,7 @@
   - [何廣沛](../Page/何廣沛.md "wikilink")（ [夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")）
   - [鄺潔楹](../Page/鄺潔楹.md "wikilink")（ [東京](https://zh.wikipedia.org/wiki/東京 "wikilink")）
   - [周奕瑋](../Page/周奕瑋.md "wikilink")（ [關西](../Page/近畿地方.md "wikilink")）
-  - [鞏姿希](https://zh.wikipedia.org/wiki/鞏姿希 "wikilink")（ [九州](../Page/九州_\(日本\).md "wikilink")）
+  - [鞏姿希](../Page/鞏姿希.md "wikilink")（ [九州](../Page/九州_\(日本\).md "wikilink")）
   - [胡慧冲](../Page/胡慧冲.md "wikilink")（）
   - [梁凱晴](../Page/梁凱晴.md "wikilink")（）
   - [陳貝兒](../Page/陳貝兒.md "wikilink")（）
@@ -1144,6 +1152,9 @@
 | 14 | 2019年10月27日 | 19.1點 |
 | 15 | 2019年11月3日  | 18.9點 |
 | 16 | 2019年11月10日 | 18.9點 |
+| 19 | 2019年12月1日  | 19.4點 |
+| 20 | 2019年12月8日  | 20.0點 |
+| 21 | 2019年12月15日 |       |
 
 ## 獎項
 
@@ -1152,10 +1163,10 @@
 | 獎項                                                                           | 得奬單位   |
 | ---------------------------------------------------------------------------- | ------ |
 | align="left"; colspan="2"|[星和無綫電視大獎2016](../Page/星和無綫電視大獎2016.md "wikilink") |        |
-| 「我最愛TVB綜藝節目主持人」\[9\]                                                         | 鄭裕玲、農夫 |
+| 「我最愛TVB綜藝節目主持人」\[10\]                                                        | 鄭裕玲、農夫 |
 |                                                                              |        |
 | align="left"; colspan="2"|[萬千星輝頒獎典禮2016](../Page/萬千星輝頒獎典禮2016.md "wikilink") |        |
-| 「最佳節目主持」\[10\]                                                               | 鄭裕玲、農夫 |
+| 「最佳節目主持」\[11\]                                                               | 鄭裕玲、農夫 |
 | align="left"; colspan="2"|[觀眾在民間電視大奬](../Page/觀眾在民間電視大奬.md "wikilink")2016   |        |
 | 「民選最佳綜藝資訊節目主持」                                                               | 鄭裕玲、農夫 |
 |                                                                              |        |
@@ -1184,3 +1195,4 @@
 8.
 9.
 10.
+11.

@@ -20,7 +20,7 @@ Tails最早发布于2009年6月23日。其被作为（一个基于[Gentoo的Linu
 
   - [NetworkManager](../Page/NetworkManager.md "wikilink") 用来进行简单的网络配置
 
-  - [Tor Browser](../Page/Tor.md "wikilink") 是一个基于[火狐进行改造以保护匿名性的Web浏览器](https://zh.wikipedia.org/wiki/火狐 "wikilink")，其含有的Torbutton用来保持匿名和对抗[JavaScript](../Page/JavaScript.md "wikilink")，默认使所有的cookies被欺骗为临时cookies；[HTTPS Everywhere](../Page/HTTPS_Everywhere.md "wikilink") 用来启用针对于大部分网站的[Transport Layer Security](https://zh.wikipedia.org/wiki/Transport_Layer_Security "wikilink")，并通过[NoScript](../Page/NoScript.md "wikilink")来限制JavaScript，[Adblock Plus用来移除广告](../Page/Adblock_Plus.md "wikilink")
+  - [Tor Browser](../Page/Tor.md "wikilink") 是一个基于[火狐进行改造以保护匿名性的Web浏览器](https://zh.wikipedia.org/wiki/火狐 "wikilink")，其含有的Torbutton用来保持匿名和对抗[JavaScript](../Page/JavaScript.md "wikilink")，默认使所有的cookies被欺骗为临时cookies；[HTTPS Everywhere](../Page/HTTPS_Everywhere.md "wikilink") 用来启用针对于大部分网站的[Transport Layer Security](https://zh.wikipedia.org/wiki/Transport_Layer_Security "wikilink")，并通过[NoScript](../Page/NoScript.md "wikilink")来限制JavaScript，[uBlock Origin用来移除广告](https://zh.wikipedia.org/wiki/uBlock_Origin "wikilink")
 
   - [Pidgin](../Page/Pidgin.md "wikilink") 使用[OTR协议进行端对端加密](https://zh.wikipedia.org/wiki/Off-the-Record_Messaging "wikilink")[即时通讯](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")
 

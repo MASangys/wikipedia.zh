@@ -11,6 +11,7 @@
   - [三星Galaxy A系列](../Page/三星Galaxy_A系列.md "wikilink") (入門、中階、高階)
   - [三星Galaxy M系列](../Page/三星Galaxy_M系列.md "wikilink") (入門至中階手機)
   - [三星Galaxy XCover 系列](https://zh.wikipedia.org/wiki/三星Galaxy_XCover_系列 "wikilink") (入門三防手機)
+  - 三星Galaxy Fold 系列 (旗艦，可折疊屏幕手機)
 
 ### 已停產
 
@@ -26,7 +27,9 @@
 
 ### 生產中
 
-#### [三星Galaxy Fold系列](https://zh.wikipedia.org/wiki/三星Galaxy_Fold系列 "wikilink")
+#### 三星Galaxy Fold系列
+
+三星可折疊屏幕手機。打開後屏幕可達到7.3"。
 
 #### [三星Galaxy Note系列](../Page/三星Galaxy_Note系列.md "wikilink")
 

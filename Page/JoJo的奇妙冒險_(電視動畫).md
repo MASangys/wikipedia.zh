@@ -145,13 +145,13 @@ JoJo的奇妙冒險GW製作委員會（第四季）</p></td>
 
 主要製作人員有對JoJo系列熱愛的總監津田尙克，經常參與特攝、動作、黑暗奇幻類作品的[小林靖子](../Page/小林靖子.md "wikilink")擔任劇本統籌及從第一季開始擔任音響監督的[岩浪美和](../Page/岩浪美和.md "wikilink")\[2\]。旁白由[大川透](../Page/大川透.md "wikilink")擔任。
 
-## 第一季
+## 第一部與第二部
 
 2012年7月5日舉辦的「荒木飛呂彥原畫展 JoJo展」記者發表會中透露製作第一部與第二部的電視動畫。同年10月深夜時段開始在[TOKYO MX](../Page/東京都會電視台.md "wikilink")、[每日放送](../Page/每日放送.md "wikilink")、[中部日本放送（之後改用CBC電視台表示）](https://zh.wikipedia.org/wiki/CBC電視台_\(日本\) "wikilink")、[東北放送](https://zh.wikipedia.org/wiki/東北放送 "wikilink")、[RKB每日放送](../Page/RKB每日放送.md "wikilink")、[BS11等台播出](../Page/日本BS放送.md "wikilink")。
 
 第1話至第9話內容為原作第一部《[幻影血脈](../Page/幻影血脈.md "wikilink")》，第10話至第26話（最終話）內容為原作第二部《[戰鬥潮流](../Page/戰鬥潮流.md "wikilink")》\[3\]。至2013年4月播放完畢，全26話（第1部9話+第2部17話），並於第26話的片尾曲後透露第三部故事起頭。
 
-### 主題曲（第一季）
+### 主題曲（第一部）
 
   - 片頭曲
 
@@ -187,7 +187,7 @@ JoJo的奇妙冒險GW製作委員會（第四季）</p></td>
         原作第1部描寫以古代[遺跡](../Page/遺跡.md "wikilink")作為背景，加上紅色的水（[血液](../Page/血液.md "wikilink")）像沿著[河川水流般在畫面上由右側滾動至左側終端](https://zh.wikipedia.org/wiki/河川 "wikilink")。
         原作第2部描寫[戰鬥潮流的登場角色](https://zh.wikipedia.org/wiki/戰鬥 "wikilink")，由下往上滾動在畫面中出現。
 
-### 各話標題（第一季）
+### 各話標題（第一部）
 
 <table>
 <thead>
@@ -531,7 +531,7 @@ Shin Hyung Woo</p></td>
 </tbody>
 </table>
 
-### 播放單位（第一季）
+### 播放單位（第一部）
 
 <table>
 <caption>日本國外 網絡平台 / 第1季 播放日期時間</caption>
@@ -559,7 +559,7 @@ Shin Hyung Woo</p></td>
 </tbody>
 </table>
 
-## 第三季
+## 第三部
 
 2013年10月18日在[官方正式宣布與各家](https://zh.wikipedia.org/wiki/官方 "wikilink")[媒體透露決定製作原作第三部](https://zh.wikipedia.org/wiki/媒體 "wikilink")。與第一部和第二部不一樣的是，第三部《[星塵鬥士](../Page/星塵鬥士.md "wikilink")》全篇獨立成第二季製作，標題名為《JoJo的奇妙冒險 星塵鬥士》。
 
@@ -569,7 +569,7 @@ Shin Hyung Woo</p></td>
 
 原作登場的自行離家出走的小女孩的名字在電視動畫正式設定叫「（安）」\[8\]。
 
-### 主題曲（第三季）
+### 主題曲（第三部）
 
   - 片頭曲
 
@@ -633,7 +633,7 @@ Shin Hyung Woo</p></td>
       -
         作曲：菅野祐悟
 
-### 各話標題（第三季）
+### 各話標題（第三部）
 
 <table>
 <thead>
@@ -1267,7 +1267,7 @@ Cha Myoung Jun<br />
 </tbody>
 </table>
 
-### 播放單位（第三季）
+### 播放單位（第三部）
 
 <table>
 <caption>日本國外 網絡平台 / 第2季 前半 播放日期時間</caption>
@@ -1321,11 +1321,11 @@ Cha Myoung Jun<br />
 </tbody>
 </table>
 
-## 第四季
+## 第四部
 
 2015年10月24日，來自[電視動畫《JOJO的奇妙冒險》](https://twitter.com/anime_jojo?ref_src=twsrc%5Etfw)在[Twitter](../Page/Twitter.md "wikilink")官網表示，決定製作原作第4部，標題名為《JoJo的奇妙冒險 不滅鑽石》。2016年4月至12月繼續在[TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[MBS](../Page/每日放送.md "wikilink")、[東北放送](https://zh.wikipedia.org/wiki/東北放送 "wikilink")、[BS11等台首播](../Page/日本BS放送.md "wikilink")。主要人物的配音員方面，除了空条承太郎和虹村億泰分別由[小野大輔](../Page/小野大輔.md "wikilink")和[高木涉](../Page/高木涉.md "wikilink")繼續擔任之外，主角東方仗助、廣瀨康一及岸邊露伴從對戰[格鬥遊戲](https://zh.wikipedia.org/wiki/格鬥 "wikilink")《JOJO的奇妙冒險 ALL STAR BATTLE》和2015年12月發行的[動作遊戲](https://zh.wikipedia.org/wiki/動作 "wikilink")《JOJO的奇妙冒險 Eyes of Heaven》中改由[小野友樹](../Page/小野友樹.md "wikilink")、[梶裕貴](../Page/梶裕貴.md "wikilink")及[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")擔任。
 
-### 主題曲（第四季）
+### 主題曲（第四部）
 
   - 片頭曲
 
@@ -1378,7 +1378,7 @@ Cha Myoung Jun<br />
       -
         作詞：ENDCAPE，作曲、編曲：菅野祐悟，主唱：JO☆UNITED（富永TOMMY弘明、Coda、橋本仁、城田純、和田泰右、Jeity、、青木花戀、長谷川大輔）
 
-### 各話標題（第四季）
+### 各話標題（第四部）
 
 <table>
 <thead>
@@ -2130,7 +2130,7 @@ Cha Myoung Jun</p></td>
 </tbody>
 </table>
 
-### 播放單位（第四季）
+### 播放單位（第四部）
 
 <table>
 <caption>日本國外 網路頻道 / 第3季 播放日期時間</caption>
@@ -2167,15 +2167,13 @@ Cha Myoung Jun</p></td>
 </tbody>
 </table>
 
-## 第五季
+## 第五部
 
-2018年1月9日在集英社送審的「[黃金之風](../Page/黃金之風.md "wikilink")」商標通過之後，廣泛認為此舉為該作動畫化的標誌。
-
-而在其後作者荒木飛呂彥於2018年6月21日的JoJo畫展發佈會中透露「黃金之風」動畫化消息，並在同日於官方推特正式宣佈，同年10月5日起開播，至2019年7月28日完結。
+2018年1月9日在集英社送審的「[黃金之風](../Page/黃金之風.md "wikilink")」商標通過之後，廣泛認為此舉為該作動畫化的標誌。而在其後作者荒木飛呂彥於2018年6月21日的JoJo畫展發佈會中透露「黃金之風」動畫化消息，並在同日於官方推特正式宣佈，同年10月5日起開播，至2019年7月28日完結。
 
 台灣於2018年10月5日起，每週六由[friDay影音跟播](https://zh.wikipedia.org/wiki/friDay影音 "wikilink")。
 
-### 主題曲（第五季）
+### 主題曲（第五部）
 
   - 片頭曲
 
@@ -2217,7 +2215,7 @@ Cha Myoung Jun</p></td>
       -
         作詞、作曲：、[Carl Orff](https://zh.wikipedia.org/wiki/卡爾·奧爾夫 "wikilink")，主唱：[Enigma](https://zh.wikipedia.org/wiki/謎_\(音樂團體\) "wikilink")
 
-### 各話標題（第五季）
+### 各話標題（第五部）
 
 <table>
 <thead>
@@ -3040,7 +3038,7 @@ SHIN HYUNG WOO<br />
 </tbody>
 </table>
 
-### 播放單位（第五季）
+### 播放單位（第五部）
 
 <table>
 <caption>日本國外 網路頻道 / 第4季 播放日期時間</caption>

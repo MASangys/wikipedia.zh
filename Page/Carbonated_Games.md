@@ -30,8 +30,8 @@
 
   - [Q\&A: Carbonated Talks Uno\!, Windows Live](http://www.gamasutra.com/php-bin/news_index.php?story=13963), Gamasutra.com
   - [A Carbonated Games photo blog by Rachel Rutherford, circa 2006](http://carbonatedgamesstudio.blogspot.com)
-  - [A "Casually Speaking" interview with Carbonated Games producer Jason Mai on *Solitaire In Motion*](http://zone.msn.com/en/general/article/casuallyspeakingjmai.htm), zone.msn.com
-  - [A "Casually Speaking" interview with Carbonated Games developer Alexander Jhin on *Hop It\!*](http://zone.msn.com/en/general/article/casuallyspeakingalexj.htm), zone.msn.com
-  - [A "Casually Speaking" interview with Carbonated Games developer Paul Furio, on *Hop It\!*](http://zone.msn.com/en/general/article/casuallyspeakingpaulf.htm), zone.msn.com
+  - [A "Casually Speaking" interview with Carbonated Games producer Jason Mai on *Solitaire In Motion*](https://web.archive.org/web/20151120201711/http://zone.msn.com/en/general/article/casuallyspeakingjmai.htm), zone.msn.com
+  - [A "Casually Speaking" interview with Carbonated Games developer Alexander Jhin on *Hop It\!*](https://web.archive.org/web/20151120183525/http://zone.msn.com/en/general/article/casuallyspeakingalexj.htm), zone.msn.com
+  - [A "Casually Speaking" interview with Carbonated Games developer Paul Furio, on *Hop It\!*](https://web.archive.org/web/20151120152443/http://zone.msn.com/en/general/article/casuallyspeakingpaulf.htm), zone.msn.com
 
 [Category:2004年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2004年開業電子遊戲公司 "wikilink") [Category:2008年結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2008年結業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:微软的部门与子公司](https://zh.wikipedia.org/wiki/Category:微软的部门与子公司 "wikilink") [Category:美國已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國已結業電子遊戲公司 "wikilink")

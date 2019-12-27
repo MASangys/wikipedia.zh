@@ -274,7 +274,7 @@
     配音員：日：[八代拓](../Page/八代拓.md "wikilink")／台：[蔣鐵城](../Page/蔣鐵城.md "wikilink")（第1部）→[陳彥鈞](../Page/陳彥鈞.md "wikilink")（第2部）
     1月13日出生，[魔羯座](https://zh.wikipedia.org/wiki/魔羯座 "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。
     第1部時就讀中學三年級，喜歡戲弄虹野夢，還取綽號叫「煮熟章魚」（由於小夢生氣的樣子很像章魚又圓又紅），也經常給他意想不到的鼓勵，喜歡小夢。
-    對於她不知道M4而不爽，所以常故意鬧她，想讓她知道M4比S4更厲害。
+    對於她不知道M4而有小小的生氣，所以常故意鬧她，想讓她知道M4比S4更厲害。
 
 <!-- end list -->
 
@@ -633,7 +633,7 @@
 | 1                                    | 2      |             |
 | [富田美憂](../Page/富田美憂.md "wikilink")   | 虹野夢    | colspan="2" |
 | [朝井彩加](../Page/朝井彩加.md "wikilink")   | 櫻庭蘿拉   | colspan="2" |
-| [山口愛](../Page/山口愛.md "wikilink")     | 七倉小春   | colspan="1" |
+| [山口愛](../Page/山口愛.md "wikilink")     | 七倉小春   | colspan="2" |
 | [村上奈津實](../Page/村上奈津實.md "wikilink") | 早乙女亞子  | colspan="2" |
 | [宮本侑芽](../Page/宮本侑芽.md "wikilink")   | 香澄真晝   | colspan="2" |
 | [上田麗奈](../Page/上田麗奈.md "wikilink")   | 白銀莉莉   | colspan="2" |

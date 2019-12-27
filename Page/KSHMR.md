@@ -1,4 +1,4 @@
-**KSHMR**(發音：Kashmir)，本名**Niles Hollowell-Dhar**，印裔[美國人](https://zh.wikipedia.org/wiki/美國 "wikilink")，為源於[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[柏克萊的](https://zh.wikipedia.org/wiki/柏克萊 "wikilink")[電子舞曲](../Page/電子舞曲.md "wikilink")[製作人](../Page/音樂製作人.md "wikilink")。它的出道名稱就是源自[喀什米爾](https://zh.wikipedia.org/wiki/喀什米爾 "wikilink")。離開先前的**The Cataracs**團體之後，Niles專心的以"KSHMR"的名稱繼續發展音樂事業，獲得了相當大的名氣。2015年，他首次登上[DJ雜誌](../Page/DJ雜誌.md "wikilink") 前100名的排行榜，得到了23名，也是2015的"Highest Entry"(2015所有首次上榜的[DJ中的最高位](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink"))，於2016年得到百大DJ第12名。.
+**KSHMR**（發音：Kashmir），本名**Niles Hollowell-Dhar**（），印裔[美國人](https://zh.wikipedia.org/wiki/美國 "wikilink")，為源於[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[柏克萊的](https://zh.wikipedia.org/wiki/柏克萊 "wikilink")[電子舞曲](../Page/電子舞曲.md "wikilink")[製作人](../Page/音樂製作人.md "wikilink")。它的出道名稱就是源自[喀什米爾](https://zh.wikipedia.org/wiki/喀什米爾 "wikilink")。離開先前的**The Cataracs**團體之後，Niles專心的以"KSHMR"的名稱繼續發展音樂事業，獲得了相當大的名氣。2015年，他首次登上[DJ雜誌](../Page/DJ雜誌.md "wikilink") 前100名的排行榜，得到了23名，也是2015的"Highest Entry"(2015所有首次上榜的[DJ中的最高位](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink"))，於2016年得到百大DJ第12名。.
 
 ## 個人生涯
 
@@ -54,3 +54,5 @@
   - 2015: [Avicii](https://zh.wikipedia.org/wiki/Avicii "wikilink") - *For A Better Day* (KSHMR Remix)
   - 2015: Shaun Frank & KSHMR feat. Delaney Jane - *Heaven* (KSHMR Remix)
   - 2015: Kiiara - Feels (KSHMR Remix) \[Coming Soon\]
+
+[Category:美国DJ](https://zh.wikipedia.org/wiki/Category:美国DJ "wikilink") [Category:美國音樂製作人](https://zh.wikipedia.org/wiki/Category:美國音樂製作人 "wikilink")

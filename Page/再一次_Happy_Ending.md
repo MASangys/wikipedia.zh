@@ -49,7 +49,7 @@
 <td><p>具海俊</p></td>
 <td><p>宋秀赫的好友，神經外科醫生，對所有人都溫柔的暖男，不了解自己也不懂得愛人</p></td>
 <td><p><a href="../Page/宋昱璁.md" title="wikilink">宋昱璁</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蔡威賢" title="wikilink">蔡威賢</a></p></td>
+<td><p><a href="../Page/蔡威賢.md" title="wikilink">蔡威賢</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/劉多仁.md" title="wikilink">劉多仁</a></p></td>
@@ -239,7 +239,7 @@
 <td><p>春基</p></td>
 <td><p>金政勳的餐廳廚師</p></td>
 <td><p><a href="../Page/李世揚.md" title="wikilink">李世揚</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蔡威賢" title="wikilink">蔡威賢</a></p></td>
+<td><p><a href="../Page/蔡威賢.md" title="wikilink">蔡威賢</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/徐鉉哲.md" title="wikilink">徐鉉哲</a></p></td>

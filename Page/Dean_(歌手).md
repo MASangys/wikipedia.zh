@@ -1,4 +1,4 @@
-**Dean**\[1\]（；），本名**權革**（），在創作歌曲時使用的名字為Deanfluenza，是韓國[歌手](../Page/歌手.md "wikilink")兼[音樂製作人](../Page/音樂製作人.md "wikilink")。16歲成为地下嘻哈艺人，18岁加入美国加州的JOOMBAS音乐公司。2013年开始至今参与了[John Park](../Page/John_Park.md "wikilink")、[EXO](../Page/EXO.md "wikilink")、[VIXX](../Page/VIXX.md "wikilink")、[UNIQ](../Page/UNIQ.md "wikilink")、[Block B](../Page/Block_B.md "wikilink")、[李夏怡等藝人團體的歌曲创作](https://zh.wikipedia.org/wiki/李夏怡 "wikilink")。2014年为新人组合[MADTOWN主打歌的制作人](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")。2015年七月和九月在美国分別发行單曲"I'm Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單曲"I Love it"在韓國出道\[2\]。
+**Dean**\[1\]（；），本名**權革**（），在創作歌曲時使用的名字為Deanfluenza，是韓國[歌手](../Page/歌手.md "wikilink")兼[音樂製作人](../Page/音樂製作人.md "wikilink")。16歲成为地下嘻哈艺人，18岁加入美国加州的JOOMBAS音乐公司。2013年开始至今参与了[John Park](../Page/John_Park.md "wikilink")、[EXO](../Page/EXO.md "wikilink")、[VIXX](../Page/VIXX.md "wikilink")、[UNIQ](../Page/UNIQ.md "wikilink")、[Block B](../Page/Block_B.md "wikilink")、[李遐怡](../Page/李遐怡.md "wikilink")等藝人團體的歌曲创作。2014年为新人组合[MADTOWN主打歌的制作人](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")。2015年七月和九月在美国分別发行單曲"I'm Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單曲"I Love it"在韓國出道\[2\]。
 
 ## 作品
 
@@ -12,6 +12,7 @@
 | 2016年9月13日  |      CORONA      |                          punchnello                          |
 | 2016年11月28日 | Bermuda Triangle | [Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink") |
 | 2017年5月25日  |  지나쳐(Too Much)   |              [Loco](../Page/Loco.md "wikilink")              |
+| 2017年7月10日  |     PARADISE     |                            MILLIC                            |
 |             |                  |                                                              |
 
 ### 綜藝節目

@@ -750,7 +750,7 @@ AVCG-70113</p></td>
 
 :\*[Official Youtube Channel](https://www.youtube.com/user/lolavextrax) - [youtube](https://zh.wikipedia.org/wiki/youtube "wikilink")
 
-:\*[lol 官方 Casting (lolo)](http://twitcasting.tv/lol_avex) - [TwitCasting](https://zh.wikipedia.org/wiki/TwitCasting "wikilink")
+:\*[lol 官方 Casting (lolo)](http://twitcasting.tv/lol_avex) - [TwitCasting](../Page/TwitCasting.md "wikilink")
 
   - Twitter
 

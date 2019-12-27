@@ -940,7 +940,7 @@ Tenzo</p></td>
 <tr class="even">
 <td><p>、朴相後（）</p></td>
 <td><p>噗喲噗喲<small>（）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/玄勝熙" title="wikilink">勝熙</a>、Mimi（<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>）</p></td>
+<td><p><a href="../Page/玄勝熙.md" title="wikilink">勝熙</a>、Mimi（<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1609,7 +1609,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>道（）</p></td>
 <td><p><a href="../Page/Pentagon_(男子組合).md" title="wikilink">Pentagon</a></p></td>
 <td><p>在錫隊</p></td>
-<td><p>《》劇組影像出演</p></td>
+<td><p><a href="../Page/朴誠雄.md" title="wikilink">朴誠雄</a>、<a href="https://zh.wikipedia.org/wiki/池石镇" title="wikilink">池石镇</a>、《》劇組影像出演</p></td>
 </tr>
 <tr class="even">
 <td><p>熙烈隊</p></td>
@@ -1626,8 +1626,48 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>12月6日</p></td>
 <td><p>在錫隊</p></td>
 <td></td>
-<td><p>（）</p></td>
+<td><p>Rebecca（）</p></td>
 <td><p><a href="../Page/金在奐.md" title="wikilink">金在奐</a></p></td>
+<td><p>在錫隊</p></td>
+<td><p>、<a href="../Page/盧士燕.md" title="wikilink">盧士燕</a>影像出演</p></td>
+</tr>
+<tr class="even">
+<td><p>熙烈隊</p></td>
+<td></td>
+<td><p>相公（）</p></td>
+<td><p>Hoppipolla</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>03</p></td>
+<td><p>12月13日</p></td>
+<td><p>在錫隊</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/A.R.T" title="wikilink">A.R.T</a></p></td>
+<td><p>悲傷容顏（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a></p></td>
+<td><p>熙烈隊</p></td>
+<td><p><a href="../Page/申東燁.md" title="wikilink">申東燁</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>影像出演</p></td>
+</tr>
+<tr class="even">
+<td><p>熙烈隊</p></td>
+<td></td>
+<td><p>期待與怨恨（）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>04</p></td>
+<td><p>12月20日</p></td>
+<td><p>在錫隊</p></td>
+<td></td>
+<td><p>（）</p></td>
+<td><p><a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1635,7 +1675,27 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>熙烈隊</p></td>
 <td></td>
 <td><p>（）</p></td>
-<td><p>Hoppipolla</p></td>
+<td><p>&amp; <a href="../Page/Kisum.md" title="wikilink">Kisum</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>05</p></td>
+<td><p>12月27日</p></td>
+<td><p>在錫隊</p></td>
+<td></td>
+<td><p>（）</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>熙烈隊</p></td>
+<td></td>
+<td><p>（）</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

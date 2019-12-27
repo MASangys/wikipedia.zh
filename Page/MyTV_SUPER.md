@@ -130,9 +130,11 @@ myTV SUPER早期只供收費用戶使用，後來為了擴大宣傳而推出限�
 
 ## 定價
 
-  - 應用程式及網頁版，每月68[港元](../Page/港元.md "wikilink")，或每年480元。
-  - 基本版解碼器(租用計劃)，每月68元，或每年780元。
-  - MyTV Gold解碼器，每**月**198港元，或每年2380元(合約期為兩年)。\[4\]
+以下所列之服務費用為[港元](../Page/港元.md "wikilink")。
+
+  - 應用程式及網頁版：每月88元，或每年580元。
+  - 解碼器連基本版服務：每月88元（租用計劃），或每年980元。
+  - myTV Gold解碼器（租用計劃）：每月198港元（租用計劃），或每年2380元。\[4\]
 
 ## 節目列表
 
@@ -2294,7 +2296,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 </p></td>
 <td><p>2018年9月3日上午9:00</p></td>
 <td><p>基本組合</p></td>
-<td><p><a href="http://www.mytvsuper.com/tc/epg/STV">myTV SUPER節目表</a>／<a href="http://www.winmoney.hk/">港股策略王網站</a></p></td>
+<td><p><a href="http://www.mytvsuper.com/tc/epg/STV">myTV SUPER節目表</a>／<a href="https://web.archive.org/web/20180903114903/http://www.winmoney.hk/">港股策略王網站</a></p></td>
 </tr>
 <tr class="even">
 <td><p>666</p></td>

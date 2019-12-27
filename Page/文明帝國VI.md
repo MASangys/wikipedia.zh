@@ -32,7 +32,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/中国" title="wikilink">中国</a></p></td>
 <td><p><a href="../Page/秦始皇.md" title="wikilink">秦始皇</a></p></td>
 <td><p>始皇帝</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中国朝代#%E4%B8%AD%E5%9C%8B%E6%AD%B7%E5%8F%B2%E6%9C%9D%E4%BB%A3%E5%88%97%E8%A1%A8" title="wikilink">改朝换代</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朝代循环" title="wikilink">改朝换代</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/虎蹲炮" title="wikilink">虎蹲炮</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/万里长城" title="wikilink">长城</a></p></td>
 </tr>
@@ -323,7 +323,7 @@
 <td><p><a href="../Page/班诺克本战役.md" title="wikilink">班諾克本</a></p></td>
 <td><p><a href="../Page/苏格兰启蒙运动.md" title="wikilink">苏格兰启蒙运动</a></p></td>
 <td><p>高地戰士</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高爾夫球場" title="wikilink">高爾夫球場</a></p></td>
+<td><p><a href="../Page/高爾夫球場.md" title="wikilink">高爾夫球場</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/祖魯" title="wikilink">祖魯</a></p></td>

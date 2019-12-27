@@ -358,8 +358,8 @@ $699 (創始版)</p></td>
 <td><p>9.936</p></td>
 <td><p>29.81</p></td>
 <td><p>N/A</p></td>
-<td></td>
-<td></td>
+<td><p>953</p></td>
+<td><p>29</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -370,21 +370,38 @@ $699 (創始版)</p></td>
 <tr class="even">
 <td><p>GeForce MX150 (GT 1030)</p></td>
 <td><p>2017年5月25日</p></td>
-<td><p>GP108-300</p></td>
+<td><p>GP108-300 (N17S-LG-A1)</p></td>
 <td><p>14</p></td>
 <td><p>1.8</p></td>
 <td><p>74</p></td>
 <td><p>PCIe 3.0 x4</p></td>
 <td><p>384:24:16</p></td>
-<td><p>1468</p></td>
-<td><p>1532</p></td>
+<td><p>936</p></td>
+<td><p>1037</p></td>
 <td><p>6000</p></td>
-<td><p>11.7</p></td>
-<td><p>35.2</p></td>
-<td><p>48</p></td>
+<td><p>16.6</p></td>
+<td><p>25</p></td>
 <td><p>12.0 (12_1)</p></td>
+<td><p>12</p></td>
 </tr>
 <tr class="odd">
+<td><p>GP108-300 (N17S-G1-A1)</p></td>
+<td><p>1468</p></td>
+<td><p>1532</p></td>
+<td><p>23.5</p></td>
+<td><p>35.2</p></td>
+<td><p>2 4</p></td>
+<td><p>48</p></td>
+<td><p>17</p></td>
+<td><p>1127 (1177)</p></td>
+<td><p>35</p></td>
+<td><p>25</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>style="text-align:left;" ! | GeForce GTX 1050</p></td>
 <td><p>2017年2月3日</p></td>
 <td><p>GP107</p></td>
@@ -393,7 +410,7 @@ $699 (創始版)</p></td>
 <td><p>PCI-E 3.0 x16</p></td>
 <td><p>640:40:16</p></td>
 <td><p>1354</p></td>
-<td><p>1493</p></td>
+<td><p>1752</p></td>
 <td><p>7000</p></td>
 <td><p>43.3</p></td>
 <td><p>54.2</p></td>
@@ -401,24 +418,24 @@ $699 (創始版)</p></td>
 <td><p>128</p></td>
 <td><p>112</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>style="text-align:left;" ! | GeForce GTX 1050Ti</p></td>
 <td><p>768:48:32</p></td>
 <td><p>1493</p></td>
-<td><p>1620</p></td>
+<td><p>1752</p></td>
 <td><p>47.8</p></td>
 <td><p>71.7</p></td>
 <td><p>4</p></td>
-<td><p>2293</p></td>
-<td><p>36</p></td>
-<td></td>
+<td><p>38</p></td>
+<td><p>2488</p></td>
+<td><p>77</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>style="text-align:left;" ! | GeForce GTX 1060</p></td>
 <td><p>2016年8月16日</p></td>
 <td><p>GP106</p></td>
@@ -427,49 +444,49 @@ $699 (創始版)</p></td>
 <td><p>200</p></td>
 <td><p>1280:80:48</p></td>
 <td><p>1404</p></td>
-<td><p>1670</p></td>
+<td><p>2002</p></td>
 <td><p>8000</p></td>
-<td><p>67.4</p></td>
-<td><p>112</p></td>
+<td><p>80.16</p></td>
+<td><p>133.6</p></td>
 <td><p>3 6</p></td>
 <td><p>192</p></td>
 <td><p>192</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>GeForce GTX 1070</p></td>
 <td><p>GP104</p></td>
 <td><p>7.2</p></td>
 <td><p>314</p></td>
 <td><p>2048:128:64</p></td>
 <td><p>1442</p></td>
-<td><p>1645</p></td>
-<td><p>92.3</p></td>
-<td><p>185</p></td>
+<td><p>2002</p></td>
+<td><p>105.3</p></td>
+<td><p>210.6</p></td>
 <td><p>8</p></td>
 <td><p>256</p></td>
 <td><p>256</p></td>
-<td><p>?</p></td>
-<td><p>185</p></td>
-<td><p>185</p></td>
+<td><p>105</p></td>
+<td><p>6738</p></td>
+<td><p>210</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>GeForce GTX 1080</p></td>
 <td><p>2560:160:64</p></td>
 <td><p>1556</p></td>
-<td><p>1733</p></td>
+<td><p>1711</p></td>
 <td><p>10000</p></td>
-<td><p>99.6</p></td>
-<td><p>249</p></td>
+<td><p>113.3</p></td>
+<td><p>283.4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/GDDR5#下一代接替品" title="wikilink">GDDR5X</a></p></td>
 <td><p>320</p></td>
-<td><p>?</p></td>
-<td><p>249</p></td>
-<td><p>249</p></td>
-<td><p>150-220</p></td>
+<td><p>141</p></td>
+<td><p>9068</p></td>
+<td><p>283</p></td>
+<td><p>150</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

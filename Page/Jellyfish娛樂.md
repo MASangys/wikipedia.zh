@@ -56,6 +56,19 @@
 <td><p>應援色</p></td>
 </tr>
 <tr class="even">
+<td><p>2001年3月17日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Jewelry_(韓國女子團體)" title="wikilink">Jewelry</a></p></td>
+<td><p>女</p></td>
+<td><p><a href="../Page/朴貞雅.md" title="wikilink">朴貞雅</a>、<a href="https://zh.wikipedia.org/wiki/李智賢" title="wikilink">李智賢</a>、鄭幼真、全恩美、<br />
+<a href="https://zh.wikipedia.org/wiki/徐寅永" title="wikilink">徐寅永</a>、趙敏雅、河珠妍、金恩情、<br />
+<a href="../Page/金藝元.md" title="wikilink">金藝元</a>、朴世美</p></td>
+<td><p><a href="../Page/朴貞雅.md" title="wikilink">朴貞雅</a></p></td>
+<td><p>2015年1月7日<br />
+公司宣布正式解散</p></td>
+<td><p>Jewelry Box</p></td>
+<td><p>寶石藍</p></td>
+</tr>
+<tr class="odd">
 <td><p>2012年5月24日</p></td>
 <td><p><a href="../Page/VIXX.md" title="wikilink">VIXX</a></p></td>
 <td><p>男</p></td>
@@ -66,7 +79,7 @@
 <td><p>ST★RLIGHT</p></td>
 <td><p>海軍藍、閃亮金</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年6月28日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/gugudan" title="wikilink">gugudan</a></p></td>
 <td><p>女</p></td>
@@ -77,7 +90,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年1月9日</p></td>
 <td><p><a href="../Page/VERIVERY.md" title="wikilink">VERIVERY</a></p></td>
 <td><p>男</p></td>
@@ -133,7 +146,7 @@
 ## 練習生
 
   - [趙慧妍](https://zh.wikipedia.org/wiki/趙慧妍 "wikilink")（前[gugudan成員](https://zh.wikipedia.org/wiki/gugudan "wikilink")）
-  - [金旻奎](../Page/金旻奎_\(歌手\).md "wikilink")（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - [金旻奎 (2001年生)](https://zh.wikipedia.org/wiki/金旻奎_\(2001年生\) "wikilink")（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - 崔俊聖（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
 
 ## 昔日練習生

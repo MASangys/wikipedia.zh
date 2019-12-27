@@ -90,7 +90,7 @@
 <td><p>韓哲浩</p></td>
 <td><p>55歲，檢察官出身的國會議員。十年前，作為姜哲一家滅門事件的檢察官，指控姜哲為兇手，毀掉了姜哲的人生。他是個卑鄙的野心家，確信弄倒人氣鼎沸的奧運冠軍姜哲，是讓自己出名的好機會，通過犧牲姜哲，他得到了大眾的廣泛關注，成功踏入政界。幾年前，本以為早已成為廢人的姜哲卻以企業代表身份重新崛起，讓他頭疼不已。</p></td>
 <td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蔡威賢" title="wikilink">蔡威賢</a></p></td>
+<td><p><a href="../Page/蔡威賢.md" title="wikilink">蔡威賢</a></p></td>
 <td><p>1、4-5、9-16</p></td>
 </tr>
 <tr class="odd">
@@ -193,7 +193,7 @@
 <td><p>朴東權</p></td>
 <td><p>網路漫畫編輯一組組長，漫畫《W》責任編輯。</p></td>
 <td><p><a href="../Page/宋克軍.md" title="wikilink">宋克軍</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蔡威賢" title="wikilink">蔡威賢</a></p></td>
+<td><p><a href="../Page/蔡威賢.md" title="wikilink">蔡威賢</a></p></td>
 <td><p>2、6</p></td>
 </tr>
 </tbody>

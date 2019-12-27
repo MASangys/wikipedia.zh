@@ -32,7 +32,7 @@
 
   - \- [超級籃球聯賽](../Page/超級籃球聯賽.md "wikilink")（SBL）(2018)
 
-  - \- [東南亞職業籃球聯賽](../Page/東南亞職業籃球聯賽.md "wikilink")（ABL）(2019)
+  - \- [東南亞職業籃球聯賽](../Page/東南亞職業籃球聯賽.md "wikilink")[臺北富邦勇士主客場賽事](https://zh.wikipedia.org/wiki/臺北富邦勇士 "wikilink")（ABL）(2019–)
 
 ## 台灣主播群
 
@@ -41,7 +41,6 @@
   - [錢定遠](../Page/錢定遠.md "wikilink")
   - [簡政光](../Page/簡政光.md "wikilink")
   - 楊博智
-  - [楊正磊](../Page/楊正磊.md "wikilink")
 
 ## 台灣主持群
 
@@ -59,48 +58,7 @@
 ## 外部連結
 
   - [MOMOTV](https://www.momotv.tw/)
-  - [momo綜合台](https://www.momotv.tw/pg_list.aspx?ch_id=001)
-  - [momo追劇台](https://www.momotv.tw/pg_list.aspx?ch_id=002)
-  - [wintv兒童台](https://www.momotv.tw/pg_list.aspx?ch_id=003)
-  - [momo Sports](https://www.momotv.tw/sports.aspx)
 
-<!-- end list -->
-
-  - Facebook
-
-<!-- end list -->
-
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-<!-- end list -->
-
-  - Youtube
-
-<!-- end list -->
-
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-<!-- end list -->
-
-  - Instagram
-
-<!-- end list -->
-
-  -
-  -
-  -
-  -
 [MOMO追劇台](https://zh.wikipedia.org/wiki/MOMO追劇台 "wikilink"){{·}} [WIN兒童台](https://zh.wikipedia.org/wiki/WIN兒童台 "wikilink") | style = }}
 
 [分類:2010年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/分類:2010年成立的電視台或電視頻道 "wikilink") [分類:2010年台灣建立](https://zh.wikipedia.org/wiki/分類:2010年台灣建立 "wikilink")

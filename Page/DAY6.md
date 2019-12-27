@@ -49,7 +49,7 @@ DAY6首場世界巡迴演唱會「Youth」由6月22日至24日首爾站次揭開
 
 6月30日.官方在Facebook 上公佈了回歸概念照,宣佈Day6將會在7月15日發行新專輯《The Book of Us : Gravity》\[54\]。7月1日, 公開第二次世界巡回演唱會《DAY6 WORLD TOUR 'GRAVITY'》的地點和日期。翌日,公開新專輯的曲目,並宣佈主打曲為《Time of Our Life(한 페이지가 될 수 있게)》。7月4日,開始陸續公開個成員和團體個人照。7月15日韓國時間6時,公佈新曲MV,並在當晚韓國時間8時進行了回歸V Live 直播。新曲發佈後立刻上了韓國兩大音源網站 Bugs 和 NAVER Music 的即時榜冠軍,並登上了新加坡、泰國、菲律賓、俄羅斯⋯⋯等海外 10 個國家的 iTunes 專輯榜首。\[55\] 在打歌期間，DAY6於Show Champion以《Time of Our Life(한 페이지가 될 수 있게)連續兩周獲得一位，並在M Countdown上再次獲得一位。
 
-10月6日.官方公佈了回歸預告影片,宣佈Day6將會在10月22日發行新專輯《The Book of Us : Entropy》，並在影片中提及主打歌《Sweet Choas》的名字和當中的亮點歌詞「But I Like It」。10月9日, 公開全專曲目表正式公佈主打歌為《Sweet Choas》，並收錄了10首歌曲。\[56\]翌日,陸續公開成員個人和團體的專輯概念照\[57\]20日,公佈MV 預告片。22日,韓國時間6時公開了主打曲《Sweet Choas》的MV,並在當日韓國時間8時在YES24 LIVE HALL舉行了回歸Showcase,也使用V Live同時直播。
+10月6日.官方公佈了回歸預告影片,宣佈Day6將會在10月22日發行新專輯《The Book of Us : Entropy》，並在影片中提及主打歌《Sweet Chaos》的名字和當中的亮點歌詞「But I Like It」。10月9日, 公開全專曲目表正式公佈主打歌為《Sweet Chaos》，並收錄了10首歌曲。\[56\]翌日,陸續公開成員個人和團體的專輯概念照\[57\]20日,公佈MV 預告片。22日,韓國時間6時公開了主打曲《Sweet Chaos》的MV,並在當日韓國時間8時在YES24 LIVE HALL舉行了回歸Showcase,也使用V Live同時直播。
 
 ## 成員資料
 
@@ -95,7 +95,7 @@ PlotData =
 
   - [Sunrise](../Page/Sunrise_\(Day6專輯\).md "wikilink")（2017年6月7日）
   - [Moonrise](../Page/Moonrise_\(Day6專輯\).md "wikilink")（2017年12月6日）
-  - [The Book Of Us : Entropy](https://zh.wikipedia.org/wiki/The_Book_Of_Us_:_Entropy "wikilink")（2019年10月22日）
+  - [The Book Of Us : Entropy](../Page/The_Book_Of_Us_:_Entropy.md "wikilink")（2019年10月22日）
 
 #### 迷你專輯
 
@@ -1002,7 +1002,7 @@ DAY6成員於韓國音樂著作權協會之登記編號分別是Jae：10010558\[
 </tr>
 <tr class="even">
 <td><p>Sweet Chaos</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Book_Of_Us_:_Entropy" title="wikilink">The Book Of Us : Entropy</a></p></td>
+<td><p><a href="../Page/The_Book_Of_Us_:_Entropy.md" title="wikilink">The Book Of Us : Entropy</a></p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="odd">

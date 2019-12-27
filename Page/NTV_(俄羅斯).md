@@ -10,7 +10,7 @@
 
   -   - [NTV Mir (International)](http://ntvmir.ntv.ru)
       - [NTV America](http://ntvamerica.ntv.ru)
-      - [NTV Canada](http://www.ntv-canada.com)
+      - [NTV Canada](https://web.archive.org/web/20090409112636/http://ntv-canada.com/)
 
 [Category:俄罗斯电视频道](https://zh.wikipedia.org/wiki/Category:俄罗斯电视频道 "wikilink") [Category:新闻自由](https://zh.wikipedia.org/wiki/Category:新闻自由 "wikilink") [Category:1993年俄羅斯建立](https://zh.wikipedia.org/wiki/Category:1993年俄羅斯建立 "wikilink") [Category:1993年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1993年成立的电视台或电视频道 "wikilink")
 

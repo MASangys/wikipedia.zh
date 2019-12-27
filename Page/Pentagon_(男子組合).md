@@ -432,6 +432,7 @@ E'Dawn、Kino、Hui(2013年10月)、Yeo One(2013年11月)、信源、禹奭、Yu
 
   -
   -
+  -
 [Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:PENTAGON](https://zh.wikipedia.org/wiki/Category:PENTAGON "wikilink") [Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink") [Category:Cube娛樂旗下團體](https://zh.wikipedia.org/wiki/Category:Cube娛樂旗下團體 "wikilink")
 
 1.  [PENTAGON今正式出道 CUBE時隔四年推新男團](http://www.allthatstar.com/tw/view.php?action=5212&postID=280298) 2016-10-10

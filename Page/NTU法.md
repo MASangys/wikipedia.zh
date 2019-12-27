@@ -68,4 +68,4 @@
 
 [Category:传热](https://zh.wikipedia.org/wiki/Category:传热 "wikilink")
 
-1.  [传热与换热器](http://crx.jpkc.cc/inc/download.php?id=33&mod=crx)
+1.

@@ -8,7 +8,7 @@
 
 ### Windows 10及未來
 
-從[Windows 10](../Page/Windows_10.md "wikilink")[作業系統開始](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，应用程序被重新設計並命名为“设置”，同時可完成大部份在控制面板中所執行的操作，並正逐步替代原有的[控制台](../Page/控制面板.md "wikilink")。\[3\]\[4\]
+從[Windows 10](../Page/Windows_10.md "wikilink")[作業系統開始](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，应用程序被重新設計並命名为“设置”，同時可完成大部份在控制面板中所執行的操作，並正逐步替代原有的[控制台](../Page/控制面板.md "wikilink")，最終「[設置 (Windows)](https://zh.wikipedia.org/wiki/設置_\(Windows\) "wikilink")」[UWP程式將完全取代Windows舊有的控制台](https://zh.wikipedia.org/wiki/UWP "wikilink")，展現Windows作業系統已邁入新的里程碑。\[3\]\[4\]
 
 因为程序本身為[通用Windows平台程序](https://zh.wikipedia.org/wiki/UWP "wikilink")，因此，也可在裝載[Windows 10 Mobile作業系統上的](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")[智能手机](../Page/智能手机.md "wikilink")和[平板电脑中運行並使用](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。\[5\]\[6\]
 

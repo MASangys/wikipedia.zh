@@ -147,7 +147,7 @@
 <td><p>18歲→31歲，慧靜徬徨時期出現的男性友人，高中時是他人生最精采時期，拳頭有力，人好在近東學校赫赫有名、臭美的男生。被帶刺又高貴的慧靜吸引，為得到她的心付出了很多無知的努力，現在視慧靜為妹妹。已離婚，育有一子。在7集遇到車禍，後被慧靜救治。</p></td>
 <td><p>1-4、5、7-8</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/譚禹晉" title="wikilink">譚禹晉</a></p></td>
+<td><p><a href="../Page/譚禹晉.md" title="wikilink">譚禹晉</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/文知茵.md" title="wikilink">文知茵</a></strong></p></td>
@@ -243,7 +243,7 @@
 <td><p>神經外科住院醫生三年生。曾是瑞雨的朋友及戀愛顧問。於20集向瑞雨表白，成為她的交往對象。因多次留級仍是住院醫生而其他同期已是主治；卻絕不因此氣餒，是個性格樂觀、有著各種知識的人物。</p></td>
 <td><p>4-20</p></td>
 <td><p><a href="../Page/曹冀魯.md" title="wikilink">曹冀魯</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蔡威賢" title="wikilink">蔡威賢</a></p></td>
+<td><p><a href="../Page/蔡威賢.md" title="wikilink">蔡威賢</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/張鉉誠.md" title="wikilink">張鉉誠</a></strong></p></td>
@@ -458,7 +458,7 @@
 <td><p>患有腦瘤壓迫到神經而無法表達情緒，即使傷心也只能笑</p></td>
 <td><p>13-14</p></td>
 <td><p><a href="../Page/魏晶琦.md" title="wikilink">魏晶琦</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃綺婷" title="wikilink">黃綺婷</a></p></td>
+<td><p><a href="../Page/黃綺婷.md" title="wikilink">黃綺婷</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/崔正厚" title="wikilink">崔正厚</a></p></td>

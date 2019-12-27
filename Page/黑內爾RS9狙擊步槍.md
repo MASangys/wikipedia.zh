@@ -65,7 +65,7 @@
       - [Haenel RS8 and RS9 Rifles (SHOT Show 2016)](http://www.thefirearmblog.com/blog/2016/01/18/haenel-rs8-and-rs9-rifles/)
       - [New German Army G29 Sniper Rifle (Haenel RS9 in .338 LM)](http://www.thefirearmblog.com/blog/2016/02/18/new-german-army-g29-sniper-rifle-haenel-rs9-338-lm/)
 
-  - —[Viking Arms LTD—Haenel RS9 Sniper Rifle](http://www.vikingshoot.com/products/rifles/haenel-rs9-sniper-rifle/)
+  - —[Viking Arms LTD—Haenel RS9 Sniper Rifle](https://web.archive.org/web/20160108085007/http://www.vikingshoot.com/products/rifles/haenel-rs9-sniper-rifle/)
 
   - —[Popular Airsoft.com—Meet The Bundeswehr's New Sniper Rifle: The G29 By Haenel](http://www.popularairsoft.com/meet-bundeswehrs-new-sniper-rifle-g29-haenel)
 

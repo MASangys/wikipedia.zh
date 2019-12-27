@@ -85,7 +85,7 @@ ONFM 副台长[梁佑诚](../Page/梁佑诚.md "wikilink")表示，“我们是�
 1\. [ONFM 收看听网址/官网](http://www.onfm.me)
 2\. [ONFM官方Facebook](https://www.facebook.com/onfm.me?ref=ts&fref=ts)
 3\. [Youtube : ONFM](https://www.youtube.com/user/onfmme)
-4\. [ONFM官方Instagram](http://websta.me/n/onfm.me/)
+4\. [ONFM官方Instagram](https://web.archive.org/web/20160417212117/http://websta.me/n/onfm.me/)
 
 ## 参考资料
 

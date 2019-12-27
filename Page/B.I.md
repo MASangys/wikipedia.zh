@@ -12,7 +12,7 @@
 
 1996年10月22日B.I出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")。小時候一日一夢想，每天都換夢想，小學六年級時某天跟父母說要當Rapper，父母表示如果你這個夢想能維持一年以上就幫你\[8\]。一日B.I父親在酒席中遇到[二段橫踢中的作曲家](https://zh.wikipedia.org/wiki/二段橫踢 "wikilink")，表示自己的兒子會Rap，並用視訊通話讓B.I即席Rap，一日B.I接到電話讓他過去錄音室，那天正在錄韓國歌手[MC夢](../Page/MC夢.md "wikilink")的《Indian Boy》，讓B.I在part間即席Rap\[9\]。於是，2009年B.I作為小rapper在[MC夢](../Page/MC夢.md "wikilink")的第五張專輯中的主打歌《Indian Boy》中擔任featuring，首次登上大舞台亮相于大眾視野\[10\]\[11\]，並讓電視機前的[YG娛樂](../Page/YG娛樂.md "wikilink")[梁鉉錫](../Page/梁鉉錫.md "wikilink")社長注意到有這樣一個人\[12\]。後續B.I也出現在[MC夢](../Page/MC夢.md "wikilink")第六張專輯歌曲《Horror Show》MV中\[13\]。B.I在小學畢業照下方寫著未來夢想：[Rapper](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")\[14\]。
 
-### 2011年－2013年：練習生時期：《[WIN Who Is Next](../Page/WIN.md "wikilink"):》
+### 2011年－2013年：練習生時期：《WIN: Who Is Next》
 
 2011年1月參加[YG娛樂](../Page/YG娛樂.md "wikilink")影像試演，1月3日開始[YG娛樂](../Page/YG娛樂.md "wikilink")練習生活\[15\]；與同天進入公司當練習生的[金振煥](../Page/金振煥.md "wikilink")和一星期後加入的[BOBBY](../Page/金知元_\(饒舌者\).md "wikilink")(成員三人都姓「金」，又稱「金三角」)一同練習一年多\[16\]後加入[具俊會](../Page/具俊會.md "wikilink")、[宋允亨](../Page/宋允亨.md "wikilink")，後再加入[金東赫](../Page/金東赫.md "wikilink")，組成「TEAM B」為[YG娛樂](../Page/YG娛樂.md "wikilink")2013年新男團出道生存節目《[WIN](../Page/WIN.md "wikilink")》的候選出道組合\[17\]。
 
@@ -20,7 +20,7 @@
 
 B.I輸了出道生存節目《[WIN](../Page/WIN.md "wikilink")》後，體悟到要出道的關鍵是歌曲數量的完成，一連寫了十多首歌曲等待發表，尤其在未能出道的負面情緒下完成《EMPTY》曲子，因[YG娛樂](../Page/YG娛樂.md "wikilink")梁賢碩社長認為此曲更適合由[WINNER](../Page/WINNER.md "wikilink")演繹\[22\]，而成為[WINNER](../Page/WINNER.md "wikilink")出道專輯中兩首主打歌之一：是一首感性嘻哈曲，通過饒舌講述了離別後的空虛感，由[宋閔浩](https://zh.wikipedia.org/wiki/宋閔浩 "wikilink")([WINNER](../Page/WINNER.md "wikilink"))，以及[BI和](https://zh.wikipedia.org/wiki/BI "wikilink")[BOBBY參與作詞](https://zh.wikipedia.org/wiki/BOBBY "wikilink")。《EMPTY》公開音源後，在韓國9大主要音源榜奪取實時冠軍，席捲了8大主要音源網站的今日排行榜\[23\]。
 
-### 2014年－2015年：練習生時期：《[MIX & MATCH](../Page/MIX_&_MATCH.md "wikilink")》、《[Show Me The Money 3](../Page/Show_Me_The_Money_3.md "wikilink")》、[冰桶挑戰](../Page/冰桶挑戰.md "wikilink")
+### 2014年－2015年：練習生時期：《MIX & MATCH》、《Show Me The Money 3》、冰桶挑戰
 
 2014年5月7日原《[WIN](../Page/WIN.md "wikilink")》TEAM B成員六人再次參加[YG娛樂](../Page/YG娛樂.md "wikilink")的新男團[iKON出道生存節目](https://zh.wikipedia.org/wiki/iKON "wikilink")《[MIX & MATCH](../Page/MIX_&_MATCH.md "wikilink")》，除了Team B原有六名成員外，新加入三位練習生[鄭粲右](../Page/鄭粲右.md "wikilink")(정찬우)、[梁洪碩](https://zh.wikipedia.org/wiki/梁洪碩 "wikilink")（양홍석）、鄭鎮馨（정진형）進行混搭和小組對決；該節目將選出七人成為出道團體[iKON的成員](https://zh.wikipedia.org/wiki/iKON "wikilink")，其中B.I、[Bobby](../Page/金知元_\(饒舌者\).md "wikilink")、[金振煥](../Page/金振煥.md "wikilink")等三人已確定為出道團體[iKON的固定成員](https://zh.wikipedia.org/wiki/iKON "wikilink")，剩下四個位置，共六名練習生，預計將淘汰兩位成員\[24\]。節目第一集片尾公佈TEAM B演唱的《[Wait For Me](https://www.youtube.com/watch?v=sEJi_Bltlq0&index=24&list=PLjUVzlcpeN4S5hKdKdeAY6HuWE7eH7z3q/)》，是首B.I在《[WIN](../Page/WIN.md "wikilink")》輸了之後，一邊過著練習生活，同時希望粉絲們、家人們，還有曾站上過的舞台等一切，能等待他們出道、挽留粉絲的曲子\[25\]。
 
@@ -36,7 +36,7 @@ B.I輸了出道生存節目《[WIN](../Page/WIN.md "wikilink")》後，體悟到
 
 2015年尚未出道前，B.I第一次見到「花路」()一詞，覺得這個詞彙很美好，在思索它的反義詞過程中寫出《Goodbye Road》(；)，描述和愛人離別後獨自走的路\[35\]。2017年底錄音及MV拍攝完畢，然而在2018年初決定主打歌時敗給《Love Scenario》。而後在2018年10月1日第三次回歸時成為主打歌發行\[36\]。
 
-### 2015年－：以**iKON** 出道；出演《[瑪麗與我](https://zh.wikipedia.org/wiki/瑪麗與我 "wikilink")》展現反差形象
+### 2015年－：以**iKON** 出道；出演《瑪麗與我》展現反差形象
 
 為[YG娛樂](../Page/YG娛樂.md "wikilink")旗下7人男子團體[iKON隊長](https://zh.wikipedia.org/wiki/iKON "wikilink")，主要負責專輯製作、作曲、Rap作詞等，2015年9月15日，以先行單曲《取向狙擊》（；MY TYPE）出道\[37\]，MV在12小時內點閱率破百萬\[38\]，並在韓國Melon等8大音樂排行榜佔據1位\[39\]。
 

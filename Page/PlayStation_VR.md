@@ -12,7 +12,7 @@ PlayStation VR最初公布的游戏多为类似技术演示的作品，不过后
 
 ## 销售
 
-PlayStation VR在2016年10月13日起在全球范围内发售。根据[Media Create统计](../Page/Media_Create.md "wikilink")，PlayStation VR在日本首周销量为5万1千台\[5\]。2017年12月，Sony公佈PS VR的全球銷量已突破200万組\[6\]。截至2019年3月，全世界累計銷量超過了420萬台\[7\]。
+PlayStation VR在2016年10月13日起在全球范围内发售。根据[Media Create统计](../Page/Media_Create.md "wikilink")，PlayStation VR在日本首周销量为5万1千台\[5\]。2017年12月，Sony公佈PS VR的全球銷量已突破200万組\[6\]。截至2019年，全世界累計銷量達470萬台\[7\]。
 
 ## 轶闻
 
@@ -41,6 +41,6 @@ PlayStation VR的開發計畫名称“墨菲斯（morpheus）”与[PlayStation 
 4.  [《死或生：沙滩排球3》VR版与PS VR同步发售](http://www.vgtime.com/article/11924115.jhtml).游戏时光.2016-07-10.\[2016-07-11\].
 5.  [「PlayStation VR」の初週販売数は5万1000台。「ライズ オブ ザ トゥームレイダー」などの新作もランクインした「週間販売ランキング＋」](http://www.4gamer.net/games/117/G011794/20161019072/).4Gamer.2016-10-19.\[2016-10-19\].
 6.  <http://www.ign.com/articles/2017/12/07/ps4-hits-70-million-sales-psvr-hits-2-million>
-7.  <https://www.jp.playstation.com/blog/detail/8425/20190326-stateofplay04.html>
+7.  <https://www.gamesindustry.biz/articles/2019-10-25-enterprise-revenue-expected-to-jump-69-percent-this-year-as-vr-takes-hold-in-business>
 8.  [PlayStation 4.5 code-named NEO, rumor links it to Project Morpheus and PlayStation VR](https://www.technobuffalo.com/2016/04/19/playstation-4-5-ps4k-code-name-neo/) .TechnoBuffalo.2016-04-19.\[2017-07-15\].
 9.  <https://www.jp.playstation.com/games/kamen-rider-ex-aid-special-contents-genmu-vr-ver-ps4/>

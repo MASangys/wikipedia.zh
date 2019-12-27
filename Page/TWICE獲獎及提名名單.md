@@ -371,15 +371,57 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>年度專輯</strong></p></td>
+<td><p><strong>年度歌曲</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>年度歌曲</strong></p></td>
+<td><p><strong>年度歌手</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>年度專輯</strong></p></td>
+<td><p><a href="../Page/What_is_Love?.md" title="wikilink">What is Love?</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第21届</p></td>
+<td><p>2019年</p></td>
+<td><p>最佳女子團體獎</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最佳女子團體舞蹈獎</p></td>
+<td><p><a href="../Page/FANCY_YOU.md" title="wikilink">FANCY</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>Worldwide Fans' Choice</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Qoo10 FAVORITE FEMALE ARTIST</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>年度歌曲</strong></p></td>
+<td><p><a href="../Page/FANCY_YOU.md" title="wikilink">FANCY</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -387,6 +429,20 @@
 <tr class="odd">
 <td><p><strong>年度歌手</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>年度專輯</strong></p></td>
+<td><p><a href="../Page/FANCY_YOU.md" title="wikilink">FANCY YOU</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -784,6 +840,18 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>歌手部門 - AAA Best Soical Artist</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>歌手部門 - 年度歌手</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -1105,6 +1173,25 @@
 </tbody>
 </table>
 
+### Newsis 2019韓流博覽會
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年份</p></td>
+<td><p>獎項</p></td>
+<td><p>提名項目</p></td>
+<td><p>結果</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>韓流文化大獎(文化觀光部長獎)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
+<td><p>[18]</p></td>
+</tr>
+</tbody>
+</table>
+
 ### [Naver](../Page/NAVER.md "wikilink") V-app Awards
 
 <table>
@@ -1169,7 +1256,7 @@
 <td><p>年度女子新人獎<br />
 (Best Rising Star Girl Group)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>[18]</p></td>
+<td><p>[19]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1300,7 +1387,7 @@
 <td><p>2015年</p></td>
 <td><p>年度女子新人獎</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>[19]</p></td>
+<td><p>[20]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年</p></td>
@@ -1317,12 +1404,12 @@
 <tr class="odd">
 <td><p>最佳女子團體</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>[20]</p></td>
+<td><p>[21]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p>[21]</p></td>
+<td><p>[22]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1343,7 +1430,7 @@
 <td><p>2015年</p></td>
 <td><p>Best Rookie Group</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>[22]</p></td>
+<td><p>[23]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1369,7 +1456,7 @@
 
 ## 音樂節目獎項
 
-2017年，[TWICE從](https://zh.wikipedia.org/wiki/TWICE "wikilink")1月6日開始在《音樂銀行》截止至12月31日在沒有播出的《人氣歌謠》，已從各大音樂節目獲得共36個一位，成為2017年獲得最多音樂節目一位的團體，超越2016年的女團GFRIEND的一年內獲得29個一位的記錄，也打破EXO在2015年獲得32個一位的紀錄，成為一年內取得最多音樂節目冠軍的韓國藝人紀錄。\[23\]
+2017年，[TWICE從](https://zh.wikipedia.org/wiki/TWICE "wikilink")1月6日開始在《音樂銀行》截止至12月31日在沒有播出的《人氣歌謠》，已從各大音樂節目獲得共36個一位，成為2017年獲得最多音樂節目一位的團體，超越2016年的女團GFRIEND的一年內獲得29個一位的記錄，也打破EXO在2015年獲得32個一位的紀錄，成為一年內取得最多音樂節目冠軍的韓國藝人紀錄。\[24\]
 
 ### 獎座統計
 
@@ -1384,8 +1471,8 @@
 <td><p><a href="../Page/韓國放送公社.md" title="wikilink">KBS</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>18</p></td>
-<td><p>23</p></td>
+<td><p>20</p></td>
+<td><p>24</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1423,6 +1510,8 @@
 | 7月19日  | Dance The Night Away |               |
 | 11月15日 | YES or YES           |               |
 | 2019年  | 5月2日                 | Fancy         |
+| 10月3日  | Feel Special         |               |
+| 10月10日 |                      |               |
 
   - 註：每首歌曲最多只能獲得一位三次，獲獎三次後會自動在候補名單中被剔除。
 
@@ -1454,6 +1543,7 @@
 | 4月27日  |                      |               |
 | 7月20日  | Dance The Night Away |               |
 | 8月3日   |                      |               |
+| 2019年  | 10月4日                | Feel Special  |
 
 ### [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")
 
@@ -1501,6 +1591,8 @@
 | 8月5日   |                      |             |
 | 11月18日 | YES or YES           |             |
 | 2019年  | 5月5日                 | Fancy       |
+| 10月6日  | Feel Special         |             |
+| 10月13日 |                      |             |
 
   - 註：每首歌曲最多只能獲得一位三次，獲獎三次後會自動在候補名單中被剔除。
 
@@ -1529,6 +1621,8 @@
 | 11月14日 | YES or YES           |               |
 | 11月21日 |                      |               |
 | 2019年  | 5月1日                 | Fancy         |
+| 10月2日  | Feel Special         |               |
+| 10月9日  |                      |               |
 
 ## 註釋與參考資料
 
@@ -1541,44 +1635,26 @@
 [Category:TWICE](https://zh.wikipedia.org/wiki/Category:TWICE "wikilink") [Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16. {{ Cite web |url=<http://www.epochtimes.com/b5/18/2/27/n10176460.htm> |title=第32屆日本金唱片大獎 完整得獎名單揭曉 |publisher=大紀元 |date=2018-2-27 |accessdate=2018-2-27 }}
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
+24.

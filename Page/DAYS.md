@@ -1,12 +1,12 @@
 《**DAYS**》是[安田剛士](../Page/安田剛士.md "wikilink")的[日本](../Page/日本.md "wikilink")[足球](../Page/足球.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。2013年開始在[講談社的旗下少年漫畫雜誌](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》第21、22合併號連載。[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2016年7月至12月首播。
 
-## 概要
+## 作品簡介
 
 本作品描寫主角柄本盡為初學者，進入了足球名校聖蹟高校之後與隊友們產生情誼、共同成長，還得到了隊友的讚賞\[1\]。
 
 在發行單行本時並收錄了在同雜誌連載的其他漫畫家的推薦文之中，第1冊收錄了[棒球](../Page/棒球.md "wikilink")漫畫《[鑽石王牌](../Page/鑽石王牌.md "wikilink")》作者[寺嶋裕二](../Page/寺嶋裕二.md "wikilink")的推薦文，第2冊則收錄了[籃球漫畫](https://zh.wikipedia.org/wiki/籃球 "wikilink")《[籃球少年王](../Page/籃球少年王.md "wikilink")》作者[日向武史](../Page/日向武史.md "wikilink")的推薦文。
 
-2015年入圍第39回[講談社漫畫賞少年部門的推薦作品](https://zh.wikipedia.org/wiki/講談社漫畫賞 "wikilink")\[2\]。
+2015年入圍第39屆[講談社漫畫獎](../Page/講談社漫畫獎.md "wikilink")少年部門的推薦作品\[2\]。
 
 2016年1月宣佈改編成[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[3\]。
 
@@ -28,7 +28,7 @@
 <!-- end list -->
 
   -
-    身高：172cm。血型：B型。生日：9月20日。[神奈川縣](../Page/神奈川縣.md "wikilink")出身。愛好：[巨乳](../Page/巨乳.md "wikilink")。拿手技巧：[劍玉](../Page/劍玉.md "wikilink")。不擅長的東西：[貧乳](https://zh.wikipedia.org/wiki/貧乳 "wikilink")（類似生方那種的）。喜歡的格言：[無碼](https://zh.wikipedia.org/wiki/無碼 "wikilink")。女朋友：從來沒為這種事犯愁過。
+    身高：172cm。血型：B型。生日：9月20日。[神奈川縣](../Page/神奈川縣.md "wikilink")出身。愛好：[巨乳](../Page/巨乳.md "wikilink")。拿手技巧：[劍玉](../Page/劍玉.md "wikilink")。不擅長的東西：[貧乳](https://zh.wikipedia.org/wiki/貧乳 "wikilink")（類似生方那種的）。喜歡的格言：[無碼](../Page/無碼.md "wikilink")。女朋友：從來沒為這種事犯愁過。
     聖蹟高中1年級。守備位置為右翼前鋒。背號9號。非常敬佩柄本永不放棄努力不懈的精神。只要一關係到柄本就容易生氣。教練花了兩年時間遊說的天才選手。來自破碎家庭，小學時期，母親隨弟離他而去（動畫裡為妹妹），所以直到進入聖蹟高中才對校隊產生歸屬感。
 
 ### 聖蹟高校

@@ -41,7 +41,7 @@ KOA公司（コーア株式會社， KOA株式會社）是一家成立於1940年
 3.  <https://en.wikipedia.org/wiki/KOA_Corporation>
 4.  <http://www.koaglobal.com/product/smd-resistor>
 5.  <http://www.koaglobal.com/product/lead-resistor>
-6.  <http://www.koaglobal.com/product/network-resistor>
+6.
 7.  <http://www.koaglobal.com/product/sensor>
 8.  <http://www.koaglobal.com/product/inductor>
 9.  <http://www.koaglobal.com/product/fuse>

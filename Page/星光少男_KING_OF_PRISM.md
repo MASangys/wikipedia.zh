@@ -344,7 +344,7 @@
   - [「KING OF PRISM by PrettyRhythm」官方網站](http://kinpri.com/)
 
   -
-[Category:星光少女](https://zh.wikipedia.org/wiki/Category:星光少女 "wikilink") [Category:2016年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2016年日本劇場動畫 "wikilink") [Category:日本電視動畫的電影版](https://zh.wikipedia.org/wiki/Category:日本電視動畫的電影版 "wikilink") [Category:2019年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2019年東京電視網動畫 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink") [Category:龍之子Production](https://zh.wikipedia.org/wiki/Category:龍之子Production "wikilink") [Category:動畫衍生作品](https://zh.wikipedia.org/wiki/Category:動畫衍生作品 "wikilink")
+[Category:星光少女](https://zh.wikipedia.org/wiki/Category:星光少女 "wikilink") [Category:2016年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2016年日本劇場動畫 "wikilink") [Category:日本電視動畫的電影版](https://zh.wikipedia.org/wiki/Category:日本電視動畫的電影版 "wikilink") [Category:2019年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2019年東京電視網動畫 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink") [Category:龍之子Production](https://zh.wikipedia.org/wiki/Category:龍之子Production "wikilink") [Category:動畫衍生作品](https://zh.wikipedia.org/wiki/Category:動畫衍生作品 "wikilink") [Category:2020年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2020年日本劇場動畫 "wikilink")
 
 1.
 2.

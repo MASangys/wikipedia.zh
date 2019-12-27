@@ -82,7 +82,7 @@
 <td><p>Yukung Watanabe</p></td>
 <td><p>Turbo 藍天保</p></td>
 <td><p>入江裕樹</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高雅玲" title="wikilink">高雅玲</a></p></td>
+<td><p><a href="../Page/高雅玲.md" title="wikilink">高雅玲</a></p></td>
 <td><p>TenTen之弟，Bom、Kaew之幼子</p></td>
 </tr>
 <tr class="even">
@@ -103,7 +103,7 @@
 <td><p>Pim Bubear</p></td>
 <td><p>Namkang 戴琳嘉</p></td>
 <td><p>松本裕子</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高雅玲" title="wikilink">高雅玲</a></p></td>
+<td><p><a href="../Page/高雅玲.md" title="wikilink">高雅玲</a></p></td>
 <td><p>暗戀TenTen<br />
 後為P'Dan之女友。</p></td>
 </tr>

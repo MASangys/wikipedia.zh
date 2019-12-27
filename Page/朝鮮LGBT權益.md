@@ -46,7 +46,7 @@
 | 平等的最低合法性交年齡                                                 | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（法律上沒有記載年齡的差異）    |
 | 職場上的反歧視法律                                                   | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                           |
 | 在提供商品及服務的反歧視法                                               | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                           |
-| 其他全部領域的反歧視法（包括但不限於間接歧視、仇恨言論）                                | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                           |
+| 其他全部領域的反歧視法（包括間接歧視、仇恨言論等）                                   | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                           |
 | 同性婚姻                                                        | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                           |
 | 承認同性伴侶                                                      | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                           |
 | 同性伴侶對繼子女的收養                                                 | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                           |

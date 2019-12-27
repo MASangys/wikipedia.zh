@@ -100,19 +100,19 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
 
 <!-- end list -->
 
-  - ：往[長町站](../Page/長町車站.md "wikilink")、[仙台站東口](https://zh.wikipedia.org/wiki/仙台站 "wikilink")（[JR巴士東北](../Page/JR巴士東北.md "wikilink")）
+  - ：往[長町站](../Page/長町車站.md "wikilink")、[仙台站](../Page/仙台站.md "wikilink")東口（[JR巴士東北](../Page/JR巴士東北.md "wikilink")）
 
   - ：往[山形站](https://zh.wikipedia.org/wiki/山形站 "wikilink")（JR巴士東北）
 
   - ：往[豬苗代站](https://zh.wikipedia.org/wiki/豬苗代站 "wikilink")、[會津若松站](../Page/會津若松站.md "wikilink")、、[喜多方營業所](../Page/喜多方站.md "wikilink")（[JR巴士關東](https://zh.wikipedia.org/wiki/JR巴士關東 "wikilink")、）
 
-  - ：往[西鄉巴士站](https://zh.wikipedia.org/wiki/西鄉巴士站 "wikilink")（白河）、須賀川營業所、[郡山站](https://zh.wikipedia.org/wiki/郡山站_\(福島縣\) "wikilink")、[二本松巴士站](https://zh.wikipedia.org/wiki/二本松IC#二本松巴士站 "wikilink")、[福島站東口](https://zh.wikipedia.org/wiki/福島站_\(福島縣\) "wikilink")（JR巴士關東、JR巴士東北、）
+  - ：往[西鄉巴士站](https://zh.wikipedia.org/wiki/西鄉巴士站 "wikilink")（白河）、須賀川營業所、[郡山站](https://zh.wikipedia.org/wiki/郡山站_\(福島縣\) "wikilink")、[二本松巴士站](https://zh.wikipedia.org/wiki/二本松IC#二本松巴士站 "wikilink")、[福島站東口](../Page/福島站_\(福島縣\).md "wikilink")（JR巴士關東、JR巴士東北、）
 
 <!-- end list -->
 
   - 廣瀨LINER號：往[仙台](../Page/仙台市.md "wikilink")、[石卷](https://zh.wikipedia.org/wiki/石卷市 "wikilink")（[京王電鐵巴士](../Page/京王電鐵巴士.md "wikilink")、）
 
-  - ：往[八戶](https://zh.wikipedia.org/wiki/八戶站 "wikilink")、[三澤](../Page/三澤市.md "wikilink")、[野邊地](../Page/野邊地町.md "wikilink")、[陸奧橫濱](../Page/橫濱町.md "wikilink")、[陸奧](../Page/陸奧市.md "wikilink")（）
+  - ：往[八戶](../Page/八戶站.md "wikilink")、[三澤](../Page/三澤市.md "wikilink")、[野邊地](../Page/野邊地町.md "wikilink")、[陸奧橫濱](../Page/橫濱町.md "wikilink")、[陸奧](../Page/陸奧市.md "wikilink")（）
 
   - ：往[鶴岡](../Page/鶴岡市.md "wikilink")、[酒田](../Page/酒田市.md "wikilink")（國際興業、）
 
@@ -130,7 +130,7 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
 
   - ：往[弘前站城東口](../Page/弘前車站.md "wikilink")、青森站東口、[青森港](../Page/青森港.md "wikilink")遊艇總站（）
 
-  - WILLER EXPRESS：往[盛岡站西口](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")、、[八戶站](https://zh.wikipedia.org/wiki/八戶站 "wikilink")、、[三澤站東口](../Page/三澤車站_\(青森縣\).md "wikilink")（岩手縣北自動車）
+  - WILLER EXPRESS：往[盛岡站](../Page/盛岡站.md "wikilink")西口、、[八戶站](../Page/八戶站.md "wikilink")、、[三澤站東口](../Page/三澤車站_\(青森縣\).md "wikilink")（岩手縣北自動車）
 
   - WILLER EXPRESS：往[橫手](../Page/橫手站.md "wikilink")、大曲、秋田（NEW PRINCE高速巴士）
 
@@ -145,7 +145,7 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
   - KIRAKIRA號：往[橫手站](../Page/橫手站.md "wikilink")西口、[大曲站東口](../Page/大曲車站_\(秋田縣\).md "wikilink")、秋田站、[能代](../Page/能代站.md "wikilink")（櫻交通）
   - KIRAKIRA號：往山形、[鶴岡](https://zh.wikipedia.org/wiki/鶴岡IC "wikilink")、酒田（櫻交通）
   - KIRAKIRA號：往福島、仙台、石卷（櫻交通）
-  - 櫻高速巴士：往[新白河站](https://zh.wikipedia.org/wiki/新白河站 "wikilink")、[須賀川](https://zh.wikipedia.org/wiki/須賀川IC "wikilink")、[郡山](https://zh.wikipedia.org/wiki/郡山車站_\(福島縣\) "wikilink")、福島（櫻交通）
+  - 櫻高速巴士：往[新白河站](https://zh.wikipedia.org/wiki/新白河站 "wikilink")、[須賀川](https://zh.wikipedia.org/wiki/須賀川IC "wikilink")、[郡山](../Page/郡山車站_\(福島縣\).md "wikilink")、福島（櫻交通）
   - 櫻高速巴士：往[南相馬](../Page/南相馬市.md "wikilink")、[相馬交流道](https://zh.wikipedia.org/wiki/相馬交流道 "wikilink")（櫻交通）
   - 散策巴士：往仙台（）
   - KB LINER：往盛岡站西口、秋田站（千葉未來觀光巴士）
@@ -180,7 +180,7 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
 
   - 尾瀨號：往尾瀨戶倉、大清水（季節運行）（）
 
-  - 上州湯煙LINER 水上溫泉號：往[上毛高原站](https://zh.wikipedia.org/wiki/上毛高原站 "wikilink")、[水上站](https://zh.wikipedia.org/wiki/水上站_\(日本\) "wikilink")（季節運行）（關越交通）
+  - 上州湯煙LINER 水上溫泉號：往[上毛高原站](../Page/上毛高原站.md "wikilink")、[水上站](https://zh.wikipedia.org/wiki/水上站_\(日本\) "wikilink")（季節運行）（關越交通）
 
   - 新宿 - [東京迪士尼渡假區](https://zh.wikipedia.org/wiki/東京迪士尼渡假區 "wikilink")：往[東京迪士尼海洋](../Page/東京迪士尼海洋.md "wikilink")、[東京迪士尼樂園](../Page/東京迪士尼樂園.md "wikilink")（JR巴士關東、[京成巴士](../Page/京成巴士.md "wikilink")）
 
@@ -247,7 +247,7 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
 
 <!-- end list -->
 
-  - ：往[新潟](https://zh.wikipedia.org/wiki/新潟站 "wikilink")，經[長岡往新潟](https://zh.wikipedia.org/wiki/長岡站 "wikilink")（、）
+  - ：往[新潟](../Page/新潟站.md "wikilink")，經[長岡往新潟](https://zh.wikipedia.org/wiki/長岡站 "wikilink")（、）
 
   - ：往柏崎、高田、直江津（[西武巴士](../Page/西武巴士.md "wikilink")、越後交通、）
 
@@ -264,8 +264,8 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
   - NETWORK：往新潟站南、、月岡溫泉、五頭溫泉（）
   - 花巴士觀光：往、[八岳](../Page/八岳中信高原國定公園.md "wikilink")、[諏訪](../Page/諏訪IC_\(長野縣\).md "wikilink")、[松本](https://zh.wikipedia.org/wiki/松本站 "wikilink")、[安曇野](https://zh.wikipedia.org/wiki/安曇野市 "wikilink")、[飯田](https://zh.wikipedia.org/wiki/飯田IC_\(長野縣\) "wikilink")、[駒根](https://zh.wikipedia.org/wiki/駒根IC "wikilink")、（）
   - 花巴士觀光：往[佐久](https://zh.wikipedia.org/wiki/佐久IC "wikilink")、上田、[千曲](../Page/千曲市.md "wikilink")、[長野](https://zh.wikipedia.org/wiki/長野IC "wikilink")、[須坂](../Page/須坂長野東IC.md "wikilink")（Travice Japan）
-  - KIRAKIRA號：往長岡、[燕三條](https://zh.wikipedia.org/wiki/燕三條車站 "wikilink")、新潟（櫻交通）
-  - DOTCOM LINER：往[輕井澤站](https://zh.wikipedia.org/wiki/輕井澤車站 "wikilink")、長野、須坂（昌榮高速運輸）
+  - KIRAKIRA號：往長岡、[燕三條](../Page/燕三條車站.md "wikilink")、新潟（櫻交通）
+  - DOTCOM LINER：往[輕井澤站](../Page/輕井澤車站.md "wikilink")、長野、須坂（昌榮高速運輸）
 
 <!-- end list -->
 
@@ -273,7 +273,7 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
 
 <!-- end list -->
 
-  - ：往[金澤站](https://zh.wikipedia.org/wiki/金澤站 "wikilink")（西日本JR巴士、西武巴士）
+  - ：往[金澤站](../Page/金澤站.md "wikilink")（西日本JR巴士、西武巴士）
 
   - 、晝特急福井號：往[敦賀交流道](https://zh.wikipedia.org/wiki/敦賀IC "wikilink")、[武生交流道](https://zh.wikipedia.org/wiki/武生IC "wikilink")、[鯖江交流道](https://zh.wikipedia.org/wiki/鯖江IC "wikilink")、[福井站](https://zh.wikipedia.org/wiki/福井站_\(福井縣\) "wikilink")（JR巴士關東、、）
 
@@ -310,7 +310,7 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
 
   - 御殿場PREMIUM OUTLET號：往（\[65\]）
 
-  - ：往[新靜岡](https://zh.wikipedia.org/wiki/新靜岡站 "wikilink")、[靜岡站](https://zh.wikipedia.org/wiki/靜岡站 "wikilink")（JR巴士關東、）
+  - ：往[新靜岡](https://zh.wikipedia.org/wiki/新靜岡站 "wikilink")、[靜岡站](../Page/靜岡站.md "wikilink")（JR巴士關東、）
 
   - ：往名古屋站（JR東海巴士）
 
@@ -318,7 +318,7 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
 
   - ：往[中津川站](../Page/中津川站.md "wikilink")、[多治見站](../Page/多治見站.md "wikilink")、可兒車庫（JR巴士關東、）
 
-  - ：往[名古屋站](https://zh.wikipedia.org/wiki/名古屋站 "wikilink")（JR巴士關東）
+  - ：往[名古屋站](../Page/名古屋站.md "wikilink")（JR巴士關東）
 
   - ：往[三河安城站](https://zh.wikipedia.org/wiki/三河安城站 "wikilink")、瑞穗區役所、名古屋站（[JR東海巴士](../Page/JR東海巴士.md "wikilink")）
 
@@ -329,7 +329,7 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
       - 飛驒高山線：往、（京王電鐵巴士、）
       - 名古屋線：往[名古屋](../Page/名铁巴士中心.md "wikilink")（京王巴士東、）
 
-  - ：往[裾野](https://zh.wikipedia.org/wiki/裾野市 "wikilink")、[三島](https://zh.wikipedia.org/wiki/三島站 "wikilink")、[沼津](../Page/沼津車站.md "wikilink")（京王巴士東、）
+  - ：往[裾野](https://zh.wikipedia.org/wiki/裾野市 "wikilink")、[三島](../Page/三島站.md "wikilink")、[沼津](../Page/沼津車站.md "wikilink")（京王巴士東、）
 
   - ：往[清水](https://zh.wikipedia.org/wiki/清水站_\(靜岡縣\) "wikilink")、[靜岡](../Page/靜岡市.md "wikilink")（京王巴士東、JR東海巴士）
 
@@ -337,7 +337,7 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
 
 <!-- end list -->
 
-  - ：往、[豐橋站](https://zh.wikipedia.org/wiki/豐橋站 "wikilink")、（[關東巴士](../Page/關東巴士.md "wikilink")、）
+  - ：往、[豐橋站](../Page/豐橋站.md "wikilink")、（[關東巴士](../Page/關東巴士.md "wikilink")、）
 
   - ：往岐阜（小田急城市巴士、）
 
@@ -360,7 +360,7 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
   - 櫻高速巴士：往東岡崎、三河豐田、名古屋南笹島演奏廳（櫻交通、AT LINER）
   - 散策巴士：往名古屋南笹島演奏廳（AT LINER）
   - KIRAKIRA號：往名古屋南笹島演奏廳（櫻交通）
-  - KIRAKIRA號：往[濱松](https://zh.wikipedia.org/wiki/濱松站 "wikilink")（櫻交通）
+  - KIRAKIRA號：往[濱松](../Page/濱松站.md "wikilink")（櫻交通）
   - MILKYWAY EXPRESS：往名古屋南笹島演奏廳（櫻觀光巴士）
   - VIP LINER：往名古屋VIP LOUNGE（）
   - JAMJAM LINER：往豐橋、東岡崎、新豐田、名古屋南、四日市、白子（JAMJAM EXPRESS）
@@ -400,7 +400,7 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
 
 <!-- end list -->
 
-  - 南紀白濱線：往海南、南部、田邊、[南紀白濱](https://zh.wikipedia.org/wiki/白濱町 "wikilink")（西武觀光巴士、）
+  - 南紀白濱線：往海南、南部、田邊、[南紀白濱](../Page/白濱町.md "wikilink")（西武觀光巴士、）
 
 <!-- end list -->
 
@@ -435,7 +435,7 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
 
 <!-- end list -->
 
-  - ：往[岡山站](https://zh.wikipedia.org/wiki/岡山站_\(日本\) "wikilink")、[倉敷站](../Page/倉敷站.md "wikilink")（[中國JR巴士](../Page/中國JR巴士.md "wikilink")）
+  - ：往[岡山站](../Page/岡山站_\(日本\).md "wikilink")、[倉敷站](../Page/倉敷站.md "wikilink")（[中國JR巴士](../Page/中國JR巴士.md "wikilink")）
 
 <!-- end list -->
 
@@ -445,7 +445,7 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
 
   - ：往西條、廣島、吳（往吳為季節運行）（小田急城市巴士、中國JR巴士）
 
-  - ：往[福山](https://zh.wikipedia.org/wiki/福山車站_\(日本\) "wikilink")、[三原](https://zh.wikipedia.org/wiki/三原站_\(日本\) "wikilink")（小田急城市巴士、）
+  - ：往[福山](../Page/福山車站_\(日本\).md "wikilink")、[三原](../Page/三原站_\(日本\).md "wikilink")（小田急城市巴士、）
 
 <!-- end list -->
 
@@ -501,11 +501,11 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
 
 <!-- end list -->
 
-  - ：往[小倉](https://zh.wikipedia.org/wiki/小倉站_\(福岡縣\) "wikilink")、[天神](https://zh.wikipedia.org/wiki/西鐵天神高速巴士總站 "wikilink")、（[西日本鐵道](../Page/西日本鐵道.md "wikilink")）
+  - ：往[小倉](../Page/小倉站_\(福岡縣\).md "wikilink")、[天神](https://zh.wikipedia.org/wiki/西鐵天神高速巴士總站 "wikilink")、（[西日本鐵道](../Page/西日本鐵道.md "wikilink")）
 
 <!-- end list -->
 
-  - ORION BUS：往[新山口站北口](https://zh.wikipedia.org/wiki/新山口站 "wikilink")、小倉站新幹線口、博多站筑紫口（）
+  - ORION BUS：往[新山口站](../Page/新山口站.md "wikilink")北口、小倉站新幹線口、博多站筑紫口（）
 
 ### 其他停靠處
 

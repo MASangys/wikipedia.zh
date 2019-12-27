@@ -152,4 +152,10 @@ TWINS x :CHOCOOLATE x BABY MILO® 限量版Boxset包括
 | 虛齡時代  | 4        | 14           | 2         | 2        |
 | emoji | \-       | \-           | 18        | \-       |
 
+## 獎項
+
+  - IFPI 2016年十大銷量廣東唱片\[1\]
+
 [Category:Twins音樂專輯](https://zh.wikipedia.org/wiki/Category:Twins音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink")
+
+1.

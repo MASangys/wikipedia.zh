@@ -22,7 +22,7 @@
 （<a href="https://zh.wikipedia.org/wiki/Super_Girls" title="wikilink">Super Girls</a>）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/吳嘉熙.md" title="wikilink">吳嘉熙</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/陳穎欣" title="wikilink">陳穎欣</a><br />
 （<a href="https://zh.wikipedia.org/wiki/Super_Girls" title="wikilink">Super Girls</a>）</p></td>
 </tr>
 <tr class="odd">

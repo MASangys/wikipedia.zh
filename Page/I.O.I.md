@@ -26,7 +26,7 @@
 
 ### 2016年下半年 ： 完全體回歸最終回——第二張迷你專輯《Miss Me?》
 
-[20160730-P1000773_(28346339234).jpg](https://zh.wikipedia.org/wiki/File:20160730-P1000773_\(28346339234\).jpg "fig:20160730-P1000773_(28346339234).jpg") 8月15日，I.O.I.以完全體翻唱《手拉手》，乃[1988年漢城奧運會的主題曲](https://zh.wikipedia.org/wiki/1988年夏季奥林匹克运动会 "wikilink")。
+[20160730-P1000773_(28346339234).jpg](https://zh.wikipedia.org/wiki/File:20160730-P1000773_\(28346339234\).jpg "fig:20160730-P1000773_(28346339234).jpg") 8月15日，I.O.I.以完全體翻唱《手拉手》，乃[1988年漢城奧運會的主題曲](../Page/1988年夏季奥林匹克运动会.md "wikilink")。
 
 10月12日I.O.I透過官方Facebook釋出娜榮、潔瓊、度延、請夏、美娜的概念照，且同時宣布I.O.I將在10月17日發行第二張迷你專輯《miss me?》正式回歸歌壇\[26\]。10月13日釋出昭彌、素慧、彩妍、有情、璉靜、世正的概念照\[27\]\[28\]。5天後，第二張迷你專輯《miss me?》〈Very Very Very〉MV及音源正式公開，這由[JYP娛樂](../Page/JYP娛樂.md "wikilink")的[朴軫永](../Page/朴軫永.md "wikilink")創作，並參與了專輯概念、舞蹈、服裝與MV等策劃\[29\]，這同時也是I.O.I最後一張專輯。音源公開後1小時，專輯中5首收錄曲皆進入韓國八大音樂榜單前列位置。主打曲〈Very Very Very〉更在音源公開2小時後，在八大音源排行榜皆獲得實時一位，完成實時All Kill，非主打〈等一下〉也在八大榜單獲得二至三位的佳績\[30\]。10月19日，韓國時間下午3時半，主打曲〈Very Very Very〉在韓國八大音源榜獲得實時、日榜和周榜全部一位。出道僅五個月，就達成Perfect All Kill\[31\]。同月22日，I.O.I專輯《miss me?》在Hanteo專輯榜的首周銷量突破50433張，為2016全年女團首周銷量第二，同時亦打破韓國女團出道首年首周銷量紀錄。排行自2009年有紀錄以來，歷代韓國女團首周銷量第4名（僅次於[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[f(x)和](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")）。另外，2016年I.O.I發表的兩張迷你專輯和兩張單曲專輯總銷量達24萬張。26日，〈Very Very Very〉於《[Show Champion](../Page/Show_Champion.md "wikilink")》獲得完整體回歸首個一位\[32\]。隔天《[M\! Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》在官網上公布名次，I.O.I獲完整體回歸第二個一位\[33\]。3天後，I.O.I在《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》獲完整體回歸第三個一位\[34\]。
 

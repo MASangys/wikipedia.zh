@@ -76,7 +76,7 @@
 
 **其他節目：**
 
-  - 專訪環節「[StarTalk](https://zh.wikipedia.org/wiki/StarTalk "wikilink")」，但不定時播放。
+  - 專訪環節「StarTalk」，但不定時播放。
 
 曾接受訪問嘉賓多不勝數有：
 
@@ -105,11 +105,11 @@
   - 周日早上10:00，則以一節兩小時的「一周娛樂連環報」回顧一周娛樂新聞。周日下午2:00重播。
   - 不定時播放優質生活環節「C'est La Vie」。
 
-該台最特別的地方，是會主動組織藝人參與活動，甚至推動社會事務。例如在2006年8月28日該台召開《[私隱‧尊嚴‧香港人既事](https://zh.wikipedia.org/wiki/私隱‧尊嚴‧香港人既事 "wikilink")》記者會，批批評傳媒的不良採訪手法，及藝人[鍾欣桐在](https://zh.wikipedia.org/wiki/鍾欣桐 "wikilink")[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[雲頂娛樂城更衣室被偷拍的事件](../Page/雲頂高原.md "wikilink")。為宣揚反偷拍的訊息，無綫娛聞台特別批准其他電視台採訪。
+該台最特別的地方，是會主動組織藝人參與活動，甚至推動社會事務。例如在2006年8月28日該台召開《私隱‧尊嚴‧香港人既事》記者會，批批評傳媒的不良採訪手法，及藝人[鍾欣桐在](https://zh.wikipedia.org/wiki/鍾欣桐 "wikilink")[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[雲頂娛樂城更衣室被偷拍的事件](../Page/雲頂高原.md "wikilink")。為宣揚反偷拍的訊息，無綫娛聞台特別批准其他電視台採訪。
 
 **大型綜藝及資訊節目：**
 
-從2007年至2010年﹑2012至2016年及2018年，與觀塘[apm合辦](https://zh.wikipedia.org/wiki/apm "wikilink")《[放榜前的一個晚上](https://zh.wikipedia.org/wiki/放榜前的一個晚上 "wikilink")》音樂會，讓歌手以[馬拉松式獻唱為應屆](https://zh.wikipedia.org/wiki/馬拉松 "wikilink")[會考及](../Page/香港中學會考.md "wikilink")[文憑試生減壓](../Page/香港中學文憑考試.md "wikilink")。節目於2017年停辦一年，改為big big channel宣傳活動，名為《[一起Download的日子](https://zh.wikipedia.org/wiki/一起Download的日子 "wikilink")》。
+從2007年至2010年﹑2012至2016年及2018年，與觀塘[apm合辦](https://zh.wikipedia.org/wiki/apm "wikilink")《放榜前的一個晚上》音樂會，讓歌手以[馬拉松式獻唱為應屆](https://zh.wikipedia.org/wiki/馬拉松 "wikilink")[會考及](../Page/香港中學會考.md "wikilink")[文憑試生減壓](../Page/香港中學文憑考試.md "wikilink")。節目於2017年停辦一年，改為big big channel宣傳活動，名為《一起Download的日子》。
 
 在2008年，就推出《了解·關懷·一百萬人的故事》，邀請藝人拍攝紀錄片，探討香港的貧窮問題，該節目更獲得《萬千星輝頒獎典禮2008》中的最佳綜藝資訊節目獎。\[5\] 另外，亦會與不同機構合辦一些頒獎禮如「明周動力大獎」等。
 
@@ -238,20 +238,20 @@
 <td><p>2009</p></td>
 <td><p><a href="http://programme.tvb.com/variety/starbizreview2009">娛樂十大奇案2009</a></p></td>
 <td><p><a href="../Page/崔建邦.md" title="wikilink">崔建邦</a>、<a href="../Page/宋熙年.md" title="wikilink">宋熙年</a>、<a href="https://zh.wikipedia.org/wiki/龔嘉欣" title="wikilink">龔嘉欣</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張嘉玲" title="wikilink">張嘉玲</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張慧怡" title="wikilink">張慧怡</a></p></td>
+<td><p>張嘉玲</p></td>
+<td><p>張慧怡</p></td>
 </tr>
 <tr class="even">
 <td><p>2010</p></td>
 <td><p><a href="http://programme.tvb.com/variety/starbizreview2010">2010八味娛樂圈</a></p></td>
-<td><p>宋熙年、<a href="../Page/陳倩揚.md" title="wikilink">陳倩揚</a>、<a href="../Page/麥皓兒.md" title="wikilink">麥皓兒</a></p></td>
+<td><p><a href="../Page/宋熙年.md" title="wikilink">宋熙年</a>、<a href="../Page/陳倩揚.md" title="wikilink">陳倩揚</a>、<a href="../Page/麥皓兒.md" title="wikilink">麥皓兒</a></p></td>
 <td><p>張嘉玲</p></td>
 <td><p>張慧怡</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011</p></td>
 <td><p><a href="http://programme.tvb.com/variety/starbizreview2011">繽Fun娛樂大派對</a></p></td>
-<td><p>宋熙年、麥皓兒、<a href="https://zh.wikipedia.org/wiki/森美" title="wikilink">森美</a></p></td>
+<td><p><a href="../Page/宋熙年.md" title="wikilink">宋熙年</a>、<a href="../Page/麥皓兒.md" title="wikilink">麥皓兒</a>、<a href="https://zh.wikipedia.org/wiki/森美" title="wikilink">森美</a></p></td>
 <td><p>張嘉玲</p></td>
 <td><p>張慧怡</p></td>
 </tr>
@@ -260,12 +260,12 @@
 <td><p><a href="http://programme.tvb.com/variety/starbizreview2012">Fun Fun娛樂大派對</a></p></td>
 <td><p><a href="../Page/古明華.md" title="wikilink">古明華</a>、<a href="../Page/黎芷珊.md" title="wikilink">黎芷珊</a>、<a href="../Page/容羨媛.md" title="wikilink">容羨媛</a>、<a href="../Page/吳幸美.md" title="wikilink">吳幸美</a></p></td>
 <td><p>張嘉玲、<a href="../Page/衛世輝.md" title="wikilink">衛世輝</a></p></td>
-<td><p>張慧怡、<a href="https://zh.wikipedia.org/wiki/鄭月明" title="wikilink">鄭月明</a></p></td>
+<td><p>張慧怡、鄭月明</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013</p></td>
 <td><p><a href="http://programme.tvb.com/variety/starbizreview2013">2013娛樂大派對</a></p></td>
-<td><p>旁白：<a href="../Page/林映輝.md" title="wikilink">林映輝</a>、容羨媛</p></td>
+<td><p>旁白：<a href="../Page/林映輝.md" title="wikilink">林映輝</a>、<a href="../Page/容羨媛.md" title="wikilink">容羨媛</a></p></td>
 <td><p>張嘉玲</p></td>
 <td><p>張慧怡</p></td>
 </tr>
@@ -280,7 +280,7 @@
 <tr class="odd">
 <td><p>2015</p></td>
 <td><p><a href="http://programme.tvb.com/variety/starbizreview2015">2015繽Fun娛樂大派對</a></p></td>
-<td><p>吳幸美</p></td>
+<td><p><a href="../Page/吳幸美.md" title="wikilink">吳幸美</a></p></td>
 <td><p>張嘉玲</p></td>
 <td><p>張慧怡</p></td>
 </tr>
@@ -293,26 +293,34 @@
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
-<td><p><a href="https://programme.mytvsuper.com/tc/109983/娛樂3兄弟大民調2016">娛樂3兄弟大民調2016</a></p></td>
+<td><p><a href="https://programme.mytvsuper.com/tc/109983/娛樂3兄弟大民調2016">娛樂3兄弟大民調2016</a><br />
+（mytv super播出）</p></td>
 <td><p><a href="../Page/陸浩明.md" title="wikilink">陸浩明</a>、<a href="../Page/區永權.md" title="wikilink">區永權</a>、<a href="../Page/衛志豪.md" title="wikilink">衛志豪</a>、<a href="../Page/許文軒.md" title="wikilink">許文軒</a>、<a href="../Page/潘盈慧.md" title="wikilink">潘盈慧</a>、<a href="https://zh.wikipedia.org/wiki/王鎮泉" title="wikilink">王鎮泉</a></p></td>
 <td><p><a href="../Page/張志明_(監製).md" title="wikilink">張志明</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/顏家明" title="wikilink">顏家明</a></p></td>
+<td><p>顏家明</p></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
 <td><p><a href="http://programme.tvb.com/variety/starbizreview2017">娛樂3兄弟繽Fun大派對2017</a></p></td>
 <td><p><a href="../Page/陸浩明.md" title="wikilink">陸浩明</a>、<a href="../Page/區永權.md" title="wikilink">區永權</a>、<a href="../Page/衛志豪.md" title="wikilink">衛志豪</a>、<a href="../Page/許文軒.md" title="wikilink">許文軒</a>、<a href="../Page/潘盈慧.md" title="wikilink">潘盈慧</a>、<a href="https://zh.wikipedia.org/wiki/王鎮泉" title="wikilink">王鎮泉</a></p></td>
-<td><p>張志明</p></td>
+<td><p><a href="../Page/張志明_(監製).md" title="wikilink">張志明</a></p></td>
 <td><p>顏家明</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
 <td><p><a href="http://programme.tvb.com/variety/starbizreview2018">2018娛樂繽Fun大派對</a></p></td>
 <td><p><a href="../Page/區永權.md" title="wikilink">區永權</a>、<a href="../Page/陳貝兒.md" title="wikilink">陳貝兒</a>、<a href="../Page/許文軒.md" title="wikilink">許文軒</a>、<a href="../Page/陳約臨.md" title="wikilink">陳約臨</a>、<a href="../Page/鄺潔楹.md" title="wikilink">鄺潔楹</a>、<a href="../Page/蘇可欣.md" title="wikilink">蘇可欣</a></p></td>
-<td><p>張志明</p></td>
+<td><p><a href="../Page/張志明_(監製).md" title="wikilink">張志明</a></p></td>
 <td><p>顏家明</p></td>
 </tr>
 <tr class="even">
+<td><p>2019</p></td>
+<td><p><a href="http://programme.tvb.com/variety/starbizreview2019">2019娛樂繽Fun大派對</a></p></td>
+<td><p><a href="../Page/許文軒.md" title="wikilink">許文軒</a>、<a href="../Page/潘盈慧.md" title="wikilink">潘盈慧</a>、<a href="https://zh.wikipedia.org/wiki/王鎮泉" title="wikilink">王鎮泉</a>、<a href="../Page/鄭衍峰.md" title="wikilink">鄭衍峰</a>、<a href="../Page/蘇可欣.md" title="wikilink">蘇可欣</a>、<a href="https://zh.wikipedia.org/wiki/陳詩欣" title="wikilink">陳詩欣</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -337,7 +345,7 @@
 ## 外部連結
 
   -
-[Category:2006年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2006年成立的电视台或电视频道 "wikilink") [Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:電視廣播有限公司電視頻道](https://zh.wikipedia.org/wiki/Category:電視廣播有限公司電視頻道 "wikilink") [Category:粤语电视频道](https://zh.wikipedia.org/wiki/Category:粤语电视频道 "wikilink") [Category:無綫電視特備節目](https://zh.wikipedia.org/wiki/Category:無綫電視特備節目 "wikilink")
+[Category:2006年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2006年成立的电视台或电视频道 "wikilink") [Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:電視廣播有限公司電視頻道](https://zh.wikipedia.org/wiki/Category:電視廣播有限公司電視頻道 "wikilink") [Category:粤语电视频道](https://zh.wikipedia.org/wiki/Category:粤语电视频道 "wikilink")
 
 1.  [不讓有線獨食，無綫娛樂台出擊搶灘](http://www.takungpao.com/news/06/02/24/UL-529226.htm) ，《大公報》，2006年2月24日
 2.  [無綫娛樂新聞台啟播開火，克勤婚禮志偉葬禮狂炸有線](http://the-sun.orisun.com/cgi-bin/hotnews2.cgi?a=ent&b=20060628&c=20060627234309_0000.html)，《太陽報》，2006年6月28日

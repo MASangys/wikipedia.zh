@@ -2,7 +2,7 @@
 
 ## 主持
 
-  - 現任主持：、、、[廖嘉輝](https://zh.wikipedia.org/wiki/廖嘉輝 "wikilink")、[朱晉傑](https://zh.wikipedia.org/wiki/朱晉傑 "wikilink")、[文桂琪](https://zh.wikipedia.org/wiki/文桂琪 "wikilink")
+  - 現任主持：、、、[廖嘉輝](../Page/廖嘉輝.md "wikilink")、[朱晉傑](https://zh.wikipedia.org/wiki/朱晉傑 "wikilink")、[文桂琪](https://zh.wikipedia.org/wiki/文桂琪 "wikilink")
   - 曾任主持：[林聞恩](../Page/林聞恩.md "wikilink")、[劉秉賓](../Page/劉秉賓.md "wikilink")、[薛國斌](https://zh.wikipedia.org/wiki/薛國斌 "wikilink")、[余采霖](../Page/余采霖.md "wikilink")
 
 ## 播映時間
@@ -727,7 +727,7 @@
 <td><p>56</p></td>
 <td><p>6月4日</p></td>
 <td><p><a href="../Page/陳志雲.md" title="wikilink">陳志雲</a>、<a href="https://zh.wikipedia.org/wiki/葉童" title="wikilink">葉童</a>、<a href="../Page/石修.md" title="wikilink">石修</a>、<a href="../Page/王喜.md" title="wikilink">王喜</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/廖嘉輝" title="wikilink">廖嘉輝</a></p></td>
+<td><p><a href="../Page/廖嘉輝.md" title="wikilink">廖嘉輝</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/梁漢文" title="wikilink">梁漢文</a></p></td>
@@ -1617,7 +1617,7 @@
 | 13                                                                | 5月15日    | [林日曦](../Page/林日曦.md "wikilink")、[宣萱](../Page/宣萱.md "wikilink")                                                                                        |        |
 | 15                                                                | 5月17日    | [吳日言](../Page/吳日言.md "wikilink")                                                                                                                       |        |
 | 16                                                                | 5月20日    | [鄧麗欣](../Page/鄧麗欣.md "wikilink")                                                                                                                       |        |
-| 18                                                                | 5月22日    | \-{[涂毓麟](https://zh.wikipedia.org/wiki/涂毓麟 "wikilink")}-、[陳凱詠](../Page/陳凱詠.md "wikilink")                                                              |        |
+| 18                                                                | 5月22日    | \-{[涂毓麟](../Page/涂毓麟.md "wikilink")}-、[陳凱詠](../Page/陳凱詠.md "wikilink")                                                                                 |        |
 | 20                                                                | 5月24日    | \-{[胡子彤](../Page/胡子彤.md "wikilink")}-                                                                                                                  |        |
 | 21                                                                | 5月27日    | [衛蘭](../Page/衛蘭.md "wikilink")                                                                                                                         |        |
 | 23                                                                | 5月29日    | [黃秋生](../Page/黃秋生.md "wikilink")、[梁祖堯](../Page/梁祖堯.md "wikilink")                                                                                      | 羅沛琪    |

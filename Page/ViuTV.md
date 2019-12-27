@@ -2,7 +2,7 @@
 
 該頻道的節目內容以實況娛樂節目（[真人騷](https://zh.wikipedia.org/wiki/真人騷 "wikilink")）為主打，另外也提供[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")、[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")、[動畫及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[體育等多元化節目](https://zh.wikipedia.org/wiki/體育 "wikilink")。
 
-頻道於品牌介紹時以「數碼頻道99」作稱呼，開台首月（2016年4月2日（星期六）-5月5日（星期四））以「ViuTV 免費電視99台」作為稱呼，之後在2016年5月6日（星期五）至2017年3月30日（星期四）之間稱為「99台 ViuTV」，[ViuTVsix](../Page/ViuTVsix.md "wikilink")於2017年3月31日（星期五）開台後只稱呼為「ViuTV」（頻道名稱） 。ViuTV的主要竞争对手为[無綫電視的](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")和[J2](../Page/J2.md "wikilink")。
+頻道於品牌介紹時以「數碼頻道99」作稱呼，開台首月（2016年4月2日（星期六）-5月5日（星期四））以「ViuTV 免費電視99台」作為稱呼，之後在2016年5月6日（星期五）至2017年3月30日（星期四）之間稱為「99台 ViuTV」，[ViuTVsix](../Page/ViuTVsix.md "wikilink")於2017年3月31日（星期五）開台後只稱呼為「ViuTV」（頻道名稱） 。ViuTV的主要竞争对手为[無綫電視的](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")和[J2](../Page/J2.md "wikilink")及[奇妙電視有限公司旗下的](https://zh.wikipedia.org/wiki/奇妙電視有限公司 "wikilink")[香港開電視](../Page/香港開電視.md "wikilink")。
 
 ## 收看方法
 
@@ -200,7 +200,7 @@ ViuTV首個直播的大型體育比賽為2016年[香港國際七人欖球賽](..
 
 ### 電影
 
-每逢星期六播放一套電影，以週六好戲勢（前稱：金像好戲勢）名義播出。
+每逢星期六播放一套電影，以週六好戲勢（前稱：金像好戲勢）名義播出，並以Hoegaarden呈獻。
 
 ### 香港電台節目
 
@@ -254,7 +254,7 @@ ViuTV由啟播開始開放平台讓本地及海外單位在星期一至五的《
   -
   -
   -
-[Category:香港電視娛樂](https://zh.wikipedia.org/wiki/Category:香港電視娛樂 "wikilink") [Category:高清頻道](https://zh.wikipedia.org/wiki/Category:高清頻道 "wikilink") [Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:香港數碼地面電視廣播](https://zh.wikipedia.org/wiki/Category:香港數碼地面電視廣播 "wikilink") [Category:2016年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2016年成立的電視台或電視頻道 "wikilink") [Category:粵語電視頻道](https://zh.wikipedia.org/wiki/Category:粵語電視頻道 "wikilink") [Category:2016年香港建立](https://zh.wikipedia.org/wiki/Category:2016年香港建立 "wikilink") [Category:免費電視頻道](https://zh.wikipedia.org/wiki/Category:免費電視頻道 "wikilink") [Category:網絡電視](https://zh.wikipedia.org/wiki/Category:網絡電視 "wikilink")
+[Category:香港電視娛樂](https://zh.wikipedia.org/wiki/Category:香港電視娛樂 "wikilink") [Category:高清頻道](https://zh.wikipedia.org/wiki/Category:高清頻道 "wikilink") [Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:香港數碼地面電視廣播](https://zh.wikipedia.org/wiki/Category:香港數碼地面電視廣播 "wikilink") [Category:2016年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2016年成立的電視台或電視頻道 "wikilink") [Category:粵語電視頻道](https://zh.wikipedia.org/wiki/Category:粵語電視頻道 "wikilink") [Category:2016年香港建立](https://zh.wikipedia.org/wiki/Category:2016年香港建立 "wikilink") [Category:免費電視頻道](https://zh.wikipedia.org/wiki/Category:免費電視頻道 "wikilink") [Category:網絡電視](https://zh.wikipedia.org/wiki/Category:網絡電視 "wikilink") [Category:澳門電視播放頻道](https://zh.wikipedia.org/wiki/Category:澳門電視播放頻道 "wikilink")
 
 1.
 2.

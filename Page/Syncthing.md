@@ -14,7 +14,6 @@ Syncthing于2013年12月30日首次公开其二进制版本（V0.2）。
 
   - [BitTorrent Sync](https://zh.wikipedia.org/wiki/BitTorrent_Sync "wikilink")
 
-  -
 ## 引用
 
 ## 外部链接

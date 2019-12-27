@@ -1,4 +1,4 @@
-**Code.org** 是一个非盈利性组织由[Hadi Partovi兄弟](https://zh.wikipedia.org/wiki/Hadi_Partovi "wikilink")\[1\] 创建的与该组织同名的网站，其宗旨在于支持美国的学生学习计算机科学。\[2\] 该网站为教育机构，以促进和提高其学校的计算机科学课程的目的，免费提供编程经验。\[3\] 于2013年12月9日至2013年12月15日，他们成功举行一个全国性的"编程一小时2013"宣传周活动, 来促进该国的计算机科学。\[4\]\[5\]\[6\]
+**Code.org** 是一个非盈利性组织由[Hadi Partovi兄弟](https://zh.wikipedia.org/wiki/Hadi_Partovi "wikilink")\[1\] 创建的与该组织同名的网站，其宗旨在于支持美国的学生学习[计算机科学](../Page/计算机科学.md "wikilink")。\[2\] 该网站为教育机构，以促进和提高其学校的计算机科学课程的目的，免费提供编程经验。\[3\] 于2013年12月9日至2013年12月15日，他们成功举行一个全国性的"编程一小时2013"宣传周活动, 来促进该国的计算机科学。\[4\]\[5\]\[6\]
 
 ## 历史
 
@@ -37,7 +37,7 @@ Mike Cassidy 在*[圣何塞信使新闻报](https://zh.wikipedia.org/wiki/圣何
 ## 外部链接
 
   -
-[Category:Programming_games](https://zh.wikipedia.org/wiki/Category:Programming_games "wikilink") [Category:Non-profit_organizations_based_in_Seattle,_Washington](https://zh.wikipedia.org/wiki/Category:Non-profit_organizations_based_in_Seattle,_Washington "wikilink") [Category:教育网站](https://zh.wikipedia.org/wiki/Category:教育网站 "wikilink") [Category:2013_establishments_in_Washington_(state)](https://zh.wikipedia.org/wiki/Category:2013_establishments_in_Washington_\(state\) "wikilink") [Category:Hadi_Partovi](https://zh.wikipedia.org/wiki/Category:Hadi_Partovi "wikilink")
+[Category:計算機科學](https://zh.wikipedia.org/wiki/Category:計算機科學 "wikilink") [Category:計算與社會](https://zh.wikipedia.org/wiki/Category:計算與社會 "wikilink") [Category:非營利組織](https://zh.wikipedia.org/wiki/Category:非營利組織 "wikilink") [Category:教育网站](https://zh.wikipedia.org/wiki/Category:教育网站 "wikilink") [Category:科學與技術](https://zh.wikipedia.org/wiki/Category:科學與技術 "wikilink") [Category:工程教育](https://zh.wikipedia.org/wiki/Category:工程教育 "wikilink")
 
 1.
 2.  [1](http://articles.latimes.com/2014/apr/07/news/la-ol-teach-students-code-computer-science-20140406) latimes.com Want to prepare kids for the future? Teach them to code.

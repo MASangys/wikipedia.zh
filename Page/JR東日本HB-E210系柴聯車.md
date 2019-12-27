@@ -22,7 +22,7 @@ HB-E210系的每辆车都装有一具331kW 6缸[柴油发动机和两个初始�
 
 ## 运营
 
-[RIKUZEN-ONO_HOME.JPG](https://zh.wikipedia.org/wiki/File:RIKUZEN-ONO_HOME.JPG "fig:RIKUZEN-ONO_HOME.JPG")\]\] HB-E210系预定于2015年5月30日[仙石东北线开业当天投入来往于](https://zh.wikipedia.org/wiki/仙石东北线 "wikilink")[仙台站和](https://zh.wikipedia.org/wiki/仙台站 "wikilink")[石卷站](../Page/石卷站.md "wikilink")之间的直通服务；行经连接 [东北本线和](https://zh.wikipedia.org/wiki/东北本线 "wikilink")[仙石线](https://zh.wikipedia.org/wiki/仙石线 "wikilink")，[盐釜站和](https://zh.wikipedia.org/wiki/盐釜站 "wikilink")[高城町站](../Page/高城町站.md "wikilink")之间新建的路段。\[8\]\[9\]
+[RIKUZEN-ONO_HOME.JPG](https://zh.wikipedia.org/wiki/File:RIKUZEN-ONO_HOME.JPG "fig:RIKUZEN-ONO_HOME.JPG")\]\] HB-E210系预定于2015年5月30日[仙石东北线开业当天投入来往于](https://zh.wikipedia.org/wiki/仙石东北线 "wikilink")[仙台站](../Page/仙台站.md "wikilink")和[石卷站](../Page/石卷站.md "wikilink")之间的直通服务；行经连接 [东北本线和](https://zh.wikipedia.org/wiki/东北本线 "wikilink")[仙石线](https://zh.wikipedia.org/wiki/仙石线 "wikilink")，[盐釜站和](https://zh.wikipedia.org/wiki/盐釜站 "wikilink")[高城町站](../Page/高城町站.md "wikilink")之间新建的路段。\[8\]\[9\]
 
 ## 编组形式
 
@@ -40,7 +40,7 @@ HB-E210系共有8列2辆编组列车，编组如下表所示。HB-E211型位于�
 
 ## 历史
 
-[HB-E210_C1_C2_Zushi_20150113.JPG](https://zh.wikipedia.org/wiki/File:HB-E210_C1_C2_Zushi_20150113.JPG "fig:HB-E210_C1_C2_Zushi_20150113.JPG") 由[综合车辆制作所](https://zh.wikipedia.org/wiki/综合车辆制作所 "wikilink")（J-TREC）于横滨制造的首批两列HB-E210系原计划于2014年11月交付，但被推迟到了2015年1月。\[14\]\[15\]测试运转使用了首批交付的两列HB-E210系，于2015年1月16日在东北本线[小牛田站和](https://zh.wikipedia.org/wiki/小牛田站 "wikilink")[仙台站之间进行](https://zh.wikipedia.org/wiki/仙台站 "wikilink")。\[16\]
+[HB-E210_C1_C2_Zushi_20150113.JPG](https://zh.wikipedia.org/wiki/File:HB-E210_C1_C2_Zushi_20150113.JPG "fig:HB-E210_C1_C2_Zushi_20150113.JPG") 由[综合车辆制作所](https://zh.wikipedia.org/wiki/综合车辆制作所 "wikilink")（J-TREC）于横滨制造的首批两列HB-E210系原计划于2014年11月交付，但被推迟到了2015年1月。\[14\]\[15\]测试运转使用了首批交付的两列HB-E210系，于2015年1月16日在东北本线[小牛田站和](https://zh.wikipedia.org/wiki/小牛田站 "wikilink")[仙台站](../Page/仙台站.md "wikilink")之间进行。\[16\]
 
 ## 制造和交付
 

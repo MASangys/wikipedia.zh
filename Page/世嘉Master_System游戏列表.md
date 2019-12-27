@@ -300,7 +300,7 @@
 </tr>
 <tr class="even">
 <td><p>|<em><a href="https://zh.wikipedia.org/wiki/Asterix_and_the_Great_Rescue" title="wikilink">Asterix and the Great Rescue</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Core_Design" title="wikilink">Core Design</a></p></td>
+<td><p><a href="../Page/Core_Design.md" title="wikilink">Core Design</a></p></td>
 <td><p><a href="../Page/世嘉.md" title="wikilink">世嘉</a></p></td>
 <td><p></p></td>
 <td><p>1993</p></td>
@@ -656,7 +656,7 @@
 </tr>
 <tr class="odd">
 <td><p>|<em><a href="https://zh.wikipedia.org/wiki/Chuck_Rock" title="wikilink">Chuck Rock</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Core_Design" title="wikilink">Core Design</a></p></td>
+<td><p><a href="../Page/Core_Design.md" title="wikilink">Core Design</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Virgin_Interactive" title="wikilink">Virgin Interactive</a></p></td>
 <td><p></p></td>
 <td><p>1992</p></td>
@@ -665,7 +665,7 @@
 </tr>
 <tr class="even">
 <td><p>|<em><a href="https://zh.wikipedia.org/wiki/Chuck_Rock_II:_Son_of_Chuck" title="wikilink">Chuck Rock II: Son of Chuck</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Core_Design" title="wikilink">Core Design</a></p></td>
+<td><p><a href="../Page/Core_Design.md" title="wikilink">Core Design</a></p></td>
 <td><p><a href="../Page/世嘉.md" title="wikilink">世嘉</a></p></td>
 <td><p></p></td>
 <td><p>1993</p></td>
@@ -3380,7 +3380,7 @@
 </tr>
 <tr class="odd">
 <td><p>|<em><a href="https://zh.wikipedia.org/wiki/Wolfchild" title="wikilink">Wolfchild</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Core_Design" title="wikilink">Core Design</a></p></td>
+<td><p><a href="../Page/Core_Design.md" title="wikilink">Core Design</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Virgin_Interactive" title="wikilink">Virgin Interactive</a></p></td>
 <td><p></p></td>
 <td><p>1993</p></td>

@@ -1,4 +1,4 @@
-[Savannah_Place_2018.jpg](https://zh.wikipedia.org/wiki/File:Savannah_Place_2018.jpg "fig:Savannah_Place_2018.jpg") [Savannah_Car_entrance_201911.jpg](https://zh.wikipedia.org/wiki/File:Savannah_Car_entrance_201911.jpg "fig:Savannah_Car_entrance_201911.jpg") **Savannah**，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[將軍澳南](../Page/將軍澳南.md "wikilink")[至善街](https://zh.wikipedia.org/wiki/至善街 "wikilink")3號 ，是[會德豐](../Page/會德豐.md "wikilink")集團旗下的私人住宅屋苑。由梁黃顧建築師（香港）事務所設計，[協興建築](../Page/協興建築.md "wikilink")承建。物業分為4座樓高11至23層的大廈，共提供804伙單位，包括799個分層戶及5間洋房。屋苑於2016年5月開售，於2018年4月落成入伙。管理公司為夏利文物業管理有限公司，管理費每呎4.4元。展覽廳及示範單位設於[尖沙咀](../Page/尖沙咀.md "wikilink")[港威大廈](../Page/港威大廈.md "wikilink")，首批單位的價單，定價由421萬至1187.9萬元。\[1\]
+[Savannah_Place_2018.jpg](https://zh.wikipedia.org/wiki/File:Savannah_Place_2018.jpg "fig:Savannah_Place_2018.jpg") [Savannah_Car_entrance_201911.jpg](https://zh.wikipedia.org/wiki/File:Savannah_Car_entrance_201911.jpg "fig:Savannah_Car_entrance_201911.jpg") **Savannah**，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[將軍澳南](../Page/將軍澳南.md "wikilink")[至善街](../Page/至善街.md "wikilink")3號 ，是[會德豐](../Page/會德豐.md "wikilink")集團旗下的私人住宅屋苑。由梁黃顧建築師（香港）事務所設計，[協興建築](../Page/協興建築.md "wikilink")承建。物業分為4座樓高11至23層的大廈，共提供804伙單位，包括799個分層戶及5間洋房。屋苑於2016年5月開售，於2018年4月落成入伙。管理公司為夏利文物業管理有限公司，管理費每呎4.4元。展覽廳及示範單位設於[尖沙咀](../Page/尖沙咀.md "wikilink")[港威大廈](../Page/港威大廈.md "wikilink")，首批單位的價單，定價由421萬至1187.9萬元。\[1\]
 
 ## 單位
 
@@ -24,7 +24,7 @@
 
 ### 現有商戶
 
-樂誠藥房、自助洗衣店、皇牌冰室、[公文式教育中心](https://zh.wikipedia.org/wiki/公文式 "wikilink")
+樂誠藥房、 自助洗衣店、 皇牌冰室、 耀中國際幼稚園 碩室教室
 
 ## 宣傳
 
@@ -57,38 +57,35 @@ Savannah於5月14日首輪推售362個單位，佔全盤單位四成半，共接
 
 ## 交通
 
-<div class="NavFrame collapsed" style="background-color: #FFFFFF; clear: both; border: 1px solid #999; margin: 0 auto; padding: 0 10px; text-align: left;">
+<table>
+<thead>
+<tr class="header">
+<th><p>交通路線列表</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><dl>
+<dt><a href="../Page/港鐵.md" title="wikilink">港鐵</a></dt>
 
-<div class="NavHead" style="background-color: #FFFFFF; margin: 0 auto; padding: 0 10px; text-align: center; font-weight: bold;">
+</dl>
+<ul>
+<li><font color="{{將軍澳綫色彩}}">█</font><a href="../Page/將軍澳綫.md" title="wikilink">將軍澳綫</a>：<a href="../Page/將軍澳站.md" title="wikilink">將軍澳站</a>A出入口</li>
+</ul>
+<dl>
+<dt>唐俊街/至善街/唐賢街</dt>
 
-接駁交通列表
+</dl>
+<dl>
+<dt>屋苑周邊</dt>
 
-</div>
-
-<div class="NavContent" style="background-color: #FFFFFF; margin: 0 auto; padding: 0 10px;">
-
-  - [港鐵](../Page/港鐵.md "wikilink")
-
-<!-- end list -->
-
-  - <font color="{{將軍澳綫色彩}}">█</font>[將軍澳綫](../Page/將軍澳綫.md "wikilink")：[將軍澳站](../Page/將軍澳站.md "wikilink")A出入口
-
-<!-- end list -->
-
-  - 唐俊街/至善街/唐賢街
-
-<!-- end list -->
-
-  - 屋苑周邊
-
-<!-- end list -->
-
-  - [香港的士](../Page/香港的士.md "wikilink")
-  - 市區的士站
-
-</div>
-
-</div>
+</dl>
+<ul>
+<li><a href="../Page/香港的士.md" title="wikilink">香港的士</a></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
 ## 毗鄰
 

@@ -18,13 +18,13 @@
 <thead>
 <tr class="header">
 <th><p>時間</p></th>
-<th><p>星期一<small>（02日）</small></p></th>
-<th><p>星期二<small>（03日）</small></p></th>
-<th><p>星期三<small>（04日）</small></p></th>
-<th><p>星期四<small>（05日）</small></p></th>
-<th><p>星期五<small>（06日）</small></p></th>
-<th><p>星期六<small>（07日）</small></p></th>
-<th><p>星期日<small>（08日）</small></p></th>
+<th><p>星期一<small>（23日）</small></p></th>
+<th><p>星期二<small>（24日）</small></p></th>
+<th><p>星期三<small>（25日）</small></p></th>
+<th><p>星期四<small>（26日）</small></p></th>
+<th><p>星期五<small>（27日）</small></p></th>
+<th><p>星期六<small>（21日）</small></p></th>
+<th><p>星期日<small>（22日）</small></p></th>
 </tr>
 </thead>
 <tbody>
@@ -60,10 +60,10 @@
 </tr>
 <tr class="even">
 <td><p>20:30</p></td>
-<td><p><a href="../Page/雞龍仙女傳.md" title="wikilink">雞龍仙女傳</a></p></td>
 <td><p><a href="../Page/Legal_High_(韓國電視劇).md" title="wikilink">Law界狂人</a></p></td>
-<td><p>周六好戲勢：<a href="../Page/不再讓你孤單.md" title="wikilink">不再讓你孤單</a></p></td>
+<td><p>周六好戲勢：<a href="https://zh.wikipedia.org/wiki/不能說的秘密" title="wikilink">不能說的秘密</a><sup>P</sup></p></td>
 <td><p><a href="../Page/恐怖醫學_(2010年).md" title="wikilink">恐怖醫學</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -71,8 +71,8 @@
 <tr class="odd">
 <td><p>21:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/想暫停的瞬間：About_Time" title="wikilink">想暫停的瞬間</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黑市_(電視劇)" title="wikilink">黑市</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Chill_Club" title="wikilink">Chill Club</a></p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -80,7 +80,7 @@
 </tr>
 <tr class="even">
 <td><p>22:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/全民造星II" title="wikilink">全民造星II</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/C9_旅行團" title="wikilink">C9 旅行團</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/港男入贅手冊" title="wikilink">港男入贅手冊</a></p></td>
 <td></td>
 <td></td>
@@ -89,8 +89,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>23:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蠟筆小新" title="wikilink">蠟筆小新</a></p></td>
+<td><p>22:45</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -99,9 +99,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>23:15</p></td>
-<td></td>
-<td></td>
+<td><p>23:00</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/入住請敲門_4" title="wikilink">入住請敲門 4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蠟筆小新" title="wikilink">蠟筆小新</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -119,9 +119,19 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>23:45</p></td>
+<td><p><a href="../Page/足球小將.md" title="wikilink">隊長小翼</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>00:00</p></td>
 <td><p><a href="../Page/七大罪_(漫畫).md" title="wikilink">七大罪</a><sup>R</sup></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金田一少年之事件簿_(動畫)" title="wikilink">金田一少年之事件簿R S2</a><sup>R</sup></p></td>
+<td><p><a href="../Page/一路向西伯利亞.md" title="wikilink">一路向西伯利亞</a><sup>R</sup></p></td>
 <td><p><a href="../Page/東京喰種.md" title="wikilink">東京喰種</a>:re</p></td>
 <td></td>
 <td></td>
@@ -151,94 +161,101 @@
 <td><p><strong>實況娛樂</strong></p></td>
 <td><p><strong>逢星期一至五</strong></p></td>
 <td><p>22:30 - 23:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/全民造星II" title="wikilink">全民造星II</a></p></td>
-<td><p>&lt;!-- |-</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/C9_旅行團" title="wikilink">C9 旅行團</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p>23:00 - 23:30</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/入住請敲門_4" title="wikilink">入住請敲門 4</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>逢星期六</p></td>
 <td><p>01:00 - 02:00</p></td>
 <td><p><a href="../Page/真PK_Trip.md" title="wikilink">真PK Trip</a></p></td>
 <td><p>重播節目</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10:30 - 11:00</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11:00 - 12:00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/挑戰1997" title="wikilink">挑戰1997</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>20:00 - 20:30</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>逢星期日</p></td>
 <td><p>01:00 - 01:30</p></td>
 <td></td>
 <td><p>重播節目</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>01:30 - 02:30</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11:30 - 12:00</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12:30 - 13:30</p></td>
 <td><p><a href="../Page/回憶備份.md" title="wikilink">回憶備份</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>13:30 - 14:00</p></td>
-<td><p><a href="../Page/黑料理.md" title="wikilink">黑料理</a></p></td>
+<td><p><a href="../Page/雙商.md" title="wikilink">雙商</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>14:30 - 15:00</p></td>
+<td><p><a href="../Page/暗中旅行.md" title="wikilink">暗中旅行</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>14:30 - 15:00</p></td>
-<td><p><a href="../Page/404不存在的國落.md" title="wikilink">404不存在的國落</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>20:00 - 20:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/職時交換" title="wikilink">職時交換</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>21:30 - 22:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Chill_Club" title="wikilink">Chill Club</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>22:30 - 23:00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/港男入贅手冊" title="wikilink">港男入贅手冊</a></p></td>
 <td></td>
@@ -420,7 +437,7 @@
 </tr>
 <tr class="odd">
 <td><p>20:30 - 21:30</p></td>
-<td><p><a href="../Page/雞龍仙女傳.md" title="wikilink">雞龍仙女傳</a></p></td>
+<td><p><a href="../Page/Legal_High_(韓國電視劇).md" title="wikilink">Law界狂人</a></p></td>
 <td><p>韓國劇集<br />
 每集播放兩次</p></td>
 <td></td>
@@ -444,7 +461,7 @@
 <td><p>非黃金時段劇集</p></td>
 <td><p>逢星期一至五</p></td>
 <td><p>13:30 - 14:45</p></td>
-<td><p><a href="../Page/推理的女王2.md" title="wikilink">推理的女王2</a></p></td>
+<td><p><a href="../Page/不是機器人啊.md" title="wikilink">我不是機械人</a></p></td>
 <td><p><strong>熱捧劇站</strong><br />
 重播韓國劇集<br />
 每集播放兩次</p></td>
@@ -496,16 +513,16 @@
 <td><p>兒童類動畫</p></td>
 <td><p>每日</p></td>
 <td><p>16:00 - 16:30</p></td>
-<td><p>星期一至五： 2<br />
+<td><p>星期一至五：<a href="../Page/塔麻可吉！.md" title="wikilink">他媽哥池</a> 5<br />
 星期六至日：</p></td>
 <td><p>韓馬合作動畫<br />
 重播日本動畫</p></td>
 </tr>
 <tr class="odd">
 <td><p>16:30 - 17:00</p></td>
-<td><p>星期一至三：<a href="../Page/Battle_Spirits_Sword_Eyes.md" title="wikilink">Battle Spirits – 劍之眼</a><br />
+<td><p>星期一至三：<a href="https://zh.wikipedia.org/wiki/最強銀河_究極ZERO_Battle_Spirits" title="wikilink">Battle Spirits－最強銀河究極Zero</a><br />
 星期四至五：<br />
-星期六：<a href="https://zh.wikipedia.org/wiki/超級飛俠" title="wikilink">超級飛俠</a> 3<br />
+星期六： 2<br />
 星期日：<a href="../Page/溫泉屋小女將.md" title="wikilink">溫泉屋小女將</a></p></td>
 <td><p>日本動畫<br />
 日本動畫<br />
@@ -517,13 +534,13 @@
 <tr class="even">
 <td><p>17:00 - 17:30</p></td>
 <td><p>星期一：<br />
-星期二至三： 2<br />
-星期四至五：<br />
-星期六：<a href="https://zh.wikipedia.org/wiki/潔癖男子！青山君" title="wikilink">潔癖男子！青山君</a><br />
+星期二至三：<br />
+星期四至五：<a href="https://zh.wikipedia.org/wiki/彩虹小馬：友情就是魔法" title="wikilink">小馬寶莉</a><br />
+星期六：<a href="../Page/動物朋友.md" title="wikilink">動物朋友</a> 2<br />
 星期日：<a href="https://zh.wikipedia.org/wiki/PJ_Masks" title="wikilink">PJ Masks</a></p></td>
 <td><p>韓國動畫<br />
 韓國動畫<br />
-韓國動畫<br />
+美國動畫<br />
 日本動畫<br />
 英法合作動畫</p></td>
 <td></td>
@@ -581,7 +598,7 @@
 <td><p>逢星期二至日</p></td>
 <td><p>00:00 - 00:30</p></td>
 <td><p>星期二至三：<a href="../Page/七大罪_(漫畫).md" title="wikilink">七大罪</a><br />
-星期四至五：<a href="https://zh.wikipedia.org/wiki/金田一少年之事件簿_(動畫)" title="wikilink">金田一少年之事件簿R S2</a><br />
+星期四至五：<a href="../Page/Re:從零開始的異世界生活.md" title="wikilink">從零開始的異世界生活</a><br />
 星期六：<a href="../Page/東京喰種.md" title="wikilink">東京喰種</a>:re<br />
 星期日：<a href="../Page/足球小將.md" title="wikilink">隊長小翼</a></p></td>
 <td><p>重播日本動畫<br />
@@ -1956,7 +1973,7 @@ Celebration of the 70th anniversary of the founding of the People's Republic of 
 <tr class="odd">
 <td><p>10月16日</p></td>
 <td><p>11:00-13:10</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2019年度香港行政長官施政報告" title="wikilink">施政報告2019</a><br />
+<td><p><a href="../Page/2019年度香港行政長官施政報告.md" title="wikilink">施政報告2019</a><br />
 Policy Address 2019</p></td>
 <td><p>主持：<a href="../Page/黃凱迪.md" title="wikilink">黃凱迪</a></p></td>
 <td><p>與<a href="../Page/Now新聞台.md" title="wikilink">Now新聞台</a>同步播出</p></td>
@@ -2176,7 +2193,7 @@ Ceremony &amp; Variety Show In Celebration Of The 20th Anniversary Of The Establ
 <td><p><br />
 ViuTV 2018</p></td>
 <td><p>主持：、、<br />
-演出：<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、、、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/羅伊婷.md" title="wikilink">羅伊婷</a>、、<a href="../Page/趙詠瑤.md" title="wikilink">趙詠瑤</a>、、、、、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="https://zh.wikipedia.org/wiki/劉俊謙" title="wikilink">劉俊謙</a>、<a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a>、<a href="../Page/許博文.md" title="wikilink">許博文</a>、、<a href="../Page/黃劍文.md" title="wikilink">黃劍文</a>、<a href="../Page/余采霖.md" title="wikilink">余采霖</a>、<a href="https://zh.wikipedia.org/wiki/吳國麟" title="wikilink">吳國麟</a>、<a href="https://zh.wikipedia.org/wiki/黎梓駿" title="wikilink">黎梓駿</a>、<a href="https://zh.wikipedia.org/wiki/梁天俊" title="wikilink">梁天俊</a>、<a href="https://zh.wikipedia.org/wiki/劉泉" title="wikilink">劉泉</a>、<a href="../Page/劉秉賓.md" title="wikilink">皓聖</a>、<a href="https://zh.wikipedia.org/wiki/朱柏康" title="wikilink">朱柏康</a>、、<a href="../Page/陳慧珊.md" title="wikilink">陳慧珊</a>、<a href="../Page/RubberBand.md" title="wikilink">RubberBand</a>、<a href="../Page/吳肇軒.md" title="wikilink">吳肇軒</a>、<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<a href="../Page/徐肇平.md" title="wikilink">徐肇平</a>、<a href="../Page/陳漢娜.md" title="wikilink">陳漢娜</a>、<a href="../Page/王貽興.md" title="wikilink">王貽興</a>、<a href="https://zh.wikipedia.org/wiki/劉家輝_(攝影師)" title="wikilink">劉翁</a>、<a href="../Page/Artem_Ansheles.md" title="wikilink">Artem Ansheles</a>、<a href="https://zh.wikipedia.org/wiki/Asha_Cuthbert" title="wikilink">Asha Cuthbert</a>、<a href="../Page/麥家琪.md" title="wikilink">麥家琪</a>、、、、、、<a href="../Page/陳啟泰.md" title="wikilink">陳啟泰</a>、<a href="../Page/李蔓瑩.md" title="wikilink">李蔓瑩</a></p></td>
+演出：<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、、、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/羅伊婷.md" title="wikilink">羅伊婷</a>、、<a href="../Page/趙詠瑤.md" title="wikilink">趙詠瑤</a>、、、、、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="https://zh.wikipedia.org/wiki/劉俊謙" title="wikilink">劉俊謙</a>、<a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a>、<a href="../Page/許博文.md" title="wikilink">許博文</a>、、<a href="../Page/黃劍文.md" title="wikilink">黃劍文</a>、<a href="../Page/余采霖.md" title="wikilink">余采霖</a>、<a href="https://zh.wikipedia.org/wiki/吳國麟" title="wikilink">吳國麟</a>、<a href="https://zh.wikipedia.org/wiki/黎梓駿" title="wikilink">黎梓駿</a>、<a href="https://zh.wikipedia.org/wiki/梁天俊" title="wikilink">梁天俊</a>、<a href="https://zh.wikipedia.org/wiki/劉泉" title="wikilink">劉泉</a>、<a href="../Page/劉秉賓.md" title="wikilink">皓聖</a>、<a href="https://zh.wikipedia.org/wiki/朱柏康" title="wikilink">朱柏康</a>、、<a href="../Page/陳慧珊.md" title="wikilink">陳慧珊</a>、<a href="../Page/RubberBand.md" title="wikilink">RubberBand</a>、<a href="../Page/吳肇軒.md" title="wikilink">吳肇軒</a>、<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<a href="../Page/徐肇平.md" title="wikilink">徐肇平</a>、<a href="../Page/陳漢娜.md" title="wikilink">陳漢娜</a>、<a href="../Page/王貽興.md" title="wikilink">王貽興</a>、<a href="https://zh.wikipedia.org/wiki/劉家輝_(攝影師)" title="wikilink">劉翁</a>、<a href="../Page/Artem_Ansheles.md" title="wikilink">Artem Ansheles</a>、<a href="https://zh.wikipedia.org/wiki/Asha_Cuthbert" title="wikilink">Asha Cuthbert</a>、<a href="../Page/麥家琪.md" title="wikilink">麥家琪</a>、、<a href="../Page/何慈茵.md" title="wikilink">何慈茵</a>、、、、<a href="../Page/陳啟泰.md" title="wikilink">陳啟泰</a>、<a href="../Page/李蔓瑩.md" title="wikilink">李蔓瑩</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2288,7 +2305,7 @@ Film Awards Special</p></td>
 The 37th Hong Kong Film Awards Presentation Ceremony Special</p></td>
 <td><p>主持：<a href="../Page/卓韻芝.md" title="wikilink">卓韻芝</a>、<a href="../Page/余迪偉.md" title="wikilink">余迪偉</a><br />
 ViuTV現場主持：、、<a href="https://zh.wikipedia.org/wiki/毛曄穎" title="wikilink">毛曄穎</a>、<a href="https://zh.wikipedia.org/wiki/童靖芸" title="wikilink">童靖芸</a><br />
-ViuTV錄影廠主持：<a href="https://zh.wikipedia.org/wiki/廖嘉輝" title="wikilink">廖嘉輝</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a></p></td>
+ViuTV錄影廠主持：<a href="../Page/廖嘉輝.md" title="wikilink">廖嘉輝</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a></p></td>
 <td></td>
 <td><p><strong>現場直播</strong></p></td>
 </tr>
@@ -2422,7 +2439,7 @@ HKFA Caring Partner - Little Big Dreams</p></td>
 The 38th Hong Kong Film Awards - Red Carpet</p></td>
 <td><p>主持：<a href="../Page/周子駒.md" title="wikilink">周子駒</a>、<a href="../Page/黃宇詩.md" title="wikilink">黃宇詩</a><br />
 ViuTV現場主持：、、<br />
-ViuTV錄影廠主持：<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="https://zh.wikipedia.org/wiki/廖嘉輝" title="wikilink">廖嘉輝</a><br />
+ViuTV錄影廠主持：<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/廖嘉輝.md" title="wikilink">廖嘉輝</a><br />
 ViuTV Facebook直播主持：<a href="../Page/楊樂文.md" title="wikilink">楊樂文</a>@<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a>、<a href="../Page/何啟華.md" title="wikilink">何啟華</a>@<a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a></p></td>
 <td></td>
 <td><p><strong>現場直播</strong></p></td>
@@ -2864,7 +2881,7 @@ Wynners &amp; Tai Chi Music LIVE Concert 2017</p></td>
 <td><p>國際音樂</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/墾丁春浪音樂節" title="wikilink">2016台北春浪音樂節</a><br />
 2016 Taipei Spring Wave Music And Art Festival</p></td>
-<td><p>演出：<a href="https://zh.wikipedia.org/wiki/譚維維" title="wikilink">譚維維</a>、逃跑計劃、<a href="https://zh.wikipedia.org/wiki/竇靖童" title="wikilink">竇靖童</a>、<a href="https://zh.wikipedia.org/wiki/張震嶽" title="wikilink">張震嶽</a>、<a href="../Page/MC_HotDog.md" title="wikilink">MC HotDog</a>、乱彈阿翔、Monkey Pilot 猴子飛行員、Auntie Roxy、Mr. Loud Who Chance、脆樂團、隔壁團樂隊、4U For you樂團</p></td>
+<td><p>演出：<a href="https://zh.wikipedia.org/wiki/譚維維" title="wikilink">譚維維</a>、逃跑計劃、<a href="https://zh.wikipedia.org/wiki/竇靖童" title="wikilink">竇靖童</a>、<a href="../Page/張震嶽.md" title="wikilink">張震嶽</a>、<a href="../Page/MC_HotDog.md" title="wikilink">MC HotDog</a>、乱彈阿翔、Monkey Pilot 猴子飛行員、Auntie Roxy、Mr. Loud Who Chance、脆樂團、隔壁團樂隊、4U For you樂團</p></td>
 <td></td>
 <td><p>外購節目／不設粵語配音／10月6日02:30-04:30重播</p></td>
 </tr>
@@ -3596,7 +3613,7 @@ Be A Better Me</p></td>
 <td><p>真人秀</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/今鋪搞電了" title="wikilink">今鋪搞電了</a><br />
 Good Game Bro</p></td>
-<td><p>演出：、<a href="https://zh.wikipedia.org/wiki/床哥" title="wikilink">床哥</a>@<a href="https://zh.wikipedia.org/wiki/JFFT" title="wikilink">JFFT</a>、<a href="https://zh.wikipedia.org/wiki/雞翼" title="wikilink">雞翼</a>@<a href="https://zh.wikipedia.org/wiki/JFFT" title="wikilink">JFFT</a>、<a href="https://zh.wikipedia.org/wiki/Kevin" title="wikilink">Kevin</a>、<a href="https://zh.wikipedia.org/wiki/Mari" title="wikilink">Mari</a><br />
+<td><p>演出：<a href="https://zh.wikipedia.org/wiki/郭爾君" title="wikilink">郭爾君</a>、<a href="https://zh.wikipedia.org/wiki/床哥" title="wikilink">床哥</a>@<a href="https://zh.wikipedia.org/wiki/JFFT" title="wikilink">JFFT</a>、<a href="https://zh.wikipedia.org/wiki/雞翼" title="wikilink">雞翼</a>@<a href="https://zh.wikipedia.org/wiki/JFFT" title="wikilink">JFFT</a>、<a href="https://zh.wikipedia.org/wiki/Kevin" title="wikilink">Kevin</a>、<a href="https://zh.wikipedia.org/wiki/Mari" title="wikilink">Mari</a><br />
 旁白：<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a></p></td>
 <td><p><a href="../Page/惠普.md" title="wikilink">HP</a></p></td>
 <td><p>外判節目（<a href="../Page/香港.md" title="wikilink">香港</a>Farland）</p></td>
@@ -3625,7 +3642,7 @@ Let's Go Green</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月30日</p></td>
-<td><p>2</p></td>
+<td><p>4</p></td>
 <td><p>20:00-20:05</p></td>
 <td><p>資訊</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/綠「識」Shopping" title="wikilink">綠「識」Shopping</a><br />
@@ -3639,8 +3656,8 @@ Go Green Shopping</p></td>
 <td><p>3</p></td>
 <td><p>23:25-23:30</p></td>
 <td><p>真人秀</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/花姐鬥Shopping" title="wikilink">花姐鬥Shopping</a><br />
-</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/花姐鬥SHOPPING" title="wikilink">花姐鬥SHOPPING</a><br />
+Festive Shopping With Fa Jie</p></td>
 <td><p>主持：<a href="https://zh.wikipedia.org/wiki/黃慧君" title="wikilink">花姐</a>、<a href="https://zh.wikipedia.org/wiki/呂爵安" title="wikilink">呂爵安</a>、<a href="https://zh.wikipedia.org/wiki/吳啟洋" title="wikilink">吳啟洋</a>、<a href="https://zh.wikipedia.org/wiki/歐鎮灝" title="wikilink">歐鎮灝</a></p></td>
 <td><p><a href="../Page/萬寧_(零售商).md" title="wikilink">萬寧</a></p></td>
 <td></td>

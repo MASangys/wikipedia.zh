@@ -40,7 +40,7 @@ Windows Server 2016具有多种新功能，其中包括：
 
   - [网络控制器](https://zh.wikipedia.org/wiki/网络控制器 "wikilink")，一个新的服务器角色来配置、管理、监控和故障排除数据中心中虚拟和物理的网络设备与服务。\[18\]
 
-  - Hyper-V：可编程Hyper-V切换（微软[軟體定義網路](../Page/軟體定義網路.md "wikilink")解决方案的新构建块）；[VXLAN封装支持](../Page/虛擬局域網擴展.md "wikilink")。微软软件负载平衡器互操作性；更好的兼容IEEE以太网标准。\[19\]
+  - [Hyper-V](https://zh.wikipedia.org/wiki/Hyper-V "wikilink")：可编程Hyper-V切换（微软[軟體定義網路](../Page/軟體定義網路.md "wikilink")解决方案的新构建块）；[VXLAN封装支持](../Page/虛擬局域網擴展.md "wikilink")。微软软件负载平衡器互操作性；更好的兼容IEEE以太网标准。\[19\]
 
 ### Hyper-V
 

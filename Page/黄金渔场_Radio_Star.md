@@ -4787,7 +4787,7 @@
 <tr class="odd">
 <td><p>632</p></td>
 <td><p>8月28日</p></td>
-<td><p>、<a href="../Page/鄭泰祐.md" title="wikilink">鄭泰祐</a>、<a href="https://zh.wikipedia.org/wiki/玄勝熙" title="wikilink">玄勝熙</a> (<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)、韩泰雄</p></td>
+<td><p>、<a href="../Page/鄭泰祐.md" title="wikilink">鄭泰祐</a>、<a href="../Page/玄勝熙.md" title="wikilink">玄勝熙</a> (<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)、韩泰雄</p></td>
 <td><p>“从小就干得好”特輯</p></td>
 <td></td>
 </tr>
@@ -4881,6 +4881,27 @@
 <td><p><a href="../Page/金烔完.md" title="wikilink">金烔完</a> (<a href="https://zh.wikipedia.org/wiki/神话_(组合)" title="wikilink">神话</a>)、<a href="../Page/朴芝潤.md" title="wikilink">朴芝潤</a> 、<a href="../Page/徐孝琳.md" title="wikilink">徐孝琳</a>、<a href="../Page/金智淑_(藝人).md" title="wikilink">智淑</a></p></td>
 <td><p>“我獨自在做”特輯</p></td>
 <td><p>擔任特别主持。</p></td>
+</tr>
+<tr class="odd">
+<td><p>646</p></td>
+<td><p>12月4日</p></td>
+<td><p><a href="../Page/EXO.md" title="wikilink">EXO</a> (<a href="../Page/Suho.md" title="wikilink">Suho</a>、<a href="../Page/伯賢.md" title="wikilink">伯賢</a>、<a href="../Page/Chanyeol.md" title="wikilink">Chanyeol</a>、<a href="../Page/Kai.md" title="wikilink">Kai</a>、<a href="../Page/Sehun.md" title="wikilink">Sehun</a>)</p></td>
+<td><p>“EXO ClaRS”特輯</p></td>
+<td><p><a href="../Page/CHEN_(EXO).md" title="wikilink">Chen擔任特别主持</a>。</p></td>
+</tr>
+<tr class="even">
+<td><p>647</p></td>
+<td><p>12月11日</p></td>
+<td><p><a href="../Page/溫朱莞.md" title="wikilink">溫朱莞</a>、<a href="../Page/朴貞雅.md" title="wikilink">朴貞雅</a>、<a href="../Page/吳昶錫.md" title="wikilink">吳昶錫</a>、</p></td>
+<td><p>“工作见面的关系”特輯</p></td>
+<td><p><a href="../Page/前進_(藝人).md" title="wikilink">前進擔任特别主持</a>。</p></td>
+</tr>
+<tr class="odd">
+<td><p>648</p></td>
+<td><p>12月18日</p></td>
+<td><p><a href="../Page/徐鉉哲.md" title="wikilink">徐鉉哲</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>、李奎成、<a href="https://zh.wikipedia.org/wiki/達淵" title="wikilink">達淵</a> (<a href="https://zh.wikipedia.org/wiki/SF9" title="wikilink">SF9</a>)</p></td>
+<td><p>“不要嘚瑟...”特輯</p></td>
+<td><p><a href="../Page/夫勝寛.md" title="wikilink">夫勝寛</a>擔任特别主持。</p></td>
 </tr>
 </tbody>
 </table>
@@ -6808,7 +6829,7 @@
 
   - 4月9日：因第18届国会议员选举开票节目停播
   - 8月6日：因2008徐太志回归特别节目停播
-  - 8月20日：因2008年[北京奥运会转播停播](https://zh.wikipedia.org/wiki/2008年夏季奥林匹克运动会 "wikilink")
+  - 8月20日：因2008年[北京奥运会转播停播](../Page/2008年夏季奥林匹克运动会.md "wikilink")
   - 12月31日：因直播MBC歌谣大祭典晚会现场停播
 
 ### 2009年
@@ -6828,7 +6849,7 @@
 
 ### 2011年
 
-  - 7月6日：因转播[平昌冬奥会会址选定节目](https://zh.wikipedia.org/wiki/2018年冬季奥林匹克运动会 "wikilink")，只播出了《膝盖道士》部分
+  - 7月6日：因转播[平昌冬奥会会址选定节目](../Page/2018年冬季奥林匹克运动会.md "wikilink")，只播出了《膝盖道士》部分
   - 9月21日：因转播奥运会足球预选赛停播
   - 10月12日：因《膝盖道士》特辑节目停播
   - 12月28日：因创社50周年特别企划“SESIBONG”朋友2部停播
@@ -6848,7 +6869,7 @@
 
 ### 2014年
 
-  - 2月12日 - 2月19日：因转播[2014索契冬季奥运会停播两期](https://zh.wikipedia.org/wiki/2014年冬季奥林匹克运动会 "wikilink")
+  - 2月12日 - 2月19日：因转播[2014索契冬季奥运会停播两期](../Page/2014年冬季奥林匹克运动会.md "wikilink")
   - 4月16日：因得到岁月号客船沉没的消息而停播
   - 4月23日：因播出MBC特别访谈节目“正确坚持原则的社会，怎么做呢？”停播
   - 6月4日：因播出选择2014停播
@@ -6866,7 +6887,7 @@
 
 ### 2018年
 
-  - 2月14日：因转播2018年[平昌冬奥会停播](https://zh.wikipedia.org/wiki/2018年冬季奥林匹克运动会 "wikilink")
+  - 2月14日：因转播2018年[平昌冬奥会停播](../Page/2018年冬季奥林匹克运动会.md "wikilink")
   - 4月25日：因转播2018祈愿南北韩和平的平壤公演停播
   - 6月13日：因播出[第7屆地方選舉開票節目停播](../Page/2018年大韓民國地方選舉.md "wikilink")
   - 6月27日：因轉播[俄羅斯世界盃足球賽](https://zh.wikipedia.org/wiki/2018年國際足協世界盃 "wikilink")[韓國VS](https://zh.wikipedia.org/wiki/韓國 "wikilink")[德國停播](https://zh.wikipedia.org/wiki/德國 "wikilink")

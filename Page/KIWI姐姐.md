@@ -20,7 +20,7 @@
 
 ## 外部連結
 
-  - [Kiwi姐姐個人 Facebook](https://www.facebook.com/YOYOTVSWEETKIWI)
+  - （Kiwi姐姐莫允樂）
 
   -
 [Category:莫姓](https://zh.wikipedia.org/wiki/Category:莫姓 "wikilink") [Category:國立台灣體育大學校友](https://zh.wikipedia.org/wiki/Category:國立台灣體育大學校友 "wikilink") [Category:台灣主持人](https://zh.wikipedia.org/wiki/Category:台灣主持人 "wikilink") [Category:苗栗人](https://zh.wikipedia.org/wiki/Category:苗栗人 "wikilink") [Category:YOYO家族成員](https://zh.wikipedia.org/wiki/Category:YOYO家族成員 "wikilink")

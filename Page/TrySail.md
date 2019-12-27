@@ -165,6 +165,15 @@
 <td><p>10位</p></td>
 </tr>
 <tr class="even">
+<td><p>10th</p></td>
+<td><p>2020年1月22日</p></td>
+<td><p><strong>Free Turn</strong></p></td>
+<td><p>VVCL-1585/6</p></td>
+<td><p>VVCL-1587</p></td>
+<td><p>VVCL-1588/9</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -270,6 +279,11 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>Free Turn</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/電影動畫" title="wikilink">電影動畫</a>《<a href="../Page/高校艦隊.md" title="wikilink">高校艦隊</a>》 劇場版主題曲</p></td>
+<td><p>2020年</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

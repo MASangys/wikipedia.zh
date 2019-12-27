@@ -6,7 +6,7 @@
 
 本單曲的初回限定盤的DVD收錄了[中村繪里子](../Page/中村繪里子.md "wikilink")、[淺倉杏美](../Page/淺倉杏美.md "wikilink")、[沼倉愛美](../Page/沼倉愛美.md "wikilink")和[原由實](../Page/原由實.md "wikilink")4人的對話、演唱會《THE IDOLM@STER 6th ANNIVERSARY LIVE SMILE SUMMER FESTIV@L\!》中《READY\!\! (TV size)》、《GO MY WAY\!\! (M@STER VERSION)》兩曲，以及無字幕版的動畫開場片段。
 
-《READY\!\!》曾與動畫第二期主題曲《[CHANGE\!\!\!\!](https://zh.wikipedia.org/wiki/CHANGE!!!! "wikilink")》合成為《READY\!\! & CHANGE\!\!\!\! SPECIAL EDITION》，並在電視動畫最後一集的表演中播出。此曲後來收錄於2012年2月1日發售的《[THE IDOLM@STER ANIM@TION MASTER 07](https://zh.wikipedia.org/wiki/偶像大師CD列表#ANIM@TION_MASTER系列 "wikilink")》中。
+《READY\!\!》曾與動畫第二期主題曲《[CHANGE\!\!\!\!](../Page/CHANGE!!!!.md "wikilink")》合成為《READY\!\! & CHANGE\!\!\!\! SPECIAL EDITION》，並在電視動畫最後一集的表演中播出。此曲後來收錄於2012年2月1日發售的《[THE IDOLM@STER ANIM@TION MASTER 07](https://zh.wikipedia.org/wiki/偶像大師CD列表#ANIM@TION_MASTER系列 "wikilink")》中。
 
 2013年《THE IDOLM@STER 8th ANNIVERSARY HOP\!STEP\!\!FESTIV@L\!\!\!》巡迴演唱會的各個會場內，主辦方限量售賣收錄了765PRO ALLSTARS個成員單獨演唱版本的專輯《THE IDOLM@STER ANIM@TION MASTER READY\!\! Solo・Remix》，並原定於名古屋公演後在該市[Animate分店設置特別攤位售賣](https://zh.wikipedia.org/wiki/Animate "wikilink")\[3\]，但因CD已全數於會場內售罄而取消\[4\]。
 

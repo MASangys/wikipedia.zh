@@ -1,8 +1,8 @@
-[YouTube_Rewind_Logo_(2017_to_Present).svg](https://zh.wikipedia.org/wiki/File:YouTube_Rewind_Logo_\(2017_to_Present\).svg "fig:YouTube_Rewind_Logo_(2017_to_Present).svg")》是[YouTube](../Page/YouTube.md "wikilink")上迄今最不受喜欢的视频。该视频自2018年12月6日上传以来，已收到超过1600万个不喜欢。\[1\]\]\] [YouTube_Rewind_2018_and_Baby_dislikes.svg](https://zh.wikipedia.org/wiki/File:YouTube_Rewind_2018_and_Baby_dislikes.svg "fig:YouTube_Rewind_2018_and_Baby_dislikes.svg")》在上传一周后超越《[宝贝](https://zh.wikipedia.org/wiki/宝贝_\(贾斯汀·比伯歌曲\) "wikilink")》音乐录影带而成为最不受喜欢的视频。\]\]
+[YouTube_Rewind_Logo_(2017_to_Present).svg](https://zh.wikipedia.org/wiki/File:YouTube_Rewind_Logo_\(2017_to_Present\).svg "fig:YouTube_Rewind_Logo_(2017_to_Present).svg")》是[YouTube](../Page/YouTube.md "wikilink")上迄今最不受喜欢的视频。该视频自2018年12月6日上传以来，已收到超过1700万个不喜欢。\[1\]\]\] [YouTube_Rewind_2018_and_Baby_dislikes.svg](https://zh.wikipedia.org/wiki/File:YouTube_Rewind_2018_and_Baby_dislikes.svg "fig:YouTube_Rewind_2018_and_Baby_dislikes.svg")》在上传一周后超越《[宝贝](https://zh.wikipedia.org/wiki/宝贝_\(贾斯汀·比伯歌曲\) "wikilink")》音乐录影带而成为最不受喜欢的视频。\]\]
 
-**最不受喜欢的YouTube视频列表**（）包含了[YouTube](../Page/YouTube.md "wikilink")有史以来最不受喜欢的视频中的前50名，这些排名来自YouTube榜单。\[2\] 2010年，YouTube在视频播放页上部署了，作为网站主要设计的一部分。这个修改用以取代之前的[五星评分系统](../Page/星級.md "wikilink")，\[3\]这是由于五星评分系统中“两星”和“四星”两个选项因为极少的选择而被发现是没有实际效果的。\[4\]在本列表中的50个视频里，有16个也出现在[播放次数最多的YouTube视频列表内](../Page/觀看次數最多的YouTube影片列表.md "wikilink")；同时也有11个出现在[最受喜欢的YouTube视频列表中](https://zh.wikipedia.org/wiki/最受喜欢的YouTube视频列表 "wikilink")。截至2019年2月，[贾斯汀·比伯](../Page/贾斯汀·比伯.md "wikilink")有4个视频位列本表，成为拥有最多最不受喜欢的视频的人；而YouTube官方频道也有3个视频位列其中。
+**最不受喜欢的YouTube视频列表**（）包含了[YouTube](../Page/YouTube.md "wikilink")有史以来最不受喜欢的视频中的前10名，这些排名来自YouTube榜单。\[2\] 2010年，YouTube在视频播放页上部署了，作为网站主要设计的一部分。这个修改用以取代之前的[五星评分系统](../Page/星級.md "wikilink")，\[3\]这是由于五星评分系统中“两星”和“四星”两个选项因为极少的选择而被发现是没有实际效果的。\[4\]在本列表中的10个视频裡，有4个也出现在[播放次数最多的YouTube视频列表内](../Page/觀看次數最多的YouTube影片列表.md "wikilink")；同时也有2个出现在[最受喜欢的YouTube视频列表中](https://zh.wikipedia.org/wiki/最受喜欢的YouTube视频列表 "wikilink")。截至2019年12月，YouTube官方频道有2个视频位列其中。
 
-2018年12月13日，《[YouTube 2018年年度回顾：人人掌控回顾](../Page/2018年YouTube年度回顧.md "wikilink")》以1500万个不喜欢而正是超越[贾斯汀·比伯](../Page/贾斯汀·比伯.md "wikilink")的《[宝贝](https://zh.wikipedia.org/wiki/宝贝_\(贾斯汀·比伯歌曲\) "wikilink")》[音乐录影带成为视频分享平台上最不受喜欢的视频](https://zh.wikipedia.org/wiki/音乐录影带 "wikilink")；《宝贝》音乐录影带曾列入《[吉尼斯世界纪录](../Page/吉尼斯世界纪录.md "wikilink")大全》上的[互联网](../Page/互联网.md "wikilink")和YouTube上最不受欢迎的视频。\[5\]截至2018年12月31日，《YouTube 2018年年度回顾》与《宝贝》音乐录影带相比，仍然多出500万个不喜欢。
+2018年12月13日，《[YouTube 2018年年度回顾：人人掌控回顾](../Page/2018年YouTube年度回顧.md "wikilink")》以1500万个不喜欢而正式超越[贾斯汀·比伯](../Page/贾斯汀·比伯.md "wikilink")的《[宝贝](https://zh.wikipedia.org/wiki/宝贝_\(贾斯汀·比伯歌曲\) "wikilink")》[音乐录影带成为视频分享平台上最不受喜欢的视频](https://zh.wikipedia.org/wiki/音乐录影带 "wikilink")；《宝贝》音乐录影带曾列入《[吉尼斯世界纪录](../Page/吉尼斯世界纪录.md "wikilink")大全》上的[互联网](../Page/互联网.md "wikilink")和YouTube上最不受欢迎的视频。\[5\]截至2019年12月13日，《YouTube 2018年年度回顾》与《宝贝》音乐录影带相比，仍然多出600万个不喜欢。
 
 2011年3月，[瑞贝卡·布莱克](../Page/瑞贝卡·布莱克.md "wikilink")的《[星期五](https://zh.wikipedia.org/wiki/Friday_\(瑞贝卡·布莱克歌曲\) "wikilink")》音乐录影带以超过120万个不喜欢取代拥有110万个不喜欢的《宝贝》音乐录影带而成为最不受喜欢的视频。\[6\]在2011年6月视频下架之前，布莱克的《星期五》累积了超过300万个不喜欢。不过，这个视频在三个月又得到恢复并再未被删除过。\[7\]
 
@@ -12,7 +12,7 @@
 
 ## 榜单内容
 
-下表列举了YouTube上最不受喜欢的前3个视频，以及它们的不喜欢数、创作者、不喜欢比例和发布日期。
+下表列举了YouTube上最不受喜欢的前10个视频，以及它们的不喜欢数、创作者、不喜欢比例和发布日期。
 
 <table style="width:243%;">
 <caption>YouTube最不受喜欢视频排行榜[16]</caption>
@@ -40,37 +40,127 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>†<strong><a href="../Page/2018年YouTube年度回顧.md" title="wikilink">YouTube年度回顾2018：人人掌控回顾</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/YouTube聚光灯" title="wikilink">YouTube聚光灯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/YouTube聚光灯" title="wikilink">YouTube</a></p></td>
 <td><p>2018年12月6日</p></td>
-<td><p>1,690</p></td>
-<td><p>86.30%</p></td>
+<td><p>1,723</p></td>
+<td><p>86.47%</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/宝贝_(贾斯汀·比伯歌曲)" title="wikilink">宝贝</a></strong></p></td>
-<td><p><a href="../Page/贾斯汀·比伯.md" title="wikilink">贾斯汀·比伯</a> <small>配</small> <a href="../Page/卢达克里斯.md" title="wikilink">卢达克里斯</a></p></td>
+<td><p><a href="../Page/贾斯汀·比伯.md" title="wikilink">贾斯汀·比伯</a> <small>、</small> <a href="../Page/卢达克里斯.md" title="wikilink">卢达克里斯</a></p></td>
 <td><p>2010年2月19日</p></td>
 <td><p>1,049</p></td>
-<td><p>47.95%</p></td>
+<td><p>46.91%</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>3</p></td>
-<td><p><strong>It's Everyday Bro</strong></p></td>
-<td><p>Jake Paul featuring Team 10</p></td>
-<td><p>2017年5月30日</p></td>
-<td><p>430</p></td>
-<td><p>60.27%</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>3</p></td>
+<td><p>†<strong>YouTube年度回顧2019：為了記錄</strong></p></td>
+<td><p><a href="../Page/YouTube聚光燈.md" title="wikilink">YouTube</a></p></td>
+<td><p>2019年12月5日</p></td>
+<td><p>700</p></td>
+<td><p>71.14%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/despacito" title="wikilink">despacito</a></p></td>
-<td><p>路易斯馮西</p></td>
+<td><p>†<strong><a href="https://zh.wikipedia.org/wiki/鯊魚寶寶" title="wikilink">鯊魚寶寶</a></strong></p></td>
+<td><p><a href="../Page/碰碰狐.md" title="wikilink">碰碰狐</a></p></td>
+<td><p>2016年6月17日</p></td>
+<td><p>468</p></td>
+<td><p>27.93%</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p><strong>It's Everyday Bro</strong></p></td>
+<td><p><a href="../Page/傑克·保羅.md" title="wikilink">傑克·保羅</a>、Team 10</p></td>
+<td><p>2017年5月30日</p></td>
+<td><p>454</p></td>
+<td><p>61.19%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>†<strong>Can this video get 1 million dislikes?</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pewdiepie" title="wikilink">Pewdiepie</a></p></td>
+<td><p>2016年12月24日</p></td>
+<td><p>440</p></td>
+<td><p>93.94%</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Despacito" title="wikilink">慢慢來</a></strong></p></td>
+<td><p><a href="../Page/路易斯·馮西.md" title="wikilink">路易斯·馮西</a>、<a href="../Page/洋基老爹.md" title="wikilink">洋基老爹</a></p></td>
 <td><p>2017年1月12日</p></td>
-<td><p>428</p></td>
-<td><p>12.068%</p></td>
+<td><p>430</p></td>
+<td><p>10.77%</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>†<strong><a href="https://zh.wikipedia.org/wiki/決勝時刻：無盡戰爭" title="wikilink">決勝時刻：無盡戰爭官方預告</a></strong></p></td>
+<td><p><a href="../Page/決勝時刻系列.md" title="wikilink">決勝時刻</a></p></td>
+<td><p>2016年5月2日</p></td>
+<td><p>384</p></td>
+<td><p>86.39%</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>†<strong><a href="../Page/瑪莎與熊.md" title="wikilink">瑪莎與麥片粥</a></strong></p></td>
+<td><p>Get Movies</p></td>
+<td><p>2012年1月31日</p></td>
+<td><p>365</p></td>
+<td><p>35.39%</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Friday_(瑞貝卡·布萊克歌曲)" title="wikilink">星期五</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/瑞貝卡·布萊克" title="wikilink">瑞貝卡·布萊克</a></p></td>
+<td><p>2011年9月16日</p></td>
+<td><p>361</p></td>
+<td><p>76.9%</p></td>
 <td></td>
 </tr>
 </tbody>

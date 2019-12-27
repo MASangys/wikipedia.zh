@@ -1,4 +1,4 @@
-**NVLink**，是[輝達](https://zh.wikipedia.org/wiki/輝達 "wikilink")（NVIDIA）開發並推出的一種[匯流排及其](https://zh.wikipedia.org/wiki/匯流排 "wikilink")[通訊協定](https://zh.wikipedia.org/wiki/通訊協定 "wikilink")。NVLink採用點對點結構、串列傳輸，用於[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")（CPU）與[圖形處理器](../Page/圖形處理器.md "wikilink")（GPU）之間的連接，也可用於多個圖形處理器之間的相互連接。\[1\]當前配備並使用NVLink的產品業已發布，多為針對高效能運算應用領域，像是輝達目前最新的Tesla P100運算卡。\[2\]
+**NVLink**，是[輝達](https://zh.wikipedia.org/wiki/輝達 "wikilink")（NVIDIA）開發並推出的一種[匯流排及其](https://zh.wikipedia.org/wiki/匯流排 "wikilink")[通訊協定](https://zh.wikipedia.org/wiki/通訊協定 "wikilink")。NVLink採用點對點結構、串列傳輸，用於[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")（CPU）與[圖形處理器](../Page/圖形處理器.md "wikilink")（GPU）之間的連接，也可用於多個NVIDIA圖形處理器之間的相互連接。\[1\]當前配備並使用NVLink的產品業已發布，多為針對高效能運算應用領域，像是輝達目前最新的Tesla P100運算卡。\[2\]
 
 ## 應用
 
@@ -10,6 +10,7 @@
 
 ## 其它類似的匯流排
 
+  - [SLI](https://zh.wikipedia.org/wiki/SLI "wikilink")
   - [Intel QuickPath Interconnect](../Page/快速通道互联.md "wikilink")
   - [PCI Express](../Page/PCI_Express.md "wikilink")
   - [HyperTransport](../Page/HyperTransport.md "wikilink")

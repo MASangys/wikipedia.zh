@@ -116,12 +116,17 @@
   - [天使降臨到我身邊！](../Page/天使降臨到我身邊！.md "wikilink")（**松本香子**\[27\]）
   - [巴哈姆特之怒 -Manaria Friends-](https://zh.wikipedia.org/wiki/Mysteria_Friends "wikilink")（波比）
   - [我們真的學不來！](../Page/我們真的學不來！.md "wikilink")（**桐須真冬**\[28\]）
-  - [炎炎消防隊](../Page/炎炎消防隊.md "wikilink")（普林西斯 火華\[29\]）
+  - [炎炎消防隊](../Page/炎炎消防隊.md "wikilink")（普林西斯火華\[29\]）
   - [艾梅洛閣下II世事件簿](../Page/艾梅洛閣下II世事件簿.md "wikilink")（菲）
   - [Dr.STONE 新石紀](../Page/Dr.STONE_新石紀.md "wikilink")（莉莉安·溫伯格）
   - [普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？](../Page/普通攻擊是全體二連擊，這樣的媽媽你喜歡嗎？.md "wikilink")（**梅迪**）
-  - [神田川JET GIRLS](https://zh.wikipedia.org/wiki/神田川JET_GIRLS "wikilink")（**珍妮佛·碧琪**\[30\]）
+  - [神田川JET GIRLS](../Page/神田川JET_GIRLS.md "wikilink")（**珍妮佛·碧琪**\[30\]）
   - 我們真的學不來！第2期（**桐須真冬**）
+  - [刀劍神域 Alicization War of Underworld](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")（謝達・辛賽西斯・推魯弗）
+
+**2020年**
+
+  - [戀愛小行星](../Page/戀愛小行星.md "wikilink")（遠藤幸）
 
 ### OVA
 

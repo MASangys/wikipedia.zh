@@ -1047,7 +1047,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/電車GO!2高速編" title="wikilink">電車GO!2高速編</a></p></td>
+<td><p><a href="../Page/電車GO!2高速編.md" title="wikilink">電車GO!2高速編</a></p></td>
 <td><p><em>Densha de Go! 2</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Taito_Corporation" title="wikilink">Taito Corporation</a></p></td>
 <td><p>Taito Corporation</p></td>
@@ -1599,7 +1599,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/格斗力量2" title="wikilink">格斗力量2</a></p></td>
 <td><p><em>Fighting Force 2</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Core_Design" title="wikilink">Core Design</a></p></td>
+<td><p><a href="../Page/Core_Design.md" title="wikilink">Core Design</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Eidos_Interactive" title="wikilink">Eidos</a></p></td>
 <td></td>
 <td></td>
@@ -5759,7 +5759,7 @@
 <tr class="odd">
 <td><p>古墓丽影5 历代记</p></td>
 <td><p><em>Tomb Raider: Chronicles</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Core_Design" title="wikilink">Core Design</a></p></td>
+<td><p><a href="../Page/Core_Design.md" title="wikilink">Core Design</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Eidos_Interactive" title="wikilink">Eidos Interactive</a></p></td>
 <td></td>
 <td></td>
@@ -5769,7 +5769,7 @@
 <tr class="even">
 <td><p><a href="../Page/古墓丽影：最后的启示.md" title="wikilink">古墓丽影：最后的启示</a></p></td>
 <td><p><em>Tomb Raider: The Last Revelation</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Core_Design" title="wikilink">Core Design</a></p></td>
+<td><p><a href="../Page/Core_Design.md" title="wikilink">Core Design</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Eidos_Interactive" title="wikilink">Eidos Interactive</a></p></td>
 <td></td>
 <td></td>

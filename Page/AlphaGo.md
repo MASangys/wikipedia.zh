@@ -217,7 +217,7 @@ AlphaGo被誉为人工智能研究的一项标志性进展，在此之前，围�
 22.
 23.
 24.
-25. <https://udn.com/news/story/11159/2488947>
+25.
 26.
 27.
 28.
@@ -251,11 +251,11 @@ AlphaGo被誉为人工智能研究的一项标志性进展，在此之前，围�
 56.
 57.
 58.
-59. [人机大战 2.0 将于 5 月 23 日正式上演](http://cn.engadget.com/2017/04/10/alphago-vs-kejie/).engadget.2017-04-10.\[2017-04-10\].
-60. [Exploring the mysteries of Go with AlphaGo and China's top players](https://deepmind.com/blog/exploring-mysteries-alphago/).DeepMind.2017-04-10.\[2017-04-10\].
+59. [人机大战 2.0 将于 5 月 23 日正式上演](http://cn.engadget.com/2017/04/10/alphago-vs-kejie/) .engadget.2017-04-10.\[2017-04-10\].
+60. [Exploring the mysteries of Go with AlphaGo and China's top players](https://deepmind.com/blog/exploring-mysteries-alphago/) .DeepMind.2017-04-10.\[2017-04-10\].
 61.
 62.
-63. [Google's AlphaGo retires from competition](https://www.engadget.com/2017/05/27/googles-alphago-retires-from-competition/).Engadget.2017-05-27.\[2017-05-28\].
+63. [Google's AlphaGo retires from competition](https://www.engadget.com/2017/05/27/googles-alphago-retires-from-competition/) .Engadget.2017-05-27.\[2017-05-28\].
 64.
 65.
 66.
@@ -263,7 +263,7 @@ AlphaGo被誉为人工智能研究的一项标志性进展，在此之前，围�
 68.
 69.
 70.
-71. <http://n.sinaimg.cn/sports/transform/20170524/Hphx-fyfkzht0486109.jpg>
+71.
 72.
 73.
 74.

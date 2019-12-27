@@ -48,7 +48,8 @@
   - 2016年6月 - [闇影詩章](../Page/闇影詩章.md "wikilink")（同年8月在[DMM](../Page/DMM.com.md "wikilink") GAMES（PC）、同年10月在[Steam](../Page/Steam.md "wikilink")平台发行\[12\]）
   - 2018年2月 - [超異域公主連結 Re:Dive](../Page/超異域公主連結_Re:Dive.md "wikilink")
   - 2018年9月 - [Dragalia Lost ～失落的龍絆～](../Page/Dragalia_Lost_～失落的龍絆～.md "wikilink")（与任天堂共同开发）
-  - 預定2019年夏季 - [賽馬娘Pretty Derby](https://zh.wikipedia.org/wiki/賽馬娘Pretty_Derby "wikilink")（首款育成遊戲，且在android及ios平台同步發行）
+  - 2019年11月 - 彈射世界(ワールドフリッパー)\[13\] (與其子公司Citail(シテイル)共同開發)
+  - 時間未定 - [賽馬娘Pretty Derby](https://zh.wikipedia.org/wiki/賽馬娘Pretty_Derby "wikilink")（首款育成遊戲，且在android及ios平台同步發行）
 
 ### 主機遊戲
 
@@ -91,3 +92,4 @@
 10.
 11.
 12.
+13.

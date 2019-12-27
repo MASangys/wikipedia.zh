@@ -1503,7 +1503,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/无主之地：前传" title="wikilink">无主之地：前传</a></p></td>
+<td><p><a href="../Page/无主之地：前传.md" title="wikilink">无主之地：前传</a></p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Borderlands:_The_Pre-Sequel" title="wikilink">Borderlands: The Pre-Sequel</a></em></p></td>
 <td><p><a href="../Page/2K_Australia.md" title="wikilink">2K Australia</a></p></td>
 <td><p><a href="../Page/2K_Games.md" title="wikilink">2K Games</a></p></td>
@@ -4519,7 +4519,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/极限竞速：地平线2" title="wikilink">极限竞速：地平线2</a></p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Forza_Horizon_2" title="wikilink">Forza Horizon 2</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a>, <a href="https://zh.wikipedia.org/wiki/Turn_10_Studios" title="wikilink">Turn 10 Studios</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a>, <a href="https://zh.wikipedia.org/wiki/Turn_10_Studios" title="wikilink">Turn 10 Studios</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Studios" title="wikilink">Microsoft Studios</a></p></td>
 <td></td>
 <td></td>
@@ -10052,7 +10052,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/世嘉全明星网球" title="wikilink">世嘉全明星网球</a></p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Sega_Superstars_Tennis" title="wikilink">Sega Superstars Tennis</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sega" title="wikilink">Sega</a></p></td>
 <td></td>
 <td></td>
@@ -10426,7 +10426,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/索尼克全明星赛车：变形" title="wikilink">索尼克全明星赛车：变形</a></p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Sonic_&amp;_All-Stars_Racing_Transformed" title="wikilink">Sonic &amp; All-Stars Racing Transformed</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sega" title="wikilink">Sega</a></p></td>
 <td></td>
 <td></td>
@@ -10437,7 +10437,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/索尼克与世嘉全明星赛车" title="wikilink">索尼克与世嘉全明星赛车</a></p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Sonic_&amp;_Sega_All-Stars_Racing" title="wikilink">Sonic &amp; Sega All-Stars Racing</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sega" title="wikilink">Sega</a></p></td>
 <td></td>
 <td></td>
@@ -12076,7 +12076,7 @@
 <tr class="odd">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Virtua_Tennis_2009" title="wikilink">Virtua Tennis 2009</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sega" title="wikilink">Sega</a></p></td>
 <td></td>
 <td></td>
@@ -12087,7 +12087,7 @@
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Virtua_Tennis_3" title="wikilink">Virtua Tennis 3</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sega" title="wikilink">Sega</a></p></td>
 <td></td>
 <td></td>

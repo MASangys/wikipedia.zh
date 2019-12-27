@@ -605,9 +605,15 @@ Sekai Project已表示有意在将来将游戏翻译至英语外的其他语言�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/獸娘的養育法" title="wikilink">獸娘的養育法</a></p></td>
+<td><p><a href="../Page/獸娘的養育法.md" title="wikilink">獸娘的養育法</a></p></td>
 <td><p>SWEET&amp;TEA</p></td>
 <td><p>2019年10月11日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/BALDR_SKY.md" title="wikilink">BALDR SKY</a></p></td>
+<td><p><a href="../Page/戲畫_(遊戲品牌).md" title="wikilink">戲畫</a></p></td>
+<td><p>2019年12月20日</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -633,12 +639,9 @@ Sekai Project已表示有意在将来将游戏翻译至英语外的其他语言�
 | Shizuku no Oto                                                                                   | aiueoKompany                               | TBA | \[98\]  |
 | Sierra Ops                                                                                       | InnoMen Productions                        | TBA | \[99\]  |
 | [天神乱漫 -LUCKY or UNLUCKY\!?-](https://zh.wikipedia.org/wiki/天神乱漫_-LUCKY_or_UNLUCKY!?- "wikilink") | [YUZUSOFT](../Page/YUZUSOFT.md "wikilink") | TBA | \[100\] |
-| [The Eden of Grisaia](https://zh.wikipedia.org/wiki/灰色的果实 "wikilink")                            | FrontWing                                  | TBA | \[101\] |
-| The Human Reignition Project                                                                     | Alienworks                                 | TBA | \[102\] |
-| [The Labyrinth of Grisaia](https://zh.wikipedia.org/wiki/灰色的果实 "wikilink")                       | FrontWing                                  | TBA | \[103\] |
-| The Reject Demon: Toko Chapter 1                                                                 | Lupiesoft                                  | TBA | \[104\] |
-| Witch Boy Magical Piece                                                                          | Rosemary House                             | TBA | \[105\] |
-| [BALDR SKY](../Page/BALDR_SKY.md "wikilink")                                                     | [戲畫](../Page/戲畫_\(遊戲品牌\).md "wikilink")    | TBA |         |
+| The Human Reignition Project                                                                     | Alienworks                                 | TBA | \[101\] |
+| The Reject Demon: Toko Chapter 1                                                                 | Lupiesoft                                  | TBA | \[102\] |
+| Witch Boy Magical Piece                                                                          | Rosemary House                             | TBA | \[103\] |
 | はるまで、くるる。                                                                                        | すみっこソフト                                    | TBA |         |
 
 ### 其他作品
@@ -659,28 +662,28 @@ Sekai Project已表示有意在将来将游戏翻译至英语外的其他语言�
 <td><p>书籍</p></td>
 <td><p>Lunatic Joker</p></td>
 <td></td>
-<td><p>[106]</p></td>
+<td><p>[104]</p></td>
 </tr>
 <tr class="even">
 <td><p>Clannad Anthology</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/漫画" title="wikilink">漫画</a></p></td>
 <td></td>
 <td><p>TBA</p></td>
-<td><p>[107]</p></td>
+<td><p>[105]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/GATE_奇幻自卫队" title="wikilink">GATE 奇幻自卫队</a></p></td>
 <td><p>漫画</p></td>
 <td><p>Takumi Yanai</p></td>
 <td><p>TBA</p></td>
-<td><p>[108]</p></td>
+<td><p>[106]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/MikuMikuDance.md" title="wikilink">MikuMikuDance</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/免费软件" title="wikilink">免费软件</a></p></td>
 <td><p>Yu Higuchi</p></td>
 <td><p>TBA</p></td>
-<td><p>[109]</p></td>
+<td><p>[107]</p></td>
 </tr>
 </tbody>
 </table>
@@ -801,5 +804,3 @@ Sekai Project已表示有意在将来将游戏翻译至英语外的其他语言�
 105.
 106.
 107.
-108.
-109.

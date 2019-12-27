@@ -19,4 +19,10 @@
 |      | 魔高一丈      | 13    | \-    | 4     | \-    |           |
 |      | 愛她因為愛你    | \-    | \-    | \-    | \-    |           |
 
+### 相關提名／獎項
+
+2007年度IFPI十大銷量廣東唱片\[1\]
+
 [Category:孫耀威音樂專輯](https://zh.wikipedia.org/wiki/Category:孫耀威音樂專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+
+1.  [www.ifpihk.org](http://www.ifpihk.org/hong-kong-top-sales-music-award-presented-01-11/hong-kong-top-sales-music-award-presented/2007)

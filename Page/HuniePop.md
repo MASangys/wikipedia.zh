@@ -21,7 +21,7 @@
   - 傑西·梅耶（Jessie Maye，聲：阿曼達·伯恩林）： 36歲的[色情演員](../Page/色情演員.md "wikilink")，蒂芬妮的母親。
   - 凱安娜·德爾里奧（Kyanna Delrio，聲：海倫·達維奧）：痴迷於健身的21歲[拉丁裔美髮師](https://zh.wikipedia.org/wiki/拉丁裔美國人 "wikilink")，是一位單身母親，有著一個一歲的兒子。
   - 蘿拉·雷姆布賴特（Lola Rembrite，聲：）：喜歡打網球的24歲[空中服務員](https://zh.wikipedia.org/wiki/空中服務員 "wikilink")。
-  - 妮琪·安–瑪麗（Nikki Ann-Marie，聲：斯凱勒·達文波特）：18歲的[咖啡師](https://zh.wikipedia.org/wiki/咖啡師 "wikilink")，也是一位狂熱的遊戲玩家。.
+  - 妮琪·安–瑪麗（Nikki Ann-Marie，聲：斯凱勒·達文波特）：18歲的[咖啡師](../Page/咖啡師.md "wikilink")，也是一位狂熱的遊戲玩家。.
 
 ### 需解鎖角色
 

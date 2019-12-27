@@ -915,7 +915,7 @@
 
 ## 外部連結
 
-  - [愛奇藝台灣站線上看《High 5 制霸青春》](http://tw.iqiyi.com/v_19rr9l4e18.html)
+  - [愛奇藝台灣站線上看《High 5 制霸青春》](https://web.archive.org/web/20161107090646/http://tw.iqiyi.com/v_19rr9l4e18.html)
 
   - －八大電視
 

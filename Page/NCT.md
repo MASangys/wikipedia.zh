@@ -352,7 +352,7 @@ BackgroundColors = bars:bars
 
 5月1日，公開首張迷你專輯《》回歸日程安排；5月9日，公開首張迷你專輯主打歌《無翼而飛（Take Off）》MV，並在中國及世界主要音源網站同時公開專輯音源；同日，在南京召開首張迷你專輯《Take Off》全球新聞發布會\[48\]，這也是組合在出道後的首場發布會。該專輯在發行當日在中國的“QQ音樂”巔峰人氣榜摘冠，更佔據30個國家和地區的iTunes綜合專輯第一名，成爲史上獲得“iTunes綜合專輯榜單最多第一名”的中國男子組合\[49\]，刷新NCT其他分隊先前在該榜單上的記錄，\[50\]也成功超越先前出道專輯《The Vision》所創下的記錄。同時，該專輯也榮登当天的iTunes世界專輯榜一位\[51\]，是史上唯一榮登該榜的中國男子組合。
 
-8月18日起，在[優酷以及](https://zh.wikipedia.org/wiki/優酷 "wikilink")[YouTube](../Page/YouTube.md "wikilink")開始播出於夏天拍攝的組合首部專屬[真人秀節目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")《[少年威計劃](https://zh.wikipedia.org/wiki/少年威計劃 "wikilink")》。節目中公開了組合於在7月10日在中國[天津人民體育館所舉辦的首次公演](https://zh.wikipedia.org/wiki/天津人民體育館 "wikilink")〈少年威計劃見面會〉。\[52\]
+8月18日起，在[優酷以及](https://zh.wikipedia.org/wiki/優酷 "wikilink")[YouTube](../Page/YouTube.md "wikilink")開始播出於夏天拍攝的組合首部專屬[真人秀節目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")《[少年威計劃](../Page/少年威計劃.md "wikilink")》。節目中公開了組合於在7月10日在中國[天津人民體育館所舉辦的首次公演](https://zh.wikipedia.org/wiki/天津人民體育館 "wikilink")〈少年威計劃見面會〉。\[52\]
 
 10月23日，官方宣布组合将以第二张迷你专辑《Take Over The Moon》回归並陸續公佈預告；10月29日，发布新专辑主打歌《天选之城（Moonwalk）》MV，同时也公開專輯音源；10月30日及11月5日，分别出演韩国音乐节目《[Show Champion](../Page/Show_Champion.md "wikilink")》\[53\]及《[The Show](https://zh.wikipedia.org/wiki/The_Show "wikilink")》\[54\]，这是自组合出道以来首次在韩国进行专辑宣传活动，也是三名新成员肖俊、Hendery、扬扬的韩国初舞台。11月5日，将早前在迷你二辑的《秘语（Love Talk）》重新打造，作为全新英文单曲《Love Talk》在全球发布MV及音源；《Love Talk》在中國的“QQ音樂”单曲数字专辑畅销榜1位，随后在美国Billboard榜的World Digital Song Sales榜单拿下周榜3位，彰显了威神V的全球人气。\[55\]
 
@@ -360,9 +360,9 @@ BackgroundColors = bars:bars
 
   - NCT 127：首次世界巡迴演唱會〈NEO CITY：World Tour－The Origin〉、首張日文正規專輯《Awaken》、迷你四輯《We Are Superhuman》
 
-在以威神V（WayV）出道后，成員[昀昀暂停了NCT](../Page/董思成.md "wikilink") 127的活動，專注於分队威神V和個人的中國活動。1月26日至27日，组合連續兩天在[首爾奧林匹克公園的體操競技館舉辦首次演唱會](https://zh.wikipedia.org/wiki/首爾奧林匹克公園 "wikilink")〈[NEO CITY：World Tour－The Origin](https://zh.wikipedia.org/wiki/Neo_City_-_The_Origin "wikilink")〉；2月2日至3月31日，圓滿完成總共有14場次的日本巡迴演唱會〈[NEO CITY：JAPAN－The Origin](https://zh.wikipedia.org/wiki/Neo_City_-_The_Origin "wikilink")〉，成員[楷燦](../Page/楷燦.md "wikilink")因腳傷僅出演琦玉场。3月18日，公開日文专辑主打曲《Wakey Wakey》MV及音源；4月17日，發表首張日文正規專輯《》。
+在以威神V（WayV）出道后，成員[昀昀暂停了NCT](../Page/董思成.md "wikilink") 127的活動，專注於分队威神V和個人的中國活動。1月26日至27日，组合連續兩天在[首爾奧林匹克公園的體操競技館舉辦首次演唱會](https://zh.wikipedia.org/wiki/首爾奧林匹克公園 "wikilink")〈[NEO CITY：World Tour－The Origin](../Page/Neo_City_-_The_Origin.md "wikilink")〉；2月2日至3月31日，圓滿完成總共有14場次的日本巡迴演唱會〈[NEO CITY：JAPAN－The Origin](../Page/Neo_City_-_The_Origin.md "wikilink")〉，成員[楷燦](../Page/楷燦.md "wikilink")因腳傷僅出演琦玉场。3月18日，公開日文专辑主打曲《Wakey Wakey》MV及音源；4月17日，發表首張日文正規專輯《》。
 
-4月16日，官方宣布组合將于五月帶著第四張迷你專輯《》回歸；4月18日，率先於美國節目《[早安美國](../Page/早安美國.md "wikilink")》和《》公開主打歌《Superhuman》的初舞台\[56\]；4月24日，以美國新澤西為首站，啟動世界巡迴演唱會〈[NEO CITY：World Tour－The Origin](https://zh.wikipedia.org/wiki/Neo_City_-_The_Origin "wikilink")〉；美国巡演期间出席了不少当地电视和电台节目，包括《[早安美國](../Page/早安美國.md "wikilink")》、《》、《》等。5月24日，公開第四張迷你專輯《》MV及音源，並在KBS《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》展開回歸活動。該專輯在發行當天佔據25個國家和地區的iTunes綜合專輯第一名，其中包括美國，並榮登“iTunes世界專輯榜”一位。此外，登上“Billboard 200”第11位，打破上張專輯《Regular-Irregular》創下的86位的成績，創下K-POP團體歌手史上第二好成績；同時更登上“Billboard世界專輯榜”一位\[57\]；7月19日，重新錄製填上英語歌詞的《Highway To Heaven》音源於全球公佈，並在7月26日公佈該曲MV。\[58\]
+4月16日，官方宣布组合將于五月帶著第四張迷你專輯《》回歸；4月18日，率先於美國節目《[早安美國](../Page/早安美國.md "wikilink")》和《》公開主打歌《Superhuman》的初舞台\[56\]；4月24日，以美國新澤西為首站，啟動世界巡迴演唱會〈[NEO CITY：World Tour－The Origin](../Page/Neo_City_-_The_Origin.md "wikilink")〉；美国巡演期间出席了不少当地电视和电台节目，包括《[早安美國](../Page/早安美國.md "wikilink")》、《》、《》等。5月24日，公開第四張迷你專輯《》MV及音源，並在KBS《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》展開回歸活動。該專輯在發行當天佔據25個國家和地區的iTunes綜合專輯第一名，其中包括美國，並榮登“iTunes世界專輯榜”一位。此外，登上“Billboard 200”第11位，打破上張專輯《Regular-Irregular》創下的86位的成績，創下K-POP團體歌手史上第二好成績；同時更登上“Billboard世界專輯榜”一位\[57\]；7月19日，重新錄製填上英語歌詞的《Highway To Heaven》音源於全球公佈，並在7月26日公佈該曲MV。\[58\]
 
 11月3日，作為第一個K-POP歌手登上的舞台\[59\]；11月28日，參加了在美國紐約一帶舉行的第93屆年度[梅西感恩節大遊行](https://zh.wikipedia.org/wiki/梅西感恩節大遊行 "wikilink")，成為首組參加該遊行活動的K-POP藝人。\[60\]
 
@@ -504,7 +504,7 @@ BackgroundColors = bars:bars
   - 2019年：《NCT 127 Star Road》
   - 2019年：《NCT 127 NEO CITY JAPAN－TheOrigin舉辦紀念SP》
   - 2019年：《NCT 127 請指教JAPAN\!》
-  - 2019年：《[少年威計劃](https://zh.wikipedia.org/wiki/少年威計劃 "wikilink")》
+  - 2019年：《[少年威計劃](../Page/少年威計劃.md "wikilink")》
 
 ## 演唱會及其他演出
 
@@ -516,14 +516,19 @@ BackgroundColors = bars:bars
 | -------------- | ------------------------------- | ---------------------------------------------------- |
 | 2018年9月28－30日  | NCT DREAM SHOW                  | 韓國[首爾](../Page/首爾.md "wikilink")SMTOWN影院@COEX Artium |
 | 2018年12月1－5日   | NCT DREAM SHOW \#2              |                                                      |
-| 2019年11月15－17日 | NCT DREAM TOUR "THE DREAM SHOW" | 韓國首爾 獎忠體育館                                           |
-| 2019年12月1、2日   | 泰國曼谷 IMPACT會展中心                 |                                                      |
+| 2019年11月15－17日 | NCT DREAM TOUR 「THE DREAM SHOW」 | 韓國首爾 獎忠體育館                                           |
+| 2019年12月1、2日   | 泰國曼谷IMPACT會展中心                  |                                                      |
+| 2020年1月26日     | 東京國際論壇大樓A廳                      |                                                      |
+| 2020年1月27日     | 東京NHK HALL                      |                                                      |
+| 2020年2月2、3日    | 神戶國際會館                          |                                                      |
+| 2020年2月15日     | 新加坡星爍藝術表演中心                     |                                                      |
+|                |                                 |                                                      |
 
   - NCT 127
 
 <!-- end list -->
 
-  - [NCT 127 1st Tour 'NEO CITY – The Origin'](https://zh.wikipedia.org/wiki/Neo_City_-_The_Origin "wikilink")（2019年－2020年）
+  - [NCT 127 1st Tour 'NEO CITY – The Origin'](../Page/Neo_City_-_The_Origin.md "wikilink")（2019年－2020年）
 
 ### SHOWCASE
 
@@ -648,6 +653,16 @@ BackgroundColors = bars:bars
 <tr class="odd">
 <td><p>2019年12月22日</p></td>
 <td><p>首爾世宗大學大洋廳</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年12月28日</p></td>
+<td><p>深圳寶安體育中心體育館</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

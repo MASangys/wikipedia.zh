@@ -326,11 +326,11 @@ AlphaGo（白方）勝出第五局。
 ## 外部链接
 
   - 乐视
-      - [第一局 柯洁解说](http://sports.letv.com/match/122341003)
-      - [第二局 柯洁解说](http://sports.letv.com/match/122342003)
-      - [第三局 柯洁解说](http://sports.letv.com/match/122343003)
-      - [第四局 柯洁解说](http://sports.letv.com/match/122344003)
-      - [第五局 柯洁解说](http://sports.letv.com/match/122345003)
+      - [第一局 柯洁解说](https://web.archive.org/web/20160321084757/http://sports.letv.com/match/122341003)
+      - [第二局 柯洁解说](https://web.archive.org/web/20160313073857/http://sports.letv.com/match/122342003)
+      - [第三局 柯洁解说](https://web.archive.org/web/20160313104531/http://sports.letv.com/match/122343003)
+      - [第四局 柯洁解说](https://web.archive.org/web/20160316011119/http://sports.letv.com/match/122344003)
+      - [第五局 柯洁解说](https://web.archive.org/web/20160316015100/http://sports.letv.com/match/122345003)
 
 <!-- end list -->
 
@@ -344,8 +344,8 @@ AlphaGo（白方）勝出第五局。
 <!-- end list -->
 
   - DeepMind官方网站
-      - [樊麾解说，古力、周睿羊技术指导 简体中文版](https://deepmind.com/research/alphago/alphago-games-simplified-chinese/)
-      - [樊麾解说，古力、周睿羊技术指导 繁体中文版](https://deepmind.com/research/alphago/alphago-games-traditional-chinese/)
+      - [樊麾解说，古力、周睿羊技术指导 简体中文版](https://web.archive.org/web/20170103152521/https://deepmind.com/research/alphago/alphago-games-simplified-chinese/)
+      - [樊麾解说，古力、周睿羊技术指导 繁体中文版](https://web.archive.org/web/20170104155508/https://deepmind.com/research/alphago/alphago-games-traditional-chinese/)
 
 <!-- end list -->
 

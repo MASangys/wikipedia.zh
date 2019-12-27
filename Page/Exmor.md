@@ -582,7 +582,7 @@
 <td><p>{{Collapsible list</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://www.sony-semicon.co.jp/products_en/new_pro/october_2016/imx326lqc_e.html">IMX326</a></p></td>
+<td><p><a href="https://web.archive.org/web/20180825184807/http://www.sony-semicon.co.jp/products_en/new_pro/october_2016/imx326lqc_e.html">IMX326</a></p></td>
 <td><p>3096 × 2202 6.82M</p></td>
 <td><p>6.15 mm</p></td>
 <td><p>1.62 µm</p></td>
@@ -1439,7 +1439,7 @@
 52.
 53.
 54. <http://techinsights.com/about-techinsights/overview/blog/samsung-galaxy-s9-camera-teardown/>
-55. <http://www.sony-semicon.co.jp/products_en/IS/sensor1/img/products/ProductBrief_IMX351_20171109.pdf>
+55.
 56.
 57.
 58.

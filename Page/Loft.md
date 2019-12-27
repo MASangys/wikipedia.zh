@@ -175,7 +175,7 @@ SELF\&SHELF LOFT（セルフ&シェルフ - ）…文具為中心的店舖
 #### 靜岡縣
 
   - [靜岡](../Page/靜岡市.md "wikilink")[PARCO](https://zh.wikipedia.org/wiki/PARCO "wikilink") Loft（[靜岡市](../Page/靜岡市.md "wikilink")[葵區](../Page/葵區.md "wikilink")）◎：靜岡PARCO內
-  - [濱松Loft](https://zh.wikipedia.org/wiki/濱松市 "wikilink")（[濱松市](https://zh.wikipedia.org/wiki/濱松市 "wikilink")[中區](https://zh.wikipedia.org/wiki/中區_\(濱松市\) "wikilink")）◇：JR[濱松站大樓](https://zh.wikipedia.org/wiki/濱松站 "wikilink")「」6樓。賣場面積約1,000m<sup>2</sup>。
+  - [濱松Loft](https://zh.wikipedia.org/wiki/濱松市 "wikilink")（[濱松市](https://zh.wikipedia.org/wiki/濱松市 "wikilink")[中區](https://zh.wikipedia.org/wiki/中區_\(濱松市\) "wikilink")）◇：JR[濱松站](../Page/濱松站.md "wikilink")大樓「」6樓。賣場面積約1,000m<sup>2</sup>。
   - Loft三島店（[三島市](../Page/三島市.md "wikilink")）◇：伊藤洋華堂三島店2樓，2015年9月4日開店。
 
 #### 岐阜縣
@@ -185,7 +185,7 @@ SELF\&SHELF LOFT（セルフ&シェルフ - ）…文具為中心的店舖
 #### 愛知縣
 
   - Loft[名古屋](../Page/名古屋市.md "wikilink")（[名古屋市](../Page/名古屋市.md "wikilink")[中區](../Page/中區_\(名古屋市\).md "wikilink")[榮](../Page/榮_\(名古屋市\).md "wikilink")）◎：內。
-  - [名站Loft](https://zh.wikipedia.org/wiki/名古屋站 "wikilink")（名古屋市[中村區](https://zh.wikipedia.org/wiki/中村區 "wikilink")）◇：男士館5樓，2015年4月17日開店。
+  - [名站Loft](../Page/名古屋站.md "wikilink")（名古屋市[中村區](https://zh.wikipedia.org/wiki/中村區 "wikilink")）◇：男士館5樓，2015年4月17日開店。
   - [岡崎Loft](../Page/岡崎市.md "wikilink")（[岡崎市](../Page/岡崎市.md "wikilink")）◇：內。
 
 ### 近畿

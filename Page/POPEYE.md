@@ -35,7 +35,7 @@
 
   -
   -
-[Category:日本雜誌](https://zh.wikipedia.org/wiki/Category:日本雜誌 "wikilink")
+[Category:日本时尚杂志](https://zh.wikipedia.org/wiki/Category:日本时尚杂志 "wikilink")
 
 1.
 2.
