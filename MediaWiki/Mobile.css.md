@@ -1,10 +1,3 @@
-/\* Mobile template hacks (see bug 54176) \*/ .mobile-float-reset {
-
-`   float: none !important;`
-`   width: 100% !important;`
-
-}
-
 /\* Hide the images \*/ .geo-nondefault, .geo-multi-punct, /\* Hide stuff meant for accounts with special permissions. Made visible again in
 
 `  `[`MediaWiki:Group-sysop.css`](https://zh.wikipedia.org/wiki/MediaWiki:Group-sysop.css "wikilink")`, `[`MediaWiki:Group-accountcreator.css`](https://zh.wikipedia.org/wiki/MediaWiki:Group-accountcreator.css "wikilink")` and`
