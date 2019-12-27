@@ -1,4 +1,4 @@
-[LG_Electronics.svg](https://zh.wikipedia.org/wiki/File:LG_Electronics.svg "fig:LG_Electronics.svg") [Prada.png](https://zh.wikipedia.org/wiki/File:Prada.png "fig:Prada.png")
+[LG_Electronics.svg](https://zh.wikipedia.org/wiki/File:LG_Electronics.svg "fig:LG_Electronics.svg") [Prada-Logo.svg](https://zh.wikipedia.org/wiki/File:Prada-Logo.svg "fig:Prada-Logo.svg")
 
 ## 簡介
 
@@ -31,9 +31,6 @@ LG Prada 3.0使用[Android 2.3 (Ginger Bread)系統](../Page/Android.md "wikilin
 [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:LG手機](https://zh.wikipedia.org/wiki/Category:LG手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
 
 1.
-
 2.
-
 3.  **Sogi\!手機王**
-
 4.

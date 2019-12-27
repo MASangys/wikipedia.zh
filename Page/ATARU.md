@@ -426,7 +426,7 @@
 
 ### 電影版登場人物
 
-  - アレッサンドロ・カロリナ・マドカ - [堀北真希](../Page/堀北真希.md "wikilink")
+  - アレッサンドロ・カロリナ・マドカ - [堀北真希](../Page/堀北真希.md "wikilink")（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
   - 星秋穗 - [松雪泰子](../Page/松雪泰子.md "wikilink")（香港配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）
   - アリーニ・マツバラ - [前田美波里](https://zh.wikipedia.org/wiki/前田美波里 "wikilink")（香港配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
 

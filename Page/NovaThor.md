@@ -28,32 +28,18 @@
 [Category:ARM架構](https://zh.wikipedia.org/wiki/Category:ARM架構 "wikilink") [Category:系統單晶片](https://zh.wikipedia.org/wiki/Category:系統單晶片 "wikilink")
 
 1.  [NOVA TM - Highest performance application processors](http://stericsson.com/products/application_processors.jsp)
-
 2.  [ST-Ericsson's NovaThor to power Nokia's Windows Phone devices, loosens Qualcomm's grip - Engadget](http://www.engadget.com/2011/11/02/st-ericssons-novathor-to-power-nokias-windows-phone-devices-l/)
-
 3.  [AnandTech - ST-E Will Have FD-SOI Based U8540: 35% Lower Power, Much Higher Frequencies](http://www.anandtech.com/show/5600/ste-will-have-fdsoi-based-u8540-35-lower-power-much-higher-frequencies)
-
 4.  [NovaThor U5500 Product Webpage; ST Ericsson.](http://www.stericsson.com/products/u5500-smartphone.jsp)
-
 5.  [NovaThor U8500 Product Webpage; ST Ericsson.](http://www.stericsson.com/products/u8500-novathor.jsp)
-
 6.  [Specifications - Sony Smartphones (Global UK English)](http://www.sonymobile.com/global-en/products/phones/xperia-p/specifications/)
-
 7.  [ST-Ericsson NovaThor U8500 powers new Samsung GALAXY S Advance](http://www.stericsson.com/press_releases/Samsung_galaxy_U8500.jsp)
-
 8.  [ST-Ericsson NovaThor U8500 powers new tablet from Ontim](http://www.stericsson.com/press_releases/ontim_u8500.jsp)
-
 9.  [NovaThor U9500 Product Webpage; ST Ericsson.](http://www.stericsson.com/products/u9500-novathor.jsp)
-
 10. [Changing the game: ST-Ericsson Unveils NovaThor™ Family of Smartphone Platforms Combining its Most Advanced Application Processors with the Latest Generation of Modems](http://www.stericsson.com/press_releases/NovaThor.jsp)
-
 11. [Powerful New ST-Ericsson Platform makes Debut in HTC Sensation](http://www.stericsson.com/press_releases/HTC_sensation.jsp)
-
 12. [Nova™ A9540](http://www.stericsson.com/products/a9540-nova.jsp)
-
 13.
 14. [NOVATHOR™ L8540](http://www.stericsson.com/products/L8540.jsp)
-
 15. [ST-Ericsson announces new highly integrated LTE NovaThor platform](http://www.stericsson.com/press_releases/L8540-novathor.jsp)
-
 16. [NOVATHOR™ L9540](http://www.stericsson.com/products/L9540-novathor.jsp)

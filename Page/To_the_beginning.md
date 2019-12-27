@@ -53,6 +53,6 @@
       - [通常盤](https://web.archive.org/web/20141014165134/http://www.sonymusic.co.jp/Music/Arch/SMER/kalafina/SECL-1092/)
       - [期間限定盤](https://web.archive.org/web/20160308045107/http://www.sonymusic.co.jp/Music/Arch/SMER/kalafina/SECL-1093/)
 
-[Category:Kalafina單曲](https://zh.wikipedia.org/wiki/Category:Kalafina單曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink") [Category:Fate/stay_night](https://zh.wikipedia.org/wiki/Category:Fate/stay_night "wikilink")
+[Category:Kalafina單曲](https://zh.wikipedia.org/wiki/Category:Kalafina單曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink") [Category:Fate系列](https://zh.wikipedia.org/wiki/Category:Fate系列 "wikilink")
 
 1.

@@ -55,7 +55,7 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
   - 4月25日，Team NII舉行「逆流而上」公演首演\[27\]。
   - 5月10日，發行第1張專輯《[一心向前](../Page/一心向前.md "wikilink")》。
   - 5月30日，Team SII舉行「不眠之夜」公演首演\[28\]。
-  - 7月26日，在上海国际体操中心舉辦了[SNH48第一届总选举](https://zh.wikipedia.org/wiki/SNH48第一届总选举 "wikilink")，最終Team SII的成員吴哲晗以19281票獲得冠軍；同时也对外发布了三期生30人。
+  - 7月26日，在上海国际体操中心舉辦了[SNH48第一届总选举](https://zh.wikipedia.org/wiki/SNH48第一届总选举 "wikilink")，最終Team SII的成員[吴哲晗](../Page/吴哲晗.md "wikilink")以19281票獲得冠軍；同时也对外发布了三期生30人。
   - 8月8日，开始招募四期生。
   - 10月11日，Team NII舉行「前所未有」公演首演。
   - 10月12日，發行第5張EP《[呜吒](../Page/呜吒.md "wikilink")》\[29\]。
@@ -88,7 +88,7 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
   - 5月29日，Team HII舉行「手牽手」公演首演\[38\]。
   - 6月22日，SNH48首部紀錄片《[少女的巴別塔](../Page/SNH48_少女的巴別塔.md "wikilink")》於星夢劇院首映。
   - 6月26日，Team SII舉行「讓夢想閃耀」公演首演\[39\]。
-  - 7月25日，在[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[梅賽德斯-奔馳文化中心舉辦了](https://zh.wikipedia.org/wiki/梅賽德斯-奔馳文化中心 "wikilink")[SNH48第二屆總選舉](https://zh.wikipedia.org/wiki/SNH48第二屆總選舉 "wikilink")，最終Team SII的成員趙嘉敏以74393票獲得冠軍\[40\]。同時SNH48運營公司上海久尚演藝經紀有限公司正式宣佈更名為「上海絲芭文化傳媒有限公司」。
+  - 7月25日，在[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[梅賽德斯-奔馳文化中心舉辦了](https://zh.wikipedia.org/wiki/梅賽德斯-奔馳文化中心 "wikilink")[SNH48第二屆總選舉](https://zh.wikipedia.org/wiki/SNH48第二屆總選舉 "wikilink")，最終Team SII的成員[趙嘉敏](../Page/趙嘉敏.md "wikilink")以74393票獲得冠軍\[40\]。同時SNH48運營公司上海久尚演藝經紀有限公司正式宣佈更名為「上海絲芭文化傳媒有限公司」。
   - 9月13日，於劇場兩周年紀念公演上發表人事異動：
       - 8名五期生提早升格為正式成員並於紀念公演下午場亮相，她們分別加入Team SII、Team NII及Team HII；
       - 莫寒因個人原因辭任Team SII隊長一職，由戴萌接任，莫寒轉任副隊長；
@@ -131,7 +131,7 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
   - 6月11日，據《[南都娛樂週刊](https://zh.wikipedia.org/wiki/南都周刊 "wikilink")》報導，AKB48创始时出资人之一芝幸太郎在得知SNH48被除名後，立刻與資本方之一AKS公司原社長從新加坡致電給SNH48營運方，表示「完全理解並支持SNH48的原創戰略」，芝幸太郎認為SNH48在大陸發展得很好，已經超越當初日本營運方的期待，「也完全不存在所謂違規問題，作為當初決定建立跨國姐妹團合作關係的當事人，我們完全支持SNH48的立場，並願意在任何必要的場合親自出面證明這點。」报道称，芝幸太郎對於SNH48除名一事完全不知情，不排除是因為資本方內部股權產生變化导致\[62\]；同日，以成員中的遊戲高手組成的小分隊「[電眼少女隊](../Page/電眼少女隊.md "wikilink")」以其專屬綜藝節目《超神偶像》正式出道\[63\]。
   - 6月17日，Team X舉行「十八個閃耀瞬間」紀念公演首演\[64\]。
   - 7月22日，Team NII舉行「专属派对」公演首演\[65\]。
-  - 7月30日，在[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[梅賽德斯-奔馳文化中心舉辦了](https://zh.wikipedia.org/wiki/梅賽德斯-奔馳文化中心 "wikilink")[SNH48第三屆總決選](../Page/SNH48第三屆總決選.md "wikilink")，最終Team NII的成員鞠婧禕以230752.7票獲得冠軍\[66\]\[67\]。
+  - 7月30日，在[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[梅賽德斯-奔馳文化中心舉辦了](https://zh.wikipedia.org/wiki/梅賽德斯-奔馳文化中心 "wikilink")[SNH48第三屆總決選](../Page/SNH48第三屆總決選.md "wikilink")，最終Team NII的成員[鞠婧禕](../Page/鞠婧禕.md "wikilink")以230752.7票獲得冠軍\[66\]\[67\]。
   - 8月14日，SNH48運營團隊發表聲明，为实现下一阶段的发展目标，SNH48及其姐妹团体在成员全方位考核方面开始引入优胜劣汰的内部优化机制。受此影响，S、N两队共四位五、六期成员成为此机制下首批提前毕业的成员\[68\]。
   - 9月15日，於中秋節特別聯合公演上發表以下事項：
       - 張怡獲委任為第一任Team XII隊長，劉增艷為副隊長\[69\]；
@@ -169,7 +169,7 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
   - 6月18日，Team NII鞠婧祎在万代南梦宫文化中心举办「《等不到你》－鞠婧禕生日Fan Meeting」\[97\]。
   - 6月30日，Team SII舉行「第48区」公演首演\[98\]。
   - 7月28日，在[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[梅賽德斯-奔馳文化中心舉辦了](https://zh.wikipedia.org/wiki/梅賽德斯-奔馳文化中心 "wikilink")[SNH48第四届总决选预热演唱会](https://zh.wikipedia.org/wiki/SNH48_Group第四屆總選舉 "wikilink")\[99\]。
-  - 7月29日，在[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[梅賽德斯-奔馳文化中心舉辦了](https://zh.wikipedia.org/wiki/梅賽德斯-奔馳文化中心 "wikilink")[SNH48 Group第四屆總決選演唱會及開票儀式](https://zh.wikipedia.org/wiki/SNH48_Group第四屆總決選 "wikilink")，最終SNH48 Team NII的成員鞠婧禕以277781.3票獲得冠軍\[100\]\[101\]；同日，開始招募SNH48九期生、BEJ48四期生、GNZ48四期生、SHY48四期生、CKG48二期生\[102\]。
+  - 7月29日，在[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[梅賽德斯-奔馳文化中心舉辦了](https://zh.wikipedia.org/wiki/梅賽德斯-奔馳文化中心 "wikilink")[SNH48 Group第四屆總決選演唱會及開票儀式](https://zh.wikipedia.org/wiki/SNH48_Group第四屆總決選 "wikilink")，最終SNH48 Team NII的成員[鞠婧禕](../Page/鞠婧禕.md "wikilink")以277781.3票獲得冠軍\[100\]\[101\]；同日，開始招募SNH48九期生、BEJ48四期生、GNZ48四期生、SHY48四期生、CKG48二期生\[102\]。
   - 8月19日，Team SII在武漢湖北劇場举办SNH48 Team SII 經典賞析會，活動由「咪咕音樂」冠名。
   - 8月25日起，於SNH48星梦剧院咖啡舉行Mini live\[103\]。
   - 9月8日，Team NII黃婷婷在万代南梦宫文化中心举办「《黑夜女神》－黃婷婷生日Fan Meeting」。
@@ -216,17 +216,17 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
       - 与[新浪微博](../Page/新浪微博.md "wikilink")双方共同打造总决选新浪微博独家应援通道，微博明星势力榜「SNH48总决选榜」也同时上线。成员个人所获得的微博「SNH48总决选榜」票数将在速报、中报、最终发表三个阶段并入SNH48 GROUP年度总决选票仓。
       - 「口袋48」迎来第一次系统重大升级，并正式发布「MATE48」小程序。「MATE48」在微信上线，是基于微信小程序的偶像内容UGC系统。
       - SNH48于[爱奇艺](../Page/爱奇艺.md "wikilink")播出的大型競演綜藝《[梦想演播厅](https://zh.wikipedia.org/wiki/梦想演播厅 "wikilink")》，SNH48年度纪录片《砥砺前行》，由丝芭影视出品的电视剧《芸汐传》的预告片正式公布。
-  - 6月29日，SNH48 Group运营方上海丝芭文化传媒集团有限公司正式宣布，将开启首次全集团最大规模偶像艺人招募，进一步推动新生代优质偶像的培养。本届招募包括SNH48 Group成员招募、丝芭传媒集团偶像练习生（韩国模式练习生）与米娜演员工作室（影视表演艺人），不限男女，入选选手将接受国内外的专业艺人培训\[126\]。
+  - 6月29日，SNH48 Group运营方[上海丝芭文化传媒集团有限公司正式宣布](../Page/丝芭传媒.md "wikilink")，将开启首次全集团最大规模偶像艺人招募，进一步推动新生代优质偶像的培养。本届招募包括SNH48 Group成员招募、丝芭传媒集团偶像练习生（韩国模式练习生）与米娜演员工作室（影视表演艺人），不限男女，入选选手将接受国内外的专业艺人培训\[126\]。
   - 7月10日，SNH48第四部紀錄片《砥砺前行》於星夢劇院首映\[127\]。
-  - 7月28日，在[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[梅賽德斯-奔馳文化中心舉辦了](https://zh.wikipedia.org/wiki/梅賽德斯-奔馳文化中心 "wikilink")[SNH48 Group第五屆總決選演唱會及開票儀式](https://zh.wikipedia.org/wiki/SNH48_Group第五屆總決選 "wikilink")，最終SNH48 Team HII的成員李藝彤以402040.4票问鼎冠軍\[128\]，同時宣布以下事項：
-      - SNH48 Group首个海外专属艺术培训基地正式启用，搭建海外交流的新平台，进一步整合资源，推动海外项目的拓展合作，逐步丰富业务层次；
+  - 7月28日，在[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[梅賽德斯-奔馳文化中心舉辦了](https://zh.wikipedia.org/wiki/梅賽德斯-奔馳文化中心 "wikilink")[SNH48 Group第五屆總決選演唱會及開票儀式](https://zh.wikipedia.org/wiki/SNH48_Group第五屆總決選 "wikilink")，最終SNH48 Team HII的成員[李藝彤](../Page/李藝彤.md "wikilink")以402040.4票问鼎冠軍\[128\]，同時宣布以下事項：
+      - 在[大宇未来资产](../Page/大宇未来资产.md "wikilink")和韩国影视公司的共同协助下，SNH48 Group首个海外专属艺术培训基地正式启用，搭建海外交流的新平台，进一步整合资源，推动海外项目的拓展合作，逐步丰富业务层次；
       - SNH48 Group年度活动風尚大賞以及金曲大賞将首次离开上海，前往其他姐妹团所在地举行。第四屆年度風尚大賞于[北京举行](https://zh.wikipedia.org/wiki/北京 "wikilink")，第五屆年度金曲大賞于[广州举行](https://zh.wikipedia.org/wiki/广州 "wikilink")；
       - 丝芭影视电视连续剧《小夜曲》、《雪鹰领主》、《平行迷途》等影视剧于年内开拍\[129\]。
   - 9月1日，Team Ft舉行「雙面偶像」公演首演。
   - 9月7日，於[SNH48 Group第四屆年度金曲大賞BEST 50上發表的小分隊](https://zh.wikipedia.org/wiki/SNH48_Group第四屆年度金曲大賞BEST_50 "wikilink")「[HO2](https://zh.wikipedia.org/wiki/HO2 "wikilink")」與「[BlueV](https://zh.wikipedia.org/wiki/BlueV "wikilink")」正式出道。
   - 9月8日，Team NII黃婷婷在[梅赛德斯奔驰文化中心The](https://zh.wikipedia.org/wiki/梅赛德斯奔驰文化中心 "wikilink") Mixing Room举办「《光》－黃婷婷生日Fan Meeting」。
   - 9月20日，在“2018世界人工智能大会”上，SNH48宣布联手美国人工智能公司ObEN合作，共同推出以SNH48 Group成员为原形创造的虚拟偶像\[130\]。
-  - 9月27日，SNH48 Group加入中国演出行业协会，成为中国演出行业协会理事单位。中国演出行业协会朱克宁会长及相关单位领导、北京丝芭传媒郭建良总经理出席了在[BEJ48星梦剧院举办的中国演出行业协会理事单位授牌仪式](https://zh.wikipedia.org/wiki/BEJ48星梦剧院 "wikilink")。
+  - 9月27日，SNH48 Group加入[中国演出行业协会](https://zh.wikipedia.org/wiki/中国演出行业协会 "wikilink")，成为中国演出行业协会理事单位。中国演出行业协会[朱克宁会长及相关单位领导](https://zh.wikipedia.org/wiki/朱克宁 "wikilink")、北京丝芭传媒[郭建良总经理出席了在](https://zh.wikipedia.org/wiki/郭建良 "wikilink")[BEJ48星梦剧院举办的中国演出行业协会理事单位授牌仪式](https://zh.wikipedia.org/wiki/BEJ48星梦剧院 "wikilink")。
   - 9月28日，与Zupa Ztar合作的Zupa Ztar\&SNH48联名店于上海世贸广场开幕。
   - 10月10日，發行第21張EP《[魔女的诗篇](https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#魔女的诗篇 "wikilink")》。
   - 10月27日，在[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[水立方舉辦了SNH](https://zh.wikipedia.org/wiki/水立方 "wikilink")48 Group×米娜MINA第四屆年度風尚大賞，最終BEJ48 Team B成員青鈺雯获得本届风尚大赏的第一名。
@@ -250,7 +250,7 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
       - 对北上广以外分团开启授权[特许经营模式](https://zh.wikipedia.org/wiki/特许经营 "wikilink")。
   - 1月26日，于“春晚特别公演”第一场发表以下事项：
       - 戴萌、莫寒分别辞任Team SII正、副队长职务，其中戴萌转任副队长；队长职务由钱蓓婷接任。
-  - 2月19日，SNH48明星殿堂成員[鞠婧祎參與](https://zh.wikipedia.org/wiki/鞠婧祎 "wikilink")2019年中国中央电视台元宵晚會，这是SNH48建团历史上首次参加央视元宵晚會\[132\]。
+  - 2月19日，SNH48明星殿堂成員[鞠婧祎參與](https://zh.wikipedia.org/wiki/鞠婧祎 "wikilink")2019年中央广播电视总台元宵晚會，这是SNH48建团历史上首次参加央广视元宵晚會\[132\]。
   - 2月27日，以欧美风格为主的SNH48国际化小分队「[7SENSES](https://zh.wikipedia.org/wiki/7SENSES "wikilink")」于[韩国正式出道](https://zh.wikipedia.org/wiki/韩国 "wikilink")\[133\]。
   - 3月3日，Team HII李艺彤在万代南梦宫文化中心举办「《墨迹测验》－李艺彤生日Fan Meeting」。
   - 3月20日，發行第23張EP《[我们的旅程](https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#我们的旅程 "wikilink")》。
@@ -258,10 +258,10 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
   - 3月29日，Team X舉行「Girl X」公演首演。
   - 4月13日，在上海宝山体育馆舉行「SNH48 Group第二屆偶像运动会」，最終由SNH48 Team HII奪得本屆運動會團體總冠軍。
   - 5月10日，Team NII舉行「时之卷」公演首演。
-  - 5月15日，成员许佳琪、张语格、许杨玉琢代表SNH48与[张艺兴](https://zh.wikipedia.org/wiki/张艺兴 "wikilink")、[UNINE](../Page/UNINE.md "wikilink")等人以亚洲青春组合名义，参与[中国中央电视台](../Page/中国中央电视台.md "wikilink")[亚洲文化嘉年华活动](../Page/亚洲文明对话大会.md "wikilink")。
+  - 5月15日，成员许佳琪、张语格、许杨玉琢代表SNH48与[张艺兴](https://zh.wikipedia.org/wiki/张艺兴 "wikilink")、[UNINE](../Page/UNINE.md "wikilink")等人以亚洲青春组合名义，参与了[亚洲文化嘉年华活动](../Page/亚洲文明对话大会.md "wikilink")。
   - 5月25日，發行第24張EP《[那年夏天的梦](https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#那年夏天的梦 "wikilink")》。同日，开始招募SNH48十三期生、BEJ48八期生及GNZ48八期生。
   - 6月14日，Team HII舉行「橘色奇迹」公演首演。
-  - 7月28日，在[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[梅賽德斯-奔馳文化中心舉辦了](https://zh.wikipedia.org/wiki/梅賽德斯-奔馳文化中心 "wikilink")[SNH48 Group第六屆總決選演唱會及開票儀式](../Page/SNH48_Group第六屆總決選.md "wikilink")，最終SNH48 Team HII的成員李艺彤以1483041.5票連霸冠軍，成為繼[鞠婧禕](../Page/鞠婧禕.md "wikilink")後第二位晉升SNH48 Group明星殿堂的成員，同時宣布以下事項：
+  - 7月28日，在[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[梅賽德斯-奔馳文化中心舉辦了](https://zh.wikipedia.org/wiki/梅賽德斯-奔馳文化中心 "wikilink")[SNH48 Group第六屆總決選演唱會及開票儀式](../Page/SNH48_Group第六屆總決選.md "wikilink")，最終SNH48 Team HII的成員[李艺彤以](https://zh.wikipedia.org/wiki/李艺彤 "wikilink")1483041.5票連霸冠軍，成為繼[鞠婧禕](../Page/鞠婧禕.md "wikilink")後第二位晉升SNH48 Group明星殿堂的成員，同時宣布以下事項：
       - 丝芭影视电视连续剧《如意芳霏》、《十国千娇》、《雪鹰领主》、《慕南枝》等影视剧将于年内开拍；
       - SNH48 Group第六届年度金曲大賞BEST 50将于2019年12月21日在[廣州體育館举行](https://zh.wikipedia.org/wiki/廣州體育館 "wikilink")；
       - 通过[SNH48 Group第五届年度金曲大賞BEST 50投票产生的七人小组合](https://zh.wikipedia.org/wiki/SNH48_Group第五届年度金曲大賞BEST_50 "wikilink")「DeMOON」正式出道；
@@ -269,8 +269,13 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
       - 丝芭传媒宣布SNH48 Group将携手[爱奇艺](../Page/爱奇艺.md "wikilink")合作，选拔SNH48 Group部分成员参与于2020年第一季度播出的《[青春有你第二季](../Page/青春有你_\(第二季\).md "wikilink")》。
   - 9月12-13日，Team HII成员李艺彤在[SNH48星梦剧院举办的](https://zh.wikipedia.org/wiki/SNH48星梦剧院 "wikilink")“你好！李艺彤”毕业公演后正式晋升SNH48 Group明星殿堂。
   - 9月14日，于六周年庆公演上发表以下事项：
-      - 公布4名升格为正式成员的十二期生。
-  - 10月12日，SNH48在[日本](../Page/日本.md "wikilink")[东京](../Page/东京.md "wikilink")Mynavi Blitz Akasaka举行首次海外巡演，这是SNH48 GROUP除去小分队外，首次团队海外巡演。
+      - 公布4名升格为正式成员的十二期生；
+      - SNH48 Team X全新公演《遗忘的国度》即将上演。
+  - 11月17日，于N队六周年庆公演上发表以下事项：
+      - 公布周睿林自SNH48 Group海外練习生移籍至Team NII；
+      - 公布1名十三期生升格至Team NII。
+  - 11月29日，于S队六周年庆公演上发表以下事项：
+      - 公布2名十三期生升格至Team SII。
 
 ## 成員名單
 
@@ -279,7 +284,7 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
 #### Team SII（S队）
 
   - 代表色為淺藍色（R=161, G=213, B=237）。
-  - 成员22人。
+  - 成员24人。
   - 現任队长为钱蓓婷，副隊長为戴萌。
 
 | Team SII                                                    |
@@ -294,24 +299,26 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
 | [孔肖吟](../Page/孔肖吟.md "wikilink")                            |
 | [李宇琪](../Page/李宇琪.md "wikilink")                            |
 | 刘丽千                                                         |
-| [劉增艷](../Page/劉增艷.md "wikilink")                            |
+| 劉增艷                                                         |
 | [莫寒](../Page/莫寒.md "wikilink")                              |
 | **钱蓓婷**                                                     |
 | [邱欣怡](../Page/邱欣怡.md "wikilink")                            |
 | [孙芮](../Page/孙芮.md "wikilink")                              |
 | 邵雪聰                                                         |
+| 王贝妮                                                         |
 | 温晶婕                                                         |
 | [吴哲晗](../Page/吴哲晗.md "wikilink")                            |
 | 徐晨辰                                                         |
 | [许佳琪](../Page/许佳琪.md "wikilink")                            |
 | 袁丹妮                                                         |
+| 由淼                                                          |
 | 袁雨桢                                                         |
 | [张语格](../Page/张语格.md "wikilink")                            |
 
 #### Team NII（N队）
 
   - 代表色為紫色（R=190, G=152, B=199）。
-  - 成员20人。
+  - 成员22人。
   - 現任队长为易嘉愛，副隊長為何曉玉 。
 
 | Team NII                                                    |
@@ -329,9 +336,11 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
 | 马凡                                                          |
 | 王詩蒙                                                         |
 | 谢妮                                                          |
-| **[易嘉爱](https://zh.wikipedia.org/wiki/易嘉爱 "wikilink")**     |
+| **[易嘉爱](../Page/易嘉爱.md "wikilink")**                        |
 | 颜沁                                                          |
 | 趙佳蕊                                                         |
+| 张睿婕                                                         |
+| 周睿林                                                         |
 | 周诗雨                                                         |
 | 张茜                                                          |
 | [赵粤](https://zh.wikipedia.org/wiki/赵粤 "wikilink")           |
@@ -403,10 +412,9 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
 
 ### SNH48 Group海外練習生
 
-  - 成员4人。
+  - 成员3人。
   - 「SNH48 Group海外練習生」計劃將選拔SNH48 Group 16至18歲年齡段的成員，前往絲芭傳媒海外培訓基地接受為期兩年的高級別、高強度、高水準的封閉培訓，實現偶像養成和造星模式多樣化的結合。
 
-|  |
 |  |
 |  |
 |  |
@@ -420,9 +428,8 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
 
   - 正規成員若因學業問題、身體問題、合約問題、個人原因以致無法繼續參與SNH48團內活動，將被計算作為暂休成员。
 
-|                                                     |
-| --------------------------------------------------- |
 | 暂休                                                  |
+| --------------------------------------------------- |
 | 姓名                                                  |
 | 徐子轩                                                 |
 | 杨令仪                                                 |
@@ -1134,7 +1141,7 @@ Team G</p></td>
 <td><p>8期</p></td>
 <td><p>Team XII</p></td>
 <td><p>2017年9月30日</p></td>
-<td></td>
+<td><p>提前毕业</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2573,16 +2580,33 @@ Team X高崇进修结束，并加入SNH48 Group海外练习生<br />
 <td><p>85</p></td>
 <td><p>22</p></td>
 </tr>
+<tr class="even">
+<td><p>11月17日</p></td>
+<td><p>周睿林自SNH48 Group海外练习生移籍至Team NII<br />
+13期生张睿婕升格至Team NII</p></td>
+<td><p>+1</p></td>
+<td><p>133</p></td>
+<td><p>87</p></td>
+<td><p>22</p></td>
+</tr>
+<tr class="odd">
+<td><p>11月29日</p></td>
+<td><p>13期生王贝妮、由淼升格至Team SII</p></td>
+<td><p>+2</p></td>
+<td><p>135</p></td>
+<td><p>89</p></td>
+<td><p>24</p></td>
+</tr>
 </tbody>
 </table>
 
 <table>
 <thead>
 <tr class="header">
-<th><p>昇格时间</p></th>
+<th><p>升格时间</p></th>
 <th><p>姓名</p></th>
 <th><p>加入期</p></th>
-<th><p>昇格队伍</p></th>
+<th><p>升格队伍</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -4016,16 +4040,37 @@ Team X高崇进修结束，并加入SNH48 Group海外练习生<br />
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>11月17日</p></td>
+<td><p>张睿婕</p></td>
+<td><p>13期</p></td>
+<td><p>NII</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月29日</p></td>
+<td><p>王贝妮</p></td>
+<td><p>13期</p></td>
+<td><p>SII</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>由淼</p></td>
+<td><p>13期</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
 <table>
 <thead>
 <tr class="header">
-<th><p>昇格時間</p></th>
+<th><p>升格時間</p></th>
 <th><p>姓名</p></th>
 <th><p>加入期</p></th>
-<th><p>昇格隊伍</p></th>
+<th><p>升格隊伍</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -4604,11 +4649,15 @@ CD</p></td>
 <td><p>SNH11102592<br />
 SNH11102592<br />
 SNH11102595<br />
-待查</p></td>
+SNH11102592<br />
+SNH11102630<br />
+SNH11102630</p></td>
 <td><p>标准A版（时间的歌版本）<br />
 捐赠版<br />
 精装版<br />
-标准B版（勇不勇敢版本）</p></td>
+标准B版（勇不勇敢版本）<br />
+重磅版<br />
+重磅捐赠版</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -4824,9 +4873,9 @@ SNH000662</p></td>
 <tr class="odd">
 <td><p>2014年5月14日</p></td>
 <td><p>《<strong>足球派对</strong>》</p></td>
-<td><p>Team NII</p></td>
+<td><p>Team NII（万丽娜、冯薪朵、唐安琪、龚诗淇、徐言雨、陈佳莹、林思意、曾艳芬、鞠婧祎、陆婷、陈问言、李艺彤、何晓玉、赵粤、易嘉爱、黄婷婷、孟玥、罗兰）</p></td>
 <td><p>萬麗娜</p></td>
-<td></td>
+<td><p>2014年巴西世界杯纪念单曲</p></td>
 </tr>
 <tr class="even">
 <td><p>2014年10月14日</p></td>
@@ -4838,9 +4887,9 @@ SNH000662</p></td>
 <tr class="odd">
 <td><p>2014年12月18日</p></td>
 <td><p>《<strong>浪漫圣诞夜2014</strong>》</p></td>
-<td><p>SNH48</p></td>
+<td><p>吴哲晗、邱欣怡、赵嘉敏、鞠婧祎、张语格、李艺彤、莫寒、许佳琪、陈思、陈观慧、李宇琪、龚诗淇、戴萌、易嘉爱、孔肖吟、徐晨辰</p></td>
 <td><p>吴哲晗</p></td>
-<td><p>2014圣诞节歌曲</p></td>
+<td><p>「2014年圣诞节」纪念歌曲</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年1月19日</p></td>
@@ -4868,7 +4917,7 @@ SNH000662</p></td>
 <td><p>《<strong>無處可逃</strong>》</p></td>
 <td><p>戴萌、孔肖吟、莫寒、鞠婧禕、趙粵</p></td>
 <td><p>鞠婧禕</p></td>
-<td><p>《反恐精英Online 2》主題曲</p></td>
+<td><p>游戏《反恐精英Online 2》主題曲</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年6月3日</p></td>
@@ -4882,7 +4931,7 @@ SNH000662</p></td>
 <td><p>《<strong>酷跑Run To You</strong>》</p></td>
 <td><p>鞠婧祎、林思意、刘炅然、徐晗、易嘉爱</p></td>
 <td><p>鞠婧祎</p></td>
-<td><p>《天天酷跑》初夏版主題曲</p></td>
+<td><p>手机游戏《天天酷跑》初夏版主題曲</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年6月30日</p></td>
@@ -4896,7 +4945,7 @@ SNH000662</p></td>
 <td><p>《<strong>释FUN不安分</strong>》</p></td>
 <td><p>2015 TOP16（赵嘉敏、鞠婧祎、李艺彤、黄婷婷、张语格、万丽娜、李宇琪、易嘉爱、曾艳芬、陆婷、赵粤、冯薪朵、莫寒、邱欣怡、戴萌、孔肖吟）</p></td>
 <td><p>趙嘉敏</p></td>
-<td><p>《上古世纪》主題曲</p></td>
+<td><p>游戏《上古世纪》主題曲</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年9月10日</p></td>
@@ -4913,215 +4962,222 @@ SNH000662</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2015年12月21日</p></td>
+<td><p>《<strong>3345</strong>》</p></td>
+<td><p>黄婷婷、许佳琪、刘炅然、曾艳芬、莫寒、莫寒、万丽娜、徐晗、邱欣怡、张丹三、刘佩鑫、宋昕冉、张韵雯、严佼君、陈琳、邵雪聪</p></td>
+<td><p>黄婷婷</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/国民美少女" title="wikilink">国民美少女</a>》主题曲</p></td>
+</tr>
+<tr class="odd">
 <td><p>2016年2月17日</p></td>
 <td><p>《<strong>小猪歌</strong>》</p></td>
-<td><p>王柏硕、吴燕文、许杨玉琢、张昕</p></td>
+<td><p>张昕、许杨玉琢、王柏硕、吴燕文</p></td>
 <td><p>张昕</p></td>
 <td><p>电影《年兽大作战》主题曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年3月17日</p></td>
 <td><p>《<strong>夜蝶</strong>》</p></td>
-<td><p>黃婷婷、李藝彤</p></td>
-<td></td>
+<td><p>李艺彤、黄婷婷</p></td>
+<td><p>李艺彤</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SNH48第二屆年度金曲大賞BEST_30" title="wikilink">SNH48第二屆年度金曲大賞BEST 30</a><br />
 第一名（Unit曲第一名）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年4月12日</p></td>
 <td><p>《<strong>梅洛斯之路</strong>》</p></td>
-<td><p>Team X</p></td>
+<td><p>Team X（邵雪聪、张丹三、宋昕冉、杨韫玉、王束、冯晓菲、李钊、张韵雯、杨冰怡、孙歆文、王晓佳、陈琳、汪佳翎、谢天依、闫明筠、孙静怡）</p></td>
 <td><p>邵雪聰</p></td>
-<td></td>
+<td><p>VR游戏主题曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年6月16日</p></td>
 <td><p>《<strong>追光 - 目標彈彈島</strong>》</p></td>
 <td><p>莫寒、李藝彤、楊韞玉</p></td>
 <td><p>李藝彤</p></td>
-<td><p>《彈彈島2》主題曲</p></td>
+<td><p>手机游戏《彈彈島2》主題曲</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年7月1日</p></td>
 <td><p>《<strong>早安夢幻島</strong>》</p></td>
 <td><p>Team X（邵雪聪、宋昕冉、张丹三、杨韫玉、李钊、陈琳、孙歆文、闫明筠、王束、李晶、冯晓菲、杨冰怡、张韵雯、王佳翎）</p></td>
 <td><p>邵雪聰</p></td>
-<td><p>《超能太陽鴨》主題曲</p></td>
-</tr>
-<tr class="odd">
-<td><p>2016年7月25日</p></td>
-<td><p>《<strong>星願</strong>》</p></td>
-<td><p>陳問言、馮薪朵、何曉玉、鞠婧禕、陸婷、李藝彤、萬麗娜、費沁源</p></td>
-<td><p>鞠婧禕</p></td>
-<td><p>騰訊應用寶「就要玩在一起」TVC主題曲</p></td>
+<td><p>动漫影视《超能太陽鴨》主題曲</p></td>
 </tr>
 <tr class="even">
+<td><p>2016年7月25日</p></td>
+<td><p>《<strong>星願</strong>》</p></td>
+<td><p>鞠婧祎、万丽娜、李艺彤、冯薪朵、陆婷、何晓玉、陈问言、费沁源</p></td>
+<td><p>鞠婧禕</p></td>
+<td><p>騰訊應用寶「就要玩在一起」TVC主題曲，收录《<a href="https://zh.wikipedia.org/wiki/专属派对" title="wikilink">专属派对</a>》M16.</p></td>
+</tr>
+<tr class="odd">
 <td><p>2016年8月10日</p></td>
 <td><p>《<strong>入梦</strong>》</p></td>
 <td><p>鞠婧祎、郝婉晴、李艺彤、刘炅然、徐晗</p></td>
 <td><p>鞠婧祎</p></td>
 <td><p>《梦幻西游》动画片主题曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年8月24日</p></td>
-<td><p>《<strong>Bingo</strong>》</p></td>
-<td><p>Team NII</p></td>
+<td><p>《<strong>BINGO！</strong>》</p></td>
+<td><p>Team NII（李艺彤、黄婷婷、曾艳芬、易嘉爱、冯薪朵、龚诗琪、何晓玉、林思意、陈问言、陈佳莹、罗兰、周怡、邓艳秋菲、黄彤扬）</p></td>
 <td><p>李藝彤</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SNH48第二屆年度金曲大賞BEST_30" title="wikilink">SNH48第二屆年度金曲大賞BEST 30</a><br />
 第二名（16人曲第一名）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年10月31日</p></td>
 <td><p>《<strong>回合</strong>》</p></td>
 <td><p>黃婷婷、鞠婧禕、李藝彤</p></td>
 <td><p>鞠婧禕</p></td>
 <td><p>《夢幻西遊》主題曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年1月12日</p></td>
 <td><p>《<strong>生日快樂</strong>》</p></td>
-<td><p>袁雨楨、馮薪朵、萬麗娜、劉炅然、孫珍妮、謝妮、許楊玉琢、楊惠婷、邵雪聰、宋昕冉、楊韞玉、陳音、費沁源、洪珮雲、於佳怡</p></td>
+<td><p>冯薪朵、万丽娜、刘炅然、宋昕冉、洪珮雲、谢妮、杨惠婷、许杨玉琢、费沁源、邵雪聪、杨韫玉、於佳怡、孙珍妮、陈音</p></td>
 <td><p>馮薪朵</p></td>
-<td><p>SNH48四週年主題曲</p></td>
-</tr>
-<tr class="even">
-<td><p>2017年3月14日</p></td>
-<td><p>《<strong>好友创可贴</strong>》</p></td>
-<td><p>Team SII</p></td>
-<td><p>莫寒</p></td>
-<td><p>白色情人节版</p></td>
+<td><p>「SNH48四週年」主題曲及生日会公式歌曲</p></td>
 </tr>
 <tr class="odd">
+<td><p>2017年3月14日</p></td>
+<td><p>《<strong>好友创可贴</strong>》</p></td>
+<td><p>Team SII（莫寒、李宇琪、陈观慧、许佳琪、戴萌、陈思、沈之琳、张语格、钱蓓婷、吴哲晗、蒋芸、袁雨桢、徐子轩、孙芮、孔肖吟、徐晨辰）</p></td>
+<td><p>莫寒</p></td>
+<td><p>「白色情人节」纪念版</p></td>
+</tr>
+<tr class="even">
 <td><p>2017年5月5日</p></td>
 <td><p>《<strong>梦想家</strong>》</p></td>
 <td><p>鞠婧祎、Team X</p></td>
 <td><p>鞠婧祎</p></td>
 <td><p>央视五四晚会版</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年7月20日</p></td>
 <td><p>《<strong>御龍傾天下</strong>》</p></td>
 <td><p>李藝彤、劉炅然、宋昕冉、費沁源</p></td>
 <td><p>李藝彤</p></td>
 <td><p>《禦龍在天》主題曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年7月29日</p></td>
 <td><p>《<strong>我心翱翔</strong>》</p></td>
 <td><p>鞠婧祎、李艺彤、黄婷婷、曾艳芬、冯薪朵、莫寒、陆婷、张语格、赵粤、邱欣怡、许佳琪、戴萌、林思意、万丽娜、刘炅然、张丹三</p></td>
 <td><p>鞠婧祎</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SNH48_Group第四屆總選舉" title="wikilink">SNH48 Group第四屆總選舉主題曲</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年8月20日</p></td>
 <td><p>《<strong>醉清风</strong>》</p></td>
-<td><p>戴萌、莫寒、许佳琪、吴哲晗、冯薪朵、陆婷</p></td>
+<td><p>冯薪朵、陆婷、莫寒、许佳琪、戴萌、吴哲晗</p></td>
 <td><p>冯薪朵、陆婷</p></td>
-<td><p>七夕单曲</p></td>
+<td><p>七夕节纪念单曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年9月15日</p></td>
 <td><p>《<strong>逐夢演藝圈</strong>》</p></td>
 <td><p>Team XII</p></td>
 <td><p>费沁源</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/純潔心靈·逐夢演藝圈" title="wikilink">純潔心靈·逐夢演藝圈</a>》主題曲</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年9月30日</p></td>
 <td><p>《<strong><a href="../Page/歌唱祖国.md" title="wikilink">歌唱祖国</a></strong>》</p></td>
-<td><p>莫寒、张语格、黄婷婷、易嘉爱、赵粤、许杨玉琢、杨冰怡、姜杉</p></td>
+<td><p>易嘉爱、黄婷婷、莫寒、赵粤、张语格、许杨玉琢、杨冰怡、姜杉</p></td>
 <td><p>易嘉爱</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年9月30日</p></td>
 <td><p>《<strong>梦想开始的地方</strong>》</p></td>
-<td><p>Team SII</p></td>
+<td><p>Team SII（莫寒、戴萌、李宇琪、陈思、孔肖吟、袁丹妮、冯晓菲、吕一、潘燕琦、吴哲晗、成珏、孙芮、蒋芸、徐子轩、钱蓓婷、徐晨辰）</p></td>
 <td><p>莫寒</p></td>
-<td><p>“中国梦”主题新创歌曲</p></td>
+<td><p>「中国梦」主题新创歌曲</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年12月11日</p></td>
 <td><p>《<strong>我的舞台</strong>》</p></td>
-<td><p>Team SII</p></td>
+<td><p>Team SII（莫寒、戴萌、孔肖吟、许佳琪、张语格、袁雨桢、钱蓓婷、李宇琪、吴哲晗、孙芮、将芸、沈之琳、邱欣怡、陈观慧、徐晨辰、潘燕琦、赵晔、温晶婕、徐子轩、成珏、吕一、陈思、冯晓菲）</p></td>
 <td><p>莫寒</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SNH48第三屆年度金曲大賞BEST_30" title="wikilink">SNH48第三屆年度金曲大賞BEST 30</a><br />
 第三名（16人曲第一名）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年1月18日</p></td>
 <td><p>《<strong>Don't touch</strong>》</p></td>
-<td><p>赵粤、曾艷芬</p></td>
-<td></td>
+<td><p>曾艳芬、赵粤</p></td>
+<td><p>曾艳芬</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SNH48第三屆年度金曲大賞BEST_30" title="wikilink">SNH48第三屆年度金曲大賞BEST 30</a><br />
 第一名（Unit曲第一名）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年2月2日</p></td>
 <td><p>《<strong>我的世界还有你</strong>》</p></td>
 <td><p>莫寒、易嘉愛、謝妮、杨冰怡、費沁源</p></td>
 <td><p>莫寒</p></td>
 <td><p>SNH48出道五周年纪念歌曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年3月27日</p></td>
 <td><p>《<strong>輪迴訣</strong>》</p></td>
-<td><p>莫寒、吳哲晗、黃婷婷、陸婷、林思意、費沁源</p></td>
+<td><p>黄婷婷、陆婷、莫寒、林思意、吴哲晗、费沁源</p></td>
 <td><p>黄婷婷</p></td>
 <td><p>《輪迴訣》主題曲</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年5月31日</p></td>
 <td><p>《<strong>公虾米</strong>》</p></td>
-<td><p>張語格、馮薪朵、謝妮、趙粵、張怡、宋昕冉、王曉佳、張丹三</p></td>
+<td><p>冯薪朵、赵粤、张语格、谢妮、宋昕冉、张丹三、王晓佳、张怡</p></td>
 <td><p>馮薪朵、趙粵</p></td>
 <td><p>《龙虾刑警》片尾曲<br />
 与<a href="https://zh.wikipedia.org/wiki/宋小宝" title="wikilink">宋小宝</a>、<a href="https://zh.wikipedia.org/wiki/周云鹏" title="wikilink">周云鹏</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年7月9日</p></td>
 <td><p>《<strong>Ready!Go!</strong>》</p></td>
 <td><p>《梦想演播厅》66名竞演成员</p></td>
 <td><p>李宇琪</p></td>
-<td><p>《梦想演播厅》主题曲</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/梦想演播厅" title="wikilink">梦想演播厅</a>》主题曲</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年7月24日</p></td>
 <td><p>《<strong>热情的沙漠</strong>》</p></td>
-<td><p>吕一、李宇琪、孙芮、莫寒、馮薪朵、黄婷婷、趙粵、万丽娜</p></td>
+<td><p>黄婷婷、李宇琪、冯薪朵、赵粤、万丽娜、孙芮、吕一</p></td>
 <td><p>黄婷婷</p></td>
 <td><p>《灣仔碼頭》宣傳曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年7月28日</p></td>
 <td><p>《<strong>砥礪前行</strong>》</p></td>
 <td><p>SNH48、BEJ48、GNZ48、SHY48、CKG48</p></td>
 <td><p>李艺彤</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SNH48_Group第五屆總選舉" title="wikilink">SNH48 Group第五屆總選舉主题曲</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年10月31日</p></td>
 <td><p>《<strong>万圣节之夜2018</strong>》</p></td>
 <td><p>Team HII</p></td>
 <td><p>许杨玉琢</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年11月15日</p></td>
 <td><p>《<strong>着魔</strong>》</p></td>
 <td><p>莫寒、邵雪聪、吴哲晗、徐晨辰、易嘉爱、张怡</p></td>
 <td><p>莫寒</p></td>
 <td><p>《地下城与勇士》宣传曲</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年11月26日</p></td>
 <td><p>《<strong>光之轨迹</strong>》</p></td>
-<td><p>Team NII</p></td>
+<td><p>Team NII（黄婷婷、李艺彤、冯薪朵、陆婷、赵粤、林思意、万丽娜、易嘉爱、张雨鑫、何晓玉、陈佳莹、江真仪、金莹玥、马凡）</p></td>
 <td><p>黄婷婷</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SNH48_Group第四屆年度金曲大賞BEST_50" title="wikilink">SNH48 Group第四屆年度金曲大賞BEST 50</a><br />
 第二名（16人曲第一名）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年12月21日</p></td>
 <td><p>《<strong>春夏秋冬</strong>》</p></td>
 <td><p>蘇杉杉（<a href="https://zh.wikipedia.org/wiki/BEJ48" title="wikilink">BEJ48</a>）、王詩蒙（<a href="../Page/SHY48.md" title="wikilink">SHY48</a>）、馮思佳（<a href="https://zh.wikipedia.org/wiki/BEJ48" title="wikilink">BEJ48</a>）、張丹三</p></td>
@@ -5129,44 +5185,52 @@ SNH000662</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SNH48_Group第四屆年度金曲大賞BEST_50" title="wikilink">SNH48 Group第四屆年度金曲大賞BEST 50</a><br />
 第一名（Unit曲第一名）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年12月30日</p></td>
 <td><p>《<strong>红运当头</strong>》</p></td>
 <td><p>李宇琪、钱蓓婷、冯薪朵、黄婷婷、陆婷、易嘉爱、赵粤、张怡、费沁源、万丽娜</p></td>
 <td><p>黄婷婷</p></td>
 <td><p>《灣仔碼頭》宣傳曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年4月2日</p></td>
 <td><p>《<strong>加油女孩</strong>》（Everybody Go）</p></td>
 <td><p>黄婷婷、冯薪朵、陆婷、莫寒、赵粤、许佳琪、戴萌、钱蓓婷、谢蕾蕾、吴哲晗、孔肖吟、苏杉杉、段艺璇、张语格</p></td>
 <td><p>黄婷婷</p></td>
 <td><p>「SNH48 Group第二届偶像运动会」主题曲</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年9月9日</p></td>
 <td><p>《<strong>花儿为什么这样红</strong>》</p></td>
 <td><p>李艺彤、莫寒、段艺璇、苏杉杉、谢蕾蕾、郑丹妮</p></td>
 <td><p>李艺彤</p></td>
 <td><p>建国70周年纪念曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年9月19日</p></td>
 <td><p>《<strong>什么什么</strong>》</p></td>
 <td><p>陈琳、李钊、祁静、冉蔚、孙歆文、谢天依</p></td>
 <td><p>祁静</p></td>
 <td><p>电影《捉妖记2》插曲</p></td>
 </tr>
+<tr class="odd">
+<td><p>2019年9月28日</p></td>
+<td><p>《<strong>一起8</strong>》</p></td>
+<td><p>许佳琪、宋昕冉、费沁源、孙珍妮</p></td>
+<td><p>许佳琪</p></td>
+<td><p>「途虎养车」8周年广告宣传插曲</p></td>
+</tr>
 </tbody>
 </table>
 
 ### 参与音樂影片
 
-| 發行日         | 标题         | 出演成員                  | 备注                                                          |
-| ----------- | ---------- | --------------------- | ----------------------------------------------------------- |
-| 2018年2月11日  | 《**中国**》   | 謝妮、趙粵、費沁源、林思意、費沁源、黃恩茹 | [中央电视台贺岁MV](https://zh.wikipedia.org/wiki/中央电视台 "wikilink") |
-| 2018年11月16日 | 《**未来已来**》 | 鞠婧祎、黄婷婷               | [中国青年报](../Page/中国青年报.md "wikilink")MV                      |
-| 2019年5月8日   | 《**爱的阳光**》 | BEJ48                 | 中国残疾人福利基金会、中国残疾人事业新闻宣传促进会MV                                 |
+| 發行日         | 标题              | 出演成員                  | 备注                                                                                |
+| ----------- | --------------- | --------------------- | --------------------------------------------------------------------------------- |
+| 2018年2月11日  | 《**中国**》        | 謝妮、趙粵、費沁源、林思意、費沁源、黃恩茹 | [中央电视台贺岁MV](https://zh.wikipedia.org/wiki/中央电视台 "wikilink")                       |
+| 2018年11月16日 | 《**未来已来**》      | 鞠婧祎、黄婷婷               | [中国青年报](../Page/中国青年报.md "wikilink")MV                                            |
+| 2019年5月8日   | 《**爱的阳光**》      | BEJ48                 | 中国残疾人福利基金会、中国残疾人事业新闻宣传促进会MV                                                       |
+| 2019年10月17日 | 《'''추억이 돼줘 고마워》 | 李佳恩                   | [Fly To The Sky出道](https://zh.wikipedia.org/wiki/Fly_To_The_Sky "wikilink")20周年MV |
 
 ### 其他歌曲
 
@@ -5480,11 +5544,11 @@ SNH000662</p></td>
 <tr class="odd">
 <td><p>2019年4月2日</p></td>
 <td><p>《<strong>加油女孩</strong>》（Everybody Go）</p></td>
-<td><p>SNH48、BEJ48、GNZ48偶像运动会参与者</p></td>
+<td><p>黄婷婷、冯薪朵、陆婷、莫寒、赵粤、许佳琪、戴萌、钱蓓婷、谢蕾蕾、吴哲晗、孔肖吟、苏杉杉、段艺璇、张语格</p></td>
 <td><p>甘世佳</p></td>
 <td><p>ASPJ</p></td>
 <td><p>ASPJ</p></td>
-<td><p>SNH48 Group第二届偶像运动会主题曲</p></td>
+<td><p>「SNH48 Group第二届偶像运动会」主题曲</p></td>
 </tr>
 </tbody>
 </table>
@@ -5529,7 +5593,7 @@ SNH000662</p></td>
 <tr class="even">
 <td><p>2016年8月24日</p></td>
 <td><p>《<strong>BINGO！</strong>》</p></td>
-<td><p>SNH48 Team NII</p></td>
+<td><p>SNH48 Team NII（李艺彤、黄婷婷、曾艳芬、易嘉爱、冯薪朵、龚诗琪、何晓玉、林思意、陈问言、陈佳莹、罗兰、周怡、邓艳秋菲、黄彤扬）</p></td>
 <td><p>李艺彤</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SNH48第二屆年度金曲大賞BEST_30" title="wikilink">第二届B30</a><br />
 第二名（16人曲第一名）</p></td>
@@ -5537,7 +5601,7 @@ SNH000662</p></td>
 <tr class="odd">
 <td><p>2017年12月11日</p></td>
 <td><p>《<strong>我的舞台</strong>》</p></td>
-<td><p>SNH48 Team SII</p></td>
+<td><p>SNH48 Team SII（莫寒、戴萌、孔肖吟、许佳琪、张语格、袁雨桢、钱蓓婷、李宇琪、吴哲晗、孙芮、将芸、沈之琳、邱欣怡、陈观慧、徐晨辰、潘燕琦、赵晔、温晶婕、徐子轩、成珏、吕一、陈思、冯晓菲）</p></td>
 <td><p>莫寒</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SNH48第三屆年度金曲大賞BEST_50" title="wikilink">第三届B50</a><br />
 第三名（16人曲第一名）</p></td>
@@ -5554,7 +5618,7 @@ SNH000662</p></td>
 <tr class="odd">
 <td><p>2018年11月26日</p></td>
 <td><p>《<strong>光之轨迹</strong>》</p></td>
-<td><p>SNH48 Team NII</p></td>
+<td><p>SNH48 Team NII（黄婷婷、李艺彤、冯薪朵、陆婷、赵粤、林思意、万丽娜、易嘉爱、张雨鑫、何晓玉、陈佳莹、江真仪、金莹玥、马凡）</p></td>
 <td><p>黄婷婷</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SNH48_Group第四屆年度金曲大賞BEST_50" title="wikilink">第四届B50</a><br />
 第二名（16人曲第一名）</p></td>
@@ -5576,9 +5640,9 @@ SNH000662</p></td>
 年度金曲第一名（Unit曲第一名）</p></td>
 </tr>
 <tr class="even">
-<td><p>2019年9月28日</p></td>
+<td><p>2019年10月11日</p></td>
 <td><p>《<strong>笨</strong>》</p></td>
-<td><p>BEJ48 Team B</p></td>
+<td><p>BEJ48 Team B（段艺璇、青钰雯、胡晓慧、刘姝贤、闫明筠、熊素君、张梦慧、沈小爱、田姝丽、杨鑫、林溪荷、孙晓艳、曲美霖、张羽涵、赵天杨、程戈）</p></td>
 <td><p>段艺璇</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SNH48_Group第五屆年度金曲大賞BEST_50" title="wikilink">第五届B50</a><br />
 年度金曲第二名（16人曲第一名）</p></td>
@@ -6230,34 +6294,6 @@ Team NII专场</p></td>
 </tbody>
 </table>
 
-  - 韓國
-
-<table>
-<thead>
-<tr class="header">
-<th><p>播出時間</p></th>
-<th><p>中文名称</p></th>
-<th><p>電視台</p></th>
-<th><p>备注</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2015年12月5日</p></td>
-<td><p>第17届中韩歌会</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/CCTV3" title="wikilink">CCTV3</a><br />
-<a href="https://zh.wikipedia.org/wiki/KBS1" title="wikilink">KBS1</a></p></td>
-<td><p>Team SII成员参与；歌曲《释FUN不安分》</p></td>
-</tr>
-<tr class="even">
-<td><p>2019年3月17日</p></td>
-<td><p>Weekly China Now</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中华TV" title="wikilink">中华TV</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/7SENSES" title="wikilink">7SENSES成员参与</a></p></td>
-</tr>
-</tbody>
-</table>
-
 ### 网络節目
 
   - 中國
@@ -6284,6 +6320,8 @@ Team NII专场</p></td>
 | 2019年5月4日－6月29日       | [燃烧吧团魂](../Page/燃烧吧团魂.md "wikilink")                                    | 咪咕音乐                                                                                                            | 直播節目               |  |                  |                                          |                                                       |  |
 | 2019年5月20日－           | TV Station 48                                                           | 口袋48                                                                                                            | 直播節目               |  |                  |                                          |                                                       |  |
 | 2019年5月29日－7月3日       | 意想不到的假期                                                                 | [爱奇艺](../Page/爱奇艺.md "wikilink")                                                                                |                    |  |                  |                                          |                                                       |  |
+| 2019年10月10日－          | 不得了化妆间                                                                  | Bilibili、新浪微博                                                                                                   |                    |  |                  |                                          |                                                       |  |
+| 2019年10月15日－          | 踹踹TV                                                                    | Bilibili、新浪微博                                                                                                   |                    |  |                  |                                          |                                                       |  |
 
   - 日本
 
@@ -6501,16 +6539,16 @@ Team NII专场</p></td>
 
   - Team X
 
-| 序號   | 公演名稱                                                                                                           | 日期                     | 場次    |
-| ---- | -------------------------------------------------------------------------------------------------------------- | ---------------------- | ----- |
-| 1    | [最后的钟声响起](https://zh.wikipedia.org/wiki/Team_K_4th_Stage“最终钟声鸣响”#SNH48_Team_X_1st_Stage「最后的钟声响起」公演 "wikilink") | 2015年4月17日－10月24日      | 40場   |
-| 2    | [逆流而上](https://zh.wikipedia.org/wiki/Team_K_5th_Stage“引体后翻”#SNH48_Team_X_2nd_Stage「逆流而上」公演 "wikilink")         | 2015年11月6日－2016年6月10日  | 32場   |
-| 纪念公演 | [十八個閃耀瞬間](https://zh.wikipedia.org/wiki/SNH48「十八個閃耀瞬間」公演#Team_X「十八個閃耀瞬間」公演 "wikilink")                         | 2016年6月17日－10月20日      | 24場   |
-| 3    | [夢想的旗幟](../Page/Team_X_3rd_Stage「夢想的旗幟」公演.md "wikilink")                                                       | 2016年10月28日－2017年12月9日 | 69場   |
-| 4    | [命運的X號](../Page/Team_X_4th_Stage「命運的X號」公演.md "wikilink")                                                       | 2017年12月15日－           | 目前公演中 |
-| 过渡公演 | [Girl X](https://zh.wikipedia.org/wiki/Team_X_Waiting_Stage“Girl_X”公演 "wikilink")                              | 2019年3月29日－            | 目前公演中 |
-| 5    | [遗忘的国度](https://zh.wikipedia.org/wiki/Team_X_5th_Stage“遗忘的国度”公演 "wikilink")                                    | 2019年                  |       |
-|      |                                                                                                                |                        |       |
+| 序號   | 公演名稱                                                                                                           | 日期                      | 場次    |
+| ---- | -------------------------------------------------------------------------------------------------------------- | ----------------------- | ----- |
+| 1    | [最后的钟声响起](https://zh.wikipedia.org/wiki/Team_K_4th_Stage“最终钟声鸣响”#SNH48_Team_X_1st_Stage「最后的钟声响起」公演 "wikilink") | 2015年4月17日－10月24日       | 40場   |
+| 2    | [逆流而上](https://zh.wikipedia.org/wiki/Team_K_5th_Stage“引体后翻”#SNH48_Team_X_2nd_Stage「逆流而上」公演 "wikilink")         | 2015年11月6日－2016年6月10日   | 32場   |
+| 纪念公演 | [十八個閃耀瞬間](https://zh.wikipedia.org/wiki/SNH48「十八個閃耀瞬間」公演#Team_X「十八個閃耀瞬間」公演 "wikilink")                         | 2016年6月17日－10月20日       | 24場   |
+| 3    | [夢想的旗幟](../Page/Team_X_3rd_Stage「夢想的旗幟」公演.md "wikilink")                                                       | 2016年10月28日－2017年12月9日  | 69場   |
+| 4    | [命運的X號](../Page/Team_X_4th_Stage「命運的X號」公演.md "wikilink")                                                       | 2017年12月15日－2019年11月15日 | 84場   |
+| 过渡公演 | [Girl X](https://zh.wikipedia.org/wiki/Team_X_Waiting_Stage“Girl_X”公演 "wikilink")                              | 2019年3月29日－             | 目前公演中 |
+| 5    | [遗忘的国度](https://zh.wikipedia.org/wiki/Team_X_5th_Stage“遗忘的国度”公演 "wikilink")                                    | 2019年                   |       |
+|      |                                                                                                                |                         |       |
 
   - Team XII
 
@@ -6554,7 +6592,7 @@ Team NII专场</p></td>
 | 2  | [心的旅程](https://zh.wikipedia.org/wiki/心的旅程 "wikilink")                       | 2016年7月7日、8日   | [GNZ48星梦剧院](https://zh.wikipedia.org/wiki/GNZ48星梦剧院 "wikilink")        | 2場 |
 | 3  | [第48区](https://zh.wikipedia.org/wiki/Team_SII_7th_Stage「第48区」公演 "wikilink") | 2017年12月1日、2日  | [CKG48星梦剧院](https://zh.wikipedia.org/wiki/CKG48星梦剧院 "wikilink")        | 2場 |
 | 4  | [重生计划](https://zh.wikipedia.org/wiki/Team_SII_8th_Stage“重生计划”公演 "wikilink") | 2019年6月2日      | [GNZ48星梦剧院](https://zh.wikipedia.org/wiki/GNZ48星梦剧院 "wikilink")        | 1場 |
-| 5  | [重生计划](https://zh.wikipedia.org/wiki/Team_SII_8th_Stage“重生计划”公演 "wikilink") | 2019年10月12日    | [东京](../Page/东京.md "wikilink")[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink") | 1場 |
+| \- | [重生计划](https://zh.wikipedia.org/wiki/Team_SII_8th_Stage“重生计划”公演 "wikilink") | 2019年10月12日    | [东京](../Page/东京.md "wikilink")[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink") | 取消 |
 
   - Team NII
 
@@ -6890,7 +6928,7 @@ Team NII专场</p></td>
   -
   - [口袋48 官方網站](http://h5.snh48.com/pocket48/index_pc.html)
 
-  - [星夢學院 官方網站](http://snh48.thedream.cc/cs6/)
+  - [星夢學院 官方網站](https://web.archive.org/web/20180212005002/http://snh48.thedream.cc/cs6/)
 
   - [星夢想48 官方網站](http://star48.ddianle.com)
 
@@ -6901,319 +6939,166 @@ Team NII专场</p></td>
 [Category:SNH48](https://zh.wikipedia.org/wiki/Category:SNH48 "wikilink") [Category:SNH48_Group](https://zh.wikipedia.org/wiki/Category:SNH48_Group "wikilink") [Category:中国女子演唱团体](https://zh.wikipedia.org/wiki/Category:中国女子演唱团体 "wikilink") [Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:以上海为据点的女子演唱团体](https://zh.wikipedia.org/wiki/Category:以上海为据点的女子演唱团体 "wikilink") [Category:王子杰](https://zh.wikipedia.org/wiki/Category:王子杰 "wikilink") [Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink") [Category:上海文化](https://zh.wikipedia.org/wiki/Category:上海文化 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  [SNH48二期生火熱出爐 星夢劇院8月30日開業首演](http://tw.twent.chinayes.com/Content/20130819/kh9p6dq9ambt8.shtml)
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
 52.
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
 61.
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.
-
 78.
-
 79.
-
 80.
-
 81.
-
 82.
-
 83.
-
 84.
-
 85.
-
 86.
-
 87.
-
 88.
-
 89.
-
 90.
 91.
-
 92.
-
 93.
-
 94.
-
 95.
-
 96.
-
 97.
-
 98.
-
 99.
-
 100.
-
 101.
-
 102.
-
 103.
-
 104.
-
 105.
-
 106.
-
 107.
-
 108.
-
 109.
-
 110.
-
 111.
-
 112.
 113.
-
 114.
-
 115.
-
 116.
-
 117.
-
 118.
-
 119.
-
 120.
-
 121.
-
 122.
-
 123.
-
 124.
-
 125.
-
 126.
-
 127.
-
 128.
-
 129.
-
 130.
-
 131.
 132.
-
 133.
-
 134.
-
 135.
-
 136.
-
 137.
-
 138.
-
 139.
-
 140.
-
 141.
-
 142.
-
 143.
-
 144.
-
 145.
-
 146.
-
 147.
-
 148.
-
 149.
-
 150.
 151.
-
 152.
-
 153.
-
 154.
-
 155.
-
 156.
-
 157.
-
 158.
-
 159.
-
 160.
-
 161.
-
 162.
-
 163.
-
 164.

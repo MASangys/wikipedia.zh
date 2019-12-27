@@ -35,4 +35,4 @@ NET聖經（中譯本）經文部份主要是用[和合本為基礎](https://zh.
 1.  [CNET(NET的中譯本)上架](https://www.fhl.net/main/announce/announce423155.html)
 2.  [NET聖經(中譯本)](http://www.translatebible.com/blog/c051)
 3.  [NET註釋](http://www.wwbible.org/acms/content.asp?site=wbs&op=showbyid&id=26688)
-4.  [採用了很多NET的註釋](https://shop.taosheng.com.tw/goods/content?g_id=2325)
+4.

@@ -11,7 +11,5 @@ LG Optimus Pad 使用8.9吋[電容式](https://zh.wikipedia.org/wiki/電容式 "
 [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:LG集團](https://zh.wikipedia.org/wiki/Category:LG集團 "wikilink") [Category:2011年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2011年面世的平板電腦 "wikilink")
 
 1.
-
 2.
-
 3.

@@ -40,38 +40,23 @@
 [Category:芝加哥藝術](https://zh.wikipedia.org/wiki/Category:芝加哥藝術 "wikilink") [Category:芝加哥建築物](https://zh.wikipedia.org/wiki/Category:芝加哥建築物 "wikilink") [Category:千禧公園](https://zh.wikipedia.org/wiki/Category:千禧公園 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.  位于门罗街（Monroe Street）和芝加哥艺术学院（Art Institute of Chicago）的北方，密歇根大道（Michigan Avenue）的东方, 兰多夫街（Randolph Street）的南方和哥伦布大道（Columbus Drive）的西方
-
 6.
-
 7.
-
 8.
-
 9.  Gilfoyle, p. 328.
-
 10.
 11.
 12.
-
 13. Gilfoyle, p. 165.
-
 14. Gilfoyle, p. 402.
-
 15.
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.

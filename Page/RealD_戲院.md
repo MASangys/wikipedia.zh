@@ -33,18 +33,11 @@ RealD 3D 技術採用圓偏振光來產生立體圖像投影，優勢是觀眾�
 [Category:3D電影](https://zh.wikipedia.org/wiki/Category:3D電影 "wikilink") [Category:三維成像](https://zh.wikipedia.org/wiki/Category:三維成像 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.

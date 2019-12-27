@@ -8,7 +8,7 @@
 
 ### 特徵
 
-RG-6的原理其實是參考南非的-{[米尔科姆转轮连发式榴弹发射器](../Page/米尔科姆转轮连发式榴弹发射器.md "wikilink")}-（，簡稱：MGL），也是利用卷簧驅動6發式轉輪彈倉。不同在於RG-6使用俄羅斯自行研製的，包括VOG-25觸爆式榴彈和VOG-25P跳炸[空爆式榴彈](https://zh.wikipedia.org/wiki/空中爆炸 "wikilink")。即使在具體結構和操作方式上，RG-6和MGL亦有著較大的區別。雖然武器的設計比較粗糙，但相對的設計可靠和持久，而且容易拆卸清洗和潤滑。
+RG-6的原理其實是參考南非的-{[米尔科姆转轮连发式榴弹发射器](../Page/米尔科姆转轮连发式榴弹发射器.md "wikilink")}-（，簡稱：MGL），也是利用卷簧驅動6發式轉輪彈倉。不同在於RG-6使用俄羅斯自行研製的，包括VOG-25觸爆式榴彈和VOG-25P跳炸[空爆](https://zh.wikipedia.org/wiki/空中爆炸 "wikilink")。即使在具體結構和操作方式上，RG-6和MGL亦有著較大的區別。雖然武器的設計比較粗糙，但相對的設計可靠和持久，而且容易拆卸清洗和潤滑。
 
 ### 操作機構
 
@@ -16,7 +16,7 @@ RG-6前端的“槍管”是假的，只是一根比彈徑略大的[滑膛管道
 
 RG-6不只是彈膛是直接採用了GP-30的槍管，就連其雙動操作扳機也是直接採用了GP-30的設計，並且增加了手動保險和自動保險。而其黑色則來自[AK-100系列](https://zh.wikipedia.org/wiki/AK-101突擊步槍 "wikilink")。
 
-RG-6通過[扳機護圈下方](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")、轉輪及彈巢後擋板中央設有的挂鉤型開關向後拉動以釋放轉輪軸銷，就能打開轉輪前面的護蓋，並且與轉輪分離以露出轉輪上的彈巢（並且是[膛室](../Page/膛室.md "wikilink")和真[槍管](../Page/槍管.md "wikilink")）口部。在重新裝填時，轉輪前部的槍身（包括其假槍管）會脫離轉輪軸銷並且以彈巢上方的金屬管為軸心旋轉180度後打開彈巢前端，露出轉輪上的膛室口部。然後便可以將榴彈一發接一發裝入每個膛室內（因為轉輪為固定式，無法從RG-6上拆除），而且和GP-30一樣的是，RG-6在發射後不需要抽殼便可從轉輪的前面直接裝填。裝填時需要把榴彈的從有膛線的槍口裝進去並要卡在定位銷上，否則槍口垂下時榴彈可能會因前移而導致擊針不能打擊到底火。榴彈裝填完畢以後再把彈巢向左旋轉以扭緊內置的卷簧（類似上發條）。再以彈巢上方的金屬管為軸心旋轉托架轉輪前部的槍身180度以重新關閉槍身，並且將轉輪軸銷重新插入軸銷口重新閉鎖。此時便完成裝彈過程。
+RG-6通過[扳機護環下方](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")、轉輪及彈巢後擋板中央設有的挂鉤型開關向後拉動以釋放轉輪軸銷，就能打開轉輪前面的護蓋，並且與轉輪分離以露出轉輪上的彈巢（並且是[膛室](../Page/膛室.md "wikilink")和真[槍管](../Page/槍管.md "wikilink")）口部。在重新裝填時，轉輪前部的槍身（包括其假槍管）會脫離轉輪軸銷並且以彈巢上方的金屬管為軸心旋轉180度後打開彈巢前端，露出轉輪上的膛室口部。然後便可以將榴彈一發接一發裝入每個膛室內（因為轉輪為固定式，無法從RG-6上拆除），而且和GP-30一樣的是，RG-6在發射後不需要抽殼便可從轉輪的前面直接裝填。裝填時需要把榴彈的從有膛線的槍口裝進去並要卡在定位銷上，否則槍口垂下時榴彈可能會因前移而導致擊針不能打擊到底火。榴彈裝填完畢以後再把彈巢向左旋轉以扭緊內置的卷簧（類似上發條）。再以彈巢上方的金屬管為軸心旋轉托架轉輪前部的槍身180度以重新關閉槍身，並且將轉輪軸銷重新插入軸銷口重新閉鎖。此時便完成裝彈過程。
 
 RG-6在扣下[雙動操作扳機時就會到位](https://zh.wikipedia.org/wiki/扳機 "wikilink")，而[擊針在扣下扳機並且解脫阻鐵以後就會擊發榴彈的](../Page/撞針.md "wikilink")[底火以發射榴彈](https://zh.wikipedia.org/wiki/底火 "wikilink")。高壓火藥燃氣的壓力會利用導氣孔推動活塞向上驅動棘輪卡鎖向前以釋放轉輪，並且在簧力的作用以下讓卷簧推動膛室作60°旋轉，直到下一個膛室的底火與擊針和[槍管](../Page/槍管.md "wikilink")連成一線，於是就可以發射下一發榴彈。如果發生了出現[不發榴彈](https://zh.wikipedia.org/wiki/不發 "wikilink")（扣下扳機也不發射），扳機仍然可以反復扣下後直到發射為止。
 
@@ -69,6 +69,7 @@ RG-6採用了具有伸縮式[橡膠](../Page/橡膠.md "wikilink")底板[槍托]
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")
   - [阿森納雪崩式榴彈發射器](https://zh.wikipedia.org/wiki/阿森納雪崩式榴彈發射器 "wikilink")
   - [阿森納MSGL榴彈發射器](https://zh.wikipedia.org/wiki/阿森納MSGL榴彈發射器 "wikilink")
+  - [HK369轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/HK369轉輪式榴彈發射器 "wikilink")
   - [LG4轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/LG4轉輪式榴彈發射器 "wikilink")
   - \-{[米尔科姆转轮连发式榴弹发射器](../Page/米尔科姆转轮连发式榴弹发射器.md "wikilink")}-
   - [MM-1轉輪式榴彈發射器](../Page/MM-1轉輪式榴彈發射器.md "wikilink")
@@ -95,7 +96,7 @@ RG-6採用了具有伸縮式[橡膠](../Page/橡膠.md "wikilink")底板[槍托]
 
   - —[Modern Firearms—RG-6 / 6G30 40mm grenade launcher](http://world.guns.ru/grenade/rus/rg-6-e.html)
 
-  - —[Weapon.ge—RG-6 / 6G30](http://georgians.weapon.ge/index.php?sel=1&id=330&man=&coun=24&cat=&l=en)
+  - —[Weapon.ge—RG-6 / 6G30](https://web.archive.org/web/20160304065010/http://georgians.weapon.ge/index.php?cat=&coun=24&id=330&l=en&man=&sel=1)
 
   - —[EnemyForces.com—Revolving Grenade Charger RG- 6](http://www.enemyforces.net/firearms/rg6.htm)
 

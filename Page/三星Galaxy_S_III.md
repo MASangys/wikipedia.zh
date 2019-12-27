@@ -70,50 +70,29 @@ Galaxy S III的頭號對手是[Apple](https://zh.wikipedia.org/wiki/Apple "wikil
   - [Samsung Galaxy S III香港三星官方網址](http://support-hk.samsung.com/galaxys3/)
   - [Samsung Galaxy S III台灣三星官方網址](https://web.archive.org/web/20120518084128/http://www.samsung.com/tw/consumer/mobile-phones/mobile-phones/smart-phone/GT-I9300RWABRI?subsubtype=android)
 
-[Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
+[Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:2017年面世的手機](https://zh.wikipedia.org/wiki/Category:2017年面世的手機 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  <http://www.tmonews.com/2012/04/samsung-announces-1-4ghz-quad-core-processor-for-the-next-galaxy/>
-
 7.  <http://www.tmonews.com/2012/04/samsung-executive-says-to-expect-snapdragon-processors-in-us-bound-galaxy-s-iii/>
-
 8.  <http://www.engadget.com/2012/05/03/samsung-galaxy-s-iii-family-tree/>
-
 9.  <http://chinese.engadget.com/2012/05/03/samsung-galaxy-s-iii-liveblog/>
-
 10.
-
 11. <http://www.engadget.com/2012/05/03/samsung-galaxy-s-iii-is-official/>
-
 12. <http://mag.udn.com/mag/digital/storypage.jsp?f_ART_ID=387499>
-
 13. <http://mag.udn.com/mag/digital/storypage.jsp?f_ART_ID=387499>
-
 14. <http://www.engadget.com/2012/05/03/samsung-galaxy-s-iii-family-tree/>
-
 15.
 16.
 17. <http://www.engadget.com/2012/05/03/samsung-galaxy-s-iii-family-tree/>
-
 18. [三星Galaxy SIII手機傳死當　原因不明](http://tw.news.yahoo.com/%E4%B8%89%E6%98%9Fgalaxy-siii%E6%89%8B%E6%A9%9F%E5%82%B3%E6%AD%BB%E7%95%B6-%E5%8E%9F%E5%9B%A0%E4%B8%8D%E6%98%8E-040254876--finance.html)
-
 19. [Samsung Galaxy S3 Explosion in Swiss Teenager's Pocket Leaves Her Thigh Numb](http://www.ibtimes.co.uk/articles/488963/20130711/samsung-galaxy-explodes-swiss-teenager-pocket-case.htm)
-
 20. [Galaxy S3 Reportedly Explodes, Samsung Investigating](http://www.huffingtonpost.com/2012/06/22/galaxy-s3-explodes-samsung_n_1617907.html)
-
 21.
-
 22.
-
 23. [Samsung Galaxy S3 explodes, turns young woman into 'burnt pig'](http://www.theregister.co.uk/2013/07/08/samsung_galaxy_s3_explodes_causing_second_and_third_degree_burns/)
-
 24. [三星S3手機爆炸　燙傷瑞士18歲少女大腿](http://www.appledaily.com.tw/realtimenews/article/new/20130710/222961/)

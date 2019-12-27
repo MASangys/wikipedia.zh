@@ -137,17 +137,13 @@
 [Category:聖鬥士星矢劇場版](https://zh.wikipedia.org/wiki/Category:聖鬥士星矢劇場版 "wikilink") [Category:山內重保電影](https://zh.wikipedia.org/wiki/Category:山內重保電影 "wikilink") [Category:2004年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2004年日本劇場動畫 "wikilink")
 
 1.  DVD『聖鬥士星矢 天界篇 序奏～overture～』小冊子。
-
 2.  OVA「冥王哈帝斯 冥界篇」和「冥王哈帝斯 極樂淨土篇」均在「天界篇」公映後發行。
-
 3.  電影場刊。
-
 4.
 5.
 6.
 7.
 8.  語源來自自然現象[光環的別名](../Page/光環_\(光象\).md "wikilink")。
-
 9.
 10.
 11.

@@ -372,7 +372,7 @@
 
 1.
 2.  <http://forum.g-music.com.tw/yaf_postst94558_2010--.aspx>
-3.  <http://www.gaonchart.co.kr/main/section/album/list.gaon>
+3.
 4.  <http://www.hottracks.co.kr/ht/welcomeMain>
 5.
 6.

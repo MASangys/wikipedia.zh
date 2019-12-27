@@ -22,7 +22,7 @@
 #### 機動戰士
 
   - AGE-1 鋼彈AGE-1 （Gundam AGE-1）
-    持有傳說中的救世主「[鋼彈](../Page/GUNDAM系機動戰士.md "wikilink")」之名的《第一部》時期最強[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")（Mobile Suit）。菲力特以亞斯諾家代代相傳的AGE迴路裡留下的資料為基礎開發，是地球聯邦軍第一台可以有效對抗UE的兵器。能透過AGE系統進行換裝，發揮出往不同極端發展的不同的性能\[6\]。而胸部中央的「A」字正是「AGE」的意思。
+    持有傳說中的救世主「[鋼彈](../Page/GUNDAM系機動戰士.md "wikilink")」之名的《第一部》時期最強[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")（Mobile Suit）。菲力特以亞斯諾家代代相傳的AGE迴路裡留下的資料為基礎開發，是地球聯邦軍第一台可以有效對抗UE的兵器。能透過AGE系統進行換裝，發揮出往不同方向發展的極端性能\[6\]。而胸部中央的「A」字正是「AGE」的意思。
     在現實的商品上，是第一款嘗試和相關玩具完全對應的鋼彈模型產品。其AG系列的[GUNPLA](../Page/GUNPLA.md "wikilink")與已上色組裝完成的GB系列玩偶都內藏特殊晶片，可在各地賣場設置的免費[街機](https://zh.wikipedia.org/wiki/街機 "wikilink")「GAGE-ING戰鬥基地」掃描後進行電子遊戲。並透過更換玩偶的兩手與下半身來改造機體，重現原作中的AGE系統。\[7\]
 
 :;基本型（Normal）
@@ -33,92 +33,75 @@
 
 :\* 武裝：特捷步槍（Dods Rifle）、光束軍刀／光束匕首（Beam Saber/Beam Dagger）x2、護盾（Shield）
 
-  - ;AGE-1T 重擊型（Titus）
+:;AGE-1T 重擊型（Titus）
 
-      -
-        高達AGE-1的格鬥戰特化模式，它的光束套索、光束膝撞和光束肩撞均能一擊殲滅一部UE的重裝甲型機動戰士巴古托\[8\]。
-        高度：17.6公尺、重量：62.5噸
-        在現實中，此機體的[GUNPLA](../Page/GUNPLA.md "wikilink")發售後，有玩家嘗試將其四肢接上當時當紅的《魔法少女小圓》[鹿目圓](../Page/鹿目圓.md "wikilink")的[figma上](https://zh.wikipedia.org/wiki/figma "wikilink")，意外引發熱潮（且無須改造關節就可安裝）。日本[秋葉原](../Page/秋葉原.md "wikilink")的一號店甚至製作[POP](https://zh.wikipedia.org/wiki/POP "wikilink")，將兩者成套販賣。更稱此為「小圓重擊型」\[9\]\[10\]\[11\]
+::高達AGE-1的格鬥戰特化模式，它的光束套索、光束膝撞和光束肩撞均能一擊殲滅一部UE的重裝甲型機動戰士巴古托\[8\]。
 
-  - \* 武裝：光束套索（Beam Lariat）x2、光束膝撞（Beam Kneekick）x6、光束肩撞（Beam Shoulder Tackle）x8
+::高度：17.6公尺、重量：62.5噸
 
-<!-- end list -->
+::在現實中，此機體的[GUNPLA](../Page/GUNPLA.md "wikilink")發售後，有玩家嘗試將其四肢接上當時當紅的《魔法少女小圓》[鹿目圓](../Page/鹿目圓.md "wikilink")的[figma上](https://zh.wikipedia.org/wiki/figma "wikilink")，意外引發熱潮（且無須改造關節就可安裝）。日本[秋葉原](../Page/秋葉原.md "wikilink")的一號店甚至製作[POP](https://zh.wikipedia.org/wiki/POP "wikilink")，將兩者成套販賣。更稱此為「小圓重擊型」\[9\]\[10\]\[11\]
 
-  - ;AGE-1S 速戰型（Spallow）
+:\* 武裝：光束套索（Beam Lariat）x2、光束膝撞（Beam Kneekick）x6、光束肩撞（Beam Shoulder Tackle）x8
 
-      -
-        鋼彈AGE-1的高速戰特化模式，行動猶如忍者一般敏捷，仿彿將敵人玩弄於股掌之中\[12\]。
-        高度：18.7公尺、重量：33.4噸
+:;AGE-1S 速戰型（Spallow）
 
-  - \* 武裝：時雨之刃（Shiguru Blade）、針槍（Needle Gun）x2
+::鋼彈AGE-1的高速戰特化模式，行動猶如忍者一般敏捷，仿彿將敵人玩弄於股掌之中\[12\]。
 
-<!-- end list -->
+::高度：18.7公尺、重量：33.4噸
 
-  - ;AGE-1ST 強裝型（Starks）
+:\* 武裝：時雨之刃（Shiguru Blade）、針槍（Needle Gun）x2
 
-      -
-        鋼彈AGE-1的突擊戰特化模式，於《US》（文章提及）及《PSP版》登場，為速戰型的改良型態。肩部增設了推進器，增加爆炸性速度進行攻擊。但大質量的長矛增加了在高速時的危險性，所以只有極能者才能使用強裝型裝備。不過AGE系統只停留在構思階段，當時強裝型裝備並沒有被製造出來。
-        高度：18.0公尺重量：61.8噸
+:;AGE-1ST 強裝型（Starks）
 
-  - \* 武裝：根部里貝爾長矛（Root Reiber Lance）
+::鋼彈AGE-1的突擊戰特化模式，於《US》（文章提及）及《PSP版》登場，為速戰型的改良型態。肩部增設了推進器，增加爆炸性速度進行攻擊。但大質量的長矛增加了在高速時的危險性，所以只有極能者才能使用強裝型裝備。不過AGE系統只停留在構思階段，當時強裝型裝備並沒有被製造出來。
 
-<!-- end list -->
+::高度：18.0公尺重量：61.8噸
 
-  - ;AGE-1R 剃刀型（Razor）
+:\* 武裝：根部里貝爾長矛（Root Reiber Lance）
 
-      -
-        於《US》及《PSP版》新增篇章「青年菲利特篇」中登場，為速戰型的改良型態。與速戰型依靠推進力提升武器威力的取向相反，剃刀型改以大質量的刀刃作為火力輸出，刀刃的多層式結構也彌補了時雨之刃容易耗損、不能長期使用的弱點。但大質量的剃刀延長了使用時的硬直時間，所以只有極能者才能運用自如。
-        高度：18.5公尺、重量：51.6噸
+:;AGE-1R 剃刀型（Razor）
 
-  - \* 武裝：手部剃刀（Razor Blade）x2 、腳部剃刀（Leg Razor Blade）x2 、光束機關槍（Beam Machine Gun）（只於《PSP版》中使用）
+::於《US》及《PSP版》新增篇章「青年菲利特篇」中登場，為速戰型的改良型態。與速戰型依靠推進力提升武器威力的取向相反，剃刀型改以大質量的刀刃作為火力輸出，刀刃的多層式結構也彌補了時雨之刃容易耗損、不能長期使用的弱點。但大質量的剃刀延長了使用時的硬直時間，所以只有極能者才能運用自如。
 
-<!-- end list -->
+::高度：18.5公尺、重量：51.6噸
 
-  - ;AGE-1AJ 突擊外裝型（Assault Jacket）
+:\* 武裝：手部剃刀（Razor Blade）x2 、腳部剃刀（Leg Razor Blade）x2 、光束機關槍（Beam Machine Gun）（只於《PSP版》中使用）
 
-      -
-        於《US》中登場。突擊裝甲是重視在改善火力和防禦力。1號機（AJ/1）的駕駛員為菲力特·亞斯諾（紅白藍色塗裝），2號機（AJ/2）的駕駛員為拿根·杜里時（藍白色塗裝）。
-        高度：18.0公尺、重量：67.2噸
+:;AGE-1AJ 突擊外裝型（Assault Jacket）
 
-  - \* 武裝：雙管特捷步槍（Double-Barreled Dods Rifle）、護盾（Shield）、光束軍刀（Beam Saber）、光束火神炮（Beam Vulcan）、特捷發射器（Dods Launcher）
+::於《US》中登場。突擊裝甲是重視在改善火力和防禦力。1號機（AJ/1）的駕駛員為菲力特·亞斯諾（紅白藍色塗裝），2號機（AJ/2）的駕駛員為拿根·杜里時（藍白色塗裝）。
 
-<!-- end list -->
+::高度：18.0公尺、重量：67.2噸
+
+:\* 武裝：雙管特捷步槍（Double-Barreled Dods Rifle）、護盾（Shield）、光束軍刀（Beam Saber）、光束火神炮（Beam Vulcan）、特捷發射器（Dods Launcher）
 
   - RGE-B790 傑諾亞斯（Genoace）
     配合UE的出現，組織地球聯邦軍的同時所配置的地球聯邦軍量產型機動戰士，有多種配合駕駛改照的特裝款式\[13\]。本機與工業用機動戰士“土匪型”的基本框架是相同的，實際上性能與UE相差甚遠，尤其戰爭初期本機的標準武裝對UE無法產生作用更是讓聯邦軍吃盡苦頭。劇中較出名的駕駛員有“杜里時小隊”的隊長拿根·杜里時。
-      -
-        高度：18.0公尺、重量：41.2噸
+    高度：18.0公尺、重量：41.2噸
 
 <!-- end list -->
 
   - 武裝：光束噴槍（Beam Spray Gun）、特捷槍（Dods Gun）、熱能棒（Heat Stick）、護盾（Shield）
 
-<!-- end list -->
+:; RGE-B790CW 傑諾亞斯·改（Genoace -{Custom}-）
 
-  - ; RGE-B790CW 傑諾亞斯·改（Genoace -{Custom}-）
-    : 烏盧夫的專用機動戰士，而為了配合「白狼」的名字，所以統一白色系塗裝為其的特徵。
+:: 烏盧夫的專用機動戰士，而為了配合「白狼」的名字，所以統一白色系塗裝為其的特徵。
 
-      -
-        高度：18.2公尺、重量：42.0噸
+::高度：18.2公尺、重量：42.0噸
 
-  - \* 武裝：、光束噴槍ⅢB（Beam Spray Gun IIIB）、熱能棒（Heat Stick）、護盾（Shield）
+:\* 武裝：、光束噴槍ⅢB（Beam Spray Gun IIIB）、熱能棒（Heat Stick）、護盾（Shield）
 
-<!-- end list -->
+:; RGE-B790CF 傑諾亞斯狐狸·改（Genoace Fox -{Custom}-）
 
-  - ; RGE-B790CF 榭魯艾斯狐狸·改（Genoace Fox -{Custom}-）
-    : 由榭魯艾斯改良而成的砲擊型機動戰士，白色塗裝，駕駛員稱為狐狸，於《EXA-LOG》中登場和在第9話的瑪多納工房客串出場。
+:: 由傑諾亞斯改良而成的砲擊型機動戰士，白色塗裝，駕駛員稱為狐狸，於《EXA-LOG》中登場和在第9話的瑪多納工房客串出場。
 
-      -
-        高度：18.0公尺、重量：72.0噸
+::高度：18.0公尺、重量：72.0噸
 
-  - \* 武裝：光束槍（Beam Gun）x2、狐狸光束加農砲（Fox Beam Cannon）x2、4連裝導彈發射器（4-Tube Missile Launcher）x2
-
-<!-- end list -->
+:\* 武裝：光束槍（Beam Gun）x2、狐狸光束加農砲（Fox Beam Cannon）x2、4連裝導彈發射器（4-Tube Missile Launcher）x2
 
   - WMS-GEX1 G艾格傑斯（G-Exes）
     烏盧夫的專用機動戰士，為烏盧夫委託瑪多納工房製作的“超越高達的機體”。臉部類似高達，全身按照烏盧夫要求塗裝為白色，是地球聯邦軍能有效對抗UE的第二台兵器。背後的高出力噴射器，讓機體擁有高機動性的同時，力量也能與重裝甲型機動戰士巴古托互相抗衡。背部裝備有兩把高出力，被烏盧夫稱為“狼牙”的光束軍刀，擁有斬斷巴古托的重型裝甲的威力。在殲蝠戰役結束後，該機由地球聯邦軍接收並改良，瑪多納工場也開發了不少該型機的後續簡化機型
-      -
-        高度：18.2公尺、重量：47.2噸
+    高度：18.2公尺、重量：47.2噸
 
 <!-- end list -->
 
@@ -133,16 +116,16 @@
 
   - 武裝：對空光束槍、雙管光束加農砲、飛彈發射器／防光束擴散彈發射器
 
-<!-- end list -->
+:;歌姬號 強襲登陸作戰形態（Diva Assault Landing Combat Shape）
 
-  - ;歌姬號 強襲登陸作戰形態（Diva Assault Landing Combat Shape）
+  -
 
       -
-        由AGE系統進一步改造升級，為歌姬號增加了高輸出力的光束武器—光子-{爆裂}-加農砲（Photon Blaster Cannon），其威力數值比地球聯邦軍的主力武器超級米加粒子炮還要高。
+        《第一部》第13話，由AGE系統進一步改造升級，為歌姬號增加了高輸出力的光束武器—光子-{爆裂}-加農砲（Photon Blaster Cannon），其威力數值比地球聯邦軍的主力武器超級米加粒子炮還要高。
 
 <!-- end list -->
 
-  - 達爾文級宇宙軍艦（Darwin-class）
+  - <span id="Darwin"></span> 達爾文級宇宙軍艦（Darwin-class）
     地球聯邦軍的主力戰艦。第八艦隊特別分遣部隊的閃電號、榮耀號、守衛號（Blitz, Haloes, Warden）均屬此級。
 
 <!-- end list -->
@@ -187,12 +170,7 @@
 
 <!-- end list -->
 
-  - 武裝：
-
-<!-- end list -->
-
-  -
-    無（None）
+  - 武裝：無（None）
 
 ### 舊國家派閥（查拉姆、歐巴）
 
@@ -301,42 +279,37 @@
 #### 機動戰士
 
   - AGE-2 高達AGE-2（Gundam AGE-2）
-    第二部的主角機，AGE系統根據阿西姆在「圖迪亞」以高達AGE-1 基本型與域根戰鬥的數據進化衍生出來的第二代高達。可以根據狀況變形成戰機形態（Strider Form），其推進力比機動戰士型態提升三倍。A.G.151年搜索消息不明的艦隻期間，被EXA-DB的機動兵器「席德」攻擊重創，之後本機隨同駕駛員阿瑟姆一同被宇宙海盜尋獲，修復成高達AGE-2 黑獵犬型，而於本搭載於本機的AGE系統則被聯邦軍回收。
+    第二部的主角機，AGE系統根據阿西姆在「圖迪亞」以高達AGE-1 基本型與域根戰鬥的數據進化衍生出來的第二代高達。可以根據狀況變形成戰機形態（Strider Form），其推進力比機動戰士型態提升三倍。A.G.151年搜索消息不明的艦隻期間，被EXA-DB的機動兵器「席德」攻擊重創，之後本機隨同駕駛員阿瑟姆一同被宇宙海盜尋獲，修復成高達AGE-2 黑獵犬型，而原本搭載於本機的AGE系統則被聯邦軍回收。
 
-<!-- end list -->
+:; 基本型（Normal）
 
-  - ; 基本型（Normal）
-    : 配有前代鋼彈的特捷步槍兩倍功率的超級特捷步槍，在動畫第28話，阿西姆為繼承烏盧夫的意志，將機體塗裝為特務隊隊長專用機的全白色。高度：18.3公尺、重量：28.7噸
-    \* 武裝：超級特捷步槍（Hyper Dods Rifle）、光束軍刀（Beam Saber）x2、光束火神炮（Beam Vulcan）x2、護盾（Shield）
+:: 配有前代鋼彈的特捷步槍兩倍功率的超級特捷步槍，在動畫第28話，阿西姆為繼承烏盧夫的意志，將機體塗裝為特務隊隊長專用機的全白色。高度：18.3公尺、重量：28.7噸
 
-<!-- end list -->
+:\* 武裝：超級特捷步槍（Hyper Dods Rifle）、光束軍刀（Beam Saber）x2、光束火神炮（Beam Vulcan）x2、護盾（Shield）
 
-  - ; AGE-2DB 雙砲型（Double Bullet）
-    : AGE系統為了可以同時對付複數敵人衍生出來的火力特化模式。已經在硬件和軟件兩方面作出優化設計。肩部裝有特捷加農砲，拆除特捷加農砲後可以使用大型光束軍刀。腳部裝有小牛導彈。高度：18.3公尺、重量：31.1噸
-    \* 武裝：特捷加農砲（Dods Cannon）x2、大型光束軍刀（Large Beam Saber）x2、光束軍刀（Beam Saber）x2、光束火神炮（Beam Vulcan）x2、小牛導彈（Calf Missile）x4
+:; AGE-2DB 雙砲型（Double Bullet）
 
-<!-- end list -->
+:: AGE系統為了可以同時對付複數敵人衍生出來的火力特化模式。已經在硬件和軟件兩方面作出優化設計。肩部裝有特捷加農砲，拆除特捷加農砲後可以使用大型光束軍刀。腳部裝有小牛導彈。高度：18.3公尺、重量：31.1噸
 
-  - ; AGE-2A 獵神型（Artimes）
-    : 於《EXA-LOG》及《PSP版》中登場的雙砲型進階提案，為適用於據點防衛戰的特化模式。在《PSP版》中代替雙砲型成為「諾多拉姆」攻防戰中高達AGE-2的裝備。擁有戰艦級的偵察能力，兩肩加裝的大型雷達能探測出細微如宇宙塵粒的移動並加以分析，讓域根的「隱型傘」無所遁形。高度：18.3公尺、重量：34.2噸
-    \* 武裝：光束機關槍（Beam Machine Gun）x2、狩獵長管步槍（Artimes Long Range Rifle）x2、狩獵光束軍刀／光束槍（Artimes Beam Saber/Beam Gun）、光束軍刀（Beam Saber）x2、特捷加農砲（Dods Cannon）x2
+:\* 武裝：特捷加農砲（Dods Cannon）x2、大型光束軍刀（Large Beam Saber）x2、光束軍刀（Beam Saber）x2、光束火神炮（Beam Vulcan）x2、小牛導彈（Calf Missile）x4
 
-<!-- end list -->
+:; AGE-2A 獵神型（Artimes）
 
-  - ; AGE-2DC 雙刃型（Double Blade）
-    : 高達AGE-2的近戰特化模式，於《US》及《PSP版》中登場。肩部裝有導線剪刀，導線剪刀射出後可以用作中距離武器。腳部裝有熱能劍。高度：19.0公尺、重量：38.9噸
-    \* 機體武裝：導線剪刀（Wire Scissor）x2、光束軍刀（Beam Saber）x2、熱能劍（Heat Sword）x2
+:: 於《EXA-LOG》及《PSP版》中登場的雙砲型進階提案，為適用於據點防衛戰的特化模式。在《PSP版》中代替雙砲型成為「諾多拉姆」攻防戰中高達AGE-2的裝備。擁有戰艦級的偵察能力，兩肩加裝的大型雷達能探測出細微如宇宙塵粒的移動並加以分析，讓域根的「隱型傘」無所遁形。高度：18.3公尺、重量：34.2噸
 
-<!-- end list -->
+:\* 武裝：光束機關槍（Beam Machine Gun）x2、狩獵長管步槍（Artimes Long Range Rifle）x2、狩獵光束軍刀／光束槍（Artimes Beam Saber/Beam Gun）、光束軍刀（Beam Saber）x2、特捷加農砲（Dods Cannon）x2
 
-  - AGE-1SW 高達AGE-1 巨劍型（Gundam AGE-1 Swordia）
-    高達AGE-1的近戰特化模式，於《MOE》及《PSP版》「阿西姆篇」中登場。高度：18.3公尺、重量：44.3噸
+:; AGE-2DC 雙刃型（Double Blade）
 
-<!-- end list -->
+:: 高達AGE-2的近戰特化模式，於《US》及《PSP版》中登場。肩部裝有導線剪刀，導線剪刀射出後可以用作中距離武器。腳部裝有熱能劍。高度：19.0公尺、重量：38.9噸
 
-  - 武裝：利伯塔之劍（Liberta Sword）、光束軍刀（Beam Saber）x2、盾牌（Shield）
+:\* 機體武裝：導線剪刀（Wire Scissor）x2、光束軍刀（Beam Saber）x2、熱能劍（Heat Sword）x2
 
-<!-- end list -->
+:; AGE-1SW 高達AGE-1 巨劍型（Gundam AGE-1 Swordia）
+
+:: 高達AGE-1的近戰特化模式，於《MOE》及《PSP版》「阿西姆篇」中登場。高度：18.3公尺、重量：44.3噸
+
+:\* 武裝：利伯塔之劍（Liberta Sword）、光束軍刀（Beam Saber）x2、盾牌（Shield）
 
   - <span id="Flat"></span> AGE-1F 鋼彈AGE-1 素體型（Gundam AGE-1 Flat）
     鋼彈AGE-1（基本型）移除AGE系統後的型態，原本胸口的A標誌改以白色裝甲版覆蓋，頭部攝影機的發光色也從綠色變為黃色。性能與移除AGE系統前相比並無變化，但與近年研發的各式新型MS相較已算較弱。特殊裝備「傑夫特飛彈發射器」為「諾多拉姆」攻防戰時使用的裝備，用以破壞達尼斯的推進系統。高度：18.0公尺、重量：43.4噸
@@ -354,13 +327,11 @@
 
   - 武裝：特捷槍（Dods Gun）、光束火神砲（Beam Vulcan）x2、光束軍刀（Beam Saber）、米加雷射炮（Mega Beam Launcher）、護盾（Shield）
 
-<!-- end list -->
+:; RGE-C350S 夏多爾偵察型（Shaldoll Scout）
 
-  - ; RGE-C350S 夏多爾偵察型（Shaldoll Scout）
-    : 為夏多爾改改造而成的特種作戰型機動戰士，由「域根檢測技術發展委員會」開發，深綠色塗裝，於《EXA-LOG》中登場。由少數沙魯多魯偵察兵進入域根的勢力進行突襲，同時進行預測和收集數據，當偵察任務完成後是將會迅速撤退。相比標準的沙魯多魯‧改，配備較厚的裝甲和更強大的推進器，這樣就可以提高駕駛員的生存率。高度：18.2公尺、重量：60.2噸
-    \* 武裝：戰鬥步槍（Combat Rifle）、4連裝導彈發射器（4-Tube Missile Launcher）、光束軍刀（Beam Saber）、多功能發射器（Multi-Purpose Launcher）、護盾（Shield）
+:: 為夏多爾改改造而成的特種作戰型機動戰士，由「域根檢測技術發展委員會」開發，深綠色塗裝，於《EXA-LOG》中登場。由少數沙魯多魯偵察兵進入域根的勢力進行突襲，同時進行預測和收集數據，當偵察任務完成後是將會迅速撤退。相比標準的沙魯多魯‧改，配備較厚的裝甲和更強大的推進器，這樣就可以提高駕駛員的生存率。高度：18.2公尺、重量：60.2噸
 
-<!-- end list -->
+:\* 武裝：戰鬥步槍（Combat Rifle）、4連裝導彈發射器（4-Tube Missile Launcher）、光束軍刀（Beam Saber）、多功能發射器（Multi-Purpose Launcher）、護盾（Shield）
 
   - RGE-B890 傑諾亞斯Ⅱ（Genoace II）
     地球聯邦軍的量產型機動戰士，沃爾夫的傑諾亞斯特裝型的衍生型，與前代機一樣為橘色與白色塗裝（奧布拉特·羅寧機為藍色與白色塗裝）。高度：18.2公尺、重量：42.0噸
@@ -398,11 +369,11 @@
 
 :\* 武裝：根部里貝爾長矛（Root Reiber Lance）
 
-  - ; RGE-G1100C 加農型（Cannon）
-    : 亞德魯的衍生型，以炮擊支援為定位的量產型機動戰士，手部和腳部為黑色塗裝。高度：18.0公尺、重量：45.0噸
-    \* 武裝：特捷加農砲（Dods Cannon）x2、光束軍刀（Beam Saber）x2、3連裝導彈發射器（3-Tube Missile Launcher）x2、護盾（Shield）x2
+:; RGE-G1100C 加農型（Cannon）
 
-<!-- end list -->
+:: 亞德魯的衍生型，以炮擊支援為定位的量產型機動戰士，手部和腳部為黑色塗裝。高度：18.0公尺、重量：45.0噸
+
+:\* 武裝：特捷加農砲（Dods Cannon）x2、光束軍刀（Beam Saber）x2、3連裝導彈發射器（3-Tube Missile Launcher）x2、護盾（Shield）x2
 
   - WMS-GB5 G包瑟（G-Bouncer）
     沃爾夫於第2部駕駛的和給地球聯邦軍的老練駕駛員的量產型專用機動戰士，沃爾夫他的是白色塗裝，雖然名稱上會讓人聯想到G-Exes，但本機是以高达AGE-1 速戰型為基礎開發的量產型，在開發系譜上其實與G艾格傑斯完全無關。
@@ -412,11 +383,11 @@
 
   - 武裝：特捷步槍（Dods Rifle）、光束軍刀（Beam Saber）x2、護盾（Shield）、時雨之刃（Shiguru Blade）
 
-<!-- end list -->
+:; G-Bouncer Deos（G-Bouncer Deos）
 
-  - ; G-Bouncer Deos（G-Bouncer Deos）
-    : 地球聯邦軍以G-Bouncer作原形的極能者專用機動戰士，淺綠色塗裝，屬於試驗型。
-    \* 武裝：特捷步槍（Dods Rifle）、光束軍刀（Beam Saber）x2、護盾（Shield）
+:: 地球聯邦軍以G-Bouncer作原形的極能者專用機動戰士，淺綠色塗裝，屬於試驗型。
+
+:\* 武裝：特捷步槍（Dods Rifle）、光束軍刀（Beam Saber）x2、護盾（Shield）
 
 #### 艦艇
 
@@ -425,7 +396,7 @@
 
 <!-- end list -->
 
-  - 阿瑪迪烏斯（Amadeus）
+  - <span id="Amadeus"></span> 阿瑪迪烏斯（Amadeus）
     地球聯邦軍的主力級宇宙軍艦，和迪娃女神號屬於同一型號，但體型較大，外表塗裝為藍白色。和迪娃女神號相比增加了一個線性彈射器，同時有更多主炮塔。
 
 <!-- end list -->
@@ -435,18 +406,14 @@
 <!-- end list -->
 
   - 達爾文級宇宙軍艦（Darwin-class）
-    地球聯邦軍的主力戰艦。
-
-<!-- end list -->
-
-  - 武裝：雙管光束加農砲（2-Barrel Beam Cannons）x9、導彈發射管（Missile Launcher Tubes）x32
+    參照「[第一部－地球聯邦軍－艦艇－達爾文級宇宙軍艦（Darwin-class）](https://zh.wikipedia.org/wiki/#Darwin "wikilink")」
 
 ### 域根
 
 #### 機動戰士
 
   - xvv-xcr 戰達斯R（Zedas R）／xvv-xcm 戰達斯M（Zedas M）
-    戰達斯的改良型，相比於戰達斯有更好的機動性能。戰達斯R為謝哈特·加列圖的專用機動戰士，為紅黑色塗裝。戰達斯M為X-Rounder部隊「八大法師（Magicians 8）」的專用機動戰士，為黃黑色塗裝。高度：19.3公尺、重量：32.6噸
+    戰達斯的改良型，相比於戰達斯有更好的機動性能。戰達斯R為謝哈特·加列圖的專用機動戰士，為紅黑色塗裝。戰達斯M為X-Rounder部隊「魔術師8（Magicians 8）」的專用機動戰士，為黃黑色塗裝。高度：19.3公尺、重量：32.6噸
     戰達斯R改良後也無法跟上謝哈特的反應速度，所以於第20話退役。8台戰達斯M於A.G.141年先後被全數擊毀。
 
 <!-- end list -->
@@ -506,47 +473,36 @@
 
   - AGE-3 鋼彈AGE-3 基本型（Gundam AGE-3 Normal）
     第三部的主角機，由AGE系統根據奇歐的模擬戰鬥數據而進化衍生出來的第三代鋼彈，由核心戰機與各種G-Wear結合成各種型態的可分離合體機種。
+      - 基本型（Normal）
+        由核心戰機與G攔截機（G-Cepter）結合而成、配有以光子-{爆裂}-加農砲的技術製成的薛瑪西斯步槍。
+        高度：18.5公尺、重量：68.4噸
+    <!-- end list -->
+      - 武裝：薛瑪西斯步槍（SigMaxiss Rifle）、布拉斯迪加農砲（Blustia Cannon，又稱魔道加農砲）、光束軍刀（Beam Saber）x2
+    <!-- end list -->
+      - AGE-3F 要塞型（ Fortress）
+        鋼彈AGE-3的陸戰砲擊特化模式，由G氣墊戰機（G-Hopper）與核心戰機結合而成，其火力超越了鋼彈AGE-2 雙砲型兩倍以上。由於腳部裝備了懸浮裝置，適合在沙漠或濕地等地形戰鬥。
+        高度：18.5公尺、重量：73.0噸
+    <!-- end list -->
+      - 武裝：薛瑪西斯加農砲（SigMaxiss Cannon）x4
+    <!-- end list -->
+      - AGE-3O 軌道型（Orbital）
+        鋼彈AGE-3的宇宙戰高速特化模式，由G毒蛇戰機（G-Viper）與核心戰機結合而成，主要適用於宇宙作戰。加強了主要推進器，同時身體各部位增設大量推進器，可在宇宙高速移動及改變飛行方向。同時由於原先的加農炮填充時間太長 , 在宇宙環境中極為不利，故改成降低輸出，但是增加切割能力的薛瑪西斯長程加農砲。
+        第36話被森多拉古擄獲，並且被維根解析。第39話和鋼彈列基路斯交戰時，由於鋼彈AGE-3跟不上奇歐的反應速度，因此受到重創，沒有遭到破壞的軀幹部位在戰鬥中遭到棄置，隨後因受損過重而誘爆。
+        高度：18.5公尺、重量：69.2噸
+    <!-- end list -->
+      - 武裝：薛瑪西斯特長加農砲（SigMaxiss Long Cannon）、光束軍刀（Beam Saber）x2
+    <!-- end list -->
+      - AGE-3L 拉古那型（Laguna）
+        鋼彈AGE-3的宇宙戰遠程攻擊特化模式，於《EXA-LOG》及《PSP版》中登場。
+        高度：24.7公尺、重量：220.0噸
+    <!-- end list -->
+      - 武裝：不列顛步槍（Britannias Rifle）、感應砲集裝箱（Funnel Container）x12、導彈發射器（Missile Launcher）
 
 <!-- end list -->
 
-  - ; 基本型（Normal）
-
-:: 由核心戰機與G攔截機（G-Cepter）結合而成、配有以光子-{爆裂}-加農砲的技術製成的薛瑪西斯步槍。
-
-::高度：18.5公尺、重量：68.4噸
-
-:\* 武裝：薛瑪西斯步槍（SigMaxiss Rifle）、布拉斯迪加農砲（Blustia Cannon，又稱魔道加農砲）、光束軍刀（Beam Saber）x2
-
-  - ; AGE-3F 要塞型（ Fortress）
-
-:: 鋼彈AGE-3的陸戰砲擊特化模式，由G氣墊戰機（G-Hopper）與核心戰機結合而成，其火力超越了鋼彈AGE-2 雙砲型兩倍以上。由於腳部裝備了懸浮裝置，適合在沙漠或濕地等地形戰鬥。
-
-::高度：18.5公尺、重量：73.0噸
-
-:\* 武裝：薛瑪西斯加農砲（SigMaxiss Cannon）x4
-
-  - ; AGE-3O 軌道型（Orbital）
-
-:: 鋼彈AGE-3的宇宙戰高速特化模式，由G毒蛇戰機（G-Viper）與核心戰機結合而成，主要適用於宇宙作戰。加強了主要推進器，同時身體各部位增設大量推進器，可在宇宙高速移動及改變飛行方向。同時由於原先的加農炮填充時間太長 , 在宇宙環境中極為不利，故改成降低輸出，但是增加切割能力的薛瑪西斯長程加農砲。
-
-:: 第36話被森多拉古擄獲，並且被維根解析。第39話和鋼彈列基路斯交戰時，由於鋼彈AGE-3跟不上奇歐的反應速度，因此受到重創，沒有遭到破壞的軀幹部位在戰鬥中遭到棄置，隨後因受損過重而誘爆。
-
-::高度：18.5公尺、重量：69.2噸
-
-:\* 武裝：薛瑪西斯特長加農砲（SigMaxiss Long Cannon）、光束軍刀（Beam Saber）x2
-
-  - ; AGE-3L 拉古那型（Laguna）
-
-:: 鋼彈AGE-3的宇宙戰遠程攻擊特化模式，於《EXA-LOG》及《PSP版》中登場。
-
-::高度：24.7公尺、重量：220.0噸
-
-:\* 武裝：不列顛步槍（Britannias Rifle）、感應砲集裝箱（Funnel Container）x12、導彈發射器（Missile Launcher）
-
   - AGE-FX 鋼彈AGE-FX（Gundam AGE-FX）
     由AGE系統所引導出的鋼彈最終進化型態，FX的意思是「Follow X-Rounder（追隨X Rounder）」，為X Rounder專用機動戰士。和鋼彈AGE-3一樣由核心戰機和主體組成，同時透過裝甲輕量化以提高機體的機動性。
-      -
-        高度：18.5公尺\* 重量：63.0噸
+    高度：18.5公尺、重量：63.0噸
     主武裝為史坦德格爾步槍，其體積雖然較小，但火力及射程皆超越了薛瑪西斯步槍，並可透過換裝切換成「一般型態」、「充能型態」和「火箭砲型態」。另外備有X Rounder專用武裝「C-感應砲」，在攻擊之餘亦可組成護盾和力牆。值得一提的是，此C-感應砲並沒有射擊的功能，純粹是斬切用途的感應式兵器。
     能發動「FX爆發模式（FX Burst Mode）」，全身會變身藍色，除了控制C-感應砲精確度下降外，力量、火力及機動性都會大幅提升。
 
@@ -567,343 +523,115 @@
 
   - AGE-1F 鋼彈AGE-1 素體型（Gundam AGE-1 Flat）
     參照「[第二部－地球聯邦軍－機動戰士－AGE-1F 鋼彈AGE-1 素體型](https://zh.wikipedia.org/wiki/#Flat "wikilink")」
-    就AGE-3問世的當時而言已經是古董級MS的機體。
-
-:; AGE-1G 鋼彈AGE-1 光輝型（Gundam AGE-1 Glansa）
-
-:\* 機體武裝：
-
-:: 護盾步槍／光束軍刀（Shield Rifle/Beam Saber）x2
-
-:: 光束軍刀／光束匕首（Beam Saber/Beam Dagger）x2
-
-:: 導彈發射器（Missile Launcher）x6
-
-:\* 特殊裝備：
-
-:: 格拉司特發射器（Glastron Launcher）x2
-
-:\* 簡介：
-
-  -
-
-      -
-        鋼彈AGE-1 素體型的改造型，大幅改善了機體結構和性能。
-        身體及四肢覆蓋了防光束裝甲（可在必要時卸除），可抵禦對方的光束射擊武器，而兩把護盾步槍的威力相比以前的德斯步槍更強，還能在背部裝備加掛的格拉司通發射器，安裝格拉斯特發射器後稱為「鋼彈AGE-1 全備光輝型（Full Glansa） 」
-
-<!-- end list -->
-
-  - 高度：18.0公尺
-  - 重量：93.1噸
+    就AGE-3問世的當時而言已經是古董級的MS。
+      - AGE-1G 鋼彈AGE-1 光輝型（Gundam AGE-1 Glansa）
+        鋼彈AGE-1 素體型的改造型，大幅改善了機體結構和性能。身體及四肢覆蓋了防光束裝甲（可在必要時卸除），可抵禦對方的光束射擊武器，而兩把護盾步槍的威力相比以前的德斯步槍更強，還能在背部裝備加掛的格拉司通發射器，安裝格拉斯特發射器後稱為「鋼彈AGE-1 全備光輝型（Full Glansa） 」
+        高度：18.0公尺、重量：93.1噸
+    <!-- end list -->
+      - 武裝：護盾步槍／光束軍刀（Shield Rifle/Beam Saber）x2、光束軍刀／光束匕首（Beam Saber/Beam Dagger）x2、導彈發射器（Missile Launcher）x6
+      - 特殊裝備：格拉司特發射器（Glastron Launcher）x2
 
 <!-- end list -->
 
   - RGE-G2000X 克蘭雪原型機（Prototype Clanche）
+    地球聯邦軍以鋼彈AGE-2的基本設計為基礎開發的可變型機動戰士，克蘭雪的原型機，塗裝為淡藍色，於《EXA-LOG》中登場。
+    裝備了兩對和鋼彈AGE-2同型的肩部可動式機翼，但受限于联邦军的生产、加工技术，机体整合方面存在不小的问题，从一开始就受到输出控制系统故障的困扰。性能方面也是远远不如高达AGE-2，量產型超級德斯步槍的攻擊力和精確度也低劣於鋼彈AGE-2的超級德斯步槍，导致该机非常不受机师们的欢迎。
+    此機体现了作中联邦军技术人员过渡依赖AGE系统、使AGE系统对联邦系MS技术发展产生制约的典型案例之一，再加上菲利特·明日野已經從地球聯邦軍退役無法提供技术意見，使高达AGE-2的量产还原尝试以失败告终。
+    高度：17.6公尺、重量：31.5噸
 
 <!-- end list -->
 
-  - 機體武裝：
+  - 武裝：量產型超級德斯步槍（Hyper Dods Rifle Mass Production Type）、光束軍刀（Beam Saber）x2、光束火神砲（Beam Vulcan）x2、德斯加農砲（Dods Cannon）x4、護盾（Shield）
 
 <!-- end list -->
 
-  -
-    量產型超級德斯步槍（Hyper Dods Rifle Mass Production Type）
-    光束軍刀（Beam Saber）x2
-    光束火神砲（Beam Vulcan）x2
-    德斯加農砲（Dods Cannon）x4
-    護盾（Shield）
+  - RGE-G2100 克蘭雪（Clanche）
+    地球聯邦軍開發新型的量產型變型機動戰士，衍生自以AGE-2為基礎研發的克蘭雪原型機，為了進一步削低成本而去除了背部加農砲與肩部的四枚機翼，主武器的德斯步槍也減短了槍身長度。塗裝為橘色。
+    是地球聯邦第一款擁有變型系統的量產型機動戰士，在大氣層內有極佳的飛行能力。但由于驾驶此类可变式MS需要经过特别的训练才可，大部分普通机师并不太愿意驾驶该型机，更多人还是更愿意驾驶同一时间开发的、不具备变形机能的泛用型MS—亞黛爾MK-II，因此相比亞黛爾MK-II，克蘭雪的生产總数量并不多
+    高度：17.6公尺、重量：26.5噸
 
 <!-- end list -->
 
-  - 簡介：
+  - 武裝：、德斯步槍（Dods Rifle）、光束軍刀（Beam Saber）x3、光束火神砲（Beam Vulcan）x2、護盾（Shield）
 
-<!-- end list -->
+:; RGE-G2100C 克蘭雪特裝型（Clanche -{Custom}-）
 
-  -
-    地球聯邦軍以鋼彈AGE-2的基本設計為基礎開發新型的原型變型機動戰士，克蘭雪的原型機，塗裝為淡藍色，於《EXA-LOG》中登場。
-    裝備了兩對和鋼彈AGE-2同型的肩部可動式機翼，但受限于联邦军的生产、加工技术，从一开始就受到输出控制系统故障的困扰，导致该机非常不受机师们的欢迎，而性能方面也是远远不如高达AGE-2。
-    可是量產型超級德斯步槍的攻擊力和精確度也低劣於鋼彈AGE-2的超級德斯步槍，而在机体整合方面也存在不小的问题，这也是体现了联邦军技术人员过渡依赖AGE系统、指使AGE系统对联邦系MS技术发展产生制约的典型案例之一，再加上菲利特·明日野已經從地球聯邦軍退役無法提供技术意見，使对高达AGE-2的量产还原尝试最终以失败告终。
+:: 史歷克·亞碧斯和地球聯邦軍王牌駕駛員的專用量產型機動戰士，克蘭雪的淡綠色塗裝衍生型，配備了德斯加農砲，可是只能在飛躍形態時使用。
 
-<!-- end list -->
+:: 在第47話時史歷克·亞碧斯的克蘭雪特裝型被後方的維根戰艦撞擊而造成機身重創並卡在維根戰艦中，為了大局著想，被歌姬號的光子-{爆裂}-加農砲擊毀。
 
-  - 高度：17.6公尺
-  - 重量：31.5噸
+:: 高度：17.6公尺、重量：28.5噸
 
-:; RGE-G2100 克蘭雪（Clanche）
-
-:\* 機體武裝：
-
-:: 德斯步槍（Dods Rifle）
-
-:: 光束軍刀（Beam Saber）x3
-
-:: 光束火神砲（Beam Vulcan）x2
-
-:: 護盾（Shield）
-
-:\* 簡介：
-
-  -
-
-      -
-        地球聯邦軍開發新型的量產型變型機動戰士，衍生自以AGE-2為基礎研發的克蘭雪原型機，為了進一步削低成本而去除了背部加農砲與肩部的四枚機翼，主武器的德斯步槍也減短了槍身長度。塗裝為橘色。
-        是地球聯邦第一款擁有變型系統的量產型機動戰士，在大氣層內有極佳的飛行能力。但由于驾驶此类可变式MS需要经过特别的训练才可，大部分普通机师并不太愿意驾驶该型机，更多人还是更愿意驾驶同一时间开发的、不具备变形机能的泛用型MS—RGE-G1500 亞黛爾MK-II，因此相比亞黛爾MK-II，使RGE-G2100 克蘭雪的生产總数量并不多
-
-<!-- end list -->
-
-  - 高度：17.6公尺
-  - 重量：26.5噸
-
-:;; RGE-G2100C 格朗西特裝型（Clanche -{Custom}-）
-
-::\* 機體武裝：
-
-::: 德斯步槍（Dods Rifle）
-
-::: 光束軍刀（Beam Saber）x3
-
-::: 光束火神砲（Beam Vulcan）x2
-
-::: 德斯加農砲（Dods Cannon）x2
-
-::: 護盾（Shield）
-
-::\* 簡介：
-
-  -
-
-      -
-        史歷克·亞碧斯和地球聯邦軍王牌駕駛員的專用量產型機動戰士，格朗西的衍生型，塗裝為淡綠色。
-        配備了德斯加農砲，可是只能在飛躍形態時使用。
-        在第47話時史歷克·亞碧斯的格朗西特裝型被後方的維根戰艦撞擊而造成機身重創並卡在維根戰艦中，為了大局著想，被歌姬號的光子-{爆裂}-加農砲擊毀。
-
-<!-- end list -->
-
-  - 高度：17.6公尺
-  - 重量：28.5噸
-
-<!-- end list -->
+:\* 武裝：德斯步槍（Dods Rifle）、光束軍刀（Beam Saber）x3、光束火神砲（Beam Vulcan）x2、德斯加農砲（Dods Cannon）x2、護盾（Shield）
 
   - RGE-G1500 亞黛爾MK-II（Adele Mk-II）
+    亞黛爾的現代化改進型，深綠色塗裝，腳上裝有車輪，可在陸地上高速移動，為地球上的主力陸戰用機動戰士。也可裝備空中飛行裝置進行空中作戰。
+    高度：18.0公尺、重量：42.4噸
 
 <!-- end list -->
 
-  - 機體武裝：
+  - 武裝：德斯卡賓槍（Dods Carbine）、光束軍刀（Beam Saber）x2、護盾（Shield）
 
-<!-- end list -->
+:; RGE-G1500 亞黛爾MK-II（宇宙用）（Adele Mk-II (Space Type)）
 
-  -
-    德斯卡賓槍（Dods Carbine）
-    光束軍刀（Beam Saber）x2
-    護盾（Shield）
+:: 亞黛爾MK-II的宇宙用型態，深藍色塗裝，腳上的車輪改為高機動推進器，可在宇宙中高速移動，為宇宙中的主力空間戰機動戰士。
 
-<!-- end list -->
+:: 高度：18.0公尺、重量：42.4噸
 
-  - 簡介：
-
-<!-- end list -->
-
-  -
-    亞黛爾的現代化改進型，深綠色塗裝，腳上裝有車輪，可在陸地上高速移動，為地球上的主力陸戰用機動戰士。
-    可裝備空中飛行裝置進行空中作戰。
-
-<!-- end list -->
-
-  - 高度：18.0公尺
-  - 重量：42.4噸
-
-<!-- end list -->
-
-  - ; RGE-G1500 亞黛爾MK-II（宇宙用）（Adele Mk-II (Space Type)）
-
-:\* 機體武裝：
-
-:: 德斯卡賓槍（Dods Carbine）
-
-:: 光束軍刀（Beam Saber）x2
-
-:: 護盾（Shield）
-
-:\* 簡介：
-
-  -
-
-      -
-        亞黛爾MK-II的宇宙用型態，深藍色塗裝，腳上的車輪改為高機動推進器，可在宇宙中高速移動，為宇宙中的主力空間戰機動戰士。
-
-<!-- end list -->
-
-  - 高度：18.0公尺
-  - 重量：42.4噸
-
-<!-- end list -->
+:\* 武裝：德斯卡賓槍（Dods Carbine）、光束軍刀（Beam Saber）x2、護盾（Shield）
 
   - RGE-B893CO 傑諾亞斯 O型特裝型（Genoace O--{Custom}-）
-
-<!-- end list -->
-
-  - 機體武裝：
-
-<!-- end list -->
-
-  -
-    德斯步槍（Dods Rifle）
-    薛瑪西斯步槍（SigMaxiss Rifle）（小說版）
-    光束軍刀（Beam Saber）
-    護盾（Shield）
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
-    歐布萊特·羅連的專用機動戰士，傑諾亞斯Ⅱ（歐布萊特·羅連機）的改良型，塗裝為藍色。
-    改良了身體各部分和系統結構，可裝備空中飛行裝置進行空中作戰。而它的德斯步槍（Dods Rifle）是採用的是以鋼彈AGE-2的基本設計型所使用的超級德斯步槍为基础的改进型。
+    歐布萊特·羅連的專用機動戰士，傑諾亞斯Ⅱ（歐布萊特·羅連機）的改良型，塗裝為藍色。改良了身體各部分和系統結構，可裝備空中飛行裝置進行空中作戰。而它的德斯步槍（Dods Rifle）是採用以鋼彈AGE-2基本型所使用的超級德斯步槍为基础的改进型。
     於第48話與梵法老西亞交戰時互相重創，然後被維根以拉·古拉美斯與第二月球連結後發射的迪古瑪哲隆砲擊毀。
+    高度：18.2公尺、重量：48.2噸
 
 <!-- end list -->
 
-  - 高度：18.2公尺
-  - 重量：48.2噸
+  - 武裝：德斯步槍（Dods Rifle）、薛瑪西斯步槍（SigMaxiss Rifle）（小說版）、光束軍刀（Beam Saber）、護盾（Shield）
 
 #### 艦艇
 
   - 迪娃女神號 強襲登陸作戰形態（Diva Assault Landing Combat Shape）
-
-<!-- end list -->
-
-  - 武裝：
-
-<!-- end list -->
-
-  -
-    對空光束槍（Anti-Air Guns）
-    雙管光束加農砲（2-Barrel Beam Cannons）x3
-    3管裝導彈發射器／防光束擴散彈發射器（3-Tube Missile Launcher/Anti-Beam Dispersal Shell Launchers）x2
-    4管裝導彈發射器／防光束擴散彈發射器（4-Tube Missile Launcher/Anti-Beam Dispersal Shell Launchers）x2
-    光子爆裂加農砲（Photon Blaster Cannon）
-    等離子潛航導彈（Plasma Diver Missile）
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
-    由AGE系統進一步改造升級，為迪娃女神號增加了高輸出力的光束武器—光子爆裂加農砲（Photon Blaster Cannon）。
-
-    地球聯邦軍的舊型宇宙軍艦，外表塗裝為紅白色，有2個線性彈射器。
-
-    艦上裝備了AGE建構者，主要用於支援高達AGE-3和高達AGE-FX。
-
-    由於性能落後，故早已退役，並被保存在奧利巴諾斯。
-
-    但由於有定期保養，仍有一定的作戰能力。
-
+    參照「[第一部－地球聯邦軍－艦艇－歌姬號（Diva）](https://zh.wikipedia.org/wiki/#Diva "wikilink")」
+    由於性能落後，故早已退役，並被保存在奧利巴諾斯。由於有定期保養，仍保有作戰能力。
     於第48話被域根以拉.古拉美斯與第二月球連結後發射的迪古瑪哲隆砲擊沉，而所有船員則及時撤離至宇宙海賊比西迪安的戰艦巴朗洛克。
 
+<!-- end list -->
+
   - 阿瑪迪烏斯（Amadeus）
+    參照「[第二部－地球聯邦軍－艦艇－阿瑪迪烏斯（Amadeus）](https://zh.wikipedia.org/wiki/#Amadeus "wikilink")」
 
 <!-- end list -->
 
-  - 武裝：
-
-<!-- end list -->
-
-  -
-    對空光束槍（Anti-Air Guns）
-    雙管光束加農砲（2-Barrel Beam Cannons）x10
-    3管裝導彈發射器／防光束擴散彈發射器（3-Tube Missile Launcher/Anti-Beam Dispersal Shell Launchers）x2
-    4管裝導彈發射器／防光束擴散彈發射器（4-Tube Missile Launcher/Anti-Beam Dispersal Shell Launchers）x2
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
-    地球聯邦軍的主力級宇宙軍艦，和迪娃女神號屬於同一型號，但體型較大，外表塗裝為藍白色。
-    和迪娃女神號相比增加了一個線性彈射器，同時有更多主炮塔。
   - Dyaus-class
-    地球聯邦軍的新型宇宙軍艦，也是迪娃女神號的簡化量產型號，只有一個線性彈射器
+    《第三部》登場的地球聯邦軍新型宇宙軍艦，迪娃女神號的簡化量產型號，只有一個線性彈射器
 
 <!-- end list -->
 
-  - 武裝：
-
-<!-- end list -->
-
-  -
-    對空光束槍（Anti-Air Guns）
-    雙管光束加農砲（2-Barrel Beam Cannons）x4
-    3管裝導彈發射器／防光束擴散彈發射器（3-Tube Missile Launcher/Anti-Beam Dispersal Shell Launchers）x2
+  - 武裝：對空光束槍（Anti-Air Guns）、雙管光束加農砲（2-Barrel Beam Cannons）x4、3管裝導彈發射器／防光束擴散彈發射器（3-Tube Missile Launcher/Anti-Beam Dispersal Shell Launchers）x2
 
 <!-- end list -->
 
   - 量產型迪娃女神級宇宙軍艦（Diva-class）
-    地球聯邦軍的主力級宇宙軍艦，也是迪娃女神號的量產型號，能依戰況自由切換強襲登陸作戰形態
+    《第四部》登場的地球聯邦軍主力級宇宙軍艦，也是迪娃女神號的量產型號，能依戰況自由切換強襲登陸作戰形態
 
 <!-- end list -->
 
-  - 武裝：
-
-<!-- end list -->
-
-  -
-    對空光束槍（Anti-Air Guns）
-    雙管光束加農砲（2-Barrel Beam Cannons）x3
-    3管裝導彈發射器／防光束擴散彈發射器（3-Tube Missile Launcher/Anti-Beam Dispersal Shell Launchers）x2
-    4管裝導彈發射器／防光束擴散彈發射器（4-Tube Missile Launcher/Anti-Beam Dispersal Shell Launchers）x2
+  - 武裝：對空光束槍（Anti-Air Guns）、雙管光束加農砲（2-Barrel Beam Cannons）x3、3管裝導彈發射器／防光束擴散彈發射器（3-Tube Missile Launcher/Anti-Beam Dispersal Shell Launchers）x2、4管裝導彈發射器／防光束擴散彈發射器（4-Tube Missile Launcher/Anti-Beam Dispersal Shell Launchers）x2
 
 ### 宇宙海賊比西迪安
 
 #### 機動戰士
 
-  - AGE-2DH [高達AGE-2 黑獵犬型](https://zh.wikipedia.org/wiki/高達AGE-2_黑獵犬型 "wikilink")（Gundam AGE-2 Dark Hound）
-
-<!-- end list -->
-
-  - 機體武裝：
-
-<!-- end list -->
-
-  -
-    特捷長矛（Dods Lancer）
-      -
-        特捷槍（Dods Gun）x2
-    光束劍（Beam Saber）x2
-    光束火神砲（Beam Vulcan）x2
-    震動錨（Anchor Shot）x2
-
-<!-- end list -->
-
-  - 特殊裝備：
-
-<!-- end list -->
-
-  -
-    發光裝置（Flash Eye）
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
+  - AGE-2DH 高達AGE-2 黑獵犬型（Gundam AGE-2 Dark Hound）
     比西迪安領導人「亞修船長」（阿西姆·亞斯諾）的專用機動戰士，也於《追憶的席德》中登場。
-    使用高達AGE-2的殘骸修復而成，以近戰裝備為主，保留了變型系統，顏色改為低視認度的黑色。
-    原本AGE系統的位置被一個髑髏標誌取代，內藏眩惑用的發光裝置。
-    震動錨為有線射出武器，捕捉敵人後可以發出高壓電擊。
+    使用高達AGE-2的殘骸修復而成，以近戰裝備為主，保留了變型系統，顏色改為低視認度的黑色。原本AGE系統的位置被一個髑髏標誌取代，內藏眩惑用的發光裝置。武裝震動錨為有線射出武器，捕捉敵人後可以發出高壓電擊。
+    高度：18.6公尺、重量：32.1噸
 
 <!-- end list -->
 
-  - 高度：18.6公尺
-  - 重量：32.1噸
+  - 武裝：特捷長矛（Dods Lancer）、特捷槍（Dods Gun）x2、光束劍（Beam Saber）x2、光束火神砲（Beam Vulcan）x2、震動錨（Anchor Shot）x2
+  - 特殊裝備：發光裝置（Flash Eye）
 
 <!-- end list -->
 
@@ -911,705 +639,250 @@
 
 <!-- end list -->
 
-  - 機體武裝：
-
-<!-- end list -->
-
-  -
-    特捷破壞砲（Dods Buster）
-    光束劍（Beam Saber）
-    光束火神砲（Beam Vulcan）x2
-    光束斧子（Beam Axe）（於《US》中登場）
-
-<!-- end list -->
-
+  - 武裝：特捷破壞砲（Dods Buster）、光束劍（Beam Saber）、光束火神砲（Beam Vulcan）x2、光束斧子（Beam Axe）（於《US》中登場）
   - 簡介：
 
 <!-- end list -->
 
   -
-    由宇宙海賊比西迪安管有的沙魯多魯‧改修改型，顏色改為低視認度的黑色，也於《US》及《追憶的席德》中登場。
-    擁有域根的「隱型傘」技術，能以光學迷彩隱藏行蹤，雷達也無法探測。
-    可裝備空中飛行裝置進行空中作戰。
-
-<!-- end list -->
-
-  - 高度：18.2公尺
-  - 重量：41.2噸
+    由宇宙海賊比西迪安管有的沙魯多魯‧改的修改型，顏色改為低視認度的黑色，也於《US》及《追憶的席德》中登場。
+    擁有域根的「隱型傘」技術，能以光學迷彩隱藏行蹤，並避開雷達探測。也可裝備空中飛行裝置進行空中作戰。
+    高度：18.2公尺、重量：41.2噸
 
 <!-- end list -->
 
   - BMS-004 G-EXES 傑克艾治型（G-Exes Jackedge）
+    宇宙海賊比西迪安管有的G-Exes修改型，顏色改為低視認度的黑色，也於《US》及《追憶的席德》中登場。
+    擁有域根的「隱型傘」技術，有光學迷彩隱藏行蹤，並能避開雷達探測。也可裝備空中飛行裝置進行空中作戰。
+    高度：18.2公尺、重量：46.2噸
 
 <!-- end list -->
 
-  - 機體武裝：
-
-<!-- end list -->
-
-  -
-    特捷步槍IIB（Dods Rifle IIB）
-    光束劍（Beam Saber）x2
-    光束火神砲（Beam Vulcan）x2
-    導彈發射器（Missile Launcher）x4
-    護盾（Shield）
-    光束戰斧（Beam Tomahawk）（於《US》中登場）
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
-    由宇宙海賊比西迪安管有的G-Exes修改型，顏色改為低視認度的黑色，也於《US》及《追憶的席德》中登場。
-    擁有域根的「隱型傘」技術，能以光學迷彩隱藏行蹤，雷達也無法探測。
-    可裝備空中飛行裝置進行空中作戰。
-
-<!-- end list -->
-
-  - 高度：18.2公尺
-  - 重量：46.2噸
+  - 武裝：特捷步槍IIB（Dods Rifle IIB）、光束劍（Beam Saber）x2、光束火神砲（Beam Vulcan）x2、導彈發射器（Missile Launcher）x4、護盾（Shield）、光束戰斧（Beam Tomahawk）（於《US》中登場）
 
 <!-- end list -->
 
   - BMS-005 G-賽佛斯（G-Xiphos）
-
-<!-- end list -->
-
-  - 機體武裝：
-
-<!-- end list -->
-
-  -
-    特捷破壞砲H（Dods Buster H）
-    高功率熱能劍（High Powered Heat Sword）
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
     由宇宙海賊比西迪安管有的G-Bouncer修改型，顏色改為低視認度的黑色，於《US》及《追憶的薜德》中登場。
     在A.G.151年，被EXA-DB的機動兵器「席德」攻擊重創。（《追憶的席德》中提及。）
+    高度：18.4公尺、重量：36.8噸
 
 <!-- end list -->
 
-  - 高度：18.4公尺
-  - 重量：36.8噸
+  - 武裝：特捷破壞砲H（Dods Buster H）、高功率熱能劍（High Powered Heat Sword）
 
 :; BMS-005SS G-賽佛斯（蛇劍裝備型）（G-Xiphos(Snake Sword Equipment Type)）
-
-:\* 機體武裝：
-
-:: 蛇劍（Snake Sword）
-
-:: 護盾（Shield）
-
-  -
-
-      -
-        光束槍（Beam Gun）
-        大型爪（Large Claw）x3
-
-:\* 簡介：
 
   -
 
       -
         G-賽佛斯的蛇劍裝備型，顏色改為低視認度的黑色，於《US》中登場。
 
-<!-- end list -->
+    高度：18.4公尺、重量：36.8噸
 
-  - 高度：18.4公尺
-  - 重量：36.8噸
+      - 武裝：蛇劍（Snake Sword）、護盾（Shield）、光束槍（Beam Gun）、大型爪（Large Claw）x3
 
 #### 艦艇
 
   - 巴朗諾克（Baronche）
+    比西迪安的旗艦，全身黑色，底部有一塊長型的紅色刀刃。也於《追憶的薜德》中登場。
+    艦上擁有域根的「隱型傘」技術，除能以光學迷彩隱藏行蹤外，還能避開雷達探測。根據《追憶的薜德》裡的敘述，原本是與歌姬號同一時期建造的地球聯邦軍所建。
 
 <!-- end list -->
 
-  - 武裝：
-
-<!-- end list -->
-
-  -
-    對空光束槍（Anti-Air Guns）
-    三管光束加農砲（3-Barrel Beam Cannons）x7
-    底部刀刃（Ramming Blade）
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
-    比西迪安的旗艦，全身黑色，底部有一塊長型的紅色刀刃，也於《[追憶的薜德](https://zh.wikipedia.org/wiki/追憶的薜德 "wikilink")》中登場。
-    艦上擁有域根的「隱型傘」技術，能以光學迷彩隱藏行蹤，雷達也無法探測。根據《[追憶的薜德](https://zh.wikipedia.org/wiki/追憶的薜德 "wikilink")》的敘述原本是地球聯邦軍所建，與歌姬號同一時期所建造
+  - 武裝：對空光束槍（Anti-Air Guns）、三管光束加農砲（3-Barrel Beam Cannons）x7、底部刀刃（Ramming Blade）
 
 ### 域根
 
 #### 機動戰士
 
   - xvt-zgc 基拉格（Ghirarga）／xvt-rlc 基拉格改（Ghirarga -{Custom}-）
+    謝哈特·加列圖的專用機動戰士，紅色塗裝。其大修理完成後修改為綠色塗裝的基拉格改，變成利爾·萊特的專用機動戰士。
+    保留了人型設計，擁有高度機動性。增設腦電波操控系統「極能傳送器」後可進入「X模式」，在左右肘、膝、翼增加了和系統對應的基拉格浮游砲生產裝置，可產生並發射出無數光波狀光束，和法老西亞的法老西亞浮游砲的原理有所不同。
+    在第43話，基拉加浮游砲被潔拉多·斯布列根強奪操縱，其後更被高達AGE-2 黑獵犬型的特捷長矛刺中而重創。在第48話，被傑諾亞斯 O型·改以光束軍刀一刀擊毀。
+    高度：20.3公尺、重量：53.8噸
 
 <!-- end list -->
 
-  - 機體武裝：
-
-<!-- end list -->
-
-  -
-    光束火神砲／光束軍刀（Beam Vulcan/Beam Saber）x2
-    光束破壞砲（Beam Buster）
-    基拉加矛（Ghirarga Spear）
-    基拉加尾（Ghirarga Tail）
-    基拉加浮游砲（Ghirarga Bit）
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
-    謝哈特·加列圖的專用機動戰士（基拉格），紅色塗裝；其大修理完成後成為利爾·萊特的專用機動戰士（基拉格改），修改為綠色塗裝。
-    保留了人型設計，擁有高度機動性。
-    增設腦電波操控系統「極能傳送器」後可進入「X模式」，在左右肘、膝、翼增加了和系統對應的基拉格浮游砲生產裝置，可產生並發射出無數光波狀光束，和法老西亞的法老西亞浮游砲的原理有所不同。
-    在第43話，基拉加浮游砲被潔拉多·斯布列根強奪操縱，其後更被高達AGE-2 黑獵犬型的特捷長矛刺中而重創。
-    在第48話，被傑諾亞斯 O型·改以光束軍刀一刀擊毀。
-
-<!-- end list -->
-
-  - 高度：20.3公尺
-  - 重量：53.8噸
+  - 武裝：光束火神砲／光束軍刀（Beam Vulcan/Beam Saber）x2、光束破壞砲（Beam Buster）、基拉加矛（Ghirarga Spear）、基拉加尾（Ghirarga Tail）、基拉加浮游砲（Ghirarga Bit）
 
 <!-- end list -->
 
   - xvm-fzc 鋼彈列基路斯（Gundam Legilis）
-
-<!-- end list -->
-
-  - 機體武裝：
-
-<!-- end list -->
-
-  -
-    光束火神砲（Beam Vulcan）x2
-    光束火神砲／光束軍刀（Beam Vulcan/Beam Saber）x2
-    光束破壞砲（Beam Buster）
-    尾部列基路斯加農砲（Legilis Cannon）
-    列基路斯光束步槍（Legilis Rifle）
-    列基路斯盾牌（Legilis Shield）
-    列基路斯浮游砲（Legilis Bit）
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
-    菲扎爾·伊謝魯根特的專用機動戰士，其後成為謝哈特·加列圖的專用機動戰士，為域根解析高达AGE-3 軌道型後再加入EXA-DB的技術而製造的機動戰士。
+    菲扎爾·伊謝魯根特的專用機動戰士，其後成為謝哈特·加列圖的專用機動戰士，為域根解析高达AGE-3 軌道型後再加入EXA-DB的技術而製造的機動戰士，性能已遠遠超越高達AGE-3
     列基路斯盾牌內藏與基拉格同型的浮游砲生產裝置，頭部、背部翼可與身體分離成**列基路斯核心戰機**，可是劇中沒有使用過。
-    性能已遠遠超越高達AGE-3。
-    於第48話被鋼彈AGE-2 黑獵犬型使用所有武裝擊毀。
-    於《MOE》中，謝哈特成為駕駛員後修改為紅色塗裝。
+    於第48話被鋼彈AGE-2 黑獵犬型使用所有武裝擊毀·於《MOE》中，謝哈特成為駕駛員後修改為紅色塗裝。
+    高度：19.1公尺、重量：71.2噸
 
 <!-- end list -->
 
-  - 高度：19.1公尺
-  - 重量：71.2噸
+  - 武裝：光束火神砲（Beam Vulcan）x2、光束火神砲／光束軍刀（Beam Vulcan/Beam Saber）x2、光束破壞砲（Beam Buster）、尾部列基路斯加農砲（Legilis Cannon）、列基路斯光束步槍（Legilis Rifle）、列基路斯盾牌（Legilis Shield）、列基路斯浮游砲（Legilis Bit）
 
 :; xvm-fzc-zgc 鋼彈列基路斯 R（Gundam Legilis R）
 
-:\* 機體武裝：
+:: 謝哈特·加列圖的專用機動戰士，鋼彈列基路斯的修改型，紅色塗裝，於《EXA-LOG》中登場。
 
-:: 光束火神砲（Beam Vulcan）x2
+:: 列基路斯光束步槍與列基路斯盾牌更改為列基路斯矛。在左右肘、膝、翼增加了和系統對應的列基路斯浮游砲生產裝置。
 
-:: 光束火神砲／光束軍刀（Beam Vulcan/Beam Saber）x2
+:: 高度：19.1公尺、重量：76.0噸
 
-:: 光束破壞砲（Beam Buster）
-
-:: 尾部列基路斯加農砲（Legilis Cannon）
-
-:: 列基路斯矛（Legilis Spear）
-
-:: 列基路斯浮游砲（Legilis Bit）
-
-:\* 簡介：
-
-  -
-
-      -
-        謝哈特·加列圖的專用機動戰士，鋼彈列基路斯的修改型，修改為紅色塗裝，於《EXA-LOG》中登場。
-        列基路斯光束步槍與列基路斯盾牌更改為列基路斯矛。
-        在左右肘、膝、翼增加了和系統對應的列基路斯浮游砲生產裝置。
-
-<!-- end list -->
-
-  - 高度：19.1公尺
-  - 重量：76.0噸
-
-<!-- end list -->
+:\* 武裝：光束火神砲（Beam Vulcan）x2、光束火神砲／光束軍刀（Beam Vulcan/Beam Saber）x2、光束破壞砲（Beam Buster）、尾部列基路斯加農砲（Legilis Cannon）、列基路斯矛（Legilis Spear）、列基路斯浮游砲（Legilis Bit）
 
   - xvm-zbc 森多拉古（Xamdrag）
-
-<!-- end list -->
-
-  - 機體武裝：
-
-<!-- end list -->
-
-  -
-    光束火神砲（Beam Vulcan Guns）x10
-    森多拉古加農砲（Xamdrag Cannon）
-    森多拉古尾（Xamdrag Tail）
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
     贊納多·比哈度的專用機動戰士，體型相當龐大，特徵為肥大短足，深藍色塗裝。
     於第47話被初次使用FX爆發模式的高達AGE-FX重創。
-    目前推定於第48話於艦內被域根以拉.古拉美斯與第二月球連結後發射的迪古瑪哲隆砲擊毀。
+    高度：26.2公尺、重量：110.0噸
 
 <!-- end list -->
 
-  - 高度：26.2公尺
-  - 重量：110.0噸
+  - 武裝：光束火神砲（Beam Vulcan Guns）x10、森多拉古加農砲（Xamdrag Cannon）、森多拉古尾（Xamdrag Tail）
 
 <!-- end list -->
 
   - xvb-fnc 梵法老西亞（Fawn Farsia）
-
-<!-- end list -->
-
-  - 機體武裝：
-
-<!-- end list -->
-
-  -
-    光束火神砲／光束軍刀（Beam Vulcan/Beam Saber）x2
-    梵法老西亞權杖（Fawn Farsia Baton）
-    尾部梵法老西亞實體劍（Fawn Farsia Sword）
-    擴散光束砲（Diffuse Beam Cannon）
-    梵法老西亞浮游砲（Fawn Farsia Bit）x5
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
-    芙拉姆·拿拉的專用機動戰士，淡桃紅色塗裝，法老西亞的衍生型，為極能者專用。
-    梵法老西亞權杖為浮游砲生產裝置，同時可產生光束長鞭。
+    芙拉姆·拿拉的專用機動戰士，淡桃紅色塗裝，法老西亞的衍生型，為極能者專用。梵法老西亞權杖為浮游砲生產裝置，同時可產生光束長鞭。
     於第48話與傑諾亞斯 O型·改交戰時互相重創，然後被域根以拉.古拉美斯與第二月球連結後發射的迪古瑪哲隆砲擊毀。
+    高度：16.2公尺、重量：29.9噸
 
 <!-- end list -->
 
-  - 高度：16.2公尺
-  - 重量：29.9噸
+  - 武裝：光束火神砲／光束軍刀（Beam Vulcan/Beam Saber）x2、梵法老西亞權杖（Fawn Farsia Baton）、尾部梵法老西亞實體劍（Fawn Farsia Sword）、擴散光束砲（Diffuse Beam Cannon）、梵法老西亞浮游砲（Fawn Farsia Bit）x5
 
 <!-- end list -->
 
   - xvm-dac 吉爾斯貝因（Jilsbain）
-
-<!-- end list -->
-
-  - 機體武裝：
-
-<!-- end list -->
-
-  -
-    光束火神砲／光束軍刀（Beam Vulcan/Beam Saber）x2
-    祖爾斯班光束槍／光束軍刀（Jilsbain Gun/Beam Saber）
-    尾部祖爾斯班實體劍（Jilsbain Sword）
-    光束破壞砲（Beam Buster）
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
     極能者部隊的專用機動戰士，黑色塗裝，傑德拿的衍生型，為極能者專用。
+    高度：20.0公尺、重量：46.7噸
 
 <!-- end list -->
 
-  - 高度：20.0公尺
-  - 重量：46.7噸
+  - 武裝：光束火神砲／光束軍刀（Beam Vulcan/Beam Saber）x2、祖爾斯班光束槍／光束軍刀（Jilsbain Gun/Beam Saber）、尾部祖爾斯班實體劍（Jilsbain Sword）、光束破壞砲（Beam Buster）
 
 <!-- end list -->
 
   - ovm-gd 古爾德（Glud）
-
-<!-- end list -->
-
-  - 機體武裝：
-
-<!-- end list -->
-
-  -
-    光束火神砲／光束軍刀（Beam Vulcan/Beam Saber）x2
-    飛彈發射器（Missile Launcher）
-    尾部古爾德加農炮（Glud Cannon）
-    光束破壞砲（Beam Buster）
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
     砲擊戰專用機動戰士，淺紫色塗裝，拉.古拉美斯戰役中出場，於《US》及《PSP版》中登場。
+    高度：19.8公尺、重量：89.0噸
 
 <!-- end list -->
 
-  - 高度：19.8公尺
-  - 重量：89.0噸
+  - 武裝：光束火神砲／光束軍刀（Beam Vulcan/Beam Saber）x2、飛彈發射器（Missile Launcher）、尾部古爾德加農炮（Glud Cannon）、光束破壞砲（Beam Buster）
 
 <!-- end list -->
 
   - xvx-ooo 古盧多林（Gurdolin）
-
-<!-- end list -->
-
-  - 機體武裝：
-
-<!-- end list -->
-
-  -
-    光束火神砲／光束軍刀（Beam Vulcan/Beam Saber）x2
-    光束鑽頭（Beam Scraper）
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
-    哥多門·泰納姆的專用機動戰士，黃色塗裝，無頭無腳，只會橫衝直撞地攻擊。
+    哥多門·泰納姆的專用機動戰士，黃色塗裝，無頭無腳的未完成機，只會橫衝直撞地攻擊。
     於第47話被格朗西·改零距離連開多槍擊毀。
 
 <!-- end list -->
 
-  - 高度：11.5公尺
-  - 重量：185.0噸
-
-:; ovm-pp 黃金古盧多林完美型（Golden Gurdolin Perfect）
-
-:\* 機體武裝：
-
-:: 光束鑽頭（Beam Scraper）
-
-:: 全方位導彈發射系統（Multi Directional Missile Launcher System）
-
-:\* 簡介：
-
-  -
-
-      -
-        偵察型機動戰士，別名「GGP」，金色塗裝，古盧多林的衍生型，於《EXA-LOG》中登場。
-        總共生產30台，戰後全用於對火星的全天候監視巡邏和工程活動。
+  - 武裝：光束火神砲／光束軍刀（Beam Vulcan/Beam Saber）x2、光束鑽頭（Beam Scraper）
 
 <!-- end list -->
 
-  - 高度：11.5公尺
-  - 重量：215.0噸
+  -
+    高度：11.5公尺、重量：185.0噸
+      - ovm-pp 黃金古盧多林完美型（Golden Gurdolin Perfect）
+        偵察型機動戰士，別名「GGP」，金色塗裝，古盧多林的衍生型，於《EXA-LOG》中登場。
+        總共生產30台，戰後全用於對火星的全天候監視巡邏和工程活動。
+        高度：11.5公尺、重量：215.0噸
+    <!-- end list -->
+      - 武裝：光束鑽頭（Beam Scraper）、全方位導彈發射系統（Multi Directional Missile Launcher System）
 
 <!-- end list -->
 
   - ovv-af 達納金（Danazine）
+    域根的新型量產型機動戰士，有綠色和紫色塗裝，以直接攻擊地球本土為製作目的，亦適用於宇宙作戰，採用獸型設計。
 
 <!-- end list -->
 
-  - 機體武裝：
-
-<!-- end list -->
-
-  -
-    光束火神砲／光束軍刀（Beam Vulcan/Beam Saber）x2
-    光束火神砲／光束射手（Beam Vulcan/Beam Shooter）
-    達納金加農砲（Danazine Cannon）
-    達納金飛旋（Danazine Spinner）
-
-<!-- end list -->
-
-  - 簡介：
+  - 武裝：光束火神砲／光束軍刀（Beam Vulcan/Beam Saber）x2、光束火神砲／光束射手（Beam Vulcan/Beam Shooter）、達納金加農砲（Danazine Cannon）、達納金飛旋（Danazine Spinner）
 
 <!-- end list -->
 
   -
-    域根的新型量產型機動戰士，有綠色和紫色塗裝，以直接攻擊地球本土為製作目的，亦適用於宇宙作戰，獸型設計。
-
-<!-- end list -->
-
-  - 高度：18.4公尺
-  - 重量：69.5噸
-
-:; ovv-gaf 格爾金（Gurruzine）
-
-:: 光束火神砲／光束軍刀（Beam Vulcan/Beam Saber）x2
-
-:: 光束火神砲／光束射手（Beam Vulcan/Beam Shooter）
-
-:: 格爾金加農砲（Gurruzine Cannon）
-
-:: 格爾金特長加農砲（Gurruzine Long Cannon）
-
-:: 格爾金飛旋（Gurruzine Spinner）
-
-:\* 簡介：
-
-  -
-
-      -
+    高度：18.4公尺、重量：69.5噸
+      - ovv-gaf 格爾金（Gurruzine）
         域根的新型陸戰型機動戰士，達納金的衍生型，紅色塗裝，於《US》中登場。
-        由於腳部裝備了四部懸浮裝置，改善了陸戰的性能和移除了機翼組件。
-        古盧茹捷特長加農砲可以遠距離狙擊至8000米遠。
-
-<!-- end list -->
-
-  - 高度：18.2公尺
-  - 重量：79.0噸
+        由於腳部裝備了四部懸浮裝置，改善了陸戰的性能和移除了機翼組件。其古盧茹捷特長加農砲可以遠距離狙擊至8000米遠。
+        高度：18.2公尺、重量：79.0噸
+    <!-- end list -->
+      - 武裝：光束火神砲／光束軍刀（Beam Vulcan/Beam Saber）x2、光束火神砲／光束射手（Beam Vulcan/Beam Shooter）、格爾金加農砲（Gurruzine Cannon）、格爾金特長加農砲（Gurruzine Long Cannon）、格爾金飛旋（Gurruzine Spinner）
 
 <!-- end list -->
 
   - ovw-cc 哥梅爾（Gomel）
-
-<!-- end list -->
-
-  - 機體武裝：
-
-<!-- end list -->
-
-  -
-    時雨之爪（Shiguru Claw）x2
-    飛彈發射器（Missile Launcher）x2
-    哥梅爾加農砲（Gomel Cannon）
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
     精銳部隊「幻影3」在沙漠作戰時使用的量產型機動戰士，土黃色塗裝，擁有變型功能，可在沙中高速潛航。
     於第31話迪文•拉治的哥梅爾被AGE-3鋼彈AGE-3基本型反擊並且以希格瑪西斯加農砲零距離給擊毀。
+    高度：17.7公尺、重量：77.0噸
 
 <!-- end list -->
 
-  - 高度：17.7公尺
-  - 重量：77.0噸
+  - 武裝：時雨之爪（Shiguru Claw）x2、飛彈發射器（Missile Launcher）x2、哥梅爾加農砲（Gomel Cannon）
 
 <!-- end list -->
 
   - ovw-dc 烏羅佐（Wrozzo）／ovw-dc-2gc 烏羅佐R（Wrozzo R）
+    水陸兩用的量產型機動戰士，擁有變型功能，在陸上亦可高速移動。曾計劃裝上等離子粒子炸彈，用於炸毀新聯邦軍總司令部羅斯特羅蘭。
+    謝哈特·加列圖的專用機（烏洛素R）為紅色塗裝。謝哈特的部下的專用機（烏洛素）為白色塗裝。一般的烏洛素為深綠色塗裝。
+    高度：18.0公尺、重量：78.5噸
 
 <!-- end list -->
 
-  - 機體武裝：
-
-<!-- end list -->
-
-  -
-    時雨之爪（Shiguru Claw）x2
-    飛彈發射器（Missile Launcher）x2
-    烏洛素加農砲（Wrozzo Cannon）
-
-<!-- end list -->
-
-  - 特殊裝備：
-
-<!-- end list -->
-
-  -
-    等離子粒子炸彈（Plasma Particle Bomb）
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
-    水陸兩用的量產型機動戰士，擁有變型功能，在陸上亦可高速移動。
-    可以裝上等離子粒子炸彈，曾計劃用於炸毀新聯邦軍總司令部羅斯特羅蘭。
-    謝哈特·加列圖的專用機（烏洛素R）為紅色塗裝。
-    謝哈特的部下的專用機（烏洛素）為白色塗裝。
-    一般的烏洛素為深綠色塗裝。
-
-<!-- end list -->
-
-  - 高度：18.0公尺
-  - 重量：78.5噸
+  - 武裝：時雨之爪（Shiguru Claw）x2、飛彈發射器（Missile Launcher）x2、烏洛素加農砲（Wrozzo Cannon）
+  - 特殊裝備：等離子粒子炸彈（Plasma Particle Bomb）
 
 <!-- end list -->
 
   - ovm-lce 雷岡納（Reganner）
-
-<!-- end list -->
-
-  - 機體武裝：
-
-<!-- end list -->
-
-  -
-    光束火神砲／光束軍刀（Beam Vulcan/Beam Saber）x2
-    肩部光束加農砲（Beam Cannon）x2
-    尾部光束加農砲（Beam Cannon）
-    雷岡納加農砲（Reganner Cannon）
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
     由迪凡斯改造而成的量產型機動戰士，綠色塗裝，比迪凡斯有更多射擊裝備，被稱為移動火藥庫。
+    高度：38.5公尺、重量：1205.0噸
 
 <!-- end list -->
 
-  - 高度：38.5公尺
-  - 重量：1205.0噸
+  - 武裝：光束火神砲／光束軍刀（Beam Vulcan/Beam Saber）x2、肩部光束加農砲（Beam Cannon）x2、尾部光束加農砲（Beam Cannon）、雷岡納加農砲（Reganner Cannon）
 
 <!-- end list -->
 
   - XMS-005 提艾爾法（Thieleva）
-
-<!-- end list -->
-
-  - 機體武裝：
-
-<!-- end list -->
-
-  -
-    德斯步槍（Dods Rifle）
-    光束軍刀（Beam Saber）x2
-    護盾（Shield）
-    T 浮游砲（T Bit）x2
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
     潔拉多·斯布列根的極能者專用機動戰士，黃綠色塗裝，以G-Bouncer為母體針對極能者能力改良的機體。
-    原本是聯邦軍的機體，在月面基地司令官倒戈後落入維根軍手中。
-    背包上裝有兩組可分離的T 浮游砲筴艙，前端的刀刃能迴轉貫穿目標。
+    原本是聯邦軍的機體，在月面基地司令官倒戈後落入維根軍手中。背包上裝有兩組可分離的T 浮游砲筴艙，前端的刀刃能迴轉貫穿目標。
     第43話被鋼彈AGE-1 古蘭沙型以盾牌步槍一槍擊毀。
+    高度：18.8公尺、重量：36.2噸
 
 <!-- end list -->
 
-  - 高度：18.8公尺
-  - 重量：36.2噸
+  - 武裝：德斯步槍（Dods Rifle）、光束軍刀（Beam Saber）x2、護盾（Shield）、T 浮游砲（T Bit）x2
 
 <!-- end list -->
 
   - xvg-xxx 維根基亞（Vagan Gear）／維根基亞席德（Vagan Gear Sid）
-
-<!-- end list -->
-
-  - 機體武裝：
-
-<!-- end list -->
-
-  -
-    熱能掛鉤（Heat Hook）x2
-    Δ光束砲（Delta Gazer）
-    光束加農砲（Beam Cannon）x6（維根基亞席德）
-    導彈發射器（Missile Launcher）x16（維根基亞席德）
-    黑暗羽毛（Dark Feather）（維根基亞席德）
-
-<!-- end list -->
-
-  - 特殊裝備：
-
-<!-- end list -->
-
-  -
-    自我修復系統（Self Repair System）（維根基亞席德）
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
     澤拉·金斯的專用機動戰士，全黑色塗裝，拉.古拉美斯戰役的最終王牌。
     最後於第49話被使用FX爆發模式的高達AGE-FX連同席德擊毀，而澤拉·金斯則被高達AGE-FX救出。
+    高度：31.0公尺、重量：231.9噸
 
 <!-- end list -->
 
-  - 高度：31.0公尺
-  - 重量：231.9噸
+  - 武裝（共通）：熱能掛鉤（Heat Hook）x2、Δ光束砲（Delta Gazer）
+  - 武裝（維根基亞席德）：光束加農砲（Beam Cannon）x6、導彈發射器（Missile Launcher）x16、黑暗羽毛（Dark Feather）
+  - 特殊裝備：自我修復系統（Self Repair System）（維根基亞席德）
 
 #### 艦艇／移動要塞
 
   - 拉.古拉美斯（La Gramis）
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
-    第三部及第四部登場的域根超大型要塞，為域根地球壓制軍的總部。
-    其迪古瑪哲隆砲足以一擊摧毀地球聯邦軍總司令部「巨輪基地」。
+    第三部及第四部登場的域根超大型要塞，為域根地球壓制軍的總部。其迪古瑪哲隆砲足以一擊摧毀地球聯邦軍總司令部「巨輪基地」。
     原本為了縮短迪古瑪哲隆砲的發射間隔，而和第二月球連接，卻因為澤拉·金斯的失控而受損。最後於第49話為了守護第二月球的兩軍將其與第二月球手動分離，隨後因受損過重而炸毀。
 
 ### EXA-DB
 
   - 席德（Sid）
-
-<!-- end list -->
-
-  - 機體武裝：
-
-<!-- end list -->
-
-  -
-    光束加農砲（Beam Cannon）x6
-    導彈發射器（Missile Launcher）x16
-    黑暗羽毛（Dark Feather）
-
-<!-- end list -->
-
-  - 特殊裝備：
-
-<!-- end list -->
-
-  -
-    自我修復系統（Self Repair System）
-
-<!-- end list -->
-
-  - 簡介：
-
-<!-- end list -->
-
-  -
-    EXA-DB製造的防衛用無人駕駛機動兵器。
-    席德具有獨特的自我修復能力，甚至可以透過EXA-DB的資料「自我進化」（類似AGE系統）。
+    EXA-DB製造的防衛用無人駕駛機動兵器。具有獨特的自我修復能力，甚至可以透過EXA-DB的資料「自我進化」（類似AGE系統）。
     最後於第49話與維根機兵一起被使用FX爆發模式的高達AGE-FX擊毀。
+
+<!-- end list -->
+
+  - 武裝：光束加農砲（Beam Cannon）x6、導彈發射器（Missile Launcher）x16、黑暗羽毛（Dark Feather）
+  - 特殊裝備：自我修復系統（Self Repair System）
 
 ## 註解
 
@@ -1638,11 +911,8 @@
 7.
 8.
 9.
-
 10.
-
 11.
-
 12.
 13.
 14.

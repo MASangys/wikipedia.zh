@@ -96,13 +96,9 @@ KDZ1型电力动车组采用交—直流电传动，[接触网导线上的](http
 [Category:中国电力动车组](https://zh.wikipedia.org/wiki/Category:中国电力动车组 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
 6.
-
 7.

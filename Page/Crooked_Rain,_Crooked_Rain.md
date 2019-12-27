@@ -59,8 +59,6 @@
 [Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

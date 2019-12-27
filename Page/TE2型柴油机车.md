@@ -48,14 +48,11 @@ TE2型机车采用与TE1型机车相同的牵引发电机、辅助直流发电�
 [Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:哈尔科夫制铁路机车](https://zh.wikipedia.org/wiki/Category:哈尔科夫制铁路机车 "wikilink") [Category:Bo-Bo+Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo+Bo-Bo軸式機車 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.
-
 7.
 8.
 9.

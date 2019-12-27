@@ -20,13 +20,15 @@ HK4的基本設計據信是來自於[毛瑟](../Page/毛瑟.md "wikilink") HSC�
 
   - [HK VP70手槍](../Page/HK_VP70手槍.md "wikilink")
   - [HK P7手槍](../Page/HK_P7手槍.md "wikilink")
-  - [HK P9手槍](../Page/HK_P9手槍.md "wikilink")
-  - [HK P9S手槍](../Page/HK_P9S手槍.md "wikilink")
+  - [HK P9半自動手槍](https://zh.wikipedia.org/wiki/HK_P9半自動手槍 "wikilink")
+  - [HK P9S半自動手槍](https://zh.wikipedia.org/wiki/HK_P9S半自動手槍 "wikilink")
   - [HK USP手槍](../Page/HK_USP手槍.md "wikilink")
-  - [HK Mk 23 Mod 0手槍](../Page/HK_Mk_23_Mod_0手槍.md "wikilink")
-  - [HK P2000 SK手槍](../Page/HK_P2000_SK手槍.md "wikilink")
-  - [HK P30手槍](../Page/HK_P30手槍.md "wikilink")
-  - [HK45手槍](../Page/HK45手槍.md "wikilink")
+  - [HK Mk 23 Mod 0半自動手槍](../Page/HK_Mk_23_Mod_0半自動手槍.md "wikilink")
+  - [HK P2000半自動手槍](https://zh.wikipedia.org/wiki/HK_P2000半自動手槍 "wikilink")
+  - [HK P2000 SK半自動手槍](https://zh.wikipedia.org/wiki/HK_P2000_SK半自動手槍 "wikilink")
+  - [HK P30半自動手槍](https://zh.wikipedia.org/wiki/HK_P30半自動手槍 "wikilink")
+  - [HK VP9半自動手槍](../Page/HK_VP9半自動手槍.md "wikilink")
+  - [HK45半自動手槍](https://zh.wikipedia.org/wiki/HK45半自動手槍 "wikilink")
 
 ## 外部連結
 

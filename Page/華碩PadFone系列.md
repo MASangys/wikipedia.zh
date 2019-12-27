@@ -459,6 +459,27 @@ IPS螢幕</p></td>
 
 ## 爭議
 
+### PadFone 2死機問題
+
+從2012年12月開始，到3月達到最高峰，部分PadFone 2因記憶體與軟體相容的問題，使用者使用一段時間後，出現不明關機後死機，資料完全損毀無法救回。\[1\]視不同情況，在維修更換主機板後，可能出現無法使用官方解鎖程式、或Device Tracker、OTA、並喪失更新的能力等狀況。\[2\]
+
+2013年3月22日，華碩電腦於其官方網站發布的消費者公告中表示：華碩電腦已於二月中旬更新軟體以解決記憶體相容問題，而於2013年2月28日前購買PadFone 2的消費者可在2013年6月30日前至華碩皇家俱樂部免費更換手機零件。\[3\]但直至4月，仍有傳出二度、甚至三度死機的災情。
+
+2013年5月15日，華碩電腦於其官方網站發布的消費者公告中表示：遇到無法開機問題的消費者可延長手機本體一年保固(含原本保固共計兩年)，但亦有消費者反映送修後無獲得延長保固一年之差別待遇情況。\[4\]
+
+### The New Padfone Infinity A86 升級問題
+
+#### 升級Android 4.4後問題
+
+1.  2014年9月26日，華碩電腦釋出V11.2.5.12更新檔，但是許多人更新後不斷的系統當機並重開機。華碩電腦釋出V11.2.5.20更新檔才解決，但是發生安裝APP時發生"儲存空間不足"錯誤訊息，目前尚未解決
+2.  NFC支付感應功能被拿掉，但是華碩電腦拒絕回復，表示此功能不完善。
+
+#### 升級Android 5.0的事件
+
+1.  2015年5月21日，華碩公告宣布取消 ASUS The New Padfone Infinity A86 的 Android 5.0 Lollipop 升級計畫，並將原因歸咎於 Qualcomm Snapdragon 800(MSM8974) 處理器不支援 Android 5.0 平台，而華碩原廠表示，除了華碩使用的 MSM8974 ，其餘的 Qualcomm Snapdragon 800 處理器(MSM8974AA MSM8974AB MSM8974AC)才支援 Android 5.0 升級，ASUS也向手機王等網站出示高通原廠的官方文件，確實MSM8974不在Android L升級支援名單，但對於SONY和LG卻有相同處理器機種成功升級Android L，華碩並未多做回應。
+2.  經由手機王和高通確認，高通原廠表示：所有 Qualcomm Snapdragon 800 處理器均可升級。依據華碩原廠轉述高通表示：MSM8974 確實無法依循高通常規的套裝方案進行 Android 5.0 版本升級，但若廠商取得通用的韌體資源，亦可自行開發 Android 5.0 更新。但由於這樣的做法並非高通原始設計，開發過程相對複雜、遭遇到的問題可能也會比較多，後續風險也需由廠商承擔。 但以上的說法僅為華碩官方之轉述說法，非高通官方正式說法，對於SONY、三星和LG卻有相同處理器機種成功升級Android L的說法仍舊無法解釋。
+3.  2015年5月26日，華碩再次公告說明ASUS The New Padfone Infinity A86 的 Android 5.0 Lollipop 升級計畫經跟高通原廠協商後，預計於2015年第三季升級，華碩也表示高通將會協助華碩取得通用的韌體資源以開發Android L版本。
+
 ### 不實廣告
 
 PadFone S的廣告宣稱有電子錢包功能，實際上未具備此功能，2016年3月2號華碩遭公平會開罰新台幣350萬罰緩，包括神腦公司、優達斯公司。
@@ -467,4 +488,9 @@ PadFone S的廣告宣稱有電子錢包功能，實際上未具備此功能，20
 
 ## 外部連結
 
-[Category:華碩產品](https://zh.wikipedia.org/wiki/Category:華碩產品 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
+[Category:華碩手機](https://zh.wikipedia.org/wiki/Category:華碩手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
+
+1.
+2.
+3.
+4.

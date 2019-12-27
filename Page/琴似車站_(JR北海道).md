@@ -85,7 +85,7 @@
 
 ## 外部連結
 
-  - [琴似車站（JR北海道）](http://www.jrhokkaido.co.jp/network/barrier/055/kotoni-map.html)
+  - [琴似車站（JR北海道）](https://web.archive.org/web/20091022062418/http://www.jrhokkaido.co.jp/network/barrier/055/kotoni-map.html)
 
 [Category:日本鐵路車站_Ko](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Ko "wikilink") [Category:函館本線車站](https://zh.wikipedia.org/wiki/Category:函館本線車站 "wikilink") [Category:西區鐵路車站_(札幌市)](https://zh.wikipedia.org/wiki/Category:西區鐵路車站_\(札幌市\) "wikilink") [Category:1880年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1880年啟用的鐵路車站 "wikilink") [Category:官營幌內鐵道車站](https://zh.wikipedia.org/wiki/Category:官營幌內鐵道車站 "wikilink") [Category:北海道炭礦鐵道車站](https://zh.wikipedia.org/wiki/Category:北海道炭礦鐵道車站 "wikilink")
 

@@ -129,7 +129,7 @@
 </tr>
 <tr class="odd">
 <td><p>9月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2000年夏季奥林匹克运动会" title="wikilink">2000年夏季奥林匹克运动会Doodle系列</a>：拿着火炬的<a href="../Page/袋鼠.md" title="wikilink">袋鼠</a></p></td>
+<td><p><a href="../Page/2000年夏季奥林匹克运动会.md" title="wikilink">2000年夏季奥林匹克运动会</a>Doodle系列：拿着火炬的<a href="../Page/袋鼠.md" title="wikilink">袋鼠</a></p></td>
 <td><p>全球</p></td>
 <td><p><a href="http://www.google.com/doodles/2000-summer-olympic-games-in-sydney-opening-ceremony">http://www.google.com/doodles/2000-summer-olympic-games-in-sydney-opening-ceremony</a></p></td>
 </tr>
@@ -141,7 +141,7 @@
 </tr>
 <tr class="odd">
 <td><p>9月17日</p></td>
-<td><p>2000年夏季奥林匹克运动会Doodle系列：<a href="https://zh.wikipedia.org/wiki/2000年夏季奥林匹克运动会体操比赛" title="wikilink">吊环</a></p></td>
+<td><p>2000年夏季奥林匹克运动会Doodle系列：<a href="../Page/2000年夏季奥林匹克运动会体操比赛.md" title="wikilink">吊环</a></p></td>
 <td><p>全球</p></td>
 <td><p><a href="http://www.google.com/doodles/2000-summer-olympic-games-in-sydney-gymnastics">http://www.google.com/doodles/2000-summer-olympic-games-in-sydney-gymnastics</a></p></td>
 </tr>
@@ -153,7 +153,7 @@
 </tr>
 <tr class="odd">
 <td><p>9月19日</p></td>
-<td><p>2000年夏季奥林匹克运动会Doodle系列：<a href="https://zh.wikipedia.org/wiki/2000年夏季奥林匹克运动会跳水比赛" title="wikilink">跳水</a></p></td>
+<td><p>2000年夏季奥林匹克运动会Doodle系列：<a href="../Page/2000年夏季奥林匹克运动会跳水比赛.md" title="wikilink">跳水</a></p></td>
 <td><p>全球</p></td>
 <td><p><a href="http://www.google.com/doodles/2000-summer-olympic-games-in-sydney-diving">http://www.google.com/doodles/2000-summer-olympic-games-in-sydney-diving</a></p></td>
 </tr>
@@ -433,7 +433,7 @@
 </tr>
 <tr class="odd">
 <td><p>2月22日</p></td>
-<td><p>2002年冬季奥林匹克运动会系列：<a href="https://zh.wikipedia.org/wiki/2002年冬季奥林匹克运动会冰壶比赛" title="wikilink">冰壶</a></p></td>
+<td><p>2002年冬季奥林匹克运动会系列：<a href="../Page/2002年冬季奥林匹克运动会冰壶比赛.md" title="wikilink">冰壶</a></p></td>
 <td><p>全球</p></td>
 <td><p><a href="http://www.google.com/doodles/winter-olympics-2002-curling">http://www.google.com/doodles/winter-olympics-2002-curling</a></p></td>
 </tr>

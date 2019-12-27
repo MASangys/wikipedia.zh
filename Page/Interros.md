@@ -31,4 +31,4 @@ Interros是俄羅斯一個主要私人投資公司，而其總值直至2007年1�
 
 1.
 2.
-3.  ["Prokhorov, Potanin to split Interros assets"](http://www.sptimes.ru/index.php?action_id=2&story_id=20251). St Petersburg Times.
+3.  ["Prokhorov, Potanin to split Interros assets"](http://www.sptimes.ru/index.php?action_id=2&story_id=20251) . St Petersburg Times.

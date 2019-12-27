@@ -16,4 +16,4 @@ Samsung Galaxy Player是以[Samsung Galaxy S為基礎所發展出來之產品](h
 
 [Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
 
-1.  [Samsung Galaxy Player: Android's iPod touch](http://tech.fortune.cnn.com/2010/10/20/samsung-galaxy-player-androids-ipod-touch/)
+1.

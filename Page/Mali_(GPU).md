@@ -179,7 +179,7 @@ Mali显示芯片组改进自Falanx公司研发生产的显示技术芯片组，�
 <td><p>3.1 + AEP[4]</p></td>
 <td><p>Full Profile 1.1</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a> 11, (<a href="../Page/Direct3D.md" title="wikilink">9_3</a>)</p></td>
-<td><p>rowspan=15 </p></td>
+<td><p>rowspan=16 </p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="http://www.arm.com/products/multimedia/mali-graphics-hardware/mali-t658.php?tab=Specifications">Mali-T658</a>[5]</p></td>
@@ -436,7 +436,7 @@ Mali显示芯片组改进自Falanx公司研发生产的显示技术芯片组，�
 <td></td>
 <td></td>
 <td></td>
-<td><p>Kirin 980、Kirin 990、Exynos 9820、Helio G90</p></td>
+<td><p>Kirin 980、Kirin 990、Exynos 9820、Helio G90/G90T</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -456,7 +456,7 @@ Mali显示芯片组改进自Falanx公司研发生产的显示技术芯片组，�
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/聯發科技元件列表#天璣系列（2019-）" title="wikilink">Dimensity 1000</a>、Exynos 990</p></td>
 </tr>
 </tbody>
 </table>
@@ -492,42 +492,25 @@ Mali显示芯片组改进自Falanx公司研发生产的显示技术芯片组，�
 [Category:ARM架构](https://zh.wikipedia.org/wiki/Category:ARM架构 "wikilink") [Category:圖形處理器](https://zh.wikipedia.org/wiki/Category:圖形處理器 "wikilink")
 
 1.  [Mali Graphics Webpage; Arm Holdings.](http://www.arm.com/products/multimedia/mali-graphics-hardware/index.php)
-
 2.  <http://www.anandtech.com/show/8234/arms-mali-midgard-architecture-explored/2>
-
 3.  <http://www.khronos.org/assets/uploads/developers/library/2012-pan-pacific-road-show/OpenGL-and-OpenGL-ES-Taiwan_Feb-2012.pdf> Khronos Group OpenGL and OpenGL ES Taiwan Feb 2012
-
 4.  Android Extension Pack depends on implementation of *GL_ANDROID_extension_pack_es31a* in the userspace driver. Supported as of r7p0
-
 5.
 6.  [AnandTech | ARM Announces 8-core 2nd Gen Mali-T600 GPUs](http://www.anandtech.com/show/6136/arm-announces-8core-2nd-gen-malit600-gpus)
-
 7.  depending on number of GPU shader core groups
-
 8.
-
 9.  depending on number of shader core groups
-
-10. <http://kyokojap.myweb.hinet.net/gpu_gflops/>
-
+10.
 11.
-
 12. Supported as of June 2016 with r12p0 userspace driver
-
 13.
-
 14.
 15.
 16.
 17.
 18.  Arm Mali-G72 High Performance GPU – Arm Developer|accessdate=2017-12-25|last=Ltd.|first=Arm|work=ARM Developer|language=en}}
-
 19.
-
 20. [Phoronix, Jan 27 2012: *Announcing The Lima Open-Source GPU Driver*](http://www.phoronix.com/scan.php?page=news_item&px=MTA0OTQ)
-
 21. [Phoronix, Jan 21 2012: *An Open-Source, Reverse-Engineered Mali GPU Driver*](http://www.phoronix.com/scan.php?page=article&item=arm_mali_reverse)
-
 22. [FOSDEM schedule, Jan 21 2012: *Liberating ARM's Mali GPU*](http://fosdem.org/2012/schedule/event/mali)
-
 23. [Quake 3 Arena timedemo on top of the lima driver\!](http://libv.livejournal.com/23886.html)

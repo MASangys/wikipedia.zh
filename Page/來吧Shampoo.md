@@ -102,28 +102,16 @@ A面曲《來吧Shampoo》是[HTC Nippon](../Page/宏達國際電子.md "wikilin
 [Category:乃木坂46歌曲](https://zh.wikipedia.org/wiki/Category:乃木坂46歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.

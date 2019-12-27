@@ -252,28 +252,16 @@ Windows Server 2012 R2於2013年10月17日發行。\[11\]這是[Windows 8.1的�
 [Category:Windows服务器](https://zh.wikipedia.org/wiki/Category:Windows服务器 "wikilink") [Category:2012年软件](https://zh.wikipedia.org/wiki/Category:2012年软件 "wikilink")
 
 1.  <http://www.taiwannews.com.tw/etn/news_content.php?id=1904385>
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.

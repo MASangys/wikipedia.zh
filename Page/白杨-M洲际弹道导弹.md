@@ -19,6 +19,5 @@
 [Category:苏联弹道导弹](https://zh.wikipedia.org/wiki/Category:苏联弹道导弹 "wikilink")
 
 1.
-
 2.
 3.

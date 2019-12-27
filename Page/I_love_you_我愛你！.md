@@ -117,22 +117,14 @@ A面曲的歌名原定為「」（Airabushiteru\!，另一種排列），但成�
 [Category:SKE48歌曲](https://zh.wikipedia.org/wiki/Category:SKE48歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink") [Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink") [Category:2012年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年Japan_Hot_100冠軍歌曲 "wikilink") [Category:2012年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2012年Hot_Singles_Sales冠軍單曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
 12.

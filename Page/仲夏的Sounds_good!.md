@@ -136,53 +136,31 @@ AKB48到12期生為止的全部成員都有參與本作；來自其他姐妹團�
 [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:AKB48歌曲](https://zh.wikipedia.org/wiki/Category:AKB48歌曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink") [Category:Oricon單曲年榜冠軍作品](https://zh.wikipedia.org/wiki/Category:Oricon單曲年榜冠軍作品 "wikilink") [Category:2012年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲月榜冠軍作品 "wikilink") [Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink") [Category:Japan_Hot_100年榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:Japan_Hot_100年榜冠軍歌曲 "wikilink") [Category:2012年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年Japan_Hot_100冠軍歌曲 "wikilink") [Category:2012年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2012年Hot_Singles_Sales冠軍單曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink") [Category:日本唱片大獎獲獎歌曲](https://zh.wikipedia.org/wiki/Category:日本唱片大獎獲獎歌曲 "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink") [Category:夏天題材樂曲](https://zh.wikipedia.org/wiki/Category:夏天題材樂曲 "wikilink")
 
 1.  這是將音樂下載單曲《[Baby\! Baby\! Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")》計算在內時的主要單曲總數。若將獨立製作時期的單曲計算在內，則為第28張。
-
 2.
-
 3.  請參考[日本最暢銷單曲列表](../Page/日本最暢銷單曲列表.md "wikilink")
-
 4.
-
 5.
-
 6.
-
 7.
 8.  她們三人是SKE48中繼松井珠理奈、松井玲奈和[桑原みずき後](https://zh.wikipedia.org/wiki/桑原みずき "wikilink")，第4至6人成為A面曲的選拔成員。另外，這是首次有Team KII和Team E的成員進入選拔組。
-
 9.
 10.
 11. 城是NMB48中繼山本彩、渡邊美優紀、山口夕輝和[肥川彩愛](../Page/肥川彩愛.md "wikilink")後的第5人進入A面曲選拔組。另外，這是首次有Team M的成員成為選拔成員（肥川雖然屬於Team M，但她於《[崇尚麻里子](../Page/崇尚麻里子.md "wikilink")》進入選拔組時還是研究生，其後在2012年1月26日Team M成立時才昇格為正式成員）。
-
 12. 兒玉是在HKT48以及Team H中首個進入A面曲選拔組的成員。
-
 13.
 14.
 15.
 16.
-
 17.
-
 18.
-
 19.
-
 20. [秋元康](https://plus.google.com/u/0/113474433041552257864/posts) [Google+](../Page/Google+.md "wikilink")由2012年3月1日至4日的訊息
-
 21.
-
 22.
-
 23. 廣告由前田敦子、市川美織、大場美奈、加藤玲奈、島崎遙香、竹內美宥和永尾まりや演出。
-
 24.
-
 25. 廣告由指原莉乃、篠田麻里子、高橋みなみ、前田敦子、板野友美、大島優子、柏木由紀、渡邊麻友、加藤玲奈和島崎遙香演出。
-
 26. 廣告由上述「Google+選抜」的16名成員演出。
-
 27.
-
 28. 廣告由岩佐美咲、大島優子、宮澤佐江、橫山由依、柏木由紀、北原里英、渡辺麻友和永尾まりや演出。
-
 29.

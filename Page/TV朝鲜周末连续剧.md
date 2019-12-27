@@ -40,8 +40,12 @@
 <td><p><a href="../Page/星期日.md" title="wikilink">星期日</a> 00:30</p></td>
 </tr>
 <tr class="even">
-<td><p>2018年3月3日－至今</p></td>
+<td><p>2018年3月3日－2019年8月17日</p></td>
 <td><p><a href="../Page/星期六.md" title="wikilink">星期六</a>、<a href="../Page/星期日.md" title="wikilink">星期日</a> 22:50</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年10月13日－至今</p></td>
+<td><p><a href="../Page/星期日.md" title="wikilink">星期日</a> 21:30</p></td>
 </tr>
 </tbody>
 </table>
@@ -248,7 +252,7 @@
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/朴施厚.md" title="wikilink">朴施厚</a>、<a href="../Page/張熙軫.md" title="wikilink">張熙軫</a>、<a href="../Page/金智勳.md" title="wikilink">金智勳</a>、<a href="../Page/張伸瑛.md" title="wikilink">張伸瑛</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹成植" title="wikilink">尹成植</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/權順元" title="wikilink">權順元</a>、 <a href="../Page/朴相旭.md" title="wikilink">朴相旭</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/權順元" title="wikilink">權順元</a> 、<a href="../Page/朴相旭.md" title="wikilink">朴相旭</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -265,23 +269,23 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年10月13日－2019年<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Leverage_(韓國電視劇)" title="wikilink">Leverage</a><br />
+<td style="text-align: center;"><p><a href="../Page/Leverage：詐騙操作團.md" title="wikilink">Leverage：詐騙操作團</a><br />
 </p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/李東健.md" title="wikilink">李東健</a>、<a href="../Page/全慧彬.md" title="wikilink">全慧彬</a>、<a href="../Page/金賽綸.md" title="wikilink">金賽綸</a>、<a href="../Page/金權.md" title="wikilink">金權</a>、 <a href="../Page/呂會鉉.md" title="wikilink">呂會鉉</a></p></td>
-<td style="text-align: center;"><p>南奇勳</p></td>
-<td style="text-align: center;"><p>민지형</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/南基勳" title="wikilink">南基勳</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/閔智亨" title="wikilink">閔智亨</a></p></td>
 <td style="text-align: center;"><p>原作：《<a href="../Page/偷天任務.md" title="wikilink">偷天任務</a>》</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019年12月－2020年<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/抉擇_-_少女們的戰爭" title="wikilink">抉擇 - 少女們的戰爭</a><br />
+<td style="text-align: center;"><p><a href="../Page/揀擇－女人們的戰爭.md" title="wikilink">揀擇－女人們的戰爭</a><br />
 </p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>16</p></td>
+<td style="text-align: center;"><p><a href="../Page/陳世娫.md" title="wikilink">陳世娫</a>、<a href="../Page/金旻奎.md" title="wikilink">金旻奎</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金政珉.md" title="wikilink">金政珉</a></p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>崔秀美</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

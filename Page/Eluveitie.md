@@ -281,121 +281,69 @@ PlotData =
 [Category:2002年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2002年成立的音樂團體 "wikilink") [Category:瑞士樂團](https://zh.wikipedia.org/wiki/Category:瑞士樂團 "wikilink") [Category:重金屬樂團](https://zh.wikipedia.org/wiki/Category:重金屬樂團 "wikilink") [Category:民謠金屬樂團](https://zh.wikipedia.org/wiki/Category:民謠金屬樂團 "wikilink")
 
 1.  [:: Metalist Magazine :: Interviews :: Eluveitie](http://www.metalist.co.il/InterviewPrivate.asp?id=291&lang=eng)
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  Reproduction in Raffaele Carlo De Marinis, *Gli Etruschi a nord del Po,* Mantova, 1986.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11. Interview with Chrigel Glanzmann [taste-of-black.ch](http://www.taste-of-black.ch/eluveitie_interview.htm)  Retrieved 2010-02-24
-
 12.
-
 13.
 14.
-
 15.
 16.
 17.
 18.
-
 19.
 20.
 21.
 22. The stone in question appears to be the Davesco gravestone, see
-
 23.
-
 24.
-
 25.
-
 26. [Eluveitie Forum](http://forum.eluveitie.ch/viewtopic.php?p=19668&sid=6b4bf4a697875e172a9cdf35d18ee807)
-
 27. [Metal Hammer Mai+2009+inkl.+ELUVEITIE+%22Slania%2FEvocation...%22+CD](http://www.nuclearblast.de/index.php?Action=showShopProductDetail&artikelnummer=159204&set_language=D) at nuclearblast.de
-
 28. metal-hammer.de: [Exklusive Eluveitie-CD im nächsten Metal Hammer](http://www.metal-hammer.de/Eluveitie_Exklusive_CD_EVOCATION_Beilage_April_METAL_HAMMER.html)
-
 29.
 30.
-
 31.
 32. Eluveitie.ch [Eluveitie Forum:: View topic – RECORDING NEW ALBUM\!](http://forum.eluveitie.ch/viewtopic.php?t=1237&start=0)
-
 33. Eluveitie.ch [News](http://www.eluveitie.ch/en/?view=news)  Retrieved 2010-02-12
-
 34.
-
 35.
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
 51.
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63. Transit Magazine, n°47, été 2009, Eluveitie, interview of Christian Glanzmann by Dave, 第28頁
-
 64. [eluveitie countdown](http://eluveitie.ch/countdown/)  \[2017-06-15\]
-
 65.
 66.
 67.

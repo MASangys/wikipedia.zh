@@ -270,6 +270,14 @@ Ubuntu-desktop-2-410-20080706.png|4.10 "Warty Warthog" Ubuntu-desktop-2-504-2008
 <td><p>colspan="2" </p></td>
 <td><p>5.0</p></td>
 </tr>
+<tr class="even">
+<td><p>19.10</p></td>
+<td><p>Eoan Ermine</p></td>
+<td><p>黎明的<a href="../Page/白鼬.md" title="wikilink">白鼬</a></p></td>
+<td><p>2019-10-17</p></td>
+<td><p>colspan="2" </p></td>
+<td><p>5.3</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -283,55 +291,33 @@ Ubuntu-desktop-2-410-20080706.png|4.10 "Warty Warthog" Ubuntu-desktop-2-504-2008
 [Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
 11.
 12.
 13.
-
 14. ["Ubuntu 14.10 (Utopic Unicorn) Now Based on Linux Kernel 3.16"](http://news.softpedia.com/news/Ubuntu-14-10-Utopic-Unicorn-Now-Based-on-Linux-Kernel-3-16-451606.shtml), 22 July 2014, Silviu Stahie
-
 15.
 16.
-
 17.
-
 18.
 19.
-
 20.
-
 21.
 22.
-
 23.
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.

@@ -138,22 +138,14 @@ MTR Service Update [Facebook](../Page/Facebook.md "wikilink")專頁於2014年8�
 [Category:港鐵](https://zh.wikipedia.org/wiki/Category:港鐵 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  [狗隻進入東鐵綫路軌範圍事件之最終報告（中文譯本）](http://www.vjmedia.com.hk/articles/2015/03/06/101157)
     [The MTR Corporation Limited's final report of stray dog incident on 20 August 2014](http://www.legco.gov.hk/yr14-15/english/panels/tp/tp_rdp/papers/tp_rdp20150306cb4-576-7-e.pdf), Legislative Council Paper No. CB(4)576/14-15(07).
-
 8.  [有關今早東鐵綫路軌發現異物一事](http://www.facebook.com/mtrupdate/posts/858905137453765)，MTR Service Update Facebook 專頁
-
 9.
 10.
 11.
@@ -167,5 +159,4 @@ MTR Service Update [Facebook](../Page/Facebook.md "wikilink")專頁於2014年8�
 19.
 20.
 21. [有關近日事件的聲明](http://www.facebook.com/mtrupdate/posts/860277073983238:0)，MTR Service Update Facebook 專頁
-
 22.

@@ -50,26 +50,16 @@
 [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:CNBLUE歌曲](https://zh.wikipedia.org/wiki/Category:CNBLUE歌曲 "wikilink") [Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink") [Category:2012年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2012年Hot_Singles_Sales冠軍單曲 "wikilink") [Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
-
 11.
-
 12.
-
 13.
 14.

@@ -1,155 +1,50 @@
-**YUKI**（），日本女歌手。原[JUDY AND MARY主唱](../Page/JUDY_AND_MARY.md "wikilink")。出身於[北海道](../Page/北海道.md "wikilink")[函館市](../Page/函館市.md "wikilink")。[血型為A型](https://zh.wikipedia.org/wiki/血型 "wikilink")。本名**倉持有希**，舊姓**磯谷**。90年代初，YUKI在乐队解散后作为个人歌手出道，并以J-POP的音乐风格继续着音乐事业。她在对音乐有浓厚兴趣的日本女性之间被认为是神奇的存在。同时她也是对GIRLPOP风格的确立作出了贡献的一位歌手。
+**YUKI**是日本女歌手。原[JUDY AND MARY主唱](../Page/JUDY_AND_MARY.md "wikilink")。出身於[北海道](../Page/北海道.md "wikilink")[函館市](../Page/函館市.md "wikilink")。本名**倉持有希**，舊姓**磯谷**。90年代初，YUKI在乐队解散后作为个人歌手出道，并以J-POP的音乐风格继续着音乐事业。她在对音乐有浓厚兴趣的日本女性之间被认为是神奇的存在。同时她也是对GIRLPOP风格的确立作出了贡献的一位歌手。
 
 ## 簡歷
 
   - 1972年2月17日出生于北海道函馆市深堀町。以「拥有着希望」的含义，其祖父为她起名为『有希』。
-
-<!-- end list -->
-
-  - 1991年6月，於[函館市](../Page/函館市.md "wikilink")拍攝[いつかギラギラする日時認識](https://zh.wikipedia.org/wiki/いつかギラギラする日 "wikilink")[恩田快人](https://zh.wikipedia.org/wiki/恩田快人 "wikilink")。1992年2月與他組成了搖滾組合[JUDY AND MARY並擔任主唱](../Page/JUDY_AND_MARY.md "wikilink")\[1\]。
-
-<!-- end list -->
-
+  - 1991年6月，於[函館市](../Page/函館市.md "wikilink")拍攝[いつかギラギラする日時認識](https://zh.wikipedia.org/wiki/いつかギラギラする日 "wikilink")。1992年2月與他組成了搖滾組合[JUDY AND MARY並擔任主唱](../Page/JUDY_AND_MARY.md "wikilink")\[1\]。
   - 1994年4月起的两年间在[日本放送](../Page/日本放送.md "wikilink")電台擔任節目「All Night-NIPPON（日語: オールナイトニッポン）」主持。
-
-<!-- end list -->
-
   - 1996年，JUDY AND MARY樂團憑《そばかす》一曲首次登上oricon公信榜的榜首位置。
-
-<!-- end list -->
-
   - 1999年，JUDY AND MARY暫停樂壇活動，直至2000年2月復出。7月，與美國樂團B-52's的Kate Pierson等人組成了「NiNa」樂團。11月，與唱作歌手CHARA組成「CHARA+YUKI」组合。
-
-<!-- end list -->
-
   - 2000年2月，JUDY AND MARY重新开始活动。
-
-<!-- end list -->
-
   - 2000年9月，與[真心兄弟樂團的YO](https://zh.wikipedia.org/wiki/真心兄弟 "wikilink")-KING（倉持陽一）結婚。
-
-<!-- end list -->
-
   - 2001年1月9日，JUDY AND MARY宣布在WARP TOUR完結後解散。
-
-<!-- end list -->
-
   - 2001年3月8日，JUDY AND MARY正式解散。同年10月，與[CHARA](../Page/恰拉_\(女歌手\).md "wikilink")、、YUKARIE及演员[伊藤步](../Page/伊藤步.md "wikilink")組成了女子歌唱組合「」，擔任樂團鼓手位置。
-
-<!-- end list -->
-
   - 2002年，發表「the end of shite」一曲，正式展開她的個人歌手生涯。
-
-<!-- end list -->
-
   - 2005年3月，YUKI在其個人網站宣布大兒子（當時1歲11個月）在家中暴斃\[2\]\[3\]。死因不明，但据报道很可能是死于[嬰兒猝死症](../Page/嬰兒猝死症.md "wikilink")（SIDS）。
-
-<!-- end list -->
-
   - 2006年8月，誕下第二子。
-
-<!-- end list -->
-
   - 2008年3月22日，闊別三年重返舞台舉行「YUKI concert New Rhythm Tour 2008」演唱會。
-
-<!-- end list -->
-
   - 2009年5月、誕下第三子。
-
-<!-- end list -->
-
   - 2012年5月6日，繼她原屬的JUDY AND MARY樂團闊別[東京巨蛋](../Page/東京巨蛋.md "wikilink")十一年後，以個人歌手身份舉行「YUKI LIVE“SOUNDS OF TEN”」十周年演唱會，是首位分別以樂團和個人歌手身份在東京巨蛋舉行過演唱會的女性歌手，如果以個人名義的日本女性歌手來計，她是第九名。
-
-<!-- end list -->
-
   - 同年12月，首次以個人歌手身份參加第63屆NHK[紅白歌唱大賽](https://zh.wikipedia.org/wiki/紅白歌唱大賽 "wikilink")。據ORICON STYLE報導指出，她是第一位曾以樂團和個人歌手身份參加NHK[紅白歌唱大賽的女性歌手](https://zh.wikipedia.org/wiki/紅白歌唱大賽 "wikilink")，但事實上[高橋真梨子](../Page/高橋真梨子.md "wikilink")和[原由子](../Page/原由子.md "wikilink")亦曾以兩種身份參演[紅白歌唱大賽](https://zh.wikipedia.org/wiki/紅白歌唱大賽 "wikilink")（高橋真梨子原屬Pedro & Capricious樂團、原由子原屬Southern All Stars樂團）。
-
-<!-- end list -->
-
   - 2013年6月19日，YUKI在其官方網站發表她踏入個人歌手生涯第十一個年頭的第一支新曲《[STARMANN](../Page/STARMANN.md "wikilink")》。此曲同時被用作日本富士電視台和關西電視台電視劇《[STAR MAN 這顆星上的戀愛](../Page/STAR_MAN_這顆星上的戀愛.md "wikilink")》（主演：廣末涼子 監督：堤幸彦）主題曲。
 
 ## 人物简介
 
   - 喜欢的话：辉くものはひとつあればそれでいい（闪光之处，得一即可）
-
-<!-- end list -->
-
   - YUKI由出道至今除音乐创作以外，亦曾参与出版散文集、在UA主演的“水之女”电影客串演出等活动。
-
-<!-- end list -->
-
   - 早在高中时期已经与GLAY乐团的JIRO认识，YUKI亦从那时候开始跟GLAY乐团的其他团员如TAKURO等开始音乐交流。他们在高中时期曾经发生一件趣事，TAKURO等人因为YUKI的一句“自分の高校でGLAYが人気 (GLAY在我的高中很有名的)”，高兴得跑到YUKI的高中四周张贴自己的海报，不过海报张贴后的第二日却是暑假，没有学生看到他们的海报。
-
-<!-- end list -->
-
   - 中学时期时曾经组成一队名为“アブノーマル (Abnormal)”的女子乐团，不时在GLAY的演唱会参与演出。她为乐团创作过「かまって」和「モノクロームの思い出」等曲。
-
-<!-- end list -->
-
   - 初中和高中时参加过排球部。高中时是队里的队长。高中时代曾因吸烟被训导。
-
-<!-- end list -->
-
   - 高中毕业后在函馆市内的『北都交通』当公交乘务员，但因为无法忍受司机的性骚扰在研修期间就辞职了。搬往东京以后立刻找了一份美容师的工作。
-
-<!-- end list -->
-
   - 在音乐杂志「[WHAT's IN?](https://zh.wikipedia.org/wiki/WHAT's_IN? "wikilink")」（索尼杂志）中连载「YUKIの果てしないたわごと（YUKI的无尽戏言）」，用照片、短文和亲手画的插画记录了私下的生活。
-
-<!-- end list -->
-
   - 从2004年左右开始，YUKI在演出时都会戴上妹妹头假发，直至2008年多以长发形像示人。(“汽车に乘って”、“ひみつ”等单曲封面的YUKI都是长发形像)，在其官方网站亦可以到处看到妹妹头的卡通版YUKI。
-
-<!-- end list -->
-
   - 在报纸的边栏、时尚杂志中和电视上多次展示过熊猫形像的物品。YUKI是REBECCA乐团的歌迷，在函馆时代就在复制REBECCA的歌。YUKI曾邀请REBECCA乐团的主音NOKKO担任JUDY AND MARY电台节目嘉宾，并向NOKKO表示「我会唱所有REBECCA的歌 (私はレベッカの歌は全て歌えます)」，NOKKO听后开心得叫了出来。JUDY AND MARY时代和NOKKO一起参加Exciting Summer in WAJIKI '00时，YUKI在舞台旁的帐篷里观看着她的表演。因为NOKKO上场的顺序在JUDY AND MARY之前，YUKI一直在看她演唱几乎都忘了要整理发型。
-
-<!-- end list -->
-
   - 她也是サザンオールスターズ(南方之星)乐团的歌迷。她在1998年[南方之星](../Page/南方之星.md "wikilink")出道20周年电视纪念特辑中为他们送上了祝贺。
-
-<!-- end list -->
-
   - 她在webRadio中表示自己已经取得营养师专业资格。
-
-<!-- end list -->
-
   - 原本是吸烟人士。喜欢吸沙龙香烟但后来已经戒烟。
-
-<!-- end list -->
-
   - 喜欢踢拳(日式踢拳)。每天会进行三小时的踢拳训练，还会利用健身球锻练身体\[4\]。
-
-<!-- end list -->
-
   - 在电台节目「YUKI的All Night Nippon」尚未正式担任夜间时段之前，YUKI经常在节目内说出禁止播放的用语。从节目开始后就一直说很喜欢后来成为了她丈夫的真心兄弟的倉持阳一。倉持阳一也出席过这个电台节目。YUKI曾经表示,虽然获得了oricon榜单的第一位,但也感受到了压力，而[布袋寅泰](../Page/布袋寅泰.md "wikilink")则说了「那样的榜单全部都是骗人的。所以你不要在意尽管继续做自己的音乐就好了（あんなチャートは全部インチキだ。だから、気にしないで自分なりの音楽を続ければいい）」这样微妙的话，YUKI表示面对音乐榜单的压迫感都快受不了了。担任清晨时段的时候经常有TAKUYA乱入，和YUKI成为二人模式。1996年3月22日举行的「海道北男フェスティバル」中，在日本放送银河演播室募集了60名听众进行了公开放送。
 
 ## 作品簡介
 
   - 從YUKI展開個人歌手生涯以來，一共發表了二十五首單曲作品和六張個人音樂專輯。其中以「ドラマチック（Dramatic）」一曲取得Oricon公信榜最高第二位，而「joy」、「Wave」、「five-star」「うれしくって抱きあうよ」和「megaphonic」五張音樂專輯更連續取得Oricon公信榜第一位的成績。
-
-<!-- end list -->
-
   - YUKI以個人歌手身份發表的第一首單曲「the end of shite」仍然充滿著以前JUDY AND MARY的的朋克搖滾風格，其後發表第二首抒情歌曲「プリズム」奠定了她多樣化的個人音樂風格。這兩首樂曲同時被收錄於她的首張音樂專輯「PRISMIC」中。這張專輯中的大部份歌曲由[日暮愛葉編曲](https://zh.wikipedia.org/wiki/日暮愛葉 "wikilink")，另外[The Zoobombs樂團的Don](https://zh.wikipedia.org/wiki/The_Zoobombs "wikilink") Matsuo（『Rainbow st.』）、[Clammbon樂團的Mito](https://zh.wikipedia.org/wiki/Clammbon "wikilink")（『惑星に乗れ』）和[Spitz樂團](https://zh.wikipedia.org/wiki/Spitz "wikilink")（『愛に生きて』）等亦有參與專輯的音樂創作和演奏。
-
-<!-- end list -->
-
   - 第二张专辑『commune』的主题是“70年代”和“缓慢”。在妊娠前直到生产期间制作的这张专辑，让人感觉是由少女的歌声、女性的魅力、母性以及浓浓的人情味相互揉合而成的，十分具有生命力。而且融合了主制作人会田茂一所负责乐曲的大气和柔美，与日暮爱叶的乐曲的紧张感相得益彰。应YUKI想表现出Patti Smith的音乐特质的要求，渡边健二也参与了制作。艺术指导由野田凪担任。这张专辑的封面也采用了约90个YUKI的扮演者的静止镜头构成的「センチメンタルジャーニー」PV的照片，「センチメンタルジャーニー」的PV荣获第83届纽约ADC展的金奖。
-
-<!-- end list -->
-
   - 第三张专辑『joy』的主题是「热烈地、轻快地起舞的专辑」\[5\]。一反第2张专辑『commune』的风格，这张专辑以热烈的旋律造就了变化性十分丰富的作品。ORICON周间专辑榜最高排名为第1位。
-
-<!-- end list -->
-
   - 第五张专辑『うれしくって抱きあうよ』是YUKI受到了AOR（成人向摇滚）的影响，为了探索新的音乐发展方向而写成的作品。就如题目所指，专辑描述的是，和别人拥抱时所感受到的肌肤的柔软和温暖，以及由此逐渐在心中积累起来的包围整个人的幸福感，如此种种的生活中细腻而又甜美的感情\[6\]。在专访中YUKI也表示每首歌都在诉说着“活在当下”这样的主题\[7\]。
-
-<!-- end list -->
-
   - 第六張音樂專輯「megaphonic」，專輯名字megaphonic意思是以最大的聲音、最棒的音樂讓聽眾高興和感動\[8\]。
-
-<!-- end list -->
-
   - 第七张专辑『[FLY](https://zh.wikipedia.org/wiki/FLY "wikilink")』是融合了[嘻哈](../Page/嘻哈.md "wikilink")音乐和[电子舞曲等要素的作品](../Page/電子舞曲.md "wikilink")。另一方面中盘的乐曲是慢节奏的R\&B说唱风格，而后半部分的乐曲则多为抒情曲。而因为专辑标题的『FLY』也有「苍蝇」的意思，在巡演Flyin' High中也以苍蝇为形像设计了多种道具。
 
 ## 乐队
@@ -576,10 +471,6 @@ ESCL-3837/8（通常盤）</p></td>
 </tbody>
 </table>
 
-### 影像作品
-
-### 參加作品
-
 ## 演唱會
 
 ### 巡迴演唱會
@@ -594,8 +485,8 @@ PRISMIC TOUR 2002
 
 <div class="NavContent" style="text-align: left">
 
-  - 2002.04.07 廣島・[CLUB QUATTRO](https://zh.wikipedia.org/wiki/CLUB_QUATTRO "wikilink")
-  - 2002.04.08 廣島・[CLUB QUATTRO](https://zh.wikipedia.org/wiki/CLUB_QUATTRO "wikilink")
+  - 2002.04.07 廣島・[CLUB QUATTRO](../Page/CLUB_QUATTRO.md "wikilink")
+  - 2002.04.08 廣島・[CLUB QUATTRO](../Page/CLUB_QUATTRO.md "wikilink")
   - 2002.04.10 福岡・[Zepp Fukuoka](https://zh.wikipedia.org/wiki/Zepp#Zepp_Fukuoka "wikilink")
   - 2002.04.11 福岡・[Zepp Fukuoka](https://zh.wikipedia.org/wiki/Zepp#Zepp_Fukuoka "wikilink")
   - 2002.04.17 新潟・[新潟PHASE](https://zh.wikipedia.org/wiki/新潟PHASE "wikilink")
@@ -824,7 +715,7 @@ joy to the Wold joy to the music
 
 <div class="NavContent" style="text-align: left">
 
-  - 2004.12.02 東京・[LIQUIDROOM](https://zh.wikipedia.org/wiki/LIQUIDROOM "wikilink")
+  - 2004.12.02 東京・[LIQUIDROOM](../Page/LIQUIDROOM.md "wikilink")
 
 </div>
 
@@ -1031,15 +922,9 @@ YUKI的音乐录像充满着她的独特风格，曾数次取得SPACE SHOWER Mus
   - [大塚製藥](../Page/大塚製藥.md "wikilink")「[寶礦力水特](../Page/寶礦力水特.md "wikilink")」
   - [豐田汽車WiLL](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink") VS」（2002年）
   - [Sony Ericsson](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")「[au](../Page/Au_\(行動電話\).md "wikilink") W31S」（2005年）
-
-<!-- end list -->
-
   - [NEC](https://zh.wikipedia.org/wiki/日本電気 "wikilink")（2007年）
       - 「[N904i](https://zh.wikipedia.org/wiki/N904i "wikilink")」
       - 「[N905i](https://zh.wikipedia.org/wiki/N905i "wikilink")」
-
-<!-- end list -->
-
   - 东京地铁（2015年） - 广告曲「となりのメトロ」
 
 ## 電影

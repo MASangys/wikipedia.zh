@@ -273,22 +273,14 @@ PL2-248：日本茨城縣筑波未來市喜樂山公園 （茨城県つくばみ
 [Category:中国蒸汽机车](https://zh.wikipedia.org/wiki/Category:中国蒸汽机车 "wikilink") [Category:2-6-2輪式機車](https://zh.wikipedia.org/wiki/Category:2-6-2輪式機車 "wikilink")
 
 1.  <http://www.railography.co.uk/info/cn_steam/lists/locos/class_index.htm>
-
 2.  依南滿州鐵道機車規則，プレ（發音為Pure）係指Prairie型（車軸配置[2-6-2](https://zh.wikipedia.org/wiki/2-6-2 "wikilink")）之蒸汽機車，之後再以イ（i）、ニ（ni）、サ（sa）、シ（si）、コ（ko）、ロ（ro）、ナ（na）、ハ（ha）、ク（ku）依序代表1～9號。因此Purei（プレイ）為Prairie型機車第1型，之後以此類推。參見[南滿州鐵道車號規則](https://zh.wikipedia.org/wiki/jp:南満州鉄道の車両#名称および記号 "wikilink")、[大連埠頭の「プレニ」（中）](http://rail.hobidas.com/blog/natori09/archives/2006/06/post_309.html)。
-
 3.  南滿州鐵道現為[哈大鐵路長春](https://zh.wikipedia.org/wiki/哈大鐵路 "wikilink")-大連段，原屬於俄國資本之[中東鐵路之一部分](https://zh.wikipedia.org/wiki/中東鐵路 "wikilink")，軌距與俄國鐵路相同為 1524 毫米。於[日俄戰爭期間](https://zh.wikipedia.org/wiki/日俄戰爭 "wikilink")，日軍為了能夠使用從日本本土徵調之車輛，故將其佔領之部分軌距修改為與日本本土相同之1067 毫米軌距。日俄戰爭結束後，南滿州鐵道成立，決定使用與中國、朝鮮相同之標準軌距，於1908年完成改軌。原從日本本土徵調之機車，送回日本本土或轉賣於台灣總督府鐵道部。
-
 4.  鐵道之路：中國鐵路PL1型蒸汽機車（[日文](http://www.kurogane-rail.jp/zh2/cloco03.html) ）、（[中文](http://www.kurogane-rail.jp/zh2/ccloco03.html) ）
-
 5.
 6.  參見：[「プレ」時代「プレイ」形式圖](http://rail.hobidas.com/blog/natori09/archives/manntetupure.jpg)
     來源： [大連埠頭の「プレニ」（中）](http://rail.hobidas.com/blog/natori09/archives/2006/06/post-309.html)
-
 7.
 8.  大連埠頭の「プレニ」（[上](http://rail.hobidas.com/blog/natori09/archives/2006/06/post_307.html)）、（[中](http://rail.hobidas.com/blog/natori09/archives/2006/06/post_309.html)）
-
 9.  <http://c5557.kiteki.jp/html/PL2248.htm>
-
 10. 共有4輛，分別於1941年至1943年製造，原編號為C12-1～4，於1943年樺太廳鐵道編入日本國有鐵道後，改為C12-265、C12-271～273。樺太的C12型蒸汽機車於二次大戰結束後均為蘇聯所接收。
-
 11. 台灣總督府鐵道於1936年（5輛）及1942年（2輛）共訂製7輛C12型蒸汽機車（車號C12-1～C12-7），戰後台灣鐵路管理局接收後改稱為，一直使用至1980年代左右。目前[CK124號經修復後恢復行駛](https://zh.wikipedia.org/wiki/台鐵CK124號蒸氣機車 "wikilink")。
