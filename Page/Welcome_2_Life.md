@@ -448,6 +448,57 @@
 
   - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[讓我聆聽你的歌](../Page/讓我聆聽你的歌.md "wikilink")》
 
+## 提名&獲獎列表
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年度</p></td>
+<td><p>頒獎典禮</p></td>
+<td><p>獎項</p></td>
+<td><p>入圍者</p></td>
+<td><p>結果</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2019_MBC演技大獎" title="wikilink">MBC演技大賞</a></p></td>
+<td><p>年度電視劇獎</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>月火迷你劇部門<br />
+男子最優秀演技獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>月火迷你劇部門<br />
+女子最優秀演技獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最佳CP獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 參考資料
 
 ## 外部連結

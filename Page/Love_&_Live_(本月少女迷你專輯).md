@@ -22,7 +22,7 @@
 
 ## Love ＆ Evil
 
-2017年4月24日，Blockberry Creative公開預告，宣布本月少女 1/3的第一張迷你專輯改版《Love & Evil》將於27日公開\[9\]。專輯包括主打曲為《未知的秘密 (Sonatine)》，共有三首新曲目，並根據不同版本的實體專輯，特別收錄《Love ＆ Live》或《You and Me Together》的Remix版本，而專輯寫真在[捷克](../Page/捷克.md "wikilink")[布拉格](../Page/布拉格.md "wikilink")拍摄，而主打曲MV則在[香港](../Page/香港.md "wikilink")拍攝\[10\]。4月25日，官方推特開始公開本月少女 1/3成員的預告照片<ref>LOOΠΔ 1/3 Love & Evil teasers
+2017年4月24日，Blockberry Creative公開預告，宣布本月少女 1/3的第一張迷你專輯改版《Love & Evil》將於27日公開\[9\]。專輯包括主打曲為《未知的秘密 (Sonatine)》，共有三首新曲目，並根據不同版本的實體專輯，特別收錄《Love ＆ Live》或《You and Me Together》的Remix版本，而專輯寫真在[捷克](../Page/捷克.md "wikilink")[布拉格](../Page/布拉格.md "wikilink")拍摄；主打曲的MV則在[香港](../Page/香港.md "wikilink")拍攝\[10\]。4月25日，官方推特開始公開本月少女 1/3成員的預告照片<ref>LOOΠΔ 1/3 Love & Evil teasers
 
   -
   -
@@ -31,7 +31,7 @@
   -
   - </ref>。4月27日，公開專輯《Love & Evil》的音源及主打曲《未知的秘密 (Sonatine)》MV。
 
-7月5日，《未知的秘密 (Sonatine)》MV播放量達到30萬，官方按照约定，於7日公開收錄曲《雨聲 51db (Rain 51 db)》的MV\[11\]。
+2017年7月5日，《未知的秘密 (Sonatine)》MV播放量達到30萬，官方按照约定，於7日公開收錄曲《雨聲 51db (Rain 51 db)》的MV\[11\]。
 
 ## 曲目
 

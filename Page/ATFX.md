@@ -10,11 +10,13 @@ ATFX成立於2017年7月，總辦事處設於英國。目前ATFX已拓展業務�
 
 ATFX提供外匯交易平台(MT4)讓有興趣交易外匯、加密貨幣、貴金屬、能源、指數、商品期貨、股票等差價合約及高達40多種貨幣對。\[9\]\[10\]\[11\]\[12\]
 
+ATFX於2019年8月推出針對專業機構客戶服務的新產品ATFX Connect。這表示ATFX已從過往以零售業務為主的經紀商，發展成一家創新的金融科技公司，能為各類型的客戶提供全方位的金融服務。並於同年11月，ATFX Connect的代表在亞洲展開了媒體訪問之旅，其中台灣站中，接受了MoneyDJ理財網及商周財富網等媒體的訪問\[13\]\[14\]
+
 ## 獎項
 
-  - 2017年歐洲業務增長最迅速外匯經紀商\[13\]
-  - 2018 年英國最佳外匯差價合約經紀商獎\[14\]
-  - 2019 年最佳客戶服務機構-第一名\[15\]
+  - 2017年歐洲業務增長最迅速外匯經紀商\[15\]
+  - 2018 年英國最佳外匯差價合約經紀商獎\[16\]
+  - 2019 年最佳客戶服務機構-第一名\[17\]
 
 ## 參見
 
@@ -37,6 +39,8 @@ ATFX提供外匯交易平台(MT4)讓有興趣交易外匯、加密貨幣、貴�
 10. ["ATFX تشارك كأحد الرعاة الرئيسيين لمؤتمر"](http://www.arabicbroker.com/forum/showthread.php?p=598956#post598956) *arabicbroker.com*,21 February 2019..
 11. ["ATFX Review 2019"](https://www.fxempire.com/brokers/atfx) *fxempire.com*,.
 12. ["ة ATFX تقدم عرضًا ناجحًا لأول مرة في مؤتمر شركاء لشبو"](http://ar.fxdailyinfo.com/news/%D8%B4%D8%B1%D9%83%D8%A9-atfx-%D8%AA%D9%82%D8%AF%D9%85) *ar.fxdailyinfo.com*,.
-13. ["ATFX Awarded the “Fastest Growing Forex Broker, Europe 2017"](https://www.financemagnates.com/thought-leadership/atfx-awarded-the-fastest-growing-forex-broker-europe-2017/) *financemagnates.com*,.
-14. ["ATFX Awarded Best Forex CFDs Broker by UK Forex Awards 2018"](https://www.financemagnates.com/thought-leadership/atfx-awarded-best-forex-cfds-broker-by-uk-forex-awards-2018/) *financemagnates.com*,.
-15. ["ATFX Awarded “Best Client Support” by OnlineBroker-Portal Awards 2019](https://www.fxdailyinfo.com/view-forex-analysis/atfx-awarded-best-client-support-by-onlinebroker-portal-awards-2019.html) *fxdailyinfo.com*, 24 January 2019.
+13. ["ATFX從零售產品出發　迅速發展成全球金融科技公司"](https://wealth.businessweekly.com.tw/GArticle.aspx?id=ARTL001000174) *wealth.businessweekly.com*,.
+14. ["ATFX屢獲殊榮，看好亞洲市場 宣布以ATFX Connect跨足機構法人業務"](https://www.moneydj.com/KMDJ/News/NewsViewer.aspx?a=84a95328-0fa2-49ee-940a-854e590307ef&c=LIFENEWS) *moneydj.com*,.
+15. ["ATFX Awarded the “Fastest Growing Forex Broker, Europe 2017"](https://www.financemagnates.com/thought-leadership/atfx-awarded-the-fastest-growing-forex-broker-europe-2017/) *financemagnates.com*,.
+16. ["ATFX Awarded Best Forex CFDs Broker by UK Forex Awards 2018"](https://www.financemagnates.com/thought-leadership/atfx-awarded-best-forex-cfds-broker-by-uk-forex-awards-2018/) *financemagnates.com*,.
+17. ["ATFX Awarded “Best Client Support” by OnlineBroker-Portal Awards 2019](https://www.fxdailyinfo.com/view-forex-analysis/atfx-awarded-best-client-support-by-onlinebroker-portal-awards-2019.html) *fxdailyinfo.com*, 24 January 2019.

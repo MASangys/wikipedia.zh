@@ -1,4 +1,4 @@
-《**魔兽争霸III：重制版**》（）是一款由[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")开发与发行的[即时战略游戏](../Page/即时战略游戏.md "wikilink")，為2002年的《[魔獸爭霸III](https://zh.wikipedia.org/wiki/魔獸爭霸III "wikilink")》之重製版，包括《[混乱之治](../Page/魔兽争霸III：混乱之治.md "wikilink")》与《[冰封王座](https://zh.wikipedia.org/wiki/魔獸爭霸III：冰封王座 "wikilink")》的全部剧情，过场动画也将[重製](../Page/重製.md "wikilink")。游戏预计2019年发布。\[1\]
+《**魔兽争霸III：重制版**》（）是一款由[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")开发与发行的[即时战略游戏](../Page/即时战略游戏.md "wikilink")，為2002年的《[魔獸爭霸III](https://zh.wikipedia.org/wiki/魔獸爭霸III "wikilink")》之重製版，包括《[混乱之治](../Page/魔兽争霸III：混乱之治.md "wikilink")》与《[冰封王座](https://zh.wikipedia.org/wiki/魔獸爭霸III：冰封王座 "wikilink")》的全部剧情，过场动画也将[重製](../Page/重製.md "wikilink")。游戏预计於2020年1月29日正式推出。\[1\]
 
 ## 发布
 

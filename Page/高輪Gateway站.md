@@ -68,7 +68,7 @@ JR東日本舉辦的徵名活動64,052件投稿中，「高輪」為第1位、�
 
   - \- 京急本線過往的北端起迄站，位於今[品川站西側](https://zh.wikipedia.org/wiki/品川站 "wikilink")。1925年啟用、1933年廢止。
 
-[Category:日本未來建設](https://zh.wikipedia.org/wiki/Category:日本未來建設 "wikilink") [Category:港區鐵路車站_(東京都)](https://zh.wikipedia.org/wiki/Category:港區鐵路車站_\(東京都\) "wikilink") [Category:東海道本線車站_(東日本旅客鐵道)](https://zh.wikipedia.org/wiki/Category:東海道本線車站_\(東日本旅客鐵道\) "wikilink") [Category:山手線](https://zh.wikipedia.org/wiki/Category:山手線 "wikilink") [Category:日本鐵路車站_Ta](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Ta "wikilink") [Category:高輪](https://zh.wikipedia.org/wiki/Category:高輪 "wikilink")
+[Category:日本未來交通基礎設施](https://zh.wikipedia.org/wiki/Category:日本未來交通基礎設施 "wikilink") [Category:港區鐵路車站_(東京都)](https://zh.wikipedia.org/wiki/Category:港區鐵路車站_\(東京都\) "wikilink") [Category:東海道本線車站_(東日本旅客鐵道)](https://zh.wikipedia.org/wiki/Category:東海道本線車站_\(東日本旅客鐵道\) "wikilink") [Category:山手線](https://zh.wikipedia.org/wiki/Category:山手線 "wikilink") [Category:日本鐵路車站_Ta](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Ta "wikilink") [Category:高輪](https://zh.wikipedia.org/wiki/Category:高輪 "wikilink")
 
 1.
 2.

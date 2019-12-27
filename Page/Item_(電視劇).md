@@ -18,12 +18,12 @@
 
 ### 姜坤周邊人物
 
-|                                  |        |                                                                                |                                                     |
-| -------------------------------- | ------ | ------------------------------------------------------------------------------ | --------------------------------------------------- |
-| **演員**                           | **角色** | **介紹**                                                                         | **香港配音**                                            |
-| [申隣雅](../Page/申隣雅.md "wikilink") | 姜多仁    | 姜坤的侄女，個性內向、喜歡讀書的十歲女孩。四歲時因交通意外失去雙親受到打擊因而罹患「緘口症」有口難言，與叔叔姜坤住在一起。後來被趙世皇設計成為植物人及去世。 | [姜嘉蕾](../Page/姜嘉蕾.md "wikilink")                    |
-| [李承俊](../Page/李承俊.md "wikilink") |        | 姜坤的哥哥，與妻子在車禍中逝世，將女兒托付姜坤。                                                       | [蔡威賢](https://zh.wikipedia.org/wiki/蔡威賢 "wikilink") |
-|                                  |        |                                                                                |                                                     |
+|                                  |        |                                                                                |                                  |
+| -------------------------------- | ------ | ------------------------------------------------------------------------------ | -------------------------------- |
+| **演員**                           | **角色** | **介紹**                                                                         | **香港配音**                         |
+| [申隣雅](../Page/申隣雅.md "wikilink") | 姜多仁    | 姜坤的侄女，個性內向、喜歡讀書的十歲女孩。四歲時因交通意外失去雙親受到打擊因而罹患「緘口症」有口難言，與叔叔姜坤住在一起。後來被趙世皇設計成為植物人及去世。 | [姜嘉蕾](../Page/姜嘉蕾.md "wikilink") |
+| [李承俊](../Page/李承俊.md "wikilink") |        | 姜坤的哥哥，與妻子在車禍中逝世，將女兒托付姜坤。                                                       | [蔡威賢](../Page/蔡威賢.md "wikilink") |
+|                                  |        |                                                                                |                                  |
 
 ### 素英周邊人物
 
@@ -121,7 +121,7 @@
 <td><p><a href="../Page/崔權.md" title="wikilink">崔權</a></p></td>
 <td><p>金大洪</p></td>
 <td><p>廣域搜查隊刑警。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蔡威賢" title="wikilink">蔡威賢</a></p></td>
+<td><p><a href="../Page/蔡威賢.md" title="wikilink">蔡威賢</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>林英植</p></td>
@@ -475,6 +475,58 @@
   - [SBS](../Page/SBS_\(韓國\).md "wikilink") [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[獬豸](../Page/獬豸_\(電視劇\).md "wikilink")》
   - [tvN](../Page/TVN.md "wikilink") [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[成為王的男人](../Page/成為王的男人.md "wikilink")》、《[會讀心術的那小子](../Page/會讀心術的那小子.md "wikilink")》
   - [JTBC](../Page/JTBC.md "wikilink") [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[耀眼](../Page/耀眼.md "wikilink")》、《[加油吧！威基基2](https://zh.wikipedia.org/wiki/加油吧！威基基2 "wikilink")》
+
+## 提名&獲獎列表
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年度</p></td>
+<td><p>頒獎典禮</p></td>
+<td><p>獎項</p></td>
+<td><p>入圍者</p></td>
+<td><p>結果</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2019_MBC演技大獎" title="wikilink">MBC演技大賞</a></p></td>
+<td><p>月火迷你劇部門<br />
+男子最優秀演技獎</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>月火迷你劇部門<br />
+女子最優秀演技獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>月火迷你劇部門<br />
+助演獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>男子新人獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考資料
 

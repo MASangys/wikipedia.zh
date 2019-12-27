@@ -8,7 +8,7 @@
 
   - 发行延期
 
-受[PRODUCE X 101投票造假爭議事件的影响](https://zh.wikipedia.org/wiki/PRODUCE_X_101投票造假爭議事件 "wikilink")，原定于2019年11月11日发行的专辑延期推出\[3\]。
+受[PRODUCE X 101投票造假爭議事件的影响](../Page/PRODUCE_X_101投票造假爭議事件.md "wikilink")，原定于2019年11月11日发行的专辑延期推出\[3\]。
 
 ## 曲目
 

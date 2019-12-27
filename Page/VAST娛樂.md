@@ -11,7 +11,7 @@ VAST娛樂成立於2016年。\[1\]
   - [炫彬](../Page/炫彬.md "wikilink")
   - [金允智](../Page/NS允智.md "wikilink")
   - [申度賢](../Page/申度賢.md "wikilink")
-  - [李宰旭](https://zh.wikipedia.org/wiki/李宰旭 "wikilink")
+  - [李宰旭](../Page/李宰旭.md "wikilink")
   - 金智仁
   - 박이현
 

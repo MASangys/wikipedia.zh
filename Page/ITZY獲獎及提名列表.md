@@ -69,6 +69,64 @@
 </tbody>
 </table>
 
+### [亚洲明星盛典（Asia Artist Awards）](https://zh.wikipedia.org/wiki/亚洲明星盛典 "wikilink")
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年份</p></td>
+<td><p>獎項</p></td>
+<td><p>提名項目</p></td>
+<td><p>結果</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>歌手部門 - ROOKIE獎</p></td>
+<td><p><a href="../Page/ITZY.md" title="wikilink">ITZY</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### [Naver](../Page/NAVER.md "wikilink") V-app Awards
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年份</p></td>
+<td><p>獎項</p></td>
+<td><p>提名項目</p></td>
+<td><p>結果</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>GLOBAL ROOKIE TOP 5</p></td>
+<td><p><a href="../Page/ITZY.md" title="wikilink">ITZY</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### [Mnet亞洲音樂大獎 Asian Music Awards）](../Page/Mnet亞洲音樂大獎.md "wikilink")（Mnet
+
+|       |       |        |                                    |
+| ----- | ----- | ------ | ---------------------------------- |
+| 屆數|年份 | 獎項    | 提名項目   | 結果                                 |
+| 第21屆  | 2019年 | 最佳女新人獎 | [ITZY](../Page/ITZY.md "wikilink") |
+|       |       |        |                                    |
+
 ## 其他獎項
 
 ### 韓國年度品牌大賞

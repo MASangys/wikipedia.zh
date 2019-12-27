@@ -81,15 +81,22 @@
 <td><p>5th</p></td>
 <td><p>2019年9月4日</p></td>
 <td></td>
-<td><p>VVCL-1505/1506</p></td>
+<td><p>VVCL-1505/6</p></td>
 <td><p>VVCL-1507</p></td>
 </tr>
 <tr class="even">
 <td><p>雲雀/RUST/光芒</p></td>
 <td></td>
 <td></td>
-<td><p>VVCL-1508/1509</p></td>
+<td><p>VVCL-1508/9</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>5th</p></td>
+<td><p>2020年2月26日</p></td>
+<td><p>CHAIN</p></td>
+<td><p>VVCL-1600/1</p></td>
+<td><p>VVCL-1602</p></td>
 </tr>
 </tbody>
 </table>
@@ -148,6 +155,21 @@ MATO-1324（初回限定盤B）</p></td>
 </tr>
 </tbody>
 </table>
+
+### 商業搭配
+
+| 樂曲                     | 相關作品                                                                                                   | 年份    |
+| ---------------------- | ------------------------------------------------------------------------------------------------------ | ----- |
+| 大倉明日香                  |                                                                                                        |       |
+| Prime number 〜君と出会える日〜 | [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[櫻花莊的寵物女孩](../Page/櫻花莊的寵物女孩.md "wikilink")》第二片尾曲 | 2013年 |
+| ASCA                   |                                                                                                        |       |
+| KOE                    | 電視動畫《[Fate/Apocrypha](https://zh.wikipedia.org/wiki/Fate/Apocrypha "wikilink")》第二片尾曲                   | 2017年 |
+| PLEDGE                 | 電視動畫《[皇帝聖印戰記](../Page/皇帝聖印戰記.md "wikilink")》第一片尾曲                                                      | 2018年 |
+| 凛                      | 電視動畫《皇帝聖印戰記》第二片頭曲                                                                                      |       |
+| RESISTER               | 電視動畫《[刀劍神域 Alicization](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》第二片頭曲                           | 2019年 |
+| 雲雀                     | 電視動畫《[艾梅洛閣下II世事件簿](../Page/艾梅洛閣下II世事件簿.md "wikilink")》片頭曲                                              |       |
+| セルフロンティア               | [手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")《刀劍神域 Alicization Rising Steel》主題曲                |       |
+| CHAIN                  | 電視動畫《[達爾文遊戲](../Page/達爾文遊戲.md "wikilink")》片頭曲                                                          | 2020年 |
 
 ## 参考
 

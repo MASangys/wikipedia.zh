@@ -12,7 +12,7 @@ Caffe支持多种类型的深度学习架构，面向[图像分类和](../Page/�
 
 Caffe应用于学术研究项目、初创原型甚至视觉、语音和多媒体领域的大规模工业应用。[雅虎](../Page/雅虎.md "wikilink")还将Caffe与[Apache Spark集成在一起](../Page/Apache_Spark.md "wikilink")，创建了一个分布式深度学习框架CaffeOnSpark\[8\]。
 
-2017年4月，[Facebook](../Page/Facebook.md "wikilink")发布Caffe2\[9\]，加入了[递归神经网络](../Page/递归神经网络.md "wikilink")等新功能。2018年3月底，Caffe2并入[PyTorch](../Page/PyTorch.md "wikilink")\[10\]。
+2017年4月，[Facebook](../Page/Facebook.md "wikilink")发布Caffe2\[9\]，加入了[循环神经网络等新功能](https://zh.wikipedia.org/wiki/循环神经网络 "wikilink")。2018年3月底，Caffe2并入[PyTorch](../Page/PyTorch.md "wikilink")\[10\]。
 
 ## 参见
 

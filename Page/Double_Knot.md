@@ -23,7 +23,6 @@
 ## 概要
 
 [Stray Kids在](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年9月底完成了海外巡迴Showcase《[Stray Kids UNVEIL TOUR 'I am…’](../Page/Stray_Kids_UNVEIL_TOUR_'I_am…'.md "wikilink")》後，隨即於10月9日以數位單曲〈Double Knot〉回歸，展開其2019下半年的大型計劃。雖然[3RACHA](../Page/3RACHA.md "wikilink")曾在2017年發表過相同歌名的歌曲，但此次的〈Double Knot〉是首截然不同的新歌。
-
 在歌曲〈Double Knot〉中包含了將鞋帶緊緊地綁兩次後全力奔跑的霸氣，表現出無論哪裡都能去、無論什麼事都能做到的自信，在強烈的Electronic Trap與[Hip-hop](https://zh.wikipedia.org/wiki/Hip-hop "wikilink") Beat中融入了勇往直前的堅定抱負的歌詞令人印象深刻\[2\]。 此次也遠赴美國洛杉磯拍攝概念照及〈Double Knot〉音樂錄影帶，展現強大的霸氣與超凡魅力\[3\]。
 
 ## 曲目
@@ -41,14 +40,14 @@
 
 ## 音樂現場
 
-| 節目名稱                                                                   | 電視台                                                     | 日期                                                                                                         |
-| ---------------------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| Double Knot                                                            |                                                         |                                                                                                            |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](../Page/Mnet.md "wikilink")                      | 10月10日\[4\]                                                                                                |
-| [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")   | 10月11日<ref>{{Citation|last=KBS World TV|title=Stray Kids(스트레이키즈) - Double Knot \[Music Bank / 2019.10.11\] |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")     | 10月12日\[5\]、10月19日\[6\]                                                                                    |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink") | 10月20日\[7\]                                                                                                |
-|                                                                        |                                                         |                                                                                                            |
+| 節目名稱                                                                   | 電視台                                                     | 日期                      |
+| ---------------------------------------------------------------------- | ------------------------------------------------------- | ----------------------- |
+| Double Knot                                                            |                                                         |                         |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](../Page/Mnet.md "wikilink")                      | 10月10日\[4\]             |
+| [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")   | 10月11日\[5\]、10月18日\[6\] |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")     | 10月12日\[7\]、10月19日\[8\] |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink") | 10月20日\[9\]             |
+|                                                                        |                                                         |                         |
 
 ## 榜單成績
 
@@ -70,7 +69,7 @@
 <td><p>世界數位單曲銷售榜</p></td>
 <td><p>#4</p></td>
 <td></td>
-<td><p>[8]</p></td>
+<td><p>[10]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -144,3 +143,5 @@
 6.
 7.
 8.
+9.
+10.

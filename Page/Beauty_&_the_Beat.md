@@ -20,7 +20,7 @@
   -
   -
   -
-  - </ref>。較以往不同的是，本次專輯是將總共五首的曲目每日逐一公開，照片下方還有以英文及韓文寫成的註記，還有專屬的介紹。主打曲《love4eva》與[加拿大](../Page/加拿大.md "wikilink")音樂製作人[Grimes合作](https://zh.wikipedia.org/wiki/Grimes "wikilink")，這是她第一次參與Kpop音樂的製作\[3\]。另外，本次主打曲會因專輯而有所不同：普通版專輯收錄的主打曲有三種不同間奏，而特別版專輯則收錄特別版主打曲，而歌曲Dance Break部分則依間奏不同而有變化\[4\]。5月30日，正式公開本月少女 yyxy的首張迷你專輯《beauty\&thebeat》音源及主打曲《love4eva》的MV，MV於[匈牙利](../Page/匈牙利.md "wikilink")[布達佩斯拍攝](../Page/布达佩斯.md "wikilink")\[5\]；同日公開《love4eva》練習室版本的舞蹈版MV。
+  - </ref>。較以往不同的是，本次專輯是將總共五首的曲目每日逐一公開，照片下方還有以英文及韓文寫成的註記，還有專屬的介紹。主打曲《love4eva》與[加拿大](../Page/加拿大.md "wikilink")音樂製作人[Grimes合作](https://zh.wikipedia.org/wiki/Grimes "wikilink")，這是她第一次參與Kpop音樂的製作\[3\]。另外，本次主打曲會因專輯而有所不同：普通版專輯收錄的主打曲有三種不同間奏，而特別版專輯則收錄特別版主打曲，而歌曲Dance Break部分則依間奏不同而有變化\[4\]。5月30日，正式公開本月少女 yyxy的首張迷你專輯《beauty\&thebeat》音源及主打曲《love4eva》的MV，MV於[匈牙利](../Page/匈牙利.md "wikilink")[布達佩斯拍攝](../Page/布达佩斯.md "wikilink")\[5\]；同日公開《love4eva》練習室版本的舞蹈版影片。
 
 6月6日，專輯《beauty\&thebeat》於美國Billboard世界專輯榜得到第六位\[6\]\[7\]。
 

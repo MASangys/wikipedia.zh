@@ -18,7 +18,7 @@ N國黨是由曾經任職於NHK的[立花孝志](../Page/立花孝志.md "wikili
 
 7月25日，党首立花与之前因酒后失言支持战争解决[北方四島爭議而被](https://zh.wikipedia.org/wiki/北方四島爭議 "wikilink")[日本維新会除名的众议院议员](https://zh.wikipedia.org/wiki/日本維新会 "wikilink")[丸山穗高](../Page/丸山穗高.md "wikilink")会談，29日，丸山表明入党意向\[11\]。30日，宣布与原[众人之党](../Page/众人之党.md "wikilink")代表的参議院議員[渡边喜美结成参議院](https://zh.wikipedia.org/wiki/渡边喜美 "wikilink")[会派](../Page/議會黨團.md "wikilink")“众人之党”，由渡边出任代表。立花表示询问过渡边是否有意入党，惟被拒绝\[12\]。
 
-2019年10月10日，立花孝志辭去參議院議員，參加參議院[埼玉縣選舉區](../Page/埼玉縣選舉區.md "wikilink")的議員補選\[13\]。但在同月27日選舉結果僅獲16萬8289票，不敵前埼玉縣知事[上田清司的](https://zh.wikipedia.org/wiki/上田清司 "wikilink")106萬5390票而落選\[14\]。
+2019年10月10日，立花孝志辭去參議院議員，參加參議院[埼玉縣選舉區](../Page/埼玉縣選舉區.md "wikilink")的議員補選\[13\]。其席位由N国党比例区名单第二位继任。但在同月27日選舉結果僅獲16萬8289票，不敵前埼玉縣知事[上田清司的](https://zh.wikipedia.org/wiki/上田清司 "wikilink")106萬5390票而落選\[14\]。
 
 ## 組黨目的
 
@@ -29,7 +29,7 @@ N國黨是由曾經任職於NHK的[立花孝志](../Page/立花孝志.md "wikili
 
 ## 政策
 
-  - 党首立花明确表示该党是，最终目标为“NHK的[加扰广播](https://zh.wikipedia.org/wiki/条件接收 "wikilink")”（使不想看的人电视收不到NHK从而可以不交收视费），达成时将解散该党，自己也将辞去议员一职。\[19\]
+  - [党首立花明确表示该党是](https://zh.wikipedia.org/wiki/党首 "wikilink")，最终目标为“NHK的[加扰广播](https://zh.wikipedia.org/wiki/条件接收 "wikilink")”（使不想看的人电视收不到NHK从而可以不交收视费），达成时将解散该党，自己也将辞去议员一职。\[19\]
   - 就对NHK偏向报道的批评，他表明“议员就节目内容发表评论会被视为[审查](https://zh.wikipedia.org/wiki/审查 "wikilink")，而审查是[违宪行为](https://zh.wikipedia.org/wiki/违宪 "wikilink")，所以不会（批判偏向报道）”。
   - 就NHK以外的政策，主张每议题由党员透过[直接民主制来决定该党赞成与否](https://zh.wikipedia.org/wiki/直接民主制 "wikilink")\[20\]。另一方面，虽然立花反对修宪，但是也公开表示过若以NHK的[加扰广播为条件交换](https://zh.wikipedia.org/wiki/条件接收 "wikilink")，则会赞成改宪\[21\]。
   - 结党初期主张让接受[生活保護者进入指定场所生活](https://zh.wikipedia.org/wiki/生活保護 "wikilink")，并将[生活保护费改为实物支付](https://zh.wikipedia.org/wiki/生活保護 "wikilink")，现已不主张此项。党官网上一度留有相关说明，后来立花公开表示是漏删\[22\]。

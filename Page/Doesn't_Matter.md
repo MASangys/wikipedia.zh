@@ -126,12 +126,12 @@ Y7 Plus新增歌曲</p></td>
 
 ## 音樂錄影帶及專輯影像特輯
 
-| 歌曲             | 導演    | 首播日期        | 附註                                                                                                                                                             |
-| -------------- | ----- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 邊緣朋友           | 連續劇影片 | 2017年9月26日  | [YouTube上的邊緣朋友MV](https://www.youtube.com/watch?v=-JPWBtz0Y0U)                                                                                                 |
-| Doesn't Matter | 嚴爵    | 2017年9月30日  | [YouTube上的Doesn't MatterMV](https://www.youtube.com/watch?v=4qjt2x7VGlo&feature=youtu.be&fbclid=IwAR2ApyiUQHg9H0C2SlgLYB9P5wHRFQ0By5yJo_Hgqci8EQpIFabGx_PRJYE) |
-| 我是水            | 連續劇影片 | 2017年10月17日 | [YouTube上的我是水MV](https://www.youtube.com/watch?v=HWkXRr5WAs0)                                                                                                  |
-| Love Today     | 劉恩捷   | 2017年10月22日 | [YouTube上的Love TodayMV](https://www.youtube.com/watch?v=1180JDX7Lrs)                                                                                           |
+| 歌曲             | 導演    | 首播日期        | 附註 |
+| -------------- | ----- | ----------- | -- |
+| 邊緣朋友           | 連續劇影片 | 2017年9月26日  |    |
+| Doesn't Matter | 嚴爵    | 2017年9月30日  |    |
+| 我是水            | 連續劇影片 | 2017年10月17日 |    |
+| Love Today     | 劉恩捷   | 2017年10月22日 |    |
 
 ## 參考文獻
 

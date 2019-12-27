@@ -1,4 +1,4 @@
-《**K I**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")的主唱[稻葉浩志](../Page/稻葉浩志.md "wikilink")在[2003年](../Page/2003年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")發行的第2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+「**K I**」是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")的主唱[稻葉浩志](../Page/稻葉浩志.md "wikilink")在[2003年](../Page/2003年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")發行的第2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 1.  **AKATSUKI** (3:46)
       -
         [硬式搖滾](../Page/硬式搖滾.md "wikilink")調編曲，[TUBE的](https://zh.wikipedia.org/wiki/TUBE "wikilink")[春畑道哉](../Page/春畑道哉.md "wikilink")參加了電吉他。
-2.  **寂靜地雨（）**(4:00)
+2.  **寂靜之雨（）**(4:00)
       -
         採用[Wurlitzer與](../Page/電子琴.md "wikilink")[原聲吉他](../Page/原聲吉他.md "wikilink")作為主體。在SOLO演唱會上是限定雨天演奏。
 3.  **AKATSUKI Version S.S.S** (4:01)

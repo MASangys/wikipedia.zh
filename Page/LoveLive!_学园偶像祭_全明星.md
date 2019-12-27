@@ -19,6 +19,14 @@
   -
   -
   -
+  - [《Love Live\! School idol Festival All Stars》KLab官方網站](https://lovelive-as-global.com/)
+
+  - [《러브라이브\! School idol Festival ALL STARS》KLab官方網站](https://lovelive-as-global.com/kr/)
+
+  - [《》KLab官方網站](https://lovelive-as-global.com/tw/)
+
+  - [《Love Live\! School idol Festival ALL STARS》KLab官方網站](https://lovelive-as-global.com/th/)
+
 [Category:2019年電子遊戲](https://zh.wikipedia.org/wiki/Category:2019年電子遊戲 "wikilink") [Category:Love_Live\!](https://zh.wikipedia.org/wiki/Category:Love_Live! "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink") [Category:漫畫改編電子遊戲](https://zh.wikipedia.org/wiki/Category:漫畫改編電子遊戲 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:Bushiroad](https://zh.wikipedia.org/wiki/Category:Bushiroad "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
 
 1.

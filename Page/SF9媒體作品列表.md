@@ -494,11 +494,13 @@ Suit Dance Ver.[39]</p></td>
 
 ### 綜藝/訪談節目
 
-| 日期                    | | 電視台                                               | | 節目名稱                                                     | | 參與成員   | | 備註     |
-| --------------------- | --------------------------------------------------- | ---------------------------------------------------------- | -------- | -------- |
-| 2007年4月14日            | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[驚人的大會-Star King](../Page/驚人的大會-Star_King.md "wikilink")》 | 澯熙       | 模仿有天     |
-| 2010年3月13日            | 模仿泰民                                                |                                                            |          |          |
-| 2013年11月21日－2014年1月9日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[清潭洞111](../Page/清潭洞111.md "wikilink")》                   | 路雲、朱豪、仁誠 | 以練習生身份出演 |
+| 日期                    | | 電視台                                               | | 節目名稱                                                                        | | 參與成員   | | 備註     |
+| --------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------- | -------- | -------- |
+| 2007年4月14日            | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[驚人的大會-Star King](../Page/驚人的大會-Star_King.md "wikilink")》                    | 澯熙       | 模仿有天     |
+| 2010年3月13日            | 模仿泰民                                                |                                                                               |          |          |
+| 2013年11月21日－2014年1月9日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[清潭洞111](../Page/清潭洞111.md "wikilink")》                                      | 路雲、朱豪、仁誠 | 以練習生身份出演 |
+| 2016年12月1日－2017年6月1日  | [OnStyle](../Page/OnStyle.md "wikilink")            | 《[LipStick Prince](https://zh.wikipedia.org/wiki/LipStick_Prince "wikilink")》 | 路雲       | 固定成員     |
+| 2018年4月1日－2018年6月24日  | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[相親茶坊](../Page/相親茶坊.md "wikilink")》                                          | 路雲       | 固定主持人    |
 
 |                   |                                         |                                                            |        |                                           |
 | ----------------- | --------------------------------------- | ---------------------------------------------------------- | ------ | ----------------------------------------- |
@@ -563,12 +565,17 @@ Suit Dance Ver.[39]</p></td>
 | 2018年9月2日              | [MBC](../Page/文化廣播公司.md "wikilink")                 | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                   | 路雲   |    |
 | 2018年12月9日－2018年12月23日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[週末使用說明書](../Page/週末使用說明書.md "wikilink")》                         | 路雲   |    |
 | 2018年12月11日            | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[問題的男人](https://zh.wikipedia.org/wiki/大腦性感的時代－問題的男人 "wikilink")》  | 仁誠   |    |
+| 2018年12月25日            | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[問題的男人](https://zh.wikipedia.org/wiki/大腦性感的時代－問題的男人 "wikilink")》  | 仁誠   |    |
 
 |                                                          |                                                                   |                                                                                 |       |        |
 | -------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----- | ------ |
 | 日期                                                       | 電視台                                                               | 節目名稱                                                                            | 參與成員  | 備註     |
+| 1月7日                                                     | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")               | [問題的男人](https://zh.wikipedia.org/wiki/大腦性感的時代－問題的男人 "wikilink")                 | 仁誠    |        |
+| 1月14日                                                    | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")               | [問題的男人](https://zh.wikipedia.org/wiki/大腦性感的時代－問題的男人 "wikilink")                 | 仁誠    |        |
 | 1月21日                                                    | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")               | [問題的男人](https://zh.wikipedia.org/wiki/大腦性感的時代－問題的男人 "wikilink")                 | 仁誠    | \[87\] |
+| 1月28日                                                    | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")               | [問題的男人](https://zh.wikipedia.org/wiki/大腦性感的時代－問題的男人 "wikilink")                 | 仁誠    |        |
 | 1月31日                                                    | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")          | [Happy Together 4](../Page/歡樂在一起.md "wikilink")                                 | 澯熙    |        |
+| 2月2日                                                     | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")          | [戰鬥旅行](../Page/戰鬥旅行.md "wikilink")                                              | 路雲    |        |
 | 2月3日                                                     | [MBC](../Page/文化廣播公司.md "wikilink")                               | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                                | 仁誠    |        |
 | 2月7日                                                     | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")          | [Happy Together 4](../Page/歡樂在一起.md "wikilink")                                 | 澯熙    |        |
 | 2月12日                                                    | [JTBC](../Page/JTBC.md "wikilink")                                | [Idol Room](../Page/Idol_Room.md "wikilink")                                    | 澯熙    | 特別出演   |

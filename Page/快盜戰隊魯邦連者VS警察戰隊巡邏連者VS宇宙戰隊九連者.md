@@ -46,7 +46,7 @@
   - 蕭・龍波 / 天龍司令 - [神谷浩史](../Page/神谷浩史.md "wikilink")
   - 最佳前鋒（Gooty） - [三矢雄二](../Page/三矢雄二.md "wikilink")
   - Jim Carter - [釘宮理惠](../Page/釘宮理惠.md "wikilink")
-  - Don・Armage - [谷昌樹](https://zh.wikipedia.org/wiki/谷昌樹 "wikilink")
+  - Don・Arkage - [谷昌樹](https://zh.wikipedia.org/wiki/谷昌樹 "wikilink")
 
 ## 註釋
 

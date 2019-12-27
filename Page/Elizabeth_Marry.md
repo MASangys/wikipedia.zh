@@ -59,7 +59,7 @@ Elizabeth Marry 自小仰慕大表姊 [Becky](../Page/Becky.md "wikilink") 且�
 <td><center>
 <p>2019年</p>
 <center></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/CHEAT_詐欺師們請注意" title="wikilink">CHEAT 詐欺師們請注意</a></p></td>
+<td><p><a href="../Page/CHEAT_詐欺師們請注意.md" title="wikilink">CHEAT 詐欺師們請注意</a></p></td>
 <td><p>Hanna（第5集）</p></td>
 </tr>
 <tr class="odd">
@@ -2078,6 +2078,17 @@ Masuru（マサル）<br />
 <td><p>山犬</p></td>
 <td><p>編舞助手<br />
 地點：<a href="../Page/大阪市.md" title="wikilink">大阪</a> ABC Hall</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>舞台「巖窟王 Le théâtre」製作委員會</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年12月20 - 28日</p></td>
+<td><p><a href="../Page/巖窟王.md" title="wikilink">巖窟王 Le théâtre</a></p></td>
+<td><p>演出助手<br />
+地點：國民共濟 coop Hall（全勞濟Hall） / Space Zero）</p></td>
 </tr>
 <tr class="odd">
 <td></td>

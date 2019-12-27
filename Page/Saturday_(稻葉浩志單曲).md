@@ -19,4 +19,4 @@
 
 [Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:稻葉浩志歌曲](https://zh.wikipedia.org/wiki/Category:稻葉浩志歌曲 "wikilink") [Category:星期中的日子題材樂曲](https://zh.wikipedia.org/wiki/Category:星期中的日子題材樂曲 "wikilink")
 
-1.  [B'z稲葉浩志、新曲「Saturday」配信\&MV公開 [Oricon](../Page/Oricon.md "wikilink")。](https://www.oricon.co.jp/news/video/2040371/)
+1.  [B'z稲葉浩志、新曲「Saturday」配信\&MV公開 [ORICON STYLE](../Page/Oricon.md "wikilink")。](http://www.oricon.co.jp/news/video/2040371/)

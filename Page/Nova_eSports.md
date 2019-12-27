@@ -90,12 +90,11 @@
 </tbody>
 </table>
 
-## 隊員
+## 皇室戰爭分部
 
 **现役队员**
 
 <table>
-<caption><strong><em><a href="../Page/部落衝突：皇室戰爭.md" title="wikilink">部落衝突：皇室戰爭</a></em></strong></caption>
 <thead>
 <tr class="header">
 <th></th>
@@ -122,6 +121,10 @@
 <tr class="odd">
 <td></td>
 <td><p>小星仔</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>逸塵</p></td>
 </tr>
 </tbody>
 </table>
@@ -186,7 +189,19 @@
 
 2018全球总决赛总冠军
 
-## [王者荣耀](../Page/王者荣耀.md "wikilink")分部
+2019全球總決賽六強
+
+  - 皇室战争個人賽
+
+國王盃冠軍 YaoYao
+
+亞洲盃冠軍 Aaron
+
+世界賽冠軍 Sergioramos:)
+
+亞運亞軍 Lciop
+
+## 王者荣耀分部
 
 **现役队员**
 

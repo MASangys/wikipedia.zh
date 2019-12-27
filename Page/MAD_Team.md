@@ -270,6 +270,11 @@
 </tbody>
 </table>
 
+### 重大賽事
+
+  - 2019 GCS春季賽冠軍
+  - 2019 AWC世界賽亞軍
+
 ## [絕地求生](../Page/絕地求生.md "wikilink") (PlayerUnknown's Battlegrounds)
 
 ### 現役選手

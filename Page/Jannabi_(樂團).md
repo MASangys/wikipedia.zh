@@ -1,4 +1,4 @@
-**Jannabi**(韓語：잔나비)，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體中](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")[獨立搖滾樂團](https://zh.wikipedia.org/wiki/獨立搖滾 "wikilink")，由崔政勳、金道亨、尹潔、張景俊，四個成員組成。2019年以〈致猶豫的戀人們(주저하는 연인들을 위해)〉一曲聲名大噪，享有人氣。
+**Jannabi**(韓語：잔나비)，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體中](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")[獨立搖滾樂團](https://zh.wikipedia.org/wiki/獨立搖滾 "wikilink")，由崔政勳、金道亨、尹結、張景俊，四個成員組成。2019年以〈致猶豫的戀人們(주저하는 연인들을 위해)〉一曲聲名大噪，享有人氣。
 
 
 
@@ -17,7 +17,7 @@
 | **漢字**    |
 | 崔政勳       |
 | 金道亨       |
-| 尹潔        |
+| 尹結        |
 | 張景俊       |
 | **已離開成員** |
 | 劉永㧋       |
@@ -73,20 +73,20 @@ PlotData =
 
 2017年9月，主唱崔正勳參與OVAN的歌曲。
 
-2018年6月,[Changmo](../Page/Changmo.md "wikilink")專輯收錄曲中主唱崔正勳進行了featuring；同年10月[李文世](../Page/李文世.md "wikilink")的專輯收錄曲進行了featuring。
+2018年6月,[Changmo](../Page/Changmo.md "wikilink")專輯收錄曲中主唱崔政勳進行了featuring；同年10月[李文世](../Page/李文世.md "wikilink")的專輯收錄曲進行了featuring。
 
 2018年12月，在[樂童音樂家李秀賢的featuring下發行了數位單曲](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")。
 
-### 2019年：正規二《**傳說**》發表、參與《我獨自生活》、尹潔入伍
+### 2019年：正規二《**傳說**》發表、尹潔入伍、首次進入高尺、三冠王
 
-2019年4月，Jannabi因為主唱崔政勳參與《[我獨自生活](../Page/我獨自生活.md "wikilink")》，展現復古的感性生活使3月發表的主打曲〈致猶豫的戀人們(주저하는 연인들을 위해)〉開始逆襲，一度來到實時一位。為此，JANNABI 官方Instagram表達感謝。\[2\]\[3\]
+2019年4月，Jannabi因為主唱崔政勳參與《[我獨自生活](../Page/我獨自生活.md "wikilink")》，展現復古的感性生活使3月發表的主打曲〈致猶豫不決的戀人們(주저하는 연인들을 위해)〉開始逆襲，一度來到實時一位。為此，JANNABI 官方Instagram表達感謝。\[2\]\[3\]
 
 2019年5月1日，Jannabi受邀參加[百想藝術大賞](https://zh.wikipedia.org/wiki/百想藝術大賞 "wikilink")，翻唱金民基的〈山峰〉。
 2019年6月24日，Jannabi因為劉永㧋退出，更新四人組的團體照。
 
-2019年9月11日，尹潔親筆信寫下10月10日入伍的消息。 2019年10月10日之後，Jannabi 以三人組活動，鼓手為外聘鼓手。
+2019年9月11日，尹結親筆信寫下10月10日入伍的消息。 2019年10月10日之後，Jannabi 以三人組活動，鼓手為外聘鼓手。 2019年10月19日，Jannabi以[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")重新回歸電視節目上。
 
-2019年10月19日，Jannabi以[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")重新回歸電視節目上。
+2019年11月7日，[Gaon音樂榜公布Jannabi](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink")〈致猶豫不決的戀人們(주저하는 연인들을 위해)〉串流流媒達到1億。 2019年11月16日，Jannabi獲得VLIVE Discover賞，同時是Jannabi首次在高尺巨蛋表演。
 
 ## 音樂風格
 
@@ -262,6 +262,126 @@ Jannabi的音樂以復古音樂為主，這不是團體刻意塑造的音樂取�
 | 2019年5月10日  | [我獨自生活](../Page/我獨自生活.md "wikilink")                        | EP.293 | 崔政勳(彩虹現場/出演**)**、全體成員(出演) |
 | 2019年10月19日 | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")            | EP.405 | 全體成員                      |
 |             |                                                             |        |                           |
+
+## 演唱會
+
+### 單獨演唱會
+
+| 日期             | 演唱會名稱                                  | 國家                           | 舉行地點                | 備註        |
+| -------------- | -------------------------------------- | ---------------------------- | ------------------- | --------- |
+| 2013年6月21日     |                                        | 韓國                           | Tungsten Hall(텅스텐홀) | 出道前舉行的演唱會 |
+| 2014年11月7日     | 《November Rain》                        | 弘大俱樂部(홍대 클럽)                 |                     |           |
+| 2015年3月21日     | 《作戰名青春》                                | 弘大 Evans lounge (에반스라운지)     |                     |           |
+| 2015年7月4日      | 《Fire》                                 | 首爾 Rolling Hall (롤링홀)        |                     |           |
+| 2015年7月25日     | 《Thank you》                            | 弘大 Evans lounge (에반스라운지)     |                     |           |
+| 2015年11月28日    | 《Change》                               | 首爾 現代信用卡UNDERSTAGE           |                     |           |
+| 2016年6月18日     | 《Monkey Hotel》                         | 首爾 想像廣場(KT\&G상상마당)           |                     |           |
+| 2016年12月18日    | 《JANNABI AND THE NEW WORLD》            | 首爾 想像廣場(KT\&G상상마당)           |                     |           |
+| 2017年7月15-16日  | 《Stop, look and listen》                | 梨花女子大學 三成洞                   |                     |           |
+| 2017年12月30-31日 | 《Fantastic Old-Fashioned 送年會》          | 首爾 想像廣場(KT\&G상상마당)           |                     |           |
+| 2018年6月2-3日    | 《柳喜烈 Curated 12 Group Sound 'JANNABI'》 | 首爾 現代信用卡UNDERSTAGE           |                     |           |
+| 2018年8月26日     | 《82.6% 等待的心情 TALK+CONCERT》             | 首爾 COEX 會議廳                  |                     |           |
+| 2018年11月24日    | 《nonsense》                             | 首爾 Blue Square I-Market Hall |                     |           |
+| 2019年3月16-17日  | 全國巡迴演唱會《Together》                      | 首爾 Blue Square I-Market Hall |                     |           |
+| 2019年3月23日     | 清州 CJB媒體中心伊甸藝術大廳                       |                              |                     |           |
+| 2019年3月30日     | 大邱 EXCO會議廳                             |                              |                     |           |
+| 2019年4月6-7日    | 釜山 MBC Dream Hall                      |                              |                     |           |
+| 2019年4月13日     | 全州 韓國聲音文化殿堂母樂堂                         |                              |                     |           |
+| 2019年7月13-14日  | 《 Fools on the Hill》                   | 首爾 現代信用卡UNDERSTAGE           |                     |           |
+| 2019年8月31-9月1日 | 《Fantastic Old-Fashioned Returns》      | 首爾 奧林匹克大廳                    |                     |           |
+
+## 獎項及提名列表
+
+<table>
+<thead>
+<tr class="header">
+<th><p>類別</p></th>
+<th><p>頒獎日期</p></th>
+<th><p>獎項</p></th>
+<th><p>提名項目</p></th>
+<th><p>結果</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong><a href="../Page/甜瓜音樂獎.md" title="wikilink">甜瓜音樂獎</a></strong></p></td>
+<td><p>2019年11月30日</p></td>
+<td><p>年度藝人</p></td>
+<td><p>Jannabi</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>年度歌曲</p></td>
+<td><p>〈致猶豫不決的戀人們〉</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>年度專輯</p></td>
+<td><p>《傳說》</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>TOP 10</p></td>
+<td><p>Jannabi</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>網路人氣賞</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/Mnet亞洲音樂大獎.md" title="wikilink">Mnet亞洲音樂大獎</a></strong></p></td>
+<td><p>2019年12月4日</p></td>
+<td><p>年度歌曲</p></td>
+<td><p>〈致猶豫不決的戀人們〉</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>〈我看不到的故事〉</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>最佳樂團表演賞</p></td>
+<td><p>Jannabi 〈致猶豫不決的戀人們〉</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最佳原聲帶賞</p></td>
+<td><p>〈我看不到的故事〉</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Worldwide Fans' Choice Top 10</p></td>
+<td><p>Jannabi</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>VLIVE AWARDS V HEARTBEAT</p></td>
+<td><p>2019年11月16日</p></td>
+<td><p>VLIVE Discover</p></td>
+<td><p>Jannabi</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 爭議事件
 

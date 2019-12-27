@@ -155,19 +155,52 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 
 ### 嘉賓出演
 
-| colspan="5" style="background:; |**2019年**節目列表 |
-| ---------------------------------------------- |
-|                                                |
-| 播放日期                                           |
-| 4月25日                                          |
-| 5月21日                                          |
-| 9月4日                                           |
-| 9月10日                                          |
-| 9月28日                                          |
-| 10月1日                                          |
-| 11月10日                                         |
-| 11月13日                                         |
-| 11月17日                                         |
+<table>
+<thead>
+<tr class="header">
+<th><p>colspan="5" style="background:; |<strong>2019年</strong>節目列表</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td><p>播放日期</p></td>
+</tr>
+<tr class="odd">
+<td><p>4月25日</p></td>
+</tr>
+<tr class="even">
+<td><p>5月21日</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月4日</p></td>
+</tr>
+<tr class="even">
+<td><p>9月10日</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月28日</p></td>
+</tr>
+<tr class="even">
+<td><p>10月1日</p></td>
+</tr>
+<tr class="odd">
+<td><p>11月10日</p></td>
+</tr>
+<tr class="even">
+<td><p>11月13日</p></td>
+</tr>
+<tr class="odd">
+<td><p>11月17日</p></td>
+</tr>
+<tr class="even">
+<td><p>12月 9</p>
+<p>日</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 廣告代言
 
@@ -206,6 +239,13 @@ EVERGLOW團名是“EVER”与“GLOW”的合成语，寓意“无论是在太�
 <td><p>女子新人獎</p></td>
 <td><p>EVERGLOW</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>2019Ment亞洲音樂大獎</p></td>
+<td><p>最佳女新人</p></td>
+<td><p>EVERGLOW</p></td>
+<td><p>候補第二</p></td>
 </tr>
 </tbody>
 </table>

@@ -37,6 +37,15 @@
 <td style="text-align: left;"><p>2019年</p></td>
 <td style="text-align: left;"><ul>
 <li>《Betweengos》〈<a href="https://betweengos.com/interview-selena/">名人真心話》理財YouTuber Selena：理財不是工具，而是一種生活態度。</a>〉</li>
+</ul>
+<ul>
+<li>《Vogue Taiwan》〈<a href="https://www.vogue.com.tw/lifestyle/article/msselena-manage-money">就是因為生活不夠痛苦，才無法下定決心改變！人氣理財YouTuber傳授6個化被動為主動的理財觀念與心態</a>〉</li>
+</ul>
+<ul>
+<li>《Cheers快樂工作人》〈<a href="https://www.cheers.com.tw/article/article.action?id=5095657">２２Ｋ也能存錢！月光族變理財專家，３方法為自己加薪</a>〉</li>
+<li>《女人迷》〈<a href="https://womany.net/read/article/22278?ref=rss">「我知道理財很重要，但就是沒動力」三個方法讓你展開行動</a>〉</li>
+<li>《女人迷》〈<a href="https://womany.net/read/article/22279">「沒有刻意花錢，但錢就是莫名減少」22K 怎麼存到錢？</a>〉</li>
+<li>《妞新聞》〈<a href="https://www.niusnews.com/=P19x9dx5">建議婚前就要有「婚前協議」！情侶、夫妻財產該如何規劃？</a>〉</li>
 </ul></td>
 </tr>
 </tbody>

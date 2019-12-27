@@ -331,7 +331,7 @@
 </tr>
 <tr class="even">
 <td><p>11月18日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/初戀至上主義" title="wikilink">初戀至上主義</a></p></td>
+<td><p><a href="../Page/初戀至上主義.md" title="wikilink">初戀至上主義</a></p></td>
 <td><p>NMB48</p></td>
 <td><p>16.6</p></td>
 <td><p>1</p></td>
@@ -348,6 +348,27 @@
 <td></td>
 <td><p><a href="../Page/ANGERME.md" title="wikilink">ANGERME</a></p></td>
 <td><p>6.9</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>12月9日</p></td>
+<td></td>
+<td><p>關西傑尼斯8</p></td>
+<td><p>26.0</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>12月16日</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
+<td><p>26.0</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>12月23日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Try_Again_(MAG!C☆PRINCE單曲)" title="wikilink">Try Again</a></p></td>
+<td></td>
+<td><p>6.4</p></td>
 <td><p>1</p></td>
 </tr>
 </tbody>

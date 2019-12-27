@@ -4,14 +4,14 @@
 
   - 名字**粗體**為隊長
 
-| colspan="9" style="" |成員列表                                |
-| --------------------------------------------------------- |
-| 藝名                                                        |
-| 漢字                                                        |
-| **[孝定](../Page/孝定.md "wikilink")**                        |
-| [Binnie](https://zh.wikipedia.org/wiki/Binnie "wikilink") |
-| [Arin](../Page/Arin.md "wikilink")                        |
-|                                                           |
+| colspan="9" style="" |成員列表             |
+| -------------------------------------- |
+| 藝名                                     |
+| 漢字                                     |
+| **[孝定](../Page/孝定.md "wikilink")**     |
+| [Binnie](../Page/Binnie.md "wikilink") |
+| [Arin](../Page/Arin.md "wikilink")     |
+|                                        |
 
 ## 注釋
 

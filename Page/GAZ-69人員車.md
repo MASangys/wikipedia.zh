@@ -63,7 +63,7 @@ GAZ-69可作多種用途，例如:
 
   - [GAZ-64人員車](../Page/GAZ-64人員車.md "wikilink")
   - [GAZ-67人員車](../Page/GAZ-67人員車.md "wikilink")
-  - [GAZ-46兩棲人員車](https://zh.wikipedia.org/wiki/GAZ-46兩棲人員車 "wikilink")
+  - [GAZ-46兩棲人員車](../Page/GAZ-46兩棲人員車.md "wikilink")
   - [北京212吉普車](../Page/北京212吉普車.md "wikilink")
 
 [Category:四輪驅動車輛](https://zh.wikipedia.org/wiki/Category:四輪驅動車輛 "wikilink") [Category:GAZ車種](https://zh.wikipedia.org/wiki/Category:GAZ車種 "wikilink")

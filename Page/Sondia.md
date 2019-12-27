@@ -1,6 +1,8 @@
 Sondia （韩文名: 손디아)，韩国女歌手，2012年出道。
 
+## 经历
 
+2016年8月11日，与歌手ASTERIA合作发行单曲专辑《CLOSERS : Lucid Dream OST》。2018年3月29日，发行单曲《大人》，此曲同为韩剧《[我的大叔](../Page/我的大叔.md "wikilink")》的插曲。Sondia 颇具特色的声音和包含情感的演绎，使得《大人》这首歌颇受好评。
 
 ## 音乐作品
 
@@ -79,3 +81,11 @@ Sondia （韩文名: 손디아)，韩国女歌手，2012年出道。
 </tr>
 </tbody>
 </table>
+
+
+
+## 参考来源
+
+  - Napster 上关于 Sondia 的[介绍](https://co.napster.com/artist/sondia)
+  - 网易云音乐上关于 Sondia 的[作品](https://music.163.com/#/artist?id=12142077)
+  - QQ音乐上关于 Sondia 的[作品](https://y.qq.com/n/yqq/singer/002umbYS4MtP8F.html)

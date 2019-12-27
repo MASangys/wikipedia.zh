@@ -350,6 +350,27 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>12月9日</p></td>
+<td><p>檄！帝國華撃團（新章）</p></td>
+<td><p>佐倉綾音、內田真禮、山村響、福原綾香、早見沙織</p></td>
+<td><p>2.9</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12月16日</p></td>
+<td><p>馬和鹿</p></td>
+<td><p>米津玄師</p></td>
+<td><p>1.9</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月23日</p></td>
+<td><p>紅蓮華</p></td>
+<td><p>LiSA</p></td>
+<td><p>1.8</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

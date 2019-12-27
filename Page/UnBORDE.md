@@ -28,7 +28,7 @@ unBORDE在2010年由日本华纳音乐设立，同时还设立了以经济管理
 
   - [神圣kamattechan](../Page/神聖かまってちゃん.md "wikilink")（2010年－）
 
-  - （2018年－）
+  - [須田景凪](../Page/須田景凪.md "wikilink")（2018年－）
 
   - [高橋優](https://zh.wikipedia.org/wiki/高橋優 "wikilink") （2010年－）
 

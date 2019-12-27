@@ -49,6 +49,8 @@
 
 ## 節目列表
 
+### 2019年
+
 | 集數 | 日期     | 外景地點                                                                                                                                    | 主題                     |
 | -- | ------ | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
 | 1  | 5月5日   | [高雄市](../Page/高雄市.md "wikilink")                                                                                                        | 美食扛霸子　澎派吃住首發團          |
@@ -82,6 +84,7 @@
 | 29 | 11月17日 | [高雄市](../Page/高雄市.md "wikilink")                                                                                                        | 高雄老饕認證　吃過的都說好          |
 | 30 | 11月24日 | [台南市](https://zh.wikipedia.org/wiki/台南市 "wikilink")                                                                                     | 天涼好個秋泡好湯　呷好味實在太享受      |
 | 31 | 12月1日  | [雲林縣](https://zh.wikipedia.org/wiki/雲林縣 "wikilink")[古坑鄉](https://zh.wikipedia.org/wiki/古坑鄉 "wikilink")                                  | 走過路過不能放過 古坑隱藏秘點挖出來     |
+| 32 | 12月8日  | [台中市](https://zh.wikipedia.org/wiki/台中市 "wikilink")[和平區](../Page/和平區_\(台灣\).md "wikilink")、[東勢區](../Page/東勢區.md "wikilink")             | 一生一定要住一次　頂級溫泉渡假村開箱囉    |
 |    |        |                                                                                                                                         |                        |
 
 ## 參考資料
@@ -90,7 +93,7 @@
 
   -
   -
-[Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink") [Category:中天電視節目](https://zh.wikipedia.org/wiki/Category:中天電視節目 "wikilink") [Category:旅遊節目](https://zh.wikipedia.org/wiki/Category:旅遊節目 "wikilink")
+[Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink") [Category:中天電視節目](https://zh.wikipedia.org/wiki/Category:中天電視節目 "wikilink") [Category:旅遊節目](https://zh.wikipedia.org/wiki/Category:旅遊節目 "wikilink") [Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink")
 
 1.  [《來去CHECK IN》首錄花絮曝光…兩人尷尬指數爆表](https://www.chinatimes.com/realtimenews/20190426003589-260404)
 2.  [《食尚》班底再聯手！郭彥均巴鈺搭檔新節目「小尷尬」](https://star.ettoday.net/news/1437140)

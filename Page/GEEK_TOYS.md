@@ -35,9 +35,9 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/掠夺者_(漫画)" title="wikilink">掠夺者</a></p></td>
 <td></td>
-<td><p>2020年1月－（預定）</p></td>
+<td><p>2020年1月8日－（預定）</p></td>
 <td><p>漫画</p></td>
-<td></td>
+<td><p>24</p></td>
 <td></td>
 </tr>
 <tr class="even">

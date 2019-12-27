@@ -1,4 +1,4 @@
-**华为Mate系列**是中国通讯设备制造商[华为](../Page/华为.md "wikilink")面向消费者发售的高階[平板手机](../Page/平板手机.md "wikilink")系列，也是华为旗舰级别[智能手机](../Page/智能手机.md "wikilink")系列之一。自2016年，Mate系列搭载有后置[徕卡鏡頭](../Page/徕卡相机.md "wikilink")。
+**华为Mate系列**是中国通讯设备制造商[华为](../Page/华为.md "wikilink")面向消费者发售的高階[平板手机](../Page/平板手机.md "wikilink")系列，与[華為P系列共同为华为旗舰级别](https://zh.wikipedia.org/wiki/華為P系列 "wikilink")[智能手机](../Page/智能手机.md "wikilink")系列。自2016年，Mate系列搭载有后置[徕卡鏡頭](../Page/徕卡相机.md "wikilink")。
 
 ## 型号
 

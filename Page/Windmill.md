@@ -24,12 +24,13 @@
 
   - 2006年7月28日 - [はぴねす\! りらっくす](../Page/Happiness!.md "wikilink")
   - 2009年1月30日 - [祝福のカンパネラ -la campanella della benedizione-](https://zh.wikipedia.org/wiki/祝福的鐘聲 "wikilink")
-  - 2010年10月29日 - [祝祭のカンパネラ！ -la campanella di festività-](https://zh.wikipedia.org/wiki/祝福的鐘聲 "wikilink")
+  - 2010年10月29日 - [祝祭のカンパネラ\! -la campanella di festività-](https://zh.wikipedia.org/wiki/祝福的鐘聲 "wikilink")
   - 2012年11月30日 - ウィッチズガーデン
   - 2014年5月30日 - はぴねす\! えもーしょん
   - 2014年11月28日 - 春風センセーション\!
   - 2016年4月28日 - [ウィザーズコンプレックス](../Page/Wizards_Complex.md "wikilink")
   - 2019年2月22日 - [はぴねす\!2 Sakura Celebration](../Page/Happiness!2_Sakura_Celebration.md "wikilink")
+  - 2020年4月24日 - [はぴねす\!2 りらっくす](../Page/Happiness!2_Sakura_Celebration.md "wikilink")
 
 ## 參考來源
 

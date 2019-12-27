@@ -98,7 +98,7 @@
 <ul>
 <li>發行日期：2019年11月6日</li>
 <li>語言：韓語</li>
-<li>銷量：</li>
+<li>銷量：4,484[10]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -171,7 +171,7 @@
 | ----------- | ------------------------------- | --------------------------- | -- |
 | 2019年5月25日  | K-STAR LIVE POWER MUSIC         | 東豆川體育中心                     |    |
 | 2019年8月8日   | 2019 Popket Asia Music Festival | 仁川 Wangsan Marina           |    |
-| 2019年9月8日   | 第八回 2019 愛人愛生命步行慶典\[10\]        | 安養市 Pyeongchon Central Park |    |
+| 2019年9月8日   | 第八回 2019 愛人愛生命步行慶典\[11\]        | 安養市 Pyeongchon Central Park |    |
 | 2019年10月25日 | 2019 Hope BIG Concert           | 首爾市廣津區環球藝術中心                |    |
 
 ## 獎項與榮譽
@@ -205,4 +205,5 @@
 7.
 8.
 9.  [2019.07](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2019&termGbn=month)
-10.
+10. [2019.11](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=11&hitYear=2019&termGbn=month)
+11.

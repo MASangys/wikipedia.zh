@@ -99,7 +99,7 @@ HIMEHINA的活动构想始于2017年11月，由田中工务店策划运营\[1\]�
   -
   -
   -
-[Category:虛擬YouTuber](https://zh.wikipedia.org/wiki/Category:虛擬YouTuber "wikilink") [Category:日本YouTuber](https://zh.wikipedia.org/wiki/Category:日本YouTuber "wikilink") [Category:虚构艺人](https://zh.wikipedia.org/wiki/Category:虚构艺人 "wikilink")
+[Category:虚构艺人](https://zh.wikipedia.org/wiki/Category:虚构艺人 "wikilink") [Category:日本虛擬YouTuber](https://zh.wikipedia.org/wiki/Category:日本虛擬YouTuber "wikilink")
 
 1.
 2.

@@ -331,6 +331,15 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>34</p></td>
+<td><p>2020年3月14日</p></td>
+<td></td>
+<td><p><a href="../Page/柳州市.md" title="wikilink">柳州</a></p></td>
+<td><p>柳州體育中心體育場</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

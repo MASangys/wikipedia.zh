@@ -72,7 +72,7 @@
 </tr>
 <tr class="even">
 <td><p>2020年1月18日</p></td>
-<td><p><a href="../Page/澳門.md" title="wikilink">澳門</a></p></td>
+<td></td>
 <td></td>
 <td><p><a href="../Page/澳門東亞運動會體育館.md" title="wikilink">澳門東亞運動會體育館</a></p></td>
 </tr>

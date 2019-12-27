@@ -131,4 +131,4 @@
 
 [Category:法国音乐奖项](https://zh.wikipedia.org/wiki/Category:法国音乐奖项 "wikilink") [Category:法语音乐奖项](https://zh.wikipedia.org/wiki/Category:法语音乐奖项 "wikilink")
 
-1.  [NRJ Music Awards 2000](http://nrjmusicawards.nrj.fr/13-ans-3377/article/236038-nrj-music-awards-2000.html) visité le 03/02/2012
+1.  [NRJ Music Awards 2000](http://nrjmusicawards.nrj.fr/13-ans-3377/article/236038-nrj-music-awards-2000.html)  visité le 03/02/2012

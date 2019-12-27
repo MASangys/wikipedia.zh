@@ -329,7 +329,7 @@ Residential Complex</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
 </div></td>
-<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>），於ViuTV首播時不設網上重溫</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>），於ViuTV首播時不設重播時段及網上重溫</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -544,7 +544,7 @@ Legal High</p></td>
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2019年).md" title="wikilink">2019年now劇集台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/now劇集台" title="wikilink">now劇集台播出時名為</a>《Legal High》<br />
-外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>）</p></td>
+外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>），12月25日及26日凌晨重播時段改為04:30-05:30</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -721,21 +721,23 @@ About Time</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>25/12-<br />
-<br />
+21/01<br />
 <a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2020年)" title="wikilink">續20年</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黑巿_(電視劇)" title="wikilink">黑巿</a><br />
-</p></td>
-<td style="text-align: center;"></td>
+Dark City</p></td>
+<td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/王貽興.md" title="wikilink">王貽興</a>、、<a href="../Page/詹瑞文.md" title="wikilink">詹昊宸</a>、<br />
 <a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<a href="../Page/陳啟泰.md" title="wikilink">陳啟泰</a>、<a href="../Page/魯文傑.md" title="wikilink">魯文傑</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/朱康" title="wikilink">朱栢康</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/朱栢康" title="wikilink">朱栢康</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、<br />
 、、、<br />
-<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、、<a href="../Page/黃溢濠.md" title="wikilink">黃溢濠</a>、<br />
-<a href="../Page/陳潔玲.md" title="wikilink">陳潔玲</a>、<a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、<br />
-<a href="../Page/麥芷誼.md" title="wikilink">麥芷誼</a>、<a href="../Page/余采霖.md" title="wikilink">余采霖</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a><small>（<a href="https://zh.wikipedia.org/wiki/邱士縉" title="wikilink">邱士縉</a>、<a href="https://zh.wikipedia.org/wiki/呂爵安" title="wikilink">呂爵安</a>、<a href="https://zh.wikipedia.org/wiki/邱傲然" title="wikilink">邱傲然</a>）</small></p></td>
+<a href="../Page/張松枝.md" title="wikilink">張松枝</a>、、<a href="../Page/黃溢濠.md" title="wikilink">黃溢濠</a>、<br />
+<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<a href="https://zh.wikipedia.org/wiki/強尼" title="wikilink">強　尼</a>、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<br />
+<a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、<a href="../Page/張紋嘉.md" title="wikilink">張紋嘉</a>、<br />
+<a href="../Page/余采霖.md" title="wikilink">余采霖</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<a href="../Page/周祉君.md" title="wikilink">周祉君</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a><small>（<a href="https://zh.wikipedia.org/wiki/邱士縉" title="wikilink">邱士縉</a>、<a href="https://zh.wikipedia.org/wiki/呂爵安" title="wikilink">呂爵安</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/邱傲然" title="wikilink">邱傲然</a>、<a href="https://zh.wikipedia.org/wiki/柳應廷" title="wikilink">柳應廷</a>）</small></p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="http://viu.tv/encore/dark-city">網頁</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -872,7 +874,7 @@ Psycho Detective</p></td>
 
 #### 星期一至四
 
-[香港時間](../Page/香港時間.md "wikilink")逢星期二至五<small>（星期一至四深夜）</small>01:00-02:30播出；1月8日起改為00:30-02:00播出（4月2日至12日期間改為01:30-02:30播出，4月16日至25日期間改為01:30-03:00播出）；5月23日起改為00:30-01:30播出
+[香港時間](../Page/香港時間.md "wikilink")逢星期二至五<small>（星期一至四深夜）</small>01:00-02:30播出；1月8日起改為00:30-02:00播出（4月2日至12日期間改為01:30-02:30播出，4月16日至25日期間改為01:30-03:00播出）；5月23日起改為00:30-01:30播出；12月17日起改為01:00-02:00播出
 
 <table style="width:344%;">
 <colgroup>
@@ -1029,14 +1031,15 @@ The Liar &amp; His Lover</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>19/11-<br />
-31/12</p></td>
+01/01<br />
+<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2020年)" title="wikilink">續20年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/雲畫的月光.md" title="wikilink">雲畫的月光</a><br />
 Love in the moonlight</p></td>
 <td style="text-align: center;"><p>23</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now觀星台電視劇集列表_(2016年).md" title="wikilink">2016年now觀星台劇集</a></span></p>
 </div></td>
-<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a>），於<a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台首播時不設粵語配音</a>，11月19日改為01:00-02:00播出，12月25日至27日暫停播映，第22集於12月28日（星期六／<small>星期五深夜</small>）00:30-01:30播出</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a>），於<a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台首播時不設粵語配音</a>，11月19日改為01:00-02:00播出，12月25日至27日暫停播映</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -1581,6 +1584,20 @@ Wedding Bells for the Otaku?</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
+<td style="text-align: center;"><p>27/12-<br />
+28/12</p></td>
+<td style="text-align: center;"><p><a href="../Page/鳶_(小說).md" title="wikilink">父子情深</a><br />
+Yasu - A Single Father's Story</p></td>
+<td style="text-align: center;"><p>2</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">2017年ViuTV劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="https://zh.wikipedia.org/wiki/NHK" title="wikilink">NHK</a>），播映時間為04:30-06:00</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
 <td style="text-align: center;"><p>28/12</p></td>
 <td style="text-align: center;"><p><a href="../Page/大叔的愛.md" title="wikilink">大叔的愛 特別篇</a><br />
 Ossan's Love 2016</p></td>
@@ -1593,7 +1610,7 @@ Ossan's Love 2016</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

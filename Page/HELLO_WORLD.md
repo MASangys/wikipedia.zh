@@ -1,6 +1,12 @@
-《**HELLO WORLD**》（）是[日本](../Page/日本.md "wikilink")动画家[伊藤智彦编剧与执导的原創動畫電影](https://zh.wikipedia.org/wiki/伊藤智彦 "wikilink")，并由[松坂桃李](../Page/松坂桃李.md "wikilink")、[北村匠海](../Page/北村匠海.md "wikilink")和[滨边美波声演](https://zh.wikipedia.org/wiki/滨边美波 "wikilink")，2019年9月20日于日本上映。这是伊藤智彦继2017年《[刀剑神域剧场版：序列争战](https://zh.wikipedia.org/wiki/刀剑神域剧场版：序列争战 "wikilink")》后第一套动画，亦是其第6部执导电影作。\[1\]\[2\]
+《**HELLO WORLD**》（）是2019年9月20日于日本上映的[日本](../Page/日本.md "wikilink")原創動畫電影。
+
+## 概要
+
+这是伊藤智彦继2017年《[刀剑神域剧场版：序列争战](https://zh.wikipedia.org/wiki/刀剑神域剧场版：序列争战 "wikilink")》后第一套动画，亦是其第6部执导电影作。\[1\]\[2\]腳本則由小說家野崎まど負責，角色原案來自參與過[K-ON！輕音部](../Page/K-ON！輕音部.md "wikilink")與[幸運星的](https://zh.wikipedia.org/wiki/幸運星 "wikilink")[堀口悠紀子](../Page/堀口悠紀子.md "wikilink")。並由擅長3D動畫的[Graphinica](../Page/Graphinica.md "wikilink")製作。本作亦為[北村匠海](../Page/北村匠海.md "wikilink")首次挑戰為動畫片配音，使用預先錄音再進行畫面製作的流程。
 
 ## 登場人物
+
+### 主要角色
 
   -
     一名住在日本京都的16岁高中一年級生，学校的图书馆委员会委员。
@@ -15,6 +21,25 @@
   -
     堅書直實的同学和朋友，亦是图书馆委员会委员之一。
 
+<!-- end list -->
+
+  -
+
+### 次要角色
+
+  -
+    1年C班的圖書委員，在圖書委員會中是偶像般的存在。
+
+<!-- end list -->
+
+  -
+    京斗大學教授。
+
+<!-- end list -->
+
+  -
+    千古教授的助手，中國人。講話會混雜中文與日文。
+
 ## 制作团队
 
   - 原作、导演：[伊藤智彥](../Page/伊藤智彥.md "wikilink")
@@ -24,6 +49,17 @@
   - 动画制作：[Graphinica](../Page/Graphinica.md "wikilink")
   - 制作：“HELLO WORLD”制作委员会イエスタデイ
   - 主題曲：“[イエスタデイ](https://zh.wikipedia.org/wiki/イエスタデイ "wikilink")”
+
+## 歌曲
+
+  - 主題曲「イエスタデイ」
+    作詞、作曲：藤原聰，編曲：蔦谷好位置
+  - 片頭曲「オープニングテーマ feat.AAAMYYY」
+    演唱：AAAMYYY，作曲：オカモトショウ、オカモトコウキ
+  - 片尾曲「新世界」
+    填詞：オカモトショウ、作曲：オカモトショウ、オカモトコウキ，編曲：OKAMOTO'S、[小林武史](../Page/小林武史.md "wikilink")
+  - 插入曲「Lost Game」
+    作詞：Jeremy Quartus、Ryan Octaviano，作曲、編曲：Jeremy Quartus
 
 ## 参考资料
 

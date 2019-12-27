@@ -35,23 +35,33 @@ CompactFlash联盟于2016年9月7日发布了基于PCIe接口与NVNe协议的CFe
 
 在2018年12月11日，Apacer发布了其第一款CFexpress存储卡\[10\]，PV130-CFX。\[11\]
 
+#### 闪迪
+
+在2019年9月3日，[闪迪](../Page/闪迪.md "wikilink")的Extreme Pro CFexpress B型卡在亚马逊英国，亚马逊法国， 亚马逊意大利和亚马逊西班牙上市，并于9月4日在美国亚马逊上市。此系列产品标称1700MB / s的最大读取速度和1400MB / s的最大写入速度。同时，闪迪还发布了对应的读卡器Sandisk USB 3.1 Extreme Pro CF Express。\[12\]
+
+#### 索尼
+
+在2019年2月28日，[索尼](../Page/索尼.md "wikilink")宣称正在开发CFexpress B型（128GB）超高速下一代存储卡，支持CFexpress标准。该卡最大读取速度为1700MB / s，最大写入速度为1480MB / s，而且还具有出色的耐用性，例如抗弯强度是CFexpress标准的3倍，抗摔强度是CFexpress标准的5倍。这款开发中的产品计划于2019年夏季以128GB规格上市。同时索尼正在考虑开发256GB和512GB的大容量规格的产品。\[13\]
+
 #### Wise Advanced
 
-在2019年4月7日, Wise Advanced宣布开发512GB、256GB与128GB的CFexpress存储卡与CFexpress读卡器，其均使用CFexpress Type B。 \[12\]
+在2019年4月7日, Wise Advanced宣布开发512GB、256GB与128GB的CFexpress存储卡与CFexpress读卡器，其均使用CFexpress Type B。 \[14\]
 
 ### 零件
 
-在2017年10月2日，Rego Electronics发布了CFexpress主机连接器与存储卡套件。这些零件可供制造商用于他们的CFexpress设备与储存卡。\[13\]\[14\]\[15\]
+在2017年10月2日，Rego Electronics发布了CFexpress主机连接器与存储卡套件。这些零件可供制造商用于他们的CFexpress设备与储存卡。\[15\]\[16\]\[17\]
 
 ### 客户端设备
 
 在2017年7月，还没有已知的CFexpress客户端设备被发布。但在2017年10月末，一位[Lexar的雇员对Nikon](../Page/美光科技.md "wikilink") Rumors表示:
 
-> CFExpress本质上是XQD的下一个版本，并且应该能与XQD完全向后兼容。让D4 / D5 / 500 / D850与CFE储存卡一起工作应该只需一个简单的软件补丁就可以实现。 \[16\]
+> CFExpress本质上是XQD的下一个版本，并且应该能与XQD完全向后兼容。让D4 / D5 / 500 / D850与CFE储存卡一起工作应该只需一个简单的软件补丁就可以实现。 \[18\]
 
-2018年8月23日， [尼康](../Page/尼康.md "wikilink")宣布推出新的[无反相机Z](../Page/無反光鏡可換鏡頭相機.md "wikilink")6和Z7 。两者都使用XQD卡，但最终将通过固件升级支持CFexpress卡， \[17\] \[18\]但在2019年5月发布的2.00版本的固件更新时没有实现。 \[19\] 2019年2月13日，尼康进一步确认对D5，D850和D500的CFExpress支持也将通过固件更新的方式实现。 \[20\]
+2018年8月23日， [尼康](../Page/尼康.md "wikilink")宣布推出新的[无反相机Z](../Page/無反光鏡可換鏡頭相機.md "wikilink")6和Z7 。两者都使用XQD卡，但最终将通过固件升级支持CFexpress卡， \[19\] \[20\]但在2019年5月发布的2.00版本的固件更新时没有实现。 \[21\] 2019年2月13日，尼康进一步确认对D5，D850和D500的CFExpress支持也将通过固件更新的方式实现。 \[22\]
 
-2018年8月28日，[Phase One宣布XF](../Page/Phase_One.md "wikilink") IQ4相机系统，支持XQD卡并将在未来支持CFexpress存储卡。 \[21\]
+2018年8月28日，[Phase One宣布XF](../Page/Phase_One.md "wikilink") IQ4相机系统，支持XQD卡并将在未来支持CFexpress存储卡。 \[23\]
+
+2019年12月17日，[尼康](../Page/尼康.md "wikilink")发布了针对无反相机Z6和Z7的2.20版本固件更新，其中允许了索尼生产的CFexpress B型卡的使用。而对于其他厂商生产的CFexpress卡，尼康仍在测试与认证中，支持情况会根据市面产品而变化。\[24\]\[25\]
 
 ## 参见
 
@@ -76,12 +86,16 @@ CompactFlash联盟于2016年9月7日发布了基于PCIe接口与NVNe协议的CFe
 10.
 11.
 12.
-13.
+13.  ソニーグループ ポータルサイト|language=ja}}
 14.
 15.
-16.  Nikon Rumors|url=[https://nikonrumors.com/2017/10/31/more-info-on-lexar-xqd-and-cfexpress-memory-cards-compatibility-hoodman-rumored-to-start-making-xqd-cards.aspx/|accessdate=2017-11-08|work=nikonrumors.com|language=en-US](https://nikonrumors.com/2017/10/31/more-info-on-lexar-xqd-and-cfexpress-memory-cards-compatibility-hoodman-rumored-to-start-making-xqd-cards.aspx/%7Caccessdate=2017-11-08%7Cwork=nikonrumors.com%7Clanguage=en-US)}}
+16.
 17.
-18.
+18.  Nikon Rumors|url=[https://nikonrumors.com/2017/10/31/more-info-on-lexar-xqd-and-cfexpress-memory-cards-compatibility-hoodman-rumored-to-start-making-xqd-cards.aspx/|accessdate=2017-11-08|work=nikonrumors.com|language=en-US](https://nikonrumors.com/2017/10/31/more-info-on-lexar-xqd-and-cfexpress-memory-cards-compatibility-hoodman-rumored-to-start-making-xqd-cards.aspx/%7Caccessdate=2017-11-08%7Cwork=nikonrumors.com%7Clanguage=en-US)}}
 19.
 20.
 21.
+22.
+23.
+24.
+25.  ニコンイメージング|url=[https://www.nikon-image.com/support/whatsnew/2019/1217_03.html|accessdate=2019-12-18|work=www.nikon-image.com|language=ja](https://www.nikon-image.com/support/whatsnew/2019/1217_03.html%7Caccessdate=2019-12-18%7Cwork=www.nikon-image.com%7Clanguage=ja)}}

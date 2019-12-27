@@ -79,6 +79,48 @@
 
 ## 獎項
 
+### 大型頒獎禮獎項
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年份</p></td>
+<td><p>頒獎典禮</p></td>
+<td><p>獎項</p></td>
+<td><p>作品</p></td>
+<td><p>結果</p></td>
+</tr>
+<tr class="even">
+<td><p>2020年</p></td>
+<td><p>|第34屆<a href="https://zh.wikipedia.org/wiki/金唱片獎" title="wikilink">金唱片獎</a></p></td>
+<td><p>專輯部門－本賞</p></td>
+<td><p>《What a life》</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第29屆<a href="https://zh.wikipedia.org/wiki/首爾歌謠大賞" title="wikilink">首爾歌謠大賞</a></p></td>
+<td><p>本賞</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>人氣賞</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>韓流特別賞</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ### 音樂節目獎項
 
 | 年份    | 日期   | 電視臺                                                      | 節目名稱                                                              | 獲獎歌曲        | 排名 |

@@ -19,7 +19,7 @@ FLWM窗口管理器的特征包括：
 
 ## 参见
 
-  - [X窗口管理器比较](https://zh.wikipedia.org/wiki/X窗口管理器比较 "wikilink")
+  - [X窗口管理器比较](../Page/X窗口管理器比较.md "wikilink")
 
 ## 引用
 

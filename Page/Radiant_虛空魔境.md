@@ -478,10 +478,40 @@
 <td><p>重信康</p></td>
 <td><p><a href="../Page/鈴木行.md" title="wikilink">鈴木行</a></p></td>
 <td></td>
-<td><p>幸野浩二、樋口博美 &lt;!--&gt;|-</p></td>
+<td><p>幸野浩二、樋口博美</p></td>
 </tr>
 <tr class="odd">
+<td><p>第10話</p></td>
+<td><p><br />
+</p></td>
+<td><p>騎士的資格</p></td>
+<td><p>蒼樹靖子</p></td>
+<td><p>山田卓</p></td>
+<td><p>小沼克介、黑澤佳子</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>第11話</p></td>
+<td><p><br />
+</p></td>
+<td><p>現在去感受世界</p></td>
+<td><p>重信康</p></td>
+<td><p>濱田將太</p></td>
+<td><p>森山雄治、二宮奈那子</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第12話</p></td>
+<td><p><br />
+</p></td>
+<td><p>真相宛如詛咒</p></td>
+<td><p>上江洲誠</p></td>
+<td><p>久行宏和</p></td>
+<td><p>鎌田祐輔</p></td>
+<td><p>二宮奈那子、櫻井木之實 &lt;!--&gt;|-</p></td>
+</tr>
+<tr class="even">
+<td><p>第14話</p></td>
 <td><p><br />
 </p></td>
 <td></td>

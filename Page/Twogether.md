@@ -19,7 +19,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/劉以豪.md" title="wikilink">劉以豪</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/男演員" title="wikilink">演員</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/男演員" title="wikilink">演員</a>、<a href="../Page/歌手.md" title="wikilink">歌手</a><br />
 </p></td>
 <td></td>
 </tr>

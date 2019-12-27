@@ -1,4 +1,4 @@
-《**<big>B'INLUV</big>**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[團體](https://zh.wikipedia.org/wiki/團體 "wikilink")[SpeXial](../Page/SpeXial.md "wikilink")第五張專輯，，於2017年12月17日發行。 \[1\]
+《**<big>Buddy buddy</big>**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[團體](https://zh.wikipedia.org/wiki/團體 "wikilink")[SpeXial](../Page/SpeXial.md "wikilink")第五張專輯，，於2017年12月17日發行。 \[1\]
 
 此專輯也是唯一一張九人之姿，也是[宏正與](https://zh.wikipedia.org/wiki/宏正 "wikilink")[偉晉](../Page/偉晉.md "wikilink")和[teddy最後一次參與團體專輯](https://zh.wikipedia.org/wiki/teddy "wikilink")
 

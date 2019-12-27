@@ -24,7 +24,7 @@
 
 2018年10月，夏普收購。
 
-2019年1月，更名Dynabook。
+2019年1月，更名Dynabook。\[1\]
 
 ## 參考文獻
 
@@ -33,3 +33,5 @@
   - [Dynabook](https://dynabook.com/index.html)
 
 [Category:夏普](https://zh.wikipedia.org/wiki/Category:夏普 "wikilink") [Category:東芝](https://zh.wikipedia.org/wiki/Category:東芝 "wikilink") [Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink") [Category:日本電子公司](https://zh.wikipedia.org/wiki/Category:日本電子公司 "wikilink") [Category:1954年成立的公司](https://zh.wikipedia.org/wiki/Category:1954年成立的公司 "wikilink")
+
+1.

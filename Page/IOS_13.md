@@ -247,7 +247,7 @@ Memoji 新增了更多设计，从头发、嘴唇、帽子、耳环、甚至可�
 </tr>
 <tr class="even">
 <td><p>Developer beta 4</p></td>
-<td><p><small>17A5844a<small></p></td>
+<td><p><small>17A5844a<small><small><small></p></td>
 <td><p>2019年9月19日</p></td>
 <td></td>
 </tr>
@@ -306,6 +306,18 @@ Memoji 新增了更多设计，从头发、嘴唇、帽子、耳环、甚至可�
 <td><p>2019年10月29日</p></td>
 </tr>
 <tr class="even">
+<td><p>13.2.2</p></td>
+<td><p>正式版</p></td>
+<td><p>17B102</p></td>
+<td><p>2019年11月8日</p></td>
+</tr>
+<tr class="odd">
+<td><p>13.2.3</p></td>
+<td><p>正式版</p></td>
+<td><p>17B111</p></td>
+<td><p>2019年11月19日</p></td>
+</tr>
+<tr class="even">
 <td><p>13.3</p></td>
 <td><p>Developer beta 1</p></td>
 <td><p>17C5032d</p></td>
@@ -324,24 +336,18 @@ Memoji 新增了更多设计，从头发、嘴唇、帽子、耳环、甚至可�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>13.2.2</p></td>
-<td><p>正式版</p></td>
-<td><p>17B102</p></td>
-<td><p>2019年11月8日</p></td>
+<td><p>Developer Beta 4</p></td>
+<td><p>17C5053a</p></td>
+<td><p>2019年12月6日</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>13.3</p></td>
+<td><p>正式版</p></td>
+<td><p>17C54</p></td>
+<td><p>2019年12月10日</p></td>
 </tr>
 <tr class="odd">
-<td><p>13.2.3</p></td>
-<td><p>正式版</p></td>
-<td><p>17B111</p></td>
-<td><p>2019年11月19日</p></td>
-</tr>
-<tr class="even">
 <td></td>
 <td></td>
 <td></td>

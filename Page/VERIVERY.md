@@ -97,6 +97,8 @@ VERIVERY(베리베리) + Lover(러버)的縮寫，代表熱愛VERIVERY的人們�
 
 7月31日，首張單曲專輯《VERI-CHILL》正式發行，並公開主打歌《Tag Tag Tag》MV。
 
+12月15日，Jellyfish娛樂公開2020 VERIVERY CONCEPT TRAILER : FACE it 影片，隨後宣布將於2020年1月7日發行第三張迷你專輯《FACE ME》，並公開行程表，陸續釋出概念照、預告影片、曲目表和Highlight Medley。\[22\]
+
 ## 音樂作品
 
 ### 數位單曲
@@ -137,7 +139,7 @@ VERIVERY(베리베리) + Lover(러버)的縮寫，代表熱愛VERIVERY的人們�
 <ul>
 <li>發行日期：2019年1月9日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>銷量：24,080 +[22]</li>
+<li>銷量：24,080 +[23]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -147,7 +149,7 @@ VERIVERY(베리베리) + Lover(러버)的縮寫，代表熱愛VERIVERY的人們�
 <ul>
 <li>發行日期：2019年4月24日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>銷量：17,630+[23]</li>
+<li>銷量：17,630+[24]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -169,7 +171,7 @@ VERIVERY(베리베리) + Lover(러버)的縮寫，代表熱愛VERIVERY的人們�
 <ul>
 <li>發行日期：2019年7月31日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>銷量：16,698+[24]</li>
+<li>銷量：16,698+[25]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -258,13 +260,13 @@ VERIVERY(베리베리) + Lover(러버)的縮寫，代表熱愛VERIVERY的人們�
 |    |          |          |        |
 | -- | -------- | -------- | ------ |
 | 成員 | 登記名稱     | 登記編號     | 參與歌曲列表 |
-| 東憲 | 동헌 / 이동헌 | 10020474 | \[25\] |
-| 號英 | 호영 / 배호영 | 10020475 | \[26\] |
-| 愍撰 | 홍민찬      | 10020756 | \[27\] |
-| 啓賢 | 조계현      | 10020759 | \[28\] |
-| 延浩 | 주연호      | 10020758 | \[29\] |
-| 勇勝 | 김용승      | 10020760 | \[30\] |
-| 岡旻 | 유강민      | 10020757 | \[31\] |
+| 東憲 | 동헌 / 이동헌 | 10020474 | \[26\] |
+| 號英 | 호영 / 배호영 | 10020475 | \[27\] |
+| 愍撰 | 홍민찬      | 10020756 | \[28\] |
+| 啓賢 | 조계현      | 10020759 | \[29\] |
+| 延浩 | 주연호      | 10020758 | \[30\] |
+| 勇勝 | 김용승      | 10020760 | \[31\] |
+| 岡旻 | 유강민      | 10020757 | \[32\] |
 
 ## 影音作品
 
@@ -367,19 +369,20 @@ VERIVERY(베리베리) + Lover(러버)的縮寫，代表熱愛VERIVERY的人們�
 
 ### 其他公演
 
-|        |                                                 |                   |
-| ------ | ----------------------------------------------- | ----------------- |
-| 日期     | 活動名稱                                            | 舉行地點              |
-| 2019年  |                                                 |                   |
-| 5月18日  | 《《KCON 2019 JAPAN》                              | 日本幕張展覽館           |
-| 5月26日  | 《HallyuPopFest 2019》                            | 新加坡室內體育館          |
-| 6月1日   | 《第20屆 原州玫瑰慶典》                                   | 丹桂洞玫瑰公園           |
-| 7月7日   | 《KCON 2019 NY》                                  | 美國麥迪遜廣場花園         |
-| 8月1日   | 《M2 X GENIE MUSIC AWARDS》                       | 首爾奧林匹克體操競技場       |
-| 8月18日  | 《KCON 2019 LA》                                  | 美國洛杉磯史坦波中心        |
-| 9月2日   | 《BRAND K-POP SHOW》                              | 泰國曼谷CENTRAL WORLD |
-| 9月29日  | 《KCON 2019 Thailand》                            | 泰國IMPACT會展中心      |
-| 11月10日 | 《2019 PChome Is Coming One Makes Great Concert》 | 台灣壹電視攝影棚          |
+|        |                                                 |                                 |
+| ------ | ----------------------------------------------- | ------------------------------- |
+| 日期     | 活動名稱                                            | 舉行地點                            |
+| 2019年  |                                                 |                                 |
+| 5月18日  | 《《KCON 2019 JAPAN》                              | 日本幕張展覽館                         |
+| 5月26日  | 《HallyuPopFest 2019》                            | 新加坡室內體育館                        |
+| 6月1日   | 《第20屆 原州玫瑰慶典》                                   | 丹桂洞玫瑰公園                         |
+| 7月7日   | 《KCON 2019 NY》                                  | 美國麥迪遜廣場花園                       |
+| 8月1日   | 《M2 X GENIE MUSIC AWARDS》                       | 首爾奧林匹克體操競技場                     |
+| 8月18日  | 《KCON 2019 LA》                                  | 美國洛杉磯史坦波中心                      |
+| 9月2日   | 《BRAND K-POP SHOW》                              | 泰國曼谷CENTRAL WORLD               |
+| 9月29日  | 《KCON 2019 Thailand》                            | 泰國IMPACT會展中心                    |
+| 11月10日 | 《2019 PChome Is Coming One Makes Great Concert》 | 台灣壹電視攝影棚                        |
+| 12月21日 | 《KPOP NORTH 2019》                               | Metro Toronto Convention Centre |
 
 ## 獎項與榮譽
 
@@ -481,9 +484,9 @@ VERIVERY(베리베리) + Lover(러버)的縮寫，代表熱愛VERIVERY的人們�
 19.
 20.
 21.
-22. [2019年GAON 2月專輯榜33位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=02&hitYear=2019&termGbn=month)
-23. [2019年6月GAON專輯榜68位](http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&termGbn=month)
-24.
+22.
+23. [2019年GAON 2月專輯榜33位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=02&hitYear=2019&termGbn=month)
+24. [2019年6月GAON專輯榜68位](http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&termGbn=month)
 25.
 26.
 27.
@@ -491,3 +494,4 @@ VERIVERY(베리베리) + Lover(러버)的縮寫，代表熱愛VERIVERY的人們�
 29.
 30.
 31.
+32.

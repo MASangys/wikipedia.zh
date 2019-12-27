@@ -46,7 +46,7 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 
 ​​​​在完成了香港的演唱会之后，组合于8月25日开始在日本举行巡回演唱会\[36\]。8月10日，在《布宜諾斯艾利斯》的发行纪念活动中，公布了组合将于9月25日（日巡最终场举行日）发行第三张单曲《[Vampire](../Page/Vampire_\(單曲\).md "wikilink")》的消息\[37\]\[38\]。继上张单曲后，本张单曲再次于[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")录得超过20万张的销量，在日本国外艺人中是继[TWICE之后第二组获此成绩](https://zh.wikipedia.org/wiki/TWICE "wikilink")，并凭借20.5万张销量首次夺得Oricon公信榜单曲周榜冠军\[39\]。
 
-  - 首張正規專輯《[BLOOM\*IZ](https://zh.wikipedia.org/wiki/BLOOM*IZ "wikilink")》 、卷入[PRODUCE X 101投票造假爭議事件](https://zh.wikipedia.org/wiki/PRODUCE_X_101投票造假爭議事件 "wikilink")
+  - 首張正規專輯《[BLOOM\*IZ](../Page/BLOOM*IZ.md "wikilink")》 、卷入[PRODUCE X 101投票造假爭議事件](../Page/PRODUCE_X_101投票造假爭議事件.md "wikilink")
 
 10月29日，组合于官方社交媒体公开了新专辑的预告视频\[40\]，并公布将于11月11日发行首張正規專輯《BLOOM\*IZ》\[41\]。在11月6日，《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》及其系列节目的制作人安俊英因涉嫌伪造《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》票数被警方拘留，在审讯中，他承认了对《PRODUCE 48》最終票数的更改\[42\]。受此影响，11月7日，官方宣布《BLOOM\*IZ》的发行延期\[43\]，组合已录制的多个综艺节目也表示取消播出或剪辑有组合成员出演的部分\[44\]，而原定于11月15日首映的演唱会纪录片也停止了排映计划。在11月26日，组合原定12月于日本举行的活动宣布延期\[45\]。而后，“IZ\*ONE Private Mail”服务也宣布休止\[46\]。
 
@@ -78,7 +78,7 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 
 #### 正規專輯
 
-  - 《[BLOOM\*IZ](https://zh.wikipedia.org/wiki/BLOOM*IZ "wikilink")》（发行日期未定）
+  - 《[BLOOM\*IZ](../Page/BLOOM*IZ.md "wikilink")》（发行日期未定）
 
 #### 迷你專輯
 
@@ -734,7 +734,7 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <td><p><a href="../Page/HEART*IZ.md" title="wikilink">HEART*IZ</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/BLOOM*IZ" title="wikilink">BLOOM*IZ</a></p></td>
+<td><p><a href="../Page/BLOOM*IZ.md" title="wikilink">BLOOM*IZ</a></p></td>
 </tr>
 <tr class="odd">
 <td><ul>

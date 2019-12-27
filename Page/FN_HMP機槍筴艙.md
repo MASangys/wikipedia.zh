@@ -227,8 +227,8 @@
 
   - —new.FN Herstal.com—
 
-      - [FN® HMP400 LC](http://new.fnherstal.com/primary-menu/products-capabilities/airborne-weapon-systems/general/product/311/302/311/19/_/fnR-hmp400-lc.html)
-      - [FN® HMP400 LCC](http://new.fnherstal.com/primary-menu/products-capabilities/airborne-weapon-systems/general/product/311/302/311/19/_/fnR-hmp400-lcc.html)
+      - [FN® HMP400 LC](https://web.archive.org/web/20190216020510/http://new.fnherstal.com/primary-menu/products-capabilities/airborne-weapon-systems/general/product/311/302/311/19/_/fnR-hmp400-lc.html)
+      - [FN® HMP400 LCC](https://web.archive.org/web/20190216020510/http://new.fnherstal.com/primary-menu/products-capabilities/airborne-weapon-systems/general/product/311/302/311/19/_/fnR-hmp400-lcc.html)
 
   - —[FN America.com—FN Airborne Pod Systems](https://fnamerica.com/military/fn-airborne-pod-systems/)
 

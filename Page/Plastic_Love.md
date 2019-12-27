@@ -26,7 +26,7 @@
 
 ## 外部链接
 
-[Category:竹內瑪莉亞歌曲](https://zh.wikipedia.org/wiki/Category:竹內瑪莉亞歌曲 "wikilink") [Category:1984年單曲](https://zh.wikipedia.org/wiki/Category:1984年單曲 "wikilink") [Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink") [Category:日本電視劇主題曲](https://zh.wikipedia.org/wiki/Category:日本電視劇主題曲 "wikilink")
+[Category:竹內瑪莉亞歌曲](https://zh.wikipedia.org/wiki/Category:竹內瑪莉亞歌曲 "wikilink") [Category:1984年單曲](https://zh.wikipedia.org/wiki/Category:1984年單曲 "wikilink") [Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink") [Category:日本電視劇主題曲](https://zh.wikipedia.org/wiki/Category:日本電視劇主題曲 "wikilink") [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink")
 
 1.
 2.

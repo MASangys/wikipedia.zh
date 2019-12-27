@@ -83,7 +83,7 @@
 3.  [Arriva North East launches first MAX route](http://www.busandcoachbuyer.com/arriva-north-east-launches-first-max-route/) *Bus & Coach Buyer* 5 September 2014
 4.  [Sapphire on Deeside](http://www.busandcoachbuyer.com/sapphire-deeside/) *Coach & Bus Buyer* 20 March 2015
 5.  [Max - new interurban express services from Arriva](https://www.arrivabus.co.uk/about-us/max--new-inter-urban-express-services-from-arriva/) Arriva
-6.  [Titan the robot entertains crowds at Arriva bus route event](http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/video-titan-the-robot-entertains-crowds-at-arriva-bus-route-event-1-7176759) *[Yorkshire Evening Post](https://zh.wikipedia.org/wiki/Yorkshire_Evening_Post "wikilink")* 26 March 2015
+6.  [Titan the robot entertains crowds at Arriva bus route event](http://www.yorkshireeveningpost.co.uk/news/latest-news/top-stories/video-titan-the-robot-entertains-crowds-at-arriva-bus-route-event-1-7176759)  *[Yorkshire Evening Post](https://zh.wikipedia.org/wiki/Yorkshire_Evening_Post "wikilink")* 26 March 2015
 7.  [Arriva Max brand launches in Leeds](http://www.route-one.net/industry/arriva-max-brand-launches-in-leeds/)  *RouteOne* 1 April 2015
 8.  [More Arriva Max in Yorkshire](http://www.busandcoachbuyer.com/arriva-max-yorkshire/) *Bus & Coach Buyer* 1 April 2015
 9.  [Titan takes bus travel to the Max](http://www.thenorthernecho.co.uk/news/12918523.Titan_takes_bus_travel_to_the_MAX/) *[The Northern Echo](https://zh.wikipedia.org/wiki/The_Northern_Echo "wikilink")* 29 April 2015

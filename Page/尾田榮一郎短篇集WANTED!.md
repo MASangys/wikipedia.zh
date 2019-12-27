@@ -110,19 +110,19 @@
 #### 登場角色
 
   - [蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")
-    聲優：[田中真弓](../Page/田中真弓.md "wikilink")（日本）
-    「ROMANCE DAWN（WJ版）」主角，海賊，出海尋找「PIECE MAIN」並且加入他們。
+    聲優：[田中真弓](../Page/田中真弓.md "wikilink")（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（日本）
+    「ROMANCE DAWN（WJ版）」主角，「PIECE MAIN」海賊，出海尋找「PIECE MAIN」並且加入他們。
   -
-    聲優：[岡村明美](../Page/岡村明美.md "wikilink")（日本）
+    聲優：[岡村明美](../Page/岡村明美.md "wikilink")（日本）；[許淑嬪](../Page/許淑嬪.md "wikilink")（日本）
     「ROMANCE DAWN（WJ版）」女主角。與巴魯被海賊修畢爾捉住的少女。是《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》中[娜美](../Page/娜美.md "wikilink")的原型角色之一。
   -
-    聲優：[山口勝平](../Page/山口勝平.md "wikilink")（日本）
+    聲優：[山口勝平](../Page/山口勝平.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（日本）
     安的夥伴，據說是世界上最後一隻「怪鳥（ルク）」，且據說牠的血具有妖力。
   -
-    聲優：[長](https://zh.wikipedia.org/wiki/長_\(日本配音員\) "wikilink")（日本）
+    聲優：[長](https://zh.wikipedia.org/wiki/長_\(日本配音員\) "wikilink")（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（日本）
     「ROMANCE DAWN（WJ版）」反派角色。「MORGANIA」海賊，外號「」，由來自他的六方向束著的頭髪，被魯夫嘲笑頭像水黽。懸賞金350萬貝里\[9\]。
   -
-    聲優：[中博史](../Page/中博史.md "wikilink")（日本）
+    聲優：[中博史](../Page/中博史.md "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")（日本）
     「PIECE MAIN」海賊，戴著草帽。同樣是《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》中魯夫祖父卡普的原型角色。
 
 ## 發行書籍

@@ -1,4 +1,4 @@
-是由日本漫畫家所創作的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，在2019年3月25日起於《》上開始連載。
+是由日本漫畫家[遠藤達哉所創作的](https://zh.wikipedia.org/wiki/遠藤達哉 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，在2019年3月25日起於《》上開始連載。
 
 本作為作者的第三部作品，敘述一名身為間諜的男性、本職是殺手的女性，還有一個超能力者的少女所組成的虛假家庭間的家庭喜劇。
 
@@ -74,20 +74,24 @@
 <tr class="header">
 <th><p>卷數</p></th>
 <th><p><a href="../Page/集英社.md" title="wikilink">集英社</a></p></th>
+<th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>發售日期</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2019年7月4日[6]</p></td>
+<td><p>ISBN 978-4-08-882011-8</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2019年10月4日[7]</p></td>
+<td><p>ISBN 978-4-08-882120-7</p></td>
 </tr>
 </tbody>
 </table>

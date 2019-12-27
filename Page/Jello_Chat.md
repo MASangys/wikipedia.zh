@@ -1,5 +1,7 @@
 **Jello**，是一款全球通用的[通訊軟體](https://zh.wikipedia.org/wiki/通訊軟體 "wikilink")，以免費通話傳訊、高隱私、無痕、塗鴉、自製[貼圖](../Page/貼圖.md "wikilink")/[GIF](../Page/GIF.md "wikilink")、串連[街口電子支付](../Page/街口電子支付.md "wikilink")轉帳/發紅包為產品特色。 Jello 自2019年1月31日起交由街口接管營運，隸屬於[街口網絡股份有限公司](https://zh.wikipedia.org/wiki/街口網絡股份有限公司 "wikilink")。
 
+**Jello**於2019年12月請到韓國女團[少女時代的成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[潤娥擔任品牌代言人](https://zh.wikipedia.org/wiki/潤娥 "wikilink")。\[1\] [潤娥除了為Jello拍攝廣告以外](https://zh.wikipedia.org/wiki/潤娥 "wikilink")，將會於12月13日的品牌代言人記者會親自分享Jello的使用心得，品牌當天亦邀請40位粉絲入場，近距離感受潤娥的女神魅力。\[2\]\[3\]\[4\]
+
 ## 特色與功能
 
   - 好友邀請制度：在第一次與他人聊天傳訊前，需先發送好友邀請，對方收到後可選擇接受或拒絕，接受後才正式成為好友可以開始進行聊天通訊，若拒絕則無法傳送訊息給該用戶。
@@ -16,18 +18,22 @@
 
 ## 爭議
 
-Jello上架後因有心人士未獲創作者授權就盜用貼圖上傳平台，Jello未在第一時間做好把關與侵權處理，引發創作者的反彈，產生智慧財產權爭議。在創作者的聯合聲明後，在台的合作對象街口負責人表示，兩者僅為合作關係，已和Jello密切聯繫處理後續事宜。\[1\]
+Jello上架後因有心人士未獲創作者授權就盜用貼圖上傳平台，Jello未在第一時間做好把關與侵權處理，引發創作者的反彈，產生智慧財產權爭議。在創作者的聯合聲明後，在台的合作對象街口負責人表示，兩者僅為合作關係，已和Jello密切聯繫處理後續事宜。\[5\]
 
-[街口網絡股份有限公司宣布自](https://zh.wikipedia.org/wiki/街口網絡股份有限公司 "wikilink")1月31日起，接管Jello在台營運，並下架所有有疑慮的貼圖，\[2\]\[3\]\[4\]2月2日宣布即日起下架，街口過年紅包瘋狂送活動取消，並對於審核機制不周全而影響創作者的權益表達歉意。\[5\]\[6\]\[7\]
+[街口網絡股份有限公司宣布自](https://zh.wikipedia.org/wiki/街口網絡股份有限公司 "wikilink")1月31日起，接管Jello在台營運，並下架所有有疑慮的貼圖，\[6\]\[7\]\[8\]2月2日宣布即日起下架，街口過年紅包瘋狂送活動取消，並對於審核機制不周全而影響創作者的權益表達歉意。\[9\]\[10\]\[11\]
 
 ## 参考资料
 
 [Category:2019年軟體](https://zh.wikipedia.org/wiki/Category:2019年軟體 "wikilink") [Category:通讯软件](https://zh.wikipedia.org/wiki/Category:通讯软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
 
 1.
-2.  自由財經 |url=<https://ec.ltn.com.tw/article/breakingnews/2689176> |accessdate=2019-02-06 |work=自由時報}}
-3.   產經 {{\!}} 中央社 CNA |url=<https://www.cna.com.tw/news/afe/201902010245.aspx> |work=中央社 |language=zh-TW}}
+2.
+3.
 4.
 5.
-6.   生活 |url=<https://www.nownews.com/news/20190130/3206231/> |work=NOWnews 今日新聞 |date=2019-01-30 |language=zh-TW}}
-7.   產經 {{\!}} 重點新聞 {{\!}} 中央社 CNA |url=<https://www.cna.com.tw/news/firstnews/201902030102.aspx> |work=中央社 |language=zh-TW}}
+6.  自由財經 |url=<https://ec.ltn.com.tw/article/breakingnews/2689176> |accessdate=2019-02-06 |work=自由時報}}
+7.   產經 {{\!}} 中央社 CNA |url=<https://www.cna.com.tw/news/afe/201902010245.aspx> |work=中央社 |language=zh-TW}}
+8.
+9.
+10.  生活 |url=<https://www.nownews.com/news/20190130/3206231/> |work=NOWnews 今日新聞 |date=2019-01-30 |language=zh-TW}}
+11.  產經 {{\!}} 重點新聞 {{\!}} 中央社 CNA |url=<https://www.cna.com.tw/news/firstnews/201902030102.aspx> |work=中央社 |language=zh-TW}}

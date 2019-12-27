@@ -109,28 +109,37 @@
   - 刪掉Do You Love Me、Stay、Holiday、All Night、Fashion、Gemini等歌曲。
   - 變動項目以表示。</small>
 
-## 相關唱片
+## 相關影音
 
-  - Kihno Video
+《**'s...TAEYEON CONCERT**》是韓國女歌手[太妍](../Page/太妍.md "wikilink")的首張以Kihno Video型態發行的影音作品，由[SM娛樂](../Page/SM娛樂.md "wikilink")於2019年4月4日發行與製作。該影音作品收錄太妍於韓國首爾蠶室室內體育館舉辦的「['s...TAEYEON CONCERT](../Page/'s...TAEYEON_CONCERT.md "wikilink")」演唱會的現場實錄。\[4\]Kihno Video販售兩種版本為一般版和演唱會現場室內香氛噴霧限量版。內容物為Kihno Video、寫真88頁、花絮影片、室內香氛噴霧瓶。室內香氛噴霧分兩款香味為\[Certain.ty\]、\[S\]版。\[5\]\[6\]\[7\]
+
+### 曲目
+
+### 發行歷史
 
 <table>
 <thead>
 <tr class="header">
-<th><p>類別</p></th>
-<th><p>唱片資料</p></th>
-<th><p>收錄歌曲</p></th>
+<th><p>發行地區</p></th>
+<th><p>發行日期</p></th>
+<th><p>發行形式</p></th>
+<th><p>製作公司</p></th>
+<th><p>發行公司</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td></td>
+<td><p>2019年4月4日</p></td>
 <td><p>Kihno Video</p></td>
-<td><p>《's...TAEYEON CONCERT》</p>
-<ul>
-<li>發行日期：2019年4月4日</li>
-<li>發行商：<a href="../Page/SM娛樂.md" title="wikilink">SM娛樂</a></li>
-<li>寫真頁數：88頁</li>
-<li>尺寸：168 x 210 x 450</li>
-</ul></td>
+<td><p><a href="../Page/SM娛樂.md" title="wikilink">SM娛樂</a></p></td>
+<td><p><a href="../Page/SM娛樂.md" title="wikilink">SM娛樂</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -184,3 +193,7 @@
 1.
 2.
 3.
+4.
+5.
+6.
+7.

@@ -1,6 +1,6 @@
 **Soar** \[1\]是一种[認知架構](../Page/認知架構.md "wikilink") ，\[2\]最初是由約翰·萊爾德([John Laird](https://zh.wikipedia.org/wiki/约翰E.莱尔德 "wikilink"))、[艾伦·纽厄尔](../Page/艾伦·纽厄尔.md "wikilink")和[卡内基·梅隆大学](../Page/卡内基·梅隆大学.md "wikilink")的保羅·羅森布魯姆[(Paul Rosenbloom)](http://cs.usc.edu/~rosenblo/)创建。现在由萊爾德在[密西根大学的研究小组](../Page/密歇根大学.md "wikilink")[维护和开发](https://soar.eecs.umich.edu/) 。
 
-Soar项目的目标是开发通用[智能代理所需的固定计算構件](https://zh.wikipedia.org/wiki/智能代理 "wikilink") ，可以执行廣泛的任务，并编码、使用和学习所有类型的知识，以实现人类全部的认知能力，如决策、问题解决、计划和自然语言理解。Soar既是[认知理论](https://zh.wikipedia.org/wiki/認知 "wikilink")，也是该理论的计算实现。自1983年萊爾德發表论文以来，人工智能研究人员已經根據不同的[人类行为面向](https://zh.wikipedia.org/wiki/人的行为 "wikilink")，廣泛使用Soar来创建智能代理和[认知模型](https://zh.wikipedia.org/wiki/特征整合论 "wikilink") 。目前對Soar最全面的描述是2012年出版的《Soar認知結構》。\[3\]
+Soar项目的目标是开发通用[智能代理所需的固定计算構件](https://zh.wikipedia.org/wiki/智能代理 "wikilink") ，可以执行廣泛的任务，并编码、使用和学习所有类型的知识，以实现人类全部的认知能力，如决策、问题解决、计划和自然语言理解。Soar既是[认知理论](https://zh.wikipedia.org/wiki/認知 "wikilink")，也是该理论的计算实现。自1983年萊爾德發表论文以来，人工智能研究人员已經根據不同的[人类行为面向](https://zh.wikipedia.org/wiki/人的行为 "wikilink")，廣泛使用Soar来创建智能代理和[认知模型](../Page/認知模型.md "wikilink") 。目前對Soar最全面的描述是2012年出版的《Soar認知結構》。\[3\]
 
 ## 理论
 
@@ -16,7 +16,7 @@ Soar理論的第二個假設是，雖然每一步只能選擇一個運算元，�
 
 Soar的第四個假設是，其底層結構是模塊化的，但是並非像計劃或語言這樣，基於任務或能力的模塊，而是作為獨立於任務的模塊，包括:決策模塊、記憶模塊(短期空間/視覺記憶、工作記憶、長期程序性記憶、陳述性記憶和情節記憶)、與所有長期記憶相關的學習機制、知覺模塊、運動模塊。關於以下所描述記憶的具體屬性還有進一步的假設，包括所有的學習都是在線的和漸進式的。
 
-第五个假设是，记忆元素（空间/视觉记忆中的记忆元素除外）被表示为符号的关系结构。[符号系统是通用](https://zh.wikipedia.org/wiki/GOFAI "wikilink")[智能所必需的假设](../Page/智力.md "wikilink")，被称为[物理符號系統假设](https://zh.wikipedia.org/wiki/物理符號系統 "wikilink") 。一個Soar重要的演進是，所有符號結構都具有相關的統計元數據(例如使用頻率、近期信息或預期的未來回報)，這些統計元數據會影響符號結構的提取、維護和學習。
+第五个假设是，记忆元素（空间/视觉记忆中的记忆元素除外）被表示为符号的关系结构。[符号系统是通用](https://zh.wikipedia.org/wiki/符號人工智能 "wikilink")[智能所必需的假设](../Page/智力.md "wikilink")，被称为[物理符號系統](../Page/物理符號系統.md "wikilink")假设 。一個Soar重要的演進是，所有符號結構都具有相關的統計元數據(例如使用頻率、近期信息或預期的未來回報)，這些統計元數據會影響符號結構的提取、維護和學習。
 
 ## 架構
 

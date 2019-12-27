@@ -103,7 +103,7 @@ ViuTV 2019為[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")於20
 <td><p>巡禮名稱《只有更荒謬》</p></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/全民造星II" title="wikilink">全民造星II</a>》</p></td>
+<td><p>《<a href="../Page/全民造星II.md" title="wikilink">全民造星II</a>》</p></td>
 <td><p>播映中</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/強尼" title="wikilink">強尼</a></p></td>
 <td><p>巡禮名稱《<a href="https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星" title="wikilink">Good Night Show 全民造星</a>》（第二季），於《ViuTV 2020》節目巡禮中再度推介</p></td>
@@ -139,7 +139,7 @@ ViuTV 2019為[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")於20
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/眾神的大陸" title="wikilink">眾神的大陸</a>》</p></td>
+<td><p>《<a href="../Page/眾神的大陸.md" title="wikilink">眾神的大陸</a>》</p></td>
 <td><p>已播映完畢</p></td>
 <td><p><a href="../Page/洪助昇.md" title="wikilink">洪助昇</a>、（旁白：<a href="../Page/東方昇.md" title="wikilink">東方昇</a>）</p></td>
 <td></td>

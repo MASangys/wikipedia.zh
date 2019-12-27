@@ -2,7 +2,7 @@
 
 ## 電視劇
 
-| 年份    | 電視台                                                 | 劇名                                         | 參演成員                            | 角色         | 集數        | 備註  |
+| 年份    | 電視台                                                 | 劇名                                         | 參演成員                            | 角色         | 集數        | 性質  |
 | ----- | --------------------------------------------------- | ------------------------------------------ | ------------------------------- | ---------- | --------- | --- |
 | 2014年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | [對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink") | [大烈](../Page/李大烈.md "wikilink") | 山亞（無限動力成員） |           | 客串  |
 | Y     | 俊俊（無限動力成員）                                          |                                            |                                 |            |           |     |
@@ -105,10 +105,24 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>11月25日-12月17日</p></td>
+<td><p><a href="../Page/NAVER.md" title="wikilink">NAVER</a> NOW.</p></td>
+<td><p>《Golden Child Show》</p></td>
+<td><p>8集</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>11月28日-</p></td>
 <td><p><a href="../Page/Naver_(公司).md" title="wikilink">V LIVE</a> <a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
 <td><p>《CH.GOL-CHA2!》</p></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月9日-12月13日</p></td>
+<td><p><a href="../Page/NAVER.md" title="wikilink">NAVER</a> NOW.</p></td>
+<td><p>《School Road》</p></td>
+<td><p>5集</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -329,6 +343,14 @@
 <td><p>12月4日</p></td>
 <td><p>MBC every1</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/一週的偶像" title="wikilink">一週的偶像</a>》</p></td>
+<td><p>第436集</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Olleh TV Mobile</p></td>
+<td><p>《Hidden Track》</p></td>
+<td><p>下載手機App 可觀看之節目</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -340,23 +362,136 @@
 
 ## 節目主持
 
-| 年份                  | 日期                                                                                                       | 播放頻道                                                                | 節目名稱                                                                | 參與成員                                                                                                                                                                                                                  | 備註                                                                                                                                                 |
-| ------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2017年               | 9月28日                                                                                                    | [Mnet](../Page/Mnet媒體.md "wikilink")                                | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | 普閔                                                                                                                                                                                                                    | Special MC                                                                                                                                         |
-| 2018年               | 5月10日-8月2日 (每週四播出)                                                                                       | MOMO X                                                              | 리쓴 (LISTEN)                                                         | Y、周燦                                                                                                                                                                                                                  | \*網路節目 於官方[V LIVE](https://channels.vlive.tv/DF63F9/video)、[YouTube](https://www.youtube.com/playlist?list=PLSh_TfC7ZUCkqxf5xLAeHaqdIi56hSAbg)頻道播出 |
-| 8月23日               | [Mnet](../Page/Mnet媒體.md "wikilink")                                                                     | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | 普閔                                                                  | Special MC                                                                                                                                                                                                            |                                                                                                                                                    |
-| 10月27日              | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                                                      | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")  | 東炫、普閔                                                               |                                                                                                                                                                                                                       |                                                                                                                                                    |
-| 11月20日              | SBS MTV                                                                                                  | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | 普閔                                                                  |                                                                                                                                                                                                                       |                                                                                                                                                    |
-| 11月27日              |                                                                                                          |                                                                     |                                                                     |                                                                                                                                                                                                                       |                                                                                                                                                    |
-| 2019年               | 6月19日-11月13日 (每週三播出)                                                                                     | CASPER RADIO                                                        | 周燦的洪心三說                                                             | 周燦                                                                                                                                                                                                                    | \*廣播節目 於[官方V LIVE頻道](https://channels.vlive.tv/E1C3AD/home)播出                                                                                      |
-| 7月5日- (每週五播出)       | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                                                    | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")   | 普閔\[3\]                                                             | 與[辛睿恩](../Page/辛睿恩.md "wikilink")共同主持                                                                                                                                                                                 |                                                                                                                                                    |
-| 7月24日-9月25日 (每週三播出) | STARK                                                                                                    | STAR WARS                                                           | 長埈、宰鉉                                                               | \*網路節目 於[官方YouTube頻道](https://www.youtube.com/playlist?list=PLSewUboy4moQGTR3pH6FfeGh5h-8udak0)播出 與[JBJ95成員](https://zh.wikipedia.org/wiki/JBJ95 "wikilink")[髙田健太共同主持](https://zh.wikipedia.org/wiki/高田健太 "wikilink") |                                                                                                                                                    |
-| 10月30日- (每週三播出)     | STAR WARS2                                                                                               |                                                                     |                                                                     |                                                                                                                                                                                                                       |                                                                                                                                                    |
-| 11月16日              | [KBS](../Page/韓國放送公社.md "wikilink")                                                                      | [Battle Trip](../Page/戰鬥旅行.md "wikilink")                           | 普閔                                                                  | 特別MC                                                                                                                                                                                                                  |                                                                                                                                                    |
-| 11月23日              |                                                                                                          |                                                                     |                                                                     |                                                                                                                                                                                                                       |                                                                                                                                                    |
-| 12月1日               | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink") [V LIVE](../Page/Naver_\(公司\).md "wikilink") | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink")                      | 長埈、周燦                                                               | \*廣播節目 (當集為VOICE ONLY) Special DJ                                                                                                                                                                                     |                                                                                                                                                    |
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>日期</p></th>
+<th><p>播放頻道</p></th>
+<th><p>節目名稱</p></th>
+<th><p>參與成員</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2017年</p></td>
+<td><p>9月28日</p></td>
+<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M Countdown</a></p></td>
+<td><p>普閔</p></td>
+<td><p>Special MC</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年</p></td>
+<td><p>5月10日-8月2日 (每週四播出)</p></td>
+<td><p>MOMO X</p></td>
+<td><p>리쓴 (LISTEN)</p></td>
+<td><p>Y、周燦</p></td>
+<td><p>*網路節目 於官方<a href="https://channels.vlive.tv/DF63F9/video">V LIVE</a>、<a href="https://www.youtube.com/playlist?list=PLSh_TfC7ZUCkqxf5xLAeHaqdIi56hSAbg">YouTube</a>頻道播出</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月23日</p></td>
+<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M Countdown</a></p></td>
+<td><p>普閔</p></td>
+<td><p>Special MC</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10月27日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p>東炫、普閔</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11月20日</p></td>
+<td></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
+<td><p>普閔</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月27日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>6月19日-11月13日 (每週三播出)</p></td>
+<td><p>CASPER RADIO</p></td>
+<td><p>周燦的洪心三說</p></td>
+<td><p>周燦</p></td>
+<td><p>*廣播節目 於<a href="https://channels.vlive.tv/E1C3AD/home">官方V LIVE頻道</a>播出</p></td>
+</tr>
+<tr class="even">
+<td><p>7月5日- (每週五播出)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
+<td><p>普閔[3]</p></td>
+<td><p>與<a href="../Page/辛睿恩.md" title="wikilink">辛睿恩</a>共同主持</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月24日-9月25日 (每週三播出)</p></td>
+<td><p>STARK</p></td>
+<td><p>STAR WARS</p></td>
+<td><p>長埈、宰鉉</p></td>
+<td><p>*網路節目 於<a href="https://www.youtube.com/playlist?list=PLSewUboy4moQGTR3pH6FfeGh5h-8udak0">官方YouTube頻道</a>播出 與<a href="https://zh.wikipedia.org/wiki/JBJ95" title="wikilink">JBJ95成員</a><a href="https://zh.wikipedia.org/wiki/高田健太" title="wikilink">髙田健太共同主持</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10月30日- (每週三播出)</p></td>
+<td><p>STAR WARS2</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11月16日</p></td>
+<td><p><a href="../Page/韓國放送公社.md" title="wikilink">KBS</a></p></td>
+<td><p><a href="../Page/戰鬥旅行.md" title="wikilink">Battle Trip</a></p></td>
+<td><p>普閔</p></td>
+<td><p>Special MC</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月23日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC标准FM" title="wikilink">MBC標準FM</a> <a href="../Page/Naver_(公司).md" title="wikilink">V LIVE</a></p></td>
+<td><p><a href="../Page/IDOL_RADIO.md" title="wikilink">IDOL RADIO</a></p></td>
+<td><p>長埈、周燦</p></td>
+<td><p>*廣播節目 (當集為VOICE ONLY) Special DJ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12月3日</p></td>
+<td></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
+<td><p>TAG</p></td>
+<td><p>Special MC</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 廣播節目
+
+### 2017年
 
 | 2017年節目列表 |
 | --------- |
@@ -368,6 +503,8 @@
 | 10月5日     |
 | 10月6日     |
 | 10月21日    |
+
+### 2018年
 
 <table>
 <thead>
@@ -457,6 +594,8 @@
 </tbody>
 </table>
 
+### 2019年
+
 | 2019年節目列表                                                                                                |
 | -------------------------------------------------------------------------------------------------------- |
 | 日期                                                                                                       |
@@ -476,12 +615,17 @@
 | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink") [V LIVE](../Page/Naver_\(公司\).md "wikilink") |
 | 11月30日                                                                                                   |
 | 12月1日                                                                                                    |
+| 12月10日                                                                                                   |
+| [KBS Cool FM](https://zh.wikipedia.org/wiki/KBS_Cool_FM "wikilink")                                      |
+| NAVER NOW.                                                                                               |
 
 |  |
 |  |
 |  |
 
 ## V LIVE直播
+
+### 2017年
 
 | 2017年直播列表 |
 | --------- |
@@ -520,6 +664,8 @@
 | 12月15日    |
 | 12月22日    |
 | 12月24日    |
+
+### 2018年
 
 | 2018年直播列表                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------- |
@@ -614,6 +760,8 @@
 | 12月23日                                                                                                      |
 | 12月24日                                                                                                      |
 
+### 2019年
+
 | 2019年直播列表 |
 | --------- |
 | 日期        |
@@ -661,6 +809,8 @@
 | 11月29日    |
 | 11月30日    |
 | 12月1日     |
+| 12月7日     |
+| 12月8日     |
 
 ## 注释
 

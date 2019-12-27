@@ -163,7 +163,7 @@
 #### 單曲
 
   - 2017年 雀斑〈不標準情人〉
-  - 2019年 [9m88](https://zh.wikipedia.org/wiki/9m88 "wikilink")〈最高品質靜悄悄〉
+  - 2019年 [9m88](../Page/9m88.md "wikilink")〈最高品質靜悄悄〉
 
 ### 夜貓組時期
 

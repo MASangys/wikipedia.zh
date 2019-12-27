@@ -1,4 +1,4 @@
-《**The ReVe Festival: Day 1**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red Velvet的第六張韓語迷你專輯](../Page/Red_Velvet.md "wikilink")，此專輯為「The ReVe Festival」系列的第一張專輯，由[SM Entertainment企劃並於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2019年6月19日發行。
+《**The ReVe Festival: Day 1**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red Velvet的第六張韓語迷你專輯](../Page/Red_Velvet.md "wikilink")，此專輯為「The ReVe Festival」系列的第一張專輯，由[SM Entertainment企劃並於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2019年6月19日發行，主打曲為《Zimzalabim》。
 
 ## 預告
 
@@ -10,7 +10,7 @@
 
 該專輯共收錄六首歌曲，於 19 日傍晚正式發行《The ReVe Festival: Day 1》，並在首爾的 Blue Square I-Market Hall 舉行回歸發表會。
 
-Red Velvet成員IRENE表示Red Velvet今年會以「The ReVe Festival」為系列，本次回歸後會攜帶系列作的第二部「[Day 2](../Page/The_ReVe_Festival:_Day_2.md "wikilink")」以及第三部「Finale」回歸。
+Red Velvet成員IRENE表示Red Velvet今年會以「The ReVe Festival」為系列，本次回歸後會攜帶系列作的第二部「[Day 2](../Page/The_ReVe_Festival:_Day_2.md "wikilink")」以及第三部「[Finale](https://zh.wikipedia.org/wiki/The_ReVe_Festival:_Finale "wikilink")」回歸。
 
 Red Velvet亦介紹新歌《Zimzalabim》靈感來自歐洲咒語，亦包含着把內心深處的夢想展開的意思，而這次新歌再與《[Red Flavor](../Page/The_Red_Summer.md "wikilink")》作曲家合作推出\[4\]。成員們透露主打歌《Zimzalabim》在她們2016年發行《[Russian Roulette](https://zh.wikipedia.org/wiki/Russian_Roulette_\(Red_Velvet迷你專輯\) "wikilink")》時，就曾與《[Rookie](../Page/Rookie.md "wikilink")》一起列在主打歌的候選名單中。後來，公司內部投票是《Russian Roulette》第一名，《Zimzalabim》就一直都被保留著，直到在社長[李秀滿的鼓勵下](https://zh.wikipedia.org/wiki/李秀滿 "wikilink")，認為Red Velvet能夠消化這首歌才發行\[5\]。
 

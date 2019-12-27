@@ -44,7 +44,7 @@
 | **演員**                                                                      | **角色** |
 | [鄭乾柱](../Page/鄭乾柱.md "wikilink")                                            | 體育老師   |
 | Ddotty                                                                      | 遊戲解說員  |
-| [崔元明](https://zh.wikipedia.org/wiki/崔元明 "wikilink")                         | 元明     |
+| [崔元明](../Page/崔元明.md "wikilink")                                            | 元明     |
 | [Jeno](../Page/Jeno.md "wikilink") ([NCT Dream](../Page/NCT.md "wikilink")) | 學生     |
 | [渽民](../Page/渽民.md "wikilink") ([NCT Dream](../Page/NCT.md "wikilink"))     | 學生     |
 

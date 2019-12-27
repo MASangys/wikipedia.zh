@@ -685,7 +685,7 @@ Danurim Hall</p></td>
 
 ## 外部連結
 
-  - \[<http://www.friendz.net/>| friendz.net官方網站\] (2018年10月10日停止運作)
+  - [friendz.net官方網站](https://web.archive.org/web/20190403035523/http://www.friendz.net/%257C) (2018年10月10日停止運作)
 
   -
   -

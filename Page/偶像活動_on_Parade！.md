@@ -21,21 +21,25 @@
 | 季度 | 推動開始日      | Card數量                                                       |
 | -- | ---------- | ------------------------------------------------------------ |
 | 1彈 | 2019年10月3日 | 全132張（普通12+稀有28+Premium特級稀有64+Legend Premium傳說特級稀有12+活動稀有16） |
-| 2彈 | 2019年12月5日 | 全 張（普通12+稀有48+Premium特級稀有60+Legend Premium傳說特級稀有8+活動稀有12）    |
+| 2彈 | 2019年12月5日 | 全140張（普通12+稀有48+Premium特級稀有60+Legend Premium傳說特級稀有8+活動稀有12）  |
 |    |            |                                                              |
 
 ### 增設舞台
 
-| 舞台類型                 | 舞台種類       | BGM         | 追加時期 |
-| -------------------- | ---------- | ----------- | ---- |
-| Live                 | Cute       | アコガレカスタマイズ☆ | 1彈   |
-| アイドル活動！オンパレード！ver.   |            |             |      |
-| START DASH SENSATION |            |             |      |
-| STARDOM！             |            |             |      |
-| Cool                 | チュチュ・バレリーナ |             |      |
-| Dance                | Cute       | 君のEntrance  |      |
-| Fashion Show         | Cute       | ハローニューワールド  |      |
-|                      |            |             |      |
+| 舞台類型                 | 舞台種類           | BGM         | 追加時期 |
+| -------------------- | -------------- | ----------- | ---- |
+| Live                 | Cute           | アコガレカスタマイズ☆ | 1彈   |
+| アイドル活動！オンパレード！ver.   |                |             |      |
+| START DASH SENSATION |                |             |      |
+| STARDOM！             |                |             |      |
+| ハッピィクレッシェンド          | 2彈             |             |      |
+| Cool                 | チュチュ・バレリーナ     | 1彈          |      |
+| Sexy                 | Take Me Higher | 2彈          |      |
+| Dance                | Cute           | 君のEntrance  | 1彈   |
+| Future Jewel         | 2彈             |             |      |
+| Fashion Show         | Cute           | ハローニューワールド  | 1彈   |
+| Cute & Cool          | 正義のキモチ         | 2彈          |      |
+|                      |                |             |      |
 
 ## 故事簡介
 
@@ -98,14 +102,14 @@ Aikatsu！偶像活動！ |偶像活動Stars！角色列表{{\!}}偶像活動Sta
   -
 
       -
-        作詞：松原さらり（onetrap），作曲、編曲：SHOW（Digz, Inc. Group），主唱：らき（）、あいね（）、みお（[木戶衣吹](../Page/木戶衣吹.md "wikilink")） from
+        作詞：松原さらり（），作曲、編曲：SHOW（Digz, Inc. Group），主唱：らき（）、あいね（）、みお（[木戶衣吹](../Page/木戶衣吹.md "wikilink")） from
         主唱：らき from BEST FRIENDS！（第1、3、6、8話插入曲）
 
   - 片尾曲
 
-:; 「アイドル活動！オンパレード！ver.」（第1、3、6話）
+:; 「アイドル活動！オンパレード！ver.」（第1、3、6、10話）
 
-:: 作詞：，作曲：（MONACA），編曲：、，主唱：らき、あいね、みお from BEST FRIENDS！、わか（[霧島若歌](https://zh.wikipedia.org/wiki/Mia_REGINA#成員 "wikilink")）、るか（）、せな（）
+:: 作詞：，作曲：（），編曲：、，主唱：らき、あいね、みお from BEST FRIENDS！、わか（[霧島若歌](https://zh.wikipedia.org/wiki/Mia_REGINA#成員 "wikilink")）、るか（）、せな（）
 
 :; 「So Beautiful Story」（第2話）
 
@@ -129,101 +133,80 @@ Aikatsu！偶像活動！ |偶像活動Stars！角色列表{{\!}}偶像活動Sta
 
 :; 「Precious」（第9話）
 
+:: 作詞：辻純更，作曲、編曲：（MONACA），主唱：りすこ、わか、ふうり、もな
+
+:; 「アリスブルーのキス～Another Color～」（第11話）
+
+:: 作詞：原田謙太，作曲：坂本尭之，編曲：西川ノブユキ，主唱：More Than True\[Vo.直／涼川直人（[豐永利行](../Page/豐永利行.md "wikilink")）\]
+
+:; 「lucky train」（第12話）
+
   -
 
       -
-        作詞：辻純更，作曲、編曲：（MONACA），主唱：りすこ、わか、ふうり、もな
+        作詞：只野菜摘，作曲：中野領太，編曲：（），主唱：るか、もな、みき
 
 ### 插入曲
 
-:; 「みんなみんな！」（第1話）
-
-:: 作詞：松原さらり（onetrap），作曲：石田秀登，編曲：Mitsu.J（Digz, Inc. Group），主唱：あいね、みお from BEST FRIENDS！（第1話）
-
-:; 「MAKEOVER♡MAKEUP」（第2話）
-
-:: 作詞：こだまさおり，作曲：YUKI FUNAKOSHI（Digz, Inc. Group），編曲：C-Show、YUKI FUNAKOSHI（Digz, Inc. Group），主唱：かな（）（第2話）
-
-:; 「窓-ココロ-ひらこう」（第2話）
-
-:: 作詞：松原さらり（onetrap），作曲：、，編曲：松田純一，主唱：あいね from BEST FRIENDS！（第2話）
-
-:; 「STARDOM！」（第2話）
-
-:: 作詞：[唐澤美帆](../Page/唐澤美帆.md "wikilink")，作曲：，編曲：（agehasprings），主唱：みお from BEST FRIENDS！、せな（第2話）
-
-:; 「Message of a Rainbow」（第3話）
-
-:: 作詞：松原さらり（onetrap），作曲：（onetrap），編曲：（onetrap），主唱：せな、ななせ（松岡七瀬）（第3話）
-
-:; 「8月のマリーナ」（第3話）
-
-:: 作詞：只野菜摘，作曲：（MONACA），編曲：田中秀和（MONACA），主唱：みき（第3話）
-
-:; 「Girls be ambitious！」（第4話）
-
-:: 作詞：松原さらり（onetrap），作曲、編曲：SHOW（Digz, Inc. Group），主唱：舞花（[美山加戀](../Page/美山加戀.md "wikilink")） from BEST FRIENDS！（第4話）
-
-:; 「おけまる」（第4話）
-
-:: 作詞：松原さらり（onetrap），作曲：YUMIKO、藤末樹，編曲：藤末樹，主唱：エマ（） from BEST FRIENDS！（第4話）
-
-:; 「Poppin' Bubbles」（第4話）
-
-:: 作詞：AM42，作曲、編曲：ミト，主唱：みき、みほ（天音美穗）（第4話）
-
-:; 「Lovely Party Collection」（第5話）
-
-:: 作詞：こだまさおり，作曲、編曲：石濱翔（MONACA），主唱：るか、もな、みき（第5話）
-
-:; 「いばらの女王」（第5話）
-
-:: 作詞：只野菜摘，作曲：，編曲：WATCHMAN，主唱：もな（第5話）
-
-:; 「アイデンティティ」（第5話）
-
-:: 作詞：松原さらり（onetrap），作曲、編曲：Coffee Creamers（Digz, Inc. Group），主唱：ミライ（[大橋彩香](../Page/大橋彩香.md "wikilink")） from BEST FRIENDS！、るか（第5話）
-
-:; 「episode Solo」（第6話）
-
-:: 作詞：只野菜摘，作曲、編曲：石濱翔（MONACA），主唱：るか、ななせ、かな、みほ（第6話）
-
-:; 「MUSIC of DREAM\!\!\!」（第6話）
-
-:: 作詞：唐沢美帆，作曲：南田健吾、蔦谷好位置，編曲：成瀬裕介（onetrap），主唱：せな（第6話）
-
-:; 「Trap of Love」（第7話）
-
-:: 作詞：七菜（Make Flow, Inc.），作曲：森健一，編曲：[小澤正澄](https://zh.wikipedia.org/wiki/小澤正澄 "wikilink")，主唱：すなお、わか、ふうり（第7話）
-
-:; 「prism spiral」（第7話）
-
-:: 作詞：uRy，作曲、編曲：田中秀和（MONACA），主唱：ふうり（第7話）
-
-:; 「アコガレカスタマイズ☆」（第7、9話）
-
-:: 作詞：こだまさおり，作曲、編曲：石濱翔（MONACA），主唱：わか（第7話）
-
-:: 主唱：らき from BEST FRIENDS！、わか（第9話）
-
-:; 「アイドル活動！」（第8話）
-
-:: 作詞：uRy，作曲、編曲：田中秀和（MONACA），主唱：わか、ふうり、すなお（第8話）
-
-:; 「Dance in the rain」（第8話）
-
-:: 作詞：uRy，作曲、編曲：田中秀和（MONACA），主唱：わか（第8話）
-
-:; 「Bon Bon Voyage\!」（第9話）
-
-:: 作詞：辻純更，作曲、編曲：石濱翔（MONACA），主唱：りさ（[相沢梨紗](https://zh.wikipedia.org/wiki/相沢梨紗 "wikilink")）、みほ、りえ（）、るか（第9話）
-
-:; 「笑顔のSuncatcher」（第9話）
-
-  -
-
-      -
-        作詞：只野菜摘，作曲、編曲：，主唱：りすこ、もな（第9話）
+  - 「みんなみんな！」（第1話）
+    作詞：松原さらり（onetrap），作曲：石田秀登，編曲：Mitsu.J（Digz, Inc. Group），主唱：あいね、みお from BEST FRIENDS！（第1話）
+  - 「MAKEOVER♡MAKEUP」（第2話）
+    作詞：こだまさおり，作曲：YUKI FUNAKOSHI（Digz, Inc. Group），編曲：C-Show、YUKI FUNAKOSHI（Digz, Inc. Group），主唱：かな（）（第2話）
+  - 「窓-ココロ-ひらこう」（第2話）
+    作詞：松原さらり（onetrap），作曲：、，編曲：松田純一，主唱：あいね from BEST FRIENDS！（第2話）
+  - 「STARDOM！」（第2話）
+    作詞：[唐澤美帆](../Page/唐澤美帆.md "wikilink")，作曲：，編曲：（agehasprings），主唱：みお from BEST FRIENDS！、せな（第2話）
+  - 「Message of a Rainbow」（第3話）
+    作詞：松原さらり（onetrap），作曲：（onetrap），編曲：（onetrap），主唱：せな、ななせ（松岡七瀬）（第3話）
+  - 「8月のマリーナ」（第3話）
+    作詞：只野菜摘，作曲：（MONACA），編曲：田中秀和（MONACA），主唱：みき（第3話）
+  - 「Girls be ambitious！」（第4話）
+    作詞：松原さらり（onetrap），作曲、編曲：SHOW（Digz, Inc. Group），主唱：舞花（[美山加戀](../Page/美山加戀.md "wikilink")） from BEST FRIENDS！（第4話）
+  - 「おけまる」（第4話）
+    作詞：松原さらり（onetrap），作曲：YUMIKO、藤末樹，編曲：藤末樹，主唱：エマ（） from BEST FRIENDS！（第4話）
+  - 「Poppin' Bubbles」（第4話）
+    作詞：AM42，作曲、編曲：ミト，主唱：みき、みほ（天音美穗）（第4話）
+  - 「Lovely Party Collection」（第5話）
+    作詞：こだまさおり，作曲、編曲：石濱翔（MONACA），主唱：るか、もな、みき（第5話）
+  - 「いばらの女王」（第5話）
+    作詞：只野菜摘，作曲：，編曲：WATCHMAN，主唱：もな（第5話）
+  - 「アイデンティティ」（第5話）
+    作詞：松原さらり（onetrap），作曲、編曲：Coffee Creamers（Digz, Inc. Group），主唱：ミライ（[大橋彩香](../Page/大橋彩香.md "wikilink")） from BEST FRIENDS！、るか（第5話）
+  - 「episode Solo」（第6話）
+    作詞：只野菜摘，作曲、編曲：石濱翔（MONACA），主唱：るか、ななせ、かな、みほ（第6話）
+  - 「MUSIC of DREAM\!\!\!」（第6話）
+    作詞：唐澤美帆，作曲：南田健吾、蔦谷好位置，編曲：成瀬裕介（onetrap），主唱：せな（第6話）
+  - 「Trap of Love」（第7話）
+    作詞：七菜（Make Flow, Inc.），作曲：森健一，編曲：[小澤正澄](https://zh.wikipedia.org/wiki/小澤正澄 "wikilink")，主唱：すなお、わか、ふうり（第7話）
+  - 「prism spiral」（第7話）
+    作詞：uRy，作曲、編曲：田中秀和（MONACA），主唱：ふうり（第7話）
+  - 「アコガレカスタマイズ☆」（第7、9、12話）
+    作詞：こだまさおり，作曲、編曲：石濱翔（MONACA），主唱：わか（第7話）
+    主唱：らき from BEST FRIENDS！、わか（第9、12話）
+  - 「アイドル活動！」（第8話）
+    作詞：uRy，作曲、編曲：田中秀和（MONACA），主唱：わか、ふうり、すなお（第8話）
+  - 「Dance in the rain」（第8話）
+    作詞：uRy，作曲、編曲：田中秀和（MONACA），主唱：わか（第8話）
+  - 「Bon Bon Voyage\!」（第9話）
+    作詞：辻純更，作曲、編曲：石濱翔（MONACA），主唱：りさ（[相沢梨紗](https://zh.wikipedia.org/wiki/相沢梨紗 "wikilink")）、みほ、りえ（）、るか（第9話）
+  - 「笑顔のSuncatcher」（第9話）
+    作詞：只野菜摘，作曲、編曲：，主唱：りすこ、もな（第9話）
+  - 「Niceなto meet you\!」（第10話）
+    作詞：松原さらり（onetrap），作曲、編曲：SHOW（Digz, Inc. Group），主唱：ミライ from BEST FRIENDS！（第10話）
+  - 「強く美しく優しく」（第10話）
+    作詞：松原さらり（onetrap），作曲、編曲：Koshin，主唱：カレン（[田所梓](../Page/田所梓.md "wikilink")） from BEST FRIENDS！（第10話）
+  - 「Take Me Higher」（第10話）
+    作詞：只野菜摘，作曲、編曲：永谷喬夫，主唱：ひびき（[日笠陽子](../Page/日笠陽子.md "wikilink")） from BEST FRIENDS！、りすこ、りさ（第10話）
+  - 「Sweet Sp\!ce」（第11話）
+    作詞：辻純更，作曲、編曲：oriori，主唱：ふうり、わか（第11話）
+  - 「1,2,Sing for You\!」（第11話）
+    作詞：空谷泉身（onetrap），作曲：秋浦智裕（onetrap），編曲：南田健吾（onetrap），主唱：りえ（第11話）
+  - 「Future jewel」（第11話）
+    作詞：唐澤美帆，作曲、編曲：中野領太（onetrap），主唱：るか、せな（第11話）
+  - 「ハッピィクレッシェンド」（第12話）
+    作詞：辻純更，作曲、編曲：石濱翔（MONACA），主唱：ふうり、ゆな、すなお、えり（第12話）
+  - 「[We wish you a merry Christmas](../Page/我們祝你聖誕快樂.md "wikilink")」（第12話）
+    作詞：こだまさおり，作曲、編曲：[岡部啓一](https://zh.wikipedia.org/wiki/岡部啓一 "wikilink")（MONACA），主唱：あいね、みお、舞花、エマ from BEST FRIENDS\!、すなお、せな、りえ、みき、かな、ななせ
 
 ### 各話標題
 
@@ -355,6 +338,38 @@ Aikatsu！偶像活動！ |偶像活動Stars！角色列表{{\!}}偶像活動Sta
 <td><p>12月7日</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>第11話</p></td>
+<td></td>
+<td><p>Ciao☆新世界！</p></td>
+<td><p>千葉美鈴</p></td>
+<td><p><a href="../Page/兒玉兼嗣.md" title="wikilink">兒玉兼嗣</a></p></td>
+<td><p>倉富康平</p></td>
+<td><p>高橋晃</p></td>
+<td><p>12月14日</p></td>
+</tr>
+<tr class="even">
+<td><p>第12話</p></td>
+<td></td>
+<td><p>快樂幸運☆聖誕節</p></td>
+<td><p>柿原優子</p></td>
+<td><p>山地光人</p></td>
+<td><p>三橋妙子<br />
+細田沙織</p></td>
+<td><p>12月21日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第13話</p></td>
+<td></td>
+<td><p>來希與翼之禮服</p></td>
+<td><p>森江美咲</p></td>
+<td><p>中込健人</p></td>
+<td><p>宮谷里沙<br />
+志賀祐香</p></td>
+<td><p>12月28日</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -412,10 +427,25 @@ Aikatsu！偶像活動！ |偶像活動Stars！角色列表{{\!}}偶像活動Sta
 <tr class="odd">
 <td><p>第9話</p></td>
 <td></td>
-<td><p>與花共舞 &lt;!--</p></td>
+<td><p>與花共舞</p></td>
 </tr>
 <tr class="even">
 <td><p>第10話</p></td>
+<td></td>
+<td><p>快樂就很完美</p></td>
+</tr>
+<tr class="odd">
+<td><p>第11話</p></td>
+<td></td>
+<td><p>搖滾是靈魂的吶喊</p></td>
+</tr>
+<tr class="even">
+<td><p>第12話</p></td>
+<td></td>
+<td><p>如虎添翼 如偶像添禮服 &lt;!--</p></td>
+</tr>
+<tr class="odd">
+<td><p>第13話</p></td>
 <td></td>
 <td><p>--&gt;</p></td>
 </tr>

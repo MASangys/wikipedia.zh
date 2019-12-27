@@ -36,7 +36,7 @@
 <tr class="odd">
 <td><p>Angel</p></td>
 <td></td>
-<td></td>
+<td><p>Napassanan Thambuacha</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
@@ -54,7 +54,7 @@
 <tr class="odd">
 <td><p>Champoo</p></td>
 <td></td>
-<td></td>
+<td><p>Kodchaporn Leelatheep</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
@@ -62,7 +62,7 @@
 <tr class="even">
 <td><p>Fahsai</p></td>
 <td></td>
-<td></td>
+<td><p>Phattaratida Chongprasankiat</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
@@ -70,10 +70,10 @@
 <tr class="odd">
 <td><p>Fortune</p></td>
 <td></td>
-<td></td>
+<td><p>Pundita Koontawee</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td></td>
+<td><p>1期生最年長</p></td>
 </tr>
 <tr class="even">
 <td><p>Izurina</p></td>
@@ -102,7 +102,7 @@
 <tr class="even">
 <td><p>Jjae</p></td>
 <td></td>
-<td></td>
+<td><p>Supapit Sripairoj</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
@@ -118,7 +118,7 @@
 <tr class="even">
 <td><p>Kaning</p></td>
 <td></td>
-<td><p>Withita Sasrisom</p></td>
+<td><p>Withita Srasreesom</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
@@ -126,15 +126,15 @@
 <tr class="odd">
 <td><p>Kyla</p></td>
 <td></td>
-<td><p>Kyla Shiyungku</p></td>
+<td><p>Kyla Ziyun Khoo</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td></td>
+<td><p>1期生最年少</p></td>
 </tr>
 <tr class="even">
 <td><p>Latin</p></td>
 <td></td>
-<td></td>
+<td><p>Pimnara Rumruaymunkong</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
@@ -142,7 +142,7 @@
 <tr class="odd">
 <td><p>Marmink</p></td>
 <td></td>
-<td></td>
+<td><p>Manichar Aimdilokwong</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
@@ -150,7 +150,7 @@
 <tr class="even">
 <td><p>Meen</p></td>
 <td></td>
-<td><p>Phitchayida Sonsakwanwan</p></td>
+<td><p>Pitchayathida Sonthisakwanna</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
@@ -158,7 +158,7 @@
 <tr class="odd">
 <td><p>Mei</p></td>
 <td></td>
-<td></td>
+<td><p>Rapeephan Chaemcharoen</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
@@ -166,7 +166,7 @@
 <tr class="even">
 <td><p>Milk</p></td>
 <td></td>
-<td></td>
+<td><p>Chayanan Jedpeenongruamjai</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
@@ -174,7 +174,7 @@
 <tr class="odd">
 <td><p>Nena</p></td>
 <td></td>
-<td><p>Nattharika Buntae</p></td>
+<td><p>Nattarika Boontua</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
@@ -182,7 +182,7 @@
 <tr class="even">
 <td><p>Nenie</p></td>
 <td></td>
-<td></td>
+<td><p>Phitchayapha Supanya</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
@@ -190,7 +190,7 @@
 <tr class="odd">
 <td><p>Nicha</p></td>
 <td></td>
-<td></td>
+<td><p>Nicharee Sungkhathat Na Ayudhya</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
@@ -198,7 +198,7 @@
 <tr class="even">
 <td><p>Parima</p></td>
 <td></td>
-<td><p>Chutiphat Rattanakanyanawut</p></td>
+<td><p>Chutipapha Rattanakornyannawut</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
@@ -206,7 +206,7 @@
 <tr class="odd">
 <td><p>Pepo</p></td>
 <td></td>
-<td><p>Chirathikal Thasi</p></td>
+<td><p>Jirattikan Tasee</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
@@ -214,7 +214,7 @@
 <tr class="even">
 <td><p>Pim</p></td>
 <td></td>
-<td></td>
+<td><p>Pornwarin Wongtrakulkit</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
@@ -222,7 +222,7 @@
 <tr class="odd">
 <td><p>Ping</p></td>
 <td></td>
-<td></td>
+<td><p>Pinpana Saengboon</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
@@ -230,7 +230,7 @@
 <tr class="even">
 <td><p>Punch</p></td>
 <td></td>
-<td><p>Watcharee Danphasukkun</p></td>
+<td><p>Wacharee Danphasukkul</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>
@@ -238,7 +238,7 @@
 <tr class="odd">
 <td><p>Sita</p></td>
 <td></td>
-<td></td>
+<td><p>Sita Teeradechsakul</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td></td>

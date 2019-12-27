@@ -1,6 +1,6 @@
 **CIX**（韓語：**씨아이엑스**），為韓國[C9娛樂旗下的五人男子團體](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")。成員包括[BX](../Page/李炳坤.md "wikilink")、[昇勳](../Page/金昇勳.md "wikilink")、[龍熙](https://zh.wikipedia.org/wiki/金龍熙 "wikilink")、[珍映及](../Page/裵珍映.md "wikilink")[炫晳](https://zh.wikipedia.org/wiki/尹炫晳 "wikilink")。2019年7月23日以第一張迷你專輯《HELLO》主打曲《Movie Star》正式出道。
 
-團體口號為：「In X\!大家好，我們是CIX。」官方粉絲名為「FIX(픽스)」，有「Faith in X」的意思。
+團體口號為：「In X\!大家好，我們是CIX。」(In X\!안녕하세요 씨아이엑스 입니다.)官方粉絲名為「FIX(픽스)」，有「Faith in X」的意思。
 
 ## 團體資料
 
@@ -80,7 +80,7 @@
 <li>發行日期 ：2019年11月20日</li>
 <li>語言：韓語</li>
 <li>類型：K-POP</li>
-<li>銷量：</li>
+<li>銷量：43,655+[21]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -193,9 +193,9 @@
 
 ### Showcase
 
-| 日期          | 國家 | 地點                                                                                                                                 | 活動名稱                                                                                                                                                                                    |
-| ----------- | -- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2019年07月24日 | 韓國 | [首爾奧林匹克公園的](https://zh.wikipedia.org/wiki/首爾奧林匹克公園 "wikilink") [SK奧林匹克手球競技場](https://zh.wikipedia.org/wiki/SK奧林匹克手球競技場 "wikilink") | CIX Debut SHOWCASE<ref>{{Cite web|url=[https://www.koreastardaily.com/tc/news/1181279|title=CIX](https://www.koreastardaily.com/tc/news/1181279%7Ctitle=CIX) 未出道先轟動　出道 showcase 門票全數售罄！ |
+| 日期          | 國家 | 地點                                                                                                                                 | 活動名稱                     |
+| ----------- | -- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| 2019年07月24日 | 韓國 | [首爾奧林匹克公園的](https://zh.wikipedia.org/wiki/首爾奧林匹克公園 "wikilink") [SK奧林匹克手球競技場](https://zh.wikipedia.org/wiki/SK奧林匹克手球競技場 "wikilink") | CIX Debut SHOWCASE\[22\] |
 
 ### 參與演唱會
 
@@ -207,8 +207,8 @@
 
 | 年份    | |作品名稱                    | |期數 |
 | ----- | ------------------------ | --- |
-| 2019年 | 《Ｗ Korea magazine》\[21\] | 7月號 |
-| 2019年 | 《Arena Homme+》\[22\]     | 8月號 |
+| 2019年 | 《Ｗ Korea magazine》\[23\] | 7月號 |
+| 2019年 | 《Arena Homme+》\[24\]     | 8月號 |
 
 ## 獎項
 
@@ -226,7 +226,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/VLIVE_AWARDS_V_HEARTBEAT" title="wikilink">VLIVE AWARDS V HEARTBEAT</a></p></td>
+<td><p><a href="../Page/VLIVE_AWARDS_V_HEARTBEAT.md" title="wikilink">VLIVE AWARDS V HEARTBEAT</a></p></td>
 <td><p>GLOBAL ROOKIE TOP5</p></td>
 <td></td>
 </tr>
@@ -324,3 +324,5 @@
 20.
 21.
 22.
+23.
+24.

@@ -225,7 +225,7 @@
 <td><p>國會議員，朴日島的侄孫女。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/許律" title="wikilink">許律</a></p></td>
+<td><p><a href="../Page/許律.md" title="wikilink">許律</a></p></td>
 <td><p>鄭書允</p></td>
 <td><p>第八、九集出現，能夠看見鬼魂的女孩，後來被附身。</p></td>
 </tr>

@@ -1,4 +1,4 @@
-是一款由Lab Zero Games開發、[505 Games發行的](https://zh.wikipedia.org/wiki/505_Games "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。\[1\]於2019年10月8日在[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[Xbox One](../Page/Xbox_One.md "wikilink")、[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")與[MacOS](../Page/MacOS.md "wikilink")平台推出，Switch版則會較晚發售。\[2\]本作也支援繁簡中文字幕。本作是Lab Zero Games的第二款作品，他們的首款作品是2D格鬥遊戲《[骷髏少女](https://zh.wikipedia.org/wiki/骷髏少女 "wikilink")》。
+是一款由Lab Zero Games開發、[505 Games發行的](https://zh.wikipedia.org/wiki/505_Games "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。\[1\]於2019年10月8日在[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[Xbox One](../Page/Xbox_One.md "wikilink")、[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")與[MacOS](../Page/MacOS.md "wikilink")平台推出，Switch版則會較晚發售。\[2\]本作也支援繁簡中文字幕。本作是Lab Zero Games的第二款作品，他們的首款作品是2D格鬥遊戲《[骷髏少女](../Page/骷髏少女.md "wikilink")》。
 
 ## 遊玩方式
 
@@ -10,7 +10,7 @@
 
 ## 開發
 
-本作由Lab Zero Games負責開發，該工作室曾製作過2D格鬥遊戲《[骷髏少女](https://zh.wikipedia.org/wiki/骷髏少女 "wikilink")》。\[8\]開發團隊表示遊戲的世界觀受到東南亞地區的傳統文化與神話傳說所啟發。\[9\]如同《骷髏少女》一樣，《Indivisible》也採取了2D手繪動畫的製作方式。\[10\]在配樂方面特別邀請到曾參與《[聖劍傳說3](../Page/聖劍傳說3.md "wikilink")》的[菊田裕樹](../Page/菊田裕樹.md "wikilink")來負責譜寫新曲。\[11\]此外，遊戲的開頭動畫交由日本知名動畫公司[TRIGGER](../Page/TRIGGER.md "wikilink")與美國的共同製作。\[12\]
+本作由Lab Zero Games負責開發，該工作室曾製作過2D格鬥遊戲《[骷髏少女](../Page/骷髏少女.md "wikilink")》。\[8\]開發團隊表示遊戲的世界觀受到東南亞地區的傳統文化與神話傳說所啟發。\[9\]如同《骷髏少女》一樣，《Indivisible》也採取了2D手繪動畫的製作方式。\[10\]在配樂方面特別邀請到曾參與《[聖劍傳說3](../Page/聖劍傳說3.md "wikilink")》的[菊田裕樹](../Page/菊田裕樹.md "wikilink")來負責譜寫新曲。\[11\]此外，遊戲的開頭動畫交由日本知名動畫公司[TRIGGER](../Page/TRIGGER.md "wikilink")與美國的共同製作。\[12\]
 
 本作最早於2015年6月2日在[Anime Expo動漫展上公布開發計畫](../Page/Anime_Expo.md "wikilink")。2015年10月5日，Lab Zero Games透過網站展開募資，籌款目標是150萬美金。\[13\]同時也提供一個原型試玩版讓玩家自由下載。\[14\]假如募資成功達標，發行商[505 Games就會補助額外所需的開發資金](https://zh.wikipedia.org/wiki/505_Games "wikilink")。\[15\]然而初期的募資情形並不順利，在歷經約40天後募資金額僅有76萬，只達到目標的一半而已。\[16\]當募資時限即將結束之時，累積金額也只達到約96萬，此時開發組又宣布募資額外延長20天。\[17\]\[18\]直到12月初，募資金額總算及時成功達標。\[19\]
 

@@ -319,7 +319,6 @@ WACK EXHiBiTiON是一個由[WACK](../Page/WACK.md "wikilink")舉辨的大型活�
   - ア・アンズピア
   - 愛
   - サアヤイト
-  - ハナエモンスター
   - ナアユ
 
 ### CARRY LOOSE
@@ -335,6 +334,13 @@ WACK EXHiBiTiON是一個由[WACK](../Page/WACK.md "wikilink")舉辨的大型活�
   - ネオ・トゥリーズ
   - トギー
   - イトー・ムセンシティ部
+
+### 豆柴の大群
+
+  - ハナエ
+  - ナオ
+  - ミユキ
+  - アイカ
 
 ### 試鏡決賽選手
 

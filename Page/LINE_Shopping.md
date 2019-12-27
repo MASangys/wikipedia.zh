@@ -24,7 +24,7 @@
 
 **官方網站**
 
-  - [LINE購物](https://buy.line.me/)
+  - [LINE購物](https://buyforfun.biz/2crck)
 
 [Category:LINE](https://zh.wikipedia.org/wiki/Category:LINE "wikilink") [Category:購物網站](https://zh.wikipedia.org/wiki/Category:購物網站 "wikilink")
 

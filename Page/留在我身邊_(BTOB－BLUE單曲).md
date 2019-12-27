@@ -4,7 +4,7 @@
 
 2016年9月13日，[Cube娛樂](../Page/Cube娛樂.md "wikilink")宣布子團「BTOB－BLUE」成立。\[1\]
 
-2016年9月19日，正式發行首張數位單曲《留在我身邊（내 곁에 서 있어줘）》，由[黑眼必勝](../Page/黑眼必勝.md "wikilink")擔綱創作，MV由成員[Peniel執導](../Page/辛東根.md "wikilink")，音源公開即空降Monkey3 1位、Genie、Naver、Mnet2位、Melon3位、Olleh4位、Soribada5位。
+2016年9月19日，正式發行首張數位單曲〈留在我身邊（내 곁에 서 있어줘）〉，由[黑眼必勝](../Page/黑眼必勝.md "wikilink")擔綱創作，MV由成員[Peniel執導](../Page/辛東根.md "wikilink")。音源公開即空降Monkey3 1位、Genie、Naver、Mnet2位、Melon3位、Olleh4位、Soribada5位。
 
 2016年9月14日，於MBC《Show\! 音樂中心》進行該次活動的出道演出，亦是唯一一場打歌舞台。
 
@@ -99,7 +99,7 @@
 
 ## 參考文獻
 
-[Category:BTOB單曲](https://zh.wikipedia.org/wiki/Category:BTOB單曲 "wikilink") [Category:韓國歌曲](https://zh.wikipedia.org/wiki/Category:韓國歌曲 "wikilink")
+[Category:韓國歌曲](https://zh.wikipedia.org/wiki/Category:韓國歌曲 "wikilink") [Category:BTOB－BLUE單曲](https://zh.wikipedia.org/wiki/Category:BTOB－BLUE單曲 "wikilink")
 
 1.  [BTOB首組小分隊誕生　19日閃電發行新歌](https://www.koreastardaily.com/tc/news/84187) 2018-07-23 韓星網
 2.

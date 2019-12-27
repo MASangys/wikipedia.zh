@@ -149,7 +149,7 @@
 
 ## 外部連結
 
-  - [GNZ48成员详情页：陈珂](http://www.gnz48.com/member/member_details.html?sid=30001)
+  - [GNZ48成员详情页：陈珂](http://www.snh48.com/member_details.html?sid=30001)
 
   -
   -

@@ -32,7 +32,7 @@
 
 ## 外部链接
 
-[Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:IU音樂專輯](https://zh.wikipedia.org/wiki/Category:IU音樂專輯 "wikilink") [Category:2019年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon單曲週榜冠軍作品 "wikilink") [Category:2019年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2019年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon流媒體週榜冠軍作品 "wikilink") [Category:2019年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:IU音樂專輯](https://zh.wikipedia.org/wiki/Category:IU音樂專輯 "wikilink") [Category:2019年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon單曲週榜冠軍作品 "wikilink") [Category:2019年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2019年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon流媒體週榜冠軍作品 "wikilink") [Category:2019年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯週榜冠軍作品 "wikilink") [Category:2019年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon單曲月榜冠軍作品 "wikilink") [Category:2019年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon數位下載月榜冠軍作品 "wikilink") [Category:2019年Gaon流媒體月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon流媒體月榜冠軍作品 "wikilink")
 
 1.
 2.

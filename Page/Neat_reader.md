@@ -32,7 +32,7 @@ Neat Reader是由北京高知图新教育科技有限公司研发的一款跨平
 5.  [Neat Reader 移动端开发情况通报](http://blog.neat-reader.cn/neat-reader-mobile-version-dev-info/)
 6.  [iOS用户如何使用公测版App？](http://blog.neat-reader.cn/iosbetatestintro/)
 7.  [Great ePub Reader - Neat Reader](https://epubreader.xyz/)
-8.  [‎App Store 上的“EPUB阅读器 - Neat Reader”](https://apps.apple.com/cn/app/epub%E9%98%85%E8%AF%BB%E5%99%A8-neat-reader/id1447589941)
+8.  [App Store 上的“EPUB阅读器 - Neat Reader”](https://apps.apple.com/cn/app/epub%E9%98%85%E8%AF%BB%E5%99%A8-neat-reader/id1447589941)
 9.  [TechWiser : 10 Best ePub Readers for Windows (2018)](https://techwiser.com/10-best-epub-readers-for-windows-2018/)
 10. [Epubor :Top 5 eBook Online Readers](https://www.epubor.com/online-ebook-readers.html)
 11. [TechinPlanet: 15 Best Epub Reader to use in 2019 for best exprience](https://techinplanet.com/best-epub-reader/)

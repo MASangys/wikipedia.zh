@@ -4,7 +4,7 @@
 
 2018年7月23日，宣布BTOB－BLUE於8月初發行新作品，是繼2016年後睽違兩年回歸。\[1\] 同年7月29日，公開回歸日期及歌曲名稱。\[2\] 7月30日，公開成員MV Quiz \[3\]。7月31日，公開成員概念照 \[4\]。8月1日，公開恩光、昌燮的MV現場拍攝照 \[5\]，並發布MV Teaser \[6\]。8月2日，公開炫植、星材的MV現場拍攝照 \[7\]，並發布完整版MV，MV由炫植與親哥哥合作拍攝。
 
-2018年8月2日，發行第二張單曲《如果下雨的話（비가 내리면）》，由成員[任炫植](../Page/任炫植.md "wikilink")作曲填詞編曲，也是炫植早期的創作，並從2015年開始透露至今。歌曲描述每當雨落下之時，就會喚起對眷戀之人的思念和後悔，是以層次豐富的編曲與四人四色的歌聲完美融合的感性抒情曲。音源公開即空降Bugs 4位、Melon 10位、Genie、Olleh 13位、Naver 31位、Mnet 34位。
+2018年8月2日，發行第二張單曲〈如果下雨的話（비가 내리면）〉，由成員[任炫植](../Page/任炫植.md "wikilink")作曲填詞編曲，也是炫植早期的創作，並從2015年開始透露至今。歌曲描述每當雨落下之時，就會喚起對眷戀之人的思念和後悔，是以層次豐富的編曲與四人四色的歌聲完美融合的感性抒情曲。音源公開即空降Bugs 4位、Melon 10位、Genie、Olleh 13位、Naver 31位、Mnet 34位。
 
 ## 曲目
 
@@ -88,7 +88,7 @@
 
 ## 參考文獻
 
-[Category:BTOB單曲](https://zh.wikipedia.org/wiki/Category:BTOB單曲 "wikilink") [Category:韓國歌曲](https://zh.wikipedia.org/wiki/Category:韓國歌曲 "wikilink")
+[Category:韓國歌曲](https://zh.wikipedia.org/wiki/Category:韓國歌曲 "wikilink") [Category:BTOB－BLUE單曲](https://zh.wikipedia.org/wiki/Category:BTOB－BLUE單曲 "wikilink")
 
 1.
 2.

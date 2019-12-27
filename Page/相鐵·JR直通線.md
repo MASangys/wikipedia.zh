@@ -1,11 +1,9 @@
-**相鐵·JR直通線**（）是[相模鐵道](../Page/相模鐵道.md "wikilink")（相鐵）與[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）互相直通運行系統的愛稱。
+**相鐵·JR直通線**（）是[相模鐵道](../Page/相模鐵道.md "wikilink")（通稱相鐵）與[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（通稱JR東日本）互相[直通運行](../Page/直通運行.md "wikilink")系統的稱呼。有以下2個定義，都在2019年（[令和](../Page/令和.md "wikilink")元年）11月30日開業。
 
-有以下2個定義，都在2019年（[令和](../Page/令和.md "wikilink")元年）11月30日開業。
-
-  - [鐵道建設·運輸設施整備支援機構](https://zh.wikipedia.org/wiki/鐵道建設·運輸設施整備支援機構 "wikilink")（鐵道·運輸機構）用作整備主體，根據[國土交通省](../Page/國土交通省.md "wikilink")的報告用於相模鐵道的路線名「相鐵·JR直通線」\[1\]\[2\]
+  - [鐵道·運輸機構用作整備主體](../Page/鐵道建設、運輸設施整備支援機構.md "wikilink")，根據[國土交通省](../Page/國土交通省.md "wikilink")的報告用於相鐵的路線名「相鐵·JR直通線」\[1\]\[2\]。
       - [西谷站](../Page/西谷站.md "wikilink")－[羽澤橫濱國大站](../Page/羽澤橫濱國大站.md "wikilink")間。參見[神奈川東部方面線](../Page/神奈川東部方面線.md "wikilink")。
-  - 相模鐵道與[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）運行系統的通稱「相鐵·JR直通線」\[3\]\[4\]
-      - [新宿站起途經](https://zh.wikipedia.org/wiki/新宿站 "wikilink")、[品鶴線](../Page/品鶴線.md "wikilink")、、相鐵新橫濱線、[（相鐵）本線連結](../Page/相鐵本線.md "wikilink")[海老名站](https://zh.wikipedia.org/wiki/海老名站 "wikilink")。此條目以此記述。
+  - 相鐵與JR東日本的運行系統之通稱「相鐵·JR直通線」\[3\]\[4\]。
+      - [新宿站起途經](https://zh.wikipedia.org/wiki/新宿站 "wikilink")、[品鶴線](../Page/品鶴線.md "wikilink")、、相鐵新橫濱線、[（相鐵）本線連結](../Page/相鐵本線.md "wikilink")[海老名站](https://zh.wikipedia.org/wiki/海老名站 "wikilink")。本條目記述此項。
 
 ## 車站列表
 
@@ -13,7 +11,7 @@
   - 累計營業距離
       - 新宿站－羽澤橫濱國大站間是由新宿站起計的營業距離，羽澤橫濱國大站－海老名站間是由羽澤橫濱國大站起計的營業距離
       - （）內是途經品川站、大井町站的營業距離。用於車費計算的營業距離參見[\#車費計算、乘車制度](https://zh.wikipedia.org/wiki/#車費計算、乘車制度 "wikilink")
-  - 行走路線名…※1：，※2：
+  - 行走路線名…※1：，※2：[相鐵新橫濱線](../Page/相鐵新橫濱線.md "wikilink")
   - 停靠站
       - 各站停車及埼京線內的快速、通勤快速停靠表內所有車站。
       - 「特急」＝相模鐵道內作為特急列車運行的列車：●＝停靠站，｜＝通過站
@@ -45,7 +43,7 @@
 <tr class="odd">
 <td><p>東日本旅客鐵道</p></td>
 <td></td>
-<td><p>一部份列車途經<a href="https://zh.wikipedia.org/wiki/File:JR_JA_line_symbol.svg" title="fig:JR_JA_line_symbol.svg">JR_JA_line_symbol.svg</a> <a href="../Page/埼京線.md" title="wikilink">埼京線</a>、<a href="../Page/川越線.md" title="wikilink">川越線</a>直通運行至<a href="https://zh.wikipedia.org/wiki/川越站" title="wikilink">川越站</a></p></td>
+<td><p>部份列車途經<a href="https://zh.wikipedia.org/wiki/File:JR_JA_line_symbol.svg" title="fig:JR_JA_line_symbol.svg">JR_JA_line_symbol.svg</a> <a href="../Page/埼京線.md" title="wikilink">埼京線</a>、<a href="../Page/川越線.md" title="wikilink">川越線</a>直通運行至<a href="https://zh.wikipedia.org/wiki/川越站" title="wikilink">川越站</a></p></td>
 <td></td>
 <td></td>
 <td></td>

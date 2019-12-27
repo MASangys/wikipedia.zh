@@ -9,9 +9,9 @@
   - Seljak, M. idr. (2004). Vzpostavitev normativne kontrole v knjižničnem informacijskem sistemu COBISS.SI, Slovenija. Organizacija znanja, 9 (2), 37-46.
   - Šauperl, J. in Saye, J. D. (2007). Smo kaj napredovali?: Ponovni premislek o tradicionalnih katalogih v sodobni informacijski družbi. V *Knjižnice za prihodnost: napredek in sodelovanje* (str. 77-89). Ljubljana: Zveza bibliotekarskih društev Slovenije.
   - *COMARC/A Format na normativne podatke*. (2001). Maribor: Institut informacijskih znanosti.
-  - *COBISS/OPAC.*(2011). Pridobljeno 17.5.2011 s spletne strani <http://cobiss5.izum.si/scripts/cobiss?ukaz=INFO&id=1512408359481382>
+  - *COBISS/OPAC.*(2011). Pridobljeno 17.5.2011 s spletne strani <https://web.archive.org/web/20160304192336/http://cobiss5.izum.si/scripts/cobiss?ukaz=INFO&id=1512408359481382>
   - Seljak, M. idr. (2004). Implementation of authority control in the Cobiss.SI library information system, Slovenia. *New library world*, 105 (5/6), 203-212.
-  - *Izjava o mednarodnih katalogizacijskih načelih.* Pridobljeno 17.5.2011 s spletne strani <http://www.nuk.uni-lj.si/infobib/images/stories/Dokumenti/Izjava_o_mednarodnih_katalogizacijskih_nacelih.pdf>
+  - *Izjava o mednarodnih katalogizacijskih načelih.* Pridobljeno 17.5.2011 s spletne strani <https://web.archive.org/web/20150725233507/http://www.nuk.uni-lj.si/infobib/images/stories/Dokumenti/Izjava_o_mednarodnih_katalogizacijskih_nacelih.pdf>
 
 ## 外部链接
 

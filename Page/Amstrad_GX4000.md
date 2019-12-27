@@ -31,7 +31,7 @@ Amstrad GX4000的遊戲陣容僅有27款，多數由、及等英國及法國第�
 
 ## 外部連結
 
-  - [Old-computers.com](http://www.old-computers.com/museum/computer.asp?st=2&c=1082)
+  - [Old-computers.com](https://www.webcitation.org/67JkyyHta?url=http://www.old-computers.com/museum/computer.asp?st=2)
   - [Video Game Console Library](http://www.videogameconsolelibrary.com/pg90-gx4000.htm#page=history)
 
 [Category:1990年面世的產品](https://zh.wikipedia.org/wiki/Category:1990年面世的產品 "wikilink") [Category:第三世代遊戲機](https://zh.wikipedia.org/wiki/Category:第三世代遊戲機 "wikilink") [Category:Amstrad_CPC](https://zh.wikipedia.org/wiki/Category:Amstrad_CPC "wikilink") [Category:Amstrad](https://zh.wikipedia.org/wiki/Category:Amstrad "wikilink")

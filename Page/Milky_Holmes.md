@@ -8,7 +8,7 @@ Milky Holmes为多媒体系列作品《[侦探歌剧 少女福尔摩斯](../Page
 
 2013年1月24日，在“株式会社Dream come ture/Bushiroad合同发表会”上，官方正式公布了“侦探歌剧 少女福尔摩斯”企划制作新作动画的消息，新角色——黑白双子（常盘和美与明神川爱丽丝）的人设公开。常盘和美的声优同时公布，为“寻找艾莉！”活动的亚军[寺川爱美](https://zh.wikipedia.org/wiki/寺川爱美 "wikilink")（同年年底艺名由本名“寺川爱美”改为“爱美”），爱丽丝的声优则通过活动选拔产生\[6\]。最终，同样曾经参加过“寻找艾莉！”活动的并进入大阪赛区半决赛的[伊藤彩沙](../Page/伊藤彩沙.md "wikilink")被选为爱丽丝的声优\[7\]。此后爱美与伊藤彩沙组成“Milky Holmes Feathers”，成为Milky Holmes的姊妹组合。Milky Holmes与Milky Holmes Feathers共同活动时，会使用“Milky Holmes Sisters”的名义。
 
-2018年2月3日，“Milky Holmes Road to Final”企划公开，Milky Holmes将于2019年初解散，最后一场演出将于2019年2月在《侦探歌剧 少女福尔摩斯》舞台[横滨举行](https://zh.wikipedia.org/wiki/横滨 "wikilink")。\[8\]
+2018年2月3日，“Milky Holmes Road to Final”企划公开，Milky Holmes将于2019年初解散，并于2019年1月28日在[武道馆进行了最后的演出](https://zh.wikipedia.org/wiki/武道馆 "wikilink")。\[8\]
 
 ## 成员
 
@@ -118,10 +118,10 @@ Milky Holmes为多媒体系列作品《[侦探歌剧 少女福尔摩斯](../Page
 
 ## 外部链接
 
-  - [官方网站](http://milky-holmes.com/unit/index.html)
+  - [官方网站](https://web.archive.org/web/20160405210908/http://milky-holmes.com/unit/index.html)
   - 事务所介绍页面：
-      - [Milky Holmes](https://hibiki-cast.jp/hibiki_f/milky-holmes/)
-      - [Feathers](https://hibiki-cast.jp/hibiki_f/feathers/)
+      - [Milky Holmes](https://web.archive.org/web/20181114224710/https://hibiki-cast.jp/hibiki_f/milky-holmes/)
+      - [Feathers](https://web.archive.org/web/20181114224621/https://hibiki-cast.jp/hibiki_f/feathers/)
 
 [Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
 

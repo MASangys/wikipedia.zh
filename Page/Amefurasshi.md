@@ -1,8 +1,8 @@
-**Amefurasshi**（[日语](../Page/日语.md "wikilink")：アメフラっシ）是隶属于[星尘传播的由五名成员组成的女子偶像组合](../Page/星塵傳播.md "wikilink")。与[桃色幸运草Z等星辰传播旗下组合共同组成](../Page/桃色幸運草Z.md "wikilink")[STARDUST PLANET](https://zh.wikipedia.org/wiki/星塵傳播#STARDUST_PLANET "wikilink")\[1\]。
+**Amefurasshi**（[日语](../Page/日语.md "wikilink")：アメフラっシ）是隶属于[星尘传播的由四名成员组成的女子偶像组合](../Page/星塵傳播.md "wikilink")。与[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")等星塵传播旗下组合共同组成[STARDUST PLANET](https://zh.wikipedia.org/wiki/星塵傳播#STARDUST_PLANET "wikilink")\[1\]。
 
 ## 概要
 
-[3B junior在包含前子团体](../Page/3B_junior.md "wikilink")和的、于2018年11月8日举办的演唱会上宣布了将由3B junior的成员中将继续演艺活动的5人组成的新偶像组合アメフラっシ\[2\]\[3\]。由桃色幸运草Z的原经纪人古屋智美担任经纪人。
+[3B junior在包含前子团体](../Page/3B_junior.md "wikilink")和的、于2018年11月8日举办的解散演唱会上宣布了将由3B junior的成员中将继续演艺活动的5人组成的新偶像组合アメフラっシ\[2\]\[3\]。由桃色幸运草Z的原经纪人古屋智美担任经纪人。
 
 关于「アメフラっシ」一名的由来，因为アメフラっシ是由3B junior「细胞分裂」而来，曾拟定Ameba（日语：アメーバ，即[变形虫](https://zh.wikipedia.org/wiki/变形虫 "wikilink")）这一名称，但因已有一同名社交网站[Ameba](../Page/Ameba.md "wikilink")存在而作罢，因而选用了侯补计划中的名称「アメフラシ」（即[海鹿](../Page/海鹿科.md "wikilink")，因为属于软体动物的海鹿没有特定形状而被选为侯选名称）。由于直接采用此名称不够可爱，故在「ラ」和「シ」之间加入促音「っ」组成了现在的名称。
 
@@ -34,19 +34,12 @@
 </tr>
 <tr class="odd">
 <td><p><br />
-おおひら ひかる</p></td>
-<td></td>
-<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td><p>ひっか</p></td>
-</tr>
-<tr class="even">
-<td><p><br />
 こじま はな</p></td>
 <td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p>はなちゃん</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><br />
 すずき もえか</p></td>
 <td></td>
@@ -56,7 +49,29 @@
 </tbody>
 </table>
 
-愛来曾隶属团体，市川、大平、小島、鈴木四人曾隶属团体。
+### 已離開成員
+
+<table>
+<thead>
+<tr class="header">
+<th><p>姓名</p></th>
+<th><p>出生日期</p></th>
+<th><p>出身地</p></th>
+<th><p>昵称</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><br />
+おおひら ひかる</p></td>
+<td></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
+<td><p>ひっか</p></td>
+</tr>
+</tbody>
+</table>
+
+愛来曾隶属团体，市川、大平、小島、鈴木四人曾隶属团体。大平在2019年12月14日畢業。
 
 ## 出演
 

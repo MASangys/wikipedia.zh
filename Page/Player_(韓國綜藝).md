@@ -165,7 +165,7 @@
 <td><p>15</p></td>
 <td><p>10月27日</p></td>
 <td><p>大叔田徑運動會 (特別接力賽 + 在遠處用身體說話 + 上坡之戰)</p></td>
-<td><p>、<a href="../Page/文世潤.md" title="wikilink">文世潤</a>(實習Player)、<a href="../Page/洪榛浩.md" title="wikilink">洪榛浩</a>、<a href="../Page/南昶熙.md" title="wikilink">南昶熙</a>、<a href="../Page/張水院.md" title="wikilink">張水院</a>(<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>)、KCM、(<a href="../Page/NRG_(團體).md" title="wikilink">NRG</a>)、、<a href="../Page/河成雲.md" title="wikilink">河成雲</a>(<a href="../Page/HOTSHOT.md" title="wikilink">HOTSHOT</a>)、尹汝春、、<a href="https://zh.wikipedia.org/wiki/玄勝熙" title="wikilink">玄勝熙</a>(<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)</p></td>
+<td><p>、<a href="../Page/文世潤.md" title="wikilink">文世潤</a>(實習Player)、<a href="../Page/洪榛浩.md" title="wikilink">洪榛浩</a>、<a href="../Page/南昶熙.md" title="wikilink">南昶熙</a>、<a href="../Page/張水院.md" title="wikilink">張水院</a>(<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>)、KCM、(<a href="../Page/NRG_(團體).md" title="wikilink">NRG</a>)、、<a href="../Page/河成雲.md" title="wikilink">河成雲</a>(<a href="../Page/HOTSHOT.md" title="wikilink">HOTSHOT</a>)、尹汝春、、<a href="../Page/玄勝熙.md" title="wikilink">玄勝熙</a>(<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>

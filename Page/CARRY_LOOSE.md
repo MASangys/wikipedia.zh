@@ -207,7 +207,7 @@ CARRY LOOSE（キャリールーズ）\[1\]是日本的4人音樂團體、[日�
 
 [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
 
-1.  [BiSHらを送り出すWACKが新グループ「カレールーず（仮称）」結成に向けてオーディション開催](https://www.excite.co.jp/news/article/Oricon_2138039/)
+1.
 2.  [WACK新グループ（カレールーず（仮称））結成オーディション開催のお知らせ](https://www.wack.jp/posts/6461965H)
 3.  [WACKがグループ・カレールーず（仮）を結成](http://oto-ch.net/archives/37730821.html)
 4.  [WACK新グループ「カレールーず（仮称）」結成](https://deview.co.jp/Audition/Overview?am_audition_id=25116&set_cookie=2)

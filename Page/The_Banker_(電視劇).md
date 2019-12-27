@@ -379,6 +379,58 @@
   - [SBS](../Page/SBS_\(韓國\).md "wikilink") [水木連續劇](../Page/SBS水木連續劇.md "wikilink")：《[Big Issue](../Page/Big_Issue.md "wikilink")》、《[絕對達令](../Page/絕對達令_\(韓國電視劇\).md "wikilink")》
   - [tvN](../Page/TVN.md "wikilink") [水木連續劇](../Page/TvN水木連續劇.md "wikilink")：《[觸及真心](../Page/觸及真心.md "wikilink")》、《[她的私生活](../Page/她的私生活.md "wikilink")》
 
+## 提名&獲獎列表
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年度</p></td>
+<td><p>頒獎典禮</p></td>
+<td><p>獎項</p></td>
+<td><p>入圍者</p></td>
+<td><p>結果</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2019_MBC演技大獎" title="wikilink">MBC演技大賞</a></p></td>
+<td><p>水木迷你劇部門<br />
+男子最優秀演技獎</p></td>
+<td><p><a href="../Page/金相中.md" title="wikilink">金相中</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>水木迷你劇部門<br />
+女子最優秀演技獎</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡時娜" title="wikilink">蔡時娜</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>水木迷你劇部門<br />
+助演獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>男子新人獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 參考資料
 
 ## 外部連結

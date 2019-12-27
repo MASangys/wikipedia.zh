@@ -12,7 +12,9 @@ GG.Bet | sport_label = 分部 | sport = 《[決勝時刻](../Page/決勝時刻�
 《[鬥陣特攻](../Page/鬥陣特攻.md "wikilink")》（Vancouver Titans）
 《[要塞英雄](https://zh.wikipedia.org/wiki/要塞英雄_大逃殺 "wikilink")》
 《[虹彩六號：圍攻行動](../Page/虹彩六號：圍攻行動.md "wikilink")》
-《[Apex英雄](../Page/Apex英雄.md "wikilink")》 | website =  | footnotes = | fanclub = }} **Luminosity Gaming**是一支以[安大略省](../Page/安大略省.md "wikilink")[多倫多為根據地的加拿大](https://zh.wikipedia.org/wiki/多倫多 "wikilink")[電玩遊戲戰隊](../Page/電玩遊戲戰隊.md "wikilink")\[1\]，旗下分部有《[決勝時刻](../Page/決勝時刻系列.md "wikilink")》、《[爐石傳說](https://zh.wikipedia.org/wiki/爐石傳說 "wikilink")》、《[魔獸世界](https://zh.wikipedia.org/wiki/魔獸世界 "wikilink")》、《[神之浩劫](../Page/神之浩劫.md "wikilink")》、《[任天堂明星大亂鬥](../Page/任天堂明星大亂鬥系列.md "wikilink")》、《[勁爆美式足球](https://zh.wikipedia.org/wiki/勁爆美式足球系列 "wikilink")》、《[絕地求生](../Page/絕地求生.md "wikilink")》、《[要塞英雄](https://zh.wikipedia.org/wiki/要塞英雄系列 "wikilink")》、《[虹彩六號：圍攻行動](../Page/虹彩六號：圍攻行動.md "wikilink")》和《[Apex英雄](../Page/Apex英雄.md "wikilink")》\[2\]。
+《[Apex英雄](../Page/Apex英雄.md "wikilink")》 | website =  | footnotes = | fanclub = }}
+
+是一支以[安大略省](../Page/安大略省.md "wikilink")[多倫多為根據地的加拿大](https://zh.wikipedia.org/wiki/多倫多 "wikilink")[電玩遊戲戰隊](../Page/電玩遊戲戰隊.md "wikilink")\[1\]，旗下分部有《[決勝時刻](../Page/決勝時刻系列.md "wikilink")》、《[爐石傳說](https://zh.wikipedia.org/wiki/爐石傳說 "wikilink")》、《[魔獸世界](https://zh.wikipedia.org/wiki/魔獸世界 "wikilink")》、《[神之浩劫](../Page/神之浩劫.md "wikilink")》、《[任天堂明星大亂鬥](../Page/任天堂明星大亂鬥系列.md "wikilink")》、《[勁爆美式足球](https://zh.wikipedia.org/wiki/勁爆美式足球系列 "wikilink")》、《[絕地求生](../Page/絕地求生.md "wikilink")》、《[要塞英雄](https://zh.wikipedia.org/wiki/要塞英雄系列 "wikilink")》、《[虹彩六號：圍攻行動](../Page/虹彩六號：圍攻行動.md "wikilink")》和《[Apex英雄](../Page/Apex英雄.md "wikilink")》\[2\]。
 
 ## 絕對武力：全球攻勢
 
@@ -391,15 +393,15 @@ Luminosity Gaming在2016年7月30日買下巴西隊伍WinOut，其旗下的隊�
 </tr>
 <tr class="even">
 <td><p>Factor</p></td>
-<td><p>2019-09-24[39]</p></td>
+<td><p>2019年9月24日[39]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Slashug</p></td>
-<td><p>2019-11-26[40]</p></td>
+<td><p>2019年11月26日[40]</p></td>
 </tr>
 <tr class="even">
 <td><p>Viirus</p></td>
-<td><p>2019-06-22[41]</p></td>
+<td><p>2019年6月22日[41]</p></td>
 </tr>
 </tbody>
 </table>
@@ -438,7 +440,7 @@ Luminosity Gaming在2016年7月30日買下巴西隊伍WinOut，其旗下的隊�
 ## 外部連結
 
   -
-[Category:2015年加拿大建立](https://zh.wikipedia.org/wiki/Category:2015年加拿大建立 "wikilink") [Category:电子竞技团队](https://zh.wikipedia.org/wiki/Category:电子竞技团队 "wikilink")
+[Category:2015年加拿大建立](https://zh.wikipedia.org/wiki/Category:2015年加拿大建立 "wikilink") [Category:电子竞技团队](https://zh.wikipedia.org/wiki/Category:电子竞技团队 "wikilink") [Category:加拿大电子游戏界](https://zh.wikipedia.org/wiki/Category:加拿大电子游戏界 "wikilink")
 
 1.   Professional Esports Organization|website=www.luminosity.gg|access-date=2018-11-12|archive-url=[https://web.archive.org/web/20181027235413/http://www.luminosity.gg/about|archive-date=2018-10-27|dead-url=no](https://web.archive.org/web/20181027235413/http://www.luminosity.gg/about%7Carchive-date=2018-10-27%7Cdead-url=no)}}
 2.   Professional Esports Organization|website=www.luminosity.gg|access-date=2016-07-27|archive-url=[https://web.archive.org/web/20160604211008/http://www.luminosity.gg/team|archive-date=2016-06-04|dead-url=no](https://web.archive.org/web/20160604211008/http://www.luminosity.gg/team%7Carchive-date=2016-06-04%7Cdead-url=no)}}

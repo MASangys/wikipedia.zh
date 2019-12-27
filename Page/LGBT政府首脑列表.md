@@ -276,7 +276,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Gustavo_melella.jpg" title="fig:Gustavo_melella.jpg">Gustavo_melella.jpg</a></p></td>
+<td></td>
 <td><p><a href="../Page/阿根廷.md" title="wikilink">阿根廷</a></p></td>
 <td><p><a href="../Page/火地省_(阿根廷).md" title="wikilink">火地省省长</a></p></td>
 <td></td>

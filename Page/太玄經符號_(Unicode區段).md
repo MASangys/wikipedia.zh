@@ -2,7 +2,7 @@
 
 ## 說明
 
-留意有些《太玄經》[卦爻符號](../Page/爻.md "wikilink")，收錄在[雜項符號區段內的](https://zh.wikipedia.org/wiki/雜項符號_\(Unicode區段\) "wikilink") U+2600 至 U+268F 間，它們都是跟《[易經](../Page/易經六十四卦符號_\(Unicode區段\).md "wikilink")》的爻符外貌相同者，包括：
+留意有些《太玄經》[卦爻符號](../Page/爻.md "wikilink")，收錄在[雜項符號區段內的](../Page/雜項符號_\(Unicode區段\).md "wikilink") U+2600 至 U+268F 間，它們都是跟《[易經](../Page/易經六十四卦符號_\(Unicode區段\).md "wikilink")》的爻符外貌相同者，包括：
 
   - 單爻（monogram）中的「天」和「地」：U+268A 和 U+268B（⚊、⚋）
   - 兩爻（digram）中的「天天」、「地天」、「天地」和「地地」：U+268C 至 U+268F（⚌、⚍、⚎、⚏）

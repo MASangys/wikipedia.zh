@@ -10,7 +10,7 @@
 <th><p>可配置<a href="https://zh.wikipedia.org/wiki/标题栏" title="wikilink">标题栏按钮</a></p></th>
 <th><p>图形式配置</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/热键" title="wikilink">热键</a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/客户间通信协定手册" title="wikilink">ICCCM</a>/<a href="https://zh.wikipedia.org/wiki/扩展窗口管理器提示" title="wikilink">EWMH遵循</a></p></th>
+<th><p><a href="../Page/客户间通信协定手册.md" title="wikilink">ICCCM</a>/<a href="../Page/扩展窗口管理器提示.md" title="wikilink">EWMH遵循</a></p></th>
 <th><p>窗口切换的面板</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/分页_(GUI)" title="wikilink">分页窗口</a></p></th>
 <th><p>可设主题</p></th>
@@ -684,7 +684,7 @@
 <td><p>可配置<a href="https://zh.wikipedia.org/wiki/标题栏" title="wikilink">标题栏按钮</a></p></td>
 <td><p>图形式配置</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/热键" title="wikilink">热键</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/客户间通信协定手册" title="wikilink">ICCCM</a>/<a href="https://zh.wikipedia.org/wiki/扩展窗口管理器提示" title="wikilink">EWMH遵循</a></p></td>
+<td><p><a href="../Page/客户间通信协定手册.md" title="wikilink">ICCCM</a>/<a href="../Page/扩展窗口管理器提示.md" title="wikilink">EWMH遵循</a></p></td>
 <td><p>窗口切换的面板</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/分页_(GUI)" title="wikilink">分页窗口</a></p></td>
 <td><p>可设主题</p></td>

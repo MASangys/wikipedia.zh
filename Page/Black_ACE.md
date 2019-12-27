@@ -1,4 +1,4 @@
-**Black ACE**（），是依據[优酷](../Page/优酷.md "wikilink")偶像男團競演養成類真人秀《[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")》的人氣前八名所組成的團體，於2019年3月28日成立，成員包括：[趙品霖](../Page/趙品霖.md "wikilink")、[楊桐](https://zh.wikipedia.org/wiki/楊桐 "wikilink")、[商振博](https://zh.wikipedia.org/wiki/商振博 "wikilink")、[賴煜哲](../Page/賴煜哲.md "wikilink")、[田書臣](https://zh.wikipedia.org/wiki/田書臣 "wikilink")、[王迪](../Page/王迪.md "wikilink")、[陳順](https://zh.wikipedia.org/wiki/陳順 "wikilink")、[龍泓昊](https://zh.wikipedia.org/wiki/龍泓昊 "wikilink")\[1\]，粉絲名為「 桃心 」應援色為「藍寶紅漸變色  」。
+**Black ACE**（），是依據[优酷](../Page/优酷.md "wikilink")偶像男團競演養成類真人秀《[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")》的人氣前八名所組成的團體，於2019年3月28日成立，成員包括：[趙品霖](../Page/趙品霖.md "wikilink")、[楊桐](https://zh.wikipedia.org/wiki/楊桐 "wikilink")、[商振博](https://zh.wikipedia.org/wiki/商振博 "wikilink")、[賴煜哲](../Page/賴煜哲.md "wikilink")、[田書臣](https://zh.wikipedia.org/wiki/田書臣 "wikilink")、[王迪](../Page/王迪.md "wikilink")、陳順、[龍泓昊](https://zh.wikipedia.org/wiki/龍泓昊 "wikilink")\[1\]，粉絲名為「 桃心 」應援色為「藍寶紅漸變色  」。
 
 ## 團隊經歷
 
@@ -241,7 +241,7 @@ VIC</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年9月17日、9月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/少年威計劃" title="wikilink">少年威計劃</a></p></td>
+<td><p><a href="../Page/少年威計劃.md" title="wikilink">少年威計劃</a></p></td>
 <td><p><a href="../Page/优酷.md" title="wikilink">优酷</a></p></td>
 <td><p>全體</p></td>
 <td></td>
@@ -411,6 +411,32 @@ VIC</p></td>
 <td><p>大同體育館</p></td>
 <td><ul>
 <li>表演EP歌曲《裂變》</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>10月26日</p></td>
+<td><p>浙江紹興市</p></td>
+<td><p>游俠滙音樂節</p></td>
+<td><p>全體</p></td>
+<td><p>上虞e遊小鎮</p></td>
+<td><ul>
+<li>表演EP歌曲《裂變》及《因你》</li>
+</ul>
+<ul>
+<li>趙品霖新歌</li>
+</ul>
+<p>《IF U WANT MY LOVE》</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>11月10日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海</a></p></td>
+<td><p>天貓雙十一狂歡夜</p></td>
+<td><p>全體</p></td>
+<td><p>上海梅賽德斯奔馳文化中心</p></td>
+<td><ul>
+<li>表演《對你愛不完》改編版及EP歌曲《裂變》</li>
 </ul></td>
 </tr>
 </tbody>

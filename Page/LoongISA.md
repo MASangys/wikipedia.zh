@@ -25,9 +25,9 @@ LoongISA里包括MIPS部分指令集，其中有MIPS Release 2全套指令集和
 
 ###### 浮点标准
 
-LoongISA 1.0的浮点遵守IEEE754-1989标准，使用Legacy NaN的QNaN/SNaN定义。但是其MADD指令则按IEEE754-2008的Fused MADD标准实现，与MIPS Release2不同。\[7\]
+LoongISA 1.0的浮点遵守**[IEEE754-1989](https://zh.wikipedia.org/wiki/IEEE754-1989 "wikilink")**标准，使用Legacy NaN的QNaN/SNaN定义。但是其MADD指令则按**IEEE754-2008**的Fused MADD标准实现，与MIPS Release2不同。\[7\]
 
-LoongISA 2.0则全部遵循IEEE754-2008标准，使用IEEE754-2008规定的NaN 2008的QNaN/SNaN定义，依照MIPS Release5实现浮点运算单元。
+LoongISA 2.0则全部遵循**IEEE754-2008**标准，使用**IEEE754-2008**规定的NaN 2008的QNaN/SNaN定义，依照MIPS Release5实现浮点运算单元。
 
 ### LoongMMI
 
@@ -35,11 +35,11 @@ LoongMMI（简称MMI）指令集是龙芯多媒体扩展指令集（MMI即为**M
 
 ### LoongEXT
 
-LoongEXT（简称LEXT）是龙芯通用扩展指令集。LoongEXT现在最新版为3.0，按照指令长度分**LoongEXT32**和**LoongEXT64**两种类别。LoongEXT指令集和LoongMMI指令集同时提交了对[gcc社区的支持](https://zh.wikipedia.org/wiki/gcc "wikilink")，\[10\]可在编译中选用此指令集的优化选项。
+LoongEXT（简称LEXT）是龙芯通用扩展指令集。LoongEXT现在最新版为3.0，按照指令长度分**LoongEXT32**和**LoongEXT64**两种类别。LoongEXT指令集已提交了对[gcc社区的支持](https://zh.wikipedia.org/wiki/gcc "wikilink")，\[10\]可在编译中选用此指令集的优化选项。
 
 ### LoongVZ
 
-LoongVZ（简称LVZP）是龙芯针对MIPS Release 5中的VZ虚拟化模块指令集的扩展，现已在[龙芯中科的](https://zh.wikipedia.org/wiki/龙芯中科 "wikilink")[KVM](https://zh.wikipedia.org/wiki/KVM "wikilink")、[QEMU](../Page/QEMU.md "wikilink")和[libvirt库中有所运用](https://zh.wikipedia.org/wiki/libvirt "wikilink")。
+LoongVZ（简称LVZP）是龙芯针对MIPS Release 5中的VZ虚拟化模块指令集的扩展，现已在[龙芯中科](../Page/龙芯中科.md "wikilink")的[KVM](https://zh.wikipedia.org/wiki/KVM "wikilink")、[QEMU](../Page/QEMU.md "wikilink")和[libvirt库中有所运用](https://zh.wikipedia.org/wiki/libvirt "wikilink")。
 
 ## 参考文献
 
@@ -48,7 +48,7 @@ LoongVZ（简称LVZP）是龙芯针对MIPS Release 5中的VZ虚拟化模块指�
 ## 参见
 
   - [龙芯](../Page/龙芯.md "wikilink")
-  - [龙芯中科](https://zh.wikipedia.org/wiki/龙芯中科 "wikilink")
+  - [龙芯中科](../Page/龙芯中科.md "wikilink")
   - [MIPS架构](https://zh.wikipedia.org/wiki/MIPS架构 "wikilink")
   - [精简指令集](../Page/精简指令集.md "wikilink")
 

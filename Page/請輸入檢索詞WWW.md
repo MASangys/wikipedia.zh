@@ -4,15 +4,15 @@
 
 ### 主要人物
 
-|                                                     |        |                                                                                    |
-| --------------------------------------------------- | ------ | ---------------------------------------------------------------------------------- |
-| **演員**                                              | **角色** | **介紹**                                                                             |
-| [林秀晶](../Page/林秀晶.md "wikilink")                    | 裴朵美    | 業界第一Unicon入口網站企業的前本部長，被惡意解雇後跳槽Barro，英文名塔美(Tami)。38歲。                               |
-| [張基龍](../Page/張基龍.md "wikilink")                    | 朴旭建    | 製作遊戲音樂的「密林Sound」公司代表，對裴朵美一見鍾情並死心塌地，是鄭多仁的初戀。28歳。                                    |
-| [李多熙](../Page/李多熙_\(演員\).md "wikilink")             | 車賢     | 業界第二Barro的網站社交部長，英文名史嘉莉(Scarlett)，因在電梯裡毆打性騷擾犯而有前科，其實骨子裡是一個很有正義感、有義氣的女漢子，喜歡薛智煥。37歲。 |
-| [全慧珍](../Page/全慧珍.md "wikilink")                    | 宋佳景    | Unicon入口網站的理事，與裴朵美之前關係良好，後因理念不合惡化。39歲。                                             |
-| [李宰旭](https://zh.wikipedia.org/wiki/李宰旭 "wikilink") | 薛智煥    | 「岳母為何那樣」的演員，一次外景中被車賢誤會是嫌犯絆倒後相識。30歲。                                                |
-| [池承炫](../Page/池承炫.md "wikilink")                    | 吳真宇    | JW電影代表，宋佳景政治聯姻的老公，其實深愛著宋佳景。40歲。                                                    |
+|                                         |        |                                                                                    |
+| --------------------------------------- | ------ | ---------------------------------------------------------------------------------- |
+| **演員**                                  | **角色** | **介紹**                                                                             |
+| [林秀晶](../Page/林秀晶.md "wikilink")        | 裴朵美    | 業界第一Unicon入口網站企業的前本部長，被惡意解雇後跳槽Barro，英文名塔美(Tami)。38歲。                               |
+| [張基龍](../Page/張基龍.md "wikilink")        | 朴旭建    | 製作遊戲音樂的「密林Sound」公司代表，對裴朵美一見鍾情並死心塌地，是鄭多仁的初戀。28歳。                                    |
+| [李多熙](../Page/李多熙_\(演員\).md "wikilink") | 車賢     | 業界第二Barro的網站社交部長，英文名史嘉莉(Scarlett)，因在電梯裡毆打性騷擾犯而有前科，其實骨子裡是一個很有正義感、有義氣的女漢子，喜歡薛智煥。37歲。 |
+| [全慧珍](../Page/全慧珍.md "wikilink")        | 宋佳景    | Unicon入口網站的理事，與裴朵美之前關係良好，後因理念不合惡化。39歲。                                             |
+| [李宰旭](../Page/李宰旭.md "wikilink")        | 薛智煥    | 「岳母為何那樣」的演員，一次外景中被車賢誤會是嫌犯絆倒後相識。30歲。                                                |
+| [池承炫](../Page/池承炫.md "wikilink")        | 吳鎮宇    | JW電影代表，宋佳景政治聯姻的老公，其實深愛著宋佳景。40歲。                                                    |
 
 ### Barro
 
@@ -387,7 +387,7 @@
   - [韓國tvN官方網站](http://program.tving.com/tvn/searchwww/)
   - [請輸入檢索詞WWW-NAVER](https://m.entertain.naver.com/tvBrand/9043178)
 
-[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:電腦工作題材電視節目](https://zh.wikipedia.org/wiki/Category:電腦工作題材電視節目 "wikilink") [Category:網路題材作品](https://zh.wikipedia.org/wiki/Category:網路題材作品 "wikilink") [Category:姊弟戀題材電視劇](https://zh.wikipedia.org/wiki/Category:姊弟戀題材電視劇 "wikilink")
+[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:電腦工作題材電視節目](https://zh.wikipedia.org/wiki/Category:電腦工作題材電視節目 "wikilink") [Category:網路題材作品](https://zh.wikipedia.org/wiki/Category:網路題材作品 "wikilink") [Category:姊弟戀題材電視劇](https://zh.wikipedia.org/wiki/Category:姊弟戀題材電視劇 "wikilink") [Category:星空傳媒(台灣)電視外購韓劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購韓劇 "wikilink")
 
 1.
 2.

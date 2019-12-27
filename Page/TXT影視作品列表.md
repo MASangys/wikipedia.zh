@@ -13,12 +13,12 @@
 
 ## 官方頻道單元
 
-|          |                |                |          |        |       |
-| -------- | -------------- | -------------- | -------- | ------ | ----- |
-| 年份       | 日期             | 頻道             | 單元名稱     | 固定演出成員 | 備註    |
-| 2019年    | 3月4日－至今        | YouTube、V LIVE | 《T:TIME》 | 全員     | \[7\] |
-| 3月5日－至今  | YouTube、V LIVE | 《EPISODE》      | \[8\]    |        |       |
-| 5月11日－至今 | YouTube        | 《++line》       | \[9\]    |        |       |
+|          |                 |                 |          |        |       |
+| -------- | --------------- | --------------- | -------- | ------ | ----- |
+| 年份       | 日期              | 頻道              | 單元名稱     | 固定演出成員 | 備註    |
+| 2019年    | 3月4日－至今         | YouTube、Weverse | 《T:TIME》 | 全員     | \[7\] |
+| 3月5日－至今  | YouTube、Weverse | 《EPISODE》       | \[8\]    |        |       |
+| 5月11日－至今 | YouTube         | 《++line》        | \[9\]    |        |       |
 
 ## 節目主持
 
@@ -56,6 +56,22 @@
 <td><p>《<a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a>》</p></td>
 <td><p>YEONJUN、SOOBIN</p></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11月8日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC標準FM" title="wikilink">MBC標準FM</a></p></td>
+<td><p>《<a href="../Page/IDOL_RADIO.md" title="wikilink">IDOL RADIO</a>》</p></td>
+<td><p>TAEHYUN</p></td>
+<td><p>特別DJ</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12月8日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a>》</p></td>
+<td><p>YEONJUN、SOOBIN</p></td>
+<td><p>特別主持人</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -244,7 +260,7 @@
 </tr>
 <tr class="even">
 <td><p>10月21日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/The_Dream_Chapter:_MAGIC" title="wikilink">The Dream Chapter: MAGIC</a>》</p></td>
+<td><p>《<a href="../Page/The_Dream_Chapter:_MAGIC.md" title="wikilink">The Dream Chapter: MAGIC</a>》</p></td>
 <td><p>9와 4분의 3 승강장에서 너를 기다려 (Run Away)[32]</p></td>
 <td><p>9와 4분의 3 승강장에서 너를 기다려 (Run Away)[33][34]</p></td>
 <td></td>
@@ -668,16 +684,16 @@
 |                                    |             |                                    |                                                       |                                                  |            |
 | ---------------------------------- | ----------- | ---------------------------------- | ----------------------------------------------------- | ------------------------------------------------ | ---------- |
 | 順序                                 | 日期          | 歌曲名稱                               | 語言                                                    | 官方影片                                             | 瀏覽次數       |
-| 1                                  | 2019年3月4日   | '어느날 머리에서 뿔이 자랐다 (CROWN)'          | 韓語                                                    | [1](https://www.youtube.com/watch?v=W3iSnJ663II) | 92,234,427 |
-| 2                                  | 2019年4月25日  | 'Cat & Dog'                        | [2](https://www.youtube.com/watch?v=NaKrke1EL1A)      | 42,606,192                                       |            |
-| 3                                  | 2019年10月21日 | '9와 4분의 3 승강장에서 너를 기다려 (Run Away)' | [3](https://www.youtube.com/watch?v=6yWPfUz0z94&t=0s) | 15,552,207                                       |            |
-| 4                                  | 2019年5月3日   | 'Cat & Dog (English ver.)'         | 英語                                                    | [4](https://www.youtube.com/watch?v=nvO17uPanBY) | 8,880,522  |
-| 5                                  | 2019年6月5日   | '별의 낮잠 (Nap of a star)'            | 韓語                                                    | [5](https://www.youtube.com/watch?v=XkDA02FHHik) | 6,754,234  |
-| 6                                  | 2019年4月7日   | 'Blue Orangeade'                   | [6](https://www.youtube.com/watch?v=LTz8NjNQp-s)      | 4,399,668                                        |            |
-| 7                                  | 2019年7月12日  | 'Our Summer'                       | [7](https://www.youtube.com/watch?v=M_iYqRNS_o0)      | 2,457,235                                        |            |
-| 8                                  | 2019年11月18日 | 'Magic Island'                     | [8](https://www.youtube.com/watch?v=KskEx8K-l2Q)      | 2,346,937                                        |            |
-| 9                                  | 2019年11月29日 | 'Angel Or Devil'                   | [9](https://www.youtube.com/watch?v=cfm97EKin4c)      | 1,372,603                                        |            |
-| <small>最後更新時間：2019年11月29日。</small> |             |                                    |                                                       |                                                  |            |
+| 1                                  | 2019年3月4日   | '어느날 머리에서 뿔이 자랐다 (CROWN)'          | 韓語                                                    | [1](https://www.youtube.com/watch?v=W3iSnJ663II) | 93,560,577 |
+| 2                                  | 2019年4月25日  | 'Cat & Dog'                        | [2](https://www.youtube.com/watch?v=NaKrke1EL1A)      | 43,725,614                                       |            |
+| 3                                  | 2019年10月21日 | '9와 4분의 3 승강장에서 너를 기다려 (Run Away)' | [3](https://www.youtube.com/watch?v=6yWPfUz0z94&t=0s) | 18,405,541                                       |            |
+| 4                                  | 2019年5月3日   | 'Cat & Dog (English ver.)'         | 英語                                                    | [4](https://www.youtube.com/watch?v=nvO17uPanBY) | 8,967,673  |
+| 5                                  | 2019年6月5日   | '별의 낮잠 (Nap of a star)'            | 韓語                                                    | [5](https://www.youtube.com/watch?v=XkDA02FHHik) | 6,821,686  |
+| 6                                  | 2019年4月7日   | 'Blue Orangeade'                   | [6](https://www.youtube.com/watch?v=LTz8NjNQp-s)      | 4,440,502                                        |            |
+| 7                                  | 2019年11月29日 | 'Angel Or Devil'                   | [7](https://www.youtube.com/watch?v=cfm97EKin4c)      | 4,108,600                                        |            |
+| 8                                  | 2019年11月18日 | 'Magic Island'                     | [8](https://www.youtube.com/watch?v=KskEx8K-l2Q)      | 2,709,309                                        |            |
+| 9                                  | 2019年7月12日  | 'Our Summer'                       | [9](https://www.youtube.com/watch?v=M_iYqRNS_o0)      | 2,625,350                                        |            |
+| <small>最後更新時間：2019年12月09日。</small> |             |                                    |                                                       |                                                  |            |
 
 ## 音樂節目
 
@@ -801,7 +817,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>第一張正規專輯<strong>《<a href="https://zh.wikipedia.org/wiki/The_Dream_Chapter:_MAGIC" title="wikilink">The Dream Chapter: MAGIC</a>》</strong></p></th>
+<th><p>第一張正規專輯<strong>《<a href="../Page/The_Dream_Chapter:_MAGIC.md" title="wikilink">The Dream Chapter: MAGIC</a>》</strong></p></th>
 </tr>
 </thead>
 <tbody>

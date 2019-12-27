@@ -20,7 +20,7 @@
 
 同樣搭配Snapdragon 855的三星手機：
 
-  - [三星Galaxy A90 5G](https://zh.wikipedia.org/wiki/三星Galaxy_A90_5G "wikilink")
+  - [三星Galaxy A90 5G](../Page/三星Galaxy_A90_5G.md "wikilink")
   - [三星Galaxy Note 10系列](../Page/三星Galaxy_Note_10系列.md "wikilink")
 
 ## 參考資料

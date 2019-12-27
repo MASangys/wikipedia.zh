@@ -34,7 +34,7 @@
 ### 本作角色
 
   -
-    擁有天才般的程式編成能力的少女，在本作中使用駭客攻擊能力與魯邦一起行動。性格木訥，不善與人交際。
+    擁有天才般的程式編成能力的少女，在本作中使用駭客攻擊能力與魯邦一起行動。性格木訥，不善與人交際，在寄宿學校和帕達爾王國的王女多爾瑪成為朋友。
 
 <!-- end list -->
 
@@ -49,10 +49,10 @@
 <!-- end list -->
 
   -
-    世界頂尖的IT公司Shake Hands的創辦人，擁有狂野的個性，世界都在關注他的行動。
+    世界頂尖的IT公司Shake Hands的創辦人，擁有狂野的個性，世界都在關注他的行動。艾咪・海寧的親生父親。
 
 ## 外部連結
 
-  - [官方網站](https://lupin-pt5.com/)
+  - [官方網站](https://web.archive.org/web/20180315183937/https://lupin-pt5.com/)
 
 [Category:鲁邦三世](https://zh.wikipedia.org/wiki/Category:鲁邦三世 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:法國背景作品](https://zh.wikipedia.org/wiki/Category:法國背景作品 "wikilink")

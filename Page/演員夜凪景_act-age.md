@@ -332,6 +332,12 @@
 <td><p>2019年9月4日</p></td>
 <td><p>ISBN 978-4-08-882051-4</p></td>
 </tr>
+<tr class="even">
+<td><p>9</p></td>
+<td></td>
+<td><p>2019年12月4日</p></td>
+<td><p>ISBN 978-4-08-882103-0</p></td>
+</tr>
 </tbody>
 </table>
 

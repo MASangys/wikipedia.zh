@@ -75,7 +75,7 @@
 <td><p>張娛樂公司所屬公司代表。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/池慧元" title="wikilink">池慧元</a></p></td>
+<td><p><a href="../Page/池慧元.md" title="wikilink">池慧元</a></p></td>
 <td><p>張英美</p></td>
 <td><p>張娛樂公司所屬新人演員。</p></td>
 </tr>
@@ -301,6 +301,71 @@
 
   - [MBC](../Page/文化廣播公司.md "wikilink") [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[新入史官丘海昤](../Page/新入史官丘海昤.md "wikilink")》
   - [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") [水木連續劇](../Page/OCN_Original_Series.md "wikilink")：《[臨時制先生](../Page/臨時制先生.md "wikilink")》
+
+## 提名&獲獎列表
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年度</p></td>
+<td><p>頒獎典禮</p></td>
+<td><p>獎項</p></td>
+<td><p>入圍者</p></td>
+<td><p>結果</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2019_KBS演技大獎" title="wikilink">KBS演技大賞</a></p></td>
+<td><p>女子最優秀演技獎</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>迷你連續劇部門<br />
+男子優秀演技獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>迷你連續劇部門<br />
+女子優秀演技獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>男子配角獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>女子配角獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最佳情侶獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考資料
 

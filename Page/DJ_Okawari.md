@@ -1,4 +1,5 @@
-**DJ Okawari**出生于[日本](../Page/日本.md "wikilink")[静冈县](https://zh.wikipedia.org/wiki/静冈县 "wikilink")，是日本的[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")、[唱片制作人和](https://zh.wikipedia.org/wiki/唱片制作人 "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")\[1\]\[2\]。其曲风主要为[爵士嘻哈](https://zh.wikipedia.org/wiki/爵士嘻哈 "wikilink")，[钢琴](../Page/钢琴.md "wikilink")则是其音乐中的一个重要元素\[3\]。截至2019年一共发行了七张专辑：2008年的”*Diorama*“，2009年的”*Mirror*“，2011年的”*Kaleidoscope*“，2017年的”*Compass*“，与Emily Styler合作的”*Restore*“，2018年的”*Perfect Blue*“，以及2019年与Celeina Ann合作的“Nightfall”.
+**DJ Okawari**出生于[日本](../Page/日本.md "wikilink")[静冈县](https://zh.wikipedia.org/wiki/静冈县 "wikilink")，是日本的[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")、[唱片制作人和](https://zh.wikipedia.org/wiki/唱片制作人 "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")\[1\]\[2\]。其曲风主要为[爵士嘻哈](https://zh.wikipedia.org/wiki/爵士嘻哈 "wikilink")，[钢琴](../Page/钢琴.md "wikilink")则是其音乐中的一个重要元素\[3\]。
+截至2019年，一共发行了七张专辑：2008年的「Diorama」、2009年的「Mirror」、2011年的「Kaleidoscope」、2017年的「Compass」、与Emily Styler合作的「Restore」、2018年的「Perfect Blue」，以及2019年与合作的「Nightfall」。
 
 ## 生平
 

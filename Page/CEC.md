@@ -1,6 +1,6 @@
-**消费者电子控制** (**CEC**)是一个 [HDMI](../Page/HDMI.md "wikilink") 特性，设计允许用户只用一个[遥控器](https://zh.wikipedia.org/wiki/遥控器 "wikilink")，就能通过 HDMI 控制所有连接的设备\[1\]\[2\] 。例如，用 [电视机](../Page/电视机.md "wikilink")遥控器控制[机顶盒](../Page/數位視訊轉換盒.md "wikilink") 或[DVD播放机](../Page/DVD播放机.md "wikilink")。最多可控制 15 个设备。CEC 也允许启用了 CEC 的设备无用户干预互相控制。
+**消费者电子控制**（）是一个 [HDMI](../Page/HDMI.md "wikilink") 特性，设计允许用户只用一个[遥控器](https://zh.wikipedia.org/wiki/遥控器 "wikilink")，就能通过 HDMI 控制所有连接的设备\[1\]\[2\] 。例如，用 [电视机](../Page/电视机.md "wikilink")遥控器控制[机顶盒](../Page/數位視訊轉換盒.md "wikilink") 或[DVD播放机](../Page/DVD播放机.md "wikilink")。最多可控制 15 个设备。CEC 也允许启用了 CEC 的设备无用户干预互相控制。
 
-CEC 是一个单线双向[串行总线](../Page/串行通信.md "wikilink")，基于CENELEC 标准的 AV.link 协议完成[远程控制功能](../Page/遙控.md "wikilink")。\[3\] 尽管 CEC 在产品中的实现是可选的，但 CEC 硬件线路是强制的。\[4\] CEC 在 HDMI 标准 1.0 中定义，在 HDMI 1.2、HDMI 1.2a、HDMI 1.3a 中更新（在总线中增加计时器和音频指令）。 USB 转 CEC 适配器的出现允许计算机控制启用了 CEC 的设备。\[5\]\[6\]
+CEC 是一个单线双向[串行总线](../Page/串行通信.md "wikilink")，基于[CENELEC](https://zh.wikipedia.org/wiki/CENELEC "wikilink") 标准的 [AV.link](https://zh.wikipedia.org/wiki/AV.link "wikilink") 协议完成[远程控制功能](../Page/遙控.md "wikilink")。\[3\] 尽管 CEC 在产品中的实现是可选的，但 CEC 硬件线路是强制的。\[4\] CEC 在 HDMI 标准 1.0 中定义，在 HDMI 1.2、HDMI 1.2a、HDMI 1.3a 中更新（在总线中增加计时器和音频指令）。 USB 转 CEC 适配器的出现允许计算机控制启用了 CEC 的设备。\[5\]\[6\]
 
 ## CEC 的商业名称
 
@@ -33,11 +33,11 @@ CEC 的商业[名称是](../Page/商業名稱.md "wikilink")：\[7\]\[8\]\[9\]\[
   - 系统待机：让用户能一键操作让多个设备待机。
   - 频道传送：传送频道设置到另一个电视。
   - 一键录制：无论当前屏幕在播放什么内容，允许用户录制到选定的录制设备。
-  - 定时器程控：允许用户使用许多高清电视和机顶盒内置的电子节目单去编程定时控制录制设备，如 PVR 和 DVR 等。
+  - 定时器程控：允许用户使用许多高清电视和机顶盒内置的电子节目单去编程定时控制录制设备，如 [PVR](https://zh.wikipedia.org/wiki/PVR "wikilink") 和 [DVR](https://zh.wikipedia.org/wiki/数字视频录像机 "wikilink") 等。
   - 系统信息：检查所有组件的总线地址和配置。
   - Deck 控制：允许一个组件对一个可回放组件（蓝光播放器或高清 DVD 播放器或录像机等）查询控制操作（播放、暂停、回退等）。
-  - 音量控制：允许一个组件控制另一个组件的音量。
-  - OSD 显示：用电视的\[./https://en.wikipedia.org/wiki/On-screen_display on-screen display\] (OSD)屏幕显示功能显示文字。
+  - 音量控制：允许一个组件控制另一个组件的[音量](https://zh.wikipedia.org/wiki/音量 "wikilink")。
+  - OSD 显示：用电视的[OSD屏幕显示功能显示文字](https://zh.wikipedia.org/wiki/OSD "wikilink")。
   - 设备菜单控制：允许一个组件通过传递用户接口命令控制另一个组件的系统菜单。
   - 路径控制：控制切换信号源。
   - 遥控传递：允许在系统内传递遥控器指令到另一个设备。

@@ -19,7 +19,7 @@
   - 亞屬 *Phaxas* (*Ensiculus*) ：今作[属](../Page/属.md "wikilink")級的 *[Ensiculus](https://zh.wikipedia.org/wiki/Ensiculus "wikilink")*
       - *Phaxas* (*Ensiculus*) *cultellus* ：今作*[Ensiculus cultellus](https://zh.wikipedia.org/wiki/Ensiculus_cultellus "wikilink")*
   - 亞屬 *Phaxas* (*Phaxas*) ：今直接屬於本屬。
-      - [韓氏豆蟶](https://zh.wikipedia.org/wiki/韓氏豆蟶 "wikilink") *Phaxas* (*Phaxas*) *hanleyi*或*Phaxas hanleyi* ；）：今屬[莢蟶屬](https://zh.wikipedia.org/wiki/莢蟶屬 "wikilink")（*Siliqua*），作*Siliqua albida*
+      - [韓氏豆蟶](../Page/韓氏豆蟶.md "wikilink") *Phaxas* (*Phaxas*) *hanleyi*或*Phaxas hanleyi* ；）：今屬[莢蟶屬](https://zh.wikipedia.org/wiki/莢蟶屬 "wikilink")（*Siliqua*），作*Siliqua albida*
 
 ## 參考文獻
 

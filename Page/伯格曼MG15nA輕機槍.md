@@ -8,6 +8,6 @@
   -
 ## 參考文獻
 
-[Category:一戰機槍](https://zh.wikipedia.org/wiki/Category:一戰機槍 "wikilink") [Category:輕機槍](https://zh.wikipedia.org/wiki/Category:輕機槍 "wikilink")
+[Category:輕機槍](https://zh.wikipedia.org/wiki/Category:輕機槍 "wikilink") [Category:一戰機槍](https://zh.wikipedia.org/wiki/Category:一戰機槍 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink") [Category:德國一戰武器](https://zh.wikipedia.org/wiki/Category:德國一戰武器 "wikilink") [Category:7.92×57毫米槍械](https://zh.wikipedia.org/wiki/Category:7.92×57毫米槍械 "wikilink")
 
 1.

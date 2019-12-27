@@ -1,4 +1,4 @@
-**Cö Shu Nie**（）是[日本](../Page/日本.md "wikilink")搖滾樂團，2011年在[大阪組成](https://zh.wikipedia.org/wiki/大阪 "wikilink")。成員有中村未来、松本駿介、藤田亮介三人。2013年獨立發表小專輯《Hydra》，2018年在[索尼音乐發表](https://zh.wikipedia.org/wiki/索尼音乐 "wikilink") 《Asphyxia》而主流出道，同時也是電視動畫 《[東京喰種:re](https://zh.wikipedia.org/wiki/東京喰種:re "wikilink")》的片頭曲\[1\]。電視動畫《[約定的夢幻島](../Page/約定的夢幻島.md "wikilink")》片尾曲 「絶体絶命」和「Lamp」以及 電視動畫《[PSYCHO-PASS心靈判官](https://zh.wikipedia.org/wiki/PSYCHO-PASS心靈判官 "wikilink") 第三季》片尾曲「bullet」都是他們的作品。\[2\]
+**Cö Shu Nie**（）是[日本](../Page/日本.md "wikilink")搖滾樂團，2011年在[大阪組成](https://zh.wikipedia.org/wiki/大阪 "wikilink")。成員有中村未来、松本駿介、藤田亮介三人。2013年獨立發表小專輯《Hydra》，2018年在[索尼音乐發表](https://zh.wikipedia.org/wiki/索尼音乐 "wikilink") 《Asphyxia》而主流出道，同時也是電視動畫 《[東京喰種:re](https://zh.wikipedia.org/wiki/東京喰種:re "wikilink")》的片頭曲\[1\]。電視動畫《[約定的夢幻島](../Page/約定的夢幻島.md "wikilink")》片尾曲 「絶体絶命」和「Lamp」以及 電視動畫《[PSYCHO-PASS](../Page/PSYCHO-PASS.md "wikilink")心靈判官 第三季》片尾曲「bullet」都是他們的作品。\[2\]
 
 ## 樂團成員
 
@@ -34,6 +34,9 @@
 
 ## 參考
 
+## 外部連結
+
+  -
 [Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
 
 1.

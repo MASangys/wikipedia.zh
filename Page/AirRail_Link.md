@@ -53,7 +53,7 @@
 8.
 9.
 10.
-11. [Http: / / www.obsessionistas.co.uk / news / ? currentpage 12](http://www.obsessionistas.co.uk/news/?currentPage=12)
+11.
 12.
 13.
 14.

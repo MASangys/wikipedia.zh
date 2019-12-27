@@ -1,4 +1,4 @@
-**金珉炅**(；）\[1\]，又譯為**金珉京**\[2\]，藝名為**Roa**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，曾是[PRISTIN成員](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")，現為[HINAPIA隊長](https://zh.wikipedia.org/wiki/HINAPIA "wikilink")。
+**金珉炅**(；）\[1\]，藝名為**Roa**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，曾是[PRISTIN成員](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")，現為[HINAPIA隊長](https://zh.wikipedia.org/wiki/HINAPIA "wikilink")。
 
 ## 經歷
 
@@ -8,19 +8,19 @@
 
 ### 出道前：PRODUCE 101
 
-2015年12月，Roa以[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")練習生的身份參演了《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，最終排名為第四十二名。2016年3月成為PLEDIS Girlz的成員。\[3\]，在5月起每周六都在PLEDIS Girlz Concert中演出\[4\]。
+2015年12月，Roa以[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")練習生的身份參演了《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，最終排名為第四十二名。2016年3月成為PLEDIS Girlz的成員。\[2\]，在5月起每周六都在PLEDIS Girlz Concert中演出\[3\]。
 
 ### PRISTIN
 
-2017年3月21日Roa作為[PRISTIN的成員正式出道](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")\[5\]，2018年5月28日，以小分隊[PRISTIN V的成員展開活動](https://zh.wikipedia.org/wiki/PRISTIN_V "wikilink")。\[6\]。2019年5月23日，PRISTIN宣布解散，Roa與Pledis解約。
+2017年3月21日Roa作為[PRISTIN的成員正式出道](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")\[4\]，2018年5月28日，以小分隊[PRISTIN V的成員展開活動](https://zh.wikipedia.org/wiki/PRISTIN_V "wikilink")。\[5\]。2019年5月23日，PRISTIN宣布解散，Roa與Pledis解約。
 
 ### HINAPIA
 
-2019年10月21日，Alseulbit Entertainment（알슬빛Entertainment）宣布珉炅（Roa）、京元（Yuha）、銀雨、藝彬（Rena）將以新5人女團[HINAPIA出道](https://zh.wikipedia.org/wiki/HINAPIA "wikilink")。\[7\]，2019年11月3日，作為[HINAPIA的成員再次出道](https://zh.wikipedia.org/wiki/HINAPIA "wikilink")。\[8\]
+2019年10月21日，OSR娛樂宣布珉炅（Roa）、京元（Yuha）、銀雨、藝彬（Rena）將以新5人女團[HINAPIA出道](https://zh.wikipedia.org/wiki/HINAPIA "wikilink")。\[6\]，2019年11月3日，作為[HINAPIA的成員再次出道](https://zh.wikipedia.org/wiki/HINAPIA "wikilink")。\[7\]
 
 ## 詞曲創作
 
-韓國音樂著作權協會之登記編號：김민경 / KIM MING YEONG (10012721)，6首\[9\]
+韓國音樂著作權協會之登記編號：김민경 / KIM Min Kyeung (10012721)，6首\[8\]
 
 <table>
 <thead>
@@ -101,11 +101,10 @@
 [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
 
 1.
-2.  [PLEDIS官方正名](http://www.pledis.co.kr/html/artist/pristin/CHN/profile)
+2.
 3.
 4.
 5.
-6.
-7.  [重新出發！PRISTIN 銀雨、珉炅、京元、藝彬組新團再出道](https://www.koreastardaily.com/tc/news/121168)
-8.  [1](https://www.koreastardaily.com/tc/news/121458)
-9.
+6.  [重新出發！PRISTIN 銀雨、珉炅、京元、藝彬組新團再出道](https://www.koreastardaily.com/tc/news/121168)
+7.  [Former PRISTIN Members Talk About How It Feels To Re-Debut With HINAPIA](https://www.soompi.com/article/1363638wpp/former-pristin-members-talk-about-how-it-feels-to-re-debut-with-hinapia)
+8.

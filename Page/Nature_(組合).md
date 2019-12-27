@@ -1,4 +1,4 @@
-**NATURE**（）是[韓國n](https://zh.wikipedia.org/wiki/韓國 "wikilink").CH 娛樂公司推出的女子組合，由[韓國籍成員](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Sohee](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")、Saebom、**Lu**、Chaebin、Loha、Uchae、Sunshine，[中國](../Page/中國.md "wikilink")籍成員Aurora及[日本](../Page/日本.md "wikilink")籍成員Haru組成。組合於2018年8月3日出道 \[1\]\[2\]\[3\]，官方粉絲名為「Leaf」。
+**NATURE**（）是[韓國n](https://zh.wikipedia.org/wiki/韓國 "wikilink").CH 娛樂公司推出的女子組合，由[韓國籍成員](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Sohee](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")、Saebom、**Lu**、Chaebin、Loha、Uchae、Sunshine，[中國](../Page/中國.md "wikilink")籍成員Aurora及[日本](../Page/日本.md "wikilink")籍成員[Haru組成](https://zh.wikipedia.org/wiki/Haru "wikilink")。組合於2018年8月3日出道 \[1\]\[2\]\[3\]，官方粉絲名為「Leaf」。
 
 ## 團名由來
 
@@ -226,7 +226,7 @@ LineData =
 <ul>
 <li>發行日期 ：2019年11月12日</li>
 <li>語言：韓語</li>
-<li>銷量：8,449+<sup>(Hanteo)</sup></li>
+<li>銷量：10,600+<sup>(Gaon)</sup>[10]、8,449+<sup>(Hanteo)</sup></li>
 </ul></td>
 <td></td>
 </tr>
@@ -237,11 +237,11 @@ LineData =
 
 | 年份     | 發佈日期                         | 歌曲                       |
 | ------ | ---------------------------- | ------------------------ |
-| 2018年  | 8月3日                         | Allegro Cantabile\[10\]  |
-| 11月21日 | 썸(You'll Be Mine)\[11\]      |                          |
-| 2019年  | 1月15日                        | 꿈꿨어(Dream About U)\[12\] |
-| 7月8日   | 내가 좀 예뻐(I'm So Pretty)\[13\] |                          |
-| 11月12日 | OOPSIE (My Bad)\[14\]        |                          |
+| 2018年  | 8月3日                         | Allegro Cantabile\[11\]  |
+| 11月21日 | 썸(You'll Be Mine)\[12\]      |                          |
+| 2019年  | 1月15日                        | 꿈꿨어(Dream About U)\[13\] |
+| 7月8日   | 내가 좀 예뻐(I'm So Pretty)\[14\] |                          |
+| 11月12日 | OOPSIE (My Bad)\[15\]        |                          |
 
 ## 綜藝節目
 
@@ -254,12 +254,48 @@ LineData =
 
 ### 綜藝節目
 
-| 日期         | 電視台  | 節目名稱        | 參與成員       |
-| ---------- | ---- | ----------- | ---------- |
-| 2019年7月13日 | SBS  | 《叢林的法則》     | Saebom     |
-|            |      |             |            |
-| 2019年7月16日 | JTBC | 《Idol Room》 | 全員(Gaga缺席) |
-|            |      |             |            |
+<table>
+<thead>
+<tr class="header">
+<th><p>日期</p></th>
+<th><p>電視台</p></th>
+<th><p>節目名稱</p></th>
+<th><p>參與成員</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年7月13日</p></td>
+<td><p>SBS</p></td>
+<td><p>《叢林的法則》</p></td>
+<td><p>Saebom</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年7月16日</p></td>
+<td><p>JTBC</p></td>
+<td><p>《Idol Room》</p></td>
+<td><p>全員(Gaga缺席)</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月27日</p></td>
+<td></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/一週的偶像" title="wikilink">一週的偶像</a>》</p></td>
+<td><p>全員(Aurora缺席)</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 獎項
 
@@ -380,8 +416,9 @@ LineData =
 7.
 8.
 9.  [2019年7月GAON專輯榜40位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2019&termGbn=month)
-10.
+10. [2019年11月GAON專輯榜29位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=11&hitYear=2019&termGbn=month)
 11.
 12.
 13.
 14.
+15.

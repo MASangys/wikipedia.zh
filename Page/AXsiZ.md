@@ -74,6 +74,14 @@ AXsiZ自成立以來，其公司總部地址當初與Studio五組同樣位於[�
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2020年</p></td>
+<td><p>未定</p></td>
+<td></td>
+<td></td>
+<td><p>|原創</p></td>
+<td><p>Studio五組</p></td>
+</tr>
 </tbody>
 </table>
 

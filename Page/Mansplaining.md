@@ -6,7 +6,7 @@
 
 ## 參看
 
-  - [Manspreading](https://zh.wikipedia.org/wiki/Manspreading "wikilink")
+  - [Manspreading](../Page/Manspreading.md "wikilink")
 
 [分類:貶義詞](https://zh.wikipedia.org/wiki/分類:貶義詞 "wikilink")
 

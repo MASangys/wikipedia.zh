@@ -166,7 +166,7 @@
 <tr class="even">
 <td><p>8月23日</p></td>
 <td><p><a href="../Page/Soribada最佳音樂大獎.md" title="wikilink">Soribada最佳音樂大獎</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
+<td><p>首爾奧林匹克體操競技場</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -197,7 +197,7 @@
 </tr>
 <tr class="even">
 <td><p>11月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/VLIVE_AWARDS_V_HEARTBEAT" title="wikilink">2019 VLIVE AWARDS V HEARTBEAT</a></p></td>
+<td><p><a href="../Page/VLIVE_AWARDS_V_HEARTBEAT.md" title="wikilink">2019 VLIVE AWARDS V HEARTBEAT</a></p></td>
 <td><p><a href="../Page/高尺天空巨蛋.md" title="wikilink">首爾高尺天空巨蛋</a></p></td>
 <td><p>[8]</p></td>
 <td></td>
@@ -215,7 +215,7 @@
 <td><p>11月30日</p></td>
 <td><p><a href="../Page/甜瓜音樂獎.md" title="wikilink">MMA 2019</a></p></td>
 <td></td>
-<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/高尺天空巨蛋.md" title="wikilink">高尺天空巨蛋</a></p></td>
+<td><p>首爾高尺天空巨蛋</p></td>
 <td><p>[10]</p></td>
 <td></td>
 </tr>
@@ -225,6 +225,30 @@
 <td></td>
 <td><p><a href="../Page/名古屋巨蛋.md" title="wikilink">名古屋巨蛋</a></p></td>
 <td><p>[11]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12月18日</p></td>
+<td><p>KFM RADIO SHOW INCHEON MIND UP CONCERT</p></td>
+<td></td>
+<td><p>仁川三山世界體育館</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月25日</p></td>
+<td><p><a href="../Page/SBS歌謠大戰.md" title="wikilink">SBS歌謠大戰</a></p></td>
+<td></td>
+<td><p>首爾高尺天空巨蛋</p></td>
+<td><p>[12]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12月27日</p></td>
+<td><p><a href="../Page/KBS歌謠盛典.md" title="wikilink">KBS歌謠大祝祭</a></p></td>
+<td></td>
+<td><p>一山KINTEX</p></td>
+<td><p>[13]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -247,3 +271,5 @@
 9.
 10.
 11.
+12.
+13.

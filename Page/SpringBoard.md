@@ -2,7 +2,7 @@
 
 ## 历史
 
-2008 年[苹果公司发布了](https://zh.wikipedia.org/wiki/苹果公司 "wikilink") iPhone OS 1.1.3及一月应用包时，跳板，SpringBoard 的诞生引发了实质性的改动。 在任一[应用上用手指按几秒会让所有的应用图标开始](../Page/应用程序.md "wikilink")**抖动**，这时可以重新布局、跨页移动图标和及由 [Safari](../Page/Safari.md "wikilink") 创建的[网页应用或快捷方式](../Page/网络应用程序.md "wikilink")，直到按下[主屏幕按钮使图标停止抖动](https://zh.wikipedia.org/wiki/主屏幕按钮 "wikilink")。\[1\]
+2008 年[苹果公司发布了](https://zh.wikipedia.org/wiki/苹果公司 "wikilink") iPhone OS 1.1.3及一月应用包时，SpringBoard 的诞生引发了实质性的改动。 在任一[应用上用手指按几秒会让所有的应用图标开始](../Page/应用程序.md "wikilink")**抖动**，这时可以重新布局、跨页移动图标和及由 [Safari](../Page/Safari.md "wikilink") 创建的[网页应用或快捷方式](../Page/网络应用程序.md "wikilink")，直到按下[主屏幕按钮使图标停止抖动](https://zh.wikipedia.org/wiki/主屏幕按钮 "wikilink")。\[1\]
 
 同年 7 月发布的 iPhone OS 2.0 推出了 [App Store](../Page/App_Store_\(iOS\).md "wikilink")，用户由此可以下载第三方应用，并可以同早前网页应用的方式删除他们。
 

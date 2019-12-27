@@ -22,6 +22,10 @@
 | 金鍾基                              | 趙俊亨    | 泰俊的故鄉朋友，財務顧問。        |
 | 金光植                              | 朴基浩    | 泰俊可靠的兄弟，智能犯罪調查隊調查科長。 |
 |                                  | 楊哲秀    | 泰俊喜歡的上司，三華保險代表。      |
+|                                  | 金敏俊    | 尚正醫院副院長。             |
+|                                  | 鄭賢珠    | 尚正醫院小兒癌症中心醫生         |
+|                                  | 金南英    | 大選候選人                |
+| [文知茵](../Page/文知茵.md "wikilink") | 洪世英    | 未來生物研究員              |
 |                                  |        |                      |
 
 ### 特別出演
@@ -49,6 +53,11 @@
 <td><p>股票之神，實為詐欺犯。</p></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td><p>幕後出資者。14集、16集</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -116,12 +125,12 @@
 <td><p>9</p></td>
 <td><p>2019/11/17<br />
 </p></td>
-<td><p>2.287%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>2.132%</p></td>
-<td><p>%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
@@ -131,27 +140,27 @@
 <tr class="odd">
 <td><p>12</p></td>
 <td><p>1.899%</p></td>
-<td><p>%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
 <td><p>2019/12/01</p></td>
-<td><p>%</p></td>
+<td><p>1.837%</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>2.236%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
 <td><p>2019/12/08</p></td>
-<td><p>%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>1.928%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>平均收視率</p></td>

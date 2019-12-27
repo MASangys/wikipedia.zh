@@ -56,7 +56,7 @@ ACE FACTORY成立於2019年。以[劉在明](../Page/劉在明.md "wikilink")、
 ### 電視劇
 
   - 2019年：[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[自白](../Page/自白_\(電視劇\).md "wikilink")》
-  - 2020年：[JTBC](../Page/JTBC.md "wikilink")《[天氣好的話，我會去找你](https://zh.wikipedia.org/wiki/天氣好的話，我會去找你 "wikilink")》
+  - 2020年：[JTBC](../Page/JTBC.md "wikilink")《[天氣好的話，我會去找你](../Page/天氣好的話，我會去找你.md "wikilink")》
 
 ## 參考資料
 

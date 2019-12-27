@@ -11,7 +11,7 @@
 ## 外部链接
 
   - [官方网站](http://www.uchceu.es/)
-  - [中文手册](https://www.uchceu.es/docs/informe-idioma-chino.pdf)
+  - [中文手册](https://web.archive.org/web/20160715132622/https://www.uchceu.es/docs/informe-idioma-chino.pdf)
 
 [Category:CEU埃雷拉主教大学](https://zh.wikipedia.org/wiki/Category:CEU埃雷拉主教大学 "wikilink") [Category:西班牙大学](https://zh.wikipedia.org/wiki/Category:西班牙大学 "wikilink") [Category:1999年創建的教育機構](https://zh.wikipedia.org/wiki/Category:1999年創建的教育機構 "wikilink") [Category:1999年西班牙建立](https://zh.wikipedia.org/wiki/Category:1999年西班牙建立 "wikilink")
 

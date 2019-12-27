@@ -23,6 +23,9 @@
       - [帝皇萬能俠](https://zh.wikipedia.org/wiki/帝皇萬能俠 "wikilink")（）
       - [超力電磁俠](../Page/超力電磁俠.md "wikilink")（）
       - [聖戰士丹拜因](https://zh.wikipedia.org/wiki/聖戰士丹拜因 "wikilink")（）
+
+<!-- end list -->
+
   - WORLD 02
     以《[超級機械人大戰α](https://zh.wikipedia.org/wiki/超級機械人大戰α "wikilink")》系列為主題的世界
       - [波羅五號](../Page/波羅五號.md "wikilink")（）
@@ -33,12 +36,18 @@
       - [勇者王GaoGaiGar](https://zh.wikipedia.org/wiki/勇者王GaoGaiGar "wikilink")（）
       - [福音戰士新劇場版：序](../Page/福音戰士新劇場版：序.md "wikilink")（）
       - [福音戰士新劇場版：破](../Page/福音戰士新劇場版：破.md "wikilink")（）
+
+<!-- end list -->
+
   - WORLD 03
     以《[超級機械人大戰Z](https://zh.wikipedia.org/wiki/超級機械人大戰Z "wikilink")》系列為主題的世界
       - [驚爆危機](../Page/驚爆危機.md "wikilink")（）
       - [機動戰士GUNDAMSEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")（）
       - [機動戰士GUNDAM00](https://zh.wikipedia.org/wiki/機動戰士GUNDAM00 "wikilink")（）
       - [Code Geass 反叛的魯路修](https://zh.wikipedia.org/wiki/Code_Geass_反叛的魯路修 "wikilink")（）
+
+<!-- end list -->
+
   - WORLD 04
     以本作原創的世界
       - [裝甲騎兵](../Page/裝甲騎兵.md "wikilink")（）

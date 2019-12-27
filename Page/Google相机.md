@@ -70,17 +70,17 @@ AR Stickers是2017年底宣布的一項功能，支持Pixel 2世代设备。使�
 
 Google相机应用程序最初为开放安卓生态使用，之后随Pixel系列诞生，且具体功能依赖相关处理硬件而有限定运行。
 
-| Google手机机型                                                               | 推出时间    | 中央处理器          |
-| ------------------------------------------------------------------------ | ------- | -------------- |
-| [Nexus 5](../Page/Nexus_5.md "wikilink")                                 | 2013-10 | Snapdragon 800 |
-| [Nexus 6](../Page/Nexus_6.md "wikilink")                                 | 2014-10 | Snapdragon 805 |
-| [Nexus 5X](../Page/Nexus_5X.md "wikilink")                               | 2015-09 | Snapdragon 808 |
-| [Nexus 6P](../Page/Nexus_6P.md "wikilink")                               | 2015-09 | Snapdragon 810 |
-| [Pixel & Pixel XL](../Page/Pixel_\(智能手机\).md "wikilink")                 | 2016-10 | Snapdragon 821 |
-| [Pixel 2 & Pixel 2 XL](../Page/Pixel_2.md "wikilink")                    | 2017-10 | Snapdragon 835 |
-| [Pixel 3 & Pixel 3 XL](../Page/Pixel_3.md "wikilink")                    | 2018-10 | Snapdragon 845 |
-| [Pixel 3a & Pixel 3a XL](../Page/Pixel_3a.md "wikilink")                 | 2019-05 | Snapdragon 670 |
-| [Pixel 4 & Pixel 4 XL](https://zh.wikipedia.org/wiki/Pixel_4 "wikilink") | 2019-10 | Snapdragon 855 |
+| Google手机机型                                               | 推出时间    | 中央处理器          |
+| -------------------------------------------------------- | ------- | -------------- |
+| [Nexus 5](../Page/Nexus_5.md "wikilink")                 | 2013-10 | Snapdragon 800 |
+| [Nexus 6](../Page/Nexus_6.md "wikilink")                 | 2014-10 | Snapdragon 805 |
+| [Nexus 5X](../Page/Nexus_5X.md "wikilink")               | 2015-09 | Snapdragon 808 |
+| [Nexus 6P](../Page/Nexus_6P.md "wikilink")               | 2015-09 | Snapdragon 810 |
+| [Pixel & Pixel XL](../Page/Pixel_\(智能手机\).md "wikilink") | 2016-10 | Snapdragon 821 |
+| [Pixel 2 & Pixel 2 XL](../Page/Pixel_2.md "wikilink")    | 2017-10 | Snapdragon 835 |
+| [Pixel 3 & Pixel 3 XL](../Page/Pixel_3.md "wikilink")    | 2018-10 | Snapdragon 845 |
+| [Pixel 3a & Pixel 3a XL](../Page/Pixel_3a.md "wikilink") | 2019-05 | Snapdragon 670 |
+| [Pixel 4 & Pixel 4 XL](../Page/Pixel_4.md "wikilink")    | 2019-10 | Snapdragon 855 |
 
 Google Camera支持机型\[22\]
 

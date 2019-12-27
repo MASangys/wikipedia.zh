@@ -1,8 +1,8 @@
-**Android 10**（开发[代号](https://zh.wikipedia.org/wiki/代号 "wikilink")：**Android Q**），是由[Google](../Page/Google.md "wikilink")開發的[Android](../Page/Android.md "wikilink")-{zh-hant:作業系統;zh-hans:操作系统}-的第10个主要版本，继承[2018年](../Page/2018年.md "wikilink")發行的[Android 9](https://zh.wikipedia.org/wiki/Android_9 "wikilink")。Android 10的首個开发者预览版本（即测试版）在2019年3月14日發行並提供下載。\[1\]正式版於2019年9月3日發行。此版本是各Android版本中，首次不用[甜品來命名](https://zh.wikipedia.org/wiki/甜品 "wikilink")。\[2\]
+**Android 10**（开发[代号](https://zh.wikipedia.org/wiki/代号 "wikilink")：**Android Q**），是由[Google](../Page/Google.md "wikilink")開發的[Android](../Page/Android.md "wikilink")-{zh-hant:作業系統;zh-hans:操作系统}-的第10个主要版本，继承[2018年](../Page/2018年.md "wikilink")發行的[Android Pie](../Page/Android_Pie.md "wikilink")。Android 10的首個开发者预览版本（即测试版）在2019年3月14日發行並提供下載。\[1\]正式版於2019年9月3日發行。此版本Android是各Android版本中，首次不用[甜品來命名](https://zh.wikipedia.org/wiki/甜品 "wikilink")。\[2\]
 
 ## 特性
 
-Android 10的新特性包括：\[3\]
+Android 10 的新特性包括：\[3\]
 
   - 对[折疊式智慧手機的原生支援](https://zh.wikipedia.org/wiki/折疊式智慧手機 "wikilink")。\[4\]\[5\]
   - 允许用户控制应用程序何时有权查所在位置。
@@ -84,8 +84,8 @@ Android 10的新特性包括：\[3\]
   - [一加](../Page/一加.md "wikilink")
       - [OnePlus 6T](https://zh.wikipedia.org/wiki/OnePlus_6T "wikilink")
       - [OnePlus 6](https://zh.wikipedia.org/wiki/OnePlus_6 "wikilink")
-      - [OnePlus 7](https://zh.wikipedia.org/wiki/OnePlus_7 "wikilink")
-      - [OnePlus 7 Pro](https://zh.wikipedia.org/wiki/OnePlus_7_Pro "wikilink")
+      - [OnePlus 7](../Page/一加手機7.md "wikilink")
+      - [OnePlus 7 Pro](../Page/一加手機7.md "wikilink")
   - [OPPO](../Page/OPPO.md "wikilink")
       - [OPPO Reno](../Page/OPPO_Reno.md "wikilink")
   - [realme](https://zh.wikipedia.org/wiki/realme "wikilink")
@@ -121,7 +121,7 @@ Android 10的新特性包括：\[3\]
 ### 原生搭載
 
   - [Google Pixel](../Page/Google_Pixel.md "wikilink")
-      - [Pixel 4](https://zh.wikipedia.org/wiki/Pixel_4 "wikilink")
+      - [Pixel 4](../Page/Pixel_4.md "wikilink")
       - [Pixel 4 XL](https://zh.wikipedia.org/wiki/Pixel_4_XL "wikilink")
 
 ### 可透過軟件更新
@@ -166,10 +166,10 @@ Android 10的新特性包括：\[3\]
       - [Xperia XZ2](https://zh.wikipedia.org/wiki/Xperia_XZ2 "wikilink")
       - [Xperia XZ2 Company](https://zh.wikipedia.org/wiki/Xperia_XZ2_Company "wikilink")
       - [Xperia XZ2 Premium](https://zh.wikipedia.org/wiki/Xperia_XZ2_Premium "wikilink")
-      - [Xperia 1](https://zh.wikipedia.org/wiki/Xperia_1 "wikilink")
-      - [Xperia 5](https://zh.wikipedia.org/wiki/Xperia_5 "wikilink")
       - [Xperia 10](https://zh.wikipedia.org/wiki/Xperia_10 "wikilink")
       - [Xperia 10 Plus](https://zh.wikipedia.org/wiki/Xperia_10_Plus "wikilink")
+      - [Xperia 1](https://zh.wikipedia.org/wiki/Xperia_1 "wikilink")
+      - [Xperia 5](https://zh.wikipedia.org/wiki/Xperia_5 "wikilink")
 
 ## 参见
 

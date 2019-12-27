@@ -14,7 +14,7 @@ JScheme是以zlib/libpng 许可证发布的[自由软件](../Page/自由软件.m
 
 ## 外部連結
 
-  - [Official website](https://www.jscheme.sourceforge.net/jscheme/main.html)
+  - [Official website](https://web.archive.org/web/20190924210555/http://jscheme.sourceforge.net/jscheme/main.html)
 
   - [JScheme:Scheme implemented in Java-Peter Norvig](https://www.norvig.com/jscheme.html)
 

@@ -1,13 +1,11 @@
-《**劇場版 假面騎士ZI-O Over Quartzer**》（），是日本特攝節目《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的獨立劇場版。日本預定於2019年7月26日上映。
+《**劇場版 假面騎士ZI-O Over Quartzer**》（），是日本特攝節目《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的獨立劇場版。日本於2019年7月26日上映，香港於2019年11月28日上映，台灣於2019年12月13日上映中日雙語版本。
 
-此外《[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")》的作品《[騎士龍戰隊龍裝者](../Page/騎士龍戰隊龍裝者.md "wikilink")》劇場版《[騎士龍戰隊龍裝者 THE MOVIE 時空穿梭！恐龍大恐慌\!\!](https://zh.wikipedia.org/wiki/騎士龍戰隊龍裝者_THE_MOVIE_時空穿梭！恐龍大恐慌!! "wikilink")》亦同步上映。
-
-本作劇場版的口號為「平成假面騎士，最終章。」
+此外日本當地同步上映《[騎士龍戰隊龍裝者](../Page/騎士龍戰隊龍裝者.md "wikilink")》劇場版《[騎士龍戰隊龍裝者 THE MOVIE 時空穿梭！恐龍大恐慌\!\!](https://zh.wikipedia.org/wiki/騎士龍戰隊龍裝者_THE_MOVIE_時空穿梭！恐龍大恐慌!! "wikilink")》。香港和台灣同步上映《[快盜戰隊魯邦連者VS警察戰隊巡邏連者](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者.md "wikilink")》劇場版《[快盜戰隊魯邦連者VS警察戰隊巡邏連者 en film](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film.md "wikilink")》。
 
 ## 本作特色
 
   - 本作继《[剧场版 假面骑士Build Be The One](https://zh.wikipedia.org/wiki/剧场版_假面骑士Build_Be_The_One "wikilink")》后，再次将TV本篇主题曲作为剧场版的主题。
-  - 本作繼《[劇場版 假面騎士EX-AID True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")》後，劇場版的時間線為TV本篇最後話（即第49集）之後，但與《假面騎士EX-AID True·Ending》不同，本作是《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的「分支結局」（後續上映的《[假面騎士 令和 The First Generation](https://zh.wikipedia.org/wiki/假面騎士_令和_The_First_Generation "wikilink")》才是《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的「真結局」）\[1\]，同時也是平成假面騎士的「The·紀念作」。\[2\]。
+  - 本作繼《[劇場版 假面騎士EX-AID True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")》後，劇場版的時間線為TV本篇最後話（即第49集）之後，但與《假面騎士EX-AID True·Ending》的結局不同，本作是《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的「分支結局」（後續上映的《[假面騎士令和The First Generation](../Page/假面騎士令和The_First_Generation.md "wikilink")》才是《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的「主線結局」）\[1\]，同時也是平成假面騎士的「The·紀念作」。\[2\]。
   - 本作繼《[劇場版 假面騎士DECADE 全騎士 VS 大修卡](https://zh.wikipedia.org/wiki/劇場版_假面騎士DECADE_全騎士_VS_大修卡 "wikilink")》後，全平成假面騎士將再次齊聚，並且還是繼《假面騎士Wizard》最終話後，其最終形態一一具現。
   - 本作繼《[劇場版 假面騎士Ghost 100個眼魂與Ghost命運的瞬間](https://zh.wikipedia.org/wiki/劇場版_假面騎士Ghost_100個眼魂與Ghost命運的瞬間 "wikilink")》後，暌違三年所登場的劇場版騎士人數增至一人以上，同其造型更參考了活跃於平成時代卻被歸類於昭和騎士的部分騎士\[3\]。
   - 本作劇場版將叙述《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的物語，並且相關角色，例如飾演「假面騎士Mach / 詩島剛」的稻葉友將繼《[劇場版 假面騎士Drive SURPRISE FUTURE](https://zh.wikipedia.org/wiki/劇場版_假面騎士Drive_SURPRISE_FUTURE "wikilink")》後再度在劇場版上登場。\[4\]。
@@ -46,27 +44,27 @@
 
 ### 《假面騎士ZI-O》原登場人物
 
-****（飾）
+****（飾，台配：[蔣鐵城](../Page/蔣鐵城.md "wikilink")）
 
   -
 
-****（飾）
+****（飾，台配：[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")）
 
   -
 
-****（）
+****（飾，台配：[劉如蘋](../Page/劉如蘋.md "wikilink")）
 
   -
 
-****（飾）
+****（飾，台配：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
 
   -
 
-****（[生瀨勝久](../Page/生瀨勝久.md "wikilink")飾）
+****（[生瀨勝久](../Page/生瀨勝久.md "wikilink")飾，台配：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
 
   -
 
-****（飾，[小山力也](../Page/小山力也.md "wikilink")聲）
+****（飾，[小山力也](../Page/小山力也.md "wikilink")聲，台配：[蔣鐵城](../Page/蔣鐵城.md "wikilink")）
 
   -
 
@@ -134,11 +132,9 @@
 
 **[假面战队五骑士](https://zh.wikipedia.org/wiki/假面战队五骑士 "wikilink")**
 
-**[假面骑士斩月](https://zh.wikipedia.org/wiki/假面骑士鎧武 "wikilink")**
+**[假面骑士斩月 勝鬨鎧甲](https://zh.wikipedia.org/wiki/假面骑士鎧武 "wikilink")**
 
 **漫畫版[幪面超人古迦](https://zh.wikipedia.org/wiki/幪面超人古迦 "wikilink")**
-
-**[电脑奇侠01](../Page/电脑奇侠01.md "wikilink")**
 
 **[假面骑士BRAIN](https://zh.wikipedia.org/wiki/Drive_SAGA#假面騎士BRAIN "wikilink")**
 

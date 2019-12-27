@@ -1,8 +1,8 @@
-《**The Fifth Season**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[Oh My Girl的首張韓語正規專輯](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")。由[WM娛樂製作](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")，[Kakao M發行](../Page/Kakao_M.md "wikilink")，於2019年5月8日推出。主打歌曲為〈The Fifth Season〉。
+《The Fifth Season》是韓國女子組合[Oh My Girl的首張正規專輯](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")。由WM娛樂製作，Kakao M發行，於2019年5月8日推出。主打歌曲為〈The Fifth Season〉。\[1\]
 
 ## 背景
 
-2019年4月11日WM Entertainment透露Oh My Girl 目標在下個月發行新專輯,\[1\]其後於5月20日首場官方粉絲見面會宣布將於5月8日發行首張正規專輯\[2\]。
+2019年4月11日WM Entertainment透露Oh My Girl 目標在下個月發行新專輯,\[2\]其後於5月20日首場官方粉絲見面會宣布將於5月8日發行首張正規專輯\[3\]。
 
 4月28日釋出回歸日程表
 
@@ -78,5 +78,6 @@ Photography版：內含寫真集（共1款）、CD（共2款）、自拍小卡�
 
 [Category:2019年音乐专辑](https://zh.wikipedia.org/wiki/Category:2019年音乐专辑 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:Oh_My_Girl音樂專輯](https://zh.wikipedia.org/wiki/Category:Oh_My_Girl音樂專輯 "wikilink")
 
-1.
+1.  [Oh My Girl 以獨特風格創造嶄新季節　首張正規專輯〈The Fifth Season〉發行倒數三天！](https://www.koreastardaily.com/tc/news/116375)
 2.
+3.

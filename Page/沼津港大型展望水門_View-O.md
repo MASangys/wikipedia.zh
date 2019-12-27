@@ -23,7 +23,7 @@
 ## 外部連結
 
   - [沼津港大型展望水門](https://web.archive.org/web/20130118053745/http://www.city.numazu.shizuoka.jp/kankou/sisetu/byuo/)（沼津市政府）
-      - [導覽手冊](http://www.city.numazu.shizuoka.jp/kankou/pamphlet/byuo/index.htm)
+      - [導覽手冊](https://web.archive.org/web/20170816112054/http://www.city.numazu.shizuoka.jp/kankou/pamphlet/byuo/index.htm)
   - [水門入內參訪申請](http://www.pref.shizuoka.jp/kensetsu/ke-830/jigyo/kouwan/kouwan31.html)（沼津工程事務所）
       - [建築詳細資訊](http://www.pref.shizuoka.jp/kensetsu/ke-830/jigyo/kouwan/documents/byuo1.pdf)
 

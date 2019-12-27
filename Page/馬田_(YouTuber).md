@@ -1,4 +1,4 @@
-**馬田**（英文名：），昵称“馬田叔叔”，[香港](../Page/香港.md "wikilink")[兼職](../Page/兼職.md "wikilink")[Youtuber](https://zh.wikipedia.org/wiki/Youtuber "wikilink")。創立有個人烹飪頻道“點 Cook Guide”，以及与[臺灣YouTuber](../Page/中華民國.md "wikilink")[阿神](../Page/阿神.md "wikilink")合作頻道“搞神馬”。
+**馬田**（英文名：），昵称“馬田叔叔”，[香港](../Page/香港.md "wikilink")[兼職](../Page/兼職.md "wikilink")[Youtuber](https://zh.wikipedia.org/wiki/Youtuber "wikilink")。創立有個人烹飪頻道“點 Cook Guide”，以及与[臺灣YouTuber](../Page/中華民國.md "wikilink")[阿神](../Page/阿神.md "wikilink")合作頻道“搞神馬”，
 
 ## 個人頻道
 
@@ -14,7 +14,7 @@
 
 2017年起與台湾遊戲YouTuber[阿神](../Page/阿神.md "wikilink")合作开办頻道“搞神馬”，内容为[開箱](../Page/開箱.md "wikilink")、美食、遊戲等\[3\]。截至2019年11月，“搞神馬”已有100萬位訂閱者和2.1億的觀看次數。
 
-“搞神馬”是隶属Capsule（日商點子氣囊）公司的创作者\[4\]。
+“搞神馬”是隶属Capsule（日商點子膠囊）公司的创作者\[4\]。
 
 「搞神馬」在2019年維持每週三、六、日更新影片。
 

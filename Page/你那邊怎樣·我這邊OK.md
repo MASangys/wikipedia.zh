@@ -1,4 +1,4 @@
-《**你那邊怎樣·我這邊OK**》（）是一部台灣和新加坡合拍的電視劇，由[臺灣电视公司](https://zh.wikipedia.org/wiki/臺灣电视公司 "wikilink")、[拙八郎创意执行有限公司和](https://zh.wikipedia.org/wiki/拙八郎创意执行有限公司 "wikilink")[新加坡新传媒私人有限公司首次聯合製作](../Page/新传媒私人有限公司.md "wikilink")、合作拍攝，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")跨境合作，兩地實景拍摄；台灣團隊由身兼總導演、總監製的[王小棣](../Page/王小棣.md "wikilink")帶領、新加坡團隊由監製[梁來玲帶領](https://zh.wikipedia.org/wiki/梁來玲 "wikilink")，並且由[藍正龍](../Page/藍正龍.md "wikilink")、[藍心湄](../Page/藍心湄.md "wikilink")、[曾之喬](../Page/曾之喬.md "wikilink")、[曾沛慈](../Page/曾沛慈.md "wikilink")、[劉冠廷](../Page/劉冠廷.md "wikilink")、[吳岳擎](../Page/吳岳擎.md "wikilink")、[黄俊雄](https://zh.wikipedia.org/wiki/黄俊雄 "wikilink")、[陳泂江](../Page/陳泂江.md "wikilink")、[陳羅密歐](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")、[方偉杰](https://zh.wikipedia.org/wiki/方偉杰 "wikilink")、[沈琳宸](https://zh.wikipedia.org/wiki/沈琳宸 "wikilink")、[范文芳](../Page/范文芳.md "wikilink")領銜主演。\[1\]\[2\]本劇於2019年1月16日開拍，5月30日殺青。
+《**你那邊怎樣·我這邊OK**》（）是一部台灣和新加坡合拍的電視劇，由[臺灣电视公司](https://zh.wikipedia.org/wiki/臺灣电视公司 "wikilink")、[拙八郎创意执行有限公司和](https://zh.wikipedia.org/wiki/拙八郎创意执行有限公司 "wikilink")[新加坡新传媒私人有限公司首次聯合製作](../Page/新传媒私人有限公司.md "wikilink")、合作拍攝，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")跨境合作，兩地實景拍摄；台灣團隊由身兼總導演、總監製的[王小棣](../Page/王小棣.md "wikilink")帶領、新加坡團隊由監製[梁來玲帶領](https://zh.wikipedia.org/wiki/梁來玲 "wikilink")，並且由[藍正龍](../Page/藍正龍.md "wikilink")、[藍心湄](../Page/藍心湄.md "wikilink")、[曾之喬](../Page/曾之喬.md "wikilink")、[曾沛慈](../Page/曾沛慈.md "wikilink")、[劉冠廷](../Page/劉冠廷.md "wikilink")、[吳岳擎](../Page/吳岳擎.md "wikilink")、[黄俊雄(艺人)](https://zh.wikipedia.org/wiki/黄俊雄 "wikilink")、[陳泂江](../Page/陳泂江.md "wikilink")、[陳羅密歐](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")、[方偉杰](https://zh.wikipedia.org/wiki/方偉杰 "wikilink")、[沈琳宸](https://zh.wikipedia.org/wiki/沈琳宸 "wikilink")、[范文芳](../Page/范文芳.md "wikilink")領銜主演。\[1\]\[2\]本劇於2019年1月16日開拍，5月30日殺青。
 
 本劇以2016年轟動台灣的[自動提款機吐鈔盜領案件為背景](https://zh.wikipedia.org/wiki/第一商業銀行#事件 "wikilink")，劇情將雙線開展，一條故事線在新加坡，另一條故事線則在台北；本劇同时也獲得中華民國文化部107年度電視節目製作補助案連續劇類補助3800萬元。\[3\] \[4\]
 本劇於8月26日開始在新加坡播出；新加坡故事線在每逢星期一到五晚間9点在[新传媒8频道播出](https://zh.wikipedia.org/wiki/新传媒8频道 "wikilink")，台灣故事線则在同一晚10点在[新传媒U频道播出](https://zh.wikipedia.org/wiki/新传媒U频道 "wikilink")。[台視主頻於](../Page/臺灣電視台.md "wikilink")8月30日起每週五晚間10點播出。（08/30-09/20，單週播出台灣故事線，雙週播出新加坡故事線，09/27起，每週五播出台灣故事線和新加坡故事線各一集）\[5\]
@@ -11,7 +11,7 @@
 
 郭豪森為台灣騰昇銀行總裁郭嵩時之子，對酒和陶藝頗有鑽研，平時也會親自授教陶藝課，因哥哥郭耀森意外身亡、爸爸中風倒下，他緊急被董事會召進騰昇銀行接班，首要任務即是擔任騰昇銀行新加坡分行的總經理。騰昇銀行副總裁郭延豐為豪森的叔叔，擁有集團多年來的權力及人脈，與龍航集團、史耐達集團多有合作來往。小白兔闖入大森林，豪森發現了暗藏在各種事件背後的陰謀，為了生存他必須想辦法對抗……
 
-騰昇銀行的長期合作夥伴龍航集團，產業跨足娛樂、鋼鐵、造船、貨運等事業，副總吳品叡與騰昇銀行副總裁郭延豐往來慎密，也與史耐達集團接班人李昊長期互看不順眼，為權力為地位驅使下，在一次談判中，發生了一樁殺人命案。而龍航集團旗下原計畫由台灣出發，預計抵達新加坡的貨船孝親號，莫名失聯，船上所有人、及藏身船上的台灣臥底警察下落不明，種種不尋常的事件引發新加坡警方及台灣刑事警察局關注，並派遣在新加坡放假旅遊的警察羅廷軒，留在當地進行追查……
+騰昇銀行的長期合作夥伴龍航集團，產業跨足娛樂、鋼鐵、造船、貨運等事業，副總吳品叡與騰昇銀行副總裁郭延豐往來甚密，也與史耐達集團接班人李昊長期互看不順眼，為權力為地位驅使下，在一次談判中，發生了一樁殺人命案。而龍航集團旗下原計畫由台灣出發，預計抵達新加坡的貨船孝親號，莫名失聯，船上所有人、及藏身船上的台灣臥底警察下落不明，種種不尋常的事件引發新加坡警方及台灣刑事警察局關注，並派遣在新加坡放假旅遊的警察羅廷軒，留在當地進行追查……
 
 擁有駭客專長的騰昇銀行新加坡員工Eric，因假冒學歷，被騰昇銀行特助Linda藉以此由威脅簽訂許多違法文件，為了報復Linda，Eric在駭客社團中認識的Justin遊說下，設計了自動吐鈔的駭客程式並賣給黑市。在客戶要求驗收下，Eric到了台灣執行測試任務，卻讓他成為八千萬ATM盜領案的嫌疑犯，連帶新加坡來台學廚藝的好友葉棟煌也被捲入涉案疑雲，虛擬世界的駭客陰謀、真實世界的通緝追捕，兩人在人地不熟的台灣展開未知的逃亡旅程……
 
@@ -914,7 +914,7 @@ Linda的老公，溫文儒雅，帶有書卷氣息。安靜、內斂，對一般
 <td><p>芝玲的兒子。街頭巷尾出了名的搗蛋鬼，活潑聰明，心思細膩敏感，平常最愛黏著媽媽芝玲。當芝玲出門時，會託Eric阿嬤或是來到新加坡的筱艾，幫忙照顧。雖然小吉百般不情願仍舊盡量配合在大人的面前當個乖孩子。生日這天，媽媽答應她，工作完後要一起過生日，卻一直等不到消息…</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/劉子銓" title="wikilink">劉子銓</a></p></td>
+<td><p><a href="../Page/劉子銓.md" title="wikilink">劉子銓</a></p></td>
 <td><p>王庭鈺</p></td>
 <td></td>
 </tr>

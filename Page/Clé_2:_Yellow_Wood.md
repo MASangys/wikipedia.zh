@@ -1,8 +1,8 @@
-《**Clé 2 : Yellow Wood**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids的首張韓語改版特別專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為[Dreamus](https://zh.wikipedia.org/wiki/iRiver "wikilink")，於2019年6月19日發行。主打歌為〈부작용〉，由成員方燦、彰彬、HAN參與詞曲創作。
+《**Clé 2 : Yellow Wood**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids的首張韓語改版特別專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為[Dreamus](https://zh.wikipedia.org/wiki/iRiver "wikilink")，於2019年6月19日發行。主打歌為〈부작용〉，由成員方燦、彰彬、HAN參與詞曲創作。主打歌〈부작용〉更被美國Dazed雜誌評選為「2019年度20大最佳K-Pop歌曲」的第一名\[1\]。
 
 ## 背景
 
-2019年6月4日[Stray Kids在官方社群平台上釋出回歸預告](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，宣布將於19日攜特別專輯回歸\[1\]，隨後釋出限量版專輯預覽圖並開放預購。
+2019年6月4日[Stray Kids在官方社群平台上釋出回歸預告](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，宣布將於19日攜特別專輯回歸\[2\]，隨後釋出限量版專輯預覽圖並開放預購。
 
 6月6日釋出曲目清單。
 
@@ -34,7 +34,7 @@
 
 此張專輯《Clé 2 : Yellow Wood》以特別專輯形式推出，曲目除了收錄先前專輯中的4首CD Only歌曲，還加入了3首新歌。
 延續著第四張迷你專輯《[Clé 1 : MIROH](../Page/Clé_1:_Miroh.md "wikilink")》，本專輯《Clé 2 : Yellow Wood》是《Clé》系列專輯作品中的第二把鑰匙。專輯名稱中的「Yellow Wood」概念出自於美國詩人[羅伯特·佛洛斯特](../Page/羅伯特·佛洛斯特.md "wikilink")的著作《未行之路》（），也是連接著上張專輯「MIROH(迷宮)」的另一個新空間。
-人生就是不斷的選擇，而選擇所帶來的苦惱和茫然每個人都會經歷。以第一個Clé迎接成人世界的Stray Kids以自信感在新的世界團結一致，在MIROH(迷宮)中的十字路口按照自己的方式前進，懷著絕不停止的抱負。比起平穩而順利的路，選擇了需要自己開闢的「從未被踩過的路」，充滿霸氣的進入了迷宮中的一個空間「Yellow Wood」。無論「Yellow Wood」多麼粗糙、多麼艱難，他們都相信自己、無所畏懼。雖然Stray Kids為了走自己的路而竭盡全力，但不久後仍需面對不可避免的苦惱和混亂\[2\]。
+人生就是不斷的選擇，而選擇所帶來的苦惱和茫然每個人都會經歷。以第一個Clé迎接成人世界的Stray Kids以自信感在新的世界團結一致，在MIROH(迷宮)中的十字路口按照自己的方式前進，懷著絕不停止的抱負。比起平穩而順利的路，選擇了需要自己開闢的「從未被踩過的路」，充滿霸氣的進入了迷宮中的一個空間「Yellow Wood」。無論「Yellow Wood」多麼粗糙、多麼艱難，他們都相信自己、無所畏懼。雖然Stray Kids為了走自己的路而竭盡全力，但不久後仍需面對不可避免的苦惱和混亂\[3\]。
 主打歌〈副作用〉講述了對挑戰性的選擇而產生出無數的苦惱和擔心，將混亂感以「頭很痛(머리 아프다)」作爲具有代表性的歌詞。特別是透過能夠感受到強烈[Drop](../Page/Drop.md "wikilink")的[迷幻出神 trance）音樂類型](../Page/迷幻出神.md "wikilink")（Psychedelic，Stray Kids用全身散發出強烈的節奏和爆發性的活力。
 
 ### 發行版本
@@ -86,27 +86,27 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p>6月20日[3]、6月27日[4]、7月4日[5]、9月12日[6]、10月17日[7]</p></td>
+<td><p>6月20日[4]、6月27日[5]、7月4日[6]、9月12日[7]、10月17日[8]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
-<td><p>6月21日[8]、6月28日[9]、7月5日[10]</p></td>
+<td><p>6月21日[9]、6月28日[10]、7月5日[11]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
-<td><p>6月22日[11]、6月29日[12]、7月6日[13]、7月27日[14]</p></td>
+<td><p>6月22日[12]、6月29日[13]、7月6日[14]、7月27日[15]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a></p></td>
-<td><p>6月23日[15]、7月7日[16]</p></td>
+<td><p>6月23日[16]、7月7日[17]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
 <td></td>
-<td><p>6月26日[17]、7月3日[18]</p></td>
+<td><p>6月26日[18]、7月3日[19]</p></td>
 </tr>
 </tbody>
 </table>
@@ -132,7 +132,7 @@
 <td><p>專輯週榜</p></td>
 <td><p>2019年6月16日－22日</p></td>
 <td><p>#2</p></td>
-<td><p>147,862+[19]</p></td>
+<td><p>152,492+</p></td>
 <td><p>[20]</p></td>
 </tr>
 <tr class="even">
@@ -156,7 +156,8 @@
 <tr class="even">
 <td><p>專輯月榜</p></td>
 <td><p>2019年6月</p></td>
-<td><p>#4</p></td>
+<td><p>#4<br />
+（123,903張）</p></td>
 <td><p>[23]</p></td>
 <td></td>
 <td></td>
@@ -165,7 +166,8 @@
 <tr class="odd">
 <td><p>專輯上半年榜</p></td>
 <td><p>2019年1月－6月</p></td>
-<td><p>#21</p></td>
+<td><p>#21<br />
+（123,903張）</p></td>
 <td><p>[24]</p></td>
 <td></td>
 <td></td>
@@ -277,12 +279,12 @@
 
 1.
 2.
-3.   M COUNTDOWN 190613 EP.624|date=2019-06-20|url=<https://www.youtube.com/watch?v=rVHVuQYFWfc>}}
-4.   M COUNTDOWN 190627 EP.625|date=2019-06-27|url=<https://www.youtube.com/watch?v=tacD6zupDvo>}}
-5.   M COUNTDOWN 190704 EP.626|date=2019-07-04|url=<https://www.youtube.com/watch?v=g9oLjHz41co>}}
-6.   KCON 2019 LA × M COUNTDOWN|date=2019-09-12|url=<https://www.youtube.com/watch?v=5rRv2EOi-6E>}}
-7.   KCON 2019 THAILAND × M COUNTDOWN|date=2019-10-17|url=<https://www.youtube.com/watch?v=7IBJbay3j3s>}}
-8.
+3.
+4.   M COUNTDOWN 190613 EP.624|date=2019-06-20|url=<https://www.youtube.com/watch?v=rVHVuQYFWfc>}}
+5.   M COUNTDOWN 190627 EP.625|date=2019-06-27|url=<https://www.youtube.com/watch?v=tacD6zupDvo>}}
+6.   M COUNTDOWN 190704 EP.626|date=2019-07-04|url=<https://www.youtube.com/watch?v=g9oLjHz41co>}}
+7.   KCON 2019 LA × M COUNTDOWN|date=2019-09-12|url=<https://www.youtube.com/watch?v=5rRv2EOi-6E>}}
+8.   KCON 2019 THAILAND × M COUNTDOWN|date=2019-10-17|url=<https://www.youtube.com/watch?v=7IBJbay3j3s>}}
 9.
 10.
 11.

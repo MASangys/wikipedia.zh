@@ -350,7 +350,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2020年1月8日</p></td>
+<td><p>2020年1月18日</p></td>
 <td><p>新潟</p></td>
 <td><p><a href="../Page/朱鷺展覽館.md" title="wikilink">朱鷺展覽館</a></p></td>
 <td></td>

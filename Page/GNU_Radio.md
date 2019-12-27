@@ -56,9 +56,9 @@ GNU Radio提供了许多常见的绘图和数据可视化数据接收器，包�
 
 [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink") [Category:软件复刻](https://zh.wikipedia.org/wiki/Category:软件复刻 "wikilink") [Category:自由通訊軟體](https://zh.wikipedia.org/wiki/Category:自由通訊軟體 "wikilink") [Category:GNU计划软件](https://zh.wikipedia.org/wiki/Category:GNU计划软件 "wikilink") [Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink") [Category:软件无线电](https://zh.wikipedia.org/wiki/Category:软件无线电 "wikilink")
 
-1.  ["How is GNU Radio licensed?"](http://gnuradio.org/redmine/projects/gnuradio/wiki/WhatIsGR#How-is-GNU-Radio-licensed)
+1.
 2.  [Mail on GNU Radio mailinglist where Eric Blossom introduces Tom Rondeau as the new project manager](http://www.mail-archive.com/discuss-gnuradio@gnu.org/msg26468.html)
 3.  [Mail on GNU Radio mailinglist announcing leadership transition](https://www.mail-archive.com/discuss-gnuradio@gnu.org/msg58528.html)
 4.  [Mail on the GNU Radio mailing list discussing the maintainer transition](https://lists.gnu.org/archive/html/discuss-gnuradio/2018-02/msg00006.html)
-5.  ["GNU Radio Companion Wiki"](http://gnuradio.org/redmine/projects/gnuradio/wiki/GNURadioCompanion)
+5.
 6.

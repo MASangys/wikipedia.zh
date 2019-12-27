@@ -66,7 +66,7 @@
 <li>發行日期：2019年11月5日</li>
 <li>語言：韓語</li>
 <li>唱片類型：Dance Pop</li>
-<li>銷量：</li>
+<li>銷量：2,806[2]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -97,9 +97,9 @@
 
 | 年份    | 發布日期       | 收錄專輯/單曲                  | M/V                   | Dance Practice Video | Performance Video |
 | ----- | ---------- | ------------------------ | --------------------- | -------------------- | ----------------- |
-| 2019年 | 4月10日      | 《BVNDIT, BE AMBITIOUS\!》 | Hocus Pocus\[2\]\[3\] | Hocus Pocus\[4\]     |                   |
-| 5月15日 | 《Dramatic》 | \- |                     | Dramatic\[5\]         | Dramatic\[6\]\[7\]   |                   |
-| 11月5日 | 《BE\!》     | Dumb\[8\]                |                       |                      |                   |
+| 2019年 | 4月10日      | 《BVNDIT, BE AMBITIOUS\!》 | Hocus Pocus\[3\]\[4\] | Hocus Pocus\[5\]     |                   |
+| 5月15日 | 《Dramatic》 | \- |                     | Dramatic\[6\]         | Dramatic\[7\]\[8\]   |                   |
+| 11月5日 | 《BE\!》     | Dumb\[9\]                |                       |                      |                   |
 
 ### 音樂現場
 
@@ -219,10 +219,11 @@
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink") [Category:2019年韓國建立](https://zh.wikipedia.org/wiki/Category:2019年韓國建立 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.
-2.
+2.  [2019年11月GAON專輯榜70位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=11&hitYear=2019&termGbn=month)
 3.
 4.
 5.
 6.
 7.
 8.
+9.

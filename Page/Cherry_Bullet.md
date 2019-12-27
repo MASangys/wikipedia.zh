@@ -1,4 +1,4 @@
-**Cherry Bullet**（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂](../Page/FNC娛樂.md "wikilink")旗下的十人女子組合。成員從2018年11月21日依次公開 ：由六名韓國成員[海允](../Page/海允.md "wikilink")、[裕姝](../Page/裕姝.md "wikilink")、[未來](../Page/金京主.md "wikilink")、[紫蘿](../Page/紫蘿.md "wikilink")、[智媛](../Page/智媛.md "wikilink")、[彩麟](../Page/彩麟.md "wikilink")，三名日本成員[KOKORO](../Page/KOKORO.md "wikilink")、[莉美](../Page/Remi_\(Cherry_Bullet\).md "wikilink")、[MAY](../Page/MAY_\(Cherry_Bullet\).md "wikilink")，以及一名台灣成員[粼粼所組成](../Page/黃姿婷.md "wikilink")\[1\]\[2\]\[3\]。2019年1月21日以首張單曲專輯《[Let's Play Cherry Bullet](../Page/Let's_Play_Cherry_Bullet.md "wikilink")》正式出道\[4\]\[5\]。
+**Cherry Bullet**（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂](../Page/FNC娛樂.md "wikilink")旗下的女子組合。最初由10名成員組成，現任成員包括五名韓國成員[海允](../Page/海允.md "wikilink")、[裕姝](../Page/裕姝.md "wikilink")、[紫蘿](../Page/紫蘿.md "wikilink")、[智媛](../Page/智媛.md "wikilink")、[彩麟](../Page/彩麟.md "wikilink")，兩名日本成員[莉美](../Page/Remi_\(Cherry_Bullet\).md "wikilink")、[MAY](../Page/MAY_\(Cherry_Bullet\).md "wikilink")\[1\]\[2\]\[3\]。2019年1月21日以首張單曲專輯《[Let's Play Cherry Bullet](../Page/Let's_Play_Cherry_Bullet.md "wikilink")》正式出道\[4\]\[5\]。
 
 ## 團體資料
 
@@ -12,18 +12,72 @@
 | 漢字                                                 |
 | [海允](../Page/海允.md "wikilink")                     |
 | [裕姝](../Page/裕姝.md "wikilink")                     |
-| **[未來](../Page/金京主.md "wikilink")**                |
 | [紫蘿](../Page/紫蘿.md "wikilink")                     |
 | [智媛](../Page/智媛.md "wikilink")                     |
-| [KOKORO](../Page/KOKORO.md "wikilink")             |
 | [莉美](../Page/Remi_\(Cherry_Bullet\).md "wikilink") |
 | [彩麟](../Page/彩麟.md "wikilink")                     |
-| [粼粼](../Page/黃姿婷.md "wikilink")                    |
 | [MAY](../Page/MAY_\(Cherry_Bullet\).md "wikilink") |
+| **[未來](../Page/金京主.md "wikilink")**                |
+| [KOKORO](../Page/KOKORO.md "wikilink")             |
+| [粼粼](../Page/黃姿婷.md "wikilink")                    |
 
 ### 團名由來
 
 「Cherry Bullet」是將Cherry（櫻桃）和Bullet（子彈）形成鮮明對比的詞，以櫻桃般可愛而又富有個性的魅力，狙擊大眾心的女子組合。
+
+### 成員變遷表
+
+<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2019 till:2020 TimeAxis = orientation:horizontal format:mm/yyyy
+
+Colors =
+
+` id:Inactive value:rgb(0,0,0) legend:Inactive`
+` id:lightgrey value:gray(0.9)`
+` id:grey  value:gray(0.5)`
+` id:darkgrey  value:gray(0.1)`
+
+ScaleMajor = unit:year increment:1 start:2019 gridcolor:black
+
+BarData =
+
+` bar:HaeYoon text:海允`
+` bar:YuJu text:裕姝`
+` bar:MiRae text:未來`
+` bar:Bora text:紫蘿`
+` bar:JiWon text:智媛`
+` bar:Kokoro text:Kokoro`
+` bar:Remi text:莉美`
+` bar:ChaeRin text:彩麟`
+` bar:Linlin text:粼粼`
+` bar:MAY text:MAY`
+` `
+
+PlotData =
+
+` fontsize:S`
+` color:red width:10 textcolor:black align:left anchor:from`
+` bar:HaeYoon from:01/21/2019 till:end`
+` color:orange width:10 textcolor:black align:left anchor:from`
+` bar:YuJu from:01/21/2019 till:end`
+` color:yellow width:10 textcolor:black align:left anchor:from`
+` bar:Bora from:01/21/2019 till:end`
+` color:green width:10 textcolor:black align:left anchor:from`
+` bar:JiWon from:01/21/2019 till:end`
+` color:blue width:10 textcolor:black align:left anchor:from`
+` bar:Remi from:01/21/2019 till:end`
+` color:darkblue width:10 textcolor:black align:left anchor:from`
+` bar:ChaeRin from:01/21/2019 till:end`
+` color:purple width:10 textcolor:black align:left anchor:from`
+` bar:MAY from:01/21/2019 till:end`
+` color:pink width:10 textcolor:black align:left anchor:from`
+` bar:MiRae from:01/21/2019 till:12/13/2019`
+` color:pink width:10 textcolor:black align:left anchor:from`
+` bar:Kokoro from:01/21/2019 till:12/13/2019`
+` color:pink width:10 textcolor:black align:left anchor:from`
+` bar:Linlin from:01/21/2019 till:12/13/2019`
+` `
+
+</timeline>
 
 ## 發展歷程
 
@@ -33,7 +87,7 @@
   - 2018年6月15日－8月31日，成員海允出演[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[選秀](https://zh.wikipedia.org/wiki/選秀 "wikilink")[節目](https://zh.wikipedia.org/wiki/節目 "wikilink")《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》，進總決賽。最終以第19名落選。
   - 2018年11月20日，FNC官方twitter帳號上，公開了女子組合的組合名稱和Daum Cafe、官方SNS也正式開通。
 
-### 2019年：出道準備、正式出道、首次回歸
+### 2019年：出道準備、正式出道、首次回歸、成員變動
 
 **首張單曲專輯《Let's Play Cherry Bullet》**
 
@@ -46,6 +100,10 @@
   - 5月10日，官方宣佈於5月22日回歸，發行第二張單曲專輯《LOVE ADVENTURE》。
   - 5月13日至5月17日，依序公開成員MAY、智媛、KOKORO、裕姝、海允、莉美、紫蘿、未來、彩麟、粼粼概念照。
   - 5月22日，下午6點主打歌네가 참 좋아 (Really Really) MV和《LOVE ADVENTURE》全輯音源公開。
+
+**未來、KOKORO、粼粼退出**
+
+  - 12月13日，公司宣布與未來、KOKORO、粼粼三人經過討論後，決定終止活動，解除專屬合約並退出組合，往後組合將以7人組形式活動。
 
 ## 音樂作品
 

@@ -1,8 +1,8 @@
-《**Heaven is a Place on Earth**》是美國歌手 [Belinda Carlisle](https://zh.wikipedia.org/wiki/Belinda_Carlisle "wikilink") 在1987年錄製的一首[流行歌曲](https://zh.wikipedia.org/wiki/流行歌曲 "wikilink")，收錄於她的專輯《Heaven on Earth》中。1987年9月14日，本曲作為專輯的釋出，隨後於同年12月5日登上[告示牌百強單曲榜首位](../Page/告示牌百强单曲榜.md "wikilink")，是Belinda Carlisle的唯一一次。一個月後，本曲登上[英國單曲排行榜](../Page/英國單曲排行榜.md "wikilink")首位，並保持了兩週。
+《**Heaven is a Place on Earth**》是美國歌手 [Belinda Carlisle](../Page/Belinda_Carlisle.md "wikilink") 在1987年錄製的一首[流行歌曲](https://zh.wikipedia.org/wiki/流行歌曲 "wikilink")，收錄於她的專輯《Heaven on Earth》中。1987年9月14日，本曲作為專輯的釋出，隨後於同年12月5日登上[告示牌百強單曲榜首位](../Page/告示牌百强单曲榜.md "wikilink")，是Belinda Carlisle的唯一一次。一個月後，本曲登上[英國單曲排行榜](../Page/英國單曲排行榜.md "wikilink")首位，並保持了兩週。
 
 1988年，此歌曲獲提名競逐，但最終不敵[惠特妮·休斯頓的](../Page/惠特妮·休斯顿.md "wikilink")《[I Wanna Dance with Somebody (Who Loves Me)](../Page/I_Wanna_Dance_with_Somebody_\(Who_Loves_Me\).md "wikilink")》。2017年，音樂評論人Dave Fawbert在《ShortList》發表的文章中認為此歌曲的轉調是「音樂有史以來最佳的之一」。\[1\]
 
-2015年，Belinda Carlisle重新錄製了《Heaven is a Place on Earth》的原聲民謠版本，並收錄與其2017年專輯《》中。\[2\]
+2015年，Belinda Carlisle重新錄製了《Heaven is a Place on Earth》的原聲民謠版本，並收錄與其2017年專輯《[Wilder Shores](../Page/Wilder_Shores.md "wikilink")》中。\[2\]
 
 ## 曲調
 

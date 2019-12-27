@@ -38,7 +38,7 @@ fsck -t jfs /dev/md0
 
 ## 外部链接
 
-  - [man fsck](http://www.manpagez.com/man/8/fsck/)
+  - [man fsck](https://web.archive.org/web/20150529001726/http://www.manpagez.com/man/8/fsck/)
   - [Checking and Repairing File system with fsck](http://www.adminschoice.com/repairing-unix-file-system-fsck)
   - [The many faces of fsck](http://lwn.net/Articles/248180)
 

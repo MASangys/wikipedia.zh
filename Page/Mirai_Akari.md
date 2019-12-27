@@ -28,4 +28,4 @@
   -
   -
   -
-[Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:虛擬偶像](https://zh.wikipedia.org/wiki/Category:虛擬偶像 "wikilink") [Category:虛構藝人](https://zh.wikipedia.org/wiki/Category:虛構藝人 "wikilink") [Category:日本YouTuber](https://zh.wikipedia.org/wiki/Category:日本YouTuber "wikilink") [Category:虛擬YouTuber](https://zh.wikipedia.org/wiki/Category:虛擬YouTuber "wikilink")
+[Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:虛擬偶像](https://zh.wikipedia.org/wiki/Category:虛擬偶像 "wikilink") [Category:虛構藝人](https://zh.wikipedia.org/wiki/Category:虛構藝人 "wikilink") [Category:日本虛擬YouTuber](https://zh.wikipedia.org/wiki/Category:日本虛擬YouTuber "wikilink")

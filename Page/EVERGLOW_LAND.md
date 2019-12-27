@@ -46,7 +46,7 @@
 
 ## 外部链接
 
-  - [EVERGLOW LAND官网](http://www.mnet.com/tv/program/2166)
+  - [EVERGLOW LAND官网](https://web.archive.org/web/20190818085756/http://www.mnet.com/tv/program/2166)
   - [EVERGLOW LAND的NaverTV](https://tv.naver.com/cjenm.EVERGLOWLAND)
   - [EVERGLOW LAND的KakaoTV](https://search.daum.net/search?w=tv&q=%EC%97%90%EB%B2%84%EA%B8%80%EB%A1%9C%EC%9A%B0%20%EB%9E%9C%EB%93%9C&irk=86375&irt=tv-program&DA=TVP)
 

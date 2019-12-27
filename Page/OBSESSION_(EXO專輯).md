@@ -85,7 +85,7 @@
 <td><p>入榜歌曲</p></td>
 </tr>
 <tr class="even">
-<td><p>2018年</p></td>
+<td><p>2019年</p></td>
 </tr>
 <tr class="odd">
 <td><p>Obsession</p></td>
@@ -154,7 +154,7 @@
 
 ## 外部連結
 
-[Category:EXO音樂專輯](https://zh.wikipedia.org/wiki/Category:EXO音樂專輯 "wikilink") [Category:2019年音乐专辑](https://zh.wikipedia.org/wiki/Category:2019年音乐专辑 "wikilink")
+[Category:EXO音樂專輯](https://zh.wikipedia.org/wiki/Category:EXO音樂專輯 "wikilink") [Category:2019年音乐专辑](https://zh.wikipedia.org/wiki/Category:2019年音乐专辑 "wikilink") [Category:2019年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2019年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯週榜冠軍作品 "wikilink") [Category:2019年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯月榜冠軍作品 "wikilink")
 
 1.
 2.

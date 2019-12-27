@@ -21,10 +21,10 @@
 
 ### 月台配置
 
-| 月台  | 路線       | 方向                                                                                                              | 目的地                                                  |
-| --- | -------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| 1・2 | **** 奈良線 | 上行                                                                                                              | 往 [京都](https://zh.wikipedia.org/wiki/京都站 "wikilink") |
-| 3・4 | 下行       | 往 [木津](https://zh.wikipedia.org/wiki/木津站_\(京都府\) "wikilink")、[奈良](https://zh.wikipedia.org/wiki/奈良站 "wikilink") |                                                      |
+| 月台  | 路線       | 方向                                                                                                              | 目的地                               |
+| --- | -------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| 1・2 | **** 奈良線 | 上行                                                                                                              | 往 [京都](../Page/京都站.md "wikilink") |
+| 3・4 | 下行       | 往 [木津](https://zh.wikipedia.org/wiki/木津站_\(京都府\) "wikilink")、[奈良](https://zh.wikipedia.org/wiki/奈良站 "wikilink") |                                   |
 
 1・3號線為待避線、2・4號線為本線。
 
@@ -145,7 +145,7 @@
 
 ## 相鄰車站
 
-往 [京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")  往 [奈良](https://zh.wikipedia.org/wiki/奈良站 "wikilink") |- 往 [京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")  往 [奈良](https://zh.wikipedia.org/wiki/奈良站 "wikilink") |- 往 [京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")  往 [奈良](https://zh.wikipedia.org/wiki/奈良站 "wikilink") |-
+往 [京都](../Page/京都站.md "wikilink")  往 [奈良](https://zh.wikipedia.org/wiki/奈良站 "wikilink") |- 往 [京都](../Page/京都站.md "wikilink")  往 [奈良](https://zh.wikipedia.org/wiki/奈良站 "wikilink") |- 往 [京都](../Page/京都站.md "wikilink")  往 [奈良](https://zh.wikipedia.org/wiki/奈良站 "wikilink") |-
 
 ## 參考資料
 

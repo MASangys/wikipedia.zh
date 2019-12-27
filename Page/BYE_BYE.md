@@ -2,11 +2,11 @@
 
 ## 简介
 
-2017年6月5日，SHISHAMO宣布了新单曲《BYE BYE》将要在8月2日发行，这是继2月发布专辑《[SHISHAMO 4](../Page/SHISHAMO_4.md "wikilink")》之后的第一张作品。SHISHAMO自2014年的《[你与夏季音乐节](https://zh.wikipedia.org/wiki/你与夏季音乐节 "wikilink")》以来，每年夏季都会发行一张单曲\[1\]。而今年的主题是“炫酷的SHISHAMO”\[2\]\[3\]。乐队在《BYE BYE》这首歌曲的编曲中加入了钢琴伴奏，配合低沉的贝司声线和快速的吉他切音，使乐曲带有渐进的[爵士放克特色](https://zh.wikipedia.org/wiki/放克爵士乐 "wikilink")\[4\]。
+2017年6月5日，SHISHAMO宣布了新单曲《BYE BYE》将要在8月2日发行，这是继2月发布专辑《[SHISHAMO 4](../Page/SHISHAMO_4.md "wikilink")》之后的第一张作品。SHISHAMO自2014年的《[你与夏季音乐节](../Page/你与夏季音乐节.md "wikilink")》以来，每年夏季都会发行一张单曲\[1\]。而今年的主题是“炫酷的SHISHAMO”\[2\]\[3\]。乐队在《BYE BYE》这首歌曲的编曲中加入了钢琴伴奏，配合低沉的贝司声线和快速的吉他切音，使乐曲带有渐进的[爵士放克特色](https://zh.wikipedia.org/wiki/放克爵士乐 "wikilink")\[4\]。
 
 本张单曲中，《BYE BYE》在6月3日SHISHAMO举办的2017春季巡回仙台站中首次演出\[5\]，之后确定成为Benesse中学补习讲座“难以打发的夏季”广告歌\[6\]，6月15日先行在的节目中公开\[7\]。而B面曲《笑容的魔法》则是为了[富士电视台](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")《[唤醒周六](../Page/週六鬧鐘新聞.md "wikilink")》节目而写的主题曲，在4月1日起开始在节目中使用\[8\]。CD唱片的封面依然由主唱宫崎绘画\[9\]。
 
-7月25日《BYE BYE》的MV公开，本作MV由曾执导《[夏季的恋人](https://zh.wikipedia.org/wiki/夏季的恋人 "wikilink")》MV的继续担任导演\[10\]。乐队在MV的拍摄现场全程实际演奏，也借此最大化展现“酷”这个主题\[11\]。
+7月25日《BYE BYE》的MV公开，本作MV由曾执导《[夏季的恋人](../Page/夏季的恋人.md "wikilink")》MV的继续担任导演\[10\]。乐队在MV的拍摄现场全程实际演奏，也借此最大化展现“酷”这个主题\[11\]。
 
 8月2日与本张单曲一同发售的还有SHISHAMO2017春季巡回[日本武道馆站的现场影像](../Page/日本武道館.md "wikilink")《[明天在地铁里擦肩而过的，是魔法般的恋爱](../Page/明天在地铁里擦肩而过的，是魔法般的恋爱.md "wikilink")》\[12\]。
 

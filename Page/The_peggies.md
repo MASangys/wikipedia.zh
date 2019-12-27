@@ -4,7 +4,7 @@
 
 2009年，當時還是國中二年生的[日本女子大學](https://zh.wikipedia.org/wiki/日本女子大學 "wikilink")[輕音部成員北澤](https://zh.wikipedia.org/wiki/輕音樂 "wikilink")、石渡和大貫組成了「the peggies」，其中兩人原本不是朋友，而是在偶然之下才答應擔任成員的\[2\]。剛剛結成時她們只是一隊，後來在2011年5月成為高中生後才開始正式活動，演唱原創的歌曲\[3\]。同年7月，北澤、石渡和大貫在[學藝大學站附近的](https://zh.wikipedia.org/wiki/學藝大學站 "wikilink")[展演空間](https://zh.wikipedia.org/wiki/展演空間 "wikilink")「MapleHouse」舉行出道以來的首場演唱會，之後亦多次在該處開演\[4\]。2012年2月，the peggies在[EMI音樂日本](../Page/EMI音樂日本.md "wikilink")主辦的「REVOLUTION ROCK」獲得成功，進而成功於其在[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")舉行的開場表演出場\[5\]\[6\]。然而日本女子大學附屬初高中循其校規禁止她們參與藝能活動，因此難以錄製自主盤，北澤對此表示：「我們又沒做什麼誇張的事情，所以我對學校的決定是感到挺疑惑的」\[7\]。
 
-2014年3月10日，三位成員從高中畢業，並隨即舉辦紀念演唱會「宣戰佈告～peggies畢業典禮編～」。同年11月19日，「the peggies」發行了由[淘兒唱片](../Page/淘兒唱片.md "wikilink")代理的首張全國流通版專輯《goodmorning in TOKYO》\[8\]。翌年，樂團發行首張完整專輯《NEW KINGDOM》，並在同年12月10日於舉行首場個人演唱會「宣戦佈告 vol.4」\[9\]。2016年，她們的第一張單曲《史潑尼克／LOVE TRIP》（）正式對外發行，同年年末則在和舉辦個人演唱會\[10\]。
+2014年3月10日，三位成員從高中畢業，並隨即舉辦紀念演唱會「宣戰佈告～peggies畢業典禮編～」。同年11月19日，「the peggies」發行了由[淘兒唱片](../Page/淘兒唱片.md "wikilink")代理的首張全國流通版專輯《goodmorning in TOKYO》\[8\]。翌年，樂團發行首張完整專輯《NEW KINGDOM》，並在同年12月10日於舉行首場個人演唱會「宣戦佈告 vol.4」\[9\]。2016年，她們的第一張單曲《史潑尼克／LOVE TRIP》（）正式對外發行，同年年末則在[澀谷CLUB QUATTRO和](../Page/CLUB_QUATTRO.md "wikilink")舉辦個人演唱會\[10\]。
 
 2017年5月10日，「the peggies」發行其正式出道的單曲《》，該曲被動畫《[BORUTO-火影新世代-NARUTO NEXT GENERATIONS-](https://zh.wikipedia.org/wiki/BORUTO-火影新世代-NARUTO_NEXT_GENERATIONS- "wikilink")》用作為第1至13話的片尾曲。四天後，她們在[大阪城公園](../Page/大阪城公園.md "wikilink")的舉行「幼獅祭'17」演唱會，並與高中的同級生同台進行\[11\]。同年6月，樂團開始在全國作名叫「the peggies 夢幻之旅〜野生的peggies出現了\!\!\!〜」的巡迴演出\[12\]\[13\]。2017年9月6日，第二張單曲《》正式發售\[14\]。同年11月22日，樂團在實業家的幫助下，以在全國文具店的試寫用紙上書寫的文字，組合成歌詞的首張配信單曲《》開始對外發行\[15\]。
 

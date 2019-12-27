@@ -8,7 +8,10 @@
   - 本作的播映長度為1小時40分鐘，比以往的聯動劇場版多出了十分鐘。
   - 正因为本作的宣传标语是「世代即将终结，新時代的開始」，所以本作可以说是让所有假面骑士粉丝回味过往点点滴滴的一部佳作，因此相信会让不少的粉丝都落下眼泪来。
   - 本作的票房成绩达到15亿4500万日圓，不仅成为众多假面骑士电影中的最高记录，还打破了七年来榜首的《[假面騎士×假面騎士 Fourze & OOO MOVIE大戰MEGA MAX](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Fourze_&_OOO_MOVIE大戰MEGA_MAX "wikilink")》15亿1000万的记录。\[4\]
-  - 本作與《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》本篇世界觀毫無關聯，即為獨立的世界觀。\[5\]
+
+### 各作品關聯性
+
+  - 白倉伸一郎在Twitter回應觀眾質疑劇場版劇情與《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》本篇劇情銜接問題時提到本作與《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》本篇世界觀毫無關聯，即為獨立的世界觀。\[5\]
 
 ## 故事概要
 
@@ -478,7 +481,7 @@
 2.  白倉伸一郎認為如果得到佐藤健的檔期應該給其更好的出場方式。
 3.  因[水嶋斐呂](../Page/水嶋斐呂.md "wikilink")在[研音](../Page/研音.md "wikilink")不知情的情況下，于2009年與同同屬事務所的[絢香](../Page/絢香.md "wikilink")閃婚，遭到研音的封殺，東映為避免得罪有合作關係的研音，因此才沒有邀請水嶋斐呂。
 4.
-5.  此設定由《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》製作人白倉伸一郎在Twitter回應觀眾質疑劇場版劇情與《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》本篇劇情銜接問題時提及。
+5.  [@cron204の2019年2月16日のツイート](https://twitter.com/cron204/status/1096789286249160704)
 6.
 7.  劇場版
 8.  本篇(劇場版外)

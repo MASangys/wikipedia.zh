@@ -10,13 +10,13 @@
 | Taejoo (태주)                             |
 | Kangmin (강민)                            |
 | Junhee (준희)                             |
-| Yiseul (이술)                             |
+| Yiseul (이슬)                             |
 | Yoonji (윤지)                             |
 | SeongJin (성진)                           |
 | Minji (민지)                              |
 | Hyunmin (현민)                            |
-| Gunwoo (건우)                             |
 | Youjin (유진)                             |
+| Gunwoo (건우)                             |
 
 ## 活動經歷
 

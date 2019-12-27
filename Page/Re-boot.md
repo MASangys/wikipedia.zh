@@ -47,6 +47,7 @@
 | ["WANNABE" 韓服舞蹈直拍版_東炫](https://www.youtube.com/watch?v=F9wd6K0SMG4)          |                                                                                                        |                                                                                       |
 | ["WANNABE" 韓服舞蹈直拍版_周燦](https://www.youtube.com/watch?v=2wqr0GiZWD0)          |                                                                                                        |                                                                                       |
 | ["WANNABE" 韓服舞蹈直拍版_普閔](https://www.youtube.com/watch?v=9qOkkNzc7as)          |                                                                                                        |                                                                                       |
+| 12月4日                                                                         | ["WANNABE" 舞蹈影片 (幽靈版)](https://www.youtube.com/watch?v=9ASmVRQGGsA)                                    |                                                                                       |
 
 ## 音樂節目
 
@@ -131,12 +132,119 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>12月1日</p></td>
+<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=o4uGtwM1Qxo">WANNABE</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12月3日</p></td>
+<td></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=EoHfuEALNoA">WANNABE</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月6日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Arirang_TV" title="wikilink">Arirang TV</a></p></td>
+<td><p>Simply K-Pop</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=hJEtC2RvZlE">WANNABE</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS_2TV" title="wikilink">KBS 2TV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=lxbq87lOFpI">WANNABE</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月7日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=IniefWeT5oI">WANNABE</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12月8日</p></td>
+<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=c37jG-n3iOg">WANNABE</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月11日</p></td>
+<td></td>
+<td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=LjaWaGk3b1A">나침반 (COMPASS)</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://www.youtube.com/watch?v=l1ADVCRACDE">WANNABE</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月13日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Arirang_TV" title="wikilink">Arirang TV</a></p></td>
+<td><p>Simply K-Pop</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=kQcGgzVEULM">Genie+WANNABE</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS_2TV" title="wikilink">KBS 2TV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=xsZ76B6hXpk">WANNABE</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月14日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=9esqEJX2oK8">WANNABE</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12月15日</p></td>
+<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=vwtlI-GcSDo">WANNABE</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月20日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS_2TV" title="wikilink">KBS 2TV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=gRKz4aidXFo">WANNABE+독 : Fear</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://www.youtube.com/watch?v=wqVkLLfvWFI">딱 좋아 (Just right)</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月21日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=y1x6NhfB-VU">WANNABE</a></p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
 
 
 ## 注释
+
+## 參考資料
 
 ## 參考資料
 

@@ -1,6 +1,6 @@
 是由[光榮特庫摩的ω](https://zh.wikipedia.org/wiki/光榮特庫摩 "wikilink")-force開發發行的[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，是[无双大蛇系列的第](../Page/無雙OROCHI系列.md "wikilink")5部作品。遊戲的[PlayStation 4及](../Page/PlayStation_4.md "wikilink")[Nintendo Switch版於](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink")2018年9月27日正式發行，而[Microsoft Windows及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Xbox One則於](../Page/Xbox_One.md "wikilink")2018年10月16日發行\[1\]\[2\]\[3\]。
 
-在2019年12月19日會發行大型DLC無雙蛇魔3 ultimate，首登陸在switch和ps4，pc版本發行再2020年2月14日。
+在2019年12月19日會發行加强版無雙OROCHI 蛇魔 3 ultimate，首登陸在switch和ps4，pc版本發行在2020年2月14日。
 
 ## 登场人物
 
@@ -19,7 +19,7 @@
 
 本作的主题曲是[三森铃子](../Page/三森铃子.md "wikilink")的《革命的化妆舞会 无双大蛇 ver.》，是她第四张专辑《tone.》中同名歌曲的[重混版](https://zh.wikipedia.org/wiki/重混 "wikilink")。同时她也为本作中雅典娜一角配音。\[9\]\[10\]这是三森首次参与无双系列的工作。
 
-在無双OROCHI３ Ultimate的主題曲是Statice，這首歌演唱是由配蓋亞的聲優[早見沙織](../Page/早見沙織.md "wikilink")。
+在無双OROCHI３ Ultimate的主題曲是《Statice》，由蓋亞的聲優[早見沙織](../Page/早見沙織.md "wikilink")演唱。
 
 ## 評價
 

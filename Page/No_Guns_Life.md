@@ -1,4 +1,4 @@
-《**非槍人生NO GUNS LIFE**》（）是由カラスマタスク（乌丸匡）执笔，在[集英社](../Page/集英社.md "wikilink")旗下月刊杂志《ULTRA JUMP》2013年八月号上刊载的短篇漫画 。漫画以科幻的架空世界观为中心，以[冷硬派](https://zh.wikipedia.org/wiki/冷硬派 "wikilink")（Hard-boiled）的风格，展开了一系列热血格斗故事。获得好评后，于2014年开始连载，到2019年为止，已发售单行本共八卷。于2019年3月15日确认动画化，由Mad House负责动画制作。\[1\]小岛秀夫称赞《NO GUNS LIFE》的主人公-{乾十三}-，是“最后的昭和式英雄”。
+《**非槍人生NO GUNS LIFE**》（）是由カラスマタスク（乌丸匡）执笔，在[集英社](../Page/集英社.md "wikilink")旗下月刊杂志《ULTRA JUMP》2013年八月号上刊载的短篇漫画 。漫画以科幻的架空世界观为中心，以[冷硬派](https://zh.wikipedia.org/wiki/冷硬派 "wikilink")（Hard-boiled）的风格，展开了一系列热血格斗故事。获得好评后，于2014年开始连载，到2019年为止，已发售单行本共九卷。于2019年3月15日确认动画化，由Mad House负责动画制作。\[1\]小岛秀夫称赞《NO GUNS LIFE》的主人公-{乾十三}-，是“最后的昭和式英雄”。
 
 ## 故事简介
 
@@ -240,19 +240,19 @@
 <td><p>第7話</p></td>
 <td></td>
 <td><p>過熱</p></td>
+<td><p>菅原雪繪</p></td>
 <td><p>伊藤尚往</p></td>
 <td><p>中西伸彰</p></td>
 <td><p>細山正樹、陈亮、藤田真弓<br />
 金璐浩、永田文宏</p></td>
-<td></td>
-<td></td>
+<td><p>筱雅律</p></td>
 </tr>
 <tr class="even">
 <td><p>第8話</p></td>
 <td></td>
 <td><p>遺志</p></td>
 <td><p>渕上真</p></td>
-<td><p>宮前真一、Woo Jin-woo &lt;!--</p></td>
+<td><p>宮前真一、Woo Jin-woo</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -260,10 +260,33 @@
 <tr class="odd">
 <td><p>第9話</p></td>
 <td></td>
+<td><p>殘響</p></td>
+<td><p>殿勝秀樹</p></td>
+<td><p>佃泰佑</p></td>
+<td><p>小畑賢、西出彩華、小林優子<br />
+橋本明日美、服部ますみ</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第10話</p></td>
+<td></td>
+<td><p>幻肢</p></td>
+<td><p>殿勝秀樹</p></td>
+<td><p>中村佑美子、今村大樹<br />
+hwang young-sik、ha hyeng-ook<br />
+gang chi-geoun &lt;!--&gt;|-</p></td>
+<td><p>第11話</p></td>
+<td></td>
+<td><p>所有者</p></td>
+</tr>
+<tr class="odd">
+<td><p>第12話</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>--&gt;</p></td>
+<td></td>
+<td><p>&lt;--&gt;</p></td>
 <td></td>
 <td></td>
 </tr>

@@ -32,7 +32,7 @@ PewDiePie本人亦對此作出評論道：「我很慶幸沒有參與在其中�
 
   - [YouTube Rewind 2018: Everyone Controls Rewind](https://www.youtube.com/watch?v=YbJOTdZBX1g)
 
-[Category:2018年爭議](https://zh.wikipedia.org/wiki/Category:2018年爭議 "wikilink") [Category:网络文化](https://zh.wikipedia.org/wiki/Category:网络文化 "wikilink") [Category:網絡爆紅短片](https://zh.wikipedia.org/wiki/Category:網絡爆紅短片 "wikilink") [Category:YouTube網路劇](https://zh.wikipedia.org/wiki/Category:YouTube網路劇 "wikilink") [Category:YouTube視訊](https://zh.wikipedia.org/wiki/Category:YouTube視訊 "wikilink")
+[Category:2018年爭議](https://zh.wikipedia.org/wiki/Category:2018年爭議 "wikilink") [Category:2018年网络节目](https://zh.wikipedia.org/wiki/Category:2018年网络节目 "wikilink") [Category:網絡爆紅短片](https://zh.wikipedia.org/wiki/Category:網絡爆紅短片 "wikilink") [Category:YouTube網路劇](https://zh.wikipedia.org/wiki/Category:YouTube網路劇 "wikilink") [Category:YouTube視訊](https://zh.wikipedia.org/wiki/Category:YouTube視訊 "wikilink")
 
 1.
 2.

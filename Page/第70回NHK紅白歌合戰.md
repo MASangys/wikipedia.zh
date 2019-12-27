@@ -8,7 +8,8 @@
   - 10月18日，主持人名单确定并公布。[內村光良](../Page/內村光良.md "wikilink")连续第三年担任综合主持人。[绫濑遥继](https://zh.wikipedia.org/wiki/绫濑遥 "wikilink")2013和2015年之后再度担任红组主持人。[櫻井翔](../Page/櫻井翔.md "wikilink")连续第二年担任白组主持人。\[2\]
   - 10月28日，於[NHK放送中心](../Page/NHK放送中心.md "wikilink")舉辦主持人人選記者會，公布NHK播報員將與內村光良共同擔任綜合主持人\[3\]。
   - 11月14日，於NHK放送中心舉辦記者會公布出場歌手名單，該名單同時在NHK網站上發布。本屆共有8組歌手首次出場，其中出席記者會的有紅組的[日向坂46](../Page/日向坂46.md "wikilink")、[Foorin](https://zh.wikipedia.org/wiki/Foorin "wikilink")、[LiSA](../Page/LiSA.md "wikilink")，以及白組的、[Kis-My-Ft2](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")、[King Gnu](../Page/King_Gnu.md "wikilink")、[GENERATIONS](../Page/放浪新世代_from_放浪一族.md "wikilink")；無法親自出席記者會的[菅田將暉](../Page/菅田將暉.md "wikilink")則以預錄影像登場\[4\]\[5\]\[6\]\[7\]。
-  - \*11月22日，竹內瑪麗亞確定以特別企劃方式出場。
+  - 11月22日，竹內瑪麗亞確定以特別企劃方式出場。
+  - 12月18日，嘉賓審查員名單公布\[8\]。同時本次紅白的審查方法延續去年，為電視觀眾、現場觀眾、現場審查員三方各自計票，對決全部結束後，每一方的勝出者獲得1分（共3分），總分獲得2分即贏得本次紅白歌合戰的勝利。
 
 ## 主持人
 
@@ -33,7 +34,8 @@
 <!-- end list -->
 
   - [内村光良](https://zh.wikipedia.org/wiki/内村光良 "wikilink")（搞笑二人組「[小內小南](../Page/小內小南.md "wikilink")」成員，2019上半年NHK[晨間劇](../Page/連續電視小說.md "wikilink")《[夏空](../Page/夏空.md "wikilink")》旁白；[NHK綜合台綜藝節目](../Page/NHK綜合頻道.md "wikilink")主持人）
-  - [和久田麻由子](https://zh.wikipedia.org/wiki/和久田麻由子 "wikilink")（NHK主播，《NHK新聞「早安日本」》主持人）
+
+  - （NHK主播，《NHK新聞「早安日本」》主持人）
 
 ## 出場歌手
 
@@ -69,6 +71,37 @@
 | [竹内玛莉亚](https://zh.wikipedia.org/wiki/竹内玛莉亚 "wikilink")          | 初    |
 |                                                                  |      |
 
+## 其他出演者
+
+  -
+    此處列出節目中主持人、出場歌手以外的演出人員。
+
+### 審查員
+
+共11人（[五十音順](../Page/五十音順.md "wikilink")）：
+
+  - [井上尚彌](../Page/井上尚彌.md "wikilink")：職業拳擊手。
+
+  - ：知名主持人，曾擔任過2屆紅白的紅組主持。
+
+  - [三明治人](../Page/三明治人.md "wikilink")：[搞笑藝人二人組](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")，[2020年東京奧運聖火傳遞的官方大使](../Page/2020年夏季奥林匹克运动会.md "wikilink")。
+
+  - ：職業高爾夫球手。
+
+  - [瀨戶大也](https://zh.wikipedia.org/wiki/瀨戶大也 "wikilink")：游泳選手，2020年東京奧運日本國手。
+
+  - [田中圭](../Page/田中圭.md "wikilink")：[演員](../Page/演員.md "wikilink")，本年主演大受歡迎的民放連續劇。
+
+  - [戶田惠梨香](https://zh.wikipedia.org/wiki/戶田惠梨香 "wikilink")：演員，本年秋季NHK晨間劇《[緋紅](../Page/緋紅_\(電視劇\).md "wikilink")》飾演主角・喜美子。
+
+  - ：田徑選手，[2020年東京帕運日本國手](../Page/2020年夏季帕拉林匹克運動會.md "wikilink")。
+
+  - [長谷川博己](../Page/長谷川博己.md "wikilink")：演員，2020年NHK大河劇《[麒麟來了](../Page/麒麟來了.md "wikilink")》飾演主角・[明智光秀](../Page/明智光秀.md "wikilink")。
+
+  - [廣瀨鈴](../Page/廣瀨鈴.md "wikilink")：演員，本年春季NHK晨間劇《[夏空](../Page/夏空.md "wikilink")》飾演主角・夏。
+
+  - [吉野彰](../Page/吉野彰.md "wikilink")：化學家，2019年[諾貝爾化學獎得主](https://zh.wikipedia.org/wiki/諾貝爾化學獎 "wikilink")。
+
 ## 備註
 
 ## 外部連結
@@ -84,3 +117,4 @@
 5.
 6.
 7.
+8.

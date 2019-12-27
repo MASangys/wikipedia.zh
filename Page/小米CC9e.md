@@ -10,7 +10,7 @@
 
 ## 争议
 
-小米CC9e因使用HD+屏幕（分辨率为1560X720)引起消费者不满，在微博引起热议。\[3\]第一时间[小米科技王腾在微博回应网友](https://zh.wikipedia.org/wiki/小米科技 "wikilink")，线下1500元主力机型大部分都是HD+的，小米CC9e不仅首发搭载了[高通骁龙](https://zh.wikipedia.org/wiki/高通骁龙 "wikilink")665处理器，照相规格与小米CC9完全相同，还有强大的AI美颜算法加持。\[4\]
+小米CC9e因使用HD+屏幕（分辨率为1560X720)引起消费者不满，在微博引起热议。\[3\]第一时间[小米科技王腾在微博回应网友](https://zh.wikipedia.org/wiki/小米科技 "wikilink")，线下1500元主力机型大部分都是HD+，小米CC9e不仅首发搭载了[高通骁龙](https://zh.wikipedia.org/wiki/高通骁龙 "wikilink")665处理器、照相规格与小米CC9完全相同，还有强大的AI美颜算法加持。\[4\]
 
 ## 參考資料
 

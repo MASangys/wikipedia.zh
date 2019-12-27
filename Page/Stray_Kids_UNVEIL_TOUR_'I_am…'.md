@@ -142,6 +142,14 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>colspan= 5"| 總計</p></td>
+<td><p>100,000[7]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -301,7 +309,7 @@
 
 <!-- end list -->
 
-  - [Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")（宇珍、方燦、Lee Know、彰彬、鉉辰、Han、Felix、昇玟、I.N）
+  - [Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")（宇珍、方燦、Lee Know、彰彬、鉉辰、HAN、Felix、昇玟、I.N）
 
 <!-- end list -->
 
@@ -356,3 +364,4 @@
 4.
 5.
 6.
+7.

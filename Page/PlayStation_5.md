@@ -1,4 +1,4 @@
-**PlayStation 5**（官方縮寫：**PS5**）是[索尼互动娱乐推出的](https://zh.wikipedia.org/wiki/索尼互动娱乐 "wikilink")[家用電子遊樂器](../Page/家用游戏机.md "wikilink")，截自2019年10月9日，索尼日本及美国官方博客均宣布预计于2020年冬季假日季开始发售\[1\]\[2\]。本機為[PlayStation 4](../Page/PlayStation_4.md "wikilink")（PS4）的後續機型，新的PlayStation在硬件上较前代机型有大量提升，使用了超高速定制[固態硬碟和](https://zh.wikipedia.org/wiki/固態硬碟 "wikilink")[AMD制造的定制处理器](https://zh.wikipedia.org/wiki/AMD "wikilink")。新的手柄控制器暂命名为[DualShock](../Page/DualShock.md "wikilink") 5\[3\]，使用自适应扳机，支持阻力感应。软件方面向前代PS4兼容，并支持[4K](https://zh.wikipedia.org/wiki/4K "wikilink") [蓝光播放功能](https://zh.wikipedia.org/wiki/蓝光 "wikilink")。新的安装方式允许用户仅安装游戏部分内容，如仅安装多人模式。不启动游戏也可以查看可加入的多人游戏服务器和可参与的活动。
+**PlayStation 5**（官方縮寫：**PS5**）是[索尼互动娱乐推出的](https://zh.wikipedia.org/wiki/索尼互动娱乐 "wikilink")[家用電子遊樂器](../Page/家用游戏机.md "wikilink")，索尼官方目前宣布產品预计于2020年底上市\[1\]\[2\]。本機為[PlayStation 4](../Page/PlayStation_4.md "wikilink")（PS4）的後續機型，新的PlayStation在硬件上较前代机型有大量提升，使用了超高速定制[固態硬碟和](https://zh.wikipedia.org/wiki/固態硬碟 "wikilink")[AMD制造的定制处理器](https://zh.wikipedia.org/wiki/AMD "wikilink")。新的手柄控制器暂命名为[DualShock](../Page/DualShock.md "wikilink") 5\[3\]，使用自适应扳机，支持阻力感应。软件方面向前代PS4兼容，并支持[4K](https://zh.wikipedia.org/wiki/4K "wikilink") [蓝光播放功能](https://zh.wikipedia.org/wiki/蓝光 "wikilink")。新的安装方式允许用户仅安装游戏部分内容，如仅安装多人模式。不启动游戏也可以查看可加入的多人游戏服务器和可参与的活动。
 
 ## 历史
 
@@ -20,7 +20,7 @@
 
 ## 参考资料
 
-[Category:PlayStation_5](https://zh.wikipedia.org/wiki/Category:PlayStation_5 "wikilink") [Category:索尼遊戲機](https://zh.wikipedia.org/wiki/Category:索尼遊戲機 "wikilink") [Category:家用游戏机](https://zh.wikipedia.org/wiki/Category:家用游戏机 "wikilink") [Category:2020年面世的產品](https://zh.wikipedia.org/wiki/Category:2020年面世的產品 "wikilink")
+[Category:PlayStation_5](https://zh.wikipedia.org/wiki/Category:PlayStation_5 "wikilink") [Category:索尼遊戲機](https://zh.wikipedia.org/wiki/Category:索尼遊戲機 "wikilink") [Category:家用游戏机](https://zh.wikipedia.org/wiki/Category:家用游戏机 "wikilink") [Category:第九世代遊戲機](https://zh.wikipedia.org/wiki/Category:第九世代遊戲機 "wikilink") [Category:2020年面世的產品](https://zh.wikipedia.org/wiki/Category:2020年面世的產品 "wikilink")
 
 1.
 2.

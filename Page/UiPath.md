@@ -1,4 +1,4 @@
-**UiPath**是一家开发（RPA或RPAAI）平台的全球软件公司，由[罗马尼亚企业家Daniel](https://zh.wikipedia.org/wiki/罗马尼亚 "wikilink") Dines和Marius Tirca于2005年创立\[1\]。
+**UiPath**是一家开发[机器人流程自动化](https://zh.wikipedia.org/wiki/机器人流程自动化 "wikilink")（RPA或RPAAI）平台的全球软件公司，由[罗马尼亚企业家Daniel](https://zh.wikipedia.org/wiki/罗马尼亚 "wikilink") Dines和Marius Tirca于2005年创立\[1\]。
 
 2018年，在公司评价网站Comparably对美国公司的评比中，UiPath在员工幸福程度项目获评第6位\[2\]，在公司文化项目获评第11位\[3\]。UiPath在2018年11月宣布进军中国市场。
 

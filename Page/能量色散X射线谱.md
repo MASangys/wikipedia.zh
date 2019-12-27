@@ -25,7 +25,8 @@
 
 ## 另见
 
-  -
+  - [电子微探针](https://zh.wikipedia.org/wiki/电子微探针 "wikilink")
+
   - [透射电子显微镜](../Page/透射电子显微镜.md "wikilink")
 
   -

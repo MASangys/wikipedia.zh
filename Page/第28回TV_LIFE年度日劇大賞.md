@@ -4,7 +4,7 @@
 
 本屆獲獎最多的劇集是[TBS電視台](../Page/TBS電視台.md "wikilink")的《[0.1無罪真相2](https://zh.wikipedia.org/wiki/0.1無罪真相 "wikilink")》\[1\]，共獲五獎。
 
-而本屆七個獎項全部由[TBS電視台](../Page/TBS電視台.md "wikilink")製作的劇集奪得，包括《[0.1無罪真相2](https://zh.wikipedia.org/wiki/0.1無罪真相 "wikilink")》、《[UNNATURAL](../Page/UNNATURAL.md "wikilink")》和《》。
+而本屆七個獎項全部由[TBS電視台](../Page/TBS電視台.md "wikilink")製作的劇集奪得，包括《[0.1無罪真相2](https://zh.wikipedia.org/wiki/0.1無罪真相 "wikilink")》、《[UNNATURAL](../Page/UNNATURAL.md "wikilink")》和《[中學聖日記](../Page/中學聖日記.md "wikilink")》。
 
 個人方面，[松本潤](../Page/松本潤.md "wikilink")首度奪得最佳男主角，為第四位獲獎的「[嵐](../Page/嵐.md "wikilink")」的成員；而[石原聰美](../Page/石原聰美.md "wikilink")、[香川照之](../Page/香川照之.md "wikilink")和[木村文乃](../Page/木村文乃.md "wikilink")，分別第二度獲頒最佳女主角、最佳男配角及最佳女配角。
 
@@ -30,7 +30,7 @@
 <td><p>　<a href="../Page/日本電視台.md" title="wikilink">日本電視台</a></p></td>
 </tr>
 <tr class="even">
-<td><p>　《》</p></td>
+<td><p>　《<a href="../Page/中學聖日記.md" title="wikilink">中學聖日記</a>》</p></td>
 <td><p>　<a href="../Page/TBS電視台.md" title="wikilink">TBS電視台</a></p></td>
 <td></td>
 </tr>
@@ -107,7 +107,7 @@
 <td><p><strong><a href="../Page/石原聰美.md" title="wikilink">石原聰美</a><br />
 《<a href="../Page/UNNATURAL.md" title="wikilink">UNNATURAL</a>》</strong></p></td>
 <td><p>　<a href="../Page/有村架純.md" title="wikilink">有村架純</a></p></td>
-<td><p>　《》</p></td>
+<td><p>　《<a href="../Page/中學聖日記.md" title="wikilink">中學聖日記</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p>　<a href="../Page/綾瀨遙.md" title="wikilink">綾瀨遙</a></p></td>
@@ -151,7 +151,7 @@
 </tr>
 <tr class="even">
 <td><p>　<a href="../Page/岡田健史.md" title="wikilink">岡田健史</a></p></td>
-<td><p>　《》</p></td>
+<td><p>　《<a href="../Page/中學聖日記.md" title="wikilink">中學聖日記</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -191,7 +191,7 @@
 </tr>
 <tr class="even">
 <td><p>　<a href="../Page/吉田羊.md" title="wikilink">吉田羊</a></p></td>
-<td><p>　《》</p></td>
+<td><p>　《<a href="../Page/中學聖日記.md" title="wikilink">中學聖日記</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -225,7 +225,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong><a href="../Page/岡田健史.md" title="wikilink">岡田健史</a><br />
-《》</strong></p></td>
+《<a href="../Page/中學聖日記.md" title="wikilink">中學聖日記</a>》</strong></p></td>
 <td><p>　<a href="../Page/清原果耶.md" title="wikilink">清原果耶</a></p></td>
 <td><p>　《<a href="../Page/透明的搖籃.md" title="wikilink">透明的搖籃</a>》</p></td>
 </tr>
@@ -283,7 +283,7 @@
 <tr class="even">
 <td><p>　<a href="../Page/Uru.md" title="wikilink">Uru</a></p></td>
 <td><p>　<a href="../Page/序幕.md" title="wikilink">序幕</a></p></td>
-<td><p>　《》</p></td>
+<td><p>　《<a href="../Page/中學聖日記.md" title="wikilink">中學聖日記</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><p>　<a href="../Page/無限開關.md" title="wikilink">無限開關</a></p></td>

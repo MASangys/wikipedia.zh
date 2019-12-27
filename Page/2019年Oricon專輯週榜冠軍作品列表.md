@@ -323,7 +323,7 @@
 </tr>
 <tr class="odd">
 <td><p>9月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Perfume_The_Best_“P_Cubed”" title="wikilink">Perfume The Best “P Cubed”</a></p></td>
+<td><p><a href="../Page/Perfume_The_Best_“P_Cubed”.md" title="wikilink">Perfume The Best “P Cubed”</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></p></td>
 <td><p>精選</p></td>
 <td><p>9.7</p></td>
@@ -339,7 +339,7 @@
 </tr>
 <tr class="odd">
 <td><p>10月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/An_Ode" title="wikilink">An Ode</a></p></td>
+<td><p><a href="../Page/An_Ode.md" title="wikilink">An Ode</a></p></td>
 <td><p>SEVENTEEN</p></td>
 <td><p>原創</p></td>
 <td><p>4.4</p></td>
@@ -399,6 +399,30 @@
 <td><p>TWICE</p></td>
 <td><p>原創</p></td>
 <td><p>12.4</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>12月9日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bad_Ass_Temple_Funky_Sounds" title="wikilink">Bad Ass Temple Funky Sounds</a></p></td>
+<td><p><a href="../Page/催眠麥克風.md" title="wikilink">Bad Ass Temple</a></p></td>
+<td><p>原創</p></td>
+<td><p>9.9</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>12月16日</p></td>
+<td></td>
+<td><p><a href="../Page/UVERworld.md" title="wikilink">UVERworld</a></p></td>
+<td><p>原創</p></td>
+<td><p>5.6</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>12月23日</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/錦戶亮" title="wikilink">錦戶亮</a></p></td>
+<td><p>原創</p></td>
+<td><p>7.6</p></td>
 <td><p>1</p></td>
 </tr>
 </tbody>

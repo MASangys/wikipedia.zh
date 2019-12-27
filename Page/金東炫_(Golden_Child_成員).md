@@ -13,7 +13,7 @@
 
   - 在團體裡的號碼為80，因為想長高到180公分。
   - 約國小畢業時透過試鏡進入[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")當練習生，試鏡時演唱歌曲為NAVI的〈길에서(On The Road)〉。
-  - 與[NCT](../Page/NCT.md "wikilink")成員Mark、[ONF前成員Laun](https://zh.wikipedia.org/wiki/ONF "wikilink")、[ROMEO成員江珉為高中同學](../Page/ROMEO_\(韓國組合\).md "wikilink")。
+  - 與[Oh My Girl成員](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")[Arin](../Page/Arin.md "wikilink")、[NCT](../Page/NCT.md "wikilink")成員[Mark](../Page/李敏亨.md "wikilink")、[gu9udan成員](https://zh.wikipedia.org/wiki/gu9udan "wikilink")[美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[ONF前成員Laun](https://zh.wikipedia.org/wiki/ONF "wikilink")、[ROMEO成員江珉為高中同班同學](../Page/ROMEO_\(韓國組合\).md "wikilink")。
 
 ## 作品
 
@@ -40,7 +40,7 @@
 <td><p>11月1日</p></td>
 <td></td>
 <td><p>NCT的NIGHT NIGHT!</p></td>
-<td></td>
+<td><p>與成員<a href="../Page/崔誠允.md" title="wikilink">Y</a>、<a href="../Page/奉宰鉉.md" title="wikilink">宰鉉</a>、<a href="../Page/金知範.md" title="wikilink">知範</a>、<a href="../Page/洪周燦.md" title="wikilink">周燦</a>、<a href="../Page/崔普閔.md" title="wikilink">普閔共同出演</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>

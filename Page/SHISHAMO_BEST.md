@@ -2,7 +2,7 @@
 
 ## 简介
 
-为了纪念SHISHAMO出道5周年，乐队决定发售首张精选专辑《SHISHAMO BEST》。收录自2014年第一张单曲《[你与夏季音乐节](https://zh.wikipedia.org/wiki/你与夏季音乐节 "wikilink")》开始至最新单曲《[OH\!](../Page/OH!.md "wikilink")》共9张单曲的主打曲以及热门歌曲《[明天也](../Page/SHISHAMO_4.md "wikilink")》等共13曲，首发限量盘中还首次把只在演唱会时演出的歌曲《》（围巾）音源化并作为额外歌曲收录\[1\]。
+为了纪念SHISHAMO出道5周年，乐队决定发售首张精选专辑《SHISHAMO BEST》。收录自2014年第一张单曲《[你与夏季音乐节](../Page/你与夏季音乐节.md "wikilink")》开始至最新单曲《[OH\!](../Page/OH!.md "wikilink")》共9张单曲的主打曲以及热门歌曲《[明天也](../Page/SHISHAMO_4.md "wikilink")》等共13曲，首发限量盘中还首次把只在演唱会时演出的歌曲《》（围巾）音源化并作为额外歌曲收录\[1\]。
 
 乐队希望这张凝聚了SHISHAMO出道5年来的音乐成果的专辑，能够成为更多的人认识、入门SHISHAMO音乐的最合适唱片\[2\]。
 

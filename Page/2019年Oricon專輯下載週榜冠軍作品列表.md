@@ -282,7 +282,7 @@
 </tr>
 <tr class="odd">
 <td><p>9月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Perfume_The_Best_“P_Cubed”" title="wikilink">Perfume The Best “P Cubed”</a></p></td>
+<td><p><a href="../Page/Perfume_The_Best_“P_Cubed”.md" title="wikilink">Perfume The Best “P Cubed”</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></p></td>
 <td><p>0.5</p></td>
 <td></td>
@@ -350,6 +350,27 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>12月9日</p></td>
+<td><p><a href="../Page/天气之子_(专辑).md" title="wikilink">天氣之子 complete version</a></p></td>
+<td><p>RADWIMPS</p></td>
+<td><p>1.4</p></td>
+<td><p>[37]</p></td>
+</tr>
+<tr class="even">
+<td><p>12月16日</p></td>
+<td></td>
+<td><p><a href="../Page/UVERworld.md" title="wikilink">UVERworld</a></p></td>
+<td><p>0.5</p></td>
+<td><p>[38]</p></td>
+</tr>
+<tr class="odd">
+<td><p>12月23日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/木梨Funk_The_Best" title="wikilink">木梨Funk The Best</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/木梨憲武" title="wikilink">木梨憲武</a></p></td>
+<td><p>0.2</p></td>
+<td><p><ref>[<a href="https://www.oricon.co.jp/news/2151324/full/">https://www.oricon.co.jp/news/2151324/full/</a> 木梨憲武1stソロALがデジタルアルバムで初登場1位 「57才の思い出</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -398,3 +419,5 @@
 34. [ジェジュン、初カバーで2作連続1位 CD&デジタル同時1位【オリコンランキング】](https://www.oricon.co.jp/news/2145532/full/)
 35. [Official髭男dism、CD&デジタルAL初の同時1位 ストリーミング21週連続1位で歴代1位【オリコンランキング】](https://www.oricon.co.jp/news/2146573/full/)
 36. [椎名林檎、CDアルバム10年5ヶ月ぶりの1位 「叱られて伸びるタイプで在り続ける」【オリコンランキング】](https://www.oricon.co.jp/news/2149002/full/)
+37. [RADWIMPS、『天気の子』で史上初の4作連続1位【オリコンランキング】](https://www.oricon.co.jp/news/2150097/)
+38. [UVERworld、初のCD&デジタルアルバム同時1位【オリコンランキング】](https://www.oricon.co.jp/news/2150603/full/)

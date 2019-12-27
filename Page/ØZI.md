@@ -105,7 +105,7 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <td><p>枷鎖</p></td>
 <td><p><a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a>｜<a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
 <td><p><a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a>｜<a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
-<td></td>
+<td><p><a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a></p></td>
 <td></td>
 <td><p><a href="../Page/翻牆的記憶.md" title="wikilink">翻牆的記憶</a> 插曲</p></td>
 </tr>
@@ -120,21 +120,21 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年7月</p></td>
-<td><p>House party 好事派對</p></td>
+<td><p>House Party</p></td>
 <td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
 <td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
-<td><p><a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a>｜<a href="../Page/米奇林.md" title="wikilink">米奇林</a></p></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/米奇林.md" title="wikilink">米奇林</a>｜<a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a></p></td>
+<td><p><a href="../Page/米奇林.md" title="wikilink">米奇林</a>｜<a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a></p></td>
+<td><p>收錄於 <a href="../Page/紀家盈.md" title="wikilink">家家</a> 的第四張個人專輯 <a href="../Page/我想要的.md" title="wikilink">我想要的</a> 之中</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年9月</p></td>
 <td><p>血脈</p></td>
-<td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
-<td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
+<td><p><a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a></p></td>
+<td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a>｜<a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a>｜Sunkis宋秉勤</p></td>
 <td></td>
 <td></td>
-<td><p>MMORPG手遊《龍族幻想》主題曲</p></td>
+<td><p>MMORPG手遊《龍族幻想》主題曲[11]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年11月</p></td>
@@ -150,9 +150,18 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <td><p>Love is Love</p></td>
 <td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
 <td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
+<td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a>｜海大富</p></td>
+<td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
+<td><p>收錄於 <a href="../Page/楊丞琳.md" title="wikilink">楊丞琳</a> 的第十一張個人專輯 <a href="../Page/刪·拾_以後.md" title="wikilink">刪·拾 以後</a> 之中</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年12月</p></td>
+<td><p>U sTuPiD[12]</p></td>
+<td><p><a href="../Page/Karencici.md" title="wikilink">Karencici</a>｜<a href="../Page/ØZI.md" title="wikilink">ØZI</a>｜kvn</p></td>
+<td><p><a href="../Page/Karencici.md" title="wikilink">Karencici</a>｜<a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
+<td><p>kvn</p></td>
+<td><p>kvn</p></td>
 <td></td>
-<td></td>
-<td><p>收錄於 <a href="../Page/楊丞琳.md" title="wikilink">楊丞琳</a> 的第十一張個人專輯 <a href="https://zh.wikipedia.org/wiki/刪·拾_以後" title="wikilink">刪·拾 以後</a> 之中</p></td>
 </tr>
 </tbody>
 </table>
@@ -209,7 +218,7 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <tr class="even">
 <td><p>2018</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a> | ØZI</p></td>
-<td><p>曖（Tensions）[11]</p></td>
+<td><p>曖（Tensions）[13]</p></td>
 <td><p>《<a href="../Page/希遊記.md" title="wikilink">希遊記</a>》</p></td>
 <td><p>該專輯第2主打歌</p></td>
 </tr>
@@ -228,6 +237,13 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2019</p></td>
+<td><p><a href="../Page/Karencici.md" title="wikilink">Karencici</a> | ØZI</p></td>
+<td><p>U sTuPiD</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -239,35 +255,36 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 
 ### MV
 
-| 首播日期        | 歌名                                                              | 歌手/備註                                                                                   |
-| ----------- | --------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| 2015年6月21日  | HARD TO GET (Explicit)                                          | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2016年2月15日  | NO MIND (Explicit)                                              | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2016年4月18日  | LOVE YOU RIGHT                                                  | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2017年1月16日  | LIQUID FLOWS 醉慾の流動 (ft. DEE)                                    | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2017年4月5日   | 頭銜                                                              | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2017年7月24日  | ME INSTEAD 奪愛 \[LYRICAL VISUAL\]                                | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2017年9月28日  | WINGS 翅膀 (ØZI at RedBull Studios Tokyo)                         | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2017年10月24日 | PARADISE ISLAND 天堂島                                             | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2017年11月14日 | 走到飛                                                             | [ØZI](../Page/ØZI.md "wikilink"). Trout Fresh. Julia Wu. Kumachan. B.C.W. Barry. Dwagie |
-| 2018年6月1日   | INTRO: OZYMANDIAS 奧西曼德斯 \[ØZI: The Album\]                      | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2018年6月11日  | DIAMOND 鑽石                                                      | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2018年7月5日   | B.O.feat. [9m88](https://zh.wikipedia.org/wiki/9m88 "wikilink") | ØZI feat. [9m88](https://zh.wikipedia.org/wiki/9m88 "wikilink")                         |
-| 2018年8月2日   | WE OUT HERE                                                     | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2018年10月19日 | W.I.L.D.                                                        | ØZI x The North Face: Urban Exploration                                                 |
-| 2018年12月29日 | PREY 掠食                                                         | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-|             |                                                                 |                                                                                         |
+| 首播日期        | 歌名                                           | 歌手/備註                                                                                   |
+| ----------- | -------------------------------------------- | --------------------------------------------------------------------------------------- |
+| 2015年6月21日  | HARD TO GET (Explicit)                       | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2016年2月15日  | NO MIND (Explicit)                           | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2016年4月18日  | LOVE YOU RIGHT                               | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2017年1月16日  | LIQUID FLOWS 醉慾の流動 (ft. DEE)                 | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2017年4月5日   | 頭銜                                           | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2017年7月24日  | ME INSTEAD 奪愛 \[LYRICAL VISUAL\]             | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2017年9月28日  | WINGS 翅膀 (ØZI at RedBull Studios Tokyo)      | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2017年10月24日 | PARADISE ISLAND 天堂島                          | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2017年11月14日 | 走到飛                                          | [ØZI](../Page/ØZI.md "wikilink"). Trout Fresh. Julia Wu. Kumachan. B.C.W. Barry. Dwagie |
+| 2018年6月1日   | INTRO: OZYMANDIAS 奧西曼德斯 \[ØZI: The Album\]   | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2018年6月11日  | DIAMOND 鑽石                                   | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2018年7月5日   | B.O.feat. [9m88](../Page/9m88.md "wikilink") | ØZI feat. [9m88](../Page/9m88.md "wikilink")                                            |
+| 2018年8月2日   | WE OUT HERE                                  | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2018年10月19日 | W.I.L.D.                                     | ØZI x The North Face: Urban Exploration                                                 |
+| 2018年12月29日 | PREY 掠食                                      | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+|             |                                              |                                                                                         |
 
 ### MV導演作品
 
-| 發表時間 | 發表人                            | 歌曲                  | 備註                  |
-| ---- | ------------------------------ | ------------------- | ------------------- |
-| 2017 | [安那](../Page/安那.md "wikilink") | 蛤 HUH? \[12\]       | 收錄《我叫安那》錄音專輯中       |
-| 2017 | ØZI                            | PARADISE ISLAND 天堂島 |                     |
-| 2017 | ØZI                            | WE OUT HERE         |                     |
-| 2018 | RayRay                         | O.O.T.D.            |                     |
-| 2019 | 孫盛希                            | 曖                   | 導演：一盞Ethanyijan、ØZI |
-|      |                                |                     |                     |
+| 發表時間 | 發表人                                                 | 歌曲                  | 備註                  |
+| ---- | --------------------------------------------------- | ------------------- | ------------------- |
+| 2017 | [安那](../Page/安那.md "wikilink")                      | 蛤 HUH? \[14\]       | 收錄《我叫安那》錄音專輯中       |
+| 2017 | ØZI                                                 | PARADISE ISLAND 天堂島 |                     |
+| 2017 | ØZI                                                 | WE OUT HERE         |                     |
+| 2018 | RayRay                                              | O.O.T.D.            |                     |
+| 2019 | [孫盛希](https://zh.wikipedia.org/wiki/孫盛希 "wikilink") | 曖                   | 導演：一盞Ethanyijan、ØZI |
+| 2019 | [楊丞琳](../Page/楊丞琳.md "wikilink")                    | Love is Love        |                     |
+|      |                                                     |                     |                     |
 
 ## 獎項
 
@@ -285,7 +302,7 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <tr class="odd">
 <td><p>2019</p></td>
 <td><p><a href="../Page/Hit_FM聯播網.md" title="wikilink">HitFm</a></p></td>
-<td><p>2018年度十大專輯[13]</p></td>
+<td><p>2018年度十大專輯[15]</p></td>
 <td><p><strong>《ØZI: The Album》</strong></p></td>
 <td></td>
 </tr>
@@ -312,7 +329,7 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第12屆 Freshmusic Awards</p></td>
-<td><p>最佳新人[14]</p></td>
+<td><p>最佳新人[16]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -332,7 +349,7 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/第30屆金曲獎" title="wikilink">第30屆金曲獎</a> [15]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第30屆金曲獎" title="wikilink">第30屆金曲獎</a> [17]</p></td>
 <td><p><a href="../Page/年度專輯獎_(金曲獎).md" title="wikilink">年度專輯獎</a></p></td>
 <td></td>
 <td></td>
@@ -401,7 +418,7 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 
 | 日期         | 名稱                                          | 地點                                                  |
 | :--------- | :------------------------------------------ | :-------------------------------------------------- |
-| 2019年1月23日 | 《LOST IN PARADISE 天堂中迷航》首場演唱會 \[16\] \[17\] | 華山Legacy                                            |
+| 2019年1月23日 | 《LOST IN PARADISE 天堂中迷航》首場演唱會 \[18\] \[19\] | 華山Legacy                                            |
 | 2019年5月19日 | 《LOST IN PARADISE 天堂中迷航》洛杉磯站                | [USA](https://zh.wikipedia.org/wiki/USA "wikilink") |
 
 ## 參考資料
@@ -424,10 +441,12 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 8.
 9.  [金曲獎第30屆完整入圍名單](https://www.cna.com.tw/news/firstnews/201905155002.aspx),中央社，2019年5月15日
 10. [ØZI獲金曲獎最佳新人 媽媽葉璦菱視訊分享喜悅](https://www.cna.com.tw/news/firstnews/201906295011.aspx),中央社，2019年6月29日
-11.
-12.
+11. [ØZI -【龍之血脈】《龍族幻想》專屬主題曲 完整版MV - YouTube](https://www.youtube.com/watch?v=1akHCmQ1X74)
+12. [《U sTuPiD》ISRC資料](http://isrc.ncl.edu.tw/isrc_view.aspx?item=281067)
 13.
 14.
 15.
 16.
 17.
+18.
+19.

@@ -1011,7 +1011,7 @@ VAP取名之由來，是用全名**V**ideo **A**udio **P**roject英文頭銜的�
   -
   -
   -
-  - [小小妖怪阿奇、柯奇、索奇](https://zh.wikipedia.org/wiki/小小妖怪阿奇、柯奇、索奇 "wikilink")
+  - [小小妖怪阿奇、柯奇、索奇](../Page/小小妖怪阿奇、柯奇、索奇.md "wikilink")
 
 <!-- end list -->
 

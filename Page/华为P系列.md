@@ -12,7 +12,7 @@
 
 华为P系列，与[Mate系列和](../Page/华为Mate系列.md "wikilink")[荣耀](../Page/荣耀.md "wikilink")旗舰系列共同作为华为的旗舰智能手机系列，发行时即搭载有较高端的配置，如最新的华为[海思麒麟系列SoC以及基于最新版本](../Page/海思半導體.md "wikilink")[Android](../Page/Android.md "wikilink")的华为[EMUI](../Page/EMUI.md "wikilink")用户界面，并配备有后置多摄像头、[近场支付](../Page/近場通訊.md "wikilink")、[人工智能](../Page/人工智能.md "wikilink")等功能，以直接对标[苹果](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")、[谷歌](https://zh.wikipedia.org/wiki/谷歌 "wikilink")、[三星](../Page/三星電子.md "wikilink")、[小米](../Page/小米集團.md "wikilink")、[欧珀等企业的旗舰级机型](https://zh.wikipedia.org/wiki/欧珀 "wikilink")。
 
-华为P系列搭载有最新的成像技术。[华为P9](../Page/华为P9.md "wikilink")是全球首款搭载有后置[徕卡双摄的智能手机](../Page/徕卡相机.md "wikilink")；华为P20 Pro则是全球首款后置三摄像头手机，同时也是2010年以来全球首款搭载有1/1.7英寸图像传感器的智能手机。
+华为P系列搭载有最新的成像技术。[华为P9](../Page/华为P9.md "wikilink")是全球首款搭载有后置[徕卡双摄的智能手机](../Page/徕卡相机.md "wikilink")；[华为P20](https://zh.wikipedia.org/wiki/华为P20 "wikilink") Pro则是全球首款后置三摄像头手机，同时也是2010年以来全球首款搭载有1/1.7英寸图像传感器的智能手机。
 
 华为P系列在设计上较Mate系列时尚，而较荣耀系列正式。
 

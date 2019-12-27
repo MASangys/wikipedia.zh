@@ -21,8 +21,8 @@
 <tr class="even">
 <td><p><a href="../Page/晉久.md" title="wikilink">晉久</a></p></td>
 <td><p>高泰林</p></td>
-<td><p>傲慢十足且無時無刻不在毒舌的勝率100%怪咖律師。在他看來，無論是刑事案還是民事案，沒有打贏的官司都毫無意義可言，只要失敗了一次別說是律師了，連人都不要做算了，雖然其要求的律師費驚人，但卻總是能夠以驚人的實力帶來官司的勝利。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蔡威賢" title="wikilink">蔡威賢</a></p></td>
+<td><p>傲慢十足且無時無刻不在毒舌的勝率100%怪咖律師。十分的害怕靈異事件。在他看來，無論是刑事案還是民事案，沒有打贏的官司都毫無意義可言，只要失敗了一次別說是律師了，連人都不要做算了，雖然其要求的律師費驚人，但卻總是能夠以驚人的實力帶來官司的勝利。</p></td>
+<td><p><a href="../Page/蔡威賢.md" title="wikilink">蔡威賢</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/徐恩秀.md" title="wikilink">徐恩秀</a><br />
@@ -261,9 +261,9 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/周錫泰.md" title="wikilink">周錫泰</a></p></td>
-<td><p>劉名碩</p></td>
+<td><p>劉名錫</p></td>
 <td><p>亮相電視節目的星級律師，徐在仁的老板，第一集被徐在仁暴打。</p></td>
-<td></td>
+<td><p><a href="../Page/郭俊廷.md" title="wikilink">郭俊廷</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/許泰熙.md" title="wikilink">許泰熙</a></p></td>
@@ -275,7 +275,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/姜斗" title="wikilink">姜斗</a></p></td>
 <td><p>安東尼奧</p></td>
 <td><p>版權訴訟原告。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/譚禹晉" title="wikilink">譚禹晉</a></p></td>
+<td><p><a href="../Page/郭俊廷.md" title="wikilink">郭俊廷</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/玄朱妮.md" title="wikilink">玄朱妮</a></p></td>
@@ -312,13 +312,13 @@
 <small>（少年：車成霽）</p></td>
 <td><p>金炳泰</p></td>
 <td><p>在仁的同學。被栽贓成殺人犯的工讀生。</p></td>
-<td></td>
+<td><p><a href="../Page/竺諺鴻.md" title="wikilink">竺諺鴻</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td><p>審問金炳泰的刑警。</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉文光" title="wikilink">劉文光</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

@@ -2,7 +2,7 @@
 
 Flink提供高吞吐量、低延迟的流数据引擎\[7\]以及对事件-时间处理和状态管理的支持。Flink应用程序在发生机器故障时具有容错能力，并且支持exactly-once语义。\[8\]程序可以用Java、Scala\[9\]、[Python](../Page/Python.md "wikilink")\[10\]和[SQL](../Page/SQL.md "wikilink")\[11\]等语言编写，并自动编译和优化\[12\]到在集群或云环境中运行的数据流程序。\[13\]
 
-Flink并不提供自己的数据存储系统，但为Amazon Kinesis、[Apache Kafka](https://zh.wikipedia.org/wiki/Apache_Kafka "wikilink")、[HDFS](https://zh.wikipedia.org/wiki/HDFS "wikilink")、[Apache Cassandra和ElasticSearch等系统提供了数据源和接收器](https://zh.wikipedia.org/wiki/Apache_Cassandra "wikilink")。\[14\]
+Flink并不提供自己的数据存储系统，但为[Amazon Kinesis](https://zh.wikipedia.org/wiki/Amazon_Web_Services#Analytics "wikilink")、[Apache Kafka](https://zh.wikipedia.org/wiki/Apache_Kafka "wikilink")、[Alluxio](../Page/Alluxio.md "wikilink")、[HDFS](https://zh.wikipedia.org/wiki/HDFS "wikilink")、[Apache Cassandra和](https://zh.wikipedia.org/wiki/Apache_Cassandra "wikilink")[Elasticsearch](../Page/Elasticsearch.md "wikilink")等系统提供了数据源和接收器。\[14\]
 
 ## 开发
 

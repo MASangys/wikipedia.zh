@@ -2,7 +2,7 @@
 
 ## 运营
 
-Metapedia运行于[MediaWiki](../Page/MediaWiki.md "wikilink")，使用[PHP](../Page/PHP.md "wikilink")编写，使用[MySQL](../Page/MySQL.md "wikilink")数据库。\[5\]\[6\]
+Metapedia运行于[MediaWiki](https://zh.wikipedia.org/wiki/MediaWiki "wikilink")，使用[PHP](../Page/PHP.md "wikilink")编写，使用[MySQL](../Page/MySQL.md "wikilink")数据库。\[5\]\[6\]
 
 Metapedia由Lagerström和伦纳特·伯格领导，他也运行NFSE Media AB。
 

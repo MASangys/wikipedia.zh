@@ -1,4 +1,4 @@
-**RABe 511型電聯車**為[施泰德鐵路研製的雙層電聯車](https://zh.wikipedia.org/wiki/施泰德鐵路 "wikilink")，主要由[瑞士聯邦鐵路](../Page/瑞士聯邦鐵路.md "wikilink")使用，於2011年開始營運。
+**RABe 511型電聯車**為[施泰德鐵路](../Page/施泰德鐵路.md "wikilink")研製的雙層電聯車，主要由[瑞士聯邦鐵路](../Page/瑞士聯邦鐵路.md "wikilink")使用，於2011年開始營運。
 
 ## 使用國
 

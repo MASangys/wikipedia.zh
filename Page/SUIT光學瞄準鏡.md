@@ -23,7 +23,7 @@ SUIT光學瞄準鏡是由英國（，簡稱：RARDE）所研發，並且由阿�
   - 外形尺寸（長×寬×高）：188×76×69[毫米](../Page/毫米.md "wikilink")（7.4×2.99×2.72[英寸](https://zh.wikipedia.org/wiki/英寸 "wikilink")）
   - 重量：340[克](https://zh.wikipedia.org/wiki/克 "wikilink")（11.99[盎司](../Page/盎司.md "wikilink")，0.75[磅](../Page/磅.md "wikilink")）
   - [放大倍率](https://zh.wikipedia.org/wiki/望远镜放大倍数 "wikilink")：4倍
-  - [視角](https://zh.wikipedia.org/wiki/視野 "wikilink")：8°（140[密耳](https://zh.wikipedia.org/wiki/密耳 "wikilink")）
+  - [視角](../Page/視野.md "wikilink")：8°（140[密耳](https://zh.wikipedia.org/wiki/密耳 "wikilink")）
   - [入瞳直徑](https://zh.wikipedia.org/wiki/物鏡 "wikilink")：25.5毫米（1英吋）
   - [出瞳直徑](../Page/出射瞳.md "wikilink")：6.375毫米（0.25英吋）
   - [出瞳距離](../Page/適眼距.md "wikilink")：35毫米（1.38英吋）

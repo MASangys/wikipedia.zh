@@ -1,4 +1,4 @@
-《**CHEAT 詐欺師們請注意**》（日語：），由[讀賣電視台](../Page/讀賣電視台.md "wikilink")制作，於2019年10月4日至在「[讀賣電視台週四連續劇](../Page/讀賣電視台週四連續劇.md "wikilink")」時段播出的日劇。本劇由[本田翼](../Page/本田翼.md "wikilink")主演\[1\]\[2\]\[3\]\[4\]。每集播映完畢後將在線上影音平台「」播出大約5分鐘的特別篇。
+《**CHEAT 詐欺師們請注意**》（日語：），由[讀賣電視台](../Page/讀賣電視台.md "wikilink")制作，於2019年10月4日至在「[讀賣電視台週四連續劇](../Page/讀賣電視台週四連續劇.md "wikilink")」時段播出的日劇。本劇由[本田翼](../Page/本田翼.md "wikilink")主演\[1\]\[2\]\[3\]\[4\]。每集播映完畢後將在線上影音平台「」播出特別篇。
 
 ## 故事簡介
 
@@ -102,7 +102,7 @@
 
 :; 細川玲子〈28〉：[横山由依](https://zh.wikipedia.org/wiki/横山由依 "wikilink")\[5\]
 
-:: 詐騙集團成員
+:: 詐騙集團成員。
 
 :; 波岡了祐：[高橋努](../Page/高橋努.md "wikilink")
 
@@ -128,6 +128,81 @@
       -
         神谷的學弟。
 
+  - 第3話
+
+:\* 望月亮子 - [映美くらら](https://zh.wikipedia.org/wiki/映美くらら "wikilink")
+
+:: 偽裝成出版社員工的詐欺師。
+
+:\* 大貫雅和 - [飯田基祐](https://zh.wikipedia.org/wiki/飯田基祐 "wikilink")
+
+  -
+
+      -
+        假出版社社長。
+
+  - 第4話
+
+:\* 東堂真理亞 - [芦名星](../Page/芦名星.md "wikilink")
+
+:: 化妝品公司「Marianne」社長。
+
+:\* 御子柴悟 - [村井良大](../Page/村井良大.md "wikilink")
+
+  -
+
+      -
+        化妝品公司「Marianne」社長秘書，竊取客戶個資進行詐騙。
+
+  - 第5話
+
+:\* 勢野勇一 - [笠原秀幸](https://zh.wikipedia.org/wiki/笠原秀幸 "wikilink")
+
+:: 「RAMI System」公司負責人，虛擬貨幣詐欺師。
+
+:\* Hanna - [Elizabeth Marry](../Page/Elizabeth_Marry.md "wikilink")
+
+  -
+
+      -
+        瑞士「弗勞德」銀行，日本分行負責人。
+
+  - 第6話
+
+:\* KAITO - [福崎那由他](https://zh.wikipedia.org/wiki/福崎那由他 "wikilink")
+
+::高中生，利用釣魚網站竊取個資再進行詐騙的詐欺師。
+
+:\* 阮文鄧 - [藤田富](https://zh.wikipedia.org/wiki/藤田富 "wikilink")
+
+  -
+
+      -
+        越南人，被KAITO利用成為車手。
+
+  - 第7話
+
+:\* 野呂昌枝 - [木崎ゆりあ](https://zh.wikipedia.org/wiki/木崎ゆりあ "wikilink")
+
+::利用網路占卜進行詐騙的詐欺師。
+
+:\*江澤花音 - [福本莉子](../Page/福本莉子.md "wikilink")
+
+  -
+
+      -
+        「JEWEL☆TRICO」新經紀人，卻隱藏了另一個身分?
+
+  - 第8話
+
+:\* MIRAI - [福本莉子](../Page/福本莉子.md "wikilink")
+
+:: 利用販售演唱會門票進行詐騙的詐欺師。
+
+:\* 野中 - [長田成哉](https://zh.wikipedia.org/wiki/長田成哉 "wikilink")
+
+:\*  - 本人。
+
 ## 工作人員
 
   - 編劇 - 松本美彌子、山下昂
@@ -143,40 +218,102 @@
   - 制作協力 - The icon
   - 製作著作 - 讀賣電視台
 
+## 單曲
+
+劇中偶像團體「JEWEL☆TRICO」於11月21日第8集中演出的同名歌曲「JEWEL☆TRICO」。將於隔日發行數位單曲，本曲由高石明彦作詞、藤野翔之作曲，舞蹈則由曾幫AKB48、坂道系列等編舞的編舞組合「」負責\[8\]。
+
 ## 播放日程
 
 <table>
 <thead>
 <tr class="header">
 <th><p>集數</p></th>
-<th><p>播放日期</p></th>
-<th><p>標題</p></th>
-<th><p>劇本</p></th>
-<th><p>導演</p></th>
+<th><p>rowspan|播放日期</p></th>
+<th><p>colspan|標題</p></th>
+<th><p>rowspan=|劇本</p></th>
+<th><p>rowspan|導演</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>標題</p></td>
-<td><p>副標題</p></td>
+<td><p>target 1</p></td>
+<td><p>10月4日</p></td>
+<td><p>特殊詐騙集團<br />
+</p></td>
+<td><p>松本美彌子</p></td>
+<td><p>湯淺典子</p></td>
+</tr>
+<tr class="even">
+<td><p>target 2</p></td>
+<td><p>10月11日</p></td>
+<td><p>偽裝 TuTube<br />
+</p></td>
+<td><p>山下昂</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>target 3</p></td>
+<td><p>10月17日</p></td>
+<td><p>惡質娛樂詐騙<br />
+</p></td>
+<td><p>松本美彌子</p></td>
+<td><p>安見悟朗</p></td>
+</tr>
+<tr class="even">
+<td><p>target 4</p></td>
+<td><p>10月24日</p></td>
+<td><p>危險的美容商品詐騙<br />
+</p></td>
+<td><p>山下昂</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>target 5</p></td>
+<td><p>10月31日</p></td>
+<td><p>連結過去與現在的虛擬貨幣詐騙<br />
+</p></td>
+<td><p>松本美彌子</p></td>
+<td><p>湯淺典子</p></td>
+</tr>
+<tr class="even">
+<td><p>target 6</p></td>
+<td><p>11月8日</p></td>
+<td><p>暴增中！ 釣魚網站詐騙<br />
+</p></td>
+<td><p>山下昂</p></td>
+<td><p>北川瞳</p></td>
+</tr>
+<tr class="odd">
+<td><p>target 7</p></td>
+<td><p>11月14日</p></td>
+<td><p>惡質的網路占卜詐騙<br />
+</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>target 1</p></td>
-<td><p>10月4日</p></td>
-<td><p>特殊詐騙集團<br />
-特殊詐欺グループ</p></td>
-<td><p>反詐欺師謎樣的組織誕生<br />
-サギ師を騙し返す謎の組織誕生</p></td>
+<td><p>target 8</p></td>
+<td><p>11月21日</p></td>
+<td><p>偶像之敵 購票詐騙<br />
+</p></td>
 <td><p>松本美彌子</p></td>
+<td><p>安見悟朗</p></td>
 </tr>
 <tr class="odd">
-<td><p>target 2</p></td>
-<td><p>10月11日</p></td>
+<td><p>target 9</p></td>
+<td><p>11月28日</p></td>
+<td><p>詐欺師集結！土地詐騙<br />
+</p></td>
+<td><p>山下昂</p></td>
 <td></td>
-<td></td>
+</tr>
+<tr class="even">
+<td><p>target 10</p></td>
+<td><p>12月5日</p></td>
+<td><p>最終回！波岡主導的土地詐騙案<br />
+</p></td>
+<td><p>山下昂<br />
+松本美彌子</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -199,3 +336,4 @@
 5.
 6.
 7.
+8.

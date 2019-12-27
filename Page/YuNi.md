@@ -85,7 +85,7 @@ YuNi的形象由[日本](../Page/日本.md "wikilink")[漫画家](https://zh.wik
 
   -
   -
-[Category:YouTube频道](https://zh.wikipedia.org/wiki/Category:YouTube频道 "wikilink") [Category:虚构艺人](https://zh.wikipedia.org/wiki/Category:虚构艺人 "wikilink") [Category:日本YouTuber](https://zh.wikipedia.org/wiki/Category:日本YouTuber "wikilink") [Category:虚拟YouTuber](https://zh.wikipedia.org/wiki/Category:虚拟YouTuber "wikilink")
+[Category:YouTube频道](https://zh.wikipedia.org/wiki/Category:YouTube频道 "wikilink") [Category:虚构艺人](https://zh.wikipedia.org/wiki/Category:虚构艺人 "wikilink") [Category:日本虛擬YouTuber](https://zh.wikipedia.org/wiki/Category:日本虛擬YouTuber "wikilink")
 
 1.
 2.

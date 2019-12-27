@@ -72,7 +72,7 @@ FUBAR在鄭敬儒入伍後曾短暫休團，於2016年1月復出，團名正式�
 
 ## 參考來源
 
-  - <https://www.indievox.com/decajoins>
+  - <https://web.archive.org/web/20181121161752/https://www.indievox.com/decajoins>
   - <https://blow.streetvoice.com/>
 
 ## 外部連結

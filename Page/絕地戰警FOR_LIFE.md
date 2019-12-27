@@ -42,6 +42,15 @@
 ## 外部連結
 
   -
+  -
+  -
+  -
+  - {{@movies|fben51502397}}
+
+  -
+  -
+  -
+  -
 [Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:2020年電影](https://zh.wikipedia.org/wiki/Category:2020年電影 "wikilink") [Category:2020年代喜劇片](https://zh.wikipedia.org/wiki/Category:2020年代喜劇片 "wikilink") [Category:2020年代動作片](https://zh.wikipedia.org/wiki/Category:2020年代動作片 "wikilink") [Category:2020年美國電影](https://zh.wikipedia.org/wiki/Category:2020年美國電影 "wikilink") [Category:美國電影作品](https://zh.wikipedia.org/wiki/Category:美國電影作品 "wikilink") [Category:美國續集電影](https://zh.wikipedia.org/wiki/Category:美國續集電影 "wikilink") [Category:美國喜劇動作片](https://zh.wikipedia.org/wiki/Category:美國喜劇動作片 "wikilink") [Category:搭檔片](https://zh.wikipedia.org/wiki/Category:搭檔片 "wikilink") [Category:邁阿密背景電影](https://zh.wikipedia.org/wiki/Category:邁阿密背景電影 "wikilink") [Category:亚特兰大取景电影](https://zh.wikipedia.org/wiki/Category:亚特兰大取景电影 "wikilink") [Category:邁阿密取景電影](https://zh.wikipedia.org/wiki/Category:邁阿密取景電影 "wikilink") [Category:哥倫比亞影業電影](https://zh.wikipedia.org/wiki/Category:哥倫比亞影業電影 "wikilink")
 
 1.  [1](http://snarkerati.com/movie-news/will-smith-begs-michael-bay-to-make-bad-boys-3)

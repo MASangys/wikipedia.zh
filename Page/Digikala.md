@@ -4,7 +4,7 @@
 
 ## 外部連結
 
-  - [Digikala](https://www.digikala.com/)
+  - [Digikala](https://web.archive.org/web/20190504202019/https://www.digikala.com/)
 
 [Category:電子商務網站](https://zh.wikipedia.org/wiki/Category:電子商務網站 "wikilink") [Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink")
 

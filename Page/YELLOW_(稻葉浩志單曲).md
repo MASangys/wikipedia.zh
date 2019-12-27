@@ -26,8 +26,8 @@
 
 [Category:稻葉浩志歌曲](https://zh.wikipedia.org/wiki/Category:稻葉浩志歌曲 "wikilink") [Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink") [Category:顏色題材樂曲](https://zh.wikipedia.org/wiki/Category:顏色題材樂曲 "wikilink")
 
-1.  <http://natalie.mu/music/news/199217> 稲葉浩志、コーセーCMソング「YELLOW」本日より配信
-2.  來自be with\! Vol.110
-3.  <http://music-book.jp/music/Kashi/aaa58tpb?artistname=%25e7%25a8%25b2%25e8%2591%2589%25e6%25b5%25a9%25e5%25bf%2597&title=YELLOW&packageName=YELLOW>
-4.  <http://www.uta-net.com/song/213967/>
+1.
+2.
+3.
+4.
 5.  [來自自身的Twitter發言](https://twitter.com/Duran_Guitar/status/710066611776921600)

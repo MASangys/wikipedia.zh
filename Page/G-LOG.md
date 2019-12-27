@@ -1,43 +1,33 @@
 **《G-LOG》**是由[GFRIEND](../Page/GFRIEND.md "wikilink")成員親自拍下她們生活的片段，於4月11日起播出至今 。\[1\] 節目在SOURCE MUSIC的YOUTUBE頻道播出。\[2\]
 
-<table>
-<thead>
-<tr class="header">
-<th><p>集數</p></th>
-<th><p>節目連結</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>序幕</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>EP.1</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>EP.2</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>EP.3</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>EP.4</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>EP.5</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>EP.6</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+節目片頭歌曲為《SHOW UP》收錄在正規二輯《Time for us》裡。
+
+| 2019年  |
+| ------ |
+| 上傳日期   |
+| 04月11日 |
+| 04月23日 |
+| 04月30日 |
+| 05月07日 |
+| 05月14日 |
+| 05月21日 |
+| 05月28日 |
+| 06月04日 |
+| 07月18日 |
+| 07月22日 |
+| 07月31日 |
+| 08月07日 |
+| 08月16日 |
+| 08月22日 |
+| 09月05日 |
+| 09月17日 |
+| 09月30日 |
+| 10月10日 |
+| 10月22日 |
+| 11月04日 |
+| 11月19日 |
+| 12月02日 |
+| 12月13日 |
 
 ## 参考资料
 

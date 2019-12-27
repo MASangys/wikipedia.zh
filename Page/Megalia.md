@@ -57,7 +57,7 @@ Megalia被广泛认为是一个极端的女权主义社区，像是男性主导�
 6.
 7.
 8.
-9.  "[게시판 소개 및 이용자 준수사항](http://megalian.com/notice/48) \[Guide to the boards and user rules\]" - Megalia
+9.  "[게시판 소개 및 이용자 준수사항](http://megalian.com/notice/48)  \[Guide to the boards and user rules\]" - Megalia
 10. 김태헌. [‘여혐혐’ 메갈리아, 행동하는 페미니즘 가능할까](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=421&aid=0001704449). 뉴스1. 2015년 10월 28일.
 11.
 12.

@@ -344,6 +344,6 @@
 [Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:TV朝鲜周末连续剧](https://zh.wikipedia.org/wiki/Category:TV朝鲜周末连续剧 "wikilink") [Category:檢察官題材電視劇](https://zh.wikipedia.org/wiki/Category:檢察官題材電視劇 "wikilink") [Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink") [Category:韓國律政劇](https://zh.wikipedia.org/wiki/Category:韓國律政劇 "wikilink")
 
 1.  [朴施厚確定出演 TV CHOSUN 全新電視劇《Babel》回歸小螢幕](https://www.kpopn.com/2018/10/31/parksihoo-tv-chosun-new-drama-babel/)，Kpopn，2018-10-31
-2.  [(韓劇)Babel 人物介紹+劇情簡介](http://remylovedrama.blogspot.com/2019/01/babel.html)，非零分享，2019-01-23
+2.  [(韓劇)Babel 人物介紹+劇情簡介](http://remylovedrama.blogspot.com/2019/01/babel.html) ，非零分享，2019-01-23
 3.
 4.  即建議15歲以下少年人不宜觀看，即建議19歲以下未成年人士不宜觀看。

@@ -78,6 +78,88 @@
 
 ## 演唱清單
 
+## 相關影音
+
+《The Signal Gift》是韓國女子組合少女時代成員[太妍](../Page/太妍.md "wikilink")於2019年舉行《TAEYEON JAPAN TOUR 2019 \~Signal\~》日本巡迴演唱會的影音作品，於2019年12月25日發行[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")、[藍光光碟](../Page/藍光光碟.md "wikilink")。
+
+### 說明
+
+2019年11月8日，日本官方網站宣佈太妍將首次發行影音作品《The Signal Gift＜完全限定生產BOX ″Gift Box″＞》收錄2019年5月31日於東京國際論壇A最終場演唱會，特典影像收錄演唱會幕後花絮與訪談內容，CD收錄一首新歌《I Do》。發行日為12月25日聖誕節亦有送給歌迷聖誕禮物的意思。\[5\] 11月30日公開特典影像部份內容。\[6\] 12月1日新歌《I Do》先行公開。\[7\]
+
+### 收錄內容
+
+  - CD（共1首）+ Blu-ray＆DVD + 特典影像 + 4款壓克力立牌 + 48頁寫真
+
+### 收錄曲目
+
+#### CD
+
+1.  I Do
+
+#### Blu-ray＆DVD
+
+1.  Make Me Love You
+2.  Stay
+
+<!-- end list -->
+
+  - \-MC-
+
+<!-- end list -->
+
+1.  HORIZON
+2.  Baram X 3
+3.  I’m OK
+4.  I Got Love
+5.  TURNT AND BURNT
+
+<!-- end list -->
+
+  - \-MC-
+  - \-VTR-
+
+<!-- end list -->
+
+1.  VOICE
+2.  Rescue Me
+3.  Sweet Love
+4.  I’m The Greatest
+5.  Something New
+6.  Vanilla
+7.  I Found You
+8.  Four Seasons
+
+<!-- end list -->
+
+  - \-MC-
+
+<!-- end list -->
+
+1.  Rain
+2.  One Day
+3.  11:11
+4.  SIGNAL
+
+<!-- end list -->
+
+  - ＜encore＞
+
+<!-- end list -->
+
+1.  Curtain Call
+
+<!-- end list -->
+
+  - \-MC-
+
+<!-- end list -->
+
+1.  I (Japanese Ver.)
+
+<!-- end list -->
+
+  - \-MC-
+
 ## 製作
 
   - 演出歌手
@@ -118,3 +200,6 @@
 2.
 3.
 4.
+5.  限量發行，達到限量發行的數量後隨即停售。
+6.
+7.

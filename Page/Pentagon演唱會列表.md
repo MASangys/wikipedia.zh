@@ -310,7 +310,7 @@ Daiba City Tokyo</p></td>
 29. [2017 1st SORIBADA BEST K-MUSIC AWARDS PENTAGON Like This](https://www.youtube.com/watch?v=yUJtUSBhJFU) 2017-9-20
 30. [KCON 2017 AUSTRALIA](https://www.facebook.com/LetsKCONAustralia) 2017-8-8
 31. [10th Korean Music Festival](https://www.youtube.com/watch?v=fvMZeZjeb3Q) 2017-6-9
-32. [MU:CON 2017](http://www.mucon.kr/fairContents.do?FAIRMENU_IDX=4011&hl=ENG) 2017-9-27
+32. [MU:CON 2017](http://www.mucon.kr/fairContents.do?FAIRMENU_IDX=4011&hl=ENG)  2017-9-27
 33. [Fandom School Korean Music Festival 2017](http://blog.naver.com/kmf4you) 2017-9-5
 34. [Kriesha Chu Showcase Dream Of Paradise](http://www.vlive.tv/video/53400) 2018-1-3
 35. [10th KPOP FESTIVAL 2018](https://twitter.com/NPO_JKCA/status/940825091381911552) 2017-12-13

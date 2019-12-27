@@ -18,29 +18,129 @@
 
 ### 其他演員
 
-|                                                     |        |                |
-| --------------------------------------------------- | ------ | -------------- |
-| **演員**                                              | **角色** | **介紹**         |
-| [衛詩雅](../Page/衛詩雅.md "wikilink")                    | 梁穎恩    |                |
-| [吳肇軒](../Page/吳肇軒.md "wikilink")                    | 細佬     | 林可兒弟弟          |
-| [白只](../Page/白只.md "wikilink")                      | 表舅父    | 林可兒表舅父 藝術家、二世祖 |
-| [梁雍婷](../Page/梁雍婷.md "wikilink")                    | 阿Cat   | 何家謙女友          |
-| [梁祖堯](../Page/梁祖堯.md "wikilink")                    |        | 林可兒男友          |
-| [陳友](../Page/陳友_\(演員\).md "wikilink")               |        | 報攤老闆           |
-| [章國明](../Page/章國明.md "wikilink")                    |        | 林可兒父親          |
-| [文雪兒](../Page/文雪兒.md "wikilink")                    |        | 林可兒母親          |
-| [盧海鵬](../Page/盧海鵬.md "wikilink")                    |        | 何家謙爺爺          |
-| [歐錦棠](../Page/歐錦棠.md "wikilink")                    |        | 何家謙父親          |
-| [杜德偉](../Page/杜德偉.md "wikilink")                    |        | 陳子健父親          |
-| [賈曉晨](../Page/賈曉晨.md "wikilink")                    |        | 陳子健母親          |
-| [張堅庭](../Page/張堅庭.md "wikilink")                    |        | 太空館館長          |
-| [陶傑](../Page/陶傑.md "wikilink")                      |        | 電視節目嘉賓         |
-| [羅頌欣](../Page/羅頌欣.md "wikilink")                    |        |                |
-| [鄧智堅](../Page/鄧智堅.md "wikilink")                    |        |                |
-| [楊偉倫](https://zh.wikipedia.org/wiki/楊偉倫 "wikilink") |        |                |
-| [黃定謙](../Page/黃定謙.md "wikilink")                    |        |                |
-| [黃子恆](../Page/黃子恆.md "wikilink")                    |        | 婚禮臨時演員         |
-| [李俊豪](https://zh.wikipedia.org/wiki/李俊豪 "wikilink") |        | 婚禮臨時演員         |
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/衛詩雅.md" title="wikilink">衛詩雅</a></p></td>
+<td><p>梁穎恩</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/吳肇軒.md" title="wikilink">吳肇軒</a></p></td>
+<td><p>弟弟</p></td>
+<td><p>林可兒弟弟</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/白只.md" title="wikilink">白只</a></p></td>
+<td><p>表舅父</p></td>
+<td><p>林可兒表舅父<br />
+藝術家、二世祖</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/梁雍婷.md" title="wikilink">梁雍婷</a></p></td>
+<td><p>阿Cat</p></td>
+<td><p>何家謙女友</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/梁祖堯.md" title="wikilink">梁祖堯</a></p></td>
+<td></td>
+<td><p>林可兒男友</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/陳友_(演員).md" title="wikilink">陳友</a></p></td>
+<td></td>
+<td><p>報攤老闆</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/章國明.md" title="wikilink">章國明</a></p></td>
+<td></td>
+<td><p>林可兒父親</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/文雪兒.md" title="wikilink">文雪兒</a></p></td>
+<td></td>
+<td><p>林可兒母親</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/盧海鵬.md" title="wikilink">盧海鵬</a></p></td>
+<td></td>
+<td><p>何家謙爺爺</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/歐錦棠.md" title="wikilink">歐錦棠</a></p></td>
+<td></td>
+<td><p>何家謙父親</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/朱栢康" title="wikilink">朱栢康</a></p></td>
+<td></td>
+<td><p>何家謙大哥</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/杜德偉.md" title="wikilink">杜德偉</a></p></td>
+<td></td>
+<td><p>陳子健父親</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/賈曉晨.md" title="wikilink">賈曉晨</a></p></td>
+<td></td>
+<td><p>陳子健母親</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/張堅庭.md" title="wikilink">張堅庭</a></p></td>
+<td></td>
+<td><p>太空館館長</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/陶傑.md" title="wikilink">陶傑</a></p></td>
+<td></td>
+<td><p>電視節目嘉賓</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/羅頌欣.md" title="wikilink">羅頌欣</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/鄧智堅.md" title="wikilink">鄧智堅</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/楊偉倫" title="wikilink">楊偉倫</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/黃定謙.md" title="wikilink">黃定謙</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/黃子恆.md" title="wikilink">黃子恆</a></p></td>
+<td></td>
+<td><p>婚禮臨時演員</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/李俊豪" title="wikilink">李俊豪</a></p></td>
+<td></td>
+<td><p>婚禮臨時演員</p></td>
+</tr>
+</tbody>
+</table>
+
+## 電影歌曲
+
+|        |        |                                                     |                                                     |                                  |
+| ------ | ------ | --------------------------------------------------- | --------------------------------------------------- | -------------------------------- |
+| **曲別** | **歌名** | **作曲**                                              | **作詞**                                              | **主唱**                           |
+| 主題曲    | 華富一號   | [崔展鴻](https://zh.wikipedia.org/wiki/崔展鴻 "wikilink") | [梁栢堅](https://zh.wikipedia.org/wiki/梁栢堅 "wikilink") | [黃淑蔓](../Page/黃淑蔓.md "wikilink") |
+|        |        |                                                     |                                                     |                                  |
 
 ## 參考文獻
 

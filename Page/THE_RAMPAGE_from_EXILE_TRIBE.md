@@ -24,7 +24,7 @@
 
 ### 2017、2018年：出道至首張專輯發行
 
-  - 2017年1月25日，以單曲"Lightning"主流出道，團體風格以HIP-HOP為主。\[4\]
+  - 2017年1月25日，以單曲"Lightning"主流出道，團體風格以[HIP-HOP為主](../Page/嘻哈.md "wikilink")。\[4\]
 
 <!-- end list -->
 
@@ -44,14 +44,34 @@
 
 <!-- end list -->
 
-  - 10月30日，發行第二張專輯"THE RIOT"，收錄已發行之第7\~9張單曲及另外3首新歌，共13首各式曲風的歌曲，影像版本收錄THE RAMPAGE LIVE TOUR 2019 "THROW YA FIST"影像以及其花絮紀錄片。<ref>
+  - 10月30日，發行第二張專輯"THE RIOT"，收錄已發行之第7\~9張單曲及另外3首新歌，共13首各式曲風的歌曲，影像版本收錄THE RAMPAGE LIVE TOUR 2019 "THROW YA FIST"影像以及其花絮紀錄片。\[6\]
 
-|[青森縣](../Page/青森縣.md "wikilink") |ELLY([三代目J Soul Brothers](https://zh.wikipedia.org/wiki/J_Soul_Brothers#第三代：2010年至今 "wikilink"))的弟弟 |- |陣 |ZIN |隊長
-表演者 |GOEMON |{{ birth date and age|1994|04|28 }} |[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink") |本名坂本陣 |- |RIKU | |主唱 |BAILEY |{{ birth date and age|1994|08|10 }} |[埼玉縣](../Page/埼玉縣.md "wikilink") |本名青山陸 |- |神谷健太 |KAMIYA KENTA |表演者 |MI-YA |{{ birth date and age|1995|05|27 }} |[沖繩縣](../Page/沖繩縣.md "wikilink") | |- |與那嶺瑠唯 |YONAMINE RUI |表演者 |GUSK |{{ birth date and age|1995|08|16 }} |[沖繩縣](../Page/沖繩縣.md "wikilink") | |- |山本彰吾 |YAMAMOTO SHOGO |表演者 |MARDUK |{{ birth date and age|1995|10|06 }} |[岡山縣](../Page/岡山縣.md "wikilink") | |- |川村壱馬 |KAWAMURA KAZUMA |主唱 |LUPUS |{{ birth date and age|1997|01|07 }} |[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink") | |- |吉野北人 |YOSHINO HOKUTO |主唱 |LUCAS |{{ birth date and age|1997|03|06 }} |[宮崎縣](../Page/宮崎縣.md "wikilink") | |- |岩谷翔吾 |IWAYA SHOGO |表演者 |TRAVIS |{{ birth date and age|1997|03|11 }} |[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink") | |- |浦川翔平 |URAKAWA SHOHEI |表演者 |SARUTOBI |{{ birth date and age|1997|05|23 }} |[長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink") | |- |藤原樹 |FUJIWARA ITSUKI |表演者 |KISARAGI |{{ birth date and age|1997|10|20 }} |[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink") | |- |武知海青 |TAKECHI KAISEI |表演者 |MARINE |{{ birth date and age|1998|02|04 }} |[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink") | |- |長谷川慎 |HASEGAWA MAKOTO |表演者 |q-b |{{ birth date and age|1998|07|29 }} |[神奈川縣](../Page/神奈川縣.md "wikilink") | |- |龍 |RYU |表演者 |JOE |{{ birth date and age|1998|09|09 }} |[千葉縣](../Page/千葉縣.md "wikilink") |本名阿多龍太郎 |- |鈴木昂秀 |SUZUKI TAKAHIDE |表演者 |A-NOT |{{ birth date and age|1998|10|03 }} |[神奈川縣](../Page/神奈川縣.md "wikilink") | |- |後藤拓磨 |GOTO TAKUMA |表演者 |JUDY |{{ birth date and age|1998|12|04 }} |[和歌山縣](https://zh.wikipedia.org/wiki/和歌山縣 "wikilink") | |- |}
+## 成員
+
+| 成員列表   |
+| ------ |
+| 名字     |
+| LIKIYA |
+| 陣      |
+| RIKU   |
+| 神谷健太   |
+| 與那嶺瑠唯  |
+| 山本彰吾   |
+| 川村壱馬   |
+| 吉野北人   |
+| 岩谷翔吾   |
+| 浦川翔平   |
+| 藤原樹    |
+| 武知海青   |
+| 長谷川慎   |
+| 龍      |
+| 鈴木昂秀   |
+| 後藤拓磨   |
+|        |
 
 ## 作品
 
-排名為[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")週間最高排名 \[6\]
+排名為[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")週間最高排名 \[7\]
 
 ### 單曲
 
@@ -163,15 +183,15 @@
 
 ### 單獨巡迴
 
-  - THE RAMPAGE LIVE TOUR 2017-2018 "GO ON THE RAMPAGE"\[7\]
+  - THE RAMPAGE LIVE TOUR 2017-2018 "GO ON THE RAMPAGE"\[8\]
 
 <!-- end list -->
 
-  - THE RAMPAGE LIVE TOUR 2019 "THROW YA FIST"\[8\]
+  - THE RAMPAGE LIVE TOUR 2019 "THROW YA FIST"\[9\]
 
 <!-- end list -->
 
-  - THE RAMPAGE LIVE TOUR 2020 "RMPG"\[9\]
+  - THE RAMPAGE LIVE TOUR 2020 "RMPG"\[10\]
 
 ### 聯合演出
 
@@ -212,17 +232,17 @@
 
 ### 廣告
 
-  - [森永製菓](../Page/森永製菓.md "wikilink")「ICE BOX」形象代言人（2018年 - ）\[10\]
+  - [森永製菓](../Page/森永製菓.md "wikilink")「ICE BOX」形象代言人（2018年 - ）\[11\]
 
 <!-- end list -->
 
-  - [DHC](../Page/DHC.md "wikilink")「純欖護唇膏」（2019年）\[11\]
+  - [DHC](../Page/DHC.md "wikilink")「純欖護唇膏」（2019年）\[12\]
 
 ## 獎項
 
   - [MTV日本音樂錄影帶大獎](../Page/MTV日本音樂錄影帶大獎.md "wikilink")2017 最佳新人音樂錄影帶獎"Lightning"
   - [亞洲明星盛典 Artist Award)2017年](../Page/亞洲明星盛典.md "wikilink")(Asia New Wave獎
-  - 第32年度 [日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink") 最佳5位新人獎(音樂類) \[12\]
+  - 第32年度 [日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink") 最佳5位新人獎(音樂類) \[13\]
 
 ## 腳註
 
@@ -250,3 +270,4 @@
 10.
 11.
 12.
+13.

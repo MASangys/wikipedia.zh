@@ -1,4 +1,4 @@
-《**[HIStory系列](../Page/HIStory_\(2017年電視劇\).md "wikilink")**》，第三季分為二個單元《圈套》、《那一天》\[1\]於2018年第四季開拍以及2019年第二季開拍，編劇一樣找來成功打造第一與第二季的的林珮瑜，李青蓉和蔡宓潔導演也將再次執導第三季。
+《**[HIStory系列](../Page/HIStory_\(2017年電視劇\).md "wikilink")**》，第三季分為二個單元《圈套》、《那一天》\[1\]。於2018年第四季開拍以及2019年第二季開拍，編劇一樣找來成功打造第一與第二季的的林珮瑜，李青蓉和蔡宓潔導演也將再次執導第三季。
 
 ## 播出時間
 
@@ -424,7 +424,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/黃雋智" title="wikilink">黃雋智</a></p></td>
+<p><a href="../Page/黃雋智.md" title="wikilink">黃雋智</a></p></td>
 <td><center>
 <p>-{于}-希顧</p></td>
 <td><p>個性獨立，不喜歡佔人便宜，也討厭被同情。 父母因為意外雙雙離世，從小就寄養在姑姑家。但後來不想再增加姑姑的負擔，便努力用功爭取獎學金，並靠著自己課餘打工的錢，過著自給自足的簡單生活。 因為沒有多餘的錢可以跟同學們吃喝玩樂，因此也沒有什麼同輩朋友，漸漸的就變成了校園中的獨行俠，女學生也將其視為如謫仙般的人物。</p></td>
@@ -533,14 +533,21 @@
 <tr class="even">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/孫英豪" title="wikilink">孫英豪</a></p></td>
-<td><center></td>
+<td><center>
+<p>小英</p></td>
 <td><p>八班同學。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p><a href="../Page/吳珝陽.md" title="wikilink">吳珝陽</a></p></td>
-<td><center></td>
-<td><p>盧志剛的大學學長，曾經和盧志剛交往過後分開。</p></td>
+<td><center>
+<p>程清</p></td>
+<td><p>盧志剛的姪子。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/黃雋智.md" title="wikilink">黄雋智</a></p></td>
+<td><p>学弟</p></td>
+<td><p>项豪廷登山时认识的朋友，与于希顾长相十分相似，性格却和于希顾相差十万八千里。</p></td>
 </tr>
 </tbody>
 </table>
@@ -553,7 +560,7 @@
 | 片頭曲    | 再活一遍                                                                                  | [蕭秉治](../Page/蕭秉治.md "wikilink")                                                                   | [蕭秉治](../Page/蕭秉治.md "wikilink")、[吳聖皓](../Page/麋先生.md "wikilink")                                       | [林喆安](../Page/麋先生.md "wikilink") |
 | 片尾曲    | 我還是不懂                                                                                 | [魏嘉瑩](https://zh.wikipedia.org/wiki/魏嘉瑩 "wikilink")                                                |                                                                                                         |                                  |
 | 插曲     | HEY                                                                                   | [麋先生](../Page/麋先生.md "wikilink")                                                                   | [吳聖皓](../Page/麋先生.md "wikilink")                                                                        | [林喆安](../Page/麋先生.md "wikilink") |
-| 安全感    | [家家](https://zh.wikipedia.org/wiki/家家 "wikilink")                                     | [崔惟楷](https://zh.wikipedia.org/wiki/崔惟楷 "wikilink")                                                | [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")、[王詩安](https://zh.wikipedia.org/wiki/王詩安 "wikilink") |                                  |
+| 安全感    | [家家](../Page/紀家盈.md "wikilink")                                                       | [崔惟楷](https://zh.wikipedia.org/wiki/崔惟楷 "wikilink")                                                | [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")、[王詩安](https://zh.wikipedia.org/wiki/王詩安 "wikilink") |                                  |
 | 我們不像我們 | [丁噹](../Page/丁噹.md "wikilink")                                                        | [白吟洁](https://zh.wikipedia.org/wiki/白吟洁 "wikilink")                                                | [李宏斌](https://zh.wikipedia.org/wiki/李宏斌 "wikilink")、[吳周爍](https://zh.wikipedia.org/wiki/吳周爍 "wikilink") |                                  |
 | 最想見到你  | [白安](../Page/白安.md "wikilink")                                                        |                                                                                                    |                                                                                                         |                                  |
 | 跪了     | [鼓鼓](https://zh.wikipedia.org/wiki/鼓鼓 "wikilink") ft.[吳卓源](../Page/吳卓源.md "wikilink") | [鼓鼓](https://zh.wikipedia.org/wiki/鼓鼓 "wikilink") ft.[吳卓源](../Page/吳卓源.md "wikilink")、老王 Terry Lee |                                                                                                         |                                  |
@@ -603,6 +610,7 @@
   - 2019年10月8日《那一天》試映會。
   - 2019年10月14日《那一天》記者會。
   - 2019年10月16日《那一天》開播。
+  - 2019年12月15日《那一天》成都场见面会。
 
 ## 參考資料
 

@@ -162,7 +162,7 @@
 <td><p>44</p></td>
 <td><p>4月17日</p></td>
 <td><p><a href="../Page/Robynn_&amp;_Kendy.md" title="wikilink">Robynn &amp; Kendy</a>（<a href="https://zh.wikipedia.org/wiki/葉晴晴" title="wikilink">葉晴晴</a>、<a href="https://zh.wikipedia.org/wiki/孫曉慧" title="wikilink">孫曉慧</a>）、<br />
-<a href="../Page/周殷廷.md" title="wikilink">周殷廷</a>、<a href="../Page/陳凱詠.md" title="wikilink">陳凱詠</a>、-{<a href="https://zh.wikipedia.org/wiki/涂毓麟" title="wikilink">涂毓麟</a>}-</p></td>
+<a href="../Page/周殷廷.md" title="wikilink">周殷廷</a>、<a href="../Page/陳凱詠.md" title="wikilink">陳凱詠</a>、-{<a href="../Page/涂毓麟.md" title="wikilink">涂毓麟</a>}-</p></td>
 <td><p>樂壇新人好惡做</p></td>
 <td><p><a href="../Page/周殷廷.md" title="wikilink">周殷廷</a>、<a href="../Page/陳凱詠.md" title="wikilink">陳凱詠</a></p></td>
 <td><p>$35,504</p></td>

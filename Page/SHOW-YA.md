@@ -4,7 +4,7 @@
 
 ### 现役成员
 
-  - [寺田惠子](https://zh.wikipedia.org/wiki/寺田惠子 "wikilink") - 主唱、作詞、作曲（第1期、重组期）
+  - [寺田惠子](../Page/寺田惠子.md "wikilink") - 主唱、作詞、作曲（第1期、重组期）
     [1963年](../Page/1963年.md "wikilink")[7月27日出生](https://zh.wikipedia.org/wiki/7月27日 "wikilink")。[千葉県出身](https://zh.wikipedia.org/wiki/千葉県 "wikilink")。血型A型。
   - [中村美紀](https://zh.wikipedia.org/wiki/中村美紀 "wikilink")（Captain） - 键盘手、合唱、指挥、作詞、作曲
     [1961年](../Page/1961年.md "wikilink")[9月27日](../Page/9月27日.md "wikilink")出生。千葉县出身。血型AB型。
@@ -27,4 +27,4 @@
   - [Keiko Terada official website](http://www.masterworks.co.jp/KeikoTerada)
   - [Miki "Mittan" Tsunoda official website](http://www.drums-mittan.com/)
 
-[Category:日本重金屬樂團](https://zh.wikipedia.org/wiki/Category:日本重金屬樂團 "wikilink") [Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink") [Category:日本华丽金属乐队](https://zh.wikipedia.org/wiki/Category:日本华丽金属乐队 "wikilink") [Category:全女子乐队](https://zh.wikipedia.org/wiki/Category:全女子乐队 "wikilink") [Category:1981年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1981年成立的音樂團體 "wikilink") [Category:1998年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1998年解散的音樂團體 "wikilink") [Category:2005年重组乐队](https://zh.wikipedia.org/wiki/Category:2005年重组乐队 "wikilink") [Category:五人乐队](https://zh.wikipedia.org/wiki/Category:五人乐队 "wikilink") [Category:东京音乐组合](https://zh.wikipedia.org/wiki/Category:东京音乐组合 "wikilink") [Category:1981年日本建立](https://zh.wikipedia.org/wiki/Category:1981年日本建立 "wikilink")
+[Category:日本重金屬樂團](https://zh.wikipedia.org/wiki/Category:日本重金屬樂團 "wikilink") [Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本华丽金属乐队](https://zh.wikipedia.org/wiki/Category:日本华丽金属乐队 "wikilink") [Category:全女子乐队](https://zh.wikipedia.org/wiki/Category:全女子乐队 "wikilink") [Category:1981年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1981年成立的音樂團體 "wikilink") [Category:1998年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1998年解散的音樂團體 "wikilink") [Category:2005年重组乐队](https://zh.wikipedia.org/wiki/Category:2005年重组乐队 "wikilink") [Category:五人乐队](https://zh.wikipedia.org/wiki/Category:五人乐队 "wikilink") [Category:东京音乐组合](https://zh.wikipedia.org/wiki/Category:东京音乐组合 "wikilink") [Category:1981年日本建立](https://zh.wikipedia.org/wiki/Category:1981年日本建立 "wikilink")

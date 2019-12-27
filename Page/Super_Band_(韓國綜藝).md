@@ -127,7 +127,7 @@
 </ul></td>
 <td><ul>
 <li><a href="../Page/茱莉亞學院.md" title="wikilink">茱莉亞學院</a>退學</li>
-<li>2014年以男團<a href="../Page/B.I.G.md" title="wikilink">B.I.G</a>員出道</li>
+<li>2014年以男團<a href="../Page/B.I.G.md" title="wikilink">B.I.G</a>成員出道</li>
 </ul></td>
 <td></td>
 </tr>
@@ -1435,8 +1435,6 @@ DPole（DJ製作人）</p></td>
   - 發行日期：2019年7月16日
   - 企劃公司：JTBC
   - 發行公司：Dreamus
-
-## 收視率
 
 ## 收視率
 

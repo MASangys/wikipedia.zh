@@ -12,7 +12,7 @@ Decenturion和公民之间的关系通过智能合约调节，注册用户激活
 
 ## 外部連接
 
-  - [Decenturion](https://decenturion.com/).官网.
+  - [Decenturion](https://web.archive.org/web/20181024152620/https://decenturion.com/).官网.
 
 ## 延伸阅读
 
@@ -23,8 +23,8 @@ Decenturion和公民之间的关系通过智能合约调节，注册用户激活
 
 1.  [Forbes](https://zh.wikipedia.org/wiki/Forbes "wikilink").[A Look Inside The World's Biggest Crypto Conference](https://www.forbes.com/sites/kenrapoza/2018/05/16/the-crypto-gold-rush/).May 16, 2018.
 2.  [Mashable](../Page/Mashable.md "wikilink").[Mysterious blockchain-based state leaves serious questions unanswered](https://mashable.com/2018/05/15/decenturion-blockchain-based-state).May 15, 2018.
-3.  inewsico.ru.[A new model of democracy: as the world's first block-state Decenturion will bring income to its citizens](https://inewsico.ru/en/novaia-model-demokratii-kak-pervoe-v-mire-blokchein-gosydarstvo-decenturion-bydet-prinosit-dohod-svoim-grajdanam.html).May 19, 2018.
-4.  [Coinspeaker](https://zh.wikipedia.org/wiki/Coinspeaker "wikilink").[Blockchain Expert Nick Evdokimov Appointed Minister of Information of Decenturion](https://www.coinspeaker.com/2018/07/26/blockchain-expert-nick-evdokimov-appointed-minister-of-information-of-decenturion/).July 26, 2018.
+3.  inewsico.ru.[A new model of democracy: as the world's first block-state Decenturion will bring income to its citizens](https://inewsico.ru/en/novaia-model-demokratii-kak-pervoe-v-mire-blokchein-gosydarstvo-decenturion-bydet-prinosit-dohod-svoim-grajdanam.html) .May 19, 2018.
+4.  [Coinspeaker](https://zh.wikipedia.org/wiki/Coinspeaker "wikilink").[Blockchain Expert Nick Evdokimov Appointed Minister of Information of Decenturion](https://www.coinspeaker.com/2018/07/26/blockchain-expert-nick-evdokimov-appointed-minister-of-information-of-decenturion/) .July 26, 2018.
 5.  [Invest Foresight](https://zh.wikipedia.org/wiki/Invest_Foresight "wikilink").[Decenturion: A new state or a new financial bubble?](https://investforesight.com/decenturion-a-new-state-or-a-new-financial-bubble/).July 9, 2018.
 6.  [Cryptovest](https://zh.wikipedia.org/wiki/Cryptovest "wikilink").[Soviet Land Set to Lure Nostalgic Citizens with Dubious Benefits and Centralized Blockchain](https://cryptovest.com/news/soviet-land-set-to-lure-nostalgic-citizens-with-dubious-benefits-and-centralized-blockchain/) August 2, 2018.
 7.  [JTBC](../Page/JTBC.md "wikilink").[스타트업 발전 위한 국가 'Decenturion' 선보여](http://news.jtbc.joins.com/article/article.aspx?news_id=NB11638397).May 21, 2018.

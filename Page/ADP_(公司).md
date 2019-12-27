@@ -11,6 +11,8 @@
   -
   -
   -
+[Category:標準普爾500指數成分股](https://zh.wikipedia.org/wiki/Category:標準普爾500指數成分股 "wikilink")
+
 [Category:ADP_(公司)](https://zh.wikipedia.org/wiki/Category:ADP_\(公司\) "wikilink") [Category:美国服务公司](https://zh.wikipedia.org/wiki/Category:美国服务公司 "wikilink") [Category:1949年成立的公司](https://zh.wikipedia.org/wiki/Category:1949年成立的公司 "wikilink")
 
 1.

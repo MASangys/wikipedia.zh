@@ -11,45 +11,45 @@
 ### Drive Head 小隊
 
   -
-    配音員：[藤原夏海](../Page/藤原夏海.md "wikilink")（日本）；[楊詩穎](../Page/楊詩穎.md "wikilink")\[1\]（台灣）
-    本作主角，Drive Head 一號音速攔截、Drive Head 一號-{A|zh-tw:馬克二號;zh-hans:MKII;}-疾速旋風攔截的駕駛員。
+    配音員：[藤原夏海](../Page/藤原夏海.md "wikilink")（日本）；[黃尉斯](../Page/黃尉斯.md "wikilink")（香港）；[楊詩穎](../Page/楊詩穎.md "wikilink")\[1\]（台灣）
+    本作主角，Drive Head 一號音速攔截、Drive Head 一號MKII疾速旋風攔截的駕駛員。
   -
-    配音員：[國立幸](../Page/國立幸.md "wikilink")（日本）；[連思宇](../Page/連思宇.md "wikilink")\[2\]（台灣）
-    Drive Head 二號烈焰克星、Drive Head 二號MKII勇氣烈焰克星、Drive Head 二號-{A|zh-tw:馬克三號;zh-hans:MKIII;}-大師烈焰克星（暫譯）的駕駛員。
+    配音員：[國立幸](../Page/國立幸.md "wikilink")（日本）；（香港）；[連思宇](../Page/連思宇.md "wikilink")\[2\]（台灣）
+    Drive Head 二號烈焰克星、Drive Head 二號MKII勇氣烈焰克星、Drive Head 二號MKIII大師烈焰克星（暫譯）的駕駛員。
   -
-    配音員：[三澤紗千香](../Page/三澤紗千香.md "wikilink")（日本）；[張乃文](../Page/張乃文_\(配音員\).md "wikilink")\[3\]（台灣）
+    配音員：[三澤紗千香](../Page/三澤紗千香.md "wikilink")（日本）；（香港）；[張乃文](../Page/張乃文_\(配音員\).md "wikilink")\[3\]（台灣）
     Drive Head 三號白色希望、Drive Head 三號MKII白色水晶希望的駕駛員之一。於《DRIVE HEAD 2018》第6話起駕駛Drive Head 三號MKII白色珍珠希望。
   -
-    配音員：[真堂圭](../Page/真堂圭.md "wikilink")（日本）；[穆宣名](../Page/穆宣名.md "wikilink")\[4\]（台灣）
+    配音員：[真堂圭](../Page/真堂圭.md "wikilink")（日本）；（香港）；[穆宣名](../Page/穆宣名.md "wikilink")\[4\]（台灣）
     美琴的雙胞胎弟弟，Drive Head 三號白色希望、Drive Head 三號MKII白色水晶希望的駕駛員之一。
 
 ### 機動救急警察關係者
 
   -
-    配音員：[浜田賢二](https://zh.wikipedia.org/wiki/浜田賢二 "wikilink")（日本）；[梁興昌](../Page/梁興昌.md "wikilink")\[5\]（台灣）
+    配音員：[浜田賢二](https://zh.wikipedia.org/wiki/浜田賢二 "wikilink")（日本）；（香港）；[梁興昌](../Page/梁興昌.md "wikilink")\[5\]（台灣）
     小轟的爸爸，機動救急警察的技術部長。
   -
-    配音員：[松田健一郎](https://zh.wikipedia.org/wiki/松田健一郎 "wikilink")（日本）；[何志威](../Page/何志威.md "wikilink")\[6\]（台灣）
+    配音員：[松田健一郎](https://zh.wikipedia.org/wiki/松田健一郎 "wikilink")（日本）；（香港）；[何志威](../Page/何志威.md "wikilink")\[6\]（台灣）
     大海的叔叔，機動救急警察的司令官。
   -
-    配音員：[幸田夏穗](../Page/幸田夏穗.md "wikilink")（日本）；（台灣）
+    配音員：[幸田夏穗](../Page/幸田夏穗.md "wikilink")（日本）；（香港）；（台灣）
     Drive Head 小隊的隊長，運輸車的駕駛員之一。
   -
-    配音員：[小清水亞美](../Page/小清水亞美.md "wikilink")（日本）；（台灣）
+    配音員：[小清水亞美](../Page/小清水亞美.md "wikilink")（日本）；（香港）；（台灣）
     機動救急警察基地的操作員之一。
   -
-    配音員：[內藤有海](../Page/內藤有海.md "wikilink")（日本）；（台灣）
+    配音員：[內藤有海](../Page/內藤有海.md "wikilink")（日本）；（香港）；（台灣）
     機動救急警察基地的操作員之一。
   -
-    配音員：[間島淳司](../Page/間島淳司.md "wikilink")（日本）；（台灣）
+    配音員：[間島淳司](../Page/間島淳司.md "wikilink")（日本）；[張振熙](../Page/張振熙.md "wikilink")（香港）；（台灣）
     機動救急警察的維修人員。
   -
-    配音員：[金光宣明](../Page/金光宣明.md "wikilink")（日本）；（台灣）
+    配音員：[金光宣明](../Page/金光宣明.md "wikilink")（日本）；（香港）；（台灣）
     機動救急警察基地的維修人員。
   -
-    配音員：[青山穰](../Page/青山穰.md "wikilink")（日本）；（台灣）
+    配音員：[青山穰](../Page/青山穰.md "wikilink")（日本）；（香港）；（台灣）
   -
-    配音員：[稻葉實](../Page/稻葉實.md "wikilink")（日本）；[周學禮](https://zh.wikipedia.org/wiki/周學禮 "wikilink")\[7\]（台灣）
+    配音員：[稻葉實](../Page/稻葉實.md "wikilink")（日本）；[周學禮](https://zh.wikipedia.org/wiki/周學禮 "wikilink")\[7\]（香港）；（台灣）
     小轟的爺爺，Drive Head 控制器的開發者，已故。
   -
     配音員：無
@@ -66,7 +66,7 @@
 #### 特別機動隊
 
   -
-    配音員：[水島大宙](../Page/水島大宙.md "wikilink")（日本）；[喬資淯](https://zh.wikipedia.org/wiki/喬資淯 "wikilink")\[8\]（台灣）
+    配音員：[水島大宙](../Page/水島大宙.md "wikilink")（日本）；（香港）；[喬資淯](https://zh.wikipedia.org/wiki/喬資淯 "wikilink")\[8\]（台灣）
     特別機動隊的隊長，Drive Head 零號終極音速攔截、Drive Head 零號MKII終極旋風攔截的駕駛員。
 
 ### 鷹富小學
@@ -74,84 +74,84 @@
 #### 5年1班
 
   -
-    配音員：[岩井映美里](../Page/岩井映美里.md "wikilink")（日本）；（台灣）
+    配音員：[岩井映美里](../Page/岩井映美里.md "wikilink")（日本）；（香港）；（台灣）
     小轟的同班同學。
   -
-    配音員：[大井麻利衣](../Page/大井麻利衣.md "wikilink")（日本）；（台灣）
+    配音員：[大井麻利衣](../Page/大井麻利衣.md "wikilink")（日本）；（香港）；（台灣）
     小轟的同班同學。
   -
-    配音員：[富樫美鈴](../Page/富樫美鈴.md "wikilink")（日本）；（台灣）
+    配音員：[富樫美鈴](../Page/富樫美鈴.md "wikilink")（日本）；（香港）；（台灣）
     小轟的同班同學。
   -
-    配音員：[南早紀](../Page/南早紀.md "wikilink")（日本）；（台灣）
+    配音員：[南早紀](../Page/南早紀.md "wikilink")（日本）；（香港）；（台灣）
     小轟的同班同學。
   -
-    配音員：[內藤有海](../Page/內藤有海.md "wikilink")（日本）；（台灣）
+    配音員：[內藤有海](../Page/內藤有海.md "wikilink")（日本）；（香港）；（台灣）
     小轟的同班同學。
   -
-    配音員：[南早紀](../Page/南早紀.md "wikilink")（日本）；（台灣）
+    配音員：[南早紀](../Page/南早紀.md "wikilink")（日本）；（香港）；（台灣）
     小轟的同班同學。
   -
-    配音員：[本泉莉奈](../Page/本泉莉奈.md "wikilink")（日本）；（台灣）
+    配音員：[本泉莉奈](../Page/本泉莉奈.md "wikilink")（日本）；（香港）；（台灣）
   -
-    配音員：[大井麻利衣](../Page/大井麻利衣.md "wikilink")（日本）；（台灣）
+    配音員：[大井麻利衣](../Page/大井麻利衣.md "wikilink")（日本）；（香港）；（台灣）
     小轟的班級導師。
 
 #### 5年3班
 
   -
-    配音員：[南早紀](../Page/南早紀.md "wikilink")（日本）；（台灣）
+    配音員：[南早紀](../Page/南早紀.md "wikilink")（日本）；（香港）；（台灣）
   -
-    配音員：[本泉莉奈](../Page/本泉莉奈.md "wikilink")（日本）；（台灣）
+    配音員：[本泉莉奈](../Page/本泉莉奈.md "wikilink")（日本）；（香港）；（台灣）
 
 ### 赤阪電視臺
 
   -
-    配音員：[笹川友理](https://zh.wikipedia.org/wiki/笹川友理 "wikilink")（日本）；（台灣）
+    配音員：[笹川友理](https://zh.wikipedia.org/wiki/笹川友理 "wikilink")（日本）；（香港）；（台灣）
     赤阪電視臺的報導主播。
   -
-    配音員：[宇內梨沙](https://zh.wikipedia.org/wiki/宇內梨沙 "wikilink")（日本）；（台灣）
+    配音員：[宇內梨沙](https://zh.wikipedia.org/wiki/宇內梨沙 "wikilink")（日本）；（香港）；（台灣）
 
 ### 其他
 
   -
-    配音員：[田中愛美](https://zh.wikipedia.org/wiki/田中愛美 "wikilink")（日本）；（台灣）
+    配音員：[田中愛美](https://zh.wikipedia.org/wiki/田中愛美 "wikilink")（日本）；（香港）；（台灣）
   -
-    配音員：[豐口惠](../Page/豐口惠.md "wikilink")（日本）；（台灣）
+    配音員：[豐口惠](../Page/豐口惠.md "wikilink")（日本）；（香港）；（台灣）
     小轟的媽媽。
   -
-    配音員：[大泊貴揮](https://zh.wikipedia.org/wiki/大泊貴揮 "wikilink")（日本）；（台灣）
+    配音員：[大泊貴揮](https://zh.wikipedia.org/wiki/大泊貴揮 "wikilink")（日本）；（香港）；（台灣）
   -
-    配音員：[伊東美彌子](../Page/伊東美彌子.md "wikilink")（日本）；（台灣）
+    配音員：[伊東美彌子](../Page/伊東美彌子.md "wikilink")（日本）；（香港）；（台灣）
 
 ### 敵人
 
 #### 刈狩博士與其下屬
 
   -
-    配音員：[石井康嗣](../Page/石井康嗣.md "wikilink")（日本）；（台灣）
+    配音員：[石井康嗣](../Page/石井康嗣.md "wikilink")（日本）；（香港）；（台灣）
   -
-    配音員：斎藤司（日本）；（台灣）
+    配音員：斎藤司（日本）；（香港）；（台灣）
   -
-    配音員：須藤敬志（日本）；（台灣）
+    配音員：須藤敬志（日本）；（香港）；（台灣）
 
 #### 邪惡Al與其下屬
 
   - /
     配音員：無
   -
-    配音員：[井上麻里奈](../Page/井上麻里奈.md "wikilink")（日本）；（台灣）
+    配音員：[井上麻里奈](../Page/井上麻里奈.md "wikilink")（日本）；（香港）；（台灣）
   -
-    配音員：[愛河里花子](../Page/愛河里花子.md "wikilink")（日本）；（台灣）
+    配音員：[愛河里花子](../Page/愛河里花子.md "wikilink")（日本）；（香港）；（台灣）
   -
-    配音員：[長谷德人](https://zh.wikipedia.org/wiki/長谷德人 "wikilink")（日本）；（台灣）
+    配音員：[長谷德人](https://zh.wikipedia.org/wiki/長谷德人 "wikilink")（日本）；（香港）；（台灣）
   - /
-    配音員：[內田真禮](../Page/內田真禮.md "wikilink")、[伊藤健太郎](../Page/伊藤健太郎_\(演員\).md "wikilink")（日本）；（台灣）
+    配音員：[內田真禮](../Page/內田真禮.md "wikilink")、[伊藤健太郎](../Page/伊藤健太郎_\(演員\).md "wikilink")（日本）；（香港）；（台灣）
 
 ### 客串角色
 
   -
-    配音員：[佐倉綾音](https://zh.wikipedia.org/wiki/佐倉綾音 "wikilink")（日本）；（台灣）
+    配音員：[佐倉綾音](https://zh.wikipedia.org/wiki/佐倉綾音 "wikilink")（日本）
     動畫《[新幹線變形機器人](../Page/新幹線戰士.md "wikilink")》主角，在劇場版中客串。
 
 ## 登場載具

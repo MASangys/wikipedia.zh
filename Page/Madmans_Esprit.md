@@ -151,7 +151,7 @@ Senyt、Eun Chae和Confyverse在2018年至2019年5月18日期間擔任Madmans Es
 
 ### 音樂風格
 
-樂團稱其音樂風格為厭世自殺黑化流行樂（Depressive Suicidal Blackened Pop）。日本權威重金屬雜誌 Burrn！發表的公演報告中\[27\]便提到，[Madmans Esprit有很多涉及自殺和抑鬱等深切問題的歌曲](https://zh.wikipedia.org/wiki/Madmans_Esprit "wikilink")，觀眾們絕非抱著輕鬆的心情來看演唱會，而是為了追尋一種「救贖」而來的。
+樂團稱其音樂風格為厭世自殺黑化流行樂（Depressive Suicidal Blackened Pop）。日本權威重金屬雜誌 Burrn！發表的公演報告中\[27\]便提到，[Madmans Esprit有很多涉及自殺和抑鬱等深切問題的歌曲](../Page/Madmans_Esprit.md "wikilink")，觀眾們絕非抱著輕鬆的心情來看演唱會，而是為了追尋一種「救贖」而來的。
 
 樂團成立初期，音樂及造型更為偏向[黑金屬](../Page/黑金屬音樂.md "wikilink")。但隨著第二張正規專輯《Conscientization of Unconsciousness》的發行，樂團無論在音樂上、視覺及造型方面都經歷了一定程度的蛻變，揉合了[黑金屬音樂](../Page/黑金屬音樂.md "wikilink")多個子風格、[民謠與](https://zh.wikipedia.org/wiki/民謠 "wikilink")[古典音樂等元素](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")，以及視覺系的美學\[28\]。
 

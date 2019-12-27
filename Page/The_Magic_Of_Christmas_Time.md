@@ -57,29 +57,38 @@
 
 ## 演唱清單
 
-## 相關商品
+## 相關影音
 
-  - DVD
+《**TAEYEON Special Live: The Magic of Christmas Time**》是韓國女歌手[太妍](../Page/太妍.md "wikilink")的首張[現場專輯](../Page/現場專輯.md "wikilink")，由[SM娛樂](../Page/SM娛樂.md "wikilink")於2018年3月15日發行與製作。該影音作品收錄太妍於2017年12月22日至24日於韓國首爾慶熙大學和平殿堂舉辦的「[The Magic Of Christmas Time](../Page/The_Magic_Of_Christmas_Time.md "wikilink")」最終場演唱會的現場實錄。\[3\]\[4\]特別的是此次演唱會嘉賓為[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[徐玄](../Page/徐朱玄.md "wikilink")，是自2017年10月份未續約[SM娛樂](../Page/SM娛樂.md "wikilink")後再度與成員同台的舞台。\[5\]內容物包含兩片DVD、寫真72頁、花絮影片。臺灣版本於同年5月4日發行，臺灣版本多附贈一本筆記本。\[6\]
+
+### 曲目
+
+### 發行歷史
 
 <table>
 <thead>
 <tr class="header">
-<th><p>類別</p></th>
-<th><p>唱片資料</p></th>
-<th><p>收錄歌曲</p></th>
+<th><p>發行地區</p></th>
+<th><p>發行日期</p></th>
+<th><p>發行形式</p></th>
+<th><p>製作公司</p></th>
+<th><p>發行公司</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>DVD</p></td>
-<td><p>《TAEYEON Special Live: The Magic of Christmas Time》</p>
-<ul>
-<li>發行日期：2018年3月15日</li>
-<li>寫真書：72頁</li>
-<li>尺寸：160 x 208 mm</li>
-<li>播放時間：約165分鐘</li>
-</ul></td>
 <td></td>
+<td><p>2018年3月15日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/影音光碟" title="wikilink">DVD</a></p></td>
+<td><p><a href="../Page/SM娛樂.md" title="wikilink">SM娛樂</a></p></td>
+<td><p><a href="../Page/SM娛樂.md" title="wikilink">SM娛樂</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>2018年5月4日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/影音光碟" title="wikilink">DVD</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Universal" title="wikilink">Universal</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Universal" title="wikilink">Universal</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -90,7 +99,7 @@
 
 <!-- end list -->
 
-  - [太妍](../Page/太妍.md "wikilink")[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")
+  - [太妍](../Page/太妍.md "wikilink")、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")
 
 <!-- end list -->
 
@@ -122,3 +131,7 @@
 
 1.
 2.
+3.
+4.
+5.
+6.  [台壓版本](https://www.5music.com.tw/CDList-C.asp?cdno=439415678892)

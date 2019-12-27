@@ -2,9 +2,11 @@
 
 ## 概要
 
-[SM娛樂](../Page/SM娛樂.md "wikilink")2018年4月6日宣佈[太妍將從](https://zh.wikipedia.org/wiki/金太妍 "wikilink")2018年6月開始在日本的福岡、名古屋、東京與大阪四個城市舉行個人巡迴 showcase**《TEAYEON-JAPAN SHOWCASE TOUR 2018》**。\[1\]此次巡迴門票，會與收錄太妍日本新曲**《Stay》**、**《I’m The Greatest》**與新面貌的CD構成特別套裝。並在SHOW CASE首唱日本新歌與搶先收看**《Stay》**MV。\[2\]
+[SM娛樂](../Page/SM娛樂.md "wikilink")2018年4月6日宣佈[太妍將從](https://zh.wikipedia.org/wiki/金太妍 "wikilink")2018年6月開始在日本的福岡、名古屋、東京與大阪四個城市舉行個人巡迴 showcase**《TEAYEON-JAPAN SHOWCASE TOUR 2018》**。\[1\]
 
-太妍首張日文迷你專輯[VOICE限定盤A](../Page/VOICE_\(太妍迷你專輯\).md "wikilink")，收錄此次SHOW CASE完整版。
+觀眾入場時附贈日文出道單曲《Stay》、《I’m The Greatest》作為宣傳，並在此次SHOW CASE中首次演唱新歌與搶先收看《Stay》MV。\[2\]
+
+太妍首張日文迷你專輯《[VOICE](../Page/VOICE_\(太妍迷你專輯\).md "wikilink")》限定盤A，收錄此次SHOW CASE演出片段。
 
 ## 演出時間表
 

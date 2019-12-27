@@ -1,4 +1,10 @@
-《**全民造星II**》（英語：King Maker II）是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的大型選秀節目，是《[Good Night Show 全民造星](https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星 "wikilink")》的第二季。比賽由2019年9月30日至12月6日於[ViuTV](../Page/ViuTV.md "wikilink")播出，並於12月15日在[將軍澳](../Page/將軍澳.md "wikilink")[邵氏影城進行總決賽](https://zh.wikipedia.org/wiki/邵氏影城 "wikilink")\[1\]\[2\]\[3\]。
+《**全民造星II**》（英語：King Maker II）是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的大型選秀節目，是《[Good Night Show 全民造星](https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星 "wikilink")》的第二季。比賽由2019年9月30日至12月6日於[ViuTV](../Page/ViuTV.md "wikilink")播出，而《全民造星II總決賽》（英語：King Maker II Final Competition）於12月15日在[將軍澳](../Page/將軍澳.md "wikilink")[邵氏影城進行總決賽舉行](https://zh.wikipedia.org/wiki/邵氏影城 "wikilink")，ViuTV現場直播，總決賽結束後緊接播出《造星彩蛋II》（英語：King Maker II Final Competition After Show）\[1\]\[2\]\[3\]。
+
+最終[吳啟洋](https://zh.wikipedia.org/wiki/吳啟洋 "wikilink")（Phoebus）奪得冠軍，而亞軍和季軍分別由[張天賦](https://zh.wikipedia.org/wiki/張天賦 "wikilink")（MC）和[李祉均](https://zh.wikipedia.org/wiki/李祉均 "wikilink")（Oscar Li）奪得。
+
+## 簡介
+
+由於《[Good Night Show 全民造星](https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星 "wikilink")》反應熱烈，故此[ViuTV](../Page/ViuTV.md "wikilink")開拍第二季節目，本季99位男生仍然接受不同類型歌舞比試，票選汰弱留強，最終誕生一位終極偶像，個人獨得名車一部，成就造星傳奇。
 
 ## 每集內容
 
@@ -2492,33 +2498,20 @@
 </tbody>
 </table>
 
-#### 爭奪專業大奬（第45－集）
+#### 爭奪專業大奬（第45－46集）
 
-  - 星級評判團：
-  - <small>**粗體為勝出隊伍**</small>
+  - 星級評判團： [王貽興](../Page/王貽興.md "wikilink")、[林二汶](https://zh.wikipedia.org/wiki/林二汶 "wikilink")、[彭秀慧](../Page/彭秀慧.md "wikilink")、[余迪偉](../Page/余迪偉.md "wikilink")、[黃正宜](https://zh.wikipedia.org/wiki/黃正宜 "wikilink")（阿正）
+  - <small>**粗體為勝出參賽者**</small>
   - <small>'''本輪比賽後所有MIRROR成員將完成比賽，並會自動退賽，10個總決賽名額會全數落在造星II參賽者身上</small>
-
-<table>
-<thead>
-<tr class="header">
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>編號</p></td>
-</tr>
-<tr class="even">
-<td></td>
-</tr>
-</tbody>
-</table>
-
-#### 終極10強產生（第－集）
 
 規則：
 
-1.  上一輪比賽之後所有MIRROR成員將會自動退賽，剩餘晉級名額由其他造星II參賽者以復活賽形式作為後補，成為終極10強進入總決賽。
+1.  此輪參賽者須準備一項自選表演。
+2.  星級評判團就每項表演評分，最高分的一位參賽者將可以得到專業大奬冠軍。
+
+備註：
+
+  - 24號[曾比特](https://zh.wikipedia.org/wiki/曾比特 "wikilink")（Mike）、28號[張天賦](https://zh.wikipedia.org/wiki/張天賦 "wikilink")（MC）、29號[梁德忠](https://zh.wikipedia.org/wiki/梁德忠 "wikilink")（Tank）及95號[陳樂](https://zh.wikipedia.org/wiki/陳樂 "wikilink")（Justin）率先晉級終極10強。
 
 <table>
 <thead>
@@ -2531,24 +2524,466 @@
 <td><p>編號</p></td>
 </tr>
 <tr class="even">
+<td><p>24</p></td>
+</tr>
+<tr class="odd">
+<td><p>28</p></td>
+</tr>
+<tr class="even">
+<td><p>29</p></td>
+</tr>
+<tr class="odd">
+<td><p>95</p></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 </tr>
 </tbody>
 </table>
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>第45集至第46集</p></td>
+</tr>
+<tr class="even">
+<td><p>自選項目</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://www.youtube.com/watch?v=b1b1TyYTKmo">Flying Without Wings</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://www.youtube.com/watch?v=fuQfl-ySvj8">直到我遇見了你</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://www.youtube.com/watch?v=ErEtlkpg7QE">Uptown Funk</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://www.youtube.com/watch?v=WzQGM1jIOuw">影子舞</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://www.youtube.com/watch?v=tX6OQR87KsA">If I Ain’t Got You</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://www.youtube.com/watch?v=ZMGraKVgjoY">夠了</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://www.youtube.com/watch?v=X0dfLXcSQZ4">到此為止</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://www.youtube.com/watch?v=M5IS15ri5ME">超級冠軍 ＋ No Joke</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://www.youtube.com/watch?v=IvIsIIgWFBY">咆哮</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://www.youtube.com/watch?v=bnHDHBIjyLM">眼色</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 終極10強產生（第47－49集）
+
+  - 星級評判團： [王貽興](../Page/王貽興.md "wikilink")、[林二汶](https://zh.wikipedia.org/wiki/林二汶 "wikilink")、[彭秀慧](../Page/彭秀慧.md "wikilink")、[余迪偉](../Page/余迪偉.md "wikilink")、[黃正宜](https://zh.wikipedia.org/wiki/黃正宜 "wikilink")（阿正）
+  - <small>**粗體為勝出參賽者**</small>
+
+規則：
+
+1.  上一輪比賽之後所有MIRROR成員將會自動退賽，六個剩餘晉級名額由在第六輪比賽未能晉級的17位造星II參賽者以復活賽形式作為後補，成為終極10強進入總決賽。
+2.  此輪參賽者須準備一項自選表演，而星級評判團在表演之前將接見各位參賽者以對他們作進一步了解。
+3.  星級評判團在表演之後將與三位星級導師商討，決定哪六位參賽者進入終極10強。
+
+備註：
+
+  - 最終14號[吳啟洋](https://zh.wikipedia.org/wiki/吳啟洋 "wikilink")（Phoebus）、20號[李祉均](https://zh.wikipedia.org/wiki/李祉均 "wikilink")（Oscar Li）、38號[范卓言](https://zh.wikipedia.org/wiki/范卓言 "wikilink")（JJ）、69號[阮頌揚](../Page/阮頌揚.md "wikilink")（Brian）、74號[歐鎮灝](https://zh.wikipedia.org/wiki/歐鎮灝 "wikilink")（George）及82號[丘凱雄](https://zh.wikipedia.org/wiki/丘凱雄 "wikilink")（Hugo）晉級終極10強。
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>編號</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+</tr>
+<tr class="even">
+<td><p>20</p></td>
+</tr>
+<tr class="odd">
+<td><p>23</p></td>
+</tr>
+<tr class="even">
+<td><p>35</p></td>
+</tr>
+<tr class="odd">
+<td><p>38</p></td>
+</tr>
+<tr class="even">
+<td><p>40</p></td>
+</tr>
+<tr class="odd">
+<td><p>48</p></td>
+</tr>
+<tr class="even">
+<td><p>61</p></td>
+</tr>
+<tr class="odd">
+<td><p>64</p></td>
+</tr>
+<tr class="even">
+<td><p>69</p></td>
+</tr>
+<tr class="odd">
+<td><p>72</p></td>
+</tr>
+<tr class="even">
+<td><p>74</p></td>
+</tr>
+<tr class="odd">
+<td><p>75</p></td>
+</tr>
+<tr class="even">
+<td><p>82</p></td>
+</tr>
+<tr class="odd">
+<td><p>86</p></td>
+</tr>
+<tr class="even">
+<td><p>97</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>第47集至第49集</p></td>
+</tr>
+<tr class="even">
+<td><p>自選項目</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://www.youtube.com/watch?v=s36E0WWOri0">畫意</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://www.youtube.com/watch?v=APcfLYM8QUQ">玩樂</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://www.youtube.com/watch?v=LKFXjV_wrGQ">Despacito</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://www.youtube.com/watch?v=btySp6HOLP8">Writing on the Wall</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://www.youtube.com/watch?v=u1L4_3dbfW0">開到荼靡</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://www.youtube.com/watch?v=sWoIMTbn14Y">Turn Up</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://www.youtube.com/watch?v=C3LnNkn-5b8">對話</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://www.youtube.com/watch?v=Gsgg0-QZe8c">Cell Block Tango</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://www.youtube.com/watch?v=PxYQE3PSRWo">Apologize</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://www.youtube.com/watch?v=H9yWYQcmbdE">王妃</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://www.youtube.com/watch?v=tGGKAVJg-no">愛情怎麼了嗎</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://www.youtube.com/watch?v=8QFWk0AJqqk">流行無罪</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://www.youtube.com/watch?v=ZPRy_Mzdow4">Fight Song</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://www.youtube.com/watch?v=zgCkyI8rX7M">Different Game</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://www.youtube.com/watch?v=agzbS8W56AE">可以唷</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://www.youtube.com/watch?v=yZQvBdR9l8Y">Moonlight</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://www.youtube.com/watch?v=_O6S8z-Kl5s">夠了</a></p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>編號</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+</tr>
+<tr class="odd">
+<td><p>20</p></td>
+</tr>
+<tr class="even">
+<td><p>24</p></td>
+</tr>
+<tr class="odd">
+<td><p>28</p></td>
+</tr>
+<tr class="even">
+<td><p>29</p></td>
+</tr>
+<tr class="odd">
+<td><p>38</p></td>
+</tr>
+<tr class="even">
+<td><p>69</p></td>
+</tr>
+<tr class="odd">
+<td><p>74</p></td>
+</tr>
+<tr class="even">
+<td><p>82</p></td>
+</tr>
+<tr class="odd">
+<td><p>95</p></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 總決賽
+
+**《全民造星II總決賽》**（英語：King Maker II Final Competition）於2019年12月15日晚上在[將軍澳](../Page/將軍澳.md "wikilink")[邵氏影城舉行](https://zh.wikipedia.org/wiki/邵氏影城 "wikilink")，ViuTV現場直播，由[強尼擔任司儀](../Page/許博文.md "wikilink")，表演嘉賓包括[MIRROR及B](https://zh.wikipedia.org/wiki/MIRROR "wikilink")3組成員。
+
+每名選手準備兩項自選表演，最終結果由專業評審及全民投票各佔一半決定。今屆將採用全新計分方法，先分別以專業評審及全民投票排名，換算為第一名10分、第二名9分，如此類推，再將兩類別分數合計，得出最終結果。若出現同分，則以全民投票票數較高者取得較高排名。
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>評判名稱</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/霍汶希.md" title="wikilink">霍汶希</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/謝安琪.md" title="wikilink">謝安琪</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/林珊珊.md" title="wikilink">林珊珊</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/魯庭暉.md" title="wikilink">魯庭暉</a></p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>編號</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+</tr>
+<tr class="odd">
+<td><p>20</p></td>
+</tr>
+<tr class="even">
+<td><p>24</p></td>
+</tr>
+<tr class="odd">
+<td><p>28</p></td>
+</tr>
+<tr class="even">
+<td><p>29</p></td>
+</tr>
+<tr class="odd">
+<td><p>38</p></td>
+</tr>
+<tr class="even">
+<td><p>69</p></td>
+</tr>
+<tr class="odd">
+<td><p>74</p></td>
+</tr>
+<tr class="even">
+<td><p>82</p></td>
+</tr>
+<tr class="odd">
+<td><p>95</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>編號</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+</tr>
+<tr class="odd">
+<td><p>20</p></td>
+</tr>
+<tr class="even">
+<td><p>24</p></td>
+</tr>
+<tr class="odd">
+<td><p>28</p></td>
+</tr>
+<tr class="even">
+<td><p>29</p></td>
+</tr>
+<tr class="odd">
+<td><p>38</p></td>
+</tr>
+<tr class="even">
+<td><p>69</p></td>
+</tr>
+<tr class="odd">
+<td><p>74</p></td>
+</tr>
+<tr class="even">
+<td><p>82</p></td>
+</tr>
+<tr class="odd">
+<td><p>95</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>編號</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+</tr>
+<tr class="odd">
+<td><p>28</p></td>
+</tr>
+<tr class="even">
+<td><p>20</p></td>
+</tr>
+<tr class="odd">
+<td><p>74</p></td>
+</tr>
+<tr class="even">
+<td><p>95</p></td>
+</tr>
+<tr class="odd">
+<td><p>38</p></td>
+</tr>
+<tr class="even">
+<td><p>82</p></td>
+</tr>
+<tr class="odd">
+<td><p>24</p></td>
+</tr>
+<tr class="even">
+<td><p>29</p></td>
+</tr>
+<tr class="odd">
+<td><p>69</p></td>
+</tr>
+</tbody>
+</table>
+
+## 造星彩蛋II
+
+**《造星彩蛋II》**（英語：King Maker II Final Competition After Show）緊接《全民造星II總決賽》播出，主持為[ERROR兩位成員](../Page/ERROR_\(組合\).md "wikilink")[梁業及](https://zh.wikipedia.org/wiki/梁業 "wikilink")[何啟華](../Page/何啟華.md "wikilink")。節目分為兩節，第一節播出冠軍14號Phoebus由第一集到總決賽的表演精華片段，之後找來十強成員出場及由冠軍14號Phoebus及其家人、亞軍28號MC、季軍20號Oscar Li講得獎感受，第二節找來三位星級導師（火火、陳潔靈、Eric Kwok）及監製黃慧君（花姐）出場講感受。
 
 ## 爭議
 
   - 23號方震揚（Rain P）在第二輪比賽中本來獲得三盞紅燈，需要進入復活區，但主持人強尼質疑他表演失準，所以火火決定按下藍燈，令他成功入圍。主持人為參賽者爭取藍燈被網民質疑節目有失公平，加上參賽者是ViuTV 助理編導（PA）被指造馬。\[6\]
+
+## 記事
+
+  - Hugo和四位落選參賽者Angus、Heartgrey、Jerry和繼文在十強總決賽中演唱《山下見》，當中歌詞如「一個族群被化淡一隻又一隻被打破嘅雞蛋」、「四面八方素未謀面嘅手中攀上一座山寐」、「時代力量會不會成功團結一心不要忘記初衷，令觀眾聯想起半年來的逆權運動。在歌曲完結後，Hugo説出「rest in peace」，而當天正是[反送中抗爭者](https://zh.wikipedia.org/wiki/反送中 "wikilink")[梁凌杰](../Page/梁凌杰.md "wikilink")去世半週年。網民對Hugo的演出大讚，並表示要轉投Hugo。\[7\]
+
+<!-- end list -->
+
+  - 而JJ和邊疆兄弟演出的《邊Gang》，亦有藏頭詩，「五大數求，決一畢可」和香港[反送中運動口號](https://zh.wikipedia.org/wiki/反送中運動 "wikilink")「[五大訴求，決一不可](https://zh.wikipedia.org/wiki/五大訴求，決一不可 "wikilink")」同音，JJ表現時身後的螢幕以較大字體展出「五大數求，決一畢可」。\[8\]
 
 ## 參考資料
 
 ## 外部連結
 
   - [ViuTV：全民造星II](https://viu.tv/encore/king-maker-ii)
+  - [ViuTV：全民造星II總決賽](https://viu.tv/encore/king-maker-ii-final-competition)
+  - [ViuTV：造星彩蛋II](https://viu.tv/encore/king-maker-ii-final-competition-after-show)
 
 ## 節目變遷
 
-[Category:2019年ViuTV節目](https://zh.wikipedia.org/wiki/Category:2019年ViuTV節目 "wikilink") [Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink") [Category:香港綜藝節目](https://zh.wikipedia.org/wiki/Category:香港綜藝節目 "wikilink") [Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink") [Category:中国音乐比赛](https://zh.wikipedia.org/wiki/Category:中国音乐比赛 "wikilink") [Category:2019年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2019年香港電視娛樂節目 "wikilink") [Category:全民造星參賽者](https://zh.wikipedia.org/wiki/Category:全民造星參賽者 "wikilink")
+[Category:2019年ViuTV節目](https://zh.wikipedia.org/wiki/Category:2019年ViuTV節目 "wikilink") [Category:香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目 "wikilink") [Category:香港綜藝節目](https://zh.wikipedia.org/wiki/Category:香港綜藝節目 "wikilink") [Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink") [Category:香港音乐比赛](https://zh.wikipedia.org/wiki/Category:香港音乐比赛 "wikilink") [Category:2019年香港電視娛樂節目](https://zh.wikipedia.org/wiki/Category:2019年香港電視娛樂節目 "wikilink") [Category:全民造星參賽者](https://zh.wikipedia.org/wiki/Category:全民造星參賽者 "wikilink")
 
 1.  [《全民造星II》嚟喇！劉美君變硬唔再濕](https://hk.on.cc/hk/bkn/cnt/entertainment/20190501/bkn-20190501181111608-0501_00862_001.html)，on.cc東網，2019-05-01
 2.  [【全民造星II】決賽或對撼無綫頒獎禮 花姐：唔知公司有冇咁諗！](https://www.hk01.com/即時娛樂/333578/%E5%85%A8%E6%B0%91%E9%80%A0%E6%98%9Fii-%E6%B1%BA%E8%B3%BD%E6%88%96%E5%B0%8D%E6%92%BC%E7%84%A1%E7%B6%AB%E9%A0%92%E7%8D%8E%E7%A6%AE-%E8%8A%B1%E5%A7%90-%E5%94%94%E7%9F%A5%E5%85%AC%E5%8F%B8%E6%9C%89%E5%86%87%E5%92%81%E8%AB%97)，香港01，2019-05-29
@@ -2556,3 +2991,5 @@
 4.  [《全民造星II》Eye Catching Idol選舉](https://www.facebook.com/pg/ViuTV.hk/photos/?tab=album&album_id=2250203885235020&ref=page_internal)
 5.  [【全民造星II】花姐認向Lokman打眼色留Tiger　節目安排劣評如潮](https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/397532/%E5%85%A8%E6%B0%91%E9%80%A0%E6%98%9Fii-%E8%8A%B1%E5%A7%90%E8%AA%8D%E5%90%91lokman%E6%89%93%E7%9C%BC%E8%89%B2%E7%95%99tiger-%E7%AF%80%E7%9B%AE%E5%AE%89%E6%8E%92%E5%8A%A3%E8%A9%95%E5%A6%82%E6%BD%AE)，香港01，2019-11-12
 6.  [【全民造星II】主持強尼明幫自己人勁不公？　網民批：全民造馬！](https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/388122/%E5%85%A8%E6%B0%91%E9%80%A0%E6%98%9Fii-%E4%B8%BB%E6%8C%81%E5%BC%B7%E5%B0%BC%E6%98%8E%E5%B9%AB%E8%87%AA%E5%B7%B1%E4%BA%BA%E5%8B%81%E4%B8%8D%E5%85%AC-%E7%B6%B2%E6%B0%91%E6%89%B9-%E5%85%A8%E6%B0%91%E9%80%A0%E9%A6%AC)，香港01，2019-10-19
+7.
+8.   即時新聞 {{\!}} 20191219 {{\!}} 【都係冇字幕】《造星II》JJ藏頭詩唱出「五大訴求」 呃埋Mani都讚好|url=[https://hka1news.com/share1022950|accessdate=2019-12-20|work=HkA1News.com|language=en](https://hka1news.com/share1022950%7Caccessdate=2019-12-20%7Cwork=HkA1News.com%7Clanguage=en)}}

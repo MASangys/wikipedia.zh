@@ -38,7 +38,7 @@
 
 ## 評價
 
-thebiaslist給予〈Feel Special〉8.75分，評論員NICK擔心這又是一首追尋[熱帶浩室](https://zh.wikipedia.org/wiki/熱帶浩室 "wikilink")（Tropical house）曲風的流行音樂，但歌曲採用的和強大的合唱，讓他對歌曲印象深刻\[22\]，《滾石印度》的Riddhi Chakraborty表示這次歌曲與Twice往常的不同，展現了更加成熟且複雜的聲音\[23\]。
+thebiaslist給予〈Feel Special〉8.75分，評論員NICK擔心這又是一首追尋[熱帶浩室](https://zh.wikipedia.org/wiki/熱帶浩室 "wikilink")（Tropical house）曲風的流行音樂，但歌曲採用的和強大的合唱，讓他對歌曲印象深刻\[22\]，《滾石印度》的Riddhi Chakraborty表示這次歌曲與TWICE往常的不同，展現了更加成熟且複雜的聲音\[23\]。
 
 《Young Post》在標題寫到專輯很好的融合[EDM](https://zh.wikipedia.org/wiki/EDM "wikilink")、[hip hop以及](https://zh.wikipedia.org/wiki/hip_hop "wikilink")90年代的音樂風格，稱讚〈Trick It〉不只是專輯內最引人注意的歌曲也是最好的K-pop\[24\]。
 

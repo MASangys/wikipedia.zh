@@ -503,7 +503,7 @@ TPRC-0201【通常盤】</p></td>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>'''GANG PARADE takes themselves higher</p></td>
-<td><p>'''[9]。同日、アルバムと同タイトルのワンマンライブを東京・<a href="https://zh.wikipedia.org/wiki/LIQUIDROOM" title="wikilink">恵比寿LIQUIDROOMにて開催</a>[10]</p></td>
+<td><p>'''[9]。同日、アルバムと同タイトルのワンマンライブを東京・<a href="../Page/LIQUIDROOM.md" title="wikilink">恵比寿LIQUIDROOMにて開催</a>[10]</p></td>
 <td><p>2017年11月21日</p></td>
 <td><p>CD</p></td>
 <td><p>TPRC-0187</p></td>

@@ -1,6 +1,8 @@
 **J-VILLAGE**（），是日本的一處體育設施，位於[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[濱通](../Page/濱通.md "wikilink")南部、[双葉郡](https://zh.wikipedia.org/wiki/双葉郡 "wikilink")[廣野町與](https://zh.wikipedia.org/wiki/廣野町 "wikilink")[楢葉町](https://zh.wikipedia.org/wiki/楢葉町 "wikilink")，在1997年啟用。此設施是日本足球界第一個也是最大規模的國家訓練中心。J-VILLAGE由[日本足球協會](../Page/日本足球協會.md "wikilink")、[日本職業足球聯盟](https://zh.wikipedia.org/wiki/日本職業足球聯盟 "wikilink")、福島縣政府以及[東京電力](../Page/東京電力.md "wikilink")共同出資成立的J-VILLAGE股份有限公司（）負責營運管理\[1\]。
 
-2011年3月發生[福島第一核電廠事故後](https://zh.wikipedia.org/wiki/福島第一核電廠事故 "wikilink")，離該電廠直線距離僅20公里的J-VILLAGE被日本政府用作事故處理對應據點\[2\]\[3\]，因此於同年3月15日到2013年6月30日全面關閉、停止足球訓練用途。因日本將主辦[2020年奧運及](https://zh.wikipedia.org/wiki/2020年奧運 "wikilink")[帕運](../Page/2020年夏季帕拉林匹克運動會.md "wikilink")，以東京電力為主體的災後復興事業將恢復J-VILLAGE原本的體育訓練用途做為目標，以便於國家代表隊備戰奧運、帕運。2018年7月28日起部份重開，同年9月8日起啟用新的全天候練習場\[4\]，2019年4月20日起全面恢復營運\[5\]。
+2011年3月發生[福島第一核電廠事故後](https://zh.wikipedia.org/wiki/福島第一核電廠事故 "wikilink")，離該電廠直線距離僅20公里的J-VILLAGE被日本政府用作事故處理對應據點\[2\]\[3\]，因此於同年3月15日到2013年6月30日全面關閉、停止足球訓練用途。由於日本將主辦[2020年奧運及](https://zh.wikipedia.org/wiki/2020年奧運 "wikilink")[帕運](../Page/2020年夏季帕拉林匹克運動會.md "wikilink")，以東京電力為主體的災後復興事業將恢復J-VILLAGE原本的體育訓練用途做為目標，以便於國家代表隊備戰奧運、帕運。2018年7月28日起部份重開，同年9月8日起啟用新的全天候練習場\[4\]，2019年4月20日起全面恢復營運\[5\]。
+
+2019年12月17日，[第32屆夏季奧林匹克運動會的](https://zh.wikipedia.org/wiki/第32屆夏季奧林匹克運動會 "wikilink")[組織委員會正式決定以J](../Page/第32屆夏季奧林匹克運動會組織委員會.md "wikilink")-VILLAGE做為[奧運聖火](https://zh.wikipedia.org/wiki/奧運聖火 "wikilink")[傳遞活動在日本境內的起站](../Page/奧林匹克運動會火炬傳遞列表.md "wikilink")，聖火會在2020年3月26日從此地出發\[6\]。
 
 ## 另見
 
@@ -23,3 +25,4 @@
 3.
 4.  [国内初の全天候型練習場オープン Jヴィレッジで記念イベント](http://www.minyu-net.com/news/news/FM20180909-305302.php) 『[福島民友](https://zh.wikipedia.org/wiki/福島民友 "wikilink")』2018年9月9日（2018年9月14日閲覧）。
 5.
+6.

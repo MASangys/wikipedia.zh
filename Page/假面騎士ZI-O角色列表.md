@@ -4,7 +4,7 @@
 
 ### 本作假面騎士
 
-**\[1\]**（[奥野壯](https://zh.wikipedia.org/wiki/奥野壯 "wikilink")、[高橋琉晟](https://zh.wikipedia.org/wiki/高橋琉晟 "wikilink")（幼年期）飾，大陆配音：[李兰陵](https://zh.wikipedia.org/wiki/李兰陵 "wikilink")／台灣配音：[宋昱璁](../Page/宋昱璁.md "wikilink")（冬季電影版）、[蔣鐵城](../Page/蔣鐵城.md "wikilink")（夏季電影版） ）
+**\[1\]**（[奥野壯](../Page/奥野壯.md "wikilink")、[高橋琉晟](https://zh.wikipedia.org/wiki/高橋琉晟 "wikilink")（幼年期）飾／大陆配音：[李兰陵](https://zh.wikipedia.org/wiki/李兰陵 "wikilink")／台灣配音：[蔣鐵城](../Page/蔣鐵城.md "wikilink")（本篇、夏季電影版）、[宋昱璁](../Page/宋昱璁.md "wikilink")（冬季電影版） ）
 
   -
     **假面騎士ZI-O**、**逢魔時王**\[2\]的變身者，2000年4月28日生\[3\]，18歲至19歲。
@@ -33,7 +33,7 @@
     本人有著天生的「脫離感」，即並不過度參與事件與人際交流，而是以近似旁觀者的態度觀察身邊人的個性和言行，并根據相關信息獨自一人制定計劃并實施\[20\]。
     名字由來是作者[石之森章太郎](../Page/石之森章太郎.md "wikilink")老師以前住過的公寓[常盤莊](../Page/常盤莊.md "wikilink")。
 
-****（飾，大陆配音：[刘明月](https://zh.wikipedia.org/wiki/刘明月 "wikilink")／台灣配音：[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")（冬、夏季電影版） ）
+****（飾／大陆配音：[刘明月](https://zh.wikipedia.org/wiki/刘明月 "wikilink")／台灣配音：[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")（本篇、所有電影版） ）
 
   -
     **假面騎士Geiz**的變身者，18歲至19歲。
@@ -60,7 +60,7 @@
     结尾在庄吾重启後的新世界復活成為了其同學及柔道部部员。
     在外传《假面骑士时王 NEXT TIME Geiz Majesty》中因未知原因恢复旧世界记忆，并获得与冠位时王力量同等的“Geiz Majesty”之力量。
 
-****（二飾，大陆配音：[皇贞季](../Page/皇贞季.md "wikilink") ）
+****（二飾／大陆配音：[皇贞季](../Page/皇贞季.md "wikilink") ）
 
   -
     **假面騎士Woz**的變身者。
@@ -74,7 +74,7 @@
     第46话和莊吾及黑沃茲串通，借助假面騎士Eternal的力量令困在另类世界的月津及一眾少年回來原來世界。最後在消失前想道出斯瓦魯茲的真正目的時被斯瓦魯茲所阻止。
     在外传《假面骑士时王 NEXT TIME Geiz Majesty》中，在庄吾重启的新世界中重新出现在月津面前，并且手持与「逢魔降临-{曆; zh-hk:曆; zh-cn:历;}-」相似的名为「救世主传说」的书籍。
 
-****（飾，大陆配音：[皇贞季](../Page/皇贞季.md "wikilink")／台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")（夏季電影版） ）
+****（飾／大陆配音：[皇贞季](../Page/皇贞季.md "wikilink")／台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")（本篇、夏季電影版） ）
 
   -
     **假面騎士Woz**\[26\]的變身者。
@@ -106,7 +106,7 @@
     最終話在重新創造的新世界中暗中觀察莊吾等人的未來，似乎是唯一記得舊世界歷史的人。
     備註：渡邊圭祐亦擔任每話標題前講解劇情的角色。
 
-****（、[松島由依](https://zh.wikipedia.org/wiki/松島由依 "wikilink")（幼年期）飾，大陆配音：[常蓉珊](https://zh.wikipedia.org/wiki/常蓉珊 "wikilink")／台灣配音：[楊凱凱](../Page/楊凱凱.md "wikilink")（冬季電影版） ）
+****（、[松島由依](https://zh.wikipedia.org/wiki/松島由依 "wikilink")（幼年期）飾／大陆配音：[常蓉珊](https://zh.wikipedia.org/wiki/常蓉珊 "wikilink")／台灣配音：[劉如蘋](../Page/劉如蘋.md "wikilink")（本篇）、[楊凱凱](../Page/楊凱凱.md "wikilink")（冬季電影版） ）
 
   -
     **假面騎士月讀**的變身者。
@@ -135,7 +135,7 @@
 
 ### 平成假面騎士
 
-****（[犬飼貴丈](../Page/犬飼貴丈.md "wikilink")飾，大陆配音：[郝祥海](https://zh.wikipedia.org/wiki/郝祥海 "wikilink")，香港配音：[張振熙](../Page/張振熙.md "wikilink") ）
+****（[犬飼貴丈](../Page/犬飼貴丈.md "wikilink")飾，大陆配音：[郝祥海](https://zh.wikipedia.org/wiki/郝祥海 "wikilink")，台灣配音：[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")（本篇）、鈕凱暘（冬季電影版），香港配音：[張振熙](../Page/張振熙.md "wikilink") ）
 
   -
     **假面騎士Build**的變身者。
@@ -143,7 +143,7 @@
     受到另類Build的影響而失去身為假面騎士Build的記憶、歷史和力量成為葛城巧并與龍我一同成為搖滾樂隊鋼鐵道義的粉絲，在2018年時因為另類Build 被暫時打敗而恢復記憶並誕生出Build的騎士手錶，將騎士手錶交給莊吾後對其說:「過去的我交給你了」。
     隨後莊吾回到2017年，並使用Build的騎士手錶變身成假面騎士ZI-O Build裝甲。最後雖然ZI-O成功打敗另類Build，但同時也奪去了戰兔身為Build的記憶並恢復成葛城巧，但仍被身在2017年的莊吾託付了空白手錶。
 
-****（飾，大陆配音：[曹云图](https://zh.wikipedia.org/wiki/曹云图 "wikilink")，香港配音：[嚴鎮華](../Page/嚴鎮華.md "wikilink") ）
+****（飾，大陆配音：[曹云图](https://zh.wikipedia.org/wiki/曹云图 "wikilink")，台灣配音：[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（本篇、冬季電影版），香港配音：[嚴鎮華](../Page/嚴鎮華.md "wikilink") ）
 
   -
     **假面騎士Cross-Z**的變身者。
@@ -238,7 +238,7 @@
     **假面騎士Specter**的變身者。
     於第14話客串。身在2015年時點，受到另類Ghost的影響而解除變身，對2018年的尊提及的「這邊的尊」\[49\]感到疑惑。
 
-**門矢士（）**（[井上正大](../Page/井上正大.md "wikilink")飾，大陆配音：[宝木中阳](../Page/宝木中阳.md "wikilink")、12话片尾预告为[薛成](https://zh.wikipedia.org/wiki/薛成 "wikilink")，香港配音：[葉鎮洲](../Page/葉鎮洲.md "wikilink") ）
+**門矢士（）**（[井上正大](../Page/井上正大.md "wikilink")飾，大陆配音：[宝木中阳](../Page/宝木中阳.md "wikilink")、12话片尾预告为[薛成](https://zh.wikipedia.org/wiki/薛成 "wikilink")，台灣配音：宋昱璁（冬季電影版），香港配音：[葉鎮洲](../Page/葉鎮洲.md "wikilink") ）
 
   -
     **假面騎士Decade**的變身者。於第13-16、27-28、37-38、41-45、47-49話客串，亦於《[假面騎士平成Generations Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》中以假面騎士Decade姿態登場。世界的破壞者，因為沒有各世界的個體關係無法對其影響，沒有失去身為假面騎士Decade的記憶、歷史和力量，來到該世界時就擁有Decade手錶，透過沃茲的關係而成為時劫者的協助者\[50\]，以新入手的自W到Build的假面騎士的力量和Neo Decade驅動器與莊吾一行人衝突。
@@ -470,7 +470,7 @@
     本身聲稱來自“沒有假面騎士的世界”，但是卻因為魔進追跡者的固有身份\[74\]而同時又自稱為“凌駕於假面騎士之上的存在”而自我矛盾。
     第48話因守護月讀而被另類帝騎重擊死亡。
 
-**詩島剛（）**（[稻葉友飾](https://zh.wikipedia.org/wiki/稻葉友 "wikilink")）
+**詩島剛（）**（[稻葉友飾](https://zh.wikipedia.org/wiki/稻葉友 "wikilink")，台灣配音：[馬伯強](../Page/馬伯強.md "wikilink")）
 
   -
     **假面騎士Mach**的變身者，於《[劇場版 假面騎士ZI-O Over Quartzer](../Page/劇場版_假面騎士ZI-O_Over_Quartzer.md "wikilink")》中登場。
@@ -629,7 +629,7 @@
   -
     **假面騎士Barlckxs**的變身者，Quartzer的首領，自稱為“常磐莊吾”\[99\]，於《[劇場版 假面騎士ZI-O Over Quartzer](../Page/劇場版_假面騎士ZI-O_Over_Quartzer.md "wikilink")》登場。
 
-****（[齊藤秀翼](../Page/齊藤秀翼.md "wikilink")飾）
+****（[齊藤秀翼](../Page/齊藤秀翼.md "wikilink")飾，台灣配音：[馬伯強](../Page/馬伯強.md "wikilink")）
 
   -
     **假面騎士Zamonas**的變身者，Quartzer的成員，於《[劇場版 假面騎士ZI-O Over Quartzer](../Page/劇場版_假面騎士ZI-O_Over_Quartzer.md "wikilink")》登場。
@@ -670,7 +670,7 @@
 
 ****（、[松島由依](https://zh.wikipedia.org/wiki/松島由依 "wikilink")（幼年期）飾，大陆配音：[常蓉珊](https://zh.wikipedia.org/wiki/常蓉珊 "wikilink")／ ）
 
-****（[生瀨勝久](../Page/生瀨勝久.md "wikilink")\[100\]飾，大陆配音：[李璐](../Page/李璐.md "wikilink")／台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")（冬季電影版） ）
+****（[生瀨勝久](../Page/生瀨勝久.md "wikilink")\[100\]飾，大陆配音：[李璐](../Page/李璐.md "wikilink")／台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")（本篇、所有電影版） ）
 
   -
     常磐莊吾的大叔父，也是時鐘店「」的店主。
@@ -796,7 +796,7 @@
 
 ### 未來騎士相關人物系列
 
-****（[鶴嶋乃愛飾](https://zh.wikipedia.org/wiki/鶴嶋乃愛 "wikilink")）
+****（[鶴嶋乃愛](../Page/鶴嶋乃愛.md "wikilink")飾）
 
   -
     續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》飛電或人的AI助理，於《[假面騎士 令和 The First Generation](https://zh.wikipedia.org/wiki/假面騎士_令和_The_First_Generation "wikilink")》登場。
@@ -828,7 +828,7 @@
 
 ## 時劫者（Time Jacker）
 
-****（[兼崎健太郎](../Page/兼崎健太郎.md "wikilink")、[成瀬天馬](https://zh.wikipedia.org/wiki/成瀬天馬 "wikilink")（幼年期）飾，大陆配音：[张恩泽](https://zh.wikipedia.org/wiki/张恩泽 "wikilink")）
+****（[兼崎健太郎](../Page/兼崎健太郎.md "wikilink")、[成瀬天馬](https://zh.wikipedia.org/wiki/成瀬天馬 "wikilink")（幼年期）飾／大陆配音：[张恩泽](https://zh.wikipedia.org/wiki/张恩泽 "wikilink")）
 
   -
     本作最終反派,時劫者的首領和**另類Decade**的變身者。
@@ -857,7 +857,7 @@
     在外傳《幪面超人ZI-O NEXT TIME Geiz Majesty》中，在莊吾重启的新世界復活并成為了一行人的老師。
     備註：其名字斯瓦魯茲（Schwartz）源自德文的黑色\[113\]。
 
-****（飾，大陆配音：[叮当](https://zh.wikipedia.org/wiki/叮当_\(配音演员\) "wikilink")）
+****（飾，大陆配音：[叮当](https://zh.wikipedia.org/wiki/叮当_\(配音演员\) "wikilink")／台灣配音：[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")）
 
   -
     時劫者的成員和**另類Kikai**的變身者。
@@ -874,7 +874,7 @@
     在超戰鬥DVD《假面騎士BiBiBi的膽小月津》中與歐拉兩人有出現，但事實上是與兩人外貌相似的幽靈姊弟。
     備註：其名字烏爾（Uhr）源自德文的時鐘。
 
-****（飾，大陆配音：[沈念如](../Page/沈念如.md "wikilink")）
+****（飾／大陆配音：[沈念如](../Page/沈念如.md "wikilink")）
 
   -
     時劫者的成員和**另類Drive**的變身者\[114\]，也是目前唯一的女性成員。
@@ -937,7 +937,7 @@
     後在另類Wizard被打敗後，莊吾向沃茲借了一部-{Faiz}- Phone X，讓其打給2012年的自己，並提醒過去的自己鼓起勇氣向香織表白。
     第25話時遭到襲擊，後在第26話時再次遭到襲擊而昏迷。
 
-*' *'（[岩永徹也](../Page/岩永徹也.md "wikilink")飾，大陆配音：郝祥海）
+*' *'（[岩永徹也](../Page/岩永徹也.md "wikilink")飾，大陆配音：郝祥海） ）
 
   -
     **另類OOO**的變身者，於第8-10話客串。
@@ -1009,7 +1009,7 @@
   -
     **另類Kikai**的變身者。
 
-****（、[邊江大牙](https://zh.wikipedia.org/wiki/邊江大牙 "wikilink")（幼年期）飾）
+****（、[邊江大牙](https://zh.wikipedia.org/wiki/邊江大牙 "wikilink")（幼年期）飾 ）
 
   -
     **另類ZI-O及另類ZI-O II(舞台劇為另類逢魔ZI-O)**的變身者。
@@ -1094,7 +1094,7 @@
 
 ## 逢魔ZI-O相關人物
 
-****（飾，[小山力也](../Page/小山力也.md "wikilink")聲，大陆配音：[图特哈蒙](../Page/图特哈蒙.md "wikilink")）
+****（飾，[小山力也](../Page/小山力也.md "wikilink")聲，大陆配音：[图特哈蒙](../Page/图特哈蒙.md "wikilink")，台灣配音：蔣鐵城（本篇、夏季電影板））
 
   -
     以恐怖統治著2068年至2069年的未來、奪去人們的笑容和希望，最兇惡的魔王，真實身份為（50年後）2068年至2069年的常磐莊吾 \[121\]。

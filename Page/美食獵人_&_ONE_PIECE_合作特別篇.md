@@ -47,7 +47,7 @@
   - [美食獵人](https://zh.wikipedia.org/wiki/美食獵人TORIKO#動畫 "wikilink")
   - [ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")
 
-<!-- end list -->
+[Category:ONE_PIECE](https://zh.wikipedia.org/wiki/Category:ONE_PIECE "wikilink")
 
 1.
 2.

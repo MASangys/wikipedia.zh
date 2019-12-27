@@ -18,7 +18,8 @@
 <td><p><strong>高　安</strong></p></td>
 <td><p>'''高Sir、Colton '''<br />
 高級化驗師<br />
-馬靄美、高靖之兄<br />
+高靖之兄<br />
+馬靄美、<a href="../Page/楊潮凱.md" title="wikilink">楊潮凱</a>同母異父之兄<br />
 與鄭希怡、徐意有感情線<br />
 <a href="../Page/黎燕珊.md" title="wikilink">黎燕珊</a>之子</p></td>
 </tr>
@@ -28,7 +29,7 @@
 <td><p><strong>Queen姐</strong><br />
 科學鑑證主任<br />
 <a href="../Page/康華.md" title="wikilink">康華</a>之情敵<br />
-與郭輝煌、<a href="../Page/鄭子誠.md" title="wikilink">鄭子誠</a>有感情線，最后与郭辉煌结婚</p></td>
+與郭輝煌、<a href="../Page/鄭子誠.md" title="wikilink">鄭子誠</a>有感情線，最終與郭辉煌結婚</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a></strong></p></td>
@@ -36,17 +37,18 @@
 <td><p><strong>Charm</strong><br />
 科學鑑證主任<br />
 與高靖有感情線<br />
-徐意同屋主 名字諧音：<strong>暫停</strong></p></td>
+徐意之同屋主<br />
+名字諧音：<strong>暫停</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/朱滙林.md" title="wikilink">朱滙林</a></p></td>
 <td></td>
-<td><p>化驗師</p></td>
+<td><p>法證部化驗師</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/黃耀煌" title="wikilink">黃耀煌</a></p></td>
 <td></td>
-<td><p>化驗師</p></td>
+<td><p>法證部技術員</p></td>
 </tr>
 </tbody>
 </table>
@@ -66,7 +68,7 @@
 <td><p><strong>Dr. Man</strong><br />
 法醫科高級法醫<br />
 秋姊之雇主<br />
-與施見賢有感情線，最後與施見賢結婚<br />
+與施見賢有感情線，最終與施見賢結婚<br />
 司徒勳之上司</p></td>
 </tr>
 <tr class="odd">
@@ -83,7 +85,7 @@
 </tbody>
 </table>
 
-### 重案組
+### 西九龍[重案組](https://zh.wikipedia.org/wiki/重案組 "wikilink")
 
 <table>
 <tbody>
@@ -97,20 +99,22 @@
 <td><p><strong>郭輝煌</strong></p></td>
 <td><p><strong>King Sir</strong><br />
 高級督察<br />
-與水慧明有感情線，最后与水慧明结婚</p></td>
+與水慧明有感情線，最終与水慧明成為其夫</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/朱晨麗" title="wikilink">朱晨麗</a></strong></p></td>
 <td><p><strong>高　靖</strong></p></td>
 <td><p>警長<br />
+黎燕珊之女<br />
 高安之妹<br />
-馬靄美之家姐<br />
+馬靄美同母異父之姊<br />
+<a href="../Page/楊潮凱.md" title="wikilink">楊潮凱</a>之同母異父之弟<br />
 與湛霆有感情線</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/郭子豪.md" title="wikilink">郭子豪</a></p></td>
 <td></td>
-<td><p>警員</p></td>
+<td><p>督察</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/楊柳青_(藝人).md" title="wikilink">楊柳青</a></p></td>
@@ -177,14 +181,17 @@
 <tr class="even">
 <td><p><strong><a href="../Page/張曦雯.md" title="wikilink">張曦雯</a></strong></p></td>
 <td><p><strong>馬靄美</strong></p></td>
-<td><p>空姐、模特兒<br />
-高安、高靖之妹<br />
+<td><p>空中服務員 / 模特兒<br />
+<a href="../Page/黎燕珊.md" title="wikilink">黎燕珊</a>之女<br />
+<a href="../Page/楊潮凱.md" title="wikilink">楊潮凱</a>之親姊<br />
+高安、高靖同母異父之妹<br />
 （特別演出）</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/陳敏之.md" title="wikilink">陳敏之</a></strong></p></td>
 <td><p><strong>藍嘉美</strong></p></td>
-<td><p>心理專家</p></td>
+<td><p>心理專家<br />
+（特別演出）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/謝雪心.md" title="wikilink">謝雪心</a></strong></p></td>
@@ -224,17 +231,21 @@
 <tr class="even">
 <td><p><strong><a href="../Page/謝賢.md" title="wikilink">謝　賢</a></strong></p></td>
 <td><p><strong>龍兆天</strong></p></td>
-<td><p>（特別演出）</p></td>
+<td><p>龍映雪之兄<br />
+<a href="../Page/鮑起靜.md" title="wikilink">鮑起靜</a>之舊情人<br />
+（特別演出）</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/米雪.md" title="wikilink">米　雪</a></strong></p></td>
 <td><p><strong>龍映雪</strong></p></td>
-<td><p>（特別演出）</p></td>
+<td><p>龍兆天之妹<br />
+（特別演出）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/鮑起靜.md" title="wikilink">鮑起靜</a></strong></p></td>
 <td></td>
-<td><p>（特別演出）</p></td>
+<td><p>龍兆天之舊情人<br />
+（特別演出）</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/麥玲玲.md" title="wikilink">麥玲玲</a></strong></p></td>
@@ -259,8 +270,8 @@
 <tr class="odd">
 <td><p><a href="../Page/黎燕珊.md" title="wikilink">黎燕珊</a></p></td>
 <td></td>
-<td><p>高安之生母<br />
-<a href="../Page/楊潮凱.md" title="wikilink">楊潮凱</a>之養母</p></td>
+<td><p>高安、高靖之母<br />
+馬靄美、<a href="../Page/楊潮凱.md" title="wikilink">楊潮凱</a>之養母</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/張文慈.md" title="wikilink">張文慈</a></p></td>
@@ -449,6 +460,7 @@
   - 此劇是[陳煒](../Page/陳煒.md "wikilink")、[謝雪心](../Page/謝雪心.md "wikilink")、[康華](../Page/康華.md "wikilink")、[張文慈](../Page/張文慈.md "wikilink")、[陸詩韻](../Page/陸詩韻.md "wikilink")、[李美慧](../Page/李美慧.md "wikilink")、[謝芷倫](../Page/謝芷倫.md "wikilink")、[曾偉權](../Page/曾偉權.md "wikilink")、[呂珊](../Page/呂珊.md "wikilink")、[朱匯林和](https://zh.wikipedia.org/wiki/朱匯林 "wikilink")[林子超繼](../Page/林子超_\(藝人\).md "wikilink")《[宮心計2深宮計](https://zh.wikipedia.org/wiki/宮心計2深宮計 "wikilink")》後再度合作。
   - 此劇是[黃浩然](../Page/黃浩然.md "wikilink")、[黎燕珊](../Page/黎燕珊.md "wikilink")、[陳煒](../Page/陳煒.md "wikilink")和[朱晨麗继](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")《[多功能老婆](../Page/多功能老婆.md "wikilink")》後再度合作。
   - 此劇是[譚俊彥](../Page/譚俊彥.md "wikilink")和[朱晨麗繼](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")《[特技人](https://zh.wikipedia.org/wiki/特技人 "wikilink")》後再度合作。
+  - 此劇是[黎燕珊](../Page/黎燕珊.md "wikilink")、[朱晨麗繼](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")《[多功能老婆](../Page/多功能老婆.md "wikilink")》後再度飾演母女。
   - 此劇是[陳煒](../Page/陳煒.md "wikilink")、[謝雪心](../Page/謝雪心.md "wikilink")、[張文慈](../Page/張文慈.md "wikilink")、[黎燕珊](../Page/黎燕珊.md "wikilink")、[黃浩然](../Page/黃浩然.md "wikilink")、[鮑起靜](../Page/鮑起靜.md "wikilink")、[謝賢](../Page/謝賢.md "wikilink")離開[亞洲電視](../Page/亞洲電視.md "wikilink")後再度合作。
   - 此劇是[鄭俊弘](../Page/鄭俊弘.md "wikilink")繼《[法證先鋒](../Page/法證先鋒.md "wikilink")》, 《[法證先鋒II](../Page/法證先鋒II.md "wikilink")》後再度參演法證系列。
   - 此劇「徐意」一角原定由[黃心穎](../Page/黃心穎.md "wikilink")飾演，惟因[安心偷食事件而受影響](../Page/許志安與黃心穎出軌事件.md "wikilink")，其後改由[湯洛雯](../Page/湯洛雯.md "wikilink")飾演，並於2019年6月開始重拍其角色所有戲份\[3\]\[4\]\[5\]\[6\]。

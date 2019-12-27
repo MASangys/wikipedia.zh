@@ -6,6 +6,8 @@
 
 2019年10月1日公布首爾場售票資訊，門票會員預售從10月14日下午8時至下午11時59分；一般預售從10月17日下午8時開始通過訂票網站[YES24](http://ticket.yes24.com/Pages/Perf/Detail/DetailSpecial.aspx?IdPerf=35015)預訂\[2\]。然而，兩天的門票在一般預售開賣不久後隨即售完，10月31日[Stray Kids在官方社群平台上宣布將於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")11月5日下午8時再追加販售門票\[3\]。
 
+2019年12月4日公布2020年1月29日[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")、1月31日[亞特蘭大](https://zh.wikipedia.org/wiki/亞特蘭大 "wikilink")、2月2日[達拉斯](../Page/達拉斯.md "wikilink")、2月5日[芝加哥](../Page/芝加哥.md "wikilink")、2月7日[邁阿密](https://zh.wikipedia.org/wiki/邁阿密 "wikilink")、2月9日[鳳凰城](https://zh.wikipedia.org/wiki/鳳凰城 "wikilink")、2月13日[聖荷西及](https://zh.wikipedia.org/wiki/聖荷西 "wikilink")2月16日[洛杉磯場次](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，開啟美國8個城市的巡迴演出\[4\]。
+
 ## 巡迴時間表
 
 <table>
@@ -21,16 +23,96 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>第一階段 — 亞洲</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2019年</p></td>
 <td><p>11月23日</p></td>
 <td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/首爾奧林匹克公園" title="wikilink">奧林匹克公園奧林匹克大廳</a></p></td>
+<td><p>6,000+</p></td>
+</tr>
+<tr class="odd">
+<td><p>11月24日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>11月24日</p></td>
+<td><p>第二階段 — 北美洲</p></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020年</p></td>
+<td><p>1月29日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紐約" title="wikilink">紐約</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1月31日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/亞特蘭大" title="wikilink">亞特蘭大</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福克斯劇院" title="wikilink">福克斯劇院</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2月2日</p></td>
+<td><p><a href="../Page/達拉斯.md" title="wikilink">達拉斯</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2月5日</p></td>
+<td><p><a href="../Page/芝加哥.md" title="wikilink">芝加哥</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2月7日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/邁阿密" title="wikilink">邁阿密</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2月9日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鳳凰城" title="wikilink">鳳凰城</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2月13日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/聖荷西" title="wikilink">聖荷西</a></p></td>
+<td><p><a href="../Page/聖荷西州立活動中心.md" title="wikilink">聖荷西州立活動中心</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2月16日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -114,7 +196,7 @@
 
 <!-- end list -->
 
-  - [Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")（方燦、Lee Know、彰彬、鉉辰、Han、Felix、昇玟、I.N）
+  - [Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")（[方燦](../Page/方燦.md "wikilink")、[Lee Know](https://zh.wikipedia.org/wiki/Lee_Know "wikilink")、[彰彬](../Page/彰彬.md "wikilink")、[鉉辰](../Page/鉉辰.md "wikilink")、[HAN](../Page/韓知城.md "wikilink")、[Felix](../Page/Felix_\(Stray_Kids\).md "wikilink")、[昇玟](../Page/昇玟.md "wikilink")、[I.N](../Page/梁精寅.md "wikilink")）
 
 <!-- end list -->
 
@@ -131,6 +213,7 @@
 <!-- end list -->
 
   - 首爾－YES24、SOUNDWAVE
+  - 美國－SubKulture Entertainment
 
 ## 註釋與參考資料
 
@@ -147,3 +230,4 @@
 1.
 2.
 3.
+4.

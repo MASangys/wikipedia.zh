@@ -52,7 +52,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Gaon音樂榜" title="wikilink">Gaon音樂榜</a></p></td>
 <td><p>CD</p></td>
-<td><p>574,241</p></td>
+<td><p>574,241+</p></td>
 <td><p>2×Platinum <ref>Cumulative sales of <em>Emergency: Quantum Leap</em>: 574,241 (CD) + 61,781 (Kit)</p>
 <ul>
 <li></li>
@@ -61,14 +61,14 @@
 </tr>
 <tr class="even">
 <td><p>Kinho</p></td>
-<td><p>61,781</p></td>
+<td><p>61,781+</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon公信榜</a></p></td>
 <td><p>CD</p></td>
-<td><p>51,432</p></td>
+<td><p>51,432+</p></td>
 <td><p><ref>Cumulative sales of <em>Emergency: Quantum Leap</em>:</p>
 <ul>
 <li></li>

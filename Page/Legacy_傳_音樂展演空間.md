@@ -6,7 +6,7 @@ Legacy音樂展演空間，2009年由張培仁成立於華山1914五號倉庫，
 
 ## 服務理念
 
-Legacy提供專業企劃行銷、技術、硬體等服務與場地給音樂人。主流表演者如：[伍佰](https://zh.wikipedia.org/wiki/五百 "wikilink")、[盧廣仲](../Page/盧廣仲.md "wikilink")、[蔡健雅](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")、[林憶蓮](../Page/林憶蓮.md "wikilink")、[蘇打綠](../Page/蘇打綠.md "wikilink")、[阿密特](../Page/阿密特.md "wikilink")、[羅大佑](../Page/羅大佑.md "wikilink")等；新興獨立音樂人如：[老王樂隊](../Page/老王樂隊.md "wikilink")、[滅火器](https://zh.wikipedia.org/wiki/滅火器樂團 "wikilink")、[南瓜妮歌迷俱樂部](../Page/南瓜妮歌迷俱樂部.md "wikilink")、[9m88](https://zh.wikipedia.org/wiki/9m88 "wikilink")、[茄子蛋](../Page/茄子蛋.md "wikilink")、[小球](https://zh.wikipedia.org/wiki/小球 "wikilink")、[黃玠](../Page/黃玠.md "wikilink")等皆曾在Legacy演出。
+Legacy提供專業企劃行銷、技術、硬體等服務與場地給音樂人。主流表演者如：[伍佰](https://zh.wikipedia.org/wiki/五百 "wikilink")、[盧廣仲](../Page/盧廣仲.md "wikilink")、[蔡健雅](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")、[林憶蓮](../Page/林憶蓮.md "wikilink")、[蘇打綠](../Page/蘇打綠.md "wikilink")、[阿密特](../Page/阿密特.md "wikilink")、[羅大佑](../Page/羅大佑.md "wikilink")等；新興獨立音樂人如：[老王樂隊](../Page/老王樂隊.md "wikilink")、[滅火器](https://zh.wikipedia.org/wiki/滅火器樂團 "wikilink")、[南瓜妮歌迷俱樂部](../Page/南瓜妮歌迷俱樂部.md "wikilink")、[9m88](../Page/9m88.md "wikilink")、[茄子蛋](../Page/茄子蛋.md "wikilink")、[小球](https://zh.wikipedia.org/wiki/小球 "wikilink")、[黃玠](../Page/黃玠.md "wikilink")等皆曾在Legacy演出。
 
 Legacy提供練習場地、傳播與曝光給年輕音樂人，運用聯合演出及分帳的商業模式，降低新興音樂人踏進演出市場的門檻，取得初步進入市場的機會。
 

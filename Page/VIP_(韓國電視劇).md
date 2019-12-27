@@ -35,7 +35,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/表藝珍" title="wikilink">表藝珍</a></p></td>
 <td><p>溫宥利</p></td>
-<td><p>專責小組組員，看似內向膽怯，但小時候的貧窮令她知道生活的艱難，因此個性實際是有如野草般堅強。她曾是一家百貨商店試吃櫃檯的合同工，一夜之間被調到百貨商店的核心部門VIP專責小組，然後圍繞她的祕密傳聞開始傳開。</p></td>
+<td><p>專責小組組員，看似內向膽怯，但小時候的貧窮令她知道生活的艱難，因此個性實際是有如野草般堅強。她曾是一家百貨商店試吃櫃檯的合同工，一夜之間被調到百貨商店的核心部門VIP專責小組，然後圍繞她的祕密傳聞開始傳開，為求上位，跟高層主管在一起，但實際愛上的是朴尚俊。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/辛載夏.md" title="wikilink">辛載夏</a></p></td>
@@ -158,6 +158,18 @@
 
   - Part.1（發行日期：2019年11月4日）
 
+<!-- end list -->
+
+  - Part.2（發行日期：2019年11月18日）
+
+<!-- end list -->
+
+  - Part.3（發行日期：2019年11月25日）
+
+<!-- end list -->
+
+  - Part.4（發行日期：2019年12月3日）
+
 ## 收視率
 
 <table>
@@ -180,7 +192,7 @@
 <td><p>1</p></td>
 <td><p>1部</p></td>
 <td><p>2019/10/28</p></td>
-<td><p>5.9%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2部</p></td>
@@ -229,7 +241,7 @@
 <td><p>1部</p></td>
 <td><p>2019/11/18<br />
 </p></td>
-<td><p>5.9%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2部</p></td>
@@ -277,73 +289,73 @@
 <td><p>9</p></td>
 <td><p>1部</p></td>
 <td><p>2019/12/02</p></td>
-<td><p>%</p></td>
+<td><p>8.3%</p></td>
 </tr>
 <tr class="odd">
 <td><p>2部</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>11.3%</p></td>
+<td><p>12.3%</p></td>
+<td><p>9.2%</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
 <td><p>1部</p></td>
 <td><p>2019/12/03</p></td>
-<td><p>%</p></td>
+<td><p>10.6%</p></td>
 </tr>
 <tr class="odd">
 <td><p>2部</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>12.7%</p></td>
+<td><p>13.5%</p></td>
+<td><p>10.4%</p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
 <td><p>1部</p></td>
 <td><p>2019/12/09</p></td>
-<td><p>%</p></td>
+<td><p>9.6%</p></td>
 </tr>
 <tr class="odd">
 <td><p>2部</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>12.2%</p></td>
+<td><p>13.6%</p></td>
+<td><p>10.6%</p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
 <td><p>1部</p></td>
 <td><p>2019/12/10</p></td>
-<td><p>%</p></td>
+<td><p>10.0%</p></td>
 </tr>
 <tr class="odd">
 <td><p>2部</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>13.2%</p></td>
+<td><p>14.2%</p></td>
+<td><p>10.7%</p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
 <td><p>1部</p></td>
 <td><p>2019/12/16</p></td>
-<td><p>%</p></td>
+<td><p>10.6%</p></td>
 </tr>
 <tr class="odd">
 <td><p>2部</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>13.1%</p></td>
+<td><p>15.0%</p></td>
+<td><p>11.0%</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
 <td><p>1部</p></td>
 <td><p>2019/12/17</p></td>
-<td><p>%</p></td>
+<td><p>11.2%</p></td>
 </tr>
 <tr class="odd">
 <td><p>2部</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
@@ -387,8 +399,8 @@
 ### 同時段競爭作品
 
   - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[朝鮮浪漫喜劇–綠豆傳](../Page/朝鮮浪漫喜劇–綠豆傳.md "wikilink")》
-  - [tvN](../Page/TVN.md "wikilink") [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[抓住幽靈](../Page/抓住幽靈.md "wikilink")》
-  - [JTBC](../Page/JTBC.md "wikilink") [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[花黨：朝鮮婚姻介紹所](../Page/花黨：朝鮮婚姻介紹所.md "wikilink")》、《[輔佐官2–改變世界的人們](https://zh.wikipedia.org/wiki/輔佐官2–改變世界的人們 "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink") [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[抓住幽靈](../Page/抓住幽靈.md "wikilink")》、《[Black Dog](../Page/Black_Dog_\(電視劇\).md "wikilink")》
+  - [JTBC](../Page/JTBC.md "wikilink") [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[花黨：朝鮮婚姻介紹所](../Page/花黨：朝鮮婚姻介紹所.md "wikilink")》、《[輔佐官2–改變世界的人們](../Page/輔佐官2–改變世界的人們.md "wikilink")》、《[檢察官內傳](https://zh.wikipedia.org/wiki/檢察官內傳 "wikilink")》
 
 ## 參考資料
 

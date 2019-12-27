@@ -55,7 +55,7 @@ GoShare目前採用車款以輕型的[Gogoro VIVA為主](https://zh.wikipedia.or
 9.  [GoShare進軍台北：年底前3000輛車、租賃版Gogoro VIVA有無線充電手機架、租車優惠懶人包](https://www.cool3c.com/article/148988), Cool3C, 2019-10-21
 10. [Gogoro VIVA 官方規格表](https://www.gogoro.com/tw/smartscooter/specs/?models=gogoro-viva), Gogoro
 11. [Gogoro 2 Plus官方規格表](https://www.gogoro.com/tw/smartscooter/specs/?models=gogoro-2-plus), Gogoro
-12. [GoShare APP 下載](https://go.ridegoshare.com/DLApp)
+12.
 13. [一圖看懂 Gogoro GoShare共享電動機車：免費騎乘金推薦碼、租車費率、騎乘心得](https://www.cool3c.com/article/147487), Cool3C, 2019-8-29
 14.
 15. [GoShare上路！一次看懂Gogoro共享電動機車計費方式、如何註冊、開廂找驚喜](https://udn.com/news/story/7266/4026164), 聯合新聞網, 2019-9-3

@@ -44,7 +44,7 @@ Patari的联合创始人和[首席执行官](../Page/首席执行官.md "wikilin
 13.
 14.
 15.
-16.  Patari Haftanama|url=[http://haftanama.patari.pk/index.php/category/haftanama/|accessdate=2019-03-03|language=en-US](http://haftanama.patari.pk/index.php/category/haftanama/%7Caccessdate=2019-03-03%7Clanguage=en-US)}}
+16.  Patari Haftanama|url=[http://haftanama.patari.pk/index.php/category/haftanama/|accessdate=2019-03-03|language=en-US|archive-url=https://web.archive.org/web/20180702014539/http://haftanama.patari.pk/index.php/category/haftanama/|archive-date=2018-07-02|dead-url=yes](http://haftanama.patari.pk/index.php/category/haftanama/%7Caccessdate=2019-03-03%7Clanguage=en-US%7Carchive-url=https://web.archive.org/web/20180702014539/http://haftanama.patari.pk/index.php/category/haftanama/%7Carchive-date=2018-07-02%7Cdead-url=yes)}}
 17.
 18.
 19.

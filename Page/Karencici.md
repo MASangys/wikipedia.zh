@@ -1,4 +1,4 @@
-**林愷倫**（英文名：Karencici，），是一名美籍華裔女歌手，擁有獨特嗓音與歌唱天賦和表演能量，現在為[華研國際音樂](../Page/華研國際音樂.md "wikilink")旗下歌手。
+**林愷倫**（英文名：**Karencici**，），是一名美籍華裔女歌手，擁有獨特嗓音與歌唱天賦和表演能量，現在為[華研國際音樂](../Page/華研國際音樂.md "wikilink")旗下歌手。
 
 ## 音樂作品
 
@@ -13,7 +13,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/SHA_YAN" title="wikilink">SHA YAN</a></strong>》[1]</p>
+<td><p>《<strong><a href="../Page/SHA_YAN.md" title="wikilink">SHA YAN</a></strong>》[1]</p>
 <ul>
 <li>發行日期：2018年12月21日</li>
 <li>唱片公司：<a href="../Page/華研國際音樂.md" title="wikilink">華研國際音樂</a></li>
@@ -74,9 +74,23 @@
 </tbody>
 </table>
 
+## 網路影音視頻
+
+| 節目/頻道名稱     | 集數            | 備註    |
+| ----------- | ------------- | ----- |
+| HahaTai 哈哈台 | 《哈哈台地區的街訪》EP5 | 受訪者之一 |
+
+## 綜藝節目
+
+| 節目名稱      | 播出日期/集數    | 備註                  |
+| --------- | ---------- | ------------------- |
+| 綜藝大熱門     | 2019年1月29日 | 【唱輸原唱就說掰掰～恐怖鐵支路！！】  |
+| 綜藝大熱門     | 2019年9月3日  | 不服來戰！金曲入圍敗北歌手來雪恥啦！！ |
+| 拜託了\!女神\! | EP.56      |                     |
+
 ## 獲獎紀錄
 
-### [金曲獎](../Page/金曲獎.md "wikilink")
+### 金曲獎
 
 <table>
 <thead>

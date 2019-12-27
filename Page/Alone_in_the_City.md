@@ -117,10 +117,10 @@
 
 ## 發行歷史
 
-| style="background:\#FF79BC |發行地區 | style="background:\#FF79BC |發行日期 | style="background:\#FF79BC |發行方式                                    | style="background:\#FF79BC |唱片公司                      | style="background:\#FF79BC |發行公司                   |
-| -------------------------------- | -------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------- |
-| 全球                               | 2018年9月20日                       | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink") | [環球音樂](https://zh.wikipedia.org/wiki/環球音樂 "wikilink") | [Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink") |
-|                                  |                                  |                                                                     |                                                       |                                                    |
+| style="background:\#FF79BC |發行地區 | style="background:\#FF79BC |發行日期 | style="background:\#FF79BC |發行方式                                    | style="background:\#FF79BC |唱片公司         | style="background:\#FF79BC |發行公司                   |
+| -------------------------------- | -------------------------------- | ------------------------------------------------------------------- | ---------------------------------------- | -------------------------------------------------- |
+| 全球                               | 2018年9月20日                       | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink") | [Genie音樂](../Page/Genie音樂.md "wikilink") | [Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink") |
+|                                  |                                  |                                                                     |                                          |                                                    |
 
 ## 銷售及認證
 

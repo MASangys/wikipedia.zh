@@ -120,6 +120,8 @@
 
 2019/02/17 PLT 1st Tour《We Go Holic》in London
 
+2019/02/17 PLT 1st Tour《We Go Holic》in Seoul
+
 2019/10/18 PLT 1st Tour《We Go Holic》in New Jersey
 
 2019/10/20 PLT 1st Tour《We Go Holic》in Atlanta

@@ -2,7 +2,7 @@
 
 **Galaxy Note10／10 5G** 採用6.3英吋Dynamic [AMOLED](../Page/AMOLED.md "wikilink")屏幕，[解像度有](https://zh.wikipedia.org/wiki/解像度 "wikilink")2280 X 1080像素，支援HDR10+。同時配置8GB [RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")，256GB 儲存空間和3,500 mAh內置[鋰電池](https://zh.wikipedia.org/wiki/鋰電池 "wikilink")。支持25W有線快充。[4G](../Page/4G.md "wikilink")版售價:949[美元](../Page/美元.md "wikilink")。5G版售價：1049美元。\[5\]\<ref name "multiple"\>https://venturebeat.com/2019/08/08/samsungs-galaxy-note10-makes-a-5g-nightmare-come-true-confusion/</ref>
 
-**三星Galaxy Note10+／10+ 5G** 配置6.8英吋[Dynamic AMOLED屏幕](https://zh.wikipedia.org/wiki/Dynamic_AMOLED "wikilink")，解像度有3040 X 1440像素，支援HDR10+。同時配置12GB RAM，512GB/1TB儲存空間和4,300 mAh內置[鋰電池](https://zh.wikipedia.org/wiki/鋰電池 "wikilink")。支持45W有線「閃速充電」。4G版售價:1099美元。5G版售價：1299美元\[6\]\<ref name "multiple" /\>
+**三星Galaxy Note10+／10+ 5G** 配置6.8英吋[Dynamic AMOLED屏幕](https://zh.wikipedia.org/wiki/Dynamic_AMOLED "wikilink")，解像度有3040 X 1440像素，支援HDR10+。同時配置12GB RAM，512GB/1TB儲存空間和4,300 mAh內置[鋰電池](https://zh.wikipedia.org/wiki/鋰電池 "wikilink")。支持45W有線「閃速充電」。4G版售價:1099美元。5G版售價：1299美元\[6\]
 
 ## 歷史
 
@@ -23,7 +23,7 @@
 同樣搭配Snapdragon 855處理器的三星智能手機：
 
   - [三星Galaxy S10](../Page/三星Galaxy_S10.md "wikilink")
-  - [三星Galaxy A90 5G](https://zh.wikipedia.org/wiki/三星Galaxy_A90_5G "wikilink")
+  - [三星Galaxy A90 5G](../Page/三星Galaxy_A90_5G.md "wikilink")
   - [三星Galaxy Fold](../Page/三星Galaxy_Fold.md "wikilink")
 
 ## 參考文獻

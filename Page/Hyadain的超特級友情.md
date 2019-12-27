@@ -1,4 +1,4 @@
-《**Hyadain的超特級友情**》（），是[日本](../Page/日本.md "wikilink")男[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")、[創作歌手](../Page/創作歌手.md "wikilink")[Hyadain的第](../Page/前山田健一.md "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年8月3日由[Lantis](../Page/Lantis.md "wikilink")發行。
+《**Hyadain的超特級友情**》（），是[日本](../Page/日本.md "wikilink")男[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")、[創作歌手](../Page/創作歌手.md "wikilink")[Hyadain的第](../Page/前山田健一.md "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年8月3日由[Lantis](../Page/Lantis.md "wikilink")
 
 ## 解說
 

@@ -10,7 +10,7 @@
 
 ## 硬件
 
-PlayStation Camera拥有两颗2.0[光圈](../Page/光圈.md "wikilink") [1280×800像素](../Page/电脑显示标准.md "wikilink")[摄像头](../Page/摄像头.md "wikilink")，以及30厘米的焦距距离和85°的[視野大小](https://zh.wikipedia.org/wiki/視野 "wikilink")。\[9\]软件可以以不同的目的来使用这两颗摄像头。\[10\]如[Xbox](../Page/Xbox.md "wikilink")的[Kinect](../Page/Kinect.md "wikilink")一样，PlayStation Camera也可以利用这两颗摄像头来对其视野内的物体进行深度感知。\[11\]\[12\]或者也可以让一颗摄像头用来录制视频，另一颗用来追踪人体运动。\[13\]
+PlayStation Camera拥有两颗2.0[光圈](../Page/光圈.md "wikilink") [1280×800像素](../Page/电脑显示标准.md "wikilink")[摄像头](../Page/摄像头.md "wikilink")，以及30厘米的焦距距离和85°的[視野](../Page/視野.md "wikilink")大小。\[9\]软件可以以不同的目的来使用这两颗摄像头。\[10\]如[Xbox](../Page/Xbox.md "wikilink")的[Kinect](../Page/Kinect.md "wikilink")一样，PlayStation Camera也可以利用这两颗摄像头来对其视野内的物体进行深度感知。\[11\]\[12\]或者也可以让一颗摄像头用来录制视频，另一颗用来追踪人体运动。\[13\]
 
 PlayStation Camera拥有一个四通道麦克风阵列，\[14\]用来接收玩家的语音指令和降低背景噪音。\[15\]PlayStation Camera能录制[RAW](../Page/RAW.md "wikilink")和[YUV](../Page/YUV.md "wikilink")格式的影片。其通过专属的接口连接至PlayStation 4主机。\[16\]\[17\]\[18\]
 

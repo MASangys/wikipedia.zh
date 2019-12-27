@@ -1,4 +1,4 @@
-是Forgotten Empires開發的[即時策略遊戲](https://zh.wikipedia.org/wiki/即時策略遊戲 "wikilink")，由[Xbox遊戲工作室發行](https://zh.wikipedia.org/wiki/Xbox遊戲工作室 "wikilink")，是《[世紀帝國II：帝王世紀](../Page/世紀帝國II：帝王世紀.md "wikilink")》的重製版，於2019年11月14日上市。用以慶祝原版本的20周年慶。以[4K解析度](../Page/4K解析度.md "wikilink")為特色，並新增遊戲戰役「最後的可汗」與4個遊戲文明，\[1\]且包括原作和HD版本所有的資料片內容。
+是Forgotten Empires開發的[即時策略遊戲](https://zh.wikipedia.org/wiki/即時策略遊戲 "wikilink")，由[Xbox遊戲工作室發行](https://zh.wikipedia.org/wiki/Xbox遊戲工作室 "wikilink")，是《[世紀帝國II：帝王世紀](../Page/世紀帝國II：帝王世紀.md "wikilink")》的重製版，於2019年11月14日上市。用以慶祝原版本的20周年慶。以[4K解析度](../Page/4K解析度.md "wikilink")為特色，並新增遊戲戰役「最後的可汗」與4個遊戲文明，\[1\]且包括原作和HD版本所有的資料片內容。(戰役內容中有部分落差)
 
 ## 遊戲內容
 

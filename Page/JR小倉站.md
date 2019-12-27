@@ -28,7 +28,7 @@
 <td><p>1</p></td>
 <td><p>奈良線</p></td>
 <td><p>上行</p></td>
-<td><p>往 <a href="../Page/宇治站_(JR西日本).md" title="wikilink">宇治</a>、<a href="https://zh.wikipedia.org/wiki/京都站" title="wikilink">京都</a></p></td>
+<td><p>往 <a href="../Page/宇治站_(JR西日本).md" title="wikilink">宇治</a>、<a href="../Page/京都站.md" title="wikilink">京都</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -137,7 +137,7 @@
 
 ## 相鄰車站
 
-往 [京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")  往 [奈良](https://zh.wikipedia.org/wiki/奈良站 "wikilink") |-
+往 [京都](../Page/京都站.md "wikilink")  往 [奈良](https://zh.wikipedia.org/wiki/奈良站 "wikilink") |-
 
 ## 參考資料
 

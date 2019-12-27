@@ -20,4 +20,4 @@
 2.  [黃翊 - Changes (1991)](http://comebacktolove.blogspot.hk/2017/05/changes-1991.html)
 3.  [黃翊 - 最愛的妳 (1991) 鄒靜演出MV](https://comebacktolove.blogspot.com/2017/05/1991-mv.html)
 4.  [最愛的妳](https://blog.stheadline.com/article/detail/837513)
-5.  [黃翊的青春日子](http://blog.roodo.com/dickylau/archives/16073981.html)
+5.

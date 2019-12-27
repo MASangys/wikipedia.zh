@@ -56,7 +56,7 @@
 </tr>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/The_Dream_Chapter:_MAGIC" title="wikilink">The Dream Chapter: MAGIC</a>》</p></td>
+<td><p>《<a href="../Page/The_Dream_Chapter:_MAGIC.md" title="wikilink">The Dream Chapter: MAGIC</a>》</p></td>
 <td><ul>
 <li>發行日期：2019年10月21日</li>
 <li>唱片公司：<a href="../Page/Big_Hit娛樂.md" title="wikilink">Big Hit娛樂</a></li>
@@ -285,7 +285,7 @@
 <td><p>－</p></td>
 <td><p>16</p></td>
 <td><p>rowspan=3 align=left </p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/The_Dream_Chapter:_MAGIC" title="wikilink">The Dream Chapter: MAGIC</a>》</p></td>
+<td><p>《<a href="../Page/The_Dream_Chapter:_MAGIC.md" title="wikilink">The Dream Chapter: MAGIC</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><p>20cm</p></td>

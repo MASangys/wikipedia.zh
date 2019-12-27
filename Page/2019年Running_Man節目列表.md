@@ -390,7 +390,7 @@
 <td><p>448</p></td>
 <td><p>4月21日<small><br />
 （3月26日）</small></p></td>
-<td><p><a href="../Page/韓寶凜.md" title="wikilink">韓寶凜</a>、<a href="https://zh.wikipedia.org/wiki/金惠奫" title="wikilink">金惠奫</a>、<br />
+<td><p><a href="../Page/韓寶凜.md" title="wikilink">韓寶凜</a>、<a href="../Page/金惠奫.md" title="wikilink">金惠奫</a>、<br />
 <a href="../Page/率智.md" title="wikilink">率智</a>、<a href="../Page/哈妮.md" title="wikilink">哈妮</a>(<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>)、<br />
 <a href="https://zh.wikipedia.org/wiki/勝寛" title="wikilink">勝寛</a>、<a href="https://zh.wikipedia.org/wiki/珉奎" title="wikilink">珉奎</a>(<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>)</p></td>
 <td><p>韓國石雕藝術館<br />
@@ -1033,8 +1033,8 @@ Tiffany、池錫辰、宋智孝<br />
 <span style=color:#808080>兔子：哈哈、全昭旻</span><br />
 <span style=color:#9400D3>熊：宋智孝、梁世燦</span><br />
 <span style=color:#000000>老虎：李光洙、李國主</strong></span></p></td>
-<td><p><strong>禁止動物（人類）</strong><br />
-隱藏身份並完成隱藏任務<br />
+<td><p><strong>禁止動物</strong><br />
+隱藏身份並完成所有隱藏任務及擊敗動物隊<br />
 <strong>動物隊</strong><br />
 擊敗禁止動物</p></td>
 <td><p>動物隊<strong>勝出</strong><br />
@@ -1121,33 +1121,90 @@ Tiffany、池錫辰、宋智孝<br />
 <td><p>410</p></td>
 <td><p>480</p></td>
 <td><p>12月8日<small><br />
-（11月25日）</small></p></td>
-<td><p><a href="../Page/李姬珍.md" title="wikilink">李姬珍</a>、<br />
-<a href="../Page/柳炳宰.md" title="wikilink">柳炳宰</a>、<a href="../Page/姜漢娜.md" title="wikilink">姜漢娜</a>、<br />
+（11月19日）</small></p></td>
+<td><p><a href="../Page/李姬珍.md" title="wikilink">李姬珍</a>、<a href="../Page/柳炳宰.md" title="wikilink">柳炳宰</a>、<a href="../Page/姜漢娜.md" title="wikilink">姜漢娜</a>、<br />
 <a href="../Page/YooA.md" title="wikilink">YooA</a>(<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)</p></td>
 <td><p><br />
 <small>（<br />
 ）</small></p></td>
-<td><p><span style="font-size:110%"><strong>RM招商引資計劃</strong></span><br />
-</p></td>
-<td></td>
-<td><p><strong>勝出</strong><br />
-</p></td>
+<td><p><span style="font-size:110%"><strong>RM招商引資競賽</strong></span><br />
+<strong>個人戰</strong><br />
+沒有隊伍</p></td>
+<td><p>擁有"R"幣數目最多</p></td>
+<td><p>柳炳宰<strong>勝出</strong><br />
+獲得"R"戒指<br />
+成為"R"數目最少的李姬珍須接受水炸彈懲罰</p></td>
 </tr>
 <tr class="odd">
 <td><p>411</p></td>
 <td><p>481</p></td>
 <td><p>12月15日<small><br />
+（11月25日）</small></p></td>
+<td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>、<a href="https://zh.wikipedia.org/wiki/徐酉奈" title="wikilink">酉奈</a>、<a href="https://zh.wikipedia.org/wiki/申惠晶" title="wikilink">惠晶</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/金雪炫" title="wikilink">雪炫</a>、<a href="https://zh.wikipedia.org/wiki/金澯美" title="wikilink">澯美</a>(<a href="../Page/AOA.md" title="wikilink">AOA</a>)</p></td>
+<td><p>月尾公園<br />
+<small>（<a href="../Page/仁川廣域市.md" title="wikilink">仁川廣域市</a><br />
+<a href="https://zh.wikipedia.org/wiki/中區_(仁川)" title="wikilink">中區</a>）</small></p></td>
+<td><p><span style="font-size:110%"><strong>仁川行－Ace of Ace競賽</strong></span><br />
+<strong><span style=color:#FF0000>紅隊</strong><br />
+劉在錫、池錫辰、梁世燦、惠晶、澯美<br />
+<strong><span style=color:#008000>綠隊</strong><br />
+金鐘國、宋智孝、酉奈、雪炫<br />
+<strong><span style=color:#2200FF>藍隊</strong><br />
+哈哈、李光洙、全昭旻、智珉</p></td>
+<td><p><strong>團體戰</strong><br />
+隊伍中用餐券數目最多<br />
+<strong>個人戰</strong><br />
+不成為懲罰徽章最多</p></td>
+<td><p><strong>團體戰</strong><br />
+綠隊<strong>勝出</strong><br />
+<strong>個人戰</strong><br />
+劉在錫、池錫辰、金鐘國、哈哈、宋智孝、李光洙、梁世燦、酉奈、惠晶、雪炫及澯美<strong>勝出</strong><br />
+成為懲罰徽章最多的全昭旻、智珉經抽選後由智珉選擇與李光洙一同接受綠色奶油炮彈懲罰</p></td>
+</tr>
+<tr class="even">
+<td><p>412</p></td>
+<td><p>482</p></td>
+<td><p>12月22日<small><br />
 （12月2日）</small></p></td>
-<td><p><a href="../Page/萊恩·雷諾斯.md" title="wikilink">萊恩·雷諾斯</a>、<br />
-<a href="../Page/梅蘭妮·蘿倫.md" title="wikilink">梅蘭妮·蘿倫</a>、</p></td>
+<td><p><a href="../Page/黃寶羅.md" title="wikilink">黃寶羅</a>、<a href="../Page/萊恩·雷諾斯.md" title="wikilink">萊恩·雷諾斯</a>、<a href="../Page/梅蘭妮·蘿倫.md" title="wikilink">梅蘭妮·蘿倫</a>、</p></td>
+<td><p><br />
+<small>（<br />
+）</small></p></td>
+<td><p><span style="font-size:110%"><strong>幽靈獵人競賽</strong></span><br />
+<strong>幽靈</strong><br />
+<br />
+<strong>人隊</strong><br />
+</p></td>
+<td><p><strong>幽靈</strong><br />
+<br />
+<strong>人隊</strong><br />
+</p></td>
+<td><p><strong>勝出</strong>[32]</p></td>
+</tr>
+<tr class="odd">
+<td><p>413</p></td>
+<td><p>483</p></td>
+<td><p>12月29日<small><br />
+（12月16日）</small></p></td>
+<td></td>
 <td><p><br />
 <small>（<br />
 ）</small></p></td>
 <td><p><span style="font-size:110%"></span><br />
 </p></td>
 <td></td>
-<td><p><strong>勝出</strong>[32]</p></td>
+<td><p><strong>勝出</strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -1249,7 +1306,7 @@ Tiffany、池錫辰、宋智孝<br />
 <tr class="even">
 <td><p>445</p></td>
 <td><p>3月31日</p></td>
-<td></td>
+<td><p>8.3%</p></td>
 <td><p>5.3%</p></td>
 </tr>
 <tr class="odd">
@@ -1280,13 +1337,13 @@ Tiffany、池錫辰、宋智孝<br />
 <td><p>450</p></td>
 <td><p>5月5日</p></td>
 <td></td>
-<td><p>4.9%</p></td>
+<td><p>4.1%</p></td>
 </tr>
 <tr class="even">
 <td><p>451</p></td>
 <td><p>5月12日</p></td>
 <td><p>7.2%</p></td>
-<td><p>4.6%</p></td>
+<td><p>4.3%</p></td>
 </tr>
 <tr class="odd">
 <td><p>452</p></td>
@@ -1304,13 +1361,13 @@ Tiffany、池錫辰、宋智孝<br />
 <td><p>454</p></td>
 <td><p>6月2日</p></td>
 <td><p>6.3%</p></td>
-<td><p>5.3%</p></td>
+<td><p>4.5.%</p></td>
 </tr>
 <tr class="even">
 <td><p>455</p></td>
 <td><p>6月9日</p></td>
 <td><p>6.5%</p></td>
-<td><p>5.4%</p></td>
+<td><p>5.1%</p></td>
 </tr>
 <tr class="odd">
 <td><p>456</p></td>
@@ -1357,7 +1414,7 @@ Tiffany、池錫辰、宋智孝<br />
 <tr class="even">
 <td><p>462</p></td>
 <td><p>8月4日  </p></td>
-<td><p>4.2%</p></td>
+<td></td>
 <td><p>5.7%</p></td>
 </tr>
 <tr class="odd">
@@ -1376,7 +1433,7 @@ Tiffany、池錫辰、宋智孝<br />
 <td><p>465</p></td>
 <td><p>8月25日</p></td>
 <td><p>7.1%</p></td>
-<td><p>4.5%</p></td>
+<td><p>4.7%</p></td>
 </tr>
 <tr class="even">
 <td><p>466</p></td>
@@ -1418,7 +1475,7 @@ Tiffany、池錫辰、宋智孝<br />
 <td><p>472</p></td>
 <td><p>10月13日</p></td>
 <td><p>7.4%</p></td>
-<td></td>
+<td><p>3.8%</p></td>
 </tr>
 <tr class="odd">
 <td><p>473</p></td>
@@ -1459,20 +1516,20 @@ Tiffany、池錫辰、宋智孝<br />
 <tr class="odd">
 <td><p>479</p></td>
 <td><p>12月1日</p></td>
-<td><p>%</p></td>
+<td></td>
 <td><p>5.0%</p></td>
 </tr>
 <tr class="even">
 <td><p>480</p></td>
 <td><p>12月8日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>8.4%</p></td>
+<td><p>5.0%</p></td>
 </tr>
 <tr class="odd">
 <td><p>481</p></td>
 <td><p>12月15日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>7.3%</p></td>
+<td><p>5.4%</p></td>
 </tr>
 <tr class="even">
 <td><p>482</p></td>
@@ -1536,7 +1593,7 @@ Tiffany、池錫辰、宋智孝<br />
 28. 特別出演。
 29. 宋智孝、全昭旻及梁世燦因為於第473集沒有被金鐘國和哈哈選擇，因此須與當時落敗的劉在錫一同接受裝扮懲罰，分別飾演憤怒鳥、迷你兵團、烏蘇拉及羊駝。
 30. 於第476集聲音出演，[Onda](https://zh.wikipedia.org/wiki/曺世林 "wikilink")、[怡人](../Page/王怡人.md "wikilink")([EVERGLOW](../Page/EVERGLOW.md "wikilink"))於第477集特別出演。
-31. [朴正民](../Page/朴正民.md "wikilink")、及驚喜出演。
+31. [朴正民](../Page/朴正民.md "wikilink")於第477集驚喜出演，及於第478集特別出演。
 32. 宣傳電影《[鬼影特攻：以暴制暴](../Page/鬼影特攻：以暴制暴.md "wikilink")》。
 33. [Naver: TNmS 收視數據表](https://m.search.naver.com/search.naver?sm=mtb_hty.top&where=m&query=TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&oquery=05%EC%9B%9413%EC%9D%BC++TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&tqi=TYBhglpVuowssuf%2BZewsssssscC-394882)
 34. [AGB Nielsen Media Research 收視數據表](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=1_1&area=00)

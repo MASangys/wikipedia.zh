@@ -58,6 +58,7 @@
 |                                                                  |
 |                                                                  |
 |                                                                  |
+|                                                                  |
 
   - （\*）表示仍在榜上
   - （×）沒有派往該台
@@ -67,27 +68,27 @@
 
 ### 綜藝節目（ViuTV）
 
-| style="background: \#000000; color: white;|年份 | style="background: \#000000; color: white;|節目名稱           | style="background: \#000000; color: white;|參與成員 | style="background: \#000000; color: white;|備註 |
-| --------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
-| 2019年                                         | Good Night Show 個個得把口                                     | 193                                             |                                               |
-| 2019年                                         | [Interviu](../Page/Interviu.md "wikilink")                | 全體                                              | 訪問嘉賓                                          |
-| 2019年                                         | [花姐ERROR遊](../Page/花姐ERROR遊.md "wikilink")                | 全體                                              |                                               |
-| 2019年                                         | ERROR金豬賀歲暨花姐巡遊                                            | 全體                                              |                                               |
-| 2019年                                         | 見習女神                                                      | 肥仔                                              |                                               |
-| 2019年                                         | Cooking Gigi 台灣篇                                          | 肥仔、保錡                                           |                                               |
-| 2019年                                         | [估你唔到](../Page/估你唔到.md "wikilink")                        | 肥仔、保錡、193                                       | 第1-2集嘉賓                                       |
-| 2019年                                         | [花姐ERROR遊 2](../Page/花姐ERROR遊.md "wikilink")              | 全體                                              |                                               |
-| 2019年                                         | [全民造星II](https://zh.wikipedia.org/wiki/全民造星II "wikilink") | 肥仔                                              | 幕後人員                                          |
-| 2019年                                         | 港男入贅手冊                                                    | 保錡、193                                          | 第5-8集主持                                       |
-| 2019年                                         | Chill Club                                                | 全體                                              | 第3集嘉賓                                         |
-| 2019年                                         | Chill Club                                                | 肥仔                                              | 第4集嘉賓                                         |
-| 2020年                                         | 辣伙頭                                                       | 保錡、193                                          | 嘉賓                                            |
+| style="background: \#000000; color: white;|年份 | style="background: \#000000; color: white;|節目名稱                   | style="background: \#000000; color: white;|參與成員 | style="background: \#000000; color: white;|備註 |
+| --------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
+| 2019年                                         | Good Night Show 個個得把口                                             | 193                                             |                                               |
+| 2019年                                         | [Interviu](../Page/Interviu.md "wikilink")                        | 全體                                              | 訪問嘉賓                                          |
+| 2019年                                         | [花姐ERROR遊](../Page/花姐ERROR遊.md "wikilink")                        | 全體                                              |                                               |
+| 2019年                                         | ERROR金豬賀歲暨花姐巡遊                                                    | 全體                                              |                                               |
+| 2019年                                         | 見習女神                                                              | 肥仔                                              |                                               |
+| 2019年                                         | Cooking Gigi 台灣篇                                                  | 肥仔、保錡                                           |                                               |
+| 2019年                                         | [估你唔到](../Page/估你唔到.md "wikilink")                                | 肥仔、保錡、193                                       | 第1-2集嘉賓                                       |
+| 2019年                                         | [花姐ERROR遊 2](../Page/花姐ERROR遊.md "wikilink")                      | 全體                                              |                                               |
+| 2019年                                         | [全民造星II](../Page/全民造星II.md "wikilink")                            | 肥仔                                              | 幕後人員                                          |
+| 2019年                                         | [港男入贅手冊](https://zh.wikipedia.org/wiki/港男入贅手冊 "wikilink")         | 保錡、193                                          | 第5-8集主持                                       |
+| 2019年                                         | [Chill Club](https://zh.wikipedia.org/wiki/Chill_Club "wikilink") | 全體                                              | 第3集嘉賓                                         |
+| 2019年                                         | [Chill Club](https://zh.wikipedia.org/wiki/Chill_Club "wikilink") | 肥仔                                              | 第4集嘉賓                                         |
+| 2020年                                         | 辣伙頭                                                               | 保錡、193                                          | 嘉賓                                            |
 
 ### 劇集（ViuTV）
 
 | style="background: \#000000; color: white;|年份 | style="background: \#000000; color: white;|劇集名稱       | style="background: \#000000; color: white;|參與成員 | style="background: \#000000; color: white;|備註 |
 | --------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
-| 2018年                                         | [做演藝嘅](https://zh.wikipedia.org/wiki/做演藝嘅 "wikilink") | 全體                                              |                                               |
+| 2018年                                         | [做演藝嘅](https://zh.wikipedia.org/wiki/做演藝嘅 "wikilink") | DeeGor、193                                      |                                               |
 | 2019年                                         | [退休女皇](https://zh.wikipedia.org/wiki/退休女皇 "wikilink") | 肥仔、保錡                                           |                                               |
 | 2019年                                         | [仇老爺爺](../Page/仇老爺爺.md "wikilink")                    | DeeGor                                          |                                               |
 | 2019年                                         | Reboot                                                | DeeGor                                          |                                               |
@@ -169,6 +170,18 @@
 <td><p>2019年10月9日</p></td>
 <td><p>《ViuTV 2020》節目發佈會</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>2019年12月10日</p></td>
+<td><p>《新城勁爆頒獎禮2019》記者會</p></td>
+<td><p>嘉賓<br />
+出席成員：DeeGor、保錡、193</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年12月14日</p></td>
+<td><p>新城知訊台主辦《新人大熱唱2019》</p></td>
+<td><p>嘉賓<br />
+於馬鞍山廣場L2天幕廣場舉行</p></td>
 </tr>
 </tbody>
 </table>

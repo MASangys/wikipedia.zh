@@ -100,4 +100,69 @@ function WSU.bulletin_item( frame )
 
 end
 
+function WSU.join_preload(frame)
+
+`   local args = frame.args`
+`   local user = args[1] or frame:preprocess('``')`
+`   if args[2] ~= '' then`
+`       if mw.isSubsting() then`
+`           return string.format('=== `[`%s`](https://zh.wikipedia.org/wiki/User:%s "wikilink")` ===', user, user) .. '``'`
+`       else`
+`           return frame:preprocess(string.format('=== `[`%s`](https://zh.wikipedia.org/wiki/User:%s "wikilink")` ===', user, user) .. '``')`
+`       end`
+`   else`
+`       if mw.isSubsting() then`
+`           return string.format('=== `[`%s`](https://zh.wikipedia.org/wiki/User:%s "wikilink")` ===', user, user) .. '``'`
+`       else`
+`           return frame:preprocess(string.format('=== `[`%s`](https://zh.wikipedia.org/wiki/User:%s "wikilink")` ===', user, user) .. '``')`
+`       end`
+`   end`
+
+end
+
+local function url(url, text)
+
+`   return '`<span class="plainlinks">`[' .. url .. ' ' .. text .. ']`</span>`'`
+
+end
+
+local function fullurl(title, text, paid)
+
+`   return require('Module:Fullurl')._fullurl2(title ,paid, text)`
+
+end
+
+function WSU.join_template(frame)
+
+`   local args = {}`
+`   for k, v in pairs( frame:getParent().args ) do`
+`   --  args[k] = v`
+`   end`
+`   for k, v in pairs( frame.args ) do`
+`       args[k] = v`
+`   end`
+`   local user = args[1] or '???'`
+`   local text = ''`
+`   text = ':申請加入：`[`'``   ``..``   ``user``   ``..``   ``'`](https://zh.wikipedia.org/wiki/User:'_.._user_.._' "wikilink")`'`
+`       .. '`<small>`（'`
+`       .. '`[`讨论页`](https://zh.wikipedia.org/wiki/User_talk:'_.._user_.._' "wikilink")`'`
+`       .. '·'`
+`       .. '`[`贡献`](https://zh.wikipedia.org/wiki/Special:Contributions/'_.._user_.._' "wikilink")`'`
+`       .. '·'`
+`       .. '`[`已删贡献`](https://zh.wikipedia.org/wiki/Special:DeletedContributions/'_.._user_.._' "wikilink")`'`
+`       .. '·'`
+`       .. url('`<https://xtools.wmflabs.org/ec/zh.wikipedia.org/>`{{ ``anchorencode:' .. user .. '}}?uselang=``','编辑次数')`
+`       .. '·'`
+`       .. fullurl('Special:Listusers', '注册日期' , 'limit=1&username={{ ``urlencode:{{ ``ucfirst:' .. user .. '}}}}')`
+`       .. '·'`
+`       .. fullurl('Special:Log/block', '封禁日志' , 'page=User:{{ ``urlencode:{{ ``ucfirst:' .. user .. '}}}}')`
+`       .. '）`</small>`\n'`
+`   if args[2] ~= '' then`
+`       text = text .. ':理由：' .. args[2] .. '\n'`
+`   end`
+`   text = text .. ':申請者：' .. (args['sign'] or '')`
+`   return frame:preprocess(text)`
+
+end
+
 return WSU

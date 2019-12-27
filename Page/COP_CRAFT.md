@@ -70,7 +70,7 @@
 <!-- end list -->
 
   -
-    從瑟瑪尼世界來到地球的年輕[貴族](../Page/貴族.md "wikilink")，在瑟瑪尼已經40歲，換成地球算法是26歲。在聖德雷沙市暗中進行著將[麻藥](https://zh.wikipedia.org/wiki/麻藥 "wikilink")「妖精之塵」轉化為[武器](../Page/武器.md "wikilink")的製造與販賣事業。
+    從瑟瑪尼世界來到地球的年輕[貴族](../Page/貴族.md "wikilink")，在瑟瑪尼已經40歲，換成地球算法是26歲。在聖德雷沙市暗中進行著將[麻藥](https://zh.wikipedia.org/wiki/麻藥 "wikilink")「妖精之塵」轉化為[武器](../Page/武器.md "wikilink")的製造與販賣事業。最後遭到緹拉娜斬殺。
 
 ## 出版書籍
 

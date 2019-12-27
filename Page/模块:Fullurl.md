@@ -41,7 +41,11 @@ function p.fullurl(frame)
 
 end
 
-function p.hosturl ()
+function p._fullurl2(title ,paid, text)
+
+`   return '`<span class="plainlinks">`[' .. tostring(mw.uri.fullUrl(title,paid)) .. ' ' .. text .. ']`</span>`'`
+
+end --\[=\[ function p.hosturl ()
 
 `   return "//zh.wikipedia.org"`
 
@@ -81,6 +85,4 @@ p\["rest.php"\] = function (frame)
 
 `   return p.scripturl () .. "/rest.php"`
 
-end
-
-return p
+end \]=\]-- return p

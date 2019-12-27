@@ -86,7 +86,7 @@
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/VLIVE_AWARDS_V_HEARTBEAT" title="wikilink">第一屆 VLIVE AWARDS V HEARTBEAT</a></p></td>
+<td><p><a href="../Page/VLIVE_AWARDS_V_HEARTBEAT.md" title="wikilink">第一屆 VLIVE AWARDS V HEARTBEAT</a></p></td>
 <td><p>最受歡迎網劇系列</p></td>
 <td><p>《A-TEEN 2》</p></td>
 <td></td>

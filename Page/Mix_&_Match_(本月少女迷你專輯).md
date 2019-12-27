@@ -18,7 +18,7 @@
 
 10月23日，官方推出首張英文單曲《LOONATIC (English Ver.)》的歌詞版MV及音源，並於美國iTunes韓國流行音樂排行榜得到第三位\[9\]\[10\]\[11\]。。
 
-11月2日，《Girl Front》MV播放量達到1,000,000次，官方按照約定，公開《Girl Front》舞蹈版MV。
+11月2日，《Girl Front》MV播放量達到1,000,000次，官方按照約定，於YouTube上公開《Girl Front》舞蹈版影片。
 
 ## Max & Match
 

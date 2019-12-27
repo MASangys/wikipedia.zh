@@ -7,7 +7,7 @@
 ## 歷史
 
   - 1997年（[平成](../Page/平成.md "wikilink")9年）3月8日 - 本站開業，設在當時[奈良線](../Page/奈良線.md "wikilink")內站間最長的[稻荷站](https://zh.wikipedia.org/wiki/稻荷站 "wikilink") - 之間。
-  - 2001年（平成13年）3月3日 - [京都站](https://zh.wikipedia.org/wiki/京都站 "wikilink") - 本站間複線化。
+  - 2001年（平成13年）3月3日 - [京都站](../Page/京都站.md "wikilink") - 本站間複線化。
   - 2003年（平成15年）11月1日 - 可使用[IC卡](https://zh.wikipedia.org/wiki/儲值車票 "wikilink")「[ICOCA](../Page/ICOCA.md "wikilink")」搭乘\[3\]。
   - 2016年（平成28年）3月24日 - 車站內設置電梯\[4\]。
   - 2018年（平成30年）3月17日 - 導入[車站編號](../Page/車站編號.md "wikilink")。
@@ -20,10 +20,10 @@
 
 ### 月台配置
 
-| 月台 | 路線       | 方向                                                                                             | 目的地                                                  |
-| -- | -------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| 1  | **** 奈良線 | 上行                                                                                             | 往 [京都](https://zh.wikipedia.org/wiki/京都站 "wikilink") |
-| 2  | 下行       | 往 [宇治](../Page/宇治站_\(JR西日本\).md "wikilink")、[奈良](https://zh.wikipedia.org/wiki/奈良站 "wikilink") |                                                      |
+| 月台 | 路線       | 方向                                                                                             | 目的地                               |
+| -- | -------- | ---------------------------------------------------------------------------------------------- | --------------------------------- |
+| 1  | **** 奈良線 | 上行                                                                                             | 往 [京都](../Page/京都站.md "wikilink") |
+| 2  | 下行       | 往 [宇治](../Page/宇治站_\(JR西日本\).md "wikilink")、[奈良](https://zh.wikipedia.org/wiki/奈良站 "wikilink") |                                   |
 
 ## 使用狀況
 
@@ -128,7 +128,7 @@
 
 ## 相鄰車站
 
-往 [京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")  往 [奈良](https://zh.wikipedia.org/wiki/奈良站 "wikilink") |-
+往 [京都](../Page/京都站.md "wikilink")  往 [奈良](https://zh.wikipedia.org/wiki/奈良站 "wikilink") |-
 
 ## 參考資料
 

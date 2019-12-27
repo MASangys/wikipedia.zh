@@ -126,7 +126,7 @@ Officesuite 在所有平台上完全兼容微软Office的文件格式。 该软�
 
   - [OfficeSuite application review by Wpxbox](https://www.wpxbox.com/mobisystems-bring-their-officesuite-to-windows/)
 
-  - [OfficeSuite PREMIUM](https://www.mobisystems.com/officesuite-premium-extended/)
+  - [OfficeSuite PREMIUM](https://web.archive.org/web/20190328134520/https://www.mobisystems.com/officesuite-premium-extended/)
 
 [Category:文書處理器](https://zh.wikipedia.org/wiki/Category:文書處理器 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 

@@ -1,6 +1,6 @@
 **华为Mate 30系列**是由[华为公司设计和销售的Mate系列](https://zh.wikipedia.org/wiki/华为公司 "wikilink")[智能手机](../Page/智能手机.md "wikilink")，也是[华为Mate 20系列的换代产品](../Page/华为Mate_20系列.md "wikilink")，包括Mate 30、Mate 30 Pro，另有與聯名的手機Porsche Design Mate 30 RS。欧洲版本于2019年9月19日在[德国](../Page/德国.md "wikilink")[慕尼黑](../Page/慕尼黑.md "wikilink")发布\[1\]，国行版本于同年9月26日在[中国](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[上海发布](https://zh.wikipedia.org/wiki/上海 "wikilink")\[2\]，Mate 30系列搭載[麒麟990](https://zh.wikipedia.org/wiki/海思半導體#990系列 "wikilink")，並支持[5G](../Page/5G.md "wikilink")網絡。
 
-由於受到華為列入美國實體清單限制，Mate 30系列無法預裝[Google系列應用](../Page/Google流動服務.md "wikilink")\[3\]，之后媒体宣称華為允許Mate 30系列解鎖[BootLoader](../Page/啟動程式.md "wikilink")，但随后華為方面否認了這一說法\[4\]。
+由於受到華為列入美國實體清單限制，Mate 30系列無法預裝[Google系列應用](../Page/Google流動服務.md "wikilink")\[3\]，之后媒体宣称華為允許Mate 30系列解鎖[BootLoader](../Page/啟動程式.md "wikilink")，但随后華為方面否認了這一說法\[4\]。將預載使用Huawei Mobile Service（HMS）。
 
 ## 参考文献
 

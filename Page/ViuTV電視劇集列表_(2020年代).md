@@ -53,7 +53,7 @@
 <td><p><small><a href="../Page/電訊盈科媒體.md" title="wikilink">PCCW Media Group</a>、<a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷信息技術 (北京) 有限公司聯合製作</a></small></p></td>
 </tr>
 <tr class="odd">
-<td><p>拍攝中</p></td>
+<td><p>拍攝完成</p></td>
 <td><p>-</p></td>
 <td><p>香港</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/打天下" title="wikilink">打天下</a></p></td>
@@ -62,7 +62,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>拍攝中</p></td>
+<td><p>拍攝完成</p></td>
 <td><p>10</p></td>
 <td><p>香港</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/二月廿九_(電視劇)" title="wikilink">二月廿九</a></p></td>
@@ -76,20 +76,30 @@
 <small>（暫定）</small></p></td>
 <td><p>香港</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/地產仔" title="wikilink">地產仔</a></p></td>
-<td><p><a href="../Page/鄭浩南.md" title="wikilink">鄭浩南</a>、<a href="../Page/朱慧敏.md" title="wikilink">朱慧敏</a>、<a href="../Page/吳肇軒.md" title="wikilink">吳肇軒</a>、-{<a href="../Page/胡子彤.md" title="wikilink">胡子彤</a>}-、<a href="../Page/余香凝.md" title="wikilink">余香凝</a>、<a href="../Page/廖子妤.md" title="wikilink">廖子妤</a>、<a href="../Page/陳穎欣_(歌手).md" title="wikilink">陳穎欣</a>、<a href="https://zh.wikipedia.org/wiki/邱士縉" title="wikilink">邱士縉</a>、<a href="../Page/麥子樂.md" title="wikilink">麥子樂</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<a href="../Page/張文傑.md" title="wikilink">張文傑</a>、、</p></td>
+<td><p><a href="../Page/鄭浩南.md" title="wikilink">鄭浩南</a>、<a href="../Page/朱慧敏.md" title="wikilink">朱慧敏</a>、<a href="../Page/吳肇軒.md" title="wikilink">吳肇軒</a>、-{<a href="../Page/胡子彤.md" title="wikilink">胡子彤</a>}-、<a href="../Page/余香凝.md" title="wikilink">余香凝</a>、<a href="../Page/廖子妤.md" title="wikilink">廖子妤</a>、<a href="../Page/陳穎欣_(歌手).md" title="wikilink">陳穎欣</a>、<a href="https://zh.wikipedia.org/wiki/邱士縉" title="wikilink">邱士縉</a>、<a href="../Page/麥子樂.md" title="wikilink">麥子樂</a>、<a href="https://zh.wikipedia.org/wiki/張達明" title="wikilink">張達明</a>、<a href="https://zh.wikipedia.org/wiki/鄭雪兒" title="wikilink">鄭雪兒</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<a href="../Page/張文傑.md" title="wikilink">張文傑</a>、、</p></td>
 <td></td>
 <td><p><small><a href="../Page/香港電視娛樂.md" title="wikilink">香港電視娛樂</a>、<a href="../Page/天下一電影.md" title="wikilink">天下一電視製作部</a>、<a href="../Page/寰亞傳媒集團.md" title="wikilink">寰亞公司電視製作部聯合製作</a></small></p></td>
 </tr>
 <tr class="even">
-<td><p>計劃中</p></td>
+<td><p>拍攝中</p></td>
 <td><p>15</p></td>
 <td><p>香港</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/男排女將" title="wikilink">男排女將</a></p></td>
-<td><p><a href="../Page/鄧麗欣.md" title="wikilink">鄧麗欣</a>、<a href="https://zh.wikipedia.org/wiki/陳卓賢" title="wikilink">陳卓賢</a>、<a href="../Page/顧定軒.md" title="wikilink">顧定軒</a>、<a href="../Page/盧瀚霆.md" title="wikilink">盧瀚霆</a>、<a href="https://zh.wikipedia.org/wiki/呂爵安" title="wikilink">呂爵安</a>、<a href="../Page/王智德.md" title="wikilink">王智德</a>、<a href="https://zh.wikipedia.org/wiki/柳應廷" title="wikilink">柳應廷</a>、<a href="https://zh.wikipedia.org/wiki/邱傲然" title="wikilink">邱傲然</a>、<a href="https://zh.wikipedia.org/wiki/李駿傑" title="wikilink">李駿傑</a>、<a href="https://zh.wikipedia.org/wiki/梁業" title="wikilink">梁業</a></p></td>
+<td><p><a href="../Page/鄧麗欣.md" title="wikilink">鄧麗欣</a>、<a href="../Page/顧定軒.md" title="wikilink">顧定軒</a>、<a href="https://zh.wikipedia.org/wiki/陳卓賢" title="wikilink">陳卓賢</a>、<a href="../Page/盧瀚霆.md" title="wikilink">盧瀚霆</a>、<a href="https://zh.wikipedia.org/wiki/呂爵安" title="wikilink">呂爵安</a>、<a href="../Page/王智德.md" title="wikilink">王智德</a>、<a href="https://zh.wikipedia.org/wiki/柳應廷" title="wikilink">柳應廷</a>、<a href="https://zh.wikipedia.org/wiki/邱傲然" title="wikilink">邱傲然</a>、<a href="https://zh.wikipedia.org/wiki/李駿傑" title="wikilink">李駿傑</a>、<a href="https://zh.wikipedia.org/wiki/梁業" title="wikilink">梁業</a>、<a href="../Page/陳宇琛.md" title="wikilink">陳宇琛</a>、<a href="../Page/余潔瀅.md" title="wikilink">余潔瀅</a></p></td>
 <td></td>
 <td><p>|</p></td>
 </tr>
 <tr class="odd">
+<td><p>計劃中</p></td>
+<td><p>15</p></td>
+<td><p>香港/新加坡</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/太平紋身店" title="wikilink">太平紋身店</a></p></td>
+<td><p><a href="../Page/周秀娜.md" title="wikilink">周秀娜</a>、<a href="../Page/林德信.md" title="wikilink">林德信</a>、<a href="https://zh.wikipedia.org/wiki/柏天男" title="wikilink">柏天男</a>、<a href="../Page/陳泂江.md" title="wikilink">陳泂江</a>、<a href="../Page/黃俊雄_(藝人).md" title="wikilink">黄俊雄</a>、<a href="../Page/朱厚任.md" title="wikilink">朱厚任</a>、<a href="../Page/陈澍城.md" title="wikilink">陈澍城</a>、<a href="https://zh.wikipedia.org/wiki/芳榕" title="wikilink">芳榕</a>、<a href="https://zh.wikipedia.org/wiki/何盈莹" title="wikilink">何盈莹</a>、<a href="https://zh.wikipedia.org/wiki/孙政" title="wikilink">孙政</a></p></td>
+<td></td>
+<td><p>|<small><a href="../Page/香港電視娛樂.md" title="wikilink">香港電視娛樂</a>、<a href="https://zh.wikipedia.org/wiki/新傳媒私人有限公司" title="wikilink">新加坡新傳媒聯合製作</a></small><br />
+預計2020年第三季首播</p></td>
+</tr>
+<tr class="even">
 <td><p>計劃中</p></td>
 <td><p>-</p></td>
 <td><p>香港</p></td>
@@ -98,7 +108,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>計劃中</p></td>
 <td><p>-</p></td>
 <td><p>香港</p></td>
@@ -107,7 +117,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>計劃中</p></td>
 <td><p>-</p></td>
 <td><p>香港/中國大陸</p></td>
@@ -116,7 +126,7 @@
 <td></td>
 <td><p>|</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>未定</p></td>
 <td><p>23</p></td>
 <td><p>韓國</p></td>
@@ -125,7 +135,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>未定</p></td>
 <td><p>10</p></td>
 <td><p>日本</p></td>
@@ -134,7 +144,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>未定</p></td>
 <td><p>10</p></td>
 <td><p>日本</p></td>
@@ -143,7 +153,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>未定</p></td>
 <td><p>7</p></td>
 <td><p>日本</p></td>
@@ -152,7 +162,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>未定</p></td>
 <td><p>10</p></td>
 <td><p>日本</p></td>
@@ -163,3 +173,9 @@
 </tr>
 </tbody>
 </table>
+
+## 參見
+
+  - [ViuTV節目表](http://viu.tv/epg/99)
+
+[Category:香港電視娛樂節目列表](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目列表 "wikilink") [Category:香港電視節目列表](https://zh.wikipedia.org/wiki/Category:香港電視節目列表 "wikilink")

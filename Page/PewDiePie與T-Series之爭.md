@@ -129,7 +129,7 @@ T-Series自2017年2月成為，PewDiePie則自2013年起成為最多訂閱頻道
 
 #### YouTubers
 
-首個公開支持的PewDiePie的YouTuber達人為[MrBeast](https://zh.wikipedia.org/wiki/MrBeast "wikilink")，他買下[北卡羅來納州的數個大型廣告牌和電台廣告時段](https://zh.wikipedia.org/wiki/北卡羅來納州 "wikilink")，呼籲民眾訂閱PewDiePie的頻道。他又上載一段影片，在12小時內不斷朗讀「PewDiePie」一詞十萬次。MrBeast和友人出席了[第五十三屆超級碗](../Page/第五十三屆超級碗.md "wikilink")，身穿印有「Sub 2 PewDiePie」的衣服。
+首個公開支持的PewDiePie的YouTuber達人為[MrBeast](../Page/MrBeast.md "wikilink")，他買下[北卡羅來納州的數個大型廣告牌和電台廣告時段](https://zh.wikipedia.org/wiki/北卡羅來納州 "wikilink")，呼籲民眾訂閱PewDiePie的頻道。他又上載一段影片，在12小時內不斷朗讀「PewDiePie」一詞十萬次。MrBeast和友人出席了[第五十三屆超級碗](../Page/第五十三屆超級碗.md "wikilink")，身穿印有「Sub 2 PewDiePie」的衣服。
 
 其他公開支持和呼籲訂閱PewDiePie的[YouTuber](../Page/YouTuber.md "wikilink")，包括[Markiplier](../Page/Markiplier.md "wikilink")、[Jacksepticeye](../Page/Jacksepticeye.md "wikilink")和[罗根·保罗](../Page/罗根·保罗.md "wikilink")，都先後製作影片和在推特發貼文表達支持，附以「Subscribe to PewDiePie」的口號。Team 10成員之一的YouTuber[傑克·保羅](../Page/傑克·保羅.md "wikilink")更買下[紐約](../Page/纽约.md "wikilink")[時代廣場的大型廣告牌](../Page/時報廣場.md "wikilink")。Markiplier進行了一個題為「除非你訂閱PewDiePie，否則我真的不會閉嘴」的開玩笑[直播](https://zh.wikipedia.org/wiki/直播 "wikilink")，呼籲觀眾訂閱PewDiePie。Jacksepticeye在他的直播中告訴觀眾訂閱PewDiePie，更打趣說T-Series超過PewDiePie的話，他會刪除自己的頻道。
 

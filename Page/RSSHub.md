@@ -1,4 +1,4 @@
-**RSSHub**是一个由[Node.js](../Page/Node.js.md "wikilink")编写的[RSS](../Page/RSS.md "wikilink") 源生成器，在[MIT許可證](../Page/MIT許可證.md "wikilink")下发行，由DIYgod及其他[GitHub](../Page/GitHub.md "wikilink")用户维护。\[1\]发布后不久登上GitHub Trending。\[2\]
+**RSSHub**是一个由[Node.js](../Page/Node.js.md "wikilink")编写的[RSS](../Page/RSS.md "wikilink")源生成器，在[MIT許可證](../Page/MIT許可證.md "wikilink")下发行，由DIYgod及其他[GitHub](../Page/GitHub.md "wikilink")用户维护。\[1\]发布后不久登上GitHub Trending。\[2\]
 
 ## 特性
 

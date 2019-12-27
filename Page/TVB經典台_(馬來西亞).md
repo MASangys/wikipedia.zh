@@ -5,7 +5,7 @@
 ## 參見
 
   - [TVB經典台](../Page/TVB經典台.md "wikilink")
-  - [翡翠台 (馬來西亞)](../Page/翡翠台_\(馬來西亞\).md "wikilink")
+  - [翡翠台 (東南亞)](../Page/翡翠台_\(東南亞\).md "wikilink")
   - [翡翠台](../Page/翡翠台.md "wikilink")
   - [電視廣播(國際)有限公司](../Page/電視廣播（國際）.md "wikilink")
   - [TVB星河頻道](../Page/TVB星河頻道.md "wikilink")

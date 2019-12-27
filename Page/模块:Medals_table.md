@@ -290,14 +290,14 @@ function p.createTable(frame, args)
 `       footer = frame:expandTemplate{ title = 'refbegin' } .. footer`
 `       `
 `       if args['source'] then `
-`           footer = footer .. 'Source: ' .. args['source']`
+`           footer = footer .. '来源：' .. args['source']`
 `       end`
 `       if args['notes'] then`
 `           if args['source'] then`
 `               footer = footer .. '`
 `'`
 `           end`
-`           footer = footer .. 'Notes: ' .. args['notes']`
+`           footer = footer .. '注释：' .. args['notes']`
 `       end`
 `       footer = footer .. frame:expandTemplate{ title = 'refend' }`
 `   end`

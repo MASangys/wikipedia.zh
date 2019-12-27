@@ -112,7 +112,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金佳彬" title="wikilink">金佳彬</a></p></td>
+<td><p><a href="../Page/金佳彬.md" title="wikilink">金佳彬</a></p></td>
 <td><p>김가빈</p></td>
 <td><p>23歲，大學生。住在<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/南楊州市.md" title="wikilink">南揚州</a><a href="https://zh.wikipedia.org/wiki/九里" title="wikilink">九里</a>。每天都一定要吃早餐。</p></td>
 <td></td>
@@ -777,7 +777,7 @@
 
 ## 外部連結
 
-  - [官方網站](http://onair.mnet.com/lovecatcher2)
+  - [官方網站](https://web.archive.org/web/20190823143739/http://onair.mnet.com/lovecatcher2)
 
   -
 

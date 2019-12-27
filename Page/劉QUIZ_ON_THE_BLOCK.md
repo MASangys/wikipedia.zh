@@ -227,7 +227,7 @@
 <tr class="odd">
 <td><p>21</p></td>
 <td><p>2019/06/11</p></td>
-<td><p>1.926%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
@@ -262,7 +262,7 @@
 <tr class="even">
 <td><p>28</p></td>
 <td><p>2019/07/30</p></td>
-<td><p>3.257%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>29</p></td>
@@ -352,7 +352,7 @@
 <tr class="even">
 <td><p>46</p></td>
 <td><p>2019/12/03</p></td>
-<td><p>%</p></td>
+<td><p>2.519%</p></td>
 </tr>
 <tr class="odd">
 <td></td>

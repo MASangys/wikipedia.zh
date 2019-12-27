@@ -13,7 +13,7 @@
 ## 外部連結
 
   -
-[Category:2006年中國建立](https://zh.wikipedia.org/wiki/Category:2006年中國建立 "wikilink") [Category:中华人民共和国电影节](https://zh.wikipedia.org/wiki/Category:中华人民共和国电影节 "wikilink")
+[Category:2006年中國建立](https://zh.wikipedia.org/wiki/Category:2006年中國建立 "wikilink") [Category:中华人民共和国电影节](https://zh.wikipedia.org/wiki/Category:中华人民共和国电影节 "wikilink") [Category:西宁文化](https://zh.wikipedia.org/wiki/Category:西宁文化 "wikilink") [Category:中国传媒大学](https://zh.wikipedia.org/wiki/Category:中国传媒大学 "wikilink")
 
 1.
 2.

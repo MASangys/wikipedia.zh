@@ -66,7 +66,7 @@
 <li>KIHNO卡1種，60mm x 60mm</li>
 <li>寫真卡31張，74mm x 105mm</li>
 <li>隨機明信片2張，104mm x 154mm（全版本6種）</li>
-<li>專輯銷量：270,101+<sup><a href="https://zh.wikipedia.org/wiki/NU&#39;EST#cite%20note-142" title="wikilink">[142</a>]</sup></li>
+<li>專輯銷量：270,371+<sup><a href="https://zh.wikipedia.org/wiki/NU&#39;EST#cite%20note-142" title="wikilink">[142</a>]</sup></li>
 </ul></td>
 </tr>
 </tbody>

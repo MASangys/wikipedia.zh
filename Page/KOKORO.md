@@ -1,4 +1,4 @@
-**加藤心**（，；），藝名為**KOKORO**（；）。[日本](../Page/日本.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Cherry Bullet成員之一](../Page/Cherry_Bullet.md "wikilink")。\[1\]
+**加藤心**（，；），藝名為**KOKORO**（；）。[日本](../Page/日本.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，曾是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Cherry Bullet成員之一](../Page/Cherry_Bullet.md "wikilink")。\[1\]2019年12月13日，與FNC娛樂解除合約，退出組合並離開公司。
 
 ## 經歷
 
@@ -11,6 +11,14 @@
 <!-- end list -->
 
   - 2018年11月21日，[FNC娛樂](../Page/FNC娛樂.md "wikilink")公開了KOKORO的預告照。
+
+<!-- end list -->
+
+  - 2019年1月21日，作為Cherry Bullet成員身分，以首張單曲《Let's Play Cherry Bullet》正式出道。
+
+<!-- end list -->
+
+  - 2019年12月13日，與公司[FNC娛樂](../Page/FNC娛樂.md "wikilink")解除專屬合約，退出Cherry Bullet。
 
 ## 影視作品
 

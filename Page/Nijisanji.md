@@ -1,4 +1,4 @@
-[Nijisanji_kanaemitorin_illust.png](https://zh.wikipedia.org/wiki/File:Nijisanji_kanaemitorin_illust.png "fig:Nijisanji_kanaemitorin_illust.png")
+[Nijisanji_kanaemitorin_illust.png](https://zh.wikipedia.org/wiki/File:Nijisanji_kanaemitorin_illust.png "fig:Nijisanji_kanaemitorin_illust.png")组”，也是整个Nijisanji事务所中最有名的三个虛擬YouTuber。从左到右分别为：樋口枫、月之美兔（二者人设均由担任）、静凛（人设：）。\]\]
 
 **Nijisanji**（），中文常称为“**彩虹社**”或“**2434**”，為ichikara株式会社所開發的[虛擬YouTuber](../Page/虛擬YouTuber.md "wikilink")手機應用程式，使用[iPhone X的面孔捕捉功能讓](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")[2D角色獲得表情并進行生放送](https://zh.wikipedia.org/wiki/2D "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]。同时也是自家运营VTuber业务的事务所名称。
 

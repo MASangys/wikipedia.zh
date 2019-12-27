@@ -4,7 +4,7 @@
 
 ## 分類
 
-*Nothojafnea*屬物種的[子囊盤呈杯狀](https://zh.wikipedia.org/wiki/子囊果 "wikilink")，有一短[菌柄和基質相連](https://zh.wikipedia.org/wiki/菌柄 "wikilink")，子囊盤直徑約為1公分，顏色為橘色至棕色，外表面與邊緣長有白色細毛，內表面則為光滑\[7\]，[子囊為圓柱狀](https://zh.wikipedia.org/wiki/子囊 "wikilink")，內含八枚[子囊孢子](../Page/子囊孢子.md "wikilink")，其分類地位長期[未定](https://zh.wikipedia.org/wiki/地位未定 "wikilink")，曾有學者根據其孢子的飾物與子囊盤上的細毛等外形特徵將其歸入中\[8\]。2013年，一篇[分子種系發生學研究顯示本屬屬於](https://zh.wikipedia.org/wiki/分子種系發生學 "wikilink")[塊菌科](https://zh.wikipedia.org/wiki/塊菌科 "wikilink")，是該科分布於[南半球](../Page/南半球.md "wikilink")的類群中最早分支者，也是該科唯一生長於地上、子囊果非[塊菌的類群](https://zh.wikipedia.org/wiki/塊菌 "wikilink")\[9\]。
+*Nothojafnea*屬物種的[子囊盤呈杯狀](../Page/子囊果.md "wikilink")，有一短[菌柄和基質相連](https://zh.wikipedia.org/wiki/菌柄 "wikilink")，子囊盤直徑約為1公分，顏色為橘色至棕色，外表面與邊緣長有白色細毛，內表面則為光滑\[7\]，[子囊為圓柱狀](https://zh.wikipedia.org/wiki/子囊 "wikilink")，內含八枚[子囊孢子](../Page/子囊孢子.md "wikilink")，其分類地位長期[未定](https://zh.wikipedia.org/wiki/地位未定 "wikilink")，曾有學者根據其孢子的飾物與子囊盤上的細毛等外形特徵將其歸入中\[8\]。2013年，一篇[分子種系發生學研究顯示本屬屬於](https://zh.wikipedia.org/wiki/分子種系發生學 "wikilink")[塊菌科](https://zh.wikipedia.org/wiki/塊菌科 "wikilink")，是該科分布於[南半球](../Page/南半球.md "wikilink")的類群中最早分支者，也是該科唯一生長於地上、子囊果非[塊菌的類群](https://zh.wikipedia.org/wiki/塊菌 "wikilink")\[9\]。
 
 ## 註腳
 

@@ -26,7 +26,7 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 | [朴佑鎭](../Page/朴佑鎮.md "wikilink") |
 | [李大輝](../Page/李大輝.md "wikilink") |
 
-## 經歷
+## 音樂歷程
 
 ### 出道前
 
@@ -86,7 +86,7 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 <li>發行日期 ：2019年10月7日</li>
 <li>語言：韓語</li>
 <li>類型：Ballad, Dance</li>
-<li>銷量：117,910+[20]</li>
+<li>銷量：141,293+[20]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -279,11 +279,11 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 
 ### 電視劇
 
-| 日期       | |頻道                                                 | |節目名稱                                                                       | |集數   | 出演成員 |
-| -------- | --------------------------------------------------- | --------------------------------------------------------------------------- | ----- | ---- |
-| 2019年11月 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [延南洞Global House](https://zh.wikipedia.org/wiki/延南洞Global_House "wikilink") | 全集    | 李大輝  |
-| 2019年11月 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [延南洞Global House](https://zh.wikipedia.org/wiki/延南洞Global_House "wikilink") | 客串EP3 | 金東賢  |
-|          |                                                     |                                                                             |       |      |
+| 日期       | |頻道                                                 | |節目名稱                                                    | |集數   | 出演成員 |
+| -------- | --------------------------------------------------- | -------------------------------------------------------- | ----- | ---- |
+| 2019年11月 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [延南洞Global House](../Page/延南洞Global_House.md "wikilink") | 全集    | 李大輝  |
+| 2019年11月 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [延南洞Global House](../Page/延南洞Global_House.md "wikilink") | 客串EP3 | 金東賢  |
+|          |                                                     |                                                          |       |      |
 
 ### 電台
 
@@ -400,22 +400,23 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 
 ### 參與演唱會
 
-| 日期         | 國家  | 活動名稱                              |
-| ---------- | --- | --------------------------------- |
-| 2019/05/17 | 日本  | KCON 2019 JAPAN                   |
-| 2019/05/18 | 韓國  | DREAM CONCERT                     |
-| 2019/05/25 | 韓國  | GREEN CONCERT                     |
-| 2019/06/15 | 韓國  | 2019 K-POP ARTIST FESTIVAL        |
-| 2019/07/06 | 香港  | SBS SUPER CONCERT                 |
-| 2019/07/07 | 美國  | KCON 2019 NY                      |
-| 2019/07/22 | 韓國  | 2019 ULSAN SUMMER FESTIVAL        |
-| 2019/08/09 | 日本  | 2019 Next generation live         |
-| 2019/08/17 | 美國  | KCON 2019 LA                      |
-| 2019/09/21 | 菲律賓 | THE 2019K-POP SUPER CONCERT IN PH |
-| 2019/09/29 | 泰國  | KCON 2019 THAILAND                |
-| 2019/10/06 | 韓國  | SBS SUPER CONCERT                 |
-| 2019/10/19 | 韓國  | 2019 BUSAN ONE ASIA FESTIVAL      |
-| 2019/10/27 | 韓國  | 2019 FEVER FESTIVAL               |
+| 日期            | 國家  | 活動名稱                              |
+| ------------- | --- | --------------------------------- |
+| 2019/05/17    | 日本  | KCON 2019 JAPAN                   |
+| 2019/05/18    | 韓國  | DREAM CONCERT                     |
+| 2019/05/25    | 韓國  | GREEN CONCERT                     |
+| 2019/06/15    | 韓國  | 2019 K-POP ARTIST FESTIVAL        |
+| 2019/07/06    | 香港  | SBS SUPER CONCERT                 |
+| 2019/07/07    | 美國  | KCON 2019 NY                      |
+| 2019/07/22    | 韓國  | 2019 ULSAN SUMMER FESTIVAL        |
+| 2019/08/09    | 日本  | 2019 Next generation live         |
+| 2019/08/17    | 美國  | KCON 2019 LA                      |
+| 2019/09/21    | 菲律賓 | THE 2019K-POP SUPER CONCERT IN PH |
+| 2019/09/29    | 泰國  | KCON 2019 THAILAND                |
+| 2019/10/06    | 韓國  | SBS SUPER CONCERT                 |
+| 2019/10/19    | 韓國  | 2019 BUSAN ONE ASIA FESTIVAL      |
+| 2019/10/27    | 韓國  | 2019 FEVER FESTIVAL               |
+| 2020/01/24～25 | 臺灣  | 2020超級巨星紅白藝能大賞                    |
 
 ## 獎項與榮譽
 
@@ -461,7 +462,7 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/VLIVE_AWARDS_V_HEARTBEAT" title="wikilink">VLIVE AWARDS V HEARTBEAT</a></p></td>
+<td><p><a href="../Page/VLIVE_AWARDS_V_HEARTBEAT.md" title="wikilink">VLIVE AWARDS V HEARTBEAT</a></p></td>
 <td><p>GLOBAL ROOKIE TOP5</p></td>
 <td></td>
 <td></td>
@@ -489,8 +490,36 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet_Asian_Music_Awards" title="wikilink">Mnet Asian Music Awards</a></p></td>
+<td><p>最佳新人男歌手</p></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/金唱片獎" title="wikilink">金唱片獎</a></p></td>
+<td><p>新人獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最佳專輯獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>TikTok人氣獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>大韓民國第一品牌大賞</p></td>
+<td><p>最佳新人獎</p></td>
 <td></td>
 <td></td>
 <td></td>

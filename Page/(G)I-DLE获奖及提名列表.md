@@ -244,6 +244,27 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2020年1月30日</p></td>
+<td><p>第29屆</p></td>
+<td><p>本賞</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>人氣賞</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>韓流特別賞</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -485,6 +506,7 @@
 <li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=404">2019年9月女團品牌價值排行第20名</a></li>
 <li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=415">2019年10月女團品牌價值排行第1名</a></li>
 <li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=423">2019年11月女團品牌價值排行第1名</a></li>
+<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=433">2019年11月女團品牌價值排行第2名</a></li>
 </ul>
 <p></ref></p></td>
 <td><p>20</p></td>
@@ -498,7 +520,7 @@
 <td><p>20</p></td>
 <td><p><strong>1</strong></p></td>
 <td><p><strong>1</strong></p></td>
-<td></td>
+<td><p>2</p></td>
 </tr>
 </tbody>
 </table>
@@ -554,7 +576,7 @@
 1.  [181106 Best New Female Artist: (G)I-DLE ((여자)아이들) @ 2018 MGA](https://www.youtube.com/watch?v=U-q-fAF1bZk). Skpb K-Music Live. November 6, 2018.
 2.  [2018 MBC Plus X Genie Music Awards Announces Nominees + Voting Begins](https://www.soompi.com/article/1238753wpp/2018-mbc-plus-x-genie-music-awards-announces-nominees-voting-begins). soompi. October 1, 2018.
 3.  [181128 AAA Rookie of The Year: (G)I-DLE ((여자)아이들) CUT @ 2018 ASIA ARTIST AWARDS](https://www.youtube.com/watch?v=nK8105vjI7U). Skpb K-Music Live. November 28, 2018.
-4.  [2018 Asia Artist Awards - Popularity Award第46名](https://www.asiaartistawards.com/vote/primaryVote.html). Asia Artist Awards. October 31, 2018.
+4.  [2018 Asia Artist Awards - Popularity Award第46名](https://www.asiaartistawards.com/vote/primaryVote.html) . Asia Artist Awards. October 31, 2018.
 5.  [181201 MMA Best New Artist (Female): (G)I-DLE ((여자)아이들) @ 2018 MelOn Music Award](https://www.youtube.com/watch?v=QDx_fQqgXjo). Skpb K-Music Live. December 1, 2018.
 6.  ['2018 MAMA' under fire for giving 'Best New Female Artist' award to IZ\*ONE over (G)I-DLE](https://www.allkpop.com/article/2018/12/2018-mama-under-fire-for-giving-best-new-female-artist-award-to-izone-over-gi-dle). allkpop. December 10, 2018.
 7.  [(여자)아이들 ‘베스트오브넥스트’ 수상 “곡 쓰느라 고생하는 소연 고마워”](http://www.newsen.com/news_view.php?uid=201812101642200710). Newsen. December 10, 2018.

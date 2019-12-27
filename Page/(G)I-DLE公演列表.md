@@ -279,6 +279,12 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>12月21日</p></td>
+<td><p>2020台南好Young耶誕跨年系列活動</p></td>
+<td><p>台灣台南</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

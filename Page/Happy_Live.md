@@ -47,7 +47,7 @@ Happy Live[直播中的一個特別環節](https://zh.wikipedia.org/wiki/直播 
 
   - [Happy Live的Youtube頻道](https://www.youtube.com/channel/UC1UWGf63otDNpsbjaFqQRNA)
 
-[Category:香港藝人](https://zh.wikipedia.org/wiki/Category:香港藝人 "wikilink") [Category:香港歌手](https://zh.wikipedia.org/wiki/Category:香港歌手 "wikilink") [Category:直播](https://zh.wikipedia.org/wiki/Category:直播 "wikilink") [Category:網上直播](https://zh.wikipedia.org/wiki/Category:網上直播 "wikilink") [Category:無綫電視女藝員](https://zh.wikipedia.org/wiki/Category:無綫電視女藝員 "wikilink") [Category:無綫電視男藝員](https://zh.wikipedia.org/wiki/Category:無綫電視男藝員 "wikilink") [Category:香港女歌手](https://zh.wikipedia.org/wiki/Category:香港女歌手 "wikilink") [Category:香港男歌手](https://zh.wikipedia.org/wiki/Category:香港男歌手 "wikilink")
+[Category:網路直播](https://zh.wikipedia.org/wiki/Category:網路直播 "wikilink")
 
 1.  [翟威廉Big Big Channel贏五萬蚊](https://www.hk01.com/%E9%9F%B3%E6%A8%82/107166/%E7%BF%9F%E5%A8%81%E5%BB%89big-big-channel%E8%B4%8F%E4%BA%94%E8%90%AC%E8%9A%8A-%E5%8A%9F%E8%87%A3%E5%91%A8%E5%BF%97%E6%96%87%E8%A2%AB%E9%81%BA%E5%BF%98-%E4%BD%A2%E4%BB%B2%E6%9C%AA%E6%90%B5%E6%88%91)HK01，2017年7月24日
 2.  [解構翟威廉$300萬直播室](https://eastweek.my-magazine.me/main/69757)東周網，2017年8月30日

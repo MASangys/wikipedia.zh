@@ -4,7 +4,7 @@
 
 shimamo在5时开始弹[钢琴](../Page/钢琴.md "wikilink")，高中起就在[仙台当地加入了乐队](../Page/仙台市.md "wikilink")，担当过[贝斯手和](https://zh.wikipedia.org/wiki/贝斯手 "wikilink")[键盘手](https://zh.wikipedia.org/wiki/键盘手 "wikilink")\[1\]\[2\]。
 
-2015年8月起开始在[SHOWROOM](../Page/SHOWROOM.md "wikilink")、[TwitCasting](https://zh.wikipedia.org/wiki/TwitCasting "wikilink")、[YouTube](../Page/YouTube.md "wikilink")等网络平台开始进行直播。同年10月，音乐制作人在SHOWROOM举办活动，只要提供自己原创的歌曲就可以帮助其录制并发布到[iTunes平台](https://zh.wikipedia.org/wiki/iTunes "wikilink")。而shimamo创作的歌曲《白色的奇迹》（）最终胜出，并成功登上iTunes发售\[3\]。
+2015年8月起开始在[SHOWROOM](../Page/SHOWROOM.md "wikilink")、[TwitCasting](../Page/TwitCasting.md "wikilink")、[YouTube](../Page/YouTube.md "wikilink")等网络平台开始进行直播。同年10月，音乐制作人在SHOWROOM举办活动，只要提供自己原创的歌曲就可以帮助其录制并发布到[iTunes平台](https://zh.wikipedia.org/wiki/iTunes "wikilink")。而shimamo创作的歌曲《白色的奇迹》（）最终胜出，并成功登上iTunes发售\[3\]。
 
 2016年10月发布新歌《YOU》，这首歌成为了[富士电视台音乐节目](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")《》的结束曲\[4\]。
 

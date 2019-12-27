@@ -46,9 +46,9 @@
 
 ### SOLO 歌手
 
+  - [Eric Nam](../Page/Eric_Nam.md "wikilink")
   - [Heize](https://zh.wikipedia.org/wiki/Heize "wikilink")
   - [Roy Kim](../Page/Roy_Kim.md "wikilink")
-  - [Eric Nam](../Page/Eric_Nam.md "wikilink")
   - 夏賢尚（[하현상](https://zh.wikipedia.org/wiki/하현상 "wikilink")） （為選秀節目《[Super Band (韓國綜藝)](../Page/Super_Band_\(韓國綜藝\).md "wikilink")》優勝組）
   - [Ryu su a](https://zh.wikipedia.org/wiki/Ryu_su_a "wikilink")
 

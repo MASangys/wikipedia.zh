@@ -665,7 +665,7 @@
 <td><p>2019/11/30</p></td>
 <td><p>22</p></td>
 <td></td>
-<td></td>
+<td><p>Takkongu是一個謎</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -675,7 +675,7 @@
 <td><p>2019/12/07</p></td>
 <td><p>23</p></td>
 <td></td>
-<td></td>
+<td><p>衝突！超人大賽！</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -685,7 +685,7 @@
 <td><p>2019/12/14</p></td>
 <td><p>24</p></td>
 <td></td>
-<td></td>
+<td><p>我是畢莉卡</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -705,7 +705,7 @@
 <td><p>2019/12/28</p></td>
 <td><p>26</p></td>
 <td></td>
-<td></td>
+<td><p>然後大河就在這裡</p></td>
 <td></td>
 <td></td>
 <td></td>

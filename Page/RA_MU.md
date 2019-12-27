@@ -10,7 +10,7 @@
 
 ### 从开始活动到解散
 
-[1988年](../Page/1988年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink")，菊池在[赤坂王子酒店](../Page/赤坂王子酒店.md "wikilink")召开单独[记者会](https://zh.wikipedia.org/wiki/记者 "wikilink")，称自己“从此以后将作为新结成的[摇滚乐队RA](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink") MU的主唱活动”\[5\]。她解释转型的原因是“作为偶像感到了违和感”，且预告称“将要在[2月24日](../Page/2月24日.md "wikilink")发布第一首单曲，并在同一天的《》公布乐队成员”\[6\]。乐队成员共有7人，其中两名是[黑人](../Page/黑人.md "wikilink")[和声歌手](https://zh.wikipedia.org/wiki/和声歌手 "wikilink")。虽然成员们自称为“[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")”\[7\]，但歌唱的部分与菊池个人活动时期相比几乎没有改变\[8\]，而且具有当时在[日本](../Page/日本.md "wikilink")还并不流行的[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")、[放克](../Page/放克.md "wikilink")等[黑人音乐色彩](https://zh.wikipedia.org/wiki/非裔美国人音乐 "wikilink")（[久保田利伸](../Page/久保田利伸.md "wikilink")等人也是在此时开始全面展现黑人音乐特征）。关于RA MU的音乐风格，核心成员松浦称其为“兼备了美国当代黑人音乐的紧凑节奏与日本人能够接受的旋律”、“既可以说是摇滚乐也可以说是[歌谣曲](https://zh.wikipedia.org/wiki/日本歌谣曲 "wikilink")，但如果一定要选择一个的话，应该是摇滚乐”\[9\]。
+[1988年](../Page/1988年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink")，菊池在[赤坂王子酒店](../Page/赤坂王子酒店.md "wikilink")召开单独[记者会](https://zh.wikipedia.org/wiki/记者 "wikilink")，称自己“从此以后将作为新结成的[摇滚乐队RA](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink") MU的主唱活动”\[5\]。她解释转型的原因是“作为偶像感到了违和感”，且预告称“将要在[2月24日](../Page/2月24日.md "wikilink")发布第一首单曲，并在同一天的《》公布乐队成员”\[6\]。乐队成员共有7人，其中两名是[黑人](../Page/黑人.md "wikilink")[和声歌手](https://zh.wikipedia.org/wiki/和声歌手 "wikilink")。虽然成员们自称为“[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")”\[7\]，但歌唱的部分与菊池个人活动时期相比几乎没有改变\[8\]，而且具有当时在[日本](../Page/日本.md "wikilink")还并不流行的[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")、[放克](../Page/放克.md "wikilink")等[黑人音乐色彩](https://zh.wikipedia.org/wiki/非裔美国人音乐 "wikilink")。关于RA MU的音乐风格，核心成员松浦称其为“兼备了美国当代黑人音乐的紧凑节奏与日本人能够接受的旋律”、“既可以说是摇滚乐也可以说是[歌谣曲](https://zh.wikipedia.org/wiki/日本歌谣曲 "wikilink")，但如果一定要选择一个的话，应该是摇滚乐”\[9\]。
 
 就这样，虽然在其他意义上成为了话题，但[唱片的销量却无法超越菊池个人偶像时代](https://zh.wikipedia.org/wiki/唱片 "wikilink")，从在公信榜上取得第4位之后就不再成为话题。
 
@@ -34,7 +34,7 @@
 
   - （Darelle Foster Holden） - 和声
 
-## 作品
+## 音乐作品
 
 [2010年开始在](https://zh.wikipedia.org/wiki/2010年 "wikilink")[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")、[RecoChoku](../Page/RecoChoku.md "wikilink")公开\[11\]。
 
@@ -45,7 +45,6 @@
 <tr class="header">
 <th><p>#</p></th>
 <th><p>标题</p></th>
-<th><p>收录单曲</p></th>
 <th><p>发布日期</p></th>
 <th><p>备注</p></th>
 <th><p>最高排名</p></th>
@@ -54,39 +53,139 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
+<td><p>{{hidden begin</p></td>
+<td><p>title =<strong></strong></p></td>
+<td><p>titlestyle =font-weight:normal }}</p>
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>标题</p></th>
+<th><p>作詞</p></th>
+<th><p>作曲</p></th>
+<th><p>編曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
 <td></td>
-<td><p><br />
-</p></td>
-<td><p><a href="../Page/1988年.md" title="wikilink">1988年</a><a href="../Page/2月24日.md" title="wikilink">2月24日</a></p></td>
-<td><p>果汁印象曲</p></td>
-<td><p>9位</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td></td>
-<td><p><br />
-</p></td>
-<td><p><a href="../Page/1988年.md" title="wikilink">1988年</a><a href="../Page/6月8日.md" title="wikilink">6月8日</a></p></td>
 <td></td>
-<td><p>4位</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+<td><p><a href="../Page/1988年.md" title="wikilink">1988年</a><a href="../Page/2月24日.md" title="wikilink">2月24日</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>{{hidden begin</p></td>
+<td><p>title =<strong></strong></p></td>
+<td><p>titlestyle =font-weight:normal }}</p>
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>标题</p></th>
+<th><p>作詞</p></th>
+<th><p>作曲</p></th>
+<th><p>編曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+<td><p><a href="../Page/1988年.md" title="wikilink">1988年</a><a href="../Page/6月8日.md" title="wikilink">6月8日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
+<td><p>{{hidden begin</p></td>
+<td><p>title =<strong></strong></p></td>
+<td><p>titlestyle =font-weight:normal }}</p>
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>标题</p></th>
+<th><p>作詞</p></th>
+<th><p>作曲</p></th>
+<th><p>編曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
 <td></td>
-<td><p><br />
-Silent Summer Sea</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
 <td><p><a href="../Page/1988年.md" title="wikilink">1988年</a><a href="https://zh.wikipedia.org/wiki/7月27日" title="wikilink">7月27日</a></p></td>
-<td></td>
-<td><p>8位</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
+<td><p>{{hidden begin</p></td>
+<td><p>title =<strong></strong></p></td>
+<td><p>titlestyle =font-weight:normal }}</p>
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>标题</p></th>
+<th><p>作詞</p></th>
+<th><p>作曲</p></th>
+<th><p>編曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
 <td></td>
-<td><p><br />
-</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
 <td><p><a href="../Page/1989年.md" title="wikilink">1989年</a><a href="../Page/2月8日.md" title="wikilink">2月8日</a></p></td>
-<td><p>果汁100印象曲</p></td>
-<td><p>19位</p></td>
 </tr>
 </tbody>
 </table>
@@ -98,7 +197,6 @@ Silent Summer Sea</p></td>
 <tr class="header">
 <th><p>#</p></th>
 <th><p>标题</p></th>
-<th><p>收录单曲</p></th>
 <th><p>发布日期</p></th>
 <th><p>备注</p></th>
 <th><p>最高排名</p></th>
@@ -107,23 +205,98 @@ Silent Summer Sea</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p>THANKS GIVING</p></td>
-<td><p>Rainy Night Lady<br />
-Carnaval<br />
-<br />
-Two Years After<br />
-<br />
-One And Only<br />
-<br />
-<br />
-Late Night Heartache<br />
-Love Talk</p></td>
-<td><p><a href="../Page/1988年.md" title="wikilink">1988年</a><a href="../Page/9月14日.md" title="wikilink">9月14日</a></p></td>
+<td><p>{{hidden begin</p></td>
+<td><p>title =<strong>THANKS GIVING</strong></p></td>
+<td><p>titlestyle =font-weight:normal }}</p>
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>标题</p></th>
+<th><p>作詞</p></th>
+<th><p>作曲</p></th>
+<th><p>編曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
 <td></td>
-<td><p>5位</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>One And Only</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td></td>
+<td><p><a href="../Page/菊池桃子.md" title="wikilink">菊池桃子</a>・</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+<td><p><a href="../Page/1988年.md" title="wikilink">1988年</a><a href="../Page/9月14日.md" title="wikilink">9月14日</a></p></td>
 </tr>
 </tbody>
 </table>
+
+## 注释
 
 ## 参考
 

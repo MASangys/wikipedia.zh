@@ -13,7 +13,7 @@ NB-IoT特別著重在室內的覆蓋率、低成本、長電池壽命以及高�
 
 ## 設備及模組
 
-和[3GPP](../Page/3GPP.md "wikilink")相容的[LPWAN](../Page/LPWAN.md "wikilink")設備生態系統仍在繼續成長。在2019年4月識別了210個支援Cat-NB1/NB-2或Cat-M1的設備，是GAMBoD資料庫在2018年3月的二倍以上。而且其中，有156個模組支援Cat-NB1、NB2及Cat-M1（包括已知的變體）、100個模組支援Cat-M1 （包括已知的變體），103個模組支援Cat-NB1或NB2（包括已知的變體）\[13\]。
+和[3GPP](../Page/3GPP.md "wikilink")相容的[LPWAN](../Page/LPWAN.md "wikilink")設備生態系統仍在繼續成長。在2019年4月識別了210個支援Cat-NB1/NB2或Cat-M1的設備，是GAMBoD資料庫在2018年3月的二倍以上。而且其中，有156個模組支援Cat-NB1、NB2及Cat-M1（包括已知的變體）、100個模組支援Cat-M1 （包括已知的變體），103個模組支援Cat-NB1或NB2（包括已知的變體）\[13\]。
 
 為了將NB-IoT整合到IoT發展的創客板塊中，荷蘭的IoT硬體及軟體公司SODAQ，在[Kickstarter](../Page/Kickstarter.md "wikilink")群資了NB-IoT Shield開發板\[14\]。他們希望和模組製造商合作，開發整合NB-IoT及LTE-M的創客電路板\[15\]。
 

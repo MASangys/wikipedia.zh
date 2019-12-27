@@ -38,11 +38,11 @@
 
 ### Oricon公信榜
 
-| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 最高銷售量 | 總銷量 | 停留時間 | 參考資料 |-| | 專輯日榜 | \#1 | 80,563 |  |  |  |
-| ---------------------------------------- | ---- | ----- | --- | ---- | -------- | :--- | --- | ------ |  |  |  |
-| 專輯週榜                                     |      |       |     |      |          |      |     |        |  |  |  |
-| 專輯月榜                                     |      |       |     |      |          |      |     |        |  |  |  |
-| 專輯年榜                                     |      |       |     |      |          |      |     |        |  |  |  |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 最高銷售量   | 總銷量 | 停留時間 | 參考資料 |-| | 專輯日榜 | \#1 | 80,563 |  |  |  |
+| ---------------------------------------- | ---- | ------- | --- | ---- | -------- | :--- | --- | ------ |  |  |  |
+| 專輯週榜                                     | \#1  | 133,163 |     |      |          |      |     |        |  |  |  |
+| 專輯月榜                                     |      |         |     |      |          |      |     |        |  |  |  |
+| 專輯年榜                                     |      |         |     |      |          |      |     |        |  |  |  |
 
 ## 參考資料
 
@@ -52,8 +52,6 @@
 
 ## 外部連結
 
-  -
-  -
   -
   -
 [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:TWICE音樂專輯](https://zh.wikipedia.org/wiki/Category:TWICE音樂專輯 "wikilink") [Category:2019年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon專輯週榜冠軍作品 "wikilink") [Category:2019年Oricon專輯合算週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Oricon專輯合算週榜冠軍作品 "wikilink")

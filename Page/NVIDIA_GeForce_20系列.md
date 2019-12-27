@@ -2,7 +2,7 @@
 
 ## 架构特性
 
-RTX 20系列基于[图灵微架构](https://zh.wikipedia.org/wiki/图灵微架构 "wikilink")（Turing），具有实时[光线跟踪](https://zh.wikipedia.org/wiki/光线跟踪 "wikilink")（Ray tracing）功能。\[5\]通过使用RT核心（光線追踪運算核心）可以加速这一过程。这些核心能够高效处理四叉树和球形层次结构，并在碰撞模拟的过程中更快地为三角面组成的立体模型进行物体碰撞模拟。
+RTX 20系列基于[图灵微架构](../Page/图灵微架构.md "wikilink")（Turing），具有实时[光线跟踪](https://zh.wikipedia.org/wiki/光线跟踪 "wikilink")（Ray tracing）功能。\[5\]通过使用RT核心（光線追踪運算核心）可以加速这一过程。这些核心能够高效处理四叉树和球形层次结构，并在碰撞模拟的过程中更快地为三角面组成的立体模型进行物体碰撞模拟。
 
 RT核心的光线追踪功能在模拟反射，折射和阴影的操作上可以取代传统[立方体贴图和](https://zh.wikipedia.org/wiki/立方体贴图 "wikilink")[深度贴图的光栅技术](https://zh.wikipedia.org/wiki/深度贴图 "wikilink")。从光线追踪运算得到的信息可以增强阴影使画面更加逼真，尤其是关于将发生于屏幕画面以外的动作通过阴影和光线反射渲染到画面之中。
 

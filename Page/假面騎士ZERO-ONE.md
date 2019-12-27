@@ -5,15 +5,15 @@
 ## 本作特色
 
   - 本作為令和假面騎士系列的第一部作品。
-      - 因本作回歸假面騎士系列的原點，使得本作主角騎士——「假面騎士ZERO-ONE」的名稱亦可讀做「01」或「零一」，又加上「令和」日文讀音為，而Zero的漢字讀音為「零」（）與「令」同音，而One（）首字「」與「和」同音，所以有著「令和」之意，致敬假面騎士一號。
+      - 因本作回歸假面騎士系列的原點，使得本作主角騎士——「假面騎士ZERO-ONE」的名稱亦可讀做「01」或「零一」，又加上「令和」日文讀音為，而Zero的漢字讀音為「零」（）與「令」同音，而One（）首字「」與「和」同音，所以有著「令和」之意，致敬假面騎士一號，同時本作中第一個登場的型態『昇華蝗蟲（Rising Hopper）』也是向假面騎士一號致敬。
       - 另外「0」和「1」亦代表了[二進位的數碼世界](https://zh.wikipedia.org/wiki/二進位 "wikilink")，所以本作以人工智能作為設計概念。
   - 本作首次以[人工智能](../Page/人工智能.md "wikilink")（AI）作為設計概念。
   - 本作除了以往系列作的劇情風格外，同時導入企業與權勢鬥爭的文化\[1\]。
-  - 本作繼《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》、《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》、《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》和《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》後,怪人再次由變身器變身而成，而且其變身器發出電子語音，但與前四者不同之處是變身者全是人型機械人，而且被打敗後會消滅，因應需要可透過記憶備份來製造新一台人型機械人「復活」。
+  - 本作繼《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》、《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》、《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》和《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》後，怪人再次由變身器變身而成，而且其變身器發出電子語音，但與前四者不同之處是變身者全是人型機械人，而且被打敗後會消滅，因應需要可透過記憶備份來製造新一台人型機械人「復活」。
   - 本作繼《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》后，再次採用生物為騎士外觀的造型\[2\]，並且可切換自身的形態。
   - 本作繼《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》、《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》和《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》之後，再次出現變身道具可供騎士們互換使用。
   - 本作假面騎士的變身道具主要採用了鑰匙卡，而且每支鑰匙卡內以數據資料的方式存著一種生物的本能戰鬥力量。
-  - 本作的假面騎士Valkyrie是繼《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》、《[假面騎士劍](https://zh.wikipedia.org/wiki/假面騎士劍 "wikilink")》、《[假面騎士響鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼 "wikilink")》、《[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")》、 《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》、《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》後再次出現的女性正規騎士\[3\] ，亦是[假面騎士系列](../Page/假面騎士系列.md "wikilink")以初期成員身份登場作戰的女性假面騎士。
+  - 本作的假面騎士Valkyrie是繼《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》、《[假面騎士劍](https://zh.wikipedia.org/wiki/假面騎士劍 "wikilink")》、《[假面騎士響鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼 "wikilink")》、《[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")》、 《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》、《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》後再次出現的女性正規騎士\[3\]，亦是[假面騎士系列](../Page/假面騎士系列.md "wikilink")以初期成員身份登場作戰的女性假面騎士。
   - 本作繼《[假面騎士BLACK RX](../Page/假面騎士BLACK_RX.md "wikilink")》後，暌違整整30年再次以[蝗蟲](../Page/蝗蟲.md "wikilink")作為主角騎士的基本型態造型\[4\]。
   - 本作繼《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的西瓜鎧甲後，再次出現主角騎士可裝備的大型戰鬥機甲\[5\]。
   - 本作繼《[假面騎士KABUTO](https://zh.wikipedia.org/wiki/假面騎士KABUTO "wikilink")》、《[假面騎士DECADE](https://zh.wikipedia.org/wiki/假面騎士DECADE "wikilink")》、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》後再次出現使用手槍型變身器變身的騎士\[6\]。
@@ -46,7 +46,7 @@
     為現今日本規模最大的AI技術企業，是過去與政府協力推進「實驗都市計劃」的企業之一，且所有分行都由本部負責經營。
     以互聯網關聯事業為主，主要涉及AI開發、機器人產業和Humagear的派送產業等。
     創始人兼第一任社長為「飛電是之助」，在其過世後，由孫子飛電或人（假面騎士ZERO-ONE的變身者）繼承遺願就任第二任社長。
-    目前與A.I.M.S.之間互為戰鬥上的競爭關係，同時與Zaia企業則為企業上的競爭關係。
+    目前與A.I.M.S.之間互為戰鬥上的競爭關係，另外與Zaia企業則為企業上的競爭關係。
 
 <!-- end list -->
 
@@ -66,10 +66,10 @@
 
 <!-- end list -->
 
-  - ZAIA企業
-    原文： / *-{Zaia Enterprise}-*
-    本作中為日本另一個AI技術企業，與飛電Intelligence為競爭對手的關係。
-    社長為天津垓（假面騎士Thouser的變身者），而A.I.M.S.所屬的刃唯阿（假面骑士Valkyrie的變身者）事實上是該公司的成員。
+  - 日本ZAIA企業
+    原文： / *-{Zaia Enterprise Japan}-*
+    為本作中另一個大型AI技術企業，業務領域涉及AI和武器開發與宇宙領域，過去與飛電Intelligence為合作開發AI機器人，現與其為競爭對手的關係。
+    現任社長為天津垓（假面騎士Thouser的變身者），而A.I.M.S.所屬的刃唯阿（假面骑士Valkyrie的變身者）事實上是該公司的成員。
 
 <!-- end list -->
 
@@ -120,7 +120,7 @@
 ## 故事用語
 
   - ProgriseKey
-    原文： / *-{Progrisekey}-*
+    原文： / *-{ProgriseKey}-*
     全稱為「**Progress Rise Key**（程式昇華之鑰）」。
     將生物（動物或昆蟲）的戰鬥能力資料化的特殊道具，其外觀如鑰匙，同時也是本作假面騎士主要的變身道具。
     此道具在使用時要進行授權認証(即發出「Authorize」的音效)才能展開，像不破諫這樣不進行授權認證就強行展開是錯誤用法。
@@ -128,7 +128,7 @@
 <!-- end list -->
 
   - 滅絕昇華之鑰
-    原文： / *-{Zetsumerisekey}-*
+    原文： / *-{ZetsumeriseKey}-*
     外型與ProgriseKey基本上相似，但不同的是使用滅絕生物的資料，在置入Zetsumeriser後表面會因為破壞產生裂痕圖案。
     在Zetsumeriser控制下失控的Humagear，使用此道具則會變身成MAGiA。
 
@@ -226,8 +226,9 @@
 
   - 方舟
     原文： / *Ark*
-    水中衛星，同時也是滅亡迅雷.net想要修復的裝置，疑是前一代Humagear管理系統。
+    水中衛星，同時也是滅亡迅雷.net想要修復跟ZAIA想要搶奪的裝置，疑是前一代Humagear管理系統。
     根據滅所說的，消滅人類是方舟根據判斷所下的指令。
+    第14話中因滅藉由假面騎士雷及所搶奪到的ProgriseKey連通傑亞衛星傳輸數據的關係而修復完成。
 
 <!-- end list -->
 
@@ -241,6 +242,12 @@
     原文： / *Giger*
     全名為獨立驅動型Humagear统率兵器Giger（自立駆動型ヒューマギア統率兵器ギーガー），為ZAIA所開發對失控Humagear的特殊機體。
     不知為何，造型跟飛電為應對大規模災害而開發的大型救助系統「破壞猛瑪象」十分相近。
+
+<!-- end list -->
+
+  - ZERO-ONE計劃
+    原文： / *ZERO-ONE Project*
+    飛電是之助生前所制定的計劃，而伊絲和沃斯兄妹兩人也是該計劃中的一環\[22\]。
 
 ## 登場人物
 
@@ -276,7 +283,7 @@
 行動速度：100m / 4.1秒</p></td>
 <td><p>全身以螢光黃、黑色為主</p></td>
 <td><p>基本形態。<br />
-擁有<a href="../Page/蝗蟲.md" title="wikilink">蝗蟲</a>一樣的彈跳力。[22]</p></td>
+擁有<a href="../Page/蝗蟲.md" title="wikilink">蝗蟲</a>一樣的彈跳力。[23]</p></td>
 <td><p><strong>Rising Impact</strong><br />
 原文：<br />
 該型態所屬的必殺技（騎士踢）。<br />
@@ -300,7 +307,7 @@
 行動速度：100m / 4.2秒</p></td>
 <td><p>全身以品紅、熒光黃、黑色為主</p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/獵鷹" title="wikilink">獵鷹一樣的飛行能力</a>。<br />
-飛行時最高速度為2馬赫。[23]</p></td>
+飛行時最高速度為2馬赫。[24]</p></td>
 <td><p><strong>Flying Impact</strong><br />
 原文：<br />
 該型態所屬的必殺技（騎士踢）。</p></td>
@@ -319,7 +326,7 @@
 <td><p>全身以水藍、熒光黃、黑色為主</p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/鯊魚" title="wikilink">鯊魚一樣的感知敵人能力並可在水中作戰</a>。<br />
 最高水中移動速度可達86節，潛航深度能超過400m，由於這種設計，此型態在陸地上的性能大大降低。<br />
-安裝在雙臂前腕的Unlimited Chopper()可如鯊魚牙齒割裂物體。[24]</p></td>
+安裝在雙臂前腕的Unlimited Chopper()可如鯊魚牙齒割裂物體。[25]</p></td>
 <td><p><strong>Biting Impact</strong><br />
 原文：<br />
 對目標以雙手手腕的Unlimited Chopper()向外延伸展開大量如尖齒般的能量體進行夾擊，有如撕咬般的攻擊。</p></td>
@@ -337,7 +344,7 @@
 行動速度：100m / 3.6秒</p></td>
 <td><p>全身以紅、熒光黃、黑色為主</p></td>
 <td><p>擁有火焰攻擊能力與<a href="https://zh.wikipedia.org/wiki/老虎" title="wikilink">老虎一樣的靈活度</a>。<br />
-雙手的Panthera Burner()可放出1800℃高溫火焰或加熱指甲直接熔斷接觸物，也可以通過向身體散佈火焰來暫時提高攻擊能力。[25]</p></td>
+雙手的Panthera Burner()可放出1800℃高溫火焰或加熱指甲直接熔斷接觸物，也可以通過向身體散佈火焰來暫時提高攻擊能力。[26]</p></td>
 <td><p><strong>Flaming Impact</strong><br />
 原文：<br />
 衝入火圈讓火焰纏繞全身後向敵人進行附有燃燒的爪擊。<br />
@@ -358,7 +365,7 @@
 行動速度：100m / 4.2秒</p></td>
 <td><p>全身以淺藍、熒光黃、黑色為主</p></td>
 <td><p>擁有冰凍能力與<a href="../Page/北極熊.md" title="wikilink">北極熊</a>一樣的力量，以及耐低溫的藍色裝甲。<br />
-手腕裝甲內藏的Polar Freezer（）凍結劑可進行超高速冷凍。 [26]</p></td>
+手腕裝甲內藏的Polar Freezer（）凍結劑可進行超高速冷凍。 [27]</p></td>
 <td><p><strong>Freezing Impact</strong><br />
 原文：<br />
 雙手釋放凍結劑凍結目標後使用手腕進行強力的揮擊來粉碎敵人。</p></td>
@@ -378,7 +385,7 @@
 <td><p>大型武裝形態，設計理念為應對大規模災害的大型救助系統。<br />
 可變成衛星、戰鬥機及機械人三種模式。<br />
 擁有<a href="https://zh.wikipedia.org/wiki/猛獁象" title="wikilink">猛獁象一樣的龐大身體和力量</a>。<br />
-胸部擬似猛獁象的牙Graingod（）可做為固定機身、牽引的錨，也可手持作為武器使用。[27]</p></td>
+胸部擬似猛獁象的牙Graingod（）可做為固定機身、牽引的錨，也可手持作為武器使用。[28]</p></td>
 <td><p><strong>Breaking Impact</strong><br />
 原文：<br />
 手腕上的ProgriseKey分離並巨大化後，跳上空中以踢擊（騎士踢）連同巨大化的ProgriseKey踢向敵人。</p></td>
@@ -397,13 +404,20 @@
 <td><p>全身以熒光黃、黑、紅色為主</p></td>
 <td><p>進化形態。<br />
 擁有更強的機動性、彈跳力和高速演算能力。<br />
-可同時演算複數的可能性，並選擇最佳的攻擊方案。[28]</p></td>
+可同時演算複數的可能性，並選擇最佳的攻擊方案。<br />
+會依照敵人強度預支必要的力量，戰鬥結束後或長時間戰鬥中會有副作用發生。[29]</p></td>
 <td><p><strong>Shining Impact</strong><br />
 原文：<br />
 飛踢（騎士踢）後高速移動向飛行中的敵人追加踢擊。<br />
 <strong>Shining Mega Impact</strong><br />
 原文：<br />
-ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳方案進行拳擊／踢擊／迴避，最後在空中以飛踢（騎士踢）做最後一擊。</p></td>
+ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳方案進行拳擊／踢擊／迴避，最後在空中以飛踢（騎士踢）做最後一擊。<br />
+<strong>Progrise Dust（Jump）</strong><br />
+原文：<br />
+將Rising Hopper ProgriseKey對Authorise Buster的槍模式下感應後發動的必殺技。<br />
+<strong>Zero-One Dust</strong><br />
+原文：<br />
+將Authorise Buster槍模式對飛電ZERO-ONE驅動器感應後發動的必殺技。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Shining Assault Hopper<br />
@@ -413,6 +427,22 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 </p></td>
 <td><p>全身以熒光黃、藍、黑、紅色為主</p></td>
 <td><p>閃耀蝗蟲搭配突擊野狼的進化形態。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Hopping Kangaroo<br />
+''' 跳躍袋鼠 '''</p></td>
+<td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Hopping Kangaroo ProgriseKey</strong>變身的形態</p></td>
+<td><p>全身以熒光黃、黑、水藍、銀色為主</p></td>
+<td><p>[30]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -436,7 +466,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Shooting Wolf ProgriseKey</strong>變身的形態</p></td>
 <td><p>全身以藍、熒光黃、黑色為主</p></td>
 <td><p>擁有野狼一樣的觸覺及視野。<br />
-能以Attache Calibur放出複數狼形光彈Fangu Burettsu()作集體攻擊 。[29]</p></td>
+能以Attache Calibur放出複數狼形光彈Fangu Burettsu()作集體攻擊 。[31]</p></td>
 <td><p><strong>Shooting Impact</strong><br />
 原文：<br />
 該型態所屬的必殺技。</p></td>
@@ -448,7 +478,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Punching Kong ProgriseKey</strong>變身的形態</p></td>
 <td><p>全身以黑、熒光黃、白色為主</p></td>
 <td><p>擁有猩猩一樣的防禦力及腕力。<br />
-能夠把所有外裝甲集結到右臂上化成巨大拳頭Maximum Konger()向敵人發動強大的打擊。[30]</p></td>
+能夠把所有外裝甲集結到右臂上化成巨大拳頭Maximum Konger()向敵人發動強大的打擊。[32]</p></td>
 <td><p><strong>Punching Impact</strong><br />
 原文：<br />
 該型態所屬的必殺技（騎士拳）。</p></td>
@@ -461,7 +491,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 <td><p>全身以橘、熒光黃、黑色為主</p></td>
 <td><p>擁有獵豹一樣的速度。<br />
 能透過加速反應裝置應對超高速戰鬥，奔跑最高時速189km/h 。<br />
-擁有High Reacreator()反應加速器，可以在敵人幾乎靜止不動的情況下進行高速戰鬥。[31]</p></td>
+擁有High Reacreator()反應加速器，可以在敵人幾乎靜止不動的情況下進行高速戰鬥。[33]</p></td>
 <td><p><strong>Rushing Impact</strong><br />
 原文：<br />
 該型態所屬的必殺技。</p></td>
@@ -473,7 +503,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Sparking Giraffe ProgriseKey</strong>變身的形態</p></td>
 <td><p>全身以黃、熒光黃、黑色為主</p></td>
 <td><p>擁有長頸鹿的能力，增強了頸部的防禦能力。<br />
-胸甲內藏大容量電池，可傳輸到四肢附加電擊攻擊或從頭頂雙角放出電擊。[32]</p></td>
+胸甲內藏大容量電池，可傳輸到四肢附加電擊攻擊或從頭頂雙角放出電擊。[34]</p></td>
 <td><p><strong>Sparking Impact</strong><br />
 原文：<br />
 該型態所屬的必殺技。</p></td>
@@ -485,7 +515,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Amazing Hercules ProgriseKey</strong>變身的形態</p></td>
 <td><p>全身以熒光綠、熒光黃、黑色為主</p></td>
 <td><p>擁有赫克力士長戟大兜蟲的能力，手臂和腿部的力量得到增強。<br />
-頭頂的Hercule Horn()可按變身者意思巨大化，擁有將對手頂翻的力量。[33]</p></td>
+頭頂的Hercule Horn()可按變身者意思巨大化，擁有將對手頂翻的力量。[35]</p></td>
 <td><p><strong>Amazing Impact</strong><br />
 原文：<br />
 該型態所屬的必殺技。</p></td>
@@ -497,7 +527,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Sting Scropion ProgriseKey</strong>變身的形態</p></td>
 <td><p>全身以紫、熒光黃、黑色為主</p></td>
 <td><p>擁有蠍子一樣的毒攻擊能力。<br />
-自帶高毒抗和高速精製強力解毒劑能力，還能透過攻擊把過量解毒劑打入對手體內造成破壞。[34]</p></td>
+自帶高毒抗和高速精製強力解毒劑能力，還能透過攻擊把過量解毒劑打入對手體內造成破壞。[36]</p></td>
 <td><p><strong>Sting Impact</strong><br />
 原文：<br />
 該型態所屬的必殺技。</p></td>
@@ -509,7 +539,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Lightning Hornet ProgriseKey</strong>變身的形態</p></td>
 <td><p>全身以黃、熒光黃、黑色為主</p></td>
 <td><p>擁有雷電攻擊能力與黃蜂一樣的飛行能力和攻擊能力。<br />
-能夠放出的微型飛彈會在飛行同時放出電擊。[35]</p></td>
+能夠放出的微型飛彈會在飛行同時放出電擊。[37]</p></td>
 <td><p><strong>Lightning Impact</strong><br />
 原文：<br />
 該型態所屬的必殺技。</p></td>
@@ -521,7 +551,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Gatling Hedgehog ProgriseKey</strong>變身的形態</p></td>
 <td><p>全身以熒光綠、熒光黃、黑色為主</p></td>
 <td><p>擁有刺猬一樣的尖刺能力。<br />
-綠色裝甲上備有十分銳利的尖刺PaiNeedle()，在戰鬥時可捲起身子變化成Hedge Borer ()，以全方位射出尖刺攻擊。[36]</p></td>
+綠色裝甲上備有十分銳利的尖刺PaiNeedle()，在戰鬥時可捲起身子變化成Hedge Borer ()，以全方位射出尖刺攻擊。[38]</p></td>
 <td><p><strong>Gatling Impact</strong><br />
 原文：<br />
 該型態所屬的必殺技。</p></td>
@@ -532,7 +562,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 <td><p>原文：<br />
 配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Exciting Stag ProgriseKey</strong>變身的形態</p></td>
 <td><p>全身以橘、熒光黃、黑色為主</p></td>
-<td><p>[37]</p></td>
+<td><p>[39]</p></td>
 <td><p><strong>Exciting Impact</strong><br />
 原文：<br />
 該型態所屬的必殺技。</p></td>
@@ -543,7 +573,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 <td><p>原文：<br />
 配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Crushing Buffalo ProgriseKey</strong>變身的形態</p></td>
 <td><p>全身以紅、熒光黃、黑色為主</p></td>
-<td><p>[38]</p></td>
+<td><p>[40]</p></td>
 <td><p><strong>Crushing Impact</strong><br />
 原文：<br />
 該型態所屬的必殺技。</p></td>
@@ -554,7 +584,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 <td><p>原文：<br />
 配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Trapping Spider ProgriseKey</strong>變身的形態</p></td>
 <td><p>全身以紫、熒光黃、黑色為主</p></td>
-<td><p>[39]</p></td>
+<td><p>[41]</p></td>
 <td><p><strong>Trapping Impact</strong><br />
 原文：<br />
 該型態所屬的必殺技。</p></td>
@@ -565,12 +595,21 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 <td><p>原文：<br />
 配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Storming Penguin ProgriseKey</strong>變身的形態</p></td>
 <td><p>全身以熒光黃、黑、藍、銀色為主</p></td>
-<td><p>[40]</p></td>
+<td><p>[42]</p></td>
 <td><p><strong>Storming Impact</strong><br />
 原文：<br />
 該型態所屬的必殺技。</p></td>
 </tr>
 <tr class="even">
+<td><p>Splashing Whale<br />
+''' 噴水鯨魚 '''</p></td>
+<td><p>原文：<br />
+配合<strong>飛電ZERO-ONE驅動器</strong>及使用<strong>Splashing Whale ProgriseKey</strong>變身的形態</p></td>
+<td><p>全身以熒光黃、黑、品藍、銀色為主</p></td>
+<td><p>[43]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -583,7 +622,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 #### 假面騎士001
 
   -
-    變身者：飛電或人（替身演員：、CV：高橋文哉）
+    變身者：飛電或人（替身演員：縄田雄哉、CV：高橋文哉）
     原文： / *Kamen Rider ZERO-ZERO-ONE*
 
 ##### 形態
@@ -601,7 +640,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 <td><p>Rising Hopper<br />
 ''' 昇華蝗蟲 '''</p></td>
 <td><p>原文：<br />
-配合<strong>滅亡迅雷強制昇華器</strong>及使用<strong>Rising Hopper ProgriseKey</strong>變身的形態</p></td>
+配合<strong>強制昇華器</strong>及使用<strong>Rising Hopper ProgriseKey</strong>變身的形態</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -646,7 +685,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 行動速度：100m / 2.9秒</p></td>
 <td><p>全身以藍、紅、白色為主</p></td>
 <td><p>基本形態。<br />
-擁有<a href="https://zh.wikipedia.org/wiki/野狼" title="wikilink">野狼一樣的觸覺及視野</a>。[41]</p></td>
+擁有<a href="https://zh.wikipedia.org/wiki/野狼" title="wikilink">野狼一樣的觸覺及視野</a>。[44]</p></td>
 <td><p><strong>Shooting Blast</strong><br />
 原文：<br />
 發動時首先以四隻虛擬化的野狼壓住敵人的四肢，然後再作出火力極猛的致命射擊。<br />
@@ -678,7 +717,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 行動速度：100m / 3.1秒</p></td>
 <td><p>全身以黑、紅、白色為主</p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/猩猩" title="wikilink">猩猩一樣的防禦力及腕力</a>。<br />
-雙手前腕附有打擊用武器Knuckle Demolition（）。 [42]</p></td>
+雙手前腕附有打擊用武器Knuckle Demolition（）。 [45]</p></td>
 <td><p><strong>Power Punching Blast</strong><br />
 原文：<br />
 將雙手前腕的Knuckle Demolition（）以火箭飛拳的方式射出對敵人造成強力的打擊。<br />
@@ -696,10 +735,26 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 <td><p>Assault Wolf<br />
 ''' 突擊野狼 '''</p></td>
 <td><p>原文：<br />
-配合<strong>A.I.M.S. 射擊昇華器</strong>及使用<strong>Assault Wolf ProgriseKey</strong>變身的形態</p></td>
+配合<strong>A.I.M.S. 射擊昇華器</strong>及使用<strong>Assault Wolf ProgriseKey</strong>變身的形態<br />
+身高：199.7cm<br />
+體重：119.6kg<br />
+拳擊力：25.7t<br />
+踢擊力：57.8t<br />
+跳躍力：32.4m<br />
+行動速度：100m / 2.0秒</p></td>
 <td><p>全身以黑、藍、淺藍色為主</p></td>
-<td><p>進化形態。</p></td>
-<td></td>
+<td><p>進化形態。<br />
+重武裝裝甲搭載，擁有更強的戰鬥力和防禦力。<br />
+胸部中央的Orbital binder（）會從各感測器共有的情報進行戰鬥輔助。<br />
+由於安全裝置與生命維持裝置廢除的關係，對使用者的負擔極大。[46]</p></td>
+<td><p><strong>Magnetic Storm Blast</strong><br />
+原文：<br />
+<strong>Magnetic Storm Blast Fever</strong><br />
+原文：<br />
+在空中將能量聚集在右腳上，聚集後的能量像似狼的頭部，並以側身迴旋踢向敵人，對敵人造成強力的踢擊並踢飛。<br />
+<strong>Buster Dust（Power）</strong><br />
+原文：<br />
+將Punching Kong ProgriseKey插入Authorise Buster的槍模式下發動的必殺技。</p></td>
 </tr>
 </tbody>
 </table>
@@ -721,7 +776,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 <td><p>原文：<br />
 配合<strong>'A.I.M.S. 射擊昇華器</strong>及使用<strong>Rising Hopper ProgriseKey</strong>變身的形態</p></td>
 <td><p>全身以螢光黃、白、黑色為主</p></td>
-<td><p>[43]</p></td>
+<td><p>[47]</p></td>
 <td><p><strong>Rising Blast</strong><br />
 原文：<br />
 該型態所屬的必殺技。<br />
@@ -769,7 +824,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 行動速度：100m / 2.1秒</p></td>
 <td><p>全身以橘、黃、白色為主</p></td>
 <td><p>基本形態。<br />
-擁有<a href="https://zh.wikipedia.org/wiki/獵豹" title="wikilink">獵豹一樣的速度</a>。 [44]</p></td>
+擁有<a href="https://zh.wikipedia.org/wiki/獵豹" title="wikilink">獵豹一樣的速度</a>。 [48]</p></td>
 <td><p><strong>Rushing Blast</strong><br />
 原文：<br />
 在對象周圍邊進行高速移動邊向敵方連續發射有拘束作用的能量彈，能量累積到達最大後產生爆炸。<br />
@@ -789,7 +844,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 行動速度：100m / 4.0秒</p></td>
 <td><p>全身以黑、黃、白色為主</p></td>
 <td><p>擁有雷電攻擊能力與<a href="https://zh.wikipedia.org/wiki/黃蜂" title="wikilink">黃蜂一樣的飛行能力和攻擊能力</a>。<br />
-各部位裝甲上的蜂巢狀武器艙搭載了雷電炸藥的蜂型導彈。[45]</p></td>
+各部位裝甲上的蜂巢狀武器艙搭載了雷電炸藥的蜂型導彈。[49]</p></td>
 <td><p><strong>Thunder Lightning Blast</strong><br />
 原文：<br />
 <strong>Thunder Lightning Blast Fever</strong><br />
@@ -834,7 +889,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 <td><p>全身以粉、白、綠色為主</p></td>
 <td><p>基本形態。<br />
 擁有<a href="https://zh.wikipedia.org/wiki/獵鷹" title="wikilink">獵鷹一樣的飛行能力</a>。<br />
-背上的Scrambler()飛行翼展開後，最高可達1.7馬赫的速度飛行。[46]</p></td>
+背上的Scrambler()飛行翼展開後，最高可達1.7馬赫的速度飛行。[50]</p></td>
 <td><p><strong>Flying Dystopia</strong><br />
 原文：<br />
 <strong>Flying Utopia</strong><br />
@@ -874,9 +929,10 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 <td><p>全身以紫、黑、黃色為主</p></td>
 <td><p>基本形態。<br />
 擁有<a href="../Page/蠍子.md" title="wikilink">蠍子</a>一樣的毒攻擊能力。<br />
-左手前腕附有擬似蠍子尾巴的伸縮突刺裝備Acidanarise（）。[47]</p></td>
+左手前腕附有擬似蠍子尾巴的伸縮突刺裝備Acidanarise（）。[51]</p></td>
 <td><p><strong>Sting Dystopia</strong><br />
 原文：<br />
+畫面文字：[52]<br />
 將左手前腕的Acidanarise（）的刺纏繞在右腳上後對敵人進行踢擊。<br />
 <strong>Sting Utopia</strong><br />
 原文：<br />
@@ -890,7 +946,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 ### 假面騎士雷
 
   -
-    變身者：（替身演員：、CV：）
+    變身者：宇宙小子雷電（替身演員：神前元、CV：山口大地）
     原文： / *Kamen Rider Ikazuchi*
 
 #### 形態
@@ -908,10 +964,25 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 <td><p>Dodo<br />
 <strong>渡渡鳥</strong></p></td>
 <td><p>原文：<br />
-配合<strong>滅亡迅雷強制昇華器</strong>及使用<strong>Dodo ZetsumeriseKey</strong>變身的形態</p></td>
+配合<strong>滅亡迅雷強制昇華器</strong>及使用<strong>Dodo ZetsumeriseKey</strong>變身的形態<br />
+身高：188.5cm<br />
+體重：99.4kg<br />
+拳擊力：17.2t<br />
+踢擊力：58.6t<br />
+跳躍力：25.1m<br />
+行動速度：100m / 3.7秒</p></td>
 <td><p>全身以深紅、黑、橘色為主</p></td>
-<td><p>基本形態。</p></td>
-<td></td>
+<td><p>基本形態。<br />
+擁有雷電攻擊能力。<br />
+手腕裝甲內藏雷擊產生裝置Strike Zapper（）。</p></td>
+<td><p><strong>Zetsumetsu Dystopia</strong><br />
+原文：<br />
+畫面文字：[53]<br />
+將雷電集中在Valk Saber（）後，向目標揮出兩道附有雷電的劍氣。<br />
+<strong>Zetsumetsu Utopia</strong><br />
+原文：<br />
+畫面文字：[54]<br />
+全身纏繞雷電後雙手釋放強力的雷電進行攻擊。</p></td>
 </tr>
 </tbody>
 </table>
@@ -919,7 +990,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 ### 假面騎士Thouser
 
   -
-    變身者：（替身演員：、CV：）
+    變身者：天津垓（替身演員：、CV：櫻木那智）
     原文： / *Kamen Rider Thouser*
 
 #### 形態
@@ -949,7 +1020,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 #### 假面騎士1型
 
   -
-    變身者：飛電其雄（替身演員：、CV：山本耕史）
+    變身者：飛電其雄（替身演員：高岩成二、CV：山本耕史）
     原文： / *Kamen Rider Ichigata*
 
 <table>
@@ -977,7 +1048,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 
 ### 變身道具
 
-【「■■」代表ProgriseKey所屬完整變身音效；「◆◆」代表ProgriseKey所屬變身音效（Progrise Key名稱與後半段的英文）；「▲▲」代表ProgriseKey所屬的名稱前半音效；「●●」代表ProgriseKey所屬的啓動音效；「★★」代表ProgriseKey所屬的二次啓動音效，詳情請見「[ProgriseKey](https://zh.wikipedia.org/wiki/假面騎士ZERO-ONE#ProgriseKey "wikilink")」
+【「■■」代表ProgriseKey所屬完整變身音效；「◆◆」代表ProgriseKey所屬變身音效（ProgriseKey名稱與後半段的英文）；「▲▲」代表ProgriseKey所屬的名稱前半音效；「●●」代表ProgriseKey所屬的啓動音效；「★★」代表ProgriseKey所屬的二次啓動音效，詳情請見「[ProgriseKey](https://zh.wikipedia.org/wiki/假面騎士ZERO-ONE#ProgriseKey "wikilink")」
 
   - **飛電ZERO-ONE驅動器**
 
@@ -985,10 +1056,10 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 
   -
     原文： / *Hiden ZERO-ONE Driver*
-    音效：Maynard Plant、Blaise Plant（[猴子把戲](../Page/猴子把戲.md "wikilink")）\[48\]
-    由飛電Intelligence 以最快的速度研發出來的變身腰帶，由**假面騎士ZERO-ONE**使用。
-    右邊的插槽是用來插入Progrise Key，將Progrise Key放於裝置上感應後再將Progrise Key展開並插入驅動器即可變身。
-    感應的音效為「Authorize\!」；變身的音效為「Progrise\! ■■」；發動必殺技的音效為「▲▲\! Impact\!」，使用另一個Progrise Key感應一至六次後來發動必殺技的音效為「（Bit / Byte / Kilo / Mega / Giga / Tera）Rise\! ▲▲\! （Bit / Byte / Kilo / Mega / Giga / Tera） Impact\!」。
+    音效：Maynard Plant、Blaise Plant（[猴子把戲](../Page/猴子把戲.md "wikilink")）\[55\]
+    由傑亞衛星傳送資料至飛電Intelligence社長室內的模組機，以極短的時間\[56\]內開發製作出的變身腰帶，由**假面騎士ZERO-ONE**使用。
+    右邊的插槽是用來插入ProgriseKey，將ProgriseKey放於裝置上感應後再將ProgriseKey展開並插入驅動器即可變身。
+    感應的音效為「Authorize\!」；變身的音效為「Progrise\! ■■」；發動必殺技的音效為「▲▲\! Impact\!」，使用另一個ProgriseKey感應一至六次後來發動必殺技的音效為「（Bit / Byte / Kilo / Mega / Giga / Tera）Rise\! ▲▲\! （Bit / Byte / Kilo / Mega / Giga / Tera） Impact\!」。
 
 <!-- end list -->
 
@@ -1000,8 +1071,8 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
     原文： / *A.I.M.S. Shotriser*
     音效：Maynard Plant、Blaise Plant（[猴子把戲](../Page/猴子把戲.md "wikilink")）
     由ZAIA企業研發出來的量產變身腰帶，目前由**假面騎士Vulcan**跟**假面騎士Valkyrie**使用，由於此變身腰帶本身是一把手槍可以用來當作武器，在不變身的狀態也可以用來射擊。
-    將Progrise Key插入槍後展開並扣動扳機即可變身\[49\]，擁有兩種必殺技發動方式，放在腰帶扣動扳機與持槍時扣動扳機。
-    插入的音效為「Authorize\! Kamen Rider！Kamen Rider！」；變身的音效為「Shot Rise\!◆◆」；必殺技啓動的音效為「●●」；腰帶上發動必殺技的音效為「▲▲\! Blast Fever\!」；持槍時發動必殺技的音效為「▲▲\! Blast\!」。
+    將ProgriseKey插入槍後展開並扣動扳機即可變身\[57\]，擁有兩種必殺技發動方式，放在腰帶扣動扳機與持槍時扣動扳機。
+    插入的音效為「Authorize\! Kamen Rider！Kamen Rider！」；變身的音效為「Shot Rise\!◆◆\[58\]」；必殺技啓動的音效為「●●」；腰帶上發動必殺技的音效為「▲▲\! Blast Fever\!」；持槍時發動必殺技的音效為「▲▲\! Blast\!」。
 
 <!-- end list -->
 
@@ -1012,9 +1083,9 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
   -
     原文： / *Metsuboujinrai Forceriser*
     音效：[山寺宏一](../Page/山寺宏一.md "wikilink")
-    由滅亡迅雷.net一方研發出來的變身腰帶，目前由**假面騎士滅**、**假面騎士迅**和**假面騎士雷**使用，此變身腰帶變身前並不需要將Progrise Key展開，變身後腰帶會強制將Progrise Key展開，擁有兩階段必殺技發動方式。
-    將Progrise Key插入驅動器後，將拉桿拉開即可變身。
-    變身的音效為「Force rise\! ◆◆\!\[50\] Break Down\!」；發動必殺技的音效為「▲▲\! Dystopia\!」，再次發動必殺技的音效為「▲▲\! Utopia\!」。
+    由滅亡迅雷.net一方研發出來的變身腰帶，目前由**假面騎士滅**、**假面騎士迅**和**假面騎士雷**使用，此變身腰帶變身前並不需要將ProgriseKey展開，變身後腰帶會強制將ProgriseKey展開，擁有兩階段必殺技發動方式。
+    將ProgriseKey插入驅動器後，將拉桿拉開即可變身。
+    變身的音效為「Force rise\! ◆◆\!\[59\] Break Down\!」；發動必殺技的音效為「▲▲\! Dystopia\!」，再次發動必殺技的音效為「▲▲\! Utopia\!」。
 
 <!-- end list -->
 
@@ -1039,7 +1110,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
   -
     原文： / *Zetsumeriser*
     滅亡迅雷所開發的對Humagear用變身腰帶。
-    被安裝此腰帶的Humagear，會因數據修改而失控，在置入Zetsumerise Key於該腰帶後，則會魔化變身MAGiA。
+    被安裝此腰帶的Humagear，會因數據修改而失控，在置入ZetsumeriseKey於該腰帶後，則會魔化變身MAGiA。
 
 <!-- end list -->
 
@@ -1049,8 +1120,8 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 
   -
     原文： / *Zaia ThousanDriver*
-    由ZAIA企業根據本作的三款變身腰帶的數據獨自研發出來的新型變身腰帶，由**假面騎士Thouser**使用，有兩個插槽分別使用Progrise Key及Zetsumerise Key來進行變身。
-    感應的音效為「Authorize\!」；變身的音效為「Perfect Rise\! As five horns meet, the golden soldier Thouser is born. Presented by Zaia.」
+    由ZAIA企業根據本作的三款變身腰帶的數據獨自研發出來的新型變身腰帶，由**假面騎士Thouser**使用，有兩個插槽分別使用ProgriseKey及ZetsumeriseKey來進行變身。
+    感應的音效為「Authorize\!」；變身的音效為「絕滅Evolution\! Perfect Rise\! As five horns meet, the golden soldier Thouser is born. Presented by Zaia.」
 
 <!-- end list -->
 
@@ -1060,8 +1131,9 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 
   -
     原文： / *Assault Grip*
-    假面騎士ZERO-ONE及假面騎士Vulcan用於變身成進化形態的鑰匙\[51\]。
-    只要將突擊握把插入Progrise Key邊上就可插入腰帶使用，Progrise Key的認證音效會變為「Over rize\!」（日文：「！」）
+    方舟復活的同時製作的Assault Wolf ProgriseKey的部分零件，假面騎士ZERO-ONE及假面騎士Vulcan用於變身成進化形態的道具\[60\]。
+    在插入Assault Wolf或Shining Hopper ProgriseKey的邊上後，ProgriseKey的啓動按鈕變為握把上的紅色按鈕。
+    ProgriseKey的認證音效變為「Over rize\!」（日文：「！」）；射擊昇華器的必殺技啓動音效變為「Assault Charge\!」（日文：「！」）。
 
 ### 武裝
 
@@ -1071,11 +1143,11 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 
   -
     原文： / *Attache Calibur*
-    假面騎士ZERO-ONE\[52\]所使用的[大劍型可變形武器](https://zh.wikipedia.org/wiki/大劍 "wikilink")，可從公事包模式變形成大劍模式，展開的音效為「Blade rise\!（）」。
+    假面騎士ZERO-ONE\[61\]所使用的[大劍型可變形武器](https://zh.wikipedia.org/wiki/大劍 "wikilink")，可從公事包模式變形成大劍模式，啓動音效為「Attache Calibur\!」，二次啓動音效為「Attache case opens to release the sharpest of blade.」，展開的音效為「Blade rise\!（）」。
     大劍模式下將劍刃收回進入蓄力狀態的音效為「Charge rise\!（）」，再度展開後音效為「Full Charge\!（）」，此狀態下按下板機後發動必殺技為「Kaban Stlassh\!（）」。
-    插入Progrise Key後的音效為「Progrise key confirmed. Ready to utilize.」「★★\!」。
-    大劍模式下插入Progrise Key後按下板機發動的必殺技為「**▲▲\! Kaban Stlassh\!**（）」。
-    Full Charge\!的狀態下插入Progrise Key後按下板機的必殺技為「**▲▲\! Kaban Dynamic\!**（）」。
+    插入ProgriseKey後的音效為「Progrise key confirmed. Ready to utilize.」「★★\!」。
+    大劍模式下插入ProgriseKey後按下板機發動的必殺技音效為「**▲▲\! Kaban Stlassh\!**（）」。
+    Full Charge\!的狀態下插入ProgriseKey後按下板機的必殺技音效為「**▲▲\! Kaban Dynamic\!**（）」。
 
 <!-- end list -->
 
@@ -1085,12 +1157,12 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 
   -
     原文： / *Attache Shotgun*
-    假面騎士Vulcan和假面騎士Valkyrie 所共用\[53\]的[霰彈槍型可變形武器](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，可從公事包模式變形成霰彈槍模式，展開的音效為「Shotgun rise\!（）」。
+    假面騎士Vulcan和假面騎士Valkyrie 所共用\[62\]的[霰彈槍型可變形武器](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，可從公事包模式變形成霰彈槍模式，啓動音效為「Attache Shotgun\!」，二次啓動音效為「Attache case opens to release the incredibly powerful shotgun.」，展開的音效為「Shotgun rise\!（）」。
     霰彈槍模式下可將子彈調節成擴散型的「」或單發貫通型的「」。
     霰彈槍模式下將槍身收回進入蓄力狀態的音效為「Charge rise\!（）」，再度展開後音效為「Full Charge\!（）」，此狀態下按下板機後發動必殺技為「Kaban Shot\!（）」。
-    插入Progrise Key後的音效為「Progrise key confirmed. Ready to utilize.」「★★\!」。
-    霰彈槍模式下插入Progrise Key後按下板機發動的必殺技為「**▲▲\! Kaban Shot\!**（）」。
-    Full Charge\!的狀態下插入Progrise Key後按下板機的必殺技為「**▲▲\! Kaban Buster\!**（）」。
+    插入ProgriseKey後的音效為「Progrise key confirmed. Ready to utilize.」「★★\!」。
+    霰彈槍模式下插入ProgriseKey後按下板機發動的必殺技音效為「**▲▲\! Kaban Shot\!**（）」。
+    Full Charge\!的狀態下插入ProgriseKey後按下板機的必殺技音效為「**▲▲\! Kaban Buster\!**（）」。
 
 <!-- end list -->
 
@@ -1100,14 +1172,14 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 
   -
     原文： / *Attache Arrow*
-    假面騎士迅和假面騎士滅所共用\[54\]的[弓箭型可變形武器](https://zh.wikipedia.org/wiki/弓箭 "wikilink")，可從公事包模式變形成弓箭模式，展開的音效為「Arrow rise\!（）」。
+    假面騎士迅和假面騎士滅所共用\[63\]的[弓箭型可變形武器](https://zh.wikipedia.org/wiki/弓箭 "wikilink")，可從公事包模式變形成弓箭模式，啓動音效為「Attache Arrow\!」，二次啓動音效為「Attache case opens to release the never-missing bow and arrow.」，展開的音效為「Arrow rise\!（）」。
     弓箭模式下有兩種攻擊方式前端用於射擊的箭頭，與兩側裝有可用於攻擊的刀刃。
     弓箭模式下將弓身收回進入蓄力狀態的音效為「Charge rise\!（）」，再度展開後音效為「Full Charge\!（）」，此狀態下拉動拉桿後發動必殺技為「Kaban Shoot\!（）」，此狀態按下板機後發動必殺技為「Kaban slash\!（）」。
-    插入Progrise Key後的音效為「Progrise key confirmed. Ready to utilize.」「★★\!」。
-    弓箭模式下插入Progrise Key後拉動拉桿發動的必殺技為「**▲▲\! Kaban Shoot\!**（）」。
-    Full Charge\!的狀態下插入Progrise Key後拉動拉桿的必殺技為「**▲▲\! Kaban strike\!**（）」。
-    弓箭模式下插入Progrise Key後按下板機發動的必殺技為「**▲▲\! Kaban slash\!**（）」。
-    Full Charge\!的狀態下插入Progrise Key後按下板機的必殺技為「**▲▲\! Kaban finish\!**（）」。
+    插入ProgriseKey後的音效為「Progrise key confirmed. Ready to utilize.」「★★\!」。
+    弓箭模式下插入ProgriseKey後拉動拉桿發動的必殺技音效為「**▲▲\! Kaban Shoot\!**（）」。
+    Full Charge\!的狀態下插入ProgriseKey後拉動拉桿的必殺技音效為「**▲▲\! Kaban strike\!**（）」。
+    弓箭模式下插入ProgriseKey後按下板機發動的必殺技音效為「**▲▲\! Kaban slash\!**（）」。
+    Full Charge\!的狀態下插入ProgriseKey後按下板機的必殺技音效為「**▲▲\! Kaban finish\!**（）」。
 
 <!-- end list -->
 
@@ -1117,8 +1189,25 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 
   -
     原文： / *Authorise Buster*
-    假面騎士ZERO-ONE與假面騎士Vulcan所使用的可變型武器，能變形斧和銃兩種模式。
+    假面騎士ZERO-ONE與假面騎士Vulcan所共用的可變型武器，能變形斧和銃兩種模式，啓動音效為「Authorise Buster\!」。
     展開斧模式的音效為「Axe rise\!（）」；展開槍模式的音效則為「Gun rise\!（）」。
+    插入ProgriseKey後的音效為「Progrise key confirmed. Ready for buster.」。
+    感應ProgriseKey後的音效為「Buster Authorise\!」。
+    感應飛電ZERO-ONE驅動器後的音效為「Zero-One Authorise\!」。
+    **斧模式**
+      -
+        插入ProgriseKey後按下板機發動的必殺技音效為「**Buster Bomber\!**」。
+        感應ProgriseKey後按下板機發動的必殺技音效為「**Progrise Bomber\!**」。
+        插入ProgriseKey並感應ProgriseKey後按下板機發動的必殺技音效為「**Progrise Buster Bomber\!**」。
+        感應飛電ZERO-ONE驅動器後按下板機發動的必殺技音效為「**Zero-One Bomber\!**」。
+        插入ProgriseKey並感應飛電ZERO-ONE驅動器後按下板機發動的必殺技音效為「**Zero-One Buster Bomber\!**」。
+    **槍模式**
+      -
+        插入ProgriseKey後按下板機發動的必殺技音效為「**Buster Dust\!**」。
+        感應ProgriseKey後按下板機發動的必殺技音效為「**Progrise Dust\!**」。
+        插入ProgriseKey並感應ProgriseKey後按下板機發動的必殺技音效為「**Progrise Buster Dust\!**」。
+        感應飛電ZERO-ONE驅動器後按下板機發動的必殺技音效為「**Zero-One Dust\!**」。
+        插入ProgriseKey並感應飛電ZERO-ONE驅動器後按下板機發動的必殺技音效為「**Zero-One Buster Dust\!**」。
 
 <!-- end list -->
 
@@ -1128,7 +1217,8 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 
   -
     原文： / *Thousand Jacker*
-    為假面騎士Thousand使用的劍型武器。
+    為假面騎士Thousand使用的劍型武器，啟動音效為「Thousand Jacker\! 」。
+    拉開手把的音效為「Jacrise\!（）」；插入ProgriseKey後的音效為「Progrise key confirmed. Ready for break.」
 
 ### 道具
 
@@ -1148,7 +1238,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 
   -
     原文： / *Progrise Holder*
-    用來收納Progrisekey的器具，被安裝在飛電ZERO-ONE驅動器、A.I.M.S. 射擊昇華器和滅亡迅雷強力昇華器的腰帶兩側。
+    用來收納ProgriseKey的器具，被安裝在飛電ZERO-ONE驅動器、A.I.M.S. 射擊昇華器和滅亡迅雷強力昇華器的腰帶兩側。
 
 <!-- end list -->
 
@@ -1157,8 +1247,8 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 <!-- end list -->
 
   -
-    原文： / *Progrisekey Connector*
-    用來收納Progrisekey的小型長條直立式架子，最多可收納四個。
+    原文： / *ProgriseKey Connector*
+    用來收納ProgriseKey的小型長條直立式架子，最多可收納四個。
 
 ### 載具
 
@@ -1183,7 +1273,7 @@ ProgriseKey感應4次後，以高速移動衝向敵人並隨著演算的最佳�
 最高時速：291km/h<br />
 乘坐人數：1人</p></td>
 <td><p>全身以黑、黃色為主</p></td>
-<td><p>假面騎士ZERO-ONE的專用機車，藉由「飛電Rise Phone」向飛電ZERO-ONE驅動器進行授權，並透過衛星傑亞投射至地面。</p></td>
+<td><p>假面騎士ZERO-ONE的專用機車，藉由「飛電Rise Phone」向飛電ZERO-ONE驅動器進行授權，並透過衛星傑亞投射至地面；機車的回收由飛電宇宙開發中心的員工送回去衛星傑亞上。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1477,8 +1567,9 @@ When I shine, darkness fades.」<br />
 另外搭配突擊野狼的突擊握把配件可合成<strong>閃耀突擊蝗蟲</strong>。<br />
 啓動音效為「Hyper Jump」（日文：「ハイパージャンプ」）<br />
 二次啓動音效為「Shining Assault Hopper's ability!」<br />
-完整變身音效為「Warning! Warning! This is not a test! Hybrid rise! Shining Assault Hopper!<br />
-No chance of surviving the shot.」</p></td>
+完整變身音效為「Warning, warning. This is not a test! Hybrid rise! Shining Assault Hopper!<br />
+No chance of surviving the shot.」<br />
+</p></td>
 </tr>
 <tr class="even">
 <td><p>Assault Wolf</p></td>
@@ -1488,8 +1579,8 @@ No chance of surviving the shot.」</p></td>
 <td><p>存放<a href="../Page/狼.md" title="wikilink">狼</a>型像資料的Key型道具。<br />
 啓動音效為「Assault Bullet」（日文：「アサルトバレット」）<br />
 二次啓動音效為「Assault Wolf's ability!」<br />
-完整變身音效為「Ready Go!Assault Wolf!<br />
-No Change of Surviving.」<br />
+完整變身音效為「There is nothing stronger! Big shot ready fire! Ready Go! Assault Wolf!<br />
+No chance of surviving.」<br />
 </p></td>
 </tr>
 <tr class="odd">
@@ -1500,7 +1591,22 @@ No Change of Surviving.」<br />
 <td><p>存放<a href="https://zh.wikipedia.org/wiki/高卡薩斯南洋大兜蟲" title="wikilink">高加索大兜蟲型像資料的Key型道具</a>。<br />
 同時也是<strong>假面騎士Thouser</strong>的變身道具。<br />
 啓動音效為「Breakhorn」（日文：「ブレイクホーン」）<br />
-配合Zaia千之驅動器的完整變身音效為「Perfect Rise! As five horns meet, the golden soldier Thouser is born. Presented by Zaia.」</p></td>
+配合Zaia千之驅動器的完整變身音效為「Perfect Rise! As five horns meet, the golden soldier Thouser is born. Presented by Zaia.」 &lt;!--</p></td>
+</tr>
+<tr class="even">
+<td><p>Metal cluster Hopper</p></td>
+<td><p>メタルクラスタホッパー</p></td>
+<td><p>金屬簇蝗蟲</p></td>
+<td><p>存放<a href="../Page/蝗蟲.md" title="wikilink">蝗蟲</a>型像資料的Key型道具。<br />
+</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Rampage Gatling</p></td>
+<td><p>ランページガトリング</p></td>
+<td><p>狂暴加特林</p></td>
+<td></td>
+<td><p>--&gt;</p></td>
 </tr>
 <tr class="even">
 <td><p>Rising Hopper（Christmas ver.）</p></td>
@@ -1514,19 +1620,130 @@ No Change of Surviving.」<br />
 May your Christmas wishes come true.」</p></td>
 </tr>
 <tr class="odd">
+<td><p>Rising Hopper（Yellow Aurora ver.）</p></td>
+<td><p>ライジングホッパー（イエローオーロラver.）</p></td>
+<td><p>昇華蝗蟲（黃色極光ver.）</p></td>
+<td></td>
+<td><p>存放<a href="../Page/蝗蟲.md" title="wikilink">蝗蟲</a>型像資料的Key型道具。</p></td>
+</tr>
+<tr class="even">
 <td><p>Rising Hopper（Theme music ver.）</p></td>
 <td><p>ライジングホッパー（主題歌ver.）</p></td>
 <td><p>昇華蝗蟲（主題曲ver.）</p></td>
 <td></td>
 <td><p>存放<a href="../Page/蝗蟲.md" title="wikilink">蝗蟲</a>型像資料的Key型道具。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Ridertiming ZI-O</p></td>
 <td><p>ライダータイミングジオウ</p></td>
 <td><p>騎士時間ZI-O</p></td>
 <td></td>
 <td><p>存放<a href="https://zh.wikipedia.org/wiki/假面騎士ZI-O" title="wikilink">假面騎士ZI-O型像資料的Key型道具</a>。<br />
-啓動音效為「King」（日文：「キング」）</p></td>
+啓動音效為「King」（日文：「キング」）<br />
+二次啓動音效為「ZI-O's ability!」<br />
+完整變身音效為「Legend Celebrate!Ridertiming ZI-O!<br />
+An honorable and kind demon king.」</p></td>
+</tr>
+<tr class="even">
+<td><p>Bestmatching Build</p></td>
+<td><p>ベストマッチングビルド</p></td>
+<td><p>最佳配對Build</p></td>
+<td></td>
+<td><p>存放<a href="../Page/假面騎士Build.md" title="wikilink">假面騎士Build</a>型像資料的Key型道具。<br />
+啓動音效為「Genius」（日文：「ジーニアス」）<br />
+二次啓動音效為「Build's ability!」<br />
+完整變身音效為「Fullbottle shake shake!Bestmatching Build!<br />
+A genius physicist whose mind surpasses all.」</p></td>
+</tr>
+<tr class="odd">
+<td><p>Levelupping EX-AID</p></td>
+<td><p>レベルアッピングエグゼイド</p></td>
+<td><p>等級上升EX-AID</p></td>
+<td></td>
+<td><p>存放<a href="../Page/假面騎士EX-AID.md" title="wikilink">假面騎士EX-AID</a>型像資料的Key型道具。<br />
+啓動音效為「Game」（日文：「ゲーム」）<br />
+二次啓動音效為「EX-AID's ability!」<br />
+完整變身音效為「Gashat!Gachon!Gashun!Levelupping EX-AID!<br />
+Saving patients on the first try.」<br />
+（日文：「ガシャット！ガチョン！ガシューン！レベルアッピングエグゼイド！」）</p></td>
+</tr>
+<tr class="even">
+<td><p>Gogogogoing Ghost</p></td>
+<td><p>ゴゴゴーイングゴースト</p></td>
+<td><p>上吧上吧Ghost</p></td>
+<td></td>
+<td><p>存放<a href="../Page/假面騎士Ghost.md" title="wikilink">假面騎士Ghost</a>型像資料的Key型道具。<br />
+啓動音效為「Invisible」（日文：「インビジブル」）<br />
+二次啓動音效為「Ghost's ability!」<br />
+完整變身音效為「Eyecon Kaigan!Gogogogoing Ghost!<br />
+Fight with the power of heroic souls.」<br />
+（日文：「アイコン カイガン！ゴゴゴーイングゴースト!」）</p></td>
+</tr>
+<tr class="odd">
+<td><p>Tire Changing Drive</p></td>
+<td><p>タイヤチェンジングドライブ</p></td>
+<td><p>輪胎互換Drive</p></td>
+<td></td>
+<td><p>存放<a href="../Page/假面騎士Drive.md" title="wikilink">假面騎士Drive</a>型像資料的Key型道具。<br />
+啓動音效為「FullThrottle」（日文：「フルスロットル」）<br />
+二次啓動音效為「Drive's ability!」<br />
+完整變身音效為「Start Your Engine!Tire Changing Drive!<br />
+Solving everything in top gear.」</p></td>
+</tr>
+<tr class="even">
+<td><p>On Staging Gaim</p></td>
+<td><p>オンステージング鎧武</p></td>
+<td><p>站上舞台鎧武</p></td>
+<td></td>
+<td><p>存放<a href="../Page/假面騎士鎧武.md" title="wikilink">假面騎士鎧武</a>型像資料的Key型道具。<br />
+啓動音效為「Juicy」（日文：「ジューシー」）<br />
+二次啓動音效為「Gaim's ability!」<br />
+完整變身音效為「Fruits Warrior!On Staging Gaim!<br />
+Sengoku warriors who dance magnificently.」</p></td>
+</tr>
+<tr class="odd">
+<td><p>Magic Showing Wizard</p></td>
+<td><p>マジックショーイングウィザード</p></td>
+<td><p>魔術表演Wizard</p></td>
+<td></td>
+<td><p>存放<a href="https://zh.wikipedia.org/wiki/假面騎士Wizard" title="wikilink">假面騎士Wizard型像資料的Key型道具</a>。<br />
+啓動音效為「Magic」（日文：「マジック」）<br />
+二次啓動音效為「Wizard's ability!」<br />
+完整變身音效為「Shabadobie !Henshin!Magic Showing Wizard!<br />
+A great magic called the final hope.」<br />
+（日文：「シャバドゥビタッチ！ヘンシン！マジックショーイングウィザード！」）</p></td>
+</tr>
+<tr class="even">
+<td><p>Spacecoming Fourze</p></td>
+<td><p>スペースカミングフォーゼ</p></td>
+<td><p>宇宙來臨Fourze</p></td>
+<td></td>
+<td><p>存放<a href="../Page/假面騎士Fourze.md" title="wikilink">假面騎士Fourze</a>型像資料的Key型道具。<br />
+啓動音效為「Cosmic」（日文：「コズミック」）<br />
+二次啓動音效為「Fourze's ability!」<br />
+</p></td>
+</tr>
+<tr class="odd">
+<td><p>Tatobasinging OOO</p></td>
+<td><p>タトバシンギングオーズ</p></td>
+<td><p>鷹虎蝗歌唱OOO</p></td>
+<td></td>
+<td><p>存放<a href="../Page/假面騎士OOO.md" title="wikilink">假面騎士OOO</a>型像資料的Key型道具。<br />
+啓動音效為「Animal」（日文：「アニマル」）<br />
+二次啓動音效為「OOO's ability!」<br />
+完整變身音效為「Hawk!Tiger!Hopper!Tatobasinging OOO!<br />
+The king who controls desire.」</p></td>
+</tr>
+<tr class="even">
+<td><p>Crime Counting Double</p></td>
+<td><p>クライムカウンティングダブル</p></td>
+<td><p>罪惡細數W</p></td>
+<td></td>
+<td><p>存放<a href="https://zh.wikipedia.org/wiki/假面騎士W" title="wikilink">假面騎士W型像資料的Key型道具</a>。<br />
+啓動音效為「Memory」（日文：「メモリー」）<br />
+二次啓動音效為「Double's ability!」<br />
+完整變身音效為「Cyclone!Joker!Crime Counting Double!<br />
+Two minds, one great detective.」</p></td>
 </tr>
 <tr class="odd">
 <td><p>Kamenriding DECADE</p></td>
@@ -1534,7 +1751,110 @@ May your Christmas wishes come true.」</p></td>
 <td><p>假面騎乘DECADE</p></td>
 <td></td>
 <td><p>存放<a href="https://zh.wikipedia.org/wiki/假面騎士DECADE" title="wikilink">假面騎士DECADE型像資料的Key型道具</a>。<br />
-啓動音效為「Destroy」（日文：「デストロイ」）</p></td>
+啓動音效為「Destroy」（日文：「デストロイ」）<br />
+二次啓動音效為「Decade's ability!」<br />
+完整變身音效為「Di!Di!Di! Decade! delete!The world!Kamenriding DECADE!<br />
+Destoryer of worlds.」</p></td>
+</tr>
+<tr class="even">
+<td><p>Wakeupping Kiva</p></td>
+<td><p>ウェイクアッピングキバ</p></td>
+<td><p>暗夜覺醒KIVA</p></td>
+<td></td>
+<td><p>存放<a href="https://zh.wikipedia.org/wiki/假面騎士KIVA" title="wikilink">假面騎士KIVA型像資料的Key型道具</a>。<br />
+啓動音效為「Vampire」（日文：「ヴァンパイア」）<br />
+二次啓動音效為「Kiva's ability!」<br />
+</p></td>
+</tr>
+<tr class="odd">
+<td><p>Ore Visiting Den-O</p></td>
+<td><p>オレヴィジッティング電王</p></td>
+<td><p>老子來臨電王</p></td>
+<td></td>
+<td><p>存放<a href="https://zh.wikipedia.org/wiki/假面騎士電王" title="wikilink">假面騎士電王型像資料的Key型道具</a>。<br />
+啓動音效為「Climax」（日文：「クライマックス」）<br />
+二次啓動音效為「Den-O's ability!」<br />
+</p></td>
+</tr>
+<tr class="even">
+<td><p>Clockupping Kabuto</p></td>
+<td><p>クロックアッピングカブト</p></td>
+<td><p>流速變動Kabuto</p></td>
+<td></td>
+<td><p>存放<a href="https://zh.wikipedia.org/wiki/假面騎士Kabuto" title="wikilink">假面騎士Kabuto型像資料的Key型道具</a>。<br />
+啓動音效為「Speed」（日文：「スピード」）<br />
+二次啓動音效為「Kabuto's ability!」<br />
+</p></td>
+</tr>
+<tr class="odd">
+<td><p>Drumming Hibiki</p></td>
+<td><p>ドラミング響鬼</p></td>
+<td><p>奏擊太鼓響鬼</p></td>
+<td></td>
+<td><p>存放<a href="https://zh.wikipedia.org/wiki/假面騎士響鬼" title="wikilink">假面騎士響鬼型像資料的Key型道具</a>。<br />
+啓動音效為「Beat」（日文：「ビート」）<br />
+二次啓動音效為「Hibiki's ability!」<br />
+</p></td>
+</tr>
+<tr class="even">
+<td><p>Turnupping Blade</p></td>
+<td><p>ターンアッピングブレイド</p></td>
+<td><p>翻轉牌面Blade</p></td>
+<td></td>
+<td><p>存放<a href="https://zh.wikipedia.org/wiki/假面騎士劍" title="wikilink">假面騎士Blade型像資料的Key型道具</a>。<br />
+啓動音效為「Joker」（日文：「ジョーカー」）<br />
+二次啓動音效為「Blade's ability!」<br />
+完整變身音效為「The destiny card!Turnupping Blade!<br />
+Fighting against fate with swords and cards.」</p></td>
+</tr>
+<tr class="odd">
+<td><p>Exceedcharging Faiz</p></td>
+<td><p>エクシードチャージングファイズ</p></td>
+<td><p>超越充電Faiz</p></td>
+<td></td>
+<td><p>存放<a href="https://zh.wikipedia.org/wiki/假面騎士Faiz" title="wikilink">假面騎士Faiz型像資料的Key型道具</a>。<br />
+啓動音效為「Complete」（日文：「コンプリート」）<br />
+二次啓動音效為「Faiz's ability!」<br />
+</p></td>
+</tr>
+<tr class="even">
+<td><p>Finalventing Ryuki</p></td>
+<td><p>ファイナルベンティング龍騎</p></td>
+<td><p>最終發動龍騎</p></td>
+<td></td>
+<td><p>存放<a href="../Page/假面騎士龍騎.md" title="wikilink">假面騎士龍騎</a>型像資料的Key型道具。<br />
+啓動音效為「Mirror」（日文：「ミラー」）<br />
+二次啓動音效為「Ryuki's ability!」<br />
+完整變身音效為「Thirteen dragon knights!Finalventing Ryuki!<br />
+One who can't survive without fighting.」</p></td>
+</tr>
+<tr class="odd">
+<td><p>Tripleflashing </p></td>
+<td><p>トリプルフラッシングアギト</p></td>
+<td><p>三重閃光鄂鬥</p></td>
+<td></td>
+<td><p>存放<a href="../Page/假面騎士鄂鬥.md" title="wikilink">假面騎士Agito型像資料的Key型道具</a>。<br />
+啓動音效為「Evolution」（日文：「エボリューション」）<br />
+二次啓動音效為「's ability!」<br />
+</p></td>
+</tr>
+<tr class="even">
+<td><p>Thumbsupping Kuuga</p></td>
+<td><p>サムズアッピングクウガ</p></td>
+<td><p>豎起拇指空我</p></td>
+<td></td>
+<td><p>存放<a href="../Page/假面騎士空我.md" title="wikilink">假面騎士空我</a>型像資料的Key型道具。<br />
+啓動音效為「Mighty」（日文：「マイティ」）<br />
+二次啓動音效為「Kuuga's ability!」<br />
+完整變身音效為「Two thousand skills!Thumbsupping Kuuga!<br />
+A new hero.A new legend.」</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -1557,21 +1877,21 @@ May your Christmas wishes come true.」</p></td>
 <tr class="odd">
 <td><p>Berosa</p></td>
 <td><p>ベローサ</p></td>
-<td><p>刺鱗蛉[55]</p></td>
+<td><p>刺鱗蛉[64]</p></td>
 <td><p>變身成<strong>Berosa MAGiA</strong>。</p></td>
-<td><p>存放滅絕種昆蟲「<a href="https://zh.wikipedia.org/wiki/久慈照之刺鳞蛉" title="wikilink">久慈照之[56]刺鳞蛉</a>（Kujiberotha Teruyukii）」型像資料的Key型道具。</p></td>
+<td><p>存放滅絕種昆蟲「<a href="https://zh.wikipedia.org/wiki/久慈照之刺鳞蛉" title="wikilink">久慈照之[65]刺鳞蛉</a>（Kujiberotha Teruyukii）」型像資料的Key型道具。</p></td>
 </tr>
 <tr class="even">
 <td><p>Kuehne</p></td>
 <td><p>クエネオ</p></td>
-<td><p>孔耐鱷[57]</p></td>
+<td><p>孔耐鱷[66]</p></td>
 <td><p>變身成<strong>Kuehne MAGiA</strong>。</p></td>
 <td><p>存放滅絕種爬蟲類「（Kuehneosuchus）」型像資料的Key型道具。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Ekal</p></td>
 <td><p>エカル</p></td>
-<td><p>強齒袋鼠[58]</p></td>
+<td><p>強齒袋鼠[67]</p></td>
 <td><p>變身成<strong>Ekal MAGiA</strong>。</p></td>
 <td><p>存放滅絕種哺乳類「（Ekaltadeta）」型像資料的Key型道具。</p></td>
 </tr>
@@ -1585,14 +1905,14 @@ May your Christmas wishes come true.」</p></td>
 <tr class="odd">
 <td><p>Oniko</p></td>
 <td><p>オニコ</p></td>
-<td><p>爪蝠[59]</p></td>
+<td><p>爪蝠[68]</p></td>
 <td><p>變身成<strong>Onycho MAGiA</strong>。</p></td>
 <td><p>存放滅絕種哺乳類「（Onychonycteris）」型像資料的Key型道具。</p></td>
 </tr>
 <tr class="even">
 <td><p>Vicarya</p></td>
 <td><p>ビカリア</p></td>
-<td><p>卷貝[60]</p></td>
+<td><p>卷貝[69]</p></td>
 <td><p>變身成<strong>Vicarya MAGiA</strong>。</p></td>
 <td><p>存放滅絕種腹足類「<a href="https://zh.wikipedia.org/wiki/卷貝" title="wikilink">卷貝</a>（Vicarya）」型像資料的Key型道具。</p></td>
 </tr>
@@ -1614,7 +1934,7 @@ May your Christmas wishes come true.」</p></td>
 <td><p>Dodo</p></td>
 <td><p>ドードー</p></td>
 <td><p>渡渡鳥</p></td>
-<td><p>變身成<strong>Dodo MAGiA</strong>跟<strong>Dodo MAGiA 改</strong>。</p></td>
+<td><p>變身成<strong>Dodo MAGiA</strong>、<strong>Dodo MAGiA 改</strong>跟<strong>假面騎士雷</strong>。</p></td>
 <td><p>存放滅絕種鳥類「<a href="https://zh.wikipedia.org/wiki/渡渡鳥" title="wikilink">渡渡鳥</a>（Dodo）」型像資料的Key型道具。</p></td>
 </tr>
 <tr class="even">
@@ -1635,7 +1955,7 @@ May your Christmas wishes come true.」</p></td>
 <tr class="even">
 <td><p>Rocking Hopper</p></td>
 <td><p>ロッキングホッパー</p></td>
-<td><p>搖擺蝗蟲[61]</p></td>
+<td><p>搖擺蝗蟲[70]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1798,7 +2118,10 @@ May your Christmas wishes come true.」</p></td>
 <td><p>191.3cm</p></td>
 <td><p>107.5kg</p></td>
 <td><p>鳥類的滅絕種 / 格鬥 / 劍 / 銃火器</p></td>
-<td><p>以鳥類的滅絕種「<a href="https://zh.wikipedia.org/wiki/渡渡鳥" title="wikilink">渡渡鳥</a>（ドードー，Dodo）」的失落模組強化而成，並向暗殺方面昇華進化的渡渡鳥型怪人。</p></td>
+<td><p>以鳥類的滅絕種「<a href="https://zh.wikipedia.org/wiki/渡渡鳥" title="wikilink">渡渡鳥</a>（ドードー，Dodo）」的失落模組強化而成，學習了關於暗殺方面後進化的渡渡鳥型怪人。<br />
+新著裝能承受Attache Shotgun直接攻擊的胸部裝甲，並裝備了從背部彈匣供給子彈的固定式機槍「Regislaughter（レジスローター）」共六門。<br />
+肩部有強化裝甲，上腕部則追加能裝填手榴彈或煙霧彈的的擲彈發射器。<br />
+此外也擅長以雙手所持的劍「Valk Saber（ヴァルクサーベル）」戰鬥。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1809,7 +2132,8 @@ May your Christmas wishes come true.」</p></td>
 <td><p>212.8cm</p></td>
 <td><p>138.9kg</p></td>
 <td><p>角 / 怪力</p></td>
-<td><p>以哺乳類的滅絕種「<a href="../Page/埃及重腳獸.md" title="wikilink">埃及重腳獸</a>（アルシノイテリウム，Arsinoitherium）」的失落模組強化而成的犀牛型怪人。</p></td>
+<td><p>以哺乳類的滅絕種「<a href="../Page/埃及重腳獸.md" title="wikilink">埃及重腳獸</a>（アルシノイテリウム，Arsinoitherium）」的失落模組強化而成的犀牛型怪人。<br />
+擅長活用頭部超硬質化的角「V Horn（Vホーン）」，及突進力戰鬥。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1820,8 +2144,10 @@ May your Christmas wishes come true.」</p></td>
 <td><p>209.9cm</p></td>
 <td><p>131.4kg</p></td>
 <td><p>鳥類的滅絕種 / 格鬥 / 劍 / 銃火器 / 指揮</p></td>
-<td><p>以鳥類的滅絕種「<a href="https://zh.wikipedia.org/wiki/渡渡鳥" title="wikilink">渡渡鳥</a>（ドードー，Dodo）」的失落模組強化而成，暗殺能力精通後進一步進化的渡渡鳥型怪人。<br />
-生成的卵型金屬球植入Humagear後會變化成Dodo MAGiA・雛鳥（ドードーマギア・ヒナ）並指揮他們進行集團戰鬥。</p></td>
+<td><p>以鳥類的滅絕種「<a href="https://zh.wikipedia.org/wiki/渡渡鳥" title="wikilink">渡渡鳥</a>（ドードー，Dodo）」的失落模組強化而成，暗殺能力達到極致的渡渡鳥型怪人。<br />
+以卵型金屬球擊入靠近距離的Humagear則能克隆繁殖地變化成Dodo MAGiA・雛鳥（ドードーマギア・ヒナ）。<br />
+以通信性能大幅強化地名為「Helm Vogel（ヘルムヴォーゲル）」頭部組件，來進行指揮集團戰鬥。<br />
+頭部方面，配備對空砲兩門及格鬥用衝角，及使用本身就有的胸部裝甲的固定式機槍「Regislaughter（レジスローター）」加上腕部的擲彈發射器、雙手所持的劍「Valk Saber（ヴァルクサーベル）」等多樣武裝。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1832,7 +2158,8 @@ May your Christmas wishes come true.」</p></td>
 <td><p>會隨著對象Humagear而有差異</p></td>
 <td><p>會隨著對象Humagear而有差異</p></td>
 <td><p>鳥類的滅絕種 / 成長</p></td>
-<td><p>卵型金屬球植入Humagear後變化而成的姿態，會聽從Dodo MAGiA 改的指揮戰鬥。<br />
+<td><p>由被卵型金屬球擊入的Humagear變化的姿態。<br />
+會聽從Dodo MAGiA 改的命令，進行戰鬥。<br />
 擁有透過成長來增加戰鬥力的能力。</p></td>
 </tr>
 <tr class="even">
@@ -1861,7 +2188,7 @@ May your Christmas wishes come true.」</p></td>
 <th><p>日本原文標題</p></th>
 <th><p>中文標題</p></th>
 <th><p>登場敵方怪人</p></th>
-<th><p>關東收視率[62]</p></th>
+<th><p>關東收視率[71]</p></th>
 <th><p>編劇</p></th>
 <th><p>導演</p></th>
 </tr>
@@ -1908,7 +2235,7 @@ May your Christmas wishes come true.」</p></td>
 <td><p>2019/09/22</p></td>
 <td><p>04</p></td>
 <td></td>
-<td><p>車掌小姐發現了！安娜（那樣的）真相[63]</p></td>
+<td><p>車掌小姐發現了！安娜（那樣的）真相[72]</p></td>
 <td><ul>
 <li>Onycho MAGiA</li>
 </ul></td>
@@ -1971,13 +2298,13 @@ May your Christmas wishes come true.」</p></td>
 <td><p>09</p></td>
 <td></td>
 <td><p>將這生命、預借使用</p></td>
-<td></td>
+<td><p>-[73]</p></td>
 <td><p>%</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019/11/10[64]</p></td>
+<td><p>2019/11/10[74]</p></td>
 <td><p>10</p></td>
 <td></td>
 <td><p>我乃演員，大和田伸也</p></td>
@@ -2029,7 +2356,7 @@ May your Christmas wishes come true.」</p></td>
 <td><p>14</p></td>
 <td></td>
 <td><p>我們是宇航員兄弟！</p></td>
-<td></td>
+<td><p>-[75]</p></td>
 <td><p>%</p></td>
 <td><p>高橋悠也</p></td>
 <td><p>諸田敏</p></td>
@@ -2038,8 +2365,8 @@ May your Christmas wishes come true.」</p></td>
 <td><p>2019/12/15</p></td>
 <td><p>15</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>各自的結局</p></td>
+<td><p>-[76]</p></td>
 <td><p>%</p></td>
 <td></td>
 <td></td>
@@ -2048,19 +2375,32 @@ May your Christmas wishes come true.」</p></td>
 <td><p>2019/12/22</p></td>
 <td><p>16</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>這就是ZAIA的黎明</p></td>
+<td><ul>
+<li>Berotha MAGiA</li>
+<li>Dodo MAGiA</li>
+</ul></td>
 <td><p>%</p></td>
 <td><p>中澤祥次郎</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2019/1/5[77]</p></td>
+<td><p>17</p></td>
 <td></td>
 <td></td>
 <td></td>
+<td><p>%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019/1/12</p></td>
+<td><p>18</p></td>
 <td></td>
 <td></td>
 <td></td>
+<td><p>%</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2071,16 +2411,17 @@ May your Christmas wishes come true.」</p></td>
 
 ### 劇場版
 
-  - 《[劇場版 假面騎士ZI-O Over Quartzer](../Page/劇場版_假面騎士ZI-O_Over_Quartzer.md "wikilink")》（2019年7月26日上映）\[65\]
-  - 《[假面騎士令和The First Generation](https://zh.wikipedia.org/wiki/假面騎士令和The_First_Generation "wikilink")》（2019年12月21日上映）
+  - 《[劇場版 假面騎士ZI-O Over Quartzer](../Page/劇場版_假面騎士ZI-O_Over_Quartzer.md "wikilink")》（2019年7月26日上映）\[78\]
+  - 《[假面騎士令和The First Generation](../Page/假面騎士令和The_First_Generation.md "wikilink")》（2019年12月21日上映）
+  - 《劇場版 假面騎士ZERO-ONE（假標題）》（2020年）
 
 ## 樂曲
 
 ### 主題曲
 
-「**REAL×EYEZ**」\[66\]
+「**REAL×EYEZ**」\[79\]
 
-  - 演唱：J×Takanori Nishikawa \[67\]
+  - 演唱：J×Takanori Nishikawa \[80\]
   - 作曲：J
   - 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")/[西川貴教](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")
   - 編曲：DJ'TEKINA//SOMETHING
@@ -2092,10 +2433,7 @@ May your Christmas wishes come true.」</p></td>
 ## 《[超級英雄時間](../Page/超級英雄時間.md "wikilink")》相關條目
 
   - 《[騎士龍戰隊龍裝者](../Page/騎士龍戰隊龍裝者.md "wikilink")》
-
-<!-- end list -->
-
-  - 《[魔進戰隊閃耀者](https://zh.wikipedia.org/wiki/魔進戰隊閃耀者 "wikilink")》
+  - 《[魔進戰隊煌輝者](https://zh.wikipedia.org/wiki/魔進戰隊煌輝者 "wikilink")》
 
 ## 參考資料
 
@@ -2116,7 +2454,7 @@ May your Christmas wishes come true.」</p></td>
 
 1.  此類劇情尤其在[港劇和](https://zh.wikipedia.org/wiki/港劇 "wikilink")[韓劇中最為常見](https://zh.wikipedia.org/wiki/韓劇 "wikilink")，大多都是野心勃勃的副位高層人士（副社長、室長）爭奪正位高層人士（社長、會長、主席）的位子等種種情節。
 2.  例如ZERO-ONE的造型範本源自於蝗蟲；Vulcan則是源自於狼；而Valkyrie則是源自於獵豹。
-3.  龍騎 —— Femme、劍 —— Larc、響鬼 —— 朱鬼 / 天美晶變身體、Decade —— 天鬼 / Kivala、Fourze —— Nadeshiko、鎧武 —— Marika、EX-AID —— Poppy、ZI-O —— Tsukuyomi。 部分作品如555中的Delta曾有女性變身者（阿部里奈 / 木村沙耶）,但因為共用變身腰帶並不包括在內；另外如WIZARD中的Mage雖有女性變身者,但因量產型騎士關係並不包括在內
+3.  龍騎 —— Femme、劍 —— Larc、響鬼 —— 朱鬼 / 天美晶變身體、Decade —— 天鬼 / Kivala、Fourze —— Nadeshiko、鎧武 —— Marika、EX-AID —— Poppy、ZI-O —— Tsukuyomi。另外部分作品如555中的Delta曾有女性變身者（阿部里奈 / 木村沙耶），但因為共用變身腰帶並不包括在內；亦或如WIZARD中的Mage雖有女性變身者，但其為量產型騎士的關係而不包括在內
 4.  蝗蟲為基本造型原先只有昭和時期的假面騎士才有，而平成時期的基本型態不再以蝗蟲為主，而是對應作品的主題而出現各式各樣的造型，如今再次回歸原點。
 5.  即本作登場的破壞猛瑪象。
 6.  後者中登場的魔進追跡者、《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》中的夜霸、血逐、BiKaiser、Hell Bros皆屬未被官方列名於騎士的非正規戰士。
@@ -2135,50 +2473,63 @@ May your Christmas wishes come true.」</p></td>
 19. 從或人的記憶中得知他似乎也是當年該事件的生存者。
 20. 後來得知是因滅亡迅雷.net的行動駭入Humagear而造成該事件，但在櫻井聰的努力牺牲下减少傷亡。
 21. 而使用飛電ZERO-ONE驅動器變身的或人因此擁有相關權限。
-22. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/1)
-23. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/2)
-24. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/5)
-25. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/9)
-26. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/13)
-27. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/17)
-28. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/23)
-29. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/4)
-30. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/8)
-31. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/10)
-32. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/14)
-33. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/16)
-34. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/18)
-35. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/19)
-36. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/20)
-37. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/21)
-38. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/22)
-39. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/24)
-40. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/26)
-41. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/3)
-42. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/7)
-43. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/25)
-44. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/6)
-45. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/11)
-46. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/12)
-47. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/15)
-48.
-49. 劇中不破諫在變身時搞錯了步驟，因此每此展開Progrise Key時都是用蠻力強行展開。
-50. 使用Flying Falcon和Sting Scorpion的Progrise Key不會有後半段的英文音效。
-51. 類似《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》的危險扳機（Hazard Trigger）
-52. 主要使用者，但其他騎士也能使用。
-53.
-54.
-55. 此昆蟲在2006年被發現，12年後才正式命名，生活在8600萬年前的白堊紀晚期，是[螳蛉的近親](https://zh.wikipedia.org/wiki/螳蛉 "wikilink")
-56. 「久慈」取自琥珀的發現地——「[久慈市](https://zh.wikipedia.org/wiki/久慈市 "wikilink")」；而 「照之」則取自致力推廣科普昆蟲的日本演員——「[香川照之](../Page/香川照之.md "wikilink")」
-57. 此類與現代飛蜥同樣的生物生存在三疊紀晚期，其特徵為身體突出的巨大翅膀，用於在樹林間滑翔降落
-58. 這是一種生存在新近紀中新世的最古老的食肉袋鼠，雖體型較小但因牙齒強壯而得名。
-59. 這是一種生活在5250萬年前的古近紀始新世的最古老的蝙蝠之一。
+22. 也因此伊絲和沃斯的數據資料，是無法複製的特殊數據。
+23. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/1)
+24. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/2)
+25. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/5)
+26. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/9)
+27. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/13)
+28. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/17)
+29. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/23)
+30. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/17/weekly_items/30)
+31. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/4)
+32. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/8)
+33. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/10)
+34. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/14)
+35. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/16)
+36. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/18)
+37. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/19)
+38. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/20)
+39. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/21)
+40. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/22)
+41. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/24)
+42. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/26)
+43. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/28)
+44. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/3)
+45. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/7)
+46. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/27)
+47. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/25)
+48. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/6)
+49. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/11)
+50. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/12)
+51. [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/15)
+52. 畫面文字出現是由左至右，但文字讀法是由右至左。
+53. 畫面文字出現是由左至右，但文字讀法是由右至左。
+54. 畫面文字出現是由左至右，但文字讀法是由右至左。
+55.
+56. 從配件和零件的組裝到上色和激活，竟然只需**十秒**，可見自動化的發展非常地迅速
+57. 劇中不破諫在變身時搞錯了步驟，因此每此展開ProgriseKey時都是用蠻力強行展開。
+58. Assault Wolf變身音效會額外包含Ready Go\!
+59. 使用Flying Falcon和Sting Scorpion的ProgriseKey不會有後半段的英文音效。
+60. 類似《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》的危險扳機（Hazard Trigger）
+61. 主要使用者，但其他騎士也能使用。
+62.
+63.
+64. 此昆蟲在2006年被發現，12年後才正式命名，生活在8600萬年前的白堊紀晚期，是[螳蛉的近親](https://zh.wikipedia.org/wiki/螳蛉 "wikilink")
+65. 「久慈」取自琥珀的發現地——「[久慈市](https://zh.wikipedia.org/wiki/久慈市 "wikilink")」；而 「照之」則取自致力推廣科普昆蟲的日本演員——「[香川照之](../Page/香川照之.md "wikilink")」
+66. 此類與現代飛蜥同樣的生物生存在三疊紀晚期，其特徵為身體突出的巨大翅膀，用於在樹林間滑翔降落
+67. 這是一種生存在新近紀中新世的最古老的食肉袋鼠，雖體型較小但因牙齒強壯而得名。
+68. 這是一種生活在5250萬年前的古近紀始新世的最古老的蝙蝠之一。
     前肢與現代大部分蝙蝠不同，五指全都长有爪，前肢較短，後肢较長，且整體結構較為原始，同時也沒有超聲波定位的能力。
-60. 這是一種繁盛于始新世到中新世的腹足綱動物，活在熱帶至亞熱帶地區（包含日本），其特點是是螺殼上有粗狀的螺肋和角狀突起，如今全數絕種，與現代的[牙海蜷是親近](https://zh.wikipedia.org/wiki/牙海蜷 "wikilink")。
-61. 原參考為洛磯山黑蝗，分布於美國的西半部和加拿大某些西部地區。
-62. 日本關東地區平均收視率。
-63. "安娜"的日文"アンナ"和"那樣的"的日文"あんな"同音。
-64. 因全日本大學驛站接力賽，11月03日停播一次。
-65. [「劇場版 仮面ライダージオウ Over Quartzer」奥野壮×押田岳×大幡しえり×渡邊圭祐インタビュー - 映画ナタリー 特集・インタビュー](https://natalie.mu/eiga/pp/zi-o_ryusoul)
-66. [「仮面ライダーゼロワン」西川貴教＆LUNA SEA・Jが主題歌アーティストに決定！](https://news.livedoor.com/article/detail/16943413/?fbclid=IwAR23cRolnyRlSCksU-FNW6BEOWg_WufdbU-Kf4SEyCJHMlldjXA2ic9HyFs)
-67. 演唱者中的Takanori Nishikawa（[西川貴教](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")），曾在前作《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的宣傳圖被官方錯印成主題曲「Over "Quartzer"」的演唱者之一，後期才修正為[ISSA](https://zh.wikipedia.org/wiki/ISSA "wikilink")。
+69. 這是一種繁盛于始新世到中新世的腹足綱動物，活在熱帶至亞熱帶地區（包含日本），其特點是是螺殼上有粗狀的螺肋和角狀突起，如今全數絕種，與現代的[牙海蜷是親近](https://zh.wikipedia.org/wiki/牙海蜷 "wikilink")。
+70. 原參考為洛磯山黑蝗，分布於美國的西半部和加拿大某些西部地區。
+71. 日本關東地區平均收視率。
+72. "安娜"的日文"アンナ"和"那樣的"的日文"あんな"同音。
+73. 此話登場的主要敵人為假面騎士滅跟假面騎士迅。
+74. 因全日本大學驛站接力賽，11月03日停播一次。
+75. 此話登場的主要敵人為假面騎士迅跟假面騎士雷。
+76. 此話登場的主要敵人為假面騎士滅跟假面騎士迅。
+77. 因全日本新年，12月29日停播一次。
+78. [「劇場版 仮面ライダージオウ Over Quartzer」奥野壮×押田岳×大幡しえり×渡邊圭祐インタビュー - 映画ナタリー 特集・インタビュー](https://natalie.mu/eiga/pp/zi-o_ryusoul)
+79. [「仮面ライダーゼロワン」西川貴教＆LUNA SEA・Jが主題歌アーティストに決定！](https://news.livedoor.com/article/detail/16943413/?fbclid=IwAR23cRolnyRlSCksU-FNW6BEOWg_WufdbU-Kf4SEyCJHMlldjXA2ic9HyFs)
+80. 演唱者中的Takanori Nishikawa（[西川貴教](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")），曾在前作《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的宣傳圖被官方錯印成主題曲「Over "Quartzer"」的演唱者之一，後期才修正為[ISSA](https://zh.wikipedia.org/wiki/ISSA "wikilink")。
