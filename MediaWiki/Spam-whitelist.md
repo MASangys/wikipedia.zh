@@ -99,6 +99,7 @@ facebook\.com\/groups\/wp\.eduprog\.tw #台灣教育專案
 facebook\.com\/groups\/WikiTyphoons # 漢語維基氣象學編輯社群 ([[Wikipedia:太平洋颱風季專題|Wikipedia:太平洋颱風季專題]])
 www\.ptt\.cc\/bbs\/NTU\/M\.1527347855\.A\.D33\.html # [[Wikipedia:台大維基社/2018年台灣勞權議題編輯松|Wikipedia:台大維基社/2018年台灣勞權議題編輯松]]
 www\.ptt\.cc\/bbs\/WomenTalk\/M\.1542375527\.A\.359\.html # [[基進黨#黨內性騷擾|基進黨#黨內性騷擾]] oldid=52525277
+www\.ptt\.cc\/man\/sex\/DB2A\/D963\/DE2F\/DE42\/DE82\/DFC7\/index.html # [[D51|D51]]
 www\.williamlong\.info
 www\.huojiali\.com
 www\.ptt\.cc\/man\/Railway\/DCDC\/D8CA\/M\.1229339468\.A\.176\.html # [[Special:PermaLink/51454467|Special:PermaLink/51454467]]
