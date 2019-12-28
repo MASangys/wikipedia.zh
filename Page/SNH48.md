@@ -566,7 +566,7 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/汤敏.md" title="wikilink">汤敏</a></p></td>
+<td><p>汤敏</p></td>
 <td></td>
 <td></td>
 <td><p>1期</p></td>
@@ -5904,7 +5904,7 @@ YouTube直播</p></td>
 YouTube直播</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/SNH48_Group第六届年度金曲大赏BEST_50" title="wikilink">SNH48 Group第六届年度金曲大赏BEST 50</a></p></td>
+<td><p><a href="../Page/SNH48_Group第六届年度金曲大赏BEST_50.md" title="wikilink">SNH48 Group第六届年度金曲大赏BEST 50</a></p></td>
 <td><p>12月21日</p></td>
 <td><p>廣州體育館</p></td>
 <td></td>
@@ -6516,6 +6516,12 @@ Team NII专场</p></td>
 <td><p>目前公演中</p></td>
 </tr>
 <tr class="odd">
+<td><p>过渡公演</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Team_NII_Waiting_Stage“N.E.W”公演" title="wikilink">N.E.W 2.0</a></p></td>
+<td><p>2019年12月14日－</p></td>
+<td><p>目前公演中</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -6546,8 +6552,8 @@ Team NII专场</p></td>
 | 纪念公演 | [十八個閃耀瞬間](https://zh.wikipedia.org/wiki/SNH48「十八個閃耀瞬間」公演#Team_X「十八個閃耀瞬間」公演 "wikilink")                         | 2016年6月17日－10月20日       | 24場   |
 | 3    | [夢想的旗幟](../Page/Team_X_3rd_Stage「夢想的旗幟」公演.md "wikilink")                                                       | 2016年10月28日－2017年12月9日  | 69場   |
 | 4    | [命運的X號](../Page/Team_X_4th_Stage「命運的X號」公演.md "wikilink")                                                       | 2017年12月15日－2019年11月15日 | 84場   |
-| 过渡公演 | [Girl X](https://zh.wikipedia.org/wiki/Team_X_Waiting_Stage“Girl_X”公演 "wikilink")                              | 2019年3月29日－             | 目前公演中 |
-| 5    | [遗忘的国度](https://zh.wikipedia.org/wiki/Team_X_5th_Stage“遗忘的国度”公演 "wikilink")                                    | 2019年                   |       |
+| 过渡公演 | [Girl X](https://zh.wikipedia.org/wiki/Team_X_Waiting_Stage“Girl_X”公演 "wikilink")                              | 2019年3月29日－2019年12月5日   | 40场   |
+| 5    | [遗忘的国度](https://zh.wikipedia.org/wiki/Team_X_5th_Stage“遗忘的国度”公演 "wikilink")                                    | 2019年12月12日－            | 目前公演中 |
 |      |                                                                                                                |                         |       |
 
   - Team XII

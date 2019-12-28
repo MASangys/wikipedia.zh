@@ -267,7 +267,7 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年10月13日－2019年<br />
+<td style="text-align: center;"><p>2019年10月13日－2019年12月8日<br />
 </p></td>
 <td style="text-align: center;"><p><a href="../Page/Leverage：詐騙操作團.md" title="wikilink">Leverage：詐騙操作團</a><br />
 </p></td>
@@ -278,7 +278,7 @@
 <td style="text-align: center;"><p>原作：《<a href="../Page/偷天任務.md" title="wikilink">偷天任務</a>》</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年12月－2020年<br />
+<td style="text-align: center;"><p>2019年12月14日－2020年<br />
 </p></td>
 <td style="text-align: center;"><p><a href="../Page/揀擇－女人們的戰爭.md" title="wikilink">揀擇－女人們的戰爭</a><br />
 </p></td>

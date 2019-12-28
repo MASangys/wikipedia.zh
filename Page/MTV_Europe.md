@@ -8,7 +8,7 @@ MTV歐洲起初是以合作形式運作，合作兩方為[維亞康姆](../Page/
 
 ## 外部連結
 
-  - [Official *MTV歐洲*網站](http://www.mtv.tv)
+  - [Official *MTV歐洲*網站](https://web.archive.org/web/20140924175341/http://www.mtv.tv/)
   - [*MTV歐洲網絡*網站](http://www.mtvne.com)
   - [''Viacom Brand Solutions International](http://www.vbs-media.com)
   - [MTV Europe Screenshots](https://archive.is/20121220033040/http://www.itizaps.net/zapper-mtv-europe.php)

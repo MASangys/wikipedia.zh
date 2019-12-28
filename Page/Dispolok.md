@@ -15,7 +15,7 @@
 
 ## 外部链接
 
-  - [MRCE Dispolok](http://www.dispolok.com/en/home.html)
+  - [MRCE Dispolok](https://web.archive.org/web/20120220041011/http://www.dispolok.com/en/home.html)
 
 [Category:西门子公司](https://zh.wikipedia.org/wiki/Category:西门子公司 "wikilink") [Category:德国铁路公司](https://zh.wikipedia.org/wiki/Category:德国铁路公司 "wikilink") [Category:三井集團](https://zh.wikipedia.org/wiki/Category:三井集團 "wikilink") [Category:慕尼黑公司](https://zh.wikipedia.org/wiki/Category:慕尼黑公司 "wikilink")
 

@@ -103,7 +103,7 @@
     A02BX04 [氯化甲基蛋氨酸锍盐](https://zh.wikipedia.org/wiki/氯化甲基蛋氨酸锍盐 "wikilink")（Methiosulfonium chloride）
     A02BX05 [次枸橼酸铋](https://zh.wikipedia.org/wiki/次枸橼酸铋 "wikilink")（Bismuth subcitrate）
     A02BX06 [丙谷酰胺](https://zh.wikipedia.org/wiki/丙谷酰胺 "wikilink")（Proglumide）
-    A02BX07 [吉法酯](https://zh.wikipedia.org/wiki/吉法酯 "wikilink")（Gefarnate）
+    A02BX07 [吉法酯](../Page/吉法酯.md "wikilink")（Gefarnate）
     A02BX08 [硫糖肽](https://zh.wikipedia.org/wiki/硫糖肽 "wikilink")（Sulglicotide）
     A02BX09 [乙酰甘草亭酸铝](https://zh.wikipedia.org/wiki/乙酰甘草亭酸铝 "wikilink")（Acetoxolone）
     A02BX10 [佐利米定](https://zh.wikipedia.org/wiki/佐利米定 "wikilink")（Zolimidine）
@@ -112,7 +112,7 @@
     A02BX13 [海藻酸](../Page/海藻酸.md "wikilink")（Alginic acid）
     A02BX51 [甘珀酸](https://zh.wikipedia.org/wiki/甘珀酸 "wikilink")，与非安定药的复方（Carbenoxolone, combinations excluding psycholeptics）
     A02BX71 [甘珀酸](https://zh.wikipedia.org/wiki/甘珀酸 "wikilink")，与安定药的复方（Carbenoxolone, combinations with psycholeptics）
-    A02BX77 [吉法酯](https://zh.wikipedia.org/wiki/吉法酯 "wikilink")，与安定药的复方（Gefarnate, combinations with psycholeptics）
+    A02BX77 [吉法酯](../Page/吉法酯.md "wikilink")，与安定药的复方（Gefarnate, combinations with psycholeptics）
 
 ## A02X 治疗与胃酸分泌相关疾病的其它药物（Other drugs for acid related disorders）
 

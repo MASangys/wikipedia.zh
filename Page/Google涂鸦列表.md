@@ -147,7 +147,7 @@
 </tr>
 <tr class="even">
 <td><p>9月18日</p></td>
-<td><p>2000年夏季奥林匹克运动会Doodle系列：<a href="https://zh.wikipedia.org/wiki/2000年夏季奥林匹克运动会射箭比赛" title="wikilink">射箭</a></p></td>
+<td><p>2000年夏季奥林匹克运动会Doodle系列：<a href="../Page/2000年夏季奥林匹克运动会射箭比赛.md" title="wikilink">射箭</a></p></td>
 <td><p>全球</p></td>
 <td><p><a href="http://www.google.com/doodles/2000-summer-olympic-games-in-sydney-archery">http://www.google.com/doodles/2000-summer-olympic-games-in-sydney-archery</a></p></td>
 </tr>
@@ -159,31 +159,31 @@
 </tr>
 <tr class="even">
 <td><p>9月20日</p></td>
-<td><p>2000年夏季奥林匹克运动会Doodle系列：<a href="https://zh.wikipedia.org/wiki/2000年夏季奥林匹克运动会田径比赛" title="wikilink">撑杆跳</a></p></td>
+<td><p>2000年夏季奥林匹克运动会Doodle系列：<a href="../Page/2000年夏季奥林匹克运动会田径比赛.md" title="wikilink">撑杆跳</a></p></td>
 <td><p>全球</p></td>
 <td><p><a href="http://www.google.com/doodles/2000-summer-olympic-games-in-sydney-track-field">http://www.google.com/doodles/2000-summer-olympic-games-in-sydney-track-field</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>9月21日</p></td>
-<td><p>2000年夏季奥林匹克运动会Doodle系列：<a href="https://zh.wikipedia.org/wiki/2000年夏季奥林匹克运动会自行车比赛" title="wikilink">自行车</a></p></td>
+<td><p>2000年夏季奥林匹克运动会Doodle系列：<a href="../Page/2000年夏季奥林匹克运动会自行车比赛.md" title="wikilink">自行车</a></p></td>
 <td><p>全球</p></td>
 <td><p><a href="http://www.google.com/doodles/2000-summer-olympic-games-in-sydney-cycling">http://www.google.com/doodles/2000-summer-olympic-games-in-sydney-cycling</a></p></td>
 </tr>
 <tr class="even">
 <td><p>9月22日</p></td>
-<td><p>2000年夏季奥林匹克运动会Doodle系列：<a href="https://zh.wikipedia.org/wiki/2000年夏季奥林匹克运动会举重比赛" title="wikilink">举重</a></p></td>
+<td><p>2000年夏季奥林匹克运动会Doodle系列：<a href="../Page/2000年夏季奥林匹克运动会举重比赛.md" title="wikilink">举重</a></p></td>
 <td><p>全球</p></td>
 <td><p><a href="http://www.google.com/doodles/2000-summer-olympic-games-in-sydney-weightlifting">http://www.google.com/doodles/2000-summer-olympic-games-in-sydney-weightlifting</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>9月23日</p></td>
-<td><p>2000年夏季奥林匹克运动会Doodle系列：<a href="https://zh.wikipedia.org/wiki/2000年夏季奥林匹克运动会足球比赛" title="wikilink">足球</a></p></td>
+<td><p>2000年夏季奥林匹克运动会Doodle系列：<a href="../Page/2000年夏季奥林匹克运动会足球比赛.md" title="wikilink">足球</a></p></td>
 <td><p>全球</p></td>
 <td><p><a href="http://www.google.com/doodles/2000-summer-olympic-games-in-sydney-soccer">http://www.google.com/doodles/2000-summer-olympic-games-in-sydney-soccer</a></p></td>
 </tr>
 <tr class="even">
 <td><p>9月24日</p></td>
-<td><p>2000年夏季奥林匹克运动会Doodle系列：<a href="https://zh.wikipedia.org/wiki/2000年夏季奥林匹克运动会篮球比赛" title="wikilink">篮球</a></p></td>
+<td><p>2000年夏季奥林匹克运动会Doodle系列：<a href="../Page/2000年夏季奥林匹克运动会篮球比赛.md" title="wikilink">篮球</a></p></td>
 <td><p>全球</p></td>
 <td><p><a href="http://www.google.com/doodles/2000-summer-olympic-games-in-sydney-basketball">http://www.google.com/doodles/2000-summer-olympic-games-in-sydney-basketball</a></p></td>
 </tr>
@@ -415,7 +415,7 @@
 </tr>
 <tr class="even">
 <td><p>2月19日</p></td>
-<td><p>2002年冬季奥林匹克运动会系列：<a href="https://zh.wikipedia.org/wiki/2002年冬季奥林匹克运动会跳台滑雪比赛" title="wikilink">跳台滑雪</a></p></td>
+<td><p>2002年冬季奥林匹克运动会系列：<a href="../Page/2002年冬季奥林匹克运动会跳台滑雪比赛.md" title="wikilink">跳台滑雪</a></p></td>
 <td><p>全球</p></td>
 <td><p><a href="http://www.google.com/doodles/winter-olympics-2002-ski-jumping">http://www.google.com/doodles/winter-olympics-2002-ski-jumping</a></p></td>
 </tr>
@@ -427,7 +427,7 @@
 </tr>
 <tr class="even">
 <td><p>2月21日</p></td>
-<td><p>2002年冬季奥林匹克运动会系列：<a href="https://zh.wikipedia.org/wiki/2002年冬季奥林匹克运动会速度滑冰比赛" title="wikilink">速度滑冰</a></p></td>
+<td><p>2002年冬季奥林匹克运动会系列：<a href="../Page/2002年冬季奥林匹克运动会速度滑冰比赛.md" title="wikilink">速度滑冰</a></p></td>
 <td><p>全球</p></td>
 <td><p><a href="http://www.google.com/doodles/winter-olympics-2002-speed-sakting">http://www.google.com/doodles/winter-olympics-2002-speed-sakting</a></p></td>
 </tr>
