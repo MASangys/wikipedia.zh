@@ -580,7 +580,7 @@
 <td style="text-align: center;"><p>原作：《梨泰院CLASS》</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2020年–<br />
+<td style="text-align: center;"><p>2020年3月–<br />
 2020年</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/夫妻的世界" title="wikilink">夫妻的世界</a><br />
 </p></td>
@@ -588,6 +588,17 @@
 <td style="text-align: center;"><p><a href="../Page/金喜愛.md" title="wikilink">金喜愛</a>、<a href="../Page/朴海俊.md" title="wikilink">朴海俊</a>、<a href="../Page/韓素希.md" title="wikilink">韓素希</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/毛完日.md" title="wikilink">毛完日</a></p></td>
 <td style="text-align: center;"><p>朱賢</p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2020年5月–<br />
+2020年</p></td>
+<td style="text-align: center;"><p><a href="../Page/優雅的朋友們.md" title="wikilink">優雅的朋友們</a><br />
+</p></td>
+<td style="text-align: center;"><p>16</p></td>
+<td style="text-align: center;"><p><a href="../Page/劉俊相.md" title="wikilink">劉俊相</a>、<a href="../Page/宋玧妸.md" title="wikilink">宋玧妸</a>、<a href="../Page/裴秀彬.md" title="wikilink">裴秀彬</a>、<a href="../Page/韓多感.md" title="wikilink">韓多感</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/宋賢旭.md" title="wikilink">宋賢旭</a></p></td>
+<td style="text-align: center;"><p>朴孝妍</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

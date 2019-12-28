@@ -56,7 +56,7 @@ iBeacon传输的最大射程将取决于位置、现场布置、环境障碍物�
   - [iBeacon: What is it and why should I care?](http://www.independent.co.uk/life-style/gadgets-and-tech/news/ibeacon-what-is-it-and-why-should-i-care-9311014.html)
   - [How Apple's iBeacon is turning location sensing inside out](https://web.archive.org/web/20140430092725/http://www.networkworld.com/news/2014/021014-apple-ibeacon-278571.html)
   - [Mobile Commerce: iBeacon vs. NFC](http://www.getelastic.com/mobile-commerce-ibeacon-vs-nfc-infographics/)
-  - [iOS 8 updates iBeacon functionality: iBeacon & iOS 8](http://www.footmarks.com/beacons-ios8/)
+  - [iOS 8 updates iBeacon functionality: iBeacon & iOS 8](https://web.archive.org/web/20141110000155/http://www.footmarks.com/beacons-ios8/)
 
 ## 參考資料
 

@@ -157,7 +157,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴榮鄰" title="wikilink">朴泰仁</a></p></td>
+<td><p><a href="../Page/朴榮鄰.md" title="wikilink">朴泰仁</a></p></td>
 <td><p>徐惠理<br />
 <small>（第3-12集）</small></p></td>
 <td><p><strong>泰民製藥開發部本部長。</strong><br />

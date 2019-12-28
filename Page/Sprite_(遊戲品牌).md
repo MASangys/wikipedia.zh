@@ -10,22 +10,24 @@
 
 2019年3月25日，**sprite/fairys公式的Twitter账户**宣布结束活动并解散**sprite**。
 
+2019年11月27日晚上，**sprite**在官網宣布重新復活，並將以sprite的原成員為核心重組成新的工作室「S-WORKS」。\[7\]
+
 ## 作品
 
 ### sprite
 
-  - 2010年10月29日，PC遊戲《[戀愛與選舉與巧克力](../Page/戀愛與選舉與巧克力.md "wikilink")》\[7\]
-  - 2014年11月28日，PC遊戲《[蒼之彼方的四重奏](../Page/蒼之彼方的四重奏.md "wikilink")》\[8\]
-  - 2017年6月30日，PC遊戲《[蒼之彼方的四重奏EXTRA1](https://zh.wikipedia.org/wiki/蒼之彼方的四重奏EXTRA1 "wikilink")》\[9\]
+  - 2010年10月29日，PC遊戲《[戀愛與選舉與巧克力](../Page/戀愛與選舉與巧克力.md "wikilink")》\[8\]
+  - 2014年11月28日，PC遊戲《[蒼之彼方的四重奏](../Page/蒼之彼方的四重奏.md "wikilink")》\[9\]
+  - 2017年6月30日，PC遊戲《[蒼之彼方的四重奏EXTRA1](https://zh.wikipedia.org/wiki/蒼之彼方的四重奏EXTRA1 "wikilink")》\[10\]
 
 ### fairys
 
-  - 2012年12月14日，PC遊戲《[現在就想告訴哥哥，我是妹妹！](../Page/現在就想告訴哥哥，我是妹妹！.md "wikilink")》\[10\]
+  - 2012年12月14日，PC遊戲《[現在就想告訴哥哥，我是妹妹！](../Page/現在就想告訴哥哥，我是妹妹！.md "wikilink")》\[11\]
 
 ### sprite/fairys
 
-  - 2012年7月5日播映，電視動畫《[戀愛與選舉與巧克力](../Page/戀愛與選舉與巧克力.md "wikilink")》\[11\]
-  - 2012年9月27日，PSP遊戲《[戀愛與選舉與巧克力](../Page/戀愛與選舉與巧克力.md "wikilink")PORTABLE》\[12\]
+  - 2012年7月5日播映，電視動畫《[戀愛與選舉與巧克力](../Page/戀愛與選舉與巧克力.md "wikilink")》\[12\]
+  - 2012年9月27日，PSP遊戲《[戀愛與選舉與巧克力](../Page/戀愛與選舉與巧克力.md "wikilink")PORTABLE》\[13\]
 
 ## 主要人物
 
@@ -35,13 +37,13 @@
 
   - ,公關。
 
-  - [春夏冬ゆう](https://zh.wikipedia.org/wiki/春夏冬ゆう "wikilink")，原畫家。於2013年3月31日在其個人[Twitter](../Page/Twitter.md "wikilink")上發布離開sprite/fairys的消息，隨後離開。\[13\]
+  - [春夏冬ゆう](https://zh.wikipedia.org/wiki/春夏冬ゆう "wikilink")，原畫家。於2013年3月31日在其個人[Twitter](../Page/Twitter.md "wikilink")上發布離開sprite/fairys的消息，隨後離開。\[14\]
 
 ## 網路電台
 
 ###
 
-  - 2013年3月8日至2014年12月26日由[緒方惠美](../Page/緒方惠美.md "wikilink")主持，在隔週的星期五所播出的廣播節目。\[14\]
+  - 2013年3月8日至2014年12月26日由[緒方惠美](../Page/緒方惠美.md "wikilink")主持，在隔週的星期五所播出的廣播節目。\[15\]
 
 ## 注釋
 
@@ -66,9 +68,10 @@
 6.
 7.
 8.
-9.  ＜公式＞蒼の彼方のフォーリズム EXTRA1 <https://aokana.net/extra1/>
-10.
+9.
+10. ＜公式＞蒼の彼方のフォーリズム EXTRA1 <https://aokana.net/extra1/>
 11.
 12.
 13.
 14.
+15.

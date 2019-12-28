@@ -143,7 +143,7 @@ HUSH在2017年12月23日在五月天[人生無限公司巡迴演唱會](../Page/
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p><strong>3rd</strong></p></td>
-<td style="text-align: left;"><p>《<a href="https://zh.wikipedia.org/wiki/查無此人_(專輯)" title="wikilink">查無此人 音樂概念專輯</a>》</p>
+<td style="text-align: left;"><p>《<a href="../Page/查無此人_(專輯).md" title="wikilink">查無此人 音樂概念專輯</a>》</p>
 <ul>
 <li>發行日：2019年5月14日</li>
 <li>唱片公司：<a href="../Page/相信音樂.md" title="wikilink">相信音樂</a></li>

@@ -58,7 +58,7 @@
 17.
 18. [Uwants：\[原創\] \<涯上的programmer\>](http://www.uwants.com/viewthread.php?tid=7583653)
 19.
-20. [高登討論區：\[歌詞\]\[成龍再crossover波兒\] 劣作](http://archive.hkgolden.com/view.aspx?message=1673289)
+20. [ 高登討論區：\[歌詞\]\[成龍再crossover波兒\] 劣作](http://archive.hkgolden.com/view.aspx?message=1673289)
 21.
 22.
 23.

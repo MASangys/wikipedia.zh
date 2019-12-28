@@ -59,7 +59,7 @@ MAMAMOO於2014年1月以與知名饒舌歌手合作之作品《不要幸福》�
 
 ### 2019年：日本第二張單曲《Wind Flower》、華莎個人單曲《TWIT》、迷你九輯《White Wind》、「4season F/W」演唱會、日本第一張正規專輯《4colors》、主演綜藝[Queendom](../Page/Queendom_\(韓國綜藝\).md "wikilink")、輝人solo二輯《soar》、華莎合作單曲《In The Fall》、正規二輯《reality in Black》
 
-2月6日，MAMAMOO發行第二張日文單曲《Wind Flower》。\[43\]2月7日，RBW官方公開華莎首張個人數位單曲《TWIT》的首波預告影片，且同時宣佈將於2月13日發行。\[44\]2月28日，官方宣布MAMAMOO於3月14日白色情人節當天，發表迷你九輯《[White Wind](../Page/White_Wind.md "wikilink")》，將以輝人的代表色的「白色」作為專輯主要風格，為「四人四色」企劃的最後一張專輯，主打歌為《gogobebe》。\[45\]3月29日，《gogobebe》在告示牌的「世界數位歌曲暢銷榜」（World Digital Song Sales Chart）拿下第二名，超越了自身於2016年發行的《You’re the best》第三名成績，在該榜拿下自身最高紀錄。\[46\]4月19－21日，MAMAMOO在首爾[獎忠體育館舉辦為期](https://zh.wikipedia.org/wiki/獎忠體育館 "wikilink")3天的「2019 MAMAMOO CONCERT 4season F/W」演唱會，為四季的企劃畫下完美的句點。\[47\]6月15、16日，MAMAMOO在[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[新莊體育館](../Page/新莊體育館.md "wikilink")舉辦為期兩天的「2019 MAMAMOO CONCERT 4season F/W IN TAIWAN」演唱會，台灣也成為MAMAMOO此次亞洲巡演的海外首站。\[48\]6月22、23日，MAMAMOO在[建國大學](../Page/建國大學.md "wikilink")入口站的樂天電影院 8 館舉行出道五週年紀念放映會《SIX NINETEEN》。\[49\]6月24日，迷你六輯《Yellow Flower》中主打歌《Starry Night》在MAMAMOO官方頻道與[1theK頻道點閱率合計破億](../Page/Kakao_M.md "wikilink")，成為MAMAMOO首支破億MV。7月13日，MAMAMOO於[高麗大學](../Page/高麗大學.md "wikilink")化汀體育館舉辦粉絲見面會「MOOMOO傳：狀元爭奪記」（）。\[50\]\[51\]7月24日，MAMAMOO發行代言特別單曲《[Gleam](../Page/Gleam_\(MAMAMOO單曲\).md "wikilink")》（）並公開MV\[52\]，迅速登上包括Mnet、Bugs、Naver音樂流行榜的冠軍位置，並在其他韓國網上音樂流行榜的上位圈。\[53\]7月27、28日，MAMAMOO於[大邱](../Page/大邱廣域市.md "wikilink")舉辦「2019 MAMAMOO CONCERT 4season F/W IN DAEGU」安可演唱會。\[54\]8月7日，MAMAMOO於日本發行第一張正規專輯《4colors》。8月11日、13日，分別於日本東京、大阪舉行「MAMAMOO 2nd CONCERT TOUR in JAPAN ：4season Final」。9月4日，輝人發行第二張迷你專輯《soar》，主打歌《Good Bye》登上各大音源榜一位，獲得亮眼的成績。9月28日，MAMAMOO在香港[亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink")Arena舉辦「2019 MAMAMOO 4season F/W CONCERT IN HONG KONG」演唱會。\[55\] 10月11日，華莎與先前曾以「주지마(別給我)」合作過的製作人Woogie再次合作，發行音源《가을속에서(在秋天裡)》。\[56\]10月31日，於韓國[Mnet](../Page/Mnet.md "wikilink")的綜藝節目《Queendom》最終競賽奪冠。\[57\]11月1日，官方於社交媒體發布MAMAMOO將於11月14日當天，以正規二輯《[reality in Black](https://zh.wikipedia.org/wiki/Reality_in_Black_\(MAMAMOO專輯\) "wikilink")》回歸的預告。11月14日公開主打歌《HIP》MV\[58\]，並於Bugs、Naver Music、Soribada獲得音源榜冠軍。\[59\]11月27日憑藉主打歌《HIP》MAMAMOO首次登上了美國Billboard全球數位單曲銷售榜第1位。\[60\]
+2月6日，MAMAMOO發行第二張日文單曲《Wind Flower》。\[43\]2月7日，RBW官方公開華莎首張個人數位單曲《TWIT》的首波預告影片，且同時宣佈將於2月13日發行。\[44\]2月28日，官方宣布MAMAMOO於3月14日白色情人節當天，發表迷你九輯《[White Wind](../Page/White_Wind.md "wikilink")》，將以輝人的代表色的「白色」作為專輯主要風格，為「四人四色」企劃的最後一張專輯，主打歌為《gogobebe》。\[45\]3月29日，《gogobebe》在告示牌的「世界數位歌曲暢銷榜」（World Digital Song Sales Chart）拿下第二名，超越了自身於2016年發行的《You’re the best》第三名成績，在該榜拿下自身最高紀錄。\[46\]4月19－21日，MAMAMOO在首爾[獎忠體育館舉辦為期](https://zh.wikipedia.org/wiki/獎忠體育館 "wikilink")3天的「2019 MAMAMOO CONCERT 4season F/W」演唱會，為四季的企劃畫下完美的句點。\[47\]6月15、16日，MAMAMOO在[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[新莊體育館](../Page/新莊體育館.md "wikilink")舉辦為期兩天的「2019 MAMAMOO CONCERT 4season F/W IN TAIWAN」演唱會，台灣也成為MAMAMOO此次亞洲巡演的海外首站。\[48\]6月22、23日，MAMAMOO在[建國大學](../Page/建國大學.md "wikilink")入口站的樂天電影院 8 館舉行出道五週年紀念放映會《SIX NINETEEN》。\[49\]6月24日，迷你六輯《Yellow Flower》中主打歌《Starry Night》在MAMAMOO官方頻道與[1theK頻道點閱率合計破億](../Page/Kakao_M.md "wikilink")，成為MAMAMOO首支破億MV。7月13日，MAMAMOO於[高麗大學](../Page/高麗大學.md "wikilink")化汀體育館舉辦粉絲見面會「MOOMOO傳：狀元爭奪記」（）。\[50\]\[51\]7月24日，MAMAMOO發行代言特別單曲《[Gleam](../Page/Gleam_\(MAMAMOO單曲\).md "wikilink")》（）並公開MV\[52\]，迅速登上包括Mnet、Bugs、Naver音樂流行榜的冠軍位置，並在其他韓國網上音樂流行榜的上位圈。\[53\]7月27、28日，MAMAMOO於[大邱](../Page/大邱廣域市.md "wikilink")舉辦「2019 MAMAMOO CONCERT 4season F/W IN DAEGU」安可演唱會。\[54\]8月7日，MAMAMOO於日本發行第一張正規專輯《4colors》。8月11日、13日，分別於日本東京、大阪舉行「MAMAMOO 2nd CONCERT TOUR in JAPAN ：4season Final」。9月4日，輝人發行第二張迷你專輯《soar》，主打歌《Good Bye》登上各大音源榜一位，獲得亮眼的成績。9月28日，MAMAMOO在香港[亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink")Arena舉辦「2019 MAMAMOO 4season F/W CONCERT IN HONG KONG」演唱會。\[55\] 10月11日，華莎與先前曾以「주지마(別給我)」合作過的製作人Woogie再次合作，發行音源《가을속에서(在秋天裡)》。\[56\]10月31日，於韓國[Mnet](../Page/Mnet.md "wikilink")的綜藝節目《Queendom》最終競賽奪冠。\[57\]11月1日，官方於社交媒體發布MAMAMOO將於11月14日當天，以正規二輯《[reality in Black](../Page/Reality_in_Black_\(MAMAMOO專輯\).md "wikilink")》回歸的預告。11月14日公開主打歌《HIP》MV\[58\]，並於Bugs、Naver Music、Soribada獲得音源榜冠軍。\[59\]11月27日憑藉主打歌《HIP》MAMAMOO首次登上了美國Billboard全球數位單曲銷售榜第1位。\[60\]
 
 ## 重大事件
 
@@ -68,6 +68,8 @@ MAMAMOO於2014年1月以與知名饒舌歌手合作之作品《不要幸福》�
 2016年8月23日MAMAMOO官方粉絲團正式突破77,777人，正式成為韓國女團官咖排名第三的團體。MAMAMOO為了慶祝會員數突破77,777人，驚喜地公開了[玟星在演唱會MOOSICAL中的solo表演](https://zh.wikipedia.org/wiki/文星伊 "wikilink")《不要忘記 Don't Forget》。\[61\]
 
 2017年4月21日MAMAMOO官方粉絲團正式突破100,000人。
+
+2019年12月15日MAMAMOO官方粉絲團正式突破150,000人。
 
 ### 車禍
 
@@ -96,6 +98,10 @@ MAMAMOO於2014年1月以與知名饒舌歌手合作之作品《不要幸福》�
 ### 參加綜藝節目《Queendom》奪冠
 
 2019年8月29日 － 10月31日參加由韓國[Mnet](../Page/Mnet.md "wikilink")電視台推出的綜藝節目《[Queendom](../Page/Queendom_\(韓國綜藝\).md "wikilink")》，並於10月31日最終舞台拿下冠軍。\[73\]\[74\]
+
+### 專輯銷售紀錄
+
+2019年11月14日，正規二輯《[reality in BLACK](https://zh.wikipedia.org/wiki/reality_in_BLACK "wikilink")》在韓國本土的首日實體銷量突破5萬張，刷新自身的首日銷量紀錄。 同月底，該專輯的實體銷量累積突破10萬\[75\]，成為其首張銷量破10萬的實體專輯。
 
 ## 音樂作品
 
@@ -321,7 +327,7 @@ MAMAMOO於2014年1月以與知名饒舌歌手合作之作品《不要幸福》�
 <td><p><a href="../Page/White_Wind.md" title="wikilink">White Wind</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Reality_in_Black_(MAMAMOO專輯)" title="wikilink">reality in Black</a></p></td>
+<td><p><a href="../Page/Reality_in_Black_(MAMAMOO專輯).md" title="wikilink">reality in Black</a></p></td>
 </tr>
 <tr class="odd">
 <td><ul>
@@ -352,7 +358,7 @@ MAMAMOO於2014年1月以與知名饒舌歌手合作之作品《不要幸福》�
 <td><p>11</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>一位總數：38</strong><br />
+<td><p><strong>一位總數：39</strong><br />
 <strong>五台冠軍歌曲總數：3</strong><br />
 <strong>六台冠軍歌曲總數：1</strong></p></td>
 </tr>
@@ -480,3 +486,4 @@ MAMAMOO於2014年1月以與知名饒舌歌手合作之作品《不要幸福》�
 72. [【MBC演藝大賞2018】MAMAMOO輝人負傷上陣　金所炫車太鉉得優秀獎](https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/276753/mbc%E6%BC%94%E8%97%9D%E5%A4%A7%E8%B3%9E2018-mamamoo%E8%BC%9D%E4%BA%BA%E8%B2%A0%E5%82%B7%E4%B8%8A%E9%99%A3-%E9%87%91%E6%89%80%E7%82%AB%E8%BB%8A%E5%A4%AA%E9%89%89%E5%BE%97%E5%84%AA%E7%A7%80%E7%8D%8E)
 73. [《Queendom》奪冠 MAMAMOO：和MOOMOO們一起實現「努力的獎」](https://www.kkbox.com/tw/tc/column/showbiz-0-8512-1.html)
 74. [《Queendom》宣布冠軍！MAMAMOO 4人台上哭翻：謝謝粉絲](https://star.ettoday.net/news/1569817)
+75.

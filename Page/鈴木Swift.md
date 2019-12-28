@@ -140,7 +140,7 @@ Image:Suzuki SWIFT Sport (CBA-ZC33S-VBRM-J) front.jpg Image:Suzuki SWIFT Sport (
 
 ## 參考資料
 
-  - [iscar汽車網：Suzuki Swift GLX試駕，全方位剖析優劣](http://iscar.tw/index.php/home/348-suzuki_swift_glx)
+  - [iscar汽車網：Suzuki Swift GLX試駕，全方位剖析優劣](https://web.archive.org/web/20150402161111/http://iscar.tw/index.php/home/348-suzuki_swift_glx)
 
 ## 外部連結
 

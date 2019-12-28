@@ -11,7 +11,7 @@
   -
   - [Steam Universe](http://steamcommunity.com/groups/steamuniverse/)
 
-[Category:未來產品](https://zh.wikipedia.org/wiki/Category:未來產品 "wikilink") [Category:威爾烏](https://zh.wikipedia.org/wiki/Category:威爾烏 "wikilink") [Category:Steam](https://zh.wikipedia.org/wiki/Category:Steam "wikilink") [Category:第八世代遊戲機](https://zh.wikipedia.org/wiki/Category:第八世代遊戲機 "wikilink") [Category:2015年面世的產品](https://zh.wikipedia.org/wiki/Category:2015年面世的產品 "wikilink")
+[Category:威爾烏](https://zh.wikipedia.org/wiki/Category:威爾烏 "wikilink") [Category:Steam](https://zh.wikipedia.org/wiki/Category:Steam "wikilink") [Category:第八世代遊戲機](https://zh.wikipedia.org/wiki/Category:第八世代遊戲機 "wikilink") [Category:2015年面世的產品](https://zh.wikipedia.org/wiki/Category:2015年面世的產品 "wikilink")
 
 1.  <http://store.steampowered.com/steamos/oem>
 2.  <http://media.steampowered.com/store/steammachines/SteamMachinesBroc_WEB.PDF>

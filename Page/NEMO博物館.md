@@ -8,7 +8,7 @@
 
 ## 外部連結
 
-  - [Science Center Nemo](http://www.e-nemo.nl/), official website
+  - [Science Center Nemo](https://web.archive.org/web/20131106025227/http://www.e-nemo.nl/), official website
 
 [Category:阿姆斯特丹博物館](https://zh.wikipedia.org/wiki/Category:阿姆斯特丹博物館 "wikilink") [Category:1923年建立的博物馆](https://zh.wikipedia.org/wiki/Category:1923年建立的博物馆 "wikilink")
 

@@ -14,6 +14,6 @@
 
 [分类:新加坡电视台](https://zh.wikipedia.org/wiki/分类:新加坡电视台 "wikilink")
 
-  - [新加坡电视台民视八点档列表](https://screenshot.net/zh/v71rnc0) <https://www.docdroid.net/aZhwQpM/draft.pdf>
+  - [新加坡电视台民视八点档列表](https://screenshot.net/zh/v71rnc0) <https://www.docdroid.net/ZZA3GqI/draft.pdf>
 
 [Category:新加坡電視播放頻道](https://zh.wikipedia.org/wiki/Category:新加坡電視播放頻道 "wikilink") [Category:1992年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1992年成立的电视台或电视频道 "wikilink")

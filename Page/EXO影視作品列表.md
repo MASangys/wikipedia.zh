@@ -65,9 +65,9 @@
 | 《[阿爾罕布拉宮的回憶](../Page/阿爾罕布拉宮的回憶_\(電視劇\).md "wikilink")》\[31\]                                                | Chanyeol                                                            | 鄭世周                                                       | 配角                                        |           |               |        |
 | 2019                                                                                                        | Olive                                                               | 《[恩珠的房間](../Page/恩珠的房間.md "wikilink")》                    | D.O.                                      |           | 客串            | 第11集   |
 | 愛奇藝、騰訊視頻                                                                                                    | 《[黄金瞳](../Page/黄金瞳.md "wikilink")》                                  | Lay                                                       | 莊睿                                        | 主角        |               |        |
+| 湖南衛視                                                                                                        | 《[大明風華](../Page/大明風華.md "wikilink")》                                | 朱祁鎮                                                       | 配角                                        |           |               |        |
 | 待播中                                                                                                         | [NAVER TV Cast](../Page/NAVER.md "wikilink")                        | 《HOW ARE U BREAD》\[32\]                                   | Suho                                      | 韓道宇       | 主角            | 網絡劇    |
 | 待播中                                                                                                         | 檸萌影業、樂漾影視                                                           | 《親愛的阿基米德》\[33\]                                           | Sehun                                     | 言溯        |               |        |
-| 待播中                                                                                                         |                                                                     | 《[大明風華](../Page/大明風華.md "wikilink")》                      | Lay                                       | 朱祁鎮       |               |        |
 
 ## 動畫電影配音
 
@@ -106,7 +106,7 @@
 | 12月27日－2019年1月5日 | V LIVE                                                           | 給你看EXO - EXO娛樂館                                                                    | 全部成員（Lay缺席）            | 5                             |       |
 | 2019             | 1月21日－3月29日                                                      | oksusu、TrueID                                                                      | EXO的爬着梯子世界旅行-高雄&墾丁篇    | 50                            |       |
 | 3月25日－5月3日       | Naver TV、V LIVE                                                  | Heart 4 U (Xiumin篇)\[42\]                                                          | 18                     |                               |       |
-| 10月28日－          | Heart 4 U (Chen篇)                                                |                                                                                    |                        |                               |       |
+| 10月28日－11月29日    | Heart 4 U (Chen篇)                                                | 33                                                                                 |                        |                               |       |
 | 11月28日－          | 抖音                                                               | 歸零 REKNOW\[43\]                                                                    | Lay                    |                               |       |
 
 ## 節目固定出演
@@ -944,9 +944,12 @@
 <td><p>10月10日</p></td>
 </tr>
 <tr class="odd">
-<td><p>12月4日</p></td>
+<td><p>12月3日</p></td>
 </tr>
 <tr class="even">
+<td><p>12月4日</p></td>
+</tr>
+<tr class="odd">
 <td><p>12月7日</p></td>
 </tr>
 </tbody>
@@ -1675,6 +1678,12 @@ Chen、Kai</p></td>
 <td><p>崔華靜的Power Time</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>12月4日</p></td>
+<td><p>MBC FM4U</p></td>
+<td><p>金申英正午的希望曲</p></td>
+<td><p>Suho、Baekhyun、Chen、Chanyeol、Kai、Sehun</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -2089,7 +2098,7 @@ Chen、Kai</p></td>
 | 2017年12月15日－2018年3月1日 | The Last Kiss       | Suho             | Rudolf       |
 | 2018年7月18日 - 11月1日    | 笑面人                 | Gwynplaine（格溫普蘭） |              |
 | 2019年10月22日 - 12月1日   | 歸來：那日的約定            | Xiumin           |              |
-| 2020年1月9日 -           | 笑面人                 | Suho             | Gwynplaine   |
+| 2020年1月9日 - 2月5日      | 笑面人                 | Suho             | Gwynplaine   |
 
 ## 雜誌畫報
 

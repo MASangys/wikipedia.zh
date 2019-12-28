@@ -27,4 +27,4 @@
   - [3](https://web.archive.org/web/20141109190722/http://www.nanyang.com/node/583981?tid=688)
   - [4](https://web.archive.org/web/20141109182248/http://property.sinchew.com.my/node/2402?tid=4)
 
-[Category:馬來西亞旅遊](https://zh.wikipedia.org/wiki/Category:馬來西亞旅遊 "wikilink") [Category:吉隆坡購物中心](https://zh.wikipedia.org/wiki/Category:吉隆坡購物中心 "wikilink") [Category:吉隆坡城中城](https://zh.wikipedia.org/wiki/Category:吉隆坡城中城 "wikilink") [Category:星光大道吉隆坡城中城商圈](https://zh.wikipedia.org/wiki/Category:星光大道吉隆坡城中城商圈 "wikilink")
+[Category:吉隆坡商場](https://zh.wikipedia.org/wiki/Category:吉隆坡商場 "wikilink") [Category:吉隆坡城中城](https://zh.wikipedia.org/wiki/Category:吉隆坡城中城 "wikilink") [Category:星光大道吉隆坡城中城商圈](https://zh.wikipedia.org/wiki/Category:星光大道吉隆坡城中城商圈 "wikilink")

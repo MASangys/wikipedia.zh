@@ -115,13 +115,14 @@
 | 2018年10月2日           | [Luda](../Page/Luda.md "wikilink")                                                                                                                                        |                                                                                                                            |                                      |
 | 2018年10月30日          | 亨源                                                                                                                                                                        |                                                                                                                            |                                      |
 | 2018年11月13日          | [金相均](../Page/金相均.md "wikilink")                                                                                                                                          |                                                                                                                            |                                      |
-| 2018年11月20日、27日      | [普閔](https://zh.wikipedia.org/wiki/崔普閔 "wikilink")                                                                                                                        |                                                                                                                            |                                      |
+| 2018年11月20日、27日      | [普閔](../Page/崔普閔.md "wikilink")                                                                                                                                           |                                                                                                                            |                                      |
 | 2018年12月4日           | [道英](../Page/道英.md "wikilink")、[在玹](../Page/在玹.md "wikilink")                                                                                                             |                                                                                                                            |                                      |
 | 2019年8月20日           | [崔秉燦](../Page/崔秉燦.md "wikilink")                                                                                                                                          |                                                                                                                            |                                      |
 | 2019年8月27日           | [賢在](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink")、[張大賢](../Page/張大賢.md "wikilink")                                                                                  |                                                                                                                            |                                      |
 | 2019年9月3日            | [辰樂](https://zh.wikipedia.org/wiki/辰樂 "wikilink")、[產賀](https://zh.wikipedia.org/wiki/產賀 "wikilink")、[宋有彬](https://zh.wikipedia.org/wiki/宋有彬 "wikilink")                   |                                                                                                                            |                                      |
 | 2019年9月10日           | 宇碩                                                                                                                                                                        |                                                                                                                            |                                      |
 | 2019年10月15日          | [鄭世雲](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")                                                                                                                       |                                                                                                                            |                                      |
+| 2019年12月3日           | [多榮](https://zh.wikipedia.org/wiki/多榮 "wikilink")、[TAG](../Page/孫永宅.md "wikilink")、[裴珍映](../Page/裴珍映.md "wikilink")                                                       |                                                                                                                            |                                      |
 
 ## 評定基準
 
@@ -890,6 +891,18 @@
   - 11.12 - [VICTON](../Page/VICTON.md "wikilink")<sup>1st</sup> - nostalgic night<sup>1st</sup> \[8,160分\]
   - 11.19 - 停播
   - 11.26 - [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")<sup>4th</sup> - As You Wish<sup>1st</sup> \[7,370分\]
+
+<!-- end list -->
+
+  - 十二月
+
+<!-- end list -->
+
+  - 12.03 - [姜丹尼爾](../Page/姜丹尼爾.md "wikilink")<sup>1st</sup> - TOUCHIN\`<sup>1st</sup> \[6,195分\]
+  - 12.10 - 停播
+  - 12.17 - 停播
+  - 12.24 - 停播
+  - 12.31 - 停播
 
 ## 藝人成就
 

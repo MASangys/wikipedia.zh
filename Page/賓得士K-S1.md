@@ -8,7 +8,7 @@
 
 ## 外部連結
 
-  - [PENTAX K-S1](http://www.us.ricoh-imaging.com/dslr/K-S1_Black)
+  - [PENTAX K-S1](https://web.archive.org/web/20141221163528/http://www.us.ricoh-imaging.com/dslr/K-S1_Black)
   - [Pentax K-S1 Review -- First Impressions](http://www.imaging-resource.com/PRODS/pentax-k-s1/pentax-k-s1A.HTM)
   - [Ricoh unveils Pentax K-S1 at dpreview](http://www.dpreview.com/articles/8543010162/ricoh-unveils-pentax-k-s1)
 

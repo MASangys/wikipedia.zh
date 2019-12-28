@@ -2,13 +2,13 @@
 
 ******（[拉丁語片語](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")，意思為「勿忘你終有一死」\[2\]）是[中世紀](https://zh.wikipedia.org/wiki/中世紀 "wikilink")[西方基督教對必死性之反思的理論及實踐](https://zh.wikipedia.org/wiki/西方基督教 "wikilink")，尤其是作為一種思索塵世之虛幻和一切物質與和世俗工作之短暫的方式。它經常和（）及类似文學相提並論。「Memento mori」成為了[禁慾主義](../Page/禁慾主義.md "wikilink")的一條重要戒律，藉此培養超脫和其他美德、將精力轉移到靈魂不死與死後的世界，來完善人格。\[3\]
 
-在藝術中，「memento mori」是提醒人固有一死的藝術性和象徵性的話語。\[4\]在歐洲[基督教](../Page/基督教.md "wikilink")語境中，「其表達……隨着基督教的增長而發展，它強調了[天國](../Page/天國.md "wikilink")、[地獄](../Page/地獄_\(基督教\).md "wikilink")，以及死後的靈魂救贖。 」\[5\]
+在藝術中，「memento mori」是提醒人固有一死的藝術性和象徵性的話語。\[4\]在歐洲[基督教](../Page/基督教.md "wikilink")語境中，「『Memento mori』這一表述隨着基督教的壯大而發展，它強調了[天國](../Page/天國.md "wikilink")、[地獄](../Page/地獄_\(基督教\).md "wikilink")，以及死後的靈魂救贖。 」\[5\]
 
 ## 發音及翻譯
 
 「*Memento mori*」在英语中的发音是 / 。
 
-在拉丁语中，「*Memento*」是「*meminī*」的将来命令式的主动语态的第二人称单数形式，意思是“记住”，通常带有警告的语气“记住！”。「*Mori*」是「*morior*」的现在[不定式的主动语态](https://zh.wikipedia.org/wiki/不定式 "wikilink")，意思是“死去”。\[6\]
+在拉丁语中，「*Memento*」是「*meminī*」的将来祈使式的主动语态的第二人称单数形式，意思是“记住”，通常带有警告的语气“记住！”。「*Mori*」是异态动词「*morior*」的现在[不定式的主动语态](https://zh.wikipedia.org/wiki/不定式 "wikilink")，意思是“死去”。\[6\]
 
 換言之，其意思為「記住死亡」（remember death）或「記住你會死亡」（remember that you will die）。\[7\]
 

@@ -68,55 +68,76 @@ S7结束后，队中上单Mouse离队，EDG召回曾担任队中替补上单的�
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>Aodi</p></td>
+<td><p>赵奥迪</p></td>
+<td><p>TOP</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>Jinoo</p></td>
 <td></td>
 <td><p>TOP</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Jiejie</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/赵礼杰" title="wikilink">赵礼杰</a></p></td>
 <td><p>Jungle</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>Clearlove</p></td>
-<td><p><a href="../Page/明凯.md" title="wikilink">明凯</a></p></td>
+<tr class="even">
+<td><p>Xinyi</p></td>
+<td><p>常平</p></td>
 <td><p>Jungle</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Scout</p></td>
 <td></td>
 <td><p>Mid</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>iBoy[1]</p></td>
-<td><p>胡显昭</p></td>
+<tr class="even">
+<td><p>Hope</p></td>
+<td><p>王杰</p></td>
 <td><p>ADC</p></td>
-<td><p>2000年7月12日</p></td>
+<td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Meiko</p></td>
 <td><p>田野</p></td>
 <td><p>Sup</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>Ray</p></td>
+<tr class="even">
+<td><p>Sleepy</p></td>
+<td><p>王赫永</p></td>
+<td><p>替补TOP</p></td>
 <td></td>
-<td><p>TOP</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>JunJia</p></td>
+<td><p>余峻嘉</p></td>
+<td><p>替补JUG</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>BBD</p></td>
+<td><p>吴凌风</p></td>
+<td><p>替补AD</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -140,97 +161,104 @@ S7结束后，队中上单Mouse离队，EDG召回曾担任队中替补上单的�
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>iBoy</p></td>
+<td><p>胡显昭</p></td>
+<td><p>ADC</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>Pawn</p></td>
 <td></td>
 <td><p>Mid</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Deft</p></td>
 <td></td>
 <td><p>ADC</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Koro1</p></td>
 <td><p>童揚</p></td>
 <td><p>Top</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Minn</p></td>
 <td><p>黄敏敏</p></td>
 <td><p>Top</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>mitty</p></td>
 <td><p>赵志铭</p></td>
 <td><p>Jungle</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Athena</p></td>
 <td></td>
 <td><p>Mid</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Cloud</p></td>
 <td><p>胡振威</p></td>
 <td><p>Sup</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>U</p></td>
 <td><p>曾龙</p></td>
 <td><p>Mid</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/朱佳文.md" title="wikilink">NaMei</a></p></td>
 <td><p><a href="../Page/朱佳文.md" title="wikilink">朱佳文</a></p></td>
 <td><p>ADC</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Fzzf</p></td>
 <td><p>冯卓君</p></td>
 <td><p>Sup</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Mouse</p></td>
 <td><p>陈宇浩</p></td>
 <td><p>TOP</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>zet</p></td>
 <td></td>
 <td><p>ADC</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Audi</p></td>
 <td><p>赵奥迪</p></td>
 <td><p>TOP</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Iceloli</p></td>
 <td><p>赵志铭</p></td>
 <td><p>Jungle</p></td>
@@ -252,13 +280,18 @@ S7结束后，队中上单Mouse离队，EDG召回曾担任队中替补上单的�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>NoFe</p></td>
-<td></td>
+<td><p>Clearlove</p></td>
+<td><p><a href="../Page/明凯.md" title="wikilink">明凯</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Aaron、阿布</p></td>
-<td><p>姬星</p></td>
+<td><p>Heart</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>CorGi</p></td>
+<td><p>程品伦</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -453,5 +486,3 @@ S7结束后，队中上单Mouse离队，EDG召回曾担任队中替补上单的�
 ## 參考資料
 
 [Category:中国大陆电子竞技团队](https://zh.wikipedia.org/wiki/Category:中国大陆电子竞技团队 "wikilink") [Category:英雄聯盟競技團隊](https://zh.wikipedia.org/wiki/Category:英雄聯盟競技團隊 "wikilink")
-
-1.

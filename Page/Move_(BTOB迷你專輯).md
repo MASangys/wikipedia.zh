@@ -1,4 +1,4 @@
-《**Move**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第5張韓語迷你專輯，於2014年9月29日發行，主打歌曲為《你，真感動啊》（）\[1\]。
+《**Move**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第5張韓語迷你專輯，於2014年9月29日發行，主打歌曲為〈你，真感動啊〉（）\[1\]。
 
 ## 曲目
 

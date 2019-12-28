@@ -15,7 +15,7 @@
 ## 人员
 
   -
-    制片人：[蔡东青](https://zh.wikipedia.org/wiki/蔡东青 "wikilink")
+    制片人：[蔡东青](../Page/蔡东青.md "wikilink")
     监制：张雷
     编剧：[张雷](https://zh.wikipedia.org/wiki/张雷 "wikilink")、[黎姜麟](https://zh.wikipedia.org/wiki/黎姜麟 "wikilink")
     执行监制：[顾景瑞](https://zh.wikipedia.org/wiki/顾景瑞 "wikilink")

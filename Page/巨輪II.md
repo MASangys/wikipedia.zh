@@ -2158,7 +2158,7 @@ Noon之男友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李天縱" title="wikilink">李天縱</a></p></td>
+<td><p><a href="../Page/李天縱.md" title="wikilink">李天縱</a></p></td>
 <td><p>奶　茶</p></td>
 <td><p>模特<br />
 於第12集成為皇鷲集團之代言人</p></td>
@@ -2779,7 +2779,7 @@ Noon之表哥<br />
 
 ### 劇情
 
-本劇首播前三週，平均收視下跌至20.8點，更被狠批不如前一輯，劇情拖沓，節奏緩慢，更有不少觀眾及網民要求腰斬此劇\[7\]\[8\]。不過根據劇情預告，高天鷲（[吳岱融](../Page/吳岱融.md "wikilink")飾）對養女高伊娜（[陳凱琳飾](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")）疑似發展父女曖昧，甚至從第31集開始出現強暴戲等大尺度劇情，引發觀眾及網民直指「《巨輪II》變[亂倫](https://zh.wikipedia.org/wiki/亂倫 "wikilink")」\[9\]。
+本劇首播前三週，平均收視下跌至20.8點，更被狠批不如前一輯，劇情拖沓，節奏緩慢，更有不少觀眾及網民要求腰斬此劇\[7\]\[8\]。不過根據劇情預告，高天鷲（[吳岱融](../Page/吳岱融.md "wikilink")飾）對養女高伊娜（[陳凱琳飾](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")）疑似發展父女曖昧，甚至從第31集開始出現強暴戲等大尺度劇情，引發觀眾及網民直指「《巨輪II》變[亂倫](https://zh.wikipedia.org/wiki/亂倫 "wikilink")」\[9\]。本劇更是繼《[金枝慾孽貳](https://zh.wikipedia.org/wiki/金枝慾孽貳 "wikilink")》以來，再一次「收視低迷」的續集 (該劇收視率平均只有20點左右，最低更一度只有19點)。
 
 ### 5集大結局
 
@@ -2801,7 +2801,7 @@ Noon之表哥<br />
 
 ### 大結局
 
-  - 《巨輪II》最終於第39集結局中交待高天鷲（[吳岱融](../Page/吳岱融.md "wikilink")飾）最終落網入獄，但沒有明言高天鷲的最終下場；而高天鷲的養女Nana（[陳凱琳飾](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")）與Wing（[李佳芯飾](https://zh.wikipedia.org/wiki/李佳芯 "wikilink")）及母親沈美華（[梁琤](../Page/梁琤.md "wikilink")飾）亦去了日本沖繩散心，男主角羅威信（[蕭正楠](../Page/蕭正楠.md "wikilink")飾）的終生大事未有定論；而羅威信與姚文英（[田蕊妮](../Page/田蕊妮.md "wikilink")飾）在大結局中出現反面，文英更因為不認同羅威信報復高天鷲的手段而拆股，最終在龍飛（[阮兆祥](../Page/阮兆祥.md "wikilink")飾）說出文英的心聲，二人最後言和。有網媒、網民猜測[TVB也許會再添食](https://zh.wikipedia.org/wiki/TVB "wikilink")，拍攝續集《巨輪III》\[28\]。
+  - 《巨輪II》最終於第39集結局中交待高天鷲（[吳岱融](../Page/吳岱融.md "wikilink")飾）最終落網入獄，但沒有明言高天鷲的最終下場；而高天鷲的養女Nana（[陳凱琳飾](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")）與Wing（[李佳芯飾](https://zh.wikipedia.org/wiki/李佳芯 "wikilink")）及母親沈美華（[梁琤](../Page/梁琤.md "wikilink")飾）亦去了日本沖繩散心，男主角羅威信（[蕭正楠](../Page/蕭正楠.md "wikilink")飾）的終生大事未有定論；而羅威信與姚文英（[田蕊妮](../Page/田蕊妮.md "wikilink")飾）在大結局中出現反面，文英更因為不認同羅威信報復高天鷲的手段而拆股，最終在龍飛（[阮兆祥](../Page/阮兆祥.md "wikilink")飾）說出文英的心聲，二人最後言和。有網媒、網民猜測[TVB也許會再添食](https://zh.wikipedia.org/wiki/TVB "wikilink")，拍攝續集《巨輪III》\[28\]。但亦有網民批評大結局太草率，平平無奇，幾乎「爛尾」，繼《[金枝慾孽貳](https://zh.wikipedia.org/wiki/金枝慾孽貳 "wikilink")》後「表現欠佳」的續集。
   - 《巨輪II》大結局，平均收視33.3點，最高收視35.2點，成為自2014年以來最高收視的大結局。適逢當晚[颱風海馬襲港](https://zh.wikipedia.org/wiki/颱風海馬 "wikilink")，也帶挈了收視上升。 \[29\] \[30\]
 
 ## 記事

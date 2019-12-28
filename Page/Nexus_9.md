@@ -82,7 +82,7 @@ Nexus 9搭载的是[64位元](../Page/64位元.md "wikilink")[Tegra](https://zh.
 </tr>
 <tr class="odd">
 <td><p>音效</p></td>
-<td><p>3.5mm 耳機孔</p></td>
+<td><p>3.5mm 耳機孔、前置外放雙喇叭</p></td>
 </tr>
 <tr class="even">
 <td><p>感應</p></td>

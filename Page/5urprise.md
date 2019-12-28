@@ -410,7 +410,7 @@
 <tr class="odd">
 <td><p>2020年</p></td>
 <td><p>JTBC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天氣好的話，我會去找你" title="wikilink">天氣好的話，我會去找你</a></p></td>
+<td><p><a href="../Page/天氣好的話，我會去找你.md" title="wikilink">天氣好的話，我會去找你</a></p></td>
 <td><p><a href="../Page/徐康俊.md" title="wikilink">徐康俊</a></p></td>
 <td><p>林恩燮</p></td>
 <td><p>男主角</p></td>
@@ -429,7 +429,7 @@
 <td><p><strong>待播</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/湖南衛視" title="wikilink">湖南衛視</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/望夫成龍" title="wikilink">望夫成龍</a></p></td>
-<td><p>李泰煥</p></td>
+<td><p><a href="../Page/李泰煥.md" title="wikilink">李泰煥</a></p></td>
 <td><p>杜允澤</p></td>
 <td><p>第二男主角</p></td>
 <td></td>
@@ -461,6 +461,7 @@
 | 2014年 | 旋轉便利店（這是我們的結局）                                   | 孔明   |     |    |
 | 2014年 | 我的愛我的新娘                                          | 徐康俊  | 俊秀  | 配角 |
 | 2015年 | [對不起 我愛你 謝謝你](../Page/對不起_我愛你_謝謝你.md "wikilink") | 徐康俊  | 韓尚奎 |    |
+| 2014年 | [雞不可失](../Page/雞不可失.md "wikilink")               | 孔明   | 金宰勳 |    |
 
 ### 音樂劇
 

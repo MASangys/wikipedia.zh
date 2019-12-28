@@ -16,9 +16,10 @@
 <tbody>
 <tr class="odd">
 <td><p>南港店</p></td>
-<td><p><a href="../Page/臺北市.md" title="wikilink">臺北市</a><a href="../Page/南港區.md" title="wikilink">南港區</a>忠孝東路7段369號1至10樓<br />
-（<a href="../Page/臺北捷運.md" title="wikilink">臺北捷運</a>、<a href="../Page/台灣鐵路.md" title="wikilink">台灣鐵路</a>、<a href="../Page/台灣高鐵.md" title="wikilink">台灣高鐵</a><a href="https://zh.wikipedia.org/wiki/南港車站" title="wikilink">南港車站</a>）</p></td>
-<td><p>位於<a href="https://zh.wikipedia.org/wiki/潤泰南港車站大樓" title="wikilink">潤泰南港車站大樓</a>(11樓-14樓為<a href="../Page/喜樂時代影城.md" title="wikilink">喜樂時代影城</a>，共有25廳。)，由<a href="https://zh.wikipedia.org/wiki/潤泰旭展" title="wikilink">潤泰旭展股份有限公司負責經營</a>[2]。</p></td>
+<td><p><a href="../Page/臺北市.md" title="wikilink">臺北市</a><a href="../Page/南港區.md" title="wikilink">南港區</a>忠孝東路7段299號(C棟)1至10樓<br />
+359號(B棟)&amp;369號(A棟)1至3樓<br />
+（<a href="../Page/臺北捷運.md" title="wikilink">臺北捷運</a>、<a href="../Page/台灣鐵路.md" title="wikilink">台灣鐵路</a>、<a href="../Page/台灣高鐵.md" title="wikilink">台灣高鐵</a><a href="https://zh.wikipedia.org/wiki/南港車站" title="wikilink">南港車站</a>、<a href="../Page/南港轉運站.md" title="wikilink">南港轉運站</a>）</p></td>
+<td><p>位於<a href="https://zh.wikipedia.org/wiki/潤泰南港車站大樓" title="wikilink">潤泰南港車站大樓</a>（C棟11樓-14樓為<a href="../Page/喜樂時代影城.md" title="wikilink">喜樂時代影城</a>，共有25廳），由<a href="https://zh.wikipedia.org/wiki/潤泰旭展" title="wikilink">潤泰旭展股份有限公司負責經營</a>[2]。</p></td>
 </tr>
 <tr class="even">
 <td><p>松山壹號店</p></td>
@@ -28,7 +29,7 @@
 </tr>
 <tr class="odd">
 <td><p>松山貳號店</p></td>
-<td><p><a href="../Page/臺北市.md" title="wikilink">臺北市</a><a href="https://zh.wikipedia.org/wiki/松山區_(臺北市)" title="wikilink">松山區市民大道六段</a>131號1至3樓</p></td>
+<td><p><a href="../Page/臺北市.md" title="wikilink">臺北市</a><a href="https://zh.wikipedia.org/wiki/松山區_(臺北市)" title="wikilink">松山區市民大道六段</a>131號1至3樓（<a href="https://zh.wikipedia.org/wiki/松山車站_(臺灣)" title="wikilink">松山車站正對面</a>、<a href="https://zh.wikipedia.org/wiki/捷運松山站" title="wikilink">捷運松山站</a>4號出口）</p></td>
 <td><p>位於<a href="https://zh.wikipedia.org/wiki/潤泰松山車站大樓" title="wikilink">潤泰松山車站大樓北面地上一層至地上三層</a>，由<a href="https://zh.wikipedia.org/wiki/潤泰百益" title="wikilink">潤泰百益股份有限公司負責經營</a>。</p></td>
 </tr>
 <tr class="even">
@@ -109,32 +110,24 @@
 
 ### 南港店
 
-  -
-    週日至週四 11:00\~21:30
-    週五至週六 (例假日前夕) 11:00\~22:00
-    特別營業時間：（平日：週一至週四／假日：週五至週日）
-
-<!-- end list -->
+週日至週四 11:00\~21:30 週五至週六 (例假日前夕) 11:00\~22:00 特別營業時間：（平日：週一至週四／假日：週五至週日）
 
   -
     A棟1F 山崎麵包 平日 07:00\~21:30／假日07:00\~22:00
     A棟1F 星巴克 平日 07:30\~22:00／假日07:30\~22:00
+    A棟1F Mister Donut 周一-周五 8:30\~閉店／周六-周日 10:00閉店
+    A棟2F 蔦屋書店TSUTAYA BookStore
     B棟1F 扶旺號 7:00\~21:30 周一到周四、7:00\~22:00周五、10:30\~22:00 周六、10:30\~21:30 周日
     B棟1F MOS摩斯漢堡 7:00-22:00
     B棟1F Tomod’s 平日 09:00\~23:00／假日09:00\~23:00
     B棟1F 7-11 平日 07:00\~21:30／假日07:00\~22:00
     B棟1F 雄獅旅遊 平日 09:00\~21:30／假日09:00\~22:00
     C棟1F 金色三麥 周日-周四 12:00-23:00／周五-周六 12:00-24:00
-    A棟1F Mister Donut 周一-周五 8:30\~閉店／周六-周日 10:00閉店
     C棟11\~14F 喜樂時代影城 平日：上午10:30\~午夜2:00 (週日晚上\~周五下午)、假日：上午09:30\~午夜3:00 (週五晚上\~周日下午)
 
 ### 松山壹號店
 
-  -
-    11：00 — 22：00
-    特別營業時間（平日：週一至週五／假日：週六至週日）
-
-<!-- end list -->
+11：00 — 22：00 特別營業時間（平日：週一至週五／假日：週六至週日）
 
   -
     1F 麥當勞 06:00-24:00
@@ -148,21 +141,18 @@
 
 ### 松山貳號店
 
+週一至週日 11:00\~22:00
+
   -
-    1F [蔦屋書店TSUTAYA BookStore](../Page/Culture_Convenience_Club.md "wikilink")
+    1F、2F [蔦屋書店TSUTAYA BookStore](../Page/Culture_Convenience_Club.md "wikilink")
 
 ### 內湖店
 
-  -
-    週日至週四 11:00\~21:30
-    週五至週六 (例假日前夕) 11:00\~22:00
-    特別營業時間（平日：週一至週五／假日：週六至週日）
-
-<!-- end list -->
+週日至週四 11:00\~21:30 週五至週六 (例假日前夕) 11:00\~22:00 特別營業時間（平日：週一至週五／假日：週六至週日）
 
   -
     1F WIRED CHAYA
-    1F Tsutaya Bookstore
+    1F 蔦屋書店TSUTAYA BookStore
     1F 路易莎咖啡
     1F epanouir
     1F 翡麗詩丹
@@ -209,6 +199,8 @@
   - [CITYLINK松山壹號店](http://www.citylink.tw/songshan/)
 
   - [CITYLINK松山貳號店](http://www.citylink.tw/songshan2/)
+
+  - [CITYLINK內湖店](http://www.citylink.tw/neihu/)
 
   -
   -

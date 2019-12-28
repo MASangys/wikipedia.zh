@@ -152,15 +152,15 @@
 
 ### 固定出演
 
-|                        |                                                               |                                                                                       |                                                                                                                                              |
-| ---------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 放送日期                   | 電視台                                                           | 節目名稱                                                                                  | 備註                                                                                                                                           |
-| 2015年6月20日 - 2016年5月7日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")           | 《[我們結婚了 S4](https://zh.wikipedia.org/wiki/我們結婚了_\(第四季\)#星宿夫婦 "wikilink")》             | 假想丈夫為[陸星材](../Page/陸星材.md "wikilink")（[BTOB](../Page/BTOB.md "wikilink")），名為[星宿夫婦](../Page/我們結婚了_\(第四季\).md "wikilink")                      |
-| 2016年11月23日－2017年2月15日 | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")         | 《[TRICK\&TRUE](../Page/TRICK&TRUE.md "wikilink")》                                     | 與[Wendy為固定嘉賓](../Page/Wendy_\(Red_Velvet\).md "wikilink")                                                                                    |
-| 2018年1月14日－5月27日       | [JTBC](../Page/JTBC.md "wikilink")                            | 《[Two Yoo Project - Sugar Man S2](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》 | 固定MC，與[劉在錫](../Page/劉在錫.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、[朴娜萊](../Page/朴娜萊.md "wikilink")                  |
-| 2018年9月15日－12月8日       | Lifetime                                                      | 《[睡衣朋友](../Page/睡衣朋友.md "wikilink")》                                                  | 固定MC，與[張允珠](https://zh.wikipedia.org/wiki/張允珠 "wikilink")、[宋智孝](../Page/宋智孝.md "wikilink")、[程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink") |
-| 2019年4月5日－             | [On Style](https://zh.wikipedia.org/wiki/On_Style "wikilink") | 《[Get it beauty](../Page/Get_it_beauty.md "wikilink")》                                | 固定MC，與張允珠、[金度延](../Page/金度延.md "wikilink")（[Weki Meki](../Page/Weki_Meki.md "wikilink")）、文佳菲、金秀美                                             |
-|                        |                                                               |                                                                                       |                                                                                                                                              |
+|                        |                                                               |                                                                                       |                                                                                                                                                                                 |
+| ---------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 放送日期                   | 電視台                                                           | 節目名稱                                                                                  | 備註                                                                                                                                                                              |
+| 2015年6月20日 - 2016年5月7日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")           | 《[我們結婚了 S4](https://zh.wikipedia.org/wiki/我們結婚了_\(第四季\)#星宿夫婦 "wikilink")》             | 假想丈夫為[陸星材](../Page/陸星材.md "wikilink")（[BTOB](../Page/BTOB.md "wikilink")），名為[星宿夫婦](../Page/我們結婚了_\(第四季\).md "wikilink")                                                         |
+| 2016年11月23日－2017年2月15日 | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")         | 《[TRICK\&TRUE](../Page/TRICK&TRUE.md "wikilink")》                                     | 與[Wendy為固定嘉賓](../Page/Wendy_\(Red_Velvet\).md "wikilink")                                                                                                                       |
+| 2018年1月14日－5月27日       | [JTBC](../Page/JTBC.md "wikilink")                            | 《[Two Yoo Project - Sugar Man S2](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》 | 固定MC，與[劉在錫](../Page/劉在錫.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、[朴娜萊](../Page/朴娜萊.md "wikilink")                                                     |
+| 2018年9月15日－12月8日       | Lifetime                                                      | 《[睡衣朋友](../Page/睡衣朋友.md "wikilink")》                                                  | 固定MC，與[張允珠](https://zh.wikipedia.org/wiki/張允珠 "wikilink")、[宋智孝](../Page/宋智孝.md "wikilink")、[程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink")                                    |
+| 2019年4月5日－             | [On Style](https://zh.wikipedia.org/wiki/On_Style "wikilink") | 《[Get it beauty](../Page/Get_it_beauty.md "wikilink")》                                | 固定MC，與[張允柱](../Page/張允柱.md "wikilink")、[金度延](../Page/金度延.md "wikilink")（[Weki Meki](../Page/Weki_Meki.md "wikilink")）、文佳菲、[金秀美](https://zh.wikipedia.org/wiki/金秀美 "wikilink")   |
+| 2020年1月10日－            | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")           | 《[Handsome Tigers](../Page/Handsome_Tigers.md "wikilink")》                            | 固定MC，與[徐章勳](https://zh.wikipedia.org/wiki/徐章勳 "wikilink")、[李相侖](../Page/李相侖.md "wikilink")、[車銀優](../Page/車銀優.md "wikilink")、[柳善皓](https://zh.wikipedia.org/wiki/柳善皓 "wikilink") |
 
 ### 單次訪問/嘉賓出演
 
@@ -256,6 +256,18 @@
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a>《<a href="../Page/認識的哥哥.md" title="wikilink">認識的哥哥</a>》</p></td>
 <td><p>與<a href="../Page/張允柱.md" title="wikilink">張允柱</a>、<a href="../Page/Irene_(模特).md" title="wikilink">Irene Kim</a></p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>12月3日</p></td>
+<td><p>《STAR GARDEN2》</p></td>
+<td><p>網絡節目，與<a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020年</p></td>
+<td><p>1月6日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>《<a href="../Page/更窮遊豪華團.md" title="wikilink">更窮遊豪華團</a>》</p></td>
+<td><p>2019年11月28日－12月1日拍攝</p></td>
 </tr>
 </tbody>
 </table>
@@ -457,6 +469,7 @@
 
   -
 
+  -
   -
   -
   -

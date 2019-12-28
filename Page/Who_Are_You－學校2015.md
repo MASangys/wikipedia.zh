@@ -299,7 +299,7 @@
 <td><p>炸醬麵送貨員。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/金旻奎.md" title="wikilink">金旻奎</a></p></td>
+<td><p><a href="../Page/金旻奎_(1994年生).md" title="wikilink">金旻奎</a></p></td>
 <td></td>
 <td><p>以安在游泳部的朋友。</p></td>
 </tr>

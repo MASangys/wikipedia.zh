@@ -4,7 +4,7 @@
 
   - 與第2张《[One Two Three](../Page/One_Two_Three.md "wikilink")》相同，E-girls全員均有選拔並參與。EGD的[川本璃首次選拔並參與的單曲](https://zh.wikipedia.org/wiki/川本璃 "wikilink")。
   - A面曲 《THE NEVER ENDING STORY ～告訴你一個小秘密～》是Limahl歌曲《THE NEVER ENDING STORY》的日本語版本。
-  - B面曲《THE NEVER ENDING STORY》是E-girls第3首翻唱歌曲，原曲為[Limahl為](https://zh.wikipedia.org/wiki/Limahl "wikilink")1984年奇幻冒險電影《[大魔域](https://zh.wikipedia.org/wiki/大魔域 "wikilink")》所演唱的主題曲，亦是[剛力彩芽](../Page/剛力彩芽.md "wikilink")、[EXILE的](https://zh.wikipedia.org/wiki/EXILE "wikilink")[AKIRA](../Page/AKIRA.md "wikilink")、成員[水野繪梨奈](../Page/水野繪梨奈.md "wikilink")主演，[富士電視台](../Page/富士電視台.md "wikilink")劇集《[古書堂事件手帖](../Page/古書堂事件手帖.md "wikilink")》的主題曲。
+  - B面曲《THE NEVER ENDING STORY》是E-girls第3首翻唱歌曲，原曲為[Limahl為](https://zh.wikipedia.org/wiki/Limahl "wikilink")1984年奇幻冒險電影《[大魔域](../Page/大魔域.md "wikilink")》所演唱的主題曲，亦是[剛力彩芽](../Page/剛力彩芽.md "wikilink")、[EXILE的](https://zh.wikipedia.org/wiki/EXILE "wikilink")[AKIRA](../Page/AKIRA.md "wikilink")、成員[水野繪梨奈](../Page/水野繪梨奈.md "wikilink")主演，[富士電視台](../Page/富士電視台.md "wikilink")劇集《[古書堂事件手帖](../Page/古書堂事件手帖.md "wikilink")》的主題曲。
   - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《THE NEVER ENDING STORY ～告訴你一個小秘密～》和《JUST IN LOVE》的Music Video。
   - 在3月4日於公信榜单曲週排行榜取得第2位。
 

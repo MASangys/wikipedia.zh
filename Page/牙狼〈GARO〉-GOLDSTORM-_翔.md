@@ -153,7 +153,7 @@
 <td><p>第三話</p></td>
 <td><p>蝶</p></td>
 <td><p>林（ブケリ人間態） - <a href="https://zh.wikipedia.org/wiki/波岡一喜" title="wikilink">波岡一喜</a><br />
-未奈 - <a href="https://zh.wikipedia.org/wiki/坂口杏里" title="wikilink">坂口杏里</a><br />
+未奈 - <a href="../Page/坂口杏里.md" title="wikilink">坂口杏里</a><br />
 平太 - <a href="https://zh.wikipedia.org/wiki/田中稔彦" title="wikilink">田中稔彦</a><br />
 園長 - <a href="https://zh.wikipedia.org/wiki/萩原流行" title="wikilink">萩原流行</a></p></td>
 </tr>

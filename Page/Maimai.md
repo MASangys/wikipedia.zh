@@ -6,19 +6,19 @@
 
 ### 框體
 
-[maimai_china.png](https://zh.wikipedia.org/wiki/File:maimai_china.png "fig:maimai_china.png")也跟日本及其他地區不同。\]\] 就如滾筒式洗衣機的外形，中央為一個圓形的[觸控式螢幕](../Page/觸控式螢幕.md "wikilink")，螢幕的周圍設有八個按鈕。機台的中間設有投幣口及IC卡讀卡器\[14\]。機台使用[操作系统](../Page/操作系统.md "wikilink")「[Windows IoT](../Page/Windows_IoT.md "wikilink")」，左右玩家各一個主[顯示器](https://zh.wikipedia.org/wiki/顯示器 "wikilink")（框體下方中央的圓形顯示器）及次顯示器（上方的長方形顯示器），總共四個顯示器合為一個大畫面\[15\]\[16\]。日本國內的遊戲系統是日文界面。而除了中國之外的海外地區是英文界面，跟日本是同一個系統，更新与日本同步\[17\]\[18\]。中國版名為「舞萌」，系統跟日本不同，因而不能使用Aime卡「maimai NET」的服務，歌曲與功能也比日本及海外版少，並非跟日本同步更新\[19\]。
+[maimai_china.png](https://zh.wikipedia.org/wiki/File:maimai_china.png "fig:maimai_china.png")也跟日本及其他地區不同。\]\] 就如滾筒式洗衣機的外形，中央為一個圓形的[觸控式螢幕](../Page/觸控式螢幕.md "wikilink")，螢幕的周圍設有八個按鈕。機台的中間設有投幣口及IC卡讀卡器（maimai DX大陆版为二维码读取器）\[14\]。機台使用[操作系统](../Page/操作系统.md "wikilink")「[Windows IoT](../Page/Windows_IoT.md "wikilink")」，左右玩家各一個主[顯示器](https://zh.wikipedia.org/wiki/顯示器 "wikilink")（框體下方中央的圓形顯示器）及次顯示器（上方的長方形顯示器），總共四個顯示器合為一個大畫面\[15\]\[16\]。日本國內的遊戲系統是日文界面。而除了中國之外的海外地區名为“maimai DX International ver.”（FiNALE 和之前的版本名称和日本相同），采用英文界面，更新与日本部份同步\[17\]\[18\]\[19\]。中國版名為「舞萌」，系統跟日本不同，因而不能使用Aime卡「maimai NET」的服務，歌曲與功能也比日本及海外版少，並非跟日本同步更新\[20\]\[21\]。
 
 ## 遊戲內容
 
-[Maimai_MASTER_unlock.JPG](https://zh.wikipedia.org/wiki/File:Maimai_MASTER_unlock.JPG "fig:Maimai_MASTER_unlock.JPG") 所有歌曲都能選擇五種不同的難度，分別為<font color="#0380df">EASY</font>、<font color="#21be80">BASIC</font>、<font color="#ff8c00">ADVANCED</font>、<font color="#fa4041">EXPERT</font>、<font color="#9c40df">MASTER</font>\[20\]。(部分歌曲可以選擇<font color="#9c40df">Re:MASTER</font>、<font color="#FF359A">宴</font>)<font color="#9c40df">MASTER</font>以上難度須有任何一方事前將該曲子的<font color="#fa4041">EXPERT</font>以上難度的譜面到RANK S（達成率97.0%）或以上才能解禁並遊玩該歌曲\[21\]。
+[Maimai_MASTER_unlock.JPG](https://zh.wikipedia.org/wiki/File:Maimai_MASTER_unlock.JPG "fig:Maimai_MASTER_unlock.JPG") 所有歌曲都能選擇五種不同的難度，分別為<font color="#0380df">EASY</font>、<font color="#21be80">BASIC</font>、<font color="#ff8c00">ADVANCED</font>、<font color="#fa4041">EXPERT</font>、<font color="#9c40df">MASTER</font>\[22\]。(部分歌曲可以選擇<font color="#9c40df">Re:MASTER</font>、<font color="#FF359A">宴</font>)<font color="#9c40df">MASTER</font>以上難度須有任何一方事前將該曲子的<font color="#fa4041">EXPERT</font>以上難度的譜面到RANK S（達成率97.0%）或以上才能解禁並遊玩該歌曲\[23\]。
 
 ### 玩法
 
-機台的屏幕呈圓形，玩家可以通過觸碰螢幕或按鍵來遊玩，遊玩時圖形會從螢幕中心向外移動，種類分別是環形的TAP、兩個環形同時出現，黃色的EACH、角條形的HOLD和星條形的SLIDE\[22\]，达成率達80%以上便可以通關，而遊玩時動作自然變得與跳舞一樣，機台亦附設攝錄功能，只要通過自設網站maimaiNET便可以將遊玩過程上載至[niconico動畫](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")。機台可以單人、兩人連線，最多能夠四人連線。遊玩時螢幕同時會播放歌手的[音樂影片或原創影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")\[23\]。機台分為VS和SYNC兩個模式，在VS模式中不同玩家可以選擇同一首歌曲的不同難度來對戰，SYNC則只能選擇同一首歌曲的同一等級，雙方同步率最高為100%\[24\]。多數玩家為了改善遊戲體驗並取得更高的分數、減低受傷的風險，會戴上[手套](../Page/手套.md "wikilink")遊玩maimai\[25\]\[26\]。
+機台的屏幕呈圓形，玩家可以通過觸碰螢幕或按鍵來遊玩，遊玩時圖形會從螢幕中心向外移動，種類分別是環形的TAP、兩個環形同時出現，黃色的EACH、角條形的HOLD和星條形的SLIDE\[24\]，达成率達80%以上便可以通關，而遊玩時動作自然變得與跳舞一樣，機台亦附設攝錄功能，只要通過自設網站maimaiNET便可以將遊玩過程上載至[niconico動畫](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")。機台可以單人、兩人連線，最多能夠四人連線。遊玩時螢幕同時會播放歌手的[音樂影片或原創影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")\[25\]。機台分為VS和SYNC兩個模式，在VS模式中不同玩家可以選擇同一首歌曲的不同難度來對戰，SYNC則只能選擇同一首歌曲的同一等級，雙方同步率最高為100%\[26\]。多數玩家為了改善遊戲體驗並取得更高的分數、減低受傷的風險，會戴上[手套](../Page/手套.md "wikilink")遊玩maimai\[27\]\[28\]。
 
 ### 判定
 
-判定分為\[27\]\[28\]：
+判定分為\[29\]\[30\]：
 
   - TAP
       - 粉紅色的圓環。與邊緣重疊時按下去，最基本的判定。
@@ -27,17 +27,19 @@
   - HOLD
       - 粉紅色的六角條狀，分數是TAP的兩倍。當長條與邊緣重疊時按下去，維持至長條結尾時才放手。
       - 太早放手也不會判定成MISS，而是根據長條的結尾與邊緣的距離而判定成GREAT或GOOD。
-      - GreeN PLUS前為圓條狀，後來改成六角條狀\[29\]。
+      - GreeN PLUS前為圓條狀，後來改成六角條狀\[31\]。
   - SLIDE
       - 星形圖案就如TAP那樣，與邊緣重疊時按下去。按下後需跟著星形圖案的方向滑動，畫面還會有箭咀作提示。一開始的星形圖案就如TAP那樣計算分數，滑動當作另一個分數計算。分數是TAP的三倍。
       - 星形圖案的旋轉速度會跟隨RING SPEED而改變，能於設定中關閉旋轉效果。
-      - GreeN PLUS前只有直線及圍繞邊緣的SLIDE，後來增設了各種不同的形狀\[30\]\[31\]。
+      - GreeN PLUS前只有直線及圍繞邊緣的SLIDE，後來增設了各種不同的形狀\[32\]\[33\]。
   - EACH（日本國內）／BOTH（海外）
       - 兩個黃色的判定同時出現。除了「TAP與TAP」的組合之外，亦有「HOLD與SLIDE」等等不同的組合。
+  - TOUCH 和 TOUCH HOLD
+      - DX 登场，为屏幕中的图标，在外圈和图标重合时按下或按住。
 
 #### 嚴判模式
 
-遊戲內有一個名為「」的設定，一旦開啟，TAP、HOLD、SLIDE和BREAK均按照BREAK的方式計分。判定模式分為四個，分別是、<font color="#ff8c00"></font>、<font color="#fa0028"></font>、<font color="#c83cff"></font>，後者的判定比前者更為嚴格，計分方法如下表\[32\]。
+遊戲內有一個名為「」的設定，一旦開啟，TAP、HOLD、SLIDE和BREAK均按照BREAK的方式計分。判定模式分為四個，分別是、<font color="#ff8c00"></font>、<font color="#fa0028"></font>、<font color="#c83cff"></font>，後者的判定比前者更為嚴格，計分方法如下表\[34\]。
 
 | 預設    | MAJI    | GACHI | GORI    |
 | ----- | ------- | ----- | ------- |
@@ -109,17 +111,17 @@ MiLK PLUS 时期的 SURVIVAL COURSE 进行了调整：
 
 ### 初代maimai以及PLUS（2012年7月至2013年7月）
 
-[Maimai.JPG](https://zh.wikipedia.org/wiki/File:Maimai.JPG "fig:Maimai.JPG") 2011年12月16日至18日，初代maimai首次舉行場測，在正式推出前總共有5次，全數均在[首都圈內進行](../Page/首都圈_\(日本\).md "wikilink")\[33\]。2012年7月12日，maimai正式推出，其概念是源自於舞蹈，SEGA指隨著舞蹈特徵明顯的[日本偶像歌曲大賣](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，而且不少學校亦規定舞蹈為必修科目，舞蹈亦逐漸成為年輕人的一部份，因此推出了maimai。初代maimai收錄了[AKB48](../Page/AKB48.md "wikilink")的《[無限重播](../Page/無限重播.md "wikilink")》、《[Everyday、髮箍](../Page/Everyday、髮箍.md "wikilink")》、[生物股長的](https://zh.wikipedia.org/wiki/生物股長 "wikilink")《[JOYFUL](https://zh.wikipedia.org/wiki/YELL/JOYFUL "wikilink")》、[巡音流歌](../Page/巡音流歌.md "wikilink")和[GUMI合唱的](../Page/Megpoid.md "wikilink")《[Happy Synthesizer](https://zh.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Vocalonation "wikilink")》、巡音流歌的《[LukaLuka★NightFever](../Page/LukaLuka★NightFever.md "wikilink")》以及[俄羅斯方塊](../Page/俄羅斯方塊.md "wikilink")插曲，Team DEKARIS\[34\]。的《Sweets×Sweets》\[35\]。8月20日，SEGA舉行了maimai girl選舉，參加者只要通過機台拍攝遊玩過程上載至niconico動畫，以播放次數和娛樂度等為參考，最能夠傳達maimai樂趣的玩家便能獲獎，第一名和第二名均有機會出演網上廣告、宣傳活動以及在maimai的音樂影片中亮相，其後在10月8日於東京[原宿](../Page/原宿.md "wikilink")舉行的頒獎禮中，由模特兒[鈴木奈奈頒獎](https://zh.wikipedia.org/wiki/鈴木奈奈 "wikilink")\[36\]。11月26日，《[Jingle Bells](https://zh.wikipedia.org/wiki/聖誕鈴聲 "wikilink")》以期間限定的形式正式推出，並且成為第一首有MASTER譜面的歌曲\[37\]。12月13日，初代maimai更新為maimai PLUS，新增[Kyary Pamyu Pamyu的](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")《[戴上假睫毛](../Page/戴上假睫毛.md "wikilink")》、《[CANDY CANDY](../Page/CANDY_CANDY.md "wikilink")》、[家入里歐](../Page/家入里歐.md "wikilink")的《[薩布麗娜](../Page/薩布麗娜_\(單曲\).md "wikilink")》、[米津玄師](../Page/米津玄師.md "wikilink")的《》以及[千本櫻](../Page/千本櫻.md "wikilink")等等\[38\]，同時首次加入Rank SS評分級別，達成率達100%或以上便會取得Rank SS，PLUS以前取得ALL PERFECT的歌曲會自動評為Rank SS，而且同一首歌曲首次可以選擇不同等級的譜面互相對戰，同時亦增設調較光暗度以及遊玩前讀取資料等功能\[39\]，另外BREAK的判定則由原本分為三級，改為分至七級\[40\]。12月17日，maimai在中國國際動漫遊戲博覽會中登場，中國代理商精文世嘉稱其為舞萌，並且收錄了日本版沒有的5首中文歌曲\[41\]。2013年2月，maimai在[台北國際電玩展](../Page/台北國際電玩展.md "wikilink")中登場，雖然當時日本的版本已經更新至maimai PLUS，但是由於當時台灣的機台仍然禁止採用自動連線模式來運行，因此登場的依然是初代maimai\[42\]。
+[Maimai.JPG](https://zh.wikipedia.org/wiki/File:Maimai.JPG "fig:Maimai.JPG") 2011年12月16日至18日，初代maimai首次舉行場測，在正式推出前總共有5次，全數均在[首都圈內進行](../Page/首都圈_\(日本\).md "wikilink")\[35\]。2012年7月12日，maimai正式推出，其概念是源自於舞蹈，SEGA指隨著舞蹈特徵明顯的[日本偶像歌曲大賣](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，而且不少學校亦規定舞蹈為必修科目，舞蹈亦逐漸成為年輕人的一部份，因此推出了maimai。初代maimai收錄了[AKB48](../Page/AKB48.md "wikilink")的《[無限重播](../Page/無限重播.md "wikilink")》、《[Everyday、髮箍](../Page/Everyday、髮箍.md "wikilink")》、[生物股長的](https://zh.wikipedia.org/wiki/生物股長 "wikilink")《[JOYFUL](https://zh.wikipedia.org/wiki/YELL/JOYFUL "wikilink")》、[巡音流歌](../Page/巡音流歌.md "wikilink")和[GUMI合唱的](../Page/Megpoid.md "wikilink")《[Happy Synthesizer](https://zh.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Vocalonation "wikilink")》、巡音流歌的《[LukaLuka★NightFever](../Page/LukaLuka★NightFever.md "wikilink")》以及[俄羅斯方塊](../Page/俄羅斯方塊.md "wikilink")插曲，Team DEKARIS\[36\]。的《Sweets×Sweets》\[37\]。8月20日，SEGA舉行了maimai girl選舉，參加者只要通過機台拍攝遊玩過程上載至niconico動畫，以播放次數和娛樂度等為參考，最能夠傳達maimai樂趣的玩家便能獲獎，第一名和第二名均有機會出演網上廣告、宣傳活動以及在maimai的音樂影片中亮相，其後在10月8日於東京[原宿](../Page/原宿.md "wikilink")舉行的頒獎禮中，由模特兒[鈴木奈奈頒獎](https://zh.wikipedia.org/wiki/鈴木奈奈 "wikilink")\[38\]。11月26日，《[Jingle Bells](https://zh.wikipedia.org/wiki/聖誕鈴聲 "wikilink")》以期間限定的形式正式推出，並且成為第一首有MASTER譜面的歌曲\[39\]。12月13日，初代maimai更新為maimai PLUS，新增[Kyary Pamyu Pamyu的](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")《[戴上假睫毛](../Page/戴上假睫毛.md "wikilink")》、《[CANDY CANDY](../Page/CANDY_CANDY.md "wikilink")》、[家入里歐](../Page/家入里歐.md "wikilink")的《[薩布麗娜](../Page/薩布麗娜_\(單曲\).md "wikilink")》、[米津玄師](../Page/米津玄師.md "wikilink")的《》以及[千本櫻](../Page/千本櫻.md "wikilink")等等\[40\]，同時首次加入Rank SS評分級別，達成率達100%或以上便會取得Rank SS，PLUS以前取得ALL PERFECT的歌曲會自動評為Rank SS，而且同一首歌曲首次可以選擇不同等級的譜面互相對戰，同時亦增設調較光暗度以及遊玩前讀取資料等功能\[41\]，另外BREAK的判定則由原本分為三級，改為分至七級\[42\]。12月17日，maimai在中國國際動漫遊戲博覽會中登場，中國代理商精文世嘉稱其為舞萌，並且收錄了日本版沒有的5首中文歌曲\[43\]。2013年2月，maimai在[台北國際電玩展](../Page/台北國際電玩展.md "wikilink")中登場，雖然當時日本的版本已經更新至maimai PLUS，但是由於當時台灣的機台仍然禁止採用自動連線模式來運行，因此登場的依然是初代maimai\[44\]。
 
 ### maimai GreeN以及GreeN PLUS（2013年7月至2014年9月）
 
-2013年5月24日，在舉行的SEGA PRIVATE SHOW 2013 -SPRING-展覽中，maimai預告於2013年夏天更新為maimai GreeN，新增[東方Project和動畫歌曲](https://zh.wikipedia.org/wiki/東方Project "wikilink")，並且設置朋友系統，亦增添maimile系統讓玩家購入歌曲或其他東西，同時首次採用Rating來反映玩家實力\[43\]。7月11日，maimai正式更新為maimai GreeN，除了新增東方Project歌曲外，同時亦增加、、和等作曲家的原創歌曲\[44\]。11月22日，為了記念家用遊戲機[世嘉土星](../Page/世嘉土星.md "wikilink")發賣19週年，maimai在推出了由\[H.\]重新編曲的《世嘉土星起動音》（）\[45\]。
+2013年5月24日，在舉行的SEGA PRIVATE SHOW 2013 -SPRING-展覽中，maimai預告於2013年夏天更新為maimai GreeN，新增[東方Project和動畫歌曲](https://zh.wikipedia.org/wiki/東方Project "wikilink")，並且設置朋友系統，亦增添maimile系統讓玩家購入歌曲或其他東西，同時首次採用Rating來反映玩家實力\[45\]。7月11日，maimai正式更新為maimai GreeN，除了新增東方Project歌曲外，同時亦增加、、和等作曲家的原創歌曲\[46\]。11月22日，為了記念家用遊戲機[世嘉土星](../Page/世嘉土星.md "wikilink")發賣19週年，maimai在推出了由\[H.\]重新編曲的《世嘉土星起動音》（）\[47\]。
 
-2014年2月12日，SEGA宣佈maimai GreeN將會更新至maimai GreeN PLUS，新增了動畫《[進擊的巨人](../Page/進擊的巨人.md "wikilink")》的主題曲《[紅蓮的弓矢](https://zh.wikipedia.org/wiki/向自由進擊 "wikilink")》、《[偶像大師](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")》的歌曲和《[飆速宅男](../Page/飆速宅男.md "wikilink")》主題曲，[J-pop方面亦新增了組合](https://zh.wikipedia.org/wiki/J-pop "wikilink")[SEKAI NO OWARI的](../Page/SEKAI_NO_OWARI.md "wikilink")《[RPG](../Page/RPG_\(單曲\).md "wikilink")》，而遊戲歌曲方面則有[project575的](https://zh.wikipedia.org/wiki/project575 "wikilink")《色彩豔麗的話語》（）、《[超音鼠系列](https://zh.wikipedia.org/wiki/超音鼠系列 "wikilink")》的《Windy Hill -Zone 1》和《[人中之龍 維新！](../Page/人中之龍_維新！.md "wikilink")》的《鼓動》等等，而且在2月14至15日於[千葉縣](../Page/千葉縣.md "wikilink")[幕張展覽館](../Page/幕張展覽館.md "wikilink")舉行的中可以提早試玩\[46\]。2月26日，maimai GreeN正式更新至maimai GreeN PLUS，這次更新推出了變化更大的星條，而且亦增加BREAK SOUND和SLIDE SOUND等利用maimile購買的項目\[47\]。3月23日，Hiro和光吉猛修前往[沖繩縣](../Page/沖繩縣.md "wikilink")出席與maimai玩家聚首的活動\[48\]。3月31日，maimai新增了手機遊戲《[鎖鏈戰記](../Page/鎖鏈戰記.md "wikilink")》主題曲《絆之物語》（》和[任天堂3DS](../Page/任天堂3DS.md "wikilink")遊戲《》主題曲《賺錢吧！小麻煩英雄》（）\[49\]。4月10日，maimai新增了小提琴家、音樂人、聲優[若井友希](../Page/若井友希.md "wikilink")和鋼琴家[Marasy等人](https://zh.wikipedia.org/wiki/Marasy "wikilink")，總共5首原創歌曲\[50\]。5月15日，maimai新增了5首歌曲，分別是三首東方Project歌曲以及作曲家[山根美智等人的原創歌曲兩首](https://zh.wikipedia.org/wiki/山根美智 "wikilink")\[51\]。5月23日，maimai為了慶祝[高橋名人的生日而新增其主唱的一首歌曲](https://zh.wikipedia.org/wiki/高橋名人 "wikilink")\[52\]。6月4日，SEGA宣佈在8月30至31日於[東京國際展示場](../Page/東京國際展示場.md "wikilink")舉行以maimai歌曲為主的演唱會\[53\]。翌日，SEGA宣佈將會在秋天推出maimai ORANGE\[54\]。6月17日，適逢為《[人中之龍](../Page/人中之龍_\(遊戲\).md "wikilink")》主角[桐生一馬](../Page/桐生一馬.md "wikilink")的生日，maimai因此新增了兩首人中之龍歌曲以及組合[EXILE歌曲](https://zh.wikipedia.org/wiki/EXILE "wikilink")《[VICTORY](../Page/FANTASY_\(EXILE單曲\).md "wikilink")》\[55\]。6月20日，maimai新增了超音鼠的聲效可供購入\[56\]。7月17日，maimai新增了[平井堅](../Page/平井堅.md "wikilink")的《[POP STAR](../Page/POP_STAR.md "wikilink")》、[月島KIRARI的](../Page/久住小春.md "wikilink")《[巴拉拉卡](https://zh.wikipedia.org/wiki/巴拉拉卡_\(月島KIRARI歌曲\) "wikilink")》和[40mP](../Page/40mP.md "wikilink")的《[活動小丑](https://zh.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Megurhythm "wikilink")》等9首歌曲\[57\]。
+2014年2月12日，SEGA宣佈maimai GreeN將會更新至maimai GreeN PLUS，新增了動畫《[進擊的巨人](../Page/進擊的巨人.md "wikilink")》的主題曲《[紅蓮的弓矢](https://zh.wikipedia.org/wiki/向自由進擊 "wikilink")》、《[偶像大師](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")》的歌曲和《[飆速宅男](../Page/飆速宅男.md "wikilink")》主題曲，[J-pop方面亦新增了組合](https://zh.wikipedia.org/wiki/J-pop "wikilink")[SEKAI NO OWARI的](../Page/SEKAI_NO_OWARI.md "wikilink")《[RPG](../Page/RPG_\(單曲\).md "wikilink")》，而遊戲歌曲方面則有[project575的](https://zh.wikipedia.org/wiki/project575 "wikilink")《色彩豔麗的話語》（）、《[超音鼠系列](https://zh.wikipedia.org/wiki/超音鼠系列 "wikilink")》的《Windy Hill -Zone 1》和《[人中之龍 維新！](../Page/人中之龍_維新！.md "wikilink")》的《鼓動》等等，而且在2月14至15日於[千葉縣](../Page/千葉縣.md "wikilink")[幕張展覽館](../Page/幕張展覽館.md "wikilink")舉行的中可以提早試玩\[48\]。2月26日，maimai GreeN正式更新至maimai GreeN PLUS，這次更新推出了變化更大的星條，而且亦增加BREAK SOUND和SLIDE SOUND等利用maimile購買的項目\[49\]。3月23日，Hiro和光吉猛修前往[沖繩縣](../Page/沖繩縣.md "wikilink")出席與maimai玩家聚首的活動\[50\]。3月31日，maimai新增了手機遊戲《[鎖鏈戰記](../Page/鎖鏈戰記.md "wikilink")》主題曲《絆之物語》（》和[任天堂3DS](../Page/任天堂3DS.md "wikilink")遊戲《》主題曲《賺錢吧！小麻煩英雄》（）\[51\]。4月10日，maimai新增了小提琴家、音樂人、聲優[若井友希](../Page/若井友希.md "wikilink")和鋼琴家[Marasy等人](https://zh.wikipedia.org/wiki/Marasy "wikilink")，總共5首原創歌曲\[52\]。5月15日，maimai新增了5首歌曲，分別是三首東方Project歌曲以及作曲家[山根美智等人的原創歌曲兩首](https://zh.wikipedia.org/wiki/山根美智 "wikilink")\[53\]。5月23日，maimai為了慶祝[高橋名人的生日而新增其主唱的一首歌曲](https://zh.wikipedia.org/wiki/高橋名人 "wikilink")\[54\]。6月4日，SEGA宣佈在8月30至31日於[東京國際展示場](../Page/東京國際展示場.md "wikilink")舉行以maimai歌曲為主的演唱會\[55\]。翌日，SEGA宣佈將會在秋天推出maimai ORANGE\[56\]。6月17日，適逢為《[人中之龍](../Page/人中之龍_\(遊戲\).md "wikilink")》主角[桐生一馬](../Page/桐生一馬.md "wikilink")的生日，maimai因此新增了兩首人中之龍歌曲以及組合[EXILE歌曲](https://zh.wikipedia.org/wiki/EXILE "wikilink")《[VICTORY](../Page/FANTASY_\(EXILE單曲\).md "wikilink")》\[57\]。6月20日，maimai新增了超音鼠的聲效可供購入\[58\]。7月17日，maimai新增了[平井堅](../Page/平井堅.md "wikilink")的《[POP STAR](../Page/POP_STAR.md "wikilink")》、[月島KIRARI的](../Page/久住小春.md "wikilink")《[巴拉拉卡](https://zh.wikipedia.org/wiki/巴拉拉卡_\(月島KIRARI歌曲\) "wikilink")》和[40mP](../Page/40mP.md "wikilink")的《[活動小丑](https://zh.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Megurhythm "wikilink")》等9首歌曲\[59\]。
 
 ### maimai ORANGE（2014年9月－2015年3月）
 
-8月8日，SEGA宣佈參加maimai歌曲演唱會的人士將獲得入場限定CD，並且送贈襟章、毛巾和扇子，並且提供學生優惠，另外入場者可以抽籤試玩maimai ORANGE兩首未公開的歌曲，名額約40人\[58\]。8月22日，maimai新增了搖滾樂隊翻唱的和作曲家等人的5首作品\[59\]。9月1日，maimai新增了音樂人[DECO\*27](../Page/DECO*27.md "wikilink")的《》等3首[VOCALOID](../Page/VOCALOID.md "wikilink")歌曲，並且公佈將於9月18日更新至maimai ORANGE\[60\]
+8月8日，SEGA宣佈參加maimai歌曲演唱會的人士將獲得入場限定CD，並且送贈襟章、毛巾和扇子，並且提供學生優惠，另外入場者可以抽籤試玩maimai ORANGE兩首未公開的歌曲，名額約40人\[60\]。8月22日，maimai新增了搖滾樂隊翻唱的和作曲家等人的5首作品\[61\]。9月1日，maimai新增了音樂人[DECO\*27](../Page/DECO*27.md "wikilink")的《》等3首[VOCALOID](../Page/VOCALOID.md "wikilink")歌曲，並且公佈將於9月18日更新至maimai ORANGE\[62\]
 
 ### maimai ORANGE PLUS（2015年3月－2015年12月）
 
@@ -219,9 +221,21 @@ MiLK PLUS 时期的 SURVIVAL COURSE 进行了调整：
 
   - 2018 年 12 月 13 日 开始更新。
   - 伙伴角色新增 Shama （しゃま） 和 Milk （みるく）。
+  - 宴会场模式变为初期开启。
   - 段位认定模式改名为 FiNALE COURSE，且使用了新的段位（表段位和里段位）通过后也会使 Rating 上升。
   - 新增 PANDORA BOXXX 模式，规则和 Challenge Track 相似。
-  - EXPERT新增☆×12+难度，MASTER/Re : MASTER新增☆×13+/☆×14难度
+  - EXPERT新增☆×12+难度，MASTER/Re : MASTER新增☆×13+/☆×14难度。
+
+### maimai でらっくす / maimai DX / 舞萌 DX （2019 年 7 月 11 日 - ）
+
+  - 日本地区于 2019 年 7 月 11 日开始运营。
+  - 本作为采用 ALLS HX2 基板的全新框体，增加了耳机接口，取消了录像功能。
+  - 框体新增卡片打印机配件，可以通过 DELUXE PASS 获得某些特别效果。（日本以外的海外版不会包含此配件。）
+  - FiNALE 时期的大量特性废止，包括 FiNALE COURSE，PANDORA BOXXX，伙伴等级和综合等级，宴会场等。
+  - 新增可在 2-10 分钟间自由选曲游玩的“自由模式”。
+  - 难易度 「EASY」统合进「BASIC」中。
+  - 全部难度的最高达成率统一为 101.0000%，评价等级 「SSS+」变为 100.5000% 以上可获得。
+  - 评价等级「E」「F」移除，新增「BBB」和「BB」。
 
 ## 收录的歌曲分类
 
@@ -243,38 +257,36 @@ MiLK PLUS 时期的 SURVIVAL COURSE 进行了调整：
       - 收录本作和 CHUNTIUM 的原创曲目。
   - 全曲リスト
       - 和 ORANGE PLUS 及以前版本类似的选择画面，可以选择全部乐曲。
-  - 段位認定
-  - チャレンジトラック （Challenge Track）
-  - サバイバルコース（SURVIVAL COURSE）
 
+## 歌曲原聲
 
-\== 歌曲原聲 == 2012年11月28日，SEGA將Sweets×Sweets等4首maimai歌曲集錄成音樂專輯，其中部份歌曲由光吉猛修和[能登有沙](../Page/能登有沙.md "wikilink")等人歌唱，並且在[iTunes Store於](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[歐盟等](https://zh.wikipedia.org/wiki/歐盟 "wikilink")60多國供人下載，而[Amazon](https://zh.wikipedia.org/wiki/Amazon "wikilink") MP3則只有美國、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[法國和](https://zh.wikipedia.org/wiki/法國 "wikilink")[日本](../Page/日本.md "wikilink")\[61\]。12月19日，第二彈收錄了由古典作曲家[約翰·塞巴斯蒂安·巴哈的](https://zh.wikipedia.org/wiki/約翰·塞巴斯蒂安·巴哈 "wikilink")《[G弦上的詠嘆調](https://zh.wikipedia.org/wiki/G弦上的詠嘆調 "wikilink")》改編成[POP的](../Page/流行_\(音樂類型\).md "wikilink")《True Love Song》，同時亦收錄了由古典作曲家[路德維希·范·貝多芬的](https://zh.wikipedia.org/wiki/路德維希·范·貝多芬 "wikilink")《[悲愴奏鳴曲](https://zh.wikipedia.org/wiki/第8鋼琴奏鳴曲_\(貝多芬\) "wikilink")》改編成[R & B的](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")《Color My World》等4首歌曲\[62\]。2013年6月26日，第三彈收錄了、和等作曲家的4首作品\[63\]，其後於7月3日推出的第四彈則收錄組合[YMCK](../Page/YMCK.md "wikilink")和[聲優](../Page/聲優.md "wikilink")等人的4首歌曲，部份歌曲來自SEGA街機[Border Break和](../Page/Border_Break.md "wikilink")[Virtua Fighter5](../Page/VR快打5.md "wikilink")\[64\]。2014年9月30日，SEGA旗下的公司發行的《maimai 華麗★集合BOX》（）收錄了自初代maimai至maimai GreeN PLUS的101首歌曲\[65\]。
+2012年11月28日，SEGA將Sweets×Sweets等4首maimai歌曲集錄成音樂專輯，其中部份歌曲由光吉猛修和[能登有沙](../Page/能登有沙.md "wikilink")等人歌唱，並且在[iTunes Store於](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[歐盟等](https://zh.wikipedia.org/wiki/歐盟 "wikilink")60多國供人下載，而[Amazon](https://zh.wikipedia.org/wiki/Amazon "wikilink") MP3則只有美國、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[法國和](https://zh.wikipedia.org/wiki/法國 "wikilink")[日本](../Page/日本.md "wikilink")\[63\]。12月19日，第二彈收錄了由古典作曲家[約翰·塞巴斯蒂安·巴哈的](https://zh.wikipedia.org/wiki/約翰·塞巴斯蒂安·巴哈 "wikilink")《[G弦上的詠嘆調](https://zh.wikipedia.org/wiki/G弦上的詠嘆調 "wikilink")》改編成[POP的](../Page/流行_\(音樂類型\).md "wikilink")《True Love Song》，同時亦收錄了由古典作曲家[路德維希·范·貝多芬的](https://zh.wikipedia.org/wiki/路德維希·范·貝多芬 "wikilink")《[悲愴奏鳴曲](https://zh.wikipedia.org/wiki/第8鋼琴奏鳴曲_\(貝多芬\) "wikilink")》改編成[R & B的](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")《Color My World》等4首歌曲\[64\]。2013年6月26日，第三彈收錄了、和等作曲家的4首作品\[65\]，其後於7月3日推出的第四彈則收錄組合[YMCK](../Page/YMCK.md "wikilink")和[聲優](../Page/聲優.md "wikilink")等人的4首歌曲，部份歌曲來自SEGA街機[Border Break和](../Page/Border_Break.md "wikilink")[Virtua Fighter5](../Page/VR快打5.md "wikilink")\[66\]。2014年9月30日，SEGA旗下的公司發行的《maimai 華麗★集合BOX》（）收錄了自初代maimai至maimai GreeN PLUS的101首歌曲\[67\]。
 
 ## 評價
 
-聲優認為maimai同一首歌曲分作幾種不同的難度，遊玩一段時間的話可以逐漸升級，而[AAA前成員](../Page/AAA_\(團體\).md "wikilink")[後藤友香里](../Page/後藤友香里.md "wikilink")則認為大螢幕有助近距離觀看譜面，而且遊玩同時螢幕亦會播放該曲的音樂影片，簡單地就能夠融入歌曲的世界觀\[66\]。聲優[松永真穗](../Page/松永真穗.md "wikilink")形容[遊戲機中心一般環境嘈雜](https://zh.wikipedia.org/wiki/遊戲機中心 "wikilink")，導致無法細心聆聽音樂，但是maimai卻沒有這種問題\[67\]。模特兒[鈴木奈奈則認為遊玩maimai有助瘦身](https://zh.wikipedia.org/wiki/鈴木奈奈 "wikilink")\[68\]。自由播報員形容maimai讓從前是玩家的她，再次熱血起來\[69\]。[寫真偶像](../Page/寫真偶像.md "wikilink")形容maimai容易讓人著迷\[70\]。前演員[寺門仁美認為玩了maimai便很容易進入maimai充滿節奏感的世界](https://zh.wikipedia.org/wiki/寺門仁美 "wikilink")\[71\]。
+聲優認為maimai同一首歌曲分作幾種不同的難度，遊玩一段時間的話可以逐漸升級，而[AAA前成員](../Page/AAA_\(團體\).md "wikilink")[後藤友香里](../Page/後藤友香里.md "wikilink")則認為大螢幕有助近距離觀看譜面，而且遊玩同時螢幕亦會播放該曲的音樂影片，簡單地就能夠融入歌曲的世界觀\[68\]。聲優[松永真穗](../Page/松永真穗.md "wikilink")形容[遊戲機中心一般環境嘈雜](https://zh.wikipedia.org/wiki/遊戲機中心 "wikilink")，導致無法細心聆聽音樂，但是maimai卻沒有這種問題\[69\]。模特兒[鈴木奈奈則認為遊玩maimai有助瘦身](https://zh.wikipedia.org/wiki/鈴木奈奈 "wikilink")\[70\]。自由播報員形容maimai讓從前是玩家的她，再次熱血起來\[71\]。[寫真偶像](../Page/寫真偶像.md "wikilink")形容maimai容易讓人著迷\[72\]。前演員[寺門仁美認為玩了maimai便很容易進入maimai充滿節奏感的世界](https://zh.wikipedia.org/wiki/寺門仁美 "wikilink")\[73\]。
 
 ## 平台合作
 
 ### SEGA遊戲
 
-2013年3月18日，maimai與SEGA另一街機《》合作，雙方玩家只要在對方機台使用相同的IC卡遊玩，便可以獲取合作物品\[72\]。2014年4月28日，maimai與Project575合作，只要在機台遊玩Project575的歌曲《色彩豔麗的話語》（），並且上載，從中抽選35名，有機會獲取總值575萬日元的獎品\[73\]。
+2013年3月18日，maimai與SEGA另一街機《》合作，雙方玩家只要在對方機台使用相同的IC卡遊玩，便可以獲取合作物品\[74\]。2014年4月28日，maimai與Project575合作，只要在機台遊玩Project575的歌曲《色彩豔麗的話語》（），並且上載，從中抽選35名，有機會獲取總值575萬日元的獎品\[75\]。
 
 ### 跨平台遊戲
 
-2013年11月29日，maimai與[Taito開發的街機](https://zh.wikipedia.org/wiki/Taito "wikilink")《[GROOVE COASTER](https://zh.wikipedia.org/wiki/GROOVE_COASTER "wikilink")》合作，雙方各有一首歌曲雙方機台遊玩，maimai方面的是街機《》歌曲改編而成的《Quartet Theme \[Reborn\]》，而GROOVE COASTER方面則是街機《歌曲改編而成的《DADDY MULK -Groove remix-》，為了記念，雙方在12月4日於[東京都](../Page/東京都.md "wikilink")[台場的主題公園](https://zh.wikipedia.org/wiki/台場 "wikilink")舉行公開的[niconico直播](https://zh.wikipedia.org/wiki/niconico直播 "wikilink")，SEGA方面派出其專屬編曲組合的和等人參加，而Taito方面亦有其專屬編曲組合成員等人參加，雙方亦派出了各自的街機製作團隊出席，會場內的maimai亦較全線提早了一天加入《DADDY MULK -Groove remix-》讓到場人士遊玩\[74\]。
+2013年11月29日，maimai與[Taito開發的街機](https://zh.wikipedia.org/wiki/Taito "wikilink")《[GROOVE COASTER](https://zh.wikipedia.org/wiki/GROOVE_COASTER "wikilink")》合作，雙方各有一首歌曲雙方機台遊玩，maimai方面的是街機《》歌曲改編而成的《Quartet Theme \[Reborn\]》，而GROOVE COASTER方面則是街機《歌曲改編而成的《DADDY MULK -Groove remix-》，為了記念，雙方在12月4日於[東京都](../Page/東京都.md "wikilink")[台場的主題公園](https://zh.wikipedia.org/wiki/台場 "wikilink")舉行公開的[niconico直播](https://zh.wikipedia.org/wiki/niconico直播 "wikilink")，SEGA方面派出其專屬編曲組合的和等人參加，而Taito方面亦有其專屬編曲組合成員等人參加，雙方亦派出了各自的街機製作團隊出席，會場內的maimai亦較全線提早了一天加入《DADDY MULK -Groove remix-》讓到場人士遊玩\[76\]。
 
-2014年3月17日，SEGA、Taito和[Bandai Namco合作](https://zh.wikipedia.org/wiki/萬代南夢宮遊戲 "wikilink")，計劃名為GAME MUSIC TRIANGLE，計劃分別由SEGA開發的maimai、Taito開發的GROOVE COASTER和Bandai Namco開發的[太鼓之達人](../Page/太鼓之達人_\(街機版\).md "wikilink")，各自改編一首歌曲供三個平台遊玩，為了記念，三家公司在niconico動畫母公司[多玩國](../Page/多玩國.md "wikilink")舉辦的中設置機台供人免費遊玩\[75\]。4月17日，三家公司通過合作計劃而各自改編的三首歌曲分別是Taito遊戲《[電車GO\!](../Page/電車GO!.md "wikilink")》歌曲《J.A.M.的電車電車GO\!GO\!GO\!》（）改編成的《電車電車GO\!GO\!GO\!GC\! -GMT remix-》（）、SEGA遊戲歌曲《OPA-OPA\!・SHOPPING》改編成的《Fantasy Zone OPA-OPA\! -GMT remix-》（）和Bandai Namco遊戲[Ridge Racer歌曲](https://zh.wikipedia.org/wiki/Ridge_Racer "wikilink")《Ridge Racer（POWER REMIX）》改編成的《RIDGE RACER STEPS -GMT remix-》，其後在5月8日，三家公司將三首歌曲互相混合再編成另外三首歌曲，分別是《J.A.M.的電車電車GO\!GO\!GO\!》和《Ridge Racer（POWER REMIX）》混合而成由SEGA的Hiro再編曲的《RidgeRidgeGO\!GO\!GO\! –GMT mashup-》（）、《J.A.M.的電車電車GO\!GO\!GO\!》和《OPA-OPA\!・SHOPPING》混合而成由Bandai Namco的Yuji Masubuchi再編曲的《電車電車 OPA\!OPA\!OPA\! –GMT mashup-》（）以及《Ridge Racer（POWER REMIX）》和《OPA-OPA\!・SHOPPING》混合而成由Taito的COSIO再編曲的《OPA！OPA！RACER –GMT mashup-》（）\[76\]。
+2014年3月17日，SEGA、Taito和[Bandai Namco合作](https://zh.wikipedia.org/wiki/萬代南夢宮遊戲 "wikilink")，計劃名為GAME MUSIC TRIANGLE，計劃分別由SEGA開發的maimai、Taito開發的GROOVE COASTER和Bandai Namco開發的[太鼓之達人](../Page/太鼓之達人_\(街機版\).md "wikilink")，各自改編一首歌曲供三個平台遊玩，為了記念，三家公司在niconico動畫母公司[多玩國](../Page/多玩國.md "wikilink")舉辦的中設置機台供人免費遊玩\[77\]。4月17日，三家公司通過合作計劃而各自改編的三首歌曲分別是Taito遊戲《[電車GO\!](../Page/電車GO!.md "wikilink")》歌曲《J.A.M.的電車電車GO\!GO\!GO\!》（）改編成的《電車電車GO\!GO\!GO\!GC\! -GMT remix-》（）、SEGA遊戲歌曲《OPA-OPA\!・SHOPPING》改編成的《Fantasy Zone OPA-OPA\! -GMT remix-》（）和Bandai Namco遊戲[Ridge Racer歌曲](https://zh.wikipedia.org/wiki/Ridge_Racer "wikilink")《Ridge Racer（POWER REMIX）》改編成的《RIDGE RACER STEPS -GMT remix-》，其後在5月8日，三家公司將三首歌曲互相混合再編成另外三首歌曲，分別是《J.A.M.的電車電車GO\!GO\!GO\!》和《Ridge Racer（POWER REMIX）》混合而成由SEGA的Hiro再編曲的《RidgeRidgeGO\!GO\!GO\! –GMT mashup-》（）、《J.A.M.的電車電車GO\!GO\!GO\!》和《OPA-OPA\!・SHOPPING》混合而成由Bandai Namco的Yuji Masubuchi再編曲的《電車電車 OPA\!OPA\!OPA\! –GMT mashup-》（）以及《Ridge Racer（POWER REMIX）》和《OPA-OPA\!・SHOPPING》混合而成由Taito的COSIO再編曲的《OPA！OPA！RACER –GMT mashup-》（）\[78\]。
 
-10月29日，，簡稱AOU，舉辦了，maimai、GROOVE COASTER、太鼓之達人和[KONAMI街機](https://zh.wikipedia.org/wiki/KONAMI "wikilink")[jubeat首次合作](https://zh.wikipedia.org/wiki/jubeat "wikilink")，每個平台各自選出一首歌曲供四個平台遊玩，四首歌曲分別是《Garakuta Doll Play》（maimai）、《Got more raves？》（GROOVE COASTER）、《FLOWER》（jubeat）和《北琦玉2000》（，太鼓之達人）\[77\]。11月26日，四家公司各寫下四首全新的歌曲供四個平台遊玩，分別是《VERTeX》(水)（maimai）、《FUJIN Rumble》(雷)（GROOVE COASTER）、《Scars of FAUNA》(土)（jubeat）和《Ignis Danse》(火)（太鼓之達人）\[78\]。
+10月29日，，簡稱AOU，舉辦了，maimai、GROOVE COASTER、太鼓之達人和[KONAMI街機](https://zh.wikipedia.org/wiki/KONAMI "wikilink")[jubeat首次合作](https://zh.wikipedia.org/wiki/jubeat "wikilink")，每個平台各自選出一首歌曲供四個平台遊玩，四首歌曲分別是《Garakuta Doll Play》（maimai）、《Got more raves？》（GROOVE COASTER）、《FLOWER》（jubeat）和《北琦玉2000》（，太鼓之達人）\[79\]。11月26日，四家公司各寫下四首全新的歌曲供四個平台遊玩，分別是《VERTeX》(水)（maimai）、《FUJIN Rumble》(雷)（GROOVE COASTER）、《Scars of FAUNA》(土)（jubeat）和《Ignis Danse》(火)（太鼓之達人）\[80\]。
 
 ### 其他
 
-2014年8月，maimai與家電生產商[SHARP合作於](https://zh.wikipedia.org/wiki/夏普 "wikilink")「」會場展示一款外表有maimai特色的洗衣機\[79\]，同場亦有與糖果商的「菠蘿糖」（）合作，由於maimai的TAP與菠蘿糖的造型相近，因此推出了以菠蘿糖作為TAP的特別版本，在「maimai LIVE 2014 ～洗衣祭～」會場中能試玩\[80\]。
+2014年8月，maimai與家電生產商[SHARP合作於](https://zh.wikipedia.org/wiki/夏普 "wikilink")「」會場展示一款外表有maimai特色的洗衣機\[81\]，同場亦有與糖果商的「菠蘿糖」（）合作，由於maimai的TAP與菠蘿糖的造型相近，因此推出了以菠蘿糖作為TAP的特別版本，在「maimai LIVE 2014 ～洗衣祭～」會場中能試玩\[82\]。
 
 ## 影响
 
-在中国出现了一款名为舞立方的街机，相比[乐动魔方](../Page/乐动魔方.md "wikilink")的模仿品魔法MAGIC被原作公司告上法庭舞立方做了很大的修改，圆形改为六边形，并减少了两个按钮且屏幕不是触摸屏，游戏没有触摸操作，因此没有slide按键。\[81\]
+在中国出现了一款名为舞立方的街机，相比[乐动魔方](../Page/乐动魔方.md "wikilink")的模仿品魔法MAGIC被原作公司告上法庭舞立方做了很大的修改，圆形改为六边形，并减少了两个按钮且屏幕不是触摸屏，游戏没有触摸操作，因此没有slide按键。\[83\]
 
 ## 參考資料
 
@@ -295,8 +307,6 @@ MiLK PLUS 时期的 SURVIVAL COURSE 进行了调整：
   - [巴哈姆特maimai專區](http://forum.gamer.com.tw/A.php?bsn=21890)
 
   - [maimai非官方中文維基](http://www53.atwiki.jp/maimaicn/)
-
-  - [舞萌maimai官方微博](http://www.weibo.com/maimaichina)
 
 [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:多人电子游戏](https://zh.wikipedia.org/wiki/Category:多人电子游戏 "wikilink") [Category:網路遊戲](https://zh.wikipedia.org/wiki/Category:網路遊戲 "wikilink") [Category:世嘉街机游戏](https://zh.wikipedia.org/wiki/Category:世嘉街机游戏 "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink")
 
@@ -333,9 +343,9 @@ MiLK PLUS 时期的 SURVIVAL COURSE 进行了调整：
 31.
 32.
 33.
-34. 成員為[小倉唯](../Page/小倉唯.md "wikilink")、[石原夏織](../Page/石原夏織.md "wikilink")、[松永真穗](../Page/松永真穗.md "wikilink")和[能登有沙](../Page/能登有沙.md "wikilink")，
+34.
 35.
-36.
+36. 成員為[小倉唯](../Page/小倉唯.md "wikilink")、[石原夏織](../Page/石原夏織.md "wikilink")、[松永真穗](../Page/松永真穗.md "wikilink")和[能登有沙](../Page/能登有沙.md "wikilink")，
 37.
 38.
 39.
@@ -380,4 +390,6 @@ MiLK PLUS 时期的 SURVIVAL COURSE 进行了调整：
 78.
 79.
 80.
-81. [上海惊现山寨版舞萌！就在中山公园龙之梦](http://tieba.baidu.com/p/2396149898)
+81.
+82.
+83. [上海惊现山寨版舞萌！就在中山公园龙之梦](http://tieba.baidu.com/p/2396149898)

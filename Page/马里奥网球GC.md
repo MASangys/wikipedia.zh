@@ -2,7 +2,7 @@
 
 《马里奥网球GC》使用了[马里奥系列中的许多角色](https://zh.wikipedia.org/wiki/马里奥系列 "wikilink")、主题和地点。游戏使用了基本的[网球](../Page/网球.md "wikilink")机制，但亦有变种计分形式与游戏目标\[3\]。其他变种有“花招”球场，直接影响游戏操作的主题球场与道具。游戏有18名可玩角色，并依照他们的比赛风格分类，各角色都有独特的“必杀一击”招式。《马里奥网球GC》和《[马里奥高尔夫 家庭巡回赛](https://zh.wikipedia.org/wiki/马里奥高尔夫_家庭巡回赛 "wikilink")》同时开发，在制作中互相共享相似的技术和内容。相似点包括在角色与设定上突出马里奥主题，以及“强力一击”等可选游戏模式。
 
-游戏获得评价普遍积极，在[GameRankings上得分为](https://zh.wikipedia.org/wiki/GameRankings "wikilink")81%，在[Metacritic](../Page/Metacritic.md "wikilink")得分为80/100。评论称赞游戏的深度与多样性，但批评了强力一击动画无法跳过。游戏被选入2010年书籍《[死前必玩的1001款电子游戏](https://zh.wikipedia.org/wiki/死前必玩的1001款电子游戏 "wikilink")》\[4\]。
+游戏获得评价普遍积极，在[GameRankings](../Page/GameRankings.md "wikilink")上得分为81%，在[Metacritic](../Page/Metacritic.md "wikilink")得分为80/100。评论称赞游戏的深度与多样性，但批评了强力一击动画无法跳过。游戏被选入2010年书籍《[死前必玩的1001款电子游戏](https://zh.wikipedia.org/wiki/死前必玩的1001款电子游戏 "wikilink")》\[4\]。
 
 ## 参考文献
 

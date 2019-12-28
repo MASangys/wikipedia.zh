@@ -49,7 +49,7 @@ LR2型12.7毫米手动狙击步枪是一枝由[湖南轻武器研究所研制的
 
 ## 外部連結
 
-  - —[湖南兵器轻武器研究所有限责任公司官方网站—LR2型12.7毫米栓动狙击步枪](http://www.hnqwq.com/aspcms/product/2013-12-11/223.html)
+  - —[湖南兵器轻武器研究所有限责任公司官方网站—LR2型12.7毫米栓动狙击步枪](https://web.archive.org/web/20160306005550/http://www.hnqwq.com/aspcms/product/2013-12-11/223.html)
 
   - —[Chinese Military Review－Chinese LR2 12.7 mm (.50 caliber) Long Range Sniper Rifle (LRSR)](http://chinesemilitaryreview.blogspot.hk/2012/05/chinese-lr2-127-mm-50-caliber-long.html)
 

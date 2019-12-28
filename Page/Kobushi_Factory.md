@@ -312,7 +312,7 @@
 <td><p>22,493+</p></td>
 <td></td>
 <td><p>第一張2A單曲、成員<a href="https://zh.wikipedia.org/wiki/藤井梨央" title="wikilink">藤井梨央</a>、<a href="https://zh.wikipedia.org/wiki/小川麗奈" title="wikilink">小川麗奈</a>、<a href="https://zh.wikipedia.org/wiki/田口夏實" title="wikilink">田口夏實最後一張單曲</a>。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/辛夷第二幕" title="wikilink">辛夷第二幕</a></p></td>
+<td><p><a href="../Page/辛夷第二幕.md" title="wikilink">辛夷第二幕</a></p></td>
 </tr>
 <tr class="even">
 <td><p>5th</p></td>
@@ -378,7 +378,7 @@
 <td><p>2nd</p></td>
 <td><p>2019年10月2日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/辛夷第二幕" title="wikilink">辛夷第二幕</a></p></td>
+<td><p><a href="../Page/辛夷第二幕.md" title="wikilink">辛夷第二幕</a></p></td>
 <td><p>14,355</p></td>
 <td><p>-</p></td>
 </tr>

@@ -195,7 +195,7 @@
 
 <!-- end list -->
 
-  - 10月9日－12月18日：**[中學聖日記](https://zh.wikipedia.org/wiki/中學聖日記 "wikilink")**（）
+  - 10月9日－12月18日：**[中學聖日記](../Page/中學聖日記.md "wikilink")**（）
 
 <!-- end list -->
 
@@ -239,7 +239,7 @@
 
 <!-- end list -->
 
-  - 10月15日－：**[G弦上的你和我](https://zh.wikipedia.org/wiki/G弦上的你和我 "wikilink")**（）
+  - 10月15日－12月17日：**[G弦上的你和我](https://zh.wikipedia.org/wiki/G弦上的你和我 "wikilink")**（）
 
 <!-- end list -->
 
@@ -252,7 +252,7 @@
 
 #### 2020年
 
-  - 1月－：**[戀愛可以持續到天長地久](https://zh.wikipedia.org/wiki/戀愛可以持續到天長地久 "wikilink")**（）
+  - 1月14日－：**[戀愛可以持續到天長地久](https://zh.wikipedia.org/wiki/戀愛可以持續到天長地久 "wikilink")**（）
 
 <!-- end list -->
 

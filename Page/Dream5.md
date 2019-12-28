@@ -451,7 +451,7 @@ Dream5負責樂曲的各種動作及舞步[18]。<br />
 4.  [第56屆日本唱片大賞得獎紀錄。](http://www.tbs.co.jp/recordaward/)
 5.  [「妖怪ウォッチ」のDream5、紅白出場決定に歓喜……「夢が叶った」。](http://headlines.yahoo.co.jp/hl?a=20141126-00000034-rbb-ent) 日本雅虎新聞（轉載RBB News），2014年11月26日。
 6.  [Dream5、10代男女40年ぶり1位 フィンガー5以来の快挙。](http://www.oricon.co.jp/news/2044067/full/)Oricon News，2014年11月4日。
-7.  [年間シングルヒットチャート 2014年(平成26年)。](http://entamedata.web.fc2.com/music/music2014.html)
+7.
 8.  [Ｄｒｅａｍ５玉川桃奈が引退「貴重な体験ばかり」，](http://www.nikkansports.com/entertainment/news/1607757.html)日刊體育，2016年2月22日。
 9.  [Dream5、年内で活動終了へ，](http://www.asahi.com/and_w/interest/entertainment/CORI2083661.html)朝日新聞，2016年12月26日
 10. [Ｄｒｅａｍ５」今年いっぱいで活動終了！](http://www.news24.jp/articles/2016/12/26/08350066.html) ，日本雷電視台新聞，2016年12月26日。

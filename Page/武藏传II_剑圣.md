@@ -14,7 +14,7 @@
 
 《武藏传II 剑圣》在日本销售首周推算售出5.8万套\[2\]。到2005年8月31日时在日本售出8万套\[3\]。
 
-媒体评价褒贬两极，在[Metacritic](../Page/Metacritic.md "wikilink")和[GameRankings上的分数分别是](https://zh.wikipedia.org/wiki/GameRankings "wikilink")64/100和65%\[4\]\[5\]。
+媒体评价褒贬两极，在[Metacritic](../Page/Metacritic.md "wikilink")和[GameRankings](../Page/GameRankings.md "wikilink")上的分数分别是64/100和65%\[4\]\[5\]。
 
 ## 参考文献
 

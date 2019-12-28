@@ -125,7 +125,7 @@ iKON的官方粉絲名稱為「iKONIC」，官方應援物為球棒造型的手�
 | 藝名                                                            |
 | 藝名                                                            |
 | 現任成員                                                          |
-| [金振煥](../Page/金振煥.md "wikilink")                              |
+| [金敬寰](https://zh.wikipedia.org/wiki/金敬寰 "wikilink")           |
 | [宋允亨](../Page/宋允亨.md "wikilink")                              |
 | [BOBBY](https://zh.wikipedia.org/wiki/金知元_\(饶舌者\) "wikilink") |
 | [金東赫](../Page/金東赫.md "wikilink")                              |
@@ -159,7 +159,7 @@ iKON的官方粉絲名稱為「iKONIC」，官方應援物為球棒造型的手�
 
 #### 單曲專輯
 
-  - 2017年：[New Kids：Begin](../Page/New_Kids:_Begin_\(iKON韓語單曲\).md "wikilink")
+  - 2017年：[New Yids：Begin](../Page/New_Kids:_Begin_\(iKON韓語單曲\).md "wikilink")
 
 ### 日本發行
 
@@ -167,7 +167,7 @@ iKON的官方粉絲名稱為「iKONIC」，官方應援物為球棒造型的手�
 
   - 2016年：[Welcome Back](../Page/WELCOME_BACK_\(iKON日語專輯\).md "wikilink")
   - 2018年：[Return](https://zh.wikipedia.org/wiki/Return_\(iKON日語專輯\) "wikilink")
-  - 2019年：NEW KIDS
+  - 2019年：NEW YIDS
 
 #### 迷你專輯
 

@@ -1,4 +1,4 @@
-《**The Winter's Tale**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第6張韓語迷你專輯（冬季特別專輯），於2014年12月22日發行，主打歌曲為《不能哭》（）\[1\] 。
+《**The Winter's Tale**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第6張韓語迷你專輯（冬季特別專輯），於2014年12月22日發行，主打歌曲為〈不能哭〉（）\[1\] 。
 
 ## 曲目
 

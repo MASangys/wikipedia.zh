@@ -305,7 +305,7 @@ Production-ai雖然是成立至今將近半個世紀的老鋪動畫工作室。�
 
   - [月刊少女野崎同學](../Page/月刊少女野崎同學.md "wikilink")（總承包商：[動畫工房](../Page/動畫工房.md "wikilink")，2014年）
 
-  - （總承包商：日昇動畫→，2014年－2015年）
+  - [舞力四射](../Page/舞力四射.md "wikilink")（總承包商：日昇動畫→，2014年－2015年）
 
   - [流浪神差 ARAGOTO](../Page/流浪神差.md "wikilink")（總承包商：[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")，2015年）
 
@@ -316,6 +316,8 @@ Production-ai雖然是成立至今將近半個世紀的老鋪動畫工作室。�
   - （總承包商：[OLM](../Page/OLM.md "wikilink")，2017年）
 
   - [搖曳露營△](../Page/搖曳露營△.md "wikilink")（總承包商：[C-Station](../Page/C-Station.md "wikilink")，2018年）
+
+  - [〈Infinite_Dendrogram〉-無盡連鎖-](../Page/〈Infinite_Dendrogram〉-無盡連鎖-.md "wikilink")（總承包商：，2020年）
 
 ### OVA
 
@@ -373,7 +375,7 @@ Production-ai雖然是成立至今將近半個世紀的老鋪動畫工作室。�
 
 ## 腳註
 
-### 來源
+### 參考來源
 
   - [株式會社Production-ai公式官網｜首頁&作品列表](https://web.archive.org/web/20150514044114/http://www.h2.dion.ne.jp/~ai-pro/top.html)
 

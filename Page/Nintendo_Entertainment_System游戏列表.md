@@ -1279,7 +1279,7 @@
 </tr>
 <tr class="odd">
 <td><p><em>Donkey Kong Jr.</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大金刚Jr." title="wikilink">大金刚Jr.</a></p></td>
+<td><p><a href="../Page/大金刚Jr..md" title="wikilink">大金刚Jr.</a></p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1986-06" | 1986年6月</p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1987-06-15" | 1987年6月15日</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
@@ -2000,7 +2000,7 @@
 </tr>
 <tr class="even">
 <td><p><em>Ice Climber</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/敲冰块" title="wikilink">敲冰块</a></p></td>
+<td><p><a href="../Page/敲冰块.md" title="wikilink">敲冰块</a></p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1985-10-18" | 1985年10月18日</p></td>
 <td><p>data-sort-type="isoDate" data-sort-value="1986-09-01" | 1986年9月1日</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>

@@ -98,8 +98,11 @@ LUMINE起於1976年（[昭和](../Page/昭和.md "wikilink")51年）[國鐵](../
 ## 外部連結
 
   - [LUMINE](http://www.lumine.ne.jp/)
+
   - [LUMINE WING](http://www.luminewing.co.jp/)
 
+  -
+  -
 [Category:JR東日本集團](https://zh.wikipedia.org/wiki/Category:JR東日本集團 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
 
 1.  「ルミネは…多くのテナントの商品が1万円を切る」 「ニュースの理由」 日本経済新聞2010年11月11日夕刊

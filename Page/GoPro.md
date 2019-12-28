@@ -68,7 +68,7 @@ GoPro公司也提供GoPro Studio，一款简单的视频编辑软件\[26\]。随
 6.
 7.
 8.  [无人机的赌桌，GoPro提着筹码坐到大疆的对面](https://m.sohu.com/n/468755645/)，搜狐科技
-9.  [GoPro 三季度营收跌40%亏损1亿，投资人感慨：硬件难](http://tech2ipo.com/10033322)，TECH2IPO/创见
+9.  [GoPro 三季度营收跌40%亏损1亿，投资人感慨：硬件难](http://tech2ipo.com/10033322) ，TECH2IPO/创见
 10.
 11.
 12.

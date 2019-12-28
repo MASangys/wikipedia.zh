@@ -10,7 +10,7 @@ MONI玩是一款基于Drodid4X内核开发的安卓模拟器，\[2\] 对于安�
 
 ## 外部链接
 
-  - [官方网站](http://www.moniwan.com/)
+  - [官方网站](https://web.archive.org/web/20150402235729/http://www.moniwan.com/)
 
 [Category:模拟软件](https://zh.wikipedia.org/wiki/Category:模拟软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
 

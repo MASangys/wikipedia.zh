@@ -4139,7 +4139,7 @@ JoJo的奇妙冒險: 黃金之風</a></p></td>
 
 ## 外部連結
 
-  - [Animax香港官方網站](http://www.animax-hk.com/)
+  - [Animax香港官方網站](https://web.archive.org/web/20141013161012/http://www.animax-hk.com/)
   - [Animax香港節目](http://www.animax-hk.com/programs)
   - [Animax Asia](https://www.animax-asia.com/)
 

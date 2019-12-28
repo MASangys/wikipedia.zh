@@ -265,6 +265,7 @@ Yeri 首张翻唱数码单曲《Yeri's》</p></td>
   -
   -
   -
+  -
 
   - [Red Velvet的V Live頻道](http://channels.vlive.tv/DCF447)
 

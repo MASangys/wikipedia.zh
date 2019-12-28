@@ -16,6 +16,8 @@
 
 ## 獲獎紀錄
 
+  - 2014年IFPI十大銷量廣東唱片\[1\]
+
 ### 《青春常駐》
 
   - **[CASH金帆音樂獎](../Page/CASH金帆音樂獎.md "wikilink") - 最佳男歌手演繹 -《青春常駐》**
@@ -45,5 +47,10 @@
 ## 外部連結
 
   - [官方消息](https://web.archive.org/web/20150205142122/http://www.eegmusic.com/news/content.php/view/1366)
+  -
+
+<references />
 
 [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:張敬軒音樂專輯](https://zh.wikipedia.org/wiki/Category:張敬軒音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
+
+1.

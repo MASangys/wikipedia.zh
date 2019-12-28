@@ -1,4 +1,4 @@
-，是2014年10月至同年12月於[日本](../Page/日本.md "wikilink")[關西電視台](../Page/關西電視台.md "wikilink")每週二[火十時段](https://zh.wikipedia.org/wiki/關西電視台、富士電視台週二晚間十點連續劇 "wikilink")（22:00 - 22:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，由[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")[笨蛋主義升野英知初次編寫](https://zh.wikipedia.org/wiki/笨蛋主義 "wikilink")[連續劇的劇本](https://zh.wikipedia.org/wiki/連續劇 "wikilink")，[竹野內豐](../Page/竹野內豐.md "wikilink")主演\[1\]\[2\]。
+，是2014年10月至同年12月於[日本](../Page/日本.md "wikilink")[關西電視台](../Page/關西電視台.md "wikilink")每週二[火十時段](https://zh.wikipedia.org/wiki/關西電視台、富士電視台週二晚間十點連續劇 "wikilink")（22:00 - 22:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，由[搞笑藝人](../Page/搞笑藝人.md "wikilink")[笨蛋主義升野英知初次編寫](https://zh.wikipedia.org/wiki/笨蛋主義 "wikilink")[連續劇的劇本](https://zh.wikipedia.org/wiki/連續劇 "wikilink")，[竹野內豐](../Page/竹野內豐.md "wikilink")主演\[1\]\[2\]。
 
 2016年4月5日播出2小時特別篇\[3\]。
 
@@ -84,7 +84,7 @@
 </tr>
 <tr class="odd">
 <td><p>共犯刑警</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/日村勇紀" title="wikilink">日村勇紀</a>（<a href="../Page/香蕉人_(搞笑組合).md" title="wikilink">香蕉人</a>）[11][12]（第7－8話）</p></td>
+<td><p><a href="../Page/日村勇紀.md" title="wikilink">日村勇紀</a>（<a href="../Page/香蕉人_(搞笑組合).md" title="wikilink">香蕉人</a>）[11][12]（第7－8話）</p></td>
 <td><p><a href="../Page/李錦綸_(配音員).md" title="wikilink">李錦綸</a></p></td>
 <td></td>
 </tr>

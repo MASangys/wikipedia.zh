@@ -51,7 +51,7 @@
 | [林贤成](https://zh.wikipedia.org/wiki/林贤成 "wikilink") | 徐东勋    | 賢善的恋人              |                                  |
 | [張鉉誠](../Page/張鉉誠.md "wikilink")                    | 張民碩    | 大韩医院神經外科科长，政煥的主刀医师 | [古明華](../Page/古明華.md "wikilink") |
 | [朴正宇](https://zh.wikipedia.org/wiki/朴正宇 "wikilink") | 金誠燦    | 總統府秘書室室長           |                                  |
-| [金惠奫](https://zh.wikipedia.org/wiki/金惠奫 "wikilink") |        | 趙康載的女兒             |                                  |
+| [金惠奫](../Page/金惠奫.md "wikilink")                    |        | 趙康載的女兒             |                                  |
 |                                                     |        |                    |                                  |
 
 ### 特別演出

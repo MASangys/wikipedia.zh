@@ -34,7 +34,7 @@
   - [キラー・カーン](https://zh.wikipedia.org/wiki/キラー・カーン "wikilink")：キラー・カーン（10）
   - [なべやかん](https://zh.wikipedia.org/wiki/なべやかん "wikilink")（10）
   - 道ですれ違ったホスト風の男性：[北村一輝](../Page/北村一輝.md "wikilink")（11）
-  - ひむらさん：[日村勇紀](https://zh.wikipedia.org/wiki/日村勇紀 "wikilink")（バナナマン）（12）
+  - ひむらさん：[日村勇紀](../Page/日村勇紀.md "wikilink")（バナナマン）（12）
 
 ### スーツアクター
 

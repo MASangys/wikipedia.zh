@@ -2,7 +2,7 @@
 
 ## 簡介
 
-該節目是SKE48與女性[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")[大久保佳代子](../Page/大久保佳代子.md "wikilink")繼《[SKE48的炸蝦週五夜](../Page/SKE48的炸蝦週五夜.md "wikilink")》和《[SKE48 炸蝦商\!](../Page/SKE48_炸蝦商!.md "wikilink")》之後、合作的「炸蝦」系列綜藝節目的第三部。
+該節目是SKE48與女性[搞笑藝人](../Page/搞笑藝人.md "wikilink")[大久保佳代子](../Page/大久保佳代子.md "wikilink")繼《[SKE48的炸蝦週五夜](../Page/SKE48的炸蝦週五夜.md "wikilink")》和《[SKE48 炸蝦商\!](../Page/SKE48_炸蝦商!.md "wikilink")》之後、合作的「炸蝦」系列綜藝節目的第三部。
 
 在大久保佳代子私設的[賭場](../Page/賭場.md "wikilink")內，SKE48的成員們將分組對大久保老闆舉辦的各式各樣「人間比試」結果進行預測，答案錯誤的會受到恐怖的懲罰。
 

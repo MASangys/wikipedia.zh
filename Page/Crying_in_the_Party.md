@@ -1,12 +1,12 @@
-《**Crying in the Party**》是香港男歌手[陳奕迅](../Page/陳奕迅.md "wikilink")於2007年推出的歌曲，由[黎小田](../Page/黎小田.md "wikilink")作曲、[褚鎮東編曲](https://zh.wikipedia.org/wiki/褚鎮東 "wikilink")、[黃偉文填詞](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")，收錄於專輯《[Listen to Eason Chan](https://zh.wikipedia.org/wiki/Listen_to_Eason_Chan "wikilink")》內，是當中唯一的抒情慢歌。歌曲甫推出便大受歡迎，播放率極高，成為四台冠軍歌，及後更在叱咤頒獎禮獲得「叱咤十大 專業推介 第二位」。
+《**Crying in the Party**》是香港男歌手[陳奕迅](../Page/陳奕迅.md "wikilink")於2007年推出的歌曲，由[黎小田](../Page/黎小田.md "wikilink")作曲、[褚鎮東編曲](https://zh.wikipedia.org/wiki/褚鎮東 "wikilink")、[黃偉文填詞](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")，收錄於專輯《[Listen to Eason Chan](https://zh.wikipedia.org/wiki/Listen_to_Eason_Chan "wikilink")》內，是當中唯一的抒情慢歌，也是黎小田和陳奕迅唯一一次合作。歌曲甫推出便大受歡迎，播放率極高，成為四台冠軍歌，及後更在叱咤頒獎禮獲得「叱咤十大 專業推介 第二位」。
 
 [MV於同年發布](../Page/音樂錄影帶.md "wikilink")，有兩版：莊少榮導演版和[TVB版](https://zh.wikipedia.org/wiki/TVB "wikilink")。
 
-2008年，陳奕迅發行精選《[Solidays](../Page/Solidays.md "wikilink")》，收錄了此曲的big band jazz版。
+專輯第二碟收錄其重混音版（Soul Seekerz Remix）。2008年，陳奕迅發行精選《[Solidays](../Page/Solidays.md "wikilink")》，收錄了其big band jazz重編曲版。
 
 ## 簡介
 
-陳奕迅計劃跟香港樂壇的音樂大師合作，其中[顧嘉煇](../Page/顧嘉煇.md "wikilink")、[林敏怡](../Page/林敏怡.md "wikilink")等，由於須要較長的溝通過程沒合作成；而初聯絡上黎小田時，對方沒要求會面相談，即提出自己先寫曲，而且很快便交貨。陳奕迅滿意成品，覺得雖然不符合專輯的舞曲風格卻仍然收貨\[1\]。這是老牌音樂人[黎小田](../Page/黎小田.md "wikilink")淡出多年後的「復出作」，他表示只交了最簡單的旋律，刻意沒做任何的編曲，希望給予填詞人最大的創作空間\[2\]；又說樂曲「滲進了張國榮、梅艷芳和陳百強的味道」\[3\]。
+陳奕迅曾計劃跟香港樂壇的音樂大師合作，其中[顧嘉煇](../Page/顧嘉煇.md "wikilink")、[林敏怡](../Page/林敏怡.md "wikilink")等，由於須要較長的溝通過程沒合作成；而初聯絡上黎小田時，對方沒要求會面相談，即提出自己先寫曲，而且很快便交貨。陳奕迅滿意成品，覺得雖然不符合專輯的舞曲風格卻仍然收貨\[1\]。這是老牌音樂人[黎小田](../Page/黎小田.md "wikilink")淡出多年後的「復出作」，他表示只交了最簡單的旋律，刻意沒做任何的編曲，希望給予填詞人最大的創作空間\[2\]；又說樂曲「滲進了張國榮、梅艷芳和陳百強的味道」\[3\]。
 
 2016年，歌手[何韻詩在](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")[有線娛樂台](../Page/有線娛樂台.md "wikilink")節目《[嚐·回味](../Page/嚐·回味.md "wikilink")》中透露，她一次在朋友的生日派對因情傷失控嚎哭，當時黃偉文亦在場，後來成為此詞的靈感\[4\]。
 

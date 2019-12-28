@@ -87,7 +87,7 @@ LABOUM (라붐)的"LA (**라**)"和法文中意為美麗的人"beauté (보**떼
 
 12月5日，公開主打歌《불을 켜(Turn It On)》MV，並於當日舉行SHOWCASE。
 
-### 2019年：日本首張專輯《Love Pop Wow\!\!》、首張正規專輯《Two Of Us》
+### 2019年：日本首張專輯《Love Pop Wow\!\!》、首張正規專輯《Two Of Us》、冬季特別單曲《상상더하기 WINTER++》
 
 2月8日，日本媒體發布消息指出官方確定於4月24日發行日本第一張專輯，同時也公開於2月16至2月24日期間舉行發售活動。\[21\]
 
@@ -102,6 +102,8 @@ LABOUM (라붐)的"LA (**라**)"和法文中意為美麗的人"beauté (보**떼
 9月19日，首張正規專輯《Two Of Us》發行，並公開主打歌《Firework(불꽃놀이) 》 MV和全輯音源。
 
 11月7日，日本官方宣布將於27日發行首張日本專輯《Love Pop Wow\!\!》(初回限定盤B) ，裡頭多收錄兩首新歌，其中一首為先前在8月28日發行的日本紀念單曲《Love Me》，同時也公開於23日至27日期間舉行發售活動。
+
+12月21日，發行《상상더하기》冬季特別版本單曲，並公開特別影片。
 
 ## 成員資料
 
@@ -355,6 +357,27 @@ PlotData =
 <li>發行公司: NH Media、Nega Network</li>
 <li>規格: 數位音樂下載</li>
 </ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>3rd</strong></p></td>
+<td><p>《<strong>상상더하기 WINTER++</strong>》</p>
+<ul>
+<li>發行日期：2019年12月21日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>發行公司: NH Media、Nega Network</li>
+<li>規格: 數位音樂下載</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -837,7 +860,7 @@ PlotData =
 | 2月5日、6日                                                           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                 | 《[MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》 | 全員            | 春節特輯       |
 | 2月22日                                                             | TOUCH PLAY                                                          | 《毽子王 李天秀》                                                           |               |            |
 | 2月26日－3月21日                                                       | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")                 | 《德華TV》                                                              | 柔廷、ZN、率濱      |            |
-| 3月17日、3月24日                                                       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                 | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                    | 昭娟            | 以參賽者身分     |
+| 3月17日、24日                                                         | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                 | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                    | 昭娟            | 以參賽者身分     |
 | 7月24日                                                             | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")                 | 《[無論什麼friends](../Page/無論什麼friends.md "wikilink")》                  | 率濱            |            |
 | 8月11日                                                             | 《[Player (韓國綜藝)](../Page/Player_\(韓國綜藝\).md "wikilink")》            |                                                                     |               |            |
 | 9月7日                                                              | JTBC2                                                               | 《[RUN.wav](../Page/RUN.wav.md "wikilink")》                          | 全員            |            |
@@ -848,7 +871,8 @@ PlotData =
 | 10月7日                                                             | tbs TV                                                              | 《Fact in star》                                                      |               |            |
 | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《Pops in Seoul》                                                     |                                                                     |               |            |
 | 10月16日                                                            | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")   | 《Showbiz Korea》                                                     | 率濱            |            |
-| 11月17日、11月24日                                                     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                 | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                    | 海仁、率濱         | 藝人陪審團      |
+| 11月17日、24日                                                        | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                 | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                    | 海仁、率濱         | 藝人陪審團      |
+| 12月8日、15日                                                         | SBS PLUS                                                            | 《Good Friends》                                                      | 全員            |            |
 
 ### 廣播節目
 
@@ -1347,10 +1371,10 @@ PlotData =
 
 | 年份    | 獎項                       |
 | ----- | ------------------------ |
-| 2018年 | 第26屆大韓民國文化演藝大賞  K-POP歌手獎 |
+| 2018年 | 第26屆大韓民國文化演藝大賞【K-POP歌手獎】 |
 
 
-\====主要音樂節目榜單排名====
+\===主要音樂節目榜單排名===
 
 <table>
 <thead>

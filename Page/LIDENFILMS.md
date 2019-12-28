@@ -277,7 +277,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/放學後桌遊俱樂部" title="wikilink">放學後桌遊俱樂部</a></p></td>
+<td><p><a href="../Page/放學後桌遊俱樂部.md" title="wikilink">放學後桌遊俱樂部</a></p></td>
 <td></td>
 <td><p>10月－播放中</p></td>
 <td><p><a href="../Page/今泉賢一.md" title="wikilink">今泉賢一</a></p></td>

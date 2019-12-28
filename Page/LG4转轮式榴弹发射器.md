@@ -117,7 +117,7 @@ LG4可以发射中国內外的各种[40×46毫米系列低速榴彈](../Page/40�
 
   - —[Modern Firearms—NORINCO LG4 revolver grenade launcher](http://world.guns.ru/grenade/ch/lg4-e.html)
 
-  - —[湖南兵器轻武器研究所有限责任公司官方网站—LG4型40毫米转轮榴弹发射器](http://www.hnqwq.com/aspcms/product/2013-12-11/224.html)
+  - —[湖南兵器轻武器研究所有限责任公司官方网站—LG4型40毫米转轮榴弹发射器](https://web.archive.org/web/20150216181720/http://www.hnqwq.com/aspcms/product/2013-12-11/224.html)
 
   - —[PLA轻武器组图（十）：自动榴弹发射器专辑](http://bbs.wenxuecity.com/military/942725.html)
 

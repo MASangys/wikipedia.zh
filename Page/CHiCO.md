@@ -88,7 +88,19 @@
 <td><p>驕傲革命</p></td>
 <td></td>
 <td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/銀魂_(動畫)" title="wikilink">銀魂</a>》主題曲</p></td>
-<td><p>2015年</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>少女們啊。</p></td>
+<td></td>
+<td><p>電視動畫《<a href="../Page/騷亂時節的少女們。.md" title="wikilink">騷亂時節的少女們。</a>》片頭曲</p></td>
+<td><p>2019年</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>電視動畫《<a href="../Page/騷亂時節的少女們。.md" title="wikilink">騷亂時節的少女們。</a>》插入曲</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

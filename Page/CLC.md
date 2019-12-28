@@ -155,7 +155,9 @@ PlotData =
 
 5月29日，時隔4個月以《[ME(美)](../Page/Me_\(CLC單曲\).md "wikilink")》回歸，並於韓國時間下午六時公開《ME(美)》MV、音源，在Bugs的排行榜拿下實時7位和Soribada排行榜的93位。
 
-8月28日，於官方Instagram透露將於9月6日以第二張數位單曲《[Devil](https://zh.wikipedia.org/wiki/Devil_\(CLC單曲\) "wikilink")》回歸。9月6日，韓國時間下午六時公開MV及音源，在Bugs排行榜拿下實時6位，Soribada排行榜實時84位。9月14日，於Billboard Social 50榜獲得第47位。
+8月28日，於官方Instagram透露將於9月6日，時隔3個月以第二張數位單曲《[Devil](https://zh.wikipedia.org/wiki/Devil_\(CLC單曲\) "wikilink")》回歸。9月6日，韓國時間下午六時公開MV及音源，在Bugs排行榜拿下實時6位，Soribada排行榜實時84位。9月14日，於Billboard Social 50榜獲得第47位。
+
+### 2020年
 
 ## 音樂作品
 

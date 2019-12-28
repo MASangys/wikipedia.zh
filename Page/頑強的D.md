@@ -2,7 +2,7 @@
 
 在1999年於[同名電視劇中出演後](https://zh.wikipedia.org/wiki/頑強的D_\(電視劇\) "wikilink")，該樂隊開始出名。\[1\] 2001年發佈的同名專輯，其中的第一首歌《Tribute》是該樂隊的成名曲，一度登上所有榜單的前十名。後來此記錄被他們的新作的《[The Metal](https://zh.wikipedia.org/wiki/The_Metal "wikilink")》 刷新。
 
-評論家們認為該樂隊的作品將[搖滾樂和](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[荒誕喜劇結合在了一起](https://zh.wikipedia.org/wiki/荒誕喜劇 "wikilink")，因此將其風格稱為“mock rock”（嘲諷搖滾）。\[2\]\[3\] 其歌曲主要是在誇耀其音樂創作和性能力，也涉及攝食[大麻等問題](https://zh.wikipedia.org/wiki/大麻_\(藥用\) "wikilink")。\[4\]\[5\]
+評論家們認為該樂隊的作品將[搖滾樂和](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[荒誕喜劇結合在了一起](https://zh.wikipedia.org/wiki/荒誕喜劇 "wikilink")，因此將其風格稱為“mock rock”（嘲諷搖滾）。\[2\]\[3\] 其歌曲主要是在誇耀其音樂創作和性能力，也涉及攝食[大麻](../Page/大麻.md "wikilink")等問題。\[4\]\[5\]
 
 ## 參考文獻
 

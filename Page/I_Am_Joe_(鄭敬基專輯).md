@@ -24,5 +24,5 @@
 
 [Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
 
-1.  [1](http://www.666ccc.com/special/7102/15190.htm)
-2.  [2](http://mojim.com/tw102397x1.htm)
+1.
+2.  [1](http://mojim.com/tw102397x1.htm)

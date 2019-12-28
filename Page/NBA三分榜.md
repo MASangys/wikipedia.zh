@@ -53,10 +53,10 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/斯蒂芬·库里" title="wikilink">斯蒂芬·柯瑞</a>^</p></td>
 <td><p>控球後衛</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
-<td><p>2483</p></td>
-<td><p>5690</p></td>
+<td><p>2492</p></td>
+<td><p>5727</p></td>
 <td><p>3.6</p></td>
-<td><p>.436</p></td>
+<td><p>.435</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -68,10 +68,10 @@
 <a href="../Page/芝加哥公牛.md" title="wikilink">芝加哥公牛</a><br />
 <a href="../Page/亚特兰大老鹰.md" title="wikilink">亚特兰大老鹰</a><br />
 <a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a></p></td>
-<td><p>2351</p></td>
-<td><p>5478</p></td>
+<td><p>2381</p></td>
+<td><p>5561</p></td>
 <td><p>2.0</p></td>
-<td><p>.429</p></td>
+<td><p>.428</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -97,10 +97,10 @@
 <a href="https://zh.wikipedia.org/wiki/曼菲斯灰熊" title="wikilink">曼菲斯灰熊</a><br />
 <a href="https://zh.wikipedia.org/wiki/萨克拉门托国王" title="wikilink">萨克拉门托国王</a><br />
 <a href="https://zh.wikipedia.org/wiki/亞特蘭大老鷹" title="wikilink">亞特蘭大老鷹</a></p></td>
-<td><p>2229</p></td>
-<td><p>5966</p></td>
+<td><p>2252</p></td>
+<td><p>6045</p></td>
 <td><p>1.5</p></td>
-<td><p>.374</p></td>
+<td><p>.373</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -119,19 +119,19 @@
 <td><p>6377</p></td>
 <td><p>1.7</p></td>
 <td><p>.348</p></td>
-<td><p>|-5</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>9</p></td>
+<td><p>8</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/詹姆斯·哈登" title="wikilink">詹姆斯·哈登</a>^</p></td>
 <td><p>得分後衛</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/俄克拉荷马雷霆" title="wikilink">俄克拉荷马雷霆</a><br />
 <a href="https://zh.wikipedia.org/wiki/休斯顿火箭" title="wikilink">休斯顿火箭</a></p></td>
-<td><p>2025</p></td>
-<td><p>5551</p></td>
-<td><p>2.6</p></td>
+<td><p>2152</p></td>
+<td><p>5901</p></td>
+<td><p>2.7</p></td>
 <td><p>.365</p></td>
-<td></td>
+<td><p>|- 5</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
@@ -226,6 +226,33 @@
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
+<td><p><a href="../Page/J·J·雷迪克.md" title="wikilink">J·J·雷迪克</a>^</p></td>
+<td><p>得分後衛</p></td>
+<td><p><a href="../Page/奥兰多魔术.md" title="wikilink">奥兰多魔术</a><br />
+<a href="../Page/密尔沃基雄鹿.md" title="wikilink">密尔沃基雄鹿</a><br />
+<a href="../Page/洛杉矶快船.md" title="wikilink">洛杉矶快船</a><br />
+<a href="../Page/费城76人.md" title="wikilink">费城76人</a></p></td>
+<td><p>1785</p></td>
+<td><p>4308</p></td>
+<td><p>2.1</p></td>
+<td><p>.414</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>19</p></td>
+<td><p><a href="../Page/勒布朗·詹姆斯.md" title="wikilink">勒布朗·詹姆斯</a>^</p></td>
+<td><p>小前鋒/ 大前鋒/ 得分後衛</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/迈阿密热" title="wikilink">迈阿密热</a><br />
+<a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a><br />
+<a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a></p></td>
+<td><p>1780</p></td>
+<td><p>5177</p></td>
+<td><p>1.5</p></td>
+<td><p>.344</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>20</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/佩贾·斯托贾科维奇" title="wikilink">佩贾·斯托贾科维奇</a></p></td>
 <td><p>小前鋒</p></td>
 <td></td>
@@ -236,20 +263,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>19</p></td>
-<td><p><a href="../Page/勒布朗·詹姆斯.md" title="wikilink">勒布朗·詹姆斯</a>^</p></td>
-<td><p>小前鋒/ 大前鋒/ 得分後衛</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/迈阿密热" title="wikilink">迈阿密热</a><br />
-<a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a><br />
-<a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a></p></td>
-<td><p>1727</p></td>
-<td><p>5028</p></td>
-<td><p>1.4</p></td>
-<td><p>.343</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>20</p></td>
+<td><p>21</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/达勒·艾利斯" title="wikilink">达勒·艾利斯</a></p></td>
 <td><p>小前鋒/ 得分後衛</p></td>
 <td></td>
@@ -257,20 +271,6 @@
 <td><p>4266</p></td>
 <td><p>1.4</p></td>
 <td><p>.403</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>21</p></td>
-<td><p><a href="../Page/J·J·雷迪克.md" title="wikilink">J·J·雷迪克</a>^</p></td>
-<td><p>得分後衛</p></td>
-<td><p><a href="../Page/奥兰多魔术.md" title="wikilink">奥兰多魔术</a><br />
-<a href="../Page/密尔沃基雄鹿.md" title="wikilink">密尔沃基雄鹿</a><br />
-<a href="../Page/洛杉矶快船.md" title="wikilink">洛杉矶快船</a><br />
-<a href="../Page/费城76人.md" title="wikilink">费城76人</a></p></td>
-<td><p>1704</p></td>
-<td><p>4129</p></td>
-<td><p>2.0</p></td>
-<td><p>.413</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -297,6 +297,19 @@
 </tr>
 <tr class="odd">
 <td><p>24</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韦斯利·马修斯" title="wikilink">韦斯利·马修斯</a>^</p></td>
+<td><p>得分後衛</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/犹他爵士" title="wikilink">犹他爵士</a><br />
+<a href="../Page/波特兰开拓者.md" title="wikilink">波特兰开拓者</a><br />
+<a href="https://zh.wikipedia.org/wiki/达拉斯小牛" title="wikilink">达拉斯小牛</a></p></td>
+<td><p>1598</p></td>
+<td><p>4181</p></td>
+<td><p>2.1</p></td>
+<td><p>.382</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>25</p></td>
 <td><p><a href="../Page/迈克·米勒.md" title="wikilink">迈克·米勒</a></p></td>
 <td><p>小前鋒/ 得分後衛</p></td>
 <td></td>
@@ -306,8 +319,19 @@
 <td><p>.407</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>26</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/达米恩·利拉德" title="wikilink">达米恩·利拉德</a></p></td>
+<td></td>
+<td><p><a href="../Page/波特兰开拓者.md" title="wikilink">波特兰开拓者</a></p></td>
+<td><p>1585</p></td>
+<td><p>4308</p></td>
+<td><p>2.8</p></td>
+<td><p>.368</p></td>
+<td></td>
+</tr>
 <tr class="even">
-<td><p>25</p></td>
+<td><p>27</p></td>
 <td><p><a href="../Page/凯文·杜兰特.md" title="wikilink">凯文·杜兰特</a>^</p></td>
 <td><p>小前鋒</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/俄克拉荷马雷霆" title="wikilink">俄克拉荷马雷霆</a><br />
@@ -319,7 +343,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>26</p></td>
+<td><p>28</p></td>
 <td><p><a href="../Page/格伦·莱斯.md" title="wikilink">格伦·莱斯</a></p></td>
 <td><p>小前鋒</p></td>
 <td></td>
@@ -330,20 +354,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>27</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/韦斯利·马修斯" title="wikilink">韦斯利·马修斯</a>^</p></td>
-<td><p>得分後衛</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/犹他爵士" title="wikilink">犹他爵士</a><br />
-<a href="../Page/波特兰开拓者.md" title="wikilink">波特兰开拓者</a><br />
-<a href="https://zh.wikipedia.org/wiki/达拉斯小牛" title="wikilink">达拉斯小牛</a></p></td>
-<td><p>1555</p></td>
-<td><p>4070</p></td>
-<td><p>2.1</p></td>
-<td><p>.382</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>28</p></td>
+<td><p>29</p></td>
 <td><p><a href="../Page/埃迪·琼斯.md" title="wikilink">埃迪·琼斯</a></p></td>
 <td><p>小前鋒/ 得分後衛</p></td>
 <td></td>
@@ -353,8 +364,8 @@
 <td><p>.373</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>29</p></td>
+<tr class="odd">
+<td><p>30</p></td>
 <td><p><a href="../Page/蒂姆·哈达威.md" title="wikilink">蒂姆·哈达威</a>†</p></td>
 <td><p>控球後衛</p></td>
 <td></td>
@@ -364,8 +375,8 @@
 <td><p>.355</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>30</p></td>
+<tr class="even">
+<td><p>31</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/凯尔·洛瑞" title="wikilink">凯尔·洛瑞</a>^</p></td>
 <td><p>控球後衛</p></td>
 <td><p><a href="../Page/孟菲斯灰熊.md" title="wikilink">孟菲斯灰熊</a><br />
@@ -377,8 +388,8 @@
 <td><p>.367</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>31</p></td>
+<tr class="odd">
+<td><p>32</p></td>
 <td><p><a href="../Page/尼克·范埃克塞尔.md" title="wikilink">尼克·范埃克塞尔</a></p></td>
 <td><p>控球後衛/ 得分後衛</p></td>
 <td></td>
@@ -388,8 +399,8 @@
 <td><p>.357</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>32</p></td>
+<tr class="even">
+<td><p>33</p></td>
 <td><p><a href="../Page/迈克·毕比.md" title="wikilink">迈克·毕比</a></p></td>
 <td><p>控球後衛</p></td>
 <td></td>
@@ -399,19 +410,20 @@
 <td><p>.379</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>33</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/达米恩·利拉德" title="wikilink">达米恩·利拉德</a></p></td>
-<td></td>
-<td><p><a href="../Page/波特兰开拓者.md" title="wikilink">波特兰开拓者</a></p></td>
-<td><p>1506</p></td>
-<td><p>4090</p></td>
-<td><p>2.7</p></td>
-<td><p>.368</p></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td><p>34</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/保羅·喬治" title="wikilink">保羅·喬治</a></p></td>
+<td><p>小前鋒/ /得分後衛</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/印第安納溜馬" title="wikilink">印第安納溜馬</a><br />
+<a href="https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆" title="wikilink">奧克拉荷馬雷霆</a></p></td>
+<td><p>1498</p></td>
+<td><p>3954</p></td>
+<td><p>2.4</p></td>
+<td><p>.379</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>35</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/马努·吉诺比利" title="wikilink">马努·吉诺比利</a>†</p></td>
 <td><p>得分後衛</p></td>
 <td></td>
@@ -421,8 +433,8 @@
 <td><p>.368</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>35</p></td>
+<tr class="odd">
+<td><p>36</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/特雷沃·阿里扎" title="wikilink">特雷沃·阿里扎</a>^</p></td>
 <td><p>小前鋒</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/纽约尼克斯" title="wikilink">纽约尼克斯</a><br />
@@ -437,8 +449,8 @@
 <td><p>.351</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>36</p></td>
+<tr class="even">
+<td><p>37</p></td>
 <td><p><a href="../Page/埃里克·戈登.md" title="wikilink">埃里克·戈登</a></p></td>
 <td><p>得分後衛</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯快艇" title="wikilink">洛杉磯快艇</a><br />
@@ -450,8 +462,8 @@
 <td><p>.374</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>37</p></td>
+<tr class="odd">
+<td><p>38</p></td>
 <td><p><a href="../Page/迈克尔·芬利.md" title="wikilink">迈克尔·芬利</a></p></td>
 <td><p>小前鋒/ 得分後衛</p></td>
 <td></td>
@@ -459,18 +471,6 @@
 <td><p>3880</p></td>
 <td><p>1.3</p></td>
 <td><p>.375</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>38</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/保羅·喬治" title="wikilink">保羅·喬治</a></p></td>
-<td><p>小前鋒/ /得分後衛</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/印第安納溜馬" title="wikilink">印第安納溜馬</a><br />
-<a href="https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆" title="wikilink">奧克拉荷馬雷霆</a></p></td>
-<td><p>1433</p></td>
-<td><p>3791</p></td>
-<td><p>2.4</p></td>
-<td><p>.378</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -502,14 +502,25 @@
 <td><p><a href="../Page/丹佛掘金.md" title="wikilink">丹佛掘金</a><br />
 <a href="https://zh.wikipedia.org/wiki/纽约尼克斯" title="wikilink">纽约尼克斯</a><br />
 <a href="https://zh.wikipedia.org/wiki/俄克拉荷马雷霆" title="wikilink">俄克拉荷马雷霆</a></p></td>
-<td><p>1362</p></td>
-<td><p>3925</p></td>
+<td><p>1381</p></td>
+<td><p>3973</p></td>
 <td><p>1.3</p></td>
-<td><p>.347</p></td>
+<td><p>.348</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>42</p></td>
+<td><p><a href="../Page/肯巴·沃克.md" title="wikilink">肯巴·沃克</a></p></td>
+<td><p>控球後衛</p></td>
+<td></td>
+<td><p>1370</p></td>
+<td><p>3803</p></td>
+<td><p>2.2</p></td>
+<td><p>.360</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>43</p></td>
 <td><p><a href="../Page/丹·马尔利.md" title="wikilink">丹·马尔利</a></p></td>
 <td><p>小前鋒/ 得分後衛</p></td>
 <td></td>
@@ -519,8 +530,8 @@
 <td><p>.358</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>43</p></td>
+<tr class="odd">
+<td><p>44</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/拜伦·戴维斯" title="wikilink">拜伦·戴维斯</a></p></td>
 <td><p>控球後衛</p></td>
 <td></td>
@@ -530,8 +541,8 @@
 <td><p>.320</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>44</p></td>
+<tr class="even">
+<td><p>45</p></td>
 <td><p><a href="../Page/米奇·里奇蒙德.md" title="wikilink">米奇·里奇蒙德</a>*</p></td>
 <td><p>得分後衛</p></td>
 <td></td>
@@ -541,8 +552,8 @@
 <td><p>.388</p></td>
 <td><p>2014</p></td>
 </tr>
-<tr class="even">
-<td><p>45</p></td>
+<tr class="odd">
+<td><p>46</p></td>
 <td><p><a href="../Page/莱恩·安德森.md" title="wikilink">莱恩·安德森</a>^</p></td>
 <td><p>大前鋒</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新泽西网" title="wikilink">新泽西网</a><br />
@@ -555,8 +566,8 @@
 <td><p>.380</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>46</p></td>
+<tr class="even">
+<td><p>47</p></td>
 <td><p><a href="../Page/阿兰·休斯顿.md" title="wikilink">阿兰·休斯顿</a></p></td>
 <td><p>得分後衛</p></td>
 <td></td>
@@ -566,8 +577,8 @@
 <td><p>.402</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>47</p></td>
+<tr class="odd">
+<td><p>48</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/迈克·邓利维" title="wikilink">迈克·邓利维</a></p></td>
 <td><p>小前鋒/ 大前鋒/ 得分後衛</p></td>
 <td></td>
@@ -577,8 +588,8 @@
 <td><p>.377</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>48</p></td>
+<tr class="even">
+<td><p>49</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/泰瑞·波特" title="wikilink">泰瑞·波特</a></p></td>
 <td><p>控球後衛</p></td>
 <td></td>
@@ -586,17 +597,6 @@
 <td><p>3360</p></td>
 <td><p>1.0</p></td>
 <td><p>.386</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>49</p></td>
-<td><p><a href="../Page/肯巴·沃克.md" title="wikilink">肯巴·沃克</a></p></td>
-<td><p>控球後衛</p></td>
-<td></td>
-<td><p>1283</p></td>
-<td><p>3589</p></td>
-<td><p>2.1</p></td>
-<td><p>.357</p></td>
 <td></td>
 </tr>
 <tr class="odd">

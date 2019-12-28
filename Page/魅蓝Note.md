@@ -8,4 +8,4 @@
 
 [Category:2014年面世的手机](https://zh.wikipedia.org/wiki/Category:2014年面世的手机 "wikilink") [Category:多點觸控](https://zh.wikipedia.org/wiki/Category:多點觸控 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:魅族科技手機](https://zh.wikipedia.org/wiki/Category:魅族科技手機 "wikilink")
 
-1.  <http://www.meizu.com/products/meilannote/fun.html> 魅蓝Note官方網頁
+1.  <http://www.meizu.com/products/meilannote/fun.html>  魅蓝Note官方網頁

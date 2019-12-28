@@ -320,7 +320,7 @@
 </tr>
 <tr class="even">
 <td><p>卡爾·維克斯</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/薩曼莎·喬" title="wikilink">薩曼莎·喬</a>[33]</p></td>
+<td><p><a href="../Page/薩曼莎·喬.md" title="wikilink">薩曼莎·喬</a>[33]</p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>
@@ -1043,7 +1043,7 @@
 <tr class="odd">
 <td></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/薩曼莎·喬" title="wikilink">薩曼莎·喬</a>[125]</p></td>
+<td><p><a href="../Page/薩曼莎·喬.md" title="wikilink">薩曼莎·喬</a>[125]</p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>

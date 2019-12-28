@@ -204,7 +204,7 @@
 </tr>
 <tr class="even">
 <td><p>MediaWiki</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/RationalWiki" title="wikilink">RationalWiki</a></p></td>
 <td><p>在線百科全書</p></td>
 <td><p>CC BY-SA 3.0</p></td>
 <td><p>[24]</p></td>

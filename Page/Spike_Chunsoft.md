@@ -316,7 +316,7 @@ Windows</p></td>
 <td><p>由萬代南夢宮娛樂發行</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/AI:_夢境檔案" title="wikilink">AI: 夢境檔案</a><br />
+<td><p><a href="../Page/AI:_夢境檔案.md" title="wikilink">AI: 夢境檔案</a><br />
 <br />
 </p></td>
 <td><p>2019年9月18日</p></td>

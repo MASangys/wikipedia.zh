@@ -181,7 +181,7 @@
 
   - [最高裁判所廳舍](https://zh.wikipedia.org/wiki/最高裁判所_\(日本\) "wikilink")
 
-  - [京都站大廈](https://zh.wikipedia.org/wiki/京都站 "wikilink")
+  - [京都站](../Page/京都站.md "wikilink")大廈
 
   - [岩見澤複合站舍](https://zh.wikipedia.org/wiki/岩見澤站 "wikilink")
 

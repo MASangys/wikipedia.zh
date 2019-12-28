@@ -203,7 +203,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/梁少霞" title="wikilink">梁少霞</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/姜澯熙" title="wikilink">姜澯熙</a></p></td>
+<td><p><a href="../Page/姜澯熙.md" title="wikilink">姜澯熙</a></p></td>
 <td><p>朴善宇</p></td>
 <td><p>朴海英的哥哥。被金範周/金範洙所殺</p></td>
 <td><p><a href="../Page/鄧港文.md" title="wikilink">鄧港文</a></p></td>

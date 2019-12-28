@@ -42,19 +42,13 @@
 
 2019年2月，Chen为电视剧《[觸及真心](../Page/觸及真心.md "wikilink")》演唱OST《Make It Count》。\[13\]。
 
-3月8日，SM娱乐证实Chen即将于4月推出Solo专辑，成为EXO裡继[Lay后的第二位Solo成員](../Page/張藝興.md "wikilink")。\[14\]。
+3月8日，SM娱乐证实Chen即将于4月推出Solo专辑，成为EXO裡继[Lay后的第二位Solo成員](../Page/張藝興.md "wikilink")。\[14\]。4月1日，Chen推出首张Solo专辑，亦是迷你一辑《April, and a flower》，MV於4月1日零时公開，所有音源于当天下午六时发行。专辑不仅拿下33国的 iTunes 综合专辑榜冠軍，主打歌也袭捲了國內音源网站、中国的 QQ 音乐、酷狗音乐等的即时榜首。此外，专辑在 Synarra Record、HOTTRACKS等韩国各大唱片行的销量榜上均拿下了单周第一名\[15\]。Chen在专辑发行当天於首尔江南区举办了《April, and a flower》发售纪念Showcase，並邀请了成員[Xiumin](../Page/Xiumin.md "wikilink")担任Showcase主持人\[16\]。
 
-4月1日，Chen推出首张Solo专辑，亦是迷你一辑《April, and a flower》，MV於4月1日零时公開，所有音源于当天下午六时发行。专辑不仅拿下33国的 iTunes 综合专辑榜冠軍，主打歌也袭捲了國內音源网站、中国的 QQ 音乐、酷狗音乐等的即时榜首。此外，专辑在 Synarra Record、HOTTRACKS等韩国各大唱片行的销量榜上均拿下了单周第一名\[15\]。Chen在专辑发行当天於首尔江南区举办了《April, and a flower》发售纪念Showcase，並邀请了成員[Xiumin](../Page/Xiumin.md "wikilink")担任Showcase主持人\[16\]。
+6月，Chen为JTBC剧集《[辅佐官－改变世界的人們](../Page/輔佐官–改變世界的人們.md "wikilink")》演唱OST《Rainfall》\[17\]。这是Chen演唱OST的第十首歌。同月25日，Chen荣幸与[Ailee合作演唱的](https://zh.wikipedia.org/wiki/Ailee "wikilink")《Love》音源正式发行。\[18\]。
 
-6月，Chen为JTBC剧集《[辅佐官－改变世界的人們](../Page/輔佐官–改變世界的人們.md "wikilink")》演唱OST《Rainfall》\[17\]。这是Chen演唱OST的第十首歌。
+8月29日，SM娱乐透露Chen将在10月携第二张solo专辑回归歌坛\[19\]。9月11日，SM娱乐正式宣佈Chen将于10月1日发行第二张迷你二辑《致亲爱的你（Dear My Dear）》回归秋季歌谣界\[20\]。10月1日，Chen第二張迷你专辑《Dear My Dear》正式發行，专辑在香港、台湾、泰国、新加坡、越南、印度、柬埔寨、匈牙利、法国、芬兰、荷兰、挪威、沙烏地阿拉伯、埃及、巴西、智利等36個国家的iTunes专辑榜上勇夺冠军。此外，专辑在韓国国內的 Hanteo Chart、Synarra Record 等唱片销量榜上亦拿下了冠軍。该專輯的主打歌《Shall we?》在NAVER Music上午的即时榜上也成功夺冠\[21\]。Chen在《Dear My Dear》专辑发行当天举办了专辑发售纪念Showcase，並邀请了成員[世勋担任Showcase主持人](../Page/Sehun.md "wikilink")\[22\]。
 
-25日，Chen荣幸与[Ailee合作演唱的](https://zh.wikipedia.org/wiki/Ailee "wikilink")《Love》音源正式发行。\[18\]。
-
-8月29日，SM娱乐透露Chen将在10月携第二张solo专辑回归歌坛\[19\]。
-
-9月11日，SM娱乐正式宣佈Chen将于10月1日发行第二张迷你二辑《致亲爱的你（Dear My Dear）》回归秋季歌谣界\[20\]。
-
-10月1日，Chen第二張迷你专辑《Dear My Dear》正式發行，专辑在香港、台湾、泰国、新加坡、越南、印度、柬埔寨、匈牙利、法国、芬兰、荷兰、挪威、沙烏地阿拉伯、埃及、巴西、智利等36個国家的iTunes专辑榜上勇夺冠军。此外，专辑在韓国国內的 Hanteo Chart、Synarra Record 等唱片销量榜上亦拿下了冠軍。该專輯的主打歌《Shall we?》在NAVER Music上午的即时榜上也成功夺冠\[21\]。Chen在《Dear My Dear》专辑发行当天举办了专辑发售纪念Showcase，並邀请了成員[世勋担任Showcase主持人](../Page/Sehun.md "wikilink")\[22\]。
+12月18日，Chen於2020 Korea First Brand Awards中獲得大賞“男歌手獎”。\[23\]
 
 ## 音樂作品
 
@@ -73,7 +67,7 @@
 <ul>
 <li>發行日期：2019年4月1日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：210,189+[23]</li>
+<li>專輯銷量：210,189+[24]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -83,7 +77,7 @@
 <ul>
 <li>發行日期：2019年10月1日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：158,200+[24]</li>
+<li>專輯銷量：158,200+[25]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -201,7 +195,7 @@
 </tr>
 <tr class="odd">
 <td><p>2014年7月23日</p></td>
-<td><p>《<a href="../Page/沒關係，是愛情啊.md" title="wikilink">沒關係，是愛情啊</a>OST Part.1》</p></td>
+<td><p>《<a href="../Page/沒關係，是愛情啊.md" title="wikilink">沒關係，是愛情啊</a>》</p></td>
 <td><p>最佳的幸運（Best Luck）</p></td>
 <td></td>
 </tr>
@@ -237,7 +231,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018年10月16日</p></td>
-<td><p>《<a href="../Page/百日的郎君.md" title="wikilink">百日的郎君</a>》[25]</p></td>
+<td><p>《<a href="../Page/百日的郎君.md" title="wikilink">百日的郎君</a>》[26]</p></td>
 <td><p>櫻花戀歌（Cherry Blossom Love Song）</p></td>
 <td></td>
 </tr>
@@ -251,6 +245,12 @@
 <td><p>2019年6月14日</p></td>
 <td><p>《<a href="../Page/輔佐官–改變世界的人們.md" title="wikilink">輔佐官–改變世界的人們</a>》</p></td>
 <td><p>Rainfall</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年12月19日</p></td>
+<td><p>《Heart 4 U》</p></td>
+<td><p>Beautiful</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -282,10 +282,10 @@
 
 ### 專屬節目
 
-|       |          |                 |                     |
-| ----- | -------- | --------------- | ------------------- |
-| 年份    | 日期       | 電視臺             | 節目名稱                |
-| 2019年 | 10月28日 - | Naver TV、V LIVE | 《Heart 4 U (Chen篇)》 |
+|       |                 |                 |                     |
+| ----- | --------------- | --------------- | ------------------- |
+| 年份    | 日期              | 電視臺             | 節目名稱                |
+| 2019年 | 10月28日 - 11月29日 | Naver TV、V LIVE | 《Heart 4 U (Chen篇)》 |
 
 ### 固定綜藝
 
@@ -537,7 +537,7 @@
 <td><p>4月10日</p></td>
 <td><p>MBC</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star" title="wikilink">黃金漁場 Radio Star</a>》</p></td>
-<td><p>[26]</p></td>
+<td><p>[27]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月13日</p></td>
@@ -599,6 +599,7 @@
 | 2019年4月1日   | Beautiful goodbye                  | Chen                                                                    | 《April, and a flower》                                   |
 | 2019年5月13日  | May We Bye                         | Chen & 林韓星                                                              |                                                         |
 | 2019年10月1日  | 우리 어떻게 할까요（Shall We？）              | Chen                                                                    | 《Dear My Dear》                                          |
+| 2019年12月19日 | Beautiful                          | 《Heart 4 U》OST                                                          |                                                         |
 
 ## 影音作品
 
@@ -608,10 +609,10 @@
 | --------- | ------- | --------------------------------------------------------------------------------------------------------------- |
 | 期數        | 雜誌名稱    | 備注                                                                                                              |
 | 2014年9月刊  | Nylon   |                                                                                                                 |
-| 2015年8月刊  | star1   | 與[Baekhyun](../Page/伯賢.md "wikilink")、Suho\[27\]                                                                |
-| 2015年12月刊 | Vogue   | 與[Suho](../Page/Suho.md "wikilink")、[Kai](../Page/Kai.md "wikilink")、[Sehun](../Page/Sehun.md "wikilink")\[28\] |
-| 2016年10月刊 | Vivi    | 日本雜誌\[29\]                                                                                                      |
-| 2017年3月刊  | Singles | 封面\[30\]                                                                                                        |
+| 2015年8月刊  | star1   | 與[Baekhyun](../Page/伯賢.md "wikilink")、Suho\[28\]                                                                |
+| 2015年12月刊 | Vogue   | 與[Suho](../Page/Suho.md "wikilink")、[Kai](../Page/Kai.md "wikilink")、[Sehun](../Page/Sehun.md "wikilink")\[29\] |
+| 2016年10月刊 | Vivi    | 日本雜誌\[30\]                                                                                                      |
+| 2017年3月刊  | Singles | 封面\[31\]                                                                                                        |
 | 2019年6月刊  | Star1   | 封面                                                                                                              |
 
 ## 演唱會
@@ -632,12 +633,13 @@
 
 ### 個人參加的演唱會
 
-|            |                              |                                                                 |
-| ---------- | ---------------------------- | --------------------------------------------------------------- |
-| 日期         | 演唱會名稱                        | 舉行地點                                                            |
-| 2015年9月4日  | 2015 Grand韓流節                | 首爾奧林匹克主競技場                                                      |
-| 2019年6月30日 | SM THE STATION演唱會            | Olympic Hall                                                    |
-| 2019年10月6日 | SBS Super Concert in Incheon | [釜山亞運會主體育場](https://zh.wikipedia.org/wiki/釜山亞運會主體育場 "wikilink") |
+|            |                                  |                                                                 |
+| ---------- | -------------------------------- | --------------------------------------------------------------- |
+| 日期         | 演唱會名稱                            | 舉行地點                                                            |
+| 2015年9月4日  | 2015 Grand韓流節                    | 首爾奧林匹克主競技場                                                      |
+| 2019年5月19日 | KPop Entertaining Music Festival | 台北南港展覽館                                                         |
+| 2019年6月30日 | SM THE STATION演唱會                | Olympic Hall                                                    |
+| 2019年10月6日 | SBS Super Concert in Incheon     | [釜山亞運會主體育場](https://zh.wikipedia.org/wiki/釜山亞運會主體育場 "wikilink") |
 
 ## 獎項與榮譽
 
@@ -672,7 +674,7 @@
 <td><p>2017年</p></td>
 <td><p>第19屆<a href="../Page/Mnet亞洲音樂大獎.md" title="wikilink">Mnet亞洲音樂大獎</a></p></td>
 <td><p>最佳合作表演獎</p></td>
-<td><p>《nosedive》（與<a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>）</p></td>
+<td><p>《Nosedive》（與<a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -693,7 +695,7 @@
 <td><p>Annual Soompi Awards</p></td>
 <td><p>最佳OST</p></td>
 <td><p>《For You》</p></td>
-<td><p>[31]</p></td>
+<td><p>[32]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -712,7 +714,7 @@
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
-<td><p><a href="../Page/M2_X_Genie音樂獎.md" title="wikilink">M2 X Genie音樂獎</a>[32]</p></td>
+<td><p><a href="../Page/M2_X_Genie音樂獎.md" title="wikilink">M2 X Genie音樂獎</a>[33]</p></td>
 <td><p>最佳男藝人獎</p></td>
 <td><p>Chen</p></td>
 <td></td>
@@ -738,6 +740,48 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2020 Korea First Brand Awards</p></td>
+<td><p>男歌手獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020年</p></td>
+<td><p>第34屆<a href="https://zh.wikipedia.org/wiki/金唱片獎" title="wikilink">金唱片獎</a></p></td>
+<td><p>音源部門</p></td>
+<td><p>《Beautiful Goodbye》</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>專輯部門</p></td>
+<td><p>《April, and a flower》</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第29屆<a href="https://zh.wikipedia.org/wiki/首爾歌謠大賞" title="wikilink">首爾歌謠大賞</a></p></td>
+<td><p>本賞</p></td>
+<td><p>《April, and a flower》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>人氣賞</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>韓流特別賞</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -752,7 +796,7 @@
 <tr class="even">
 <td><p>2016</p></td>
 <td><ul>
-<li>K-Pop一百張最帥面孔 第63名[33]</li>
+<li>K-Pop一百張最帥面孔 第63名[34]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -847,9 +891,9 @@
 20.
 21.
 22.
-23. [2019.04](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2019&termGbn=month)
-24. [2019.10](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=10&hitYear=2019&termGbn=month)
-25.
+23.
+24. [2019.04](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2019&termGbn=month)
+25. [2019.10](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=10&hitYear=2019&termGbn=month)
 26.
 27.
 28.
@@ -858,3 +902,4 @@
 31.
 32.
 33.
+34.

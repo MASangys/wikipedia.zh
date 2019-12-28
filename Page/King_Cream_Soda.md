@@ -213,4 +213,4 @@
 4.  [第56屆日本唱片大賞得獎紀錄。](http://www.tbs.co.jp/recordaward/)
 5.  [「妖怪ウォッチ」のDream5、紅白出場決定に歓喜……「夢が叶った」。](http://headlines.yahoo.co.jp/hl?a=20141126-00000034-rbb-ent) 日本雅虎新聞（轉載RBB News），2014年11月26日。
 6.  [日本 Oricon 2014年度全年單曲銷售榜排名。](http://www.oricon.co.jp/rank/js/y/2014/p/5/)
-7.  [非官方日本 Oricon 2014年度全年單曲銷售榜排名（連銷售量）。](http://entamedata.web.fc2.com/music/music2014.html)
+7.

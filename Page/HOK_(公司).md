@@ -25,7 +25,7 @@ HOK於1955年成立於聖路易斯，原名“Hellmuth, Obata + Kassabaum”為�
 ## 外部連結
 
   - [Official website](http://www.hok.com/)
-  - [Life at HOK blog](http://www.hoklife.com/)
+  - [Life at HOK blog](https://web.archive.org/web/20141024092929/http://www.hoklife.com/)
   - [2013 Genius of Biome report](http://issuu.com/hoknetwork/docs/geniusofbiome?e=3095950/2547879)
 
 [Category:1955年成立的公司](https://zh.wikipedia.org/wiki/Category:1955年成立的公司 "wikilink") [Category:美國建築公司](https://zh.wikipedia.org/wiki/Category:美國建築公司 "wikilink")

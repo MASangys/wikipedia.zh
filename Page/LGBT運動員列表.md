@@ -1813,7 +1813,7 @@
 <td><p>L[167]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/格拉尔米·欧伯利" title="wikilink">格拉尔米·欧伯利</a></p></td>
+<td><p><a href="../Page/格拉尔米·欧伯利.md" title="wikilink">格拉尔米·欧伯利</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/自行車.md" title="wikilink">自行車</a></p></td>

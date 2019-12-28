@@ -323,7 +323,8 @@ STEM出創意顏色：</p></td>
 <td><p>Nic</p></td>
 <td><p>2015年7月27日</p></td>
 <td><p>2017年6月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/齊齊起動" title="wikilink">齊齊起動</a>（體適能）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/今日搞邊科" title="wikilink">今日搞邊科</a><br />
+<a href="https://zh.wikipedia.org/wiki/齊齊起動" title="wikilink">齊齊起動</a>（體適能）<br />
 <a href="https://zh.wikipedia.org/wiki/功夫之道" title="wikilink">功夫之道</a><br />
 <a href="https://zh.wikipedia.org/wiki/STEM出創意" title="wikilink">STEM出創意</a>（E）<br />
 <a href="https://zh.wikipedia.org/wiki/英語無難道" title="wikilink">英語無難道</a><br />
@@ -825,6 +826,7 @@ Think Big 腦力戰</p></td>
   - 10月8日：由於16:07-16:59插播《警方記者會》以直播警方見記者，前一節目《[網球Ace](../Page/Baby_Steps_~網球優等生~.md "wikilink")》第二節後半部份順延播出，當日順延至17:20-17:45播出。
   - 11月1日：由於16:00-16:47插播《警方記者會》以直播警方見記者，前一節目《網球Ace》第二節後半部份順延播出，當日順延至17:00-17:25播出。
   - 11月18日：由於16:00-16:50插播《警方記者會》以直播警方見記者，前一節目《[櫻桃小丸子](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")》第二節後半部份順延播出，當日順延至17:00-17:25播出。
+  - 12月19日：由於17:04-17:16直播《[澳門](../Page/澳門.md "wikilink")20周年[習近平訪澳](https://zh.wikipedia.org/wiki/習近平 "wikilink")》，當日改為至16:52-17:03及17:18-17:29播出。
 
 ## 註釋
 
@@ -833,7 +835,7 @@ Think Big 腦力戰</p></td>
   - [《Think Big天地》- 主頁 - tvb.com](http://programme.tvb.com/kids/kidsthinkbig20172/)
   - [《Think Big x Big Big KIDS》報名專頁](http://event.tvb.com/thinkbig/)
 
-[Category:香港兒童節目](https://zh.wikipedia.org/wiki/Category:香港兒童節目 "wikilink") [Category:無綫電視兒童節目](https://zh.wikipedia.org/wiki/Category:無綫電視兒童節目 "wikilink") [Category:2010年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年代無綫電視節目 "wikilink") [Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink") [Category:2016年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2016年無綫電視節目 "wikilink") [Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink") [Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink") [Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink")
+[Category:香港兒童節目](https://zh.wikipedia.org/wiki/Category:香港兒童節目 "wikilink") [Category:無綫電視兒童節目](https://zh.wikipedia.org/wiki/Category:無綫電視兒童節目 "wikilink") [Category:2010年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年代無綫電視節目 "wikilink") [Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink") [Category:2016年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2016年無綫電視節目 "wikilink") [Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink") [Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink") [Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink") [Category:2020年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2020年無綫電視節目 "wikilink")
 
 1.  \[<https://www.youtube.com/watch?v=yZPTL4BabrM>　Think Big宣傳片\]
 2.  [余德丞、林希靈、黃愷怡、李雯希及阮浩棕正式卸任《Think Big天地》節目主持人身份](https://www.facebook.com/permalink.php?story_fbid=1074486509362838&id=645789165565910&substory_index=0)

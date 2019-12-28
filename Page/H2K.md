@@ -90,5 +90,5 @@
 3.  [从00后F4到H2K 天娱“骑士少年”出道历程](http://ent.ifeng.com/a/20150119/42204321_0.shtml)
 4.  [H2K正式开闯娱乐圈 小鲜肉不怕“老男孩”](http://ent.huanqiu.com/music/yinle-neidi/2015-01/5481908.html)
 5.  [H2K小鲜肉组合出道单曲《骑士少年》全网发布](http://ent.hebnews.cn/2015-01/15/content_4472207.htm)
-6.  [《骑士少年》闯歌坛天娱推出H2K组合](http://news.163.com/15/0121/02/AGEV46O100014AED.html)
+6.
 7.  [H2K《骑士少年》官方MV](http://v.yinyuetai.com/video/2219928)

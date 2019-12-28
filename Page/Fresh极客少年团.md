@@ -42,7 +42,7 @@ fresh极客少年团是由黑金时尚文化传媒公司和多家互联网平台
 
 [Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink") [Category:华语流行音乐团体](https://zh.wikipedia.org/wiki/Category:华语流行音乐团体 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
 
-1.  [fresh极客少年团：做偶像就像升级打怪](http://ent.163.com/14/1201/17/ACD5SMAP00032DGD.html)
+1.
 2.  [尚雯婕打造fresh极客少年团](http://news.ifeng.com/a/20141115/42476114_0.shtml)
 3.  [fresh极客少年团《UP 4 U》国际团队打造](http://ent.sina.com.cn/y/yneidi/2014-12-12/doc-iawzunex6059944.shtml)
 4.  [fresh极客少年团成军四月出道 《UP 4 U》首播](http://www.qianhuaweb.com/content/2014-11/14/content_5368577.htm)
