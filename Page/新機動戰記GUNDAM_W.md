@@ -346,7 +346,7 @@ OZ為隸屬地球圈統一聯合的特務部隊，全名為「Organization of Zo
 <!-- end list -->
 
   - 「JUST COMMUNICATION」
-  - 主唱：[TWO-MIX](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")
+  - 主唱：[TWO-MIX](../Page/TWO-MIX.md "wikilink")
 
 <!-- end list -->
 
@@ -355,7 +355,7 @@ OZ為隸屬地球圈統一聯合的特務部隊，全名為「Organization of Zo
 <!-- end list -->
 
   - 「RHYTHM EMOTION」
-  - 主唱：[TWO-MIX](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")
+  - 主唱：[TWO-MIX](../Page/TWO-MIX.md "wikilink")
 
 <!-- end list -->
 

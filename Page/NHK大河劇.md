@@ -1129,7 +1129,7 @@
 <br />
 （Idaten～Tokyo Olympic Banashi～）</p></td>
 <td><p>2019年1月6日<br />
-2019年12月15日（預定）</p></td>
+2019年12月15日</p></td>
 <td><p><a href="../Page/宮藤官九郎.md" title="wikilink">宮藤官九郎</a></p></td>
 <td><p>宮藤官九郎</p></td>
 <td><p><a href="../Page/大友良英.md" title="wikilink">大友良英</a></p></td>

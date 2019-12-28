@@ -6,7 +6,7 @@ yacc是开发编译器的一个有用的工具，采用LALR（1）语法分析�
 
 yacc最初由[AT\&T](../Page/AT&T.md "wikilink")的[Steven C. Johnson为Unix操作系统开发](https://zh.wikipedia.org/wiki/Steven_C._Johnson "wikilink")，后来一些兼容的程序如Berkeley Yacc，[GNU bison](https://zh.wikipedia.org/wiki/GNU_bison "wikilink")，MKS yacc和Abraxas yacc陆续出现。它们都在原先基础上做了少许改进或者增加，但是基本概念是相同的。
 
-由于所产生的解析器需要[词法分析器配合](https://zh.wikipedia.org/wiki/词法分析器 "wikilink")，因此Yacc经常和词法分析器的产生器——一般就是[Lex](../Page/Lex.md "wikilink")——联合使用。[IEEE](https://zh.wikipedia.org/wiki/IEEE "wikilink") [POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink") P1003.2标准定义了Lex和Yacc的[功能](../Page/功能.md "wikilink")和[需求](https://zh.wikipedia.org/wiki/需求 "wikilink")。
+由于所产生的解析器需要[词法分析器配合](https://zh.wikipedia.org/wiki/词法分析器 "wikilink")，因此Yacc经常和词法分析器的产生器——一般就是[Lex](../Page/Lex.md "wikilink")——联合使用。[IEEE](https://zh.wikipedia.org/wiki/IEEE "wikilink") [POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink") P1003.2标准定义了Lex和Yacc的功能和需求。
 
 ## 参见
 

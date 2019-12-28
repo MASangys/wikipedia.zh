@@ -6,7 +6,7 @@
 
 阿诺尔德·约瑟夫·汤因比1889年生于英国[伦敦](../Page/伦敦.md "wikilink")，曾就读[温切斯特学院和](https://zh.wikipedia.org/wiki/温切斯特学院 "wikilink")[牛津大学贝利奥尔学院](../Page/牛津大学贝利奥尔学院.md "wikilink")，1911年毕业。其后加入[雅典考古学院成为研究生](https://zh.wikipedia.org/wiki/雅典考古学院 "wikilink")，并前往[希腊](../Page/希腊.md "wikilink")进行考古工作。回国后，成为母校的研究员，专门研究及教授[希腊](../Page/希腊.md "wikilink")和[罗马](../Page/罗马.md "wikilink")的古代史，并曾执教[伦敦国王学院](../Page/伦敦国王学院.md "wikilink")和[伦敦政治经济学院](https://zh.wikipedia.org/wiki/伦敦政治经济学院 "wikilink")。
 
-在[第一次世界大战](../Page/第一次世界大战.md "wikilink")期间，他供职于英国外交部政治情报厅，并于1919年以英国代表团成员身份参加[巴黎和会](https://zh.wikipedia.org/wiki/巴黎和会 "wikilink")。戰後，他成為倫敦大學希臘文與歷史學教授。1925年，受命為皇家國際事務研究所（Royal Institute of International Affairs）的研究教授兼所長，他任此職達三十年之久。1936年，[阿道夫·希特勒授予他帝国总理勋章](https://zh.wikipedia.org/wiki/阿道夫·希特勒 "wikilink")。[第二次世界大战](../Page/第二次世界大战.md "wikilink")期间，他再次为英国外交部工作，并参与了战后和谈。
+在[第一次世界大战](../Page/第一次世界大战.md "wikilink")期间，他供职于英国外交部政治情报厅，并于1919年以英国代表团成员身份参加[巴黎和会](https://zh.wikipedia.org/wiki/巴黎和会 "wikilink")。戰後，他成為倫敦大學希臘文與歷史學教授。1925年，受命為[皇家國際事務研究所的研究教授兼所長](https://zh.wikipedia.org/wiki/皇家國際事務研究所 "wikilink")，他任此職達三十年之久。1936年，[阿道夫·希特勒授予他帝国总理勋章](https://zh.wikipedia.org/wiki/阿道夫·希特勒 "wikilink")。[第二次世界大战](../Page/第二次世界大战.md "wikilink")期间，他再次为英国外交部工作，并参与了战后和谈。
 
 ## 學說
 

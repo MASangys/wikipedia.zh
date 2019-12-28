@@ -32,7 +32,7 @@ B9TL可選配多款車身，主要包括蘇格蘭[亞歷山大丹尼士](../Page
 
 於2002年引進B9TL的[九龍巴士](../Page/九龍巴士.md "wikilink")，不但是香港首家採用B9TL的巴士公司，也是三軸版B9TL在全球的啟用者。[城巴](../Page/城巴.md "wikilink")於2010年引入首輛B9TL，卻是兩軸版本。[新世界第一巴士](../Page/新世界第一巴士.md "wikilink")及母公司皆是[新創建集團](../Page/新創建集團.md "wikilink")的城巴於2014年購入三軸版的B9TL，包括首次引入11.3米的三軸版本。
 
-由於香港在1980年代初修訂法例，規定兩軸巴士的最高承重為16噸，所以此後香港新引進的雙層巴士都採用三軸底盤。隨著1990年代中期引入的[富豪奧林比安](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")10.4米、[丹尼士巨龍](https://zh.wikipedia.org/wiki/丹尼士巨龍 "wikilink")9.9米，都在2010年代逐漸屆退役車齡，香港的專營巴士公司都希望引進新型兩軸雙層巴士降低營運成本，尤其是香港的收費隧道及道路，都會按車軸數量增收附加費，兩軸雙層巴士也可用於客量較少，但單層巴士又不足應付的巴士路線。政府因應巴士公司的要求把兩軸雙層巴士的承載量放寬至18噸，其中尾軸獲准增加至11.5噸。九龍巴士和城巴分別各引入一輛作測試，唯引進過程並不順利，在香港檢驗時發現滿載下仍然超重，被[運輸署](../Page/運輸署.md "wikilink")拒絕發牌。為通過測試，兩軸版的B9TL需要拆除多達7個座位，把總重減輕後方能通過檢驗，載客量減少至85人，比同為兩軸的[亞歷山大丹尼士Enviro 400及](../Page/亞歷山大丹尼士Enviro_400.md "wikilink")[VDL DB300都要少](../Page/VDL_DB300.md "wikilink")，因此九龍巴士和城巴購入樣辦車後便沒有再增購。
+由於香港在1980年代初修訂法例，規定兩軸巴士的最高承重為16噸，所以此後香港新引進的雙層巴士都採用三軸底盤。隨著1990年代中期引入的[富豪奧林比安](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")10.4米、[丹尼士巨龍](https://zh.wikipedia.org/wiki/丹尼士巨龍 "wikilink")9.9米，都在2010年代逐漸屆退役車齡，香港的專營巴士公司都希望引進新型兩軸雙層巴士降低營運成本，尤其是香港的收費隧道及道路，都會按車軸數量增收附加費，兩軸雙層巴士也可用於客量較少，但單層巴士又不足應付的巴士路線。政府因應巴士公司的要求把兩軸雙層巴士的承載量放寬至18噸，其中尾軸獲准增加至11.5噸。九龍巴士和城巴分別各引入一輛作測試，唯引進過程並不順利，在香港檢驗時發現滿載下仍然超重，被[運輸署](../Page/運輸署.md "wikilink")拒絕發牌。為通過測試，兩軸版的B9TL需要拆除多達7個座位，把總重減輕後方能通過檢驗，載客量減少至85人，比同為兩軸的[Wright StreetDeck](../Page/Wright_StreetDeck.md "wikilink")、[亞歷山大丹尼士Enviro 400及](../Page/亞歷山大丹尼士Enviro_400.md "wikilink")[VDL DB300都要少](../Page/VDL_DB300.md "wikilink")，因此九龍巴士和城巴購入樣辦車後便沒有再增購。
 
 香港的九龍巴士及城巴都有購入B9TL的12.8米三軸版試用，但引進過程與B9TL的兩軸版本一樣不順利，九龍巴士的12.8米樣辦車在運輸署檢驗期間，進行傾斜測試時翻倒撞向測試斜板的護欄，導致車身受損，玻璃爆裂。經過代理商修復後成功通過驗車，但因為12.8米車身十分長，且本車型採用尾軸驅動，在轉向方面不及採用中軸作驅動軸的Enviro 500 MMC靈活，故香港再沒有12.8米版本訂單。
 
@@ -58,19 +58,19 @@ AVD1於同年12月21日前往澳洲。2005年8月，AVD1更換了符合歐盟四
 
 2005年底，九龍巴士增訂的88輛B9TL，其中38輛配Wright車身，車隊編號為AVBW27-64，另外50輛配[亞歷山大丹尼士Enviro 500](../Page/亞歷山大丹尼士Enviro_500.md "wikilink") Mk II車身。配Wright車身的巴士全數配用ZF 6HP592C波箱，其中10輛（AVBW41、48、51、55、59-64）配備Gorba電子顯示屏、使用Vogelsitze座椅及富士空調系統。在最後6部AVBW當中，除了AVBW61外，其餘5部採用了Ventura車門。
 
-現時所有AVBW都編配到沙田車廠、荔枝角車廠及九龍灣車廠。AVBW4、6、7於2012年改置新款凱倫自動報站系統作測試，並由荔枝角車廠轉至九龍灣車廠，期間AVBW6及7曾短暫調往屯門車廠進行測試，惟不久後被調回九龍灣車廠。為了節省耗油量，九龍巴士已陸續為波箱電腦加裝Topodyn節能程式。AVBW於2016年9月全數已更換LED光管照明。
+現時所有AVBW都編配到沙田車廠、荔枝角車廠及九龍灣車廠。AVBW4、6、7於2012年改置新款凱倫自動報站系統作測試，並由荔枝角車廠轉至九龍灣車廠，期間AVBW6及7曾短暫調往屯門車廠進行測試，惟不久後被調回九龍灣車廠。為了節省耗油量，九龍巴士已陸續為波箱電腦加裝Topodyn節能程式。AVBW於2016年9月全數已更換LED光管照明；2019年8月，九龍巴士陸續於AVBW車隊上安裝電子路線圖。
 
 ##### AVBE
 
 [KMB_MP8222_680X.jpg](https://zh.wikipedia.org/wiki/File:KMB_MP8222_680X.jpg "fig:KMB_MP8222_680X.jpg") [KMB_LU3721_112.jpg](https://zh.wikipedia.org/wiki/File:KMB_LU3721_112.jpg "fig:KMB_LU3721_112.jpg") 2005年底，[九龍巴士](../Page/九龍巴士.md "wikilink")訂購的88輛B9TL，其中38輛配Wright車身，另外50輛配[亞歷山大丹尼士Enviro 500車身](../Page/亞歷山大丹尼士Enviro_500.md "wikilink")，後者全數配備Hanover電子顯示屏。AVBE2-15、17、19-21、23、25配用D9A-300引擎及ZF 6HP592C波箱，AVBE16、18、22、24、26-51配用D9A-340引擎及Voith DIWA864.5D4波箱。\[1\]；AVBE39-40、42-51使用Vogelsitze座椅。
 
-2007年年中，[載通國際](../Page/載通國際.md "wikilink")再引入45輛B9TL，其中35輛提供給九龍巴士，全數配亞歷山大丹尼士Enviro 500車身及使用Gorba電子顯示屏，並在車尾冷氣槽位裝設了倒車閉路電視；AVBE52-66配用D9A-300引擎及ZF 6HP592C波箱，AVBE67-86則配用D9A-340引擎及Voith DIWA864.5D4波箱。座椅方面，而AVBE67-74、76、80、83-86使用Vogelsitze座椅，其餘則使用Lazzerini座椅。2014年5月，其中一部巴士（AVBE53）更換為輕量化的Lazzerini CityLight座椅\[2\]；全數AVBW及AVBE新車已於2006年6月2日至2008年3月26日正式出牌及投入服務。而這批B9TL（即AVBE52-86、701-709、401）亦是九龍巴士屯門裝嵌廠進行裝嵌車身的最後一批巴士（裝嵌廠現已改變為嘉士伯香港物流中心）。
+2007年年中，[載通國際](../Page/載通國際.md "wikilink")再引入45輛B9TL，其中35輛提供給九龍巴士，全數配亞歷山大丹尼士Enviro 500車身及使用Gorba電子顯示屏，並在車尾冷氣槽位裝設了倒車閉路電視；AVBE52-66配用D9A-300引擎及ZF 6HP592C波箱，AVBE67-86則配用D9A-340引擎及Voith DIWA864.5D4波箱。座椅方面，而AVBE67-74、76、80、83-86使用Vogelsitze座椅，其餘則使用Lazzerini座椅。2014年5月，其中一部巴士（AVBE53）更換為輕量化的Lazzerini CityLight座椅\[2\]；全數AVBW及AVBE新車已於2006年6月2日至2008年3月26日正式出牌及投入服務。而這批B9TL（即AVBE52-86、701-709、401）亦是九龍巴士屯門裝嵌廠進行裝嵌車身的最後一批巴士（裝嵌廠現已改變為嘉士伯香港物流中心，2016再度改變為維他奶香港物流中心）。
 
 AVBW27-64、AVBE2-13服役初期貼有「2006」字樣，AVBE14-21、23-66貼有「2007」字樣（雖然AVBE14-25在2007年投入服務，但左右車身前方曾經貼有「2006」字樣），而AVBE22、67-86則貼有「2008」字樣（AVBE22於2008年時為了配合廣告拍攝，故把原有的2007字樣改為2008）。所有字樣於開始服役兩年後陸續除下或被廣告覆蓋。
 
 配備歐盟三型引擎的B9TL現時主力行走[7](https://zh.wikipedia.org/wiki/九龍巴士7號線 "wikilink")、[8](https://zh.wikipedia.org/wiki/九龍巴士8號線 "wikilink")、[8A](https://zh.wikipedia.org/wiki/九龍巴士8A線 "wikilink")、[12](https://zh.wikipedia.org/wiki/九龍巴士12線 "wikilink")、[32M](https://zh.wikipedia.org/wiki/九龍巴士32M線 "wikilink")、[39A](https://zh.wikipedia.org/wiki/九龍巴士39A線 "wikilink")、[60M](../Page/九龍巴士60M線.md "wikilink")、[69M](https://zh.wikipedia.org/wiki/九龍巴士69M線 "wikilink")、[83K](https://zh.wikipedia.org/wiki/九龍巴士83K線 "wikilink")、[85](https://zh.wikipedia.org/wiki/九龍巴士85線 "wikilink")、[85A](https://zh.wikipedia.org/wiki/九龍巴士85A線 "wikilink")、[86](https://zh.wikipedia.org/wiki/九龍巴士86線 "wikilink")、[86K](https://zh.wikipedia.org/wiki/九龍巴士86K線 "wikilink")、[88K](https://zh.wikipedia.org/wiki/九龍巴士88K線 "wikilink")、[234A](https://zh.wikipedia.org/wiki/九龍巴士234A線 "wikilink")、[234B](https://zh.wikipedia.org/wiki/九龍巴士234B線 "wikilink")、[261](https://zh.wikipedia.org/wiki/九龍巴士261線 "wikilink")、[272K及](https://zh.wikipedia.org/wiki/九龍巴士272K線 "wikilink")[289K](https://zh.wikipedia.org/wiki/九龍巴士289K線 "wikilink")。其中的8輛巴士（AVBE33-38、41、54）均設有行李架，以方便乘客攜帶行李登車，這八輛車因應開辦新線而出現車源緊張而借調到龍運巴士；並於2017年8月正式歸還。
 
-為減低燃油消耗，九龍巴士將所有歐盟三型B9TL加裝節能程式，配ZF波箱的車輛已加裝Topodyn節能程式，而配用Voith波箱的B9TL則全部已加裝SensoTop節能程式。其中三輛Enviro 500車身的B9TL（AVBE55、60、64）於2017年2月原Gorba電子顯示屏換上Hanover 橙色LED電子顯示屏。AVBE於2016年9月全數更換LED光管照明；2019年10月，九龍巴士陸續於AVBE車隊上安裝動態顯示屏。
+為減低燃油消耗，九龍巴士將所有歐盟三型B9TL加裝節能程式，配ZF波箱的車輛已加裝Topodyn節能程式，而配用Voith波箱的B9TL則全部已加裝SensoTop節能程式。其中三輛Enviro 500車身的B9TL（AVBE55、60、64）於2017年2月原Gorba電子顯示屏換上Hanover 橙色LED電子顯示屏。AVBE於2016年9月全數更換LED光管照明；2019年10月，九龍巴士陸續於AVBE車隊上安裝電子路線圖。
 
 ##### AVBWU
 
@@ -93,7 +93,7 @@ AVBW27-64、AVBE2-13服役初期貼有「2006」字樣，AVBE14-21、23-66貼有
       - AVBWU113、114、116、124、127、129、131、133、135、137、139、140、143、145-154、156、157、159、161-166、168、174、177、178、182、184、185、189、192、196、203、221、223、224、226-228、231、233、235、236、238-240、269、274、281、282、284-287、289、290：鴻隆電子顯示屏
       - AVBWU64、69、118、120、121、132、134、141、142、200：Hanover2型電子顯示屏、車廂內設有額外的閉路電視鏡頭。
 
-AVBWU1-290於2016年9月全數更換全數更換LED光管照明。AVBWU270原Gorba綠色電子顯示屏於2017年12月更換鴻隆橙色LED電子顯示屏，不過故障率比Gorba綠色電子顯示屏更高，為人垢病；AVBWU201、222、245及262原有的Gorba綠色電子顯示屏因代理結業致無法修復，於2018年3月更換由退役[Neoplan Centroliner拆卸的Hanover電子顯示屏](../Page/Neoplan_Centroliner.md "wikilink")。
+AVBWU1-290於2016年9月全數更換全數更換LED光管照明；2019年10月，九龍巴士陸續於AVBWU1-290車隊上安裝電子路線圖。AVBWU270原Gorba綠色電子顯示屏於2017年12月更換鴻隆橙色LED電子顯示屏，不過故障率比Gorba綠色電子顯示屏更高，為人垢病；AVBWU201、222、245及262原有的Gorba綠色電子顯示屏因代理結業致無法修復，於2018年3月更換由退役[Neoplan Centroliner拆卸的Hanover電子顯示屏](../Page/Neoplan_Centroliner.md "wikilink")。
 
 而因應香港政府資助更換歐盟2期引擎的商業車輛的計劃（2017年12月31日截止），少部份2010年領牌的AVBWU將會在2017年內改裝訓練巴士取代1997-1998年歐盟2型D10A引擎的[富豪奧林比安](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")（包括11米版及12米版）及前[龍運巴士](../Page/龍運巴士.md "wikilink")1998年[亞歷山大ALX500](../Page/亞歷山大ALX500.md "wikilink")車身[丹尼士三叉戟三型](../Page/丹尼士三叉戟三型.md "wikilink")；其中AVBWU6於2017年4月底開始改裝訓練巴士，後來AVBWU7、12-15於同年6月中陸續開始改裝訓練巴士，全數由AVBW59-64取代。
 
@@ -302,6 +302,7 @@ SBS7440T於2010年3月7日在宏茂橋巴士總站火警中嚴重焚毀提早退
   - [Neoplan Centroliner](../Page/Neoplan_Centroliner.md "wikilink")
   - [斯堪尼亞K280UD](../Page/斯堪尼亞K280UD.md "wikilink")
   - [斯堪尼亞K310UD](../Page/斯堪尼亞K310UD.md "wikilink")
+  - [Wright StreetDeck](../Page/Wright_StreetDeck.md "wikilink")
   - [VDL DB300](../Page/VDL_DB300.md "wikilink")，此車型與B9TL的兩軸版本。
 
 ## 參考資料

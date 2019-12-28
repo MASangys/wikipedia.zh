@@ -42,7 +42,7 @@
 
   - [MS 明朝](../Page/MS_明朝.md "wikilink")（MS Mincho）及MS P明朝（MS PMincho）：Windows 95 及以後提供的日文版字体
   - <span style="background-color:#90FF90;">\[F\]</span> TakaoMincho、TakaoPMincho 及 TakaoExMincho（在 Ubuntu 安裝「日文支援」會安裝此等字型）
-  - <span style="background-color:#90FF90;">\[F\]</span> [IPAex Mincho](http://ossipedia.ipa.go.jp/ipafont/index.html#en)、[IPAmj Mincho](http://mojikiban.ipa.go.jp/1300.html)：独立行政法人情报处理推进机构开发，使用[IPA字体授权](http://ipafont.ipa.go.jp/ipa_font_license_v1.html#LicenceEng)（，IPA font licence）。
+  - <span style="background-color:#90FF90;">\[F\]</span> [IPAex Mincho](https://web.archive.org/web/20100823070625/http://ossipedia.ipa.go.jp/ipafont/index.html#en)、[IPAmj Mincho](http://mojikiban.ipa.go.jp/1300.html)：独立行政法人情报处理推进机构开发，使用[IPA字体授权](http://ipafont.ipa.go.jp/ipa_font_license_v1.html#LicenceEng)（，IPA font licence）。
 
 ### 韓文
 
@@ -129,7 +129,7 @@
   - MS PGothic（）– 随日文版[Windows 95及以后版本](../Page/Windows_95.md "wikilink")、所有语言的[Windows XP](../Page/Windows_XP.md "wikilink")、Microsoft Office 2004附赠。
   - MS UI Gothic – Windows 98至Windows XP的默认界面字体，随日文版[Windows 98及以后版本](../Page/Windows_98.md "wikilink")、所有语言的[Windows XP附赠](../Page/Windows_XP.md "wikilink")。
   - <span style="background-color:#90FF90;">\[F\]</span> Takao Gothic、Takao PGothic及Takao ExGothic（在Ubuntu安裝「日文支援」會安裝此等字型）
-  - <span style="background-color:#90FF90;">\[F\]</span> **[IPAex Gothic](http://ossipedia.ipa.go.jp/ipafont/index.html#en)** – 独立行政法人情报处理推进机构开发，使用IPA字体授权。
+  - <span style="background-color:#90FF90;">\[F\]</span> **[IPAex Gothic](https://web.archive.org/web/20100823070625/http://ossipedia.ipa.go.jp/ipafont/index.html#en)** – 独立行政法人情报处理推进机构开发，使用IPA字体授权。
   - <span style="background-color:#90FF90;">\[F\]</span> [Mona Font](https://zh.wikipedia.org/wiki/Mona_Font "wikilink") – 附赠于多个Linux发行版的自由字体，公有领域。
   - <span style="background-color:#90FF90;">\[F\]</span>? VL Gothic（）– 起于[Vine Linux的字体](../Page/Vine_Linux.md "wikilink")。包含由M+ FONTS及Sazanami Gothic字体衍生而来的字形，由此使用两种许可条款。
   - Osaka – 旧板[Mac OS的默认系统字体](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。

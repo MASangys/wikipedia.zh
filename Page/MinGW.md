@@ -16,9 +16,9 @@ GCC支援的語言大多在MinGW也受支援，其中涵蓋[C](https://zh.wikipe
 
 ## 与Cygwin比较
 
-Cygwin 與 MinGW 皆可用來移植 Unix 软件到 Windows，但它们采用截然不同的实作。Cygwin 旨在提供一个完整的 [POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink") 层，包括主流 Unix 的系統呼叫及函式庫實作；其重视兼容性优先于性能。相對的，MinGW 則着重简化与性能。因此，它並不提供某些難以用 Windows API 实现的 POSIX API，例如 fork()，mmap() 和 ioctl()。使用跨平台函式庫寫成的應用，若函式庫本身已移植到了 MinGW（例如 [SDL](https://zh.wikipedia.org/wiki/SDL "wikilink")、[wxWidgets](https://zh.wikipedia.org/wiki/wxWidgets "wikilink")、[Qt](../Page/Qt.md "wikilink") 或 [GTK](../Page/GTK.md "wikilink")+），則那些應用通常也滿容易用 MinGW 編譯的。
+Cygwin 與 MinGW 皆可用來移植 Unix 软件到 Windows，但它们采用截然不同的實作。Cygwin 旨在提供一个完整的 [POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink") 层，包括主流 Unix 的系統呼叫及函式庫實作；其重视兼容性优先于性能。相對的，MinGW 則着重简化与性能。因此，它並不提供某些難以用 Windows API 实现的 POSIX API，例如 fork()，mmap() 和 ioctl()。使用跨平台函式庫寫成的應用，若函式庫本身已移植到了 MinGW（例如 [SDL](https://zh.wikipedia.org/wiki/SDL "wikilink")、[wxWidgets](https://zh.wikipedia.org/wiki/wxWidgets "wikilink")、[Qt](../Page/Qt.md "wikilink") 或 [GTK](../Page/GTK.md "wikilink")+），則那些應用通常也容易用 MinGW 編譯。
 
-用 Cygwin 寫成的 Windows 程序，因為是跑在[公共版權的兼容](../Page/Copyleft.md "wikilink") [DLL](../Page/动态链接库.md "wikilink") 上，所以 DLL 必須隨著程序源代碼一起發布。MinGW 則不需要[兼容层](../Page/兼容层.md "wikilink")，因為基於 MinGW 的程序是直接调用 Windows API 编译的。
+用 Cygwin 寫成的 Windows 程序，因為是運行在[公共版權的兼容](../Page/Copyleft.md "wikilink") [DLL](../Page/动态链接库.md "wikilink") 上，所以 DLL 必須隨著程序源代碼一起發布。MinGW 則不需要[兼容层](../Page/兼容层.md "wikilink")，因為基於 MinGW 的程序是直接调用 Windows API 编译的。
 
 MinGW 搭配 MSYS 可以產生一個小卻完整的執行環境，讓程式可以載入隨身裝置當中，卻不動到[註冊表或產生額外檔案](../Page/注册表.md "wikilink")。
 

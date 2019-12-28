@@ -62,7 +62,7 @@ Cg有6種数据型別（data types），跟C語言相當類似，有一些是為
   - [OpenGL home page](http://www.opengl.org)
   - [DirectX home page](http://www.microsoft.com/windows/directx/default.aspx)
   - [ShaderTech - GPU Programming](https://web.archive.org/web/20070306123610/http://www.shadertech.com/)
-  - [NeHe Cg vertex shader tutorial](http://nehe.gamedev.net/data/lessons/lesson.asp?lesson=47)
+  - [NeHe Cg vertex shader tutorial](https://web.archive.org/web/20081219131420/http://nehe.gamedev.net/data/lessons/lesson.asp?lesson=47)
   - [Far Cry](http://www.farcry-thegame.com/)
   - [A glimpse at Cg Shader Toolkit](https://web.archive.org/web/20061026204236/http://www.deathfall.com/feature.php?op=showcontent&id=12)
   - [Virtools](http://www.virtools.com)

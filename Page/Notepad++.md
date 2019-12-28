@@ -44,7 +44,7 @@ Notepad++ 6.7.4版本于查理周刊总部枪击案之後的2015年1月7日发�
 
 2019年10月29日，在 Notepad++ 7.8.1 版本的发行通告中，该版本被命名为“Free Uyghur Edition”。作者稱據信有數十萬維吾爾族人在新疆再教育營中受到“政治灌輸和折磨”，認爲維吾爾族人“在血統上與中國人沒有連結，僅是居住在中國境内”，并指稱“中國政府沒有保障維吾爾族的自治”。作者呼籲“采取行動幫助維吾爾族人”從而施壓中國政府使其停止對維吾爾族人的“迫害和罪行”。\[7\]
 
-此後，許多来自中国大陆的用户在Notepad++的Github存储库的问题跟踪页（Issue）發表大量言論表達反對立場與不滿情緒，認爲作者的偏信偏頗致其言論不符合事實，不認同其政治表態。據稱，Notepad++官网遭到了[DDOS攻击](https://zh.wikipedia.org/wiki/DDOS "wikilink")，后转到[Cloudflare节点得以恢复访问](https://zh.wikipedia.org/wiki/Cloudflare "wikilink")。\[8\]\[9\]
+此後，許多来自中国大陆的用户在Notepad++的Github存储库的问题跟踪页（Issue）發表大量言論表達反對立場與不滿情緒，認爲作者的偏信偏頗致其言論不符合事實，不認同其政治表態。Notepad++官网遭到了[DDOS攻击](https://zh.wikipedia.org/wiki/DDOS "wikilink")，后转到[Cloudflare节点得以恢复访问](https://zh.wikipedia.org/wiki/Cloudflare "wikilink")。\[8\]\[9\]
 
 ## 參見
 

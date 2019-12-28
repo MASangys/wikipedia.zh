@@ -118,7 +118,7 @@ X在[類UNIX系统上几乎完全占据统治地位](../Page/类Unix系统.md "w
 
 应对对于X的批评的更前卫的尝试有Berlin/[Fresco和](https://zh.wikipedia.org/wiki/Fresco "wikilink")[Y Window System这样的完全替换](https://zh.wikipedia.org/wiki/Y_Window_System "wikilink")。这些代用品被认为不值得采用，而任何不能做到与X向后兼容的的替代品的可行性都被广泛置疑。
 
-其他有的竞争者通过直接操作硬件来避免X的开销，这样的项目包括[DirectFB](https://zh.wikipedia.org/wiki/DirectFB "wikilink")。但是由于[DRI正在致力于使用可靠的内核级接口提供帧缓冲](https://zh.wikipedia.org/wiki/DRI "wikilink")，这些努力可能变成是多余的。
+其他有的竞争者通过直接操作硬件来避免X的开销，这样的项目包括[DirectFB](../Page/DirectFB.md "wikilink")。但是由于[DRI正在致力于使用可靠的内核级接口提供帧缓冲](https://zh.wikipedia.org/wiki/DRI "wikilink")，这些努力可能变成是多余的。
 
 freedesktop.org所主持的[Wayland](../Page/Wayland.md "wikilink")顯示伺服器同時運用了前述兩種方法處理X的缺點，它完全替換了X的架構而且運用DRI來直接操作硬體。[Canonical公司替他旗下的](https://zh.wikipedia.org/wiki/Canonical公司 "wikilink")[Ubuntu Linux作業系統開發中的](https://zh.wikipedia.org/wiki/Ubuntu_Linux "wikilink")[Mir是一個類似的計劃](https://zh.wikipedia.org/wiki/Mir_\(顯示伺服器\) "wikilink")。預計支援[ARM晶片組和](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")[x86架構的電腦](https://zh.wikipedia.org/wiki/x86 "wikilink")。Mir透過Xmir向後兼容使用X Window的程式。
 

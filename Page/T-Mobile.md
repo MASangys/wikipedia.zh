@@ -6,15 +6,15 @@
 
 T-Mobile USA前身是VoiceStream（已收购无线营运商PowerTel, Aerial和Omnipoint）。VoiceStream在2001年5月被德国电信以240亿美元收购。总部设在华盛顿Bellevue。T-Mobile USA是美国市场上第三大营运商，也是继Verizon Wireless之后的超过160万用户的的第二大成长最快的公司，平均每季度增长1百万用户。它也是唯一一家在欧洲和美国使用统一品牌的移动电话公司。通过国际漫游协定连接到德国电信并与其他GSM网络兼容，T－Mobile USA比任何一家美国无线营运商提供更多的全球范围内更多的覆盖面积。2004年，T-Mobile USA被授予了J.D.Power和Associates的几个奖项，包括“2004无线用户服务最高评价奖”和“2004无线零售服务海外用户最满意奖”。
 
-在美国T-Mobile为[Wi-Fi](../Page/Wi-Fi.md "wikilink")无线Internet访问在包括机场，机场俱乐部，[星巴克咖啡屋](https://zh.wikipedia.org/wiki/星巴克 "wikilink")，[Kinkos](https://zh.wikipedia.org/wiki/Kinkos "wikilink")，[Borders Books and Music在内的很多地方部署了超过](https://zh.wikipedia.org/wiki/Borders_Books_and_Music "wikilink")4500个热区。Wi-Fi基础设施是T-Mobile通过收购[WISP](https://zh.wikipedia.org/wiki/WISP "wikilink") [MobileStar获得的](https://zh.wikipedia.org/wiki/MobileStar "wikilink")。
+在美国T-Mobile为[Wi-Fi](../Page/Wi-Fi.md "wikilink")无线Internet访问在包括机场，机场俱乐部，[星巴克咖啡屋](https://zh.wikipedia.org/wiki/星巴克 "wikilink")，[联邦快递金考](../Page/联邦快递金考.md "wikilink")，[博德斯集團](../Page/博德斯集團.md "wikilink")在内的很多地方部署了超过4500个热区。Wi-Fi基础设施是T-Mobile通过收购 获得的。
 
-T-Mobile的全球代言人是女演员[凯瑟琳·泽塔-琼斯](../Page/凯瑟琳·泽塔-琼斯.md "wikilink")。（被T-Mobile收购之前），北美的VoiceStream Wireless公司的代言人是[Jamie Lee Curtis](https://zh.wikipedia.org/wiki/Jamie_Lee_Curtis "wikilink")。在泽塔琼斯作为全球代言人的期间，T-Mobile美国2004年末开始启用[说唱音乐歌手](https://zh.wikipedia.org/wiki/说唱音乐 "wikilink")[Snoop Dogg作为公司产品](https://zh.wikipedia.org/wiki/Snoop_Dogg "wikilink")[T-Mobile Sidekick广告系列片的代言人](https://zh.wikipedia.org/wiki/危险Hiptop "wikilink")。
+T-Mobile的全球代言人是女演员[凯瑟琳·泽塔-琼斯](../Page/凯瑟琳·泽塔-琼斯.md "wikilink")。（被T-Mobile收购之前），北美的VoiceStream Wireless公司的代言人是[Jamie Lee Curtis](https://zh.wikipedia.org/wiki/Jamie_Lee_Curtis "wikilink")。在泽塔琼斯作为全球代言人的期间，T-Mobile美国2004年末开始启用[说唱音乐歌手](https://zh.wikipedia.org/wiki/说唱音乐 "wikilink")[史努比狗狗](../Page/史努比狗狗.md "wikilink")作为公司产品[T-Mobile Sidekick广告系列片的代言人](https://zh.wikipedia.org/wiki/危险Hiptop "wikilink")。
 
 T-Mobile还是好几个以他的名字冠名体育运动队的赞助商， 例如它拥有自己的自行车运动队－[T-Mobile队](https://zh.wikipedia.org/wiki/T-Mobile队 "wikilink")，或者给奥地利足球[联赛冠名](https://zh.wikipedia.org/wiki/联赛 "wikilink")。 2009年9月9日德意志電信將旗下T-Mobile英國業務，與[法國電信旗下Orange英國業務整合](https://zh.wikipedia.org/wiki/法國電信 "wikilink")，組建各佔50%股權的合營公司Everything Everywhere。合併後，手機用戶達到2,840萬，占英國逾37%的手機市場，成為英國最大手機營運商。
 
 2011年3月20日，德意志電信計劃將旗下T-Mobile美國業務，以390億美元的現金與股票的價格出售予[AT\&T](../Page/AT&T.md "wikilink")。\[1\]不过此收购案后来被[美国司法部](../Page/美国司法部.md "wikilink")否决。因为监管机构担心影响美国通信市场竞争为由失败，AT\&T为此支付30亿美元违约金。
 
-2018年4月30日，T-Mobile US 再次公布預計以0.10256股[T-Mobile](../Page/T-Mobile.md "wikilink")股票兌換一股Sprint股票，每股價值6.62美元，斥資265億美元併購同業[Sprint](../Page/Sprint.md "wikilink")，合併後的新公司將沿用T-Mobile，[德國電信將持有新公司](https://zh.wikipedia.org/wiki/德國電信 "wikilink")42%股權，擁有[Sprint](../Page/Sprint.md "wikilink")的[Softbank將持有](https://zh.wikipedia.org/wiki/Softbank "wikilink")27%股權，本交易尚未完成，也尚未獲得[聯邦通信委員會批准](https://zh.wikipedia.org/wiki/聯邦通信委員會 "wikilink") 。
+2018年4月30日，T-Mobile US 再次公布預計以0.10256股[T-Mobile](../Page/T-Mobile.md "wikilink")股票兌換一股Sprint股票，每股價值6.62美元，斥資265億美元併購同業[Sprint](../Page/Sprint.md "wikilink")，合併後的新公司將沿用T-Mobile，[德國電信將持有新公司](https://zh.wikipedia.org/wiki/德國電信 "wikilink")42%股權，擁有[Sprint](../Page/Sprint.md "wikilink")的[軟銀集團](../Page/軟銀集團.md "wikilink")將持有27%股權，本交易尚未完成，也尚未獲得[聯邦通信委員會批准](https://zh.wikipedia.org/wiki/聯邦通信委員會 "wikilink") 。
 
 ## T-Mobile商标
 

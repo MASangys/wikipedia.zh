@@ -42,4 +42,4 @@ Nvu有[Linux](../Page/Linux.md "wikilink")、[Mac OS X和](https://zh.wikipedia.
 [Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink") [Category:網站開發工具](https://zh.wikipedia.org/wiki/Category:網站開發工具 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
 
 1.  [1](http://www.glazman.org/weblog/dotclear/index.php?post/2008/09/29/BlueGriffon)
-2.  [2](http://dasu88.twbbs.org/?p=199)
+2.

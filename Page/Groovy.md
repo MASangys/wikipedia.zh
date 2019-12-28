@@ -50,7 +50,7 @@ class Foo {
 
 ## 外部連結
 
-  - [Groovy 官方網站](https://web.archive.org/web/20140302111159/http://groovy.codehaus.org/)
+  - [Groovy 官方网站](http://groovy-lang.org/)
   - [Groovy++](http://code.google.com/p/groovypptest/)
 
 {{-}}

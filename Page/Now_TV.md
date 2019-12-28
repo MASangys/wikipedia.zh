@@ -317,8 +317,8 @@ now寬頻電視在香港收費電視中開了很多先河，以互動功能為�
 |            556            |                                  中國中文衛視                                   |          |                       |
 |            561            |              [ABC](../Page/澳大利亚广播公司.md "wikilink") Australia              |          |                       |
 |            600            |                                  體育節目精選                                   |    HD    |                       |
-|            611            |                               Now Sports 4K                               |  HD/4K   |       *6星級體育組合*       |
-|            620            |                       Now Sports Premier League TV                        |    HD    |                       |
+|            611            |                               Now Sports 4K                               |    4K    |                       |
+|            620            |                       Now Sports Premier League TV                        |    HD    |       *6星級體育組合*       |
 |            621            |              [Now Sports](../Page/Now體育.md "wikilink") 英超1台               |    HD    |                       |
 |            622            |                              Now Sports 英超2台                              |    HD    |                       |
 |            623            |                              Now Sports 英超3台                              |    HD    |                       |

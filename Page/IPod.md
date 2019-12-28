@@ -457,7 +457,7 @@ iTunes音乐商店最近售出了超过10亿首歌曲\[16\]。至2007年8月1日
 22.
 23. Andy Serwer. "[It's iPod's Revolution: We Just Live in It](http://www.fortune.com/fortune/streetlife/0,15704,1071308,00.html) ."财富杂志。发表于2005年8月22日。
 24. [The most popular items on Amazon.com](http://www.amazon.com/exec/obidos/tg/new-for-you/top-sellers/-/electronics/all/ref=e_hp_tn_2/103-3541352-3631820)，Amazon.com, Inc.
-25. [2](http://news.nasdaq.com/news/newsStory.aspx?&cpath=20040301%5CACQDJON200403011156DOWJONESDJONLINE000696.htm)
+25.
 26. "[Hewlett-Packard to Stop Reselling iPods](https://web.archive.org/web/20050803025830/http://www.forbes.com/feeds/ap/2005/07/30/ap2164732.html)."福布斯。发表于2005年8月23日。
 27. 苹果公司 (2002年1月16日). [Apple Reports First Quarter Profit of $38 Million](http://www.apple.com/pr/library/2002/jan/16results.html) .新闻稿。发布于2006-11-19
 28. 苹果公司 (2002年5月14日). [Apple Investor Relations SEC Filings Quarter 2, 2002](http://phx.corporate-ir.net/phoenix.zhtml?c=107357&p=irol-SECText&TEXT=aHR0cDovL2NjYm4uMTBrd2l6YXJkLmNvbS94bWwvZmlsaW5nLnhtbD9yZXBvPXRlbmsmaXBhZ2U9MTc0NjY1MCZkb2M9MSZudW09MjM=).发布于2006-11-19

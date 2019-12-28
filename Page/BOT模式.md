@@ -256,7 +256,7 @@
 
 ### 歐洲
 
-  - [英法海底隧道](https://zh.wikipedia.org/wiki/英法海底隧道 "wikilink")，預定的總投資額為103億美元，但因施工過程重新評估地質，最後所需的資金達120億美元。投資者[英法海峽隧道公司](https://zh.wikipedia.org/wiki/英法海峽隧道公司 "wikilink")（Eurotunnel）為[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[法國兩國的銀行和財團](https://zh.wikipedia.org/wiki/法國 "wikilink")，建造時間歷時7年，於1994年完工。建造完成後，英法兩國政府協議，英法海峽隧道公司的特許期由55年延長到99年，特許期到2093年。
+  - [英法海底隧道](../Page/英法海底隧道.md "wikilink")，預定的總投資額為103億美元，但因施工過程重新評估地質，最後所需的資金達120億美元。投資者[英法海峽隧道公司](https://zh.wikipedia.org/wiki/英法海峽隧道公司 "wikilink")（Eurotunnel）為[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[法國兩國的銀行和財團](https://zh.wikipedia.org/wiki/法國 "wikilink")，建造時間歷時7年，於1994年完工。建造完成後，英法兩國政府協議，英法海峽隧道公司的特許期由55年延長到99年，特許期到2093年。
   - [華士古·達伽馬大橋](../Page/華士古·達伽馬大橋.md "wikilink")，位於葡萄牙首都[里斯本](../Page/里斯本.md "wikilink")的跨海大橋，由[葡](../Page/葡萄牙.md "wikilink")、英、法國公司組成的私營財團Lusoponte興建並經營。
   - [密佑高架橋](https://zh.wikipedia.org/wiki/密佑高架橋 "wikilink")，為[法國政府](../Page/法國政府.md "wikilink")與[埃法日集團](https://zh.wikipedia.org/wiki/埃法日集團 "wikilink")（Groupe Eiffage）合作開發，是全世界高度最高的高架橋。
 

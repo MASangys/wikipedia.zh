@@ -1,4 +1,4 @@
-**IRC**（的缩写，“**因特网中继聊天**”）是一个位于[应用层的](https://zh.wikipedia.org/wiki/应用层 "wikilink")[协议](https://zh.wikipedia.org/wiki/协议 "wikilink")。其主要用于群体聊天，但同样也可以用于个人对个人的聊天。IRC使用的伺服器埠有6667（明文傳輸，如<irc://irc.freenode.net>）、6697（[SSL加密傳輸](https://zh.wikipedia.org/wiki/SSL "wikilink")，如<ircs://irc.freenode.net:6697>）等。
+**IRC**（的缩写，“**因特网中继聊天**”）是一个位于[应用层](../Page/应用层.md "wikilink")的[协议](https://zh.wikipedia.org/wiki/协议 "wikilink")。其主要用于群体聊天，但同样也可以用于个人对个人的聊天。IRC使用的伺服器埠有6667（明文傳輸，如<irc://irc.freenode.net>）、6697（[SSL加密傳輸](https://zh.wikipedia.org/wiki/SSL "wikilink")，如<ircs://irc.freenode.net:6697>）等。
 
 [芬兰](../Page/芬兰.md "wikilink")人雅爾可·歐伊卡利寧（Jarkko Oikarinen）于1988年8月创造了IRC来取代一个叫做[MUT的程序](https://zh.wikipedia.org/wiki/MUT "wikilink")。
 
@@ -64,7 +64,7 @@ IRC机器人是一些运行在后台或者服务器上的程序，透過登陆�
 
   - [IRC-Source](https://irc-source.com/) – 可以查询IRC频道历史数据的搜索引擎
 
-  - [irc.netsplit.de](http://irc.netsplit.de/) – 包含历史数据的Internet中继聊天（IRC）网络列表
+  - [irc.netsplit.de](https://web.archive.org/web/20190113165832/http://irc.netsplit.de/) – 包含历史数据的Internet中继聊天（IRC）网络列表
 
 ## RFC技術規格文件链接
 

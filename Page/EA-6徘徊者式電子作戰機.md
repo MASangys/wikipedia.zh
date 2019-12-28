@@ -23,7 +23,7 @@ EA-6A一共有6架來自改裝的機體，15架為新生產，全部於1969年11
 
 ### EA-6B
 
-[EA-6B_AIP.jpg](https://zh.wikipedia.org/wiki/File:EA-6B_AIP.jpg "fig:EA-6B_AIP.jpg") [Cobrachen_ea-6b-2.jpg](https://zh.wikipedia.org/wiki/File:Cobrachen_ea-6b-2.jpg "fig:Cobrachen_ea-6b-2.jpg") [EA-6B_Prowler.jpg](https://zh.wikipedia.org/wiki/File:EA-6B_Prowler.jpg "fig:EA-6B_Prowler.jpg") [EA-6B_VAQ-209_Eielson_AFB_7Apr08.jpg](https://zh.wikipedia.org/wiki/File:EA-6B_VAQ-209_Eielson_AFB_7Apr08.jpg "fig:EA-6B_VAQ-209_Eielson_AFB_7Apr08.jpg") **EA-6B**大幅改進原先的設計，加長機身與放置電子設計的空間，機上的成員由兩名增加為四名，其中前座只有一名飛行員，另外一位與機艙後方兩位都是電子作戰官。EA-6B有两个引擎，机翼位于机身中部。它是在[A-6入侵者式攻擊機](../Page/A-6入侵者式攻擊機.md "wikilink")的基础上改进造成的。它的设计目的是为了让它能够从[航空母舰](../Page/航空母舰.md "wikilink")上起飞。它完全是为[电子战而装备起来的](https://zh.wikipedia.org/wiki/电子战 "wikilink")，可以远距离、全天候进行高级的电子干扰活动。向前它有一个设备箱，在它的垂直尾翼上还有一个装有附加航空设备的腔。
+[EA-6B_AIP.jpg](https://zh.wikipedia.org/wiki/File:EA-6B_AIP.jpg "fig:EA-6B_AIP.jpg") [Cobrachen_ea-6b-2.jpg](https://zh.wikipedia.org/wiki/File:Cobrachen_ea-6b-2.jpg "fig:Cobrachen_ea-6b-2.jpg") [EA-6B_Prowler.jpg](https://zh.wikipedia.org/wiki/File:EA-6B_Prowler.jpg "fig:EA-6B_Prowler.jpg") [EA-6B_VAQ-209_Eielson_AFB_7Apr08.jpg](https://zh.wikipedia.org/wiki/File:EA-6B_VAQ-209_Eielson_AFB_7Apr08.jpg "fig:EA-6B_VAQ-209_Eielson_AFB_7Apr08.jpg") **EA-6B**大幅改進原先的設計，加長機身與放置電子設備的空間，機上的成員由兩名增加為四名，其中前座只有一名飛行員，另外一位與機艙後方兩位都是電子作戰官。EA-6B有两个引擎，机翼位于机身中部。它是在[A-6入侵者式攻擊機](../Page/A-6入侵者式攻擊機.md "wikilink")的基础上改进造成的。它的设计目的是为了让它能够从[航空母舰](../Page/航空母舰.md "wikilink")上起飞。它完全是为[电子战而装备起来的](https://zh.wikipedia.org/wiki/电子战 "wikilink")，可以远距离、全天候进行高级的电子干扰活动。向前它有一个设备箱，在它的垂直尾翼上还有一个装有附加航空设备的腔。
 
 EA-6B比其前身高级得多，而且其设计是全新的。它首次于1968年5月25日试飞，1971年入役。计划中它应该于2009年被[EA-18G咆哮者電子作戰機](../Page/EA-18G咆哮者電子作戰機.md "wikilink")代替。
 

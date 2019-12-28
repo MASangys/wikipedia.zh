@@ -1,4 +1,4 @@
-**gnuplot**是一套[跨平臺](../Page/跨平臺.md "wikilink")的數學繪圖[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。使用命令列介面，可以繪製數學函數圖形，也可以從純文字檔讀入簡單格式的座標資料，繪製統計圖表等等。它可以提供多種輸出格式，例如 [PNG](../Page/PNG.md "wikilink")，[SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")，[PS](../Page/PostScript.md "wikilink")，HPGL，供文書處理、簡報、試算表使用。它並不是統計軟體或數學軟體。
+**gnuplot**是一套[跨平臺](../Page/跨平臺.md "wikilink")的數學繪圖[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。使用命令列介面，可以繪製數學函數圖形，也可以從純文字檔讀入簡單格式的座標資料，繪製統計圖表等等。它可以提供多種輸出格式，例如[PNG](../Page/PNG.md "wikilink")，[SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")，[PS](../Page/PostScript.md "wikilink")，HPGL，供文書處理、簡報、試算表使用。它並不是統計軟體或數學軟體。
 
 gnuplot是有版权的，但自由分发；无须付费。
 
@@ -7,7 +7,7 @@ gnuplot是有版权的，但自由分发；无须付费。
   - 繪製[二維或](https://zh.wikipedia.org/wiki/二維 "wikilink")[三維的圖像](https://zh.wikipedia.org/wiki/三維 "wikilink")
   - 繪製[數學函數](https://zh.wikipedia.org/wiki/數學函數 "wikilink")
   - 通過處存在外部文件中的數據資料繪圖，繪製[統計圖表](https://zh.wikipedia.org/wiki/統計圖 "wikilink")
-  - 被外部程式（如[GNU Octave](../Page/GNU_Octave.md "wikilink") 和 wxMaxima 和 TeXmacs）調用
+  - 被外部程式（如[GNU Octave和wxMaxima和TeXmacs](../Page/GNU_Octave.md "wikilink")）調用
   - 匯出解析度極高的圖片
 
 ## 脚注

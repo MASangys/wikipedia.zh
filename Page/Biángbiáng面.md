@@ -399,7 +399,7 @@
 
 近年来，一家名为“Noodle King”的面连锁店在[西安以及其他城市开设众多分店](../Page/西安市.md "wikilink")，注册商标，将面品牌化运营。
 
-2003年12月，西安眼镜山野人家的眼镜山野面被[中国烹饪协会认定为第三届](https://zh.wikipedia.org/wiki/中国烹饪协会 "wikilink")“[中华名小吃](https://zh.wikipedia.org/wiki/中华名小吃 "wikilink")”。\[68\]
+2003年12月，西安眼镜山野人家的眼镜山野面被[中国烹饪协会](../Page/中国烹饪协会.md "wikilink")认定为第三届“[中华名小吃](https://zh.wikipedia.org/wiki/中华名小吃 "wikilink")”。\[68\]
 
 作为[陕西面食的代表之一](../Page/陕西省.md "wikilink")，加之独一无二的读音与字型，面-{}-包含有丰富而独特的民俗文化。2009年10月，[西安市非物质文化遗产保护中心在](https://zh.wikipedia.org/wiki/西安市非物质文化遗产保护中心 "wikilink")面故乡的[户县](https://zh.wikipedia.org/wiki/户县 "wikilink")[康王村组织了](https://zh.wikipedia.org/wiki/康王村 "wikilink")面“老碗会”，当地村民希望将此面制作技艺申报[非物质文化遗产](../Page/非物质文化遗产.md "wikilink")，还可打造专营面的餐饮旅游村。\[69\]
 

@@ -59,6 +59,10 @@ eBay在[拉丁美洲](../Page/拉丁美洲.md "wikilink")的合作夥伴是[Merc
   - 2006年12月，eBay宣布与[Tom.com宣布成立合资公司](https://zh.wikipedia.org/wiki/TOM集团 "wikilink")，新的合资公司Tom.com占51%股份，eBay占49%，将继续易趣国内交易。另成立新公司CBT负责跨国交易部分的业务。
   - 2012年4月，eBay结束与[Tom.com的合作](https://zh.wikipedia.org/wiki/TOM集团 "wikilink")，易趣网由TOM独资运营，不再作为eBay中国站点\[2\]。
 
+<!-- end list -->
+
+  - 2019年11月26日EBay以40.5億美元出售[StubHub給](https://zh.wikipedia.org/wiki/StubHub "wikilink")[viagogo](https://zh.wikipedia.org/wiki/viagogo "wikilink")
+
 ## 爭議
 
 eBay有些爭議，從[隱私權政策](https://zh.wikipedia.org/wiki/隱私權 "wikilink")（eBay往往不經任何程序即將個人資料送給司法單位）到賣家資訊不完全公開（不公佈賣家所涉入的詐欺）。

@@ -1,7 +1,5 @@
 **MUD**（），原指**多使用者迷宮**（Multi-User Dungeon），後又被称为**多使用者空間**（Multi-User Dimension）或**多使用者領土**（Multi-User Domain）。**MUD**是多人即時虛擬类游戏，通常以文字描述為基礎。**MUD**結合了[角色扮演](../Page/角色扮演游戏.md "wikilink")、[砍殺](../Page/砍殺遊戲.md "wikilink")、[玩家與玩家對戰](../Page/玩家對戰.md "wikilink")、[互動小說與](https://zh.wikipedia.org/wiki/文字冒险游戏 "wikilink")[線上聊天等元素](https://zh.wikipedia.org/wiki/网络聊天 "wikilink")，玩家可以閱讀或檢視房間、物品与其他玩家、非玩家角色的描述，並在虛擬世界中做出特定行为。玩家通常會通过輸入類似自然語言的指令來與虛擬世界中的其他玩家、[NPC互動](https://zh.wikipedia.org/wiki/NPC "wikilink")。
 
-
-
 ## 概念
 
 傳統的MUD實現了一個在幻想的世界居住著虛構的種族與怪物的角色扮演遊戲，玩家可以選擇職業來獲得特定的技能或力量。這種遊戲的目標是要殺死怪物、探索幻想的世界、完成任務、去冒險、透過角色扮演來構成故事並升級已建立的角色。許多MUD採用了[龍與地下城系列遊戲的職骰規則做為決定人物屬性的基礎](../Page/龙与地下城.md "wikilink")。
@@ -24,8 +22,6 @@ MUD通常使用幻想的背景設定，許多人使用了科幻小說的背景�
 MUD系統主要由一個[伺服器負責處理所有虛擬世界的相關運算](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，使用者在[客戶端執行的終端機模擬程式僅負責顯示伺服器傳回的訊息](https://zh.wikipedia.org/wiki/客戶端 "wikilink")，以及將玩家輸入的命令傳送至伺服器端。
 
 由於這種允許多位使用者各自操縱虛擬角色，並且在相同的虛擬世界中進行互動（戰鬥）的概念，直接促成了二十世紀90年代末期以圖形顯示介面為訴求的[線上遊戲商業營運模式](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")（如：Meridian59, EverQuest, Dark Age of Camelot），因此線上遊戲可視為廣義的MUD其中一種，而MUD則為現代線上遊戲的始祖與雛形。
-
-
 
 ## 發展
 

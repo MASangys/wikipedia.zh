@@ -2,7 +2,7 @@
 
 ## 概要
 
-1988年以同時發售單曲「」及專輯『[B'z](../Page/B'z_\(1988年專輯\).md "wikilink")』出道。在1990年發售的5th單曲「[太陽的Komachi Angel](../Page/太陽的Komachi_Angel.md "wikilink")」首次獲得[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")第1位，在同年發售的4th專輯『[RISKY](../Page/RISKY.md "wikilink")』、1991年發售的10th單曲「[LADY NAVIGATION](../Page/LADY_NAVIGATION.md "wikilink")」首次獲得百萬銷量紀錄等作品熱銷不斷\[3\]，迄今為止已有15張單曲、19張專輯獲得百萬銷量紀錄。其中，1998年發售的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")『[B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")』除了是日本國內音樂史上首次總銷量突破500萬張以外，與同年發售的『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』2作品合計獲得約1,000萬張總銷量紀錄\[4\]。B'z合計唱片總銷量突破8,000萬張，為日本Oricon公信榜設立以來最高成績，於全球最暢銷歌手中排行第64位，在亞洲最暢銷歌手中排行第1位。2007年進入[名人堂](../Page/名人堂.md "wikilink")「[Hollywood's Rock Walk](https://zh.wikipedia.org/wiki/吉他中心#好萊塢搖滾大道 "wikilink")」，成為目前唯一受此殊榮的亞洲藝人\[5\]\[6\]。
+1988年以同時發售單曲「[だからその手を離して](https://zh.wikipedia.org/wiki/だからその手を離して "wikilink")」及專輯『[B'z](../Page/B'z_\(1988年專輯\).md "wikilink")』出道。在1990年發售的5th單曲「[太陽のKomachi Angel](https://zh.wikipedia.org/wiki/太陽のKomachi_Angel "wikilink")」首次獲得[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")第1位，在同年發售的4th專輯『[RISKY](../Page/RISKY.md "wikilink")』、1991年發售的10th單曲「[LADY NAVIGATION](../Page/LADY_NAVIGATION.md "wikilink")」首次獲得百萬銷量紀錄等作品熱銷不斷\[3\]，迄今為止已有15張單曲、19張專輯獲得百萬銷量紀錄。其中，1998年發售的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")『[B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")』除了是日本國內音樂史上首次總銷量突破500萬張以外，與同年發售的『[B'z The Best "Treasure"](../Page/B'z_The_Best_"Treasure".md "wikilink")』2作品合計獲得約1,000萬張總銷量紀錄\[4\]。B'z合計唱片總銷量突破8,000萬張，為日本Oricon公信榜設立以來最高成績，於全球最暢銷歌手中排行第64位，在亞洲最暢銷歌手中排行第1位。2007年進入[名人堂](../Page/名人堂.md "wikilink")「[Hollywood's Rock Walk](https://zh.wikipedia.org/wiki/吉他中心#好萊塢搖滾大道 "wikilink")」，成為目前唯一受此殊榮的亞洲藝人\[5\]\[6\]。
 
 自1989年以來冠名為「[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")」的演唱會（根據公演内容及規模亦會成為「LIVE-GYM Pleasure」或「SHOWCASE」），迄今為止除了舉辦在日本國内從[LIVE HOUSE到體育場](https://zh.wikipedia.org/wiki/展演空間 "wikilink")，直至日本國外各式各樣的會場以外，亦會在各種音樂活動上出演。
 
@@ -180,7 +180,7 @@ B'z首次在觀眾面前披露現場表演，是1989年在TM NETWORK及[FENCE OF
 
 2011年，被起用為「Pepsi NEX」[TVCM出場人物](../Page/電視廣告.md "wikilink")，成為B'z首次出演[CM](../Page/廣告.md "wikilink")\[60\]。CM使用了「[さよなら傷だらけの日々よ](https://zh.wikipedia.org/wiki/さよなら傷だらけの日々よ "wikilink")」、夏季使用18th專輯『[C'mon](../Page/C'mon.md "wikilink")』標題曲「C'mon」\[61\]、冬季使用「[いつかのメリークリスマス](https://zh.wikipedia.org/wiki/いつかのメリークリスマス "wikilink")」\[62\]。伴隨著發生3月11日的「[東日本大震災](../Page/東日本大震災.md "wikilink")」，為了支援受災者，參加來自[Linkin Park設立的](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink")「Music For Relief」所[數位發行的合輯](https://zh.wikipedia.org/wiki/數位發行 "wikilink")『[Download to Donate: Tsunami Relief](https://zh.wikipedia.org/wiki/w:_Download_to_Donate:_Tsunami_Relief "wikilink")』，提供了「Home」\[63\]。此外，睽違8年在加拿大與美國的3座都市舉辦海外公演『B'z LIVE-GYM 2011 -long tome no see-』後，出演了「Music For Relief」為了支援受災者在[洛杉磯所舉行的秘密演唱會](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")『Music for Relief - Secret Show for Japan』\[64\]。『B'z LIVE-GYM 2011 -C'mon-』最初舉辦地點的宮城公演，收益全額捐贈於復興支援，所有公演開始販售慈善周邊\[65\]。
 
-2012年除了接續出演「Pepsi NEX」的CM，CM使用了「[GO FOR IT, BABY -キオクの山脈-](../Page/GO_FOR_IT,_BABY_-記憶的山脈-.md "wikilink")」\[66\]以外，夏季限定數位上架的專輯『[B'z](https://zh.wikipedia.org/wiki/B'z_\(2012年專輯\) "wikilink")』，使用了來自將38th單曲「[愛のバクダン](https://zh.wikipedia.org/wiki/愛のバクダン "wikilink")」改為英語歌詞並重新錄製的「Love Bomb」\[67\]。此外，除了將成為[卡普空](../Page/卡普空.md "wikilink")遊戲軟體『[Dragon's Dogma](https://zh.wikipedia.org/wiki/Dragon's_Dogma "wikilink")』主題歌的24th單曲「[さまよえる蒼い弾丸](https://zh.wikipedia.org/wiki/さまよえる蒼い弾丸 "wikilink")」改為英語歌詞並重新錄製的「Into Free -Dangan-」，作為限定數位上架單曲發行了以外\[68\]，[金賢重](../Page/金賢重.md "wikilink")成為作為B'z首次提供樂曲，全新創作了「[HEAT](../Page/HEAT_\(金賢重單曲\).md "wikilink")」\[69\]。在美國與加拿大的7座都市舉辦了『B'z LIVE-GYM 2012 -Into Free-』，作為EXTRA公演亦有在日本國內4座都市舉辦。
+2012年除了接續出演「Pepsi NEX」的CM，CM使用了「[GO FOR IT, BABY -キオクの山脈-](../Page/GO_FOR_IT,_BABY_-記憶的山脈-.md "wikilink")」\[66\]以外，夏季限定數位上架的專輯『』，使用了來自將38th單曲「[愛のバクダン](https://zh.wikipedia.org/wiki/愛のバクダン "wikilink")」改為英語歌詞並重新錄製的「Love Bomb」\[67\]。此外，除了將成為[卡普空](../Page/卡普空.md "wikilink")遊戲軟體『[Dragon's Dogma](https://zh.wikipedia.org/wiki/Dragon's_Dogma "wikilink")』主題歌的24th單曲「[さまよえる蒼い弾丸](https://zh.wikipedia.org/wiki/さまよえる蒼い弾丸 "wikilink")」改為英語歌詞並重新錄製的「Into Free -Dangan-」，作為限定數位上架單曲發行了以外\[68\]，[金賢重](../Page/金賢重.md "wikilink")成為作為B'z首次提供樂曲，全新創作了「[HEAT](../Page/HEAT_\(金賢重單曲\).md "wikilink")」\[69\]。在美國與加拿大的7座都市舉辦了『B'z LIVE-GYM 2012 -Into Free-』，作為EXTRA公演亦有在日本國內4座都市舉辦。
 
 在2013年的出道25週年，將收錄有迄今為止所發表的50張單曲歌曲的精選輯『[B'z The Best XXV 1988-1998](../Page/B'z_The_Best_XXV_1988-1998.md "wikilink")』與『[B'z The Best XXV 1999-2012](../Page/B'z_The_Best_XXV_1999-2012.md "wikilink")』同時發售\[70\]，並舉辦了『B'z LIVE-GYM Pleasure 2013 -ENDLESS SUMMER-』\[71\]\[72\]。此外，在QVC海洋球場舉辦的『AEROSONIC』是睽違11年與[Aerosmith共演](https://zh.wikipedia.org/wiki/史密斯飛船 "wikilink")，一起披露了「Mama Kin」\[73\]\[74\]。
 
@@ -905,7 +905,7 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 <tr class="odd">
 <td><p>2001年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ultra_soul" title="wikilink">ultra soul</a></p></td>
-<td><p>『<a href="https://zh.wikipedia.org/wiki/2001年世界游泳錦標賽" title="wikilink">2001年福岡世界游泳錦標賽</a>』大會官方主題曲</p></td>
+<td><p>『<a href="../Page/2001年世界游泳錦標賽.md" title="wikilink">2001年福岡世界游泳錦標賽</a>』大會官方主題曲</p></td>
 </tr>
 <tr class="even">
 <td><p>[[ultra_soul|スイマーよ2001</p></td>
@@ -934,7 +934,7 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/GREEN_(B&#39;z專輯).md" title="wikilink">Everlasting</a></p></td>
-<td><p>東寶系電影『<a href="https://zh.wikipedia.org/wiki/名偵探柯南：貝克街的亡靈" title="wikilink">名偵探柯南：貝克街的亡靈</a>』主題歌</p></td>
+<td><p>東寶系電影『<a href="../Page/名偵探柯南：貝克街的亡靈.md" title="wikilink">名偵探柯南：貝克街的亡靈</a>』主題歌</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1234,7 +1234,7 @@ Z'b是在『B'z LIVE-GYM '91-'92 "IN THE LIFE"』開始前準備活動中玩心�
 </tr>
 <tr class="odd">
 <td><p>ultra soul</p></td>
-<td><p>朝日電視台系『<a href="https://zh.wikipedia.org/wiki/2013年世界游泳錦標賽" title="wikilink">2013年巴塞隆納世界游泳錦標賽</a>』主題曲</p></td>
+<td><p>朝日電視台系『<a href="../Page/2013年世界游泳錦標賽.md" title="wikilink">2013年巴塞隆納世界游泳錦標賽</a>』主題曲</p></td>
 <td></td>
 </tr>
 <tr class="even">

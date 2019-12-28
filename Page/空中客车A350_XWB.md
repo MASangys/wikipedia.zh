@@ -1,4 +1,4 @@
-**空中客车A350 XWB**（Airbus A350 XWB），是歐洲飛機製造商[空中客车](../Page/空中客车.md "wikilink")所研發的長程[雙引擎](https://zh.wikipedia.org/wiki/雙發噴射機 "wikilink")[廣體客機系列](https://zh.wikipedia.org/wiki/廣體客機 "wikilink")。A350是最先在機身與機翼同時使用[碳纖維強化聚合物](../Page/碳纖維強化聚合物.md "wikilink")的[民航飛機](../Page/民航飛機.md "wikilink")。\[1\]在典型的三等級座艙配置裡，它可搭載280至366位旅客。\[2\]A350定位為取代[A340與部分機齡較大的](../Page/空中客车A340.md "wikilink")[A330](https://zh.wikipedia.org/wiki/空中巴士A330 "wikilink")，主要競爭機型為[波音公司的](https://zh.wikipedia.org/wiki/波音公司 "wikilink")[波音777及](https://zh.wikipedia.org/wiki/波音777 "wikilink")[787客機](../Page/波音787.md "wikilink")。
+**空中客车A350 XWB**（Airbus A350 XWB），是歐洲飛機製造商[空中客车](../Page/空中客车.md "wikilink")所研發的長程[雙引擎](https://zh.wikipedia.org/wiki/雙發噴射機 "wikilink")[廣體客機系列](https://zh.wikipedia.org/wiki/廣體客機 "wikilink")。A350是最先在機身與機翼同時使用[碳纖維強化聚合物](../Page/碳纖維強化聚合物.md "wikilink")的[民航飛機](../Page/民航飛機.md "wikilink")。\[1\]在典型的三等級座艙配置裡，它可搭載280至366位旅客。\[2\]A350定位為取代[A340與部分機齡較高的](../Page/空中客车A340.md "wikilink")[A330](https://zh.wikipedia.org/wiki/空中巴士A330 "wikilink")，主要競爭機型為[波音公司的](https://zh.wikipedia.org/wiki/波音公司 "wikilink")[波音777及](https://zh.wikipedia.org/wiki/波音777 "wikilink")[787客機](../Page/波音787.md "wikilink")。
 
 A350系列机型最初構想於2004年，以[A330機身搭配新型](https://zh.wikipedia.org/wiki/空中巴士A330 "wikilink")[空氣動力學外形和引擎](../Page/空气动力学.md "wikilink")。2006年，为解决客户在使用中所反馈的问题，空中巴士改进了這架飛機的设计，之后便生產出此款名为“A350 XWB”（超廣體，eXtra Wide Body）的A330系列改进机型。開發成本估計為110億歐元（150億美元或95億英鎊）。截至2019年2月，空中巴士已收到全球47家客戶的852架A350訂單。\[3\]A350原型機於2013年6月14日首次從法國土魯斯起飛。 2014年9月收到[歐洲航空安全局的認證](https://zh.wikipedia.org/wiki/歐洲航空安全局 "wikilink")，兩個月後獲得[聯邦航空管理局的認證](https://zh.wikipedia.org/wiki/聯邦航空管理局 "wikilink")。 2015年1月15日，[卡塔尔航空](../Page/卡塔尔航空.md "wikilink")完成了A350-900机型的试飞；2018年2月24日，卡塔尔航空完成A350-1000机型的试飞。
 
@@ -78,9 +78,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 
 ## 訂單
 
-[Singapore_Airlines_A350-941_(9V-SME)_taking_off_from_Manchester_Airport_(1).jpg](https://zh.wikipedia.org/wiki/File:Singapore_Airlines_A350-941_\(9V-SME\)_taking_off_from_Manchester_Airport_\(1\).jpg "fig:Singapore_Airlines_A350-941_(9V-SME)_taking_off_from_Manchester_Airport_(1).jpg")的A350-900客機\]\] [_Vietnam_Airlines_Double_Airbus_A350_in_Narita_International_Airport_2.jpg](https://zh.wikipedia.org/wiki/File:_Vietnam_Airlines_Double_Airbus_A350_in_Narita_International_Airport_2.jpg "fig:_Vietnam_Airlines_Double_Airbus_A350_in_Narita_International_Airport_2.jpg")的A350-900客機\]\] [Malaysia_Airlines_A350-941_(9M-MAC)_taxiing_at_London_Heathrow_Airport.jpg](https://zh.wikipedia.org/wiki/File:Malaysia_Airlines_A350-941_\(9M-MAC\)_taxiing_at_London_Heathrow_Airport.jpg "fig:Malaysia_Airlines_A350-941_(9M-MAC)_taxiing_at_London_Heathrow_Airport.jpg")的A350-900客機\]\] [B-189808_20170824_at_Kansai_02.jpg](https://zh.wikipedia.org/wiki/File:B-189808_20170824_at_Kansai_02.jpg "fig:B-189808_20170824_at_Kansai_02.jpg")的A350-900客機；該機為空中巴士第100架交付的A350客機\]\]
-
-[HL8360_24042019LHR_(47857638451).jpg](https://zh.wikipedia.org/wiki/File:HL8360_24042019LHR_\(47857638451\).jpg "fig:HL8360_24042019LHR_(47857638451).jpg")的A350-900客機\]\] [B-1082@PEK_(20181227150603).jpg](https://zh.wikipedia.org/wiki/File:B-1082@PEK_\(20181227150603\).jpg "fig:B-1082@PEK_(20181227150603).jpg")的A350-900客機\]\] [Finnair,_OH-LWH,_Airbus_A350-941_(35280478875)_(2).jpg](https://zh.wikipedia.org/wiki/File:Finnair,_OH-LWH,_Airbus_A350-941_\(35280478875\)_\(2\).jpg "fig:Finnair,_OH-LWH,_Airbus_A350-941_(35280478875)_(2).jpg")的A350-900客機\]\] [Lufthansa_-_Airbus_A350-941_-_D-AIXE_-_Düsseldorf_Airport-1333.jpg](https://zh.wikipedia.org/wiki/File:Lufthansa_-_Airbus_A350-941_-_D-AIXE_-_Düsseldorf_Airport-1333.jpg "fig:Lufthansa_-_Airbus_A350-941_-_D-AIXE_-_Düsseldorf_Airport-1333.jpg")的A350-900客機\]\] [Airbus_A350-941_‘N502DN’_Delta_Air_Lines_(48644053197).jpg](https://zh.wikipedia.org/wiki/File:Airbus_A350-941_‘N502DN’_Delta_Air_Lines_\(48644053197\).jpg "fig:Airbus_A350-941_‘N502DN’_Delta_Air_Lines_(48644053197).jpg")的A350-900客機\]\] [ET-AUA_A350_Ethiopian_(34786383203).jpg](https://zh.wikipedia.org/wiki/File:ET-AUA_A350_Ethiopian_\(34786383203\).jpg "fig:ET-AUA_A350_Ethiopian_(34786383203).jpg")的A350-900客機\]\] [Qatar_Airways_Airbus_A350-1000_(A7-ANA).jpg](https://zh.wikipedia.org/wiki/File:Qatar_Airways_Airbus_A350-1000_\(A7-ANA\).jpg "fig:Qatar_Airways_Airbus_A350-1000_(A7-ANA).jpg")的A350-1000客機；卡塔爾航空為A350-1000的啟始客戶\]\] [B-LXG@HKG_(20181205103240).jpg](https://zh.wikipedia.org/wiki/File:B-LXG@HKG_\(20181205103240\).jpg "fig:B-LXG@HKG_(20181205103240).jpg")的A350-1000客機\]\] [G-XWBA_LEMD_15-08-2019b.jpg](https://zh.wikipedia.org/wiki/File:G-XWBA_LEMD_15-08-2019b.jpg "fig:G-XWBA_LEMD_15-08-2019b.jpg")的A350-1000客機\]\]
+[Singapore_Airlines_A350-941_(9V-SME)_taking_off_from_Manchester_Airport_(1).jpg](https://zh.wikipedia.org/wiki/File:Singapore_Airlines_A350-941_\(9V-SME\)_taking_off_from_Manchester_Airport_\(1\).jpg "fig:Singapore_Airlines_A350-941_(9V-SME)_taking_off_from_Manchester_Airport_(1).jpg")的A350-900客機\]\] [_Vietnam_Airlines_Double_Airbus_A350_in_Narita_International_Airport_2.jpg](https://zh.wikipedia.org/wiki/File:_Vietnam_Airlines_Double_Airbus_A350_in_Narita_International_Airport_2.jpg "fig:_Vietnam_Airlines_Double_Airbus_A350_in_Narita_International_Airport_2.jpg")的A350-900客機\]\] [Malaysia_Airlines_A350-941_(9M-MAC)_taxiing_at_London_Heathrow_Airport.jpg](https://zh.wikipedia.org/wiki/File:Malaysia_Airlines_A350-941_\(9M-MAC\)_taxiing_at_London_Heathrow_Airport.jpg "fig:Malaysia_Airlines_A350-941_(9M-MAC)_taxiing_at_London_Heathrow_Airport.jpg")的A350-900客機\]\] [B-189808_20170824_at_Kansai_02.jpg](https://zh.wikipedia.org/wiki/File:B-189808_20170824_at_Kansai_02.jpg "fig:B-189808_20170824_at_Kansai_02.jpg")的A350-900客機；該機為空中巴士第100架交付的A350客機\]\] [HL8360_24042019LHR_(47857638451).jpg](https://zh.wikipedia.org/wiki/File:HL8360_24042019LHR_\(47857638451\).jpg "fig:HL8360_24042019LHR_(47857638451).jpg")的A350-900客機\]\] [B-1082@PEK_(20181227150603).jpg](https://zh.wikipedia.org/wiki/File:B-1082@PEK_\(20181227150603\).jpg "fig:B-1082@PEK_(20181227150603).jpg")的A350-900客機\]\] [Finnair,_OH-LWH,_Airbus_A350-941_(35280478875)_(2).jpg](https://zh.wikipedia.org/wiki/File:Finnair,_OH-LWH,_Airbus_A350-941_\(35280478875\)_\(2\).jpg "fig:Finnair,_OH-LWH,_Airbus_A350-941_(35280478875)_(2).jpg")的A350-900客機\]\] [Lufthansa_-_Airbus_A350-941_-_D-AIXE_-_Düsseldorf_Airport-1333.jpg](https://zh.wikipedia.org/wiki/File:Lufthansa_-_Airbus_A350-941_-_D-AIXE_-_Düsseldorf_Airport-1333.jpg "fig:Lufthansa_-_Airbus_A350-941_-_D-AIXE_-_Düsseldorf_Airport-1333.jpg")的A350-900客機\]\] [Airbus_A350-941_‘N502DN’_Delta_Air_Lines_(48644053197).jpg](https://zh.wikipedia.org/wiki/File:Airbus_A350-941_‘N502DN’_Delta_Air_Lines_\(48644053197\).jpg "fig:Airbus_A350-941_‘N502DN’_Delta_Air_Lines_(48644053197).jpg")的A350-900客機\]\] [ET-AUA_A350_Ethiopian_(34786383203).jpg](https://zh.wikipedia.org/wiki/File:ET-AUA_A350_Ethiopian_\(34786383203\).jpg "fig:ET-AUA_A350_Ethiopian_(34786383203).jpg")的A350-900客機\]\] [Qatar_Airways_Airbus_A350-1000_(A7-ANA).jpg](https://zh.wikipedia.org/wiki/File:Qatar_Airways_Airbus_A350-1000_\(A7-ANA\).jpg "fig:Qatar_Airways_Airbus_A350-1000_(A7-ANA).jpg")的A350-1000客機；卡塔爾航空為A350-1000的啟始客戶\]\] [B-LXG@HKG_(20181205103240).jpg](https://zh.wikipedia.org/wiki/File:B-LXG@HKG_\(20181205103240\).jpg "fig:B-LXG@HKG_(20181205103240).jpg")的A350-1000客機\]\] [G-XWBA_LEMD_15-08-2019b.jpg](https://zh.wikipedia.org/wiki/File:G-XWBA_LEMD_15-08-2019b.jpg "fig:G-XWBA_LEMD_15-08-2019b.jpg")的A350-1000客機\]\]
 
 ### 機型訂單
 
@@ -159,17 +157,6 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Lei&#39;s_Airways_Co.,_Ltd" title="wikilink">Lei's Airways Co., Ltd</a></p></td>
-<td><p>2023</p></td>
-<td></td>
-<td><p><strong>7</strong></p></td>
-<td><p><strong>1</strong></p></td>
-<td><p><strong>8</strong></p></td>
-<td></td>
-<td><p>A350-900四張為意向訂單</p></td>
-</tr>
-<tr class="odd">
-<td></td>
 <td><p><a href="../Page/泛非航空.md" title="wikilink">泛非航空</a></p></td>
 <td></td>
 <td></td>
@@ -179,7 +166,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td></td>
 <td><p>原计划訂購6架A350-800[28] ，於2012年10月1日轉為订购10架A350-900[29]。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/加勒比海航空" title="wikilink">加勒比海航空</a></p></td>
 <td><p>2017</p></td>
@@ -190,18 +177,18 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>2</strong></p></td>
 <td><p>其中A350-900已於2017年起交付，而A350-1000將於2020年交付</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/中國國際航空" title="wikilink">中國國際航空</a></p></td>
 <td><p>2018</p></td>
 <td></td>
-<td><p><strong>30</strong></p></td>
-<td></td>
+<td><p><strong>25</strong></p></td>
+<td><p><strong>5</strong></p></td>
 <td><p><strong>30</strong></p></td>
 <td><p><strong>10</strong></p></td>
 <td><p>其中B-1083采用“多彩世园号”彩绘，第十架於2019年5月交付;2019年7月11日加订20架。[30]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/法國航空.md" title="wikilink">法國航空</a></p></td>
 <td><p>2019</p></td>
@@ -212,7 +199,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>5</strong></p></td>
 <td><p>首架A350-900已於2019年9月交付</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>Air Lease Corporation</p></td>
 <td><p>2018</p></td>
@@ -223,7 +210,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/毛里裘斯航空.md" title="wikilink">毛里裘斯航空</a></p></td>
 <td><p>2017[31]</p></td>
@@ -234,7 +221,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>2</strong></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/亞洲航空X" title="wikilink">亞洲航空X</a></p></td>
 <td><p>2020</p></td>
@@ -245,7 +232,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>align="left|Aircraft Purchase Fleet</p></td>
 <td></td>
@@ -256,7 +243,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td></td>
 <td><p>2014年3月取消订购12架A350-800[32]。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>ALAFCO</p></td>
 <td></td>
@@ -267,18 +254,18 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>5</strong></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/美國航空.md" title="wikilink">美國航空</a></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p><strong>12</strong></p></td>
+<td><p><strong>12</strong></p></td>
 <td></td>
 <td><p>2013年12月27日將原计划订购18架A350-800轉換為全数订购A350-900[33][34][35]。 2016年7月22日宣布22架將延後至2018年交付[36] 。 2018年4月7日美國航空決定取消訂單，並轉購B787系列。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="../Page/韓亞航空.md" title="wikilink">韓亞航空</a></p></td>
 <td><p>2017</p></td>
@@ -289,7 +276,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>9</strong></p></td>
 <td><p>其中A350-900已於2017年起交付，而A350-1000則預計於2020年起陆续交付。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/AWAS.md" title="wikilink">AWAS</a></p></td>
 <td></td>
@@ -300,7 +287,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td></td>
 <td><p>2014年轉移訂單至A350-900[37]，2016年5月取消兩架訂單。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="../Page/曼谷航空.md" title="wikilink">曼谷航空</a></p></td>
 <td></td>
@@ -311,7 +298,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td></td>
 <td><p>訂購4架A350-800[38]，於2011年9月6日取消[39]。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/英國航空.md" title="wikilink">英國航空</a></p></td>
 <td><p>2019</p></td>
@@ -322,7 +309,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>2</strong></p></td>
 <td><p>2019年8月2日接收了首架A350-1000客機</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="../Page/國泰航空.md" title="wikilink">國泰航空</a></p></td>
 <td><p>2016</p></td>
@@ -333,7 +320,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>36</strong></p></td>
 <td><p>原计划訂購30架A350-900[40][41]， 2012年1月20日追加订购6架[42]，2012年8月8日將其中16架轉為订购A350-1000且另外加定10架[43][44]。2017年9月13日將订购6架A350-1000轉為订购A350-900</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/中華航空.md" title="wikilink">中華航空</a></p></td>
 <td><p>2016</p></td>
@@ -344,29 +331,29 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>14</strong></p></td>
 <td><p>于2018年10月交付完畢</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/中國東方航空" title="wikilink">中國東方航空</a></p></td>
 <td><p>2018</p></td>
 <td></td>
 <td><p><strong>20</strong></p></td>
-<td></td>
-<td><p><strong>20</strong></p></td>
-<td><p><strong>6</strong></p></td>
+<td><p><strong>10</strong></p></td>
+<td><p><strong>30</strong></p></td>
+<td><p><strong>8</strong></p></td>
 <td><p>首架A350-900B-304D已於2018年11月29日接收</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/中國南方航空" title="wikilink">中國南方航空</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td><p><strong>20</strong></p></td>
-<td></td>
-<td><p><strong>20</strong></p></td>
+<td><p><strong>10</strong></p></td>
+<td><p><strong>30</strong></p></td>
 <td><p><strong>3</strong></p></td>
 <td><p>中國南方航空已於2019年6月29日接收首架B-308T</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="../Page/CIT集團.md" title="wikilink">CIT集團</a></p></td>
 <td><p>2016</p></td>
@@ -377,7 +364,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>4</strong></p></td>
 <td><p>原计划訂購5架A350-800及2架A350-900[45][46]，2011年7月1日取消所有A350-800订单並加定3架A350-900[47]，2013年1月3日再追加订购10架A350-900[48]。再于2013年11月30日取消订一架A350-900[49]。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/達美航空.md" title="wikilink">達美航空</a></p></td>
 <td><p>2017</p></td>
@@ -388,7 +375,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>13</strong></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿聯酋航空" title="wikilink">阿聯酋航空</a></p></td>
 <td><p>2021</p></td>
@@ -399,7 +386,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td></td>
 <td><p>原计划订购50架A350-900及20架A350-1000，之後全數改訂为A380，与空中巴士談判後，取消50架A380的订购计划，并于2019年2月14日確認訂購30架A350-900客機(隨時可能轉單A350-1000XWB)[50][51]。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/埃塞俄比亞航空.md" title="wikilink">埃塞俄比亞航空</a></p></td>
 <td><p>2017</p></td>
@@ -410,7 +397,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>10</strong></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="../Page/阿提哈德航空.md" title="wikilink">阿提哈德航空</a></p></td>
 <td><p>2019</p></td>
@@ -421,7 +408,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/芬蘭航空" title="wikilink">芬蘭航空</a></p></td>
 <td><p>2016</p></td>
@@ -432,7 +419,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>14</strong></p></td>
 <td><p>原计划訂購11架A350-900[52]，于2014年12月3日將8架選購订单转為確認訂單[53]。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>公務、私人機</p></td>
 <td></td>
@@ -443,7 +430,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>Groupe Dubreuil</p></td>
 <td><p>2016</p></td>
@@ -454,7 +441,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>1</strong></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="../Page/夏威夷航空.md" title="wikilink">夏威夷航空</a></p></td>
 <td></td>
@@ -465,7 +452,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td></td>
 <td><p>原计划訂購6架A350-800[54][55]，後改定6架<a href="https://zh.wikipedia.org/wiki/空中客车A330neo" title="wikilink">A330-800neo</a>[56]。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/香港航空.md" title="wikilink">香港航空</a></p></td>
 <td><p>2017</p></td>
@@ -476,7 +463,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>3</strong></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="../Page/西班牙國家航空.md" title="wikilink">西班牙國家航空</a></p></td>
 <td><p>2018</p></td>
@@ -487,18 +474,18 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>1</strong></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/伊朗航空.md" title="wikilink">伊朗航空</a></p></td>
-<td><p>2019</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td><p><strong>16</strong></p></td>
 <td><p><strong>16</strong></p></td>
 <td></td>
-<td></td>
+<td><p>因美國恢復對伊朗制裁行動，訂單取消</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="../Page/日本航空.md" title="wikilink">日本航空</a></p></td>
 <td><p>2019</p></td>
@@ -509,7 +496,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>3</strong></p></td>
 <td><p>首架A350-900已於2019年6月2日交付，A350-1000預計2019年6月交付</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/翠鳥航空.md" title="wikilink">翠鳥航空</a></p></td>
 <td></td>
@@ -520,7 +507,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td></td>
 <td><p>2013年12月31日取消订购4架A350-800[57][58]。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="../Page/荷蘭皇家航空.md" title="wikilink">荷蘭皇家航空</a></p></td>
 <td><p>2021</p></td>
@@ -531,7 +518,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/科威特航空.md" title="wikilink">科威特航空</a></p></td>
 <td><p>2019</p></td>
@@ -542,7 +529,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南美航空集團" title="wikilink">南美航空集團</a></p></td>
 <td><p>2015</p></td>
@@ -553,7 +540,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>7</strong></p></td>
 <td><p>2015年轉換其中6架A350-900订单为A350-1000[59]。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/利比亞航空.md" title="wikilink">利比亞航空</a></p></td>
 <td></td>
@@ -564,7 +551,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td></td>
 <td><p>原计划訂購4架A350-800[60]，於2014年1月轉為订购6架A350-900。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/漢莎航空" title="wikilink">漢莎航空</a></p></td>
 <td><p>2016</p></td>
@@ -575,7 +562,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>15</strong></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/菲律賓航空.md" title="wikilink">菲律賓航空</a></p></td>
 <td><p>2018</p></td>
@@ -586,9 +573,9 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>6</strong></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡達航空" title="wikilink">卡達航空</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡塔爾航空" title="wikilink">卡塔爾航空</a></p></td>
 <td><p>2014</p></td>
 <td></td>
 <td><p><strong>38</strong></p></td>
@@ -597,18 +584,18 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>48</strong></p></td>
 <td><p>首次訂購時包含20架A350-800[61][62]，於2012年12月3日轉換為3架A350-900及17架A350-1000[63]。卡達航空同時将A350-900及A350-1000投入运营，並於2015年1月15日開始首次A350-900商業航班服務,首架A350-1000已於2018年2月21日交付並於2018年2月24日A350-1000投入商業航班服務,首航为倫敦<a href="https://zh.wikipedia.org/wiki/希斯路" title="wikilink">希斯路航线</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/北歐航空.md" title="wikilink">北歐航空</a></p></td>
 <td><p>2019</p></td>
 <td></td>
 <td><p><strong>8</strong></p></td>
-<td></td>
-<td><p><strong>8</strong></p></td>
+<td><p><strong>4</strong></p></td>
+<td><p><strong>12</strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="../Page/新加坡航空.md" title="wikilink">新加坡航空</a></p></td>
 <td><p>2016</p></td>
@@ -619,7 +606,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>47</strong></p></td>
 <td><p>首次訂購20架A350[64]，2012年12月13日追加20架[65]，2013年5月30日再追加30架[66][67]。2017年7月取消7架[68]。2015年10月訂購額外4架[69]。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/四川航空.md" title="wikilink">四川航空</a></p></td>
 <td><p>2018</p></td>
@@ -630,7 +617,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>4</strong></p></td>
 <td><p>斯里兰卡航空取消全部四架订单后将其订单全部转交给四川航空；后四川航空加购10架;</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>Synergy Aerospace</p></td>
 <td><p>2020</p></td>
@@ -641,7 +628,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td></td>
 <td><p>销售给巴西<a href="https://zh.wikipedia.org/wiki/哥倫比亞航空" title="wikilink">哥倫比亞航空</a>。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/TAP葡萄牙航空.md" title="wikilink">TAP葡萄牙航空</a></p></td>
 <td></td>
@@ -652,7 +639,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td></td>
 <td><p>原计划訂購12架A350-900，預計2017年投入服務，2015年11月13日改定14架<a href="https://zh.wikipedia.org/wiki/空中客车A330neo" title="wikilink">A330-900neo取代之</a><ref>{{Cite web |url=<a href="http://www.airbus.com/newsevents/news-events-single/detail/tap-portugal-orders-14-a330-900neo-and-39-a320neo-family-aircraft/">http://www.airbus.com/newsevents/news-events-single/detail/tap-portugal-orders-14-a330-900neo-and-39-a320neo-family-aircraft/</a> |title=TAP Portugal orders 14 A330-900neo and 39 A320neo Family aircraft</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="../Page/泰國國際航空.md" title="wikilink">泰國國際航空</a></p></td>
 <td><p>2016</p></td>
@@ -663,7 +650,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>12</strong></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/突尼斯航空.md" title="wikilink">突尼斯航空</a></p></td>
 <td></td>
@@ -674,7 +661,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td></td>
 <td><p>2013年5月31日取消3架A350-800订单[70]<ref>{{Cite web |url=<a href="http://www.flightglobal.com/news/articles/tunisair-appears-to-cancel-a350-800-order-386812/">http://www.flightglobal.com/news/articles/tunisair-appears-to-cancel-a350-800-order-386812/</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>匿名客戶</p></td>
 <td></td>
@@ -685,7 +672,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/聯合航空.md" title="wikilink">聯合航空</a></p></td>
 <td><p>2022</p></td>
@@ -696,7 +683,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td></td>
 <td><p>原计划訂購25架A350-900，2013年6月20日将原订单全數轉為A350-1000且另外加定10架。在原订单数基础上，2017年9月7日轉為共45架A350-900订单。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="../Page/越南航空.md" title="wikilink">越南航空</a></p></td>
 <td><p>2016</p></td>
@@ -707,7 +694,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>13</strong></p></td>
 <td><p>預計於2020年交付完畢</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/維珍航空.md" title="wikilink">維珍航空</a></p></td>
 <td><p>2019</p></td>
@@ -718,7 +705,7 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>2</strong></p></td>
 <td><p>2019年7月20日接收首架A350-1000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="../Page/也門航空.md" title="wikilink">也門航空</a></p></td>
 <td><p>2019</p></td>
@@ -728,6 +715,17 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p><strong>10</strong></p></td>
 <td></td>
 <td><p>[71][72][73]</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="../Page/土耳其航空.md" title="wikilink">土耳其航空</a></p></td>
+<td><p>2020</p></td>
+<td></td>
+<td><p><strong>20</strong></p></td>
+<td><p><strong>5</strong></p></td>
+<td><p><strong>25</strong></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -741,13 +739,24 @@ A350 XWB的巡航速度大約為0.85馬赫，與競爭機型波音787接近。�
 <td><p>星宇航空董事長<a href="../Page/張國煒.md" title="wikilink">張國煒</a>與空中巴士集團於2019年3月19日在英國<a href="https://zh.wikipedia.org/wiki/法恩堡航空展" title="wikilink">法恩堡航空展簽訂</a>17架訂单，包含5架A350-900、12架A350-1000，其中A350-900預計2021年底開始交付，而A350-1000預計在2022年第三季開始交付，17架A350預計在2024年底全數交付完畢;2019年11月8日星宇航空決定把其中4架的A350-1000訂 單轉移至A350-900，使A350-900的訂單增加至9架，A350-1000的訂單因應轉移機種而減少至8架[74]</p></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p><strong>2</strong></p></td>
+<td></td>
+<td><p><strong>2</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>總計</p></td>
 <td></td>
 <td></td>
 <td><p>—</p></td>
-<td><p><strong>769</strong></p></td>
-<td><p><strong>185</strong></p></td>
-<td><p><strong>954</strong></p></td>
+<td><p><strong>737</strong></p></td>
+<td><p><strong>176</strong></p></td>
+<td><p><strong>913</strong></p></td>
 <td><p><strong>320</strong></p></td>
 <td></td>
 </tr>

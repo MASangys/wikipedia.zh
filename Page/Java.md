@@ -22,7 +22,7 @@ Java不同於一般的[编译語言或](https://zh.wikipedia.org/wiki/编译語�
 
 工作小組使用的是[嵌入式系統](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")，可以用的資源極其有限。很多成員發現C++太複雜以至很多開發者經常錯誤使用。他們發現C++缺少[垃圾回收系統](../Page/垃圾回收_\(計算機科學\).md "wikilink")，還有可移植的安全性、[分佈程序設計](https://zh.wikipedia.org/wiki/分佈程序設計 "wikilink")、和[多執行緒功能](https://zh.wikipedia.org/wiki/多執行緒 "wikilink")。最後，他們想要一種易於移植到各種設備上的平台。
 
-根據可用的資金，喬伊決定開發一種集[C語言和](https://zh.wikipedia.org/wiki/C語言 "wikilink")[Mesa語言大成的新語言](https://zh.wikipedia.org/wiki/Mesa語言 "wikilink")，在一份報告上，喬伊把它叫做「未來」，他提議Sun公司的工程師應該在C++的基礎上，開發一種[物件導向的環境](https://zh.wikipedia.org/wiki/物件導向 "wikilink")。最初，高斯林試圖修改和擴展C++的功能，他自己稱這種新語言為C++ ++ --，但是後來他放棄了。他將要創造出一種全新的語言，被他命名為「**Oak**」（橡樹），以他的辦公室外的橡樹命名。
+根據可用的資金，喬伊決定開發一種集[C語言和](https://zh.wikipedia.org/wiki/C語言 "wikilink")[Mesa語言大成的新語言](https://zh.wikipedia.org/wiki/Mesa語言 "wikilink")，在一份報告上，喬伊把它叫做「未來」，他提議Sun公司的工程師應該在C++的基礎上，開發一種[物件導向的環境](https://zh.wikipedia.org/wiki/物件導向 "wikilink")。最初，高斯林試圖修改和擴展C++的功能，，但是後來他放棄了。他將要創造出一種全新的語言，被他命名為「**Oak**」（橡樹），以他的辦公室外的橡樹命名。
 
 就像很多開發新技術的秘密工程一樣，工作小組沒日沒夜地工作到了1993年的夏天，他們能夠演示新平台的一部分了，包括Green[操作系统](../Page/操作系统.md "wikilink")，Oak的程序設計語言，類庫及其硬件。最初的嘗試是面向一種類[PDA設備](https://zh.wikipedia.org/wiki/PDA "wikilink")，被命名為**Star7**，這種設備有鮮豔的圖形界面和被稱為「Duke」的智能代理來幫助用戶。1992年12月3日，這台設備進行了展示。
 

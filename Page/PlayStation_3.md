@@ -149,7 +149,7 @@ PlayStation 3于2009年9月1日全球發布新輕薄版**PS3 slim**，機器上�
 
 #### 2019年
 
-PS3主機至今已停止生產，但是至2019年主機仍可以透過網路更新內部韌體系統，表示PS3並沒有完全被原廠淘汰掉；4.85系统现已通过HFW实现破解！\[57\]。
+PS3主機至今已停止生產，但是至2019年主機仍可以透過網路更新內部韌體系統，表示PS3並沒有完全被原廠淘汰掉；3月9日起PS3與PS Vita將不再提供PS Plus的免費遊戲\[57\]。
 
 ## 詳細規格
 
@@ -640,25 +640,25 @@ PlayStation 3的遊戲以[Blu-ray Disc作為儲存媒體](https://zh.wikipedia.o
 
 ## CELL开发史
 
-两位担任Cell处理器研发重梁的工程师David Shippy与Mikie Phipps，在新书The Race For A New Game Machine中回忆起2001年Sony/IBM/Toshiba三者投资40亿美元Cell五年计划如何与微软的新主机研发产生联系。IBM在整个计划中提供研发人力，设于美国德州Austin的研发总部有着Sony及Toshiba派遣的工程师团队，大家一同生活吃住，目标为2005年圣诞节让PS3上市。 就当2002年微软与IBM接触后，事情有了变化。在IBM的Adam Bennett甚至向微软公开正在开发中的Cell规格详图，微软决定交由IBM研发新主机的CPU，至此IBM两手掌握两大订单。 一段诡奇的回忆：同住于紧邻小卧间的IBM的员工得对来自Sony与Toshiba的工程师保密以防他们为微软设计处理器的合约计划泄漏，而360处理器晶片的验证进度也比Cell超前。Shippy先生感受到一股良知上的煎熬，称自己的本性已被污染，因为他是在用着之前为PS3主机处理器设计过程中所学到的经验在与微软工程师协同规划新处理器的架构需求。 Sony遭遇的惨事不只于此，就当IBM完成两大公司的设计合约后，IBM的晶片制造部门却发生问题。相比于未预料到此巨变的Sony因此遭受六周的推迟才拿到第一批Cell晶片，微软将备用产能转移于第三厂商的先见之明让微软比Sony还早拿到新主机的处理器晶片。微软拿到了Sony出钱培养工程师积累经验后研发的晶片，及时赶上2005年11月首发，而PS3最终因一连串阻扰导致推迟一年上市。
+两位担任Cell处理器研发重梁的工程师David Shippy与Mikie Phipps，在新书The Race For A New Game Machine中回忆起2001年Sony/IBM/Toshiba三者投资40亿美元Cell五年计划如何与微软的新主机研发产生联系。IBM在整个计划中提供研发人力，设于美国德州Austin的研发总部有着Sony及Toshiba派遣的工程师团队，大家一同生活吃住，目标为2005年圣诞节让PS3上市。 就当2002年微软与IBM接触后，事情有了变化。在IBM的Adam Bennett甚至向微软公开正在开发中的Cell规格详图，微软决定交由IBM研发新主机的CPU，至此IBM两手掌握两大订单。 一段诡奇的回忆：同住于紧邻小卧间的IBM的员工得对来自Sony与Toshiba的工程师保密以防他们为微软设计处理器的合约计划泄漏，而360处理器晶片的验证进度也比Cell超前。Shippy先生感受到一股良知上的煎熬，称自己的本性已被污染，因为他是在用着之前为PS3主机处理器设计过程中所学到的经验在与微软工程师协同规划新处理器的架构需求。 Sony遭遇的惨事不只于此，就当IBM完成两大公司的设计合约后，IBM的晶片制造部门却发生问题。相比于未预料到此巨变的Sony因此遭受六周的推迟才拿到第一批Cell晶片，微软将备用产能转移于第三厂商的先见之明让微软比Sony还早拿到新主机的处理器晶片。微软拿到了Sony出钱培养工程师积累经验后研发的晶片，及时赶上2005年11月首发，而PS3最终因一连串阻扰导致推迟一年上市。\[91\]
 
 ## 黃燈故障
 
-初期PlayStation 3版本主機出現故障時，情況是開機後先是綠燈，後出現紅燈閃爍，伴有B.B.B.響三聲，或者遊戲過程中突然死機黑屏，紅燈閃爍，觸碰電源鍵後閃現黃燈而又變回紅燈。「死亡黃燈」出現的主要原因與XBOX360類似，主要是由於主機過熱造成的主板變形、元件老化以及脫焊。XBOX360的「三紅」屬於「急性」故障，因為一次或者幾次的驟冷驟熱直接就會導致「三紅」，PS3的「死亡黃燈」則屬於「慢性」的，隨著時間的積累而發作。而長時間連續遊戲的主機更易出現「死亡黃燈」。由於是過熱導致的損壞，部份「死亡黃燈」發生原因是超級電容器故障導致,初期的60GB以及20GB版本之首冠，老80GB與40GB次之。而最新批次的新80GB由於採用了雙65NM製程，功耗與發熱大大降低，出現「死亡黃燈」的概率較低。
+初期PlayStation 3版本主機出現故障時，情況是開機後先是綠燈，後出現紅燈閃爍，伴有B.B.B.響三聲，或者遊戲過程中突然死機黑屏，紅燈閃爍，觸碰電源鍵後**閃現黃燈**而又變回紅燈。「死亡黃燈」出現的主要原因與XBOX360類似，主要是由於主機過熱造成的主板變形、元件老化以及脫焊。\[92\]XBOX360的「三紅」屬於「急性」故障，因為一次或者幾次的驟冷驟熱直接就會導致「三紅」，PS3的「死亡黃燈」則屬於「慢性」的，隨著時間的積累而發作。而長時間連續遊戲的主機更易出現「死亡黃燈」。由於是過熱導致的損壞，部份「死亡黃燈」發生原因是超級電容器故障導致,初期的60GB以及20GB版本之首冠，老80GB與40GB次之。而最新批次的新80GB由於採用了雙65NM製程，功耗與發熱大大降低，出現「死亡黃燈」的概率較低。\[93\]\[94\]
 
 ## 評價
 
 [PS3s_and_controllers_at_E3_2006.jpg](https://zh.wikipedia.org/wiki/File:PS3s_and_controllers_at_E3_2006.jpg "fig:PS3s_and_controllers_at_E3_2006.jpg")
 
-在推出後不久，PlayStation 3被批評其過高的價格以及缺乏高品質的首批遊戲\[91\]\[92\]。然而，在接連的售價調降、藍光光碟在市場上擊敗[HD DVD](../Page/HD_DVD.md "wikilink")\[93\]，以及多款受到好評的遊戲推出後（包括[秘境探險：黃金城秘寶](../Page/秘境探險：黃金城秘寶.md "wikilink")、[潛龍諜影4：愛國者之槍](https://zh.wikipedia.org/wiki/潛龍諜影4：愛國者之槍 "wikilink")），PlayStation 3開始獲得較多的正面評價。
+在推出後不久，PlayStation 3被批評其過高的價格以及缺乏高品質的首批遊戲\[95\]\[96\]。然而，在接連的售價調降、藍光光碟在市場上擊敗[HD DVD](../Page/HD_DVD.md "wikilink")\[97\]，以及多款受到好評的遊戲推出後（包括[秘境探險：黃金城秘寶](../Page/秘境探險：黃金城秘寶.md "wikilink")、[潛龍諜影4：愛國者之槍](https://zh.wikipedia.org/wiki/潛龍諜影4：愛國者之槍 "wikilink")），PlayStation 3開始獲得較多的正面評價。
 
-在《[PC World](../Page/PC_World.md "wikilink")》雜誌的「2006年搞砸的科技產品排行榜」（The Top 21 Tech Screwups of 2006）中，PS3名列第八，該雜誌認為「發售太晚、太貴、缺乏相容性」\[94\]。GamesRadar將PS3選為遊戲產業[公關宣傳災難的第一名](https://zh.wikipedia.org/wiki/公共關係 "wikilink")，探討索尼為何將「史上最受歡迎的遊戲主機（PS2）變成網路上惡評不斷的糟糕產品」，但同時也認為除了這些問題之外，主機本身有「尚未利用到的潛能」\[95\]。美國《[商業週刊](https://zh.wikipedia.org/wiki/商業週刊 "wikilink")》（*Business Week*）歸納了各方評價，做出「（PS3）未來的可能性比目前的表現更加引人關注」的結論。\[96\]
+在《[PC World](../Page/PC_World.md "wikilink")》雜誌的「2006年搞砸的科技產品排行榜」（The Top 21 Tech Screwups of 2006）中，PS3名列第八，該雜誌認為「發售太晚、太貴、缺乏相容性」\[98\]。GamesRadar將PS3選為遊戲產業[公關宣傳災難的第一名](https://zh.wikipedia.org/wiki/公共關係 "wikilink")，探討索尼為何將「史上最受歡迎的遊戲主機（PS2）變成網路上惡評不斷的糟糕產品」，但同時也認為除了這些問題之外，主機本身有「尚未利用到的潛能」\[99\]。美國《[商業週刊](https://zh.wikipedia.org/wiki/商業週刊 "wikilink")》（*Business Week*）歸納了各方評價，做出「（PS3）未來的可能性比目前的表現更加引人關注」的結論。\[100\]
 
-發售初期獲得的一些負面評價之外，部分知名網站也給予PS3正面的評論。英國[CNET](../Page/CNET.md "wikilink")讚揚「PS3是一部令人驚艷的萬能家庭娛樂裝置，雖然售價高昂但物有所值」\[97\]。CNET在滿分10分中將PS3評為8.8分，並選為「必買電子產品」的第一名\[98\]，讚揚其優越的繪圖能力和時髦的外觀設計，但同時也批評其遊戲選擇過少\[99\]。
+發售初期獲得的一些負面評價之外，部分知名網站也給予PS3正面的評論。英國[CNET](../Page/CNET.md "wikilink")讚揚「PS3是一部令人驚艷的萬能家庭娛樂裝置，雖然售價高昂但物有所值」\[101\]。CNET在滿分10分中將PS3評為8.8分，並選為「必買電子產品」的第一名\[102\]，讚揚其優越的繪圖能力和時髦的外觀設計，但同時也批評其遊戲選擇過少\[103\]。
 
-此外，《家庭劇院雜誌》（*Home Theater Magazine*）和《終極視聽》（*Ultimate AV*）皆給予PS3的藍光播放能力極高的評價，兩本雜誌認為PS3的藍光播放品質超越了許多市場上的[藍光播放機](../Page/藍光光碟.md "wikilink")\[100\]\[101\]。此外，「歐洲影音協會」（European Imaging and Sound Association，EISA）將PS3評為2007/2008年最佳媒體中心\[102\]。
+此外，《家庭劇院雜誌》（*Home Theater Magazine*）和《終極視聽》（*Ultimate AV*）皆給予PS3的藍光播放能力極高的評價，兩本雜誌認為PS3的藍光播放品質超越了許多市場上的[藍光播放機](../Page/藍光光碟.md "wikilink")\[104\]\[105\]。此外，「歐洲影音協會」（European Imaging and Sound Association，EISA）將PS3評為2007/2008年最佳媒體中心\[106\]。
 
-*Hexus Gaming*評論PAL版本的PS3並表示「......隨著PlayStation 3逐漸成熟，開發者也開始努力製作遊戲，我們將會看到PlayStation 3成為遊戲的最佳選擇。」\[103\]。在2007年的[遊戲開發者大會](https://zh.wikipedia.org/wiki/遊戲開發者大會 "wikilink")（Game Developers Conference，GDC）上，[Shiny Entertainment公司的創辦人大衛](../Page/Shiny_Entertainment.md "wikilink")·派瑞（David Perry）表示︰「我認為索尼做出了最棒的遊戲主機，毫無疑問這是硬體上的絕佳作品」\[104\]。而[Ars Technica在](../Page/Ars_Technica.md "wikilink")2008年6月對PS3做出的第二篇評論，將分數由最初的6/10提升為8/10\[105\]。
+*Hexus Gaming*評論PAL版本的PS3並表示「......隨著PlayStation 3逐漸成熟，開發者也開始努力製作遊戲，我們將會看到PlayStation 3成為遊戲的最佳選擇。」\[107\]。在2007年的[遊戲開發者大會](https://zh.wikipedia.org/wiki/遊戲開發者大會 "wikilink")（Game Developers Conference，GDC）上，[Shiny Entertainment公司的創辦人大衛](../Page/Shiny_Entertainment.md "wikilink")·派瑞（David Perry）表示︰「我認為索尼做出了最棒的遊戲主機，毫無疑問這是硬體上的絕佳作品」\[108\]。而[Ars Technica在](../Page/Ars_Technica.md "wikilink")2008年6月對PS3做出的第二篇評論，將分數由最初的6/10提升為8/10\[109\]。
 
 ## 相關條目
 
@@ -774,7 +774,7 @@ PlayStation 3的遊戲以[Blu-ray Disc作為儲存媒體](https://zh.wikipedia.o
 89. [如何購買](http://asia.playstation.com/tw/cht/psn/p/topUpMethod)，PlayStation.com台灣
 90.
 91.
-92.
+92. In response to the televised report, Sony issued a document criticizing the program's accuracy and conclusions; specifically that the faults were evidence of a manufacturing defect. The document also complained that the report had been inappropriate in tone and might damage Sony's brand name.
 93.
 94.
 95.
@@ -788,3 +788,7 @@ PlayStation 3的遊戲以[Blu-ray Disc作為儲存媒體](https://zh.wikipedia.o
 103.
 104.
 105.
+106.
+107.
+108.
+109.

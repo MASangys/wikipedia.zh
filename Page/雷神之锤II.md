@@ -85,6 +85,6 @@
   - [Source code of the engine version 3.21](ftp://ftp.idsoftware.com/idstuff/source/q2source-3.21.zip)
   - [*Quake II* at PlanetQuake](http://planetquake.gamespy.com/quake2/)
   - [Quake2DS Official website](https://web.archive.org/web/20090803124038/http://quake.drunkencoders.com/index_q2.html)
-  - [雷神之鎚論壇 - QUAKE.iDV.TW](http://quake.idv.tw/)
+  - [雷神之鎚論壇 - QUAKE.iDV.TW](https://web.archive.org/web/20110127012048/http://quake.idv.tw/)
 
 [Category:雷神之锤系列](https://zh.wikipedia.org/wiki/Category:雷神之锤系列 "wikilink") [Category:1997年电子游戏](https://zh.wikipedia.org/wiki/Category:1997年电子游戏 "wikilink") [Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink") [Category:电脑游戏](https://zh.wikipedia.org/wiki/Category:电脑游戏 "wikilink") [Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink") [Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:任天堂64遊戲](https://zh.wikipedia.org/wiki/Category:任天堂64遊戲 "wikilink") [Category:动视游戏](https://zh.wikipedia.org/wiki/Category:动视游戏 "wikilink") [Category:电子竞技游戏](https://zh.wikipedia.org/wiki/Category:电子竞技游戏 "wikilink")

@@ -85,7 +85,7 @@ GPRS的移动终端（Mobile Station，MS） 分為三類。
   - [免费在线教程](https://web.archive.org/web/20050401084038/http://www.comsoc.org/livepubs/surveys/public/3q99issue/bettstetter.html)
   - [GSM World - 负责GSM和GPRS的协会](https://web.archive.org/web/20050207090121/http://www.gsmworld.com/technology/gprs/intro.shtml)
   - [GPRS附着和PDP激活时序图](http://www.eventhelix.com/RealtimeMantra/Telecom/gprs_attach_pdp_sequence_diagram.pdf)（PDF文档）
-  - [手机通讯](http://www.areacodesexplorer.com/)
+  - [手机通讯](https://web.archive.org/web/20140516205737/http://areacodesexplorer.com/)
 
 ## 参看
 

@@ -70,10 +70,10 @@ MAME 由多個元件組成，包含：中央處理器模擬器，用以模擬各
   - [XMAME](http://freshmeat.net/projects/xmame/) - [Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink") 版本
   - [MacMAME](https://web.archive.org/web/20040729233305/http://macmame.org/) - [Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")（[麥金塔](../Page/麥金塔.md "wikilink")）版本
   - [BeMAME](http://www.beemulated.net/arcade/multi.phtml) - [BeOS](../Page/BeOS.md "wikilink") 版本
+  - [MAME/MESS for Mac OS X - 64-bit Intel](https://sdlmame.lngn.net/) - [macOS版本](https://zh.wikipedia.org/wiki/macOS "wikilink")
 
 ### 相關資料
 
-  - [MAMEWorld.net](http://www.mameworld.net/) - 提供 MAME 豐富資源、相關週邊的連結等
   - [Mame History.dat](http://www.arcade-history.com) - 記錄各個遊戲的歷史資料
   - [Mameinfo.dat](http://www.mameworld.net/mameinfo/) - 記錄各個驅動的模擬進度
   - MAME 遊戲的非官方譯名对照：[Za-Zz](https://web.archive.org/web/20071224151508/http://towerhe.javaeye.com/blog/93711)

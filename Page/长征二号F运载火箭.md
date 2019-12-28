@@ -40,7 +40,7 @@
 
 ### 換發型（长征二号F/H）
 
-**长征二号F換發型运载火箭**，简称**长二F换**（），以长征二号F為基礎，**換**上使用无毒无污染低溫[煤油](https://zh.wikipedia.org/wiki/煤油 "wikilink")、[液氧](../Page/液氧.md "wikilink")推進劑的**發**動機，用于[无人的货运任务](https://zh.wikipedia.org/wiki/天舟號貨運飛船 "wikilink")。此計劃已经被[长征七号系列运载火箭代替](../Page/长征七号运载火箭.md "wikilink")。
+**长征二号F換發型运载火箭**，简称**长二F换**（），以长征二号F為基礎，**換**上使用无毒无污染低溫[煤油](../Page/煤油.md "wikilink")、[液氧](../Page/液氧.md "wikilink")推進劑的**發**動機，用于[无人的货运任务](https://zh.wikipedia.org/wiki/天舟號貨運飛船 "wikilink")。此計劃已经被[长征七号系列运载火箭代替](../Page/长征七号运载火箭.md "wikilink")。
 
 ## 发射纪录
 

@@ -54,7 +54,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1965-66_NBA赛季" title="wikilink">1965-66</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/多尔夫·谢伊斯" title="wikilink">多尔夫·谢伊斯</a></p></td>
+<td><p><a href="../Page/多尔夫·谢伊斯.md" title="wikilink">多尔夫·谢伊斯</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/费城76人队" title="wikilink">费城76人队</a></p></td>
 <td><p>55–25</p></td>
 <td><p>分區第一，總教練同時也是<a href="../Page/NBA50大巨星.md" title="wikilink">NBA50大巨星</a>之一[6]。</p></td>

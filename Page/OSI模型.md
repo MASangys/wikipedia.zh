@@ -10,7 +10,7 @@
 
 ### 第7層 應用層
 
-應用層（Application Layer）提供為應用軟件而設的接口，以設定與另一應用軟件之間的通訊。例如: HTTP，HTTPS，FTP，TELNET，SSH，SMTP，POP3.HTML.等。
+應用層（Application Layer）提供為應用軟件而設的接口，以設定與另一應用軟件之間的通訊。例如: HTTP、HTTPS、FTP、TELNET、SSH、SMTP、POP3、HTML等。
 
 ### 第6層 表達层
 
@@ -28,15 +28,15 @@
 
 網路層（Network Layer）決定數據的路徑選擇和轉寄，将網絡表頭（NH）加至數據包，以形成封包。網絡表頭包含了網絡資料。例如:互聯網協定（IP）等。
 
-### 第2層 数据链路层
+### 第2層 数据链接层
 
-数据链路层（Data Link Layer）負責網絡尋址、錯誤偵測和改錯。當表頭和表尾被加至數據包時，會形成幀。數據鏈表頭（DLH）是包含了實體位址和錯誤偵測及改錯的方法。數據鏈表尾（DLT）是一串指示數據包末端的字符串。例如乙太網、無線局域网（Wi-Fi）和通用分組無線服務（GPRS）等。
+数据链路层（Data Link Layer）負責網絡尋址、錯誤偵測和改錯。當表頭和表尾被加至數據包時，會形成[資訊框](https://zh.wikipedia.org/wiki/資訊框 "wikilink")（Data Frame）。數據鏈表頭（DLH）是包含了實體位址和錯誤偵測及改錯的方法。數據鏈表尾（DLT）是一串指示數據包末端的字符串。例如乙太網、無線局域网（Wi-Fi）和通用分組無線服務（GPRS）等。
 
 分为两个子层：逻辑链路控制（logical link control，LLC）子层和介质访问控制（Media access control，MAC）子层。
 
 ### 第1層 實體層
 
-實體層（Physical Layer）在局部區域網絡上傳送-{zh-tw:[資料框](https://zh.wikipedia.org/wiki/資料框 "wikilink");zh-cn:[数据帧](https://zh.wikipedia.org/wiki/数据帧 "wikilink")}-（data frame），它負責管理電腦通訊設備和網絡媒體之間的互通。包括了針腳、電壓、線纜規範、集線器、中繼器、網卡、主機介面卡等。
+實體層（Physical Layer）在局部區域網絡上傳送-{zh-tw:[資料框](https://zh.wikipedia.org/wiki/資料框 "wikilink");zh-cn:[数据帧](https://zh.wikipedia.org/wiki/数据帧 "wikilink")}-（Data Frame），它負責管理電腦通訊設備和網絡媒體之間的互通。包括了針腳、電壓、線纜規範、集線器、中繼器、網卡、主機介面卡等。
 
 ## 影响
 

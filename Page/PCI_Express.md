@@ -4,7 +4,7 @@ PCIe拥有更快的速率，所以几乎取代了以往所有的内部[总线](.
 
 除此之外，PCIe设备能够支援[热拔插以及](https://zh.wikipedia.org/wiki/热拔插 "wikilink")[热交换特性](https://zh.wikipedia.org/wiki/热交换 "wikilink")，目前支援的三种电压分别为+3.3V、3.3Vaux以及+12V。
 
-考虑到现在显卡功耗的日益增加，PCIe而后在规范中改善了直接从插槽中取电的功率限制，16x的最大提供功率一度达到了75W\[1\]，相对于AGP 8X接口有了很大的提升。
+考虑到现在显卡功耗的日益增加，PCIe而后在规范中改善了直接从插槽中取电的功率限制，×16的最大提供功率一度达到了75W\[1\]，相对于AGP 8X接口有了很大的提升。
 
 PCIe保证了相容性，支援PCI的作業系統無需進行任何更改即可支援PCIe總線。这也给用户的升级带来方便。由此可见，PCIe最大的意义在于它的通用性，不仅可以让它用于南桥和其他设备的连接，也可以延伸到[芯片组](../Page/芯片组.md "wikilink")间的连接，甚至也可以用于连接圖形處理器，这样，整个[I/O系统重新统一起来](https://zh.wikipedia.org/wiki/I/O "wikilink")，将更进一步简化计算机系统，增加计算机的可移植性和模块化。
 
@@ -83,7 +83,7 @@ PCIe保证了相容性，支援PCI的作業系統無需進行任何更改即可�
 
 ## PCI Express與其他傳輸規格比較
 
-[PCI-Express-Bus.jpg](https://zh.wikipedia.org/wiki/File:PCI-Express-Bus.jpg "fig:PCI-Express-Bus.jpg") [PCI-Express-Bus-1-lane.jpg](https://zh.wikipedia.org/wiki/File:PCI-Express-Bus-1-lane.jpg "fig:PCI-Express-Bus-1-lane.jpg") PCIe的規範主要是為了提升電腦內部所有匯流排的速度，因此[頻寬有多種不同規格標準](https://zh.wikipedia.org/wiki/頻寬 "wikilink")，其中PCIe x16是專為顯示卡所設計的部分。AGP的資料傳輸效率最高為2.1GB／s，不過對上PCIe x16的8GB／s，很明顯的就分出勝負，但8GB／s只有指資料傳輸的理想值，並不是使用PCIe介面的顯示卡，就能夠有突飛猛進的效能表現，實際的測試數據上並不會有這麼大的差異存在。 \[11\] \[12\]
+[PCI-Express-Bus.jpg](https://zh.wikipedia.org/wiki/File:PCI-Express-Bus.jpg "fig:PCI-Express-Bus.jpg") [PCI-Express-Bus-1-lane.jpg](https://zh.wikipedia.org/wiki/File:PCI-Express-Bus-1-lane.jpg "fig:PCI-Express-Bus-1-lane.jpg") PCIe的規範主要是為了提升電腦內部所有匯流排的速度，因此[頻寬有多種不同規格標準](https://zh.wikipedia.org/wiki/頻寬 "wikilink")，其中PCIe ×16是特別為顯示卡所設計。AGP的資料傳輸效率最高為2.1GB／s，不過對上PCIe ×16的8GB／s，很明顯的就分出勝負，但8GB／s是指資料傳輸的理想值，並不是使用PCIe介面的顯示卡，就能夠有突飛猛進的效能表現，實際的測試數據並不會有這麼大的差異存在。 \[11\] \[12\]
 
 | 傳輸通道數 | 腳Pin總數 | 主介面區Pin數 | 總長 度  | 主介面區長度   |
 | ----- | ------ | -------- | ----- | -------- |

@@ -72,4 +72,4 @@ Konqueror还整合了[网络搜索功能](../Page/搜索引擎.md "wikilink")，
 
 [Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink") [Category:檔案浏览器](https://zh.wikipedia.org/wiki/Category:檔案浏览器 "wikilink") [Category:自由网页浏览器](https://zh.wikipedia.org/wiki/Category:自由网页浏览器 "wikilink")
 
-1.  [The KDE on Windows project home page.](http://windows.kde.org/)
+1.

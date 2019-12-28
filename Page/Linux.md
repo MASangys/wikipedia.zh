@@ -81,7 +81,7 @@ Linux具有设备独立性，它内核具有高度适应能力，从而给系统
 
 [每個孩子一台筆記型電腦這一項目正在催生新的更為龐大的Linux用戶群](../Page/OLPC.md "wikilink")，計劃將包括發展中國家的幾億學童、他們的家庭和社區。在2007年，已經有六個國家訂購了至少每個國家一百萬台以上免費發放給學生。[Google](../Page/Google.md "wikilink")、[Red Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[eBay是該項目的主要支持者](https://zh.wikipedia.org/wiki/eBay "wikilink")。
 
-基於其低廉成本與高度可設定性，Linux常常被應用於[嵌入式系統](../Page/嵌入式系统.md "wikilink")，例如[機上盒](../Page/數位視訊轉換盒.md "wikilink")、[行動電話及](../Page/移动电话.md "wikilink")[行動裝置等](../Page/移动设备.md "wikilink")。在行動電話上，Linux已經成為[IOS](../Page/IOS.md "wikilink")的主要競爭者；而在行動裝置上，則成為[Windows CE與](../Page/Windows_Embedded_Compact.md "wikilink")[Palm OS之外另一個選擇](../Page/Palm_OS.md "wikilink")。目前流行的[TiVo](../Page/TiVo.md "wikilink")數位攝影機使用了經過客製化後的Linux。此外，有不少硬體式的[網路防火牆及](../Page/防火墙.md "wikilink")[路由器](../Page/路由器.md "wikilink")，例如部份[LinkSys的產品](../Page/Linksys.md "wikilink")，其內部都是使用Linux來驅動、並採用了作業系統提供的防火牆及路由功能。
+基於其低廉成本與高度可設定性，Linux常常被應用於[嵌入式系統](../Page/嵌入式系统.md "wikilink")，例如[機上盒](../Page/數位視訊轉換盒.md "wikilink")、[行動電話及](../Page/移动电话.md "wikilink")[行動裝置等](../Page/移动设备.md "wikilink")。在行動電話上，基於Linux的[Android](../Page/Android.md "wikilink")已經成為[IOS](../Page/IOS.md "wikilink")的主要競爭者；而在行動裝置上，則成為[Windows CE與](../Page/Windows_Embedded_Compact.md "wikilink")[Palm OS之外另一個選擇](../Page/Palm_OS.md "wikilink")。目前流行的[TiVo](../Page/TiVo.md "wikilink")數位攝影機使用了經過客製化後的Linux。此外，有不少硬體式的[網路防火牆及](../Page/防火墙.md "wikilink")[路由器](../Page/路由器.md "wikilink")，例如部份[LinkSys的產品](../Page/Linksys.md "wikilink")，其內部都是使用Linux來驅動、並採用了作業系統提供的防火牆及路由功能。
 
 ### 個人電腦
 
@@ -111,7 +111,7 @@ Linux发行版也经常使用作为超级计算机的操作系统，2010年11月
 
 ### 智能移动设备
 
-[Android_4.0.png](https://zh.wikipedia.org/wiki/File:Android_4.0.png "fig:Android_4.0.png")是建基於Linux的作業系統，在[智能手機上相當熱門](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。\]\] 在[智能手机](../Page/智能手机.md "wikilink")、[平板电脑等移动设备方面](../Page/平板電腦.md "wikilink")，Linux也得到重要发展，基于Linux内核的[Android](../Page/Android.md "wikilink")操作系统已经超越[诺基亚](../Page/诺基亚.md "wikilink")的[Symbian操作系统](https://zh.wikipedia.org/wiki/Symbian "wikilink")，成为当今全球最流行的智能手机操作系统。在2010年第三季度，销售全球的全部智能手机中使用[Android](../Page/Android.md "wikilink")的占据25.5%（所有的基于Linux的手机操作系统在这段时间为27.6%）。
+[Android_4.0.png](https://zh.wikipedia.org/wiki/File:Android_4.0.png "fig:Android_4.0.png")是建基於Linux的作業系統，在[智能手機上相當熱門](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。\]\] 在[智能手机](../Page/智能手机.md "wikilink")、[平板电脑等移动设备方面](../Page/平板電腦.md "wikilink")，Linux也得到重要发展，基于Linux内核的[Android](../Page/Android.md "wikilink")操作系统已经超越[Apple的](https://zh.wikipedia.org/wiki/Apple "wikilink")[iOS操作系统](https://zh.wikipedia.org/wiki/iOS "wikilink")，成为当今全球最流行的智能手机操作系统。在2010年第三季度，销售全球的全部智能手机中使用[Android](../Page/Android.md "wikilink")的占据25.5%（所有的基于Linux的手机操作系统在这段时间为27.6%）。
 
 从2007年起，手机和[掌上电脑上运行基于Linux的操作系统变得更加普遍](https://zh.wikipedia.org/wiki/掌上电脑 "wikilink")，例如：[诺基亚 N810](https://zh.wikipedia.org/wiki/诺基亚_N810 "wikilink")、[OpenMoko](../Page/OpenMoko.md "wikilink")的Neo1973、摩托罗拉的ROKR E8。[Palm](../Page/Palm.md "wikilink")（后来被[HP公司收购](../Page/惠普.md "wikilink")）推出了一个新的基于Linux的[webOS操作系统](https://zh.wikipedia.org/wiki/webOS "wikilink")，并使用在新生产的Palm Pre智能手机上。
 
@@ -146,7 +146,7 @@ Linux社群中的一些成員，如[埃里克·雷蒙](../Page/埃里克·雷蒙
   - 新的[Linux發行版大多數軟體都有伺服器的服務](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，只要點選就可以自動下載、安裝經過認證的軟體，不需要到市面購買、安裝。
   - Linux學習的投資有效時間較長。舊版軟體、系統都還是存在，有原始碼可以衍生、分支，維護週期普遍比[Windows長很多](https://zh.wikipedia.org/wiki/Windows "wikilink")。就算被放棄，還是可以憑藉原始碼衍生。新的軟體更新發展多樣化，容易養成使用者習慣掌握原理，而不是養成操作習慣。
   - 強大的[Shell及](https://zh.wikipedia.org/wiki/Shell "wikilink")[脚本支援](../Page/脚本语言.md "wikilink")，容易組合出符合需求的環境或創造自動程序。
-  - 預設安全設定相對於目前主流的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[作業系統安全很多](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。\[47\]Windows作業系統為了非專業使用者降低了預設安全性的設定，導致系統容易受到木馬、病毒的侵害。[盜版的Windows更糟糕](../Page/盗版.md "wikilink")，可能隨盜版作業系統捆绑[木馬](../Page/特洛伊木马_\(电脑\).md "wikilink")、[惡意程式](../Page/恶意软件.md "wikilink")，部分預設[超級使用者](../Page/超级用户.md "wikilink")（Administrator）登录、關閉安全更新等問題導致安全性更差。
+  - 預設安全設定相對於目前主流的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[作業系統安全很多](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。\[47\]Windows作業系統為了非專業使用者降低了預設安全性的設定，導致系統容易受到木馬、病毒的侵害。[盜版的Windows更糟糕](../Page/盗版.md "wikilink")，可能隨盜版作業系統捆绑[木馬](../Page/特洛伊木马_\(电脑\).md "wikilink")、[惡意程式](../Page/恶意软件.md "wikilink")，部分預設[超級使用者](../Page/超级用户.md "wikilink")（Administrator）登入、關閉安全更新等問題導致安全性更差。
 
 ### 負面
 

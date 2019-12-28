@@ -193,7 +193,7 @@ KDE还和各类组织、公司进行合作，如Google、维基媒体基金會�
 
 ### 中文社群
 
-  - [KDE简体中文论坛](https://forum.kde-china.org/)
+  - [KDE简体中文论坛](https://web.archive.org/web/20180202190402/https://forum.kde-china.org/)
   - [Planet KDE中文區](http://planetkde.org/zh/)
   - [KDE台灣官方網站](http://kde.linux.org.tw/)
   - [KDE@Taiwan正體中文新聞站](http://kdetw.blogspot.com/)

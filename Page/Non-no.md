@@ -32,7 +32,7 @@
   - [遠藤新菜](https://zh.wikipedia.org/wiki/遠藤新菜 "wikilink")（2014年11月號 - ）○
   - [高田里穗](../Page/高田里穗.md "wikilink")（2014年11月號 - ）○
   - [姜知英](https://zh.wikipedia.org/wiki/姜知英 "wikilink")（2014年12月號 - ）
-  - [西野七濑](https://zh.wikipedia.org/wiki/西野七濑 "wikilink")（[乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")）（2015年6月號-）○
+  - [西野七濑](https://zh.wikipedia.org/wiki/西野七濑 "wikilink")（2015年6月號-）○
   - [馬場富美香](https://zh.wikipedia.org/wiki/馬場富美香 "wikilink")（2015年6月號 - ）○
   - [佐谷戸ミナ](https://zh.wikipedia.org/wiki/佐谷戸ミナ "wikilink")（2015年6月號 - ）○
   - [新川優愛](../Page/新川優愛.md "wikilink")（2015年8月號 - ）○
@@ -195,7 +195,7 @@
 
   - [non-no Web](https://nonno.hpplus.jp/)
 
-[Category:集英社的雜誌](https://zh.wikipedia.org/wiki/Category:集英社的雜誌 "wikilink") [Category:服裝](https://zh.wikipedia.org/wiki/Category:服裝 "wikilink") [Category:時尚雜誌](https://zh.wikipedia.org/wiki/Category:時尚雜誌 "wikilink")
+[Category:集英社的雜誌](https://zh.wikipedia.org/wiki/Category:集英社的雜誌 "wikilink") [Category:服裝](https://zh.wikipedia.org/wiki/Category:服裝 "wikilink") [Category:日本时尚杂志](https://zh.wikipedia.org/wiki/Category:日本时尚杂志 "wikilink")
 
 1.
 2.

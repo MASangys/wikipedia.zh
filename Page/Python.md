@@ -707,6 +707,8 @@ Python是一门跨平台的脚本语言，Python规定了一个Python语法规�
   - [Python Awesome](https://pythonawesome.com/)
 
   -
+  - [Python Question](https://pythonquestion.com/)
+
 ## 参见
 
   - [整合開發環境列表](../Page/整合開發環境列表.md "wikilink")

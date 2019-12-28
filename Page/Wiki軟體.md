@@ -6,7 +6,7 @@
 
 以下主要介紹一些較為著名的Wiki引擎。
 
-  - [MediaWiki](../Page/MediaWiki.md "wikilink")：PHP語言開發的wiki引擎，維基百科所使用的引擎。支持繁簡中文。
+  - [MediaWiki](https://zh.wikipedia.org/wiki/MediaWiki "wikilink")：PHP語言開發的wiki引擎，維基百科所使用的引擎。支持繁簡中文。
       - 安裝需求：[Apache](https://zh.wikipedia.org/wiki/Apache "wikilink") + [PHP](../Page/PHP.md "wikilink") + [MySQL](../Page/MySQL.md "wikilink")
     <!-- end list -->
       -
@@ -71,7 +71,7 @@
 
 ## 参见
 
-  - [MediaWiki](../Page/MediaWiki.md "wikilink")
+  - [MediaWiki](https://zh.wikipedia.org/wiki/MediaWiki "wikilink")
       - [維基百科](https://zh.wikipedia.org/wiki/維基百科 "wikilink")
   - [LAMP](../Page/LAMP.md "wikilink")
       - [Linux](../Page/Linux.md "wikilink")

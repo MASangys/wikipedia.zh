@@ -110,7 +110,7 @@ Linux发行版的多样性是由于不同用户和厂商的技术、哲学和用
 ## 外部链接
 
   - [Distrowatch](https://distrowatch.com/)
-  - [Distribution Reviews](http://www.linuxquestions.org/reviews/index.php)
+  - [Distribution Reviews](https://web.archive.org/web/20050115040400/http://www.linuxquestions.org/reviews/index.php)
   - [Hardware support by Linux distribution](https://web.archive.org/web/20090513105836/http://hardware4linux.info/)
   - [Linux Distribution Chooser](https://web.archive.org/web/20090523090806/http://www.zegeniestudios.net/ldc/) by [Zegenie Studios](https://zh.wikipedia.org/wiki/Zegenie_Studios "wikilink")
   - [The Linux Mirror Project](https://web.archive.org/web/20090603033755/http://tlm-project.org/) Download Linux Distributions over BitTorrent

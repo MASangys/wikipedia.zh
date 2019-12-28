@@ -12,7 +12,7 @@
 
 2007年1月26日，敦豪宣布正式启动在中国国内的货物空运业务\[3\]。
 
-2018年10月26日，[順豐速運透過順豐香港與](https://zh.wikipedia.org/wiki/順豐速運 "wikilink")[德國郵政敦豪集團](https://zh.wikipedia.org/wiki/德國郵政 "wikilink")（DPDHL）達成戰略合作，順豐香港以7億歐元/55億元人民幣/62億港元現金收購[德國郵政敦豪集團](https://zh.wikipedia.org/wiki/德國郵政 "wikilink")（DPDHL）旗下的[敦豪香港及敦豪北京](https://zh.wikipedia.org/wiki/敦豪 "wikilink")，即[DHL](../Page/DHL.md "wikilink")中國內地、香港及澳門供應鏈業務。
+2018年10月26日，[順豐速運透過順豐香港與](https://zh.wikipedia.org/wiki/順豐速運 "wikilink")[德國郵政敦豪集團](https://zh.wikipedia.org/wiki/德國郵政 "wikilink")（DPDHL）達成戰略合作，順豐香港以7億歐元（约合55億元人民幣或62億港元）現金收購[德國郵政敦豪集團](https://zh.wikipedia.org/wiki/德國郵政 "wikilink")（DPDHL）旗下的[敦豪香港及敦豪北京](https://zh.wikipedia.org/wiki/敦豪 "wikilink")，即[DHL](../Page/DHL.md "wikilink")中國內地、香港及澳門供應鏈業務。
 
 ## 設施
 

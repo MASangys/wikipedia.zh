@@ -37,6 +37,6 @@ Kopete 所支援的通訊協定列表：
 
 ## 外部链接
 
-  - [Kopete website](http://kopete.kde.org/)
+  - [Kopete website](https://web.archive.org/web/20080526021942/http://kopete.kde.org/)
 
 [Category:自由的即时通讯软件](https://zh.wikipedia.org/wiki/Category:自由的即时通讯软件 "wikilink")

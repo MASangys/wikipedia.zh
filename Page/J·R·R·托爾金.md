@@ -2,7 +2,7 @@
 
 托爾金曾於1925年至1945年間，在[牛津大學](https://zh.wikipedia.org/wiki/牛津大學 "wikilink")[彭布罗克学院擔任](../Page/牛津大学彭布罗克学院.md "wikilink")[盎格魯-撒克遜語的](https://zh.wikipedia.org/wiki/古英語 "wikilink")，並於1945年至1959年間轉至[牛津大學默頓學院任](https://zh.wikipedia.org/wiki/牛津大學默頓學院 "wikilink")[英國語言與](https://zh.wikipedia.org/wiki/英語 "wikilink")[文學的](../Page/英國文學.md "wikilink")[默顿教授](../Page/默顿教授.md "wikilink")\[1\]。他是[C·S·路易斯](../Page/C·S·路易斯.md "wikilink")的密友——兩人皆為非正式文學讨论社「[迹象](../Page/迹象文学社.md "wikilink")」的社員。1972年3月28日，托爾金獲英國女王[伊莉莎白二世頒授的](https://zh.wikipedia.org/wiki/伊莉莎白二世 "wikilink")[大英帝國司令勳章](../Page/大英帝國勳章.md "wikilink")。
 
-托尔金的儿子[克里斯托夫在父亲去世后](../Page/克里斯托夫·托爾金.md "wikilink")，整理了大量的笔记和未发表的手稿，出版了一系列作品，包括《[精灵宝钻](https://zh.wikipedia.org/wiki/精灵宝钻 "wikilink")》、《[未完成的故事](../Page/未完成的故事.md "wikilink")》、《[胡林的子女](https://zh.wikipedia.org/wiki/胡林的子女 "wikilink")》等。这些作品与《[霍比特人](https://zh.wikipedia.org/wiki/霍比特人 "wikilink")》和《[魔戒](../Page/魔戒.md "wikilink")》一起构成了有联系的共同体，由传说、诗歌、虚构历史、人造语言和短文所组成，关于一个名叫[阿尔达](https://zh.wikipedia.org/wiki/阿尔达 "wikilink")（及其中的[中土大陆](https://zh.wikipedia.org/wiki/中土大陆 "wikilink")）的奇幻世界。1951至1955年间，托尔金用“[传说故事集](https://zh.wikipedia.org/wiki/托爾金的傳說故事集 "wikilink")”（）一词来称呼大部分作品。\[2\]尽管在他之前有很多其他作者的奇幻作品问世\[3\]，但《[霍比特人](https://zh.wikipedia.org/wiki/霍比特人 "wikilink")》和《[魔戒](../Page/魔戒.md "wikilink")》的巨大成功造成了该文学类型的流行与复兴。因此托尔金被大众公认为“现代奇幻文学之父”\[4\]\[5\]——或更准确地说，是对于[古典奇幻](../Page/古典奇幻.md "wikilink")。\[6\]
+托尔金的儿子[克里斯托夫在父亲去世后](../Page/克里斯托夫·托爾金.md "wikilink")，整理了大量的笔记和未发表的手稿，出版了一系列作品，包括《[精灵宝钻](https://zh.wikipedia.org/wiki/精灵宝钻 "wikilink")》、《[未完成的故事](../Page/未完成的故事.md "wikilink")》、《[胡林的子女](../Page/胡林的子女.md "wikilink")》等。这些作品与《[霍比特人](https://zh.wikipedia.org/wiki/霍比特人 "wikilink")》和《[魔戒](../Page/魔戒.md "wikilink")》一起构成了有联系的共同体，由传说、诗歌、虚构历史、人造语言和短文所组成，关于一个名叫[阿尔达](https://zh.wikipedia.org/wiki/阿尔达 "wikilink")（及其中的[中土大陆](https://zh.wikipedia.org/wiki/中土大陆 "wikilink")）的奇幻世界。1951至1955年间，托尔金用“[传说故事集](https://zh.wikipedia.org/wiki/托爾金的傳說故事集 "wikilink")”（）一词来称呼大部分作品。\[2\]尽管在他之前有很多其他作者的奇幻作品问世\[3\]，但《[霍比特人](https://zh.wikipedia.org/wiki/霍比特人 "wikilink")》和《[魔戒](../Page/魔戒.md "wikilink")》的巨大成功造成了该文学类型的流行与复兴。因此托尔金被大众公认为“现代奇幻文学之父”\[4\]\[5\]——或更准确地说，是对于[古典奇幻](../Page/古典奇幻.md "wikilink")。\[6\]
 
 2008年，《[泰晤士报](../Page/泰晤士报.md "wikilink")》把他列为“1945年后50位最伟大的英国作家”榜单上的第6名。\[7\] 2009年，他在《[福布斯](../Page/福布斯.md "wikilink")》收入最高的“已故名人”榜单中列第5名。\[8\]
 
@@ -220,7 +220,7 @@
   - 1982年 《[幸福先生](../Page/幸福先生.md "wikilink")》（Mr. Bliss）（\* 中文繁體版，2013年12月，台灣[聯經出版](../Page/聯經出版.md "wikilink")公司出版 [ISBN：9789570843040](https://www.linkingbooks.com.tw/LNB/book/Book.aspx?ID=1100549)）
   - 1983年 The Monsters and the Critics
   - 1998年 《[羅佛蘭登](../Page/羅佛蘭登.md "wikilink")》（Roverandom）
-  - 2007年 《[胡林的子女](https://zh.wikipedia.org/wiki/胡林的子女 "wikilink")》（The Children of Hurin）\[138\]（\* 中文繁體版，2008年5月，台灣[聯經出版](../Page/聯經出版.md "wikilink")公司出版 [ISBN：9789570832662](https://www.linkingbooks.com.tw/LNB/book/Book.aspx?ID=187019)）
+  - 2007年 《[胡林的子女](../Page/胡林的子女.md "wikilink")》（The Children of Hurin）\[138\]（\* 中文繁體版，2008年5月，台灣[聯經出版](../Page/聯經出版.md "wikilink")公司出版 [ISBN：9789570832662](https://www.linkingbooks.com.tw/LNB/book/Book.aspx?ID=187019)）
   - 2017年《[貝倫與露西安](../Page/貝倫與露西安.md "wikilink")》（Beren and Luthien）\[139\]\[140\]
   - 2018年《[貢多林的陷落](../Page/貢多林的陷落.md "wikilink")》（The Fall of Gondolin），將於八月出版\[141\]\[142\]\[143\]\[144\]
 

@@ -1428,8 +1428,8 @@ A0</p></td>
   - RFC 1489 *KOI8-R*
   - RFC 2319 *KOI8-U*
   - [KOI8-U Working Group](https://web.archive.org/web/20050206230944/http://www.net.ua/KOI8-U/)
-  - [KOI8-U - Ukrainian Character Set](http://cad.ntu-kpi.kiev.ua/multiling/koi8-u/index.html)
-  - [KOI8-RU - Ukrainian Net Character Set](http://cad.ntu-kpi.kiev.ua/multiling/koi8-ru/index.html)
+  - [KOI8-U - Ukrainian Character Set](https://web.archive.org/web/20050208002234/http://cad.ntu-kpi.kiev.ua/multiling/koi8-u/index.html)
+  - [KOI8-RU - Ukrainian Net Character Set](https://web.archive.org/web/20041214143953/http://cad.ntu-kpi.kiev.ua/multiling/koi8-ru/index.html)
   - [The Home of KOI8-R](http://koi8.pp.ru/main.html)
   - [The Cyrillic Character Soup](http://czyborra.com/charsets/cyrillic.html)
 

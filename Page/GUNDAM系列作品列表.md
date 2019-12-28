@@ -171,7 +171,7 @@
   - [GUNDAM創戰者TRY](../Page/GUNDAM創戰者TRY.md "wikilink")(TV)
   - [鋼彈創鬥者 潛網大戰](../Page/鋼彈創鬥者_潛網大戰.md "wikilink")（TV）
   - [鋼彈EXA](https://zh.wikipedia.org/wiki/鋼彈EXA "wikilink")
-  - [高達創戰潛行者Re:RISE](https://zh.wikipedia.org/wiki/高達創戰潛行者Re:RISE "wikilink")([網絡動畫](https://zh.wikipedia.org/wiki/網絡動畫 "wikilink"))
+  - [高達創戰潛行者Re:RISE](../Page/高達創戰潛行者Re:RISE.md "wikilink")([網絡動畫](https://zh.wikipedia.org/wiki/網絡動畫 "wikilink"))
 
 ## 其他系列作品
 

@@ -1,5 +1,5 @@
   -
-    *因为[MediaWiki](../Page/MediaWiki.md "wikilink")大写机制的缘故，**ı**（[不带点小写i](https://zh.wikipedia.org/wiki/带点与不带点I "wikilink")）会来到此页。*
+    *因为[MediaWiki大写机制的缘故](https://zh.wikipedia.org/wiki/MediaWiki "wikilink")，**ı**（[不带点小写i](https://zh.wikipedia.org/wiki/带点与不带点I "wikilink")）会来到此页。*
 
 **I**, **i** 是[拉丁字母](../Page/拉丁字母.md "wikilink")的第9个[字母](../Page/字母.md "wikilink")，源于[希腊字母](../Page/希腊字母.md "wikilink") [Ι, ι](https://zh.wikipedia.org/wiki/Ι "wikilink")（Iota），与[伊特鲁里亚字母一样表示音值](https://zh.wikipedia.org/wiki/伊特鲁里亚字母 "wikilink")/i/。在[拉丁语](../Page/拉丁语.md "wikilink")（包括[当代拉丁语](https://zh.wikipedia.org/wiki/当代拉丁语 "wikilink")）还表示/j/（例如[英语](../Page/英语.md "wikilink") Yoke 中的 [Y](../Page/Y.md "wikilink")）。在[闪族语](https://zh.wikipedia.org/wiki/闪族语 "wikilink")，/j/是  的普遍发音，/i/只用于外来语。在英语表示不同发音，包括[长音和](https://zh.wikipedia.org/wiki/长音 "wikilink")[短音](https://zh.wikipedia.org/wiki/短音 "wikilink")。
 

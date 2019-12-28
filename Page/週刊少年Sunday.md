@@ -247,11 +247,18 @@
 正篇休載時刊載</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Perfect_Girl" title="wikilink">Perfect Girl</a></p></td>
+<td><p>谎月</p></td>
 <td></td>
 <td></td>
-<td><p>data-sort-value="2018.46" | 2019年46號</p></td>
-<td><p>短期集中連載</p></td>
+<td><p>data-sort-value="2020.01" | 2020年1号</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PINGKONG" title="wikilink">PINGKONG</a></p></td>
+<td></td>
+<td><p>data-sort-value="2020.02" | 2020年2・3合并号</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

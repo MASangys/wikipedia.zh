@@ -45,7 +45,7 @@ IPv4地址空间分类\[4\]
 
 1993年，[无类别域间路由](../Page/无类别域间路由.md "wikilink")（CIDR）正式地取代了[分类网络](../Page/分类网络.md "wikilink")，后者也因此被称为“有类别”的。
 
-CIDR被设计为可以重新划分地址空间，因此小的或大的地址块均可以分配给用户。CIDR创建的分层架构由[互联网号码分配局](../Page/互联网号码分配局.md "wikilink")（IANA）和[区域互联网注册管理机构](../Page/区域互联网注册管理机构.md "wikilink")（RIR）进行管理，每个RIR均维护着一个公共的[WHOIS数据库](https://zh.wikipedia.org/wiki/WHOIS "wikilink")，以此提供IP地址分配的详情。
+CIDR被设计为可以重新划分地址空间，因此小的或大的地址块均可以分配给用户。CIDR创建的分层架构由[互联网号码分配局](../Page/互联网号码分配局.md "wikilink")（IANA）和[区域互联网注册管理机构](../Page/区域互联网注册管理机构.md "wikilink")（RIR）进行管理，每个RIR均维护着一个公共的[WHOIS](../Page/WHOIS.md "wikilink")数据库，以此提供IP地址分配的详情。
 
 ### 特殊用途的地址
 

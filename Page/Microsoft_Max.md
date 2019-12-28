@@ -1,4 +1,4 @@
-[Microsoft_Max.jpg](https://zh.wikipedia.org/wiki/File:Microsoft_Max.jpg "fig:Microsoft_Max.jpg") **Microsoft Max**，或称**Microsoft Codename Max**，是[美国](../Page/美国.md "wikilink")[微软公司推出的一款基于](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[WinFX技术的](https://zh.wikipedia.org/wiki/WinFX "wikilink")[图片](https://zh.wikipedia.org/wiki/图像 "wikilink")[软件](../Page/软件.md "wikilink")。这个软件的主要作用是用本地的图片生成列表，并与好友共享图片。该软件的界面采取了[Windows Vista风格](../Page/Windows_Vista.md "wikilink")。
+[Microsoft_Max.jpg](https://zh.wikipedia.org/wiki/File:Microsoft_Max.jpg "fig:Microsoft_Max.jpg") **Microsoft Max**，或称**Microsoft Codename Max**，是[美国](../Page/美国.md "wikilink")[微软公司推出的一款基于](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[WinFX技术的](https://zh.wikipedia.org/wiki/WinFX "wikilink")[图片](../Page/图像.md "wikilink")[软件](../Page/软件.md "wikilink")。这个软件的主要作用是用本地的图片生成列表，并与好友共享图片。该软件的界面采取了[Windows Vista风格](../Page/Windows_Vista.md "wikilink")。
 
 2006年10月31日，Microsoft Max Blog宣佈Max計畫終止[1](https://web.archive.org/web/20070127013459/http://blogs.msdn.com/max/archive/2006/10/31/thank-you-the-max-project-has-concluded.aspx)。
 

@@ -203,7 +203,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/不死勇者羅曼史" title="wikilink">不死勇者羅曼史</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>
@@ -216,6 +216,14 @@
 <td><p><a href="../Page/真島浩.md" title="wikilink">真島浩</a></p></td>
 <td><p>－</p></td>
 <td><p>2019年46號</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大前貴史" title="wikilink">大前貴史</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/門馬司" title="wikilink">門馬司</a></p></td>
+<td><p>2020年1號</p></td>
 <td></td>
 </tr>
 </tbody>

@@ -52,7 +52,7 @@ ABB集團成立於1988年，由[瑞典通用电气公司](../Page/瑞典通用�
 ## 外部連結
 
   -
-  - [ABB Timeline 1883-2007](http://www.abb.com/cawp/abbzh252/56ba6a7efa6f571fc1256aed0032124f.aspx)
+  - [ABB Timeline 1883-2007](https://web.archive.org/web/20071208023342/http://www.abb.com/cawp/abbzh252/56ba6a7efa6f571fc1256aed0032124f.aspx)
 
 [Category:工业机器人](https://zh.wikipedia.org/wiki/Category:工业机器人 "wikilink")
 

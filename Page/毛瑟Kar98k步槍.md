@@ -66,7 +66,7 @@ Kar98k在戰爭期間為了滿足軍隊裝備步槍數量的需求，縮減成�
 
 ## 使用國
 
-[Bundesarchiv_Bild_183-85458-0003,_Berlin,_Mauerbau,_Kampfgruppen,_NVA,_VP.jpg](https://zh.wikipedia.org/wiki/File:Bundesarchiv_Bild_183-85458-0003,_Berlin,_Mauerbau,_Kampfgruppen,_NVA,_VP.jpg "fig:Bundesarchiv_Bild_183-85458-0003,_Berlin,_Mauerbau,_Kampfgruppen,_NVA,_VP.jpg") [Kampfer's_ZZS_3.png](https://zh.wikipedia.org/wiki/File:Kampfer's_ZZS_3.png "fig:Kampfer's_ZZS_3.png")可說是Kar98k的表親，兩者很相似\]\]
+[Bundesarchiv_Bild_183-85458-0003,_Berlin,_Mauerbau,_Kampfgruppen,_NVA,_VP.jpg](https://zh.wikipedia.org/wiki/File:Bundesarchiv_Bild_183-85458-0003,_Berlin,_Mauerbau,_Kampfgruppen,_NVA,_VP.jpg "fig:Bundesarchiv_Bild_183-85458-0003,_Berlin,_Mauerbau,_Kampfgruppen,_NVA,_VP.jpg") [Kampfer's_ZZS_3.png](https://zh.wikipedia.org/wiki/File:Kampfer's_ZZS_3.png "fig:Kampfer's_ZZS_3.png")可說是Kar98k的山寨版，兩者很相似\]\]
 
   -
   -
@@ -213,7 +213,7 @@ Kar98k在戰爭期間為了滿足軍隊裝備步槍數量的需求，縮減成�
   - 《[戰地風雲1942](../Page/戰地風雲1942.md "wikilink")》
   - 《[戰地之王](../Page/戰地之王.md "wikilink")》
   - 《[-{zh-hans:战地5; zh-hant:戰地風雲5;}-](https://zh.wikipedia.org/wiki/戰地風雲5 "wikilink")》
-  - 《[絕地求生](../Page/絕地求生.md "wikilink")》：游戏中改为可装填[7.62×54mmR](../Page/7.62×54mmR.md "wikilink")子弹的步枪。可裝備配件：全息瞄準器、紅點瞄準器、2、3、4、6、8倍瞄準器、子彈袋、槍口消焰、補償、消音器。
+  - 《[絕地求生](../Page/絕地求生.md "wikilink")》：游戏中改为可装填[7.62×54mmR](../Page/7.62×54mmR.md "wikilink")子弹的步枪。可裝備配件：全息瞄準器、紅點瞄準器、2、3、4、6、8、15倍瞄準器、子彈袋、槍口消焰、補償、消音器。
   - 《[德軍總部系列](../Page/德軍總部系列.md "wikilink")》
   - 《[決勝時刻系列](../Page/決勝時刻系列.md "wikilink")》
       - 《[決勝時刻](https://zh.wikipedia.org/wiki/使命召喚_\(遊戲\) "wikilink")》

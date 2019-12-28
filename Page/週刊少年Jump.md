@@ -211,23 +211,7 @@ JUMP多部知名大作（[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Beast_Children" title="wikilink">Beast Children</a></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/寺坂研人" title="wikilink">寺坂研人</a></p></td>
-<td><p>－</p></td>
-<td><p>2019年26號</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/東京忍者小隊" title="wikilink">東京忍者小隊</a></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松浦健人" title="wikilink">松浦健人</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/田中勇輝" title="wikilink">田中勇輝</a></p></td>
-<td><p>2019年27號</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/夜櫻家的大作戰" title="wikilink">夜櫻家的大作戰</a></p></td>
+<td><p><a href="../Page/夜樱家的大作战.md" title="wikilink">夜樱家的大作战</a></p></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>
@@ -256,6 +240,14 @@ JUMP多部知名大作（[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教�
 <td><p>]]</p></td>
 <td><p>{{lang|ja|ZIPMAN</p></td>
 <td><p>}}</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/AGRAVITY_BOYS" title="wikilink">AGRAVITY BOYS</a></p></td>
+<td></td>
+<td></td>
+<td><p>－</p></td>
+<td><p>2020年02號</p></td>
 <td></td>
 </tr>
 </tbody>

@@ -28,9 +28,9 @@ C++語言發展大概可以分為三個階段：第一階段從80年代到1995�
 
 ### C++名字的由來
 
-C++這個名字是[Rick Mascitti於](https://zh.wikipedia.org/wiki/Rick_Mascitti "wikilink")1983年中所建議的，並於1983年12月首次使用。更早以前，尚在研究階段的發展中語言曾被稱為「」，之後是「」。在[電腦科學中](https://zh.wikipedia.org/wiki/電腦科學 "wikilink")，C++仍被稱為C語言的上層結構。它最後得名於C語言中的「++」運算子（其對[變數](../Page/變數.md "wikilink")的[值進行遞增](https://zh.wikipedia.org/wiki/值 "wikilink")）。而且在共同的[命名約定中](https://zh.wikipedia.org/wiki/命名約定 "wikilink")，使用「+」以表示增強的程式。斯特劳斯特鲁普說：「這個名字象徵著源自於C語言變化的自然演進」。[C+是一個和C](https://zh.wikipedia.org/wiki/ABCL/c+ "wikilink")/C++無關的早期程式語言。
+C++這個名字是Rick Mascitti於1983年中所建議的，並於1983年12月首次使用。更早以前，尚在研究階段的發展中語言曾被稱為「」，之後是「」。在[電腦科學中](https://zh.wikipedia.org/wiki/電腦科學 "wikilink")，C++仍被稱為C語言的上層結構。它最後得名於C語言中的「++」運算子（其對[變數](../Page/變數.md "wikilink")的值進行遞增）。而且在共同的命名約定中，使用「+」以表示增強的程式。斯特劳斯特鲁普說：「這個名字象徵著源自於C語言變化的自然演進」。是一個和C/C++無關的早期程式語言。
 
-[Rick Mascitti在](https://zh.wikipedia.org/wiki/Rick_Mascitti "wikilink")1992年被非正式地問起名字的由來，他表示這是在半開玩笑中說出的。他從沒想過C++會成為這門語言的正式名字。
+Rick Mascitti在1992年被非正式地問起名字的由來，他表示這是在半開玩笑中說出的。他從沒想過C++會成為這門語言的正式名字。
 
 有一個關於C++名字的笑話是，當你使用後綴++時，附加只發生在運算之後（因此，它應該是++C，而不是C++，这个笑话是说时下某些程序员还在以使用C的方式使用C++，这通常被一些权威著作认为是不正确的）。
 

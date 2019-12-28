@@ -54,6 +54,7 @@
 | **Autodesk 3ds Max 2017** | Windows 7、8、8.1、10（64位元） |          |            |
 | **Autodesk 3ds Max 2018** | Windows 7、8、8.1、10（64位元） |          |            |
 | **Autodesk 3ds Max 2019** | Windows 7、8、8.1、10（64位元） |          |            |
+| **Autodesk 3ds Max 2020** | Windows 7、8、8.1、10（64位元） |          |            |
 
 ## 外部链接
 

@@ -71,7 +71,7 @@
 
   - [BartPE](../Page/BartPE.md "wikilink") (Windows 2000/XP/2003)
   - [911 Rescue CD](https://zh.wikipedia.org/wiki/911_Rescue_CD "wikilink") [2](http://arquivo.pt/wayback/20141130164704/http://www.911cd.net/) (Windows NT/2000/XP/2003)
-  - [Ultimate Boot CD for Windows](http://www.ubcd4win.com)（Windows XP）- BartPE的功能延展
+  - [Ultimate Boot CD for Windows](https://web.archive.org/web/20090316032910/http://www.ubcd4win.com/)（Windows XP）- BartPE的功能延展
   - [MiniPE-XT](https://zh.wikipedia.org/wiki/MiniPE-XT "wikilink")
 
 ## 圖集

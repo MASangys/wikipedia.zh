@@ -625,7 +625,6 @@ Visual Basic 2015（VB 14.0）於2015年7月20日發佈。
 
 ### 教程
 
-  - [Startvbdotnet.com：免费VB.NET教程](http://www.startvbdotnet.com)
   - [使用My开发](http://www.microsoft.com/china/MSDN/library/netFramework/netframework/MyNamespace.mspx?mfr=true)
   - [通过My命名空间访问.NET Framework和项目](http://msdn2.microsoft.com/zh-CN/library/5btzf5yk.aspx)
 

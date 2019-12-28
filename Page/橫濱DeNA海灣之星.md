@@ -37,7 +37,7 @@
 | [宮崎剛](https://zh.wikipedia.org/wiki/宮崎剛 "wikilink")             | [1972年](../Page/1972年.md "wikilink")                    | [1972年](../Page/1972年.md "wikilink") |     | 代理   |
 | [青田昇](https://zh.wikipedia.org/wiki/青田昇 "wikilink")             | [1973年](../Page/1973年.md "wikilink")                    | [1973年](../Page/1973年.md "wikilink") |     |      |
 | [宮崎剛](https://zh.wikipedia.org/wiki/宮崎剛 "wikilink")             | [1974年](../Page/1974年.md "wikilink")                    | [1974年](../Page/1974年.md "wikilink") |     |      |
-| [秋山登](https://zh.wikipedia.org/wiki/秋山登 "wikilink")             | [1975年](../Page/1975年.md "wikilink")                    | [1976年](../Page/1976年.md "wikilink") |     |      |
+| [秋山登](../Page/秋山登.md "wikilink")                                | [1975年](../Page/1975年.md "wikilink")                    | [1976年](../Page/1976年.md "wikilink") |     |      |
 | [別当薫](https://zh.wikipedia.org/wiki/別当薫 "wikilink")             | [1977年](../Page/1977年.md "wikilink")                    | [1979年](../Page/1979年.md "wikilink") |     | 第2次  |
 | [土井淳](https://zh.wikipedia.org/wiki/土井淳 "wikilink")             | [1980年](../Page/1980年.md "wikilink")                    | [1981年](../Page/1981年.md "wikilink") |     |      |
 | [山根俊英](../Page/山根俊英.md "wikilink")                              | [1981年](../Page/1981年.md "wikilink")                    | [1981年](../Page/1981年.md "wikilink") |     | 代理   |

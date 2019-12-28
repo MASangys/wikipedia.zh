@@ -1,4 +1,4 @@
-**LMF**，全名**Lazy Mutha Fucka**，中文名為**大懶堂**，是於1999年成立的一隊[香港](../Page/香港.md "wikilink")[新金屬](../Page/新金屬.md "wikilink")、[硬核嘻哈](https://zh.wikipedia.org/wiki/硬核嘻哈 "wikilink")、[饒舌搖滾樂隊組合](https://zh.wikipedia.org/wiki/饒舌搖滾 "wikilink")\[1\]，歌詞內容對於[政治](../Page/政治.md "wikilink")、社會現象等題材有一定的涉獵和探討，有別於其他香港主流樂隊。 現在樂隊因人數不足已經解散，目前依然有部份成員活躍娛樂圈，不過太多以演唱會平台或嘉賓亮相唱歌，如與[鄭秀文](../Page/鄭秀文.md "wikilink")合唱\<\<愛是.....\>\>
+**LMF**，全名**Lazy Mutha Fucka**，中文名為**大懶堂**，是於1999年成立的一隊[香港](../Page/香港.md "wikilink")[新金屬](../Page/新金屬.md "wikilink")、[硬核嘻哈](https://zh.wikipedia.org/wiki/硬核嘻哈 "wikilink")、[饒舌搖滾樂隊組合](https://zh.wikipedia.org/wiki/饒舌搖滾 "wikilink")\[1\]，歌詞內容對於[政治](../Page/政治.md "wikilink")、社會現象等題材有一定的涉獵和探討，有別於其他香港主流樂隊。現在樂隊因人數不足已經解散，目前依然有部份成員活躍娛樂圈，不過太多以演唱會平台或嘉賓亮相唱歌，如與[鄭秀文](../Page/鄭秀文.md "wikilink")合唱\<\<愛是.....\>\>。2019年推出最新作品、[反送中運動為主題的歌曲](https://zh.wikipedia.org/wiki/反送中運動 "wikilink")《[二零一九](../Page/二零一九.md "wikilink")》，痛批警暴及政府。
 
 ## 簡介
 

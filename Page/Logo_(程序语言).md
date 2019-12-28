@@ -53,7 +53,7 @@ Logo的方言NetLogo、StarLogo进一步深化了Logo的海龟绘图概念，可
 
 ## LOGO直譯器列表
 
-  - [Turtleacademy](http://turtleacademy.com/index/zh)又叫海龟学院，免费学编程。
+  - [Turtleacademy](https://web.archive.org/web/20150518100508/http://turtleacademy.com/index/zh)又叫海龟学院，免费学编程。
   - [Berkeley Logo](http://www.cs.berkeley.edu/~bh/logo.html)又叫UCBLogo，用[C](../Page/C.md "wikilink")寫成，可運行於多個平台。
   - [MSWLogo](http://www.softronix.com/logo.html)有良好的GUI、詳盡的說明文件，運行於Windows，建基於Berkeley Logo，由Borland [C++](../Page/C++.md "wikilink")寫成。它支援三維圖像、聲響、鍵盤等多個功能。
   - [StarLogo](https://web.archive.org/web/20061115214729/http://education.mit.edu/starlogo/)

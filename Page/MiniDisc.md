@@ -2,7 +2,7 @@
 
 ## 背景
 
-20世紀80年代，CD格式正紅遍天下。但是，在CD的完美音質中依然夾雜這一些不和諧的聲音。人們開始抱怨[隨身聽尺寸太大](https://zh.wikipedia.org/wiki/隨身聽 "wikilink")、CD的不可[擦寫性](https://zh.wikipedia.org/wiki/擦寫性 "wikilink")、不能自主選擇[音源等](https://zh.wikipedia.org/wiki/音源 "wikilink")。隨身聽的創始廠商[索尼在意識到這些問題以後](https://zh.wikipedia.org/wiki/Sony "wikilink")，開始著手研究更適合隨身攜帶的音頻技術。
+20世紀80年代，CD格式正紅遍天下。但是，在CD的完美音質中依然夾雜這一些不和諧的聲音。人們開始抱怨[隨身聽尺寸太大](https://zh.wikipedia.org/wiki/隨身聽 "wikilink")、CD的不可[擦寫性](https://zh.wikipedia.org/wiki/擦寫性 "wikilink")、不能自主選擇[音源](../Page/音源.md "wikilink")等。隨身聽的創始廠商[索尼在意識到這些問題以後](https://zh.wikipedia.org/wiki/Sony "wikilink")，開始著手研究更適合隨身攜帶的音頻技術。
 
 1986年，索尼研製成可單次寫入的光盤——**WO**（write once disc）。1988年，在WO的基礎上又發明了多次可擦寫的[磁光碟](https://zh.wikipedia.org/wiki/磁光碟 "wikilink")——**MO**（magneto optical disc）。1989年的音響展會上，索尼展示出一種可以錄音的CD原型產品，可惜這種理念的在全球範圍內的展示並不完美。在[紐約和](https://zh.wikipedia.org/wiki/紐約 "wikilink")[飛利浦](../Page/飛利浦.md "wikilink")（索尼的CD研發搭檔）共同舉辦的聯合記者會上，一個工程師在記者面前用日本紙扇來冷卻過熱的CD系統。\[1\]
 

@@ -1844,7 +1844,7 @@ Beyond曾奪得7次「叱咤樂壇組合：銀獎」（1988-1995，1993年除外
 3.  微博 - [葉世榮的微博](http://weibo.com/yezhirong)
 4.  微博 - [香港二樓後座錄音室的微博](http://weibo.com/u/5261357540)
 
-[Category:1983年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1983年成立的音樂團體 "wikilink") [Category:2005年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2005年解散的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:Beyond](https://zh.wikipedia.org/wiki/Category:Beyond "wikilink") [Category:香港摇滚乐团](https://zh.wikipedia.org/wiki/Category:香港摇滚乐团 "wikilink") [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:香港音樂](https://zh.wikipedia.org/wiki/Category:香港音樂 "wikilink")
+[Category:1983年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1983年成立的音樂團體 "wikilink") [Category:2005年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2005年解散的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:Beyond](https://zh.wikipedia.org/wiki/Category:Beyond "wikilink") [Category:香港摇滚乐团](https://zh.wikipedia.org/wiki/Category:香港摇滚乐团 "wikilink") [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:香港音樂](https://zh.wikipedia.org/wiki/Category:香港音樂 "wikilink") [Category:粵語流行音樂團體](https://zh.wikipedia.org/wiki/Category:粵語流行音樂團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
 
 1.  《我與BEYOND的日子》2010年 鄧煒謙著
 2.  Beyond官方自傳《擁抱Beyond歲月》1998年 黃貫中、黃家強、葉世榮著

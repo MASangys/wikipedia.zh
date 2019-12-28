@@ -47,7 +47,7 @@
 
 ### 1998年：
 
-3月4日，水木清华站在两会期间关站。4月1日重新正式开放。6月，水木清华再次例行关站。6月15日重新开站时举行了全站性的聚会，此次聚会被称为happy98。12月9日为[亚洲运动会设立亚运会专板](https://zh.wikipedia.org/wiki/亚洲运动会 "wikilink")/AsianGames临时看板，从此以后都会为重大体育赛事开设临时看板。
+3月4日，水木清华站在两会期间关站。4月1日重新正式开放。6月，水木清华再次例行关站。6月15日重新开站时举行了全站性的聚会，此次聚会被称为happy98。12月9日为[亚洲运动会](../Page/亚洲运动会.md "wikilink")设立亚运会专板/AsianGames临时看板，从此以后都会为重大体育赛事开设临时看板。
 
 ### 1999年：
 
@@ -87,7 +87,7 @@
 
 ### 2002年：
 
-3月3日更换新服务器，配置为4\*PIII Xeon 700, 2G RAM 5\*18G HD。4月5日施行BBS水木清华站转信管理办法，开始支持[转信](https://zh.wikipedia.org/wiki/转信 "wikilink")。4月15日，BBS水木清华站获得[ICP备案](https://zh.wikipedia.org/wiki/ICP备案 "wikilink")，备案号为京ICP备020002号；4月25日系统支持[SSH](https://zh.wikipedia.org/wiki/SSH "wikilink")。5月12日系统支持[Zmodem](https://zh.wikipedia.org/wiki/Zmodem "wikilink")，WWW访问开放测试。7月25日系统支持[POP3S协议](https://zh.wikipedia.org/wiki/POP3S协议 "wikilink")。10月13日开始发放BBS水木清华站纪念光盘。
+3月3日更换新服务器，配置为4\*PIII Xeon 700, 2G RAM 5\*18G HD。4月5日施行BBS水木清华站转信管理办法，开始支持[转信](https://zh.wikipedia.org/wiki/转信 "wikilink")。4月15日，BBS水木清华站获得[ICP备案](https://zh.wikipedia.org/wiki/ICP备案 "wikilink")，备案号为京ICP备020002号；4月25日系统支持[SSH](../Page/Secure_Shell.md "wikilink")。5月12日系统支持[Zmodem](https://zh.wikipedia.org/wiki/Zmodem "wikilink")，WWW访问开放测试。7月25日系统支持[POP3S协议](https://zh.wikipedia.org/wiki/POP3S协议 "wikilink")。10月13日开始发放BBS水木清华站纪念光盘。
 
 ### 2003年：
 
@@ -103,7 +103,7 @@
 
 ## 向校内型转变
 
-2005年，[中华人民共和国教育部](../Page/中华人民共和国教育部.md "wikilink")下达文件，要求各高校的BBS必须向[实名制下校内交流平台改造](https://zh.wikipedia.org/wiki/实名制 "wikilink")，BBS水木清华站被要求作为典型来实施。为此，清华大学决定BBS水木清华站从开放型的BBS向校内型的BBS转型。
+2005年，[中华人民共和国教育部](../Page/中华人民共和国教育部.md "wikilink")下达文件，要求各高校的BBS必须向[实名制下校内交流平台改造](../Page/中国网络实名制.md "wikilink")，BBS水木清华站被要求作为典型来实施。为此，清华大学决定BBS水木清华站从开放型的BBS向校内型的BBS转型。
 
 ### 限制IP
 

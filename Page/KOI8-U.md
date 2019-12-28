@@ -37,6 +37,6 @@
 
   - RFC 2319
   - [KOI8-U Working Group](https://web.archive.org/web/20050206230944/http://www.net.ua/KOI8-U/)
-  - [KOI8-U - Ukrainian Character Set](http://cad.ntu-kpi.kiev.ua/multiling/koi8-u/index.html)
+  - [KOI8-U - Ukrainian Character Set](https://web.archive.org/web/20050208002234/http://cad.ntu-kpi.kiev.ua/multiling/koi8-u/index.html)
 
 [Category:字符集](https://zh.wikipedia.org/wiki/Category:字符集 "wikilink") [Category:西里尔字母](https://zh.wikipedia.org/wiki/Category:西里尔字母 "wikilink")

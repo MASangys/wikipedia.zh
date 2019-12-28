@@ -15,7 +15,7 @@
 
 ## MPEG工作原理
 
-MPEG（通常指MPEG-1）影像编码是基于变换的[有损压缩](https://zh.wikipedia.org/wiki/有损压缩 "wikilink")。光学信号线经过[采样形成视频信号](https://zh.wikipedia.org/wiki/采样 "wikilink")，视频信号基本的单位叫做[影格](https://zh.wikipedia.org/wiki/影格 "wikilink")，一个影格就是一个独立的[图像](https://zh.wikipedia.org/wiki/图像 "wikilink")，然后[影格被分割成小块做](https://zh.wikipedia.org/wiki/影格 "wikilink")[变换编码](https://zh.wikipedia.org/wiki/变换编码 "wikilink")，然后[量化](../Page/量化_\(信号处理\).md "wikilink")，最后进行[熵编码](https://zh.wikipedia.org/wiki/熵编码 "wikilink")。请参见[MPEG-1](../Page/MPEG-1.md "wikilink")
+MPEG（通常指MPEG-1）影像编码是基于变换的[有损压缩](https://zh.wikipedia.org/wiki/有损压缩 "wikilink")。光学信号线经过[采样形成视频信号](https://zh.wikipedia.org/wiki/采样 "wikilink")，视频信号基本的单位叫做[影格](https://zh.wikipedia.org/wiki/影格 "wikilink")，一个影格就是一个独立的[图像](../Page/图像.md "wikilink")，然后[影格被分割成小块做](https://zh.wikipedia.org/wiki/影格 "wikilink")[变换编码](https://zh.wikipedia.org/wiki/变换编码 "wikilink")，然后[量化](../Page/量化_\(信号处理\).md "wikilink")，最后进行[熵编码](https://zh.wikipedia.org/wiki/熵编码 "wikilink")。请参见[MPEG-1](../Page/MPEG-1.md "wikilink")
 
 [MPEG-1](../Page/MPEG-1.md "wikilink")、[MPEG-2](../Page/MPEG-2.md "wikilink")、[MPEG-4](../Page/MPEG-4.md "wikilink")實際上採用了的[動量估計和](https://zh.wikipedia.org/wiki/動量估計 "wikilink")[動量補償技術](https://zh.wikipedia.org/wiki/動量補償 "wikilink")。在利用了[動量補償的](https://zh.wikipedia.org/wiki/動量補償 "wikilink")[帧](../Page/帧.md "wikilink")（圖像）中，被編碼的是經過動量補償的參考幀與目前圖像的差。与传统影像编码技术不同，MPEG并不是每格影像进行压缩，而是以一秒时段作为单位，将时段内的每一格影像做比较，由于一般视频内容都是背景变化小、主体变化大，MPEG技术就应用这个特点，以一幅影像为主图，其余影像格只记录参考资料及变化数据，更有效记录动态影像。从MPEG-1到MPEG-4，其核心技术仍然离不开这个原理，之间的分别主要在于比较的过程和分析的复杂性等。
 

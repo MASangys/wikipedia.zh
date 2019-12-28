@@ -38,7 +38,7 @@ CBS模仿[美國廣播公司的節目](https://zh.wikipedia.org/wiki/美國廣�
 
 ## 國際放送
 
-[Cbs-building.jpg](https://zh.wikipedia.org/wiki/File:Cbs-building.jpg "fig:Cbs-building.jpg")
+[Cbs-building.jpg](https://zh.wikipedia.org/wiki/File:Cbs-building.jpg "fig:Cbs-building.jpg")。\]\]
 
 CBS的相關節目在美國以外的地方都有播送。例如：CBS新聞台的節目會通過[衛星頻道](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")在[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[非洲](../Page/非洲.md "wikilink")及[中東地區每天播送幾個小時](https://zh.wikipedia.org/wiki/中東地區 "wikilink")。而《[CBS晚間新聞](../Page/CBS晚間新聞.md "wikilink")》更是通過[新聞集團下屬的](https://zh.wikipedia.org/wiki/新聞集團 "wikilink")[天空新聞台在](https://zh.wikipedia.org/wiki/天空新聞台 "wikilink")[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")、[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")、[新西蘭和](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")[意大利](../Page/意大利.md "wikilink")播出。
 
@@ -68,7 +68,7 @@ CBS的相關節目在美國以外的地方都有播送。例如：CBS新聞台�
 
 ### 香港
 
-在[香港](../Page/香港.md "wikilink")，《[CBS晚間新聞](../Page/CBS晚間新聞.md "wikilink")》是和美國本土同步直播，因此香港本地居民要在凌晨收看這檔節目。但是本地的電視網與CBS有一個協議，允許其在12小時后重播《CBS晚間新聞》以填補當地的新聞時段空白。
+在[香港](../Page/香港.md "wikilink")，《[CBS晚間新聞](../Page/CBS晚間新聞.md "wikilink")》(由[亞洲電視](../Page/亞洲電視.md "wikilink")播出,現已停播)是和美國本土同步直播，因此香港本地居民要在凌晨收看這檔節目。但是本地的電視網與CBS有一個協議，允許其在12小時后重播《CBS晚間新聞》以填補當地的新聞時段空白。
 
 ### 印度
 

@@ -44,7 +44,7 @@
 
 ### 美國
 
-2012年4月5日（美國時間），「[PChome US購物網站](http://www.pchomeus.com/)」正式上線\[4\]。
+2012年4月5日（美國時間），「[PChome US購物網站](https://web.archive.org/web/20190520100748/http://www.pchomeus.com/)」正式上線\[4\]。
 
 ### 泰國
 

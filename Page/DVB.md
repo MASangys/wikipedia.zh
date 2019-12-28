@@ -1,4 +1,4 @@
-[DVB-logo.gif](https://zh.wikipedia.org/wiki/File:DVB-logo.gif "fig:DVB-logo.gif")  **數位視訊廣播**（，縮寫：），是由[DVB Project维护的一系列為国际所承认的](https://zh.wikipedia.org/wiki/DVB_Project "wikilink")[數位電視公开标准](https://zh.wikipedia.org/wiki/數位電視 "wikilink")。[DVB Project是一个由](https://zh.wikipedia.org/wiki/DVB_Project "wikilink")300多个成员组成的工业组织，它是由[欧洲电信标准化组织](https://zh.wikipedia.org/wiki/欧洲电信标准协会 "wikilink")（European Telecommunications Standards Institute, ETSI）、[欧洲电子标准化组织](https://zh.wikipedia.org/wiki/欧洲电子标准化组织 "wikilink")（European Committee for Electrotechnical Standardization, CENELEC）和[欧洲广播联盟](https://zh.wikipedia.org/wiki/欧洲广播联盟 "wikilink")（European Broadcasting Union, EBU）联合组成的“联合专家组”（Joint Technical Committee, JTC）发起的。几项DVB子标准的关系在《DVB指南》（*DVB-Cook*）中描述之。
+[DVB-logo.gif](https://zh.wikipedia.org/wiki/File:DVB-logo.gif "fig:DVB-logo.gif")  **數位視訊廣播**（，縮寫：），是由[DVB Project维护的一系列為国际所承认的](https://zh.wikipedia.org/wiki/DVB_Project "wikilink")[數位電視公开标准](https://zh.wikipedia.org/wiki/數位電視 "wikilink")。[DVB Project是一个由](https://zh.wikipedia.org/wiki/DVB_Project "wikilink")300多个成员组成的工业组织，它是由[欧洲电信标准化组织](../Page/欧洲电信标准协会.md "wikilink")（European Telecommunications Standards Institute, ETSI）、[欧洲电子标准化组织](https://zh.wikipedia.org/wiki/欧洲电子标准化组织 "wikilink")（European Committee for Electrotechnical Standardization, CENELEC）和[欧洲广播联盟](https://zh.wikipedia.org/wiki/欧洲广播联盟 "wikilink")（European Broadcasting Union, EBU）联合组成的“联合专家组”（Joint Technical Committee, JTC）发起的。几项DVB子标准的关系在《DVB指南》（*DVB-Cook*）中描述之。
 
 ## 传输
 
@@ -94,7 +94,7 @@ DVB-S和DVB-C在1994年发布。DVB-T在1997年发布。第一个商用的DVB-T�
 
 1.  [DVB-T Worldwide - DVB-T Status Overview](http://www.dvb.org/about_dvb/dvb_worldwide/index.xml)
 2.  [社团法人台湾数位电视协会──DVB小百科](http://www.dtvc.org.tw/2-1.htm)
-3.  <http://www.motc.gov.tw/motchypage/hypage.cgi?HYPAGE=org_content.htm&subid=121&itemid=777&contenttype=2&classid=315004501>
+3.
 4.
 5.  數碼廣播寧取歐制式, 2006-11-16,星島日報, A10,港聞
 6.  [標誌圖像](http://www.tvb.com/affairs/faq/press/images/TVB_Interactive_logo.jpg)

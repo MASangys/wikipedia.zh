@@ -161,6 +161,7 @@ J.K·羅琳在她的個人網站上這樣介紹《哈利波特》：
   - 《[杜鵑的呼喚](../Page/布谷鸟的呼唤.md "wikilink")》（The Cuckoo's Calling，2013年4月18日）
   - 《[抽絲剝繭](../Page/抽絲剝繭.md "wikilink")》（The Silkworm，2014年6月19日）
   - 《[邪惡事業](https://zh.wikipedia.org/wiki/邪惡事業 "wikilink")》（Career of Evil，2015年10月20日）
+  - 《[致命之白](../Page/致命之白.md "wikilink")》（Lethal White，2018年9月18日）
 
 ## 榮譽
 

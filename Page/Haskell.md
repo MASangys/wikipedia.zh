@@ -30,7 +30,7 @@ Haskell拥有一个基于Hindley-Milner[类型推论](../Page/类型推论.md "w
 
 Haskell的主要实现是个[解释器](https://zh.wikipedia.org/wiki/解释器 "wikilink")，也是个原生代码[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")。它可以在大多数平台运行，GHC在并发和并行上具有高性能的实现能力，\[17\]也有丰富的类型系统，如[广义代数数据类型和类型族](https://zh.wikipedia.org/wiki/广义代数数据类型 "wikilink")（Type Families）。
 
-[单子是一个](https://zh.wikipedia.org/wiki/单子 "wikilink")[抽象類型](../Page/抽象資料型別.md "wikilink")，可以表达不同种类的计算，包括[异常处理](../Page/异常处理.md "wikilink")、[非确定性](https://zh.wikipedia.org/wiki/非确定性 "wikilink")、[语法分析以及](https://zh.wikipedia.org/wiki/语法分析 "wikilink")[软件事务内存](../Page/软件事务内存.md "wikilink")，其中一个应用是用于表达副作用的类型。单子定义为普通的数据类型，同时Haskell也为其提供了几种[语法糖](../Page/语法糖.md "wikilink")。
+[单子是一个](https://zh.wikipedia.org/wiki/单子 "wikilink")[抽象類型](../Page/抽象資料型別.md "wikilink")，可以表达不同种类的计算，包括[异常处理](../Page/异常处理.md "wikilink")、[非确定性](https://zh.wikipedia.org/wiki/非确定性 "wikilink")、[语法分析](../Page/语法分析.md "wikilink")以及[软件事务内存](../Page/软件事务内存.md "wikilink")，其中一个应用是用于表达副作用的类型。单子定义为普通的数据类型，同时Haskell也为其提供了几种[语法糖](../Page/语法糖.md "wikilink")。
 
 Haskell有一个活跃的社区，在线上包仓库Hackage上有豐富的第三方开源库或工具。\[18\]
 

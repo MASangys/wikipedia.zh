@@ -104,7 +104,7 @@ Web 2.0主要特点和基于这些特点产生的具有代表性的服务：
 
 <!-- end list -->
 
-  - [中国](https://zh.wikipedia.org/wiki/中国 "wikilink")
+  - [中国大陆](../Page/中国大陆.md "wikilink")
 
 <!-- end list -->
 

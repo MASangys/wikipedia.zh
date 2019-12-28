@@ -1222,7 +1222,7 @@
 <td><p>衝擊的黑歷史</p></td>
 <td><p>高橋哲子</p></td>
 <td><p>池端隆史</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/赤根和樹" title="wikilink">赤根和樹</a></p></td>
+<td><p><a href="../Page/赤根和樹.md" title="wikilink">赤根和樹</a></p></td>
 <td><p>佐久間信一</p></td>
 </tr>
 <tr class="odd">

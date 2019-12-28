@@ -170,7 +170,9 @@ Infinity Fabric分為兩部分，一個是Infinity Scalable Data Fabric（SDF）
   - [Broadcom開發的SiByte](https://zh.wikipedia.org/wiki/Broadcom "wikilink") [MIPS中央處理器](../Page/MIPS架構.md "wikilink")
   - [PMC-Sierra開發的RM](https://zh.wikipedia.org/wiki/PMC-Sierra "wikilink")9000X2 MIPS中央處理器
   - [Raza](https://zh.wikipedia.org/wiki/Raza_Microelectronics_Inc "wikilink") Thread Processors
-  - [龍芯](https://zh.wikipedia.org/wiki/龍芯 "wikilink")-3 MIPS中央處理器
+  - [龙芯](../Page/龙芯.md "wikilink")系列芯片
+      - [龙芯3号系列中央处理器](https://zh.wikipedia.org/wiki/龙芯#龙芯3号 "wikilink")
+      - [龙芯7系列桥片](https://zh.wikipedia.org/wiki/龙芯#龙芯桥片系列 "wikilink")
   - ht_tunnel from [OpenCores](https://zh.wikipedia.org/wiki/OpenCores "wikilink") project (MPL licence)
   - [ATI](https://zh.wikipedia.org/wiki/ATI "wikilink") Radeon Xpress 200晶片組
   - [Nvidia](https://zh.wikipedia.org/wiki/Nvidia "wikilink") nForce 晶片組

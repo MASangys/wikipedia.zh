@@ -4,15 +4,23 @@
 
 ## 設計
 
-[US_Patent_3283435_8-Nov-1966_BREECH_CLOSURE_Theodor_Koch.png](https://zh.wikipedia.org/wiki/File:US_Patent_3283435_8-Nov-1966_BREECH_CLOSURE_Theodor_Koch.png "fig:US_Patent_3283435_8-Nov-1966_BREECH_CLOSURE_Theodor_Koch.png")的專利圖片。\]\] [Visierlinie.jpg](https://zh.wikipedia.org/wiki/File:Visierlinie.jpg "fig:Visierlinie.jpg")
+[US_Patent_3283435_8-Nov-1966_BREECH_CLOSURE_Theodor_Koch.png](https://zh.wikipedia.org/wiki/File:US_Patent_3283435_8-Nov-1966_BREECH_CLOSURE_Theodor_Koch.png "fig:US_Patent_3283435_8-Nov-1966_BREECH_CLOSURE_Theodor_Koch.png")的專利圖片。\]\] [Visierlinie.jpg](https://zh.wikipedia.org/wiki/File:Visierlinie.jpg "fig:Visierlinie.jpg") 雖然[一次大戰後](https://zh.wikipedia.org/wiki/一次大戰 "wikilink")，體積較步槍細小，可快速連續發射的衝鋒槍漸漸興起，但大部分[衝鋒槍的槍機都採用自由後坐式設計](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")，構造較簡單，以便大量生產，但由於槍機在直接反衝作用下，不但後坐力較大，槍支的重心在發射時也有較大改變，所以連射時槍口跳動較大，射擊精確度不佳。MP5的設計源於[HK G3自動步槍](../Page/HK_G3自動步槍.md "wikilink")，採用結構複雜的[滾輪延遲反沖式槍機](https://zh.wikipedia.org/wiki/反沖作用_\(槍械\)#滾輪延遲反沖 "wikilink")，利用滾輪閉鎖機構延遲開鎖，射擊時槍口跳動較小，大大提高準確性。
 
-早年[衝鋒槍普遍採用自由後坐式](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")，以便於大量生產，但由於槍機品質較差，射擊時槍口跳動較大，準確性不佳。而MP5採用[HK G3系列結構複雜的閉鎖槍機](../Page/HK_G3自動步槍.md "wikilink")，且採用傳統滾柱閉鎖機構來延遲開鎖，射擊時槍口跳動較小，準確性大大提高。
-
-MP5所採用的[滾輪延遲反衝式技術源自](https://zh.wikipedia.org/wiki/反沖作用_\(槍械\)#滾輪延遲反沖 "wikilink")1940年代中期德國的[StG45(M)及後來的](../Page/StG45突擊步槍.md "wikilink")[CETME自動步槍](../Page/CETME自動步槍.md "wikilink")（G3的原型），這些設計亦影響後來衝鋒槍市場的定位。
+MP5所採用的[滾輪延遲反衝式技術源自](https://zh.wikipedia.org/wiki/反沖作用_\(槍械\)#滾輪延遲反沖 "wikilink")[二次大戰晚期](https://zh.wikipedia.org/wiki/二次大戰 "wikilink")[納粹德國](../Page/納粹德國.md "wikilink")的[StG45(M)](../Page/StG45突擊步槍.md "wikilink")，該設計後來成為西班牙的[CETME自動步槍](../Page/CETME自動步槍.md "wikilink")，並於1950年代後期被作為G3自動步槍的原型。
 
 標準型的MP5發射[9×19毫米魯格弹](../Page/9×19mm魯格彈.md "wikilink")，採用塑料固定[槍托](../Page/槍托.md "wikilink")或金屬伸縮槍托，配15或30發彈匣，它的扳機有多种發射選擇摸式，包括連發、單發、兩或[三發點放](../Page/三發點放.md "wikilink")。
 
-雖然有高命中精度、可靠、後座力低及威力適中的優點，但MP5結構複雜，容易故障，單價高昂且空槍較新一代的衝鋒槍重。MP5使用手槍子彈雖然在可能發生的混戰或匪徒脅持人質的場面中防止誤殺隊友或人質，但無法有效貫穿[防彈衣](https://zh.wikipedia.org/wiki/防彈衣 "wikilink")，而且射程不遠，難以應付較遠距離著防彈衣的敵人。
+雖然MP5有高精度、後座力低及威力適中的優點，但MP5結構複雜，對維護保養的要求較高，單價也較高昂，所以多用於應用環境較佳的警用單位，而在同期於軍事單位的普及性則不如[史特林衝鋒槍](../Page/史特林衝鋒槍.md "wikilink")及[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")這類精度較低，但價格較低，維護保養容易的衝鋒槍。MP5使用手槍子彈雖然在可能發生的混戰或匪徒脅持人質的場面中防止誤殺隊友或人質，但無法有效貫穿[防彈衣](https://zh.wikipedia.org/wiki/防彈衣 "wikilink")，而且射程不遠，難以應付較遠距離著防彈衣的敵人。
+
+MP5可透過更換扳機組來更改擊發模式，可使用的扳機組如下：
+
+  - **S-E-F**：單邊保險-半自動-全自動
+  - **0-1**：雙邊保險-半自動
+  - **0-1-2**：雙邊保險-半自動-兩點發
+  - **0-1-3**：雙邊保險-半自動-三點發
+  - **0-1-D**：雙邊保險-半自動-全自動
+  - **0-1-2-D**：雙邊保險-半自動-兩點發-全自動
+  - **0-1-3-D**：雙邊保險-半自動-三點發-全自動\[1\]
 
 ## 歷史
 
@@ -20,110 +28,90 @@ MP5的原設計來自在1964年[黑克勒-科赫以](https://zh.wikipedia.org/wi
 
 HK54其中5為H\&K的第五代衝鋒槍，4解為使用[9×19毫米子槍子彈](https://zh.wikipedia.org/wiki/9×19mm鲁格弹 "wikilink")，西德政府採用後正式命名為MP5，[瑞士同年成為第一个德國以外用MP](https://zh.wikipedia.org/wiki/瑞士 "wikilink")5的國家。由於高質素設計及高可靠性，MP5在推出後便成為了多國軍隊、警隊及保安部隊的制式冲锋枪，而黑克勒-科赫亦不斷改良及開發更多、共120多种版本。在1990年後期，更推出了為特定用戶開發的[10毫米Auto及](../Page/10mm_Auto.md "wikilink")[.40 S\&W版本](../Page/.40_S&W.md "wikilink")（MP5/10及MP5/40），在1970年代至2000年，MP5系列更一直保持其用戶數量及衝鋒槍的領導地位。
 
-MP5現今在[土耳其](../Page/土耳其.md "wikilink")、[希臘](https://zh.wikipedia.org/wiki/希臘 "wikilink")、[巴基斯坦](../Page/巴基斯坦.md "wikilink")、[緬甸](https://zh.wikipedia.org/wiki/緬甸 "wikilink")、[伊朗等部分國家及一些小廠都獲授權生產或私自仿製及使用](https://zh.wikipedia.org/wiki/伊朗 "wikilink")，有些國家更為其產品重新命名（但槍枝本身沒有改變），[中華人民共和國非授權仿製的](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[NR-08](../Page/NR-08衝鋒槍.md "wikilink")／[CS/LS3型冲锋枪及](https://zh.wikipedia.org/wiki/CS/LS3型冲锋枪 "wikilink")[美國小廠所拼裝的](https://zh.wikipedia.org/wiki/美國 "wikilink")[SWA5衝鋒槍](../Page/SWA5衝鋒槍.md "wikilink")就是個私自仿製品的好例子。但獲授權生產或私自仿製品大都是早期A2、A3型，無三發點放裝置，並且手工較粗糙、內部結構不同及可靠性較差，無HK原廠製造的細膩。
+MP5在[土耳其](../Page/土耳其.md "wikilink")、[希臘](https://zh.wikipedia.org/wiki/希臘 "wikilink")、[巴基斯坦](../Page/巴基斯坦.md "wikilink")、[沙特阿拉伯](../Page/沙特阿拉伯.md "wikilink")、[伊朗等國家都有製造](https://zh.wikipedia.org/wiki/伊朗 "wikilink")，有部分由原廠授權生產，也有很多版本是未經授權自行仿製，有部分廠商更為其產品重新命名。MP5有多種仿製型號，包括[中華人民共和國非授權仿製的](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[NR-08](../Page/NR-08衝鋒槍.md "wikilink")／[CS/LS3型冲锋枪](https://zh.wikipedia.org/wiki/CS/LS3型冲锋枪 "wikilink")，以及由[美國小型槍廠拼裝的](https://zh.wikipedia.org/wiki/美國 "wikilink")[SWA5衝鋒槍](../Page/SWA5衝鋒槍.md "wikilink")就是個私自仿製的例子。經原廠授權生產的版本，結構與原廠產品相仿，但部分國家如土耳其獲授權生產的版本，品質與原廠仍有較大差距。而沒有原廠授權的仿製品，品質更參差，造工普遍較粗糙，零件互換性較低，可靠性也較差，但因為非HK原廠的產品並不受德國對武器出口的嚴格管制，價格也較低廉，所以仍有不少武裝單位選用。
+
+2015年，[黑克勒-科赫推出了MP](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")5 MLI中期改進，推出了MP5的HKey護木、加裝於機匣頂部的皮卡汀尼導軌及RAL8000綠棕色外觀\[2\]\[3\]。
 
 ## 型號
 
-[Mp5_4.JPG](https://zh.wikipedia.org/wiki/File:Mp5_4.JPG "fig:Mp5_4.JPG") [MP5A3_Marinir.jpg](https://zh.wikipedia.org/wiki/File:MP5A3_Marinir.jpg "fig:MP5A3_Marinir.jpg") [MP3K_ImgID1.jpg](https://zh.wikipedia.org/wiki/File:MP3K_ImgID1.jpg "fig:MP3K_ImgID1.jpg") [MP5SD.JPG](https://zh.wikipedia.org/wiki/File:MP5SD.JPG "fig:MP5SD.JPG") [HK94k_on_Finnish_camo.jpg](https://zh.wikipedia.org/wiki/File:HK94k_on_Finnish_camo.jpg "fig:HK94k_on_Finnish_camo.jpg") [Hkmp5k.jpg](https://zh.wikipedia.org/wiki/File:Hkmp5k.jpg "fig:Hkmp5k.jpg") <small>註：「SEF」代表可連發、單發、保險扳機'''，伸縮[槍托](../Page/槍托.md "wikilink")為金屬製造、固定及摺疊槍托使用塑料製造。</small>
+[Mp5_4.JPG](https://zh.wikipedia.org/wiki/File:Mp5_4.JPG "fig:Mp5_4.JPG") [MP5A3_Marinir.jpg](https://zh.wikipedia.org/wiki/File:MP5A3_Marinir.jpg "fig:MP5A3_Marinir.jpg") [MP3K_ImgID1.jpg](https://zh.wikipedia.org/wiki/File:MP3K_ImgID1.jpg "fig:MP3K_ImgID1.jpg") [MP5SD.JPG](https://zh.wikipedia.org/wiki/File:MP5SD.JPG "fig:MP5SD.JPG") [HK94k_on_Finnish_camo.jpg](https://zh.wikipedia.org/wiki/File:HK94k_on_Finnish_camo.jpg "fig:HK94k_on_Finnish_camo.jpg") [Hkmp5k.jpg](https://zh.wikipedia.org/wiki/File:Hkmp5k.jpg "fig:Hkmp5k.jpg") <small>註：**伸縮[槍托](../Page/槍托.md "wikilink")為金屬製造、固定及摺疊槍托使用塑料製造。**</small>
 
-  - 原廠型號：
+### 軍用型
 
-<!-- end list -->
+#### A - 基本型
 
-  - A型號：
+  - **MP5A1**：可安裝附件的槍口；海軍版[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")／「SEF」，使用直型彈匣。
+  - **MP5A2**：固定槍托，海軍版扳機／「SEF」。
+  - **MP5A3**：伸縮槍托，海軍版扳機／「SEF」，最廣泛使用的MP5型號。
+  - **MP5A4**：固定槍托，A2的可[三點發扳機版本](https://zh.wikipedia.org/wiki/三點發 "wikilink")。
+  - **MP5A5**：伸縮槍托，A3的可三點發扳機版本。
 
-<!-- end list -->
+#### SF - 半自動型
 
-  - MP5A1：可安裝附件的槍口；海軍版[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")／「SEF」，使用直型彈匣。
-  - MP5A2：固定槍托，海軍版扳機／「SEF」。
-  - MP5A3：伸縮槍托，海軍版扳機／「SEF」，最廣泛使用的MP5型號。
-  - MP5A4：固定槍托，A2的可[三點發扳機版本](https://zh.wikipedia.org/wiki/三點發 "wikilink")。
-  - MP5A5：伸縮槍托，A3的可三點發扳機版本。
+  - **MP5SFA2**：改用0-1扳機組的MP5A2。
+  - **MP5SFA3**：改用0-1扳機組的MP5A3。
 
-<!-- end list -->
+#### 特製型
 
-  - SF（代表「單發」）型號：
+  - **MP5N**：專為[美國海軍](../Page/美國海軍.md "wikilink")（「N」代表「Navy」，[海軍](https://zh.wikipedia.org/wiki/海軍 "wikilink")）製造，裝有海軍版專用「SEF」扳機、前護木有金屬防滑紋，防海水腐蝕，三叉型槍口可裝上[消聲器](https://zh.wikipedia.org/wiki/消聲器 "wikilink")、伸縮槍托。
+  - **MP5F**：專為[法國軍隊及警隊](https://zh.wikipedia.org/wiki/法國 "wikilink")（「F」代表「French」，[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")）製造，為了減低射擊時後坐力帶來的不適，特別在槍托底板裝有軟塑料護板、前護木上有防滑紋。
+  - **MP5J**：專為[日本](../Page/日本.md "wikilink")警隊（「J」代表「Japan」，[日本](../Page/日本.md "wikilink")）製造，使用0-1-3-D扳機組。
+  - **MP5/10**：專為美國[聯邦調查局製造的型號](https://zh.wikipedia.org/wiki/聯邦調查局 "wikilink")（一些執法部門也有採用），發射[10毫米Auto](../Page/10mm_Auto.md "wikilink")，有A2、A3和N的版本，已停產但仍享有HK公司的售後服務。
+  - **MP5/40**：專為美國[聯邦調查局製造的型號](https://zh.wikipedia.org/wiki/聯邦調查局 "wikilink")，發射[.40 S\&W](../Page/.40_S&W.md "wikilink")，已停產。
+  - **MP5 RAS**：裝上導軌系統的MP5。
+  - **MP5公事包型號**：內藏MP5K的公事包，可由公事包提把上的按制連動扳機發射。
 
-<!-- end list -->
+#### K - 短型
 
-  - MP5SFA2：A2移除連發功能的半自動卡賓槍型號，固定槍托。
-  - MP5SFA3：A3移除連發功能的半自動卡賓槍型號，伸縮槍托。
+  - **MP5K**：超短型MP5；裝有前握把、全長只有325毫米、「SEF」。
+  - **MP5KA1**：裝有簡易片形照門的MP5K；「SEF」。
+  - **MP5KA4**：MP5K的可三點發版本，全MP5系列最小的型號。
+  - **MP5KA5**：MP5KA1的可三點發版本。
+  - **MP5K-N**：專為[美國海軍](../Page/美國海軍.md "wikilink")製造的型號，裝有海軍版專用「SEF」扳機、防海水腐蝕，三叉型槍口可裝上[消聲器](../Page/抑制器.md "wikilink")，沒有槍托。
+  - **MP5K-PDW**：MP5K的[個人防衛武器](../Page/個人防衛武器.md "wikilink")版本；加裝摺疊槍托、可裝上[消聲器的三叉型槍口及](../Page/抑制器.md "wikilink")[三點發](https://zh.wikipedia.org/wiki/三點發 "wikilink")，於1991年首次推出。購買時可特別指明要求改用UMP式摺疊槍托。
 
-<!-- end list -->
+#### SD - 消音型
 
-  - 特製型號：
+  - **MP5SD1**：裝有整體槍管[消聲器](../Page/抑制器.md "wikilink")；海軍版[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")／「SEF」。
+  - **MP5SD2**：裝有整體槍管[消聲器](../Page/抑制器.md "wikilink")、固定槍托；海軍版[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")／「SEF」。
+  - **MP5SD3**：裝有整體槍管[消聲器](../Page/抑制器.md "wikilink")、伸縮槍托；海軍版[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")／「SEF」。
+  - **MP5SD4**：MP5SD1的可三點發扳機版本。
+  - **MP5SD5**：MP5SD2的可三點發扳機版本。
+  - **MP5SD6**：MP5SD3的可三點發扳機版本。
+  - **MP5SD-N**：MP5SD的海軍版本、KAC護木、[不鏽鋼](../Page/不鏽鋼.md "wikilink")整體槍管[消聲器](https://zh.wikipedia.org/wiki/消聲器 "wikilink")；伸縮槍托。
 
-<!-- end list -->
+### 民用型
 
-  - MP5N：（「N」代表「Navy」，[海軍](https://zh.wikipedia.org/wiki/海軍 "wikilink")）專為[美國海軍](../Page/美國海軍.md "wikilink")製造的型號，裝有海軍版專用「SEF」扳機、前護木有金屬防滑紋，防海水腐蝕，三叉型槍口可裝上[消聲器](https://zh.wikipedia.org/wiki/消聲器 "wikilink")、伸縮槍托。
-  - MP5F：（「F」代表「French」，[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")）專為[法國軍隊及警隊](https://zh.wikipedia.org/wiki/法國 "wikilink")，為了減低射擊時後坐力帶來的不適，特別在槍托底板裝有軟塑料護板、前護木上有防滑紋。
-  - MP5J：（「J」代表「Japan」，[日本](../Page/日本.md "wikilink")）專為[日本](../Page/日本.md "wikilink")警隊製造的MP5，最大特色就是可以單槍同時使用SEF及三點發扳機。
-  - MP5/10：專為美國[聯邦調查局製造的型號](https://zh.wikipedia.org/wiki/聯邦調查局 "wikilink")（一些執法部門也有採用），發射[10毫米Auto](../Page/10mm_Auto.md "wikilink")，有A2、A3和N的版本，已停產但原來的用户可以享有HK公司的售後服務。
-  - MP5/40：專為美國[聯邦調查局製造的型號](https://zh.wikipedia.org/wiki/聯邦調查局 "wikilink")，發射[.40 S\&W](../Page/.40_S&W.md "wikilink")，已停產。
-  - MP5 RAS：（「RAS」代表「Rail Attachment System」，導軌系統）裝上導軌系統的MP5。
-  - MP5公事包型號:內藏MP5K的公事包，可由公事包提把上的按制連動扳機發射。
+  - **HK94**：美國本土發售的民用型版本，配有單發/保險扳機及16寸槍管，有三種不同版本-A2、A3及SG1，已停產但至今還可以用5,000美元或以上的高價買到。值得一提的是，大量半自動的HK94A2/A3被割短長管和改裝過，在1980年代至1990年代的[動作片](../Page/動作片.md "wikilink")出現以代表全自動的MP5。
+  - **SP89**：M1989運動手槍（）。民用型MP5K、特別製造的前護木以符合美國在1989年的法例，已停產。
+  - **SP5K**：於2016年7月推出並於美國以手槍形式限量推出的MP5K民用型，使用0-1半自動扳機，扳機組設計經修改以令其無法使用全自動扳機組，亦因此槓桿式彈匣釋放桿被移除\[4\]。
+  - **SP5**：於2019年12月2日在美國以手槍形式推出的MP5民用型，從德國直接進口，使用0-1半自動扳機，不設槍托，配有MP5K照門，同時設有1/2×28螺紋及三叉型槍口，並恢復了於SP5K移除的槓桿式彈匣釋放桿\[5\]\[6\]。
 
-<!-- end list -->
+### 非原廠生產型號
 
-  - K（代表「短」）型號：
+#### 獲授權生產版本
 
-<!-- end list -->
+  - [EAS MP5](https://zh.wikipedia.org/wiki/EAS_MP5 "wikilink")：[希臘EAS工廠獲授權生產的版本](https://zh.wikipedia.org/wiki/希臘 "wikilink")。
+  - [T94](../Page/T94衝鋒槍.md "wikilink")：[土耳其](../Page/土耳其.md "wikilink")MKE工廠獲授權生產的MP5，有MP5A3、A2、K等部分型號。
+  - [PK-9](https://zh.wikipedia.org/wiki/PK-9 "wikilink")：[巴基斯坦](../Page/巴基斯坦.md "wikilink")POF工廠獲授權生產的版本。
+  - [DIO MP5](https://zh.wikipedia.org/wiki/DIO_MP5 "wikilink")：[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")[DIO工廠獲授權生產的MP](https://zh.wikipedia.org/wiki/DIO "wikilink")5A3及MP5K。
+  - 沙特版MP5：[沙地阿拉伯Military](https://zh.wikipedia.org/wiki/沙地阿拉伯 "wikilink") Industries Corporation獲授權生產版本。
+  - [MAS MP5F](https://zh.wikipedia.org/wiki/MAS_MP5F "wikilink")：[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[聖艾蒂安兵工廠獲授權生產的MP](https://zh.wikipedia.org/wiki/聖艾蒂安 "wikilink")5F。
 
-  - MP5K：（「K」代表「短」，德文稱為「」）超短型的MP5；裝有前握把、全長只有325毫米、「SEF」。
-  - MP5KA1：裝有簡易片形照門的MP5K；「SEF」。
-  - MP5KA4：MP5K的可三點發版本，全MP5系列最小的型號。
-  - MP5KA5：MP5KA1的可三點發版本。
-  - MP5K-N：專為[美國海軍](../Page/美國海軍.md "wikilink")製造的型號，裝有海軍版專用「SEF」扳機、防海水腐蝕，三叉型槍口可裝上[消聲器](https://zh.wikipedia.org/wiki/消聲器 "wikilink")，沒有槍托。
-  - MP5K-PDW：MP5K的[個人防衛武器](../Page/個人防衛武器.md "wikilink")版本；加裝摺疊槍托、可裝上[消聲器的三叉型槍口及](https://zh.wikipedia.org/wiki/消聲器 "wikilink")[三點發](https://zh.wikipedia.org/wiki/三點發 "wikilink")，於1991年首次推出。
+#### 仿製版本
 
-<!-- end list -->
-
-  - SD（代表「消聲」）型號：
-
-<!-- end list -->
-
-  - MP5SD1：（「SD」），原廠製造的整體槍管[消聲器型號](https://zh.wikipedia.org/wiki/消聲器 "wikilink")；海軍版[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")／「SEF」。
-  - MP5SD2：同樣裝有整體槍管[消聲器](https://zh.wikipedia.org/wiki/消聲器 "wikilink")、固定槍托；海軍版[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")／「SEF」。
-  - MP5SD3：裝有整體槍管[消聲器](https://zh.wikipedia.org/wiki/消聲器 "wikilink")、伸縮槍托；海軍版[扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")／「SEF」。
-  - MP5SD4：MP5SD1的可三點發扳機版本。
-  - MP5SD5：MP5SD2的可三點發扳機版本。
-  - MP5SD6：MP5SD3的可三點發扳機版本。
-  - MP5SD-N：MP5SD的海軍版本、KAC護木、[不鏽鋼](../Page/不鏽鋼.md "wikilink")整體槍管[消聲器](https://zh.wikipedia.org/wiki/消聲器 "wikilink")；伸縮槍托。
-
-<!-- end list -->
-
-  - 民用型號：
-
-<!-- end list -->
-
-  - HK94：美國本土發售的民用型版本，配有單發/保險扳機及16寸槍管，有三種不同版本-A2、A3及SG1，已停產但至今還可以用5,000美元或以上的高價買到。值得一提的是，大量半自動的HK94A2/A3被割短長管和改裝過，在1980年代至1990年代的[動作片](../Page/動作片.md "wikilink")出現以代表全自動的MP5。
-  - SP89：（M1989運動手槍「）。民用型MP5K、特別製造的前護木以符合美國在1989年的法例，已停產。
-
-<!-- end list -->
-
-  - 其他國家的授權生產或私自仿製型號：
-
-<!-- end list -->
-
-  - [SWA5衝鋒槍](../Page/SWA5衝鋒槍.md "wikilink")\[1\]\[2\]
   - [MP-10衝鋒槍](https://zh.wikipedia.org/wiki/MP-10衝鋒槍 "wikilink")：Special Weapons生產的另一版本的MP5，另有民用型SP-10。
-  - [EAS MP5](https://zh.wikipedia.org/wiki/EAS_MP5 "wikilink")：由[希臘EAS工廠合法生產的版本](https://zh.wikipedia.org/wiki/希臘 "wikilink")。
-  - [PK-9](https://zh.wikipedia.org/wiki/PK-9 "wikilink"):由[巴基斯坦](../Page/巴基斯坦.md "wikilink")POF工廠生產的版本。
-  - [緬甸仿製的MP](https://zh.wikipedia.org/wiki/緬甸 "wikilink")5
-  - [DIO MP5](https://zh.wikipedia.org/wiki/DIO_MP5 "wikilink")：由[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")[DIO工廠仿製的MP](https://zh.wikipedia.org/wiki/DIO "wikilink")5。
-  - [Tihraga](https://zh.wikipedia.org/wiki/Tihraga衝鋒槍 "wikilink"): [蘇丹製MP](https://zh.wikipedia.org/wiki/蘇丹 "wikilink")5，由MIC工廠生產。
+  - [緬甸仿製MP](https://zh.wikipedia.org/wiki/緬甸 "wikilink")5。
+  - [Tihraga](https://zh.wikipedia.org/wiki/Tihraga衝鋒槍 "wikilink")：[蘇丹製MP](https://zh.wikipedia.org/wiki/蘇丹 "wikilink")5，由MIC工廠生產。
   - [SEDENA MP5](https://zh.wikipedia.org/wiki/SEDENA_MP5 "wikilink")：由[墨西哥](../Page/墨西哥.md "wikilink")國營兵工廠[SEDENA生產的版本](https://zh.wikipedia.org/wiki/SEDENA "wikilink")。
   - [INDEP MP5](https://zh.wikipedia.org/wiki/INDEP_MP5 "wikilink")：[葡萄牙](../Page/葡萄牙.md "wikilink")[INDEP公司生產的版本](https://zh.wikipedia.org/wiki/INDEP "wikilink")。
-  - [沙地阿拉伯製MP](https://zh.wikipedia.org/wiki/沙地阿拉伯 "wikilink")5
-  - [MAS MP5F](https://zh.wikipedia.org/wiki/MAS_MP5F "wikilink")：由[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[聖艾蒂安兵工廠授權生產的MP](https://zh.wikipedia.org/wiki/聖艾蒂安 "wikilink")5F。
-  - [T94](../Page/T94衝鋒槍.md "wikilink")：[土耳其](../Page/土耳其.md "wikilink")MKE工廠合法生產的MP5，有MP5A3、A2、K等部分型號。
-  - [塞爾維亞仿製的MP](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")5K
-  - [MPT9衝鋒槍](https://zh.wikipedia.org/wiki/MPT9衝鋒槍 "wikilink")：[伊朗DIO工廠的MP](https://zh.wikipedia.org/wiki/伊朗 "wikilink")5、MP5K仿制版本，有MPT9S/9 mm LIGHT其他型號。\[3\]。
-  - [NR-08](../Page/NR-08衝鋒槍.md "wikilink")：[中華人民共和國的非授權仿制版](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")，由[北方工業生產](https://zh.wikipedia.org/wiki/北方工業 "wikilink")，目前已知裝備在[重慶閃電反恐突擊隊](https://zh.wikipedia.org/wiki/重慶閃電反恐突擊隊 "wikilink")。
+  - [塞爾維亞仿製MP](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")5K。
+  - [MPT9衝鋒槍](https://zh.wikipedia.org/wiki/MPT9衝鋒槍 "wikilink")：[伊朗DIO工廠的MP](https://zh.wikipedia.org/wiki/伊朗 "wikilink")5、MP5K仿制版本，有MPT9S/9 mm LIGHT其他型號。\[7\]。
+  - [NR-08](../Page/NR-08衝鋒槍.md "wikilink")：[中華人民共和國的仿製版](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")，由[北方工業生產](https://zh.wikipedia.org/wiki/北方工業 "wikilink")，目前已知裝備在[重慶閃電反恐突擊隊](https://zh.wikipedia.org/wiki/重慶閃電反恐突擊隊 "wikilink")。
   - [CS/LS3](https://zh.wikipedia.org/wiki/CS/LS3型冲锋枪 "wikilink")：同樣是[中華人民共和國的非授權仿制版](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")，由[中国兵器装备集团](../Page/中国兵器装备集团.md "wikilink")生產，目前已知裝備在[广西](../Page/广西壮族自治区.md "wikilink")[公安](../Page/公安机关.md "wikilink")[特警队](https://zh.wikipedia.org/wiki/特種警察 "wikilink")。
   - [Brügger & Thomet MP5](https://zh.wikipedia.org/wiki/B&T_MP5衝鋒槍 "wikilink")：由[瑞士Brügger](https://zh.wikipedia.org/wiki/瑞士 "wikilink") & Thomet公司生產的MP5。
-  - [美國版HK](https://zh.wikipedia.org/wiki/美國 "wikilink") MP5：由美國的[黑克勒-科赫公司生產的MP](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")5，當中包含了許多不同的型號。
   - [GSG-5卡賓槍](../Page/GSG-5卡賓槍.md "wikilink")：由德國運動槍有限公司研製及生產的一種.22口徑半自動民用型卡賓槍。
+  - [SWA5衝鋒槍](../Page/SWA5衝鋒槍.md "wikilink")：美國Special Weapons生產的仿製版本\[8\]\[9\]
 
 ## 使用國家和地區
 
@@ -154,8 +142,8 @@ MP5現今在[土耳其](../Page/土耳其.md "wikilink")、[希臘](https://zh.w
       -
       -
       -
-  -   - 白羅斯內務部[鑽石反恐特別單位](../Page/鑽石反恐特別單位.md "wikilink")\[4\]\[5\]
-      - [白羅斯共和國國家安全委員會](../Page/白羅斯共和國國家安全委員會.md "wikilink")[阿爾法小組](../Page/阿爾法小組_\(白羅斯\).md "wikilink")（A3）\[6\]
+  -   - 白羅斯內務部[鑽石反恐特別單位](../Page/鑽石反恐特別單位.md "wikilink")\[10\]\[11\]
+      - [白羅斯共和國國家安全委員會](../Page/白羅斯共和國國家安全委員會.md "wikilink")[阿爾法小組](../Page/阿爾法小組_\(白羅斯\).md "wikilink")（A3）\[12\]
 
   -   - 特警單位
 
@@ -178,19 +166,21 @@ MP5現今在[土耳其](../Page/土耳其.md "wikilink")、[希臘](https://zh.w
       - Bruce Power核能反應組
 
   -
-  -   - 公安特警單位（其仿製型[NR-08與](../Page/NR-08衝鋒槍.md "wikilink")[CS/LS3型衝鋒鎗](https://zh.wikipedia.org/wiki/CS/LS3型衝鋒鎗 "wikilink")）
+  - ：由於歐盟武器禁運，所使用的皆為仿製品
+
+      - 公安特警單位（其仿製型[NR-08與](../Page/NR-08衝鋒槍.md "wikilink")[CS/LS3型衝鋒鎗](https://zh.wikipedia.org/wiki/CS/LS3型衝鋒鎗 "wikilink")）
       - [武警特警学院](https://zh.wikipedia.org/wiki/中國人民武裝警察部隊特種警察學院 "wikilink")
 
   -   - 特警單位
 
   -
   -   -
-  -   - 特種部隊\[7\]
+  -   - 特種部隊\[13\]
 
   -
   -   -
       -
-  -   - [德國人民警察](https://zh.wikipedia.org/wiki/德國人民警察 "wikilink")[第9連](../Page/第9勤務部隊.md "wikilink")\[8\]
+  -   - [德國人民警察](https://zh.wikipedia.org/wiki/德國人民警察 "wikilink")[第9連](../Page/第9勤務部隊.md "wikilink")\[14\]
 
   -   -
       - [丹麥國防軍](https://zh.wikipedia.org/wiki/丹麥軍事 "wikilink")
@@ -227,7 +217,7 @@ MP5現今在[土耳其](../Page/土耳其.md "wikilink")、[希臘](https://zh.w
       - [希臘武裝部隊](https://zh.wikipedia.org/wiki/希臘軍事 "wikilink")
 
   -
-  - ：香港警方在1970年代後期跟隨[英軍選用MP](https://zh.wikipedia.org/wiki/英軍 "wikilink")5\[9\]，早期只由特別任務連等特警單位專用，後來大量購入並擴展為一般單位都裝備。2017年11月，黑克勒-科赫公司拒絕了香港警方在年初购买一批MP5衝鋒槍和配件的请求\[10\]。德國媒體DPA於2016年11月曾引述一名黑克勒-科赫不具名高層稱公司希望只向[北約成員國或北約夥伴國當中的](https://zh.wikipedia.org/wiki/北約 "wikilink")[民主](../Page/民主.md "wikilink")且非[腐敗政府售賣槍械](https://zh.wikipedia.org/wiki/政治腐败 "wikilink")。[香港保安局局長李家超拒绝就报道发布评论](https://zh.wikipedia.org/wiki/香港保安局 "wikilink")，并表示市场仍有很多选择，此事不会影响执法机构运作\[11\]，輿論認為[香港人權](../Page/香港人權.md "wikilink")狀況近年倒退是被德國廠商拒售的原因\[12\]\[13\]。黑克勒-科赫公司在2019年6月證實因應香港近月政局（[反送中運動](https://zh.wikipedia.org/wiki/反送中運動 "wikilink")）決定不再向香港警方供應MP5及配件\[14\]\[15\]，該廠商亦稱其道德標準是不向任何正發生衝突或參與衝突的國家輸出槍械\[16\]。
+  - ：香港警方在1970年代後期跟隨[英軍選用MP](https://zh.wikipedia.org/wiki/英軍 "wikilink")5\[15\]，早期只由特別任務連等特警單位專用，後來大量採購及擴展為一般單位都裝備，全面取代[史特林衝鋒槍](../Page/史特林衝鋒槍.md "wikilink")。2017年11月，黑克勒-科赫公司拒絕了香港警方在年初购买一批MP5衝鋒槍和配件的请求\[16\]。德國媒體DPA於2016年11月曾引述一名黑克勒-科赫不具名高層稱公司希望只向[北約成員國或北約夥伴國當中的](https://zh.wikipedia.org/wiki/北約 "wikilink")[民主](../Page/民主.md "wikilink")且非[腐敗政府售賣槍械](https://zh.wikipedia.org/wiki/政治腐败 "wikilink")。[香港保安局局長李家超拒绝就报道发布评论](https://zh.wikipedia.org/wiki/香港保安局 "wikilink")，并表示市场仍有很多选择，此事不会影响执法机构运作\[17\]，輿論認為[香港人權](../Page/香港人權.md "wikilink")狀況近年倒退是被德國廠商拒售的原因\[18\]\[19\]。黑克勒-科赫公司在2019年6月證實因應香港近月政局（[反送中運動](https://zh.wikipedia.org/wiki/反送中運動 "wikilink")）決定不再向香港警方供應MP5及配件\[20\]\[21\]，該廠商亦稱其道德標準是不向任何正發生衝突或參與衝突的國家輸出槍械\[22\]。
 
       - [香港警務處](../Page/香港警務處.md "wikilink")
           - [警察總區](../Page/警察總區.md "wikilink")
@@ -297,7 +287,7 @@ MP5現今在[土耳其](../Page/土耳其.md "wikilink")、[希臘](https://zh.w
       - [海上保安廳](../Page/海上保安廳.md "wikilink")[特殊警備隊](https://zh.wikipedia.org/wiki/特殊警備隊 "wikilink")
 
   -
-  -   - 特種部隊單位\[17\]
+  -   - 特種部隊單位\[23\]
 
   -   -
   -
@@ -352,7 +342,7 @@ MP5現今在[土耳其](../Page/土耳其.md "wikilink")、[希臘](https://zh.w
       - 特別行動團
 
   -
-  -   - [挪威國防軍](../Page/挪威國防軍.md "wikilink")（被[MP7所取代](https://zh.wikipedia.org/wiki/HK_MP7衝鋒槍 "wikilink")\[18\]）
+  -   - [挪威國防軍](../Page/挪威國防軍.md "wikilink")（被[MP7所取代](https://zh.wikipedia.org/wiki/HK_MP7衝鋒槍 "wikilink")\[24\]）
 
       -
   -
@@ -381,15 +371,16 @@ MP5現今在[土耳其](../Page/土耳其.md "wikilink")、[希臘](https://zh.w
       - [中華民國特種警察](../Page/中華民國特種警察.md "wikilink")
       - 台北市刑事警察大隊特勤中隊
       - 高雄市刑事警察大隊特勤中隊
-      - [國家安全局特勤中心](https://zh.wikipedia.org/wiki/國家安全局 "wikilink")
+      - [國家安全局](../Page/國家安全局.md "wikilink")特勤中心
+      - [中華民國](../Page/中華民國.md "wikilink")[海洋委員會海巡署](../Page/海洋委員會海巡署.md "wikilink")[偵防分署](../Page/海洋委員會海巡署偵防分署.md "wikilink")[海巡特勤隊](../Page/海巡特勤隊.md "wikilink")
 
   -   - 特別反恐單位
 
   -   - 特種作戰營
 
       -
-  -   - [俄羅斯聯邦安全局](https://zh.wikipedia.org/wiki/俄羅斯聯邦安全局 "wikilink")[阿爾法小組](../Page/阿爾法小組.md "wikilink")（A3）\[19\]\[20\]
-      - [俄羅斯聯邦武裝力量特種作戰部隊](../Page/俄羅斯聯邦武裝力量特種作戰部隊.md "wikilink")\[21\]
+  -   - [俄羅斯聯邦安全局](https://zh.wikipedia.org/wiki/俄羅斯聯邦安全局 "wikilink")[阿爾法小組](../Page/阿爾法小組.md "wikilink")（A3）\[25\]\[26\]
+      - [俄羅斯聯邦武裝力量特種作戰部隊](../Page/俄羅斯聯邦武裝力量特種作戰部隊.md "wikilink")\[27\]
 
   -   - 特種部隊單位 （採用合法生產版本）
 
@@ -416,7 +407,7 @@ MP5現今在[土耳其](../Page/土耳其.md "wikilink")、[希臘](https://zh.w
       -
       - [西班牙海軍](../Page/西班牙海軍.md "wikilink")
 
-  - \[22\]
+  - \[28\]
 
   - ：採用[合法生產版本](https://zh.wikipedia.org/wiki/合法生產 "wikilink")
 
@@ -438,7 +429,7 @@ MP5現今在[土耳其](../Page/土耳其.md "wikilink")、[希臘](https://zh.w
 
   -   - 總統衛隊
       - 內務部歐米茄特種部隊
-      - [烏克蘭安全局](https://zh.wikipedia.org/wiki/烏克蘭安全局 "wikilink")[阿爾法小組](../Page/阿爾法小組_\(烏克蘭\).md "wikilink")\[23\]（A3）
+      - [烏克蘭安全局](https://zh.wikipedia.org/wiki/烏克蘭安全局 "wikilink")[阿爾法小組](../Page/阿爾法小組_\(烏克蘭\).md "wikilink")\[29\]（A3）
 
   -
   -   - 安全服務隊
@@ -614,10 +605,12 @@ MP5系列也出現在許多[電影](https://zh.wikipedia.org/wiki/電影 "wikili
   - 2016年—《[殺戮空間2](../Page/殺戮空間2.md "wikilink")》（Killing Floor 2）:型號為MP5A2，命名為「MP5RAS SMG」，配備戰術導軌護木並裝上前握把，以30發彈匣供彈卻有40發。
   - 2016年—《[-{zh:決勝時刻：現代戰爭; zh-hans:使命召唤：现代战争; zh-hant:決勝時刻：現代戰爭; zh-cn:使命召唤：现代战争; zh-tw:決勝時刻：現代戰爭; zh-hk:使命召喚：現代戰爭;}-重製版](../Page/決勝時刻4：現代戰爭.md "wikilink")》（Call of Duty: Modern Warfare Remastered）：型號為MP5N及MP5SD3，外觀比前作更為精細。
   - 2016年—《》（Escape From Tarkov）：登場型號為MP5A4（預設）和MP5SD5（預設）。
+  - 2018年— 《[火線獵殺：野境](../Page/火線獵殺：野境.md "wikilink")》：命名為「MP5」，型號為MP5A5 MLI，為初始槍械之一，可使用各類配件進行改裝。
   - 2018年—《[-{zh-hans:孤岛惊魂; zh-hant:極地戰嚎;}-5](https://zh.wikipedia.org/wiki/極地戰嚎5 "wikilink")》（Far Cry 5）：型號為MP5A3、MP5SD3和MP5K，會使用「HK拍擊」上膛。
   - 2018年—《[-{zh-hans:绝地求生; zh-hant:絕地求生;}-](../Page/絕地求生.md "wikilink")》（PUBG）：型號為MP5K，會使用所衝鋒槍的槍口、彈匣、6倍及以下的倍鏡和槍托，並使用9毫米口徑的子彈。
   - 2019年—《[-{zh-hans:孤岛惊魂：新曙光; zh-hant:極地戰嚎：破曉;}-](../Page/孤岛惊魂：新曙光.md "wikilink")》（Far Cry: New Dawn）
-  - 2019年—《[-{zh-cn:使命召唤：现代战争; zh-tw:決勝時刻：現代戰爭; zh-hk:使命召喚：現代戰爭}-](https://zh.wikipedia.org/wiki/使命召唤：现代战争_\(2019年遊戲\) "wikilink")》（Call of Duty: Modern Warfare）：型號為MP5A3（預設），命名為“MP5”，可進行自定義改裝，會使用“HK拍擊”上膛。故事模式中由[英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[特種空勤團所使用](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")。
+  - 2019年—《[-{zh-cn:使命召唤：现代战争; zh-tw:決勝時刻：現代戰爭; zh-hk:使命召喚：現代戰爭}-](https://zh.wikipedia.org/wiki/使命召唤：现代战争_\(2019年遊戲\) "wikilink")》（Call of Duty: Modern Warfare）：預設未改裝型號為MP5A3，命名為「MP5」，可進行自定義改裝，會使用“HK拍擊”上膛。故事模式中由[英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[特種空勤團所使用](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")。
+  - 2019年— 《[火線獵殺：絕境](../Page/幽灵行动：断点.md "wikilink")》：命名為「MP5」，型號為MP5A5 MLI，可使用各類配件進行改裝，無法使用半自動模式。
 
 ### [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")
 
@@ -670,24 +663,30 @@ MP5系列也出現在許多[電影](https://zh.wikipedia.org/wiki/電影 "wikili
 
 1.
 2.
-3.  [diomil.ir](http://www.diomil.ir/en/aig.aspx)
-4.  <http://vitaly.livejournal.com/165234.html>
-5.  <http://www.youtube.com/watch?v=_ihVozn0BeE>
-6.  <http://www.youtube.com/watch?v=ltn_pTE7rrA>
-7.  [Cuban Special Forces - MININT and Black Wasps](https://m.youtube.com/watch?v=h0RGvgrz4CU)
-8.  <https://www.youtube.com/watch?t=610&v=RwK1wa6la5Y>
+3.
+4.
+5.
+6.
+7.  [diomil.ir](http://www.diomil.ir/en/aig.aspx)
+8.
 9.
-10.
-11.
-12.
-13.
-14.
+10. <http://vitaly.livejournal.com/165234.html>
+11. <http://www.youtube.com/watch?v=_ihVozn0BeE>
+12. <http://www.youtube.com/watch?v=ltn_pTE7rrA>
+13. [Cuban Special Forces - MININT and Black Wasps](https://m.youtube.com/watch?v=h0RGvgrz4CU)
+14. <https://www.youtube.com/watch?t=610&v=RwK1wa6la5Y>
 15.
 16.
-17. <http://www.youtube.com/watch?v=mz-_AVC-tV4>
-18. [*En liten røver med trøkk i (Norwegian article on the Heckler & Koch deal)*](http://www.mil.no/haren/start/article.jhtml?articleID=141475)
-19. <http://scienceport.ru/galleries/Kalendar-Alfy-na-2014-god-9046.html>
-20. <http://lenta.ru/news/2009/12/11/glock/>
-21. <http://i-korotchenko.livejournal.com/662520.html>
-22. [priu.gov.lk-Naval surveillance is the millstone around LTTE's neck](http://www.priu.gov.lk/news_update/features/20031017naval_surveillance_millstone_LTTE.htm)
-23. <https://sites.google.com/site/worldinventory/wiw_eu_ukraine>
+17.
+18.
+19.
+20.
+21.
+22.
+23. <http://www.youtube.com/watch?v=mz-_AVC-tV4>
+24. [*En liten røver med trøkk i (Norwegian article on the Heckler & Koch deal)*](http://www.mil.no/haren/start/article.jhtml?articleID=141475)
+25. <http://scienceport.ru/galleries/Kalendar-Alfy-na-2014-god-9046.html>
+26. <http://lenta.ru/news/2009/12/11/glock/>
+27. <http://i-korotchenko.livejournal.com/662520.html>
+28. [priu.gov.lk-Naval surveillance is the millstone around LTTE's neck](http://www.priu.gov.lk/news_update/features/20031017naval_surveillance_millstone_LTTE.htm)
+29. <https://sites.google.com/site/worldinventory/wiw_eu_ukraine>

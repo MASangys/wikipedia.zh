@@ -46,7 +46,7 @@ PlayStation花了更多的时间在日本取得电子游戏中的统治地位。
 
 ## 功能
 
-PlayStation除了玩PlayStation游戏，还能播放[音频CD](https://zh.wikipedia.org/wiki/音频CD "wikilink")。在亚洲发行的型号SCPH-5903还能播放[视频CD](https://zh.wikipedia.org/wiki/影音光碟 "wikilink")\[54\]和大多数的CD播放器一样，PlayStation能够随机播放CD歌曲、按顺序播放歌曲、重复播放单首歌曲或重复播放整张CD。后来发行的PlayStation机型可以使用一种叫做SoundScope的音乐可视化功能。\[55\]不插入游戏光盘或打开CD托盘的情况下来启动主机，就可以进入播放CD以及存储卡管理器的功能，这实际上是访问了PlayStation BIOS的菜单。\[56\]\[57\]
+PlayStation除了玩PlayStation游戏，还能播放[音频CD](https://zh.wikipedia.org/wiki/音频CD "wikilink")。在亚洲发行的型号SCPH-5903还能播放[视频CD](https://zh.wikipedia.org/wiki/影音光碟 "wikilink")\[54\]。和大多数的CD播放器一样，PlayStation能够随机播放CD歌曲、按顺序播放歌曲、重复播放单首歌曲或重复播放整张CD。后来发行的PlayStation机型可以使用一种叫做SoundScope的音乐可视化功能。\[55\]不插入游戏光盘或打开CD托盘的情况下来启动主机，就可以进入播放CD以及存储卡管理器的功能，这实际上是访问了PlayStation BIOS的菜单。\[56\]\[57\]
 
 PS One和PlayStation的实际图形界面根据固件版本的不同而不同：最初的PlayStation菜单有一个深蓝色的背景，以及彩虹色的按钮图标。早期的[PAL制式](../Page/PAL制式.md "wikilink")版本的PlayStation和PS one菜单界面有一个灰色的背景，中间有两个图标，\[58\]每个版本的菜单界面都不同。如果在菜单界面放入游戏CD，并关上光盘盖，游戏会立刻开始。\[59\]\[60\]
 

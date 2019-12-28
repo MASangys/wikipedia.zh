@@ -1,4 +1,4 @@
-**IEEE 802** 指[IEEE标准中关于](https://zh.wikipedia.org/wiki/IEEE "wikilink")[局域网](../Page/局域网.md "wikilink")和[城域网的一系列标准](https://zh.wikipedia.org/wiki/城域网 "wikilink")。更确切的说，IEEE 802标准仅限定在传输可变大小数据包的网络。其中最广泛使用的有[以太网](../Page/以太网.md "wikilink")、[令牌环](../Page/令牌环.md "wikilink")、[无线局域网](../Page/无线局域网.md "wikilink")等。这一系列标准中的每一个子标准都由委员会中的一个专门工作组负责。
+**IEEE 802** 指[IEEE标准中关于](https://zh.wikipedia.org/wiki/IEEE "wikilink")[局域网](../Page/局域网.md "wikilink")和[城域网](../Page/城域网.md "wikilink")的一系列标准。更确切的说，IEEE 802标准仅限定在传输可变大小数据包的网络。其中最广泛使用的有[以太网](../Page/以太网.md "wikilink")、[令牌环](../Page/令牌环.md "wikilink")、[无线局域网](../Page/无线局域网.md "wikilink")等。这一系列标准中的每一个子标准都由委员会中的一个专门工作组负责。
 
 IEEE 802中定义的服务和协议限定在[OSI模型](../Page/OSI模型.md "wikilink")的最低两层（即物理层和数据链路层）。事实上，IEEE 802将OSI的数据链路层分为两个子层，分别是[逻辑链路控制](../Page/逻辑链路控制.md "wikilink")（LLC, Logical Link Control）和[介质访问控制](../Page/介质访问控制.md "wikilink")（MAC, Media Access Control），如下所示：
 

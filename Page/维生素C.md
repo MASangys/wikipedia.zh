@@ -456,7 +456,7 @@ Reichstein制造法需要许多有机及无机化学物质和溶剂，例如[丙
 40.
 41.
 42.
-43. [維他命C（抗壞血酸）（ Vitamin C）](http://chia8138.myweb.hinet.net/FA28.htm)
+43.
 44. [維生素C](http://www.dharmazen.org/X1Chinese/D32Health/H203VitC.htm)
 45.
 46.

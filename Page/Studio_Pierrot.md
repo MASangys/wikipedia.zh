@@ -255,7 +255,7 @@
 </tr>
 <tr class="even">
 <td><p>1992年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小小妖怪阿奇、柯奇、索奇" title="wikilink">小小妖怪阿奇、柯奇、索奇</a></p></td>
+<td><p><a href="../Page/小小妖怪阿奇、柯奇、索奇.md" title="wikilink">小小妖怪阿奇、柯奇、索奇</a></p></td>
 <td></td>
 <td><p>繪本</p></td>
 <td></td>
@@ -1665,6 +1665,15 @@
 <td></td>
 <td><p><a href="../Page/8bit.md" title="wikilink">8bit</a></p></td>
 <td><p>小說</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/St.Signpost.md" title="wikilink">St.Signpost</a></p></td>
+<td><p>漫畫</p></td>
 <td></td>
 </tr>
 </tbody>

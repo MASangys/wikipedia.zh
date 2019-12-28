@@ -1,4 +1,4 @@
-**哈里·S·杜鲁门**（，），[美国](../Page/美国.md "wikilink")[民主黨](https://zh.wikipedia.org/wiki/民主黨_\(美國\) "wikilink")[政治家](../Page/政治家.md "wikilink")，第34任[副总统](../Page/美国副总统.md "wikilink")（1945年），隨後接替因病逝世的[富兰克林·罗斯福总统](../Page/富兰克林·德拉诺·罗斯福.md "wikilink")，成为了第33任[美國总统](https://zh.wikipedia.org/wiki/美國总统 "wikilink")（1945年－1953年）。他也是一名[共濟會成員](https://zh.wikipedia.org/wiki/共濟會 "wikilink")。
+**哈里·S·杜鲁门**（，），[美国](../Page/美国.md "wikilink")[民主黨](https://zh.wikipedia.org/wiki/民主黨_\(美國\) "wikilink")[政治家](../Page/政治家.md "wikilink")，第34任[副总统](../Page/美国副总统.md "wikilink")（1945年），隨後接替因病逝世的[富兰克林·罗斯福总统](../Page/富兰克林·德拉诺·罗斯福.md "wikilink")，成为了第33任[美國总统](https://zh.wikipedia.org/wiki/美國总统 "wikilink")（1945年－1953年）。
 
 面對美國國內事務，杜魯門總統正好遇上新一輪混亂的經濟衰退週期，當時物資短缺、有無數罷工事件和有關否決《塔夫脫-哈特利法》的爭議，都是當代的寫照。杜魯門雖於1948年成功連任總統，但卻未能成功掌握國會多數，以致於他的「[良政](https://zh.wikipedia.org/wiki/良政 "wikilink")」計劃幾乎全部流產。然而他曾率先以行政命令在美軍內部施行廢除[種族隔離](https://zh.wikipedia.org/wiki/種族隔離 "wikilink")，並因應形勢主持第二次「[紅色恐慌](https://zh.wikipedia.org/wiki/紅色恐慌 "wikilink")」，從政府部門辭退了數以千計可能影響國政的[共產黨同情者](https://zh.wikipedia.org/wiki/共產黨 "wikilink")。不過，由於受到一連串財政醜聞打擊，有達數百位由他任命的官員必須辭職。
 
@@ -10,7 +10,7 @@
 
 [Harry-S-Truman-82-152.jpg](https://zh.wikipedia.org/wiki/File:Harry-S-Truman-82-152.jpg "fig:Harry-S-Truman-82-152.jpg") 1884年5月8日，杜魯門出生於[密苏里州](../Page/密蘇里州.md "wikilink")[拉马尔](../Page/拉马尔_\(密苏里州\).md "wikilink")，是-{zh-hans:约翰·安德森·杜鲁门; zh-hk:約翰·安德遜·杜魯門;}-（John Anderson Truman）和-{zh-hans:马莎·埃伦·扬·杜鲁门; zh-hk:瑪莎·艾倫·楊·杜魯門;}-（Martha Ellen Young Truman）的長子。杜魯門有一个弟弟和一个妹妹，分別叫-{zh-hans:约翰·维维安·杜鲁门; zh-hk:約翰·衛維恩·杜魯門;}-（John Vivian Truman，1886年－1965年）和-{zh-hans:玛丽·简·杜鲁门; zh-hk:瑪莉·珍·杜魯門;}-（Mary Jane Truman，1889年－1978年）\[3\]。
 
-杜魯門的父親是一位農夫和家畜商販，在杜魯門11個月大的時候，舉家遷到[密蘇里州](../Page/密蘇里州.md "wikilink")[-{zh-hans:格兰德维尤; zh-hk:格蘭威;}-的由杜魯門的祖父母所擁有的農場](https://zh.wikipedia.org/wiki/格兰德维尤_\(密苏里州\) "wikilink")，農場佔地達600英畝（240公頃）。\[4\] 為了方便上學，杜魯門一家在他6歲的時候又遷移到[密蘇里州](../Page/密蘇里州.md "wikilink")[獨立城](https://zh.wikipedia.org/wiki/独立城_\(密苏里州\) "wikilink")。
+杜魯門的父親是一位農夫和家畜商販，在杜魯門11個月大的時候，舉家遷到[密蘇里州](../Page/密蘇里州.md "wikilink")[-{zh-hans:格兰德维尤; zh-hk:格蘭威;}-的由杜魯門的祖父母所擁有的農場](https://zh.wikipedia.org/wiki/格兰德维尤_\(密苏里州\) "wikilink")，農場佔地達600英畝（240公頃）。\[4\] 為了方便上學，杜魯門一家在他6歲的時候又遷移到[密蘇里州](../Page/密蘇里州.md "wikilink")[獨立城](../Page/独立城_\(密苏里州\).md "wikilink")。
 
 ## 早年經歷
 

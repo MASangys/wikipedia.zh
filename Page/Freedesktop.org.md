@@ -12,7 +12,7 @@ freedesktop.org最初的名称叫**X Desktop Group**（X桌面工作组），其
 
 1.  搜集现有的与X桌面互操作性有关的标准、规范和文档，并集中提供；
 2.  推动在众多X桌面中共享的新的标准和规范的开发；
-3.  将桌面相关的标准集成到范围更广泛的标准中，如[LSB和](../Page/Linux标准规范.md "wikilink")；
+3.  将桌面相关的标准集成到范围更广泛的标准中，如[LSB和](../Page/Linux标准规范.md "wikilink")[ICCCM](https://zh.wikipedia.org/wiki/ICCCM "wikilink")；
 4.  致力于为特定X桌面实现这些标准；
 5.  提供共享X桌面技术所需的中立的论坛；
 6.  实现未来X桌面互操作和自由X桌面需要的一般性技术；

@@ -2387,7 +2387,7 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 
 ## 外部連結
 
-  - [AC米兰官方網站](http://www.acmilan.com/)
+  - [AC米兰官方網站](https://www.acmilan.com/)
 
   -
   -

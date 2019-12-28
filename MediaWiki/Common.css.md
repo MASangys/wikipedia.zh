@@ -35,8 +35,7 @@
 `   column-count: 2;`
 `   font-size: 90%;`
 
-} div.references-2column ol.references, div.references-2column
-div.reflist{
+} div.references-2column ol.references, div.references-2column div.reflist{
 
 `   font-size: 100%;`
 
@@ -52,8 +51,7 @@ div.reflist{
 
 }
 
-/\* Avoid list items from breaking between columns \*/ div.columns li,
-div.columns dd dd {
+/\* Avoid list items from breaking between columns \*/ div.columns li, div.columns dd dd {
 
 `   -webkit-column-break-inside: avoid;`
 `   page-break-inside: avoid;`
@@ -61,8 +59,7 @@ div.columns dd dd {
 
 }
 
-/\* Highlight clicked reference in blue to help navigation \*/
-ol.references li:target, sup.reference:target, span.citation:target {
+/\* Highlight clicked reference in blue to help navigation \*/ ol.references li:target, sup.reference:target, span.citation:target {
 
 `   background-color: #DEF;`
 
@@ -78,8 +75,7 @@ ol.references li:target, sup.reference:target, span.citation:target {
 
   - /
 
-.nowrap, .nowraplinks a, .nowraplinks .selflink, span.texhtml,
-sup.reference a {
+.nowrap, .nowraplinks a, .nowraplinks .selflink, span.texhtml, sup.reference a {
 
 `   white-space: nowrap;`
 
@@ -99,16 +95,13 @@ sup.reference a {
 
 }
 
-/\* However if there is a manual nowrap, do not ignore it. \*/
-.nowraplinks .nowrap a:before, .nowraplinks .nowrap .selflink:before {
+/\* However if there is a manual nowrap, do not ignore it. \*/ .nowraplinks .nowrap a:before, .nowraplinks .nowrap .selflink:before {
 
 `   white-space: nowrap;`
 
 }
 
-/\* Style for horizontal lists (separator following item) \*/
-.skin-monobook .hlist dl, .skin-modern .hlist dl, .skin-vector .hlist dl
-{
+/\* Style for horizontal lists (separator following item) \*/ .skin-monobook .hlist dl, .skin-modern .hlist dl, .skin-vector .hlist dl {
 
 `   line-height: 1.5em;`
 
@@ -121,8 +114,7 @@ sup.reference a {
 `   display: inline;`
 `   margin: 0;`
 
-} /\* Display nested lists inline \*/ .hlist dl dl, .hlist ol ol, .hlist
-ul ul {
+} /\* Display nested lists inline \*/ .hlist.inline, .hlist.inline dl, .hlist.inline ol, .hlist.inline ul, .hlist dl dl, .hlist dl ol, .hlist dl ul, .hlist ol dl, .hlist ol ol, .hlist ol ul, .hlist ul dl, .hlist ul ol, .hlist ul ul {
 
 `   display: inline;`
 
@@ -132,21 +124,18 @@ ul ul {
 
 } .hlist dd:after, .hlist li:after {
 
-`   content: " ·";`
+`   content: " · ";`
 `   font-weight: bold;`
 
-} .hlist dd:last-child:after, .hlist dt:last-child:after, .hlist
-li:last-child:after {
+} .hlist dd:last-child:after, .hlist dt:last-child:after, .hlist li:last-child:after {
 
 `   content: none;`
 
-} /\* for IE 8 \*/ .hlist dd.nopunct:after, .hlist dt.nopunct:after,
-.hlist li.nopunct:after {
+} /\* for IE 8 \*/ .hlist dd.nopunct:after, .hlist dt.nopunct:after, .hlist li.nopunct:after {
 
 `   content: none;`
 
-} /\* Add parens around nested lists \*/ .hlist dl dl:before, .hlist ol
-ol:before, .hlist ul ul:before {
+} /\* Add parens around nested lists \*/ .hlist dl dl:before, .hlist ol ol:before, .hlist ul ul:before {
 
 `   content: "(";`
 
@@ -262,8 +251,7 @@ ol:before, .hlist ul ul:before {
 
 }
 
-/\* styles for bordered infobox with merged rows \*/ .infobox.bordered
-.mergedtoprow td, .infobox.bordered .mergedtoprow th {
+/\* styles for bordered infobox with merged rows \*/ .infobox.bordered .mergedtoprow td, .infobox.bordered .mergedtoprow th {
 
 `  border: 0;`
 `  border-top: 1px solid #a2a9b1;`
@@ -278,8 +266,7 @@ ol:before, .hlist ul ul:before {
 
 }
 
-/\* styles for geography infoboxes, e.g. countries, country
-subdivisions, cities, etc. \*/
+/\* styles for geography infoboxes, e.g. countries, country subdivisions, cities, etc. \*/
 
 .infobox.geography {
 
@@ -295,8 +282,7 @@ subdivisions, cities, etc. \*/
 `  border-top: solid 1px #a2a9b1;`
 `  padding: 0.4em 0.6em 0.4em 0.6em;`
 
-} .infobox.geography .mergedtoprow td, .infobox.geography .mergedtoprow
-th {
+} .infobox.geography .mergedtoprow td, .infobox.geography .mergedtoprow th {
 
 `  border-top: solid 1px #a2a9b1;`
 `  padding: 0.4em 0.6em 0.2em 0.6em;`
@@ -310,8 +296,7 @@ th {
 
 }
 
-.infobox.geography .mergedbottomrow td, .infobox.geography
-.mergedbottomrow th {
+.infobox.geography .mergedbottomrow td, .infobox.geography .mergedbottomrow th {
 
 `  border-top: 0;`
 `  border-bottom: solid 1px #a2a9b1;`
@@ -332,9 +317,7 @@ th {
 
 }
 
-/\* class hiddenStructure is defunct. See
-[Wikipedia:hiddenStructure](https://zh.wikipedia.org/wiki/Wikipedia:hiddenStructure "wikilink")
-\*/ .hiddenStructure {
+/\* class hiddenStructure is defunct. See [Wikipedia:hiddenStructure](https://zh.wikipedia.org/wiki/Wikipedia:hiddenStructure "wikilink") \*/ .hiddenStructure {
 
 `   display: inline ! important;`
 `   color: #f00; `
@@ -348,37 +331,11 @@ th {
 
 }
 
-/\* Custom link colors for use in
-[MediaWiki:Edittools](../Page/MediaWiki:Edittools.md "wikilink") \*/
-.charboxblack a:link, .charboxblack a:hover, .charboxblack a:visited,
-.charboxblack a:active { color: black; } .charboxsilver a:link,
-.charboxsilver a:hover, .charboxsilver a:visited, .charboxsilver
-a:active { color: silver; } .charboxgray a:link, .charboxgray a:hover,
-.charboxgray a:visited, .charboxgray a:active { color: gray; }
-.charboxwhite a:link, .charboxwhite a:hover, .charboxwhite a:visited,
-.charboxwhite a:active { color: white; } .charboxmaroon a:link,
-.charboxmaroon a:hover, .charboxmaroon a:visited, .charboxmaroon
-a:active { color: maroon; } .charboxred a:link, .charboxred a:hover,
-.charboxred a:visited, .charboxred a:active { color: red; }
-.charboxpurple a:link, .charboxpurple a:hover, .charboxpurple a:visited,
-.charboxpurple a:active { color: purple; } .charboxfuchsia a:link,
-.charboxfuchsia a:hover, .charboxfuchsia a:visited, .charboxfuchsia
-a:active { color: fuchsia; }
+/\* Custom link colors for use in [MediaWiki:Edittools](https://zh.wikipedia.org/wiki/MediaWiki:Edittools "wikilink") \*/ .charboxblack a:link, .charboxblack a:hover, .charboxblack a:visited, .charboxblack a:active { color: black; } .charboxsilver a:link, .charboxsilver a:hover, .charboxsilver a:visited, .charboxsilver a:active { color: silver; } .charboxgray a:link, .charboxgray a:hover, .charboxgray a:visited, .charboxgray a:active { color: gray; } .charboxwhite a:link, .charboxwhite a:hover, .charboxwhite a:visited, .charboxwhite a:active { color: white; } .charboxmaroon a:link, .charboxmaroon a:hover, .charboxmaroon a:visited, .charboxmaroon a:active { color: maroon; } .charboxred a:link, .charboxred a:hover, .charboxred a:visited, .charboxred a:active { color: red; } .charboxpurple a:link, .charboxpurple a:hover, .charboxpurple a:visited, .charboxpurple a:active { color: purple; } .charboxfuchsia a:link, .charboxfuchsia a:hover, .charboxfuchsia a:visited, .charboxfuchsia a:active { color: fuchsia; }
 
-.charboxgreen a:link, .charboxgreen a:hover, .charboxgreen a:visited,
-.charboxgreen a:active { color: green; } .charboxlime a:link,
-.charboxlime a:hover, .charboxlime a:visited, .charboxlime a:active {
-color: lime; } .charboxolive a:link, .charboxolive a:hover,
-.charboxolive a:visited, .charboxolive a:active { color: olive; }
-.charboxyellow a:link, .charboxyellow a:hover, .charboxyellow a:visited,
-.charboxyellow a:active { color: yellow; }
+.charboxgreen a:link, .charboxgreen a:hover, .charboxgreen a:visited, .charboxgreen a:active { color: green; } .charboxlime a:link, .charboxlime a:hover, .charboxlime a:visited, .charboxlime a:active { color: lime; } .charboxolive a:link, .charboxolive a:hover, .charboxolive a:visited, .charboxolive a:active { color: olive; } .charboxyellow a:link, .charboxyellow a:hover, .charboxyellow a:visited, .charboxyellow a:active { color: yellow; }
 
-.charboxnavy a:link, .charboxnavy a:hover, .charboxnavy a:visited,
-.charboxnavy a:active { color: navy; } .charboxblue a:link, .charboxblue
-a:hover, .charboxblue a:visited, .charboxblue a:active { color: blue; }
-.charboxteal a:link, .charboxteal a:hover, .charboxteal a:visited,
-.charboxteal a:active { color: teal; } .charboxaqua a:link, .charboxaqua
-a:hover, .charboxaqua a:visited, .charboxaqua a:active { color: aqua; }
+.charboxnavy a:link, .charboxnavy a:hover, .charboxnavy a:visited, .charboxnavy a:active { color: navy; } .charboxblue a:link, .charboxblue a:hover, .charboxblue a:visited, .charboxblue a:active { color: blue; } .charboxteal a:link, .charboxteal a:hover, .charboxteal a:visited, .charboxteal a:active { color: teal; } .charboxaqua a:link, .charboxaqua a:hover, .charboxaqua a:visited, .charboxaqua a:active { color: aqua; }
 
 /\*
 
@@ -388,8 +345,7 @@ a:hover, .charboxaqua a:visited, .charboxaqua a:active { color: aqua; }
 
 /\* Class styles \*/
 
-/\* Special characters list below edit window works better without
-underlining \*/
+/\* Special characters list below edit window works better without underlining \*/
 
 1.  editpage-specialchars a { text-decoration: none; }
 2.  editpage-specialchars a:hover { text-decoration: underline; }
@@ -401,20 +357,15 @@ underlining \*/
 
 /\* \#editpage-specialchars { display: none; } \*/
 
-/\* Makes the background of a framed image white instead of gray. \*/
-/\* Only visible with transparent images. \*/ /\* See
-\#Framed_image_background_color \*/ div.thumb div a img {
+/\* Makes the background of a framed image white instead of gray. \*/ /\* Only visible with transparent images. \*/ /\* See \#Framed_image_background_color \*/ div.thumb div a img {
 
 `   background-color:#f8f9fa;`
 
 }
 
-/\* Put a checker background at the image description page only visible
-if the image has transparent background \*/
+/\* Put a checker background at the image description page only visible if the image has transparent background \*/
 
-1.  file img {background:
-    url("//upload.wikimedia.org/wikipedia/commons/5/5d/Checker-16x16.png")
-    repeat;}
+1.  file img {background: url("//upload.wikimedia.org/wikipedia/commons/5/5d/Checker-16x16.png") repeat;}
 
 /\* Hatnotes and disambiguation notices \*/ .hatnote {
 
@@ -445,24 +396,19 @@ div.hatnote {
 
 ## 地理坐标
 
-Geographical coordinates defaults. See
-[Template:Coord/link](../Page/Template:Coord/link.md "wikilink")
+Geographical coordinates defaults. See [Template:Coord/link](https://zh.wikipedia.org/wiki/Template:Coord/link "wikilink")
 
 `  for how these are used. The classes "geo", "longitude", and`
-`  "latitude" are used by the `[`Geo``
- ``microformat`](../Page/Geo_microformat.md "wikilink")`.`
+`  "latitude" are used by the `[`Geo``   ``microformat`](https://zh.wikipedia.org/wiki/Geo_microformat "wikilink")`.`
 `*/`
 
-.geo-default, .geo-dms, .geo-dec { display: inline; } .geo-nondefault,
-.geo-multi-punct { display: none; } .longitude, .latitude { white-space:
-nowrap; }
+.geo-default, .geo-dms, .geo-dec { display: inline; } .geo-nondefault, .geo-multi-punct { display: none; } .longitude, .latitude { white-space: nowrap; }
 
 /\*
 
 ## 未归类
 
-/\* custom edits \*/ /\* Default style for navigation boxes \*/ .navbox
-{ /\* Navbox container style \*/
+/\* custom edits \*/ /\* Default style for navigation boxes \*/ .navbox { /\* Navbox container style \*/
 
 `   border: 1px solid #a2a9b1;`
 `   width: 100%; `
@@ -516,13 +462,11 @@ nowrap; }
 
 `   background: transparent;  /* Odd row striping */`
 
-} table.navbox + table.navbox { /\* Single pixel border between adjacent
-navboxes \*/
+} table.navbox + table.navbox { /\* Single pixel border between adjacent navboxes \*/
 
 `   margin-top: -1px;          /* (doesn't work for IE6, but that's okay)       */`
 
-} .navbox .hlist td dl, .navbox .hlist td ol, .navbox .hlist td ul,
-.navbox td.hlist dl, .navbox td.hlist ol, .navbox td.hlist ul {
+} .navbox .hlist td dl, .navbox .hlist td ol, .navbox .hlist td ul, .navbox td.hlist dl, .navbox td.hlist ol, .navbox td.hlist ul {
 
 `   padding: 0.125em 0;       /* Adjust hlist padding in navboxes */`
 
@@ -531,8 +475,7 @@ navboxes \*/
 `   white-space: nowrap;      /* Nowrap list items in navboxes */`
 `   white-space: normal !ie;  /* IE < 8 no-wraps entire list, so disable it */`
 
-} .navbox .hlist dd dl, .navbox .hlist dt dl, .navbox .hlist li ol,
-.navbox .hlist li ul {
+} .navbox .hlist dd dl, .navbox .hlist dt dl, .navbox .hlist li ol, .navbox .hlist li ul {
 
 `   white-space: normal;      /* But allow parent list items to be wrapped */`
 
@@ -579,10 +522,9 @@ navboxes \*/
 
 }
 
-/\* 'show'/'hide' buttons created dynamically by the CollapsibleTables
-javascript
+/\* 'show'/'hide' buttons created dynamically by the CollapsibleTables javascript
 
-`  in `[`MediaWiki:Common.js`](../Page/MediaWiki:Common.js.md "wikilink")` are styled here so they can be customised. */`
+`  in `[`MediaWiki:Common.js`](../MediaWiki/Common.js.md "wikilink")` are styled here so they can be customised. */`
 
 .collapseButton {
 
@@ -597,7 +539,7 @@ javascript
 
 } /\* In navboxes, the show/hide button balances the v·d·e links
 
-`  from `[`Template:Navbar`](../Page/Template:Navbar.md "wikilink")`, so they need to be the same width. */`
+`  from `[`Template:Navbar`](https://zh.wikipedia.org/wiki/Template:Navbar "wikilink")`, so they need to be the same width. */`
 
 .navbox .collapseButton {
 
@@ -605,16 +547,15 @@ javascript
 
 }
 
-/\* For display uneditable section \*/ .noedit .editsection, .noedit
-.mw-editsection {
+/\* For display uneditable section \*/ .noedit .editsection, .noedit .mw-editsection {
 
 `   display: none;`
 
 }
 
-.nosecnum .mw-headline-number {
+.DYKvote h2, .DYKvote h3, .DYKvote h4 {
 
-`   display: none;`
+`   margin-top: 2em;`
 
 } /\*
 
@@ -631,6 +572,7 @@ Messagebox templates
 `  width: 80%;`
 `  margin: 0 auto 1em auto;`
 `  padding: .2em;`
+`  display: inherit; /* 臨時抑制 `<https://phabricator.wikimedia.org/T232553>` 及 `<https://gerrit.wikimedia.org/r/535738>` 的修改 */`
 
 } .messagebox.merge {
 
@@ -744,9 +686,7 @@ tt span.minor {
 
 }
 
-/\* For linked citation numbers and document IDs, where the number need
-not be shown on a screen or a handheld, but should be included in the
-printed version \*/
+/\* For linked citation numbers and document IDs, where the number need not be shown on a screen or a handheld, but should be included in the printed version \*/
 
 @media screen, handheld, projection {
 
@@ -762,8 +702,7 @@ printed version \*/
 
   - /
 
-/\* Nou esquema de colors per a la Plantilla:Metacaixa usada a la
-portada \*/
+/\* Nou esquema de colors per a la Plantilla:Metacaixa usada a la portada \*/
 
 /\* Configuració per defecte en lila
 
@@ -840,8 +779,7 @@ portada \*/
 
 }
 
-/\* Configuració del Verd 1;60b030 2;75c045 3;90d060 4;a5e085 5;c0f090
-\*/
+/\* Configuració del Verd 1;60b030 2;75c045 3;90d060 4;a5e085 5;c0f090 \*/
 
 .mcVerd .mcBoto {
 
@@ -873,8 +811,7 @@ portada \*/
 ` background-color: #f5fffa;`
 ` border-color: #60b030 #90d060 #90d060 #60b030; /* 1 3 3 1 */}`
 
-/\* Configuració del Vermell 1;CC0000 2;FF0000 3;FF8888 4;FFAAAA
-5;FFCCCC \*/
+/\* Configuració del Vermell 1;CC0000 2;FF0000 3;FF8888 4;FFAAAA 5;FFCCCC \*/
 
 .mcVermell .mcBoto {
 
@@ -906,8 +843,7 @@ portada \*/
 ` background-color: #fffafa;`
 ` border-color: #CC0000 #FF0000 #FF0000 #CC0000; /* 1 3 3 1 */}`
 
-/\* Configuració del Blau 1;3379de 2;5b8dd6 3;88abde 4;a7c1e6 5;c8d6e9
-\*/
+/\* Configuració del Blau 1;3379de 2;5b8dd6 3;88abde 4;a7c1e6 5;c8d6e9 \*/
 
 .mcBlau .mcBoto {
 
@@ -940,8 +876,7 @@ portada \*/
 ` border-color: #3379de #88abde #88abde #3379de; /* 1 3 3 1 */}`
 
 
-/\* Configuració del Groc 1;ffd813 2;ffe147 3;ffe977 4;fff1a4 5;fef4bc
-\*/
+/\* Configuració del Groc 1;ffd813 2;ffe147 3;ffe977 4;fff1a4 5;fef4bc \*/
 
 .mcGroc .mcBoto {
 
@@ -973,8 +908,7 @@ portada \*/
 ` background-color: #fffce8;`
 ` border-color: #ffd813 #88abde #88abde #ffd813; /* 1 3 3 1 */}`
 
-/\* Configuració del Taronja 1;ff820e 2;ff9d42 3;ffac5d 4;ffbd7f
-5;ffd0a4 6;ffeedd \*/
+/\* Configuració del Taronja 1;ff820e 2;ff9d42 3;ffac5d 4;ffbd7f 5;ffd0a4 6;ffeedd \*/
 
 .mcTaronja .mcBoto {
 
@@ -1015,8 +949,7 @@ portada \*/
   -   - Styles for mboxes\*\*
           -   - /
 
-/\* Cell sizes for ambox/tmbox/imbox/cmbox/ombox/fmbox/dmbox message
-boxes \*/ th.mbox-text, td.mbox-text { /\* The message body cell(s) \*/
+/\* Cell sizes for ambox/tmbox/imbox/cmbox/ombox/fmbox/dmbox message boxes \*/ th.mbox-text, td.mbox-text { /\* The message body cell(s) \*/
 
 `   border: none; `
 `   padding: 0.25em 0.9em;       /* 0.9em left/right */`
@@ -1049,13 +982,11 @@ boxes \*/ th.mbox-text, td.mbox-text { /\* The message body cell(s) \*/
 `   border-left: 10px solid #36c;    /* Default "notice" blue */`
 `   background: #f8f9fa; `
 
-} table.ambox + table.ambox { /\* Single border between stacked boxes.
-\*/
+} table.ambox + table.ambox { /\* Single border between stacked boxes. \*/
 
 `   margin-top: -1px;`
 
-} .ambox th.mbox-text, .ambox td.mbox-text { /\* The message body
-cell(s) \*/
+} .ambox th.mbox-text, .ambox td.mbox-text { /\* The message body cell(s) \*/
 
 `   padding: 0.25em 0.5em;       /* 0.5em left/right */`
 
@@ -1107,8 +1038,7 @@ table.ambox-notice {
 `   border: 3px solid #36c;    /* Default "notice" blue */`
 `   background: #f8f9fa;`
 
-} .imbox .mbox-text .imbox { /\* For imboxes inside imbox-text cells.
-\*/
+} .imbox .mbox-text .imbox { /\* For imboxes inside imbox-text cells. \*/
 
 `   margin: 0 -0.5em;    /* 0.9 - 0.5 = 0.4em left/right. */`
 
@@ -1247,14 +1177,12 @@ table.ombox-notice {
 `   border: 1px solid #c0c090;    /* Default "notice" gray-brown */`
 `   background: #f8eaba;`
 
-} .mediawiki .mbox-inside .tmbox { /\* For tmboxes inside other
-templates. The "mediawiki" \*/
+} .mediawiki .mbox-inside .tmbox { /\* For tmboxes inside other templates. The "mediawiki" \*/
 
 `   margin: 2px 0;               /* class ensures that this declaration overrides other */`
 `   width: 100%;  /* For Safari and Opera */     /* styles (including mbox-small above) */`
 
-} .mbox-inside .tmbox.mbox-small { /\* "small" tmboxes should not be
-small when \*/
+} .mbox-inside .tmbox.mbox-small { /\* "small" tmboxes should not be small when \*/
 
 `   line-height: 1.5em;          /* also "nested", so reset styles that are   */   `
 `   font-size: 100%;             /* set in "mbox-small" above.                */`
@@ -1320,9 +1248,7 @@ table.tmbox-speedy {
 
 `   background: transparent;`
 
-} /\* Div based "warning" style fmbox messages. \*/
-div.mw-warning-with-logexcerpt, div.mw-lag-warn-high,
-div.mw-cascadeprotectedwarning, div\#mw-protect-cascadeon {
+} /\* Div based "warning" style fmbox messages. \*/ div.mw-warning-with-logexcerpt, div.mw-lag-warn-high, div.mw-cascadeprotectedwarning, div\#mw-protect-cascadeon {
 
 `   clear: both;`
 `   margin: 0.2em 0;`
@@ -1332,7 +1258,7 @@ div.mw-cascadeprotectedwarning, div\#mw-protect-cascadeon {
 
 } /\* Div based "system" style fmbox messages. Used in
 
-`  `[`MediaWiki:Noarticletext`](../Page/MediaWiki:Noarticletext.md "wikilink")`. */`
+`  `[`MediaWiki:Noarticletext`](../MediaWiki/Noarticletext.md "wikilink")`. */`
 
 div.noarticletext, div.fmbox-system {
 
@@ -1358,8 +1284,7 @@ body.mediawiki table.mbox-small { /\* For the "small=yes" option. \*/
 `   font-size: 88%;`
 `   line-height: 1.25em;`
 
-} body.mediawiki table.mbox-small-left { /\* For the "small=left"
-option. \*/
+} body.mediawiki table.mbox-small-left { /\* For the "small=left" option. \*/
 
 `   margin: 4px 1em 4px 0;`
 `   width: 238px;`
@@ -1371,8 +1296,7 @@ option. \*/
 
 /\* CODE FOR COMPACT AMBOX \*/
 
-/\* Remove borders, backgrounds, padding, etc. \*/ .compact-ambox
-table.ambox {
+/\* Remove borders, backgrounds, padding, etc. \*/ .compact-ambox table.ambox {
 
 `   border: none;`
 `   border-collapse: collapse;`
@@ -1388,8 +1312,7 @@ table.ambox {
 `   width: auto;`
 `   margin: 0;`
 
-} /\* Style the text cell as a list item and remove its padding \*/
-.compact-ambox table .mbox-text {
+} /\* Style the text cell as a list item and remove its padding \*/ .compact-ambox table .mbox-text {
 
 `   padding: 0 !important;`
 `   margin: 0 !important;`
@@ -1401,9 +1324,7 @@ table.ambox {
 `   list-style-type: square;`
 `   list-style-image: url("`<data:image/gif;base64,R0lGODlhBQANAIAAAGOMnP///yH5BAEAAAEALAAAAAAFAA0AAAIJjI+pu+APo4SpADs=>`");`
 
-} /\* Style for compact ambox \*/ /\* Hide the images \*/ .compact-ambox
-table .mbox-image, .compact-ambox table .mbox-imageright, .compact-ambox
-table .mbox-empty-cell {
+} /\* Style for compact ambox \*/ /\* Hide the images \*/ .compact-ambox table .mbox-image, .compact-ambox table .mbox-imageright, .compact-ambox table .mbox-empty-cell {
 
 `   display: none;`
 
@@ -1439,9 +1360,7 @@ table .mbox-empty-cell {
 `  there shouldn't be according to the MoS).`
 `*/`
 
-.toclimit-2 .toclevel-2, .toclimit-3 .toclevel-3, .toclimit-4
-.toclevel-4, .toclimit-5 .toclevel-5, .toclimit-6 .toclevel-6,
-.toclimit-7 .toclevel-7 { display: none; }
+.toclimit-2 .toclevel-2, .toclimit-3 .toclevel-3, .toclimit-4 .toclevel-4, .toclimit-5 .toclevel-5, .toclimit-6 .toclevel-6, .toclimit-7 .toclevel-7 { display: none; }
 
 /\* 解决cite定位内文字显示为斜体的问题 \*/ cite {
 
@@ -1460,9 +1379,7 @@ table .mbox-empty-cell {
 
 }
 
-/\* [Phabricator:T37337](../Page/Phabricator:T37337.md "wikilink"),
-improve resolution of logo on high-resolution screens. \*/ @media
-(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx) {
+/\* [Phabricator:T37337](https://zh.wikipedia.org/wiki/Phabricator:T37337 "wikilink"), improve resolution of logo on high-resolution screens. \*/ @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 1.5dppx) {
 
 `   #p-logo a:lang(zh-hans),`
 `   #p-logo a:lang(zh-cn),`
@@ -1497,25 +1414,21 @@ improve resolution of logo on high-resolution screens. \*/ @media
 
 }
 
-/\*
-<http://zh.wikipedia.org/w/index.php?oldid=18291698#.E7.BB.B4.E5.9F.BA.E8.8D.A3.E8.AA.89.E5.A5.96.E5.8A.B1.E6.A8.A1.E6.9D.BF.E5.87.BA.E4.BA.86.E5.A4.A7.E9.97.AE.E9.A2.98>
-\*/ .ns-14 .mw-content-ltr \> div\[dir=ltr\] {
+/\* <http://zh.wikipedia.org/w/index.php?oldid=18291698#.E7.BB.B4.E5.9F.BA.E8.8D.A3.E8.AA.89.E5.A5.96.E5.8A.B1.E6.A8.A1.E6.9D.BF.E5.87.BA.E4.BA.86.E5.A4.A7.E9.97.AE.E9.A2.98> \*/ .ns-14 .mw-content-ltr \> div\[dir=ltr\] {
 
 `   clear: both;`
 
 }
 
-/\* [template:fact的文字背景色设置](../Page/template:fact.md "wikilink") \*/
-.template-facttext{
+/\* [template:fact的文字背景色设置](https://zh.wikipedia.org/wiki/template:fact "wikilink") \*/ .template-facttext{
 
 `   background-color: #eaecf0; margin: -.3em 0; padding: .3em 0;`
 
 }
 
-/\* Hide stuff meant for accounts with special permissions. Made visible
-again in
+/\* Hide stuff meant for accounts with special permissions. Made visible again in
 
-`  `[`MediaWiki:Group-sysop.css`](../Page/MediaWiki:Group-sysop.css.md "wikilink")` and `[`MediaWiki:Group-accountcreator.css`](../Page/MediaWiki:Group-accountcreator.css.md "wikilink")`. */`
+`  `[`MediaWiki:Group-sysop.css`](https://zh.wikipedia.org/wiki/MediaWiki:Group-sysop.css "wikilink")` and `[`MediaWiki:Group-accountcreator.css`](https://zh.wikipedia.org/wiki/MediaWiki:Group-accountcreator.css "wikilink")`. */`
 
 .sysop-show, .accountcreator-show {
 
@@ -1578,20 +1491,13 @@ again in
 
 }
 
-/\* 存废讨论旧样式 \*/ body.ns-4.action-view\[class\*="
-page-Wikipedia_頁面存廢討論_"\] h2,
-body.ns-4.action-view\[class\*=" page-Wikipedia_檔案存廢討論_"\] h2,
-body.ns-4.action-submit\[class\*=" page-Wikipedia_頁面存廢討論_"\] h2,
-body.ns-4.action-submit\[class\*=" page-Wikipedia_檔案存廢討論_"\] h2 {
+/\* 存废讨论旧样式 \*/ body.ns-4.action-view\[class\*=" page-Wikipedia_頁面存廢討論_"\] .mw-parser-output h2, body.ns-4.action-view\[class\*=" page-Wikipedia_檔案存廢討論_"\] .mw-parser-output h2, body.ns-4.action-submit\[class\*=" page-Wikipedia_頁面存廢討論_"\] .mw-parser-output h2, body.ns-4.action-submit\[class\*=" page-Wikipedia_檔案存廢討論_"\] .mw-parser-output h2 {
 
 `   border-bottom: none;`
 `   font-size: 132%;`
 `   margin-bottom: .3em;`
 
-} body.ns-4.action-view\[class\*=" page-Wikipedia_頁面存廢討論_"\] h3,
-body.ns-4.action-view\[class\*=" page-Wikipedia_檔案存廢討論_"\] h3,
-body.ns-4.action-submit\[class\*=" page-Wikipedia_頁面存廢討論_"\] h3,
-body.ns-4.action-submit\[class\*=" page-Wikipedia_檔案存廢討論_"\] h3 {
+} body.ns-4.action-view\[class\*=" page-Wikipedia_頁面存廢討論_"\] .mw-parser-output h3, body.ns-4.action-view\[class\*=" page-Wikipedia_檔案存廢討論_"\] .mw-parser-output h3, body.ns-4.action-submit\[class\*=" page-Wikipedia_頁面存廢討論_"\] .mw-parser-output h3, body.ns-4.action-submit\[class\*=" page-Wikipedia_檔案存廢討論_"\] .mw-parser-output h3 {
 
 `   font-size: 116%;`
 `   margin-bottom: .3em;`
@@ -1679,5 +1585,20 @@ body.ns-4.action-submit\[class\*=" page-Wikipedia_檔案存廢討論_"\] h3 {
 1.  interwiki-completelist {
 
 `   font-weight: bold;`
+
+}
+
+/\* MediaWiki:Tag-jimmy-bot-non-free \*/ .tag-jimmy-bot-non-free {
+
+`   color: red;`
+`   font-size: 1.143em;`
+
+}
+
+/\* Normal font styling for wikitable row headers with scope="row" tag \*/ .wikitable.plainrowheaders th\[scope=row\] {
+
+`   font-weight: normal;`
+`   /* @noflip */`
+`   text-align: left;`
 
 }

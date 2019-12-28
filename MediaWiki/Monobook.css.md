@@ -2,12 +2,7 @@
 
 管理员注意！任何对Monobook.css的改变必须先在技术客栈讨论，谢谢。 \*/
 
-/\* Don't display some stuff on the main page \*/
-body.ns-4.page-Wikipedia_首页 \#deleteconfirm,
-body.ns-4.page-Wikipedia_首页 \#t-cite, body.ns-4.page-Wikipedia_首页
-\#lastmod, body.ns-4.page-Wikipedia_首页 \#siteSub,
-body.ns-4.page-Wikipedia_首页 \#contentSub, body.ns-4.page-Wikipedia_首页
-h1.firstHeading {
+/\* Don't display some stuff on the main page \*/ body.ns-4.page-Wikipedia_首页 \#deleteconfirm, body.ns-4.page-Wikipedia_首页 \#t-cite, body.ns-4.page-Wikipedia_首页 \#lastmod, body.ns-4.page-Wikipedia_首页 \#siteSub, body.ns-4.page-Wikipedia_首页 \#contentSub, body.ns-4.page-Wikipedia_首页 h1.firstHeading {
 
 `   display: none !important;`
 
@@ -53,9 +48,7 @@ body.ns-4.page-Wikipedia_首页 \#bodyContent{
 `  enclosed in a .ns-0 (main namespace). We do the same for the "tab" `
 `  backgrounds and some other objects. */`
 
-div\#content, div\#p-cactions li a:hover, div\#p-cactions li.selected a,
-div\#content div.thumb { /\* "Margin" for thumbs, padding for galleries
-\*/
+div\#content, div\#p-cactions li a:hover, div\#p-cactions li.selected a, div\#content div.thumb { /\* "Margin" for thumbs, padding for galleries \*/
 
 `   background-color: #F8FCFF;   /* Light blue */`
 
@@ -65,16 +58,11 @@ div\#content div.thumb { /\* "Margin" for thumbs, padding for galleries
 
 }
 
-.ns-0 div\#content, .ns-0 div\#p-cactions li a:hover, .ns-0
-div\#p-cactions li.selected a, .ns-0 div\#content div.thumb,
-.ns-4.page-Wikipedia_首页 div\#content, .ns-4.page-Wikipedia_首页
-div\#p-cactions li a:hover, .ns-4.page-Wikipedia_首页 div\#p-cactions
-li.selected a, .ns-4.page-Wikipedia_首页 div\#content div.thumb {
+.ns-0 div\#content, .ns-0 div\#p-cactions li a:hover, .ns-0 div\#p-cactions li.selected a, .ns-0 div\#content div.thumb, .ns-4.page-Wikipedia_首页 div\#content, .ns-4.page-Wikipedia_首页 div\#p-cactions li a:hover, .ns-4.page-Wikipedia_首页 div\#p-cactions li.selected a, .ns-4.page-Wikipedia_首页 div\#content div.thumb {
 
 `   background-color: white;     /* Set back to white for articles */`
 
-} .ns-0 div\#p-cactions li a, .ns-4.page-Wikipedia_首页 div\#p-cactions
-li a {
+} .ns-0 div\#p-cactions li a, .ns-4.page-Wikipedia_首页 div\#p-cactions li a {
 
 `   background-color: #FBFBFB;   /* Light gray inactive tabs in articles */`
 
@@ -110,7 +98,7 @@ table.diff, td.diff-otitle, td.diff-ntitle {
 
 /\* Display "User $1, you are already logged in\!"
 
-`  (`[`MediaWiki:Alreadyloggedin`](../Page/MediaWiki:Alreadyloggedin.md "wikilink")`) in red and bold */`
+`  (`[`MediaWiki:Alreadyloggedin`](https://zh.wikipedia.org/wiki/MediaWiki:Alreadyloggedin "wikilink")`) in red and bold */`
 
 div.alreadyloggedin { color: red; font-weight: bold; }
 

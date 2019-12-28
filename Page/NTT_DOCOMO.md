@@ -45,7 +45,7 @@ NTT DOCOMO的起源可追溯至1968年（昭和43年）7月1日日本電信電�
   - 1997年（平成9年）
       - 2月24日 - 行動電話、汽車電話用戶**突破1000萬**。
       - 3月28日 - 開始封包交換服務「DoPa」。
-      - 6月1日 - 開始[SMS](https://zh.wikipedia.org/wiki/SMS "wikilink")「短信」服務。
+      - 6月1日 - 開始[SMS](https://zh.wikipedia.org/wiki/短信 "wikilink")「短信」服務。
       - 12月26日 - 停止類比服務的新用戶申請。
   - 1998年（平成10年）
       - 3月26日 - 神奈川縣[橫須賀市](../Page/橫須賀市.md "wikilink")（YRP）的「NTT DoCoMo R\&D Center」完成。
@@ -460,7 +460,7 @@ DOCOMO Shop是專門進行DOCOMO手機相關業務的銷售代理店。第一家
 ### 施工問題
 
   - 2005年6月 - 在未提出必要的文件的情況下就在大阪府[池田市](../Page/池田市.md "wikilink")進行施工，破壞了[古江古墳](https://zh.wikipedia.org/wiki/古江古墳 "wikilink")\[29\]。
-  - 2006年6月 - 被發現其在[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[嵐山於](https://zh.wikipedia.org/wiki/嵐山 "wikilink")1999年設置的鐵塔並未遵守[文化財保護法在事前提出文件](https://zh.wikipedia.org/wiki/文化財保護法 "wikilink")\[30\]。
+  - 2006年6月 - 被發現其在[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[嵐山於](../Page/嵐山_\(京都市\).md "wikilink")1999年設置的鐵塔並未遵守[文化財保護法在事前提出文件](https://zh.wikipedia.org/wiki/文化財保護法 "wikilink")\[30\]。
   - 2008年6月 - 被發現於2006年，未獲得許可就在[雲仙天草國立公園](../Page/雲仙天草國立公園.md "wikilink")內的鹿兒島縣[出水郡](../Page/出水郡.md "wikilink")長島町平尾地区設置基地局\[31\]\[32\]。被發現問題的基地局在之後均被拆除或搬遷。
 
 ### 重大事故

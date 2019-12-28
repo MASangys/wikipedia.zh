@@ -12,7 +12,7 @@ NBA前身是1946年成立的**全美籃球協會**（簡稱**BAA**）\[1\]，194
 
 ### 非白人球員
 
-在成立初期，NBA的球員和教練全部由白人组成。[1947年](https://zh.wikipedia.org/wiki/1947年NBA選秀 "wikilink")，美籍日裔的[三阪亙被](https://zh.wikipedia.org/wiki/三阪亙 "wikilink")[紐約尼克首輪選中](https://zh.wikipedia.org/wiki/紐約尼克 "wikilink")，成為了NBA歷史上首位非白人球員，同時他也是第一个加盟NBA的亞裔球員\[3\]。不過[三阪亙在](https://zh.wikipedia.org/wiki/三阪亙 "wikilink")[1947-48赛季僅僅為纽约尼克斯出場三次貢獻了七分後就被裁掉了](https://zh.wikipedia.org/wiki/1947-48_NBA赛季 "wikilink")。[1950年](https://zh.wikipedia.org/wiki/1950年NBA選秀 "wikilink")，[波士顿凯尔特人](../Page/波士顿凯尔特人.md "wikilink")在第二輪選中了来自[杜肯大学](../Page/杜肯大学.md "wikilink")的黑人球員[查克·庫珀](https://zh.wikipedia.org/wiki/查克·庫珀 "wikilink")（Charles Cooper），这是NBA歷史上第一位入選的黑人\[4\]，同年一起被選中的还有“糖水”[納特·克利福頓](https://zh.wikipedia.org/wiki/納特·克利福頓 "wikilink")（Nat Clifton，紐約尼克隊）和[厄爾·勞埃德](https://zh.wikipedia.org/wiki/厄爾·勞埃德 "wikilink")（Earl Lloyd，[華盛頓首都隊](https://zh.wikipedia.org/wiki/華盛頓奇才 "wikilink")），克利福頓在三人当中最先獲得了球隊合同\[5\]。[1950年](../Page/1950-51_NBA赛季.md "wikilink")10月31日，勞埃德在華盛顿首都隊與[罗徹斯特皇家队的比赛中登場](https://zh.wikipedia.org/wiki/罗徹斯特皇家队 "wikilink")，黑人球员首次踏上了NBA赛场\[6\]。儘管當時美國的種族歧視仍然相當嚴重，不過随着[比爾·羅素](https://zh.wikipedia.org/wiki/比爾·羅素 "wikilink")（Bill Russell）、[威爾特·張伯倫](https://zh.wikipedia.org/wiki/威爾特·張伯倫 "wikilink")（Wilt Chamberlain）等人在球场上不斷創造佳績，黑人球员逐漸被球迷们接受並成為了NBA的主角。進入90年代后，黑人球員在數量上開始超越白人球员。[2006-07赛季](../Page/2006-07_NBA赛季.md "wikilink")，黑人球員占NBA所有球员的比率已经達到75%，黑人主教练亦占NBA所有主教練的40%\[7\]。
+在成立初期，NBA的球員和教練全部由白人组成。[1947年](https://zh.wikipedia.org/wiki/1947年NBA選秀 "wikilink")，美籍日裔的[三阪亙](../Page/三阪亙.md "wikilink")被[紐約尼克首輪選中](https://zh.wikipedia.org/wiki/紐約尼克 "wikilink")，成為了NBA歷史上首位非白人球員，同時他也是第一个加盟NBA的亞裔球員\[3\]。不過[三阪亙](../Page/三阪亙.md "wikilink")在[1947-48赛季僅僅為纽约尼克斯出場三次貢獻了七分後就被裁掉了](https://zh.wikipedia.org/wiki/1947-48_NBA赛季 "wikilink")。[1950年](https://zh.wikipedia.org/wiki/1950年NBA選秀 "wikilink")，[波士顿凯尔特人](../Page/波士顿凯尔特人.md "wikilink")在第二輪選中了来自[杜肯大学](../Page/杜肯大学.md "wikilink")的黑人球員[查克·庫珀](https://zh.wikipedia.org/wiki/查克·庫珀 "wikilink")（Charles Cooper），这是NBA歷史上第一位入選的黑人\[4\]，同年一起被選中的还有“糖水”[納特·克利福頓](https://zh.wikipedia.org/wiki/納特·克利福頓 "wikilink")（Nat Clifton，紐約尼克隊）和[厄爾·勞埃德](https://zh.wikipedia.org/wiki/厄爾·勞埃德 "wikilink")（Earl Lloyd，[華盛頓首都隊](https://zh.wikipedia.org/wiki/華盛頓奇才 "wikilink")），克利福頓在三人当中最先獲得了球隊合同\[5\]。[1950年](../Page/1950-51_NBA赛季.md "wikilink")10月31日，勞埃德在華盛顿首都隊與[罗徹斯特皇家队的比赛中登場](https://zh.wikipedia.org/wiki/罗徹斯特皇家队 "wikilink")，黑人球员首次踏上了NBA赛场\[6\]。儘管當時美國的種族歧視仍然相當嚴重，不過随着[比爾·羅素](https://zh.wikipedia.org/wiki/比爾·羅素 "wikilink")（Bill Russell）、[威爾特·張伯倫](https://zh.wikipedia.org/wiki/威爾特·張伯倫 "wikilink")（Wilt Chamberlain）等人在球场上不斷創造佳績，黑人球员逐漸被球迷们接受並成為了NBA的主角。進入90年代后，黑人球員在數量上開始超越白人球员。[2006-07赛季](../Page/2006-07_NBA赛季.md "wikilink")，黑人球員占NBA所有球员的比率已经達到75%，黑人主教练亦占NBA所有主教練的40%\[7\]。
 
 1966年，比爾·羅素成為NBA首位黑人主教練，他作为球員兼教練帶領波士顿凯尔特人獲得了1968和1969年度的[總冠軍](https://zh.wikipedia.org/wiki/NBA總冠軍 "wikilink")；而NBA亦成為了第一个擁有黑人主教練的職業體育联盟。NBA的首个黑人總經理和球隊老板分别出现在1972年和2002年。
 
@@ -578,7 +578,7 @@ AT&amp;T Center[31]</p></td>
 
 ## 劳资关系
 
-NBA球员工会称作**国家篮球球员协会**（**[NBPA](../Page/美國國家籃球協會球員工會.md "wikilink")**），由前[波士顿凯尔特人](../Page/波士顿凯尔特人.md "wikilink")球星[鲍勃·库锡](../Page/鲍勃·库锡.md "wikilink")于1954年建立\[36\]，负责代表球员与球队老板进行谈判，并维护球员们的利益。工会执行主管是，工会现任主席是来自[俄克拉馬雷霆的](https://zh.wikipedia.org/wiki/俄克拉馬雷霆 "wikilink")[克里斯·保罗](https://zh.wikipedia.org/wiki/克里斯·保罗 "wikilink")。劳资协议（Collective Bargaining Agreement，简称**[CBA](https://zh.wikipedia.org/wiki/NBA劳资协议 "wikilink")**）是NBPA和NBA达成的一个合约，是所有球员合同的基础。
+NBA球员工会称作**国家篮球球员协会**（**[NBPA](../Page/美國國家籃球協會球員工會.md "wikilink")**），由前[波士顿凯尔特人](../Page/波士顿凯尔特人.md "wikilink")球星[鲍勃·库锡](../Page/鲍勃·库锡.md "wikilink")于1954年建立\[36\]，负责代表球员与球队老板进行谈判，并维护球员们的利益。工会执行主管是，工会现任主席是来自[俄克拉馬雷霆的](https://zh.wikipedia.org/wiki/俄克拉馬雷霆 "wikilink")[克里斯·保罗](../Page/克里斯·保罗.md "wikilink")。劳资协议（Collective Bargaining Agreement，简称**[CBA](https://zh.wikipedia.org/wiki/NBA劳资协议 "wikilink")**）是NBPA和NBA达成的一个合约，是所有球员合同的基础。
 
 [1998年](https://zh.wikipedia.org/wiki/1998年体育 "wikilink")，由于NBPA拒绝NBA提出的将球员工资由占**[BRI](https://zh.wikipedia.org/wiki/BRI "wikilink")**的57%降到48%和设立硬[工资帽的提议](https://zh.wikipedia.org/wiki/工资帽 "wikilink")，NBA从7月1日起关闭球馆并停止一切商业活动，直到第二年的1月20日双方达成协议签订了新的CBA。这次长达7个月191天的停摆是NBA历史上最长的一次停止运作，[1998-99赛季常规赛最终被压缩到](https://zh.wikipedia.org/wiki/1998-99_NBA赛季 "wikilink")50场，同时[全明星周末亦停办](../Page/NBA全明星周末.md "wikilink")；球员损失工资达到四亿美元，而球队及NBA联盟损失接近十亿美元\[37\]。
 
@@ -744,7 +744,7 @@ NBA很多球队都拥有自己的[吉祥物](https://zh.wikipedia.org/wiki/吉�
 
 ## 争议
 
-2019年10月5日，美国NBA[休斯顿火箭队总经理](https://zh.wikipedia.org/wiki/休斯顿火箭队 "wikilink")[达雷尔·莫雷在推特发文支持香港示威人士](https://zh.wikipedia.org/wiki/达雷尔·莫雷 "wikilink")。[中央電視台體育頻道於](https://zh.wikipedia.org/wiki/中央電視台體育頻道 "wikilink")10月6日率先發表聲明，指由於莫雷散布「涉港不當言論」，即日起暫停涉及火箭隊的賽事轉播等一切合作交流事宜。[中国篮球协会](../Page/中国篮球协会.md "wikilink")隨後也發表了同樣的聲明\[56\]，表示将暂停与NBA休斯顿火箭队俱乐部的交流合作事宜，腾讯体育、浦发银行等陆续宣布暂停或中止与休斯顿火箭队相关合作。\[57\]火箭隊球星[哈登為此向中國球迷致歉](https://zh.wikipedia.org/wiki/哈登 "wikilink")\[58\]，与此同时，火箭队相关周边产品也从中国大陆各电商平台下架，“火箭队”在这些电商平台也相应地成为敏感词汇。\[59\]并且绝大多数与NBA相关的[电子游戏](../Page/电子游戏.md "wikilink")在该事件之后也遭到了中国大陆玩家的差评与抵制。
+2019年10月5日，美国NBA[休斯顿火箭队总经理](https://zh.wikipedia.org/wiki/休斯顿火箭队 "wikilink")[达雷尔·莫雷](../Page/达雷尔·莫雷.md "wikilink")在推特发文支持香港示威人士。[中央電視台體育頻道於](https://zh.wikipedia.org/wiki/中央電視台體育頻道 "wikilink")10月6日率先發表聲明，指由於莫雷散布「涉港不當言論」，即日起暫停涉及火箭隊的賽事轉播等一切合作交流事宜。[中国篮球协会](../Page/中国篮球协会.md "wikilink")隨後也發表了同樣的聲明\[56\]，表示将暂停与NBA休斯顿火箭队俱乐部的交流合作事宜，腾讯体育、浦发银行等陆续宣布暂停或中止与休斯顿火箭队相关合作。\[57\]火箭隊球星[哈登為此向中國球迷致歉](https://zh.wikipedia.org/wiki/哈登 "wikilink")\[58\]，与此同时，火箭队相关周边产品也从中国大陆各电商平台下架，“火箭队”在这些电商平台也相应地成为敏感词汇。\[59\]并且绝大多数与NBA相关的[电子游戏](../Page/电子游戏.md "wikilink")在该事件之后也遭到了中国大陆玩家的差评与抵制。
 
 ## 参考文献
 
@@ -817,7 +817,7 @@ NBA很多球队都拥有自己的[吉祥物](https://zh.wikipedia.org/wiki/吉�
 43.
 44.
 45. [NBA Player Dress Code](http://www.nba.com/news/player_dress_code_051017.html) --NBA.com
-46. <http://www.nba.com/analysis/rules_3.html?nav=ArticleList--NBA.com>
+46.
 47. [NBA选秀规则](http://sports.sina.com.cn/k/2007-04-04/18242848580.shtml)--新浪体育
 48. [NBA公佈07籃球名人堂名單 禪師菲爾-傑克遜領銜](http://sports.sohu.com/20070403/n249150718.shtml)--搜狐體育，2007年4月3日
 49. [The NBA at 50](http://www.nba.com/history/players/50greatest.html)--NBA.com

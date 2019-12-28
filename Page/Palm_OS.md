@@ -59,7 +59,7 @@ Palm OS的应用程序主要通过C和C++开发，官方的编译器有两个:�
       - [Innersafe](http://www.innersafe.com) - Security for Palm Desktop & Hotsync Manager (U.S. & Canada only)
       - [PalmAttitude](http://www.palmattitude.org) - French-speaking Palm OS-related website: forum, news and tests.
       - [Palm Evolution](https://web.archive.org/web/20150102223102/http://www.palmevolution.com/) - Evolutionary Tree of Palm OS Devices.
-      - [PalmFLYING.com](http://www.palmflying.com/) - site that focuses on using PDAs in Aviation.
+      - [PalmFLYING.com](https://web.archive.org/web/20060813112217/http://www.palmflying.com/) - site that focuses on using PDAs in Aviation.
       - [PalmGear.com](http://www.palmgear.com) - Freeware & shareware for Palm devices.
       - [PalmOpenSource.com](http://www.palmopensource.com) - Open Source software for Palm OS.
       - [Palm Software Organized](https://web.archive.org/web/20171008064254/http://www.palmsoftware.org/) - Software for Palm OS

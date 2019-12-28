@@ -1,6 +1,6 @@
 [Gui-widgets.png](https://zh.wikipedia.org/wiki/File:Gui-widgets.png "fig:Gui-widgets.png")的使用\]\]
 
-**Swing**是一个为[Java](../Page/Java.md "wikilink")设计的[GUI工具包](https://zh.wikipedia.org/wiki/GUI "wikilink")。Swing是[Java基础类的一部分](https://zh.wikipedia.org/wiki/JFC "wikilink")。Swing包括了[图形用户界面](../Page/图形用户界面.md "wikilink")（GUI）组件如：文本框，文本域，按钮，分隔窗格和表。
+**Swing**是一个为[Java](../Page/Java.md "wikilink")设计的[GUI工具包](https://zh.wikipedia.org/wiki/GUI "wikilink")，屬於[Java基础类的一部分](https://zh.wikipedia.org/wiki/JFC "wikilink")。Swing包括了[图形用户界面](../Page/图形用户界面.md "wikilink")（GUI）功能，其组件包含：文本框、文本域、按钮、表格、列表……等等。
 
 Swing提供许多比[AWT](../Page/AWT.md "wikilink")更好的屏幕显示元素。它们用纯Java写成，所以同Java本身一样可以跨平台运行，这一点不像AWT。它们是JFC的一部分。它们支持可更换的面板和主题（各种操作系统默认的特有主题），然而不是真的使用原生平台提供的设备，而是仅仅在表面上模仿它们。这意味着你可以在任意平台上使用Java支持的任意面板。轻量级元件的缺点则是执行速度较慢，优点就是可以在所有平台上采用统一的行为。
 

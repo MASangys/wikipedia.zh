@@ -4,7 +4,7 @@
 
 GTK使用[C语言开发](https://zh.wikipedia.org/wiki/C语言 "wikilink")，但是其设计者使用面向对象技术。也提供了[C++](../Page/C++.md "wikilink")（[gtkmm](https://zh.wikipedia.org/wiki/gtkmm "wikilink")）、[Perl](../Page/Perl.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[Java](../Page/Java.md "wikilink")和[Python](../Page/Python.md "wikilink")（PyGTK）绑定，其他的绑定有[Ada](../Page/Ada.md "wikilink")、[D](../Page/D語言.md "wikilink")、[Haskell](../Page/Haskell.md "wikilink")、[PHP](../Page/PHP.md "wikilink")和所有的[.NET编程语言](https://zh.wikipedia.org/wiki/.NET "wikilink")。
 
-与其他很多[部件工具箱](../Page/部件工具箱.md "wikilink")不同，GTK并不基于[Xt](https://zh.wikipedia.org/wiki/Xt "wikilink")。这一决策优劣互见：优点是GTK可以应用于其他系统，其灵活性也很强；而缺点就是它无法利用以传统方法为[X11定制的X资源数据库](https://zh.wikipedia.org/wiki/X11 "wikilink")。GTK最早應用於X Window System，如今已移植至其他平台，諸如[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[DirectFB](https://zh.wikipedia.org/wiki/DirectFB "wikilink")，以及[Mac OS X平台上的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Quartz](https://zh.wikipedia.org/wiki/Quartz "wikilink").
+与其他很多[部件工具箱](../Page/部件工具箱.md "wikilink")不同，GTK并不基于[Xt](https://zh.wikipedia.org/wiki/Xt "wikilink")。这一决策优劣互见：优点是GTK可以应用于其他系统，其灵活性也很强；而缺点就是它无法利用以传统方法为[X11定制的X资源数据库](https://zh.wikipedia.org/wiki/X11 "wikilink")。GTK最早應用於X Window System，如今已移植至其他平台，諸如[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[DirectFB](../Page/DirectFB.md "wikilink")，以及[Mac OS X平台上的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Quartz](https://zh.wikipedia.org/wiki/Quartz "wikilink").
 
 [Glade](../Page/Glade.md "wikilink")是一个界面设计工具，但是它也包含了一种描述GUI界面的[XML](../Page/XML.md "wikilink")语言，它和[libglade一起工作就可以直接使用GTK和GNOME控件](https://zh.wikipedia.org/wiki/libglade "wikilink")；新的Glade-3不再直接支持生成编程语言[源代码](../Page/源代码.md "wikilink")。
 
@@ -25,7 +25,7 @@ GTK使用[C语言开发](https://zh.wikipedia.org/wiki/C语言 "wikilink")，但
   - [LXDE](../Page/LXDE.md "wikilink")也基於GTK，一個盡可能減少套件相依性的桌面環境。
   - [GPE](../Page/GPE.md "wikilink") Palmtop環境和[Nokia的](https://zh.wikipedia.org/wiki/Nokia "wikilink")[互聯網](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")的框架[Maemo](../Page/Maemo.md "wikilink")基於GTK。
 
-這只是一部分，另外，GTK也可以運行在[KDE](../Page/KDE.md "wikilink")的環境下。而且GTK也可以在[Microsoft Windows運行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，另外還有[DirectFB和](https://zh.wikipedia.org/wiki/DirectFB "wikilink")[ncurses](https://zh.wikipedia.org/wiki/ncurses "wikilink")。
+這只是一部分，另外，GTK也可以運行在[KDE](../Page/KDE.md "wikilink")的環境下。而且GTK也可以在[Microsoft Windows運行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，另外還有[DirectFB](../Page/DirectFB.md "wikilink")和[ncurses](https://zh.wikipedia.org/wiki/ncurses "wikilink")。
 
   - 使用GTK的窗口管理器
 

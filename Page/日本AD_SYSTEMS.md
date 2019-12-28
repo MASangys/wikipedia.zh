@@ -21,6 +21,7 @@
   - [單蠢女孩](../Page/單蠢女孩.md "wikilink")（）
   - [徒然喜歡你](../Page/徒然喜歡你.md "wikilink")（）
   - [學園奶爸](https://zh.wikipedia.org/wiki/學園奶爸 "wikilink")（）
+  - [魔術學姐](../Page/魔術學姐.md "wikilink")（）
 
 ## 關連項目
 

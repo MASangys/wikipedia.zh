@@ -30,7 +30,7 @@
 
 *' HYPER NEOGEO 64(1997)*'
 
-  - 做為MVS的後期型，講求比MSV更好的2D格鬥遊戲處理效能。不過由於考慮到當時同業在3D遊戲的競爭，為了打入3D市場就在開發期間加入了原本不在計畫中的3DCG處理運算機能。但由於原本的設計就是2D而非3D遊戲機版，在3D遊戲的運行上不論是浮點數的運算和CPU處理軟體的速度都是相當緩慢且不順暢，性能遠不如當時[SEGA和](https://zh.wikipedia.org/wiki/SEGA "wikilink")[南夢宮的同期機型](https://zh.wikipedia.org/wiki/南夢宮 "wikilink")。在此機版上推出的《侍魂64：阿修羅斬魔傳》、《餓狼傳說 WILD AMBITION》、《武力 〜BURIKI ONE〜》等遊戲皆因為上述理由而負評居多。
+  - 做為MVS的後期型，講求比MVS更好的2D格鬥遊戲處理效能。不過由於考慮到當時同業在3D遊戲的競爭，為了打入3D市場就在開發期間加入了原本不在計畫中的3DCG處理運算機能。但由於原本的設計就是2D而非3D遊戲機版，在3D遊戲的運行上不論是浮點數的運算和CPU處理軟體的速度都是相當緩慢且不順暢，性能遠不如當時[SEGA和](https://zh.wikipedia.org/wiki/SEGA "wikilink")[南夢宮的同期機型](https://zh.wikipedia.org/wiki/南夢宮 "wikilink")。在此機版上推出的《侍魂64：阿修羅斬魔傳》、《餓狼傳說 WILD AMBITION》、《武力 〜BURIKI ONE〜》等遊戲皆因為上述理由而負評居多。
 
 ### 家庭用遊戲機
 

@@ -50,7 +50,7 @@
   - [捕手](../Page/捕手.md "wikilink")：[吳昭輝](https://zh.wikipedia.org/wiki/吳昭輝 "wikilink")、[高政華](../Page/高政華.md "wikilink")、[曾智偵](../Page/曾智偵.md "wikilink")
   - [內野手](https://zh.wikipedia.org/wiki/內野手 "wikilink")：[高國慶](../Page/高國慶.md "wikilink")、[陽森](../Page/陽森.md "wikilink")、[王子崧](https://zh.wikipedia.org/wiki/王子崧 "wikilink")、[陽東益](../Page/陽東益.md "wikilink")、[吳佳榮](../Page/吳佳榮.md "wikilink")、[曾揚志](../Page/曾揚志.md "wikilink")
   - [外野手](https://zh.wikipedia.org/wiki/外野手 "wikilink")：[林鴻遠](../Page/林鴻遠.md "wikilink")、[王傳家](../Page/王傳家.md "wikilink")、[陳政賢](../Page/陳政賢.md "wikilink")、[柯建鋒](https://zh.wikipedia.org/wiki/柯建鋒 "wikilink")、[陳連宏](../Page/陳連宏.md "wikilink")、[黃甘霖](../Page/黃甘霖.md "wikilink")
-  - [指定打擊](https://zh.wikipedia.org/wiki/指定打擊 "wikilink")：[羅敏卿](../Page/羅敏卿.md "wikilink")
+  - [指定打擊](../Page/指定打擊.md "wikilink")：[羅敏卿](../Page/羅敏卿.md "wikilink")
 
 ### 興農牛隊
 
