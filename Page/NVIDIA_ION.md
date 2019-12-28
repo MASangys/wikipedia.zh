@@ -51,7 +51,7 @@ MCP79晶片組記憶體方面支持[DDR3](https://zh.wikipedia.org/wiki/DDR3 "wi
 
   - [NVIDIA ION主頁](http://www.nvidia.com/object/sff_ion.html)
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:輝達主機板晶片組](https://zh.wikipedia.org/wiki/Category:輝達主機板晶片組 "wikilink") [Category:輝達圖形處理器](https://zh.wikipedia.org/wiki/Category:輝達圖形處理器 "wikilink")
 
 1.  [21 款 NVIDIA ION 离子平台产品发布](http://news.mydrivers.com/1/136/136155.htm)
 2.  [NVIDIA® ION™ 繪圖處理器](http://www.nvidia.com.tw/object/picoatom_specifications_tw.html)

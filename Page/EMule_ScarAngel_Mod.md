@@ -29,7 +29,7 @@ eMule ScarAngel Mod是基于eMule Xtreme Mod的二次Mod，因而继承了官方
 
   - [emule-mods.de上的ScarAngel页面](http://www.emule-mods.de/?mods=ScarAngel)
 
-  - [emulefans.com（电骡爱好者）blog上的ScarAngel页面](http://emulefans.com/news/emule/scarangel/)
+  - [emulefans.com（电骡爱好者）blog上的ScarAngel页面](https://web.archive.org/web/20100705034833/http://emulefans.com/news/emule/scarangel/)
 
   - [德语emule-web.de论坛](http://www.emule-web.de/board/)
 

@@ -210,7 +210,7 @@
 <td><p>第6話</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/太空先鋒" title="wikilink">太空先鋒</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/森脇真琴" title="wikilink">森脇真琴</a></p></td>
+<td><p><a href="../Page/森脇真琴.md" title="wikilink">森脇真琴</a></p></td>
 <td><p>橘秀樹</p></td>
 <td><p><a href="../Page/汤姆·沃尔夫.md" title="wikilink">汤姆·沃尔夫</a>的同名紀實文學</p></td>
 <td></td>

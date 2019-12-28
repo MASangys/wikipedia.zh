@@ -20,7 +20,7 @@ BBS最初由用户自发组织的站务管理逐渐变为华中科技大学校�
 
 ## 外部链接
 
-  - [基于web访问白云黄鹤BBS](http://bbs.whnet.edu.cn)
+  - [基于web访问白云黄鹤BBS](https://web.archive.org/web/20190521102051/http://bbs.whnet.edu.cn/)
   - [基于telnet访问白云黄鹤BBS](telnet://bbs.whnet.edu.cn)
   - [CERNET华中地区网络中心](https://web.archive.org/web/20170712030002/http://www.whnet.edu.cn/)
 

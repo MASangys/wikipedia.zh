@@ -22,7 +22,7 @@
 
 ## 外部連結
 
-  - [OpenFoundry -- PortableAppsMenu](http://of.openfoundry.org/projects/771/download) - 繁中『[PortableAppsMenu](https://zh.wikipedia.org/wiki/PortableAppsMenu "wikilink")』的發源地 ～～ **[自由軟體鑄造場](../Page/自由軟體鑄造場.md "wikilink")**。
+  - [OpenFoundry -- PortableAppsMenu](https://web.archive.org/web/20081207171351/http://of.openfoundry.org/projects/771/download) - 繁中『[PortableAppsMenu](https://zh.wikipedia.org/wiki/PortableAppsMenu "wikilink")』的發源地 ～～ **[自由軟體鑄造場](../Page/自由軟體鑄造場.md "wikilink")**。
   - [UPP中文官網](https://web.archive.org/web/20081217015447/http://www.5680.tw/modules/wfdownloads/)
   - [PStart官網](http://www.pegtop.net/start/)
 

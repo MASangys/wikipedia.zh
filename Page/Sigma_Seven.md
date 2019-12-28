@@ -233,8 +233,6 @@ Sigma Seven附有養成學校和子公司[Sigma Seven e](../Page/Sigma_Seven_e.m
   -
   - [水樹奈奈](../Page/水樹奈奈.md "wikilink")
 
-  - [水澤史繪](../Page/水澤史繪.md "wikilink")
-
   -
 <!-- end list -->
 
@@ -345,6 +343,8 @@ Sigma Seven附有養成學校和子公司[Sigma Seven e](../Page/Sigma_Seven_e.m
   - （現所屬：／voice works）
 
   - [淵崎有里子](https://zh.wikipedia.org/wiki/淵崎有里子 "wikilink")（現所屬：[remax](https://zh.wikipedia.org/wiki/remax "wikilink")）
+
+  - [水澤史繪](../Page/水澤史繪.md "wikilink")（現所屬：青二Proiduction）
 
   -
 ## 參考來源

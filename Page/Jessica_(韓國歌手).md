@@ -144,7 +144,18 @@ BLANC\&ECLARE（2014年至今）
 <li>發行日期：2018年12月14日</li>
 <li>唱片公司：Coridel 娛樂</li>
 <li>發行公司：Coridel 娛樂</li>
-<li>amuse广告曲</li>
+<li>amuse廣告曲</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>3nd</strong></p></td>
+<td><p>《<strong>Call Me Before You Sleep</strong>》</p>
+<ul>
+<li>發行日期：2019年9月26日</li>
+<li>唱片公司：Municon</li>
+<li>發行公司：Interpark Corporation</li>
+<li>韓日版分別與Giriboy和CrazyBoy合作曲</li>
 </ul></td>
 <td></td>
 </tr>
@@ -456,6 +467,12 @@ BLANC\&ECLARE（2014年至今）
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年9月26日</p></td>
+<td><p>《Call Me Before You Sleep》</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -568,22 +585,18 @@ BLANC\&ECLARE（2014年至今）
 | ---------- | --- | ------------------------------ |
 | 日期         | 站次  | 地點                             |
 | 2016年6月1日  | 首爾站 | Blue Square Samsung Card Hall  |
-| 2016年6月11日 | 泰國站 | BCC Hall Central Plaza Ladprao |
+| 2016年6月11日 | 曼谷站 | BCC Hall Central Plaza Ladprao |
 | 2016年6月18日 | 台北站 | 台大體育館                          |
 | 2016年6月27日 | 橫濱站 | Yokohama Pacifico              |
 |            |     |                                |
 
   - 2016 Jessica Fans Meeting
 
-|             |       |                                            |
-| ----------- | ----- | ------------------------------------------ |
-| 日期          | 站次    | 地點                                         |
-| 2016年11月5日  | 上海站   | 上海國際體操中心                                   |
-| 2016年11月11日 | 新加坡站  | 新達城新加坡國際會議展覽中心                             |
-| 2016年11月19日 | 雅加達站  | The Kasablanka Main Hall                   |
-| 2016年11月25日 | 馬尼拉站  | Philippine International Convention Center |
-| 2016年11月27日 | 胡志明市站 | Quan Khu 7 Stadium                         |
-|             |       |                                            |
+|            |     |          |
+| ---------- | --- | -------- |
+| 日期         | 站次  | 地點       |
+| 2016年11月5日 | 上海站 | 上海國際體操中心 |
+|            |     |          |
 
   - 2017 Jessica First Mini Concert - On Cloud Nine
 
@@ -613,6 +626,16 @@ BLANC\&ECLARE（2014年至今）
 | 日期         | 站次  | 地點    |
 | 2019年4月20日 | 澳門站 | 澳門百老匯 |
 |            |     |       |
+
+  - XOXO Jessica Jung Fan Meeting
+
+|             |     |                          |
+| ----------- | --- | ------------------------ |
+| 日期          | 站次  | 地點                       |
+| 2019年10月2日  | 東京站 | 新宿文化センター 大ホール            |
+| 2019年10月19日 | 台北站 | 台大體育館一樓                  |
+| 2019年10月27日 | 曼谷站 | IMPACT EXHIBITION HALL 5 |
+|             |     |                          |
 
   - Jessica其他演唱會
 
@@ -890,48 +913,26 @@ BLANC\&ECLARE（2014年至今）
 [Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink") [Category:英語歌手](https://zh.wikipedia.org/wiki/Category:英語歌手 "wikilink") [Category:日語歌手](https://zh.wikipedia.org/wiki/Category:日語歌手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:美國女歌手](https://zh.wikipedia.org/wiki/Category:美國女歌手 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink") [Category:美國舞者](https://zh.wikipedia.org/wiki/Category:美國舞者 "wikilink") [Category:韓國舞者](https://zh.wikipedia.org/wiki/Category:韓國舞者 "wikilink") [Category:韓國女性模特兒](https://zh.wikipedia.org/wiki/Category:韓國女性模特兒 "wikilink") [Category:韓國音樂劇演員](https://zh.wikipedia.org/wiki/Category:韓國音樂劇演員 "wikilink") [Category:韓國電視主持人](https://zh.wikipedia.org/wiki/Category:韓國電視主持人 "wikilink") [Category:韓裔美國人](https://zh.wikipedia.org/wiki/Category:韓裔美國人 "wikilink") [Category:舊金山人](https://zh.wikipedia.org/wiki/Category:舊金山人 "wikilink") [Category:加州人](https://zh.wikipedia.org/wiki/Category:加州人 "wikilink") [Category:鄭姓](https://zh.wikipedia.org/wiki/Category:鄭姓 "wikilink")
 
 1.  \[<http://dispatch.net.cn/detail.php?id=2145“其实我本名，不是郑秀妍>”（Jessica）dispatch
-
 2.  [消除外界對離團的負面看法！Jessica《FLY》 首張個人專輯大獲成功！同時在全無打歌情況下獲得第三名](http://www.vlovekpop.com/20160519-jessica-2/) vlovekpop
-
 3.  [제시카 공식 팬클럽 명칭 확정 안내](http://coridelent.com/notice/?uid=159&mod=document)
-
 4.
 5.  [Jessica隱藏10年公佈！　「我的本名其實不是鄭秀妍」](http://star.ettoday.net/news/977508?t=Jessica%E9%9A%B1%E8%97%8F10%E5%B9%B4%E5%85%AC%E4%BD%88%EF%BC%81%E3%80%80%E3%80%8C%E6%88%91%E7%9A%84%E6%9C%AC%E5%90%8D%E5%85%B6%E5%AF%A6%E4%B8%8D%E6%98%AF%E9%84%AD%E7%A7%80%E5%A6%8D%E3%80%8D)
-
 6.   Chosun.com: [제시카, "관객 앞에서의 제 목소리에 감동했어요"](http://choen.chosun.com/site/data/html_dir/2009/02/18/2009021800465.html), February 18, 2009
-
 7.   [소녀시대 티파니 제시카 서현 게임 주제가 신곡 발표 (*Girls' Generation's Tiffany/Jessica/Seohyun Announce Game Theme Song as New Single*)](http://isplus.joins.com/article/article.html?aid=985744). *IS Plus*/*Newsen*. August 1, 2008. Retrieved May 4, 2010.
-
 8.   [少女時代.&.Super.Junior.-.Seoul.Song](http://www.youtube.com/watch?v=TeZCK5WqsDE), youtube.com. December 12, 2009. Retrieved October 5, 2012.
-
 9.
-
 10.  [2PM & SNSD Cabi song Caribbean Bay (Teacyeon-YoonA,Nickhun-Yuri,Chansung-Seo Huyn)](http://www.youtube.com/watch?v=WtZADdceSr4), youtube.com. May 2, 2010. Retrieved October 5, 2012.
-
 11. [Jessica 與Coridel經紀公司簽下專屬合約，將正式回歸韓國演藝圈](http://www.vlovekpop.com/jessica-%E8%88%87coridel%E7%B6%93%E7%B4%80%E5%85%AC%E5%8F%B8%E7%B0%BD%E4%B8%8B%E5%B0%88%E5%B1%AC%E5%90%88%E7%B4%84%EF%BC%8C%E5%B0%87%E6%AD%A3%E5%BC%8F%E5%9B%9E%E6%AD%B8%E9%9F%93%E5%9C%8B%E6%BC%94/) vlovekpop
-
 12. [可以預訂新專輯了！Jessica《With Love，J》封面照公開！](http://www.vlovekpop.com/20160510-jessica/) vlovekpop
-
 13. \< Solo專輯大受歡迎！成功舉行國內粉絲見面會，Jessica： 好像在做夢般
-
 14. [Jessica 12月攜帶《WONDERLAND》突襲回歸](http://www.vlovekpop.com/20161130-jessica/) vlovekpop
-
 15.  Chung Ah-young. ['Legally Blonde' Sparkles With Starry Cast](http://www.koreatimes.co.kr/www/news/art/2009/09/135_51953.html). *The Korea Times*. September 16, 2009. Retrieved February 22, 2010.
-
 16. [3 Starts to Share Lead in 'Legally Blonde' Musical](http://english.chosun.com/site/data/html_dir/2009/10/31/2009103100199.html). *The Chosun Ilbo*. October 31, 2009. Retrieved February 22, 2010.
-
 17.  [소녀시대, 최시원과 의리 지키며 '오 마이 레이디'서 카메오 출연 (*SNSD Makes Cameo Appearance On "Oh\! My Lady", Showing Loyalty to Choi Siwon*)](http://www.asiae.co.kr/news/view.htm?idxno=2010040707471438381). *asiae*/*Newsen*. March 7, 2010. Retrieved on April 9, 2010.
-
 18.  [소녀시대, 최시원과 의리 지키며 '오 마이 레이디'서 카메오 출연 (*SNSD Makes Cameo Appearance on "Oh\! My Lady", Showing Loyalty to Choi Siwon*)](http://www.asiae.co.kr/news/view.htm?idxno=2010040707471438381). *asiae*/*Newsen*. March 7, 2010. Retrieved on April 9, 2010
-
 19.  Bae Sunyoung: [제시카 ‘해피 버스데이‘ 5주 출연 끝, 7일 하차 (*Jessica, After Five Weeks of Appearances in 'Happy Birthday', Will be Withdrawing on 7th*)](http://www.newsen.com/news_view.php?uid=201006051103371001), Newsen.com. June 5, 2010. Retrieved June 6, 2010.
-
 20.  [Jessica’s Casting in ‘Violent Romance’ Confirmed](http://soshified.com/2011/12/jessicas-casting-in-violent-romance-confirmed)
-
 21.
-
 22.
-
 23.
-
 24.

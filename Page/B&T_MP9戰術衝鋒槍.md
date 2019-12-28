@@ -366,7 +366,7 @@ B\&T MP9和TP9亦登場於多部[电影](../Page/电影.md "wikilink")、[电視
   -   - 2009年12月上號：[瑞士布鲁加-托梅MP9微声冲锋枪](http://www.qbq.com.cn/a/bencandy.php?fid=35&id=1069)
       - 2011年12月下號：[布鲁加—托梅公司轻武器展](https://web.archive.org/web/20140223072427/http://wap.139sz.cn/read/article.php?id=179091&p=3)
       - 2013年4月上號：[欧洲最新轻武器精粹](http://www.xzbu.com/8/view-4429747.htm)
-      - 2014年4月下號：[2014年IWA展会新品汇（上）](http://www.xzbu.com/8/view-5642605.htm)
+      - 2014年4月下號：[2014年IWA展会新品汇（上）](https://web.archive.org/web/20140714125645/http://www.xzbu.com/8/view-5642605.htm)
       - 2015年7月上號：[2015新枪速递](https://archive.is/20150721114052/http://gdwap.dooland.com/article.php?id=701201)（MP9-N）
 
 ## 外部連結
@@ -383,7 +383,7 @@ B\&T MP9和TP9亦登場於多部[电影](../Page/电影.md "wikilink")、[电視
 
   - —[Weapon.ge—Brügger & Thomet MP9](http://georgians.weapon.ge/index.php?sel=1&id=440&man=&coun=&cat=4&l=en)
 
-  - —[American Rifleman—DS Arms B\&T TP9 Pistol](http://www.americanrifleman.org/ArticlePage.aspx?id=1588&cid=19)
+  - —[American Rifleman—DS Arms B\&T TP9 Pistol](https://web.archive.org/web/20120330204604/http://www.americanrifleman.org/ArticlePage.aspx?id=1588&cid=19)
 
   - —The Firearm Blog.com—
 
@@ -416,53 +416,31 @@ B\&T MP9和TP9亦登場於多部[电影](../Page/电影.md "wikilink")、[电視
 [Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:衝鋒手槍](https://zh.wikipedia.org/wiki/Category:衝鋒手槍 "wikilink") [Category:包絡式槍機衝鋒槍](https://zh.wikipedia.org/wiki/Category:包絡式槍機衝鋒槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:.45_ACP口徑槍械](https://zh.wikipedia.org/wiki/Category:.45_ACP口徑槍械 "wikilink") [Category:瑞士槍械](https://zh.wikipedia.org/wiki/Category:瑞士槍械 "wikilink")
 
 1.
-
 2.
-
 3.  [Brugger & Thomet MP9 Submachine Gun | Military-Today.com](http://www.military-today.com/firearms/brugger_thomet_mp9.htm) MP9 at Military Today. Retrieved on March 02, 2011.
-
 4.
 5.
-
 6.
 7.  [dsarms.com-TP9](http://www.dsarms.com/prodinfo.asp?number=BTTP9)
-
 8.  [Brugger & Thomet’s MP9 in 6.5×25 CBJ](http://sadefensejournal.com/wp/?p=625) Retrieved on 2012-04-15.
-
 9.  [The Firearm Blog—B\&T MP45 and MP9N](http://www.thefirearmblog.com/blog/2011/10/28/bt-mp45-and-mp9n/)
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.
-
 17.
-
 18.
 19.
-
 20. <https://www.pinterest.com/pin/295548794269811116/>
-
 21. ttp://misleddit.com/p/2dje65/
-
 22. <http://big5.backchina.com/forum/20150120/info-1263230-1-1.html#.VVHsNI6qqko>
-
 23. [1](https://sites.google.com/site/worldinventory/wiw_me_saudiarabia)
-
 24. [2](https://sites.google.com/site/worldinventory/wiw_eu_spain)
-
 25.
 26.
-
 27. <http://www.segodnya.ua/ukraine/Ekipirovka-ukrainskogo-specnaza-468983.html>
-
 28.
-
 29. [B\&T USA Awarded Contract to Supply the Lake County, Indiana Sheriff’s Dept with MP9 SMGs](http://soldiersystems.net/2019/04/10/bt-usa-awarded-contract-to-supply-the-lake-county-indiana-sheriffs-dept-with-mp9-smgs/)

@@ -53,14 +53,14 @@
 <td><p>夏日傾情</p></td>
 <td><p>三木たかし</p></td>
 <td><p><a href="../Page/向雪懷.md" title="wikilink">向雪懷</a></p></td>
-<td><p>側田</p></td>
+<td><p><a href="../Page/側田.md" title="wikilink">側田</a></p></td>
 <td><p>側田、雷頌德</p></td>
-<td><p>原唱：黎明</p></td>
+<td><p>原唱：<a href="../Page/黎明.md" title="wikilink">黎明</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>5.</p></td>
 <td><p>一場誤會</p></td>
-<td><p>陳輝陽@好好笑</p></td>
+<td><p><a href="../Page/陳輝陽.md" title="wikilink">陳輝陽</a>@好好笑</p></td>
 <td><p>林若寧</p></td>
 <td><p>陳輝陽</p></td>
 <td><p>陳輝陽</p></td>
@@ -69,7 +69,7 @@
 <tr class="even">
 <td><p>6.</p></td>
 <td><p>愛才</p></td>
-<td><p>伍樂城</p></td>
+<td><p><a href="../Page/伍樂城.md" title="wikilink">伍樂城</a></p></td>
 <td><p>林夕</p></td>
 <td><p>伍樂城</p></td>
 <td><p>伍樂城</p></td>
@@ -159,7 +159,7 @@
 <tr class="even">
 <td><p>16.</p></td>
 <td><p>拍錯拖</p></td>
-<td><p><a href="../Page/陳輝陽.md" title="wikilink">陳輝陽</a>＠好好笑</p></td>
+<td><p>陳輝陽＠好好笑</p></td>
 <td><p>林夕</p></td>
 <td><p>陳輝陽</p></td>
 <td><p>陳輝陽</p></td>
@@ -180,7 +180,7 @@
 <td><p>Goodbye</p></td>
 <td><p>David Foster、Linda Thompson</p></td>
 <td><p>David Foster、Linda Thompson</p></td>
-<td><p>謝國維</p></td>
+<td><p><a href="../Page/謝國維.md" title="wikilink">謝國維</a></p></td>
 <td><p>伍樂城</p></td>
 <td><p>英語歌曲<br />
 只收錄於第二版</p></td>
@@ -189,7 +189,7 @@
 <td><p>19.</p></td>
 <td><p>Chocolate Ice</p></td>
 <td><p>雷頌德</p></td>
-<td><p><a href="../Page/側田.md" title="wikilink">側田</a></p></td>
+<td><p>側田</p></td>
 <td><p>側田</p></td>
 <td><p>側田、雷頌德</p></td>
 <td><p>英語歌曲、中文原曲：聽身體唱歌<br />
@@ -289,7 +289,7 @@
 <td><p>9.</p></td>
 <td><p>陰天假期</p></td>
 <td><p>Thomas Dawn Ann</p></td>
-<td><p><a href="../Page/林若寧.md" title="wikilink">林若寧</a></p></td>
+<td><p>林若寧</p></td>
 <td><p>雷頌德、<a href="https://zh.wikipedia.org/wiki/John_Laudon" title="wikilink">John Laudon</a></p></td>
 <td><p>雷頌德</p></td>
 <td></td>
@@ -333,7 +333,7 @@
 <tr class="even">
 <td><p>14.</p></td>
 <td><p>如水</p></td>
-<td><p><a href="../Page/伍仲衡.md" title="wikilink">伍仲衡</a></p></td>
+<td><p>伍仲衡</p></td>
 <td><p>林夕</p></td>
 <td><p>伍仲衡</p></td>
 <td><p>伍仲衡</p></td>
@@ -342,7 +342,7 @@
 <tr class="odd">
 <td><p>15.</p></td>
 <td><p>十個他不如你一個</p></td>
-<td><p><a href="../Page/伍樂城.md" title="wikilink">伍樂城</a>＠RNLS</p></td>
+<td><p>伍樂城＠RNLS</p></td>
 <td><p><a href="../Page/林夕.md" title="wikilink">林夕</a></p></td>
 <td><p>伍樂城</p></td>
 <td><p>伍樂城</p></td>
@@ -355,13 +355,13 @@
 <td><p>林夕</p></td>
 <td><p>側田</p></td>
 <td><p>側田、雷頌德</p></td>
-<td><p>原唱：<a href="../Page/黎明.md" title="wikilink">黎明</a></p></td>
+<td><p>原唱：黎明</p></td>
 </tr>
 <tr class="odd">
 <td><p>17.</p></td>
 <td><p>Please</p></td>
 <td><p><a href="../Page/馮翰銘.md" title="wikilink">Alex Fung</a></p></td>
-<td><p><a href="../Page/李治廷.md" title="wikilink">李治廷</a></p></td>
+<td><p>李治廷</p></td>
 <td><p>Alex Fung</p></td>
 <td><p>Alex Fung</p></td>
 <td><p>英語歌曲<br />
@@ -455,11 +455,11 @@
 ## 專輯及歌曲所獲獎項
 
   - [SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")2009 - 全碟試聽最高收聽率大碟 - 《Wish》
-  - IFPI 2009香港唱片銷量大獎頒獎禮 - 十大廣東大碟 - 《Wish》
-  - IFPI 2010香港唱片銷量大獎頒獎禮 - 十大廣東大碟 - 《Wish》
-  - 第七屆《勁歌王》全球華人樂壇年度總選 - 粵語金曲獎 - 《殘酷遊戲》
-  - 第七屆《勁歌王》全球華人樂壇年度總選 - 最暢銷唱片大獎 - 《Wish》
-  - 2010[勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")第一回 - 得獎歌曲 《殘酷遊戲》
+  - [IFPI 2009香港唱片銷量大獎頒獎禮](../Page/IFPI香港唱片銷量大獎頒獎禮2009.md "wikilink") - 十大廣東大碟 - 《Wish》
+  - [IFPI 2010香港唱片銷量大獎頒獎禮](../Page/IFPI香港唱片銷量大獎頒獎禮2010.md "wikilink") - 十大廣東大碟 - 《Wish》
+  - [第七屆《勁歌王》全球華人樂壇年度總選](../Page/第7屆「勁歌王」全球華人樂壇音樂盛典獲獎名單.md "wikilink") - 粵語金曲獎 - 《殘酷遊戲》
+  - [第七屆《勁歌王》全球華人樂壇年度總選](../Page/第7屆「勁歌王」全球華人樂壇音樂盛典獲獎名單.md "wikilink") - 最暢銷唱片大獎 - 《Wish》
+  - [2010勁歌金曲優秀選第一回](../Page/2010年勁歌金曲優秀選第一回得獎名單.md "wikilink") - 得獎歌曲 《殘酷遊戲》
 
 ## 軼事
 

@@ -37,7 +37,7 @@ BitDefender诞生于2001年11月，代替了它之前的AVX（[AntiVirus eXpress
   - [BitDefender英國](http://www.bitdefender.co.uk)
   - [BitDefender羅馬尼亞](http://www.bitdefender.ro)
   - [BitDefender臺灣](http://bitdefender.qcomgroup.com.tw/)
-  - [BitDefender香港](http://bitdefender-hk.qcomgroup.com/)
+  - [BitDefender香港](https://web.archive.org/web/20100704155655/http://bitdefender-hk.qcomgroup.com/)
   - [BitDefender Forum](http://forum.bitdefender.com)
   - [Malware City](http://www.malwarecity.com)
   - [防毒軟體排行榜](http://anti-virus-software-review.toptenreviews.com/)

@@ -1,4 +1,4 @@
-一塊半導體晶體一側[摻雜成P型半導體](../Page/掺杂_\(半导体\).md "wikilink")，另一側摻雜成N型半導體，中間二者相連的接觸面稱為**PN结**（{{ lang-en|**pn junction**}}）。PN结是[電子技術中許多元件](https://zh.wikipedia.org/wiki/電子技術 "wikilink")，例如半導體[二極管](../Page/二極管.md "wikilink")、[雙極性晶體管的物质基础](https://zh.wikipedia.org/wiki/雙極性晶體管 "wikilink")。
+一塊半導體晶體一側[摻雜成P型半導體](../Page/掺杂_\(半导体\).md "wikilink")，另一側摻雜成N型半導體，中間二者相連的接觸面稱為**PN结**（{{ lang-en|**p-n junction**}}）。PN结是[電子技術中許多元件](https://zh.wikipedia.org/wiki/電子技術 "wikilink")，例如半導體[二極管](../Page/二極管.md "wikilink")、[雙極性晶體管的物质基础](https://zh.wikipedia.org/wiki/雙極性晶體管 "wikilink")。
 
 ## 历史
 
@@ -70,7 +70,7 @@ PN结的n区的电子向p区[扩散](https://zh.wikipedia.org/wiki/扩散 "wikil
 
 在正向偏置电压的外电场作用下，N区的电子与P区的空穴被推向PN结。这降低了[耗尽区的](https://zh.wikipedia.org/wiki/耗尽区 "wikilink")[耗尽宽度](https://zh.wikipedia.org/wiki/耗尽宽度 "wikilink")。这降低了PN结的电势差（即内在电场）。随着正向电压的增加，耗尽区最终变得足够薄以至于内电场不足以反作用抑制多数载流子跨PN结的[扩散运动](https://zh.wikipedia.org/wiki/扩散 "wikilink")，因而降低了PN结的电阻。跨过PN结注入p区的电子将扩散到附近的电中性区。所以PN结附近的电中性区的少数载流子的扩散量确定了二极管的正向电流。
 
-仅有[多数载流子能够在半导体材料中移动宏观距离](https://zh.wikipedia.org/wiki/多数载流子 "wikilink")。因而，注入p区的电子不能继续移动更远，而是很快与空穴复合。少数载流子在注入中性区后移动的平均距离称为**扩散长度**（diffusion length），典型是微米量级。\[1\]
+仅有[多数载流子能够在半导体材料中長距离移动](https://zh.wikipedia.org/wiki/多数载流子 "wikilink")。因此，注入P区的电子不能继续移动更远，而是很快与電洞复合。少数载流子在注入中性区后移动的平均距离称为**扩散长度**（diffusion length），一般來說僅有微米等级。\[1\]
 
 虽然跨过p-n结的电子在p-区只能穿透短距离，但正向电流不被打断，因为空穴（p-区的多数载流子）在外电场驱动下在向相反方向移动。从p-区跨越PN结注入n-区的空穴也具有类似性质。
 
@@ -78,7 +78,9 @@ PN结的n区的电子向p区[扩散](https://zh.wikipedia.org/wiki/扩散 "wikil
 
 ### 反向偏置
 
-[PN_Junction_in_Reverse_Bias.png](https://zh.wikipedia.org/wiki/File:PN_Junction_in_Reverse_Bias.png "fig:PN_Junction_in_Reverse_Bias.png") 若施加在N區的電壓高於P區的電壓，这种状态称为PN结**反向偏置**（reverse bias）。由于p区连接电源负极，多数载流子空穴被外电场拉向负极，因而[耗尽层变厚](https://zh.wikipedia.org/wiki/耗尽层 "wikilink")。n区也发生类似变化。并且随反向偏置电压的增加，耗尽层的厚度增加。从而，多数载流子扩散过PN结的势垒增大，PN结的电阻变大，宏观看二极管成为绝缘体。
+[PN_Junction_in_Reverse_Bias.png](https://zh.wikipedia.org/wiki/File:PN_Junction_in_Reverse_Bias.png "fig:PN_Junction_in_Reverse_Bias.png")
+
+若施加在N區的電壓高於P區的電壓，这种状态称为PN结**反向偏置**（reverse bias）。由于p区连接电源负极，多数载流子(空穴)被外电场拉向负极，因而[耗尽层变厚](https://zh.wikipedia.org/wiki/耗尽层 "wikilink")。n区也发生类似变化。并且随反向偏置电压的增加，耗尽层的厚度增加。从而，多数载流子扩散过PN结的势垒增大，PN结的电阻变大，宏观看二极管成为绝缘体。
 
 反向偏置时形成极其微弱的[漂移](../Page/漂移.md "wikilink")电流，電流由N區流向P區，并且这个电流不随反向电压的增大而变化，称为“**反向饱和电流**”（reverse saturation current）。这是因为反向电流是由少数载流子跨PN结形成的，因此其“饱和”值取决于少数载流子的掺杂密度。由于反向饱和电流很小，PN结处于截止状态，所以外加反向电压时，PN结相当于**断路**。
 
@@ -90,7 +92,9 @@ PN结的n区的电子向p区[扩散](https://zh.wikipedia.org/wiki/扩散 "wikil
 
 ### 伏安特性
 
-[P-n_junction_characteristics.svg](https://zh.wikipedia.org/wiki/File:P-n_junction_characteristics.svg "fig:P-n_junction_characteristics.svg") PN结的最大特性为单向导电性，反映到伏安特性曲线如右图。当正向电压达到一定值时，PN结将产生正向偏置，PN结被导通（图中蓝色部分）；当反向电压在一定范围内时，PN结产生微弱的反向饱和电流（图中绿色部分）；当反向电压超过一定值时，PN结被击穿（图中黄色部分）。
+[P-n_junction_characteristics.svg](https://zh.wikipedia.org/wiki/File:P-n_junction_characteristics.svg "fig:P-n_junction_characteristics.svg")
+
+PN结的最大特性为单向导电性，反映到伏安特性曲线如右图。当正向电压达到一定值时，PN结将产生正向偏置，PN结被导通（图中蓝色部分）；当反向电压在一定范围内时，PN结产生微弱的反向饱和电流（图中绿色部分）；当反向电压超过一定值时，PN结被击穿（图中黄色部分）。
 
 ### PN结的电容效应
 
@@ -100,7 +104,7 @@ PN结的n区的电子向p区[扩散](https://zh.wikipedia.org/wiki/扩散 "wikil
 
 #### 势垒电容
 
-当外加电压的时候，空间电荷区（也称为“耗尽层”）的宽度发生变化，将会引起其电荷量的变化。从而产生等效的电容效应，即“势垒电容”\(C_b\)。它与PN结面积、耗尽层宽度、半导体介电常数和外加电压都有关系。
+当外加电压的时候，“耗尽层”的厚度发生变化，将会引起其电荷量的变化。从而产生等效的电容效应，即“势垒电容”\(C_b\)。它与PN结面积、耗尽层宽度、半导体介电常数和外加电压都有关系。
 
 #### 扩散电容
 

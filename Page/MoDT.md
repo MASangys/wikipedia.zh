@@ -36,6 +36,6 @@ MoDT的应用优势是很明显的：
 ## 外部链接
 
   - [MoDT平台核心CPU构成](http://www.intel.com/cd/channel/reseller/asmo-na/eng/270518.htm)
-  - [Intel统一台式机笔记本CPU品牌是为了推进MoDT](http://news.ccidnet.com/art/1032/20060509/548021_1.html)
+  - [Intel统一台式机笔记本CPU品牌是为了推进MoDT](https://web.archive.org/web/20061028235937/http://news.ccidnet.com/art/1032/20060509/548021_1.html)
 
 [Category:微處理器](https://zh.wikipedia.org/wiki/Category:微處理器 "wikilink")

@@ -1,4 +1,4 @@
-**Salesforce.com**（Salesforce.com, Inc.）\[1\]是一个提供按需定制[客户关系管理](../Page/客户关系管理.md "wikilink")服务的網絡公司，總部位於美國[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")。
+**Salesforce.com**（Salesforce.com, Inc.）\[1\]是一個以提供個人化需求進行[客户关系管理](../Page/客户关系管理.md "wikilink")規劃和服務的網際網路企業，總部位於美國[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")。
 
 ## 历史
 

@@ -37,11 +37,7 @@
 [Category:自由基反应](https://zh.wikipedia.org/wiki/Category:自由基反应 "wikilink") [Category:重排反应](https://zh.wikipedia.org/wiki/Category:重排反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.  [Georg Wittig](https://zh.wikipedia.org/wiki/Georg_Wittig "wikilink"), L. Löhmann, Ann. 550, 260 (**1942**)
-
 2.  G. Wittig, Experientia 14, 389 (**1958**).
-
 3.  *Preparation of aryl benzyl ketones by \[1,2\]-Wittig rearrangement* Alan R. Katritzky, Yuming Zhang, Sandeep K. Singh [Arkivoc](https://zh.wikipedia.org/wiki/Arkivoc "wikilink") p. 146-150 **2002** (vii) [link](http://www.arkat-usa.org/ARKIVOC/JOURNAL_CONTENT/manuscripts/2002/SK-533EP%20as%20published%20mainmanuscript.pdf)
-
 4.  *Wittig Rearrangement of Lithiated Allyl Aryl Ethers: A Mechanistic Study* Sven Strunk, Manfred Schlosser [European Journal of Organic Chemistry](https://zh.wikipedia.org/wiki/European_Journal_of_Organic_Chemistry "wikilink") Volume **2006**, Issue 19 , Pages 4393 - 4397
-
 5.

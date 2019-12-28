@@ -127,6 +127,6 @@ BuLu</p></td>
 
   - [椰子罐頭3.0台灣官方網站 網際網路檔案館](https://web.archive.org/web/20070502062616/http://tw.cococan.gamania.com/index.asp)
   - [椰子罐頭香港官方網站 網際網路檔案館](https://web.archive.org/web/20080202071304/http://www.gamania.com.hk/cococan//)
-  - [椰子罐頭日本官方網站 網際網路檔案館](https://web.archive.org/web/20060412143201/http://www.gamania.co.jp:80/cococan/)
+  - [椰子罐頭日本官方網站 網際網路檔案館](https://web.archive.org/web/20060412143201/http://www.gamania.co.jp/cococan/)
 
 [Category:大型多人線上第三人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:大型多人線上第三人稱射擊遊戲 "wikilink") [Category:2001年电子游戏](https://zh.wikipedia.org/wiki/Category:2001年电子游戏 "wikilink")

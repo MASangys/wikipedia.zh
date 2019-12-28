@@ -14,7 +14,7 @@
 
   - 2000年 - 更名為“Alchemist株式会社”，在[千葉縣](../Page/千葉縣.md "wikilink")[浦安市](../Page/浦安市.md "wikilink")設立總部。
   - 2002年 - 參與《[你所期望的永遠](../Page/你所期望的永遠.md "wikilink")》的[DC版](../Page/Dreamcast.md "wikilink")[遊戲軟體的移植](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")、販賣。
-  - 2004年 - [和歌山縣](https://zh.wikipedia.org/wiki/和歌山縣 "wikilink")[日高郡](../Page/日高郡_\(和歌山縣\).md "wikilink")[南部川村](https://zh.wikipedia.org/wiki/南部川村 "wikilink")（現[南部町](https://zh.wikipedia.org/wiki/南部町_\(和歌山縣\) "wikilink")）森林協會的[吉祥物採用](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")「備長炭」。
+  - 2004年 - [和歌山縣](https://zh.wikipedia.org/wiki/和歌山縣 "wikilink")[日高郡](../Page/日高郡_\(和歌山縣\).md "wikilink")[南部川村](https://zh.wikipedia.org/wiki/南部川村 "wikilink")（現[南部町](../Page/南部町_\(和歌山縣\).md "wikilink")）森林協會的[吉祥物採用](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")「備長炭」。
   - 2006年 - 總部移到東京都江東區。
   - 2007年 - [網路小說網站](https://zh.wikipedia.org/wiki/網路小說 "wikilink")《[少年Alchemist](https://zh.wikipedia.org/wiki/少年Alchemist "wikilink")》啟用。
   - 2008年 - 參與[NDS第一部](https://zh.wikipedia.org/wiki/NDS "wikilink")《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")　絆　第1卷　祟》、[PSP第一部](https://zh.wikipedia.org/wiki/PSP "wikilink")《[寒蟬黎明](../Page/寒蟬黎明.md "wikilink") 攜帶版》（暫名）發表。

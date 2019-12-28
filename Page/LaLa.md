@@ -10,7 +10,7 @@
   - [絕不放過你](https://zh.wikipedia.org/wiki/絕不放過你 "wikilink")（[田中機械](../Page/田中機械.md "wikilink")）
   - [圖書館戰爭](../Page/圖書館戰爭.md "wikilink")LOVE\&WAR（[弓黃色](https://zh.wikipedia.org/wiki/弓黃色 "wikilink")，[原作：](https://zh.wikipedia.org/wiki/原作： "wikilink")[有川浩](../Page/有川浩.md "wikilink")）
   - [夏目友人帳](../Page/夏目友人帳.md "wikilink")（[绿川幸](https://zh.wikipedia.org/wiki/绿川幸 "wikilink")）
-  - [ヒノコ](https://zh.wikipedia.org/wiki/ヒノコ "wikilink")（[津田雅美](https://zh.wikipedia.org/wiki/津田雅美 "wikilink")）
+  - [ヒノコ](https://zh.wikipedia.org/wiki/ヒノコ "wikilink")（[津田雅美](../Page/津田雅美.md "wikilink")）
   - [水珠甜心男孩](https://zh.wikipedia.org/wiki/水珠甜心男孩 "wikilink")（[池ジュン子](https://zh.wikipedia.org/wiki/池ジュン子 "wikilink")）
   - [遊星の惡作劇](https://zh.wikipedia.org/wiki/遊星の惡作劇 "wikilink")（[吳由姬](https://zh.wikipedia.org/wiki/吳由姬 "wikilink")）
   - [小雪會墮入地獄嗎](https://zh.wikipedia.org/wiki/小雪會墮入地獄嗎 "wikilink")（[藤原飛呂](../Page/藤原飛呂.md "wikilink")）
@@ -39,7 +39,7 @@
 
   - [天國少女](https://zh.wikipedia.org/wiki/天國少女 "wikilink")（树夏实）
 
-  - [Eensy-Weensy小怪物](https://zh.wikipedia.org/wiki/Eensy-Weensy小怪物 "wikilink")（[津田雅美](https://zh.wikipedia.org/wiki/津田雅美 "wikilink")）
+  - [Eensy-Weensy小怪物](https://zh.wikipedia.org/wiki/Eensy-Weensy小怪物 "wikilink")（[津田雅美](../Page/津田雅美.md "wikilink")）
 
   - [他與她的事情](https://zh.wikipedia.org/wiki/他與她的事情 "wikilink")（津田雅美）
 

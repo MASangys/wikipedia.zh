@@ -92,7 +92,7 @@
 </tbody>
 </table>
 
-本遊戲在[台灣及](../Page/臺灣.md "wikilink")[香港](../Page/香港.md "wikilink")地區由[gamania遊戲橘子代理發行](../Page/遊戲橘子.md "wikilink")\[2\]，[中國大陸地區則由](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[世紀天成代理](https://zh.wikipedia.org/wiki/世紀天成 "wikilink")\[3\]。 另外，本游戏在歐美地區以《Counter-Strike Nexon:Zombies》的名称加入[Steam](../Page/Steam.md "wikilink"), 並由[Nexon Europe經營](https://zh.wikipedia.org/wiki/Nexon#歐洲 "wikilink")\[4\]。
+本遊戲在[台灣及](../Page/臺灣.md "wikilink")[香港](../Page/香港.md "wikilink")地區由[gamania遊戲橘子代理發行](../Page/遊戲橘子.md "wikilink")\[2\]，[中國大陸地區則由](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[世紀天成代理](https://zh.wikipedia.org/wiki/世紀天成 "wikilink")\[3\]。 另外，本游戏在歐美地區以《Counter-Strike Nexon:Studio》的名称加入[Steam](../Page/Steam.md "wikilink"), 並由[Nexon Europe經營](https://zh.wikipedia.org/wiki/Nexon#歐洲 "wikilink")\[4\]。
 
 ## 遊戲內容
 

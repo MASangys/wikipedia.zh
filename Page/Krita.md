@@ -141,7 +141,7 @@ Krita的原生文件格式是Krita Document，扩展名是.kra。它也可以打
 
 ### 吉祥物
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Krita_steam_boxart_Feb_2014.png "fig:缩略图") Krita的[吉祥物是电子松鼠Kiki](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")（Kiki the Cyber Squirrel），她是一位拟人化的机械[松鼠](../Page/松鼠.md "wikilink")卡通角色，设计者是来自中国的[钛山](https://zh.wikipedia.org/wiki/谭代山 "wikilink")（Tyson Tan）。Krita社区之所以选择了一只松鼠作为吉祥物，是因为在[阿尔巴尼亚语](../Page/阿尔巴尼亚语.md "wikilink")中Krita的意思是松鼠。Kiki的首版设计在2012年在KDE社区论坛上投稿，被印在Krita 2.6版的介绍小册子上。\[8\]自2.8版开始Kiki开始作为Krita的启动画面，\[9\]\[10\]迄今为止每个新版本的Krita都会有一个新的Kiki设计。Kiki的商品被放在Krita的筹款商店里出售，\[11\]Kiki的形象也被用在Krita的Steam项目里。\[12\]\[13\]
+[缩略图](https://zh.wikipedia.org/wiki/File:Krita_steam_boxart_Feb_2014.png "fig:缩略图") Krita的[吉祥物是电子松鼠Kiki](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")（Kiki the Cyber Squirrel），她是一位拟人化的机械[松鼠](../Page/松鼠.md "wikilink")卡通角色，设计者是来自中国的[钛山](../Page/谭代山.md "wikilink")（Tyson Tan）。Krita社区之所以选择了一只松鼠作为吉祥物，是因为在[阿尔巴尼亚语](../Page/阿尔巴尼亚语.md "wikilink")中Krita的意思是松鼠。Kiki的首版设计在2012年在KDE社区论坛上投稿，被印在Krita 2.6版的介绍小册子上。\[8\]自2.8版开始Kiki开始作为Krita的启动画面，\[9\]\[10\]迄今为止每个新版本的Krita都会有一个新的Kiki设计。Kiki的商品被放在Krita的筹款商店里出售，\[11\]Kiki的形象也被用在Krita的Steam项目里。\[12\]\[13\]
 
 ## Krita开发人员碰头会
 

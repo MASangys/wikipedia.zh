@@ -4,7 +4,7 @@
 
 ## 後端
 
-Cairo支持很多不同後端的输出，在实现中被称作“surface”。支持的后端包括[X Window系统](https://zh.wikipedia.org/wiki/X_Window "wikilink")、[Win32 GDI](https://zh.wikipedia.org/wiki/GDI "wikilink")、[Quartz Compositor](../Page/Quartz_Compositor.md "wikilink")、[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")，[OpenGL](../Page/OpenGL.md "wikilink")环境（直接或间接地通过[glitz](https://zh.wikipedia.org/wiki/glitz "wikilink")）、内存缓冲区、[PNG](../Page/PNG.md "wikilink")、[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")、[PostScript](../Page/PostScript.md "wikilink")、[DirectFB和](https://zh.wikipedia.org/wiki/DirectFB "wikilink")[SVG文件](https://zh.wikipedia.org/wiki/SVG "wikilink")。
+Cairo支持很多不同後端的输出，在实现中被称作“surface”。支持的后端包括[X Window系统](https://zh.wikipedia.org/wiki/X_Window "wikilink")、[Win32 GDI](https://zh.wikipedia.org/wiki/GDI "wikilink")、[Quartz Compositor](../Page/Quartz_Compositor.md "wikilink")、[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")，[OpenGL](../Page/OpenGL.md "wikilink")环境（直接或间接地通过[glitz](https://zh.wikipedia.org/wiki/glitz "wikilink")）、内存缓冲区、[PNG](../Page/PNG.md "wikilink")、[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")、[PostScript](../Page/PostScript.md "wikilink")、[DirectFB](../Page/DirectFB.md "wikilink")和[SVG文件](https://zh.wikipedia.org/wiki/SVG "wikilink")。
 
 还有一些开发中的后端如：[OpenVG](../Page/OpenVG.md "wikilink")，[Qt](../Page/Qt.md "wikilink")，[Skia和Windows](../Page/Skia_Graphics_Library.md "wikilink") [Direct2D](../Page/Direct2D.md "wikilink")。\[3\]
 

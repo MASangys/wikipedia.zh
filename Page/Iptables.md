@@ -148,6 +148,7 @@ iptables的重要功能之一是用于端口和/或地址的转换。如下示�
   - [Netlink](../Page/Netlink.md "wikilink")為Netfilter使用之API
   - [NuFW延伸到Netfilter之認證防火墻](https://zh.wikipedia.org/wiki/NuFW "wikilink")
   - [nftables为iptables的后继者](https://zh.wikipedia.org/wiki/nftables "wikilink")
+  - [firewalld](https://zh.wikipedia.org/wiki/firewalld "wikilink")
 
 ### 其它防火墻的解決方案
 

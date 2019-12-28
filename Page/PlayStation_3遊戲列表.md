@@ -5368,7 +5368,7 @@
 <tr class="odd">
 <td><p>小小大星球3</p></td>
 <td><p><em>LittleBigPlanet 3</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8591,7 +8591,7 @@
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Sega_Superstars_Tennis" title="wikilink">Sega Superstars Tennis</a></em>[700]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9075,7 +9075,7 @@
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Sonic_&amp;_Sega_All-Stars_Racing" title="wikilink">Sonic &amp; Sega All-Stars Racing</a></em>[741]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9086,7 +9086,7 @@
 <tr class="odd">
 <td></td>
 <td><p>''<a href="https://zh.wikipedia.org/wiki/Sonic_&amp;_All-Stars_Racing_Transformed" title="wikilink">Sonic &amp; All-Stars Racing Transformed</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10703,7 +10703,7 @@
 <tr class="even">
 <td><p>VR網球2009</p></td>
 <td><p><em>Virtua Tennis 2009</em>[874]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>

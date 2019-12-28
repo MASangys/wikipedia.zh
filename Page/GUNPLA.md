@@ -69,7 +69,7 @@ GUNPLA比例大致可分為：
 
 HGUC的特點在於重視收藏性，因此機體設定者以[角木肇](../Page/角木肇.md "wikilink")氏來擔當，並將比例統一為1/144，一般價格在1000～1800日圓。但是擁有特別設定，使得價格跳脫此範圍的機體亦不乏存在。
 
-  - 28厘米的[-{zh-hk:重高達;zh-tw:精神感應鋼彈;}-](https://zh.wikipedia.org/wiki/サイコガンダム "wikilink")\[[https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%82%B3%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0\]的定價為5250圓](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%82%B3%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%5D的定價為5250圓)。
+  - 28厘米的[-{zh-hans:精神感应高达;zh-hk:重高達;zh-tw:精神感應鋼彈}-](https://zh.wikipedia.org/wiki/サイコガンダム "wikilink")\[[https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%82%B3%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0\]的定價為5250圓](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%82%B3%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%5D的定價為5250圓)。
   - 從兩肩計起，最大高度86cm的[新吉翁克之含稅定價為](https://zh.wikipedia.org/wiki/新吉翁克 "wikilink")27000圓，是目前為止尺寸最大的GUNPLA。
   - 全長達到1公尺長之[GUNDAM試作3號機Dendrobium之含稅定價為](https://zh.wikipedia.org/wiki/GUNDAM開發計劃#RX-78GP03_"Dendrobium" "wikilink")29400圓，同時也是目前為止HGUC系列中售價最高之GUNPLA。
 
@@ -109,7 +109,7 @@ MG第100號[∀ Gundam](https://zh.wikipedia.org/wiki/∀鋼彈 "wikilink")，�
 
 ### REBORN-ONE HUNDRED（RE 1/100）
 
-一些劍走偏鋒的機體，籍此新系列而重現在高達迷面前。她的定位是介乎 HG 與 MG 之間。取消了 MG 系列所標榜的骨架，以簡易的 HG 裝組方式成形，全系列正如其名稱一樣以 1/100 的比例，讓初學者亦能像裝組 HG 般簡單及容易上手。
+一些劍走偏鋒的機體，藉此新系列而重現在高達迷面前。她的定位是介乎 HG 與 MG 之間。取消了 MG 系列所標榜的骨架，以簡易的 HG 裝組方式成形，全系列正如其名稱一樣以 1/100 的比例，讓初學者亦能像裝組 HG 般簡單及容易上手。
 
 第一隻：MSN-04II 夜鶯，已於2014年9月上市。
 
@@ -203,7 +203,7 @@ PG對象年齡在15歲之上，定價為12000圓以上。雖然有著精密的�
 
 ### Hi-Resolution Model（HiRM）
 
-以預先裝組的金屬骨架，配合特殊塗層及隱藏湯口處理技術而製作的高階模型系列。BANDAI 推出此種免除工場併組，改由閣下自由併裝而質素直逼 MB 的新系列。暫時 HiRM 系列只推出了1/100的獵魔鋼彈，於2016年4月上市、1/100飛翼鋼彈零式EW，於2014年9月上市。
+以預先裝組的金屬骨架，配合特殊塗層及隱藏湯口處理技術而製作的高階模型系列。BANDAI 推出此種免除工場併組，改由閣下自由拼裝而品質直逼 MB 的新系列。暫時 HiRM 系列只推出了1/100的獵魔鋼彈，於2016年4月上市、1/100飛翼鋼彈零式EW，於2014年9月上市。
 
 ### HYPER HYBRID MODEL ( HY2M 系列)
 

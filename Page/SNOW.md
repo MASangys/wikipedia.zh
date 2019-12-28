@@ -103,7 +103,7 @@
 
 ## 其他
 
-和本作品舞台同名的「龍神村」真實存在於[和歌山縣](https://zh.wikipedia.org/wiki/和歌山縣 "wikilink")（現在是[田邊市的一部分](https://zh.wikipedia.org/wiki/田邊市 "wikilink")），不過製作時則參考了[京都府美山町](https://zh.wikipedia.org/wiki/京都府 "wikilink")（現在為[南丹市](../Page/南丹市.md "wikilink")的一部分）。
+和本作品舞台同名的「龍神村」真實存在於[和歌山縣](https://zh.wikipedia.org/wiki/和歌山縣 "wikilink")（現在是[田邊市](../Page/田邊市.md "wikilink")的一部分），不過製作時則參考了[京都府美山町](https://zh.wikipedia.org/wiki/京都府 "wikilink")（現在為[南丹市](../Page/南丹市.md "wikilink")的一部分）。
 
 ## 影響
 
@@ -120,31 +120,18 @@
 [Category:2003年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2003年日本成人遊戲 "wikilink") [Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:東由希](https://zh.wikipedia.org/wiki/Category:東由希 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
 14.
-
 15.
-
 16.

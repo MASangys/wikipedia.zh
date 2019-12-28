@@ -38,6 +38,8 @@
   - [Autodesk Sponsorship of CGSociety Challenges](http://features.cgsociety.org/challenge/)
   - [Autodesk Middle East Training Centre](https://archive.is/20150228180029/http://www.cgpark.com.tr/cgpark/mayakursu.html)
 
+[Category:標準普爾500指數成分股](https://zh.wikipedia.org/wiki/Category:標準普爾500指數成分股 "wikilink")
+
 [Category:1982年成立的公司](https://zh.wikipedia.org/wiki/Category:1982年成立的公司 "wikilink") [Category:Autodesk](https://zh.wikipedia.org/wiki/Category:Autodesk "wikilink") [Category:美國軟體公司](https://zh.wikipedia.org/wiki/Category:美國軟體公司 "wikilink") [Category:加利福尼亞州公司](https://zh.wikipedia.org/wiki/Category:加利福尼亞州公司 "wikilink")
 
 1.

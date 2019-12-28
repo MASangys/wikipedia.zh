@@ -1,6 +1,6 @@
 {{ mergeto |書呆子}} {{ mergefrom |书呆子}} **Nerd**通常被翻譯成**怪胎**、**怪咖**，是[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[俚语中一个稍含贬义的用语](https://zh.wikipedia.org/wiki/俚语 "wikilink")，一般指偏爱钻研书本知识，将大量闲暇用于脑力工作，对流行文化不感兴趣，而不愿或不善于体育活动或其他社会活动的人。在美国中学和大学文化中则通指那些专心一致刻苦学习，不会和人交往又行为举止尴尬的学生。在華人圈內類似的概念是“[书呆子](https://zh.wikipedia.org/wiki/书呆子 "wikilink")”或“[书虫](https://zh.wikipedia.org/wiki/书虫 "wikilink")”。在美国大部分学校，這樣的人依然顯著地被排擠，他们不会和人交往，经常做出尴尬的事情。
 
-Nerd在[美式英语中相对的词语是](https://zh.wikipedia.org/wiki/美式英语 "wikilink")**Jock**，指擅长体育、四肢发达、自信且熱愛泡妞的人。
+Nerd在[美式英语中相对的词语是](https://zh.wikipedia.org/wiki/美式英语 "wikilink")**Jock**（jockstrap的简称，也就是[运动员用来保护裆部的加垫内裤](https://zh.wikipedia.org/wiki/运动员 "wikilink")），指擅长体育、四肢发达、自信且熱愛泡妞的人。
 
 注意，nerd不是说学习好的就被称为nerd，而是学习好的但是没有社会技能才被称为nerd。
 

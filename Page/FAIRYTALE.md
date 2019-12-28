@@ -159,7 +159,7 @@ X指定 () 為依照1991年時的[美國成人限定基準](https://zh.wikipedia
 ## 外部連結
 
   - [F\&C](http://fandc.co.jp/)
-  - [RED-ZON](http://rzone.jp/main.html)
+  - [RED-ZON](https://web.archive.org/web/20090501222237/http://rzone.jp/main.html)
   - [Carrot Island](https://web.archive.org/web/20090415165746/http://www.icardpark.com/island/)
 
 [Category:F\&C](https://zh.wikipedia.org/wiki/Category:F&C "wikilink")

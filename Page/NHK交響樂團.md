@@ -35,7 +35,7 @@
 ## 外部連結
 
   - [NHK交響樂團官方網站](http://www.nhkso.or.jp/)
-  - [NHK交响乐团|指挥](https://www.nhkso.or.jp/about/conductors.php/)
+  - [NHK交响乐团|指挥](https://web.archive.org/web/20170417070737/https://www.nhkso.or.jp/about/conductors.php/)
   - [N響アワー](https://web.archive.org/web/20070303085936/http://www.nhk.or.jp/nkyouhour/)（NHK）
   - [BSシンフォニー アワー](https://web.archive.org/web/20081022105449/http://www.nhk.or.jp/nkyouhour/nso/index.html)（NHK）
 

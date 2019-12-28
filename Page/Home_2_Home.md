@@ -38,6 +38,6 @@ Home 2 Home 首間精品酒店在2002年開業，位處[香港](../Page/香港.m
 
 ## 外部參考
 
-  - [Home 2 Home 官方網](http://www.home2home.hk/index.html)
+  - [Home 2 Home 官方網](https://web.archive.org/web/20090210144315/http://home2home.hk/index.html)
 
 [Category:香港酒店連鎖集團](https://zh.wikipedia.org/wiki/Category:香港酒店連鎖集團 "wikilink")

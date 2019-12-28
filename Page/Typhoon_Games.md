@@ -40,7 +40,7 @@
   - [雙星物語2 PLUS繁体中文版](https://zh.wikipedia.org/wiki/雙星物語2 "wikilink")
   - [新天魔界‧渾沌慾望繁体中文版](https://zh.wikipedia.org/wiki/新天魔界‧渾沌慾望 "wikilink")
   - [古剑奇谭繁体中文版](https://zh.wikipedia.org/wiki/古剑奇谭 "wikilink")
-  - [伊蘇7繁体中文版](https://zh.wikipedia.org/wiki/伊蘇7 "wikilink")
+  - [伊蘇7](../Page/伊蘇7.md "wikilink")繁体中文版
   - [Pro Evolution Soccer 2009 PC](https://zh.wikipedia.org/wiki/Pro_Evolution_Soccer_2009_PC "wikilink")
   - [Pro Evolution Soccer 2010 PC](https://zh.wikipedia.org/wiki/Pro_Evolution_Soccer_2010_PC "wikilink")
   - [Pro Evolution Soccer 2011 PC](https://zh.wikipedia.org/wiki/Pro_Evolution_Soccer_2011_PC "wikilink")

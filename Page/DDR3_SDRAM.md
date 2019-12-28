@@ -34,7 +34,7 @@ CWD是作為寫入延遲之用，Reset提供超省電功能的命令，可以讓
 <td><p>傳輸方式</p></td>
 <td><p>模組名稱</p></td>
 <td><p>極限傳輸率<br />
-<small>(<a href="https://zh.wikipedia.org/wiki/GiB" title="wikilink">GiB</a>/s)</small></p></td>
+<small>(<a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a>/s)</small></p></td>
 <td><p>位元寬<br />
 <small>(<a href="../Page/位元.md" title="wikilink">位元</a>)</small></p></td>
 </tr>

@@ -1,9 +1,7 @@
 //define buttons　定義按鈕與下拉菜單 addEditButton("btnInterLink",{
 
 `   src        : "c/c0/Button_link.png",`
-`   tagOpen    : "`[`",``   ``sampleText``   ``:``   ``"链接标题",``
- ``tagClose``   ``:``
- ``"`](../Page/",_sampleText_:_"链接标题",_tagClose_:_".md "wikilink")`",`
+`   tagOpen    : "`[`",``   ``sampleText``   ``:``   ``"链接标题",``   ``tagClose``   ``:``   ``"`](https://zh.wikipedia.org/wiki/",_sampleText_:_"链接标题",_tagClose_:_" "wikilink")`",`
 `   speedTip   : wgULS("内部链接","內部連結")`
 
 }); addEditButton("btnInterHashLink",{
@@ -39,9 +37,7 @@
 }); addEditButton("btnRedirect",{
 
 `   src        : "4/47/Button_redir.png",`
-`   tagOpen    : "#REDIRECT `[`",``   ``sampleText``   ``:``
- ``wgULS("目标条目名","目標條目名"),``   ``tagClose``   ``:``
- ``"`](../Page/",_sampleText_:_wgULS\("目标条目名","目標條目名"\),_tagClose_:_".md "wikilink")`",`
+`   tagOpen    : "#REDIRECT `[`",``   ``sampleText``   ``:``   ``wgULS("目标条目名","目標條目名"),``   ``tagClose``   ``:``   ``"`](https://zh.wikipedia.org/wiki/",_sampleText_:_wgULS\("目标条目名","目標條目名"\),_tagClose_:_" "wikilink")`",`
 `   speedTip   : "重定向"`
 
 }); addEditButton("btnImage",{
@@ -244,9 +240,7 @@ addDropdownMenu("articleEdit",wgULS("条目编辑","條目編輯"),\[
 `   { `
 `       id         : "seealso",`
 `       text       : wgULS("参见章节","參見章節"),`
-`       tagOpen    : "\n==参见==\n* `[`"``   ``,``   ``sampleText``
- ``:``   ``"参见地址"``   ``,``   ``tagClose``   ``:``
- ``"`](../Page/"_,_sampleText_:_"参见地址"_,_tagClose_:_".md "wikilink")`\n"`
+`       tagOpen    : "\n==参见==\n* `[`"``   ``,``   ``sampleText``   ``:``   ``"参见地址"``   ``,``   ``tagClose``   ``:``   ``"`](https://zh.wikipedia.org/wiki/"_,_sampleText_:_"参见地址"_,_tagClose_:_" "wikilink")`\n"`
 `   },`
 `   { `
 `       id         : "stub",`
@@ -259,7 +253,7 @@ addDropdownMenu("articleEdit",wgULS("条目编辑","條目編輯"),\[
 `       id         : "Disambig",`
 `       text       : wgULS("消歧义","消歧義"),`
 `       tagOpen    : "\n`**`'可以指：\n" ,`
-`       sampleText : "* `[`歧义1`](../Page/歧义1.md "wikilink")`，描述1\n* `[`歧义2`](../Page/歧义2.md "wikilink")`，描述2" ,`
+`       sampleText : "* `[`歧义1`](https://zh.wikipedia.org/wiki/歧义1 "wikilink")`，描述1\n* `[`歧义2`](https://zh.wikipedia.org/wiki/歧义2 "wikilink")`，描述2" ,`
 `       tagClose   : "\n{\{disambig}\}"`
 `   },`
 `   { `

@@ -1,4 +1,4 @@
-**wikiHow**是一个基于wiki的社区，网站有一个关于“怎么做”文章的外延数据库。 网站的所有内容的授权方式遵守[知识共享](../Page/知识共享.md "wikilink")（署名-非商业性使用-相同方式共享），网站使用一个经过修改的[MediaWiki](../Page/MediaWiki.md "wikilink") 1.12版本\[1\]。网站开始是作为已存在的[eHow网站的一个扩展](https://zh.wikipedia.org/wiki/eHow "wikilink")，如今已拥有56,000篇“怎么做”的文章。wikiHow致力于创建世界上最大的和顶级的“怎么做”指南\[2\]。2009年3月，wikiHow已拥有1千6百万读者。\[3\]
+**wikiHow**是一个基于wiki的社区，网站有一个关于“怎么做”文章的外延数据库。 网站的所有内容的授权方式遵守[知识共享](../Page/知识共享.md "wikilink")（署名-非商业性使用-相同方式共享），网站使用一个经过修改的[MediaWiki](https://zh.wikipedia.org/wiki/MediaWiki "wikilink") 1.12版本\[1\]。网站开始是作为已存在的[eHow网站的一个扩展](https://zh.wikipedia.org/wiki/eHow "wikilink")，如今已拥有56,000篇“怎么做”的文章。wikiHow致力于创建世界上最大的和顶级的“怎么做”指南\[2\]。2009年3月，wikiHow已拥有1千6百万读者。\[3\]
 
 ## 网站历史
 
@@ -50,24 +50,14 @@ WikiHow是少数允许读者选择是否显示广告的网站之一。透過点�
 [Category:Wiki社群](https://zh.wikipedia.org/wiki/Category:Wiki社群 "wikilink") [Category:MediaWiki網站](https://zh.wikipedia.org/wiki/Category:MediaWiki網站 "wikilink") [Category:解释作法网站](https://zh.wikipedia.org/wiki/Category:解释作法网站 "wikilink") [Category:多語言網站](https://zh.wikipedia.org/wiki/Category:多語言網站 "wikilink") [Category:帕羅奧圖公司](https://zh.wikipedia.org/wiki/Category:帕羅奧圖公司 "wikilink")
 
 1.
-
 2.  [About wikiHow](http://www.wikihow.com/About-wikiHow)
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.  [wikiHow:Hybrid Organization - wikiHow](http://www.wikihow.com/WikiHow:Is-wikiHow-a-Non-Profit)
-
 9.  [wikiHow:Why Hide Ads - wikiHow](http://www.wikihow.com/wikiHow:Why-Hide-Ads).
-
 10.
-
 11.
-
 12.

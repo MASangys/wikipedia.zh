@@ -8,9 +8,9 @@
 
 Yaoi作品主要採行[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[繪畫](https://zh.wikipedia.org/wiki/繪畫 "wikilink")、[小說等形態](https://zh.wikipedia.org/wiki/小說 "wikilink")。由於角色喜好與人際關係的差異，一部作品會產生出五花八門的[配對組合](../Page/配對_\(同人\).md "wikilink")。配對的表示方式可參考[配對和](../Page/配對_\(同人\).md "wikilink")[BL條目](https://zh.wikipedia.org/wiki/BL "wikilink")。
 
-雖然Yaoi大部分描寫的是[虛構角色之間的戀愛](https://zh.wikipedia.org/wiki/虛構角色 "wikilink")，不過也有人以真實人物（男性[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")、[運動員](https://zh.wikipedia.org/wiki/運動員 "wikilink")、[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")、[搞笑藝人等](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")）作為角色來使用，通稱為「真人同人」。但因為被當事人與關係者見到可能會引發糾紛，這種作法通常是敬謝不敏。
+雖然Yaoi大部分描寫的是[虛構角色之間的戀愛](https://zh.wikipedia.org/wiki/虛構角色 "wikilink")，不過也有人以真實人物（男性[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")、[運動員](https://zh.wikipedia.org/wiki/運動員 "wikilink")、[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")、[搞笑藝人](../Page/搞笑藝人.md "wikilink")等）作為角色來使用，通稱為「真人同人」。但因為被當事人與關係者見到可能會引發糾紛，這種作法通常是敬謝不敏。
 
-此外，Yaoi也被批評是揶揄與侮辱[Gay與同性戀](../Page/男同性戀.md "wikilink")，侵害到[LGBT](../Page/LGBT.md "wikilink")的[人權](https://zh.wikipedia.org/wiki/人權 "wikilink")。另外採用實際人物的虛構性愛關係，以及包含強暴等以未成年者為對象的性描寫，在法律和道德方面上可能產生問題。在尊重[言論自由](../Page/言論自由.md "wikilink")的同時，[性騷擾](https://zh.wikipedia.org/wiki/性騷擾 "wikilink")、[差别用语](https://zh.wikipedia.org/wiki/差别用语 "wikilink")、[仇恨言論等問題也被提出作為抨擊的議題](https://zh.wikipedia.org/wiki/仇恨言論 "wikilink")。
+此外，Yaoi也被批評是揶揄與侮辱[Gay與同性戀](../Page/男同性戀.md "wikilink")，侵害到[LGBT](../Page/LGBT.md "wikilink")的[人權](https://zh.wikipedia.org/wiki/人權 "wikilink")。另外採用實際人物的虛構性愛關係，以及包含強暴等以未成年者為對象的性描寫，在法律和道德方面上可能產生問題。在尊重[言論自由](../Page/言論自由.md "wikilink")的同時，[性騷擾](https://zh.wikipedia.org/wiki/性騷擾 "wikilink")、[差别用语](https://zh.wikipedia.org/wiki/差别用语 "wikilink")、[仇恨言論](../Page/仇恨言論.md "wikilink")等問題也被提出作為抨擊的議題。
 
 ## 由來
 

@@ -17,7 +17,7 @@
 
   - 全套176張Cracker Jack開盒附贈的棒球卡現今在美國收藏市場上價值80萬[美元](../Page/美元.md "wikilink")\[4\]
   - 7月5日是Cracker Jack日。
-  - 2004年美國[紐約洋基](../Page/紐約洋基.md "wikilink")隊在主場捨棄Cracker Jack，改以類似的食品Crunch 'n Munch販賣給球賽觀眾，可是引起球迷們的嘩然，後來又恢復販售Cracker Jack。這事件代表Cracker Jack儼然成為棒球賽的象徵，在棒球迷心中無可取代。
+  - 2004年美國[紐約洋基](../Page/紐約洋基.md "wikilink")隊在主場捨棄Cracker Jack，改以類似的食品Crunch 'n Munch販賣給球賽觀眾，引起球迷們的嘩然，後來又恢復販售Cracker Jack。
 
 ## 註釋與參考資料
 

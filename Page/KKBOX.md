@@ -1,4 +1,4 @@
-**KKBOX**是由日本[KDDI](../Page/KDDI.md "wikilink")旗下的KKBOX公司\[1\]提供之線上[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")[串流服務](https://zh.wikipedia.org/wiki/串流 "wikilink")，2005年10月率先在臺灣推出後，陸續於香港、澳門、新加坡、馬來西亞、日本及泰國等地開放服務，後於2016年退出泰國市場。
+**KKBOX**是源自[臺灣](../Page/臺灣.md "wikilink")的[線上](https://zh.wikipedia.org/wiki/線上 "wikilink")[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")[串流](../Page/流媒体.md "wikilink")，2005年10月率先在臺灣推出後，陸續於香港、澳門、新加坡、馬來西亞、日本及泰國等地開放服務，後於2016年退出泰國市場。目前由[日本](../Page/日本.md "wikilink")[KDDI](../Page/KDDI.md "wikilink")做為最大股東的KKBOX公司經營\[1\]。
 
 ## 概要
 
@@ -93,6 +93,7 @@ KKBOX曾經發生數位音樂使用著作權爭議事件，由於傳統唱片市
   - [KKBOX數位音樂風雲榜](https://zh.wikipedia.org/wiki/KKBOX數位音樂風雲榜 "wikilink")
   - [KKBOX西洋人氣排行榜](https://zh.wikipedia.org/wiki/KKBOX西洋人氣排行榜 "wikilink")
   - [KKTV](../Page/KKTV.md "wikilink")
+  - [KKTIX](../Page/KKTIX.md "wikilink")
 
 ## 外部連結
 

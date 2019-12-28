@@ -1,50 +1,50 @@
-**大区快铁B线**（），简称RER B, 是[法兰西岛](https://zh.wikipedia.org/wiki/法兰西岛 "wikilink")[大区快铁的一条贯通](https://zh.wikipedia.org/wiki/大区快铁 "wikilink")[巴黎](../Page/巴黎.md "wikilink")市郊南北走向的线路, 具有多个支線. 该线路连接东北部[夏尔·戴高乐国际机场的](https://zh.wikipedia.org/wiki/夏尔·戴高乐国际机场 "wikilink")[二号航站楼高速列车站](https://zh.wikipedia.org/wiki/二号航站楼高速列车站 "wikilink") (B3支線) 和[米提-克莱](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink") (Mitry - Claye, B5支線), 以及南部的[罗班松](https://zh.wikipedia.org/wiki/罗班松 "wikilink") (Robinson, B2支線) 和[圣雷米累舍夫勒斯](https://zh.wikipedia.org/wiki/圣雷米累舍夫勒斯 "wikilink") (Saint-Rémy-lès-Chevreuse, B4支線), 通过巴黎市中心.
+**大区快铁B线**（），简称RER B, 是[法兰西岛](https://zh.wikipedia.org/wiki/法兰西岛 "wikilink")[大区快铁的一条贯通](https://zh.wikipedia.org/wiki/大区快铁 "wikilink")[巴黎](../Page/巴黎.md "wikilink")市郊南北走向的线路, 具有多个支線. 该线路连接东北部[夏尔·戴高乐国际机场的](https://zh.wikipedia.org/wiki/夏尔·戴高乐国际机场 "wikilink")[二号航站楼高速列车站](https://zh.wikipedia.org/wiki/二号航站楼高速列车站 "wikilink") (B3支線) 和[米特里-克莱站](../Page/米特里-克莱站.md "wikilink") (Mitry - Claye, B5支線), 以及南部的[罗班松站](../Page/罗班松站.md "wikilink") (Robinson, B2支線) 和[圣雷米-莱谢夫勒斯站](../Page/圣雷米-莱谢夫勒斯站.md "wikilink") (Saint-Rémy-lès-Chevreuse, B4支線), 通过巴黎市中心.
 
 B线南部 ([巴黎北站](../Page/巴黎北站.md "wikilink")以南) 由[巴黎大众运输公司](https://zh.wikipedia.org/wiki/巴黎大众运输公司 "wikilink") (RATP) 运营, 北段由[法国国家铁路公司](https://zh.wikipedia.org/wiki/法国国家铁路公司 "wikilink") (SNCF) 运营. 列车由两家公司共同拥有. 当前, B线的客流量在各条快铁线中位列次席, 仅次于[A线](https://zh.wikipedia.org/wiki/大区快铁A线 "wikilink").
 
 ## 历史
 
-B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北郊的[机场线](https://zh.wikipedia.org/wiki/机场线 "wikilink") (Ligne de Roissy) 和 (Ligne La Plaine - Hirson) 的一部分. 后因RATP修建区域快铁, 将国玺线向北延伸, 在1977年成为快铁B线投入使用, 1983年南北互通完成, 机场线和平原-伊尔松线最南段被并入B线.
+B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北郊的[机场线](https://zh.wikipedia.org/wiki/机场线 "wikilink") (Ligne de Roissy) 和 (Ligne La Plaine - Hirson) 的一部分. 后因RATP修建区域快铁, 将索镇线向北延伸, 在1977年成为快铁B线投入使用, 1983年南北互通完成, 机场线和平原-伊尔松线最南段被并入B线.
 
-### 国玺线
+### 索镇线
 
 [PARIS_-_Le_Chemin_de_fer_de_Sceaux_-Gare_Sceaux_Ceinture-.JPG](https://zh.wikipedia.org/wiki/File:PARIS_-_Le_Chemin_de_fer_de_Sceaux_-Gare_Sceaux_Ceinture-.JPG "fig:PARIS_-_Le_Chemin_de_fer_de_Sceaux_-Gare_Sceaux_Ceinture-.JPG")
 
-国玺线是19世纪中叶至20世纪70年代之间连接巴黎和巴黎南郊的一条铁路, 经过多次延伸, 最终被选择作为区域快铁南北线的南半部.
+索镇线是19世纪中叶至20世纪70年代之间连接巴黎和巴黎南郊的一条铁路, 经过多次延伸, 最终被选择作为区域快铁南北线的南半部.
 
-1846年, 自法兰西岛[埃松省](../Page/埃松省.md "wikilink")[国玺](https://zh.wikipedia.org/wiki/国玺 "wikilink") (Sceaux) 往[丹佛罗什洛](https://zh.wikipedia.org/wiki/丹佛罗什洛 "wikilink") (Denfert-Rochereau) 的国玺线开通并投入使用，在当时由 (Compagnie du Chemin de fer de Paris à Orléans) 经营。并且采用了当时最新的技术--, 用于列车之间的铰接.
+1846年, 自法兰西岛[埃松省](../Page/埃松省.md "wikilink")[索镇站](../Page/索镇站.md "wikilink") (Sceaux) 往[当费尔-罗什罗站](../Page/当费尔-罗什罗站.md "wikilink") (Denfert-Rochereau) 的索镇线开通并投入使用，在当时由 (Compagnie du Chemin de fer de Paris à Orléans) 经营。并且采用了当时最新的技术--, 用于列车之间的铰接.
 
-国玺线开通后, 由于只能在晴天吸引人们前往旅游, 其余时刻客流量相当低, 故财政上一直入不敷出. 为了改善运营状况, 兼方便南部郊区的物资快运, 线路在[皇后镇](https://zh.wikipedia.org/wiki/皇后镇 "wikilink") (Bourg-la-Reine) 另开一条支線，向南延伸至[帕莱索](../Page/帕莱索.md "wikilink") (Palaiseau), 之后又延伸至[奥赛](https://zh.wikipedia.org/wiki/奥赛 "wikilink") (Orsay - Ville)，至今，奥赛在高峰时段作为一个节点存在。相关工程在1854年完工并对公众开放. 1867年, 南部支線又自奥赛经[圣雷米通过单轨铁路延长至](https://zh.wikipedia.org/wiki/圣雷米 "wikilink") (Limours).
+索镇线开通后, 由于只能在晴天吸引人们前往旅游, 其余时刻客流量相当低, 故财政上一直入不敷出. 为了改善运营状况, 兼方便南部郊区的物资快运, 线路在[皇后镇](https://zh.wikipedia.org/wiki/皇后镇 "wikilink") (Bourg-la-Reine) 另开一条支線，向南延伸至[帕莱索](../Page/帕莱索.md "wikilink") (Palaiseau), 之后又延伸至[奥赛](https://zh.wikipedia.org/wiki/奥赛 "wikilink") (Orsay - Ville)，至今，奥赛在高峰时段作为一个节点存在。相关工程在1854年完工并对公众开放. 1867年, 南部支線又自奥赛经[圣雷米-莱谢夫勒斯通过单轨铁路延长至](https://zh.wikipedia.org/wiki/圣雷米-莱谢夫勒斯 "wikilink") (Limours).
 
 [Paris_-_RER_B_Luxembourg_01.jpg](https://zh.wikipedia.org/wiki/File:Paris_-_RER_B_Luxembourg_01.jpg "fig:Paris_-_RER_B_Luxembourg_01.jpg")
 
-1893年, 线路西南支線由国玺延长至[罗班松](https://zh.wikipedia.org/wiki/罗班松 "wikilink"), 原有的铁轨被重置. 而后的1895年, 国玺线线路北端由丹佛延长至[卢森堡](../Page/卢森堡.md "wikilink") (Luxembourg)。至此国玺线基本成型.
+1893年, 线路西南支線由索镇延长至[罗班松](https://zh.wikipedia.org/wiki/罗班松 "wikilink"), 原有的铁轨被重置. 而后的1895年, 索镇线线路北端由当费尔延长至[卢森堡](../Page/卢森堡.md "wikilink") (Luxembourg)。至此索镇线基本成型.
 
-1930年代, 区域快铁的计划被首次提起, 由于当时国玺线使用蒸汽机车, 通过巴黎地下隧道 (大区快铁的构想之一) 会带来污染问题, 另兼之前世界经济危机的影响, 国玺线被迫停运, 奥尔良铁路公司亦陷入困境, 只有线路电气化才可以解决当前的矛盾. 经过1931年的两次协议, 1932年4月10日通过法案, 奥尔良铁路公司将国玺线的经营权交付兼营[巴黎地铁的](https://zh.wikipedia.org/wiki/巴黎地铁 "wikilink") (Compagnie du Chemin de fer métropolitain de Paris, CMP). 1938年, 并购正式完成, CMP对国玺线进行了电气化改造, 使用1500伏直流电, 此外还增高了月台高度, 拆除平交道口, 启用新车站, 新信号系统, 新列车, 和4位数的列车班次编码系统. 一年内, 客流量就从800万飙升至1700万. 但此次改造过后, 圣雷米到利慕尔之间的铁路被弃用.
+1930年代, 区域快铁的计划被首次提起, 由于当时索镇线使用蒸汽机车, 通过巴黎地下隧道 (大区快铁的构想之一) 会带来污染问题, 另兼之前世界经济危机的影响, 索镇线被迫停运, 奥尔良铁路公司亦陷入困境, 只有线路电气化才可以解决当前的矛盾. 经过1931年的两次协议, 1932年4月10日通过法案, 奥尔良铁路公司将索镇线的经营权交付兼营[巴黎地铁的](https://zh.wikipedia.org/wiki/巴黎地铁 "wikilink") (Compagnie du Chemin de fer métropolitain de Paris, CMP). 1938年, 并购正式完成, CMP对索镇线进行了电气化改造, 使用1500伏直流电, 此外还增高了月台高度, 拆除平交道口, 启用新车站, 新信号系统, 新列车, 和4位数的列车班次编码系统. 一年内, 客流量就从800万飙升至1700万. 但此次改造过后, 圣雷米到利慕尔之间的铁路被弃用.
 
-当时国玺线连接卢森堡和圣雷米/罗班松, 而巴黎北郊亦有一条铁路, 即平原-伊尔松线与之相对应: 1863年, [巴黎北站](../Page/巴黎北站.md "wikilink")到[塞夫朗利夫里](https://zh.wikipedia.org/wiki/塞夫朗利夫里 "wikilink") (Sevran - Livry) 的线路启用。1890年, 线路延长至[米提及其东北部地段](https://zh.wikipedia.org/wiki/米提 "wikilink")。
+当时索镇线连接卢森堡和圣雷米/罗班松, 而巴黎北郊亦有一条铁路, 即平原-伊尔松线与之相对应: 1863年, [巴黎北站](../Page/巴黎北站.md "wikilink")到[塞夫朗-利夫里站](../Page/塞夫朗-利夫里站.md "wikilink") (Sevran - Livry) 的线路启用。1890年, 线路延长至[米特里-莫里及其东北部地段](https://zh.wikipedia.org/wiki/米特里-莫里 "wikilink")。
 
-1930年代末, 平原-伊尔松线由国家铁路运营，国玺线由CMP运营, 两条线路相对独立。CMP此时开始计划要把国玺线和平原-伊尔松线合并成区域快铁路网, 但[二战爆发使得该计划被搁置](../Page/第二次世界大战.md "wikilink"). 因此, 战后国玺线仍然继续运行, 直至1970年代开通区域快铁.
+1930年代末, 平原-伊尔松线由国家铁路运营，索镇线由CMP运营, 两条线路相对独立。CMP此时开始计划要把索镇线和平原-伊尔松线合并成区域快铁路网, 但[二战爆发使得该计划被搁置](../Page/第二次世界大战.md "wikilink"). 因此, 战后索镇线仍然继续运行, 直至1970年代开通区域快铁.
 
 ### 建造大区快铁
 
-1949年, 巴黎城铁公司和 (Société des transports en commun de la région parisienne) 合并，成立巴黎大众运输公司。大众运输公司当时兼营地铁和国玺线.
+1949年, 巴黎城铁公司和 (Société des transports en commun de la région parisienne) 合并，成立巴黎大众运输公司。大众运输公司当时兼营地铁和索镇线.
 
 [Chatelet-Les-Halles_aCRW_1557.jpg](https://zh.wikipedia.org/wiki/File:Chatelet-Les-Halles_aCRW_1557.jpg "fig:Chatelet-Les-Halles_aCRW_1557.jpg")
 
-战后, 随着经济的恢复, 修建大区快铁重新被提上议事日程. 1965年, 关于修建大区快铁的方案经过讨论, 当时 (SDRIF) 并不希望合并平原-伊尔松线和国玺线作为大区快铁的一个子方案, 而偏好新修连接市中心与东南郊区的铁路. 但进入1970年代后最终采用前者, 后者则被搁置并最终弃用.
+战后, 随着经济的恢复, 修建大区快铁重新被提上议事日程. 1965年, 关于修建大区快铁的方案经过讨论, 当时 (SDRIF) 并不希望合并平原-伊尔松线和索镇线作为大区快铁的一个子方案, 而偏好新修连接市中心与东南郊区的铁路. 但进入1970年代后最终采用前者, 后者则被搁置并最终弃用.
 
-1970年代初, 当时已经动工兴建并通车的东西快铁线准备修建中心路网, 这引发了诸多争议, 施工成本高, 工程任务繁重, 未来运作方式尚不明了. 甚至有人提议用普通地铁进行联络, 无需再像前面路段那样进行大规模施工. 不过在政府的大力支持下, RATP得以说服公众修建中心路段的必要性. 1971年5月25日, 政府决定让中心路网得到修建, 次年2月29日, [法兰西岛运输联合会](https://zh.wikipedia.org/wiki/法兰西岛运输联合会 "wikilink") (Syndicat des transports d'Île-de-France, STIF) 通过了大区快铁RER的规划路线图, 其中包括一条东西干线, 一条南北干线, 即国玺线和[巴黎北站](../Page/巴黎北站.md "wikilink")的一条远郊铁路线 (待定) 合并, 另有一条[塞纳河](../Page/塞纳河.md "wikilink")左岸切向线. 此时, 位于巴黎中心地带的[巴黎大堂](../Page/巴黎大堂.md "wikilink")正在进行翻新改造, 刚好可以腾出空间修建一个地下车站以节约修建成本.
+1970年代初, 当时已经动工兴建并通车的东西快铁线准备修建中心路网, 这引发了诸多争议, 施工成本高, 工程任务繁重, 未来运作方式尚不明了. 甚至有人提议用普通地铁进行联络, 无需再像前面路段那样进行大规模施工. 不过在政府的大力支持下, RATP得以说服公众修建中心路段的必要性. 1971年5月25日, 政府决定让中心路网得到修建, 次年2月29日, [法兰西岛运输联合会](https://zh.wikipedia.org/wiki/法兰西岛运输联合会 "wikilink") (Syndicat des transports d'Île-de-France, STIF) 通过了大区快铁RER的规划路线图, 其中包括一条东西干线, 一条南北干线, 即索镇线和[巴黎北站](../Page/巴黎北站.md "wikilink")的一条远郊铁路线 (待定) 合并, 另有一条[塞纳河](../Page/塞纳河.md "wikilink")左岸切向线. 此时, 位于巴黎中心地带的[巴黎大堂](../Page/巴黎大堂.md "wikilink")正在进行翻新改造, 刚好可以腾出空间修建一个地下车站以节约修建成本.
 
-1973年, 国玺线的北延段 (即快铁中心路网) 开始修建. 这项工程包括一个长达2.6公里的, 穿越巴黎中心城区的双洞河底隧道, 隧道坡度很大, 迫使工程人员降低施工路基的水平面, 卢森堡车站也为此于1974年进行了相应的改造, 将站台高度降低50厘米, 列车的终点站也临时改到南边临近的[皇港站](../Page/皇港站.md "wikilink") (Port-Royal), 卢森堡站改造完后, 列车终点站重新移回彼处, 不过仅仅使用东边路轨, 西边路轨被木质覆盖, 呈[西班牙式月台布局](https://zh.wikipedia.org/wiki/西班牙式月台布局 "wikilink"). 工程耗时4年, 至1977年12月9日完工, 东西快铁线也同时通车, 两条线在[夏特雷-大堂站](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink") (Châtelet - Les Halles) 相交, 成为大区快铁的东西轴向和南北轴向, 并分别命名为RER A线和B线. 当时的法国总统[德斯坦参加了剪彩仪式](../Page/瓦勒里·季斯卡·德斯坦.md "wikilink").
+1973年, 索镇线的北延段 (即快铁中心路网) 开始修建. 这项工程包括一个长达2.6公里的, 穿越巴黎中心城区的双洞河底隧道, 隧道坡度很大, 迫使工程人员降低施工路基的水平面, 卢森堡车站也为此于1974年进行了相应的改造, 将站台高度降低50厘米, 列车的终点站也临时改到南边临近的[皇港站](../Page/皇港站.md "wikilink") (Port-Royal), 卢森堡站改造完后, 列车终点站重新移回彼处, 不过仅仅使用东边路轨, 西边路轨被木质覆盖, 呈[西班牙式月台布局](https://zh.wikipedia.org/wiki/西班牙式月台布局 "wikilink"). 工程耗时4年, 至1977年12月9日完工, 东西快铁线也同时通车, 两条线在[夏特雷-大堂站](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink") (Châtelet - Les Halles) 相交, 成为大区快铁的东西轴向和南北轴向, 并分别命名为RER A线和B线. 当时的法国总统[德斯坦参加了剪彩仪式](../Page/瓦勒里·季斯卡·德斯坦.md "wikilink").
 
 ### 南北互通和延伸
 
 [Gare_du_Nord_aCRW_1353.jpg](https://zh.wikipedia.org/wiki/File:Gare_du_Nord_aCRW_1353.jpg "fig:Gare_du_Nord_aCRW_1353.jpg")
 
-1976年, 计划中要整合进RER B线的巴黎北站以北的远郊铁路线最终选择了[机场线](https://zh.wikipedia.org/wiki/机场线 "wikilink") (1976年平原-伊尔松线新开辟一条支線前往新落成的[戴高乐机场](https://zh.wikipedia.org/wiki/戴高乐机场 "wikilink")) 和平原-伊尔松线, 这样就可以让B线连接巴黎郊区两大机场, 兼以缓解[地铁4号线在巴黎右岸的客流压力](https://zh.wikipedia.org/wiki/巴黎地铁4号线 "wikilink"). 工程随即展开, 内容包括在[巴黎北站](../Page/巴黎北站.md "wikilink")修建地底月台, 将国玺线的原有的信号系统和SNCF的信号系统对接, 以及一条2156米的隧道. 路线经过不利于施工的含水层, 以及旧建筑密布的巴黎市区.
+1976年, 计划中要整合进RER B线的巴黎北站以北的远郊铁路线最终选择了[机场线](https://zh.wikipedia.org/wiki/机场线 "wikilink") (1976年平原-伊尔松线新开辟一条支線前往新落成的[戴高乐机场](https://zh.wikipedia.org/wiki/戴高乐机场 "wikilink")) 和平原-伊尔松线, 这样就可以让B线连接巴黎郊区两大机场, 兼以缓解[地铁4号线在巴黎右岸的客流压力](https://zh.wikipedia.org/wiki/巴黎地铁4号线 "wikilink"). 工程随即展开, 内容包括在[巴黎北站](../Page/巴黎北站.md "wikilink")修建地底月台, 将索镇线的原有的信号系统和SNCF的信号系统对接, 以及一条2156米的隧道. 路线经过不利于施工的含水层, 以及旧建筑密布的巴黎市区.
 
-1981年9月, 巴黎北站的地下月台启用50%, 供机场线使用. 12月10日, B线向北延伸至[巴黎北站](../Page/巴黎北站.md "wikilink")的地下月台, 这样, 巴黎北站往[戴高乐机场和](https://zh.wikipedia.org/wiki/戴高乐机场 "wikilink")[米提-克莱的北部路段就被整合进B线](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink")。法国总理[皮埃尔·莫鲁瓦](../Page/皮埃尔·莫鲁瓦.md "wikilink") (Pierre Mauroy) 和交通部长 (Charles Fiterman) 为仪式剪彩. 同时, RER B线自1937年使用的4位数字班次编码被4位字母班次编码所替代. 1982年10月, 巴黎北站地下月台的另一半启用, 供未来的RER D线使用.
+1981年9月, 巴黎北站的地下月台启用50%, 供机场线使用. 12月10日, B线向北延伸至[巴黎北站](../Page/巴黎北站.md "wikilink")的地下月台, 这样, 巴黎北站往[戴高乐机场和](https://zh.wikipedia.org/wiki/戴高乐机场 "wikilink")[米特里-克莱的北部路段就被整合进B线](https://zh.wikipedia.org/wiki/米特里-克莱 "wikilink")。法国总理[皮埃尔·莫鲁瓦](../Page/皮埃尔·莫鲁瓦.md "wikilink") (Pierre Mauroy) 和交通部长 (Charles Fiterman) 为仪式剪彩. 同时, RER B线自1937年使用的4位数字班次编码被4位字母班次编码所替代. 1982年10月, 巴黎北站地下月台的另一半启用, 供未来的RER D线使用.
 
 尽管巴黎北站以北的路段从此被整合进来, 但由于电力系统的差异, 发自南部的列车无法驶入北部路段 (巴黎北站以南的RATP路段使用1500伏直流电, 以北的SNCF路段使用25000伏交流电), 而所需的双伏特制式列车还未完全投放. 因此在当时, 乘客来往南部和北郊须在站内进行[跨月台转乘](https://zh.wikipedia.org/wiki/跨月台转车站 "wikilink").
 
@@ -52,7 +52,7 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 
 1983年6月7日, 一些列车开始在巴黎北站实现南北互通, 当时高峰期一小时有8班列车自南部发往北郊, 这些班次均采用MI 79列车, 而原有的单伏特列车仍然止步于巴黎北站. 在随后的几年里, 剩余的MI 79列车陆续投放使用, 高峰期的南北互通班次逐渐增加, 1984年10月高峰期一小时有12班列车通往北郊, 1985年一小时16班, 到1987年9月27日后一小时20班, 这时MI 79已经全部投放使用, 南北互通到此才全面完成. 但由于公司背景和章程不同, 并且列车在此站将从一个铁路网进入另一个铁路网, 线路互通时必须更换司机, 这种互通模式一直保持到2009年.
 
-1988年2月17日, 经过6年的施工, 耗资4.1亿法郎的, 位于夏特雷-大堂和卢森堡之间的车站--[圣米歇尔-巴黎圣母院站](../Page/圣米歇尔-巴黎圣母院站.md "wikilink") (Saint-Michel - Notre-Dame) 启用, 便于乘客快速转乘[地铁10号线和](https://zh.wikipedia.org/wiki/巴黎地铁10号线 "wikilink")[RER C线](https://zh.wikipedia.org/wiki/大区快铁C线 "wikilink")。其实, 1970年代延长国玺线时, 双洞隧道在彼处已经预留出一个空位, 所以无需进行更大规模的结构改造, 只是由于当时对客流量估计不足而没有立即落实施工, 而是到了1982年才开始兴建. 同时, 地铁10号线的对应车站[巴黎大学站](https://zh.wikipedia.org/wiki/巴黎大学站 "wikilink") (Cluny - La Sorbonne) 自[二战起关闭多年后再次启用](https://zh.wikipedia.org/wiki/二战 "wikilink").
+1988年2月17日, 经过6年的施工, 耗资4.1亿法郎的, 位于夏特雷-大堂和卢森堡之间的车站--[圣米歇尔-巴黎圣母院站](../Page/圣米歇尔-巴黎圣母院站.md "wikilink") (Saint-Michel - Notre-Dame) 启用, 便于乘客快速转乘[地铁10号线和](https://zh.wikipedia.org/wiki/巴黎地铁10号线 "wikilink")[RER C线](https://zh.wikipedia.org/wiki/大区快铁C线 "wikilink")。其实, 1970年代延长索镇线时, 双洞隧道在彼处已经预留出一个空位, 所以无需进行更大规模的结构改造, 只是由于当时对客流量估计不足而没有立即落实施工, 而是到了1982年才开始兴建. 同时, 地铁10号线的对应车站[巴黎大学站](https://zh.wikipedia.org/wiki/巴黎大学站 "wikilink") (Cluny - La Sorbonne) 自[二战起关闭多年后再次启用](https://zh.wikipedia.org/wiki/二战 "wikilink").
 
 [Gare_Aéroport_Charles-de-Gaulle_2_TGV.jpg](https://zh.wikipedia.org/wiki/File:Gare_Aéroport_Charles-de-Gaulle_2_TGV.jpg "fig:Gare_Aéroport_Charles-de-Gaulle_2_TGV.jpg")
 
@@ -66,15 +66,15 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 
 1999年10月24日, RATP修改了列车时刻表以增加高峰期的列车频度, 往返南部的高峰车从此分为四种: 往返圣雷米, 往返奥赛, 往返马西帕莱索 (Massy - Palaiseau) 和往返罗班松.
 
-从2002年开始, RATP逐步更新了B线上的架空电缆, 刷票闸机, 在车站安装即时行车资讯显示器, 以及移除[平交道](../Page/平交道.md "wikilink")口, 迄今为止, 线上仅剩一处平交道口, 位于南部的[吉夫伊维特](https://zh.wikipedia.org/wiki/吉夫伊维特 "wikilink") (Gif-sur-Yvette), 而该平交道口亦将于2012年被移除.
+从2002年开始, RATP逐步更新了B线上的架空电缆, 刷票闸机, 在车站安装即时行车资讯显示器, 以及移除[平交道](../Page/平交道.md "wikilink")口, 迄今为止, 线上仅剩一处平交道口, 位于南部的[伊韦特河畔日夫](https://zh.wikipedia.org/wiki/伊韦特河畔日夫 "wikilink") (Gif-sur-Yvette), 而该平交道口亦将于2012年被移除.
 
-2002年10月24日和12月5日, 在一次关于B线的乘客与选民通气会上, 线路的服务质素遭到各种抱怨, 包括安全性, 准点率以及故障时的信息通报. 这次会议使当局决心翻新列车, 以及在欧奈和机场之间安装一种特殊信号系统, 叫做, 便于故障时列车可以从反向路轨前进. 相应的, 当年12月15日, 列车时刻表再次得到修改以应对旅客要求, 包括低峰期列车增停法兰西体育场车站, 延长高峰时段, 优化皇后镇和巴黎市区之间路段的高峰列车停靠方式, 使之客流量分布更均匀, 运作更科学, 往返丹佛站的列车被南延到[拉普拉斯站](../Page/拉普拉斯站.md "wikilink"), 增强运营的经济性, 而拉普拉斯站的Z轨道亦可供直达车在异常情况下超越慢车.
+2002年10月24日和12月5日, 在一次关于B线的乘客与选民通气会上, 线路的服务质素遭到各种抱怨, 包括安全性, 准点率以及故障时的信息通报. 这次会议使当局决心翻新列车, 以及在欧奈和机场之间安装一种特殊信号系统, 叫做, 便于故障时列车可以从反向路轨前进. 相应的, 当年12月15日, 列车时刻表再次得到修改以应对旅客要求, 包括低峰期列车增停法兰西体育场车站, 延长高峰时段, 优化皇后镇和巴黎市区之间路段的高峰列车停靠方式, 使之客流量分布更均匀, 运作更科学, 往返当费尔站的列车被南延到[拉普拉斯站](../Page/拉普拉斯站.md "wikilink"), 增强运营的经济性, 而拉普拉斯站的Z轨道亦可供直达车在异常情况下超越慢车.
 
 2003年10月1日, STIF通过了北部SNCF路段进行现代化改造的计划, 预计耗资1.57亿欧元, 包括增高月台, 新建残障人士设施, 翻新车站, 增加安全设施等. 2005年12月12日开始, 基于客流量的增长, 白天非高峰期的列车一律重联, 这样可以缩短乘客在月台上的滞留时间, 以及防止客流壅塞.
 
 为改善B线运营状况, SNCF, [法兰西岛运输联合会等于](https://zh.wikipedia.org/wiki/法兰西岛运输联合会 "wikilink")2006年启用了RER B Nord +计划, 该计划预计花费2.5亿欧元. 工程自2008年11月11日展开, 内容主要为改善国铁路段的线路设施, 包括将RER和其它非RER线路分隔开, 以提高准点率, 包括简化运营方式和提高发车频率, 增高月台以提高通勤效率等, 计划到2012年底完成所有工程.
 
-另外, 作为Nord +计划的一部分, 2008年7月7日起, B线经停[巴黎北站](../Page/巴黎北站.md "wikilink")时不再更换司机, 这项变更逐步落实到2009年11月9日完成, 旨在减少车辆等候时间, 提高准点率, 特别是高峰时段的准点率. 还有, 在丹佛车站安装了一个控制中心, 便于协调传达给乘客的即时资讯, 以及方便事故时的指挥调度.
+另外, 作为Nord +计划的一部分, 2008年7月7日起, B线经停[巴黎北站](../Page/巴黎北站.md "wikilink")时不再更换司机, 这项变更逐步落实到2009年11月9日完成, 旨在减少车辆等候时间, 提高准点率, 特别是高峰时段的准点率. 还有, 在当费尔车站安装了一个控制中心, 便于协调传达给乘客的即时资讯, 以及方便事故时的指挥调度.
 
 ## 线路走向和车站列表
 
@@ -119,7 +119,7 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p><a href="https://zh.wikipedia.org/wiki/戴高乐机场一号航站楼站" title="wikilink">戴高乐机场一号航站楼</a><br />
 <small>Aéroport Charles-de-Gaulle 1</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/特隆布雷法兰西" title="wikilink">特隆布雷法兰西</a></p></td>
+<td><p><a href="../Page/法兰西地区特朗布莱.md" title="wikilink">法兰西地区特朗布莱</a></p></td>
 <td><p><a href="../Page/戴高樂機場內線.md" title="wikilink"><span style="font-size: 90%; padding: .1em; background-color: #ff8040; color: #ffffff"><strong>CDGVAL</strong></span></a></p></td>
 <td></td>
 <td></td>
@@ -166,10 +166,10 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p><font color="#537cb9"><small><strong>B5</strong></small></font></p></td>
-<td><p><strong><a href="../Page/米提-克莱站.md" title="wikilink">米提-克莱</a><br />
+<td><p><strong><a href="../Page/米特里-克莱站.md" title="wikilink">米特里-克莱</a><br />
 <small>Mitry — Claye</small></strong></p></td>
 <td><p>5</p></td>
-<td><p><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/米特里-莫里" title="wikilink">米特里-莫里</a><br />
 </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneK.svg" title="fig:Logo_Paris_Transilien_ligneK.svg">Logo_Paris_Transilien_ligneK.svg</a><br />
 <a href="https://zh.wikipedia.org/wiki/法国省际列车" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Picardie</em></strong></span></a></p></td>
@@ -180,10 +180,10 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/巴黎西城新米提站.md" title="wikilink">巴黎西城新米提</a><br />
+<td><p><a href="../Page/维勒帕里西-新米特里站.md" title="wikilink">维勒帕里西-新米特里</a><br />
 <small>Villeparisis — Mitry-le-Neuf</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/米提-克莱站.md" title="wikilink">米提-克莱站</a></p></td>
+<td><p><a href="../Page/米特里-克莱站.md" title="wikilink">米特里-克莱站</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -196,7 +196,7 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <small>Vert-Galant</small></p></td>
 <td><p>4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/维勒班特" title="wikilink">维勒班特</a><br />
-<a href="https://zh.wikipedia.org/wiki/特隆布雷法兰西" title="wikilink">特隆布雷法兰西</a></p></td>
+<a href="../Page/法兰西地区特朗布莱.md" title="wikilink">法兰西地区特朗布莱</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -205,7 +205,7 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/塞夫朗利夫里站.md" title="wikilink">塞夫朗利夫里</a><br />
+<td><p><a href="../Page/塞夫朗-利夫里站.md" title="wikilink">塞夫朗-利夫里</a><br />
 <small>Sevran — Livry</small></p></td>
 <td><p>4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/塞夫朗" title="wikilink">塞夫朗</a></p></td>
@@ -217,10 +217,10 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/欧奈丛林站.md" title="wikilink">欧奈丛林</a><br />
+<td><p><a href="../Page/欧奈苏布瓦站.md" title="wikilink">欧奈苏布瓦</a><br />
 <small>Aulnay-sous-Bois</small></p></td>
 <td><p>4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/欧奈丛林" title="wikilink">欧奈丛林</a></p></td>
+<td><p><a href="../Page/欧奈苏布瓦.md" title="wikilink">欧奈苏布瓦</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneK.svg" title="fig:Logo_Paris_Transilien_ligneK.svg">Logo_Paris_Transilien_ligneK.svg</a><br />
 <a href="https://zh.wikipedia.org/wiki/File:Tramway-T.svg" title="fig:Tramway-T.svg">Tramway-T.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_tram_ligne4.svg" title="fig:Logo_Paris_tram_ligne4.svg">Logo_Paris_tram_ligne4.svg</a></p></td>
 </tr>
@@ -228,10 +228,10 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/布朗梅尼尔站.md" title="wikilink">布朗梅尼尔</a><br />
+<td><p><a href="../Page/勒布朗梅尼勒站.md" title="wikilink">勒布朗梅尼勒</a><br />
 <small>Le Blanc-Mesnil</small></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/布朗梅尼尔" title="wikilink">布朗梅尼尔</a></p></td>
+<td><p><a href="../Page/勒布朗梅尼勒.md" title="wikilink">勒布朗梅尼勒</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -252,10 +252,10 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/勒布尔热站.md" title="wikilink">勒布尔热</a><br />
+<td><p><a href="../Page/勒布尔歇站.md" title="wikilink">勒布尔歇</a><br />
 <small>Le Bourget</small></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/勒布尔热" title="wikilink">勒布尔热</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/勒布尔歇" title="wikilink">勒布尔歇</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -264,11 +264,11 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/新庭奥贝维埃站.md" title="wikilink">新庭奥贝维埃</a><br />
+<td><p><a href="../Page/拉库尔讷沃-欧贝维利耶站.md" title="wikilink">拉库尔讷沃-欧贝维利耶</a><br />
 <small>La Courneuve — Aubervilliers</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新庭" title="wikilink">新庭</a><br />
-<a href="https://zh.wikipedia.org/wiki/奥贝维埃" title="wikilink">奥贝维埃</a></p></td>
+<td><p><a href="../Page/拉库尔讷沃.md" title="wikilink">拉库尔讷沃</a><br />
+<a href="../Page/欧贝维利耶.md" title="wikilink">欧贝维利耶</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -280,7 +280,7 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p><a href="../Page/平原-法兰西体育场站.md" title="wikilink">平原-法兰西体育场</a><br />
 <small>La Plaine - Stade de France</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>2</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/圣德尼" title="wikilink">圣德尼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/圣但尼" title="wikilink">圣但尼</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -359,7 +359,7 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/登费尔罗什洛站.md" title="wikilink">登费尔罗什洛</a><br />
+<td><p><a href="../Page/当费尔-罗什罗站.md" title="wikilink">当费尔-罗什罗</a><br />
 <small>Denfert-Rochereau</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/巴黎十四区.md" title="wikilink">巴黎十四区</a></p></td>
@@ -398,7 +398,7 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p><a href="../Page/拉普拉斯站.md" title="wikilink">拉普拉斯</a><br />
 <small>Laplace</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>2</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/亚捷" title="wikilink">亚捷</a></p></td>
+<td><p><a href="../Page/阿尔克伊.md" title="wikilink">阿尔克伊</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -407,11 +407,11 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/亚捷卡尚站.md" title="wikilink">亚捷卡尚</a><br />
+<td><p><a href="../Page/阿尔克伊-卡尚站.md" title="wikilink">阿尔克伊-卡尚</a><br />
 <small>Arcueil — Cachan</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/亚捷" title="wikilink">亚捷</a><br />
-<a href="https://zh.wikipedia.org/wiki/卡尚" title="wikilink">卡尚</a></p></td>
+<td><p><a href="../Page/阿尔克伊.md" title="wikilink">阿尔克伊</a><br />
+<a href="../Page/卡尚_(馬恩河谷省).md" title="wikilink">卡尚</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -420,11 +420,11 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/巴纽站.md" title="wikilink">巴纽</a><br />
+<td><p><a href="../Page/巴涅站.md" title="wikilink">巴涅</a><br />
 <small>Bagneux</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巴纽" title="wikilink">巴纽</a><br />
-<a href="https://zh.wikipedia.org/wiki/卡尚" title="wikilink">卡尚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/巴涅" title="wikilink">巴涅</a><br />
+<a href="../Page/卡尚_(馬恩河谷省).md" title="wikilink">卡尚</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -447,10 +447,10 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/国玺站.md" title="wikilink">国玺</a><br />
+<td><p><a href="../Page/索镇站.md" title="wikilink">索镇</a><br />
 <small>Sceaux</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/国玺" title="wikilink">国玺</a></p></td>
+<td><p><a href="../Page/索镇.md" title="wikilink">索镇</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -459,10 +459,10 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/丰特奈玫瑰站.md" title="wikilink">丰特奈玫瑰</a><br />
+<td><p><a href="../Page/丰特奈欧罗斯站.md" title="wikilink">丰特奈欧罗斯</a><br />
 <small>Fontenay-aux-Roses</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/丰特奈玫瑰" title="wikilink">丰特奈玫瑰</a></p></td>
+<td><p><a href="../Page/丰特奈欧罗斯.md" title="wikilink">丰特奈欧罗斯</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -474,7 +474,7 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p><strong><a href="../Page/罗班松站.md" title="wikilink">罗班松</a><br />
 <small>Robinson</small></strong></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/国玺" title="wikilink">国玺</a><br />
+<td><p><a href="../Page/索镇.md" title="wikilink">索镇</a><br />
 <a href="https://zh.wikipedia.org/wiki/夏特奈马拉比" title="wikilink">夏特奈马拉比</a><br />
 <a href="https://zh.wikipedia.org/wiki/布雷西罗班松" title="wikilink">布雷西罗班松</a></p></td>
 <td></td>
@@ -483,10 +483,10 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/国玺公园站" title="wikilink">国玺公园</a><br />
+<td><p><a href="../Page/索镇公园站.md" title="wikilink">索镇公园</a><br />
 <small>Parc de Sceaux</small></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/国玺" title="wikilink">国玺</a><br />
+<td><p><a href="../Page/索镇.md" title="wikilink">索镇</a><br />
 <a href="https://zh.wikipedia.org/wiki/安东尼" title="wikilink">安东尼</a></p></td>
 <td></td>
 <td></td>
@@ -532,10 +532,10 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/巴克涅站.md" title="wikilink">巴克涅</a><br />
+<td><p><a href="../Page/莱巴科内站.md" title="wikilink">莱巴科内</a><br />
 <small>Les Baconnets</small></p></td>
 <td><p>4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安东尼" title="wikilink">安东尼</a></p></td>
+<td><p><a href="../Page/安东尼_(上塞纳省).md" title="wikilink">安东尼</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -544,11 +544,11 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/马西-维里耶尔站" title="wikilink">马西维里耶尔</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/马西-维里耶尔站" title="wikilink">马西-维里耶尔</a><br />
 <small>Massy — Verrières</small></p></td>
 <td><p>4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/马西" title="wikilink">马西</a><br />
-<a href="https://zh.wikipedia.org/wiki/维利耶比松" title="wikilink">维利耶比松</a></p></td>
+<td><p><a href="../Page/马西_(埃松省).md" title="wikilink">马西</a><br />
+<a href="../Page/韦里耶尔勒比松.md" title="wikilink">韦里耶尔勒比松</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_rer_C_jms.svg" title="fig:Paris_rer_C_jms.svg">Paris_rer_C_jms.svg</a></p></td>
 <td></td>
 <td></td>
@@ -560,7 +560,7 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p><a href="../Page/马西-帕莱索站.md" title="wikilink">马西-帕莱索站</a><br />
 <small>Massy — Palaiseau</small></p></td>
 <td><p>4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/马西" title="wikilink">马西</a><br />
+<td><p><a href="../Page/马西_(埃松省).md" title="wikilink">马西</a><br />
 <a href="../Page/帕莱索.md" title="wikilink">帕莱索</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_rer_C_jms.svg" title="fig:Paris_rer_C_jms.svg">Paris_rer_C_jms.svg</a><br />
 <a href="https://zh.wikipedia.org/wiki/TGV" title="wikilink"><span style="bgcolor: #ffffff; color: #808281"><strong><em>TGV</em></strong></span></a></p></td>
@@ -571,7 +571,7 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/帕莱索站" title="wikilink">帕莱索</a><br />
+<td><p><a href="../Page/帕莱索站.md" title="wikilink">帕莱索</a><br />
 <small>Palaiseau</small></p></td>
 <td><p>4</p></td>
 <td><p><a href="../Page/帕莱索.md" title="wikilink">帕莱索</a></p></td>
@@ -632,10 +632,10 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/比尔伊维特站.md" title="wikilink">比尔伊维特</a><br />
+<td><p><a href="../Page/伊韦特河畔比尔站.md" title="wikilink">伊韦特河畔比尔</a><br />
 <small>Bures-sur-Yvette</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/比尔伊维特" title="wikilink">比尔伊维特</a></p></td>
+<td><p><a href="../Page/伊韦特河畔比尔.md" title="wikilink">伊韦特河畔比尔</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -644,11 +644,11 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/拉基尼耶站.md" title="wikilink">拉基尼耶</a><br />
+<td><p><a href="../Page/拉阿基尼耶尔站.md" title="wikilink">拉阿基尼耶尔</a><br />
 <small>La Hacquinière</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/比尔伊维特" title="wikilink">比尔伊维特</a><br />
-<a href="https://zh.wikipedia.org/wiki/吉夫伊维特" title="wikilink">吉夫伊维特</a></p></td>
+<td><p><a href="../Page/伊韦特河畔比尔.md" title="wikilink">伊韦特河畔比尔</a><br />
+<a href="https://zh.wikipedia.org/wiki/伊韦特河畔日夫" title="wikilink">伊韦特河畔日夫</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -657,11 +657,11 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/吉夫伊维特站.md" title="wikilink">吉夫伊维特</a><br />
+<td><p><a href="../Page/伊韦特河畔日夫站.md" title="wikilink">伊韦特河畔日夫</a><br />
 <small>Gif-sur-Yvette</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吉夫伊维特" title="wikilink">吉夫伊维特</a><br />
-<a href="https://zh.wikipedia.org/wiki/比尔伊维特" title="wikilink">比尔伊维特</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伊韦特河畔日夫" title="wikilink">伊韦特河畔日夫</a><br />
+<a href="../Page/伊韦特河畔比尔.md" title="wikilink">伊韦特河畔比尔</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -670,10 +670,10 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/古赛尔伊维特站.md" title="wikilink">古赛尔伊维特</a><br />
+<td><p><a href="../Page/伊韦特河畔库尔塞勒站.md" title="wikilink">伊韦特河畔库尔塞勒</a><br />
 <small>Courcelle-sur-Yvette</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吉夫伊维特" title="wikilink">吉夫伊维特</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伊韦特河畔日夫" title="wikilink">伊韦特河畔日夫</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -682,10 +682,10 @@ B线的前身是开往巴黎南方的 (Ligne de Sceaux); 以及开往巴黎北�
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p><font color="#537cb9"><small><strong>B4</strong></small></font></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/圣雷米累舍夫勒斯站" title="wikilink">圣雷米累舍夫勒斯</a><br />
+<td><p><strong><a href="../Page/圣雷米-莱谢夫勒斯站.md" title="wikilink">圣雷米-莱谢夫勒斯</a><br />
 <small>Saint-Rémy-lès-Chevreuse</small></strong> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/圣雷米累舍夫勒斯" title="wikilink">圣雷米累舍夫勒斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/圣雷米-莱谢夫勒斯" title="wikilink">圣雷米-莱谢夫勒斯</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -780,27 +780,27 @@ MI 79于1980年5月起陆续投入使用. 至今SNCF拥有50辆列车, RATP拥�
 
 **A**=[巴黎北站](../Page/巴黎北站.md "wikilink"), 比如**ABEL**, **AJAC**.
 
-**E**=[戴高乐机场二号航站楼](https://zh.wikipedia.org/wiki/戴高乐机场二号航站楼 "wikilink"), 比如**EFLA**, **EKLI**, **EWIL**.
+**E**=[戴高乐机场二号航站楼站](https://zh.wikipedia.org/wiki/戴高乐机场二号航站楼站 "wikilink"), 比如**EFLA**, **EKLI**, **EWIL**.
 
-**G**=[欧奈丛林](https://zh.wikipedia.org/wiki/欧奈丛林 "wikilink"), 比如**GHIR**, **GUSS**.
+**G**=[欧奈苏布瓦站](../Page/欧奈苏布瓦站.md "wikilink"), 比如**GHIR**, **GUSS**.
 
-**I**=[米提-克莱](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink"), 比如**ICAR**, **IQOI**.
+**I**=[米特里-克莱站](../Page/米特里-克莱站.md "wikilink"), 比如**ICAR**, **IQOI**.
 
-**J**=[丹佛罗什洛](https://zh.wikipedia.org/wiki/丹佛罗什洛 "wikilink"), [大学城](https://zh.wikipedia.org/wiki/大学城 "wikilink") (仅用作特殊情况), 比如**JIBY**.
+**J**=[当费尔-罗什罗站](../Page/当费尔-罗什罗站.md "wikilink"), [大学城站](https://zh.wikipedia.org/wiki/大学城站 "wikilink") (仅用作特殊情况), 比如**JIBY**.
 
 **K**=[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink"), 比如**KROL**, **KMAR**.
 
-**L**=[奥赛](https://zh.wikipedia.org/wiki/奥赛 "wikilink"), 比如**LILI**, **LYRE**.
+**L**=[奥赛站](https://zh.wikipedia.org/wiki/奥赛站 "wikilink"), 比如**LILI**, **LYRE**.
 
-**N**=[贝尼十字路](https://zh.wikipedia.org/wiki/贝尼十字路 "wikilink") (仅用作特殊情况)
+**N**=[贝尼十字路站](../Page/贝尼十字路站.md "wikilink") (仅用作特殊情况)
 
-**P**=[圣雷米累舍夫勒斯](https://zh.wikipedia.org/wiki/圣雷米累舍夫勒斯 "wikilink"), 比如**PEPE**, **PERA**, **PSIT**.
+**P**=[圣雷米-莱谢夫勒斯站](../Page/圣雷米-莱谢夫勒斯站.md "wikilink"), 比如**PEPE**, **PERA**, **PSIT**.
 
-**Q**=[平原-法兰西体育场](https://zh.wikipedia.org/wiki/平原-法兰西体育场 "wikilink"), 比如**QORE**, **QART**.
+**Q**=[平原-法兰西体育场站](../Page/平原-法兰西体育场站.md "wikilink"), 比如**QORE**, **QART**.
 
-**S**=[罗班松](https://zh.wikipedia.org/wiki/罗班松 "wikilink"), 比如**SPAC**, **SPOT**.
+**S**=[罗班松站](../Page/罗班松站.md "wikilink"), 比如**SPAC**, **SPOT**.
 
-**U**=[拉普拉斯](https://zh.wikipedia.org/wiki/拉普拉斯 "wikilink"), 比如**UBAN**, **ULLE**.
+**U**=[拉普拉斯站](../Page/拉普拉斯站.md "wikilink"), 比如**UBAN**, **ULLE**.
 
 **Z**=[洛泽尔](../Page/洛泽尔站.md "wikilink") (仅用作特殊情况)
 
@@ -812,7 +812,7 @@ MI 79于1980年5月起陆续投入使用. 至今SNCF拥有50辆列车, RATP拥�
 
 **5. 若该班列车不载客, 则第一,三位字母均为W, 第二位字母表示终点, 第四位字母表示起点.** 比如**WKWL**表示从[奥赛不载客回场到](https://zh.wikipedia.org/wiki/奥赛 "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")的列车.
 
-**6. 特殊班次的慢车 (每一站都停靠), 首字母仍表示终点, 第二位字母表示起点, 最后两位均为Z.** 比如**PAZZ**表示从[巴黎北站](../Page/巴黎北站.md "wikilink")开往[圣雷米的慢车](https://zh.wikipedia.org/wiki/圣雷米 "wikilink").
+**6. 特殊班次的慢车 (每一站都停靠), 首字母仍表示终点, 第二位字母表示起点, 最后两位均为Z.** 比如**PAZZ**表示从[巴黎北站](../Page/巴黎北站.md "wikilink")开往[圣雷米站的慢车](../Page/圣雷米-莱谢夫勒斯站.md "wikilink").
 
 ## 日常运作
 
@@ -820,15 +820,15 @@ MI 79于1980年5月起陆续投入使用. 至今SNCF拥有50辆列车, RATP拥�
 
 每15分钟一班, 有:
 
-1\. 往返于[圣雷米和](https://zh.wikipedia.org/wiki/圣雷米 "wikilink")[米提-克莱之间的全程车](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink")**IKUO**和**PAPY**, 列车不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[勒布尔热之间的车站](https://zh.wikipedia.org/wiki/勒布尔热 "wikilink"), 在巴黎市区 (大学城) 以南只停靠[皇后镇](https://zh.wikipedia.org/wiki/皇后镇 "wikilink"), [贝尼十字路](https://zh.wikipedia.org/wiki/贝尼十字路 "wikilink"), [安东尼](https://zh.wikipedia.org/wiki/安东尼 "wikilink"), 以及[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")和[圣雷米之间的所有车站](https://zh.wikipedia.org/wiki/圣雷米 "wikilink").
+1\. 往返于[圣雷米站和](../Page/圣雷米-莱谢夫勒斯站.md "wikilink")[米特里-克莱之间的全程车](https://zh.wikipedia.org/wiki/米特里-克莱 "wikilink")**IKUO**和**PAPY**, 列车不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[勒布尔歇之间的车站](https://zh.wikipedia.org/wiki/勒布尔歇 "wikilink"), 在巴黎市区 (大学城) 以南只停靠[皇后镇站](../Page/皇后镇站.md "wikilink")、[贝尼十字路站](../Page/贝尼十字路站.md "wikilink")、[安东尼站](../Page/安东尼站.md "wikilink")以及[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")和[圣雷米站之间的所有车站](../Page/圣雷米-莱谢夫勒斯站.md "wikilink").
 
-2\. 往返于[戴高乐机场二号航站楼和](https://zh.wikipedia.org/wiki/戴高乐机场二号航站楼 "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")之间的区间车**EMIR**和**KNUT**, 不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[巴黎北站](../Page/巴黎北站.md "wikilink")之间的所有车站.
+2\. 往返于[戴高乐机场二号航站楼和](https://zh.wikipedia.org/wiki/戴高乐机场二号航站楼 "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")之间的区间车**EMIR**和**KNUT**, 不停靠[欧奈站和](../Page/欧奈苏布瓦站.md "wikilink")[巴黎北站](../Page/巴黎北站.md "wikilink")之间的所有车站.
 
-3\. 往返于[欧奈丛林和](https://zh.wikipedia.org/wiki/欧奈丛林 "wikilink")[罗班松之间的区间车](https://zh.wikipedia.org/wiki/罗班松 "wikilink")**GAEL**和**SVIC**, 不停靠[巴黎北站](../Page/巴黎北站.md "wikilink")和[勒布尔热之间的车站](https://zh.wikipedia.org/wiki/勒布尔热 "wikilink").
+3\. 往返于[欧奈苏布瓦站](../Page/欧奈苏布瓦站.md "wikilink")和[罗班松站](../Page/罗班松站.md "wikilink")之间的区间车**GAEL**和**SVIC**, 不停靠[巴黎北站](../Page/巴黎北站.md "wikilink")和[勒布尔歇站](../Page/勒布尔歇站.md "wikilink")之间的车站.
 
 [MI79_Aulnaysousbois.jpg](https://zh.wikipedia.org/wiki/File:MI79_Aulnaysousbois.jpg "fig:MI79_Aulnaysousbois.jpg")
 
-4\. 无论是工作日清晨或是节假日, 第一班南行列车都在4时48分自[米提开出](https://zh.wikipedia.org/wiki/米提 "wikilink"), 而第一班北行列车都在4时56分自[巴黎北站](../Page/巴黎北站.md "wikilink")开出.
+4\. 无论是工作日清晨或是节假日, 第一班南行列车都在4时48分自[米特里开出](https://zh.wikipedia.org/wiki/米特里-莫里 "wikilink"), 而第一班北行列车都在4时56分自[巴黎北站](../Page/巴黎北站.md "wikilink")开出.
 
 ### 早班高峰
 
@@ -838,13 +838,13 @@ MI 79于1980年5月起陆续投入使用. 至今SNCF拥有50辆列车, RATP拥�
 
 **在南部每12分钟一班:**
 
-1\. 往返于[罗班松的列车](https://zh.wikipedia.org/wiki/罗班松 "wikilink"), 全程停靠.
+1\. 往返于[罗班松站](../Page/罗班松站.md "wikilink")的列车, 全程停靠.
 
-2\. 往返于[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")的列车, 不停靠[亚捷卡尚和](https://zh.wikipedia.org/wiki/亚捷卡尚 "wikilink")[巴纽](https://zh.wikipedia.org/wiki/巴纽 "wikilink").
+2\. 往返于[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")的列车, 不停靠[阿尔克伊-卡尚站](../Page/阿尔克伊-卡尚站.md "wikilink")和[巴涅站](../Page/巴涅站.md "wikilink").
 
-3\. 往返于[奥赛的列车](https://zh.wikipedia.org/wiki/奥赛 "wikilink"), 在[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")和[大学城之间只停靠](https://zh.wikipedia.org/wiki/大学城 "wikilink")[安东尼](https://zh.wikipedia.org/wiki/安东尼 "wikilink"), [贝尼十字路](https://zh.wikipedia.org/wiki/贝尼十字路 "wikilink"), [皇后镇](https://zh.wikipedia.org/wiki/皇后镇 "wikilink"), [巴纽和](https://zh.wikipedia.org/wiki/巴纽 "wikilink")[拉普拉斯](https://zh.wikipedia.org/wiki/拉普拉斯 "wikilink"), 其余车站均停靠.
+3\. 往返于[奥赛的列车](https://zh.wikipedia.org/wiki/奥赛 "wikilink"), 在[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")和[大学城站之间只停靠](https://zh.wikipedia.org/wiki/大学城站 "wikilink")[安东尼站](../Page/安东尼站.md "wikilink"), [贝尼十字路站](../Page/贝尼十字路站.md "wikilink"), [皇后镇站](../Page/皇后镇站.md "wikilink"), [巴涅站](../Page/巴涅站.md "wikilink")和[拉普拉斯站](../Page/拉普拉斯站.md "wikilink"), 其余车站均停靠.
 
-4\. 往返于[圣雷米的列车](https://zh.wikipedia.org/wiki/圣雷米 "wikilink"), 在[奥赛和](https://zh.wikipedia.org/wiki/奥赛 "wikilink")[大学城之间只停靠](https://zh.wikipedia.org/wiki/大学城 "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink"), [巴克涅](https://zh.wikipedia.org/wiki/巴克涅 "wikilink"), [安东尼](https://zh.wikipedia.org/wiki/安东尼 "wikilink"), [皇后镇](https://zh.wikipedia.org/wiki/皇后镇 "wikilink"), [亚捷卡尚和](https://zh.wikipedia.org/wiki/亚捷卡尚 "wikilink")[让蒂伊](../Page/让蒂伊.md "wikilink"), 其余车站均停靠.
+4\. 往返于[圣雷米的列车](../Page/圣雷米-莱谢夫勒斯站.md "wikilink"), 在[奥赛站和](https://zh.wikipedia.org/wiki/奥赛站 "wikilink")[大学城站之间只停靠](https://zh.wikipedia.org/wiki/大学城站 "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink"), [莱巴科内](https://zh.wikipedia.org/wiki/莱巴科内 "wikilink"), [安东尼](https://zh.wikipedia.org/wiki/安东尼 "wikilink"), [皇后镇站](../Page/皇后镇站.md "wikilink"), [阿尔克伊-卡尚站](../Page/阿尔克伊-卡尚站.md "wikilink")和[让蒂伊站](../Page/让蒂伊站.md "wikilink"), 其余车站均停靠.
 
 #### 北部SNCF段
 
@@ -852,41 +852,41 @@ MI 79于1980年5月起陆续投入使用. 至今SNCF拥有50辆列车, RATP拥�
 
 **在北部每15分钟一班:**
 
-1\. 南行列车, 出发自[机场二号航站楼](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink"), 不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[巴黎北站](../Page/巴黎北站.md "wikilink")之间的所有站, 但[新庭奥贝维埃除外](https://zh.wikipedia.org/wiki/新庭奥贝维埃 "wikilink"), 比如区间车**KTAR**.
+1\. 南行列车, 出发自[机场二号航站楼](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink"), 不停靠[欧奈苏布瓦站](../Page/欧奈苏布瓦站.md "wikilink")和[巴黎北站](../Page/巴黎北站.md "wikilink")之间的所有站, 但[拉库尔讷沃-欧贝维利耶站](../Page/拉库尔讷沃-欧贝维利耶站.md "wikilink")除外, 比如区间车**KTAR**.
 
-2\. 南行列车, 出发自[机场二号航站楼](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink"), 不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[勒布尔热之间的车站](https://zh.wikipedia.org/wiki/勒布尔热 "wikilink"), 比如区间车**LETO**.
+2\. 南行列车, 出发自[机场二号航站楼](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink"), 不停靠[欧奈苏布瓦站](../Page/欧奈苏布瓦站.md "wikilink")和[勒布尔歇站](../Page/勒布尔歇站.md "wikilink")之间的车站, 比如区间车**LETO**.
 
-3\. 南行列车, 出发自[米提-克莱](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink"), 不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[巴黎北站](../Page/巴黎北站.md "wikilink")之间的所有站, 比如全程车**PJAB**.
+3\. 南行列车, 出发自[米特里-克莱站](../Page/米特里-克莱站.md "wikilink"), 不停靠[欧奈苏布瓦站](../Page/欧奈苏布瓦站.md "wikilink")和[巴黎北站](../Page/巴黎北站.md "wikilink")之间的所有站, 比如全程车**PJAB**.
 
-4\. 南行列车, 出发自[米提-克莱](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink"), 不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[平原-法兰西体育场之间的所有站](https://zh.wikipedia.org/wiki/平原-法兰西体育场 "wikilink"), 比如全程车**SIAM**.
+4\. 南行列车, 出发自[米特里-克莱站](../Page/米特里-克莱站.md "wikilink"), 不停靠[欧奈苏布瓦站](../Page/欧奈苏布瓦站.md "wikilink")和[平原-法兰西体育场之间的所有站](https://zh.wikipedia.org/wiki/平原-法兰西体育场 "wikilink"), 比如全程车**SIAM**.
 
-5\. 南行列车, 出发自[欧奈](https://zh.wikipedia.org/wiki/欧奈 "wikilink"), 不停靠[勒布尔热和](https://zh.wikipedia.org/wiki/勒布尔热 "wikilink")[巴黎北站](../Page/巴黎北站.md "wikilink")之间的车站, 比如区间车**PULE**.
+5\. 南行列车, 出发自[欧奈苏布瓦](../Page/欧奈苏布瓦.md "wikilink"), 不停靠[欧奈苏布瓦站](../Page/欧奈苏布瓦站.md "wikilink")和[巴黎北站](../Page/巴黎北站.md "wikilink")之间的车站, 比如区间车**PULE**.
 
-6\. 北行列车, 开往[机场二号航站楼](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink"), 不停靠[巴黎北站](../Page/巴黎北站.md "wikilink")和[欧奈之间的车站](https://zh.wikipedia.org/wiki/欧奈 "wikilink"), 比如全程车**ENZO**.
+6\. 北行列车, 开往[机场二号航站楼](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink"), 不停靠[巴黎北站](../Page/巴黎北站.md "wikilink")和[欧奈苏布瓦站](../Page/欧奈苏布瓦站.md "wikilink")之间的车站, 比如全程车**ENZO**.
 
-7\. 北行列车, 开往[机场二号航站楼](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink"), 不停靠[勒布尔热和](https://zh.wikipedia.org/wiki/勒布尔热 "wikilink")[欧奈之间的车站](https://zh.wikipedia.org/wiki/欧奈 "wikilink"), 比如全程车**EWOK**.
+7\. 北行列车, 开往[机场二号航站楼](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink"), 不停靠[勒布尔歇站](../Page/勒布尔歇站.md "wikilink")和[欧奈苏布瓦站](../Page/欧奈苏布瓦站.md "wikilink")之间的车站, 比如全程车**EWOK**.
 
-8\. 北行列车, 开往[欧奈](https://zh.wikipedia.org/wiki/欧奈 "wikilink"), 不停靠[巴黎北站](../Page/巴黎北站.md "wikilink")和[勒布尔热之间的车站](https://zh.wikipedia.org/wiki/勒布尔热 "wikilink"), 比如区间车**GUSS**.
+8\. 北行列车, 开往[欧奈苏布瓦](../Page/欧奈苏布瓦.md "wikilink"), 不停靠[巴黎北站](../Page/巴黎北站.md "wikilink")和[勒布尔歇站](../Page/勒布尔歇站.md "wikilink")之间的车站, 比如区间车**GUSS**.
 
-9\. 北行列车, 开往[米提-克莱](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink"), 不停靠[巴黎北站](../Page/巴黎北站.md "wikilink")和[欧奈之间的车站](https://zh.wikipedia.org/wiki/欧奈 "wikilink"), 比如区间车**IMRE**.
+9\. 北行列车, 开往[米特里-克莱站](../Page/米特里-克莱站.md "wikilink"), 不停靠[巴黎北站](../Page/巴黎北站.md "wikilink")和[欧奈苏布瓦站](../Page/欧奈苏布瓦站.md "wikilink")之间的车站, 比如区间车**IMRE**.
 
-10\. 北行列车, 只开到[平原-法兰西体育场](https://zh.wikipedia.org/wiki/平原-法兰西体育场 "wikilink"), 比如区间车**QORE**.
+10\. 北行列车, 只开到[平原-法兰西体育场站](../Page/平原-法兰西体育场站.md "wikilink"), 比如区间车**QORE**.
 
 这样, 南部有4种往返方式, 北部有5种往返方式, 排列组合得到1小时之内有20班列车, 平均3分钟就有一班车 (无论是往哪个终点站的列车), 但由于各车次快慢不一, 因此列车间隔时间也长短不一.
 
 ### 早班后高峰
 
-各班列车依次轮替, 但7点33分以后从机场出发的南行列车, 以及7点47分后从米提出发的南行列车班次发生变化, 发车频率改为15分钟一班 (北行列车保持原有频率和循环直至高峰时段结束). 此时有5班南行列车, 每15分钟有一班:
+各班列车依次轮替, 但7点33分以后从机场出发的南行列车, 以及7点47分后从米特里出发的南行列车班次发生变化, 发车频率改为15分钟一班 (北行列车保持原有频率和循环直至高峰时段结束). 此时有5班南行列车, 每15分钟有一班:
 
-1\. 从[机场二号航站楼开往](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[圣雷米的全程车](https://zh.wikipedia.org/wiki/圣雷米 "wikilink")**PLAN**, SNCF路段不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[勒布尔热之间的车站](https://zh.wikipedia.org/wiki/勒布尔热 "wikilink"), RATP路段巴黎以南只停靠[皇后镇](https://zh.wikipedia.org/wiki/皇后镇 "wikilink"), [贝尼十字路](https://zh.wikipedia.org/wiki/贝尼十字路 "wikilink"), [安东尼](https://zh.wikipedia.org/wiki/安东尼 "wikilink"), 以及[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")和[圣雷米之间的所有车站](https://zh.wikipedia.org/wiki/圣雷米 "wikilink").
+1\. 从[机场二号航站楼开往](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[圣雷米的全程车](../Page/圣雷米-莱谢夫勒斯站.md "wikilink")**PLAN**, SNCF路段不停靠[欧奈苏布瓦](../Page/欧奈苏布瓦.md "wikilink")和[勒布尔歇之间的车站](https://zh.wikipedia.org/wiki/勒布尔歇 "wikilink"), RATP路段巴黎以南只停靠[皇后镇站](../Page/皇后镇站.md "wikilink")、[贝尼十字路站](../Page/贝尼十字路站.md "wikilink")、[安东尼站](../Page/安东尼站.md "wikilink"), 以及[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")和[圣雷米站之间的所有车站](../Page/圣雷米-莱谢夫勒斯站.md "wikilink").
 
-2\. 从[机场二号航站楼开往](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")的区间车**KJAR**, 在[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[巴黎北站](../Page/巴黎北站.md "wikilink")之间只停靠[新庭奥贝维埃](https://zh.wikipedia.org/wiki/新庭奥贝维埃 "wikilink"), 其余所有站均停靠.
+2\. 从[机场二号航站楼开往](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")的区间车**KJAR**, 在[欧奈苏布瓦站](../Page/欧奈苏布瓦站.md "wikilink")和[巴黎北站](../Page/巴黎北站.md "wikilink")之间只停靠[拉库尔讷沃-欧贝维利耶站](../Page/拉库尔讷沃-欧贝维利耶站.md "wikilink"), 其余所有站均停靠.
 
-3\. 从[欧奈开往](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[罗班松的区间车](https://zh.wikipedia.org/wiki/罗班松 "wikilink")**SVIC**.
+3\. 从[欧奈站开往](../Page/欧奈苏布瓦站.md "wikilink")[罗班松站](../Page/罗班松站.md "wikilink")的区间车**SVIC**.
 
-4\. 从[米提-克莱开往](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink")[拉普拉斯的区间车](https://zh.wikipedia.org/wiki/拉普拉斯 "wikilink")**ULLE**, 不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[巴黎北站](../Page/巴黎北站.md "wikilink")之间的所有站.
+4\. 从[米特里-克莱站](../Page/米特里-克莱站.md "wikilink")开往[拉普拉斯站](../Page/拉普拉斯站.md "wikilink")的区间车**ULLE**, 不停靠[欧奈站和](../Page/欧奈苏布瓦站.md "wikilink")[巴黎北站](../Page/巴黎北站.md "wikilink")之间的所有站.
 
-5\. 从[米提-克莱开往](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink")[拉普拉斯的区间车](https://zh.wikipedia.org/wiki/拉普拉斯 "wikilink")**UBAN**, 不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[平原-法兰西体育场之间的所有站](https://zh.wikipedia.org/wiki/平原-法兰西体育场 "wikilink").
+5\. 从[米特里-克莱站](../Page/米特里-克莱站.md "wikilink")开往[拉普拉斯站](../Page/拉普拉斯站.md "wikilink")的区间车**UBAN**, 不停靠[欧奈站和](../Page/欧奈苏布瓦站.md "wikilink")[平原-法兰西体育场站](../Page/平原-法兰西体育场站.md "wikilink")之间的所有站.
 
 9点以后开出的列车转换为非高峰日班.
 
@@ -894,19 +894,19 @@ MI 79于1980年5月起陆续投入使用. 至今SNCF拥有50辆列车, RATP拥�
 
 [RER-B_Chatelet.jpg](https://zh.wikipedia.org/wiki/File:RER-B_Chatelet.jpg "fig:RER-B_Chatelet.jpg")
 
-班次的运作**与早班高峰恰好相反**, 这一点在SNCF段尤为突出. 比如, 从[平原-法兰西体育场有列车出发南行](https://zh.wikipedia.org/wiki/平原-法兰西体育场 "wikilink"), 但不再有列车以此站为返程终点, 这与早班高峰南北对称. 所有的列车班次仍然是12分钟一班.
+班次的运作**与早班高峰恰好相反**, 这一点在SNCF段尤为突出. 比如, 从[平原-法兰西体育场站](../Page/平原-法兰西体育场站.md "wikilink")有列车出发南行, 但不再有列车以此站为返程终点, 这与早班高峰南北对称. 所有的列车班次仍然是12分钟一班.
 
 ### 晚班后高峰
 
 但到了18点, 列车变为15分钟一班. 每15分钟内, 有4班南行列车:
 
-1\. [机场二号航站楼到](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[圣雷米的全程车](https://zh.wikipedia.org/wiki/圣雷米 "wikilink")**PSIT**, SNCF段不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[勒布尔热之间的车站](https://zh.wikipedia.org/wiki/勒布尔热 "wikilink"), RATP段停靠站与早班高峰往返[圣雷米的列车停靠站相近](https://zh.wikipedia.org/wiki/圣雷米 "wikilink").
+1\. [机场二号航站楼到](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[圣雷米的全程车](../Page/圣雷米-莱谢夫勒斯站.md "wikilink")**PSIT**, SNCF段不停靠[欧奈和](../Page/欧奈苏布瓦.md "wikilink")[勒布尔歇之间的车站](https://zh.wikipedia.org/wiki/勒布尔歇 "wikilink"), RATP段停靠站与早班高峰往返[圣雷米的列车停靠站相近](../Page/圣雷米-莱谢夫勒斯站.md "wikilink").
 
-2\. [机场二号航站楼到](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[奥赛的区间车](https://zh.wikipedia.org/wiki/奥赛 "wikilink")**LYRE**, SNCF段不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[平原-法兰西体育场之间的车站](https://zh.wikipedia.org/wiki/平原-法兰西体育场 "wikilink"), RATP段停靠站与早班高峰往返[奥赛的列车停靠站相近](https://zh.wikipedia.org/wiki/奥赛 "wikilink").
+2\. [机场二号航站楼到](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[奥赛站的区间车](https://zh.wikipedia.org/wiki/奥赛站 "wikilink")**LYRE**, SNCF段不停靠[欧奈站和](../Page/欧奈苏布瓦站.md "wikilink")[平原-法兰西体育场站](../Page/平原-法兰西体育场站.md "wikilink")之间的车站, RATP段停靠站与早班高峰往返[奥赛站的列车停靠站相近](https://zh.wikipedia.org/wiki/奥赛站 "wikilink").
 
-3\. [米提-克莱到](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")的区间车**KMAR**, SNCF段不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[巴黎北站](../Page/巴黎北站.md "wikilink")之间的车站, RATP段停靠站与早班高峰往返[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")的列车停靠站相近.
+3\. [米特里-克莱站](../Page/米特里-克莱站.md "wikilink")到[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")的区间车**KMAR**, SNCF段不停靠[欧奈站和](../Page/欧奈苏布瓦站.md "wikilink")[巴黎北站](../Page/巴黎北站.md "wikilink")之间的车站, RATP段停靠站与早班高峰往返[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")的列车停靠站相近.
 
-4\. [欧奈到](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[罗班松的区间车](https://zh.wikipedia.org/wiki/罗班松 "wikilink")**SVIC**,**SVAN**, 一天之内多次出现的运行方式 (清晨时分, 早班后高峰均出现过**SVIC**).
+4\. [欧奈站到](../Page/欧奈苏布瓦站.md "wikilink")[罗班松站](../Page/罗班松站.md "wikilink")的区间车**SVIC**,**SVAN**, 一天之内多次出现的运行方式 (清晨时分, 早班后高峰均出现过**SVIC**).
 
 这种后高峰时段的班次和高峰时段的班次最大的不同, 就是仅仅把RATP段和SNCF段的往返方式进行一对一的简单配对, 而并非是4\*5的排列组合.
 
@@ -914,13 +914,13 @@ MI 79于1980年5月起陆续投入使用. 至今SNCF拥有50辆列车, RATP拥�
 
 相对应的, 每15分钟内, 有4班北行列车:
 
-1\. [圣雷米到](https://zh.wikipedia.org/wiki/圣雷米 "wikilink")[机场二号航站楼的全程车](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")**EWIL**, **PSIT**的返程车.
+1\. [圣雷米站到](../Page/圣雷米-莱谢夫勒斯站.md "wikilink")[机场二号航站楼的全程车](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")**EWIL**, **PSIT**的返程车.
 
-2\. [奥赛到](https://zh.wikipedia.org/wiki/奥赛 "wikilink")[米提-克莱的区间车](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink")**IQOI**, RATP段为**LYRE**的返程车, SNCF段不停靠[巴黎北站](../Page/巴黎北站.md "wikilink")和[勒布尔热之间的车站](https://zh.wikipedia.org/wiki/勒布尔热 "wikilink").
+2\. [奥赛站到](https://zh.wikipedia.org/wiki/奥赛站 "wikilink")[米特里-克莱站](../Page/米特里-克莱站.md "wikilink")的区间车**IQOI**, RATP段为**LYRE**的返程车, SNCF段不停靠[巴黎北站](../Page/巴黎北站.md "wikilink")和[勒布尔歇站](../Page/勒布尔歇站.md "wikilink")之间的车站.
 
-3\. [马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")到[机场二号航站楼的区间车](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")**ELAS**, RATP段为**KMAR**的返程车, SNCF段不停靠[巴黎北站](../Page/巴黎北站.md "wikilink")和[欧奈之间的车站](https://zh.wikipedia.org/wiki/欧奈 "wikilink").
+3\. [马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")到[机场二号航站楼的区间车](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")**ELAS**, RATP段为**KMAR**的返程车, SNCF段不停靠[巴黎北站](../Page/巴黎北站.md "wikilink")和[欧奈站之间的车站](../Page/欧奈苏布瓦站.md "wikilink").
 
-4\. [罗班松到](https://zh.wikipedia.org/wiki/罗班松 "wikilink")[米提-克莱的全程车](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink")**IGNY**, RATP段为**SVIC**的返程车, SNCF段不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[平原-法兰西体育场之间的车站](https://zh.wikipedia.org/wiki/平原-法兰西体育场 "wikilink").
+4\. [罗班松站](../Page/罗班松站.md "wikilink")到[米特里-克莱站](../Page/米特里-克莱站.md "wikilink")的全程车**IGNY**, RATP段为**SVIC**的返程车, SNCF段不停靠[欧奈站和](../Page/欧奈苏布瓦站.md "wikilink")[平原-法兰西体育场站](../Page/平原-法兰西体育场站.md "wikilink")之间的车站.
 
 和南行列车类似, 北行列车也是一对一的简单配对.
 
@@ -932,11 +932,11 @@ MI 79于1980年5月起陆续投入使用. 至今SNCF拥有50辆列车, RATP拥�
 
 列车15分钟一班. 有以下班次:
 
-1\. 往返于[机场二号航站楼和](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[圣雷米的全程车](https://zh.wikipedia.org/wiki/圣雷米 "wikilink")**EFLA**(白天北行), **EFOC**(夜晚北行), **PEPE**(白天南行), **PERA**(夜晚南行). 在[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")和[大学城之间只停靠](https://zh.wikipedia.org/wiki/大学城 "wikilink")[皇后镇](https://zh.wikipedia.org/wiki/皇后镇 "wikilink"), [贝尼十字路](https://zh.wikipedia.org/wiki/贝尼十字路 "wikilink"), [安东尼](https://zh.wikipedia.org/wiki/安东尼 "wikilink"), 其余所有站均停靠.
+1\. 往返于[机场二号航站楼和](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[圣雷米站的全程车](../Page/圣雷米-莱谢夫勒斯站.md "wikilink")**EFLA**(白天北行), **EFOC**(夜晚北行), **PEPE**(白天南行), **PERA**(夜晚南行). 在[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")和[大学城站之间只停靠](../Page/大學城站_\(法蘭西島大區快鐵\).md "wikilink")[皇后镇站](../Page/皇后镇站.md "wikilink")、[贝尼十字路站](../Page/贝尼十字路站.md "wikilink")、[安东尼站](../Page/安东尼站.md "wikilink"), 其余所有站均停靠.
 
-2\. 往返于[机场二号航站楼和](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")的区间车**EKLI**(白天北行), **EKIL**(夜晚北行), **KROL**(白天南行), **KRIN**(夜晚南行). 不停靠[巴黎北站](../Page/巴黎北站.md "wikilink")和[机场一号航站楼之间的所有车站](https://zh.wikipedia.org/wiki/机场一号航站楼 "wikilink"), 但如果[会展公园有大型会展活动就将停靠](https://zh.wikipedia.org/wiki/会展公园 "wikilink").
+2\. 往返于[机场二号航站楼和](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")的区间车**EKLI**(白天北行), **EKIL**(夜晚北行), **KROL**(白天南行), **KRIN**(夜晚南行). 不停靠[巴黎北站](../Page/巴黎北站.md "wikilink")和[机场一号航站楼之间的所有车站](https://zh.wikipedia.org/wiki/机场一号航站楼 "wikilink"), 但如果[会展公园站](../Page/会展公园站.md "wikilink")有大型会展活动就将停靠.
 
-3\. 往返于[罗班松和](https://zh.wikipedia.org/wiki/罗班松 "wikilink")[米提-克莱的全程车](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink")**ICAR**(白天北行), **ICRE**(夜晚北行), **SPAC**(白天南行), **SPOT**(夜晚南行). 在[平原-法兰西体育场和](https://zh.wikipedia.org/wiki/平原-法兰西体育场 "wikilink")[欧奈之间只停靠](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[勒布尔热](https://zh.wikipedia.org/wiki/勒布尔热 "wikilink"). 其余所有站均停靠.
+3\. 往返于[罗班松站](../Page/罗班松站.md "wikilink")和[米特里-克莱站](../Page/米特里-克莱站.md "wikilink")的全程车**ICAR**(白天北行), **ICRE**(夜晚北行), **SPAC**(白天南行), **SPOT**(夜晚南行). 在[平原-法兰西体育场站](../Page/平原-法兰西体育场站.md "wikilink")和[欧奈站之间只停靠](../Page/欧奈苏布瓦站.md "wikilink")[勒布尔歇](https://zh.wikipedia.org/wiki/勒布尔歇 "wikilink"). 其余所有站均停靠.
 
 4\. 平常工作日, 大致自9点至17点之间为非高峰日班, 20点至21点15分为非高峰晚班. 节假日则以17点至18点为过渡分界区分早班和晚班.
 
@@ -944,15 +944,15 @@ MI 79于1980年5月起陆续投入使用. 至今SNCF拥有50辆列车, RATP拥�
 
 21时15分后, 列车转入夜班运作方式, 直至末班.
 
-1\. 自[米提-克莱开往](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink")[罗班松的](https://zh.wikipedia.org/wiki/罗班松 "wikilink")**SPOT**及其返程车**ICRE**照旧运行数班.
+1\. 自[米特里-克莱站](../Page/米特里-克莱站.md "wikilink")开往[罗班松站](../Page/罗班松站.md "wikilink")的**SPOT**及其返程车**ICRE**照旧运行数班.
 
-2\. 多出一个名为**JIBY**的班车, 自[机场二号航站楼开往](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[丹佛罗什洛](https://zh.wikipedia.org/wiki/丹佛罗什洛 "wikilink"). 不停靠[机场一号航站楼和](https://zh.wikipedia.org/wiki/机场一号航站楼 "wikilink")[巴黎北站](../Page/巴黎北站.md "wikilink")之间的所有车站, 但夏季例外. 其对应返程车为**EEVE**, 仅有一班, 后一班**EYLO**却全程停靠.
+2\. 多出一个名为**JIBY**的班车, 自[机场二号航站楼开往](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[当费尔-罗什罗站](../Page/当费尔-罗什罗站.md "wikilink"). 不停靠[机场一号航站楼和](https://zh.wikipedia.org/wiki/机场一号航站楼 "wikilink")[巴黎北站](../Page/巴黎北站.md "wikilink")之间的所有车站, 但夏季例外. 其对应返程车为**EEVE**, 仅有一班, 后一班**EYLO**却全程停靠.
 
-3\. 自[机场二号航站楼开往](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")和[圣雷米的班车](https://zh.wikipedia.org/wiki/圣雷米 "wikilink")**KDIT**和**PMAR**, 不停靠[大学城和](https://zh.wikipedia.org/wiki/大学城 "wikilink")[皇后镇之间的所有车站](https://zh.wikipedia.org/wiki/皇后镇 "wikilink"), 其余车站均停靠. 其对应的返程车分别为**ERNE**和**EOLE**.
+3\. 自[机场二号航站楼开往](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")和[圣雷米站的班车](../Page/圣雷米-莱谢夫勒斯站.md "wikilink")**KDIT**和**PMAR**, 不停靠[大学城站和](../Page/大學城站_\(法蘭西島大區快鐵\).md "wikilink")[皇后镇站](../Page/皇后镇站.md "wikilink")之间的所有车站, 其余车站均停靠. 其对应的返程车分别为**ERNE**和**EOLE**.
 
 4\. 23时20分后, 班次逐渐稀少, 但复杂性不减.
 
-5\. 凌晨1时16分最后一班南行列车**SCOP**到达[罗班松](https://zh.wikipedia.org/wiki/罗班松 "wikilink"), 最后一班北行列车**IONA**到达[米提-克莱](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink").
+5\. 凌晨1时16分最后一班南行列车**SCOP**到达[罗班松站](../Page/罗班松站.md "wikilink"), 最后一班北行列车**IONA**到达[米特里-克莱站](../Page/米特里-克莱站.md "wikilink").
 
 ### 暑假运作
 
@@ -966,11 +966,11 @@ MI 79于1980年5月起陆续投入使用. 至今SNCF拥有50辆列车, RATP拥�
 
 4\. 列车运作变化较多.
 
-  - 清晨时分, 原来的**IKUO**和**PAPY**缩短至以[欧奈为终点](https://zh.wikipedia.org/wiki/欧奈 "wikilink"), 变成**GRYZ**和**PZET**; 相应的, **GAEL**和**SVIC**延长至[米提-克莱](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink"), 变成**INIA**和**STAR**.
+  - 清晨时分, 原来的**IKUO**和**PAPY**缩短至以[欧奈站为终点](../Page/欧奈苏布瓦站.md "wikilink"), 变成**GRYZ**和**PZET**; 相应的, **GAEL**和**SVIC**延长至[米特里-克莱站](../Page/米特里-克莱站.md "wikilink"), 变成**INIA**和**STAR**.
 
 <!-- end list -->
 
-  - 早班高峰, 北行列车由**IDES**, **EXIL**, **ELAN**和**GAEL**轮替. **ELAN**和**ELAS**(见上文)相同, **IDES**在RATP段和**EWIL**相似, 在SNCF段不停靠[巴黎北站](../Page/巴黎北站.md "wikilink")和[欧奈之间的车站](https://zh.wikipedia.org/wiki/欧奈 "wikilink"), **EXIL**在RATP段和**IQOI**相似, 在SNCF段不停靠[勒布尔热和](https://zh.wikipedia.org/wiki/勒布尔热 "wikilink")[欧奈之间的车站](https://zh.wikipedia.org/wiki/欧奈 "wikilink").
+  - 早班高峰, 北行列车由**IDES**, **EXIL**, **ELAN**和**GAEL**轮替. **ELAN**和**ELAS**(见上文)相同, **IDES**在RATP段和**EWIL**相似, 在SNCF段不停靠[巴黎北站](../Page/巴黎北站.md "wikilink")和[欧奈站之间的车站](../Page/欧奈苏布瓦站.md "wikilink"), **EXIL**在RATP段和**IQOI**相似, 在SNCF段不停靠[勒布尔歇和](https://zh.wikipedia.org/wiki/勒布尔歇 "wikilink")[欧奈苏布瓦](../Page/欧奈苏布瓦.md "wikilink")之间的车站.
 
 <!-- end list -->
 
@@ -978,17 +978,17 @@ MI 79于1980年5月起陆续投入使用. 至今SNCF拥有50辆列车, RATP拥�
 
 <!-- end list -->
 
-  - 白天非高峰时段和节假日白天, 往返[米提-克莱和](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink")[罗班松的列车变为慢车](https://zh.wikipedia.org/wiki/罗班松 "wikilink")**IODE**和**SCOP**, 每站都停靠.
+  - 白天非高峰时段和节假日白天, 往返[米特里-克莱站](../Page/米特里-克莱站.md "wikilink")和[罗班松站](../Page/罗班松站.md "wikilink")的列车变为慢车**IODE**和**SCOP**, 每站都停靠.
 
 <!-- end list -->
 
-  - 晚间非高峰时段和节假日晚间, 原本的**EFOC**在[巴黎北站](../Page/巴黎北站.md "wikilink")以北改为开往[米提-克莱的慢车](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink")**IWOL**, 原本的**EKIL**相应的改为开往机场的慢车**EZAN**, 原本的**ICRE**相应的改为从巴黎北站直达机场的快车**EDAM**.
+  - 晚间非高峰时段和节假日晚间, 原本的**EFOC**在[巴黎北站](../Page/巴黎北站.md "wikilink")以北改为开往[米特里-克莱站](../Page/米特里-克莱站.md "wikilink")的慢车**IWOL**, 原本的**EKIL**相应的改为开往机场的慢车**EZAN**, 原本的**ICRE**相应的改为从巴黎北站直达机场的快车**EDAM**.
 
 ### 特殊情况
 
 [MI79parisnord.JPG](https://zh.wikipedia.org/wiki/File:MI79parisnord.JPG "fig:MI79parisnord.JPG")
 
-1\. 如果遇到相关技术故障, 导致南北段的互通中断, RATP段B线所有班次北端终点为[巴黎北站](../Page/巴黎北站.md "wikilink")地下月台或丹佛站, 由此往返[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink"), [圣雷米和](https://zh.wikipedia.org/wiki/圣雷米 "wikilink")[罗班松的列车有时为慢车](https://zh.wikipedia.org/wiki/罗班松 "wikilink"), 有时与非高峰时段班次相似, SNCF段的巴黎北站发车点由地下月台转移至地面月台, 即[远郊车月台](https://zh.wikipedia.org/wiki/法兰西岛区域铁路 "wikilink"), 由彼处往返[机场和](https://zh.wikipedia.org/wiki/戴高乐机场 "wikilink")[米提-克莱的列车改为慢车](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink").
+1\. 如果遇到相关技术故障, 导致南北段的互通中断, RATP段B线所有班次北端终点为[巴黎北站](../Page/巴黎北站.md "wikilink")地下月台或当费尔站, 由此往返[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink"), [圣雷米站和](../Page/圣雷米-莱谢夫勒斯站.md "wikilink")[罗班松站](../Page/罗班松站.md "wikilink")的列车有时为慢车, 有时与非高峰时段班次相似, SNCF段的巴黎北站发车点由地下月台转移至地面月台, 即[远郊车月台](https://zh.wikipedia.org/wiki/法兰西岛区域铁路 "wikilink"), 由彼处往返[机场和](https://zh.wikipedia.org/wiki/戴高乐机场 "wikilink")[米特里-克莱站](../Page/米特里-克莱站.md "wikilink")的列车改为慢车.
 
 2\. 如果线路出现设备或调度故障, 短时内无法恢复正常, 则正常班次将被取消, 增开非常班次的列车, 比如**PVET**, **LAZZ**, **ECLU**, **ITOU**, **GENE**等.
 
@@ -1002,9 +1002,9 @@ MI 79于1980年5月起陆续投入使用. 至今SNCF拥有50辆列车, RATP拥�
 
 [Gare_d_Aulnay-sous-Bois_03.jpg](https://zh.wikipedia.org/wiki/File:Gare_d_Aulnay-sous-Bois_03.jpg "fig:Gare_d_Aulnay-sous-Bois_03.jpg")
 
-除皇港到巴黎北站的5个地底车站外, 其余所有车站均为地面或架空车站, RATP段的大部分车站都设有两个[侧式月台](https://zh.wikipedia.org/wiki/侧式月台 "wikilink"), 左上右下. 但在各个支線终点站, 区间车终点站, 支線交汇点, 快铁转乘站则会引入[岛式月台或多个侧式月台进行辅助](https://zh.wikipedia.org/wiki/岛式月台 "wikilink"). 以方便列车掉头返回和乘客进行[跨月台转乘](https://zh.wikipedia.org/wiki/跨月台转车站 "wikilink"). 比如[皇后镇为B](https://zh.wikipedia.org/wiki/皇后镇 "wikilink")2,B4支線交汇点, 设有4个侧式月台, [马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")为区间车终点站, 设有2个岛式月台, [奥赛和](https://zh.wikipedia.org/wiki/奥赛 "wikilink")[拉普拉斯在高峰时段为高峰车终点](https://zh.wikipedia.org/wiki/拉普拉斯 "wikilink"), 设有1个岛式月台和1个侧式月台.
+除皇港到巴黎北站的5个地底车站外, 其余所有车站均为地面或架空车站, RATP段的大部分车站都设有两个[侧式月台](https://zh.wikipedia.org/wiki/侧式月台 "wikilink"), 左上右下. 但在各个支線终点站, 区间车终点站, 支線交汇点, 快铁转乘站则会引入[岛式月台或多个侧式月台进行辅助](https://zh.wikipedia.org/wiki/岛式月台 "wikilink"). 以方便列车掉头返回和乘客进行[跨月台转乘](https://zh.wikipedia.org/wiki/跨月台转车站 "wikilink"). 比如[皇后镇为B](https://zh.wikipedia.org/wiki/皇后镇 "wikilink")2,B4支線交汇点, 设有4个侧式月台, [马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")为区间车终点站, 设有2个岛式月台, [奥赛站和](https://zh.wikipedia.org/wiki/奥赛站 "wikilink")[拉普拉斯站](../Page/拉普拉斯站.md "wikilink")在高峰时段为高峰车终点, 设有1个岛式月台和1个侧式月台.
 
-在SNCF路段, 由于和[国铁公司其他铁路线共用铁道](https://zh.wikipedia.org/wiki/法国国家铁路公司 "wikilink"), 从[巴黎北站](../Page/巴黎北站.md "wikilink")到[米提-克莱之间的车站都有多个](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink")[岛式月台和](https://zh.wikipedia.org/wiki/岛式月台 "wikilink")[侧式月台](https://zh.wikipedia.org/wiki/侧式月台 "wikilink").
+在SNCF路段, 由于和[国铁公司其他铁路线共用铁道](https://zh.wikipedia.org/wiki/法国国家铁路公司 "wikilink"), 从[巴黎北站](../Page/巴黎北站.md "wikilink")到[米特里-克莱站](../Page/米特里-克莱站.md "wikilink")之间的车站都有多个[岛式月台和](https://zh.wikipedia.org/wiki/岛式月台 "wikilink")[侧式月台](https://zh.wikipedia.org/wiki/侧式月台 "wikilink").
 
 全线车站都设有自动售票机, 咨询处, , 除在B2支線和B4支線奥赛车站以下南行段之外, 其余车站南北行段均在站台上设立"". 部分车站设有残障人士设施和升降机, 大型车站还设有Navigo充值卡的办理点.
 
@@ -1034,21 +1034,21 @@ B线呈南北向连接了巴黎市郊, 方便了郊区的通勤族快速纵向�
 
 [Gare_de_Mitry_-_Claye_03.jpg](https://zh.wikipedia.org/wiki/File:Gare_de_Mitry_-_Claye_03.jpg "fig:Gare_de_Mitry_-_Claye_03.jpg")
 
-预计到2012年底, 根据Nord +计划的进度, 巴黎北站以北的SNCF路段将会有2条路轨专供RER B线使用, 届时, 彼处的班次将全部改为慢车 (非高峰期的直达车除外), 以简化运作方式, 这遭到了不少选民和乘客的反对. 另外, 新信号系统的安装也在进行之中以适应运作方式的变更, 预计到2012年完成. B3支線上 (欧奈-机场) 正在安装一种特殊信号系统, 叫做, 便于故障时列车可以从反向路轨前进. 另外, 会展公园站和米提-克莱站都正在新增一条路轨, 用于运行故障或延误的列车避让. 米提站附近还将新建一个变电站, 以保障电力正常供应.
+预计到2012年底, 根据Nord +计划的进度, 巴黎北站以北的SNCF路段将会有2条路轨专供RER B线使用, 届时, 彼处的班次将全部改为慢车 (非高峰期的直达车除外), 以简化运作方式, 这遭到了不少选民和乘客的反对. 另外, 新信号系统的安装也在进行之中以适应运作方式的变更, 预计到2012年完成. B3支線上 (欧奈-机场) 正在安装一种特殊信号系统, 叫做, 便于故障时列车可以从反向路轨前进. 另外, 会展公园站和米特里-克莱站都正在新增一条路轨, 用于运行故障或延误的列车避让. 米特里站附近还将新建一个变电站, 以保障电力正常供应.
 
-为了增强旅客上落车时的安全性, SNCF路段的月台高度正在加高中, 米提支線的加高已于2010年夏完成, 机场支線也于同年末季度完成, 目前仅剩余欧奈-法兰西体育场之间未加高.
+为了增强旅客上落车时的安全性, SNCF路段的月台高度正在加高中, 米特里支線的加高已于2010年夏完成, 机场支線也于同年末季度完成, 目前仅剩余欧奈-法兰西体育场之间未加高.
 
 SNCF路段的班次改为慢车后, 高峰期全线的列车运作将得到大幅调整, 届时, 全线各处的发车频率都为12分钟一班车, 包括:
 
-1\. 往返于[机场和](https://zh.wikipedia.org/wiki/机场 "wikilink")[圣雷米的列车](https://zh.wikipedia.org/wiki/圣雷米 "wikilink"), 在[奥赛和](https://zh.wikipedia.org/wiki/奥赛 "wikilink")[大学城之间只停靠](https://zh.wikipedia.org/wiki/大学城 "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink"), [巴克涅](https://zh.wikipedia.org/wiki/巴克涅 "wikilink"), [安东尼](https://zh.wikipedia.org/wiki/安东尼 "wikilink"), [皇后镇](https://zh.wikipedia.org/wiki/皇后镇 "wikilink"), [亚捷卡尚和](https://zh.wikipedia.org/wiki/亚捷卡尚 "wikilink")[让蒂伊](../Page/让蒂伊.md "wikilink"), 其余车站均停靠.
+1\. 往返于[机场和](https://zh.wikipedia.org/wiki/机场 "wikilink")[圣雷米站的列车](../Page/圣雷米-莱谢夫勒斯站.md "wikilink"), 在[奥赛站和](https://zh.wikipedia.org/wiki/奥赛站 "wikilink")[大学城站之间只停靠](../Page/大學城站_\(法蘭西島大區快鐵\).md "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")、[莱巴科内站](../Page/莱巴科内站.md "wikilink")、[安东尼站](../Page/安东尼站.md "wikilink")、[皇后镇站](../Page/皇后镇站.md "wikilink"), [阿尔克伊-卡尚站](../Page/阿尔克伊-卡尚站.md "wikilink")和[让蒂伊站](../Page/让蒂伊站.md "wikilink"), 其余车站均停靠.
 
-2\. 往返于[米提-克莱和](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink")[奥赛的列车](https://zh.wikipedia.org/wiki/奥赛 "wikilink"), 在[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")和[大学城之间只停靠](https://zh.wikipedia.org/wiki/大学城 "wikilink")[安东尼](https://zh.wikipedia.org/wiki/安东尼 "wikilink"), [贝尼十字路](https://zh.wikipedia.org/wiki/贝尼十字路 "wikilink"), [皇后镇](https://zh.wikipedia.org/wiki/皇后镇 "wikilink"), [巴纽和](https://zh.wikipedia.org/wiki/巴纽 "wikilink")[拉普拉斯](https://zh.wikipedia.org/wiki/拉普拉斯 "wikilink"), 其余车站均停靠.
+2\. 往返于[米特里-克莱站](../Page/米特里-克莱站.md "wikilink")和[奥赛站的列车](https://zh.wikipedia.org/wiki/奥赛站 "wikilink"), 在[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")和[大学城站之间只停靠](../Page/大學城站_\(法蘭西島大區快鐵\).md "wikilink")[安东尼站](../Page/安东尼站.md "wikilink")、[贝尼十字路站](../Page/贝尼十字路站.md "wikilink")、[皇后镇站](../Page/皇后镇站.md "wikilink")、[巴涅站](../Page/巴涅站.md "wikilink")和[拉普拉斯站](../Page/拉普拉斯站.md "wikilink"), 其余车站均停靠.
 
-3\. 往返于[机场和](https://zh.wikipedia.org/wiki/机场 "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")的列车, 仅不停靠[亚捷卡尚和](https://zh.wikipedia.org/wiki/亚捷卡尚 "wikilink")[巴纽](https://zh.wikipedia.org/wiki/巴纽 "wikilink").
+3\. 往返于[机场和](https://zh.wikipedia.org/wiki/机场 "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")的列车, 仅不停靠[阿尔克伊-卡尚站](../Page/阿尔克伊-卡尚站.md "wikilink")和[巴涅站](../Page/巴涅站.md "wikilink").
 
-4\. 往返于[法兰西体育场和](https://zh.wikipedia.org/wiki/法兰西体育场 "wikilink")[罗班松的列车](https://zh.wikipedia.org/wiki/罗班松 "wikilink") (此为早班北行和晚班南行列车, 早班南行和晚班北行列车的起点和终点均北延至米提-克莱, 也是全程停靠), 全程停靠.
+4\. 往返于[法兰西体育场和](https://zh.wikipedia.org/wiki/法兰西体育场 "wikilink")[罗班松站](../Page/罗班松站.md "wikilink")的列车 (此为早班北行和晚班南行列车, 早班南行和晚班北行列车的起点和终点均北延至米特里-克莱, 也是全程停靠), 全程停靠.
 
-而非高峰期和节假日的罗班松-米提-克莱往返车 (即前文所提及**ICAR** / **ICRE**和**SPAC** / **SPOT**) 将停靠全程所有车站, 不再越行.
+而非高峰期和节假日的罗班松-米特里-克莱往返车 (即前文所提及**ICAR** / **ICRE**和**SPAC** / **SPOT**) 将停靠全程所有车站, 不再越行.
 
 ### 南部路段规划
 
@@ -1068,11 +1068,11 @@ B线和D线在夏特雷-大堂站和巴黎北站之间共用隧道严重影响�
 
 ### B5延伸段
 
-2008年9月25日, 通过了由提出的B线延长方案, 将从[米提-克莱向东延长三个站至](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink") (Dammartin - Juilly - Saint-Mard), 取代那里已经有的远郊列车线路服务。工程将在2021-2027年进行.
+2008年9月25日, 通过了由提出的B线延长方案, 将从[米特里-克莱向东延长三个站至](https://zh.wikipedia.org/wiki/米特里-克莱 "wikilink") (Dammartin - Juilly - Saint-Mard), 取代那里已经有的远郊列车线路服务。工程将在2021-2027年进行.
 
 ## 周边主要旅游景点
 
-  - [国玺公园](https://zh.wikipedia.org/wiki/国玺公园 "wikilink")
+  - [索镇公园](https://zh.wikipedia.org/wiki/索镇公园 "wikilink")
 
 <!-- end list -->
 

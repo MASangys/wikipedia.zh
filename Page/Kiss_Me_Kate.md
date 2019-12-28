@@ -27,6 +27,6 @@
 
 ## 連結
 
-  - [Kiss Me Kate官方網站](http://www.kissmekate.com.hk/) <small>（已終止服務）</small>
+  - [Kiss Me Kate官方網站](https://web.archive.org/web/20090925051433/http://kissmekate.com.hk/) <small>（已終止服務）</small>
 
 [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:徐子珊音樂專輯](https://zh.wikipedia.org/wiki/Category:徐子珊音樂專輯 "wikilink")

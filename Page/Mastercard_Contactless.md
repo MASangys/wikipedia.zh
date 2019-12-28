@@ -36,7 +36,7 @@
 <tr class="odd">
 <td></td>
 <td><p>大新ONE+信用卡</p></td>
-<td></td>
+<td><p><a href="../Page/大新銀行集團.md" title="wikilink">大新銀行集團</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="https://www.dahsing.com/html/tc/credit_card/card_products/generic/one_credit_card.html">1</a></p></td>
@@ -44,10 +44,10 @@
 <tr class="even">
 <td></td>
 <td><p>大新PayPass Titanium萬事達卡</p></td>
-<td><p><a href="../Page/大新銀行集團.md" title="wikilink">大新銀行集團</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="http://www.dahsing.com/html/tc/credit_card/card_products/generic/paypass_titanium_mastercard.html">2</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -440,7 +440,7 @@
 <td><p>全球付技術有限公司</p></td>
 <td></td>
 <td><p>預付卡，儲值支付工具牌照號碼：SVF0011</p></td>
-<td><p>*<a href="https://faq.neat.hk/zh-TW/support/solutions/articles/35000044199-neat%E5%8D%A1%E6%98%AF%E5%93%AA%E9%A1%9E%E5%9E%8B%E7%9A%84%E5%8D%A1-">51</a></p></td>
+<td><p>*<a href="https://web.archive.org/web/20180402102044/https://faq.neat.hk/zh-TW/support/solutions/articles/35000044199-neat%E5%8D%A1%E6%98%AF%E5%93%AA%E9%A1%9E%E5%9E%8B%E7%9A%84%E5%8D%A1-">51</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

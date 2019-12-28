@@ -1752,7 +1752,7 @@
 16. [Empire Earth 3](http://www.gamesforwindows.com/en-US/Games/Pages/EmpireEarth3.aspx)
 17.
 18. [Gears of War for Windows](http://www.gamesforwindows.com/en-US/Games/Pages/GearsofWarforWindows.aspx)
-19. [Halo 2 for Windows Vista](http://www.gamesforwindows.com/en-US/Games/Pages/Halo2forWindowsVista.aspx)
+19.
 20. [Hellgate: London](http://www.gamesforwindows.com/en-US/Games/Pages/HellgateLondon.aspx)
 21.
 22.

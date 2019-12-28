@@ -24,12 +24,8 @@
 [Category:喹啉合成](https://zh.wikipedia.org/wiki/Category:喹啉合成 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.  Camps, R.; *[Ber.](https://zh.wikipedia.org/wiki/Chemische_Berichte "wikilink")* **1899**, *22*, 3228.
-
 2.  Camps, R.; *[Arch. Pharm.](https://zh.wikipedia.org/wiki/Arch._Pharm. "wikilink")* **1899**, *237*, 659.
-
 3.  Camps, R.; *[Arch. Pharm.](https://zh.wikipedia.org/wiki/Arch._Pharm. "wikilink")* **1901**, *239*, 591.
-
 4.  Manske, R. H. F.; *[Chem. Rev.](https://zh.wikipedia.org/wiki/Chem._Rev. "wikilink")* **1942**, *30*, 127. (Review)
-
 5.
 6.

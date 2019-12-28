@@ -27,11 +27,8 @@ Brasero后来被集成进GNOME，并且版本号随着GNOME桌面版本号变化
 [Category:自由光盘制作软件](https://zh.wikipedia.org/wiki/Category:自由光盘制作软件 "wikilink") [Category:使用GTK+的光盘制作软件](https://zh.wikipedia.org/wiki/Category:使用GTK+的光盘制作软件 "wikilink") [Category:GNOME应用程序](https://zh.wikipedia.org/wiki/Category:GNOME应用程序 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink") [Category:Linux_CD/DVD刻录软件](https://zh.wikipedia.org/wiki/Category:Linux_CD/DVD刻录软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.

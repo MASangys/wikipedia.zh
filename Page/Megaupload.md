@@ -147,27 +147,16 @@
 [Category:檔案傳載網站](https://zh.wikipedia.org/wiki/Category:檔案傳載網站 "wikilink") [Category:美国公司](https://zh.wikipedia.org/wiki/Category:美国公司 "wikilink") [Category:著作權侵害](https://zh.wikipedia.org/wiki/Category:著作權侵害 "wikilink") [Category:2005年香港建立](https://zh.wikipedia.org/wiki/Category:2005年香港建立 "wikilink")
 
 1.  [Megaupload再現 力推新服務](http://www.cna.com.tw/News/FirstNews/201301200038-1.aspx)
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12. [Department of Justice indictment, on Wall Street Journal's website](http://online.wsj.com/article/SB10001424052970204616504577171180266957116.html) - see sections 7 - 14.
-
 13.
 14. [掰掰，Megaupload。下一個離開我們的網站會是誰呢？](http://biosmonthly.com/contactd.php?id=1580)

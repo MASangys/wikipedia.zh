@@ -1014,7 +1014,7 @@
 </tr>
 <tr class="even">
 <td><p>97</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/弩級戰隊HXEROS" title="wikilink">弩級戰隊HXEROS</a></strong></p></td>
+<td><p><strong><a href="../Page/弩級戰隊HXEROS.md" title="wikilink">弩級戰隊HXEROS</a></strong></p></td>
 <td></td>
 <td><p>－</p></td>
 <td><p>2017.06</p></td>

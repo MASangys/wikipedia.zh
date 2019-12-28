@@ -90,7 +90,7 @@
 
   - [幻影死神](https://zh.wikipedia.org/wiki/幻影死神 "wikilink")（）（協力製作：TRIANGLE STAFF）
 
-  - [隨風飄的月影蘭](https://zh.wikipedia.org/wiki/隨風飄的月影蘭 "wikilink")（）
+  - [隨風飄的月影蘭](../Page/隨風飄的月影蘭.md "wikilink")（）
 
   - （）
 

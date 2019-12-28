@@ -4,7 +4,7 @@
 
 ## 簡介
 
-Horipro在日本演藝界的事業相當廣泛，初期以擁有[山口百惠](../Page/山口百惠.md "wikilink")等眾多著名[女性](../Page/女性.md "wikilink")[藝人著稱](https://zh.wikipedia.org/wiki/藝人 "wikilink")，現在除擁有藝人養成[學校以培育年輕新進藝人之外](https://zh.wikipedia.org/wiki/學校 "wikilink")，亦進軍[搞笑藝人市場](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")。1989年首開業界之先，進行[股票](../Page/股票.md "wikilink")的[公開發行](https://zh.wikipedia.org/wiki/公開發行 "wikilink")，1997年進一步在[東京證交所](../Page/東京證券交易所.md "wikilink")2部[上市](https://zh.wikipedia.org/wiki/首次公开募股 "wikilink")，2002年9月正式在東京證交所1部上市\[1\]；至2011年12月出於營運考量，宣布以[MBO方式將公司](https://zh.wikipedia.org/wiki/管理層收購 "wikilink")[私有化](../Page/私有化.md "wikilink")後下市\[2\]。
+Horipro在日本演藝界的事業相當廣泛，初期以擁有[山口百惠](../Page/山口百惠.md "wikilink")等眾多著名[女性](../Page/女性.md "wikilink")[藝人著稱](https://zh.wikipedia.org/wiki/藝人 "wikilink")，現在除擁有藝人養成[學校以培育年輕新進藝人之外](https://zh.wikipedia.org/wiki/學校 "wikilink")，亦進軍[搞笑藝人](../Page/搞笑藝人.md "wikilink")市場。1989年首開業界之先，進行[股票](../Page/股票.md "wikilink")的[公開發行](https://zh.wikipedia.org/wiki/公開發行 "wikilink")，1997年進一步在[東京證交所](../Page/東京證券交易所.md "wikilink")2部[上市](https://zh.wikipedia.org/wiki/首次公开募股 "wikilink")，2002年9月正式在東京證交所1部上市\[1\]；至2011年12月出於營運考量，宣布以[MBO方式將公司](https://zh.wikipedia.org/wiki/管理層收購 "wikilink")[私有化](../Page/私有化.md "wikilink")後下市\[2\]。
 
 Horipro自1976年起，與[電視台合作舉辦一年一度的大型](https://zh.wikipedia.org/wiki/電視台 "wikilink")[選秀活動](https://zh.wikipedia.org/wiki/選秀 "wikilink")「」（；簡稱「TSC」 ），許多獲獎者在日後皆成為日本演藝界的要角。
 

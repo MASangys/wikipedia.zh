@@ -13,4 +13,4 @@
   - [Eurokai集团](http://www.eurokai.de)
   - [Eurogate](http://www.eurogate.eu)
 
-[Category:德國物流公司](https://zh.wikipedia.org/wiki/Category:德國物流公司 "wikilink") [Category:汉堡](https://zh.wikipedia.org/wiki/Category:汉堡 "wikilink")
+[Category:德國物流公司](https://zh.wikipedia.org/wiki/Category:德國物流公司 "wikilink") [Category:汉堡公司](https://zh.wikipedia.org/wiki/Category:汉堡公司 "wikilink") [Category:1865年成立的公司](https://zh.wikipedia.org/wiki/Category:1865年成立的公司 "wikilink")

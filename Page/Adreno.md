@@ -477,6 +477,17 @@
 <td><p>Snapdragon 855 / 855+</p></td>
 </tr>
 <tr class="even">
+<td><p>Adreno 650</p></td>
+<td><p>?</p></td>
+<td><p>?</p></td>
+<td><p>？</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>？</p></td>
+<td><p>Snapdragon 865</p></td>
+</tr>
+<tr class="odd">
 <td><p>Adreno 680</p></td>
 <td><p>?</p></td>
 <td><p>?</p></td>
@@ -487,7 +498,7 @@
 <td><p>1800</p></td>
 <td><p>Snapdragon 8cx</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Adreno 685</p></td>
 <td><p>?</p></td>
 <td><p>?</p></td>
@@ -498,7 +509,7 @@
 <td><p>2100</p></td>
 <td><p>Microsoft SQ1</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>名称</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/微架构" title="wikilink">微架构</a></p></td>
 <td><p>制程 (<a href="../Page/纳米.md" title="wikilink">nm</a>)</p></td>
@@ -509,7 +520,7 @@
 <td><p>高通芯片中的应用</p></td>
 <td><p>引用</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>架构类型</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/算术逻辑单元" title="wikilink">ALU</a></p></td>
 <td><p>百万三角形/s</p></td>

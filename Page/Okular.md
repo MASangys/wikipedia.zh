@@ -14,7 +14,7 @@ Okular可以支持下述的文件格式\[3\]：
   - [Comicbook](https://zh.wikipedia.org/wiki/Comicbook "wikilink")
   - [Plucker](https://zh.wikipedia.org/wiki/Plucker "wikilink")
   - [EPUB](../Page/EPUB.md "wikilink")
-  - [mobi](https://zh.wikipedia.org/wiki/mobi "wikilink") (amazon kindle的电子书格式)
+  - [mobi](../Page/Mobipocket.md "wikilink") (Amazon kindle的电子书格式)
 
 ## 参考文献
 

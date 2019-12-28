@@ -37,6 +37,7 @@ Ubuntu Netbook Edition的最低系統要求如下:
 
 以下[上网本](../Page/上网本.md "wikilink")使用Ubuntu Netbook Edition:
 
+  - [華碩Eee PC](https://zh.wikipedia.org/wiki/華碩Eee_PC "wikilink")
   - Sylvania G Netbook Meso
   - Toshiba NB100
   - System76 Starling Netbook

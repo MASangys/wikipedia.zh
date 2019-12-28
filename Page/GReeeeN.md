@@ -73,7 +73,7 @@
 
   - [2002年](../Page/2002年.md "wikilink")
 
-:\* HIDE和navi在HIDE的弟弟的技术支持下组成GReeeN。\[4\]
+:\* HIDE和navi在HIDE的哥哥的技术支持下组成GReeeN。\[4\]
 
   - [2004年](../Page/2004年.md "wikilink")
 

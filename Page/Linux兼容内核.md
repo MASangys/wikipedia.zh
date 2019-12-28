@@ -279,13 +279,13 @@
 
 ## 外部链接
 
-<http://www.Longene.org/>
+<https://web.archive.org/web/20090224010114/http://www.longene.org/>
 
 [Category:操作系统](https://zh.wikipedia.org/wiki/Category:操作系统 "wikilink") [Category:兼容层](https://zh.wikipedia.org/wiki/Category:兼容层 "wikilink")
 
 1.  [1](http://server.zol.com.cn/21/218764.html) Linux兼容内核项目正式启动，中国工程院院士倪光南、开源软件推进联盟主席陆首群祝贺。
 2.  [兼容内核白皮书](http://www.unifiedkernel.com/whitepaper.php)
 3.
-4.  \[[http://www.longene.org/techdoc/0644167001388447880.html\]写于龙井1.0发布之际](http://www.longene.org/techdoc/0644167001388447880.html%5D写于龙井1.0发布之际)
+4.  [2](http://www.longene.org/techdoc/0644167001388447880.html) 写于龙井1.0发布之际
 5.
 6.  [Magic Linux 2.1 released (Machine translation)](http://translate.google.cn/translate?u=http%3A%2F%2Fwww.magiclinux.org%2Fnode%2F902&sl=zh-CN&tl=en&hl=zh-CN&ie=UTF-8)

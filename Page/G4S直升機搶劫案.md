@@ -25,25 +25,16 @@
 [Category:瑞典罪案](https://zh.wikipedia.org/wiki/Category:瑞典罪案 "wikilink") [Category:2009年案件](https://zh.wikipedia.org/wiki/Category:2009年案件 "wikilink") [Category:2009年9月](https://zh.wikipedia.org/wiki/Category:2009年9月 "wikilink") [Category:斯德哥尔摩历史](https://zh.wikipedia.org/wiki/Category:斯德哥尔摩历史 "wikilink")
 
 1.  [Helikopterrånet – detta har hänt](http://www.svd.se/nyheter/inrikes/artikel_3562849.svd)，SvD，2009年9月24日
-
 2.  [Utländska medier: "Helikopterkupp chockar Sverige"](http://www.svd.se/nyheter/inrikes/artikel_3563009.svd)，SvD，2009年9月23日
-
 3.  [Polisens helikopter vid värdedepån](http://www.aftonbladet.se/nyheter/article5846735.ab)，Aftonbladet，2009年9月24日
-
 4.  [Sweden Robbery: Police Slammed After Hollywood-Style Helicopter Heist](http://www.huffingtonpost.com/2009/09/24/sweden-robbery-police-sla_n_298649.html)，huffingtonpost，2009年9月24日
-
 5.
 6.  [Rånet som väckte Sverige](http://www.aftonbladet.se/nyheter/article5839301.ab)，Aftonbladet，2009年9月23日
-
 7.
 8.  [Så gick det spektakulära rånet till](http://www.dn.se/sthlm/sa-gick-det-spektakulara-ranet-till-1.961787)，DN，2009年9月27日
-
 9.
 10. [Helikopterrånet: JAS Gripen hade kunnat ingripa](http://blogg.svd.se/ledarbloggen?id=15724) ，SvD，2009年9月29日
-
 11.
 12. [UTTALANDE FRÅN G4S](http://www.g4s.com/sve/se/se-news_and_media-pr.htm?id=56112) ，G4S，2009年9月24日
-
 13. [Sex personer anhållna för helikopterrånet](http://www.dn.se/sthlm/sex-personer-anhallna-for-helikopterranet-1.961965)，DN，2009年9月29日
-
 14. [Hjärnan bakom misstänks finnas i Serbien](http://www.dn.se/sthlm/nya-misstankar-mot-helikopterranare-1.962730)，DN，2009年9月29日

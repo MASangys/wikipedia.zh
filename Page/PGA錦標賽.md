@@ -173,7 +173,7 @@ PGA锦标赛在美国众多球场都举办过，早期的一些球场并不太�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2004年PGA锦标赛" title="wikilink">2004</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/维杰·辛格" title="wikilink">维杰·辛格</a>（Vijay Singh） (2)</p></td>
+<td><p><a href="../Page/维杰·辛格.md" title="wikilink">维杰·辛格</a>（Vijay Singh） (2)</p></td>
 <td></td>
 <td><p>Whistling Straits, Straits Course</p></td>
 <td><p>威斯康辛州Kohler</p></td>
@@ -221,7 +221,7 @@ PGA锦标赛在美国众多球场都举办过，早期的一些球场并不太�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1998年PGA锦标赛" title="wikilink">1998</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/维杰·辛格" title="wikilink">维杰·辛格</a>（Vijay Singh）</p></td>
+<td><p><a href="../Page/维杰·辛格.md" title="wikilink">维杰·辛格</a>（Vijay Singh）</p></td>
 <td></td>
 <td><p>Sahalee Country Club</p></td>
 <td><p>华盛顿州Sammamish</p></td>
@@ -253,7 +253,7 @@ PGA锦标赛在美国众多球场都举办过，早期的一些球场并不太�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1994年PGA锦标赛" title="wikilink">1994</a></p></td>
-<td><p>Nick Price (2)</p></td>
+<td><p><a href="../Page/尼克·普萊斯.md" title="wikilink">尼克·普萊斯</a>（Nick Price） (2)</p></td>
 <td></td>
 <td><p>Southern Hills Country Club</p></td>
 <td><p>奥克拉荷马州Tulsa</p></td>
@@ -269,7 +269,7 @@ PGA锦标赛在美国众多球场都举办过，早期的一些球场并不太�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1992年PGA锦标赛" title="wikilink">1992</a></p></td>
-<td><p>Nick Price</p></td>
+<td><p><a href="../Page/尼克·普萊斯.md" title="wikilink">尼克·普萊斯</a>（Nick Price）</p></td>
 <td></td>
 <td><p>Bellerive Country Club</p></td>
 <td><p>密苏里州St. Louis</p></td>
@@ -349,7 +349,7 @@ PGA锦标赛在美国众多球场都举办过，早期的一些球场并不太�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1982年PGA锦标赛" title="wikilink">1982</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/雷蒙德·弗洛伊德" title="wikilink">雷蒙德·弗洛伊德</a>（Raymond Floyd）(2)</p></td>
+<td><p><a href="../Page/雷蒙德·弗洛伊德.md" title="wikilink">雷蒙德·弗洛伊德</a>（Raymond Floyd）(2)</p></td>
 <td></td>
 <td><p>Southern Hills Country Club</p></td>
 <td><p>奥克拉荷马州Tulsa</p></td>
@@ -453,7 +453,7 @@ PGA锦标赛在美国众多球场都举办过，早期的一些球场并不太�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/1969年PGA锦标赛" title="wikilink">1969</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/雷蒙德·弗洛伊德" title="wikilink">雷蒙德·弗洛伊德</a>（Raymond Floyd）</p></td>
+<td><p><a href="../Page/雷蒙德·弗洛伊德.md" title="wikilink">雷蒙德·弗洛伊德</a>（Raymond Floyd）</p></td>
 <td></td>
 <td><p>NCR Country Club, South Course</p></td>
 <td><p>俄亥俄州Dayton</p></td>

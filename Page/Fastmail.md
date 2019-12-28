@@ -19,7 +19,7 @@ Fastmail 于 1999 年由 Rob Mueller, Bruce Davey 和 Jeremy Howard 创建。
 ## 外部链接
 
   - [Fastmail 主站点](https://www.fastmail.fm/)
-  - [Fastmail CN域名](https://www.fastmail.cn/)
+  - [Fastmail CN域名](https://web.archive.org/web/20120414145348/http://www.fastmail.cn/)
   - [Messaging Engine 主页](https://web.archive.org/web/20080606052848/http://www.messagingengine.com/)
 
 [Category:电子邮件网站](https://zh.wikipedia.org/wiki/Category:电子邮件网站 "wikilink")

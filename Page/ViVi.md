@@ -70,7 +70,7 @@
 
   - [昕薇中国大陆官方网站](http://www.xinwei.tv/)
 
-[Category:講談社的雜誌](https://zh.wikipedia.org/wiki/Category:講談社的雜誌 "wikilink") [Category:日本雜誌](https://zh.wikipedia.org/wiki/Category:日本雜誌 "wikilink") [Category:月刊](https://zh.wikipedia.org/wiki/Category:月刊 "wikilink") [Category:時尚雜誌](https://zh.wikipedia.org/wiki/Category:時尚雜誌 "wikilink")
+[Category:講談社的雜誌](https://zh.wikipedia.org/wiki/Category:講談社的雜誌 "wikilink") [Category:日本雜誌](https://zh.wikipedia.org/wiki/Category:日本雜誌 "wikilink") [Category:月刊](https://zh.wikipedia.org/wiki/Category:月刊 "wikilink") [Category:日本时尚杂志](https://zh.wikipedia.org/wiki/Category:日本时尚杂志 "wikilink")
 
 1.
 2.

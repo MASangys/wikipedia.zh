@@ -22,9 +22,9 @@
   - 2016年1月1日，節目採用高清拍攝，改於全新直播室進行直播。描述當天的天氣狀況時亦會直播香港各地的畫面，例如[維港](https://zh.wikipedia.org/wiki/維港 "wikilink")、荃灣、[黃大仙](https://zh.wikipedia.org/wiki/黃大仙 "wikilink")、[沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")[城門河](../Page/城門河.md "wikilink")、[紅磡](../Page/紅磡.md "wikilink")海旁、[觀塘](../Page/觀塘.md "wikilink")海旁等。但由於成本高昂，有關安排在不足半年已取消。
   - 2016年11月9日，由於播放美國大選特備節目，本節目暫停播映。
   - 2018年1月1日，[奇妙電視中文台](https://zh.wikipedia.org/wiki/奇妙電視中文台 "wikilink")（現稱「[香港開電視](../Page/香港開電視.md "wikilink")」）開始播放本節目；節目同時在[有線新聞台](../Page/有線新聞台.md "wikilink")、[有線第1台](../Page/有線第1台.md "wikilink")和奇妙電視中文台（現稱「香港開電視」）聯播。
-  - 2018年7月30日，因《[創富早餐](https://zh.wikipedia.org/wiki/創富早餐 "wikilink")》停播，[有線財經資訊台](../Page/有線財經資訊台.md "wikilink")逢港股交易日開始播放本節目；節目同時在有線新聞台、有線第1台、有線財經資訊台和奇妙電視中文台（現稱「香港開電視」）聯播。
+  - 2018年7月30日，因《[創富早餐](https://zh.wikipedia.org/wiki/創富早餐 "wikilink")》停播，[有線財經資訊台](../Page/有線財經資訊台.md "wikilink")逢港股交易日開始播放本節目；節目同時在有線新聞台、有線第1台、有線財經資訊台和奇妙電視中文台（現稱「香港開電視」）聯播，但與有線新聞台、有線第1台和奇妙電視中文台不同，有線財經資訊台顯示的是自身的天氣及時間資訊列。
   - 2018年11月5日，節目更換片頭及螢幕佈景。
-  - 2019年12月3日起，[有線第1台](../Page/有線第1台.md "wikilink")停播並合併為[有線綜合娛樂台](https://zh.wikipedia.org/wiki/有線綜合娛樂台 "wikilink")（301/371頻道），節目繼續在[有線新聞台](../Page/有線新聞台.md "wikilink")、有線綜合娛樂台、有線財經資訊台和香港開電視聯播，但時間改由上午8時聯播。
+  - 2019年12月3日起，[有線第1台](../Page/有線第1台.md "wikilink")停播並合併為[有線綜合娛樂台](../Page/有線綜合娛樂台.md "wikilink")（301/371頻道），節目繼續在[有線新聞台](../Page/有線新聞台.md "wikilink")、有線綜合娛樂台、有線財經資訊台和香港開電視聯播，但有線綜合娛樂台只聯播上午8時至9時的時段，且不似有線第1台播放時期顯示[有線新聞台](../Page/有線新聞台.md "wikilink")時間的天氣、時間資訊列及新聞跑馬燈。
 
 ## 場景
 
@@ -64,7 +64,7 @@ Cable早晨由兩位[有線電視主播主持](https://zh.wikipedia.org/wiki/香
 
   - [香港有線電視](../Page/香港有線電視.md "wikilink")
   - [有線電視主播和記者](https://zh.wikipedia.org/wiki/香港有線新聞有限公司#主播、主持及記者 "wikilink")
-  - Cable早晨開場：[有線新聞台視角](https://www.youtube.com/watch?v=X8meEX1Ufbk)、[香港開電視視角](https://www.youtube.com/watch?v=odrqV-vw8-Y)
+  - Cable早晨開場：[有線新聞台視角](https://www.youtube.com/watch?v=X8meEX1Ufbk)、[香港開電視視角](https://www.youtube.com/watch?v=odrqV-vw8-Y)、[有線綜合娛樂台視角](https://www.youtube.com/watch?v=vgRVSvN08Dg)
 
 ## 節目調動（[香港開電視](../Page/香港開電視.md "wikilink")）
 

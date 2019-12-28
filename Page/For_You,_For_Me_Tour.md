@@ -75,12 +75,8 @@
 [Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink") [Category:凯莉·米洛音乐会](https://zh.wikipedia.org/wiki/Category:凯莉·米洛音乐会 "wikilink") [Category:2009年音乐会](https://zh.wikipedia.org/wiki/Category:2009年音乐会 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.

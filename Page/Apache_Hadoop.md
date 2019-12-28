@@ -59,6 +59,7 @@ Hadoop框架透明地為應用提供可靠性和數據移動。它實現了名�
 
 ## 參見
 
+  - [大数据](https://zh.wikipedia.org/wiki/大数据 "wikilink")
   - [雲端運算](../Page/雲端運算.md "wikilink")
   - [高性能計算集群](../Page/高性能計算集群.md "wikilink")
   - [OpenStack](../Page/OpenStack.md "wikilink")－以[Apache許可證授權的雲端運算軟件](https://zh.wikipedia.org/wiki/Apache許可證 "wikilink")。

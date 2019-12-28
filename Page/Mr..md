@@ -1,4 +1,4 @@
-**Mr.**（**Mister**）是一隊[香港](../Page/香港.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，前身是獨立樂隊White Noise，由主音歌手Alan（[布志綸](../Page/布志綸.md "wikilink")）、節奏吉他手Ronny（黎澤恩）、主音吉他手MJ（譚傑明）、貝斯手Dash（譚健文）及鼓手Tom（杜志烜）組成。由於音樂的認受性乃建基於大眾對樂手本身的印象，因此他們決定改名為Mr.，進一步在音樂工業上作出貢獻，希望有更多聽眾能得到共鳴。Mr.的真正意思是指**平凡人**。他們五人都是由基層出身，從平凡的五個人到置身音樂圈成為樂隊。2019年，Mr首次以獨立樂隊身份發怖新歌《釋放自己》，並在1月11日晚上8時在Mr. Youtube頻道發怖《釋放自己》MV。在同年2月23日，宣佈在5月17及5月18日在紅館舉行一連兩場"Everyone Concert 10"演唱會。
+**Mr.**（**Mister**）是一隊[香港](../Page/香港.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，前身是獨立樂隊White Noise，由主音歌手Alan（[布志綸](../Page/布志綸.md "wikilink")）、節奏吉他手Ronny（黎澤恩）、主音吉他手MJ（譚傑明）、貝斯手Dash（譚健文）及鼓手Tom（杜志烜）組成。由於音樂的認受性乃建基於大眾對樂手本身的印象，因此他們決定改名為Mr.，進一步在音樂工業上作出貢獻，希望有更多聽眾能得到共鳴。Mr.的真正意思是指**平凡人**。他們五人都是由基層出身，從平凡的五個人到置身音樂圈成為樂隊。2019年，Mr首次以獨立樂隊身份發怖新歌《釋放自己》，並在1月11日晚上8時在Mr. Youtube頻道發佈《釋放自己》MV。在同年2月23日，宣佈在5月17日及5月18日在[紅館舉行一連兩場](https://zh.wikipedia.org/wiki/紅館 "wikilink")「Everyone Concert 10」演唱會。
 
 ## 簡介
 
@@ -38,9 +38,7 @@
 
 2018年5月18日，宣佈在8月24日及8月25日將分別與[觸執毛](../Page/觸執毛.md "wikilink")及[Kolor](../Page/Kolor.md "wikilink")、[ToNick](../Page/ToNick.md "wikilink")、Yellow於[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")舉辦起哄音樂節「SHOUT IT OUT」。
 
-2019年休息了一段日子的Mr.，年初以獨立樂隊身份發布新歌，早前更宣布五月於紅館舉行"Everyone Concert 10"演唱會。舉行兩場演唱會。\[6\]發佈新歌單曲《釋放自己》，並在當天晚上8時在其Youtube頻道發佈《釋放自己》MV。
-
-
+2019年休息了一段日子的Mr.，年初以獨立樂隊身份發布新歌，並在5月於紅館舉行一連兩場「Everyone Concert 10」演唱會。\[6\]同年發佈新歌單曲《釋放自己》，並在當天晚上8時在其YouTube頻道發佈《釋放自己》MV。
 
 ## 成員
 

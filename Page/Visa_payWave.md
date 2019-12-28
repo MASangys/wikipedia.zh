@@ -47,58 +47,58 @@
 <tr class="even">
 <td></td>
 <td><p>MUJI Card</p></td>
-<td><p><a href="../Page/恒生銀行.md" title="wikilink">恒生銀行</a></p></td>
 <td><p><a href="../Page/無印良品.md" title="wikilink">無印良品</a></p></td>
 <td></td>
 <td><p>*<a href="https://bank.hangseng.com/1/2/chi/personal/cards/products/co-branded/muji-card">2</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>恒生Visa白金卡</p></td>
-<td><p><a href="../Page/恒生銀行.md" title="wikilink">恒生銀行</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="https://bank.hangseng.com/1/2/chi/personal/cards/products/platinum-card">3</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>香港中文大學信用卡</p></td>
-<td><p><a href="../Page/恒生銀行.md" title="wikilink">恒生銀行</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/香港中文大學" title="wikilink">香港中文大學</a></p></td>
 <td></td>
 <td><p>*<a href="https://bank.hangseng.com/1/2/chi/personal/cards/products/university-affinity/chinese-university-card">4</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>香港城市大學信用卡</p></td>
-<td><p><a href="../Page/恒生銀行.md" title="wikilink">恒生銀行</a></p></td>
 <td><p><a href="../Page/香港城市大學.md" title="wikilink">香港城市大學</a></p></td>
 <td></td>
 <td><p>*<a href="https://bank.hangseng.com/1/2/chi/personal/cards/products/university-affinity/city-university-card">5</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>香港浸會大學信用卡</p></td>
-<td><p><a href="../Page/恒生銀行.md" title="wikilink">恒生銀行</a></p></td>
 <td><p><a href="../Page/香港浸會大學.md" title="wikilink">香港浸會大學</a></p></td>
 <td></td>
 <td><p>*<a href="https://bank.hangseng.com/1/2/chi/personal/cards/products/university-affinity/baptist-university-card">6</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>香港中文大學專業進修學院信用卡</p></td>
-<td><p><a href="../Page/恒生銀行.md" title="wikilink">恒生銀行</a></p></td>
 <td><p><a href="../Page/香港中文大學專業進修學院.md" title="wikilink">香港中文大學專業進修學院</a></p></td>
 <td></td>
 <td><p>*<a href="https://bank.hangseng.com/1/2/chi/personal/cards/products/university-affinity/scs-cuhk-card">7</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>恒生管理學院信用卡</p></td>
-<td><p><a href="../Page/恒生銀行.md" title="wikilink">恒生銀行</a></p></td>
+<td><p>香港恒生大學信用卡</p></td>
 <td><p><a href="../Page/香港恒生大學.md" title="wikilink">香港恒生大學</a></p></td>
 <td></td>
 <td><p>*<a href="https://bank.hangseng.com/1/2/chi/personal/cards/products/university-affinity/hsmc-card">8</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -112,42 +112,42 @@
 <tr class="even">
 <td></td>
 <td><p>DBS Eminent Card</p></td>
-<td><p><a href="../Page/星展銀行（香港）.md" title="wikilink">星展銀行（香港）</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://www.dbs.com.hk/personal-zh/credit-cards/credit-cards/eminent-card">10</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>CABLE Power VISA</p></td>
-<td><p><a href="../Page/星展銀行（香港）.md" title="wikilink">星展銀行（香港）</a></p></td>
 <td><p><a href="../Page/有線寬頻.md" title="wikilink">有線寬頻</a></p></td>
 <td></td>
 <td><p><a href="https://www.dbs.com.hk/personal-zh/credit-cards/credit-cards/cable-visa">11</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>DBS Pay Less Visa白金卡</p></td>
-<td><p><a href="../Page/星展銀行（香港）.md" title="wikilink">星展銀行（香港）</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://www.dbs.com.hk/personal-zh/credit-cards/credit-cards/pay-less-visa">12</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>DBS商務卡</p></td>
-<td><p><a href="../Page/星展銀行（香港）.md" title="wikilink">星展銀行（香港）</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://www.dbs.com.hk/personal-zh/credit-cards/credit-cards/visa-business">13</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>3Everyday COMPASS VISA</p></td>
-<td><p><a href="../Page/星展銀行（香港）.md" title="wikilink">星展銀行（香港）</a></p></td>
 <td><p><a href="../Page/長江和記實業.md" title="wikilink">長江和記實業</a>旗下部份商店：<br />
 <a href="../Page/百佳超級市場.md" title="wikilink">百佳超級市場</a>、<a href="../Page/Taste.md" title="wikilink">Taste</a>、<a href="../Page/Great.md" title="wikilink">Great</a>、<a href="../Page/豐澤電器.md" title="wikilink">豐澤電器</a>、<a href="../Page/屈臣氏個人護理店.md" title="wikilink">屈臣氏個人護理店</a></p></td>
 <td><p>已停止發行</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -195,42 +195,42 @@
 <tr class="even">
 <td></td>
 <td><p>大新VIP銀行服務Visa Infinite卡</p></td>
-<td><p><a href="../Page/大新銀行集團.md" title="wikilink">大新銀行集團</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="https://www.dahsing.com/html/tc/credit_card/card_products/generic/vip_banking_visa_infinite_card.html">18</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>大新GUNDAM信用卡</p></td>
-<td><p><a href="../Page/大新銀行集團.md" title="wikilink">大新銀行集團</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="https://www.dahsing.com/html/tc/credit_card/card_products/program/gundam_card.html">19</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>大新瑪利諾修院學校VISA白金卡</p></td>
-<td><p><a href="../Page/大新銀行集團.md" title="wikilink">大新銀行集團</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="https://www.dahsing.com/html/tc/credit_card/card_products/affinity/maryknoll_convent_school_card.html">20</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>大新出類拔萃白金卡</p></td>
-<td><p><a href="../Page/大新銀行集團.md" title="wikilink">大新銀行集團</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="https://www.dahsing.com/html/tc/credit_card/card_products/affinity/distinction_card.html">21</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>大新英國航空白金卡</p></td>
-<td><p><a href="../Page/大新銀行集團.md" title="wikilink">大新銀行集團</a></p></td>
 <td><p><a href="../Page/英國航空.md" title="wikilink">英國航空</a></p></td>
 <td></td>
 <td><p>*<a href="http://www.dahsing.com/html/tc/credit_card/card_products/co_brand/sc_british_airway_card_flash_offer.html?intcmp=shortcut_cc_baml">22</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -243,21 +243,21 @@
 <tr class="even">
 <td></td>
 <td><p>ICBC宇宙星座卡</p></td>
-<td><p><a href="../Page/中國工商銀行（亞洲）.md" title="wikilink">中國工商銀行（亞洲）</a></p></td>
 <td></td>
 <td></td>
 <td><ul>
 <li><a href="http://www.icbcasia.com/ICBC/%E6%B5%B7%E5%A4%96%E5%88%86%E8%A1%8C/%E5%B7%A5%E9%93%B6%E4%BA%9A%E6%B4%B2/TC/%E4%BF%A1%E7%94%A8%E5%8D%A1/%E4%BF%A1%E7%94%A8%E5%8D%A1%E9%A1%9E%E5%88%A5/horoscope/default.htm">24</a></li>
 </ul></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>ICBC長隆白金卡</p></td>
-<td><p><a href="../Page/中國工商銀行（亞洲）.md" title="wikilink">中國工商銀行（亞洲）</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/廣東長隆集團" title="wikilink">廣東長隆集團旗下</a><a href="../Page/主題公園.md" title="wikilink">主題公園</a>：<br />
 <a href="https://zh.wikipedia.org/wiki/長隆歡樂世界" title="wikilink">長隆歡樂世界</a>、長隆水上樂園、長隆國際大馬戲、<a href="../Page/長隆野生動物世界.md" title="wikilink">長隆野生動物世界</a>、廣州鱷魚公園、<a href="https://zh.wikipedia.org/wiki/長隆海洋王國" title="wikilink">長隆海洋王國</a>、長隆橫琴國際馬戲城等</p></td>
 <td></td>
 <td><p>*<a href="http://www.icbcasia.com/ICBC/%E6%B5%B7%E5%A4%96%E5%88%86%E8%A1%8C/%E5%B7%A5%E9%93%B6%E4%BA%9A%E6%B4%B2/TC/%E4%BF%A1%E7%94%A8%E5%8D%A1/%E4%BF%A1%E7%94%A8%E5%8D%A1%E9%A1%9E%E5%88%A5/chimelong.htm">25</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -270,18 +270,18 @@
 <tr class="odd">
 <td></td>
 <td><p>建行(亞洲)白金信用卡</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中國建設銀行（亞洲）" title="wikilink">中國建設銀行（亞洲）</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="http://m.asia.ccb.com/hongkong_tc/personal/credit_cards/asia_credit_card.html">27</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>建行(亞洲)AIA VISA信用卡</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中國建設銀行（亞洲）" title="wikilink">中國建設銀行（亞洲）</a></p></td>
 <td><p><a href="../Page/友邦保險.md" title="wikilink">友邦保險</a></p></td>
 <td></td>
 <td><p>*<a href="http://m.asia.ccb.com/hongkong_tc/personal/credit_cards/asia_aia_credit_card.html">28</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -294,43 +294,43 @@
 <tr class="even">
 <td></td>
 <td><p>中銀GOOD DAY白金卡</p></td>
-<td><p>中銀信用卡（國際）有限公司</p></td>
 <td><p><a href="../Page/華潤集團.md" title="wikilink">華潤集團</a>旗下部份商店：<br />
 <a href="../Page/華潤萬家超級市場.md" title="wikilink">華潤萬家超級市場</a>、<a href="../Page/U購Select.md" title="wikilink">U購Select</a>、<a href="https://zh.wikipedia.org/wiki/華潤堂" title="wikilink">華潤堂</a>、<a href="../Page/太平洋咖啡.md" title="wikilink">太平洋咖啡</a>、voi_la! 及<a href="https://zh.wikipedia.org/wiki/VanGO" title="wikilink">VanGO</a></p></td>
 <td></td>
 <td><p>*<a href="http://www.boci.com.hk/chi/creditcard/goodday.html">30</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>中銀香港航空Visa卡</p></td>
-<td><p>中銀信用卡（國際）有限公司</p></td>
 <td><p><a href="../Page/香港航空.md" title="wikilink">香港航空</a></p></td>
 <td></td>
 <td><p><a href="https://www.boci.com.hk/creditcard/chi/creditcard/boci_cc_sc_hka.html">31</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>中銀恒地會Visa卡</p></td>
-<td><p>中銀信用卡（國際）有限公司</p></td>
 <td><p><a href="../Page/恒基兆業地產.md" title="wikilink">恒基兆業地產</a></p></td>
 <td></td>
 <td><p><a href="https://www.boci.com.hk/creditcard/chi/creditcard/boci_cc_sc_hc.html">32</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>中銀科大白金卡</p></td>
-<td><p>中銀信用卡（國際）有限公司</p></td>
 <td><p><a href="../Page/香港科技大學.md" title="wikilink">香港科技大學</a></p></td>
 <td></td>
 <td><p><a href="https://www.boci.com.hk/creditcard/chi/creditcard/boci_cc_sc_ust.html">33</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>中銀樹仁大學信用卡</p></td>
-<td><p>中銀信用卡（國際）有限公司</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://www.boci.com.hk/creditcard/chi/creditcard/boci_cc_sc_shueyan.html">34</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -351,38 +351,37 @@
 <tr class="odd">
 <td></td>
 <td><p>中銀東華三院信用卡</p></td>
-<td><p>中銀信用卡（國際）有限公司</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://www.boci.com.hk/creditcard/chi/creditcard/boci_cc_sc_twghs.html">37</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2009年2月.md" title="wikilink">2009年2月</a></p></td>
 <td><p><a href="../Page/肯德基.md" title="wikilink">KFC</a> Visa卡</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Aeon信貸" title="wikilink">Aeon信貸</a></p></td>
 <td><p><a href="../Page/肯德基.md" title="wikilink">肯德基</a></p></td>
-<td><p>發卡機構為<a href="https://zh.wikipedia.org/wiki/Aeon信貸" title="wikilink">Aeon</a><br />
-但<a href="../Page/肯德基.md" title="wikilink">KFC收款</a><a href="https://zh.wikipedia.org/wiki/RFID" title="wikilink">RFID機</a><br />
-先由<a href="https://zh.wikipedia.org/wiki/富邦銀行_(香港)" title="wikilink">富邦銀行提供</a>，後改由恒生銀行提供</p></td>
+<td><p>於2020 年1 月1 日起停止使用。[2]<br />
+</p></td>
 <td><p>*<a href="https://www.aeon.com.hk/tc/html/credit-card/creditcard_restaurant-kfc-visa.html">38</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年</p></td>
 <td><p><a href="../Page/OK便利店.md" title="wikilink">Circle K</a> Visa卡</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Aeon信貸" title="wikilink">Aeon信貸</a></p></td>
 <td><p><a href="../Page/OK便利店.md" title="wikilink">OK便利店</a>、<a href="../Page/聖安娜餅屋.md" title="wikilink">聖安娜餅屋</a></p></td>
 <td><p>發卡機構為<a href="https://zh.wikipedia.org/wiki/Aeon信貸" title="wikilink">Aeon</a><br />
 但<a href="../Page/OK便利店.md" title="wikilink">OK便利店</a>收款<a href="https://zh.wikipedia.org/wiki/RFID" title="wikilink">RFID機</a><br />
 由<a href="https://zh.wikipedia.org/wiki/東亞銀行" title="wikilink">東亞銀行提供</a></p></td>
 <td><p>*<a href="https://www.aeon.com.hk/tc/html/credit-card/creditcard_leisure-circlek-visa.html">39</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>AEON Visa 信用卡</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Aeon信貸" title="wikilink">Aeon信貸</a></p></td>
 <td><p><a href="../Page/永旺百貨.md" title="wikilink">永旺百貨</a></p></td>
 <td></td>
 <td><p>*<a href="https://www.aeon.com.hk/tc/html/credit-card/creditcard_leisure-jusco-visa.html">40</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -395,26 +394,26 @@
 <tr class="even">
 <td></td>
 <td><p>渣打「優先理財」信用卡</p></td>
-<td><p><a href="../Page/渣打銀行（香港）.md" title="wikilink">渣打銀行（香港）</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="https://www.sc.com/hk/zh/credit-cards/priority-banking.html?pid=credit-cards-list_zh">42</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>渣打Simply Cash Visa 卡</p></td>
-<td><p><a href="../Page/渣打銀行（香港）.md" title="wikilink">渣打銀行（香港）</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="https://www.sc.com/hk/zh/credit-cards/simplycash/">43</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>渣打 Visa Infinite 信用卡</p></td>
-<td><p><a href="../Page/渣打銀行（香港）.md" title="wikilink">渣打銀行（香港）</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="https://www.sc.com/hk/zh/credit-cards/visa-infinite/">44</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -427,18 +426,18 @@
 <tr class="even">
 <td></td>
 <td><p>匯豐 Visa Signature卡</p></td>
-<td><p><a href="../Page/香港上海滙豐銀行.md" title="wikilink">香港上海滙豐銀行</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="https://www.hsbc.com.hk/zh-hk/personal/credit-cards/hsbc-visa-signature.html">46</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>匯豐白金 Visa 卡</p></td>
-<td><p><a href="../Page/香港上海滙豐銀行.md" title="wikilink">香港上海滙豐銀行</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="https://www.hsbc.com.hk/zh-hk/personal/credit-cards/hsbc-visa-platinum.html">47</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -459,26 +458,26 @@
 <tr class="even">
 <td></td>
 <td><p>Citi PremierMiles 信用卡</p></td>
-<td><p><a href="../Page/花旗银行.md" title="wikilink">花旗银行</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="https://www.citibank.com.hk/chinese/credit-cards/premiermiles-card.htm?icid=HKCCUZ9ZHCCHOCB02">50</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p>Citi Cash Back Visa 信用卡</p></td>
-<td><p><a href="../Page/花旗银行.md" title="wikilink">花旗银行</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="https://www.citibank.com.hk/chinese/credit-cards/cash-back-visa-card.html?lid=HKZHCBGCCMITLCashBackVisaCard">51</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>Citi Clear Card</p></td>
-<td><p><a href="../Page/花旗银行.md" title="wikilink">花旗银行</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="https://www.citibank.com.hk/chinese/credit-cards/clear.htm?icid=HKCCUG0ZHCCHOCB06">52</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -499,10 +498,10 @@
 <tr class="odd">
 <td></td>
 <td><p>Visa白金信用卡</p></td>
-<td><p><a href="../Page/交通銀行.md" title="wikilink">交通銀行</a></p></td>
 <td></td>
 <td></td>
-<td><p>*<a href="http://www.hk.bankcomm.com/hk/shtml/hk/tw/2004980/2005005/2500481/2500494/2503301.shtml?channelId=2005089">54</a></p></td>
+<td><p><a href="https://www.hk.bankcomm.com/hk/shtml/hk/tw/2004980/2005005/2005035/2500459/2500843/list.shtml?channelId=2500843">54</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -523,58 +522,82 @@
 <tr class="even">
 <td></td>
 <td><p>「讀書人」金信用卡</p></td>
-<td><p><a href="../Page/上海商業銀行.md" title="wikilink">上海商業銀行</a></p></td>
 <td><p>宣道書局</p></td>
 <td></td>
-<td><p><a href="http://www.shacombank.com.hk/tch/personal/cards/type/cobranded/cobranded.jsp">57</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>Kingkow信用卡</p></td>
-<td><p><a href="../Page/上海商業銀行.md" title="wikilink">上海商業銀行</a></p></td>
 <td><p><a href="../Page/安踏體育.md" title="wikilink">安踏體育</a>旗下品牌： Kingkow</p></td>
 <td></td>
-<td><p><a href="http://www.shacombank.com.hk/tch/personal/cards/type/cobranded/cobranded.jsp">58</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>國際青年商會香港總會信用卡</p></td>
-<td><p><a href="../Page/上海商業銀行.md" title="wikilink">上海商業銀行</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="http://www.shacombank.com.hk/tch/personal/cards/type/cobranded/cobranded.jsp">59</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>香港測量師學會信用卡</p></td>
-<td><p><a href="../Page/上海商業銀行.md" title="wikilink">上海商業銀行</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="http://www.shacombank.com.hk/tch/personal/cards/type/cobranded/cobranded.jsp">60</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>香港文物信用卡</p></td>
-<td><p><a href="../Page/上海商業銀行.md" title="wikilink">上海商業銀行</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="http://www.shacombank.com.hk/tch/personal/cards/type/cobranded/cobranded.jsp">61</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>愉景新城信用卡</p></td>
-<td><p><a href="../Page/上海商業銀行.md" title="wikilink">上海商業銀行</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="http://www.shacombank.com.hk/tch/personal/cards/type/cobranded/cobranded.jsp">62</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>招商永隆 Xcite Visa 白金卡</p></td>
-<td><p><a href="../Page/招商永隆銀行.md" title="wikilink">招商永隆銀行</a></p></td>
+<td><p>白金信用卡</p></td>
 <td></td>
 <td></td>
-<td><p><a href="http://www.cmbwinglungbank.com/wlb_corporate/hk/personal/credit-card/credit-card-products/xcite-visa-platinum-card/index.html">63</a></p></td>
+<td><p><a href="http://www.shacombank.com.hk/tch/personal/cards/type/personal/personal.jsp">57</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>商務白金信用卡</p></td>
+<td></td>
+<td></td>
+<td><p><a href="http://www.shacombank.com.hk/tch/personal/cards/type/business/business.jsp">58</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>信銀國際CITICfirst 白金卡</p></td>
+<td><p><a href="../Page/中信銀行（國際）.md" title="wikilink">中信銀行（國際）</a></p></td>
+<td></td>
+<td></td>
+<td><p><a href="https://www.cncbinternational.com/personal/credit-cards/citicfirst-platinum-credit-card/tc/index.jsp">59</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>信銀國際信用卡</p></td>
+<td></td>
+<td></td>
+<td><p><a href="https://www.cncbinternational.com/personal/credit-cards/citic-bank-international-credit-card/tc/index.jsp">60</a></p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -583,7 +606,7 @@
 
 ### 台灣
 
-在台灣，目前已經有的Visa payWave發卡機構包括：上海商業儲蓄銀行、中國信託商業銀行、三信商業銀行、玉山銀行、台北富邦銀行、台新國際商業銀行、永豐銀行、兆豐國際商業銀行、花旗（台灣）銀行、國泰世華銀行、第一銀行、遠東國際商業銀行、聯邦銀行、永旺信用卡、合作金庫銀行、凱基銀行、彰化銀行、華南銀行、中華郵政。\[2\]
+在台灣，目前已經有的Visa payWave發卡機構包括：上海商業儲蓄銀行、中國信託商業銀行、三信商業銀行、玉山銀行、台北富邦銀行、台新國際商業銀行、永豐銀行、兆豐國際商業銀行、花旗（台灣）銀行、國泰世華銀行、第一銀行、遠東國際商業銀行、聯邦銀行、永旺信用卡、合作金庫銀行、凱基銀行、彰化銀行、華南銀行、中華郵政。\[3\]
 
 ### 中国大陆
 
@@ -593,7 +616,7 @@
 
 ### 澳門
 
-澳門首張Visa payWave卡在2013年7月9日由[大豐銀行](../Page/大豐銀行.md "wikilink")、[來來超級市場](../Page/來來超級市場.md "wikilink")及中銀信用卡公司聯合推出。\[3\]\[4\]\[5\]。
+澳門首張Visa payWave卡在2013年7月9日由[大豐銀行](../Page/大豐銀行.md "wikilink")、[來來超級市場](../Page/來來超級市場.md "wikilink")及中銀信用卡公司聯合推出。\[4\]\[5\]\[6\]。
 
 惟現階段澳門來來超級市場只接受由大豐銀行所發行之來來Visa payWave信用卡付費，其他外地Visa payWave卡一律不受理。
 
@@ -606,7 +629,7 @@
   - **常用於要求支付速度快、便利性高的場所**
 
 如：大眾運輸系統、的士、藥妝店、量販店、加油站、美食廣場、影音出租店、咖啡連鎖店、速食餐廳、主題遊樂場、電影院等。
-\[6\]\[7\]\[8\]
+\[7\]\[8\]\[9\]
 
 ### 香港
 
@@ -676,11 +699,11 @@ Disc Plus、CD Warehouse、[HMV](../Page/HMV.md "wikilink")（已清盤）
 
   - [的士](../Page/香港的士.md "wikilink")
 
-2010年12月2日，快易通、大新銀行與Visa宣佈在香港的士引入AutoTAXI服務，接受感應式Visa payWave、傳統晶片及磁帶式Visa信用卡繳費配套。此項服務名為快易通智能的士電召服務，簡稱「快易通的士」(AutoTAXI)，試行階段目標為約200部市區的士（紅的）率先提供新服務，稍後將逐階段擴大應用規模。\[9\]2011年6月23日，首批100部車頂設「飛翼」標誌的「飛的」正式投入服務，有車行表示智能系統年底將引入至逾500部的士。\[10\]\[11\]但2011年11月30日起已停止服務。
+2010年12月2日，快易通、大新銀行與Visa宣佈在香港的士引入AutoTAXI服務，接受感應式Visa payWave、傳統晶片及磁帶式Visa信用卡繳費配套。此項服務名為快易通智能的士電召服務，簡稱「快易通的士」(AutoTAXI)，試行階段目標為約200部市區的士（紅的）率先提供新服務，稍後將逐階段擴大應用規模。\[10\]2011年6月23日，首批100部車頂設「飛翼」標誌的「飛的」正式投入服務，有車行表示智能系統年底將引入至逾500部的士。\[11\]\[12\]但2011年11月30日起已停止服務。
 
 ## 安全疑慮
 
-[紐卡素大學網上罪行及電腦保安中心發表報告](https://zh.wikipedia.org/wiki/紐卡素大學 "wikilink")，揭示感應式（非接觸式/Contactless）付款信用卡的漏洞，其研究團隊僅花30英鎊（約330港元）從網上購買組件，即可把手機改裝成讀卡器。在測試時，把它放近藏有感應式付款信用卡的銀包，只需兩秒時間，即成功盜取信用卡資料，包括卡主姓名、信用卡號碼及到期日，甚至最近10次的交易紀錄。\[12\]
+[紐卡素大學網上罪行及電腦保安中心發表報告](https://zh.wikipedia.org/wiki/紐卡素大學 "wikilink")，揭示感應式（非接觸式/Contactless）付款信用卡的漏洞，其研究團隊僅花30英鎊（約330港元）從網上購買組件，即可把手機改裝成讀卡器。在測試時，把它放近藏有感應式付款信用卡的銀包，只需兩秒時間，即成功盜取信用卡資料，包括卡主姓名、信用卡號碼及到期日，甚至最近10次的交易紀錄。\[13\]
 
 ## 參考資料
 
@@ -698,14 +721,15 @@ Disc Plus、CD Warehouse、[HMV](../Page/HMV.md "wikilink")（已清盤）
 [Category:信用卡](https://zh.wikipedia.org/wiki/Category:信用卡 "wikilink") [Category:借记卡](https://zh.wikipedia.org/wiki/Category:借记卡 "wikilink")
 
 1.  [大新銀行 - 關於我們 - 新聞稿 全新大新Autotoll Visa payWave信用卡 全港唯一快易通自動增值服務](http://www.dahsing.com/tc/pdf/marcom/press110623_c.pdf)
-2.  [Visa感應式支付 | Visa](https://www.visa.com.tw/pay-with-visa/contactless-payments/contactless-payments.html)
-3.
+2.   HongKongCard.com|url=[https://www.hongkongcard.com/forum/show/25772|accessdate=2019-12-05|work=www.hongkongcard.com](https://www.hongkongcard.com/forum/show/25772%7Caccessdate=2019-12-05%7Cwork=www.hongkongcard.com)}}
+3.  [Visa感應式支付 | Visa](https://www.visa.com.tw/pay-with-visa/contactless-payments/contactless-payments.html)
 4.
 5.
-6.  [Visa國際組織香港網站 | Visa payWave - 香港特約商戶與發卡銀行](http://www.visa-asia.com/ap/hk/zh_HK/cardholders/cardsservices/visa_paywave_merchantsissuers.shtml)
-7.  [Visa台灣網站 | Visa payWave商店](http://www.visa-asia.com/ap/tw/cardholders/cardsservices/Visa_payWave_merchant.shtml)
-8.  [Visa - Visa payWave 台灣商店](http://www.visa.com.tw/ap/tw/personal/features/include/VisapayWavemerchantlist20130101.pdf)
-9.  [Visa國際組織香港網站 | 快易通、大新銀行及Visa共同引入 全港首部提供AutoTAXI及Visa卡收費服務的士 致力提升香港的士業界形象及服務水平](http://www.visa-asia.com/ap/hk/zh_HK/mediacenter/pressrelease/hk_02122010AutoTaxiwithVisa.shtml)
-10. [Visa國際組織香港網站 | 首隊AutoTAXI「飛的」在港投入服務](http://www.visa-asia.com/ap/hk/zh_HK/mediacenter/pressrelease/hk_23062011AutoTaxiOnHKStreets.shtml)
-11. [蘋果日報 - 20110624 - 港首創信用卡付車費　可透過手機追蹤「飛的」受歡迎將增 500部](http://www1.hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20110624&sec_id=4104&subsec_id=11867&art_id=15371158)
-12. [歹徒擦身拍卡盜資料 感應式信用卡存漏洞](http://www.am730.com.hk/article.php?article=157299&d=2063) - AM730(am新聞) ,2013年06月03日
+6.
+7.  [Visa國際組織香港網站 | Visa payWave - 香港特約商戶與發卡銀行](http://www.visa-asia.com/ap/hk/zh_HK/cardholders/cardsservices/visa_paywave_merchantsissuers.shtml)
+8.  [Visa台灣網站 | Visa payWave商店](http://www.visa-asia.com/ap/tw/cardholders/cardsservices/Visa_payWave_merchant.shtml)
+9.  [Visa - Visa payWave 台灣商店](http://www.visa.com.tw/ap/tw/personal/features/include/VisapayWavemerchantlist20130101.pdf)
+10. [Visa國際組織香港網站 | 快易通、大新銀行及Visa共同引入 全港首部提供AutoTAXI及Visa卡收費服務的士 致力提升香港的士業界形象及服務水平](http://www.visa-asia.com/ap/hk/zh_HK/mediacenter/pressrelease/hk_02122010AutoTaxiwithVisa.shtml)
+11. [Visa國際組織香港網站 | 首隊AutoTAXI「飛的」在港投入服務](http://www.visa-asia.com/ap/hk/zh_HK/mediacenter/pressrelease/hk_23062011AutoTaxiOnHKStreets.shtml)
+12. [蘋果日報 - 20110624 - 港首創信用卡付車費　可透過手機追蹤「飛的」受歡迎將增 500部](http://www1.hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20110624&sec_id=4104&subsec_id=11867&art_id=15371158)
+13. [歹徒擦身拍卡盜資料 感應式信用卡存漏洞](http://www.am730.com.hk/article.php?article=157299&d=2063) - AM730(am新聞) ,2013年06月03日

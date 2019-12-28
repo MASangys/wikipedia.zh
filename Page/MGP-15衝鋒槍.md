@@ -1,4 +1,4 @@
-**MGP-15**是一款由[秘鲁](../Page/秘鲁.md "wikilink")槍械製造商SIMA-CEFAR公司為[秘鲁軍隊的](https://zh.wikipedia.org/wiki/秘鲁軍隊 "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")而研製和生產的[冲锋枪](../Page/冲锋枪.md "wikilink")\[1\]，而主要改進的是較長的[槍管](../Page/槍管.md "wikilink")和向前的[彈匣](../Page/彈匣.md "wikilink")，發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**MGP-15**是一款由[秘鲁](../Page/秘鲁.md "wikilink")槍械製造商SIMA-CEFAR公司為[秘鲁軍隊的](https://zh.wikipedia.org/wiki/秘鲁軍隊 "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")而研製和生產的[冲锋枪](../Page/冲锋枪.md "wikilink")\[1\]，而主要改進的是較長的[槍管](../Page/槍管.md "wikilink")和向前的[彈匣](../Page/彈匣.md "wikilink")，發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 其名稱的更改能夠反映在生產過程中的一些輕微的改動，最明顯的改動就是其槍口可以透過擰動的方式安裝[消聲器](../Page/抑制器.md "wikilink")。\[2\]
 
@@ -42,14 +42,11 @@ MGP-15在1990年開始生產。\[3\] 在裝備MGP-15後的[秘鲁](https://zh.wi
 1.
 2.
 3.
-
 4.
-
 5.
 6.
 7.
 8.
-
 9.
 10.
 11.

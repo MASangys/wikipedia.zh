@@ -120,9 +120,9 @@
 
 ## NHK红白歌合战纪录
 
-| 年份/屆數                                            | 出場 次數 | 曲目       | 出演 次序 | 對決歌手                                 | 備註 |
-| ------------------------------------------------ | ----- | -------- | ----- | ------------------------------------ | -- |
-| 2017年/[第68回](../Page/第68回NHK紅白歌合戰.md "wikilink") | 初     | 今宵の月のように | 19/23 | [AKB48](../Page/AKB48.md "wikilink") |    |
+| 年份/屆數                                            | 出場 次數 | 曲目      | 出演 次序 | 對決歌手                                 | 備註 |
+| ------------------------------------------------ | ----- | ------- | ----- | ------------------------------------ | -- |
+| 2017年/[第68回](../Page/第68回NHK紅白歌合戰.md "wikilink") | 初     | 如同今晚的月亮 | 19/23 | [AKB48](../Page/AKB48.md "wikilink") |    |
 
 ## 參考來源
 
@@ -131,7 +131,7 @@
   - [官方網站](http://www.elephantkashimashi.com)
   - [musicJAPANplus艺人资料库 - Elephant Kashimashi](http://www.musicjapanplus.jp/artistdb/?artist_id=207)
 
-[Category:1981年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1981年成立的音樂團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
+[Category:1981年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1981年成立的音樂團體 "wikilink") [Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
 
 1.
 2.

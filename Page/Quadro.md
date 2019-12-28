@@ -37,6 +37,6 @@ Quadro的[顯示](https://zh.wikipedia.org/wiki/顯示 "wikilink")[記憶體可�
   - [NVIDIA Quadro主頁](http://www.nvidia.co.uk/page/quadro.html)
   - [NVIDIA Quadro系列主頁](http://www.nvidia.com/page/workstation.html)
 
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:Quadro系列](https://zh.wikipedia.org/wiki/Category:Quadro系列 "wikilink") [Category:1999年面世的產品](https://zh.wikipedia.org/wiki/Category:1999年面世的產品 "wikilink")
 
 1.  [NVIDIA Creates Discontinuity in Workstation Market With New Graphics Processing Unit](http://www.nvidia.com/object/IO_20020111_5548.html)

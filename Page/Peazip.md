@@ -13,7 +13,7 @@ PeaZip提供使用者透過圖形化使用者介面的前端程式來自動產�
 
 PeaZip除了提供Windows及Linux（DEB, RPM及TGZ格式）的安裝檔之外，亦有對此兩種平台提供無需安裝的可攜式版本。在最近也提供了PortableApps的格式（.paf.exe）.\[7\]
 
-如同[7z](../Page/7z.md "wikilink")，[Tar](../Page/Tar.md "wikilink")，[ZIP等這些知名且泛用的壓縮格式一般](https://zh.wikipedia.org/wiki/ZIP "wikilink")，PeaZip也支援[PAQ](https://zh.wikipedia.org/wiki/PAQ "wikilink")、LPAQ及ZPAQ格式：儘管這並不建議使用於一般狀況下（因為太耗記憶體且太慢），這些格式因具備對多數資料結構有最佳的壓縮比，在壓縮科技上具有重大突破，所以還是列入支援。\[8\]\[9\]
+如同[7z](../Page/7z.md "wikilink")，[Tar](../Page/Tar.md "wikilink")，[ZIP等這些知名且泛用的壓縮格式一般](../Page/ZIP格式.md "wikilink")，PeaZip也支援[PAQ](https://zh.wikipedia.org/wiki/PAQ "wikilink")、LPAQ及ZPAQ格式：儘管這並不建議使用於一般狀況下（因為太耗記憶體且太慢），這些格式因具備對多數資料結構有最佳的壓縮比，在壓縮科技上具有重大突破，所以還是列入支援。\[8\]\[9\]
 
 ### 限制
 

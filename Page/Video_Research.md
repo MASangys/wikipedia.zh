@@ -35,7 +35,7 @@
 
 ### 社長
 
-  - 代表取締役社長 [若杉五馬](https://zh.wikipedia.org/wiki/若杉五馬 "wikilink")
+  - 代表取締役社長 [加藤讓](https://zh.wikipedia.org/wiki/加藤讓 "wikilink")\[1\]
 
 ### 社員數
 
@@ -81,3 +81,5 @@
   - [Video Research](http://www.videor.co.jp/)
 
 [Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink") [Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink") [Category:市场研究公司](https://zh.wikipedia.org/wiki/Category:市场研究公司 "wikilink") [Category:1962年成立的公司](https://zh.wikipedia.org/wiki/Category:1962年成立的公司 "wikilink")
+
+1.  [【人事】ビデオリサーチ社長に加藤譲氏](https://www.advertimes.com/20160523/article225218/)

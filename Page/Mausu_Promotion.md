@@ -228,7 +228,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
   - [陶山惠實里](../Page/陶山惠實里.md "wikilink")
 
-  - [關口理-{咲}-](https://zh.wikipedia.org/wiki/關口理咲 "wikilink")
+  - [關口理-{咲}-](../Page/關口理咲.md "wikilink")
 
   -
 <!-- end list -->
@@ -623,7 +623,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
   - （現所屬：）
 
-  - [津野田成美](../Page/津野田成美.md "wikilink")（現所屬：[Honey Rush](https://zh.wikipedia.org/wiki/Honey_Rush_\(聲優事務所\) "wikilink")）
+  - [津野田成美](../Page/津野田成美.md "wikilink")（現所屬：[Honey Rush](../Page/Honey_Rush_\(聲優事務所\).md "wikilink")）
 
   - [津村真琴](../Page/津村真琴.md "wikilink")（現所屬：青二Production）
 

@@ -46,14 +46,9 @@
 [Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink") [Category:牧夫座](https://zh.wikipedia.org/wiki/Category:牧夫座 "wikilink") [Category:热木星](https://zh.wikipedia.org/wiki/Category:热木星 "wikilink") [Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink") [Category:1996年发现的系外行星](https://zh.wikipedia.org/wiki/Category:1996年发现的系外行星 "wikilink")
 
 1.  [Astrographics Millennium Planet Poster](http://www.astrographics.com/Posters/POS0005.html)
-
 2.
-
 3.  LEIGH C., COLLIER CAMERON A., HORNE K., PENNY A. & JAMES D., 2003 "A new upper limit on the reflected starlight from Tau Bootis b." MNRAS,344, 1271
-
 4.
-
 5.
 6.
-
 7.

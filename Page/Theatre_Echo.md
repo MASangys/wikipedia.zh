@@ -8,9 +8,7 @@
 
 ### 男性
 
-  - [朝戸鉄也](https://zh.wikipedia.org/wiki/朝戸鉄也 "wikilink")
   - [安西正弘](https://zh.wikipedia.org/wiki/安西正弘 "wikilink")
-  - [石井隆夫](https://zh.wikipedia.org/wiki/石井隆夫 "wikilink")
   - [IKKAN](https://zh.wikipedia.org/wiki/IKKAN "wikilink")
   - [沖恂一郎](https://zh.wikipedia.org/wiki/沖恂一郎 "wikilink")
   - [奥田啓人](https://zh.wikipedia.org/wiki/奥田啓人 "wikilink")
@@ -19,7 +17,6 @@
   - [後藤敦](https://zh.wikipedia.org/wiki/後藤敦 "wikilink")
   - [沢りつお](https://zh.wikipedia.org/wiki/沢りつお "wikilink")
   - [鈴木利秋](https://zh.wikipedia.org/wiki/鈴木利秋 "wikilink")
-  - [瀬下和久](https://zh.wikipedia.org/wiki/瀬下和久 "wikilink")
   - [竹若拓磨](https://zh.wikipedia.org/wiki/竹若拓磨 "wikilink")
   - [多田野曜平](../Page/多田野曜平.md "wikilink")
   - [田中英樹](https://zh.wikipedia.org/wiki/田中英樹 "wikilink")
@@ -56,9 +53,11 @@
 
 ### 男性
 
+  - [朝戸鉄也](https://zh.wikipedia.org/wiki/朝戸鉄也 "wikilink")(故人)
   - [北澤彪](https://zh.wikipedia.org/wiki/北澤彪 "wikilink")(創辦人)(故人)
   - [池水通洋](https://zh.wikipedia.org/wiki/池水通洋 "wikilink")(現所屬[青二Production](https://zh.wikipedia.org/wiki/青二Production "wikilink"))
   - [伊澤弘](https://zh.wikipedia.org/wiki/伊澤弘 "wikilink")(現所屬[劇團Big Face](https://zh.wikipedia.org/wiki/劇團Big_Face "wikilink"))
+  - [石井隆夫](https://zh.wikipedia.org/wiki/石井隆夫 "wikilink")(故人)
   - [石森達幸](../Page/石森達幸.md "wikilink")(故人)
   - [市川治](../Page/市川治.md "wikilink")(故人)
   - [伊武雅刀](../Page/伊武雅刀.md "wikilink")(現所屬[PAPADO](https://zh.wikipedia.org/wiki/PAPADO "wikilink"))
@@ -81,6 +80,7 @@
   - [鹽見龍介](https://zh.wikipedia.org/wiki/鹽見龍介 "wikilink")(故人)
   - [佐原公雄](https://zh.wikipedia.org/wiki/佐原公雄 "wikilink")(故人)
   - [島田敏](../Page/島田敏.md "wikilink")(現所屬青二Production)
+  - [瀬下和久](https://zh.wikipedia.org/wiki/瀬下和久 "wikilink")(故人)
   - [仁內建之](../Page/仁內建之.md "wikilink")(故人)
   - [曾我部和恭](../Page/曾我部和恭.md "wikilink")(故人)
   - [田之中勇](../Page/田之中勇.md "wikilink")(故人)

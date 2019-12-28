@@ -2,7 +2,7 @@
 
 \[L(s,\chi) = \sum_{n=1}^\infty \frac{\chi(n)}{n^s}.\]
 
-在此 \(\chi\) 是一個[狄利克雷特徵](https://zh.wikipedia.org/wiki/狄利克雷特徵 "wikilink")，\(s \in \mathbb{C}\) 的實部大於一。此函數可[解析延拓為整個複平面上的](https://zh.wikipedia.org/wiki/解析延拓 "wikilink")[亞純函數](https://zh.wikipedia.org/wiki/亞純函數 "wikilink")。
+在此 \(\chi\) 是一個[狄利克雷特徵](https://zh.wikipedia.org/wiki/狄利克雷特徵 "wikilink")，\(s \in \mathbb{C}\) 的實部大於一。此函數可[解析延拓](../Page/解析延拓.md "wikilink")為整個複平面上的[亞純函數](https://zh.wikipedia.org/wiki/亞純函數 "wikilink")。
 
 [約翰·彼得·狄利克雷證明對所有](https://zh.wikipedia.org/wiki/約翰·彼得·狄利克雷 "wikilink") \(\chi\) 俱有 \(L(1,\chi) \neq 0\)，並藉此證明[狄利克雷定理](../Page/狄利克雷定理.md "wikilink")。若 \(\chi\) 是主特徵，則 \(L(s,\chi)\) 在 \(s=1\) 有單[極點](https://zh.wikipedia.org/wiki/極點 "wikilink")。
 

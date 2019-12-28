@@ -18,7 +18,7 @@ Choqok 在[呼羅珊是當地傳統的麻雀名稱](https://zh.wikipedia.org/wik
 
 ## 參考資料
 
-  - [GitHub Wiki](http://wiki.github.com/mtux/choqok/home)
+  - [GitHub Wiki](https://web.archive.org/web/20090120064350/http://wiki.github.com/mtux/choqok/home)
   - [Official home page](http://choqok.gnufolks.org/)
 
 ## 外部連結

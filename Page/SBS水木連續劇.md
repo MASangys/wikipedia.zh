@@ -2416,12 +2416,12 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019年9月18日－<br />
-2019年11月</p></td>
+2019年11月28日</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>-{<a href="../Page/Secret_Boutique.md" title="wikilink">Secret Boutique</a>}-<br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="../Page/金宣兒.md" title="wikilink">金宣兒</a>、<a href="../Page/金宰英.md" title="wikilink">金宰英</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金宣兒.md" title="wikilink">金宣兒</a>、<a href="../Page/張美姬.md" title="wikilink">張美姬</a>、<a href="../Page/朴喜本.md" title="wikilink">朴喜本</a>、、<a href="../Page/金宰英.md" title="wikilink">金宰英</a>、<a href="../Page/金太勳.md" title="wikilink">金太勳</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴亨基" title="wikilink">朴亨基</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/河善熙" title="wikilink">河善熙</a></p></td>
 <td style="text-align: center;"></td>
@@ -2458,16 +2458,6 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
 <td style="text-align: center;"><p>2020年3月－<br />
 2020年月</p></td>
 <td style="text-align: center;"></td>
@@ -2479,16 +2469,14 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴智河" title="wikilink">朴智河</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
-<tr class="odd">
-<td style="text-align: center;"><p>2020年月－<br />
-2020年</p></td>
+<tr class="even">
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>-{<a href="https://zh.wikipedia.org/wiki/無人知曉_(韓國電視劇)" title="wikilink">無人知曉</a>}-<br />
-</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="../Page/金瑞亨.md" title="wikilink">金瑞亨</a>、<a href="../Page/柳德煥.md" title="wikilink">柳德煥</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李政勛" title="wikilink">李政勛</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金銀香_(編劇)" title="wikilink">金銀香</a></p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

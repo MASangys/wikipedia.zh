@@ -324,6 +324,26 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>西村風凛</p></td>
+<td><p>3期</p></td>
+<td><p>2019年12月</p></td>
+<td><p>ニシムラ カリン</p></td>
+<td></td>
+<td></td>
+<td><p>B型</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>渋谷妃菜</p></td>
+<td><p>シブヤ ヒナ</p></td>
+<td></td>
+<td></td>
+<td><p>A型</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -337,158 +357,6 @@
 </table>
 
 ### BEYOOOOONDS
-
-  - 2018年6月11日宣布兩團的新成員，並於7月14日的H\!P夏控公開亮相。
-      - 正式出道日期尚未決定。
-
-<table>
-<thead>
-<tr class="header">
-<th><p>加入日期</p></th>
-<th><p>姓名</p></th>
-<th><p>平假名</p></th>
-<th><p>出身地</p></th>
-<th><p>生日</p></th>
-<th><p>年齡</p></th>
-<th><p>身高</p></th>
-<th><p>血型</p></th>
-<th><p>備註</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2017年5月</p></td>
-<td><p>一岡伶奈</p></td>
-<td><p>いちおか れいな</p></td>
-<td><p>東京都</p></td>
-<td></td>
-<td></td>
-<td><p>162</p></td>
-<td><p>B</p></td>
-<td><p>早安11期最終合宿選拔成員之一，後加入成為17期研修生。 2015年實力公開診斷舞蹈賞。</p>
-<ul>
-<li>隊長。</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>2018年6月11日</p></td>
-<td><p>島倉 りか</p></td>
-<td><p>しまくら りか</p></td>
-<td><p>東京都</p></td>
-<td></td>
-<td></td>
-<td><p>153.7</p></td>
-<td><p>A</p></td>
-<td><p>2018實力公開診斷最佳演出賞。27期研修生。</p></td>
-</tr>
-<tr class="odd">
-<td><p>西田 汐里</p></td>
-<td><p>にしだ しおり</p></td>
-<td><p>京都府</p></td>
-<td></td>
-<td></td>
-<td><p>152</p></td>
-<td><p>B</p></td>
-<td><p>2018實力公開診斷個性賞。26期研修生。</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>江口 紗耶</p></td>
-<td><p>えぐち さや</p></td>
-<td><p>兵庫縣</p></td>
-<td></td>
-<td></td>
-<td><p>160</p></td>
-<td><p>O</p></td>
-<td><p>27期研修生</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-<tr class="header">
-<th><p>加入日期</p></th>
-<th><p>姓名</p></th>
-<th><p>平假名</p></th>
-<th><p>出身地</p></th>
-<th><p>生日</p></th>
-<th><p>年齡</p></th>
-<th><p>身高</p></th>
-<th><p>血型</p></th>
-<th><p>備註</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2017年5月</p></td>
-<td><p>高瀬くるみ</p></td>
-<td><p>たかせ くるみ</p></td>
-<td><p>栃木縣</p></td>
-<td></td>
-<td></td>
-<td><p>150</p></td>
-<td><p>A</p></td>
-<td><p>曾為栃木縣地方團體「とちおとめ25」的成員。 2016實力公開診斷歌唱賞。23期研修生。</p></td>
-</tr>
-<tr class="even">
-<td><p>清野桃々姫</p></td>
-<td><p>きよの ももひめ</p></td>
-<td><p>東京都</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>A</p></td>
-<td><p>2016實力公開診斷最佳演出賞。25期研修生。</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2018年6月11日</p></td>
-<td><p>前田こころ</p></td>
-<td><p>まえだ こころ</p></td>
-<td><p>埼玉縣</p></td>
-<td></td>
-<td></td>
-<td><p>168</p></td>
-<td><p>A</p></td>
-<td><p>2017、2018實力公開診斷舞蹈賞。24期研修生。</p></td>
-</tr>
-<tr class="even">
-<td><p>山﨑 夢羽</p></td>
-<td><p>やまざき ゆはね</p></td>
-<td><p>愛知縣</p></td>
-<td></td>
-<td></td>
-<td><p>158</p></td>
-<td><p>AB</p></td>
-<td><p>2017實力公開診斷歌唱賞。26期研修生。</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>岡村 美波</p></td>
-<td><p>おかむら みなみ</p></td>
-<td><p>大阪府</p></td>
-<td></td>
-<td></td>
-<td><p>156</p></td>
-<td><p>O</p></td>
-<td><p>27期研修生。</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 ### 過去的成員(未升格為H\!P正式成員者)
 
@@ -688,6 +556,11 @@
           - 2015年4月29日結成
       - [小野田紗栞](https://zh.wikipedia.org/wiki/小野田紗栞 "wikilink")、[小野瑞歩](https://zh.wikipedia.org/wiki/小野瑞歩 "wikilink")、[秋山眞緒](https://zh.wikipedia.org/wiki/秋山眞緒 "wikilink")
           - 3人於2016年8月13日加入
+  - [BEYOOOOONDS](../Page/BEYOOOOONDS.md "wikilink")
+      - [一岡伶奈](../Page/BEYOOOOONDS.md "wikilink")、[高瀬くるみ](../Page/BEYOOOOONDS.md "wikilink")、[清野桃々姫](../Page/BEYOOOOONDS.md "wikilink")。
+          - 2017年5月5日加入。
+      - [島倉りか](../Page/BEYOOOOONDS.md "wikilink")、[西田汐里](../Page/BEYOOOOONDS.md "wikilink")、[江口紗耶](../Page/BEYOOOOONDS.md "wikilink")、[前田こころ](../Page/BEYOOOOONDS.md "wikilink")、[山﨑夢羽](../Page/BEYOOOOONDS.md "wikilink")、[岡村美波](../Page/BEYOOOOONDS.md "wikilink")。
+          - 2018年6月9日加入。
 
 ### 組成團體但未成為H\!P的成員
 

@@ -142,7 +142,7 @@ SL8-6是SL8-1的[黑色](../Page/黑色.md "wikilink")槍身版本，前[護木�
   - [儒格SR-556半自動步槍](https://zh.wikipedia.org/wiki/儒格SR-556半自動步槍 "wikilink")
   - [Saiga半自動步槍](../Page/Saiga半自動步槍.md "wikilink")
   - [史密斯威森軍警型M\&P15半自動步槍](../Page/史密斯威森軍警型M&P15半自動步槍.md "wikilink")
-  - [T36步槍](https://zh.wikipedia.org/wiki/T36步槍 "wikilink")
+  - [T36步槍](../Page/T36步槍.md "wikilink")
 
 ## 資料來源
 

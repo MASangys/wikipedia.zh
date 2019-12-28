@@ -592,22 +592,14 @@ The Rolling Bootlegs</p></td>
 
 於2008年2月28日，MediaWorks發售的NDS遊戲《》。 本作為DS電撃文庫的第5彈，以原作的『1931 鈍行編 / 特急編 The Grand Punk Railroad』兩作為中心。
 
-  - 本作有4點特徵
-    ; 完全收錄原作文章
+本作有4點特徵：
 
-      -
-        完全沒刪減原著的內容，可享受與原著小說完全相同的的故事情節。
+  - 完全收錄原作文章，完全沒刪減原著的內容，可享受與原著小說完全相同的的故事情節。
+  - 採用Zapping system系統，在不同的場景中可分別選擇不同主人公的視點。
+  - 根據玩家的選擇而有不同變化，新追加50種以上的IF結局。
+  - 新收錄原作者成田良悟所新創作的《》《》，有在原作沒有出現的設定•登場角色。特別是《》，是原作的後續小說的補充設定為形式。
 
-  - ; 採用Zapping system系統，在不同的場景中可分別選擇不同主人公的視點。
-    ; 根據玩家的選擇而有不同變化，新追加50種以上的IF結局。
-    ; 新收錄原作者成田良悟所寫的文章。
-
-      -
-        原作者新創作的《》《》，有在原作沒有出現的設定•登場角色。特別是《》，是原作的後續小說的補充設定為形式。
-
-<!-- end list -->
-
-  - 另外，預約特典是《》（非賣品）。是本作内容有所關連的遊戲書。
+另外，預約特典是《》（非賣品）。是本作内容有所關連的遊戲書。
 
 ## 相關連結
 
@@ -617,4 +609,4 @@ The Rolling Bootlegs</p></td>
 
   - [BACCANO\!官網](http://www.baccano.jp/index.html)
 
-[Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:2007年日本电视动画](https://zh.wikipedia.org/wiki/Category:2007年日本电视动画 "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:酒题材作品](https://zh.wikipedia.org/wiki/Category:酒题材作品 "wikilink") [Category:黑幫題材作品](https://zh.wikipedia.org/wiki/Category:黑幫題材作品 "wikilink") [Category:長生不老題材作品](https://zh.wikipedia.org/wiki/Category:長生不老題材作品 "wikilink") [Category:WOWOW深夜動畫](https://zh.wikipedia.org/wiki/Category:WOWOW深夜動畫 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
+[Category:電擊文庫](https://zh.wikipedia.org/wiki/Category:電擊文庫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:2007年日本电视动画](https://zh.wikipedia.org/wiki/Category:2007年日本电视动画 "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:酒题材作品](https://zh.wikipedia.org/wiki/Category:酒题材作品 "wikilink") [Category:黑幫題材小說](https://zh.wikipedia.org/wiki/Category:黑幫題材小說 "wikilink") [Category:黑幫題材動畫](https://zh.wikipedia.org/wiki/Category:黑幫題材動畫 "wikilink") [Category:長生不老題材作品](https://zh.wikipedia.org/wiki/Category:長生不老題材作品 "wikilink") [Category:WOWOW深夜動畫](https://zh.wikipedia.org/wiki/Category:WOWOW深夜動畫 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")

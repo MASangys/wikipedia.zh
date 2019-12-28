@@ -4,7 +4,7 @@
 
 改編[漫畫版於](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")》（[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）2009年5月號起連載，[茶鳥木明代作畫](https://zh.wikipedia.org/wiki/茶鳥木明代 "wikilink")。
 
-2009年7月宣佈[動畫化](https://zh.wikipedia.org/wiki/動畫 "wikilink")，2010年1月起播放，此外於[東京國際動畫展](https://zh.wikipedia.org/wiki/東京國際動畫展 "wikilink")2010宣佈遊戲化\[2\]。於2014年3月宣佈二期動畫化《無頭騎士異聞錄 DuRaRaRa\!\!×2》，將分成三個季度播放。第一季「承」於2015年1月播映；第二季「轉」於同年7月播映；第三季「結」於2016年1月播映。
+2009年7月宣佈[動畫化](https://zh.wikipedia.org/wiki/動畫 "wikilink")，2010年1月起播放，此外於[東京國際動畫展](https://zh.wikipedia.org/wiki/東京國際動畫展 "wikilink")2010宣佈遊戲化\[2\]。於2014年3月宣佈二期動畫化《無頭騎士異聞錄 DuRaRaRa\!\!×2》，將分成三個季度播放。「承」於2015年1月播映；「轉」於同年7月播映；「結」於2016年1月播映。
 
 ## 故事簡介
 

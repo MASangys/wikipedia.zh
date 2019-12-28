@@ -71,28 +71,16 @@ Shareaza最初由迈克尔·斯托克斯（）开发\[2\]。2004年6月1日，Sh
 [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:SourceForge专案](https://zh.wikipedia.org/wiki/Category:SourceForge专案 "wikilink") [Category:EDonkey客戶端](https://zh.wikipedia.org/wiki/Category:EDonkey客戶端 "wikilink") [Category:BitTorrent客戶端](https://zh.wikipedia.org/wiki/Category:BitTorrent客戶端 "wikilink") [Category:自由檔案分享軟體](https://zh.wikipedia.org/wiki/Category:自由檔案分享軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.  {{ cite web | title = TorrentFreak - Shareaza.com Hijacked and Turned Into a Scam Site | url = <http://torrentfreak.com/shareazacom-hijacked-and-turned-into-a-scam-site-071224/> }}
-
 6.  {{ cite web | title = Heise-Security - Hostile takeover of Shareaza | url = <http://www.heise-online.co.uk/security/Hostile-takeover-of-Shareaza--/news/101548> }}; {{ cite web | title = Secunia - Shareaza Updates Notifications Security Issue | url = <http://secunia.com/advisories/28302/> }}
-
 7.  [SourceForge.net: Comment on File: Shareaza v2.3.1.0](http://sourceforge.net/project/shownotes.php?release_id=565250&group_id=110672)
-
 8.  {{ cite web | title = Yahoo Uses McAfee SiteAdvisor to Filter Evil Web Sites | url = <http://www.pcworld.com/businesscenter/article/145517/yahoo_uses_mcafee_siteadvisor_to_filter_evil_web_sites.html> }}
-
 9.  {{ cite web | title = McAfee SiteAdvisor: Shareaza.com | url = <http://www.siteadvisor.com/sites/shareaza.com> }}
-
 10. {{ cite web | title = WOT (Web of Trust) SiteAdvisor: Shareaza.com | url = <http://www.mywot.com/en/scorecard/shareaza.com> }}
-
 11. {{ cite web | url = <http://tarr.uspto.gov/servlet/tarr?regser=serial&entry=77368229> | title = Latest Status Info | publisher = [US Patent and Trademark Office](https://zh.wikipedia.org/wiki/US_Patent_and_Trademark_Office "wikilink") | accessdate = 2008-04-29 }}
-
 12. {{ cite web | url = <http://torrentfreak.com/shareaza-strikes-back-at-scammers-were-fighting-back-080510/> | title = Shareaza Stands Up To Scammers: “We’re fighting back\!” | publisher = [TorrentFreak](https://zh.wikipedia.org/wiki/TorrentFreak "wikilink") | accessdate = 2008-09-07 }}
-
 13. {{ cite web | title = PeerGuardian hijacker threatens Shareaza | url = <http://www.p2pnet.net/story/23156> | deadurl = yes | archiveurl = <https://archive.is/20120905214131/http://www.p2pnet.net/story/23156> | archivedate = 2012-09-05 }}
-
 14. [Shareaza 2.4.0 entry in WineHQ](http://appdb.winehq.org/objectManager.php?sClass=version&iId=14278)

@@ -415,8 +415,8 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Your_Seed/冒險騎士" title="wikilink">Your Seed/冒險騎士</a></strong></p></td>
 <td><p>首周16萬張</p></td>
 <td><p>1位</p></td>
-<td><p><strong>Your Seed</strong>：電影『カンフー・パンダ(功夫熊貓)』印象歌<br />
-<strong>冒險騎士</strong>：『お台場冒険王ファイナル〜君が来なくちゃ終われない!〜』印象歌</p></td>
+<td><p><strong>Your Seed</strong>：電影「功夫熊貓」日本形象歌曲<br />
+<strong>冒險騎士</strong>：「台場冒險王FINAL」形象歌曲</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -494,7 +494,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <td><p>首日10.2萬張<br />
 首周20.7萬張</p></td>
 <td><p>1位</p></td>
-<td><p><strong>AinoArika</strong> : 電視劇『ダークシステム 恋の王座決定戦』主題曲<br />
+<td><p><strong>AinoArika</strong> : 電視劇『Dark System 戀愛寶座決定戰』主題曲<br />
 <strong>盡情去愛的HAPPY LIFE</strong> : 電視廣告『佛蒙特咖哩』歌曲</p></td>
 </tr>
 <tr class="odd">
@@ -514,8 +514,8 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <td><p>首日8萬張<br />
 首周14.6萬張</p></td>
 <td><p>1位</p></td>
-<td><p><strong>Chau＃</strong> : 電視廣告『アーモンドキャラメルポップコーン』歌曲<br />
-<strong>我 I Need You</strong> : 電視節目『リトルトーキョーライブ』主題曲</p></td>
+<td><p><strong>Chau＃</strong> : Bourbon「ALMOND CARAMEL POPCORN」廣告歌<br />
+<strong>我 I Need You</strong> : 電視節目「Little Tokyo Live」片尾曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
@@ -524,7 +524,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <td><p>首日11.8萬張<br />
 首周20.3萬張</p></td>
 <td><p>1位</p></td>
-<td><p>電視廣告『ソフティモ』歌曲</p></td>
+<td><p>Kose Cosmeport『絲芙蒂』廣告主題曲</p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
@@ -551,7 +551,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <td><p>首日13.5萬張<br />
 首周24.8萬張</p></td>
 <td><p>1位</p></td>
-<td><p>電視劇『<a href="http://blog.fujitv.co.jp/CainandAbel/index.html">カインとアベル</a>』主題曲</p></td>
+<td><p>電視劇『』主題曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
@@ -560,7 +560,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <td><p>首日14.6萬張<br />
 首周27.2萬張</p></td>
 <td><p>1位</p></td>
-<td><p>動畫『<a href="../Page/救難小英雄24.md" title="wikilink">タイムボカン24</a>』14集起片頭主題曲</p></td>
+<td><p>動畫『<a href="../Page/救難小英雄24.md" title="wikilink">救難小英雄24</a>』14集起片頭主題曲</p></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
@@ -584,11 +584,11 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <tr class="even">
 <td><p>22</p></td>
 <td><p>2018年2月14日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/マエヲムケ" title="wikilink">マエヲムケ</a></strong></p></td>
+<td><p><strong></strong></p></td>
 <td><p>首日14萬張</p>
 <p>首周24.5萬張</p></td>
 <td><p>1位</p></td>
-<td><p>電視劇『<a href="https://zh.wikipedia.org/wiki/もみ消して冬〜わが家の問題なかったことに〜" title="wikilink">もみ消して冬〜わが家の問題なかったことに〜</a>』主題曲</p></td>
+<td><p>電視劇『掩飾之冬』主題曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
@@ -597,7 +597,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <td><p>首日13萬張</p>
 <p>首周22.1萬張</p></td>
 <td><p>1位</p></td>
-<td><p>電視劇『<a href="https://zh.wikipedia.org/wiki/トーキョーエイリアンブラザーズ" title="wikilink">トーキョーエイリアンブラザーズ</a>』主題曲</p></td>
+<td><p>電視劇『TOKYO alien BROS.』主題曲</p></td>
 </tr>
 <tr class="even">
 <td><p>24</p></td>
@@ -619,10 +619,10 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <tr class="even">
 <td><p>25</p></td>
 <td><p>2019年8月21日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/ファンファーレ！" title="wikilink">ファンファーレ！</a></strong></p></td>
+<td><p><strong></strong></p></td>
 <td><p>首日13.5萬張 首周22.4萬張</p></td>
 <td><p>1位</p></td>
-<td><p>電視劇『<a href="https://zh.wikipedia.org/wiki/セミオトコ" title="wikilink">セミオトコ</a>』主題曲</p></td>
+<td><p>團員山田涼介的主演日劇「蟬男」主題曲</p></td>
 </tr>
 <tr class="odd">
 <td></td>

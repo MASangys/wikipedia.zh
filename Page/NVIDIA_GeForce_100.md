@@ -35,6 +35,6 @@
   - [NVIDIA GeForce 系列主頁](http://www.nvidia.com/object/geforce_family.html)
   - [NVIDIA GeForce M系列主頁](http://www.nvidia.com/object/geforce_m_series.html)
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:GeForce系列](https://zh.wikipedia.org/wiki/Category:GeForce系列 "wikilink") [Category:2009年面世的產品](https://zh.wikipedia.org/wiki/Category:2009年面世的產品 "wikilink")
 
 1.  [NVIDIA桌面、笔记本全面改名 新型号一览](http://news.mydrivers.com/1/122/122514.htm)

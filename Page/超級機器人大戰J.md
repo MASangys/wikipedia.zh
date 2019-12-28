@@ -102,7 +102,9 @@
 
 ### 機體
 
-[ベルゼルート.JPG](https://zh.wikipedia.org/wiki/File:ベルゼルート.JPG "fig:ベルゼルート.JPG") [グランティード.JPG](https://zh.wikipedia.org/wiki/File:グランティード.JPG "fig:グランティード.JPG") [クストウェル.JPG](https://zh.wikipedia.org/wiki/File:クストウェル.JPG "fig:クストウェル.JPG") [Srw騎士機.jpg](https://zh.wikipedia.org/wiki/File:Srw騎士機.jpg "fig:Srw騎士機.jpg") 以下均為遊戲開始時主角可選用的機體。
+[ベルゼルート.JPG](https://zh.wikipedia.org/wiki/File:ベルゼルート.JPG "fig:ベルゼルート.JPG") [グランティード.JPG](https://zh.wikipedia.org/wiki/File:グランティード.JPG "fig:グランティード.JPG") [クストウェル.JPG](https://zh.wikipedia.org/wiki/File:クストウェル.JPG "fig:クストウェル.JPG")
+
+以下均為遊戲開始時主角可選用的機體。
 
   -
 

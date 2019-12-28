@@ -19,7 +19,7 @@
 ### 電台節目
 
   - 商業二台[叱吒903節目](https://zh.wikipedia.org/wiki/叱吒903 "wikilink")
-      - 《[兒童適宜](../Page/兒童適宜.md "wikilink")》（逢星期日[下午](https://zh.wikipedia.org/wiki/下午 "wikilink")3時至5時)
+      - 《[兒童適宜](../Page/兒童適宜.md "wikilink")》（逢星期日[下午](../Page/下午.md "wikilink")3時至5時)
 
 ### 電視節目
 
@@ -37,8 +37,8 @@
       - 《[超英趕美](https://zh.wikipedia.org/wiki/超英趕美 "wikilink")》
       - 《[埋周日](https://zh.wikipedia.org/wiki/埋周日 "wikilink")》
       - 《[十八仝人愛落區](../Page/十八仝人愛落區.md "wikilink")》
-      - 《[雷霆音樂派](https://zh.wikipedia.org/wiki/雷霆音樂派 "wikilink")》（[星期六](../Page/星期六.md "wikilink")及星期日[下午](https://zh.wikipedia.org/wiki/下午 "wikilink")3時半至6時，逢賽馬日暫停）
-      - 《[擒七打8](https://zh.wikipedia.org/wiki/擒七打8 "wikilink")》（星期日[下午](https://zh.wikipedia.org/wiki/下午 "wikilink")7時至8時半）
+      - 《[雷霆音樂派](https://zh.wikipedia.org/wiki/雷霆音樂派 "wikilink")》（[星期六](../Page/星期六.md "wikilink")及星期日[下午](../Page/下午.md "wikilink")3時半至6時，逢賽馬日暫停）
+      - 《[擒七打8](https://zh.wikipedia.org/wiki/擒七打8 "wikilink")》（星期日[下午](../Page/下午.md "wikilink")7時至8時半）
 
 <!-- end list -->
 

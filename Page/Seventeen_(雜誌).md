@@ -561,4 +561,4 @@
 
   - [Seventeen ONLINE(官方網站)](http://hpplus.jp/st/)
 
-[Category:集英社的雜誌](https://zh.wikipedia.org/wiki/Category:集英社的雜誌 "wikilink") [Category:月刊](https://zh.wikipedia.org/wiki/Category:月刊 "wikilink") [Category:時尚雜誌](https://zh.wikipedia.org/wiki/Category:時尚雜誌 "wikilink")
+[Category:集英社的雜誌](https://zh.wikipedia.org/wiki/Category:集英社的雜誌 "wikilink") [Category:月刊](https://zh.wikipedia.org/wiki/Category:月刊 "wikilink") [Category:日本时尚杂志](https://zh.wikipedia.org/wiki/Category:日本时尚杂志 "wikilink")

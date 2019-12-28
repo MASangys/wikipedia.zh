@@ -1,5 +1,4 @@
-if (mw.config.get('wgAction') == 'edit' || mw.config.get('wgAction') ==
-'submit') {
+if (mw.config.get('wgAction') == 'edit' || mw.config.get('wgAction') == 'submit') {
 
 `   jQuery.extend(true, editToolbarConfiguration, {`
 `       'vfd': {`

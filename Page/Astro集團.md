@@ -1,5 +1,3 @@
-**{{Refimprove}} 新条目修饰语句修正笔误内容扩充排版来源内部链接分类消歧义维基化维护清理**<https://www.facebook.com/facebookapp/>
-
 **Astro控股私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Astro Holdings SDN. BHD.，簡稱**Astro集團**）為[馬來西亞一家跨國傳媒娛樂投資公司](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")。
 
 ## 公司簡介

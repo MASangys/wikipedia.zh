@@ -454,7 +454,7 @@
 <td><p>僅支援DirectX 10和DirectX 11。</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/神秘世界" title="wikilink">神秘世界</a></strong>[44]</p></td>
+<td><p><strong><a href="../Page/神秘世界.md" title="wikilink">神秘世界</a></strong>[44]</p></td>
 <td><p>2012年6月19日<br />
  2012年6月19日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Funcom" title="wikilink">Funcom</a></p></td>

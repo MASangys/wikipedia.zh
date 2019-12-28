@@ -171,7 +171,7 @@
 
   - [ビクターエンタテインメントによるアーティストページ](http://www.jvcmusic.co.jp/daigo/) （DAIGO☆STARDUST時代）
 
-  - [女性のためのポータルサイト『DD』](http://www.dd-magazine.net/200902/02.html) （DVD「DAIGO TV」特集）
+  - [女性のためのポータルサイト『DD』](https://web.archive.org/web/20110614220412/http://www.dd-magazine.net/200902/02.html) （DVD「DAIGO TV」特集）
 
 [Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本男性電視藝人](https://zh.wikipedia.org/wiki/Category:日本男性電視藝人 "wikilink") [Category:日本男演員](https://zh.wikipedia.org/wiki/Category:日本男演員 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink") [Category:玉川大學校友](https://zh.wikipedia.org/wiki/Category:玉川大學校友 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink") [Category:Burning_Production系列所屬藝人](https://zh.wikipedia.org/wiki/Category:Burning_Production系列所屬藝人 "wikilink") [Category:超人力霸王系列主演演員](https://zh.wikipedia.org/wiki/Category:超人力霸王系列主演演員 "wikilink") [Category:Being旗下艺人](https://zh.wikipedia.org/wiki/Category:Being旗下艺人 "wikilink")
 

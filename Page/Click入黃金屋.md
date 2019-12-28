@@ -31,7 +31,7 @@
 <tr class="even">
 <td><p><strong><a href="../Page/黎耀祥.md" title="wikilink">黎耀祥</a></strong></p></td>
 <td><p><strong>方心明</strong></p></td>
-<td><p><strong>Stephen、OK明</strong><br />
+<td><p><strong>Stephen、OK明、阿明</strong><br />
 方學文、顏如玉之長子<br />
 方心正、方心美之兄<br />
 袁慧中之鬥氣冤家，後為男友</p></td>
@@ -39,7 +39,7 @@
 <tr class="odd">
 <td><p><strong><a href="../Page/孫耀威.md" title="wikilink">孫耀威</a></strong></p></td>
 <td><p><strong>方心正</strong></p></td>
-<td><p><strong>Alex</strong><br />
+<td><p><strong>Alex、阿正</strong><br />
 INSS网络保安公司职员<br />
 方學文、顏如玉之次子<br />
 方心明之弟<br />
@@ -52,11 +52,11 @@ INSS网络保安公司职员<br />
 <tr class="even">
 <td><p><strong><a href="../Page/何傲兒.md" title="wikilink">何傲兒</a></strong></p></td>
 <td><p><strong>方心美</strong></p></td>
-<td><p><strong>Sammi</strong><br />
+<td><p><strong>Sammi、阿美</strong><br />
 高中生<br />
 方學文、顏如玉之幼女<br />
 方心明、方心正之妹<br />
-暗戀雷樹培，于第19集為女友</p></td>
+暗戀雷樹培，于第19集為其女友</p></td>
 </tr>
 </tbody>
 </table>
@@ -73,12 +73,12 @@ INSS网络保安公司职员<br />
 <tr class="even">
 <td><p><strong><a href="../Page/郭羨妮.md" title="wikilink">郭羨妮</a></strong></p></td>
 <td><p><strong>袁慧中</strong></p></td>
-<td><p><strong>Wendy、中瘟雞</strong><br />
+<td><p><strong>Wendy、中瘟雞、阿中</strong><br />
 「小妮子」紙黏土模型手工藝店店主（第14集被迫搬遷商場）<br />
 與方心明原為冤家，于第7集化解誤會并成为好友<br />
 方心明之女友、後為妻（第20集）<br />
 魯德輝之前妻<br />
-袁家曦之家姐<br />
+袁家曦之姊<br />
 黎佩慈之好友兼利用對象<br />
 于第3集遭黎佩慈所騙，被迫搬家<br />
 于第11集遭黎佩慈騙取10萬港幣投資水貨名錶、于第20集歸還<br />
@@ -119,7 +119,7 @@ INSS网络保安公司职员<br />
 <tr class="even">
 <td><p><strong><a href="../Page/楊思琦.md" title="wikilink">楊思琦</a></strong></p></td>
 <td><p><strong>雷婉儀</strong></p></td>
-<td><p><strong>Abbie、鴨髀</strong><br />
+<td><p><strong>Abbie、鴨髀、婉儀</strong><br />
 營養師<br />
 雷文生、錢淑芬之長女<br />
 方心正之女友，于第16集分手，于第20集復合<br />
@@ -131,7 +131,7 @@ INSS网络保安公司职员<br />
 <tr class="odd">
 <td><p><strong><a href="../Page/楊秀惠.md" title="wikilink">楊秀惠</a></strong></p></td>
 <td><p><strong>徐希敏</strong></p></td>
-<td><p><strong>Hillary</strong><br />
+<td><p><strong>Hillary、Hill</strong><br />
 錢淑芬之幼女<br />
 雷婉儀同母異父之妹<br />
 方心正之女友，于第17集交往，于第20集分手<br />
@@ -143,7 +143,7 @@ INSS网络保安公司职员<br />
 <td><p><strong>Patrick</strong><br />
 樓上咖啡店東主<br />
 雷婉儀之堂姪<br />
-方心美之好友，于第19集為男友</p></td>
+方心美之好友，于第19集為其男友</p></td>
 </tr>
 </tbody>
 </table>
@@ -204,7 +204,7 @@ INSS网络保安公司职员<br />
 <td><p><strong>徐希敏</strong></p></td>
 <td><p><strong>Hillary</strong><br />
 「技術支援部」副經理<br />
-方心正之前女友</p></td>
+方心正之女友，後分手</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/張達倫.md" title="wikilink">張達倫</a></p></td>
@@ -313,7 +313,7 @@ INSS网络保安公司职员<br />
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/龔茜彤" title="wikilink">龔茜彤</a></strong></p></td>
 <td><p><strong>高詠欣</strong></p></td>
 <td><p><strong>Olive</strong><br />
-方心美、史盈盈之同學兼好友<br />
+方心美、史盈盈之同學兼好姊妹<br />
 唐琪琪之天敌</p></td>
 </tr>
 <tr class="even">
@@ -339,7 +339,7 @@ MOSS成員之一<br />
 <td><p>史盈盈</p></td>
 <td><p><strong>Stephy</strong><br />
 高中學生、SOS、MOSS成员之一<br />
-方心美、高詠欣之同學兼好友<br />
+方心美、高詠欣之同學兼好姊妹<br />
 唐琪琪之天敌<br />
 Norman之前女友</p></td>
 </tr>

@@ -56,7 +56,7 @@
 <tr class="even">
 <td><p>5、6</p></td>
 <td><p>JR京都線</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大阪站" title="wikilink">大阪</a>、<a href="https://zh.wikipedia.org/wiki/新大阪站" title="wikilink">新大阪</a>、<a href="../Page/高槻站.md" title="wikilink">高槻方向</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪站" title="wikilink">大阪</a>、<a href="../Page/新大阪站.md" title="wikilink">新大阪</a>、<a href="../Page/高槻站.md" title="wikilink">高槻方向</a></p></td>
 <td><p>快速、普通</p></td>
 </tr>
 <tr class="odd">

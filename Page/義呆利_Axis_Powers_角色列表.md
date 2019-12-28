@@ -1982,7 +1982,7 @@
   - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Republic of Indonesia　
   - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[印度尼西亞語](https://zh.wikipedia.org/wiki/印度尼西亞語 "wikilink")
   - [首都](../Page/首都.md "wikilink")：[雅加達](https://zh.wikipedia.org/wiki/雅加達 "wikilink") 　　　　
-  - [國花](https://zh.wikipedia.org/wiki/國花 "wikilink")：[茉莉花](https://zh.wikipedia.org/wiki/茉莉花 "wikilink")
+  - [國花](https://zh.wikipedia.org/wiki/國花 "wikilink")：[茉莉花](../Page/茉莉花.md "wikilink")
   - [生日](../Page/生日.md "wikilink")：8月17日
 
 綁了個馬尾的女子，目前人設中
@@ -2258,7 +2258,7 @@
     目前尚未被任何國家承認，領土是[英國廢棄的海上人造建築](https://zh.wikipedia.org/wiki/英國 "wikilink")。
     個性樂觀積極，努力想要取得其他國家的認同。
     曾被放上[網路拍賣](https://zh.wikipedia.org/wiki/網路拍賣 "wikilink")，賣價是23萬[歐元](https://zh.wikipedia.org/wiki/歐元 "wikilink")，[後由瑞典出價](../Page/海盜灣.md "wikilink")。目前與[瑞典](../Page/瑞典.md "wikilink")、[芬蘭同住](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")，稱呼瑞典「爸爸」。
-    在作者繪製的2011萬聖節系列短漫中，打扮成[泰迪熊](../Page/泰迪熊.md "wikilink")
+    在作者繪製的2011萬聖節系列短漫中，打扮成[泰迪熊](../Page/泰迪熊.md "wikilink")。
 
 <!-- end list -->
 
@@ -2358,7 +2358,7 @@
     在日本家試著獨立的私人國家。
     位於岳[溫泉](../Page/溫泉.md "wikilink")。
     雖然變回了普通[日本](../Page/日本.md "wikilink")人，但仍殘存著對國家的留戀。
-    過著悠閒生活的性格老實的怪人，喜歡鐳雞蛋（得名於居裏夫婦發現的放射性元素-鐳，由於福島的溫泉裏發現了鐳的存在，因此將這裏的溫泉出產的溫泉蛋稱為鐳雞蛋，ラジウム玉子是其中一個有名的注冊商標，為飯坡溫泉所有，以美容保健為賣點向全日本推廣，號稱日本第一元祖溫泉蛋。）
+    過著悠閒生活的性格老實的怪人，喜歡鐳雞蛋（得名於居裏夫婦發現的放射性元素-鐳，由於福島的溫泉裏發現了鐳的存在，因此將這裏的溫泉出產的溫泉蛋稱為鐳雞蛋，ラジウム玉子是其中一個有名的注冊商標，為飯坡溫泉所有，以美容保健為賣點向全日本推廣，號稱日本第一元祖溫泉蛋。）。
 
 <!-- end list -->
 

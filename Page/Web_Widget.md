@@ -38,7 +38,7 @@ Web Widget允许Web开发者在他们的页面中集成任何第三方Web站点�
 
 [Category:互联网](https://zh.wikipedia.org/wiki/Category:互联网 "wikilink") [Category:网络软件](https://zh.wikipedia.org/wiki/Category:网络软件 "wikilink")
 
-1.  [2008年“微件”重组互联网](http://net.chinabyte.com/230/7823230.shtml) 张盛 比特网 2008年02月27日
+1.  [2008年“微件”重组互联网](http://net.chinabyte.com/230/7823230.shtml)  张盛 比特网 2008年02月27日
 2.  [Widgets: The Future of Online Ads(英文)](http://www.businessweek.com/technology/content/feb2008/tc20080229_871649.htm) Peter Yared BusinessWeek.com 2008年2月29日
 3.  [Why Widgets Don't Work(英文)](http://www.businessweek.com/print/technology/content/feb2008/tc20080229_131531.htm) Ben Kunz BusinessWeek.com 2008年3月3日
 4.  [WIDGET INFLICTS MALWARE—FACEBOOK IGNORES ADVISORY?(英文)](http://blog.anta.net/2008/01/05/widget-inflicts-malware-facebook-ignores-advisory/)  blog.anta.net 2008年1月5日 ISSN1797-1993

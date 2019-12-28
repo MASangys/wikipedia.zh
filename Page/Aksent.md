@@ -410,9 +410,7 @@
 [Category:Aksent](https://zh.wikipedia.org/wiki/Category:Aksent "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:中央區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:中央區公司_\(東京都\) "wikilink") [Category:1987年成立的公司](https://zh.wikipedia.org/wiki/Category:1987年成立的公司 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.

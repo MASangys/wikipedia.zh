@@ -240,17 +240,17 @@ Dear Jane靠副業撐住Rock下去</ref> ，並在2017年9月14日誕下女兒�
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>8th</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/The_Timeline_Project" title="wikilink">The Timeline Project</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/TIMELINE" title="wikilink">TIMELINE</a></p></td>
 <td style="text-align: left;"><p>EP</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/華納唱片_(香港)" title="wikilink">華納唱片 (香港)</a></p></td>
-<td style="text-align: left;"><p>2020年--月--日</p></td>
+<td style="text-align: left;"><p>2019年12月11日（網上平台發售）</p></td>
 <td style="text-align: left;"><p><strong>CD</strong></p>
 <ol>
+<li>Dear Christmas</li>
+<li>搖滾理髮廳</li>
 <li>碌架床</li>
 <li>2084</li>
 <li>富上代</li>
-<li>--</li>
-<li>--</li>
 </ol></td>
 </tr>
 </tbody>
@@ -332,9 +332,10 @@ Dear Jane靠副業撐住Rock下去</ref> ，並在2017年9月14日誕下女兒�
 | **2019年**                                                                           |
 | Infinity & Eternity                                                                 |
 |                                                                                     |
-|                                                                                     |
-|                                                                                     |
-|                                                                                     |
+| [TIMELINE](https://zh.wikipedia.org/wiki/TIMELINE "wikilink")                       |
+| TIMELINE                                                                            |
+| TIMELINE                                                                            |
+| TIMELINE                                                                            |
 
 | **各台冠軍歌總數** |
 | ----------- |
@@ -476,6 +477,7 @@ Dear Jane靠副業撐住Rock下去</ref> ，並在2017年9月14日誕下女兒�
 <!-- end list -->
 
   - [鄭　融](../Page/鄭融.md "wikilink") - 《13樓的大笨象》（Howie創作）
+  - [衛　詩](../Page/衛詩.md "wikilink") - 《了解中》（Howie創作）
 
 ## 節目主題曲製作
 

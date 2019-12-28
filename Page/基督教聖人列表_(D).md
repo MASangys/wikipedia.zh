@@ -117,7 +117,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Saint_David" title="wikilink">David (Dewi) of Wales</a></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/圣达味" title="wikilink">威尔士的达味</a></p></td>
+<td><p><a href="../Page/圣达味.md" title="wikilink">威尔士的达味</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>約589</p></td>

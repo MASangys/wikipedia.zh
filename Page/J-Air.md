@@ -9,59 +9,18 @@
 
 ## 現有機隊
 
-[J-Air,_ERJ-170,_JA224J_(20627796680).jpg](https://zh.wikipedia.org/wiki/File:J-Air,_ERJ-170,_JA224J_\(20627796680\).jpg "fig:J-Air,_ERJ-170,_JA224J_(20627796680).jpg") [J-Air_Bombardier_CRJ200ER_(JA204J)_at_Hanamaki_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Bombardier_CRJ200ER_\(JA204J\)_at_Hanamaki_Airport.jpg "fig:J-Air_Bombardier_CRJ200ER_(JA204J)_at_Hanamaki_Airport.jpg") [J-Air_Bombardier_CRJ200ER_(JA206J)_at_Memanbetsu_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Bombardier_CRJ200ER_\(JA206J\)_at_Memanbetsu_Airport.jpg "fig:J-Air_Bombardier_CRJ200ER_(JA206J)_at_Memanbetsu_Airport.jpg") [J-Air_Bombardier_CRJ200ER_(JA202J)_at_Itami_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Bombardier_CRJ200ER_\(JA202J\)_at_Itami_Airport.jpg "fig:J-Air_Bombardier_CRJ200ER_(JA202J)_at_Itami_Airport.jpg") [J-Air_Embraer_170STD_(JA218J)_landing_at_Tokyo_International_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Embraer_170STD_\(JA218J\)_landing_at_Tokyo_International_Airport.jpg "fig:J-Air_Embraer_170STD_(JA218J)_landing_at_Tokyo_International_Airport.jpg") [J-AIR_Embraer_170_RJSN.JPG](https://zh.wikipedia.org/wiki/File:J-AIR_Embraer_170_RJSN.JPG "fig:J-AIR_Embraer_170_RJSN.JPG") 截至2015年4月3日，J-Air的機隊如下\[1\]\[2\]：
+[J-Air,_ERJ-170,_JA224J_(20627796680).jpg](https://zh.wikipedia.org/wiki/File:J-Air,_ERJ-170,_JA224J_\(20627796680\).jpg "fig:J-Air,_ERJ-170,_JA224J_(20627796680).jpg") [J-Air_Bombardier_CRJ200ER_(JA204J)_at_Hanamaki_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Bombardier_CRJ200ER_\(JA204J\)_at_Hanamaki_Airport.jpg "fig:J-Air_Bombardier_CRJ200ER_(JA204J)_at_Hanamaki_Airport.jpg") [J-Air_Bombardier_CRJ200ER_(JA206J)_at_Memanbetsu_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Bombardier_CRJ200ER_\(JA206J\)_at_Memanbetsu_Airport.jpg "fig:J-Air_Bombardier_CRJ200ER_(JA206J)_at_Memanbetsu_Airport.jpg") [J-Air_Bombardier_CRJ200ER_(JA202J)_at_Itami_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Bombardier_CRJ200ER_\(JA202J\)_at_Itami_Airport.jpg "fig:J-Air_Bombardier_CRJ200ER_(JA202J)_at_Itami_Airport.jpg") [J-Air_Embraer_170STD_(JA218J)_landing_at_Tokyo_International_Airport.jpg](https://zh.wikipedia.org/wiki/File:J-Air_Embraer_170STD_\(JA218J\)_landing_at_Tokyo_International_Airport.jpg "fig:J-Air_Embraer_170STD_(JA218J)_landing_at_Tokyo_International_Airport.jpg") [J-AIR_Embraer_170_RJSN.JPG](https://zh.wikipedia.org/wiki/File:J-AIR_Embraer_170_RJSN.JPG "fig:J-AIR_Embraer_170_RJSN.JPG") 截至2019年8月，J-Air的機隊如下\[1\]\[2\]：
 
 <center>
 
-<table>
-<caption><strong>J-AIR機隊</strong>（）</caption>
-<thead>
-<tr class="header">
-<th><p>機型</p></th>
-<th><p>數量</p></th>
-<th><p>已訂購</p></th>
-<th><p>選購權</p></th>
-<th><p>載客量</p></th>
-<th><p>備註</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/ERJ-170系列" title="wikilink">ERJ-170</a></p></td>
-<td><p>18</p></td>
-<td><p>—</p></td>
-<td><p>2</p></td>
-<td><p>76</p></td>
-<td><p>2008年11月開始接收<br />
-現時正接收選購權的飛機</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/ERJ-170系列" title="wikilink">ERJ-190</a></p></td>
-<td><p>14</p></td>
-<td><p>6</p></td>
-<td><p>—</p></td>
-<td><p>95</p></td>
-<td><p>2016年4月開始接收<br />
-座位為Class J 15名＋經濟艙80席的2等制</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/三菱支線噴射機" title="wikilink">三菱MRJ90</a> [3]</p></td>
-<td><p>—</p></td>
-<td><p>32</p></td>
-<td><p>5</p></td>
-<td><p>有待確定</p></td>
-<td><p>預定2021年服役</p></td>
-</tr>
-<tr class="even">
-<td><p>總數</p></td>
-<td><p>32</p></td>
-<td><p>38</p></td>
-<td><p>7</p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 機型                                                                    | 數量 | 已訂購 | 選購權 | 載客量  | 備註        |
+| --------------------------------------------------------------------- | -- | --- | --- | ---- | --------- |
+| [Embraer-170](https://zh.wikipedia.org/wiki/Embraer-170系列 "wikilink") | 18 | 2   | —   | 76   |           |
+| [Embraer-190](https://zh.wikipedia.org/wiki/Embraer-170系列 "wikilink") | 14 | 1   | —   | 95   |           |
+| [三菱MRJ90](https://zh.wikipedia.org/wiki/三菱支線噴射機 "wikilink") \[3\]     | —  | 32  | —   | 有待確定 | 預定2021年服役 |
+| 總數                                                                    | 32 | 35  |     |      |           |
+
+**J-AIR機隊**（）
 
 </center>
 

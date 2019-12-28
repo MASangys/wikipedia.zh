@@ -27,19 +27,12 @@ Boudouard反应是[高炉内的一个重要过程](https://zh.wikipedia.org/wiki
 [Category:化学工业](https://zh.wikipedia.org/wiki/Category:化学工业 "wikilink") [Category:碳](https://zh.wikipedia.org/wiki/Category:碳 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.  [Bioenergylist.org - Boudouard Reaction spreadsheet](http://gasifiers.bioenergylists.org/files/Boudouard%20Reaction.xls)
-
 2.  [Reaction Web](http://www.crct.polymtl.ca/reacweb.htm)
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.

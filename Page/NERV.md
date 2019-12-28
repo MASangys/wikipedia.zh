@@ -72,7 +72,7 @@ NERV的成員會接受有關[槍械使用的訓練](https://zh.wikipedia.org/wik
 
 ### NERV Logo
 
-半片[无花果树叶](https://zh.wikipedia.org/wiki/无花果 "wikilink")（在[創世記](../Page/創世記.md "wikilink")中，[亞當](../Page/亞當.md "wikilink")和[夏娃吃了](https://zh.wikipedia.org/wiki/夏娃 "wikilink")[智慧樹的果實後以自己一絲不掛為恥](https://zh.wikipedia.org/wiki/知善惡樹 "wikilink")，於是用無花果樹葉蓋著自己的[生殖器](../Page/生殖器.md "wikilink")）和NERV字母的组合，半边围绕着 "God's in his heaven, All's right with the world." 的字样。
+半片[无花果树叶](https://zh.wikipedia.org/wiki/无花果 "wikilink")（在[創世記](../Page/創世記.md "wikilink")中，[亞當](../Page/亞當.md "wikilink")和[夏娃](../Page/夏娃.md "wikilink")吃了[智慧樹的果實後以自己一絲不掛為恥](https://zh.wikipedia.org/wiki/知善惡樹 "wikilink")，於是用無花果樹葉蓋著自己的[生殖器](../Page/生殖器.md "wikilink")）和NERV字母的组合，半边围绕着 "God's in his heaven, All's right with the world." 的字样。
 
 新劇場版中logo更改為無花果樹葉與蘋果的圖案。
 

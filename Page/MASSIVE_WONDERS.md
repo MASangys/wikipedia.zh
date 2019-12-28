@@ -4,7 +4,7 @@
 
   - 本作是2007年4月发行的上张单曲[SECRET AMBITION的延续](../Page/SECRET_AMBITION.md "wikilink")。同名主打歌是电视动画《[魔法少女奈叶StrikerS](https://zh.wikipedia.org/wiki/魔法少女奈叶StrikerS "wikilink")》的第二期主题曲。「MASSIVE WONDERS」很好的体现了动画中的世界观。
   - 同时收录了《[魔法少女奈叶StrikerS](https://zh.wikipedia.org/wiki/魔法少女奈叶StrikerS "wikilink")》的插曲「Pray」。
-  - 2007年8月24日的第863回[FRIDAY SUPER COUNTDOWN 50中](https://zh.wikipedia.org/wiki/FRIDAY_SUPER_COUNTDOWN_50 "wikilink")，以声优的身份，获得个人单曲初登场第一位的排名。上一次有声优获得这一排名是乐团[TWO-MIX的第七张单曲](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")[TRUE NAVIGATION](https://zh.wikipedia.org/wiki/TRUE_NAVIGATION "wikilink")\[1\]。
+  - 2007年8月24日的第863回[FRIDAY SUPER COUNTDOWN 50中](https://zh.wikipedia.org/wiki/FRIDAY_SUPER_COUNTDOWN_50 "wikilink")，以声优的身份，获得个人单曲初登场第一位的排名。上一次有声优获得这一排名是乐团[TWO-MIX](../Page/TWO-MIX.md "wikilink")的第七张单曲[TRUE NAVIGATION](https://zh.wikipedia.org/wiki/TRUE_NAVIGATION "wikilink")\[1\]。
   - 作词由水树本人担任，作曲、編曲则由[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")担任。這是矢吹自从2003年的单曲[still in the groove以来第一次担任水樹的單曲的作](https://zh.wikipedia.org/wiki/still_in_the_groove "wikilink")、编曲。
   - 在2007年9月8日播出的第257回[日本每周动漫歌曲排行榜中](https://zh.wikipedia.org/wiki/日本每周动漫歌曲排行榜 "wikilink")，获得排名第一位的成绩。之后一直到2007年12月1日的第269回节目为止，连续13周蝉联排名该排行榜第一位的成绩。同时，该记录打破了[堀江由衣](../Page/堀江由衣.md "wikilink")的单曲连续10周排名第一位的记录。此歌也是该排行榜2007年度年终排名第一位的歌曲。
   - [Oricon](../Page/Oricon.md "wikilink")公信榜上 最高排名为周排名第四位的成绩，首日卖出的数量，刷新了由上张单曲SECRET AMBITION创造的，自己的音乐单曲在首日卖出数量的最高记录\[2\]。

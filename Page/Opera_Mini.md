@@ -62,7 +62,7 @@ Opera公司没有对这一决定的背景发表任何评论。外界指责该公
   - [Opera中国：欧朋浏览器](http://www.oupeng.com/)
   - [Opera Mini Mod（俄版）官方网站](https://web.archive.org/web/20080501054809/http://www.opera-mini.ru/index_e.html)
   - [Android Market上的Verizon Opera Mini](https://market.android.com/details?id=com.opera.micro)
-  - [Opera Mini 4模拟器](http://demo.opera-mini.net/)
+  - [Opera Mini 4模拟器](https://web.archive.org/web/20100524020421/http://demo.opera-mini.net/)
   - [Opera中文社区博客](http://my.opera.com/chinese/blog/)
   - [Opera Mini Server Mirror](http://code.google.com/p/opm-server-mirror/)：自建Opera Mini代理服务器的项目，配合可自定义代理服务器的Opera Mini版本或是手动修改即可正常使用欧洲的Opera中转服务器
 

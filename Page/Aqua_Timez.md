@@ -62,7 +62,7 @@
 **** 鼓手
 
   -
-    2月21日出生，男性，出身於[三重県](https://zh.wikipedia.org/wiki/三重県 "wikilink")[熊野市](https://zh.wikipedia.org/wiki/熊野市 "wikilink")。
+    2月21日出生，男性，出身於[三重県](https://zh.wikipedia.org/wiki/三重県 "wikilink")[熊野市](../Page/熊野市.md "wikilink")。
     於發行迷你專輯『（七彩的塗鴉）』後退出樂團。
 
 ## 樂團歷程

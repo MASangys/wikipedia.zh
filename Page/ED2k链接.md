@@ -153,7 +153,7 @@ eD2k Hash 算法是一种MD4算法的变体。其函数是一个MD4 Hash列表�
 ## 外部链接
 
   - [aMule wiki: ed2k link](https://web.archive.org/web/20091012100030/http://wiki.amule.org/index.php/Ed2k_link)
-  - [eD2k链接在线分析验证工具](http://emulefans.com/ed2k-link-analyse/)
+  - [eD2k链接在线分析验证工具](https://web.archive.org/web/20100703091222/http://emulefans.com/ed2k-link-analyse)
 
 ### eMule官方网站上的帮助
 
@@ -168,5 +168,5 @@ eD2k Hash 算法是一种MD4算法的变体。其函数是一个MD4 Hash列表�
 1.  <http://contentdb.emule-project.net/view.php?pid=35>
 2.  <http://www.emule-project.net/home/perl/help.cgi?l=1&rm=show_topic&topic_id=422>
 3.
-4.  <http://emulefans.com/emule-kad-node-dat/>
+4.
 5.  根据[eMule源代码](https://zh.wikipedia.org/wiki/eMule "wikilink")，method CKnownFile::CreateFromFile。

@@ -4,6 +4,8 @@
 
 1993年至1995年期间，节目曾改为双主播制，由[丹·拉瑟](../Page/丹·拉瑟.md "wikilink")和[宗毓华](../Page/宗毓华.md "wikilink")共同主持。1995年双主播制取消，改回单人播报。
 
+2019年12月2日，《CBS晚間新聞》从纽约演播室改为华盛顿演播室播出。
+
 ## 华人地区转播
 
 [香港](../Page/香港.md "wikilink")的[亚洲電視国际台曾在](https://zh.wikipedia.org/wiki/亚洲電視国际台 "wikilink")2009年1月1日前播出《CBS晚間新聞》，现已取消。
@@ -14,7 +16,7 @@
 
 ## 外部連結
 
-  - [节目官网](http://www.cbsnews.com/sections/eveningnews/main3420.shtml)
+  - [节目官网](https://www.cbsnews.com/evening-news/)
 
 [Category:美國電視新聞節目](https://zh.wikipedia.org/wiki/Category:美國電視新聞節目 "wikilink") [Category:CBS電視節目](https://zh.wikipedia.org/wiki/Category:CBS電視節目 "wikilink") [Category:亞洲電視外購節目](https://zh.wikipedia.org/wiki/Category:亞洲電視外購節目 "wikilink") [Category:中視外購電視節目](https://zh.wikipedia.org/wiki/Category:中視外購電視節目 "wikilink") [Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink") [Category:英语电视节目](https://zh.wikipedia.org/wiki/Category:英语电视节目 "wikilink")
 

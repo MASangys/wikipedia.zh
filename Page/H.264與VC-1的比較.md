@@ -80,7 +80,7 @@ Simple和Main profile則不提供sequence也沒有entry point headers.</p></td>
 
 ## 外部連結
 
-  - [EEtimes comparison of video codecs](http://i.cmpnet.com/videsignline/2006/03/ti-table1.jpg) [1](http://www.eetimes.com/news/latest/showArticle.jhtml?articleID=184417335&pgno=4)
+  - [EEtimes comparison of video codecs](http://i.cmpnet.com/videsignline/2006/03/ti-table1.jpg) [1](https://web.archive.org/web/20070929083832/http://www.eetimes.com/news/latest/showArticle.jhtml?articleID=184417335&pgno=4)
   - [NAB2005 presentation: codec comparison slides 13-14](http://www.m4if.org/exhibitions/NAB2005/presentations/session3-cvandusen.pdf)
   - [Codec challenge comparison on Doom9 with professional VC1 encoder, PeP, and x264 for H264 =\> H264 win the first round](http://forum.doom9.org/showthread.php?t=128498)
   - [Microsoft employee discusses differences between VC-1 and H.264](http://www.avsforum.com/avs-vb/showthread.php?p=9931723&&#post9931723)

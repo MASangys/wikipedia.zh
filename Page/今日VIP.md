@@ -726,7 +726,7 @@
 | 2011年2月21日 (\#33) | [何詠雯](../Page/何詠雯.md "wikilink")、[鄭瑩瑩](https://zh.wikipedia.org/wiki/鄭瑩瑩 "wikilink")、[蘇　丹](https://zh.wikipedia.org/wiki/蘇丹 "wikilink")、[吳詠琪](https://zh.wikipedia.org/wiki/吳詠琪 "wikilink")、[黃曉明](../Page/黃曉明_\(香港\).md "wikilink")、[陳　爽](../Page/陳爽.md "wikilink")、[楊卓娜](../Page/楊卓娜.md "wikilink") | 吳家樂    |
 | 2011年2月22日 (\#34) | [張智霖](../Page/張智霖.md "wikilink")                                                                                                                                                                                                                                                                     | 吳家樂    |
 | 2011年2月23日 (\#35) | [田蕊妮](../Page/田蕊妮.md "wikilink")、[麥長青](../Page/麥長青.md "wikilink")                                                                                                                                                                                                                                    | 陳芷菁    |
-| 2011年2月24日 (\#36) | [鄧健明](https://zh.wikipedia.org/wiki/鄧健明 "wikilink")、[區新明](https://zh.wikipedia.org/wiki/區新明 "wikilink")                                                                                                                                                                                              | 陳永業    |
+| 2011年2月24日 (\#36) | [鄧健明](https://zh.wikipedia.org/wiki/鄧健明 "wikilink")、[區新明](../Page/區新明.md "wikilink")                                                                                                                                                                                                                 | 陳永業    |
 | 2011年2月25日 (\#37) | [陳國邦](../Page/陳國邦.md "wikilink")、[鍾景輝](../Page/鍾景輝.md "wikilink")、[古天農](../Page/古天農.md "wikilink")                                                                                                                                                                                                   | 陳芷菁    |
 | 2011年2月28日 (\#38) | [RubberBand](../Page/RubberBand.md "wikilink")                                                                                                                                                                                                                                                       | 吳家樂    |
 
@@ -1626,7 +1626,7 @@
 | 2013年4月11日 (\#67) | [區瑞強](../Page/區瑞強.md "wikilink")                                                                                      | 羅敏莊    |
 | 2013年4月12日 (\#68) | [江若琳](../Page/江若琳.md "wikilink")                                                                                      | 吳家樂    |
 | 2013年4月15日 (\#69) | [唐詩詠](https://zh.wikipedia.org/wiki/唐詩詠 "wikilink")                                                                   | 羅敏莊    |
-| 2013年4月16日 (\#70) | [麥德羅](https://zh.wikipedia.org/wiki/麥德羅 "wikilink")                                                                   | 陳永業    |
+| 2013年4月16日 (\#70) | [麥德羅](../Page/麥德羅.md "wikilink")                                                                                      | 陳永業    |
 | 2013年4月17日 (\#71) | [周國章](https://zh.wikipedia.org/wiki/周國章 "wikilink")                                                                   | 吳家樂    |
 | 2013年4月18日 (\#72) | [洪永城](../Page/洪永城.md "wikilink")                                                                                      | 李浩林    |
 | 2013年4月19日 (\#73) | [周啟生](../Page/周啟生.md "wikilink")、[周小君](https://zh.wikipedia.org/wiki/周小君 "wikilink")                                  | 吳家樂    |
@@ -3602,7 +3602,7 @@
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | **首播日期**           | **嘉賓**                                                                                                                                                                                                          | **主持** |
 | 2018年9月3日 (\#175)  | [羅浩銘](../Page/羅浩銘.md "wikilink")、[林師傑](https://zh.wikipedia.org/wiki/林師傑 "wikilink")、[方紹聰](../Page/方紹聰.md "wikilink")                                                                                           | 陳永業    |
-| 2018年9月4日 (\#176)  | [蔡思行](https://zh.wikipedia.org/wiki/蔡思行 "wikilink")                                                                                                                                                             | 李浩林    |
+| 2018年9月4日 (\#176)  | [蔡思行](../Page/蔡思行.md "wikilink")                                                                                                                                                                                | 李浩林    |
 | 2018年9月5日 (\#177)  | [狄以達](../Page/狄以達.md "wikilink")、[丁可欣](../Page/丁可欣.md "wikilink")、[鄧智堅](../Page/鄧智堅.md "wikilink")                                                                                                              | 梁嘉琪    |
 | 2018年9月6日 (\#178)  | [薛文諾](https://zh.wikipedia.org/wiki/薛文諾 "wikilink")、[林家俊](https://zh.wikipedia.org/wiki/林家俊 "wikilink")、[羅治軒](https://zh.wikipedia.org/wiki/羅治軒 "wikilink")                                                     | 梁嘉琪    |
 | 2018年9月7日 (\#179)  | [譚玉瑛](../Page/譚玉瑛.md "wikilink")、[黃庭鋒](../Page/黃庭鋒.md "wikilink")、[吳幸美](../Page/吳幸美.md "wikilink")                                                                                                              | 黎芷珊    |
@@ -3741,29 +3741,29 @@
 
 #### 2月
 
-|                   |                                                                                                                                                                                           |        |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| **首播日期**          | **嘉賓**                                                                                                                                                                                    | **主持** |
-| 2019年2月1日 (\#24)  | [陳曉東](https://zh.wikipedia.org/wiki/陳曉東 "wikilink")                                                                                                                                       | 陳永業    |
-| 2019年2月4日 (\#25)  | [杜國威](../Page/杜國威.md "wikilink")                                                                                                                                                          | 陳永業    |
-| 2019年2月5日 (\#26)  | [Bee](https://zh.wikipedia.org/wiki/Bee "wikilink")、[Peter仔](https://zh.wikipedia.org/wiki/Peter仔 "wikilink")、[Jim](../Page/鄧永健.md "wikilink")                                            | 梁嘉琪    |
-| 2019年2月6日 (\#27)  | [柳影虹](../Page/柳影虹.md "wikilink")                                                                                                                                                          | 陳永業    |
-| 2019年2月7日 (\#28)  | [陳國峰](../Page/陳國峰.md "wikilink")                                                                                                                                                          | 李浩林    |
-| 2019年2月8日 (\#29)  | [張彥博](../Page/張彥博.md "wikilink")                                                                                                                                                          | 陳永業    |
-| 2019年2月11日 (\#30) | [黃亞保](https://zh.wikipedia.org/wiki/黃亞保 "wikilink")                                                                                                                                       | 吳家樂    |
-| 2019年2月12日 (\#31) | [彭秀慧](../Page/彭秀慧.md "wikilink")                                                                                                                                                          | 李浩林    |
-| 2019年2月13日 (\#32) | [李　昇](../Page/李昇.md "wikilink")、[李　軒](https://zh.wikipedia.org/wiki/李軒 "wikilink")、[王　憓](https://zh.wikipedia.org/wiki/王憓 "wikilink")、[鞏姿希](https://zh.wikipedia.org/wiki/鞏姿希 "wikilink") | 黎芷珊    |
-| 2019年2月14日 (\#33) | [吳岱融](../Page/吳岱融.md "wikilink")                                                                                                                                                          | 陳永業    |
-| 2019年2月15日 (\#34) | [吳業坤](../Page/吳業坤.md "wikilink")                                                                                                                                                          | 梁嘉琪    |
-| 2019年2月18日 (\#35) | [田蕊妮](../Page/田蕊妮.md "wikilink")                                                                                                                                                          | 黎芷珊    |
-| 2019年2月19日 (\#36) | [黃智賢](../Page/黃智賢_\(香港\).md "wikilink")、[張國強](../Page/張國強_\(香港演員\).md "wikilink")、[胡渭康](../Page/胡渭康.md "wikilink")                                                                        | 黎芷珊    |
-| 2019年2月20日 (\#37) | [sp'ACE](https://zh.wikipedia.org/wiki/sp'ACE "wikilink")                                                                                                                                 | 李浩林    |
-| 2019年2月21日 (\#38) | [安　泰](https://zh.wikipedia.org/wiki/戴佑安 "wikilink")                                                                                                                                       | 吳家樂    |
-| 2019年2月22日 (\#39) | [祝　仔](https://zh.wikipedia.org/wiki/祝仔 "wikilink")、[Ken](https://zh.wikipedia.org/wiki/Ken "wikilink")                                                                                    | 陳永業    |
-| 2019年2月25日 (\#40) | [林景程](../Page/林景程.md "wikilink")                                                                                                                                                          | 陳永業    |
-| 2019年2月26日 (\#41) | [劉家聰](https://zh.wikipedia.org/wiki/劉家聰 "wikilink")                                                                                                                                       | 吳家樂    |
-| 2019年2月27日 (\#42) | [上田莉棋](https://zh.wikipedia.org/wiki/上田莉棋 "wikilink")                                                                                                                                     | 黎芷珊    |
-| 2019年2月28日 (\#43) | [黃天盈](https://zh.wikipedia.org/wiki/黃天盈 "wikilink")                                                                                                                                       | 黎芷珊    |
+|                   |                                                                                                                                                                        |        |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| **首播日期**          | **嘉賓**                                                                                                                                                                 | **主持** |
+| 2019年2月1日 (\#24)  | [陳曉東](https://zh.wikipedia.org/wiki/陳曉東 "wikilink")                                                                                                                    | 陳永業    |
+| 2019年2月4日 (\#25)  | [杜國威](../Page/杜國威.md "wikilink")                                                                                                                                       | 陳永業    |
+| 2019年2月5日 (\#26)  | [Bee](https://zh.wikipedia.org/wiki/Bee "wikilink")、[Peter仔](https://zh.wikipedia.org/wiki/Peter仔 "wikilink")、[Jim](../Page/鄧永健.md "wikilink")                         | 梁嘉琪    |
+| 2019年2月6日 (\#27)  | [柳影虹](../Page/柳影虹.md "wikilink")                                                                                                                                       | 陳永業    |
+| 2019年2月7日 (\#28)  | [陳國峰](../Page/陳國峰.md "wikilink")                                                                                                                                       | 李浩林    |
+| 2019年2月8日 (\#29)  | [張彥博](../Page/張彥博.md "wikilink")                                                                                                                                       | 陳永業    |
+| 2019年2月11日 (\#30) | [黃亞保](https://zh.wikipedia.org/wiki/黃亞保 "wikilink")                                                                                                                    | 吳家樂    |
+| 2019年2月12日 (\#31) | [彭秀慧](../Page/彭秀慧.md "wikilink")                                                                                                                                       | 李浩林    |
+| 2019年2月13日 (\#32) | [李　昇](../Page/李昇.md "wikilink")、[李　軒](https://zh.wikipedia.org/wiki/李軒 "wikilink")、[王　憓](https://zh.wikipedia.org/wiki/王憓 "wikilink")、[鞏姿希](../Page/鞏姿希.md "wikilink") | 黎芷珊    |
+| 2019年2月14日 (\#33) | [吳岱融](../Page/吳岱融.md "wikilink")                                                                                                                                       | 陳永業    |
+| 2019年2月15日 (\#34) | [吳業坤](../Page/吳業坤.md "wikilink")                                                                                                                                       | 梁嘉琪    |
+| 2019年2月18日 (\#35) | [田蕊妮](../Page/田蕊妮.md "wikilink")                                                                                                                                       | 黎芷珊    |
+| 2019年2月19日 (\#36) | [黃智賢](../Page/黃智賢_\(香港\).md "wikilink")、[張國強](../Page/張國強_\(香港演員\).md "wikilink")、[胡渭康](../Page/胡渭康.md "wikilink")                                                     | 黎芷珊    |
+| 2019年2月20日 (\#37) | [sp'ACE](https://zh.wikipedia.org/wiki/sp'ACE "wikilink")                                                                                                              | 李浩林    |
+| 2019年2月21日 (\#38) | [安　泰](https://zh.wikipedia.org/wiki/戴佑安 "wikilink")                                                                                                                    | 吳家樂    |
+| 2019年2月22日 (\#39) | [祝　仔](https://zh.wikipedia.org/wiki/祝仔 "wikilink")、[Ken](https://zh.wikipedia.org/wiki/Ken "wikilink")                                                                 | 陳永業    |
+| 2019年2月25日 (\#40) | [林景程](../Page/林景程.md "wikilink")                                                                                                                                       | 陳永業    |
+| 2019年2月26日 (\#41) | [劉家聰](https://zh.wikipedia.org/wiki/劉家聰 "wikilink")                                                                                                                    | 吳家樂    |
+| 2019年2月27日 (\#42) | [上田莉棋](https://zh.wikipedia.org/wiki/上田莉棋 "wikilink")                                                                                                                  | 黎芷珊    |
+| 2019年2月28日 (\#43) | [黃天盈](https://zh.wikipedia.org/wiki/黃天盈 "wikilink")                                                                                                                    | 黎芷珊    |
 
 #### 3月
 
@@ -3845,7 +3845,7 @@
 | 2019年5月27日 (\#105) | [張明偉](../Page/張明偉.md "wikilink")                                                                                                                                                                                                                                    | 梁嘉琪       |
 | 2019年5月28日 (\#106) | [梁小偉](https://zh.wikipedia.org/wiki/梁小偉 "wikilink")、[楊肇麟](https://zh.wikipedia.org/wiki/楊肇麟 "wikilink")、[陳師正](https://zh.wikipedia.org/wiki/陳師正 "wikilink")                                                                                                         | 陳永業       |
 | 2019年5月29日 (\#107) | [林雲中](../Page/林雲中.md "wikilink")                                                                                                                                                                                                                                    | 黎芷珊       |
-| 2019年5月30日 (\#108) | [何慈茵](https://zh.wikipedia.org/wiki/何慈茵 "wikilink")                                                                                                                                                                                                                 | 梁嘉琪       |
+| 2019年5月30日 (\#108) | [何慈茵](../Page/何慈茵.md "wikilink")                                                                                                                                                                                                                                    | 梁嘉琪       |
 | 2019年5月31日 (\#109) | [Dennis Dung](https://zh.wikipedia.org/wiki/Dennis_Dung "wikilink")                                                                                                                                                                                                 | 吳家樂       |
 
 #### 6月
@@ -3998,7 +3998,7 @@
 | **首播日期**            | **嘉賓**                                                                                                                                                      | **主持** |
 | 2019年11月1日 (\#218)  | [區永權](../Page/區永權.md "wikilink")                                                                                                                            | 黎芷珊    |
 | 2019年11月4日 (\#219)  | [陳嘉瑩](https://zh.wikipedia.org/wiki/陳嘉瑩 "wikilink")                                                                                                         | 陳永業    |
-| 2019年11月5日 (\#220)  | [袁學謙](https://zh.wikipedia.org/wiki/袁學謙 "wikilink")                                                                                                         | 崔建邦    |
+| 2019年11月5日 (\#220)  | [袁學謙](../Page/袁學謙.md "wikilink")                                                                                                                            | 崔建邦    |
 | 2019年11月6日 (\#221)  | [黎志偉](https://zh.wikipedia.org/wiki/黎志偉 "wikilink")、[梁國斌](https://zh.wikipedia.org/wiki/梁國斌 "wikilink")                                                     | 吳家樂    |
 | 2019年11月7日 (\#222)  | [鄧文瀚](https://zh.wikipedia.org/wiki/鄧文瀚 "wikilink")                                                                                                         | 林溥來    |
 | 2019年11月8日 (\#223)  | [陳庭欣](https://zh.wikipedia.org/wiki/陳庭欣 "wikilink")                                                                                                         | 黎芷珊    |
@@ -4021,32 +4021,63 @@
 
 #### 12月
 
-|                     |                                                                                                             |        |
-| ------------------- | ----------------------------------------------------------------------------------------------------------- | ------ |
-| **首播日期**            | **嘉賓**                                                                                                      | **主持** |
-| 2019年12月2日 (\#239)  | [Hugh](https://zh.wikipedia.org/wiki/Hugh "wikilink")、[Paul](https://zh.wikipedia.org/wiki/Paul "wikilink") |        |
-| 2019年12月3日 (\#240)  | [周華山](../Page/周華山.md "wikilink")、[阿　細](https://zh.wikipedia.org/wiki/阿細 "wikilink")                         |        |
-| 2019年12月4日 (\#241)  | [洪永城](../Page/洪永城.md "wikilink")、[朱晨麗](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")                        |        |
-| 2019年12月5日 (\#242)  | [李浩迅](https://zh.wikipedia.org/wiki/李浩迅 "wikilink")                                                         |        |
-| 2019年12月6日 (\#243)  |                                                                                                             |        |
-| 2019年12月9日 (\#244)  |                                                                                                             |        |
-| 2019年12月10日 (\#245) |                                                                                                             |        |
-| 2019年12月11日 (\#246) |                                                                                                             |        |
-| 2019年12月12日 (\#247) |                                                                                                             |        |
-| 2019年12月13日 (\#248) |                                                                                                             |        |
-| 2019年12月16日 (\#249) |                                                                                                             |        |
-| 2019年12月17日 (\#250) |                                                                                                             |        |
-| 2019年12月18日 (\#251) |                                                                                                             |        |
-| 2019年12月19日 (\#252) |                                                                                                             |        |
-| 2019年12月20日 (\#253) |                                                                                                             |        |
-| 2019年12月23日 (\#254) |                                                                                                             |        |
-| 2019年12月24日 (\#255) |                                                                                                             |        |
-| 2019年12月25日 (\#256) |                                                                                                             |        |
-| 2019年12月26日 (\#257) |                                                                                                             |        |
-| 2019年12月27日 (\#258) |                                                                                                             |        |
-| 2019年12月30日 (\#259) |                                                                                                             |        |
-| 2019年12月31日 (\#260) |                                                                                                             |        |
-|                     |                                                                                                             |        |
+|                     |                                                                                                                                                                                                                                                                                                                 |        |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| **首播日期**            | **嘉賓**                                                                                                                                                                                                                                                                                                          | **主持** |
+| 2019年12月2日 (\#239)  | [Hugh](https://zh.wikipedia.org/wiki/Hugh "wikilink")、[Paul](https://zh.wikipedia.org/wiki/Paul "wikilink")                                                                                                                                                                                                     | 陳永業    |
+| 2019年12月3日 (\#240)  | [周華山](../Page/周華山.md "wikilink")、[阿　細](https://zh.wikipedia.org/wiki/阿細 "wikilink")                                                                                                                                                                                                                             | 黎芷珊    |
+| 2019年12月4日 (\#241)  | [洪永城](../Page/洪永城.md "wikilink")、[朱晨麗](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")                                                                                                                                                                                                                            | 吳家樂    |
+| 2019年12月5日 (\#242)  | [李浩迅](https://zh.wikipedia.org/wiki/李浩迅 "wikilink")                                                                                                                                                                                                                                                             | 林溥來    |
+| 2019年12月6日 (\#243)  | [司徒志強](https://zh.wikipedia.org/wiki/司徒志強 "wikilink")                                                                                                                                                                                                                                                           | 李浩林    |
+| 2019年12月9日 (\#244)  | [李家鼎](../Page/李家鼎.md "wikilink")、[譚玉瑛](../Page/譚玉瑛.md "wikilink")                                                                                                                                                                                                                                               | 吳家樂    |
+| 2019年12月10日 (\#245) | [黃錦燊](../Page/黃錦燊.md "wikilink")（上）                                                                                                                                                                                                                                                                             | 黎芷珊    |
+| 2019年12月11日 (\#246) | [黃錦燊](../Page/黃錦燊.md "wikilink")（下）                                                                                                                                                                                                                                                                             | 黎芷珊    |
+| 2019年12月12日 (\#247) | [Melody](https://zh.wikipedia.org/wiki/Melody "wikilink")                                                                                                                                                                                                                                                       | 李浩林    |
+| 2019年12月13日 (\#248) | [劉穎鏇](../Page/劉穎鏇.md "wikilink")、[張寶兒](../Page/張寶兒.md "wikilink")、[鄺潔楹](../Page/鄺潔楹.md "wikilink")、[陳詩欣](../Page/陳詩欣_\(香港\).md "wikilink")、[戴祖儀](../Page/戴祖儀.md "wikilink")、[何泳芍](../Page/何泳芍.md "wikilink")、[麥美恩](../Page/麥美恩.md "wikilink")、[何依婷](../Page/何依婷.md "wikilink")、[馮盈盈](../Page/馮盈盈.md "wikilink") | 李浩林    |
+| 2019年12月16日 (\#249) | [海俊傑](../Page/海俊傑.md "wikilink")                                                                                                                                                                                                                                                                                | 陳永業    |
+| 2019年12月17日 (\#250) | [王子涵](../Page/王子涵.md "wikilink")                                                                                                                                                                                                                                                                                | 崔建邦    |
+| 2019年12月18日 (\#251) | [司徒志強](https://zh.wikipedia.org/wiki/司徒志強 "wikilink")、[盧俊賢](https://zh.wikipedia.org/wiki/盧俊賢 "wikilink")、[高康迪](https://zh.wikipedia.org/wiki/高康迪 "wikilink")、[李學賢](https://zh.wikipedia.org/wiki/李學賢 "wikilink")                                                                                               | 吳家樂    |
+| 2019年12月19日 (\#252) | [陳樂榣](../Page/陳樂榣.md "wikilink")                                                                                                                                                                                                                                                                                | 黎芷珊    |
+| 2019年12月20日 (\#253) | [朱偉基](https://zh.wikipedia.org/wiki/朱偉基 "wikilink")、[杜振南](https://zh.wikipedia.org/wiki/杜振南 "wikilink")                                                                                                                                                                                                         | 林溥來    |
+| 2019年12月23日 (\#254) |                                                                                                                                                                                                                                                                                                                 |        |
+| 2019年12月24日 (\#255) |                                                                                                                                                                                                                                                                                                                 |        |
+| 2019年12月25日 (\#256) |                                                                                                                                                                                                                                                                                                                 |        |
+| 2019年12月26日 (\#257) |                                                                                                                                                                                                                                                                                                                 |        |
+| 2019年12月27日 (\#258) |                                                                                                                                                                                                                                                                                                                 |        |
+| 2019年12月30日 (\#259) |                                                                                                                                                                                                                                                                                                                 |        |
+| 2019年12月31日 (\#260) |                                                                                                                                                                                                                                                                                                                 |        |
+|                     |                                                                                                                                                                                                                                                                                                                 |        |
+
+### 2020年
+
+#### 1月
+
+|                   |        |        |
+| ----------------- | ------ | ------ |
+| **首播日期**          | **嘉賓** | **主持** |
+| 2020年1月1日 (\#1)   |        |        |
+| 2019年1月2日 (\#2)   |        |        |
+| 2020年1月3日 (\#3)   |        |        |
+| 2020年1月6日 (\#4)   |        |        |
+| 2020年1月7日 (\#5)   |        |        |
+| 2020年1月8日 (\#6)   |        |        |
+| 2020年1月9日 (\#7)   |        |        |
+| 2020年1月10日 (\#8)  |        |        |
+| 2020年1月13日 (\#9)  |        |        |
+| 2019年1月14日 (\#10) |        |        |
+| 2020年1月15日 (\#11) |        |        |
+| 2020年1月16日 (\#12) |        |        |
+| 2020年1月17日 (\#13) |        |        |
+| 2020年1月20日 (\#14) |        |        |
+| 2020年1月21日 (\#15) |        |        |
+| 2020年1月22日 (\#16) |        |        |
+| 2020年1月23日 (\#17) |        |        |
+| 2020年1月24日 (\#18) |        |        |
+| 2020年1月27日 (\#19) |        |        |
+| 2020年1月28日 (\#20) |        |        |
+| 2020年1月29日 (\#21) |        |        |
+| 2020年1月30日 (\#22) |        |        |
+| 2020年1月31日 (\#23) |        |        |
 
 ## 參考來源
 
@@ -4054,7 +4085,7 @@
 
   - [無綫電視官方網頁 - 今日VIP](http://programme.tvb.com/variety/greenroom)
 
-[Category:無綫電視清談節目](https://zh.wikipedia.org/wiki/Category:無綫電視清談節目 "wikilink") [Category:2000年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2000年代無綫電視節目 "wikilink") [Category:2010年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年代無綫電視節目 "wikilink") [Category:2009年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2009年無綫電視節目 "wikilink") [Category:2010年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年無綫電視節目 "wikilink") [Category:2011年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2011年無綫電視節目 "wikilink") [Category:2012年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2012年無綫電視節目 "wikilink") [Category:2013年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2013年無綫電視節目 "wikilink") [Category:2014年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2014年無綫電視節目 "wikilink") [Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink") [Category:2016年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2016年無綫電視節目 "wikilink") [Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink") [Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink") [Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink")
+[Category:無綫電視清談節目](https://zh.wikipedia.org/wiki/Category:無綫電視清談節目 "wikilink") [Category:2000年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2000年代無綫電視節目 "wikilink") [Category:2010年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年代無綫電視節目 "wikilink") [Category:2009年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2009年無綫電視節目 "wikilink") [Category:2010年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年無綫電視節目 "wikilink") [Category:2011年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2011年無綫電視節目 "wikilink") [Category:2012年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2012年無綫電視節目 "wikilink") [Category:2013年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2013年無綫電視節目 "wikilink") [Category:2014年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2014年無綫電視節目 "wikilink") [Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink") [Category:2016年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2016年無綫電視節目 "wikilink") [Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink") [Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink") [Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink") [Category:2020年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2020年無綫電視節目 "wikilink")
 
 1.  [有話兒：靚聲王開咪 Phone雲再起](http://hk.apple.nextmedia.com/entertainment/art/20110903/15580036)，[蘋果日報](../Page/蘋果日報_\(香港\).md "wikilink")，2011年9月3日
 2.  [《今日VIP》訪問下周一播出](http://hk.on.cc/hk/bkn/cnt/entertainment/20150102/bkn-20150102214233170-0102_00862_001.html)，[東網](https://zh.wikipedia.org/wiki/ON.CC "wikilink")，2015年1月2日

@@ -4,7 +4,7 @@
 
 omCollab 是许多不同产品的合集。omCollab提供的功能包括:
 
-  - [Wiki](../Page/Wiki.md "wikilink") 用于创建和共享协作内容, 基于[Wikipedia的后台程序](https://zh.wikipedia.org/wiki/Wikipedia "wikilink")[MediaWiki](../Page/MediaWiki.md "wikilink") 。
+  - [Wiki](../Page/Wiki.md "wikilink") 用于创建和共享协作内容, 基于[Wikipedia的后台程序](https://zh.wikipedia.org/wiki/Wikipedia "wikilink")[MediaWiki](https://zh.wikipedia.org/wiki/MediaWiki "wikilink") 。
 
 <!-- end list -->
 

@@ -31,6 +31,7 @@
 
 ### 動漫
 
+  - 《[北斗神拳](../Page/北斗神拳.md "wikilink")》\[3\] (Fist of the North Star)
   - 《[學園默示錄](../Page/學園默示錄.md "wikilink")》（Highschool of the Dead）
   - 《[奇幻自衛隊](https://zh.wikipedia.org/wiki/奇幻自衛隊 "wikilink")》（Gate）
   - 《[少女與戰車](https://zh.wikipedia.org/wiki/少女與戰車 "wikilink")》（GIRLS und PANZER）
@@ -52,3 +53,4 @@
 
 1.  [観測ヘリコプター | 略称：OH-1 愛称：ニンジャ | Flickr](https://www.flickr.com/photos/90465288@N07/8464498207/in/set-72157632745071228/) 陸上自衛隊公式アカウント
 2.  川崎重工の代表的な[オートバイにも](https://zh.wikipedia.org/wiki/オートバイ "wikilink")、同じく「[ニンジャ](https://zh.wikipedia.org/wiki/カワサキ・ニンジャ "wikilink")」の別名が与えられている。
+3.  相关剧情为动画原创

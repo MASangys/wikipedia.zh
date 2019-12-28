@@ -165,7 +165,7 @@ GZCA-4014＜通常盤＞</p></td>
 <tr class="odd">
 <td><p>15th</p></td>
 <td><p>2006年5月24日</p></td>
-<td><p>''' <a href="https://zh.wikipedia.org/wiki/Fall_in_Love" title="wikilink">Fall in Love</a> '''</p></td>
+<td><p>''' <a href="../Page/Fall_in_Love.md" title="wikilink">Fall in Love</a> '''</p></td>
 <td><p>GZCA-4069</p></td>
 </tr>
 <tr class="even">

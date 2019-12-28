@@ -27,7 +27,7 @@
   - Description and examples - [<http://www.cis.temple.edu/>](http://www.cis.temple.edu/~ingargio/cis587/readings/id3-c45.html)
   - [An implementation of ID3 in Python](http://www.onlamp.com/pub/a/python/2006/02/09/ai_decision_trees.html)
   - [An implementation of ID3 in Ruby](https://web.archive.org/web/20081016040703/http://ai4r.rubyforge.org/machineLearning.html)
-  - [An implementation of ID3 in Common Lisp](http://www.pvv.ntnu.no/~oyvinht/static/OSS/cl-id3/)
+  - [An implementation of ID3 in Common Lisp](https://web.archive.org/web/20171225121804/http://www.pvv.ntnu.no/~oyvinht/static/OSS/cl-id3/)
   - Implementation of ID3 algorithm in C\# - <https://web.archive.org/web/20061109050158/http://www.codeproject.com/cs/algorithms/id3.asp>
   - [An implementation of ID3 in Perl](http://search.cpan.org/~kwilliams/AI-DecisionTree)
 

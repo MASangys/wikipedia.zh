@@ -403,7 +403,7 @@
       - () [恋物癖](https://zh.wikipedia.org/wiki/恋物癖 "wikilink")
       - () [异装癖](https://zh.wikipedia.org/wiki/异装癖 "wikilink")
       - () [裸露癖](https://zh.wikipedia.org/wiki/裸露癖 "wikilink")
-      - () [窥视症](https://zh.wikipedia.org/wiki/窺視症 "wikilink")
+      - () [窥视症](../Page/窺視症.md "wikilink")
       - () [恋童癖](https://zh.wikipedia.org/wiki/恋童癖 "wikilink")
       - () [虐恋](../Page/虐恋.md "wikilink")症
       - () 混合型[性偏好障碍](https://zh.wikipedia.org/wiki/性偏好 "wikilink")

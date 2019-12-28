@@ -84,7 +84,7 @@
 （**[武田氏](../Page/武田氏.md "wikilink")**）
 
   - [武田信玄](../Page/武田信玄.md "wikilink")-[甲斐国武田氏当主](https://zh.wikipedia.org/wiki/甲斐国 "wikilink")，原名武田晴信。号称“甲斐之虎”，日本战国著名影武者，以“[风林火山](../Page/风林火山.md "wikilink")”闻名。元龟二年受到足利义昭的指令并前往京都上洛。先后击败德川家康，后来在三河之战被织田信长击倒，最后回城半路病逝。
-  - [武田信廉](https://zh.wikipedia.org/wiki/武田信廉 "wikilink")-武田信玄之弟，武田氏一族。
+  - [武田信廉](../Page/武田信廉.md "wikilink")-武田信玄之弟，武田氏一族。
   - [武田胜赖](https://zh.wikipedia.org/wiki/武田胜赖 "wikilink")-武田信玄之子，武田信玄病逝后继承家督。发兵攻击[明智城被信长击败](https://zh.wikipedia.org/wiki/明智城 "wikilink")，在[长蓧之战被信长击倒](https://zh.wikipedia.org/wiki/长蓧之战 "wikilink")。最后自尽身亡，导致武田氏灭亡。
   - [穴山梅雪](https://zh.wikipedia.org/wiki/穴山梅雪 "wikilink")-武田氏一族。
   - [真田昌幸](../Page/真田昌幸.md "wikilink")-武田氏参谋之一，[真田氏](../Page/真田氏.md "wikilink")当主。真田幸村的父亲。

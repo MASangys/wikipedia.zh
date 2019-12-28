@@ -653,7 +653,7 @@ GUNDAM均內藏多個GN容器（GN Condenser）於機體各部位，容器大小
 <!-- end list -->
 
   - 設計者：柳瀨敬之
-  - 命名：九天使階級中排第四的[主天使](https://zh.wikipedia.org/wiki/主天使 "wikilink")（Kyriotetes）
+  - 命名：九天使階級中排第四的[主天使](../Page/主天使.md "wikilink")（Kyriotetes）
 
 <!-- end list -->
 
@@ -4049,6 +4049,16 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
 <!-- end list -->
 
   - 駕駛員：剎那·F·塞耶
+  - 機體武裝：
+
+<!-- end list -->
+
+  -
+    ELS-Slasher
+    ELS-Blaster
+
+<!-- end list -->
+
   - 簡介：
 
 <!-- end list -->
@@ -4065,11 +4075,11 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
 <!-- end list -->
 
   -
-    具有ELS特性，能自我修復，機體任何部分均能變成武器，如翅膀能變成劍型觸手，手掌能變成劍，更可以憑空直接進行刀刃攻擊。
+    具有ELS特性，能夠自我修復，機體任何部分均能變成武器，如翅膀能變成劍型觸手，手掌能變成劍，更可以憑空直接進行刀刃攻擊。
+    保留了Twin-Drive跟Quantum System之機能，如量子化、量子跳躍、量子爆發和製造量子領域。
+    機身關節仍然保持GN電容設計，在[SD鋼彈G世代 火線縱橫已判明仍保留Trans](https://zh.wikipedia.org/wiki/SD鋼彈G世代 "wikilink")-AM的發動能力。目前未知機體部份能力是否被ELS的能力所取代。
 
-    保留了Twin-Drive跟Quantum System之機能，如量子化、量子跳躍、量子爆發 和 製造量子領域。
-
-    機身關節仍然保持GN電容設計，未知是否存在Trans-AM的發動能力，或被ELS的能力所取代。
+<!-- end list -->
 
   - GNW-100A 前兆式（Sakibure）
 

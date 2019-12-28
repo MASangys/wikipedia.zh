@@ -96,31 +96,21 @@
 [Category:20世纪美国男演员](https://zh.wikipedia.org/wiki/Category:20世纪美国男演员 "wikilink") [Category:21世紀美國男演員](https://zh.wikipedia.org/wiki/Category:21世紀美國男演員 "wikilink") [Category:非洲裔美国男演员](https://zh.wikipedia.org/wiki/Category:非洲裔美国男演员 "wikilink") [Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink") [Category:美國電視男演員](https://zh.wikipedia.org/wiki/Category:美國電視男演員 "wikilink") [Category:巴哈馬裔美國人](https://zh.wikipedia.org/wiki/Category:巴哈馬裔美國人 "wikilink") [Category:纽约布鲁克林弗拉特布什人士](https://zh.wikipedia.org/wiki/Category:纽约布鲁克林弗拉特布什人士 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  Interview on *Fresh Air*, January 22, 2008. Williams began to work (in these videos) with some of the biggest names in the business such as Madonna and Crystal Waters.[1](http://www.npr.org/templates/story/story.php?storyId=18299087)
-
 5.  Omar Speaks: The Wire’s Michael K. Williams Interview Broadcast on NPR.[2](http://teevieo.com/omar-speaks-the-wires-michael-k-williams-interview-broadcast-on-npr/)
-
 6.
 7.  [Tavis Smiley . Archives . Monday, September 20, 2004 | PBS](http://www.pbs.org/kcet/tavissmiley/archive/200409/20040920_transcript.html)
-
 8.
 9.  <http://www.imdb.com/name/nm0931324/> Michael K. Williams on IMDB
-
 10.
-
 11.
 12.
-
 13.
 14.
 15.
 16.
 17.
 18.
-
 19.

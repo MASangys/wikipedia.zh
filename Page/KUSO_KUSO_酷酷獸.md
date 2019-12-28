@@ -225,7 +225,7 @@
 <td><p>2007年1月17日（三）</p></td>
 <td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/辰亦儒.md" title="wikilink">辰亦儒</a>（上）</p></td>
 <td><p>頹哥打工記</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼飾攝影師</a></p></td>
+<td><p><a href="../Page/小鬼.md" title="wikilink">小鬼</a>飾攝影師</p></td>
 </tr>
 <tr class="even">
 <td><p>2007年1月18日（四）</p></td>
@@ -235,13 +235,13 @@
 </tr>
 <tr class="odd">
 <td><p>2007年1月19日（五）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼</a>（上）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/小鬼.md" title="wikilink">小鬼</a>（上）</p></td>
 <td><p>阿脈兒的異想世界</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2007年1月22日（一）</p></td>
-<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼</a>（下）</p></td>
+<td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/小鬼.md" title="wikilink">小鬼</a>（下）</p></td>
 <td><p>酷獸硬梆幫-搖搖板篇</p></td>
 <td></td>
 </tr>
@@ -272,13 +272,13 @@
 <tr class="odd">
 <td><p>2007年1月29日（一）</p></td>
 <td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（上）</p></td>
-<td><p>酷獸硬梆幫-請客篇（<a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼客串</a>）</p></td>
+<td><p>酷獸硬梆幫-請客篇（<a href="../Page/小鬼.md" title="wikilink">小鬼</a>客串）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2007年1月30日（二）</p></td>
 <td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（下）</p></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼客串</a>）</p></td>
+<td><p>（<a href="../Page/小鬼.md" title="wikilink">小鬼</a>客串）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -295,13 +295,13 @@
 </tr>
 <tr class="odd">
 <td><p>2007年2月2日（五）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼</a>（上）</p></td>
+<td><p><a href="../Page/小鬼.md" title="wikilink">小鬼</a>（上）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2007年2月5日（一）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼</a>（下）</p></td>
+<td><p><a href="../Page/小鬼.md" title="wikilink">小鬼</a>（下）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -326,7 +326,7 @@
 <tr class="even">
 <td><p>2007年2月9日（五）</p></td>
 <td><p><a href="../Page/唐治平.md" title="wikilink">唐治平</a>（上）</p></td>
-<td><p>硬梆幫綁架篇-上（<a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼客串</a>）</p></td>
+<td><p>硬梆幫綁架篇-上（<a href="../Page/小鬼.md" title="wikilink">小鬼</a>客串）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -338,7 +338,7 @@
 <tr class="even">
 <td><p>2007年2月13日（二）</p></td>
 <td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（上）</p></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼客串</a>）</p></td>
+<td><p>（<a href="../Page/小鬼.md" title="wikilink">小鬼</a>客串）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -379,13 +379,13 @@
 </tr>
 <tr class="odd">
 <td><p>2007年2月22日（四）</p></td>
-<td><p>短劇重播（張大帥等電話、酷獸硬梆幫（<a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼客串</a>））</p></td>
+<td><p>短劇重播（張大帥等電話、酷獸硬梆幫（<a href="../Page/小鬼.md" title="wikilink">小鬼</a>客串））</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2007年2月23日（五）</p></td>
-<td><p>短劇重播（頹哥打工記（01月17日首播）（<a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼客串</a>）、頹哥打工記（<a href="https://zh.wikipedia.org/wiki/小鐘" title="wikilink">小鐘客串</a>）、頹哥打工記（<a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼客串</a>））</p></td>
+<td><p>短劇重播（頹哥打工記（01月17日首播）（<a href="../Page/小鬼.md" title="wikilink">小鬼</a>客串）、頹哥打工記（<a href="https://zh.wikipedia.org/wiki/小鐘" title="wikilink">小鐘客串</a>）、頹哥打工記（<a href="../Page/小鬼.md" title="wikilink">小鬼</a>客串））</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -464,7 +464,7 @@
 <tr class="odd">
 <td><p>2007年3月14日（三）</p></td>
 <td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/吳尊.md" title="wikilink">吳尊</a>（上）</p></td>
-<td><p>頹哥偷東西篇（<a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼客串</a>）</p></td>
+<td><p>頹哥偷東西篇（<a href="../Page/小鬼.md" title="wikilink">小鬼</a>客串）</p></td>
 <td><p>薇薇兒旁聽</p></td>
 </tr>
 <tr class="even">
@@ -488,7 +488,7 @@
 <tr class="odd">
 <td><p>2007年3月20日（二）</p></td>
 <td><p><a href="../Page/王明台.md" title="wikilink">王明台</a>導演、<a href="../Page/汪東城.md" title="wikilink">汪東城</a>（下）</p></td>
-<td><p>頹哥打工-賣西瓜篇（<a href="https://zh.wikipedia.org/wiki/小鬼" title="wikilink">小鬼客串</a>）</p></td>
+<td><p>頹哥打工-賣西瓜篇（<a href="../Page/小鬼.md" title="wikilink">小鬼</a>客串）</p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -307,7 +307,7 @@
 ## 外部連結
 
   - [FLOW OFFICIAL SITE](https://web.archive.org/web/20110427031038/http://www.flow.mu/) 官方網頁
-  - [FLOW OFFICIAL SITE](http://www.flow-official.jp/news/detail.php?id=1358) 官方網頁
+  - [FLOW OFFICIAL SITE](https://web.archive.org/web/20190404040422/http://www.flow-official.jp/news/detail.php?id=1358) 官方網頁
 
 [Category:1998年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1998年成立的音樂團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:Amuse所屬藝人](https://zh.wikipedia.org/wiki/Category:Amuse所屬藝人 "wikilink") [Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink")
 

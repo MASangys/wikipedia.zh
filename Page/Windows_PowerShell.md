@@ -1,4 +1,4 @@
-**PowerShell**（包括**Windows PowerShell** and **PowerShell Core**）是[微軟公司开发的任务自动化和](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[組態管理](../Page/組態管理.md "wikilink")框架，由[.NET Framework和](../Page/.NET框架.md "wikilink")[.NET Core是构建的](../Page/.NET_Core.md "wikilink")[命令行界面](../Page/命令行界面.md "wikilink")[殼層](../Page/殼層.md "wikilink")相关脚本语言组成，最初仅Windows组件，后于2016年8月18日[开源并](../Page/开放源代码.md "wikilink")[跨平台支持](https://zh.wikipedia.org/wiki/跨平台 "wikilink")。\[1\]
+**PowerShell**（包括**Windows PowerShell**和**PowerShell Core**）是[微軟公司开发的任务自动化和](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[組態管理](../Page/組態管理.md "wikilink")框架，由[.NET Framework和](../Page/.NET框架.md "wikilink")[.NET Core是构建的](../Page/.NET_Core.md "wikilink")[命令行界面](../Page/命令行界面.md "wikilink")[殼層](../Page/殼層.md "wikilink")相关脚本语言组成，最初仅Windows组件，后于2016年8月18日[开源并](../Page/开放源代码.md "wikilink")[跨平台支持](https://zh.wikipedia.org/wiki/跨平台 "wikilink")。\[1\]
 
 在PowerShell中，管理任务通常由cmdlets（发音为command-lets）执行，这是执行特定操作的专用.NET[类](../Page/类_\(计算机科学\).md "wikilink")。可以将cmdlet集合至脚本、可执行文件（一般是独立应用程序）中，或通过常规.NET类（或WMI / COM对象）实例化。\[2\]\[3\]通过访问不同数据存储中的数据由PowerShell运行，如[资源管理器或](https://zh.wikipedia.org/wiki/资源管理器 "wikilink")[注册表](../Page/注册表.md "wikilink")。
 
@@ -65,6 +65,170 @@ $rssUrl = "http://blogs.msdn.com/powershell/rss.aspx"
 $blog = [xml](new-object System.Net.WebClient).DownloadString($rssUrl)
 $blog.rss.channel.item | select title -first 8
 ```
+
+### 與命令提示符等的比較
+
+<table>
+<caption>電力殼命令行與其他命令行解釋器的內部和外部命令的比較</caption>
+<thead>
+<tr class="header">
+<th><p>電力殼（命令行）</p></th>
+<th><p>電力殼（別名）</p></th>
+<th><p><a href="../Page/命令提示字元.md" title="wikilink">命令提示字元</a></p></th>
+<th><p><a href="../Page/Unix_shell.md" title="wikilink">Unix shell</a></p></th>
+<th><p>描述</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Get-ChildItem</p></td>
+<td><p>gci, dir, ls</p></td>
+<td><p><a href="../Page/Dir_(命令).md" title="wikilink">dir</a></p></td>
+<td><p><a href="../Page/Ls.md" title="wikilink">ls</a></p></td>
+<td><p>列出當前或給定文件夾中的所有文件和文件夾</p></td>
+</tr>
+<tr class="even">
+<td><p>Test-Connection</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ping" title="wikilink">ping</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ping" title="wikilink">ping</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ping" title="wikilink">ping</a></p></td>
+<td><p>從當前計算機向指定計算機發送<a href="../Page/Ping.md" title="wikilink">互聯網控制消息協議回顯請求</a>，或指示另一台計算機這樣做</p></td>
+</tr>
+<tr class="odd">
+<td><p>Get-Content</p></td>
+<td><p>gc, type, cat</p></td>
+<td><p>{{tsl|en|TYPE (DOS command)</p></td>
+<td><p>type}}</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cat_(Unix)" title="wikilink">cat</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Get-Command</p></td>
+<td><p>gcm</p></td>
+<td><p>{{tsl|en|help (command)</p></td>
+<td><p>help}}</p></td>
+<td><p>{{tsl|en|type (Unix)</p></td>
+</tr>
+<tr class="odd">
+<td><p>Get-Help</p></td>
+<td><p>help, man</p></td>
+<td><p>{{tsl|en|help (command)</p></td>
+<td><p>help}}</p></td>
+<td><p>{{tsl|en|apropos (Unix)</p></td>
+</tr>
+<tr class="even">
+<td><p>Clear-Host</p></td>
+<td><p>cls, clear</p></td>
+<td><p>{{tsl|en|cls (computing)</p></td>
+<td><p>cls}}</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Clear_(Unix)" title="wikilink">clear</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Copy-Item</p></td>
+<td><p>cpi, copy, cp</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Copy_(命令)" title="wikilink">copy</a>, , </p></td>
+<td><p><a href="../Page/Cp_(Unix).md" title="wikilink">cp</a></p></td>
+<td><p>將文件和文件夾複製到另一個位置</p></td>
+</tr>
+<tr class="even">
+<td><p>Move-Item</p></td>
+<td><p>mi, move, mv</p></td>
+<td><p>{{tsl|en|move (command)</p></td>
+<td><p>move}}</p></td>
+<td><p><a href="../Page/Mv_(Unix).md" title="wikilink">Mv (Unix)</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Remove-Item</p></td>
+<td><p>ri, del, erase, rmdir, rd, rm</p></td>
+<td><p>{{tsl|en|del (command)</p></td>
+<td><p>del}}, {{tsl|en|del (command)</p></td>
+<td><p>erase}}, <a href="https://zh.wikipedia.org/wiki/Rmdir" title="wikilink">rmdir</a>, <a href="https://zh.wikipedia.org/wiki/Rmdir" title="wikilink">rd</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Rename-Item</p></td>
+<td><p>rni, ren, mv</p></td>
+<td><p>{{tsl|en|ren (command)</p></td>
+<td><p>ren}}, <a href="https://zh.wikipedia.org/wiki/:en:ren_(command)" title="wikilink">rename</a></p></td>
+<td><p><a href="../Page/Mv_(Unix).md" title="wikilink">mv</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Get-Location</p></td>
+<td><p>gl, cd, pwd</p></td>
+<td><p><a href="../Page/Cd_(命令).md" title="wikilink">cd</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pwd" title="wikilink">pwd</a></p></td>
+<td><p>顯示工作路徑（當前文件夾）</p></td>
+</tr>
+<tr class="even">
+<td><p>Pop-Location</p></td>
+<td><p>popd</p></td>
+<td><p>{{tsl|en|pushd and popd</p></td>
+<td><p>popd}}</p></td>
+<td><p>popd</p></td>
+</tr>
+<tr class="odd">
+<td><p>Push-Location</p></td>
+<td><p>pushd</p></td>
+<td><p>{{tsl|en|pushd and popd</p></td>
+<td><p>pushd}}</p></td>
+<td><p>pushd</p></td>
+</tr>
+<tr class="even">
+<td><p>Set-Location</p></td>
+<td><p>sl, cd, chdir</p></td>
+<td><p><a href="../Page/Cd_(命令).md" title="wikilink">cd</a>, <a href="../Page/Cd_(命令).md" title="wikilink">chdir</a></p></td>
+<td><p>cd</p></td>
+<td><p>改變工作路徑</p></td>
+</tr>
+<tr class="odd">
+<td><p>Tee-Object</p></td>
+<td><p>tee</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Tee" title="wikilink">tee</a></p></td>
+<td><p>將輸入管道傳輸到文件或變量，並沿管道傳遞輸入</p></td>
+</tr>
+<tr class="even">
+<td><p>Write-Output</p></td>
+<td><p>echo, write</p></td>
+<td><p><a href="../Page/Echo_(命令).md" title="wikilink">echo</a></p></td>
+<td><p>echo</p></td>
+<td><p>將字符串或其他對像打印到<a href="../Page/標準串流.md" title="wikilink">標準串流</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Get-Process</p></td>
+<td><p>gps, ps</p></td>
+<td><p>tlist, </p></td>
+<td><p><a href="../Page/Ps_(Unix).md" title="wikilink">ps</a></p></td>
+<td><p>列出所有正在運行的進程</p></td>
+</tr>
+<tr class="even">
+<td><p>Stop-Process</p></td>
+<td><p>spps, kill</p></td>
+<td><p>{{tsl|en|kill (command)</p></td>
+<td><p>kill}}, <a href="../Page/Kill_(命令).md" title="wikilink">taskkill</a></p></td>
+<td><p>kill</p></td>
+</tr>
+<tr class="odd">
+<td><p>Select-String</p></td>
+<td><p>sls</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Find" title="wikilink">find</a>, <a href="../Page/Grep.md" title="wikilink">grep</a></p></td>
+<td><p>打印與圖案匹配的線</p></td>
+</tr>
+<tr class="even">
+<td><p>Set-Variable</p></td>
+<td><p>sv, set</p></td>
+<td><p>{{tsl|en|Environment variable#DOS</p></td>
+<td><p>set}}</p></td>
+<td><p>env, export, set, setenv</p></td>
+</tr>
+<tr class="odd">
+<td><p>Invoke-WebRequest</p></td>
+<td><p>iwr, <s>curl, wget</s></p></td>
+<td><p><a href="../Page/CURL.md" title="wikilink">curl</a></p></td>
+<td><p><a href="../Page/Wget.md" title="wikilink">wget</a>, curl</p></td>
+<td><p>從因特網上的網頁獲取內容</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考文獻
 

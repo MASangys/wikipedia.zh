@@ -1,4 +1,4 @@
-[DVD-Regions_with_key-2.svg](https://zh.wikipedia.org/wiki/File:DVD-Regions_with_key-2.svg "fig:DVD-Regions_with_key-2.svg") **數碼影碟區域碼限制**，俗稱**DVD區域碼**，即最主要就是保障每個[地區的影音產品經銷商與代理商的權益](https://zh.wikipedia.org/wiki/地區 "wikilink")，而專為[DVD-Video](../Page/DVD-Video.md "wikilink")所制定出的「限定在某區域內才能正常使用」的[區域碼限制](https://zh.wikipedia.org/wiki/區域碼 "wikilink")，用以杜絕產品[平行輸入的問題](https://zh.wikipedia.org/wiki/平行輸入 "wikilink")，避免某區域未上映的[電影的](https://zh.wikipedia.org/wiki/電影 "wikilink")[票房收入因為其DVD](https://zh.wikipedia.org/wiki/票房 "wikilink")-Video的流通而造成損失。
+[DVD-Regions_with_key-2.svg](https://zh.wikipedia.org/wiki/File:DVD-Regions_with_key-2.svg "fig:DVD-Regions_with_key-2.svg")一/ **數碼影碟區域碼限制**，俗稱**DVD區域碼**，即最主要就是保障每個[地區的影音產品經銷商與代理商的權益](https://zh.wikipedia.org/wiki/地區 "wikilink")，而專為[DVD-Video](../Page/DVD-Video.md "wikilink")所制定出的「限定在某區域內才能正常使用」的[區域碼限制](https://zh.wikipedia.org/wiki/區域碼 "wikilink")，用以杜絕產品[平行輸入的問題](https://zh.wikipedia.org/wiki/平行輸入 "wikilink")，避免某區域未上映的[電影的](https://zh.wikipedia.org/wiki/電影 "wikilink")[票房收入因為其DVD](https://zh.wikipedia.org/wiki/票房 "wikilink")-Video的流通而造成損失。
 
 ## 概述
 

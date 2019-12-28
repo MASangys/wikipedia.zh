@@ -6,7 +6,7 @@
 
 ## 外部連結
 
-  - [Open64官方網站](http://www.open64.net)
+  - [Open64官方網站](https://web.archive.org/web/20150803061301/http://www.open64.net/)
 
 [Category:编译器软件](https://zh.wikipedia.org/wiki/Category:编译器软件 "wikilink") [Category:C編譯器](https://zh.wikipedia.org/wiki/Category:C編譯器 "wikilink") [Category:C++編譯器](https://zh.wikipedia.org/wiki/Category:C++編譯器 "wikilink")
 

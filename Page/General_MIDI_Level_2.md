@@ -1746,6 +1746,6 @@ General MIDI 2相容的合成器透過設定cc\#0 (Bank Select MSB)至121並使�
 
 ## 外部链接
 
-  - [更多圖、文、音樂的GM128介紹](http://www.yusmusic.com.tw/www.yusmusic.com/index495a.html?act=product&CategoryID=93)
+  - [更多圖、文、音樂的GM128介紹](https://web.archive.org/web/20190120080034/http://www.yusmusic.com.tw/www.yusmusic.com/index495a.html?act=product&CategoryID=93)
 
 [Category:MIDI](https://zh.wikipedia.org/wiki/Category:MIDI "wikilink")

@@ -1,10 +1,8 @@
-`# 符合此列表的外部連結在被加入頁面時會被阻攔而無法加入，日志记录于`[`Special:Log/spamblacklist`](../Page/Special:Log/spamblacklist.md "wikilink")
-`# 本列表僅在中文維基百科有效，維基媒體計劃共用的列表請見`[`:meta:Spam``
- ``blacklist`](../Page/:meta:Spam_blacklist.md "wikilink")
-`# Mediawiki軟體的詳細說明請見`[`:mw:Extension:SpamBlacklist`](../Page/:mw:Extension:SpamBlacklist.md "wikilink")
-`# 管理员可以通过`[`seth's``
- ``tool`](https://tools.wmflabs.org/searchsbl/?userdeflang=zh&userdefproj=w)`在垃圾链接黑名单中搜索匹配项`
-`# 白名單另見`[`MediaWiki:Spam-whitelist`](../Page/MediaWiki:Spam-whitelist.md "wikilink")
+`# 符合此列表的外部連結在被加入頁面時會被阻攔而無法加入，日志记录于`[`Special:Log/spamblacklist`](https://zh.wikipedia.org/wiki/Special:Log/spamblacklist "wikilink")
+`# 本列表僅在中文維基百科有效，維基媒體計劃共用的列表請見`[`:meta:Spam``   ``blacklist`](https://zh.wikipedia.org/wiki/:meta:Spam_blacklist "wikilink")
+`# Mediawiki軟體的詳細說明請見`[`:mw:Extension:SpamBlacklist`](https://zh.wikipedia.org/wiki/:mw:Extension:SpamBlacklist "wikilink")
+`# 管理员可以通过`[`seth's``   ``tool`](https://tools.wmflabs.org/searchsbl/?userdeflang=zh&userdefproj=w)`在垃圾链接黑名单中搜索匹配项`
+`# 白名單另見`[`MediaWiki:Spam-whitelist`](../MediaWiki/Spam-whitelist.md "wikilink")
 `#  `
 
 ```
@@ -13,6 +11,62 @@
  #   * Everything from a "#" character to the end of the line is a comment
  #   * Every non-blank line is a regex fragment which will only match hosts inside URL
 
+\bmanagertoday\.com\.tw\b # curid=689345 history
+\btaocao\.cn\b # 125.227.38.22
+\bbountypr\.com\b
+\bwww\.patea\.tips\b # 172.104.98.195 203.90.233.5
+\btrendysweet\.com\b # 101.78.215.226 59.149.170.77 42.200.207.92
+\binternetpedia\.nctu\.me\b
+\bwww\.ss819\.com\b # 89.187.178.54, 89.187.178.23
+\bwww\.bv885\.com\b
+\bwww\.taoyunhome\.org\b
+\bricebeantri\.com\b # [[special:contribs/O930386957|special:contribs/O930386957]]
+\bencoretvb\.com\b
+\bcn\.investing\.com\b
+\bcaoliushequ365\.blogspot\.com\b
+\bdanaopharms\.com\b
+\bbesthostingtw\.com\b
+\bpokerhongkong\.org\b
+\bhappyteethtw\.com\b
+\bvpntaiwan\.com\b
+\bmoneybosstw\.com\b
+\boutdoormoviehq\.com\b
+\bonlinecasinohk\.com\b
+\bonlinecasinotw\.com\b
+\bonlinecasinotw\.com\b
+\buscombatsports\.com\b
+\bbestamps\.net\b
+\bbestwebhostingaustralia\.net\b
+\bgunnewsdaily\.com\b
+\b98yp\.net\b
+\bwww\.920ka\.com\b
+\bpolestar\.com\.tw\b
+\bcreaders\.net\b
+\bbannedbook\.org\b
+\bifunnymemes\.com\b # [[special:contribs/Lavacoolba|special:contribs/Lavacoolba]] start
+\bi-vaper\.com\b
+\bhowlifes\.com\b # Lavacoolba end
+\bvideo\.friday\.tw
+\b1111\.com\.tw
+\bwww\.valentinodaily\.com\b
+\bcareline\.com\.tw\b
+\bivftaiwan\.com\b
+\be-stork\.com\.tw\b
+\bcd-net\.com\.tw\b
+\blanguage-center\.com\.tw\b
+\blianan\.com\.tw\b
+\byutengmagic\.com\b
+\bemperor-diamond\.com\.tw\b
+\bfindhome\.com\.hk\b
+\bbesthome\.com\.hk\b
+\bdr-promotion\.com\b
+\bmcwedding\.com\.hk\b
+\bsetupcompany\.com\.hk\b
+\blearnmore\.com\.hk\b
+\bbirthdayking\.hk\b
+\bmagicking\.hk\b
+\blpm\.hk\b
+\breurl\.cc\b # 縮網址
 \bwww\.jcmtherapy\.com\b
 \bwww\.expecthim\.com\b
 \bticketbuynow\.com\b # [[Special:Contributions/Melanlove123|Special:Contributions/Melanlove123]]
@@ -782,6 +836,7 @@
 \btoukanbao\.com\b
 \bhhqq\.net\b # undoafter=2958303&undo=2960062
 \b92fy\.com\.cn\b # [[Special:封禁用户/一品方言|Special:封禁用户/一品方言]]
+\ddjhs\.tc\.edu\.tw\b #114.26.9.10
 \bhanghua\.net\b # undoafter=11005871&undo=11104526
 \byjba\.net\b # diff=prev&oldid=24876704
 \bdocba\.cn\b # [[Special:用户贡献/Lanuan|Special:用户贡献/Lanuan]]
@@ -911,8 +966,6 @@
 \bfqz999\.com\b # [[Special:Contributions/怀念亦是怀念|Special:Contributions/怀念亦是怀念]]
 \bjzxfy\.com\b # [[Special:Contributions/怀念亦是怀念|Special:Contributions/怀念亦是怀念]]
 \bbjfbyy\.com\b # [[Special:Contributions/怀念亦是怀念|Special:Contributions/怀念亦是怀念]]
-\bhynews\.net\b # [[Special:Contributions/陈银魁|Special:Contributions/陈银魁]]
-\bnewsyc\.com\b # [[Special:Contributions/陈银魁|Special:Contributions/陈银魁]]
 \bzhjiakang\.com\b # [[Special:用户贡献/翟章锁|Special:用户贡献/翟章锁]]
 \bwjjiakang\.com\b # [[Special:用户贡献/翟章锁|Special:用户贡献/翟章锁]]
 \bfeibing999\.com\b # [[Special:用户贡献/翟章锁|Special:用户贡献/翟章锁]] [[Special:Contributions/陈银魁|Special:Contributions/陈银魁]]
@@ -1611,7 +1664,7 @@ smiletaiwan\.cw\.com\.tw
 \blib\.verycd\.com\b #防止加入盗版内容
 \bbing\.com\/videos\b #侵权内容
 \bxinci\.so\b #大量spam
-\bfacebook\.com\/(groups|group\.php|\d+($|\?|\/))\b
+\bfacebook\.com\/(groups|group\.php)\b
 \berhu\.music1688\.org\b 音樂廣告。
 
 #房地产spam
@@ -2198,6 +2251,7 @@ hk\.myblog\.yahoo\.com\/8-word
 \balllenses\.org\b
 \bptt\.cc\/(bbs|man)\b #BBS
 \bdisp\.cc\/(bbs|man)\b #BBS
+\disp\.cc/(bbs|man)\b #BBS
 \bptt\.cc\/[a-z0-9-]{4,}\b # shorturl
 
 \b0w0\.cc\b # shorturl
@@ -2211,6 +2265,7 @@ hk\.myblog\.yahoo\.com\/8-word
 \bread01\.com\b #[[內容農場|內容農場]]
 \bbepo\.ctitv\.com\.tw\b #[[內容農場|內容農場]]
 \bbuzzorange\.com\b #[[內容農場|內容農場]]
+\ettoday\.net\.dalemon\b #[[內容農場|內容農場]]
 
 \bpixpo\.net\b # [[內容農場|內容農場]]
 \b0101\.tw\b # [[內容農場|內容農場]]
@@ -3268,7 +3323,7 @@ hk\.myblog\.yahoo\.com\/8-word
 \bzx9\.de\b
 \btaiwannext\.com\b #
 \bopinion\.chinatimes\.com\b # 61.230.0.0/16除自己心得外，並不斷加入特定作者論壇投書的SPAM[https://zh.wikipedia.org/w/index.php?title=User_talk%3ANo1lovesu&type=revision&diff=47478326&oldid=47451974]，並內容來自taiwannext.com
-
+\tw\.answers\.yahoo\.com\b
 #影武者专享黑名单：
 \breadingtimes\.com\.tw.*tomwang.*main2.asp.*ArticleID=1017333\b
 \btaiwanact\.net\b

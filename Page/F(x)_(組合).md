@@ -1,6 +1,6 @@
-**f(x)**（，）是[SM娛樂](../Page/SM娛樂.md "wikilink")於2009年推出的[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")，初時由五名不同國籍的成員組成，成員包括有中國籍[Victoria](../Page/宋茜.md "wikilink")、台湾裔美籍[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、韓國籍[Luna](../Page/朴善英.md "wikilink")、[Sulli及美韓雙籍](../Page/崔真理.md "wikilink")[Krystal](../Page/鄭秀晶.md "wikilink")，由Victoria擔任隊長。f(x)是SM旗下擁有最多國籍的女子組合。2009年9月5日以首張數位單曲《[LA chA TA](https://zh.wikipedia.org/wiki/LA_chA_TA "wikilink")》正式出道。
+**f(x)**（，）是[SM娛樂](../Page/SM娛樂.md "wikilink")於2009年推出的[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")，初時由五名不同國籍的成員組成，成員包括有中國籍[Victoria](../Page/宋茜.md "wikilink")、華裔美籍[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、韓國籍[Luna](../Page/朴善英.md "wikilink")、[Sulli及美韓雙籍](../Page/崔真理.md "wikilink")[Krystal](../Page/鄭秀晶.md "wikilink")，由Victoria擔任隊長。2009年9月5日以首張數位單曲《[LA chA TA](https://zh.wikipedia.org/wiki/LA_chA_TA "wikilink")》正式出道。
 
-2015年8月7日，成員[Sulli退出f](../Page/崔真理.md "wikilink")(x)組合，組合以四人形式繼續活動。2019年9月，[Victoria](../Page/宋茜.md "wikilink")、[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Luna相繼與SM娛樂約滿離開公司](../Page/朴善英.md "wikilink")，但均未宣布離開組合。
+2015年8月7日，成員[Sulli退出f](../Page/崔真理.md "wikilink")(x)組合，組合以四人形式繼續活動。2019年9月，[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Luna相繼約滿離開公司](../Page/朴善英.md "wikilink")，[Victoria與SM娛樂討論新方案](../Page/宋茜.md "wikilink")、而現存的Krystal一人將以獨立演員身分活動，但所有成員與SM均未宣布解散組合，亦即在暫停大部分商業活動的情況下，f(x)仍將繼續存在。
 
 ## 組合資料
 
@@ -18,20 +18,44 @@
 
 ## 成員列表
 
-| 成員列表                                                  |
-| ----------------------------------------------------- |
-| 藝名                                                    |
-|                                                       |
-| [Victoria](../Page/宋茜.md "wikilink")                  |
-| [Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink") |
-| [Luna](../Page/朴善英.md "wikilink")                     |
-| [Krystal](../Page/鄭秀晶.md "wikilink")                  |
-| 已退團成員                                                 |
-| [Sulli](../Page/崔真理.md "wikilink")                    |
+<table>
+<thead>
+<tr class="header">
+<th><p>成員列表</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>藝名</p></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/宋茜.md" title="wikilink">Victoria</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/劉逸雲" title="wikilink">Amber</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/朴善英.md" title="wikilink">Luna</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/鄭秀晶.md" title="wikilink">Krystal</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>已退團成員</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/崔真理.md" title="wikilink">Sulli</a><br />
+<small>（已故）</p></td>
+</tr>
+</tbody>
+</table>
 
 ### 成員變遷表
 
-<timeline> ImageSize = width:1000 height:300 PlotArea = width:600 height:250 left:75 bottom:20 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2009 till:2019 TimeAxis = orientation:horizontal format:yyyy
+<timeline> ImageSize = width:1000 height:300 PlotArea = width:600 height:250 left:75 bottom:20 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2009 till:2020 TimeAxis = orientation:horizontal format:yyyy
 
 Colors =
 
@@ -121,7 +145,7 @@ LineData =
 
 12月2日，f(x)受英國電音組合[Pet Shop Boys邀請出席第](https://zh.wikipedia.org/wiki/Pet_Shop_Boys "wikilink")17屆《[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")》進行合作舞台，f(x)更慿粉絲投票以高票數獲頒發〈海外粉絲票選女歌手〉\[63\]\[64\]。12月15日，發布SM冬季單曲企劃《WINTER GARDEN》第一部分，由f(x)演唱的歌曲音源〈Wish List〉\[65\]。12月28日，由於首次單獨演唱會《[f(x) the 1st concert DIMENSION 4–Docking Station](https://zh.wikipedia.org/wiki/f\(x\)_the_1st_concert_DIMENSION_4–Docking_Station "wikilink")》門票預售創下了全席售罄的記錄，SM娛樂因應粉絲強烈要求在1月29日加開第3場演出\[66\]。
 
-### 2016年－2019年：首次單獨演唱會、官方粉絲名《MeU》、成員Luna個人出道、首次MV突破一億點閱率、成員個人活動
+### 2016年－2019年：首次單獨演唱會、官方粉絲名《MeU》、成員Luna個人出道、首次MV突破一億點閱率、成員個人活動、雪莉逝世
 
 繼[SM娛樂](../Page/SM娛樂.md "wikilink")在2014年以《Electric Shock》和《Pink Tape》獲得《紅點設計大獎》的佳績後，今年以f(x)第四張正規專輯《4 Walls》獲得《[IF產品設計獎](../Page/IF產品設計獎.md "wikilink")2016》包裝設計部門獎的殊榮\[67\]。
 
@@ -142,6 +166,8 @@ LineData =
 2019年9月5日，成員Victoria於個人Weibo及Instagram宣布與SM娛樂合約到期，離開公司，但未宣布離開團體。
 
 2019年9月5日，SM娛樂正式發表聲明：「成員Amber、Luna合約期滿不續約並離開公司，Victoria合約期滿，則會討論新的合作方式，Krystal合約未到期將會作為演員繼續活動。」而團體部分並未表明會解散團體。
+
+2019年10月14日，（已退队）成員Sulli被经紀人发现輕生離世。
 
 ## 音樂作品
 

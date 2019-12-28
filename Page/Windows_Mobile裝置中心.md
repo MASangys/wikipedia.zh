@@ -57,21 +57,13 @@ Windows Mobile裝置中心能夠同步以下資料：
 [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
 
 1.  Sampat, Mel. [**WMDC for Vista RC1 (and higher) is now available for public download**](http://blogs.msdn.com/melsam/archive/2006/10/06/WMDC-for-Vista-RC1-_2800_and-higher_2900_-is-now-available-for-public-download.aspx) . MSDN Blogs. Retrieved 8 September 2007.
-
 2.  White, Nick. [**Windows Mobile Device Center RTMs\!**](http://windowsvistablog.com/blogs/windowsvista/archive/2007/02/01/windows-mobile-device-center-rtms.aspx) . Windows Vista Team Blog. Retrieved 8 September 2007.
-
 3.  Sampat, Mel. [**Windows Mobile Device Center v6.1 Released\!**](http://blogs.msdn.com/melsam/archive/2007/06/06/windows-mobile-device-center-v6-1-released.aspx) . MSDN Blogs. Retrieved 8 September 2007.
-
 4.  [Windows Mobile Device Center 6.1 for Windows Vista](http://www.microsoft.com/windowsmobile/devicecenter.mspx) . Microsoft. Retrieved 8 September 2007.
-
 5.
-
 6.  Sampat, Mel. [**Windows Mobile Device Center missing in Vista RC1?**](http://blogs.msdn.com/melsam/archive/2006/09/07/Windows-Mobile-Device-Center-missing-in-Vista-RC1_3F00_.aspx) . MSDN Blogs. Retrieved 8 September 2007.
-
 7.
-
 8.  [Windows Mobile Device Center Troubleshooting Guide](http://www.microsoft.com/windowsmobile/devicecenter//troubleshooting.mspx). Microsoft. Retrieved 8 September 2007.
-
 9.
 10.
 11.

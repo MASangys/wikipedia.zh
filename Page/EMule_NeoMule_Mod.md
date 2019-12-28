@@ -30,7 +30,7 @@ NeoMule的反[吸血功能结合了](../Page/吸血驴.md "wikilink")[Xtreme Mod
 
   - [Sourceforge.net上的NeoMule项目页面](http://sourceforge.net/projects/neomule/)（更新不够及时，07年9月后停止更新）
 
-  - [emulefans.com（电骡爱好者）blog上的NeoMule页面](http://emulefans.com/news/emule/neomule/)
+  - [emulefans.com（电骡爱好者）blog上的NeoMule页面](https://web.archive.org/web/20100705124819/http://emulefans.com/news/emule/neomule/)
 
 [Category:eMule](https://zh.wikipedia.org/wiki/Category:eMule "wikilink")
 

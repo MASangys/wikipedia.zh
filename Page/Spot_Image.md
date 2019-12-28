@@ -66,4 +66,4 @@ Spot Image提供的工具
   - [EADS Official Web Site](https://web.archive.org/web/20190122055505/http://www.eads.com/)
   - [Astrium Official Web Site](http://www.astrium.eads.net)
 
-[Category:GIS公司](https://zh.wikipedia.org/wiki/Category:GIS公司 "wikilink") [Category:法国公司](https://zh.wikipedia.org/wiki/Category:法国公司 "wikilink")
+[Category:GIS公司](https://zh.wikipedia.org/wiki/Category:GIS公司 "wikilink") [Category:法国公司](https://zh.wikipedia.org/wiki/Category:法国公司 "wikilink") [Category:衛星影像](https://zh.wikipedia.org/wiki/Category:衛星影像 "wikilink")

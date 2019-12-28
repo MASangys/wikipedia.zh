@@ -1,20 +1,20 @@
-[Bfishadow_Olympus_E-P1.jpg](https://zh.wikipedia.org/wiki/File:Bfishadow_Olympus_E-P1.jpg "fig:Bfishadow_Olympus_E-P1.jpg") *' Olympus Pen E-P1*'是[Olympus公司出品的單眼數位相機](../Page/奧林巴斯.md "wikilink")，為Olympus公司公司第一次採用Micro 4/3鏡頭系統的機種，於2009年7月3日進行販售。
+[Bfishadow_Olympus_E-P1.jpg](https://zh.wikipedia.org/wiki/File:Bfishadow_Olympus_E-P1.jpg "fig:Bfishadow_Olympus_E-P1.jpg") *' 奥林巴斯 Pen E-P1*'是[奥林巴斯公司出品的單眼](../Page/奧林巴斯.md "wikilink")[數位相機](https://zh.wikipedia.org/wiki/數位相機 "wikilink")，為奥林巴斯公司公司第一次採用[微4/3鏡頭系統的機種](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")，於2009年7月3日進行販售。
 
 ## 概要
 
-2009年6月16日進行產品發表，並預定於7月3日進行販售。此外由於2009年5月的會計結算說明會錄音的公開，使大家知道Olympus將於6月15日時會發表新產品，但實際上到了6月16日才進行發表。
+2009年6月16日進行產品發表，並預定於7月3日進行販售。
 
-作為Olympus第一台Micro 4/3鏡頭系統的相機，機身內具有防手震及除塵功能，且得到了世界上最輕、最小的可換鏡頭式數位相機的榮耀（2009年6月16日時）。但是由於不內建觀景窗與閃光燈，所以有專用的外接配件可使用。另外Micro 4/3鏡頭系統中由於沒有反射鏡，這種機種嚴格上不能被稱為是單眼反射式相機。因此Olympus稱此機為「微單眼」相機。
+作為奥林巴斯第一台Micro 4/3鏡頭系統的相機，機身內具有防手震及除塵功能，且得到了世界上最輕、最小的可換鏡頭式數位相機的榮耀（2009年6月16日時）。但是由於不內建觀景窗與閃光燈，所以有專用的外接配件可使用。另外Micro 4/3鏡頭系統中由於沒有反射鏡，這種機種嚴格上不能被稱為是單眼反射式相機。因此奥林巴斯稱此機為「微單眼」相機。
 
-名稱中的Pen是因為此機為已販售達50年的Pen系列機種，原因為其迷你的外型設計與Pen系列相似。以設計面來看，機身上部與Olympus Pen F也有其共通性。
+名稱中的Pen是因為此機為已販售達50年的Pen系列機種，原因為其迷你的外型設計與Pen系列相似。以設計面來看，機身上部與奥林巴斯 Pen F也有其共通性。
 
-撘載了可錄製720p影片的高解析度動畫模式（HD模式下最長錄影時間為7分鐘）、內含數位水平儀。在處理影像上採用了新開發的TruePic V引擎，還有藝術濾鏡功能。另外以SD/SDHC卡取代了Olympus使用已久的xD卡作為儲存媒體。
+撘載了可錄製720p影片的高解析度動畫模式（HD模式下最長錄影時間為7分鐘）、內含數位水平儀。在處理影像上採用了新開發的TruePic V引擎，還有藝術濾鏡功能。另外以[SD](https://zh.wikipedia.org/wiki/SD "wikilink")/[SDHC](../Page/SDHC.md "wikilink")卡取代了奥林巴斯使用已久的[xD卡作為儲存媒體](https://zh.wikipedia.org/wiki/xD "wikilink")。
 
 機身顏色有銀、白2色，握把部分銀色機搭配黑色握把，白色機搭配米色握把。
 
-Olympus 同時發表了Micro 4/3鏡頭系列的標準變焦鏡M.ZUIKO DIGITAL ED 14-42mm F3.5-5.6與餅仔鏡M.ZUIKO DIGITAL 17mm F2.8，標準變焦鏡配色有銀黑兩色。鏡頭也可與Panasonic已販售的Micro 4/3鏡系列相機相容，可互換使用。而且Olympus還發表了適用於4/3鏡系列及OM 系統使用的轉接環，這特別讓本系列機種可以使用所有4/3鏡系列鏡頭的自動對焦功能。另外由於Micro 4/3鏡系統其鏡頭口到感光元件間的距離短，其他公司也依此優點發表販賣了各式各樣的轉接環。
+奥林巴斯同時發表了Micro 4/3鏡頭系列的標準變焦鏡M.ZUIKO DIGITAL ED 14-42mm F3.5-5.6與餅仔鏡M.ZUIKO DIGITAL 17mm F2.8，標準變焦鏡配色有銀黑兩色。鏡頭也可與[松下已販售的Micro](https://zh.wikipedia.org/wiki/松下 "wikilink") 4/3鏡系列相機相容，可互換使用。而且奥林巴斯還發表了適用於4/3鏡系列及OM 系統使用的轉接環，這特別讓本系列機種可以使用所有4/3鏡系列鏡頭的自動對焦功能。另外由於Micro 4/3鏡系統其鏡頭口到感光元件間的距離短，其他公司也依此優點發表販賣了各式各樣的轉接環。
 
-此外E-P1這個型號於與販賣前的OlympusE-3代號相同。
+此外E-P1這個型號於與販賣前的奥林巴斯E-3代號相同。
 
 ## 規格
 
@@ -37,37 +37,28 @@ Olympus 同時發表了Micro 4/3鏡頭系列的標準變焦鏡M.ZUIKO DIGITAL ED
 | 本體大小（W×H×D） | 120.5(W)×70(H)×35(D)mm                          |
 | 重量（僅本体）     | 335g                                            |
 
-Olympus Pen E-P1 規格
+奥林巴斯 Pen E-P1 規格
 
 ## 可利用鏡頭
 
 以下為適用於Micro 4/3鏡系統規格且可以交換使用的鏡頭（在不使用轉接環情況下）。
 
-  - Olympus
+  - 奥林巴斯
       - M.ZUIKO DIGITAL ED 14-42mm F3.5-5.6（銀、黑）
       - M.ZUIKO DIGITAL 17mm F2.8（銀）
       - M.ZUIKO DIGITAL ED 9-18mm F4.0-5.6
       - M.ZUIKO DIGITAL ED 14-150mm F4.0-5.6
-  - Panasonic
+  - 松下
       - LUMIX G VARIO 7-14mm / F4.0 ASPH.
       - LUMIX G VARIO 14-45mm/F3.5-5.6 ASPH./MEGA O.I.S.
       - LUMIX G VARIO HD 14-140mm/F4.0-5.8 ASPH./MEGA O.I.S.
       - LUMIX G VARIO 45-200mm/F4.0-5.6/MEGA O.I.S.
       - LUMIX G 20mm/F1.7 ASPH
 
-## 其他使用Micro 4/3鏡系統的相機
-
-  - [Panasonic・Lumix DMC-G1](https://zh.wikipedia.org/wiki/Panasonic・Lumix_DMC-G1 "wikilink")
-  - [Panasonic・Lumix DMC-GH1](https://zh.wikipedia.org/wiki/Panasonic・Lumix_DMC-GH1 "wikilink")
-  - [Panasonic・Lumix DMC-G10](https://zh.wikipedia.org/wiki/Panasonic・Lumix_DMC-G10 "wikilink")
-  - [Panasonic・Lumix DMC-G2](https://zh.wikipedia.org/wiki/Panasonic・Lumix_DMC-G2 "wikilink")
-  - [Panasonic・Lumix DMC-G20](https://zh.wikipedia.org/wiki/Panasonic・Lumix_DMC-G20 "wikilink")
-
 ## 相关条目
 
   - [无反光镜可换镜头相机](https://zh.wikipedia.org/wiki/无反光镜可换镜头相机 "wikilink")
-      - [微4/3系统](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")
-          - '''奥林巴斯 PEN E-P1
+  - [微4/3系统](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")
 
 ## 参考与引用
 

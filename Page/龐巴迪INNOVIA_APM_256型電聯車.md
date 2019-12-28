@@ -1,4 +1,4 @@
-**龐巴迪INNOVIA APM 256**（Bombardier INNOVIA APM 256），[台北捷運內部命名為](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")**370型**，是[加拿大](../Page/加拿大.md "wikilink")運輸設備廠商[龐巴迪運輸](../Page/龐巴迪運輸.md "wikilink")（Bombardier Transportation）所生產的一個輪式[中運量](https://zh.wikipedia.org/wiki/中運量系統 "wikilink")[捷運](../Page/捷運.md "wikilink")用[電聯車](../Page/電聯車.md "wikilink")車種，是[INNOVIA APM](https://zh.wikipedia.org/wiki/龐巴迪Innovia_APM "wikilink")（先進自動人員運輸，APM三字是Automated People Movers的縮寫）的系列車種之一。INNOVIA APM 256是龐巴迪運輸針對台北捷運[文湖線](../Page/文湖線.md "wikilink")所特別設計打造的車型，以作為原本在該路線上所行駛、由法國[馬特拉](../Page/馬特拉.md "wikilink")所生產的[VAL256型電聯車之後增購車種](../Page/台北捷運VAL256型電聯車.md "wikilink")；而與INNOVIA APM 256搭配的是同樣由龐巴迪運輸所開發的[CITYFLO 650型自動列車行控系統](../Page/龐巴迪CITYFLO_650型自動列車行控系統.md "wikilink")，因此INNOVIA APM 256在啟用初期經常被誤稱為「CITYFLO 650」。
+**龐巴迪INNOVIA APM 256**（Bombardier INNOVIA APM 256），[台北捷運內部命名為](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")**BT370型**，是[加拿大](../Page/加拿大.md "wikilink")運輸設備廠商[龐巴迪運輸](../Page/龐巴迪運輸.md "wikilink")（Bombardier Transportation）所生產的一個輪式[中運量](https://zh.wikipedia.org/wiki/中運量系統 "wikilink")[捷運](../Page/捷運.md "wikilink")用[電聯車](../Page/電聯車.md "wikilink")車種，是[INNOVIA APM](https://zh.wikipedia.org/wiki/龐巴迪Innovia_APM "wikilink")（先進自動人員運輸，APM三字是Automated People Movers的縮寫）的系列車種之一。INNOVIA APM 256是龐巴迪運輸針對台北捷運[文湖線](../Page/文湖線.md "wikilink")所特別設計打造的車型，以作為原本在該路線上所行駛、由法國[馬特拉](../Page/馬特拉.md "wikilink")所生產的[VAL256型電聯車之後增購車種](../Page/台北捷運VAL256型電聯車.md "wikilink")；而與INNOVIA APM 256搭配的是同樣由龐巴迪運輸所開發的[CITYFLO 650型自動列車行控系統](../Page/龐巴迪CITYFLO_650型自動列車行控系統.md "wikilink")，因此INNOVIA APM 256在啟用初期經常被誤稱為「CITYFLO 650」。
 
 ## 簡介
 
@@ -26,8 +26,8 @@
 <td><p>2006年～2007年<br />
 </p></td>
 <td><p>（CB370）101對</p></td>
-<td><p><small> <font color={{台北捷運色彩|棕}}>█</font> </small><a href="../Page/內湖機廠.md" title="wikilink">內湖機廠</a><br />
-</p></td>
+<td><p><small> <font color={{台北捷運色彩|棕}}>█</font> </small><a href="https://zh.wikipedia.org/wiki/木柵機廠" title="wikilink">木柵機廠</a><br />
+<small> <font color={{台北捷運色彩|棕}}>█</font> </small><a href="../Page/內湖機廠.md" title="wikilink">內湖機廠</a></p></td>
 <td></td>
 </tr>
 </tbody>

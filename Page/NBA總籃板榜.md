@@ -245,11 +245,11 @@
 <a href="../Page/夏洛特黃蜂.md" title="wikilink">夏洛特黃蜂</a><br />
 (<a href="https://zh.wikipedia.org/wiki/2017-18_NBA赛季" title="wikilink">2017-18</a>)<br />
 <a href="https://zh.wikipedia.org/wiki/華盛頓巫師" title="wikilink">華盛頓巫師</a><br />
-(<a href="https://zh.wikipedia.org/wiki/2018-19_NBA赛季" title="wikilink">2018-19</a>--)</p></td>
-<td><p>3,671</p></td>
-<td><p>9,513</p></td>
-<td><p><font color="#007FFF"><strong>13,184</strong></font></p></td>
-<td><p><font color="#007FFF"><strong>12.6</strong></font></p></td>
+(<a href="https://zh.wikipedia.org/wiki/2018-19_NBA赛季" title="wikilink">2018-19</a>--) <a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a></p></td>
+<td><p>3,723</p></td>
+<td><p>9,636</p></td>
+<td><p><font color="#007FFF"><strong>13,359</strong></font></p></td>
+<td><p><font color="#007FFF"><strong>12.5</strong></font></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -514,7 +514,7 @@
 </tr>
 <tr class="odd">
 <td><p>29</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/多尔夫·谢伊斯" title="wikilink">多尔夫·谢伊斯</a></strong></p></td>
+<td><p><strong><a href="../Page/多尔夫·谢伊斯.md" title="wikilink">多尔夫·谢伊斯</a></strong></p></td>
 <td><p>前锋</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/費城76人" title="wikilink">費城76人</a><br />
 (<a href="../Page/1949-50_NBA赛季.md" title="wikilink">1949-50</a>--<a href="../Page/1963-64_NBA赛季.md" title="wikilink">1963-64</a>[22])</p></td>

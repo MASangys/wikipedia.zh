@@ -44,11 +44,8 @@
 [Category:加拿大樂團](https://zh.wikipedia.org/wiki/Category:加拿大樂團 "wikilink") [Category:後搖滾樂團](https://zh.wikipedia.org/wiki/Category:後搖滾樂團 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
-
 6.

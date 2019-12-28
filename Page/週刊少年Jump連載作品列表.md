@@ -6,9 +6,9 @@
 
 ## 連載作品
 
-|  |                            |
-|  | -------------------------- |
-|  | 截至2019年12月2日（2020年1號）連載中作品 |
+|  |                             |
+|  | --------------------------- |
+|  | 截至2019年12月16日（2020年3號）連載中作品 |
 
 <table>
 <thead>
@@ -3773,7 +3773,7 @@
 </tr>
 <tr class="odd">
 <td><p>390</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/影武者德川家康" title="wikilink">影武者德川家康</a></p></td>
+<td><p><a href="../Page/影武者德川家康.md" title="wikilink">影武者德川家康</a></p></td>
 <td><p><a href="../Page/原哲夫.md" title="wikilink">原哲夫</a>（漫畫）</p></td>
 <td><p><a href="../Page/隆慶一郎.md" title="wikilink">隆慶一郎</a>（原作）<br />
 <a href="../Page/會川昇.md" title="wikilink">會川昇</a>（劇本）</p></td>
@@ -6735,20 +6735,20 @@
 </tr>
 <tr class="odd">
 <td><p>693</p></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/Beast_Children" title="wikilink">Beast Children</a> '''</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Beast_Children" title="wikilink">Beast Children</a></p></td>
 <td><p>寺坂研人</p></td>
 <td><p>－</p></td>
 <td><p>2019.26</p></td>
-<td><p>連載中</p></td>
+<td><p>2020.01</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>694</p></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/東京忍者小隊" title="wikilink">東京忍者小隊</a> '''</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東京忍者小隊" title="wikilink">東京忍者小隊</a></p></td>
 <td><p>松浦健人（漫畫）</p></td>
 <td><p>田中勇輝（原作）</p></td>
 <td><p>2019.27</p></td>
-<td><p>連載中</p></td>
+<td><p>2020.02</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -6797,6 +6797,15 @@
 <td><p>2020.01</p></td>
 </tr>
 <tr class="even">
+<td><p>699</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/AGRAVITY_BOYS" title="wikilink">AGRAVITY BOYS</a></strong></p></td>
+<td><p>中村充志</p></td>
+<td><p>－</p></td>
+<td><p>2020.02</p></td>
+<td><p>連載中</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

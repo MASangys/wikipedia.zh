@@ -463,15 +463,15 @@ kdelibs API為"soft-frozen"，意思是經過核心開發者同意是可以修�
   - [KDE.news](http://dot.kde.org/)：KDE官方的新聞和公告。
   - [Planet KDE](http://www.planetkde.org/)：一個KDE的開發者和貢獻者部落格的集合。
   - [KDE論壇](http://forum.kde.org/)：KDE社群的官方論壇。
-  - [LifeStream](http://buzz.kde.org/)：KDE微部落格
+  - [LifeStream](https://web.archive.org/web/20100623131052/http://buzz.kde.org/)：KDE微部落格
   - [KDE UserBase](http://userbase.kde.org/Welcome_to_KDE_UserBase/zh-tw)：提供使用者教學、指南和實用的小提示
   - [KDE UserBase](http://userbase.kde.org/Welcome_to_KDE_UserBase/zh-cn)：提供使用者教學、指南和實用的小提示
   - [KDE TechBase](https://web.archive.org/web/20100105220615/http://techbase.kde.org/Welcome_to_KDE_TechBase_\(zh_TW\))：提供開發人員技術性的頁面
   - [KDE TechBase](https://web.archive.org/web/20090707015103/http://techbase.kde.org/Welcome_to_KDE_TechBase_\(zh_CN\))：提供開發人員技術性的頁面
   - [KDE-Apps](http://www.kde-apps.org/) - KDE應用程式下載
   - [KDE-Look](http://www.kde-look.org/) - KDE外觀主題下載
-  - [KDE on Windows项目](http://windows.kde.org/)
-  - [KDE on Mac OS X项目](http://mac.kde.org/)
+  - [KDE on Windows项目](https://web.archive.org/web/20100419012037/http://windows.kde.org/)
+  - [KDE on Mac OS X项目](https://web.archive.org/web/20101111232211/http://mac.kde.org/)
   - [KDE on FreeBSD项目](http://freebsd.kde.org/)
   - [*Previewing KDE 4*](http://www.linuxdevcenter.com/pub/a/linux/2006/01/12/KDE4.html)
   - [Linux Action Show interview with Aaron Seigo about KDE 4 (part 1)](https://web.archive.org/web/20061019020456/http://www.linuxactionshow.com/?p=48)
@@ -495,62 +495,33 @@ kdelibs API為"soft-frozen"，意思是經過核心開發者同意是可以修�
 [Category:圖形用戶界面](https://zh.wikipedia.org/wiki/Category:圖形用戶界面 "wikilink") [Category:软件架构](https://zh.wikipedia.org/wiki/Category:软件架构 "wikilink") [Category:KDE_Software_Compilation](https://zh.wikipedia.org/wiki/Category:KDE_Software_Compilation "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  [Google Summer of Code 2007 – Application Information](http://code.google.com/soc/2007/kde/appinfo.html?csaid=1EF6392A4C8AEADD)
-
-5.  [KDE Commit-Digest – 22nd July 2007](http://commit-digest.org/issues/2007-07-22/)
-
+5.
 6.  [Oxygen Team Unveils Wallpaper Collection for KDE 4.0](http://dot.kde.org/1195329269/)
-
 7.
-
 8.
-
 9.
-
 10.
-
 11. [Networkmanager in KDE4.](http://vizzzion.org/?blogentry=839)
-
 12. [KDE 4 Network Management Applet](http://www.kdedevelopers.org/node/3873)
-
 13. [KDE 4.3 Beta 1 Release Announcement](http://kde.org/announcements/announce-4.3-beta1.php)
-
 14. [Social Desktop Starts to Arrive](http://dot.kde.org/2009/05/01/social-desktop-starts-arrive)
-
 15.
 16. <http://kdenews.org/2009/09/08/third-plasma-summit-lifts-kde-desktop-higher-grounds>
-
-17. <http://commit-digest.org/issues/2009-01-25/>
-
+17.
 18. <http://www.notmart.org/index.php/BlaBla/Looking_back_at_Tokamak_3>
-
 19. <http://lists.kde.org/?l=kopete-devel&m=125226558215165&w=2>
-
 20. <http://drfav.wordpress.com/2009/09/06/tokamak-wrap-up/>
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.

@@ -22,7 +22,7 @@
 
 表演第一部分，***Xlectro Static***（“电子干扰”），以一个充满未来感的视频开场，视频以霓虹灯显像方式展现了凯莉的面部轮廓。巨型LED屏幕向两侧滑开，随后凯莉站在巨型“蛛网”上着“蜘蛛女”晚装出场（在南美巡演中，“蜘蛛女”晚装被替换为黑底金色束腰装）。 一些场次的表演受制于场地或技术原因，出场方式改为快速将巨型扬声器（和相关道具）移开。她演唱了"Speakerphone"，名曲"[Can't Get You Out of My Head](https://zh.wikipedia.org/wiki/Can't_Get_You_Out_of_My_Head "wikilink")""[In Your Eyes](https://zh.wikipedia.org/wiki/In_Your_Eyes "wikilink")"以及一首未发型单曲"Ruffle My Feather"。
 
-表演第二部分，'**'Cheer Squad**'（“拉拉队”），以[Toni Basil的名曲](https://zh.wikipedia.org/wiki/Toni_Basil "wikilink")"[Mickey](https://zh.wikipedia.org/wiki/米奇_\(歌曲\) "wikilink")"开演。凯莉和她的伴舞着美国啦啦队队服表演。第二部分要表现出美国高校的生气勃勃，凯莉演唱了"Heart Beat Rock"、"[Wow](https://zh.wikipedia.org/wiki/Wow_\(Kylie_Minogue_song\) "wikilink")"和"[Shocked](https://zh.wikipedia.org/wiki/Shocked "wikilink")"。“[Shocked](https://zh.wikipedia.org/wiki/Shocked "wikilink")”在随后的一些巡演中被缩为舞蹈表演，作为中场休息。第二部分是整场巡演中凯莉最喜欢的部分。
+表演第二部分，'**'Cheer Squad**'（“拉拉队”），以[Toni Basil的名曲](https://zh.wikipedia.org/wiki/Toni_Basil "wikilink")"[Mickey](../Page/米奇_\(歌曲\).md "wikilink")"开演。凯莉和她的伴舞着美国啦啦队队服表演。第二部分要表现出美国高校的生气勃勃，凯莉演唱了"Heart Beat Rock"、"[Wow](https://zh.wikipedia.org/wiki/Wow_\(Kylie_Minogue_song\) "wikilink")"和"[Shocked](https://zh.wikipedia.org/wiki/Shocked "wikilink")"。“[Shocked](https://zh.wikipedia.org/wiki/Shocked "wikilink")”在随后的一些巡演中被缩为舞蹈表演，作为中场休息。第二部分是整场巡演中凯莉最喜欢的部分。
 
 ***Beach Party***（“沙滩派对”）是表演第三部分，以"Love Boat"开场，之后凯莉翻唱[巴瑞·曼尼洛](../Page/巴瑞·曼尼洛.md "wikilink")名曲"Copacabana"。在巴黎首演上，凯莉还演唱了"That's Why They Write Love Songs"，以此向上世纪40、50年代的许多爱情剧主题曲致敬，之后的巡演凯莉没有再演唱这首歌。第三部分以名曲"Spinning Around"结束。
 

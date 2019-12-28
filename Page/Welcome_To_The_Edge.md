@@ -50,7 +50,7 @@ position</p></th>
 ## 參考
 
   - <http://www.noanoamusic.com/news.html>
-  - <http://www.billiehughes.com>
+  - <https://web.archive.org/web/20111004211530/http://www.billiehughes.com/>
   - <http://www.imdb.com/name/nm3070930/>
 
 [Category:1984_songs](https://zh.wikipedia.org/wiki/Category:1984_songs "wikilink") [Category:1985_singles](https://zh.wikipedia.org/wiki/Category:1985_singles "wikilink")

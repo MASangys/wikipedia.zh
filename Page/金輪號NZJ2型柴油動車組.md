@@ -67,7 +67,7 @@
   - [神州號官方產品介紹 (長春軌道客車車輛廠)](http://www.cccar.com.cn/product_intro.asp?nlid=46)
   - [金輪號介紹(海子鐵路網)](http://bbs.hasea.com/viewthread.php?tid=178730&extra=page%3D1)
 
-[Category:中国柴油动车组](https://zh.wikipedia.org/wiki/Category:中国柴油动车组 "wikilink") [Category:蘭州鐵路局](https://zh.wikipedia.org/wiki/Category:蘭州鐵路局 "wikilink")
+[Category:中国柴油动车组](https://zh.wikipedia.org/wiki/Category:中国柴油动车组 "wikilink") [Category:中国铁路兰州局集团有限公司](https://zh.wikipedia.org/wiki/Category:中国铁路兰州局集团有限公司 "wikilink")
 
 1.
 2.

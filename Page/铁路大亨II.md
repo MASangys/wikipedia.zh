@@ -76,7 +76,7 @@
 
 ### 财务与经济
 
-《铁路大亨II》模拟了一套逼真的金融系统和经济环境：[股票](../Page/股票.md "wikilink")、[债券](../Page/债券.md "wikilink")、[买空](https://zh.wikipedia.org/wiki/保证金 "wikilink")、[卖空](https://zh.wikipedia.org/wiki/卖空 "wikilink")、[兼并公司](https://zh.wikipedia.org/wiki/兼并 "wikilink")、宣布[破产](https://zh.wikipedia.org/wiki/破产 "wikilink")、清算公司、[利率](../Page/利率.md "wikilink")变化等，合理运用这些[金融工具会让玩家的](https://zh.wikipedia.org/wiki/金融工具 "wikilink")[铁路公司的发展速度超乎寻常](https://zh.wikipedia.org/wiki/铁路 "wikilink")。这也是本作的另一大亮点：让玩家体会到[资本](../Page/资本.md "wikilink")的力量。
+《铁路大亨II》模拟了一套逼真的金融系统和经济环境：[股票](../Page/股票.md "wikilink")、[债券](../Page/债券.md "wikilink")、[买空](https://zh.wikipedia.org/wiki/保证金 "wikilink")、[卖空](https://zh.wikipedia.org/wiki/卖空 "wikilink")、[兼并公司](https://zh.wikipedia.org/wiki/兼并 "wikilink")、宣布[破产](https://zh.wikipedia.org/wiki/破产 "wikilink")、清算公司、[利率](../Page/利率.md "wikilink")变化等，合理运用这些[金融工具](../Page/金融工具.md "wikilink")会让玩家的[铁路公司的发展速度超乎寻常](https://zh.wikipedia.org/wiki/铁路 "wikilink")。这也是本作的另一大亮点：让玩家体会到[资本](../Page/资本.md "wikilink")的力量。
 
   - 基本
 
@@ -108,7 +108,7 @@
 
   - 经济波动
 
-除了各种各样的[金融工具的操作](https://zh.wikipedia.org/wiki/金融工具 "wikilink")，游戏还模拟了[宏观经济的波动](https://zh.wikipedia.org/wiki/宏观经济 "wikilink")。游戏把当前的[宏观经济分成](https://zh.wikipedia.org/wiki/宏观经济 "wikilink")5个等级：萧条、[衰退](https://zh.wikipedia.org/wiki/衰退 "wikilink")、正常、繁荣和高速发展。经济状况会沿着这5个台阶上下波动，波动周期大约是5-8年。[宏观经济状况对玩家经营的铁路公司有很大的影响](https://zh.wikipedia.org/wiki/宏观经济 "wikilink")。经济情况越好，货物的产量越高，货物的[价值也越高](https://zh.wikipedia.org/wiki/价值 "wikilink")。由于燃料以及保养等费用较为固定，所以公司的[利润的波动随着经济的波动是巨大的](https://zh.wikipedia.org/wiki/利润 "wikilink")。而且游戏还设定：每当经济提高一个台阶时，由于[投资者情绪的亢奋](https://zh.wikipedia.org/wiki/投资者 "wikilink")，[股票](../Page/股票.md "wikilink")[价格](../Page/价格.md "wikilink")就会上升10%。由于股价和[利润极大的相关性](https://zh.wikipedia.org/wiki/利润 "wikilink")，使得股价的波动更为剧烈。这就为玩家底买高卖创造了条件。
+除了各种各样的[金融工具](../Page/金融工具.md "wikilink")的操作，游戏还模拟了[宏观经济的波动](https://zh.wikipedia.org/wiki/宏观经济 "wikilink")。游戏把当前的[宏观经济分成](https://zh.wikipedia.org/wiki/宏观经济 "wikilink")5个等级：萧条、[衰退](https://zh.wikipedia.org/wiki/衰退 "wikilink")、正常、繁荣和高速发展。经济状况会沿着这5个台阶上下波动，波动周期大约是5-8年。[宏观经济状况对玩家经营的铁路公司有很大的影响](https://zh.wikipedia.org/wiki/宏观经济 "wikilink")。经济情况越好，货物的产量越高，货物的[价值也越高](https://zh.wikipedia.org/wiki/价值 "wikilink")。由于燃料以及保养等费用较为固定，所以公司的[利润的波动随着经济的波动是巨大的](https://zh.wikipedia.org/wiki/利润 "wikilink")。而且游戏还设定：每当经济提高一个台阶时，由于[投资者情绪的亢奋](https://zh.wikipedia.org/wiki/投资者 "wikilink")，[股票](../Page/股票.md "wikilink")[价格](../Page/价格.md "wikilink")就会上升10%。由于股价和[利润极大的相关性](https://zh.wikipedia.org/wiki/利润 "wikilink")，使得股价的波动更为剧烈。这就为玩家底买高卖创造了条件。
 
 随着经济的波动，基准利率也会随之变化。当经济最差处于萧条的时候，基准利率为5%，经济水平每提高一个等级，基准利率就会降低1%。经济水平最好，处于高速发展时，基准利率降到最低的1%。基准利率是公司以及个人的[现金获得的年](https://zh.wikipedia.org/wiki/现金 "wikilink")[存款收益](https://zh.wikipedia.org/wiki/存款 "wikilink")。同时，最优贷款利率也会发生变化。最优贷款利率指的是最高信用评级的债券利率，最优贷款利率一直比基准利率高4%。玩家的信用等级每降低一个级别，新发的债券利率就提高1%。
 

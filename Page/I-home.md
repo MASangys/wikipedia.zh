@@ -62,5 +62,5 @@ i-HOME是單幢住宅，樓高44層，合共提供182伙單位。附近為新重
 
 [Category:油尖旺區單幢式住宅](https://zh.wikipedia.org/wiki/Category:油尖旺區單幢式住宅 "wikilink") [Category:大角咀](https://zh.wikipedia.org/wiki/Category:大角咀 "wikilink") [Category:旺角](https://zh.wikipedia.org/wiki/Category:旺角 "wikilink") [Category:華人置業物業](https://zh.wikipedia.org/wiki/Category:華人置業物業 "wikilink") [Category:香港市區重建局項目](https://zh.wikipedia.org/wiki/Category:香港市區重建局項目 "wikilink")
 
-1.  <http://news.sina.com.hk/cgi-bin/nw/show.cgi/19/1/1/1083880/1.html> i-HOME首日料售80伙
+1.  <http://news.sina.com.hk/cgi-bin/nw/show.cgi/19/1/1/1083880/1.html>  i-HOME首日料售80伙
 2.  <http://news.sina.com.hk/cgi-bin/nw/show.cgi/1/1/1/1210474/1.html>

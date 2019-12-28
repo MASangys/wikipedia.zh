@@ -597,10 +597,10 @@ SCANDAL曾說過她們受到一些[美國樂團的影響](https://zh.wikipedia.o
 
 </dl>
 <ul>
-<li>12月4日 名古屋 <a href="https://zh.wikipedia.org/wiki/CLUB_QUATTRO" title="wikilink">CLUB QUATTRO</a> (BEST★NAGOYA)</li>
+<li>12月4日 名古屋 <a href="../Page/CLUB_QUATTRO.md" title="wikilink">CLUB QUATTRO</a> (BEST★NAGOYA)</li>
 <li>12月5日 心斎橋 CLUB QUATTRO (BEST★OSAKA)</li>
 <li>12月12日 渋谷 CLUB QUATTR (BEST★TOKYO)</li>
-<li>12月24日 恵比寿 <a href="https://zh.wikipedia.org/wiki/LIQUIDROOM" title="wikilink">LIQUIDROOM</a> (BEST★Xmas,追加公演)</li>
+<li>12月24日 恵比寿 <a href="../Page/LIQUIDROOM.md" title="wikilink">LIQUIDROOM</a> (BEST★Xmas,追加公演)</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -632,7 +632,7 @@ SCANDAL曾說過她們受到一些[美國樂團的影響](https://zh.wikipedia.o
 <li>9月18日 福岡DRUM LOGOS</li>
 <li>9月20日 広島CLUB QUATTRO</li>
 <li>9月23日 PENNY LANE 24</li>
-<li>9月26日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp</a> Sendai</li>
+<li>9月26日 <a href="../Page/Zepp.md" title="wikilink">Zepp</a> Sendai</li>
 <li>9月29日 Zepp Nagoya</li>
 <li>9月30日 Zepp Osaka</li>
 <li>10月2日 Zepp Tokyo</li>

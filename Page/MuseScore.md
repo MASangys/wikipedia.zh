@@ -77,10 +77,9 @@ MuseScore也作为PortableApps.com的可移植应用程序运行。它可以安�
   - MuseScore 3.0是在2018年12月发布的,有许多新特性,包括一个避免乐谱元素冲突的自动智能排版系统、一个爵士符号字体、更高级符号的支持、更多的样式控制、新用户导览、简化的时间轴视图快速导航、重新设计的混音器和钢琴卷帘编辑器以及一个内置的自动升级机制。\[44\]
   - MuseScore 3.1于2019年5月发布，有很多新功能，包括在单音符上的渐强和渐弱回放，以及为品格图提供更多自定选项。\[45\]
   - MuseScore 3.2于2019年6月发布，有很多新功能。\[46\]
+  - MuseScore 3.3于2019年10月31日发布，其中包含了新的面板设计和许多稳定性改进。\[47\]
 
 ### 即将发布
-
-  - MuseScore 3.3将于2019年10月初发布，其中包含了新的面板设计和许多稳定性改进。\[47\]
 
 ## 开发
 
@@ -118,7 +117,7 @@ MuseScore社区使用Transifex翻译服务器，用于将软件内容本地化�
 
 ## MuseScore.com 版权问题
 
-从2019年6月开始，许多上传迪士尼歌曲的用户被迪士尼“侵犯版权”，因为迪士尼与MuseScore存在问题。\[70\]声称拥有原创音乐，或者说是公共领域的编曲。\[71\]
+从2019年6月开始，许多上传迪士尼歌曲的用户被迪士尼“侵犯版权”，因为迪士尼与MuseScore存在问题。\[70\]哈尔·伦纳德（Hal Leonard）声称拥有原创音乐，或者说是公共领域的编曲。\[71\]
 
 ## 参见
 
@@ -145,136 +144,73 @@ MuseScore社区使用Transifex翻译服务器，用于将软件内容本地化�
 [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink") [Category:樂譜製作軟件](https://zh.wikipedia.org/wiki/Category:樂譜製作軟件 "wikilink") [Category:音樂軟件](https://zh.wikipedia.org/wiki/Category:音樂軟件 "wikilink") [Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20. <https://musescore.org/en/handbook/file-formats-0>
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
 57.
-
 58.
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
 66.
-
 67.
 68.
-
 69.
-
 70. <https://musescore.com/groups/improving-musescore-com/discuss/5043152>
-
 71. <https://musescore.com/groups/musescore-composers/discuss/5042905>

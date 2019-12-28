@@ -1457,7 +1457,7 @@ MBC為韓國首創月火劇時段的電視台，劇集收視率及收益皆處�
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/曹政奭.md" title="wikilink">曹政奭</a>、<a href="../Page/惠利.md" title="wikilink">惠利</a>、<a href="https://zh.wikipedia.org/wiki/李浩沅" title="wikilink">李浩沅</a>、<a href="../Page/金善浩.md" title="wikilink">金善浩</a>、<a href="../Page/林世美.md" title="wikilink">林世美</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳賢鍾" title="wikilink">吳賢鍾</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/吳賢鍾.md" title="wikilink">吳賢鍾</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/卞尚順" title="wikilink">卞尚順</a></p></td>
 <td style="text-align: center;"><p><strong>月火特別企劃</strong></p></td>
 </tr>
@@ -1630,6 +1630,45 @@ MBC為韓國首創月火劇時段的電視台，劇集收視率及收益皆處�
 </tbody>
 </table>
 
+### 2020年
+
+<table style="width:326%;">
+<colgroup>
+<col style="width: 60%" />
+<col style="width: 17%" />
+<col style="width: 50%" />
+<col style="width: 24%" />
+<col style="width: 90%" />
+<col style="width: 70%" />
+<col style="width: 15%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><p>播放<br />
+日期</p></th>
+<th style="text-align: center;"><p>電視劇集名稱</p></th>
+<th style="text-align: center;"><p>集數</p></th>
+<th style="text-align: center;"><p>主演</p></th>
+<th style="text-align: center;"><p>導演</p></th>
+<th style="text-align: center;"><p>編劇</p></th>
+<th style="text-align: center;"><p>備注</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p>2020年3月－<br />
+2020年</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/365：逆轉命運的1年" title="wikilink">365：逆轉命運的1年</a><br />
+</p></td>
+<td style="text-align: center;"><p>32</p></td>
+<td style="text-align: center;"><p><a href="../Page/李浚赫.md" title="wikilink">李浚赫</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金慶熙" title="wikilink">金慶熙</a></p></td>
+<td style="text-align: center;"><p>李秀景</p></td>
+<td style="text-align: center;"><p>原作：《Repeat》</p></td>
+</tr>
+</tbody>
+</table>
+
 ## 相關連結
 
   - [KBS月火迷你連續劇](https://zh.wikipedia.org/wiki/KBS月火迷你連續劇 "wikilink")
@@ -1639,8 +1678,6 @@ MBC為韓國首創月火劇時段的電視台，劇集收視率及收益皆處�
   - [Channel A月火連續劇](../Page/Channel_A月火連續劇.md "wikilink")
 
 ## 參考資料
-
-жхчабхиөэбхбххбхчитчтччисхс сибичртчрчтч чиб чмөинчибрчисхчтчхибхчтырыхухибхбичибрчрб
 
 ## 外部連結
 

@@ -43,23 +43,14 @@ Google音乐采用免费提供MP3下载，收入来自产品中歌曲下载页�
 [Category:已終止的Google服務](https://zh.wikipedia.org/wiki/Category:已終止的Google服務 "wikilink") [Category:線上音樂資料庫](https://zh.wikipedia.org/wiki/Category:線上音樂資料庫 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
 11.
-
 12.

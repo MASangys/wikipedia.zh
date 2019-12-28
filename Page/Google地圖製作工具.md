@@ -48,10 +48,10 @@ Google說明，Google Map Maker社群自2008年就已編輯及審核數百萬種
 
 ## 參見
 
-  - [Here Map Creator](https://zh.wikipedia.org/wiki/Here_Map_Creator "wikilink")
+  - [Here (公司)](../Page/Here_\(公司\).md "wikilink")
   - [Mapping Bangladesh](https://zh.wikipedia.org/wiki/Mapping_Bangladesh "wikilink")
-  - [OpenStreetMap](https://zh.wikipedia.org/wiki/OpenStreetMap "wikilink")
-  - [WikiMapia](https://zh.wikipedia.org/wiki/WikiMapia "wikilink")
+  - [開放街圖](../Page/開放街圖.md "wikilink")
+  - [維基衛星地圖](../Page/維基衛星地圖.md "wikilink")
 
 ## 資料來源
 
@@ -60,33 +60,20 @@ Google說明，Google Map Maker社群自2008年就已編輯及審核數百萬種
   - [Google Map Maker 首頁](https://www.google.com/mapmaker)
   - [Google Map Makerpedia](https://sites.google.com/site/mapmakerpedia/)
 
-[Category:Google_Maps](https://zh.wikipedia.org/wiki/Category:Google_Maps "wikilink") [Category:Google_services](https://zh.wikipedia.org/wiki/Category:Google_services "wikilink") [Category:Web_Map_Services](https://zh.wikipedia.org/wiki/Category:Web_Map_Services "wikilink") [Category:Crowdsourcing](https://zh.wikipedia.org/wiki/Category:Crowdsourcing "wikilink")
+[Category:众包](https://zh.wikipedia.org/wiki/Category:众包 "wikilink") [Category:Google地圖](https://zh.wikipedia.org/wiki/Category:Google地圖 "wikilink") [Category:Google服務](https://zh.wikipedia.org/wiki/Category:Google服務 "wikilink") [Category:2008年软件](https://zh.wikipedia.org/wiki/Category:2008年软件 "wikilink") [Category:2008年建立的网站](https://zh.wikipedia.org/wiki/Category:2008年建立的网站 "wikilink") [Category:2017年关闭的网站](https://zh.wikipedia.org/wiki/Category:2017年关闭的网站 "wikilink") [Category:已終止開發的Google軟體](https://zh.wikipedia.org/wiki/Category:已終止開發的Google軟體 "wikilink")
 
 1.
 2.  [Terms of Service for Google Map Maker](http://www.google.com/mapmaker/mapfiles/s/terms_mapmaker.html)
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.

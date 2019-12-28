@@ -15,7 +15,7 @@
   - [Wind -a breath of heart-](https://zh.wikipedia.org/wiki/Wind_-a_breath_of_heart- "wikilink")（節目製作、影像產品販售）
   - [To Heart 〜Remember my Memories〜](https://zh.wikipedia.org/wiki/To_Heart#To_Heart_～Remember_my_Memories～ "wikilink")（節目製作、影像產品販售）
   - [彩雲國物語](../Page/彩雲國物語.md "wikilink")（影像產品販售）
-  - [漫畫派對 Revolution](https://zh.wikipedia.org/wiki/漫畫派對 "wikilink")（節目製作、影像產品販售）
+  - [漫畫派對 Revolution](../Page/漫畫派對_\(遊戲\).md "wikilink")（節目製作、影像產品販售）
   - [暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")（2006年，節目製作、影像產品販售）
   - [少年陰陽師](../Page/少年陰陽師.md "wikilink")（2006年－2007年，節目、音樂製作，影像產品販售）
   - [ToHeart2](https://zh.wikipedia.org/wiki/ToHeart2 "wikilink")（節目製作、影像產品販售）
@@ -141,7 +141,7 @@
 
   - [Frontier Works](http://www.fwinc.co.jp/)
 
-  - [animate.tv](http://www.animate.tv/)
+  - [animate.tv](https://web.archive.org/web/20091006231958/http://www.animate.tv/)
 
   - [animate mobile series](http://www.animatemobile.net/)
 

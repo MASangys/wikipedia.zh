@@ -4,7 +4,7 @@
 
 兩種不同型態的小直徑炸彈正在發展中。Block 1（又稱為GBU-39）裝備有[全球衛星定位系統](https://zh.wikipedia.org/wiki/全球定位系統 "wikilink")（Global Positioning System，GPS）和[慣性導航系統](https://zh.wikipedia.org/wiki/慣性導航系統 "wikilink")（Inertial Navigation System，INS），以摧毀如指揮控制通信中心、防空飛彈基地、油庫、機場、基礎工事等大約涵蓋了80％典型空襲行動中會遭遇到的目標。Block 2（又稱為GBU-40）裝有紅外線尋標器和資料鏈，以攻擊地面及水面上的活動式目標，如戰車、軍車或船艦等。
 
-藉助差分全球定位系統（Differential GPS，DGPS）地面控制站提供修正後的衛星訊號，GBU-39的[圆概率误差](https://zh.wikipedia.org/wiki/圆概率误差 "wikilink")（Circular Error Probable, CEP）僅約5～8公尺，可有效降低[附帶損害](https://zh.wikipedia.org/wiki/附帶損害 "wikilink")（collateral damage）的產生。
+藉助差分全球定位系統（Differential GPS，DGPS）地面控制站提供修正後的衛星訊號，GBU-39的[圆概率误差](https://zh.wikipedia.org/wiki/圆概率误差 "wikilink")（Circular Error Probable, CEP）僅約5～8公尺，可有效降低[附帶損害](../Page/附帶損害.md "wikilink")（collateral damage）的產生。
 
 由於體積小重量輕，每架戰機將能攜帶更多的炸彈，每個飛行架次中攻擊多個目標。現役戰機中首先具備攜帶小直徑炸彈能力的是[F-15E打擊鷹（Strike Eagle）式](../Page/F-15E打擊鷹式戰鬥轟炸機.md "wikilink")，將能夠攜帶20枚；未來將逐步整合到[F-16戰隼（Fighting Falcon）式](../Page/F-16戰隼戰鬥機.md "wikilink")、[F-22猛禽（Raptor）式](../Page/F-22猛禽戰鬥機.md "wikilink")、[F-35閃電Ⅱ（Lightning Ⅱ）式](https://zh.wikipedia.org/wiki/F-35閃電II攻擊戰鬥機 "wikilink")、[A-10雷霆Ⅱ（Thunderbolt Ⅱ）式](../Page/A-10雷霆二式攻擊機.md "wikilink")、[B-1槍騎兵（Lancer）式](../Page/B-1槍騎兵戰略轟炸機.md "wikilink")、[B-2幽靈（Spirit）式以及](https://zh.wikipedia.org/wiki/B-2幽靈隱形戰略轟炸機 "wikilink")[B-52同溫層堡壘（Stratofortress）式](../Page/B-52同溫層堡壘轟炸機.md "wikilink")。其他飛機，例如發展中的[聯合無人戰機系統](https://zh.wikipedia.org/wiki/聯合無人戰機系統 "wikilink")（J-UCAS），在經過必要的修改後也能攜帶和投擲。
 

@@ -20,4 +20,4 @@
 2.  2008年第五屆「[勁歌王](https://zh.wikipedia.org/wiki/勁歌王金曲金榜 "wikilink")」最具觀賞性MTV獎 <飄飄>
 3.  2008年第五屆「[勁歌王](https://zh.wikipedia.org/wiki/勁歌王金曲金榜 "wikilink")」最暢銷唱片大獎 《Fly\! Cyndi》
 
-[Category:王心凌音乐专辑](https://zh.wikipedia.org/wiki/Category:王心凌音乐专辑 "wikilink") [Category:2007年音乐专辑](https://zh.wikipedia.org/wiki/Category:2007年音乐专辑 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
+[Category:王心凌](https://zh.wikipedia.org/wiki/Category:王心凌 "wikilink") [Category:王心凌音乐专辑](https://zh.wikipedia.org/wiki/Category:王心凌音乐专辑 "wikilink") [Category:2007年音乐专辑](https://zh.wikipedia.org/wiki/Category:2007年音乐专辑 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")

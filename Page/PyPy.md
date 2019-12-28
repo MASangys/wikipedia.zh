@@ -20,13 +20,15 @@ PyPy是作为（特定领域研究项目）从2004年12月到2007年3月\[2\]，
 
 ## PyPy的实现与原理
 
-PyPy的第一部分：用[Python](../Page/Python.md "wikilink")实现的[Python](../Page/Python.md "wikilink")
+**PyPy的第一部分：用[Python](../Page/Python.md "wikilink")实现的[Python](../Page/Python.md "wikilink")**
 
-其实这么说并不准确，准确地说应该是用[rPython实现的](https://zh.wikipedia.org/wiki/rPython "wikilink")[Python](../Page/Python.md "wikilink")，rPython是Python的一个子集，虽然rPython不是完整的Python，但用rPython写的这个Python实现却是可以解释完整的Python语言。
+  -
+    其实这么说并不准确，准确表达应为用[rPython实现的](https://zh.wikipedia.org/wiki/rPython "wikilink")[Python](../Page/Python.md "wikilink")。rPython是Python的一个子集，虽然rPython不是完整的Python，但用rPython写的这个Python实现却可以解释完整的Python语言。
 
-PyPy的第二部分：[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")
+**PyPy的第二部分：[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")**
 
-这是一个编译rPython的编译器，或者说这个编译器有一个rPython的前端，目前也只有这么一个前端，不过它的后端却是不少，也就是说这个编译器支持许多的目标语言，比较重要的有：C，[CIL](../Page/通用中间语言.md "wikilink")，Javascript ...
+  -
+    这是一个编译rPython的编译器，或者说这个编译器有一个rPython的前端。目前也只有这一个前端，不过它的后端却有不少，亦即这个编译器支持许多的目标语言，比较重要的有：C，[CIL](../Page/通用中间语言.md "wikilink")，Javascript等。
 
 ## 註釋
 

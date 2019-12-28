@@ -459,7 +459,7 @@ FN Five-seveN在[墨西哥](../Page/墨西哥.md "wikilink")被廣泛的用於�
 
   - —[Official page](https://web.archive.org/web/20070701175401/http://www.fnhusa.com/products/firearms/family.asp?fid=FNF003&gid=FNG001)
 
-  - —[Guns & Ammo Five-seveN Article October 2006](http://www.gunsandammomag.com/ga_handguns/fnh_091106/)
+  - —[Guns & Ammo Five-seveN Article October 2006](https://web.archive.org/web/20070702031313/http://www.gunsandammomag.com/ga_handguns/fnh_091106/)
 
   - —[American Handgunner Five-seveN/P90 Article](http://www.findarticles.com/p/articles/mi_m0BTT/is_144_24/ai_57886949)
 

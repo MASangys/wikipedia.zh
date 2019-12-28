@@ -163,7 +163,7 @@
 <li>語言：韓語</li>
 <li>格式：CD</li>
 <li>唱片公司：SM Entertainment</li>
-<li>銷量：365,751+</li>
+<li>銷量：766,865+</li>
 </ul></td>
 <td></td>
 </tr>

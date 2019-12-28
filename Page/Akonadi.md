@@ -12,6 +12,6 @@ Akonadi通訊藉由服務來擷取和傳送數據，而不是通過一個專門�
 
 [Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")
 
-1.  [Akonadi Homepage](http://pim.kde.org/akonadi/)
+1.
 2.  [Akonadi Hacking Meeting](http://dot.kde.org/1177506111/)
 3.  [Tom Albers: Creating a mail reader in 10 minutes.](http://www.omat.nl/drupal/creating-mail-reader-10-minutes)

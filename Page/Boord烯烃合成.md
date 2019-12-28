@@ -23,8 +23,6 @@
 [Category:消除反应](https://zh.wikipedia.org/wiki/Category:消除反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.  *Advanced Organic Chemistry*, 4th Edition, Jerry March, **1992**.
-
 2.  *The synthesis of beta-bromo-alkyl ethers and their use in further synthesis* Lloyd C. Swallen and Cecil E. Boord [J. Am. Chem. Soc.](https://zh.wikipedia.org/wiki/J._Am._Chem._Soc. "wikilink"); **1930**; 52(2) pp 651 - 660;
-
 3.
 4.  *Nuclear syntheses in the olefin series II. 1,4-diolefins* Bernard H. Shoemaker and Cecil E. Boord [J. Am. Chem. Soc.](https://zh.wikipedia.org/wiki/J._Am._Chem._Soc. "wikilink"); **1931**; 53(4) pp 1505 - 1512;

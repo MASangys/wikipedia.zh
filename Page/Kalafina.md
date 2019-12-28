@@ -869,7 +869,7 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 
 <!-- end list -->
 
-  - 2月20日 （[LIQUIDROOM](https://zh.wikipedia.org/wiki/LIQUIDROOM "wikilink")）
+  - 2月20日 （[LIQUIDROOM](../Page/LIQUIDROOM.md "wikilink")）
   - 3月14日 （）
   - 3月19日 （[TOWER RECORDS新宿店](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")）
   - 3月20日 （）

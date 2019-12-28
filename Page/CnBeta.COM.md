@@ -95,8 +95,8 @@ cnBeta在2013年6月进行了改版，界面进行了全面调整，但用户一
 
 ## 参考文献
 
-  - 五月：[专访知名资讯站CnBeta创始人ugmbbc](http://tools.yesky.com/19/2456519.shtml) 天极软件 2006年6月22日
-  - 王亮，冯大刚：[转型路上的中国电信](http://tech.163.com/06/0903/16/2Q41VA2J000915BF.html) 《经济观察报》 2006年9月3日
+  - 五月：[专访知名资讯站CnBeta创始人ugmbbc](https://web.archive.org/web/20081205172912/http://tools.yesky.com/19/2456519.shtml) 天极软件 2006年6月22日
+  - 王亮，冯大刚：[转型路上的中国电信](https://web.archive.org/web/20181003185133/http://tech.163.com/06/0903/16/2Q41VA2J000915BF.html) 《经济观察报》 2006年9月3日
 
 ## 外部链接
 

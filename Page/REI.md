@@ -48,7 +48,7 @@
 
 <!-- end list -->
 
-  - 台灣動漫專賣店[綠林寮](http://www.greenwood.com.tw/)的看板娘「小綠」人物設計及插圖。
+  - 台灣動漫專賣店[綠林寮](https://web.archive.org/web/20080905092741/http://www.greenwood.com.tw/)的看板娘「小綠」人物設計及插圖。
   - 台灣的動漫喫茶店[Cafe Cosic](https://web.archive.org/web/20090825215410/http://www.cosic.com.tw/)制服設定
   - 《[E☆2](https://zh.wikipedia.org/wiki/E☆2 "wikilink")》的畫集「台灣的少女」封面繪者/參加者之一
 

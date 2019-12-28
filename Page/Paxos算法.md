@@ -1,8 +1,10 @@
-**Paxos算法**是[莱斯利·兰伯特](https://zh.wikipedia.org/wiki/莱斯利·兰伯特 "wikilink")（，[LaTeX中的](https://zh.wikipedia.org/wiki/LaTeX "wikilink")「La」）于1990年提出的一种基于消息传递且具有高度容错特性的一致性算法。\[1\]
+**Paxos算法**是[莱斯利·兰伯特](https://zh.wikipedia.org/wiki/莱斯利·兰伯特 "wikilink")（，[LaTeX中的](https://zh.wikipedia.org/wiki/LaTeX "wikilink")「La」）于1990年提出的一种基于消息传递且具有高度容错特性的共识（consensus）算法。\[1\]
+
+需要注意的是，Paxos常被误称为“一致性算法”。但是“[一致性（consistency）](../Page/线性一致性.md "wikilink")”和“共识（consensus）”并不是同一个概念。Paxos是一个共识（consensus）算法。\[2\]
 
 ## 问题和假设
 
-分布式系统中的节点通信存在两种模型：[共享内存](https://zh.wikipedia.org/wiki/共享内存 "wikilink")（Shared memory）和[消息传递](https://zh.wikipedia.org/wiki/消息传递 "wikilink")（Messages passing）。基于消息传递通信模型的分布式系统，不可避免的会发生以下错误：进程可能会慢、被杀死或者重启，消息可能会延迟、丢失、重复，在基础 Paxos 场景中，先不考虑可能出现消息篡改即[拜占庭错误的情况](../Page/拜占庭将军问题.md "wikilink")。Paxos 算法解决的问题是在一个可能发生上述异常的[分布式系统中如何就某个值达成一致](../Page/分布式计算.md "wikilink")，保证不论发生以上任何异常，都不会破坏决议的一致性。一个典型的场景是，在一个分布式数据库系统中，如果各节点的初始状态一致，每个节点都执行相同的操作序列，那么他们最后能得到一个一致的状态。为保证每个节点执行相同的命令序列，需要在每一条指令上执行一个「一致性算法」以保证每个节点看到的指令一致。一个通用的一致性算法可以应用在许多场景中，是分布式计算中的重要问题。因此从20世纪80年代起对于一致性算法的研究就没有停止过。
+分布式系统中的节点通信存在两种模型：[共享内存](https://zh.wikipedia.org/wiki/共享内存 "wikilink")（Shared memory）和[消息传递](https://zh.wikipedia.org/wiki/消息传递 "wikilink")（Messages passing）。基于消息传递通信模型的分布式系统，不可避免的会发生以下错误：进程可能会慢、被杀死或者重启，消息可能会延迟、丢失、重复，在基础 Paxos 场景中，先不考虑可能出现消息篡改即[拜占庭错误的情况](../Page/拜占庭将军问题.md "wikilink")。Paxos 算法解决的问题是在一个可能发生上述异常的[分布式系统中如何就某个值达成一致](../Page/分布式计算.md "wikilink")，保证不论发生以上任何异常，都不会破坏决议的共识。一个典型的场景是，在一个分布式数据库系统中，如果各节点的初始状态一致，每个节点都执行相同的操作序列，那么他们最后能得到一个一致的状态。为保证每个节点执行相同的命令序列，需要在每一条指令上执行一个「共识算法」以保证每个节点看到的指令一致。一个通用的共识算法可以应用在许多场景中，是分布式计算中的重要问题。因此从20世纪80年代起对于共识算法的研究就没有停止过。
 
 为描述Paxos算法，Lamport虚拟了一个叫做Paxos的[希腊城邦](https://zh.wikipedia.org/wiki/希腊城邦 "wikilink")，这个岛按照议会民主制的政治模式制订法律，但是没有人愿意将自己的全部时间和精力放在这种事情上。所以无论是议员，议长或者传递纸条的服务员都不能承诺别人需要时一定会出现，也无法承诺批准决议或者传递消息的时间。但是这里假设没有[拜占庭将军问题](../Page/拜占庭将军问题.md "wikilink")（Byzantine failure，即虽然有可能一个消息被传递了两次，但是绝对不会出现错误的消息）；只要等待足够的时间，消息就会被传到。另外，Paxos岛上的议员是不会反对其他议员提出的决议的。
 
@@ -148,7 +150,7 @@ A3在很久以后收到了来自A5的提案。由于税率问题已经讨论完�
 
 ` 税率已定为10%,新的提案不得再讨论本问题。`
 
-一致性得到了保证。
+共识到了保证。
 
 2\. A5是个无足轻重的小人物。这时A3不再理会他, A1不久后就会广播税率定为10%.
 
@@ -326,13 +328,13 @@ Fast-Paxos将Basic-Paxos进行了推广，以减少端到端消息延迟。在Ba
 
 ## 应用 
 
-[微软公司为简化的Paxos算法申请了](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[专利](../Page/专利.md "wikilink")\[2\]。但专利中公开的技术和本文所描述的不尽相同。
+[微软公司为简化的Paxos算法申请了](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[专利](../Page/专利.md "wikilink")\[3\]。但专利中公开的技术和本文所描述的不尽相同。
 
-[谷歌公司](https://zh.wikipedia.org/wiki/谷歌公司 "wikilink")（Google公司）在其中应用了Multi-Paxos算法\[3\]。Chubby lock应用于[大表](https://zh.wikipedia.org/wiki/大表 "wikilink")（Bigtable），后者在[谷歌公司所提供的各项服务中得到了广泛的应用](https://zh.wikipedia.org/wiki/谷歌公司 "wikilink")\[4\]。
+[谷歌公司](https://zh.wikipedia.org/wiki/谷歌公司 "wikilink")（Google公司）在其中应用了Multi-Paxos算法\[4\]。Chubby lock应用于[大表](https://zh.wikipedia.org/wiki/大表 "wikilink")（Bigtable），后者在[谷歌公司所提供的各项服务中得到了广泛的应用](https://zh.wikipedia.org/wiki/谷歌公司 "wikilink")\[5\]。
 
-[谷歌公司](https://zh.wikipedia.org/wiki/谷歌公司 "wikilink")（Google公司）在其分布式数据库spanner中使用Multi-Paxos作为分布式一致性保证的基础组件 \[5\]
+[谷歌公司](https://zh.wikipedia.org/wiki/谷歌公司 "wikilink")（Google公司）在其分布式数据库spanner中使用Multi-Paxos作为分布式共识保证的基础组件 \[6\]
 
-[Apache ZooKeeper](../Page/Apache_ZooKeeper.md "wikilink") 使用一个类Multi-Paxos的一致性算法作为底层存储协同的机制。
+[Apache ZooKeeper](../Page/Apache_ZooKeeper.md "wikilink") 使用一个类Multi-Paxos的共识算法作为底层存储协同的机制。
 
 ## 参考文献
 
@@ -363,7 +365,8 @@ Fast-Paxos将Basic-Paxos进行了推广，以减少端到端消息延迟。在Ba
 [Category:分布式计算](https://zh.wikipedia.org/wiki/Category:分布式计算 "wikilink") [Category:算法](https://zh.wikipedia.org/wiki/Category:算法 "wikilink")
 
 1.  Lamport本人在http://research.microsoft.com/users/lamport/pubs/pubs.html\#lamport-paxos 中描写了他用9年时间发表这个算法的前前后后
-2.  [中国专利局的相关页面](http://search.sipo.gov.cn/sipo/zljs/hyjs-yx-new.jsp?recid=CN200410082196.X&leixin=fmzl&title=%BC%F2%BB%AF%B5%C4Paxos%CB%E3%B7%A8&ipc=G06F9/46)
-3.  [The Chubby lock service for loosely-coupled distributed systems](http://labs.google.com/papers/chubby-osdi06.pdf)
-4.  [Bigtable: A Distributed Storage System for Structured Data](http://labs.google.com/papers/bigtable-osdi06.pdf)
-5.  [Spanner: Google's Globally-Distributed Database](https://ai.google/research/pubs/pub39966)
+2.  [Lamport L. Paxos made simple\[J\]. ACM Sigact News, 2001, 32(4): 18-25.](http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/past/03F/notes/paxos-simple.pdf)
+3.  [中国专利局的相关页面](http://search.sipo.gov.cn/sipo/zljs/hyjs-yx-new.jsp?recid=CN200410082196.X&leixin=fmzl&title=%BC%F2%BB%AF%B5%C4Paxos%CB%E3%B7%A8&ipc=G06F9/46)
+4.  [The Chubby lock service for loosely-coupled distributed systems](http://labs.google.com/papers/chubby-osdi06.pdf)
+5.  [Bigtable: A Distributed Storage System for Structured Data](http://labs.google.com/papers/bigtable-osdi06.pdf)
+6.  [Spanner: Google's Globally-Distributed Database](https://ai.google/research/pubs/pub39966)

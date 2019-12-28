@@ -58,7 +58,7 @@ Itanium平台的應用軟體一般情況下是在傳統IA-32平台上開發的�
 
   - 鑒于Itanium處理機架構自身先進的特性，譬如EPIC規範下的VLIW的架構本質和從眾多架構引入的特性，比如從SPARC架構中引入的指令窗概念等等——這都是微軟公司此前從未涉足支援過的。如何發揮這一先進架構潛能於現實領域中成為了Windows XP 64-Bit Edition的發展原動力和方向，因此64-Bit被賦予更廣更深層面的涵義。而相比之下的Windows XP Professional x64不過是專業版的AMD64或Intel64化而已，兩者僅在時間上有接替的關係，事實上是兩個無關性質的產品。
   - Windows XP 64-Bit Edition, Version 2003是接替2001年發布的版本，並做為Windows Server 2003安騰伺服器產品的工作站版本，沿襲Windows NT作業系統自發布以來的版本習慣。
-  - Windows NT 3.1是微軟公司第一個純32位元產品產品、Windows 95是第一個16位元32位元混合核心產品、Windows XP 64-Bit則是第一個正式的64位元產品。
+  - Windows NT 3.1是微軟公司第一個純32位元產品、Windows 95是第一個16位元32位元混合核心產品、Windows XP 64-Bit則是第一個正式的64位元產品。
 
 ### 并行版本
 

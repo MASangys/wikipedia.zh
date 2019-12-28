@@ -282,7 +282,7 @@
 <tr class="even">
 <td><center>
 <p><a href="../Page/徐芝釋.md" title="wikilink">徐芝釋</a></p></td>
-<td><p>第18集登場，友情客串；飾演徐芝釋，是黃貞音的聯誼對相。</p></td>
+<td><p>第18集登場，友情客串；飾演徐芝釋，是黃貞音的聯誼對象。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -291,7 +291,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/李曙贤" title="wikilink">李曙贤</a></p></td>
+<p><a href="../Page/尹瑞賢.md" title="wikilink">尹瑞賢</a></p></td>
 <td><p>第33集登場，出演：在第一部飾演<a href="https://zh.wikipedia.org/wiki/首爾警察" title="wikilink">首爾警察署偵查隊长</a>，在本劇客串風波高中臨時體育教师。</p></td>
 </tr>
 <tr class="odd">
@@ -307,7 +307,7 @@
 <tr class="odd">
 <td><center>
 <p><a href="../Page/鄭佳恩.md" title="wikilink">鄭佳恩</a></p></td>
-<td><p>第58集登場，友情客串；飾演鄭普碩曾經喜歡的一位小姐鄭嘉恩。</p></td>
+<td><p>第57集登場，友情客串；飾演鄭普碩曾經喜歡的一位小姐鄭嘉恩。</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -336,10 +336,15 @@
 </tr>
 <tr class="odd">
 <td><center>
+<p><a href="../Page/鄭雄仁.md" title="wikilink">鄭雄仁</a></p></td>
+<td><p>第103集登場，特別客串；飾演銀行搶匪。</p></td>
+</tr>
+<tr class="even">
+<td><center>
 <p><a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a></p></td>
 <td><p>第119集登場，特別客串；飾演鄭海莉（長大海莉）。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p><a href="../Page/鮮于龍女.md" title="wikilink">鮮-{于}-龍女</a></p></td>
 <td><p>第124集登場，友情客串；飾演順才曾經喜歡的一位老師。</p></td>
@@ -543,16 +548,10 @@
 [Category:2009年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2009年韓國電視劇集 "wikilink") [Category:MBC日日情景喜劇](https://zh.wikipedia.org/wiki/Category:MBC日日情景喜劇 "wikilink") [Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
 
 1.  \-{zh-hans:台湾版翻译为李顺才。; zh-hant:台灣版翻譯為李順才。; zh-tw:原文名與演員本名相同，只是翻譯上的不同。}-
-
 2.  \-{zh-hans:台湾版翻译为鄭宝石。; zh-hant:台灣版翻譯為鄭寶石。; zh-tw:原文名與演員本名相同，只是翻譯上的不同。}-
-
 3.  \-{zh-hans:台湾版翻译为申世京。; zh-hant:台灣版翻譯為申世京。; zh-tw:原文名與演員本名相同，只是翻譯上的不同。}-
-
 4.  \-{zh-hans:台湾版翻译为黄贞音。; zh-hant:台灣版翻譯為黃貞音。; zh-tw:原文名與演員本名相同，只是翻譯上的不同。}-
-
 5.  \-{zh-hans:台湾版翻译为柳仁娜。; zh-hant:台灣版翻譯為柳仁娜。; zh-tw:原文名與演員本名相同，只是翻譯上的不同。}-
-
 6.  \-{zh-hans:台湾版翻译为李光修。; zh-hant:台灣版翻譯為李光修。; zh-tw:原文名與演員本名相同，只是翻譯上的不同。}-
-
 7.
 8.  收視資料：[TNS Media Korea](http://www.tnsmk.co.kr)

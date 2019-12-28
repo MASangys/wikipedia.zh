@@ -826,7 +826,7 @@ E线西延段不仅可以解决奥斯曼圣拉扎尔终点的局限性，提高�
 <td><p><br />
 <small>Les Clairières de Verneuil</small></p></td>
 <td><p>5</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/塞纳河畔维尔讷伊" title="wikilink">塞纳河畔维尔讷伊</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -984,7 +984,7 @@ E线修建时，曾经有一个分支从路线图中除去，几年前再次被�
 
   - [SNCF Transilien](https://web.archive.org/web/20090612020320/http://www.transilien.com/web/site/)
   - [Metro-Pole资料库](https://web.archive.org/web/20051208073801/http://www.metro-pole.net/)
-  - [BlogenCommun网站上对RER E线的评论](http://www.blogencommun.fr/rer-e/)
+  - [BlogenCommun网站上对RER E线的评论](https://web.archive.org/web/20090609184530/http://www.blogencommun.fr/rer-e/)
 
 ## 外部链接
 

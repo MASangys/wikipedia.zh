@@ -64,6 +64,6 @@ SdKfz 251型装甲车的半履带式结构使维修和保养比较复杂，也�
 
 ## 外部链接
 
-  - [SdKfz 251](http://www.wwiivehicles.com/germany/half-tracks/sdKfz-251.asp)
+  - [SdKfz 251](https://web.archive.org/web/20090305043838/http://www.wwiivehicles.com/germany/half-tracks/sdKfz-251.asp)
 
 [Category:裝甲運兵車](https://zh.wikipedia.org/wiki/Category:裝甲運兵車 "wikilink") [Category:二戰德國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:二戰德國裝甲戰鬥車輛 "wikilink")

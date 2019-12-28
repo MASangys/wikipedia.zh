@@ -523,30 +523,23 @@
 
   - [WHITESOFT](https://web.archive.org/web/20140624125254/http://white-soft.jp/)
 
-  - [ボンボンカンパニー](http://bonbon-company.com/)
+  - [ボンボンカンパニー](https://web.archive.org/web/20140516210214/http://bonbon-company.com/)
 
   -
 [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
 
 1.  『[PC Angel](https://zh.wikipedia.org/wiki/PC_Angel_neo "wikilink")』1998年11月號
-
 2.  製作：Silver有限公司
-
 3.
 4.
 5.  同人展（[Comic Market](../Page/Comic_Market.md "wikilink")）・廠商限定商品。
-
 6.
 7.
 8.
 9.
 10. 『秋色恋華』與『秋色謳華』的套裝商品。
-
 11. 『あると』與『みはる』的套裝商品。
-
 12. 『明日の君と逢うために』與『明日の七海と逢うために』的套裝商品。
-
 13.
 14. [TECH GIAN](../Page/TECH_GIAN.md "wikilink")（2013年12月号） pp.16-19.
-
 15. 『ハピメア』與『ハピメア Fragmentation Dream』的套裝商品。

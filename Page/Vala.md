@@ -18,7 +18,7 @@
 
 **4、点分名字空间支持大型应用开发**
 
-在 [KangarooDB](https://dbkangaroo.github.io/) 应用中，已经用 Vala 开发了185个源码模块；
+在 [KangarooDB](https://dbkangaroo.github.io/) 应用中，已经用 Vala 开发了210个源码模块，还有 Vala 编译器就是一个最典型的大型应用；
 
 **5、语言级别的正则表达式支持**
 
@@ -50,7 +50,13 @@
 
 ## 支持工具
 
-集成开发环境（IDE）： [GNOME_Builder](../Page/GNOME_Builder.md "wikilink") [Visual Studio Code](../Page/Visual_Studio_Code.md "wikilink")
+集成开发环境（IDE）：
+
+[Visual Studio Code](../Page/Visual_Studio_Code.md "wikilink")（Extension: Vala Code / Vala Language Client + Vala Grammar）
+
+[GNOME_Builder](../Page/GNOME_Builder.md "wikilink")
+
+
 \== 示范代码 == 一个简单的“[Hello world](https://zh.wikipedia.org/wiki/Hello_world "wikilink")”程序：
 
 ``` vala
@@ -168,6 +174,7 @@ namespace Kangaroo.Gui.Contracts
 \== 外部链接 ==
 
   - [The Vala Programming Language](http://live.gnome.org/Vala), on GNOME Live\!
+  - Vala 语言书籍《Introducing Vala Programming》 （[Apress](https://www.apress.com/gp/book/9781484253793) / [Amazon](https://www.amazon.com/Introduction-Vala-Programming-Boost-Productivity/dp/1983202347)）
   - [面向 Java 开发者的Vala 特性介绍](https://wiki.gnome.org/Projects/Vala/ValaForJavaProgrammers)
   - [面向 C\# 开发者的 Vala 特性介绍](https://wiki.gnome.org/Projects/Vala/ValaForCSharpProgrammers)
   - [Benchmark of Vala versus C\# and C](http://code.google.com/p/vala-benchmarks/)
@@ -175,7 +182,7 @@ namespace Kangaroo.Gui.Contracts
   - Vala 的语言服务器（Language Server Protocol）项目： [VLS](https://github.com/benwaffle/vala-language-server)， [GVLS](https://gitlab.gnome.org/esodan/gvls)
   - Vala 语言社区： [The Vala community on GitHub](https://github.com/vala-lang)
   - [Vala 语言案例列表](https://wiki.gnome.org/Projects/Vala/Documentation#Projects_Developed_in_Vala)
-  - [Vala 语言开发的数据库管理工具： KangarooDB](https://github.com/dbkangaroo/kangaroo)
+  - [Vala 语言开发的数据库管理工具： KangarooDB](https://dbkangaroo.github.io/)
   - [Vala 语言库：官方库](https://github.com/GNOME/vala/tree/mainline/vapi)
   - [Vala 语言库：第三方库](https://github.com/GNOME/vala-extra-vapis/)
 

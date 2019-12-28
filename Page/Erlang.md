@@ -846,6 +846,7 @@ Erlang程式員可以使用[惰性求值](../Page/惰性求值.md "wikilink")。
   - [開放電信平台](../Page/開放電信平台.md "wikilink")
   - [WhatsApp](../Page/WhatsApp.md "wikilink")：其后端服务器应用使用了**Erlang**及[FreeBSD](../Page/FreeBSD.md "wikilink")\[7\]。支持了4.5亿的活跃用户
   - [ejabberd](http://www.process-one.net/en/ejabberd/),世界上最流行的[XMPP即时通讯服务器](https://zh.wikipedia.org/wiki/XMPP "wikilink")
+  - [EMQX](https://github.com/emqx/emqx)，以Erlang编写的高可用、分布式MQTT消息服务器。
 
 ## 社区
 

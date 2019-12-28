@@ -38,32 +38,18 @@
 [Category:巡航导弹](https://zh.wikipedia.org/wiki/Category:巡航导弹 "wikilink") [Category:面对面导弹](https://zh.wikipedia.org/wiki/Category:面对面导弹 "wikilink") [Category:中華民國自製飛彈](https://zh.wikipedia.org/wiki/Category:中華民國自製飛彈 "wikilink") [Category:战区外武器](https://zh.wikipedia.org/wiki/Category:战区外武器 "wikilink")
 
 1.  [空穴不來風！中程飛彈「神錘行動」](http://www.ewdefense.com/poman.asp?pno=332)  國防新聞網, 2010/5/24
-
 2.
 3.  [雄二Ｅ射程800公里 涵蓋中國沿海大城](http://www.libertytimes.com.tw/2011/new/jun/28/today-p4.htm), 自由電子報, 2011-6-28
-
 4.  [台灣軍方雄二E導彈量產暫時受阻](http://news.bbc.co.uk/chinese/trad/hi/newsid_7050000/newsid_7050900/7050994.stm), BBC中文網, 2007年10月18日
-
 5.  [臺官員稱：雄風二E可攻港　效果大於炸廣州](http://big5.huaxia.com/tw/sdbd/js/2007/00738077.html)
-
 6.  [台灣軍方雄二E飛彈](http://www.nownews.com/2012/02/13/301-2784778.htm)
-
 7.  [由媒體報導剖析新三彈：雄3超音速反艦飛彈、雄2E攻陸巡弋飛彈和ATBM](http://www.diic.com.tw/comment/9406/940610.htm)
-
 8.
-
 9.
-
 10.
-
 11. [中科院公開雄二E巡弋飛彈「鯤鵬」引擎成果](http://www.stormmediagroup.com/opencms/news/detail/b9a83098-7f61-11e4-a92a-ef2804cba5a1/?uuid=b9a83098-7f61-11e4-a92a-ef2804cba5a1) . [風傳媒](../Page/風傳媒.md "wikilink"). 2014-12-09.
-
 12. [軍事機密曝光？　雄二E部署網友鎖定](https://news.tvbs.com.tw/politics/791)
-
 13. [雄二E指揮車偽裝快遞 網友破解](http://udn.com/NEWS/NATIONAL/NAT1/7682646.shtml)
-
 14. [雄二E指揮車偽裝快遞貨車　網友眼尖破解po網](http://www.nownews.com/2013/02/04/11490-2899984.htm)
-
 15. [雄二E飛彈指管車-偽裝成快遞](http://www.worldjournal.com/view/aTaiwannews/21604484/article-雄二E飛彈指管車-偽裝成快遞)
-
 16. [「特種飛彈」791旅曝光 雄二E部隊徽代表部隊特性](https://udn.com/news/story/10930/2693694)

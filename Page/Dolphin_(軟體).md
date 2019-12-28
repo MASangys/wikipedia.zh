@@ -16,7 +16,7 @@
 
 ## 外部連結
 
-  - [Dolphin官方網站](http://dolphin.kde.org)
+  - [Dolphin官方網站](https://web.archive.org/web/20110324033008/http://dolphin.kde.org/)
   - [Dolphin使用手冊](http://docs.kde.org/stable/en/kdebase-apps/dolphin/index.html)
   - [KDE UserBase上的Dolphin](https://web.archive.org/web/20091008150055/http://userbase.kde.org/Dolphin_\(zh_TW\))
   - [Dolphin教學](https://web.archive.org/web/20091118092138/http://userbase.kde.org/Tutorials/File_Management_\(zh_TW\))

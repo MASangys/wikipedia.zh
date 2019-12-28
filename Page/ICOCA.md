@@ -18,7 +18,7 @@ ICOCA的名稱源於IC Operating CArd的簡稱，音近日語中的[近畿方言
       - [西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）
   - [大阪環狀線](../Page/大阪環狀線.md "wikilink")
   - [櫻島線](../Page/櫻島線.md "wikilink")（JR夢咲線）
-  - [東海道本線](../Page/東海道本線.md "wikilink")（[琵琶湖線](../Page/琵琶湖線.md "wikilink")、[JR京都線](https://zh.wikipedia.org/wiki/JR京都線 "wikilink")、[JR神戶線](../Page/JR神戶線.md "wikilink")）：[米原站](../Page/米原站.md "wikilink") - [京都站](https://zh.wikipedia.org/wiki/京都站 "wikilink") - [神戶站](../Page/神戶站_\(兵庫縣\).md "wikilink")
+  - [東海道本線](../Page/東海道本線.md "wikilink")（[琵琶湖線](../Page/琵琶湖線.md "wikilink")、[JR京都線](https://zh.wikipedia.org/wiki/JR京都線 "wikilink")、[JR神戶線](../Page/JR神戶線.md "wikilink")）：[米原站](../Page/米原站.md "wikilink") - [京都站](../Page/京都站.md "wikilink") - [神戶站](../Page/神戶站_\(兵庫縣\).md "wikilink")
   - [北陸本線](../Page/北陸本線.md "wikilink")（琵琶湖線）：米原站 - [近江鹽津站](https://zh.wikipedia.org/wiki/近江鹽津站 "wikilink")
   - [山陽本線](../Page/山陽本線.md "wikilink")（JR神戶線、[和田岬線](../Page/和田岬線.md "wikilink")）：神戶站 - [相生站](https://zh.wikipedia.org/wiki/相生站_\(兵庫縣\) "wikilink")、[兵庫站](https://zh.wikipedia.org/wiki/兵庫站 "wikilink") - [和田岬站](../Page/和田岬站.md "wikilink")
   - [福知山線](../Page/福知山線.md "wikilink")（JR宝塚線）：[尼崎站](../Page/尼崎站_\(JR西日本\).md "wikilink") - [篠山口站](../Page/篠山口站.md "wikilink")
@@ -42,7 +42,7 @@ ICOCA的名稱源於IC Operating CArd的簡稱，音近日語中的[近畿方言
   - [福鹽線](../Page/福鹽線.md "wikilink")：[福山站](https://zh.wikipedia.org/wiki/福山站 "wikilink") - [神邊站](https://zh.wikipedia.org/wiki/神邊站 "wikilink")
   - [伯備線](../Page/伯備線.md "wikilink")：[倉敷站](../Page/倉敷站.md "wikilink") - [備中高梁站](https://zh.wikipedia.org/wiki/備中高梁站 "wikilink")
   - [吉備線](../Page/吉備線.md "wikilink")
-  - [宇野線](../Page/宇野線.md "wikilink")（[瀨戶大橋線](../Page/瀨戶大橋線.md "wikilink")）：[岡山站](https://zh.wikipedia.org/wiki/岡山站_\(日本\) "wikilink") - [茶屋町站](../Page/茶屋町站.md "wikilink")
+  - [宇野線](../Page/宇野線.md "wikilink")（[瀨戶大橋線](../Page/瀨戶大橋線.md "wikilink")）：[岡山站](../Page/岡山站_\(日本\).md "wikilink") - [茶屋町站](../Page/茶屋町站.md "wikilink")
   - [本四備讚線](../Page/本四備讚線.md "wikilink")（瀨戶大橋線）：茶屋町站 - [兒島站](https://zh.wikipedia.org/wiki/兒島站 "wikilink")
   - [津山線](https://zh.wikipedia.org/wiki/津山線 "wikilink")：岡山站 - [法界院站](https://zh.wikipedia.org/wiki/法界院站 "wikilink")
   - 赤穗線：[長船站](https://zh.wikipedia.org/wiki/長船站 "wikilink") - [東岡山站](https://zh.wikipedia.org/wiki/東岡山站 "wikilink")

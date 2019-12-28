@@ -43,7 +43,7 @@
         安東尼奧的咒術人偶，猴子布偶。使用利用從自己身上發出的黑暗處手操縱週邊刀具的咒術「」。也是在單行本書末第一次提到名字。
 
   -
-    [俄羅斯咒術師](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。搞垮父親的鮭魚工廠，為了輕而易舉獲得名聲而瞄準春瓶。腸子斯基粉碎後因為咒術回報而罹患[盲腸炎](https://zh.wikipedia.org/wiki/盲腸炎 "wikilink")、[十二指腸](https://zh.wikipedia.org/wiki/十二指腸 "wikilink")[潰瘍及併發急性胃炎強制送醫](https://zh.wikipedia.org/wiki/潰瘍 "wikilink")。住院期間落腳處被春瓶發現，因而告訴他其他咒術師的所在。。
+    [俄羅斯咒術師](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。搞垮父親的鮭魚工廠，為了輕而易舉獲得名聲而瞄準春瓶。腸子斯基粉碎後因為咒術回報而罹患[盲腸炎](https://zh.wikipedia.org/wiki/盲腸炎 "wikilink")、[十二指腸](https://zh.wikipedia.org/wiki/十二指腸 "wikilink")[潰瘍](../Page/潰瘍.md "wikilink")及併發急性胃炎強制送醫。住院期間落腳處被春瓶發現，因而告訴他其他咒術師的所在。。
 
       -
         奇爾多斯基的咒術人偶驚奇箱。使用利用封閉空間成為驚奇箱並在開口衝出攻擊的咒術「」，但因為唯一的缺點是會被強制出現，因而造成他的敗北。

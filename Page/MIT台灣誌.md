@@ -58,6 +58,13 @@
 <td><p>每週日中午13:00-14:00</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td></td>
+<td><p>中視(MOD版)</p></td>
+<td><p>2019年7月10日－至今</p></td>
+<td><p>每週一至五17:00-18:00</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

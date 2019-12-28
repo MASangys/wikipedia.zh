@@ -31,7 +31,7 @@ grub4dos最大的成功之处就是既学习了windows的方便易用，又引�
   - [无忧启动论坛GRUB4DOS区](http://bbs.wuyou.net/forum.php?mod=forumdisplay&fid=60)
   - [最新的项目主页](https://github.com/chenall/grub4dos)
   - [下载地址](http://grub4dos.chenall.net/)
-  - [安装指南(英文)](http://diddy.boot-land.net/grub4dos/files/install.htm)
+  - [安装指南(英文)](https://web.archive.org/web/20160301125349/http://diddy.boot-land.net/grub4dos/files/install.htm)
 
 [en:GNU GRUB\#Variants](https://zh.wikipedia.org/wiki/en:GNU_GRUB#Variants "wikilink")
 

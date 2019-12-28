@@ -490,8 +490,8 @@ Ella Gross(模特儿）
   - [田雄](https://zh.wikipedia.org/wiki/田雄 "wikilink")（[AB6IX](../Page/AB6IX.md "wikilink")）
   - [李炳坤](../Page/李炳坤.md "wikilink")（[CIX](../Page/CIX.md "wikilink")）
   - [金昇勳](../Page/金昇勳.md "wikilink")（[CIX](../Page/CIX.md "wikilink")）
-  - 金施勲（[BDC](https://zh.wikipedia.org/wiki/BDC "wikilink")）
-  - 李美談（[CYF](https://zh.wikipedia.org/wiki/CYF "wikilink")）
+  - 金施勲（[BDC](../Page/BDC.md "wikilink")）
+  - 李美談（[CYF](../Page/CYF.md "wikilink")）
 
 <!-- end list -->
 

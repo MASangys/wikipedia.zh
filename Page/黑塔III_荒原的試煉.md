@@ -29,4 +29,4 @@
 
 <File:The> Waste Lands.jpg|台灣《荒原的試煉》封面 [File:The_Waste_Lands1.jpg|中國《荒原》封面](File:The_Waste_Lands1.jpg%7C中國《荒原》封面)
 
-[Category:黑塔小說系列](https://zh.wikipedia.org/wiki/Category:黑塔小說系列 "wikilink") [Category:史蒂芬·金](https://zh.wikipedia.org/wiki/Category:史蒂芬·金 "wikilink") [Category:1991年小說](https://zh.wikipedia.org/wiki/Category:1991年小說 "wikilink") [Category:1991年美國小說](https://zh.wikipedia.org/wiki/Category:1991年美國小說 "wikilink")
+[Category:黑塔小說系列](https://zh.wikipedia.org/wiki/Category:黑塔小說系列 "wikilink") [Category:史蒂芬·金](https://zh.wikipedia.org/wiki/Category:史蒂芬·金 "wikilink") [Category:1991年长篇小说](https://zh.wikipedia.org/wiki/Category:1991年长篇小说 "wikilink") [Category:1991年美國小說](https://zh.wikipedia.org/wiki/Category:1991年美國小說 "wikilink")

@@ -18,7 +18,7 @@ rekonq包括分頁瀏覽、書籤、彈出窗口攔截器、KDE鍵盤網絡快�
 
 ## 外部連結
 
-  - [rekonq專案首頁](http://rekonq.kde.org/)
+  - [rekonq專案首頁](https://web.archive.org/web/20110501081846/http://rekonq.kde.org/)
   - [rekonq在Gitorious上的原始碼](https://web.archive.org/web/20090831191411/http://gitorious.org/rekonq)
   - [在KDE-Apps上的rekonq](http://www.kde-apps.org/content/show.php/rekonq+Web+Browser?content=94258)
   - [在bugs.kde.org上的rekonq](https://bugs.kde.org/buglist.cgi?quicksearch=rekonq)

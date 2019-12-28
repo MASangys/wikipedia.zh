@@ -1,4 +1,4 @@
-**Fuck**是个著名的[英语](../Page/英语.md "wikilink")[脏话](https://zh.wikipedia.org/wiki/脏话 "wikilink")，常委婉地写成**f××k**、**法克**或**F word**。意思是[性交](../Page/性交.md "wikilink")，与[中文的](https://zh.wikipedia.org/wiki/中文 "wikilink")“[肏](https://zh.wikipedia.org/wiki/肏 "wikilink")”（ㄘㄠˋ/cào）、[河南话的](https://zh.wikipedia.org/wiki/河南话 "wikilink")“[尻](https://zh.wikipedia.org/wiki/尻 "wikilink")”\[1\]、[閩南語泉漳話的](https://zh.wikipedia.org/wiki/泉漳話 "wikilink")“[姦](https://zh.wikipedia.org/wiki/干你娘 "wikilink")”（-{幹}-）、[閩南語潮汕話的](https://zh.wikipedia.org/wiki/潮汕话 "wikilink")“[扑](https://zh.wikipedia.org/wiki/扑 "wikilink")”、[四川话的](https://zh.wikipedia.org/wiki/四川话 "wikilink")“[日](https://zh.wikipedia.org/wiki/日_\(消歧义\) "wikilink")\[2\]”。
+**Fuck**是个著名的[英语](../Page/英语.md "wikilink")[脏话](https://zh.wikipedia.org/wiki/脏话 "wikilink")，常委婉地写成**f××k**、**法克**或**F word**。意思是[性交](../Page/性交.md "wikilink")，与[中文的](https://zh.wikipedia.org/wiki/中文 "wikilink")“[肏](https://zh.wikipedia.org/wiki/肏 "wikilink")”（ㄘㄠˋ/cào）、[河南话的](https://zh.wikipedia.org/wiki/河南话 "wikilink")“[尻](https://zh.wikipedia.org/wiki/尻 "wikilink")”\[1\]、[閩南語泉漳話的](https://zh.wikipedia.org/wiki/泉漳話 "wikilink")“[（-{幹}-）](https://zh.wikipedia.org/wiki/干你娘 "wikilink")”、[閩南語潮汕話的](https://zh.wikipedia.org/wiki/潮汕话 "wikilink")“[扑](https://zh.wikipedia.org/wiki/扑 "wikilink")”、[四川话的](https://zh.wikipedia.org/wiki/四川话 "wikilink")“[日](https://zh.wikipedia.org/wiki/日_\(消歧义\) "wikilink")\[2\]”。
 
 ## 和Fuck有關的常見詞語
 
@@ -16,10 +16,10 @@
 <!-- end list -->
 
   -
-    華語：「他媽的怎麼了」、「搞什麼」；[臺灣話](../Page/臺灣閩南語髒話.md "wikilink")：「創啥洨」（國語諧音「衝三小」）、「啥洨」（國語諧音「殺小」）。
+    華語：「他媽的怎麼了」、「搞什麼」；[台語](../Page/臺灣閩南語髒話.md "wikilink")：「創啥潲」（國語諧音「衝三小」）、「啥潲」（國語諧音「殺小」）。
     美國英語：「Fucking good」太好了。
     美國英語：「Fucking shit」太糟了。
-    英國英語：「just Fuck it」管他的。
+    英國英語：「just Fuck it」管他的、去他的。
 
 ## 歷史及來源
 

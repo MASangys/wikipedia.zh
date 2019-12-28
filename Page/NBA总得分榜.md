@@ -1,4 +1,4 @@
-本列表統計的是**國家籃球協會（[NBA](../Page/NBA.md "wikilink")）球員個人職業生涯[常規賽得分總和](https://zh.wikipedia.org/wiki/NBA常規賽 "wikilink")**，NBA球員在其它聯賽（如[ABA](https://zh.wikipedia.org/wiki/ABA "wikilink")）中的數據並不包括在內。所有数据\[1\]都是截至到2019年4月10日。
+本列表統計的是**國家籃球協會（[NBA](../Page/NBA.md "wikilink")）球員個人職業生涯[常規賽得分總和](https://zh.wikipedia.org/wiki/NBA常規賽 "wikilink")**，NBA球員在其它聯賽（如[ABA](https://zh.wikipedia.org/wiki/ABA "wikilink")）中的數據並不包括在內。所有數據\[1\]都是截至到2019年12月21日。
 
 [Kareem-Abdul-Jabbar_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Kareem-Abdul-Jabbar_Lipofsky.jpg "fig:Kareem-Abdul-Jabbar_Lipofsky.jpg")\]\] [Lipofsky-Karl-Malone-32727.jpg](https://zh.wikipedia.org/wiki/File:Lipofsky-Karl-Malone-32727.jpg "fig:Lipofsky-Karl-Malone-32727.jpg")\]\] [Kobe_Bryant_Drives2.jpg](https://zh.wikipedia.org/wiki/File:Kobe_Bryant_Drives2.jpg "fig:Kobe_Bryant_Drives2.jpg")\]\] [_Lebron_James.jpg](https://zh.wikipedia.org/wiki/File:_Lebron_James.jpg "fig:_Lebron_James.jpg")\]\] [Jordan_by_Lipofsky_16577.jpg](https://zh.wikipedia.org/wiki/File:Jordan_by_Lipofsky_16577.jpg "fig:Jordan_by_Lipofsky_16577.jpg")\]\] [DirkNowitzki.jpg](https://zh.wikipedia.org/wiki/File:DirkNowitzki.jpg "fig:DirkNowitzki.jpg")\]\]
 
@@ -73,12 +73,12 @@
 （<a href="../Page/2014-15_NBA賽季.md" title="wikilink">2014-15</a>—<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a><br />
 （<a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19</a>--[5]）</p></td>
-<td><p><font color="#007FFF"><strong>33,008</strong></font></p></td>
-<td><p>1,198</p></td>
-<td><p>11,838</p></td>
-<td><p>1,727</p></td>
-<td><p>7,140</p></td>
-<td><p><font color="#007FFF"><strong>27.2</strong></font></p></td>
+<td><p><font color="#007FFF"><strong>33,290</strong></font></p></td>
+<td><p>1,227</p></td>
+<td><p>12,127</p></td>
+<td><p>1,791</p></td>
+<td><p>7,245</p></td>
+<td><p><font color="#007FFF"><strong>27.1</strong></font></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -326,13 +326,33 @@
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/卡梅隆·安东尼" title="wikilink">卡梅隆·安东尼</a>^</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小前鋒" title="wikilink">小前鋒</a><br />
+<a href="https://zh.wikipedia.org/wiki/大前鋒" title="wikilink">大前鋒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/丹佛金塊" title="wikilink">丹佛金塊</a><br />
+（<a href="https://zh.wikipedia.org/wiki/2003-04_NBA賽季" title="wikilink">2003-04</a>--<a href="https://zh.wikipedia.org/wiki/2010-11_NBA赛季" title="wikilink">2010-11</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/紐約尼克斯" title="wikilink">紐約尼克斯</a><br />
+（<a href="../Page/2010-11_NBA賽季.md" title="wikilink">2010-11</a>--<a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17</a>） <a href="https://zh.wikipedia.org/wiki/俄克拉荷马雷霆" title="wikilink">俄克拉荷马雷霆</a><br />
+（<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>—2017-18[16]）</p>
+<p><a href="https://zh.wikipedia.org/wiki/波特蘭拓荒者" title="wikilink">波特蘭拓荒者</a></p>
+<p>（2019-2020--）</p></td>
+<td><p><font color="#007FFF"><strong>25,786</strong></font></p></td>
+<td><p>1,078</p></td>
+<td><p>9,225</p></td>
+<td><p>1,386</p></td>
+<td><p>5,950</p></td>
+<td><p><font color="#007FFF"><strong>23.9</strong></font></p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>19</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/阿历克斯·英格利什" title="wikilink">阿历克斯·英格利什</a>*</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/小前鋒" title="wikilink">小前鋒</a><br />
 <a href="https://zh.wikipedia.org/wiki/大前鋒" title="wikilink">大前鋒</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/密爾瓦基公鹿" title="wikilink">密爾瓦基公鹿</a><br />
 （<a href="https://zh.wikipedia.org/wiki/1976-77_NBA賽季" title="wikilink">1976-77</a>--<a href="https://zh.wikipedia.org/wiki/1977-78_NBA賽季" title="wikilink">1977-78</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/印第安那溜馬" title="wikilink">印第安那溜馬</a><br />
-（<a href="https://zh.wikipedia.org/wiki/1978-79_NBA賽季" title="wikilink">1978-79</a>--<a href="https://zh.wikipedia.org/wiki/1979-80_NBA賽季" title="wikilink">1979-80</a>[16]）<br />
+（<a href="https://zh.wikipedia.org/wiki/1978-79_NBA賽季" title="wikilink">1978-79</a>--<a href="https://zh.wikipedia.org/wiki/1979-80_NBA賽季" title="wikilink">1979-80</a>[17]）<br />
 <a href="https://zh.wikipedia.org/wiki/丹佛金塊" title="wikilink">丹佛金塊</a><br />
 （<a href="https://zh.wikipedia.org/wiki/1979-80_NBA賽季" title="wikilink">1979-80</a>--<a href="https://zh.wikipedia.org/wiki/1989-90_NBA賽季" title="wikilink">1989-90</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/達拉斯小牛" title="wikilink">達拉斯小牛</a><br />
@@ -344,24 +364,6 @@
 <td><p>4,277</p></td>
 <td><p><font color="#007FFF"><strong>21.5</strong></font></p></td>
 <td><p>1997年</p></td>
-</tr>
-<tr class="even">
-<td><p>19</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/卡梅隆·安东尼" title="wikilink">卡梅隆·安东尼</a>^</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小前鋒" title="wikilink">小前鋒</a><br />
-<a href="https://zh.wikipedia.org/wiki/大前鋒" title="wikilink">大前鋒</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/丹佛金塊" title="wikilink">丹佛金塊</a><br />
-（<a href="https://zh.wikipedia.org/wiki/2003-04_NBA賽季" title="wikilink">2003-04</a>--<a href="https://zh.wikipedia.org/wiki/2010-11_NBA赛季" title="wikilink">2010-11</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/紐約尼克斯" title="wikilink">紐約尼克斯</a><br />
-（<a href="../Page/2010-11_NBA賽季.md" title="wikilink">2010-11</a>--<a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17</a>） <a href="https://zh.wikipedia.org/wiki/俄克拉荷马雷霆" title="wikilink">俄克拉荷马雷霆</a><br />
-（<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>—2017-18[17]）</p></td>
-<td><p><font color="#007FFF"><strong>25,551</strong></font></p></td>
-<td><p>1,064</p></td>
-<td><p>9,137</p></td>
-<td><p>1,362</p></td>
-<td><p>5,915</p></td>
-<td><p><font color="#007FFF"><strong>24.0</strong></font></p></td>
-<td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
@@ -382,12 +384,12 @@
 （<a href="../Page/2014-15_NBA賽季.md" title="wikilink">2014-15</a>--<a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17</a>） <a href="https://zh.wikipedia.org/wiki/萨克拉门托国王" title="wikilink">萨克拉门托国王</a><br />
 （<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>[18]）</p>
 <p><a href="../Page/亚特兰大老鹰.md" title="wikilink">亞特蘭大老鷹</a>(<a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19</a>)</p></td>
-<td><p><font color="#007FFF"><strong>25,430</strong></font></p></td>
-<td><p>1,481</p></td>
-<td><p>9,186</p></td>
-<td><p>2,229</p></td>
-<td><p>4,829</p></td>
-<td><p><font color="#007FFF"><strong>17.3</strong></font></p></td>
+<td><p><font color="#007FFF"><strong>25,568</strong></font></p></td>
+<td><p>1,504</p></td>
+<td><p>9,237</p></td>
+<td><p>2,257</p></td>
+<td><p>4,837</p></td>
+<td><p><font color="#007FFF"><strong>17.0</strong></font></p></td>
 <td><p>|-</p></td>
 </tr>
 <tr class="even">
@@ -1972,8 +1974,8 @@ color="#007FFF"><strong>18.2</strong></font></p></td>
 13. [華盛頓子彈在](https://zh.wikipedia.org/wiki/華盛頓子彈 "wikilink")[1972-73賽季前稱巴爾的摩子彈](https://zh.wikipedia.org/wiki/1972-73_NBA賽季 "wikilink")，[1973-74賽季稱首都子彈](https://zh.wikipedia.org/wiki/1973-74_NBA賽季 "wikilink")。
 14. [1993-94賽季中途](https://zh.wikipedia.org/wiki/1993-94_NBA賽季 "wikilink")[多米尼克·威爾金斯被交換到](https://zh.wikipedia.org/wiki/多米尼克·威爾金斯 "wikilink")[洛杉磯快艇](https://zh.wikipedia.org/wiki/洛杉磯快艇 "wikilink")。
 15.
-16. [1979-80賽季中途](https://zh.wikipedia.org/wiki/1979-80_NBA賽季 "wikilink")[艾力克斯·英格利許被交換到](https://zh.wikipedia.org/wiki/艾力克斯·英格利許 "wikilink")[丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")。
-17.
+16.
+17. [1979-80賽季中途](https://zh.wikipedia.org/wiki/1979-80_NBA賽季 "wikilink")[艾力克斯·英格利許被交換到](https://zh.wikipedia.org/wiki/艾力克斯·英格利許 "wikilink")[丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")。
 18.
 19. [2006-07賽季中途](https://zh.wikipedia.org/wiki/2006-07_NBA賽季 "wikilink")[艾倫·艾佛森](../Page/艾倫·艾佛森.md "wikilink")被交換到[丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")。
 20. [2008-09賽季中途](https://zh.wikipedia.org/wiki/2008-09_NBA賽季 "wikilink")[艾倫·艾佛森](../Page/艾倫·艾佛森.md "wikilink")被交換到[底特律活塞](../Page/底特律活塞.md "wikilink")。

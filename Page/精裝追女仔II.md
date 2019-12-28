@@ -9,24 +9,24 @@
 | 演員                                                       | 角色          | 粵語配音                                                |
 | -------------------------------------------------------- | ----------- | --------------------------------------------------- |
 | [劉德華](../Page/劉德華.md "wikilink")                         | 劉備          | [李學斌](https://zh.wikipedia.org/wiki/李學斌 "wikilink") |
-| [陳百祥](../Page/陳百祥.md "wikilink")                         | 交通燈         | 陳百祥                                                 |
+| [陳百祥](../Page/陳百祥.md "wikilink")                         | 交通燈         | [陳百祥](../Page/陳百祥.md "wikilink")                    |
 | [曾志偉](../Page/曾志偉.md "wikilink")                         | 吳準少         | [馮永和](../Page/馮永和.md "wikilink")                    |
-| [馮粹帆](https://zh.wikipedia.org/wiki/馮粹帆 "wikilink")      | 劉定堅/陳自堅     | 馮粹帆                                                 |
+| [馮粹帆](https://zh.wikipedia.org/wiki/馮粹帆 "wikilink")      | 劉定堅/陳自堅     | [馮粹帆](https://zh.wikipedia.org/wiki/馮粹帆 "wikilink") |
 | [李美鳳](../Page/李美鳳.md "wikilink")                         | 程寶珠         | [盧素娟](../Page/盧素娟.md "wikilink")                    |
 | [劉嘉玲](https://zh.wikipedia.org/wiki/劉嘉玲 "wikilink")      | 芳芳          | [龍寶鈿](../Page/龍寶鈿.md "wikilink")                    |
 | [顏寧](https://zh.wikipedia.org/wiki/顏寧 "wikilink")        | 家燕          |                                                     |
-| [黃韻詩](https://zh.wikipedia.org/wiki/黃韻詩 "wikilink")      | 十三妹         | 黃韻詩                                                 |
-| [盧海鵬](../Page/盧海鵬.md "wikilink")                         | 老周/老周電視台老闆  | 盧海鵬                                                 |
+| [黃韻詩](https://zh.wikipedia.org/wiki/黃韻詩 "wikilink")      | 十三妹         | [黃韻詩](https://zh.wikipedia.org/wiki/黃韻詩 "wikilink") |
+| [盧海鵬](../Page/盧海鵬.md "wikilink")                         | 老周/老周電視台老闆  | [盧海鵬](../Page/盧海鵬.md "wikilink")                    |
 | [王晶](https://zh.wikipedia.org/wiki/王晶_\(導演\) "wikilink") | 西門慶/發達台台長   | [陳永信](../Page/陳永信.md "wikilink")                    |
 | [許英秀](../Page/許英秀.md "wikilink")                         | 阿Sir/發達台董事長 | [金貴](../Page/金貴.md "wikilink")                      |
 | [梁克信](../Page/梁克信.md "wikilink")                         | 司徒銘議員       | [朱子聰](../Page/朱子聰.md "wikilink")                    |
 | [曹查理](../Page/曹查理.md "wikilink")                         | 曾公子         | [楊捷康](https://zh.wikipedia.org/wiki/楊捷康 "wikilink") |
 | [冼灝英](../Page/冼灝英.md "wikilink")                         | 懲教署職員（客串）   | [楊捷康](https://zh.wikipedia.org/wiki/楊捷康 "wikilink") |
-| [何家駒](../Page/何家駒.md "wikilink")                         | 大咪（客串）      | 金貴                                                  |
+| [何家駒](../Page/何家駒.md "wikilink")                         | 大咪（客串）      | [金貴](../Page/金貴.md "wikilink")                      |
 | [余慕蓮](../Page/余慕蓮.md "wikilink")                         | 電話亭婦人（客串）   |                                                     |
 | [譚詠麟](../Page/譚詠麟.md "wikilink")                         | 譚詠麟（客串）     |                                                     |
-| [周潤發](https://zh.wikipedia.org/wiki/周潤發 "wikilink")      | 王日發/爛口發（客串） | 周潤發                                                 |
-| [黎小田](../Page/黎小田.md "wikilink")                         | 歌唱評審黎小田（客串） | 黎小田                                                 |
+| [周潤發](https://zh.wikipedia.org/wiki/周潤發 "wikilink")      | 王日發/爛口發（客串） | [周潤發](https://zh.wikipedia.org/wiki/周潤發 "wikilink") |
+| [黎小田](../Page/黎小田.md "wikilink")                         | 歌唱評審黎小田（客串） | [黎小田](../Page/黎小田.md "wikilink")                    |
 
 ## 電影歌曲
 

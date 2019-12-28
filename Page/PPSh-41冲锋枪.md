@@ -1,4 +1,4 @@
-[Lei_Feng_1.jpg](https://zh.wikipedia.org/wiki/File:Lei_Feng_1.jpg "fig:Lei_Feng_1.jpg") [Mémorial_uniforme_soviétique_WWII.JPG](https://zh.wikipedia.org/wiki/File:Mémorial_uniforme_soviétique_WWII.JPG "fig:Mémorial_uniforme_soviétique_WWII.JPG") [Berlin_Treptow_Ehrenmal_12.jpg](https://zh.wikipedia.org/wiki/File:Berlin_Treptow_Ehrenmal_12.jpg "fig:Berlin_Treptow_Ehrenmal_12.jpg")的無名戰士紀念碑。\]\] **PPSh-41**（／PPSh，，羅馬化：*Pistolet-Pulemyot Shpagina，*意為**什帕金1941型冲锋枪**），又称「**波波沙**」（）和「**飽嗝槍**」（）是一款由[苏联](../Page/苏联.md "wikilink")在[二战期間研製及生產的](../Page/第二次世界大战.md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")，發射[7.62×25毫米托卡列夫](../Page/7.62×25mm托卡列夫手槍彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+[Lei_Feng_1.jpg](https://zh.wikipedia.org/wiki/File:Lei_Feng_1.jpg "fig:Lei_Feng_1.jpg") [Mémorial_uniforme_soviétique_WWII.JPG](https://zh.wikipedia.org/wiki/File:Mémorial_uniforme_soviétique_WWII.JPG "fig:Mémorial_uniforme_soviétique_WWII.JPG") [Berlin_Treptow_Ehrenmal_12.jpg](https://zh.wikipedia.org/wiki/File:Berlin_Treptow_Ehrenmal_12.jpg "fig:Berlin_Treptow_Ehrenmal_12.jpg")的無名戰士紀念碑。\]\] **PPSh-41**（／PPSh，，羅馬化：*Pistolet-Pulemyot Shpagina，*意為**什帕金1941型冲锋枪**），又称「**波波沙**」（）和「**飽嗝槍**」（）是一款由[苏联](../Page/苏联.md "wikilink")在[二战期間所研製及生產的](../Page/第二次世界大战.md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")，發射[7.62×25毫米托卡列夫](../Page/7.62×25mm托卡列夫手槍彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 它是苏联在二战期间生产数量最多的武器。设计该枪的目的是以一款较為廉价的近距离速射武器取代造价高昂工艺复杂的[PPD-40冲锋枪](../Page/PPD-40冲锋枪.md "wikilink")与[PPD-1938冲锋枪](../Page/PPD-40冲锋枪.md "wikilink")。PPSh是一枝使用[開放式槍栓](../Page/開放式槍栓.md "wikilink")（自由枪机）、[反沖作用操作的可選射自動武器](../Page/反沖作用_\(槍械\).md "wikilink")。
 
@@ -20,9 +20,9 @@ PPSh-41在戰場上是一件耐用、需要較少維護的武器，這種武器�
 
 蘇聯常常整排地装备此槍，使他們在近距离上取得無法比擬的火力优势。數千枝PPSh-41更曾經空降至敵後戰線，並且在大量游击队之中裝備以切斷德國的[补给线和](https://zh.wikipedia.org/wiki/补给线 "wikilink")[通信](../Page/通信.md "wikilink")系統。雖然由于弹鼓有过重的缺点（有苏联士兵回忆称他们宁愿选用MP40），從1942年開始出现了35發彎形[彈匣](../Page/彈匣.md "wikilink")，但是大多数步兵仍然愿意保留一个較大[子彈](../Page/子彈.md "wikilink")容量的[彈鼓](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")。\[6\]PPSh-41的彈鼓是仿製自[芬兰](../Page/芬兰.md "wikilink")[索米冲锋枪的](https://zh.wikipedia.org/wiki/索米冲锋枪 "wikilink")71發可卸式彈鼓，但在實際使用中如果装载的子弹数多于65发，射击时可能会出现卡壳的情況，所以一般只装填65發左右的子彈。\[7\] 德國士兵尤其喜愛使用這些被缴获的PPSh-41。相比之下，德军装备的MP40冲锋枪虽然没有特别之处，但由于使用71发弹鼓，容量比32发弹匣高出将近一倍。由於[TT-33的](../Page/TT手槍.md "wikilink")[7.62×25毫米托卡列夫手槍彈和](../Page/7.62×25mm托卡列夫手槍彈.md "wikilink")[毛瑟C96手槍](../Page/毛瑟C96手槍.md "wikilink")的[7.63×25毫米毛瑟彈有很多相似之處](https://zh.wikipedia.org/wiki/7.63×25mm毛瑟彈 "wikilink")，所以PPsh-41可以很容易地使用德国[子彈](../Page/子彈.md "wikilink")。事實上，由于PPSh-41被大量缴获，它成為[德國軍隊採用的第二常見的冲锋枪](https://zh.wikipedia.org/wiki/德國軍隊 "wikilink")。此外，德国亦试图將该武器[口徑轉換](https://zh.wikipedia.org/wiki/口徑 "wikilink")[9×19毫米口徑子彈以使之更符合德國标准](../Page/9×19mm魯格彈.md "wikilink")。不久，德军士兵们都得到了一套可将PPSh-41改造成发射9毫米枪弹的工具。被改成9毫米标准的PPSh-41甚至获得了一个[德意志國防軍](../Page/德意志國防軍.md "wikilink")的编号MP41（r）；而未轉換口徑的PPSh-41被称为MP717（r）。德意志國防軍亦印刷和分发如何使用缴获的PPSh的[德文手冊](../Page/德语.md "wikilink")。\[8\]
 
-蘇聯也嘗試過將PPSh-41作為[近距離空中支援](../Page/密接支援.md "wikilink")武器的用途，在[圖波列夫Tu-2](../Page/圖-2轟炸機.md "wikilink")[轰炸机](../Page/轰炸机.md "wikilink")的衍生型Tu-2Sh的機身機架前端安裝了合共48枝衝鋒槍。\[9\]
+蘇聯也嘗試過將PPSh-41用作[密接空中支援](../Page/密接支援.md "wikilink")武器的用途，在[圖波列夫Tu-2](../Page/圖-2轟炸機.md "wikilink")[轰炸机](../Page/轰炸机.md "wikilink")的衍生型Tu-2Sh的機身架前端搭載了合共48枝該型衝鋒槍。\[9\]
 
-戰爭期間出现了[PPS衝鋒槍](../Page/PPS衝鋒槍.md "wikilink")，一种更加简单的衝鋒槍。该枪在波波莎冲锋枪的基础上进一步简化，甚至取消了快慢机，只能连发射击。在[二战期間](../Page/第二次世界大战.md "wikilink")，蘇聯红军亦有装备了PPS-43，但它並沒有取代PPSh-41。
+戰爭期間出现了[PPS衝鋒槍](../Page/PPS衝鋒槍.md "wikilink")，一款結構更為简单的衝鋒槍。该枪在波波莎冲锋枪的基础以上进一步简化，甚至取消了快慢机，只能全自動射击。在[二战期間](../Page/第二次世界大战.md "wikilink")，蘇聯红军亦有装备了PPS-43，但它並未能取代掉PPSh-41。
 
 ### 朝鲜战争
 
@@ -226,7 +226,7 @@ PPSh-41普遍的出現在描繪二次大戰[蘇德戰爭的作品](../Page/苏�
 
   - —[Энциклопедия Вооружений－ППШ-41 (Пистолет - Пулемёт Шпагина)](http://gunsite.narod.ru/ppsh41.htm)
 
-  - —[轻兵器—长风扫敌顽――中国1950年式7.62mm冲锋枪](http://www.xzbu.com/8/view-1052131.htm)
+  - —[轻兵器—长风扫敌顽――中国1950年式7.62mm冲锋枪](https://web.archive.org/web/20140307063133/http://www.xzbu.com/8/view-1052131.htm)
 
   - —[人民網—沖鋒槍：PPsh-41沖鋒槍](http://military.people.com.cn/BIG5/172467/16791455.html)
 

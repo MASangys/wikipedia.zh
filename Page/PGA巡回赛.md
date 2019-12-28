@@ -731,7 +731,7 @@ Children's Miracle Network Classic</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2008年高尔夫" title="wikilink">2008</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/维杰·辛格" title="wikilink">维杰·辛格</a>（Vijay Singh）</p></td>
+<td><p><a href="../Page/维杰·辛格.md" title="wikilink">维杰·辛格</a>（Vijay Singh）</p></td>
 <td><p>6,601,094</p></td>
 <td><p>4: <a href="https://zh.wikipedia.org/wiki/泰格·伍兹" title="wikilink">泰格·伍兹</a>（Tiger Woods）</p></td>
 </tr>
@@ -1120,7 +1120,7 @@ Children's Miracle Network Classic</p></td>
 </tr>
 <tr class="even">
 <td><p>1945</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/拜伦·尼尔森" title="wikilink">拜伦·尼尔森</a>（Byron Nelson）</p></td>
+<td><p><a href="../Page/拜伦·尼尔森.md" title="wikilink">拜伦·尼尔森</a>（Byron Nelson）</p></td>
 <td><p>63,336</p></td>
 <td><p>18:拜伦·尼尔森</p></td>
 </tr>
@@ -1315,7 +1315,7 @@ Children's Miracle Network Classic</p></td>
 
 1.  1991年单赛季获得2次冠军的球员：[比利·安德拉德](https://zh.wikipedia.org/wiki/比利·安德拉德 "wikilink")（Billy Andrade）、[马克·布鲁克斯](https://zh.wikipedia.org/wiki/马克·布鲁克斯 "wikilink")（Mark Brooks）、[弗雷德·卡波斯](https://zh.wikipedia.org/wiki/弗雷德·卡波斯 "wikilink")（Fred Couples）、[安德鲁·玛吉](https://zh.wikipedia.org/wiki/安德鲁·玛吉 "wikilink")（Andrew Magee）、[科里·帕文](https://zh.wikipedia.org/wiki/科里·帕文 "wikilink")（Corey Pavin）、尼克·普莱斯、[汤姆·普茨尔](https://zh.wikipedia.org/wiki/汤姆·普茨尔 "wikilink")（Tom Purtzer）、[伊安·沃斯纳姆](https://zh.wikipedia.org/wiki/伊安·沃斯纳姆 "wikilink")（Ian Woosnam）
 2.  1983年单赛季获得2次冠军的球员：[塞維·巴勒斯特羅](https://zh.wikipedia.org/wiki/塞維·巴勒斯特羅 "wikilink")（Seve Ballesteros）、[吉姆·科博特](https://zh.wikipedia.org/wiki/吉姆·科博特 "wikilink")（Jim Colbert）、[马克·麦克卡波尔](https://zh.wikipedia.org/wiki/马克·麦克卡波尔 "wikilink")（Mark McCumber）、[吉尔·摩根](https://zh.wikipedia.org/wiki/吉尔·摩根 "wikilink")（Gil Morgan）、卡尔文·皮特、[豪尔·萨顿](https://zh.wikipedia.org/wiki/豪尔·萨顿 "wikilink")（Hal Sutton）、兰尼·沃德金斯、[福兹·佐勒尔](https://zh.wikipedia.org/wiki/福兹·佐勒尔 "wikilink")（Fuzzy Zoeller）
-3.  1969年单赛季获得3次冠军的球员：比利·加士柏、[雷蒙德·弗洛伊德](https://zh.wikipedia.org/wiki/雷蒙德·弗洛伊德 "wikilink")（Raymond Floyd）、[戴夫·希尔](https://zh.wikipedia.org/wiki/戴夫·希尔 "wikilink")（Dave Hill）、杰克·尼克劳斯
+3.  1969年单赛季获得3次冠军的球员：比利·加士柏、[雷蒙德·弗洛伊德](../Page/雷蒙德·弗洛伊德.md "wikilink")（Raymond Floyd）、[戴夫·希尔](https://zh.wikipedia.org/wiki/戴夫·希尔 "wikilink")（Dave Hill）、杰克·尼克劳斯
 
 ### 获得奖金榜冠军次数的排名
 
@@ -1449,7 +1449,7 @@ Children's Miracle Network Classic</p></td>
 </tr>
 <tr class="even">
 <td><p>2004</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/维杰·辛格" title="wikilink">维杰·辛格</a></p></td>
+<td><p><a href="../Page/维杰·辛格.md" title="wikilink">维杰·辛格</a></p></td>
 <td><p>维杰·辛格</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/托德·汉密尔顿" title="wikilink">托德·汉密尔顿</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/约翰·达利" title="wikilink">约翰·达利</a></p></td>
@@ -1720,7 +1720,7 @@ Children's Miracle Network Classic</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/维杰·辛格" title="wikilink">维杰·辛格</a>（Vijay Singh）</p></td>
+<td><p><a href="../Page/维杰·辛格.md" title="wikilink">维杰·辛格</a>（Vijay Singh）</p></td>
 <td></td>
 <td><p>61,764,359</p></td>
 </tr>

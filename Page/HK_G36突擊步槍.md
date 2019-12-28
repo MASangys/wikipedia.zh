@@ -251,8 +251,8 @@ G36的準確度雖然不錯，但並非最精準的，從100公尺外以半自�
 
 出口型G36E的瞄具為1.5倍光學瞄準鏡，而G36C則採用M1913型戰術導軌（備有機械照門），可在導軌上安裝其他瞄準鏡。
 
-Image:HKV G36.jpg|G36的3倍光學瞄準鏡及內紅點瞄準鏡 Image:HKG36Reticle.svg|G36及G36K光學瞄準鏡分劃圖
-<small>（按圖觀看說明）</small> Image:HK G36 with AG36.jpg|裝上[AG36及LLM](../Page/HK_AG36附加型榴彈發射器.md "wikilink")01雷射指示器的G36 Image:AN-PAS-13B (V2) Thermal Weapon Sight (TWS).jpg|G36的AN/PAS-13B（V2）熱影像鏡
+<File:HKV> G36.jpg|G36的3倍光學瞄準鏡及內紅點瞄準鏡 [File:HKG36Reticle.svg|G36及G36K光學瞄準鏡分劃圖](File:HKG36Reticle.svg%7CG36及G36K光學瞄準鏡分劃圖)
+<small>（按圖觀看說明）</small> <File:HK> G36 with AG36.jpg|裝上[AG36及LLM](../Page/HK_AG36附加型榴彈發射器.md "wikilink")01雷射指示器的G36 <File:AN-PAS-13B> (V2) Thermal Weapon Sight (TWS).jpg|G36的AN/PAS-13B（V2）熱影像鏡
 
 ## 衍生型
 
@@ -496,8 +496,10 @@ G36系列也出現在許多電影、電視劇、電子遊戲和動畫當中，�
   - 2016年—《[湯姆克蘭西：全境封鎖](../Page/湯姆克蘭西：全境封鎖.md "wikilink")》(Tom Clancy's The Division): 型號為軍用G36, 加強型G36 與 G36C,於1.3 改版時加入,歸類為突擊步槍
   - 2016年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：型號為G36和G36C、MG36的少女戰術人形，G36被歸類為突擊步槍，而G36C被歸類為衝鋒槍，MG36則是機槍，三個戰術人形在遊戲中為姐妹關係。
   - 2017年—《[硝云弹雨](https://zh.wikipedia.org/wiki/硝云弹雨 "wikilink")》（Ballistic Overkill）：型号为MG36，作为“冲锋队”职业可用武器之姿出现，命名为“鳏夫”，使用原厂瞄准镜、[C-Mag弹鼓装弹并加装](https://zh.wikipedia.org/wiki/C-Mag弹鼓 "wikilink")[消音器](../Page/抑制器.md "wikilink")，在冲锋队职业等级达到17级时可解锁并使用。
+  - 2017年— 《[火線獵殺：野境](../Page/火線獵殺：野境.md "wikilink")》：命名為「G36C」，型號為G36C，可使用各類配件進行改裝。
   - 2018年—《[絕地求生](../Page/絕地求生.md "wikilink")》（*PlayerUnknown's Battlegrounds*）會在最新的雪地地圖刷新G36C, 目前是在體驗服將在2018年12月19日(三)跟新正式版.裝彈量為30（擴容後為40），可配備：所有突擊步槍槍口及彈匣、所有握把、紅點瞄準鏡、全息瞄準鏡、6倍及以下高倍瞄準鏡。
   - 2019年—《[湯姆克蘭西：全境封鎖2](../Page/湯姆克蘭西：全境封鎖2.md "wikilink")》(Tom Clancy's The Division 2)：以軍用G36的名稱登場。
+  - 2019年— 《[火線獵殺：絕境](../Page/幽灵行动：断点.md "wikilink")》：命名為「G36C」及「G36C斥侯型」，型號分別為G36K及裝上SL8提把的G36，可使用各類配件進行改裝。
 
 ### [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")
 
@@ -532,7 +534,7 @@ G36系列也出現在許多電影、電視劇、電子遊戲和動畫當中，�
   - [StG-940](../Page/StG-940突擊步槍.md "wikilink")
   - [各國軍隊制式步槍列表](../Page/各國軍隊制式步槍列表.md "wikilink")
   - [HK SL8](../Page/HK_SL8半自動步槍.md "wikilink")
-  - [T36步槍](https://zh.wikipedia.org/wiki/T36步槍 "wikilink")
+  - [T36步槍](../Page/T36步槍.md "wikilink")
 
 ## 外部链接
 
@@ -601,7 +603,7 @@ G36系列也出現在許多電影、電視劇、電子遊戲和動畫當中，�
 49. Shea, Dan (Spring 2009). "SOFEX 2008". *Small Arms Defense Journal*, p. 29.
 50. Tactical Weapons January 2011 Issue, Page 94.
 51.
-52. <http://www.mksf-ks.org/repository/docs/Koha_Ditore_per_FSK-ne.pdf>
+52.
 53.
 54.
 55.

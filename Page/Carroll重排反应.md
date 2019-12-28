@@ -45,22 +45,13 @@ Kuwano 等报道了[萘酚存在下的](https://zh.wikipedia.org/wiki/萘酚 "wi
 [Category:重排反应](https://zh.wikipedia.org/wiki/Category:重排反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink") [Category:钯](https://zh.wikipedia.org/wiki/Category:钯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.  .
-
 10.
-
 11.

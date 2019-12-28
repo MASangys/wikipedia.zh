@@ -832,7 +832,7 @@ MIT任務，即將出發……
 
 ## 週邊商品
 
-  - 《霹靂MIT》簽名商品獨家送 [詳細](http://www.obuy.com.tw/promotion/2008pili_mit/index.html)
+  - 《霹靂MIT》簽名商品獨家送 [詳細](https://web.archive.org/web/20081023121610/http://www.obuy.com.tw/promotion/2008pili_mit/index.html)
   - 《霹靂MIT》電視小說 [詳細](https://web.archive.org/web/20081203045200/http://www.books.com.tw/exep/prod/booksfile.php?item=0010420356)
 
 ## 收視率(民視)

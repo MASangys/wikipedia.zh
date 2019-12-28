@@ -8,7 +8,7 @@
 
 ## 生物
 
-  - [阿蘭屬](https://zh.wikipedia.org/wiki/阿蘭屬 "wikilink")（學名：）是[天門冬目](../Page/天門冬目.md "wikilink")[蘭科](../Page/蘭科.md "wikilink")的一屬。
+  - [阿蘭屬](../Page/阿蘭屬.md "wikilink")（學名：）是[天門冬目](../Page/天門冬目.md "wikilink")[蘭科](../Page/蘭科.md "wikilink")的一屬。
 
 ## 组织
 

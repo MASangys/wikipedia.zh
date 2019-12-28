@@ -6,9 +6,9 @@
 
 在[第一次世界大战](../Page/第一次世界大战.md "wikilink")後的[凡爾賽條約下](https://zh.wikipedia.org/wiki/凡爾賽條約 "wikilink")，德國大多数軍工生產受到嚴格限制。德国海军缺乏小型巡邏艇。
 
-S艇的前身要追溯到Oheka2型，這是由德國[盧爾森造船公司](https://zh.wikipedia.org/wiki/盧爾森造船公司 "wikilink")（Lürssen）在1927年為美國企業家[奧托·赫曼·卡恩製造的私人](https://zh.wikipedia.org/wiki/奧托·赫曼·卡恩 "wikilink")[遊艇](../Page/遊艇.md "wikilink")。這艘遊艇預計使用在[北海](../Page/北海_\(大西洋\).md "wikilink")、[英吉利海峽與](https://zh.wikipedia.org/wiki/英吉利海峽 "wikilink")，為了耐海性因此使用了圓底式（round-bottomed）船底而非一般高速艇常見的平底（Flat Bottom）構型。這種構型兼顧了小型船的適航性以及速度，並創下當時小型快艇的極速紀錄，因此受到德國海軍的注意，在1929年德國海軍訂購了裝備了2具魚雷發射管的相似構型艦種，1930年接收時命名為UZ(S)16號聯絡艇，而後改名S-1，後來S艇皆以此基礎構型發展而成。
+S艇的前身要追溯到Oheka2型，這是由德國在1927年為美國企業家[奧托·赫曼·卡恩製造的私人](https://zh.wikipedia.org/wiki/奧托·赫曼·卡恩 "wikilink")[遊艇](../Page/遊艇.md "wikilink")。這艘遊艇預計使用在[北海](../Page/北海_\(大西洋\).md "wikilink")、[英吉利海峽與](https://zh.wikipedia.org/wiki/英吉利海峽 "wikilink")，為了耐海性因此使用了圓底式（round-bottomed）船底而非一般高速艇常見的平底（Flat Bottom）構型。這種構型兼顧了小型船的適航性以及速度，並創下當時小型快艇的極速紀錄，因此受到德國海軍的注意，在1929年德國海軍訂購了裝備了2具魚雷發射管的相似構型艦種，1930年接收時命名為UZ(S)16號聯絡艇，而後改名S-1，後來S艇皆以此基礎構型發展而成。
 
-S-1是一艘40噸重的快艇，具有3具總輸出3000德制[馬力](../Page/馬力.md "wikilink")(PS)的汽油引擎，2具魚雷發射管，最高航速可達37節。在測試後德國海軍提出若干修改建議，包括在主舵旁裝設偏30度角的輔助舵製造[盧爾森效應](https://zh.wikipedia.org/wiki/盧爾森效應 "wikilink")（Lürssen Effect）\[5\]，這種構型可以讓三螺旋槳船於高速行駛時減少尾波並強化螺旋槳輸出效益。這種設計使得S艇在夜間作戰時不容易被發現。
+S-1是一艘40噸重的快艇，具有3具總輸出3000德制[馬力](../Page/馬力.md "wikilink")(PS)的汽油引擎，2具魚雷發射管，最高航速可達37節。在測試後德國海軍提出若干修改建議，包括在主舵旁裝設偏30度角的輔助舵製造\[5\]，這種構型可以讓三螺旋槳船於高速行駛時減少[尾波並提高螺旋槳輸出效益](../Page/开尔文船波.md "wikilink")。這種設計使得S艇在夜間作戰時不容易被發現。
 
 由S-6開始使用柴油發動機去取代汽油發動機，柴油發動機的耗油量較少而且柴油較不容易著火，這都是對其有利的，各型號的S艇都可載12至14噸柴油而令S艇有長遠的航程，各型號的S艇都有兩個大而通風良好的發動機艙，在S-100之前，S艇都有個大的發動機天窗，各種和發動機有關的管線皆為外露以方便檢修發動機，在駕駛艙有個發動機操作面板以便操作。
 
@@ -62,9 +62,9 @@ S艇最初的防空火力是一挺[MG 15機槍](../Page/MG_15機槍.md "wikilink
   - 羅馬尼亞號
   - 湯加號
   - [青島號](https://zh.wikipedia.org/wiki/青島號魚雷艇母艦 "wikilink")
-  - 多哥號
+  - 坦噶號
 
-這9艘魚雷艇母艦幾乎都以德國殖民者或海外殖民地命名，其中的「多哥號」（原指德國在東非[坦桑尼亞的殖民地](https://zh.wikipedia.org/wiki/坦桑尼亞 "wikilink")）原本是[中華民國海軍](../Page/中華民國海軍.md "wikilink")訂購的「戚繼光號」，但在1939年歐戰爆發後被德國海軍接收，一艘魚雷艇母艦會支援3支S艇分隊。
+這9艘魚雷艇母艦幾乎都以德國殖民者或海外殖民地命名，其中的「坦噶號」（原指德國在[德属东非的港口](https://zh.wikipedia.org/wiki/德属东非 "wikilink")）原本是[中華民國海軍](../Page/中華民國海軍.md "wikilink")訂購的「戚繼光號」，但在1939年歐戰爆發後被德國海軍接收，一艘魚雷艇母艦會支援3支S艇分隊。
 
 1939年歐戰爆發，第1分隊立即去對付波蘭海軍但由於波蘭海軍實力太差而很快被打敗，第1分隊未取得什麼戰果，之後第1分隊被派去克里戈蘭去支援柴油發動機表現不佳的第2分隊，再之後第1和第2分隊參加了[挪威戰役](../Page/挪威戰役.md "wikilink")，他們在[卑爾根擔任巡邏和警戒任務](https://zh.wikipedia.org/wiki/卑爾根 "wikilink")，1940年5月，德國海軍派出S-31號艇、S-32號艇、S-33號艇和S-34號艇去為[沙恩霍斯特號巡洋戰艦護航](../Page/沙恩霍斯特级战列舰.md "wikilink")，其中S-31號艇重創意圖攻擊的英國驅逐艦「凱里號」。
 
@@ -98,7 +98,7 @@ S艇的水兵當中，有23人獲得[騎士鐵十字章](../Page/鐵十字勳章
 
 1944年8月在廣西一带因内河水淺而無法撤退故而自沉，以免被日軍俘獲
 
-當時中國國民政府還訂購了8艘S-30魚雷快艇和一艘魚雷艇母艦[戚繼光號](https://zh.wikipedia.org/wiki/戚繼光 "wikilink")，準備成立[陸秀夫](../Page/陸秀夫.md "wikilink")和許遠兩個中隊，但當1939年歐戰爆发後被納粹德國海軍徵用，當中戚繼光號改名為「[多哥號](../Page/多哥號魚雷艇母艦.md "wikilink")」（Tanga），二戰後被美軍接收後再賣給[丹麥改名為](https://zh.wikipedia.org/wiki/丹麥 "wikilink")「[埃吉爾](../Page/埃吉爾.md "wikilink")」（Aegir）。
+當時中國國民政府還訂購了8艘S-30魚雷快艇和一艘魚雷艇母艦[戚繼光號](https://zh.wikipedia.org/wiki/戚繼光 "wikilink")，準備成立[陸秀夫](../Page/陸秀夫.md "wikilink")和許遠兩個中隊，但當1939年歐戰爆发後被納粹德國海軍徵用，當中戚繼光號改名為「[坦噶號](../Page/坦噶號魚雷艇母艦.md "wikilink")」（Tanga），二戰後被美軍接收後再賣給[丹麥改名為](https://zh.wikipedia.org/wiki/丹麥 "wikilink")「[埃吉爾](../Page/埃吉爾.md "wikilink")」（Aegir）。
 
 ## 使用國家
 
@@ -137,7 +137,7 @@ S艇的水兵當中，有23人獲得[騎士鐵十字章](../Page/鐵十字勳章
 
   - [John Drain's model S-boat site](http://www.pt-boat.com/sboot/sboot.html)
 
-  - [Five part video podcast documentary about S130 on www.pod3.tv](http://www.thamesvalleypod.tv/tvall.php?tv=3)
+  - [Five part video podcast documentary about S130 on www.pod3.tv](https://web.archive.org/web/20061024034801/http://www.thamesvalleypod.tv/tvall.php?tv=3)
 
   -
 [Category:德國海軍](https://zh.wikipedia.org/wiki/Category:德國海軍 "wikilink") [Category:德國海軍艦艇](https://zh.wikipedia.org/wiki/Category:德國海軍艦艇 "wikilink") [Category:中華民國軍艦](https://zh.wikipedia.org/wiki/Category:中華民國軍艦 "wikilink") [Category:抗戰時期中國武器](https://zh.wikipedia.org/wiki/Category:抗戰時期中國武器 "wikilink") [Category:二戰中國軍艦](https://zh.wikipedia.org/wiki/Category:二戰中國軍艦 "wikilink") [Category:巡邏艇](https://zh.wikipedia.org/wiki/Category:巡邏艇 "wikilink")

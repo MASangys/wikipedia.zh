@@ -27,13 +27,8 @@ UMing使用了語言識別技術，用於不同語境時會顯示不同[字形](
 [Category:東亞字體](https://zh.wikipedia.org/wiki/Category:東亞字體 "wikilink") [Category:宋体](https://zh.wikipedia.org/wiki/Category:宋体 "wikilink")
 
 1.  <http://wiki.ubuntu-tw.org/index.php?title=UbuntuL10n>
-
 2.  <http://people.ubuntu.com/~arne/cjk-unifonts/uming/Glyph_shapes_uming_0.2.20080216.pdf>
-
 3.  <http://www.freedesktop.org/wiki/Software/CJKUnifonts/Download>
-
 4.  \-{碁銹裏墻恒粧嫺}-
-
 5.  <http://chinsan2.twbbs.org/zh-tut/cjkunifonts.html>
-
 6.

@@ -46,7 +46,5 @@ SL6已經不再生產，其位置已被[HK SLB 2000運動步槍所取代](https:
 [Category:黑克勒-科赫](https://zh.wikipedia.org/wiki/Category:黑克勒-科赫 "wikilink") [Category:半自动步枪](https://zh.wikipedia.org/wiki/Category:半自动步枪 "wikilink") [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink") [Category:延遲反沖作用槍械](https://zh.wikipedia.org/wiki/Category:延遲反沖作用槍械 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink")
 
 1.  <http://www.remtek.com/arms/hk/civ/sl/sl.htm>
-
 2.
-
 3.

@@ -132,7 +132,7 @@
   -
   - （[太刀掛秀子](https://zh.wikipedia.org/wiki/太刀掛秀子 "wikilink")）
 
-  - （[水野英子](https://zh.wikipedia.org/wiki/水野英子 "wikilink")）
+  - （[水野英子](../Page/水野英子.md "wikilink")）
 
   -
   -

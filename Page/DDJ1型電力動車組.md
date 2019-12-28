@@ -157,26 +157,16 @@ DDJ1型电力动车组的控制系统与出口伊朗的[TM1型电力机车相似
 [Category:中国高速铁路车辆](https://zh.wikipedia.org/wiki/Category:中国高速铁路车辆 "wikilink") [Category:中国电力动车组](https://zh.wikipedia.org/wiki/Category:中国电力动车组 "wikilink") [Category:中车浦镇制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车浦镇制铁路车辆 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:中车株机制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车株机制铁路车辆 "wikilink") [Category:中车唐山制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车唐山制铁路车辆 "wikilink") [Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink")
 
 1.
-
 2.  [科学技术部关于“九五”国家科技攻关计划执行情况及“十五”科技工作部署](http://www.most.gov.cn/fggw/zfwj/zfwj2001/200512/t20051214_55008.htm)
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
 11.
-
 12.
 13.
-
 14.

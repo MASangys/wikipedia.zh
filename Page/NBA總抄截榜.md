@@ -111,7 +111,7 @@
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/克里斯·保罗" title="wikilink">克里斯·保罗</a></p></td>
+<td><p><a href="../Page/克里斯·保罗.md" title="wikilink">克里斯·保罗</a></p></td>
 <td><p>控球后卫</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新奥尔良黄蜂" title="wikilink">新奥尔良黄蜂</a><br />
 <a href="../Page/洛杉矶快船.md" title="wikilink">洛杉矶快船</a>（<a href="../Page/2011-12_NBA赛季.md" title="wikilink">2011-12</a>-<a href="https://zh.wikipedia.org/wiki/2016-17_NBA赛季" title="wikilink">2016-17</a>[4]）</p></td>

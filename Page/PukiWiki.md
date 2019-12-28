@@ -4,7 +4,7 @@
 
 由於PukiWiki原自於日本，因此對於[雙位元字](https://zh.wikipedia.org/wiki/雙位元字 "wikilink")（DBCS）的支援較許多由英語系所開發的Wiki軟體為佳。另外日本國內使用手機上網十分普遍，因此PukiWiki也支援了手機網頁功能。
 
-PukiWiki支援PHP 4或5。與[MediaWiki](../Page/MediaWiki.md "wikilink")一樣支援[跨Wiki連結](https://zh.wikipedia.org/wiki/跨Wiki連結 "wikilink")（interwiki）與擴充套件。
+PukiWiki支援PHP 4或5。與[MediaWiki一樣支援](https://zh.wikipedia.org/wiki/MediaWiki "wikilink")[跨Wiki連結](https://zh.wikipedia.org/wiki/跨Wiki連結 "wikilink")（interwiki）與擴充套件。
 
 PukiWiki 基于[PHP](../Page/PHP.md "wikilink")+TXT的方式实现，不需要任何数据库程序支援，原生程序也未支援任何数据库系统，但是可以借助名为[PukiWiki+DB的修改补丁来得到对](https://zh.wikipedia.org/wiki/PukiWiki+DB "wikilink")[MySQL](../Page/MySQL.md "wikilink")、[SQLite](../Page/SQLite.md "wikilink")、[ORACLE Oci8](https://zh.wikipedia.org/wiki/ORACLE_Oci8 "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")的支援。
 

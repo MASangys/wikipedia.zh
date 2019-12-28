@@ -1,4 +1,4 @@
-**git**（\[1\]，）是一个[分散式版本控制软件](https://zh.wikipedia.org/wiki/分散式版本控制 "wikilink")，最初由[林纳斯·托瓦兹](../Page/林纳斯·托瓦兹.md "wikilink")創作，於2005年以[GPL釋出](https://zh.wikipedia.org/wiki/GPL "wikilink")。最初目的是为更好地管理[Linux核心开发而设计](../Page/Linux内核.md "wikilink")。应注意的是，这与GNU Interactive Tools\[2\]（一个类似[Norton Commander界面的](https://zh.wikipedia.org/wiki/Norton_Commander "wikilink")[文件管理器](../Page/软件包管理系统.md "wikilink")）有所不同。
+**git**（\[1\]，）是一个[分散式版本控制软件](https://zh.wikipedia.org/wiki/分散式版本控制 "wikilink")，最初由[林纳斯·托瓦兹](../Page/林纳斯·托瓦兹.md "wikilink")創作，於2005年以[GPL釋出](https://zh.wikipedia.org/wiki/GPL "wikilink")。最初目的是为更好地管理[Linux核心开发而设计](../Page/Linux内核.md "wikilink")。应注意的是，这与GNU Interactive Tools\[2\]（一个类似[Norton Commander界面的](https://zh.wikipedia.org/wiki/Norton_Commander "wikilink")[文件管理器](../Page/软件包管理系统.md "wikilink")）不同。
 
 git最初的开发动力来自于[BitKeeper](../Page/BitKeeper.md "wikilink")和[Monotone](https://zh.wikipedia.org/wiki/Monotone_\(軟體\) "wikilink")\[3\]\[4\]。git最初只是作为一个可以被其他前端（比如Cogito或Stgit\[5\]）包装的后端而开发的，但后来git内核已经成熟到可以独立地用作版本控制\[6\]。很多著名的软件都使用git进行版本控制\[7\]，其中包括[Linux核心](../Page/Linux内核.md "wikilink")、[X.Org服务器和](https://zh.wikipedia.org/wiki/X.Org服务器 "wikilink")[OLPC](../Page/OLPC.md "wikilink")内核等项目的开发流程\[8\]。
 
@@ -282,12 +282,12 @@ Git服务器典型的TCP 监听端口为9418。
 
 对象数据库包含4类对象：
 
-  - blob (二进制大对象)是一个文件的内容。Blobs没有适当的文件名、时间戳、或其他元数据。一个blob的内部名字是它的内容的hash。
-  - tree对象等效于目录。包含文件名列表以及文件的类型比特、到blob或tree对象的引用。tree对象是源树(source tree)的快照。用实现。
-  - commit对象链接tree对象在一起而成为history. 包含顶层源目录的tree对象名字、一个时间戳、log信息、0个或多个父commit对象的名字。
+  - blob (二进制大对象)是使用zlib压缩算法对一个文件的内容压缩后的结果。Blobs没有保存文件名、时间戳或其他元数据。Git将其存储在位于隐藏的.git/objects文件夹中。文件的名称为使用SHA-1哈希函数对原文件内容生成的哈希值。这些对象文件称为Blob，每次将新文件添加到存储库时会创建Blob对象。
+  - tree对象对应于文件目录。包含文件名列表以及文件的类型比特（包含许可权）、到blob（对应于文件）或tree对象的引用。tree对象是源树(source tree)的快照。用实现。
+  - commit对象链接tree对象在一起而成为history，包含顶层源目录的tree对象名字、一个时间戳、log信息、0个或多个父commit对象的名字。用于保存特定版本的树型文件夹结构以及提交作者，电子邮件地址，日期和描述性提交消息。
   - tag对象是一个容器，包含了到另一个对象的引用，也可以增加关于另外对象的元数据。通常它保存需要追溯的特定版本数据的一个commit对象的数字签名。
 
-每个对象用其内容的SHA-1 hash来标识。对象放入它的hash值得前两个字符标识的目录中，其余hash字符作为这个对象的文件名。
+以上4类的对象用其内容的SHA-1 hash值标识：hash值得前两个字符作为存放的目录名字，其余hash字符作为这个对象的文件名。
 
 Git数据库中不变引用的对象将会被垃圾回收清除。Git命令可以创建、移动、删除引用。"git show-ref"列出所有引用。某些引用类型：
 
@@ -296,6 +296,8 @@ Git数据库中不变引用的对象将会被垃圾回收清除。Git命令可�
   - *stash*: 引用一个还没有committed的一个对象
   - *meta*: 例如一个bare repository中的一个配置, 用户权限; refs/meta/config命名空间等\[16\]
   - *tags*:
+
+某些操作（例如，将提交推送到远程存储库，存储太多对象或手动运行Git的垃圾收集命令）可能会导致Git将对象重新打包为打包文件，在打包过程中，采用反向差异并进行压缩以消除多余的内容并减小尺寸。该过程将生成包含对象内容的.pack文件，每个文件都有一个对应的.idx索引文件，其中包含对打包对象及其在打包文件中位置的引用。当将分支推送到远程存储库或从远程存储库拉出分支时，这些打包文件将通过网络传输。提取或获取分支时，将打包文件解压缩以在对象存储库中创建松散对象。
 
 ## 移植性
 

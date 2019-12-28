@@ -27,6 +27,6 @@
 
 1.  [NEPOMUK - The Social Semantic Desktop](http://nepomuk.semanticdesktop.org/)
 2.  [Cordis.europa.eu official page about the Nepomuk project](http://cordis.europa.eu/fetch?CALLER=PROJ_ICT&ACTION=D&DOC=1&CAT=PROJ&QUERY=011ca2def8a7:ccd3:321e9807&RCN=79390)
-3.  [NEPOMUK-KDE project](http://nepomuk.kde.org/)
+3.
 4.  [Personal Information Model (PIMO)](http://www.semanticdesktop.org/ontologies/2007/11/01/pimo/)
 5.  [NEPOMUK Information Element Ontology](http://www.semanticdesktop.org/ontologies/nie/)

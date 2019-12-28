@@ -82,33 +82,20 @@ OneNote Mobile 是一款可以与 [Microsoft OneNote](../Page/Microsoft_OneNote.
 [Category:Microsoft_Office](https://zh.wikipedia.org/wiki/Category:Microsoft_Office "wikilink")
 
 1.  Crouch, Cameron. [''口袋里装满了 PC 应用程序](http://www.pcworld.com/article/id,15636-page,1/article.html) 。PC World。2007年9月13日查阅。
-
 2.  Utter, David. [*现在，Windows Mobile 包含了 PowerPoint！*](http://www.webpronews.com/topnews/2005/05/12/windows-mobile-now-with-powerpoint) . WebProNews.com。2007年9月13日查阅。
-
 3.  Pratley, Chris. [*OneNote Mobile 的发行和说明*](http://blogs.msdn.com/chris_pratley/archive/2005/11/21/494990.aspx)。MSDN Blogs。2007年9月13日查阅。
-
 4.  Langridge, Jason. [*Windows Mobile 6 - 最新更新和酷炫功能！*](http://blogs.msdn.com/jasonlan/archive/2007/02/08/windows-mobile-6-what-s-new-and-what-s-cool.aspx)。MSDN Blogs。2007年9月14日查阅。
-
 5.  Chan, John. [*日文版 WM6 和 Office Mobile 2007*](http://asia.cnet.com/reviews/handhelds/ontheradar/0,39050970,62019010,00.htm) 。Crave - CNET Asia。2007年9月13日查阅。
-
 6.
 7.
-
 8.  [Word Mobile 中不受支持的功能](http://www.microsoft.com/windowsmobile/help/pocketpc/unsupportedword.mspx) 。Microsoft。2007年9月21日查阅。
-
 9.  [使用 Word Mobile](http://www.microsoft.com/windowsmobile/help/pocketpc/pptmobile.mspx) 。Microsoft。2007年9月21日查阅。
-
 10.
 11. Ogasawara, Todd. [*Excel Mobile 最新更新*](http://www.microsoft.com/windowsmobile/articles/excelmobile.mspx) 。Microsoft。2007年9月13日查阅。
-
 12.
 13. [使用 Excel Mobile](http://www.microsoft.com/windowsmobile/help/pocketpc/excelmobile.mspx) 。2007年9月21日查阅。
-
 14. [Excel Mobile 中不受支持的功能](http://www.microsoft.com/windowsmobile/help/pocketpc/unsupportedexcelfeatures.mspx) 。Microsoft。2007年9月21日查阅。
-
 15. Hardy, Ed. [*对 Windows Mobile 2005 的预览*](http://www.brighthand.com/default.asp?newsID=9657)。Brighthand。2007年9月13日查阅。
-
 16. [使用 PowerPoint Mobile](http://www.microsoft.com/windowsmobile/help/pocketpc/pptmobile.mspx) 。Microsoft。2007年9月13日查阅。
-
 17.
 18. [*OneNote Mobile 2007 快速开始向导*](http://office.microsoft.com/en-us/onenote/HA101956221033.aspx) 。Microsoft。2007年9月13日查阅。

@@ -1616,8 +1616,10 @@ Rap詞：J.Sheon</p></td>
 </ul></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td style="text-align: left;"><p><strong>2020</strong></p></td>
+<td style="text-align: left;"><ul>
+<li>第15屆KKBOX數位音樂風雲榜－年度十大風雲歌手獎</li>
+</ul></td>
 </tr>
 </tbody>
 </table>
@@ -1631,7 +1633,7 @@ Rap詞：J.Sheon</p></td>
   -
   -
   -
-[Category:1983年出生](https://zh.wikipedia.org/wiki/Category:1983年出生 "wikilink") [Category:台灣女歌手](https://zh.wikipedia.org/wiki/Category:台灣女歌手 "wikilink") [Category:台灣華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:台灣華語流行音樂歌手 "wikilink") [Category:台灣原住民歌手](https://zh.wikipedia.org/wiki/Category:台灣原住民歌手 "wikilink") [Category:臺灣天主教徒](https://zh.wikipedia.org/wiki/Category:臺灣天主教徒 "wikilink") [Category:阿美族人](https://zh.wikipedia.org/wiki/Category:阿美族人 "wikilink") [Category:成功人](https://zh.wikipedia.org/wiki/Category:成功人 "wikilink") [Category:苓雅人](https://zh.wikipedia.org/wiki/Category:苓雅人 "wikilink") [Category:高雄市人](https://zh.wikipedia.org/wiki/Category:高雄市人 "wikilink") [Category:臺東人](https://zh.wikipedia.org/wiki/Category:臺東人 "wikilink") [Category:黃姓](https://zh.wikipedia.org/wiki/Category:黃姓 "wikilink")
+[Category:1983年出生](https://zh.wikipedia.org/wiki/Category:1983年出生 "wikilink") [Category:台灣女歌手](https://zh.wikipedia.org/wiki/Category:台灣女歌手 "wikilink") [Category:台灣華語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:台灣華語流行音樂歌手 "wikilink") [Category:台灣原住民歌手](https://zh.wikipedia.org/wiki/Category:台灣原住民歌手 "wikilink") [Category:臺灣天主教徒](https://zh.wikipedia.org/wiki/Category:臺灣天主教徒 "wikilink") [Category:阿美族人](https://zh.wikipedia.org/wiki/Category:阿美族人 "wikilink") [Category:成功人](https://zh.wikipedia.org/wiki/Category:成功人 "wikilink") [Category:苓雅人](https://zh.wikipedia.org/wiki/Category:苓雅人 "wikilink") [Category:高雄市人](https://zh.wikipedia.org/wiki/Category:高雄市人 "wikilink") [Category:臺東人](https://zh.wikipedia.org/wiki/Category:臺東人 "wikilink") [Category:黃姓](https://zh.wikipedia.org/wiki/Category:黃姓 "wikilink") [Category:臺灣LGBT權利運動者](https://zh.wikipedia.org/wiki/Category:臺灣LGBT權利運動者 "wikilink")
 
 1.
 2.

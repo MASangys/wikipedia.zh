@@ -53,4 +53,4 @@ ACE的第二个实现是，由艾伦·库姆斯（Allen Coombs）和威廉·钱�
 [Category:图灵](https://zh.wikipedia.org/wiki/Category:图灵 "wikilink") [Category:早期电脑](https://zh.wikipedia.org/wiki/Category:早期电脑 "wikilink") [Category:计算机历史](https://zh.wikipedia.org/wiki/Category:计算机历史 "wikilink")
 
 1.  {{ Citation | last=Turing | first=A.M. | publication-date=1937 | year=1936 | title=On Computable Numbers, with an Application to the Entscheidungsproblem | periodical=Proceedings of the London Mathematical Society | series=2 | volume=42 | pages=230-65 }} (and )
-2.  [Jonathan von Neumann and EDVAC](http://www.cs.berkeley.edu/~christos/classics/paper.pdf)，Philip Levis ,2004年11月：*…due to the incomplete and terse nature of the report…*
+2.  [Jonathan von Neumann and EDVAC](http://www.cs.berkeley.edu/~christos/classics/paper.pdf) ，Philip Levis ,2004年11月：*…due to the incomplete and terse nature of the report…*

@@ -1,6 +1,6 @@
 **Microsoft Office Accounting（旧称Small Business Accounting）**是[微软](../Page/微软.md "wikilink")开发的面向[中小型企业客户的](https://zh.wikipedia.org/wiki/中小型企业 "wikilink")[会计软件](https://zh.wikipedia.org/wiki/会计 "wikilink")。最新版为Microsoft Office Accounting 2008，于2007年11月14日发布，面向对象为1到25人以上员工的小型企业\[1\]。它直接与[Intuit](../Page/Intuit.md "wikilink")的[QuickBooks竞争](https://zh.wikipedia.org/wiki/QuickBooks "wikilink")。
 
-**Microsoft Office Accounting Express 2008**为其免费版，用于刚刚起步的企业或家庭用户。如果需要来自[eBay](https://zh.wikipedia.org/wiki/eBay "wikilink")、[PayPal](../Page/PayPal.md "wikilink")、[Equifax](../Page/Equifax.md "wikilink")和[ADP的第三方在线服务则需要另付费](https://zh.wikipedia.org/wiki/Automatic_Data_Processing "wikilink")。**Microsoft Office Accounting Professional 2008**添加了更多的高级功能，于2007年11月发布。
+**Microsoft Office Accounting Express 2008**为其免费版，用于香港的一些[中小型企业公司或家庭用户](https://zh.wikipedia.org/wiki/中小型企业 "wikilink")。如果需要来自[eBay](https://zh.wikipedia.org/wiki/eBay "wikilink")、[PayPal](../Page/PayPal.md "wikilink")、[Equifax](../Page/Equifax.md "wikilink")和[ADP的第三方在线服务则需要另付费](https://zh.wikipedia.org/wiki/Automatic_Data_Processing "wikilink")。**Microsoft Office Accounting Professional 2008**添加了更多的高级功能，于2007年11月发布。
 
 2009年11月16日，微軟在其Office Online網站上發表了一則聲明，主要闡述了Microsoft Small Business Accounting將停止開發與配布\[2\]，並且在該日期之前曾經購買／下載的使用者仍可依循Microsoft技術支援週期繼續在一定期間內獲得支援服務。無論是Professional版或Express版，主流支援服務皆到2014年1月14日終止，延伸支援服務則都到2019年12月8日終止。\[3\]
 

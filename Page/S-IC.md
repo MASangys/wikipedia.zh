@@ -32,7 +32,7 @@
 </tbody>
 </table>
 
-**S-IC**（读作"S-one-C"）是[土星五号火箭的第一级](https://zh.wikipedia.org/wiki/土星五号 "wikilink")，由[波音公司制造](https://zh.wikipedia.org/wiki/波音公司 "wikilink")。S-IC上超过2000吨的质量都是推进剂[煤油和液氧](https://zh.wikipedia.org/wiki/煤油 "wikilink")，这些推进剂产生33000KN的推力使火箭上升64千米。S-IC的五台F-1发动机中一台固定在中央，其余四台分部四角，可由液压装置控制方向。
+**S-IC**（读作"S-one-C"）是[土星五号火箭的第一级](https://zh.wikipedia.org/wiki/土星五号 "wikilink")，由[波音公司制造](https://zh.wikipedia.org/wiki/波音公司 "wikilink")。S-IC上超过2000吨的质量都是推进剂[煤油](../Page/煤油.md "wikilink")和液氧，这些推进剂产生33000KN的推力使火箭上升64千米。S-IC的五台F-1发动机中一台固定在中央，其余四台分部四角，可由液压装置控制方向。
 
 ## 制造
 

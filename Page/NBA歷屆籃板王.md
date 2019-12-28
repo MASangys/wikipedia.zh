@@ -49,7 +49,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/1950-51_NBA赛季.md" title="wikilink">1950-51</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/多尔夫·谢伊斯" title="wikilink">多尔夫·谢伊斯</a>*</p></td>
+<td><p><a href="../Page/多尔夫·谢伊斯.md" title="wikilink">多尔夫·谢伊斯</a>*</p></td>
 <td><p>/</p></td>
 <td><p><a href="../Page/费城76人.md" title="wikilink">费城76人</a></p></td>
 <td><p>66</p></td>

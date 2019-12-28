@@ -135,7 +135,7 @@ Larrabee顯示卡計劃被取消後，同樣是在2010年，英特爾MIC多處�
 31. [Intel Larrabee：核心翻番、性能翻番](http://news.mydrivers.com/1/113/113034.htm)
 32.
 33.
-34. [Intel于i7后重大举措 Larrabee显卡雏形](http://digi.163.com/08/1126/09/4RLQ8QKM001618J1.html) - 163.com
+34. [Intel于i7后重大举措 Larrabee显卡雏形](http://digi.163.com/08/1126/09/4RLQ8QKM001618J1.html)  - 163.com
 35.
 36.
 37. [英特尔Larrabee独立显卡发展AIB/AIC](http://tech.sina.com.cn/s/s/2008-04-03/1139623330.shtml) - www.sina.com.cn

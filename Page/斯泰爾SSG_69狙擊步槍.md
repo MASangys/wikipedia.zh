@@ -1,4 +1,4 @@
-**斯泰爾SSG 69**（，意為：69式狙擊步槍）是一款由[奥地利槍械製造商](https://zh.wikipedia.org/wiki/奥地利 "wikilink")所研製及生產的[旋转后拉式枪机](https://zh.wikipedia.org/wiki/手動槍機#旋轉後拉式槍機 "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，並在不久以後作為奧地利軍隊的制式狙擊步槍\[1\]，也被不少執法機關所採用，可發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑和](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**斯泰爾SSG 69**（，意為：69式狙擊步槍）是一款由[奥地利槍械製造商](https://zh.wikipedia.org/wiki/奥地利 "wikilink")所研製及生產的[旋转后拉式枪机](https://zh.wikipedia.org/wiki/手動槍機#旋轉後拉式槍機 "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，並在不久以後作為奧地利軍隊的制式狙擊步槍\[1\]，也被不少執法機關所採用，可發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約和](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")兩種[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 概述
 
@@ -140,36 +140,23 @@ SSG 69無論在戰爭還是大大小小的國際比賽之中都證明了它是�
 
   - —[人民網—SSG69狙擊步槍：“裝在牛車上的精確制導武器”](http://military.people.com.cn/BIG5/42963/3618690.html)
 
-[Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:.243溫徹斯特口徑槍械](https://zh.wikipedia.org/wiki/Category:.243溫徹斯特口徑槍械 "wikilink") [Category:22-250_Remington口徑槍械](https://zh.wikipedia.org/wiki/Category:22-250_Remington口徑槍械 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink")
+[Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:.243溫徹斯特口徑槍械](https://zh.wikipedia.org/wiki/Category:.243溫徹斯特口徑槍械 "wikilink") [Category:22-250_Remington口徑槍械](https://zh.wikipedia.org/wiki/Category:22-250_Remington口徑槍械 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink") [Category:斯太尔武器](https://zh.wikipedia.org/wiki/Category:斯太尔武器 "wikilink")
 
 1.  [Österreichs Bundesheer - Waffen und Gerät - Scharfschützengewehr SSG 69](http://www.bmlv.gv.at/waffen/waf_ssg69.shtml)
-
 2.  Jones, Richard D. Jane's Infantry Weapons 2009/2010. Jane's Information Group; 35 edition (January 27, 2009). ISBN 978-0710628695.
-
 3.
 4.
-
 5.  Gander, Terry J.; Hogg, Ian V. *Jane's Infantry Weapons 1995/1996*. Jane's Information Group; 21 edition (May 1995). ISBN 978-0710612410.
-
 6.  <http://greekmilitary.net/Greek%20Troops/Steyr%20SSG%207.62mm%20Sniper%20rifle.jpg>
-
 7.  "Með Glock 17 og MP5". *Fréttatíminn*. 23. 09. 2011. p. 12-14.
-
 8.  <http://www.hindustantimes.com/Anti-Naxal-ops-Snipers-make-maiden-entry/H1-Article1-735772.aspx>
-
 9.
 10.
-
 11. <http://www.asiae.co.kr/news/view.htm?idxno=2011081807265620151>
-
 12. [Materiel of the Netherlands Marine Corps（Dutch）](http://www.dutchmarines.nl/materieel)
-
 13. [Royal Netherlands Marine Corps, Dutch core Expeditionary Force](http://www.dutchdefencepress.com/?p=1350)
-
 14.
-
 15.
 16.
-
 17.
 18.

@@ -45,24 +45,14 @@
 [Category:碳－杂原子键形成反应](https://zh.wikipedia.org/wiki/Category:碳－杂原子键形成反应 "wikilink") [Category:重排反应](https://zh.wikipedia.org/wiki/Category:重排反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink") [Category:糖化学](https://zh.wikipedia.org/wiki/Category:糖化学 "wikilink")
 
 1.
-
 2.
-
 3.   ([open access](https://zh.wikipedia.org/wiki/open_access_\(publishing\) "wikilink") publication)
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.

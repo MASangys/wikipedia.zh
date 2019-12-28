@@ -18,5 +18,5 @@ Netscape Messenger包含了Mozilla Thunderbird 2.0.0.9所有的特色，另外�
 
 1.  [Netscape Mercury in progress - 2007年6月11日通告](http://community.netscape.com/n/pfx/forum.aspx?tsn=1&nav=messages&webtag=ws-nscpbrowser&tid=8688)  造訪於 2007年11月21日
 2.  [Feature requests in Mercury - 2007年6月12日通告](http://community.netscape.com/n/pfx/forum.aspx?msg=8692.4&nav=messages&webtag=ws-nscpbrowser#a4) 造訪於 2007年11月21日
-3.  [Netscape Blog on Netscape Messenger 9.a - 2007年11月16日通告](http://blog.netscape.com/2007/11/15/netscape-messenger-9-alpha-1-released/) 造訪於 2007年11月21日
+3.  [Netscape Blog on Netscape Messenger 9.a - 2007年11月16日通告](http://blog.netscape.com/2007/11/15/netscape-messenger-9-alpha-1-released/)  造訪於 2007年11月21日
 4.  [Netscape Messenger Release Notes - 2007年11月16日通告](http://mailnews.netscape.com/releasenotes/9.0a1/) 造訪於 2007年11月21日

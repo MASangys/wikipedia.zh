@@ -186,8 +186,8 @@ NBA在日本也有着广阔的市场发展空间，先后六次在日本举办�
 
 #### NBA中國賽2019
 
-  - 2019年10月10日，上海 布魯克林籃網 0–0 洛杉磯湖人
-  - 2019年10月12日，深圳 洛杉磯湖人 0–0 布魯克林籃網
+  - 2019年10月10日，上海 布魯克林籃網 114–111 洛杉磯湖人
+  - 2019年10月12日，深圳 洛杉磯湖人 77–91 布魯克林籃網
 
 ### NBA在中華民國
 
@@ -226,7 +226,7 @@ NBA在中華民國（臺灣）擁有廣大的市場，2008年NBA传奇明星赛�
   - [History of Games Played by NBA Teams in Europe](https://web.archive.org/web/20160610082107/http://www.nba.com/europelive/history.html)
   - [NBA International Pre-Season and Regular-Season Games](https://web.archive.org/web/20101203182747/http://www.nba.com/europelive/intl_games.html)
   - [HAWKS: Behind the Curtain](http://www.nba.com/hawks/news/Behind_the_Curtain-74729-33.html)
-  - [NBA Preseason Tips Off on October 6](http://www.nba.com/news/preseason_070814.html)
+  - [NBA Preseason Tips Off on October 6](https://web.archive.org/web/20070909133605/http://www.nba.com/news/preseason_070814.html)
   - [Previous exhibition games European clubs vs. NBA](https://web.archive.org/web/20071029030856/http://217.13.116.51/noticia.jsp?temporada=E05&jornada=33&id=228)
 
 [Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink")

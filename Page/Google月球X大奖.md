@@ -247,7 +247,7 @@ launch under contract</p></td>
 11. {{ cite web | url = <http://www.appledaily.com.tw/appledaily/article/international/20070915/3820729/> | title = 企業登月 Google獎9.9億 | author = 張翠蘭 | date = 2007-09-15 | publisher = [蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink") }}
 12. {{ cite web | url = <http://www.appledaily.com.tw/appledaily/article/international/20101005/32861247/> | title = Google登月創意賽 獎金6億 | author = 張翠蘭 | date = 2010-10-05 | publisher = [蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink") }}
 13. {{ cite web | url = <http://news.ltn.com.tw/news/life/breakingnews/1146034> | title = 維珍銀河太空船2號試飛墜毀 1死1重傷 | date = 2014-11-01 | publisher = [自由時報](../Page/自由時報.md "wikilink") }}
-14. {{ cite web | url = <http://tech2ipo.com/93684> | title = Google登月计划将延缓至2016 | author = 王梦璇 | date = 2014-12-24 | publisher = TECH2IPO 創見 }}
+14.
 15.
 16.
 17.

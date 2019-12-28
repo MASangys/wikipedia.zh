@@ -16,7 +16,7 @@ Animax台灣頻道由「美商超躍股份有限公司」（AXN Taiwan-One, LLC.
 
 2019年2月下旬，Animax台灣頻道有線台開通雙語節目\[10\]。
 
-2019年4月開始，Animax台灣接連在[中華電信MOD](../Page/中華電信MOD.md "wikilink")、HamiVideo、歡樂看Faintv等知名IPTV和OTT平台推出隨選視訊服務。
+2019年4月開始，Animax台灣接連在[中華電信MOD](../Page/中華電信MOD.md "wikilink")、HamiVideo、歡樂看Faintv(目前已下架)等知名IPTV和OTT平台推出隨選視訊服務。
 
 2019年11月4日起，Animax台灣頻道有線台開始在部分有線電視系統陸續升級為HD高畫質播出。
 
@@ -49,19 +49,19 @@ Animax Asia是該區域首個24小時日本動畫電視網。\[22\]
 ### 香港
 
   - 於2004年冠名贊助第六屆[香港漫畫節](https://zh.wikipedia.org/wiki/香港動漫節 "wikilink")。
-  - 於2006於巴士車身上宣傳《天堂之吻》、《地獄少女》、《血戰》、《灼眼的夏娜》及《蜂蜜與四葉草》。
+  - 於2006於巴士車身上宣傳《[天堂之吻](https://zh.wikipedia.org/wiki/天堂之吻 "wikilink")》、《[地獄少女](https://zh.wikipedia.org/wiki/地獄少女 "wikilink")》、《[血戰](../Page/血戰.md "wikilink")》、《[灼眼的夏娜](../Page/灼眼的夏娜.md "wikilink")》及《[蜂蜜與四葉草](../Page/蜂蜜與四葉草.md "wikilink")》。
   - 於2006及2007年贊助[香港國際電影節](../Page/香港國際電影節.md "wikilink")，並提供部份動畫供大會播放。
   - 於2007年[夏日國際電影節](../Page/夏日國際電影節.md "wikilink")中，聯同主辦單位及[Now寬頻電視舉辦兩場電影放映特別場](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")，包括《[雲之彼端，約定的地方](../Page/雲之彼端，約定的地方.md "wikilink")》、《[星之聲](../Page/星之聲.md "wikilink")》以及《[秒速5厘米](https://zh.wikipedia.org/wiki/秒速5厘米 "wikilink")》。
-  - 於2008年2月10日及2008年8月24日支持CWHK舉辦《The Best Voice動畫配音大賽》，提供配音片段及得獎品。
+  - 於2008年2月10日及2008年8月24日支持CWHK舉辦《The Best Voice動畫[配音](../Page/配音.md "wikilink")大賽》，提供配音片段及得獎品。
   - 於2009年繼續支持CWHK舉辦《The Best Voice動畫配音大賽》，提供配音片段及得獎品。
   - 於2009年7月至8月舉辦《犬夜叉完結篇》網上登記活動。
-  - 於2009年8月舉辦看《灼眼的夏娜 II》送輕小說及記事本活動。
+  - 於2009年8月舉辦看《灼眼的夏娜 II》送[輕小說](../Page/輕小說.md "wikilink")及記事本活動。
   - 於2009年9月至現在舉辦《犬夜叉Super Fans 大招募》。
-  - 於2009年8月至11月舉辦《我愛動畫競賽》，送出Bang & Olufsen耳機一副及Nokia USB 手指。
-  - 於2009年9月25日至12月10日《攜手大聲說 我愛犬夜叉》。
+  - 於2009年8月至11月舉辦《我愛動畫競賽》，送出Bang & Olufsen[耳機](../Page/耳機.md "wikilink")一副及Nokia [USB](../Page/USB.md "wikilink") [手指](../Page/手指.md "wikilink")。
+  - 於2009年9月25日至12月10日《攜手大聲說 我愛[犬夜叉](https://zh.wikipedia.org/wiki/犬夜叉 "wikilink")》。
   - 於2009年9月30日《Animax Community》正式開幕。
   - 於2009年10月10日網上直擊《犬夜叉完結篇》首映現場盛況。
-  - 於2009年10月10日在香港城市大學《城大秋祭2009月之祭》贊助《秋祭同人賞》。
+  - 於2009年10月10日在[香港城市大學](../Page/香港城市大學.md "wikilink")《城大秋祭2009月之祭》贊助《秋祭同人賞》。
   - 於2009年10月11日在香港城市大學《城大秋祭2009月之祭》舉辦《Animax犬夜叉拼圖比賽》。
   - 於2010年全力支持香港萬聖狂歡派對。
   - 於2012及2013年贊助[C3日本動玩博覽](https://zh.wikipedia.org/wiki/C3日本動玩博覽 "wikilink")。

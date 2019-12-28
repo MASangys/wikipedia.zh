@@ -20,7 +20,7 @@ Mk 23 Mod 0能在惡劣的環境中有著特別高的耐久性、防水性和耐
 
 Mk 23 Mod 0進行了一連串嚴格測試之後，證明了Mk 23 Mod 0能夠發射數萬發不同種類的.45 ACP子彈而且[槍管](../Page/槍管.md "wikilink")沒有任何損壞或需要更換。即使在惡劣環境以下仍然可靠，完全符合[特種部隊](../Page/特種部隊.md "wikilink")作戰的要求。\[6\]雖然理論上一發.45 ACP子彈已經具有相當的，但是如果搭載亞音速子彈的話會更為適合使用[-{消聲}-器作微声射擊](../Page/抑制器.md "wikilink")；而裝上其專用的-{消聲}-器以後可將[噪音降低大約](https://zh.wikipedia.org/wiki/噪声 "wikilink")25 [分貝](https://zh.wikipedia.org/wiki/分貝 "wikilink")。此外，此槍與[M1911手槍](../Page/M1911手槍.md "wikilink")共享了多個設計特點，使對於M1911手槍有經驗的人都能夠很容易地[不完全分解並且妥善地清潔Mk](https://zh.wikipedia.org/wiki/不完全分解 "wikilink") 23 Mod 0。此槍亦裝備了套筒卡鎖，發射時可以消除套筒後座和拋彈殼所造成的噪音。\[7\]
 
-目前正被提議中的「」（簡稱：JCP）計劃的目的是為了可以使用.45 ACP普通[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")、[彈藥和高壓](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。不過，目前還不清楚JCP是否真的存在，它亦吸收了先前在2005年後期的「特別行動部隊戰鬥計劃」（）計劃。在2006年期後，JCP已經改名和重組為「未來手槍系統」（英文：Future Handgun System，簡稱：FHS）計劃，有可能會採用Mk 23 Mod 0或者把[M9](../Page/貝瑞塔M9手槍.md "wikilink")、[M11和Mk](https://zh.wikipedia.org/wiki/SIG_P228半自動手槍 "wikilink") 23 Mod 0三種手槍都取代。
+目前正被提議中的「」（簡稱：JCP）計劃的目的是為了可以使用.45 ACP普通[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")、[彈藥和高壓](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。不過，目前還不清楚JCP是否真的存在，它亦吸收了先前在2005年後期的「特別行動部隊戰鬥計劃」（）計劃。在2006年期後，JCP已經改名和重組為「未來手槍系統」（英文：Future Handgun System，簡稱：FHS）計劃，有可能會採用Mk 23 Mod 0或者把[M9](../Page/貝瑞塔M9手槍.md "wikilink")、[M11和Mk](../Page/SIG_P228半自動手槍.md "wikilink") 23 Mod 0三種手槍都取代。
 
 ## 進攻型手槍武器系統（）
 
@@ -58,7 +58,7 @@ Mk 23 Mod 0進行了一連串嚴格測試之後，證明了Mk 23 Mod 0能夠發�
 
 儘管Mk 23 Mod 0早已發配到特種部隊中並具有極高精度等優點，但是作戰人員對於這種「進攻型」手槍並不太感興趣，而且它在尺寸和重量兩方面都實在過大和過重亦造成不少的批評。\[14\]因為手槍設計為「進攻」而非「防守」，有意的摻入尺寸和重量能夠幫助吸收後坐力和保持更高的精度；但是這也降低了其在防守的情況以下的易用性、舒適性以及拔槍速度，這情況需要的反而是更傳統、緊湊得方便單手持槍射擊的手槍。另外，整個Mk 23 Mod 0手槍系統成本過於高昂，不可能裝備到每一位戰鬥人員手上，因此很多特種部隊也採用了其他型號的手槍。
 
-為了回應這些的批評，[黑克勒&科赫](../Page/黑克勒&科赫.md "wikilink")以原來的[HK USP作為基礎](../Page/HK_USP手槍.md "wikilink")，設計出[戰術型HK USP這其中一種衍生型](../Page/HK_USP手槍.md "wikilink")；雖然戰術型HK USP仍然保留了Mk 23 Mod 0的大部分的成果，而且戰術型HK USP並沒有像Mk 23 Mod 0的過大和笨重這兩個問題\[15\]，就算不能裝上Mk 23 Mod 0的LAM與-{消聲}-器（由於其採用的13.5×1毫米左手螺紋，相對於Mk 23 Mod 0的14.5×1毫米右旋螺紋），但是其他比Mk 23 Mod 0和戰術型HK USP更緊湊、更袖珍的戰術手槍都遠適合在[特種部隊](../Page/特種部隊.md "wikilink")和[反恐戰爭之中](https://zh.wikipedia.org/wiki/反恐戰爭 "wikilink")。而特種部隊使用[緊湊戰術型HK USP](../Page/HK_USP手槍.md "wikilink")（[圖像](https://zh.wikipedia.org/wiki/:File:HK_USP-CT.jpg "wikilink")）更是證明它在這一方面優秀的例子，因為它仍然可以安裝裝上Mk 23 Mod 0-{消聲}-器和各種的LAM，但是緊湊戰術型HK USP較其他戰術手槍輕，更使其成為特種部隊執行秘密行動時的首選。目前，黑克勒&科赫最新研發的.45 ACP口徑手槍，就是以P2000、P8、P30等型號的輪廓為藍本的[HK45](https://zh.wikipedia.org/wiki/HK45半自動手槍 "wikilink")；其衍生型HK45緊湊戰術型，可算是黑克勒&科赫對緊湊戰術型.45 ACP手槍的最新答案。
+為了回應這些的批評，[黑克勒&科赫](../Page/黑克勒&科赫.md "wikilink")以原來的[HK USP作為基礎](../Page/HK_USP手槍.md "wikilink")，設計出[戰術型HK USP這其中一種衍生型](../Page/HK_USP手槍.md "wikilink")；雖然戰術型HK USP仍然保留了Mk 23 Mod 0的大部分的成果，而且戰術型HK USP並沒有像Mk 23 Mod 0的過大和笨重這兩個問題\[15\]，就算不能裝上Mk 23 Mod 0的LAM與-{消聲}-器（由於其採用的13.5×1毫米左手螺紋，相對於Mk 23 Mod 0的14.5×1毫米右旋螺紋），但是其他比Mk 23 Mod 0和戰術型HK USP更緊湊、更袖珍的戰術手槍都遠適合在[特種部隊](../Page/特種部隊.md "wikilink")和[反恐戰爭之中](https://zh.wikipedia.org/wiki/反恐戰爭 "wikilink")。而特種部隊使用[緊湊戰術型HK USP](../Page/HK_USP手槍.md "wikilink")（[圖像](https://zh.wikipedia.org/wiki/:File:HK_USP-CT.jpg "wikilink")）更是證明它在這一方面優秀的例子，因為它仍然可以安裝裝上Mk 23 Mod 0-{消聲}-器和各種的LAM，但是緊湊戰術型HK USP較其他戰術手槍輕，更使其成為特種部隊執行秘密行動時的首選。目前，黑克勒&科赫最新研發的.45 ACP口徑手槍，就是以P2000、P8、P30等型號的輪廓為藍本的[HK45](../Page/HK45半自動手槍.md "wikilink")；其衍生型HK45緊湊戰術型，可算是黑克勒&科赫對緊湊戰術型.45 ACP手槍的最新答案。
 
 ## 使用國
 
@@ -159,9 +159,9 @@ HK Mk 23 Mod 0和Mark 23亦登場於多部[电影](../Page/电影.md "wikilink")
   - [柯爾特OHWS](../Page/柯爾特OHWS半自動手槍.md "wikilink")，OHWS之中Mk 23的競爭對手
   - [Mk 22 Mod 0手槍](../Page/史密斯威森M39手槍.md "wikilink")，史密斯威森M39的消聲型，在Mk 23 Mod 0以前曾參與[越戰的](../Page/越南战争.md "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")手槍，已被取代
   - [貝瑞塔M9](../Page/貝瑞塔M9手槍.md "wikilink")，[貝瑞塔92FS的](../Page/貝瑞塔92手槍.md "wikilink")[美军](../Page/美军.md "wikilink")型號，目前升級為M9A1
-  - [SIG M11](https://zh.wikipedia.org/wiki/SIG_P228半自動手槍 "wikilink")，SIG P228的美軍型號
-  - [Mk 25 Mod 0](https://zh.wikipedia.org/wiki/SIG_P226半自動手槍 "wikilink")，SIG P226的[美國海軍](../Page/美國海軍.md "wikilink")[海豹部隊](../Page/海豹部隊.md "wikilink")型號
-  - [HK45](https://zh.wikipedia.org/wiki/HK45半自動手槍 "wikilink")，衍生型HK45C裝上的[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")，裝備在[美國海軍特種作戰司令部並且命名為Mk](https://zh.wikipedia.org/wiki/美國海軍特種作戰司令部 "wikilink") 24 Mod 0
+  - [SIG M11](../Page/SIG_P228半自動手槍.md "wikilink")，SIG P228的美軍型號
+  - [Mk 25 Mod 0](../Page/SIG_P226半自動手槍.md "wikilink")，SIG P226的[美國海軍](../Page/美國海軍.md "wikilink")[海豹部隊](../Page/海豹部隊.md "wikilink")型號
+  - [HK45](../Page/HK45半自動手槍.md "wikilink")，衍生型HK45C裝上的[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")，裝備在[美國海軍特種作戰司令部並且命名為Mk](https://zh.wikipedia.org/wiki/美國海軍特種作戰司令部 "wikilink") 24 Mod 0
   - [柯爾特滑軌半自動手槍](../Page/柯爾特滑軌半自動手槍.md "wikilink")，被[美國海軍陸戰隊武裝偵察部隊](../Page/美國海軍陸戰隊武裝偵察部隊.md "wikilink")和美國海軍陸戰隊特種作戰部隊司令部所使用並命名為M45A1近身距離作戰手槍
 
 ## 資料來源

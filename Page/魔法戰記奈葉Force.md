@@ -153,5 +153,5 @@ ISBN 978-4-04-1205983</p></td>
   -
 [Category:魔法少女奈葉](https://zh.wikipedia.org/wiki/Category:魔法少女奈葉 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Newtype連載作品](https://zh.wikipedia.org/wiki/Category:月刊Newtype連載作品 "wikilink")
 
-1.  [動畫泡湯！《魔法少女奈葉4》公佈](http://cartoon.southcn.com/ctnews/hwdm/content/content_4984598.htm)
+1.
 2.

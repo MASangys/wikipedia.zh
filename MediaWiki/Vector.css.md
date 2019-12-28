@@ -1,10 +1,6 @@
 /\* 此处的 CSS 将影响使用 Vector 皮肤的用户 \*/
 
-body.ns-4.page-Wikipedia_首页 \#deleteconfirm,
-body.ns-4.page-Wikipedia_首页 \#t-cite, body.ns-4.page-Wikipedia_首页
-\#footer-info-lastmod, body.ns-4.page-Wikipedia_首页 \#siteSub,
-body.ns-4.page-Wikipedia_首页 \#contentSub, body.ns-4.page-Wikipedia_首页
-h1.firstHeading {
+body.ns-4.page-Wikipedia_首页 \#deleteconfirm, body.ns-4.page-Wikipedia_首页 \#t-cite, body.ns-4.page-Wikipedia_首页 \#footer-info-lastmod, body.ns-4.page-Wikipedia_首页 \#siteSub, body.ns-4.page-Wikipedia_首页 \#contentSub, body.ns-4.page-Wikipedia_首页 h1.firstHeading {
 
 `   display: none !important;`
 
@@ -56,8 +52,7 @@ body.ns-4.page-Wikipedia_首页 \#jump-to-nav {
 
 /\* The following are Vector bugfixes \*/
 
-/\* Temporary fix until
-[bugzilla:19567](../Page/bugzilla:19567.md "wikilink") is addressed \*/
+/\* Temporary fix until [bugzilla:19567](https://zh.wikipedia.org/wiki/bugzilla:19567 "wikilink") is addressed \*/
 
 1.  siteNotice div { margin: 0; }
 2.  siteNotice div.expanded table.siteNoticeUser { margin-bottom: 1em; }
@@ -86,7 +81,7 @@ body.ns-4.page-Wikipedia_首页 \#jump-to-nav {
 1.  mp-2012-banner {
 
 `   /* In default font size, #bodyContent has font-size: 0.8em. */`
-`   /* See also: `[`bugzilla:57401`](../Page/bugzilla:57401.md "wikilink")` */`
+`   /* See also: `[`bugzilla:57401`](https://zh.wikipedia.org/wiki/bugzilla:57401 "wikilink")` */`
 `   margin: 0 -1.25em;`
 `   margin: 0 -1rem !important;`
 

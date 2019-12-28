@@ -1,4 +1,4 @@
-《**機動戰士海盜鋼彈**》（、）簡稱CBG，是[長谷川裕一](../Page/長谷川裕一.md "wikilink")的[鋼彈漫畫系列作品](https://zh.wikipedia.org/wiki/鋼彈系列作品 "wikilink")，在月刊少年ACE上由1994年12月號（創刊號）連載至1997年3月號，全27話，單行本6冊。續作有短篇外傳集的《[機動戰士海盜GUNDAM 骷髏之心](../Page/機動戰士海盜GUNDAM_骷髏之心.md "wikilink")》、講述本作結局三年後（UC0136）的《[機動戰士海盜GUNDAM 鋼鐵之七人](../Page/機動戰士海盜GUNDAM_鋼鐵之七人.md "wikilink")》、 UC0153的《[機動戰士海盜GUNDAM GHOST](https://zh.wikipedia.org/wiki/機動戰士海盜GUNDAM_GHOST "wikilink")》及UC0169的《[機動戰士海盜GUNDAM DUST](https://zh.wikipedia.org/wiki/機動戰士海盜GUNDAM_DUST "wikilink")》。
+《**機動戰士海盜鋼彈**》（、）簡稱CBG，是[長谷川裕一](../Page/長谷川裕一.md "wikilink")的[鋼彈漫畫系列作品](https://zh.wikipedia.org/wiki/鋼彈系列作品 "wikilink")，在月刊少年ACE上由1994年12月號（創刊號）連載至1997年3月號，全27話，單行本6冊。續作有短篇外傳集的《[機動戰士海盜GUNDAM 骷髏之心](../Page/機動戰士海盜GUNDAM_骷髏之心.md "wikilink")》、講述本作結局三年後（UC0136）的《[機動戰士海盜GUNDAM 鋼鐵之七人](../Page/機動戰士海盜GUNDAM_鋼鐵之七人.md "wikilink")》、 UC0153的《[機動戰士海盜GUNDAM GHOST](../Page/機動戰士海盜GUNDAM_GHOST.md "wikilink")》及UC0169的《[機動戰士海盜GUNDAM DUST](../Page/機動戰士海盜GUNDAM_DUST.md "wikilink")》。
 
 ## 故事介紹
 
@@ -370,8 +370,8 @@
   - [機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")
   - [機動戰士海盜GUNDAM 骷髏之心](../Page/機動戰士海盜GUNDAM_骷髏之心.md "wikilink")
   - [機動戰士海盜GUNDAM 鋼鐵之七人](../Page/機動戰士海盜GUNDAM_鋼鐵之七人.md "wikilink")
-  - [機動戰士海盜GUNDAM GHOST](https://zh.wikipedia.org/wiki/機動戰士海盜GUNDAM_GHOST "wikilink")
-  - [機動戰士海盜GUNDAM DUST](https://zh.wikipedia.org/wiki/機動戰士海盜GUNDAM_DUST "wikilink")
+  - [機動戰士海盜GUNDAM GHOST](../Page/機動戰士海盜GUNDAM_GHOST.md "wikilink")
+  - [機動戰士海盜GUNDAM DUST](../Page/機動戰士海盜GUNDAM_DUST.md "wikilink")
 
 ## 註解
 

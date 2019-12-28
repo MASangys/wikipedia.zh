@@ -37,7 +37,7 @@
   - [異氰酸甲酯](../Page/異氰酸甲酯.md "wikilink")（**M**ethyl **I**so**c**yanate），a chemical compound used in pesticides
   - [Microbial corrosion](https://zh.wikipedia.org/wiki/Microbial_corrosion "wikilink"), or microbially-induced corrosion, corrosion caused or promoted by microorganisms
   - [Microscopium](https://zh.wikipedia.org/wiki/Microscopium "wikilink"), a constellation
-  - [Minimum inhibitory concentration](https://zh.wikipedia.org/wiki/Minimum_inhibitory_concentration "wikilink"), in microbiology, the lowest concentration of an antimicrobial that will inhibit growth of a microorganism
+  - [最小抑菌浓度 inhibitory concentration:MIC）](../Page/最小抑菌浓度.md "wikilink")（minimum, in microbiology, the lowest concentration of an antimicrobial that will inhibit growth of a microorganism
   - [Medical image computing](https://zh.wikipedia.org/wiki/Medical_image_computing "wikilink"), an interdisciplinary field
   - [Maximal information coefficient](https://zh.wikipedia.org/wiki/Maximal_information_coefficient "wikilink"), a statistical measure of association between variables
 

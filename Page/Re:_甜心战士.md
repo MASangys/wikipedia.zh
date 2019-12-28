@@ -134,7 +134,7 @@
   - 原作：[永井豪](../Page/永井豪.md "wikilink")
   - 总导演：[庵野秀明](../Page/庵野秀明.md "wikilink")
   - 导演：[今石洋之](../Page/今石洋之.md "wikilink")(第1话监督)、伊藤尚往(第2话监督)、[摩砂雪](../Page/摩砂雪.md "wikilink")(第3话监督)
-  - 系列构成：
+  - 系列构成：[中島かずき](https://zh.wikipedia.org/wiki/中島かずき "wikilink")
   - 角色设定·标题logo：[平松禎史](../Page/平松禎史.md "wikilink")
   - 音乐：上田益
   - 动画制作 - [东映动画](../Page/东映动画.md "wikilink")

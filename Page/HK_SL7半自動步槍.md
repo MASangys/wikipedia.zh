@@ -49,8 +49,6 @@ SL7仍然為了[欧洲](../Page/欧洲.md "wikilink")市場而生產，但已不
 [Category:半自动步枪](https://zh.wikipedia.org/wiki/Category:半自动步枪 "wikilink") [Category:黑克勒-科赫](https://zh.wikipedia.org/wiki/Category:黑克勒-科赫 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:延遲反沖作用槍械](https://zh.wikipedia.org/wiki/Category:延遲反沖作用槍械 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  <http://www.hkpro.com/index.php?option=com_content&view=article&id=19:the-hk770>

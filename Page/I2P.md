@@ -92,7 +92,7 @@ I2P中将可到达的匿名端点（EndPoint）称为目标（Destination）在I
 
   - [匿名P2P](https://zh.wikipedia.org/wiki/匿名P2P "wikilink")
   - [大蒜路由](https://zh.wikipedia.org/wiki/大蒜路由 "wikilink")
-  - [密码学无政府主义](https://zh.wikipedia.org/wiki/密码学无政府主义 "wikilink")
+  - [密码学无政府主义](../Page/密码学无政府主义.md "wikilink")
   - [Tor](../Page/Tor.md "wikilink") –相似的匿名通信系统；Internet代理网络；
   - [OneSwarm](../Page/OneSwarm.md "wikilink")
 

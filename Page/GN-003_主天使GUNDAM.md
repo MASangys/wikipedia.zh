@@ -30,7 +30,7 @@
 <!-- end list -->
 
   -
-    名稱源自於九大天使階級之一的「[主天使](https://zh.wikipedia.org/wiki/主天使 "wikilink")（Kyriotetes）」。
+    名稱源自於九大天使階級之一的「[主天使](../Page/主天使.md "wikilink")（Kyriotetes）」。
 
 ## 重要戰鬥史
 

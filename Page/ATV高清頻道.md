@@ -1,8 +1,10 @@
-**aTV9高清頻道**（簡稱**aTV9**，[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**aTV HDTV**）是香港[亞洲電視](../Page/亞洲電視.md "wikilink")的一條以[高清格式播放的](https://zh.wikipedia.org/wiki/高清電視 "wikilink")[數碼電視頻道](https://zh.wikipedia.org/wiki/數碼電視 "wikilink")，2007年12月31日晚19:00开播。该频道仅在晚上20:00-22:00/19:00-22:00（星期六日）播出[1](https://web.archive.org/web/20071228160625/http://www.hkatv.com/v3/schedule/schedule-19.html)，星期日亦會播放一套[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。\[1\]为改善播出质量，该频道播出节目期间，[動感資訊](../Page/動感資訊頻道.md "wikilink")/[魅力資訊](../Page/魅力資訊頻道.md "wikilink")/[文化資訊会暂停播出](../Page/文化資訊頻道.md "wikilink")（该三个频道的节目单对有关时段以“高清广播”标注）。\[2\]该频道暫停廣播時，会通过四個小螢幕分別显示[新聞財經](../Page/新聞財經頻道.md "wikilink")、[動感資訊](../Page/動感資訊頻道.md "wikilink")、[魅力資訊和](../Page/魅力資訊頻道.md "wikilink")[文化資訊四條標清頻道的即時畫面](../Page/文化資訊頻道.md "wikilink")（當中以新聞財經頻道的畫面較大），右方則以文字顯示即時新聞簡訊，[2008亞洲小姐競選的佳麗資料亦安排於此播放](https://zh.wikipedia.org/wiki/2008亞洲小姐競選 "wikilink")，有关安排自2009年亞視宣布重組頻道後取消。該頻道須以升級版[DMB-T/H接收器才能接收](https://zh.wikipedia.org/wiki/DMB-T/H "wikilink")，頻道號碼為19，在星期三赛马日内，该频道不会播出。
+**aTV9高清頻道**（簡稱**aTV9**，[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**aTV HDTV**）是香港[亞洲電視](../Page/亞洲電視.md "wikilink")的一條以[高清格式播放的](https://zh.wikipedia.org/wiki/高清電視 "wikilink")[數碼電視頻道](https://zh.wikipedia.org/wiki/數碼電視 "wikilink")，2007年12月31日晚19:00开播。该频道仅在晚上20:00-22:00/19:00-22:00（星期六日）播出[1](https://web.archive.org/web/20071228160625/http://www.hkatv.com/v3/schedule/schedule-19.html)，星期日亦會播放一套[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。\[1\]为改善播出质量，该频道播出节目期间，[動感資訊](../Page/動感資訊頻道.md "wikilink")/[魅力資訊](../Page/魅力資訊頻道.md "wikilink")/[文化資訊会暂停播出](../Page/文化資訊頻道.md "wikilink")（该三个频道的节目单对有关时段以“高清广播”标注）。\[2\]该频道暫停廣播時，会通过四個小螢幕分別显示[新聞財經](../Page/新聞財經頻道.md "wikilink")、[動感資訊](../Page/動感資訊頻道.md "wikilink")、[魅力資訊和](../Page/魅力資訊頻道.md "wikilink")[文化資訊四條標清頻道的即時畫面](../Page/文化資訊頻道.md "wikilink")（當中以新聞財經頻道的畫面較大），右方則以文字顯示即時新聞簡訊，[2008亞洲小姐競選的佳麗資料亦安排於此播放](https://zh.wikipedia.org/wiki/2008亞洲小姐競選 "wikilink")，有关安排自2009年亞視宣布重組頻道後取消。該頻道須以升級版[DMB-T/H接收器才能接收](https://zh.wikipedia.org/wiki/DMB-T/H "wikilink")，頻道號碼為19。
 
-[2008北京奧運舉行期間改名為高清奧運](https://zh.wikipedia.org/wiki/2008北京奧運 "wikilink")19台\[3\]，聯同[本港台](../Page/本港台.md "wikilink")、[奧運13台](../Page/動感資訊頻道.md "wikilink")、[奧運14台及](../Page/魅力資訊頻道.md "wikilink")[奧運15台全天候多角度直播奧運賽事](../Page/文化資訊頻道.md "wikilink")。
+此頻道每日只在傍晚開始的「[黃金時間」播放](https://zh.wikipedia.org/wiki/黃金時間」 "wikilink")2-3小時，另外相信是要遷就賽馬日於[動感資訊頻道](../Page/動感資訊頻道.md "wikilink")播放賽馬節目，因此**高清頻道**在星期三晚上通常都不會廣播\[3\]。
 
-由於配合亞洲電視數碼頻道重組，2009年4月1日，亞洲電視高清頻道被全天候24小時廣播的[亞洲高清台](https://zh.wikipedia.org/wiki/亞洲高清台 "wikilink")（HD aTV）所取代，即[亞洲台](../Page/亞洲電視亞洲台.md "wikilink")（aTV Asia）。該台號碼更改為12，簡稱aTV12。\[4\]
+[2008北京奧運舉行期間改名為高清奧運](https://zh.wikipedia.org/wiki/2008北京奧運 "wikilink")19台\[4\]，聯同[本港台](../Page/本港台.md "wikilink")、[奧運13台](../Page/動感資訊頻道.md "wikilink")、[奧運14台及](../Page/魅力資訊頻道.md "wikilink")[奧運15台全天候多角度直播奧運賽事](../Page/文化資訊頻道.md "wikilink")。
+
+由於配合亞洲電視數碼頻道重組，2009年4月1日，亞洲電視高清頻道被全天候24小時廣播的[亞洲高清台](https://zh.wikipedia.org/wiki/亞洲高清台 "wikilink")（HD aTV）所取代，即[亞洲台](../Page/亞洲電視亞洲台.md "wikilink")（aTV Asia）。該台號碼更改為12，簡稱aTV12。\[5\]
 
 ## 電視節目
 
@@ -55,7 +57,7 @@
 
 ### 賽馬節目
 
-亞視於2008年12月13日在[高清頻道播放首個高清製作的賽馬節目](https://zh.wikipedia.org/wiki/亞洲電視高清頻道 "wikilink")《國際賽晨操高清睇》，稱會於2009年計劃將賽馬直播節目提升至高清畫質，惟该安排自2009重组频道后取消。\[5\]
+亞視於2008年12月13日在[高清頻道播放首個高清製作的賽馬節目](https://zh.wikipedia.org/wiki/亞洲電視高清頻道 "wikilink")《國際賽晨操高清睇》，稱會於2009年計劃將賽馬直播節目提升至高清畫質，惟该安排自2009重组频道后取消。\[6\]
 
   - 國際賽晨操高清睇
 
@@ -87,6 +89,7 @@
 
 1.  [aTV高清頻道節目表](http://www.hkatv.com/v3/schedule/schedule-19.html)
 2.  [aTV 亞洲電視 數碼廣播](http://app.hkatv.com/v3/digitalbroadcast/index.php)
-3.  <http://hk.youtube.com/watch?v=D1HaWxmRDfc>
-4.  [亞視新數碼頻道投資減少](http://hk.news.yahoo.com/article/090323/4/bb7j.html)
-5.
+3.  刊載於部份媒體的電視節目表中“aTV高清頻道”一欄，星期三的節目表上寫著“全日暫停廣播”或其他類似意思的字句，而沒任何節目名稱及播放時段的資訊。
+4.  <http://hk.youtube.com/watch?v=D1HaWxmRDfc>
+5.  [亞視新數碼頻道投資減少](http://hk.news.yahoo.com/article/090323/4/bb7j.html)
+6.

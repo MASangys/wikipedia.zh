@@ -10,7 +10,7 @@ DigiKam已获得TUX 2005年和2008年读者选择奖喜爱的数字照片管理�
 
 ## 其他操作系统
 
-  - [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink"): digiKam已经作为[KDE on Windows project](http://windows.kde.org/)的一部分發布。
+  - [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink"): digiKam已经作为[KDE on Windows project](https://web.archive.org/web/20100419012037/http://windows.kde.org/)的一部分發布。
 
 ## 技术信息
 

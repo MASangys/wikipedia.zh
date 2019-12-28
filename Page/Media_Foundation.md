@@ -49,16 +49,16 @@ Media Foundation首次適用於Windows Vista,可見諸於media playback applicat
 
 ## 外部連結
 
-  - [Microsoft Media Foundation SDK](http://msdn2.microsoft.com/en-us/library/ms694197.aspx)
+  - [Microsoft Media Foundation SDK](https://web.archive.org/web/20080406133512/http://msdn2.microsoft.com/en-us/library/ms694197.aspx)
   - [Media Foundation Development Forum](https://web.archive.org/web/20081218032005/http://forums.microsoft.com/MSDN/ShowForum.aspx?ForumID=387&SiteID=1)
   - [Media Source Metadata](http://msdn2.microsoft.com/en-us/library/aa368930.aspx)
   - [Media Foundation Pipeline](http://msdn2.microsoft.com/en-us/library/ms703912.aspx)
   - [Media Foundation Architecture](http://msdn2.microsoft.com/en-us/library/ms696219.aspx)
   - [About the Media Session](http://msdn2.microsoft.com/en-us/library/ms694084.aspx)
   - [About the Media Foundation SDK](http://msdn2.microsoft.com/en-us/library/ms696274.aspx)
-  - [Enhanced Video Renderer](http://msdn2.microsoft.com/en-us/library/ms694916.aspx)
+  - [Enhanced Video Renderer](https://web.archive.org/web/20080406115323/http://msdn2.microsoft.com/en-us/library/ms694916.aspx)
 
 [Category:Windows多媒体](https://zh.wikipedia.org/wiki/Category:Windows多媒体 "wikilink") [Category:多媒体框架](https://zh.wikipedia.org/wiki/Category:多媒体框架 "wikilink")
 
-1.  [Migrating from DirectShow to Media Foundation and comparison of the two](http://msdn2.microsoft.com/en-us/library/aa468614.aspx)
+1.
 2.  [Supported Media Formats in Media Foundation](https://msdn.microsoft.com/en-us/library/dd757927)

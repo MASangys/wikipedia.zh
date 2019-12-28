@@ -87,7 +87,7 @@
 
 #### [深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")
 
-  - [平安金融中心](../Page/平安金融中心.md "wikilink")（僅辦公室升降機，採用PORT系統，不包括穿梭升降機）
+  - [平安金融中心](../Page/平安金融中心.md "wikilink")（僅辦公室升降機，採用PORT系統，不包括穿梭升降機、觀景台及其中三台辦公室升降機）
   - [騰訊濱海大廈](../Page/騰訊濱海大廈.md "wikilink")（採用與[騰訊合作開發的特別版PORT系統](https://zh.wikipedia.org/wiki/騰訊 "wikilink")，必須使用員工已綁定的[微信賬號召喚升降機](https://zh.wikipedia.org/wiki/微信#電梯智能分配系統操作介面（限騰訊員工） "wikilink")）
   - [深圳灣一號](https://zh.wikipedia.org/wiki/深圳灣一號 "wikilink")
 
@@ -98,4 +98,4 @@
 
 [en:Schindler Group\#Destination control systems](https://zh.wikipedia.org/wiki/en:Schindler_Group#Destination_control_systems "wikilink")
 
-[Category:建筑设计](https://zh.wikipedia.org/wiki/Category:建筑设计 "wikilink")
+[Category:建筑设计](https://zh.wikipedia.org/wiki/Category:建筑设计 "wikilink") [Category:升降机](https://zh.wikipedia.org/wiki/Category:升降机 "wikilink")

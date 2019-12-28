@@ -1,4 +1,4 @@
-{{ about|narcissu及narcissu 3rd -Die Dritte Welt-|narcissu SIDE 2nd|narcissu SIDE 2nd }}     《**narcissu**》（）是[日本](../Page/日本.md "wikilink")[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")（Stage Nana）製作的一款免費[同人遊戲](../Page/同人遊戲.md "wikilink")軟體。日文版製作完成後不久，亦由各地的爱好者分別製作[英文版](https://zh.wikipedia.org/wiki/英文 "wikilink")、[中文版](https://zh.wikipedia.org/wiki/中文 "wikilink")、[韓文版](https://zh.wikipedia.org/wiki/韓文 "wikilink")、[法文版及](https://zh.wikipedia.org/wiki/法文 "wikilink")[越南文版遊戲](https://zh.wikipedia.org/wiki/越南文 "wikilink")，同樣是供網上下載的[免費軟體](../Page/免費軟體.md "wikilink")。
+{{ about|narcissu及narcissu 3rd -Die Dritte Welt-|narcissu SIDE 2nd|narcissu SIDE 2nd }}     《**narcissu**》（）是[日本](../Page/日本.md "wikilink")[同人社團](../Page/同人_\(ACG\).md "wikilink")（Stage Nana）製作的一款免費[同人遊戲](../Page/同人遊戲.md "wikilink")軟體。日文版製作完成後不久，亦由各地的爱好者分別製作[英文版](https://zh.wikipedia.org/wiki/英文 "wikilink")、[中文版](https://zh.wikipedia.org/wiki/中文 "wikilink")、[韓文版](https://zh.wikipedia.org/wiki/韓文 "wikilink")、[法文版及](https://zh.wikipedia.org/wiki/法文 "wikilink")[越南文版遊戲](https://zh.wikipedia.org/wiki/越南文 "wikilink")，同樣是供網上下載的[免費軟體](../Page/免費軟體.md "wikilink")。
 
 於2009年4月27日發佈了系列第三作《**narcissu 3rd -Die Dritte Welt-**》（），首次以DVD形式發表，並同時收錄narcissu和narcissu SIDE 2nd。與前兩作不同，不是免費軟體。
 
@@ -10,7 +10,7 @@ narcissu是一款在網上公開發佈的同人[電子小說](https://zh.wikiped
 
 ## 遊戲簡介
 
-的主要製作人，亦是擔任[貓貓軟件的遊戲劇本的](https://zh.wikipedia.org/wiki/貓貓軟件 "wikilink")，他認為[文字](../Page/文字.md "wikilink")、[插圖與](https://zh.wikipedia.org/wiki/插圖 "wikilink")[配音](../Page/配音.md "wikilink")是相輔相乘的，因此他認為在文字上能表達的地方盡量使用更普通的插畫，以保留讀者更多的想象空間。有配音與沒配音的文本也稍微有點不同，在配音版能直接表露[情感上的地方可省略更多的文字](https://zh.wikipedia.org/wiki/情感 "wikilink")，但是可能就被固定了角色的印象，作者希望比較兩者對讀者的印象的差異，所以遊戲亦有兩個文本選擇（有配音、沒配音）。
+的主要製作人，亦是擔任[貓貓軟件的遊戲劇本的](https://zh.wikipedia.org/wiki/貓貓軟件 "wikilink")，他認為[文字](../Page/文字.md "wikilink")、[插圖與](https://zh.wikipedia.org/wiki/插圖 "wikilink")[配音](../Page/配音.md "wikilink")是相輔相乘的，因此他認為在文字上能表達的地方盡量使用更普通的插畫，以保留讀者更多的想象空間。有配音與沒配音的文本也稍微有點不同，在配音版能直接表露[情感上的地方可省略更多的文字](https://zh.wikipedia.org/wiki/情緒 "wikilink")，但是可能就被固定了角色的印象，作者希望比較兩者對讀者的印象的差異，所以遊戲亦有兩個文本選擇（有配音、沒配音）。
 
 因此，narcissu的第一作基於以上的理念，以他早年參與過的商業作品[銀色的形式來進行這個實驗作](../Page/銀色_\(遊戲\).md "wikilink")，盡量削減電子小說中的資訊，給予作者想像的空間。使用[NScripter](../Page/NScripter.md "wikilink")作為遊戲引擎，沒有一般電子小說常有的選擇分歧、角色[立繪](https://zh.wikipedia.org/wiki/立繪 "wikilink")，畫面只有最基本的黑色背景、置中的長幅插圖、置於插圖下方不多於兩行的文字和配樂。可以選擇是否有配音，而文字亦會因應是否配音而有所改變。當使用配音和自動播放功能時，看起來很富電影感。
 
@@ -60,13 +60,13 @@ narcissu是一款在網上公開發佈的同人[電子小說](https://zh.wikiped
 ## 歌曲
 
   - 印象曲：「」（narcissu「～瀨津美的主題曲～」）
-      - 作詞：　作曲、編曲：[ebi](https://zh.wikipedia.org/wiki/ebi "wikilink")（[Sound Union](https://zh.wikipedia.org/wiki/Sound_Union "wikilink")）歌：[REM](https://zh.wikipedia.org/wiki/REM "wikilink")
+      - 作詞：　作曲、編曲：[ebi](https://zh.wikipedia.org/wiki/ebi "wikilink")（[Sound Union](https://zh.wikipedia.org/wiki/Sound_Union "wikilink")）歌：[REM](../Page/R.E.M..md "wikilink")
   - 插曲：「」（在這裏）
       - 作詞：海富一　作曲、編曲：[石橋弘史](https://zh.wikipedia.org/wiki/石橋弘史 "wikilink")　歌：[瑞田茉莉](https://zh.wikipedia.org/wiki/瑞田茉莉 "wikilink")
   - SIDE 2nd主題曲：「」（narcissu）
       - 作詞：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")　作曲、編曲：[菊地創](https://zh.wikipedia.org/wiki/菊地創 "wikilink")　歌：[eufonius](https://zh.wikipedia.org/wiki/eufonius "wikilink")
   - SIDE 2nd插曲：「15 cm」（15厘米）
-      - 作詞：[Takashi](https://zh.wikipedia.org/wiki/Takashi "wikilink")（[Σ-sigma-](https://zh.wikipedia.org/wiki/Σ-sigma- "wikilink")）作曲、編曲：[sin](https://zh.wikipedia.org/wiki/sin "wikilink")（Σ-sigma-）歌：[KAKO](https://zh.wikipedia.org/wiki/KAKO "wikilink")
+      - 作詞：[Takashi](https://zh.wikipedia.org/wiki/Takashi "wikilink")（[Σ-sigma-](https://zh.wikipedia.org/wiki/Σ-sigma- "wikilink")）作曲、編曲：sin（Σ-sigma-）歌：[KAKO](https://zh.wikipedia.org/wiki/KAKO "wikilink")
   - 3rd主題曲：「」
       - 作詞：[三澤秋](https://zh.wikipedia.org/wiki/三澤秋 "wikilink")　作曲、編曲：[onoken](https://zh.wikipedia.org/wiki/onoken "wikilink")　歌：[彩羅](https://zh.wikipedia.org/wiki/彩羅 "wikilink")
 
@@ -133,7 +133,7 @@ narcissu是一款在網上公開發佈的同人[電子小說](https://zh.wikiped
 
   - [Kawa Soft-法語版發佈網站](http://kawasoft.fr/)
 
-  - [SIDE 2nd繁體中文版發佈點](http://yuihorie.myweb.hinet.net/nana2_new_ver1.02.rar)
+  - [SIDE 2nd繁體中文版發佈點](https://web.archive.org/web/20160304102402/http://yuihorie.myweb.hinet.net/nana2_new_ver1.02.rar)
 
   - [角川書店×HOBIBOX：PSP版官方網站](https://web.archive.org/web/20100504191951/http://www.kadohobi.jp/narcissu/)
 

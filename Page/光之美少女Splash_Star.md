@@ -1074,30 +1074,17 @@
 [Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink") [Category:2006年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2006年日本電視動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink") [Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
 
 1.  \-{「凪」字為日文專有漢字；台灣版電視字幕則以「風」替代，而香港版仍保留原字。 }-
-
 2.  原文：
-
 3.  原文：
-
 4.  原文：
-
 5.
 6.  原文：
-
 7.  原文：
-
 8.  惡代官
-
 9.  日文原版稱作諧音“咖哩麵包”
-
 10. 西班牙文“小姐”的意思
-
 11. 「小蘑菇人」
-
 12. 參看第30話
-
 13. 第一次是獲得Spiral Rings ，第二次是獲得月風形態
-
 14. 第41話
-
 15. 每話標題皆由日向咲的聲優樹元織江及美翔-{舞}-的聲優榎本溫子讀出。

@@ -4,7 +4,7 @@
 
 jQuery是[开源软件](../Page/开源软件.md "wikilink")，使用[MIT许可证授权](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")。\[4\] jQuery的语法设计使得许多操作变得容易，如操作-{zh-hans:文档对象;zh-hant:文件;}-（document）、选择[文档对象模型](../Page/文档对象模型.md "wikilink")（）元素、创建[动画](../Page/动画.md "wikilink")效果、处理[事件](https://zh.wikipedia.org/wiki/事件_\(计算机\) "wikilink")、以及开发[Ajax程序](../Page/AJAX.md "wikilink")。jQuery也提供了给开发人员在其上创建[插件](../Page/插件.md "wikilink")的能力。这使开发人员可以对底层交互与动画、高级效果和高级主题化的组件进行抽象化。模块化的方式使jQuery函数库能够创建功能强大的[动态网页以及](https://zh.wikipedia.org/wiki/动态HTML "wikilink")[网络应用程序](../Page/网络应用程序.md "wikilink")。
 
-[微软](../Page/微软.md "wikilink")和[诺基亚](../Page/诺基亚.md "wikilink")已宣布在他们的平台上绑定jQuery。\[5\]微软最初在[Visual Studio中集成了jQuery](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")\[6\]以便在微软自己的[ASP.NET AJAX框架和](../Page/ASP.NET_AJAX.md "wikilink")[ASP.NET MVC Framework中使用](../Page/ASP.NET_MVC_Framework.md "wikilink")，而诺基亚则在他的Web运行时组件开发平台中集成了jQuery\[7\]。[MediaWiki](../Page/MediaWiki.md "wikilink")自从1.16版本后也开始使用jQuery\[8\]。
+[微软](../Page/微软.md "wikilink")和[诺基亚](../Page/诺基亚.md "wikilink")已宣布在他们的平台上绑定jQuery。\[5\]微软最初在[Visual Studio中集成了jQuery](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")\[6\]以便在微软自己的[ASP.NET AJAX框架和](../Page/ASP.NET_AJAX.md "wikilink")[ASP.NET MVC Framework中使用](../Page/ASP.NET_MVC_Framework.md "wikilink")，而诺基亚则在他的Web运行时组件开发平台中集成了jQuery\[7\]。[MediaWiki自从](https://zh.wikipedia.org/wiki/MediaWiki "wikilink")1.16版本后也开始使用jQuery\[8\]。
 
 jQuery 1.3版以後，引入全新的[層疊樣式表](https://zh.wikipedia.org/wiki/層疊樣式表 "wikilink")（）选择器引擎Sizzle。\[9\] 同時不再提供Packed版本，因為解壓縮所消耗的時間，遠大於所節省的下載時間，且不利於[除錯](https://zh.wikipedia.org/wiki/除錯 "wikilink")，且已有Google AJAX Libraries API等公開站台提供jQuery的js的引用服务，故Packed版本原本的優點已蕩然無存。
 

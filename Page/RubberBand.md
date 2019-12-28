@@ -1,4 +1,4 @@
-**RubberBand**，[香港](../Page/香港.md "wikilink")著名樂隊，於2004年成立，成員包括[主音](../Page/主音.md "wikilink")[6號](../Page/繆浩昌.md "wikilink")、[結他手兼隊長阿正](https://zh.wikipedia.org/wiki/結他手 "wikilink")、[低音結他手阿偉以及](https://zh.wikipedia.org/wiki/低音結他手 "wikilink")[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")[泥鯭](../Page/黎萬宏.md "wikilink")。2007年與唱片公司[金牌大風](../Page/金牌大風.md "wikilink")簽約，2008年正式出道成為樂壇新力軍，便旋即獲頒[商業電台](https://zh.wikipedia.org/wiki/商業電台 "wikilink")「叱咤樂壇生力軍組合金獎」，成為樂壇新人王。2009年更空降首奪「叱咤樂壇組合金獎」以及「勁歌金曲組合金獎」。2010年再憑《SimpleLoveSong》首奪「叱咤樂壇至尊歌曲大獎」，同年，成員[琴手藝琛宣佈離隊](https://zh.wikipedia.org/wiki/琴手 "wikilink")。2012年憑專輯《[Easy](../Page/Easy.md "wikilink")》首奪「叱咤樂壇至尊唱片大獎」。2013年2月轉投[寰亞唱片](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")\[1\]\[2\]，2016年正式成為獨立樂隊。2018年推出歌曲《[未來見](https://zh.wikipedia.org/wiki/未來見 "wikilink")》獲得極高評價而備受關注。2019年更憑電影《[逆流大叔](https://zh.wikipedia.org/wiki/逆流大叔 "wikilink")》演唱歌曲《逆流之歌》獲頒兩項[香港電影金像獎](../Page/香港電影金像獎.md "wikilink")的歌曲獎項。
+**RubberBand**，[香港](../Page/香港.md "wikilink")著名樂隊，於2004年成立，成員包括[主音](../Page/主音.md "wikilink")[6號](../Page/繆浩昌.md "wikilink")、[結他手兼隊長阿正](https://zh.wikipedia.org/wiki/結他手 "wikilink")、[低音結他手阿偉以及](https://zh.wikipedia.org/wiki/低音結他手 "wikilink")[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")[泥鯭](../Page/黎萬宏.md "wikilink")。2007年與唱片公司[金牌大風](../Page/金牌大風.md "wikilink")簽約，2008年正式出道成為樂壇新力軍，便旋即獲頒[商業電台](https://zh.wikipedia.org/wiki/商業電台 "wikilink")「叱咤樂壇生力軍組合金獎」，成為樂壇新人王。2009年更空降首奪「叱咤樂壇組合金獎」以及「勁歌金曲組合金獎」。2010年再憑《SimpleLoveSong》首奪「叱咤樂壇至尊歌曲大獎」，同年，成員[琴手藝琛宣佈離隊](https://zh.wikipedia.org/wiki/琴手 "wikilink")。2012年憑專輯《[Easy](../Page/Easy.md "wikilink")》首奪「叱咤樂壇至尊唱片大獎」。2013年2月轉投[寰亞唱片](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")\[1\]\[2\]，2016年正式成為獨立樂隊。2018年推出歌曲《[未來見](../Page/未來見.md "wikilink")》獲得極高評價而備受關注。2019年更憑電影《[逆流大叔](https://zh.wikipedia.org/wiki/逆流大叔 "wikilink")》演唱歌曲《逆流之歌》獲頒兩項[香港電影金像獎](../Page/香港電影金像獎.md "wikilink")的歌曲獎項。
 
 除了歌唱事業外，RubberBand的成員亦有涉足[參演及](../Page/演員.md "wikilink")[執導](https://zh.wikipedia.org/wiki/導演 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")、[舞台劇](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")、[廣告](../Page/廣告.md "wikilink")及[廣播劇](../Page/廣播劇.md "wikilink")等，發展全面。
 
@@ -99,8 +99,8 @@ RubberBand名字來自「[橡筋](https://zh.wikipedia.org/wiki/橡筋 "wikilink
 <td style="text-align: left;"><ol>
 <li>天台飛人</li>
 <li>阿波羅</li>
-<li>Try... Duet.吳雨霏</li>
-<li>夾硬泥 Duet.林海峰</li>
+<li>Try... （Duet.<a href="../Page/吳雨霏.md" title="wikilink">吳雨霏</a>）</li>
+<li>夾硬泥 （Duet.<a href="https://zh.wikipedia.org/wiki/林海峰" title="wikilink">林海峰</a>）</li>
 <li>夏令時間</li>
 <li>衝</li>
 <li>Tears</li>
@@ -228,7 +228,7 @@ RubberBand名字來自「[橡筋](https://zh.wikipedia.org/wiki/橡筋 "wikilink
 <li>豬籠墟事變</li>
 <li>無名英雄進行曲</li>
 <li>M.A.M.A.</li>
-<li>SLOW &amp; EASY</li>
+<li>Slow &amp; Easy</li>
 <li>生於1月17</li>
 <li>進化論</li>
 <li>倒行詩</li>
@@ -332,7 +332,7 @@ RubberBand名字來自「[橡筋](https://zh.wikipedia.org/wiki/橡筋 "wikilink
 <td style="text-align: left;"><ol>
 <li>孤島人</li>
 <li>¿醒未?</li>
-<li></li>
+<li>漫長</li>
 <li></li>
 <li></li>
 <li></li>
@@ -438,7 +438,8 @@ RubberBand名字來自「[橡筋](https://zh.wikipedia.org/wiki/橡筋 "wikilink
 <li>睜開眼</li>
 <li>天連地</li>
 <li>發現號</li>
-<li><strong>鬼叫你窮</strong> （與大AL合唱）（香港電台電視節目《<a href="https://zh.wikipedia.org/wiki/有房出租" title="wikilink">有房出租</a>》第二輯主題曲）</li>
+<li><strong>鬼叫你窮</strong> （與<a href="https://zh.wikipedia.org/wiki/大AL" title="wikilink">大AL合唱</a>）<br />
+（香港電台電視節目《<a href="https://zh.wikipedia.org/wiki/有房出租" title="wikilink">有房出租</a>》第二輯主題曲）</li>
 </ol></td>
 </tr>
 <tr class="even">
@@ -450,7 +451,7 @@ RubberBand名字來自「[橡筋](https://zh.wikipedia.org/wiki/橡筋 "wikilink
 <td style="text-align: left;"><p><strong>CD 1</strong></p>
 <ol>
 <li>發現號</li>
-<li>SLOW &amp; EASY</li>
+<li>Slow &amp; Easy</li>
 <li>陪著你走</li>
 <li>小涼伴（Live）</li>
 <li>睜開眼</li>
@@ -548,8 +549,8 @@ RubberBand名字來自「[橡筋](https://zh.wikipedia.org/wiki/橡筋 "wikilink
 | ---- | ------------- | ----------------------------------------------------------- |
 | 2010 | 或許黃金          | 香港電台電視節目《[證義搜查線](../Page/證義搜查線.md "wikilink")》主題曲           |
 | 2014 | 誓要入刀山         | 電影《[掃毒](../Page/掃毒.md "wikilink")》歌曲                        |
-| 2017 | One Punch     | 動畫《[一拳超人](../Page/一拳超人.md "wikilink")》主題曲                   |
 | 2016 | 天光了\[10\]     |                                                             |
+| 2017 | One Punch     | 動畫《[一拳超人](../Page/一拳超人.md "wikilink")》主題曲                   |
 | 2018 | 大叔情歌          | 電影《[逆流大叔](https://zh.wikipedia.org/wiki/逆流大叔 "wikilink")》插曲 |
 | 2019 | 天光了2019\[11\] |                                                             |
 |      |               |                                                             |
@@ -601,6 +602,13 @@ featuring 6號＠RubberBand</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2017</p></td>
+<td><p>黑膠</p></td>
+<td><p><a href="../Page/李克勤.md" title="wikilink">李克勤</a>主唱<br />
+featuring 6號＠RubberBand</p></td>
+<td><p><a href="../Page/30克.md" title="wikilink">30克</a></p></td>
+</tr>
+<tr class="odd">
 <td><p>2018</p></td>
 <td><p>風塵三俠</p></td>
 <td><p>與<a href="../Page/小肥.md" title="wikilink">小肥</a>及<a href="../Page/側田.md" title="wikilink">側田</a>合唱</p></td>
@@ -910,7 +918,7 @@ featuring 6號＠RubberBand</p></td>
 <tr class="even">
 <td><p>2014</p></td>
 <td><p>外遊尋味</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Blaster" title="wikilink">Blaster</a></p></td>
+<td><p><a href="../Page/Blaster.md" title="wikilink">Blaster</a></p></td>
 <td><p>監：偉@RubberBand、Blaster、<a href="https://zh.wikipedia.org/wiki/Jeremy_Cheng" title="wikilink">Jeremy Cheng</a></p></td>
 <td></td>
 </tr>
@@ -979,7 +987,7 @@ featuring 6號＠RubberBand</p></td>
 </tr>
 <tr class="even">
 <td><p>星期一太空漫遊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Blaster" title="wikilink">Blaster</a></p></td>
+<td><p><a href="../Page/Blaster.md" title="wikilink">Blaster</a></p></td>
 <td><p>監：偉@RubberBand、Blaster、Jeremy Cheng</p></td>
 <td></td>
 <td></td>
@@ -1291,6 +1299,7 @@ featuring 6號＠RubberBand</p></td>
 | Hours                                                                                    |
 | Hours                                                                                    |
 | **2019年**                                                                                |
+|                                                                                          |
 |                                                                                          |
 |                                                                                          |
 

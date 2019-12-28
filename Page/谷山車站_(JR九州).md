@@ -27,7 +27,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>上行</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鹿兒島中央站" title="wikilink">鹿兒島中央方向</a></p></td>
+<td><p><a href="../Page/鹿兒島中央站.md" title="wikilink">鹿兒島中央方向</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

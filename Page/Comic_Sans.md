@@ -66,7 +66,7 @@ Snog部落格訪談文生·康奈爾本人之後，戴夫承認他未經康奈�
   - [Snog Blog：與文生·康奈爾的訪談](http://www.manic.com.sg/blog/archives/000118.php)
   - [Comic Sans | Font for the masses or weed of the graphic world?](https://web.archive.org/web/20070820195754/http://seattletimes.nwsource.com/html/living/2003765237_webcomicsans28.html)
   - [Comic Sans Appreciation Society](https://web.archive.org/web/20060715060411/http://www.littlewonder.pwp.blueyonder.co.uk/ourcause/index.htm)
-  - [Comical Euri Shop](http://www.spreadshirt.net/shop.php?sid=200098)
+  - [Comical Euri Shop](https://web.archive.org/web/20070927200832/http://www.spreadshirt.net/shop.php?sid=200098)
   - [Comic Sans Flickr group](http://www.flickr.com/groups/comicsans/)
 
 [Category:字體](https://zh.wikipedia.org/wiki/Category:字體 "wikilink") [Category:Windows_XP字體](https://zh.wikipedia.org/wiki/Category:Windows_XP字體 "wikilink") [Category:網頁核心字型](https://zh.wikipedia.org/wiki/Category:網頁核心字型 "wikilink") [Category:微软字体](https://zh.wikipedia.org/wiki/Category:微软字体 "wikilink")

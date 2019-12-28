@@ -12,9 +12,6 @@
 [Category:视频编解码器](https://zh.wikipedia.org/wiki/Category:视频编解码器 "wikilink")
 
 1.  On2 (2001-01-09) [On2 and Equator Enter Into a Formal Licensing Agreement](http://www.on2.com/index.php?id=486&news_id=385), Retrieved on 2001-01-09
-
 2.  On2 (2001-05-18) [On2 to Debut VP4 for the Web, Part of New Website Launch](http://www.on2.com/index.php?id=486&news_id=376) , Retrieved on 2009-08-16
-
 3.  On2 (2001-06-20) [On2 Posts Production Release of VP4 Codec](http://www.on2.com/index.php?id=486&news_id=372) , Retrieved on 2009-08-16
-
 4.

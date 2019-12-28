@@ -51,7 +51,7 @@ MorphXT用的是自己的反吸血功能，未用[Xtreme的](https://zh.wikipedi
 
   - [emule-mods.de上的MorphXT页面](http://www.emule-mods.de/?mods=morphxt)
 
-  - [emulefans.com（电骡爱好者）blog上的MorphXT页面](http://emulefans.com/news/emule/morphxt/)
+  - [emulefans.com（电骡爱好者）blog上的MorphXT页面](https://web.archive.org/web/20100705124812/http://emulefans.com/news/emule/morphxt/)
 
 [Category:EMule](https://zh.wikipedia.org/wiki/Category:EMule "wikilink")
 

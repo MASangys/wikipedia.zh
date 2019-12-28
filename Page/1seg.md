@@ -38,7 +38,7 @@ NHK在法律限制解除以后，自2009年起开始1seg放送，并从2010年�
 
 2006年4月1日，1seg广播服务与地上高清数字电视广播服务同时开始。但是由於接收端是移動裝置，若是在地面、室内等高度未滿10公尺的位置，即使在广播区域內仍可能因无线电信号強度太弱而无法收视。
 
-2006年12月1日，隨著各[都道府縣的](https://zh.wikipedia.org/wiki/都道府縣 "wikilink")[NHK和](https://zh.wikipedia.org/wiki/日本放送協会 "wikilink")[民放所有發送局開始發送地面数字电视信号](https://zh.wikipedia.org/wiki/民放 "wikilink")，1seg的放送范围也扩展到了全国。但是[放送大学並不播送](https://zh.wikipedia.org/wiki/放送大学学園 "wikilink")1seg节目。
+2006年12月1日，隨著各[都道府縣的](https://zh.wikipedia.org/wiki/都道府縣 "wikilink")[NHK和](https://zh.wikipedia.org/wiki/日本放送協会 "wikilink")[民放所有發送局開始發送地面数字电视信号](https://zh.wikipedia.org/wiki/民放 "wikilink")，1seg的放送范围也扩展到了全国。[放送大学作为例外](https://zh.wikipedia.org/wiki/放送大学学園 "wikilink")，並不播送1seg节目，但它的地面数字电视放送已经在2018年10月30日终止。
 
 是针对遊樂場、博物館、大學等特定區域提供的广播服务。在[羽田机场等处的实验后](https://zh.wikipedia.org/wiki/羽田机场 "wikilink")，2011年4月，日本政府指定了“[白频段特区](https://zh.wikipedia.org/wiki/白频段 "wikilink")”，\[9\]允许在特定区域内进行1seg的研究开发和测试验证。\[10\]此后2012年4月区域放送制度化，开始发行的执照。区域放送也同时允许12seg的高清信号广播，例如[六本木新城](../Page/六本木新城.md "wikilink")的区域放送和。
 
@@ -128,29 +128,17 @@ NHK在法律限制解除以后，自2009年起开始1seg放送，并从2010年�
 
 1.
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  （节目表，每周更新）
-
 9.
-
 10.
-
 11.
-
 12.
 13.
 14.
-
 15.
-
 16.

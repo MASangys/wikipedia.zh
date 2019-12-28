@@ -59,9 +59,14 @@
 
 值得一提的是，[陳慧嫻](../Page/陳慧嫻.md "wikilink")復出後亦於2008年2月8至9日舉行《活出生命II》慈善演唱會，同樣不少歌曲均不是陳慧嫻本人原唱。
 
+## 相關提名 / 獎項
+
+  - 2005年度IFPI十大銷量廣東唱片\[3\]
+
 ## 參考資料
 
 [Category:張學友演唱會](https://zh.wikipedia.org/wiki/Category:張學友演唱會 "wikilink") [Category:張學友音樂專輯](https://zh.wikipedia.org/wiki/Category:張學友音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
 
 1.  [京東商城：音乐华语流行销售榜Top 100](http://mvd.jd.com/mvdtop-4051-2-4056-0-1.html)
 2.  [「IFPI香港唱片銷量大獎 2005」獲獎名單](http://www.rthk.org.hk/press/chi/attach/ifpi2005.htm)
+3.  [www.ifpihk.org](http://www.ifpihk.org/hong-kong-top-sales-music-award-presented-01-11/hong-kong-top-sales-music-award-presented/2005)

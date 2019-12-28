@@ -26,7 +26,7 @@
   - 相原哲司：[中野英雄](https://zh.wikipedia.org/wiki/中野英雄 "wikilink")
   - 相原伸子：[古手川祐子](https://zh.wikipedia.org/wiki/古手川祐子 "wikilink")
   - 戶田：[岩城滉一](https://zh.wikipedia.org/wiki/岩城滉一 "wikilink")（特別演出）
-  - 野崎幸：[八千草薰](https://zh.wikipedia.org/wiki/八千草薰 "wikilink")
+  - 野崎幸：[八千草薰](../Page/八千草薰.md "wikilink")
 
 ### 主題歌
 

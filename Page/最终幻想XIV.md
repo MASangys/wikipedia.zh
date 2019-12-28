@@ -111,7 +111,7 @@
 
 ## 评价
 
-PC初版《最终幻想XIV》获得消极评价。批评内容从基本不完整的结构到大量漏洞与小故障，得出了游戏未完成，实际上几乎无法游玩的一致结论。游戏在[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic](../Page/Metacritic.md "wikilink")上的汇总得分皆为49%\[47\]\[48\]，是系列得分最低的正传。[GameSpot](../Page/GameSpot.md "wikilink")的凯文·万奥德以游戏糟糕的界面、设限的任务、糟糕的玩家与NPC组织，以及发行时大量其他错误为证，称游戏是“对此类游戏的退步”\[49\]。[1UP.com](../Page/1UP.com.md "wikilink")称《最终幻想XIV》本性上“是一款深度和潜力可观的游戏，但在正式推出准备好之前还另需6到9个月”，他们还称“就其现状是不可能推荐给任何人的”\[50\]。《[PC Gamer](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")》评论员汤姆·西尼尔写道，“对这款最终幻想MMO最仁慈的说法是，他的开场影片令人满意”。[GameTrailers](../Page/GameTrailers.md "wikilink")称其“处处是失败”且“不值得争论”，并称无法接受这个“不完整的大杂烩”投放上市。网站在2010年12月的“年度游戏奖”将其列为“年度最失望游戏”，还将游戏列入“十大最糟续作”。Cheat Code Central的评价较为赞许，但依然先指出他们“不推荐在有诸多缺陷《FFXIV》的作品上花费$50，以及头30天后的$12.99”\[51\]。这句话后来从评论中删除\[52\]。
+PC初版《最终幻想XIV》获得消极评价。批评内容从基本不完整的结构到大量漏洞与小故障，得出了游戏未完成，实际上几乎无法游玩的一致结论。游戏在[GameRankings](../Page/GameRankings.md "wikilink")和[Metacritic](../Page/Metacritic.md "wikilink")上的汇总得分皆为49%\[47\]\[48\]，是系列得分最低的正传。[GameSpot](../Page/GameSpot.md "wikilink")的凯文·万奥德以游戏糟糕的界面、设限的任务、糟糕的玩家与NPC组织，以及发行时大量其他错误为证，称游戏是“对此类游戏的退步”\[49\]。[1UP.com](../Page/1UP.com.md "wikilink")称《最终幻想XIV》本性上“是一款深度和潜力可观的游戏，但在正式推出准备好之前还另需6到9个月”，他们还称“就其现状是不可能推荐给任何人的”\[50\]。《[PC Gamer](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")》评论员汤姆·西尼尔写道，“对这款最终幻想MMO最仁慈的说法是，他的开场影片令人满意”。[GameTrailers](../Page/GameTrailers.md "wikilink")称其“处处是失败”且“不值得争论”，并称无法接受这个“不完整的大杂烩”投放上市。网站在2010年12月的“年度游戏奖”将其列为“年度最失望游戏”，还将游戏列入“十大最糟续作”。Cheat Code Central的评价较为赞许，但依然先指出他们“不推荐在有诸多缺陷《FFXIV》的作品上花费$50，以及头30天后的$12.99”\[51\]。这句话后来从评论中删除\[52\]。
 
 截至2010年11月4日，第一版《最终幻想XIV》在日本出货19万，北美21万，欧洲23万\[53\]。
 

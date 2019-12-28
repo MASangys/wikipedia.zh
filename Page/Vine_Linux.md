@@ -93,16 +93,10 @@ Vine Linux的发布历史
 [Category:自由作業系統](https://zh.wikipedia.org/wiki/Category:自由作業系統 "wikilink") [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink")
 
 1.  [About Project Vine?](http://vinelinux.org/projectvine.html)
-
 2.  [＠IT：リアルタイムアンケート集計結果 使用ディストリビューションは？](http://www.atmarkit.co.jp/flinux/survey/vote/resultold.html#00)
-
 3.  [Linux基金会所发布](../Page/Linux基金會.md "wikilink") [2007 Linux 桌面/客户端调查](https://www.linux-foundation.org/en/2007ClientSurvey)  中 [的调查结果 - 日本版](http://www.surveymonkey.com/sr.aspx?sm=0wQA8tOs6j2LBZWkZQu9_2fbPruGGkLL_2bTMsYRUKSENtA_3d)
-
 4.  [「Windows Vista」と「Vine Linux」のデュアルブート構成済みノートPC](http://enterprise.watch.impress.co.jp/cda/hardware/2007/11/16/11654.html)
-
 5.  [Vine Linux errata webmin にセキュリティホール(10/30 更新)](http://vinelinux.org/errata/25x/20021027-1.html)
-
 6.  [Vine Linux News - 日本OSS推進フォーラムの復興支援プロジェクトで Vine Linux 6 特別版を配布](http://vinelinux.org/news/20120202.html)
-
 7.
 8.

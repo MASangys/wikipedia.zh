@@ -45,7 +45,7 @@ Phonon从一开始就被设计成Qt函数的风格，[Qt](../Page/Qt.md "wikilin
 
 ## 外部連結
 
-  - [Phonon 官方網站](http://phonon.kde.org/)
+  - [Phonon 官方網站](https://www.webcitation.org/67lLj6qv4?url=http://phonon.kde.org/)
   - [通向KDE4之路（六）：令多媒体编程更轻松的Phonon](http://www.kdecn.org/dot/index.php?id=1170773239)
   - [PulseAudio](../Page/PulseAudio.md "wikilink") - 一个[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")、可通过网络工作的声音服务
   - [JACK Audio Connection Kit](../Page/JACK_Audio_Connection_Kit.md "wikilink") - 一个专业级的声音服务

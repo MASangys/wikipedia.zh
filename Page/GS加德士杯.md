@@ -52,5 +52,5 @@
 [Category:韩国围棋比赛](https://zh.wikipedia.org/wiki/Category:韩国围棋比赛 "wikilink")
 
 1.  [韩国GS杯决战收兵 元晟溱3比1胜赵汉乘夺冠(谱)_综合体育_新浪竞技风暴_新浪网](http://sports.sina.com.cn/go/2010-11-15/16345310268.shtml)
-2.  [金志锡3比0零封李世石首夺GS加德士杯 获得个人第二冠](http://weiqi.sports.tom.com/2013-04-22/00UP/44676837.html)
+2.
 3.  [加德士杯赵汉乘胜洪基杓获五连胜 李世石对局作弃权处理](http://weiqi.sports.tom.com/2009-07-06/00UP/28026288.html)

@@ -293,7 +293,7 @@
 <td><p>16 MiB</p></td>
 <td><p>UHD Graphic 630</p></td>
 <td><p>350-1200 MHz</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+<td><p><a href="../Page/LGA_1151.md" title="wikilink">LGA 1151</a></p></td>
 <td><p>DMI 3.0</p></td>
 <td><p>DDR4-2666</p></td>
 </tr>
@@ -336,13 +336,13 @@
 <tr class="odd">
 <td><p>Core i9-9900KS</p></td>
 <td></td>
-<td><p>2019年</p></td>
+<td><p>2019年10月</p></td>
 <td><p>4.0 GHz</p></td>
 <td><p>UHD Graphic 630</p></td>
-<td><p>N/A</p></td>
+<td><p>350-1200 MHz</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>127W</p></td>
+<td><p>$513</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -355,10 +355,10 @@
 <td><p>2019年4月</p></td>
 <td><p>2.1 GHz</p></td>
 <td><p>4.4 GHz</p></td>
-<td><p>350-1200 MHz</p></td>
 <td><p>CM8068403874122</p></td>
 <td><p>35W</p></td>
 <td><p>$439</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -398,5 +398,5 @@
 
 [Category:Intel处理器](https://zh.wikipedia.org/wiki/Category:Intel处理器 "wikilink") [Category:Intel_x86處理器](https://zh.wikipedia.org/wiki/Category:Intel_x86處理器 "wikilink")
 
-1.  [32nm震撼全球！Intel Westmere处理器全解析](http://diy.yesky.com/cpu/316/8709816.shtml)
+1.
 2.  [32nm六核心Gulftown实物 Core i9首曝](http://news.mydrivers.com/1/141/141033.htm)

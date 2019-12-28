@@ -108,6 +108,8 @@ SelTrac透過低頻引導環或高射頻頻譜無線電系統技術聯繫數據�
 
       - [傑克遜維爾捷運](../Page/杰克逊维尔_\(佛罗里达州\).md "wikilink")（1998年，SelTrac LS，[無人駕駛ATO](https://zh.wikipedia.org/wiki/自動列車運行裝置 "wikilink")，車型：[龐巴迪](https://zh.wikipedia.org/wiki/龐巴迪 "wikilink")）
 
+      - [紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[紐約地鐵7號線](../Page/紐約地鐵7號線.md "wikilink")（2016年，SelTrac CBTC，[ATO](https://zh.wikipedia.org/wiki/自動列車運行裝置 "wikilink")，車型：[川崎重工R](https://zh.wikipedia.org/wiki/川崎重工 "wikilink")188/R142A）
+
       - [紐約甘迺迪國際機場捷運](../Page/甘迺迪國際機場捷運.md "wikilink")（2003年，SelTrac IS，[無人駕駛ATO](https://zh.wikipedia.org/wiki/自動列車運行裝置 "wikilink")，車型：[龐巴迪二型](https://zh.wikipedia.org/wiki/龐巴迪 "wikilink")）
 
       - [拉斯維加斯單軌電車](../Page/拉斯維加斯單軌電車.md "wikilink")（2004年，SelTrac LS，[無人駕駛ATO](https://zh.wikipedia.org/wiki/自動列車運行裝置 "wikilink")，車型：[龐巴迪](https://zh.wikipedia.org/wiki/龐巴迪 "wikilink")）

@@ -5,9 +5,7 @@
 [Facebook_New_Logo_(2015).svg](https://zh.wikipedia.org/wiki/File:Facebook_New_Logo_\(2015\).svg "fig:Facebook_New_Logo_(2015).svg") |type = [社交網絡服務](https://zh.wikipedia.org/wiki/社交網絡服務 "wikilink") |registration = |language = [多語言](../Page/多语制.md "wikilink")（140种） |programming_language = [C++](../Page/C++.md "wikilink")、[PHP](../Page/PHP.md "wikilink")\[1\]和[D语言](https://zh.wikipedia.org/wiki/D语言 "wikilink")\[2\] |owner = Facebook Inc.
 （Facebook股份有限公司） |author = [馬克·扎克伯格](https://zh.wikipedia.org/wiki/馬克·扎克伯格 "wikilink")（[董事長](../Page/董事長.md "wikilink")兼[執行長](https://zh.wikipedia.org/wiki/執行長 "wikilink")）
 [愛德華多·薩維林](../Page/愛德華多·薩維林.md "wikilink")（共同創辦人）
-[克里斯·休斯](../Page/克里斯·休斯.md "wikilink")（共同创办人與发言人） |location = [加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[门洛帕克](../Page/门洛帕克_\(加利福尼亚州\).md "wikilink") |alexa = 3（）\[3\] |current_status = 活跃 |url =  }} [Facebookheadquarters.jpg](https://zh.wikipedia.org/wiki/File:Facebookheadquarters.jpg "fig:Facebookheadquarters.jpg")的總部\]\]
-
-**Facebook**（簡稱**FB**）是源於[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[社交网络服务及](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink")[社會化媒體](https://zh.wikipedia.org/wiki/社會化媒體 "wikilink")[網站](../Page/網站.md "wikilink")，總部位於美國[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[-{zh-hans:圣马特奥县; zh-hant:聖馬刁郡}-](https://zh.wikipedia.org/wiki/聖馬刁郡 "wikilink")[门洛帕克市](../Page/门洛帕克_\(加利福尼亚州\).md "wikilink")。成立初期原名為「thefacebook」，名稱的靈感來自美國高中提供給學生包含照片和聯絡資料的通訊錄（或稱花名冊）之暱稱「face book」\[4\]\[5\]。目前尚無官方的中文譯名，較為廣泛使用則為**臉-{}-書**。
+[克里斯·休斯](../Page/克里斯·休斯.md "wikilink")（共同创办人與发言人） |location = [加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[门洛帕克](../Page/门洛帕克_\(加利福尼亚州\).md "wikilink") |alexa = 3（）\[3\] |current_status = 活跃 |url =  }} [Facebookheadquarters.jpg](https://zh.wikipedia.org/wiki/File:Facebookheadquarters.jpg "fig:Facebookheadquarters.jpg")的總部\]\] **Facebook**（簡稱**FB**）是源於[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[社交网络服务及](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink")[社會化媒體](https://zh.wikipedia.org/wiki/社會化媒體 "wikilink")[網站](../Page/網站.md "wikilink")，總部位於美國[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[-{zh-hans:圣马特奥县; zh-hant:聖馬刁郡}-](https://zh.wikipedia.org/wiki/聖馬刁郡 "wikilink")[门洛帕克市](../Page/门洛帕克_\(加利福尼亚州\).md "wikilink")。成立初期原名為「thefacebook」，名稱的靈感來自美國高中提供給學生包含照片和聯絡資料的通訊錄（或稱花名冊）之暱稱「face book」\[4\]\[5\]。目前尚無官方的中文譯名，較為廣泛使用則為**臉-{}-書**。
 
 Facebook使用者除了文字訊息之外，還可傳送圖片、影片、-{zh-hant:文件;zh-hans:文档}-、貼圖和聲音媒體訊息給其他使用者，以及透過整合的地圖功能分享使用者的所在位置。Facebook是在2004年2月4日由[馬克·扎克伯格與他的](https://zh.wikipedia.org/wiki/馬克·扎克伯格 "wikilink")[哈佛大學室友們所創立](https://zh.wikipedia.org/wiki/哈佛大學 "wikilink")\[6\]。Facebook的會員最初只限於哈佛學生加入，但後來逐漸擴展到其他在[波士頓區域的同學也能使用](https://zh.wikipedia.org/wiki/大波士頓 "wikilink")，包括一些[常春藤名校](../Page/常春藤盟校.md "wikilink")、[麻省理工学院](../Page/麻省理工学院.md "wikilink")、[紐約大學](https://zh.wikipedia.org/wiki/紐約大學 "wikilink")、[史丹福大學等](https://zh.wikipedia.org/wiki/史丹福大學 "wikilink")。接著逐漸支援讓其他大學和高中學生加入，並在最後開放給任何13歲或以上的人使用。現在Facebook允許任何聲明自己年滿13歲的使用者註冊\[7\]。
 
@@ -361,8 +359,6 @@ Facebook為避免分身帳號、廣告帳號浮濫，經常以「保護帳號」
 
   - 香港[無綫電視的劇集曾出現過類似Facebook的社交網站](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")，而由於《廣播條例》對電視節目中出現的商業品牌名稱有嚴格規定，無綫電視一直以來都避免在劇集中直接使用現實世界的牌子。但也因此延伸出不少於劇集對Facebook的稱呼，例如：Facecook、Facelook、Friendsbook、Faceoff、FreeHook、FaceBowl、MaskyBook。但近年無綫電視劇集也開始直接用Facebook一字。
 
-## 參考文獻
-
 ## 參見
 
 <table>
@@ -390,17 +386,17 @@ Facebook為避免分身帳號、廣告帳號浮濫，經常以「保護帳號」
 </tbody>
 </table>
 
+## 參考資料
+
 ## 外部連結
 
-  - [Facebook](https://www.facebook.com)
+  -
+  -
+  -
   - [Facebook官方網誌](https://newsroom.fb.com)
+
   - [Facebook開發者平台](https://developers.facebook.com)
 
-<!-- end list -->
-
-  - 社交网络：
-      -
-      -
 [Category:標準普爾500指數成分股](https://zh.wikipedia.org/wiki/Category:標準普爾500指數成分股 "wikilink") [Category:Facebook](https://zh.wikipedia.org/wiki/Category:Facebook "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:虛擬社群](https://zh.wikipedia.org/wiki/Category:虛擬社群 "wikilink") [Category:网络相册](https://zh.wikipedia.org/wiki/Category:网络相册 "wikilink") [Category:網誌軟體](https://zh.wikipedia.org/wiki/Category:網誌軟體 "wikilink") [Category:虛構世界](https://zh.wikipedia.org/wiki/Category:虛構世界 "wikilink") [Category:社会信息处理](https://zh.wikipedia.org/wiki/Category:社会信息处理 "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:黑莓软件](https://zh.wikipedia.org/wiki/Category:黑莓软件 "wikilink") [Category:Firefox_OS軟體](https://zh.wikipedia.org/wiki/Category:Firefox_OS軟體 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink") [Category:2004年建立的网站](https://zh.wikipedia.org/wiki/Category:2004年建立的网站 "wikilink") [Category:2004年成立的公司](https://zh.wikipedia.org/wiki/Category:2004年成立的公司 "wikilink") [Category:美国互联网公司](https://zh.wikipedia.org/wiki/Category:美国互联网公司 "wikilink") [Category:部落格代管服務](https://zh.wikipedia.org/wiki/Category:部落格代管服務 "wikilink") [Category:多語言網站](https://zh.wikipedia.org/wiki/Category:多語言網站 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink") [Category:舊金山灣區](https://zh.wikipedia.org/wiki/Category:舊金山灣區 "wikilink") [Category:学生文化](https://zh.wikipedia.org/wiki/Category:学生文化 "wikilink") [Category:門洛公園公司](https://zh.wikipedia.org/wiki/Category:門洛公園公司 "wikilink") [Category:2004年面世的產品](https://zh.wikipedia.org/wiki/Category:2004年面世的產品 "wikilink") [Category:2012年IPO](https://zh.wikipedia.org/wiki/Category:2012年IPO "wikilink")
 
 1.

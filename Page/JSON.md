@@ -1,6 +1,6 @@
 **JSON**（**J**ava**S**cript **O**bject **N**otation，JavaScript物件表示法，读作/ˈdʒeɪsən/）是一種由[道格拉斯·克羅克福特](../Page/道格拉斯·克羅克福特.md "wikilink")構想和設計、輕量級的[資料交換語言](../Page/数据交换.md "wikilink")，该语言以易於讓人閱讀的文字為基礎，用来传输由属性值或者序列性的值组成的数据对象。儘管JSON是[JavaScript](../Page/JavaScript.md "wikilink")的一個子集，但JSON是獨立於語言的[文本格式](../Page/文本文件.md "wikilink")，並且採用了類似於[C語言家族的一些習慣](https://zh.wikipedia.org/wiki/C語言 "wikilink")。
 
-JSON 数据格式与语言无关，脱胎自[JavaScript](../Page/JavaScript.md "wikilink")，但目前很多[编程语言](../Page/编程语言.md "wikilink")都支持 JSON 格式数据的生成和[解析](https://zh.wikipedia.org/wiki/语法分析器 "wikilink")。JSON 的官方 [MIME 类型是](../Page/互联网媒体类型.md "wikilink") `application/json`，文件扩展名是 `.json`。
+JSON 数据格式与语言无关。即便它源自[JavaScript](../Page/JavaScript.md "wikilink")，但目前很多[编程语言](../Page/编程语言.md "wikilink")都支持 JSON 格式数据的生成和[解析](https://zh.wikipedia.org/wiki/语法分析器 "wikilink")。JSON 的官方 [MIME 类型是](../Page/互联网媒体类型.md "wikilink") `application/json`，文件扩展名是 `.json`。
 
 ## 簡介
 

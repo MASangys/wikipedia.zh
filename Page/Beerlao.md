@@ -12,7 +12,7 @@ Beerlao Original 是由老撾啤酒廠公司（LBC）生產的原裝麥啤，酒
 
 在2008年4月，LBC又再推出一種以古老王國來命名的全新啤酒「LangXang。雖然LangXang在市場推出不久，但已廣受當地的啤酒愛好者歡迎。LBC指出旗下產品於老撾的啤酒市場佔有率達99%。
 
-Beerlao啤酒是[2009年東南亞運動會的指定贊助商](https://zh.wikipedia.org/wiki/2009年東南亞運動會 "wikilink")，是項亞洲盛事將於2009年12月9日至18日於[老撾首都](https://zh.wikipedia.org/wiki/老撾 "wikilink")[永珍](../Page/永珍.md "wikilink")舉行。
+Beerlao啤酒是[2009年東南亞運動會](../Page/2009年東南亞運動會.md "wikilink")的指定贊助商，是項亞洲盛事將於2009年12月9日至18日於[老撾首都](https://zh.wikipedia.org/wiki/老撾 "wikilink")[永珍](../Page/永珍.md "wikilink")舉行。
 
 ## 出口國家
 

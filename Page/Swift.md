@@ -1,8 +1,8 @@
-**Swift**在英文中指[雨燕](https://zh.wikipedia.org/wiki/雨燕 "wikilink")，另外也可能指下列事物：
+**Swift** 在英文中指[雨燕](https://zh.wikipedia.org/wiki/雨燕 "wikilink")，另外也可能指下列事物：
 
 ## 人物
 
-**Swift**作为人名姓氏时通常译为**斯威夫特**，可以指：
+**Swift** 作为人名姓氏时通常译为**斯威夫特**，可以指：
 
 |                                                                             |                         |                                                                                                                                               |
 | --------------------------------------------------------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -29,9 +29,9 @@
 
 ## 電腦
 
-  - [OpenStack](../Page/OpenStack.md "wikilink")的分布式存储组件
-  - [Apple A6和](../Page/Apple_A6.md "wikilink")[Apple A6X的CPU代號](../Page/Apple_A6X.md "wikilink")
-  - [Swift語言](https://zh.wikipedia.org/wiki/Swift語言 "wikilink")，[苹果公司推出的高階](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")
+  - [OpenStack](../Page/OpenStack.md "wikilink") 的分布式存储组件
+  - [Apple A6](../Page/Apple_A6.md "wikilink") 和 [Apple A6X](../Page/Apple_A6X.md "wikilink") 的 CPU 代號
+  - [Swift 語言](https://zh.wikipedia.org/wiki/Swift_\(编程语言\) "wikilink")，[蘋果公司推出的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[高階程式語言](https://zh.wikipedia.org/wiki/高级语言 "wikilink")
 
 ## 經濟金融
 

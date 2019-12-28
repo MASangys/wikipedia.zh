@@ -1,4 +1,4 @@
-**MCEM 1**（，意為：「實驗型卡賓槍1型」）是一款采用[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")的[澳大利亚](../Page/澳大利亚.md "wikilink")製試驗型[冲锋枪](../Page/冲锋枪.md "wikilink")。
+**MCEM 1**（，意為：「實驗型卡賓槍1型」）是一款采用[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")的[澳大利亚](../Page/澳大利亚.md "wikilink")製試驗型[冲锋枪](../Page/冲锋枪.md "wikilink")。
 
 ## 設計
 

@@ -1,4 +1,4 @@
-**3DMark**是一個由[Futuremark](https://zh.wikipedia.org/wiki/Futuremark "wikilink")（前身MadOnion，現為Futuremark）開發的系統評等軟件，以計算電腦的3D圖形渲染和[CPU工作量的處理能力](https://zh.wikipedia.org/wiki/CPU "wikilink")。
+**3DMark**是一個由[UL](https://zh.wikipedia.org/wiki/UL "wikilink")（前身MadOnion，后為Futuremark，2018年4月更名为UL）開發的智能设备性能评测軟件，用于评测设备的3D圖形渲染和[CPU的處理能力](https://zh.wikipedia.org/wiki/CPU "wikilink")。现除安装Windows系统电脑外，已针对Android和iOS发布了移动设备版本。
 
 ## 早期版本
 
@@ -75,14 +75,19 @@ Futuremark為3DMark Vantage建立了一個特別網站，[3DMark.com](http://www
 
 2013年推出的新版3DMark沒有任何後綴，除了支援[Windows平台](https://zh.wikipedia.org/wiki/Windows "wikilink")（[Windows Vista或更新](../Page/Windows_Vista.md "wikilink")），還新增了[Android](../Page/Android.md "wikilink"), [iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows RT版本](../Page/Windows_RT.md "wikilink")。
 
-## 3DMarkMobile
+## 3DMark移动设备版本
 
-Futuremark公司還發行了移動設備版本的3DMark。當前版本包括：
+UL公司发布了运行于Android和iOS平台的3DMark以支持大部分智能便携式设备和部分智能电视等物联网产品。截至2019年11月，Android平台和iOS平台上的3DMark免费下载使用，无需注册账号。
 
-  - 3DMarkMobile ES 2.0\[1\]
-  - 3DMarkMobile ES 1.1\[2\]
-  - 3DMarkMobile JSR 239\[3\]
-  - 3DMarkMobile JSR 184\[4\]
+参照官方技术指南，截至2019年11月底，Android平台的3DMark版本为2.0.4608
+
+而在iOS平台，由于受到系统限制，3DMark按不同的测试模式分成了3个应用程序。其版本如下：
+
+3DMARK SLING SHOT 1.0.745
+
+3DMARK ICE STORM 1.4.978
+
+3DMARK API OVERHEAD 1.0.147\[1\]。
 
 ## 參考
 
@@ -105,6 +110,3 @@ Futuremark公司還發行了移動設備版本的3DMark。當前版本包括：
 [Category:電腦性能](https://zh.wikipedia.org/wiki/Category:電腦性能 "wikilink") [Category:三维图像软件](https://zh.wikipedia.org/wiki/Category:三维图像软件 "wikilink")
 
 1.
-2.
-3.
-4.

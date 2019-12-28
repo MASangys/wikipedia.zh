@@ -70,7 +70,7 @@
 
   - [樫井笙人](../Page/樫井笙人.md "wikilink")
 
-  - [金谷英孝](../Page/金谷英孝.md "wikilink")（兼職[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")）
+  - [金谷英孝](../Page/金谷英孝.md "wikilink")（兼職[搞笑藝人](../Page/搞笑藝人.md "wikilink")）
 
   - [金丸淳一](../Page/金丸淳一.md "wikilink")
 
@@ -1297,7 +1297,7 @@
 8.  例如《[天才兒童MAX](../Page/天才兒童MAX.md "wikilink")》內播出的單元動畫《》、《》等。
 9.  例如由81 Produce進行新人聲優公開進行徵選而誕生的聲優組合『[i☆Ris](https://zh.wikipedia.org/wiki/i☆Ris "wikilink")』、『[Wake Up, Girls！](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")』。
 10.
-11. 音樂組合[TWO-MIX](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")（與[高山南](../Page/高山南.md "wikilink")組成）的男性成員。於1992年曾經投入配音事業。
+11. 音樂組合[TWO-MIX](../Page/TWO-MIX.md "wikilink")（與[高山南](../Page/高山南.md "wikilink")組成）的男性成員。於1992年曾經投入配音事業。
 12.
 13.
 14.

@@ -846,7 +846,7 @@
 
 <!-- end list -->
 
-  - [SAGA](../Page/SAGA.md "wikilink")：SAGA可以视为地理信息系统，外加一个特别的地理数据处理的应用程序接口（API）。这个API简化了新算法执行，免除了开发者庞大编程支出，如用户界面设计和文件输入输出。SAGA API支持格网数据，如数字地形模型和卫星图片、矢量数据和表格。
+  - [SAGA GIS](https://zh.wikipedia.org/wiki/SAGA_GIS "wikilink")：SAGA可以视为地理信息系统，外加一个特别的地理数据处理的应用程序接口（API）。这个API简化了新算法执行，免除了开发者庞大编程支出，如用户界面设计和文件输入输出。SAGA API支持格网数据，如数字地形模型和卫星图片、矢量数据和表格。
 
 <!-- end list -->
 

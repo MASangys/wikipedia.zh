@@ -16,6 +16,6 @@ McDermott在1980年写的关于R1的论文赢得了1999年[美国人工智能协
 
   - ["Configuration with R1/XCon (1978)"](http://www.cwa.mdx.ac.uk/bis2040/lect6ES2/xCon.html)
   - ["AAAI Classic Paper Award"](http://www.aaai.org/Awards/classic.php)
-  - ["R1-SOAR: A Research Experiment in Computer Learning"](http://www.ruleworks.co.uk/mobat/r1-soar.htm)
+  - ["R1-SOAR: A Research Experiment in Computer Learning"](https://web.archive.org/web/20090907172511/http://www.ruleworks.co.uk/mobat/r1-soar.htm)
 
 [Category:专家系统](https://zh.wikipedia.org/wiki/Category:专家系统 "wikilink") [Category:商业软件](https://zh.wikipedia.org/wiki/Category:商业软件 "wikilink") [Category:信息系统](https://zh.wikipedia.org/wiki/Category:信息系统 "wikilink") [Category:人工智能历史](https://zh.wikipedia.org/wiki/Category:人工智能历史 "wikilink")

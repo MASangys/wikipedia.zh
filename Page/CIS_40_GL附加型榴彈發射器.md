@@ -67,7 +67,7 @@ CIS 40 GL也有一種槍管較短的衍生型，可以裝在[SAR 21突擊步槍�
 
   - —
 
-  - —《輕兵器》雜誌2007年12月上號：[新加坡STK公司 40mm榴弹发射器及榴弹](http://www.xzbu.com/8/view-1052082.htm)
+  - —《輕兵器》雜誌2007年12月上號：[新加坡STK公司 40mm榴弹发射器及榴弹](https://web.archive.org/web/20140203020703/http://www.xzbu.com/8/view-1052082.htm)
 
 ## 外部連結
 
@@ -80,6 +80,5 @@ CIS 40 GL也有一種槍管較短的衍生型，可以裝在[SAR 21突擊步槍�
 [Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink") [Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink") [Category:附加型榴彈發射器](https://zh.wikipedia.org/wiki/Category:附加型榴彈發射器 "wikilink") [Category:新加坡军事](https://zh.wikipedia.org/wiki/Category:新加坡军事 "wikilink") [Category:新加坡槍械](https://zh.wikipedia.org/wiki/Category:新加坡槍械 "wikilink")
 
 1.  Woźniak, Ryszard. Encyklopedia najnowszej broni palnej - tom 2 G-Ł. Bellona. 2001. pp60.
-
 2.
 3.  [BERETTA AR70/90-GL.](http://www.securityarms.com/20010315/galleryfiles/2400/2443.htm) Retrieved on September 19, 2008.

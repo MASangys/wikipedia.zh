@@ -4,32 +4,12 @@
 
 ## 音樂錄影帶
 
-<table>
-<thead>
-<tr class="header">
-<th><p>歌曲</p></th>
-<th><p>連結</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>每一句說話</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>有你是榮幸</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>未相信</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>秘密情人</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 歌曲    | 備註 |
+| ----- | -- |
+| 每一句說話 |    |
+| 有你是榮幸 |    |
+| 未相信   |    |
+| 秘密情人  |    |
 
 ## 專輯派台歌曲成績
 

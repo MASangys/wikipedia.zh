@@ -1,10 +1,10 @@
-《**BALDR SKY**》是由[戲畫於](../Page/戲畫_\(遊戲品牌\).md "wikilink")2007年宣布製作的遊戲，作品分為兩部分「Dive1 "LostMemory"」和「Dive2 "RECORDARE"」，DIVE1於2009年3月27日發售，為[BALDR系列的第五作](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#BALDR系列 "wikilink")，屬於[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險及](../Page/戀愛遊戲.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，同樣由TEAM BALDRHEAD負責製作。動作遊戲部分不是《[Xross Scramble](../Page/Xross_Scramble.md "wikilink")》的新形式，而是基於《[BALDR FORCE](../Page/BALDR_FORCE.md "wikilink")》的舊系統發展。2010年9月24日發售Fandisk《BALDR SKY Dive X "DREAM WORLD"》。
+《**BALDR SKY**》是由[戲畫於](../Page/戲畫_\(遊戲品牌\).md "wikilink")2009年發售的[戀愛冒險與](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[動作類型](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。BALDR系列的第五作，由TEAM BALDRHEAD負責製作。作品分為「Dive1 "LostMemory"」和「Dive2 "RECORDARE"」兩部分，DIVE1於3月27日發售，DIVE2於11月27日發售。2010年9月24日發售Fandisk《BALDR SKY Dive X "DREAM WORLD"》。2019年12月20日由[Sekai Project發售Dive](../Page/Sekai_Project.md "wikilink")1與Dive2的簡體中文和英文版。
+
+動作遊戲部分不是《[Xross Scramble](../Page/Xross_Scramble.md "wikilink")》的新形式，而是基於《[BALDR FORCE](../Page/BALDR_FORCE.md "wikilink")》的舊系統發展。世界的舞台由過去、現在及虛擬空間所構成，主軸為記憶喪失的主角在不斷的戰鬥中逐漸找回已經被忘卻的自我的故事。
 
 ## 簡介
 
 原本應該在「某個人」的呼喚聲中醒過來，並且與「如月寮」的同伴們過著快樂的學校生活的主角「門倉甲」，在醒過來的一瞬間映入眼中的，卻是虛擬空間的戰場。他自己並不是他記憶裡面的學生，而是與他厭惡的父親一樣，作為一個傭兵奔馳在戰場。逃脫之後所在的「清城市」也和自己記憶中的模樣完全不同，是個治安混亂的城市。
-
-世界的舞台由過去、現在及虛擬空間所構成，主軸為記憶喪失的主角在不斷的戰鬥中逐漸找回已經被忘卻的自我的故事。
 
 ## 系統
 
@@ -471,9 +471,6 @@ Baldr Sky Another Days，於2010年9月24日與DiveX同時發售，由[HARVEST�
 ## 外部連結
 
   - [遊戲官方網站](http://www.web-giga.com/baldrsky/)
+  - [BALDRSKY DiveX "DREAM WOLD"官方網站](http://www.web-giga.com/baldrsky_divex/)
 
-  - [BALDRSKY DiveX "DREAM WOLD"](http://www.web-giga.com/baldrsky_divex/)
-
-  - [戲畫](http://www.web-giga.com/top/top.html)（年齡限制）
-
-[Category:戲畫](https://zh.wikipedia.org/wiki/Category:戲畫 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:BALDR系列](https://zh.wikipedia.org/wiki/Category:BALDR系列 "wikilink") [Category:等距視角遊戲](https://zh.wikipedia.org/wiki/Category:等距視角遊戲 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink")
+[Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink") [Category:戲畫](https://zh.wikipedia.org/wiki/Category:戲畫 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:BALDR系列](https://zh.wikipedia.org/wiki/Category:BALDR系列 "wikilink") [Category:等距視角遊戲](https://zh.wikipedia.org/wiki/Category:等距視角遊戲 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")

@@ -56,7 +56,7 @@
 
   - [台灣官方網站](http://tera.mangot5.com/game/tera/)
 
-  - [北美官方網站](http://www.tera-online.com/)
+  - [北美官方網站](https://web.archive.org/web/20120118031302/http://www.tera-online.com/)
 
   - [中国大陆官方网站](https://web.archive.org/web/20140808043546/http://tera.kunlun.com/index.html)
 

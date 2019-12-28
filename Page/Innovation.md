@@ -4,36 +4,13 @@
 
 ## 音樂錄影帶
 
-<table>
-<thead>
-<tr class="header">
-<th><p>歌曲</p></th>
-<th><p>連結</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>一輩子</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>JR幹線</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>這分鐘不愛我</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>不停站</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>連續劇</p></td>
-<td><p><a href="http://v.ku6.com/show/loA_kXlvip1QR7zV.html/">KTV 於 酷6網</a></p></td>
-</tr>
-</tbody>
-</table>
+| 歌曲     | 備註 |
+| ------ | -- |
+| 一輩子    |    |
+| JR幹線   |    |
+| 這分鐘不愛我 |    |
+| 不停站    |    |
+| 連續劇    |    |
 
 ## 專輯派台歌曲成績
 

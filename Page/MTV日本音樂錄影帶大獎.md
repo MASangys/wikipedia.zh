@@ -115,9 +115,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
+<td><p>第18届</p></td>
+<td><p>2019年9月18日</p></td>
+<td><p>|東京新木場STUDIO COAST</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -145,7 +145,8 @@
 | 第14屆 | 2015年 | [三代目 J Soul Brothers from EXILE TRIBE](../Page/J_Soul_Brothers.md "wikilink")《[Eeny, meeny, miny, moe\!](https://zh.wikipedia.org/wiki/Eeny,_meeny,_miny,_moe! "wikilink")》 |
 | 第15屆 | 2016年 | [宇多田光](../Page/宇多田光.md "wikilink")《[真夏の通り雨](https://zh.wikipedia.org/wiki/真夏の通り雨 "wikilink")》                                                                               |
 | 第16屆 | 2017年 | [星野源](../Page/星野源.md "wikilink")《Family Song》                                                                                                                               |
-|      |       |                                                                                                                                                                             |
+| 第17屆 | 2018年 | [米津玄師](../Page/米津玄師.md "wikilink")《Lemon》                                                                                                                                   |
+| 第18屆 | 2019年 | [King Gnu](../Page/King_Gnu.md "wikilink")《白日》                                                                                                                              |
 
 ### 最佳男女藝人音樂錄影帶獎
 
@@ -263,6 +264,11 @@
 <td><p><a href="../Page/米津玄師.md" title="wikilink">米津玄師</a> 《Lemon》</p></td>
 </tr>
 <tr class="odd">
+<td><p>第18屆</p></td>
+<td><p>2019年</p></td>
+<td><p><a href="../Page/三浦大知.md" title="wikilink">三浦大知</a> 《片隅》</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -368,6 +374,11 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/欅坂46" title="wikilink">欅坂46</a>《<a href="../Page/矛盾心理.md" title="wikilink">矛盾心理</a>》</p></td>
 </tr>
 <tr class="even">
+<td><p>第18屆</p></td>
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/欅坂46" title="wikilink">欅坂46</a>《<a href="../Page/黑羊.md" title="wikilink">黑羊</a>》</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

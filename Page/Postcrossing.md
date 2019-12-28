@@ -2098,7 +2098,7 @@ Postcrossing網站提供了一個官方的[論壇](https://zh.wikipedia.org/wiki
 </tr>
 <tr class="even">
 <td><p>2013年9月9日[64]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/芬蘭郵政" title="wikilink">芬蘭</a></p></td>
+<td><p><a href="../Page/芬蘭郵政.md" title="wikilink">芬蘭</a></p></td>
 <td><p>有</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>

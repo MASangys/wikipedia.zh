@@ -140,7 +140,7 @@
 ## 外部链接
 
   - [風色幻想Ⅲ\~罪與罰的鎮魂歌官網](http://www.fy.com.tw/product/game/wf3/index.htm)
-  - [寰宇之星软件有限公司](http://www.unistar.net.cn/)
+  - [寰宇之星软件有限公司](https://web.archive.org/web/20090818083219/http://www.unistar.net.cn/)
 
 [Category:战略角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:战略角色扮演遊戲 "wikilink") [Category:2004年电子游戏](https://zh.wikipedia.org/wiki/Category:2004年电子游戏 "wikilink") [Category:风色幻想系列](https://zh.wikipedia.org/wiki/Category:风色幻想系列 "wikilink")
 

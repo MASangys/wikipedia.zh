@@ -56,7 +56,7 @@ CIS 40 AGL採用了與美軍Mk 19 Mod 3類似的反衝式系統設計，[開放�
   -
   - —《輕兵器》雜誌—
 
-      - 2007年12月上號：[新加坡STK公司 40mm榴弹发射器及榴弹](http://www.xzbu.com/8/view-1052082.htm)
+      - 2007年12月上號：[新加坡STK公司 40mm榴弹发射器及榴弹](https://web.archive.org/web/20140203020703/http://www.xzbu.com/8/view-1052082.htm)
       - 2015年5月下號：[2014年国外近战武器发展回顾](https://archive.is/20150603111417/http://gdwap.dooland.com/article.php?id=663702)
 
 ## 外部連結

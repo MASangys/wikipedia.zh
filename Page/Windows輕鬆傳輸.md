@@ -26,14 +26,10 @@ Windows 輕鬆傳輸能夠支援的檔案類型\[3\]：
 [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
 
 1.  [Description of Windows Easy Transfer for Windows Vista](http://support.microsoft.com/kb/928635)
-
 2.  [Quick Start Guide to Windows Vista User Profile Migration](http://technet2.microsoft.com/WindowsVista/en/library/1bd36fc2-1fc6-4edf-847f-d4be4305516a1033.mspx)
-
 3.
 4.
 5.  [Using Windows Easy Transfer: Windows Vista blog](http://windowsvistablog.com/blogs/windowsvista/archive/2007/02/15/using-windows-easy-transfer.aspx)
-
 6.  [User State Migration Tool (USMT) 3](http://www.microsoft.com/downloads/details.aspx?FamilyId=799AB28C-691B-4B36-B7AD-6C604BE4C595&displaylang=en)
-
 7.
 8.  [The option to use a serial cable connection or an infrared link is unavailable when you create an incoming connection in Windows Vista](http://support.microsoft.com/kb/930086)

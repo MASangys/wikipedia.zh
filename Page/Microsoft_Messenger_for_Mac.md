@@ -45,7 +45,7 @@ Microsoft Messenger for Mac沒有Windows Live Messenger的以下功能:
 ## 外部連結
 
   - [Microsoft Messenger for Mac](http://www.microsoft.com/mac/products/messenger/default.mspx)
-  - [Review of Microsoft Messenger 6 Features](http://www.applematters.com/index.php/section/comments/messenger-for-mac-6-reviewed/)
+  - [Review of Microsoft Messenger 6 Features](https://web.archive.org/web/20071017031947/http://www.applematters.com/index.php/section/comments/messenger-for-mac-6-reviewed/)
 
 [en:Windows Live Messenger\#Microsoft Messenger for Mac](https://zh.wikipedia.org/wiki/en:Windows_Live_Messenger#Microsoft_Messenger_for_Mac "wikilink")
 

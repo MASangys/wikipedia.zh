@@ -65,26 +65,18 @@
 [Category:2009年音乐专辑](https://zh.wikipedia.org/wiki/Category:2009年音乐专辑 "wikilink") [Category:帕拉莫尔音乐专辑](https://zh.wikipedia.org/wiki/Category:帕拉莫尔音乐专辑 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
 8.
 9.
-
 10.
 11.
 12.
 13.
 14.
-
 15. [UK Rock Chart](http://www.bbc.co.uk/radio1/chart/rockalbums/)
-
 16.

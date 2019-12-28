@@ -36,6 +36,8 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
 
   - [梅原裕一郎](../Page/梅原裕一郎.md "wikilink")
 
+  - 遠藤淳
+
   -
   -
   - [大西健晴](../Page/大西健晴.md "wikilink")
@@ -55,14 +57,18 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
   -
   -
   -
+  - 金洸玄
+
   -
-  -
+  - 小宮逸人
+
 <!-- end list -->
 
   - 行
 
 <!-- end list -->
 
+  -
   -
   - [笹田貴之](../Page/笹田貴之.md "wikilink")
 
@@ -74,10 +80,7 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
   - [志賀克也](../Page/志賀克也.md "wikilink")
 
   -
-  - 杉浦
-
-  - 住谷哲榮
-
+  -
 <!-- end list -->
 
   - 行
@@ -95,7 +98,6 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
   -
   -
   -
-  -
   - [千葉一伸](../Page/千葉一伸.md "wikilink")
 
   -
@@ -110,9 +112,11 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
 
 <!-- end list -->
 
-  -
-  -
   - [長嶝高士](../Page/長嶝高士.md "wikilink")
+
+  -
+  -
+  - 中村伸一
 
   -
   - [西村知道](../Page/西村知道.md "wikilink")
@@ -158,6 +162,10 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
   - [幹本雄之](../Page/幹本雄之.md "wikilink")
 
   -
+  - 明神碧人
+
+  - 村雨龍人
+
   -
 <!-- end list -->
 
@@ -170,6 +178,8 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
   -
   - [山下大輝](../Page/山下大輝.md "wikilink")
 
+  -
+  -
 <!-- end list -->
 
   - 行
@@ -197,7 +207,8 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
 
   -
   -
-  -
+  - 今泉里緒菜
+
   -
   -
   - 大西望
@@ -227,8 +238,7 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
 
   -
   -
-  - 小泉瀨奈
-
+  -
   - [河本明子](../Page/河本明子.md "wikilink")
 
 <!-- end list -->
@@ -240,10 +250,11 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
   -
   - [-{坂}-本千夏](../Page/坂本千夏.md "wikilink")
 
+  - 櫻木夕
+
   - [櫻庭有紗](../Page/櫻庭有紗.md "wikilink")
 
-  - 佐野尚美
-
+  -
   - [椎名碧流](../Page/椎名碧流.md "wikilink")
 
   -
@@ -271,7 +282,7 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
 
 <!-- end list -->
 
-  - 高橋
+  - 高橋香織
 
   - （舊藝名：高橋沙織）
 
@@ -284,6 +295,8 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
   - 田每夏實
 
   - [橘光](../Page/橘光.md "wikilink")
+
+  - [立花日菜](../Page/立花日菜.md "wikilink")
 
   - [谷口夢奈](../Page/谷口夢奈.md "wikilink")
 
@@ -329,9 +342,13 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
   -
   - [羽村京子](../Page/羽村京子.md "wikilink")
 
+  - 早瀨雪未
+
   - [早水理沙](../Page/早水理沙.md "wikilink")
 
   - [原由實](../Page/原由實.md "wikilink")
+
+  - 春花蘭
 
   - [春野杏](../Page/春野杏.md "wikilink")
 
@@ -341,6 +358,7 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
 
   - [疋田涼子](../Page/疋田涼子.md "wikilink")
 
+  -
   -
   -
   - [藤田彩](../Page/藤田彩.md "wikilink")
@@ -458,7 +476,7 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
 
 <!-- end list -->
 
-  - [佐佐木望](../Page/佐佐木望.md "wikilink")（自由職業）
+  - [佐佐木望](../Page/佐佐木望.md "wikilink")（現所屬：Inspire、[Dana Works](http://www.dana-works.co.jp/)（業務提攜））
 
   - （現所屬：[Production★A組](../Page/Production★A組.md "wikilink")）
 
@@ -483,7 +501,9 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
   -
   - （現所屬：）
 
-  - [龍田直樹](../Page/龍田直樹.md "wikilink")（現所屬：[青二Production](../Page/青二製作.md "wikilink")）
+  - （現所屬：[青二Production](../Page/青二製作.md "wikilink")）
+
+  - [龍田直樹](../Page/龍田直樹.md "wikilink")（現所屬：青二Production）
 
   - （現所屬：）
 
@@ -578,13 +598,14 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
 
   - [內山夕實](../Page/內山夕實.md "wikilink")（現所屬：大澤事務所）
 
+  -
   - [及川瞳](../Page/及川瞳.md "wikilink")（現所屬：）
 
   - [大竹裕子](../Page/大竹裕子.md "wikilink")（自由職業）
 
   - 大塚里（現所屬：Production Ace）
 
-  - [岡本麻彌](../Page/岡本麻彌.md "wikilink")（現所屬：）
+  - [岡本麻彌](../Page/岡本麻彌.md "wikilink")（現所屬：Dana Works）
 
   -
 <!-- end list -->
@@ -593,13 +614,10 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
 
 <!-- end list -->
 
-  - [加藤雅美](../Page/加藤雅美.md "wikilink")
+  -
+  - [川村萬梨阿](https://zh.wikipedia.org/wiki/川村萬梨阿 "wikilink")（自由職業）
 
-  - [川村万梨阿](../Page/川村万梨阿.md "wikilink")（自由職業）
-
-  - [川村萬梨阿](https://zh.wikipedia.org/wiki/川村萬梨阿 "wikilink")（現所屬：[remax](https://zh.wikipedia.org/wiki/remax "wikilink")）
-
-  - [菊池志穗](../Page/菊池志穗.md "wikilink")（現所屬：remax）
+  - [菊池志穗](../Page/菊池志穗.md "wikilink")（現所屬：[remax](https://zh.wikipedia.org/wiki/remax "wikilink")）
 
   - [稀代櫻子](../Page/稀代櫻子.md "wikilink")（現所屬：[賢Production](../Page/賢Production.md "wikilink")）
 
@@ -622,7 +640,7 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
 
 <!-- end list -->
 
-  - [榊原由依](../Page/榊原由依.md "wikilink")（現所屬：）
+  - [-{榊}-原由依](../Page/榊原由依.md "wikilink")（現所屬：）
 
   - [佐久間紅美](../Page/佐久間紅美.md "wikilink")（現所屬：[Amuleto](../Page/Amuleto.md "wikilink")）
 
@@ -654,7 +672,7 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
 
   - [高橋智秋](../Page/高橋智秋.md "wikilink")（自由職業）
 
-  - （現所屬：）
+  - 竹內裕美（現所屬：Office T-PRO）
 
   - [田中涼子](../Page/田中涼子.md "wikilink")（自由職業）
 
@@ -666,7 +684,7 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
 
   - [千葉千惠巳](../Page/千葉千惠巳.md "wikilink")（現所屬：Office海風）
 
-  - [津野田成美](../Page/津野田成美.md "wikilink")（現所屬：）
+  - [津野田成美](../Page/津野田成美.md "wikilink")（現所屬：[Honey Rush](../Page/Honey_Rush_\(聲優事務所\).md "wikilink")）
 
   - [東條加那子](../Page/東條加那子.md "wikilink")（現所屬：AXL ONE）
 
@@ -709,7 +727,7 @@ ARTSVISION一直以培育偶像聲優馳名。以[林原惠](../Page/林原惠.m
 
   - [林原惠](../Page/林原惠.md "wikilink")（現所屬：[Woodpark Office](https://zh.wikipedia.org/wiki/林原惠#Woodpark_Office "wikilink")）
 
-  - [原惠理子](https://zh.wikipedia.org/wiki/原惠理子 "wikilink")（自由職業）
+  - [原榮里子](../Page/原榮里子.md "wikilink")（自由職業）
 
   -
   - （現所屬：[Warner Music Agency](../Page/日本華納音樂.md "wikilink")）

@@ -2,8 +2,7 @@
 
 `   font-family: 'Linux Libertine',Georgia,Times,serif;`
 
-} .mw-body h1, .mw-body h2, .mw-body h3, .mw-body h4, .mw-body h5,
-.mw-body h6 {
+} .mw-body h1, .mw-body h2, .mw-body h3, .mw-body h4, .mw-body h5, .mw-body h6 {
 
 `   font-family: sans-serif;`
 
@@ -20,11 +19,7 @@
 
   - /
 
-.ns-0 .ambox, .ns-0 .navbox, .ns-0 .vertical-navbox, .ns-0
-.infobox.sisterproject, .ns-0 .hatnote, .ns--1 .hatnote, .ns--1
-.dablink, .ns-0 .dablink, .ns-0 .metadata, .ns-0 .mbox-small, .editlink,
-.navbar, a.NavToggle, span.collapseButton, span.mw-collapsible-toggle,
-.ns-0 .mw-indicators, .ns-0 .mw-cite-backlink, .ns-0 .stub,
+.ns-0 .ambox, .ns-0 .navbox, .ns-0 .vertical-navbox, .ns-0 .infobox.sisterproject, .ns-0 .hatnote, .ns--1 .hatnote, .ns--1 .dablink, .ns-0 .dablink, .ns-0 .metadata, .ns-0 .mbox-small, .editlink, .navbar, a.NavToggle, span.collapseButton, span.mw-collapsible-toggle, .ns-0 .mw-indicators, .ns-0 .mw-cite-backlink, .ns-0 .stub,
 
 1.  filetoc,
 2.  footer-places,
@@ -37,10 +32,9 @@ span\#coordinates, span.toctoggle, th .sortkey, td .sortkey .noprint {
 
 }
 
-/\* Add formatting to make sure that "external references" from
-templates
+/\* Add formatting to make sure that "external references" from templates
 
-`  like `[`Template:Ref`](../Page/Template:Ref.md "wikilink")` do not get URL expansion, not even when printed.`
+`  like `[`Template:Ref`](https://zh.wikipedia.org/wiki/Template:Ref "wikilink")` do not get URL expansion, not even when printed.`
 `  The anchor itself has class "external autonumber" and the url expansion`
 `  is inserted when printing (see the common printing style sheet at`
 `  `<http://en.wikipedia.org/w/skins/common/commonPrint.css>`) using the`
@@ -52,8 +46,7 @@ templates
 
 1.  content cite a.external.text:after,
 
-.nourlexpansion a.external.text:after, .nourlexpansion
-a.external.autonumber:after {
+.nourlexpansion a.external.text:after, .nourlexpansion a.external.autonumber:after {
 
 `   display: none !important;`
 
@@ -76,9 +69,7 @@ table.collapsible tr, div.NavPic, div.NavContent {
 
 }
 
-/\* Hiding some items when printing with Simple skin \*/ .skin-simple
-div\#column-one, .skin-simple div\#f-poweredbyico, .skin-simple
-div\#f-copyrightico, .skin-simple .editsection {
+/\* Hiding some items when printing with Simple skin \*/ .skin-simple div\#column-one, .skin-simple div\#f-poweredbyico, .skin-simple div\#f-copyrightico, .skin-simple .editsection {
 
 `   display: none; `
 
@@ -88,8 +79,7 @@ div\#f-copyrightico, .skin-simple .editsection {
 
 `   font-size: 100% !important;`
 
-} \*/ @import
-"/w/index.php?title=MediaWiki:Gadget-fontsize.css\&action=raw\&ctype=text/css";
+} \*/ @import "/w/index.php?title=MediaWiki:Gadget-fontsize.css\&action=raw\&ctype=text/css";
 
 /\* Hide \[show\]/\[hide\] links \*/ .NavToggle {
 
@@ -97,8 +87,7 @@ div\#f-copyrightico, .skin-simple .editsection {
 
 }
 
-/\* On websites with siteSub visible, the margin on the firstHeading is
-not needed. \*/
+/\* On websites with siteSub visible, the margin on the firstHeading is not needed. \*/
 
 1.  firstHeading {
 
@@ -112,8 +101,7 @@ not needed. \*/
 
 }
 
-/\* We don't want very long URLs (that are added to the content in
-print) to widen the canvas \*/
+/\* We don't want very long URLs (that are added to the content in print) to widen the canvas \*/
 
 1.  content a.external.text:after,
 2.  content a.external.autonumber:after {
@@ -134,8 +122,7 @@ blockquote,table,pre,.toc{
 
 }
 
-/\* - Basic infobox styling - Remove background colors, they are hard to
-print
+/\* - Basic infobox styling - Remove background colors, they are hard to print
 
   - /
 
@@ -156,9 +143,7 @@ print
 
 }
 
-/\* Reduce noise for print medium - labels may be links \*/ .infobox a,
-/\* reset last border (set above) of infobox \*/ .infobox \> \* \>
-tr:last-child \> th, .infobox \> \* \> tr:last-child \> td {
+/\* Reduce noise for print medium - labels may be links \*/ .infobox a, /\* reset last border (set above) of infobox \*/ .infobox \> \* \> tr:last-child \> th, .infobox \> \* \> tr:last-child \> td {
 
 `   border: 0;`
 

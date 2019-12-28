@@ -218,18 +218,12 @@ Super Junior开始宣传《[It's You](../Page/It's_You.md "wikilink")》后不�
 [Category:2009年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2009年巡回演唱会 "wikilink") [Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:Super_Junior巡迴演唱會](https://zh.wikipedia.org/wiki/Category:Super_Junior巡迴演唱會 "wikilink")
 
 1.
-
 2.
-
 3.  [官网](http://superjunior.smtown.com/)
-
 4.
 5.
 6.
-
 7.
-
 8.
-
 9.
 10.

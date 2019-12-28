@@ -41,5 +41,5 @@
 [Category:下載網站](https://zh.wikipedia.org/wiki/Category:下載網站 "wikilink")
 
 1.  <http://www.filehippo.com/info/about/>
-2.  <http://www.filehippo.com/updatechecker>
+2.
 3.  <http://www.alexa.com/siteinfo/www.filehippo.com>

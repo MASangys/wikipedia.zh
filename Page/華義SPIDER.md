@@ -621,7 +621,7 @@ Ian</p></td>
 <td style="text-align: center;"><p>W.SpiderNeal</p></td>
 <td style="text-align: center;"><p>Neal<br />
 爆哥</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/劉昶亨" title="wikilink">劉昶亨</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/爆哥.md" title="wikilink">劉昶亨</a></p></td>
 <td style="text-align: center;"><p>1998年8月20日</p></td>
 <td style="text-align: center;"><p>男</p></td>
 <td style="text-align: center;"><p>台灣</p></td>
@@ -1137,18 +1137,11 @@ Ian</p></td>
 [Category:台湾电子竞技团队](https://zh.wikipedia.org/wiki/Category:台湾电子竞技团队 "wikilink") [Category:台灣電子競技聯盟](https://zh.wikipedia.org/wiki/Category:台灣電子競技聯盟 "wikilink") [Category:英雄聯盟競技團隊](https://zh.wikipedia.org/wiki/Category:英雄聯盟競技團隊 "wikilink") [Category:華義國際](https://zh.wikipedia.org/wiki/Category:華義國際 "wikilink")
 
 1.
-
 2.  請見
-
 3.  一些電競迷習慣稱Yue為小草。至於綽號的來源可見
-
 4.  准將為李學洋在業餘時期的暱稱。
-
 5.  曾在電競五年至六年待在橘子星海二軍，電競七年第一季時轉隊至華義SPIDER，電競七年第四季加入yoe閃電狼。
-
 6.  從2010年度賽季開始，必須兩項賽事皆勝或是在驟死賽中勝出才算一勝
-
 7.  因2008年部份尚未尋得資料，故只統計2009年後之總和
-
 8.
 9.  電競七年全年度總戰績是以每季的季後賽積分去做排名，但該欄還是以全年度48場的比賽作為排名依據。

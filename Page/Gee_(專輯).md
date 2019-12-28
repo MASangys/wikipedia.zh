@@ -91,6 +91,8 @@
 
   - 演員[瑞雨](../Page/瑞雨.md "wikilink")、[申鳳善在手機廣告中模仿](https://zh.wikipedia.org/wiki/申鳳善 "wikilink")〈Gee〉。
 
+  - 女团[TWICE在](https://zh.wikipedia.org/wiki/TWICE "wikilink")[MAMA表演](../Page/Mnet亞洲音樂大獎.md "wikilink")[GEE](../Page/Gee_\(單曲\).md "wikilink")
+
 ## 曲目
 
 ## 音樂錄影帶
@@ -171,60 +173,32 @@
 [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:少女時代音樂專輯](https://zh.wikipedia.org/wiki/Category:少女時代音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.

@@ -29,10 +29,12 @@
 
 ### 女性
 
-  - 秋元
+  - AKALI
+
+  - 秋元麗
 
   -
-  - 木住
+  - 木住惠理
 
   - （業務提攜）
 
@@ -45,15 +47,10 @@
 
   - [永田亮子](../Page/永田亮子.md "wikilink")
 
-  - [深見梨加](../Page/深見梨加.md "wikilink")
+  -
+  - 藤-{咲}-日奈
 
   -
-  - 藤
-
-  - （舊藝名：山內奈緒）
-
-  - （業務提攜）
-
   - 山內美幸
 
 ## 過往所屬聲優、藝人
@@ -61,10 +58,6 @@
 ### 男性
 
   - [石井康嗣](../Page/石井康嗣.md "wikilink")
-
-  - 伊東一等
-
-  - 潮卓也
 
   -
   - （現所屬：）
@@ -79,13 +72,11 @@
 
   - [國分優香里](../Page/國分優香里.md "wikilink")（現所屬：）
 
-  - 小林恭子
-
   - （現所屬：Extension）
 
-  - 土方淳子
-
   - [葉山郁美](../Page/葉山郁美.md "wikilink")（現所屬：[CLARE VOICE](../Page/CLARE_VOICE.md "wikilink")）
+
+  - [深見梨加](../Page/深見梨加.md "wikilink")（[自由職業](../Page/自由職業.md "wikilink")）
 
   - （現所屬：Aksent）
 
@@ -100,8 +91,6 @@
 [Category:Vi-vo](https://zh.wikipedia.org/wiki/Category:Vi-vo "wikilink") [Category:2002年成立的公司](https://zh.wikipedia.org/wiki/Category:2002年成立的公司 "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:藝人經紀公司](https://zh.wikipedia.org/wiki/Category:藝人經紀公司 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
 
 1.
-
 2.
 3.  「vivo」《現代西班牙語辭典》電子書版，山田善郎他編，宮城昇、山田善郎監修，白水社，1999年1月，改訂版 ISBN 4-560-00046-8。
-
 4.

@@ -639,7 +639,7 @@
 </p></td>
 <td style="text-align: center;"><p>50</p></td>
 <td style="text-align: center;"><p><a href="../Page/徐令姬.md" title="wikilink">徐令姬</a>、<a href="../Page/智鉉寓.md" title="wikilink">智鉉寓</a>、<a href="../Page/柳鎮_(韓國).md" title="wikilink">柳鎮</a>、<a href="https://zh.wikipedia.org/wiki/金昭誾" title="wikilink">金昭誾</a>、<a href="../Page/潘曉靜.md" title="wikilink">潘曉靜</a>、<a href="../Page/李順載.md" title="wikilink">李順載</a>、<a href="../Page/車和娟.md" title="wikilink">車和娟</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/尹在文.md" title="wikilink">尹在文</a>、<a href="https://zh.wikipedia.org/wiki/吳賢鍾" title="wikilink">吳賢鍾</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/尹在文.md" title="wikilink">尹在文</a>、<a href="../Page/吳賢鍾.md" title="wikilink">吳賢鍾</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/朴正蘭.md" title="wikilink">朴正蘭</a></p></td>
 <td style="text-align: center;"></td>
 </tr>

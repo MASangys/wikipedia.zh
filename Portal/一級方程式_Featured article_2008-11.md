@@ -26,6 +26,6 @@
 
 ### [宝马索伯车队](../Page/宝马索伯车队.md "wikilink")：2006年至今
 
-2006年海费尔德加盟刚刚收购[索伯车队的](https://zh.wikipedia.org/wiki/索伯车队 "wikilink")[宝马索伯车队](../Page/宝马索伯车队.md "wikilink")，队友起先是1997年世界冠军[雅克·维伦纽夫](../Page/雅克·维伦纽夫.md "wikilink")，后来是新手[罗伯特·库比卡](https://zh.wikipedia.org/wiki/罗伯特·库比卡 "wikilink")。[匈牙利站获得第](../Page/2006年匈牙利大奖赛.md "wikilink")3名，这是宝马索伯车队第一次有车手登上领奖台。全年积23分排名第9位。
+2006年海费尔德加盟刚刚收购[索伯车队的](https://zh.wikipedia.org/wiki/索伯车队 "wikilink")[宝马索伯车队](../Page/宝马索伯车队.md "wikilink")，队友起先是1997年世界冠军[雅克·维伦纽夫](../Page/雅克·维伦纽夫.md "wikilink")，后来是新手[罗伯特·库比卡](../Page/罗伯特·库比卡.md "wikilink")。[匈牙利站获得第](../Page/2006年匈牙利大奖赛.md "wikilink")3名，这是宝马索伯车队第一次有车手登上领奖台。全年积23分排名第9位。
 
 1.

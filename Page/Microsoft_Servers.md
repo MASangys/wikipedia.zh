@@ -164,7 +164,7 @@ Microsoft Servers只支援單一的作業系統，也就是[Windows Server家族
 
 ### 虛擬化
 
-虛擬化（Virtualization）是目前微軟主推的技術之一，分成作業平台的虛擬化（Platform Virtualization）與應用程式的虛擬化（Application Virtualization）兩種，前者由以及Windows Server 2008的技術來提供，後者則由（Microsoft Desktop Optimization Pack）套件與所組成。
+虛擬化（Virtualization）是目前微軟主推的技術之一，分成作業平台的虛擬化（Platform Virtualization）與應用程式的虛擬化（Application Virtualization）兩種，前者由以及Windows Server的技術來提供，後者則由（Microsoft Desktop Optimization Pack）套件與所組成。
 
 ## 相關技術
 

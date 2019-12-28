@@ -43,7 +43,7 @@
 
   - [麻省理工及哈佛的博大研究所, 化学生物学项目部](http://www.broad.harvard.edu/chembio/index.html)
   - [哈佛大学施莱伯实验室](https://web.archive.org/web/20080323075125/http://www.broad.harvard.edu/chembio/lab_schreiber/index.html)
-  - [[霍华德·休斯医学研究所](../Page/霍华德·休斯医学研究所.md "wikilink")基因组学与化学遗传学, 视频讲座](http://www.hhmi.org/biointeractive/genomics/index.html)
+  - [[霍华德·休斯医学研究所](../Page/霍华德·休斯医学研究所.md "wikilink")基因组学与化学遗传学, 视频讲座](https://web.archive.org/web/20130423182803/http://www.hhmi.org/biointeractive/genomics/index.html)
   - [ChemBank](http://chembank.broad.harvard.edu/)
 
 [Category:美国化学家](https://zh.wikipedia.org/wiki/Category:美国化学家 "wikilink") [Category:哈佛大学校友](https://zh.wikipedia.org/wiki/Category:哈佛大学校友 "wikilink") [Category:維吉尼亞大學校友](https://zh.wikipedia.org/wiki/Category:維吉尼亞大學校友 "wikilink") [Category:耶鲁大学教师](https://zh.wikipedia.org/wiki/Category:耶鲁大学教师 "wikilink") [Category:沃爾夫化學獎得主](https://zh.wikipedia.org/wiki/Category:沃爾夫化學獎得主 "wikilink")

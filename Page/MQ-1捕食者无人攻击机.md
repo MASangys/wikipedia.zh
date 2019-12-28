@@ -21,6 +21,6 @@
 
 ## 外部链接
 
-  - [“捕食者”RQ-1 MQ-1无人机图文介绍](http://www.airforceworld.com/heli/RQ-1_MQ-1_MQ-9_Predator_UAV.htm)
+  - [“捕食者”RQ-1 MQ-1无人机图文介绍](https://web.archive.org/web/20110928074015/http://www.airforceworld.com/heli/RQ-1_MQ-1_MQ-9_Predator_UAV.htm)
 
 [Category:无人机](https://zh.wikipedia.org/wiki/Category:无人机 "wikilink") [Category:美国侦察机](https://zh.wikipedia.org/wiki/Category:美国侦察机 "wikilink") [Category:美國無人軍用飛機](https://zh.wikipedia.org/wiki/Category:美國無人軍用飛機 "wikilink")

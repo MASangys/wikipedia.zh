@@ -596,7 +596,7 @@
 
   - [グランドライナー](https://zh.wikipedia.org/wiki/グランドライナー "wikilink")（[吉田正紀](https://zh.wikipedia.org/wiki/吉田正紀 "wikilink")） 2006年3・4合併号～11号
 
-  - [ハルノクニ](https://zh.wikipedia.org/wiki/ハルノクニ "wikilink")（原作：[濱中明](https://zh.wikipedia.org/wiki/濱中明 "wikilink")、画：[中道裕大](https://zh.wikipedia.org/wiki/中道裕大 "wikilink")） 2006年12号～50号
+  - [ハルノクニ](https://zh.wikipedia.org/wiki/ハルノクニ "wikilink")（原作：[濱中明](https://zh.wikipedia.org/wiki/濱中明 "wikilink")、画：[中道裕大](../Page/中道裕大.md "wikilink")） 2006年12号～50号
 
   - [妖逆門](../Page/妖逆門.md "wikilink")（[田村光久](https://zh.wikipedia.org/wiki/田村光久 "wikilink")、原案：藤田和日郎） 2006年13号～2007年16号
 
@@ -851,6 +851,11 @@
   - **[名侦探柯南 警察学校篇 Wild Police Story](https://zh.wikipedia.org/wiki/名侦探柯南 "wikilink")（原作：[青山刚昌](https://zh.wikipedia.org/wiki/青山刚昌 "wikilink")，作画：） 2018年44号～**
 
   - 完美女孩（） 2019年46号～49号
+
+### 2020年代前半連載開始作品
+
+  - **谎月（） 2020年1号～**
+  - **PINGKONG（） 2020年2・3合并号～**
 
 ### 不詳
 

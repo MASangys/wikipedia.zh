@@ -1,4 +1,4 @@
-**TrES-2b**或稱**克卜勒1b**（**Kepler-1b**），是一個環繞著[天龍座恆星](https://zh.wikipedia.org/wiki/天龍座 "wikilink")[GSC 03549-02811](../Page/GSC_03549-02811.md "wikilink")（TrES-2）的[太陽系外行星](../Page/太陽系外行星.md "wikilink")，距太陽系750光年。TrES-2b於2011年被確認是表面最暗的系外行星，它的[反照率](../Page/反照率.md "wikilink")小於1%\[1\]。該行星的質量和半徑代表它是組成成分類似木星的[類木行星](https://zh.wikipedia.org/wiki/類木行星 "wikilink")，但它極為靠近母恆星，因此是典型的[熱木星](../Page/熱木星.md "wikilink")。本行星系位於[克卜勒太空望遠鏡](../Page/克卜勒太空望遠鏡.md "wikilink")的[視野中](https://zh.wikipedia.org/wiki/視野 "wikilink")\[2\]。
+**TrES-2b**或稱**克卜勒1b**（**Kepler-1b**），是一個環繞著[天龍座恆星](https://zh.wikipedia.org/wiki/天龍座 "wikilink")[GSC 03549-02811](../Page/GSC_03549-02811.md "wikilink")（TrES-2）的[太陽系外行星](../Page/太陽系外行星.md "wikilink")，距太陽系750光年。TrES-2b於2011年被確認是表面最暗的系外行星，它的[反照率](../Page/反照率.md "wikilink")小於1%\[1\]。該行星的質量和半徑代表它是組成成分類似木星的[類木行星](https://zh.wikipedia.org/wiki/類木行星 "wikilink")，但它極為靠近母恆星，因此是典型的[熱木星](../Page/熱木星.md "wikilink")。本行星系位於[克卜勒太空望遠鏡](../Page/克卜勒太空望遠鏡.md "wikilink")的[視野](../Page/視野.md "wikilink")中\[2\]。
 
 多個計畫持續對 TrES-2b 進行研究，並持續獲得許多參數。2007年的研究獲得許多該行星和母恆星的參數\[3\]。2008年研究總結母恆星 TrES-2 是一個[聯星](../Page/聯星.md "wikilink")系統，這對測定行星與恆星參數有重要影響\[4\]。
 

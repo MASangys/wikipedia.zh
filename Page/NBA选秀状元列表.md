@@ -460,7 +460,7 @@ NBA选秀状元随后獲得[NBA最有價值球員獎的球员有](https://zh.wik
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1976年NBA選秀" title="wikilink">1976</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/約翰·盧卡斯三世_(1953年出生)" title="wikilink">約翰·盧卡斯三世</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/約翰·盧卡斯二世" title="wikilink">約翰·盧卡斯二世</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Basketball_player.svg" title="fig:Basketball_player.svg">Basketball_player.svg</a></p></td>
 <td></td>
 <td><p>後衛</p></td>

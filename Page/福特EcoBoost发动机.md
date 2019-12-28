@@ -130,59 +130,32 @@ EcoBoost V6首先搭载在2010年林肯MKS上，接下来是2010年[福特Flex](
 [Category:福特引擎與技術](https://zh.wikipedia.org/wiki/Category:福特引擎與技術 "wikilink") [Category:直列三缸引擎](https://zh.wikipedia.org/wiki/Category:直列三缸引擎 "wikilink") [Category:直列四缸引擎](https://zh.wikipedia.org/wiki/Category:直列四缸引擎 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.  <http://www.autoevolution.com/news/volvo-v70-and-s80-now-with-20-gtdi-14369.html>
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13. <http://media.ford.com/article_display.cfm?article_id=30386>
-
 14. <http://media.ford.com/article_display.cfm?article_id=31765>
-
 15. <http://media.ford.com/images/10031/2011_F150_EcoBoost.pdf>
-
 16.
-
 17.
-
 18.
-
 19. <http://media.ford.com/news/2010brusselsmotorshowdebutfornewford_eurowide.htm>
-
 20.
-
 21. <http://media.ford.com/news/moscowmotorshowdebutfornewlookfordmondeohighefficiencypowertrainsnewtechnologiesandfreshkineticdesign.htm>
-
 22.
-
 23.
-
 24. [小惡魔汽車教室 第二彈 Ford EcoBoost 180引擎科技詳解](http://www.mobile01.com/topicdetail.php?f=260&t=4930712)
-
 25.
 26.
-
 27. <http://media.ford.com/article_display.cfm?article_id=35237>
-
 28. [International Engine of Year Award - Sub 1-Litre](http://www.ukipme.com/engineoftheyear/results.php?id=1)
-
 29.
-
 30. [《Ford》可採雙缸運轉的1.5升三缸EcoBoost引擎 有望導入美國市場販售](https://www.kingautos.net/202676)

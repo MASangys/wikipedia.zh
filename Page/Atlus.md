@@ -4,7 +4,7 @@ Atlus著名的代表作品為[真·女神轉生系列](https://zh.wikipedia.org/
 
 Atlus另有發行[戰略角色扮演類型的遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")—[夢幻騎士系列](../Page/夢幻騎士系列.md "wikilink")。夢幻騎士系列源自於Career Soft的作品—[Langrisser](https://zh.wikipedia.org/wiki/夢幻模擬戰 "wikilink")。在第一部[夢幻騎士](../Page/夢幻騎士.md "wikilink")成功地獲得市場的回響之後，Atlus收購了Career Soft並繼續開發該系列的續作。
 
-Atlus總部設於日本，在美國、沈阳、南京、[香港](../Page/香港.md "wikilink")等地均設有分公司。為了區別，Atlus總部經常被簡稱為「<span style="color:blue">A</span><span style="color:#ee0011;">T</span><span style="color:blue">LUS</span>」。
+Atlus總部設於日本，在美國、沈阳、西安、[香港](../Page/香港.md "wikilink")等地均設有分公司。為了區別，Atlus總部經常被簡稱為「<span style="color:blue">A</span><span style="color:#dc1212;">T</span><span style="color:blue">LUS</span>」。
 
 [Atlus_logo.png](https://zh.wikipedia.org/wiki/File:Atlus_logo.png "fig:Atlus_logo.png")
 
@@ -34,7 +34,7 @@ Atlus總部設於日本，在美國、沈阳、南京、[香港](../Page/香港.
   - 2010年8月30日，日本[Index控股召开董事会](https://zh.wikipedia.org/wiki/Index控股 "wikilink")，宣布吸收合并Atlus，接手Atlus游戏版权等事务。\[6\]
   - 2010年10月1日 - 被母公司Index株式会社控股吸收合并，原公司解散。\[7\]。
   - 2013年2月5日，中国沈阳ATLUS有限公司成立，是位于[辽宁省](../Page/辽宁省.md "wikilink")[沈阳市](https://zh.wikipedia.org/wiki/沈阳市 "wikilink")[沈河区](../Page/沈河区.md "wikilink")[青年大街的](https://zh.wikipedia.org/wiki/青年大街 "wikilink")[子公司](../Page/子公司.md "wikilink")。
-  - 2013年4月3日 - 中国[南京ATLUS有限公司是位於南京市玄武区的](https://zh.wikipedia.org/wiki/南京ATLUS "wikilink")[子公司](../Page/子公司.md "wikilink")。
+  - 2013年4月3日 - 中国[西安ATLUS有限公司是位於陕西省西安市碑林区南稍门的](https://zh.wikipedia.org/wiki/西安ATLUS "wikilink")[子公司](../Page/子公司.md "wikilink")。
   - 2013年6月27日 - INDEX开启民事再生手续，实际破产。
   - 2013年9月5日 - [世嘉颯美控股以](https://zh.wikipedia.org/wiki/世嘉颯美控股 "wikilink")140亿日元从INDEX收购Atlus，Atlus完全独立出原INDEX品牌，並由SEGA成立的子公司SEGA Dream Corporation负责相关业务。
   - 2013年9月18日 - SEGA宣布于11月1日完全收购INDEX。\[8\]\[9\]
@@ -481,7 +481,7 @@ Atlus總部設於日本，在美國、沈阳、南京、[香港](../Page/香港.
 3.  [日本遊戲廠商 GONZO ROSSO 宣布更名為 ROSSO INDEX](http://gnn.gamer.com.tw/3/42133.html)
 4.  [株式会社インデックス・ホールディングスによる株式会社アトラスの株式交換による完全子会社化に関する株式交換契約締結について](http://www.atlus.co.jp/ir/news/pdf/1265975726.pdf)
 5.  [当社連結子会社の株式譲渡契約締結に関するお知らせ](http://www.atlus.co.jp/ir/news/pdf/1269596104.pdf)
-6.  [《真女神转生》母公司Atlus被合并 IndexHD新成立](http://nds.duowan.com/1008/147105833023.html)
+6.
 7.
 8.
 9.  [株式会社インデックスの事業譲受けに関する契約締結について](http://www.segasammy.co.jp/japanese/pdf/release/20130918_index_j_final.pdf)

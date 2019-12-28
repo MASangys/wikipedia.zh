@@ -132,7 +132,7 @@ PSO-1可以在鏡片前方裝在一個物鏡罩，並且可裝在遮陽板上，
 
   - —[POSP 4x24 PSO-1 Rifle Scopes Instruction Manual](http://www.scribd.com/doc/12891542/POSP-4x24-PSO1-Rifle-Scopes-Instruction-Manual)
 
-  - —[PSO-1 telescopic sight | Guns collecting of military or historical interest](http://www.gunscollecting.com/english/scopes/pso-1-telescopic-sight/)
+  - —[PSO-1 telescopic sight | Guns collecting of military or historical interest](https://web.archive.org/web/20150501200455/http://www.gunscollecting.com/english/scopes/pso-1-telescopic-sight/)
 
   - —[D Boy Gun World（槍炮世界）—卡拉什尼科夫专辑—瞄准镜架辅助导轨](http://firearmsworld.net/russain/kalash/acces/mount.htm)
 
@@ -141,15 +141,10 @@ PSO-1可以在鏡片前方裝在一個物鏡罩，並且可裝在遮陽板上，
 [Category:槍械瞄準](https://zh.wikipedia.org/wiki/Category:槍械瞄準 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  因此，士兵可以快速拆卸和安裝光學瞄準鏡，而且保持瞄準鏡歸零。[PSO-1 Manual](http://www.ar15.com/content/manuals/pos1.pdf)
-
 5.
 6.  [POSP／PSO-1固定倍率瞄准镜说明书／Manual](http://www.kalinkaoptics.com/Manuals/KOPOSPFixedManual.pdf)
-
 7.
 8.  [DRAGUNOV OPTICS APPLICATIONS](http://images.google.nl/imgres?imgurl=http://tantal.kalashnikov.guns.ru/pso/psopartsdiagram.jpg&imgrefurl=http://tantal.kalashnikov.guns.ru/bstpso.html&usg=__uSnRlifElsa9kr7ZgpPsFI1EdHo=&h=360&w=750&sz=58&hl=nl&start=874&um=1&tbnid=GO8ukNajKTDI7M:&tbnh=68&tbnw=141&prev=/images%3Fq%3Ddiopter%26ndsp%3D20%26hl%3Dnl%26client%3Dopera%26rls%3Dnl%26sa%3DN%26start%3D860%26um%3D1)

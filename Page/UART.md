@@ -77,7 +77,7 @@ UART把一个字符放入移位寄存器，就开始产生一个数据帧。对�
 <td><p>USART，非同步通信最高 19.2kbit/s，同步通信最高 64kbit/s[3]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/美國國家半導體.md" title="wikilink">NS</a> INS</p></td>
+<td><p><a href="../Page/美國國家半導體.md" title="wikilink">NS</a> INS<a href="../Page/8250_UART.md" title="wikilink">8250</a></p></td>
 <td><p>緩衝區只有 1 位元組的老舊型式</p></td>
 </tr>
 <tr class="odd">

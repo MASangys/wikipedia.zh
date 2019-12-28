@@ -1,4 +1,4 @@
-**宏碁** **Aspire one** 是[宏碁](../Page/宏碁.md "wikilink")的[小筆電或](https://zh.wikipedia.org/wiki/小筆電 "wikilink")[netbook系列產品名稱](https://zh.wikipedia.org/wiki/netbook "wikilink")，於2008年7月發表\[1\]，採用[英特爾Atom](https://zh.wikipedia.org/wiki/英特爾Atom "wikilink") N270微處理器、[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")945GSE Express晶片組和英特爾82801GBM(ICH7M) I/O控制器。\[2\]該生產線由[廣達電腦](../Page/廣達電腦.md "wikilink")代工生產，\[3\]它備有多種顏色可供選擇可：貝殼白、寶石藍、金黃色、黑瑪瑙色及珊瑚粉紅。其主要競爭對手在netbook市場中有[華碩](../Page/華碩.md "wikilink")的[Eee PC和](https://zh.wikipedia.org/wiki/Eee_PC "wikilink")[戴爾](../Page/戴爾.md "wikilink")的[Inspiron Mini 9](https://zh.wikipedia.org/wiki/Inspiron_Mini_9 "wikilink")。據業界通訊報導，宏碁及廣達已經陷入困境，生產 Aspire one 的一個生產線將在2009年轉移到其他製造商。\[4\]
+**Acer Aspire one** 是[宏碁](../Page/宏碁.md "wikilink")的[小筆電或](https://zh.wikipedia.org/wiki/小筆電 "wikilink")[netbook系列產品名稱](https://zh.wikipedia.org/wiki/netbook "wikilink")，於2008年7月發表\[1\]，採用[英特爾Atom](https://zh.wikipedia.org/wiki/英特爾Atom "wikilink") N270微處理器、[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")945GSE Express晶片組和英特爾82801GBM(ICH7M) I/O控制器。\[2\]該生產線由[廣達電腦](../Page/廣達電腦.md "wikilink")代工生產，\[3\]它備有多種顏色可供選擇，如貝殼白、寶石藍、金黃色、黑瑪瑙色及珊瑚粉紅。其主要競爭對手在[小筆電市場中有](https://zh.wikipedia.org/wiki/小筆電 "wikilink")[華碩](../Page/華碩.md "wikilink")的[Eee PC和](https://zh.wikipedia.org/wiki/Eee_PC "wikilink")[戴爾](../Page/戴爾.md "wikilink")的[Inspiron Mini 9](https://zh.wikipedia.org/wiki/Inspiron_Mini_9 "wikilink")。據業界通訊報導，宏碁及廣達已經陷入困境，生產 Aspire one 的一個生產線將在2009年轉移到其他製造商。\[4\]
 
 [CNET](../Page/CNET.md "wikilink")編輯對Aspire One的評價是相當正面的\[5\]，儘管它只是市場上較早出現的netbook，而其他廠商亦有計劃發表更優秀的產品。
 
@@ -26,18 +26,18 @@
 
 ### 存儲
 
-  - 固態硬碟
-    在A110型號配備了一個8GB或16GB容量[固態硬碟](../Page/固态硬盘.md "wikilink")（SSD），這種固態硬碟也被批評其緩慢的讀取和寫入速度。
+  - 固態磁盤
+    在A110型號配備了一個8GB容量[固態驅動器](https://zh.wikipedia.org/wiki/固態驅動器 "wikilink")（SSD），這種固態硬盤也被批評其緩慢的讀取和寫入速度。
 
 <!-- end list -->
 
-  - 硬碟
-    硬碟是一個固定的2.5吋5400 RPM SATA硬盤120或160 GB的。四種不同的驅動器已報告至今：希捷科技的ST9120817AS，威騰電子的WD1200BEVS，WD1600BEVT和日立的HTS543212L9A300。\[9\]\[10\]\[11\]
+  - 硬盤
+    硬盤是一個固定的2.5吋5400 RPM SATA硬盤120或160 GB的。四種不同的驅動器已報告至今：希捷ST9120817AS，西部數據WD1200BEVS，WD1600BEVT和日立HTS543212L9A300。\[9\]\[10\]\[11\]
 
 <!-- end list -->
 
   - 存儲擴充槽
-    有一個SD/SDHC記憶存儲擴展插槽在所有型號之上，以供擴展之用。Linux上使用[aufs能自動擴大固態硬盤或HDD的空間](https://zh.wikipedia.org/wiki/aufs "wikilink")。Windows XP中對待它作為一個可移動驅動器。第二個插槽作為一個多合一記憶卡讀卡器。但是在BIOS不支持啟動的操作系統從這些插槽。用戶可以透過這些讀卡器插槽進行BIOS更新。
+    有一個SD/SDHC記憶存儲擴展插槽在所有型號之上，以供擴展之用。Linux上使用[aufs能自動擴大固態硬盤或HDD的空間](https://zh.wikipedia.org/wiki/aufs "wikilink")。Windows XP中對待它作為一個可移動驅動器。第二個插槽作為一個多合一記憶卡讀卡器。但是在[BIOS](../Page/BIOS.md "wikilink")不支持啟動的操作系統從這些插槽。用戶可以透過這些讀卡器插槽進行[BIOS](../Page/BIOS.md "wikilink")更新。
 
 ### 電源管理
 
@@ -95,33 +95,33 @@
 
 ## 外部連結
 
-  - [Aspire one](https://web.archive.org/web/20090228192907/http://www.aspireone.com.tw/)
-  - [Acer Aspire one 產品介紹](https://web.archive.org/web/20090226005717/http://www.acer.com.tw/product_detail.asp?p_id=476)
+  - [Aspire one](http://www.aspireone.com.tw/)
+  - [Acer Aspire one 產品介紹](http://www.acer.com.tw/product_detail.asp?p_id=476)
 
 [Category:Netbook](https://zh.wikipedia.org/wiki/Category:Netbook "wikilink") [Category:宏碁產品](https://zh.wikipedia.org/wiki/Category:宏碁產品 "wikilink") [Category:2008年面世](https://zh.wikipedia.org/wiki/Category:2008年面世 "wikilink")
 
 1.  [Acer US press release](http://us.acer.com/public/page92.do?sp=page29&dau42.oid=13762&UserCtxParam=0&GroupCtxParam=0&dctx1=25&CountryISOCtxParam=US&LanguageISOCtxParam=en&ctx3=-1&ctx4=United+States&crc=3201121738)
-2.  <http://www.acer.com/aspireone/>  - About - Platform
+2.  <http://www.acer.com/aspireone/> - About - Platform
 3.  <http://www.digitimes.com/systems/a20080710PD222.html>
 4.  <http://www.digitimes.com/news/a20081015PD214.html>
 5.  [CNET reviewers: "the best all-around Netbook we've seen for less than $400"](http://reviews.cnet.com/laptops/acer-aspire-one-linpus/4505-3121_7-33190895.html?tag=mncol;txt)
 6.
 7.  <https://help.ubuntu.com/community/AspireOne110L>
-8.  <http://eeepc.itrunsonlinux.com/the-news/1-latest-news/242-linux4one-ubuntu-for-the-acer-aspire-one->  Linux4one Ubuntu for the Acer Aspire One
+8.  <http://eeepc.itrunsonlinux.com/the-news/1-latest-news/242-linux4one-ubuntu-for-the-acer-aspire-one-> Linux4one Ubuntu for the Acer Aspire One
 9.  <http://www.seagate.com/staticfiles/support/disc/manuals/notebook/momentus/5400.4/SATA/100468842a.pdf>
-10.
+10. <http://www.wdc.com/de/products/products.asp?driveid=200>
 11. <http://www.hitachigst.com/tech/techlib.nsf/techdocs/C51A283F52498251862573FA005A3C98/$file/Travelstar_5K320_DS.pdf>
 12.
 13.
-14.
+14. <http://ark.intel.com/chipset.aspx?familyID=35553>
 15. <http://ark.intel.com/product.aspx?id=27680>
-16.
+16. <http://www.gblcd.com/datacenter/au/B089AW01_V0.pdf>
 17.
 18.
 19.
-20.
+20. <http://blogs.inquirer.net/techaddicts/?p=284&akst_action=share-this>
 21. <http://www.e-gear.com/story/story.bsp?sid=178323&var=story>
-22.
+22. <http://parabook.de/2008/10/20/acer-aspire-one-a150x-3g-kommt/>
 23. <http://www.jkontherun.com/2008/10/control-that-ac.html>
 24. <https://help.ubuntu.com/community/AspireOne#Step%203:%20Tweak%20/%20Fix>
 25. <http://www.engadget.com/2008/08/14/acer-aspire-one-not-immune-to-tnkgrls-modding-ways-stuffed-wit/>

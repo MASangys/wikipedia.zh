@@ -95,116 +95,61 @@ Theora的影像流可以儲存在任何的容器檔案格式中，最常用的�
 [Category:使用BSD許可證的軟體](https://zh.wikipedia.org/wiki/Category:使用BSD許可證的軟體 "wikilink") [Category:视频编解码器](https://zh.wikipedia.org/wiki/Category:视频编解码器 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10. StreamingMedia.com（2001-09-07）[On2 Offers Up VP3.2 Source Code](http://www.streamingmedia.com/article.asp?id=7871) , Retrieved on 2009-08-16
-
 11. On2（2001-09-07）[On2 Technologies Makes Video Compression Technology Available to Open-Source Community](http://www.on2.com/index.php?id=486&news_id=364) , Retrieved on 2009-08-16
-
 12.
-
 13. Linux.com（2001-09-06）[On2 Technologies Open-Sources VP3 video compression code](http://www.linux.com/archive/feature/16482), Retrieved on 2009-08-16
-
 14. The Free Library（2002-03-28）\[<http://www.thefreelibrary.com/On2+Alters+Licensing+Terms+for+VP3%3b+Company+Responds+to+Open+Source>...-a084233138 On2 Alters Licensing Terms for VP3; Company Responds to Open Source Community Demands.\], Retrieved on 2009-08-16
-
 15. On2（2002-06-24）[VP3 Combines with Vorbis to Create First Open-Source Multimedia Platform](http://www.on2.com/index.php?id=486&news_id=313) , Retrieved on 2009-08-16
-
 16.
-
 17. Linux.com（2002-06-23）[Ogg Vorbis, VP3 combining forces to create Open Source multimedia package](http://www.linux.com/archive/articles/23630?tid=6), Retrieved on 2009-08-16
-
 18. InternetNews.com（2002-06-24）[On2 Throws More Open-Source at MPEG-4](http://www.internetnews.com/bus-news/article.php/1370341), Retrieved on 2009-08-16
-
 19. Xiph.org [libtheora license (Subversion - Trunk)](http://svn.xiph.org/trunk/theora/LICENSE), Retrieved on 2009-08-16
-
 20. Xiph.org [VP32 codec license (Subversion - Trunk)](http://svn.xiph.org/trunk/vp32/LICENSE), Retrieved on 2009-08-16
-
 21.
-
 22.
-
 23.
 24.
-
 25.
-
 26.
 27.
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34. <https://github.com/aptana/studio3/pull/211>
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.

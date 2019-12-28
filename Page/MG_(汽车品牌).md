@@ -64,6 +64,6 @@ MG後來成为[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[罗孚](
 [Category:MG汽车](https://zh.wikipedia.org/wiki/Category:MG汽车 "wikilink") [Category:汽车品牌](https://zh.wikipedia.org/wiki/Category:汽车品牌 "wikilink") [Category:上汽集团](https://zh.wikipedia.org/wiki/Category:上汽集团 "wikilink")
 
 1.  <http://www.guardian.co.uk/artanddesign/2011/apr/12/mg6-design-verdict?INTCMP=SRCH> (英文)MG6: part Audi, part Korean hire car
-2.  [（英文）英国MG汽车公司官方网站](http://mg.co.uk/about-mg/history-heritage/)
+2.
 3.  <http://www.autoexpress.co.uk/news/autoexpressnews/268837/magnettes_back_as_mg_6_saloon.html> （英文） "Magnette's back as MG 6 saloon"
 4.  [MG6量产版曝光 MG将首次公布新策略 (2)](http://auto.msn.com.cn/auto_new/ao/2009/11/17/259006_2.shtml)

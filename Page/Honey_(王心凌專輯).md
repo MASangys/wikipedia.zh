@@ -59,4 +59,4 @@
   - 2005年2月18日：正式版（1片[CD](../Page/CD.md "wikilink")）
   - 2005年3月25日：甜蜜慶功版（1片CD、1片[VCD](../Page/VCD.md "wikilink")（收錄3支[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")、〈Honey〉與〈翹翹板〉舞蹈版MV）及10張「Honey甜蜜」寫真[明信片](../Page/明信片.md "wikilink")）
 
-[Category:王心凌音乐专辑](https://zh.wikipedia.org/wiki/Category:王心凌音乐专辑 "wikilink") [Category:2005年音乐专辑](https://zh.wikipedia.org/wiki/Category:2005年音乐专辑 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
+[Category:王心凌](https://zh.wikipedia.org/wiki/Category:王心凌 "wikilink") [Category:王心凌音乐专辑](https://zh.wikipedia.org/wiki/Category:王心凌音乐专辑 "wikilink") [Category:2005年音乐专辑](https://zh.wikipedia.org/wiki/Category:2005年音乐专辑 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")

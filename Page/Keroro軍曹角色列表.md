@@ -444,7 +444,7 @@
 
 <!-- end list -->
 
-  - **小百合**（配音：[弓場沙織](https://zh.wikipedia.org/wiki/弓場沙織 "wikilink")）
+  - **小百合**（配音：[弓場沙織](../Page/弓場沙織.md "wikilink")）
 
 <!-- end list -->
 

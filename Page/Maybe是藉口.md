@@ -122,18 +122,11 @@
 [Category:2009年单曲](https://zh.wikipedia.org/wiki/Category:2009年单曲 "wikilink") [Category:AKB48歌曲](https://zh.wikipedia.org/wiki/Category:AKB48歌曲 "wikilink") [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:日本電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台節目主題曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
 
 1.  包含音樂下載单曲《Baby\! Baby\! Baby\!》。若包含独立制作时期单曲则为第15张。
-
 2.  小野惠令奈过去也曾题写过《[想见你](../Page/想见你_\(AKB48单曲\).md "wikilink")》（）、《[大声钻石](../Page/大声钻石.md "wikilink")》（}）的标题文字。
-
 3.
-
 4.
-
 5.  自第10张单曲《[大声钻石](../Page/大声钻石.md "wikilink")》以来，时隔10个月再次进入选拔组。
-
 6.
 7.  自第11张单曲《[10年樱](https://zh.wikipedia.org/wiki/10年樱 "wikilink")》以来，时隔5个月再次进入选拔组
-
 8.  自第8张单曲《[樱花的花瓣们2008](../Page/樱花的花瓣们2008.md "wikilink")》以来，时隔1年半再次进入选拔组。
-
 9.  浦野一美参加了独立制作时期[樱花的花瓣们](../Page/樱花的花瓣们.md "wikilink")、[裙襬飘飘的录制](https://zh.wikipedia.org/wiki/裙襬飘飘 "wikilink")，但这两作均为当时的Team A全体成员参加，故进入选拔组是第一次。

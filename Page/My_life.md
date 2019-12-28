@@ -90,12 +90,6 @@ CD+DVD的初回限定盘额外收录《》《（Smooth Jam Mix）》和《》的
 
 ## 参考资料
 
-<div class="references-small">
-
-<references />
-
-</div>
-
 [Category:Alan音樂專輯](https://zh.wikipedia.org/wiki/Category:Alan音樂專輯 "wikilink") [Category:2009年音乐专辑](https://zh.wikipedia.org/wiki/Category:2009年音乐专辑 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
 
 1.

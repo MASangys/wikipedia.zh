@@ -59,7 +59,7 @@ DLP（全称：，中文：动态反吸血驴保护）是eMule Xtreme Mod的原�
 
   - [emule-mods.de上的Xtreme页面](http://www.emule-mods.de/?mods=xtreme)
 
-  - [emulefans.com（电骡爱好者）blog上的Xtreme页面](http://emulefans.com/news/emule/xtreme/)
+  - [emulefans.com（电骡爱好者）blog上的Xtreme页面](https://web.archive.org/web/20100704020508/http://emulefans.com/news/emule/xtreme/)
 
   - [chnp2p.org（传输中国）blog上的Xtreme页面](https://web.archive.org/web/20090907065531/http://www.chnp2p.org/topics/xtreme)
 

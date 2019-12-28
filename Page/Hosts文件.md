@@ -100,12 +100,12 @@ hosts文件在不同[操作系统](../Page/操作系统.md "wikilink")中的位�
 <tr class="even">
 <td><p><a href="../Page/Android.md" title="wikilink">Android</a></p></td>
 <td></td>
-<td><p><code>/etc/hosts</code>（指向<code>/system/etc/hosts</code>的<a href="../Page/符号链接.md" title="wikilink">符号链接</a>)</p></td>
+<td><p><code>/etc/hosts</code>（指向<code>/system/etc/hosts</code>的<a href="../Page/符号链接.md" title="wikilink">符号链接</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a></p></td>
 <td><p>iOS 2.0和更新版本</p></td>
-<td><p><code>/etc/hosts</code>（指向<code>/private/etc/hosts</code>的<a href="../Page/符号链接.md" title="wikilink">符号链接</a>)</p></td>
+<td><p><code>/etc/hosts</code>（指向<code>/private/etc/hosts</code>的<a href="../Page/符号链接.md" title="wikilink">符号链接</a>）</p></td>
 </tr>
 <tr class="even">
 <td></td>

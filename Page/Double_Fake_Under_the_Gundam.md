@@ -57,9 +57,7 @@
 
   -
   - 瑪琦
-
   - 美香代
-
   - 桃夕
 
 ### 卡勒德
@@ -123,24 +121,15 @@
 ### [新自護](https://zh.wikipedia.org/wiki/新自護 "wikilink")
 
   - AMX-003C 加薩C改
-
   - AMX-016 加薩W
-
   - MS-06 渣古II
-
   - AMX-011C 渣古III後期型
-
   - AMX-102C 滋薩改
-
   - AMX-013 滋薩丹
-
   - MSN-X4 巴基·德卡
-
   -
   - AMS-119 居勒·德卡
-
   - MSN-X0 德卡
-
   - MSN-03 乍德·德卡
 
 ## 其他

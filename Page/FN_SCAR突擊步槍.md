@@ -355,7 +355,7 @@ SCAR由FN位於南[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[哥�
 10.
 11. [D Boy Gun World—FN SCAR计划（FN IAR）](http://firearmsworld.net/usa/r/scar/fn_iar.htm)
 12.
-13. [美国海军陆战队选择HK-IAR取代M249机枪](http://war.news.163.com/09/1204/14/5PMRLA7700011MTO.html)
+13.
 14. [The Kunduz MK 17 SCAR, or a Chronology of SCAR rifles Among the Taliban](https://www.thefirearmblog.com/blog/2018/03/05/kunduz-mk-17-scar-chronology-scar-among-taliban/amp/)
 15.
 16.

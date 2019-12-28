@@ -1158,7 +1158,7 @@ ISBN 978-4-7756-0352-9</p></td>
 <td><p>2008年8月24日(5ONE-921)<br />
 2008年2月7日(ONED-921) ※DVD<br />
 2008年4月7日(ONE-921) ※VHS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/秋秀人" title="wikilink">秋秀人</a></p></td>
+<td><p><a href="../Page/秋秀人.md" title="wikilink">秋秀人</a></p></td>
 <td><p>200分 / 240分</p></td>
 <td><p>2枚組(セル版)</p></td>
 </tr>

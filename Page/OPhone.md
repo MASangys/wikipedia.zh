@@ -60,4 +60,4 @@ OPhone曾經研發過3.0，但最后没有發布。
 
 1.
 2.
-3.  <http://www.mobiletechworld.com/2010/02/02/china-mobiles-oms-2-0-android-os-supports-windows-mobile-apis-whats-that/>
+3.

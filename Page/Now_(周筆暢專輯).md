@@ -28,5 +28,5 @@
 [Category:周笔畅音乐专辑](https://zh.wikipedia.org/wiki/Category:周笔畅音乐专辑 "wikilink") [Category:2007年音乐专辑](https://zh.wikipedia.org/wiki/Category:2007年音乐专辑 "wikilink")
 
 1.  [周笔畅新专辑玩“实验” 尝试舞曲等多种风格](http://ent.sina.com.cn/y/2007-11-27/01351808703.shtml)，新京报，2007年11月27日。
-2.  [玷污经典？周笔畅《浏阳河2008》惹官司](http://ent.163.com/07/0918/10/3OLR7VHR000327RE.html)，金鹰报，2007年9月18日。
+2.  [玷污经典？周笔畅《浏阳河2008》惹官司](http://ent.163.com/07/0918/10/3OLR7VHR000327RE.html) ，金鹰报，2007年9月18日。
 3.  [“笔迷”感动徐叔华 《浏阳河2008》纠纷云开雾散](http://ent.rednet.cn/c/2007/10/11/1341916.htm) ，金鹰报，2007年10月11日。

@@ -1,4 +1,4 @@
-是属于[古墓丽影系列](../Page/古墓丽影系列.md "wikilink")的一款电子游戏，是游戏《[古墓丽影](https://zh.wikipedia.org/wiki/古墓丽影 "wikilink")》的续作。游戏由[Core Design负责开发](https://zh.wikipedia.org/wiki/Core_Design "wikilink")，[Eidos Interactive出版](https://zh.wikipedia.org/wiki/Eidos_Interactive "wikilink")。原始版本在[PlayStation](../Page/PlayStation.md "wikilink")平台发布，[Windows 95和](../Page/Windows_95.md "wikilink")[Mac版本在](https://zh.wikipedia.org/wiki/Mac "wikilink")1997年11月发布，[PlayStation Network版本在](../Page/PlayStation_Network.md "wikilink")2009年发布。\[1\]\[2\]中国大陆由[北京新天地](../Page/北京新天地.md "wikilink")代理，臺灣由[第三波資訊代理Windows版發售](https://zh.wikipedia.org/wiki/第三波資訊 "wikilink")。
+是属于[古墓丽影系列](../Page/古墓丽影系列.md "wikilink")的一款电子游戏，是游戏《[古墓丽影](https://zh.wikipedia.org/wiki/古墓丽影 "wikilink")》的续作。游戏由[Core Design负责开发](../Page/Core_Design.md "wikilink")，[Eidos Interactive出版](https://zh.wikipedia.org/wiki/Eidos_Interactive "wikilink")。原始版本在[PlayStation](../Page/PlayStation.md "wikilink")平台发布，[Windows 95和](../Page/Windows_95.md "wikilink")[Mac版本在](https://zh.wikipedia.org/wiki/Mac "wikilink")1997年11月发布，[PlayStation Network版本在](../Page/PlayStation_Network.md "wikilink")2009年发布。\[1\]\[2\]中国大陆由[北京新天地](../Page/北京新天地.md "wikilink")代理，臺灣由[第三波資訊代理Windows版發售](https://zh.wikipedia.org/wiki/第三波資訊 "wikilink")。
 
 ## 游戏剧情
 
@@ -24,10 +24,7 @@
 [Category:1997年电子游戏](https://zh.wikipedia.org/wiki/Category:1997年电子游戏 "wikilink") [Category:古墓奇兵系列電子遊戲](https://zh.wikipedia.org/wiki/Category:古墓奇兵系列電子遊戲 "wikilink") [Category:Eidos游戏](https://zh.wikipedia.org/wiki/Category:Eidos游戏 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:PlayStation_Network游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Network游戏 "wikilink") [Category:制作中止的Sega_Saturn游戏](https://zh.wikipedia.org/wiki/Category:制作中止的Sega_Saturn游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:有組織犯罪遊戲](https://zh.wikipedia.org/wiki/Category:有組織犯罪遊戲 "wikilink") [Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink") [Category:英國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:英國開發電子遊戲 "wikilink") [Category:中国背景电子游戏](https://zh.wikipedia.org/wiki/Category:中国背景电子游戏 "wikilink") [Category:威尼斯背景电子游戏](https://zh.wikipedia.org/wiki/Category:威尼斯背景电子游戏 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.

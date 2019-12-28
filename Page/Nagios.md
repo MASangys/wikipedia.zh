@@ -36,7 +36,7 @@ Nagios原名**NetSaint**，由Ethan Galstad开发并维护至今。NAGIOS是簡�
   - Josephsen, David; (2007) *[Building a Monitoring Infrastructure with Nagios](http://www.pearson.ch/Informatik/PrenticeHall/1471/9780132236935/Building_a_Monitoring_Infrastructure.aspx)* - Prentice Hall ISBN 0-13-223693-1
   - Dondich, Taylor; (2006) *[Network Monitoring with Nagios](http://www.oreilly.com/catalog/networknagios/index.html)* - O'Reilly ISBN 0-596-52819-1
   - Schubert, Max et al.; (2008) *[Nagios 3 Enterprise Network Monitoring](http://www.nagios3book.com/)* - Syngress ISBN 978-1-59749-267-6
-  - Kocjan, Wojciech; (2008) "[Learning Nagios 3.0](http://www.packtpub.com/guide-for-learning-nagios-3/)" - Packt Publishing ISBN 1847195180
+  - Kocjan, Wojciech; (2008) "[Learning Nagios 3.0](https://web.archive.org/web/20090813073735/http://www.packtpub.com/guide-for-learning-nagios-3)" - Packt Publishing ISBN 1847195180
 
 ## 相关链接
 

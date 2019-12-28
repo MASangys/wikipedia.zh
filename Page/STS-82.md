@@ -4,7 +4,7 @@
 
   - **[肯内斯·鲍威索克斯](https://zh.wikipedia.org/wiki/肯内斯·鲍威索克斯 "wikilink")**（，曾执行、、、、、以及任务），指令长
   - **[斯科特·赫罗威兹](https://zh.wikipedia.org/wiki/斯科特·赫罗威兹 "wikilink")**（，曾执行、、以及任务），飞行员
-  - **[马克·李](https://zh.wikipedia.org/wiki/马克·李 "wikilink")**（，曾执行、、以及任务），任务专家
+  - **[马克·李](../Page/马克·李.md "wikilink")**（，曾执行、、以及任务），任务专家
   - **[斯蒂芬·霍利](https://zh.wikipedia.org/wiki/斯蒂芬·霍利 "wikilink")**（，曾执行、、、以及任务），任务专家
   - **[格里高利·哈巴](https://zh.wikipedia.org/wiki/格里高利·哈巴 "wikilink")**（，曾执行、、以及任务），任务专家
   - **[斯蒂文·史密斯](https://zh.wikipedia.org/wiki/斯蒂文·史密斯 "wikilink")**（，曾执行、、以及任务），任务专家

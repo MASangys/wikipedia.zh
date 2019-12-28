@@ -195,8 +195,8 @@
   - [機動戰士海盜GUNDAM](../Page/機動戰士海盜GUNDAM.md "wikilink")
       - [機動戰士海盜GUNDAM 骷髏之心](../Page/機動戰士海盜GUNDAM_骷髏之心.md "wikilink")
       - [機動戰士海盜GUNDAM 鋼鐵之七人](../Page/機動戰士海盜GUNDAM_鋼鐵之七人.md "wikilink")
-      - [機動戰士海盜GUNDAM GHOST](https://zh.wikipedia.org/wiki/機動戰士海盜GUNDAM_GHOST "wikilink")
-      - [機動戰士海盜GUNDAM DUST](https://zh.wikipedia.org/wiki/機動戰士海盜GUNDAM_DUST "wikilink")
+      - [機動戰士海盜GUNDAM GHOST](../Page/機動戰士海盜GUNDAM_GHOST.md "wikilink")
+      - [機動戰士海盜GUNDAM DUST](../Page/機動戰士海盜GUNDAM_DUST.md "wikilink")
 
 ## 注释
 

@@ -152,46 +152,25 @@
 [Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛模擬遊戲](https://zh.wikipedia.org/wiki/Category:戀愛模擬遊戲 "wikilink") [Category:科樂美遊戲](https://zh.wikipedia.org/wiki/Category:科樂美遊戲 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Afternoon](https://zh.wikipedia.org/wiki/Category:月刊Afternoon "wikilink") [Category:月刊少年Magazine](https://zh.wikipedia.org/wiki/Category:月刊少年Magazine "wikilink") [Category:別冊少年Magazine](https://zh.wikipedia.org/wiki/Category:別冊少年Magazine "wikilink") [Category:週刊Young_Magazine](https://zh.wikipedia.org/wiki/Category:週刊Young_Magazine "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  [ザ★ビシバシ ミニゲーム追加配信](http://www.konami.jp/products/am_the_bishibashi/info.html#minigame)
-
 6.
-
 7.
-
 8.   [「ラブプラス」 ソツがないKONAMIのコナミスタイル特別版レビュー](http://www.akibaos.com/?p=5710)
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.

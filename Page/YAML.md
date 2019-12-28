@@ -299,7 +299,7 @@ XML\[12\]\[13\]和YAML規範\[14\]提供非常不同的*邏輯*模型來進行�
 ### C語言函式庫
 
   - [libYAML](http://pyyaml.org/wiki/LibYAML) 2007-06時，這個YAML的函式庫漸趨穩定，並被YAML格式作者推薦\[15\]。
-  - [SYCK](http://whytheluckystiff.net/syck/) 這個實現支援大部分1.0版的格式，並且被廣泛的使用。它使用高階interpreted languages進行最佳化。在2005之後，這個專案已經不再更新，不過仍可使用。
+  - [SYCK](http://whytheluckystiff.net/syck/) 這個實現支援大部分1.0版的格式，並且被廣泛的使用。它使用高階[解釋型語言進行最佳化](https://zh.wikipedia.org/wiki/解釋型語言 "wikilink")。在2005之後，這個專案已經不再更新，不過仍可使用。
 
 ### 其他函式庫
 
@@ -308,15 +308,15 @@ XML\[12\]\[13\]和YAML規範\[14\]提供非常不同的*邏輯*模型來進行�
   - [C++](../Page/C++.md "wikilink")
       - [用C++將libYaml包裝](http://git.snoyman.com/cppweb.git?a=blob;f=src/cppmodels/yaml.hpp;h=e67377c792309a51eb5a4c9dac05ba89befd38d6;hb=HEAD)
   - [Go](../Page/Go.md "wikilink")
-      - [go-yaml](https://github.com/go-yaml/yaml) 借鉴 C 库 libyaml 设计的 Go 语言移植
+      - [go-yaml](https://github.com/go-yaml/yaml) 借鉴 C 库 libyaml 设计的 Go 语言移植。
   - [Haskell](../Page/Haskell.md "wikilink")
       - [Haskell Reference wrappers](https://web.archive.org/web/20080803050852/http://www.ben-kiki.org/oren/YamlReference/)
   - [Java](../Page/Java.md "wikilink")
-      - [jvyaml](https://web.archive.org/web/20081121204521/http://jvyaml.dev.java.net/) 以Syck為基礎，and patterned off ruby-yaml
-      - [JYaml](http://jyaml.sourceforge.net/)純Java的實現。
+      - [jvyaml](https://web.archive.org/web/20081121204521/http://jvyaml.dev.java.net/) 以[Syck為基礎設計](https://zh.wikipedia.org/wiki/Syck "wikilink")。
+      - [JYaml](http://jyaml.sourceforge.net/) 純Java的實現。
   - [JavaScript](../Page/JavaScript.md "wikilink")
-      - 原生的JavaScript即可產生YAML，但不能剖析。
-      - [YAML JavaScript](http://sourceforge.net/projects/yaml-javascript) 產生和剖析。
+      - 原生的JavaScript即可產生YAML，但不能解析。
+      - [YAML JavaScript](http://sourceforge.net/projects/yaml-javascript) 同時支持產生和解析。
   - [Objective-C](../Page/Objective-C.md "wikilink")
       - [Cocoa-Syck](https://web.archive.org/web/20070927213458/http://code.whytheluckystiff.net/syck/browser/trunk/ext/cocoa/src)
   - [OCaml](../Page/OCaml.md "wikilink")
@@ -324,28 +324,28 @@ XML\[12\]\[13\]和YAML規範\[14\]提供非常不同的*邏輯*模型來進行�
   - [Lua](https://zh.wikipedia.org/wiki/Lua_\(programming_language\) "wikilink")
       - [Lua-Syck](https://web.archive.org/web/20080923161342/http://code.whytheluckystiff.net/syck/browser/trunk/ext/lua)
   - [Perl](../Page/Perl.md "wikilink")
-      - [YAML::](http://search.cpan.org/dist/YAML) 一個通用的介面，被數個YAML剖析器使用。
-      - [YAML::Tiny](http://search.cpan.org/dist/YAML-Tiny/) YAML簡化版的實現。擁有小巧輕快的優點──比完整功能的YAML實現快上許多──並用純Perl寫成。
-      - [YAML::Syck](http://search.cpan.org/dist/YAML-Syck/) 與SYCK函式庫綁定。提供快速，highly featured的YAML剖析器。
+      - [YAML::](http://search.cpan.org/dist/YAML) 一個通用的介面，被數個YAML解析器使用。
+      - [YAML::Tiny](http://search.cpan.org/dist/YAML-Tiny/) YAML簡化版的實現。擁有小巧輕快的優點──比完整功能的YAML實現快上許多，並用純Perl寫成。
+      - [YAML::Syck](http://search.cpan.org/dist/YAML-Syck/) 與SYCK函式庫綁定。提供快速、功能豐富（highly featured）的YAML解析器。
       - [YAML::XS](http://search.cpan.org/dist/YAML-LibYAML/) 與LibYaml綁定。提供1.1版更好的相容性。
   - [PHP](../Page/PHP.md "wikilink")
       - [Spyc](http://spyc.sourceforge.net/) 純PHP的實現。
       - [PHP-Syck](http://pecl.php.net/package/syck)（與SYCK函式庫綁定）
-      - [sfYaml](https://web.archive.org/web/20080922222034/http://trac.symfony-project.org/browser/branches/1.1/lib/yaml) 为[symfony项目重写的Spyc](https://zh.wikipedia.org/wiki/symfony "wikilink"), 可独立使用， 可以產生和剖析YAML文件。
+      - [sfYaml](https://web.archive.org/web/20080922222034/http://trac.symfony-project.org/browser/branches/1.1/lib/yaml) 为[symfony项目重写的Spyc](https://zh.wikipedia.org/wiki/symfony "wikilink"), 可独立使用， 可以產生和解析YAML文件。
   - [Python](../Page/Python.md "wikilink")
       - [PyYaml](http://pyyaml.org/) 純Python，或可選用LibYAML的函式庫。
       - [PySyck](https://web.archive.org/web/20080917043822/http://www.pyyaml.org/wiki/PySyck) 與SYCK綁定。
-  - [Ruby](../Page/Ruby.md "wikilink")（從1.8版開始，YAML剖析器成為標準函式庫之一。以SYCK為基礎。）
+  - [Ruby](../Page/Ruby.md "wikilink")（從1.8版開始，YAML解析器成為標準函式庫之一。以SYCK為基礎。）
       - [Ya2YAML](https://web.archive.org/web/20081012115015/http://rubyforge.org/projects/ya2yaml/) with full [UTF-8](../Page/UTF-8.md "wikilink") support
   - [R](https://zh.wikipedia.org/wiki/R_\(programming_language\) "wikilink")
       - [CRAN YAML](http://biostat.mc.vanderbilt.edu/twiki/bin/view/Main/YamlR) 以SYCK為基礎。
   - [.NET](https://zh.wikipedia.org/wiki/.NET "wikilink")
-      - [1](http://yaml-net-parser.sourceforge.net/)
+      - [YAML .NET Parser](http://yaml-net-parser.sourceforge.net/)
   - [Scala](https://zh.wikipedia.org/wiki/Scala_\(programming_language\) "wikilink")
       - [scala-yaml](https://github.com/yaml/scala-yaml)
   - [Tcl](../Page/Tcl.md "wikilink")
-      - [Available as of Tcl 8.4](http://tcllib.sourceforge.net/doc/yaml.html)
-  - [XML](../Page/XML.md "wikilink") [YAXML](http://yaml.org/xml.html) (currently draft only)
+      - [在Tcl 8.4中可用](http://tcllib.sourceforge.net/doc/yaml.html)
+  - [XML](../Page/XML.md "wikilink") [YAXML](http://yaml.org/xml.html) (當前仍在設計中)
 
 ### 常見錯誤與使用細節
 
@@ -353,7 +353,7 @@ XML\[12\]\[13\]和YAML規範\[14\]提供非常不同的*邏輯*模型來進行�
       - 建議使用能將跳格字元自動轉換成空白字元的編輯器，並且使用定寬度的字型。
       - 編輯器要能正確的處理UTF-8和UTF16編碼（或是使用純[ASCII](../Page/ASCII.md "wikilink")編碼──它同時是UTF-8的子集）.
   - **字串：**
-      - YAML的字串不需使用引號，這可以增加可讀性，並避免巢狀的跳脫字元。然而，這有時也會導致錯誤，例如，字串本身是一個曖昧的字眼（像數字或布林值）；或在短句中意外的出現YAML的結構符號（常見的例子是由驚嘆號起始的句子，或是包含冒號-空白的句子："\!Caca de vaca\!"、"Caution: lions ahead"）。這在發布YAML檔案時並不造成困擾，但在製作小型指令碼和人工編輯檔案時，這問題還蠻常出現的。比較好的方法是善用區塊符號（"|" or "\>"）而不要使用單行字串，來避免這種曖昧的表達示。
+      - YAML的字串不需使用引號，這可以增加可讀性，並避免巢狀的跳脫字元。然而，這有時也會導致錯誤，例如，字串本身是一個曖昧的字眼（像數字或布林值）；或在短句中意外的出現YAML的結構符號（常見的例子是由驚嘆號起始的句子，或是包含冒號-空白的句子："`!Caca de vaca!`"、"`Caution: lions ahead`"）。這在發布YAML檔案時並不造成困擾，但在製作小型指令碼和人工編輯檔案時，這問題卻會常常出現。比較好的方法是善用區塊符號（"|" or "\>"）而不要使用單行字串，來避免這種曖昧的表示方法。
   - **預期實做的特性**
 
 ## 參看

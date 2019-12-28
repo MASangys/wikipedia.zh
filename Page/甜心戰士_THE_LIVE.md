@@ -105,7 +105,7 @@
 <!-- end list -->
 
   -
-    作词：[畑亚贵](https://zh.wikipedia.org/wiki/畑亚贵 "wikilink") 作曲/编曲：[黒須克彦](https://zh.wikipedia.org/wiki/黒須克彦 "wikilink") 歌：[栗林美奈实](https://zh.wikipedia.org/wiki/栗林美奈实 "wikilink")
+    作词：[畑亚贵](https://zh.wikipedia.org/wiki/畑亚贵 "wikilink") 作曲/编曲：[黒須克彦](https://zh.wikipedia.org/wiki/黒須克彦 "wikilink") 歌：[栗林美奈实](../Page/栗林美奈实.md "wikilink")
 
 <!-- end list -->
 

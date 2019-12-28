@@ -27,7 +27,7 @@ ffdshow亦可進行音效解碼，諸如：
 
 ### 歷史連結
 
-  - [CVS snapshots by celtic_druid (US)](http://ffdshow.faireal.net/)（[Mirror （FR）](http://esby.free.fr/CelticDruid/))（[Mirror （JP）](http://tirnanog.fate.jp/))（No longer updated）
+  - [CVS snapshots by celtic_druid (US)](https://web.archive.org/web/20090804044714/http://ffdshow.faireal.net/)（[Mirror （FR）](http://esby.free.fr/CelticDruid/))（[Mirror （JP）](http://tirnanog.fate.jp/))（No longer updated）
   - Old speed comparisons: [ASP](http://forum.doom9.org/showthread.php?t=73998), [AVC](http://forum.doom9.org/showthread.php?t=99402)
 
 [Category:视频编解码器](https://zh.wikipedia.org/wiki/Category:视频编解码器 "wikilink") [Category:音频编解码器](https://zh.wikipedia.org/wiki/Category:音频编解码器 "wikilink")

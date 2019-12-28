@@ -8,7 +8,7 @@
 
 ## 光譜區域
 
-與[X光](https://zh.wikipedia.org/wiki/X光 "wikilink")[吸收光譜](../Page/吸收光譜.md "wikilink")相關的技術，有稱之為[X光吸收細微結構](https://zh.wikipedia.org/wiki/X光吸收細微結構 "wikilink")（X-ray Absorption Fine Structure, XAFS），或[延伸X光吸收細微結構](https://zh.wikipedia.org/wiki/延伸X光吸收細微結構 "wikilink")（Extended X-ray Absorption Fine Structure, EXAFS）。另外，X光吸數光譜區段在接近目標原子之殼層電子激發處，目標原子之殼層電子吸收光子，會有一陡直的上升，常稱之為[X光吸收近邊緣結構](https://zh.wikipedia.org/wiki/X光吸收近邊緣結構 "wikilink")（X-ray Absorption Near-Edge Structures，XANES）或[X光吸收近邊緣結構](https://zh.wikipedia.org/wiki/X光吸收近邊緣結構 "wikilink")（Near-Edge X-ray Absorption Fine Structure，NEXAFS）。
+與[X光](https://zh.wikipedia.org/wiki/X光 "wikilink")[吸收光譜](../Page/吸收光譜.md "wikilink")相關的技術，有稱之為[X光吸收細微結構](https://zh.wikipedia.org/wiki/X光吸收細微結構 "wikilink")（X-ray Absorption Fine Structure, XAFS），或[延伸X光吸收細微結構](https://zh.wikipedia.org/wiki/延伸X光吸收細微結構 "wikilink")（Extended X-ray Absorption Fine Structure, EXAFS）。另外，X光吸收光譜區段在接近目標原子之殼層電子激發處，目標原子之殼層電子吸收光子，會有一陡直的上升，常稱之為[X光吸收近邊緣結構](https://zh.wikipedia.org/wiki/X光吸收近邊緣結構 "wikilink")（X-ray Absorption Near-Edge Structures，XANES）或[X光吸收近邊緣結構](https://zh.wikipedia.org/wiki/X光吸收近邊緣結構 "wikilink")（Near-Edge X-ray Absorption Fine Structure，NEXAFS）。
 
 ## 應用及樣品型態
 

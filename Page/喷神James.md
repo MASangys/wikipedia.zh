@@ -57,6 +57,6 @@ Angry Video Game Nerd: The Movie 是一套由罗弗自編自導自演的[獨立�
   - [JamesNintendoNerd - ScrewAttack](http://screwattack.roosterteeth.com/interest/78789)
 
   -
-[Category:電子遊戲評論網站](https://zh.wikipedia.org/wiki/Category:電子遊戲評論網站 "wikilink") [Category:電子遊戲評論家](https://zh.wikipedia.org/wiki/Category:電子遊戲評論家 "wikilink") [Category:YouTuber](https://zh.wikipedia.org/wiki/Category:YouTuber "wikilink")
+[Category:電子遊戲評論網站](https://zh.wikipedia.org/wiki/Category:電子遊戲評論網站 "wikilink") [Category:電玩節目](https://zh.wikipedia.org/wiki/Category:電玩節目 "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink")
 
 1.

@@ -69,7 +69,7 @@
 <!-- end list -->
 
   - 路線名稱：<font color=purple>█</font> **黎明線**
-  - 營運客運：[台中客運](https://zh.wikipedia.org/wiki/台中客運 "wikilink")
+  - 營運客運：[台中客運](../Page/台中客運.md "wikilink")
   - 路線設計：直線
   - 公車停靠站：
       - 頂陳平、大德國中、水湳市場、陝西路口、長安路口、福上巷、福星路口、[逢甲大學](https://zh.wikipedia.org/wiki/逢甲大學 "wikilink")、[僑光技術學院](../Page/僑光科技大學.md "wikilink")、戶政所、[朝馬](../Page/朝馬.md "wikilink")、環河路口、黎明國小、大業路口、黎民公益路口、五權西路口、黎明路口。
@@ -110,7 +110,7 @@
 [Chung_Shan_Medical_University_Hospital_bus_stops_20090522.jpg](https://zh.wikipedia.org/wiki/File:Chung_Shan_Medical_University_Hospital_bus_stops_20090522.jpg "fig:Chung_Shan_Medical_University_Hospital_bus_stops_20090522.jpg")的站牌\]\]
 
   - 路線名稱：<font color=blue>█</font> **中港線**
-  - 營運客運：[台中客運與](https://zh.wikipedia.org/wiki/台中客運 "wikilink")[統聯客運](../Page/統聯客運.md "wikilink")聯營
+  - 營運客運：[台中客運](../Page/台中客運.md "wikilink")與[統聯客運](../Page/統聯客運.md "wikilink")聯營
   - 路線設計：直線
   - 公車停靠站：
       - 綠川東站（單邊設站）、[臺中車站](https://zh.wikipedia.org/wiki/臺中車站 "wikilink")（單邊設站）、第一廣場、第二市場、中華路口、[中山醫院](https://zh.wikipedia.org/wiki/中山醫學大學附設醫院 "wikilink")（中港院區）、民權路口、中正國小、[科學博物館](../Page/國立自然科學博物館.md "wikilink")、忠明國小、頂何厝、文心路口、新光三越、[朝馬](../Page/朝馬.md "wikilink")、福安里、[中港澄清醫院](../Page/澄清醫院.md "wikilink")、[臺中榮總](../Page/臺中榮民總醫院.md "wikilink")、東海別墅。
@@ -165,7 +165,7 @@
 <!-- end list -->
 
   - 路線名稱：<font color=purple>█</font> **黎明幹線**
-  - 營運客運：[台中客運](https://zh.wikipedia.org/wiki/台中客運 "wikilink")
+  - 營運客運：[台中客運](../Page/台中客運.md "wikilink")
   - 路線設計：直線
   - 公車停靠站：
       - [曉明女中](../Page/臺中市私立曉明女子高級中學.md "wikilink")、天津路商圈、頂賴厝、陝西路口、[台灣日報](../Page/台灣日報.md "wikilink")、重慶國小、長安路口、福上巷、仟翔公司、河南停車場、福星路口、福星停車場、[逢甲大學](https://zh.wikipedia.org/wiki/逢甲大學 "wikilink")、西安街口、航發中心、[僑光科技大學](../Page/僑光科技大學.md "wikilink")、[西苑高中](../Page/臺中市立西苑高級中學.md "wikilink")、西屯派出所、西屯郵局、[朝馬](../Page/朝馬.md "wikilink")、環河路口、龍門路口、黎明市政路口、黎明國小、[黎明新村](../Page/黎明新村.md "wikilink")、黎明大業路口、黎明公益路口、三厝里、黎明五權西路口、南屯（黎明路二段、南屯路二段路口）、南屯國小、萬和國中、臺中市衛生局、永春東路口、[豐樂公園](../Page/豐樂雕塑公園.md "wikilink")。
@@ -314,7 +314,7 @@
 <!-- end list -->
 
   -
-    ※新增一條由[台中客運營運之一般路線](https://zh.wikipedia.org/wiki/台中客運 "wikilink")，新民高中─梧棲漁港。
+    ※新增一條由[台中客運](../Page/台中客運.md "wikilink")營運之一般路線，新民高中─梧棲漁港。
 
 <!-- end list -->
 
@@ -381,7 +381,7 @@
 <!-- end list -->
 
   - 路線名稱：<font color=#007FFF>█</font> **[海環線](../Page/台中市公車93路.md "wikilink")**
-  - 營運客運：[台中客運](https://zh.wikipedia.org/wiki/台中客運 "wikilink")
+  - 營運客運：[台中客運](../Page/台中客運.md "wikilink")
   - 路線設計：直線
   - 公車停靠站：
       - 高鐵臺中站、三和里1、三和里2、烏日戶政所、成功嶺、善光寺、王田、南追分、追分、追分國小、山仔頂、追分郵局、興國公司、營埔里、社腳、東興紡織、崁仔腳、新興里、沙田自由路口、大道國中、大肚、大肚區公所、大肚火車站、頂街（沙田路）、北頂街、山陽、山仔腳、竹坑口、村內路口、深水、龍岡、龍井加油站、龍井區公所、龍井火車站、龍泉、龍目井、鷺山、南山腳、龍山國小（山腳里）、沙田太平路口、南勢里、沙田天仁街口、文光國小、興仁里、沙田鎮南路口、沙鹿市場、第一銀行（沙鹿分行）、童綜合醫院（沙鹿院區）、文化莊、家扶中心、鹿寮成衣商圈、鹿寮里、中峰、勞工育樂中心、鹿峰、中山星河路口、清水電信局、清水高中、華南銀行（清水分行）、清水、中山董公街口、中山高美路口、下湳加油站、朝興宮、下湳子、三田國小、頂湳子、轉播站、震陽工廠、菁埔里、甲南、水汴頭、番子寮、外水尾、大甲高中、南陽里、大甲火車站、大甲郵局、大同診所、頂店、鐵砧山、大安溪、日南、經國黎明路口、永安新村、陳家莊、打鐵庄、五里牌、幼獅工業區、虎尾寮、銅安厝。

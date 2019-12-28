@@ -36,7 +36,7 @@
 
 ## 其它用法
 
-  - [纽约地铁W线](https://zh.wikipedia.org/wiki/纽约地铁W线 "wikilink")，纽约市地铁快速运输服务系统一条线路
+  - [W线](https://zh.wikipedia.org/wiki/W线 "wikilink")，多个交通系统的路线
   - [W邮政编码区域](https://zh.wikipedia.org/wiki/W邮政编码区域 "wikilink")，英国伦敦中心和西部的邮编组代号
   - 新闻学的[六何法](../Page/六何法.md "wikilink")：何事（What）、何人（Who）、何时（When）、何地（Where）、为何（Why）、如何（How）
   - W，地图上表示[西的字母](https://zh.wikipedia.org/wiki/西 "wikilink")
@@ -45,4 +45,3 @@
   - [W酒店](https://zh.wikipedia.org/wiki/W酒店 "wikilink")，[喜達屋酒店及度假酒店國際集團](../Page/喜達屋酒店及度假酒店國際集團.md "wikilink")连锁中的一家
   - W，乔治·W·布什，第43任[美国总统](../Page/美国总统.md "wikilink")的外号
   - W，[日语](../Page/日语.md "wikilink")俚语和[广告中一般用于表达英语](https://zh.wikipedia.org/wiki/广告 "wikilink")[外来语](../Page/外来语.md "wikilink")「double」（双倍）
-  - [香港西九龍站](../Page/香港西九龍站.md "wikilink")特快巴士路線

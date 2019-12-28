@@ -278,7 +278,7 @@ G Guide節目數據放送業務由<a href="https://zh.wikipedia.org/wiki/福井�
 <td><p>●■</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/佐賀県" title="wikilink">佐賀県</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐賀縣" title="wikilink">佐賀縣</a></p></td>
 <td><p>無成員台</p></td>
 <td><p>新聞採訪由RKB每日放送負責。<br />
 中波電台業務由<a href="../Page/長崎放送.md" title="wikilink">NBC佐賀電台</a>[16]運營。<br />

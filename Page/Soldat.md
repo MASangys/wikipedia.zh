@@ -86,7 +86,7 @@
       - （9）[FN Minimi](../Page/FN_Minimi輕機槍.md "wikilink") [比利时](../Page/比利时.md "wikilink")[FN製](../Page/埃斯塔勒国营工厂.md "wikilink")[轻机枪](../Page/轻机枪.md "wikilink")（[M249班用機槍](../Page/M249班用自動武器.md "wikilink")）
       - （0）[XM214 Mini gun](../Page/XM214微型砲機槍.md "wikilink") [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[-{zh-cn:通用电气; zh-tw:奇異; zh-hk:通用電氣;}-製](../Page/通用电气.md "wikilink")[加特林机枪](../Page/加特林机枪.md "wikilink")
   - 附屬武器（無法使用鍵盤選擇鍵選擇，但可在Player中的Secondary Weapon預設）
-      - [USSCOM](https://zh.wikipedia.org/wiki/HK_Mk_23_Mod_0半自動手槍 "wikilink")（HK MK23 Mod 0）[德国](../Page/德国.md "wikilink")[黑克勒&科赫](../Page/黑克勒&科赫.md "wikilink")製[手枪](../Page/手枪.md "wikilink")
+      - [USSCOM](../Page/HK_Mk_23_Mod_0半自動手槍.md "wikilink")（HK MK23 Mod 0）[德国](../Page/德国.md "wikilink")[黑克勒&科赫](../Page/黑克勒&科赫.md "wikilink")製[手枪](../Page/手枪.md "wikilink")
 
       - [鏈鋸](https://zh.wikipedia.org/wiki/鋸 "wikilink")
 
@@ -109,7 +109,7 @@
       - Punch [拳頭](https://zh.wikipedia.org/wiki/拳頭 "wikilink")，可以使敵人繳械。
   - 被取消的武器
       - [M4 Carbine](../Page/M4卡賓槍.md "wikilink") [美國柯爾特製](https://zh.wikipedia.org/wiki/美國 "wikilink")[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，在最早的0.94c中出現，在0.97b版被[Steyr AUG所取代](../Page/斯泰爾AUG突擊步槍.md "wikilink")。
-      - [Colt M1911](../Page/M1911手槍.md "wikilink") [美國柯爾特製](https://zh.wikipedia.org/wiki/美國 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")1911年型，在1.1.0版被[USSCOM](https://zh.wikipedia.org/wiki/HK_Mk_23_Mod_0半自動手槍 "wikilink")（HK MK23 Mod 0）取代。
+      - [Colt M1911](../Page/M1911手槍.md "wikilink") [美國柯爾特製](https://zh.wikipedia.org/wiki/美國 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")1911年型，在1.1.0版被[USSCOM](../Page/HK_Mk_23_Mod_0半自動手槍.md "wikilink")（HK MK23 Mod 0）取代。
 
 ## 關於註冊
 

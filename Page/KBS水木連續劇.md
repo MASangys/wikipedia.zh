@@ -2914,24 +2914,74 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019年9月18日－<br />
-2019年11月7日</p></td>
+2019年11月21日</p></td>
 <td style="text-align: center;"><p><a href="../Page/山茶花開時.md" title="wikilink">山茶花開時</a><br />
 </p></td>
-<td style="text-align: center;"><p>32</p></td>
+<td style="text-align: center;"><p>40</p></td>
 <td style="text-align: center;"><p><a href="../Page/孔曉振.md" title="wikilink">孔曉振</a>、<a href="../Page/姜河那.md" title="wikilink">姜河那</a>、<a href="../Page/金知碩.md" title="wikilink">金知碩</a>、<a href="../Page/孫淡妃.md" title="wikilink">孫淡妃</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/車榮勳.md" title="wikilink">車榮勳</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/林尚春" title="wikilink">林尚春</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年11月13日－<br />
+<td style="text-align: center;"><p>2019年12月4日－<br />
 2020年1月</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/99億的女人" title="wikilink">99億的女人</a><br />
+<td style="text-align: center;"><p><a href="../Page/99億的女人.md" title="wikilink">99億的女人</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/趙汝珍" title="wikilink">趙汝珍</a>、<a href="../Page/金剛于.md" title="wikilink">金剛-{于}-</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/曹如晶.md" title="wikilink">曹如晶</a>、<a href="../Page/金剛于.md" title="wikilink">金剛-{于}-</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金英兆.md" title="wikilink">金英兆</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/韓智勳" title="wikilink">韓智勳</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
+### 2020年
+
+<table style="width:336%;">
+<colgroup>
+<col style="width: 70%" />
+<col style="width: 17%" />
+<col style="width: 50%" />
+<col style="width: 24%" />
+<col style="width: 90%" />
+<col style="width: 70%" />
+<col style="width: 15%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><p>播放<br />
+日期</p></th>
+<th style="text-align: center;"><p>電視劇集名稱</p></th>
+<th style="text-align: center;"><p>集數</p></th>
+<th style="text-align: center;"><p>主演</p></th>
+<th style="text-align: center;"><p>導演</p></th>
+<th style="text-align: center;"><p>編劇</p></th>
+<th style="text-align: center;"><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p>2020年1月－<br />
+2020年</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Oh!_我的男人們" title="wikilink">Oh! 我的男人們</a><br />
+</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="../Page/韓相佑.md" title="wikilink">韓相佑</a></p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2020年3月－<br />
+2020年</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/靈魂修繕工" title="wikilink">靈魂修繕工</a><br />
+</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="../Page/申河均.md" title="wikilink">申河均</a>、<a href="../Page/庭沼珉.md" title="wikilink">庭沼珉</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/柳賢基" title="wikilink">柳賢基</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李香姬" title="wikilink">李香姬</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

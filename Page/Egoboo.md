@@ -64,7 +64,7 @@
   - [官方](http://egoboo.sourceforge.net/)
   - [*Egoboo* 论坛](http://egoboo.sourceforge.net/forum/)
   - [官方wiki](http://egoboo.informe.com/wiki/index.php/Main_Page)
-  - [Interview: Developing Open Source games](http://www.linux.com/articles/22382?tid=8) Linux.com
+  - [Interview: Developing Open Source games](https://web.archive.org/web/20080601143459/http://www.linux.com/articles/22382?tid=8) Linux.com
 
 [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink") [Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:免費遊戲](https://zh.wikipedia.org/wiki/Category:免費遊戲 "wikilink") [Category:多人电子游戏](https://zh.wikipedia.org/wiki/Category:多人电子游戏 "wikilink")
 

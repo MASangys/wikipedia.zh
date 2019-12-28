@@ -103,6 +103,10 @@
 <td><p><a href="../Page/2018_CASH金帆音樂獎.md" title="wikilink">2018</a></p></td>
 <td><p>《缺》 <a href="https://zh.wikipedia.org/wiki/張敬軒" title="wikilink">張敬軒</a></p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/2019_CASH金帆音樂獎" title="wikilink">2019</a></p></td>
+<td><p>《我們萬歲》 <a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a></p></td>
+</tr>
 </tbody>
 </table>
 
@@ -110,15 +114,15 @@
 
 ### 最佳男歌手演繹
 
-|                                  | 歌手                                                  | 得獎次數 | 得獎年份                                    |
-| -------------------------------- | --------------------------------------------------- | ---- | --------------------------------------- |
-| 1                                | [陳奕迅](../Page/陳奕迅.md "wikilink")                    | 11   | 2001、2003、2005－2009、2011、2013、2015、2017 |
-| 2                                | [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink") | 3    | 2014、2016、2018                          |
-| 3                                | [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink") | 2    | 2010、2012                               |
-| 4                                | [張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink") | 1    | 2001                                    |
-| [周杰倫](../Page/周杰倫.md "wikilink") | 1                                                   | 2002 |                                         |
-| [陶　喆](../Page/陶喆.md "wikilink")  | 1                                                   | 2004 |                                         |
-| [王力宏](../Page/王力宏.md "wikilink") | 1                                                   | 2006 |                                         |
+|                                  | 歌手                                                  | 得獎次數 | 得獎年份                                         |
+| -------------------------------- | --------------------------------------------------- | ---- | -------------------------------------------- |
+| 1                                | [陳奕迅](../Page/陳奕迅.md "wikilink")                    | 12   | 2001、2003、2005－2009、2011、2013、2015、2017、2019 |
+| 2                                | [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink") | 3    | 2014、2016、2018                               |
+| 3                                | [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink") | 2    | 2010、2012                                    |
+| 4                                | [張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink") | 1    | 2001                                         |
+| [周杰倫](../Page/周杰倫.md "wikilink") | 1                                                   | 2002 |                                              |
+| [陶　喆](../Page/陶喆.md "wikilink")  | 1                                                   | 2004 |                                              |
+| [王力宏](../Page/王力宏.md "wikilink") | 1                                                   | 2006 |                                              |
 
 ### 最佳女歌手演繹
 
@@ -135,19 +139,20 @@
 | [林二汶](https://zh.wikipedia.org/wiki/林二汶 "wikilink") | 1                                                   | 2011      |                          |
 | [林憶蓮](../Page/林憶蓮.md "wikilink")                    | 1                                                   | 2012      |                          |
 | [莫文蔚](../Page/莫文蔚.md "wikilink")                    | 1                                                   | 2018      |                          |
+| [鄭秀文](../Page/鄭秀文.md "wikilink")                    | 1                                                   | 2019      |                          |
 
 ### 最佳樂隊演繹
 
-|                                                       | 樂隊                                                                      | 得獎次數 | 得獎年份           |
-| ----------------------------------------------------- | ----------------------------------------------------------------------- | ---- | -------------- |
-| 1                                                     | [Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink") | 5    | 2013、2015－2018 |
-| 2                                                     | [RubberBand](../Page/RubberBand.md "wikilink")                          | 4    | 2010－2012、2014 |
-| 3                                                     | [Soler](../Page/Soler.md "wikilink")                                    | 3    | 2005－2006、2008 |
-| 4                                                     | [Swing](https://zh.wikipedia.org/wiki/Swing "wikilink")                 | 2    | 2001－2002      |
-| 5                                                     | [Beyond](../Page/Beyond.md "wikilink")                                  | 1    | 2003           |
-| [at17](https://zh.wikipedia.org/wiki/at17 "wikilink") | 1                                                                       | 2004 |                |
-| [草　蜢](../Page/草蜢_\(組合\).md "wikilink")                | 1                                                                       | 2007 |                |
-| [S.H.E](../Page/S.H.E.md "wikilink")                  | 1                                                                       | 2007 |                |
+|                                                       | 樂隊                                                                      | 得獎次數                | 得獎年份           |
+| ----------------------------------------------------- | ----------------------------------------------------------------------- | ------------------- | -------------- |
+| 1                                                     | [Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink") | 5                   | 2013、2015－2018 |
+| [RubberBand](../Page/RubberBand.md "wikilink")        | 5                                                                       | 2010－2012、2014、2019 |                |
+| 3                                                     | [Soler](../Page/Soler.md "wikilink")                                    | 3                   | 2005－2006、2008 |
+| 4                                                     | [Swing](https://zh.wikipedia.org/wiki/Swing "wikilink")                 | 2                   | 2001－2002      |
+| 5                                                     | [Beyond](../Page/Beyond.md "wikilink")                                  | 1                   | 2003           |
+| [at17](https://zh.wikipedia.org/wiki/at17 "wikilink") | 1                                                                       | 2004                |                |
+| [草　蜢](../Page/草蜢_\(組合\).md "wikilink")                | 1                                                                       | 2007                |                |
+| [S.H.E](../Page/S.H.E.md "wikilink")                  | 1                                                                       | 2007                |                |
 
 ### CASH最佳歌曲大獎
 
@@ -163,7 +168,8 @@
 | [C AllStar](../Page/C_AllStar.md "wikilink")        | 1                                | 2011      |                               |
 | [鍾氏兄弟](../Page/鍾氏兄弟.md "wikilink")                  | 1                                | 2014      |                               |
 | [盧凱彤](https://zh.wikipedia.org/wiki/盧凱彤 "wikilink") | 1                                | 2018      |                               |
-| 10                                                  | [麥浚龍](../Page/麥浚龍.md "wikilink") | 0.5       | 2015                          |
+| [鄭秀文](../Page/鄭秀文.md "wikilink")                    | 1                                | 2019      |                               |
+| 12                                                  | [麥浚龍](../Page/麥浚龍.md "wikilink") | 0.5       | 2015                          |
 | [岑寧兒](../Page/岑寧兒.md "wikilink")                    | 0.5                              | 2017      |                               |
 
 ### 最佳旋律
@@ -174,11 +180,12 @@
 | 2                                                                       | [Christopher Chak](https://zh.wikipedia.org/wiki/Christopher_Chak "wikilink") | 3              | 2007、2010、2013      |
 | [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")                     | 3                                                                             | 2006、2009、2015 |                     |
 | 4                                                                       | [馮穎琪](../Page/馮穎琪.md "wikilink")                                              | 2              | 2012、2017           |
-| 5                                                                       | [周博賢](../Page/周博賢.md "wikilink")                                              | 1              | 2016                |
+| 6                                                                       | [周博賢](../Page/周博賢.md "wikilink")                                              | 1              | 2016                |
 | [陳輝陽](../Page/陳輝陽.md "wikilink")                                        | 1                                                                             | 2002           |                     |
 | [陳光榮](../Page/陳光榮.md "wikilink")                                        | 1                                                                             | 2003           |                     |
 | [賴映彤](../Page/賴映彤.md "wikilink")                                        | 1                                                                             | 2011           |                     |
 | [Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink") | 1                                                                             | 2014           |                     |
+| 徐沛昕                                                                     | 1                                                                             | 2019           |                     |
 | 10                                                                      | 頡　臣                                                                           | 0.5            | 2018                |
 
 ### 最佳歌詞
@@ -190,6 +197,7 @@
 | 3                                                   | [周耀輝](../Page/周耀輝.md "wikilink")                    | 2                             | 2012－2013                     |
 | 4                                                   | [林若寧](../Page/林若寧.md "wikilink")                    | 1                             | 2009                          |
 | [方皓玟](../Page/方皓玟.md "wikilink")                    | 1                                                   | 2018                          |                               |
+| 詩詞                                                  | 1                                                   | 2019                          |                               |
 | 6                                                   | [鍾一匡](../Page/鍾一匡.md "wikilink")                    | 0.5                           | 2014                          |
 | [鍾一諾](../Page/鍾一諾.md "wikilink")                    | 0.5                                                 | 2014                          |                               |
 | 8                                                   | [陳少琪](https://zh.wikipedia.org/wiki/陳少琪 "wikilink") | 1/3                           | 2004                          |
@@ -202,6 +210,6 @@
 
 ## 注釋
 
-[Category:CASH金帆音樂獎](https://zh.wikipedia.org/wiki/Category:CASH金帆音樂獎 "wikilink")
+[Category:CASH金帆音樂獎](https://zh.wikipedia.org/wiki/Category:CASH金帆音樂獎 "wikilink") [Category:香港音樂](https://zh.wikipedia.org/wiki/Category:香港音樂 "wikilink") [Category:粵語流行音樂](https://zh.wikipedia.org/wiki/Category:粵語流行音樂 "wikilink")
 
 1.

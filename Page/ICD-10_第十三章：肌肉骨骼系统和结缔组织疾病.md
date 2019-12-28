@@ -101,7 +101,7 @@ M60-M79 软组织疾患
 
 ### M65-M68 滑膜和肌腱疾患
 
-  - M65 [滑膜炎和](https://zh.wikipedia.org/wiki/滑膜炎 "wikilink")[腱鞘炎](../Page/腱鞘炎.md "wikilink")
+  - M65 [滑膜炎](../Page/滑膜炎.md "wikilink")和[腱鞘炎](../Page/腱鞘炎.md "wikilink")
   - M66 [滑膜和](https://zh.wikipedia.org/wiki/滑膜 "wikilink")[肌腱的自发性破裂](https://zh.wikipedia.org/wiki/肌腱 "wikilink")
   - M67 滑膜和肌腱的其他疾患
   - M68 分类于他处的疾病引起的滑膜和肌腱疾患

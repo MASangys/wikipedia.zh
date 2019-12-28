@@ -35,7 +35,7 @@
 
   - [遊戲官方網站](http://nippon1.jp/consumer/torinohoshi/)
 
-  - [日本一軟件產品](http://nippon1.jp/index.html)
+  - [日本一軟件產品](https://web.archive.org/web/20071026052102/http://nippon1.jp/index.html)
 
   - [日本一軟件公司](http://nippon1.co.jp/index.html)
 

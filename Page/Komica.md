@@ -67,7 +67,7 @@
 
 目前首頁已經恢復，各版域名轉移完成，1883氏嘗試恢復網頁資料。關於此次近乎危及Komica存亡的事件，其導火線的「嚴重違反規定圖片」很可能指的是[兒童色情](../Page/兒童色情.md "wikilink")，綜合版遭到此類圖片擾亂已非一兩天的事情，而管理員一直難以有效應對；有島民認為可能是美國對兒童色情較為敏感，故伺服器商不再給機會，也有部分島民認為這一切可能是中國民眾或是敵對論壇故意上傳兒童色情圖片導致Komica關閉的陰謀。\[9\]\[10\]
 
-2017年5月8日晚間，出問題的版面以「aqua.komica.org」網址重新建立並恢復了部分資料，而綜合版也暫時以綜合避難版替代。\[11\]5月16日所有出問題的版面恢復正常\[12\]，[Komica Wiki](https://wiki.komica.org/index.php?title=%E9%A6%96%E9%A0%81)則使用[MediaWiki](../Page/MediaWiki.md "wikilink")重新建立，以解決過往使用[PukiWiki](../Page/PukiWiki.md "wikilink")容易遭到破壞的問題，現時僅註冊用戶可以編輯。
+2017年5月8日晚間，出問題的版面以「aqua.komica.org」網址重新建立並恢復了部分資料，而綜合版也暫時以綜合避難版替代。\[11\]5月16日所有出問題的版面恢復正常\[12\]，[Komica Wiki](https://wiki.komica.org/index.php?title=%E9%A6%96%E9%A0%81)則使用[MediaWiki重新建立](https://zh.wikipedia.org/wiki/MediaWiki "wikilink")，以解決過往使用[PukiWiki](../Page/PukiWiki.md "wikilink")容易遭到破壞的問題，現時僅註冊用戶可以編輯。
 
 ## 參見
 

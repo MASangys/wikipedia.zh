@@ -20,7 +20,7 @@ OneDrive最初是以Windows Live Folders為名推出，且僅開放給[美國的
   - 2014年10月28日，微软宣布为所有Office 365订阅用户提供无限云存储服务。\[16\]
   - 2015年11月3日，微软宣布因为部分用户存在滥用问题，将在2016年取消为Office 365订阅用户提供无限云存储服务的计划\[17\]。Office 365订阅用户的云存储空间将变为1TB，免费用户的云存储空间（包括先前的老用户奖励和上传照片奖励的空间）则一律降低至5GB。随后宣布将为在2016年1月1日起仍然使用了超过5GB云存储的用户免费提供一年Office 365订阅或者全额退款作为补偿。
   - 2015年12月12日，在收到累计超过7万用户的抗议后，微软做出妥协。所有在2016年前注册的用户在登錄[微软指定的网站](https://web.archive.org/web/20151212021527/https://preview.onedrive.com/bonus/)登记，登记后就可以保持免费存储容量不变\[18\]。但没有登记的用户和2015年12月31后新注册的用户的免费空间都会缩减到5GB，Office365的订阅用户也不能继续保持无限存储空间，但部分Office 365用户仍将获得无限容量的OneDrive\[19\]。
-  - 从2016年开始OneDrive在中国大陆时常可以访问，不过还不是稳定。
+  - 从2016年开始OneDrive在中国大陆时常可以访问，不过还不是很稳定。但客户端以及企业版的连接完全正常。
 
 ## 特色
 
@@ -60,7 +60,7 @@ OneDrive最初是以Windows Live Folders為名推出，且僅開放給[美國的
 [Category:2007年建立的网站](https://zh.wikipedia.org/wiki/Category:2007年建立的网站 "wikilink") [Category:Windows_Live](https://zh.wikipedia.org/wiki/Category:Windows_Live "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:云存储](https://zh.wikipedia.org/wiki/Category:云存储 "wikilink") [Category:数据同步](https://zh.wikipedia.org/wiki/Category:数据同步 "wikilink") [Category:文件共享服务](https://zh.wikipedia.org/wiki/Category:文件共享服务 "wikilink") [Category:在线备份服务](https://zh.wikipedia.org/wiki/Category:在线备份服务 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
 
 1.  [OneDrive官方博客2015年11月2日网页快照](https://web.archive.org/web/20151103051743/https://blog.onedrive.com/onedrive_changes)
-2.  [OneDrive Plans](https://onedrive.live.com/about/en-us/plans/)
+2.
 3.  [OneDrive上傳檔案大小限制，升級至10GB](http://blogs.technet.com/b/microsoft_taiwan/archive/2014/09/12/onedrive-now-supports-10-gb-files.aspx/) -台灣微軟部落格，2014年9月11日
 4.
 5.  [A Look at the Next Generation](http://www.winsupersite.com/showcase/wl_2007_preview.asp)

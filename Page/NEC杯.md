@@ -11,7 +11,7 @@
 | 屆次 | 年份    | 冠軍                                                  | 亞軍                                                  |
 | -- | ----- | --------------------------------------------------- | --------------------------------------------------- |
 | 1  | 1996年 | [曹大元](https://zh.wikipedia.org/wiki/曹大元 "wikilink") | [郑弘](https://zh.wikipedia.org/wiki/郑弘 "wikilink")   |
-| 2  | 1997年 | [邵炜刚](https://zh.wikipedia.org/wiki/邵炜刚 "wikilink") | 曹大元                                                 |
+| 2  | 1997年 | [邵炜刚](../Page/邵炜刚.md "wikilink")                    | 曹大元                                                 |
 | 3  | 1998年 | [常昊](../Page/常昊.md "wikilink")                      | 曹大元                                                 |
 | 4  | 1999年 | [周鹤洋](https://zh.wikipedia.org/wiki/周鹤洋 "wikilink") | 常昊                                                  |
 | 5  | 2000年 | 邵炜刚                                                 | 常昊                                                  |

@@ -38,46 +38,27 @@
 
   - [NVIDIA主頁](http://www.nvidia.com/)
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:GeForce系列](https://zh.wikipedia.org/wiki/Category:GeForce系列 "wikilink") [Category:2009年面世的產品](https://zh.wikipedia.org/wiki/Category:2009年面世的產品 "wikilink")
 
 1.  [传NVIDIA再次改名填补GT300低端空缺](http://news.mydrivers.com/1/143/143325.htm)
-
 2.  <http://twitter.com/NVIDIAGeForce>
-
 3.  <http://www.tomshardware.com/news/GeForce-GTX-470-480-Fermi,9572.html>
-
 4.  <http://blogs.zdnet.com/hardware/?p=7129>
-
 5.  <http://www.evga.com/forums/tm.aspx?&m=179809&mpage=2>
-
 6.
 7.  <http://www.hexus.net/content/item.php?item=21369>
-
 8.  [NVIDIA Launches GeForce GT 340, GT 330 and GT 320](http://news.softpedia.com/news/NVIDIA-Launches-GeForce-GT-340-GT-330-and-GT-320-135698.shtml) - Softpedia News, Feb 22nd 2010.
-
 9.
 10. nvidia.com: [GeForce 310](http://www.nvidia.com/object/product_geforce_310_us.html)
-
 11. nvidia.com: [GeForce 315](http://www.nvidia.com/object/product_geforce_315_us.html)
-
 12. nvidia.com: [GeForce GT 320](http://www.nvidia.com/object/product_geforce_gt_320_us.html)
-
 13. nvidia.com: [GeForce GT 330](http://www.nvidia.com/object/product_geforce_gt_330_us.html)
-
 14. nvidia.com: [GeForce GT 340](http://www.nvidia.com/object/product_geforce_gt_340_us.html)
-
 15. nvidia.com: [GeForce 305M](http://www.nvidia.com/object/product_geforce_305m_us.html)
-
 16. nvidia.com: [GeForce 310M](http://www.nvidia.com/object/product_geforce_310m_us.html)
-
 17. nvidia.com: [GeForce 315M](http://www.nvidia.com/object/product-geforce-315m-us.html)
-
 18. nvidia.com: [GeForce GT 325M](http://www.nvidia.com/object/product_geforce_gt_325m_us.html)
-
 19. nvidia.com: [GeForce GT 330M](http://www.nvidia.com/object/product_geforce_gt_330m_us.html)
-
 20. nvidia.com: [GeForce GT 335M](http://www.nvidia.com/object/product_geforce_gt_335m_us.html)
-
 21. nvidia.com: [GeForce GTS 350M](http://www.nvidia.com/object/product_geforce_gts_350m_us.html)
-
 22. nvidia.com: [GeForce GTS 360M](http://www.nvidia.com/object/product_geforce_gts_360m_us.html)

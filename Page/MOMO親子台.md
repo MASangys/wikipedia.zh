@@ -1,4 +1,4 @@
-**momo親子台**，為[優視傳播的兒童頻道](https://zh.wikipedia.org/wiki/優視傳播 "wikilink")，於2006年1月1日開播。由於該頻道的標誌是一隻粉紅色[毛蟲](../Page/毛蟲.md "wikilink")，故俗稱「毛蟲**台**」；2007年併購[緯來兒童台](../Page/緯來兒童台.md "wikilink")。收播時間為每天04:00至06:00。2014年10月29日起，正式啟用高畫質版本頻道「momo親子**HD**」。
+**momo親子台**，為[優視傳播的兒童頻道](https://zh.wikipedia.org/wiki/優視傳播 "wikilink")，於2006年1月1日開播。由於該頻道的標誌是一隻粉紅色[毛蟲](../Page/毛蟲.md "wikilink")，故俗稱「毛蟲**台**」；2007年併購[緯來兒童台](../Page/緯來兒童台.md "wikilink")。收播時間為每天04:00至06:00。2014年10月29日起，正式啟用高畫質版本頻道「momo親子台**HD**」。
 
 ## MOMO家族
 
@@ -27,7 +27,7 @@
   - 《[焦糖哥哥-陳嘉行](https://zh.wikipedia.org/wiki/陳嘉行 "wikilink")》
   - 《[奶油哥哥-楊子黎](../Page/楊子黎.md "wikilink")》
   - 《[小蜜桃姐姐-朱安禹](../Page/朱安禹.md "wikilink")》
-  - 《[牛奶哥哥-林宗彥](../Page/林宗彥.md "wikilink")》\[1\]
+  - 《[牛奶哥哥-林宗彥](../Page/林宗彥.md "wikilink")》
   - 《[柚子哥哥-張創政](https://zh.wikipedia.org/wiki/張創政 "wikilink")》（第一代）
   - 《[花生哥哥-蘇靖鈞](https://zh.wikipedia.org/wiki/蘇靖鈞 "wikilink")》
   - 《[香草姐姐-林青儀](https://zh.wikipedia.org/wiki/林青儀 "wikilink")》（第一代）
@@ -952,5 +952,3 @@
   -
   -
 [Category:台灣電視播放頻道](https://zh.wikipedia.org/wiki/Category:台灣電視播放頻道 "wikilink") [Category:富邦集團](https://zh.wikipedia.org/wiki/Category:富邦集團 "wikilink") [Category:總部位於臺北市內湖區的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於臺北市內湖區的工商業機構 "wikilink") [Category:MOMO親子台](https://zh.wikipedia.org/wiki/Category:MOMO親子台 "wikilink") [Category:兒童電視頻道](https://zh.wikipedia.org/wiki/Category:兒童電視頻道 "wikilink")
-
-1.  怀疑与同性恋照片案件有关，因此MOMO亲子台直接解约。
