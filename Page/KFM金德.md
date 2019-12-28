@@ -12,6 +12,6 @@
 
 [Category:1989年成立的公司](https://zh.wikipedia.org/wiki/Category:1989年成立的公司 "wikilink") [Category:香港製造公司](https://zh.wikipedia.org/wiki/Category:香港製造公司 "wikilink") [Category:金屬公司](https://zh.wikipedia.org/wiki/Category:金屬公司 "wikilink") [Category:香港上市工業公司](https://zh.wikipedia.org/wiki/Category:香港上市工業公司 "wikilink")
 
-1.  [KFM金德控股有限公司簡介](http://www.kingdom.com.hk/html/about_introduction.php)
+1.
 2.  [KFM金德控股有限公司提供招股資料](http://www.hkexnews.hk/listedco/listconews/SEHK/2012/0928/03816_1449022/C102.pdf)
 3.  [KFM金德首日掛牌升1.5％](http://www.skypost.hk/%E7%B6%93%E6%BF%9F/%E8%B2%A1%E7%B6%93/20121016/003/KFM%E9%87%91%E5%BE%B7%E9%A6%96%E6%97%A5%E6%8E%9B%E7%89%8C%E5%8D%871.5%EF%BC%85/40696) 16/10/2012 [晴報](../Page/晴報.md "wikilink")

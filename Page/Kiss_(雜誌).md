@@ -119,12 +119,6 @@
 
 ## 脚注
 
-<div class="references-small">
-
-<references />
-
-</div>
-
 ## 外部連結
 
   - [Kiss 公式サイト](http://kc.kodansha.co.jp/kiss/)
@@ -132,7 +126,6 @@
 [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:女性漫畫雜誌](https://zh.wikipedia.org/wiki/Category:女性漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:講談社的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:講談社的漫畫雜誌 "wikilink") [Category:1992年日本建立](https://zh.wikipedia.org/wiki/Category:1992年日本建立 "wikilink")
 
 1.  [日本雑誌協会](http://www.j-magazine.or.jp/)JMPAマガジンデータによる1号当たり平均部数。
-
 2.
 3.
 4.

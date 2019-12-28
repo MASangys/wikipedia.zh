@@ -49,13 +49,10 @@
 [Category:美国柴油机车](https://zh.wikipedia.org/wiki/Category:美国柴油机车 "wikilink") [Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
 7.
 8.

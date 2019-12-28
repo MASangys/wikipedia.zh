@@ -60,7 +60,7 @@ VKS消聲狙擊步槍發射專屬12.7×55毫米俄羅斯口徑[亞音速](https:
   - 2013年—《[-{zh-cn:使命召唤：幽灵; zh-tw:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》（Call of Duty: Ghosts）：命名為「VKS」，黑色槍身，5 發（故事模式）和10 發（聯機模式和滅絕模式）[彈匣](../Page/彈匣.md "wikilink")（聯機模式時可使用改裝：延長彈匣增至15 發），初始攜彈量為20 發（聯機模式）和30 發（滅絕模式），最高攜彈量為60 發（聯機模式）和80 發（滅絕模式），內置[消音器和具有其預設狙擊鏡](../Page/抑制器.md "wikilink")，奇怪地使用半自動射擊。聯機模式時可以使用[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[熱能探測混合式瞄準鏡](../Page/热能.md "wikilink")、可變倍變焦鏡頭、[延長彈匣](../Page/彈匣.md "wikilink")、[穿甲弹](../Page/穿甲弹.md "wikilink")；滅絕模式時以1,500 點取得。
   - 2015年—《[生存法则](https://zh.wikipedia.org/wiki/生存法则 "wikilink")》（Survarium）
   - 2017年—《[狙擊手：幽靈戰士3](https://zh.wikipedia.org/wiki/狙擊手：幽靈戰士3 "wikilink")》（Sniper: Ghost Warrior 3）：命名為“Vikop”。
-  - 2018年-《[無限法則](https://zh.wikipedia.org/wiki/無限法則 "wikilink") 》（Ring of Elysium）:衹能夠在空投取得，並可裝配任何高倍率鏡頭。
+  - 2018年—《[無限法則](https://zh.wikipedia.org/wiki/無限法則 "wikilink")》（Ring of Elysium）：可裝配任何高倍率鏡頭。
 
 ## 圖集
 

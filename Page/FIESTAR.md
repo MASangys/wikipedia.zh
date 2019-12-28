@@ -974,27 +974,27 @@ PlotData =
 [Category:FAVE娛樂](https://zh.wikipedia.org/wiki/Category:FAVE娛樂 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink") [Category:2012年韓國建立](https://zh.wikipedia.org/wiki/Category:2012年韓國建立 "wikilink") [Category:2018年韓國廢除](https://zh.wikipedia.org/wiki/Category:2018年韓國廢除 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.  [《IU同門師妹FIESTAR 六人靚照公開》，大紀元，2012年8月21日](http://www.epochtimes.com/b5/12/8/21/n3664243.htm)
-2.  Kpopn,[IU 經紀公司將推出新團 <http://kpopn.com/2012/07/19/134163/>](http://kpopn.com/2012/07/19/134163/),2012年7月19日發表。
+2.  Kpopn,[IU 經紀公司將推出新團 <http://kpopn.com/2012/07/19/134163/>](http://kpopn.com/2012/07/19/134163/) ,2012年7月19日發表。
 3.
-4.  <http://kpopn.com/2012/08/28/140624/> FIESTAR “Vista" 預告
+4.  <http://kpopn.com/2012/08/28/140624/>  FIESTAR “Vista" 預告
 5.
-6.  <http://kpopn.com/2012/08/31/141227/> FIESTAR ─ VISTA 公開
-7.  <http://kpopn.com/2012/11/06/151413/> FIESTAR 回歸概念照
-8.  <http://kpopn.com/2012/11/08/151692/> FIESTAR 新曲 MV 預告
+6.  <http://kpopn.com/2012/08/31/141227/>  FIESTAR ─ VISTA 公開
+7.  <http://kpopn.com/2012/11/06/151413/>  FIESTAR 回歸概念照
+8.  <http://kpopn.com/2012/11/08/151692/>  FIESTAR 新曲 MV 預告
 9.
-10. <http://kpopn.com/2012/11/12/152288/> FIESTAR 新曲 MV
+10. <http://kpopn.com/2012/11/12/152288/>  FIESTAR 新曲 MV
 11. <http://www.youtube.com/watch?v=1nmACCIIM3k> FIESTAR(피에스타)'s A-HA\!_Lesson 5. '돌직구(Doljikgu)' \[ENG/JPN SUB\]
 12.
 13.
-14. <http://kpopn.com/2014/07/11/231142/> MBC,SBS對FIESTAR下禁令
-15. <http://kpopn.com/2015/02/17/262337/>
-16. <http://kpopn.com/2015/02/24/262816/>
-17. <http://kpopn.com/2015/02/26/263247/>
-18. <http://kpopn.com/2015/03/02/263828/>
-19. <http://kpopn.com/2015/03/03/263911/>
+14. <http://kpopn.com/2014/07/11/231142/>  MBC,SBS對FIESTAR下禁令
+15.
+16.
+17.
+18.
+19.
 20.
-21. <http://kpopn.com/2015/03/04/264163/>
-22. [1](http://kpopn.com/2016/01/22/334574/)
+21.
+22.
 23.
 24.
 25.

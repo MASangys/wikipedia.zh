@@ -196,7 +196,7 @@
 ## 外部連結
 
   -
-[Category:東方Project的二次創作](https://zh.wikipedia.org/wiki/Category:東方Project的二次創作 "wikilink")
+[Category:東方Project的二次創作](https://zh.wikipedia.org/wiki/Category:東方Project的二次創作 "wikilink") [Category:同人動畫](https://zh.wikipedia.org/wiki/Category:同人動畫 "wikilink")
 
 1.
 2.

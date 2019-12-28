@@ -150,54 +150,32 @@
 [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:2011年電子遊戲](https://zh.wikipedia.org/wiki/Category:2011年電子遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Key游戏](https://zh.wikipedia.org/wiki/Category:Key游戏 "wikilink")
 
 1.   PRODUCT | publisher=[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink") | accessdate=2012-11-17 | language=ja}}
-
 2.
 3.
-
 4.   初回限定版特典情報|publisher=[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")|accessdate=2012-05-23|language=Ja}}
-
 5.
 6.
 7.
-
 8.   Special: Voice|publisher=[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")|accessdate=2012-03-23|language=Ja}}
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
 16.
-
 17.
-
 18.
 19.  登場人物:天王寺瑚太朗 | publisher=[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink") | accessdate=2012-11-17 | language=ja}}
-
 20.  登場人物:神戸小鳥 | publisher=[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink") | accessdate=2012-11-17 | language=ja}}
-
 21.  登場人物:鳳ちはや | publisher=[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink") | accessdate=2012-11-17 | language=ja}}
-
 22.  登場人物:千里朱音 | publisher=[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink") | accessdate=2012-11-17 | language=ja}}
-
 23.  登場人物:中津静流 | publisher=[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink") | accessdate=2012-11-17 | language=ja}}
-
 24.  登場人物:此花ルチア | publisher=[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink") | accessdate=2012-11-17 | language=ja}}
-
 25.  登場人物:篝 | publisher=[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink") | accessdate=2012-11-17 | language=ja}}
-
 26.
 27.
-
 28.
-
 29.
-
 30.

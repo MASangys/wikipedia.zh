@@ -29,7 +29,7 @@
 
 ## 外部連結
 
-  - [hotexpress music magazineによるインタビュー](http://www.hotexpress.co.jp/interview/flumpool_090225/)
+  - [hotexpress music magazineによるインタビュー](https://web.archive.org/web/20090304003020/http://www.hotexpress.co.jp/interview/flumpool_090225/)
   - [MySpaceによるインタビュー](http://news.jp.myspace.com/NewsArticles/2234.aspx)
 
 [Category:flumpool歌曲](https://zh.wikipedia.org/wiki/Category:flumpool歌曲 "wikilink") [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink") [Category:星星題材歌曲](https://zh.wikipedia.org/wiki/Category:星星題材歌曲 "wikilink") [Category:A-Sketch發行單曲](https://zh.wikipedia.org/wiki/Category:A-Sketch發行單曲 "wikilink")

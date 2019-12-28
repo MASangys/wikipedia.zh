@@ -55,7 +55,7 @@ CW2100D型（動力車廂） |原產國 =  |傳動方式=直-交 |牽引電動�
 
 ### 编组列表
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Car_03333_of_Line_3_Shenzhen_Metro.jpg "fig:缩略图") [Inside_the_train_of_Long_Gang_Line.jpg](https://zh.wikipedia.org/wiki/File:Inside_the_train_of_Long_Gang_Line.jpg "fig:Inside_the_train_of_Long_Gang_Line.jpg")
+[Car_03333_of_Line_3_Shenzhen_Metro.jpg](https://zh.wikipedia.org/wiki/File:Car_03333_of_Line_3_Shenzhen_Metro.jpg "fig:Car_03333_of_Line_3_Shenzhen_Metro.jpg") [Inside_the_train_of_Long_Gang_Line.jpg](https://zh.wikipedia.org/wiki/File:Inside_the_train_of_Long_Gang_Line.jpg "fig:Inside_the_train_of_Long_Gang_Line.jpg")
 
 |                                                                   |             |                                                                           |
 | :---------------------------------------------------------------- | :---------: | ------------------------------------------------------------------------: |
@@ -123,4 +123,4 @@ CW2100D型（動力車廂） |原產國 =  |傳動方式=直-交 |牽引電動�
 
 1.
 2.  [地鐵龍崗線車廂安裝空氣淨化器](http://www.building.hk/cn/view.asp?id=1595)，2011年1月12日，中港澳建造消息
-3.  [深圳地铁龙岗线CBTC降级模式下的行车组织探讨](http://www.chinabaike.com/z/jz/jt/438604.html)。
+3.  [深圳地铁龙岗线CBTC降级模式下的行车组织探讨](http://www.chinabaike.com/z/jz/jt/438604.html) 。

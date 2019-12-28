@@ -1,4 +1,4 @@
-**J Team**是一支台灣職業[電子競技隊伍](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，所屬-{杰}-藝文創公司旗下，主要參與[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")。原為**台北暗殺星**（**Taipei Assassins**，簡稱**TPA**），2012年10月14日在美國洛杉磯舉辦的[英雄聯盟第2季世界大賽中](https://zh.wikipedia.org/wiki/英雄聯盟S2賽季全球總決賽 "wikilink")，擊敗[南韓職業隊伍Azubu](https://zh.wikipedia.org/wiki/南韓 "wikilink") Frost（現，已解散），贏得100萬美金獎金\[1\]。全隊在奪冠後曾與中華民國電子競技推廣協會一同拜會立法院，爭取電子競技列為正式的運動項目之一，[中華民國](../Page/中華民國.md "wikilink")政府及朝野各黨團則以允諾修法、拋出「電競選手可服替代役」構想回應\[2\]\[3\]。 2016年4月由台灣藝人[周杰倫](../Page/周杰倫.md "wikilink")代表的-{杰}-藝文創公司取得經營權，改名為**J Team**，並由周杰倫擔任董事长。
+**J Team**是一支台灣職業[電子競技隊伍](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，所屬-{杰}-藝文創公司旗下，主要參與[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")。原為**台北暗殺星**（**Taipei Assassins**，簡稱**TPA**），2012年10月14日台北暗殺星在美國洛杉磯舉辦的[英雄聯盟第2季世界大賽中](https://zh.wikipedia.org/wiki/英雄聯盟S2賽季全球總決賽 "wikilink")，擊敗[南韓職業隊伍Azubu](https://zh.wikipedia.org/wiki/南韓 "wikilink") Frost（現，已解散），贏得100萬美金獎金\[1\]。全隊在奪冠後曾與中華民國電子競技推廣協會一同拜會立法院，爭取電子競技列為正式的運動項目之一，[中華民國](../Page/中華民國.md "wikilink")政府及朝野各黨團則以允諾修法、拋出「電競選手可服替代役」構想回應\[2\]\[3\]。 2016年4月由台灣藝人[周杰倫](../Page/周杰倫.md "wikilink")代表的-{杰}-藝文創公司取得經營權，改名為**J Team**，並由周杰倫擔任董事长。
 
 ## 英雄聯盟(LOL)
 
@@ -101,7 +101,9 @@
   - 2月26日:輔助選手'''Ysera '''(汪宗志)宣布轉入[ahq e-Sports Club](https://zh.wikipedia.org/wiki/ahq_e-Sports_Club "wikilink")\[24\]
   - 3月12日:[中國信託宣布贊助](https://zh.wikipedia.org/wiki/中國信託 "wikilink")[J Team](https://zh.wikipedia.org/wiki/J_Team "wikilink")，隊名變更為**CTBC J Team**(中信J Team)\[25\]
   - 3月18日:原總教練陳冠廷**REFRA1N**改登錄為2019 [LMS職業聯賽](../Page/LMS職業聯賽.md "wikilink")春季賽選手，總教練由**Coldicee**凱淵(游閔翔）接任\[26\]
-  - 8月31日:CTBC J Team在2019 [LMS職業聯賽](../Page/LMS職業聯賽.md "wikilink")夏季冠軍戰以3:1擊敗[ahq e-Sports Club](https://zh.wikipedia.org/wiki/ahq_e-Sports_Club "wikilink")，拿下隊史首次的LMS冠軍，並以賽區第一種子之姿參加2019年世界大賽
+  - 8月31日:CTBC J Team在2019 [LMS職業聯賽](../Page/LMS職業聯賽.md "wikilink")夏季冠軍戰以3:1擊敗[ahq e-Sports Club](https://zh.wikipedia.org/wiki/ahq_e-Sports_Club "wikilink")，拿下隊史首次的LMS冠軍，並以賽區第一種子之姿參加2019年世界大賽，
+  - 10月17日: 败给FPX，从而以小组赛第三名结束S9世界赛。
+  - 12月7日:中路選手FoFo加盟LPL賽區BLG戰隊。
 
 ### 隊伍名單
 
@@ -146,22 +148,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>FoFo</p></td>
-<td><p>朱駿嵐</p></td>
-<td><p>Mid</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>Lilv</p></td>
-<td><p>陳縉翰</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:陳縉翰" title="wikilink">:陳縉翰</a></p></td>
 <td><p>AD</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Koala</p></td>
 <td><p>林志強</p></td>
 <td><p>Sup</p></td>
@@ -169,7 +163,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -284,7 +278,7 @@
 
 #### 過往成員
 
-  - J Team
+  - J Team (包含前TPA成員)
 
 <table>
 <thead>
@@ -307,7 +301,7 @@
 <td><p>現為<a href="https://zh.wikipedia.org/wiki/ahq_e-Sports_Club" title="wikilink">ahq e-Sports Club旗下藝人</a></p></td>
 </tr>
 <tr class="even">
-<td><p>Stanley</p></td>
+<td><p>Stanley(TPA)</p></td>
 <td><p>王榮燦</p></td>
 <td><p>Top</p></td>
 <td></td>
@@ -363,7 +357,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Lilballz</p></td>
+<td><p>Lilballz(TPA)</p></td>
 <td><p>宋寬柏</p></td>
 <td><p>Jungle</p></td>
 <td></td>
@@ -403,6 +397,14 @@
 <td><p>現為<a href="https://zh.wikipedia.org/wiki/J_Team" title="wikilink">J Team打野</a></p></td>
 </tr>
 <tr class="even">
+<td><p>FoFo</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:朱駿嵐" title="wikilink">:朱駿嵐</a></p></td>
+<td><p>Mid</p></td>
+<td></td>
+<td></td>
+<td><p>現為<a href="https://zh.wikipedia.org/wiki/BLG戰隊" title="wikilink">BLG戰隊中路</a></p></td>
+</tr>
+<tr class="odd">
 <td><p>Chawy</p></td>
 <td><p>黃心磊</p></td>
 <td><p>Mid</p></td>
@@ -410,7 +412,7 @@
 <td><p>1991年11月28日</p></td>
 <td><p>現為<a href="https://zh.wikipedia.org/wiki/Hong_Kong_Attitude" title="wikilink">Hong Kong Attitude教練</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>M1ssion</p></td>
 <td><p>陳孝銜</p></td>
 <td><p>Mid</p></td>
@@ -418,7 +420,7 @@
 <td></td>
 <td><p>現為<a href="https://zh.wikipedia.org/wiki/Hong_Kong_Attitude" title="wikilink">Hong Kong Attitude隊員</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>NeXAbc</p></td>
 <td><p>邱柏傑</p></td>
 <td><p>Mid</p></td>
@@ -426,15 +428,15 @@
 <td><p>1992年1月18日</p></td>
 <td><p>現為<a href="https://zh.wikipedia.org/wiki/Ahq_e-Sports_Club" title="wikilink">Ahq e-Sports Club教練</a></p></td>
 </tr>
-<tr class="odd">
-<td><p>Toyz</p></td>
+<tr class="even">
+<td><p>Toyz(TPA)</p></td>
 <td><p><a href="../Page/劉偉健.md" title="wikilink">劉偉健</a></p></td>
 <td><p>Mid</p></td>
 <td></td>
 <td><p>1992年6月9日</p></td>
 <td><p>曾獲S2世界冠軍，現為<a href="../Page/G-Rex.md" title="wikilink">G-Rex</a>總監</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>GoDJJ</p></td>
 <td><p><a href="../Page/王永傑.md" title="wikilink">王永傑</a></p></td>
 <td><p>AD</p></td>
@@ -442,15 +444,15 @@
 <td><p>1994年7月7日</p></td>
 <td><p>現為M.E.魔競旗下藝人、實況主</p></td>
 </tr>
-<tr class="odd">
-<td><p>Bebe</p></td>
+<tr class="even">
+<td><p>Bebe(TPA)</p></td>
 <td><p><a href="../Page/張博為.md" title="wikilink">張博為</a></p></td>
 <td><p>AD</p></td>
 <td></td>
 <td><p>1991年6月27日</p></td>
 <td><p>曾獲S2世界冠軍，現為<a href="https://zh.wikipedia.org/wiki/J_Team" title="wikilink">J Team實況主</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Lupin</p></td>
 <td><p>김도엽</p></td>
 <td><p>AD</p></td>
@@ -458,7 +460,7 @@
 <td></td>
 <td><p>現為ES Sharks隊員</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>colalin</p></td>
 <td><p>林穎璇</p></td>
 <td><p>Support</p></td>
@@ -466,15 +468,15 @@
 <td><p>1987年2月1日</p></td>
 <td><p>現為實況主</p></td>
 </tr>
-<tr class="even">
-<td><p>MiStakE</p></td>
+<tr class="odd">
+<td><p>MiStakE(TPA)</p></td>
 <td><p><a href="../Page/陳彙中.md" title="wikilink">陳彙中</a></p></td>
 <td><p>Support</p></td>
 <td></td>
 <td><p>1989年5月13日</p></td>
 <td><p>曾獲S2世界冠軍，現為M.E.魔競執行長</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Jay</p></td>
 <td><p><a href="../Page/李杰_(電競選手).md" title="wikilink">李-{杰}-</a></p></td>
 <td><p>Support</p></td>
@@ -482,23 +484,23 @@
 <td></td>
 <td><p>現為<a href="https://zh.wikipedia.org/wiki/Bilibili_Gaming" title="wikilink">Bilibili Gaming教練</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Alex</p></td>
 <td><p>陳煜明</p></td>
 <td><p>Jungle</p></td>
 <td></td>
 <td></td>
-<td><p>現為現為<a href="https://zh.wikipedia.org/wiki/Ahq_e-Sports_Club" title="wikilink">Ahq e-Sports Club成員</a></p></td>
+<td><p>現為<a href="https://zh.wikipedia.org/wiki/Ahq_e-Sports_Club" title="wikilink">Ahq e-Sports Club成員</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Ysera</p></td>
 <td><p>汪宗志</p></td>
 <td><p>Support</p></td>
 <td></td>
 <td></td>
-<td><p>現為現為<a href="https://zh.wikipedia.org/wiki/Ahq_e-Sports_Club" title="wikilink">Ahq e-Sports Club成員</a></p></td>
+<td><p>現為<a href="https://zh.wikipedia.org/wiki/Ahq_e-Sports_Club" title="wikilink">Ahq e-Sports Club成員</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Breaker</p></td>
 <td><p>施岳廷</p></td>
 <td><p>Jungle</p></td>
@@ -511,7 +513,7 @@
 
 ## 傳說對決 (已解散)
 
-JTeam官方於1/9日於JTeam 傳說對決粉絲團發表聲明稿，因對於GCS聯賽規則不滿，宣布無限期退出聯盟。
+JTeam奪冠原班人馬在2019集體跳槽至MADTeam 之後JTeam官方於1/9日於JTeam 傳說對決粉絲團發表聲明稿，因對於GCS聯賽規則不滿，宣布無限期退出聯盟 但此聲明卻對全體隊員跳槽的狀況產生矛盾，網傳原因為給予待遇太差且長期沒有戰隊教練導致，但JTeam官方並沒有再做做任何表態。
 
 得獎紀錄
 
@@ -709,13 +711,13 @@ JTeam官方於1/9日於JTeam 傳說對決粉絲團發表聲明稿，因對於GCS
 7.  [生活時報相片- Taipei Assassins (台北暗殺星)](https://www.facebook.com/photo.php?fbid=538644816208193&set=a.302583299814347.68155.241409359265075&type=1)
 8.  [台北暗殺星新成員Jay、Achie接棒　培養默契不斷向前 2013/7/22 今日新聞網](http://www.nownews.com/2013/07/22/91-2965718.htm)
 9.  [TPA新血AZB TPA Morning 的粉絲團已經成立摟，Morning預計上場打中路，…-Taipei Assassins (台北暗殺星)](https://www.facebook.com/tpaLoL/posts/578589258880415)
-10. [【專訪】AZB TPA、TPS 最堅強的後盾，隊經理 Quaker 專訪](http://lol.esport.garena.tw/news/news_info.php?nid=1751)
+10.
 11. [X06 Taiwan 週末主題活動 玩家擠爆現場](https://zh.wikinews.org/zh-tw/X06_Taiwan_週末主題活動_玩家擠爆現場)
-12. [天下無不散之宴席！感謝 Dinter、NeXAbc、Sarsky 為電子競技運動的付出！](http://taipeiassassins.tw/news.php#)
+12.
 13. [【情報】TPA 職業選手 DinTer 宣布與 Garena 選手合作關係終止](http://forum.gamer.com.tw/C.php?bsn=17532&snA=419691)
 14. [生活時報相片- Taipei Assassins (台北暗殺星)](https://www.facebook.com/photo.phpfbid=728349903904349&set=pb.241409359265075.-2207520000.1403228168.&type=3&theater)
-15. [【專訪】遠渡重洋跨海執教！前 Najin 總教練正式加入「Azubu Taipei Assassins」！](http://lol.esport.garena.tw/news/news_info.php?nid=2268)
-16. [【專訪】勇敢挑戰自我，用盡全力追夢－Winds 退役專訪](http://lol.esport.garena.tw/news/news_info.php?nid=2619)
+15.
+16.
 17. [專訪／TPA強者回歸！微笑Bebe：想再次奪冠不留遺憾](http://game.ettoday.net/article/604600.htm)
 18.
 19. [又一 LMS 打野出走，JT Alex 轉戰 LPL 戰隊](https://tw.esports.yahoo.com/lms-%E6%89%93%E9%87%8E%E9%81%B8%E6%89%8B%E5%87%BA%E8%B5%B0%E6%BD%AE%EF%BC%9Fjt-alex-%E5%B0%87%E8%BD%89%E6%88%B0-lpl-fpx-%E6%88%B0%E9%9A%8A-114033582.html)
@@ -727,4 +729,4 @@ JTeam官方於1/9日於JTeam 傳說對決粉絲團發表聲明稿，因對於GCS
 25. [中國信託冠名贊助J Team《英雄聯盟》戰隊](https://www.4gamers.com.tw/news/detail/38233/ctbcbank-x-jteam)
 26. [叫你們教練出來打！JT登錄Refra1n努努本人重回賽場](https://tw.news.yahoo.com/%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-%E5%8F%AB%E4%BD%A0%E5%80%91%E6%95%99%E7%B7%B4%E5%87%BA%E4%BE%86%E6%89%93-jt%E7%99%BB%E9%8C%84refra1n%E5%8A%AA%E5%8A%AA%E6%9C%AC%E4%BA%BA%E9%87%8D%E5%9B%9E%E8%B3%BD%E5%A0%B4-101100008.html)
 27. [【英雄聯盟】叫你們教練出來打！JT登錄Refra1n努努本人重回賽場](https://tw.news.yahoo.com/%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-%E5%8F%AB%E4%BD%A0%E5%80%91%E6%95%99%E7%B7%B4%E5%87%BA%E4%BE%86%E6%89%93-jt%E7%99%BB%E9%8C%84refra1n%E5%8A%AA%E5%8A%AA%E6%9C%AC%E4%BA%BA%E9%87%8D%E5%9B%9E%E8%B3%BD%E5%A0%B4-101100008.html)
-28. [2015 AIC 世界賽季軍戰戰況報導](http://ava.garena.tw/news/show/1018)
+28.

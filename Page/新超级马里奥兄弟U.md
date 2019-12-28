@@ -2,7 +2,7 @@
 
 本作可以使用Wii U的[GamePad手柄将游戏图像切换到手柄上](https://zh.wikipedia.org/wiki/Wii_U_GamePad "wikilink")。\[1\]
 
-遊戲又於2019年1月11日在任天堂Switch上推出了加強版《-{zh-cn:New 新 超级马力欧兄弟U 豪华版;zh-tw:新 超级瑪利歐兄弟U 豪華版;zh-hk:新 超级瑪利歐兄弟U 豪華版;}-》（New Super Mario Bros. U Deluxe），同時正式加入對繁體中文與簡體中文的支援。\[2\]
+遊戲又於2019年1月11日在任天堂Switch上推出了加強版《-{zh-cn:New 新 超级马力欧兄弟U 豪华版;zh-tw:新 超级瑪利歐兄弟U 豪華版;zh-hk:新 超级瑪利歐兄弟U 豪華版;}-》（New Super Mario Bros. U Deluxe），同時正式加入對繁體中文與簡體中文的支援。\[2\]2019年12月10日，本作的豪华版作为中国大陆版任天堂Switch首发游戏同主机发售。
 
 ## 评价
 

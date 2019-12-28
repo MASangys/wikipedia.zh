@@ -46,6 +46,5 @@
 [Category:孫耀威音樂專輯](https://zh.wikipedia.org/wiki/Category:孫耀威音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
 1.  [孫耀威“A Second Thought”CD+DVD](http://skymusic.com.hk/?p=33808)，2012年10月21日 (日) 13:10 (UTC+8)查閱
-
 2.
 3.  [iTunes - Music - A Second Thought by Eric Suen](http://itunes.apple.com/hk/album/a-second-thought/id565943370)，2012年10月8日 (一) 20:55 (UTC+8)查閱

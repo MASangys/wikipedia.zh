@@ -350,84 +350,44 @@
 [Category:Popu_Lady](https://zh.wikipedia.org/wiki/Category:Popu_Lady "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
-9.  [粉絲抗議沒路用 Popu Lady淘汰網站上線](http://ent.ltn.com.tw/news/breakingnews/1455448)
-
-10. [PopuLady 5人將淘汰1人　粉絲爆拒絕投票潮](http://star.ettoday.net/news/568653)
-
+9.
+10.
 11.
-
-12. [瞎爆！Popu Lady淘汰賽出爐 結果竟是...](http://ent.ltn.com.tw/news/breakingnews/1516656)
-
-13. [大元、宇珊同票數　Popu Lady零淘汰成鬧劇](http://www.nownews.com/n/2015/11/22/1892293)
-
-14. [Popu Lady淘汰賽挨批「超爛行銷」 華研解釋...](http://ent.ltn.com.tw/news/breakingnews/1516915)
-
-15. [Popu Lady淘汰結果出爐！網友：不意外](http://www.chinatimes.com/realtimenews/20151122002573-260404)
-
-16. [Popu Lady淘汰賽疑炒作 其實有內幕](http://ent.ltn.com.tw/news/breakingnews/1517053)
-
-17. [Popu Lady走過淘汰賽 五人浴火重生 戰戰兢兢努力進修](http://www.wownews.tw/article.php?sn=32759)
-
+12.
+13.
+14.
+15.
+16.
+17.
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
-32.  娛樂星聞 {{\!}} 三立新聞網 SETN.COM|url=[https://www.setn.com/e/News.aspx?NewsID=78149|work=www.setn.com|date=2015-05-31|accessdate=2019-02-05|language=zh-Hant-TW|last=三立新聞網](https://www.setn.com/e/News.aspx?NewsID=78149%7Cwork=www.setn.com%7Cdate=2015-05-31%7Caccessdate=2019-02-05%7Clanguage=zh-Hant-TW%7Clast=三立新聞網)}}
-
+32.  娛樂星聞 {{\!}} 三立新聞網 SETN.COM|url=[https://www.setn.com/e/News.aspx?NewsID=78149|work=www.setn.com|date=2015-05-31|accessdate=2019-02-05|language=zh-TW|last=三立新聞網|archive-url=https://web.archive.org/web/20151228175220/http://www.setn.com/E/News.aspx?NewsID=78149|archive-date=2015-12-28|dead-url=no](https://www.setn.com/e/News.aspx?NewsID=78149%7Cwork=www.setn.com%7Cdate=2015-05-31%7Caccessdate=2019-02-05%7Clanguage=zh-TW%7Clast=三立新聞網%7Carchive-url=https://web.archive.org/web/20151228175220/http://www.setn.com/E/News.aspx?NewsID=78149%7Carchive-date=2015-12-28%7Cdead-url=no)}}
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.

@@ -85,7 +85,7 @@
   - ボツマン宣言（[いとうせいこう](https://zh.wikipedia.org/wiki/いとうせいこう "wikilink")）
   - [魔Qケン乙](https://zh.wikipedia.org/wiki/魔Qケン乙 "wikilink")（[喜国雅彦](https://zh.wikipedia.org/wiki/喜国雅彦 "wikilink")）
   - まひるの海（[比古地朔弥](https://zh.wikipedia.org/wiki/比古地朔弥 "wikilink")） ※増刊時代
-  - まほおつかいミミッチ（[松田洋子](https://zh.wikipedia.org/wiki/松田洋子 "wikilink")）
+  - まほおつかいミミッチ（[松田洋子](../Page/松田洋子.md "wikilink")）
   - 漫画家超残酷物語（[唐沢なをき](https://zh.wikipedia.org/wiki/唐沢なをき "wikilink")）
   - めくるたび（写真：[丸田祥三](https://zh.wikipedia.org/wiki/丸田祥三 "wikilink")）
   - [夜回り先生](https://zh.wikipedia.org/wiki/夜回り先生_\(漫画\) "wikilink")（漫画：[土田世紀](https://zh.wikipedia.org/wiki/土田世紀 "wikilink")、原作：[水谷修](https://zh.wikipedia.org/wiki/水谷修 "wikilink")）

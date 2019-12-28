@@ -35,8 +35,6 @@
 [Category:方程式赛车](https://zh.wikipedia.org/wiki/Category:方程式赛车 "wikilink")
 
 1.
-
 2.
 3.  [Speedcar Series | News](http://www.speedcarseries.com/news/index.php?newsid=7)
-
 4.

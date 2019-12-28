@@ -1,6 +1,6 @@
 **HD Graphics**是[Intel一系列的](https://zh.wikipedia.org/wiki/Intel "wikilink")[整合顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，於2010年首次推出。不同於以往整合在[晶片組的顯示核心](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，此次顯示核心是整合於[處理器上](https://zh.wikipedia.org/wiki/處理器 "wikilink")，並且擁有獨立的[品牌](../Page/品牌.md "wikilink")。[中國大陸官方](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[中文品牌名稱為](https://zh.wikipedia.org/wiki/中文 "wikilink")“****”，\[1\]而[台灣仍採用半](https://zh.wikipedia.org/wiki/台灣 "wikilink")[直譯的](https://zh.wikipedia.org/wiki/直譯 "wikilink")“****”，\[2\]，而[港澳地區](../Page/港澳地區.md "wikilink")則繼續沿用官方的[英文名稱](https://zh.wikipedia.org/wiki/英文 "wikilink")“Intel® HD Graphics”\[3\]。
 
-**Iris Graphics**及**Iris Pro Graphics**是Intel最新的整合式顯示核心品牌，在2012年推出的Haswell微架構處理器中開始使用，規格與HD Graphics相同，但頻率及效能更高。其中，Pro版帶有128MB eDRAM（embedded [DRAM](https://zh.wikipedia.org/wiki/DRAM "wikilink")）用作GPU快取，也可當作CPU L4。\[4\]
+**Iris Graphics**及**Iris Pro Graphics**是Intel最新的整合式顯示核心品牌，在Haswell微架構處理器中開始使用，頻率及效能更高。其中，Pro版帶有128MB eDRAM（embedded [DRAM](https://zh.wikipedia.org/wiki/DRAM "wikilink")）用作GPU快取，也可當作CPU L4。\[4\]
 
 ## 歷史
 
@@ -39,7 +39,7 @@
 
 此代從HD Graphics 5000便兩倍運算效能於上一代的HD Graphics 4000，其中帶「P」字型號的是內建於Xeon處理器上，而擁有eDRAM內嵌式動態記憶體，能有效降低延時以增進繪圖效能，雖僅用於[筆電但Broadwell桌上型則有](https://zh.wikipedia.org/wiki/筆電 "wikilink")[Core i5-5675C及](https://zh.wikipedia.org/wiki/Core_i5-5675C "wikilink")[Core i7-5775C內建該代最高Iris](https://zh.wikipedia.org/wiki/Core_i7-5775C "wikilink") Graphics 6200及eDRAM\[8\]
 
-### Skylake/Kaby Lake架構
+### Skylake/Kaby Lake/Coffee Lake微架構
 
 英特爾宣布Skylake架構的微處理器上會內建「第九代」整合式顯示核心，其顯示核心名稱也從四位數改為三位數並新增GT4等級核心。而Kaby Lake架構的微處理器則原生支援HDCP 2.2、具有全功能的HEVC Main10/10-bit和VP9 10-bit硬體影片解碼能力。
 
@@ -53,11 +53,7 @@
   - HD Graphics Iris 540/550/Iris Plus 640/Iris Plus 650（EU：48），核心代號「GT3e」，同時擁有64MB的eDRAM
   - Iris Pro 580（EU：72），核心代號「GT4e」，同時擁有128MB的eDRAM
 
-### Coffee Lake微架構
-
 ### Ice Lake微架構
-
-### Comet Lake微架構
 
 ## 技術參數
 

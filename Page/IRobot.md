@@ -78,8 +78,6 @@ Scooba是iRobot的地板清潔機器人。
 [Category:機器人學公司](https://zh.wikipedia.org/wiki/Category:機器人學公司 "wikilink") [Category:麻薩諸塞州公司](https://zh.wikipedia.org/wiki/Category:麻薩諸塞州公司 "wikilink") [Category:美国制造公司](https://zh.wikipedia.org/wiki/Category:美国制造公司 "wikilink") [Category:1990年成立的公司](https://zh.wikipedia.org/wiki/Category:1990年成立的公司 "wikilink") [Category:吸塵器製造公司](https://zh.wikipedia.org/wiki/Category:吸塵器製造公司 "wikilink")
 
 1.
-
 2.
 3.
-
 4.

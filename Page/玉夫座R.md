@@ -9,11 +9,7 @@
 [Category:玉夫座](https://zh.wikipedia.org/wiki/Category:玉夫座 "wikilink") [Category:C型恒星](https://zh.wikipedia.org/wiki/Category:C型恒星 "wikilink") [Category:半規則變星](https://zh.wikipedia.org/wiki/Category:半規則變星 "wikilink") [Category:HD和HDE天體](https://zh.wikipedia.org/wiki/Category:HD和HDE天體 "wikilink") [Category:HIP天體](https://zh.wikipedia.org/wiki/Category:HIP天體 "wikilink") [Category:HR天體](https://zh.wikipedia.org/wiki/Category:HR天體 "wikilink") [Category:SAO天體](https://zh.wikipedia.org/wiki/Category:SAO天體 "wikilink") [Category:IRAS天體](https://zh.wikipedia.org/wiki/Category:IRAS天體 "wikilink") [Category:2MASS天體](https://zh.wikipedia.org/wiki/Category:2MASS天體 "wikilink") [Category:AGB恆星](https://zh.wikipedia.org/wiki/Category:AGB恆星 "wikilink")
 
 1.
-
 2.
-
 3.  [R Sculptoris](http://www.alcyone.de/cgi-bin/search.pl?object=HR0423) (The [Bright Star Catalogue](https://zh.wikipedia.org/wiki/Bright_Star_Catalogue "wikilink"))
-
 4.
-
 5.

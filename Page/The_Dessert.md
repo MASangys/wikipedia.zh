@@ -17,7 +17,6 @@
 [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:少女漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少女漫畫雜誌 "wikilink") [Category:女性漫畫雜誌](https://zh.wikipedia.org/wiki/Category:女性漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:講談社的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:講談社的漫畫雜誌 "wikilink")
 
 1.  [日本雑誌協会](http://www.j-magazine.or.jp/)マガジンデータによる。
-
 2.
 3.
 4.

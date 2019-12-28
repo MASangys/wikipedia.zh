@@ -29,7 +29,6 @@ HTTrack使用网络爬虫下载网站。对于有[robots.txt的网站](https://z
 ## 外部链接
 
   -
-  -
 [Category:綠色軟件](https://zh.wikipedia.org/wiki/Category:綠色軟件 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink")
 
 1.  [Httrack Users Guide](http://www.httrack.com/html/fcguide.html)

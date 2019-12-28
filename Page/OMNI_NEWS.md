@@ -393,6 +393,6 @@ OMNI NEWS於周一至周五均推出六種語言的本地新聞報導，包括�
 
 ## 外部連結
 
-  - [OMNI NEWS全國網站](http://www.omninews.ca/)
+  - [OMNI NEWS全國網站](https://web.archive.org/web/20120808092521/http://omninews.ca/)
 
 [Category:加拿大新聞節目](https://zh.wikipedia.org/wiki/Category:加拿大新聞節目 "wikilink") [Category:加拿大電視節目](https://zh.wikipedia.org/wiki/Category:加拿大電視節目 "wikilink")

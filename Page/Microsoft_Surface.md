@@ -137,7 +137,7 @@ Surface Go采用10英寸屏幕，保持3:2的显示比例。相应的Type cover�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Surface_Go" title="wikilink">Surface Go</a></p></td>
+<td><p><a href="../Page/Surface_Go.md" title="wikilink">Surface Go</a></p></td>
 <td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> Home (S Mode)</p></td>
 <td><p>Version 1803</p></td>
 <td><p>{{#invoke:Date table sorting|main|2018|8|2}}</p></td>

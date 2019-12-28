@@ -1,4 +1,4 @@
-《**Be My Baby**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄭瑞芬](../Page/鄭瑞芬.md "wikilink")的首張個人專輯，在1989年11月推出。專輯第一主打歌是《假裝．假純情》，而第二主打歌則為《愛這個字》。
+《**Be My Baby**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄭瑞芬](../Page/鄭瑞芬.md "wikilink")的首張個人專輯，在1989年9月推出。專輯第一主打歌是《假裝．假純情》，而第二主打歌則為《愛這個字》。
 
 ## 曲目
 

@@ -60,6 +60,5 @@
 [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink") [Category:天使題材樂曲](https://zh.wikipedia.org/wiki/Category:天使題材樂曲 "wikilink")
 
 1.
-
 2.
 3.

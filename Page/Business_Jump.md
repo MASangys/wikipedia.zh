@@ -161,7 +161,7 @@
   - 妄想メガネ（[あずまゆき](https://zh.wikipedia.org/wiki/あずまゆき "wikilink")）2010年19号 - 2011年21・22合併号、不定期連載、→『グランドジャンプ』Web
   - ぼくの体はツーアウト（よしたに）2010年20号 - 2011年21・22合併号、→『[グランドジャンプ](https://zh.wikipedia.org/wiki/グランドジャンプ "wikilink")』
   - [GOLDEN BOY II](https://zh.wikipedia.org/wiki/GOLDEN_BOY "wikilink")（[江川達也](../Page/江川達也.md "wikilink")）2010年20号 - 2011年12号
-  - シンバシノミコ（[光永康則](https://zh.wikipedia.org/wiki/光永康則 "wikilink")）2010年21号 - 2011年21・22合併号、→『[グランドジャンプPREMIUM](https://zh.wikipedia.org/wiki/グランドジャンプPREMIUM "wikilink")』『BJ魂』より移籍
+  - シンバシノミコ（[光永康則](../Page/光永康則.md "wikilink")）2010年21号 - 2011年21・22合併号、→『[グランドジャンプPREMIUM](https://zh.wikipedia.org/wiki/グランドジャンプPREMIUM "wikilink")』『BJ魂』より移籍
   - 世界に大自慢したい日本の会社（原作：[坂本光司](https://zh.wikipedia.org/wiki/坂本光司 "wikilink")、漫画：[こせきこうじ](https://zh.wikipedia.org/wiki/こせきこうじ "wikilink")、企画：平沢たかゆき）2010年21号 - 、→『[グランドジャンプ](https://zh.wikipedia.org/wiki/グランドジャンプ "wikilink")』、不定期連載
   - 幼な妻マープルの事件簿（[遊人](https://zh.wikipedia.org/wiki/遊人 "wikilink")）2010年22号 - 2011年14号
   - 白衣のカノジョ（[日坂水柯](https://zh.wikipedia.org/wiki/日坂水柯 "wikilink")）2010年24号 - 2011年21・22合併号月1連載、→『[グランドジャンプPREMIUM](https://zh.wikipedia.org/wiki/グランドジャンプPREMIUM "wikilink")』

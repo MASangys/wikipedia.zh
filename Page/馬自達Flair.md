@@ -38,7 +38,7 @@ Image:Mazda Flair custom style (MJ34S) front.JPG|前期型車頭 Image:Mazda Fla
 
 [Category:2012年面世的汽車](https://zh.wikipedia.org/wiki/Category:2012年面世的汽車 "wikilink") [Category:馬自達車輛](https://zh.wikipedia.org/wiki/Category:馬自達車輛 "wikilink") [Category:鈴木OEM車輛](https://zh.wikipedia.org/wiki/Category:鈴木OEM車輛 "wikilink") [Category:輕型車](https://zh.wikipedia.org/wiki/Category:輕型車 "wikilink") [Category:輕型高頂旅行車](https://zh.wikipedia.org/wiki/Category:輕型高頂旅行車 "wikilink") [Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink") [Category:前輪驅動](https://zh.wikipedia.org/wiki/Category:前輪驅動 "wikilink") [Category:四輪驅動](https://zh.wikipedia.org/wiki/Category:四輪驅動 "wikilink") [Category:CVT變速系統車輛](https://zh.wikipedia.org/wiki/Category:CVT變速系統車輛 "wikilink")
 
-1.  參看[【MAZDA】新型「マツダ フレア」、「マツダ フレア カスタムスタイル」を発売](http://www.mazda.co.jp/corporate/publicity/release/2012/201210/121025a.html)。
+1.  參看[【MAZDA】新型「マツダ フレア」、「マツダ フレア カスタムスタイル」を発売](http://www.mazda.co.jp/corporate/publicity/release/2012/201210/121025a.html) 。
 2.  詳情參考[スズキ：走行・環境性能](http://www.suzuki.co.jp/car/wagonr/performance_eco/)。
 3.  入門的「XG級」並無此配備。
 4.  [【MAZDA】「マツダ フレア」をマイナーチェンジして発売](http://www.mazda.com/jp/publicity/release/2014/201408/140828b.html)。

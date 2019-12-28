@@ -17,5 +17,4 @@
 [Category:2012年EP](https://zh.wikipedia.org/wiki/Category:2012年EP "wikilink") [Category:凱莎音樂專輯](https://zh.wikipedia.org/wiki/Category:凱莎音樂專輯 "wikilink")
 
 1.
-
 2.

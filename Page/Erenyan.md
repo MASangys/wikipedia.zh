@@ -84,7 +84,7 @@
 
 ## 外部連結
 
-  - [小野恵令奈「えれにゃん」発売記念イベントに海外から猫ひろしが登場 Musicman-NET](http://www.musicman-net.com/artist/20596.html)
+  - [小野恵令奈「えれにゃん」発売記念イベントに海外から猫ひろしが登場 Musicman-NET](https://web.archive.org/web/20121025110710/http://www.musicman-net.com/artist/20596.html)
   - [小野恵令奈、待望の2ndシングルは「えれにゃん」！ CDジャーナル](http://www.cdjournal.com/main/news/ono-erena/46508)
   - [小野恵令奈 - 「えれにゃん」　2012年10月3日発売\! （SPOT） - YouTube](http://www.youtube.com/watch?v=OSFOUrw5v0I)
 

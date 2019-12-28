@@ -267,7 +267,7 @@ Treyarch在发行游戏时发布了《黑色行动II》的季票。2012年12月1
 20.
 21.
 22.
-23.  ZoKnowsGaming|url=[http://zoknowsgaming.com/2012/04/09/call-of-duty-black-ops-2-logo-leaked-debut-trailer-release-date-outed/|publisher=ZoKnowsGaming.com|date=2012-04-09|accessdate=2012-04-10](http://zoknowsgaming.com/2012/04/09/call-of-duty-black-ops-2-logo-leaked-debut-trailer-release-date-outed/%7Cpublisher=ZoKnowsGaming.com%7Cdate=2012-04-09%7Caccessdate=2012-04-10)}}
+23.  ZoKnowsGaming|url=[http://zoknowsgaming.com/2012/04/09/call-of-duty-black-ops-2-logo-leaked-debut-trailer-release-date-outed/|publisher=ZoKnowsGaming.com|date=2012-04-09|accessdate=2012-04-10|archive-url=https://web.archive.org/web/20120411154956/http://zoknowsgaming.com/2012/04/09/call-of-duty-black-ops-2-logo-leaked-debut-trailer-release-date-outed/|archive-date=2012-04-11|dead-url=yes](http://zoknowsgaming.com/2012/04/09/call-of-duty-black-ops-2-logo-leaked-debut-trailer-release-date-outed/%7Cpublisher=ZoKnowsGaming.com%7Cdate=2012-04-09%7Caccessdate=2012-04-10%7Carchive-url=https://web.archive.org/web/20120411154956/http://zoknowsgaming.com/2012/04/09/call-of-duty-black-ops-2-logo-leaked-debut-trailer-release-date-outed/%7Carchive-date=2012-04-11%7Cdead-url=yes)}}
 24.
 25.
 26.

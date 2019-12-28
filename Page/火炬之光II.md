@@ -12,7 +12,7 @@
 
   - [英文官方网站](http://torchlight2game.com/)
 
-  - [繁体中文官方网站](http://torchlight2.iwan.com.tw/)
+  - [繁体中文官方网站](https://web.archive.org/web/20130505042653/http://torchlight2.iwan.com.tw/)
 
   - [简体中文官方网站](http://tl2.4games.com/)
 

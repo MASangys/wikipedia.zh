@@ -17,7 +17,7 @@ FlashSpring是PowerPoint的外掛程式，會在PowerPoint的工具列上建立�
   - [MasternewMedia – PowerPoint to Flash Conversion Tools](http://www.masternewmedia.org/2004/04/14/powerpoint_to_flash_conversion_tools.htm)
   - [KickstartNews – FlashSpring 1.5 review](http://www.kickstartnews.com/reviews/utilities/flashspring_15.html)
   - [FlashSpring Pro at ZDnet](http://downloads.zdnet.com/3000-2075-10632687.html)
-  - [FlashSpring Pro at Trap17](http://www.trap17.com/index.php/flashspring-pro-review_t43670.html)
+  - [FlashSpring Pro at Trap17](https://web.archive.org/web/20090804002214/http://www.trap17.com/index.php/Flashspring-Pro-Review_t43670.html)
 
 ## 外部連結
 

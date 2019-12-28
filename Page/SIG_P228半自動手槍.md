@@ -6,7 +6,7 @@
 
 從遠處看，P228與P226可以通過比較[扳機護環](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")（P228的是圓滑過渡的，而P226的前有小型防滑凹陷和掛鉤）以及槍管和[套筒的長度](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")（P228的槍管是99毫米（3.9英寸），因此具有一個相應較短的套筒）來區分。P228與P226並排比較也可看出P228比P226略短（縮短15毫米（0.59英寸））。雖然更大容量的P226彈匣也可以給P228使用，但是這會因超出原來握把的部分而破壞手槍的隱蔽性。
 
-民用型銷售的P228已經隨著同時地有[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[P229的推出而停產P](https://zh.wikipedia.org/wiki/SIG_P229半自動手槍 "wikilink")229與P228幾乎是相同的，不過它的[套筒是以](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")所製造（而P228的是鍛造[碳鋼](../Page/碳鋼.md "wikilink")套筒），而且可以發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[.40 S\&W和](../Page/.40_S&W.md "wikilink")[.357 SIG三種](../Page/.357_SIG.md "wikilink")[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")[子彈](../Page/子彈.md "wikilink")。
+民用型銷售的P228已經隨著同時地有[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[P229的推出而停產P](../Page/SIG_P229半自動手槍.md "wikilink")229與P228幾乎是相同的，不過它的[套筒是以](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")所製造（而P228的是鍛造[碳鋼](../Page/碳鋼.md "wikilink")套筒），而且可以發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[.40 S\&W和](../Page/.40_S&W.md "wikilink")[.357 SIG三種](../Page/.357_SIG.md "wikilink")[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 在2012年夏季，[西格&紹爾](../Page/西格&紹爾.md "wikilink")宣布他們推出M11A1，這在本質上是裝上了快速復位扳機（，簡稱：SRT）、SIGLITE[氚](../Page/氚.md "wikilink")光夜間瞄準具、MecGar15發彈匣，以及軍用風格的智能標記和序列號的P228。後來在2012年，P228的空軍M11B版本被推出作民間銷售。據傳聞，有50把M11B民用型推出了市場。
 
@@ -32,7 +32,7 @@ SIG槍械同時在[德国](../Page/德国.md "wikilink")[埃肯弗特的JP](http
 
 P228導軌型（，簡稱：P228R）基本上與P228是相同的，只是它在[套筒下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[底把的](../Page/机匣.md "wikilink")[扳機護環前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條戰術燈安裝導軌，以安裝各種[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
 
-民用型銷售的P228已經隨著同時地有[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[P229的推出而停產](https://zh.wikipedia.org/wiki/SIG_P229半自動手槍 "wikilink")，但最近亦有民用型有限量重新生產，並且整合了戰術配件導軌，並且命名為P228R。
+民用型銷售的P228已經隨著同時地有[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[P229的推出而停產](../Page/SIG_P229半自動手槍.md "wikilink")，但最近亦有民用型有限量重新生產，並且整合了戰術配件導軌，並且命名為P228R。
 
 P228R的導軌與[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")（又稱：皮卡汀尼導軌）相比具有更為圓潤的輪廓，雖然仍然可以適配並且裝上大多數使用皮卡汀尼導軌的戰術配件，但並不是全部的都可以。
 
@@ -353,13 +353,13 @@ P228R的導軌與[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikil
 
   - [SIG P226](../Page/SIG_P226半自動手槍.md "wikilink")
   - [SIG P227](../Page/SIG_P227半自動手槍.md "wikilink")
-  - [SIG P229](https://zh.wikipedia.org/wiki/SIG_P229半自動手槍 "wikilink")
+  - [SIG P229](../Page/SIG_P229半自動手槍.md "wikilink")
   - [SIG P224](https://zh.wikipedia.org/wiki/SIG_P224半自動手槍 "wikilink")
   - [SIG P230](../Page/SIG_P230手槍.md "wikilink")
   - [貝瑞塔M9手槍](../Page/貝瑞塔M9手槍.md "wikilink")
   - [FN HP-DA](../Page/白朗寧雙動半自動手槍.md "wikilink")
   - [HK P9S](https://zh.wikipedia.org/wiki/HK_P9S半自動手槍 "wikilink")
-  - [史密斯威森M459](https://zh.wikipedia.org/wiki/史密斯威森M459半自動手槍 "wikilink")
+  - [史密斯威森M459](../Page/史密斯威森M459半自動手槍.md "wikilink")
 
 ## 資料來源
 

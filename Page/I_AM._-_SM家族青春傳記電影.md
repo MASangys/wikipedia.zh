@@ -20,7 +20,7 @@
 ## 官方網站
 
   - [Official Movie Site](https://web.archive.org/web/20120422064409/http://www.iam2012.co.kr/)
-  - [Official Movie Site](http://global.mnet.com/iam/index.m)
+  - [Official Movie Site](https://web.archive.org/web/20120802114844/http://global.mnet.com/iam/index.m)
   - [Taiwan Official Movie Site](http://www.avex.com.tw/iam/)
 
 [Category:2012年電影](https://zh.wikipedia.org/wiki/Category:2012年電影 "wikilink") [Category:韓國電影作品](https://zh.wikipedia.org/wiki/Category:韓國電影作品 "wikilink") [Category:傳記片](https://zh.wikipedia.org/wiki/Category:傳記片 "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")

@@ -59,7 +59,7 @@
 
 ### 任天堂3DS
 
-  - 《[符文工廠4](https://zh.wikipedia.org/wiki/符文工廠4 "wikilink")》
+  - 《[符文工廠4](../Page/符文工廠4.md "wikilink")》
 
 ## 外部链接
 

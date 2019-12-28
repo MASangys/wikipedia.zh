@@ -8,7 +8,7 @@
 
 ## 大众文化
 
-美国作家[霍华德·菲利普·洛夫克拉夫特的短篇小说](https://zh.wikipedia.org/wiki/霍华德·菲利普·洛夫克拉夫特 "wikilink")《[翻越睡夢之牆](https://zh.wikipedia.org/wiki/翻越睡夢之牆 "wikilink")》中曾提到这颗名噪一时的新星。
+美国作家[霍华德·菲利普·洛夫克拉夫特的短篇小说](https://zh.wikipedia.org/wiki/霍华德·菲利普·洛夫克拉夫特 "wikilink")《[翻越睡夢之牆](../Page/翻越睡夢之牆.md "wikilink")》中曾提到这颗名噪一时的新星。
 
 ## 参考资料
 

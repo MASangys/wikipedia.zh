@@ -119,11 +119,11 @@ P5-VPR\[RS\]型的所有參數與P5-VP\[RS\]型相同，兩者之差異在於前
 
 ## 外部連結
 
-  - [マツダ：P3-VPS型エンジン](http://greeco-channel.com/car/engine/mazda_eg/p3-vps/)
+  - [マツダ：P3-VPS型エンジン](https://web.archive.org/web/20140712071148/http://greeco-channel.com/car/engine/mazda_eg/p3-vps/)
 
-  - [マツダ：PE-VPS型エンジン](http://greeco-channel.com/car/engine/mazda_eg/pe-vps/)
+  - [マツダ：PE-VPS型エンジン](https://web.archive.org/web/20130731180720/http://greeco-channel.com/car/engine/mazda_eg/pe-vps/)
 
-  - [マツダ：PY-VPR型エンジン](http://greeco-channel.com/car/engine/mazda_eg/py-vpr/)
+  - [マツダ：PY-VPR型エンジン](https://web.archive.org/web/20140130025610/http://greeco-channel.com/car/engine/mazda_eg/py-vpr/)
 
 ## 參考資料
 

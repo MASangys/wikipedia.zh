@@ -1,4 +1,4 @@
-《**SCHOOL OF LOCK\!**》（；簡稱）是日本[FM東京](../Page/FM東京.md "wikilink")製播的[廣播](../Page/電台廣播.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，每週一到週四22:00 - 23:55、週五22:00 - 22:55現場直播（[JST](../Page/日本標準時間.md "wikilink")），並透過廣播聯播網[JFN](../Page/JFN.md "wikilink")旗下加盟台向日本全國播出。其主要為面向[中學生之廣播綜藝](https://zh.wikipedia.org/wiki/中學生 "wikilink")，節目主題為「掌握未來之鑰的學校」（），許多節目內容均以[學校](https://zh.wikipedia.org/wiki/學校 "wikilink")[上課為概念呈現](https://zh.wikipedia.org/wiki/課堂 "wikilink")。現由遠山大輔、蘆澤統人主持，節目中另有多個由個別藝人主持的單元。
+《**SCHOOL OF LOCK\!**》（；簡稱）是日本[FM東京](../Page/FM東京.md "wikilink")製播的[廣播](../Page/電台廣播.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，每週一到週四22:00 - 23:55、週五22:00 - 22:55現場直播（[JST](../Page/日本標準時間.md "wikilink")），並透過廣播聯播網[JFN](../Page/JFN.md "wikilink")旗下加盟台向日本全國播出。其主要為面向[中學生之廣播綜藝](https://zh.wikipedia.org/wiki/中學生 "wikilink")，節目主題為「掌握未來之鑰的學校」（），許多節目內容均以[學校](https://zh.wikipedia.org/wiki/學校 "wikilink")[上課為概念呈現](https://zh.wikipedia.org/wiki/課堂 "wikilink")。現由遠山大輔主持，節目中另有多個由個別藝人主持的單元。
 
 ## 上課時間（播出時間）
 
@@ -8,9 +8,9 @@
     22:00 - 22:55
   - 每週星期五（「SCHOOL OF LOCK\! UNIVERSITY」）
     23:00 - 23:55
-    本節目派生的關聯節目，2019年4月1日起播出，由主持。
+    本節目派生的關聯節目，2019年4月1日起播出（預定播出至同年12月27日），由主持。
 
-### 課表（2019年4月起）
+### 課表（2019年10月起）
 
 <table>
 <thead>
@@ -26,15 +26,15 @@
 <tbody>
 <tr class="odd">
 <td><p>22:00</p></td>
-<td><p>生放送教室<br />
+<td><p>生放送教室[1]<br />
 （包含吉他鐘聲／校長的黑板／上課口令／上課主題發表等）</p></td>
-<td><p>SKY PerfecTV! 校內放送 Rappers</p></td>
+<td><p>學校營運戰略會議</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>22:20左右[1]</p></td>
+<td><p>22:20左右[2]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -90,7 +90,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/高橋光.md" title="wikilink">高橋光</a>（第4週）</p></td>
+<td><p><a href="../Page/高橋光.md" title="wikilink">高橋光</a>（第4週）[3]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -123,38 +123,30 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>23:00</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>22:55</p></td>
-<td><p>想聽你的聲音[2]</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>23:00</p></td>
-<td><p>BATTLE QUIZ SCHOOL 4ORCE</p></td>
+<td><p>想聽你的聲音[4]</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>23:08頃</p></td>
+<td><p>23:00</p></td>
+<td><p>生放送教室</p></td>
+<td><p>SCHOOL OF LOCK! UNIVERSITY</p></td>
 <td></td>
-<td><p>松田LOCKS!</p></td>
-<td><p>高中生求職諮商室</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>23:08左右</p></td>
+<td></td>
+<td><p>松田LOCKS![5]</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>23:10左右</p></td>
 <td><p>ARTIST LOCKS!</p></td>
 <td></td>
@@ -162,7 +154,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>ALEXAND LOCKS!</p></td>
 <td><p>MRS LOCKS!</p></td>
@@ -170,15 +162,15 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></p></td>
+<tr class="even">
+<td><p><a href="../Page/Perfume_(日本音樂團體).md" title="wikilink">Perfume</a></p></td>
 <td><p><a href="../Page/［Alexandros］.md" title="wikilink">[Alexandros</a>]</p></td>
 <td><p><a href="../Page/Mrs._GREEN_APPLE.md" title="wikilink">Mrs. GREEN APPLE</a></p></td>
-<td></td>
+<td><p><a href="../Page/Eve_(歌手).md" title="wikilink">Eve</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>23:30左右</p></td>
 <td><p>生放送教室</p></td>
 <td></td>
@@ -186,7 +178,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/魚韻.md" title="wikilink">魚韻</a></p></td>
 <td></td>
 <td></td>
@@ -194,15 +186,15 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>23:45左右</p></td>
 <td><p>黑板／結尾</p></td>
-<td></td>
+<td><p>SCHOOL OF LOCK! UNIVERSITY</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>23:54</p></td>
 <td><p>下課口令（節目結束）</p></td>
 <td></td>
@@ -238,7 +230,7 @@
 
 <!-- end list -->
 
-  - 本名：遠山大輔。2010年4月5日起就任，為SCHOOL OF LOCK\!第2任[校長](https://zh.wikipedia.org/wiki/校長 "wikilink")。
+  - 本名：遠山大輔。2010年4月5日起就任，為SCHOOL OF LOCK\!第2任[校長](https://zh.wikipedia.org/wiki/校長 "wikilink")。預定於2020年3月卸任。
 
 <!-- end list -->
 
@@ -246,7 +238,7 @@
 
 <!-- end list -->
 
-  - 本名：蘆澤統人。2014年10月6日起就任，為SCHOOL OF LOCK\!第3任教頭（日語的「教頭」可解說為）。預定2019年9月26日卸任\[3\]。
+  - 本名：蘆澤統人。2014年10月6日起就任，於2019年9月26日卸任\[6\]。SCHOOL OF LOCK\!第3任教頭（日語的「教頭」可解說為）。
 
 ## 註釋
 
@@ -263,6 +255,9 @@
 
 [Category:SCHOOL_OF_LOCK\!](https://zh.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink") [Category:FM東京的廣播節目](https://zh.wikipedia.org/wiki/Category:FM東京的廣播節目 "wikilink")
 
-1.  每逢第5週為「生放送教室」單元。
-2.  部分聯播台沒有播出。
-3.  [](https://www.tfm.co.jp/lock/2019/0708/)
+1.  「生放送」在中文意指[現場直播](../Page/現場直播.md "wikilink")，為求字詞通順，此處維持原始之[日語漢字用字](https://zh.wikipedia.org/wiki/日語漢字 "wikilink")。
+2.  每逢第5週為「生放送教室」單元。
+3.  由於高橋自2019年10月4日起暫停演藝工作，該時段在2019年10月份由[西脇彩華](../Page/西脇彩華.md "wikilink")以「入學體驗生」的名義代打，隔月份起暫改為「生放送教室」時間。
+4.  部分聯播台沒有播出。
+5.  該單元由搞笑二人組「」成員主持。
+6.  [](https://www.tfm.co.jp/lock/2019/0708/)

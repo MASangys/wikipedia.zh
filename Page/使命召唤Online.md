@@ -1,4 +1,4 @@
-是一款由[美国动视旗下的](https://zh.wikipedia.org/wiki/美国动视 "wikilink")[Raven工作室制作](https://zh.wikipedia.org/wiki/Raven "wikilink")、[腾讯公司独家代理的一款](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")[第一人称射击的](https://zh.wikipedia.org/wiki/第一人称射击 "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")\[1\]。之前的测试由上海动视制作，由于动视对中国这一庞大市场保持期望，改由动视王牌工作室raven接手，腾讯公司代理。本游戏目前只在中国大陆开放，暫無全球上市的規劃。
+是一款由[美国动视旗下的](https://zh.wikipedia.org/wiki/美国动视 "wikilink")[Raven工作室制作](../Page/Raven_Software.md "wikilink")、[腾讯公司独家代理的一款](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")[第一人称射击的](https://zh.wikipedia.org/wiki/第一人称射击 "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")\[1\]。之前的测试由上海动视制作，由于动视对中国这一庞大市场保持期望，改由动视王牌工作室raven接手，腾讯公司代理。本游戏目前只在中国大陆开放，暫無全球上市的規劃。
 
 ## 游戏背景
 
@@ -383,6 +383,7 @@
   - 汤姆逊
   - 蝎式 （Vz. 61）
   - Vper
+  - MP7
 
 #### 轻机枪
 
@@ -560,12 +561,8 @@
 [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:多人線上第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:多人線上第一人稱射擊遊戲 "wikilink") [Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink") [Category:使命召唤系列电子游戏](https://zh.wikipedia.org/wiki/Category:使命召唤系列电子游戏 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.

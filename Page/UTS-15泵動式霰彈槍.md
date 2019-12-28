@@ -32,7 +32,7 @@ UTS-15的[機匣是由](https://zh.wikipedia.org/wiki/機匣 "wikilink")[碳纖�
 
 ### 握把與保險
 
-UTS-15的可以安裝任何種類的[AR-15](../Page/AR-15自動步槍.md "wikilink")／[M16步槍的手槍握把](../Page/M16突擊步槍.md "wikilink")（例如A2型），對於慣用AR-15／M16槍族的使用者來說十分上手。[扳機扣力只有](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")19[牛頓](../Page/牛頓_\(單位\).md "wikilink")（4.27[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")），而且[扳機行程很短](https://zh.wikipedia.org/wiki/扳機行程 "wikilink")。扳機上方右側部位保留選擇裝上內置式[雷射瞄準器或戰術燈的控制開關空間](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")，前方的[扳機護圈呈](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[長方形](https://zh.wikipedia.org/wiki/長方形 "wikilink")。
+UTS-15的可以安裝任何種類的[AR-15](../Page/AR-15自動步槍.md "wikilink")／[M16步槍的手槍握把](../Page/M16突擊步槍.md "wikilink")（例如A2型），對於慣用AR-15／M16槍族的使用者來說十分上手。[扳機扣力只有](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")19[牛頓](../Page/牛頓_\(單位\).md "wikilink")（4.27[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")），而且[扳機行程很短](https://zh.wikipedia.org/wiki/扳機行程 "wikilink")。扳機上方右側部位保留選擇裝上內置式[雷射瞄準器或戰術燈的控制開關空間](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")，前方的[扳機護環呈](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[長方形](https://zh.wikipedia.org/wiki/長方形 "wikilink")。
 
 旋轉式手動保險亦採用AR-15／M16步槍樣式，與AR-15／M16槍族的保險位置一樣，裝在槍身左側，位於手槍握把的上方，手動保險處可以明顯看到白色的“S”（保險）和紅色的“F”（發射）字樣。\[10\]
 
@@ -189,7 +189,7 @@ UTS-15的外型頗具有科幻色彩，因而同時出現在多隻[电影](../Pa
       - 2011年10月下號：[阿布扎比IDEX2011轻武器精选](https://web.archive.org/web/20150106103806/http://gdwap.dooland.com/article.php?id=167343)
       - 2011年11月上號：[轻武器新品展示](https://web.archive.org/web/20150106094234/http://gdwap.dooland.com/article.php?id=170062)
       - 2012年12月下號：[土耳其Utas公司UTS15型霰弹枪](https://archive.is/20140817102532/http://www.caikan.com/content/showContentInfo/19008_8a9ed184dc1b_1.html;jsessionid=0DBCB00F972B45BDB8F30C3B53A2B401)
-      - 2014年1月上號：[科幻外形：UTS-15霰弹枪](http://www.xzbu.com/8/view-4835506.htm)
+      - 2014年1月上號：[科幻外形：UTS-15霰弹枪](https://web.archive.org/web/20140203000201/http://www.xzbu.com/8/view-4835506.htm)
       - 2015年4月下號：[土耳其Utas公司UTS15霰弹枪消声型](http://mall.cnki.net/magazine/Article/QBQI201508023.htm)
 
   - —《名槍》雜誌第6卷：关于枪的那点儿事（17）
@@ -245,17 +245,14 @@ UTS-15的外型頗具有科幻色彩，因而同時出現在多隻[电影](../Pa
 [Category:泵动式霰彈槍](https://zh.wikipedia.org/wiki/Category:泵动式霰彈槍 "wikilink") [Category:土耳其槍械](https://zh.wikipedia.org/wiki/Category:土耳其槍械 "wikilink") [Category:犢牛式槍械](https://zh.wikipedia.org/wiki/Category:犢牛式槍械 "wikilink")
 
 1.  [2012 NRA Annual Meetings: UTS-15 Polymer Tactical Shotgun](http://www.youtube.com/watch?v=0-jrkDa9-pg)
-
 2.
 3.
 4.  [UTAS UTS-15](http://world.guns.ru/shotgun/tr/shotgun-utas-uts-15-e.html)
-
 5.
 6.
 7.
 8.
 9.  [UTS 15](http://utas-usa.com/product.aspx?id=12)
-
 10.
 11.
 12.
@@ -267,23 +264,13 @@ UTS-15的外型頗具有科幻色彩，因而同時出現在多隻[电影](../Pa
 18.
 19.
 20. [FRONT SIGHT ASSEMBLY](http://utas-usa.com/product.aspx?id=5)
-
 21. [REAR SIGHT](http://utas-usa.com/product.aspx?id=6)
-
 22. [TACTICAL CHOKE TUBE](http://utas-usa.com/product.aspx?id=7)
-
 23. [CYLINDER CHOKE TUBE](http://utas-usa.com/product.aspx?id=9)
-
 24. [7'5" BARREL EXTENSION](http://utas-usa.com/product.aspx?id=8)
-
 25.
-
 26. [UTAS TURK－UTS-15－UTS 15 Desert](http://www.utasturk.com/utas-turk-uts15_urunler-uts15-desert.html)
-
 27. [UTAS TURK－UTS-15－UTS 15 Marine](http://www.utasturk.com/utas-turk-uts15_urunler-uts15-marine.html)
-
 28. [UTAS TURK－UTS-15－UTS 15 Hunting](http://www.utasturk.com/utas-turk-uts15_urunler-uts15-hunting.html)
-
 29. ["NOT REC'D: UTAS UTS-15 Review" by Nutnfancy](https://www.youtube.com/watch?v=GrCBTU89kBM)
-
 30. ["NOT REC'D: UTAS UTS-15 Review" by Nutnfancy](https://www.youtube.com/watch?v=a050T2wFKAY)

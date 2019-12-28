@@ -39,7 +39,7 @@
   - 2001年度[香港電台](../Page/香港電台.md "wikilink")十大中文金曲頒獎禮－十大中文金曲獎《終身美麗》
   - 2001年度[新城電台](../Page/新城電台.md "wikilink")勁爆流行音樂頒獎禮－勁爆歌曲獎《終身美麗》
   - 2001年度馬來西亞紅人金曲獎－十大金曲獎《終身美麗》
-  - 2001年度國際唱片業協會－十大銷量廣東唱片《Shocking Pink》
+  - 2001年度國際唱片業協會－十大銷量廣東唱片《Shocking Pink》\[2\]
   - 2002年[第21屆香港電影金像獎](../Page/第21屆香港電影金像獎.md "wikilink")《最佳原創電影歌曲》 - 終身美麗（電影《瘦身男女》）
 
 ## 參考資料
@@ -47,3 +47,4 @@
 [Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink") [Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:香港華納唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:香港華納唱片音樂專輯 "wikilink")
 
 1.
+2.

@@ -844,86 +844,50 @@
 [Category:廣播劇](https://zh.wikipedia.org/wiki/Category:廣播劇 "wikilink") [Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink") [Category:HKT48](https://zh.wikipedia.org/wiki/Category:HKT48 "wikilink")
 
 1.  只限[廣島](../Page/NHK廣島放送局.md "wikilink")，只限2011年度
-
 2.  只在[French Kiss的](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")3人出演
-
 3.  只在[SKE48](../Page/SKE48.md "wikilink")的成員出演
-
 4.  只在[Not yet出演](../Page/Not_yet.md "wikilink")
-
 5.  只在[板野友美](../Page/板野友美.md "wikilink")出演
-
 6.  只在[走廊奔跑隊7出演](https://zh.wikipedia.org/wiki/走廊奔跑隊#走廊奔跑隊7 "wikilink")
-
 7.
 8.  只在出演者全員[TeamK成員](https://zh.wikipedia.org/wiki/AKB48#TeamK "wikilink")。還有「制服レジスタンス」・「ウッホウッホホ」等「RESET」在[TeamK 6th「RESET」公演的歌曲](https://zh.wikipedia.org/wiki/teamK_6th_Stage「RESET」 "wikilink")，連續劇部分插入歌和談話部分以BGM使用。
-
 9.
 10.
 11.
 12.
 13. 只在渡辺麻友出演。
-
 14. 只在指原莉乃出演。
-
 15. 只在DiVA出演。
-
 16.
 17. 只在NMB48成員出演。
-
 18.
 19.
 20.
 21. 只在NONAME出演。
-
 22.
 23. 只在アンリレ(入山、加藤、川栄)出演。
-
 24.
 25. 標題是[DiVA](../Page/DiVA.md "wikilink")。
-
 26. 「カッコ悪いI love you\!」的c/w曲的題名
-
 27. 標題和情節是從「[特命係長・只野仁](https://zh.wikipedia.org/wiki/特命係長・只野仁 "wikilink")」
-
 28. 情節是[轉校生 (電影)](../Page/轉校生_\(電影\).md "wikilink")、標題是赤川次郎的同名小説
-
 29. 標題和情節是板野的單曲和歌詞
-
 30. 主題是「[凡爾賽玫瑰](../Page/凡爾賽玫瑰.md "wikilink")」
-
 31. 延長50分鍾(星期五・21:10-22:40)・直播
-
 32. 標題是走廊奔跑隊7的「へたっぴウインク」
-
 33. 標題是SKE48的「翡翠色的沙灘裙」
-
 34. 標題是第4話「遠い灯り」登場廣播節目。本編是第4話的續編。
-
 35. 標題是藤江初次在劇場公演出演時的粉絲呼叫。当時藤江的名不是全部人知道。
-
 36. 標題是「[Team S 3rd Stage「制服之芽」公演](../Page/Team_S_3rd_Stage「制服之芽」.md "wikilink")」的樂曲
-
 37. 標題是「崇尚麻里子」。星期五21:00 - 22:40的1小時延長SP。
-
 38. 標題是「單戀Finally」的c/w曲的標題
-
 39. 出演成員是渡辺麻・山本・渡辺的3人在2012年3月中從高中畢業。
-
 40. 上西・山本・渡辺美是[NMB48](../Page/NMB48.md "wikilink")成員首次出演。
-
 41. 標題是指原莉乃的出道單曲。
-
 42. 標題是DiVA的單曲
-
 43. 標題是Not yet的單曲「西瓜BABY」。
-
 44.
-
 45. 本来在8月31日21:10 - 22:40的延長直播預定開始播放，但附近發生地震並發出海嘯注意警報。
-
 46. 10組の2人芝居行。5組ずつ紅組、白組に分かれてどちらの組のドラマが面白いかを競う。
-
 47. 標題是[NO NAME的單曲](https://zh.wikipedia.org/wiki/NO_NAME_\(組合\) "wikilink")。
-
 48. 標題的一部份是引用NMB48的單曲。

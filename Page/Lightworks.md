@@ -61,13 +61,13 @@ Lightworks 的控制界面类似于行业标准 [Steenbeck](https://zh.wikipedia
 5.
 6.
 7.
-8.  <http://www.interlab-net.com/docs/lightworks/Press_Releases/First%20major%20order%20for%20Lightworks%20under%20new%20ownership.pdf>
-9.  <http://www.interlab-net.com/docs/lightworks/Press_Releases/LWKS_PR_version2.pdf>
-10. <http://www.interlab-net.com/docs/lightworks/Press_Releases/PR-1_Product_launch@IBC.pdf>
-11. <http://www.interlab-net.com/docs/lightworks/Press_Releases/PR-3_editors_feel_back.pdf>
+8.
+9.
+10.
+11.
 12.
-13. <http://www.interlab-net.com/docs/lightworks/Lightworks_Alacrity_MR.pdf>
-14. <http://www.interlab-net.com/docs/lightworks/lw_user%20doc/Softworks&Alacrity_Manual_rev_4.pdf>
+13.
+14.
 15.
 16. <http://www.editshare.com/index.php?option=com_content&view=article&id=126:editshare-acquires-geevs-and-lightworks-technology&catid=43:press-releases&Itemid=184>
 17. [Press Release](http://www.editshare.com/index.php?option=com_content&task=view&id=164&Itemid=146)

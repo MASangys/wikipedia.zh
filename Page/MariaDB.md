@@ -45,7 +45,7 @@ MariaDB直到5.5版本，均依照MySQL的版本。因此，使用MariaDB5.5的�
 <tr class="even">
 <td></td>
 <td><p>[13]</p></td>
-<td><p>5.5.65</p></td>
+<td><p>5.5.66</p></td>
 <td><p>[14]</p></td>
 <td><p>Stable (GA)</p></td>
 </tr>
@@ -59,32 +59,39 @@ MariaDB直到5.5版本，均依照MySQL的版本。因此，使用MariaDB5.5的�
 <tr class="even">
 <td></td>
 <td><p>[17]</p></td>
-<td><p>10.1.41</p></td>
+<td><p>10.1.43</p></td>
 <td><p>[18]</p></td>
 <td><p>Stable (GA)</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>[19]</p></td>
-<td><p>10.2.27</p></td>
+<td><p>10.2.29</p></td>
 <td><p>[20]</p></td>
 <td><p>Stable (GA)</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>[21]</p></td>
-<td><p>10.3.18</p></td>
+<td><p>10.3.20</p></td>
 <td><p>[22]</p></td>
 <td><p>Stable (GA)</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>[23]</p></td>
-<td><p>10.4.8</p></td>
+<td><p>10.4.10</p></td>
 <td><p>[24]</p></td>
 <td><p>Stable (GA)</p></td>
 </tr>
 <tr class="even">
+<td></td>
+<td><p>[25]</p></td>
+<td><p>10.5.0</p></td>
+<td><p>[26]</p></td>
+<td><p>Alpha</p></td>
+</tr>
+<tr class="odd">
 <td><p><small></small></p></td>
 <td></td>
 <td></td>
@@ -96,7 +103,7 @@ MariaDB直到5.5版本，均依照MySQL的版本。因此，使用MariaDB5.5的�
 
 ## 第三方软件
 
-MariaDB的API和协议兼容MySQL，另外又-{zh-hans:添加; zh-tw:新增}-了一些功能，以支持原生的非阻塞操作和进度报告。这意味着，所有使用MySQL的连接器、程式库和应用程序也将可以在MariaDB下工作。在此基础上，由于担心甲骨文MySQL的一个更加封闭的软件项目，Fedora等Linux发行版已经在最新版本中以MariaDB取代MySQL\[25\]，维基媒体基金会的服务器同样也使用MariaDB取代了MySQL\[26\]。
+MariaDB的API和协议兼容MySQL，另外又-{zh-hans:添加; zh-tw:新增}-了一些功能，以支持原生的非阻塞操作和进度报告。这意味着，所有使用MySQL的连接器、程式库和应用程序也将可以在MariaDB下工作。在此基础上，由于担心甲骨文MySQL的一个更加封闭的软件项目，Fedora等Linux发行版已经在最新版本中以MariaDB取代MySQL\[27\]，维基媒体基金会的服务器同样也使用MariaDB取代了MySQL\[28\]。
 
 如下是支持MariaDB的工具：
 
@@ -104,17 +111,17 @@ MariaDB的API和协议兼容MySQL，另外又-{zh-hans:添加; zh-tw:新增}-了
 
   - [DBEdit](../Page/DBEdit.md "wikilink") 一个免费的MariaDB数据库和其他数据库管理应用程序。
   - [Navicat](../Page/Navicat.md "wikilink") 一系列Windows、Mac OS X、Linux下专有数据库管理应用程序。
-  - [HeidiSQL](../Page/HeidiSQL.md "wikilink") 一个Windows上自由和开放源码的MySQL客户端。它支持MariaDB的5.2.7版本和以后的版本。\[27\]\[28\]
+  - [HeidiSQL](../Page/HeidiSQL.md "wikilink") 一个Windows上自由和开放源码的MySQL客户端。它支持MariaDB的5.2.7版本和以后的版本。\[29\]\[30\]
   - [phpMyAdmin](https://zh.wikipedia.org/wiki/phpMyAdmin "wikilink") 一个基于网络的MySQL数据库管理应用程序
 
 ### 应用
 
-以下应用程序对MariaDB给予官方支持：\[29\]
+以下应用程序对MariaDB给予官方支持：\[31\]
 
   - [Drupal](../Page/Drupal.md "wikilink")
   - [ERP5](https://zh.wikipedia.org/wiki/ERP5 "wikilink")
   - [Kajona](https://zh.wikipedia.org/wiki/Kajona "wikilink")
-  - [MediaWiki](../Page/MediaWiki.md "wikilink")
+  - [MediaWiki](https://zh.wikipedia.org/wiki/MediaWiki "wikilink")
   - [Moodle](../Page/Moodle.md "wikilink")
   - [MONyog](https://zh.wikipedia.org/wiki/MONyog "wikilink")
   - [ownCloud](https://zh.wikipedia.org/wiki/ownCloud "wikilink")
@@ -126,22 +133,22 @@ MariaDB的API和协议兼容MySQL，另外又-{zh-hans:添加; zh-tw:新增}-了
 ## 重要用户
 
   - [LAMP stack](../Page/LAMP.md "wikilink")
-  - [Arch Linux](../Page/Arch_Linux.md "wikilink")\[30\]
-  - [Chakra Linux](https://zh.wikipedia.org/wiki/Chakra_Linux "wikilink")\[31\]
-  - [Fedora](../Page/Fedora.md "wikilink")（从Fedora 19起）\[32\]
-  - [GentOS Linux](https://zh.wikipedia.org/wiki/GentOS_Linux "wikilink")\[33\]
-  - [Google](../Page/Google.md "wikilink")\[34\]\[35\]
-  - [Mozilla基金会](https://zh.wikipedia.org/wiki/Mozilla基金会 "wikilink")\[36\]
-  - [OpenBSD](../Page/OpenBSD.md "wikilink")\[37\]\[38\] (from 5.7)
-  - [openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")（从openSUSE 12.3起）\[39\]
+  - [Arch Linux](../Page/Arch_Linux.md "wikilink")\[32\]
+  - [Chakra Linux](https://zh.wikipedia.org/wiki/Chakra_Linux "wikilink")\[33\]
+  - [Fedora](../Page/Fedora.md "wikilink")（从Fedora 19起）\[34\]
+  - [GentOS Linux](https://zh.wikipedia.org/wiki/GentOS_Linux "wikilink")\[35\]
+  - [Google](../Page/Google.md "wikilink")\[36\]\[37\]
+  - [Mozilla基金会](https://zh.wikipedia.org/wiki/Mozilla基金会 "wikilink")\[38\]
+  - [OpenBSD](../Page/OpenBSD.md "wikilink")\[39\]\[40\] (from 5.7)
+  - [openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")（从openSUSE 12.3起）\[41\]
   - [Oracle Linux](../Page/Oracle_Linux.md "wikilink")（从第7版起）
-  - [Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")（从RHEL 7起）\[40\]
-  - [Slackware](../Page/Slackware.md "wikilink")\[41\]
-  - [SaltOS](https://zh.wikipedia.org/wiki/SaltOS "wikilink")\[42\]
-  - [Web Of Trust](https://zh.wikipedia.org/wiki/WOT:_Web_of_Trust "wikilink")\[43\]
-  - [WPN-XM](https://zh.wikipedia.org/wiki/WPN-XM "wikilink")\[44\]
-  - [Zimbra](https://zh.wikipedia.org/wiki/Zimbra "wikilink")（从8.5起）\[45\]
-  - [维基媒体基金会](../Page/维基媒体基金会.md "wikilink")\[46\]
+  - [Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")（从RHEL 7起）\[42\]
+  - [Slackware](../Page/Slackware.md "wikilink")\[43\]
+  - [SaltOS](https://zh.wikipedia.org/wiki/SaltOS "wikilink")\[44\]
+  - [Web Of Trust](https://zh.wikipedia.org/wiki/WOT:_Web_of_Trust "wikilink")\[45\]
+  - [WPN-XM](https://zh.wikipedia.org/wiki/WPN-XM "wikilink")\[46\]
+  - [Zimbra](https://zh.wikipedia.org/wiki/Zimbra "wikilink")（从8.5起）\[47\]
+  - [维基媒体基金会](../Page/维基媒体基金会.md "wikilink")\[48\]
 
 ## 参阅
 
@@ -183,18 +190,18 @@ MariaDB的API和协议兼容MySQL，另外又-{zh-hans:添加; zh-tw:新增}-了
 22.
 23.
 24.
-25. [Features / Replace MySQL with MariaDB](https://fedoraproject.org/wiki/Features/ReplaceMySQLwithMariaDB), 2013-01-21
+25.
 26.
-27.
-28. [MariaDB 5.2.7 released\!](http://askmonty.org/blog/mariadb-5-2-7-released/) , Monty Program Group Blog
+27. [Features / Replace MySQL with MariaDB](https://fedoraproject.org/wiki/Features/ReplaceMySQLwithMariaDB), 2013-01-21
+28.
 29.
-30. <https://www.archlinux.org/news/mariadb-replaces-mysql-in-repositories/> Arch Linux News - 25 March 2013 *MariaDB replaces MySQL in repositories*
+30. [MariaDB 5.2.7 released\!](http://askmonty.org/blog/mariadb-5-2-7-released/) , Monty Program Group Blog
 31.
-32.
-33. '
-34. '
-35.
-36.
+32. <https://www.archlinux.org/news/mariadb-replaces-mysql-in-repositories/> Arch Linux News - 25 March 2013 *MariaDB replaces MySQL in repositories*
+33.
+34.
+35. '
+36. '
 37.
 38.
 39.
@@ -205,3 +212,5 @@ MariaDB的API和协议兼容MySQL，另外又-{zh-hans:添加; zh-tw:新增}-了
 44.
 45.
 46.
+47.
+48.

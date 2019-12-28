@@ -294,72 +294,38 @@
 [Category:金賢重專輯](https://zh.wikipedia.org/wiki/Category:金賢重專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:環球唱片音樂專輯 "wikilink")
 
 1.
-
 2.  dwango.jp / Music.jp / YAMAHA My Sound
-
 3.  環球音樂官方手機網站 / Rekochoku / Music.jp / dwango.jp / JOYSOUND / Oricon Style / TSUTAYA Premiere / YAMAHA My Sound / MUSICO♪ / HAPPY！うた♪/ 着信★うた♪フル/ mu-mo
-
 4.  在iTunes Store / mora / Rekochoku / music.jp
-
 5.  於iTunes Store / mora / Rekochoku / music.jp / dwango.jp / JOYSOUND / Oricon Style / TSUTAYA Premiere / YAMAHA My Sound / ミュージコ♪ 等
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16. 日間統計日期：(Your Story)2012年11月28日(Save Today、I'm Yours)2012年12月12日／周間統計日期：(Your Story)2012年11月28日-12月4日(5日)
-
 17.
-
 18.
-
 19.
-
 20. Your Story日間統計日期：2012年12月05日，周間統計日期：2012年12月05日-12月11日／Save Today、I'm Yours日間統計日期：2012年12月12日，周間統計日期：2012年12月12日-12月18日
-
 21. UNLIMITED全輯音源於mora周間（2012年12月12日-12月18日）日本音樂排名第100名
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.

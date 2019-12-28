@@ -1,6 +1,6 @@
 **SIG P226**是一系列由[德国](../Page/德国.md "wikilink")槍械公司[西格&紹爾](../Page/西格&紹爾.md "wikilink")所研製及生產的全尺寸軍用型[半自動手槍](../Page/半自動手槍.md "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[.40 S\&W](../Page/.40_S&W.md "wikilink")、[.357 SIG和](../Page/.357_SIG.md "wikilink")[.22 LR這四種](../Page/.22_LR.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
-它實質上使用了與[SIG P220相同的基本設計](../Page/SIG_P220手槍.md "wikilink")，只是發展為使用更大容量的雙排交錯並列式[彈匣](../Page/彈匣.md "wikilink")所取代原來P220所使用的單排彈匣。而P226本身亦進一步地衍生出其緊湊衍生型，[P228](https://zh.wikipedia.org/wiki/SIG_P228半自動手槍 "wikilink")、[P229和](https://zh.wikipedia.org/wiki/SIG_P229半自動手槍 "wikilink")[P224都是以雙排交錯並列式彈匣供彈的P](https://zh.wikipedia.org/wiki/SIG_P224半自動手槍 "wikilink")226設計的緊湊型版本。SIG Sauer P226以及其衍生型在世界各地多個[執法機關和](../Page/警察.md "wikilink")[軍事組織](../Page/軍事組織.md "wikilink")之中服役。\[1\]
+它實質上使用了與[SIG P220相同的基本設計](../Page/SIG_P220手槍.md "wikilink")，只是發展為使用更大容量的雙排交錯並列式[彈匣](../Page/彈匣.md "wikilink")所取代原來P220所使用的單排彈匣。而P226本身亦進一步地衍生出其緊湊衍生型，[P228](../Page/SIG_P228半自動手槍.md "wikilink")、[P229和](../Page/SIG_P229半自動手槍.md "wikilink")[P224都是以雙排交錯並列式彈匣供彈的P](https://zh.wikipedia.org/wiki/SIG_P224半自動手槍 "wikilink")226設計的緊湊型版本。SIG Sauer P226以及其衍生型在世界各地多個[執法機關和](../Page/警察.md "wikilink")[軍事組織](../Page/軍事組織.md "wikilink")之中服役。\[1\]
 
 ## 歷史
 
@@ -182,7 +182,7 @@ P226經典型22不能夠與[西格&紹爾Mosquito](../Page/SIG蚊子半自動手
 
 ### DAK型扳機版本
 
-[THP_SIG_P226_DAK.png](https://zh.wikipedia.org/wiki/File:THP_SIG_P226_DAK.png "fig:THP_SIG_P226_DAK.png") 西格&紹爾亦推出了修改過的[純雙動操作（DAO）版本的手槍](https://zh.wikipedia.org/wiki/扳機 "wikilink")，並且命名為DAK（，意為：凱勒曼的雙動操作，Kellerman為該扳機系統的設計者）。[P220](../Page/SIG_P220手槍.md "wikilink")、P226、[P229和](https://zh.wikipedia.org/wiki/SIG_P229半自動手槍 "wikilink")[P239型號皆有DAK型版本](../Page/SIG_P239手槍.md "wikilink")。當手槍首發射擊的時候，其[扳機扣力為](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")29牛頓（6.5磅力），比標準純雙動操作扳機為44牛頓（10磅力）較輕。當開槍以後而扳機正向前釋放的時候，扳機有一個設置於中間的復位點，大約是在扳機靜止位置一半。扳機在這中間的復位點的[扳機扣力是](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")38牛頓（8.5磅力）。如果完全釋放扳機到最前端的位置，這會讓扳機復位到主要扳機復位置，然後[扳機扣力回復到](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")29牛頓（6.5磅力）。要將扳機拉到中間復位的話，扳機必須要在[套筒通過手動拉動方式或是已經發射的](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[子彈](../Page/子彈.md "wikilink")的[後座力](../Page/後座力.md "wikilink")以下復進的時候一直拉動到後方。這手槍型號可以通過扣動扳機到超過扳機復位位置，然後停止，然後釋放到最前端的位置以完成待擊。這個有可能是一個無意的設計上的缺陷。
+[THP_SIG_P226_DAK.png](https://zh.wikipedia.org/wiki/File:THP_SIG_P226_DAK.png "fig:THP_SIG_P226_DAK.png") 西格&紹爾亦推出了修改過的[純雙動操作（DAO）版本的手槍](https://zh.wikipedia.org/wiki/扳機 "wikilink")，並且命名為DAK（，意為：凱勒曼的雙動操作，Kellerman為該扳機系統的設計者）。[P220](../Page/SIG_P220手槍.md "wikilink")、P226、[P229和](../Page/SIG_P229半自動手槍.md "wikilink")[P239型號皆有DAK型版本](../Page/SIG_P239手槍.md "wikilink")。當手槍首發射擊的時候，其[扳機扣力為](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")29牛頓（6.5磅力），比標準純雙動操作扳機為44牛頓（10磅力）較輕。當開槍以後而扳機正向前釋放的時候，扳機有一個設置於中間的復位點，大約是在扳機靜止位置一半。扳機在這中間的復位點的[扳機扣力是](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")38牛頓（8.5磅力）。如果完全釋放扳機到最前端的位置，這會讓扳機復位到主要扳機復位置，然後[扳機扣力回復到](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")29牛頓（6.5磅力）。要將扳機拉到中間復位的話，扳機必須要在[套筒通過手動拉動方式或是已經發射的](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[子彈](../Page/子彈.md "wikilink")的[後座力](../Page/後座力.md "wikilink")以下復進的時候一直拉動到後方。這手槍型號可以通過扣動扳機到超過扳機復位位置，然後停止，然後釋放到最前端的位置以完成待擊。這個有可能是一個無意的設計上的缺陷。
 
 ### P228（M11）
 
@@ -995,10 +995,10 @@ SIG P226同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧
   - [貝瑞塔M9手槍](../Page/貝瑞塔M9手槍.md "wikilink")
   - [FN HP-DA](../Page/白朗寧雙動半自動手槍.md "wikilink")
   - [HK P9S](https://zh.wikipedia.org/wiki/HK_P9S半自動手槍 "wikilink")
-  - [史密斯威森M459](https://zh.wikipedia.org/wiki/史密斯威森M459半自動手槍 "wikilink")
+  - [史密斯威森M459](../Page/史密斯威森M459半自動手槍.md "wikilink")
   - [SIG P227](../Page/SIG_P227半自動手槍.md "wikilink")
-  - [SIG P228](https://zh.wikipedia.org/wiki/SIG_P228半自動手槍 "wikilink")
-  - [SIG P229](https://zh.wikipedia.org/wiki/SIG_P229半自動手槍 "wikilink")
+  - [SIG P228](../Page/SIG_P228半自動手槍.md "wikilink")
+  - [SIG P229](../Page/SIG_P229半自動手槍.md "wikilink")
   - [SIG P224](https://zh.wikipedia.org/wiki/SIG_P224半自動手槍 "wikilink")
   - [SIG P230](../Page/SIG_P230手槍.md "wikilink")
 

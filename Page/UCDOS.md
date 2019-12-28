@@ -40,21 +40,13 @@ UCDOS 使用[GB2312编码](https://zh.wikipedia.org/wiki/GB2312 "wikilink")，�
 [Category:中文软件](https://zh.wikipedia.org/wiki/Category:中文软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.
-
 11.

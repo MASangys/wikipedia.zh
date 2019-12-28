@@ -26,7 +26,7 @@
 
 2018年2月7日，燦烈與[EXO](../Page/EXO.md "wikilink")成員[世勳一同參加於首爾清潭舉辦的Prada](../Page/Sehun.md "wikilink") Comics快閃店酒會。\[20\]同月，燦烈與[TRAX的Jay共同參與](https://zh.wikipedia.org/wiki/TRAX "wikilink")[MBC偶像明星運動會的男子保齡球項目](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")，以總分157分奪得金牌。5月12日，燦烈確定出演將於11月在[tvN播出的](https://zh.wikipedia.org/wiki/tvN "wikilink")《[阿爾罕布拉宮的回憶](../Page/阿爾罕布拉宮的回憶_\(電視劇\).md "wikilink")》並飾演鄭世周，一位因小時候受到傷害而緊閉心門的天才程序員。\[21\]6月，燦烈出演樂天免稅店的網絡劇《女神締造者》\[22\]。9月14日，燦烈與[世勳合唱的歌曲](../Page/Sehun.md "wikilink")《We Young》透過[STATION X 0發佈](../Page/SM_STATION.md "wikilink")。《We Young》於17 個國家的 iTunes 綜合單曲榜上拿下冠軍，同時亦拿下中國的蝦米音樂綜合榜第一名\[23\]。
 
-2019年2月，燦烈再次參與《[偶像明星運動會](../Page/偶像明星運動會.md "wikilink")》的男子保齡球項目並以217分奪得金牌\[24\]。4月25日，燦烈经由[SM STATION第三季發行首支独唱曲](../Page/SM_STATION.md "wikilink")《SSFW（春夏秋冬）》 ，同时发布中日韓三個语言版本。6月28日，[SM娛樂](../Page/SM娛樂.md "wikilink")宣佈燦烈將與[世勳組成EXO第二個小分隊](../Page/Sehun.md "wikilink")[EXO-SC](../Page/EXO-SC.md "wikilink")並將於7月22日發行首張迷你專輯《What a life》出道\[25\]。9月25日，燦烈出席於首爾中區獎忠洞獎忠體育館舉辦的世界知識論壇，並於“技術創新的未來 - 未來娛樂世界”的項目中説出自己的想法\[26\]。
+2019年2月，燦烈再次參與《[偶像明星運動會](../Page/偶像明星運動會.md "wikilink")》的男子保齡球項目並以217分奪得金牌\[24\]。4月25日，燦烈经由[SM STATION第三季發行首支独唱曲](../Page/SM_STATION.md "wikilink")《SSFW（春夏秋冬）》 ，同时发布中日韓三個语言版本。6月28日，[SM娛樂](../Page/SM娛樂.md "wikilink")宣佈燦烈將與[世勳組成EXO第二個小分隊](../Page/Sehun.md "wikilink")[EXO-SC](../Page/EXO-SC.md "wikilink")並將於7月22日發行首張迷你專輯《What a life》出道\[25\]。9月25日，燦烈出席於首爾中區獎忠洞獎忠體育館舉辦的世界知識論壇，並於“技術創新的未來 - 未來娛樂世界”的項目中説出自己的想法\[26\]。 12月8日，燦烈於第1屆騰訊音樂娛樂盛典中獲得“最受歡迎海外藝人”獎項。\[27\]
 
 ## 個人生活
 
@@ -106,7 +106,7 @@
 <td></td>
 <td></td>
 <td><p>Rap填詞</p></td>
-<td><p>[27]</p></td>
+<td><p>[28]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Run</p></td>
@@ -464,7 +464,7 @@
 | 2013年12月20日 - 2014年1月17日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》                      | 密克羅尼西亞篇   |
 | 2014年5月4日－9月14日          | 《[Roommate](../Page/Roommate.md "wikilink")》        |                                                             |           |
 | 2015年8月21日－9月4日          | 《[叢林的法則](../Page/叢林的法則.md "wikilink")》              | 汶萊篇                                                         |           |
-| 2018年5月26日 - 6月30日       | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[心酸旅行](https://zh.wikipedia.org/wiki/窮遊 "wikilink")》\[28\] | 美國LA和舊金山篇 |
+| 2018年5月26日 - 6月30日       | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[心酸旅行](https://zh.wikipedia.org/wiki/窮遊 "wikilink")》\[29\] | 美國LA和舊金山篇 |
 
 ### 主持
 
@@ -479,7 +479,7 @@
 | 2013年11月14日 | KBS Joy                                                                                                                                 | [MelOn Music Awards 2013](../Page/甜瓜音樂獎.md "wikilink")             | 與[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")、[Baekhyun](../Page/伯賢.md "wikilink")、[Kai](https://zh.wikipedia.org/wiki/金鐘仁 "wikilink")、[李侑菲](../Page/李侑菲.md "wikilink") |
 | 2015年5月2日   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                                                                                     | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink") | 特別MC                                                                                                                                                                            |
 | 2016年12月29日 | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")                                                                               | [KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink")                           | 後台MC                                                                                                                                                                            |
-| 2017年12月29日 | \[29\]                                                                                                                                  |                                                                    |                                                                                                                                                                                 |
+| 2017年12月29日 | \[30\]                                                                                                                                  |                                                                    |                                                                                                                                                                                 |
 | 2018年4月5日   | V LIVE                                                                                                                                  | \!t Live Grand Opening Special with Hyundai SOLATI Moving Studio   | 與[Wendy (Red Velvet)](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[利特](../Page/利特.md "wikilink")                                                                                |
 | 2018年11月17日 | MBC                                                                                                                                     | Show\! 音樂中心                                                        | 特別MC                                                                                                                                                                            |
 | 2018年12月28日 | KBS2                                                                                                                                    | KBS歌謠盛典                                                            | 與[多賢](../Page/多賢.md "wikilink")（[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")）、[金碩珍](../Page/金碩珍.md "wikilink")（[防彈少年團](../Page/防彈少年團.md "wikilink")）                 |
@@ -512,22 +512,22 @@
 |              |                                         |                  |
 | ------------ | --------------------------------------- | ---------------- |
 | 期數           | 雜誌名稱                                    | 備注               |
-| 2014年9月刊     | ELLE MEN                                | 與Lay、Sehun\[30\] |
+| 2014年9月刊     | ELLE MEN                                | 與Lay、Sehun\[31\] |
 | 2014年11月刊    | The Celebrity                           |                  |
-| 2015年8月刊     | Ceci                                    | 與Sehun\[31\]     |
-| 2016年5月刊     | Allure\[32\]                            |                  |
+| 2015年8月刊     | Ceci                                    | 與Sehun\[32\]     |
+| 2016年5月刊     | Allure\[33\]                            |                  |
 | 2016年7月刊     | Vivi                                    |                  |
-| Femina       | 與[袁姍姍](../Page/袁姗姗.md "wikilink")\[33\] |                  |
-| 2017年2月刊     | Ceci\[34\]                              |                  |
-| 2017年4月刊     | L'Officiel Hommes\[35\]                 |                  |
-| 2017年 Vol.42 | Haru\*Hana\[36\]                        |                  |
-| 2017年10月刊    | The Celebrity\[37\]                     |                  |
-| 2017年11月刊    | W Korea\[38\]                           |                  |
-| Vogue\[39\]  |                                         |                  |
-| 2017年12月刊    | 韓流ぴあ（韓流 Pia）\[40\]                      |                  |
-| 2018年1月刊     | 韓流旋風                                    | 與Kai\[41\]       |
+| Femina       | 與[袁姍姍](../Page/袁姗姗.md "wikilink")\[34\] |                  |
+| 2017年2月刊     | Ceci\[35\]                              |                  |
+| 2017年4月刊     | L'Officiel Hommes\[36\]                 |                  |
+| 2017年 Vol.42 | Haru\*Hana\[37\]                        |                  |
+| 2017年10月刊    | The Celebrity\[38\]                     |                  |
+| 2017年11月刊    | W Korea\[39\]                           |                  |
+| Vogue\[40\]  |                                         |                  |
+| 2017年12月刊    | 韓流ぴあ（韓流 Pia）\[41\]                      |                  |
+| 2018年1月刊     | 韓流旋風                                    | 與Kai\[42\]       |
 | 2018年5月刊     | 時尚健康                                    | 封面               |
-| 2018年10月刊    | Vogue Korea\[42\]                       |                  |
+| 2018年10月刊    | Vogue Korea\[43\]                       |                  |
 | 2019年3月刊     | W Korea                                 |                  |
 | 2019年4月刊     |                                         |                  |
 | 2019年7月刊     | 與Sehun、封面                               |                  |
@@ -623,6 +623,13 @@
 <td><p>Stay With Me</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>第1屆騰訊音樂娛樂盛典</p></td>
+<td><p>最受歡迎海外藝人</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -637,7 +644,7 @@
 <tr class="even">
 <td><p>2016年</p></td>
 <td><ul>
-<li>K-Pop一百張最帥面孔 第24位[43]</li>
+<li>K-Pop一百張最帥面孔 第24位[44]</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -651,14 +658,14 @@
 <tr class="even">
 <td><p>2018年</p></td>
 <td><ul>
-<li>第14屆<a href="https://zh.wikipedia.org/wiki/MBC偶像明星運動會" title="wikilink">MBC偶像明星運動會男子保齡球項目</a> - 金牌（與<a href="https://zh.wikipedia.org/wiki/TRAX" title="wikilink">TRAX</a> - Jay）[44]</li>
+<li>第14屆<a href="https://zh.wikipedia.org/wiki/MBC偶像明星運動會" title="wikilink">MBC偶像明星運動會男子保齡球項目</a> - 金牌（與<a href="https://zh.wikipedia.org/wiki/TRAX" title="wikilink">TRAX</a> - Jay）[45]</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
 <td><ul>
 <li>第16屆<a href="https://zh.wikipedia.org/wiki/MBC偶像明星運動會" title="wikilink">MBC偶像明星運動會男子保齡球項目</a> - 金牌</li>
-<li>TC Candler 亞太區100張最帥面孔 第18名[45]</li>
+<li>TC Candler 亞太區100張最帥面孔 第18名[46]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -728,3 +735,4 @@
 43.
 44.
 45.
+46.

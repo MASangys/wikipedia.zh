@@ -60,7 +60,7 @@
 
 ## 外部連結
 
-  - [Ray GENEON UNIVERSAL OFFICIAL SITE](http://www.geneonuniversal.jp/rondorobe/music/ray/)
+  - [Ray GENEON UNIVERSAL OFFICIAL SITE](https://web.archive.org/web/20121031194300/http://www.geneonuniversal.jp/rondorobe/music/ray/)
 
   - [Ray WarnerHomeVideo Official Website](http://www.whv-amusic.com/ray/)
 

@@ -163,17 +163,12 @@ AVCA-49741/B</p></td>
 [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:渡邊製作事務所藝人](https://zh.wikipedia.org/wiki/Category:渡邊製作事務所藝人 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
 9.
 10.

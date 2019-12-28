@@ -60,7 +60,7 @@ Kel-Tec已計劃製成四個版本，分別有不同的槍管長度、總長度�
 
   - —《輕兵器》雜誌—
 
-      - 2007年9月上號：[志在创新的卡尔特克RFB无托式步枪](http://www.xzbu.com/8/view-1052156.htm)
+      - 2007年9月上號：[志在创新的卡尔特克RFB无托式步枪](https://web.archive.org/web/20140301100409/http://www.xzbu.com/8/view-1052156.htm)
       - 2013年7月上號：[知名公司轻武器新品精选（下）](http://mall.cnki.net/magazine/Article/QBQI201313003.htm)
       - 2015年5月下號：[无托步枪今昔之路](https://archive.is/20150603114523/http://gdwap.dooland.com/article.php?id=663727)
 

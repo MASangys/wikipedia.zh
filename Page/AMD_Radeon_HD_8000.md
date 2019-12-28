@@ -1096,21 +1096,14 @@ Boost: 720</p></td>
 
 ## 外部連結
 
-[Category:AMD圖形處理器](https://zh.wikipedia.org/wiki/Category:AMD圖形處理器 "wikilink") [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
+[Category:AMD圖形處理器](https://zh.wikipedia.org/wiki/Category:AMD圖形處理器 "wikilink")
 
 1.  [代号Sea Islands AMD 下一代GPU曝光](http://www.beareyes.com.cn/2/lib/201112/31/20111231291.htm) - 小熊線上
-
 2.  [Radeon HD 8000/8000M正式发布 桌面全是马甲](http://news.mydrivers.com/1/251/251716_all.htm) - mydrivers.com
-
 3.  [AMD Radeon™ HD 8000 Series Graphics (OEM)](http://www.amd.com/us/products/desktop/graphics/8000/pages/8000-series.aspx#2) - amd.com
-
 4.  <http://www.amd.com/US/PRODUCTS/DESKTOP/GRAPHICS/8000/Pages/8670.aspx#2>
-
 5.  <http://www.3dcenter.org/news/amd-bringt-keine-neuen-desktop-grafikkarten-vor-dem-vierten-quartal>
-
 6.  <http://www.youtube.com/watch?feature=player_embedded&v=ueHW0bJuZPQ>
-
 7.
 8.  <http://www.heise.de/newsticker/meldung/AMD-startet-Notebook-Grafikserie-Radeon-HD-8000M-1770795.html>
-
 9.  <http://www.amd.com/us/Documents/AMD-Radeon-HD-8000M-Series-GPU-Specs.pdf>

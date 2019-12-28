@@ -68,7 +68,7 @@ VS系列</p></td>
 <td><p><a href="../Page/松本寬也.md" title="wikilink"><font color=black>松本寬也</font></a></p></td>
 <td><p>小津翼</p></td>
 <td><p>魔法黃</p></td>
-<td><p><a href="../Page/何志威.md" title="wikilink"><font color=black>何志威</font></a></p></td>
+<td><p><a href="../Page/賀宇傑.md" title="wikilink"><font color=black>賀宇傑</font></a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -141,7 +141,7 @@ VS系列</p></td>
 <td><p>小津勇</p></td>
 <td><p>魔導騎士<br />
 ·烏薩德</p></td>
-<td><p><a href="../Page/梁興昌.md" title="wikilink"><font color=black>梁興昌</font></a></p></td>
+<td><p><a href="../Page/賀宇傑.md" title="wikilink"><font color=black>賀宇傑</font></a></p></td>
 </tr>
 </tbody>
 </table>
@@ -151,11 +151,11 @@ VS系列</p></td>
 | 演員/配音                                                         | 角色     | 代號    | 台灣配音員                                                                        |
 | ------------------------------------------------------------- | ------ | ----- | ---------------------------------------------------------------------------- |
 |                                                               |        |       |                                                                              |
-| [<font color=white>載寧龍二</font>](../Page/載寧龍二.md "wikilink")   | 赤座伴番   | 刑事紅   | [<font color=white>吳文民</font>](../Page/吳文民.md "wikilink")                    |
+| [<font color=white>載寧龍二</font>](../Page/載寧龍二.md "wikilink")   | 赤座伴番   | 刑事紅   | [<font color=white>林谷珍</font>](../Page/林谷珍.md "wikilink")                    |
 |                                                               |        |       |                                                                              |
 | [<font color=white>林剛史</font>](../Page/林剛史.md "wikilink")     | 戶增寶兒   | 刑事藍   | [<font color=white>賀宇傑</font>](../Page/賀宇傑.md "wikilink")                    |
 |                                                               |        |       |                                                                              |
-| [<font color=white>伊藤陽祐</font>](../Page/伊藤陽佑.md "wikilink")   | 江成仙一   | 刑事綠   | [<font color=white>吳文民</font>](../Page/吳文民.md "wikilink")                    |
+| [<font color=white>伊藤陽祐</font>](../Page/伊藤陽佑.md "wikilink")   | 江成仙一   | 刑事綠   | [<font color=white>林谷珍</font>](../Page/林谷珍.md "wikilink")                    |
 |                                                               |        |       |                                                                              |
 | [<font color=black>木下亞由美</font>](../Page/木下亞由美.md "wikilink") | 禮紋茉莉花  | 刑事黃   | [<font color=black>傅其慧</font>](../Page/傅其慧.md "wikilink")                    |
 |                                                               |        |       |                                                                              |
@@ -163,7 +163,7 @@ VS系列</p></td>
 |                                                               |        |       |                                                                              |
 | [<font color=blue>吉田友一</font>](../Page/吉田友一.md "wikilink")    | 姶良鐵幹   | 刑事布雷克 | [<font color=blue>李世揚</font>](../Page/李世揚.md "wikilink")                     |
 |                                                               |        |       |                                                                              |
-| [<font color=white>稻田徹</font>](../Page/稻田徹.md "wikilink")     | 高奇·古魯加 | 刑事至尊  | [<font color=white>林谷珍</font>](../Page/林谷珍.md "wikilink")                    |
+| [<font color=white>稻田徹</font>](../Page/稻田徹.md "wikilink")     | 高奇·古魯加 | 刑事先鋒  | [<font color=white>李世揚</font>](../Page/李世揚.md "wikilink")                    |
 |                                                               |        |       |                                                                              |
 | [<font color=black>石野真子</font>](../Page/石野真子.md "wikilink")   | 白鳥天鵝   | 刑事天鵝  | [<font color=black>楊凱凱</font>](../Page/楊凱凱.md "wikilink")                    |
 

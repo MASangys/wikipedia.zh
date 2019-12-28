@@ -54,7 +54,7 @@
   - ["3G Long-Term Evolution" by Dr. Erik Dahlman at Ericsson Research](http://www.signal.uu.se/Research/PCCWIP/Tunisia/WIP05_EAB.pdf)
   - ["Long-Term 3G Evolution – Radio Access" by Dr. Stefan Parkvall at Ericsson Research](http://www.calit2.net/events/pdfs/S3G_Stefan_Parkvall.pdf)
   - ["3GPP Long-Term Evolution / System Architecture Evolution: Overview" by Ulrich Barth at Alcatel](https://web.archive.org/web/20070927195715/http://www.ikr.uni-stuttgart.de/Content/itg/fg524/Meetings/2006-09-29-Ulm/01-3GPP_LTE-SAE_Overview_Sep06.pdf)
-  - [The 3G Long-Term Evolution – Radio Interface Concepts and Performance Evaluation](http://www.ericsson.com/res/thecompany/docs/journal_conference_papers/atsp/the_3g_long-term_evolution_radi_interface.pdf)
+  - [The 3G Long-Term Evolution – Radio Interface Concepts and Performance Evaluation](https://web.archive.org/web/20131019143235/http://www.ericsson.com/res/thecompany/docs/journal_conference_papers/atsp/the_3g_long-term_evolution_radi_interface.pdf)
   - [LTE and the Evolution to 4G Wireless Design and Measurement Challenges – "LTE Security"](http://www.3g4g.co.uk/Lte/LTE_Security_WP_0907_Agilent.pdf)
   - [Role of Crypto in Mobile Communications "LTE Security"](https://www.cosic.esat.kuleuven.be/ecrypt/courses/end/slides-28/9-niemi.pdf)
 

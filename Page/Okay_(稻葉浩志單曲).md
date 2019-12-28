@@ -2,7 +2,7 @@
 
 ## 概要
 
-  - 與前作「[Wonderland](../Page/Wonderland.md "wikilink")」睽違約6年的單曲。
+  - 本作是自前作「[Wonderland](../Page/Wonderland.md "wikilink")」以來睽違約6年的單曲。
   - 初回限定盤，附屬了收錄在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[新墨西哥州](../Page/新墨西哥州.md "wikilink")進行拍攝的「Okay」[PV](https://zh.wikipedia.org/wiki/Music_Video "wikilink") DVD。初回限定盤、通常盤的唱片封面寫真雖是相同的，但唱片盒的製作有所不同。
   - 是首張無商業搭配的單曲。
   - 本作品獲得Oricon週榜第1位，作為男性SOLO藝人是首個達成[1990年代](../Page/1990年代.md "wikilink")、[2000年代](../Page/2000年代.md "wikilink")、[2010年代的](https://zh.wikipedia.org/wiki/2010年代 "wikilink")「3年代連續獲得單曲冠軍」紀錄。

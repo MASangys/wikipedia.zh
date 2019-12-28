@@ -64,12 +64,8 @@ Blue Meanies 在 Pepperland 到處破壞和欺壓當地的人民。[海軍上將
 [Category:動畫角色](https://zh.wikipedia.org/wiki/Category:動畫角色 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.

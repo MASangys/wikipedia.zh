@@ -46,10 +46,11 @@
   - 第一屆全球華語歌曲排行榜頒獎音樂會－二千年度華語流行金曲《獨家試唱》
   - 馬來西亞紅人金曲獎－最受歡迎合唱歌曲《愛是...》（鄭秀文＆LMF合唱）
   - 英國倫敦國際廣播電台－至尊金曲流行榜《愛是...》（鄭秀文＆LMF合唱）
-  - 國際唱片業協會－十大銷量廣東唱片：《Love Is…》
+  - 國際唱片業協會－十大銷量廣東唱片：《Love Is…》\[2\]
 
 ## 參考資料
 
 [Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink") [Category:香港華納唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:香港華納唱片音樂專輯 "wikilink")
 
 1.
+2.

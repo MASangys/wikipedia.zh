@@ -161,11 +161,11 @@ HK G28標準型使用的瞄準具為德國警用神槍手二型（，簡稱：PM
 <!-- end list -->
 
   -   - 2012年3月上号：[第34届SHOT展轻武器精选（上）](http://www.qbq.com.cn/a/bencandy.php?fid=3&id=2717)
-      - 2012年5月下号：[国外自动步枪设计理念及发展动向](http://www.xzbu.com/8/view-2310384.htm)
+      - 2012年5月下号：[国外自动步枪设计理念及发展动向](https://web.archive.org/web/20140306163222/http://www.xzbu.com/8/view-2310384.htm)
       - 2012年10月下号：[德国HK公司G28“神射手”精准半自动步枪](http://wuxizazhi.cnki.net/Search/QBQI201220001.html)
       - 2013年3月上號：[第七届GPEC展览会轻武器精选](https://web.archive.org/web/20141211013734/http://gdwap.dooland.com/article.php?id=263671)
       - 2013年11月上号：[《2013—2014簡氏步兵武器年鑒》前言](https://web.archive.org/web/20140204022132/http://www.xzbu.com/8/view-4426098.htm)
-      - 2013年12月上号：[德国步兵班组新武器：G28 DMR指定射手步槍](http://www.xzbu.com/8/view-5793446.htm)
+      - 2013年12月上号：[德国步兵班组新武器：G28 DMR指定射手步槍](https://web.archive.org/web/20150626212318/http://www.xzbu.com/8/view-5793446.htm)
       - 2014年3月下號：[第十八届MILIPOL巴黎国际军警装备展览会呈送](https://web.archive.org/web/20140331191503/http://www.xzbu.com/8/view-4926313.htm)
       - 2014年9月下號：[2013～2014国外轻武器发展动向](https://web.archive.org/web/20141211011803/http://gdwap.dooland.com/article.php?id=488408)
 

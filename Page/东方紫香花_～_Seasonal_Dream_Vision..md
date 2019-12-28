@@ -202,5 +202,4 @@
 [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:同人題材作品](https://zh.wikipedia.org/wiki/Category:同人題材作品 "wikilink")
 
 1.
-
 2.

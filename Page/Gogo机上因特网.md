@@ -62,26 +62,15 @@ Gogo服务与[Macintosh及运行](https://zh.wikipedia.org/wiki/Macintosh "wikil
 [Category:美国公司](https://zh.wikipedia.org/wiki/Category:美国公司 "wikilink") [Category:ISP](https://zh.wikipedia.org/wiki/Category:ISP "wikilink")
 
 1.
-
 2.  [Internet-a-Gogo: Airlines to Offer In-Flight Access](http://ptech.allthingsd.com/20080619/internet-a-gogo-airlines-to-offer-in-flight-access/) The Wall Street Journal
-
 3.
 4.
-
 5.
-
 6.  [Delta Air Lines To Offer In-Flight Wi-Fi On All Domestic Flights](http://news.delta.com/article_display.cfm?article_id=11127)  (Official Press Release: August 5, 2008)
-
 7.
-
 8.  PROMISE DELIVERED: Airtran Completes Installation of Wi-Fi On All Aircraft
-
 9.  [Four pieces of great inflight WiFi news from Gogo](http://www.gadling.com/2009/11/20/four-pieces-of-great-inflight-wifi-news-from-gogo/)
-
 10.
-
 11.
-
 12.
-
 13. [Terdiman, Daniel](https://zh.wikipedia.org/wiki/Daniel_Terdiman "wikilink"). January 25, 2008. [*In-flight Internet: Grounded for life?*](http://news.cnet.com/In-flight-Internet-Grounded-for-life---page-2/2100-7351_3-6227736-2.html) CNET

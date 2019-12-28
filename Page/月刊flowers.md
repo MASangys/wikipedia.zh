@@ -77,7 +77,7 @@
   - [女神與我](https://zh.wikipedia.org/wiki/:ja:女神さまと私 "wikilink")（[波津彬子](../Page/波津彬子.md "wikilink")）
   - [YASHA-夜叉-](https://zh.wikipedia.org/wiki/:ja:YASHA-夜叉- "wikilink")（吉田秋生）
   - [夢の真昼](https://zh.wikipedia.org/wiki/:ja:夢の真昼 "wikilink")（[吉村明美](https://zh.wikipedia.org/wiki/:ja:吉村明美 "wikilink")）
-  - 横濱迷宮（[よしまさこ](https://zh.wikipedia.org/wiki/:ja:よしまさこ "wikilink")）
+  - 横濱迷宮（[吉匡子](https://zh.wikipedia.org/wiki/吉匡子 "wikilink")）
   - [13號鍊金石](../Page/13號鍊金石.md "wikilink")（山崎貴子）
   - レオくん（萩尾望都）
   - [レディシノワズリ](https://zh.wikipedia.org/wiki/:ja:レディシノワズリ "wikilink")（[波津彬子](../Page/波津彬子.md "wikilink")）

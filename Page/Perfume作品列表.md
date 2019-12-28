@@ -84,7 +84,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2019年9月18日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Perfume_The_Best_“P_Cubed”" title="wikilink">Perfume The Best “P Cubed”</a></strong></p></td>
+<td><p><strong><a href="../Page/Perfume_The_Best_“P_Cubed”.md" title="wikilink">Perfume The Best “P Cubed”</a></strong></p></td>
 <td><p>1</p></td>
 </tr>
 </tbody>

@@ -192,9 +192,7 @@
 [Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:BDSM題材作品](https://zh.wikipedia.org/wiki/Category:BDSM題材作品 "wikilink") [Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink") [Category:2011年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2011年日本OVA動畫 "wikilink")
 
 1.  『』（『』2010年No.24、P358）。
-
 2.  2012年No.2、P44 - 46。
-
 3.
 4.
 5.

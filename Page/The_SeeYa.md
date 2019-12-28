@@ -314,10 +314,10 @@
 
 ## 參考資料
 
-  - <http://kpopn.com/2012/12/23/157299/>
-  - <http://kpopn.com/2012/12/06/155608/>
-  - <http://kpopn.com/2013/07/11/184180/>
-  - <http://kpopn.com/2014/01/03/205876/>
+  - <https://web.archive.org/web/20140222023345/http://kpopn.com/2012/12/23/157299/>
+  - <https://web.archive.org/web/20140222023349/http://kpopn.com/2012/12/06/155608/>
+  - <https://web.archive.org/web/20140222023347/http://kpopn.com/2013/07/11/184180/>
+  - <https://web.archive.org/web/20140214052100/http://kpopn.com/2014/01/03/205876/>
 
 ## 外部連結
 

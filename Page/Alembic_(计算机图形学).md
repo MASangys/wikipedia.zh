@@ -45,29 +45,16 @@ Alembic最早主要由Sony Pictures Imageworks和[卢卡斯影业](../Page/卢�
 
 1.
 2.
-
 3.  <http://www.thefoundry.co.uk/products/katana/>
-
 4.  <http://www.sidefx.com>
-
 5.  <http://www.solidangle.com>
-
 6.  <http://www.luxology.com/tv/training/view.aspx?id=619>
-
 7.
-
 8.  <http://chaosgroup.com/en/2/siggraph2012.html?os=0726>
-
 9.  <http://www.thefoundry.co.uk/articles/2012/09/07/410/nuke-70-is-coming-soon/#feature_alembic>
-
 10. <http://www.guerillarender.com>
-
 11.
-
 12. <https://www.lightwave3d.com/11-6_features_overview>
-
 13. <http://exocortex.com/alembic>
-
 14. <http://atomkraft.hk>
-
 15. <http://ortholab.codeplex.com/wikipage?title=AbcTranslator&referringTitle=Home>

@@ -262,7 +262,7 @@ MEGWIN在所有遊戲裡都是主要的挑戰者\[20\]，但也有邀請其他[Y
 20. 除了「馬で東京横断ゲーム」、「寝ないチャレンジ美女編」及部分「BEGIRAGONSES」子系列
 21. <https://www.youtube.com/watch?v=dHhb1IKUrBk>
 22. <https://www.youtube.com/watch?v=GxaWKMyFxjw>
-23. <https://news.nifty.com/article/entame/rl/12184-44678/>
+23.
 24. <https://www.youtube.com/watch?v=3PNMnHDH8nE>
 25. <https://www.youtube.com/watch?v=K7CNWudhX4E>
 26. <https://www.youtube.com/watch?v=yrhaVLR6rkI>

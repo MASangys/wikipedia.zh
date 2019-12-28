@@ -249,7 +249,7 @@
 
 ## 外部連結
 
-  - [Kara's Official website](http://kara.dspenter.com)
+  - [Kara's Official website](https://web.archive.org/web/20181113104803/http://kara.dspenter.com/)
 
   - [Kara's Japanese Official website](http://www.karaweb.jp)
 
@@ -260,7 +260,7 @@
 
   - [【Music Naver】 Kara－PANDORA專頁](http://music.naver.com/promotion/specialContent.nhn?articleId=3223&page=3)
 
-  - [【MNET】 KARA PANDORA SHOWCASE](http://global.mnet.com/mnettv/videodetail.m?searchVideoDetailVO.clip_id=149884)
+  - [【MNET】 KARA PANDORA SHOWCASE](https://web.archive.org/web/20130101203901/http://global.mnet.com/mnettv/videodetail.m?searchVideoDetailVO.clip_id=149884)
 
 [Category:KARA專輯](https://zh.wikipedia.org/wiki/Category:KARA專輯 "wikilink") [Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2012年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon專輯週榜冠軍作品 "wikilink")
 

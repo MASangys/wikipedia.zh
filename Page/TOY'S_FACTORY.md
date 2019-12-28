@@ -70,6 +70,6 @@
       -
 <!-- end list -->
 
-  - [MEME TOKYO](http://www.memetokyo.jp/) - でんぱ組.inc的所屬唱片公司
+  - [MEME TOKYO](https://web.archive.org/web/20121018221132/http://memetokyo.jp/) - でんぱ組.inc的所屬唱片公司
 
 [Category:TOY'S_FACTORY](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:TOY'S_FACTORY旗下藝人](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY旗下藝人 "wikilink")

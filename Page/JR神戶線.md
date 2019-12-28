@@ -62,9 +62,7 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
   - [207系](https://zh.wikipedia.org/wiki/JR西日本207系電車 "wikilink")・[321系](https://zh.wikipedia.org/wiki/JR西日本321系電車 "wikilink")
       - 使用網干總合車輛所（明石支所）的車輛、使用作普通（京阪神緩行線）大阪站 - 西明石站・加古川站間運行。
 
-<FILE:JR> Kobe Line.jpg|左：321系
-右：223系1000番台 <FILE:JRW> series 223 and series 225.jpg|左：223系2000番台
-右：225系0番台 <FILE:JRW> series207 Kobe.jpg|207系
+JR West 321 Series D28 20181130.jpg|321系 JR West 223-2000 Series 20190201.jpg|223系2000番台　 225系100番台I9編成.jpg|225系100番台 JR West 221 Series 20191013.jpg|221系 JR West 207 Series F1 20190908.jpg|207系 「らくラクはりま」運用の289系.jpg|289系（貫通車）
 
 #### 柴聯車
 
@@ -210,7 +208,7 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 <td><p>-</p></td>
 <td><p>大阪起計<br />
 0.0</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/米原站" title="wikilink">米原起計</a><br />
+<td><p><a href="../Page/米原站.md" title="wikilink">米原起計</a><br />
 110.5</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/東京站" title="wikilink">東京起計</a><br />
 556.4</p></td>
@@ -472,7 +470,7 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 </tr>
 <tr class="odd">
 <td><p>JR-A64</p></td>
-<td><p></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兵庫站" title="wikilink">兵庫</a></p></td>
 <td></td>
 <td></td>
 <td><p>1.8</p></td>
@@ -845,55 +843,30 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 [Category:東海道本線](https://zh.wikipedia.org/wiki/Category:東海道本線 "wikilink") [Category:近畿地方鐵路路線](https://zh.wikipedia.org/wiki/Category:近畿地方鐵路路線 "wikilink") [Category:西日本旅客鐵道路線](https://zh.wikipedia.org/wiki/Category:西日本旅客鐵道路線 "wikilink") [Category:日本國有鐵道路線](https://zh.wikipedia.org/wiki/Category:日本國有鐵道路線 "wikilink") [Category:山陽本線](https://zh.wikipedia.org/wiki/Category:山陽本線 "wikilink") [Category:1874年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1874年啟用的鐵路線 "wikilink")
 
 1.  [ご利用可能エリア 近畿圈エリア｜ICOCA：JRおでかけネット](http://www.jr-odekake.net/icoca/area/map/kinki.html)  - 西日本旅客鐵道
-
 2.  [【JR西】225系営業運転開始](http://rail.hobidas.com/rmn/archives/2010/12/jr225_3.html) - 『鐵道ホビダス』[ネコ・パブリッシング](https://zh.wikipedia.org/wiki/ネコ・パブリッシング "wikilink") RMニュース 2010年12月3日
-
 3.  [2010年7月定例社長会見](http://www.westjr.co.jp/news/newslist/article/1174899_799.html)  - 西日本旅客鐵道プレスリリース 2010年7月21日
-
 4.  [JR東西線の開業とアーバンネットワークのダイヤ改正について](https://web.archive.org/web/19980205212114/http://www.westjr.co.jp/new/1press/press_9.html)（インターネット・アーカイブ）- 西日本旅客鐵道プレスリリース 1995年9月27日
-
 5.  [平成9年3月アーバンネットワークのダイヤ改正について](https://web.archive.org/web/19980206005423/http://www.westjr.co.jp/new/1press/kaisei9.htm)（インターネット・アーカイブ）- 西日本旅客鐵道プレスリリース 1996年12月16日
-
 6.  『JR気動車客車編成表 '03年版』ジェー・アール・アール、2003年。ISBN 4-88283-124-4。
-
 7.  [〜より快適な車内環境をめざして〜「女性専用車」を拡大します](https://web.archive.org/web/20021203004309/http://www.westjr.co.jp/news/021017a.html)（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 2002年10月7日
-
 8.  『JR気動車客車編成表 '04年版』ジェー・アール・アール、2004年。ISBN 4-88283-125-2。
-
 9.  [站コンコースを終日全面禁煙にします](https://web.archive.org/web/20031001173208/http://www.westjr.co.jp/news/newslist/article/030829a.html)（インターネット・アーカイブ）- 西日本旅客鐵道プレスリリース 2003年8月29日
-
 10. [「ICOCA」いよいよデビュー\! 〜 平成15年11月1日（土）よりサービス開始いたします 〜](https://web.archive.org/web/20040803184954/http://www.westjr.co.jp/news/newslist/article/030820a.html)（インターネット・アーカイブ） - 西日本旅客鐵道プレスリリース 2003年8月30日
-
 11. [平成17年3月ダイヤ改正出発式および記念式典の開催](https://web.archive.org/web/20050228071943/http://www.westjr.co.jp/news/newslist/article/050221a.html)（インターネット・アーカイブ）- 2005年2月21日
-
 12. 『JR気動車客車編成表 '06年版』、ジェー・アール・アール、2006年。ISBN 4-88283-127-9。
-
 13. [2006年9月定例社長会見](https://web.archive.org/web/20070312202955/http://www.westjr.co.jp/news/newslist/article/k060920.html)（インターネット・アーカイブ）- 西日本旅客鐵道 2006年9月20日
-
 14. （インターネット・アーカイブ）- 西日本旅客鐵道プレスリリース 2006年12月22日
-
 15. [新駅名称「さくら夙川」に　西ノ宮駅は「西宮」に改称](https://web.archive.org/web/20071120054841/http://www.asahi.com/kansai/news/OSK200611220043.html)（インターネット・アーカイブ）- [朝日新聞](../Page/朝日新聞.md "wikilink") 2006年11月22日
-
 16. [在来線特急列車などの全席禁煙化ならびに在来線ホームの禁煙化の拡大について](http://www.westjr.co.jp/news/newslist/article/1174167_799.html)  - 西日本旅客鐵道プレスリリース 2009年3月26日
-
 17. [女性専用車の全日化･終日化について](http://www.westjr.co.jp/news/newslist/article/1175252_799.html)  ・ [車両保守部品の不足に伴う列車運転計画の見直しについて](http://www.westjr.co.jp/news/newslist/article/1175270_799.html)  - 西日本旅客鉄道プレスリリース 2011年3月4日・2011年4月6日
-
 18.
-
 19.
-
 20.
-
 21. \[<http://www.westjr.co.jp/press/article/2016/07/page_8973.html>　近畿エリアの12路線 のべ300駅に「駅ナンバー」を導入します！\] - 西日本旅客鉄道ニュースリリース 2016年7月20日
-
 22.  - 西日本旅客鉄道、2016年7月20日
-
 23. 大阪站與北新地站之間的徒步轉乘是特例（參見[JR東西線\#乘車制度](https://zh.wikipedia.org/wiki/JR東西線#乘車制度 "wikilink")）
-
 24. 作為運行系統的「京都本線」。該線的正式起點是[十三站](../Page/十三站.md "wikilink")。
-
 25. 沒有直接接續，只限神戶市內發着的乘車券途經地下鐵等，在新神戶站與山陽新幹線轉乘而特別認定。詳細參見「[新神戶站\#與JR在來線的接續](https://zh.wikipedia.org/wiki/新神戶站#與JR在來線的接續 "wikilink")」。
-
 26.
 27.
 28.

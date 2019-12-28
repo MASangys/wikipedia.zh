@@ -6,7 +6,7 @@
 
 收錄了《[品味愛](https://zh.wikipedia.org/wiki/品味愛 "wikilink")》、《[如明月一般/The Bird Without Wings](https://zh.wikipedia.org/wiki/如明月一般/The_Bird_Without_Wings "wikilink")》兩張單曲共11首歌。
 
-本作因出道5周年紀念而發行了4種版本。通常盤僅收錄[錄音室歌曲](https://zh.wikipedia.org/wiki/錄音室 "wikilink")，初回限定盤附贈6月到7月間舉辦的粉絲俱樂部限定的演唱會「Live 4th You」的7月12日在[Zepp DiverCity公演的歌曲完全收錄属](https://zh.wikipedia.org/wiki/Zepp "wikilink")、5周年記念生産限定盤則是收錄初回限定盤的内容並附贈錄音室歌曲的[黑膠唱片](../Page/黑膠唱片.md "wikilink")以及5周年記念海報、[羅森限定盤則附贈](../Page/羅森_\(便利店\).md "wikilink")[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")以及「Self Liner Notes」的DVD。
+本作因出道5周年紀念而發行了4種版本。通常盤僅收錄[錄音室歌曲](https://zh.wikipedia.org/wiki/錄音室 "wikilink")，初回限定盤附贈6月到7月間舉辦的粉絲俱樂部限定的演唱會「Live 4th You」的7月12日在[Zepp DiverCity公演的歌曲完全收錄属](../Page/Zepp.md "wikilink")、5周年記念生産限定盤則是收錄初回限定盤的内容並附贈錄音室歌曲的[黑膠唱片](../Page/黑膠唱片.md "wikilink")以及5周年記念海報、[羅森限定盤則附贈](../Page/羅森_\(便利店\).md "wikilink")[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")以及「Self Liner Notes」的DVD。
 
 發行當日依照慣例舉行了免費演唱會，地點則選在首張專輯《[Superfly](../Page/Superfly_\(專輯\).md "wikilink")》發型演唱會的[代代木公園野外舞台](https://zh.wikipedia.org/wiki/代代木公園 "wikilink")。
 

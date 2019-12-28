@@ -67,10 +67,10 @@ FN Minimi 7.62擁有7.62毫米武器的威力，卻只有5.56毫米武器的重�
 
   -   - 2006年9月上號：[比利時推出７．６２ｍｍ“米尼米”輕機槍](http://m.qikan.com/ArticleContentNew.aspx?type=3&titleid=qibq20061713)
       - 2011年10月上號：[捷克布尔诺(下)“IDET2011”轻武器展示](https://web.archive.org/web/20140819084735/http://wap.139sz.cn/read/article.php?id=163674&p=5)
-      - 2014年3月下號：[第十八届MILIPOL巴黎国际军警装备展览会呈送](http://www.xzbu.com/8/view-4926313.htm)
-      - 2014年4月下號：[2014年IWA展会新品汇（上）](http://www.xzbu.com/8/view-5642605.htm)
+      - 2014年3月下號：[第十八届MILIPOL巴黎国际军警装备展览会呈送](https://web.archive.org/web/20140331191503/http://www.xzbu.com/8/view-4926313.htm)
+      - 2014年4月下號：[2014年IWA展会新品汇（上）](https://web.archive.org/web/20140714125645/http://www.xzbu.com/8/view-5642605.htm)
       - 2014年9月上號：[比利时FN公司米尼米Mk3轻机枪](http://mall.cnki.net/magazine/Article/QBQI201417001.htm)
-      - 2015年2月上號：[西方现役轻武器换装/补充计划盘点](http://www.xzbu.com/8/view-6696134.htm)
+      - 2015年2月上號：[西方现役轻武器换装/补充计划盘点](https://web.archive.org/web/20150213134250/http://www.xzbu.com/8/view-6696134.htm)
       - 2015年5月上號：[2014年国外枪械发展回顾](https://archive.is/20150515153021/http://gdwap.dooland.com/article.php?id=653621)
       - 2015年8月下號：[老将新装再登场——米尼米Mk3轻机枪](http://www.xzbu.com/8/view-6949779.htm)
 

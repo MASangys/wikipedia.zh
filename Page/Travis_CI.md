@@ -17,18 +17,11 @@
 [Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink") [Category:Ruby](https://zh.wikipedia.org/wiki/Category:Ruby "wikilink") [Category:使用MIT许可证的软件](https://zh.wikipedia.org/wiki/Category:使用MIT许可证的软件 "wikilink") [Category:持续集成](https://zh.wikipedia.org/wiki/Category:持续集成 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.

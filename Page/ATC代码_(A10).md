@@ -127,7 +127,7 @@
 ### A10BK [鈉-葡萄糖共同轉運蛋白2](https://zh.wikipedia.org/wiki/鈉-葡萄糖共同轉運蛋白2 "wikilink")（Sodium-glucose co-transporter 2 (SGLT2) inhibitors）
 
   -
-    A10BK01 [达格列净](https://zh.wikipedia.org/wiki/达格列净 "wikilink") dapagliflozin
+    A10BK01 [达格列净](../Page/达格列净.md "wikilink") dapagliflozin
     A10BK02 canagliflozin
     A10BK03 [恩格列淨](../Page/恩格列淨.md "wikilink") empagliflozin
 

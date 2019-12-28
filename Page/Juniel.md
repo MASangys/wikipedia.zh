@@ -451,7 +451,7 @@ Juniel在韓國出生，家有父母及一個弟弟。從兒時開始學習跳�
   - [Juniel](http://ameblo.jp/juniel)在[Ameba](../Page/Ameba.md "wikilink")的網誌
 
   -
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
+[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:首爾公演藝術高中校友](https://zh.wikipedia.org/wiki/Category:首爾公演藝術高中校友 "wikilink")
 
 1.  [Juniel認證的本名](http://m.tiebaimg.com/timg?wapp&quality=100&size=b1080_2000&cut_x=0&cut_w=0&cut_y=0&cut_h=0&sec=1369815402&di=220cd09118907f4a0b2ebba9977fe1f5&wh_rate=null&src=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fpic%2Fitem%2Fd9448e5494eef01fd653149be2fe9925bd317d70.jpg)
 2.  [‘최준희→최서아’…가수 주니엘, 개명 후 컴백](http://www.tvreport.co.kr/?c=news&m=newsview&idx=908485)

@@ -390,7 +390,7 @@
 ## 外部連結
 
   - [韓國SBS](http://tv.sbs.co.kr/thechaser/)
-  - [臺灣東森](http://blog.ebc.net.tw/apps/thechaser/)
+  - [臺灣東森](https://web.archive.org/web/20150610214231/http://blog.ebc.net.tw/apps/thechaser/)
 
 [Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink") [Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink") [Category:程序型罪案調查劇](https://zh.wikipedia.org/wiki/Category:程序型罪案調查劇 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
 

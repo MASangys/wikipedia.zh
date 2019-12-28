@@ -5,12 +5,12 @@
 ## 外部連結
 
   - [PyPI 项目頁面](http://pypi.python.org/pypi/setuptools)
-  - [EasyInstall文档](http://peak.telecommunity.com/DevCenter/EasyInstall)
-  - [setuptools文档](http://peak.telecommunity.com/DevCenter/setuptools)
-  - [Python Eggs](http://peak.telecommunity.com/DevCenter/PythonEggs)
+  - [EasyInstall文档](https://web.archive.org/web/20100708053624/http://peak.telecommunity.com/DevCenter/EasyInstall)
+  - [setuptools文档](https://web.archive.org/web/20110430025703/http://peak.telecommunity.com/DevCenter/setuptools)
+  - [Python Eggs](https://web.archive.org/web/20090929191401/http://peak.telecommunity.com/DevCenter/PythonEggs)
 
 [Category:_Linux發行版](https://zh.wikipedia.org/wiki/Category:_Linux發行版 "wikilink") [Category:系統軟件](https://zh.wikipedia.org/wiki/Category:系統軟件 "wikilink")
 
 [Category:_軟件包管理系統](https://zh.wikipedia.org/wiki/Category:_軟件包管理系統 "wikilink")
 
-1.  <http://peak.telecommunity.com/DevCenter/setuptools> September 1, 2009
+1.  <http://peak.telecommunity.com/DevCenter/setuptools>  September 1, 2009

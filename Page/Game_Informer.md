@@ -1,6 +1,6 @@
 《**Game Informer**》（**GI**）是美國的[电子游戏](../Page/电子游戏.md "wikilink")[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")，由[GameStop](../Page/GameStop.md "wikilink")公司經營與發行，內容包含特色報導、遊戲新聞、遊戲攻略及評論。成立於1991年8月，當時只發行6頁的免費雜誌\[1\]。今日，Game Informer已達到750萬訂戶，並在2011年底成為第4大雜誌\[2\]。
 
-2009年9月，也是12月即將出滿200期的前夕，《Game Informer》重新設計了雜誌和網頁。\[3\] 慶祝200期的12月份雜誌裡，《[薩爾達傳說](https://zh.wikipedia.org/wiki/薩爾達傳說_\(遊戲\) "wikilink")》被評為有史以來最佳遊戲。
+2009年9月，也是12月即將出滿200期的前夕，《Game Informer》重新設計了雜誌和網頁。\[3\]慶祝200期的12月份雜誌裡，《[薩爾達傳說](https://zh.wikipedia.org/wiki/薩爾達傳說_\(遊戲\) "wikilink")》被評為有史以來最佳遊戲。
 
 2012年11月8日，他們推出了第236期12月份雜誌，內容率先公布長達18頁（電子版23頁）的《[俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink")》的訊息，並以此當作鼓吹訂閱廣告\[4\]。
 

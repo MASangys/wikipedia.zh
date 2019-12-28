@@ -7,7 +7,7 @@
     B02AA02 [氨甲环酸](https://zh.wikipedia.org/wiki/氨甲环酸 "wikilink")（Tranexamic acid）
     B02AA03 [氨甲苯酸](https://zh.wikipedia.org/wiki/氨甲苯酸 "wikilink")（Aminomethylbenzoic acid）
 
-### B02AB [蛋白酶抑制药类](https://zh.wikipedia.org/wiki/蛋白酶 "wikilink")（Proteinase inhibitors）
+### B02AB [蛋白酶](../Page/蛋白酶.md "wikilink")抑制药类（Proteinase inhibitors）
 
   -
     B02AB01 [抑肽酶](https://zh.wikipedia.org/wiki/抑肽酶 "wikilink")（Aprotinin）

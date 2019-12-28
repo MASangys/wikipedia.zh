@@ -35,5 +35,4 @@
 [Category:2010年迷你專輯](https://zh.wikipedia.org/wiki/Category:2010年迷你專輯 "wikilink") [Category:首张迷你专辑](https://zh.wikipedia.org/wiki/Category:首张迷你专辑 "wikilink") [Category:詹妮特·麦柯迪专辑](https://zh.wikipedia.org/wiki/Category:詹妮特·麦柯迪专辑 "wikilink")
 
 1.
-
 2.

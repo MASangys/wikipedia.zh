@@ -38,6 +38,5 @@ EMER K-1全槍為[犢牛式佈置](https://zh.wikipedia.org/wiki/小鬥牛犬式
 [Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink") [Category:緬甸槍械](https://zh.wikipedia.org/wiki/Category:緬甸槍械 "wikilink")
 
 1.  <http://www.allmilitaryweapons.com/2011/07/emerk-myanmar-assault-rifle.html>
-
 2.
 3.

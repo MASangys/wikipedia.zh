@@ -423,19 +423,12 @@
 [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
 
 1.  茨歌仙　第9話
-
 2.  茨歌仙　第21話
-
 3.  茨歌仙　第9話
-
 4.  茨歌仙　第9話
-
 5.  茨歌仙　第20話
-
 6.  [1](http://twitter.com/#!/korindo/status/31700534444425216)
-
 7.  [一迅社WEB | 東方茨歌仙 〜Wild and Horned Hermit.](http://www.ichijinsha.co.jp/special/toho_ibarakasen/)
-
 8.
 9.
 10.

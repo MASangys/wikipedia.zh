@@ -23,13 +23,9 @@
       - 冤大頭4沒有參加。冤大頭10、12、15、19擔任MC。
   - [矢部浩之](../Page/矢部浩之.md "wikilink")（[NINETY-NINE](../Page/NINETY-NINE.md "wikilink")）
       - 冤大頭10、12、15、19、20沒有參加。冤大頭1—9、11、13—14、16—18擔任MC。
-  - [中島健人](../Page/中島健人.md "wikilink")（[Sexy Zone](../Page/Sexy_Zone.md "wikilink")）
-      - 冤大頭19新成員。
   - [田中圭](../Page/田中圭.md "wikilink")
       - 冤大頭19新成員。冤大頭19後半戰加入（9月13日），承接大杉漣累積的金額參賽。
   - 阿信（[千鳥](../Page/千鳥_\(搞笑組合\).md "wikilink")）
-      - 冤大頭20新成員。
-  - [土屋太鳳](../Page/土屋太鳳.md "wikilink")
       - 冤大頭20新成員。
 
 ##### 固定班底以外的出演者
@@ -75,8 +71,12 @@
       - 參加冤大頭18—19。
   - [大杉漣](../Page/大杉漣.md "wikilink")
       - 參加冤大頭18—19。擔任固定班底期間於2018年2月21日突然病逝。
+  - [中島健人](../Page/中島健人.md "wikilink")（[Sexy Zone](../Page/Sexy_Zone.md "wikilink")）
+      - 參加冤大頭19—20。
   - [橋本環奈](../Page/橋本環奈.md "wikilink")
       - 參加冤大頭19。
+  - [土屋太鳳](../Page/土屋太鳳.md "wikilink")
+      - 參加冤大頭20。
 
 #### 「冤大頭」以外環節的固定出演者
 
@@ -89,7 +89,7 @@
   - [哀川翔](https://zh.wikipedia.org/wiki/哀川翔 "wikilink")
   - [小島義雄](https://zh.wikipedia.org/wiki/小島義雄 "wikilink")
   - [德井義實](../Page/德井義實.md "wikilink")（[Tutorial](../Page/Tutorial.md "wikilink")）
-  - [日村勇紀](https://zh.wikipedia.org/wiki/日村勇紀 "wikilink")（[香蕉人](../Page/香蕉人_\(搞笑組合\).md "wikilink")）
+  - [日村勇紀](../Page/日村勇紀.md "wikilink")（[香蕉人](../Page/香蕉人_\(搞笑組合\).md "wikilink")）
   - [般若](https://zh.wikipedia.org/wiki/般若_\(搞笑組合\) "wikilink")
   - [國分太一](https://zh.wikipedia.org/wiki/國分太一 "wikilink")
   - [出川哲朗](https://zh.wikipedia.org/wiki/出川哲朗 "wikilink")

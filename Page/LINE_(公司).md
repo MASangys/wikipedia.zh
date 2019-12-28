@@ -1,4 +1,4 @@
-**LINE Corporation**是[Naver集團設立於](../Page/Naver_\(公司\).md "wikilink")[日本](../Page/日本.md "wikilink")[東京的資訊服務公司](../Page/東京都.md "wikilink")，主要業務為開發[LINE即時通訊軟體平台](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")，並圍繞LINE平台開發眾多服務，旗下擁有 [LINE FRIENDS](../Page/LINE家族.md "wikilink") 商店販售周邊商品。在[台灣入主](https://zh.wikipedia.org/wiki/台灣 "wikilink")[一卡通票證公司](../Page/一卡通票證公司.md "wikilink")，也涉足電子金流業務。在日本全資經營[活力門公司](https://zh.wikipedia.org/wiki/活力門公司 "wikilink")，提供入口網站服務。2019年，根據[日本經濟新聞](../Page/日本經濟新聞.md "wikilink")報導，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Naver正與日本](https://zh.wikipedia.org/wiki/Naver "wikilink")[SoftBank商討合併旗下日本事業](https://zh.wikipedia.org/wiki/SoftBank "wikilink")，包括Line 株式会社及ヤフー株式会社，將Line 株式会社吸收合併入Z控股公司。Naver與SoftBank決議在2020年成立合資新公司，以共同持有Z控股公司的最大股份。\[1\]
+**LINE Corporation**是[Naver集團設立於](../Page/Naver_\(公司\).md "wikilink")[日本](../Page/日本.md "wikilink")[東京的資訊服務公司](../Page/東京都.md "wikilink")，主要業務為開發[LINE即時通訊軟體平台](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")，並圍繞LINE平台開發眾多服務，旗下擁有 [LINE FRIENDS](../Page/LINE家族.md "wikilink") 商店販售周邊商品。在[台灣入主](https://zh.wikipedia.org/wiki/台灣 "wikilink")[一卡通票證公司](../Page/一卡通票證公司.md "wikilink")，也涉足電子金流業務。在日本全資經營[活力門公司](https://zh.wikipedia.org/wiki/活力門公司 "wikilink")，提供入口網站服務。2019年，根據[日本經濟新聞](../Page/日本經濟新聞.md "wikilink")報導，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Naver正與日本](https://zh.wikipedia.org/wiki/Naver "wikilink")[SoftBank商討合併旗下日本事業](https://zh.wikipedia.org/wiki/SoftBank "wikilink")，包括LINE 株式会社及ヤフー株式会社，將LINE 株式会社吸收合併入Z控股公司。Naver與SoftBank決議在2020年成立合資新公司，以共同持有Z控股公司的最大股份。\[1\]
 
 ## 沿革
 
@@ -38,7 +38,7 @@
 ### 2012年
 
   - 10月－NHN Japan 日本總部轉移至[澀谷區](../Page/澀谷區.md "wikilink")\[5\]。
-  - 12月－授權北京卓易讯畅科技有限公司將「[連我](https://zh.wikipedia.org/wiki/連我 "wikilink")」（Line）引進[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")\[6\]\[7\]。
+  - 12月－授權北京卓易讯畅科技有限公司將「[連我](https://zh.wikipedia.org/wiki/連我 "wikilink")」（LINE）引進[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")\[6\]\[7\]。
 
 ### 2013年
 

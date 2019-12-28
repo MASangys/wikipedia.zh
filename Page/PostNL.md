@@ -20,12 +20,8 @@
 [Category:荷兰公司](https://zh.wikipedia.org/wiki/Category:荷兰公司 "wikilink") [Category:荷兰邮政](https://zh.wikipedia.org/wiki/Category:荷兰邮政 "wikilink") [Category:海牙公司](https://zh.wikipedia.org/wiki/Category:海牙公司 "wikilink") [Category:2011年成立的公司](https://zh.wikipedia.org/wiki/Category:2011年成立的公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.

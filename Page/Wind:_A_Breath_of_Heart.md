@@ -1,9 +1,4 @@
-《**Wind: A Breath of
-Heart**》是[日本](../Page/日本.md "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[公司](../Page/公司.md "wikilink")[minori開發的](../Page/minori.md "wikilink")[視覺小說系列](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")，2002年4月19日首次以[日本成人遊戲來販賣](../Page/日本成人遊戲.md "wikilink")，適合[個人電腦使用](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。\[1\]2003年，《Wind:
-A Breath of
-Heart》被移植到[Dreamcast](../Page/Dreamcast.md "wikilink")\[2\]\[3\]與[PlayStation
-2](../Page/PlayStation_2.md "wikilink")\[4\]。《Wind: A Breath of
-Heart》於2004年被改編成[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[OVA與](https://zh.wikipedia.org/wiki/OVA "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。該作品的片頭動畫和插入動畫是由後來的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[導演](https://zh.wikipedia.org/wiki/導演 "wikilink")[新海誠製作而引發了話題](../Page/新海誠.md "wikilink")。
+《**Wind: A Breath of Heart**》是[日本](../Page/日本.md "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[公司](../Page/公司.md "wikilink")[minori開發的](https://zh.wikipedia.org/wiki/minori "wikilink")[視覺小說系列](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")，2002年4月19日首次以[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")來販賣，適合[個人電腦使用](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。\[1\]2003年，《Wind: A Breath of Heart》被移植到[Dreamcast](../Page/Dreamcast.md "wikilink")\[2\]\[3\]與[PlayStation 2](../Page/PlayStation_2.md "wikilink")\[4\]。《Wind: A Breath of Heart》於2004年被改編成[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[OVA與](https://zh.wikipedia.org/wiki/OVA "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。該作品的片頭動畫和插入動畫是由後來的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[導演](https://zh.wikipedia.org/wiki/導演 "wikilink")[新海誠](../Page/新海誠.md "wikilink")製作而引發了話題。
 
 ## 登場人物
 
@@ -63,18 +58,14 @@ Heart》於2004年被改編成[動畫](https://zh.wikipedia.org/wiki/動畫 "wik
   - 音楽：[村山達哉](https://zh.wikipedia.org/wiki/村山達哉 "wikilink")
   - 音楽製作：[Frontier Works](../Page/Frontier_Works.md "wikilink")
   - 音楽製作人：吉川明（Frontier Works）
-  - 製作人：畑中利雄（[IMAGICA
-    Imageworks](https://zh.wikipedia.org/wiki/IMAGICA_Imageworks "wikilink")）、中村誠（Frontier
-    Works）、高山智子（[Geneon Universal Entertainment
-    Japan](https://zh.wikipedia.org/wiki/Geneon_Universal_Entertainment_Japan "wikilink")）、水上高志（[双日](https://zh.wikipedia.org/wiki/双日 "wikilink")）、武智恒雄（[KlockWorx](https://zh.wikipedia.org/wiki/KlockWorx "wikilink")）、山崎明日香（[AT-X](../Page/AT-X.md "wikilink")）、野村宙（RADIX）
-  - 動畫制作：[RADIX](https://zh.wikipedia.org/wiki/RADIX_ACE_ENTERTAINMENT "wikilink")
+  - 製作人：畑中利雄（[IMAGICA Imageworks](https://zh.wikipedia.org/wiki/IMAGICA_Imageworks "wikilink")）、中村誠（Frontier Works）、高山智子（[Geneon Universal Entertainment Japan](https://zh.wikipedia.org/wiki/Geneon_Universal_Entertainment_Japan "wikilink")）、水上高志（[双日](https://zh.wikipedia.org/wiki/双日 "wikilink")）、武智恒雄（[KlockWorx](https://zh.wikipedia.org/wiki/KlockWorx "wikilink")）、山崎明日香（[AT-X](../Page/AT-X.md "wikilink")）、野村宙（RADIX）
+  - 動畫制作：[RADIX](../Page/RADIX_ACE_ENTERTAINMENT.md "wikilink")
   - 製作：Wind製作委員会
 
 ### 主題歌
 
   - 片頭曲「Feel on the wind.」
-    作詞 - [nbkz SAKAI](https://zh.wikipedia.org/wiki/酒井伸和 "wikilink") /
-    作曲・編曲 - TENMON / 歌 - [笠原弘子](../Page/笠原弘子.md "wikilink")
+    作詞 - [nbkz SAKAI](https://zh.wikipedia.org/wiki/酒井伸和 "wikilink") / 作曲・編曲 - TENMON / 歌 - [笠原弘子](../Page/笠原弘子.md "wikilink")
 
 ### 各話列表
 
@@ -117,7 +108,7 @@ Heart》於2004年被改編成[動畫](https://zh.wikipedia.org/wiki/動畫 "wik
 <tr class="even">
 <td><p>4</p></td>
 <td><p>親とはぐれた子供たち</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鴻野貴光" title="wikilink">鴻野貴光</a></p></td>
+<td><p><a href="../Page/鴻野貴光.md" title="wikilink">鴻野貴光</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -128,7 +119,7 @@ Heart》於2004年被改編成[動畫](https://zh.wikipedia.org/wiki/動畫 "wik
 <td><p>堀井明子</p></td>
 <td><p>岩間貴</p></td>
 <td><p>千葉大輔</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/龜田義明" title="wikilink">龜田義明</a></p></td>
+<td><p><a href="../Page/龜田義明.md" title="wikilink">龜田義明</a></p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
@@ -142,7 +133,7 @@ Heart》於2004年被改編成[動畫](https://zh.wikipedia.org/wiki/動畫 "wik
 <td><p>7</p></td>
 <td><p>青い空の優しさ</p></td>
 <td><p>鴻野貴光</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小坂春女" title="wikilink">小坂春女</a></p></td>
+<td><p><a href="../Page/小坂春女.md" title="wikilink">小坂春女</a></p></td>
 <td><p>岡嶋国敏</p></td>
 <td><p>氏家章雄</p></td>
 </tr>
@@ -198,7 +189,7 @@ Heart》於2004年被改編成[動畫](https://zh.wikipedia.org/wiki/動畫 "wik
 <td><p>11</p></td>
 <td><p>古からの運命</p></td>
 <td><p>堀井明子</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/植田秀仁" title="wikilink">植田秀仁</a></p></td>
+<td><p><a href="../Page/植田秀仁.md" title="wikilink">植田秀仁</a></p></td>
 <td><p>岡嶋国敏</p></td>
 <td><p>三浦和也</p></td>
 </tr>
@@ -247,7 +238,7 @@ Heart》於2004年被改編成[動畫](https://zh.wikipedia.org/wiki/動畫 "wik
 <td><p>2004年6月30日 - 9月22日</p></td>
 <td><p>水曜 11:30 - 12:00<br />
 （初回放送）</p></td>
-<td><p><a href="../Page/Sky_PerfecTV!.md" title="wikilink">Sky PerfecTV!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sky_PerfecTV!" title="wikilink">Sky PerfecTV!</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/京都放送.md" title="wikilink">KBS京都</a></p></td>
@@ -302,8 +293,7 @@ Heart》於2004年被改編成[動畫](https://zh.wikipedia.org/wiki/動畫 "wik
 
 ### OVA版
 
-《Wind: A Breath of
-Heart》[OVA版全](https://zh.wikipedia.org/wiki/OVA "wikilink")3巻。\[6\]\[7\]\[8\]
+《Wind: A Breath of Heart》[OVA版全](https://zh.wikipedia.org/wiki/OVA "wikilink")3巻。\[6\]\[7\]\[8\]
 
 #### 工作人員
 
@@ -318,7 +308,7 @@ Heart》[OVA版全](https://zh.wikipedia.org/wiki/OVA "wikilink")3巻。\[6\]\[7
   - 編集 - 田熊純
   - 音楽 - [野崎美波](https://zh.wikipedia.org/wiki/野崎美波 "wikilink")
   - 音楽制作人 - 横山光則
-  - 音響監督 - [飯塚康一](https://zh.wikipedia.org/wiki/飯塚康一 "wikilink")
+  - 音響監督 - [飯塚康一](../Page/飯塚康一.md "wikilink")
   - 動畫制作人 - 新谷義浩
   - 動畫制作 - ヴェネット
   - 製作 - [KSS](https://zh.wikipedia.org/wiki/KSS "wikilink")
@@ -326,8 +316,7 @@ Heart》[OVA版全](https://zh.wikipedia.org/wiki/OVA "wikilink")3巻。\[6\]\[7
 #### 主題歌
 
   - 片頭曲「地図のない物語」
-    作詞 - 真間稜 / 作曲・編曲 - 斉藤英夫 / 歌 -
-    [中司雅美](https://zh.wikipedia.org/wiki/中司雅美 "wikilink")
+    作詞 - 真間稜 / 作曲・編曲 - 斉藤英夫 / 歌 - [中司雅美](https://zh.wikipedia.org/wiki/中司雅美 "wikilink")
   - 片尾曲「輝いて」
     作詞 - 真間稜 / 作曲 - 宮島律子 / 編曲 - 中村康就 / 歌 - 中司雅美
 
@@ -382,41 +371,19 @@ Heart》[OVA版全](https://zh.wikipedia.org/wiki/OVA "wikilink")3巻。\[6\]\[7
 
 ## 外部連結
 
-  - [Official
-    website](https://web.archive.org/web/20070829045225/http://www.minori.ph/lineup/wind/index.html)
+  - [Official website](https://web.archive.org/web/20070829045225/http://www.minori.ph/lineup/wind/index.html)
 
+  - [Dreamcast port official website](https://web.archive.org/web/20041209003145/http://www.alchemist-net.co.jp/products/wind_dc/)
 
-  - [Dreamcast port official
-    website](https://web.archive.org/web/20041209003145/http://www.alchemist-net.co.jp/products/wind_dc/)
+  - [PlayStation 2 port official website](https://web.archive.org/web/20041204124526/http://www.alchemist-net.co.jp/products/wind_a_breath_of_heart_/)
 
+  - [TV anime official website](https://web.archive.org/web/20040609152547/http://www.kazunecity.tv/)
 
-  - [PlayStation 2 port official
-    website](https://web.archive.org/web/20041204124526/http://www.alchemist-net.co.jp/products/wind_a_breath_of_heart_/)
-
-
-  - [TV anime official
-    website](https://web.archive.org/web/20040609152547/http://www.kazunecity.tv/)
-
-
-  - [OVA official
-    website](https://web.archive.org/web/20050206020055/http://www.kss-inc.co.jp/anime/wind/)
-
+  - [OVA official website](https://web.archive.org/web/20050206020055/http://www.kss-inc.co.jp/anime/wind/)
 
   -
 
-[Category:2002年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2002年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink")
-[Category:minori](https://zh.wikipedia.org/wiki/Category:minori "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:2004年UHF動畫](https://zh.wikipedia.org/wiki/Category:2004年UHF動畫 "wikilink")
-[Category:2004年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2004年日本OVA動畫 "wikilink")
-[Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink")
-[Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
+[Category:2002年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2002年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink") [Category:minori](https://zh.wikipedia.org/wiki/Category:minori "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:2004年UHF動畫](https://zh.wikipedia.org/wiki/Category:2004年UHF動畫 "wikilink") [Category:2004年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2004年日本OVA動畫 "wikilink") [Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink") [Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
 
 1.
 2.

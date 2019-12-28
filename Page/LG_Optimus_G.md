@@ -90,8 +90,6 @@
 [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:LG手機](https://zh.wikipedia.org/wiki/Category:LG手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
 
 1.  [LG Optimus G手機介紹 | ePrice](http://www.eprice.com.hk/mobile/intro/4628/lg-optimus-g)
-
 2.  [docomo NEXT series Optimus G L-01E](http://www.nttdocomo.co.jp/product/next/l01e/index.html)
-
 3.
 4.

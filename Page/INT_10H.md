@@ -135,7 +135,7 @@ CH=高行数，CL=左列数，DH=低行数，DL=右列数</p></td>
 ## 参考
 
   - [INT 10h from Ralf Brown Interrupt List, online version](http://www.ctyme.com/intr/int-10.htm)
-  - [INT 10h on www.ousob.com](http://www.ousob.com/ng/asm/ng6f862.php)
+  - [INT 10h on www.ousob.com](https://web.archive.org/web/20121212035831/http://www.ousob.com/ng/asm/ng6f862.php)
 
 ## 参见
 

@@ -59,6 +59,8 @@ BD在中国发展迅速。通过整合，目前成立了以[上海为BD中国区
 
 ## 参考资料
 
+[Category:標準普爾500指數成分股](https://zh.wikipedia.org/wiki/Category:標準普爾500指數成分股 "wikilink")
+
 [Category:美国制药公司](https://zh.wikipedia.org/wiki/Category:美国制药公司 "wikilink") [Category:總部在美國的跨國公司](https://zh.wikipedia.org/wiki/Category:總部在美國的跨國公司 "wikilink") [Category:1897年成立的公司](https://zh.wikipedia.org/wiki/Category:1897年成立的公司 "wikilink")
 
 1.  <http://www.bd.com/china/products.asp>

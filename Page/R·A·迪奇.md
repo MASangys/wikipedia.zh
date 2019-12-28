@@ -6,9 +6,7 @@
 
 迪奇曾入選1996年美國奧運國家代表隊，並在年中選秀時被[德州遊騎兵隊在第一輪選中](https://zh.wikipedia.org/wiki/德州遊騎兵隊 "wikilink")。德州遊騎兵原先提供每年$810,000美金的年薪，但在簽約前進行體檢，被檢出他右手天生沒有尺側副韌帶，他的年薪因此被降到$75,000美金。
 
-他的大聯盟生涯從2001年開始，曾先後加盟[西雅圖水手隊](https://zh.wikipedia.org/wiki/西雅圖水手隊 "wikilink")、[明尼蘇達雙城隊](https://zh.wikipedia.org/wiki/明尼蘇達雙城隊 "wikilink")，但成績並不出色，
-
-2005年，放棄傳統球路，改練蝴蝶球。
+他的大聯盟生涯從2001年開始，曾先後加盟[西雅圖水手隊](https://zh.wikipedia.org/wiki/西雅圖水手隊 "wikilink")、[明尼蘇達雙城隊](https://zh.wikipedia.org/wiki/明尼蘇達雙城隊 "wikilink")，但成績並不出色。 2005年，放棄傳統球路，改練蝴蝶球。
 
 ### 紐約大都會
 

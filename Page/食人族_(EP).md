@@ -58,35 +58,20 @@ position</p></th>
 [Category:凱莎音樂專輯](https://zh.wikipedia.org/wiki/Category:凱莎音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:馬克斯·馬丁製作的專輯](https://zh.wikipedia.org/wiki/Category:馬克斯·馬丁製作的專輯 "wikilink") [Category:盧克博士製作的專輯](https://zh.wikipedia.org/wiki/Category:盧克博士製作的專輯 "wikilink")
 
 1.
-
 2.
-
 3.   Rolling Stone Music|url=[http://www.rollingstone.com/music/news/51942/221573|date=2010-10-18|work=Rolling](http://www.rollingstone.com/music/news/51942/221573%7Cdate=2010-10-18%7Cwork=Rolling) Stone|publisher=Wenner Media LLC|accessdate=2010-11-03}}
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15.
-
 16.
-
 17.
-
 18.

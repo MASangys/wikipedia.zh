@@ -162,14 +162,14 @@ D型型號是貝瑞塔90two系列的純雙動操作扳機（，簡稱：DAO）�
 
 [Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:意大利半自动手枪](https://zh.wikipedia.org/wiki/Category:意大利半自动手枪 "wikilink") [Category:貝瑞塔](https://zh.wikipedia.org/wiki/Category:貝瑞塔 "wikilink") [Category:貝瑞塔手槍](https://zh.wikipedia.org/wiki/Category:貝瑞塔手槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:9×21_IMI口徑槍械](https://zh.wikipedia.org/wiki/Category:9×21_IMI口徑槍械 "wikilink") [Category:.40_S\&W口徑槍械](https://zh.wikipedia.org/wiki/Category:.40_S&W口徑槍械 "wikilink")
 
-1.  [Beretta 90two—New looks—Newly designed anatomical slide and slide catch](http://www.beretta90two.com/index.aspx?m=53&did=70)
-2.  [Beretta 90two—New looks—The newly designed frame](http://www.beretta90two.com/index.aspx?m=53&did=39)
-3.  [Beretta 90two—New looks—Sights](http://www.beretta90two.com/index.aspx?m=53&did=73)
-4.  [Beretta 90two—New looks—Skeletonized hammer](http://www.beretta90two.com/index.aspx?m=53&did=72)
+1.
+2.
+3.
+4.
 5.  [90-Two 9mm and .40S\&W](http://www.berettaweb.com/armi/90-TWO/Beretta%2090-two.htm). Berettaweb.com.
-6.  [Beretta 90two—New looks—Ergonomic and modular grip unit](http://www.beretta90two.com/index.aspx?m=53&did=71)
-7.  [Beretta 90two—New looks—Higher capacity magazine](http://www.beretta90two.com/index.aspx?m=53&did=74)
-8.  [Beretta 90two—New looks—Integral accessory rail](http://www.beretta90two.com/index.aspx?m=53&did=69)
+6.
+7.
+8.
 9.
 10.
 11.

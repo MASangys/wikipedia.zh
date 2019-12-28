@@ -9,11 +9,8 @@ MACS0647-JD是由[太空望遠鏡科學研究所](../Page/太空望遠鏡科學�
 [Category:遥远星系](https://zh.wikipedia.org/wiki/Category:遥远星系 "wikilink") [Category:鹿豹座](https://zh.wikipedia.org/wiki/Category:鹿豹座 "wikilink") [Category:2012年发现的天体](https://zh.wikipedia.org/wiki/Category:2012年发现的天体 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.

@@ -172,7 +172,6 @@
 [Category:週刊Young_Sunday](https://zh.wikipedia.org/wiki/Category:週刊Young_Sunday "wikilink") [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink") [Category:週刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:週刊漫畫雜誌 "wikilink") [Category:小學館的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:小學館的漫畫雜誌 "wikilink") [Category:1987年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1987年創辦的雜誌 "wikilink") [Category:2008年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2008年停刊的雜誌 "wikilink") [Category:1987年日本建立](https://zh.wikipedia.org/wiki/Category:1987年日本建立 "wikilink") [Category:2008年日本廢除](https://zh.wikipedia.org/wiki/Category:2008年日本廢除 "wikilink")
 
 1.  休刊号
-
 2.
 3.
 4.

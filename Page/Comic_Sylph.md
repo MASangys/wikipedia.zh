@@ -3,7 +3,7 @@
 ## 目前連載作品
 
   - [聖靈妖精](https://zh.wikipedia.org/wiki/聖靈妖精 "wikilink")（作画：[RURU](https://zh.wikipedia.org/wiki/RURU "wikilink")　原作：[HuneX](https://zh.wikipedia.org/wiki/HuneX "wikilink")　キャラクターデザイン：[さらちよみ](https://zh.wikipedia.org/wiki/さらちよみ "wikilink")）
-  - [うたの☆プリンスさまっ♪Debut](../Page/歌之王子殿下.md "wikilink")（作画：雪広うたこ、原作：紅ノ月歌音・[ブロッコリー](https://zh.wikipedia.org/wiki/ブロッコリー "wikilink")、キャラクターデザイン原案：[倉花千夏](https://zh.wikipedia.org/wiki/倉花千夏 "wikilink")）
+  - [うたの☆プリンスさまっ♪Debut](../Page/歌之王子殿下.md "wikilink")（作画：雪広うたこ、原作：紅ノ月歌音・[ブロッコリー](https://zh.wikipedia.org/wiki/ブロッコリー "wikilink")、キャラクターデザイン原案：[倉花千夏](../Page/倉花千夏.md "wikilink")）
   - カミツキ（前田とも）
   - コード：ジャスティス（作画：カトーナオ、原作：[陣内](https://zh.wikipedia.org/wiki/陣内 "wikilink")）
   - 死神DOGGY（山本佳奈）
@@ -28,7 +28,7 @@
 ## 過去連載作品
 
   - 悪魔Ｓプリンセス（天河藍）
-  - [うたの☆プリンスさまっ♪](https://zh.wikipedia.org/wiki/うたの☆プリンスさまっ♪ "wikilink")（作画：雪広うたこ、原作：紅ノ月歌音・[ブロッコリー](https://zh.wikipedia.org/wiki/ブロッコリー_\(企業\) "wikilink")、キャラクターデザイン原案：[倉花千夏](https://zh.wikipedia.org/wiki/倉花千夏 "wikilink")）
+  - [うたの☆プリンスさまっ♪](https://zh.wikipedia.org/wiki/うたの☆プリンスさまっ♪ "wikilink")（作画：雪広うたこ、原作：紅ノ月歌音・[ブロッコリー](https://zh.wikipedia.org/wiki/ブロッコリー_\(企業\) "wikilink")、キャラクターデザイン原案：[倉花千夏](../Page/倉花千夏.md "wikilink")）
   - 鳥籠荘の今日も眠たい住人たち（宝井理人、原作：[壁井ユカコ](https://zh.wikipedia.org/wiki/壁井ユカコ "wikilink")、キャラクターデザイン：[テクノサマタ](https://zh.wikipedia.org/wiki/テクノサマタ "wikilink")）
   - エンゲージナイト（作画：小杉繭　原作：伊坂千佳）
   - おまもりのかみさま（小杉繭）

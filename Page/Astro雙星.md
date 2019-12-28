@@ -1,7 +1,5 @@
 **Astro雙星、Astro雙星HD**是[马来西亚](../Page/马来西亚.md "wikilink")[Astro拥有的频道](https://zh.wikipedia.org/wiki/Astro "wikilink")，全天候24小时播出。该频道主要播出来自[台湾和](https://zh.wikipedia.org/wiki/台湾 "wikilink")[中国大陸偶像劇和电视剧](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")。出该頻道备有[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[英文及](https://zh.wikipedia.org/wiki/英文 "wikilink")[马来语](../Page/马来语.md "wikilink")字幕服务。
 
-2018年7月，Astro雙星在平日將會升格為全天候中國電視劇頻道。
-
 ## Astro雙星HD
 
 [Astro雙星HD.png](https://zh.wikipedia.org/wiki/File:Astro雙星HD.png "fig:Astro雙星HD.png") **Astro雙星HD**是[Astro第六個](https://zh.wikipedia.org/wiki/Astro "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[高清頻道](https://zh.wikipedia.org/wiki/高清 "wikilink")，於2014年11月16日正式啟播。该频道於其標清频道同步播出所有劇集。

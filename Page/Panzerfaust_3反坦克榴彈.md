@@ -166,7 +166,7 @@ Panzerfaust 3具有一個分開的特殊包裝，內裡包括備用零件和清�
   - —《轻兵器》杂志—
 
       - 2012年12月上号：[面毁伤轻武器服役历程](http://qinghuadx.dooland.com/wap/article.php?id=249127&verify=)
-      - 2013年11月下号：[秘鲁展示新型反坦克武器](http://www.xzbu.com/8/view-5798583.htm)
+      - 2013年11月下号：[秘鲁展示新型反坦克武器](https://web.archive.org/web/20141011062652/http://www.xzbu.com/8/view-5798583.htm)
 
 ## 外部連結
 

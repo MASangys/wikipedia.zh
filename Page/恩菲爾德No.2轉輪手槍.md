@@ -34,7 +34,7 @@
   - [Энфилд Пистол Револвер № 2 Mk 1](http://www.library.by/portalus/modules/warcraft/special/sprav_guns/guns/main/guns.asp@n=144)
   - [The Corps of the Royal Electrical and Mechanical Engineers Museum of Technology: Pistol Revolver .476 inch Enfield Model 1882](https://web.archive.org/web/20090227055330/http://www.rememuseum.org.uk/arms/pistols/armpr.htm#268)
 
-[Category:左輪手槍](https://zh.wikipedia.org/wiki/Category:左輪手槍 "wikilink") [Category:英國槍械](https://zh.wikipedia.org/wiki/Category:英國槍械 "wikilink") [Category:英國二戰武器](https://zh.wikipedia.org/wiki/Category:英國二戰武器 "wikilink") [Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink")
+[Category:左輪手槍](https://zh.wikipedia.org/wiki/Category:左輪手槍 "wikilink") [Category:軍用左輪手槍](https://zh.wikipedia.org/wiki/Category:軍用左輪手槍 "wikilink") [Category:英國槍械](https://zh.wikipedia.org/wiki/Category:英國槍械 "wikilink") [Category:英國二戰武器](https://zh.wikipedia.org/wiki/Category:英國二戰武器 "wikilink") [Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink")
 
 1.  Stamps, Mark, and Ian Skennerton, *.380 Enfield Revolver No. 2*, page 9.
 2.  Smith, W.H.B, *1943 Basic Manual of Military Small Arms* (facsimile), page 11.

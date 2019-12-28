@@ -1,21 +1,9 @@
-/\* Mobile template hacks (see bug 54176) \*/ .mobile-float-reset {
-
-`   float: none !important;`
-`   width: 100% !important;`
-
-}
-
-/\* Hide the images \*/ .geo-nondefault, .geo-multi-punct, /\* Hide
-stuff meant for accounts with special permissions. Made visible again in
+/\* Hide the images \*/ .geo-nondefault, .geo-multi-punct, /\* Hide stuff meant for accounts with special permissions. Made visible again in
 
 `  `[`MediaWiki:Group-sysop.css`](https://zh.wikipedia.org/wiki/MediaWiki:Group-sysop.css "wikilink")`, `[`MediaWiki:Group-accountcreator.css`](https://zh.wikipedia.org/wiki/MediaWiki:Group-accountcreator.css "wikilink")` and`
 `  `[`MediaWiki:Group-autoconfirmed.css`](https://zh.wikipedia.org/wiki/MediaWiki:Group-autoconfirmed.css "wikilink")`. */`
 
-.sysop-show, .accountcreator-show, .autoconfirmed-show, /\* Copied from
-Common.css - allow for hiding text in compact form e.g. clean up
-templates \*/ .hide-when-compact, /\* portal pages are badly formatted.
-Until this changes these should be hidden. (see
-<https://phabricator.wikimedia.org/T86495>) \*/ .noprint.portal {
+.sysop-show, .accountcreator-show, .autoconfirmed-show, /\* Copied from Common.css - allow for hiding text in compact form e.g. clean up templates \*/ .hide-when-compact, /\* portal pages are badly formatted. Until this changes these should be hidden. (see <https://phabricator.wikimedia.org/T86495>) \*/ .noprint.portal {
 
 `   display: none;`
 
@@ -35,8 +23,7 @@ Until this changes these should be hidden. (see
 `  the number need not be shown on a screen or a handheld,`
 `  but should be included in the printed version`
 
-TODO: Move to Citation template when templates have stylesheets See
-<https://www.mediawiki.org/wiki/Requests_for_comment/Allow_styling_in_templates>
+TODO: Move to Citation template when templates have stylesheets See <https://www.mediawiki.org/wiki/Requests_for_comment/Allow_styling_in_templates>
 
   - /
 
@@ -46,8 +33,7 @@ TODO: Move to Citation template when templates have stylesheets See
 `       display: none;`
 `   }`
 
-} /\* Styling for citations (CSS3). Breaks long urls, etc., rather than
-overflowing box
+} /\* Styling for citations (CSS3). Breaks long urls, etc., rather than overflowing box
 
   - /
 
@@ -57,9 +43,7 @@ overflowing box
 
 }
 
-/\* Default styling for Navbar template TODO: Move to Navbar template
-when templates have stylesheets See
-<https://www.mediawiki.org/wiki/Requests_for_comment/Allow_styling_in_templates>
+/\* Default styling for Navbar template TODO: Move to Navbar template when templates have stylesheets See <https://www.mediawiki.org/wiki/Requests_for_comment/Allow_styling_in_templates>
 
   - /
 
@@ -82,8 +66,7 @@ when templates have stylesheets See
 
 ` font-variant: small-caps;`
 
-} /\* Navbar styling when nested in infobox and navbox \*/ .infobox
-.navbar {
+} /\* Navbar styling when nested in infobox and navbox \*/ .infobox .navbar {
 
 `   font-size: 100%;`
 
@@ -122,9 +105,7 @@ when templates have stylesheets See
 `   margin: 0;`
 `   display: inline;`
 
-} /\* Display nested lists inline \*/ .hlist dl dl, .hlist dl ol, .hlist
-dl ul, .hlist ol dl, .hlist ol ol, .hlist ol ul, .hlist ul dl, .hlist ul
-ol, .hlist ul ul {
+} /\* Display nested lists inline \*/ .hlist dl dl, .hlist dl ol, .hlist dl ul, .hlist ol dl, .hlist ol ol, .hlist ol ul, .hlist ul dl, .hlist ul ol, .hlist ul ul {
 
 `   display: inline;`
 
@@ -137,38 +118,21 @@ ol, .hlist ul ul {
 `   content: " · ";`
 `   font-weight: bold;`
 
-} .mw-parser-output .hlist dd:last-child:after, .mw-parser-output .hlist
-dt:last-child:after, .mw-parser-output .hlist li:last-child:after {
+} .mw-parser-output .hlist dd:last-child:after, .mw-parser-output .hlist dt:last-child:after, .mw-parser-output .hlist li:last-child:after {
 
 `   content: none;`
 
-} /\* Add parentheses around nested lists \*/ .mw-parser-output .hlist
-dd dd:first-child:before, .mw-parser-output .hlist dd
-dt:first-child:before, .mw-parser-output .hlist dd
-li:first-child:before, .mw-parser-output .hlist dt
-dd:first-child:before, .mw-parser-output .hlist dt
-dt:first-child:before, .mw-parser-output .hlist dt
-li:first-child:before, .mw-parser-output .hlist li
-dd:first-child:before, .mw-parser-output .hlist li
-dt:first-child:before, .mw-parser-output .hlist li li:first-child:before
-{
+} /\* Add parentheses around nested lists \*/ .mw-parser-output .hlist dd dd:first-child:before, .mw-parser-output .hlist dd dt:first-child:before, .mw-parser-output .hlist dd li:first-child:before, .mw-parser-output .hlist dt dd:first-child:before, .mw-parser-output .hlist dt dt:first-child:before, .mw-parser-output .hlist dt li:first-child:before, .mw-parser-output .hlist li dd:first-child:before, .mw-parser-output .hlist li dt:first-child:before, .mw-parser-output .hlist li li:first-child:before {
 
 `   content: " (";`
 `   font-weight: normal;`
 
-} .mw-parser-output .hlist dd dd:last-child:after, .mw-parser-output
-.hlist dd dt:last-child:after, .mw-parser-output .hlist dd
-li:last-child:after, .mw-parser-output .hlist dt dd:last-child:after,
-.mw-parser-output .hlist dt dt:last-child:after, .mw-parser-output
-.hlist dt li:last-child:after, .mw-parser-output .hlist li
-dd:last-child:after, .mw-parser-output .hlist li dt:last-child:after,
-.mw-parser-output .hlist li li:last-child:after {
+} .mw-parser-output .hlist dd dd:last-child:after, .mw-parser-output .hlist dd dt:last-child:after, .mw-parser-output .hlist dd li:last-child:after, .mw-parser-output .hlist dt dd:last-child:after, .mw-parser-output .hlist dt dt:last-child:after, .mw-parser-output .hlist dt li:last-child:after, .mw-parser-output .hlist li dd:last-child:after, .mw-parser-output .hlist li dt:last-child:after, .mw-parser-output .hlist li li:last-child:after {
 
 `   content: ") ";`
 `   font-weight: normal;`
 
-} /\* Put ordinals in front of ordered list items \*/ .mw-parser-output
-.hlist ol {
+} /\* Put ordinals in front of ordered list items \*/ .mw-parser-output .hlist ol {
 
 `   counter-reset: list-item;`
 
@@ -180,9 +144,7 @@ dd:last-child:after, .mw-parser-output .hlist li dt:last-child:after,
 
 `   content: " " counter(list-item) " ";`
 
-} .mw-parser-output .hlist dd ol \> li:first-child:before,
-.mw-parser-output .hlist dt ol \> li:first-child:before,
-.mw-parser-output .hlist li ol \> li:first-child:before {
+} .mw-parser-output .hlist dd ol \> li:first-child:before, .mw-parser-output .hlist dt ol \> li:first-child:before, .mw-parser-output .hlist li ol \> li:first-child:before {
 
 `   content: " (" counter(list-item) " ";`
 
@@ -194,8 +156,7 @@ dd:last-child:after, .mw-parser-output .hlist li dt:last-child:after,
 
 }
 
-/\* Hatnotes and disambiguation notices Please review the default
-hatnote styles provided by MobileFrontend before adding here.
+/\* Hatnotes and disambiguation notices Please review the default hatnote styles provided by MobileFrontend before adding here.
 
   - /
 
@@ -209,15 +170,12 @@ hatnote styles provided by MobileFrontend before adding here.
 
 }
 
-/\* Geographical coordinates defaults. See
-[Template:Coord/link](https://zh.wikipedia.org/wiki/Template:Coord/link "wikilink")
+/\* Geographical coordinates defaults. See [Template:Coord/link](https://zh.wikipedia.org/wiki/Template:Coord/link "wikilink")
 
 `  for how these are used. The classes "geo", "longitude", and`
-`  "latitude" are used by the `[`Geo``
- ``microformat`](https://zh.wikipedia.org/wiki/Geo_microformat "wikilink")`. */`
+`  "latitude" are used by the `[`Geo``   ``microformat`](https://zh.wikipedia.org/wiki/Geo_microformat "wikilink")`. */`
 
-.geo-default, .geo-dms, .geo-dec { display: inline; } .longitude,
-.latitude { white-space: nowrap; }
+.geo-default, .geo-dms, .geo-dec { display: inline; } .longitude, .latitude { white-space: nowrap; }
 
 /\* Prevent line breaks in silly places:
 
@@ -260,8 +218,7 @@ Please document here what pages use this
 
 }
 
-/\* Until Geohack is mobile optimised and/or there is a nice alternative
-e.g. map namespace \*/ .alpha \#li-coordinates {
+/\* Until Geohack is mobile optimised and/or there is a nice alternative e.g. map namespace \*/ .alpha \#li-coordinates {
 
 `   display: list-item;`
 
@@ -294,5 +251,11 @@ e.g. map namespace \*/ .alpha \#li-coordinates {
 4.  mp-2012-body .floatright {
 
 `   text-align: center;`
+
+}
+
+/\* HACK to workaround VE and badly written CGroups \*/ .noteTA {
+
+`   display: none;`
 
 }

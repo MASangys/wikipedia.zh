@@ -1580,7 +1580,7 @@ BJ Chong之朋友，後為其女友</p></td>
 16. [星島日報：闊別10年守護緣分《衝II》監製： 鎮宇為Fans再演Sam哥](http://news.singtao.ca/toronto/2013-07-13/entertainment1373691633d4593017.html) ，2013年7月13日
 17. ["衝上雲霄2"遭吐槽：陳法拉不入戲 主題曲不合拍](http://big5.chinanews.com:89/yl/2013/07-24/5079941.shtml)，2013年07月24日
 18. [蘋果日報：阿Lam唱《衝II》主題曲 被彈唔啱Feel](http://hk.apple.nextmedia.com/entertainment/art/20130701/18317879)，2013年07月01日
-19. [大公報﹕經典劇續集難做 《衝上雲霄2》未播獲51宗投訴](http://ent.takungpao.com.hk/tv/q/2013/0704/1736240.html)，2013年7月4日
+19. [大公報﹕經典劇續集難做 《衝上雲霄2》未播獲51宗投訴](http://ent.takungpao.com.hk/tv/q/2013/0704/1736240.html) ，2013年7月4日
 20. \[<http://hk.apple.nextmedia.com/entertainment/art/20130717/18336927>
 21. [蘋果日報﹕馮仁昭四圍超：被插老套發老脾 林子祥：唔鍾意咪聽](http://hk.apple.nextmedia.com/entertainment/art/20130808/18368381)，2013年08月08日
 22. [明報：Sam哥飛機頭回歸最高收視33點](http://news.sina.com.hk/news/20130720/-15-3021361/1.html)，2013年07月20日

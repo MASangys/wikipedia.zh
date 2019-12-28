@@ -87,7 +87,7 @@
 2.
 3.
 4.  [Google Fiber KCK](http://www.google.com/fiber/kansascityks/index.html)
-5.  [Expansion plans](https://fiber.google.com/newcities/)
+5.
 6.  [Google Gets Into the Cable TV Business, for Real](http://allthingsd.com/20120726/google-gets-into-the-cable-tv-business-for-real/), *All Things Digital*, July 26, 2012.
 7.
 8.

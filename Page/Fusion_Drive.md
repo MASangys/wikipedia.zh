@@ -115,9 +115,6 @@ Fusion Drive 配置详情：
 [Category:麦金塔](https://zh.wikipedia.org/wiki/Category:麦金塔 "wikilink") [Category:電腦貯存裝置](https://zh.wikipedia.org/wiki/Category:電腦貯存裝置 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

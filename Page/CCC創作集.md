@@ -248,6 +248,6 @@
 16. [FF19+CWT30新刊—CCC的石唬單行本](http://kokaiko.pixnet.net/blog/post/36142022)
 17. [夜巡曲](http://blog.yam.com/salahd/article/48631609)
 18. [We Stay, We Live 灣](http://carsen.dreamhosters.com/amatiz/)
-19. [台灣氫年畫冊-維新](http://blog.roodo.com/kcn/archives/19698394.html)
+19.
 20. 《跟著CCC創作集去旅行》2012/7 數位典藏與數位學習國家型科技計畫數位核心平臺計畫 ISBN 9789860331561
 21. [《Ghost Graffiti Galley 鬼塗鴉畫廊》 Pubu電子書免費公開](https://www.pubu.com.tw/ebook/55333)

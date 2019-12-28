@@ -419,7 +419,7 @@
       - 2012年7月上號：[以色列最新一代枪械亮相2012年智利国际航空航天防务展](http://news.xinhuanet.com/mil/2012-03/30/c_122909940.htm)
       - 2012年10月下號：[立于“巨人”之肩：伽利尔ACE步枪系列](http://www.xzbu.com/8/view-3610018.htm)
       - 2013年4月上號：[以色列武器工业公司ACE22N半自动步枪](http://wuxizazhi.cnki.net/Search/QBQI201307002.html)
-      - 2014年3月下號：[以色列武器工业公司开始在越南生产突击步枪](http://www.xzbu.com/8/view-5781625.htm)
+      - 2014年3月下號：[以色列武器工业公司开始在越南生产突击步枪](https://web.archive.org/web/20150108180936/http://www.xzbu.com/8/view-5781625.htm)
       - 2015年5月上號：[第18届智利航空航天展上的轻武器](https://web.archive.org/web/20150518102242/http://gdwap.dooland.com/article.php?id=653597)
       - 2015年5月上號：[2014年国外枪械发展回顾](https://archive.is/20150515153021/http://gdwap.dooland.com/article.php?id=653621)
       - 2015年11月下號：[以色列IWI公司ACE SAR步枪](http://mall.cnki.net/magazine/Article/QBQI201522010.htm)

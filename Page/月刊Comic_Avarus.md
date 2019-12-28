@@ -88,7 +88,7 @@
 
 ### 表紙イラスト
 
-  - [倉花千夏](https://zh.wikipedia.org/wiki/倉花千夏 "wikilink")（創刊号 - 2008年9月号）
+  - [倉花千夏](../Page/倉花千夏.md "wikilink")（創刊号 - 2008年9月号）
   - [カズキヨネ](https://zh.wikipedia.org/wiki/カズキヨネ "wikilink")（2008年10月号 - 2010年9月号）
 
 ### 其他

@@ -8,5 +8,5 @@
 
 [Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:大型多人在线游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线游戏 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink") [Category:合金弹头系列](https://zh.wikipedia.org/wiki/Category:合金弹头系列 "wikilink")
 
-1.  [Metal Slug OL: Released in 2009--12-02-2008](http://feature.mmosite.com/content/2008-12-01/20081201193827139,1.shtml)
-2.  [Metal Slug Zero Online Development Suspense](http://news.mmosite.com/content/2009-07-30/20090730010404902,1.shtml)
+1.
+2.

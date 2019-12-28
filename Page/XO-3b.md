@@ -28,20 +28,13 @@ XO-3b被認為是相當特殊的行星，因為它的質量相當巨大，接近
 2.
 3.
 4.  [Oddball Planet Puzzles Astronomers, *Space.com*](http://www.space.com/scienceastronomy/070530_odd_planet.html)
-
 5.  [Space oddity: Astronomers discover giant planet, *The Times of India*](https://web.archive.org/web/20070602204832/http://timesofindia.indiatimes.com/HealthScience/Space_oddity_Astronomers_discover_giant_planet/articleshow/2088130.cms)
-
 6.
 7.  [XO-3 b: Supersized planet or oasis in the 'brown dwarf desert'?, *EurekAlert\!*](http://www.eurekalert.org/pub_releases/2007-05/ru-xsp052507.php)
-
 8.  ([web preprint](http://arxiv.org/abs/0806.0719))
-
 9.
-
 10.
 11.
-
 12.
-
 13.
 14.

@@ -40,8 +40,8 @@
 ## 參見
 
   - [貝瑞塔產品列表](../Page/貝瑞塔產品列表.md "wikilink")
-  - [貝瑞塔M1918](https://zh.wikipedia.org/wiki/貝瑞塔M1918 "wikilink")
-  - [貝瑞塔M38/42](https://zh.wikipedia.org/wiki/貝瑞塔M38 "wikilink")
+  - [貝瑞塔M1918](../Page/貝瑞塔M1918衝鋒槍.md "wikilink")
+  - [貝瑞塔M38/42](../Page/貝瑞塔M1938衝鋒槍.md "wikilink")
   - [貝瑞塔M3](../Page/貝瑞塔M3衝鋒槍.md "wikilink")
   - [貝瑞塔M12／M12S](../Page/貝瑞塔M12衝鋒槍.md "wikilink")
   - [貝瑞塔Px4 Storm](../Page/貝瑞塔Px4_Storm半自動手槍.md "wikilink")，[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")／[9×21毫米IMI](https://zh.wikipedia.org/wiki/9×21_IMI "wikilink")、[.40 S\&W](../Page/.40_S&W.md "wikilink")、[.45 ACP](../Page/.45_ACP.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")

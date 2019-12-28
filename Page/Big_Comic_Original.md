@@ -134,6 +134,8 @@
 
   - [垣根の魔女](https://zh.wikipedia.org/wiki/垣根の魔女 "wikilink")（[村野守美](https://zh.wikipedia.org/wiki/村野守美 "wikilink")）
 
+  - [真相夜線](../Page/真相夜線.md "wikilink")（[豬瀨直樹](../Page/豬瀨直樹.md "wikilink")作、[弘兼憲史](../Page/弘兼憲史.md "wikilink")畫）
+
 ## 外部連結
 
   - [小学館コミック -ビッグスリーネット-ビッグコミックオリジナル](http://big-3.jp/bigoriginal/)

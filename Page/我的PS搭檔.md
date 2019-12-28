@@ -72,7 +72,7 @@
 
 ## 評價
 
-  - [香港爽報的](../Page/爽報_\(香港\).md "wikilink")《張居》給予3顆星（最高5顆），說：「頹爆男在電話接到女聲一輪性感呻吟，隔空纏綿，這樣題材，或許只有韓國才能拍到沒有淫穢意味。這浪漫喜劇，色情部份沒有過份俗氣，當中以女配角全裸上陣最有睇頭，相對女主角金亞中演繹火辣[床上戲](../Page/床戏.md "wikilink")，男主角地成僅露腹肌，似乎較為保守。慾只是配菜，情才是主角，片中提及現今很多相戀男女的問題，面對愛情時的徬徨和矛盾心理，令觀眾更有共鳴，值得留意的還有男、女主角親自主唱當中寫滿大膽歌詞的訂情主題曲，結合一連串唔怕醜的[性愛場面](../Page/床戏.md "wikilink")，浪漫幽默爆笑兼備。」\[1\]
+  - [香港爽報的](../Page/爽報_\(香港\).md "wikilink")《張居》給予3顆星（最高5顆），說：「頹爆男在電話接到女聲一輪性感呻吟，隔空纏綿，這樣題材，或許只有韓國才能拍到沒有淫穢意味。這浪漫喜劇，色情部份沒有過份俗氣，當中以女配角全裸上陣最有睇頭，相對女主角金亞中演繹火辣[床上戲](../Page/床戏.md "wikilink")，男主角池成僅露腹肌，似乎較為保守。慾只是配菜，情才是主角，片中提及現今很多相戀男女的問題，面對愛情時的徬徨和矛盾心理，令觀眾更有共鳴，值得留意的還有男、女主角親自主唱當中寫滿大膽歌詞的訂情主題曲，結合一連串唔怕醜的[性愛場面](../Page/床戏.md "wikilink")，浪漫幽默爆笑兼備。」\[1\]
 
 ## 票房
 
@@ -89,7 +89,7 @@
 ## 外部連結
 
   -
-  - [NAVER電影](http://movie.naver.com/movie/bi/mi/basic.nhn?code=90885)
+  - [NAVER電影](https://web.archive.org/web/20170726031118/http://movie.naver.com/movie/bi/mi/basic.nhn?code=90885)
 
   -
 [Category:2012年電影](https://zh.wikipedia.org/wiki/Category:2012年電影 "wikilink") [Category:韩国浪漫喜剧片](https://zh.wikipedia.org/wiki/Category:韩国浪漫喜剧片 "wikilink") [Category:2010年代浪漫喜剧片](https://zh.wikipedia.org/wiki/Category:2010年代浪漫喜剧片 "wikilink") [Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink") [Category:韩国情色片](https://zh.wikipedia.org/wiki/Category:韩国情色片 "wikilink") [Category:電話題材作品](https://zh.wikipedia.org/wiki/Category:電話題材作品 "wikilink")

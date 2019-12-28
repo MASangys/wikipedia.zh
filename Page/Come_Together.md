@@ -54,21 +54,13 @@
 [Category:1969年單曲](https://zh.wikipedia.org/wiki/Category:1969年單曲 "wikilink") [Category:披頭四歌曲](https://zh.wikipedia.org/wiki/Category:披頭四歌曲 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.

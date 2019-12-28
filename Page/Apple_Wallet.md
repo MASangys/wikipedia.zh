@@ -161,53 +161,29 @@ Mobile Boarding Passes"\></ref>
 [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
 
 1.
-
 2.  <https://developer.apple.com/passbook/>
-
 3.
-
 4.  <http://www.passsource.com/info/new.php> What's new in Passbook with iOS 9
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10. <http://www.imore.com/windows-phone-81-somehow-working-apple-passbook>
-
 11. <https://www.passsource.com/info/#view> New version of PassSource.com offers web views of passes
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
 26.
-
 27.

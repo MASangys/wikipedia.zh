@@ -1024,7 +1024,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/多尔夫·谢伊斯" title="wikilink">多尔夫·谢伊斯</a></p></td>
+<td><p><a href="../Page/多尔夫·谢伊斯.md" title="wikilink">多尔夫·谢伊斯</a></p></td>
 <td><p><a href="../Page/费城76人.md" title="wikilink">费城76人</a></p></td>
 <td><p>前锋/中鋒</p></td>
 <td><p>1949–1964</p></td>

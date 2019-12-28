@@ -52,7 +52,7 @@
   - [新 吼えろペン](https://zh.wikipedia.org/wiki/吼えろペン "wikilink")（島本和彦） 2004年11月号 - 2008年8月号
   - 素晴らしい世界（[浅野いにお](https://zh.wikipedia.org/wiki/浅野いにお "wikilink")） 2002年6月号 - 2004年4月号 ※シリーズ読切
   - [スピリチュアルぱらだいす](https://zh.wikipedia.org/wiki/スピリチュアルぱらだいす "wikilink")（[小野寺浩二](https://zh.wikipedia.org/wiki/小野寺浩二 "wikilink")） 2007年5月 - 2009年7月
-  - [スラッシュダウン](https://zh.wikipedia.org/wiki/スラッシュダウン "wikilink")（[光永康則](https://zh.wikipedia.org/wiki/光永康則 "wikilink")） 2002年9月号 - 2002年11月号
+  - [スラッシュダウン](https://zh.wikipedia.org/wiki/スラッシュダウン "wikilink")（[光永康則](../Page/光永康則.md "wikilink")） 2002年9月号 - 2002年11月号
   - [世界制服](https://zh.wikipedia.org/wiki/世界制服 "wikilink")（榎本ナリコ） 2008年2月号 - 2009年2月号
   - [正義警官モンジュ](https://zh.wikipedia.org/wiki/正義警官モンジュ "wikilink")（[宮下裕樹](https://zh.wikipedia.org/wiki/宮下裕樹 "wikilink")） 2004年12月号 - 2011年8月号
   - [センツォン・ヒッチャーズ&アンダーテイカー](https://zh.wikipedia.org/wiki/Ergo_Proxy#センツォン・ヒッチャーズ&アンダーテイカー "wikilink")（[manglobe](https://zh.wikipedia.org/wiki/マングローブ_\(アニメ制作会社\) "wikilink")+原尾有美子） 2006年3月号 - 2006年12月号

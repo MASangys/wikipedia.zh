@@ -37,8 +37,6 @@
 [Category:爱卡莉](https://zh.wikipedia.org/wiki/Category:爱卡莉 "wikilink") [Category:米兰达·科斯格罗夫专辑](https://zh.wikipedia.org/wiki/Category:米兰达·科斯格罗夫专辑 "wikilink") [Category:电视原声带](https://zh.wikipedia.org/wiki/Category:电视原声带 "wikilink") [Category:2012年原声带](https://zh.wikipedia.org/wiki/Category:2012年原声带 "wikilink") [Category:英语原声带](https://zh.wikipedia.org/wiki/Category:英语原声带 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

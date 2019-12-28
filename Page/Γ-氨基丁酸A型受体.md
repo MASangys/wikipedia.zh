@@ -102,57 +102,31 @@ GABA受体是半胱氨酸环超家族的一员，半胱氨酸环超家族包含�
 [Category:跨膜受体](https://zh.wikipedia.org/wiki/Category:跨膜受体 "wikilink") [Category:离子通道](https://zh.wikipedia.org/wiki/Category:离子通道 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16. Martin IL and Dunn SMJ. [GABA receptors](http://www.tocris.com/pdfs/gabarev.pdf) A review of GABA and the receptors to which it binds. Tocris Cookson LTD.
-
 17.
-
 18.
 19.
-
 20.
 21.
-
 22. (a) ; (b) ; (c); (d) ; (e) ; (f) ; (g) ; (h) ; (i) ; (j)
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29. ten Hoeve AL (2012). [GABA receptors and the immune system](http://www.openthesis.org/documents/GABA-receptors-immune-system-601061.html). *Thesis*, Utrecht University

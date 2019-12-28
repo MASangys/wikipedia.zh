@@ -8,13 +8,13 @@
 
 俄羅斯（全稱：開放聯合股份公司“V.A.捷格加廖夫工廠”；，常用縮寫：）被政府賦予了研製及生產可以發射[.50俄羅斯](../Page/12.7×108mm.md "wikilink")（12.7×108毫米）[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")、可以用於支持安裝在車輛上或具有防空能力的重型武器的更新版本的工作。其研製成果就是Kord重機槍。
 
-目前，Kord重機槍已經建立了其[生產線](../Page/大量生產.md "wikilink")，Kord正式通過了[俄羅斯軍隊測試並且被俄羅斯軍隊所採用](../Page/俄罗斯军事.md "wikilink")。除了步兵版本，它被設置為安裝在俄羅斯[T-90主戰坦克](../Page/T-90主戰坦克.md "wikilink")以及[T-14型主戰坦克的防空砲塔上作為防空機槍使用](https://zh.wikipedia.org/wiki/T-14 "wikilink")。
+目前，Kord重機槍已經建立了其[生產線](../Page/大量生產.md "wikilink")，Kord正式通過了[俄羅斯軍隊測試並且被俄羅斯軍隊所採用](../Page/俄罗斯军事.md "wikilink")。除了步兵版本，它亦被設置為安裝在俄羅斯[T-90主戰坦克](../Page/T-90主戰坦克.md "wikilink")以及[T-14型主戰坦克的防空砲塔以上用作防空機槍](https://zh.wikipedia.org/wiki/T-14 "wikilink")。
 
 ## 設計細節
 
 雖然Kord重機槍的性能、構造和外觀上都類似於前蘇聯軍隊制式的NSV重機槍，但內部機構已經被大量的重新設計。閉鎖機構由原來的[水平旋轉後膛閉鎖改為卡拉什尼科夫樣式](https://zh.wikipedia.org/wiki/水平旋轉後膛閉鎖 "wikilink")[轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")閉鎖機構設計。\[4\]此外，[氣動式操行系統亦已被修改](../Page/氣動式_\(槍械\).md "wikilink")，而[槍口制退器內的擋板亦是重新設計](../Page/砲口制動器.md "wikilink")。這些改進的變化讓這武器的[後座力](../Page/後座力.md "wikilink")比NSV降低了很多，讓其在持續射擊時有更大的[準確性](../Page/準確與精密.md "wikilink")。供彈方向可以很容易地改變，由右邊供彈改為左邊供彈。
 
-Kord重機槍採用了新的結構，從而明顯地比它的前身NSV重機槍較為輕便。不過其發射機構仍然是非常堅固的，另一方面亦使其有更高的發射速率和顯著地降低[後座力](../Page/後座力.md "wikilink")。而經過修改的槍口上所裝上的[槍口制退器亦有助降低後座力](../Page/砲口制動器.md "wikilink")。因為一根全新的高科技[合金](../Page/合金.md "wikilink")製作而成的[槍管](../Page/槍管.md "wikilink")最大限度地減少彈度的變形和下沉，使[精度大大增加](../Page/準確與精密.md "wikilink")，甚至超過以前的蘇聯機槍。除了使用的開放式可調節[機械瞄具](../Page/機械瞄具.md "wikilink")以外，[機匣的尾部左側亦整合了屬於俄羅斯標準的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[瞄準鏡導軌](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")，用以裝上[PSO-1等快拆式](../Page/PSO-1光學瞄準鏡.md "wikilink")[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")。
+Kord重機槍採用了新的結構，從而明顯地比它的前身NSV重機槍較為輕便。不過其發射機構仍然非常堅固，另一方面亦使得其有更高的發射速率和顯著地降低[後座力](../Page/後座力.md "wikilink")。而經過修改的槍口上所裝上的[槍口制退器亦有於助降低後座力](../Page/砲口制動器.md "wikilink")。因為一根全新的高科技[合金](../Page/合金.md "wikilink")製作而成的[槍管](../Page/槍管.md "wikilink")最大限度地減少彈度的變形和下沉，使得[精度大大增加](../Page/準確與精密.md "wikilink")，甚至超過以前的蘇聯機槍。除了使用的開放式可調節[機械瞄具](../Page/機械瞄具.md "wikilink")以外，[機匣的尾部左側亦整合了屬於俄羅斯標準的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[瞄準鏡導軌](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")，用以裝上[PSO-1等快拆式](../Page/PSO-1光學瞄準鏡.md "wikilink")[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")。
 
 與其前身和絕大多數其他重機槍都不同的是，Kord重機槍新增了構造單純、可以讓步兵隊更容易使用的6T19（）輕量[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，這樣使Kord可以利用兩腳架協助射擊。這一點在12.7毫米（.50英吋）口徑重機槍而言實在是一個獨特的功能。其相對地較輕的重量和更低的後坐力讓較強壯的士兵不需要協助下搬動機槍，甚至握緊Kord並以抵腰射姿射擊。（雖然以實際瞄準射擊而言並沒有合理的可能性）\[5\]
 
@@ -65,9 +65,7 @@ Kord重機槍同時出現在[电影](../Page/电影.md "wikilink")、[电視劇�
   - 2011年—《[-{zh-cn:战地3; zh-tw:戰地風雲3;}-](../Page/戰地風雲3.md "wikilink")》（Battlefield 3）：安裝在[VDV越野車](https://zh.wikipedia.org/wiki/VDV越野車 "wikilink")（乘員武器）、GAZ-3937沃德尼克（藉由[遙控武器系統](../Page/遙控武器系統.md "wikilink")的乘員武器）、[武裝改裝車](https://zh.wikipedia.org/wiki/武裝改裝車 "wikilink")（主要武器）、RHINO（藉由[遙控武器系統](../Page/遙控武器系統.md "wikilink")的主要武器）、[BMP-2M](../Page/BMP-2步兵戰車.md "wikilink")[步兵戰車](https://zh.wikipedia.org/wiki/裝步戰車 "wikilink")（藉由[遙控武器系統](../Page/遙控武器系統.md "wikilink")的乘員武器）、[BTR-90](../Page/BTR-90.md "wikilink")[步兵戰車](https://zh.wikipedia.org/wiki/裝步戰車 "wikilink")（藉由[遙控武器系統](../Page/遙控武器系統.md "wikilink")的乘員武器）、[SPRUT](../Page/2A45反坦克炮.md "wikilink")-[SD](../Page/2S25反戰車自走炮.md "wikilink")[驅逐戰車](../Page/驅逐戰車.md "wikilink")（替代武器）和[T-90A](../Page/T-90主戰坦克.md "wikilink")[主戰坦克](https://zh.wikipedia.org/wiki/坦克#主戰坦克 "wikilink")（藉由[遙控武器系統](../Page/遙控武器系統.md "wikilink")的乘員武器和替代武器方面的「[同軸重機槍](../Page/同軸武器.md "wikilink")」）上並且被俄羅斯軍隊所使用，單人故事模式之中亦可被[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")第一侦察营“迷斯菲1-3”（Misfit 1-3）五人战术小队成員亨利·布列克上士（SSgt. Henry "Black" Blackburn）所繳獲。
   - 2013年—《[潛龍諜影崛起：再復仇](https://zh.wikipedia.org/wiki/潛龍諜影崛起：再復仇 "wikilink")》（Metal Gear Rising: Revengeance）：安裝在烏克蘭設計的奇格勒（Grad）無人載具的後部艙門上，主要於“地堡”模式時，頭部區段降低並抬高了後方上部裝置以後使用。
   - 2013年—《[-{zh-cn:战地4; zh-tw:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield 4）：安裝在[VDV越野車](https://zh.wikipedia.org/wiki/VDV越野車 "wikilink")（主要武器）、SPM-3（藉由[遙控武器系統](../Page/遙控武器系統.md "wikilink")的乘員武器）、[BTR-90](../Page/BTR-90.md "wikilink")[步兵戰車](https://zh.wikipedia.org/wiki/裝步戰車 "wikilink")（藉由[遙控武器系統](../Page/遙控武器系統.md "wikilink")的乘員武器）、[BMP-2M](../Page/BMP-2步兵戰車.md "wikilink")[步兵戰車](https://zh.wikipedia.org/wiki/裝步戰車 "wikilink")（乘員武器）、[T-90A](../Page/T-90主戰坦克.md "wikilink")[主戰坦克](https://zh.wikipedia.org/wiki/坦克#主戰坦克 "wikilink")（乘員武器和替代武器方面的「[同軸重機槍](../Page/同軸武器.md "wikilink")」）、[HT-95列夫科夫](../Page/S型戰車.md "wikilink")（藉由[遙控武器系統](../Page/遙控武器系統.md "wikilink")的乘員武器和替代武器方面的「[同軸重機槍](../Page/同軸武器.md "wikilink")」）和架設在[三腳架上](https://zh.wikipedia.org/wiki/三腳架 "wikilink")（連機槍防盾）並且被俄羅斯軍隊所使用，單人故事模式之中亦可被[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")精英小隊「墓碑」隊長丹尼爾·雷克（Daniel Recker）所繳獲。
-  - 2019年—《[少女前線](../Page/少女前线.md "wikilink")》 （girl’s frontline) : 在2019年夏季活動—裂變鏈接中作為5星機槍人形加入。
-
-
+  - 2019年—《[少女前線](../Page/少女前线.md "wikilink")》（Girl’s frontline）：在2019年夏季活動—裂變鏈接中作為5星機槍人形加入。
 
 ## 參見
 

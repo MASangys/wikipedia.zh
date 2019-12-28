@@ -141,6 +141,5 @@ goldEN的名字來源與其[英倫音樂風格](https://zh.wikipedia.org/wiki/�
 [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink")
 
 1.  [新組合goldEN賣「足金金猴」 - 20121109 - 《蘋果日報》即時新聞](http://hk.apple.nextmedia.com/realtime/entertainment/20121109/51136301)，2012年11月11日 (日) 00:15 (UTC+8)查閱
-
 2.
 3.  《足金金猴》專輯內歌詞本曾提及。

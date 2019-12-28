@@ -1,6 +1,7 @@
 **Tick-Tock**是[Intel公司發展](https://zh.wikipedia.org/wiki/Intel "wikilink")[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")[晶片設計製造業務的一種發展戰略模式](https://zh.wikipedia.org/wiki/晶片 "wikilink")，在2007年正式提出。Intel指出，每一次處理器微架構的更新和每一次晶片製程的更新，它們的時機應該錯開，使他們的微處理器晶片設計製造業務更有效率地發展。“Tick-Tock”的名稱源於[時鐘](../Page/時鐘.md "wikilink")秒針行走時所發出的聲響。Intel指，每一次“Tick”代表著一代微架構的處理器晶片製程的更新，意在處理器效能幾近相同的情況下，縮小晶片[面積](https://zh.wikipedia.org/wiki/面積 "wikilink")、減小能耗和發熱量；而每一次“Tock”代表著在上一次“Tick”的晶片製程的基礎上，更新微處理器架構，提升效能。一般一次“Tick-Tock”的週期為兩年，“Tick”佔一年，“Tock”佔一年。\[1\]
 
 此策略常被許多電腦玩家戲稱“擠牙膏策略”，因為每一代新處理器效能和前一代處理器效能的差距很短，就好像Haswell的4790K和Skylake的6700K那樣。2016年3月22日，Intel在财务报告中宣布，Tick Tock将放缓至三年一循环，即增加优化环节，进一步减缓实际更新的速度。\[2\]
+Intel的主要對手AMD歷年來也跟隨著Intel的製程腳步做處理器演進，並在2009年於美國分拆出子公司[格羅方德作為代工夥伴](https://zh.wikipedia.org/wiki/格羅方德 "wikilink")，一直合作生產直到2018年14奈米的Zen處理器產品為止。由於製程難度提高，AMD在2018年8月底AMD公佈消息，取消以[格羅方德做為Zen](https://zh.wikipedia.org/wiki/格羅方德 "wikilink")2處理器產品代工夥伴的規劃，轉用[台積電作為代工廠以生產](https://zh.wikipedia.org/wiki/台積電 "wikilink")7奈米的Zen2處理器，而此時的Intel之10奈米產線仍因為良率問題無法大規模供貨於市場。AMD在2019年11月底宣布，將會繼續遵循Intel Tick Tock的精神繼續生產Zen2及Zen3處理器。 \[3\]
 
 ## 環節
 
@@ -47,7 +48,7 @@
 <td><p>Tock</p></td>
 <td><p>架構</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Intel_Core微處理器架構" title="wikilink">Core</a></p></td>
-<td><p>2006年6月27日[3]</p></td>
+<td><p>2006年6月27日[4]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -55,13 +56,13 @@
 <td><p>製程</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Intel_Penryn" title="wikilink">Penryn</a></p></td>
 <td><p>45納米</p></td>
-<td><p>2007年11月11日[4]</p></td>
+<td><p>2007年11月11日[5]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Tock</p></td>
 <td><p>架構</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Intel_Nehalem" title="wikilink">Nehalem</a></p></td>
-<td><p>2008年11月17日[5]</p></td>
+<td><p>2008年11月17日[6]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/List_of_Intel_Xeon_microprocessors#.22Beckton.22_.2845_nm.29" title="wikilink">Nehalem-EX (Beckton)</a></p></td>
 </tr>
 <tr class="even">
@@ -69,13 +70,13 @@
 <td><p>製程</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Intel_Westmere" title="wikilink">Westmere</a></p></td>
 <td><p>32納米</p></td>
-<td><p>2010年1月4日[6][7]</p></td>
+<td><p>2010年1月4日[7][8]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Tock</p></td>
 <td><p>架構</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sandy_Bridge" title="wikilink">Sandy Bridge</a></p></td>
-<td><p>2011年1月9日[8]</p></td>
+<td><p>2011年1月9日[9]</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="even">
@@ -95,8 +96,8 @@
 <tr class="even">
 <td><p>Process</p></td>
 <td><p>製程</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Intel_Broadwell" title="wikilink">Broadwell</a>[9]</p></td>
-<td><p>14納米[10]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Intel_Broadwell" title="wikilink">Broadwell</a>[10]</p></td>
+<td><p>14納米[11]</p></td>
 <td><p>2014年1月</p></td>
 </tr>
 <tr class="odd">
@@ -199,11 +200,12 @@
 
 1.  [Intel Tick-Tock Model](http://www.intel.com/content/www/us/en/silicon-innovations/intel-tick-tock-model-general.html)
 2.  <http://cn.engadget.com/2016/03/23/intel-eliminating-tick-tock-moores-law/>
-3.  [Intel CEO: Latest Platforms, Processors Form New Foundations For Digital Entertainment And Wireless Computing](http://www.intel.com/pressroom/archive/releases/20060105corp.htm), [Intel Unveils World's Best Processor](http://www.intel.com/pressroom/archive/releases/20060727comp.htm)
-4.  [Intel Unveils 16 Next-Generation Processors, Including First Notebook Chips Built on 45nm Technology](http://www.intel.com/pressroom/archive/releases/20080107comp.htm)
-5.  [Intel Launches Fastest Processor on the Planet](http://www.intel.com/pressroom/archive/releases/2008/20081117comp_sm.htm)
-6.  [1](http://download.intel.com/pressroom/kits/32nm/westmere/Mark_Bohr_32nm.pdf)
-7.  [Revolutionizing How We Use Technology—Today and Beyond](http://www.intel.com/technology/architecture-silicon/32nm/index.htm)
-8.  [Intel Sandy Bridge chip coming January 5](http://news.cnet.com/8301-13924_3-20022893-64.html)
-9.
-10. [2](http://download.intel.com/newsroom/kits/22nm/pdfs/22nm-Details_Presentation.pdf)
+3.  <https://news.xfastest.com/amd/73082/aida64%E6%94%AF%E6%8F%B4%E6%8E%A1%E7%94%A8zen3%E6%A0%B8%E5%BF%83%E7%9A%84amd-ryzen-4000%E5%92%8C%E5%B8%B6%E6%9C%89zen2%E6%A0%B8%E5%BF%83%E7%9A%84ryzen-apurenoir%E8%99%95%E7%90%86%E5%99%A8>
+4.  [Intel CEO: Latest Platforms, Processors Form New Foundations For Digital Entertainment And Wireless Computing](http://www.intel.com/pressroom/archive/releases/20060105corp.htm), [Intel Unveils World's Best Processor](http://www.intel.com/pressroom/archive/releases/20060727comp.htm)
+5.  [Intel Unveils 16 Next-Generation Processors, Including First Notebook Chips Built on 45nm Technology](http://www.intel.com/pressroom/archive/releases/20080107comp.htm)
+6.  [Intel Launches Fastest Processor on the Planet](http://www.intel.com/pressroom/archive/releases/2008/20081117comp_sm.htm)
+7.  [1](http://download.intel.com/pressroom/kits/32nm/westmere/Mark_Bohr_32nm.pdf)
+8.  [Revolutionizing How We Use Technology—Today and Beyond](http://www.intel.com/technology/architecture-silicon/32nm/index.htm)
+9.  [Intel Sandy Bridge chip coming January 5](http://news.cnet.com/8301-13924_3-20022893-64.html)
+10.
+11. [2](http://download.intel.com/newsroom/kits/22nm/pdfs/22nm-Details_Presentation.pdf)

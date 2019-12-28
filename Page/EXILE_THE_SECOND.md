@@ -1,4 +1,4 @@
-**EXILE THE SECOND**是[日本](../Page/日本.md "wikilink")的六人舞蹈及歌唱組合。[LDH所屬](../Page/LDH_\(藝能事務所\).md "wikilink")。唱片公司是[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
+**EXILE THE SECOND**（中文名：**二势力 from 放浪兄弟**）是[日本](../Page/日本.md "wikilink")的六人舞蹈及歌唱組合團體，所屬[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")。唱片公司是[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 略歴
 
@@ -456,44 +456,24 @@ EX FAMILY限定\! THE SECOND from EXILE "キックオフミーティング"\[14\
 [Category:EXILE_THE_SECOND](https://zh.wikipedia.org/wiki/Category:EXILE_THE_SECOND "wikilink") [Category:放浪兄弟](https://zh.wikipedia.org/wiki/Category:放浪兄弟 "wikilink") [Category:J_Soul_Brothers](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers "wikilink") [Category:Rhythm_zone](https://zh.wikipedia.org/wiki/Category:Rhythm_zone "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:EXILE_TRIBE](https://zh.wikipedia.org/wiki/Category:EXILE_TRIBE "wikilink") [Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.  [EXILE TRIBE NEW UNIT “THE SECOND” 始動！](http://exile.jp/news/201207011.html)
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  以[DANCE EARTH PARTY](https://zh.wikipedia.org/wiki/DANCE_EARTH_PARTY "wikilink")×EXILE THE SECOND的名義推出
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13. [EXILE TRIBE PERFECT YEAR LIVE TOUR TOWER OF WISH 2014〜THE REVOLUTION](http://exiletribe-perfectyear.com/tower_of_wish/) EXILE TRIBE PERFECT YEAR 2014 Official Website、2015年4月3日閲覧。
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.

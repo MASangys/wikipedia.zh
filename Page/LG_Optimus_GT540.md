@@ -18,5 +18,5 @@ LG Optimus不支持部分[藍牙](../Page/藍牙.md "wikilink")設備，其中�
 4.
 5.
 6.  <http://www.techradar.com/reviews/phones/mobile-phones/lg-optimus-gt540-687280/review?artc_pg=12> TechRadar
-7.  <http://www.electricpig.co.uk/2010/07/12/lg-gt540-review/> Electricpig.co.uk
+7.  <http://www.electricpig.co.uk/2010/07/12/lg-gt540-review/>  Electricpig.co.uk
 8.  <http://www.techradar.com/reviews/phones/mobile-phones/lg-optimus-gt540-687280/review>

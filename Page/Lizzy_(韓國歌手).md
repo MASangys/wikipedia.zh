@@ -78,7 +78,7 @@ Lizzy剛加入After School時，最早在〈Bang\!〉的歌曲中，歌詞僅有
   - 2012年6月27日： MBC《昌原希望演唱會》特別MC (與 [Raina](../Page/Raina.md "wikilink"))
   - 2012年7月17日： MBC Music《Show Champion》特別MC
   - 2012年9月3日： Mnet《M\!Countdown》特別MC
-  - 2013年6月20日： Mnet《M\!Countdown》特別MC (與 [佳恩](https://zh.wikipedia.org/wiki/李佳恩 "wikilink"))
+  - 2013年6月20日： Mnet《M\!Countdown》特別MC (與 [佳恩](../Page/李佳恩.md "wikilink"))
   - 2014年3月19日： MBC Music《Show Champion》100集特輯 Photo Wall活動MC
   - 2014年4月1日： SBS MTV《The Show》特別MC
   - 2014年4月13日： SBS《人氣歌謠》特別MC

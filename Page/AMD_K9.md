@@ -35,28 +35,18 @@ K9架構的設計基於[K7和K](https://zh.wikipedia.org/wiki/AMD_K7 "wikilink")
 [Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink") [Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.

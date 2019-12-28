@@ -4,7 +4,7 @@
 
 這個wiki可能被位於美國國內外的美國外交部門所使用，可以透過國家內網瀏覽。此外此站點也作為[美國情報體系](../Page/美國情報體系.md "wikilink")底下各單位組成的「」內部網路其中一個唯讀鏡像網站讓使用者進行瀏覽。這兩個網站都被美國政府評為敏感但未分類站點\[2\]，也由於其機密性而都不對公眾開放使用。
 
-與[維基百科相同](https://zh.wikipedia.org/wiki/維基百科 "wikilink")，皆使用[MediaWiki](../Page/MediaWiki.md "wikilink")做為網站架構\[3\]。
+與[維基百科相同](https://zh.wikipedia.org/wiki/維基百科 "wikilink")，皆使用[MediaWiki做為網站架構](https://zh.wikipedia.org/wiki/MediaWiki "wikilink")\[3\]。
 
 ## 建立與使用
 

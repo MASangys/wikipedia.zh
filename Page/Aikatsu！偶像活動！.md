@@ -392,9 +392,8 @@ BGM遊戲開始點選樂曲時，使用ID卡再加上一定條件的話，歌曲
   - 2wingS
   - Danicing Diva
   - Skips♪
-  - 熱情✮Jalapeno（情熱✮ハラペーニョ
+  - 熱情✮Jalapeno（情熱✮ハラペーニョ）
   - 鬆甜☆撫子（あまふわ☆なでしこ）
-  - WM
 
 8人組:
 

@@ -2,6 +2,8 @@
 
 ## 企劃概要
 
+### 第一代：Love Live\! School idol project
+
 「LoveLive\! school idol project」是一個由《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》、音樂公司[Lantis](../Page/Lantis.md "wikilink")以及動畫製作公司[日昇合同籌辦的企劃](../Page/日昇動畫.md "wikilink")\[2\]。企劃採用了比較特別的分業體制：故事的背景敘述和讀者參與的活動主要由《電擊G's magazine》雜誌進行，宣傳影片由日昇製作，而音樂CD則由Lantis推出發行。企劃在2010年初於雜誌上首先開始，由九位女聲優組成名為[μ's的團體](https://zh.wikipedia.org/wiki/μ's "wikilink")，並各有其對應虛擬角色形象，並於2010年8月13日發售首張單曲《[我們的LIVE 與你的LIFE](../Page/我們的LIVE_與你的LIFE.md "wikilink")》\[3\]。
 
 《G's》雜誌在本企劃前也進行了很多讀者參與的企劃，但能夠實現動畫化和遊戲化的企劃則寥寥可數，故此企劃積極與讀者進行互動，並舉行了組合名稱募集、分隊編制投票和歌曲中心成員選舉等多項活動\[4\]。2013年第一期動畫的播出一般被視為是「LoveLive\!」企劃人氣爆發的轉折點\[5\]，動畫化後的唱片銷量比之前錄得了顯著上升\[6\]，並帶動了Lantis的相關產品銷量，使其收入上升近四成，登上2014年排行榜第九名\[7\]。同年推出[智能手機遊戲](https://zh.wikipedia.org/wiki/智能手機 "wikilink")《[LoveLive\! 學園偶像祭](../Page/LoveLive!_學園偶像祭.md "wikilink")》，使用者人數於2014年突破了1000萬人\[8\]，2017年時達到4000萬。
@@ -14,11 +16,13 @@ CD內附有的DVD收錄的歌曲音樂影片同時採用了[2D作畫和](https:/
 
 本作的支持者一般通稱為「LoveLiver」（），或簡稱為「LLer」。
 
-### 企劃延伸
+### 第二代：LoveLive\! Sunshine\!
 
 2015年2月26日《電擊G's magazine》發布一項名為“LoveLive\! Sunshine\!\!”的新項目和圖片，為一個女孩在海灘中央。\[11\]\[12\]此後2015年3月27日再次發布完整圖片，為不同於μ's的九個人在同一海灘中，並且公布9人的配音人員名單、宣布將於4月30日宣布項目詳情。\[13\]\[14\]\[15\]4月30日正式確定策劃成立，並公開募集偶像團體名。\[16\]\[17\]\[18\]於2015年6月28日公布結果，選入“Aqours”作為新策劃的偶像組合名字。\[19\]\[20\]
 
 於2015年10月7日發行出道單曲\[21\]\[22\]\[23\]，並於2016年1月11日[niconico生放送中宣布該年夏季動畫化](https://zh.wikipedia.org/wiki/niconico "wikilink")，後於2016年7月2日動畫正式放送。之後再2017年10月7日播放第二季。
+
+### 第三代：虹咲學園校園偶像同好會
 
 ## 企劃相關作品
 
@@ -287,7 +291,7 @@ CD內附有的DVD收錄的歌曲音樂影片同時採用了[2D作畫和](https:/
 
 ### 支持者文化
 
-日本有不少演艺界名人均是「LoveLive\!」的支持者，當中包括男性聲優[島崎信長](../Page/島崎信長.md "wikilink")、[Kis-My-Ft2的](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")[宮田俊哉](../Page/宮田俊哉.md "wikilink")、女性播音員、搞笑藝人和等\[50\]。而《LoveLive\!》於2014年4月左右迅速在中文地區走紅，其人气、快速增加的狂热粉丝、话题的广泛性，再加磕头跪拜的行为（見下文），让人感觉粉丝的活动近乎失控，因此《LoveLive\!》在中文世界裡被戲稱為「[邪教](../Page/邪教.md "wikilink")」，其愛好者之間還產生所謂「LL神教」、「LL大法好」、「Aji人」、“拉拉人”、“loveliver”等次文化習語。\[51\]
+日本有不少演艺界名人均是「LoveLive\!」的支持者，當中包括男性聲優[島崎信長](../Page/島崎信長.md "wikilink")、[Kis-My-Ft2的](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")[宮田俊哉](../Page/宮田俊哉.md "wikilink")、[Snow Man的](../Page/Snow_Man.md "wikilink")[佐久間大介](https://zh.wikipedia.org/wiki/佐久間大介 "wikilink")、女性播音員、搞笑藝人和等\[50\]。而《LoveLive\!》於2014年4月左右迅速在中文地區走紅，其人气、快速增加的狂热粉丝、话题的广泛性，再加磕头跪拜的行为（見下文），让人感觉粉丝的活动近乎失控，因此《LoveLive\!》在中文世界裡被戲稱為「[邪教](../Page/邪教.md "wikilink")」，其愛好者之間還產生所謂「LL神教」、「LL大法好」、「Aji人」、“拉拉人”、“loveliver”等次文化習語。\[51\]
 
 [重庆轨道交通一号线Lovelive\!涂装列车.jpg](https://zh.wikipedia.org/wiki/File:重庆轨道交通一号线Lovelive!涂装列车.jpg "fig:重庆轨道交通一号线Lovelive!涂装列车.jpg") 第十二届中国国际数码互动娱乐展览会（ChinaJoy）在[上海开展時](https://zh.wikipedia.org/wiki/上海市 "wikilink")，[盛大和美娱两家企业包下](../Page/盛大网络.md "wikilink")[上海地铁2号线的](../Page/上海轨道交通2号线.md "wikilink")207号列车，將其中一面塗上「LoveLive\!」涂装（另一面為[鎖鏈戰記](../Page/鎖鏈戰記.md "wikilink")），使上海地铁2号线成為中國大陸首條有[二次元](https://zh.wikipedia.org/wiki/二次元 "wikilink")「[痛列车](https://zh.wikipedia.org/wiki/痛车 "wikilink")」的地鐵線路。2014年7月26日和7月31日在[上海地铁2号线内](../Page/上海轨道交通2号线.md "wikilink")，当這列列车驶进站后，有几名男性动漫迷当场“下跪膜拜”（即日語中的「[土下座](https://zh.wikipedia.org/wiki/土下座 "wikilink")」）。这類事件引发网络上非动漫迷和动漫迷的爭議。地铁运营方表示，这种下跪膜拜现象会影响地铁的运营秩序。外界曾推測“[痛列车](https://zh.wikipedia.org/wiki/痛车 "wikilink")”有可能因此被雪藏（事实是，被痛的207车原本就是上海地铁的一辆常备车），不過上海地铁於7月31日向[澎湃新闻](../Page/澎湃新闻.md "wikilink")表示，列车运营至8月中下旬后才会把广告移除。
 

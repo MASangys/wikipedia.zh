@@ -8,7 +8,7 @@ PHL-03火箭炮以9K58自走多管火箭炮車移植，底盤為國造[万山WS]
 
 PHL-03火箭炮出口型代號**AR-2**，由[中国北方工业公司代理外銷](https://zh.wikipedia.org/wiki/中国北方工业公司 "wikilink")。另有**AR-2B**這個衍生型，火箭發射管減為2組5排發射管之10管設計。
 
-中国還有一款外銷型大口徑多管火箭號，代號[A100](../Page/A100型自行火箭炮.md "wikilink")；但開發單位是航天系统厂商而非兵器系统厂商研制的，開發緣起可能是因為在1990年代爭奪解放軍多管火箭炮車時研製，目前由[中国精密机械进出口公司代理外銷](https://zh.wikipedia.org/wiki/中国精密机械进出口公司 "wikilink")。兩款自走多管火箭炮显著的区别是采用了不同的8×8轮式越野车底盘。
+中国還有一款外銷型大口徑多管火箭號，代號[A100](../Page/A100型自行火箭炮.md "wikilink")；但開發單位是航天系统厂商而非兵器系统厂商研制的，開發緣起可能是因為在1990年代爭奪解放軍多管火箭炮車時研製，目前由[中国精密机械进出口公司代理外銷](https://zh.wikipedia.org/wiki/中国精密机械进出口公司 "wikilink")。兩款自走多管火箭炮显著的区别是采用了不同的8×8轮式越野车底盘。 [缩略图](https://zh.wikipedia.org/wiki/File:PHL-03_heavy_multiple_rocket_launcher.jpg "fig:缩略图")
 
 ## 使用國
 
@@ -22,7 +22,7 @@ PHL-03火箭炮出口型代號**AR-2**，由[中国北方工业公司代理外�
   - [A100型自行火箭炮](../Page/A100型自行火箭炮.md "wikilink")
   - [B611弹箭共架系统](https://zh.wikipedia.org/wiki/B611弹箭共架系统 "wikilink")
   - [衛士型火箭炮](../Page/衛士型火箭炮.md "wikilink")
-  - [SR5型多管火箭炮](https://zh.wikipedia.org/wiki/SR5型多管火箭炮 "wikilink")
+  - [SR5型多管火箭炮](../Page/SR5型多管火箭炮.md "wikilink")
 
 [中国](https://zh.wikipedia.org/wiki/分類:多管火箭炮 "wikilink")
 

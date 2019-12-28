@@ -343,6 +343,13 @@
 <td><p>岸田ソラ</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>2020年2月28日</p></td>
+<td><p><strong>HaremKingdom-ハーレムキングダム-</strong></p></td>
+<td><p>早瀬ゆう</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -581,25 +588,15 @@
 [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:2000年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2000年開業電子遊戲公司 "wikilink")
 
 1.  [2008年12月2日「重要なお知らせ」](http://www.hook-net.jp/htm/news/inews_01.htm)
-
-2.  [「HOOK」解散 「HOOKSOFT」新生](http://comic.yesky.com/165/8632665.shtml)
-
+2.
 3.  [美少女遊戲製作品牌「HOOK」STAFF集體退社創立新品牌「HOOKSOFT」](http://news.aniarc.com/news/778/%E7%BE%8E%E5%B0%91%E5%A5%B3%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E5%93%81%E7%89%8C%E3%80%8Chook%E3%80%8Dstaff%E9%9B%86%E9%AB%94%E9%80%80%E7%A4%BE%E5%89%B5%E7%AB%8B%E6%96%B0%E5%93%81%E7%89%8C%E3%80%8Cho)
-
 4.  [パートナーブランド 一覧](http://dqpb4416.hotcom-web.com/main/link/link2.html)とーししま総合　'１２
-
 5.  [TECH GIAN](../Page/TECH_GIAN.md "wikilink")（2008年5月号） pp.146-147.
-
 6.  同人展（[Comic Market](../Page/Comic_Market.md "wikilink")）・廠商限定商品。
-
 7.  [『_summer Life』は、「_summer」、「LikeLife」の合同お返しディスクです。](http://www.hook-net.jp/_summer/od_info.htm)HOOKSOFT
-
 8.  『HoneyComing』劇本全部重新描寫，事件CG全部重新描繪且新增大量追加要素
-
 9.  同人展（[Comic Market](../Page/Comic_Market.md "wikilink")）・廠商限定商品。
-
 10. 同人展（[Comic Market](../Page/Comic_Market.md "wikilink")）・廠商限定商品。
-
 11.
 12.
 13.
@@ -608,11 +605,8 @@
 16.
 17.
 18. メガストア（2014年2月号） pp.12-15.
-
 19.
-
 20.
-
 21.
 22.
 23.

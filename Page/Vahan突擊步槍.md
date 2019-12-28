@@ -2,7 +2,7 @@
 
 ## 歷史
 
-Vahan突擊步槍最早起源於1952年，其設計師Vahan S. Manasian是一名[蘇聯士兵](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")。該槍曾以MBS-2（МБС-2）的名義被[蘇聯軍隊測試](https://zh.wikipedia.org/wiki/蘇聯軍隊 "wikilink")，在測試期間發現其彈速比[AK-47更高](https://zh.wikipedia.org/wiki/AK-47 "wikilink")，並意味著Vahan的滲透能力比AK-47更勝一疇。儘管如此，此槍最終還是沒有被採用。大概是基於其使用的[槓桿延遲反沖作用並不比使用](https://zh.wikipedia.org/wiki/槓桿延遲反沖 "wikilink")[長行程導氣式活塞原理的AK步槍可靠](https://zh.wikipedia.org/wiki/氣動式 "wikilink")。
+Vahan突擊步槍最早起源於1952年，其設計師Vahan S. Manasian是一名[蘇聯士兵](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")。該槍曾以MBS-2（МБС-2）的名義被[蘇聯軍隊測試](https://zh.wikipedia.org/wiki/蘇聯軍隊 "wikilink")，在測試期間發現其彈速比[AK更高](https://zh.wikipedia.org/wiki/卡拉什尼科夫自動步槍 "wikilink")，並意味著Vahan的滲透能力比AK更勝一疇。儘管如此，此槍最終還是沒有被採用。大概是基於其使用的[槓桿延遲反沖作用並不比使用](https://zh.wikipedia.org/wiki/槓桿延遲反沖 "wikilink")[長行程導氣式活塞原理的AK步槍可靠](https://zh.wikipedia.org/wiki/氣動式 "wikilink")。
 
 在1992年，設計師把Vahan突擊步槍改為[5.45×39 mm口徑並試圖向](../Page/5.45×39mm.md "wikilink")[亞美尼亞軍隊推銷](https://zh.wikipedia.org/wiki/亞美尼亞軍隊 "wikilink")，但直到2009年仍未見有進展。
 
@@ -12,7 +12,7 @@ Vahan突擊步槍發射[蘇聯的](https://zh.wikipedia.org/wiki/蘇聯 "wikilin
 
 ## 另見
 
-  - [AK-47](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")
+  - [AK](https://zh.wikipedia.org/wiki/卡拉什尼科夫自動步槍 "wikilink")
   - [AKM](../Page/AKM突擊步槍.md "wikilink")
   - [AK-74](../Page/AK-74突击步枪.md "wikilink")
   - [K-3](../Page/K3突擊步槍.md "wikilink")

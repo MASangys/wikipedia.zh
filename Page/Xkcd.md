@@ -1,4 +1,4 @@
-**xkcd**是由[兰德尔·门罗](../Page/兰德尔·门罗.md "wikilink")创作的网络[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")。作者对其的描述是“关于浪漫、讽刺、数学和语言的网络漫画”。曾获得等奖项。\[1\]
+**xkcd**是由[兰德尔·门罗](../Page/兰德尔·门罗.md "wikilink")创作的网络[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")。作者对其的描述是“关于浪漫、讽刺、数学和语言的[网络漫画](https://zh.wikipedia.org/wiki/网络漫画 "wikilink")”。曾获得等奖项。\[1\]是目前欧美较为流行的网络科学漫画。
 
 漫画的题材多种多样，包括生活与爱情、数学与科学幽默、简单的幽默和流行文化等，人物则多是简单的[火柴人](https://zh.wikipedia.org/wiki/火柴人圖 "wikilink")。
 
@@ -16,18 +16,21 @@
 
 ## 外部链接
 
-  - 與 [xkcd What-Ifs](http://what-if.xkcd.com/)
+  - 與 [xkcd What-Ifs](https://web.archive.org/web/20190316181947/https://what-if.xkcd.com/)
 
   - [xkcd漫画解析](http://www.explainxkcd.com/)
 
   - [Click and Drag](https://xkcd.com/1110/) xkcd的第1110幅漫画
 
+  - 外网介绍，维基学术的[xkcd介绍](http://192.144.164.198/wikiacademic/index.php/Xkcd)。
+
 ### 中文翻譯
 
-  - [xkcd中文站](http://xkcd.in)
+  - [xkcd 中文站](http://xkcd.in)
+  - [xkcd 繁体翻譯](http://xkcd.tw)
   - [科学松鼠会翻译的一些漫画](http://songshuhui.net/archives/tag/xkcd)
   - [译言翻译的一些漫画](http://article.yeeyan.org/tags/xkcd)
-  - [xkcd.tw](http://xkcd.tw)
+  - [app-xkcd-cn.appspot.com](http://app-xkcd-cn.appspot.com/)
 
 [Category:美國網絡漫畫](https://zh.wikipedia.org/wiki/Category:美國網絡漫畫 "wikilink") [Category:美國漫畫作品](https://zh.wikipedia.org/wiki/Category:美國漫畫作品 "wikilink") [Category:创作共用授权的作品](https://zh.wikipedia.org/wiki/Category:创作共用授权的作品 "wikilink") [Category:世界之最](https://zh.wikipedia.org/wiki/Category:世界之最 "wikilink")
 

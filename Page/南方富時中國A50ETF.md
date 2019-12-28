@@ -12,7 +12,7 @@
 
 ## 連結
 
-  - [南方東英ETF](http://www.csopasset.com/etf)
+  - [南方東英ETF](https://web.archive.org/web/20131105101643/http://www.csopasset.com/etf/)
   - [南方富时中国A50ETF在东京证交所上市](http://finance.qq.com/a/20130228/001645.htm)
 
 [Category:香港交易所買賣基金](https://zh.wikipedia.org/wiki/Category:香港交易所買賣基金 "wikilink") [Category:香港交易所上市認股證](https://zh.wikipedia.org/wiki/Category:香港交易所上市認股證 "wikilink") [Category:香港交易所上市牛熊證](https://zh.wikipedia.org/wiki/Category:香港交易所上市牛熊證 "wikilink")

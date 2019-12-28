@@ -1,4 +1,4 @@
-**CZ蠍式EVO 3 A1**（）是一枝由[捷克](../Page/捷克.md "wikilink")槍械製造商（簡稱：CZ-UB）公司所設計及生產的[冲锋枪](../Page/冲锋枪.md "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。名字當中的“蠍式”意味著它繼承了[蠍式衝鋒槍的名字](https://zh.wikipedia.org/wiki/Vz.61蠍式衝鋒槍 "wikilink")。
+**CZ蠍式EVO 3 A1**（）是一款由[捷克](../Page/捷克.md "wikilink")槍械製造商（簡稱：CZ-UB）公司所設計及生產的[冲锋枪](../Page/冲锋枪.md "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。名字當中的“蠍式”意味著它繼承了[蠍式衝鋒槍的名字](https://zh.wikipedia.org/wiki/Vz.61蠍式衝鋒槍 "wikilink")。
 
 ## 歷史
 
@@ -98,7 +98,7 @@ CZ蠍式EVO 3 A1衝鋒槍及其衍生型自推出後亦出現在不少[电影](.
 
 ### 電影
 
-  - 2015年—《[-{zh-cn:海军陆战队员4：移动目标; zh-tw:海陸悍將4; zh-hk:怒火反擊4;}-](../Page/海陸悍將4.md "wikilink")》：首度在銀幕上出現，型號為Evo 3 A1，裝上和武器[戰術燈](../Page/戰術燈.md "wikilink")，被蕾切爾·道斯（Rachel Dawes，[桑瑪·蕾飾演](https://zh.wikipedia.org/wiki/桑瑪·蕾 "wikilink")）所使用。
+  - 2015年—《[-{zh-cn:海军陆战队员4：移动目标; zh-tw:海陸悍將4; zh-hk:怒火反擊4;}-](../Page/海陸悍將4.md "wikilink")》：首度在銀幕上出現，型號為Evo 3 A1，裝上和武器[戰術燈](../Page/戰術燈.md "wikilink")，被蕾切爾·道斯（Rachel Dawes，[桑瑪·蕾](../Page/桑瑪·蕾.md "wikilink")飾演）所使用。
   - 2017年—《[-{zh-cn:美国刺客; zh-tw:美國刺客; zh-hk:美國特工; zh-sg:美国刺客;}-](../Page/美國刺客.md "wikilink")》：型號為Evo 3 A1，裝上，被一名恐怖分子所使用，該槍被解除武裝。
   - 2018年—《[-{zh-cn:摩天营救; zh-tw:摩天大樓 (電影); zh-hk:高凶浩劫; zh-sg:摩天大楼 (电影);}-](https://zh.wikipedia.org/wiki/摩天大樓_\(電影\) "wikilink")》：型號為Evo 3 A1，被來自斯堪的納維亞的恐怖份子首腦寇瑞斯·波薩（Kores Botha，飾演）所使用。
   - 2019年—《[-{zh-cn:速度与激情：特别行动;zh-hk:狂野時速：雙雄聯盟;zh-tw:玩命關頭：特別行動;zh-sg:玩命关头：特别行动;}-](../Page/玩命關頭：特別行動.md "wikilink")》：型號為Evo 3 A1，被路克·賀斯（Luke Hobbs，[巨石強森](../Page/巨石強森.md "wikilink")飾演）、狄卡·邵（Deckard Shaw，[傑森·史塔森](../Page/傑森·史塔森.md "wikilink")飾演）和俄羅斯女黑道M夫人（Madam M，[艾莎·岡薩雷](../Page/艾莎·岡薩雷.md "wikilink")飾演）所使用，後者將其稱為“蠍式EVO 3”。
@@ -128,7 +128,7 @@ CZ蠍式EVO 3 A1衝鋒槍及其衍生型自推出後亦出現在不少[电影](.
   - [CS/LS2型冲锋枪](https://zh.wikipedia.org/wiki/CS/LS2型冲锋枪 "wikilink")
   - [CS/LS5型冲锋枪](https://zh.wikipedia.org/wiki/CS/LS5型冲锋枪 "wikilink")
   - [KRISS Vector衝鋒槍](../Page/KRISS_Vector衝鋒槍.md "wikilink")
-  - [Pindad PM2衝鋒槍](https://zh.wikipedia.org/wiki/Pindad_PM2衝鋒槍 "wikilink")
+  - [Pindad PM2衝鋒槍](../Page/Pindad_PM2衝鋒槍.md "wikilink")
   - [PP-19野牛冲锋枪](../Page/PP-19野牛冲锋枪.md "wikilink")
   - [PP-19-01勇士衝鋒槍](../Page/PP-19-01勇士衝鋒槍.md "wikilink")
   - [SIG MPX衝鋒槍](../Page/SIG_MPX衝鋒槍.md "wikilink")
@@ -149,7 +149,7 @@ CZ蠍式EVO 3 A1衝鋒槍及其衍生型自推出後亦出現在不少[电影](.
       - 2015年2月上號：[西方现役轻武器换装/补充计划盘点](https://web.archive.org/web/20150213134250/http://www.xzbu.com/8/view-6696134.htm)
       - 2016年2月下號：[捷克CZ美国分公司2016年新品献礼](https://web.archive.org/web/20160306054430/http://www.xzbu.com/8/view-7208421.htm)
       - 2016年4月上號：[捷克CZ公司美国分公司蝎式EVO3 S1卡宾枪](http://mall.cnki.net/magazine/Article/QBQI201607009.htm)
-      - 2016年4月上號：[捷克EVO3 S1民用型半自动冲锋枪](http://www.xzbu.com/8/view-7329062.htm)
+      - 2016年4月上號：[捷克EVO3 S1民用型半自动冲锋枪](https://web.archive.org/web/20160624222937/http://www.xzbu.com/8/view-7329062.htm)
 
 <!-- end list -->
 

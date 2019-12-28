@@ -26,31 +26,21 @@ PH1是一顆體積相當於海王星的巨大行星，質量大約是地球的20
 1.
 2.
 3.  [Kepler Mission Manager Update 10.26.2012](http://www.nasa.gov/mission_pages/kepler/news/keplerm-20121026.html)
-
 4.  Voice of America, ["Citizen Astronomers Discover Planet with Four Suns"](http://www.voanews.com/content/new_planet_with_four_suns/1527441.html), *16 October 2012*
-
 5.  Yahoo News, ["Planet with four suns discovered"](http://uk.news.yahoo.com/planet-four-suns-discovered-154014489.html) , **Press Association**, *15 October 2012* (accessed 20 October 2012)
-
 6.
 7.  NASA JPL, ["Citizens Discover Four-Star Planet with NASA's Kepler"](http://www.jpl.nasa.gov/news/news.php?release=2012-324), **Whitney Clavin**, *15 October 2012* (accessed 20 October 2012)
-
 8.  PlanetHunters.org, ["PH1 : A planet in a four-star system"](http://blog.planethunters.org/2012/10/15/ph1-a-planet-in-a-four-star-system/), *15 October 2012* (accessed 20 October 2012)
-
 9.
-10. PC Magazine, ["Citizen Scientists Discover Planet in Quadruple Star System"](http://www.pcmag.com/article2/0,2817,2411006,00.asp), **Tony Hoffman**, *16 October 2012* (accessed 20 October 2012)
-
+10. PC Magazine, ["Citizen Scientists Discover Planet in Quadruple Star System"](http://www.pcmag.com/article2/0,2817,2411006,00.asp) , **Tony Hoffman**, *16 October 2012* (accessed 20 October 2012)
 11.
 12.
 13. KSDK-TV, ['Planet Hunters' discover new planet, PH-1](http://www.ksdk.com/news/article/343153/28/Planet-Hunters-discover-new-planet-PH-1) , **CNN**, *15 October 2012* (accessed 20 October 2012)
-
 14. ABC News (Australia), ["Astronomers discover planet with four suns"](http://www.abc.net.au/news/2012-10-16/astronomers-discover-planet-with-four-suns/4316624), **AFP**, *17 October 2012* (accessed 20 October 2012)
-
 15.
 16.
 17. SpaceRef, ["Planet Hunters: A Transiting Circumbinary Planet in a Quadruple Star System"](http://www.spaceref.com/news/viewsr.html?pid=42334), *14 October 2012* (accessed 20 October 2012)
-
 18. arXiv. "Planet Hunters: A Transiting Circumbinary Planet in a Quadruple Star System", *Megan E. Schwamb, Jerome A. Orosz, Joshua A. Carter, William F. Welsh, Debra A. Fischer, Guillermo Torres, Andrew W. Howard, Justin R. Crepp, William C. Keel, Chris J. Lintott, Nathan A. Kaib, Dirk Terrell, Robert Gagliano, Kian J. Jek, Michael Parrish, Arfon M. Smith, Stuart Lynn, Robert J. Simpson, Matthew J. Giguere, Kevin Schawinski*, 2012 October,  ;  ;
-
 19.
 20.
 21. Kepler Catalogue, KIC 4862625

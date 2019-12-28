@@ -19,11 +19,11 @@ STI 5.0戰術型是以著名的[M1911手槍](../Page/M1911手槍.md "wikilink")�
   - [柯爾特OHWS](../Page/柯爾特OHWS半自動手槍.md "wikilink")
   - [柯爾特滑軌](../Page/柯爾特滑軌半自動手槍.md "wikilink")
   - [金柏特裝型](../Page/金柏特裝型半自動手槍.md "wikilink")
-  - [MEU](../Page/MEU\(SOC\)手槍.md "wikilink")
+  - [MEU](https://zh.wikipedia.org/wiki/MEU\(SOC\)半自動手槍 "wikilink")
   - [帕拉軍工廠P14-45](../Page/帕拉軍工廠P14-45半自動手槍.md "wikilink")
   - [帕拉軍工廠P18-9](../Page/帕拉軍工廠P18-9半自動手槍.md "wikilink")
-  - [雷明登1911 R1](../Page/雷明登1911_R1手槍.md "wikilink")
-  - [SIG M1911](../Page/SIG_M1911手槍.md "wikilink")
+  - [雷明登1911 R1](https://zh.wikipedia.org/wiki/雷明登1911_R1半自動手槍 "wikilink")
+  - [SIG M1911](https://zh.wikipedia.org/wiki/SIG_M1911半自動手槍 "wikilink")
   - [固體概念1911 DMLS](../Page/固體概念1911_DMLS半自動手槍.md "wikilink")
 
 ## 參考

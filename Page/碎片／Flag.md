@@ -43,14 +43,9 @@ c/w收錄了和[嘉利吉58](../Page/嘉利吉58.md "wikilink")合作完成的�
 [Category:川嶋愛歌曲](https://zh.wikipedia.org/wiki/Category:川嶋愛歌曲 "wikilink") [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink") [Category:朝日電視台週四推理連續劇主題曲](https://zh.wikipedia.org/wiki/Category:朝日電視台週四推理連續劇主題曲 "wikilink")
 
 1.  [川嶋あい My Room - DISCOGRAPHY - SINGLE](http://www.kawashimaai.com/discography/index.php) 川嶋愛官方網站
-
 2.
-
 3.  [川嶋あいチャリティーソングクリック募金サイト](http://www.dff.jp/aikawashima/)
-
 4.  [川嶋あい Special Interview](http://escala.jp/entertainment/interview/080822/index.html) 2009年10月27日閲覧
-
 5.
 6.  [虹への手紙](http://www.homedrama-ch.com/rainbow/)
-
 7.

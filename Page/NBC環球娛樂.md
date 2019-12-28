@@ -55,7 +55,7 @@
   - [binaria](https://zh.wikipedia.org/wiki/binaria "wikilink") (2016年〜)
   - [日向電工](https://zh.wikipedia.org/wiki/日向電工 "wikilink") (2017年〜)
   - [fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink") (2009年〜)
-  - [やなぎなぎ](https://zh.wikipedia.org/wiki/やなぎなぎ "wikilink") (2012年〜)
+  - [やなぎなぎ](https://zh.wikipedia.org/wiki/やなぎなぎ "wikilink") (2012年〜2020年\[予定\])
   - [Luce Twinkle Wink☆](../Page/Luce_Twinkle_Wink☆.md "wikilink") (2015年〜)
   - [KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink") (2004年〜2010年、2018年〜)（2011年8月1日於[I've](../Page/I've.md "wikilink")畢業）
   - [山崎遙](../Page/山崎遙.md "wikilink") (2011年〜2013年、2018年〜)

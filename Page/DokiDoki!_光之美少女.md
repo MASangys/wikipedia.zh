@@ -1,4 +1,4 @@
-《**心跳！光之美少女**》（）是由[東堂泉](../Page/東堂泉.md "wikilink")所創作的[魔法少女](../Page/魔法少女.md "wikilink")動畫作品、「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」第十作，屬第八代光之美少女，2013年2月3日開始在[朝日放送](../Page/朝日放送.md "wikilink")和[朝日電視台](../Page/朝日電視台.md "wikilink")播放\[1\]\[2\]。台灣由[東森電影台](../Page/東森電影台.md "wikilink")在2015年11月23日以「**DokiDoki\!-{}- 光之美少女**」的名義首播、[東森幼幼台](../Page/東森幼幼台.md "wikilink")在2016年3月30日以同樣名稱重播。香港由[無綫電視翡翠台在](../Page/翡翠台.md "wikilink")2017年1月30日以「**心動！-{}-光之美少女**」的名義播出，本作亦是目前為止於香港播放的最後一作\[3\]。美國Saban Entertainment在2017年8月18日開始以「**Glitter Force Doki Doki**」的名義於歐洲地區版本的[Netflix](../Page/Netflix.md "wikilink")提供點播服務。
+《**心跳！光之美少女**》（）是由[東堂泉](../Page/東堂泉.md "wikilink")所創作的[魔法少女](../Page/魔法少女.md "wikilink")動畫作品、「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」第十作，屬第八代光之美少女，2013年2月3日開始在[朝日放送](../Page/朝日放送.md "wikilink")和[朝日電視台](../Page/朝日電視台.md "wikilink")播放\[1\]\[2\]。台灣由[東森電影台](../Page/東森電影台.md "wikilink")在2015年11月23日以「**DokiDoki\!-{}- 光之美少女**」的名義首播、[東森幼幼台](../Page/東森幼幼台.md "wikilink")在2016年3月30日以同樣名稱重播。香港由[無綫電視翡翠台在](../Page/翡翠台.md "wikilink")2017年1月30日以「**心動！-{}-光之美少女**」的名義播出。美國Saban Entertainment在2017年8月18日開始以「**Glitter Force Doki Doki**」的名義於歐洲地區版本的[Netflix](../Page/Netflix.md "wikilink")提供點播服務。
 
 ## 故事簡介
 
@@ -18,7 +18,7 @@
 
     為了保護在四葉塔上受到攻擊的民眾與聖劍天使，與夏露露搭檔成為愛心天使。
 
-    變身咒語為「光之美少女 心跳連結（Precure Love Link！）」\[4\]
+    變身咒語為「光之美少女 心跳連結（Precure Love Link！）」\[3\]
 
     變身口號為「滿滿溢出的愛，愛心天使！」
 
@@ -74,7 +74,7 @@
 
     知道小愛成為光之美少女後，為了追隨小愛並保護她，與拉克爾搭檔成為鑽石天使。
 
-    變身咒語為「光之美少女 心跳連結（Precure Love Link！）」\[5\]
+    變身咒語為「光之美少女 心跳連結（Precure Love Link！）」\[4\]
 
     變身口號為「睿智之光，鑽石天使！」
 
@@ -120,7 +120,7 @@
 
     透過自家情報網知道小愛等人是光之美少女，主動表示願意予以資助但拒絕加入。后經過蘭斯點醒，改變主意。加入她們，成為幸運草天使。
 
-    變身咒語為「光之美少女 心跳連結（Precure Love Link！）」\[6\]
+    變身咒語為「光之美少女 心跳連結（Precure Love Link！）」\[5\]
 
     變身口號為「向陽之處溫暖光輝！幸運草天使！」
 
@@ -168,7 +168,7 @@
 
     來到日本後，為了與公主取得聯繫，她以「劍崎真琴」之名成為大眾偶像，被歌迷愛稱為「**真P**」（）。起初小愛等人不知聖劍天使身分，後透過四葉家情報網調查確定真琴即為聖劍天使。初時真琴對於新任光之美少女們態度消極，不願與她們攜手作戰，但在與小愛等人相處之下逐漸敞開心房。為了進一步學習，第10話起轉入相田與六花的班級接受教育。
 
-    變身咒語為「光之美少女 心跳連結（Precure Love Link！）」\[7\]
+    變身咒語為「光之美少女 心跳連結（Precure Love Link！）」\[6\]
 
     變身口號為「勇氣之刃！聖劍天使！」
 
@@ -216,7 +216,7 @@
 
     繼《[Suite 光之美少女♪](../Page/Suite_光之美少女♪.md "wikilink")》的調邊亞子後第二名小學生之光之美少女。
 
-    變身咒語為「光之美少女 盛裝登場（Precure Dress Up！）」\[8\]
+    變身咒語為「光之美少女 盛裝登場（Precure Dress Up！）」\[7\]
 
     變身口號為「愛的王牌，王牌天使！」
 
@@ -532,12 +532,12 @@
 
 <!-- end list -->
 
-  - \[9\]
+  - \[8\]
     愛麗絲的母親，著名的歌劇歌手，在世界巡迴演出也鮮少回日本。僅在劇中末段出場。
 
 <!-- end list -->
 
-  - \[10\]
+  - \[9\]
     愛麗絲的兄長，劇中未登場。為大貝第一中學的前學生會長，現在在各地放浪旅行中。
 
 #### 圓家
@@ -600,6 +600,10 @@
 
   -
 
+<!-- end list -->
+
+  -
+
     与真琴一同工作的偶像艺人，曾变成自我中心。最后鼓励真琴。
 
 <!-- end list -->
@@ -631,6 +635,14 @@
   -
 
     非常著名的電影女演員，對自己和其他人要求非常高且極其嚴厲，這一點對曾經與她一起拍電影的真琴影響很大。
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  -
 
 ## 用具和用語
 
@@ -691,7 +703,7 @@
 
   - 原作：[東堂泉](../Page/東堂泉.md "wikilink")
   - 連載：[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《》（漫畫：上北雙子）
-  - 企劃：木村祥隆→野下洋\[11\]（ABC）、三宅將典（ADK）、清水慎治
+  - 企劃：木村祥隆→野下洋\[10\]（ABC）、三宅將典（ADK）、清水慎治
   - 製作人：松下洋幸→土肥繁葉樹（ABC）、佐佐木禮子（ADK）、柴田宏明（東映動畫）
   - 系列導演：古賀豪
   - 系列構成：山口亮太
@@ -1654,25 +1666,18 @@
   - [心跳！光之美少女（ABC）](http://asahi.co.jp/dokidoki_precure/)
   - [心跳！光之美少女（東映動畫）](http://www.toei-anim.co.jp/tv/dokidoki_precure/)
   - [電影 DokiDoki\! 光之美少女 小愛结婚了！！？連結未来的希望禮服！（東映動畫）](http://www.toei-anim.co.jp/movie/2013_dokidoki_precure/)
-  - [《心跳！光之美少女》台灣官方網站](http://bandai.tw/dokidoki_precure/index.html)
+  - [《心跳！光之美少女》台灣官方網站](https://web.archive.org/web/20160402092935/http://bandai.tw/dokidoki_precure/index.html)
   - [心動！光之美少女（myTV）](http://mytv.tvb.com/tc/cat_animation/dokidokiprettycure/)
 
 [Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink") [Category:魔法少女](https://zh.wikipedia.org/wiki/Category:魔法少女 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:变身女主角动画](https://zh.wikipedia.org/wiki/Category:变身女主角动画 "wikilink") [Category:2013年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2013年日本電視動畫 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 
 1.  來自官網，其實是以朝日電視台為首的26個朝日電視系電視台。
-
 2.
-
-3.  [動畫 - 翡翠台 - 節目表 - tvb.com（2017-01-27存檔）](https://web.archive.org/web/20170127174912/http://programme.tvb.com/jade/animation/)
-
-4.  原文：
-
+3.  原文：
+4.
 5.
 6.
-7.
-8.  原文：
-
-9.  『心跳！光之美少女公式完全設定集』P.88
-
-10.
-11. 於第11話起按有關公司人事調動。
+7.  原文：
+8.  『心跳！光之美少女公式完全設定集』P.88
+9.
+10. 於第11話起按有關公司人事調動。

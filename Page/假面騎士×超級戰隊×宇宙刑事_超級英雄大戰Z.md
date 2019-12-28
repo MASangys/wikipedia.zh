@@ -51,7 +51,7 @@
 
 <!-- end list -->
 
-  - **奈良瞬平（）**（[戶塚純貴飾](https://zh.wikipedia.org/wiki/:ja:戸塚純貴 "wikilink")）
+  - **奈良瞬平（）**（[戶塚純貴飾](https://zh.wikipedia.org/wiki/戶塚純貴 "wikilink")）
 
 <!-- end list -->
 
@@ -902,7 +902,7 @@
   - 特攝導演 -
   - 動作指導 -
   - 發行 - [東映](../Page/東映.md "wikilink")
-  - 製作 - 劇場版「スーパーヒーロー大戦Z」製作委員會（[東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[TOEI VIDEO](https://zh.wikipedia.org/wiki/:ja:東映ビデオ "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、[TOEI ADVERTISING](https://zh.wikipedia.org/wiki/:ja:東映ビデオ "wikilink")、[萬代](../Page/萬代.md "wikilink")）
+  - 製作 - 劇場版「スーパーヒーロー大戦Z」製作委員會（[東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、、[萬代](../Page/萬代.md "wikilink")）
 
 ## 附註
 

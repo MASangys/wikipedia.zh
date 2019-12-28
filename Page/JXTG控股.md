@@ -2,6 +2,16 @@
 
 2016年8月31日，吉坤控股(JX Holdings)以3,520亿日圆(34亿美元)的股票，收购日本营收第三大的炼油业者东燃通用石油 。合併後的新公司名称为JXTG Holdings，
 
+## 事業会社
+
+  - 中核事業会社
+
+<!-- end list -->
+
+  - [JXTGエネルギー](https://zh.wikipedia.org/wiki/JXTGエネルギー "wikilink")(NOE) - 石油精製・販売
+  - [JX石油開発](https://zh.wikipedia.org/wiki/JX石油開発 "wikilink")(NEX) - 石油開発
+  - [JX金属](https://zh.wikipedia.org/wiki/JX金属 "wikilink")(NMM) - 非鉄金属
+
 ## 參考
 
 [Category:日本控股公司](https://zh.wikipedia.org/wiki/Category:日本控股公司 "wikilink") [Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink")

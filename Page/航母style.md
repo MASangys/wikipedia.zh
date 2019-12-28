@@ -30,8 +30,8 @@
 2.  [歼15起飞手势走红 央视播“航母style”](http://tv.sohu.com/20121127/n358745656.shtml/index.shtml/index.shtml)
 3.  [超级大本营军事论坛“航母style”活动主题](http://lt.cjdby.net/thread-1503160-1-1.html)
 4.  [超级大本营军事论坛上网民的讨论](http://lt.cjdby.net/thread-1503160-1-1.html)
-5.  [明星航母style笑料百出 网友力荐上春晚孙俪领舞](http://ent.163.com/12/1129/23/8HH0BHT300032DGD.html)
-6.  [中国航母style动作第一人沈意：演练已有两年](http://news.tag.163.com/main/56163/page_1.html)
+5.
+6.
 7.
 8.
 9.

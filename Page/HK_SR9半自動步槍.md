@@ -16,7 +16,7 @@ SR9的前護木為全新的穩固握把樣式，這樣就防止了這槍裝上[�
 
 SR9的[精度很高](../Page/準確與精密.md "wikilink")，其槍機的後座緩衝器源自[HK MSG90狙擊步槍](../Page/HK_MSG90狙擊步槍.md "wikilink")，所以使用SR9射擊時感覺到的[後座力](../Page/後座力.md "wikilink")很小。SR9的槍機閉鎖裝置確保在彈頭離開槍口後才開鎖，有效地消除了影響自動步槍精確度的一個因素。
 
-SR9與黑克勒-科赫研製的其他步槍一樣，也採用了[滾輪延遲反衝半自由槍機式操作原理](../Page/反沖作用_\(槍械\).md "wikilink")。[槍管](../Page/槍管.md "wikilink")經過[冷鍛](https://zh.wikipedia.org/wiki/膛線#錘鍛（Hammer_forge） "wikilink")[淬火工藝而成](https://zh.wikipedia.org/wiki/淬火 "wikilink")，預調扳機以上帶有[扳機護圈](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，增加了扳機寛度，以便擊發，[扳機扣力為](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")14.7[牛頓](https://zh.wikipedia.org/wiki/牛頓 "wikilink")。
+SR9與黑克勒-科赫研製的其他步槍一樣，也採用了[滾輪延遲反衝半自由槍機式操作原理](../Page/反沖作用_\(槍械\).md "wikilink")。[槍管](../Page/槍管.md "wikilink")經過[冷鍛](https://zh.wikipedia.org/wiki/膛線#錘鍛（Hammer_forge） "wikilink")[淬火工藝而成](https://zh.wikipedia.org/wiki/淬火 "wikilink")，預調扳機以上帶有[扳機護環](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，增加了扳機寛度，以便擊發，[扳機扣力為](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")14.7[牛頓](https://zh.wikipedia.org/wiki/牛頓 "wikilink")。
 
 SR9的槍托可以進行調節，在槍托以上還具有可調節高度的凹槽，此外，護木上還有安裝了環和[兩腳架的Ｔ型導軌](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")。
 
@@ -71,9 +71,7 @@ SR9可裝上的瞄準鏡為[放大倍率達](https://zh.wikipedia.org/wiki/望�
 [Category:半自动步枪](https://zh.wikipedia.org/wiki/Category:半自动步枪 "wikilink") [Category:黑克勒-科赫](https://zh.wikipedia.org/wiki/Category:黑克勒-科赫 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:延遲反沖作用槍械](https://zh.wikipedia.org/wiki/Category:延遲反沖作用槍械 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink") [Category:HK_G3衍生槍](https://zh.wikipedia.org/wiki/Category:HK_G3衍生槍 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.

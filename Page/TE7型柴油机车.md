@@ -32,9 +32,7 @@ TE3型柴油机车采用直—直流电传动，柴油机直接驱动一台直�
 [Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:哈尔科夫制铁路机车](https://zh.wikipedia.org/wiki/Category:哈尔科夫制铁路机车 "wikilink") [Category:Co-Co+Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co+Co-Co軸式機車 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.

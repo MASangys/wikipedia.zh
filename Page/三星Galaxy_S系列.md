@@ -1,4 +1,4 @@
-**三星Galaxy S系列**是由[三星電子](../Page/三星電子.md "wikilink")旗下的[三星Galaxy](../Page/三星Galaxy.md "wikilink")系列分拆成的旗舰级[智能手机](../Page/智能手机.md "wikilink")、[平板手机](../Page/平板手机.md "wikilink")和[平板电脑系列](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。
+**三星Galaxy S系列**是由[三星電子](../Page/三星電子.md "wikilink")旗下的[三星Galaxy](../Page/三星Galaxy.md "wikilink")系列分拆成的[智能手机](../Page/智能手机.md "wikilink")、[平板手机](../Page/平板手机.md "wikilink")和[平板电脑系列](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。本系列和[三星Galaxy Note系列同是三星Galaxy的其下旗舰级手機系列](../Page/三星Galaxy_Note系列.md "wikilink")。
 
 ## 手機
 
@@ -1796,83 +1796,44 @@
 [Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
 
 1.  [Samsung I9000 Galaxy S](http://www.gsmarena.com/samsung_i9000_galaxy_s-3115.php), GSMArena.com
-
 2.  [Samsung I9001 Galaxy S Plus](http://www.gsmarena.com/samsung_i9001_galaxy_s_plus-3908.php), GSMArena.com
-
 3.  [Samsung I9070 Galaxy S Advance](http://www.gsmarena.com/samsung_i9070_galaxy_s_advance-4469.php), GSMArena.com
-
 4.  [Samsung S7562 Galaxy S Duos](http://www.gsmarena.com/samsung_galaxy_s_duos_s7562-4883.php), GSMArena.com
-
 5.  [Samsung S7582 Galaxy S Duos 2](http://www.gsmarena.com/samsung_galaxy_s_duos_2_s7582-5876.php), GSMArena.com
-
 6.  [Samsung G316 Galaxy S Duos 3](http://www.gsmarena.com/samsung_galaxy_s_duos_3-6662.php), GSMArena.com
-
 7.  [Samsung I9100 Galaxy S II](http://www.gsmarena.com/samsung_i9100_galaxy_s_ii-3621.php), GSMArena.com
-
 8.  [Samsung I9100G Galaxy S II](http://www.gsmarena.com/samsung_i9100g_galaxy_s_ii-4327.php), GSMArena.com
-
 9.  [Samsung I9105 Galaxy SII Plus](http://www.gsmarena.com/samsung_i9105_galaxy_s_ii_plus-5213.php), GSMArena.com
-
 10. [Samsung I9210 Galaxy S II HD LTE](http://www.gsmarena.com/samsung_galaxy_s_ii_hd_lte-4198.php), GSMArena.com
-
 11. [Samsung I8190 Galaxy S III mini](http://www.gsmarena.com/samsung_i8190_galaxy_s_iii_mini-5033.php), GSMArena.com
-
 12. [Samsung I8200 Galaxy S III Mini VE](http://www.gsmarena.com/samsung_i8200_galaxy_s_iii_mini_ve-6190.php), GSMArena.com
-
 13. [Samsung G3812B Galaxy S3 Slim](http://www.gsmarena.com/samsung_g3812b_galaxy_s3_slim-6209.php), GSMArena.com
-
 14. [Samsung I9300 Galaxy S III](http://www.gsmarena.com/samsung_i9300_galaxy_s_iii-4238.php), GSMArena.com
-
 15. [Samsung I9305 Galaxy S III](http://www.gsmarena.com/samsung_i9305_galaxy_s_iii-5001.php), GSMArena.com
-
 16. [Samsung I9300I Galaxy S3 Neo](http://www.gsmarena.com/samsung_i9300i_galaxy_s3_neo-6289.php), GSMArena.com
-
 17. [Samsung I9301I Galaxy S3 Neo](http://www.gsmarena.com/samsung_i9301i_galaxy_s3_neo-6433.php), GSMArena.com
-
 18. [Samsung SM-C101 Galaxy S4 Zoom](http://www.gsmarena.com/samsung_galaxy_s4_zoom-5447.php), GSMArena.com
-
 19. [Samsung I9190 Galaxy S4 mini](http://www.gsmarena.com/samsung_i9190_galaxy_s4_mini-5375.php), GSMArena.com
-
 20. [Samsung I9295 Galaxy S4 Active](http://www.gsmarena.com/samsung_i9295_galaxy_s4_active-5446.php), GSMArena.com
-
 21. [Samsung I9505 Galaxy S4](http://www.gsmarena.com/samsung_i9505_galaxy_s4-5371.php), GSMArena.com
-
 22. [Samsung I9500 Galaxy S4](http://www.gsmarena.com/samsung_i9500_galaxy_s_4-5125.php), GSMArena.com
-
 23. [Samsung SM-G800F Galaxy S5 Mini](http://pdadb.net/index.php?m=specs&id=6033&view=1&c=samsung_sm-g800f_galaxy_s5_dx_lte-a__galaxy_s5_mini_samsung_atlantic), pdadb.net
-
 24. [Samsung SM-G870A Galaxy S5 Active](http://pdadb.net/index.php?m=specs&id=6260&view=1&c=samsung_sm-g870a_galaxy_s5_active_lte-a), pdadb.net
-
 25. [Samsung SM-G906S Galaxy S5 LTE-A](http://pdadb.net/index.php?m=specs&id=6040&&view=1c=samsung_sm-g906s_galaxy_s5_lte-a_samsung_lentis), pdadb.net
-
 26. [Samsung SM-G900F Galaxy S5](http://pdadb.net/index.php?m=specs&id=5837&view=1&c=samsung_sm-g900f_galaxy_s5_lte-a_16gb), pdadb.net
-
 27. [Samsung SM-G900H Galaxy S5](http://pdadb.net/index.php?m=specs&id=5884&view=1&c=samsung_sm-g900h_galaxy_s5_hspa_16gb), pdadb.net
-
 28. [Samsung SM-G920F Galaxy S6](http://pdadb.net/index.php?m=specs&id=7765&view=1&c=samsung_sm-g920f_galaxy_s6_lte-a_64gb_samsung_zero_f), pdadb.net
-
 29. [Samsung SM-G925F Galaxy S6 Edge](http://pdadb.net/index.php?m=specs&id=7781&view=1&c=samsung_sm-g925f_galaxy_s6_edge_lte-a_64gb_samsung_zero), pdadb.net
-
 30. [Samsung SM-G890A Galaxy S6 Active](http://pdadb.net/index.php?m=specs&id=7853&view=1&c=samsung_sm-g890a_galaxy_s6_active_lte-a), pdadb.net
-
 31. [Samsung SM-G928F Galaxy S6 Edge+](http://pdadb.net/index.php?m=specs&id=8684&c=samsung_sm-g928f_galaxy_s6_edgeplus_lte-a_64gb_samsung_zen), pdadb.net
-
 32. [Samsung SM-G930F Galaxy S7](http://pdadb.net/index.php?m=specs&id=9334&c=samsung_sm-g930f_galaxy_s7_lte-a_samsung_hero), pdadb.net
-
 33. [Samsung SM-G935F Galaxy S7 Edge](http://pdadb.net/index.php?m=specs&id=9792&c=samsung_sm-g935f_galaxy_s7_edge_lte-a_samsung_hero_2), pdadb.net
-
 34.  Device Specs {{\!}} PhoneDB|accessdate=2018-12-12|last=PhoneDB|work=phonedb.net|language=en}}
-
 35.  Device Specs {{\!}} PhoneDB|accessdate=2018-12-12|last=PhoneDB|work=phonedb.net|language=en}}
-
 36.  Device Specs {{\!}} PhoneDB|accessdate=2018-12-12|last=PhoneDB|work=phonedb.net|language=en}}
-
 37.  Device Specs {{\!}} PhoneDB|accessdate=2018-12-12|last=PhoneDB|work=phonedb.net|language=en}}
-
 38.  Device Specs {{\!}} PhoneDB|accessdate=2018-12-12|last=PhoneDB|work=phonedb.net|language=en}}
-
 39.
-
 40.
 41.
 42.
@@ -1907,20 +1868,15 @@
 71.
 72.
 73.  Device Specs {{\!}} PhoneDB|accessdate=2018-12-12|last=PhoneDB|work=phonedb.net|language=en}}
-
 74.
 75.
 76.
 77.
 78.
 79.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=14843\&c=samsung_sm-g970fds_galaxy_s10e_global_dual_sim_td-lte_256gb__samsung_beyond_0|work=phonedb.net|accessdate=2019-02-25|language=en|last=PhoneDB](http://phonedb.net/index.php?m=device&id=14843&c=samsung_sm-g970fds_galaxy_s10e_global_dual_sim_td-lte_256gb__samsung_beyond_0%7Cwork=phonedb.net%7Caccessdate=2019-02-25%7Clanguage=en%7Clast=PhoneDB)}}
-
 80.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=14832\&c=samsung_sm-g973f_galaxy_s10_global_td-lte_128gb__samsung_beyond|work=phonedb.net|accessdate=2019-02-21|language=en|last=PhoneDB](http://phonedb.net/index.php?m=device&id=14832&c=samsung_sm-g973f_galaxy_s10_global_td-lte_128gb__samsung_beyond%7Cwork=phonedb.net%7Caccessdate=2019-02-21%7Clanguage=en%7Clast=PhoneDB)}}
-
 81.  Device Specs {{\!}} PhoneDB|url=[http://phonedb.net/index.php?m=device\&id=14442\&c=samsung_sm-g975fds_galaxy_s10plus_duos_td-lte_256gb__samsung_beyond_2|work=phonedb.net|accessdate=2019-02-21|language=en|last=PhoneDB](http://phonedb.net/index.php?m=device&id=14442&c=samsung_sm-g975fds_galaxy_s10plus_duos_td-lte_256gb__samsung_beyond_2%7Cwork=phonedb.net%7Caccessdate=2019-02-21%7Clanguage=en%7Clast=PhoneDB)}}
-
 82.
-
 83.
 84.
 85.
@@ -1961,7 +1917,6 @@
 120.
 121.
 122.
-
 123.
 124.
 125.

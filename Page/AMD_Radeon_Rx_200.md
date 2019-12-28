@@ -793,79 +793,44 @@ Tahiti XTL[38]</p></td>
 [Category:AMD圖形處理器](https://zh.wikipedia.org/wiki/Category:AMD圖形處理器 "wikilink") [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  [AMD’s Radeon HD 9000 Series Might Ship in October 2013](http://www.gamefront.com/amd-radeon-hd9000-october-2013/) - 2013年8月7日
-
 6.
-
 7.
-
 8.
-
 9.  [AMD R9、R7显卡官方真容、性能公布](http://news.mydrivers.com/1/277/277134.htm) - mydrivers.com，2013年9月26日
-
 10. [AMD Announces TrueAudio Technology For Upcoming GPUs](http://www.anandtech.com/show/7370/amd-announces-trueaudio-technology-for-upcoming-gpus) - anandtech.com，2013年9月25日
-
 11.
-
 12.
-
 13.
-
 14.
 15.
-
 16.
-
 17.
-
 18.
 19. [AMD新一代显卡全线性能/售价曝光](http://news.mydrivers.com/1/277/277234.htm) - mydrivers.com，2013年9月25日
-
 20.
-
 21.
-
 22.
-
 23.
-
 24. [AMD GPU Lineup Announced R9 and R7 Series PC Perspective](http://www.pcper.com/news/General-Tech/AMD-GPU-Lineup-Announced-R9-and-R7-Series)
-
 25.
-
 26.
-
 27.
 28.
-
 29.
-
 30.
 31. [Radeon R9 290X Review AMD's Back In Ultra-High-End Gaming](http://www.tomshardware.com/reviews/radeon-r9-290x-hawaii-review,3650.html) 『我們這裡知道，超微在R9 290X上將雙精度/單精度效能比由1/4改為1/8，最終雙精度浮點數運算效能在0.7 TeraFLOPS.而FirePro版本的圖形處理器則會支援全速的雙精度浮點數運算，其雙精度/單精度效能比為1/2，給專業使用者產生升級『Hawaii』產品的動機』。原文："We've also come to learn that AMD changed the double-precision rate from 1/4 to 1/8 on the R9 290X, yielding a maximum .7 TFLOPS. The FirePro version of this configuration will support full-speed (1/2 rate) DP compute, giving professional users an incentive to spring for Hawaii's professional implementation."
-
 32. [AMD Radeon R9 290 Review Fast And $400, But Is It Consistent - Digging Deeper Into Hawaii’s Behavior](http://www.tomshardware.com/reviews/radeon-r9-290-review-benchmark,3659.html)
-
 33.
-
 34. [AMD Radeon™ R5 Series Graphics](http://www.amd.com/en-us/products/graphics/desktop/r5#)
-
 35. [迎战GTX 750：R7 250X迫不及待露面了](http://news.mydrivers.com/1/291/291822.htm) - mydrivers.com
-
 36. 實際上分別是『Pitcairn Pro』、『Pitcairn XT』
-
 37.
 38. [AMD Preparing Tahiti XTL Revision of Radeon R9 280X Graphic Card For November Release](http://wccftech.com/amd-preparing-tahiti-xtl-revision-radeon-r9-280x-graphic-card/)
-
 39.
-
 40. [AnandTech Portal | The AMD Radeon R9 290X Review](http://anandtech.com/show/7457/the-radeon-r9-290x-review/)
-
 41.
 42.

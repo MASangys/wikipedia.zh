@@ -72,20 +72,20 @@
 [Category:T-ara音樂專輯](https://zh.wikipedia.org/wiki/Category:T-ara音樂專輯 "wikilink")
 
 1.
-2.  [Danee希望早日加入T-ara](http://kpopn.com/2012/06/22/129568/) - kpopn
+2.  [Danee希望早日加入T-ara](http://kpopn.com/2012/06/22/129568/)  - kpopn
 3.
 4.  [T-ara to release Day by Day](http://www.koreastardaily.com/tc/news/18123)
 5.  [T-ara第八名成員雅凜 撩神秘面紗現身](http://www.koreastardaily.com/tc/news/18149) - 韓星網
-6.  [孝敏、Danee 新曲概念照](http://kpopn.com/2012/06/15/128485/) - kpopn
-7.  [T-ara “Day By Day" 預告](http://kpopn.com/2012/06/28/130534/) - kpopn
-8.  [T-ara─Day By Day 個人照](http://kpopn.com/2012/06/29/130678/) - kpopn
+6.  [孝敏、Danee 新曲概念照](http://kpopn.com/2012/06/15/128485/)  - kpopn
+7.  [T-ara “Day By Day" 預告](http://kpopn.com/2012/06/28/130534/)  - kpopn
+8.  [T-ara─Day By Day 個人照](http://kpopn.com/2012/06/29/130678/)  - kpopn
 9.  [T-ara 花英離團](http://kpopn.com/2012/07/30/136172/)  - kpopn
 10. [韓網爆料T-ara花英遭集體排擠 內幕如何引發大眾好奇](http://www.koreastardaily.com/tc/news/19318) - 韓星網
 11. [T-ARA開除花英「 金」慘](http://www.libertytimes.com.tw/2012/new/aug/1/today-show8.htm)  - 自由電子報
-12. [花英因腳傷將暫停所有行程](http://kpopn.com/2012/07/27/135721/) - kpopn
+12. [花英因腳傷將暫停所有行程](http://kpopn.com/2012/07/27/135721/)  - kpopn
 13. [T-ara新曲《Sexy love》將上演全新機器舞](http://www.koreastardaily.com/tc/news/19127) - 韓星網
-14. [T-ara 確定9月3日回歸](http://kpopn.com/2012/08/30/141111/) - kpopm
-15. [T-ara取消與小T-ara的合作](http://kpopn.com/2012/09/06/142143/) - kpopn
+14. [T-ara 確定9月3日回歸](http://kpopn.com/2012/08/30/141111/)  - kpopm
+15. [T-ara取消與小T-ara的合作](http://kpopn.com/2012/09/06/142143/)  - kpopn
 16. <http://www.hanteo.com/#>
 17.
 18. <http://www.hanteo.com/#>

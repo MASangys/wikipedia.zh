@@ -481,7 +481,7 @@ GFLOPS</p></th>
 <td><p>Radeon 3000 Graphics (760G晶片組)</p></td>
 <td><p>2009年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/AMD_700_chipset_Series#760G" title="wikilink">RS780L</a>[7]</p></td>
-<td><p>RV610</p></td>
+<td><p><a href="../Page/ATI_Radeon_HD_2000.md" title="wikilink">RV610</a></p></td>
 <td><p>55</p></td>
 <td><p>205</p></td>
 <td><p>~73 (~9 × 8.05)</p></td>
@@ -516,17 +516,17 @@ GFLOPS</p></th>
 <tr class="even">
 <td><p>Radeon HD 3200 Graphics (780G晶片組)</p></td>
 <td><p>RS780</p></td>
-<td><p>最多從系統佔用512 + 原生 128 專用</p></td>
+<td><p>最多從系統佔用512 + 128 sideport</p></td>
 <td><p>500</p></td>
 <td><p>2</p></td>
 <td><p>2</p></td>
 <td><p>1</p></td>
-<td><p>20.8 (系統) + 2.6 (專用)</p></td>
-<td><p><a href="../Page/HyperTransport.md" title="wikilink">HT</a> (系統) + <a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a>-1066 <a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 (專用)</p></td>
-<td><p>1333 (專用)</p></td>
-<td><p>16 (專用)</p></td>
+<td><p>20.8 (系統) + 2.6 (sideport)</p></td>
+<td><p><a href="../Page/HyperTransport.md" title="wikilink">HT</a> (系統) + <a href="../Page/DDR2_SDRAM.md" title="wikilink">DDR2</a>-1066 <a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 (sideport)</p></td>
+<td><p>1333 (sideport)</p></td>
+<td><p>16 (sideport)</p></td>
 <td><p>40</p></td>
-<td><p><a href="../Page/UVD.md" title="wikilink">UVD</a>, 8x AA (wide-tent <a href="https://zh.wikipedia.org/wiki/自訂過濾器反鋸齒" title="wikilink">CFAA</a>)</p></td>
+<td><p><a href="../Page/UVD.md" title="wikilink">UVD</a>+, 8x AA (wide-tent <a href="https://zh.wikipedia.org/wiki/自訂過濾器反鋸齒" title="wikilink">CFAA</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -534,14 +534,14 @@ GFLOPS</p></th>
 <td><p>Radeon HD 3300 Graphics (790GX晶片組)</p></td>
 <td><p>2008年7月</p></td>
 <td><p>RS780D</p></td>
-<td><p>最多從系統佔用512 + 128 專用</p></td>
+<td><p>最多從系統佔用512 + 128 sideport</p></td>
 <td><p>700</p></td>
 <td><p>2.8</p></td>
 <td><p>2.8</p></td>
 <td><p>1.4</p></td>
-<td><p><a href="../Page/HyperTransport.md" title="wikilink">HT</a> (系統) + <a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 (專用)</p></td>
+<td><p><a href="../Page/HyperTransport.md" title="wikilink">HT</a> (系統) + <a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 (sideport)</p></td>
 <td><p>56</p></td>
-<td><p><a href="../Page/UVD.md" title="wikilink">UVD</a>, <a href="https://zh.wikipedia.org/wiki/ATI_PowerPlay" title="wikilink">PowerPlay</a></p></td>
+<td><p><a href="../Page/UVD.md" title="wikilink">UVD</a>+, <a href="https://zh.wikipedia.org/wiki/ATI_PowerPlay" title="wikilink">PowerPlay</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -569,7 +569,7 @@ GFLOPS</p></th>
 
 <sup>1</sup> [統一渲染單元數量](https://zh.wikipedia.org/wiki/GPGPU "wikilink") : [紋理對映單元數量](https://zh.wikipedia.org/wiki/紋理對映單元 "wikilink") : [渲染輸出單元數量](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")
 <sup>2</sup>在[ATI PowerPlay節電技術生效時](https://zh.wikipedia.org/wiki/ATI_PowerPlay "wikilink")，核心時脈在不同的使用場合時會有所不同。這個列表列出的時脈數值是官方宣稱的時脈值參數
-<sup>3</sup>整合顯示核心的專用記憶體採用特別的sideport匯流排，用作[顯示記憶體](https://zh.wikipedia.org/wiki/顯示記憶體 "wikilink")。內建顯示晶片為採用主記憶體的一部分（128M\~512M不等）作為顯示記憶體。
+<sup>3</sup>sideport是一種匯流排，連接到專用記憶體，用作[顯示記憶體](https://zh.wikipedia.org/wiki/顯示記憶體 "wikilink")。
 
 ### 移動端圖形處理器
 

@@ -30,10 +30,7 @@ D<sup>b</sup>型机车为干线客货运通用六轴柴油机车，[机车轴式
 [Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink") [Category:鲍尔温制铁路机车](https://zh.wikipedia.org/wiki/Category:鲍尔温制铁路机车 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.

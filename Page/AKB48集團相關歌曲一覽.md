@@ -2947,7 +2947,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 [241]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/三菱食品" title="wikilink">三菱食品</a>「HKT48×<a href="https://zh.wikipedia.org/wiki/ローソン" title="wikilink">ローソン</a> ハル、はじまる。キャンペーン」CMソング。<br />
+<td><p><a href="../Page/三菱食品.md" title="wikilink">三菱食品</a>「HKT48×<a href="https://zh.wikipedia.org/wiki/ローソン" title="wikilink">ローソン</a> ハル、はじまる。キャンペーン」CMソング。<br />
 歌唱メンバー：穴井千尋、今村麻莉愛、神志那結衣、兒玉遥[242]、朝長美桜[243]</p></td>
 <td></td>
 <td></td>

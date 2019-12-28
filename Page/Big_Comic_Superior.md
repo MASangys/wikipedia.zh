@@ -182,5 +182,4 @@
 [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink") [Category:小學館的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:小學館的漫畫雜誌 "wikilink")
 
 1.  誌面で『覇-LORD-』から『SOUL 覇 第2章』に改題されたのは2012年5号からであるが、単行本では2011年13号掲載分より『SOUL』1巻に収録。
-
 2.

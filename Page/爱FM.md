@@ -351,8 +351,8 @@ Jc 劲程、淑霖</p></td>
 <tr class="odd">
 <td><p>08:00</p></td>
 <td><p>打开天窗/名师早点*/经济论谈/报章社论摘要</p></td>
-<td><p>我有办法</p></td>
-<td><p>Miss Koo 周末学堂</p></td>
+<td><p>《职上云霄》一周完整重播</p></td>
+<td><p>《名师早点》一周完整重播</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -363,8 +363,8 @@ Jc 劲程、淑霖</p></td>
 <td><p>一周新闻点评</p></td>
 <td><p>开讲天下议题</p></td>
 <td><p><a href="../Page/東方日報_(馬來西亞).md" title="wikilink">东方上爱FM</a></p></td>
-<td><p>行行出状况</p></td>
-<td></td>
+<td><p>《博士来聊》</p></td>
+<td><p>《声音地图》</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -375,14 +375,14 @@ Jc 劲程、淑霖</p></td>
 <td><p>养生保健</p></td>
 <td><p>医疗单元</p></td>
 <td><p>爱要性福</p></td>
-<td><p>小太阳爱生活</p></td>
+<td><p>《耳朵散步》</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>11:00</p></td>
 <td><p>爱精选</p></td>
-<td><p>周末爱精选</p></td>
-<td></td>
+<td><p>小小的梦想,大大的天空</p></td>
+<td><p>一页书香</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -390,19 +390,19 @@ Jc 劲程、淑霖</p></td>
 </tr>
 <tr class="odd">
 <td><p>12:00</p></td>
-<td><p>两性关系</p></td>
-<td><p>时尚美容</p></td>
-<td><p>亲子关系</p></td>
-<td><p>心灵成长</p></td>
-<td><p>爱生活。聊生活</p></td>
-<td><p>闺蜜下午茶*</p></td>
-<td><p>周末走走 好康推荐</p></td>
+<td><p>我要对你说</p></td>
+<td><p>《理所当然》</p></td>
+<td><p>《理一理心理》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>13:00</p></td>
-<td><p>生活剧场</p></td>
-<td><p>快乐893/生活达人</p></td>
-<td><p>周末耍大牌</p></td>
+<td><p>快乐893</p></td>
+<td><p>《快乐893-重播》</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -410,18 +410,18 @@ Jc 劲程、淑霖</p></td>
 </tr>
 <tr class="odd">
 <td><p>14:00</p></td>
-<td><p>大眼看视界</p></td>
-<td><p>闺蜜下午茶</p></td>
 <td><p>说给你听</p></td>
-<td><p>Hito 韩风榜</p></td>
+<td><p>《岁月留声-重播》</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>15:00</p></td>
-<td><p>我选你赞</p></td>
-<td><p>岁月留声</p></td>
+<td><p>绝佩拼盘</p></td>
+<td><p>《你的肩膀，我的天空》</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -430,41 +430,38 @@ Jc 劲程、淑霖</p></td>
 </tr>
 <tr class="odd">
 <td><p>16:00</p></td>
-<td><p>中国网络歌曲</p></td>
-<td><p>校园民歌</p></td>
-<td><p>走过岁月的回忆</p></td>
-<td><p>梁粉乐园</p></td>
-<td><p>爱FM 经典榜</p></td>
-<td><p>绝佩拼盘</p></td>
+<td><p>播放70-80年代歌曲</p></td>
+<td><p>《周末英语学堂》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>17:00</p></td>
-<td><p>轻松话题</p></td>
-<td><p>好人好事</p></td>
-<td><p>金龙上菜</p></td>
-<td><p>爱旅游</p></td>
-<td><p>音乐教室</p></td>
-<td><p>音乐幕后功臣</p></td>
+<td><p>越听越上影</p></td>
+<td><p>《串歌说故事》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>18:00</p></td>
-<td><p>嘉宾DJ:寻找越听越爱好声音</p></td>
-<td><p>嘉宾DJ:许俊杰<br />
-掰新闻</p></td>
-<td><p>嘉宾DJ:洪嘉惠<br />
-爱的正能量</p></td>
-<td><p>嘉宾DJ:李璘<br />
-认识异己</p></td>
-<td><p>嘉宾DJ:卓衍豪<br />
-发现马来西亚</p></td>
-<td><p>那些年的歌</p></td>
-<td><p>灿烂银河</p></td>
+<td><p>话龙点经<br />
+</p></td>
+<td><p>新新音乐龙虎榜</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>19:00</p></td>
-<td><p>音乐留声机</p></td>
+<td><p>晚报新闻</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -479,24 +476,24 @@ Jc 劲程、淑霖</p></td>
 <td><p>开讲天下议题*/职上云霄*</p></td>
 <td><p><a href="../Page/東方日報_(馬來西亞).md" title="wikilink">东方上爱FM</a>*/<br />
 职上云霄*</p></td>
-<td><p>游走新闻线</p></td>
+<td><p>晚报新闻</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>21:00</p></td>
-<td><p>夜点心</p></td>
-<td><p>周末耍大牌*</p></td>
-<td><p>周四音乐线</p></td>
-<td><p>周五影视线</p></td>
-<td><p>爱炫综艺线</p></td>
+<td><p>《左右不为难》</p></td>
+<td><p>《天方夜谈》</p></td>
+<td><p>《深夜访客》</p></td>
+<td><p>《艺度空间》</p></td>
+<td><p>周五音乐线</p></td>
 <td><p>爱炫综艺线</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>22:00</p></td>
-<td><p>新新音乐龙虎榜</p></td>
+<td><p>周五影视线</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -506,9 +503,9 @@ Jc 劲程、淑霖</p></td>
 </tr>
 <tr class="even">
 <td><p>23:00</p></td>
-<td><p>念念有慈</p></td>
-<td><p>粤夜粤动听</p></td>
-<td><p>我们的排行榜</p></td>
+<td><p>夜了一点</p></td>
+<td><p>夜了一点</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -608,7 +605,7 @@ Jc 劲程、淑霖</p></td>
 
   - \*：重播节目
   - 《天南地北谈华语》：周一至周五 2am/8am/2pm/6pm 播出。
-  - 《学国语 Belajar Bahasa Malaysia》：周一至周五 3.45pm 左右播出。
+  -
   - 《思想泉源》：每天 6am/3pm 播出。
   - 《股市简讯》：周一至周五 5.20pm。
 
@@ -677,6 +674,8 @@ Jc 劲程、淑霖</p></td>
   - 叶恩慈 Essel
   - 邱淑霖 Shuleen
   - 晓涵 Xiao Han
+  - 籽瑩 Zi Ying
+  - 卿柔 Qing Rou
 
 ## 社交网站
 

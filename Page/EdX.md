@@ -20,7 +20,7 @@
   - [亞利桑那州立大學](../Page/亞利桑那州立大學.md "wikilink")
   - [伯克利音樂學院](../Page/伯克利音樂學院.md "wikilink")
   - [布朗大學](https://zh.wikipedia.org/wiki/布朗大學 "wikilink")
-  - [加州理工學院](https://zh.wikipedia.org/wiki/加州理工學院 "wikilink")
+  - [加州理工學院](../Page/加州理工學院.md "wikilink")
   - [哥倫比亞大學](https://zh.wikipedia.org/wiki/哥倫比亞大學 "wikilink")
   - [康乃爾大學](https://zh.wikipedia.org/wiki/康乃爾大學 "wikilink")
   - [達特茅斯學院](https://zh.wikipedia.org/wiki/達特茅斯學院 "wikilink")
@@ -140,17 +140,11 @@
 [Category:麻省理工學院](https://zh.wikipedia.org/wiki/Category:麻省理工學院 "wikilink") [Category:哈佛大学](https://zh.wikipedia.org/wiki/Category:哈佛大学 "wikilink") [Category:教育機構](https://zh.wikipedia.org/wiki/Category:教育機構 "wikilink") [Category:教育网站](https://zh.wikipedia.org/wiki/Category:教育网站 "wikilink") [Category:内容开放](https://zh.wikipedia.org/wiki/Category:内容开放 "wikilink") [Category:教育技術](https://zh.wikipedia.org/wiki/Category:教育技術 "wikilink") [Category:開放教育資源](https://zh.wikipedia.org/wiki/Category:開放教育資源 "wikilink")
 
 1.  [MIT press release, Dec. 19 2011](http://web.mit.edu/newsoffice/2011/mitx-education-initiative-1219.html)
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.

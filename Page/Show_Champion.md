@@ -828,11 +828,17 @@
   - 11.20 - 停播
   - 11.27 - 停播
 
+十二月
+
+  - 12.04 - [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")<sup>6th</sup> - Hip<sup>1st</sup>
+  - 12.11 - [EXO](../Page/EXO.md "wikilink")<sup>17th</sup> - Obsession<sup>1st</sup>
+  - 12.18 - 停播
+
 ## 藝人成就
 
 | 等級                                                          | 藝人                                                              | 統計  | 出道年份 |
 | ----------------------------------------------------------- | --------------------------------------------------------------- | --- | ---- |
-| 1st                                                         | [EXO](../Page/EXO.md "wikilink")                                | 16次 | 2012 |
+| 1st                                                         | [EXO](../Page/EXO.md "wikilink")                                | 17次 | 2012 |
 | 2nd                                                         | [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")         | 14次 | 2015 |
 | 3rd                                                         | [Red Velvet](../Page/Red_Velvet.md "wikilink")                  | 12次 | 2014 |
 | 4th                                                         | [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink") | 11次 | 2017 |

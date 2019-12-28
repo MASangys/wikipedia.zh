@@ -297,76 +297,46 @@ TRAXX F140 AC2</p></td>
 [Category:庞巴迪制铁路机车](https://zh.wikipedia.org/wiki/Category:庞巴迪制铁路机车 "wikilink") [Category:15千伏16.7赫兹交流电力机车](https://zh.wikipedia.org/wiki/Category:15千伏16.7赫兹交流电力机车 "wikilink") [Category:25千伏50赫兹交流电力机车](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力机车 "wikilink") [Category:3000伏直流电力机车](https://zh.wikipedia.org/wiki/Category:3000伏直流电力机车 "wikilink") [Category:柴油機車](https://zh.wikipedia.org/wiki/Category:柴油機車 "wikilink") [Category:Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo軸式機車 "wikilink")
 
 1.
-
 2.  *[DB und Bombardier unterzeichnen Vertrag über Fahrzeuge im Wert von 108 Millionen Euro](http://www.deutschebahn.com/de/presse/presseinformationen/pi_k/2893336/h20120816.html) *. Deutsche Bahn AG. 2012年8月16日.
-
 3.  [*Railpool 187*](http://www.railcolor.net/index.php?nav=1408874&lang=1). Railcolor.
-
 4.
 5.
 6.
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
-
 14.
-
 15.
-
 16.
 17.
 18.
 19.
 20.
-
 21.
 22.
-
 23.
-
 24.
-
 25.
 26.
-
 27.
-
 28. Karl Gerhard Baur: *Die Baureihen 145, 146 und 185.* EK-Verlag, Freiburg (Breisgau) 2002, ISBN 978-3-88255-145-7, S. 39
-
 29.
 30. Meldung *Ende der Lieferung BR 145/146*. In: Eisenbahn-Revue International, Heft 1/2003, , S. 7.
-
 31. VRR Sachstandsbericht Z/VIII/2010/0078, online verfügbar unter <http://zvis.vrr.de>
-
 32. Meldung *Hundertste 185 für DB Cargo*. In: Eisenbahn-Revue International, Heft 2/2003, , S. 57.
-
 33. K. G. Baur, Die Baureihen 145, 146 und 185, S. 39
-
 34. Meldung *„rail4chem“ bald auch in der Schweiz?*. In: Eisenbahn-Revue International, Heft 3/2003, , S. 125.
-
 35. Meldung *Fertigung der 185.1 beendet*. In: Eisenbahn-Revue International. Heft 4/2006, , S. 190.
-
 36. *Erste Re 3485 für BLS Cargo abgeliefert*. In: [Eisenbahn-Revue International](https://zh.wikipedia.org/wiki/Eisenbahn-Revue_International "wikilink"), Heft 1/2003, , S. 22 f.
-
 37. *Erste Lokomotive der Baureihe 185.2 an DB AG übergeben*. In: Eisenbahn-Revue International, Heft 3/2005, , S. 133.
-
 38. *Erste Lokomotive 146.2 übergeben*. In: Eisenbahn-Revue International, Heft 10/2005, S. 489.
-
 39. *[Bombardier übergibt DB Schenker Rail erste von 65 TRAXX-Lokomotiven](http://www.bahnaktuell.net/?p=9117)*. Bahnaktuell. 2009-05-13.
-
 40. 陈新：庞巴迪公司研制出Traxx P160 DE型干线内燃机车. 《国外内燃机车》. 2007年第3期.
-
 41. 田睿：庞巴迪公司为德国DB Regio铁路公司提供200台TRAXX系列多机组内燃机车. 《国外内燃机车》. 2012年第2期.
-
 42. *[Bombardier Transportation schließt Rahmenvertrag mit DB Regio AG über Lieferung von 200 innovativen TRAXX-Mehrmotoren-Diesellokomotiven](http://www.bombardier.com/de/transportation/pressezentrum/pressemitteilungen/details?docID=0901260d8016ee98)*. [庞巴迪运输](https://zh.wikipedia.org/wiki/庞巴迪运输 "wikilink"). 18 April, 2011.
-
 43.
 44. [庞巴迪运输集团获Railpool订单，将为其供应36辆TRAXX机车](http://cn.bombardier.com/cn/press_release_12232010.htm) . 庞巴迪中国. 2010年12月23日.

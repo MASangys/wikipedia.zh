@@ -168,7 +168,7 @@
 
 1.   老娘就是可以红很久！_Jolin|url=[http://www.sohu.com/a/286040337_445165|work=www.sohu.com|accessdate=2019-04-27|language=en](http://www.sohu.com/a/286040337_445165%7Cwork=www.sohu.com%7Caccessdate=2019-04-27%7Clanguage=en)}}
 2.
-3.   OtakuDX|accessdate=2019-05-14|work=www.otakudx.com|language=en}}
+3.   OtakuDX|accessdate=2019-05-14|work=www.otakudx.com|language=en|archive-url=[https://web.archive.org/web/20190514051710/http://www.otakudx.com/musicreview/jolin-tsai-muse|archive-date=2019-05-14|dead-url=yes](https://web.archive.org/web/20190514051710/http://www.otakudx.com/musicreview/jolin-tsai-muse%7Carchive-date=2019-05-14%7Cdead-url=yes)}}
 4.
 5.
 6.
@@ -259,7 +259,7 @@
 91.
 92.
 93.
-94.  OtakuDX|accessdate=2019-05-14|work=www.otakudx.com|language=en}}
+94.  OtakuDX|accessdate=2019-05-14|work=www.otakudx.com|language=en|archive-url=[https://web.archive.org/web/20190514051710/http://www.otakudx.com/musicreview/jolin-tsai-muse|archive-date=2019-05-14|dead-url=yes](https://web.archive.org/web/20190514051710/http://www.otakudx.com/musicreview/jolin-tsai-muse%7Carchive-date=2019-05-14%7Cdead-url=yes)}}
 95.
 96.
 97.

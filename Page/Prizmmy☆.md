@@ -586,7 +586,7 @@ AVXA-62999</p></td>
 ## 外部連結
 
   - [Prizmmy☆オフィシャルブログ Powered by Ameba](http://ameblo.jp/prizmmy-official/)
-  - [プリズミー](http://prethmates.syncl.jp/) - 舊官方Blog
+  - [プリズミー](https://web.archive.org/web/20110606101544/http://prethmates.syncl.jp/) - 舊官方Blog
   - 成員官方Blog - 2012年9月4日完結更新，以Prizmmy☆官方Blog統一。
       - [日下部美愛官方Blog「Mia Diary」](http://ameblo.jp/mia-diary0309/)
       - [REINA’S FAVORITE](http://ameblo.jp/aaa017reina)
@@ -598,11 +598,8 @@ AVXA-62999</p></td>
 [Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:星光少女](https://zh.wikipedia.org/wiki/Category:星光少女 "wikilink")
 
 1.  季度（[クール](https://zh.wikipedia.org/wiki/季度 "wikilink")，Cours）：日本節目製作長度單位，每三個月為一個季度；若每週播映一集的話，三個月下來約12～13集。
-
 2.
-
 3.  [CD-DVD｜Prizmmy☆](http://mv.avex.jp/prizmmy/cddvd/)
-
 4.
 5.
 6.
@@ -610,12 +607,9 @@ AVXA-62999</p></td>
 8.
 9.
 10. [NEWS｜Prizmmy☆](http://mv.avex.jp/prizmmy/news/593420130426.html)
-
 11.
 12.
 13.
 14. [CD-DVD｜Prizmmy☆](http://mv.avex.jp/prizmmy/cddvd/)
-
 15. [CD-DVD｜Prizmmy☆](http://mv.avex.jp/prizmmy/cddvd/)
-
 16. [CD-DVD｜Prizmmy☆](http://mv.avex.jp/prizmmy/cddvd/)

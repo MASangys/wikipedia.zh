@@ -1,4 +1,10 @@
-**Lа-9戰鬥機**（）是[第二次世界大戰後由](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[拉沃奇金設計局](../Page/拉沃奇金設計局.md "wikilink")設計的[蘇聯末代](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[螺旋槳](../Page/螺旋槳.md "wikilink")[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")，1946年6月試飛成功，1947年裝備部隊，1953年停产。[中国于](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")1950年进口过此型飞机及技术，服役至1959年。
+**Lа-9戰鬥機**（）是[第二次世界大戰後由](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[拉沃奇金設計局](../Page/拉沃奇金設計局.md "wikilink")設計的[蘇聯末代](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[螺旋槳](../Page/螺旋槳.md "wikilink")[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")，1946年6月試飛成功，1947年裝備部隊，1953年停产。
+
+## 設計特點
+
+拉－9基本保持了拉－7的气动布局和外形特点，主要改进是采用了全金属结构、[层流翼形](https://zh.wikipedia.org/wiki/层流翼 "wikilink")。
+
+拉-9和拉-7在外觀上其中一個最明顯的分別就是:拉-9的垂直尾翼比拉-7的高。
 
 ## 基本資料
 
@@ -26,7 +32,7 @@
 
 [La-9_Silh.jpg](https://zh.wikipedia.org/wiki/File:La-9_Silh.jpg "fig:La-9_Silh.jpg")
 
-1946年6月16日首飞，1946年11月投入批生产，1947年开始装备部队。拉－9基本保持了拉－7的气动布局和外形特点，主要改进是采用了全金属结构、[层流翼形](https://zh.wikipedia.org/wiki/层流翼 "wikilink")。1953年停产。
+1946年6月16日首飞，1946年11月投入批生产，1947年开始装备部队。
 
 中國在1950年1月從蘇聯進口129架Lа-9戰鬥機，此批戰機首先用於歼击机航校的飛行訓練。1950年7月19日，蘇聯同意出售Ла-9戰鬥機和其發動機的生產權給中國，1950年8月，[中國人民解放軍空軍獨立第](https://zh.wikipedia.org/wiki/中國人民解放軍空軍 "wikilink")1驅逐機大隊裝備了13架Lа-9，用於防衛首都北京。1950年10月1日，9架Lа-9參加國慶一週年閱兵。1959年最后5架退役。
 

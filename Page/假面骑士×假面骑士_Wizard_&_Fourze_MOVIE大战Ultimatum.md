@@ -740,7 +740,7 @@
 
   - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")
   - 製片 - ．．高橋一浩（[東映](../Page/東映.md "wikilink")）、（[朝日電視台](../Page/朝日電視台.md "wikilink")）
-  - 編劇 - （Wizard、MOVIE大戰Ultimatum）、（Fourze）
+  - 編劇 - （Wizard、MOVIE大戰Ultimatum）、[中島一基](../Page/中島一基.md "wikilink")（Fourze）
   - 導演/動作指導 - [坂本浩一](../Page/坂本浩一.md "wikilink")
   - 特攝導演 -
   - 配樂 - [中川幸太郎](../Page/中川幸太郎.md "wikilink")、

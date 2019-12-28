@@ -1,4 +1,4 @@
-**Windows To Go**是[Windows 8.1与](../Page/Windows_8.1.md "wikilink")[Windows 10的一种企业功能](../Page/Windows_10.md "wikilink")，被内置于Windows 8企业版（Windows 8 Enterprise）与Windows 10企业版（Windows 10 Enterprise）中。对于满足Windows 8或Windows10硬件要求的电脑，Windows To Go可使Windows 7以后的系统从[USB](../Page/USB.md "wikilink")[儲存裝置](../Page/儲存裝置.md "wikilink")中启动并运行，不必考虑电脑上运行的[操作系统](../Page/操作系统.md "wikilink")（Mac和[Windows RT不被支持](../Page/Windows_RT.md "wikilink")）。
+**Windows To Go**是[Windows 8.1与](../Page/Windows_8.1.md "wikilink")[Windows 10的一种企业功能](../Page/Windows_10.md "wikilink")，被内置于Windows 8企业版（Windows 8 Enterprise）与Windows 10企业版（Windows 10 Enterprise）中。对于满足Windows 8或Windows10硬件要求的电脑，Windows To Go可使Windows 7以后的系统从[USB](../Page/USB.md "wikilink")[儲存裝置](../Page/儲存裝置.md "wikilink")中启动并运行，不必考虑电脑上运行的[操作系统](../Page/操作系统.md "wikilink")（Mac和[Windows RT不被支持](../Page/Windows_RT.md "wikilink")）。此功能已停止开发，在Windows 10版本1903中弃用。将来，该功能将被删除。\[1\]
 
 这是一個完全的可管理的電腦環境，Windows To Go工作区可将相同的映像企业版功能用于其台式计算机和便携式计算机，还可采用相同的方式加以管理。Windows To Go可以为有效使用备用的工作场所方案资源提供支持。
 
@@ -6,19 +6,19 @@
 
 ### 歷史
 
-[Windows 3.1有类似于Windows](https://zh.wikipedia.org/wiki/Windows_3.1 "wikilink") To Go的功能，它有執行到位ROM的選項；\[1\]Windows Embedded Standard 7也有類似的功能，可從USB驱动器中啟用。因此这可以看成Windows To Go的前代。\[2\]\[3\]
+[Windows 3.1有类似于Windows](https://zh.wikipedia.org/wiki/Windows_3.1 "wikilink") To Go的功能，它有執行到位ROM的選項；\[2\]Windows Embedded Standard 7也有類似的功能，可從USB驱动器中啟用。因此这可以看成Windows To Go的前代。\[3\]\[4\]
 
-2011年4月，在泄漏的Windows 8 7850版本中，“Portable Workspace Creator”的功能被内置在程序中。\[4\]\[5\]\[6\]
+2011年4月，在泄漏的Windows 8 7850版本中，“Portable Workspace Creator”的功能被内置在程序中。\[5\]\[6\]\[7\]
 
 2011年9月，微軟正式公布Windows To Go，並发布已预装好的32GB Windows To Go USB驱动器。
 
-2012年4月18日，微軟將以Windows Software Assurance授權方式授權企業授權員工在他們的個人設備上工作。\[7\]
+2012年4月18日，微軟將以Windows Software Assurance授權方式授權企業授權員工在他們的個人設備上工作。\[8\]
 
 ### 兼容性
 
 Windows To Go驱动器可在多台计算机上启动。 当Windows To Go工作区在主计算机上首次启动时，它会检测计算机的所有硬件，并安装任何需要的驱动程序。当Windows To Go工作区在该主计算机再度启动时，它会识别出该主计算机，并自动加载正确的各种驱动程序。
 
-硬件方面，Windows To Go兼容[USB 2.0和](https://zh.wikipedia.org/wiki/USB_2.0 "wikilink")[USB 3.0连接以及](../Page/USB_3.0.md "wikilink")[BIOS](../Page/BIOS.md "wikilink")和[UEFI固件](https://zh.wikipedia.org/wiki/UEFI "wikilink")。\[8\]
+硬件方面，Windows To Go兼容[USB 2.0和](https://zh.wikipedia.org/wiki/USB_2.0 "wikilink")[USB 3.0连接以及](../Page/USB_3.0.md "wikilink")[BIOS](../Page/BIOS.md "wikilink")和[UEFI固件](https://zh.wikipedia.org/wiki/UEFI "wikilink")。\[9\]
 
 ### 安全性
 
@@ -28,7 +28,7 @@ Windows To Go驱动器可在多台计算机上启动。 当Windows To Go工作�
 
 在某些情况下（如系统启用了[UASP协议](https://zh.wikipedia.org/wiki/UASP协议 "wikilink")），在系统运行时拔出USB储存设备将会使系统直接蓝屏，这时再次将USB储存设备插入也无法恢复系统。
 
-用戶亦可以使用BitLocker来加密Windows To Go驱动器。\[9\]
+用戶亦可以使用BitLocker来加密Windows To Go驱动器。\[10\]
 
 ### 差异性
 
@@ -61,7 +61,7 @@ Windows To Go工作区的操作和任何其他Windows一样，但一些例外情
 ### USB驱动器
 
   - USB驱动器容量至少为32GB，支持USB 2.0或USB 3.0（推荐使用USB3.0）。
-      - 在网络上亦有方法在容量小于32GB的USB驱动器上安装。\[10\]
+      - 在网络上亦有方法在容量小于32GB的USB驱动器上安装。\[11\]
       - 若使用Windows To Go安装向导进行安装，必须使用经过Windows To Go认证的USB驱动器，**使用未经认证的USB驱动器在Windows 8将不被支持，然而在Windows 10，未经认证的USB驱动器可以使用，但不保證相容性**。已通过认证的USB驱动器如下：
           - Windows To Go 的 Kingston DataTraveler 工作区
           - Spyrus 便携工作区
@@ -87,7 +87,7 @@ Windows To Go工作区的操作和任何其他Windows一样，但一些例外情
 
 ## 安装步骤
 
-Windows To Go可使用标准Windows 8部署工具（如DISM部署映像服务和管理（仅限于[Windows 8與](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[Windows 10](../Page/Windows_10.md "wikilink")）、DiskPart、ImageX等工具）进行安装，也可使用Windows To Go安装向导进行安装（仅限于[Windows 8企业版](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")/[Windows 10企业版和專業版](../Page/Windows_10.md "wikilink")）。企业可使用配置管理软件（如System Center Configuration Manager）将 Windows 安装到很大一组计算机中。\[11\]
+Windows To Go可使用标准Windows 8部署工具（如DISM部署映像服务和管理（仅限于[Windows 8與](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[Windows 10](../Page/Windows_10.md "wikilink")）、DiskPart、ImageX等工具）进行安装，也可使用Windows To Go安装向导进行安装（仅限于[Windows 8企业版](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")/[Windows 10企业版和專業版](../Page/Windows_10.md "wikilink")）。企业可使用配置管理软件（如System Center Configuration Manager）将 Windows 安装到很大一组计算机中。\[12\]
 
 相比较而言，使用Windows To Go安装向导进行安装步骤比较简单，但对USB驱动器有较高的要求，且仅限于[Windows 8企业版的环境下安装](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")；ImageX和DISM步骤较繁琐，但对USB驱动器无较高的要求，不仅限于[Windows 8企业版环境](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")。
 
@@ -134,7 +134,7 @@ Windows To Go可使用标准Windows 8部署工具（如DISM部署映像服务和
 
 ### 第三方软件
 
-在网络上亦有针对Windows To Go的辅助软件，使安装无需繁琐的步骤。\[12\]\[13\]
+在网络上亦有针对Windows To Go的辅助软件，使安装无需繁琐的步骤。\[13\]\[14\]
 
 如果用户使用第三方软件安装windows to go，那么对硬件限制将会更小。同时，第三方软件一般都会有相应的论坛或支持网站。
 
@@ -150,16 +150,17 @@ Windows To Go可使用标准Windows 8部署工具（如DISM部署映像服务和
 
 [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink") [Category:Windows_8](https://zh.wikipedia.org/wiki/Category:Windows_8 "wikilink")
 
-1.   Windows 8: Windows To Go | ZDNet UK
-2.  <http://msdn.microsoft.com/en-us/library/ff793778%28v=winembedded.60%29.aspx>
-3.  <http://msdn.microsoft.com/en-us/library/ff794931%28v=winembedded.60%29.aspx>
-4.  <http://www.engadget.com/2011/04/13/windows-8-leaked-caught-looking-a-lot-like-windows-7/>
-5.
-6.  <http://www.engadget.com/2011/04/15/windows-8-to-feature-usb-runnable-portable-workspaces-sales-of/>
-7.  Introducing Windows 8 Enterprise and Enhanced Software Assurance for Today’s Modern Workforce". Microsoft.
-8.  <http://techie-buzz.com/microsoft/windows-8-usb-to-go-demo.html>
-9.  <http://news.softpedia.com/news/Windows-8-Running-on-a-USB-Windows-To-Go-221470.shtml>
-10.
-11. <http://technet.microsoft.com/library/hh831833.aspx>
-12.
-13. <http://www.easyuefi.com/wintousb/index-cn.html>
+1.  [Windows To Go (WTG) – Feature Deprecation](https://support.microsoft.com/en-us/help/4508932/)
+2.   Windows 8: Windows To Go | ZDNet UK
+3.  <http://msdn.microsoft.com/en-us/library/ff793778%28v=winembedded.60%29.aspx>
+4.  <http://msdn.microsoft.com/en-us/library/ff794931%28v=winembedded.60%29.aspx>
+5.  <http://www.engadget.com/2011/04/13/windows-8-leaked-caught-looking-a-lot-like-windows-7/>
+6.
+7.  <http://www.engadget.com/2011/04/15/windows-8-to-feature-usb-runnable-portable-workspaces-sales-of/>
+8.  Introducing Windows 8 Enterprise and Enhanced Software Assurance for Today’s Modern Workforce". Microsoft.
+9.  <http://techie-buzz.com/microsoft/windows-8-usb-to-go-demo.html>
+10. <http://news.softpedia.com/news/Windows-8-Running-on-a-USB-Windows-To-Go-221470.shtml>
+11.
+12. <http://technet.microsoft.com/library/hh831833.aspx>
+13.
+14. <http://www.easyuefi.com/wintousb/index-cn.html>

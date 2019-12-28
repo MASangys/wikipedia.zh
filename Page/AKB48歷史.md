@@ -98,7 +98,7 @@
 
   - 1月1日，首張專輯《[SET LIST～Greatest Songs 2006-2007～](../Page/SET_LIST～Greatest_Songs_2006-2007～.md "wikilink")》發售。
   - 1月21-24日，於[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")舉行《[AKB48 重温时间 最佳曲目100](../Page/AKB48_重温时间_最佳曲目100.md "wikilink")》演唱會，此後「[重溫時間 最佳曲目100](https://zh.wikipedia.org/wiki/AKB48公演列表#重温时间_最佳曲目100 "wikilink")」歌曲票選排行榜成為AKB48及其姊妹團體每年定例舉行的活動之一。
-  - 1月24日，AKB48首個冠名節目《[AKB1時59分\!](https://zh.wikipedia.org/wiki/AKB1時59分! "wikilink")》開始播出。此後《[AKB1時59分\!](https://zh.wikipedia.org/wiki/AKB1時59分! "wikilink")》改版爲《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》，繼續播出至今。
+  - 1月24日，AKB48首個冠名節目《[AKB1時59分\!](https://zh.wikipedia.org/wiki/AKB1時59分! "wikilink")》開始在[日本電視台](../Page/日本電視台.md "wikilink")播出，後來改版為《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》，成為AKB48招牌的冠名節目。
   - 2月，第8張單曲《[櫻花的花瓣們2008](https://zh.wikipedia.org/wiki/櫻花的花瓣們2008 "wikilink")》的銷售方式發生糾紛，被指違反[反托拉斯法](https://zh.wikipedia.org/wiki/反托拉斯法 "wikilink")。DefSTAR Records與AKB48方面的合約宣告解除，導致單曲《[Baby\! Baby\! Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")》不能公開以唱片型式銷售，只能改以網絡付費下載方式發行。
   - 10月22日，與[國王唱片](../Page/國王唱片.md "wikilink")簽約後首次發行單曲《[大聲鑽石](https://zh.wikipedia.org/wiki/大聲鑽石 "wikilink")》。
 
@@ -439,7 +439,7 @@
   - 7月 - 8月，在[福冈县](../Page/福冈县.md "wikilink")的[福冈巨蛋](https://zh.wikipedia.org/wiki/福冈巨蛋 "wikilink")、[北海道](../Page/北海道.md "wikilink")的[札幌巨蛋](../Page/札幌巨蛋.md "wikilink")、[大阪府的](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")、[爱知县的](https://zh.wikipedia.org/wiki/爱知县 "wikilink")[名古屋巨蛋](../Page/名古屋巨蛋.md "wikilink")及东京巨蛋举行了名为“AKB48 2013盛夏的巨蛋巡回〜还有许多 不得不做的事情〜”（）的巨蛋巡回演唱会。其中於7月21日的福岡雅虎巨蛋演唱會中，即將從AKB48畢業的[篠田麻里子](../Page/篠田麻里子.md "wikilink")指名[橫山由依](../Page/橫山由依.md "wikilink")繼任為Team A新任隊長\[90\]。
   - 8月8日，在上述巡演的大阪场公演中宣布将于11月10日在举行“AKB48集團选秀会议”（）\[91\]。
   - 8月21日，第32張單曲《[戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")》（）發行。
-  - 8月24日，当日新升格的16名研究生重新组成了曾一度废止的Team 4。队长一职由峯岸南担任。湯浅洋也正式升格为AKB48劇場經理\[92\]\[93\]。
+  - 8月24日，当日新升格的16名研究生重新组成了曾一度废止的Team 4。队长一职由[峯岸南](../Page/峯岸南.md "wikilink")担任。湯浅洋也正式升格为AKB48劇場經理\[92\]\[93\]。
   - 9月12日，《[AKB 1/149 恋爱总选举](https://zh.wikipedia.org/wiki/AKB_1/149_恋爱总选举 "wikilink")》的[PlayStation 3版本发行](../Page/PlayStation_3.md "wikilink")。
   - 9月18日，[AKB48第34張單曲選拔猜拳大會](../Page/AKB48第34張單曲選拔猜拳大會.md "wikilink")在日本武道館舉行，最终松井珠理奈取得了第一名。
   - 10月5日，在[NHK的冠名電視節目](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")《[AKB48 SHOW\!](../Page/AKB48_SHOW!.md "wikilink")》開始播出。
@@ -470,7 +470,7 @@
   - 8月27日，第37張單曲《[心之告示牌](https://zh.wikipedia.org/wiki/心之告示牌 "wikilink")》（）發行。
   - 9月17日，於日本武道館舉行「[AKB48 Group 猜拳大會2014](https://zh.wikipedia.org/wiki/AKB48_Group_猜拳大會2014 "wikilink")」，本次活動由[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")獲得冠軍並獲得發行個人solo單曲出道的機會\[120\]，隨後在此活動將結束時的驚喜發表中，披露AKB48第38張單曲的選拔成員名單，本次選拔組名單共有32位成員入選，創下AKB48秋季單曲選拔組入選人數最多的紀錄，而單曲Center將由渡邊麻友與[宮脇咲良](../Page/宮脇咲良.md "wikilink")共同擔任\[121\]。
   - 10月27日，披露與求職網站合作的「」企劃所招募的打工成員，而過去已從AKB48畢業的4期生[佐伯美香](../Page/佐伯美香.md "wikilink")也名列其中\[122\]。
-  - 11月26日，第38張單曲《[希望無限](../Page/希望無限.md "wikilink")》（）發行，此外NHK也於同日發表了AKB48將作為紅組的一員連續六年第七次出演[第65回NHK紅白歌合戰](../Page/第65回NHK紅白歌合戰.md "wikilink")，本次除AKB48入圍外，姐妹團SKE48、NMB48與HKT48皆入選其中，是AKB48集團首次全團皆獲邀登上紅白歌合戰的舞台\[123\]。
+  - 11月26日，第38張單曲《[希望無限](../Page/希望無限.md "wikilink")》（）發行，此外NHK也於同日發表了AKB48將作為紅組的一員連續六年第七次出演[第65回NHK紅白歌合戰](../Page/第65回NHK紅白歌合戰.md "wikilink")，本次AKB48、SKE48、NMB48、HKT48皆入選其中，是AKB48集團首次旗下團體皆獲邀登上紅白歌合戰的舞台\[123\]。
   - 12月2日，日本公信榜公布AKB48第38張單曲首周獲得約113萬張銷量後，單曲累積總銷量達到了3111.1萬張，成為首位突破3千萬銷售大關的女性歌手，此外AKB48僅用了8年10個月便達到此銷售成績也是史上最快\[124\]。
   - 12月16日，於東京巨蛋城表演廳舉辦「[第4屆AKB48紅白對抗歌合戰](../Page/第4屆AKB48紅白對抗歌合戰.md "wikilink")」\[125\]\[126\]。
   - 12月31日，參加[第65回NHK紅白歌合戰](../Page/第65回NHK紅白歌合戰.md "wikilink")。
@@ -498,8 +498,8 @@
 
 ## 2016年
 
-  - 1月16-18日於東京巨蛋城表演廳舉行了《AKB48单独 重溫時間 最佳曲目 100 2016》演唱會。
-  - 1月22-24日於東京巨蛋城表演廳舉行了《AKB48集團 重溫時間 最佳曲目 100 2016》演唱會。
+  - 1月16-18日，於東京巨蛋城表演廳舉行了《AKB48單獨 重溫時間 最佳曲目 100 2016》演唱會。
+  - 1月22-24日，於東京巨蛋城表演廳舉行了《AKB48集團 重溫時間 最佳曲目 100 2016》演唱會。
   - 3月9日，發行第43張單曲《[你就是旋律](../Page/你就是旋律.md "wikilink")》。
   - 3月26日，於[橫濱球場](../Page/橫濱球場.md "wikilink")舉行的《AKB48 祝 高橋南畢業「148.5cm看到的夢想」 in 橫濱球場》演唱會上，公布將啟動海外姊妹團台北[TPE48](https://zh.wikipedia.org/wiki/TPE48 "wikilink")、馬尼拉[MNL48及曼谷](https://zh.wikipedia.org/wiki/MNL48 "wikilink")[BNK48](../Page/BNK48.md "wikilink")的計畫\[148\]\[149\]。
   - 6月1日，發行第44張單曲《[不需要翅膀](../Page/不需要翅膀.md "wikilink")》。
@@ -543,20 +543,27 @@
 ## 2019年
 
   - 1月8日，NGT48成員[山口真帆](../Page/山口真帆.md "wikilink")於深夜在個人SHOWROOM直播上公開去年12月初[在自宅玄關處被兩名男子襲擊的事件](https://zh.wikipedia.org/wiki/NGT48#暴行被害骚动 "wikilink")；然而營運方對此事件的後續處理不周，引發日本輿論譁然。NGT48劇場經理今村悅朗於同年1月14日被營運方撤換，山口個人則於同年5月19日畢業。
+  - 1月11日，於東京舉行「[AKB48集團歌唱力No.1決定戰](https://zh.wikipedia.org/wiki/AKB48集團歌唱力No.1決定戰 "wikilink")」（）決勝大會，並由[TBS電視台](../Page/TBS電視台.md "wikilink")的現場轉播。該活動旨在獎勵AKB48集團內具備歌唱實力的成員，自2018年末開始舉行預選（預賽），選出21人進入決勝大會（決賽），優勝者能擁有個人專屬、由總製作人秋元康譜曲的獨唱曲。優勝最終由SKE48成員拿下\[168\]。
   - 1月18-19日，於東京巨蛋城表演廳舉行《AKB48集團 重溫時間 最佳曲目100 2019》演唱會，AKB48 Team 8以《[去47個美麗城市](https://zh.wikipedia.org/wiki/去47個美麗城市 "wikilink")》獲得「[重溫時間 最佳曲目100](https://zh.wikipedia.org/wiki/AKB48公演列表#重温时间_最佳曲目100 "wikilink")」的第一名，也是該曲在此活動連續3年獲選前三後首次奪冠。
-  - 1月27日，AKB48與AKB48集團海外6團共同於[曼谷](../Page/曼谷.md "wikilink")近郊的舉行「AKB48 Group Asia Festival 2019 in BANGKOK」\[168\]。
-  - 3月7日，AKB48劇場經理細井孝宏被撤換，疑因與前NGT48劇場經理今村悅朗同桌共飲的照片被傳上網路有關。該職務則暫時懸缺。
-  - 3月13日，發行第55張單曲《[回憶上心頭DAYS](../Page/回憶上心頭DAYS.md "wikilink")》。亦在同日，AKB48營運方宣布該年度的選拔總選舉停辦\[169\]\[170\]\[171\]。
+  - 1月27日，AKB48與AKB48集團海外6團共同於[曼谷](../Page/曼谷.md "wikilink")近郊的舉行「AKB48 Group Asia Festival 2019 in BANGKOK」\[169\]。
+  - 3月7日，AKB48劇場經理細井孝宏被撤換，疑因與前NGT48劇場經理今村悅朗同桌共飲的照片傳上網路有關；該職務則暫時懸缺\[170\]。
+  - 3月13日，發行第55張單曲《[回憶上心頭DAYS](../Page/回憶上心頭DAYS.md "wikilink")》。亦在同日，AKB48營運方宣布該年度的選拔總選舉停辦\[171\]\[172\]\[173\]。
   - 3月24日，《AKB48 SHOW\!》結束播出。
   - 3月27日，《AKB48的All Night Nippon》結束播出。
-  - 4月1日，向井地美音正式接替橫山由依，成為第3任AKB48集團總監督\[172\]\[173\]。
-  - 4月7日，《AKB48的All Night Nippon》的後繼節目《》開始在日本放送播出。
+  - 4月1日，向井地美音正式接替橫山由依，成為第3任AKB48集團總監督\[174\]\[175\]。
+  - 4月7日，《AKB48的All Night Nippon》的後繼節目《》開始於每週日深夜在日本放送播出。
   - 4月28日，於橫濱球場舉行「指原莉乃畢業演唱會～再見了，指原莉乃～」。
   - 5月2日，即將畢業的Team B隊長[高橋朱里](../Page/高橋朱里.md "wikilink")，於畢業公演上指名岩立沙穗接任隊長職務。
-  - 6月14日，宣布將自同年7月7日至10月22日，舉辦睽違4年、為期10天共20場的全國巡演\[174\]\[175\]\[176\]。
-  - 6月30日，劇場公演新劇目「我的夏天開始了」（）進行初日公演\[177\]。
-  - 8月24日，AKB48與AKB48集團海外6團共同於[上海](https://zh.wikipedia.org/wiki/上海市 "wikilink")[國家會展中心舉行](../Page/國家會展中心_\(上海\).md "wikilink")「AKB48 Group Asia Festival 2019 in SHANGHAI」\[178\]。
+  - 6月14日，宣布將自同年7月7日至10月22日，舉辦睽違4年、為期10天共20場的日本全國巡迴演唱會「AKB48全國巡演2019～完全享受AKB！～」（）\[176\]\[177\]\[178\]。
+  - 6月30日，劇場公演新劇目「我的夏天開始了」（）進行初日公演\[179\]。
+  - 8月24日，AKB48與AKB48集團海外6團共同於[上海](https://zh.wikipedia.org/wiki/上海市 "wikilink")[國家會展中心舉行](../Page/國家會展中心_\(上海\).md "wikilink")「AKB48 Group Asia Festival 2019 in SHANGHAI」\[180\]。
   - 9月18日，發行第56張單曲《[持續愛你](../Page/持續愛你.md "wikilink")》。
+  - 9月25日，播出時間長達11年的《AKBINGO\!》結束播出。至此AKB48在[日本六大電視網](../Page/日本電視廣播.md "wikilink")（包括[核心局](../Page/核心局.md "wikilink")及NHK）的电视节目全数终止，[無線電視平臺的冠名節目也僅剩Team](../Page/地面電視.md "wikilink") 8的《》。
+  - 10月19日，於[臺北小巨蛋舉行](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")「AKB48 in Taipei 2019 \~Are You Ready For It?\~」演唱會，首次在海外舉辦團體的單獨演唱會（）。
+  - 10月31日，於東京TBS赤坂ACT劇場舉行「[第2屆AKB48集團歌唱力No.1決定戰](https://zh.wikipedia.org/wiki/AKB48集團歌唱力No.1決定戰 "wikilink")」（）決勝大會，並由TBS電視台的CS衛星1台現場轉播；與上屆相同，優勝者能擁有個人專屬的獨唱曲。優勝最終由決賽日4天前宣布畢業的AKB48成員[矢作萌夏](../Page/矢作萌夏.md "wikilink")拿下\[181\]。
+  - 11月9-24日，AKB48集團日本國內6團共同於[福岡市](../Page/福岡市.md "wikilink")的舉行「AKB48集團特別公演」，該公演由兩個劇目構成，上半場為日本經典電影《[無仁義之戰](../Page/無仁義之戰.md "wikilink")》改編搬上舞台的「無仁義之戰～她們（女人們）的殊死戰鬥篇～」（），下半場則為福岡當地舞台秀劇團「劇團餡蜜姬」（）企劃製作的「餡蜜姬製作　Review48」（）\[182\]。
+  - 12月8日，舉行AKB48劇場14周年特別紀念公演。在該場公演結束前，身為團內唯一現役1期生的峯岸南宣布了畢業的消息\[183\]。
+  - 12月31日，預定參加[第70回NHK紅白歌合戰](../Page/第70回NHK紅白歌合戰.md "wikilink")。
 
 ## 註釋與參考文獻
 
@@ -576,30 +583,21 @@
 [Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:音樂史](https://zh.wikipedia.org/wiki/Category:音樂史 "wikilink")
 
 1.  《AKBINGO\!》播出日期：2010年7月7日
-
 2.
-
 3.
 4.
 5.
-
 6.
 7.
-
 8.
-
 9.
 10.
-
 11.
 12. 《AKBINGO\!》播出日期：2010年7月14日
-
 13.
-
 14.
 15.
 16. 參考「想見你」初回生産限定盤付属DVD『』。
-
 17.
 18.
 19.
@@ -609,307 +607,161 @@
 23.
 24.
 25.
-
 26.
-
 27.
-
 28.
-
 29. 上一次突破30萬張為[宇多田光](../Page/宇多田光.md "wikilink")的《[COLORS](https://zh.wikipedia.org/wiki/COLORS_\(單曲\) "wikilink")》，於2003年1月29日發行，首周銷量43.8萬張。
-
 30. 2002年3月發行，首週銷量32.6萬張。
-
 31.
-
 32. 上一張女子組合銷售50萬張唱片的紀錄是由[早安少女組。](../Page/早安少女組。.md "wikilink")於2000年12月25日的發行的《戀愛revolution 21》。
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47. 由于更換簽約唱片公司的原因，發行該專輯的唱片公司[King Records官方將此張專輯作爲第三張正式專輯](https://zh.wikipedia.org/wiki/King_Records "wikilink")，但實際是AKB48的第四張專輯。
-
 48.
-
 49.
-
 50.
 51.
-
 52. 日本國內女性組合上次突破50萬張爲2002年5月20日[早安少女組。](../Page/早安少女組。.md "wikilink")的第四張專輯《[4th「一起走吧\!」](../Page/4th「一起走吧!」.md "wikilink")》（51.5萬張）。
-
 53. 女性組合上次突破50萬張的專輯爲2006年1月23日[天命真女](../Page/天命真女.md "wikilink")的《絕對完美精選+新曲》（59.2萬張）。
-
 54.
-
 55.
-
 56.
 57.
-
 58.
-
 59.
-
 60.
-
 61. 上次刷新是15年前（1996年2月）[Mr.Children](../Page/Mr.Children.md "wikilink")發售的《[無名的詩](../Page/無名的詩.md "wikilink")》（120.8萬張）。
-
 62. 上次刷新記錄的是[Pink Lady在](https://zh.wikipedia.org/wiki/Pink_Lady "wikilink")1978年10月2日發行的《透明人間》。
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
-
 77.
-
 78.
-
 79.
-
 80.
-
 81. 日本音樂史上不分個人或團體的女性藝人銷售記錄保持者是[濱崎步](../Page/濱崎步.md "wikilink")，唱片總銷售量超過5,000萬張。
-
 82.
-
 83. 《Team 4 1st stage「我的太阳」》於1月22日發售。
-
 84.
-
 85.
-
 86.
-
 87.
-
 88.
-
 89. 230萬張為出貨數量，並不等於實際銷售數字。在《再見自由式》之前，原本的發行量紀錄是2012年5月時的《仲夏的Sounds good\!》，共發行200萬張。
-
 90.
-
 91.
-
 92.
-
 93.
-
 94.
-
 95.
-
 96.
-
 97.
-
 98.
-
 99.
-
 100.
-
 101.
-
 102.
-
 103.
-
 104.
-
 105.
-
 106.
-
 107.
-
 108.
-
 109.
-
 110.
-
 111.
-
 112.
-
 113.
-
 114.
-
 115.
-
 116.
-
 117. 此處所指的女性藝人包括本土和外國個人女歌手、女子樂團和團體，其他詳細資料可參閱維基條目「[東京巨蛋演唱會紀錄](../Page/東京巨蛋演唱會紀錄.md "wikilink")。」
-
 118.
-
 119.
-
 120.
-
 121.
-
 122.
-
 123.
-
 124.
-
 125.
-
 126.
-
 127.
-
 128. 前六個姊妹團分別是SKE48、SDN48、NMB48、HKT48、JKT48與SNH48。
-
 129.
-
 130.
-
 131.
-
 132.
-
 133.
-
 134.
-
 135.
-
 136.
-
 137.
-
 138.
-
 139.
-
 140.
-
 141.
-
 142.
-
 143.
-
 144.
-
 145.
-
 146.
-
 147.
-
 148.
-
 149.
-
 150.
-
 151.
-
 152.
-
 153. 七縣分別是[山口縣](https://zh.wikipedia.org/wiki/山口縣 "wikilink")、[廣島縣](../Page/廣島縣.md "wikilink")、[岡山縣](../Page/岡山縣.md "wikilink")、[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")、[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")、[香川縣與](https://zh.wikipedia.org/wiki/香川縣 "wikilink")[德島縣](https://zh.wikipedia.org/wiki/德島縣 "wikilink")。
-
 154.
-
 155.
-
 156.
-
 157.
-
 158.
-
 159.
-
 160.
-
 161.
-
 162.
-
 163.
-
 164.
-
 165.
-
 166.
-
 167.
-
-168. [AKB48 Group Asia Festival 2019 in BANGKOK Presented by SHANDA GAMES](https://www.akb48asiafes.com/bangkok/index.html)
-
-169.
-
+168.
+169. [AKB48 Group Asia Festival 2019 in BANGKOK Presented by SHANDA GAMES](https://www.akb48asiafes.com/bangkok/index.html)
 170.
-
 171.
-
 172.
-
 173.
-
 174.
-
 175.
-
 176.
-
 177.
-
-178. [AKB48 Group Asia Festival 2019 in SHANGHAI](https://www.akb48asiafes.com)
+178.
+179.
+180. [AKB48 Group Asia Festival 2019 in SHANGHAI](https://www.akb48asiafes.com)
+181.
+182. [](https://www.hakataza.co.jp/lineup/201911/akb48/index.php)
+183.

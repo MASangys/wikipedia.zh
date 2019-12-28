@@ -48,6 +48,16 @@ Lightning接頭內建認證晶片，會與充電的裝置認證，因此若使�
   - [iPod touch 7](https://zh.wikipedia.org/wiki/iPod_touch_7 "wikilink")
   - [iPod Nano (第七代)](https://zh.wikipedia.org/wiki/iPod_Nano "wikilink")
 
+**配件**
+
+Magic Mouse 2
+
+Magic Keyboard 2
+
+Apple TV HD遙控器
+
+Apple TV 4K 遙控器
+
 ## 採用 Lightning 接頭的周邊設備
 
 [Apple_-_Lightning_to_3.5_mm_Headphone_Jack_Adapter.jpg](https://zh.wikipedia.org/wiki/File:Apple_-_Lightning_to_3.5_mm_Headphone_Jack_Adapter.jpg "fig:Apple_-_Lightning_to_3.5_mm_Headphone_Jack_Adapter.jpg")

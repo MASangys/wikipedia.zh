@@ -122,12 +122,12 @@
 
 ## 7月
 
-| 集數 | J2首播日期 | 巨聲幫成員/表演團體                                                                                              | 嘉賓                                                                                              |
-| -- | ------ | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 80 | 7月6日   | **[Ever](../Page/Ever.md "wikilink")、[goldEN](https://zh.wikipedia.org/wiki/goldEN_\(組合\) "wikilink")** | **[區新明](https://zh.wikipedia.org/wiki/區新明 "wikilink")** |- style="background-color: \#FFFFFF" | |
-| 81 | 7月13日  | **[Kolor](../Page/Kolor.md "wikilink")**                                                                | \- |- style="background-color: \#FFFFFF" |                                                      |
-| 82 | 7月20日  | **[G.E.M.](https://zh.wikipedia.org/wiki/G.E.M. "wikilink")**                                           | **[馮允謙](../Page/馮允謙.md "wikilink")** |- style="background-color: \#FFFFFF" |                    |
-|    |        |                                                                                                         |                                                                                                 |
+| 集數 | J2首播日期 | 巨聲幫成員/表演團體                                                                                              | 嘉賓                                                                           |
+| -- | ------ | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 80 | 7月6日   | **[Ever](../Page/Ever.md "wikilink")、[goldEN](https://zh.wikipedia.org/wiki/goldEN_\(組合\) "wikilink")** | **[區新明](../Page/區新明.md "wikilink")** |- style="background-color: \#FFFFFF" | |
+| 81 | 7月13日  | **[Kolor](../Page/Kolor.md "wikilink")**                                                                | \- |- style="background-color: \#FFFFFF" |                                   |
+| 82 | 7月20日  | **[G.E.M.](https://zh.wikipedia.org/wiki/G.E.M. "wikilink")**                                           | **[馮允謙](../Page/馮允謙.md "wikilink")** |- style="background-color: \#FFFFFF" | |
+|    |        |                                                                                                         |                                                                              |
 
 ## 8月
 

@@ -12,7 +12,5 @@
 [Category:数码单反相机](https://zh.wikipedia.org/wiki/Category:数码单反相机 "wikilink") [Category:佳能相機](https://zh.wikipedia.org/wiki/Category:佳能相機 "wikilink") [Category:2012年面世的相機](https://zh.wikipedia.org/wiki/Category:2012年面世的相機 "wikilink")
 
 1.
-
 2.
-
 3.

@@ -105,100 +105,58 @@ GG1型被印製在1999年發行的《二十世紀美國火車》紀念郵票集�
 [Category:美國電力機車](https://zh.wikipedia.org/wiki/Category:美國電力機車 "wikilink") [Category:11千伏25赫茲交流電力機車](https://zh.wikipedia.org/wiki/Category:11千伏25赫茲交流電力機車 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
 9.
 10.
 11. "$15,000,000 order"
-
 12.
-
 13.
 14.
-
 15.
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27. Burks 1980
-
 28.
-
 29.
 30.
-
 31.
-
 32. Palmateer 2008
-
 33.
 34. "Accident at Union Station", p. 6.
-
 35.
-
 36. "Accident at Union Station", p. 5.
-
 37.
 38.
 39. "Accident at Union Station", p. 13.
-
 40. "Accident at Union Station, p. 14.
-
 41.
-
 42.
-
 43.
-
 44.
 45.
-
 46.
-
 47. *Broadway Limited*, 60:07, 60:09
-
 48. *The Clock*, 01:14.
-
 49. *Blast of Silence*, 01:30.
-
 50. *The Manchurian Candidate*, 41:56.
-
 51. *Avalon*, 66:37.
-
 52. *The Seven-Ups*, 93:33, 96:36.
-
 53. *The Last Detail*, 40:32.
-
 54. FDR's Funeral Train by Robert Klara
-
 55.
 56. "All Aboard\!"

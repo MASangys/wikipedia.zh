@@ -44,7 +44,7 @@ TPG-1具有三個可調節處。第一個是槍托脊部上帶有（高度調整
 
 ### 擊發機構
 
-TPG-1採用了標準型運動步槍式扳機，[扳機扣力可在](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")6—11 [牛頓](../Page/牛頓_\(單位\).md "wikilink")（1.35—2.47 [磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")）之間完全可調節。扳機就在寬大的[扳機護圈內](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，冬天戴著厚手套也能操作自如。
+TPG-1採用了標準型運動步槍式扳機，[扳機扣力可在](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")6—11[牛頓](../Page/牛頓_\(單位\).md "wikilink")（1.35—2.47[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")）之間完全可調節。扳機就在寬大的[扳機護環以內](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，冬天戴著厚手套也能操作自如。
 
 ### 保險系統
 

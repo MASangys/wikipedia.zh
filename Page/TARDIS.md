@@ -19,28 +19,16 @@ TARDIS是[時間領主們使用高科技的一個產物](https://zh.wikipedia.or
 [Category:異世奇人](https://zh.wikipedia.org/wiki/Category:異世奇人 "wikilink") [Category:字首縮寫](https://zh.wikipedia.org/wiki/Category:字首縮寫 "wikilink") [Category:虛構交通工具](https://zh.wikipedia.org/wiki/Category:虛構交通工具 "wikilink") [Category:時間旅行](https://zh.wikipedia.org/wiki/Category:時間旅行 "wikilink") [Category:航天器](https://zh.wikipedia.org/wiki/Category:航天器 "wikilink")
 
 1.
-
 2.   [Cuttingsarchive.org.uk](http://www.cuttingsarchive.org.uk/index.htm)
-
 3.  [BBC Doctor Who The TARDIS](http://www.bbc.co.uk/programmes/b006q2x0/profiles/tardis)
-
 4.
-
 5.
-
 6.  [Telepathic Induction Circuits](http://www.whoniverse.net/tardis/telepathiccircuits.php)
-
 7.  *[The Deadly Assassin](https://zh.wikipedia.org/wiki/The_Deadly_Assassin "wikilink")* (1976)
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
-
 14.

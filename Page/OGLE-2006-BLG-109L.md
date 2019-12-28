@@ -28,6 +28,5 @@
 [Category:紅矮星](https://zh.wikipedia.org/wiki/Category:紅矮星 "wikilink") [Category:行星系](https://zh.wikipedia.org/wiki/Category:行星系 "wikilink") [Category:人馬座](https://zh.wikipedia.org/wiki/Category:人馬座 "wikilink") [Category:重力透鏡](https://zh.wikipedia.org/wiki/Category:重力透鏡 "wikilink")
 
 1.
-
 2.
 3.

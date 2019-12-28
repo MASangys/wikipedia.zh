@@ -1,12 +1,10 @@
-《**ZETMAN**》是日本漫畫家[桂正和](../Page/桂正和.md "wikilink")的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。於《[週刊YOUNG JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）2002年48號起開始連載。從2006年6月起經過約1年的長期休載後於2007年26號恢復連載；2014年34号第一幕完结。
+《**ZETMAN**》是日本漫畫家[桂正和](../Page/桂正和.md "wikilink")創作的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於《[週刊YOUNG JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）2002年48號起開始連載。從2006年6月經過約1年的長期休載後於2007年26號恢復連載；2014年34号第一幕完结。
 
 2012年4月起開始播放[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
-## 概要
+## 劇情簡介
 
-## 故事
-
-## 主要出場人物
+## 登場人物
 
 ### 神崎人的家族
 
@@ -52,9 +50,163 @@
   - Player
     起初是作為競技場的比賽用工具，讓富人投注，以籌集N・E・T項目的資金。但在一次競場中集體逃逸。「Player」的特點是以人類的3倍速度成長，平時偽裝成人類的模樣，可以隨意更變怪物的形態。導致神崎 悟郎死亡的兇手。
 
-## 小說
+## 出版書籍
 
-## 短篇版漫畫
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p><a href="../Page/集英社.md" title="wikilink">集英社</a></p></th>
+<th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2003年11月19日</p></td>
+<td><p>ISBN 4-08-876529-X</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>ISBN 4-08-876530-3</p></td>
+<td><p>2004年12月10日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2004年5月19日</p></td>
+<td><p>ISBN 4-08-876610-5</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2004年12月17日</p></td>
+<td><p>ISBN 4-08-876720-9</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2005年6月17日</p></td>
+<td><p>ISBN 4-08-876808-6</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2005年12月19日</p></td>
+<td><p>ISBN 4-08-876893-0</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2006年7月19日</p></td>
+<td><p>ISBN 4-08-877114-1</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2007年10月19日</p></td>
+<td><p>ISBN 978-4-08-877340-7</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>2008年4月18日</p></td>
+<td><p>ISBN 978-4-08-877416-9</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>2008年8月19日</p></td>
+<td><p>ISBN 978-4-08-877493-0</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>2008年12月19日</p></td>
+<td><p>ISBN 978-4-08-877565-4</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>2009年5月19日</p></td>
+<td><p>ISBN 978-4-08-877637-8</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>2009年10月19日</p></td>
+<td><p>ISBN 978-4-08-877718-4</p></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>2010年4月19日</p></td>
+<td><p>ISBN 978-4-08-877803-7</p></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>2010年12月17日</p></td>
+<td><p>ISBN 978-4-08-879080-0</p></td>
+</tr>
+<tr class="odd">
+<td><p>16</p></td>
+<td><p>2011年10月19日</p></td>
+<td><p>ISBN 978-4-08-879186-9</p></td>
+</tr>
+<tr class="even">
+<td><p>17</p></td>
+<td><p>2012年3月29日</p></td>
+<td><p>ISBN 978-4-08-879292-7</p></td>
+</tr>
+<tr class="odd">
+<td><p>18</p></td>
+<td><p>2012年11月19日</p></td>
+<td><p>ISBN 978-4-08-879436-5</p></td>
+</tr>
+<tr class="even">
+<td><p>19</p></td>
+<td><p>2013年12月19日</p></td>
+<td><p>ISBN 978-4-08-879810-3</p></td>
+</tr>
+<tr class="odd">
+<td><p>20</p></td>
+<td><p>2014年10月17日</p></td>
+<td><p>ISBN 978-4-08-890025-4</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 小說
+
+<!-- end list -->
+
+  - ALPHAS ZETMAN ANOTHER STORY（Jump j Books）
+
+<!-- end list -->
+
+  -
+    原作、插畫：桂正和 / 著者：古橋秀之
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>集英社</p></th>
+<th><p>東立出版社</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>全</p></td>
+<td><p>2012年3月29日</p></td>
+<td><p>ISBN 978-4-08-703260-4</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 總集篇
+
+<!-- end list -->
+
+  - ZETMAN 総集編：2012年4月3日發售、ISBN 978-4-08-111046-9
 
 ## 電視動畫
 
@@ -236,11 +388,17 @@
 </tbody>
 </table>
 
-## 網路電台
+## 網路廣播
 
-## 書籍資訊
+《**ZET NIGHT RADIO**》2012年4月到6月於[超\!A\&G+與](https://zh.wikipedia.org/wiki/超!A&G+ "wikilink")[HiBiKi Radio Station放送的廣播劇節目](https://zh.wikipedia.org/wiki/HiBiKi_Radio_Station "wikilink")\[3\]\[4\]。
 
-## 註解
+  - 主持人
+
+<!-- end list -->
+
+  - [浪川大輔](../Page/浪川大輔.md "wikilink")（神崎人）、[宮野真守](../Page/宮野真守.md "wikilink")（天城高雅）
+
+## 註釋
 
 ## 外部連結
 
@@ -257,3 +415,5 @@
 
 1.
 2.
+3.
+4.

@@ -156,43 +156,26 @@ position</p></th>
 [Category:1987年單曲](https://zh.wikipedia.org/wiki/Category:1987年單曲 "wikilink") [Category:1988年單曲](https://zh.wikipedia.org/wiki/Category:1988年單曲 "wikilink") [Category:莎布琳娜·沙勒亞諾歌曲](https://zh.wikipedia.org/wiki/Category:莎布琳娜·沙勒亞諾歌曲 "wikilink") [Category:Hi-NRG歌曲](https://zh.wikipedia.org/wiki/Category:Hi-NRG歌曲 "wikilink")
 
 1.  "La Discothèque du 20è siècle", 1988, Polygram Dierct, p. 15
-
 2.  *Nos années Top, clips et 45 tours : 1984–1991*, Marc Lemonier, 2008, p. 75 (ISBN 2-258-07648-X)
-
 3.  Sabrina's biography [MCM.net](http://www.mcm.net/musique/ficheartiste/4673/)  (Retrieved December 12, 2007)
-
 4.  Elia Habib, *Muz hit. tubes*, 2002, p. 123 (ISBN 2-9518832-0-X)
-
 5.  Alex P. King, *Hit-parade, 20 ans de tubes*, 2005, Pascal Ed., p. 9 (ISBN 978-2-35019-009-9) [Vingt ans de tubes](http://membres.lycos.fr/vingtansdetubes/HistoireHitparade.pdf) (Retrieved April 23, 2008)
-
 6.  Best selling-singles of all times in France [Infodisc.fr](http://www.infodisc.fr/S_ToutTemps.php?debut=250)  (Retrieved December 12, 2007)
-
 7.  <http://www.discogs.com/Sabrina-Boys-Boys-Boys-Remixes/release/1119541>
-
 8.  "Boys (Summertime Love)", in various singles charts [Lescharts.com](http://lescharts.com/showitem.asp?interpret=Sabrina&titel=Boys&cat=s) (Retrieved December 9, 2007)
-
 9.
 10.
 11.
 12. Irish Singles Chart [Irishcharts.ie](http://www.irishcharts.ie/search/placement) (Retrieved January 17, 2008)
-
 13. Italian Single Chart [Hit parade Italia](http://www.hitparadeitalia.it/hp_yends/hpe1987.htm) (Retrieved May 30, 2008)
-
 14.
 15.
 16.
 17. "Boys (Summertime Love)", UK Singles Chart [Chartstats.com](https://web.archive.org/web/20090802014524/http://www.chartstats.com/songinfo.php?id=15058) (Retrieved July 14, 2009)
-
 18.
-
 19. 1987 Swiss Singles Chart [Hitparade.ch](http://hitparade.ch/year.asp?key=1987) (Retrieved April 20, 2008)
-
 20. 1988 Australian Singles Chart [aria.com](http://www.aria.com.au/pages/aria-charts-end-of-year-charts-top-50-singles-1988.htm) (Retrieved April 20, 2008)
-
 21. Sales and certifications for singles in France, database [Infodisc.fr](http://www.infodisc.fr/Single_Certif.php) (Retrieved December 9, 2007)
-
 22. ["Gold-/Platin-Datenbank (Sabrina; 'Boy's')"](http://www.musikindustrie.de/gold_platin_datenbank/?action=suche&strTitel=Boy%27s&strInterpret=Sabrina&strTtArt=alle&strAwards=checked) (in German). [Bundesverband Musikindustrie](http://en.wikipedia.org/wiki/Bundesverband_Musikindustrie). Retrieved April 20, 2008.
-
 23.
-
 24.

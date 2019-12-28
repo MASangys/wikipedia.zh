@@ -21,25 +21,16 @@
 [Category:半人马座](https://zh.wikipedia.org/wiki/Category:半人马座 "wikilink") [Category:徑向速度法發現的系外行星](https://zh.wikipedia.org/wiki/Category:徑向速度法發現的系外行星 "wikilink") [Category:2012年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2012年发现的系外行星 "wikilink") [Category:類地行星](https://zh.wikipedia.org/wiki/Category:類地行星 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.  Age discussion on page 1284
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
 14.

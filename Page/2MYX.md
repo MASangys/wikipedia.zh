@@ -39,7 +39,7 @@
 > —《2MYX》歌詞摘錄
 
   -
-    <small>中譯歌名為[Mnet](../Page/Mnet.md "wikilink")-[2MYX](http://global.mnet.com/album/album.m?searchAlbumVO.album_id=272744)提供。</small>
+    <small>中譯歌名為[Mnet](../Page/Mnet.md "wikilink")-[2MYX](https://web.archive.org/web/20121120082035/http://global.mnet.com/album/album.m?searchAlbumVO.album_id=272744)提供。</small>
 
 <!-- end list -->
 

@@ -384,7 +384,7 @@
 ## 外部連結
 
   - [韓國MBC](http://www.imbc.com/broad/tv/drama/mayqueen/)
-  - [臺灣東森](http://blog.ebc.net.tw/apps/mayqueen/)
+  - [臺灣東森](https://web.archive.org/web/20131217050032/http://blog.ebc.net.tw/apps/mayqueen/)
 
 [Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:收養相關電視節目](https://zh.wikipedia.org/wiki/Category:收養相關電視節目 "wikilink") [Category:蔚山廣域市背景作品](https://zh.wikipedia.org/wiki/Category:蔚山廣域市背景作品 "wikilink") [Category:造船廠背景作品](https://zh.wikipedia.org/wiki/Category:造船廠背景作品 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
 

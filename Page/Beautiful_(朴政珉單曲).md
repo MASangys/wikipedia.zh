@@ -246,40 +246,22 @@ SBS MTV錄影播出</p></td>
 [Category:朴政珉歌曲](https://zh.wikipedia.org/wiki/Category:朴政珉歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13. 數字為統計Hanteo2012年11月16日單日銷售量
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.

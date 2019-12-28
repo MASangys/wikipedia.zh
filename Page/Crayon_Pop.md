@@ -712,57 +712,33 @@
 [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:Crayon_Pop](https://zh.wikipedia.org/wiki/Category:Crayon_Pop "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
 
 1.  [Crayon Pop蜡笔团，参与纪念出道三周年的粉丝见面会，和粉丝们一同留下了美好的回忆](http://chrome-ent.cn/wp/?p=929)
-
 2.  [SONY TAIWAN向Chrome詢問成員漢字正名，Chrome答覆僅以韓文及英文藝名活動](https://www.facebook.com/photo.php?v=10151731093694912)
-
 3.  2014年前為**Gummi**，此為[圖片](http://www.chrome-ent.co.kr/index.php?mid=crayonpop)
-
 4.
-
 5.
-
 6.  [SONY TAIWAN向Chrome詢問成員漢字正名，Chrome答覆僅以韓文及英文藝名活動](https://www.facebook.com/photo.php?v=10151731093694912)
-
 7.
 8.
-
 9.  [關於街頭突擊的定義或形式，請參見官方側錄影片](http://www.youtube.com/watch?v=ki3W2ceBY3g)，資料來源:Crayon Pop官方頻道，2012年10月31日。
-
 10. [](http://www.epochtimes.com/b5/15/3/23/n4394457.htm)、[](http://www.epochtimes.com/gb/15/3/23/n4394457.htm)
-
 11.
 12. <http://www.koreastardaily.com/tc/news/87809>
-
 13. <http://ent.ltn.com.tw/news/breakingnews/2065852>
-
 14. <http://star.ettoday.net/news/923361>
-
 15. <http://hk.on.cc/hk/bkn/cnt/entertainment/20170512/bkn-20170512164014201-0512_00862_001.html>
-
 16. <http://www.koreastardaily.com/tc/news/94427>
-
 17.
 18.
 19.
 20. [參見韓國Crayon Pop官方Youtube頻道](http://www.youtube.com/watch?v=CaTcPBuqspE) 不同於Hurricane Pop時期，《Bing Bing》一曲於Crayon Pop時期有重新拍攝新MV，並遠赴日本取景。官方MV受限版權因素僅對韓國公開發表。另外，當時於日本宣傳時亦有配唱日文版歌詞。
-
 21. [參見韓國Crayon Pop官方Youtube頻道1,2,3,4 (JPN Ver.) 편집영상](http://www.youtube.com/watch?v=b0IzqxNgSpA) 《1,2,3,4》一曲並未正式收錄於專輯或單曲作品內，也尚未發行數位音源或實體唱片，但韓國官方有為這首歌曲剪輯編製MV，並上傳至官方Youtube頻道內。
-
 22. [CRAYON POP、PSYへのオマージュが詰まった「パパパ」グローバルバージョンの見どころは？ kstyle 2013年9月10日](http://news.kstyle.com/article.ksn?articleNo=1977612)
-
 23. [「水果」攜「颶風」 微電影《咖哩校園》杭州開拍](http://ori.hangzhou.com.cn/ornews/content/2012-01/11/content_4033143.htm) 資料來源:杭州網新聞稿
-
 24. [MBC심심타파](http://imbbs.imbc.com/view.mbc?list_id=6207527&page=1&bid=simsim79&sk=title-content&sv=%C5%A9%B7%B9%BF%EB%C6%CB)，資料來源:深深打破官方網站12.08.05節目照片冊。
-
 25. [MBC심심타파](http://imbbs.imbc.com/view.mbc?list_id=6226132&page=1&bid=simsim79&sk=title-content&sv=%C5%A9%B7%B9%BF%EB%C6%CB)，資料來源:深深打破官方網站12.08.18節目照片冊。
-
 26. [MBC심심타파](http://imbbs.imbc.com/view.mbc?list_id=6363744&page=40&bid=simsim79)，資料來源:深深打破官方網站12.11.22節目照片冊。
-
 27. [加值版附贈POPCARD及特製CrayonPop卡通人物版桌曆](http://www.hanteo.com/search/album_info.asp?mcode=800212362)，Crayon Pop首本寫真書，內容記錄2013年赴澳洲活動行程所拍攝之照片。資料來源:韓國HANTEO CHART唱片銷量網站。
-
 28. [Crayon Pop穿韓服送新年祝福湖南衛視元宵晚會唱神曲](http://zixun.hunantv.com/hntv/20140129/1337458706.html)，湖南衛視官方新聞稿。
-
 29.
-
 
 30.
