@@ -16,7 +16,7 @@ Quadro NVS系列的產品線更新較[Quadro FX系列緩慢](../Page/Quadro_FX.m
 
   - [NVIDIA Quadro NVS 專業級繪圖解決方案](http://www.nvidia.com.tw/page/quadronvs.html)
 
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:Quadro系列](https://zh.wikipedia.org/wiki/Category:Quadro系列 "wikilink") [Category:2002年面世的產品](https://zh.wikipedia.org/wiki/Category:2002年面世的產品 "wikilink")
 
 1.  [NVIDIA Quadro4 Family Revolutionizes Workstation Graphics Market](http://www.nvidia.com/object/IO_20020218_9601.html)
 2.  [NVIDIA Introduces NVS Business Graphics Solutions, Delivering Top Visual Fidelity Across up to Eight Displays](http://pressroom.nvidia.com/easyir/customrel.do?easyirid=A0D622CE9F579F09&releasejsp=release_157&prid=692689)

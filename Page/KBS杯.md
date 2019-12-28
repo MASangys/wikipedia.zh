@@ -43,7 +43,7 @@
 
 ## 外部链接
 
-  - [KBS棋王戰歷屆結果-韓國棋院官網](http://www.baduk.or.kr/info/gijun_view.asp?cmpt_tnmt_div=1&cmpt_code=1106)
+  - [KBS棋王戰歷屆結果-韓國棋院官網](https://web.archive.org/web/20180218024117/http://www.baduk.or.kr/info/gijun_view.asp?cmpt_tnmt_div=1&cmpt_code=1106)
   - [韩国KBS棋王战-TOM](http://weiqi.sports.tom.com/zhuantinew/84.html)
 
 [Category:韩国围棋比赛](https://zh.wikipedia.org/wiki/Category:韩国围棋比赛 "wikilink")

@@ -44,7 +44,7 @@
 
 ### 2017年
 
-JYP表示2017年不推新團，並與[全昭彌簽訂專屬藝人合約](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")，在I.O.I.解散後，專注在個人主持及演藝工作、學業和跆拳道四段訓練。1月26日[譽恩](https://zh.wikipedia.org/wiki/譽恩 "wikilink")、[善美為拓展未來新方向決定不續約](https://zh.wikipedia.org/wiki/善美 "wikilink")，女團[Wonder Girls宣告解散](../Page/Wonder_Girls.md "wikilink")\[40\]，並在2月10日發表最後的十周年數位單曲《描繪그려줘》，[Wonder Girls正式畫下句點](../Page/Wonder_Girls.md "wikilink")。JYP透露將把公司總部搬至奧運公園附近的大型大廈。7月28日與[Dailymotion](../Page/Dailymotion.md "wikilink")簽訂正式合作關係，並將為JYP的藝人開設官方頻道，包括[朴軫永](../Page/朴軫永.md "wikilink")(JYP)、[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")，[白娥娟](../Page/白娥娟.md "wikilink")、[GOT7](../Page/GOT7.md "wikilink")、[NakJoon](https://zh.wikipedia.org/wiki/NakJoon "wikilink")、[DAY6](../Page/DAY6.md "wikilink")和[TWICE等](https://zh.wikipedia.org/wiki/TWICE "wikilink")\[41\]。9月1日，由JYP子公司北京傑偉品文化與騰訊音樂娛樂集團合資創辦的新聲娛樂 NCC Entertainment推出首組中國嘻哈男團BOY STORY並發表首支先行曲《HOW OLD R U》及MV。\[42\]9月21日，JYP公開表示，將與Mnet一起在10月17日推出全新選秀節目定名《[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》甄選下一個能夠接棒2PM、GOT7、TWICE的新男團。\[43\]9月22日，[趙權](../Page/趙權.md "wikilink")約滿退社。\[44\]10月7日，公開[Stray Kids的先行曲](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")《Hellevator》的MV。11月9日，[Min約滿退社](https://zh.wikipedia.org/wiki/Min "wikilink")。12月27日，宣布女團[miss A解散](https://zh.wikipedia.org/wiki/miss_A "wikilink")。
+JYP表示2017年不推新團，並與[全昭彌簽訂專屬藝人合約](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")，在[I.O.I](../Page/I.O.I.md "wikilink")解散後，專注在個人主持及演藝工作、學業和跆拳道四段訓練。1月26日[譽恩](https://zh.wikipedia.org/wiki/譽恩 "wikilink")、[善美為拓展未來新方向決定不續約](https://zh.wikipedia.org/wiki/善美 "wikilink")，女團[Wonder Girls宣告解散](../Page/Wonder_Girls.md "wikilink")\[40\]，並在2月10日發表最後的十周年數位單曲《描繪그려줘》，[Wonder Girls正式畫下句點](../Page/Wonder_Girls.md "wikilink")。JYP透露將把公司總部搬至奧運公園附近的大型大廈。7月28日與[Dailymotion](../Page/Dailymotion.md "wikilink")簽訂正式合作關係，並將為JYP的藝人開設官方頻道，包括[朴軫永](../Page/朴軫永.md "wikilink")(JYP)、[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")，[白娥娟](../Page/白娥娟.md "wikilink")、[GOT7](../Page/GOT7.md "wikilink")、[NakJoon](https://zh.wikipedia.org/wiki/NakJoon "wikilink")、[DAY6](../Page/DAY6.md "wikilink")和[TWICE等](https://zh.wikipedia.org/wiki/TWICE "wikilink")\[41\]。9月1日，由JYP子公司北京傑偉品文化與騰訊音樂娛樂集團合資創辦的新聲娛樂 NCC Entertainment推出首組中國嘻哈男團BOY STORY並發表首支先行曲《HOW OLD R U》及MV。\[42\]9月21日，JYP公開表示，將與Mnet一起在10月17日推出全新選秀節目定名《[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》甄選下一個能夠接棒2PM、GOT7、TWICE的新男團。\[43\]9月22日，[趙權](../Page/趙權.md "wikilink")約滿退社。\[44\]10月7日，公開[Stray Kids的先行曲](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")《Hellevator》的MV。11月9日，[Min約滿退社](https://zh.wikipedia.org/wiki/Min "wikilink")。12月27日，宣布女團[miss A解散](https://zh.wikipedia.org/wiki/miss_A "wikilink")。
 
 ### 2018年 :「JYP 2.0\[45\]」
 
@@ -66,7 +66,7 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 
 3月31日，[秀智](../Page/秀智.md "wikilink")9年合约期满未续约。4月，女演員[宋昰昀](https://zh.wikipedia.org/wiki/宋昰昀 "wikilink")6年合约期满未续约。
 
-9月1日起，演員部門的[尹博](../Page/尹博.md "wikilink")、[辛睿恩](../Page/辛睿恩.md "wikilink")、[申银秀](https://zh.wikipedia.org/wiki/申银秀 "wikilink")、[姜勋](https://zh.wikipedia.org/wiki/姜勋 "wikilink")、[金东希和](https://zh.wikipedia.org/wiki/金东希 "wikilink")[李灿善將轉移到副社長表锺禄新成立的演員企劃](https://zh.wikipedia.org/wiki/李灿善 "wikilink")、電視劇及電影製作公司[NPIO娛樂](https://zh.wikipedia.org/wiki/NPIO娛樂 "wikilink")，其他演員可自行尋覓新公司。
+9月1日起，演員部門的[尹博](../Page/尹博.md "wikilink")、[辛睿恩](../Page/辛睿恩.md "wikilink")、[申银秀](https://zh.wikipedia.org/wiki/申银秀 "wikilink")、[姜勋](https://zh.wikipedia.org/wiki/姜勋 "wikilink")、[金东希和](https://zh.wikipedia.org/wiki/金东希 "wikilink")[李灿善將轉移到副社長表锺禄新成立的演員企劃](https://zh.wikipedia.org/wiki/李灿善 "wikilink")、電視劇及電影製作公司[NPIO娛樂](https://zh.wikipedia.org/wiki/NPIO娛樂 "wikilink")，其他演員可自行尋覓新公司，同時亦宣佈與Npio娛樂共同管理演員部門的經紀工作\[67\]。
 
 ## 子公司、附屬公司
 
@@ -115,13 +115,12 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 
   - 隊長以**粗體**顯示。
 
-<table style="width:154%;">
+<table style="width:145%;">
 <colgroup>
-<col style="width: 24%" />
-<col style="width: 10%" />
-<col style="width: 60%" />
 <col style="width: 30%" />
-<col style="width: 10%" />
+<col style="width: 15%" />
+<col style="width: 50%" />
+<col style="width: 30%" />
 <col style="width: 10%" />
 <col style="width: 10%" />
 </colgroup>
@@ -131,12 +130,10 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td><p>組合名稱</p></td>
 <td><p>性別</p></td>
 <td><p>成員</p></td>
-<td><p>官方粉絲名</p></td>
-<td><p>官方應援色</p></td>
+<td><p>粉絲名稱</p></td>
 <td><p>所屬本部</p></td>
 </tr>
 <tr class="even">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -152,22 +149,20 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td><p><a href="https://zh.wikipedia.org/wiki/金閔俊" title="wikilink">Jun. K</a>{{•}}<a href="../Page/Nichkhun.md" title="wikilink">Nichkhun</a>{{•}}<a href="../Page/玉澤演.md" title="wikilink">澤演</a><br />
 <a href="https://zh.wikipedia.org/wiki/張祐榮" title="wikilink">祐榮</a>{{•}}<a href="https://zh.wikipedia.org/wiki/李俊昊" title="wikilink">俊昊</a>{{•}}<a href="../Page/黃燦盛.md" title="wikilink">燦盛</a></p></td>
 <td><p>HOTTEST</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2012年5月24日</p></td>
 <td></td>
 <td><p><a href="../Page/JJ_Project.md" title="wikilink">JJ Project</a></p></td>
-<td><p><strong><a href="../Page/林在範.md" title="wikilink">JB</a></strong>{{•}}<a href="../Page/朴珍榮.md" title="wikilink">珍榮</a></p></td>
+<td><p><strong><a href="../Page/林在範.md" title="wikilink">JB</a></strong><br />
+<a href="../Page/朴珍榮.md" title="wikilink">珍榮</a></p></td>
 <td><p>I GOT7</p></td>
-<td><p>綠色</p></td>
 <td><p>二本部</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年1月16日</p></td>
 <td><p>2014年10月22日</p></td>
 <td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a></p></td>
-<td><p>男</p></td>
 <td><p><a href="../Page/段宜恩.md" title="wikilink">Mark</a>{{•}}<strong><a href="../Page/林在範.md" title="wikilink">JB</a></strong>{{•}}<a href="../Page/王嘉爾.md" title="wikilink">Jackson</a>{{•}}<a href="../Page/朴珍榮.md" title="wikilink">珍榮</a><br />
 <a href="../Page/崔榮宰.md" title="wikilink">榮宰</a>{{•}}<a href="../Page/BamBam.md" title="wikilink">BamBam</a>{{•}}<a href="../Page/金有謙.md" title="wikilink">有謙</a></p></td>
 <td></td>
@@ -177,10 +172,10 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td><p>2015年9月7日</p></td>
 <td><p>2018年3月14日</p></td>
 <td><p><a href="../Page/DAY6.md" title="wikilink">DAY6</a></p></td>
-<td><p>男</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/朴晟鎮" title="wikilink">晟鎮</a></strong>{{•}}<a href="../Page/Jae.md" title="wikilink">Jae</a>{{•}}<a href="../Page/姜永晛.md" title="wikilink">Young K</a>{{•}}<a href="https://zh.wikipedia.org/wiki/金元弼" title="wikilink">元弼</a>{{•}}<a href="https://zh.wikipedia.org/wiki/尹度云" title="wikilink">度云</a>{{•}}</p></td>
+<td><p><a href="../Page/Jae.md" title="wikilink">Jae</a>{{•}}<strong><a href="https://zh.wikipedia.org/wiki/朴晟鎮" title="wikilink">晟鎮</a></strong>{{•}}<a href="../Page/姜永晛.md" title="wikilink">Young K</a><br />
+<a href="https://zh.wikipedia.org/wiki/金元弼" title="wikilink">元弼</a>{{•}}<a href="https://zh.wikipedia.org/wiki/尹度云" title="wikilink">度云</a></p></td>
 <td><p>MYDAY</p></td>
-<td></td>
+<td><p>Studio J</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年10月20日</p></td>
@@ -190,30 +185,26 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td><p><a href="../Page/娜璉.md" title="wikilink">娜璉</a>{{•}}<a href="../Page/定延.md" title="wikilink">定延</a>{{•}}<a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a>{{•}}<a href="../Page/Sana_(TWICE).md" title="wikilink">Sana</a>{{•}}<strong><a href="../Page/志效.md" title="wikilink">志效</a></strong><br />
 <a href="../Page/Mina_(TWICE).md" title="wikilink">Mina</a>{{•}}<a href="../Page/多賢.md" title="wikilink">多賢</a>{{•}}<a href="../Page/彩瑛.md" title="wikilink">彩瑛</a>{{•}}<a href="../Page/周子瑜.md" title="wikilink">子瑜</a></p></td>
 <td><p>ONCE</p></td>
-<td><p>杏桃黃<br />
-霓洋紅</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年3月25日</p></td>
-<td></td>
+<td><p>2020年3月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Stray_Kids" title="wikilink">Stray Kids</a></p></td>
 <td><p>男</p></td>
-<td><p><a href="../Page/宇珍.md" title="wikilink">宇珍</a>{{•}}<strong><a href="../Page/方燦.md" title="wikilink">方燦</a></strong>{{•}}<a href="../Page/李旻浩.md" title="wikilink">Lee Know</a>{{•}}<a href="../Page/彰彬.md" title="wikilink">彰彬</a>{{•}}<a href="../Page/鉉辰.md" title="wikilink">鉉辰</a><br />
-<a href="../Page/韓知城.md" title="wikilink">Han</a>{{•}}<a href="../Page/Felix_(Stray_Kids).md" title="wikilink">Felix</a>{{•}}<a href="../Page/昇玟.md" title="wikilink">昇玟</a>{{•}}<a href="../Page/梁精寅.md" title="wikilink">I.N</a></p></td>
+<td><p><strong><a href="../Page/方燦.md" title="wikilink">方燦</a></strong>{{•}}<a href="../Page/李旻浩.md" title="wikilink">Lee Know</a>{{•}}<a href="../Page/彰彬.md" title="wikilink">彰彬</a>{{•}}<a href="../Page/鉉辰.md" title="wikilink">鉉辰</a><br />
+<a href="../Page/韓知城.md" title="wikilink">HAN</a>{{•}}<a href="../Page/Felix_(Stray_Kids).md" title="wikilink">Felix</a>{{•}}<a href="../Page/昇玟.md" title="wikilink">昇玟</a>{{•}}<a href="../Page/梁精寅.md" title="wikilink">I.N</a></p></td>
 <td><p>STAY</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年2月12日</p></td>
-<td></td>
+<td><p>rowspan=3 </p></td>
 <td><p><a href="../Page/ITZY.md" title="wikilink">ITZY</a></p></td>
 <td><p>女</p></td>
-<td><p><strong><a href="../Page/黃禮志.md" title="wikilink">禮志</a></strong>{{•}}<a href="../Page/崔智秀.md" title="wikilink">Lia</a>{{•}}<a href="../Page/申留眞.md" title="wikilink">留眞</a>{{•}}<a href="../Page/李彩領.md" title="wikilink">彩領</a>{{•}}<a href="../Page/申有娜.md" title="wikilink">有娜</a></p></td>
+<td><p><strong><a href="../Page/黃禮志.md" title="wikilink">禮志</a></strong>{{•}}<a href="../Page/崔智秀.md" title="wikilink">Lia</a>{{•}}<a href="../Page/申留眞.md" title="wikilink">留眞</a><br />
+<a href="../Page/李彩領.md" title="wikilink">彩領</a>{{•}}<a href="../Page/申有娜.md" title="wikilink">有娜</a></p></td>
 <td><p>MIDZY</p></td>
-<td></td>
 </tr>
 <tr class="even">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -230,33 +221,27 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 
   - 3RACHA尚未出道僅作詞作曲，故沒有出道日期及尚未確定分隊型式
 
-<table style="width:360%;">
+<table style="width:135%;">
 <colgroup>
-<col style="width: 18%" />
+<col style="width: 30%" />
+<col style="width: 15%" />
+<col style="width: 50%" />
+<col style="width: 20%" />
 <col style="width: 10%" />
-<col style="width: 60%" />
-<col style="width: 70%" />
-<col style="width: 12%" />
-<col style="width: 60%" />
-<col style="width: 60%" />
-<col style="width: 70%" />
+<col style="width: 10%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p>出道日期</p></td>
 <td><p>組合名稱</p></td>
 <td><p>性別</p></td>
-<td><p>團體形態</p></td>
 <td><p>成員</p></td>
-<td><p>官方粉絲名</p></td>
-<td><p>官方應援色</p></td>
+<td><p>粉絲名稱</p></td>
 <td><p>所屬本部</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>樂團</p></td>
-<td><p>舞團</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -267,29 +252,15 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td><p>2019年4月10日</p></td>
 <td><p><a href="../Page/JUS2.md" title="wikilink">JUS2</a></p></td>
 <td><p>男</p></td>
-<td></td>
-<td></td>
 <td><p><a href="../Page/林在範.md" title="wikilink">JB</a>{{•}}<strong><a href="../Page/金有謙.md" title="wikilink">有謙</a></strong></p></td>
 <td><p>I GOT7</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td><p>colspan=2 </p></td>
 <td><p><a href="../Page/3RACHA.md" title="wikilink">3RACHA</a></p></td>
-<td><p>男</p></td>
+<td><p><a href="../Page/方燦.md" title="wikilink">方燦</a>{{•}}<a href="../Page/彰彬.md" title="wikilink">彰彬</a>{{•}}<a href="../Page/韓知城.md" title="wikilink">HAN</a></p></td>
 <td></td>
-<td></td>
-<td><p><a href="../Page/方燦.md" title="wikilink">方燦</a>{{•}}<a href="../Page/彰彬.md" title="wikilink">彰彬</a>{{•}}<a href="../Page/韓知城.md" title="wikilink">Han</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>一本部</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -297,219 +268,164 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 
   - **個人歌手**
 
-<table>
+<table style="width:130%;">
+<colgroup>
+<col style="width: 45%" />
+<col style="width: 10%" />
+<col style="width: 50%" />
+<col style="width: 15%" />
+<col style="width: 10%" />
+</colgroup>
 <tbody>
 <tr class="odd">
-<td><p>名稱<br />
-韓文</p></td>
-<td><p>國籍</p></td>
+<td><p>出道日期</p></td>
+<td><p>藝人</p></td>
 <td><p>性別</p></td>
-<td><p>出道地點及日期</p></td>
-<td><p>所屬組合</p></td>
-<td><p>官方粉絲名</p></td>
+<td><p>粉絲名稱</p></td>
 <td><p>所屬本部</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/朴軫永.md" title="wikilink">朴軫永</a><br />
-</p></td>
-<td></td>
-<td><p>男</p></td>
-<td><p>1994年9月1日</p></td>
 <td></td>
 <td></td>
-<td><p>二本部</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/宥斌" title="wikilink">金婑斌</a><br />
-</p></td>
-<td><p>女</p></td>
+<td><p>1994年9月1日</p></td>
+<td><p>rowspan=2 </p></td>
+<td><p>rowspan=7 </p></td>
+<td><p><a href="../Page/朴軫永.md" title="wikilink">朴軫永</a></p></td>
+<td><p>男</p></td>
+</tr>
+<tr class="even">
 <td><p>2018年6月5日</p></td>
-<td><p><a href="../Page/Wonder_Girls.md" title="wikilink">Wonder Girls</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宥斌" title="wikilink">宥斌</a></p></td>
+<td><p>女</p></td>
 <td><p>WonderFul</p></td>
 <td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/惠林.md" title="wikilink">禹惠林</a><br />
-</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金閔俊" title="wikilink">Jun. K</a><br />
-</p></td>
+<td><p>2011年2月10日</p></td>
+<td><p>2014年5月14日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金閔俊" title="wikilink">Jun. K</a></p></td>
 <td><p>男</p></td>
-<td><p>2011年2月10日<br />
-2014年5月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a></p></td>
 <td><p>HOTTEST</p></td>
-<td><p>一本部</p></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Nichkhun.md" title="wikilink">Nichkhun</a><br />
-</p></td>
-<td><p><br />
-</p></td>
-<td><p>2018年12月19日<br />
- 2019年2月18日</p></td>
-<td></td>
-<td></td>
+<td><p>2019年2月18日</p></td>
+<td><p>2018年12月19日</p></td>
+<td><p><a href="../Page/Nichkhun.md" title="wikilink">Nichkhun</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/張祐榮" title="wikilink">張祐榮</a><br />
-</p></td>
-<td></td>
-<td><p>2012年7月8日<br />
-2015年3月4日</p></td>
-<td></td>
-<td></td>
+<td><p>2012年7月8日</p></td>
+<td><p>2015年3月4日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張祐榮" title="wikilink">祐榮</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李俊昊" title="wikilink">李俊昊</a><br />
-</p></td>
-<td><p>2013年7月24日<br />
-2015年9月14日</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>2015年9月14日</p></td>
+<td><p>2013年7月24日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李俊昊" title="wikilink">俊昊</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃燦盛.md" title="wikilink">黃燦盛</a><br />
-</p></td>
+<td></td>
 <td><p>2018年5月23日</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/黃燦盛.md" title="wikilink">燦盛</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/王嘉爾.md" title="wikilink">王嘉爾</a><br />
-</p></td>
-<td></td>
+<td><p>colspan=2 </p></td>
 <td><p>2017年8月26日</p></td>
-<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a></p></td>
-<td><p>I GOT7<br />
-</p></td>
+<td><p><a href="../Page/王嘉爾.md" title="wikilink">王嘉爾</a></p></td>
+<td><p>I GOT7</p></td>
 <td><p>二本部</p></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Bernard_Park.md" title="wikilink">NakJoon</a><br />
-</p></td>
-<td></td>
-<td><p>男</p></td>
 <td><p>2014年10月6日</p></td>
-<td></td>
+<td><p>colspan=2 </p></td>
+<td><p><a href="../Page/Bernard_Park.md" title="wikilink">NakJoon</a></p></td>
 <td></td>
 <td><p>Studio J</p></td>
 </tr>
 </tbody>
 </table>
 
-  - **演員（2012年成立）**
+  - **演員**（與Npio娛樂共管）
 
-<table>
-<thead>
-<tr class="header">
-<th><p><strong>男演員</strong></p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="../Page/尹博.md" title="wikilink">尹博</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/姜勛" title="wikilink">姜勛</a></p></td>
-</tr>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>女演員</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/金志珉.md" title="wikilink">金志珉</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/朴珪瑛.md" title="wikilink">朴珪瑛</a></p></td>
-</tr>
-</tbody>
-</table>
+<!-- end list -->
 
-  - **練習生**
+  - 男演員
 
-<table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td></td>
-<td><p>王家妤<br />
-Wang Jia Yu</p></td>
-<td><p>崔韵溱<br />
-Choi Yun Jin</p></td>
-<td><p>張姝那<br />
-Jang Ju Na</p></td>
-<td><p>李規焄<br />
-Lee Gye Hun</p></td>
-</tr>
-<tr class="even">
-<td><p>安攸娜<br />
-Ahn Yu Na</p></td>
-<td><p>山口真子<br />
-Yamaguchi Mako</p></td>
-<td><p>吳海媛<br />
-Oh Hae Won</p></td>
-<td><p>羅衍<br />
-Luo Yan</p></td>
-<td><p>金玟志<br />
-Kim Min Ji</p></td>
-</tr>
-<tr class="odd">
-<td><p>張珪珒<br />
-Jang Gyu Jin</p></td>
-<td><p>李荷聿<br />
-Lee Ha Yul</p></td>
-<td><p>朴延翰<br />
-Park Yeon Han</p></td>
-<td><p>芷瑀<br />
-Ji Woo</p></td>
-<td><p>Kim Jung Su</p></td>
-</tr>
-<tr class="even">
-<td><p>Sung Min</p></td>
-<td><p>Kyoung Mun</p></td>
-<td><p>Victor</p></td>
-<td><p>Yokoi Rima</p></td>
-<td><p>Miihi</p></td>
-</tr>
-<tr class="odd">
-<td><p>Jeong Woo</p></td>
-<td><p>韓頤穎<br />
-Han Shin Young</p></td>
-<td><p>Jin Sol</p></td>
-<td><p>Taiga</p></td>
-<td><p>Yuhi</p></td>
-</tr>
-</tbody>
-</table>
+<!-- end list -->
+
+  - [黃燦盛](../Page/黃燦盛.md "wikilink")
+  - [李俊昊](https://zh.wikipedia.org/wiki/李俊昊 "wikilink")
+  - [朴珍榮](../Page/朴珍榮.md "wikilink")
+  - [尹博](../Page/尹博.md "wikilink")
+  - 姜勛
+  - [金東希](../Page/金東希.md "wikilink")
+
+<!-- end list -->
+
+  - 女演員
+
+<!-- end list -->
+
+  - [申銀秀](../Page/申銀秀.md "wikilink")
+  - [辛睿恩](../Page/辛睿恩.md "wikilink")
+  - [禹惠林](../Page/惠林.md "wikilink")
+
+<!-- end list -->
+
+  - **已知練習生**
+
+<!-- end list -->
+
+  - Ahn Yu Na（安攸娜）
+  - Choi Yun Jin（崔韵溱）
+  - Han Shin Young（韓頤穎）
+  - Jang Gyu Jin（張珪珒）
+  - Jang Ju Na（張姝那）
+  - Jeong Woo（靜佑）
+  - Ji Woo（芷瑀）
+  - Jin Sol（真率）
+  - Kim Jung Su（金廷秀）
+  - Kim Min Ji（金玟志）
+  - Kyoung Mun（勁滿）
+  - Lee Gye Hun（李規焄）
+  - Lee Ha Yul（李荷聿）
+
+<!-- end list -->
+
+  -
+  - Luo Yan（羅衍）
+
+  - Miihi
+
+  - Oh Hae Won（吳海媛）
+
+  - Park Yeon Han（朴延翰）
+
+  - Sung Min（盛敏）
+
+  - Taiga
+
+  - Victor
+
+  - Wang Jia Yu（王家妤）
+
+  - Yamaguchi Mako（山口真子）
+
+  - Yokoi Rima
+
+  - Yuhi
 
 ### 北京新聲娛樂（合資公司）
 
@@ -519,14 +435,12 @@ Han Shin Young</p></td>
 
   - 隊長以**粗體**顯示。
 
-<table style="width:159%;">
+<table style="width:130%;">
 <colgroup>
-<col style="width: 24%" />
+<col style="width: 30%" />
 <col style="width: 10%" />
-<col style="width: 60%" />
-<col style="width: 10%" />
+<col style="width: 50%" />
 <col style="width: 25%" />
-<col style="width: 15%" />
 <col style="width: 15%" />
 </colgroup>
 <tbody>
@@ -534,16 +448,12 @@ Han Shin Young</p></td>
 <td><p>出道日期</p></td>
 <td><p>組合名稱</p></td>
 <td><p>性別</p></td>
-<td><p>團體形態</p></td>
 <td><p>成員</p></td>
-<td><p>官方粉絲名</p></td>
-<td><p>官方應援色</p></td>
+<td><p>粉絲名稱</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>樂團</p></td>
-<td><p>舞團</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -553,9 +463,8 @@ Han Shin Young</p></td>
 <td></td>
 <td><p><a href="../Page/BOY_STORY.md" title="wikilink">BOY STORY</a></p></td>
 <td><p>男</p></td>
-<td></td>
-<td></td>
-<td><p><strong>涵予</strong>{{•}}梓豪{{•}}鑫隆{{•}}澤宇{{•}}明睿{{•}}書漾</p></td>
+<td><p><strong>涵予</strong>{{•}}梓豪{{•}}鑫隆<br />
+澤宇{{•}}明睿{{•}}書漾</p></td>
 </tr>
 </tbody>
 </table>
@@ -583,9 +492,9 @@ Han Shin Young</p></td>
 
   - [Rain](../Page/Rain.md "wikilink")（2002 - 2007）
 
-  -   - [宋虎范](https://zh.wikipedia.org/wiki/宋虎范 "wikilink")（2003 - 2008）
+  -   - [宋虎范](https://zh.wikipedia.org/wiki/宋虎范 "wikilink")（2004 - 2008）
 
-      - （2003 - 2008）
+      - （2004 - 2008）
 
   - [2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")
 
@@ -605,28 +514,30 @@ Han Shin Young</p></td>
 
 <!-- end list -->
 
-  - [miss A](https://zh.wikipedia.org/wiki/miss_A "wikilink")（2010 - 2017，宣布解散）
+  - [miss A](https://zh.wikipedia.org/wiki/miss_A "wikilink")（2010 - 2017）
       - [Jia](../Page/孟佳.md "wikilink")（2010 - 2016）
       - [Min](https://zh.wikipedia.org/wiki/李玟暎 "wikilink")（2010 - 2017）
       - [Fei](../Page/王霏霏.md "wikilink")（2010 - 2018）
       - [Suzy](https://zh.wikipedia.org/wiki/裴秀智 "wikilink")（2010－2019）
-  - [Wonder Girls](../Page/Wonder_Girls.md "wikilink")（2007 - 2017，宣布解散）
+  - [Wonder Girls](../Page/Wonder_Girls.md "wikilink")（2007 - 2017）
       - [金泫雅](../Page/金泫雅.md "wikilink")（2006 - 2007）
       - [安昭熙](../Page/安昭熙.md "wikilink")（2006 - 2013）
       - [閔先藝](../Page/先藝.md "wikilink")（2006 - 2014）
       - [李善美](https://zh.wikipedia.org/wiki/善美 "wikilink")（2006 - 2017）
       - [朴譽恩](https://zh.wikipedia.org/wiki/譽恩 "wikilink")（2006 - 2017）
   - [G.Soul](../Page/G.Soul.md "wikilink")（2015 - 2017）
-  - [2AM](../Page/2AM.md "wikilink")（2008 - 2015，未宣布解散）
+  - [2AM](../Page/2AM.md "wikilink")（2008 - 2015，單飛不解散）
       - [李昶旻](../Page/李昶旻.md "wikilink")（2008 - 2015）
       - [任瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")（2008 - 2015）
       - [鄭珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")（2008 - 2015）
       - [趙權](../Page/趙權.md "wikilink")（2008 - 2017)
   - [白娥娟](../Page/白娥娟.md "wikilink")（2012 - 2019）
-  - [15&](https://zh.wikipedia.org/wiki/15& "wikilink") (2012 - 2019，宣布解散)
+  - [15&](https://zh.wikipedia.org/wiki/15& "wikilink")（2012 - 2019）
       - [朴智敏](../Page/朴智敏.md "wikilink")（2012 - 2019）
-      - [白艺潾](../Page/白艺潾.md "wikilink")（2012- 2019）
+      - [白艺潾](../Page/白艺潾.md "wikilink")（2012 - 2019）
   - [全昭彌](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")（2017 - 2018）
+  - [Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")
+      - [宇珍](../Page/宇珍.md "wikilink")（2018 - 2019）
 
 <!-- end list -->
 
@@ -646,6 +557,32 @@ Han Shin Young</p></td>
   - [宋昰昀](https://zh.wikipedia.org/wiki/宋昰昀 "wikilink")（2013 - 2019）
   - [趙怡賢](../Page/趙怡賢.md "wikilink")（2017 - 2019）
   - [鄭乾柱](../Page/鄭乾柱.md "wikilink")（2017 - 2019）
+  - [朴柱亨](../Page/朴柱亨.md "wikilink")
+
+<!-- end list -->
+
+  -
+  -
+  - [李基赫](../Page/李基赫.md "wikilink")（2017 - 2019）
+
+  -
+  - [張東周](../Page/張東周_\(男演員\).md "wikilink")（2018 - 2019）
+
+  - [李信盈](https://zh.wikipedia.org/wiki/李信盈 "wikilink")
+
+  - [金志珉](../Page/金志珉.md "wikilink")（2013 - 2019）
+
+  - [張姬令](../Page/張姬領.md "wikilink")（2014 - 2019）
+
+  - [柳垣](../Page/柳垣.md "wikilink")（2015 - 2019）
+
+  - [朴珪瑛](../Page/朴珪瑛.md "wikilink")（2016 - 2019）
+
+  - [朴蒔恩](../Page/朴蒔恩.md "wikilink")（2017 - 2019）
+
+  - [金宥安](../Page/金宥安.md "wikilink")（2017 - 2019）
+
+  - [李知炫](https://zh.wikipedia.org/wiki/李知炫 "wikilink")（2017 - 2019）
 
 <!-- end list -->
 
@@ -661,67 +598,27 @@ Han Shin Young</p></td>
 
 <!-- end list -->
 
-  - [0086男團](https://zh.wikipedia.org/wiki/0086男團 "wikilink")
-      - 李詩琦
-  - [AB6IX](../Page/AB6IX.md "wikilink")
-      - [朴佑鎮](../Page/朴佑鎮.md "wikilink")
-      - [李大輝](../Page/李大輝.md "wikilink")
-      - [金東賢](../Page/金東賢.md "wikilink")
-      - [田雄](https://zh.wikipedia.org/wiki/田雄 "wikilink")
-  - [A.C.E](https://zh.wikipedia.org/wiki/A.C.E "wikilink")
-      - 金柄官
-      - 康裕瓚
-  - [BIGSTAR](../Page/BIGSTAR.md "wikilink")
-      - 李怺晙
-  - [Block B](../Page/Block_B.md "wikilink")
-      - [安宰孝](https://zh.wikipedia.org/wiki/安宰孝 "wikilink")
-  - [BNF](https://zh.wikipedia.org/wiki/BNF "wikilink")
-      - Habin
-  - [Boyfriend](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")
-      - [趙榮旻](https://zh.wikipedia.org/wiki/趙榮旻 "wikilink")
-      - [趙光旻](https://zh.wikipedia.org/wiki/趙光旻 "wikilink")
-  - [少年共和國](../Page/少年共和國.md "wikilink")
-      - 朴成俊
-  - [BTOB](../Page/BTOB.md "wikilink")
-      - [李旼赫](../Page/李旼赫.md "wikilink")
-      - [辛東根](../Page/辛東根.md "wikilink")
-  - [D1CE](../Page/D1CE.md "wikilink")
-      - 禹眞榮
-  - [Golden Child](../Page/Golden_Child.md "wikilink")
-      - 裴勝民
-  - [Highlight](../Page/Highlight_\(韓國組合\).md "wikilink")
-      - [尹斗俊](../Page/尹斗俊.md "wikilink")
-      - [梁耀燮](../Page/梁耀燮.md "wikilink")
-      - [李起光](../Page/李起光.md "wikilink")
-      - [孫東雲](../Page/孫東雲.md "wikilink")
-  - [HOTSHOT](../Page/HOTSHOT.md "wikilink")
-      - [河成雲](../Page/河成雲.md "wikilink")
-  - [IM66](../Page/IM66.md "wikilink")
-      - 鄭棋釋
-      - 文太垠
-  - [KNK](../Page/KNK.md "wikilink")
-      - 朴\-{栖}-含
-  - [MADTOWN](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")
-      - [宋在淏](https://zh.wikipedia.org/wiki/宋在淏 "wikilink")
-  - [Monsta X](https://zh.wikipedia.org/wiki/Monsta_X "wikilink")
-      - [孫賢祐](../Page/孫賢祐.md "wikilink")
-  - [MYNAME](../Page/MYNAME.md "wikilink")
-      - [金世容](https://zh.wikipedia.org/wiki/金世容 "wikilink")
-  - [ONEUS](https://zh.wikipedia.org/wiki/ONEUS "wikilink")
-      - [金英助](../Page/金英助.md "wikilink")
-  - [ONF](https://zh.wikipedia.org/wiki/ONF "wikilink")
-      - 水口裕斗
-  - [Pentagon](../Page/Pentagon_\(男子組合\).md "wikilink")
-      - [李會澤](../Page/李會澤.md "wikilink")
-      - [安達祐人](https://zh.wikipedia.org/wiki/安達祐人 "wikilink")
-  - [R1SE](../Page/R1SE.md "wikilink")
-      - [周震南](../Page/周震南.md "wikilink")
-  - [RAINZ](../Page/RAINZ.md "wikilink")
-      - 李基遠
-  - [U-KISS](../Page/U-KISS.md "wikilink")
-      - [申秀鉉](https://zh.wikipedia.org/wiki/申秀鉉 "wikilink")
-  - [ZE:A](../Page/ZE:A.md "wikilink")
-      - [旼佑](../Page/旼佑.md "wikilink")
+  - [0086男團](https://zh.wikipedia.org/wiki/0086男團 "wikilink")（李詩琦）
+  - [AB6IX](../Page/AB6IX.md "wikilink")（[田雄](https://zh.wikipedia.org/wiki/田雄 "wikilink"){{•}}[金東賢](../Page/金東賢.md "wikilink"){{•}}[朴佑鎮](../Page/朴佑鎮.md "wikilink"){{•}}[李大輝](../Page/李大輝.md "wikilink")）
+  - [A.C.E](https://zh.wikipedia.org/wiki/A.C.E "wikilink")（金柄官{{•}}Chan）
+  - [Block B](../Page/Block_B.md "wikilink")（[安宰孝](https://zh.wikipedia.org/wiki/安宰孝 "wikilink")）
+  - [BNF](https://zh.wikipedia.org/wiki/BNF "wikilink")（Habin）
+  - [少年共和國](../Page/少年共和國.md "wikilink")（成俊）
+  - [BTOB](../Page/BTOB.md "wikilink")（[李旼赫](../Page/李旼赫.md "wikilink"){{•}}[Peniel](../Page/辛東根.md "wikilink")）
+  - [D1CE](../Page/D1CE.md "wikilink")（禹眞榮）
+  - [Golden Child](../Page/Golden_Child.md "wikilink")（裴勝民）
+  - [Highlight](../Page/Highlight_\(韓國組合\).md "wikilink")（[尹斗俊](../Page/尹斗俊.md "wikilink"){{•}}[梁耀燮](../Page/梁耀燮.md "wikilink"){{•}}[李起光](../Page/李起光.md "wikilink"){{•}}[孫東雲](../Page/孫東雲.md "wikilink")）
+  - [HOTSHOT](../Page/HOTSHOT.md "wikilink")（[河成雲](../Page/河成雲.md "wikilink")）
+  - [KNK](../Page/KNK.md "wikilink")（朴-{栖}-含）
+  - [MADTOWN](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")（[H.O](https://zh.wikipedia.org/wiki/宋在淏 "wikilink")）
+  - [Monsta X](https://zh.wikipedia.org/wiki/Monsta_X "wikilink")（[Shownu](../Page/孫賢祐.md "wikilink")）
+  - [MYNAME](../Page/MYNAME.md "wikilink")（[金世容](https://zh.wikipedia.org/wiki/金世容 "wikilink")）
+  - [ONEUS](https://zh.wikipedia.org/wiki/ONEUS "wikilink")（[RAVN](../Page/金英助.md "wikilink")）
+  - [ONF](https://zh.wikipedia.org/wiki/ONF "wikilink")（U）
+  - [Pentagon](../Page/Pentagon_\(男子組合\).md "wikilink")（[Hui](../Page/李會澤.md "wikilink"){{•}}[Yuto](https://zh.wikipedia.org/wiki/安達祐人 "wikilink")）
+  - [R1SE](../Page/R1SE.md "wikilink")（[周震南](../Page/周震南.md "wikilink")）
+  - [U-KISS](../Page/U-KISS.md "wikilink")（[申秀鉉](https://zh.wikipedia.org/wiki/申秀鉉 "wikilink")）
+  - [ZE:A](../Page/ZE:A.md "wikilink")（[河旼佑](../Page/旼佑.md "wikilink")）
 
 <!-- end list -->
 
@@ -729,111 +626,49 @@ Han Shin Young</p></td>
 
 <!-- end list -->
 
-  - [2EYES](../Page/2EYES.md "wikilink")
-
-      - 金慧潾
-
-  - [After School](../Page/After_School.md "wikilink")
-
-      - [吳慧潾](https://zh.wikipedia.org/wiki/吳慧潾 "wikilink")
-
-  - [AOA](../Page/AOA.md "wikilink")
-
-      - [申智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink")
-
-  - [Apink](../Page/Apink.md "wikilink")
-
-      - [朴初瓏](../Page/朴初瓏.md "wikilink")
-      - [尹普美](../Page/尹普美.md "wikilink")
-
-  - [APRIL](../Page/APRIL_\(女子團體\).md "wikilink")
-
-      - [李娜恩](../Page/李娜恩.md "wikilink")
-
-  - [BESTie](../Page/BESTie.md "wikilink")
-
-      - [鄭有智](https://zh.wikipedia.org/wiki/鄭有智 "wikilink")
-      - [羅海嶺](https://zh.wikipedia.org/wiki/羅海嶺 "wikilink")
-
-  - [BONUSbaby](../Page/BONUSbaby.md "wikilink")
-
-      - [崔玟熙](../Page/崔玟熙.md "wikilink")
-
-  - [EVERGLOW](../Page/EVERGLOW.md "wikilink")
-
-      - [許庾琳](../Page/EVERGLOW.md "wikilink")
-
-  - [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")
-
-      - [哈妮](../Page/哈妮.md "wikilink")
-      - [正花](../Page/正花.md "wikilink")
-
-  - [FANATICS](../Page/FANATICS.md "wikilink")
-
-      - 度伊
-      - Sika
-      - 允惠
-
-  - [Favourite](https://zh.wikipedia.org/wiki/Favorite_\(女子組合\) "wikilink")
-
-      - 金敏周
-
-  - [fromis_9](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")
-
-      - [朴池原](../Page/朴池原.md "wikilink")
-      - [李采映](https://zh.wikipedia.org/wiki/李采映 "wikilink")
-
-  - [IZ\*ONE](../Page/IZ*ONE.md "wikilink")
-
-      - [李彩演](../Page/李彩演.md "wikilink")
-
-  - LadyBees（[蜜蜂少女隊](https://zh.wikipedia.org/wiki/蜜蜂少女隊_LadyBees "wikilink")）
-
-      - 孔雪兒
-
-  -   - 金慧琳
-
-  - [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")
-
-      - [鄭叡仁](../Page/鄭叡仁.md "wikilink")
-
-  - [MOMOLAND](../Page/MOMOLAND.md "wikilink")
-
-      - 柳貞安
-
-  - [MyB](https://zh.wikipedia.org/wiki/MyB "wikilink")
-
-      - 李珠京
-
-  - [Nature](https://zh.wikipedia.org/wiki/Nature "wikilink")
-
-      - 姜藝珍
-
-  - [PlayM GIRLS](https://zh.wikipedia.org/wiki/PlayM_GIRLS "wikilink")
-
-      - 朴海潾
-
-  - [THE PINK LADY](../Page/THE_PINK_LADY.md "wikilink")
-
-      - 黃友琳
-
-  - [WANNA.B](../Page/WANNA.B.md "wikilink")
-
-      - 鄭知妍
-
-  - [Z-girls](../Page/Z-girls.md "wikilink")
-
-      - [川村真洋](../Page/川村真洋.md "wikilink")
+  - [After School](../Page/After_School.md "wikilink")（[萊娜](https://zh.wikipedia.org/wiki/吳慧潾 "wikilink")）
+  - [AOA](../Page/AOA.md "wikilink")（[申智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink")）
+  - [Apink](../Page/Apink.md "wikilink")（[朴初瓏](../Page/朴初瓏.md "wikilink"){{•}}[尹普美](../Page/尹普美.md "wikilink")）
+  - [APRIL](../Page/APRIL_\(女子團體\).md "wikilink")（[李娜恩](../Page/李娜恩.md "wikilink")）
+  - [BONUSbaby](../Page/BONUSbaby.md "wikilink")（[崔玟熙](../Page/崔玟熙.md "wikilink")）
+  - [EVERGLOW](../Page/EVERGLOW.md "wikilink")（Aisha）
+  - [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")（[哈妮](../Page/哈妮.md "wikilink"){{•}}[正花](../Page/正花.md "wikilink")）
+  - [FANATICS](../Page/FANATICS.md "wikilink")（度伊{{•}}Sika{{•}}允惠）
+  - [Favorite](https://zh.wikipedia.org/wiki/Favorite_\(女子組合\) "wikilink")（Seoyeon）
+  - [fromis_9](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")（[朴池原](../Page/朴池原.md "wikilink"){{•}}[李采映](https://zh.wikipedia.org/wiki/李采映 "wikilink")）
+  - [IZ\*ONE](../Page/IZ*ONE.md "wikilink")（[李彩演](../Page/李彩演.md "wikilink")）
+  - [蜜蜂少女隊](https://zh.wikipedia.org/wiki/蜜蜂少女隊_LadyBees "wikilink")（孔雪兒）
+  - [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")（[鄭叡仁](../Page/鄭叡仁.md "wikilink")）
+  - [MOMOLAND](../Page/MOMOLAND.md "wikilink")（Daisy）
+  - [Nature](https://zh.wikipedia.org/wiki/Nature "wikilink")（姜藝珍）
+  - [THE PINK LADY](../Page/THE_PINK_LADY.md "wikilink")（黃友琳）
+  - [Z-girls](../Page/Z-girls.md "wikilink")（[川村真洋](../Page/川村真洋.md "wikilink")）
 
 <!-- end list -->
 
-  - 未知去向
+  - 其他
 
 <!-- end list -->
 
+  - [趙光旻](https://zh.wikipedia.org/wiki/趙光旻 "wikilink")
+  - [趙榮旻](https://zh.wikipedia.org/wiki/趙榮旻 "wikilink")
+  - 鄭知妍
+  - 鄭棋釋
+  - [鄭有智](https://zh.wikipedia.org/wiki/鄭有智 "wikilink")
+  - 金慧潾
+  - 金慧琳
+  - 李珠京
+
+<!-- end list -->
+
+  - 李基遠
+  - 李怺晙
   - Lena
-  - Yejin
-  - Hanseol
+  - 文太垠
+  - [羅海嶺](https://zh.wikipedia.org/wiki/羅海嶺 "wikilink")
+  - 朴海潾
+  - 藝珍
+  - 韓率
 
 <!-- end list -->
 
@@ -841,19 +676,19 @@ Han Shin Young</p></td>
 
 <!-- end list -->
 
-  - [朴草娥](https://zh.wikipedia.org/wiki/朴草娥 "wikilink")
-
-  - [李彩麟](https://zh.wikipedia.org/wiki/李彩麟 "wikilink")
-
   - [G.NA](../Page/G.NA.md "wikilink")
 
-  -
   - [孝琳](../Page/孝琳.md "wikilink")
 
   -
-  - [朴孝敏](../Page/朴孝敏.md "wikilink")
-
   - [金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")
+
+  - [李彩麟](https://zh.wikipedia.org/wiki/李彩麟 "wikilink")
+
+  -
+  - [朴草娥](https://zh.wikipedia.org/wiki/朴草娥 "wikilink")
+
+  - [朴孝敏](../Page/朴孝敏.md "wikilink")
 
   - 劉永才
 
@@ -875,11 +710,11 @@ Han Shin Young</p></td>
 
   - [金栽經](../Page/金栽經.md "wikilink")
 
+  - [羅鐘贊](../Page/羅鐘贊.md "wikilink")
+
   - [宋枝恩](../Page/宋枝恩.md "wikilink")
 
   -
-  - [羅鐘贊](../Page/羅鐘贊.md "wikilink")
-
   - [表藝珍](https://zh.wikipedia.org/wiki/表藝珍 "wikilink")
 
   - [宋妍霏](../Page/宋妍霏.md "wikilink")
@@ -891,23 +726,12 @@ Han Shin Young</p></td>
 
 <!-- end list -->
 
-  - 《熱血男兒》
-      - 林代憲
-  - 《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》
-      - 宋敏英
-      - 金恩序（《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》）
-      - Natty（《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》）
-  - 《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》
-      - 金恩潔
-  - 《[創造101](https://zh.wikipedia.org/wiki/創造101 "wikilink")》
-      - [陳芳語](https://zh.wikipedia.org/wiki/陳芳語 "wikilink")
-  - 《[青春有你](../Page/青春有你.md "wikilink")》
-      - [文鄴辰](https://zh.wikipedia.org/wiki/文鄴辰 "wikilink")
-  - 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》
-      - 黃金率
-      - 尹瑞彬
-      - 姜碩華
-      - Steven Kim
+  - 《熱血男兒》（林代憲）
+  - 《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》（宋敏英）
+  - 《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》（金恩潔{{•}}金恩序{{•}}Natty）
+  - 《[創造101](https://zh.wikipedia.org/wiki/創造101 "wikilink")》（[陳芳語](https://zh.wikipedia.org/wiki/陳芳語 "wikilink")）
+  - 《[青春有你](../Page/青春有你.md "wikilink")》（[文鄴辰](https://zh.wikipedia.org/wiki/文鄴辰 "wikilink")）
+  - 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》（黃金率{{•}}姜碩華{{•}}Steven Kim{{•}}尹瑞彬）
 
 ## JYP Nation
 
@@ -1026,131 +850,68 @@ Han Shin Young</p></td>
 
 1.
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45. [JYP Ent. Yoube](https://www.youtube.com/watch?v=08257W8sdNs)
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.  Soompi|accessdate=2018-07-25|work=www.soompi.com|language=en-US}}
-
 58.  韓星網|accessdate=2018-09-22|work=www.koreastardaily.com|language=zh}}
-
 59. <https://www.dispatch.co.kr/2000280>
-
 60. <https://www.dispatch.co.kr/2000276>
-
 61. <http://www.osen.co.kr/article/G1111064520>
-
 62. <https://www.ytn.co.kr/_sn/0117_201901140905434548>
-
 63. <https://www.youtube.com/watch?v=DYS1MbnAqMU> PROLOGUE FILM
-
 64.
-
 65.
-
 66.
+67.

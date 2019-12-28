@@ -19,6 +19,6 @@ ProPublica的記者與多間新聞機構一同合作進行偵查報道，包括�
 [Category:新聞網站](https://zh.wikipedia.org/wiki/Category:新聞網站 "wikilink") [Category:調查報導](https://zh.wikipedia.org/wiki/Category:調查報導 "wikilink") [Category:非營利組織](https://zh.wikipedia.org/wiki/Category:非營利組織 "wikilink") [Category:2007年紐約州建立](https://zh.wikipedia.org/wiki/Category:2007年紐約州建立 "wikilink")
 
 1.
-2.  [2010年普立茲獎部分得主及獲獎原因](http://news.sina.com.hk/cgi-bin/nw/show.cgi/12/1/1/1488773/1.html)
-3.  [網上傳媒奪普立茲獎創先河](http://news.sina.com.hk/cgi-bin/nw/show.cgi/12/1/1/1488776/1.html)
+2.
+3.
 4.

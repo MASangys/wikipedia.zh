@@ -77,7 +77,7 @@ Ren'Py已經被許多商家推薦為電子遊戲的產生引擎，包括[Gamasut
 
 [Category:遊戲引擎](https://zh.wikipedia.org/wiki/Category:遊戲引擎 "wikilink")
 
-[Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink") [Category:遊戲製作軟件](https://zh.wikipedia.org/wiki/Category:遊戲製作軟件 "wikilink")
+[Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink") [Category:電子遊戲開發軟件](https://zh.wikipedia.org/wiki/Category:電子遊戲開發軟件 "wikilink")
 
 1.
 2.

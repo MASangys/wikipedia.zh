@@ -43,9 +43,9 @@
 
   - —[Modern Firearms—DSR-Precision DSR 50 sniper rifle](http://world.guns.ru/sniper/large-caliber-sniper-rifles/de/dsr-50-e.html)
 
-  - —[DSR-Precision—DSR 50 Sniper Rifle](http://www.dsr-precision.com/index.php?option=com_content&task=view&id=9&Itemid=12)
+  - —[DSR-Precision—DSR 50 Sniper Rifle](https://web.archive.org/web/20101027170620/http://www.dsr-precision.com/index.php?option=com_content&task=view&id=9&Itemid=12)
 
-  - —《輕兵器》雜誌2011年01上號：[第六届GPEC展会上的轻武器](http://www.xzbu.com/8/view-1052340.htm)
+  - —《輕兵器》雜誌2011年01上號：[第六届GPEC展会上的轻武器](https://web.archive.org/web/20140203021103/http://www.xzbu.com/8/view-1052340.htm)
 
 </div>
 

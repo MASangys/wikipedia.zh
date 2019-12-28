@@ -72,7 +72,7 @@ UCWEB在中国第一家拥有了手机浏览器领域的核心技术及完整知
 
 <!-- end list -->
 
-  - UC News: 海外头条型产品，主要在海外两印地区，月活已经过亿，两印最大的头条类产品。
+  - UC News：海外头条型产品，主要在海外两印地区，月活已经过亿，两印最大的头条类产品。
 
 ### 虚拟产品
 
@@ -91,18 +91,11 @@ UCWEB在中国第一家拥有了手机浏览器领域的核心技术及完整知
 [Category:阿里巴巴集团](https://zh.wikipedia.org/wiki/Category:阿里巴巴集团 "wikilink") [Category:中国互联网公司](https://zh.wikipedia.org/wiki/Category:中国互联网公司 "wikilink") [Category:广州公司](https://zh.wikipedia.org/wiki/Category:广州公司 "wikilink") [Category:中国软件公司](https://zh.wikipedia.org/wiki/Category:中国软件公司 "wikilink") [Category:中国民营企业](https://zh.wikipedia.org/wiki/Category:中国民营企业 "wikilink") [Category:2004年成立的公司](https://zh.wikipedia.org/wiki/Category:2004年成立的公司 "wikilink")
 
 1.  [UCWEB天使,第一步](http://www.chuangyejia.com/norm.php?id=1049&PHPSESSID=ef707e38fb268e0bd595f177d66e3efb)
-
 2.  [优视科技无心插柳却成行业代表](http://www2.ciw.com.cn/h/2562/357471-17902.html)
-
 3.  [雷军：图解UCWEB痛并快乐的创业故事](http://tech.qq.com/a/20081104/000237.htm)
-
 4.
 5.  [广州优视动景(UC浏览器)更名为UC优视科技有限公司](http://i-uc.net/read.php?201)
-
 6.  <http://www.uc.cn/a/corp/index.html>
-
 7.  [阿里巴巴全资合并UC优视 加速推进“云+端”战略](http://finance.sina.com/gb/economy/chinanews/20140610/23181052602.html)
-
 8.
-
 9.  <http://tech.163.com/10/0926/00/6HFFB6PH000915BF.html>

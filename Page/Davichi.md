@@ -288,6 +288,16 @@ Davichi於2008年1月31日推出首張專輯《Amaranth》，並於2008年2月22
 </ul></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>''' 14th '''</p></td>
+<td><p>數位單曲《<strong>致我長久的戀人</strong>》</p>
+<ul>
+<li>發行日期：2019年12月3日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>作詞：Davichi</li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -683,7 +693,7 @@ That's my fault</p></td>
 | 2017年7月25日  | But                   |              | 李海莉                                              | 電視劇《[王在相愛](../Page/王在相愛.md "wikilink") OST》                                       |
 | 2017年8月2日   | Higher Plane          |              | Flowsik ft.姜珉炅                                   | 電視劇《[犯罪心理](https://zh.wikipedia.org/wiki/犯罪心理_\(韓國\) "wikilink") OST》             |
 | 2017年10月19日 | 今天也想念，想念              | 오늘도 그리워 그리워  | Davichi                                          | 電視劇《[當你沉睡時](../Page/當你沉睡時.md "wikilink") OST》                                     |
-| 2018年3月31日  | 因為是你                  | 그대니까요워       | Davichi                                          | 電視劇《[Live](../Page/Live_\(韓國電視劇\).md "wikilink") OST》                             |
+| 2018年3月31日  | 因為是你                  | 그대니까요        | Davichi                                          | 電視劇《[Live](../Page/Live_\(韓國電視劇\).md "wikilink") OST》                             |
 | 2018年5月16日  | 你和我在下雨的大街上            | 비 오는 거리 너와 나 | 姜珉炅 & [Kisum](../Page/Kisum.md "wikilink")       | 電視劇《[Suits](https://zh.wikipedia.org/wiki/金裝律師_\(韓國電視劇\) "wikilink") OST》         |
 | 2018年10月16日 | 如夢般降臨                 | 꿈처럼 내린       | Davichi                                          | 電視劇《[愛上變身情人](https://zh.wikipedia.org/wiki/Beauty_Inside_\(電視劇\) "wikilink") OST》 |
 | 2019年5月2日   | Maybe                 |              | 李海莉                                              | 電視劇《[她的私生活](../Page/她的私生活.md "wikilink") OST》                                     |
@@ -787,6 +797,13 @@ That's my fault</p></td>
 <td><p>第十三首單曲</p></td>
 <td><p>李海莉、姜珉炅－作詞（與한경수 、최한솔）</p></td>
 </tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p>致我長久的戀人</p></td>
+<td><p>나의 오랜 연인에게</p></td>
+<td><p>第十四首單曲</p></td>
+<td><p>Davichi－作詞</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -878,6 +895,8 @@ That's my fault</p></td>
 <li>2019年5月18日 MBC <a href="../Page/全知干預視角.md" title="wikilink">全知干預視角</a> （珉炅）</li>
 <li>2019年5月18日 JTBC <a href="../Page/認識的哥哥.md" title="wikilink">認識的哥哥</a></li>
 <li>2019年5月27日 KBS <a href="../Page/屋塔房的問題兒童們.md" title="wikilink">屋塔房的問題兒童們</a></li>
+<li>2019年10月24日 KBS <a href="https://zh.wikipedia.org/wiki/Happy_Together" title="wikilink">Happy Together</a>（海莉）</li>
+<li>2019年12月7日 tvN 驚人的星期六</li>
 </ul></td>
 </tr>
 </tbody>
@@ -1101,7 +1120,7 @@ That's my fault</p></td>
 <td><p>2013年11月16日</p></td>
 <td><p>回想</p></td>
 <td><p>회상</p></td>
-<td><p>金東玄＆海莉</p></td>
+<td><p><a href="../Page/金東炫.md" title="wikilink">金東炫</a>＆海莉</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年11月23日</p></td>
@@ -1306,6 +1325,8 @@ That's my fault</p></td>
 | 2019年8月19     | SBS Power FM [金永哲的](../Page/金永哲_\(藝人\).md "wikilink") Power FM 김영철의 파워FM | 特別DJ      |
 | 2019年8月21     | SBS Power FM [金永哲的](../Page/金永哲_\(藝人\).md "wikilink") Power FM 김영철의 파워FM | 特別DJ      |
 | 2019年8月23     | SBS Power FM [金永哲的](../Page/金永哲_\(藝人\).md "wikilink") Power FM 김영철의 파워FM | 特別DJ      |
+| 2019年10月7日    | SBS Power FM Cultwo Show 두시탈출 컬투쇼                                        | 特別DJ（珉炅）  |
+| 2019年11月7日    | SBS Power FM Cultwo Show 두시탈출 컬투쇼                                        | 特別DJ（海莉）  |
 
 ### 主持
 
@@ -1351,17 +1372,18 @@ That's my fault</p></td>
 
 ### 年末演唱會
 
-| 日期             | 演唱會名稱                               | 舉行地點            |
-| -------------- | ----------------------------------- | --------------- |
-| 2009年12月24日    | Davichi 1st演唱會－The premiere         | 首爾 廣進洞的AX禮堂     |
-| 2010年12月25日    | Davichi 聖誕演唱會                       | 首爾 獎忠體育館        |
-| 2011年12月27日    | Davichi 送年演唱會                       | 首爾 奧林匹克公園－奧林匹克廳 |
-| 2013年12月28日    | 2013 Davichi Code                   | 釜山國際會展中心BEXCO   |
-| 2013年12月31日    | 2013 Davichi Code                   | 首爾 蠶室學生體育館      |
-| 2015年12月30－31日 | WINTER HUG                          | 延世大學 大禮堂        |
-| 2016年12月30－31日 | DAVICHI IN TEMPO 2016 \<50 X HALF\> | 延世大學 大禮堂        |
-| 2017年12月23－24日 | DAVICHI La êve CONCERT 2017         | 延世大學 大禮堂        |
-| 2018年12月29－30日 | DAVICHI WINTER PARTY                | 延世大學 大禮堂        |
+| 日期             | 演唱會名稱                               | 舉行地點                     |
+| -------------- | ----------------------------------- | ------------------------ |
+| 2009年12月24日    | Davichi 1st演唱會－The premiere         | 首爾 廣進洞的AX禮堂              |
+| 2010年12月25日    | Davichi 聖誕演唱會                       | 首爾 獎忠體育館                 |
+| 2011年12月27日    | Davichi 送年演唱會                       | 首爾 奧林匹克公園－奧林匹克廳          |
+| 2013年12月28日    | 2013 Davichi Code                   | 釜山國際會展中心BEXCO            |
+| 2013年12月31日    | 2013 Davichi Code                   | 首爾 蠶室學生體育館               |
+| 2015年12月30－31日 | WINTER HUG                          | 延世大學 大禮堂                 |
+| 2016年12月30－31日 | DAVICHI IN TEMPO 2016 \<50 X HALF\> | 延世大學 大禮堂                 |
+| 2017年12月23－24日 | DAVICHI La êve CONCERT 2017         | 延世大學 大禮堂                 |
+| 2018年12月29－30日 | DAVICHI WINTER PARTY                | 延世大學 大禮堂                 |
+| 2019年12月13－15日 | 2019 DAVICHI CONCERT                | 首爾 Blue Square I market廳 |
 
 ### 巡迴演唱會－DAVICHI LIVE TOUR '＆10'
 

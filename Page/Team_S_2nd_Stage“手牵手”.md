@@ -375,15 +375,9 @@ AKB48 新Team 4 選擇了「手牽手」為其首部劇場公演曲目，於2013
 [Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:AKB48家族關連音樂專輯](https://zh.wikipedia.org/wiki/Category:AKB48家族關連音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.

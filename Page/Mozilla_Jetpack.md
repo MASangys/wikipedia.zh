@@ -11,7 +11,7 @@
   - [使用Jetpack架構的附加组件一覽](https://addons.mozilla.org/firefox/tag/restartless?sort=updated)
   - [附加组件 Builder 与 SDK](https://web.archive.org/web/20110522171908/https://jetpack.mozillalabs.com/)，Jetpack在线开发工具及资料
 
-[Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink") [Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink")
+[Category:Firefox](https://zh.wikipedia.org/wiki/Category:Firefox "wikilink") [Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink")
 
 1.
 2.

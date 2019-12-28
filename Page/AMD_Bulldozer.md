@@ -143,7 +143,7 @@ AMD在2011年發布2012年的財政預算以及2012年的產品路線圖時宣�
 
 <!-- end list -->
 
-  - [AMD FX处理器官网](http://sites.amd.com/us/promo/processors/Pages/fx-processor.aspx)
+  - [AMD FX处理器官网](https://web.archive.org/web/20111101143439/http://sites.amd.com/us/promo/processors/Pages/fx-processor.aspx)
 
   - <https://archive.is/20130424224040/blogs.amd.com/unprocessed/tag/bulldozer/>
 
@@ -169,104 +169,58 @@ AMD在2011年發布2012年的財政預算以及2012年的產品路線圖時宣�
 [Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink") [Category:AMD處理器](https://zh.wikipedia.org/wiki/Category:AMD處理器 "wikilink") [Category:世界之最](https://zh.wikipedia.org/wiki/Category:世界之最 "wikilink")
 
 1.  [Inside the AMD Bulldozer Architecture](http://www.hardwaresecrets.com/article/Inside-the-AMD-Bulldozer-Architecture/1078)
-
 2.  [AMD's Bulldozer Microarchitecture](http://www.realworldtech.com/bulldozer/)
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15. [机密揭露：Intel超线程技术有多少种？](http://server.it168.com/a2008/1212/260/000000260168_all.shtml) - IT168服务器专区
-
 16. [全面解析AMD Bulldozer集群多线程架构_组件芯片_服务器频道_至顶网](http://server.zdnet.com.cn/files/all-1522477.htm#1522477)
-
 17. [AMD推土机集群多线程/Intel HT全对比](http://www.inpai.com.cn/doc/hard/129490_5.htm)  - 硬派
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
 26.
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
 34.
-
 35.
-
 36.
-
 37.
-
 38. [AMD為資料中心樹立價格、效能與功耗新標竿](http://www.amd.com/tw/aboutamd/newsroom/pressreleases/Pages/20100329.aspx) - amd.com.tw
-
 39. [AMD Bulldozer FX-8150 vs i7-2600K完整效能測試](http://chinese.vr-zone.com/2984/bulldozer-2600k-10122011/)，Page1 - VR-Zone中文版
-
 40. [明年中期上市AMD 9系主板芯片组前瞻](http://article.pchome.net/content-1234871.html) - CPU新闻_电脑之家PChome.net
-
 41. [天底下沒有永遠的敵人，輝達將SLI能力賦予AMD新一代990晶片組](http://chinese.engadget.com/2011/04/01/amd-9-series-chipset-can-support-sli/) - [engadget中文版](https://zh.wikipedia.org/wiki/engadget "wikilink")
-
 42.
-
 43.
-
 44. [AM3 processors will work in the AM3+ socket, but Bulldozer chips will not work in non-AM3+ motherboards](http://www.extremetech.com/article2/0,2845,2368186,00.asp)
-
 45.
 46.
 47.
 48. [Bulldozer時脈創金氏記錄，單核效能被Phenom II打臉？](http://www.techbang.com/posts/7029-bulldozer-hold-live-single-core-phenom-ii-performance-was-on-her-face) - T客邦
-
 49.
-
 50.
-
 51.
-
 52.
-
 53. [新款AMD Opteron™處理器帶來極致的效能、擴充性與效率](http://www.amd.com/tw/aboutamd/newsroom/pressreleases/Pages/2011111400NR.aspx) - AMD.COM.TW
-
 54.
 55.
 56.
@@ -290,62 +244,34 @@ AMD在2011年發布2012年的財政預算以及2012年的產品路線圖時宣�
 74.
 75.
 76. [效能居然倒退？AMD FX与Intel P4的故事_CPU内存硬盘评测](http://diy.pconline.com.cn/cpu/reviews/1110/2557474_6.html)
-
 77. \[www.mobile01.com/newsdetail.php?id=11386 AMD Phenom II X6 1100T與同門FX-8120效能解析\] - Mobile01
-
 78. [AMD Bulldozer FX-8150 vs i7-2600K完整效能測試](http://chinese.vr-zone.com/2984/bulldozer-2600k-10122011/) - VR-Zone中文版
-
 79.
-
 80.
-
 81. [全方位认识推土机：AMD FX-8120最全面解析与评测_文库_PC绝对领域](http://www.pceva.com.cn/article-221-5.html)
-
 82. [终极版超频FX-8150同i7-2600K对比测试](http://tech.sina.com.cn/h/2011-10-18/08456192566_13.shtml) - 新浪數碼
-
 83.
-
 84. [对决推土机、APU：Core i7-2700K全方位评测-Intel,Core i7-2700K,i7-2600K,推土机,FX-8150,对比，评测-驱动之家](http://news.mydrivers.com/1/207/207379_all.htm)
-
 85. [AMD Bulldozer FX-8150 vs i7-2600K完整效能測試](http://chinese.vr-zone.com/2984/bulldozer-2600k-10122011/8/)，Page8 - VR-Zone中文版
-
 86. [全方位认识推土机：AMD FX-8120最全面解析与评测](http://www.pceva.com.cn/article-221-1.html) - pceva.com.cn
-
 87. [史上最高频！AMD推土机FX-4170性能测试](http://www.inpai.com.cn/doc/hard/171861_6.htm) - 硬派
-
 88. [AMD FX Vs. Intel Core i3: Exploring Game Performance With Cheap GPUs](http://www.tomshardware.com/reviews/fx-4100-core-i3-2100-gaming-benchmark,3136.html) - Tom's Hardware.com
-
 89. [同样的显卡：i3-2100、FX-4100谁更快？](http://news.mydrivers.com/1/219/219007_all.htm)  - 驅動之家
-
 90. [结果竟然是？AMD六核推土机FX-6100评测](http://diy.pconline.com.cn/cpu/reviews/1111/2594434_all.html) - pconline.com.cn
-
 91.
 92.
-
 93. [AMD Trinity On The Desktop: A10, A8, And A6 Get Benchmarked\!](http://www.tomshardware.com/reviews/a10-5800k-a8-5600k-a6-5400k,3224.html) - Tom’s hardware
-
 94. [大起底！AMD台式机版Trinity APU首测](http://news.mydrivers.com/1/231/231475_all.htm) - 驅動之家翻譯自Tom's Hardware
-
 95. [屢獲獎的新款AMD Opteron™處理器打造全球頂尖超級電腦](http://www.amd.com/tw/aboutamd/newsroom/pressreleases/Pages/2011111700NR.aspx)
-
 96.
-
 97.
-
 98. [在【更新】以最佳化AMD Bulldozer Cpu的效能](http://support.microsoft.com/kb/2592546/)
-
 99.
-
 100.
 101.
-
 102. [安裝Windows 7更新檔，實測AMD FX處理器效能增加多少？ - 第3頁](http://www.techbang.com/posts/8635-free-amd-fx-real-combat-effectiveness?page=3) - T客邦
-
 103.
 104.
-
 105. [AMD Bulldozer CPU beats world record again achieving 8.461GHz](http://www.geek.com/articles/chips/amd-bulldozer-cpu-beats-world-record-again-achieving-8-461ghz-2011111/)
-
 106. [AMD行動產品Roadmap曝光，2012 Q1 Llano接班人Trinity上場](http://www.techbang.com/posts/7107-roadmap-amd-mobile-product-exposure-2012-q1-llano-successors-trinity-play) - T客邦
-
 107. [AMD下代APU改用「Piledriver」微架構13年升級至28nm進入異類多核心時代](http://www.hkepc.com/7513) - hkepc

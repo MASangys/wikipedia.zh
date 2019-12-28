@@ -72,110 +72,57 @@ GoDaddy於12月23日宣布不再支持SOPA，並發表了一份聲明，指出�
 [Category:美国公司](https://zh.wikipedia.org/wiki/Category:美国公司 "wikilink") [Category:虚拟主机](https://zh.wikipedia.org/wiki/Category:虚拟主机 "wikilink") [Category:证书颁发机构](https://zh.wikipedia.org/wiki/Category:证书颁发机构 "wikilink") [Category:2015年IPO](https://zh.wikipedia.org/wiki/Category:2015年IPO "wikilink")
 
 1.
-
 2.
-
 3.   Technology Crossover Ventures|accessdate=2016-08-04|work=www.tcv.com}}
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.  Take Control of Your Online Presence - GoDaddy|accessdate=2016-08-04|work=GoDaddy}}
-
 16.
-
 17.
-
 18.  Domain Name News & Views|accessdate=2016-08-04|date=2010-08-17|work=Domain Name Wire {{\!}} Domain Name News & Views}}
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.  Inc.com|accessdate=2016-08-04|work=www.inc.com}}
-
 26.
-
 27.
-
 28.  When Work Works a national initiative to help organizations of all sizes and types become more successful by transforming the way they view and adopt effective and flexible workplaces. |accessdate=2016-08-04 |work=whenworkworks.org |deadurl=yes |archiveurl=<https://web.archive.org/web/20120113084338/http://whenworkworks.org/awards/2011winners.html> |archivedate=2012-01-13 }}
-
 29.  When Work Works a national initiative to help organizations of all sizes and types become more successful by transforming the way they view and adopt effective and flexible workplaces. |accessdate=2016-08-04 |work=www.whenworkworks.org |deadurl=yes |archiveurl=<https://web.archive.org/web/20110813185933/http://www.whenworkworks.org/about/index.html> |archivedate=2011-08-13 }}
-
 30.
-
 31.
-
 32.
-
 33.  Domain Name News & Views|accessdate=2016-08-04|date=2012-02-23|work=Domain Name Wire {{\!}} Domain Name News & Views}}
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.  TechCrunch|accessdate=2016-08-04}}
-
 45.
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.

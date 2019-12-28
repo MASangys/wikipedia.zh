@@ -40,7 +40,7 @@ KV-2戰車雖然有更加強大的火力和裝甲，但車體仍然采用KV-1的
 <!-- end list -->
 
   -
-    [戰遊網](../Page/戰遊網.md "wikilink")的[大型多人線上遊戲](https://zh.wikipedia.org/wiki/大型多人線上遊戲 "wikilink")《[戰車世界](https://zh.wikipedia.org/wiki/戰車世界 "wikilink")》與其手機平台版《[戰車世界：閃擊戰](https://zh.wikipedia.org/wiki/戰車世界：閃擊戰 "wikilink")》中做為[苏联](../Page/苏联.md "wikilink")科技樹VI階[重型戰車登場](https://zh.wikipedia.org/wiki/重型戰車 "wikilink")，雖然裝彈時間長、瞄準速度慢，但由於其驚人的火力，在轉角多的[巷戰往往是令人望而生畏的角色](https://zh.wikipedia.org/wiki/巷戰 "wikilink")，不少玩家在前方轉角發現該車的身影時都會相當提防，不敢貿然上前。也因為彈道常常偏移導致無法準確擊中敵方，因此被戲稱是「需要信仰」的車輛。因其強大火力與震懾力，愛好使用口徑為152mm坦克的玩家則立「152神教」，此坦克則被稱為「教主」
+    [戰遊網](../Page/戰遊網.md "wikilink")的[大型多人線上遊戲](https://zh.wikipedia.org/wiki/大型多人線上遊戲 "wikilink")《[戰車世界](https://zh.wikipedia.org/wiki/戰車世界 "wikilink")》與其手機平台版《[戰車世界：閃擊戰](https://zh.wikipedia.org/wiki/戰車世界：閃擊戰 "wikilink")》中做為[苏联](../Page/苏联.md "wikilink")科技樹VI階[重型戰車登場](https://zh.wikipedia.org/wiki/重型戰車 "wikilink")，雖然裝彈時間長、瞄準速度慢，但由於其驚人的火力，在轉角多的[巷戰往往是令人望而生畏的角色](https://zh.wikipedia.org/wiki/巷戰 "wikilink")，不少玩家在前方轉角發現該車的身影時都會相當提防，不敢貿然上前。也因為彈道常常偏移導致無法準確擊中敵方，因此被戲稱是「需要信仰」的車輛。因其強大火力與震懾力，愛好使用口徑為152mm坦克的玩家則立「152神教」，此坦克則被稱為「教主」。
 
 <!-- end list -->
 
@@ -63,9 +63,9 @@ KV-2戰車雖然有更加強大的火力和裝甲，但車體仍然采用KV-1的
 
 ## 外部連結
 
-  - OnWar specifications: [KV-1 M39](http://www.onwar.com/tanks/ussr/fkv1m39.htm), [KV-1e M40](http://www.onwar.com/tanks/ussr/fkv1em40.htm), [KV-1 M41](http://www.onwar.com/tanks/ussr/fkv1m41.htm), [KV-1S](http://www.onwar.com/tanks/ussr/fkv1s.htm), [KV-85](http://www.onwar.com/tanks/ussr/fkv85.htm), [KV-2](http://www.onwar.com/tanks/ussr/fkv2m40.htm)
+  - OnWar specifications: [KV-1 M39](https://web.archive.org/web/20120716182106/http://www.onwar.com/tanks/ussr/fkv1m39.htm), [KV-1e M40](https://web.archive.org/web/20110513235307/http://www.onwar.com/tanks/ussr/fkv1em40.htm), [KV-1 M41](https://web.archive.org/web/20110513235314/http://www.onwar.com/tanks/ussr/fkv1m41.htm), [KV-1S](https://web.archive.org/web/20120716182200/http://www.onwar.com/tanks/ussr/fkv1s.htm), [KV-85](https://www.webcitation.org/67FVt9hQA?url=http://www.onwar.com/tanks/ussr/fkv85.htm), [KV-2](https://web.archive.org/web/20120716182235/http://www.onwar.com/tanks/ussr/fkv2m40.htm)
   - Russian Battlefield: [KV-1](http://www.battlefield.ru/index.php?option=com_content&task=view&id=46&Itemid=50&lang=en), [KV-1S](http://www.battlefield.ru/index.php?option=com_content&task=view&id=47&Itemid=50&lang=en), [KV-2](http://www.battlefield.ru/index.php?option=com_content&task=view&id=48&Itemid=50&lang=en), [KV-8](http://www.battlefield.ru/index.php?option=com_content&task=view&id=50&Itemid=50&lang=en), [KV-85](http://www.battlefield.ru/index.php?option=com_content&task=view&id=49&Itemid=50&lang=en), [KV-3](http://www.battlefield.ru/index.php?option=com_content&task=view&id=51&Itemid=48&lang=en)
-  - [World War II Vehicles](http://www.wwiivehicles.com/ussr/tanks-heavy/kv-1.asp)
+  - [World War II Vehicles](https://web.archive.org/web/20090909015108/http://www.wwiivehicles.com/ussr/tanks-heavy/kv-1.asp)
   - [Walkaround KV-85 from Avtovo, Saint-Petersburg (Russia)](http://scalemodels.ru/modules/photo/viewcat_cid_219.html)
   - [KV tanks](http://legion-afv.narod.ru/KV.html), KV tanks in museum and monuments
 

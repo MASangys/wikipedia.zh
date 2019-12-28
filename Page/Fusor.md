@@ -16,7 +16,7 @@ Fusor這個裝置包含兩個用金屬線作成的籠子，外層的金屬籠子
 
 這種核融合裝置的設計概念，最早由[費羅·法恩斯沃斯](../Page/費羅·法恩斯沃斯.md "wikilink")提出，使用[惯性静电约束](../Page/惯性静电约束.md "wikilink")（IEC）的原理。費羅·法恩斯沃斯在自己的實驗室中進行設計，並取得專利。[惯性静电约束](../Page/惯性静电约束.md "wikilink")這個名稱也是由他選定。
 
-1949年，[ITT公司](../Page/ITT公司.md "wikilink")併購了[法恩斯沃斯實驗室](https://zh.wikipedia.org/wiki/法恩斯沃斯實驗室 "wikilink")，核融合計畫被認為無利可圖，因此遭到擱置。
+1949年，[ITT公司](../Page/ITT公司.md "wikilink")併購了[法恩斯沃斯實驗室](https://zh.wikipedia.org/wiki/费罗·法恩斯沃斯 "wikilink")，核融合計畫被認為無利可圖，因此遭到擱置。
 
 1962年，[費羅·法恩斯沃斯](../Page/費羅·法恩斯沃斯.md "wikilink")提出一項專利，以線柵間的電壓差，來牽引離子，使離子加速到發生核融合。
 
@@ -102,7 +102,7 @@ Fusor這個裝置包含兩個用金屬線作成的籠子，外層的金屬籠子
 2.  Robert L. Hirsch, "Inertial-Electrostatic Confinement of Ionized Fusion Gases", Journal of Applied Physics, v. 38, no. 7, October 1967
 3.  P. T. Farnsworth (private communication, 1964)
 4.  "On the Inertial Electrostatic Confinement of a Plasma" William Elmore, James Tuck and Ken Watson, The Physics of Fluids, January 30, 1959
-5.  ["Overview of IEC Research at Tokyo Tech."](http://www.iae.kyoto-u.ac.jp/beam/iec2013/presentation/1-2.pdf) Eiki Hotta, 15th annual US-Japan IEC workshop, October 7, 2013
+5.  ["Overview of IEC Research at Tokyo Tech."](http://www.iae.kyoto-u.ac.jp/beam/iec2013/presentation/1-2.pdf)  Eiki Hotta, 15th annual US-Japan IEC workshop, October 7, 2013
 6.  R.P. Ashley, G.L. Kulcinski, J.F. Santarius, S.K. Murali, G. Piefer, 18th IEEE/NPSS Symposium on Fusion Engineering, IEEE \#99CH37050, (1999)
 7.  "Preliminary Results of Experimental Studies from Low Pressure Inertial Electrostatic Confinement Device", A. S. B, Y. A, A. A, *Journal of Fusion Energy*, May 2013
 8.

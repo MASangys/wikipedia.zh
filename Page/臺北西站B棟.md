@@ -33,7 +33,7 @@ R7：館前路\]\]
 [Taipei_Travel_Plaza_stone_20170131.jpg](https://zh.wikipedia.org/wiki/File:Taipei_Travel_Plaza_stone_20170131.jpg "fig:Taipei_Travel_Plaza_stone_20170131.jpg")
 
   - 2010年:配合舊臺北東站改名臺北西站A棟，本站同步更名，暫時由本站發車之路線同時搬回原站。
-  - 2016年9月28日5時:配合[臺北市政府](../Page/臺北市政府.md "wikilink")[西區門戶計畫](http://tpstation.com.tw/)，正式遷入[臺北轉運站](https://zh.wikipedia.org/wiki/臺北轉運站 "wikilink")。
+  - 2016年9月28日5時:配合[臺北市政府](../Page/臺北市政府.md "wikilink")[西區門戶計畫](https://zh.wikipedia.org/wiki/西區門戶計畫 "wikilink")，正式遷入[臺北轉運站](https://zh.wikipedia.org/wiki/臺北轉運站 "wikilink")。
   - 2016年11月1日:臺北市政府拆除臺北西站B棟，原址改為[臺北行旅廣場](../Page/臺北行旅廣場.md "wikilink")與以「臺北車站(忠孝)」為名的公車停靠處，臺北西站B棟也就此走入歷史。
 
 ## 停靠路線

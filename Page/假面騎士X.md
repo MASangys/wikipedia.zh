@@ -8,7 +8,7 @@
 
 ## 主要人物
 
-  - **神敬介/假面骑士X**
+  - **神敬介/假面骑士X**（香港配音：[林保全](../Page/林保全.md "wikilink")）
 
 入讀沖繩水產大學的青年，在劍道和空手道等技術上是有段數的人仕，母親生下他後便死去，父親則是人類工學權威以及改造人研究者**神啓太郎**。
 
@@ -56,9 +56,9 @@
 
 變身方法2 提昇力量後的方法，先把雙手向上伸，再喊「大・變・身」擺一個**大**字姿勢，左手回腰，右手向左斜伸，再跳躍便完成。 而不必要再把腰帶間的道具裝上面部。
 
-武器有收藏於腰帶內，能變作警棒/軟劍/長繩/長棒四種型態的ライドル。
+武器有收藏於腰帶內，能變作警棒/軟劍/長繩/長棒四種型態的萊特爾杖（ライドルスティック）。
 
-必殺技是能踢碎42吋厚鐵板的**X飛踢**，提昇力量後則是投技**真空地獄車**。
+必殺技是能踢碎42吋厚鐵板的**X飛踢**，提昇力量後則是投技**真空地獄車**。而真空地狱车和[破坏之王的无敌风火轮像](https://zh.wikipedia.org/wiki/破坏之王 "wikilink")。
 
 ### G.O.D.秘密机关
 
@@ -108,7 +108,7 @@
 参考自历史人物
 
   - ジンギスカンコンドル/[成吉思汗](../Page/成吉思汗.md "wikilink")（Ghengis-Khan Condor）
-  - ガマゴエモン/[石川五衛門](https://zh.wikipedia.org/wiki/石川五衛門 "wikilink")（Toad Goemon）
+  - ガマゴエモン/[石川五右卫门](https://zh.wikipedia.org/wiki/石川五右卫门 "wikilink")（Toad Goemon）
   - サソリジェロニモ/[傑羅尼莫](../Page/傑羅尼莫.md "wikilink")（Scorpion Geronimo）
   - カブト虫ルパン/[亚森·罗宾](../Page/亚森·罗宾.md "wikilink")（Rhinoceros Beetle Lupin）
   - ヒトデヒットラー/[希特勒](https://zh.wikipedia.org/wiki/希特勒 "wikilink")（Starfish Hilter）
@@ -118,7 +118,7 @@
   - トカゲバイキング/[维京人](https://zh.wikipedia.org/wiki/维京人 "wikilink")（Lizard Viking）
   - アリカポネ/[艾尔·卡彭](https://zh.wikipedia.org/wiki/艾尔·卡彭 "wikilink")（Ant Capone）
   - ムカデヨウキヒ/[杨贵妃](../Page/杨贵妃.md "wikilink")（Centipede Yang GuiFei）
-  - タイガーネロ/[尼路](https://zh.wikipedia.org/wiki/尼路 "wikilink")（Tiger Nero）
+  - タイガーネロ/[尼禄](../Page/尼禄.md "wikilink")（Tiger Nero）
   - サソリジェロニモJr/[傑羅尼莫](../Page/傑羅尼莫.md "wikilink")（Scorpion Geronimo Jr）
   - コウモリフランケン[弗兰肯斯坦](https://zh.wikipedia.org/wiki/弗兰肯斯坦 "wikilink")（Bat Franken）
 

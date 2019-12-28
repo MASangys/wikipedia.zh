@@ -43,8 +43,6 @@ Gnote支持外掛程式，以增加功能，例如：
 [Category:免費筆記軟體](https://zh.wikipedia.org/wiki/Category:免費筆記軟體 "wikilink") [Category:個人維基](https://zh.wikipedia.org/wiki/Category:個人維基 "wikilink")
 
 1.
-
 2.
 3.
-
 4.

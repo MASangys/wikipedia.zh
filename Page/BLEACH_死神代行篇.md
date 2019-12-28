@@ -33,24 +33,14 @@
 [Category:BLEACH](https://zh.wikipedia.org/wiki/Category:BLEACH "wikilink") [Category:日本動畫集數列表](https://zh.wikipedia.org/wiki/Category:日本動畫集數列表 "wikilink")
 
 1.
-
 2.  Viz media在Viz网站上提供了关于BLEACH第一套DVD集的消息。
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.

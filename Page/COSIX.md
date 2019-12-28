@@ -50,33 +50,21 @@ COSIX有与之配套的数据库管理系统COBASE，语言编译系统COLANG共
 [Category:中國作業系統](https://zh.wikipedia.org/wiki/Category:中國作業系統 "wikilink") [Category:操作系统](https://zh.wikipedia.org/wiki/Category:操作系统 "wikilink") [Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
 7.
-
 8.
-
 9.
 10.
 11.
 12.
-
 13.
 14.
-
 15.
-
 16.
-
 17.
-
 18. 与1系列架构不同
-
 19. 64位系统

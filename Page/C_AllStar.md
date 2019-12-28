@@ -1,13 +1,17 @@
 **C AllStar**是一隊[香港樂壇的四人](../Page/香港音樂.md "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子音樂组合 "wikilink")，於2009年成軍，2010年正式加入樂壇，成員包括**[吳崇銘](../Page/吳崇銘.md "wikilink")（**King**）、[陳健安](../Page/陳健安.md "wikilink")（**On仔**）、[梁釗峰](../Page/梁釗峰.md "wikilink")（**釗峰**）**和**[何建曦](../Page/何建曦.md "wikilink")（**Jase**）**，四位成員均是**「私人國」**（**Kingdom C**）\[1\]所舉辦之歌唱比賽「星投大戰\[2\]」的最後四強，亦是不同大專歌唱比賽的冠軍。四人均有獨特聲線及唱功，以唱[無伴奏合唱](../Page/無伴奏合唱.md "wikilink")（**A Cappella**）為人所熟悉。其音樂作品以[廣東歌為主](https://zh.wikipedia.org/wiki/廣東歌 "wikilink")，歌題材多數是散播正能量和反映當今香港社會現象，其官方歌迷名稱為「**C AllFans**」。
 
-**C AllStar** 為最具知名度的千禧年後出道香港組合，眾多歌曲當中最為人熟悉的《**[天梯](../Page/天梯_\(歌曲\).md "wikilink")**》是第三十三屆[十大中文金曲頒獎音樂會](../Page/十大中文金曲頒獎音樂會.md "wikilink")十大金曲之一，是史上唯一獲金曲獎的新人組合。截至2018年9月，《[**天梯**](https://www.youtube.com/watch?v=eBvarz3DY00)》原裝MV在[YouTube](../Page/YouTube.md "wikilink")的點擊率超過1800萬次，成為千禧年後原創廣東歌之冠。
+C AllStar在2017年起開始減少活躍，四名成員各自單飛發展，其中釗鋒及On仔先後於2018年及2019年展開個人企劃。成軍八年期間，C AllStar成為香港組合界的領軍份子，曾經三度奪得叱咤樂壇組合金獎（2011、2013、2016）及四度奪得勁歌金曲組合金獎（2014-2017），樂壇成績備受肯定。
+
+C AllStar曾經推出多首膾炙人口的歌曲，其中最為人熟悉的《**[天梯](../Page/天梯_\(歌曲\).md "wikilink")**》，是2010年[十大中文金曲頒獎禮十大金曲之一](../Page/十大中文金曲頒獎音樂會.md "wikilink")，是史上唯一獲金曲獎的新人組合。截至2018年9月，《[**天梯**](https://www.youtube.com/watch?v=eBvarz3DY00)》原裝MV在[YouTube](../Page/YouTube.md "wikilink")的點擊率超過1800萬次，成為千禧年後原創廣東歌之冠。
 
 ## 成員
 
 ### 吳崇銘（皇上）
 
-[吳崇銘](../Page/吳崇銘.md "wikilink")（，），中學時期就讀北大附中（北京大學附屬中學深圳分校），大學畢業於[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")[私立華聯學院音樂系](https://zh.wikipedia.org/wiki/私立華聯學院 "wikilink")。 在組合中擔任主唱、高音和唱及[Beatbox](https://zh.wikipedia.org/wiki/Beatbox "wikilink")。主唱歌曲包括《大雨傾城》（未被收錄在任何專輯）、《直到你肯定》、《混沌》。其中《混沌》是他第一首擔任作曲和編曲的作品。近年開始創作[電子舞曲](../Page/電子舞曲.md "wikilink")（Electronic Dance Music (簡稱：EDM)）音樂，《請勿靠近車門》是他第一首為專輯《生於斯》創作的電子音樂間奏作品。
+[吳崇銘](../Page/吳崇銘.md "wikilink")（，），中學時期就讀北大附中（北京大學附屬中學深圳分校），大學畢業於[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")[私立華聯學院音樂系](https://zh.wikipedia.org/wiki/私立華聯學院 "wikilink")。
+皇上在組合中擔任主唱、高音和唱及[Beatbox](https://zh.wikipedia.org/wiki/Beatbox "wikilink")。主唱歌曲包括《大雨傾城》（未被收錄在任何專輯）、《直到你肯定》、《混沌》。其中《混沌》是他第一首擔任作曲和編曲的作品。近年開始創作[電子舞曲](../Page/電子舞曲.md "wikilink")（Electronic Dance Music (簡稱：EDM)）音樂，《請勿靠近車門》是他第一首為專輯《生於斯》創作的電子音樂間奏作品。
 2016年獲邀參與拍攝一齣澳門電影《[那一年，我17](../Page/那一年，我17.md "wikilink")》\[3\]，在電影中擔任第二男主角。
+
 2017年於內地荔枝音樂節以[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink") 身份演出，被大會稱為「亞洲十大華人DJ 及 亞洲電音王子」\[4\]。在10月C AllStar於紅館舉辦之演唱會中負責為所有舞蹈表演的音樂重新編曲，更以**DJ King**身份表演打碟，圓了他在紅館舞台打碟的夢想。
 2018年他以**[DJ King](https://zh.wikipedia.org/wiki/DJ_King "wikilink")**名義正式於香港EDM界出道，期後亦獲得不同單位邀請其在活動中演出，於同年6月9日他更"香港EDM界新星"名義獲邀於《[Road to Ultra](https://zh.wikipedia.org/wiki/超世代音樂節 "wikilink") 香港 2018》國際大型電子音樂節上表演\[5\]。
 
@@ -107,6 +111,12 @@
 2017年1月7日，四子在[TVB舉辦之](https://zh.wikipedia.org/wiki/TVB "wikilink")《2016年度勁歌金曲頒獎典禮》獲獎期間突然宣佈將於10月紅館個唱完成後C AllStar就會暫別樂壇，之後各人將會作獨立發展，但多次強調他們四位成員之間並沒有不和。2月14日推出全情歌專輯《[LoveaHolic Vol.1](https://zh.wikipedia.org/wiki/LoveaHolic_Vol.1 "wikilink")》，由黃偉文包辦所有歌曲作詞部份。此專輯將分成兩張迷你專輯發行。4月12日 C AllStar 公佈\<Loveaholic Vol.2 – C AllStar’s Best Solo Selection\>計劃，由於今年10月紅館演唱會將會是C AllStar 最後一個演唱會，所以節目非常緊湊，監製決定只能得一個人有Solo Time。因為名額只有一個，所以只能用比賽形式公平地去爭取這機會。C AllStar將會同日各自推出收錄於5月推出的EP 《[Loveaholic Vol. 2](https://zh.wikipedia.org/wiki/Loveaholic_Vol._2 "wikilink")》內的獨唱單曲，並在4月14日至5月13日期間，C AllStar 更會親自主導整個宣傳企劃在四個不同音樂平台去推廣自己的單曲，以贏取樂迷對單曲的喜愛，五月中將會在網上由樂迷投票選出心目中的Best Solo，勝出者將可贏取紅館10分鐘Solo機會，最後結果由Jase獲得3001票，以一票之差力壓On仔勝出今次比賽。
 
 2017年10月，於香港紅磡體育館舉行一連兩場的演唱會，於演唱會中邀請了楊千嬅及鄭秀文擔任嘉賓，並於演場會完結後正式休團\[12\]。
+
+### 休團時期：2017年年末～
+
+2019年C AllStar 曾限定重組一次，主要響應[商業電台邀請](https://zh.wikipedia.org/wiki/商業電台 "wikilink")，參與903舉辦的一個以歌曲替港人打氣活動「風雨中抱緊你」，因此四人決定作一次短暫合體，以C AllStar名義推出一首全新單曲《沒有剩你一個》。
+
+2019年11月3日C AllStar與一眾歌迷舉辦慶祝成軍10週年派對及一年一度的粉絲同樂會。宴會中他們的監製阿簡表示陳健安與梁釗峰將會於2020年舉辦個人演唱會。另外，SoulJase 與Dj King的個人單曲亦即將推出，並答應歌迷每年平安夜一定會繼續多年來的習慣，到尖沙咀報佳音。
 
 ## 音樂作品\[13\]
 
@@ -955,12 +965,18 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
+<td><p>2019年</p></td>
 <td><p><strong>《<a href="https://www.youtube.com/watch?v=OGjsUNkWuHM">沒有剩你一個</a>》</strong></p></td>
 <td><p><strong><a href="../Page/叱咤903.md" title="wikilink">叱咤903</a></strong><br />
 <strong>「風雨中抱緊你」</strong>活動歌曲<br />
 此為休團後首次以C AllStar 名義推出的新歌<ref><a href="https://www.hk01.com/眾樂迷/348664/">https://www.hk01.com/眾樂迷/348664/</a></p>
 <p><code>C AllStar守時代紀錄者責任]</code></ref></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>《天知》</strong></p></td>
+<td><p>TVB電視劇《<a href="../Page/解決師.md" title="wikilink">解決師</a>》主題曲<br />
+陳健安、梁釗峰 合唱</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -969,7 +985,7 @@
 
 | 推出年份  | 合作單位                                                    | 歌曲名稱                | 專輯名稱       |
 | ----- | ------------------------------------------------------- | ------------------- | ---------- |
-| 2011年 | **[區新明](https://zh.wikipedia.org/wiki/區新明 "wikilink")** | **《何方也大同》**         | 時間還早       |
+| 2011年 | **[區新明](../Page/區新明.md "wikilink")**                    | **《何方也大同》**         | 時間還早       |
 | 2013年 | **[MastaMic](../Page/MastaMic.md "wikilink")**          | **《Shine》**         | 流行反擊戰      |
 | 2015年 | **[林一峰](https://zh.wikipedia.org/wiki/林一峰 "wikilink")** | **《潘彼得後傳》**         | Crossroad  |
 | 2017年 | **[MastaMic](../Page/MastaMic.md "wikilink")**          | **《Backseat Love》** | MASTAPIECE |
@@ -1341,7 +1357,7 @@ Y劇場</p></td>
 <td><p>演出歌手：<br />
 <strong><a href="https://zh.wikipedia.org/wiki/林一峰" title="wikilink">林一峰</a>，<br />
 <a href="https://zh.wikipedia.org/wiki/林二汶" title="wikilink">林二汶</a>，<br />
-<a href="https://zh.wikipedia.org/wiki/區新明" title="wikilink">區新明</a>，<br />
+<a href="../Page/區新明.md" title="wikilink">區新明</a>，<br />
 C AllStar</strong></p></td>
 </tr>
 <tr class="even">
@@ -2013,7 +2029,7 @@ C AllStar</p></td>
 <p>108分鐘</p></td>
 </tr>
 <tr class="odd">
-<td><p>2019</p></td>
+<td><p>2019年</p></td>
 <td><p><strong><a href="../Page/小Q.md" title="wikilink">小Q</a>[43]</strong></p></td>
 <td><p><a href="../Page/吳崇銘.md" title="wikilink">吳崇銘</a>（客串）<br />
 <a href="../Page/梁釗峰.md" title="wikilink">梁釗峰</a>（客串）</p></td>
@@ -2022,6 +2038,16 @@ C AllStar</p></td>
 <hr></td>
 </tr>
 <tr class="even">
+<td><p><strong><a href="../Page/犯罪現場_(電影).md" title="wikilink">犯罪現場</a></strong></p></td>
+<td><p><a href="../Page/陳健安.md" title="wikilink">陳健安</a> - 內務部探員<br />
+(合演)</p></td>
+<td><p>講述劫匪汪新元帶領一伙人搶劫了珠寶店。但一個月後，他卻陷入了殺害兄弟的案件中。汪新元為了擺脫自己的嫌疑，同時為兄弟報仇，開始了一場追查真兇的行動。</p></td>
+<td><p>犯罪驚悚片</p>
+<hr>
+<p>105分鐘</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>未上映</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/阿索的故事" title="wikilink">阿索的故事</a>[45]</strong></p></td>
 <td><p><a href="../Page/吳崇銘.md" title="wikilink">吳崇銘</a>（客串）<br />
@@ -2163,6 +2189,15 @@ in Concert 2014》<br />
 <td><p>新光戲院大劇場</p></td>
 <td><p>7</p></td>
 </tr>
+<tr class="odd">
+<td><p>2019年<br />
+11月15-24日</p></td>
+<td><p><strong>《無法成長的我們》<br />
+[52]</strong></p></td>
+<td><p><a href="../Page/梁釗峰.md" title="wikilink">梁釗峰</a></p></td>
+<td><p>沙田大會堂</p></td>
+<td><p>11</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -2183,7 +2218,7 @@ in Concert 2014》<br />
 <tbody>
 <tr class="odd">
 <td><p>2012年</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/內蒙的紅月亮" title="wikilink">內蒙的紅月亮</a></strong>[52]</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/內蒙的紅月亮" title="wikilink">內蒙的紅月亮</a></strong>[53]</p></td>
 <td><p>10集</p></td>
 <td><p>主持</p></td>
 <td><p>Jase因腳部受傷，沒辦法隨隊到內蒙進行拍攝，只能拍攝在香港出發前及回港後的片段。</p></td>
@@ -2192,7 +2227,7 @@ in Concert 2014》<br />
 <td><p>2017年</p></td>
 <td><p><strong><a href="../Page/C_AllStar泰空曼遊.md" title="wikilink">C AllStar<br />
 泰空曼遊</a></strong><br />
-[53]</p></td>
+[54]</p></td>
 <td><p>4集</p></td>
 <td><p>主持</p></td>
 <td><p>C AllStar 休團前最後一個拍攝的旅遊節目</p></td>
@@ -2219,7 +2254,7 @@ in Concert 2014》<br />
 <td><p>2018年<br />
 3月3日</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/:zh-yue:聽𠵱啲Music" title="wikilink">聽𠵱啲Music</a></strong><br />
-[54]</p></td>
+[55]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/商業電台" title="wikilink">商業電台</a><a href="../Page/叱咤903.md" title="wikilink">叱咤903</a></p></td>
 <td><p>主持，歌曲Remix，Live Set<br />
 '''(<a href="../Page/吳崇銘.md" title="wikilink">DJ King</a>)</p></td>
@@ -2856,7 +2891,7 @@ K歌之王</p></td>
 <tr class="odd">
 <td><p>2014年</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/大英雄聯盟" title="wikilink">大英雄聯盟</a><br />
-(Big Hero 6)[55]</strong></p></td>
+(Big Hero 6)[56]</strong></p></td>
 <td><p><strong><a href="../Page/吳崇銘.md" title="wikilink">吳崇銘</a>-濱田廣<br />
 <a href="../Page/梁釗峰.md" title="wikilink">梁釗峰</a>-醫神<br />
 <a href="../Page/陳健安.md" title="wikilink">陳健安</a>-費德<br />
@@ -2868,7 +2903,7 @@ K歌之王</p></td>
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>'''<a href="https://zh.wikipedia.org/wiki/臥底巨星" title="wikilink">臥底巨星</a><br />
-[56]</p></td>
+[57]</p></td>
 <td><p><strong><a href="../Page/梁釗峰.md" title="wikilink">梁釗峰</a>-鐵柱<br />
 (<a href="../Page/李榮浩.md" title="wikilink">李榮浩</a>飾)</strong></p></td>
 <td><p>動作喜劇</p></td>
@@ -2913,7 +2948,7 @@ King<br />
 <p><a href="https://zh.wikipedia.org/wiki/商業電台" title="wikilink">商業電台</a></p></td>
 <td><center>
 <p><strong><a href="../Page/譚詠麟.md" title="wikilink">譚詠麟</a></strong><br />
-入行40週年紀念廣播劇[57]</p></td>
+入行40週年紀念廣播劇[58]</p></td>
 </tr>
 </tbody>
 </table>
@@ -2938,7 +2973,7 @@ King<br />
 <td><center>
 <p><strong>C AllStar</strong></p></td>
 <td><center>
-<p>MV[58]</p></td>
+<p>MV[59]</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -2957,7 +2992,7 @@ King<br />
 <a href="../Page/何建曦.md" title="wikilink">何建曦</a> -<br />
 勞比度</p></td>
 <td><center>
-<p>MV[59]</p></td>
+<p>MV[60]</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -2976,7 +3011,7 @@ IronMan<br />
 超人先生</p></td>
 <td><center>
 <p>萬聖節版<br />
-MV[60]</p></td>
+MV[61]</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -2986,7 +3021,7 @@ MV[60]</p></td>
 <td><center>
 <p>（<a href="../Page/陳健安.md" title="wikilink">陳健安</a>）</p></td>
 <td><center>
-<p>MV[61]</p></td>
+<p>MV[62]</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -2996,7 +3031,7 @@ MV[60]</p></td>
 <td><center>
 <p>（<a href="../Page/陳健安.md" title="wikilink">陳健安</a>）</p></td>
 <td><center>
-<p>MV[62]</p></td>
+<p>MV[63]</p></td>
 </tr>
 </tbody>
 </table>
@@ -3015,26 +3050,26 @@ MV[60]</p></td>
 <tbody>
 <tr class="odd">
 <td><p>2017年7月7日</p></td>
-<td><p>《茂名荔枝音樂節》[63]</p></td>
+<td><p>《茂名荔枝音樂節》[64]</p></td>
 <td><p><a href="../Page/吳崇銘.md" title="wikilink">吳崇銘</a></p></td>
 <td><p>廣州茂名<br />
 浪漫海岸</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年11月4日</p></td>
-<td><p>《OUTLOUD After Party》[64]</p></td>
+<td><p>《OUTLOUD After Party》[65]</p></td>
 <td><p><a href="../Page/吳崇銘.md" title="wikilink">吳崇銘</a></p></td>
 <td><p>Kiss Manner</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年6月9日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/超世代音樂節" title="wikilink">Road to Ultra</a> 香港 2018》[65]</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/超世代音樂節" title="wikilink">Road to Ultra</a> 香港 2018》[66]</p></td>
 <td><p><a href="../Page/吳崇銘.md" title="wikilink">吳崇銘</a></p></td>
 <td><p>香港亞洲博覽館</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年10月18日</p></td>
-<td><p>《Exchange Asia <a href="https://en.m.wikipedia.org/wiki/Amsterdam_Dance_Event">Amsterdam Dance Event</a> 2018》[66]</p></td>
+<td><p>《Exchange Asia <a href="https://en.m.wikipedia.org/wiki/Amsterdam_Dance_Event">Amsterdam Dance Event</a> 2018》[67]</p></td>
 <td><p><a href="../Page/吳崇銘.md" title="wikilink">吳崇銘</a></p></td>
 <td><p>Suzy Wong</p></td>
 </tr>
@@ -3163,9 +3198,9 @@ MV[60]</p></td>
 
 <!-- end list -->
 
-  - Star Cinema\[67\]
+  - Star Cinema\[68\]
   - 豐澤
-  - 能得利\[68\]
+  - 能得利\[69\]
   - 佐丹奴Giordano - Pass the Torch, Play it Forward
 
 <!-- end list -->
@@ -3176,7 +3211,7 @@ MV[60]</p></td>
 
   - 豐澤
   - Star Cinema
-  - 能得利\[69\]
+  - 能得利\[70\]
   - Vita Space
   - Skechers
 
@@ -3195,7 +3230,7 @@ MV[60]</p></td>
 
 <!-- end list -->
 
-  - 港鐵\[70\]
+  - 港鐵\[71\]
 
 <!-- end list -->
 
@@ -3203,7 +3238,7 @@ MV[60]</p></td>
 
 <!-- end list -->
 
-  - 長實集團旗推出的樓盤《海之戀》\[71\]
+  - 長實集團旗推出的樓盤《海之戀》\[72\]
   - IPad Pro 香港版廣告系列（旁白：[梁釗峰](../Page/梁釗峰.md "wikilink")）
 
 <!-- end list -->
@@ -3212,7 +3247,7 @@ MV[60]</p></td>
 
 <!-- end list -->
 
-  - 錢家有道-首次代幣發行（ICO）、比特幣（Bitcoin）及其他「加密貨幣」廣告系列（[梁釗峰](../Page/梁釗峰.md "wikilink")）\[72\]
+  - 錢家有道-首次代幣發行（ICO）、比特幣（Bitcoin）及其他「加密貨幣」廣告系列（[梁釗峰](../Page/梁釗峰.md "wikilink")）\[73\]
 
 ## 參與相展
 
@@ -3232,7 +3267,7 @@ MV[60]</p></td>
 <tbody>
 <tr class="odd">
 <td><p><strong>Polaroid Africa</strong><br />
-[73]</p></td>
+[74]</p></td>
 <td><p><a href="../Page/陳健安.md" title="wikilink">陳健安</a></p></td>
 <td><p>-</p></td>
 <td><p>以埃塞俄比亞的人、動物及農作物為拍攝對象，透過25張寶麗來紀錄了當地的精神面貌</p></td>
@@ -3241,7 +3276,7 @@ MV[60]</p></td>
 <tr class="even">
 <td><p><strong>SEASON X SPCA<br />
 “MY BEST FRIENDS”<br />
-攝影展</strong>[74]</p></td>
+攝影展</strong>[75]</p></td>
 <td><p>-</p></td>
 <td><p><a href="../Page/陳健安.md" title="wikilink">陳健安</a><br />
 <a href="../Page/梁釗峰.md" title="wikilink">梁釗峰</a></p></td>
@@ -3250,7 +3285,7 @@ MV[60]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>PAINFUL REVELATIONS</strong><br />
-[75]</p></td>
+[76]</p></td>
 <td><p>寧炫聲</p></td>
 <td><p>C AllStar</p></td>
 <td><p>以恩師畢業作品《Painful Portraits》(1990) 為靈感，藉痛苦跟恩師互相感應。</p></td>
@@ -3371,15 +3406,16 @@ MV[60]</p></td>
 61.
 62.
 63.
-64. OUTLOUD AFTER PARTY [1](https://www.instagram.com/p/Ba1fb_GjcRE/)
-65. [Road to Ultra 香港 2018](https://www.asiaworld-expo.com/zh-tc/events/detail/road-to-ultra-hong-kong-2018)
-66.
+64.
+65. OUTLOUD AFTER PARTY [1](https://www.instagram.com/p/Ba1fb_GjcRE/)
+66. [Road to Ultra 香港 2018](https://www.asiaworld-expo.com/zh-tc/events/detail/road-to-ultra-hong-kong-2018)
 67.
 68.
 69.
 70.
 71.
-72. [錢家有道-首次代幣發行（ICO）、比特幣（Bitcoin）及其他「加密貨幣」](https://www.thechinfamily.hk/web/tc/financial-products/fintech/ico-bitcoin/index.html)
-73.
+72.
+73. [錢家有道-首次代幣發行（ICO）、比特幣（Bitcoin）及其他「加密貨幣」](https://www.thechinfamily.hk/web/tc/financial-products/fintech/ico-bitcoin/index.html)
 74.
 75.
+76.

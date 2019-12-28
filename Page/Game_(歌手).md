@@ -74,7 +74,7 @@
 
 ## 外部链接
 
-  - [官方网站，由Geffen唱片公司开办](http://www.comptongame.com)
+  - [官方网站，由Geffen唱片公司开办](https://web.archive.org/web/20190823070355/http://www.comptongame.com/)
 
   - [由The Game本人常见的官方网站](https://web.archive.org/web/20090105230943/http://www.thegame360.com//)
 
@@ -88,24 +88,15 @@
 [Category:1979年出生](https://zh.wikipedia.org/wiki/Category:1979年出生 "wikilink") [Category:美国歌手](https://zh.wikipedia.org/wiki/Category:美国歌手 "wikilink") [Category:嘻哈](https://zh.wikipedia.org/wiki/Category:嘻哈 "wikilink") [Category:美國饒舌歌手](https://zh.wikipedia.org/wiki/Category:美國饒舌歌手 "wikilink") [Category:康普顿高中校友](https://zh.wikipedia.org/wiki/Category:康普顿高中校友 "wikilink") [Category:非裔美国男性饶舌歌手](https://zh.wikipedia.org/wiki/Category:非裔美国男性饶舌歌手 "wikilink") [Category:血帮](https://zh.wikipedia.org/wiki/Category:血帮 "wikilink") [Category:21世纪美国饶舌歌手](https://zh.wikipedia.org/wiki/Category:21世纪美国饶舌歌手 "wikilink") [Category:来自洛杉矶的饶舌歌手](https://zh.wikipedia.org/wiki/Category:来自洛杉矶的饶舌歌手 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.   The Game谈论[克里斯·布朗](../Page/克里斯·布朗.md "wikilink")、瑞克·罗斯（Rick Ross），同时证实第四张专辑
-
 6.
-
 7.
 8.
-
 9.
 10.
-
 11.
 12.
-
 13.

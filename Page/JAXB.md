@@ -52,7 +52,7 @@ JAXB 1.0是在[Java社群过程中作为JSR](../Page/JCP.md "wikilink") 31开发
 
 ## 外部链接
 
-  - [JAXB主页](https://jaxb.dev.java.net/)，位于[GlassFish项目](https://zh.wikipedia.org/wiki/GlassFish "wikilink")。
+  - [JAXB主页](https://web.archive.org/web/20070711092851/https://jaxb.dev.java.net/)，位于[GlassFish项目](https://zh.wikipedia.org/wiki/GlassFish "wikilink")。
   - [JAXB前主页](http://java.sun.com/xml/jaxb/index.jsp)
   - [JSR 222](http://www.jcp.org/en/jsr/detail?id=222)（JAXB 2.0）
   - [JSR 31](http://www.jcp.org/en/jsr/detail?id=31)（JAXB 1.0）

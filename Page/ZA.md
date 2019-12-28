@@ -16,7 +16,7 @@
 
 **za**可以指：
 
-  - **[.za](https://zh.wikipedia.org/wiki/.za "wikilink")**； [南非的](https://zh.wikipedia.org/wiki/南非 "wikilink")[國家及地區頂級域](https://zh.wikipedia.org/wiki/國家及地區頂級域 "wikilink")[域名](../Page/域名.md "wikilink")。
+  - **[.za](../Page/.za.md "wikilink")**； [南非的](https://zh.wikipedia.org/wiki/南非 "wikilink")[國家及地區頂級域](https://zh.wikipedia.org/wiki/國家及地區頂級域 "wikilink")[域名](../Page/域名.md "wikilink")。
   - **[壯語](https://zh.wikipedia.org/wiki/壯語 "wikilink")**（[國際標準化組織](../Page/國際標準化組織.md "wikilink")[ISO 639的](../Page/ISO_639.md "wikilink")[語言編碼](https://zh.wikipedia.org/wiki/語言編碼 "wikilink")）
 
 **zA**可以指：

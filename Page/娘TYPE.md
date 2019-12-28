@@ -137,7 +137,7 @@
 
 ## 外部連結
 
-  - [娘TYPE［ニャンタイプ］.com](http://nyantype.com/)（官方网站）
+  - [娘TYPE［ニャンタイプ］.com](https://web.archive.org/web/20121130072419/http://nyantype.com/)（官方网站）
 
 [Category:角川書店的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:角川書店的漫畫雜誌 "wikilink") [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:動畫雜誌](https://zh.wikipedia.org/wiki/Category:動畫雜誌 "wikilink") [Category:月刊Newtype](https://zh.wikipedia.org/wiki/Category:月刊Newtype "wikilink")
 

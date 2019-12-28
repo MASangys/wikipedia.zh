@@ -54,20 +54,14 @@
 
 1.
 2.
-
 3.  [Utopia, Part 3: The World’s Largest Shopping Mall](http://www.pbs.org/pov/utopia/), August 18, 2009, Retrieved February 9, 2010
-
 4.
-
 5.
 6.
 7.
 8.
-
 9.
 10.
 11.
-
 12.
-
 13.

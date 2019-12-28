@@ -43,7 +43,7 @@
 
 ## 電視劇歌曲
 
-  - 「Praan」[徐宛鈴 Ring](../Page/徐凱希.md "wikilink")
+  - 「Praan」[徐凱希 Ring](../Page/徐凱希.md "wikilink")
 
 ## 收視率
 

@@ -45,7 +45,7 @@ X11R4（1989年10月）引入了XDMCP。使用XDMCP时，X服务器必须主动�
 
 也有其他X显示管理器被开发出来，有商业有开源，在基本的显示管理上提供了附加的功能。
 
-  - [Qingy](http://qingy.sourceforge.net/)在X Window中超轻型和可配置的图形化登录管事器（使用[DirectFB](https://zh.wikipedia.org/wiki/DirectFB "wikilink")）
+  - [Qingy](http://qingy.sourceforge.net/)在X Window中超轻型和可配置的图形化登录管事器（使用[DirectFB](../Page/DirectFB.md "wikilink")）
   - `scologin`（由[SCO Open Desktop提供](https://zh.wikipedia.org/wiki/SCO_OpenServer "wikilink")）能检查过期密码和执行一些管理任务
   - [GDM](../Page/GNOME显示管理器.md "wikilink")（由[GNOME](../Page/GNOME.md "wikilink")提供）
   - [KDM](../Page/KDM.md "wikilink")（由[KDE](../Page/KDE.md "wikilink")提供）允许用户在登录界面图形化的选择某个[窗口管理器或](https://zh.wikipedia.org/wiki/X窗口管理器 "wikilink")[桌面环境](../Page/桌面环境.md "wikilink")
@@ -57,7 +57,7 @@ X11R4（1989年10月）引入了XDMCP。使用XDMCP时，X服务器必须主动�
   - [LXDM](../Page/LXDE.md "wikilink")，一个轻量级的显示管理器http://wiki.lxde.org/en/LXDM
   - [SLiM](https://zh.wikipedia.org/wiki/SLiM "wikilink")，一个独立的登录管理器
   - [CDM](https://web.archive.org/web/20100809225958/http://cdm.ghost1227.com/X11/)，一个Linux下的超轻量级控制台显示管理器
-  - [xlogin](http://www.jonshouse.co.uk/xlogin.cgi)，X Window登录和独立的XDMCP服务器
+  - [xlogin](https://web.archive.org/web/20090727195110/http://www.jonshouse.co.uk/xlogin.cgi)，X Window登录和独立的XDMCP服务器
   - [Enter](http://enter.sf.net)，轻量级的图形登录管理器
   - [Orthos](https://web.archive.org/web/20090920062114/http://e-x-a.org/?view=orthos)，另一个轻量级的解决方案附带真正的结构化主题
   - [nodm](https://web.archive.org/web/20100127214135/http://www.enricozini.org/sw/nodm/)，针对收款机、电器和移动电话的自动登录的显示管理器

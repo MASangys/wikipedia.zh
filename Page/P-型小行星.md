@@ -21,17 +21,11 @@ P-型小行星是[太陽系內最黑暗的一些天體](https://zh.wikipedia.org
 [Category:_小行星光譜分類](https://zh.wikipedia.org/wiki/Category:_小行星光譜分類 "wikilink") [Category:P-型小行星](https://zh.wikipedia.org/wiki/Category:P-型小行星 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.

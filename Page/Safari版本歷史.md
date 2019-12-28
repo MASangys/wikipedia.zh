@@ -611,6 +611,6 @@
 
 1.  [programming: I just posted this using Safari 3 on Windows 2000, when will Microsoft support IE 7 on Windows 2000? The IE devs claim technical problems make it overly difficult. Bullshit](http://programming.reddit.com/info/1xmnj/comments)
 2.  [PC Pro: Interactive: Forums: Comments: UPDATED: Apple unveils Safari 3 - for Mac and Windows](http://www.pcpro.co.uk/phpbb/viewtopic.php?t=227021&start=0#807289)
-3.  [About the security content of Safari 3 Beta Update 3.0.4 Security Update](http://docs.info.apple.com/article.html?artnum=307178). Apple.com. Retrieved on 2007-[12-21](https://zh.wikipedia.org/wiki/12-21 "wikilink").
+3.  [About the security content of Safari 3 Beta Update 3.0.4 Security Update](http://docs.info.apple.com/article.html?artnum=307178) . Apple.com. Retrieved on 2007-[12-21](https://zh.wikipedia.org/wiki/12-21 "wikilink").
 4.  [Safari 3 Beta 3.0.4 Security Update v1.1](http://lists.apple.com/archives/security-announce/2007/Dec/msg00005.html). Apple Mailing Lists at Apple.com. Retrieved on 2007-[12-22](https://zh.wikipedia.org/wiki/12-22 "wikilink").
-5.  [About Safari 3 Beta 3.0.4 Security Update v1.1](http://docs.info.apple.com/article.html?artnum=307225). Apple.com. Retrieved on 2007-[12-23](https://zh.wikipedia.org/wiki/12-23 "wikilink").
+5.  [About Safari 3 Beta 3.0.4 Security Update v1.1](http://docs.info.apple.com/article.html?artnum=307225) . Apple.com. Retrieved on 2007-[12-23](https://zh.wikipedia.org/wiki/12-23 "wikilink").

@@ -32,7 +32,7 @@ K-x还提供了一项可选的色彩定制功能使相机有别于传统的黑�
   - [Pentax K-x Digital SLR Review](http://www.ephotozine.com/article/Pentax-Kx-12172) – ephotozine.com
   - [A terrific DSLR for beginners with masses of headroom for those learning the ropes](http://www.techradar.com/reviews/cameras-and-camcorders/cameras/digital-slrs/pentax-k-x-642482/review) – TechRadar.com
   - [Pentax K-x Review](http://www.photographyblog.com/reviews/pentax_kx_review/) – photographyblog.com
-  - [Pentax K-x Reviews and guides](http://www.kxuser.com/) – kxuser.com
+  - [Pentax K-x Reviews and guides](https://web.archive.org/web/20100513110349/http://kxuser.com/) – kxuser.com
   - [Pentax K-x Feature page demonstrating digital filter (Traditional Chinese)](http://www.dcfever.com/campaigns/2010/pentax_photography/?chapter=4/) – www.dcfever.com
   - [Pentax K-x 推出新 Firmware](http://www.dcfever.com/news/readnews.php?id=4780/) – dcfever.com
   - [Pentax K-x 再添紫色新成員](http://www.dcfever.com/news/readnews.php?id=4231/) – dcfever.com
@@ -40,10 +40,7 @@ K-x还提供了一项可选的色彩定制功能使相机有别于传统的黑�
 [Category:宾得数码单镜反光相机](https://zh.wikipedia.org/wiki/Category:宾得数码单镜反光相机 "wikilink") [Category:2009年面世的相機](https://zh.wikipedia.org/wiki/Category:2009年面世的相機 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  [Time Magazine -](http://www.time.com/time/specials/packages/completelist/0,29569,1933520,00.html)
-
 5.

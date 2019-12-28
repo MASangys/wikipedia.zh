@@ -1,4 +1,4 @@
-《**小Q**》是一齣[2019年](../Page/2019年電影.md "wikilink")[香港](https://zh.wikipedia.org/wiki/香港電影 "wikilink")[溫情片](https://zh.wikipedia.org/wiki/劇情片 "wikilink")，由[羅永昌](../Page/羅永昌.md "wikilink")導演，[任達華](../Page/任達華.md "wikilink")、[梁詠琪](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink")、[郭晉安](../Page/郭晉安.md "wikilink")、[楊采妮及](https://zh.wikipedia.org/wiki/楊采妮 "wikilink")[林文龍](../Page/林文龍.md "wikilink")主演。電影改編自日本作家[石黑謙吾和攝影師秋元良平合著小說](https://zh.wikipedia.org/wiki/石黑謙吾 "wikilink")《[導盲犬小Q](https://zh.wikipedia.org/wiki/導盲犬小Q "wikilink")》\[1\]。
+《**-{zh-cn:小Q;zh-hk:小Q;zh-tw:再見了！小Q;}-**》是一齣[2019年](../Page/2019年電影.md "wikilink")[香港](https://zh.wikipedia.org/wiki/香港電影 "wikilink")[溫情片](https://zh.wikipedia.org/wiki/劇情片 "wikilink")，由[羅永昌](../Page/羅永昌.md "wikilink")導演，[任達華](../Page/任達華.md "wikilink")、[梁詠琪](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink")、[郭晉安](../Page/郭晉安.md "wikilink")、[楊采妮及](https://zh.wikipedia.org/wiki/楊采妮 "wikilink")[林文龍](../Page/林文龍.md "wikilink")主演。電影改編自日本作家[石黑謙吾和攝影師秋元良平合著小說](https://zh.wikipedia.org/wiki/石黑謙吾 "wikilink")《[導盲犬小Q](https://zh.wikipedia.org/wiki/導盲犬小Q "wikilink")》\[1\]。
 
 10多年前的日版《[導盲犬小Q](https://zh.wikipedia.org/wiki/導盲犬小Q "wikilink")》便由梁詠琪聲演\[2\]。
 
@@ -50,7 +50,8 @@
 <td><p><strong>盧永安</strong></p></td>
 <td><p><strong><a href="../Page/林文龍.md" title="wikilink">林文龍</a></strong></p></td>
 <td><p><strong>Dr. Lo</strong><br />
-獸醫</p></td>
+獸醫<br />
+廖碧珊之夫</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>陳芷喬</strong></p></td>
@@ -78,7 +79,7 @@ Fiona之同事<br />
 <tr class="even">
 <td><p>盧廖碧珊</p></td>
 <td><p><a href="../Page/袁姗姗.md" title="wikilink">袁姗姗</a></p></td>
-<td></td>
+<td><p>盧永安之妻</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Fiona</strong></p></td>
@@ -122,6 +123,11 @@ Simon之同事</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>獸醫護士</p></td>
+<td><p><a href="../Page/羅頌欣.md" title="wikilink">羅頌欣</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -137,11 +143,11 @@ Simon之同事</p></td>
 
 ## 發行
 
-電影定於2019年8月15日在香港上映。
+電影於2019年8月15日在香港上映\[3\]；9月12日在[台灣上映](https://zh.wikipedia.org/wiki/台灣 "wikilink")\[4\]；9月20日在中國大陸上映\[5\]。
 
 ### 票房
 
-香港上映4日連同優先場，累積票房271萬[港元](../Page/港元.md "wikilink")票房，位列第33週一週票房第八名。上映8日收397萬港元\[3\]。
+香港上映4日連同優先場，累積票房271萬[港元](../Page/港元.md "wikilink")票房，位列第33週一週票房第八名。上映8日收397萬港元\[6\]。
 
 ## 參考資料
 
@@ -151,8 +157,11 @@ Simon之同事</p></td>
   -
   -
   -
-[Category:粵語電影](https://zh.wikipedia.org/wiki/Category:粵語電影 "wikilink") [Category:香港背景電影](https://zh.wikipedia.org/wiki/Category:香港背景電影 "wikilink") [Category:香港取景電影](https://zh.wikipedia.org/wiki/Category:香港取景電影 "wikilink") [Category:日本取景電影](https://zh.wikipedia.org/wiki/Category:日本取景電影 "wikilink") [Category:2019年電影](https://zh.wikipedia.org/wiki/Category:2019年電影 "wikilink") [Category:2019年香港電影](https://zh.wikipedia.org/wiki/Category:2019年香港電影 "wikilink") [Category:香港劇情片](https://zh.wikipedia.org/wiki/Category:香港劇情片 "wikilink") [Category:2010年代劇情片](https://zh.wikipedia.org/wiki/Category:2010年代劇情片 "wikilink") [Category:狗電影](https://zh.wikipedia.org/wiki/Category:狗電影 "wikilink") [Category:非虛構書籍改編電影](https://zh.wikipedia.org/wiki/Category:非虛構書籍改編電影 "wikilink") [Category:盲人相关电影](https://zh.wikipedia.org/wiki/Category:盲人相关电影 "wikilink")
+[Category:粵語電影](https://zh.wikipedia.org/wiki/Category:粵語電影 "wikilink") [Category:香港背景電影](https://zh.wikipedia.org/wiki/Category:香港背景電影 "wikilink") [Category:香港取景電影](https://zh.wikipedia.org/wiki/Category:香港取景電影 "wikilink") [Category:日本取景電影](https://zh.wikipedia.org/wiki/Category:日本取景電影 "wikilink") [Category:2019年電影](https://zh.wikipedia.org/wiki/Category:2019年電影 "wikilink") [Category:2019年香港電影](https://zh.wikipedia.org/wiki/Category:2019年香港電影 "wikilink") [Category:香港劇情片](https://zh.wikipedia.org/wiki/Category:香港劇情片 "wikilink") [Category:2010年代劇情片](https://zh.wikipedia.org/wiki/Category:2010年代劇情片 "wikilink") [Category:狗電影](https://zh.wikipedia.org/wiki/Category:狗電影 "wikilink") [Category:非虛構書籍改編電影](https://zh.wikipedia.org/wiki/Category:非虛構書籍改編電影 "wikilink") [Category:盲人相关电影](https://zh.wikipedia.org/wiki/Category:盲人相关电影 "wikilink") [Category:導盲犬](https://zh.wikipedia.org/wiki/Category:導盲犬 "wikilink")
 
 1.
 2.
 3.
+4.
+5.
+6.

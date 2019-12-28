@@ -14,57 +14,82 @@
   -   - 天使夜未眠II
       - 天使夜未眠III
 
-  -
-  -
-  -
-  -   - AIKa R-16:VIRGIN MISSION
+  - [幸運女神](../Page/幸運女神.md "wikilink")
+
+  - [西部曠野天使](../Page/西部曠野天使.md "wikilink")
+
+  - [R.O.D -READ OR DIE-](../Page/R.O.D_-READ_OR_DIE-.md "wikilink")
+
+  - [海底嬌娃藍華](../Page/海底嬌娃藍華.md "wikilink")
+
+      - AIKa R-16:VIRGIN MISSION
       - AIKa ZERO
 
   -
-  -
-  -   -
+  - [ICE](../Page/ICE_\(動畫\).md "wikilink")
+
+  - [I"s Pure](https://zh.wikipedia.org/wiki/I"s#OVA "wikilink")
+
+      - [From I"s](https://zh.wikipedia.org/wiki/I"s#OVA "wikilink")
+
   - \-{[アイドル・ファイト スーチーパイII](https://zh.wikipedia.org/wiki/:ja:アイドル雀士スーチーパイ "wikilink")}- - [美少女雀士](https://zh.wikipedia.org/wiki/美少女雀士 "wikilink")、[偶像雀士](https://zh.wikipedia.org/wiki/偶像雀士 "wikilink")
 
   - \-{[:ja:アイドルプロジェクト](https://zh.wikipedia.org/wiki/:ja:アイドルプロジェクト "wikilink")}- - [偶像計畫](https://zh.wikipedia.org/wiki/偶像計畫 "wikilink")
 
-  -
-  -
-  -
+  - [偶像防衛隊](../Page/偶像防衛隊.md "wikilink")
+
+  - [偶像大師 為你而唱！](../Page/偶像大師_為你而唱！.md "wikilink")
+
+  - [間之楔](../Page/間之楔.md "wikilink")
+
   - [I'll/CKBC](https://zh.wikipedia.org/wiki/:ja:I'll "wikilink") - [夢幻高手](https://zh.wikipedia.org/wiki/夢幻高手 "wikilink")（長鴻）
 
   - \-{[アウトランダーズ](https://zh.wikipedia.org/wiki/:ja:アウトランダーズ#アニメ "wikilink")}- - [Outlanders](https://zh.wikipedia.org/wiki/Outlanders "wikilink")
 
-  -
+  - [發明工坊](../Page/發明工坊.md "wikilink")
+
   - \-{青き炎}-
 
-  -
-  -
-  - {
+  - [-{zh-hans:蒼藍流星; zh-hk:蒼之流星SPT力士拿; zh-tw:蒼之流星SPT雷茲納; }- ACT-3 刻印2000](https://zh.wikipedia.org/wiki/蒼藍流星#OVA "wikilink")
 
-  -
-  -
-  -
+  - [青空少女隊](../Page/青空少女隊.md "wikilink")
+
+  - {[青之6號](../Page/青之6號.md "wikilink")
+
+  - [青山剛昌短篇集](../Page/青山剛昌短篇集.md "wikilink")
+
+  - [小紅帽恰恰](https://zh.wikipedia.org/wiki/小紅帽恰恰#OVA "wikilink")
+
+  - [夕陽染紅的坡道 核心](https://zh.wikipedia.org/wiki/染红的街道#OVA "wikilink")
+
   - \-{[アカネマニアックス](https://zh.wikipedia.org/wiki/:ja:アカネマニアックス〜流れ星伝説剛田〜 "wikilink")}- - [小茜的狂熱追求者～流星傳説剛田～](../Page/你所期望的永遠.md "wikilink")
 
-  -
-  -
-  -
+  - [空罐少女！](../Page/空罐少女！.md "wikilink")千罐一發！？溫泉危機
+
+  - [秋日天空](https://zh.wikipedia.org/wiki/秋日天空#OVA "wikilink")
+
+  - [水瓶戰記 Saga II〜Don't forget me…〜](https://zh.wikipedia.org/wiki/水瓶戰記#OVA "wikilink")
+
   - \-{亜人戦士}-
 
   - \-{[:ja:アッセンブル・インサート](https://zh.wikipedia.org/wiki/:ja:アッセンブル・インサート "wikilink")}-
 
-  -
-  -
+  - [亞普菲蘭特](../Page/亞普菲蘭特.md "wikilink")
+
+  - [蘋果核戰](../Page/蘋果核戰.md "wikilink")
+
   - \-{[艶姿 魔法の三人娘](https://zh.wikipedia.org/wiki/:ja:ぴえろ魔法少女シリーズ#OVA "wikilink")}-
 
   - \-{[:ja:アニメーション制作進行くろみちゃん](https://zh.wikipedia.org/wiki/:ja:アニメーション制作進行くろみちゃん "wikilink")}-
 
   - \-{[:ja:アーバンスクウェア 琥珀の追撃](https://zh.wikipedia.org/wiki/:ja:アーバンスクウェア_琥珀の追撃 "wikilink")}-
 
-  -
+  - [奥美蒂III](https://zh.wikipedia.org/wiki/奥美蒂III "wikilink")
+
   - \-{[:ja:アモン・サーガ](https://zh.wikipedia.org/wiki/:ja:アモン・サーガ "wikilink")}-
 
-  -
+  - [ABUNAI SISTERS](../Page/叶姊妹.md "wikilink")
+
   -
   - \-{[:ja:綾音ちゃんハイキック\!](https://zh.wikipedia.org/wiki/:ja:綾音ちゃんハイキック! "wikilink")}- - [少女格鬥家](https://zh.wikipedia.org/wiki/少女格鬥家 "wikilink")（東立）、勝利女神
 
@@ -76,7 +101,9 @@
 
   - \-{[:ja:アル・カラルの遺産](https://zh.wikipedia.org/wiki/:ja:アル・カラルの遺産 "wikilink")}-
 
-  -   - 亞爾斯蘭戰記III
+  - [亞爾斯蘭戰記](https://zh.wikipedia.org/wiki/亞爾斯蘭戰記#OVA "wikilink")
+
+      - 亞爾斯蘭戰記III
       - 亞爾斯蘭戰記IV
       - 亞爾斯蘭戰記V
       - 亞爾斯蘭戰記VI
@@ -84,8 +111,10 @@
       - \-{アルスラーン戦記～征馬孤影～上}-
       - \-{アルスラーン戦記～征馬孤影～下}-
 
-  -
-  -
+  - [魔塔大陸 在世界終結續詠詩篇的少女](../Page/魔塔大陸_在世界終結續詠詩篇的少女.md "wikilink")
+
+  - [亞歷山大戰記](../Page/亞歷山大戰記.md "wikilink")
+
   - \-{暗黒神伝承 武神}-
 
   - \-{暗黒神話 餓鬼の章/天の章}-
@@ -96,22 +125,33 @@
       - \-{[アンジェリーク〜聖地より愛をこめて〜](https://zh.wikipedia.org/wiki/:ja:アンジェリーク_トロワ "wikilink")}-
       - \-{[アンジェリーク〜Twinコレクション〜](https://zh.wikipedia.org/wiki/:ja:アンジェリーク_トロワ "wikilink")}-
 
-  -
+  - [_summer](../Page/＿summer.md "wikilink")
+
   - \-{[:ja:アンティーク・ハート](https://zh.wikipedia.org/wiki/:ja:アンティーク・ハート "wikilink")}-
 
-  -   -
+  - [伊苏 失落的伊苏古国 序章](../Page/伊苏_失落的伊苏古国_序章.md "wikilink")
+
+      - [伊苏II 失落的伊苏古国 终章](../Page/伊苏II_失落的伊苏古国_终章.md "wikilink")
+
   - \-{[:ja:イケナイBOY](https://zh.wikipedia.org/wiki/:ja:イケナイBOY "wikilink")}-
 
-  -
-  -
-  -
-  -
-  -   - 草莓棉花糖 Original Video Animation
+  - [IZUMO](../Page/IZUMO.md "wikilink")
+
+  - [異世界聖機師物語](../Page/異世界聖機師物語.md "wikilink")
+
+  - [一擊殺虫！！小惠惠](../Page/一擊殺虫！！小惠惠.md "wikilink")
+
+  - [草莓100%](https://zh.wikipedia.org/wiki/草莓100% "wikilink")
+
+  - [草莓棉花糖](../Page/草莓棉花糖.md "wikilink")
+
+      - 草莓棉花糖 Original Video Animation
       - 草莓棉花糖 encore
 
   - \-{[:ja:いっしょにとれーにんぐ](https://zh.wikipedia.org/wiki/:ja:いっしょにとれーにんぐ "wikilink")}- - [一起作體操](https://zh.wikipedia.org/wiki/一起作體操 "wikilink")
 
-  -
+  - [我永遠的聖誕老人](../Page/我永遠的聖誕老人.md "wikilink")
+
   - \-{[頭文字D ExtraStage インパクトブルーの彼方に…](https://zh.wikipedia.org/wiki/:ja:頭文字D "wikilink")}-
 
       - \-{[頭文字D ExtraStage2 ～旅たちのグリーン～](https://zh.wikipedia.org/wiki/:ja:頭文字D "wikilink")}-
@@ -120,7 +160,8 @@
 
   - [:ja:I・Я・I・A ZЁIЯAM THE ANIMATION](https://zh.wikipedia.org/wiki/:ja:I・Я・I・A_ZЁIЯAM_THE_ANIMATION "wikilink") - [伊莉亞](https://zh.wikipedia.org/wiki/伊莉亞 "wikilink")
 
-  -
+  - [伊里野的天空、UFO的夏天](../Page/伊里野的天空、UFO的夏天.md "wikilink")
+
   - \-{[インタールード](https://zh.wikipedia.org/wiki/:ja:インタールード_\(ゲーム\)#OVA版 "wikilink")}- - [Interlude](https://zh.wikipedia.org/wiki/Interlude "wikilink")
 
   - \-{[:ja:インフェリウス惑星戦史外伝 CONDITION GREEN](https://zh.wikipedia.org/wiki/:ja:インフェリウス惑星戦史外伝_CONDITION_GREEN "wikilink")}-
@@ -128,47 +169,29 @@
 <!-- end list -->
 
   - \-{[ヴァイスクロイツ verbrechen / strafe](https://zh.wikipedia.org/wiki/:ja:ヴァイスクロイツ "wikilink")}- - [白色十字架](../Page/白色猎人.md "wikilink") verbrechen / strafe
-
   - \-{[:ja:ヴァリアブル・ジオ](https://zh.wikipedia.org/wiki/:ja:ヴァリアブル・ジオ "wikilink")}- - [Variable Geo](https://zh.wikipedia.org/wiki/Variable_Geo "wikilink")
-
       - V.G.NEO
-
   - \-{[ヴァンパイアハンター The Animated Series](https://zh.wikipedia.org/wiki/:ja:ヴァンパイア_\(ゲーム\) "wikilink")}- - [魔域幽靈](../Page/魔域幽靈.md "wikilink")（勝利國際）
-
-  -
+  - [吸血姬美夕](https://zh.wikipedia.org/wiki/吸血姬美夕 "wikilink")
   - \-{[:ja:ヴァンパイヤー戦争](https://zh.wikipedia.org/wiki/:ja:ヴァンパイヤー戦争 "wikilink")}-
-
-  -
+  - [巫术系列](../Page/巫术系列.md "wikilink")
   - \-{[:ja:With You 〜みつめていたい〜](https://zh.wikipedia.org/wiki/:ja:With_You_〜みつめていたい〜 "wikilink")}-
-
   - \-{[:ja:ウインダリア](https://zh.wikipedia.org/wiki/:ja:ウインダリア "wikilink")}-
-
-  -
+  - [Wind: A Breath of Heart](../Page/Wind:_A_Breath_of_Heart.md "wikilink")
   - \-{[ウェディングピーチDX](https://zh.wikipedia.org/wiki/:ja:愛天使伝説ウェディングピーチ "wikilink")}- - [愛天使傳說](../Page/愛天使傳說.md "wikilink")DX
-
   - \-{[:ja:ウォナビーズ](https://zh.wikipedia.org/wiki/:ja:ウォナビーズ "wikilink")}-
-
-  -   - \-{うしおととら コミカル・デフォルメ劇場}-
-
+  - [潮與虎](https://zh.wikipedia.org/wiki/潮與虎 "wikilink")
+      - \-{うしおととら コミカル・デフォルメ劇場}-
   - \-{[:ja:うしろの百太郎](https://zh.wikipedia.org/wiki/:ja:うしろの百太郎 "wikilink")}-
-
   - \-{[ウダウダやってるヒマはねェ\!](https://zh.wikipedia.org/wiki/:ja:米原秀幸 "wikilink")}-
-
   - \-{[OVAうたわれるもの](https://zh.wikipedia.org/wiki/:ja:うたわれるもの "wikilink")}- - [受讚頌者](../Page/传颂之物.md "wikilink")
-
   - \-{[宇宙家族カールビンソン](https://zh.wikipedia.org/wiki/:ja:宇宙家族カールビンソン#アニメーション（OVA） "wikilink")}-
-
   - \-{[:ja:宇宙の騎士テッカマンブレードII](https://zh.wikipedia.org/wiki/:ja:宇宙の騎士テッカマンブレードII "wikilink")}- - [宇宙騎士II](https://zh.wikipedia.org/wiki/宇宙騎士II "wikilink")
-
-  -
+  - [宇宙戰士](../Page/宇宙戰士_\(OVA\).md "wikilink")
   - \-{[:ja:伝染るんです。](https://zh.wikipedia.org/wiki/:ja:伝染るんです。 "wikilink")}-
-
   - \-{[:ja:海の闇、月の影](https://zh.wikipedia.org/wiki/:ja:海の闇、月の影 "wikilink")}- - [海闇月影](https://zh.wikipedia.org/wiki/海闇月影 "wikilink")（大然） [海之闇月之影](https://zh.wikipedia.org/wiki/海之闇月之影 "wikilink")（東立）
-
   - \-{[:ja:楳図かずおの呪い](https://zh.wikipedia.org/wiki/:ja:楳図かずお "wikilink")}-
-
   - \-{[うる星やつら](https://zh.wikipedia.org/wiki/:ja:うる星やつら_\(アニメ\) "wikilink")}- - [福星小子](../Page/福星小子.md "wikilink")（尖端）
-
       - \-{うる星やつら 怒れシャーベット}-
       - \-{うる星やつら 月に吠える}-
       - \-{うる星やつら 電気仕掛けのお庭番}-
@@ -176,15 +199,10 @@
       - \-{うる星やつら ハートをつかめ}-
       - \-{うる星やつら ヤギさんとチーズ}-
       - \-{うる星やつら 夢の仕掛人、因幡くん登場\!ラムの未来はどうなるっちゃ\!?}-
-
   - \-{[:ja:ウルトラマニアック](https://zh.wikipedia.org/wiki/:ja:ウルトラマニアック "wikilink")}- - [戀愛小魔女](../Page/戀愛小魔女.md "wikilink")（尖端）
-
   - \-{[:ja:ウルトラマングラフィティ](https://zh.wikipedia.org/wiki/:ja:ウルトラマングラフィティ "wikilink")}-
-
   - \-{[:ja:ウルトラマン超闘士激伝](https://zh.wikipedia.org/wiki/:ja:ウルトラマン超闘士激伝 "wikilink")}- - [超鬥士激傳](https://zh.wikipedia.org/wiki/超鬥士激傳 "wikilink")（青文）
-
   - \-{[:ja:ウルフガイ](https://zh.wikipedia.org/wiki/:ja:ウルフガイ "wikilink")}-
-
   - \-{雲界の迷宮ZEGUY}- - [雲界迷宮](https://zh.wikipedia.org/wiki/雲界迷宮 "wikilink")
 
 <!-- end list -->
@@ -247,75 +265,42 @@
 ### 日本製OVAか行
 
   - \-{[:ja:がぁーでぃあんHearts](https://zh.wikipedia.org/wiki/:ja:がぁーでぃあんHearts "wikilink")}- - [銀河美少女](https://zh.wikipedia.org/wiki/銀河美少女 "wikilink")（長鴻）、[守護之心](https://zh.wikipedia.org/wiki/守護之心 "wikilink")（木棉花）
-
       - \-{がぁーでぃあんHearts ぱわーあっぷ\!}- - 銀河美少女 Power Up\!
-
   - \-{[:ja:快盗天使ツインエンジェル](https://zh.wikipedia.org/wiki/:ja:快盗天使ツインエンジェル "wikilink")}- - [快盜天使雙胞胎](../Page/快盜天使雙胞胎.md "wikilink")
-
   - \-{ガイ 妖魔覚醒／セカンドターゲット}-
-
   - \-{[快刀乱麻](https://zh.wikipedia.org/wiki/:ja:快刀乱麻_\(ゲーム\) "wikilink")}- - [快刀亂麻](https://zh.wikipedia.org/wiki/快刀亂麻 "wikilink")
-
   - [KITE LIBERATOR](https://zh.wikipedia.org/wiki/:ja:A_KITE "wikilink") - [KITE LIBERATOR](https://zh.wikipedia.org/wiki/:ja:A_KITE "wikilink")
-
   - \-{[:ja:がきデカ](https://zh.wikipedia.org/wiki/:ja:がきデカ "wikilink")（OVA版）}-
-
   - \-{[下級生 MY PRETTY CLASS STUDENT](https://zh.wikipedia.org/wiki/:ja:下級生_\(アニメ\) "wikilink")}-
-
   - \-{[:ja:学園特捜ヒカルオン](https://zh.wikipedia.org/wiki/:ja:学園特捜ヒカルオン "wikilink")}- - [學園特捜](https://zh.wikipedia.org/wiki/學園特捜 "wikilink")
-
   - \-{[:ja:学園都市ヴァラノワール](https://zh.wikipedia.org/wiki/:ja:学園都市ヴァラノワール "wikilink")}-
-
   - \-{[がくえんゆーとぴあ まなびストレート\! Straight7 夏だ\! まなびだ\! 強化合宿だ\!](https://zh.wikipedia.org/wiki/:ja:がくえんゆーとぴあ_まなびストレート! "wikilink")}-
-
   - \-{[:ja:覚悟のススメ](https://zh.wikipedia.org/wiki/:ja:覚悟のススメ "wikilink")}- - [斬鬼者覺悟](https://zh.wikipedia.org/wiki/斬鬼者覺悟 "wikilink")（長鴻）
-
   - \-{[:ja:カクレンボ](https://zh.wikipedia.org/wiki/:ja:カクレンボ "wikilink")}- - [KAKURENBO](../Page/捉迷藏_\(動畫\).md "wikilink")、[捉迷藏](../Page/捉迷藏_\(動畫\).md "wikilink")
-
   - \-{[:ja:火聖旅団 ダナサイト999.9](https://zh.wikipedia.org/wiki/:ja:火聖旅団_ダナサイト999.9 "wikilink")}-
-
   - [:ja:華星夜曲](https://zh.wikipedia.org/wiki/:ja:華星夜曲 "wikilink")
-
   - \-{[:ja:風を抜け\!](https://zh.wikipedia.org/wiki/:ja:風を抜け! "wikilink")}-
-
   - \-{[:ja:風と木の詩](https://zh.wikipedia.org/wiki/:ja:風と木の詩 "wikilink")}-
-
   - \-{[GATCHAMAN-ガッチャマン-](https://zh.wikipedia.org/wiki/:ja:科学忍者隊ガッチャマン "wikilink")}-
-
   - \-{学校の幽霊}- - [學校幽靈](https://zh.wikipedia.org/wiki/學校幽靈 "wikilink")（普威爾）
-
   - \-{[:ja:かってにシロクマ](https://zh.wikipedia.org/wiki/:ja:かってにシロクマ "wikilink")}-
-
   - \-{[:ja:ガッデム](https://zh.wikipedia.org/wiki/:ja:ガッデム "wikilink")}-
-
   - \-{[:ja:ガデュリン](https://zh.wikipedia.org/wiki/:ja:ガデュリン "wikilink")}-
-
-  -
+  - [我的狐仙女友〜真夏的大謝肉祭〜](https://zh.wikipedia.org/wiki/我的狐仙女友#OVA "wikilink")
   - \-{[:ja:カプリコン](https://zh.wikipedia.org/wiki/:ja:カプリコン "wikilink")}-
-
   - \-{[カメレオン](https://zh.wikipedia.org/wiki/:ja:カメレオン_\(漫画\) "wikilink")}-
-
   - \-{[仮面のメイドガイ ご奉仕特別編 あの夏、いちばん豊かな乳。](https://zh.wikipedia.org/wiki/:ja:仮面のメイドガイ#OVA "wikilink")}-
-
-  -
+  - [假面骑士SD](https://zh.wikipedia.org/wiki/假面骑士SD "wikilink")
   - \-{[仮面ライダー電王 コレクションDVD イマジンあにめ](https://zh.wikipedia.org/wiki/:ja:仮面ライダー電王 "wikilink")}-
-
       - \-{仮面ライダー電王 コレクションDVD イマジンあにめ2}-
       - \-{仮面ライダー電王 コレクションDVD イマジンあにめ3}-
-
   - \-{[:ja:からくりの君](https://zh.wikipedia.org/wiki/:ja:からくりの君 "wikilink")}-
-
-  -
+  - [鴉 -KARAS-](../Page/鴉_-KARAS-.md "wikilink")
   - \-{鴉天狗カブト}- - [天下無敵](https://zh.wikipedia.org/wiki/天下無敵 "wikilink")（超視）
-
   - \-{[ガラスの仮面 千の仮面を持つ少女](https://zh.wikipedia.org/wiki/:ja:ガラスの仮面 "wikilink")}- - [玻璃假面](https://zh.wikipedia.org/wiki/玻璃假面 "wikilink")（東立）
-
   - \-{[:ja:カリフォルニア・クライシス 追撃の銃火](https://zh.wikipedia.org/wiki/:ja:カリフォルニア・クライシス_追撃の銃火 "wikilink")}-
-
   - \-{[:ja:軽井沢シンドローム](https://zh.wikipedia.org/wiki/:ja:軽井沢シンドローム "wikilink")}-
-
   - \-{[:ja:ガルフォース](https://zh.wikipedia.org/wiki/:ja:ガルフォース "wikilink")}- - [銀河女戰士](https://zh.wikipedia.org/wiki/銀河女戰士 "wikilink")
-
       - \-{ガルフォース ETERNAL STORY}-
           - \-{ガルフォース2 DESTRUCTION}-
           - \-{ガルフォース3 STARDUST WAR}-
@@ -324,90 +309,55 @@
           - \-{ガルフォース地球章}-
       - \-{ガルフォース新世紀編}-
       - \-{ガルフォース -THE REVOLUTION-}-
-
-  -   - \-{カレイドスター 新たなる翼 -EXTRA STAGE-}- - 萬花筒之星 嶄新之翼 -EXTRA STAGE-（勝利國際）
+  - [百变之星](../Page/百变之星.md "wikilink")
+      - \-{カレイドスター 新たなる翼 -EXTRA STAGE-}- - 萬花筒之星 嶄新之翼 -EXTRA STAGE-（勝利國際）
       - \-{カレイドスター Legend of phoenix ～レイラ・ハミルトン物語～}-
       - \-{カレイドスター ぐっどだよ\!ぐぅーっど\!}-
-
   - \-{[GUN SMITH CATS](https://zh.wikipedia.org/wiki/:ja:ガンスミスキャッツ "wikilink")（ガンスミスキャッツ）}- - [貓眼女槍手](https://zh.wikipedia.org/wiki/貓眼女槍手 "wikilink")（東立）
-
   - \-{[元祖爆れつハンター](https://zh.wikipedia.org/wiki/:ja:爆れつハンター "wikilink")}- - [元祖爆獵一族](https://zh.wikipedia.org/wiki/爆獵一族 "wikilink")
-
   - [GUNSLINGER GIRL -IL TEATRINO-OVA](https://zh.wikipedia.org/wiki/:ja:GUNSLINGER_GIRL "wikilink") - [神槍少女 -IL TEATRINO-OVA](../Page/神槍少女.md "wikilink")
-
   - [GUNDAM EVOLVE](../Page/GUNDAM_EVOLVE.md "wikilink")
-
       - GUNDAM EVOLVE../
-
   - \-{[ガンパレード・オーケストラ 白の章 おいしい生活](https://zh.wikipedia.org/wiki/:ja:ガンパレード・オーケストラ_\(アニメ\) "wikilink")}- - [高機動交響曲GPO](../Page/高機動交響曲GPO.md "wikilink") 白之章
-
       - \-{ガンパレード・オーケストラ 緑の章 ロング・グッドバイ}- - 高機動交響曲GPO 綠之章
       - \-{ガンパレード・オーケストラ 青の章 父島の一番暑い日}- - 高機動交響曲GPO 青之章
-
   - \-{[:ja:がんばれゴエモン 次元城の悪夢](https://zh.wikipedia.org/wiki/:ja:がんばれゴエモン_次元城の悪夢 "wikilink")}- - [大盜五右衛門](https://zh.wikipedia.org/wiki/大盜五右衛門 "wikilink") 次元城の惡夢
 
 <!-- end list -->
 
-  -
+  - [非常偶像Key](../Page/非常偶像Key.md "wikilink")
   - \-{[:ja:キカイダー01 THE ANIMATION](https://zh.wikipedia.org/wiki/:ja:キカイダー01_THE_ANIMATION "wikilink")}- - [人造人間](https://zh.wikipedia.org/wiki/人造人間 "wikilink")（長鴻）
-
       - \-{ギターを持った少年 -キカイダーVSイナズマン-}- - [閃電人VS人造人間](https://zh.wikipedia.org/wiki/閃電人VS人造人間 "wikilink")（台灣角川）
-
   - \-{[:ja:きグルみっく☆V3](https://zh.wikipedia.org/wiki/:ja:きグルみっく☆V3 "wikilink")}-
-
   - \-{[:ja:機甲界ガリアン 鉄の紋章](https://zh.wikipedia.org/wiki/:ja:機甲界ガリアン_鉄の紋章 "wikilink")}-
-
-  -
+  - [鬼公子炎魔](../Page/鬼公子炎魔.md "wikilink")
   - \-{[機甲兵団 J-PHOENIX PFリップス小隊](https://zh.wikipedia.org/wiki/:ja:機甲兵団_J-PHOENIX "wikilink")}-
-
   - \-{[鬼神童子ZENKI外伝～黯鬼奇譚～](https://zh.wikipedia.org/wiki/:ja:鬼神童子ZENKI "wikilink")}-
-
   - \-{[:ja:機神兵団](https://zh.wikipedia.org/wiki/:ja:機神兵団 "wikilink")}- - [機神兵團](https://zh.wikipedia.org/wiki/機神兵團 "wikilink")
-
   - \-{[機神咆吼デモンベイン](https://zh.wikipedia.org/wiki/:ja:機神咆吼デモンベイン_\(アニメ\) "wikilink")}-
-
       - [OUROBOROS RONDO](https://zh.wikipedia.org/wiki/:ja:機神咆吼デモンベイン_\(アニメ\)#OUROBOROS_RONDO "wikilink")
-
   - \-{[:ja:傷追い人](https://zh.wikipedia.org/wiki/:ja:傷追い人 "wikilink")}-
-
   - [:ja:KISSxxxx](https://zh.wikipedia.org/wiki/:ja:KISSxxxx "wikilink")
-
-  -
+  - [Kiss×sis](../Page/Kiss×sis.md "wikilink")
   - \-{[傷だらけの天使たち](https://zh.wikipedia.org/wiki/:ja:喜国雅彦 "wikilink")}-
-
   - [:ja:KIZUNA](https://zh.wikipedia.org/wiki/:ja:KIZUNA "wikilink")
-
   - \-{[キディ・グレイド2パイロットDVD](https://zh.wikipedia.org/wiki/:ja:キディ・グレイド#キディ・グレイド2（仮称） "wikilink")}-
-
-  -   - \-{機動警察パトレイバー（第2期OVA）}-
-
+  - [機動警察](../Page/機動警察.md "wikilink")
+      - \-{機動警察パトレイバー（第2期OVA）}-
   - \-{[:ja:機動新撰組 萌えよ剣](https://zh.wikipedia.org/wiki/:ja:機動新撰組_萌えよ剣 "wikilink")}- - [機動新撰組 萌之劍](../Page/機動新撰組_萌之劍.md "wikilink")
-
   - \-{[機動戦士SDガンダム](https://zh.wikipedia.org/wiki/:ja:機動戦士SDガンダム "wikilink")}- - [機動戰士SD GUNDAM](https://zh.wikipedia.org/wiki/機動戰士SD_GUNDAM "wikilink")
-
       - \-{[SDガンダム外伝](https://zh.wikipedia.org/wiki/:ja:SDガンダム外伝_ジークジオン編 "wikilink")}-
       - \-{[SD頑駄無 武者パ楽](https://zh.wikipedia.org/wiki/:ja:SD頑駄無_武者○伝#武者パ楽 "wikilink")}-
-
   - \-{[機動戦士ガンダム MS IGLOO 黙示録0079](https://zh.wikipedia.org/wiki/:ja:機動戦士ガンダム_MS_IGLOO "wikilink")}- - [機動戰士GUNDAM MS IGLOO 默示錄0079](../Page/機動戰士GUNDAM_MS_IGLOO.md "wikilink")
-
       - \-{機動戦士ガンダム MS IGLOO 2 重力戦線}-
-
   - \-{[機動戦士ガンダム戦記 アバンタイトル](https://zh.wikipedia.org/wiki/:ja:機動戦士ガンダム戦記_\(プレイステーション3\) "wikilink")}-
-
   - \-{[:ja:機動戦士ガンダム0080 ポケットの中の戦争](https://zh.wikipedia.org/wiki/:ja:機動戦士ガンダム0080_ポケットの中の戦争 "wikilink")}- - [機動戰士GUNDAM0080 口袋裡的戰爭](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_0080:口袋裡的戰爭 "wikilink")
-
   - \-{[:ja:機動戦士ガンダム0083 STARDUST MEMORY](https://zh.wikipedia.org/wiki/:ja:機動戦士ガンダム0083_STARDUST_MEMORY "wikilink")}- - [機動戰士GUNDAM0083 STARDUST MEMORY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_0083:Stardust_Memory "wikilink")
-
   - \-{[:ja:機動戦士ガンダム 第08MS小隊](https://zh.wikipedia.org/wiki/:ja:機動戦士ガンダム_第08MS小隊 "wikilink")}- - [機動戰士GUNDAM 第08MS小隊](../Page/機動戰士GUNDAM第08MS小隊.md "wikilink")
-
   - \-{[:ja:機動戦士ガンダムSEED C.E.73 STARGAZER](https://zh.wikipedia.org/wiki/:ja:機動戦士ガンダムSEED_C.E.73_STARGAZER "wikilink")}-
-
   - \-{[:ja:機動戦士ガンダムUC](https://zh.wikipedia.org/wiki/:ja:機動戦士ガンダムUC "wikilink")}- - [機動戰士GUNDAM UC](../Page/機動戰士GUNDAM_UC.md "wikilink")
-
   - \-{[キノの旅 〜とっておきの話〜 「塔の国 -Free Lance-」](https://zh.wikipedia.org/wiki/:ja:キノの旅 "wikilink")}- - [奇諾之旅](https://zh.wikipedia.org/wiki/奇諾之旅 "wikilink")（台灣角川）
-
   - \-{[:ja:きまぐれオレンジ☆ロード](https://zh.wikipedia.org/wiki/:ja:きまぐれオレンジ☆ロード "wikilink")（OVA版）}- - [橙路](../Page/橙路.md "wikilink") 又译 [古靈精怪](../Page/橙路.md "wikilink")（尖端）
-
       - \-{きまぐれオレンジ☆ロード 白い恋人たち}-
       - \-{きまぐれオレンジ☆ロード ハワイアン・サスペンス}-
       - \-{きまぐれオレンジ☆ロード 吾輩は猫であったり おサカナであったり}-
@@ -416,71 +366,40 @@
       - \-{きまぐれオレンジ☆ロード 恋のステージ HEART ON FIRE\! スター誕生}-
       - \-{きまぐれオレンジ☆ロード 思いがけないシチュエーション}-
       - \-{きまぐれオレンジ☆ロード ルージュの伝言}-
-
   - \-{[:ja:気ままにアイドル](https://zh.wikipedia.org/wiki/:ja:気ままにアイドル "wikilink")}-
-
   - \-{[君が望む永遠 〜Next Season〜](https://zh.wikipedia.org/wiki/:ja:君が望む永遠#OVA_『君が望む永遠_〜Next_Season〜』 "wikilink")}- - [你所期望的永遠](../Page/你所期望的永遠.md "wikilink") ～Next Season～
-
   - \-{[キャシャーン](https://zh.wikipedia.org/wiki/:ja:新造人間キャシャーン "wikilink")}- - [卡辛](../Page/再造人卡辛.md "wikilink")
-
   - \-{[:ja:究極超人あ～る](https://zh.wikipedia.org/wiki/:ja:究極超人あ～る "wikilink")}- - [究極超人](https://zh.wikipedia.org/wiki/究極超人 "wikilink")（大然）
-
   - \-{[新キューティーハニー](https://zh.wikipedia.org/wiki/:ja:キューティーハニー "wikilink")}- - [新甜心戰士](../Page/甜心戰士.md "wikilink")
-
       - \-{Re:キューティーハニー}- - [甜心戰士](../Page/甜心戰士.md "wikilink") OVA
-
   - \-{[:ja:教科書にないッ\!](https://zh.wikipedia.org/wiki/:ja:教科書にないッ! "wikilink")}- - [課本沒教的事](https://zh.wikipedia.org/wiki/課本沒教的事 "wikilink")（普威爾）
-
   - \-{[:ja:今日から俺は\!\!](https://zh.wikipedia.org/wiki/:ja:今日から俺は!! "wikilink")}- - [我是大哥大](https://zh.wikipedia.org/wiki/我是大哥大 "wikilink")（長鴻）
-
   - \-{[今日からマ王\! R](https://zh.wikipedia.org/wiki/:ja:まるマシリーズ#OVA "wikilink")}- - [今日是魔王 R](https://zh.wikipedia.org/wiki/魔之系列#OVA "wikilink")
-
   - \-{[:ja:強殖装甲ガイバー](https://zh.wikipedia.org/wiki/:ja:強殖装甲ガイバー "wikilink")}- - [強殖裝甲](../Page/強殖裝甲.md "wikilink")（大然、台灣角川） 又譯 魔戰獸兵
-
   - \-{[:ja:今日の5の2](https://zh.wikipedia.org/wiki/:ja:今日の5の2 "wikilink")}- - [今天的五年二班](../Page/今天的五年二班.md "wikilink")
-
       - \-{今日の5の2 OVA付コミックス}-
-
   - [:ja:恐怖新聞](https://zh.wikipedia.org/wiki/:ja:恐怖新聞 "wikilink") - [恐怖新聞](https://zh.wikipedia.org/wiki/恐怖新聞 "wikilink")
-
   - \-{[恐怖のバイオ人間 最終教師](https://zh.wikipedia.org/wiki/:ja:最終教師 "wikilink")}- - [最終教師](https://zh.wikipedia.org/wiki/最終教師 "wikilink")（新潮社）
-
   - \-{極黒の翼バルキサス}- - [極黑之翼](https://zh.wikipedia.org/wiki/蕾夢亞傳說 "wikilink")
-
   - \-{[:ja:旭日の艦隊](https://zh.wikipedia.org/wiki/:ja:旭日の艦隊 "wikilink")}-
-
   - \-{虚無戦史MIROKU}- - [虛無戰史MIROKU](https://zh.wikipedia.org/wiki/虛無戰史MIROKU "wikilink")
-
   - \-{[:ja:きらめき☆プロジェクト](https://zh.wikipedia.org/wiki/:ja:きらめき☆プロジェクト "wikilink")}- - [閃耀計畫](https://zh.wikipedia.org/wiki/閃耀計畫 "wikilink")
-
   - [:ja:KIRARA](https://zh.wikipedia.org/wiki/:ja:KIRARA "wikilink")
-
   - \-{[:ja:キレパパ](https://zh.wikipedia.org/wiki/:ja:キレパパ "wikilink")}-
-
   - \-{[:ja:銀河英雄伝説](https://zh.wikipedia.org/wiki/:ja:銀河英雄伝説 "wikilink")}- - [銀河英雄傳說](../Page/銀河英雄傳說.md "wikilink")（尖端）
-
       - \-{銀河英雄伝説外伝 黄金の翼}- - 銀河英雄傳說外傳 黃金之翼
       - \-{銀河英雄伝説外伝}- - 銀河英雄傳說外傳
-
   - \-{[:ja:銀河お嬢様伝説ユナ](https://zh.wikipedia.org/wiki/:ja:銀河お嬢様伝説ユナ "wikilink")}- - [銀河少女傳說](https://zh.wikipedia.org/wiki/銀河少女傳說 "wikilink")（遊戲）
-
       - \-{銀河お嬢様伝説ユナ〜哀しみのセイレーン〜}-
       - \-{銀河お嬢様伝説ユナ〜深闇のフェアリィ〜}-
-
   - \-{[:ja:銀河鉄道物語](https://zh.wikipedia.org/wiki/:ja:銀河鉄道物語 "wikilink")}- - [銀河鐵道物語](https://zh.wikipedia.org/wiki/銀河鐵道物語 "wikilink")
-
       - \-{[銀河鉄道物語 〜忘れられた時の惑星〜](https://zh.wikipedia.org/wiki/:ja:銀河鉄道物語 "wikilink")}- - [銀河鐵道物語～被遺忘時間的行星～](https://zh.wikipedia.org/wiki/銀河鐵道物語～被遺忘時間的行星～ "wikilink")
-
   - \-{[:ja:銀河帝国の滅亡外伝 蒼き狼たちの伝説](https://zh.wikipedia.org/wiki/:ja:銀河帝国の滅亡外伝_蒼き狼たちの伝説 "wikilink")}-
-
   - \-{[銀河漂流バイファム カチュアからの便り](https://zh.wikipedia.org/wiki/:ja:銀河漂流バイファム#OVA "wikilink")}- - [銀河漂流](../Page/銀河漂流.md "wikilink")
-
       - \-{銀河漂流バイファム 集まった13人}-
       - \-{銀河漂流バイファム 消えた12人}-
       - \-{銀河漂流バイファム "ケイトの記憶"涙の奪回作戦\!\!}-
-
   - \-{[:ja:KINGDOM of CHAOS -BORN TO KILL-](https://zh.wikipedia.org/wiki/:ja:KINGDOM_of_CHAOS_-BORN_TO_KILL- "wikilink")}- - [渾沌王國](https://zh.wikipedia.org/wiki/渾沌王國 "wikilink") -BORN TO KILL-
-
       - \-{ジェネレーション オブ カオス プロローグ}- - [新天魔界](https://zh.wikipedia.org/wiki/新天魔界 "wikilink") 序曲
       - \-{ジェネレーションオブカオス3 ～時の封印～}- - 新天魔界3 ～時之封印～
       - \-{リバース ムーン　ディバージェンス}-
@@ -803,86 +722,60 @@
 <!-- end list -->
 
   - \-{[:ja:CBキャラ 永井豪ワールド](https://zh.wikipedia.org/wiki/:ja:CBキャラ_永井豪ワールド "wikilink")}-
-
   - [:ja:CIPHER](https://zh.wikipedia.org/wiki/:ja:CIPHER "wikilink")
-
   - \-{[真（チェンジ\!\!）ゲッターロボ 世界最後の日](https://zh.wikipedia.org/wiki/:ja:真ゲッターロボ_世界最後の日 "wikilink")}- - [真蓋特機器人 世界最後之日](../Page/真蓋特機器人_世界最後之日.md "wikilink")
-
       - \-{[:ja:真ゲッターロボ対ネオゲッターロボ](https://zh.wikipedia.org/wiki/:ja:真ゲッターロボ対ネオゲッターロボ "wikilink")}- - [真蓋特機器人對NEO蓋特機器人](../Page/真蓋特機器人對NEO蓋特機器人.md "wikilink")
       - \-{[ダイナミックスーパーロボット総進撃\!\!](https://zh.wikipedia.org/wiki/:ja:真ゲッターロボ対ネオゲッターロボ#ダイナミックスーパーロボット総進撃!! "wikilink")}-
-
   - \-{[:ja:酎ハイれもん](https://zh.wikipedia.org/wiki/:ja:酎ハイれもん "wikilink")}-
-
   - \-{[超音戦士ボーグマン ザ・ボーグマン ラストバトル](https://zh.wikipedia.org/wiki/:ja:超音戦士ボーグマン#OVA "wikilink")}- - [超音戰士](../Page/超音戰士.md "wikilink")
-
       - \-{超音戦士ボーグマン LOVERS RAIN}- - 超音戰士 LOVERS RAIN
       - \-{超音戦士ボーグマン2 -新世紀2058-}- - 超音戰士2 -新世紀2058-
-
   - \-{[:ja:超機動伝説ダイナギガ](https://zh.wikipedia.org/wiki/:ja:超機動伝説ダイナギガ "wikilink")}-
-
   - \-{[:ja:超光速グランドール](https://zh.wikipedia.org/wiki/:ja:超光速グランドール "wikilink")}- - [超光速美少女](https://zh.wikipedia.org/wiki/超光速美少女 "wikilink")
-
   - \-{[超時空世紀オーガス02](https://zh.wikipedia.org/wiki/:ja:超時空世紀オーガス "wikilink")}- - [超時空世紀](https://zh.wikipedia.org/wiki/超時空世紀 "wikilink")
-
   - \-{超時空要塞マクロスシリーズ}- - [超時空要塞](../Page/超时空要塞.md "wikilink")
-
       - \-{[:ja:超時空要塞マクロス Flash Back 2012](https://zh.wikipedia.org/wiki/:ja:超時空要塞マクロス_Flash_Back_2012 "wikilink")}- - [超時空要塞 Flash Back 2012](https://zh.wikipedia.org/wiki/flash_Back_2012 "wikilink")
       - \-{[:ja:超時空要塞マクロスII -LOVERS AGAIN-](https://zh.wikipedia.org/wiki/:ja:超時空要塞マクロスII_-LOVERS_AGAIN- "wikilink")}- - [超时空要塞II：再爱一次](../Page/超时空要塞II：再爱一次.md "wikilink")
       - \-{[:ja:マクロスプラス](https://zh.wikipedia.org/wiki/:ja:マクロスプラス "wikilink")}- - [Macross Plus](../Page/Macross_Plus.md "wikilink")
       - \-{マクロス7 アンコールビデオ}-
       - \-{[:ja:マクロス ダイナマイト7](https://zh.wikipedia.org/wiki/:ja:マクロス_ダイナマイト7 "wikilink")}- - [Macross Dynamite 7](../Page/Macross_Dynamite_7.md "wikilink")
       - \-{[:ja:マクロス ゼロ](https://zh.wikipedia.org/wiki/:ja:マクロス_ゼロ "wikilink")}- - [Macross Zero](https://zh.wikipedia.org/wiki/Macross_Zero "wikilink")
-
   - \-{[:ja:超時空ロマネスク SAMY MISSING'99](https://zh.wikipedia.org/wiki/:ja:超時空ロマネスク_SAMY_MISSING'99 "wikilink")}-
-
   - \-{[超獣機神ダンクーガ 失われた者たちへの鎮魂歌](https://zh.wikipedia.org/wiki/:ja:超獣機神ダンクーガ "wikilink")}- - [超獸機神](../Page/超獸機神.md "wikilink")斷空我
-
       - \-{超獣機神ダンクーガ GOD BLESS DANCOUGA}-
       - \-{超獣機神ダンクーガ 白熱の終章}-
-
   - \-{[:ja:超獣伝説ゲシュタルト](https://zh.wikipedia.org/wiki/:ja:超獣伝説ゲシュタルト "wikilink")}- - [超獸傳說](https://zh.wikipedia.org/wiki/超獸傳說 "wikilink")（東立）
-
   - [-{超人学園ゴウカイザー}- -THE VOLTAGE FIGHTERS-](https://zh.wikipedia.org/wiki/:ja:超人学園ゴウカイザー "wikilink") - [超人學園](https://zh.wikipedia.org/wiki/超人學園 "wikilink")（遊戲）
-
   - \-{[超人ロック ロードレオン](https://zh.wikipedia.org/wiki/:ja:超人ロック "wikilink")}- - [超人洛克](https://zh.wikipedia.org/wiki/超人洛克 "wikilink")（東立）
-
       - \-{超人ロック 新世界戦隊}-
       - \-{超人ロック 超人ロック～ミラーリング～}-
-
   - \-{[:ja:超神伝説うろつき童子](https://zh.wikipedia.org/wiki/:ja:超神伝説うろつき童子 "wikilink")}-
-
       - \-{真・超神伝説うろつき童子 魔胎伝}-
       - \-{超神伝説うろつき童子 未来篇}-
       - \-{超神伝説うろつき童子 放浪篇}-
       - \-{超神伝説うろつき童子 完結篇}-
       - THE UROTSUKI
-
   - \-{[:ja:超神姫ダンガイザー3](https://zh.wikipedia.org/wiki/:ja:超神姫ダンガイザー3 "wikilink")}- - [超神姬彈凱撒3](https://zh.wikipedia.org/wiki/超神姬彈凱撒3 "wikilink")（緯來日本台）
-
   - \-{[:ja:超幕末少年世紀タカマル](https://zh.wikipedia.org/wiki/:ja:超幕末少年世紀タカマル "wikilink")}-
-
       - \-{新・超幕末少年世紀タカマル}-
-
-  -
+  - [沉默的艦隊](https://zh.wikipedia.org/wiki/沉默的艦隊 "wikilink")
   - \-{[:ja:TWD EXPRESS ローリングテイクオフ](https://zh.wikipedia.org/wiki/:ja:TWD_EXPRESS_ローリングテイクオフ "wikilink")}-
-
   - \-{[TWIN 爆走サーキットロマン](https://zh.wikipedia.org/wiki/:ja:TWIN "wikilink")}-
-
   - \-{[ツインシグナル〜ファミリーゲーム〜](https://zh.wikipedia.org/wiki/:ja:TWIN_SIGNAL "wikilink")}- - [變身席格那](https://zh.wikipedia.org/wiki/變身席格那 "wikilink")（大然）
-
-  -
+  - [兵蜂PARADISE](../Page/兵蜂PARADISE.md "wikilink")
   - \-{[ツバサ TOKYO REVELATIONS](https://zh.wikipedia.org/wiki/:ja:ツバサ-RESERVoir_CHRoNiCLE- "wikilink")}- - [TSUBASA翼](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")（東立）
-
       - \-{ツバサ 春雷記}-
 
 <!-- end list -->
 
-  -
+  - [DNA²](../Page/DNA².md "wikilink")～他到底失去了什麼？～
+
   - \-{[:ja:D-1 DEVASTATOR](https://zh.wikipedia.org/wiki/:ja:D-1_DEVASTATOR "wikilink")}- - [破壞者](https://zh.wikipedia.org/wiki/破壞者 "wikilink")（霹靂衛星電視）
 
   - \-{[:ja:低俗霊DAYDREAM](https://zh.wikipedia.org/wiki/:ja:低俗霊DAYDREAM "wikilink")}- - [低俗靈白日夢](https://zh.wikipedia.org/wiki/低俗靈白日夢 "wikilink")（長鴻）
 
-  -
+  - [帝都物語](../Page/帝都物語.md "wikilink")
+
   - \-{[悪魔（ディモス）の花嫁](https://zh.wikipedia.org/wiki/:ja:悪魔の花嫁 "wikilink")}-
 
   -   - \-{テイルズ オブ シンフォニア THE ANIMATION テセアラ編}- - 交響曲傳奇 THE ANIMATION 提賽亞拉篇
@@ -893,7 +786,8 @@
 
   - \-{[デ・ジ・キャラット劇場 ぴよこにおまかせぴょ\!](https://zh.wikipedia.org/wiki/:ja:デ・ジ・キャラット "wikilink")}- - [Di Gi Charat](../Page/Di_Gi_Charat.md "wikilink")
 
-      -
+      - [冬季花園](../Page/冬季花園.md "wikilink")
+
   - \-{[デジタル・デビル物語 女神転生](https://zh.wikipedia.org/wiki/:ja:デジタル・デビル・ストーリー "wikilink")}-
 
   - \-{[:ja:砂の薔薇](https://zh.wikipedia.org/wiki/:ja:砂の薔薇 "wikilink")（デザート・ローズ）}-
@@ -908,12 +802,17 @@
 
   - \-{[てっぺん](https://zh.wikipedia.org/wiki/:ja:小成たか紀 "wikilink")}-
 
-  -
-  -
-  -
+  - [鐵腕女警](../Page/鐵腕女警.md "wikilink")
+
+  - [風暴戰士ORGUN](../Page/風暴戰士ORGUN.md "wikilink")
+
+  - [爆粗Band友](../Page/爆粗Band友.md "wikilink")
+
   - \-{[:ja:てなもんやボイジャーズ](https://zh.wikipedia.org/wiki/:ja:てなもんやボイジャーズ "wikilink")}- - [星際迷航俏女郎](https://zh.wikipedia.org/wiki/星際迷航俏女郎 "wikilink")（普威爾）
 
-  -   - \-{テニスの王子様 OVA 全国大会篇}-
+  - [网球王子](../Page/网球王子.md "wikilink")
+
+      - \-{テニスの王子様 OVA 全国大会篇}-
       - \-{テニスの王子様 OVA 全国大会篇 Semifinal}-
       - \-{テニスの王子様 OVA 全国大会篇 final}-
       - \-{テニスの王子様 OVA ANOTHER STORY 〜過去と未来のメッセージ}-
@@ -930,15 +829,18 @@
 
   - \-{[天空戦記シュラト 創世への暗闘](https://zh.wikipedia.org/wiki/:ja:天空戦記シュラト#OVA "wikilink")}- - [天空戰記](../Page/天空戰記.md "wikilink")
 
-  -
+  - [正義使者-臀娘](https://zh.wikipedia.org/wiki/正義使者-臀娘 "wikilink")
+
   - \-{[転校生](https://zh.wikipedia.org/wiki/:ja:転校生_\(アニメ\) "wikilink")}- - [轉校生](https://zh.wikipedia.org/wiki/轉校生 "wikilink")
 
   - \-{[:ja:天空断罪スケルターヘブン](https://zh.wikipedia.org/wiki/:ja:天空断罪スケルターヘブン "wikilink")}-
 
   - \-{[天元突破グレンラガン 俺のグレンはピッカピカ\!\!](https://zh.wikipedia.org/wiki/:ja:天元突破グレンラガン "wikilink")}- - [天元突破紅蓮螺巖](https://zh.wikipedia.org/wiki/天元突破紅蓮螺巖 "wikilink")
 
-  -
-  -
+  - [天使禁猎区](../Page/天使禁猎区.md "wikilink")
+
+  - [天使之卵](../Page/天使之卵_\(動畫\).md "wikilink")
+
   - [天上天下 ULTIMATE FIGHT](https://zh.wikipedia.org/wiki/:ja:天上天下 "wikilink") - [天上天下 ULTIMATE FIGHT](../Page/天上天下.md "wikilink")（尖端）
 
   - \-{[天上編 宇宙皇子](https://zh.wikipedia.org/wiki/:ja:宇宙皇子_天上編 "wikilink")}-
@@ -951,27 +853,37 @@
 
   - \-{[:ja:天罰エンジェルラビィ☆](https://zh.wikipedia.org/wiki/:ja:天罰エンジェルラビィ☆ "wikilink")}- - [天罰Angel rabbie](https://zh.wikipedia.org/wiki/天罰Angel_rabbie "wikilink")
 
-  -
+  - [電波系彼女](../Page/電波系彼女.md "wikilink")
+
   - \-{[TO（トゥー）](https://zh.wikipedia.org/wiki/:ja:2001夜物語#TO "wikilink")}-
 
-  -
+  - [東京地底奇兵](../Page/東京地底奇兵.md "wikilink")
+
   - \-{[:ja:倒凶十将伝](https://zh.wikipedia.org/wiki/:ja:倒凶十将伝 "wikilink")}- - [倒凶十將傳](https://zh.wikipedia.org/wiki/倒凶十將傳 "wikilink")（木棉花）
 
-  -   - \-{東京大学物語 函館向陽高校編\]\]}- - 東京大學物語 函館向陽高中篇
+  - [東京大學物語](../Page/東京大學物語.md "wikilink")
+
+      - \-{東京大学物語 函館向陽高校編\]\]}- - 東京大學物語 函館向陽高中篇
       - \-{東京大学物語 仮面浪人編\]\]}- - 東京大學物語 假面浪人篇
       - \-{東京大学物語DX\]\]}- - 東京大學物語DX
 
   - \-{[:ja:トウキョウバイス](https://zh.wikipedia.org/wiki/:ja:トウキョウバイス "wikilink")}-
 
-  -
-  -
+  - [东京巴比伦](../Page/东京巴比伦.md "wikilink")
+
+  - [东京糖衣巧克力](../Page/东京糖衣巧克力.md "wikilink")
+
   - \-{[同級生 夏の終わりに](https://zh.wikipedia.org/wiki/:ja:同級生_\(ゲーム\) "wikilink")}- - [同級生](https://zh.wikipedia.org/wiki/同级生 "wikilink")
 
-  -   - \-{同級生2スペシャル 卒業生}- - 同級生2特別版 卒業生
+  - [同級生2](../Page/同級生2.md "wikilink")
+
+      - \-{同級生2スペシャル 卒業生}- - 同級生2特別版 卒業生
 
   - \-{[:ja:闘神伝](https://zh.wikipedia.org/wiki/:ja:闘神伝 "wikilink")}- - [鬥神傳](https://zh.wikipedia.org/wiki/鬥神傳 "wikilink")（遊戲）
 
-  -   - ToHeart2 ad
+  - [ToHeart2](../Page/To_Heart_2.md "wikilink")
+
+      - ToHeart2 ad
       - ToHeart2 adplus
       - [Heart Fighters](https://zh.wikipedia.org/wiki/:ja:To_Heart#アニメ作品 "wikilink")
 
@@ -991,7 +903,8 @@
 
   - \-{[刻の大地 ～花の王国の魔女～](https://zh.wikipedia.org/wiki/:ja:刻の大地 "wikilink")}-
 
-  -
+  - [心跳回忆](../Page/心跳回忆_\(游戏\).md "wikilink")
+
   - \-{[:ja:独身アパート どくだみ荘](https://zh.wikipedia.org/wiki/:ja:独身アパート_どくだみ荘 "wikilink")}-
 
   - \-{[:ja:ドクター秩父山](https://zh.wikipedia.org/wiki/:ja:ドクター秩父山 "wikilink")}-
@@ -1010,12 +923,18 @@
 
   - \-{[:ja:特攻服凶走曲](https://zh.wikipedia.org/wiki/:ja:特攻服凶走曲 "wikilink")}-
 
-  -
-  -   - [:ja:.hack//Liminality](https://zh.wikipedia.org/wiki/:ja:.hack/Liminality "wikilink") - [.hack//Liminality](https://zh.wikipedia.org/wiki/.hack/Liminality "wikilink")
+  - [哈姆太郎](../Page/哈姆太郎.md "wikilink")
+
+  - [.hack系列](../Page/.hack系列.md "wikilink")
+
+      - [:ja:.hack//Liminality](https://zh.wikipedia.org/wiki/:ja:.hack/Liminality "wikilink") - [.hack//Liminality](https://zh.wikipedia.org/wiki/.hack/Liminality "wikilink")
       - .hack//GIFT
       - .hack//G.U. Returner
 
-  -   -
+  - [飛越巔峰](../Page/飛越巔峰.md "wikilink")
+
+      - [飛越巔峰2](../Page/飛越巔峰2.md "wikilink")
+
   - \-{[となりの801ちゃんR](https://zh.wikipedia.org/wiki/:ja:となりの801ちゃん "wikilink")}- - [我的801女友](https://zh.wikipedia.org/wiki/我的801女友 "wikilink")（八方）
 
   - \-{[ドミニオン](https://zh.wikipedia.org/wiki/:ja:ドミニオン_\(漫画\) "wikilink")}- - [特搜戰車隊](https://zh.wikipedia.org/wiki/特搜戰車隊 "wikilink")（普威爾）
@@ -1023,8 +942,10 @@
       - \-{特捜戦車隊ドミニオン}- - 特搜戰車隊
       - \-{警察戦車隊 TANK S.W.A.T.}- - 警察戰車隊
 
-  -
-  -
+  - [咆哮女郎巴明欣](../Page/咆哮女郎巴明欣.md "wikilink")
+
+  - [三角心2 涟漪女子宿舍](../Page/三角心2_涟漪女子宿舍.md "wikilink")
+
   - \-{[とらいあんぐるハート 〜Sweet Songs Forever〜](https://zh.wikipedia.org/wiki/:ja:とらいあんぐるハート3_〜Sweet_Songs_Forever〜 "wikilink")}-
 
       - \-{とらいあんぐるハート 〜Sweet Songs Forever〜 サウンドステージVA}-
@@ -1039,8 +960,10 @@
 
   - \-{[:ja:ドラゴンフィスト](https://zh.wikipedia.org/wiki/:ja:ドラゴンフィスト "wikilink")}-
 
-  -
-  -
+  - [七龍珠Z外傳 賽亞人滅絕計畫](../Page/七龍珠Z外傳_賽亞人滅絕計畫.md "wikilink")
+
+  - [出包王女 OVA](https://zh.wikipedia.org/wiki/出包王女#第一期_OVA "wikilink")
+
   - \-{[:ja:ドリームハンター麗夢](https://zh.wikipedia.org/wiki/:ja:ドリームハンター麗夢 "wikilink")}-
 
       - \-{新ドリームハンター麗夢}-
@@ -1055,31 +978,19 @@
 
 ### 日本製OVAな行
 
-  -
+  - [少女的秘密心事](../Page/少女的秘密心事.md "wikilink")
   - \-{[:ja:ナイトメア☆チルドレン](https://zh.wikipedia.org/wiki/:ja:ナイトメア☆チルドレン "wikilink")（エニックスビデオ版）}-
-
   - \-{[19 NINETEEN](https://zh.wikipedia.org/wiki/:ja:きたがわ翔 "wikilink")}- - [19 NINETEEN](https://zh.wikipedia.org/wiki/北川翔 "wikilink")
-
   - \-{[:ja:夏色の砂時計](https://zh.wikipedia.org/wiki/:ja:夏色の砂時計 "wikilink")}- - [夏色的砂時計](../Page/夏色的砂時計.md "wikilink")（曼迪傳播）
-
   - \-{[:ja:なつきクライシス](https://zh.wikipedia.org/wiki/:ja:なつきクライシス "wikilink")}- - [嬌娃夏生之危機](https://zh.wikipedia.org/wiki/嬌娃夏生之危機 "wikilink")（東立）
-
   - \-{[:ja:ナースウィッチ小麦ちゃんマジカルて](https://zh.wikipedia.org/wiki/:ja:ナースウィッチ小麦ちゃんマジカルて "wikilink")}- - [魔法護士小麥](../Page/魔法護士小麥.md "wikilink")（格雷特）
-
       - \-{ナースウィッチ小麦ちゃんマジカルてZ}- - 魔法護士小麥Z
-
   - \-{[:ja:茄子 スーツケースの渡り鳥](https://zh.wikipedia.org/wiki/:ja:茄子_スーツケースの渡り鳥 "wikilink")}- - [茄子 旅行箱中的候鳥](https://zh.wikipedia.org/wiki/茄子_旅行箱中的候鳥 "wikilink")
-
   - \-{[:ja:菜々子解体診書](https://zh.wikipedia.org/wiki/:ja:菜々子解体診書 "wikilink")}- - [菜菜子解體診書](../Page/菜菜子解體診書.md "wikilink")
-
   - \-{[七都市物語〜北極海戦線〜](https://zh.wikipedia.org/wiki/:ja:七都市物語 "wikilink")}- - [七都市物語～北極海戰線～](https://zh.wikipedia.org/wiki/七都市物語 "wikilink")
-
   - \-{[:ja:ナマケモノが見てた](https://zh.wikipedia.org/wiki/:ja:ナマケモノが見てた "wikilink")}-
-
   - \-{[那由他](https://zh.wikipedia.org/wiki/:ja:那由他_\(漫画\) "wikilink")}-
-
   - \-{[南国少年パプワくん大百科2～ガンマ団○秘](https://zh.wikipedia.org/wiki/:ja:南国少年パプワくん "wikilink")}- - [南國少年](../Page/南國少年奇小邪.md "wikilink")（曼迪傳播）、[南國少年奇小邪](../Page/南國少年奇小邪.md "wikilink")（大然）
-
       - \-{南国少年パプワくん 星降る夜に会いましょう}-
 
 <!-- end list -->
@@ -1382,35 +1293,22 @@
 <!-- end list -->
 
   - \-{[MAZE☆爆熱時空](https://zh.wikipedia.org/wiki/:ja:MAZE☆爆熱時空#OVA版 "wikilink")}- - [MAZE☆爆熱時空](../Page/MAZE☆爆熱時空.md "wikilink")
-
   - \-{[名探偵コナン SECRET FILE](https://zh.wikipedia.org/wiki/:ja:名探偵コナン_\(アニメ\)#OVA "wikilink")}- - [名偵探柯南](https://zh.wikipedia.org/wiki/名侦探柯南 "wikilink") SECRET FILE
-
       - \-{名探偵コナン MAGIC FILE2 ～工藤新一 謎の壁と黒ラブ事件～}-
-
   - \-{[:ja:メーテルレジェンド](https://zh.wikipedia.org/wiki/:ja:メーテルレジェンド "wikilink")}-
-
   - \-{[:ja:メガゾーン23](https://zh.wikipedia.org/wiki/:ja:メガゾーン23 "wikilink")}- - [無限地帶23](../Page/無限地帶23.md "wikilink")
-
       - \-{メガゾーン23 PART II 秘密く・だ・さ・い}-
       - MEGAZONE23 III
-
   - \-{[女神候補生 スペシャルカリキュラム](https://zh.wikipedia.org/wiki/:ja:女神候補生 "wikilink")}-
-
   - \-{[:ja:女神天国](https://zh.wikipedia.org/wiki/:ja:女神天国 "wikilink")}- - [女神天國](https://zh.wikipedia.org/wiki/女神天國 "wikilink")
-
   - \-{[めぞん一刻番外編 一刻島ナンパ始末記](https://zh.wikipedia.org/wiki/:ja:めぞん一刻_\(アニメ\) "wikilink")}- - [相聚一刻](../Page/相聚一刻.md "wikilink")番外篇
-
   - \-{[めだかの学校](https://zh.wikipedia.org/wiki/:ja:めだかの学校_\(漫画\) "wikilink")}-
-
   - \-{[:ja:メタルスキンパニック MADOX-01](https://zh.wikipedia.org/wiki/:ja:メタルスキンパニック_MADOX-01 "wikilink")}-
-
-  -   -
+  - [秋之回憶](../Page/秋之回憶_\(遊戲\).md "wikilink")
+      - [秋之回憶2](../Page/秋之回憶2.md "wikilink")
       - \-{[Memories Off 3.5 想い出の彼方へ](https://zh.wikipedia.org/wiki/:ja:想い出にかわる君_〜Memories_Off〜 "wikilink")}- - [Memories Off 3.5 朝向回憶的彼方](https://zh.wikipedia.org/wiki/想君：秋之回憶 "wikilink")
-
       - \-{[Memories Off 3.5 祈りの届く刻…](https://zh.wikipedia.org/wiki/:ja:Memories_Off_〜それから〜 "wikilink")}- - [Memories Off 3.5 傳達祈願的時刻](../Page/秋之回憶：從今以後.md "wikilink")
-
       - \-{[Memories Off ＃5 とぎれたフィルム THE ANIMATION](https://zh.wikipedia.org/wiki/:ja:Memories_Off_5_とぎれたフィルム "wikilink")}- - [秋之回憶\#5:中斷的影片](../Page/秋之回憶5：中斷的影片.md "wikilink")
-
   - \-{[メルティランサー The Animation](https://zh.wikipedia.org/wiki/:ja:メルティランサー "wikilink")}- - [銀河少女警察 The Animation](https://zh.wikipedia.org/wiki/銀河少女警察 "wikilink")
 
 <!-- end list -->
@@ -1422,61 +1320,37 @@
 ### 日本製OVAや行
 
   - \-{[:ja:八神くんの家庭の事情](https://zh.wikipedia.org/wiki/:ja:八神くんの家庭の事情 "wikilink")}- - [八神君的家庭事情](https://zh.wikipedia.org/wiki/八神君的家庭事情 "wikilink")
-
   - \-{[:ja:八雲立つ](https://zh.wikipedia.org/wiki/:ja:八雲立つ "wikilink")}- - [出雲傳奇](https://zh.wikipedia.org/wiki/出雲傳奇 "wikilink")（東立）
-
   - \-{[:ja:やじきた学園道中記](https://zh.wikipedia.org/wiki/:ja:やじきた学園道中記 "wikilink")}-
-
   - \-{[:ja:やなせたかしメルヘン劇場](https://zh.wikipedia.org/wiki/:ja:やなせたかしメルヘン劇場 "wikilink")}-
-
   - \-{[ヤマトタケル ～After War～](https://zh.wikipedia.org/wiki/:ja:ヤマトタケル_\(アニメ\) "wikilink")}- - [飛天戰神 ～After War～](https://zh.wikipedia.org/wiki/飛天戰神 "wikilink")
-
   - [:ja:YAMATO2520](https://zh.wikipedia.org/wiki/:ja:YAMATO2520 "wikilink") - [YAMATO2520](https://zh.wikipedia.org/wiki/YAMATO2520 "wikilink")
-
   - \-{[:ja:闇の司法官ジャッジ](https://zh.wikipedia.org/wiki/:ja:闇の司法官ジャッジ "wikilink")}-
-
   - \-{[:ja:闇のパープル・アイ](https://zh.wikipedia.org/wiki/:ja:闇のパープル・アイ "wikilink")}-
-
   - \-{[:ja:闇夜の時代劇](https://zh.wikipedia.org/wiki/:ja:闇夜の時代劇 "wikilink")}-
-
   - \-{[やわらか三国志 突き刺せ\!\!呂布子ちゃん](https://zh.wikipedia.org/wiki/:ja:まじかる無双天使_突き刺せ!!_呂布子ちゃん "wikilink")}- - [魔法無雙天使 衝鋒突刺\!\! 呂布子](https://zh.wikipedia.org/wiki/魔法無雙天使_衝鋒突刺!!_呂布子 "wikilink")（青文）
-
   - \-{[:ja:ヤンキー烈風隊](https://zh.wikipedia.org/wiki/:ja:ヤンキー烈風隊 "wikilink")}-
-
   - \-{[YJ版レモンエンジェル](https://zh.wikipedia.org/wiki/:ja:レモンエンジェル_\(漫画\) "wikilink")}-
-
   - \-{[ヤングハーロックを追え\!コスモウォーリアー零外伝](https://zh.wikipedia.org/wiki/:ja:コスモウォーリアー零 "wikilink")}-
-
-  -
-  -
+  - [有閑俱樂部](../Page/有閑俱樂部.md "wikilink")
+  - [幽幻怪社](https://zh.wikipedia.org/wiki/幽幻怪社 "wikilink")
   - \-{[:ja:勇者王ガオガイガーFINAL](https://zh.wikipedia.org/wiki/:ja:勇者王ガオガイガーFINAL "wikilink")}- - [勇者王GaoGaiGar Final](https://zh.wikipedia.org/wiki/勇者王GaoGaiGar_Final "wikilink")
-
       - \-{勇者王ガオガイガーFINAL プロジェクトZ}- - 勇者王GaoGaiGar Final Z計畫
-
   - \-{[:ja:勇者指令ダグオン 水晶の瞳の少年](https://zh.wikipedia.org/wiki/:ja:勇者指令ダグオン_水晶の瞳の少年 "wikilink")}- - [勇者指令](../Page/勇者指令.md "wikilink")
-
   - \-{[円盤皇女ワるきゅーレSPECIAL](https://zh.wikipedia.org/wiki/:ja:円盤皇女ワるきゅーレ "wikilink")（ゆーふぉーぷりんせす - ）}- - [圓盤皇女](../Page/圓盤皇女.md "wikilink")SPECIAL
-
       - \-{円盤皇女ワるきゅーレ 星霊節の花嫁}- - 圓盤皇女 星靈節的新娘
       - \-{円盤皇女ワるきゅーレ 時と夢と銀河の宴}- - 圓盤皇女 時空與夢想的銀河之宴
-
   - \-{[:ja:夢からさめない](https://zh.wikipedia.org/wiki/:ja:夢からさめない "wikilink")}-
-
   - \-{[:ja:夢次元ハンター ファンドラ](https://zh.wikipedia.org/wiki/:ja:夢次元ハンター_ファンドラ "wikilink")}-
-
   - \-{[夢で逢えたら](https://zh.wikipedia.org/wiki/:ja:夢で逢えたら_\(漫画\) "wikilink")（OVA版）}- - [夢中相會](https://zh.wikipedia.org/wiki/夢中相會 "wikilink")
-
-  -
-  -
+  - [希望宅邸](../Page/希望宅邸.md "wikilink")
+  - [妖獸都市](https://zh.wikipedia.org/wiki/妖獸都市 "wikilink")
   - \-{[妖世紀水滸伝 -魔星降臨-](https://zh.wikipedia.org/wiki/:ja:妖世紀水滸伝 "wikilink")}-
-
   - \-{[:ja:妖精姫レーン](https://zh.wikipedia.org/wiki/:ja:妖精姫レーン "wikilink")}- - [妖精姬](https://zh.wikipedia.org/wiki/妖精姬 "wikilink")
-
-  -   - \-{ヨコハマ買い出し紀行 -Quiet Country Cafe-}- - 橫濱購物紀行 -Quiet Country Cafe-
-
-  -
+  - [横滨购物纪行](https://zh.wikipedia.org/wiki/横滨购物纪行 "wikilink")
+      - \-{ヨコハマ買い出し紀行 -Quiet Country Cafe-}- - 橫濱購物紀行 -Quiet Country Cafe-
+  - [四娘物語](../Page/四娘物語.md "wikilink")
   - \-{[鎧伝サムライトルーパーシリーズ](https://zh.wikipedia.org/wiki/:ja:鎧伝サムライトルーパー "wikilink")}- - [鎧傳系列](../Page/魔神坛斗士.md "wikilink")
-
       - \-{鎧伝サムライトルーパー 外伝}- - 鎧傳 外傳
       - \-{鎧伝サムライトルーパー 輝煌帝伝説}- - 鎧傳 輝煌帝傳說
       - \-{鎧伝サムライトルーパー MESSAGE}- - 鎧傳 MESSAGE
@@ -1484,90 +1358,58 @@
 ### 日本製OVAら行
 
   - [RIDING BEAN](https://zh.wikipedia.org/wiki/:ja:ガンスミスキャッツ#ライディングビーン "wikilink") - [貓眼女槍手](https://zh.wikipedia.org/wiki/貓眼女槍手 "wikilink")（東立）
-
   - \-{[らき☆すたOVA（オリジナルなビジュアルとアニメーション）](https://zh.wikipedia.org/wiki/:ja:らき☆すた_\(アニメ\)#OVA "wikilink")}- - [幸運☆星 OVA](../Page/幸運☆星.md "wikilink")
-
   - \-{[:ja:楽勝\!ハイパードール](https://zh.wikipedia.org/wiki/:ja:楽勝!ハイパードール "wikilink")}- - [樂勝Hyper Doll](https://zh.wikipedia.org/wiki/樂勝Hyper_Doll "wikilink")
-
   - \-{[ラブひな Again](https://zh.wikipedia.org/wiki/:ja:ラブひな "wikilink")}- - [純情房東俏房客](../Page/純情房東俏房客.md "wikilink") Again
-
   - \-{[ランジェリー戦士パピヨンローゼ](https://zh.wikipedia.org/wiki/:ja:パピヨンローゼ "wikilink")}-
-
   - \-{[Rance〜砂漠のガーディアン〜](https://zh.wikipedia.org/wiki/:ja:Rance "wikilink")}- - [Rance](https://zh.wikipedia.org/wiki/Rance "wikilink")
-
   - \-{[:ja:ランドロック](https://zh.wikipedia.org/wiki/:ja:ランドロック "wikilink")}-
-
-  -   - \-{らんま1/2 SPECIAL}-
+  - [亂馬½](https://zh.wikipedia.org/wiki/亂馬½ "wikilink")
+      - \-{らんま1/2 SPECIAL}-
       - \-{らんま1/2 SUPER}-
-
   - \-{[:ja:リヨン伝説フレア](https://zh.wikipedia.org/wiki/:ja:リヨン伝説フレア "wikilink")}-
-
       - \-{リヨン伝説フレア2 禁断の惑星}-
       - \-{新リヨン伝説 漆黒の魔神}-
       - \-{新リヨン伝説 もう一人のフレア}-
-
   - \-{[Licca ふしぎな不思議なユーニア物語](https://zh.wikipedia.org/wiki/:ja:リカちゃん "wikilink")}- - [麗佳娃娃](../Page/麗佳公主.md "wikilink")
-
       - \-{リカちゃん ふしぎな魔法のリング}-
       - \-{リカちゃんの日曜日}-
       - \-{リカちゃんとヤマネコ 星の旅}-
-
   - \-{[:ja:力王](https://zh.wikipedia.org/wiki/:ja:力王 "wikilink")}- - [力王](../Page/力王.md "wikilink")
-
   - \-{[:ja:リフレインブルー](https://zh.wikipedia.org/wiki/:ja:リフレインブルー "wikilink")}-
-
-  -
+  - [龍機傳承](../Page/龍機傳承.md "wikilink")
   - \-{[:ja:竜世紀](https://zh.wikipedia.org/wiki/:ja:竜世紀 "wikilink")}-
-
   - \-{[:ja:流星機ガクセイバー](https://zh.wikipedia.org/wiki/:ja:流星機ガクセイバー "wikilink")}- - [學園流星機](https://zh.wikipedia.org/wiki/學園流星機 "wikilink")（新潮社）
-
   - \-{[LILY-C.A.T（リリィ・キャット）](https://zh.wikipedia.org/wiki/:ja:LILY-C.A.T "wikilink")}-
-
   - \-{るーみっくわーるど}- - 高橋留美子世界
-
       - \-{[るーみっくわーるど1 炎トリッパー](https://zh.wikipedia.org/wiki/:ja:炎トリッパー "wikilink")}-
       - \-{[るーみっくわーるど2 ザ・超女](https://zh.wikipedia.org/wiki/:ja:ザ・超女 "wikilink")}-
       - \-{[るーみっくわーるど3 笑う標的](https://zh.wikipedia.org/wiki/:ja:笑う標的 "wikilink")}-
       - \-{[高橋留美子 1ポンドの福音](https://zh.wikipedia.org/wiki/:ja:1ポンドの福音 "wikilink")}- - [1磅的福音](../Page/1磅的福音.md "wikilink")（尖端） [一磅的福音](../Page/1磅的福音.md "wikilink")
       - \-{[人魚の森](https://zh.wikipedia.org/wiki/:ja:人魚の森 "wikilink")}- - [人鱼森林](https://zh.wikipedia.org/wiki/人鱼森林 "wikilink")
       - \-{[人魚の傷](https://zh.wikipedia.org/wiki/:ja:人魚シリーズ "wikilink")}-
-
-  -   -
+  - [鲁邦三世](../Page/鲁邦三世.md "wikilink")
+      - [魯邦三世 風魔一族的陰謀](../Page/魯邦三世_風魔一族的陰謀.md "wikilink")
       - \-{[:ja:ルパン三世 生きていた魔術師](https://zh.wikipedia.org/wiki/:ja:ルパン三世_生きていた魔術師 "wikilink")}-
-
       - \-{[:ja:ルパン三世 GREEN vs RED](https://zh.wikipedia.org/wiki/:ja:ルパン三世_GREEN_vs_RED "wikilink")}-
-
   - \-{[るり色プリンセス](https://zh.wikipedia.org/wiki/:ja:折原みと "wikilink")}-
-
-  -   - \-{るろうに剣心 -明治剣客浪漫譚- 追憶編}-
+  - [浪客剑心](../Page/浪客剑心.md "wikilink")
+      - \-{るろうに剣心 -明治剣客浪漫譚- 追憶編}-
       - \-{るろうに剣心 -明治剣客浪漫譚- 星霜編}-
-
   - \-{[レイアース](https://zh.wikipedia.org/wiki/:ja:魔法騎士レイアース#OVA "wikilink")}- - [魔法騎士雷阿斯](https://zh.wikipedia.org/wiki/魔法騎士 "wikilink")
-
       - \-{レイアース特別編-希望の翼-}- - 魔法騎士特別篇-希望之翼-
-
   - \-{[レイナ剣狼伝説](https://zh.wikipedia.org/wiki/:ja:マシンロボ_クロノスの大逆襲 "wikilink")}- - [麗娜劍狼傳說](../Page/機器勇士.md "wikilink")
-
       - \-{ライトニングトラップ レイナ&ライカ}-
-
   - \-{[霊能探偵ミコ](https://zh.wikipedia.org/wiki/:ja:井荻寿一 "wikilink")}-
-
   - \-{[レジェンド・オブ・クリスタニア](https://zh.wikipedia.org/wiki/:ja:レジェンド・オブ・クリスタニア#作品リスト "wikilink")}- - [水晶國傳說](https://zh.wikipedia.org/wiki/水晶國傳說 "wikilink")
-
   - \-{[レリックアーマーレガシアム](https://zh.wikipedia.org/wiki/:ja:レリックアーマーLEGACIAM "wikilink")}-
-
   - \-{[:ja:スターライトスクランブル 恋愛候補生](https://zh.wikipedia.org/wiki/:ja:スターライトスクランブル_恋愛候補生 "wikilink")}- - [戀愛候補生](https://zh.wikipedia.org/wiki/戀愛候補生 "wikilink")
-
   - \-{レンタマン}-
-
       - \-{[:ja:紅いハヤテ](https://zh.wikipedia.org/wiki/:ja:紅いハヤテ "wikilink")}-
-
-      -
+      - [亚马尻一家](../Page/亚马尻一家.md "wikilink")
       - \-{[江口寿史の寿五郎ショウ](https://zh.wikipedia.org/wiki/:ja:寿五郎ショウ "wikilink")}-
-
       - \-{[:ja:夢枕獏とわいらいと劇場](https://zh.wikipedia.org/wiki/:ja:夢枕獏とわいらいと劇場 "wikilink")}-
-
-  -
+  - [羅德斯島戰記](../Page/羅德斯島戰記.md "wikilink")
   - \-{[:ja:ロボットカーニバル](https://zh.wikipedia.org/wiki/:ja:ロボットカーニバル "wikilink")}- - [機器人嘉年華會](https://zh.wikipedia.org/wiki/機器人嘉年華會 "wikilink")
 
 ### 日本製OVAわ行

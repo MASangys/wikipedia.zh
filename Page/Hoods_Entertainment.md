@@ -21,6 +21,7 @@
   - [漂流武士](../Page/漂流武士.md "wikilink")（，2016年，HOODS DRIFTERS STUDIO名義）
   - [童話魔法使](../Page/童話魔法使.md "wikilink")（，2018年）
   - [三次元女友 REAL GIRLl](https://zh.wikipedia.org/wiki/三次元女友 "wikilink")（，2018年）
+  - [戰×戀](../Page/戰×戀.md "wikilink")（，2019年）
 
 ### OVA
 

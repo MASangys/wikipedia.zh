@@ -14,10 +14,6 @@ B7RLE採用氣缸容量為7公升的[渦輪增壓柴油引擎](https://zh.wikipe
 
 ## 銷售
 
-### 臺灣
-
-[Fengyuan_Bus_616-FX_20130618.jpg](https://zh.wikipedia.org/wiki/File:Fengyuan_Bus_616-FX_20130618.jpg "fig:Fengyuan_Bus_616-FX_20130618.jpg")打造）\]\] [大台南公車-興南客運紅線配車KKA-7321.jpg](https://zh.wikipedia.org/wiki/File:大台南公車-興南客運紅線配車KKA-7321.jpg "fig:大台南公車-興南客運紅線配車KKA-7321.jpg")打造)\]\] [大台南公車-興南客運_KKA-7352.jpg](https://zh.wikipedia.org/wiki/File:大台南公車-興南客運_KKA-7352.jpg "fig:大台南公車-興南客運_KKA-7352.jpg")打造)\]\] 2007年由[嘉義客運](../Page/嘉義客運.md "wikilink")首次引進當作[嘉義公車捷運](../Page/嘉義公車捷運.md "wikilink")使用，2007年～2012年為[唐榮車輛科技](../Page/唐榮車輛科技.md "wikilink")負責打造車體，從2013年～2018年由[大吉汽車](../Page/大吉汽車.md "wikilink")打造車體，自2019年起臺灣已停止生產該車款。 目前[臺灣](../Page/臺灣.md "wikilink")擁有此款車的業者為：[嘉義客運](../Page/嘉義客運.md "wikilink")、[豐原客運](https://zh.wikipedia.org/wiki/豐原客運 "wikilink")、[興南客運](../Page/興南客運.md "wikilink")、[府城客運](https://zh.wikipedia.org/wiki/府城客運 "wikilink")、[高雄客運](../Page/高雄客運.md "wikilink")、[日統客運](../Page/日統客運.md "wikilink")、[臺西客運](https://zh.wikipedia.org/wiki/臺西客運 "wikilink")、[汎航通運](https://zh.wikipedia.org/wiki/汎航通運 "wikilink")（交通車部門）、[巨業交通](../Page/巨業交通.md "wikilink")、[中壢客運](../Page/中壢客運.md "wikilink")、[新竹客運](../Page/新竹客運.md "wikilink")、[桃園客運](../Page/桃園客運.md "wikilink")及[鼎東客運](../Page/鼎東客運.md "wikilink")。
-
 ### 香港
 
 #### 皇巴士
@@ -39,6 +35,18 @@ B7RLE採用氣缸容量為7公升的[渦輪增壓柴油引擎](https://zh.wikipe
 AVC於2016年9月全數更換LED光管照明。
 
 而因應香港政府資助更換歐盟2期引擎的商業車輛的計劃(2017年12月31日截止)，部份AVC(皆為2010年領牌的)將會在2017年內改裝訓練巴士取代歐盟2型D10A引擎的1997-1998年[富豪奧林比安](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")（包括11米版及12米版）及前[龍運巴士](../Page/龍運巴士.md "wikilink")[亞歷山大車身的](https://zh.wikipedia.org/wiki/亞歷山大車身 "wikilink")1998年[丹尼士三叉戟三型](../Page/丹尼士三叉戟三型.md "wikilink")，其中AVC10於2017年3月底開始改裝訓練巴士，後來AVC14-36於同年4月初陸續開始改裝訓練巴士。
+
+### 臺灣
+
+[Fengyuan_Bus_616-FX_20130618.jpg](https://zh.wikipedia.org/wiki/File:Fengyuan_Bus_616-FX_20130618.jpg "fig:Fengyuan_Bus_616-FX_20130618.jpg")打造）\]\] [大台南公車-興南客運紅線配車KKA-7321.jpg](https://zh.wikipedia.org/wiki/File:大台南公車-興南客運紅線配車KKA-7321.jpg "fig:大台南公車-興南客運紅線配車KKA-7321.jpg")打造)\]\] [大台南公車-興南客運_KKA-7352.jpg](https://zh.wikipedia.org/wiki/File:大台南公車-興南客運_KKA-7352.jpg "fig:大台南公車-興南客運_KKA-7352.jpg")打造)\]\] 2007年由[嘉義客運](../Page/嘉義客運.md "wikilink")首次引進當作[嘉義公車捷運](../Page/嘉義公車捷運.md "wikilink")使用，2007年～2012年為[唐榮車輛科技](../Page/唐榮車輛科技.md "wikilink")負責打造車體，從2013年～2018年由[大吉汽車](../Page/大吉汽車.md "wikilink")打造車體，自2019年起臺灣已停止生產該車款。 目前[臺灣](../Page/臺灣.md "wikilink")擁有此款車的業者為：[嘉義客運](../Page/嘉義客運.md "wikilink")、[豐原客運](https://zh.wikipedia.org/wiki/豐原客運 "wikilink")、[興南客運](../Page/興南客運.md "wikilink")、[府城客運](https://zh.wikipedia.org/wiki/府城客運 "wikilink")、[高雄客運](../Page/高雄客運.md "wikilink")、[日統客運](../Page/日統客運.md "wikilink")、[臺西客運](https://zh.wikipedia.org/wiki/臺西客運 "wikilink")、[汎航通運](https://zh.wikipedia.org/wiki/汎航通運 "wikilink")（交通車部門）、[巨業交通](../Page/巨業交通.md "wikilink")、[中壢客運](../Page/中壢客運.md "wikilink")、[新竹客運](../Page/新竹客運.md "wikilink")、[桃園客運](../Page/桃園客運.md "wikilink")及[鼎東客運](../Page/鼎東客運.md "wikilink")。
+
+### 新加坡
+
+[SBS8030L.jpg](https://zh.wikipedia.org/wiki/File:SBS8030L.jpg "fig:SBS8030L.jpg") 新加坡在[聖淘沙擁有以Liannex車身為特色的B](https://zh.wikipedia.org/wiki/聖淘沙 "wikilink")7RLE ，既可以作為其內部班車的城市巴士配置，也可以作為開篷雙層巴士使用。於2007年12月向[新捷運提供了一個具有很快的車身特性的歐IV標準](https://zh.wikipedia.org/wiki/新捷運 "wikilink")（最初是為期一年的試用），註冊為SBS8030L，目前在[後港車廠作為訓練巴士](https://zh.wikipedia.org/wiki/後港車廠 "wikilink")。
+
+### 馬來西亞
+
+[快捷通巴士](../Page/快捷通巴士.md "wikilink")目前營運的富豪B7RLE配上Gemilang車身
 
 ## 參見
 

@@ -1,4 +1,4 @@
-{{ infobox software | name = Mutt | screenshot = mutt.png | screenshot size = 237px | caption = 運作中的Mutt | developer = Brendan Cully | latest release version = 1.12.2 | latest release date =  | operating_system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | genre = [電子郵件用戶端](../Page/電子郵件用戶端.md "wikilink") | license = [GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")第二版或更新 | website = <http://www.mutt.org/> }}
+{{ infobox software | name = Mutt | screenshot = mutt.png | screenshot size = 237px | caption = 運作中的Mutt | developer = Brendan Cully | latest release version = 1.13.2 | latest release date =  | operating_system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | genre = [電子郵件用戶端](../Page/電子郵件用戶端.md "wikilink") | license = [GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")第二版或更新 | website = <http://www.mutt.org/> }}
 
 **Mutt** 是一种[类Unix系统](../Page/类Unix系统.md "wikilink")下基于文本的[電子郵件用戶端](../Page/電子郵件用戶端.md "wikilink")。起初由Michael Elkins于1995年开发并以[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")发布。
 

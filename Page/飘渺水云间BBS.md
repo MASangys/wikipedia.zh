@@ -52,6 +52,6 @@
 
 ## 外部链接
 
-  - [飘渺水云间BBS](http://proxy3.zju88.net)
+  - [飘渺水云间BBS](https://web.archive.org/web/20180323220006/http://proxy3.zju88.net/)
 
 [Category:浙江大学](https://zh.wikipedia.org/wiki/Category:浙江大学 "wikilink") [Category:中国大学BBS](https://zh.wikipedia.org/wiki/Category:中国大学BBS "wikilink")

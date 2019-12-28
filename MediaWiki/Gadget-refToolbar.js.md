@@ -9,19 +9,17 @@
 `* depending on the user preferences (the usebetatoolbar preference).`
 `*`
 `* @see: `[`Wikipedia:RefToolbar`](https://zh.wikipedia.org/wiki/Wikipedia:RefToolbar "wikilink")
-`* @see: `[`MediaWiki:RefToolbar.js`](../Page/MediaWiki:RefToolbar.js.md "wikilink")
-`* @see: `[`MediaWiki:RefToolbarConfig.js`](../Page/MediaWiki:RefToolbarConfig.js.md "wikilink")
-`* @see: `[`MediaWiki:RefToolbarLegacy.js`](../Page/MediaWiki:RefToolbarLegacy.js.md "wikilink")
-`* @see: `[`MediaWiki:RefToolbarMessages-en.js`](../Page/MediaWiki:RefToolbarMessages-en.js.md "wikilink")
-`* @see: `[`MediaWiki:RefToolbarMessages-de.js`](../Page/MediaWiki:RefToolbarMessages-de.js.md "wikilink")
-`* @see: `[`MediaWiki:Gadget-refToolbarBase.js`](../Page/MediaWiki:Gadget-refToolbarBase.js.md "wikilink")
-`* @author: `[`User:Mr.Z-man`](../Page/User:Mr.Z-man.md "wikilink")
-`* @author: `[`User:Kaldari`](../Page/User:Kaldari.md "wikilink")
+`* @see: `[`MediaWiki:RefToolbar.js`](https://zh.wikipedia.org/wiki/MediaWiki:RefToolbar.js "wikilink")
+`* @see: `[`MediaWiki:RefToolbarConfig.js`](../MediaWiki/RefToolbarConfig.js.md "wikilink")
+`* @see: `[`MediaWiki:RefToolbarLegacy.js`](https://zh.wikipedia.org/wiki/MediaWiki:RefToolbarLegacy.js "wikilink")
+`* @see: `[`MediaWiki:RefToolbarMessages-en.js`](../MediaWiki/RefToolbarMessages-en.js.md "wikilink")
+`* @see: `[`MediaWiki:RefToolbarMessages-de.js`](https://zh.wikipedia.org/wiki/MediaWiki:RefToolbarMessages-de.js "wikilink")
+`* @see: `[`MediaWiki:Gadget-refToolbarBase.js`](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-refToolbarBase.js "wikilink")
+`* @author: `[`User:Mr.Z-man`](https://zh.wikipedia.org/wiki/User:Mr.Z-man "wikilink")
+`* @author: `[`User:Kaldari`](https://zh.wikipedia.org/wiki/User:Kaldari "wikilink")
 `*/`
 
-/\*jshint browser: true, camelcase: true, curly: true, eqeqeq: true \*/
-/\*global jQuery, mediaWiki, importScript \*/ ( function ( mw, $ ) {
-'use strict'; function initializeRefTools() {
+/\*jshint browser: true, camelcase: true, curly: true, eqeqeq: true \*/ /\*global jQuery, mediaWiki, importScript \*/ ( function ( mw, $ ) { 'use strict'; function initializeRefTools() {
 
 `   if( window.refToolbarInstalled || $( '#wpTextbox1[readonly]' ).length ){`
 `       return;`
@@ -43,8 +41,7 @@
 
 }
 
-if ( $.inArray( mw.config.get( 'wgAction' ), \[ 'edit', 'submit' \] )
-\!== -1 ) {
+if ( $.inArray( mw.config.get( 'wgAction' ), \[ 'edit', 'submit' \] ) \!== -1 ) {
 
 `   // Double check if user.options is loaded, to prevent errors when copy pasted accross installations`
 `   $.when( mw.loader.using( ['user.options'] ), $.ready ).done( initializeRefTools );`

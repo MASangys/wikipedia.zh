@@ -7,8 +7,6 @@
 [Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink") [Category:载人航天器](https://zh.wikipedia.org/wiki/Category:载人航天器 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

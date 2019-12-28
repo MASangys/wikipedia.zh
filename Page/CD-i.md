@@ -82,18 +82,13 @@ CD-i的游戏手柄在[IGN](../Page/IGN.md "wikilink")编辑Craig Harris的史�
 [Category:飞利浦产品](https://zh.wikipedia.org/wiki/Category:飞利浦产品 "wikilink") [Category:影像儲存](https://zh.wikipedia.org/wiki/Category:影像儲存 "wikilink") [Category:1991年面世的產品](https://zh.wikipedia.org/wiki/Category:1991年面世的產品 "wikilink") [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink") [Category:第四世代遊戲機](https://zh.wikipedia.org/wiki/Category:第四世代遊戲機 "wikilink")
 
 1.  <http://www.philipscdi.com/history.htm>
-
 2.
-
 3.
 4.  [Philips TeleCD-i Assistant](http://www.philipscdi.com/accessories/network.htm)
-
 5.
-
 6.
 7.
 8.
 9.
 10.
-
 11.

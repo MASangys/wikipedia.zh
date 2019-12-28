@@ -53,16 +53,10 @@ nofollow link 不允许搜索引擎机器人跟随链接。这意味着如果网
 [Category:微格式](https://zh.wikipedia.org/wiki/Category:微格式 "wikilink") [Category:搜索引擎最佳化](https://zh.wikipedia.org/wiki/Category:搜索引擎最佳化 "wikilink") [Category:垃圾邮件](https://zh.wikipedia.org/wiki/Category:垃圾邮件 "wikilink")
 
 1.
-
 2.  [rel="nofollow" Specification](http://microformats.org/wiki/rel-nofollow), *Microformats.org*, retrieved June 17, 2007
-
 3.
-
 4.  [[W3C](https://zh.wikipedia.org/wiki/W3C "wikilink") Patent Policy 20040205](http://www.w3.org/Consortium/Patent-Policy-20040205/)，*W3.ORG*
-
 5.
 6.  Google（January 18, 2006）, [Preventing comment spam](http://googleblog.blogspot.com/2005/01/preventing-comment-spam.html), *Official Google Blog*, retrieved on May 29, 2007
-
 7.  Microsoft（June 3, 2008）, [Bing.com](http://www.bing.com/community/blogs/webmaster/archive/2008/06/03/robots-exclusion-protocol-joining-together-to-provide-better-documentation.aspx), "Bing Community", retrieved on June 11, 2009
-
 8.

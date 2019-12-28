@@ -64,76 +64,46 @@
 
   - [NDS版勇者斗恶龙天空系列](http://www.square-enix.co.jp/dragonquest/4to6/index.html)
 
-[Category:1992年电子游戏](https://zh.wikipedia.org/wiki/Category:1992年电子游戏 "wikilink") [Category:勇者鬥惡龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:勇者鬥惡龍系列電子遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:CHUNSOFT游戏](https://zh.wikipedia.org/wiki/Category:CHUNSOFT游戏 "wikilink") [Category:Matrix_Software游戏](https://zh.wikipedia.org/wiki/Category:Matrix_Software游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink")
+[Category:1992年电子游戏](https://zh.wikipedia.org/wiki/Category:1992年电子游戏 "wikilink") [Category:勇者鬥惡龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:勇者鬥惡龍系列電子遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:CHUNSOFT游戏](https://zh.wikipedia.org/wiki/Category:CHUNSOFT游戏 "wikilink") [Category:Matrix_Software游戏](https://zh.wikipedia.org/wiki/Category:Matrix_Software游戏 "wikilink") [Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:iOS游戏](https://zh.wikipedia.org/wiki/Category:iOS游戏 "wikilink") [Category:Android游戏](https://zh.wikipedia.org/wiki/Category:Android游戏 "wikilink")
 
 1.
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.  [Gaming's most important evolutions](http://www.gamesradar.com/f/gamings-most-important-evolutions/a-20101008102331322035/p-6), [GamesRadar](https://zh.wikipedia.org/wiki/GamesRadar "wikilink")
-
 9.  A. J. Glasser, [Knocked Up: A Look At Pregnancy In Video Games](https://web.archive.org/web/20090211223414/http://kotaku.com/5149307/knocked-up-a-look-at-pregnancy-in-video-games), [Kotaku](../Page/Kotaku.md "wikilink")
-
 10.
 11.
 12. Glenn Wilson, [Dragon Quest V: Hand of the Heavenly Bride - Staff Review](http://www.rpgamer.com/games/dq/dq5ds/reviews/dq5dsstrev1.html) , [RPGamer](https://zh.wikipedia.org/wiki/RPGamer "wikilink"), accessed 2011-02-23
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
 19.
-
 20.
 21.
-
 22.
-
 23.
-
 24.
-
 25.
 26. [Nintendo Power](https://zh.wikipedia.org/wiki/Nintendo_Power "wikilink"), volume 230. Future USA, Inc., article "A flight of Dragons" by Casey Loe Pages 50-57. Retrieved 2008-6-21.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
 34.
-
 35. Kurt Kalata, [A Japanese RPG Primer: The Essential 20 - Dragon Quest V](http://www.gamasutra.com/view/feature/3581/a_japanese_rpg_primer_the_.php?page=13), [Gamasutra](https://zh.wikipedia.org/wiki/Gamasutra "wikilink")
-
 36.
 37.
-
 38.
-
 39.
 40.
-
 41.

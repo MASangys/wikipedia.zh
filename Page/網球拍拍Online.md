@@ -33,7 +33,7 @@
   - [網球拍拍歐洲官方網站](https://web.archive.org/web/20120409135721/http://fantasytennis.en.alaplaya.net/)
   - [網球拍拍泰國官方網站](https://web.archive.org/web/20120413113302/http://fantatennis.mysquare.in.th/main.asp)
 
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:多人在線遊戲](https://zh.wikipedia.org/wiki/Category:多人在線遊戲 "wikilink") [Category:遊戲新幹線遊戲](https://zh.wikipedia.org/wiki/Category:遊戲新幹線遊戲 "wikilink") [Category:网球游戏](https://zh.wikipedia.org/wiki/Category:网球游戏 "wikilink") [Category:奇幻電子遊戲](https://zh.wikipedia.org/wiki/Category:奇幻電子遊戲 "wikilink")
+[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:多人在線遊戲](https://zh.wikipedia.org/wiki/Category:多人在線遊戲 "wikilink") [Category:遊戲新幹線遊戲](https://zh.wikipedia.org/wiki/Category:遊戲新幹線遊戲 "wikilink") [Category:网球电子游戏](https://zh.wikipedia.org/wiki/Category:网球电子游戏 "wikilink") [Category:奇幻電子遊戲](https://zh.wikipedia.org/wiki/Category:奇幻電子遊戲 "wikilink")
 
 1.  下方遊戲特色部分有說明。
 2.  台港澳版本於2007年6月25日進行CCB，7月3日CB，7月26日正式公開測試。

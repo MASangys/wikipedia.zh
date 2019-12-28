@@ -527,7 +527,6 @@ NASA</p></td>
 [Category:美國試驗機](https://zh.wikipedia.org/wiki/Category:美國試驗機 "wikilink")
 
 1.
-
 2.
 3.
 4.
@@ -551,7 +550,6 @@ NASA</p></td>
 22.
 23.
 24.
-
 25.
 26.
 27.
@@ -579,20 +577,14 @@ NASA</p></td>
 49.
 50.
 51.
-
 52.
 53.
 54.
 55.
 56.
 57. [Advanced Composite Cargo Aircraft gets X-plane designation](https://archive.is/20120630081008/http://www.af.mil/news/story.asp?id=123173711)
-
 58. [Introducing the X-56A MUTT: Who Let the Dog Out](http://www.nasa.gov/topics/aeronautics/features/x-56a_mutt.html)
-
 59.
-
 60.
-
 61.
-
 62.

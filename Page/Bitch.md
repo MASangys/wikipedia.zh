@@ -6,7 +6,7 @@
 
 在現代，這個字普遍被認為是冒犯語言，並且不被容許在正式場合出現。依照語言學家[黛柏拉·泰南](https://zh.wikipedia.org/wiki/黛柏拉·泰南 "wikilink")（Deborah Tannen）的說法，
 
-> 「bitch是你可以用來說一個女人的最卑劣語言。除了4個字母的C字之外。」
+> 「bitch是從C開頭及由四個英文字組成的字之外，你可以用來說辱罵一個女人的最卑劣語言。 」
 >
 > "Bitch is the most contemptible thing you can say about a woman. Save perhaps the four-letter C word."\[3\]
 > （cunt，意為[淫婦](https://zh.wikipedia.org/wiki/淫婦 "wikilink")）

@@ -31,7 +31,6 @@ WASP-12b在大氣層中的碳則以一氧化碳和甲烷的形式存在。這項
   - [TrES-2b](../Page/TrES-2b.md "wikilink")，另一顆表面將90%以上入射光輻射能吸收的系外行星。
   - [BPM 37093](../Page/BPM_37093.md "wikilink")，一顆富含碳的恆星。
   - [SuperWASP](../Page/超廣角尋找行星.md "wikilink")
-  - [PSR J1719-1438 b](../Page/PSR_J1719-1438_b.md "wikilink")
 
 ## 參考資料
 
@@ -45,39 +44,22 @@ WASP-12b在大氣層中的碳則以一氧化碳和甲烷的形式存在。這項
 [Category:2008年發現的系外行星](https://zh.wikipedia.org/wiki/Category:2008年發現的系外行星 "wikilink") [Category:熱木星](https://zh.wikipedia.org/wiki/Category:熱木星 "wikilink") [Category:凌星現象](https://zh.wikipedia.org/wiki/Category:凌星現象 "wikilink") [Category:御夫座](https://zh.wikipedia.org/wiki/Category:御夫座 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12. [Hubble Finds a Star Eating a Planet](http://www.nasa.gov/mission_pages/hubble/science/planet-eater.html) nasa.gov. 2010-05-20. Retrieved on 2010-12-10.
-
 13.
-
 14.
-
 15.
 16.
-
 17.
-
 18.
-
 19. [Российские астрономы впервые открыли луну возле экзопланеты](http://www.ria.ru/science/20120206/558647431.html) (in Russian) - "Studying of a curve of change of shine of WASP-12b has brought to the Russian astronomers unusual result: regular splashes were found out.\<...\> Though stains on a star surface also can cause similar changes of shine, observable splashes are very similar on duration, a profile and amplitude that testifies for benefit of exomoon existence."
-
 20.

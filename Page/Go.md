@@ -1,6 +1,6 @@
 ****（又稱****\[1\]）是[Google](../Page/Google.md "wikilink")開發的一种[静态](https://zh.wikipedia.org/wiki/静态类型 "wikilink")[强类型](https://zh.wikipedia.org/wiki/强类型 "wikilink")、[編譯型](https://zh.wikipedia.org/wiki/編譯語言 "wikilink")、[-{zh-hant:並發型;zh-hans:并发型}-](https://zh.wikipedia.org/wiki/並行計算 "wikilink")，并具有[垃圾回收功能的](../Page/垃圾回收_\(計算機科學\).md "wikilink")[编程语言](../Page/编程语言.md "wikilink")。
 
-，[羅勃·派克](../Page/羅勃·派克.md "wikilink")（Rob Pike）及[肯·汤普逊](../Page/肯·汤普逊.md "wikilink")於2007年9月开始设计Go，\[2\]，稍後Ian Lance Taylor、Russ Cox加入專案。Go是基於[Inferno](../Page/Inferno.md "wikilink")作業系統所開發的。\[3\]Go於2009年11月正式宣布推出，成為[開放原始碼專案](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，支援[Linux](../Page/Linux.md "wikilink")、[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Windows等作業系統](https://zh.wikipedia.org/wiki/Windows "wikilink")。\[4\] 在2016年，Go被軟體評價公司TIOBE 選為「TIOBE 2016 年最佳語言」。\[5\] ​ 目前，Go每半年发布一个二级版本（即从a.x升级到a.y）。
+，[羅勃·派克](../Page/羅勃·派克.md "wikilink")（Rob Pike）及[肯·汤普逊](../Page/肯·汤普逊.md "wikilink")於2007年9月开始设计Go，\[2\]，稍後Ian Lance Taylor、Russ Cox加入專案。Go是基於[Inferno](../Page/Inferno.md "wikilink")作業系統所開發的。\[3\]Go於2009年11月正式宣布推出，成為[開放原始碼專案](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，支援[Linux](../Page/Linux.md "wikilink")、[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[Windows等作業系統](https://zh.wikipedia.org/wiki/Windows "wikilink")。\[4\] 在2016年，Go被軟體評價公司TIOBE 選為「TIOBE 2016 年最佳語言」。\[5\] ​ 目前，Go每半年发布一个二级版本（即从a.x升级到a.y）。
 
 ## 描述
 
@@ -89,9 +89,9 @@ func main() {
 }
 ```
 
-Goroutine是類似線程的概念（但Goroutine並不是線程）。線程屬於系統層面，通常來說建立一個新的線程會消耗較多的資源且管理不易。而 Goroutine就像輕量級的線程，但我們稱其為併發，一個Go程式可以執行超過數萬個 Goroutine\[10\]，並且這些效能都是原生級的，隨時都能夠關閉、結束。一個核心裡面可以有多個Goroutine，透過GOMAXPROCS參數你能夠限制Gorotuine可以佔用幾個系統線程來避免失控。
+Goroutine是類似線程的概念，属于[纖程](../Page/纖程.md "wikilink")(区别于[协程](../Page/协程.md "wikilink")和[线程](../Page/线程.md "wikilink"))。線程屬於系統層面，通常來說建立一個新的線程會消耗較多的資源且管理不易；而协程的主要作用是提供在一個線程內的併發性，卻不能利用多個处理器線程。而 Goroutine就像輕量級的線程，一個Go程式可以執行超過數萬個 Goroutine\[10\]，並且這些效能都是原生級的，隨時都能夠關閉、結束，且運行在多個處理器執行緒上。一個核心裡面可以有多個Goroutine，透過GOMAXPROCS參數你能夠限制Gorotuine可以佔用幾個系統線程來避免失控。
 
-在內建的官方套件中也不時能夠看見Goroutine的應用，像是net/http中用來監聽網路服務的函式實際上是建立一個不斷執行迴圈的Goroutine。
+在內建的官方套件中也不時能夠看見Goroutine的應用，像是net/http中用來監聽網路服務的函式實際上是建立一個不斷執行迴圈的Goroutine；同时搭配了[epoll](https://zh.wikipedia.org/wiki/epoll "wikilink") 等IO[多路復用機制维护Goroutine的](https://zh.wikipedia.org/wiki/多路復用 "wikilink")[事件循环](https://zh.wikipedia.org/wiki/事件循环 "wikilink")。
 
 ## 编译器
 
@@ -185,25 +185,15 @@ Go的名稱與2003年發表的程式語言雷同。
 [Category:Go语言](https://zh.wikipedia.org/wiki/Category:Go语言 "wikilink") [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink") [Category:过程式编程语言](https://zh.wikipedia.org/wiki/Category:过程式编程语言 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:美国发明](https://zh.wikipedia.org/wiki/Category:美国发明 "wikilink") [Category:使用BSD许可证的软件](https://zh.wikipedia.org/wiki/Category:使用BSD许可证的软件 "wikilink") [Category:自由编译器和解释器](https://zh.wikipedia.org/wiki/Category:自由编译器和解释器 "wikilink") [Category:用Go編程的自由軟件](https://zh.wikipedia.org/wiki/Category:用Go編程的自由軟件 "wikilink")
 
 1.  [Google-go-language](https://www.techcrunch.com/2009/11/10/google-go-language/)
-
 2.  [Language Design FAQ](http://golang.org/doc/go_faq.html)
-
 3.  [goyacc.go: **Derived from Inferno's utils/iyacc/yacc.c**](http://golang.org/src/cmd/goyacc/goyacc.go)
-
 4.  [Installing Go](http://golang.org/doc/install.html#tmp_29)
-
 5.  <https://www.bnext.com.tw/article/42761/tiobe-2016-program-language>
-
 6.
 7.
 8.  <https://github.com/golang/go/issues/15292>
-
 9.
-
 10.
-
 11. [Google公布实现Go 1.5自举的计划](http://www.infoq.com/cn/news/2015/01/golang-15-bootstrapped)
-
 12. [Go FAQ: Implementation](http://golang.org/doc/go_faq.html#Implementation)
-
 13. <http://golang.org/doc/go_tutorial.html>

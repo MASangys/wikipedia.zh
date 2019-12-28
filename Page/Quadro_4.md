@@ -58,7 +58,7 @@ Quadro4系列共有十五款產品，其中Quadro4 NVS全系列、Quadro4 380 XG
 
   - [NVIDIA Quadro4系列主頁](http://www.nvidia.com/page/quadro4.html)
 
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:Quadro系列](https://zh.wikipedia.org/wiki/Category:Quadro系列 "wikilink") [Category:2002年面世的產品](https://zh.wikipedia.org/wiki/Category:2002年面世的產品 "wikilink")
 
 1.  [NVIDIA Quadro4 Solutions Selected by Top Workstation Manufacturers](http://www.nvidia.com/object/IO_20020218_9652.html)
 2.  [NVIDIA Introduces Groundbreaking New Mobile Workstation Solution](http://www.nvidia.com/object/IO_20020422_5502.html)

@@ -97,22 +97,14 @@ B.o.B的打榜单曲“Nothin' on You”已发布MV。他还发布了“Bet I”
 
 1.
 2.  [B.o.B Gets Support from T.I., Introduces New Name](http://www.mtv.com/news/articles/1607089/20090316/bob_2_.jhtml)
-
 3.  <http://www.songfacts.com/detail.php?id=4601>
-
 4.  [“Nothin' on You”在Billboard上的排名](http://www.billboard.com/#/song/b-o-b/nothin-on-you/18478440)。
-
 5.  Bain, Becky (April 20, 2010). \*["B.o.B On Loving Hayley Williams And Hating "Rap Politics""](http://www.idolator.com/5481781/b-o-b-on-loving-hayley-williams-and-hating-rap-politics)
-
 6.  McCall, Tris (April 9, 2010). \*["Rapper B.o.B connects with the mainstream-pop audience"](http://www.nj.com/entertainment/music/index.ssf/2010/04/rapper_bob_connects_with_the_m.html)
-
 7.  Burnett, John (May 13, 2008).\*["B.o.B: Hi, My Name Is..."](http://www.hiphopdx.com/index/interviews/id.1118/title.bob-hi-my-name-is)
-
 8.
 9.  Kennedy, Keith.\*["Featured Artist: B.o.B"](http://tjsdjs.com/featuredartist.php)
-
 10.
 11.
 12. [《B.o.B Presents: The Adventures of Bobby Ray》在Billboard 200上的排名](http://www.billboard.com/#/album/b-o-b/b-o-b-presents-the-adventures-of-bobby-ray/1339110)。
-
 13. <http://www.thatsthatish.com/2010/04/bob-satellite-x-bet-i-feat-ti-playboy.html>

@@ -7,6 +7,6 @@ Fixedsys是[點陣字型](https://zh.wikipedia.org/wiki/点阵字体 "wikilink")
 熱愛者以Fixedsys為基底，針對其不足進行改良，設計出衍生版本：
 
   - [Fixedsys TTF](https://web.archive.org/web/20150109124041/http://www.moviecorner.de/en/font-fixedsys-ttf/description)：將Fixedsys改為[TrueType](../Page/TrueType.md "wikilink")，使Fixedsys可以有12點以外的大小選擇。但為保留Fixedsys的特色，放大後文字邊緣仍然呈鋸齒狀。
-  - [Fixedsys Excelsior](http://fixedsysexcelsior.com/)：支援TrueType，僅支援12點大小，擴充了支援的[字集範圍](https://zh.wikipedia.org/wiki/字集 "wikilink")，意即此字型可以正確顯示更多的文字。
+  - [Fixedsys Excelsior](https://web.archive.org/web/20151226124617/http://www.fixedsysexcelsior.com/)：支援TrueType，僅支援12點大小，擴充了支援的[字集範圍](https://zh.wikipedia.org/wiki/字集 "wikilink")，意即此字型可以正確顯示更多的文字。
 
 [Category:无衬线字体](https://zh.wikipedia.org/wiki/Category:无衬线字体 "wikilink") [Category:等宽字体](https://zh.wikipedia.org/wiki/Category:等宽字体 "wikilink") [Category:微软字体](https://zh.wikipedia.org/wiki/Category:微软字体 "wikilink")

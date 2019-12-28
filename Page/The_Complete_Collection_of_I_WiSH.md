@@ -55,5 +55,4 @@
 [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
 
 1.  [Sony Music Online Japan : I WiSH : THE COMPLETE COLLECTION OF I WiSH](http://www.sonymusic.co.jp/Music/Arch/SMER/IWiSH/SECL-590/index.html)
-
 2.

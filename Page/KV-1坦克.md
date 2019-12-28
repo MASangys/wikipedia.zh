@@ -409,13 +409,13 @@ V-2-IS</p></td>
 ## 外部連結
 
   - [LemaireSoft](https://web.archive.org/web/20070701070505/http://www.lemaire.happyhost.org/char/complet/589.html)
-  - OnWar specifications: [KV-1 M39](http://www.onwar.com/tanks/ussr/fkv1m39.htm), [KV-1e M40](http://www.onwar.com/tanks/ussr/fkv1em40.htm), [KV-1 M41](http://www.onwar.com/tanks/ussr/fkv1m41.htm), [KV-1S](http://www.onwar.com/tanks/ussr/fkv1s.htm), [KV-85](http://www.onwar.com/tanks/ussr/fkv85.htm), [KV-2](http://www.onwar.com/tanks/ussr/fkv2m40.htm)
+  - OnWar specifications: [KV-1 M39](https://web.archive.org/web/20120716182106/http://www.onwar.com/tanks/ussr/fkv1m39.htm), [KV-1e M40](https://web.archive.org/web/20110513235307/http://www.onwar.com/tanks/ussr/fkv1em40.htm), [KV-1 M41](https://web.archive.org/web/20110513235314/http://www.onwar.com/tanks/ussr/fkv1m41.htm), [KV-1S](https://web.archive.org/web/20120716182200/http://www.onwar.com/tanks/ussr/fkv1s.htm), [KV-85](https://www.webcitation.org/67FVt9hQA?url=http://www.onwar.com/tanks/ussr/fkv85.htm), [KV-2](https://web.archive.org/web/20120716182235/http://www.onwar.com/tanks/ussr/fkv2m40.htm)
   - Russian Battlefield: [KV-1](http://www.battlefield.ru/index.php?option=com_content&task=view&id=46&Itemid=50&lang=en), [KV-1S](http://www.battlefield.ru/index.php?option=com_content&task=view&id=47&Itemid=50&lang=en), [KV-2](http://www.battlefield.ru/index.php?option=com_content&task=view&id=48&Itemid=50&lang=en), [KV-8](http://www.battlefield.ru/index.php?option=com_content&task=view&id=50&Itemid=50&lang=en), [KV-85](http://www.battlefield.ru/index.php?option=com_content&task=view&id=49&Itemid=50&lang=en), [KV-3](http://www.battlefield.ru/index.php?option=com_content&task=view&id=51&Itemid=48&lang=en)
-  - [World War II Vehicles](http://www.wwiivehicles.com/ussr/tanks-heavy/kv-1.asp)
+  - [World War II Vehicles](https://web.archive.org/web/20090909015108/http://www.wwiivehicles.com/ussr/tanks-heavy/kv-1.asp)
   - [Walkaround KV-85 from Avtovo, Saint-Petersburg (Russia)](http://scalemodels.ru/modules/photo/viewcat_cid_219.html)
   - [KV tanks](http://legion-afv.narod.ru/KV.html), KV tanks in museum and monuments
 
 [Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink") [Category:蘇聯二戰坦克](https://zh.wikipedia.org/wiki/Category:蘇聯二戰坦克 "wikilink") [Category:重型坦克](https://zh.wikipedia.org/wiki/Category:重型坦克 "wikilink")
 
-1.  [IS-3 Model 1945](http://www.onwar.com/tanks/ussr/data/is3.htm) onwar.com
+1.  [IS-3 Model 1945](http://www.onwar.com/tanks/ussr/data/is3.htm)  onwar.com
 2.  Выводы из испытаний Д-5Т и С-31 в КВ-85 и ИС-85. (1943, August 23). Retrieved April 20, 2017, from <http://yuripasholok.livejournal.com/3477915.html>

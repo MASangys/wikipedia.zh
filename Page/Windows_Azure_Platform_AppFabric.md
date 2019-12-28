@@ -18,7 +18,7 @@ AppFabric 目前包含兩種服務：存取控制以及服務匯流排，作為�
 
 #### v1.0
 
-Access Control v1.0 遵循 [OAuth](https://zh.wikipedia.org/wiki/OAuth "wikilink") [Web Resource Authorization Protocol](http://wiki.oauth.net/w/page/12238537/OAuth-WRAP) (WRAP)v0.9 的規格，可作為企業的[單一簽入](https://zh.wikipedia.org/wiki/單一簽入 "wikilink") (Single Sign On) 服務的資料儲存地，當使用者在系統中發出登入指令時，要求會先送到 AppFabric，由 AppFabric 驗證身份後，回傳以安全符記服務 (Security Token Service; STS) 協定格式傳回身份驗證的資料後，再由應用程式轉送給授權程式，檢查符記的資料內容 (會包含部份授權資訊) 後，授予使用者系統存取權限。
+Access Control v1.0 遵循 [OAuth](https://zh.wikipedia.org/wiki/OAuth "wikilink") [Web Resource Authorization Protocol](https://web.archive.org/web/20110616140211/http://wiki.oauth.net/w/page/12238537/OAuth-WRAP) (WRAP)v0.9 的規格，可作為企業的[單一簽入](https://zh.wikipedia.org/wiki/單一簽入 "wikilink") (Single Sign On) 服務的資料儲存地，當使用者在系統中發出登入指令時，要求會先送到 AppFabric，由 AppFabric 驗證身份後，回傳以安全符記服務 (Security Token Service; STS) 協定格式傳回身份驗證的資料後，再由應用程式轉送給授權程式，檢查符記的資料內容 (會包含部份授權資訊) 後，授予使用者系統存取權限。
 
 存取控制是由四個部份組成\[3\]：
 
@@ -234,9 +234,9 @@ AppFabric 的存取控制以及 Service Bus 的必要功能，都顯露了 REST 
 
 [Category:微軟](https://zh.wikipedia.org/wiki/Category:微軟 "wikilink") [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink") [Category:Microsoft_Azure](https://zh.wikipedia.org/wiki/Category:Microsoft_Azure "wikilink")
 
-1.  [Add Service Namespace to AppFabric](http://msdn.microsoft.com/en-us/library/ee725233.aspx)
+1.
 2.  [Windows Azure AppFabric Middle Software Services](http://www.microsoft.com/en-us/appfabric/azure/middleware-services.aspx)
-3.  [Access Control Management Tool](http://msdn.microsoft.com/en-us/library/ee706706.aspx)
+3.
 4.  [MSDN 邊做邊學 Windows Azure AppFabric Service Bus：打造服務導向應用程式](http://msdn.microsoft.com/zh-tw/azure/ff629018.aspx)
-5.  [AppFabric Service Bus Message Buffer Overview](http://msdn.microsoft.com/en-us/library/ee794877.aspx)
+5.
 6.  [Windows Azure AppFabric SDK](http://msdn.microsoft.com/en-us/library/ee173584.aspx)

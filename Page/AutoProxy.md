@@ -48,11 +48,7 @@
 
 1.
 2.
-
 3.
-
 4.
-
 5.  <https://github.com/gfwlist/gfwlist>
-
 6.

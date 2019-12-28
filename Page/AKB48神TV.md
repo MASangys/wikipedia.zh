@@ -212,7 +212,7 @@ Season1
   - [尾澤直志](https://zh.wikipedia.org/wiki/尾澤直志 "wikilink")（4 - 5） - 動畫
   - [小島幸子](../Page/小島幸子.md "wikilink")（5） - 声優
   - 香川透（8 - 9） - 徒手潛水漁師
-  - 谷口和樹（8 - 9） - [和歌山縣](https://zh.wikipedia.org/wiki/和歌山縣 "wikilink")[田邊市議会議員](https://zh.wikipedia.org/wiki/田邊市 "wikilink")
+  - 谷口和樹（8 - 9） - [和歌山縣](https://zh.wikipedia.org/wiki/和歌山縣 "wikilink")[田邊市](../Page/田邊市.md "wikilink")議会議員
   - 田上敦司（8） - 魷魚漁船「辨慶丸」船長
   - 物部徳明（8） - [備長炭](../Page/備長炭.md "wikilink")職人、和歌山縣西牟婁郡木炭協会理事
   - 田上雅人（9） - 南紀田邊海濱旁海豚豚互相接觸事業實行委員長、商工会議所青年部会長
@@ -1928,7 +1928,7 @@ Season12
 
 **嘉賓**
 
-  - [伊吉里岡田](https://zh.wikipedia.org/wiki/伊吉里岡田 "wikilink")（1 - 2） - 不眠耐久レースMC兼審判（[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")・[ものまねタレント](https://zh.wikipedia.org/wiki/ものまねタレント "wikilink")）
+  - [伊吉里岡田](https://zh.wikipedia.org/wiki/伊吉里岡田 "wikilink")（1 - 2） - 不眠耐久レースMC兼審判（[搞笑藝人](../Page/搞笑藝人.md "wikilink")・[ものまねタレント](https://zh.wikipedia.org/wiki/ものまねタレント "wikilink")）
   - [戶賀崎智信](../Page/戶賀崎智信.md "wikilink")（3） - AKB48團體總支配人
   - 管井秀憲（3、7） - [ボイストレーニング講師](https://zh.wikipedia.org/wiki/ボイストレーニング "wikilink")
   - [眞鍋かをり](https://zh.wikipedia.org/wiki/眞鍋かをり "wikilink")（4） - [マルチタレント講師](https://zh.wikipedia.org/wiki/マルチタレント "wikilink")（マルチタレントで前[寫真偶像](../Page/寫真偶像.md "wikilink")）
@@ -3343,53 +3343,34 @@ KII</small></p></td>
 [Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink") [Category:國興衛視電視節目](https://zh.wikipedia.org/wiki/Category:國興衛視電視節目 "wikilink")
 
 1.  联谊对象为春日俊彰等5位谐星。
-
 2.  物品交换全过程
     中奖冰棒棍→回形针盒→宠物用球→DVD机、叉子与汤匙→冰箱、DVD机ー→冰箱、DVD机、竹蜻蜓→冰箱、DVD机、酒→冰箱、挂轴→冰箱、和服（相当于29.8万円）
-
 3.  8月21日追加「用惊喜Party逗孩子们开心吧\!」的企划。
-
 4.  這個企劃是「小木生誕祭2011」宮崎發言決定的
-
 5.  優勝的狗、將成為[愛犬冠軍](https://zh.wikipedia.org/wiki/愛犬冠軍 "wikilink")（[藝文社](https://zh.wikipedia.org/wiki/藝文社 "wikilink")）2011年12月号的封面。
-
 6.  [ただし本業はピアニスト](http://oikawa-classic.com/artist/profile/pf-kodama_rena.php)
-
 7.  Season2（10 - 11）「“優”言実行、富士山に登れ\!」にも出演
-
 8.  Season11（8）「島田晴香のエースを狙え\!」、Season12（2）「島田晴香のエースを狙え\!～その二～」にも出演
-
 9.  本放送前の2013年8月28日の卒業公演を持って同グループを卒業したが、卒業前に収録参加してるため出演
-
 10. 2013年8月24日の東京ドームコンサートで昇格が発表されたが、収録時点では研究生だったため。
-
 11.
 12.
 13.
 14.
 15.
 16. NMB48成員是初次出演
-
 17.
 18.
 19. この回よりエンディング曲が35thシングルに変更。
-
 20. 通常放送版では初の1時間SP。全4回に渡って放送。
-
 21.
 22.
 23. ただし「古今東西ビーチバレーボール」の際はネ申軍側
-
 24.
 25. 名前等は非公開
-
 26. 夫・ダーレン、妻・ジェニファー、娘・エミー
-
 27. 夫・ジョーイ、妻・オリーン、長男・ジョーダン、次男・ジョナサン、三男・ジュード、四男・ジョーキン、長女・ジョビアナリン、次女・ジョイハラニ、祖母・アナ
-
 28. 本放送前の2014年12月27日の卒業公演を持って同グループを卒業したが、卒業前に収録参加してるため出演。
-
 29.
 30. この短期プログラムに参加した6名に対して絶大な評価し、収録を終え帰国した後日、スタッフの元に「彼女たちが将来ブロードウェイでのキャリアを考えているのなら、私は喜んで1人1人に推薦状を書き、ブロードウェイ関係者を紹介する旨を彼女たちにお伝えください」と言う内容のメールが届いた。
-
 31. 節目開頭，與節目表播放的内容不同（並不是正編，而是播放前篇的SP10）的事情的道歉。

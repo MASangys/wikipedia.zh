@@ -2,11 +2,11 @@
 
 2007年3月29日以歌曲《Break It》正式出道。2008年2月27日隊員因學業退出團體。[荷拉及](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")[知英在其後加入變成五人團體](https://zh.wikipedia.org/wiki/姜知英 "wikilink")\[1\]</ref>。同年7月24日推出首張迷你專輯《Rock U》，其後在10月13日推出首張數位單曲《GOOD DAY SEASON 2》2009年3月5日憑歌曲《Honey》首次奪得歌曲冠軍\[2\]</ref>。2014年1月14日，成員[妮可宣布退出團體](../Page/鄭龍珠.md "wikilink")，團體人數減至四人。4月5日，成員[知英](https://zh.wikipedia.org/wiki/姜知英 "wikilink")宣布退出團體，團體人數減至三人。7月1日，成員[齡智憑](../Page/許齡智.md "wikilink")《KARA PROJECT-KARA The Beginning》成為KARA新成員，團體人數增至四人。8月18日，KARA加入新成員[齡智後](../Page/許齡智.md "wikilink")，帶著第六張迷你專輯《Day & Night》回歸。2015年5月26日，KARA睽違九個月帶著第七張迷你專輯《IN LOVE》回歸。
 
-2016年1月15日，[奎利](../Page/朴奎利.md "wikilink")、[昇延](../Page/韓昇延.md "wikilink")、[荷拉在本月尾的合約到期後決定不再續約](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")，而[齡智則會繼續留在公司發展個人活動](../Page/許齡智.md "wikilink")、目前组合已经解散、虽然队长奎利已经提到了有望复出的可能性，但截至到至今尚未有任何KARA复出的消息。\[3\]\[4\]
+2016年1月15日，[奎利](../Page/朴奎利.md "wikilink")、[昇延](../Page/韓昇延.md "wikilink")、[荷拉在本月尾的合約到期後決定不再續約](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")，而[齡智則會繼續留在公司發展個人活動](../Page/許齡智.md "wikilink")、目前组合已经解散、虽然队长奎利已经提到了有望复出的可能性，但截至到至今尚未有任何KARA复出的消息。\[3\]\[4\]從2007年到2016年，KARA賣出了460萬張以上的唱片。
 
 ## 團名由來
 
-團體名稱**KARA**取自[希臘語chara](https://zh.wikipedia.org/wiki/希臘語 "wikilink")（）為喜樂之意，意味著這個團體希望用美妙的聲音把喜悅帶給大家。\[5\]**KARA**的官方應援顏色為珍珠桃色（近似皮膚上的肉色）\[6\]，歌迷的官方名稱為「KAMILIA」，意思為：KARA + FAMILIA ，FAMILIA亦是取自希臘語，意思是FAMILY（家庭），把兩字合併稱作KAMILIA即為KARA跟KARA的FAMILIY，代表著「KARA和歌迷是一體」之意。官方應援色為<font color = #FBBEA1>**珍珠桃色**</font>，官方應援物為珍珠桃色氣球。
+團體名稱**KARA**取自[希臘語chara](https://zh.wikipedia.org/wiki/希臘語 "wikilink")（）為喜樂之意，意味著這個團體希望用美妙的聲音把喜悅帶給大家。\[5\]**KARA**的官方應援色為<font color = #FBBEA1>**珍珠桃色**</font>（近似皮膚上的肉色），官方應援物為珍珠桃色氣球。\[6\]，歌迷的官方名稱為「KAMILIA」，意思為：KARA + FAMILIA ，FAMILIA亦是取自希臘語，意思是FAMILY（家庭），把兩字合併稱作KAMILIA即為KARA跟KARA的FAMILIY，代表著「KARA和歌迷是一體」之意。
 
 ## 成員資料
 
@@ -90,7 +90,7 @@ PlotData =
 
 </timeline>
 
-## 經歷
+## 音樂事業
 
 ### 韩国
 
@@ -109,19 +109,17 @@ PlotData =
 
   - 在2008年11月29日，DSP推出了Kara新單曲〈Pretty Girl〉的MV預告片，此預告片推出不到12小時，便已經有超過4萬人次點擊。同年12月2日，〈Pretty Girl〉的MV正式推出，並獲得正面的評價 女子團體Kara以「Party Girl」概念迴歸。
   - 2009年1月28日至2月2日，DSP在Kara的官方網站舉行了一個挑選繼〈Pretty Girl〉後的新宣傳單曲的投票，Kara後續曲29日開始在官方主頁上通過投票決定，最後由獲得6成票數的歌曲〈Honey〉奪得女子團體Kara確定《Pretty Girl》的後續曲，並於2月16日發佈該單曲MV，韓國女子團體Kara近日公開了新曲《Honey》MV，而此曲已在2月13日於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》作首次表演並在19日推出第二張迷你專輯的特別版。
-  - Kara分別於3月5日及3月8日憑〈Honey〉於Mnet《M\!Countdown》及[SBS](../Page/SBS_\(韓國\).md "wikilink")《[SBS人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》獲得歌曲冠軍，這首歌同時成為了Kara第一首獲得冠軍的歌曲，女子團體Kara在SBS (韓國)|SBS TV《SBS人氣歌謠》獲得第一名。
+  - Kara分別於3月5日及3月8日憑〈Honey〉於Mnet《M\!Countdown》及[SBS](../Page/SBS_\(韓國\).md "wikilink")《[SBS人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》獲得歌曲冠軍，這首歌同時成為了Kara第一首獲得冠軍的歌曲，女子團體Kara在[SBS TV](../Page/SBS_\(韓國\).md "wikilink")《SBS人氣歌謠》獲得第一名。
 
 #### 2009年－2010年
 
   - Kara於2009年7月28日中以「嶄新」風格推出單曲〈Wanna〉，此歌曲很快便登上各數位單曲榜。7月30日專輯《REVOLUTION》正式發行。
   - 迴歸活動由7月31日開始，在[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《Music Bank》中，Kara一共表演了〈Wanna〉及〈Mister〉2首歌曲。Kara因歌曲〈Mister〉中的「Hip Dance」而人氣急升，Kara出演《大眾交通運動歌》MV，Kara團體本週結束專輯《MR》宣傳活動，亦因而比以往兩年獲得更多廣告商邀請代言或拍攝廣告。
   - 2009年8月30日，〈Wanna〉於《[SBS人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》獲得歌曲冠軍。
-  - DSP在2010年2月9日發放了2張有關新專輯的預告照片並引起了人們關註，因為這次的專輯概念比以往更呈現出了Kara更成熟、黑暗和神秘的一面。翌日，專輯封套發佈，概念為「偷盜者」，而新曲名為〈Lupin〉。〈Lupin〉推出後不久即登上多個網上音樂排行榜的第一位，MV預告片在2月12日於Naver發放。2月17日，迷你專輯《Lupin》正式發行。2月22日，〈Lupin〉MV發放，在首2個小時一共吸引了超過9萬人次觀看『엉덩이춤』 카라 이번엔 어떤 춤? 『비상구춤 -할라춤 대박예감』，Kara在2月25日開始，於Mnet《M\!Countdown》作迴歸表演。
+  - DSP在2010年2月9日發放了2張有關新專輯的預告照片並引起了人們關註，因為這次的專輯概念比以往更呈現出了Kara更成熟、黑暗和神秘的一面。翌日，專輯封套發佈，概念為「偷盜者」，而新曲名為〈Lupin〉。〈Lupin〉推出後不久即登上多個網上音樂排行榜的第一位，MV預告片在2月12日於Naver發放。2月17日，迷你專輯《Lupin》正式發行。2月22日，〈Lupin〉MV發放，在首2個小時一共吸引了超過9萬人次觀看『엉덩이춤』 카라 이번엔 어떤 춤? 『비상구춤 -할라춤 대박예감』，Kara在2月25日開始，於Mnet《M\!Countdown》作回歸表演。
   - 在2010年3月4日，Kara首次憑〈Lupin〉於Mnet《M\!Countdown》獲得歌曲冠軍。緊接著的多個星期，Kara在《M\!Countdown》贏得另一個冠軍。3月12日，Kara自出道以來首次獲得《Music Bank》的歌曲冠軍。而〈Lupin〉亦在[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》獲得歌曲冠軍。Kara憑〈Lupin〉總共贏得6個獎項，這是她們目前憑單曲贏得最多的獎項數量。
   - KARA 最新迷你專輯《Jumping》在11月10日公開了音源和 MV 完整版。
-  - 因在日韓同時發行而引起熱議的《Jumping》是一張混合了80年代歐洲流行風和現代音效的專輯。近日一直努力拓展日本市场，在日本成为新進韓流明星的 KARA 時隔很長一段時間才出現在國内的舞台上，新造型登場的隊員們透出更加强烈的明星氣質讓粉絲眼前一亮。
-
-在日韓活動的 KARA 將於10日在日本發行收錄了两首日語歌曲的單曲2輯，16日在韓國國内出售韓語版本的迷你4輯。
+  - 因在日韓同時發行而引起熱議的《Jumping》是一張混合了80年代歐洲流行風和現代音效的專輯。在日韓活動的 KARA 於10日在日本發行收錄了两首日語歌曲的單曲2輯，16日在韓國國内出售韓語版本的迷你4輯。
 
 #### 2011年
 
@@ -227,13 +225,13 @@ PlotData =
   - 10月14日，“KARA 1st JAPAN TOUR 2012 KARASIA”演唱会 DVD 和 Blu-ray Disc影碟发售。
   - 11月14日，Kara推出第3張日文專輯《[Girls Forever](../Page/Girls_Forever.md "wikilink")》，發行當日就在公信榜奪下Top2的佳績，並收錄「Speed Up」、「GIRLS POWER」及「來電男孩」。
 
-#### 2013年
+#### 2013年：韓國史上女藝人首登東蛋
 
-  - 1月6日，Kara在日本東京巨蛋舉行了「KARASIA 2013 HAPPY NEW YEAR in Tokyo Dome」演唱會，是韓國女藝人史上首次在東京巨蛋開唱，也是繼2003年[t.A.T.u.後第一個於東蛋舉行演唱會的海外女子團體](https://zh.wikipedia.org/wiki/t.A.T.u. "wikilink")。
-  - 3月1日至3日，一套專為Kara繪製﹐並由各成員親自配音的動畫《KARA THE ANIMATION》於日本手機電視平台「NOTTV」播放。預告片在Kara2013年日本東京巨蛋演唱會中首次披露。動畫一共有 5 集﹐每集均由一位Kara成員作主人翁。
+  - 1月6日，Kara在日本東京巨蛋舉行了「KARASIA 2013 HAPPY NEW YEAR in Tokyo Dome」演唱會，是韓國女藝人史上首次在東京巨蛋開唱，也是繼2003年[t.A.T.u.後第一個於東蛋舉行演唱會的海外女子團體](https://zh.wikipedia.org/wiki/t.A.T.u. "wikilink")。 \[25\]
+  - 3月1日至3日，一套專為Kara繪製﹐並由各成員親自配音的動畫《KARA THE ANIMATION》於日本手機電視平台「NOTTV」播放。預告片在Kara2013年日本東京巨蛋演唱會中首次披露。動畫共5集﹐每集均由一位Kara成員作為主角。
   - 3月27日，Kara推出第8張日文單曲《[Bye Bye Happy Days\!](../Page/Bye_Bye_Happy_Days!.md "wikilink")》，及年初於日本東京巨蛋舉行之「KARASIA 2013 HAPPY NEW YEAR in Tokyo Dome」演唱會 DVD 和 Bluray 影碟。
   - 8月28日，Kara推出第4張日文專輯《[Fantastic Girls](../Page/Fantastic_Girls.md "wikilink")》，發行當日就在公信榜奪下Top2的佳績，並接著連續4天穩坐單曲榜亞軍的寶座，並收入「再見 美好時光」及「謝謝 夏之戀」。
-  - 10月8日至11月24日，横滨体育馆为开端，在福冈、大阪、名古屋、福井、琦玉市，神户约14万人动员「KARA 2nd JAPAN TOUR 2013 KARASIA」日本第二次巡回演唱会。
+  - 10月8日至11月24日，橫濱體育館為開場，在福岡、大阪、名古屋、福井、琦玉市，神户约14万人動員「KARA 2nd JAPAN TOUR 2013 KARASIA」日本第二次巡回演唱会。
   - 11月27日，KARA推出第10張日文單曲《[French Kiss](../Page/French_Kiss_\(Kara單曲\).md "wikilink")》與首張日文+韓文精選《Best Girls》，發行當天就上了各榜TOP4，同時也是Nicole和知英退團前最後一張單曲。
 
 #### 2014年：成員重組
@@ -246,9 +244,9 @@ PlotData =
 #### 2015年
 
   - 2月14日，在新高輪王子飯店舉行粉絲情人節派對。
-  - 3月23日，KARA 第十二張日文單曲發行確定。為迎接在日本出道五周年，KARA 選在5月5日推出共有三首主打歌的第十二張日文單曲《Sunshine Miracle/SUNNY DAYS》。\[25\]
-  - 3月26日，KARA 第12張日文單曲封面照公開。\[26\]
-  - 4月5日，KARA 第12張日文單曲主打歌之一《SUMMER☆GIC》MV 公開。\[27\]
+  - 3月23日，KARA 第十二張日文單曲發行確定。為迎接在日本出道五周年，KARA 選在5月5日推出共有三首主打歌的第十二張日文單曲《Sunshine Miracle/SUNNY DAYS》。\[26\]
+  - 3月26日，KARA 第12張日文單曲封面照公開。\[27\]
+  - 4月5日，KARA 第12張日文單曲主打歌之一《SUMMER☆GIC》MV 公開。\[28\]
 
 ## 音樂作品
 
@@ -272,8 +270,6 @@ PlotData =
   - 2012年：[PANDORA](../Page/PANDORA_\(Kara迷你專輯\).md "wikilink")
   - 2014年：[Day & Night](https://zh.wikipedia.org/wiki/Day_&_Night_\(Kara迷你專輯\) "wikilink")
   - 2015年：[IN LOVE](../Page/IN_LOVE_\(Kara迷你專輯\).md "wikilink")
-
-<font color =#696969><small>備註：Sweetune音樂團隊曾為KARA寫下好幾首熱門歌曲《Rock U》、《Pretty Girl》、《Lupin》、《Jumping》、《Step》、《Pandora》等大熱專輯(KARA 2.0時期的眾多熱門曲)，也曾經公開聲明只會替5人的KARA作詞曲\[28\]，因此在2014年後Sweetune就再也沒有替KARA 3.0作詞曲。但Sweetune與妮可(2014年離開KARA後發行第一張solo專輯《First Romance》)、昇延(直至2016年，奎利、昇延、荷拉三人與Dsp解約後，Sweetune才又與昇延合作，《那孩子是我》、《過得好嗎Do you remember?》)有個人合作。 </small></font>
 
 ### 日語
 
@@ -682,52 +678,28 @@ PlotData =
 1.
 2.
 3.  [KARA正式宣布解散！　「具荷拉等3人各自活動」](http://star.ettoday.net/news/631225) 2016年1月15日
-
 4.  [KARA复出有望？奎利「我们并非解散」](https://www.koreastardaily.com/sc/news/76790) 2016年4月14日
-
 5.
-
 6.  <http://karaboard.com/data/cheditor4/1211/788f08ff126ea63ac90a55b02fb9b10f_eslN7i2OS22uLn3dp3SjWjjxsfDqa1jR.jpg>
-
 7.  **하라**為純韓文，但為了讓中國粉絲能用漢字稱呼**하라**，所以負責代理的[華納音樂為](../Page/華納音樂_\(台灣\).md "wikilink")**Kara**正名時，便將**하라**譯為**荷拉**。
-
 8.
-
 9.
-
 10.
-
 11.
-12. [KARA 預計五月回歸](http://kpopn.com/2015/04/14/270576/) 2015年4月14日
-
-13. [KARA 5/26 回歸！](http://kpopn.com/2015/05/14/275533/) 2015年5月14日
-
-14. [KARA 迷你七輯封面,概念照](http://kpopn.com/2015/05/15/275741/) 2015年5月15日
-
-15. [KARA 新曲預告：齡智](http://kpopn.com/2015/05/18/276133/) 2015年5月18日
-
-16. [KARA 回歸預告：奎利](http://kpopn.com/2015/05/19/276277/) 2015年5月19日
-
-17. [KARA 回歸預告：昇延](http://kpopn.com/2015/05/20/276480/) 2015年5月20日
-
-18. [KARA 新曲預告：荷拉](http://kpopn.com/2015/05/21/276786/) 2015年5月21日
-
-19. [KARA 新輯曲目、試聽](http://kpopn.com/2015/05/22/276907/) 2015年5月22日
-
-20. [KARA《CUPID》團體預告](http://kpopn.com/2015/05/22/276991/) 2015年5月22日
-
-21. [KARA《CUPID》MV](http://kpopn.com/2015/05/26/277543/) 2015年5月26日
-
-22. [KARA《CUPID》練習室版](http://kpopn.com/2015/06/04/278797/) 2015年6月4日
-
+12. [KARA 預計五月回歸](http://kpopn.com/2015/04/14/270576/)  2015年4月14日
+13. [KARA 5/26 回歸！](http://kpopn.com/2015/05/14/275533/)  2015年5月14日
+14. [KARA 迷你七輯封面,概念照](http://kpopn.com/2015/05/15/275741/)  2015年5月15日
+15. [KARA 新曲預告：齡智](http://kpopn.com/2015/05/18/276133/)  2015年5月18日
+16. [KARA 回歸預告：奎利](http://kpopn.com/2015/05/19/276277/)  2015年5月19日
+17. [KARA 回歸預告：昇延](http://kpopn.com/2015/05/20/276480/)  2015年5月20日
+18. [KARA 新曲預告：荷拉](http://kpopn.com/2015/05/21/276786/)  2015年5月21日
+19. [KARA 新輯曲目、試聽](http://kpopn.com/2015/05/22/276907/)  2015年5月22日
+20. [KARA《CUPID》團體預告](http://kpopn.com/2015/05/22/276991/)  2015年5月22日
+21. [KARA《CUPID》MV](http://kpopn.com/2015/05/26/277543/)  2015年5月26日
+22. [KARA《CUPID》練習室版](http://kpopn.com/2015/06/04/278797/)  2015年6月4日
 23. [KARA正式宣布解散！　「具荷拉等3人各自活動」](http://star.ettoday.net/news/631225) 2016年1月15日
-
 24. [KARA复出有望？奎利「我们并非解散」](https://www.koreastardaily.com/sc/news/76790) 2016年4月14日
-
-25. [KARA 5/5 推出新日單](http://kpopn.com/2015/03/23/267073/) 2015年3月23日
-
-26. [KARA 第12張日單封面照](http://kpopn.com/2015/03/26/267793/) 2015年3月26日
-
-27. [KARA 新日單 MV 公開](http://kpopn.com/2015/04/05/269219/) 2015年4月5日
-
-28. <https://namu.wiki/w/Sweetune#s-2.4>
+25. <https://www.tokyo-dome.co.jp/dome/event/artist/>
+26. [KARA 5/5 推出新日單](http://kpopn.com/2015/03/23/267073/)  2015年3月23日
+27. [KARA 第12張日單封面照](http://kpopn.com/2015/03/26/267793/)  2015年3月26日
+28. [KARA 新日單 MV 公開](http://kpopn.com/2015/04/05/269219/)  2015年4月5日

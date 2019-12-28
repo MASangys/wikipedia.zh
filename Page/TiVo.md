@@ -21,4 +21,4 @@ Image:Series 2 tivo front.jpg|TiVo Series2 5xx系列正面 Image:Series 2 tivo b
 
 [Category:數碼電視](https://zh.wikipedia.org/wiki/Category:數碼電視 "wikilink") [Category:Linux設備](https://zh.wikipedia.org/wiki/Category:Linux設備 "wikilink") [Category:1999年面世的產品](https://zh.wikipedia.org/wiki/Category:1999年面世的產品 "wikilink")
 
-1.  <http://archive.tivocommunity.com/tivo-vb/showthread.php?s=&postid=429445>
+1.

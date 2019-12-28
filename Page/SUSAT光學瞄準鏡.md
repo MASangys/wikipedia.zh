@@ -21,7 +21,7 @@ SUSAT光學瞄準鏡是由英國（，簡稱：RARDE）所研發，並且由[美
   - 外形尺寸（長×寬×高）：145×60×55[毫米](../Page/毫米.md "wikilink")（5.71×2.36×2.17[英寸](https://zh.wikipedia.org/wiki/英寸 "wikilink")）
   - 重量：417[克](https://zh.wikipedia.org/wiki/克 "wikilink")（0.92[磅](../Page/磅.md "wikilink")）
   - [放大倍率](https://zh.wikipedia.org/wiki/望远镜放大倍数 "wikilink")：4倍
-  - [視角](https://zh.wikipedia.org/wiki/視野 "wikilink")：10°（177[密耳](https://zh.wikipedia.org/wiki/密耳 "wikilink")）
+  - [視角](../Page/視野.md "wikilink")：10°（177[密耳](https://zh.wikipedia.org/wiki/密耳 "wikilink")）
   - [入瞳直徑](https://zh.wikipedia.org/wiki/物鏡 "wikilink")：25.5毫米（1英吋）
   - [出瞳直徑](../Page/出射瞳.md "wikilink")：6毫米（0.24英吋）
   - [出瞳距離](../Page/適眼距.md "wikilink")：25毫米（0.98英吋）

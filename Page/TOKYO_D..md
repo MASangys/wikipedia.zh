@@ -75,5 +75,5 @@
 
 [Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
 
-1.   娛樂星聞 {{\!}} 三立新聞網 SETN.COM |url=<https://www.setn.com/News.aspx?NewsID=89324> |accessdate=2019-08-11 |work=www.setn.com |date=2015-08-10 |language=zh-Hant-TW}}
+1.   娛樂星聞 {{\!}} 三立新聞網 SETN.COM |url=<https://www.setn.com/News.aspx?NewsID=89324> |accessdate=2019-08-11 |work=www.setn.com |date=2015-08-10 |language=zh-TW}}
 2.

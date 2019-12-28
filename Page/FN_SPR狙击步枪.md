@@ -1,4 +1,4 @@
-**FN SPR**（，意為：[特警步槍](https://zh.wikipedia.org/wiki/特警隊 "wikilink")）是一系列由[比利时](../Page/比利时.md "wikilink")[埃斯塔勒](../Page/埃斯塔勒.md "wikilink")[國營工廠所設計和生產的](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")[栓式](../Page/手動槍機.md "wikilink")[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")，並且由FN的子公司FNH USA向市場發售，主要發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（或是民用狩獵市場的[.308 Winchester](../Page/.308_Winchester.md "wikilink")）[步槍子彈](../Page/步槍子彈列表.md "wikilink")，亦有些型號可以發射[.300 Winchester Short Magnum](https://zh.wikipedia.org/wiki/.300_Winchester_Short_Magnum "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**FN SPR**（，意為：[特警步槍](https://zh.wikipedia.org/wiki/特警隊 "wikilink")）是一系列由[比利时](../Page/比利时.md "wikilink")[埃斯塔勒](../Page/埃斯塔勒.md "wikilink")[國營工廠所設計和生產的](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")[栓式](../Page/手動槍機.md "wikilink")[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")，並且由FN的子公司FNH USA向市場發售，主要發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（或是民用狩獵市場的[.308 Winchester](../Page/.308_Winchester.md "wikilink")）[步槍子彈](../Page/步槍子彈列表.md "wikilink")，亦有些型號可以發射[.300 Winchester Short Magnum口徑](https://zh.wikipedia.org/wiki/.300_Winchester_Short_Magnum "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 設計細節
 
@@ -138,9 +138,6 @@ A5 M型採用的則是麥克米蘭A5式玻璃钢強化塑料底盤一體式戰�
 [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙击步枪](https://zh.wikipedia.org/wiki/Category:狙击步枪 "wikilink") [Category:.300_Winchester_Short_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.300_Winchester_Short_Magnum口徑槍械 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:比利時槍械](https://zh.wikipedia.org/wiki/Category:比利時槍械 "wikilink")
 
 1.
-
 2.  [FNH USA awarded FBI rifle contract | Shooting Industry | Find Articles at BNET.com](http://www.findarticles.com/p/articles/mi_m3197/is_7_49/ai_n6144514)
-
-3.  [Rifles: H-S Precision HTR & FN SPR-USG](http://www.gunsandammomag.com/long_guns/pair_042205/index.html)
-
+3.
 4.

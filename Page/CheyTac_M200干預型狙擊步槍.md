@@ -1,4 +1,4 @@
-**CheyTac M200“干預型”**（；Intervention，意為：戰術干預）是一款由[美国](../Page/美国.md "wikilink")槍械製造商[夏伊戰術公司](https://zh.wikipedia.org/wiki/夏伊戰術公司 "wikilink")（CheyTac）所生產的[手動槍機](../Page/手動槍機.md "wikilink")操作式[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，主要用途是阻截遠距離的[軟目標](https://zh.wikipedia.org/wiki/軟目標 "wikilink")，它使用了7發容量的可拆卸式單排[彈匣](../Page/彈匣.md "wikilink")供彈，發射或[.375 CheyTac](https://zh.wikipedia.org/wiki/.375_CheyTac "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**CheyTac M200“干預型”**（；Intervention，意為：戰術干預）是一系列由[美国](../Page/美国.md "wikilink")槍械製造商[夏伊戰術公司](https://zh.wikipedia.org/wiki/夏伊戰術公司 "wikilink")（CheyTac）所生產的[手動槍機](../Page/手動槍機.md "wikilink")操作式[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，主要用途是阻截遠距離的[軟目標](https://zh.wikipedia.org/wiki/軟目標 "wikilink")，它使用了7發容量的可拆卸式單排[彈匣](../Page/彈匣.md "wikilink")供彈，發射或[.375 CheyTac](https://zh.wikipedia.org/wiki/.375_CheyTac "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 據CheyTac文件指出，整個系統能夠在高達2,286公尺（2,500码，7,500英尺，1.42英里）的距離打出比1[角分還要小的精度](https://zh.wikipedia.org/wiki/角分 "wikilink")，是所有現代狙擊步槍之中射程最長的一枝。
 
@@ -239,7 +239,7 @@ CheyTac M200干預型狙擊步槍同時出現在[电影](../Page/电影.md "wiki
 
   - —《輕兵器》雜誌—
 
-      - 2010年12月下号：[新口径的尴尬：CheyTac 公司LRRS远程狙击步枪系统](http://www.xzbu.com/8/view-1052350.htm)
+      - 2010年12月下号：[新口径的尴尬：CheyTac 公司LRRS远程狙击步枪系统](https://web.archive.org/web/20140224174144/http://www.xzbu.com/8/view-1052350.htm)
       - 2012年3月下号：[美国Chey Tac公司M300 0.308英寸狙击步枪](http://mall.cnki.net/magazine/Article/QBQI201206002.htm)、[美国Chey Tac公司0.408英寸系列狙击步枪](http://mall.cnki.net/magazine/Article/QBQI201206011.htm)
 
 ## 外部連結
@@ -270,32 +270,21 @@ CheyTac M200干預型狙擊步槍同時出現在[电影](../Page/电影.md "wiki
 [Category:狙击步枪](https://zh.wikipedia.org/wiki/Category:狙击步枪 "wikilink") [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:.408_CheyTac口徑槍械](https://zh.wikipedia.org/wiki/Category:.408_CheyTac口徑槍械 "wikilink") [Category:.338_Lapua_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.338_Lapua_Magnum口徑槍械 "wikilink") [Category:.300_Winchester_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.300_Winchester_Magnum口徑槍械 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:美國狙擊步槍](https://zh.wikipedia.org/wiki/Category:美國狙擊步槍 "wikilink")
 
 1.  [CheyTac Information Papers](http://www.cheytac.com/White%20Paper2007.pdf)
-
 2.
 3.
 4.
 5.
 6.  —[Civilian Gunner—CheyTac M-200](http://www.wargamehk.com/CheytacM200.htm)
-
 7.
 8.
-
 9.
-
 10. [SAS sniper makes 1.5mile kill shot to take down ISIS jihadi](http://www.dailystar.co.uk/news/latest-news/616021/SAS-sniper-kill-shot-ISIS-jihadi-Iraq)
-
 11. Doing MOA capability testing is expensive. This is done by shooting 100 shots, no less than 2 minutes between each shot, correcting for conditions on each shot at 90% of the gun's supersonic range. You count the number of shots within an *x* MOA diameter. 80% of those shots in an **x** MOA arc within 90% of supersonic capability gives a REAL MOA value capability for a military grade long range rifle. If 80% of those shots fall within 0.9 MOA, then that is the gun's capability. If humans are shooting the guns, then you should use at least 5 shooters and average the values. Of course, a gun's individual capability should be tested at 200 yards (180 m) to determine if the gun can hold a real group or not. We did this with the .408 in 2001 and 2002. Gives honest numbers, but costs a lot.（米氏院長先生發表的聲明，[CheyTac](https://zh.wikipedia.org/wiki/CheyTac "wikilink")[有限公司](../Page/有限公司.md "wikilink")的前共同所有人及測試射手）
-
 12. [Statistical notes on rifle group patterns by Robert E. Wheeler](http://www.bobwheeler.com/guns/GroupStat.pdf)
-
 13.
 14. [CheyTac's Website](http://www.cheytac.com/)
-
 15.
 16. <https://sites.google.com/site/worldinventory/wiw_as_koreasouth>
-
 17.
-
 18. [YouTube video about the *Bordo Bereliler* (Maroon Berets) showing a CheyTac Intervention rifle at about 3:40 (in Turkish)](http://www.youtube.com/watch?v=3C4G5Wkbuw4&feature=related)
-
 19. [US Marine Corps Special Operations Command Detachment"Detachment One"](http://www.globalsecurity.org/military/agency/usmc/mcsocom-det.htm)

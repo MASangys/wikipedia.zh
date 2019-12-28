@@ -69,37 +69,22 @@ manaca採用了如同航空公司所實施之「哩程積點」服務。其點�
 [Category:日本智能卡](https://zh.wikipedia.org/wiki/Category:日本智能卡 "wikilink") [Category:電子貨幣](https://zh.wikipedia.org/wiki/Category:電子貨幣 "wikilink")
 
 1.  [ICカード乗車券の導入について](http://www.meitetsu.co.jp/profile/news/2005/1174558_1143.html)、名古屋鉄道、2006年2月13日
-
 2.  [ICカード《manaca》の概要〜当社の展開構想〜](http://www.meitetsu.co.jp/profile/news/2010/1200918_1138.html) 名古屋鉄道、2010年4月22日
-
 3.  [ICカード乗車券の名称とデザインを決定しました](http://www.meitetsu.co.jp/profile/news/2010/1200790_1138.html)、名古屋鉄道、2010年4月16日
-
 4.  [ICカード乗車券の名称とデザインを決定しました](http://www.kotsu.city.nagoya.jp/info/2007/iccard.html)、名古屋市交通局、2010年4月16日
-
 5.  [ICカード『manaca』のサービス開始日について](http://www.meitetsu.co.jp/profile/news/2010/1205791_1138.html) 名古屋鉄道、2010年11月11日
-
 6.  [manaca與TOICA之乘車票券功能之互通服務，於2012年（平成24年）4月21日（六）啟用](http://www.meitetsu.co.jp/profile/news/2011/1217252_1989.html) -名古屋鐵道新聞發佈 2011年12月22日
-
 7.   名古屋市交通局、2010年8月12日
-
 8.  以名鐵電車為例，回饋率為使用金額之0至14%。
-
 9.  [～電車とバス、お買い物もお得に\! ICカード「manaca」のマイレージポイントサービスおよび電子マネーポイントサービスの内容がまとまる](http://www.meitetsu.co.jp/profile/news/2010/1205895_1138.html) 名古屋鉄道、2010年11月18日
-
 10. [IC乗車券でマイレージ制 名古屋の地下鉄・バス、10年度から](http://www.chunichi.co.jp/article/feature/railway/list/200811/CK2009022202100009.html)  中日新聞、2008年11月14日
-
 11.
 12. 本內容是根據平成23（2011）年1月所發行之『manaca快速上手指南』。
-
 13. [名古屋市交通局がIC乗車券導入 電子マネー対応、11年初頭から](http://www.chunichi.co.jp/article/feature/railway/list/200903/CK2009032502000230.html)  中日新聞、2009年3月25日
-
 14.  名古屋鉄道、2009年3月24日
-
 15.
 16. [愛知県内のサークルKとサンクスでICカード「manaca」がご利用いただけます。～約1,040店舗へ 2011年春より導入～](http://www.meitetsu.co.jp/profile/news/2010/1205045_1138.html) 名古屋鉄道、2010年10月12日
-
 17.
 18. [名鉄manacaポイントサービス「たまルン」](http://manaca.meitetsu.co.jp/tamarun/index.html) 名鉄manacaと「たまルン」の公式サイト
-
 19.
 20.

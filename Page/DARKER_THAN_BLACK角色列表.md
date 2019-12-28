@@ -906,17 +906,13 @@
 [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink") [Category:師生戀題材作品](https://zh.wikipedia.org/wiki/Category:師生戀題材作品 "wikilink")
 
 1.  Tokyo Explosion 調查報告
-
 2.  黑之契約書
-
 3.
 4.
 5.  Shooting Star Book
-
 6.
 7.
 8.  三鷹文書分析報告
-
 9.
 10.
 11.

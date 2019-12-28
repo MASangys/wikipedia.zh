@@ -8,33 +8,33 @@
 
 ## 早期的Beta版本
 
-  - Build 2202：于2000年2月的某个时候被释出。整个操作系统与Windows 2000差别很小，并且很多地方（例如启动界面、安装过程）标示为Windows 2000，然而，“仅作测试目的”字样仍然显示在桌面的一角。用户登录界面显示“Windows Whistler”字样。
+  - Build 2202：于2000年2月的某个时候被释出。整个操作系统与Windows 2000差别很小，并且很多地方（例如启动界面、安装过程）标示为Windows 2000，然而，“仅作测试目的”字样仍然显示在桌面的一角。引入了实验室(版本分支)的概念。
 
 <!-- end list -->
 
-  - Build 2223.1 (with a build tag of main.000411-2307)：于2000年4月11日释出，并在2000年4月底的Windows硬件工程大会上（Windows Hardware Engineering Conference）预览。
+  - Build 2223.1 (with a build tag of main.000411-2307)：于2000年4月11日释出，并在2000年4月底的Windows硬件工程大会上（Windows Hardware Engineering Conference）预览。用户登录界面显示“Windows Whistler”字样。它是第一个在[任务栏](../Page/任务栏.md "wikilink")上采用分组类似项目、隐藏系统托盘里不常使用的图标的版本。
 
 2000年6月30日，微软宣布Whistler的Beta版程序技术测试开始。\[5\]
 
-从Build 2202开始，微软在之后的版本推出了一个全新的用户界面技术。这个界面当时叫做“Visual Style”，是基于与Stardock's WindowBlind相似的系统皮肤引擎。在这期间，微软还于2001年1月推出了“Professional”（之后被重命名为“Watercolor”）的主题，并开始了新的[开始菜单样式的开发](https://zh.wikipedia.org/wiki/开始菜单 "wikilink")。
+从Build 2223开始，微软在之后的版本推出了一个全新的用户界面技术。这个界面当时叫做“Visual Style”，是基于与Stardock's WindowBlind相似的系统皮肤引擎。在这期间，微软还于2001年1月推出了“Professional”（之后被重命名为“Watercolor”）的主题，并开始了新的[开始菜单样式的开发](https://zh.wikipedia.org/wiki/开始菜单 "wikilink")。
 
-  - Build 2250 (with a build tag of main.000628-2110)：于2000年7月13日在佛罗里达专业开发人员大会上释放给测试人员。是Whistler第一个提供给测试人员的版本。它紧密混合了Windows 2000和[Windows Me两个操作系统](../Page/Windows_Me.md "wikilink")，并没有太多的新特色，不过它是第一个具有Visual Style特性的版本，并拥有一个基于任务的控制面板。新的开始菜单样式在这个版本里被隐藏。
-
-<!-- end list -->
-
-  - Build 2257 (with a build tag of idx01.000810-2103)：2000年8月释出。这个版本包含了新的开始菜单和用户界面，并且是第一个具有微软“干净桌面”特性的版本\[6\]。另外，Visual Style拥有新的颜色。个人[防火墙](../Page/防火墙.md "wikilink")在这个版本开始出现。
+  - Build 2250 (with a build tag of main.000628-2110)：于2000年7月13日在佛罗里达专业开发人员大会上释放给测试人员。是Whistler第一个提供给测试人员的版本。它紧密混合了Windows 2000和[Windows Me两个操作系统](../Page/Windows_Me.md "wikilink")，并没有太多的新特色，不过它是第一个具有Visual Style特性的版本，并拥有一个基于任务的控制面板，并且引入快速用户切换功能。新的开始菜单样式在这个版本里被隐藏。
 
 <!-- end list -->
 
-  - Build 2267 (with a build tag of idx01.000910-1316)：于2000年10月3日释出。它提供了一些小的改善，不过没有大的新特性。它允许用户通过修改显示对话框来修改系统外观样式。该版本加入了一个叫做“兼容性中心”的工具，允许用户研究特定的硬件是否与操作系统兼容。
+  - Build 2257 (with a build tag of idx01.000810-2103)：2000年8月释出。这个版本包含了新的开始菜单和用户界面，并且是第一个默认不显示我的文档、我的电脑、网上邻居、Internet Explorer的版本\[6\]。另外，Visual Style拥有新的颜色。个人[防火墙](../Page/防火墙.md "wikilink")在这个版本开始出现。
 
 <!-- end list -->
 
-  - Build 2287 (with a build tag of beta1.001012-1640)：最后一个pre-Beta 1释出的版本。它拥有重新设计的安装向导、“帮助与支持中心”（类似Windows Me的样式）和一些用户界面的细微修改。它还是第一个使用[自动更新的版本](https://zh.wikipedia.org/wiki/自动更新 "wikilink")。
+  - Build 2267 (with a build tag of idx01.000910-1316)：于2000年10月3日释出。它提供了一些小的功能，不过没有大的新特性。它允许用户通过修改显示对话框来修改系统外观样式。该版本加入了一个叫做“兼容性中心”的工具，允许用户研究特定的硬件是否与操作系统兼容。
 
 <!-- end list -->
 
-  - Build 2296 (Beta 1, with a build tag of 2296.beta1.001024-1157)：于2000年10月31日释出。在这个版本里，开始面板被新的较为简单的开始菜单取代，出现一个基于[MMC的任务板](https://zh.wikipedia.org/wiki/MMC "wikilink")，使查找频繁使用的应用程序更加容易。它是第一个在[任务栏](../Page/任务栏.md "wikilink")上采用分组类似项目、隐藏系统托盘里不常使用的图标的版本。向后的兼容性也被添加到这个版本。快速用户切换开始启用。在这个开发阶段，2000年11月13日，微软宣布“Whistler”会被称作“Windows 2001”。这个名称不久后被放弃。
+  - Build 2287 (with a build tag of beta1.001012-1640)：最后一个pre-Beta 1释出的版本。它拥有重新设计的安装向导，“帮助与支持中心”（类似Windows Me的样式），开始面板被新的较为简单的开始菜单取代和一些用户界面的细微修改。还引入了远程协助、兼容模式、程序兼容性向导和系统配置实用程序。
+
+<!-- end list -->
+
+  - Build 2296 (Beta 1, with a build tag of 2296.beta1.001024-1157)：于2000年10月31日释出。首次引入预安装环境的概念([Windows Preinstallation Environment](https://zh.wikipedia.org/wiki/Windows_Preinstallation_Environment "wikilink"))。出现了一个基于[MMC的任务板](https://zh.wikipedia.org/wiki/MMC "wikilink")，使查找频繁使用的应用程序更加容易。在这个开发阶段，2000年11月13日，微软宣布“Whistler”会被称作“Windows 2001”。这个名称不久后被放弃。
 
 ## Pre-Beta 2和Beta 2
 

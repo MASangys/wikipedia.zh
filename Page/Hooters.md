@@ -34,6 +34,6 @@
 
 [Category:跨國公司](https://zh.wikipedia.org/wiki/Category:跨國公司 "wikilink") [Category:乔治亚州亚特兰大公司](https://zh.wikipedia.org/wiki/Category:乔治亚州亚特兰大公司 "wikilink") [Category:美國連鎖餐廳](https://zh.wikipedia.org/wiki/Category:美國連鎖餐廳 "wikilink") [Category:台灣餐廳](https://zh.wikipedia.org/wiki/Category:台灣餐廳 "wikilink")
 
-1.  [艾美亞當斯在波霸餐廳「Hooters」端盤子](http://tw.nextmedia.com/applenews/article/art_id/30422383/IssueID/20080405)
+1.
 2.
 3.

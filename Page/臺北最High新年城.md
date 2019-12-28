@@ -12,7 +12,7 @@
 
 因每年表演當日人數、車流量眾多，[臺北市政府](../Page/臺北市政府.md "wikilink")為避免當地[交通堵塞](../Page/交通堵塞.md "wikilink")，當日皆會邀集[臺北市政府交通局](https://zh.wikipedia.org/wiki/臺北市政府交通局 "wikilink")、[臺北市政府警察局等單位於](https://zh.wikipedia.org/wiki/臺北市政府警察局 "wikilink")[信義計畫區](../Page/信義計畫區.md "wikilink")與[台北101](../Page/台北101.md "wikilink")附近進行[交通管制](https://zh.wikipedia.org/wiki/交通管制 "wikilink")，禁止車輛進入及鄰近的[YouBike租賃站暫停營運](https://zh.wikipedia.org/wiki/臺北市公共自行車租賃系統 "wikilink")，另外臺北市政府也會向民眾宣導建議使用[大眾運輸工具到達管制區附近或離開](../Page/公共交通.md "wikilink")，如[臺北捷運](../Page/臺北捷運.md "wikilink")、[公車以及](../Page/公共汽車.md "wikilink")[台鐵等](https://zh.wikipedia.org/wiki/台鐵 "wikilink")，而早期最鄰近跨年晚會活動現場的捷運站為[板南線](../Page/板南線.md "wikilink")的[市政府站](https://zh.wikipedia.org/wiki/市政府站_\(臺北市\) "wikilink")，在2013年11月24日隨著捷運[信義線](../Page/信義線.md "wikilink")通車後，[台北101/世貿站也成為跨年晚會最鄰近的捷運站之一](https://zh.wikipedia.org/wiki/台北101/世貿站 "wikilink")，但由於表演結束後有數量眾多的遊客在同一時間進該兩站離開，所以[臺北市政府捷運工程局](https://zh.wikipedia.org/wiki/臺北市政府捷運工程局 "wikilink")、[臺北捷運公司都會宣導民眾盡量搭上述兩站前後一站的捷運站離開](https://zh.wikipedia.org/wiki/臺北捷運公司 "wikilink")，同時也會調整全線所有捷運列車營運時間從當日（12月31日）早上6點至隔日（1月1日）深夜12點長達42小時不收班，以及調度部分捷運班次列車不停靠市政府站和台北101/世貿站等措施。
 
-2015年末跨年增加[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[板橋區](https://zh.wikipedia.org/wiki/板橋區 "wikilink")[新板特區和新北市市民廣場大螢幕同步直播](https://zh.wikipedia.org/wiki/新板特區 "wikilink")，以紓解信義商圈週邊人潮。[新北市政府](../Page/新北市政府.md "wikilink")為避免當地[交通堵塞](../Page/交通堵塞.md "wikilink")，當日皆會邀集[新北市政府交通局](../Page/新北市政府交通局.md "wikilink")、[新北市政府警察局等單位於](https://zh.wikipedia.org/wiki/新北市政府警察局 "wikilink")[新板特區與](https://zh.wikipedia.org/wiki/新板特區 "wikilink")[新北市政府大樓](../Page/新北市政府大樓.md "wikilink")附近進行[交通管制](https://zh.wikipedia.org/wiki/交通管制 "wikilink")，禁止車輛進入及鄰近的[YouBike租賃站暫停營運](../Page/新北市公共自行車租賃系統.md "wikilink")，新北市政府也會向民眾宣導建議使用[大眾運輸工具到達新板特區或離開](../Page/公共交通.md "wikilink")。另外在[板橋公車站周邊](https://zh.wikipedia.org/wiki/板橋公車站 "wikilink")、[文化路](https://zh.wikipedia.org/wiki/文化路_\(新北市\) "wikilink")、[新府路交界的站前廣場公園](https://zh.wikipedia.org/wiki/新府路 "wikilink")，而夜間的燈海步道則會在公園的河岸小橋與市民廣場周邊設置。
+2015年末跨年增加[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[板橋區](https://zh.wikipedia.org/wiki/板橋區 "wikilink")[新板特區和新北市市民廣場大螢幕同步直播](https://zh.wikipedia.org/wiki/新板特區 "wikilink")，以紓解信義商圈週邊人潮。[新北市政府](../Page/新北市政府.md "wikilink")為避免當地[交通堵塞](../Page/交通堵塞.md "wikilink")，當日皆會邀集[新北市政府交通局](../Page/新北市政府交通局.md "wikilink")、[新北市政府警察局等單位於](https://zh.wikipedia.org/wiki/新北市政府警察局 "wikilink")[新板特區與](https://zh.wikipedia.org/wiki/新板特區 "wikilink")[新北市政府大樓](../Page/新北市政府大樓.md "wikilink")附近進行[交通管制](https://zh.wikipedia.org/wiki/交通管制 "wikilink")，禁止車輛進入及鄰近的[YouBike租賃站暫停營運](../Page/新北市公共自行車租賃系統.md "wikilink")，新北市政府也會向民眾宣導建議使用[大眾運輸工具到達新板特區或離開](../Page/公共交通.md "wikilink")。跨年晚會活動大螢幕同步直播的捷運站為[板南線](../Page/板南線.md "wikilink")的[板橋站](https://zh.wikipedia.org/wiki/板橋車站_\(台灣\) "wikilink")，但由於大螢幕表演結束後有數量眾多的遊客在同一時間進該兩站離開，所以[臺北捷運公司都會宣導民眾盡量搭上述兩站前後一站的捷運站離開](https://zh.wikipedia.org/wiki/臺北捷運公司 "wikilink")，另外在[板橋公車站周邊](https://zh.wikipedia.org/wiki/板橋公車站 "wikilink")、[文化路](https://zh.wikipedia.org/wiki/文化路_\(新北市\) "wikilink")、[新府路交界的站前廣場公園](https://zh.wikipedia.org/wiki/新府路 "wikilink")，而夜間的燈海步道則會在公園的河岸小橋與市民廣場周邊設置。
 
 ### 通往臺北市政府市民廣場
 
@@ -29,7 +29,7 @@
 
   - ：[六張犁站](https://zh.wikipedia.org/wiki/六張犁站 "wikilink")。
 
-  - ：[信義安和站](https://zh.wikipedia.org/wiki/信義安和站 "wikilink")、[台北101/世貿站](https://zh.wikipedia.org/wiki/台北101/世貿站 "wikilink")、[象山站](https://zh.wikipedia.org/wiki/象山站 "wikilink")。
+  - ：[信義安和站](https://zh.wikipedia.org/wiki/信義安和站 "wikilink")、[台北101/世貿站](https://zh.wikipedia.org/wiki/台北101/世貿站 "wikilink")、[象山站](https://zh.wikipedia.org/wiki/象山站 "wikilink")、[廣慈/奉天宮站](https://zh.wikipedia.org/wiki/廣慈/奉天宮站 "wikilink")。
 
   - ：**[松山站](https://zh.wikipedia.org/wiki/松山車站_\(台灣\) "wikilink")**、[南京三民站](https://zh.wikipedia.org/wiki/南京三民站 "wikilink")、**[台北小巨蛋站](https://zh.wikipedia.org/wiki/台北小巨蛋站 "wikilink")**。
 
@@ -52,138 +52,28 @@
 
   - ：[板橋站](https://zh.wikipedia.org/wiki/板橋車站_\(台灣\) "wikilink")、[新埔站](https://zh.wikipedia.org/wiki/新埔站_\(新北市\) "wikilink")、[府中站](https://zh.wikipedia.org/wiki/府中站 "wikilink")。
 
-  - ：[板橋站](https://zh.wikipedia.org/wiki/板橋車站_\(台灣\) "wikilink")、[板新站](https://zh.wikipedia.org/wiki/板新站 "wikilink")、[新埔民生站](https://zh.wikipedia.org/wiki/新埔民生站 "wikilink")
-
 ## 跨年人數紀錄
 
-<table style="width:12%;">
-<colgroup>
-<col style="width: 1%" />
-<col style="width: 2%" />
-<col style="width: 9%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>年份</p></th>
-<th><p>名稱</p></th>
-<th><p>人次</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2003年至2004年</p></td>
-<td><p>據臺北市政府捷運工程局統計</p></td>
-<td><p>跨年時有136.6萬餘人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到16萬人。</p>
-<ul>
-<li>2004跨年臺北捷運<a href="../Page/板南線.md" title="wikilink">板南線</a>和<a href="../Page/文山線.md" title="wikilink">文山線</a>以及台鐵<a href="https://zh.wikipedia.org/wiki/松山車站_(台灣)" title="wikilink">松山站首次加入跨年疏散營運</a>。</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>2004年至2005年</p></td>
-<td><p>據臺北市政府捷運工程局統計</p></td>
-<td><p>跨年時有142.2萬餘人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到萬人。</p></td>
-</tr>
-<tr class="odd">
-<td><p>2005年至2006年</p></td>
-<td><p>據臺北市政府捷運工程局統計</p></td>
-<td><p>跨年時有156.5萬餘人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到40萬人。</p></td>
-</tr>
-<tr class="even">
-<td><p>2006年至2007年</p></td>
-<td><p>據臺北市政府捷運工程局統計</p></td>
-<td><p>跨年時有157.6萬餘人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到50萬人。</p>
-<ul>
-<li>2007跨年臺北捷運<a href="../Page/板南線.md" title="wikilink">板南線</a>延伸<a href="../Page/土城線.md" title="wikilink">土城線</a>首次加入跨年疏散營運。</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>2007年至2008年</p></td>
-<td><p>據臺北市政府捷運工程局統計</p></td>
-<td><p>跨年時有高達192.9萬餘人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到萬人。</p></td>
-</tr>
-<tr class="even">
-<td><p>2008年至2009年</p></td>
-<td><p>據臺北市政府捷運工程局統計</p></td>
-<td><p>跨年時更有高達195萬餘人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到萬人。</p></td>
-</tr>
-<tr class="odd">
-<td><p>2009年至2010年</p></td>
-<td><p>據臺北市政府捷運工程局統計</p></td>
-<td><p>跨年時達216.8萬餘人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到75萬人。</p>
-<ul>
-<li>2010<a href="../Page/跨年日.md" title="wikilink">跨年</a><a href="../Page/臺北捷運.md" title="wikilink">臺北捷運</a><a href="../Page/板南線.md" title="wikilink">板南線</a>135秒1班以及<a href="../Page/內湖線.md" title="wikilink">內湖線</a>首次加入跨年疏散營運。</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>2010年至2011年</p></td>
-<td><p>據臺北市政府捷運工程局統計</p></td>
-<td><p>跨年時達250萬餘人次搭乘捷運，創下歷年新高。臺北市政府統計，市府跨年活動人數達到82萬人。</p>
-<ul>
-<li>2011跨年臺北捷運<a href="../Page/板南線.md" title="wikilink">板南線</a>轉乘<a href="../Page/蘆洲線.md" title="wikilink">蘆洲線</a>首次加入跨年疏散營運。</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>2011年至2012年</p></td>
-<td><p>據臺北市政府捷運工程局統計</p></td>
-<td><p>跨年時達204.1萬人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到80萬人。</p>
-<ul>
-<li>2012跨年臺北捷運<a href="../Page/板南線.md" title="wikilink">板南線</a><a href="https://zh.wikipedia.org/wiki/南港展覽館站" title="wikilink">南港展覽館站首次加入跨年疏散營運</a>。</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>2012年至2013年</p></td>
-<td><p>據臺北市政府捷運工程局統計</p></td>
-<td><p>跨年時達206.5萬人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到85萬人。</p>
-<ul>
-<li>2013跨年臺北捷運<a href="../Page/板南線.md" title="wikilink">板南線</a>轉乘<a href="../Page/中和新蘆線.md" title="wikilink">中和新蘆線</a><a href="https://zh.wikipedia.org/wiki/東門站_(台北市)" title="wikilink">東門站首次加入跨年疏散營運</a>。</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>2013年至2014年</p></td>
-<td><p>據臺北市政府捷運工程局統計</p></td>
-<td><p>跨年時達275.2萬人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到116萬人，市府首次突破百萬人紀錄。</p>
-<ul>
-<li>2014跨年臺北捷運<a href="../Page/信義線.md" title="wikilink">信義線</a>首次加入跨年疏散營運。</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>2014年至2015年</p></td>
-<td><p>據臺北市政府捷運工程局統計</p></td>
-<td><p>跨年時達296萬人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到118萬人，突破紀錄。</p>
-<ul>
-<li>2015跨年臺北捷運<a href="../Page/松山線.md" title="wikilink">松山線</a>首次加入跨年疏散營運。</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>2015年至2016年</p></td>
-<td><p>據臺北市政府捷運工程局統計</p></td>
-<td><p>跨年時達302.8萬人次搭乘捷運。臺北市政府表示往後不會去預估晚會現場人數，新聞媒體估計市府跨年活動人數達數十萬人。</p>
-<ul>
-<li>2016跨年新北市市民廣場螢幕播出台北最HIGH新年城跨年晚會完整版首次加入跨年疏散營運。</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>2016年至2017年</p></td>
-<td><p>據臺北市政府捷運工程局統計</p></td>
-<td><p>跨年時達264萬人次搭乘捷運，比去年少38.8萬。</p></td>
-</tr>
-<tr class="odd">
-<td><p>2017年至2018年</p></td>
-<td><p>據臺北市政府捷運工程局統計</p></td>
-<td><p>跨年時達259.4萬人次搭乘捷運，比前一年少4.6萬。</p></td>
-</tr>
-<tr class="even">
-<td><p>2018年至2019年</p></td>
-<td><p>據臺北市政府捷運工程局統計</p></td>
-<td><p>跨年時達250萬人次搭乘捷運，比前一年少9.4萬。</p></td>
-</tr>
-<tr class="odd">
-<td><p>2019年至2020年</p></td>
-<td><p>據臺北市政府捷運工程局統計</p></td>
-<td><p>跨年時達萬人次搭乘捷運</p></td>
-</tr>
-</tbody>
-</table>
+| 年份          | 名稱            | 人次                                                         |
+| ----------- | ------------- | ---------------------------------------------------------- |
+| 2003年至2004年 | 據臺北市政府捷運工程局統計 | 跨年時有136.6萬餘人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到16萬人。                  |
+| 2004年至2005年 | 據臺北市政府捷運工程局統計 | 跨年時有142.2萬餘人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到萬人。                    |
+| 2005年至2006年 | 據臺北市政府捷運工程局統計 | 跨年時有156.5萬餘人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到40萬人。                  |
+| 2006年至2007年 | 據臺北市政府捷運工程局統計 | 跨年時有157.6萬餘人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到50萬人。                  |
+| 2007年至2008年 | 據臺北市政府捷運工程局統計 | 跨年時有高達192.9萬餘人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到萬人。                  |
+| 2008年至2009年 | 據臺北市政府捷運工程局統計 | 跨年時更有高達195萬餘人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到萬人。                   |
+| 2009年至2010年 | 據臺北市政府捷運工程局統計 | 跨年時達216.8萬餘人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到75萬人。                  |
+| 2010年至2011年 | 據臺北市政府捷運工程局統計 | 跨年時達250萬餘人次搭乘捷運，創下歷年新高。臺北市政府統計，市府跨年活動人數達到82萬人。             |
+| 2011年至2012年 | 據臺北市政府捷運工程局統計 | 跨年時達204.1萬人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到80萬人                    |
+| 2012年至2013年 | 據臺北市政府捷運工程局統計 | 跨年時達206.5萬人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到85萬人。                   |
+| 2013年至2014年 | 據臺北市政府捷運工程局統計 | 跨年時達275.2萬人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到116萬人，市府首次突破百萬人紀錄。      |
+| 2014年至2015年 | 據臺北市政府捷運工程局統計 | 跨年時達296萬人次搭乘捷運。臺北市政府統計，市府跨年活動人數達到118萬人，突破紀錄。               |
+| 2015年至2016年 | 據臺北市政府捷運工程局統計 | 跨年時達302.8萬人次搭乘捷運。臺北市政府表示往後不會去預估晚會現場人數，新聞媒體估計市府跨年活動人數達數十萬人。 |
+| 2016年至2017年 | 據臺北市政府捷運工程局統計 | 跨年時達264萬人次搭乘捷運，比去年少38.8萬。                                  |
+| 2017年至2018年 | 據臺北市政府捷運工程局統計 | 跨年時達259.4萬人次搭乘捷運，比前一年少4.6萬。                                |
+| 2018年至2019年 | 據臺北市政府捷運工程局統計 | 跨年時達250萬人次搭乘捷運，比前一年少9.4萬。                                  |
+| 2019年至2020年 | 據臺北市政府捷運工程局統計 | 跨年時達萬人次搭乘捷運。                                               |
+|             |               |                                                            |
 
 ## 播出時間
 
@@ -221,7 +111,8 @@
 <a href="https://zh.wikipedia.org/wiki/JET日本台" title="wikilink">JET日本台</a><br />
 <a href="../Page/國興衛視.md" title="wikilink">國興衛視</a><br />
 <a href="../Page/好事聯播網.md" title="wikilink">好事989電台</a><br />
-<a href="https://zh.wikipedia.org/wiki/seednet" title="wikilink">seednet</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/seednet" title="wikilink">seednet</a><br />
+<a href="https://zh.wikipedia.org/wiki/臺北廣播電台" title="wikilink">臺北廣播電台</a></p></td>
 <td><p>2003年12月31日18:30～2004年1月1日01:00</p></td>
 </tr>
 <tr class="even">
@@ -231,7 +122,8 @@
 <a href="../Page/柳翰雅.md" title="wikilink">柳翰雅</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">联意制作股份有限公司</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS-G" title="wikilink">TVBS-G</a><br />
-<a href="https://zh.wikipedia.org/wiki/飛碟聯播網" title="wikilink">飛碟聯播網</a></p></td>
+<a href="../Page/飛碟聯播網.md" title="wikilink">飛碟聯播網</a><br />
+<a href="https://zh.wikipedia.org/wiki/臺北廣播電台" title="wikilink">臺北廣播電台</a></p></td>
 <td><p>2004年12月31日19:00～2005年1月1日01:00</p></td>
 <td></td>
 </tr>
@@ -244,7 +136,8 @@
 <a href="https://zh.wikipedia.org/wiki/艾莉絲" title="wikilink">艾莉絲</a></p></td>
 <td><p><a href="../Page/中天電視.md" title="wikilink">中天电视股份有限公司</a>（<a href="https://zh.wikipedia.org/wiki/旺旺中時集團" title="wikilink">旺旺中時集團</a>）</p></td>
 <td><p><a href="../Page/中天娛樂台.md" title="wikilink">中天娛樂台</a><br />
-<a href="https://zh.wikipedia.org/wiki/飛碟聯播網" title="wikilink">飛碟聯播網</a></p></td>
+<a href="../Page/飛碟聯播網.md" title="wikilink">飛碟聯播網</a><br />
+<a href="https://zh.wikipedia.org/wiki/臺北廣播電台" title="wikilink">臺北廣播電台</a></p></td>
 <td><p>2005年12月31日19:00～2006年1月1日01:00</p></td>
 <td></td>
 </tr>
@@ -255,7 +148,8 @@
 <a href="../Page/黑Girl.md" title="wikilink">黑澀會美眉</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">联意制作股份有限公司</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS-G" title="wikilink">TVBS-G</a><br />
-<a href="../Page/中國廣播公司.md" title="wikilink">中國廣播公司</a></p></td>
+<a href="../Page/中國廣播公司.md" title="wikilink">中國廣播公司</a><br />
+<a href="https://zh.wikipedia.org/wiki/臺北廣播電台" title="wikilink">臺北廣播電台</a></p></td>
 <td><p>2006年12月31日19:00～2007年1月1日01:00</p></td>
 <td></td>
 </tr>
@@ -264,7 +158,8 @@
 <td><p><a href="../Page/藍心湄.md" title="wikilink">藍心湄</a><br />
 <a href="../Page/何篤霖.md" title="wikilink">何篤霖</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">联意制作股份有限公司</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TVBS-G" title="wikilink">TVBS-G</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TVBS-G" title="wikilink">TVBS-G</a><br />
+<a href="https://zh.wikipedia.org/wiki/臺北廣播電台" title="wikilink">臺北廣播電台</a></p></td>
 <td><p>2007年12月31日19:00～2008年1月1日01:00</p></td>
 <td></td>
 </tr>
@@ -275,7 +170,8 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS" title="wikilink">联意制作股份有限公司</a><br />
 <a href="https://zh.wikipedia.org/wiki/台灣電視公司" title="wikilink">台灣電視公司</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVBS-G" title="wikilink">TVBS-G黃金娛樂台</a><br />
-<a href="../Page/臺灣電視台.md" title="wikilink">臺灣電視台</a></p></td>
+<a href="../Page/臺灣電視台.md" title="wikilink">臺灣電視台</a><br />
+<a href="https://zh.wikipedia.org/wiki/臺北廣播電台" title="wikilink">臺北廣播電台</a></p></td>
 <td><p>2008年12月31日19:00～2009年1月1日01:00<br />
 <a href="../Page/TVBS_(頻道).md" title="wikilink">TVBS</a>：2008年12月31日19:00～21:00與2009年1月1日01:00～02:00<br />
 臺北最HIGH新年城5週年</p></td>
@@ -418,7 +314,8 @@ viki</p></td>
 <a href="../Page/台灣大哥大.md" title="wikilink">myVideo</a><br />
 <a href="../Page/YouTube.md" title="wikilink">YouTube</a><br />
 <a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB</a> <a href="../Page/J2.md" title="wikilink">J2</a><br />
-<a href="https://zh.wikipedia.org/wiki/StarHub" title="wikilink">StarHub</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/StarHub" title="wikilink">StarHub</a><br />
+<a href="https://zh.wikipedia.org/wiki/Yahoo_TV" title="wikilink">Yahoo TV</a></p></td>
 <td><p>2016年12月31日19:00～2017年1月1日01:00</p></td>
 <td></td>
 </tr>
@@ -437,7 +334,7 @@ viki</p></td>
 <a href="../Page/LINE_TV.md" title="wikilink">LINE TV</a><br />
 <a href="../Page/台灣大哥大.md" title="wikilink">myVideo</a><br />
 <a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB</a><br />
-<a href="https://zh.wikipedia.org/wiki/臺北廣播電台" title="wikilink">臺北廣播電台</a></p></td>
+<a href="../Page/臺北廣播電臺.md" title="wikilink">臺北廣播電臺</a></p></td>
 <td><p>2017年12月31日19:00～2018年1月1日01:00</p></td>
 <td></td>
 </tr>
@@ -454,24 +351,29 @@ viki</p></td>
 <a href="../Page/YouTube.md" title="wikilink">YouTube</a><br />
 四季線上影視<br />
 <a href="https://zh.wikipedia.org/wiki/Twitch_(網站)" title="wikilink">Twitch</a><br />
-<a href="https://zh.wikipedia.org/wiki/臺北廣播電台" title="wikilink">臺北廣播電台</a><br />
+<a href="../Page/臺北廣播電臺.md" title="wikilink">臺北廣播電臺</a><br />
 LINE TODAY<br />
 Dailymotion</p></td>
 <td><p>2018年12月31日19:00～2019年1月1日01:00（公視主頻19:58起播出）<br />
+電競時段19:00～19:57<br />
 臺北最HIGH新年城15週年</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《2020臺北最HIGH新年城・这里我们混大的》</p></td>
-<td><p><a href="../Page/黃子佼.md" title="wikilink">黃子佼</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中華電視股份有限公司" title="wikilink">中華電視股份有限公司</a>（<a href="https://zh.wikipedia.org/wiki/台灣公廣集團" title="wikilink">台灣公廣集團</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/必應創造股份有限公司" title="wikilink">必應創造股份有限公司</a></p></td>
+<td><p>《2020臺北最HIGH新年城・这里我们混大的 TAIPEI x TAIPEI》</p></td>
+<td><p><a href="../Page/黃子佼.md" title="wikilink">黃子佼</a><br />
+<a href="https://zh.wikipedia.org/wiki/Lulu" title="wikilink">Lulu</a><br />
+</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/必應創造股份有限公司" title="wikilink">必應創造股份有限公司</a><br />
+<a href="https://zh.wikipedia.org/wiki/中華電視股份有限公司" title="wikilink">中華電視股份有限公司</a>（<a href="https://zh.wikipedia.org/wiki/台灣公廣集團" title="wikilink">台灣公廣集團</a>）</p></td>
 <td><p><a href="../Page/華視主頻.md" title="wikilink">華視主頻</a><br />
 <a href="../Page/華視新聞資訊台.md" title="wikilink">華視新聞資訊台</a><br />
-<a href="../Page/公視主頻.md" title="wikilink">公視主頻</a><br />
-<a href="../Page/公視3台.md" title="wikilink">公視3台</a><br />
-<a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
-<td><p>2019年12月31日19:00～2020年1月1日01:00</p></td>
+Astro TV(馬來西亞、汶萊)<br />
+DATV(日本)<br />
+<a href="../Page/臺北廣播電臺.md" title="wikilink">臺北廣播電臺</a><br />
+<a href="../Page/Facebook.md" title="wikilink">Facebook</a><br />
+<a href="https://zh.wikipedia.org/wiki/愛奇藝" title="wikilink">愛奇藝</a></p></td>
+<td><p>2019年12月31日18:30～2020年1月1日01:00</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -481,9 +383,13 @@ Dailymotion</p></td>
 
 ## 外部連結
 
-  - [臺北旅遊網](https://www.travel.taipei/zh-tw)
+  - [臺北旅遊網](https://web.archive.org/web/20181208190134/https://www.travel.taipei/zh-tw)
 
   -
   -
   -
+<!-- end list -->
+
+  - [2020台北最HIGH新年城](https://www.newyear2020.taipei)
+
 [Category:新年](https://zh.wikipedia.org/wiki/Category:新年 "wikilink") [Category:12月份的活動](https://zh.wikipedia.org/wiki/Category:12月份的活動 "wikilink") [Category:台北市文化](https://zh.wikipedia.org/wiki/Category:台北市文化 "wikilink") [Category:台北市旅遊景點](https://zh.wikipedia.org/wiki/Category:台北市旅遊景點 "wikilink") [Category:臺灣觀光年曆](https://zh.wikipedia.org/wiki/Category:臺灣觀光年曆 "wikilink")

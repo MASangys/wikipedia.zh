@@ -43,16 +43,10 @@
 [Category:遊戲引擎](https://zh.wikipedia.org/wiki/Category:遊戲引擎 "wikilink") [Category:育碧](https://zh.wikipedia.org/wiki/Category:育碧 "wikilink")
 
 1.  VE3D, ["Prince of Persia 2008 Information Ubidays 2008",英文](http://ve3d.ign.com/articles/news/38946/Prince-of-Persia-Prodigy-CG-Trailer-Information-Overload)
-
 2.  [PC Games Hardware: "刺客教條2引擎細節",英文](http://www.pcgameshardware.com/aid,684874/Assassins-Creed-2-Engine-detailed/News/)
-
 3.  gnn.gamer.com.tw[《刺客教條 3》公開全新 AnvilNext 引擎實機預告 遊戲系統全方位解析](http://gnn.gamer.com.tw/0/69030.html)
-
 4.  [http://www.geforce.com.tw/\[http://www.geforce.com.tw/whats-new/articles/ubisoft-rebuilds-anvilnext-to-bring-assassins-creed-unitys-world-to-life](http://www.geforce.com.tw/%5Bhttp://www.geforce.com.tw/whats-new/articles/ubisoft-rebuilds-anvilnext-to-bring-assassins-creed-unitys-world-to-life) Ubisoft 重新打造 AnvilNext 引擎，讓 「刺客教條：大革命 (Assassins Creed: Unity)」的遊戲世界更為逼真\]
-
 5.  gamingexcellence.com, [*獨家:《刺客教條》Q\&A - Scimitar引擎*](http://www.gamingexcellence.com/ps3/features/13.shtml), GamingExcellence,2007年10月25日,英文
-
 6.  Autodesk.com, ["Ubisoft Assassin’s Creed"](http://usa.autodesk.com/adsk/servlet/item?siteID=123112&id=10316291&linkID=10225710)
-
 7.
 8.  <http://evenements.fr.ubi.com/conference/> Ubisoft E3 Conference, "Convergence" video

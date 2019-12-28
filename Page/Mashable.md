@@ -18,12 +18,8 @@
 
 1.
 2.  据 [Mashable](http://mashable.com/) 自述
-
 3.  [Alexa ranking for mashable.com](http://www.alexa.com/data/details/traffic_details?q=&url=mashable.com)
-
 4.  参见 [Mashable](http://mashable.com/) 的category分类
-
 5.
-
 6.
 7.

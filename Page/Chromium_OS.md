@@ -14,7 +14,7 @@ Chromium OS整體設計如同負責處理網頁的[Google Chrome一般](../Page/
 
   - [韌體](../Page/韌體.md "wikilink")使得Chromium OS即使尚未完全解析[個人電腦硬體](https://zh.wikipedia.org/wiki/個人電腦硬體 "wikilink")，也能夠快速[啟動整個作業系統](../Page/啟動程式.md "wikilink")，這讓作業系統允許使用者透過行動儲存媒體啟動。這種方式在過去並不常出現在一般[個人電腦中](../Page/電子計算機.md "wikilink")，特別是[小筆電的市場中更是一大創舉](https://zh.wikipedia.org/wiki/小筆電 "wikilink")。此外，透過韌體還有利於作業系統在每個運作過程中能夠提供有效的安全性驗證步驟，並令作業系統在恢復運作[啟動程式](../Page/啟動程式.md "wikilink")時能更加迅速\[13\]。
   - 系統軟體架構主要以[Linux核心作為其運作核心](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")，並輔有可改善啟動效能的加速軟體來讓[使用者空間的消耗空間盡量減少](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")\[14\]。此外在[守护进程](../Page/守护进程.md "wikilink")方面，Chromium OS透過經另行調整過的[Upstart](../Page/Upstart.md "wikilink")軟體，令作業系統得以在為使用者提供優先重要的服務同時，同步為執行失敗的程式進行修補作業。這也讓作業系統不需同步開啟所有的行程來運作，同時能先將能夠優先延遲系統的某些服務執行，讓整體作業系統的啟動速度更為迅速\[15\]。
-  - [視窗管理員能同時處理多個用戶端與使用者的交流視窗](https://zh.wikipedia.org/wiki/視窗管理員 "wikilink")，其主要運作方式則與其他[X視窗系統一致](https://zh.wikipedia.org/wiki/X視窗系統 "wikilink")\[16\]。
+  - [視窗管理員能同時處理多個用戶端與使用者的交流視窗](https://zh.wikipedia.org/wiki/視窗管理員 "wikilink")，其主要運作方式則與其他[X視窗系統](../Page/X視窗系統.md "wikilink")一致\[16\]。
 
 ## 著名的版本
 
@@ -105,85 +105,53 @@ Chromium OS在一開始便是以[小筆電為主要作業平台](https://zh.wiki
 [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink") [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink") [Category:Chrome_OS](https://zh.wikipedia.org/wiki/Category:Chrome_OS "wikilink") [Category:Chromium](https://zh.wikipedia.org/wiki/Category:Chromium "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
 6.
-
 7.
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
 14.
 15.
 16.
 17.
-
 18.
 19.
-
 20.
 21.
-
 22.
 23.
-
 24.
-
 25.
 26.
 27.
-
 28.
 29.
-
 30.
-
 31.
-
 32.
 33.
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
 46.
-
 47.
-
 48.
-
 49.
-
 50.
 51.

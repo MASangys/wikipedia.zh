@@ -574,7 +574,7 @@ BREAKERZ SECRET SUMMER PARTY
 
   - 2008.07.13　名古屋・ell FITS ALL
   - 2008.07.20　大阪・FANJ twice
-  - 2008.07.27　東京・[LIQUIDROOM](https://zh.wikipedia.org/wiki/LIQUIDROOM "wikilink")
+  - 2008.07.27　東京・[LIQUIDROOM](../Page/LIQUIDROOM.md "wikilink")
   - 2008.08.08　東京・[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")
 
 </div>
@@ -591,7 +591,7 @@ BREAKERZ ONE MAN LIVE TOUR 2008 「BIG BANG\!」
 
 <div class="NavContent" style="text-align: left;">
 
-  - 2008.12.05　大阪・[Zepp Osaka](https://zh.wikipedia.org/wiki/Zepp "wikilink")
+  - 2008.12.05　大阪・[Zepp Osaka](../Page/Zepp.md "wikilink")
   - 2008.12.06　福岡・Zepp Fukuoka
   - 2008.12.12　札幌・Zepp Sapporo
   - 2008.12.14　仙台・Zepp Sendai

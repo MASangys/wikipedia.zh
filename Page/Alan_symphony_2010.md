@@ -55,5 +55,4 @@
 [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink") [Category:阿兰·达瓦卓玛](https://zh.wikipedia.org/wiki/Category:阿兰·达瓦卓玛 "wikilink")
 
 1.
-
 2.

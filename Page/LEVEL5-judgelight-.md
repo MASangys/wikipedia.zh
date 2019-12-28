@@ -4,7 +4,7 @@
 
   - 初回限定盤（GNCA-0155）及通常盤（GNCA-0156）2種版本。初回限定盤附收錄有《LEVEL5 -Judgelight-》PV的DVD。
   - 2010年1月10日，[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")26時-26時30分的特別节目《only my radio-gun 〜LEVEL5〜》播出时，《LEVEL5-judgelight》于节目内首次公开。
-  - 歌曲MV在[中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[山东省](https://zh.wikipedia.org/wiki/山东省 "wikilink")[青岛市](../Page/青岛市.md "wikilink")的[圣弥爱尔大教堂](../Page/圣弥爱尔大教堂.md "wikilink")等地取景。
+  - 歌曲MV在[中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[青岛市](../Page/青岛市.md "wikilink")的[圣弥爱尔大教堂](../Page/圣弥爱尔大教堂.md "wikilink")等地取景。
   - 集記至2010年3月底，銷量突破5萬張。
 
 ## 收錄歌曲

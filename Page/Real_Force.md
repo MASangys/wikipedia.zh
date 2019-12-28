@@ -17,12 +17,6 @@
 
 ## 脚注
 
-<div class="references-small">
-
-<references />
-
-</div>
-
 ## 外部連結
 
   - [官方網站](http://www.elisa-smile.com/)

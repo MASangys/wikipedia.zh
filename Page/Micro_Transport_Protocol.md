@@ -45,40 +45,22 @@ IETF在互联网草案中描述了LEDBAT算法，\[19\] 但µTP具体的实现�
 [Category:BitTorrent](https://zh.wikipedia.org/wiki/Category:BitTorrent "wikilink")
 
 1.  <http://forum.bittorrent.org/viewtopic.php?pid=762#p762>
-
 2.
-
 3.  [µTorrent's switch to UDP and why the sky isn't falling](http://arstechnica.com/news.ars/post/20081201-utorrents-switch-to-udp-and-why-the-sky-isnt-falling.html)
-
 4.  [uTorrent shifts towards UDP to make it work better](http://www.thinkbroadband.com/news/3807-utorrent-shifts-towards-udp-to-make-it-work-better.html)
-
 5.  [libutp, an open source implementation of µTP, has now been released](http://forum.utorrent.com/viewtopic.php?id=76640)
-
 6.  <https://github.com/bittorrent/libutp>
-
 7.  <http://torrentfreak.com/ktorrent-first-bittorrent-client-to-adopt-open-source-utp-100528/>
-
 8.  <http://ktorrent.org/?q=node/42>
-
 9.  <https://libtorrent.svn.sourceforge.net/svnroot/libtorrent/branches/libtorrent_utp/>
-
 10. <http://libtorrent.svn.sourceforge.net/viewvc/libtorrent/branches/libtorrent_utp/>
-
 11. <http://code.google.com/p/libtorrent/issues/detail?id=6>
-
 12. <http://azureus.sourceforge.net/plugin_details.php?plugin=azutp>
-
 13. <https://trac.transmissionbt.com/ticket/2338>
-
 14. <http://forum.bittorrent.org/viewtopic.php?pid=764#p764>
-
 15. <http://forum.bittorrent.org/viewtopic.php?id=131>
-
 16.
 17.
-
 18.
-
 19.
-
 20. <http://forum.bittorrent.org/viewtopic.php?pid=753#p753>

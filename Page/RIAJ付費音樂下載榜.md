@@ -30,17 +30,11 @@ RIAJ自2006年8月起開始統計日本國內的付費合法音樂下載，當�
 [Category:RIAJ付費音樂下載榜](https://zh.wikipedia.org/wiki/Category:RIAJ付費音樂下載榜 "wikilink") [Category:日本音樂排行榜](https://zh.wikipedia.org/wiki/Category:日本音樂排行榜 "wikilink") [Category:日本唱片協會](https://zh.wikipedia.org/wiki/Category:日本唱片協會 "wikilink") [Category:音樂下載](https://zh.wikipedia.org/wiki/Category:音樂下載 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.  [](http://www.riaj.or.jp/data/others/weekly_chart/index.html)
-
 6.
 7.
-
 8.
-
 9.

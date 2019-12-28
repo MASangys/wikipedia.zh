@@ -46,9 +46,9 @@ Mikiki總面積逾20萬平方呎，硬件連裝修總投資額達1.6億元。商
 
 ### L1
 
-一樓主要租戶包括佔地3,200呎的Metrobooks書店，是首間注入繽紛色調的分店，特設兒童及青少年書籍專區，並有落地玻璃的座位，到2017年結業。家品概念店Colour@life以「生活 + 趣味」為定位，並從日韓等地引入中高檔的特色家居用品，還設互動留言板，給顧客交換生活分享。其他租戶包括鬆弛熊博品館(已結業)、潮流天地眼鏡、大型玩具店[玩具之森](https://zh.wikipedia.org/wiki/玩具之森 "wikilink")、[眼鏡88](../Page/眼鏡88.md "wikilink")、C2 of City Chain、[豐澤](https://zh.wikipedia.org/wiki/豐澤 "wikilink")、[屈臣氏](https://zh.wikipedia.org/wiki/屈臣氏 "wikilink")、香港電業城、QB HOUSE及多間童裝店等。此外，場內亦設多間家居店，包括[軒琴居](https://zh.wikipedia.org/wiki/軒琴居 "wikilink")、Norwood home室內設計 (已結業)、[Sinomax及Pioneer](https://zh.wikipedia.org/wiki/Sinomax "wikilink") Creator Electric 燈飾店。
+一樓主要租戶包括佔地3,200呎的Metrobooks書店，是首間注入繽紛色調的分店，特設兒童及青少年書籍專區，並有落地玻璃的座位，到2017年結業。家品概念店Colour@life以「生活 + 趣味」為定位，並從日韓等地引入中高檔的特色家居用品，還設互動留言板，給顧客交換生活分享。其他租戶包括鬆弛熊博品館(已結業)、潮流天地眼鏡、大型玩具店[玩具之森](https://zh.wikipedia.org/wiki/玩具之森 "wikilink")、[眼鏡88](../Page/眼鏡88.md "wikilink")、C2 of City Chain、[豐澤](https://zh.wikipedia.org/wiki/豐澤 "wikilink")、[屈臣氏](https://zh.wikipedia.org/wiki/屈臣氏 "wikilink")、香港電業城、QB HOUSE及多間童裝店等。此外，場內亦設多間家居店，包括[軒琴居](https://zh.wikipedia.org/wiki/軒琴居 "wikilink")、Norwood home室內設計（已結業）、[Sinomax及Pioneer](https://zh.wikipedia.org/wiki/Sinomax "wikilink") Creator Electric 燈飾店。
 
-該層亦設多間食肆，包括Hip Bento café(已結業)、串(已結業)、小蜜蜂糖果店(已結業)、[金牌小龍](https://zh.wikipedia.org/wiki/金牌小龍 "wikilink")(已遷至LG層)及[龍皇酒家](https://zh.wikipedia.org/wiki/龍皇酒家 "wikilink")，其中Hip Bento café及[龍皇酒家設有室外用餐區](https://zh.wikipedia.org/wiki/龍皇酒家 "wikilink")。
+該層亦設多間食肆，包括Hip Bento café（已結業）、串（已結業）、小蜜蜂糖果店（已結業）、[金牌小龍](https://zh.wikipedia.org/wiki/金牌小龍 "wikilink")（已遷至LG層）及[龍皇酒家](https://zh.wikipedia.org/wiki/龍皇酒家 "wikilink")，其中Hip Bento café及[龍皇酒家設有室外用餐區](https://zh.wikipedia.org/wiki/龍皇酒家 "wikilink")。
 
 到2014年起商場進行租戶重組，多間食肆、家居、精品及童裝店已結業。新租戶以2、3線租客，包括健康產品及中下檔的生活用品店為主，新租戶包括[華潤堂](https://zh.wikipedia.org/wiki/華潤堂 "wikilink")、[優之良品](../Page/優之良品.md "wikilink")、[日本城旗下生活提案](https://zh.wikipedia.org/wiki/日本城 "wikilink")、偉成洋酒及[零食物語等](https://zh.wikipedia.org/wiki/零食物語 "wikilink")。新食肆為[元気寿司](https://zh.wikipedia.org/wiki/元気寿司 "wikilink")、PHO會安、日牛涮涮鍋專門店及金鍋鍋火鍋店。
 
@@ -56,7 +56,7 @@ Mikiki總面積逾20萬平方呎，硬件連裝修總投資額達1.6億元。商
 
 ## 商戶
 
-[HK_新蒲崗_SPK_San_Po_Kong_譽_港灣_Latitude_mall_shops_floorplan_n_directory_sign_Mar-2014.JPG](https://zh.wikipedia.org/wiki/File:HK_新蒲崗_SPK_San_Po_Kong_譽_港灣_Latitude_mall_shops_floorplan_n_directory_sign_Mar-2014.JPG "fig:HK_新蒲崗_SPK_San_Po_Kong_譽_港灣_Latitude_mall_shops_floorplan_n_directory_sign_Mar-2014.JPG") 商場設有2萬呎的美食專區，及3間複式店舖。2010年公佈的主要租戶包括[一田百貨](../Page/一田百貨.md "wikilink")旗下的超級市場(LG層)、YMK、韓國童裝品牌J.Ban's及寵物主題樂園吉のFun Club。到了2011年6月時再公佈新一批租戶。包括佔地3,200呎的Metrobooks書店則是首間注入繽紛色調的分店，特設兒童及青少年書籍專區，並有落地玻璃的座位。家品概念店Colour@life將以「生活 + 趣味」為定位，並從日韓等地引入中高檔的特色家居用品，還設互動留言板，給顧客交換生活分享。
+商場設有2萬呎的美食專區，及3間複式店舖。2010年公佈的主要租戶包括[一田百貨](../Page/一田百貨.md "wikilink")旗下的超級市場(LG層)、YMK、韓國童裝品牌J.Ban's及寵物主題樂園吉のFun Club。到了2011年6月時再公佈新一批租戶。包括佔地3,200呎的Metrobooks書店則是首間注入繽紛色調的分店，特設兒童及青少年書籍專區，並有落地玻璃的座位。家品概念店Colour@life將以「生活 + 趣味」為定位，並從日韓等地引入中高檔的特色家居用品，還設互動留言板，給顧客交換生活分享。
 
 其他租戶包括[鬆弛熊](../Page/鬆弛熊.md "wikilink")博品館，售賣蘋果電腦產品的DG Lifestyle Store、2%、bread n butter時裝店、Twist、K-swiss及adidas運動服裝店、ctf2年青新一代、[Converse及燈飾店等](https://zh.wikipedia.org/wiki/Converse "wikilink")。
 
@@ -70,8 +70,7 @@ Mikiki總面積逾20萬平方呎，硬件連裝修總投資額達1.6億元。商
 
   - [啟德發展區](../Page/啟德發展計劃.md "wikilink")
   - [新蒲崗廣場](https://zh.wikipedia.org/wiki/新蒲崗廣場 "wikilink")
-
-[越秀廣場](https://zh.wikipedia.org/wiki/越秀廣場 "wikilink")
+  - [越秀廣場](https://zh.wikipedia.org/wiki/越秀廣場 "wikilink")
 
 ## 交通
 

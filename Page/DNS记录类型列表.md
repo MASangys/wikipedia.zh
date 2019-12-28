@@ -416,23 +416,14 @@ RP(17) 可能被使用於有關指定的主機的不同聯絡點、子網域其�
 [Category:DNS记录类型](https://zh.wikipedia.org/wiki/Category:DNS记录类型 "wikilink") [Category:網際協議](https://zh.wikipedia.org/wiki/Category:網際協議 "wikilink")
 
 1.  RFC 2535, §3
-
 2.  RFC 3445, §1. "The KEY RR was defined in \[RFC 2930\]..."
-
 3.  RFC 2931, §2.4. "SIG(0) on the other hand, uses public key authentication, where the public keys are stored in DNS as KEY RRs and a private key is stored at the signer."
-
 4.  RFC 3445, §1. "DNSSEC will be the only allowable sub-type for the KEY RR..."
-
 5.  RFC 3755, §3. "DNSKEY will be the replacement for KEY, with the mnemonic indicating that these keys are not for application use, per \[RFC3445\]. RRSIG (Resource Record SIGnature) will replace SIG, and NSEC (Next SECure) will replace NXT. These new types completely replace the old types, except that SIG(0) \[RFC2931\] and TKEY \[RFC2930\] will continue to use SIG and KEY."
-
 6.
 7.
 8.  [IANA database](http://www.iana.org/assignments/dns-parameters)
-
 9.  [Weiler Spec](http://www.watson.org/~weiler/INI1999-19.pdf)
-
 10. RFC 2930, §6. "... the keying material is sent within the key data field of a TKEY RR encrypted under the public key in an accompanying KEY RR \[RFC 2535\]."
-
 11. RFC 2845, abstract
-
 12. RFC 1123 section 2.2, 5.2.12, 6.1.3.6

@@ -27,14 +27,9 @@ I.V.的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")是樂團在[東�
 [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink") [Category:X_Japan歌曲](https://zh.wikipedia.org/wiki/Category:X_Japan歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.

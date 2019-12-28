@@ -61,18 +61,11 @@ Vimeo在以下国家受到内容审查：
 [Category:2004年建立的网站](https://zh.wikipedia.org/wiki/Category:2004年建立的网站 "wikilink") [Category:网站](https://zh.wikipedia.org/wiki/Category:网站 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:虚拟社群](https://zh.wikipedia.org/wiki/Category:虚拟社群 "wikilink") [Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink") [Category:隨選視訊服務](https://zh.wikipedia.org/wiki/Category:隨選視訊服務 "wikilink") [Category:IAC_(公司)](https://zh.wikipedia.org/wiki/Category:IAC_\(公司\) "wikilink") [Category:2004年紐約州建立](https://zh.wikipedia.org/wiki/Category:2004年紐約州建立 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.

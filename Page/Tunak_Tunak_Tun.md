@@ -10,7 +10,7 @@
 
 ## 文化影响
 
-  - 在2017年[辽宁卫视](../Page/辽宁卫视.md "wikilink")春节联欢晚会上由王宁\[4\]、赵博\[5\]、[大兵](https://zh.wikipedia.org/wiki/大兵_\(演员\) "wikilink")\[6\]和[柳岩](../Page/柳岩.md "wikilink")\[7\]出演的小品《若要人不知》\[8\]中，有2段由柳岩和王明先后现场模仿的《Tunak Tunak Tun》中的舞蹈。该小品中，此舞被當作为色诱专用舞蹈。
+  - 在2017年[辽宁卫视](../Page/辽宁卫视.md "wikilink")春节联欢晚会上由王宁\[4\]、赵博\[5\]、大兵\[6\]和[柳岩](../Page/柳岩.md "wikilink")\[7\]出演的小品《若要人不知》\[8\]中，有2段由柳岩和王明先后现场模仿的《Tunak Tunak Tun》中的舞蹈。该小品中，此舞被當作为色诱专用舞蹈。
 
 ## 排行榜
 
@@ -40,18 +40,14 @@
 
   - [哔哩哔哩上的](../Page/Bilibili.md "wikilink")[我在东北玩泥巴](https://www.bilibili.com/video/av434618?from=search&seid=3169547357345275174)
 
-[Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink") [Category:印度歌曲](https://zh.wikipedia.org/wiki/Category:印度歌曲 "wikilink") [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink") [Category:YouTube音樂](https://zh.wikipedia.org/wiki/Category:YouTube音樂 "wikilink") [Category:網路爆紅短片](https://zh.wikipedia.org/wiki/Category:網路爆紅短片 "wikilink")
+[Category:1998年單曲](https://zh.wikipedia.org/wiki/Category:1998年單曲 "wikilink") [Category:印度歌曲](https://zh.wikipedia.org/wiki/Category:印度歌曲 "wikilink") [Category:空耳](https://zh.wikipedia.org/wiki/Category:空耳 "wikilink") [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink") [Category:YouTube音樂](https://zh.wikipedia.org/wiki/Category:YouTube音樂 "wikilink") [Category:網路爆紅短片](https://zh.wikipedia.org/wiki/Category:網路爆紅短片 "wikilink")
 
 1.
-
 2.  [暴强！当印度歌曲配上东北话字幕 多冷的隆冬](http://www.tudou.com/programs/view/hhJ8ssELVvg/)
-
 3.  [印度F4 (字幕版) - YouTube](http://www.youtube.com/watch?v=wjz2c7YKEg0)
-
 4.
 5.
 6.
 7.
 8.
-
 9.

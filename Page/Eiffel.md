@@ -34,7 +34,7 @@ end
   - [Eiffel standard](http://www.ecma-international.org/publications/standards/Ecma-367.htm), revision 2 (2006); this is the ECMA standard, with free access, its text identical to that of the ISO standard.
   - [SmartEiffel](http://smarteiffel.loria.fr/) (formerly SmallEiffel) a complete Eiffel compiler released under GNU GPL license, translates Eiffel code either to [C](https://zh.wikipedia.org/wiki/C_language "wikilink") or [Java bytecode](https://zh.wikipedia.org/wiki/Java_bytecode "wikilink"), not standard compliant, with emphasis on performance.
   - ["The Eiffel Compiler" (tecomp)](http://www.sourceforge.net/projects/tecomp) an [open source](https://zh.wikipedia.org/wiki/open_source "wikilink") Eiffel compiler with [documentation](http://tecomp.sourceforge.net).
-  - [Visual Eiffel](http://visual-eiffel.org) an [open source](https://zh.wikipedia.org/wiki/open_source "wikilink") implementation of Eiffel creating [native code](https://zh.wikipedia.org/wiki/native_code "wikilink") for X86 systems（Windows, Linux）
+  - [Visual Eiffel](https://web.archive.org/web/20190719030630/http://visual-eiffel.org/) an [open source](https://zh.wikipedia.org/wiki/open_source "wikilink") implementation of Eiffel creating [native code](https://zh.wikipedia.org/wiki/native_code "wikilink") for X86 systems（Windows, Linux）
   - [NICE](http://www.eiffel-nice.org/) Nonprofit International Consortium for Eiffel.
   - [eiffelroom.com](http://www.eiffelroom.com/) Community around standard Eiffel.
   - [eiffelzone.com](https://web.archive.org/web/20041129095939/http://eiffelzone.com/) Includes a comprehensive Eiffel Software Directory

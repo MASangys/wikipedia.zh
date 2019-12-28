@@ -76,30 +76,18 @@
 [Category:复杂度类](https://zh.wikipedia.org/wiki/Category:复杂度类 "wikilink") [Category:计算机科学中未解决的问题](https://zh.wikipedia.org/wiki/Category:计算机科学中未解决的问题 "wikilink")
 
 1.  [空间层次定理](https://zh.wikipedia.org/wiki/空间层次定理 "wikilink")
-
 2.  Definition of Almost-PSPACE. PSPACE ⊆ PSPACE^A for every A.
-
 3.  Greg Kuperberg, Complexity Zoology: Active Inclusion Diagram, 2006, <http://www.math.ucdavis.edu/~greg/zoology/diagram.xml>
-
 4.  [Chandra, A.K. and Kozen, D.C. and Stockmeyer, L.J., 'Alternation'](http://portal.acm.org/citation.cfm?id=322243&coll=Portal&dl=ACM&CFID=60283170&CFTOKEN=44928981), Journal of the ACM, Volume 28, Issue 1, pp. 114-133, 1981.
-
 5.  Complexity Zoo, [1](http://qwiki.stanford.edu/wiki/Complexity_Zoo:A#almostpspace) , accessed Mars 25, 2009
-
 6.  Adi Shamir. [IP = PSPACE](http://portal.acm.org/citation.cfm?doid=146585.146609). *Journal of the ACM*, volume 39, issue 4, p.869–877. October 1992.
-
 7.  [萨维奇定理](../Page/萨维奇定理.md "wikilink")
-
 8.
-
 9.
 10.
-
 11.
-
 12.
 13.
 14. QIP = PSPACE, Rahul Jain, Zhengfeng Ji, Sarvagya Upadhyay,  arXiv:0907.4737 (July 2009)
-
 15. "Robertson,E. and Munro, I. 〈NP-completeness, puzzles, and games〉 Utilifas Math., 1978, 99-116."
-
-16. [未來數學家的挑戰 - 楊照崑;楊重駿](http://episte.math.ntu.edu.tw/articles/mm/mm_10_2_04/page6.html)
+16.

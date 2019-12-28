@@ -12,7 +12,7 @@
 
 </references>
 
-  - [Nexenta OS website](http://www.nexenta.org/)
+  - [Nexenta OS website](https://web.archive.org/web/20081010135307/http://www.nexenta.org/)
 
   - [Nexenta Planet and blogs](https://web.archive.org/web/20100713153648/http://blogs.nexenta.org/)
 

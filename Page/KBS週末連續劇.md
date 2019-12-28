@@ -1330,6 +1330,45 @@ KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少�
 </tbody>
 </table>
 
+### 2020年
+
+<table style="width:326%;">
+<colgroup>
+<col style="width: 60%" />
+<col style="width: 17%" />
+<col style="width: 50%" />
+<col style="width: 24%" />
+<col style="width: 90%" />
+<col style="width: 70%" />
+<col style="width: 15%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><p>播放<br />
+日期</p></th>
+<th style="text-align: center;"><p>電視劇集名稱</p></th>
+<th style="text-align: center;"><p>集數</p></th>
+<th style="text-align: center;"><p>主演</p></th>
+<th style="text-align: center;"><p>导演</p></th>
+<th style="text-align: center;"><p>编剧</p></th>
+<th style="text-align: center;"><p>備注</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p>2020年3月 日－<br />
+2020年月日</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/結過一次了" title="wikilink">結過一次了</a><br />
+</p></td>
+<td style="text-align: center;"><p>100</p></td>
+<td style="text-align: center;"><p><a href="../Page/吳允兒.md" title="wikilink">吳允兒</a>、<a href="../Page/李珉廷.md" title="wikilink">李珉廷</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李在尚" title="wikilink">李在尚</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/楊熙勝" title="wikilink">楊熙勝</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
 ## 相關連結
 
   - [韓國KBS官方網站](http://www.kbs.co.kr/)

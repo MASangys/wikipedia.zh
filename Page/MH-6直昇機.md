@@ -36,6 +36,8 @@
 
 ## 參見
 
+  - [MD 500 Defender](https://zh.wikipedia.org/wiki/MD_500防衛者式直昇機 "wikilink")
+
 ## 外部連結
 
   - [MH/AH-6特戰直升機](https://web.archive.org/web/20160422005243/http://news.gpwb.gov.tw/news.aspx?ydn=026dTHGgTRNpmRFEgxcbfTPjgUgRhyf92RULJg6sM8nhI8CBq%2fpTrCc7sWHUriwibViULakgX4VmRhuSnpYc3jUSA8Wg5u3ChgHKDJvMXhw%3d)

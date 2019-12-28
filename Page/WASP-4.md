@@ -28,5 +28,4 @@
 3.
 4.
 5.  , entry, [SIMBAD](../Page/SIMBAD.md "wikilink"). Accessed on line June 19, 2008.
-
 6.  {{ cite journal | title=WASP-4b: A 12th Magnitude Transiting Hot Jupiter in the Southern Hemisphere | url=<http://www.iop.org/EJ/article/1538-4357/675/2/L113/22429.html> | author= Wilson *et al.* | journal=[The Astrophysical Journal](https://zh.wikipedia.org/wiki/The_Astrophysical_Journal "wikilink") Letters | volume=675 | issue=2 | pages=L113–L116 | bibcode=2008ApJ...675L.113W | doi=10.1086/586735|date=March 2008}}

@@ -1,4 +1,4 @@
-**格特魯德·B·埃利恩**（，\[1\]) ，是一名已逝世的[美國女性](https://zh.wikipedia.org/wiki/美國 "wikilink")[生化學家和](https://zh.wikipedia.org/wiki/生物化學 "wikilink")[藥理學家](https://zh.wikipedia.org/wiki/藥理學 "wikilink")。1988年，她与[喬治·H·希欽斯](../Page/喬治·H·希欽斯.md "wikilink")和[詹姆士·W·布拉克](../Page/詹姆士·W·布拉克.md "wikilink")共同獲頒[諾貝爾生理學或醫學獎](https://zh.wikipedia.org/wiki/諾貝爾生理學或醫學獎 "wikilink")。埃利恩开发了许多新的[药物](https://zh.wikipedia.org/wiki/藥物治療 "wikilink")，这种新型研究方法的使用促使了后来治疗[艾滋病的药物](https://zh.wikipedia.org/wiki/艾滋病 "wikilink")[齐多夫定](../Page/齐多夫定.md "wikilink")的发展。\[2\]
+**格特魯德·B·埃利恩**（，\[1\]) ，是[美國女性](https://zh.wikipedia.org/wiki/美國 "wikilink")[生化學家和](https://zh.wikipedia.org/wiki/生物化學 "wikilink")[藥理學家](https://zh.wikipedia.org/wiki/藥理學 "wikilink")。1988年，她与[喬治·H·希欽斯](../Page/喬治·H·希欽斯.md "wikilink")和[詹姆士·W·布拉克](../Page/詹姆士·W·布拉克.md "wikilink")共同獲頒[諾貝爾生理學或醫學獎](https://zh.wikipedia.org/wiki/諾貝爾生理學或醫學獎 "wikilink")。埃利恩开发了许多新的[药物](https://zh.wikipedia.org/wiki/藥物治療 "wikilink")，这种新型研究方法的使用促使了后来治疗[艾滋病的药物](https://zh.wikipedia.org/wiki/艾滋病 "wikilink")[齐多夫定](../Page/齐多夫定.md "wikilink")的发展。\[2\]
 
 ## 主要成就
 

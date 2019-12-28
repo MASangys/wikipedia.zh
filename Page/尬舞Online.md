@@ -13,12 +13,8 @@
 [Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:多人線上音樂遊戲](https://zh.wikipedia.org/wiki/Category:多人線上音樂遊戲 "wikilink") [Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink") [Category:遊戲新幹線遊戲](https://zh.wikipedia.org/wiki/Category:遊戲新幹線遊戲 "wikilink")
 
 1.  [17173相關新聞。](http://news.17173.com/content/2009-04-10/20090410113606882.shtml)
-
 2.
 3.  [內文有提及新幹線取得該作代理權](http://mag.udn.com/mag/digital/storypage.jsp?f_ART_ID=245332&f_MAIN_ID=321&f_SUB_ID=2945)
-
 4.
-
 5.
-
 6.

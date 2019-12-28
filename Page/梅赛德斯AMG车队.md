@@ -223,8 +223,8 @@
 77.</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/路易斯·漢米爾頓" title="wikilink">路易斯·漢米爾頓</a></strong><br />
  <a href="https://zh.wikipedia.org/wiki/維爾特利·鮑達斯" title="wikilink">維爾特利·鮑達斯</a></p></td>
-<td><p>363*</p></td>
-<td><p>第一*</p></td>
+<td><p><strong>739</strong></p></td>
+<td><p><strong>冠軍</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>來源：[2]</p></td>

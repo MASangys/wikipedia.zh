@@ -720,7 +720,82 @@ foruru的盟友，手持法杖
 
 ### Vol.36-Vol.42
 
-## 4格漫畫單行本
+## 四格漫畫單行本
+
+於本雜誌連載的四格漫畫的單行本。內容為《KERORO軍曹》公式[漫畫選集](https://zh.wikipedia.org/wiki/漫畫選集 "wikilink")。
+
+  - （角川Comics Ace Extra）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p><a href="../Page/角川書店.md" title="wikilink">角川書店</a></p></th>
+<th><p>封面致敬作品</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2006年2月22日</p></td>
+<td><p>ISBN 978-4-04-713798-1</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2007年2月22日</p></td>
+<td><p>ISBN 978-4-04-713913-8</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2007年7月24日</p></td>
+<td><p>ISBN 978-4-04-713971-8</p></td>
+</tr>
+</tbody>
+</table>
+
+  - （角川Comics Ace）
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>角川書店</p></th>
+<th><p>封面致敬作品</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>2008年2月22日</p></td>
+<td><p>ISBN 978-4-04-715035-5</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2008年11月21日</p></td>
+<td><p>ISBN 978-4-04-715139-0</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>2009年2月24日</p></td>
+<td><p>ISBN 978-4-04-715188-8</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2010年2月24日</p></td>
+<td><p>ISBN 978-4-04-715392-9</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 相關項目
 

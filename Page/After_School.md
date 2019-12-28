@@ -14,11 +14,11 @@ After School的隊長[朴嘉熙](https://zh.wikipedia.org/wiki/朴嘉熙 "wikili
 
 ### 2009年
 
-2008年12月29日，初始的五名成員[嘉熙](https://zh.wikipedia.org/wiki/朴嘉熙 "wikilink")、[正雅](https://zh.wikipedia.org/wiki/正雅 "wikilink")、[珠妍](https://zh.wikipedia.org/wiki/珠妍 "wikilink")、[小英](../Page/劉小英.md "wikilink")、在[SBS年末音樂節目上](../Page/SBS_\(韓國\).md "wikilink")，與[孫淡妃](../Page/孫淡妃.md "wikilink")一同演出作品《Play Girlz》。出道前，公司表示團體的音樂風格深受美國團體[小野貓的影響](https://zh.wikipedia.org/wiki/小野貓 "wikilink")。\[1\]2009年1月15日，發表了出道單曲《New Schoolgirl》，主打曲為〈AH〉，曲風為重節奏的快歌與嘻哈。同日公司在Gom TV發表了一段30秒的預告短片，瀏覽量在一天內達到10萬次。1月17日，After School在MBC音樂節目《音樂中心》首次現場登台演出。\[2\]
+2008年12月29日，初始的五名成員[嘉熙](https://zh.wikipedia.org/wiki/朴嘉熙 "wikilink")、[正雅](https://zh.wikipedia.org/wiki/正雅 "wikilink")、[珠妍](https://zh.wikipedia.org/wiki/珠妍 "wikilink")、[小英](../Page/劉小英.md "wikilink")、在[SBS年末音樂節目上](../Page/SBS_\(韓國\).md "wikilink")，與[孫淡妃](../Page/孫淡妃.md "wikilink")一同演出作品《Play Girlz》。出道前，公司表示團體的音樂風格深受美國團體[小野貓](../Page/小野貓.md "wikilink")的影響。\[1\]2009年1月15日，發表了出道單曲《New Schoolgirl》，主打曲為〈AH〉，曲風為重節奏的快歌與嘻哈。同日公司在Gom TV發表了一段30秒的預告短片，瀏覽量在一天內達到10萬次。1月17日，After School在MBC音樂節目《音樂中心》首次現場登台演出。\[2\]
 
 2009年4月，團隊加入新成員[U-ie](https://zh.wikipedia.org/wiki/U-ie "wikilink")\[3\]\[4\]</ref>\[5\]</ref>，並發行數位單曲《DIVA》。[U-ie之後演出了許多人氣劇集](https://zh.wikipedia.org/wiki/U-ie "wikilink")，成為有名的新生代演員。5月21日，發表數位單曲《Dream Girl》，本曲是翻唱[早安少女組的名曲](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")〈Love Machine〉。同年7月，與[孫淡妃](../Page/孫淡妃.md "wikilink")合作單曲《Amoled》，亦是[三星同期推出的同名款手機廣告歌曲](../Page/三星電子.md "wikilink")\[6\]</ref>。
 
-2009年10月29日，成員[小英因健康問題離團](../Page/劉小英.md "wikilink")，其後增加兩名新成員[Raina](../Page/Raina.md "wikilink")和[Nana](https://zh.wikipedia.org/wiki/Nana_\(南韓藝人\) "wikilink")，成為7人團體。11月25日，新陣容的After School發表了第二張單曲《因為你》（너 때문에）\[7\]</ref>\[8\] </ref> 。《因為你》與前作《New Schoolgirl》的年輕運動風概念大為不同，除較趨於成熟風格外，也包含了更多樣化的主題。歌曲錄影帶在11月30日公佈上網，發行三日後已登上許多排行榜冠軍，並獲得三周SBS《[人氣歌謠](https://zh.wikipedia.org/wiki/韓國人氣歌謠 "wikilink")》第一位\[9\]</ref>\[10\]\[11\]\[12\]。《因為你》之後還推出數位單曲混音版本\[13\] </ref>，12月20日在《[人氣歌謠](https://zh.wikipedia.org/wiki/韓國人氣歌謠 "wikilink")》首次得冠時，成員們落淚表示「這是出道整整一年來最開心的一刻。」其後，團體更獲得了首爾歌謠大賞新人獎與Billboard Japan Music Awards 2009特別獎\[14\]\[15\]。在完成後續曲〈When I Fall〉的演出後，該專輯的宣傳亦告一段落。
+2009年10月29日，成員[小英因健康問題離團](../Page/劉小英.md "wikilink")，其後增加兩名新成員[Raina](../Page/Raina.md "wikilink")和[Nana](https://zh.wikipedia.org/wiki/Nana_\(南韓藝人\) "wikilink")，成為7人團體。11月25日，新陣容的After School發表了第二張單曲《因為你》（너 때문에）\[7\]</ref>\[8\]</ref> 。《因為你》與前作《New Schoolgirl》的年輕運動風概念大為不同，除較趨於成熟風格外，也包含了更多樣化的主題。歌曲錄影帶在11月30日公佈上網，發行三日後已登上許多排行榜冠軍，並獲得三周SBS《[人氣歌謠](https://zh.wikipedia.org/wiki/韓國人氣歌謠 "wikilink")》第一位\[9\]</ref>\[10\]\[11\]\[12\]。《因為你》之後還推出數位單曲混音版本\[13\]</ref>，12月20日在《[人氣歌謠](https://zh.wikipedia.org/wiki/韓國人氣歌謠 "wikilink")》首次得冠時，成員們落淚表示「這是出道整整一年來最開心的一刻。」其後，團體更獲得了首爾歌謠大賞新人獎與Billboard Japan Music Awards 2009特別獎\[14\]\[15\]。在完成後續曲〈When I Fall〉的演出後，該專輯的宣傳亦告一段落。
 
 ### 2010年
 
@@ -139,7 +139,7 @@ After School在3月27日發行了她們的首張精選輯《THE BEST OF AFTERSCH
 <td><p><a href="../Page/Lizzy_(韓國歌手).md" title="wikilink">莉茲</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李佳恩" title="wikilink">佳恩</a></p></td>
+<td><p><a href="../Page/李佳恩.md" title="wikilink">佳恩</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -1010,11 +1010,8 @@ PlotData =
 [Category:After_School](https://zh.wikipedia.org/wiki/Category:After_School "wikilink") [Category:Pledis娛樂](https://zh.wikipedia.org/wiki/Category:Pledis娛樂 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
@@ -1022,94 +1019,50 @@ PlotData =
 8.
 9.
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16.
 17.
 18. [After school子團確定為橙子焦糖](http://starin.edaily.co.kr/news/NewsRead.edy?SCD=EA21&newsid=01226726593000736&DCD=A10202)2010年6月11日 Edaily News
-
 19. [MBC가요대제전 애프터스쿨 새멤버 노이영, 솔로 기타연주로 신고식](http://sports.media.daum.net/soccer/news/a_match/breaking/view.html?cateid=1032&newsid=20110101000122065&fid=20110101000134902&lid=20110101000122065) 서울신문NTN 2011年1月1日
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26. [After School成員Bekah下月退出](http://chinese.yonhapnews.co.kr/allheadlines/2011/06/17/0200000000ACK20110617003300881.HTML)韩联社 2011年6月17日
-
 27. [애프터스쿨 \`레드vs블루\` 두 유닛 격돌](http://news.nate.com/view/20110704n04919) Nate 2011年7月4日
-
 28. [After Schoolの新ユニット、いよいよ発表…意外な結果？！](http://japanese.joins.com/article/686/141686.html) 中央日報 2011年07月11日
-
 29. [After School日本出道秀門票一分锺內售罄](http://chinese.joins.com/big5/article.do?method=detail&art_id=69412&category=003005)韓國中央日報 2011年7月18日
-
 30. [AFTER SCHOOLのCD・DVDリリース情報、AFTER SCHOOL芸能人事典](http://www.oricon.co.jp/prof/artist/507088/products/release/)ORICON STYLE官網
-
 31. [AFTER SCHOOL初の日本ツアースタート！新メンバー・カウンもお披露目](http://japanese.kpopstarz.com/articles/3459/20120428/after-school-first-japan-tour.htm) kpopstarz 2012年4月28日
-
 32. [嘉熙結束3年的After School生活單飛](http://chinese.joins.com/big5/article.do?method=detail&art_id=86813&category=003005)2012年6月6日 韓國中央日報
-
 33. [嘉熙 最終巡演噴淚單飛](http://ent.appledaily.com.tw/enews/article/entertainment/20120619/34309534/)2012年6月19日 蘋果日報
-
 34. \[<http://www.allkpop.com/2012/06/after-school-releases-first-photo-teaser-for-comeback>\! After School releases first photo teaser for comeback\!\]2012年6月10日 allkpop
-
 35. [After School releases MV for "Flashback"](http://www.allkpop.com/2012/06/after-school-releases-mv-for-flashback)2012年6月19日 allkpop
-
 36. [After School achieves an all-kill on real time charts with "Flashback"](http://www.allkpop.com/2012/06/after-school-achieves-an-instant-all-kill-with-flashback)2012年6月20日 allkpop
-
 37. [After School Makes an All-Kill With ‘Flashback’](http://mwave.interest.me/enewsworld/en/article/8237/after-school-makes-an-all-kill-with-flashback) 2012年6月20日 CJ E\&M enewsWorld
-
 38. [タイにて初のファン・ミーティングを開催](http://www.billboard-japan.com/d_news/detail/10354) 2013年2月25日 Billboard Japan
-
 39. [韓人氣女團After School來台獻愛心](http://www.nownews.com/n/2013/03/05/315800) 2013年3月5日 NOWnews
-
 40. [After School視覺享受創新求變 瞬息萬變的感官魅力！](http://ent.msn.com.tw/news/content.aspx?sn=1306250004) 2013年6月25日 MSNnews
-
 41. [After School to finally make a comeback on June 13th\!](http://www.allkpop.com/article/2013/05/after-school-to-finally-make-a-comeback-on-june-13th)2013年5月26日 allkpop
-
 42. [ポールダンスに悪戦苦闘！　新曲「初恋」を発表した](http://www.wowkorea.jp/section/interview/read.asp?narticleid=113573)2013年6月14日 wowkorea
-
 43. [After School秀鋼管舞 狂操美腿秀高難度倒掛金鉤](http://www.ettoday.net/news/20130611/221177.htm)2013年6月11日 東森
-
 44. [プロデュース新曲初披露＆妖艶MV公開](http://www.billboard-japan.com/d_news/detail/14650)2013年8月27日 Billboard Japan
-
 45. [성형수술 같은 프로그램, '애프터스쿨의 뷰티바이블'](http://www.thegamenews.com/interview_2/443063)2014年1月20日 thegamenew
-
 46. [超貴重 ブレザー制服&ジャージ姿で学園生活満喫?\!](http://www.asian-hana.com/2014/06/afterschool-10.html)2014年1月20日 Asian Haha
-
 47. [アフタースクール美脚に男性ファン大喜び](http://www.nikkansports.com/entertainment/news/f-et-tp0-20141122-1399756.html)2014年11月22日 Nikkan Sports News
-
 48. [AFTERSCHOOL来日ライブツアー「Dress to SHINE」ラフォーレミュージアム六本木](http://hot-korea.com/kpop/report.php?id=20141122) 2014年11月21日 Hot-korea
-
 49. [After School的珠妍與經紀公司合約到期退出組合](http://sports.donga.com/3/02/20141222/68708128/2) 2014年12月22日 Donga News
-
 50. [世界一の美女をニコ生で！AFTERSCHOOLのベスト盤リリパが生中継決定](http://www.billboard-japan.com/d_news/detail/26501/2)Billboard JAPAN 2015年3月20日
-
 51. [애프터스쿨 가은, '물오른 미모\~'](http://sports.chosun.com/news/utype.htm?id=201506060100077240005233&ServiceDate=20150605)SPORTSCHOSUN 2015年6月6日
-
 52. [Jung Ah graduates from After School](http://www.allkpop.com/article/2016/01/jung-ah-graduates-from-after-school)allkpop 2016年1月28日
-
 53. [U-ie從After School畢業 離開公司Pledis](http://chinese.kpopstarz.com/articles/177686/20170531/u-ie.htm)
-
 54.
-
 55. [After School成員佳恩与Pledis的專屬合約到期,“5日發佈最後的音源”](https://m.weibo.cn/2482557597/4390249331072582)
-
 56. [After School日本官方網站成員檔案](http://www.after--school.jp/profile/)AFTERSCHOOL Japan官網 2011年2月17日
-
 57.

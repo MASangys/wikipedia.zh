@@ -207,7 +207,7 @@ glibc</p></td>
 </tr>
 <tr class="odd">
 <td><p>v18.06.0</p></td>
-<td><p>OpenWrt 18.06.0</p></td>
+<td></td>
 <td><p>18.06.0</p></td>
 <td><p>July 31, 2018[17]</p></td>
 <td><p>4.9.111 / 4.14.52</p></td>
@@ -220,7 +220,7 @@ glibc</p></td>
 </tr>
 <tr class="even">
 <td><p>v18.06.1</p></td>
-<td><p>OpenWrt 18.06.1</p></td>
+<td></td>
 <td><p>18.06.1</p></td>
 <td><p>August 18, 2018[18]</p></td>
 <td><p>4.9.120 / 4.14.63</p></td>
@@ -231,7 +231,7 @@ glibc</p></td>
 </tr>
 <tr class="odd">
 <td><p>v18.06.2</p></td>
-<td><p>OpenWrt 18.06.2</p></td>
+<td></td>
 <td><p>18.06.2</p></td>
 <td><p>January 31, 2019[19]</p></td>
 <td><p>4.9.152 / 4.14.95</p></td>
@@ -242,7 +242,7 @@ glibc</p></td>
 </tr>
 <tr class="even">
 <td><p>v18.06.3</p></td>
-<td><p>OpenWrt 18.06.3</p></td>
+<td></td>
 <td><p>18.06.3</p></td>
 <td><p>June 29, 2019[20]</p></td>
 <td><p>4.9.182 / 4.14.128</p></td>
@@ -263,6 +263,28 @@ glibc</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>v18.06.5</p></td>
+<td></td>
+<td><p>18.06.5</p></td>
+<td><p>November 29, 2019[23]</p></td>
+<td><p>4.9.198 / 4.14.151</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>v19.07.0-rc1</p></td>
+<td></td>
+<td><p>19.07.0-rc1</p></td>
+<td><p>November 6, 2019[24]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>v19.07.0</p></td>
 <td></td>
 <td><p>19.07.0</p></td>
@@ -271,7 +293,7 @@ glibc</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>The OpenWrt 19.07 series focuses on bringing all supported targets to Kernel 4.14 and introducing initial device tree based ath79 support.[25]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -291,9 +313,9 @@ glibc</p></td>
 
 OpenWrt遵循著[市集](../Page/大教堂和市集.md "wikilink")-哲學而且已知有著豐富的選項。功能如下：
 
-  - 可寫的[根目录](../Page/根目录.md "wikilink")，讓使用者自行新增，移除或修改任何檔案。SquashFS与JFFS2文件系统的整合形成的overlayfs机制\[23\]形成重疊\[24\]。squashfs是一种只读的压缩文件系统，压缩率和gzip差不多。jffs2是一种日志类型的文件系统，专为NorFlash设计。
+  - 可寫的[根目录](../Page/根目录.md "wikilink")，讓使用者自行新增，移除或修改任何檔案。SquashFS与JFFS2文件系统的整合形成的overlayfs机制\[26\]形成重疊\[27\]。squashfs是一种只读的压缩文件系统，压缩率和gzip差不多。jffs2是一种日志类型的文件系统，专为NorFlash设计。
   - 包管理員*opkg*，類似[dpkg](https://zh.wikipedia.org/wiki/dpkg "wikilink")，可讓使用者新增或移除軟體。软件仓库大約有3500個包。是一个可以从本地或遠端软件下载并安装OpenWrt包的轻量型实用工具。
-  - UCI (unified configuration interface) 腳本支持\[25\]
+  - UCI (unified configuration interface) 腳本支持\[28\]
   - 完整的硬體驅動程式支持。例如: 內建[網路交換器](../Page/網路交換器.md "wikilink")及其[VLAN](https://zh.wikipedia.org/wiki/VLAN "wikilink")-相容, s, [DSL modems](https://zh.wikipedia.org/wiki/DSL_modem "wikilink"), 等。
   - 各種[计算机網路設定如下](https://zh.wikipedia.org/wiki/计算机網路 "wikilink"):
       - [路由](../Page/路由.md "wikilink")可透過[iproute2](https://zh.wikipedia.org/wiki/iproute2 "wikilink"), , 等。
@@ -303,7 +325,7 @@ OpenWrt遵循著[市集](../Page/大教堂和市集.md "wikilink")-哲學而且�
       - [狀態防火牆](https://zh.wikipedia.org/wiki/狀態防火牆 "wikilink")、[NAT和路由器端口扫描](../Page/网络地址转换.md "wikilink")([port forwarding](https://zh.wikipedia.org/wiki/端口映射 "wikilink"))經由[netfilter](https://zh.wikipedia.org/wiki/netfilter "wikilink")；其他還有[PeerGuardian已支持](https://zh.wikipedia.org/wiki/PeerGuardian "wikilink")。
       - [UPnP](../Page/UPnP.md "wikilink")與[NAT-PMP可透過](https://zh.wikipedia.org/wiki/NAT-PMP "wikilink") upnpd來設定。
       - [port knocking可透過knockd與knock達成](https://zh.wikipedia.org/wiki/port_knocking "wikilink")。
-      - [TR-069](../Page/TR-069.md "wikilink")\[26\]
+      - [TR-069](../Page/TR-069.md "wikilink")\[29\]
       - [IPS經由](../Page/入侵预防系统.md "wikilink")[Snort](../Page/Snort.md "wikilink")
       - 使用多個[互联网服务供应商](../Page/互联网服务供应商.md "wikilink")達到負載平衡。
       - IP穿透(tunneling)
@@ -321,12 +343,12 @@ OpenWrt遵循著[市集](../Page/大教堂和市集.md "wikilink")-哲學而且�
       - [PulseAudio](../Page/PulseAudio.md "wikilink"), [Music Player Daemon](https://zh.wikipedia.org/wiki/Music_Player_Daemon "wikilink")，音效與影像流經由[DLNA](https://zh.wikipedia.org/wiki/DLNA "wikilink")/[UPnP AV standards](../Page/UPnP.md "wikilink")、[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink") () 伺服器
       - [Asterisk](../Page/Asterisk.md "wikilink")
       - [MQ Telemetry Transport經由](https://zh.wikipedia.org/wiki/MQ_Telemetry_Transport "wikilink")[Mosquitto](https://zh.wikipedia.org/wiki/Mosquitto "wikilink")
-  - 可延伸的[Ajax](https://zh.wikipedia.org/wiki/Ajax "wikilink")，由LuCI支持\[27\]
+  - 可延伸的[Ajax](https://zh.wikipedia.org/wiki/Ajax "wikilink")，由LuCI支持\[30\]
   - 系統更新，即便裝置已不再受原廠支持。
 
 ### Web 界面
 
-在8.09版之前，OpenWrt提供最小GUI。OpenWrt推出8.09及日後新版中，有更多的Web界面可供選擇。\[28\]這個新界面基於LuCI，是一種架構，由[Lua](../Page/Lua.md "wikilink")語言撰寫。\[29\]
+在8.09版之前，OpenWrt提供最小GUI。OpenWrt推出8.09及日後新版中，有更多的Web界面可供選擇。\[31\]這個新界面基於LuCI，是一種架構，由[Lua](../Page/Lua.md "wikilink")語言撰寫。\[32\]
 
 [X-Wrt是一個專為OpenWrt所設計的套件](https://zh.wikipedia.org/wiki/X-Wrt "wikilink")，是LuCI以外的另一種選擇，在包倉庫中名為webif²，由使用者自行下載安裝。
 
@@ -350,7 +372,7 @@ OpenWrt遵循著[市集](../Page/大教堂和市集.md "wikilink")-哲學而且�
 
 ## 硬件兼容性
 
-OpenWrt運行許多不同的路由器，並在其網站上包括一個兼容硬件表。\[30\]在其買家指南中，比起博通，他们更建议购买高通Atheros芯片设备。\[31\]
+OpenWrt運行許多不同的路由器，並在其網站上包括一個兼容硬件表。\[33\]在其買家指南中，比起博通，他们更建议购买高通Atheros芯片设备。\[34\]
 
 ## 正式採用
 
@@ -363,7 +385,7 @@ OpenWrt，特別是其Buildroot構建系統，已經採用了很多次：
 ## 衍生分支
 
   - [LEDE](../Page/LEDE.md "wikilink")作為OpenWrt項目的分支機構而成立，並擁有許多相同的目標。现在已决定与OpenWRT合并。
-  - *CeroWrt* 目的是補充debloat測試kernel tree，並為緩衝區修復的現實世界測試提供一個平台\[32\]\[33\]
+  - *CeroWrt* 目的是補充debloat測試kernel tree，並為緩衝區修復的現實世界測試提供一個平台\[35\]\[36\]
   - Coova chilli 基於OpenWrt的專注於無線熱點，一個chillifire的分支專注於無線熱點管理
   - [Gargoyle](https://zh.wikipedia.org/wiki/Gargoyle_\(router_firmware\) "wikilink") OpenWrt的一個Web界面，強調可用性，後來分支到一個單獨的分發
   - Flukso 使用Atheros AR2317芯片組的無線傳感器節點，運行修補的OpenWrt OS進行通信。GitHub上提供的源和硬件原理圖。
@@ -377,7 +399,7 @@ OpenWrt，特別是其Buildroot構建系統，已經採用了很多次：
 
   -
     軟件包包括Snort，Snort-inline，FreeRADIUS，OpenVPN，DansGuardian和ClamAV。
-    這些工具可以通過OpenWrt的舊Web GUI管理界面訪問，稱為X-Wrt或webif^2。項目於2012年6月7日結束。\[34\]
+    這些工具可以通過OpenWrt的舊Web GUI管理界面訪問，稱為X-Wrt或webif^2。項目於2012年6月7日結束。\[37\]
 
 <!-- end list -->
 
@@ -385,7 +407,7 @@ OpenWrt，特別是其Buildroot構建系統，已經採用了很多次：
 
   - 無線社區網絡的多種草根項目，包括[Freifunk](https://zh.wikipedia.org/wiki/Freifunk "wikilink")，Libre-Mesh和qMp
 
-  - [libreCMC](https://zh.wikipedia.org/wiki/libreCMC "wikilink") 基於OpenWrt的分發，沒有非自由軟件或二進制blob，由自由軟件基金會認可\[35\]
+  - [libreCMC](https://zh.wikipedia.org/wiki/libreCMC "wikilink") 基於OpenWrt的分發，沒有非自由軟件或二進制blob，由自由軟件基金會認可\[38\]
 
   - Asuswrt（asuswrt-merlin），載體為[Asus網通產品](https://zh.wikipedia.org/wiki/Asus "wikilink")。
 
@@ -407,70 +429,40 @@ OpenWrt，特別是其Buildroot構建系統，已經採用了很多次：
 [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink") [Category:自由路由軟體](https://zh.wikipedia.org/wiki/Category:自由路由軟體 "wikilink") [Category:售後韌體](https://zh.wikipedia.org/wiki/Category:售後韌體 "wikilink") [Category:Lua軟體](https://zh.wikipedia.org/wiki/Category:Lua軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.  [Freescale i.MX support](http://wiki.openwrt.org/doc/hardware/soc/soc.freescale.imx)
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
-26. [freecwmp is a CWMP client for OpenWrt](http://events.ccc.de/congress/2012/Fahrplan/events/5112.en.html)
-
+26.
 27.
 28.
-
-29.
-
+29. [freecwmp is a CWMP client for OpenWrt](http://events.ccc.de/congress/2012/Fahrplan/events/5112.en.html)
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
+36.
+37.
+38.

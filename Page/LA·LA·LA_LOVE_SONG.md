@@ -2,7 +2,7 @@
 
 之所以[娜奧美·金寶](../Page/娜奧美·金寶.md "wikilink")作為伴唱，是因為久保田在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市居住時](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，娜歐蜜就是住在久保田公寓電梯對面的鄰居。
 
-是同年[富士電視台](../Page/富士電視台.md "wikilink")的[月九劇](../Page/富士電視台週一晚間九點連續劇.md "wikilink")《[悠長假期](../Page/悠長假期.md "wikilink")》的主題曲，電視劇的高人氣對拉動唱片的銷量很有幫助。單曲發行首週奪得[Oricon](../Page/Oricon.md "wikilink")公信榜單曲週榜冠軍，是久保田首次奪得Oricon單曲週榜冠軍的歌曲。當年銷量高達183.9萬張，是1996年度日本單曲銷量第三位。\[1\]總銷量達185.6萬張。
+是同年[富士電視台](../Page/富士電視台.md "wikilink")的[月九劇](../Page/富士電視台週一晚間九點連續劇.md "wikilink")《[悠長假期](../Page/悠長假期.md "wikilink")》的主題曲，電視劇的高人氣對拉動唱片的銷量很有幫助。單曲發行穩坐5週[Oricon](../Page/Oricon.md "wikilink")公信榜單曲榜亞軍後，於第6週逆勢奪冠（發行遭遇B'z（Real Thing Shakes）—1週、南方之星（愛の言靈～Spiritual Message〜）—2週、V6（BEAT YOUR HEART）—1週、安室奈美恵（You're my sunshine）—1週 使《LA·LA·LA LOVE SONG》遲遲未能奪冠）。是久保田首次奪得Oricon單曲週榜冠軍的歌曲。當年銷量高達183.9萬張，是1996年度日本單曲銷量第三位。\[1\]總銷量達185.6萬張。
 
 ## 收錄曲目
 

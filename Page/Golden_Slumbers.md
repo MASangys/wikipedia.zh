@@ -116,6 +116,6 @@
 
 ## 外部連結
 
-  - [官方網站](http://www.golden-slumber.jp/)
+  - [官方網站](https://web.archive.org/web/20100208024955/http://www.golden-slumber.jp/)
 
 [Category:2008年日本小說](https://zh.wikipedia.org/wiki/Category:2008年日本小說 "wikilink") [Category:書店大獎獲獎作品](https://zh.wikipedia.org/wiki/Category:書店大獎獲獎作品 "wikilink") [Category:仙台市背景電影](https://zh.wikipedia.org/wiki/Category:仙台市背景電影 "wikilink") [Category:2010年日本電影](https://zh.wikipedia.org/wiki/Category:2010年日本電影 "wikilink") [Category:日本推理小說改編電影](https://zh.wikipedia.org/wiki/Category:日本推理小說改編電影 "wikilink") [Category:東寶電影](https://zh.wikipedia.org/wiki/Category:東寶電影 "wikilink") [Category:恐怖活動電影](https://zh.wikipedia.org/wiki/Category:恐怖活動電影 "wikilink") [Category:堺雅人](https://zh.wikipedia.org/wiki/Category:堺雅人 "wikilink") [Category:改編成電影的日本小說](https://zh.wikipedia.org/wiki/Category:改編成電影的日本小說 "wikilink") [Category:日本动作片](https://zh.wikipedia.org/wiki/Category:日本动作片 "wikilink") [Category:2010年代動作片](https://zh.wikipedia.org/wiki/Category:2010年代動作片 "wikilink") [Category:冤案題材電影](https://zh.wikipedia.org/wiki/Category:冤案題材電影 "wikilink") [Category:驚悚小說改編電影](https://zh.wikipedia.org/wiki/Category:驚悚小說改編電影 "wikilink") [Category:日本惊悚片](https://zh.wikipedia.org/wiki/Category:日本惊悚片 "wikilink") [Category:2010年代驚悚片](https://zh.wikipedia.org/wiki/Category:2010年代驚悚片 "wikilink") [Category:山本周五郎賞](https://zh.wikipedia.org/wiki/Category:山本周五郎賞 "wikilink")

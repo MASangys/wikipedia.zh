@@ -55,7 +55,7 @@
 
 :\* [爵士鼓](../Page/爵士鼓.md "wikilink")：[渡辺豊](https://zh.wikipedia.org/wiki/渡辺豊 "wikilink")（cherry boys）
 
-:\* [和声](https://zh.wikipedia.org/wiki/和声 "wikilink"):ko-saku、SATOMI "DARK" TAKAHASHI
+:\* [和声](../Page/和声.md "wikilink"):ko-saku、SATOMI "DARK" TAKAHASHI
 
   - 「Song Communication」
 
@@ -69,7 +69,7 @@
 
 :\* [长笛](../Page/长笛.md "wikilink")：庵原良司
 
-:\* [バックグラウンドボーカル](https://zh.wikipedia.org/wiki/和声 "wikilink")：[桑谷夏子](../Page/桑谷夏子.md "wikilink")、[望月久代](../Page/望月久代.md "wikilink")、[小林由美子](../Page/小林由美子.md "wikilink")、水樹奈々（[Prits](https://zh.wikipedia.org/wiki/Prits "wikilink")）
+:\* [バックグラウンドボーカル](../Page/和声.md "wikilink")：[桑谷夏子](../Page/桑谷夏子.md "wikilink")、[望月久代](../Page/望月久代.md "wikilink")、[小林由美子](../Page/小林由美子.md "wikilink")、水樹奈々（[Prits](https://zh.wikipedia.org/wiki/Prits "wikilink")）
 
 :\* 其他音源、编曲：藤間仁（Elements Garden）
 

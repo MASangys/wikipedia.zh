@@ -18,7 +18,7 @@
 
 ### 人類與ELS交戰
 
-「歐羅巴」再被擊毀後的來訪，木星突然湧出大羣中型ELS，地球聯邦金中將率領著M小隊與MA加迪拉薩進行驅逐，但是在戰鬥中母艦被ELS所吞噬，加迪拉薩也遭受到同樣的命運，笛卡兒‧夏曼戰死。天上人等人到達聯邦軍與ELS戰鬥的區域，駕駛鋼彈出擊，戰況中剎那為了查出ELS 之本體及目的，決定用TRANS-AM BURST 與ELS進行溝通，但卻得不到對方清晰回答，反而00強化模組再次被ELS所侵蝕，剎那腦部隨即被ELS 大量資訊充溢而陷入危險。「為了與ELS對話不能讓剎那喪命」，提耶利亞透過自身腦量子波先引誘ELS , 並分離出熾天使鋼彈Ⅱ 從OO 中救出剎那交予各人，之後發動 TRANS-AM讓GN動力裝置(擬太陽爐)超載一同自爆，然而ELS仍緊追著天上人等人，正當ELS快要追上手持剎那的獄天使高達時，葛拉漢姆‧耶卡所率領的「太陽勇者隊」前來救援消滅了部分ELS，並在無法判斷ELS的動向下全員撤離。
+「歐羅巴」再被擊毀後的來訪，木星突然湧出大群中型ELS，地球聯邦金中將率領著M小隊與MA加迪拉薩進行驅逐，但是在戰鬥中母艦被ELS所吞噬，加迪拉薩也遭受到同樣的命運，笛卡兒‧夏曼戰死。天上人等人到達聯邦軍與ELS戰鬥的區域，駕駛鋼彈出擊，戰況中剎那為了查出ELS 之本體及目的，決定用TRANS-AM BURST 與ELS進行溝通，但卻得不到對方清晰回答，反而00強化模組再次被ELS所侵蝕，剎那腦部隨即被ELS 大量資訊充溢而陷入危險。「為了與ELS對話不能讓剎那喪命」，提耶利亞透過自身腦量子波先引誘ELS , 並分離出熾天使鋼彈Ⅱ 從OO 中救出剎那交予各人，之後發動 TRANS-AM讓GN動力裝置(擬太陽爐)超載一同自爆，然而ELS仍緊追著天上人等人，正當ELS快要追上手持剎那的獄天使鋼彈時，葛拉漢‧耶卡所率領的「太陽勇者隊」前來救援消滅了部分ELS，並在無法判斷ELS的動向下全員撤離。
 
 ### The Trailblazer
 
@@ -26,7 +26,7 @@
 
 ### FINAL MISSION\~QUANTUM BURST
 
-洛克昂、阿雷路亞與葛拉漢姆在目擊到剎那出擊後，獄天使及妖天使則開出一條路讓剎那前往大型ELS處，葛拉漢姆則緊隨在後，進行掩護。正當戰況激烈時，被ELS侵蝕的勇者式的葛拉漢衝進了ELS的表面並以用TRANS-AM自爆突擊，藉此殺開條路讓剎那突入ELS中樞。 在進入ELS中樞的剎那，開啟了「QUANTUM BURST Mode」，藉此與ELS進行對話，由於傳送過來的資料量過於龐大，因此由提耶利亞與吠陀共同承擔這股資料奔流，剎那成功與ELS核心對話。
+洛克昂、阿雷路亞與葛拉漢在目擊到剎那出擊後，獄天使及妖天使則開出一條路讓剎那前往大型ELS處，葛拉漢姆則緊隨在後，進行掩護。正當戰況激烈時，被ELS侵蝕的勇者式的葛拉漢衝進了ELS的表面並以用TRANS-AM自爆突擊，藉此殺開條路讓剎那突入ELS中樞。 在進入ELS中樞的剎那，開啟了「QUANTUM BURST Mode」，藉此與ELS進行對話，由於傳送過來的資料量過於龐大，因此由提耶利亞與吠陀共同承擔這股資料奔流，剎那成功與ELS核心對話。
 
 ### 人類的革新 The Childhood of Humankind Ends
 
@@ -53,7 +53,7 @@ ELS的母星因星系恆星發生超新星爆炸，導致ELS母星失去維持�
 
   -
     與妮娜‧崔尼提長相相似的宇宙物理[學者](https://zh.wikipedia.org/wiki/學者 "wikilink")，幫助地球聯邦解析ELS的事件並針對ELS的調查。
-    小說版中提到她的家系過去曾經與天上人接觸，並提供了遺傳因子，而此遺傳因子便是使用妮娜的鹼基配列。
+    小說版中提到她的家系過去曾經與天上人接觸，並提供了遺傳因子，而此遺傳因子便是使用米娜的鹼基配列。
 
 <!-- end list -->
 
@@ -283,20 +283,12 @@ ELS的母星因星系恆星發生超新星爆炸，導致ELS母星失去維持�
 [Category:人與外星生物接觸題材電影](https://zh.wikipedia.org/wiki/Category:人與外星生物接觸題材電影 "wikilink") [Category:外星生命題材動畫電影](https://zh.wikipedia.org/wiki/Category:外星生命題材動畫電影 "wikilink") [Category:外星生命入侵地球的電影](https://zh.wikipedia.org/wiki/Category:外星生命入侵地球的電影 "wikilink") [Category:GUNDAM_00](https://zh.wikipedia.org/wiki/Category:GUNDAM_00 "wikilink") [Category:2010年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2010年日本劇場動畫 "wikilink") [Category:24世紀背景電影](https://zh.wikipedia.org/wiki/Category:24世紀背景電影 "wikilink") [Category:2310年代背景作品](https://zh.wikipedia.org/wiki/Category:2310年代背景作品 "wikilink") [Category:高河弓](https://zh.wikipedia.org/wiki/Category:高河弓 "wikilink") [Category:水島精二電影](https://zh.wikipedia.org/wiki/Category:水島精二電影 "wikilink") [Category:每日放送製作的電影](https://zh.wikipedia.org/wiki/Category:每日放送製作的電影 "wikilink") [Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
 
 1.  [鋼彈00官網的NEWS公佈](http://www.sunrise-anime.jp/news/gundam00/#3020)
-
 2.  [新角色人物發表](http://www.sunrise-anime.jp/news/gundam00/movie/#3045)
-
 3.  名字資料從官方推特[量子型演算処理システム　 ヴェーダ](http://twitter.com/#!/veda2314/status/1422987437805568)中可得知，配音則是西墻由香自己寫在網誌上的。
-
 4.  date=2010-09-25 |access-date=2010-09-23 |archive-url=<https://web.archive.org/web/20100925065252/http://www.aemedia.org/2010/09/tbs-1-3597.html> |archive-date=2010-09-25 |dead-url=yes }}date=2010-09-25 }} Gundam |access-date=2010-09-23 |archive-url=<https://web.archive.org/web/20100925065252/http://www.aemedia.org/2010/09/tbs-1-3597.html> |archive-date=2010-09-25 |dead-url=yes }}
-
 5.  [2010年8月号杂志《高达00》相关情报更新1](http://www.xhood.net/gundam/2010-06/711/gundam-00-info-on-2010-aug.html)
-
 6.  G-ROOMS最終回 ELS來襲，天上人號SOS。
-
 7.  日本模型嗜好月刊 日文原版 2011年1月號
-
 8.
 9.  [劇場官網新公告，雙主題歌決定。](http://www.sunrise-anime.jp/news/gundam00/movie/#3161)
-
 10. [劇場版預告影片中出現的名單](http://www.youtube.com/watch?v=XexkNnyVknU)

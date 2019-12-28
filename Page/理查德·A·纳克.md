@@ -4,7 +4,7 @@
 
   - 他曾经就读于美国[伊利诺伊大学厄巴纳-香槟分校](../Page/伊利诺伊大学厄巴纳-香槟分校.md "wikilink")，从[化学专业转行为](https://zh.wikipedia.org/wiki/化学 "wikilink")[文学修辞专业](https://zh.wikipedia.org/wiki/文学修辞 "wikilink")，并获得相应的[学士学位](https://zh.wikipedia.org/wiki/学士学位 "wikilink")。
   - 在1986年末期，他创作了自己的第一篇短篇小故事，直到1987年他开始撰写[奇幻小说而被陆续出版](https://zh.wikipedia.org/wiki/奇幻小说 "wikilink")。至今，他的作品大多都被世界各国购走版权，被翻译成[汉语](../Page/汉语.md "wikilink")、[德语](../Page/德语.md "wikilink")、[意大利语](../Page/意大利语.md "wikilink")、[法语](../Page/法语.md "wikilink")、[丹麦语](../Page/丹麦语.md "wikilink")、[日语](../Page/日语.md "wikilink")、[西班牙语](../Page/西班牙语.md "wikilink")、[波兰语](https://zh.wikipedia.org/wiki/波兰语 "wikilink")、[芬兰语](../Page/芬兰语.md "wikilink")、[捷克语](../Page/捷克语.md "wikilink")、[匈牙利语](../Page/匈牙利语.md "wikilink")、[土耳其语和](https://zh.wikipedia.org/wiki/土耳其语 "wikilink")[俄语等不同的语言版本在市场上畅销](https://zh.wikipedia.org/wiki/俄语 "wikilink")。
-  - 他个人比较喜欢[阅读](https://zh.wikipedia.org/wiki/阅读 "wikilink")、[旅行](https://zh.wikipedia.org/wiki/旅行 "wikilink")、[食物](../Page/食物.md "wikilink")和看[旧电影](https://zh.wikipedia.org/wiki/旧电影 "wikilink")。现在他在[伊利诺州和](https://zh.wikipedia.org/wiki/伊利诺州 "wikilink")[阿肯色州](../Page/阿肯色州.md "wikilink")奔波生活，寻找不同的写作灵感。
+  - 他个人比较喜欢[阅读](https://zh.wikipedia.org/wiki/阅读 "wikilink")、[旅行](../Page/旅行.md "wikilink")、[食物](../Page/食物.md "wikilink")和看[旧电影](https://zh.wikipedia.org/wiki/旧电影 "wikilink")。现在他在[伊利诺州和](https://zh.wikipedia.org/wiki/伊利诺州 "wikilink")[阿肯色州](../Page/阿肯色州.md "wikilink")奔波生活，寻找不同的写作灵感。
 
 ## 作品列表
 

@@ -93,16 +93,16 @@ Facebook遊戲泛指必須透過[Facebook](../Page/Facebook.md "wikilink")平台
 
 ### 其它類型
 
-| 遊戲名稱(英)                                  | 遊戲名稱(中) | 簡介       | 遊戲介面                                                                                    | 送禮功能    | 備註                                            |
-| ---------------------------------------- | ------- | -------- | --------------------------------------------------------------------------------------- | ------- | --------------------------------------------- |
-| Treasure Isle                            |         |          | [英文](https://web.archive.org/web/20111014214818/http://apps.facebook.com/treasureisle/) |         |                                               |
-| Castle Age                               |         |          | [英文](http://apps.facebook.com/castle_age)                                               |         |                                               |
-|                                          | 寵物森林    |          | \[<http://apps.facebook.com/canaanweb> 中文\]                                             |         |                                               |
-| Biotronic                                |         |          | [英文](http://apps.facebook.com/biotronic)                                                |         |                                               |
-| Geo Challenge                            |         |          | [英文](http://apps.facebook.com/geochallenge)                                             |         |                                               |
-| Galaxy Legend                            | 銀河戰記    |          | [中文](http://apps.facebook.com/galaxylegend)                                             |         |                                               |
-| [Unlight](../Page/Unlight.md "wikilink") |         | 卡片養成對戰遊戲 | [中文](https://web.archive.org/web/20130420232506/http://apps.facebook.com/unlight_cn/)   | 無，但可送任務 | [官方網站](http://official.unlight.jp/index.html) |
-|                                          |         |          |                                                                                         |         |                                               |
+| 遊戲名稱(英)                                  | 遊戲名稱(中) | 簡介       | 遊戲介面                                                                                    | 送禮功能    | 備註                                                                                       |
+| ---------------------------------------- | ------- | -------- | --------------------------------------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------- |
+| Treasure Isle                            |         |          | [英文](https://web.archive.org/web/20111014214818/http://apps.facebook.com/treasureisle/) |         |                                                                                          |
+| Castle Age                               |         |          | [英文](http://apps.facebook.com/castle_age)                                               |         |                                                                                          |
+|                                          | 寵物森林    |          | \[<http://apps.facebook.com/canaanweb> 中文\]                                             |         |                                                                                          |
+| Biotronic                                |         |          | [英文](http://apps.facebook.com/biotronic)                                                |         |                                                                                          |
+| Geo Challenge                            |         |          | [英文](http://apps.facebook.com/geochallenge)                                             |         |                                                                                          |
+| Galaxy Legend                            | 銀河戰記    |          | [中文](http://apps.facebook.com/galaxylegend)                                             |         |                                                                                          |
+| [Unlight](../Page/Unlight.md "wikilink") |         | 卡片養成對戰遊戲 | [中文](https://web.archive.org/web/20130420232506/http://apps.facebook.com/unlight_cn/)   | 無，但可送任務 | [官方網站](https://web.archive.org/web/20121229141808/http://official.unlight.jp/index.html) |
+|                                          |         |          |                                                                                         |         |                                                                                          |
 
 ## 參見
 

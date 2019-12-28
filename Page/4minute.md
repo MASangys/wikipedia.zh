@@ -1109,7 +1109,7 @@
 3.
 4.
 5.  [4minute曝新曲《冷雨》MV冰感誘惑](http://www.koreastardaily.com/tc/video/55347)韓星網 2015-1-26
-6.  [真少女《年度咒語》MV](http://kpopn.com/2015/02/21/262704/)Kpopn 2015-2-21
+6.  [真少女《年度咒語》MV](http://kpopn.com/2015/02/21/262704/) Kpopn 2015-2-21
 7.  [4Minute新專輯《Act.7》二月初發售 「強勢大姐」回歸](http://www.koreastardaily.com/tc/news/72914)韓星網 2016-1-20
 8.  [CUBE更新4minute立場　解散為五人共同決定](http://www.koreastardaily.com/tc/news/79724)韓星網 2015-6-13
 9.  [4Minute出道7年 宣佈解散](http://www.koreastardaily.com/tc/news/79686)韓星網 2016-6-13

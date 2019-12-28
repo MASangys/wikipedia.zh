@@ -22,7 +22,7 @@
 
 2009年3月26日，蒂芬妮在[SBS連續劇](../Page/SBS_\(韓國\).md "wikilink")《[自鳴鼓](../Page/自鳴鼓.md "wikilink")》中主唱劇中的插入歌《我一個人（By Myself）》，此曲為蒂芬妮獨挑大樑首次獨唱一首歌\[6\]\[7\]。3月31日，蒂芬妮跟[K.Will合作男女對唱歌曲](https://zh.wikipedia.org/wiki/K.Will "wikilink")《少女遇見愛（소녀, 사랑을 만나다）》，此曲被收錄在[K.Will迷你專輯](https://zh.wikipedia.org/wiki/K.Will "wikilink")「淚眼汪汪」內\[8\]。4月4日，蒂芬妮跟同為[少女時代成員的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[俞利一起主持](https://zh.wikipedia.org/wiki/權俞利 "wikilink")[MBC電視台](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》節目，一直到2010年7月31日蒂芬妮因日趨忙碌於[少女時代的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[日本](../Page/日本.md "wikilink")出道行程才離開該節目\[9\]\[10\]。5月8日，蒂芬妮與同為[少女時代成員的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[秀英合唱一首歌曲](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")《只感覺到你（너만을 느끼며）》\[11\]。
 
-2010年5月2日，蒂芬妮與[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[潔西卡](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[珊妮](https://zh.wikipedia.org/wiki/李純揆 "wikilink")、[俞利](https://zh.wikipedia.org/wiki/權俞利 "wikilink")[潤娥及](https://zh.wikipedia.org/wiki/林潤娥 "wikilink")[徐玄聯同](../Page/徐朱玄.md "wikilink")[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[2PM合唱韓國水上樂園](https://zh.wikipedia.org/wiki/2PM "wikilink")[加勒比海灣的廣告歌曲](https://zh.wikipedia.org/wiki/加勒比海灣 "wikilink")《Cabi》\[12\] \[13\]。10月15日，蒂芬妮跟另一團體[東方神起](../Page/東方神起.md "wikilink")成員[鄭允浩](../Page/鄭允浩.md "wikilink")，兩人一起替[韓國旅遊發展局為推廣旅遊業而出資籌拍的電視劇](../Page/韓國觀光公社.md "wikilink")「一天」主唱劇中的插入歌《戒指（반지）》\[14\]。
+2010年5月2日，蒂芬妮與[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[潔西卡](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[珊妮](https://zh.wikipedia.org/wiki/李純揆 "wikilink")、[俞利](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[潤娥及](https://zh.wikipedia.org/wiki/林潤娥 "wikilink")[徐玄聯同](../Page/徐朱玄.md "wikilink")[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[2PM合唱韓國水上樂園](https://zh.wikipedia.org/wiki/2PM "wikilink")[加勒比海灣的廣告歌曲](https://zh.wikipedia.org/wiki/加勒比海灣 "wikilink")《Cabi》\[12\] \[13\]。10月15日，蒂芬妮跟另一團體[東方神起](../Page/東方神起.md "wikilink")成員[鄭允浩](../Page/鄭允浩.md "wikilink")，兩人一起替[韓國旅遊發展局為推廣旅遊業而出資籌拍的電視劇](../Page/韓國觀光公社.md "wikilink")「一天」主唱劇中的插入歌《戒指（반지）》\[14\]。
 
 2011年8月20日蒂芬妮與同為[少女時代成員的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[秀英](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")、[俞利三人一起在](https://zh.wikipedia.org/wiki/權俞利 "wikilink")[新潟舉行的韓國音樂明星演唱會擔任主持人](../Page/新潟市.md "wikilink")\[15\]。11月25日，蒂芬妮在音樂劇《[名揚四海](https://zh.wikipedia.org/wiki/名揚四海_\(音樂劇\) "wikilink")（Fame）》中擔任劇中的角色卡門·迪亞茲（Carmen Diaz），一起參與演出的還有[Super Junior的](../Page/Super_Junior.md "wikilink")[銀赫](../Page/銀赫.md "wikilink")、GOD的[孫昊永](../Page/孫昊永.md "wikilink")、[天上智喜](../Page/天上智喜.md "wikilink")的Lina等人。
 
@@ -58,129 +58,6 @@
 
 ## 音樂作品
 
-### 數位單曲
-
-  - Tiffany
-
-<table>
-<thead>
-<tr class="header">
-<th><p>單曲</p></th>
-<th><p>單曲資料</p></th>
-<th><p>曲目</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>_</strong></p></td>
-<td><p>首張英語數位混音單曲《<strong>I Just Wanna Dance (Kago Pengchi Remix)</strong>》</p>
-<ul>
-<li>發行日期：2016年5月23日</li>
-<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/SM_Entertainment" title="wikilink">SM Entertainment</a></li>
-<li>發行公司：KT Music</li>
-<li>語言：英語</li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>1st</strong></p></td>
-<td><p>首張韓語數位單曲《<strong>Heartbreak Hotel</strong>》</p>
-<ul>
-<li>發行日期：2016年6月10日</li>
-<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/SM_Entertainment" title="wikilink">SM Entertainment</a></li>
-<li>發行公司：KT Music</li>
-<li>語言：韓語</li>
-</ul></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-  - Tiffany Young
-
-<table>
-<thead>
-<tr class="header">
-<th><p>單曲</p></th>
-<th><p>單曲資料</p></th>
-<th><p>曲目</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>1st</strong></p></td>
-<td><p>首張英文單曲《<strong>Over My Skin</strong>》</p>
-<ul>
-<li>發行日期：2018年6月28日</li>
-<li>唱片公司：Transparent Arts</li>
-<li>發行公司：環球音樂</li>
-<li>語言：英語</li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>2nd</strong></p></td>
-<td><p>第二張英語單曲《<strong>Teach You</strong>》</p>
-<ul>
-<li>發行日期：2018年9月28日</li>
-<li>唱片公司：Transparent Arts</li>
-<li>發行公司：環球音樂</li>
-<li>語言：英語</li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>3rd</strong></p></td>
-<td><p>第三張英語單曲《<strong>Peppermint</strong>》</p>
-<ul>
-<li>發行日期：2018年11月30日</li>
-<li>唱片公司：Transparent Arts</li>
-<li>發行公司：環球音樂</li>
-<li>語言：英語</li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>4th</strong></p></td>
-<td><p>第四張英語單曲《<strong>Born Again</strong>》</p>
-<ul>
-<li>發行日期：2019年1月25日</li>
-<li>唱片公司：Transparent Arts</li>
-<li>發行公司：環球音樂</li>
-<li>語言：英語</li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>5th</strong></p></td>
-<td><p>第五張英語單曲《<strong>Lips On Lips</strong>》</p>
-<ul>
-<li>發行日期：2019年2月14日</li>
-<li>唱片公司：Transparent Arts</li>
-<li>發行公司：環球音樂</li>
-<li>語言：英語</li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>6th</strong></p></td>
-<td><p>第六張英語單曲《<strong>Magnetic Moon</strong>》</p>
-<ul>
-<li>發行日期：2019年8月2日</li>
-<li>唱片公司：Transparent Arts</li>
-<li>發行公司：環球音樂</li>
-<li>語言：英語</li>
-</ul></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
 ### EP
 
   - Tiffany
@@ -188,16 +65,15 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>專輯</p></th>
+<th><p>專輯名稱</p></th>
 <th><p>專輯資料</p></th>
 <th><p>曲目</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="../Page/I_Just_Wanna_Dance.md" title="wikilink">I Just Wanna Dance</a></strong>》</p>
-<ul>
+<td><p>《<strong><a href="../Page/I_Just_Wanna_Dance.md" title="wikilink">I Just Wanna Dance</a></strong>》</p></td>
+<td><ul>
 <li>發行日期：2016年5月11日</li>
 <li>唱片公司：<a href="https://zh.wikipedia.org/wiki/SM_Entertainment" title="wikilink">SM Entertainment</a></li>
 <li>發行公司：KT Music</li>
@@ -214,22 +90,262 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>專輯</p></th>
+<th><p>專輯名稱</p></th>
 <th><p>專輯資料</p></th>
 <th><p>曲目</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Lips_On_Lips" title="wikilink">Lips On Lips</a></strong>》</p>
-<ul>
-<li>發行日期：2019年2月22日（數位）、3月15日（實體）</li>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Lips_On_Lips" title="wikilink">Lips On Lips</a></strong>》</p></td>
+<td><ul>
+<li>發行日期：2019年3月15日</li>
 <li>唱片公司：Transparent Arts</li>
 <li>發行公司：環球音樂</li>
 <li>銷量：10,564+（韓國地區銷量）</li>
 <li>語言：英語</li>
 </ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 數位單曲
+
+  - Tiffany
+
+<table>
+<thead>
+<tr class="header">
+<th><p>單曲名稱</p></th>
+<th><p>單曲資料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>《<strong>Heartbreak Hotel</strong>》</p></td>
+<td><ul>
+<li>發行日期：2016年6月10日</li>
+<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/SM_Entertainment" title="wikilink">SM Entertainment</a></li>
+<li>發行公司：KT Music</li>
+<li>語言：韓語</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - Tiffany Young
+
+<table>
+<thead>
+<tr class="header">
+<th><p>單曲名稱</p></th>
+<th><p>單曲資料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《<strong>Over My Skin</strong>》</p></td>
+<td><ul>
+<li>發行日期：2018年6月28日</li>
+<li>唱片公司：Transparent Arts</li>
+<li>發行公司：環球音樂</li>
+<li>語言：英語</li>
+</ul></td>
+<td><ol>
+<li><strong>Over My Skin</strong></li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《<strong>Teach You</strong>》</p></td>
+<td><ul>
+<li>發行日期：2018年9月28日</li>
+<li>唱片公司：Transparent Arts</li>
+<li>發行公司：環球音樂</li>
+<li>語言：英語</li>
+</ul></td>
+<td><ol>
+<li><strong>Teach You</strong></li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《<strong>Peppermint</strong>》</p></td>
+<td><ul>
+<li>發行日期：2018年11月30日</li>
+<li>唱片公司：Transparent Arts</li>
+<li>發行公司：環球音樂</li>
+<li>語言：英語</li>
+</ul></td>
+<td><ol>
+<li><strong>Peppermint</strong></li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《<strong>Born Again</strong>》</p></td>
+<td><ul>
+<li>發行日期：2019年1月25日</li>
+<li>唱片公司：Transparent Arts</li>
+<li>發行公司：環球音樂</li>
+<li>語言：英語</li>
+</ul></td>
+<td><ol>
+<li><strong>Born Again</strong></li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《<strong>Lips On Lips</strong>》</p></td>
+<td><ul>
+<li>發行日期：2019年2月14日</li>
+<li>唱片公司：Transparent Arts</li>
+<li>發行公司：環球音樂</li>
+<li>語言：英語</li>
+</ul></td>
+<td><ol>
+<li><strong>Lips On Lips</strong></li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《<strong>Magnetic Moon</strong>》</p></td>
+<td><ul>
+<li>發行日期：2019年8月2日</li>
+<li>唱片公司：Transparent Arts</li>
+<li>發行公司：環球音樂</li>
+<li>語言：英語</li>
+</ul></td>
+<td><ol>
+<li><strong>Magnetic Moon</strong></li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《<strong>Run For You Life</strong>》</p></td>
+<td><ul>
+<li>發行日期：2019年10月11日</li>
+<li>唱片公司：Transparent Arts</li>
+<li>發行公司：環球音樂</li>
+<li>語言：英語</li>
+</ul></td>
+<td><ol>
+<li><strong>Run For You Life</strong></li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+
+### 混音單曲
+
+<table>
+<thead>
+<tr class="header">
+<th><p>單曲名稱</p></th>
+<th><p>單曲資料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>《<strong>I Just Wanna Dance (Kago Pengchi Remix)</strong>》</p></td>
+<td><ul>
+<li>發行日期：2016年5月23日</li>
+<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/SM_Entertainment" title="wikilink">SM Entertainment</a></li>
+<li>發行公司：KT Music</li>
+<li>語言：英語</li>
+</ul></td>
+<td><ol>
+<li><strong>I Just Wanna Dance (Kago Pengchi Remix)</strong></li>
+</ol></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《<strong>Runaway (Remix) [feat. Babyface &amp; Chloe Flower]</strong>》</p></td>
+<td><ul>
+<li>發行日期：2019年5月31日</li>
+<li>唱片公司：Transparent Arts</li>
+<li>發行公司：環球音樂</li>
+<li>語言：英語</li>
+</ul></td>
+<td><ol>
+<li><strong>Runaway (Remix) [feat. Babyface &amp; Chloe Flower]</strong></li>
+</ol></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《<strong>Magnetic Moon (Tony Romera Remix Version)</strong>》</p></td>
+<td><ul>
+<li>發行日期：2019年9月4日</li>
+<li>唱片公司：Transparent Arts</li>
+<li>發行公司：環球音樂</li>
+<li>語言：英語</li>
+</ul></td>
+<td><ol>
+<li><strong>Magnetic Moon (Tony Romera Remix)</strong></li>
+</ol></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《<strong>Run For You Life (Remix)(feat. Cedric Gervais)</strong>》</p></td>
+<td><ul>
+<li>發行日期：2019年10月25日</li>
+<li>唱片公司：Transparent Arts</li>
+<li>發行公司：環球音樂</li>
+<li>語言：英語</li>
+</ul></td>
+<td><ol>
+<li><strong>Run For You Life (Remix)(feat. Cedric Gervais)</strong></li>
+</ol></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -353,6 +469,15 @@
 <td></td>
 <td></td>
 <td><p>Magnetic Moon</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年10月11日</p></td>
+<td><p>Run For You Life</p></td>
+<td></td>
+<td></td>
+<td><p>Run For You Life</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -577,7 +702,7 @@
 </tbody>
 </table>
 
-  - 《OPEN HEARTS EVE》演唱會
+  - 《[OPEN HEARTS EVE](../Page/OPEN_HEARTS_EVE.md "wikilink")》演唱會
 
 <table>
 <tbody>
@@ -596,29 +721,169 @@
 <td><p>曼谷</p></td>
 <td><p>Thunder Dome</p></td>
 </tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
-### 粉絲見面會
-
-  - 2018 TIFFANY YOUNG Asia Fan Meeting Tour
+  - 《[OPEN HEARTS EVE PART TWO](../Page/OPEN_HEARTS_EVE.md "wikilink")》演唱會
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p>日期</p></td>
-<td><p>見面會城市</p></td>
+<td><p>演唱會站次</p></td>
 <td><p>舉行地點</p></td>
 </tr>
 <tr class="even">
-<td><p>2018年9月20日</p></td>
-<td><p><a href="../Page/曼谷.md" title="wikilink">曼谷</a></p></td>
-<td><p>Thunder Dome</p></td>
-</tr>
-<tr class="odd">
-<td><p>2018年9月23日</p></td>
+<td><p>2020年1月19日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
 <td><p><a href="../Page/台北國際會議中心.md" title="wikilink">台北國際會議中心</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年1月23日 午場</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年1月23日 晚場</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020年1月25日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬尼拉" title="wikilink">馬尼拉</a></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - 《MAGNETIC MOON》北美巡迴演唱會\[26\]
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>日期</p></td>
+<td><p>城市</p></td>
+<td><p>國家/地區</p></td>
+<td><p>地點</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年10月25日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/舊金山" title="wikilink">舊金山</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年10月27日</p></td>
+<td><p><a href="../Page/溫哥華.md" title="wikilink">溫哥華</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年10月28日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/波特蘭" title="wikilink">波特蘭</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年10月29日</p></td>
+<td><p><a href="../Page/西雅圖.md" title="wikilink">西雅圖</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/明尼亞波利斯" title="wikilink">明尼亞波利斯</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月2日</p></td>
+<td><p><a href="../Page/芝加哥.md" title="wikilink">芝加哥</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月4日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/多倫多" title="wikilink">多倫多</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月6日</p></td>
+<td><p><a href="../Page/費城.md" title="wikilink">費城</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月8日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/波士頓" title="wikilink">波士頓</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月9日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華盛頓哥倫比亞特區" title="wikilink">華盛頓</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月10日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/布魯克林區" title="wikilink">布魯克林</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月12日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅里_(北卡羅來納州)" title="wikilink">羅里</a></p></td>
+<td><p>Lincoln Theatre,Raleigh</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月13日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/亞特蘭大" title="wikilink">亞特蘭大</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月15日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/休士頓" title="wikilink">休士頓</a></p></td>
+<td><p>White Oak Music Hall</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月16日</p></td>
+<td><p><a href="../Page/達拉斯.md" title="wikilink">達拉斯</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月18日</p></td>
+<td><p><a href="../Page/丹佛.md" title="wikilink">丹佛</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月20日</p></td>
+<td><p><a href="../Page/鳳凰城_(亞利桑那州).md" title="wikilink">鳳凰城</a></p></td>
+<td><p>Crescent Ballroom</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月21日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -699,7 +964,29 @@
 </tbody>
 </table>
 
-### 生日會
+### 粉絲見面會
+
+  - 2018 TIFFANY YOUNG Asia Fan Meeting Tour
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>日期</p></td>
+<td><p>見面會城市</p></td>
+<td><p>舉行地點</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年9月20日</p></td>
+<td><p><a href="../Page/曼谷.md" title="wikilink">曼谷</a></p></td>
+<td><p>Thunder Dome</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018年9月23日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
+<td><p><a href="../Page/台北國際會議中心.md" title="wikilink">台北國際會議中心</a></p></td>
+</tr>
+</tbody>
+</table>
 
   - TIFFANY BIRTHDAY PARTY
 
@@ -848,6 +1135,8 @@
 | 日期                 | 電視台/平台                                                         | 節目名稱                                                   | 合作藝人                                                                                                                                                                                       |
 | 2015年2月13日、14日、20日 | [LINE](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink") | 《TV SurpLINEs》－少女時代篇                                   | [孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")、[Yuri](../Page/俞利.md "wikilink")                                                                                                         |
 | 2016年4月8日－8月15日    | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")      | 《[姐姐們的Slam Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")》 | [羅美蘭](../Page/羅美蘭.md "wikilink")、[金淑](../Page/金淑.md "wikilink") 、[洪真慶](../Page/洪真慶.md "wikilink")、[閔孝琳](https://zh.wikipedia.org/wiki/閔孝琳 "wikilink")、[Jessi](../Page/Jessi.md "wikilink") |
+| 2019年10月6日         | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")            | 《[Running Man](../Page/Running_Man.md "wikilink")》     | [黃致列](../Page/黃致列.md "wikilink")、[朴柔娜](../Page/朴柔娜.md "wikilink")、[美娜](../Page/美娜.md "wikilink")                                                                                           |
+|                    |                                                                |                                                        |                                                                                                                                                                                            |
 
 ### 節目主持
 
@@ -879,7 +1168,7 @@
 </tr>
 <tr class="odd">
 <td><p>2009年4月4日-2010年7月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">俞利</a>[26]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">俞利</a>[27]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1081,7 +1370,7 @@
 
 ### 宣傳大使
 
-  - 2012年12月17日《全球希望》宣傳大使\[27\]
+  - 2012年12月17日《全球希望》宣傳大使\[28\]
   - 2013年7月28日《韓國Week Promo－韓國觀光》宣傳大使（與[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[珊妮](https://zh.wikipedia.org/wiki/李純揆 "wikilink")）
 
 ## 雜誌寫真
@@ -1132,28 +1421,28 @@
 <tr class="even">
 <td><p>2009年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mnet_Asian_Music_Awards" title="wikilink">Mnet Asian Music Awards</a></p></td>
-<td><p>OST賞 [28]</p></td>
+<td><p>OST賞 [29]</p></td>
 <td><p>〈By Myself〉</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2011年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC放送演藝大賞" title="wikilink">MBC放送演藝大賞</a></p></td>
-<td><p>MC部門－特別獎（與<a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">Yuri</a>） [29]</p></td>
+<td><p>MC部門－特別獎（與<a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">Yuri</a>） [30]</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/首爾國際電視劇大賞" title="wikilink">首爾國際電視劇大賞</a></p></td>
-<td><p>韓流劇集OST賞 [30]</p></td>
+<td><p>韓流劇集OST賞 [31]</p></td>
 <td><p>〈一步〉</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
 <td></td>
-<td><p>Best Solo Breakout [31]</p></td>
+<td><p>Best Solo Breakout [32]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1263,62 +1552,34 @@
 [Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink") [Category:英語歌手](https://zh.wikipedia.org/wiki/Category:英語歌手 "wikilink") [Category:日語歌手](https://zh.wikipedia.org/wiki/Category:日語歌手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:美國女歌手](https://zh.wikipedia.org/wiki/Category:美國女歌手 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink") [Category:美國舞者](https://zh.wikipedia.org/wiki/Category:美國舞者 "wikilink") [Category:韓國舞者](https://zh.wikipedia.org/wiki/Category:韓國舞者 "wikilink") [Category:韓國女性模特兒](https://zh.wikipedia.org/wiki/Category:韓國女性模特兒 "wikilink") [Category:韓國音樂劇演員](https://zh.wikipedia.org/wiki/Category:韓國音樂劇演員 "wikilink") [Category:韓國電視主持人](https://zh.wikipedia.org/wiki/Category:韓國電視主持人 "wikilink") [Category:美國新教徒](https://zh.wikipedia.org/wiki/Category:美國新教徒 "wikilink") [Category:韓國新教徒](https://zh.wikipedia.org/wiki/Category:韓國新教徒 "wikilink") [Category:韓裔美國人](https://zh.wikipedia.org/wiki/Category:韓裔美國人 "wikilink") [Category:洛杉磯人](https://zh.wikipedia.org/wiki/Category:洛杉磯人 "wikilink") [Category:黄姓](https://zh.wikipedia.org/wiki/Category:黄姓 "wikilink") [Category:加州人](https://zh.wikipedia.org/wiki/Category:加州人 "wikilink")
 
 1.
-
 2.
 3.
-
 4.   [카라 한승연, 티파니 후임으로 '소년소녀가요백서' 진행](http://kr.ibtimes.com/article/news/20080625/7268288.htm) . *International Business Times*. June 25, 2008. Retrieved April 25, 2010.
-
 5.   [소녀시대 티파니 제시카 서현 게임 주제가 신곡 발표 (*Girls' Generation's Tiffany/Jessica/Seohyun Announce Game Theme Song as New Single*)](http://isplus.joins.com/article/article.html?aid=985744). *IS Plus*/*Newsen*. August 1, 2008. Retrieved May 4, 2010.
-
 6.   StarNews: [티파니, 서현 이어 솔로 변신..'자명고' OST 참여](http://star.mt.co.kr/view/stview.php?no=2009032508415092794&outlink=2&SVEC), 김지연 기자. MoneyToday. March 25, 2009.
-
 7.
-
 8.   The Korea Herald: *[Tiffany sings own without her members](http://koreaherald.heraldm.com/national/Detail.jsp?newsMLId=20090408000135)*, March 30, 2010
-
 9.   spn.edaily.co.kr: [티파니·유리, '음악중심' 새 MC..."샤방샤방 즐거움 드릴게요"](http://spn.edaily.co.kr/entertain/newsRead.asp?sub_cd=EA31&newsid=01259526589627912&DirCode=0010301), March 28, 2009
-
 10. {{ko icon}
-
 11.  [너만을 느끼며 (Feat. 티파니 & 수영), Cyworld](http://music.cyworld.com/song.asp?sid=1199250)
-
 12.
-
 13.  [2PM & SNSD Cabi song Caribbean Bay (Teacyeon-YoonA,Nickhun-Yuri,Chansung-Seo Huyn)](http://www.youtube.com/watch?v=WtZADdceSr4), youtube.com. May 2, 2010. Retrieved October 5, 2012.
-
 14.  [Official website of *HARU: An Unforgettable Day in Korea*](http://www.haru2010.com/eng/index.aspx#/about/ost)
-
 15.  [\[News](http://www.dkpopnews.net/2011/08/news-yuri-tiffany-and-sooyoung-to-emcee.html) Yuri, Tiffany and Sooyoung to emcee 'Kpop All Star Live in Niigata' on August 20th\]
-
 16. [迎戰Jessica？Tiffany將發行電子-POP舞曲回歸！](http://www.vlovekpop.com/201605060-tiffany/) vlovekpop
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
-26. [秀！音樂中心官方網站 與俞利共同主持](http://www.imbc.com/broad/tv/ent/musiccore/)
-
-27.
-
+26. [《MAGNETIC MOON》北美巡迴演唱會列表](https://www.kpopmap.com/tiffany-young-magnetic-moon-north-american-tour-cities-and-ticket-details/)
+27. [秀！音樂中心官方網站 與俞利共同主持](http://www.imbc.com/broad/tv/ent/musiccore/)
 28.
-
 29.
-
 30.
-
 31.
+32.

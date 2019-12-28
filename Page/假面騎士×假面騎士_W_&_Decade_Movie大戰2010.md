@@ -206,7 +206,7 @@ Decade被稱作假面騎士世界的破壞者，是眾多假面騎士眼中的�
 
 ## 外部連結
 
-  - [劇場版 -{zh-cn:假面骑士;zh-hk:幪面超人;}-×-{zh-cn:假面骑士;zh-hk:幪面超人;}-W & Decade Movie大战2010 官网](http://www.w-dcd.com/)
+  - [劇場版 -{zh-cn:假面骑士;zh-hk:幪面超人;}-×-{zh-cn:假面骑士;zh-hk:幪面超人;}-W & Decade Movie大战2010 官网](https://web.archive.org/web/20110721012103/http://www.w-dcd.com/)
 
 [Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:平成假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列跨界作品 "wikilink") [Category:2009年日本電影](https://zh.wikipedia.org/wiki/Category:2009年日本電影 "wikilink") [Category:田崎龍太電影](https://zh.wikipedia.org/wiki/Category:田崎龍太電影 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
 

@@ -356,7 +356,7 @@
 
   - [我叫MT官方网站](http://wow.178.com/zt/immt/index.html)
 
-[Category:中华人民共和国动画](https://zh.wikipedia.org/wiki/Category:中华人民共和国动画 "wikilink") [Category:網絡動畫](https://zh.wikipedia.org/wiki/Category:網絡動畫 "wikilink") [Category:魔兽世界](https://zh.wikipedia.org/wiki/Category:魔兽世界 "wikilink") [Category:同人作品](https://zh.wikipedia.org/wiki/Category:同人作品 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
+[Category:2000年代中国动画作品](https://zh.wikipedia.org/wiki/Category:2000年代中国动画作品 "wikilink") [Category:網絡動畫](https://zh.wikipedia.org/wiki/Category:網絡動畫 "wikilink") [Category:魔兽世界](https://zh.wikipedia.org/wiki/Category:魔兽世界 "wikilink") [Category:同人作品](https://zh.wikipedia.org/wiki/Category:同人作品 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
 
 1.  [3D网络原创动画《我叫MT》“瞬”速传播 2009-10-20 12:04:41](http://game.163.com/09/1020/12/5M2M8SSA00313RAR.html)
 2.  [《我叫MT》在国外好评如潮 老外评语整理 2009-11-10](http://game.163.com/09/1110/14/5NP076U900313NAT.html)

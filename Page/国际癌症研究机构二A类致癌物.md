@@ -95,7 +95,7 @@
 ## 外部链接
 
   - [致癌物分类表描述](http://monographs.iarc.fr/ENG/Classification/), [国际癌症研究机构](../Page/国际癌症研究机构.md "wikilink")
-      - [致癌物分类表](http://monographs.iarc.fr/ENG/Classification/latest_classif.php)（最新版本）
+      - [致癌物分类表](https://web.archive.org/web/20170610015529/http://monographs.iarc.fr/ENG/Classification/latest_classif.php)（最新版本）
 
 <!-- end list -->
 

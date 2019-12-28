@@ -1,4 +1,4 @@
-**WoWWiki**是一个关于[魔兽的](https://zh.wikipedia.org/wiki/魔兽 "wikilink")[维基](https://zh.wikipedia.org/wiki/维基 "wikilink")。它涵盖了所有魔兽系列游戏，包括[魔兽世界](../Page/魔兽世界.md "wikilink")。它也是一个专门为魔兽玩家们提供游戏攻略的地方。它被称赞“已知最好的[大型多人線上遊戲维基](https://zh.wikipedia.org/wiki/大型多人線上遊戲 "wikilink")”，\[1\]“第二大英语维基”，\[2\]和“所有魔兽世界信息来源之母”。\[3\]WoWWiki现在运行在[MediaWiki](../Page/MediaWiki.md "wikilink")之上并且是[Wikia](../Page/Wikia.md "wikilink")网络的成员。\[4\]
+**WoWWiki**是一个关于[魔兽的](https://zh.wikipedia.org/wiki/魔兽 "wikilink")[维基](https://zh.wikipedia.org/wiki/维基 "wikilink")。它涵盖了所有魔兽系列游戏，包括[魔兽世界](../Page/魔兽世界.md "wikilink")。它也是一个专门为魔兽玩家们提供游戏攻略的地方。它被称赞“已知最好的[大型多人線上遊戲维基](https://zh.wikipedia.org/wiki/大型多人線上遊戲 "wikilink")”，\[1\]“第二大英语维基”，\[2\]和“所有魔兽世界信息来源之母”。\[3\]WoWWiki现在运行在[MediaWiki之上并且是](https://zh.wikipedia.org/wiki/MediaWiki "wikilink")[Wikia](../Page/Wikia.md "wikilink")网络的成员。\[4\]
 
 ## 历史和描述
 
@@ -35,6 +35,5 @@ WoWWiki.com始于2004年11月24日。 自运行后，维基渐渐扩展至包含
 11.
 12.
 13. Sherlock 2009, p. 276
-
 14.
 15.

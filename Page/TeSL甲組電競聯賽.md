@@ -1,4 +1,4 @@
-**TeSL甲組電競聯賽**（Tt eSports Amateur League，簡稱甲組電競聯賽）為《[台灣電子競技聯盟](https://zh.wikipedia.org/wiki/台灣電子競技聯盟 "wikilink")》所主辦的業餘[電子競技聯賽](https://zh.wikipedia.org/wiki/電子競技 "wikilink")。於2010年3月開始第一個賽季。目前的比賽項目有《[SF Online](https://zh.wikipedia.org/wiki/SF_Online "wikilink")》、《[跑跑卡丁車](https://zh.wikipedia.org/wiki/跑跑卡丁車 "wikilink")》、《[BBO全民打棒球](https://zh.wikipedia.org/wiki/全民打棒球 "wikilink")》三個項目。甲組電競聯賽除禁止職業電競選手（例如：台灣電競聯盟所屬四支職業電競隊的所有成員）參賽外，還有冠亞軍休賽等特殊規定。由於選手每次參賽均需報名通過方可參加，故每次賽事之參賽人員都有所不同。
+**TeSL甲組電競聯賽**（Tt eSports Amateur League，簡稱甲組電競聯賽）為《[台灣電子競技聯盟](https://zh.wikipedia.org/wiki/台灣電子競技聯盟 "wikilink")》所主辦的業餘[電子競技聯賽](https://zh.wikipedia.org/wiki/電子競技 "wikilink")。於2010年3月開始第一個賽季。目前的比賽項目有《[SF Online](https://zh.wikipedia.org/wiki/SF_Online "wikilink")》、《[跑跑卡丁車](https://zh.wikipedia.org/wiki/跑跑卡丁車 "wikilink")》、《[BBO全民打棒球](https://zh.wikipedia.org/wiki/全民打棒球 "wikilink")》三個項目。甲組電競聯賽除禁止職業電競選手（例如：台灣電競聯盟所屬四支職業電競隊的所有成員）參賽外，還有冠亞軍休賽等特殊規定。由於選手每次參賽均需報名通過方可參加，故每次賽事之參賽人員都有所不同。聽賽了
 
 ## 歷史沿革
 

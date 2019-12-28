@@ -1,5 +1,4 @@
-/\* [Template:Internal link
-helper](../Page/Template:Internal_link_helper.md "wikilink") 辅助脚本 \*/
+/\* [Template:Internal link helper](https://zh.wikipedia.org/wiki/Template:Internal_link_helper "wikilink") 辅助脚本 \*/
 
 importScript( "MediaWiki:Tooltips.js" );
 

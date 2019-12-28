@@ -162,13 +162,8 @@ GP Basic 6名成員中有一人出道時只有小學六年級（所以GP Basic�
 [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink") [Category:2010年韓國建立](https://zh.wikipedia.org/wiki/Category:2010年韓國建立 "wikilink") [Category:2015年韓國廢除](https://zh.wikipedia.org/wiki/Category:2015年韓國廢除 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.  [GP Basic正名](https://archive.is/20160725151942/http://legendbrother.cn/4g.php?m=show&cid=16&id=119)
-
 2.  已退出
-
 3.  已退出，曾為[Ye-A成員](https://zh.wikipedia.org/wiki/Ye-A "wikilink")**Cha-I**(後退出)
-
 4.  2015年退出
-
 5.
-
 6.

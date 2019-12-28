@@ -26,6 +26,5 @@
 [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")
 
 1.  [What's all the buzz about?](http://www.redhat.com/f/pdf/jbw/tfox_350_jboss_messaging.pdf)
-
 2.
 3.  [HornetQ - Documentation](http://jboss.org/hornetq/docs.html)

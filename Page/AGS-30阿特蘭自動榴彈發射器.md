@@ -25,7 +25,7 @@ AGS-30和[AGS-17一樣發射](../Page/AGS-17烈火自動榴彈發射器.md "wiki
   - [VOG-17](https://zh.wikipedia.org/wiki/30×29mm#VOG-17 "wikilink")：這是原來可用的30毫米榴彈，只有基本版本的定時引信。
   - [VOG-17M](https://zh.wikipedia.org/wiki/30×29mm#VOG-17M "wikilink")：這是原來可用的30毫米榴彈的改進型版本，並有一個基本的[高爆](https://zh.wikipedia.org/wiki/炮彈#高爆彈_\(HE\) "wikilink")[破片](../Page/破片杀伤.md "wikilink")[彈頭](../Page/彈頭.md "wikilink")設計。榴彈的[引信](../Page/引信.md "wikilink")[自毀時間為](../Page/自爆.md "wikilink")25—27秒。
   - [VOG-30](https://zh.wikipedia.org/wiki/30×29mm#VOG-30 "wikilink")：這是一種類似於VOG-17M的榴彈，但具有更好的爆炸物填充料和增強破片分散方面的設計，大大增加了[爆炸的有效](https://zh.wikipedia.org/wiki/爆炸 "wikilink")[半径](https://zh.wikipedia.org/wiki/半径 "wikilink")。
-  - [GPD-30](https://zh.wikipedia.org/wiki/30×29mm#GPD-30 "wikilink")：最近投入批量生產的榴彈，採用了特殊設計，可打擊超過2,000公尺（2,187.23码，6,561.68英尺，1.24英里）的目標。\[3\]
+  - [GPD-30](https://zh.wikipedia.org/wiki/30×29mm#GPD-30 "wikilink")：2003年投入批量生產的榴彈，採用了特殊設計，可打擊超過2,000公尺（2,187.23码，6,561.68英尺，1.24英里）的目標。\[3\]
 
 ## 使用國
 
@@ -92,7 +92,7 @@ AGS-30和[AGS-17一樣發射](../Page/AGS-17烈火自動榴彈發射器.md "wiki
 
 <!-- end list -->
 
-  -   - 2013年11月上號：[《2013—2014简氏步兵武器年鉴》前言](http://www.xzbu.com/8/view-4426098.htm)
+  -   - 2013年11月上號：[《2013—2014简氏步兵武器年鉴》前言](https://web.archive.org/web/20140204022132/http://www.xzbu.com/8/view-4426098.htm)
       - 2014年9月上號：[俄罗斯AGS-30自动榴弹发射器](http://mall.cnki.net/magazine/Article/QBQI201417003.htm)
       - 2015年2月下號：[《2014～2015简氏步兵武器年鉴》前言](https://web.archive.org/web/20150218062555/http://gdwap.dooland.com/article.php?id=596424)
       - 2015年5月下號：[2014年国外近战武器发展回顾](https://archive.is/20150603111417/http://gdwap.dooland.com/article.php?id=663702)

@@ -58,11 +58,8 @@
 [Category:SBS月火連續劇](https://zh.wikipedia.org/wiki/Category:SBS月火連續劇 "wikilink") [Category:2010年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2010年韓國電視劇集 "wikilink") [Category:星空傳媒(台灣)電視外購韓劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購韓劇 "wikilink") [Category:咖啡店背景作品](https://zh.wikipedia.org/wiki/Category:咖啡店背景作品 "wikilink") [Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.

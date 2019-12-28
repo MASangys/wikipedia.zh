@@ -14,6 +14,8 @@ DA PUMP四名成員出道以來都是自行編舞，沒有雇用專屬的編舞�
 
 2018年，以單曲《》（該年6月6日發行）再次走紅，並以該曲出場[第69回NHK紅白歌合戰](../Page/第69回NHK紅白歌合戰.md "wikilink")，為相隔16年後第6次出演NHK紅白歌合戰。
 
+2019年8月，來台參加「超犀利趴10」\[1\]。
+
 ## 成員
 
   - **[ISSA](https://zh.wikipedia.org/wiki/ISSA "wikilink")（團長）**
@@ -132,64 +134,35 @@ DA PUMP四名成員出道以來都是自行編舞，沒有雇用專屬的編舞�
 ### 單曲
 
 1.  ******（8cm：1997年6月11日、12cm：2003年2月19日）
-
 2.  ******（8cm：1997年10月1日、12cm：2003年2月19日）
-
 3.
 4.  ******（8cm：1998年2月18日、12cm：2003年2月19日）
-
 5.  ****** （8cm：1998年4月22日、12cm：2003年2月19日）
-
 6.  ******（8cm：1998年6月24日、12cm：2003年2月19日）
-
 7.  ****** （8cm：1998年10月21日、12cm：2003年2月19日）
-
 8.  ******（8cm：1999年3月10日、12cm：2003年2月19日）
-
 9.  ******（8cm：1999年6月9日、12cm：2003年2月19日）
-
 10. ******（1999年10月20日）
-
 11. ******（2000年2月9日）
-
 12. ******（2000年5月17日）
-
 13. ******（2000年9月27日）
-
 14. ******（2001年1月11日）
-
 15. *****CORAZON*（2001年4月25日）
-
 16. ******（2001年7月11日）
-
 17. ******（2001年11月7日）
-
 18. ******（2002年6月26日） CCCD
-
 19. ******（2003年7月9日） CCCD
-
 20. ******（2003年11月27日） CCCD
-
 21. ******（2004年5月12日） CD/CD+DVD CCCD
-
 22. ******（2004年9月15日） CD/CD+DVD CCCD
-
 23. ******（2005年6月8日） CD/CD+DVD
-
 24. ******（2005年10月26日） CD/CD+DVD
-
 25. ******（2006年9月27日） CD/CD+DVD
-
 26. ******（2006年12月6日） CD/CD+DVD
-
 27. ******（2009年7月15日）CD/CD+DVD
-
 28. ******（2011年2月16日）CD/CD+DVD
-
 29. ******（2014年10月8日）CD/CD+DVD
-
 30. ******（2018年6月6日）CD/CD+DVD/digital
-
 31. ******（2019年3月6日）CD/CD+DVD/CD+Blu-ray
 
 ### 專輯
@@ -229,4 +202,6 @@ DA PUMP四名成員出道以來都是自行編舞，沒有雇用專屬的編舞�
   - [舞蹈團體AFROISM](https://web.archive.org/web/20100813151302/http://hp.kutikomi.net/afrohp/)
   - [舞蹈團體SCREAM](http://ameblo.jp/scream-japan)
 
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:VISION_FACTORY](https://zh.wikipedia.org/wiki/Category:VISION_FACTORY "wikilink") [Category:RISINGPRO](https://zh.wikipedia.org/wiki/Category:RISINGPRO "wikilink")
+[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:VISION_FACTORY](https://zh.wikipedia.org/wiki/Category:VISION_FACTORY "wikilink") [Category:RISINGPRO](https://zh.wikipedia.org/wiki/Category:RISINGPRO "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
+
+1.

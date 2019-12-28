@@ -27,7 +27,7 @@ Dreamcast中的GD-ROM与大部分现代光驱一样，以恒定角速度的方�
 
 ## 外部链接
 
-  - [Sega's GD-ROM Presentation](http://mc.pp.se/dc/gdrom.html)
+  - [Sega's GD-ROM Presentation](https://web.archive.org/web/20080218151806/http://mc.pp.se/dc/gdrom.html)
 
 [Category:Dreamcast](https://zh.wikipedia.org/wiki/Category:Dreamcast "wikilink") [Category:電腦貯存裝置](https://zh.wikipedia.org/wiki/Category:電腦貯存裝置 "wikilink") [Category:電子遊戲儲存媒體](https://zh.wikipedia.org/wiki/Category:電子遊戲儲存媒體 "wikilink")
 

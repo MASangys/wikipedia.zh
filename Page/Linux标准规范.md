@@ -39,7 +39,7 @@ LSB規範的例子:標準[函式庫](../Page/函式庫.md "wikilink"),一系列�
 
   - [Linux 标准规范 (LSB)](https://web.archive.org/web/20080329000449/http://www.linux-foundation.org/en/LSB)
   - [OLVER Test Suite for LSB](http://linuxtesting.org/results/testsuite) - **O**pen **L**inux **VER**ification project
-  - [Linux Foundation's Linux Developer Network (LDN)](http://ldn.linuxfoundation.org/) - to help developers building portable Linux applications.
+  - [Linux Foundation's Linux Developer Network (LDN)](https://web.archive.org/web/20110902054531/http://ldn.linuxfoundation.org/) - to help developers building portable Linux applications.
 
 <!-- end list -->
 

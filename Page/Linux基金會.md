@@ -129,9 +129,9 @@ Linux基金会[活动](http://events.linuxfoundation.org/)是最重要的开源�
 
   - [Linux.com](http://www.linux.com)
 
-  - [Linux Foundation Publications](http://www.linuxfoundation.org/publications)
+  - [Linux Foundation Publications](https://web.archive.org/web/20131105104156/http://www.linuxfoundation.org/publications)
 
-  - [Linux Adoption Trends: A Survey of Enterprise End Users](http://www.linuxfoundation.org/publications/linux-foundation/linux-adoption-trends-end-user-survey)
+  - [Linux Adoption Trends: A Survey of Enterprise End Users](https://web.archive.org/web/20160508094808/http://www.linuxfoundation.org/publications/linux-foundation/linux-adoption-trends-end-user-survey)
 
 [Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink") [Category:自由軟體組織](https://zh.wikipedia.org/wiki/Category:自由軟體組織 "wikilink") [Category:Linux組織](https://zh.wikipedia.org/wiki/Category:Linux組織 "wikilink") [Category:Linux基金會](https://zh.wikipedia.org/wiki/Category:Linux基金會 "wikilink") [Category:2007年建立的組織](https://zh.wikipedia.org/wiki/Category:2007年建立的組織 "wikilink") [Category:标准制订机构](https://zh.wikipedia.org/wiki/Category:标准制订机构 "wikilink") [Category:501(c)(6)非營利組織](https://zh.wikipedia.org/wiki/Category:501\(c\)\(6\)非營利組織 "wikilink")
 

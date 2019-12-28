@@ -31,11 +31,7 @@
 4.
 5.
 6.
-
 7.
-
 8.  Johnson, John Jr.; [Astrophysicists puzzle over planet that's too close to its sun](http://www.latimes.com/news/nationworld/nation/la-sci-planet27-2009aug27,0,5882308.story), *Los Angeles Times* (August 27, 2009).
-
 9.
-
 10.

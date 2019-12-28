@@ -96,25 +96,16 @@
 [Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:大型多人在线游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线游戏 "wikilink") [Category:电子卡牌游戏](https://zh.wikipedia.org/wiki/Category:电子卡牌游戏 "wikilink") [Category:三国杀](https://zh.wikipedia.org/wiki/Category:三国杀 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:基于浏览器的多人在线游戏](https://zh.wikipedia.org/wiki/Category:基于浏览器的多人在线游戏 "wikilink") [Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink") [Category:原生中文游戏](https://zh.wikipedia.org/wiki/Category:原生中文游戏 "wikilink") [Category:盛趣遊戲](https://zh.wikipedia.org/wiki/Category:盛趣遊戲 "wikilink") [Category:遊戲新幹線遊戲](https://zh.wikipedia.org/wiki/Category:遊戲新幹線遊戲 "wikilink")
 
 1.
-
 2.
-
 3.  [遊戲新幹線宣布取得盛大遊戲《三國殺》台港澳營運權](http://gnn.gamer.com.tw/8/61888.html)
-
 4.  [【台北電玩展 12】遊戲新幹線獲《三國殺》代理權《龍之谷》將推手機遊戲](http://gnn.gamer.com.tw/1/62161.html)
-
 5.
-
 6.  [《三國殺》終止營運公告](http://www.3platform.com/3gs/main_news.aspx?ptype=news&ID=6327)
-
 7.  除华雄、袁术、于吉外。
-
 8.  除神将、左慈、袁术、SP袁术、SP关羽外。
-
 9.
 10.
 11. 除神将、左慈、袁术、SP袁术、SP关羽、SP贾诩外。
-
 12.
 13.
 14.

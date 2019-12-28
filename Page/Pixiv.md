@@ -1,8 +1,14 @@
 **pixiv**（）是一个主要由[日本](../Page/日本.md "wikilink")[藝術家所組成的](https://zh.wikipedia.org/wiki/藝術家 "wikilink")[虛擬社群](../Page/虛擬社群.md "wikilink")，主體為由[pixiv股份有限公司所运营的为](https://zh.wikipedia.org/wiki/pixiv股份有限公司 "wikilink")[插画艺术特化的](https://zh.wikipedia.org/wiki/插画 "wikilink")[社交网络服务网站](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink")。pixiv於2007年9月10日由上谷隆宏等人首次推出第一個[測試版](https://zh.wikipedia.org/wiki/軟體版本週期 "wikilink")，目前Pixiv公司總部位於日本[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[千駄谷](../Page/千駄谷.md "wikilink")。\[1\]截至2010年5月，pixiv已擁有超過200萬會員、1100萬份作品，並每天會收到超過20000份原創作品。\[2\]\[3\]而在2010年1月時，該網站平均每天約被訪問約34萬次；\[4\]2010年5月統計時，則每個月平均約有15億次瀏覽數。\[5\]pixiv目的是提供一個能讓藝術家發表他們的插圖，並透過評級系統反應其他用戶意見之處，網站以用户投稿的原创图画为中心，辅以[标签](https://zh.wikipedia.org/wiki/標籤_\(元數據\) "wikilink")、[书签](https://zh.wikipedia.org/wiki/书签 "wikilink")、作品回应、[排行榜等功能形成具有其特色的社交网络](https://zh.wikipedia.org/wiki/排行榜 "wikilink")。
 
+### 詞源
+
+網站名稱的詞源，來自[像素](../Page/像素.md "wikilink")（）
+
 ## 歷史
 
-对插画艺术感兴趣的[程序员](../Page/程序员.md "wikilink")上谷隆宏（在pixiv網站上其用戶名為「」\[6\]），於2007年9月9日投稿了一张[烧水壶的铅笔画](https://zh.wikipedia.org/wiki/烧水壶 "wikilink")\[7\]；2007年9月10日参考了[Flickr](../Page/Flickr.md "wikilink")，设计出pixiv的[測試版原型并开始对外公测](https://zh.wikipedia.org/wiki/軟體版本週期 "wikilink")。\[8\]在網站營運後第20天後，用戶數量便已經超過10000名。同年10月1日由於用户数目的增多，已無法只由上谷隆宏維持，改將測試版交由当时的crooc公司（现pixiv公司的前身）进行运营。\[9\]2007年12月18日，經過數次大規模的功能更新後形成目前的形態。\[10\] 2008年11月1日，管理公司Crooc更名為Pixiv公司。\[11\]
+对插画艺术感兴趣的[程序员](../Page/程序员.md "wikilink")上谷隆宏（在pixiv網站上其用戶名為「」\[6\]），於2007年9月9日投稿了一张[烧水壶的铅笔画](https://zh.wikipedia.org/wiki/烧水壶 "wikilink")\[7\]；2007年9月10日参考了[Flickr](../Page/Flickr.md "wikilink")，设计出pixiv的[測試版原型并开始对外公测](https://zh.wikipedia.org/wiki/軟體版本週期 "wikilink")。\[8\]在網站營運後第20天後，用戶數量便已經超過10000名。同年10月1日由於用户数目的增多，已無法只由上谷隆宏維持，改將測試版交由当时的crooc公司（现pixiv公司的前身）进行运营。\[9\]
+
+2007年12月18日，經過數次大規模的功能更新後形成目前的形態。\[10\] 2008年11月1日，管理公司Crooc更名為Pixiv公司。\[11\]
 
 雖然該網站只在日本正式代理，但來自[中国大陆](../Page/中国大陆.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[美國和](https://zh.wikipedia.org/wiki/美國 "wikilink")[南韓的跨國際註冊者亦有逐漸增加的趨勢](https://zh.wikipedia.org/wiki/南韓 "wikilink")。\[12\]\[13\]\[14\]\[15\]\[16\]pixiv國際化正在計劃中，但海外版網頁架設將會先考慮從具有大量用戶的亞洲地區開始，如[中文版和](https://zh.wikipedia.org/wiki/中文 "wikilink")[韩文版](https://zh.wikipedia.org/wiki/韩文 "wikilink")。一些歐洲國家如法國、德國和意大利等高點擊量的國家，也將予以考慮。而英語版本仍會是提早優先架設。\[17\]
 
@@ -30,6 +36,18 @@ pixiv會因應[元旦](../Page/元旦.md "wikilink")、[日本七夕](https://zh
 
 也有Pixiv Fantasia這樣的系列企劃。
 
+## 旗下项目
+
+  - BOOTH——面向需要售卖自己作品的创作者的网店平台
+  - pixivision——推送ACG文化相关内容的媒体
+  - pixiv百科事典——为pixiv的标签提供说明的协作编辑平台
+  - pixivFACTORY——降低创作门槛的协助服务，与BOOTH联动
+  - pixiv Sketch——绘画交流平台\[34\]
+  - pixivFANBOX——粉丝长期资助创作者的平台
+  - pixiv PAY——为创作者在线下展会上提供便捷收款方式的服务
+  - drawr——以[Adobe Flash Player为载体](../Page/Adobe_Flash_Player.md "wikilink")，动态展示创作过程并发布的[网上描绘版](https://zh.wikipedia.org/wiki/网上描绘版 "wikilink")，将于2019年12月2日13:00停止服务\[35\]
+  - Pawoo——以[Mastodon](../Page/Mastodon.md "wikilink")为基础，以分享创作为主的社交媒体平台
+
 ## 参考资料
 
 ## 类似的社交网络服务
@@ -47,6 +65,15 @@ pixiv會因應[元旦](../Page/元旦.md "wikilink")、[日本七夕](https://zh
 
 ## 外部链接
 
+  -   - [BOOTH](https://booth.pm)
+      - [pixiv百科事典](https://dic.pixiv.net)
+      - [pixivision](https://www.pixivision.net)
+      - [pixivFANBOX](https://www.pixiv.net/fanbox)
+      - [pixiv PAY](https://pay.pixiv.net/)
+      - [drawr](https://drawr.net/)
+      - [Pawoo](https://pawoo.net/)
+      - [pixiv Sketch](https://sketch.pixiv.net/)
+
   -
   -
   -
@@ -55,62 +82,37 @@ pixiv會因應[元旦](../Page/元旦.md "wikilink")、[日本七夕](https://zh
 [Category:2007年建立的网站](https://zh.wikipedia.org/wiki/Category:2007年建立的网站 "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:图片分享网站](https://zh.wikipedia.org/wiki/Category:图片分享网站 "wikilink") [Category:艺术网站](https://zh.wikipedia.org/wiki/Category:艺术网站 "wikilink") [Category:數位藝術](https://zh.wikipedia.org/wiki/Category:數位藝術 "wikilink") [Category:日本網站](https://zh.wikipedia.org/wiki/Category:日本網站 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.  <https://www.pixiv.net/member_illust.php?mode=medium&illust_id=20>
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
 28.
-
 29.
-
 30.
 31.
 32.
 33.
+34. [關於pixiv的相關服務-pixiv.help](https://www.pixiv.help/hc/zh-tw/categories/360001064334-%E9%97%9C%E6%96%BCpixiv%E7%9A%84%E7%9B%B8%E9%97%9C%E6%9C%8D%E5%8B%99)
+35. [1](https://archive.drawr.net/)

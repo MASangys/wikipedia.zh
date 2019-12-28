@@ -1,4 +1,6 @@
-[F-15E_LANTIRN_IR_HUD_image.jpg](https://zh.wikipedia.org/wiki/File:F-15E_LANTIRN_IR_HUD_image.jpg "fig:F-15E_LANTIRN_IR_HUD_image.jpg") **F-15SE「靜默鷹」式戰鬥機**（，又有“無聲鷹”、“寂靜鷹”、“沉默鷹”等譯名）是一款由[波音](../Page/波音.md "wikilink")公司負責研制開發的多用途戰鬥轟炸機，是以雙座的[F-15E為基礎所進行開發的升級機型](../Page/F-15E打擊鷹式戰鬥轟炸機.md "wikilink")。本機型的主要特色是通過武器內藏化和使用（RAM）來實現對[雷達](https://zh.wikipedia.org/wiki/雷達 "wikilink")[隱形](https://zh.wikipedia.org/wiki/隱形 "wikilink")。
+[F-15E_LANTIRN_IR_HUD_image.jpg](https://zh.wikipedia.org/wiki/File:F-15E_LANTIRN_IR_HUD_image.jpg "fig:F-15E_LANTIRN_IR_HUD_image.jpg")
+
+**F-15SE「靜默鷹」式戰鬥機**（，又有“無聲鷹”、“寂靜鷹”、“沉默鷹”等譯名）是一款由[波音](../Page/波音.md "wikilink")公司負責研制開發的多用途戰鬥轟炸機，是以雙座的[F-15E為基礎所進行開發的升級機型](../Page/F-15E打擊鷹式戰鬥轟炸機.md "wikilink")。本機型的主要特色是通過武器內藏化和使用（RAM）來實現對[雷達](https://zh.wikipedia.org/wiki/雷達 "wikilink")[隱形](https://zh.wikipedia.org/wiki/隱形 "wikilink")。
 
 ## 發展
 

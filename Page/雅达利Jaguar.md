@@ -83,36 +83,22 @@ Jaguar上热销的游戏有[Tempest 2000](https://zh.wikipedia.org/wiki/Tempest_
 [Category:雅達利遊戲機](https://zh.wikipedia.org/wiki/Category:雅達利遊戲機 "wikilink") [Category:第五世代遊戲機](https://zh.wikipedia.org/wiki/Category:第五世代遊戲機 "wikilink") [Category:1993年面世的產品](https://zh.wikipedia.org/wiki/Category:1993年面世的產品 "wikilink")
 
 1.
-
 2.
 3.  *[Atari Jaguar History](http://www.atariage.com/Jaguar/history.html)*. [AtariAge](https://zh.wikipedia.org/wiki/AtariAge#AtariAge_\(website\) "wikilink")| accessdate=2008-12-09
-
 4.
 5.
-
-6.  Harris, Craig. *[Top 10 Tuesday: Worst Game Controllers](http://xbox360.ign.com/articles/690/690449p1.html)*. [IGN](../Page/IGN.md "wikilink"). 2006-02-21.
-
+6.  Harris, Craig. *[Top 10 Tuesday: Worst Game Controllers](http://xbox360.ign.com/articles/690/690449p1.html) *. [IGN](../Page/IGN.md "wikilink"). 2006-02-21.
 7.  *[Video Game News](http://gameaddicthotline.com/podcast/Show%20Notes%20for%20February%2026.doc)*. Game Addict Online. 2006-02-26.
-
 8.
-
 9.  Atari's President talks back.Next Generation July 1995
-
 10.
 11. [<http://www.atariage.com/Jaguar/history.html>](http://www.thegameconsole.com/videogames94.htm)
-
 12.
-
 13.
-
 14.
-
 15.
 16.
 17.
-
 18. Atari Jaguar Software Reference Manual, Atari Corp. 1995, Pg 2
-
 19. [Atarimuseum有关Atari Jaguar II资料](http://www.atarimuseum.com/videogames/consoles/jaguar/jag2.html)
-
 20. [Jaguar 2 (COBWEB) Unreleased Prototype](http://jagcube.atari.org/jaguartwo.html)

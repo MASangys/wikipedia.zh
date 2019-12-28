@@ -65,47 +65,25 @@ ResearchGate 也因未能提供防范"学术写作黑暗面"的保障措施而�
 [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:互联网公司](https://zh.wikipedia.org/wiki/Category:互联网公司 "wikilink") [Category:科学网站](https://zh.wikipedia.org/wiki/Category:科学网站 "wikilink") [Category:學術傳播](https://zh.wikipedia.org/wiki/Category:學術傳播 "wikilink")
 
 1.  "Pioneers", Science Magazine, 30 May 2008, Print Edition
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16. [Innovations in Scholarly Communication](https://101innovations.wordpress.com/), \[//en.wikipedia.org/wiki/Universiteit_Utrecht Universiteit Utrecht\], accessed 2016-12-02.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.  (Note: \[//en.wikipedia.org/wiki/Predatory_open_access_publishing predatory publisher\])
-
 23.

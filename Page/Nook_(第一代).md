@@ -1,4 +1,4 @@
-**Nook**是由Barnes & Noble（[巴諾書店](../Page/巴諾書店.md "wikilink")）推出的電子書，與[Amazon Kindle是直接對手](https://zh.wikipedia.org/wiki/Amazon_Kindle "wikilink")，於2011年首個季度的銷售額首次超越Kindle\[1\]。
+**Nook**是由[巴諾書店](../Page/巴諾書店.md "wikilink")（Barnes & Noble）推出的電子書阅读器，與[Amazon Kindle是直接對手](https://zh.wikipedia.org/wiki/Amazon_Kindle "wikilink")，於2011年首個季度的銷售額首次超越Kindle\[1\]。
 
 ## 特點
 

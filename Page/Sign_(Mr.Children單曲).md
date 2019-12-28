@@ -30,7 +30,5 @@
 [Category:Mr.Children歌曲](https://zh.wikipedia.org/wiki/Category:Mr.Children歌曲 "wikilink") [Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink") [Category:日本唱片大獎獲獎歌曲](https://zh.wikipedia.org/wiki/Category:日本唱片大獎獲獎歌曲 "wikilink") [Category:日劇學院賞最佳主題曲](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳主題曲 "wikilink") [Category:2004年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon單曲月榜冠軍作品 "wikilink") [Category:2004年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon單曲週榜冠軍作品 "wikilink") [Category:TOY'S_FACTORY歌曲](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY歌曲 "wikilink") [Category:TBS周日劇場主題曲](https://zh.wikipedia.org/wiki/Category:TBS周日劇場主題曲 "wikilink")
 
 1.  [Mr. Children膺唱片大賞金獎](http://life.mingpao.com/cfm/dailynews3b.cfm?File=20050102/nalmc/mcv1.txt)
-
 2.
-
 3.

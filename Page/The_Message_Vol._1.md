@@ -14,6 +14,6 @@
 
   - [SPORT b.網站](https://web.archive.org/web/20091109192950/http://agnesb.ai-ad.com.tw/message/index.html)
   - [Reach BLOG](http://helloreach.blogspot.com/)
-  - [甜梅號BLOG](http://blog.roodo.com/sugarplumferry)
+  - [甜梅號BLOG](https://web.archive.org/web/20071221054019/http://blog.roodo.com/sugarplumferry/)
 
 [Category:甜梅號音樂專輯](https://zh.wikipedia.org/wiki/Category:甜梅號音樂專輯 "wikilink") [Category:台灣獨立搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣獨立搖滾音樂專輯 "wikilink") [Category:台灣後搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣後搖滾音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:台灣演奏類專輯](https://zh.wikipedia.org/wiki/Category:台灣演奏類專輯 "wikilink")

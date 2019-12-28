@@ -69,25 +69,16 @@ Gray和Dr. Simon Ellingsen之後在1999年使用[塔斯馬尼亞大學](../Page/
 [Category:SETI](https://zh.wikipedia.org/wiki/Category:SETI "wikilink") [Category:1977年美國](https://zh.wikipedia.org/wiki/Category:1977年美國 "wikilink") [Category:神秘事件](https://zh.wikipedia.org/wiki/Category:神秘事件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
 7.
 8.
-
 9.
 10.
-
 11.
-
 12. <https://arxiv.org/abs/1706.04642>
-
 13.
-
 14.

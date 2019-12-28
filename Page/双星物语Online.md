@@ -27,10 +27,7 @@
 [Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:日本Falcom游戏](https://zh.wikipedia.org/wiki/Category:日本Falcom游戏 "wikilink")
 
 1.  [日式MMORPG《双星物语OL》 17日将启动首测](http://www.1t1t.com/html/indexnews_204/innews_206/2009-12/1260499256.html)
-
-2.  [经典单机游戏改编 《双星物语OL》17日二测](http://news.duowan.com/1012/156526949926.html)
-
+2.
 3.
 4.  [吃东西可以长经验《双星物语OL》三测前瞻](http://news.17173.com/content/2011-03-24/20110324152939722,1.shtml)
-
 5.  [单机改编《双星物语OL》韩服5月3日公测](http://games.qq.com/a/20120503/000160.htm)

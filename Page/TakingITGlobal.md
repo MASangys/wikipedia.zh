@@ -23,24 +23,14 @@ TIG最主要提供在线社区，这个社区“给了用户对社会问题、�
 [Category:慈善組織](https://zh.wikipedia.org/wiki/Category:慈善組織 "wikilink") [Category:加拿大组织](https://zh.wikipedia.org/wiki/Category:加拿大组织 "wikilink")
 
 1.  \[ <http://www.tigweb.org/about/who/weare/founders.html>\]
-
 2.  [DYNV.org](http://www.dynv.org)
-
 3.  [About TIG](http://www.tigweb.org/about/)
-
 4.
 5.  [TakingITGlobal Website](http://www.tigweb.org)
-
 6.  [TIG Mission](http://www.tigweb.org/about/why/vision.html)
-
 7.  [TIG Objectives](http://www.tigweb.org/about/why/objectives.html)
-
 8.  Azam, Sharlene. "They are IT ; Entrepreneurs Jennifer Corriero and Michael Furdyk want to connect youth with technology." *Toronto Star.* August 22, 2000, F01
-
 9.  Frank, Steven (October 12, 2001). "Helping Hands". *Time Magazine*, p. 67.
-
 10. e-NBFC Report, page 30. The Baller Herbst Law Group, June 2008.
-
 11. ["TakingITGlobal: Adding Social Change to the Curriculum" Podtech.net. November 26, 2007](http://www.podtech.net/home/4627/takingitglobal-adding-social-change-to-the-curriculum)
-
 12.

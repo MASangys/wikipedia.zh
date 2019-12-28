@@ -96,7 +96,7 @@ UR始於八零年代末期，由傑夫·米爾斯（Jeff Mills）與「瘋狂」
 
   - [Underground Resistance官方網站](http://www.undergroundresistance.com/)
   - [Discogs發行目錄：Underground Resistance](http://www.discogs.com/label/Underground+Resistance)
-  - ["the thing is..."雜誌訪問](http://www.thethingis.co.uk/index.php/2007/10/20/tti-speaks-to-underground-resistance/)
+  - ["the thing is..."雜誌訪問](https://web.archive.org/web/20090810234442/http://www.thethingis.co.uk/index.php/2007/10/20/tti-speaks-to-underground-resistance/)
   - [查克·吉布森的部落格hitechfunk](https://web.archive.org/web/20100326044945/http://hitechfunk.com/)
   - [Current TV視頻介紹與訪問](https://web.archive.org/web/20100520210735/http://current.com/entertainment/music/89891932_detroits-underground-resistance.htm)
 

@@ -44,4 +44,4 @@ HTC Legend所使用的[AMOLED](../Page/AMOLED.md "wikilink")面板原本不被�
 4.
 5.  <http://gizmodo.com/5488019/htc-legend-review-frankly-it-feels-expensive>
 6.
-7.  [三星發動戰爭 要把台灣供應鏈打趴--- 拒買韓國貨](http://www.moneydj.com/kmdj/opinion/opinionviewer.aspx?a=6b36e611-4a1b-40ff-b79c-06d748a671a2)
+7.

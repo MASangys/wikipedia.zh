@@ -1324,9 +1324,7 @@
 [Category:X_Japan](https://zh.wikipedia.org/wiki/Category:X_Japan "wikilink") [Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink") [Category:重金屬樂團作品列表](https://zh.wikipedia.org/wiki/Category:重金屬樂團作品列表 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.

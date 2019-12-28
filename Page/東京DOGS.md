@@ -18,7 +18,7 @@
   - **西岡百合（29） - [友坂理惠](../Page/友坂理惠.md "wikilink")**
   - **甲斐崎廣人（27） - [水上剣星](https://zh.wikipedia.org/wiki/水上剣星 "wikilink")**
   - **神野京介（40） - [仲村亨](../Page/仲村亨.md "wikilink")**- [陳廷軒](../Page/陳廷軒.md "wikilink")配音
-  - **蒲田茂夫（22） - [矢崎広](https://zh.wikipedia.org/wiki/矢崎広 "wikilink")**
+  - **蒲田茂夫（22） - [矢崎広](https://zh.wikipedia.org/wiki/矢崎広 "wikilink")**- [胡家豪](../Page/胡家豪.md "wikilink")配音
   - **高倉花梨（17） - [川口春奈](../Page/川口春奈.md "wikilink")**- [楊善諭](../Page/楊善諭.md "wikilink")配音
   - **中谷祥太（17） - [吉村卓也](https://zh.wikipedia.org/wiki/吉村卓也 "wikilink")**
   - **高倉京子（53） - [田中好子](../Page/田中好子.md "wikilink")（特別出演）**- [沈小蘭](../Page/沈小蘭.md "wikilink")配音

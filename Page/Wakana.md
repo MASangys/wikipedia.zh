@@ -6,6 +6,20 @@
 
 ## 主要活動
 
+### 個人活動
+
+#### 單曲
+
+  - [時を越える夜に](https://zh.wikipedia.org/wiki/時を越える夜に "wikilink")（2019年2月6日）
+
+#### 專輯
+
+  - [Wakana](../Page/Wakana.md "wikilink")（2019年3月20日）
+
+#### EP
+
+  - [アキノサクラ EP](https://zh.wikipedia.org/wiki/アキノサクラ_EP "wikilink")（2019年11月20日）
+
 ### 參加CD
 
   - [FictionJunction](../Page/FictionJunction.md "wikilink")

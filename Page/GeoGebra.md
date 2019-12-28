@@ -6,7 +6,7 @@ GeoGebra是一款[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[�
 
 GeoGebra 這幾年逐漸形成風潮, 最大的原因在, 它允許使用者自己下指令擴充功能. 使用者也可以加入翻譯或是開發志工協助開發推展, 這是很多付費軟體做不到的事. 它有自己的程式語法 GeoGebraScript , 也可以用 *Python(此Python功能已於2014年停用)*, JavaScript做進階操控, 增加功能, 如此將使用者的用法由原設計者所制定的框架中釋放出. 使用者得以自由燦爛的設計自己的作品. 另一個優點是, GeoGebra 並不侷限在幾何的範圍. 它还可以製作微積分, 線性代數等, 也有符號運算的功能.
 
-## 软件支持
+## 软體支持
 
   - [GeoGebraWiki](http://www.geogebra.org/en/wiki) - GeoGebra的帮助Wiki，其中有大量的免费教学资源库。
   - [GeoGebra帮助页](http://www.geogebra.org/help) - GeoGebra的用户手册和教程

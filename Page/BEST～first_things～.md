@@ -37,22 +37,16 @@
 [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink") [Category:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/Category:倖田來未音樂專輯 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink") [Category:2005年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon專輯月榜冠軍作品 "wikilink") [Category:2005年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon專輯週榜冠軍作品 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
-
 6.
 7.
-
 8.
 9.
 10.
 11.
 12.
-
 13.
-
 14. [倖田來未のアルバム売上ランキング](http://www.oricon.co.jp/prof/259698/rank/album/)

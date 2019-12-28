@@ -18,18 +18,11 @@
 [Category:消除反应](https://zh.wikipedia.org/wiki/Category:消除反应 "wikilink") [Category:降解反应](https://zh.wikipedia.org/wiki/Category:降解反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.  A. R. Katritzky, J. N. Lagowski: In Chemistry of Heterocyclic N-Oxides, Academic Press, New York, **1971**, *362* 279.
-
 2.  D. Grierson: In *Org. React.* **1990**, *39*, 85-295.
-
 3.  D. S. Grierson, H.-P. Husson: In *Comp. Org. Syn.* **1991**, *6*, 909-924.
-
 4.  Rolf Huisgen, Friedrich Bayerlein, Wolfgang Heydkamp: In Die Acylierung der N.N-Dimethyl-arylamin-oxyde; der Mechanismus der Polonovski-Reaktion *Chem. Ber.* **1959**, *92*,3 223-3241.
-
 5.
 6.  Heinrich Volz, Liselotte Ruchti: In Ein Beitrag zum Mechanismus der Polonovski-Reaktion *Liebigs Ann.* **1972**, *763*, 184-197.
-
 7.  A. Cave et al.: In *Tetrahedron* **1967**, *23*, 4681.
-
 8.  T. Tamminen *et al.*: In *Tetrahedron* *'1989*, *45*, 2683.
-
 9.  R. J. Sundberg, *et al*.: In *Tetrahedron* **1992**, *48*, 277.

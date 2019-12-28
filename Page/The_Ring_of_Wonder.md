@@ -4,7 +4,7 @@
 该社区讨论一切与[奇幻有关的内容](https://zh.wikipedia.org/wiki/奇幻 "wikilink")，从[游戏](../Page/游戏.md "wikilink")到[文化](../Page/文化.md "wikilink")，都有涉及，话题基于但不限于以下内容：
 [Bioware公司出品的](https://zh.wikipedia.org/wiki/Bioware "wikilink")[CRPG与](../Page/电脑游戏.md "wikilink")[威世智](../Page/威世智.md "wikilink")公司出品的[TRPG](https://zh.wikipedia.org/wiki/桌上角色扮演游戏 "wikilink")、[白狼公司出品的](../Page/White_Wolf.md "wikilink")[黑暗世界](../Page/黑暗世界.md "wikilink")，及[洛夫克拉夫特创作的](https://zh.wikipedia.org/wiki/霍华德·菲利普·洛夫克拉夫特 "wikilink")[克苏鲁神话等](https://zh.wikipedia.org/wiki/克苏鲁神话 "wikilink")。
 [论坛遵循](https://zh.wikipedia.org/wiki/论坛 "wikilink")“宁缺毋滥”的严格管理方针，彻底否定时下流行的[灌水](https://zh.wikipedia.org/wiki/灌水 "wikilink")、版聊风气，亦不接受任何[政治](../Page/政治.md "wikilink")与[色情](../Page/色情.md "wikilink")话题。
-2006年7月开设了以[无冬之夜2为主要内容的维基](https://zh.wikipedia.org/wiki/无冬之夜 "wikilink")。当初使用的是[MediaWiki](../Page/MediaWiki.md "wikilink")系统，后因[服务器](../Page/服务器.md "wikilink")变更，导致[数据库](../Page/数据库.md "wikilink")出错，而改为不需要数据库支持的[DokuWiki](../Page/DokuWiki.md "wikilink")系统。
+2006年7月开设了以[无冬之夜2为主要内容的维基](https://zh.wikipedia.org/wiki/无冬之夜 "wikilink")。当初使用的是[MediaWiki系统](https://zh.wikipedia.org/wiki/MediaWiki "wikilink")，后因[服务器](../Page/服务器.md "wikilink")变更，导致[数据库](../Page/数据库.md "wikilink")出错，而改为不需要数据库支持的[DokuWiki](../Page/DokuWiki.md "wikilink")系统。
 2007年1月，论坛注册用户超过了10000名。2014年6月底，论坛注册用户超过了60000名。
 2009年7月开始与英文[RPG新闻站](../Page/電子角色扮演遊戲.md "wikilink")[EN World合作](https://zh.wikipedia.org/wiki/EN_World "wikilink")，推出了CN World\[2\]。
 2009年12月15日，论坛开通了面向[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")[WAP的移动版](https://zh.wikipedia.org/wiki/WAP "wikilink")。

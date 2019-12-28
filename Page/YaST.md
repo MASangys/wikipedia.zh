@@ -23,7 +23,7 @@ AutoYaST是一個全自動系統，不需要使用者管控，即可用來安裝
 ## 外部連結
 
   - [YaST at openSUSE](http://en.opensuse.org/YaST)
-  - [YaST at Novell](http://developer.novell.com/wiki/index.php/YaST)
+  - [YaST at Novell](https://web.archive.org/web/20100818044143/http://developer.novell.com/wiki/index.php/YaST)
   - [YaST, AutoYast and ZENworks Linux Management](http://www.novell.com/products/desktop/features/autoyast.html)
 
 [Category:自由软件包管理系统](https://zh.wikipedia.org/wiki/Category:自由软件包管理系统 "wikilink") [Category:Linux软件包管理相关软件](https://zh.wikipedia.org/wiki/Category:Linux软件包管理相关软件 "wikilink") [Category:SUSE_Linux](https://zh.wikipedia.org/wiki/Category:SUSE_Linux "wikilink") [Category:用Ruby编程的自由软件](https://zh.wikipedia.org/wiki/Category:用Ruby编程的自由软件 "wikilink") [Category:1996年软件](https://zh.wikipedia.org/wiki/Category:1996年软件 "wikilink") [Category:使用ncurses的软件](https://zh.wikipedia.org/wiki/Category:使用ncurses的软件 "wikilink")

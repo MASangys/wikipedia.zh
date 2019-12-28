@@ -72,7 +72,7 @@ CUBRID的最新版本，是2010年12月发布的CUBRID 2008 R3.1 stable, 其包�
   - [CUBRID社区网站](http://www.cubrid.org)
   - [CUBRID文档](https://web.archive.org/web/20100119054728/http://www.cubrid.org/manual/)
   - [CUBRID在Sourceforge.net的项目主页](http://sourceforge.net/projects/cubrid)
-  - [CUBRID在NAVER开发者中心的主页](http://dev.naver.com/projects/cubrid)
+  - [CUBRID在NAVER开发者中心的主页](https://web.archive.org/web/20100722084558/http://dev.naver.com/projects/cubrid/)
 
 [Category:開源資料庫管理系統](https://zh.wikipedia.org/wiki/Category:開源資料庫管理系統 "wikilink")
 

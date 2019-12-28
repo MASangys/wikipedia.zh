@@ -57,18 +57,19 @@ Visa金融卡在全世界所有接受Visa信用卡的商店（包括一般實體
 在[中国大陆](../Page/中国大陆.md "wikilink")，Visa借記卡稱為「Visa借-{}-记卡」。目前中国大陆正在发行Visa借记卡的银行有：
 
   - [北京銀行](../Page/北京銀行.md "wikilink")（悦行国际卡\[1\]，为中国大陆首批[EMV](../Page/EMV.md "wikilink")芯片借记卡）
-  - [中国银行](../Page/中国银行.md "wikilink")（长城跨境通国际借-{}-记卡\[2\]、国家公派留学专用国际借记卡\[3\]）
-  - [中国建设银行](../Page/中国建设银行.md "wikilink")（公派留学生专用借记卡）
+  - [中国银行](../Page/中国银行.md "wikilink")（长城跨境通国际借-{}-记卡\[2\]、国家公派留学专用国际借-{}-记卡\[3\]）
+  - [中国建设银行](../Page/中国建设银行.md "wikilink")（公派留学生专用借-{}-记卡\[4\]）
+  - [中国工商银行](../Page/中国工商银行.md "wikilink")（工银Visa国际借-{}-记卡\[5\]）
 
 以上银行发行的Visa借记卡均只设有外币账户，无[人民币](../Page/人民币.md "wikilink")账户，且只能在中国大陆境外使用。
 
-中国大陆各商业银行早期均有发行带有[银联和Visa](../Page/中国银联.md "wikilink")、万事达标志的双标借记卡，但仅限在中国大陆境内使用。2016年12月当局决定停止新发行双标卡后，各大银行陆续停止发行双标借记卡\[4\]。
+中国大陆各商业银行早期均有发行带有[银联和Visa](../Page/中国银联.md "wikilink")、万事达标志的双标借记卡，但仅限在中国大陆境内使用。2016年12月当局决定停止新发行双标卡后，各大银行陆续停止发行双标借记卡\[6\]。
 
 中国银行曾于2014年推出名为“长城环球旅行卡”的Visa单币借记卡，但该卡实为0额度的Visa信用卡，申办该卡后会在个人征信报告上显示相关账户；后该卡于2016年9月停止发行。
 
 ### 香港及澳门
 
-在[香港](../Page/香港.md "wikilink")和[澳門](../Page/澳門.md "wikilink")，Visa借記卡稱為「Visa扣-{}-賬卡」（前称：Visa户-{}-口扣-{}-賬卡）。目前在[香港](../Page/香港.md "wikilink")只有少數银行发行，其中[恒生銀行](../Page/恒生銀行.md "wikilink")發行的為「enJoy消費卡」，與其他enJoy信用卡不同，此卡不設[Visa payWave功能](../Page/Visa_payWave.md "wikilink")；而[花旗銀行的卡面上印有PLATINUM字樣](https://zh.wikipedia.org/wiki/花旗銀行 "wikilink")，現有花旗銀行客戶在2013年6月開始被陸續分階段更換該卡，直至到2014年3月31日\[5\]；[富邦銀行之Visa扣](https://zh.wikipedia.org/wiki/富邦銀行 "wikilink")-{}-賬卡將於2013年7月31日全面停止使用，該銀行亦有意於2013年12月31日停止發行一般提款卡並於2014年4月1日全面停用一般提款卡\[6\]。而在[澳門](../Page/澳門.md "wikilink")亦只有[澳門華僑永亨銀行](../Page/澳門華僑永亨銀行.md "wikilink")有發行「Visa扣-{}-賬卡」\[7\]。
+在[香港](../Page/香港.md "wikilink")和[澳門](../Page/澳門.md "wikilink")，Visa借記卡稱為「Visa扣-{}-賬卡」（前称：Visa户-{}-口扣-{}-賬卡）。目前在[香港](../Page/香港.md "wikilink")只有少數银行发行，其中[恒生銀行](../Page/恒生銀行.md "wikilink")發行的為「enJoy消費卡」，與其他enJoy信用卡不同，此卡不設[Visa payWave功能](../Page/Visa_payWave.md "wikilink")；而[花旗銀行的卡面上印有PLATINUM字樣](https://zh.wikipedia.org/wiki/花旗銀行 "wikilink")，現有花旗銀行客戶在2013年6月開始被陸續分階段更換該卡，直至到2014年3月31日\[7\]；[富邦銀行之Visa扣](https://zh.wikipedia.org/wiki/富邦銀行 "wikilink")-{}-賬卡將於2013年7月31日全面停止使用，該銀行亦有意於2013年12月31日停止發行一般提款卡並於2014年4月1日全面停用一般提款卡\[8\]。而在[澳門](../Page/澳門.md "wikilink")亦只有[澳門華僑永亨銀行](../Page/澳門華僑永亨銀行.md "wikilink")有發行「Visa扣-{}-賬卡」\[9\]。
 
 ## 參見
 
@@ -82,6 +83,8 @@ Visa金融卡在全世界所有接受Visa信用卡的商店（包括一般實體
 2.
 3.
 4.
-5.   自動櫃員機|url=[https://www.citibank.com.hk/chinese/banking/atmchipcard.htm|accessdate=2019-07-13|work=Citi](https://www.citibank.com.hk/chinese/banking/atmchipcard.htm%7Caccessdate=2019-07-13%7Cwork=Citi) Hong Kong|language=en}}
-6.  [富邦銀行magi©money manager 戶口扣賬卡](http://www.fubonbank.com.hk/web/html/dp_mmmdr01_c.html)
-7.
+5.
+6.
+7.   自動櫃員機|url=[https://www.citibank.com.hk/chinese/banking/atmchipcard.htm|accessdate=2019-07-13|work=Citi](https://www.citibank.com.hk/chinese/banking/atmchipcard.htm%7Caccessdate=2019-07-13%7Cwork=Citi) Hong Kong|language=en}}
+8.  [富邦銀行magi©money manager 戶口扣賬卡](http://www.fubonbank.com.hk/web/html/dp_mmmdr01_c.html)
+9.

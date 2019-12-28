@@ -17,6 +17,5 @@
 [Category:漁業](https://zh.wikipedia.org/wiki/Category:漁業 "wikilink") [Category:罪案](https://zh.wikipedia.org/wiki/Category:罪案 "wikilink") [Category:環境法](https://zh.wikipedia.org/wiki/Category:環境法 "wikilink")
 
 1.  [江世雄，〈公海漁業資源之管理問題與其對策：以權宜漁船與IUU漁業為中心〉，《問題與研究》，第49卷第4期，2010年12月](http://iir.nccu.edu.tw/attachments/journal/add/1/49-4-2.pdf)
-
 2.
 3.  [Illegal fishing (IUU)](http://ec.europa.eu/fisheries/cfp/illegal_fishing/index_en.htm)

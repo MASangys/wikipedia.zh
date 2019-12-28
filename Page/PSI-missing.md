@@ -45,6 +45,6 @@
   - [Mami Kawada OFFICIAL WEB SITE「m.a.l.l.」](https://web.archive.org/web/20110511203250/http://www.mami-kawada.jp/)
   - [Mami Kawada NBCUniversal Entertainment Japan OFFICIAL SITE](http://nbcuni-music.com/mami_kawada/)
   - [「PSI-missing」介紹](https://web.archive.org/web/20081029172401/http://db.geneon-ent.co.jp/search_new/show_detail.php?softid=GNCV-0009)
-  - [電視動畫「魔法禁書目錄」官方網站](http://www.project-index.net/)
+  - [電視動畫「魔法禁書目錄」官方網站](https://web.archive.org/web/20130506013155/http://www.project-index.net/)
 
 [Category:魔法禁書目錄歌曲](https://zh.wikipedia.org/wiki/Category:魔法禁書目錄歌曲 "wikilink") [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")

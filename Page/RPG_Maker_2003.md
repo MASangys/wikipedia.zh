@@ -29,9 +29,9 @@ RPG Maker 2003使用橫向戰鬥，即敵方角色在畫面左方，我方角色
 
 ## 外部連結
 
-  - [ツクールweb (RPG Maker系列官方網站)](http://tkool.jp/)
+  - [ツクールweb (RPG Maker系列官方網站)](https://web.archive.org/web/20110624000425/http://tkool.jp/)
   - [英文版官方網站](http://www.rpgmakerweb.com/)
   - [巴哈姆特RPG製作大師哈拉板](http://forum.gamer.com.tw/A.php?bsn=4918)
-  - [RPG2003事件指令教學網站](http://rpg2015wei.com/)
+  - [RPG2003事件指令教學網站](https://web.archive.org/web/20161213233944/http://rpg2015wei.com/)
 
-[Category:電子遊戲研发](https://zh.wikipedia.org/wiki/Category:電子遊戲研发 "wikilink") [Category:遊戲製作軟件](https://zh.wikipedia.org/wiki/Category:遊戲製作軟件 "wikilink") [Category:RPG製作大師](https://zh.wikipedia.org/wiki/Category:RPG製作大師 "wikilink")
+[Category:電子遊戲研发](https://zh.wikipedia.org/wiki/Category:電子遊戲研发 "wikilink") [Category:電子遊戲開發軟件](https://zh.wikipedia.org/wiki/Category:電子遊戲開發軟件 "wikilink") [Category:RPG製作大師](https://zh.wikipedia.org/wiki/Category:RPG製作大師 "wikilink")

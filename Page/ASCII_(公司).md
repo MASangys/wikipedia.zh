@@ -38,22 +38,13 @@
 [Category:ASCII_Media_Works](https://zh.wikipedia.org/wiki/Category:ASCII_Media_Works "wikilink") [Category:1977年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1977年開業電子遊戲公司 "wikilink") [Category:2008年結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2008年結業電子遊戲公司 "wikilink") [Category:日本已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本已結業電子遊戲公司 "wikilink") [Category:日本出版社](https://zh.wikipedia.org/wiki/Category:日本出版社 "wikilink") [Category:角川集團](https://zh.wikipedia.org/wiki/Category:角川集團 "wikilink")
 
 1.
-
 2.  Quote from Bill Gates' *The Road Ahead*, found in
-
 3.
 4.
-
 5.  [Impress Holdings website](http://en.impressholdings.com/)
-
 6.
-
 7.  [AstroArts - Company](http://www.astroarts.com/official/announce/astroarts.shtml)
-
 8.
-
-9.  [](http://www.uforeader.com/v1/se/E04836_S00065JX_4_4.html)
-
+9.  株式会社メディアリーヴスの有価証券報告書}} |access-date=2011-10-18 |archive-url=<https://web.archive.org/web/20131224155059/http://www.uforeader.com/v1/se/E04836_S00065JX_4_4.html> |archive-date=2013-12-24 |dead-url=yes }}
 10. [](http://www.fx-it.com/blog/2002/11/post_99.html). f/x. 2002-11-19.
-
 11.

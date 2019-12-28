@@ -217,7 +217,7 @@ LACM-34935（通常盤）</p></td>
 
   - \-{[【新】飛蘭Official Website「Touch the faylan」](http://www.faylan.jp)}-
 
-  - \-{[【旧】飛蘭Official Website「Touch the faylan」](http://www.s-inc.jp/faylan/)}-
+  - \-{[【旧】飛蘭Official Website「Touch the faylan」](https://web.archive.org/web/20100823225141/http://www.s-inc.jp/faylan/)}-
 
   - \-{[株式会社S 所属アーティスト](https://web.archive.org/web/20130529191859/http://www.s-inc.jp/artist.html)}-
 

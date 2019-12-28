@@ -24,6 +24,7 @@
   - （[C75會場發售](../Page/Comic_Market.md "wikilink")，其後在Comic Treasure發售）
 
   -
+  -
 ### 插畫
 
   - （博惠夏樹著，Magi-Cu連載，Enterbrain）

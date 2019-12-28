@@ -17,16 +17,10 @@
 [Category:基因](https://zh.wikipedia.org/wiki/Category:基因 "wikilink") [Category:G蛋白耦联受体](https://zh.wikipedia.org/wiki/Category:G蛋白耦联受体 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.

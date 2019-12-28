@@ -32,7 +32,7 @@ eMule MagicAngel Mod调整了文件发布和重新请求，增加快速开始等
 
   - [emule-mods.de上的MagicAngel页面](http://www.emule-mods.de/?mods=magicangel)
 
-  - [emulefans.com（电骡爱好者）blog上的MagicAngel页面](http://emulefans.com/news/emule/magicangel/)
+  - [emulefans.com（电骡爱好者）blog上的MagicAngel页面](https://web.archive.org/web/20100705124802/http://emulefans.com/news/emule/magicangel/)
 
 [Category:eMule](https://zh.wikipedia.org/wiki/Category:eMule "wikilink")
 

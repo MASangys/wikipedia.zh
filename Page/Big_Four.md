@@ -474,6 +474,5 @@ Big Four第一次在<a href="https://zh.wikipedia.org/wiki/台灣" title="wikili
 [Category:單飛不解散團體](https://zh.wikipedia.org/wiki/Category:單飛不解散團體 "wikilink") [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:Big_Four](https://zh.wikipedia.org/wiki/Category:Big_Four "wikilink") [Category:許志安](https://zh.wikipedia.org/wiki/Category:許志安 "wikilink")
 
 1.
-
 2.
 3.

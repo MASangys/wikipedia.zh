@@ -1,4 +1,4 @@
-**iPhone 4**是[蘋果公司設計及銷售的一款](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[智能手機](../Page/智能手机.md "wikilink")，是iPhone的第四代。它的前作是[iPhone 3GS](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")，而後續型號是[iPhone 4S](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")。隨著一系列重大的資訊洩漏事宜，蘋果公司於2010年6月7日在[三藩市舉行的](https://zh.wikipedia.org/wiki/三藩市 "wikilink")[2010年蘋果公司開發者大會上發布iPhone](https://zh.wikipedia.org/wiki/蘋果公司全球軟體開發者年會#WWDC_2010 "wikilink") 4\[1\]，並於同年6月24日在美國、英國、法國、德國及日本開售。iPhone 4為iPhone系列引入了嶄新的硬件設計，而蘋果公司的時任[行政總裁](https://zh.wikipedia.org/wiki/行政總裁 "wikilink")[史提夫·喬布斯吹捧它為當時世界上最薄的智能手機](../Page/史蒂夫·乔布斯.md "wikilink")，它由不銹鋼框架組成，內部組件置於[矽酸鋁玻璃之間](https://zh.wikipedia.org/wiki/矽酸鋁 "wikilink")\[2\]。iPhone 4還推出了蘋果公司新款高解像度的[Retina顯示器](https://zh.wikipedia.org/wiki/Retina顯示器 "wikilink")，其像素密度為每英寸326像素，同時保持與其前體相同的尺寸與縱橫比。iPhone 4還推出了蘋果公司的[A4](../Page/Apple_A4.md "wikilink")[晶片以及](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")[iOS 4](https://zh.wikipedia.org/wiki/iOS_4 "wikilink")，它特別引入了多任務功能和蘋果公司新的[FaceTime](../Page/FaceTime.md "wikilink")視頻聊天服務。iPhone 4也是第一款包含前置鏡頭的iPhone，也是第一款以[CDMA網絡版本發布的iPhone](../Page/分碼多重進接.md "wikilink")，結束作為iPhone產品於美國獨家運營商的時期。
+**iPhone 4**是[蘋果公司設計及銷售的一款](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[智能手機](../Page/智能手机.md "wikilink")，是iPhone的第四代。它的前作是[iPhone 3GS](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")，而後續型號是[iPhone 4S](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")。隨著一系列重大的資訊洩漏事宜，蘋果公司於2010年6月7日在[三藩市舉行的](https://zh.wikipedia.org/wiki/三藩市 "wikilink")[2010年蘋果公司開發者大會上發布iPhone](https://zh.wikipedia.org/wiki/蘋果公司全球軟體開發者年會#WWDC_2010 "wikilink") 4\[1\]，並於同年6月24日在美國、英國、法國、德國及日本開售。iPhone 4為iPhone系列引入了嶄新的硬件設計，而蘋果公司的時任[行政總裁](https://zh.wikipedia.org/wiki/行政總裁 "wikilink")[史提夫·喬布斯称它為當時世界上最薄的智能手機](../Page/史蒂夫·乔布斯.md "wikilink")，它由不銹鋼框架組成，內部組件置於[矽酸鋁玻璃之間](https://zh.wikipedia.org/wiki/矽酸鋁 "wikilink")\[2\]。iPhone 4還推出了蘋果公司新款高解像度的[Retina顯示器](https://zh.wikipedia.org/wiki/Retina顯示器 "wikilink")，其像素密度為每英寸326像素，同時保持與其前體相同的尺寸與縱橫比。iPhone 4還推出了蘋果公司的[A4](../Page/Apple_A4.md "wikilink")[晶片以及](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")[iOS 4](https://zh.wikipedia.org/wiki/iOS_4 "wikilink")，它特別引入了多任務功能和蘋果公司新的[FaceTime](../Page/FaceTime.md "wikilink")視頻聊天服務。iPhone 4也是第一款包含前置鏡頭的iPhone，也是第一款以[CDMA網絡版本發布的iPhone](../Page/分碼多重進接.md "wikilink")，結束[AT\&T](../Page/AT&T.md "wikilink")作為iPhone產品於美國獨家運營商的時期。
 
 iPhone 4廣泛受到歡迎，評論家讚譽它經改造的設計，與以前的型號相比，有著更強大的硬件。儘管於24小時裡接到超過600,000宗預訂訂單的市場上成功，iPhone 4的發布受到其高度公開報告的困擾，有指其新的天線設計出現異常，導致裝置在以某種方式手持的時候，裝置將會丟失其蜂窩訊號。大多數人接觸手機的外緣也會導致訊號強度顯著下降。
 
@@ -58,7 +58,7 @@ iPhone 4的顯示屏由[LG根據與蘋果公司簽訂的獨家合約而製造](h
 
 ### 相機
 
-[IPhone_4_cameras.png](https://zh.wikipedia.org/wiki/File:IPhone_4_cameras.png "fig:IPhone_4_cameras.png") iPhone 4配備了一個額外的前置[VGA鏡頭和一個具背面照明的](https://zh.wikipedia.org/wiki/視訊圖形陣列 "wikilink")500萬[像素](../Page/像素.md "wikilink")[iSight鏡頭](https://zh.wikipedia.org/wiki/iSight "wikilink")，配備3.85mm f / 2.8光圈\[47\][1](http://pocketnow.com/iphone/iphone-5-first-test-photo)，以及LED閃光燈。
+[IPhone_4_cameras.png](https://zh.wikipedia.org/wiki/File:IPhone_4_cameras.png "fig:IPhone_4_cameras.png") iPhone 4配備了一個額外的前置[VGA鏡頭和一個具背面照明的](https://zh.wikipedia.org/wiki/視訊圖形陣列 "wikilink")500萬[像素](../Page/像素.md "wikilink")[iSight鏡頭](https://zh.wikipedia.org/wiki/iSight "wikilink")，配備3.85mm f / 2.8光圈\[47\][1](https://web.archive.org/web/20160713155738/http://pocketnow.com/iphone/iphone-5-first-test-photo)，以及LED閃光燈。
 
 iPhone 4的[前置鏡頭能夠以Facetime進行視頻通話功能](../Page/摄像头.md "wikilink")，而後置鏡頭能夠以[每秒30幀的速率拍攝](https://zh.wikipedia.org/wiki/幀率 "wikilink")[720p](../Page/720p.md "wikilink")的高清影片。這兩款相機在[iOS 4的照片和視頻錄製功能下](https://zh.wikipedia.org/wiki/iOS_4 "wikilink")，能夠透過點擊來為照片進行「聚焦」\[48\]，而後置鏡頭具有5倍數碼變焦功能。
 
@@ -174,209 +174,109 @@ iPhone 4的總體評價都是總體正面的。《[華爾街日報](https://zh.w
 [Category:IPhone](https://zh.wikipedia.org/wiki/Category:IPhone "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink") [Category:2010年面世的手機](https://zh.wikipedia.org/wiki/Category:2010年面世的手機 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42. \(\arctan\big(\tfrac{1/300}{12}\big)\)
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
 64.
-
 65.
-
 66.
-
 67.
 68.
-
 69.
-
 70.
-
 71.
-
 72.
-
 73.
-
 74.
-
 75.
-
 76.
 77.
 78.
-
 79.
-
 80.
-
 81.
-
 82.
-
 83.
-
 84.
-
 85.
-
 86. [《消费者报告》：我们还是不推荐iPhone 4](http://mag.udn.com/mag/digital/storypage.jsp?f_MAIN_ID=320&f_SUB_ID=2942&f_ART_ID=271585)‧数位资讯 2010/09/15
-
 87.
-
 88.
-
 89.
 90.
-
 91.
-
-92. [《国际产业》賈伯斯坦言：iPhone4不完美](http://money.chinatimes.com/news/news-content.aspx?id=20100718001354&cid=1207) 2010-07-18 13:27 时报资讯 【时报-台北电
-
+92. [《国际产业》賈伯斯坦言：iPhone4不完美](http://money.chinatimes.com/news/news-content.aspx?id=20100718001354&cid=1207)  2010-07-18 13:27 时报资讯 【时报-台北电
 93.
-
 94.
-
 95.
 96.
-
 97.
-
 98.
-
 99.
-
 100.
-
 101.
-
 102.
-
 103.
-
 104.
-
 105.
-
 106.
-
 107.

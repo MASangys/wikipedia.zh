@@ -336,18 +336,12 @@
 [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:K-ON\!的音樂](https://zh.wikipedia.org/wiki/Category:K-ON!的音樂 "wikilink") [Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink") [Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink")
 
 1.  「『ﾚｯﾂｺﾞｰ』」について、ウェブサイトなどでは「『レッツゴー』」と表記されるが、ここでは製品（CD）上での表記に準拠する。
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
 9.
 10.

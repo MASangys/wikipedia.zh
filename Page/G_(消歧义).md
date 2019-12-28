@@ -88,41 +88,14 @@ G, g 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第7个字母。
 ## 物理学
 
   - G波段，4至6[GHz](https://zh.wikipedia.org/wiki/GHz "wikilink")。
-
-<!-- end list -->
-
   - [高斯](https://zh.wikipedia.org/wiki/高斯_\(单位\) "wikilink")，磁通量单位。
-
-<!-- end list -->
-
   - [万有引力常数](../Page/万有引力常数.md "wikilink")。
-
-<!-- end list -->
-
   - [吉布斯能](../Page/吉布斯能.md "wikilink")，热力学常量。
-
-<!-- end list -->
-
   - [电导](../Page/电导.md "wikilink")。
-
-<!-- end list -->
-
-  - [剪切模量](https://zh.wikipedia.org/wiki/剪切模量 "wikilink")。
-
-<!-- end list -->
-
+  - [剪切模量](../Page/剪切模量.md "wikilink")。
   - [标准重力](https://zh.wikipedia.org/wiki/标准重力 "wikilink")（g<sub>0</sub> 或 g<sub>n</sub>），由于地球[重力而产生的额定加速度](https://zh.wikipedia.org/wiki/重力 "wikilink")。
-
-<!-- end list -->
-
   - [G力](../Page/G力.md "wikilink")。
-
-<!-- end list -->
-
   - [引力子](../Page/引力子.md "wikilink")，传递引力的假想粒子。
-
-<!-- end list -->
-
   - [胶子](https://zh.wikipedia.org/wiki/胶子 "wikilink")，一种[玻色子](../Page/玻色子.md "wikilink")。
 
 ## 体育
@@ -143,19 +116,11 @@ G, g 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第7个字母。
 
 ## 其他用处
 
-  - [纽约地铁G线](https://zh.wikipedia.org/wiki/纽约地铁G线 "wikilink")。
-
-<!-- end list -->
-
-  - [吉列公司](../Page/吉列公司.md "wikilink")，[纽约证券交易所](../Page/纽约证券交易所.md "wikilink")的股票代码为G。
-
-<!-- end list -->
-
-  - [LabVIEW](../Page/LabVIEW.md "wikilink")中使用的编程语言。
-
-<!-- end list -->
-
+  - [G线](https://zh.wikipedia.org/wiki/G线 "wikilink")，多个国家的交通路线
+  - [吉列公司](../Page/吉列公司.md "wikilink")，[纽约证券交易所](../Page/纽约证券交易所.md "wikilink")的股票代码为G
+  - [LabVIEW](../Page/LabVIEW.md "wikilink")中使用的编程语言
   - 在歐洲多數國家或是曾被統治的地區，G常常被當作地面層的標示(來自英文的Ground)。
+  - [俄罗斯天然气公司](https://zh.wikipedia.org/wiki/俄罗斯天然气 "wikilink")
 
 ## 参见
 

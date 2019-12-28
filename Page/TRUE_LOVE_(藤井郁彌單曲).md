@@ -25,9 +25,6 @@
 [Category:藤井郁彌歌曲](https://zh.wikipedia.org/wiki/Category:藤井郁彌歌曲 "wikilink") [Category:1993年單曲](https://zh.wikipedia.org/wiki/Category:1993年單曲 "wikilink") [Category:富士月九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士月九劇主題曲 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink") [Category:1993年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1993年Oricon單曲月榜冠軍作品 "wikilink") [Category:1993年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1993年Oricon單曲週榜冠軍作品 "wikilink") [Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

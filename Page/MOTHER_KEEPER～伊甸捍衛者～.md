@@ -50,6 +50,7 @@
     在被改造期間左眼變成了義眼，另外頭髮由黑變白\[24\]。
     開始時拒絕成為伊甸捍衛者\[25\]，不過當和扥爾斯基對戰後，決定成為伊甸捍衛者。
     使用的武器是雙槍「惡魔之門」，另外內置「Trans Core」的使用手冊。
+    生日為9月12日，血型A。
   -
     負責天堂之塔區域零保安的女性伊甸捍衛者，同時是10年前打倒里卡魯納的人。擁有一頭金髪和一雙藍眼睛，[第一人稱是「僕」](https://zh.wikipedia.org/wiki/僕娘 "wikilink")。當進行戰鬥時會性情大變\[26\]。
     生前居住在貧民窟非武裝地區的「B－60聚落」，為了報答吉姆而成為伊甸捍衛者\[27\]。
@@ -164,13 +165,9 @@
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink") [Category:Mag_Garden](https://zh.wikipedia.org/wiki/Category:Mag_Garden "wikilink")
 
 1.  漫畫單行本第一冊 P.177
-
 2.  《[月刊Comic Blade](https://zh.wikipedia.org/wiki/月刊Comic_Blade "wikilink")（）》 2006年 09月号 ASIN B000GNOJMQ
-
 3.  漫畫單行本第三冊 《No·014 LAST WEAPON》P.27-29
-
 4.  漫畫單行本第一冊 《No·001 EDEN》P.10-12
-
 5.
 6.
 7.
@@ -179,67 +176,41 @@
 10.
 11.
 12. 漫畫單行本第三冊 《No·015 GARDEN》P.54-55
-
 13.
 14. 漫畫單行本第三冊 《No·017 ENEMY》P.119
-
 15.
 16.
 17. 漫畫單行本第二冊 《No·012 ADAM》P.154
-
 18.
 19.
 20. 漫畫單行本第一冊 《No·005 VS》P.164-166
-
 21. 漫畫單行本第三冊 《No·016 COCYTUS》P.105-106
-
 22.
 23. 漫畫單行本第三冊 《No·019 CODE：499》P.174
-
 24. 漫畫單行本第一冊 《No·002 MOTHER》P.71
-
 25. 漫畫單行本第一冊 《No·003 OPEN COMBAT》P.108
-
 26. 漫畫單行本第一冊 《No·002 MOTHER》P.86
-
 27. 漫畫單行本第三冊 《No·015 GARDEN》P.60、62-63
-
 28. 漫畫單行本第二冊 《No·012 ADAM》P.159
-
 29. 漫畫單行本第二冊 《No·010 DISTRACTION》P.108-109
-
 30. 漫畫單行本第一冊 《No·003 OPEN COMBAT》P.118-119
-
 31. 漫畫單行本第一冊 《No·004 OPEN COMBAT 2》P.135
-
 32. 漫畫單行本第一冊 《No·002 MOTHER》P.89-90
-
 33.
 34. 漫畫單行本第三冊 《No·013 INSANITY》P.17、24
-
 35.
 36. 漫畫單行本第一冊 《No·001 EDEN》P.16-17
-
 37. 漫畫單行本第二冊 《No·007 EACH PURPOSE》P.22
-
 38. 漫畫單行本第二冊 《No·007 EACH PURPOSE》P.35
-
 39.
 40. 漫畫單行本第二冊 《No·010 DISTRACTION》P.114-115
-
 41. 漫畫單行本第二冊 《No·011 IDENTITY》P.128-129
-
 42. 漫畫單行本第二冊 《No·011 IDENTITY》P.123
-
 43.
 44. 漫畫單行本第二冊 《No·011 IDENTITY》P.139
-
 45.
 46. 漫畫單行本第三冊 《No·013 INSANITY》P.13-15
-
 47.
 48. 漫畫單行本第三冊 《No·013 INSANITY》P.19
-
 49. 漫畫單行本第三冊 《No·014 LAST WEAPON》P.30
-
 50. 漫畫單行本第三冊 《No·017 ENEMY》P.109

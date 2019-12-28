@@ -22,9 +22,7 @@ Apple A4基于[ARM架構](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")，
 [Category:微處理器](https://zh.wikipedia.org/wiki/Category:微處理器 "wikilink") [Category:ARM架構](https://zh.wikipedia.org/wiki/Category:ARM架構 "wikilink") [Category:苹果公司处理器](https://zh.wikipedia.org/wiki/Category:苹果公司处理器 "wikilink") [Category:2010年面世的產品](https://zh.wikipedia.org/wiki/Category:2010年面世的產品 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.

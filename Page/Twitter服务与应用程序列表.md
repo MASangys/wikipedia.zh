@@ -4,17 +4,17 @@
 
 市场占有率统计根据的是发推时使用的不同应用程序。\[1\]
 
-| 名称                                                                    | 占有率    |
-| --------------------------------------------------------------------- | ------ |
-| Twitter主站                                                             | 46.79% |
-| [TweetDeck](../Page/TweetDeck.md "wikilink")                          | 8.48%  |
-| [Tweetie](https://zh.wikipedia.org/wiki/Tweetie "wikilink")           | 2.83%  |
-| [Twitterrific](https://zh.wikipedia.org/wiki/Twitterrific "wikilink") | 1.63%  |
-| [Seesmic](https://zh.wikipedia.org/wiki/Seesmic "wikilink")           | 1.11%  |
-| TwitterBerry                                                          | 0.99%  |
-| [HootSuite](../Page/HootSuite.md "wikilink")                          | 0.63%  |
-| [twhirl](https://zh.wikipedia.org/wiki/twhirl "wikilink")             | 0.40%  |
-| 其他                                                                    | 37.14% |
+| 名称                                                          | 占有率    |
+| ----------------------------------------------------------- | ------ |
+| Twitter主站                                                   | 46.79% |
+| [TweetDeck](../Page/TweetDeck.md "wikilink")                | 8.48%  |
+| [Tweetie](https://zh.wikipedia.org/wiki/Tweetie "wikilink") | 2.83%  |
+| [Twitterrific](../Page/Twitterrific.md "wikilink")          | 1.63%  |
+| [Seesmic](https://zh.wikipedia.org/wiki/Seesmic "wikilink") | 1.11%  |
+| TwitterBerry                                                | 0.99%  |
+| [HootSuite](../Page/HootSuite.md "wikilink")                | 0.63%  |
+| [twhirl](https://zh.wikipedia.org/wiki/twhirl "wikilink")   | 0.40%  |
+| 其他                                                          | 37.14% |
 
 ## 按字母顺序排列的Twitter服务与应用
 
@@ -180,7 +180,7 @@
 | [Twitterfall](https://zh.wikipedia.org/wiki/Twitterfall "wikilink")             | [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") and 网站                                                                                                                                                                                   |                                                                                                                                                                                 |
 | Twitterholic                                                                    | 网站                                                                                                                                                                                                                                           |                                                                                                                                                                                 |
 | TwitterMail                                                                     | Email                                                                                                                                                                                                                                        |                                                                                                                                                                                 |
-| [Twitterrific](https://zh.wikipedia.org/wiki/Twitterrific "wikilink")           | [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") and [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")                                                                                                                        |                                                                                                                                                                                 |
+| [Twitterrific](../Page/Twitterrific.md "wikilink")                              | [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") and [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")                                                                                                                        |                                                                                                                                                                                 |
 | Twittori                                                                        | 网站, iPhone                                                                                                                                                                                                                                   |                                                                                                                                                                                 |
 | Twittospheric                                                                   | 网站                                                                                                                                                                                                                                           |                                                                                                                                                                                 |
 | Twittley                                                                        | 网站                                                                                                                                                                                                                                           |                                                                                                                                                                                 |

@@ -1,6 +1,6 @@
 是一个由[Pentavision](../Page/Pentavision.md "wikilink")制作的第三人称射击类的网络游戏。在欧洲，由Alaplaya代理\[1\]，在韩国则由Pmang\[2\]
 
-*S4*这个名字来自Stylish(流行)、eSper(超能力者)、Shooting(射击)和Sports(运动)。
+*S4*这个名字来自Stylish（流行）、eSper（超能力者）、Shooting（射击）和Sports（运动）。
 
 ## 游戏系统
 
@@ -56,7 +56,7 @@ TD类似于夺旗模式，玩家需要抢到科技球（头类似球的可爱人
 
 [Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink") [Category:第三人称射击游戏](https://zh.wikipedia.org/wiki/Category:第三人称射击游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink") [Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink")
 
-1.  [New Action Game S4 League on alaplaya](http://www.gamershell.com/companies/burda_ic_gmbh/444182.html)
+1.
 2.
 3.  [《S4联赛》台服即将首测 首部宣传片欣赏](http://news.17173.com/content/2012-01-19/20120119143253895,1.shtml)
 4.  [《S4超特攻聯盟》 官方部落格開張 /《菁英封測即將啟動》](http://www.wretch.cc/blog/wanka168/282487)本次测试非全天24小时

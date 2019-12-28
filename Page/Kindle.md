@@ -1,4 +1,4 @@
-**Amazon Kindle**是[亚马逊公司设计的一系列](https://zh.wikipedia.org/wiki/亚马逊公司 "wikilink")[電子書閱讀器](https://zh.wikipedia.org/wiki/电子书阅读器 "wikilink")\[1\]。用户可以通过[無線網路使用Kindle购买](https://zh.wikipedia.org/wiki/無線網路 "wikilink")、[下載和阅读](../Page/下载.md "wikilink")[電子書](https://zh.wikipedia.org/wiki/电子书 "wikilink")、[報紙](../Page/報紙.md "wikilink")、[杂志](../Page/杂志.md "wikilink")、[部落格及其他](https://zh.wikipedia.org/wiki/部落格 "wikilink")[電子媒體](https://zh.wikipedia.org/wiki/電子媒體 "wikilink")。\[2\]亚马逊公司旗下[Lab126开发的Kindle硬件平台](https://zh.wikipedia.org/wiki/Lab126 "wikilink")，最早只有一种设备，现在已经发展为一个系列，大部分使用[E Ink十六級灰度](https://zh.wikipedia.org/wiki/E_Ink "wikilink")[電子紙顯示技術](https://zh.wikipedia.org/wiki/電子紙 "wikilink")，能在最小化电源消耗的情況下提供类似纸张的阅读体验。爲了保障版權權益，Kindle内置了數碼權利管理技術（Digital Rights Management）\[3\]。Kindle在市場上獲得較大成功，也大力拉動了電子閲讀器產品，目前已經有包括[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink")、[Kobo](https://zh.wikipedia.org/wiki/Kobo "wikilink")、[BOOX](https://zh.wikipedia.org/wiki/BOOX "wikilink")、[reMarkable等多家生產電子閲讀器的品牌商在市場上互相競爭](https://zh.wikipedia.org/wiki/reMarkable "wikilink")。
+**Amazon Kindle**是[亚马逊公司设计的一系列](https://zh.wikipedia.org/wiki/亚马逊公司 "wikilink")[電子書閱讀器](https://zh.wikipedia.org/wiki/电子书阅读器 "wikilink")\[1\]。用户可以通过[無線網路使用Kindle购买](https://zh.wikipedia.org/wiki/無線網路 "wikilink")、[下載和阅读](../Page/下载.md "wikilink")[電子書](https://zh.wikipedia.org/wiki/电子书 "wikilink")、[報紙](../Page/報紙.md "wikilink")、[杂志](../Page/杂志.md "wikilink")、[部落格及其他](https://zh.wikipedia.org/wiki/部落格 "wikilink")[電子媒體](https://zh.wikipedia.org/wiki/電子媒體 "wikilink")。\[2\]亚马逊公司旗下[Lab126开发的Kindle硬件平台](https://zh.wikipedia.org/wiki/Lab126 "wikilink")，最早只有一种设备，现在已经发展为一个系列，大部分使用[E Ink十六級灰度](https://zh.wikipedia.org/wiki/E_Ink "wikilink")[電子紙顯示技術](https://zh.wikipedia.org/wiki/電子紙 "wikilink")，能在最小化电源消耗的情況下提供类似纸张的阅读体验。爲了保障版權權益，Kindle内置了數碼權利管理技術（Digital Rights Management）\[3\]。Kindle在市場上獲得較大成功，也大力拉動了電子閲讀器產品，目前已經有包括[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink")、[Kobo](https://zh.wikipedia.org/wiki/Kobo "wikilink")、[BOOX](https://zh.wikipedia.org/wiki/BOOX "wikilink")、[reMarkable等多家生產電子閲讀器的品牌商在市場上互相競爭](https://zh.wikipedia.org/wiki/reMarkable "wikilink")
 
 ## 命名和演变
 
@@ -171,47 +171,26 @@ Amazon.com於2009年3月3日在蘋果[App Store發行了一款名為](https://zh
 [Category:電子書](https://zh.wikipedia.org/wiki/Category:電子書 "wikilink") [Category:亞馬遜公司](https://zh.wikipedia.org/wiki/Category:亞馬遜公司 "wikilink") [Category:Linux設備](https://zh.wikipedia.org/wiki/Category:Linux設備 "wikilink") [Category:2007年面世的產品](https://zh.wikipedia.org/wiki/Category:2007年面世的產品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.

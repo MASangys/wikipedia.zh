@@ -506,10 +506,7 @@
 [Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink") [Category:2009年UHF動畫](https://zh.wikipedia.org/wiki/Category:2009年UHF動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink") [Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")
 
 1.  [](http://blog.goo.ne.jp/gocky_01/e/b5c0b64be4e610c4115727182f70b995)
-
 2.  KIDDY GiRL-AND，[月刊Newtype](https://zh.wikipedia.org/wiki/月刊Newtype "wikilink") 2009年10月號。
-
 3.  漫畫。
-
 4.
 5.  KIDDY GiRL-AND，月刊Newtype 2010年1月號。

@@ -7,7 +7,7 @@
 1.  為了能夠使用、佈署於地中海和黑海，此潛艇必須要能經由鐵路運送。
 2.  這艘潛艇的武備必須使用制式21吋的[潛艇發射管](https://zh.wikipedia.org/wiki/潛艇發射管 "wikilink")。
 
-XXIII級潛艇的開發受到了德國軍方的高度關注，研製人員為了節省開發時間也盡可能的採用現有的設計，[海爾穆勒·瓦爾特](https://zh.wikipedia.org/wiki/海爾穆勒·瓦爾特 "wikilink")（Hellmuth Walter）博士就以先前[XXII級潛艇的設計為基礎研發](https://zh.wikipedia.org/wiki/XXII級潛艇 "wikilink")。1943年6月30日同時在德國、義大利和蘇聯各地開始研製和建造，承包商則為位於[漢堡的](https://zh.wikipedia.org/wiki/漢堡 "wikilink")[德意志造船廠](https://zh.wikipedia.org/wiki/德意志造船廠 "wikilink")（Deutsche Werft）。
+XXIII級潛艇的開發受到了德國軍方的高度關注，研製人員為了節省開發時間也盡可能的採用現有的設計，[海爾穆勒·瓦爾特](https://zh.wikipedia.org/wiki/海爾穆勒·瓦爾特 "wikilink")（Hellmuth Walter）博士就以先前[XXI級潛艇](../Page/XXI級潛艇.md "wikilink")的設計為基礎研發。1943年6月30日同時在德國、義大利和蘇聯各地開始研製和建造，承包商則為位於[漢堡的](https://zh.wikipedia.org/wiki/漢堡 "wikilink")[德意志造船廠](https://zh.wikipedia.org/wiki/德意志造船廠 "wikilink")（Deutsche Werft）。
 
 同XXI級潛艇，XXIII級潛艇也採用分節組裝建造的方法，各部份的生產由不同分包商所負責。其中[U-2446至](https://zh.wikipedia.org/wiki/U-2446 "wikilink")[U-2460是由位於德佔蘇聯地區的](https://zh.wikipedia.org/wiki/U-2460 "wikilink")[尼古拉耶夫州](../Page/尼古拉耶夫州.md "wikilink")當地船廠所建，原本打算在1944年5月1日時分配給[林茲](https://zh.wikipedia.org/wiki/林茲 "wikilink")（Linzner）的造船廠，但隨著蘇聯的反攻逼進而取消\[1\]。最後其主要建造船廠就分配到了位於[基爾的](https://zh.wikipedia.org/wiki/基爾 "wikilink")[日耳曼尼亞造船廠](../Page/弗里德里希·克虏伯日耳曼尼亚船厂.md "wikilink")（Germaniawerft）和位於漢堡的德意志造船廠，日耳曼尼亞造船廠負責生產51艘，而德意志造船廠則為49艘。最後原本下單280艘的XXIII級潛艇僅有61艘投入服役，並只有6艘進行了戰鬥巡弋。
 
@@ -42,7 +42,7 @@ XXIII級潛艇的性能被證明是相當不錯的，不管是水上還是潛航
 
 ## 戰後
 
-戰後一艘XXIII級潛艇根據[波茲坦協定分配給了蘇聯](https://zh.wikipedia.org/wiki/波茲坦協定 "wikilink")，而據傳另外還有一艘於1948年被蘇聯所[打撈](../Page/打撈.md "wikilink")\[6\]。1956年，[德國海軍打撈了](https://zh.wikipedia.org/wiki/德國海軍 "wikilink")2艘XXIII級潛艇，分別為[U-2365](../Page/U-2365.md "wikilink")（於1945年鑿沉於[卡特加特海峽](https://zh.wikipedia.org/wiki/卡特加特海峽 "wikilink")）和[U-2367](https://zh.wikipedia.org/wiki/U-2367 "wikilink")（於[施萊明德](https://zh.wikipedia.org/wiki/施萊明德 "wikilink")（Schleimünde）一地與另一艘潛艇互撞沉沒），分別命名為鯊魚號（U-Hai）和長矛號（U-Hecht），艦編號為S-170和S-171。鯊魚號之後於1966年9月在[多格海沙洲](https://zh.wikipedia.org/wiki/多格海沙洲 "wikilink")（Dogger Bank）附近因為強風而沉沒，艦上約有20人因此罹難。這2艘XXI級潛艇的使用經驗也衍生出直到今天仍在服役的[206級潛艇](https://zh.wikipedia.org/wiki/206級潛艇 "wikilink")。
+戰後一艘XXIII級潛艇根據[波茲坦協定分配給了蘇聯](https://zh.wikipedia.org/wiki/波茲坦協定 "wikilink")，而據傳另外還有一艘於1948年被蘇聯所[打撈](../Page/打撈.md "wikilink")\[6\]。1956年，[德國海軍打撈了](https://zh.wikipedia.org/wiki/德國海軍 "wikilink")2艘XXIII級潛艇，分別為[U-2365](../Page/U-2365.md "wikilink")（於1945年鑿沉於[卡特加特海峽](https://zh.wikipedia.org/wiki/卡特加特海峽 "wikilink")）和[U-2367](https://zh.wikipedia.org/wiki/U-2367 "wikilink")（於[施萊明德](https://zh.wikipedia.org/wiki/施萊明德 "wikilink")（Schleimünde）一地與另一艘潛艇互撞沉沒），分別命名為鯊魚號（U-Hai）和長矛號（U-Hecht），艦編號為S-170和S-171。鯊魚號之後於1966年9月在[多格海沙洲](https://zh.wikipedia.org/wiki/多格海沙洲 "wikilink")（Dogger Bank）附近因為強風而沉沒，艦上約有20人因此罹難。這2艘XXI級潛艇的使用經驗也衍生出日後的[206型潛艇](../Page/206型潛艇.md "wikilink")。
 
 ## 同型艦列表
 
@@ -136,13 +136,8 @@ XXIII級潛艇的性能被證明是相當不錯的，不管是水上還是潛航
 [Category:德國潛艦](https://zh.wikipedia.org/wiki/Category:德國潛艦 "wikilink") [Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink") [Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")
 
 1.  Polmar, p. 322
-
 2.  Williamson & Palmer, p. 37
-
 3.  Williamson, p. 63
-
 4.  Williamson, pp. 64-65
-
 5.
-
 6.

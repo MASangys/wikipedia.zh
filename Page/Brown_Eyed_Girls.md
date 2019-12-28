@@ -162,7 +162,7 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
 <table>
 <thead>
 <tr class="header">
-<th><p>迷你專輯 #</p></th>
+<th><p>迷你專輯#</p></th>
 <th><p>迷你專輯資料</p></th>
 <th><p>曲目</p></th>
 </tr>
@@ -170,7 +170,7 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p><strong>首張EP</strong></p>
+<td><p><strong>首張迷你專輯</strong></p>
 <ul>
 <li>名稱：With L.O.V.E</li>
 <li>發行日：2008年1月17日</li>
@@ -180,20 +180,10 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p><strong>第二張EP</strong></p>
+<td><p><strong>第二張迷你專輯</strong></p>
 <ul>
 <li>名稱：My Style</li>
 <li>發行日：2008年9月16日</li>
-<li>語言：韓語</li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>'''3rd '''</p></td>
-<td><p><strong>第三張EP</strong></p>
-<ul>
-<li>名稱：Sound G. .S.I.G.N.</li>
-<li>發行日： 2009年10月29日</li>
 <li>語言：韓語</li>
 </ul></td>
 <td></td>
@@ -243,6 +233,16 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
 <td></td>
 </tr>
 <tr class="even">
+<td><p><strong>3rd Repackage</strong></p></td>
+<td><p><strong>第三張正規專輯Repackage</strong></p>
+<ul>
+<li>名稱：Sound G. .S.I.G.N.</li>
+<li>發行日： 2009年10月29日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>4th</strong></p></td>
 <td><p><strong>第四張正規專輯</strong></p>
 <ul>
@@ -252,8 +252,8 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
 </ul></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><strong>-</strong></p></td>
+<tr class="even">
+<td><p><strong>4th Repackage</strong></p></td>
 <td><p><strong>第四張正規專輯Repackage</strong></p>
 <ul>
 <li>名稱：Cleansing Cream</li>
@@ -262,7 +262,7 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
 </ul></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>5th</strong></p></td>
 <td><p><strong>第五張正規專輯</strong></p>
 <ul>
@@ -273,12 +273,22 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
 </ul></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>6th</strong></p></td>
 <td><p><strong>第六張正規專輯</strong></p>
 <ul>
 <li>名稱：BASIC</li>
 <li>發行日： 2015年11月5日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Remake</strong></p></td>
+<td><p><strong>翻唱專輯</strong></p>
+<ul>
+<li>名稱：RE_vive</li>
+<li>發行日： 2019年10月28日</li>
 <li>語言：韓語</li>
 </ul></td>
 <td></td>

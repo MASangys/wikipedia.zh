@@ -1,6 +1,6 @@
-《**Pride 邁向榮耀之路**》（，），由[一-{条}-由香莉創作的](../Page/一条由香莉.md "wikilink")[日本](../Page/日本.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，自2002年12月起在月刊《》（[集英社](../Page/集英社.md "wikilink")）連載，2007年本作榮獲第11屆日本[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")漫畫部門優秀賞\[1\]。
+《**Pride 邁向榮耀之路**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[一-{条}-由香莉創作的](../Page/一条由香莉.md "wikilink")[日本](../Page/日本.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，自2002年12月起在月刊《》（[集英社](../Page/集英社.md "wikilink")）連載，2007年本作榮獲第11屆日本[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")漫畫部門優秀賞\[1\]。
 
-## 概說
+## 劇情簡介
 
 以演出[歌劇為志願的富家千金麻見史緒在音樂大學即將畢業的時期](https://zh.wikipedia.org/wiki/歌劇 "wikilink")，有位名叫綠川萌的女孩來家中打掃，兩人因而相識。綠川和麻見抱著相同的目標。其後，麻見因父親的公司倒閉，原本預定前往[義大利留學的計畫宣告取消](https://zh.wikipedia.org/wiki/義大利 "wikilink")。
 
@@ -34,7 +34,7 @@
 
 ，為2009年上映的日本電影，改編自 [一-{条}-由香莉的漫畫作品](../Page/一条由香莉.md "wikilink")《Pride 邁向榮耀之路》。此片由[Stephanie主演](https://zh.wikipedia.org/wiki/Stephanie "wikilink")。
 
-## 主要演員
+### 演員列表
 
   - 麻見史緒：[Stephanie](https://zh.wikipedia.org/wiki/Stephanie "wikilink")
   - 綠川萌：[滿島光](../Page/滿島光.md "wikilink")
@@ -49,7 +49,7 @@
   - 星野權三郎：長門裕之
   - 歌劇幕後主唱：中村初惠、相原玲奈
 
-## 幕後人員
+### 幕後人員
 
   - 導演：[金子修介](../Page/金子修介.md "wikilink")
   - 編劇：、伊藤秀裕
@@ -57,15 +57,15 @@
   - 配樂：
   - 製作委員會：HEXAGON PICTURES、[SME Records](../Page/SME_Records.md "wikilink")、[Marvelous](../Page/Marvelous.md "wikilink")
 
-## 獎項
+### 主題曲
+
+  - 〈[Pride〜A Part of Me〜 feat.SRM](https://zh.wikipedia.org/wiki/Pride〜A_Part_of_Me〜_feat.SRM "wikilink")〉
+
+### 獎項
 
   - 第1回最優秀新進女演員賞：[滿島光](../Page/滿島光.md "wikilink")
   - 第19回新人奨励賞：[滿島光](../Page/滿島光.md "wikilink")
   - 第6回[報知金酸莓獎最差新人](https://zh.wikipedia.org/wiki/報知金酸莓獎 "wikilink")：[Stephanie](https://zh.wikipedia.org/wiki/Stephanie "wikilink")
-
-## 關聯項目
-
-  - 〈[Pride〜A Part of Me〜 feat.SRM](https://zh.wikipedia.org/wiki/Pride〜A_Part_of_Me〜_feat.SRM "wikilink")〉，電影版主題曲
 
 ## 外部連結
 

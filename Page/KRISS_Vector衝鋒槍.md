@@ -1,4 +1,4 @@
-**KRISS Vector**\[1\]\[2\]是一系列由[美国](../Page/美国.md "wikilink")槍械公司美國KRISS公司所研製及生產的[冲锋枪](../Page/冲锋枪.md "wikilink")槍族，發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")、、[.357 SIG](../Page/.357_SIG.md "wikilink")、[.40 S\&W](../Page/.40_S&W.md "wikilink")、[10毫米Auto和](../Page/10mm_Auto.md "wikilink")[.45 ACP](../Page/.45_ACP.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。美國KRISS公司的前身為（簡稱：TDI）。該槍利用不均勻的後座力和同軸式設計，以解決.45口徑的嚴重[後座力](../Page/後座力.md "wikilink")和問題。
+**KRISS Vector**\[1\]\[2\]是一系列由[美国](../Page/美国.md "wikilink")槍械公司美國KRISS公司所研製及生產的[冲锋枪](../Page/冲锋枪.md "wikilink")槍族，發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")、、[.357 SIG](../Page/.357_SIG.md "wikilink")、[.40 S\&W](../Page/.40_S&W.md "wikilink")、[10毫米Auto和](../Page/10mm_Auto.md "wikilink")[.45 ACP等多種](../Page/.45_ACP.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。美國KRISS公司的前身為（簡稱：TDI）。該槍利用不均勻的後座力和同軸式設計，以解決.45口徑的嚴重[後座力](../Page/後座力.md "wikilink")和問題。
 
 ## 歷史
 
@@ -129,11 +129,11 @@ KRISS Vector同時出現在[电影](../Page/电影.md "wikilink")、多個[電�
   - 2014年—《[-{zh-cn:使命召唤：高级战争; zh-tw:決勝時刻：先進戰爭;}-](../Page/使命召唤：高级战争.md "wikilink")》（Call of Duty: Advanced Warfare）：只在聯機模式中出現，以Vector K10為藍本，命名為「SAC3」，白色和黑色槍身，32發（聯機模式可使用技能：延長彈匣增至48發）[彈匣](../Page/彈匣.md "wikilink")，初始攜彈量為64發（聯機模式），最高攜彈量為192發（聯機模式），預設使用[雙持](../Page/雙持.md "wikilink")，並可以使用[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、追踪器、先進[膛線](../Page/膛線.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、射速增加、[消音器](../Page/抑制器.md "wikilink")、[抛物线](../Page/抛物线.md "wikilink")[麦克风](../Page/麦克风.md "wikilink")等可選改裝。
   - 2014年—《[-{zh-hans:孤岛惊魂4; zh-hant:極地戰嚎4; zh-tw:極地戰嚎4;}-](https://zh.wikipedia.org/wiki/極地戰嚎4 "wikilink")》：型號為Vector衝鋒槍型，命名為「Vector .45 ACP」，30發彈匣，並裝上了[寬型前握把和](https://zh.wikipedia.org/wiki/寬型前握把 "wikilink")[槍管](../Page/槍管.md "wikilink")頂部[戰術燈](../Page/戰術燈.md "wikilink")（後者無法使用）；解鎖衍生型為「碎紙機」，同樣裝上了寬型前握把和[槍管](../Page/槍管.md "wikilink")頂部[戰術燈](../Page/戰術燈.md "wikilink")（後者無法使用），可加裝消聲器、延長彈匣和管狀反射式瞄準鏡以及增強精度和傷害。
   - 2015年—《[-{zh-hans:战地：硬仗; zh-hant:戰地風雲：強硬路線;}-](../Page/战地：硬仗.md "wikilink")》（Battlefield Hardline）：型號為Vector K10型，命名為「K10」，歸類為衝鋒槍，發射[.45 ACP子彈](../Page/.45_ACP.md "wikilink")，25+1發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量為56+28發，被警方機械師（Mechanic）所使用（罪犯解鎖條件為：以任何陣營進行遊戲使用該槍擊殺1250名敵人後購買武器執照），價格為$33,800。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro T1、SRS 02、[Comp M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍） 、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、戰術燈、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")）及槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）。劇情模式當中則能夠被主角尼古拉斯·門多薩所使用。
-  - 2016年—《[殺戮空間2](https://zh.wikipedia.org/wiki/殺戮空間2 "wikilink")》（Killing Floor 2）：型號為Vector衝鋒槍型，命名為「KRISS SMG」，裝有紅點鏡。
+  - 2016年—《[殺戮空間2](../Page/殺戮空間2.md "wikilink")》（Killing Floor 2）：型號為Vector衝鋒槍型，命名為「KRISS SMG」，裝有紅點鏡。
   - 2016年—《[湯姆克蘭西：全境封鎖](../Page/湯姆克蘭西：全境封鎖.md "wikilink")》（Tom Clancy's The Division）：型號為Vector SDP型，命名為「Vector」，20發[彈匣](../Page/彈匣.md "wikilink")；衍生型為“Vector 45 ACP”、“Tactical Vector 45 ACP”和“First Wave Vector 45 ACP”。
   - 2016年—《[镜之边缘 催化剂](../Page/镜之边缘_催化剂.md "wikilink")》（Mirror's Edge Catalyst）：型号为Vector冲锋枪型，下机匣底部修改为倾斜方向，奇怪地命名为“KA-5突击步枪”，被K-sec执法者所使用。
   - 2016年—《[虹彩六號：圍攻行動](../Page/虹彩六號：圍攻行動.md "wikilink")》（Rainbow Six :Siege）：型号为Vector冲锋枪型以及Vector CRB；
-      - Vector冲锋枪型命名為「Vector .45 ACP」，于第二年追加下载内容“丝绒壳行动”中登场，被防守方[西班牙反恐特別行動小組](../Page/西班牙反恐特別行動小組.md "wikilink")幹員Mira所使用。
+      - Vector冲锋枪型命名為「Vector .45 ACP」，于第二年追加下载内容“丝绒壳行动”中登场，被防守方[西班牙反恐特別行動小組](../Page/西班牙反恐特別行動小組.md "wikilink")幹員Mira所使用。2019年在余烬重燃行动中登场的防守方干员GOYO亦使用了VECTOR .45ACP冲锋枪\[28\]。
       - Vector CRB命名为「V308」，于第三年追加下载内容“奇美拉行动”中登场，被进攻方[GIGN化生放核危机应变小组干员Lion所使用](https://zh.wikipedia.org/wiki/GIGN "wikilink")，修改为使用[7.62×51mm NATO弹药](../Page/7.62×51mm_NATO.md "wikilink")，装备50发[弹鼓并归类为突击步枪](https://zh.wikipedia.org/wiki/弹鼓 "wikilink")。
   - 2016年（台版2017年）—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》（Girls' Frontline）：為五星人形衝鋒槍，透過工廠製造獲得，立繪上、下槍身配色為沙色，上槍身黑色，並配置黑色。
   - 2017年—《[絕地求生](../Page/絕地求生.md "wikilink")》（PLAYERUNKNOWN'S BATTLEGROUNDS）：型號為Vector衝鋒槍型，13發[彈匣](../Page/彈匣.md "wikilink")，可自行改造彈匣最大為25發，可增加握把、瞄準鏡、枪口零件和战术枪托。
@@ -141,6 +141,7 @@ KRISS Vector同時出現在[电影](../Page/电影.md "wikilink")、多個[電�
   - 2018年—《[-{zh-hans:孤岛惊魂; zh-hant:極地戰嚎;}-5](https://zh.wikipedia.org/wiki/極地戰嚎5 "wikilink")》（Far Cry 5）：型號為Vector衝鋒槍型，命名為「Vector .45 ACP」。
   - 2018年—《[无限法则](https://zh.wikipedia.org/wiki/無限法則 "wikilink")》（Ring of Elysium）
   - 2019年—《[-{zh-hans:孤岛惊魂：新曙光; zh-hant:極地戰嚎：破曉;}-](../Page/孤岛惊魂：新曙光.md "wikilink")》（Far Cry: New Dawn）
+  - 2019年—《[明日方舟](../Page/明日方舟.md "wikilink")》（Arknights） 狙击干员“能天使”所使用的武器，型号为Vector冲锋枪型。立绘上、下枪身配色为沙色，上枪身黑色，並配置黑色以及垂直前握把。
 
 ### 網頁遊戲
 
@@ -165,7 +166,7 @@ KRISS Vector同時出現在[电影](../Page/电影.md "wikilink")、多個[電�
 
 <!-- end list -->
 
-  -   - 2013年4月下號：[第35届SHOT展轻武器新品秀（下）](http://www.xzbu.com/8/view-5990707.htm)
+  -   - 2013年4月下號：[第35届SHOT展轻武器新品秀（下）](https://web.archive.org/web/20140810114025/http://www.xzbu.com/8/view-5990707.htm)
       - 2013年5月上號：[变革性枪机系统: KRISS Vector系列武器](http://www.xzbu.com/8/view-5933741.htm)
       - 2015年3月下號：[第36届SHOT展轻武器新品汇（下）](https://web.archive.org/web/20150410032204/http://gdwap.dooland.com/article.php?id=618675)
       - 2015年5月下號：[2015年IWA展会轻武器及附件精选（上）](https://archive.is/20150601153910/http://gdwap.dooland.com/article.php?id=663692)（第二代Vector半自动冲锋枪白色型）
@@ -275,50 +276,30 @@ KRISS Vector同時出現在[电影](../Page/电影.md "wikilink")、多個[電�
 [Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:卡宾枪](https://zh.wikipedia.org/wiki/Category:卡宾枪 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:9×21_IMI口徑槍械](https://zh.wikipedia.org/wiki/Category:9×21_IMI口徑槍械 "wikilink") [Category:.357_SIG口徑槍械](https://zh.wikipedia.org/wiki/Category:.357_SIG口徑槍械 "wikilink") [Category:.40_S\&W口徑槍械](https://zh.wikipedia.org/wiki/Category:.40_S&W口徑槍械 "wikilink") [Category:10毫米Auto槍械](https://zh.wikipedia.org/wiki/Category:10毫米Auto槍械 "wikilink") [Category:.45_ACP口徑槍械](https://zh.wikipedia.org/wiki/Category:.45_ACP口徑槍械 "wikilink") [Category:延遲反沖作用槍械](https://zh.wikipedia.org/wiki/Category:延遲反沖作用槍械 "wikilink") [Category:美國衝鋒槍](https://zh.wikipedia.org/wiki/Category:美國衝鋒槍 "wikilink")
 
 1.  KRISS Vector SMG product page
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  <http://www.kriss-tdi.com/press/in-the-news/75-small-arms-review-january-a-february-2009.html>
-
 7.
-
 8.  2007年3月17日第2季第10集（播出順序為第16集）：“室內近戰”（）
-
 9.  [*Small Arms Review*, Additional Information, Februar 2009 (english accessed on 12 April 2010）](http://www.kriss-tdi.com/media/SAR_2009-02.pdf)
-
 10. [*KRISS Vector CRB/SO™.45 ACP*, Official manufacturer's site, (english accessed on 12 April 2010)](http://www.kriss-tdi.com/products/kriss-crbso-45-acp/overviewcrbso.html)
-
 11. <https://www.youtube.com/watch?v=pV8vfXzY0TQ>
-
 12.
-
 13.
 14. [KRISS Super V in .40 S\&W](http://gunsforsale.com/ghg/2010/01/27/kriss-super-v-in-40-sw/)
-
 15. TDI press release January 7, 2008 <http://www.kriss-tdi.com/content/view/39/14/>
-
 16.
-
 17.
 18.
 19. <http://www.defensereview.com/kriss-k10-super-v-vector-xsmg-submachine-gun-smg-product-improvedupgraded-multi-caliber-subgun-for-special-operations-forces-sof-and-close-quarters-battle-cqb-applications-shot-show-2011-phot/>
-
 20.
 21.
-
 22. <http://www.thefirearmblog.com/blog/2010/04/16/the-kriss-kard-new-pistol-from-tdi/>
-
 23. <http://www.thefirearmblog.com/blog/2010/04/20/kriss-kard-update/>
-
 24. <http://newsinfo.inquirer.net/602697/2-men-suspected-of-stealing-police-guns-arrested>
-
 25.
 26.
-
 27.
+28.

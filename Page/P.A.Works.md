@@ -214,6 +214,15 @@
 <td><p>原創</p></td>
 <td><p>-</p></td>
 </tr>
+<tr class="even">
+<td><p>未定</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天晴爛漫！" title="wikilink">天晴爛漫！</a></p></td>
+<td><p>未定</p></td>
+<td><p>橋本昌和</p></td>
+<td><p>原創</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -266,7 +275,7 @@
 <tr class="odd">
 <td><p><a href="../Page/白箱.md" title="wikilink">劇場版「SHIROBAKO」</a></p></td>
 <td></td>
-<td><p>2020年春</p></td>
+<td><p>2020年2月29日</p></td>
 <td><p>水島努</p></td>
 <td></td>
 <td></td>

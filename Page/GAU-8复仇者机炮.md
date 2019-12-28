@@ -75,31 +75,21 @@ GAU-8/A的一部分技术用在了专为[AV-8B海鹞式攻击机开发的](https
 [Category:30毫米口径武器](https://zh.wikipedia.org/wiki/Category:30毫米口径武器 "wikilink") [Category:多管機槍及機砲](https://zh.wikipedia.org/wiki/Category:多管機槍及機砲 "wikilink") [Category:空用機槍及機炮](https://zh.wikipedia.org/wiki/Category:空用機槍及機炮 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  Spick 2000, p. 44.
-
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.
-
 11.
 12.
 13.
-
 14.
-
 15.
 16.
 17.
 18.
-
 19.

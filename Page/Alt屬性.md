@@ -40,16 +40,10 @@
 [Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink")
 
 1.
-
 2.
-
 3.  [Bug 25537 - Alt text is not displayed as a tooltip over <img>](https://bugzilla.mozilla.org/show_bug.cgi?id=25537), [Mozilla](../Page/Mozilla.md "wikilink") [bugzilla](https://zh.wikipedia.org/wiki/bugzilla "wikilink")
-
 4.
-
 5.
-
 6.
 7.
-
 8.

@@ -68,20 +68,12 @@ KSVK發射[12.7×108毫米](../Page/12.7×108mm.md "wikilink")（.50俄羅斯）
 [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙击步枪](https://zh.wikipedia.org/wiki/Category:狙击步枪 "wikilink") [Category:反器材步槍](https://zh.wikipedia.org/wiki/Category:反器材步槍 "wikilink") [Category:12.7×108毫米槍械](https://zh.wikipedia.org/wiki/Category:12.7×108毫米槍械 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:犢牛式槍械](https://zh.wikipedia.org/wiki/Category:犢牛式槍械 "wikilink") [Category:捷格加廖夫工廠](https://zh.wikipedia.org/wiki/Category:捷格加廖夫工廠 "wikilink")
 
 1.  Семен Федосеев. Оружие спецназа: крупнокалиберная снайперская винтовка // журнал «Братишка», октябрь 2000 г.
-
 2.
 3.  [Russian Defense Ministry adopts a new sniper rifle](http://indian.ruvr.ru/news/2013_06_07/Russian-Defense-Ministry-adopts-a-new-sniper-rifle-7419) // "Russian Radio", 7 June 2013
-
 4.  [Súng bắn tỉa cỡ nòng "khủng" do VN chế tạo](http://kienthuc.net.vn/vu-khi/sung-ban-tia-co-nong-khung-do-vn-che-tao-235373.html)
-
 5.  [Khám phá dàn súng bắn tỉa cực đỉnh của QĐND Việt Nam](http://soha.vn/quan-su/kham-pha-dan-sung-ban-tia-cuc-dinh-cua-qdnd-viet-nam-20140613110045678.htm)
-
 6.  <http://www.arms-expo.ru/news/armed_forces/vvo_rossii_snaypery_okruga_poluchayut_na_vooruzhenie_krupnokalibernye_vintovki/>
-
 7.  <http://vpk-news.ru/news/28949>
-
 8.  <http://www.armstrade.org/includes/periodics/news/2016/0210/111033475/detail.shtml>
-
 9.  [From Russia with Love, Syria's 6S8s](http://spioenkop.blogspot.hk/2015/03/from-russia-with-love-syrias-6s8s.html)
-
 10.

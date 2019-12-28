@@ -42,49 +42,27 @@ WOFF 2.0得到了以下浏览器的支持：
 [Category:字体格式](https://zh.wikipedia.org/wiki/Category:字体格式 "wikilink") [Category:排版](https://zh.wikipedia.org/wiki/Category:排版 "wikilink") [Category:數碼字體排印](https://zh.wikipedia.org/wiki/Category:數碼字體排印 "wikilink") [Category:W3C標準](https://zh.wikipedia.org/wiki/Category:W3C標準 "wikilink")
 
 1.
-
 2.
-
 3.  [WOFF File Format 1.0 Submission Request to W3C](http://www.w3.org/Submission/2010/03/)
-
 4.
-
 5.  [Team Comment on "WOFF File Format 1.0" Submission](http://www.w3.org/Submission/2010/03/Comment/)
-
 6.
-
 7.
-
 8.  [W3C: WOFF File Format 2.0](http://www.w3.org/TR/WOFF2/)
-
 9.
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.

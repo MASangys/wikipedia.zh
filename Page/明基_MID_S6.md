@@ -81,10 +81,7 @@ Atom CPU可以加速某些AVI格式的视频播放，但整体上由于机器性
 [分類:超級移動電腦](https://zh.wikipedia.org/wiki/分類:超級移動電腦 "wikilink")
 
 1.  [BenQ MID S6上市 遠傳專案價1890元](http://www.mobile01.com/newsdetail.php?id=7788)
-
 2.  [時尚潮物 輕鬆生活 BENQ S6 MID](http://www.mobile01.com/promotion.php?id=225)
-
 3.
 4.  [明基官方网站介绍](http://www.benq.com.tw/benqstyle/model_books_temp3.cfm?book_no=2695003593239)
-
 5.

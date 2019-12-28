@@ -34,4 +34,4 @@ Chink 的污辱性，與針對黑人的nigger 一字齊名，被視為[種族歧
 9.
 10.
 11.
-12. <http://news.singtao.ca/toronto/2012-02-19/headline1329643489d3708199.html>
+12.

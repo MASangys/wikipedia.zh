@@ -33,15 +33,11 @@ RDS-1有數個俄语昵称，都是按照首字母缩写命名的：如「特殊
 [Category:冷战武器](https://zh.wikipedia.org/wiki/Category:冷战武器 "wikilink") [Category:核試驗](https://zh.wikipedia.org/wiki/Category:核試驗 "wikilink") [Category:核炸弹](https://zh.wikipedia.org/wiki/Category:核炸弹 "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
 6.  [*U.S. Intelligence and the Detection of the First Soviet Nuclear Test, September 1949*](http://www.gwu.edu/~nsarchiv/nukevault/ebb286/), William Burr, Washington, DC, September 22, 2009
-
 7.  [The Truman Administration During 1949: A Chronology](http://www.trumanlibrary.org/chron/49chron2.htm)
-
 8.   (See [Google Books](http://books.google.com/books?id=adI-6jRDipgC&lpg=PA69&vq=slotin&pg=PA71#v=onepage&q=Hanford%20ton&f=false))
-
 9.

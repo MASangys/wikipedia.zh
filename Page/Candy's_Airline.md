@@ -33,7 +33,7 @@
 | ----------------------------------- | ----------------------------------- | --------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------- |
 | <font color=darkgreen>**曲序**</font> | <font color=darkgreen>**曲名**</font> | <font color=darkgreen>**作曲**</font>                 | <font color=green>**作詞**</font>                     | <font color=darkgreen>**導演**</font>                     |
 | 01                                  | 三角誌                                 | [雷頌德](../Page/雷頌德.md "wikilink")                    | [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") | [Jacky](https://zh.wikipedia.org/wiki/Jacky "wikilink") |
-| 02                                  | 吉祥物                                 | [雷頌德](../Page/雷頌德.md "wikilink")                    | [林若寧](../Page/林若寧.md "wikilink")                    | [黃慧君](https://zh.wikipedia.org/wiki/黃慧君 "wikilink")     |
+| 02                                  | 吉祥物                                 | [雷頌德](../Page/雷頌德.md "wikilink")                    | [林若寧](../Page/林若寧.md "wikilink")                    | [黃慧君](../Page/黃慧君.md "wikilink")                        |
 | 03                                  | 猜樓梯                                 | [盧巧音](https://zh.wikipedia.org/wiki/盧巧音 "wikilink") | [周耀輝](../Page/周耀輝.md "wikilink")                    | [王穎](https://zh.wikipedia.org/wiki/王穎 "wikilink")       |
 
 ## 所獲獎項
@@ -45,12 +45,9 @@
 [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:盧巧音音樂專輯](https://zh.wikipedia.org/wiki/Category:盧巧音音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")
 
 1.  [盧巧音推出最新大碟 新造型妖媚逼人](http://www.epochtimes.com/b5/3/4/26/n304765.htm/)，[大紀元時報](https://zh.wikipedia.org/wiki/大紀元時報 "wikilink")，2003-04-26
-
 2.  [【一首歌】盧巧音《三角誌》看破世情　「沒有她　都會有別人」](https://www.hk01.com/%E9%9F%B3%E6%A8%82/83550/%E4%B8%80%E9%A6%96%E6%AD%8C-%E7%9B%A7%E5%B7%A7%E9%9F%B3-%E4%B8%89%E8%A7%92%E8%AA%8C-%E7%9C%8B%E7%A0%B4%E4%B8%96%E6%83%85-%E6%B2%92%E6%9C%89%E5%A5%B9-%E9%83%BD%E6%9C%83%E6%9C%89%E5%88%A5%E4%BA%BA/)，[香港01](../Page/香港01.md "wikilink")，2017-04-10
-
 3.
 4.  [最不可靠是愛情﻿---不朽最愛估歌仔](https://hk.on.cc/hk/bkn/cnt/lifestyle/20181023/bkn-20181023080032105-1023_00982_001.html)，[東網](https://zh.wikipedia.org/wiki/東網 "wikilink")，2018-10-23
-
 5.
 6.
 7.

@@ -90,6 +90,6 @@ eComStation系统需求如下表：
   - [VOICE](http://www.os2voice.org) The Virtual OS/2 and eComStation Users group and newsletter.
   - [eComStation 1.2 - Product Announcement (PDF)](http://www.ecomstation.com/edp/mod/fileman/files/eComStation12_announcement.pdf)
   - [eComStation 1.2R - Media Refreshed (PDF)](http://www.ecomstation.com/edp/mod/fileman/files/ProductAnnouncement.pdf)
-  - [Homepage of eComStation and OS/2 users community](http://en.ecomstation.ru/community/?action=interviews)
+  - [Homepage of eComStation and OS/2 users community](https://web.archive.org/web/20110725180634/http://en.ecomstation.ru/community/?action=interviews)
 
 [Category:OS/2](https://zh.wikipedia.org/wiki/Category:OS/2 "wikilink") [Category:作業系統](https://zh.wikipedia.org/wiki/Category:作業系統 "wikilink")

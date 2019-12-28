@@ -152,7 +152,7 @@ AGS-17可裝上[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikili
 
   - —[Weapon.ge—KBP AGS-17](http://georgians.weapon.ge/index.php?sel=1&id=287&man=&coun=&cat=12&l=en)
 
-  - —[Russian Small Arms - AGS-17 automatic mounted grenade launcher](http://rusguns.net/?GRENADE_LAUNCHERS/AGS-17_automatic_mounted_grenade_launcher)
+  - —[Russian Small Arms - AGS-17 automatic mounted grenade launcher](https://web.archive.org/web/20110703151113/http://rusguns.net/?GRENADE_LAUNCHERS%2FAGS-17_automatic_mounted_grenade_launcher)
 
   - —[Military, Security and Civilian Guns and Equipment—KBP AGS-17 Plamya (Flame)](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=115)
 
@@ -171,23 +171,16 @@ AGS-17可裝上[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikili
 [Category:30毫米口径武器](https://zh.wikipedia.org/wiki/Category:30毫米口径武器 "wikilink") [Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink") [Category:全自動型榴彈發射器](https://zh.wikipedia.org/wiki/Category:全自動型榴彈發射器 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:俄聯邦儀器設計局](https://zh.wikipedia.org/wiki/Category:俄聯邦儀器設計局 "wikilink")
 
 1.  АГС，全寫：，意為：全自動榴彈發射器
-
 2.  [俄军的“死亡联合收割机”：BMPT坦克支援战车](http://news.xinhuanet.com/mil/2008-01/08/content_7385583.htm)，新华网，2008年1月8日，于2010年3月19日查阅。
-
 3.  [Arcus AR-ROG defensive hand grenade (Bulgaria), Grenades - Hand](http://articles.janes.com/articles/Janes-Infantry-Weapons/Arcus-AR-ROG-defensive-hand-grenade-Bulgaria.html)
-
 4.  Jones, Richard D. Jane's Infantry Weapons 2009/2010. Jane's Information Group; 35 edition (January 27, 2009). ISBN 978-0710628695.
-
 5.
 6.
 7.
 8.  <http://www.thefreelibrary.com/A+new+generation+of+AGLs%3A+within+only+a+few+decades+the+Automatic>...-a086195789
-
 9.
 10.
-
 11.
-
 12.
 13.
 14.
@@ -197,10 +190,8 @@ AGS-17可裝上[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikili
 18.
 19.
 20. <http://www.fas.org/nuke/guide/dprk/nkor.pdf>
-
 21.
 22.
 23.
 24. [The FSA Captures An Unusual Weapon](http://brown-moses.blogspot.co.uk/2012/07/the-fsa-captures-unusual-weapon.html)
-
 25.

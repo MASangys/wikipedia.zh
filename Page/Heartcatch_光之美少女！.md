@@ -1585,20 +1585,13 @@
 [Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink") [Category:2010年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2010年日本電視動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Nakayoshi](https://zh.wikipedia.org/wiki/Category:Nakayoshi "wikilink") [Category:花題材作品](https://zh.wikipedia.org/wiki/Category:花題材作品 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
 
 1.  原文：
-
 2.  原文：
-
 3.
 4.  原文：
-
 5.
 6.  原文：
-
 7.
 8.  原文：
-
 9.  原文：
-
 10. 每話標題皆由花咲蕾的聲優水樹奈奈讀出，並且語調均為敬語。
-
 11.

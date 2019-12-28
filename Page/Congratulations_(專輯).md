@@ -77,31 +77,18 @@ MGMT早於2009年初便開始為這張專輯作曲。兩人最終前往[馬利�
 [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:美國音樂專輯](https://zh.wikipedia.org/wiki/Category:美國音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
 8.
-
 9.  <http://www.whoismgmt.com>
-
 10. <http://pitchfork.com/news/38138-wild-new-mgmt-song-flash-delirium/>
-
 11. <http://www.whoismgmt.com/>
-
 12. <http://jam.canoe.ca/Music/Charts/ALBUMS.html>
-
 13. <http://www.danishcharts.com/showitem.asp?interpret=MGMT&titel=Congratulations&cat=a>
-
 14. <http://www.chartsinfrance.net/Les-Pretres/news-69900.html>
-
 15. <http://www.digitalspy.co.uk/music/news/a214803/mumford--sons-album-tops-irish-chart.html>
-
 16. <http://www.billboard.com/album/mgmt/congratulations/1324311#/album/mgmt/congratulations/1324311>

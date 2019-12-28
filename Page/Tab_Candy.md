@@ -11,7 +11,7 @@ Panorama的含義為全景、全貌，最初取名為Überview，由Mozilla介�
   - [What is Tab Candy?](https://wiki.mozilla.org/Firefox/Projects/TabCandy/FAQ)
   - [Tab Candy: Making Firefox Tabs Sweet](http://www.azarask.in/blog/post/tabcandy/)
 
-[Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink")
+[Category:Firefox](https://zh.wikipedia.org/wiki/Category:Firefox "wikilink")
 
 1.
 2.

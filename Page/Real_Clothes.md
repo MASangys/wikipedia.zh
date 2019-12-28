@@ -224,13 +224,13 @@
 
   - 山內 達也（28） - [高岡蒼甫](https://zh.wikipedia.org/wiki/高岡蒼甫 "wikilink")
 
-  - 田渕 優作（35） - [西島秀俊](https://zh.wikipedia.org/wiki/西島秀俊 "wikilink")：特別版為[山本太郎](../Page/山本太郎.md "wikilink")飾演。
+  - 田渕 優作（35） - [西島秀俊](https://zh.wikipedia.org/wiki/西島秀俊 "wikilink")：特別版為[山本太郎](../Page/山本太郎.md "wikilink")飾演。香港粵語[陳廷軒](../Page/陳廷軒.md "wikilink")
 
-  - 蜂矢 英明（28） - [小泉孝太郎](../Page/小泉孝太郎.md "wikilink")：高級精品店「蔻蒂」（GOLDY）的採購。優作的對手。
+  - 蜂矢 英明（28） - [小泉孝太郎](../Page/小泉孝太郎.md "wikilink")：高級精品店「蔻蒂」（GOLDY）的採購。優作的對手。香港粵語[李凱傑](../Page/李凱傑.md "wikilink")
 
   - 佐佐木 凌（23） - [加藤夏希](../Page/加藤夏希.md "wikilink")
 
-  - 木村 瑞穗（29） - [能世安奈](../Page/能世安奈.md "wikilink")
+  - 木村 瑞穗（29） - [能世安奈](../Page/能世安奈.md "wikilink") 香港粵語[林芷筠](../Page/林芷筠.md "wikilink")
 
   - 林 陽子（31） -
 
@@ -244,9 +244,9 @@
 
   - 坂野  - [前原繪理](https://zh.wikipedia.org/wiki/前原繪理 "wikilink")
 
-  - 矢野  - [福田萌](https://zh.wikipedia.org/wiki/福田萌 "wikilink")
+  - 矢野 香 - [福田萌](https://zh.wikipedia.org/wiki/福田萌 "wikilink") 香港粵語[陳皓宜](../Page/陳皓宜.md "wikilink")
 
-  - 田原 梨香 - [理繪](https://zh.wikipedia.org/wiki/理繪 "wikilink")
+  - 田原 梨香 - [理繪](https://zh.wikipedia.org/wiki/理繪 "wikilink") 香港粵語[高可慧](../Page/高可慧.md "wikilink")
 
   - 「The Space」銷售員 - 、[中園友乃](https://zh.wikipedia.org/wiki/中園友乃 "wikilink")、[小林よう](https://zh.wikipedia.org/wiki/小林よう "wikilink")、[堀切沙織](https://zh.wikipedia.org/wiki/堀切沙織 "wikilink")、[布施曜子](https://zh.wikipedia.org/wiki/布施曜子 "wikilink")、[村瀨葵](https://zh.wikipedia.org/wiki/村瀨葵 "wikilink")
 
@@ -256,15 +256,15 @@
 
   - 大面 厚 - [佐藤二朗](../Page/佐藤二朗.md "wikilink")：寢具賣場的部長。
 
-  - 尾崎 隆 - [田中哲司](../Page/田中哲司.md "wikilink")：越前屋·經營戰略部總經理。
+  - 尾崎 隆 - [田中哲司](../Page/田中哲司.md "wikilink")：越前屋·經營戰略部總經理。香港粵語[潘文柏](../Page/潘文柏.md "wikilink")
 
 #### 客串
 
-  - 山本 加代子 - [榊原郁惠](https://zh.wikipedia.org/wiki/榊原郁惠 "wikilink")：精品店的銷售員（第1集）
+  - 山本 加代子 - [榊原郁惠](https://zh.wikipedia.org/wiki/榊原郁惠 "wikilink")：精品店的銷售員（第1集）香港粵語[沈小蘭](../Page/沈小蘭.md "wikilink")
 
   - 居酒屋「」店長 - [戶田昌宏](https://zh.wikipedia.org/wiki/戶田昌宏 "wikilink")（第1·4集）
 
-  - 日比谷  - [鈴木砂羽](https://zh.wikipedia.org/wiki/鈴木砂羽 "wikilink")：飛貓舍的設計師（第2集）
+  - 日比谷 忍- [鈴木砂羽](https://zh.wikipedia.org/wiki/鈴木砂羽 "wikilink")：飛貓舍的設計師（第2集）香港粵語[沈小蘭](../Page/沈小蘭.md "wikilink")
 
   - 日比谷 真紀 - [藤本靜](https://zh.wikipedia.org/wiki/藤本靜 "wikilink")：しのぶの妹（第2集）
 
@@ -278,15 +278,15 @@
 
   - 高級精品店「蔻蒂」（GOLDY）所有者 - [長棟嘉道](https://zh.wikipedia.org/wiki/長棟嘉道 "wikilink")（第4集）
 
-  - 山內 一義 - [福井友信](https://zh.wikipedia.org/wiki/福井友信 "wikilink")：達也的父親（第4集）
+  - 山內 一義 - [福井友信](https://zh.wikipedia.org/wiki/福井友信 "wikilink")：達也的父親（第4集）香港粵語[林保全](../Page/林保全.md "wikilink")
 
-  - 山內 由美 - [鷲尾真知子](../Page/鷲尾真知子.md "wikilink")：達也的母親（第4集）
+  - 山內 由美 - [鷲尾真知子](../Page/鷲尾真知子.md "wikilink")：達也的母親（第4集）香港粵語[沈小蘭](../Page/沈小蘭.md "wikilink")
 
   - 山內 雄一 - [三浦剛](https://zh.wikipedia.org/wiki/三浦剛 "wikilink")：達也的哥哥（第4集）
 
   - 山內 杏子 - [大浦理美惠](https://zh.wikipedia.org/wiki/大浦理美惠 "wikilink")：雄一的妻子（第4集）
 
-  - 堀 晴美 - [山田麻衣子](https://zh.wikipedia.org/wiki/山田麻衣子 "wikilink")：達也的同班同學（第4·5·6集）
+  - 堀 晴美 - [山田麻衣子](https://zh.wikipedia.org/wiki/山田麻衣子 "wikilink")：達也的同班同學（第4·5·6集）香港粵語[黃紫嫻](https://zh.wikipedia.org/wiki/黃紫嫻 "wikilink")
 
   - 川原 - [遠山俊也](https://zh.wikipedia.org/wiki/遠山俊也 "wikilink")（第5集）
 
@@ -294,13 +294,13 @@
 
   - \- [尾高杏奈](https://zh.wikipedia.org/wiki/尾高杏奈 "wikilink")：的朋友（第6集）
 
-  - 小西  - [中別府葵](../Page/中別府葵.md "wikilink")：漾青春休閒館Cinderrella Town的派遣員工（第6·7集）
+  - 小西 麻美 - [中別府葵](../Page/中別府葵.md "wikilink")：漾青春休閒館Cinderrella Town的派遣員工（第6·7集）香港粵語[黃紫嫻](https://zh.wikipedia.org/wiki/黃紫嫻 "wikilink")
 
   - 萩野 - [恆吉梨繪](https://zh.wikipedia.org/wiki/恆吉梨繪 "wikilink")（第6·7集）
 
   - 商品部採購 - [林健](https://zh.wikipedia.org/wiki/Gallop_\(搞笑團體\) "wikilink")、[毛利大亮](https://zh.wikipedia.org/wiki/Gallop_\(搞笑團體\) "wikilink")（第7集）
 
-  - 宮澤 雪乃 - [奧貫薰](https://zh.wikipedia.org/wiki/奧貫薰 "wikilink")：優作的未婚妻→前未婚妻（第7·8集）
+  - 宮澤 雪乃 - [奧貫薰](https://zh.wikipedia.org/wiki/奧貫薰 "wikilink")：優作的未婚妻→前未婚妻（第7·8集）香港粵語[陸惠玲](../Page/陸惠玲.md "wikilink")
 
   - 雙葉 公彥 - [中村靖日](https://zh.wikipedia.org/wiki/中村靖日 "wikilink")：人気針織作家（第8集）
 
@@ -308,15 +308,15 @@
 
   - 播報百貨公司合併新聞的主播 - [山本浩之](https://zh.wikipedia.org/wiki/山本浩之 "wikilink")（關西電視台主播，第8集）
 
-  - 竹內 祐造 - [田山涼成](https://zh.wikipedia.org/wiki/田山涼成 "wikilink")：鞋子工廠「竹內」社長（第9集）
+  - 竹內 祐造 - [田山涼成](https://zh.wikipedia.org/wiki/田山涼成 "wikilink")：鞋子工廠「竹內」社長（第9集）香港粵語[招世亮](../Page/招世亮.md "wikilink")
 
-  - 蜂矢 俊生（回想） - [谷原章介](../Page/谷原章介.md "wikilink")：英明過世的父親，美姬過世的戀人（友情演出，第9集·10集）
+  - 蜂矢 俊生（回想） - [谷原章介](../Page/谷原章介.md "wikilink")：英明過世的父親，美姬過世的戀人（友情演出，第9集·10集）香港粵語[翟耀輝](../Page/翟耀輝.md "wikilink")
 
-  - \- [Fredric](https://zh.wikipedia.org/wiki/Fredric "wikilink")：SHIELA\&KEITH的設計師（第10集）
+  - \- [Fredric](https://zh.wikipedia.org/wiki/Fredric "wikilink")：SHIELA\&KEITH的設計師（第10集）香港粵語[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")
 
   - \- [IAN MOORE](https://zh.wikipedia.org/wiki/IAN_MOORE "wikilink")：SHIELA\&KEITH的所有人（第10集）
 
-  - 宮崎 - [升毅](https://zh.wikipedia.org/wiki/升毅 "wikilink")（第10話）
+  - 宮崎 - [升毅](https://zh.wikipedia.org/wiki/升毅 "wikilink")（第10話）香港粵語[招世亮](../Page/招世亮.md "wikilink")
 
   - 石田 - [谷村美月](../Page/谷村美月.md "wikilink")（最終集）
 
@@ -461,7 +461,7 @@
 
   - [戴高樂廣場邊](https://zh.wikipedia.org/wiki/戴高樂廣場 "wikilink")
   - Ladurée/香榭麗舍總店
-  - Lanvin（[浪凡](https://zh.wikipedia.org/wiki/浪凡 "wikilink")）/總店
+  - Lanvin（[浪凡](../Page/浪凡.md "wikilink")）/總店
   - LOUIS VUITTON/香榭麗舍總店
   - [-{zh-hans:巴黎老佛爺百貨公司;zh-hant:巴黎拉法葉百貨公司;}-](../Page/巴黎老佛爺百貨公司.md "wikilink")/巴黎總店
   - [-{zh-tw:芳登廣場;zh-cn:旺多姆广场;zh-hk:凡登廣場;}-](https://zh.wikipedia.org/wiki/旺多姆广场 "wikilink")

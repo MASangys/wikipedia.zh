@@ -336,17 +336,12 @@
 [Category:虛構角色](https://zh.wikipedia.org/wiki/Category:虛構角色 "wikilink") [Category:2010年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2010年日本OVA動畫 "wikilink") [Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink") [Category:使用Vocaloid的歌曲](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的歌曲 "wikilink") [Category:2012年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2012年日本電視動畫 "wikilink") [Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:Vocaloid曲改編動畫](https://zh.wikipedia.org/wiki/Category:Vocaloid曲改編動畫 "wikilink") [Category:Vocaloid傳說曲](https://zh.wikipedia.org/wiki/Category:Vocaloid傳說曲 "wikilink")
 
 1.  [pixiv原圖網址](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=279688)
-
 2.
 3.  "[初音ミクがオリジナルを歌ってくれたよ「ブラック★ロックシューター」](http://www.nicovideo.jp/watch/sm3645817)" ニコニコ動画、2008年6月13日。
-
 4.
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.

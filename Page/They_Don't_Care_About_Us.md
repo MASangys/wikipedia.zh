@@ -63,39 +63,23 @@
 [Category:1996年單曲](https://zh.wikipedia.org/wiki/Category:1996年單曲 "wikilink") [Category:迈克尔·杰克逊歌曲](https://zh.wikipedia.org/wiki/Category:迈克尔·杰克逊歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.  "Jackson explains remarks denounced as antisemitism". (June 16, 1995). *The Boston Globe*.
-
 7.
-
 8.
-
 9.
 10.
-
 11. "First look at Michael Jackson's new music video on Entertainment Tonight". (March 29, 1996). [PR Newswire](https://zh.wikipedia.org/wiki/PR_Newswire "wikilink").
-
 12.
 13.
-
 14.
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.

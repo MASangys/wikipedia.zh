@@ -538,7 +538,7 @@ Ultra C</p></td>
 
 ## 外部連結
 
-  - [《Ultra C》日本特設網站](http://emimusic.jp/tokyojihen/ultrac/)
+  - [《Ultra C》日本特設網站](https://web.archive.org/web/20100827135323/http://emimusic.jp/tokyojihen/ultrac/)
   - [《Ultra C》台灣特設網站](https://web.archive.org/web/20110529015402/http://www.gold-typhoon.com.tw/pop/ultrac/)
 
 ## 注釋
@@ -550,47 +550,32 @@ Ultra C</p></td>
 [Category:東京事變的DVD](https://zh.wikipedia.org/wiki/Category:東京事變的DVD "wikilink") [Category:演唱會](https://zh.wikipedia.org/wiki/Category:演唱會 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
 10.
 11.
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
 19.
 20.
 21.
-
 22.
-
 23.
 24.
-
 25.
 26.
 27.
-
 28.
 29.
 30.

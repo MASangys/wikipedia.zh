@@ -26,5 +26,5 @@ Ubiquity installer允許安裝到硬盤內部的Live CD環境，而無需重新�
 
 1.   FAQ / FAQ {{\!}} browse | accessdate = 2009-03-17 | work = gNewSense.org | deadurl = yes | archiveurl = <https://web.archive.org/web/20090101110932/http://www.gnewsense.org/index.php?n=FAQ.FAQ> | archivedate = 2009-01-01 }}
 2.  <http://www.gnu.org/distros/free-distros.html>
-3.  <http://wiki.gnewsense.org/Main/CommunityGuidelines>
+3.
 4.  [gNewSense 1.0 released - Free Software Foundation](http://www.fsf.org/news/gnewsense)

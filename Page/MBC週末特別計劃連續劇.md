@@ -615,7 +615,7 @@
 </p></td>
 <td style="text-align: center;"><p>22</p></td>
 <td style="text-align: center;"><p><a href="../Page/宋承憲.md" title="wikilink">宋承憲</a>、<a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a>、<a href="../Page/金在中.md" title="wikilink">金在中</a>、<a href="../Page/李凡秀.md" title="wikilink">李凡秀</a>、<a href="../Page/李昭娟.md" title="wikilink">李昭娟</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/韓熙.md" title="wikilink">韓熙</a>、<a href="https://zh.wikipedia.org/wiki/吳賢鍾" title="wikilink">吳賢鍾</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/韓熙.md" title="wikilink">韓熙</a>、<a href="../Page/吳賢鍾.md" title="wikilink">吳賢鍾</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/韓智勳" title="wikilink">韓智勳</a>、<a href="https://zh.wikipedia.org/wiki/全賢鎮" title="wikilink">全賢鎮</a></p></td>
 <td style="text-align: center;"><p>原作：<a href="../Page/村上紀香.md" title="wikilink">村上紀香</a> 漫畫《<a href="../Page/仁者俠醫.md" title="wikilink">仁者俠醫</a>》</p></td>
 </tr>
@@ -969,7 +969,7 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/捉迷藏_(韓國電視劇)" title="wikilink">捉迷藏</a><br />
 </p></td>
 <td style="text-align: center;"><p>48</p></td>
-<td style="text-align: center;"><p><a href="../Page/李幼梨.md" title="wikilink">李幼梨</a>、<a href="../Page/宋昶儀.md" title="wikilink">宋昶儀</a>、<a href="../Page/嚴賢璟.md" title="wikilink">嚴賢璟</a>、<a href="https://zh.wikipedia.org/wiki/金永敏" title="wikilink">金永敏</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李幼梨.md" title="wikilink">李幼梨</a>、<a href="../Page/宋昶儀.md" title="wikilink">宋昶儀</a>、<a href="../Page/嚴賢璟.md" title="wikilink">嚴賢璟</a>、<a href="../Page/金永敏.md" title="wikilink">金永敏</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/申勇輝" title="wikilink">申勇輝</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/薛慶恩" title="wikilink">薛慶恩</a></p></td>
 <td style="text-align: center;"></td>
@@ -1037,7 +1037,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年7月20日－<br />
-2019年9月21日</p></td>
+2019年10月26日</p></td>
 <td style="text-align: center;"><p><a href="../Page/黃金庭院.md" title="wikilink">黃金庭院</a><br />
 </p></td>
 <td style="text-align: center;"><p>60</p></td>
@@ -1047,14 +1047,14 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年9月－<br />
-2019年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/沒有第二次" title="wikilink">沒有第二次</a><br />
+<td style="text-align: center;"><p>2019年11月2日－<br />
+2020年</p></td>
+<td style="text-align: center;"><p><a href="../Page/沒有第二次.md" title="wikilink">沒有第二次</a><br />
 </p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>60</p></td>
+<td style="text-align: center;"><p><a href="../Page/尹汝貞.md" title="wikilink">尹汝貞</a>、<a href="../Page/朱鉉.md" title="wikilink">朱鉉</a>、<a href="../Page/吳智昊.md" title="wikilink">吳智昊</a>、<a href="../Page/芮智媛.md" title="wikilink">芮智媛</a>、<a href="../Page/朴世婉.md" title="wikilink">朴世婉</a>、<a href="../Page/郭東延.md" title="wikilink">郭東延</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔元錫" title="wikilink">崔元錫</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/具賢淑" title="wikilink">具賢淑</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

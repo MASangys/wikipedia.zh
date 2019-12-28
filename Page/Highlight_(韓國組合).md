@@ -225,7 +225,7 @@ LineData =
 | [龍俊亨](../Page/龍俊亨.md "wikilink") | 2019.04.02\~2020.11.03 (581天) | 第23步兵師團鐵壁部隊                   | X           | 江原道三陟第23師團鐵壁部隊 |                         |
 | [梁耀燮](../Page/梁耀燮.md "wikilink") | 義務警察                          | 2019.01.24\~2020.08.30 (584天) | 論山訓練所       | 高陽軍警學校         | 首爾江東區警察廳防犯巡查隊第二機動團319中隊 |
 | [李起光](../Page/李起光.md "wikilink") | 2019.04.18\~2020.11.18 (580天) | 京畿道南部地方警察廳水源區防犯巡查隊第二機動團2中隊    |             |                |                         |
-| [孫東雲](../Page/孫東雲.md "wikilink") | 2019.05.09\~2020.12.08 (579天) | 首爾江東區警察廳第一機動團15中隊             |             |                |                         |
+| [孫東雲](../Page/孫東雲.md "wikilink") | 2019.05.09\~2020.12.08 (579天) | 首爾中區警察廳機動總部第一機動團15中隊3小隊       |             |                |                         |
 
 1.義警第361期考試合格但抽籤落選，2018年8月22日，官方宣布斗俊確認8月24日於第27步兵師「共贏部隊」新兵訓練所現役入伍，並公開入伍前親筆手寫信[6](http://aroundusent.com/home/artist_notice_detail/437)，預計2020年4月10日退伍。
 
@@ -251,6 +251,10 @@ LineData =
 
 12.2019年9月28日，作為MC參加山寺音樂會，地點：護國先鋒寺 戶外舞台。
 
+13.2019年10月1日，晉升兵長。
+
+13.2019年10月5-8日，記念長青樹部隊派兵20週年，代表國防代表團訪問東帝汶，參加「KOREA-TIMOR LESTE FRIENDSHIP CONCERT」。
+
 1.2019年4月2日，透過公司聲明稿入伍江原道第23師團「鐵壁部隊」，預計2020年11月3日退伍。
 
 2.2019年4月9日，新兵分配為23師團2中隊2小隊120號訓練兵，並擔任分隊小隊長。
@@ -271,11 +275,13 @@ LineData =
 
 5.2019年5月1日，晉升為一警。
 
+6.2019年11月1日，晉升為上警。
+
 1.起光11月1日義警考試合格，11月5日抽籤落選，東雲則因未帶體檢表落選，兩人再次報名義警考試均合格。12月21日起光第363期義警考試合格並順利入選(此為合格者隨機抽籤)，入伍時間預計2019年1月下旬公布，接受5週基礎訓練後，轉往京畿道南部地方警察廳服役。
 
 2.2019年4月18日，起光正式作為義務警察入伍，並公開入伍前親筆手寫信。於論山陸軍訓練所進行為期4週的基礎軍事訓練，進入警察學校接受2-3週的教育後，轉往京畿道南部地方警察廳服役，預計2020年11月18日退伍。
 
-3.2019年4月23日，公布新兵分配為25聯隊3中隊1小隊4分隊41號訓練兵。2019年4月30日，公開入伍後第一封手寫信[21](https://www.instagram.com/p/Bw3xD7NnG0J/?igshid=19wj4zvyfyvm3)；2019年5月2日，公開入伍後第二、三封手寫信[22](https://www.instagram.com/p/Bw8t0F8nrhP/?igshid=15u3fsqiwt3je)；2019年5月13日，公開入伍後第四封手寫信[23](https://www.instagram.com/p/BxZT8jGn-RD/?igshid=1ou2jle1zdz34)；2019年5月15日，公開入伍後第五封手寫信[24](https://www.instagram.com/p/BxeqL8Zp4GJ/?igshid=dp0qfmq7zzzw)；2019年5月16日，公開入伍後第六、七、八封手寫信[25](https://www.instagram.com/p/BxhRN-rpBL4/?igshid=1dv3yq9668yt2)；2019年5月21日，公開入伍後第九封手寫信[26](https://www.instagram.com/p/Bxt0smIpfaD/)；2019年6月3日，公開入伍後第十封手寫信[27](https://www.instagram.com/p/ByPQsh6JrJW/)；2019年6月4日，公開入伍後第十一封手寫信[28](https://www.instagram.com/p/ByR7UchJxb0/?igshid=unm97oikf533)；2019年6月6日，公開入伍後第十二封手寫信[29](https://www.instagram.com/p/ByU1d1pJPFy/)；2019年7月1日，公開入伍後第十三封手寫信[30](https://www.instagram.com/p/BzXfpnTJJcO/)；2019年7月16日，公開入伍後第十四封手寫信[31](https://www.instagram.com/p/Bz9-2SNJrX8/)；2019年9月12日，公開入伍後第十五封手寫信(中秋問候)[32](https://www.instagram.com/p/B2T_sdzpTRR/)。；2019年9月24日，公開入伍後第十六封手寫信[33](https://www.instagram.com/p/B2v3e8fpAwq/)。
+3.2019年4月23日，公布新兵分配為25聯隊3中隊1小隊4分隊41號訓練兵。2019年4月30日，公開入伍後第一封手寫信[21](https://www.instagram.com/p/Bw3xD7NnG0J/?igshid=19wj4zvyfyvm3)；2019年5月2日，公開入伍後第二、三封手寫信[22](https://www.instagram.com/p/Bw8t0F8nrhP/?igshid=15u3fsqiwt3je)；2019年5月13日，公開入伍後第四封手寫信[23](https://www.instagram.com/p/BxZT8jGn-RD/?igshid=1ou2jle1zdz34)；2019年5月15日，公開入伍後第五封手寫信[24](https://www.instagram.com/p/BxeqL8Zp4GJ/?igshid=dp0qfmq7zzzw)；2019年5月16日，公開入伍後第六、七、八封手寫信[25](https://www.instagram.com/p/BxhRN-rpBL4/?igshid=1dv3yq9668yt2)；2019年5月21日，公開入伍後第九封手寫信[26](https://www.instagram.com/p/Bxt0smIpfaD/)；2019年6月3日，公開入伍後第十封手寫信[27](https://www.instagram.com/p/ByPQsh6JrJW/)；2019年6月4日，公開入伍後第十一封手寫信[28](https://www.instagram.com/p/ByR7UchJxb0/?igshid=unm97oikf533)；2019年6月6日，公開入伍後第十二封手寫信[29](https://www.instagram.com/p/ByU1d1pJPFy/)；2019年7月1日，公開入伍後第十三封手寫信[30](https://www.instagram.com/p/BzXfpnTJJcO/)；2019年7月16日，公開入伍後第十四封手寫信[31](https://www.instagram.com/p/Bz9-2SNJrX8/)；2019年9月12日，公開入伍後第十五封手寫信(中秋問候)[32](https://www.instagram.com/p/B2T_sdzpTRR/)；2019年9月24日，公開入伍後第十六封手寫信[33](https://www.instagram.com/p/B2v3e8fpAwq/)；2019年12月19日，公開入伍後第十七封手寫信[34](https://twitter.com/Highlight_AUent/status/1207208030762258432)。
 
 4.2019年5月16日，結業式後進入京畿道高陽軍警學校接受2-3週教育，並擔任學生長。
 
@@ -285,13 +291,13 @@ LineData =
 
 7.2019年8月1日，晉升為一警。
 
-8.2019年8月16日，任命為「京畿南部廳杜絕電話詐騙宣傳大使」[34](http://aroundusent.com/home/artist_notice)，出演水原電視台晨間新聞宣傳\[[https://www.youtube.com/watch?v=N78KHJgp9qI\]並於2019年8月16日至2019年9月18日期間將以京畿南部地區市區公車為對象，刊登預防電話詐騙的廣告](https://www.youtube.com/watch?v=N78KHJgp9qI%5D並於2019年8月16日至2019年9月18日期間將以京畿南部地區市區公車為對象，刊登預防電話詐騙的廣告)。
+8.2019年8月16日，任命為「京畿南部廳杜絕電話詐騙宣傳大使」[35](http://aroundusent.com/home/artist_notice)，出演水原電視台晨間新聞宣傳\[[https://www.youtube.com/watch?v=N78KHJgp9qI\]並於2019年8月16日至2019年9月18日期間將以京畿南部地區市區公車為對象，刊登預防電話詐騙的廣告](https://www.youtube.com/watch?v=N78KHJgp9qI%5D並於2019年8月16日至2019年9月18日期間將以京畿南部地區市區公車為對象，刊登預防電話詐騙的廣告)。
 
 1.2019年3月8日，東雲第364期義警考試合格，3月12日抽籤合格，將擔任大型駕駛的義警。
 
 2.2019年5月9日，東雲正式作為特技(大型駕駛)義務警察入伍，並公開入伍前親筆手寫信。 於論山陸軍訓練所進行為期4週的基礎軍事訓練，進入警察學校接受2-3週的教育後，轉往首爾警察廳服役，預計2020年12月8日退伍。
 
-3.2019年5月14日，公布新兵分配為23聯隊2中隊1小隊1分隊9號訓練兵。2019年5月15日，公開入伍後第一封手寫信[35](https://www.instagram.com/p/BxeqvNXp19w/?igshid=144cax9wot7gu)，並擔任分隊小隊長；2019年5月16日，公開入伍後第二封手寫信[36](https://www.instagram.com/p/BxhScSWJWAp/?igshid=1ano2n0f7ieuh)；2019年5月22日，公開入伍後第三封手寫信[37](https://www.instagram.com/p/BxwymM_Jyst/)；2019年5月23日，公開入伍後第四、五封手寫信[38](https://www.instagram.com/p/BxzAqP1Jw2g/?igshid=zpik2axlgrg9)；2019年5月30日，公開入伍後第六封手寫信[39](https://www.instagram.com/p/ByE7i0xp_g5/)；2019年6月5日，公開入伍後第七封手寫信[40](https://www.instagram.com/p/ByU7xxLJXXi/)；2019年6月11日，公開入伍後第八封手寫信[41](https://www.instagram.com/p/Byj98CKJR-d/?igshid=got04kr6nxas)；2019年6月24日，公開入伍後第九封手寫信[42](https://www.instagram.com/p/BzFVWBxJWqJ/?igshid=guvp6dv1ndpk)；2019年9月12日，公開入伍後第十封手寫信(中秋問候)[43](https://www.instagram.com/p/B2T_sdzpTRR/)。
+3.2019年5月14日，公布新兵分配為23聯隊2中隊1小隊1分隊9號訓練兵。2019年5月15日，公開入伍後第一封手寫信[36](https://www.instagram.com/p/BxeqvNXp19w/?igshid=144cax9wot7gu)，並擔任分隊小隊長；2019年5月16日，公開入伍後第二封手寫信[37](https://www.instagram.com/p/BxhScSWJWAp/?igshid=1ano2n0f7ieuh)；2019年5月22日，公開入伍後第三封手寫信[38](https://www.instagram.com/p/BxwymM_Jyst/)；2019年5月23日，公開入伍後第四、五封手寫信[39](https://www.instagram.com/p/BxzAqP1Jw2g/?igshid=zpik2axlgrg9)；2019年5月30日，公開入伍後第六封手寫信[40](https://www.instagram.com/p/ByE7i0xp_g5/)；2019年6月5日，公開入伍後第七封手寫信[41](https://www.instagram.com/p/ByU7xxLJXXi/)；2019年6月11日，公開入伍後第八封手寫信[42](https://www.instagram.com/p/Byj98CKJR-d/?igshid=got04kr6nxas)；2019年6月24日，公開入伍後第九封手寫信[43](https://www.instagram.com/p/BzFVWBxJWqJ/?igshid=guvp6dv1ndpk)；2019年9月12日，公開入伍後第十封手寫信(中秋問候)[44](https://www.instagram.com/p/B2T_sdzpTRR/)。
 
 4.2019年6月5日，結業式以訓練所的1等成績結業，並且受到陸軍訓練所長的表彰，預計於碧蹄警察學校接受為期3週的培訓後分配部隊。
 
@@ -450,14 +456,14 @@ LineData =
   - 起光擔任KBS2《Dancing High》舞蹈導師與[李浩沅](../Page/Hoya.md "wikilink") 、[WINNER](../Page/WINNER.md "wikilink")[李昇勳](../Page/李昇勳.md "wikilink")，預計9月7日播出。
   - 8月2日，東雲、[Girl's Day](../Page/Girl's_Day.md "wikilink")[朴素珍](../Page/素珍_\(韓國歌手\).md "wikilink")、[金申英](../Page/金信英.md "wikilink")、DinDin擔任「GOT YA\!公園少女」MC，節目主題是[公園少女成員們將會成為遊戲中的主角](https://zh.wikipedia.org/wiki/公園少女 "wikilink")，而四名主持人將會對她們進行觀察的節目。
   - 7月31日，東雲舉行1st DIGITAL SINGLE 《Prelude : 聲音》發售紀念特別活動,約170人mini live，免費入場。
-  - 8月22日，官方宣布斗俊確認8月24日現役入伍，並公開手寫信，預計2020年4月10日退伍。[44](http://aroundusent.com/home/artist_notice_detail/437)
-  - 8月21日，耀燮義警第361期考試合格並順利入選(此為合格者隨機抽籤)，入伍時間預計2019年1月24日，接受5週基礎訓練後，轉往京畿道南部地方警察廳服役。[45](https://ap.police.go.kr/ap/bbs/view.do?nttId=10096&bbsId=B0000001&searchCnd=1&searchWrd=%EA%B2%BD%EA%B8%B0%EB%82%A8&section=&sdate=&edate=&useAt=&replyAt=&menuNo=200055&viewType=&delCode=0&option1=&keyId=0&userId=&gubun=&pageIndex=1)
+  - 8月22日，官方宣布斗俊確認8月24日現役入伍，並公開手寫信，預計2020年4月10日退伍。[45](http://aroundusent.com/home/artist_notice_detail/437)
+  - 8月21日，耀燮義警第361期考試合格並順利入選(此為合格者隨機抽籤)，入伍時間預計2019年1月24日，接受5週基礎訓練後，轉往京畿道南部地方警察廳服役。[46](https://ap.police.go.kr/ap/bbs/view.do?nttId=10096&bbsId=B0000001&searchCnd=1&searchWrd=%EA%B2%BD%EA%B8%B0%EB%82%A8&section=&sdate=&edate=&useAt=&replyAt=&menuNo=200055&viewType=&delCode=0&option1=&keyId=0&userId=&gubun=&pageIndex=1)
   - 耀燮和俊亨於11月11日在香港、11月17日在台灣，舉辦《2018 YONG JUNHYUNG & YANG YOSEOP Mini CONCERT 》。
   - 10月16日，9週年直播中，宣布於10月29日發佈數位單曲《잘 지내줘(TAKE CARE)》音源，11月24-25日於[首爾奧林匹克體操競技場舉辦](../Page/首尔奥林匹克体操竞技场.md "wikilink")《OUTRO》演唱會。
   - 10月31日，透過KBS 2TV「[柳熙烈的寫真簿](../Page/柳喜烈的寫生簿.md "wikilink")'」作為完全體(缺斗俊)的入伍前最後節目錄製。
-  - 11月8日，公告將團體SNS帳號與公司分開，更改帳號名稱並新增公司帳號。[46](http://aroundusent.com/home/artist_notice_detail/452)
+  - 11月8日，公告將團體SNS帳號與公司分開，更改帳號名稱並新增公司帳號。[47](http://aroundusent.com/home/artist_notice_detail/452)
   - 12月9日，耀燮在日本舉辦個人演唱會《白》，共計二場。
-  - 起光11月1日義警考試合格，11月5日抽籤落選，東雲則因未帶體檢表落選，兩人再次報名義警考試均合格。12月21日起光第363期義警考試合格並順利入選(此為合格者隨機抽籤)，入伍時間預計2019年1月下旬公佈，接受5週基礎訓練後，轉往京畿道南部地方警察廳服役。[47](https://ap.police.go.kr/ap/bbs/view.do?nttId=10376&bbsId=B0000001&searchCnd=1&searchWrd=%EA%B2%BD%EA%B8%B0%EB%82%A8&section=&sdate=&edate=&useAt=&replyAt=&menuNo=200055&viewType=&delCode=0&option1=&keyId=0&userId=&gubun=&pageIndex=1)
+  - 起光11月1日義警考試合格，11月5日抽籤落選，東雲則因未帶體檢表落選，兩人再次報名義警考試均合格。12月21日起光第363期義警考試合格並順利入選(此為合格者隨機抽籤)，入伍時間預計2019年1月下旬公佈，接受5週基礎訓練後，轉往京畿道南部地方警察廳服役。[48](https://ap.police.go.kr/ap/bbs/view.do?nttId=10376&bbsId=B0000001&searchCnd=1&searchWrd=%EA%B2%BD%EA%B8%B0%EB%82%A8&section=&sdate=&edate=&useAt=&replyAt=&menuNo=200055&viewType=&delCode=0&option1=&keyId=0&userId=&gubun=&pageIndex=1)
   - 11月20日，發行特別專輯《OUTRO》，此為入伍前為了粉絲們特別準備的專輯. 並將收錄尹斗俊在入伍之前錄製的歌曲，但不會相關的節目放送活動。
   - 12月9日，東雲於[tvN家庭綜藝節目](../Page/TVN.md "wikilink")《尋找單身黃昏的青春-[愛神派對](https://zh.wikipedia.org/wiki/愛神派對 "wikilink")》，和[朴芝潤](../Page/朴芝潤.md "wikilink")一起擔任旅行的領隊，為了找回失去的青春而出演的父母以及為了瞭解一直以來所不知道的父母形象的子女們而展開的療癒型旅遊節目。
   - 12月13日，開設[Highlight time_official](https://twitter.com/Hltime_official?lang=zh-tw) Twitter官方帳號，因應友情旅行，請LIGHT提供「小確幸」點子。
@@ -468,7 +474,7 @@ LineData =
 
   - 1月6日，耀燮從擔任[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") FM4U《梁耀燮的夢想電台》 下車。
   - 1月21日，耀燮朗讀的《銀河鐵道之夜(宮澤賢治 短篇集)》有聲書上市。
-  - 1月23日，俊亨入選韓國音樂著作權協會（KOMCA）2019年正式會員的名單。[48](https://www.komca.or.kr/CTLJSP)
+  - 1月23日，俊亨入選韓國音樂著作權協會（KOMCA）2019年正式會員的名單。[49](https://www.komca.or.kr/CTLJSP)
   - 1月24日，耀燮正式作為義務警察入伍，於論山陸軍訓練所進行為期4週的基礎軍事訓練，之後將進入警察學校接受2-3週的教育後 在[京畿道](../Page/京畿道.md "wikilink")南部地方警察廳服役，預計2020年8月30日退伍。2月21日結業式後分配至首爾警察廳服役。
   - 1月24日，耀燮發佈的首張數位單曲《20 Full Moons》，經過20次滿月的時候就會再次回來的寓意，共收錄兩首歌，主打歌《With You》裝載著對於10年來一直守護在自己身邊的成員們想說的話。
   - 1月31日，俊亨發佈數位單曲《빈털터리身無分文》以shuffle旋律為基礎的爵士嘻哈曲風，並與[Suran](../Page/Suran.md "wikilink")一起合作。
@@ -492,6 +498,8 @@ LineData =
   - 5月9日，東雲正式作為特技(大型駕駛)義務警察入伍,於論山陸軍訓練所進行為期4週的基礎軍事訓練，之後將進入警察學校接受2-3週的教育後 在首爾警察廳服役，預計2020年12月8日退伍。
   - 7月16日，開設官方[soundcloud](https://soundcloud.com/highlight_091016)帳號《highlight_091016》，並公開起光《[Paradise](https://soundcloud.com/highlight_091016/paradise-leegikwang-of-highlight)》音源。
   - 9月11日，於官方soundcloud公開起光《[Cotton Candy](https://soundcloud.com/highlight_091016/cotton-candy-leegikwang-of-highlight)》音源。
+  - 10月21日，捐款1016萬韓元給國際救護團體 '飢餓對策'，以紀念出道日10月16日，此次捐款之所以特別，是因為用了默默守護在他們身邊，給予愛和支持的粉絲 'Light' 的名義去捐贈的。Around US 相關人士表示：此次紀念日，成員們全都在服役中，所以想用樸素但有意義的方式來紀念，成員們想感受與粉絲們一起分享的喜悅，也希望捐款能用來幫助在寒冷的冬天中辛苦地生活著的人。飢餓對策相關人士則表示：團體Highlight和粉絲們自2017年起，就持續為海外及國內的弱勢孩童們提供資助，是藝人與粉絲一起參與分享的最佳典範[50](http://star.mt.co.kr/stview.php?no=2019102114032159324)。
+  - 11月15日，於官方soundcloud公開起光《[I'm down](https://soundcloud.com/highlight_091016/im-down-leegikwang-of-highlight)》音源。
 
 ## 音樂作品
 
@@ -503,15 +511,15 @@ LineData =
 
 | 年份               | 廠牌名稱           | 參加成員         | 項目                                                                                                 | 備註                                                                                                 |
 | ---------------- | -------------- | ------------ | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| <big>2017年</big> | UNIQLO         | 斗俊.起光        | AIRism (謝謝篇)                                                                                       | [49](https://www.youtube.com/watch?v=Uy1FUa3O93M)                                                  |
-| UNIQLO           | 斗俊.起光          | AIRism (辛苦篇) | [50](https://www.youtube.com/watch?v=GQx_RwQMMSg)                                                  |                                                                                                    |
-| Coinwash 크린토피아   | 斗俊             | 投幣式洗衣機       | [51](https://www.youtube.com/watch?v=Fgm1lb-A7BA)[52](https://www.youtube.com/watch?v=3Fa8S89Gy2A) |                                                                                                    |
-| NOLSOOP놀숲        | 全體             | 漫畫咖啡屋        | [53](https://www.youtube.com/watch?v=u0EoAqyPPJ0)                                                  |                                                                                                    |
-| <big>2018年</big> | Coinwash 크린토피아 | 斗俊           | 投幣式洗衣機                                                                                             | [54](https://www.youtube.com/watch?v=TcqiE6f9iA0)[55](https://www.youtube.com/watch?v=lq-smLdf-rY) |
-| 天空城 NARSIA       | 全體             | 手機遊戲         | [56](https://www.youtube.com/watch?v=MZ4Yofa6tEE)                                                  |                                                                                                    |
-| 新羅免稅店            | 全體             | 免稅店          | 新加坡.香港.日本.韓國區域 [57](https://www.shilladfs.com/comm/kr/en/storyStarGallVid)                         |                                                                                                    |
+| <big>2017年</big> | UNIQLO         | 斗俊.起光        | AIRism (謝謝篇)                                                                                       | [51](https://www.youtube.com/watch?v=Uy1FUa3O93M)                                                  |
+| UNIQLO           | 斗俊.起光          | AIRism (辛苦篇) | [52](https://www.youtube.com/watch?v=GQx_RwQMMSg)                                                  |                                                                                                    |
+| Coinwash 크린토피아   | 斗俊             | 投幣式洗衣機       | [53](https://www.youtube.com/watch?v=Fgm1lb-A7BA)[54](https://www.youtube.com/watch?v=3Fa8S89Gy2A) |                                                                                                    |
+| NOLSOOP놀숲        | 全體             | 漫畫咖啡屋        | [55](https://www.youtube.com/watch?v=u0EoAqyPPJ0)                                                  |                                                                                                    |
+| <big>2018年</big> | Coinwash 크린토피아 | 斗俊           | 投幣式洗衣機                                                                                             | [56](https://www.youtube.com/watch?v=TcqiE6f9iA0)[57](https://www.youtube.com/watch?v=lq-smLdf-rY) |
+| 天空城 NARSIA       | 全體             | 手機遊戲         | [58](https://www.youtube.com/watch?v=MZ4Yofa6tEE)                                                  |                                                                                                    |
+| 新羅免稅店            | 全體             | 免稅店          | 新加坡.香港.日本.韓國區域 [59](https://www.shilladfs.com/comm/kr/en/storyStarGallVid)                         |                                                                                                    |
 | SPAO(馬來西亞)       | 全體             | 服飾配件         |                                                                                                    |                                                                                                    |
-| UNIQLO           | 起光             | UNIQLO JEANS | [58](https://www.youtube.com/watch?v=ti6pktCE6NQ)                                                  |                                                                                                    |
+| UNIQLO           | 起光             | UNIQLO JEANS | [60](https://www.youtube.com/watch?v=ti6pktCE6NQ)                                                  |                                                                                                    |
 
 ### 宣傳大使
 
@@ -1207,19 +1215,19 @@ Highlight&成員SNS
 15. [《吃飯吧》昨開播 講述單身貴族與美食的情緣](http://www.koreastardaily.com/tc/news/34925)韓星網 2013-11-29
 16. [BEAST龍俊亨12月推個人新輯 填詞譜曲製作全包](http://www.koreastardaily.com/tc/news/34783)韓星網 2013-11-27
 17. [BEAST李起光出席《20歲》發佈會 自曝「擔心吻戲太刺激」](http://www.koreastardaily.com/tc/video/35756)韓星網 2013-12-19
-18. [厲旭、東雲攜手主持新節目](http://kpopn.com/2014/01/30/209456/)kpopn 2014-1-30
+18. [厲旭、東雲攜手主持新節目](http://kpopn.com/2014/01/30/209456/) kpopn 2014-1-30
 19. [BEAST真人秀《Show Time》4月開播 6成員男孩到男人的蛻變](http://www.koreastardaily.com/tc/news/40001)韓星網 2014-3-26
-20. [BEAST 日單曲 PV 預告](http://kpopn.com/2014/05/07/222442/)kpopn 2014-5-7
+20. [BEAST 日單曲 PV 預告](http://kpopn.com/2014/05/07/222442/) kpopn 2014-5-7
 21. [《Good Luck》歌如其名　為BEAST帶來好運？](http://hk.kpopstarz.com/articles/5858/20140701/good-luck-%E6%AD%8C%E5%A6%82%E5%85%B6%E5%90%8D%E3%80%80%E7%82%BAbeast%E5%B8%B6%E4%BE%86%E5%A5%BD%E9%81%8B.htm) kpopstarz 2014-7-1
 22. [BEAST、独立レーベル設立＆K-POP史上初10ヶ月連続リリース発表「容易いことではない」](http://mdpr.jp/k-enta/detail/1474328)modelpress 2015-3-16
-23. [張賢勝 5/8 SOLO 出輯](http://kpopn.com/2015/04/27/272849/)kpopn 2015-04-27
-24. [東雲7/1發表個人日文專輯](http://kpopn.com/2015/05/21/276783/)kpopn 2015-05-21
+23. [張賢勝 5/8 SOLO 出輯](http://kpopn.com/2015/04/27/272849/) kpopn 2015-04-27
+24. [東雲7/1發表個人日文專輯](http://kpopn.com/2015/05/21/276783/) kpopn 2015-05-21
 25. [BEAST7月20日公開先行曲《我要去工作了》](http://www.koreastardaily.com/tc/news/65216)韓星網 2015-07-16
 26. [“撲通撲通 LOVE”突破六百萬點擊](https://www.kpopn.com/2016/01/04/%e6%92%b2%e9%80%9a%e6%92%b2%e9%80%9a-love%e7%aa%81%e7%a0%b4%e5%85%ad%e7%99%be%e8%90%ac%e9%bb%9e%e6%93%8a/)Kpopn 2016-01-04
 27. [感性偶像魅力釋放！BEAST《蝴蝶》MV預告片令人心動！](http://www.vlovekpop.com/20160628-beast-2/) vlovekpop
 28. [沒被退團風波影響！BEAST新曲《Ribbon》橫掃音源榜單1位！](http://www.vlovekpop.com/20160706-beast/) vlovekpop
 29. [BEAST演唱會開始在即！海報預告不一樣的現場魅力](http://www.vlovekpop.com/20160816-beast/) vlovekpop
-30. [BEAST 成立 Around US Entertainment](http://kpopn.niusnews.com/=K0lka346)Kpopn
+30. [BEAST 成立 Around US Entertainment](http://kpopn.niusnews.com/=K0lka346) Kpopn
 31. [CUBE：張賢勝將與新成員重組 BEAST](http://kpopn.niusnews.com/=K2i665j5)
 32. [公司宣佈重回BEAST組3人團 張賢勝打臉「從沒聽過」](http://ent.ltn.com.tw/news/breakingnews/1971065)
 33. [尹斗俊梁耀燮等人新團名確定 Highlight展新出發](http://allthatstar.com/tw/view.php?action=5207&postID=315485)

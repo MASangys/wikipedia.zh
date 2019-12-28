@@ -22,11 +22,9 @@ D級採用[克虜伯的加工鋼作為它的裝甲](https://zh.wikipedia.org/wik
 [Category:德國海軍艦艇](https://zh.wikipedia.org/wiki/Category:德國海軍艦艇 "wikilink") [Category:未完成舰只](https://zh.wikipedia.org/wiki/Category:未完成舰只 "wikilink")
 
 1.  Gröner，第63頁。
-
 2.
 3.
 4.
-
 5.
 6.
 7.

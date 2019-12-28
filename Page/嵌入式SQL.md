@@ -170,6 +170,5 @@ IBM DB2的版本9中提供了对于C/C++，COBOL，Java等宿主语言的嵌入�
 [Category:数据库](https://zh.wikipedia.org/wiki/Category:数据库 "wikilink")
 
 1.
-
 2.
 3.

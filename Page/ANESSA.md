@@ -54,9 +54,7 @@
 ## 關聯項目
 
   - [資生堂](../Page/資生堂.md "wikilink")
-
   - [MAQuillAGE](https://zh.wikipedia.org/wiki/MAQuillAGE "wikilink")
-
   -
 ## 外部連結
 

@@ -117,7 +117,6 @@
 [Category:林原惠單曲](https://zh.wikipedia.org/wiki/Category:林原惠單曲 "wikilink") [Category:1996年單曲](https://zh.wikipedia.org/wiki/Category:1996年單曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")
 
 1.
-
 2.
 3.
 4.  與2003年7月之後的新制認定基準不一樣的是，當時舊制的認定基準是銷售量超過200,000張才能可得到金唱片的認定。

@@ -23,13 +23,8 @@ JKCS 041的发现将会对早期宇宙中结构演化理论进行检验，因为
 [Category:星系团](https://zh.wikipedia.org/wiki/Category:星系团 "wikilink") [Category:鲸鱼座](https://zh.wikipedia.org/wiki/Category:鲸鱼座 "wikilink") [Category:天文学](https://zh.wikipedia.org/wiki/Category:天文学 "wikilink")
 
 1.
-
 2.  BBC News, ["'Most distant' galaxy group spied"](http://news.bbc.co.uk/1/hi/england/bristol/8320570.stm), *Thursday, 22 October 2009* (accessed 2009-10-28)
-
 3.  [天文学家发现距地球102亿光年最遥远星系](http://news.xinhuanet.com/tech/2009-10/26/content_12327409.htm)
-
 4.  [科学家发现迄今最远星系团 距地球102亿光年](http://tech.qq.com/a/20091026/000037.htm)
-
 5.  [Galaxy Cluster Far, Far Away Smashes Distance Record](http://www.universetoday.com/2009/10/22/galaxy-cluster-far-far-away-smashes-distance-record/)
-
 6.

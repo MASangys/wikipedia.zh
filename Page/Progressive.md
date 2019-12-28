@@ -17,7 +17,6 @@
 ### DVD（初回生産限定盤）
 
 1.  progressive (Video Clip)
-
 2.
 ## 資料來源
 

@@ -2,9 +2,9 @@
 
 ## 介绍
 
-本張專輯的主打歌曲是《Lost Christmas》，以紀念[聖誕節](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")\[1\]。但《Corazon de Melao》這首歌曲引起了華語音樂界的廣泛追捧\[2\]，以及之後大量歌手的翻唱和重新演繹\[3\]。
+此張唱片的主打歌曲是紀念[聖誕節的](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")《Lost Christmas》\[1\]。而《Corazon de Melao》在華語音樂界引起廣泛追捧\[2\]，其後亦有多數歌手翻唱和重新演繹\[3\]。
 
-本張專輯收錄了十首英語歌曲、二首國語歌曲和二首粵語歌曲，《歡聚歡笑每一刻 Every Time A Good Time》由張學友本人作詞；《一路上》(國語版)、《捉迷藏》(粵語版)由張學友本人作曲。專輯中的粵語歌曲《一生一火花》為本張專輯重點主打歌曲之一。
+本張專輯收錄了十首英語歌曲、二首國語歌曲和二首粵語歌曲，《歡聚歡笑每一刻 Every Time A Good Time》由張學友與[孫維君](https://zh.wikipedia.org/wiki/孫維君 "wikilink")、[林明陽](../Page/林明陽.md "wikilink")共同作詞；《一路上》(國語版)、《捉迷藏》(粵語版)由張學友本人作曲。專輯中的粵語歌曲《一生一火花》為本張專輯重點主打歌曲之一。
 
 ## 曲目
 

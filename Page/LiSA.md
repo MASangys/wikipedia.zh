@@ -1,4 +1,4 @@
-**LiSA**（，）是[日本](../Page/日本.md "wikilink")的女[歌手](../Page/歌手.md "wikilink")，[岐阜縣出身](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")，曾為搖滾樂團「Love is Same All」的主唱。個人的獨特魅力和搖滾曲風令她倍受矚目。演唱歌曲也被用作許多知名[動畫的片頭曲和片尾曲](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，如《[刀劍神域I](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")/II/OVA/III》、《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》、《[Angel Beats](https://zh.wikipedia.org/wiki/Angel_Beats "wikilink")》、《[我的英雄學院](../Page/我的英雄學院.md "wikilink")》、《[魔法科高中的劣等生](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")》以及《[鬼滅之刃](../Page/鬼滅之刃.md "wikilink")》。現時LiSA唱片公司為[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")旗下的[SACRA MUSIC公司](../Page/SACRA_MUSIC.md "wikilink")。被不少粉絲稱為「搖滾精靈」、「刀劍御用歌姬」、「搖滾女神」等。
+**LiSA**（，）是[日本](../Page/日本.md "wikilink")的女[歌手](../Page/歌手.md "wikilink")，[岐阜縣出身](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")，曾為搖滾樂團「Love is Same All」的主唱。個人的獨特魅力和搖滾曲風令她倍受矚目。演唱歌曲也被用作許多知名[動畫的片頭曲和片尾曲](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，如《[刀劍神域I](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")/II/OVA/III》、《[穿透幻影的太陽](https://zh.wikipedia.org/wiki/穿透幻影的太陽 "wikilink")》、《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》、《[Angel Beats](https://zh.wikipedia.org/wiki/Angel_Beats "wikilink")》、《[我的英雄學院](../Page/我的英雄學院.md "wikilink")》、《[魔法科高中的劣等生](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")》以及《[鬼滅之刃](../Page/鬼滅之刃.md "wikilink")》。現時LiSA唱片公司為[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")旗下的[SACRA MUSIC公司](../Page/SACRA_MUSIC.md "wikilink")。被不少粉絲稱為「搖滾精靈」、「刀劍御用歌姬」、「搖滾女神」等。
 
 ## 事業
 
@@ -101,10 +101,33 @@
 
 ### Girls Dead Monster starring LiSA 專輯
 
-|       | 發售日        | 標題                                                            | 規格編號 | 最高位       |
-| ----- | ---------- | ------------------------------------------------------------- | ---- | --------- |
-| 初回限定盤 | 通常盤        |                                                               |      |           |
-| ※     | 2010年6月30日 | **[Keep The Beats\!](../Page/Keep_The_Beats!.md "wikilink")** |      | KSLA-0058 |
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>發售日</p></th>
+<th><p>標題</p></th>
+<th><p>規格編號</p></th>
+<th><p>最高位</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>初回限定盤</p></td>
+<td><p>通常盤</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>※</p></td>
+<td><p>2010年6月30日</p></td>
+<td><p><strong><a href="../Page/Keep_The_Beats!.md" title="wikilink">Keep The Beats!</a></strong></p></td>
+<td></td>
+<td><p>KSLA-0058</p></td>
+</tr>
+</tbody>
+</table>
 
 ### 個人名義單曲
 
@@ -128,6 +151,7 @@
 | \*       | 2018年1月9日   | ****                                                                                                    | 網路配信無實體光碟    |                |            |
 | 14th     | 2018年12月12日 | **[紅色陷阱(who loves it?)/ADAMAS](https://zh.wikipedia.org/wiki/紅色陷阱\(who_loves_it?\)/ADAMAS "wikilink")** | VVCL-1373/4  | VVCL-1370/1    | VVCL-1372  |
 | 15th     | 2019年7月3日   | **[紅蓮華](../Page/紅蓮華.md "wikilink")**                                                                    | VVCL-1461/2  | VVCL-1458/9    | VVCL-1460  |
+| 16th     | 2019年12月11日 | **[unlasting](https://zh.wikipedia.org/wiki/unlasting "wikilink")**                                     | VVCL-1583/4  | VVCL-1580/1    | VVCL-1582  |
 
 ### 專輯
 
@@ -187,11 +211,40 @@ VVCL-1042/3 (CD+DVD)</p></td>
 
 #### 迷你專輯
 
-|       | 發售日        | 主題   | 規格編號          | 最高位        |
-| ----- | ---------- | ---- | ------------- | ---------- |
-| 初回限定盤 | 通常盤        |      |               |            |
-| 1st   | 2011年4月20日 | **** |               | SVWC-7760  |
-| 2nd   | 2016年4月20日 | **** | SVWC-70141〜43 | SVWC-70144 |
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>發售日</p></th>
+<th><p>主題</p></th>
+<th><p>規格編號</p></th>
+<th><p>最高位</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>初回限定盤</p></td>
+<td><p>通常盤</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1st</p></td>
+<td><p>2011年4月20日</p></td>
+<td><p><strong></strong></p></td>
+<td></td>
+<td><p>SVWC-7760</p></td>
+</tr>
+<tr class="odd">
+<td><p>2nd</p></td>
+<td><p>2016年4月20日</p></td>
+<td><p><strong></strong></p></td>
+<td><p>SVWC-70141〜43</p></td>
+<td><p>SVWC-70144</p></td>
+</tr>
+</tbody>
+</table>
 
 ### 精選專輯
 
@@ -203,28 +256,29 @@ VVCL-1042/3 (CD+DVD)</p></td>
 
 ### 商業搭配
 
-| 曲名                      | 商業搭配                                                                                                           |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Thousand Enemies        | 電視動畫《[Angel Beats\!](../Page/Angel_Beats!.md "wikilink")》劇中歌                                                   |
-| Little Braver           |                                                                                                                |
-| oath sign               | 電視動畫《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》片頭曲                                       |
-| crossing field          | 電視動畫《[刀劍神域](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》艾恩葛朗特編 片頭曲                                          |
-| träumerei               | 電視動畫《[穿透幻影的太陽](https://zh.wikipedia.org/wiki/穿透幻影的太陽 "wikilink")》片頭曲                                           |
-| Rising Hope             | 電視動畫《[魔法科高中的劣等生](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")》片頭曲                                       |
-| No More Time Machine    | 電視動畫《[刀劍神域II](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》第二片尾曲                                             |
-| 印記（Shirushi）            | 電視動畫《[刀劍神域II](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》第三片尾曲                                             |
-| THIS ILLUSION           | 電視動畫《[Fate/stay night \[Unlimited Blade Works](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")\]》插入曲 |
-| Rally Go Round          | 電視動畫《[偽戀](../Page/偽戀.md "wikilink"):》片頭曲                                                                       |
-| ID                      | 遊戲《[電擊文庫 FIGHTING CLIMAX IGNITION](../Page/電擊文庫_FIGHTING_CLIMAX.md "wikilink")》主題曲                             |
-| Brave Freak Out         | 電視動畫《[Qualidea Code](../Page/Qualidea_Code.md "wikilink")》片頭曲                                                  |
-| AxxxiS                  |                                                                                                                |
-| Catch the Moment        | 動畫電影《[刀劍神域劇場版 -序列爭戰-](https://zh.wikipedia.org/wiki/刀劍神域劇場版_-序列爭戰- "wikilink")》主題曲                             |
-| だってアタシのヒーロー。            | 電視動畫《[我的英雄學院 第二期](../Page/我的英雄學院.md "wikilink")》第二片尾曲                                                          |
-| ASH                     | 電視動畫《[Fate/Apocrypha](https://zh.wikipedia.org/wiki/Fate/Apocrypha "wikilink")》第二片頭曲                           |
-| Thrill, Risk, Heartless | 遊戲《[刀劍神域：奪命凶彈](https://zh.wikipedia.org/wiki/刀劍神域_奪命凶彈 "wikilink")》主題曲                                         |
-| ADAMAS                  | 電視動畫《[刀劍神域 Alicization 篇](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片頭曲                                   |
-| narrative               | 動畫電影《[機動戰士鋼彈 NT](../Page/机动战士GUNDAM_NT.md "wikilink")》主題歌 \[3\]                                                |
-| 紅蓮華                     | 電視動畫《[鬼滅之刃](../Page/鬼滅之刃.md "wikilink")》片頭曲                                                                    |
+| 曲名                      | 商業搭配                                                                                                           | 時期    |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------- | ----- |
+| Thousand Enemies        | 電視動畫《[Angel Beats\!](../Page/Angel_Beats!.md "wikilink")》劇中歌                                                   | 2010年 |
+| Little Braver           |                                                                                                                |       |
+| oath sign               | 電視動畫《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》片頭曲                                       | 2011年 |
+| crossing field          | 電視動畫《[刀劍神域](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》艾恩葛朗特編 片頭曲                                          | 2012年 |
+| träumerei               | 電視動畫《[穿透幻影的太陽](https://zh.wikipedia.org/wiki/穿透幻影的太陽 "wikilink")》片頭曲                                           | 2013年 |
+| Rising Hope             | 電視動畫《[魔法科高中的劣等生](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")》片頭曲                                       | 2014年 |
+| No More Time Machine    | 電視動畫《[刀劍神域II](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》第二、三片尾曲                                           |       |
+| 印記（Shirushi）            |                                                                                                                |       |
+| THIS ILLUSION           | 電視動畫《[Fate/stay night \[Unlimited Blade Works](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")\]》插入曲 |       |
+| Rally Go Round          | 電視動畫《[偽戀](../Page/偽戀.md "wikilink"):》片頭曲                                                                       | 2015年 |
+| ID                      | 遊戲《[電擊文庫 FIGHTING CLIMAX IGNITION](../Page/電擊文庫_FIGHTING_CLIMAX.md "wikilink")》主題曲                             |       |
+| Brave Freak Out         | 電視動畫《[Qualidea Code](../Page/Qualidea_Code.md "wikilink")》片頭曲                                                  | 2016年 |
+| AxxxiS                  |                                                                                                                |       |
+| Catch the Moment        | 動畫電影《[刀劍神域劇場版 -序列爭戰-](https://zh.wikipedia.org/wiki/刀劍神域劇場版_-序列爭戰- "wikilink")》主題曲                             | 2017年 |
+| だってアタシのヒーロー。            | 電視動畫《[我的英雄學院 第二期](../Page/我的英雄學院.md "wikilink")》第二片尾曲                                                          |       |
+| ASH                     | 電視動畫《[Fate/Apocrypha](https://zh.wikipedia.org/wiki/Fate/Apocrypha "wikilink")》第二片頭曲                           |       |
+| Thrill, Risk, Heartless | 遊戲《[刀劍神域：奪命凶彈](https://zh.wikipedia.org/wiki/刀劍神域_奪命凶彈 "wikilink")》主題曲                                         | 2018年 |
+| ADAMAS                  | 電視動畫《[刀劍神域 Alicization 篇 第1部](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片頭曲                               |       |
+| narrative               | 動畫電影《[機動戰士鋼彈 NT](../Page/机动战士GUNDAM_NT.md "wikilink")》主題歌 \[3\]                                                |       |
+| 紅蓮華                     | 電視動畫《[鬼滅之刃](../Page/鬼滅之刃.md "wikilink")》片頭曲                                                                    | 2019年 |
+| unlasting               | 電視動畫《[刀劍神域 Alicization 篇 第2部](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片尾曲                               |       |
 
 ### 映像作品
 
@@ -261,8 +315,9 @@ VVCL-1042/3 (CD+DVD)</p></td>
   -
   -
   -
-  -
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:岐阜縣出身人物](https://zh.wikipedia.org/wiki/Category:岐阜縣出身人物 "wikilink") [Category:LiSA](https://zh.wikipedia.org/wiki/Category:LiSA "wikilink")
+  - [Lisa的YouTube](https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw)
+
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink") [Category:岐阜縣出身人物](https://zh.wikipedia.org/wiki/Category:岐阜縣出身人物 "wikilink") [Category:LiSA](https://zh.wikipedia.org/wiki/Category:LiSA "wikilink")
 
 1.
 2.  [【迷迷現場】「挖尬意哩！」秒殺歌姫LiSA再次登台 樂迷禮物全副穿上身](https://memeon-music.com/2017/12/10/lisa-report/)

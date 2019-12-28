@@ -95,9 +95,7 @@
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:花與夢](https://zh.wikipedia.org/wiki/Category:花與夢 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:雙胞胎題材漫畫](https://zh.wikipedia.org/wiki/Category:雙胞胎題材漫畫 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
 
 1.  《花與夢》2010年4號連載 廣播劇CD（該號附錄）解說頁。
-
 2.
 3.
 4.
-
 5.

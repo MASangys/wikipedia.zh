@@ -1,4 +1,4 @@
-**GAU-12/U**（，意為：平衡者）是一挺由[美国](../Page/美国.md "wikilink")[通用動力開發及製造的電力驅動](https://zh.wikipedia.org/wiki/通用動力 "wikilink")[加特林式](../Page/加特林机枪.md "wikilink")[机炮](https://zh.wikipedia.org/wiki/机炮 "wikilink")，发射[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[機炮](https://zh.wikipedia.org/wiki/機炮 "wikilink")[炮彈](../Page/炮彈.md "wikilink")。
+**GAU-12/U**（，意為：平衡者）是一挺由[美国](../Page/美国.md "wikilink")[通用動力開發及製造的電力驅動](https://zh.wikipedia.org/wiki/通用動力 "wikilink")[加特林式](../Page/加特林机枪.md "wikilink")[机炮](https://zh.wikipedia.org/wiki/机炮 "wikilink")，发射[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑機炮](https://zh.wikipedia.org/wiki/口徑 "wikilink")[炮彈](../Page/炮彈.md "wikilink")。
 
 GAU-12/U目前正被[美国](../Page/美国.md "wikilink")、[意大利](../Page/意大利.md "wikilink")及[西班牙](../Page/西班牙.md "wikilink")所使用，其中最主要是安裝在他們的[战斗机](../Page/战斗机.md "wikilink")上，例如[AV-8「獵鷹II式」](../Page/AV-8獵鷹II式攻擊機.md "wikilink")（）[攻击机](../Page/攻击机.md "wikilink")、[空中砲艇](https://zh.wikipedia.org/wiki/空中砲艇 "wikilink")（，例如[洛克希德AC-130U「幽靈式」空中砲艇](../Page/AC-130空中砲艇.md "wikilink")（））和陸上的[裝甲戰鬥車輛](../Page/裝甲戰鬥車輛.md "wikilink")。
 
@@ -136,7 +136,5 @@ GAU-12登場於[电影](../Page/电影.md "wikilink")、電視資訊節目和多
 3.
 4.
 5.
-
 6.  [General Dynamics GAU-22/A fact sheet](http://www.gdatp.com/files/PDF/A118_GAU22.pdf)
-
 7.  ["Norway contracts for F-35 ammunition."](http://www.upi.com/Business_News/Security-Industry/2010/11/29/Norway-contracts-for-F-35-ammunition/UPI-87971291045636/) *UPI*, 29 November 2010.

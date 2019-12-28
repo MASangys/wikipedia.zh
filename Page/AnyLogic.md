@@ -42,7 +42,7 @@
 
   - [光電](https://zh.wikipedia.org/wiki/光電 "wikilink")\[15\]
 
-最新的主要版本是AnyLogic 8.3，它是在2018年发布的. AnyLogic 8是[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") [模拟软件](https://zh.wikipedia.org/wiki/模拟软件 "wikilink")，可以在[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Mac OS上运行](https://zh.wikipedia.org/wiki/Mac_OS "wikilink") 和[Linux](../Page/Linux.md "wikilink")平台。 \[16\]
+最新的主要版本是AnyLogic 8.5，它是在2019年发布的. AnyLogic 8是[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") [模拟软件](https://zh.wikipedia.org/wiki/模拟软件 "wikilink")，可以在[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Mac OS上运行](https://zh.wikipedia.org/wiki/Mac_OS "wikilink") 和[Linux](../Page/Linux.md "wikilink")平台。 \[16\]
 
 ## AnyLogic與Java
 
@@ -111,43 +111,23 @@ AnyLogic包含了下列標準資料庫\[21\]:
 [Category:Mac_OS](https://zh.wikipedia.org/wiki/Category:Mac_OS "wikilink") [Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink") [Category:Windows軟體](https://zh.wikipedia.org/wiki/Category:Windows軟體 "wikilink")
 
 1.  Cynthia Nikolai, Gregory Madey. [Tools of the Trade: A Survey of Various Agent Based Modeling Platforms](http://jasss.soc.surrey.ac.uk/12/2/2/2.pdf), *Journal of Artificial Societies and Social Simulation vol. 12, no. 2 2*, 31 March 2009
-
 2.  Andrei Borshchev, Alexei Filippov. [From System Dynamics and Discrete Event to Practical Agent Based Modeling: Reasons, Techniques, Tools](http://web.ics.purdue.edu/~hwan/IE680/Final%20Presentation/Po-CHing/From%20SD%20and%20DE%20to%20Practical%20Agent%20Based%20Modeling%20Reasons%20Techniques%20Tools%2004.pdf),*The 22nd International Conference of the System Dynamics Society*, July 25 - 29, 2004, Oxford, England
-
 3.  Maxim Garifullin, Andrei Borshchev, Timofei Popkov. ["Using AnyLogic and Agent Based Approach to Model Consumer Market"](http://www.anylogic.com/articles/using-anylogic-and-agent-based-approach-to-model-consumer-market), *EUROSIM 2007*, [September](../Page/September.md "wikilink"), 2007.
-
 4.  Kirk Solo, Mark Paich [A Modern Simulation Approach for Pharmaceutical Portfolio Management](http://www.simnexus.com/SimNexus.PharmaPortfolio.pdf) , *SimNexus LLC*
-
 5.  Yuri G. Karpov, Rostislav I. Ivanovski, Nikolai I. Voropai, Dmitri B. Popov. [Hierarchical Modeling of Electric Power System Expansion by AnyLogic Simulation Software](http://www.sei.irk.ru/articles/2005.11.pdf), *2005 IEEE St. Petersburg PowerTech*, June 27-30, 2005, St. Petersburg, Russia
-
 6.  Michael Gyimesi, Johannes Kropf. ["C14 Supply Chain Management - AnyLogic 4.0"](http://www.argesim.org/uploads/tx_compdb/c14_anylogic_3536_85.pdf) , *Simulation News Europe*, [December](https://zh.wikipedia.org/wiki/December "wikilink"), 2002.
-
 7.  Ivanov D.A., Sokolov B., Kaeschel J. ["A multi-structural framework for adaptive supply chain planning and operations control with structure dynamics considerations"](http://www.tu-chemnitz.de/wirtschaft/bwl7/mitarbeiter/DMI/EJOR_Ivanov_Revised_2.pdf) , *European Journal of Operational Research*, 2009.
-
 8.  Ivanov D.A. ["Supply chain multi-structural (re)-design."](http://www.tu-chemnitz.de/wirtschaft/bwl7/mitarbeiter/DMI/ISCM_SCD.pdf) , *International Journal of Integrated Supply Management, No. 5(1), 19-37.*, 2009.
-
 9.  Ilmarts Dukulis, Gints Birzietis, Daina Kanaska. [Optimization models for biofuel logistic system](http://llufb.llu.lv/conference/engineering-rural/content/54_DukulisBirzietisKanaska.pdf), *Engineering for Rural Developments*, Jelvaga, 29-30 May 2008
-
 10. Peer-Olaf Siebers, Uwe Aickelin, Helen Celia, Chris W. Clegg. ["understanding Retail Productivity by Simulating Management Practices"](http://eprints.nottingham.ac.uk/591/1/07eurosim_agents.pdf), *EUROSIM 2007*, [September](../Page/September.md "wikilink"), 2007.
-
 11. Peer-Olaf Siebers, Uwe Aickelin, Helen Celia, Chris W. Clegg. ["A Multi-Agent Simulation of Retail Management Practices"](http://ima.ac.uk/papers/siebers2007d.pdf) , ''Proceedings of the Summer Computer Simulation Conference (SCSC 2007), 2007.
-
 12. Arnold Greenland, David Connors, John L. Guyton, Erica Layne Morrison, Michael Sebastiani. ["IRS post-filing processes simulation modeling: a comparison of DES with econometric microsimulation in tax administration"](http://www.informs-sim.org/wsc07papers/150.pdf) , *Proceedings of the 2007 Winter Simulation Conference*, 2007, Washington D.C., USA
-
 13. V.L. Makarov, V.A. Zitkov, A.R. Bakhtizin. ["An agent-based model of Moskow traffic jams"](http://s4.csregistry.org/tiki-download_file.php?fileId=21) , *Agent Based Spatial Simulation Workshop*, 24-25 November 2008, Paris, France
-
 14. David Buxton, Richard Farr, Bart Maccarthy. ["The Aero-engine Value Chain Under Future Business Environments: Using Agent-based Simulation to Understand Dynamic Behaviour"](http://www.docstoc.com/docs/3617420/September-Budapest-THE-AERO-ENGINE-VALUE-CHAIN-UNDER-FUTURE-BUSINESS), *MITIP2006*, 11-12 September, Budapest.
-
 15. Roland Sturm, Hartmut Gross, Jörg Talaga. [Material Flow Simulation of TF Production Lines –Results & Benefits (Example based on CIGS Turnkey)](http://www.acp-it.com/Portals/0/English/2009-03-05_PhotonConf_Simulation_final.pdf) , Photon equipment conference, March 2009, Munich.
-
 16. \[[https://www.anylogic.cn/downloads/\#requirements官方网站\]上的完整系统要求清单](https://www.anylogic.cn/downloads/#requirements官方网站%5D上的完整系统要求清单).
-
 17. Christian Wartha, Momtchil Peev, Andrei Borshchev, Alexei Filippov. [Decision Support Tool Supply Chain](http://www.informs-cs.org/wsc02papers/174.pdf) , *Proceedings of the 2002 Winter Simulation Conference*, 2002
-
 18. Explore different probability distributions and fit your own dataset online - [interactive tool](https://www.runthemodel.com/models/340/)
-
 19. Yuri G. Karpov. ["AnyLogic – a New Generation Professional Simulation Tool"](http://www.itlab.unn.ru/Uploads/AnyLogicNizhniNovgorod2004.pdf), *VI International Congress on Mathematical Modeling*, September 20-26th, 2004, NizniNovgorog, Russia
-
 20. [AnyLogic on-line help on official vendor web-site](http://www.anylogic.com/anylogic/help/)
-
 21.

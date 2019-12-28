@@ -565,7 +565,7 @@ T.M.R的曲子大部分为编排复杂的电子摇滚曲风，再加上西川贵
 </tr>
 <tr class="odd">
 <td><p>HOT LIMIT</p></td>
-<td><p>广告《朝日饮料》・《MITSUYA汽水》主题歌</p></td>
+<td><p>广告《朝日饮料》・《MITSUYA汽水》主题歌・Re:LIFE 第二集 片尾曲</p></td>
 </tr>
 <tr class="even">
 <td><p>THUNDERBIRD</p></td>

@@ -2,7 +2,7 @@
 
 ## 背景
 
-北京寰宇行思广告服务有限公司是[马来西亚](../Page/马来西亚.md "wikilink")寰宇集团在[北京设立的外资独资广告服务公司](https://zh.wikipedia.org/wiki/北京 "wikilink")，而马来西亚的[My FM正是寰宇所拥有的电台](../Page/MY_\(马来西亚电台\).md "wikilink")。
+北京寰宇行思广告服务有限公司是[马来西亚](../Page/马来西亚.md "wikilink")[Astro集团在](https://zh.wikipedia.org/wiki/Astro集团 "wikilink")[北京设立的外资独资广告服务公司](https://zh.wikipedia.org/wiki/北京 "wikilink")，而马来西亚的[My FM正是寰宇所拥有的电台](../Page/MY_\(马来西亚电台\).md "wikilink")。
 
 ## 成员
 
@@ -40,15 +40,15 @@
 
 频率100.5MHz，原[大港电台频率](https://zh.wikipedia.org/wiki/大港 "wikilink")。
 
-### [广州市广播电视台My](https://zh.wikipedia.org/wiki/广州市广播电视台 "wikilink") FM
+### [广州市广播电视台My](https://zh.wikipedia.org/wiki/广州市广播电视台 "wikilink") FM（[廣州廣播電視台青少年廣播](../Page/廣州廣播電視台青少年廣播.md "wikilink")）
 
-频率88.0MHz，原「飛揚88青年廣播」。
+频率88.0MHz，原「飛揚88青少年廣播」。
 
 ## 参考
 
 ## 外部链接
 
-  - [北京寰宇行思广告服务有限公司](http://www.adrepchina.com/)
+  - [北京寰宇行思广告服务有限公司](https://web.archive.org/web/20160415163832/http://www.adrepchina.com/)
   - [MYFM官方网站](http://www.myfmchina.com/)
 
 [Category:中国电台广播网](https://zh.wikipedia.org/wiki/Category:中国电台广播网 "wikilink")

@@ -51,6 +51,6 @@
 
   - [NVIDIA Quadro VX 產品主頁](http://www.nvidia.cn/object/product_quadro_vx_cn.html)
 
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:Quadro系列](https://zh.wikipedia.org/wiki/Category:Quadro系列 "wikilink") [Category:2008年面世的產品](https://zh.wikipedia.org/wiki/Category:2008年面世的產品 "wikilink")
 
 1.  [全新NVIDIA QUADRO VX 200让AutoCAD图形性能飙升20倍](http://www.nvidia.cn/object/io_1226047185472.html)

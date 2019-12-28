@@ -118,25 +118,16 @@
 [Category:英國歌曲](https://zh.wikipedia.org/wiki/Category:英國歌曲 "wikilink") [Category:英語歌曲](https://zh.wikipedia.org/wiki/Category:英語歌曲 "wikilink") [Category:_2008_年單曲](https://zh.wikipedia.org/wiki/Category:_2008_年單曲 "wikilink")
 
 1.
-
 2.  ["Lily Allen gets political in LA: Singer speaks out against President George W Bush"](http://www.nme.com/news/lily-allen/43881). *[NME](https://zh.wikipedia.org/wiki/NME "wikilink")*. April 3, 2009.
-
 3.  [Rolling Stone Album Review](http://www.rollingstone.com/reviews/album/25574875/review/25885625?utm_source=Rhapsody&utm_medium=CDreview). Jody Rosen. Feb 4, 2009.
-
 4.  [Lily Allen - Fuck You (Live At Brazil - São Paulo) - YouTube](http://www.youtube.com/watch?v=4kD6CkULxMs)
-
 5.
-
 6.
 7.
-
 8.
-
 9.  [Pop Payback:The British star’s caustic clip, made by French filmmakers, goes viral Wall Street Journal 2 July, 2009](http://online.wsj.com/article/SB10001424052970204556804574262371895054780.html?mod=googlenews_wsj)
-
 10.
 11.
-
 12.
 13.
 14.
@@ -145,21 +136,15 @@
 17.
 18.
 19.
-
 20.
-
 21.
 22.
 23.
-
 24.
 25.
 26.
 27.
-
 28.
 29.
-
 30.
-
 31.

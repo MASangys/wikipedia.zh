@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - **玄福**（Gen Fu，）
+  - **元福**（Gen Fu，）
 
 <!-- end list -->
 
@@ -45,7 +45,7 @@
 
 <!-- end list -->
 
-  - **麗鳳**（Lei-Fang，）
+  - **雷芳**（Lei-Fang，）
 
 <!-- end list -->
 
@@ -63,7 +63,7 @@
 
 <!-- end list -->
 
-  - **拜曼**（Bayman，）
+  - **貝曼**（Bayman，）
 
 <!-- end list -->
 

@@ -19,7 +19,7 @@
 
   - [支持论坛](https://web.archive.org/web/20061108002401/http://emuleplus.info/forum/)
 
-  - [eMule Plus 1.2e，eMuleFans电骡爱好者](http://emulefans.com/emule-plus-12e/)
+  - [eMule Plus 1.2e，eMuleFans电骡爱好者](https://web.archive.org/web/20100706060210/http://emulefans.com/emule-plus-12e/)
 
   - [eMule官方网站](http://www.emule-project.net/)
 

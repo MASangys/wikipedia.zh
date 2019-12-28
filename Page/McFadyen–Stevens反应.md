@@ -20,12 +20,6 @@ Dudman 等发展了一种不同的酰肼试剂。\[3\]
 
 ## 参考资料
 
-<div class="references-small">
-
-<references />
-
-</div>
-
 [Category:有机氧化还原反应](https://zh.wikipedia.org/wiki/Category:有机氧化还原反应 "wikilink") [Category:重排反应](https://zh.wikipedia.org/wiki/Category:重排反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.  McFadyen, J. S.; Stevens, T. S. *[J. Chem. Soc.](https://zh.wikipedia.org/wiki/J._Chem._Soc. "wikilink")* **1936**, 584.

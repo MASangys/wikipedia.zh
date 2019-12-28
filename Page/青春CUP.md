@@ -1,8 +1,6 @@
-《**青春CUP**》（）是[日本](../Page/日本.md "wikilink")漫画家[中田ゆみ的作品](https://zh.wikipedia.org/wiki/中田ゆみ "wikilink")，為[雙葉社月刊漫畫雑誌](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")《[Comic High\!](https://zh.wikipedia.org/wiki/Comic_High! "wikilink")》所連載校園漫画。改編的電視動畫於2010年1月於日本播放，漫畫由臺灣東立出版社代理發行。
+《**青春CUP**》（）是[日本](../Page/日本.md "wikilink")漫画家[中田ゆみ的作品](https://zh.wikipedia.org/wiki/中田ゆみ "wikilink")，為[雙葉社月刊漫畫雑誌](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")《[Comic High\!](https://zh.wikipedia.org/wiki/Comic_High! "wikilink")》所連載校園漫画，中文版由臺灣[東立出版社](../Page/東立出版社.md "wikilink")代理發行。2009年6月22日宣布製作動畫\[1\]，2010年1月於開始播放。\[2\]
 
-## 简介
-
-主人公葉山奈由在學校創立貼身衣物社的相关故事。
+## 故事简介
 
 ## 登場人物
 
@@ -14,7 +12,7 @@
     奈由的同班同学，因為是大阪出身所以有關西腔調。與神宮寺弥子是好友。擔當著三位弟弟的姊姊。
     小學時代因為自己的胸部比同齡生發育的早且曾被男生們因此給言語上的霸凌，所以在一段時間內對此很自卑。
   -
-    奈由的同班同学。家中經營[劍道](../Page/劍道.md "wikilink")道場，母親為學校教師。好像经常在看历史小说的单行本\[1\]。
+    奈由的同班同学。家中經營[劍道](../Page/劍道.md "wikilink")道場，母親為學校教師。好像经常在看历史小说的单行本\[3\]。
   -
     就读于私立樱南中学1年级E班。喜歡化妝，曾在學校的周會進行服裝儀容檢查時因此仗義執言。
     家境比其他三人富裕，擔任過模特兒與時尚雜誌的封面人物。對於內衣的知識遠超過奈由所知道的，同時也知道跟情趣內衣有關的一切。
@@ -58,12 +56,57 @@
 
 ## 出版資訊
 
-| 出版順序 | ISBN（日）                | ISBN（中）                | 發行（日）       | 發行（中）             |
-| ---- | ---------------------- | ---------------------- | ----------- | ----------------- |
-| 第1卷  | ISBN 978-4-575-83416-1 | ISBN 978-986-10-1652-8 | 2007年10月12日 | 2008年4月21日 |----- |
-| 第3卷  | ISBN 978-4-575-83591-5 | ISBN 978-986-10-3492-8 | 2009年3月12日  | 2009年6月5日 |-----  |
-| 第5卷  | ISBN 978-4-575-83753-7 | ISBN 978-9-861-05555-8 | 2010年4月12日  | 2010年8月26日 |----- |
-| 第7卷  | ISBN 978-4-575-83927-2 | ISBN 978-9-861-08396-4 | 2011年7月12日  | 2012年7月9日         |
+<table>
+<thead>
+<tr class="header">
+<th><p>集數</p></th>
+<th><p><a href="../Page/一迅社.md" title="wikilink">一迅社</a></p></th>
+<th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2007年10月12日</p></td>
+<td><p>ISBN 978-4-575-83416-1</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2008年5月12日</p></td>
+<td><p>ISBN 978-4-575-83483-3</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2009年3月12日</p></td>
+<td><p>ISBN 978-4-575-83591-5</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2009年11月12日</p></td>
+<td><p>ISBN 978-4-575-83693-6</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2010年4月12日</p></td>
+<td><p>ISBN 978-4-575-83753-7</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2010年12月11日</p></td>
+<td><p>ISBN 978-4-575-83848-0</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2011年7月12日</p></td>
+<td><p>ISBN 978-4-575-83927-2</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 电视动画
 
@@ -169,7 +212,7 @@
 <td><p>揺れるオトコ心</p></td>
 <td><p>摇摆的少年心</p></td>
 <td><p>大知慶一郎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/森脇真琴" title="wikilink">森脇真琴</a></p></td>
+<td><p><a href="../Page/森脇真琴.md" title="wikilink">森脇真琴</a></p></td>
 <td><p>高林久弥</p></td>
 <td><p>山村俊了</p></td>
 <td><p>塩川貴史</p></td>
@@ -256,7 +299,7 @@
 <tr class="even">
 <td><p><a href="../Page/萬代頻道.md" title="wikilink">萬代頻道</a></p></td>
 <td><p>2010年1月12日 - 3月30日</p></td>
-<td><p>周一 更新[2]</p></td>
+<td><p>周一 更新[4]</p></td>
 <td><p><a href="../Page/网络电视.md" title="wikilink">网络播放</a></p></td>
 <td><p>第1話免费<br />
 第2話开始收费</p></td>
@@ -282,7 +325,7 @@
 | [CHU music×BRA drama](../Page/CHU_music×BRA_drama.md "wikilink") | [原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink") | 2010年4月21日 |     |
 |                                                                  |                                                       |            |     |
 
-## 脚注
+## 參考來源
 
 ## 外部連結
 
@@ -296,5 +339,7 @@
 
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Comic_High\!](https://zh.wikipedia.org/wiki/Category:Comic_High! "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:2010年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2010年日本電視動畫 "wikilink") [Category:AT-X動畫](https://zh.wikipedia.org/wiki/Category:AT-X動畫 "wikilink")
 
-1.  弥子读的各单行本的标题有：STEP.1『剣豪伝説』、STEP.2『家康的影武者』、STEP.3『戦国武\*\*\*（以下不明）』、STEP.4『信長的野望』、STEP.5『最後的武士3』等等。其它集数中登场时也有描写她在一边读单行本一边走路的样子。
-2.  第1話周二播放。
+1.
+2.
+3.  弥子读的各单行本的标题有：STEP.1『剣豪伝説』、STEP.2『家康的影武者』、STEP.3『戦国武\*\*\*（以下不明）』、STEP.4『信長的野望』、STEP.5『最後的武士3』等等。其它集数中登场时也有描写她在一边读单行本一边走路的样子。
+4.  第1話周二播放。

@@ -599,36 +599,28 @@ YOSHIKI也決定要向主流市場進攻了。『要讓世界上更多的人聽�
 ## 引用
 
 1.  X JAPAN歷年大事表：http://www.wretch.cc/blog/cygnusx523/16655807
-
 2.
 3.
 4.
 5.
 6.  X的出道經過：http://blog.roodo.com/yxl/archives/6075371.html
-
 7.  X JAPAN台灣官網《樂團歷史》：
-
 8.
 9.
 10.
 11. 《ROSE & BLOOD TOUR》延期通知 ：http://www.wretch.cc/blog/cygnusx523/16646666
-
 12. 命運多舛的JEALOUSY完整版：http://blog.roodo.com/yxl/archives/6060025.html
-
 13.
 14.
 15. L.A緊急記者會見採訪內容：http://www.wretch.cc/blog/cygnusx523/16646905
-
 16.
 17.
 18.
 19.
 20. 東京巨蛋3DAYS緊急發布記者會：http://www.wretch.cc/blog/cygnusx523/16849730
-
 21.
 22.
 23. TAIJI離團公告：http://www.wretch.cc/blog/cygnusx523/9701733
-
 24.
 25.
 26.
@@ -639,76 +631,41 @@ YOSHIKI也決定要向主流市場進攻了。『要讓世界上更多的人聽�
 31.
 32.
 33. HIDE過世時的日本、香港、台灣新聞：http://www.wretch.cc/blog/cygnusx523/7131496
-
 34. HIDE的死，是自殺還是意外?：http://www.wretch.cc/blog/cygnusx523/9249609
-
 35.
 36. 2006.7.6在法國巴黎舉辦X JAPAN歌迷直排輪遊行：?
-
 37. X JAPAN復出的消息發展整理：http://www.wretch.cc/blog/cygnusx523/16853234
-
 38.
 39. TOSHI 2007年3月21日留言 【超越千言萬語的一首歌】：http://www.wretch.cc/blog/cygnusx523/11598731
-
 40.
 41. X JAPAN今年復活 團長YOSHIKI親口證實：http://tw.news.yahoo.com/article/url/d/a/070604/35/fbi3.html
-
 42. X JAPAN 10・17 再始動！：http://www.xjapan.ne.jp/new_c/index.html
-
 43. 日傳奇搖滾團「X JAPAN」復出 大手筆拍MV：http://tw.news.yahoo.com/article/url/d/a/071018/35/mlrj.html
-
 44. 萬人擁護X JAPAN 擠爆台場：http://news.sina.com.tw/ents/mingpao/cn/2007-10-24/045012737939.shtml
-
 45. YOSHIKI、復活ライブは「危ないコンサートにしたい」と早くも戦闘態勢：http://contents.oricon.co.jp/news/music/51268/full/
-
 46. X JAPAN復活演唱會 15萬張門票被秒殺：http://tw.news.yahoo.com/article/url/d/a/080225/35/u58s.html
-
 47. 「X JAPAN」8月來台開唱 YOSHIKI為東京巨蛋演唱會滴酒不沾：
-
 48. X JAPAN緊急会見でNY公演＆ベスト盤制作を発表：http://natalie.mu/news/show/id/6390
-
 49. hide memorial summit 開催決定！：http://www.xjapan.ne.jp/info/info13.html
-
 50. Hide Memorial Summit-台灣公演決定：http://www.youtube.com/watch?v=_eGwOGu2-Jw
-
 51. X JAPAN台灣演唱會主辦單位揭曉！是滾石風雲唱片！：http://www.wretch.cc/blog/gutsjpop\&article_id=7204301
-
 52. X JAPAN 台灣官方網站成立！重大發表！：http://www.wretch.cc/blog/gutsjpop/7220388
-
 53. X JAPAN韓國官方網站：http://www.xjapan.kr
-
 54. 官方網站中文版公告：http://www.xjapan.ne.jp/info/taipai.html
-
 55. X JAPAN法國官方網站：http://www.xjapan-france.com/
-
 56. X JAPAN英國官方網站：
-
 57. X JAPAN香港官方網站：http://www.xjapan.com.hk/
-
 58. X JAPAN泰國官方網站：http://www.xjapan.in.th/
-
 59. YOSHIKI點亮101大樓「WE ARE X」 2千樂迷塞爆信義區：http://tw.news.yahoo.com/article/url/d/a/080916/35/16173.html
-
 60. X JAPAN中國官方網站：http://www.xjapan-china.com/
-
 61. X JAPAN COUNTDOWN GIG ～初心に帰って～相關重要公告：
-
 62. X JAPAN 2月14日台灣演唱會宣佈延期：http://tw.news.yahoo.com/article/url/d/a/090109/35/1cp7u.html
-
 63. X JAPAN在香港引起了“事件”：http://www.barks.jp/news/?id=1000046380
-
 64. X JAPAN台灣開唱勢在必行 與樂迷相約5月30日：http://tw.news.yahoo.com/article/url/d/a/090324/35/1glni.html
-
 65. X JAPAN再出發 世界巡演開唱：http://udn.com/NEWS/ENTERTAINMENT/ENT5/4886119.shtml
-
 66. X JAPAN暴走演出3小時 2萬樂迷齊跳X JUMP超壯觀：http://tw.news.yahoo.com/article/url/d/a/090530/35/1ke07.html
-
 67. 鳥巢不能使用，X JAPAN北京公演延期：
-
 68. X Japan in California 2010：http://jrocknation.com/
-
 69. １３年ぶり！Ｘ　ＪＡＰＡＮシングル発売：
-
 70. Ｘ　ＪＡＰＡＮがサマソニ出演　ＴＡＩＪＩさん追悼：http://www.sponichi.co.jp/entertainment/news/2011/08/15/kiji/K20110815001417000.html
-
 71. X JAPAN、＜a-nation＞に電撃出演、DVD発売も明らかに：http://headlines.yahoo.co.jp/hl?a=20110827-00000754-bark-musi

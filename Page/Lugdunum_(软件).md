@@ -16,7 +16,7 @@ Lugdunum软件名称源于[法国城市](https://zh.wikipedia.org/wiki/法国 "w
 
   - [法文lugdunum站点](http://lugdunum.shortypower.org/)
 
-  - [如何创建一台ED2K服务器， Lugdunum的使用与设置](http://emulefans.com/help-server-lugdunum/)
+  - [如何创建一台ED2K服务器， Lugdunum的使用与设置](https://web.archive.org/web/20101122004654/http://emulefans.com/help-server-lugdunum/)
 
   - <http://lugdunum.shortypower.org> ，一个非官方的资料站点
 

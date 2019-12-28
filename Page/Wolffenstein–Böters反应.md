@@ -13,12 +13,6 @@
 
 ## 参考资料
 
-<div class="references-small">
-
-<references/>
-
-</div>
-
 ## 外部链接
 
   - The Bohn-Schmidt reaction @ Institute of Chemistry, Skopje, Macedonia [Link](https://web.archive.org/web/20070507075248/http://www.pmf.ukim.edu.mk/PMF/Chemistry/reactions/bohn-schmidt_r_e.htm)

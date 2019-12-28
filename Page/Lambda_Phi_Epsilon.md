@@ -107,7 +107,7 @@ Lambda Phi Epsilon（ΛΦΕ）於1981年2月25日創立。會色為[皇室藍和
 
   - [Asians for Miracle Marrow Matches](http://www.asianmarrow.org/)
 
-  - [Cammy Lee Leukemia Foundation](http://www.cllf.org/)
+  - [Cammy Lee Leukemia Foundation](https://web.archive.org/web/20100919152443/http://cllf.org/)
 
   - [In Memory of Phanta Jack Phoummarath/Educational Video](http://inmemoryofjack.com/)
 

@@ -2,7 +2,7 @@
 
 該系列產品在最初準備發表時，人們曾認為將命名為[GeForce 300系列](https://zh.wikipedia.org/wiki/GeForce_300 "wikilink")，但在2010年2月初，nVIDIA通過在[Twitter](../Page/Twitter.md "wikilink")和[Facebook](../Page/Facebook.md "wikilink")的官方帳戶發出消息，下一代Fermi核心的首發兩款產品將被命名為**GeForce 400**系列，分別為GTX 470和GTX 480。而GeForce 300系列將使用在[OEM市場](https://zh.wikipedia.org/wiki/OEM "wikilink")，就像之前的[GeForce 100系列](https://zh.wikipedia.org/wiki/GeForce_100 "wikilink")。
 
-由於NVIDIA需要針對DirectX 11而重新設計顯示核心，所以GTX 480的推出比對手AMD慢了不少。後者只是在舊有顯示核心，加上對新Shader Model指令的支持，並沒有針對DirectX 11而優化\[2\]。
+由於NVIDIA需要針對DirectX 11而重新設計顯示核心，所以GTX 480的推出時程比對手AMD慢了不少。後者只是在舊有顯示核心，加上對新Shader Model指令的支持，並沒有針對DirectX 11而優化\[2\]。
 
 ## 架構介紹
 
@@ -91,51 +91,29 @@ Direct Compute可以加強圖形特效。例如不同物件的半透明效果，
   - [NVIDIA主頁](http://www.nvidia.com/)
   - [Next Generation CUDA Architecture, Code Named Fermi](http://www.nvidia.com/object/fermi_architecture.html)
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:GeForce系列](https://zh.wikipedia.org/wiki/Category:GeForce系列 "wikilink") [Category:2010年面世的產品](https://zh.wikipedia.org/wiki/Category:2010年面世的產品 "wikilink")
 
 1.  [全新世代 CUDA 架構 – 代號 “[Fermi](../Page/恩里科·费米.md "wikilink")”](http://www.nvidia.com.tw/object/fermi_architecture_tw.html)
-
 2.  [革命性DX11架构！GTX480/470权威评测](http://www.pcpop.com/doc/0/508/508221_1.shtml)
-
 3.  [3D Vision Surround 技術](http://www.nvidia.com.tw/object/3D_Vision_Surround_Technology_tw.html)
-
 4.  [跨入GF100新时代\!GeForce GTX480评测](http://www.inpai.com.cn/doc/hard/119945_10.htm)
-
 5.  [星空下闪耀的双子星 NVIDIA GeForce GTX 560评测首发](http://www.itocp.com/htmls/39/n-2339-2.html)
-
 6.  geforce.com: [GeForce 405 OEM](http://www.geforce.com/hardware/desktop-gpus/geforce-405-oem)
-
 7.  nvidia.com: [GeForce GT 420](http://www.nvidia.com/object/product-geforce-gt-420-oem-us.html)
-
 8.  nvidia.com [GeForce GT 430](http://www.nvidia.com/object/product-geforce-gt-430-us.html)
-
 9.  nvidia.com: [GeForce GT 430 OEM](http://www.nvidia.com/object/product-geforce-gt-430-oem-us.html)
-
 10. nvidia.com: [GeForce GT 440 OEM](http://www.nvidia.com/object/product-geforce-gt-440-oem-us.html)
-
 11. nvidia.com: [GeForce GT 440](http://www.nvidia.com/object/product-geforce-gt-440-us.html)
-
 12. nvidia.com: [GeForce GTS 450](http://www.nvidia.com/object/product-geforce-gts-450-us.html)
-
 13. nvidia.com: [GeForce GTS 450 OEM](http://www.nvidia.com/object/product-geforce-gts-450-oem-us.html)
-
 14.
 15. nvidia.com: [GeForce GTX 460 OEM](http://www.nvidia.com/object/product-geforce-gtx-460-oem-us.html)
-
 16. nvidia.com: [GeForce GTX 460](http://www.nvidia.com/object/product-geforce-gtx-460-us.html)
-
 17. nvidia.com: [GeForce GTX 465](http://www.nvidia.com/object/product-geforce-gtx-465-us.html)
-
 18. 驅動之家: [GTX 465变身记 索泰GTX 465极速版破解实战](http://hardware.mydrivers.com/2/168/168361.htm)
-
 19. nvidia.com: [GeForce GTX 470](http://www.nvidia.com/object/product_geforce_gtx_470_us.html)
-
 20. nvidia.com: [GeForce GTX 480](http://www.nvidia.com/object/product_geforce_gtx_480_us.html)
-
 21. nvidia.com: [GeForce GTX 460M](http://www.nvidia.com/object/product-geforce-gtx-460m-us.html)
-
 22. nvidia.com: [GeForce GTX 470M](http://www.nvidia.com/object/product-geforce-gtx-470m-us.html)
-
 23. nvidia.com: [GeForce GTX 480M](http://www.nvidia.com/object/product-geforce-gtx-480m-us.html)
-
 24. nvidia.com: [GeForce GTX 485M](http://www.nvidia.com/object/product-geforce-gtx-485m-us.html)

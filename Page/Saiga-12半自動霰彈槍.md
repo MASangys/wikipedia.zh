@@ -1,8 +1,8 @@
-**Saiga-12**（）是一系列由[俄罗斯](../Page/俄罗斯.md "wikilink")聯邦槍械製造商（，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Izhmash；現稱：卡拉什尼科夫集團，（，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Kontsern Kalashnikova，）於1990年代以[卡拉什尼科夫的](https://zh.wikipedia.org/wiki/米哈伊尔·季莫费耶维奇·卡拉什尼科夫 "wikilink")[AK系列為藍本所研製及生產](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[戰鬥](https://zh.wikipedia.org/wiki/戰鬥霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，設計時還預備了可以轉換成為不同[口徑的型號的空間](https://zh.wikipedia.org/wiki/口徑 "wikilink")，例如其口徑設為[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")、[20鉛徑霰彈和](https://zh.wikipedia.org/wiki/霰彈 "wikilink")[.410 bore](https://zh.wikipedia.org/wiki/.410號徑霰彈 "wikilink")。
+**Saiga-12**（）是一系列由[俄罗斯](../Page/俄罗斯.md "wikilink")聯邦槍械製造商（，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Izhmash；現稱：卡拉什尼科夫集團，（，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Kontsern Kalashnikova，）於1990年代以[卡拉什尼科夫的](https://zh.wikipedia.org/wiki/米哈伊尔·季莫费耶维奇·卡拉什尼科夫 "wikilink")[AK系列為藍本所研製及生產的](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[戰鬥](https://zh.wikipedia.org/wiki/戰鬥霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，設計時還預備了可以轉換成為不同[口徑的型號的空間](https://zh.wikipedia.org/wiki/口徑 "wikilink")，例如其口徑設為[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")、[20鉛徑霰彈和](https://zh.wikipedia.org/wiki/霰彈 "wikilink")[.410 bore](https://zh.wikipedia.org/wiki/.410號徑霰彈 "wikilink")。
 
 與各種卡拉什尼科夫步槍的衍生型一樣，它是以[轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")、[氣動式所操作和使用](../Page/氣動式_\(槍械\).md "wikilink")[彈匣](../Page/彈匣.md "wikilink")供彈的槍械。所有Saiga-12的型號的[機匣右側都裝有可識別為卡拉什尼科夫樣式槍族的大型保險槓桿](https://zh.wikipedia.org/wiki/機匣 "wikilink")，可以裝設在機匣左側用以安裝光學瞄準鏡的，以及裝設上機匣頂部以保護裝置於後方的反沖彈簧組件的大型。
 
-設計以上留有容沙槽還使得AK系列贏得高度的可靠性—尤其對於半自動霰彈槍而言可是莫大的恩惠，而在該槍以前的半自動霰彈槍類別武器往往都顯得不可靠。該霰彈槍幾乎完全由金屬板沖壓件所製造，可使其容易[大量生產](../Page/大量生產.md "wikilink")和隨時負擔得起高[膛壓彈藥](https://zh.wikipedia.org/wiki/膛壓 "wikilink")。
+設計以上留有容沙槽還使得AK系列贏得高度的可靠性，而在該槍以前的半自動霰彈槍類別武器往往都顯得不可靠。該霰彈槍幾乎完全由金屬板沖壓件所製造，可使其容易[大量生產](../Page/大量生產.md "wikilink")和隨時負擔得起高[膛壓彈藥](https://zh.wikipedia.org/wiki/膛壓 "wikilink")。
 
 Saiga-12是由俄羅斯伊茨瑪希工廠的武器部門所生產。在以前，該霰彈槍曾經由歐洲美國軍械庫（）[出口到美國](https://zh.wikipedia.org/wiki/出口 "wikilink")；不過其[合約在](../Page/契约.md "wikilink")2005年到期以後，接著伊茨瑪希工廠透過位於美國[印第安纳州](../Page/印第安纳州.md "wikilink")[斯科茨堡的俄羅斯](https://zh.wikipedia.org/wiki/斯科茨堡 "wikilink")—美國軍械庫公司（，簡稱：RAAC）出口；目前的出入口合作夥伴則是[野狼性能武器公司](https://zh.wikipedia.org/wiki/野狼性能武器公司 "wikilink")。\[1\]
 
@@ -10,9 +10,9 @@ Saiga-12是由俄羅斯伊茨瑪希工廠的武器部門所生產。在以前，
 
 ## 來自卡拉什尼科夫平台的創新
 
-所有的Saiga-12都是基於卡拉什尼科夫的[AK系列的傳統基本操作系统設計](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")，特別是在[AK-74](../Page/AK-74突击步枪.md "wikilink")。採用[氣動式操作系统](../Page/氣動式_\(槍械\).md "wikilink")，導氣管位於[槍管](../Page/槍管.md "wikilink")上方，可識別為卡拉什尼科夫樣式槍族、在保險位置時亦作為防塵蓋的一部份的大型[快慢機選擇桿及](../Page/擊發調變槍械.md "wikilink")位於[機匣右側](https://zh.wikipedia.org/wiki/機匣 "wikilink")，以及可以裝在機匣左側以安裝光學瞄準鏡的。更換彈匣也是典型的卡拉什尼科夫樣式，可以單手完成。其傳統設計經受住了時間以及從東南亞到北極地區極嚴酷環境條件下無數次作戰使用的考驗，在目前所有的這些槍械結構中，被證明是最可靠的。儘管Saiga-12是基於AK系列的基本操作系统，不過Saiga-12也在許多方面與卡拉什尼柯夫步槍不同，它採用了幾項在AK-47和類似的步槍都不存在的特別功能。\[2\]
+所有的Saiga-12都是基於卡拉什尼科夫的[AK系列的傳統基本操作系统設計](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")，特別是在[AK-74](../Page/AK-74突击步枪.md "wikilink")。採用[氣動式操作系统](../Page/氣動式_\(槍械\).md "wikilink")，導氣管位於[槍管](../Page/槍管.md "wikilink")上方，可識別為卡拉什尼科夫樣式槍族、在保險位置時亦作為防塵蓋的一部份的大型[快慢機選擇桿及](../Page/擊發調變槍械.md "wikilink")位於[機匣右側](https://zh.wikipedia.org/wiki/機匣 "wikilink")，以及可以裝在機匣左側以安裝光學瞄準鏡的。更換彈匣也是典型的卡拉什尼科夫樣式，可以單手完成。其傳統設計經受住了時間以及從東南亞到北極地區極嚴酷環境條件下無數次作戰使用的考驗，在目前所有的這些槍械結構中，被證明是最可靠的。儘管Saiga-12是基於AK系列的基本操作系统，不過Saiga-12也在許多方面與卡拉什尼柯夫步槍不同，它採用了幾項在AK和類似的步槍都不存在的特別功能。\[2\]
 
-例如，由於[12鉛徑霰彈這種](https://zh.wikipedia.org/wiki/霰彈 "wikilink")[彈藥的寬度已經是AK](https://zh.wikipedia.org/wiki/彈藥 "wikilink")-47採用的[7.62×39毫米步槍子彈的兩倍多](../Page/7.62×39mm.md "wikilink")，因此必須加大防塵蓋的拋殼口的大小。不過，由於[槍機必須保持相同的長度](https://zh.wikipedia.org/wiki/槍機 "wikilink")，以符合AK-47[機匣內部的大小](https://zh.wikipedia.org/wiki/機匣 "wikilink")，槍機後方的部分是由一塊裝置在反沖彈簧上方而且可以滑動的金屬蓋片所覆蓋。這使得此槍的槍機向前復進並且閉鎖以防止污垢進入槍內，而發射時的過程之中反沖彈簧會壓縮，並且令金屬拋殼蓋片向後滑動以利用[拋殼口將發射後的](https://zh.wikipedia.org/wiki/拋殼口 "wikilink")[彈殼拋出槍外](https://zh.wikipedia.org/wiki/彈殼 "wikilink")。\[3\]
+例如，由於[12鉛徑霰彈這種](https://zh.wikipedia.org/wiki/霰彈 "wikilink")[彈藥的寬度已經是AK採用的](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[7.62×39毫米步槍子彈的兩倍多](../Page/7.62×39mm.md "wikilink")，因此必須加大防塵蓋的拋殼口的大小。不過，由於[槍機必須保持相同的長度](https://zh.wikipedia.org/wiki/槍機 "wikilink")，以符合AK[機匣內部的大小](https://zh.wikipedia.org/wiki/機匣 "wikilink")，槍機後方的部分是由一塊裝置在反沖彈簧上方而且可以滑動的金屬蓋片所覆蓋。這使得此槍的槍機向前復進並且閉鎖以防止污垢進入槍內，而發射時的過程之中反沖彈簧會壓縮，並且令金屬拋殼蓋片向後滑動以利用[拋殼口將發射後的](https://zh.wikipedia.org/wiki/拋殼口 "wikilink")[彈殼拋出槍外](https://zh.wikipedia.org/wiki/彈殼 "wikilink")。\[3\]
 
 Saiga-12的[機械瞄具](../Page/機械瞄具.md "wikilink")是由表尺、[準星組成](../Page/照準器.md "wikilink")，珠形準星由[黃銅製成](https://zh.wikipedia.org/wiki/黃銅 "wikilink")，在導氣管上方設有一個瞄準肋條，瞄準肋條後端有兩個向上的凸起，形成了表尺的缺口式[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")。瞄準肋條有助於快速瞄準。  由於霰彈藥筒採用突緣式彈殼，這給彈匣供彈帶來一定的困難，而設計者在Saiga-12的彈匣中採用一個鋼製導軌。該導軌有兩個作用：首先，它能確保霰彈藥筒在彈匣中的恰當位置，使每個彈的底緣在下一發彈底緣的前面。其次，該導軌還能確保彈匣中最上一發彈的[角度相對正確](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")，以確保可靠供彈。
 
@@ -280,42 +280,26 @@ Saiga霰彈槍系列同時出現在多個[电影](../Page/电影.md "wikilink")�
 [Category:半自動霰彈槍](https://zh.wikipedia.org/wiki/Category:半自動霰彈槍 "wikilink") [Category:.410_bore槍械](https://zh.wikipedia.org/wiki/Category:.410_bore槍械 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:俄羅斯霰彈槍](https://zh.wikipedia.org/wiki/Category:俄羅斯霰彈槍 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.  [俄羅斯聯邦槍械管制法—第6條—銷售受到實施規例所限制的民用及軍用武器](http://www.zakonrf.info/zoboruzhii/6/)
-
 7.  [俄羅斯聯邦槍械管制法—第4條—攻擊性武器](http://www.zakonrf.info/zoboruzhii/4/)
-
 8.
 9.  [IZHMASH—18.5 KS-K military shotgun](http://www.izhmash.ru/eng/product/ks-k.shtml)
-
 10. [IZHMASH—SAIGA-20 self-loading smooth bored shotgun](http://www.izhmash.ru/eng/product/saiga-20.shtml)
-
 11. [IZHMASH—Saiga-410 Self-loading smooth bored shotgun](http://www.izhmash.ru/eng/product/saiga-410.shtml)
-
 12. [IZHMASH—SAIGA self-loading hunting carbines](http://www.izhmash.ru/eng/product/saiga.shtml)
-
 13. [俄羅斯聯邦槍械管制法—第13條—俄羅斯聯邦公民獲取武器的權利](http://www.zakonrf.info/zoboruzhii/13/)
-
-14. [2008年危險武器管制法（2008 Dangerous Weapons Control Law）](http://ag.ca.gov/firearms/dwcl/12275.php)，加州總檢察長辦公室
-
+14. [2008年危險武器管制法（2008 Dangerous Weapons Control Law）](http://ag.ca.gov/firearms/dwcl/12275.php) ，加州總檢察長辦公室
 15.
-
 16.
-
 17. [Boston.com－Crisis in Kyrgyzstan](http://www.boston.com/bigpicture/2010/04/crisis_in_kyrgyzstan.html)
-
 18. 1992年8月14日俄羅斯聯邦政府第587號決議案「關於私家偵探及保安活動」（Постановление Правительства РФ № 587 от 14 августа 1992 года "Вопросы частной детективной и охранной деятельности"）
-
 19. 2005年4月4日俄羅斯聯邦政府第179號決議案（Постановление Правительства РФ № 179 от 4 апреля 2005 года）
-
 20. “俄羅斯聯邦內部事務部採用卡賓槍”
     [“18.5 KS-K”特種卡賓槍](http://www.arms-expo.ru/049051053057124054053053054.html) ／“俄羅斯武器”
     （"*карабин принят на вооружение МВД Российской Федерации*"
     "18,5 КС-К", карабин специальный / "Оружие России"）
-
 21. Бiла книга 2009. Збройнi сили України. Міністерство оборони України, 2010. стор.78

@@ -21,7 +21,7 @@
 
   - [Satellite photos of SSV-33 laid up](http://www.gearthhacks.com/dlfile19217/SSV-33-Project-1941.htm)
 
-  - [Page in Russian language](http://warships.ru/Russia/Auxiliary_Ships/SSV/index.htm)
+  - [Page in Russian language](https://web.archive.org/web/20110901232702/http://warships.ru/Russia/Auxiliary_Ships/SSV/index.htm)
 
 [Category:蘇聯軍艦](https://zh.wikipedia.org/wiki/Category:蘇聯軍艦 "wikilink") [Category:核动力舰船](https://zh.wikipedia.org/wiki/Category:核动力舰船 "wikilink")
 

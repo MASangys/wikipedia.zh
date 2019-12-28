@@ -19,6 +19,7 @@ GW近似就是截取该展开式的首项：
   - ABINIT - 平面波赝势方法
   - Spex -
   - SaX - 平面波赝势方法
+  - [WEST](http://www.west-code.org) - 平面波赝势方法，无需对虚轨道求和
   - YAMOB - 平面波赝势方法
 
 ## 参考文献

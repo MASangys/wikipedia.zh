@@ -11,9 +11,9 @@
   - 声效：矩形波2声，任意波一音，杂音一音
   - 主机接口：GB卡带插槽，3.5mm耳机接口，AC输入接口
   - 按键数量：八方向十字键+2功能键+SELCET+START
-  - 电源：AA型电池2节，或使用外接电源
+  - 电源：[AA电池](https://zh.wikipedia.org/wiki/AA电池 "wikilink")2节，或使用外接电源
   - 电池使用时间：关闭背光最多20小时，打开最多12小时
-  - 发售日/售价：[1998年4月14日](https://zh.wikipedia.org/wiki/1998年4月14日 "wikilink")/6800日元\[2\]
+  - 发售日/售价：[1998年](../Page/1998年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")/6800[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")\[2\]
 
 ## 限定版GBL
 

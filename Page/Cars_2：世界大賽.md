@@ -312,11 +312,11 @@
 2.  古斯特餐廳：演出之[皮克斯電影](https://zh.wikipedia.org/wiki/皮克斯 "wikilink")[料理鼠王](../Page/料理鼠王.md "wikilink")。原片[料理鼠王](../Page/料理鼠王.md "wikilink")中的主要場景之一，在本片依然是出現在[巴黎](../Page/巴黎.md "wikilink")，古斯特人招牌已經被改為車（畢竟這是個汽車世界）。
 3.  比薩星球卡車：演出之[皮克斯電影全部](https://zh.wikipedia.org/wiki/皮克斯 "wikilink")（除反斗奇兵、反斗奇兵續集及反斗奇兵3外皆為[客串](https://zh.wikipedia.org/wiki/客串 "wikilink")），主要電影為[玩具總動員中比薩星球之送貨車](https://zh.wikipedia.org/wiki/玩具總動員 "wikilink")，在本片名叫Todd。
 4.  超能先生：演出之[皮克斯電影](https://zh.wikipedia.org/wiki/皮克斯 "wikilink")[超人特攻隊](../Page/超人特攻隊_\(電影\).md "wikilink")，在片頭脫線和麥坤去電影院時，螢幕上就是在放映該片。
-5.  [青天白日滿地紅旗](https://zh.wikipedia.org/wiki/青天白日滿地紅旗 "wikilink")：由於皮克斯製作團隊來自[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[動畫特效工程師](../Page/動畫師.md "wikilink")[駱孝先先生要求](https://zh.wikipedia.org/wiki/駱孝先 "wikilink")，雖然最終還是無法讓影片前進台灣拍攝，導演[約翰·拉薩特仍在畫面右側安排一輛賽車迷的紅色轎車在義大利觀眾席中揮舞青天白日滿地紅旗](https://zh.wikipedia.org/wiki/約翰·拉薩特 "wikilink")（約01:00:35，畫面右下方。但根據電影並沒有任何台灣籍賽車）。
+5.  [青天白日滿地紅旗](https://zh.wikipedia.org/wiki/青天白日滿地紅旗 "wikilink")：由於皮克斯製作團隊來自[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[動畫特效工程師](../Page/動畫師.md "wikilink")[駱效先先生要求](https://zh.wikipedia.org/wiki/駱孝先 "wikilink")，雖然最終還是無法讓影片前進台灣拍攝，導演[約翰·拉薩特仍在畫面右側安排一輛賽車迷的紅色轎車在義大利觀眾席中揮舞青天白日滿地紅旗](https://zh.wikipedia.org/wiki/約翰·拉薩特 "wikilink")（約01:00:35，畫面右下方。但根據電影並沒有任何台灣籍賽車）。
 6.  龍哥：龍哥是[中國代表選手](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")，加入世界大賽，因為導演[約翰·拉薩特對中國感興趣](https://zh.wikipedia.org/wiki/約翰·拉薩特 "wikilink")，所以安插龍哥這個角色。这个橋段在其他国家上映时都变为代表其国家的赛车角色，在美國版的是高竿，台灣沒有代表角色，所以也是高竿。
 7.  約翰拉薩胎：約翰拉薩胎是導演[約翰·拉薩特的員工以他的名字低調設計出的角色](https://zh.wikipedia.org/wiki/約翰·拉薩特 "wikilink")。
 8.  「東京拖線」角色：在麥坤抵達東京時，夜晚的街頭上有一台拉風跑車開到士官長前方，麥坤的左車道。其實他就是在Cars之前的番外卡通「[拖線狂想曲](https://zh.wikipedia.org/wiki/拖線狂想曲 "wikilink")」其中一部「東京拖線」中和拖線在東京賽車的車友。（「東京拖線」內容敘述拖線（Mater）和閃電麥坤（Lightning McQueen）來到日本東京比賽的故事，劇情則是改編自電影《[玩命關頭3：東京甩尾](../Page/玩命關頭3：東京甩尾.md "wikilink")》。）
-9.  炸彈客：皮克斯《超人特攻隊》電影一開場的那位炸彈怪客，之後到了《料理鼠王》變成背景裡的路人甲，似乎是在路邊騙小孩。而這個橋段在本片巴黎鐵塔附近（約00:50:10)再度出現，受騙的小車依舊是藍色烤漆與紅色烤漆。
+9.  炸彈客：皮克斯《超人特攻隊》電影一開場的那位炸彈狂魔，之後到了《料理鼠王》變成背景裡的路人甲，似乎是在路邊騙小孩。而這個橋段在本片巴黎鐵塔附近（約00:50:10)再度出現，受騙的小車依舊是藍色烤漆與紅色烤漆。
 10. 現實中著名人士：如[英國女王](https://zh.wikipedia.org/wiki/英國君主 "wikilink")[伊莉莎白二世](https://zh.wikipedia.org/wiki/伊莉莎白二世 "wikilink")、[威廉王子](https://zh.wikipedia.org/wiki/威廉王子_\(劍橋公爵\) "wikilink")、[教宗](../Page/教宗.md "wikilink")[本篤十六世](../Page/本篤十六世.md "wikilink")等，在片中均化為汽車登場。
 
 ## 原聲帶

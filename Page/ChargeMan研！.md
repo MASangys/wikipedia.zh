@@ -166,7 +166,7 @@
     在第23話「恐怖！精神病院」登場。
     雖然是地球人不過妄想著要成為世界的帝王，接受杰拉魯星人的支緣，想要從經營的病院發射用來攻擊歐洲的大型飛彈。
     但是被假裝成入院病患的研給阻止，最後以手槍自殺。
-    雖然是70年代的動畫但不知道為什麼持有和[SIG SAUER P226相似的近代式自動手槍](../Page/SIG_P226手槍.md "wikilink")。
+    雖然是70年代的動畫但不知道為什麼持有和[SIG SAUER P226相似的近代式自動手槍](../Page/SIG_P226半自動手槍.md "wikilink")。
   -
     和研的交流很深，代表日本的科學家
     奇特的髮型和鬍鬚形狀為其特徵，不知為什麼**穿著和皮膚一樣顏色的褲子**。
@@ -590,32 +590,20 @@ ChargeMan研專用的乘坐飛行器。不論是在陸海空、甚至在宇宙�
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink") [Category:1973年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1973年日本電視動畫 "wikilink") [Category:1974年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1974年日本電視動畫 "wikilink") [Category:外星生命題材作品](https://zh.wikipedia.org/wiki/Category:外星生命題材作品 "wikilink") [Category:2070年代背景作品](https://zh.wikipedia.org/wiki/Category:2070年代背景作品 "wikilink") [Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink") [Category:ICHI](https://zh.wikipedia.org/wiki/Category:ICHI "wikilink") [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:TBS電視台節目](https://zh.wikipedia.org/wiki/Category:TBS電視台節目 "wikilink") [Category:鬼畜全明星](https://zh.wikipedia.org/wiki/Category:鬼畜全明星 "wikilink")
 
 1.  リスト制作委員会編『アニメージュ アニメポケットデータ2000』徳間書店、2000年、p.37。
-
 2.  アニメージュ編集部編『TVアニメ25年史』徳間書店、1988年、p.51。
-
 3.  岡田斗司夫、眠田直、唐沢俊一「狂気の低予算アニメ チャージマン研」『オタクアミーゴスの逆襲』楽工社、2009年、pp.10-21。
-
 4.
 5.
 6.  岡田斗司夫、眠田直、唐沢俊一「狂気の低予算アニメ チャージマン研」『オタクアミーゴスの逆襲』楽工社、2009年、pp.21。
-
 7.
-
 8.  アニメ第10話『バリカン大暴れ\!』
-
 9.  アニメ第20話『ガールフレンドが出来た』
-
 10. アニメ第44話『研の偽物をやっつけろ\!』
-
 11. アニメ第35話『頭の中にダイナマイト』
-
 12. アニメ第16話『殺人レコード 恐怖のメロディー』
-
 13.
 14. 動畫第4話「謎之美少年」
-
 15. [「チャージマン研&スカイロッド 武装解説」『チャージマン研\! Tribute to Soundtracks vol.1』pp.28-29](https://zh.wikipedia.org/wiki/#西野ほか2010 "wikilink")
-
 16.
 17.
 18.
@@ -623,7 +611,5 @@ ChargeMan研專用的乘坐飛行器。不論是在陸海空、甚至在宇宙�
 20.
 21.
 22. \[<http://www.nicovideo.jp/search/%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%9E%E3%83%B3%E7%A0%94>\!?track=nicouni_search_keyword キーワードで動画検索 チャージマン研\! - ニコニコ動画\]
-
 23. [チャージマン研 mad - YouTube](https://www.youtube.com/results?search_query=%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%9E%E3%83%B3%E7%A0%94+mad)
-
 24. [チャー研MAD一斉削除事件とは (チャーケンマッドイッセイサクジョジケンとは) \[単語記事\] - ニコニコ大百科](http://dic.nicovideo.jp/a/%E3%83%81%E3%83%A3%E3%83%BC%E7%A0%94mad%E4%B8%80%E6%96%89%E5%89%8A%E9%99%A4%E4%BA%8B%E4%BB%B6)

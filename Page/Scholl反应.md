@@ -43,14 +43,9 @@
 [Category:取代反应](https://zh.wikipedia.org/wiki/Category:取代反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.
-
 2.  M B Smith, J March. *March's Advanced Organic Chemistry* (Wiley, 2001) (ISBN 0-471-58589-0)
-
 3.  *Controlling the Scholl Reaction* Benjamin T. King, Jií Kroulík, Charles R. Robertson, Pawel Rempala, Cameron L. Hilton, Justin D. Korinek, and Lisa M. Gortari [J. Org. Chem.](https://zh.wikipedia.org/wiki/J._Org._Chem. "wikilink"); **2007**; 72(7) pp 2279 - 2288; (Article)
-
 4.  Vingiello, F. A.; Yanez, J.; Campbell, J. A. *[J. Org. Chem.](https://zh.wikipedia.org/wiki/J._Org._Chem. "wikilink")* **1971**, *36*, 2053-2056. ()
-
 5.  *Nanosized Molecular Propellers by Cyclodehydrogenation of Polyphenylene Dendrimers* Christopher D. Simpson, Gunter Mattersteig, Kai Martin, Lileta Gherghel, Roland E. Bauer, Hans Joachim Räder, and Klaus Müllen [J. Am. Chem. Soc.](https://zh.wikipedia.org/wiki/J._Am._Chem._Soc. "wikilink"); **2004**; 126(10) pp 3139 - 3147; (Article)
-
 6.
 7.

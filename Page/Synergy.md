@@ -49,15 +49,9 @@ Windows平台的用户需要安装Microsoft Visual C++ 2008 Redistributable Pack
 [Category:输入/输出](https://zh.wikipedia.org/wiki/Category:输入/输出 "wikilink") [Category:自由系統軟體](https://zh.wikipedia.org/wiki/Category:自由系統軟體 "wikilink") [Category:自由網路軟體](https://zh.wikipedia.org/wiki/Category:自由網路軟體 "wikilink") [Category:鍵盤](https://zh.wikipedia.org/wiki/Category:鍵盤 "wikilink") [Category:远程管理软件](https://zh.wikipedia.org/wiki/Category:远程管理软件 "wikilink") [Category:系統管理](https://zh.wikipedia.org/wiki/Category:系統管理 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.

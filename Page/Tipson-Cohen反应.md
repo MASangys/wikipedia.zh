@@ -48,14 +48,10 @@ Tipson-Cohen 反应为同式（*syn*）或对式（*anti*）消除机理。产�
 [Category:糖化学](https://zh.wikipedia.org/wiki/Category:糖化学 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.  R.S. Tipson and A. Cohen, Carbohydrate Research, 1 (1965), 338-340.
-
 2.  E.Albano, D. Horton, and T. Tsuchiya. Carbohydrate Research, 2 (1966), 349-362
-
 3.
 4.  T. Yamazaki and K. Matsuda. Carbohydrate Research, 50 (1976), 279-281.
-
 5.  T. Yamazaki and K. Matsuda. Journal of the Chemical Society, Perkin Transactions 1, 1 (1977), 1981-1984.
-
 6.
 7.
 8.
@@ -64,9 +60,7 @@ Tipson-Cohen 反应为同式（*syn*）或对式（*anti*）消除机理。产�
 11.
 12.
 13. L. Baptistella, A. Neto, et al. Tetrahedron Letters, 34 (1993), 8407-8410.
-
 14.
 15.
 16. E.Albano, D. Horton, and T. Tsuchiya. Carbohydrate Research, 2 (1966), 349-362.
-
 17.

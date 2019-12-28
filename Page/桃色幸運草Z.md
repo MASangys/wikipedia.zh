@@ -1,4 +1,4 @@
-**桃色幸運草Z**（，，又稱：****、****、**桃草**）是藝人事務所[星塵傳播](../Page/星塵傳播.md "wikilink")「STARDUST PLANET」於2008年組成的[日本](../Page/日本.md "wikilink")女子[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，目前成員為[百田夏菜子](../Page/百田夏菜子.md "wikilink")、[玉井詩織](../Page/玉井詩織.md "wikilink")、[佐佐木彩夏](../Page/佐佐木彩夏.md "wikilink")、[高城蕾妮](../Page/高城蕾妮.md "wikilink")等4人，隊長為百田。團體風格與其他女子組合不同，偏向於搞怪風格。於2010年5月5日推出第一張主流市場單曲《[行動吧！怪盜少女](../Page/行動吧！怪盜少女.md "wikilink")》。2019年1月26日首次來台舉行演唱會，並2019年成為日本人氣第三名女子[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")。
+**桃色幸運草Z**（，，又稱：****、****、**桃草**）是藝人事務所[星塵傳播](../Page/星塵傳播.md "wikilink")「STARDUST PLANET」於2008年組成的[日本](../Page/日本.md "wikilink")女子[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，目前成員為[百田夏菜子](../Page/百田夏菜子.md "wikilink")、[玉井詩織](../Page/玉井詩織.md "wikilink")、[佐佐木彩夏](../Page/佐佐木彩夏.md "wikilink")、[高城蕾妮](../Page/高城蕾妮.md "wikilink")等4人，隊長為百田。團體風格與其他女子組合不同，偏向於搞怪風格。於2010年5月5日推出第一張主流市場單曲《[行動吧！怪盜少女](../Page/行動吧！怪盜少女.md "wikilink")》。2019年1月26日首次來台舉行演唱會。
 
 ## 團體特色
 
@@ -68,7 +68,7 @@
 <td><p><a href="../Page/佐佐木彩夏.md" title="wikilink">佐佐木彩夏</a><br />
 ささき あやか</p></td>
 <td><p>あーりん</p></td>
-<td><p>第二主唱、領舞、副Rapper、最年少</p></td>
+<td><p>第二主唱、領舞、副Rapper</p></td>
 <td><p>桃草的偶像（，Momoclo's Idol）</p></td>
 <td></td>
 <td><p>AB型</p></td>
@@ -119,7 +119,7 @@
 <td></td>
 <td><p>A型</p></td>
 <td></td>
-<td><p>目前主要活躍於戲劇和廣告演出，2018年7月22日宣布結婚</p></td>
+<td><p>已婚，目前主要活躍於戲劇和廣告演出</p></td>
 </tr>
 <tr class="even">
 <td><p>綠色</p></td>
@@ -131,7 +131,7 @@
 <td></td>
 <td><p>A型</p></td>
 <td></td>
-<td><p>2018年1月15日宣布畢業，一年後宣布復出</p></td>
+<td><p>已婚，2018年1月15日宣布畢業，2019年初轉型為歌手</p></td>
 </tr>
 </tbody>
 </table>
@@ -424,6 +424,32 @@ PlotData =
 ### 2019年
 
 1月、首次舉辦海外演唱會『ASIA TOUR Vol.1「MOMOIRO CLOVER Z」』，分別於台北(26日)及上海舉行(27日)。
+
+2月9日至10日，在橫濱競技場“日本廣播Momoiro Clover Z Momokuro俱樂部xoxo〜情人節之夜！
+
+4月20日至21日，“ Momokuro Spring no Ichigo 2019”演唱會在富山縣黑部市宮野體育公園舉行。
+
+4月25日至5月7日，在博多阪急舉行的“桃色四葉草Z十週年紀念展”！
+
+5月17日，發行了第一張原創專輯“ ももいろクローバーZ 5th ALBUM「MOMOIRO CLOVER Z」”。
+
+8月3日至4日，在崎玉市西武巨蛋舉行了 “MomocloMania2019-ROAD TO 2020-”演唱會！
+
+8月11日，參加茨城縣舉行的戶外搖滾節“ ROCK IN JAPAN FESTIVAL 2019”。
+
+8月28日，桃色幸運草Z“櫻桃小丸子” 成立30週年紀念MV發布！
+
+9月6日，參加了東京音樂節“ Black Festival 2019-Black＆White Song Battle。
+
+11月27日，發行第20張單曲舉行 stay gold”！
+
+12月7日，在大阪城舉行“Momoiro聖誕節2019-冬空”演唱會！
+
+12月24日至25日，在埼玉超級體育館舉行“Momoiro聖誕節2019-冬空”演唱會！
+
+12月31日，在橫濱體育館舉行的“桃色歌合戰”。
+
+### 2020年
 
 ## 唱片
 
@@ -2783,103 +2809,55 @@ CD（通常盤）</p></td>
 [Category:桃色幸運草Z](https://zh.wikipedia.org/wiki/Category:桃色幸運草Z "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:星尘传播](https://zh.wikipedia.org/wiki/Category:星尘传播 "wikilink") [Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink") [Category:報知電影獎得主](https://zh.wikipedia.org/wiki/Category:報知電影獎得主 "wikilink") [Category:2008年日本建立](https://zh.wikipedia.org/wiki/Category:2008年日本建立 "wikilink") [Category:CD店大獎獲獎者](https://zh.wikipedia.org/wiki/Category:CD店大獎獲獎者 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13.
 14.
-
 15. [](http://star-studio.jp/momoclo/index.php?ID=653&ym=2009.07)
-
 16.
-
 17.
-
 18.
-
 19.
-
 20. [tokyohive的報導](http://www.tokyohive.com/2011/09/momoiro-clover-z-performs-at-the-pre-opening-event-for-japan-media-arts-festival-dortmund-2011/)
-
 21.
-
 22.
-
 23.
 24.
-
 25.
 26.
-
 27.
-
 28.
-
 29. <http://www.ustream.tv/jp/special/momoclo/>
-
 30. <https://archive.is/20130413121437/gyao.yahoo.co.jp/vmaj2013/>
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.

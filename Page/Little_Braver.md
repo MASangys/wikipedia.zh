@@ -25,10 +25,7 @@
 [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:Key_Sounds_Label歌曲](https://zh.wikipedia.org/wiki/Category:Key_Sounds_Label歌曲 "wikilink") [Category:電視動畫插曲](https://zh.wikipedia.org/wiki/Category:電視動畫插曲 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.

@@ -1,4 +1,4 @@
-**VRF**是一個[香港](../Page/香港.md "wikilink")四人男子組合，由 [余啟邦](https://zh.wikipedia.org/wiki/余啟邦 "wikilink")﹝[Ronald](https://zh.wikipedia.org/wiki/Ronald "wikilink")﹞、 [李安](https://zh.wikipedia.org/wiki/李安（歌手） "wikilink")﹝[Ray](https://zh.wikipedia.org/wiki/Ray "wikilink")﹞、 [梁世豪](https://zh.wikipedia.org/wiki/梁世豪 "wikilink")﹝[Raul](https://zh.wikipedia.org/wiki/Raul "wikilink")﹞和 [丁子高](../Page/丁子高.md "wikilink")﹝[Real](https://zh.wikipedia.org/wiki/Real "wikilink")﹞於2000年組成\[1\]，曾推出過兩張唱片《VRF》及《New World》\[2\]。2002年解散。
+**VRF**是一個[香港](../Page/香港.md "wikilink")四人男子組合，由 [余啟邦](https://zh.wikipedia.org/wiki/余啟邦 "wikilink")﹝[Ronald](https://zh.wikipedia.org/wiki/Ronald "wikilink")﹞、 [李安](https://zh.wikipedia.org/wiki/李安（歌手） "wikilink")﹝[Ray](https://zh.wikipedia.org/wiki/Ray "wikilink")﹞、 [梁世豪](https://zh.wikipedia.org/wiki/梁世豪 "wikilink")﹝[Raul](../Page/Raul.md "wikilink")﹞和 [丁子高](../Page/丁子高.md "wikilink")﹝[Real](https://zh.wikipedia.org/wiki/Real "wikilink")﹞於2000年組成\[1\]，曾推出過兩張唱片《VRF》及《New World》\[2\]。2002年解散。
 
 ## 名字意思
 

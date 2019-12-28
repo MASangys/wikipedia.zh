@@ -54,10 +54,7 @@ image:Porsche carrera gt front.jpg|車頭一覽 Image:Porsche carrera gt rear.jp
 [Category:2004年面世的汽車](https://zh.wikipedia.org/wiki/Category:2004年面世的汽車 "wikilink") [Category:保時捷車輛](https://zh.wikipedia.org/wiki/Category:保時捷車輛 "wikilink") [Category:中置引擎](https://zh.wikipedia.org/wiki/Category:中置引擎 "wikilink") [Category:後輪驅動](https://zh.wikipedia.org/wiki/Category:後輪驅動 "wikilink")
 
 1.  [保時捷宣佈Carrera GT停產](http://www.sybarites.org/2006/05/11/porsche-announce-the-end-of-carrera-gt-production) 保羅沃克
-
 2.
-
 3.
-
 4.
 5.

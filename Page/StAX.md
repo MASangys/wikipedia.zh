@@ -92,7 +92,7 @@ while (r.hasNext()) {
   - [JSR 173 规范](http://jcp.org/en/jsr/detail?id=173)
   - [StAX介绍](http://www.xml.com/pub/a/2003/09/17/stax.html) XML.com, Harold, Elliotte Rusty
   - [StAX教程](https://web.archive.org/web/20071212145813/http://www.vogella.de/articles/JavaXML/article.html)
-  - [XMLPull模式](http://www.extreme.indiana.edu/~aslom/xmlpull/patterns.html)关于XML Pull（以及StAX）的设计模式，Aleksander Slominski.
+  - [XMLPull模式](https://web.archive.org/web/20120630184808/http://www.extreme.indiana.edu/~aslom/xmlpull/patterns.html)关于XML Pull（以及StAX）的设计模式，Aleksander Slominski.
   - [XMLPull.org](http://www.xmlpull.org/)
   - [StAX和Sax的比较](http://www.devx.com/Java/Article/30298/0)
   - [StAX-Utils](https://web.archive.org/web/20070813023718/https://stax-utils.dev.java.net/)提供工具类，便于开发者将StAX集成到现有的XML处理应用中。

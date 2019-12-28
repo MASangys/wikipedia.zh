@@ -23,10 +23,8 @@
 [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:Key_Sounds_Label音樂專輯](https://zh.wikipedia.org/wiki/Category:Key_Sounds_Label音樂專輯 "wikilink") [Category:動畫音樂專輯](https://zh.wikipedia.org/wiki/Category:動畫音樂專輯 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
 6.

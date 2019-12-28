@@ -459,62 +459,34 @@ PS3并未提供传统PlayStation游戏外设接口。\[53\]</ref> 随着PS3固�
 [Category:索尼互動娛樂](https://zh.wikipedia.org/wiki/Category:索尼互動娛樂 "wikilink") [Category:PlayStation_3](https://zh.wikipedia.org/wiki/Category:PlayStation_3 "wikilink") [Category:Backward_compatible_video_game_consoles](https://zh.wikipedia.org/wiki/Category:Backward_compatible_video_game_consoles "wikilink") [Category:2006_introductions](https://zh.wikipedia.org/wiki/Category:2006_introductions "wikilink") [Category:Power_Architecture](https://zh.wikipedia.org/wiki/Category:Power_Architecture "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.  <https://gullfoss2.fcc.gov/prod/oet/forms/blobs/retrieve.cgi?attachment_id=903623&native_or_pdf=pdf>
-
 8.  <https://fjallfoss.fcc.gov/prod/oet/forms/blobs/retrieve.cgi?attachment_id=903634&native_or_pdf=pdf>
-
 9.  <https://gullfoss2.fcc.gov/prod/oet/forms/blobs/retrieve.cgi?attachment_id=973972&native_or_pdf=pdf>
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24. Official Playstation Magazine, issue 005
-
 25. [NEW PLAYSTATION3 (CECHH00 SERIES) COMES IN TWO COLOR VARIATIONS AT A NEW PRICE | PRESS RELEASES ｜ Sony Computer Entertainment Inc](http://www.scei.co.jp/corporate/release/071009ae.html)
-
 26.
-
 27.
-
 28.
-
 29. [PlayStation 3 "Safety & Support" manual](http://www.playstation.com/manual/pdf/PS3-01-1.6_1.pdf)
-
 30.
 31.
 32.
@@ -528,9 +500,7 @@ PS3并未提供传统PlayStation游戏外设接口。\[53\]</ref> 随着PS3固�
 40.
 41.
 42. [PlayStation 3 80GB model for Mexico "Safety & Support" manual](http://www.playstation.com/manual/pdf/PS3-11-1.8_1.pdf)
-
 43. [PlayStation 3 "Quick Reference" manual](http://www.playstation.com/manual/pdf/PS3-01-1.6_2.pdf)
-
 44.
 45.
 46.
@@ -539,8 +509,6 @@ PS3并未提供传统PlayStation游戏外设接口。\[53\]</ref> 随着PS3固�
 49.
 50.
 51.
-
 52.
-
 53.
 54.

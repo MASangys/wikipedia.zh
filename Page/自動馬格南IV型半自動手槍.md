@@ -1,4 +1,4 @@
-**AMT自動馬格南IV型**（；AutoMag，，意為：「自動馬格南」；IV，[罗马数字](../Page/罗马数字.md "wikilink")，意為：[4](../Page/4.md "wikilink")）是一款由[美国](../Page/美国.md "wikilink")槍械製造商（簡稱：AMT）所研製和生產的大型[單動操作型](https://zh.wikipedia.org/wiki/扳機 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。發射、10毫米亞伊馬格南（英文：10mm iAi Magnum）或[10毫米Auto](../Page/10mm_Auto.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**AMT自動馬格南IV型**（；AutoMag，，意為：「自動馬格南」；IV，[罗马数字](../Page/罗马数字.md "wikilink")，意為：[4](../Page/4.md "wikilink")）是一款由[美国](../Page/美国.md "wikilink")槍械製造商（簡稱：AMT）所研製和生產的大型[單動操作型](https://zh.wikipedia.org/wiki/扳機 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。發射、10毫米亞伊馬格南（英文：10mm iAi Magnum）或[10毫米Auto](../Page/10mm_Auto.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 概述
 

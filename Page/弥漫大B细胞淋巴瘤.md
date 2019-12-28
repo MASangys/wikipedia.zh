@@ -23,12 +23,8 @@
 [Category:淋巴瘤](https://zh.wikipedia.org/wiki/Category:淋巴瘤 "wikilink") [Category:癌症](https://zh.wikipedia.org/wiki/Category:癌症 "wikilink")
 
 1.  [Pathobiology of the aggressive and highly aggressive non-Hodgkin's lymphomas](http://www.utdol.com/utd/content/topic.do?topicKey=lymphoma/20525)
-
 2.
-
 3.
-
 4.
-
 5.
 6.

@@ -37,12 +37,8 @@ NaCl支援[單指令流多數據流指令](https://zh.wikipedia.org/wiki/單指�
 [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:安全软件](https://zh.wikipedia.org/wiki/Category:安全软件 "wikilink")
 
 1.
-
 2.  [Native Client: A Sandbox for Portable, Untrusted x86 Native Code](http://research.google.com/pubs/archive/34913.pdf)
-
 3.  [Adapting Software Fault Isolation to Contemporary CPU Architectures](http://nativeclient.googlecode.com/svn/data/site/NaCl_SFI.pdf)
-
 4.
 5.  [Index of /trunk/src/native_client/src/trusted/validator/x86](http://src.chromium.org/viewvc/native_client/trunk/src/native_client/src/trusted/validator/x86/)
-
 6.  [Native CPU Performance in the Browser with Google Native Client](http://assets.en.oreilly.com/1/event/29/Native%20CPU%20Performance%20in%20the%20Browser%20with%20Google%20Native%20Client%20Presentation.pdf)

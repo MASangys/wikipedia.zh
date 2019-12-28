@@ -31,7 +31,7 @@ StulleMule内置了吸血骡过滤名单而不支持DLP动态反吸血库，因�
 
   - [emule-mods.de上的StulleMule页面](http://www.emule-mods.de/?mods=stulle)
 
-  - [emulefans.com（电骡爱好者）blog上的StulleMule页面](http://emulefans.com/news/emule/stullemule/)
+  - [emulefans.com（电骡爱好者）blog上的StulleMule页面](https://web.archive.org/web/20100705124828/http://emulefans.com/news/emule/stullemule/)
 
 [Category:eMule](https://zh.wikipedia.org/wiki/Category:eMule "wikilink")
 

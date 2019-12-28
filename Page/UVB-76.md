@@ -96,25 +96,16 @@
 [Category:俄罗斯电台](https://zh.wikipedia.org/wiki/Category:俄罗斯电台 "wikilink") [Category:秘密放送頻道](https://zh.wikipedia.org/wiki/Category:秘密放送頻道 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.  Newitz, Annalee, ["They're broadcasting those Russian numbers again"](http://io9.com/5623226/theyre-broadcasting-those-russian-numbers-again), ion9, August 27, 2010
-
 6.  ["El misterio de las emisiones de radio secretas"](http://www.abc.es/20100826/tecnologia/misterio-emisiones-radio-secretas-201008261636.html), [ABC](https://zh.wikipedia.org/wiki/ABC_\(newspaper\) "wikilink"), August 26, 2010 ([English](http://translate.google.com/translate?js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&sl=auto&tl=en&u=http%3A%2F%2Fwww.abc.es%2F20100826%2Ftecnologia%2Fmisterio-emisiones-radio-secretas-201008261636.html))
-
 7.  <http://googlesightseeing.com/2009/07/the-buzzer-uvb-76/>
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
 14.

@@ -18,12 +18,6 @@
 
 ## 参考资料
 
-<div class="references-small">
-
-<references/>
-
-</div>
-
 [Category:重排反应](https://zh.wikipedia.org/wiki/Category:重排反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.

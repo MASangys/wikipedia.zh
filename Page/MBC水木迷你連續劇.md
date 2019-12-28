@@ -1688,7 +1688,7 @@
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/周元_(韓國).md" title="wikilink">周元</a>、<a href="../Page/崔江姬.md" title="wikilink">崔江姬</a>、<a href="../Page/黃燦盛.md" title="wikilink">黃燦盛</a>、<a href="../Page/金旼序.md" title="wikilink">金旼序</a>、<a href="../Page/安內相.md" title="wikilink">安內相</a>、<a href="../Page/張英南.md" title="wikilink">張英南</a>、<a href="../Page/金秀賢_(女演員).md" title="wikilink">金秀賢</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金尚葉" title="wikilink">金尚葉</a>、<a href="https://zh.wikipedia.org/wiki/吳賢鍾" title="wikilink">吳賢鍾</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金尚葉" title="wikilink">金尚葉</a>、<a href="../Page/吳賢鍾.md" title="wikilink">吳賢鍾</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/千成日.md" title="wikilink">千成日</a></p></td>
 <td style="text-align: center;"><p>原作：電影《<a href="https://zh.wikipedia.org/wiki/七級公務員" title="wikilink">七級公務員</a>》</p></td>
 </tr>
@@ -1732,7 +1732,7 @@
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/權相佑.md" title="wikilink">權相佑</a>、<a href="../Page/鄭麗媛.md" title="wikilink">鄭麗媛</a>、<a href="https://zh.wikipedia.org/wiki/朱智勳" title="wikilink">朱智勳</a>、<a href="../Page/吳漣序.md" title="wikilink">吳漣序</a>、<a href="https://zh.wikipedia.org/wiki/崔珉豪" title="wikilink">崔珉豪</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/金道勳.md" title="wikilink">金道勳</a>、<a href="https://zh.wikipedia.org/wiki/吳賢鍾" title="wikilink">吳賢鍾</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金道勳.md" title="wikilink">金道勳</a>、<a href="../Page/吳賢鍾.md" title="wikilink">吳賢鍾</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹景雅" title="wikilink">尹景雅</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1793,7 +1793,7 @@
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金明敏" title="wikilink">金明敏</a>、<a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a>、<a href="../Page/金相中.md" title="wikilink">金相中</a>、<a href="../Page/蔡貞安.md" title="wikilink">蔡貞安</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴才范" title="wikilink">朴才范</a>、<a href="https://zh.wikipedia.org/wiki/吳賢鍾" title="wikilink">吳賢鍾</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴才范" title="wikilink">朴才范</a>、<a href="../Page/吳賢鍾.md" title="wikilink">吳賢鍾</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔熙拉" title="wikilink">崔熙拉</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -2016,7 +2016,7 @@
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/李聖經.md" title="wikilink">李聖經</a>、<a href="https://zh.wikipedia.org/wiki/南柱赫" title="wikilink">南柱赫</a>、<a href="https://zh.wikipedia.org/wiki/慶收真" title="wikilink">慶收真</a>、<a href="../Page/李載允.md" title="wikilink">李載允</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳賢鍾" title="wikilink">吳賢鍾</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/吳賢鍾.md" title="wikilink">吳賢鍾</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/楊熙勝" title="wikilink">楊熙勝</a>、<a href="https://zh.wikipedia.org/wiki/金秀珍" title="wikilink">金秀珍</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -2245,7 +2245,7 @@
 <td style="text-align: center;"><p><a href="../Page/金相中.md" title="wikilink">金相中</a>、<a href="../Page/蔡時那.md" title="wikilink">蔡時那</a>、<a href="../Page/劉東根.md" title="wikilink">劉東根</a>、<a href="../Page/安友淵.md" title="wikilink">安友淵</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/李在珍_(導演).md" title="wikilink">李在珍</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/徐恩靜" title="wikilink">徐恩靜</a>、<a href="https://zh.wikipedia.org/wiki/吳慧蘭" title="wikilink">吳慧蘭</a>、<a href="https://zh.wikipedia.org/wiki/裴相旭" title="wikilink">裴相旭</a></p></td>
-<td style="text-align: center;"><p>能田茂《》</p></td>
+<td style="text-align: center;"><p>原作：周良貨《》</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年5月22日－<br />
@@ -2275,20 +2275,70 @@
 <td style="text-align: center;"><p><a href="../Page/意外發現的一天.md" title="wikilink">意外發現的一天</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
-<td style="text-align: center;"><p><a href="../Page/金惠允.md" title="wikilink">金惠允</a>、<a href="https://zh.wikipedia.org/wiki/金路雲" title="wikilink">金路雲</a>、<a href="../Page/李在旭.md" title="wikilink">李在旭</a>、<a href="../Page/李娜恩.md" title="wikilink">李娜恩</a>、<a href="../Page/鄭乾柱.md" title="wikilink">鄭乾柱</a>、<a href="../Page/李泰利.md" title="wikilink">李泰利</a>、<a href="https://zh.wikipedia.org/wiki/金永大" title="wikilink">金永大</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金惠奫.md" title="wikilink">金惠奫</a>、<a href="https://zh.wikipedia.org/wiki/金路雲" title="wikilink">金路雲</a>、<a href="../Page/李宰旭.md" title="wikilink">李宰旭</a>、<a href="../Page/李娜恩.md" title="wikilink">李娜恩</a>、<a href="../Page/鄭乾柱.md" title="wikilink">鄭乾柱</a>、<a href="../Page/金永大.md" title="wikilink">金永大</a>、<a href="../Page/李泰利.md" title="wikilink">李泰利</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金尚葉" title="wikilink">金尚葉</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宋夏英" title="wikilink">宋夏英</a>、<a href="https://zh.wikipedia.org/wiki/印智慧" title="wikilink">印智慧</a></p></td>
-<td style="text-align: center;"><p>網漫《意外發現的七月》</p></td>
+<td style="text-align: center;"><p>原作：網漫《意外發現的七月》</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019年11月27日－<br />
-2020年</p></td>
+2020年1月</p></td>
 <td style="text-align: center;"><p><a href="../Page/有瑕疵的人們.md" title="wikilink">有瑕疵的人們</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
-<td style="text-align: center;"><p><a href="../Page/安宰賢.md" title="wikilink">安宰賢</a>、<a href="../Page/吳漣序.md" title="wikilink">吳漣序</a>、<a href="https://zh.wikipedia.org/wiki/具元" title="wikilink">具元</a>、<a href="../Page/金瑟琪.md" title="wikilink">金瑟琪</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/安宰賢.md" title="wikilink">安宰賢</a>、<a href="../Page/吳漣序.md" title="wikilink">吳漣序</a>、<a href="../Page/救援.md" title="wikilink">救援</a>、<a href="../Page/金瑟琪.md" title="wikilink">金瑟琪</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳振碩" title="wikilink">吳振碩</a></p></td>
+<td style="text-align: center;"><p>安信佑</p></td>
 <td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
+### 2020年
+
+<table style="width:326%;">
+<colgroup>
+<col style="width: 60%" />
+<col style="width: 17%" />
+<col style="width: 50%" />
+<col style="width: 24%" />
+<col style="width: 90%" />
+<col style="width: 70%" />
+<col style="width: 15%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><p>播放<br />
+日期</p></th>
+<th style="text-align: center;"><p>電視劇集名稱</p></th>
+<th style="text-align: center;"><p>集數</p></th>
+<th style="text-align: center;"><p>主演</p></th>
+<th style="text-align: center;"><p>導演</p></th>
+<th style="text-align: center;"><p>編劇</p></th>
+<th style="text-align: center;"><p>備注</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p>2020年1月－<br />
+2020年3月</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/The_Game：朝著0點" title="wikilink">The Game：朝著0點</a><br />
+</p></td>
+<td style="text-align: center;"><p>32</p></td>
+<td style="text-align: center;"><p><a href="../Page/玉澤演.md" title="wikilink">玉澤演</a>、<a href="https://zh.wikipedia.org/wiki/李沇熹" title="wikilink">李沇熹</a>、<a href="../Page/林周煥.md" title="wikilink">林周煥</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/張俊浩.md" title="wikilink">張俊浩</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李智豪" title="wikilink">李智豪</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2020年3月－<br />
+2020年5月</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/那個男人的記憶法" title="wikilink">那個男人的記憶法</a><br />
+</p></td>
+<td style="text-align: center;"><p>32</p></td>
+<td style="text-align: center;"><p><a href="../Page/金東旭.md" title="wikilink">金東旭</a>、<a href="../Page/文佳煐.md" title="wikilink">文佳煐</a>、李鎮赫</p></td>
+<td style="text-align: center;"><p><a href="../Page/吳賢鍾.md" title="wikilink">吳賢鍾</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金允珠" title="wikilink">金允珠</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

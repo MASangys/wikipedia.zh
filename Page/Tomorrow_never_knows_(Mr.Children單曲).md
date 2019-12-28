@@ -32,5 +32,4 @@
 [Category:Mr.Children歌曲](https://zh.wikipedia.org/wiki/Category:Mr.Children歌曲 "wikilink") [Category:1994年單曲](https://zh.wikipedia.org/wiki/Category:1994年單曲 "wikilink") [Category:富士水九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士水九劇主題曲 "wikilink") [Category:日劇學院賞最佳主題曲](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳主題曲 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink") [Category:1994年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1994年Oricon單曲月榜冠軍作品 "wikilink") [Category:1994年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1994年Oricon單曲週榜冠軍作品 "wikilink") [Category:TOY'S_FACTORY歌曲](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY歌曲 "wikilink")
 
 1.  [](http://www.oricon.co.jp/news/ranking/52143/full/)
-
 2.

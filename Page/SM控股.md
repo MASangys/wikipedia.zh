@@ -1,4 +1,4 @@
-**SM控股**，()是SM购物广场的母公司，它是菲律宾最大零售公司。
+[缩略图](https://zh.wikipedia.org/wiki/File:SM_Lifestyle_Mall_in_Xiamen.jpg "fig:缩略图") **SM控股**，()是SM购物广场的母公司，它是菲律宾最大零售公司。
 
 ## 历史
 

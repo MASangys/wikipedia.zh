@@ -172,7 +172,7 @@ Microsoft Windows SDK for Windows 7 and .NET Framework 4 (ver7.1)在安装前应
 <td></td>
 <td><p>5.2.3790.0</p></td>
 <td><p>2003-02</p></td>
-<td><p><a href="http://social.msdn.microsoft.com/Forums/en/windowssdk/thread/e1147034-9b0b-4494-a5bc-6dfebb6b7eb1">7</a></p></td>
+<td><p><a href="https://web.archive.org/web/20191018124746/https://social.msdn.microsoft.com/Forums/windowsdesktop/en-US/e1147034-9b0b-4494-a5bc-6dfebb6b7eb1/download-and-install-microsoft-platform-sdk-febuary-2003-last-version-with-vc6-support?forum=windowssdk">7</a></p></td>
 <td><p>Last version with VC6 support[8] and latest version with <a href="../Page/Windows_95.md" title="wikilink">Windows 95</a> and <a href="../Page/Windows_98.md" title="wikilink">Windows 98</a> support.</p></td>
 </tr>
 <tr class="even">
@@ -188,7 +188,7 @@ Microsoft Windows SDK for Windows 7 and .NET Framework 4 (ver7.1)在安装前应
 <td></td>
 <td><p>5.1.2600.2180</p></td>
 <td><p>2004-08</p></td>
-<td><p><a href="http://social.msdn.microsoft.com/Forums/en/windowssdk/thread/9c3aa90a-b06c-44e5-bf03-4ffb930dbbd8">9</a></p></td>
+<td><p><a href="https://web.archive.org/web/20121110011437/http://social.msdn.microsoft.com/Forums/en/windowssdk/thread/9c3aa90a-b06c-44e5-bf03-4ffb930dbbd8">9</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -452,7 +452,7 @@ Windows SDK文档包含如下内容\[22\]：
 
   - [Windows SDK主页](http://msdn.microsoft.com/en-us/windows/bb980924.aspx)
   - [Windows SDK项目组博客](http://blogs.msdn.com/windowssdk/)
-  - [Windows SDK论坛（英文）](http://social.msdn.microsoft.com/forums/en-US/windowssdk/threads/)
+  - [Windows SDK论坛（英文）](https://web.archive.org/web/20100127062607/http://social.msdn.microsoft.com/Forums/en-US/windowssdk/threads)
 
 [分类:微軟開發工具](https://zh.wikipedia.org/wiki/分类:微軟開發工具 "wikilink")
 
@@ -464,7 +464,7 @@ Windows SDK文档包含如下内容\[22\]：
 6.  [How to obtain the 64-bit version of the Visual C++ 7.1 libraries and build tools](http://support.microsoft.com/kb/875446)
 7.  [Windows and Windows Phone SDK archive](https://dev.windows.com/en-us/downloads/sdk-archive)
 8.  [Windows® Server 2003 SP1 Platform SDK Web Install](https://www.microsoft.com/en-us/download/details.aspx?id=6510), Microsoft Download Center "The last SDK that will work with VC 6.0 is the February 2003 Edition, you can order a CD on the fulfillment site."
-9.  [12](http://social.msdn.microsoft.com/Forums/en-US/windowssdk/thread/bf785787-8821-4a46-849d-420cf25ed9ad/). Social.msdn.microsoft.com. Retrieved on 2014-02-16.
+9.  [12](http://social.msdn.microsoft.com/Forums/en-US/windowssdk/thread/bf785787-8821-4a46-849d-420cf25ed9ad/) . Social.msdn.microsoft.com. Retrieved on 2014-02-16.
 10. [Microsoft Windows SDK Blog: New samples in Win 7 SDK: Direct2D and DirectWrite](http://blogs.msdn.com/windowssdk/archive/2009/10/20/new-samples-in-win-7-sdk-direct2d-and-directwrite.aspx)
 11.
 12. [Released: Windows SDK for Windows 7 and .NET Framework 4](http://blogs.msdn.com/windowssdk/archive/2010/05/21/Released_3A00_-Windows-SDK-for-Windows-7-and-.NET-Framework-4.aspx)

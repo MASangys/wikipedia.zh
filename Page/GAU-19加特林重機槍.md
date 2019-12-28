@@ -1,4 +1,4 @@
-**GECAL 50**是一挺由[美国](../Page/美国.md "wikilink")武器製造商[通用电气](../Page/通用电气.md "wikilink")所研發、目前由[通用动力](../Page/通用动力.md "wikilink")所生產的電力（外力）驅動式[加特林式](../Page/加特林机枪.md "wikilink")[机枪](../Page/机枪.md "wikilink")，發射[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（.50 BMG）制式[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。該武器被[美國軍隊命名為](../Page/美军.md "wikilink")**GAU-19/A**（）。
+**GECAL 50**是一款由[美国](../Page/美国.md "wikilink")武器製造商[通用电气](../Page/通用电气.md "wikilink")所研發、目前由[通用动力](../Page/通用动力.md "wikilink")所生產的電力（外力）驅動式[加特林式](../Page/加特林机枪.md "wikilink")[机枪](../Page/机枪.md "wikilink")，發射[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（.50 BMG）制式[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。該武器被[美國軍隊命名為](../Page/美军.md "wikilink")**GAU-19/A**（）。
 
 由於其重量和大小的關係，它並非一種款可以輕易地在任何場地中隨身攜帶的武器系統，因此往往是安裝在[直升機](https://zh.wikipedia.org/wiki/直升機 "wikilink")、地面[戰鬥车辆和水上](../Page/裝甲戰鬥車輛.md "wikilink")[船](../Page/船.md "wikilink")[艦以上](../Page/军舰.md "wikilink")。
 
@@ -118,18 +118,11 @@ GAU-19登場於多部[电影](../Page/电影.md "wikilink")、[电子游戏](../
 [Category:多管機槍及機砲](https://zh.wikipedia.org/wiki/Category:多管機槍及機砲 "wikilink") [Category:空用機槍及機炮](https://zh.wikipedia.org/wiki/Category:空用機槍及機炮 "wikilink") [Category:重機槍](https://zh.wikipedia.org/wiki/Category:重機槍 "wikilink") [Category:12.7×99毫米槍械](https://zh.wikipedia.org/wiki/Category:12.7×99毫米槍械 "wikilink") [Category:美國機槍](https://zh.wikipedia.org/wiki/Category:美國機槍 "wikilink")
 
 1.  [1](http://www.janes.com/extracts/extract/jalw/jalw2943.html)
-
 2.
-
 3.  <http://www.time.com/time/politics/article/0,8599,1665835-6,00.html>
-
 4.  [DefenseLINK News—Memorandum For Correspondents](http://www.defenselink.mil/news/Nov1999/m11101999_m176-99.html)
-
 5.  [Thomas—Search Results](http://thomas.loc.gov/cgi-bin/cpquery/?&sid=cp108omsRF&refer=&r_n=sr260.108&db_id=108&item=&sel=TOC_134924)
-
 6.  [Aviationnow—Region's Military Seeks to Modernize . . . But Tight Funding Forces Ingenuity](http://www.aviationnow.com/shownews/02fidae/special.htm)
-
 7.
 8.
-
 9.

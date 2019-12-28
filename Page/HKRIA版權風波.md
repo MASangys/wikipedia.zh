@@ -55,7 +55,7 @@
 
 ### 2010年
 
-  - 2010年1月1日，[無綫於轉播](../Page/電視廣播有限公司.md "wikilink")[商台的頒獎禮時](https://zh.wikipedia.org/wiki/商業電台 "wikilink")，把四大唱片公司歌手的相關片段全部刪去，改為訪問其他得獎歌手。
+  - 2010年1月1日，[無綫於轉播](../Page/電視廣播有限公司.md "wikilink")[商台的頒獎禮時](https://zh.wikipedia.org/wiki/商業電台 "wikilink")，把四大唱片公司歌手的相關片段全部刪去，改為訪問其他得獎歌手。同日起，[無綫將所有版本的](../Page/電視廣播有限公司.md "wikilink")《天氣報告》的背景音樂全面更換為Spread your wings及Summer greens，取代使用多年的音樂。
   - 2010年1月起，陸續有報導[HKRIA近日暗中准許歌手以](../Page/香港音像聯盟.md "wikilink")**廣東話**接受[有線娛樂新聞台](../Page/有線娛樂新聞台.md "wikilink")訪問，但於[亞視的相同限制則仍舊維持一段時間](../Page/亞洲電視.md "wikilink")。\[4\]
   - 2010年1月16日，[HKRIA成員旗下歌手全部未能於](../Page/香港音像聯盟.md "wikilink")《十大勁歌金曲頒獎典禮》獲得獎項，[英皇基本上成為大贏家](../Page/英皇娛樂.md "wikilink")。[環球唱片旗下的](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")[鄧健泓](../Page/鄧健泓.md "wikilink")因為身兼[無綫藝員並為頒獎典禮擔任司儀](../Page/電視廣播有限公司.md "wikilink")，成為頒獎禮當晚唯一出席的[HKRIA會員旗下歌手](../Page/香港音像聯盟.md "wikilink")。
   - 2010年1月28日，[張學友接受](https://zh.wikipedia.org/wiki/張學友 "wikilink")[亞視新聞](../Page/亞視新聞.md "wikilink")部《[時事追擊](../Page/時事追擊.md "wikilink")》訪問，當日六點鐘新聞更以頭條報導。\[5\]

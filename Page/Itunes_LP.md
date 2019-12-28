@@ -17,7 +17,7 @@ iTunes LP有其专用的格式扩展名叫做itlp，是一个使用[HTML](../Pag
 
 1.  <http://att.macrumors.com/attachment.php?attachmentid=193295&d=1252513068>
 2.  <http://www.reuters.com/article/technologyNews/idUSTRE5701KE20090801>
-3.  <http://www.roughlydrafted.com/2009/09/09/apple-rivals-dvd-with-new-itunes-extras-for-movies-and-albums/>
-4.  <http://www.roughlydrafted.com/2009/09/14/new-itunes-lp-and-extras-built-using-tunekit-framework-aimed-at-apple-tv/>
+3.
+4.
 5.  Robinson, Jay. [Some Notes On iTunes LP](http://jayrobinson.org/2009/09/11/some-notes-on-itunes-lp/)
 6.  <http://www.apple.com/itunes/lp-and-extras/>

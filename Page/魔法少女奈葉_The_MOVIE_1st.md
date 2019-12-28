@@ -85,12 +85,8 @@
 [Category:魔法少女奈葉](https://zh.wikipedia.org/wiki/Category:魔法少女奈葉 "wikilink") [Category:2010年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2010年日本劇場動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Megami_MAGAZINE](https://zh.wikipedia.org/wiki/Category:Megami_MAGAZINE "wikilink") [Category:重製動畫電影](https://zh.wikipedia.org/wiki/Category:重製動畫電影 "wikilink") [Category:魔法題材動畫電影](https://zh.wikipedia.org/wiki/Category:魔法題材動畫電影 "wikilink") [Category:草川啟造電影](https://zh.wikipedia.org/wiki/Category:草川啟造電影 "wikilink")
 
 1.  [《魔法少女奈葉The MOVIE 1st》首度動畫電影版企劃始動](http://gnn.gamer.com.tw/2/31712.html) 巴哈姆特
-
 2.
-
 3.
 4.  [キネマ旬報データベース「作品情報」](http://www.kinejun.jp/cinema/id/40581)より。なお、[エンドロールには括弧内の各社名は表示されていない](https://zh.wikipedia.org/wiki/クレジットタイトル "wikilink")。
-
 5.  [](http://music.jp.msn.com/news/article.aspx?articleid=201978)
-
 6.

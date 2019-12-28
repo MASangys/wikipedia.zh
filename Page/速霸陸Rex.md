@@ -52,7 +52,7 @@ Image:1985-1986 Subaru Rex u rear.jpg|後期型車尾 Image:1987 Subaru 700 Supe
 
 1989年 - 6月進行小改款，動力來源改成直列四缸的[EN05A型引擎](https://zh.wikipedia.org/wiki/速霸陸EN族引擎#EN05A型 "wikilink")，外觀方面修改[保險桿](https://zh.wikipedia.org/wiki/保險桿 "wikilink")、進氣壩、尾燈、後車廂等處的造型。
 
-1990年 - 4月因日本政府變更[輕型車](../Page/輕型車.md "wikilink")的規範，引擎容量一舉提升至658c.c.，同時[車頭燈和前保桿的造型也稍微改變](https://zh.wikipedia.org/wiki/車頭燈 "wikilink")。[電視廣告](../Page/電視廣告.md "wikilink")的主角請來[搞笑女藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")擔任，直到1992年3月停產，後繼車種為[Vivio](../Page/速霸陸Vivio.md "wikilink")。
+1990年 - 4月因日本政府變更[輕型車](../Page/輕型車.md "wikilink")的規範，引擎容量一舉提升至658c.c.，同時[車頭燈和前保桿的造型也稍微改變](https://zh.wikipedia.org/wiki/車頭燈 "wikilink")。[電視廣告](../Page/電視廣告.md "wikilink")的主角請來[搞笑女藝人](../Page/搞笑藝人.md "wikilink")擔任，直到1992年3月停產，後繼車種為[Vivio](../Page/速霸陸Vivio.md "wikilink")。
 
 Image:Subaru Rex 1986.jpg|車頭 Image:Subaru Rex 1986 Rear.jpg|車尾 Image:3rd Subaru Rex 2.jpg|車尾 Image:3rd Subaru Rex 1.jpg|車頭
 

@@ -2441,47 +2441,26 @@ Ankh用來維持手部1枚，於第48話碎成兩半<br />
 [Category:朝日電視台電視劇](https://zh.wikipedia.org/wiki/Category:朝日電視台電視劇 "wikilink") [Category:2010年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年日本電視劇集 "wikilink") [Category:假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列跨界作品 "wikilink") [Category:東森電視外購電視劇](https://zh.wikipedia.org/wiki/Category:東森電視外購電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:動物題材電視劇](https://zh.wikipedia.org/wiki/Category:動物題材電視劇 "wikilink") [Category:鍊金術題材作品](https://zh.wikipedia.org/wiki/Category:鍊金術題材作品 "wikilink")
 
 1.  假面騎士OOO第48集片尾曾經顯示過假面騎士Fourze中的角色與Fourze所用的Switch。
-
 2.  幹巧的怪人形態在故事开始前本来就有，且才专属劇場版時被公布出来；而劍崎則是为了避免世界被毁灭而自愿变化的
-
 3.  與該作不同都是，本作的怪人是首次以不完整且有自主意识的姿态呈现
-
 4.  第43話之後因Ankh叛變，所以只計算映司所持有的。
-
 5.  即鸟系、恐龙系和超级TaToBa系联组
-
 6.  官方所认定的TV篇最终形態為恐龙系联组，但TV篇最终話登場的是鸟系联组，以及劇場版最终形態則是超级TaToBa系联组，因此一直以来都没有一个完整的解释
-
 7.  第5話中，映司被Uva攻擊時，須連絡Ankh到場才能變身成假面騎士OOO。
-
 8.  這不是映司和Ankh的持有枚數，而是劇中出現過的總枚數
-
 9.  第29話中，Kazari製造出了既非寄宿於宿主，也不是築巢生長，更不是直接完成的Yummy，而只是普通的Blank。
-
 10. 第31話中，Uva利用此方式來增加CELL MEDAL。
-
 11. 台灣東森幼幼台在首播第1-2集時，曾將這兩集的大量片段剪掉（因大部分為安酷的手臂單獨出現的畫面），並合併為一集，引起大量台灣假面騎士迷不滿，並對此提出抗議，因此東森幼幼台決定在6月21號23:00重播第1-2集完整版。日後在節目播出時就會提醒畫面為特效設計，建議闔家共同觀賞。
-
 12.
 13. 2010年11月7日停播一次
-
 14. 2011年1月2日停播一次
-
 15. 2011年3月13日停播一次
-
 16. 第27-28集為假面騎士系列總播出集數第1000集紀念特集
-
 17.
 18. 2014年2月1日停播一次
-
 19. 2014年4月5日停播一次
-
 20. 2011年6月19日停播一次
-
 21. *Otona Fami*, No. 26
-
 22.
-
 23. 歌名及歌星資料來自東森幼幼台節目
-
 24. 已知的新城知訊台《星期日大菠蘿》節目只報了此曲的演唱人

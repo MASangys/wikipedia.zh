@@ -12,12 +12,6 @@
 
 ## 参考资料
 
-<div class="references-small">
-
-<references />
-
-</div>
-
 [Category:加成反应](https://zh.wikipedia.org/wiki/Category:加成反应 "wikilink") [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.  Reissert, A. *[Ber.](https://zh.wikipedia.org/wiki/Chemische_Berichte "wikilink")* **1905**, *38*, 1603.

@@ -45,19 +45,12 @@
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Mag_Garden](https://zh.wikipedia.org/wiki/Category:Mag_Garden "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink")
 
 1.  漫畫單行本第一冊 作者的話
-
 2.
-
 3.
 4.
-
 5.
-
 6.  漫畫單行本第一冊 《flat；andante》 P.45
-
 7.  漫畫單行本第一冊 《flat》 P.9
-
 8.  漫畫單行本第一冊 《flat》 P.37
-
 9.
 10. 漫畫單行本第一冊 《flat；you asked for it》 P.85

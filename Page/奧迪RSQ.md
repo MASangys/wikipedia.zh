@@ -18,12 +18,8 @@ RSQ還採納了電影導演Alex Proyas的構想.\[2\] 採用天馬行空的[球�
 [Category:奧迪概念車](https://zh.wikipedia.org/wiki/Category:奧迪概念車 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.

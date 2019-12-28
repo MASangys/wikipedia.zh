@@ -20,7 +20,7 @@ Contiki可以在每个进程内选择是否支持先占式多线程，[进程间
 
   - 多任务内核
   - 每个应用程序中可选的先占式多线程
-  - [Protothreads模型](https://zh.wikipedia.org/wiki/Protothreads "wikilink")
+  - [Protothreads](../Page/Protothreads.md "wikilink")模型
   - [TCP/IP网络支持](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")，包括[IPv6](../Page/IPv6.md "wikilink")
   - [视窗系统与](https://zh.wikipedia.org/wiki/视窗系统 "wikilink")[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")
   - 基于[VNC](../Page/VNC.md "wikilink")的网络化远程显示
@@ -102,7 +102,6 @@ Contiki操作系统已被[移植到以下系统中](https://zh.wikipedia.org/wik
 [Category:嵌入式作業系統](https://zh.wikipedia.org/wiki/Category:嵌入式作業系統 "wikilink") [Category:自由網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:自由網頁瀏覽器 "wikilink") [Category:自由作業系統](https://zh.wikipedia.org/wiki/Category:自由作業系統 "wikilink") [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
 
 1.  [cc65](https://zh.wikipedia.org/wiki/cc65 "wikilink") based development
-
 2.
 3.
 4.

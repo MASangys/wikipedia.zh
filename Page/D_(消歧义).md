@@ -9,6 +9,7 @@ D，d可以指：
       - 第一个[光盘驱动器](https://zh.wikipedia.org/wiki/光盘 "wikilink")；或
       - 第一个RAM-Disk；或
       - 第一个[网路磁盘](https://zh.wikipedia.org/wiki/网路 "wikilink")
+  - 交通领域的[D线](https://zh.wikipedia.org/wiki/D线 "wikilink")，另做消歧义页
 
 ## 大寫D
 
@@ -21,7 +22,7 @@ D，d可以指：
   - [電位移](../Page/電位移.md "wikilink")
   - 在[樂理中](https://zh.wikipedia.org/wiki/樂理 "wikilink")，表示：
       - [音階中的](https://zh.wikipedia.org/wiki/音階 "wikilink")[D音](https://zh.wikipedia.org/wiki/D音 "wikilink")
-      - [調號中的](https://zh.wikipedia.org/wiki/調號 "wikilink")[D大調及](https://zh.wikipedia.org/wiki/D大調 "wikilink")[D小調](https://zh.wikipedia.org/wiki/D小調 "wikilink")
+      - [調號中的](https://zh.wikipedia.org/wiki/調號 "wikilink")[D大調](../Page/D大調.md "wikilink")及[D小調](https://zh.wikipedia.org/wiki/D小調 "wikilink")
   - 在[罗马数字](../Page/罗马数字.md "wikilink")中表示[500](https://zh.wikipedia.org/wiki/500 "wikilink")
   - 1.5V[干电池的标准尺寸之一](https://zh.wikipedia.org/wiki/干电池 "wikilink")
   - 在[军事术语中](https://zh.wikipedia.org/wiki/军事 "wikilink")，**[D日](../Page/D日.md "wikilink")**经常用作表示一次作战或行动发起的那天，最著名的D日是1944年6月6日－[诺曼底战役](../Page/诺曼底战役.md "wikilink")打响之日。

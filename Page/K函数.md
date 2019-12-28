@@ -6,7 +6,7 @@
 
 \[K(z)=\exp\left[\zeta^\prime(-1,z)-\zeta^\prime(-1)\right].\]
 
-其中，\(\zeta^\prime(z)\)表示[黎曼ζ函數](../Page/黎曼ζ函數.md "wikilink")的[导函数](https://zh.wikipedia.org/wiki/导函数 "wikilink")，而\(\zeta^\prime(a,z)\)则表示[赫维茨ζ函数的导函数](https://zh.wikipedia.org/wiki/赫维茨ζ函数 "wikilink")，即
+其中，\(\zeta^\prime(z)\)表示[黎曼ζ函數](../Page/黎曼ζ函數.md "wikilink")的[导函数](https://zh.wikipedia.org/wiki/导函数 "wikilink")，而\(\zeta^\prime(a,z)\)则表示[赫爾維茨ζ函数的导函数](https://zh.wikipedia.org/wiki/赫爾維茨ζ函数 "wikilink")，即
 
 \[\zeta^\prime(a,z)\ \stackrel{\mathrm{def}}{=}\ \left[\frac{d\zeta(s,z)}{ds}\right]_{s=a}.\]
 

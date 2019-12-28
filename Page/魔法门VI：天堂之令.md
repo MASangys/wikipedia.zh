@@ -85,35 +85,22 @@
 [Category:New_World_Computing游戏](https://zh.wikipedia.org/wiki/Category:New_World_Computing游戏 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:第一人称游戏](https://zh.wikipedia.org/wiki/Category:第一人称游戏 "wikilink") [Category:3DO公司游戏](https://zh.wikipedia.org/wiki/Category:3DO公司游戏 "wikilink") [Category:1998年电子游戏](https://zh.wikipedia.org/wiki/Category:1998年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:魔法门系列](https://zh.wikipedia.org/wiki/Category:魔法门系列 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
 15. 多款极为著名的RPG发布于1998年，其他还有[博德之门](../Page/博德之门.md "wikilink")和[辐射2](../Page/辐射2.md "wikilink")等。
-
 16.
 17.
-
 18.
 19.
-
 20.

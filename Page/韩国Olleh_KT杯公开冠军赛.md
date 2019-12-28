@@ -60,7 +60,7 @@
 ## 外部链接
 
   - [Olleh KT杯歷屆結果-韓國棋院官網](http://www.baduk.or.kr/info/gijun_view.asp?cmpt_tnmt_div=1&cmpt_code=6857)
-  - [韩国新兴赛事Olleh KT杯正式签约 业余棋手无界限_棋牌_体坛周报·体坛网](http://sports.titan24.com/qipai/2010-03-04/9925.html)
+  - [韩国新兴赛事Olleh KT杯正式签约 业余棋手无界限_棋牌_体坛周报·体坛网](https://web.archive.org/web/20160304200309/http://sports.titan24.com/qipai/2010-03-04/9925.html)
   - [韩国KT杯李世石展示暴力 3比1斩姜东润收获冠军_综合体育_新浪竞技风暴_新浪网](http://sports.sina.com.cn/go/2010-11-09/21535297327.shtml)
 
 ## 参考
@@ -69,4 +69,4 @@
 
 [Category:韩国围棋比赛](https://zh.wikipedia.org/wiki/Category:韩国围棋比赛 "wikilink")
 
-1.  [BC信用卡杯完成历史使命 中韩均有望推出新的世界大赛](http://weiqi.sports.tom.com/2013-02-17/00UP/34330748.html)
+1.

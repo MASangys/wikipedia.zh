@@ -1,6 +1,6 @@
 [Nissan_Diesel_Logo.jpg](https://zh.wikipedia.org/wiki/File:Nissan_Diesel_Logo.jpg "fig:Nissan_Diesel_Logo.jpg")
 
-**UD卡車**，是[富豪集團旗下的](https://zh.wikipedia.org/wiki/富豪集團 "wikilink")[日本](../Page/日本.md "wikilink")[貨車製造公司](https://zh.wikipedia.org/wiki/貨車 "wikilink")。
+**UD卡車**，是[五十鈴](../Page/五十鈴.md "wikilink")旗下的[日本](../Page/日本.md "wikilink")[貨車製造公司](https://zh.wikipedia.org/wiki/貨車 "wikilink")，2005年之前屬於日產汽車的商用車部門日產柴油工業
 
 ## 歷史
 
@@ -13,6 +13,10 @@
   - 2007年3月29日 ，Nissan Diesel成為[富豪集團全資附屬公司](https://zh.wikipedia.org/wiki/富豪集團 "wikilink")。
   - 2010年1月1日，Nissan Diesel被富豪集團全資附屬公司“”吸收合併。
   - 2010年2月1日，Nissan Diesel更名為“UD Trucks”，而香港及澳門代理商為[太古集團](../Page/太古集團.md "wikilink")旗下之躍達汽車有限公司。
+
+<!-- end list -->
+
+  - 2019年12月19日，[沃爾沃集團以](https://zh.wikipedia.org/wiki/沃爾沃集團 "wikilink")2500億日圓（23億美元或160億人民幣）出售旗下[UD卡車](../Page/UD卡車.md "wikilink")給[五十鈴](../Page/五十鈴.md "wikilink")，雙方將結成聯盟，在電動化和自動駕駛等新一代技術上展開合作
 
 ## 旗下車型
 
@@ -42,7 +46,7 @@
 
 ## 外部链接
 
-  - [UD Trucks](http://www.udtrucks.com)
-  - [臺灣總經銷-裕佳汽車](http://www.yuchia-motor.com.tw/)
+  - [UD Trucks](https://web.archive.org/web/20140929055351/http://www.udtrucks.com/)
+  - [臺灣總經銷-裕佳汽車](https://web.archive.org/web/20190110144938/http://www.yuchia-motor.com.tw/)
 
 [Category:日本汽車公司](https://zh.wikipedia.org/wiki/Category:日本汽車公司 "wikilink") [Category:埼玉縣公司](https://zh.wikipedia.org/wiki/Category:埼玉縣公司 "wikilink") [Category:貨車生產商](https://zh.wikipedia.org/wiki/Category:貨車生產商 "wikilink") [Category:東京證券交易所已除牌公司](https://zh.wikipedia.org/wiki/Category:東京證券交易所已除牌公司 "wikilink") [Category:沃爾沃集團](https://zh.wikipedia.org/wiki/Category:沃爾沃集團 "wikilink")

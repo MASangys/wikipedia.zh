@@ -100,6 +100,16 @@
 </ul></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><strong>2nd</strong></p></td>
+<td><p>第二張日語迷你專輯《<strong>Story of...</strong>》</p>
+<ul>
+<li>發行日期：2019年12月25日</li>
+<li>語言：日語</li>
+<li>銷量：</li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -125,7 +135,7 @@
   - 2010年 [Cass啤酒](https://zh.wikipedia.org/wiki/Cass啤酒 "wikilink")〈tik tok〉with [尹恩惠](../Page/尹恩惠.md "wikilink")
   - 2011年 泰國樂團[ETC Band](https://zh.wikipedia.org/wiki/ETC_Band "wikilink")〈痛...慢慢习惯〉
   - 2011年 台灣歌手[潘瑋柏](https://zh.wikipedia.org/wiki/潘瑋柏 "wikilink")〈觸動〉
-  - 2017年 [Jun. K](https://zh.wikipedia.org/wiki/Jun._K "wikilink")([2pm](https://zh.wikipedia.org/wiki/2pm "wikilink")) <婚禮>
+  - 2017年 [Jun. K](https://zh.wikipedia.org/wiki/Jun._K "wikilink")([2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")) <婚禮>
 
 ### 綜藝節目
 
@@ -556,6 +566,6 @@
   - [泰國觀光局宣傳網頁](https://web.archive.org/web/20160809142050/http://www.nichkhunbreak.com/)
 
   -
-[Category:2PM成員](https://zh.wikipedia.org/wiki/Category:2PM成員 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:泰國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:泰國流行音樂歌手 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:泰語歌手](https://zh.wikipedia.org/wiki/Category:泰語歌手 "wikilink") [Category:美國佛教徒](https://zh.wikipedia.org/wiki/Category:美國佛教徒 "wikilink") [Category:在韓國的美國人](https://zh.wikipedia.org/wiki/Category:在韓國的美國人 "wikilink") [Category:在韓國的泰國人](https://zh.wikipedia.org/wiki/Category:在韓國的泰國人 "wikilink") [Category:泰國裔美國人](https://zh.wikipedia.org/wiki/Category:泰國裔美國人 "wikilink") [Category:泰族裔混血兒](https://zh.wikipedia.org/wiki/Category:泰族裔混血兒 "wikilink") [Category:加州人](https://zh.wikipedia.org/wiki/Category:加州人 "wikilink") [Category:华裔美国人](https://zh.wikipedia.org/wiki/Category:华裔美国人 "wikilink") [Category:华裔混血儿](https://zh.wikipedia.org/wiki/Category:华裔混血儿 "wikilink")
+[Category:2PM成員](https://zh.wikipedia.org/wiki/Category:2PM成員 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:泰語歌手](https://zh.wikipedia.org/wiki/Category:泰語歌手 "wikilink") [Category:美國佛教徒](https://zh.wikipedia.org/wiki/Category:美國佛教徒 "wikilink") [Category:在韓國的美國人](https://zh.wikipedia.org/wiki/Category:在韓國的美國人 "wikilink") [Category:在韓國的泰國人](https://zh.wikipedia.org/wiki/Category:在韓國的泰國人 "wikilink") [Category:泰國裔美國人](https://zh.wikipedia.org/wiki/Category:泰國裔美國人 "wikilink") [Category:泰族裔混血兒](https://zh.wikipedia.org/wiki/Category:泰族裔混血兒 "wikilink") [Category:加州人](https://zh.wikipedia.org/wiki/Category:加州人 "wikilink") [Category:华裔美国人](https://zh.wikipedia.org/wiki/Category:华裔美国人 "wikilink") [Category:华裔混血儿](https://zh.wikipedia.org/wiki/Category:华裔混血儿 "wikilink")
 
 1.  [The Birth of Nichkhun Buck Horvejkul](http://www.californiabirthindex.org/birth/nichkhun_buck_horvejkul_born_1988_18585033)

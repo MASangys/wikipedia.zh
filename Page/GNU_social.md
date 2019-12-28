@@ -59,20 +59,12 @@ StatusNet部署在很多公共服务上。\[9\]
 [Category:网站](https://zh.wikipedia.org/wiki/Category:网站 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:虚拟社群](https://zh.wikipedia.org/wiki/Category:虚拟社群 "wikilink") [Category:網誌](https://zh.wikipedia.org/wiki/Category:網誌 "wikilink") [Category:微博客](https://zh.wikipedia.org/wiki/Category:微博客 "wikilink") [Category:自由软件网站](https://zh.wikipedia.org/wiki/Category:自由软件网站 "wikilink")
 
 1.  Laconica is now StatusNet , retrieved 2009-10-04
-
 2.  [Terdiman, Daniel](https://zh.wikipedia.org/wiki/Daniel_Terdiman "wikilink") (2008-10-6) [Taking on Twitter with open-source software](http://news.cnet.com/8301-13772_3-10058946-52.html), CNet. Retrieved 2009-1-3.
-
 3.  Bastien, Malcolm (2008-8-28) [Why Laconica Means Big Things For Corporate Micro Blogging](http://openmode.ca/2008/08/why-laconica-means-big-things-for-corporate-micro-blogging/) . Retrieved 2009-1-3.
-
 4.  [StatusNet 0.9.0](http://status.net/wiki/StatusNet_0.9.0)
-
 5.  [StatusNet 0.9.0 Released](http://status.net/2010/03/04/statusnet-0-9-0-released)
-
 6.
-
 7.  StatusNet 0.8.1 (2009-8-28) , StatusNet Wiki Retrieved 2009-8-29.
-
 8.
 9.  [List of StatusNet servers](http://status.net/wiki/ListOfServers)
-
 10. [TWiT Army](http://army.twit.tv)

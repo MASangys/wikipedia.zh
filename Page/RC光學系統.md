@@ -45,16 +45,10 @@ RC光學系統製造了[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")
 [Category:望遠鏡製造商](https://zh.wikipedia.org/wiki/Category:望遠鏡製造商 "wikilink") [Category:1998年建立](https://zh.wikipedia.org/wiki/Category:1998年建立 "wikilink")
 
 1.  <http://www.reuters.com/article/pressRelease/idUS138408+04-Feb-2008+BW20080204>
-
 2.  <http://www.manta.com/coms2/dnbcompany_jg380>
-
 3.
-
 4.
 5.
-
 6.
-
 7.  <http://www.lightbuckets.com/newsarticle/5/rc-optical-systems-24-ritchey-chretien-review/>
-
 8.  <http://www.robtics.nl/product_info.php?manufacturers_id=49&products_id=467>

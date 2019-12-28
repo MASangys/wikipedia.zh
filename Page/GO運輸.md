@@ -92,7 +92,7 @@ GO的其他巴士綫則完全獨立運作，而不與鐵路服務銜接或重疊
 
 GO的巴士服務停靠17個巴士總站\[8\]</ref>。部分總站的業權屬GO，由GO巴士專用或與其他市立公共交通機構共用。其他總站則屬市立公共交通機構，但允許GO巴士停靠；另外亦有市際巴士總站供GO和其他長途巴士公司（如[灰狗巴士](../Page/灰狗巴士.md "wikilink")）停靠。
 
-GO鐵路於多處與[多倫多公車局](https://zh.wikipedia.org/wiki/多倫多公車局 "wikilink")（TTC）旗下的巴士、[電車和](../Page/多倫多路面電車系統.md "wikilink")[地鐵服務接駁](../Page/多倫多地鐵.md "wikilink")。GO鐵路於[聯合車站的大堂與TTC的](https://zh.wikipedia.org/wiki/聯合車站_\(多倫多\) "wikilink")相連，方便乘客換乘[央街－大學－士巴丹拿線](https://zh.wikipedia.org/wiki/央街－大學－士巴丹拿線 "wikilink")。GO鐵路亦於另外四個車站與[布羅爾－單福線](../Page/布羅爾－單福線.md "wikilink")接駁，而GO巴士的其中一個總站亦與[士嘉堡輕鐵](../Page/士嘉堡輕鐵.md "wikilink")接駁。多倫多市以内的所有GO鐵路車站皆與TTC的巴士綫和電車綫接駁。GO亦於多倫多市以外與另外14間市立公共交通機構的巴士服務接駁。
+GO鐵路於多處與[多倫多公車局](https://zh.wikipedia.org/wiki/多倫多公車局 "wikilink")（TTC）旗下的巴士、[電車和](../Page/多倫多路面電車系統.md "wikilink")[地鐵服務接駁](../Page/多倫多地鐵.md "wikilink")。GO鐵路於[聯合車站的大堂與TTC的](https://zh.wikipedia.org/wiki/聯合車站_\(多倫多\) "wikilink")[联合车站地铁站相連](https://zh.wikipedia.org/wiki/联合车站_\(多伦多地铁\) "wikilink")，方便乘客換乘[央街－大學－士巴丹拿線](https://zh.wikipedia.org/wiki/央街－大學－士巴丹拿線 "wikilink")。GO鐵路亦於另外四個車站與[布羅爾－單福線](../Page/布羅爾－單福線.md "wikilink")接駁，而GO巴士的其中一個總站亦與[士嘉堡輕鐵](../Page/士嘉堡輕鐵.md "wikilink")接駁。多倫多市以内的所有GO鐵路車站皆與TTC的巴士綫和電車綫接駁。GO亦於多倫多市以外與另外14間市立公共交通機構的巴士服務接駁。
 
 ## 歷史
 
@@ -145,42 +145,26 @@ GO鐵路的乘客中有96%是往返多倫多市中心的聯合車站，而巴士
 [Category:安大略省交通](https://zh.wikipedia.org/wiki/Category:安大略省交通 "wikilink")
 
 1.  [Metrolinx About Us](http://www.metrolinx.com/en/aboutUs.aspx)
-
 2.
-
 3.
-
 4.  [GO deal swaps CN crews with Bombardier personnel, Toronto Star Nov 09, 2007](http://www.thestar.com/article/275022)
-
 5.
-
 6.
-
 7.
 8.
 9.  Sergeant, Ch.3: MTARTS, the commuter study.
-
 10. Garcia et al.: Lakeshore corridor
-
 11. Sergeant, Ch.4: Buying the trains.
-
 12.
 13. Garcia et al.: Georgetown corridor
-
 14. Garcia et al.: Regional Transit Routes
-
 15.
 16. Garcia et al.: GO ALRT
-
 17.
 18. Garcia et al.: Bradford corridor
-
 19.
 20.
-
 21.
-
 22.
 23.
-
 24. [2009 and 2010 GO Ridership Figures](http://urbantoronto.ca/showthread.php?17355-2009-and-2010-GO-Ridership-Figures)

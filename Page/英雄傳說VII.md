@@ -32,69 +32,79 @@
 <!-- end list -->
 
   - 2017年1月，[Microsoft Windows平台版本的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")《英雄傳說 零之軌跡》與《英雄傳說 碧之軌跡》經曾由歡樂百世提交到[Steam](../Page/Steam.md "wikilink")青睞之光\[10\]\[11\]。但在月底，這兩款遊戲在Steam青睞之光上被撤銷，可能是由於歡樂百世與Falcom對此還沒有達成共識。
+  - 2019年12月，Falcom官方宣布將PSP版本移植至[PlayStation 4平台](../Page/PlayStation_4.md "wikilink")，同時搭載主線劇情全語音\[12\]。
 
 ### 零之軌跡
 
-[Zero_no_Kiseki.jpg](https://zh.wikipedia.org/wiki/File:Zero_no_Kiseki.jpg "fig:Zero_no_Kiseki.jpg") 2010年9月30日在[PSP平台上推出](https://zh.wikipedia.org/wiki/PSP "wikilink")。為[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")第九部作品，[軌跡系列第四部作品](https://zh.wikipedia.org/wiki/軌跡系列 "wikilink")，『Ⅶ』的前篇。也是英雄傳說系列第一次在[掌上遊戲機上開發的作品](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")。主題是**「跨越障壁」**，這個主題的信念也被續編所承襲\[12\]。
+[Zero_no_Kiseki.jpg](https://zh.wikipedia.org/wiki/File:Zero_no_Kiseki.jpg "fig:Zero_no_Kiseki.jpg") 2010年9月30日在[PSP平台上推出](https://zh.wikipedia.org/wiki/PSP "wikilink")。為[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")第九部作品，[軌跡系列第四部作品](https://zh.wikipedia.org/wiki/軌跡系列 "wikilink")，『Ⅶ』的前篇。也是英雄傳說系列第一次在[掌上遊戲機上開發的作品](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")。主題是**「跨越障壁」**，這個主題的信念也被續編所承襲\[13\]。
 
-  - 由《伊蘇7》插圖繪師[榎波克己](../Page/榎波克己.md "wikilink")擔當本作人物繪製\[13\]。不過負責的部分只有依照Falcom提供的人設繪製人物插圖，人物設定的部分並沒有參與\[14\]。
-
-<!-- end list -->
-
-  - 日文版最初只有PSP版並沒有在PC上推出，不過中文版本在得到授權後，於2011年推出PC版\[15\]。
+  - 由《伊蘇7》插圖繪師[榎波克己](../Page/榎波克己.md "wikilink")擔當本作人物繪製\[14\]。不過負責的部分只有依照Falcom提供的人設繪製人物插圖，人物設定的部分並沒有參與\[15\]。
 
 <!-- end list -->
 
-  - 日文PSP版統計銷量約為16萬套\[16\]。中文PC版統計銷量約為8萬套（截至2011年12月）\[17\]。
+  - 日文版最初只有PSP版並沒有在PC上推出，不過中文版本在得到授權後，於2011年推出PC版\[16\]。
 
 <!-- end list -->
 
-  - 2012年10月18日，移植版本《**英雄傳說 零之軌跡 Evolution**》在[PlayStation Vita上推出](../Page/PlayStation_Vita.md "wikilink")。由Pyramid負責開發，角川遊戲發行。遊戲是以PSP版原作為基礎，大幅翻新語音、圖像、音樂、動畫、劇本等內容的強化移植版\[18\]。遊戲封面由[榎波克己](../Page/榎波克己.md "wikilink")繪製\[19\]。
+  - 日文PSP版統計銷量約為16萬套\[17\]。中文PC版統計銷量約為8萬套（截至2011年12月）\[18\]。
 
 <!-- end list -->
 
-  - 2013年6月14日，Falcom將《英雄傳說 零之軌跡》高畫質中文版本，製作為日文版對應Windows8平台發售\[20\]。
+  - 2012年10月18日，移植版本《**英雄傳說 零之軌跡 Evolution**》在[PlayStation Vita上推出](../Page/PlayStation_Vita.md "wikilink")。由Pyramid負責開發，角川遊戲發行。遊戲是以PSP版原作為基礎，大幅翻新語音、圖像、音樂、動畫、劇本等內容的強化移植版\[19\]。遊戲封面由[榎波克己](../Page/榎波克己.md "wikilink")繪製\[20\]。
+
+<!-- end list -->
+
+  - 2013年6月14日，Falcom將《英雄傳說 零之軌跡》高畫質中文版本，製作為日文版對應Windows8平台發售\[21\]。
+
+<!-- end list -->
+
+  - 2019年12月，Falcom宣布PS4移植版本《**英雄傳說 零之軌跡：改**》將於2020年春季發售。
 
 ### 碧之軌跡
 
-[Ao_no_Kiseki.jpg](https://zh.wikipedia.org/wiki/File:Ao_no_Kiseki.jpg "fig:Ao_no_Kiseki.jpg") 2011年9月29日在[PSP平台上推出](https://zh.wikipedia.org/wiki/PSP "wikilink")\[21\]\[22\]。為[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")第十部作品，[軌跡系列第五部作品](https://zh.wikipedia.org/wiki/軌跡系列 "wikilink")，『Ⅶ』的後篇。為FALCOM創立30周年紀念作\[23\]\[24\]\[25\]，繼承了《零》的主題「跨越障壁」，《碧》的主題為**「跨越障壁，希望在相同的時代一起活下去」**\[26\]。
+[Ao_no_Kiseki.jpg](https://zh.wikipedia.org/wiki/File:Ao_no_Kiseki.jpg "fig:Ao_no_Kiseki.jpg") 2011年9月29日在[PSP平台上推出](https://zh.wikipedia.org/wiki/PSP "wikilink")\[22\]\[23\]。為[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")第十部作品，[軌跡系列第五部作品](https://zh.wikipedia.org/wiki/軌跡系列 "wikilink")，『Ⅶ』的後篇。為FALCOM創立30周年紀念作\[24\]\[25\]\[26\]，繼承了《零》的主題「跨越障壁」，《碧》的主題為**「跨越障壁，希望在相同的時代一起活下去」**\[27\]。
 
-  - 關於作品標題，也曾經考慮過如同《空之軌跡SC》一般的形式以「第2章」的英文簡寫「SC (Second Chapter)」命名為《零之軌跡SC》。不過認為「SC」無法展現本作故事意象「無限的可能性」；另外，《零》也給人以藍色為代表的印象，因此決定使用比藍更深更廣的「碧」這個字作為本作標題\[27\]。
-
-<!-- end list -->
-
-  - 《零》擔當插圖繪師的[榎波克己](../Page/榎波克己.md "wikilink")，由於事務繁忙辭退了本作的人物繪製工作，由Falcom內部員工接手\[28\]。而後日程有了餘裕的情況下，又再次加入幫忙繪製封面的工作中\[29\]。
+  - 關於作品標題，也曾經考慮過如同《空之軌跡SC》一般的形式以「第2章」的英文簡寫「SC (Second Chapter)」命名為《零之軌跡SC》。不過認為「SC」無法展現本作故事意象「無限的可能性」；另外，《零》也給人以藍色為代表的印象，因此決定使用比藍更深更廣的「碧」這個字作為本作標題\[28\]。
 
 <!-- end list -->
 
-  - 除了普通版本以外，附DramaCD版與包含角色[黏土人](../Page/黏土人.md "wikilink")模型的限量版也同時推出\[30\]\[31\]。
+  - 《零》擔當插圖繪師的[榎波克己](../Page/榎波克己.md "wikilink")，由於事務繁忙辭退了本作的人物繪製工作，由Falcom內部員工接手\[29\]。而後日程有了餘裕的情況下，又再次加入幫忙繪製封面的工作中\[30\]。
 
 <!-- end list -->
 
-  - 日文PSP版統計銷量19萬4940套（截至2012年1月，含限定版）\[32\]。
+  - 除了普通版本以外，附DramaCD版與包含角色[黏土人](../Page/黏土人.md "wikilink")模型的限量版也同時推出\[31\]\[32\]。
+
+<!-- end list -->
+
+  - 日文PSP版統計銷量19萬4940套（截至2012年1月，含限定版）\[33\]。
 
 <!-- end list -->
 
   - 移植版本《**英雄傳說 碧之軌跡 Evolution**》於2014年6月12日在[PlayStation Vita上推出](../Page/PlayStation_Vita.md "wikilink")。
 
+<!-- end list -->
+
+  - 2019年12月，Falcom宣布PS4移植版本《**英雄傳說 碧之軌跡：改**》將於2020年春季發售。
+
 ## 發表歷史
 
   - 2007年 6月28日-在《英雄傳說 空之軌跡 the 3rd》結尾，出現了「To be continued... The Legend of Heroes VII.」預告續作的決定。
-  - 2007年11月14日-《英雄傳說Ⅶ》正在開發\[33\]。
-  - 2010年 4月23日-《英雄傳說 零之軌跡》將會在[PSP平台販售](https://zh.wikipedia.org/wiki/PSP "wikilink")\[34\]。
-  - 2010年 4月26日-Falcom官網推出「《零之軌跡》你來出演？」活動，截止日期為2010年5月31日\[35\]。
-  - 2010年 6月 3日-《零之軌跡》男女主角將會在PSP遊戲《[伊蘇vs.空之軌跡](https://zh.wikipedia.org/wiki/伊蘇vs.空之軌跡 "wikilink")》中登場\[36\]。
+  - 2007年11月14日-《英雄傳說Ⅶ》正在開發\[34\]。
+  - 2010年 4月23日-《英雄傳說 零之軌跡》將會在[PSP平台販售](https://zh.wikipedia.org/wiki/PSP "wikilink")\[35\]。
+  - 2010年 4月26日-Falcom官網推出「《零之軌跡》你來出演？」活動，截止日期為2010年5月31日\[36\]。
+  - 2010年 6月 3日-《零之軌跡》男女主角將會在PSP遊戲《[伊蘇vs.空之軌跡](https://zh.wikipedia.org/wiki/伊蘇vs.空之軌跡 "wikilink")》中登場\[37\]。
   - 2010年 9月30日-《英雄傳說 零之軌跡》發售。
-  - 2010年12月21日-《零之軌跡》的續編將會在2011年發布\[37\]。
+  - 2010年12月21日-《零之軌跡》的續編將會在2011年發布\[38\]。
   - 2011年 3月 3日-《英雄傳說 零之軌跡》發布免費體驗版本
-  - 2011年 3月24日-《電擊PlayStation》vol.492揭露《英雄傳說 碧之軌跡》在2011年9月29日銷售預定，同日公開碧之軌跡預告PV\[38\]\[39\]。
+  - 2011年 3月24日-《電擊PlayStation》vol.492揭露《英雄傳說 碧之軌跡》在2011年9月29日銷售預定，同日公開碧之軌跡預告PV\[39\]\[40\]。
   - 2011年 9月29日-距離前作正好滿一年，《英雄傳說 碧之軌跡》發售。
-  - 2012年 2月 9日-宣布在[PSV平台發表](../Page/PlayStation_Vita.md "wikilink")《英雄傳說 零之軌跡 Evolution》。Pyramid負責開發，角川遊戲發行\[40\]。
+  - 2012年 2月 9日-宣布在[PSV平台發表](../Page/PlayStation_Vita.md "wikilink")《英雄傳說 零之軌跡 Evolution》。Pyramid負責開發，角川遊戲發行\[41\]。
   - 2012年10月18日-《英雄傳說 零之軌跡 Evolution》發售。
   - 2013年 6月14日-《英雄傳說 零之軌跡》Windows8版本發售。
   - 2013年 7月11日-宣布在[PSV平台發表](../Page/PlayStation_Vita.md "wikilink")《英雄傳說 碧之軌跡 Evolution》。預定於2014年推出。
   - 2014年 6月12日-《英雄傳說 碧之軌跡 Evolution》發售。
   - 2014年 9月25日-本作主角羅伊德在同系列後作《英雄傳說 閃之軌跡2》以外傳主角的形式登場。
+  - 2019年12月18日-宣布在[PS4平台發表](../Page/PlayStation_4.md "wikilink")《英雄傳說 零之軌跡：改》與《英雄傳說 碧之軌跡：改》。
 
 ## 遊戲系統
 
@@ -263,7 +273,7 @@
 在此只介紹故事中曾出現之國家、地區場景。
 <small>詳細請參考：[軌跡系列用語列表 世界情勢](https://zh.wikipedia.org/wiki/英雄傳說_軌跡系列用語列表#世界情勢 "wikilink")</small>
 
-本作以被稱作「魔都」商業貿易都市「克洛斯貝爾市」為中心，圍繞在克洛斯貝爾自治州為主要舞台。本作時間軸上皆在七耀曆1204年，《零》故事結束於6月\[41\]；《碧》故事開始於8月\[42\]。
+本作以被稱作「魔都」商業貿易都市「克洛斯貝爾市」為中心，圍繞在克洛斯貝爾自治州為主要舞台。本作時間軸上皆在七耀曆1204年，《零》故事結束於6月\[42\]；《碧》故事開始於8月\[43\]。
 
 ### 克洛斯貝爾自治州
 
@@ -668,20 +678,22 @@
 
 ### 日文版
 
-[PSP版由日本遊戲公司](../Page/PlayStation_Portable.md "wikilink")[Falcom所開發](https://zh.wikipedia.org/wiki/Falcom "wikilink")。
+[PSP版由日本遊戲公司](../Page/PlayStation_Portable.md "wikilink")[Falcom所開發](https://zh.wikipedia.org/wiki/Falcom "wikilink")，而後移植至[PS4](../Page/PlayStation_4.md "wikilink")。
 [PSV版由](../Page/PlayStation_Vita.md "wikilink")[Pyramid負責移植](https://zh.wikipedia.org/wiki/Pyramid "wikilink")，[角川遊戲發行](https://zh.wikipedia.org/wiki/jp:角川ゲームス "wikilink")。
 
 |   | 標題                  | 作業平台  | 儲存媒體       | 發行日期        | 備註                                                 |
 | - | ------------------- | ----- | ---------- | ----------- | -------------------------------------------------- |
 | 零 | 英雄傳說 零之軌跡           | PSP   | UMD        | 2010年 9月30日 | 預購特典版含廣播劇CD、主題曲專輯。                                 |
 | 碧 | 英雄傳說 碧之軌跡           | PSP   | UMD        | 2011年 9月29日 | 預購限定版含廣播劇CD、艾利&緹歐[小黏土人](../Page/黏土人.md "wikilink") |
-| 零 | 英雄傳說 零之軌跡 Evolution | PSV   | NVG卡\[43\] | 2012年10月18日 | 主線劇情全語音化。                                          |
+| 零 | 英雄傳說 零之軌跡 Evolution | PSV   | NVG卡\[44\] | 2012年10月18日 | 主線劇情全語音化。                                          |
 | 零 | 英雄傳說 零之軌跡           | Win 8 | DVD        | 2013年 6月14日 | 移植中文版本改為日文版。                                       |
 | 碧 | 英雄傳說 碧之軌跡 Evolution | PSV   | NVG卡       | 2014年 6月12日 | 主線劇情全語音化。                                          |
+| 零 | 英雄傳說 零之軌跡：改         | PS4   | BD         | 2020年春季     | 從PSP版本重新移植，主線全語音                                   |
+| 碧 | 英雄傳說 碧之軌跡：改         | PS4   | BD         | 2020年春季     | 從PSP版本重新移植，主線全語音                                   |
 
 ### 中文版
 
-個人電腦[Microsoft Windows平台版本由在](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[英特衛的極力請求下](https://zh.wikipedia.org/wiki/英特衛 "wikilink")，[欢乐百世](../Page/欢乐百世.md "wikilink")決定取得代理並負責移植與進行[高畫質重製](../Page/HD_DVD.md "wikilink")\[44\]。
+個人電腦[Microsoft Windows平台版本由在](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[英特衛的極力請求下](https://zh.wikipedia.org/wiki/英特衛 "wikilink")，[欢乐百世](../Page/欢乐百世.md "wikilink")決定取得代理並負責移植與進行[高畫質重製](../Page/HD_DVD.md "wikilink")\[45\]。
 簡體中文版由[欢乐百世](../Page/欢乐百世.md "wikilink")在中國大陸發售，而繁體中文版由[英特衛和](https://zh.wikipedia.org/wiki/英特衛 "wikilink")[Typhoon Games分別在臺灣及香港發售](../Page/Typhoon_Games.md "wikilink")。
 
 | 版本   | 各地發行時間      |
@@ -689,6 +701,8 @@
 | 中國大陸 | 香港          |
 | 零之軌跡 | 2011年 8月28日 |
 | 碧之軌跡 | 2013年 3月28日 |
+
+PSV平台中文版於2019年10月31日同日發售。
 
 ## 主題曲
 
@@ -725,42 +739,42 @@
 <td></td>
 <td><p>2010年 9月30日</p></td>
 <td><p>預約特典。依據發售通路的不同共有五種版本。</p></td>
-<td><p>[45][46]</p></td>
+<td><p>[46][47]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>NW10102870</p></td>
 <td><p>2010年12月16日</p></td>
 <td></td>
-<td><p>[47]</p></td>
+<td><p>[48]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>NW10102880</p></td>
 <td><p>2011年 2月18日</p></td>
 <td></td>
-<td><p>[48]</p></td>
+<td><p>[49]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td><p>2011年 7月25日</p></td>
 <td><p>只在iTunes Store上販售</p></td>
-<td><p>[49][50]</p></td>
+<td><p>[50][51]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td><p>2011年 9月29日</p></td>
 <td><p>店家特典，共有四種版本。</p></td>
-<td><p>[51]</p></td>
+<td><p>[52]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>NW10102680</p></td>
 <td><p>2011年12月10日</p></td>
 <td></td>
-<td><p>[52]</p></td>
+<td><p>[53]</p></td>
 </tr>
 </tbody>
 </table>
@@ -884,93 +898,54 @@
 
 1.
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  「ゲーム回想録 英雄伝説シリーズの概要」『Falcom Chronicle』303頁
-
 8.
-
 9.
-
 10. [Steam 青睐之光 :: 零之轨迹《The Legend of Heroes: Trails to Zero](http://steamcommunity.com/sharedfiles/filedetails/?id=834967711)
-
 11. [Steam 青睐之光 :: 碧之轨迹《The Legend of Heroes: Trails to Azure》](http://steamcommunity.com/sharedfiles/filedetails/?id=834999048)
-
-12. 「『英雄伝説 碧の軌跡』最新情報&シナリオスタッフロングインタビュー」『FALCOM MAGAZINE』特別出張版、フィールドワイ、3頁
-
-13. 『電撃PlayStation』Vol.471
-
-14.
-
+12. <https://www.famitsu.com/news/201912/18189277.html>
+13. 「『英雄伝説 碧の軌跡』最新情報&シナリオスタッフロングインタビュー」『FALCOM MAGAZINE』特別出張版、フィールドワイ、3頁
+14. 『電撃PlayStation』Vol.471
 15.
-
-16. [Eiyuu Densetsu: Zero no Kiseki](http://www.vgchartz.com/game/44818/eiyuu-densetsu-zero-no-kiseki/Japan/)
-
-17. [大众软件：2011中国电脑游戏产业报告](http://games.qq.com/a/20111227/000476.htm#p=9)
-
-18.
-
+16.
+17. [Eiyuu Densetsu: Zero no Kiseki](http://www.vgchartz.com/game/44818/eiyuu-densetsu-zero-no-kiseki/Japan/)
+18. [大众软件：2011中国电脑游戏产业报告](http://games.qq.com/a/20111227/000476.htm#p=9)
 19.
-
 20.
-
 21.
 22.
-23. 『電撃PlayStation』vol.492、27頁
-
-24. 「英雄伝説 碧の軌跡」OPムービー(ナレーションあり)
-
-25. 日本Falcom『IR情報』2010年12月21日
-
-26.
-27. Falcom社長[近藤季洋於](https://zh.wikipedia.org/wiki/近藤季洋 "wikilink")『電撃PlayStation』vol.492、26頁訪談
-
-28.
-
+23.
+24. 『電撃PlayStation』vol.492、27頁
+25. 「英雄伝説 碧の軌跡」OPムービー(ナレーションあり)
+26. 日本Falcom『IR情報』2010年12月21日
+27.
+28. Falcom社長[近藤季洋於](https://zh.wikipedia.org/wiki/近藤季洋 "wikilink")『電撃PlayStation』vol.492、26頁訪談
 29.
-
 30.
 31.
-32. 『[週刊ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")』No.1206（1月26日号）、[エンターブレイン](https://zh.wikipedia.org/wiki/エンターブレイン "wikilink")、2012年、11頁。
-
-33. 日本Falcom『IR情報』2007年11月14日
-
-34.
-35. 日本Falcom『IR情報』2010年4月26日
-
-36. 電撃オンライン2010年6月3日記事「『イースvs.空の軌跡』に『英雄伝説 零の軌跡』から2人が参戦\!\!」
-
-37.
+32.
+33. 『[週刊ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")』No.1206（1月26日号）、[エンターブレイン](https://zh.wikipedia.org/wiki/エンターブレイン "wikilink")、2012年、11頁。
+34. 日本Falcom『IR情報』2007年11月14日
+35.
+36. 日本Falcom『IR情報』2010年4月26日
+37. 電撃オンライン2010年6月3日記事「『イースvs.空の軌跡』に『英雄伝説 零の軌跡』から2人が参戦\!\!」
 38.
 39.
 40.
-
-41. 依《零》與《碧》的劇情推算。
-
-42. 《碧》第二章開頭旁白提到「1204年 秋」，以及《閃》公佈塞姆利亞通商會議最後一天為8月31日推算。
-
-43.
-
+41.
+42. 依《零》與《碧》的劇情推算。
+43. 《碧》第二章開頭旁白提到「1204年 秋」，以及《閃》公佈塞姆利亞通商會議最後一天為8月31日推算。
 44.
 45.
-
 46.
-
-47. 日本Falcom『IR情報』2010年11月 2日。
-
-48. 日本Falcom『IR情報』2011年 1月14日。
-
-49. 日本Falcom『IR情報』2011年7月15日。
-
-50. [iTunes - ミュージック - ファルコム・サウンド・チーム・JDK「碧い軌跡/小寺可南子 - Single」](https://itunes.apple.com/jp/album/id449574419)
-
-51.
-
-52. 日本Falcom『IR情報』2011年10月28日。
+47.
+48. 日本Falcom『IR情報』2010年11月 2日。
+49. 日本Falcom『IR情報』2011年 1月14日。
+50. 日本Falcom『IR情報』2011年7月15日。
+51. [iTunes - ミュージック - ファルコム・サウンド・チーム・JDK「碧い軌跡/小寺可南子 - Single」](https://itunes.apple.com/jp/album/id449574419)
+52.
+53. 日本Falcom『IR情報』2011年10月28日。

@@ -1317,20 +1317,14 @@
 [Category:搖滾音樂節](https://zh.wikipedia.org/wiki/Category:搖滾音樂節 "wikilink") [Category:日本流行音樂](https://zh.wikipedia.org/wiki/Category:日本流行音樂 "wikilink") [Category:富士吉田市](https://zh.wikipedia.org/wiki/Category:富士吉田市 "wikilink") [Category:住之江區](https://zh.wikipedia.org/wiki/Category:住之江區 "wikilink") [Category:此花區](https://zh.wikipedia.org/wiki/Category:此花區 "wikilink")
 
 1.
-
 2.  [ダンス、アイドル…懐深く【サマソニ15周年、創設者の清水直樹氏に聞く】＜下＞](http://www.chibanippo.co.jp/news/local/207877) - ウェブ 2014年8月8日
-
 3.
 4.
 5.
 6.
 7.  [「神ライブ」が飛躍の契機【サマソニ15周年、創設者の清水直樹氏に聞く】＜中＞](http://www.chibanippo.co.jp/news/local/207875) - ウェブ 2014年8月8日
-
 8.  舉辦在[富士急高原樂園](../Page/富士急高原樂園.md "wikilink")、。
-
 9.
 10.
-
 11. 舉辦在[ZOZO海洋球場](../Page/千葉海洋球場.md "wikilink") & [幕張展覽館](../Page/幕張展覽館.md "wikilink")。
-
 12. 舉辦在。

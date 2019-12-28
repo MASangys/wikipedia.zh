@@ -4,7 +4,7 @@
 
 ## 机身
 
-佳能于1987年发布了EOS系列的第一款单镜反光相机EOS 650，当时仍然使用胶片。1990年，佳能与[柯达合作开始研制数码单镜反光相机机身](https://zh.wikipedia.org/wiki/柯达 "wikilink")。1995年两家公司合作推出了第一款数码单镜反光相机EOS CS 3。2000年，佳能第一款独立设计和制造的数码单镜反光相机EOS D30发布。\[4\] [Canon_CMOS.jpg](https://zh.wikipedia.org/wiki/File:Canon_CMOS.jpg "fig:Canon_CMOS.jpg")
+佳能于1987年发布了EOS系列的第一款单镜反光相机EOS 650，当时仍然使用胶片。1990年，佳能与[柯达合作开始研制数码单镜反光相机机身](https://zh.wikipedia.org/wiki/柯达 "wikilink")。1995年两家公司合作推出了第一款数码单镜反光相机EOS DCS 3。2000年，佳能第一款独立设计和制造的数码单镜反光相机EOS D30发布。\[4\] [Canon_CMOS.jpg](https://zh.wikipedia.org/wiki/File:Canon_CMOS.jpg "fig:Canon_CMOS.jpg")
 
 ### 眼控对焦（ECF）
 
@@ -230,7 +230,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/佳能_EOS_5D_Mark_IV" title="wikilink">5D Mark IV</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC" title="wikilink">DIGIC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DIGIC#DIGIC_6+" title="wikilink">DIGIC 6+</a></p></td>
 <td><p>36 × 24 mm CMOS</p></td>
 <td><p>30.4</p></td>
 <td><p>1<span style="display:否ne"></span>00-102400</p></td>
@@ -869,38 +869,21 @@ Image:Canon Speedlite 550EX flash.jpg|Speedlite 550EX Image:Canon speedlite 430e
 [Category:数码单反相机](https://zh.wikipedia.org/wiki/Category:数码单反相机 "wikilink") [Category:單鏡反光相機](https://zh.wikipedia.org/wiki/Category:單鏡反光相機 "wikilink") [Category:佳能相機](https://zh.wikipedia.org/wiki/Category:佳能相機 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
-
 19.

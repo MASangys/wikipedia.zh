@@ -78,106 +78,62 @@ Editors的首张专辑 *The Back Room* 的声音被认为尖细而原始，[NME]
 [Category:2002成立组合](https://zh.wikipedia.org/wiki/Category:2002成立组合 "wikilink") [Category:21世纪组合](https://zh.wikipedia.org/wiki/Category:21世纪组合 "wikilink") [Category:21世纪10年代组合](https://zh.wikipedia.org/wiki/Category:21世纪10年代组合 "wikilink") [Category:伯明翰组合](https://zh.wikipedia.org/wiki/Category:伯明翰组合 "wikilink") [Category:诺丁汉郡组合](https://zh.wikipedia.org/wiki/Category:诺丁汉郡组合 "wikilink") [Category:斯塔福德郡大学校友](https://zh.wikipedia.org/wiki/Category:斯塔福德郡大学校友 "wikilink") [Category:英国独立摇滚组合](https://zh.wikipedia.org/wiki/Category:英国独立摇滚组合 "wikilink") [Category:后朋克复兴组合](https://zh.wikipedia.org/wiki/Category:后朋克复兴组合 "wikilink") [Category:PIAS唱片艺人](https://zh.wikipedia.org/wiki/Category:PIAS唱片艺人 "wikilink")
 
 1.
-
 2.
 3.  [Interview: Editors (Part IV: Band Origins)](http://www.bigtakeover.com/interviews/interview-editors-part-iv-band-origins) , www.bigtakeover.com, 5 September 2006, Accessed 13 May 2008
-
 4.
-
 5.
 6.
 7.  Ankeny, Jason, Allmusic [Editors Full Biography](http://www.mtv.com/music/artist/editors/artist.jhtml#bio), MTV.com, 12 August 2007. Retrieved 28 November 2007.
-
 8.
 9.  [Edit Sweet](http://www.editorsmusic.co.uk/index.php/Interviews/Playmusic-Magazine.html) , editorsmusic.co.uk, July 2005. Retrieved 20 September 2008.
-
 10. [Kitchenware Records Artist List](http://www.kitchenwarerecords.com/) , Kitchenwarerecords.com, 23 December 2004. Retrieved 31 March 2008.
-
-11. [Artist Biography](http://www.surgeradio.co.uk/music/artists/0efe858c-89e5-4e47-906a-356fa953fd6e.html), Surgeradio.co.uk, 3 January 2006. Retrieved 31 March 2008.
-
+11. [Artist Biography](http://www.surgeradio.co.uk/music/artists/0efe858c-89e5-4e47-906a-356fa953fd6e.html) , Surgeradio.co.uk, 3 January 2006. Retrieved 31 March 2008.
 12. [Meet Editors](http://www.editorsmusic.co.uk/index.php/Interviews/BBC-Birmingham.html) , editorsmusic.co.uk, 8 February 2005. Retrieved 20 September 2008.
-
 13. [EDITORS 'BULLETS'](http://www.angloplugging.co.uk/viewPressRelease.cfm?pressReleaseID=1103) , Angloplugging.co.uk, 18 August 2005. Retrieved 31 March 2008.
-
 14. [Editors](http://www.sonybmgmusic.co.uk/artists/editors/) , Sonybmgmusic.co.uk, 16 September 2008. Retrieved 16 September 2008.
-
 15. [Blood sales figures](http://www.editorsmusic.co.uk/index.php/News/Blood-sales-figures.html) , editorsmusic.co.uk, 18 July 2005. Retrieved 16 September 2008.
-
 16. [Editors Biography](http://www.contactmusic.com/info/editors), Contactmusic.com, 4 March 2006. Retrieved 31 March 2008.
-
 17.
 18. [Franz Ferdinand UK tour - the first report](http://www.nme.com/news/franz-ferdinand/21509), NME.com, 15 November 2005. Retrieved 31 March 2008.
-
 19.
 20.
 21. Jessica Steinhoff [The Importance Of Being Earnest](http://www.expressmilwaukee.com/article-602-the-importance-of-being-earnest.html), Expressmilwaukee.com, 24 January 2008. Retrieved 31 March 2008.
-
 22. Kyle Gustafson [DCist Interview: Tom Smith of Editors](http://dcist.com/2008/01/14/dcist_interview_11.php) , Dcist.com, 14 January 2008. Retrieved 6 April 2008.
-
 23. UK Top 40 Charts, BBC Radio 1, 27 March 2006. Retrieved 27 March 2006.
-
 24. [EDITORS 'LIVE THROUGH SUMMER 2006'](http://www.angloplugging.co.uk/viewPressRelease.cfm?pressReleaseID=1258) , Angloplugging.co.uk, 19 April 2006. Retrieved 31 March 2008.
-
 25.
 26. Jon Perks, [Editors Are Back In Town](http://www.birminghampost.net/life-leisure-birmingham-guide/birmingham-culture/2008/02/18/heard-the-latest-news-editors-are-back-in-town-65233-20490036/), Birmingham Post, 18 February 2008. Retrieved 31 March 2008.
-
 27. [Mercury Music Prize: The nominees](http://news.bbc.co.uk/2/hi/entertainment/5190396.stm), bbc.co.uk, 18 July 2006. Retrieved 16 September 2008.
-
 28. [Client List](http://www.grouselodge.com/content.php?ID=185&PHPSESSID=fcdf616b1e1b191fbc6faa5031ed870f)  Grouselodge.com, 12 February 2008. Retrieved 31 March 2008.
-
 29. [Editors hit the headlines in album charts](http://uk.reuters.com/article/idUKL011258120070701), Reuters UK, 1 July 2007. Retrieved 6 April 2008.
-
 30.
 31. Steve Laycock[Editors Night\!](http://www.mtv.co.uk/channel/mtvuk/shows/15062007/editors_night) ,Mtv.com, 15 June 2007. Retrieved 6 April 2008.
-
 32. [Other Stage Glastonbury Festival 2007](http://www.efestivals.co.uk/festivals/glastonbury/2007/other.shtml), efestivals.co.uk, 31 May 2007. Retrieved 6 April 2008.
-
 33. [The Racing Rats chart position](http://www.editorsmusic.co.uk/index.php/News/The-Racing-Rats-chart-position.html) , editorsmusic.co.uk, 20 December 2007. Retrieved 16 September 2008.
-
 34. ["The Racing Rats" chart positions](http://acharts.us/song/30080) *aCharts.us*. Retrieved 20 December 2007.
-
 35.
-
 36. Nick Durden, [Stop the press: Britain's hottest new band, Editors](http://www.mailonsunday.co.uk/home/moslive/article-513123/Stop-press-Britains-hottest-new-band-Editors.html), Mail On Sunday, 15 February 2008 Accessed 31 March 2008
-
 37. [Editors Limited edition single release](http://www.columbia.co.uk/news/8668/0/) , Columbia.co.uk, 25 February 2008. Retrieved 31 March 2008.
-
 38. [Editors sell out Ally Pally](http://www.rahimlive.com/), rahimlive.com, 7 March 2008. Retrieved 6 April 2008.
-
 39. [Tom & Ed Interview](http://uk.youtube.com/watch?v=BU81EtO1KzI), youtube.com. Retrieved 20 September 2008.
-
 40. [Frome 26/06/08](http://www.editorsofficial.com/index.php/fanblogs/frome_26_06_08/) , editorsofficial.co.uk, 26 June 2008. Retrieved 25 September 2008.
-
 41.
-
 42. [Steve Lamacq](https://zh.wikipedia.org/wiki/Steve_Lamacq "wikilink"), [BBC 6 Music](../Page/BBC_6_Music.md "wikilink"), 8 December 2008
-
 43. [Colin meets Editors](http://www.bbc.co.uk/radio1/bigweekend/2008/artists/editors/video2.shtml#emp), bbc.co.uk, 10 May 2008, Accessed 16 May 2008
-
 44.
 45. [YouTube - Editors - News From The Studio](http://www.youtube.com/watch?v=OzOR3YSJqyo)
-
 46.
-
 47.
 48.
 49.
-
 50.
 51. [Editors At Last\!](http://www.editorsmusic.co.uk/index.php/Interviews/Red-Pages.html) , editorsmusic.co.uk, March 2005. Retrieved 20 September 2008.
-
 52.
 53.
-
 54.
-
 55. [Interpol - We feel sorry for Editors](http://www.contactmusic.com/news.nsf/story/interpol-we-feel-sorry-for-editors_1039015), www.contactmusic.com, 30 July 2007, Accessed 28 May 2008
-
 56. [Cutting-room dancefloor](https://web.archive.org/web/20070206024217/http://www.montrealmirror.com/2006/072706/music2.html), www.montrealmirror.com, 1 August 2006, Accessed 23 May 2008
-
 57.
 58. Radio Interview, Couleur 3, 11 June 2009
-
 59. [Left Lion Talks To Chris](http://www.editorsmusic.co.uk/index.php/Interviews/Left-Lion.html) , editorsmusic.co.uk, 21 July 2005. Retrieved 20 September 2008.
-
 60.

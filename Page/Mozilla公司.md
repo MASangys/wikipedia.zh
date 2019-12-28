@@ -112,47 +112,25 @@ Mozilla公司成立於2005年8月3日，負責處理Mozilla基金會的[收入�
 [Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink") [Category:山景城公司](https://zh.wikipedia.org/wiki/Category:山景城公司 "wikilink") [Category:自由軟體組織](https://zh.wikipedia.org/wiki/Category:自由軟體組織 "wikilink") [Category:2005年成立的公司](https://zh.wikipedia.org/wiki/Category:2005年成立的公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  Calacanis blog: ["Firefox (Mozilla Corporation/Mozilla Foundation) made $72M last year?\!"](http://www.calacanis.com/2006/03/06/firefox-mozilla-corporation-mozilla-foundation-made-72m-last/)
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.

@@ -113,9 +113,7 @@ figma（）是[Max Factory企劃及開發](https://zh.wikipedia.org/wiki/Max_Fac
 [Category:日本製造公司](https://zh.wikipedia.org/wiki/Category:日本製造公司 "wikilink") [Category:日本玩具制造商](https://zh.wikipedia.org/wiki/Category:日本玩具制造商 "wikilink") [Category:千葉縣公司](https://zh.wikipedia.org/wiki/Category:千葉縣公司 "wikilink") [Category:松戶市](https://zh.wikipedia.org/wiki/Category:松戶市 "wikilink") [Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink") [Category:墨田區公司](https://zh.wikipedia.org/wiki/Category:墨田區公司 "wikilink") [Category:2001年成立的公司](https://zh.wikipedia.org/wiki/Category:2001年成立的公司 "wikilink")
 
 1.
-
 2.
 3.
 4.  每集的主題曲後顯示的贊助列表上有公司的名字
-
 5.  [映画『リトルウィッチアカデミア』公式サイト Staff\&Cast](http://littlewitchacademia.jp/staffcast/)

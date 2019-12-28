@@ -70,7 +70,7 @@
 
   - [目标软件主题站](https://web.archive.org/web/20100921004050/http://mkz.object.com.cn/index.html)
 
-  - [目标软件](http://www.object.com.cn/)
+  - [目标软件](https://web.archive.org/web/20100721233855/http://www.object.com.cn/)
 
 ## 注释
 
@@ -79,23 +79,14 @@
 [Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink") [Category:多人線上第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:多人線上第一人稱射擊遊戲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.  [《MKZ-铁甲前传》VS《反恐行动》](http://www.bbtnews.com.cn/dmzk/channel/political37811.shtml)
-
 9.
-
 10.
-
 11.
 12. [《MKZ军魂》运营公告](http://mkz.175pt.com/december/index.html)

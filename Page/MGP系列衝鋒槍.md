@@ -1,4 +1,4 @@
-**MGP**是一系列由[秘鲁](../Page/秘鲁.md "wikilink")[海軍的SIMA](https://zh.wikipedia.org/wiki/秘魯海軍 "wikilink")-CEFAR工廠自1980年代起研製及生產的[冲锋枪](../Page/冲锋枪.md "wikilink")和[半自動手槍](../Page/半自動手槍.md "wikilink")槍族\[1\]\[2\]，发射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**MGP**是一系列由[秘鲁](../Page/秘鲁.md "wikilink")[海軍的SIMA](https://zh.wikipedia.org/wiki/秘魯海軍 "wikilink")-CEFAR工廠自1980年代起研製及生產的[冲锋枪](../Page/冲锋枪.md "wikilink")和[半自動手槍](../Page/半自動手槍.md "wikilink")槍族\[1\]\[2\]，发射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 MGP系列是為了秘魯海軍（）而生產。\[3\]儘管MGP系列被歸類為緊湊的衝鋒槍，但他們可被形容為笨重的手槍。
 
@@ -62,39 +62,23 @@ MGP-15在1990年開始生產。\[13\]在裝備MGP-15後的[秘鲁](https://zh.wi
 [Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:秘鲁槍械](https://zh.wikipedia.org/wiki/Category:秘鲁槍械 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:需要圖片的槍械條目](https://zh.wikipedia.org/wiki/Category:需要圖片的槍械條目 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  Hogg, page 207.
-
 5.
-
 6.
-
 7.  Hogg, Page 208.
-
 8.
 9.
 10.
-
 11.
-
 12. Hogg, Page 209.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
 20.
 21.

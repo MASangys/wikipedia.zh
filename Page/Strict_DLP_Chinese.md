@@ -62,40 +62,22 @@ SDC将不同[吸血骡客户端分为软性和硬性](https://zh.wikipedia.org/w
 [Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:EMule](https://zh.wikipedia.org/wiki/Category:EMule "wikilink")
 
 1.
-
 2.
-
 3.  [aMule的开发者和一些用户指出easyMule](https://zh.wikipedia.org/wiki/aMule "wikilink")2使用了[GPL软件aMule的代码却未开源](https://zh.wikipedia.org/wiki/GPL "wikilink")，VeryCD公司方面则否认其使用aMule代码。另也有用户称easyMule2对eMule代码也有使用。见：。官方[eMule的维护者Some](https://zh.wikipedia.org/wiki/eMule "wikilink") Support和[Xtreme](https://zh.wikipedia.org/wiki/eMule_Xtreme_Mod "wikilink")、[ScarAngel等Mods的维护者Stulle也均对easyMule](https://zh.wikipedia.org/wiki/eMule_ScarAngel_Mod "wikilink")2的“完全自主开发”表示质疑。见：
-
 4.  参见Xtreme官方DLP库源代码中antiLeech.cpp的第491行
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
 19. 参见SDC的ReadMe
-
 20.

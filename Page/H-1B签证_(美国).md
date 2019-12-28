@@ -45,7 +45,7 @@ H-1B签证材料可以大致分为公司材料和雇员的材料。根据以上�
 
 ## 参考文献
 
-[Category:美国签证政策](https://zh.wikipedia.org/wiki/Category:美国签证政策 "wikilink")
+[Category:美国签证政策](https://zh.wikipedia.org/wiki/Category:美国签证政策 "wikilink") [Category:外籍人士聘僱](https://zh.wikipedia.org/wiki/Category:外籍人士聘僱 "wikilink")
 
 1.
 2.

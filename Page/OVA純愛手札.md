@@ -11,7 +11,7 @@ center{{\!}}《OVA純愛手札》[DVD-Video](../Page/DVD-Video.md "wikilink")版
 
 <File:OVA> Tokimeki Memorial vol.1 title - Think about you.png|《OVA純愛手札》第一卷標題畫面 <File:OVA> Tokimeki Memorial vol.2 title - Feel your heart.png|《OVA純愛手札》第二卷標題畫面
 
-《OVA純愛手札》的映像特典如下：DVD-Video版第一卷的映像特典為〈另一個女主角：館林見晴〉（），是專訪館林見晴的配音員[菊池-{志}-穗](../Page/菊池志穗.md "wikilink")；DVD-Video版第二卷的映像特典為〈藤崎詩織的Beginning〉（），是專訪藤崎詩織的配音員[金月真美](../Page/金月真美.md "wikilink")。VHS版第一卷與LD版第一卷的映像特典皆為〈純愛手札展示用預告篇〉（）與〈藤崎詩織OVA製作現場報導〉（），前者是《OVA純愛手札》展示用預告片，後者是[三维计算机图形](../Page/三维计算机图形.md "wikilink")版藤崎詩織採訪《OVA純愛手札》製作現場。VHS版第二卷與LD版第二卷的映像特典皆為〈更多！更多的心跳'99〉（）與〈勇氣之神〉（），前者是《[純愛手札2](https://zh.wikipedia.org/wiki/純愛手札2 "wikilink")》片尾曲[MV](https://zh.wikipedia.org/wiki/MV "wikilink")，後者是《純愛手札2》片頭曲MV，主唱者皆是[野田順子](https://zh.wikipedia.org/wiki/野田順子 "wikilink")。
+《OVA純愛手札》的映像特典如下：DVD-Video版第一卷的映像特典為〈另一個女主角：館林見晴〉（），是專訪館林見晴的配音員[菊池-{志}-穗](../Page/菊池志穗.md "wikilink")；DVD-Video版第二卷的映像特典為〈藤崎詩織的Beginning〉（），是專訪藤崎詩織的配音員[金月真美](../Page/金月真美.md "wikilink")。VHS版第一卷與LD版第一卷的映像特典皆為〈純愛手札展示用預告篇〉（）與〈藤崎詩織OVA製作現場報導〉（），前者是《OVA純愛手札》展示用預告片，後者是[三维计算机图形](../Page/三维计算机图形.md "wikilink")版藤崎詩織採訪《OVA純愛手札》製作現場。VHS版第二卷與LD版第二卷的映像特典皆為〈更多！更多的心跳'99〉（）與〈勇氣之神〉（），前者是《[純愛手札2](https://zh.wikipedia.org/wiki/純愛手札2 "wikilink")》片尾曲[MV](https://zh.wikipedia.org/wiki/MV "wikilink")，後者是《純愛手札2》片頭曲MV，主唱者皆是[野田順子](../Page/野田順子.md "wikilink")。
 
 科樂美未曾授權在[日本](../Page/日本.md "wikilink")以外地區發行《OVA純愛手札》。[台灣曾於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2000年出現[Video國發行的](https://zh.wikipedia.org/wiki/Video國 "wikilink")《OVA純愛手札》未授權[VCD](../Page/VCD.md "wikilink")版，映像特典與VHS版及LD版完全相同，可見是轉錄自VHS版或LD版；但是當時[中華民國法律](../Page/中華民國法律.md "wikilink")《[著作權法](https://zh.wikipedia.org/wiki/:s:著作權法_\(中華民國\) "wikilink")》不保障在中華民國管轄區域外發行後未在中華民國管轄區域內發行的著作物，所以不違法。
 
@@ -362,11 +362,8 @@ center{{\!}}《OVA純愛手札》[DVD-Video](../Page/DVD-Video.md "wikilink")版
 [Category:心跳回憶系列](https://zh.wikipedia.org/wiki/Category:心跳回憶系列 "wikilink") [Category:科樂美動畫](https://zh.wikipedia.org/wiki/Category:科樂美動畫 "wikilink") [Category:1999年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1999年日本OVA動畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:Studio_Pierrot](https://zh.wikipedia.org/wiki/Category:Studio_Pierrot "wikilink")
 
 1.  《OVA純愛手札》第一卷DVD-Video版外盒背面標示。
-
 2.  〈純愛-{}-手札〉，《T-AX勁動畫雜誌》1999年9月號第21頁。
-
 3.  《OVA純愛手札原聲帶》歌詞本標示。
-
 4.
 5.
 6.

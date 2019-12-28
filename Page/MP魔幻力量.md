@@ -26,13 +26,13 @@ MP魔幻力量於第二張專輯《[不按牌理出牌](../Page/不按牌理出�
 
 2015年3月28日與[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[ORANGE RANGE一同站上臺北小巨蛋舉辦](https://zh.wikipedia.org/wiki/ORANGE_RANGE "wikilink")《魔幻新樂園》演唱會。
 
-2015年6月， 因藝人安心亞被主唱[嘎嘎劈腿戀情](../Page/潘俊佳.md "wikilink")，被交往中的王姓女友發現因而不滿，憤將嘎嘎、安心亞兩人間親密互動影片外流曝光。兩人認了去年曾經交往。因嘎嘎私人行為，經紀公司[相信音樂暫停他個人所有宣傳活動並予以禁足半年處分](https://zh.wikipedia.org/wiki/相信音樂 "wikilink")，僅讓他參與售票、簽約商演。
+2015年6月， 因藝人安心亞被主唱[嘎嘎劈腿戀情](../Page/潘俊佳.md "wikilink")，被交往中的王姓女友發現因而不滿，憤將嘎嘎、安心亞兩人間親密互動影片外流曝光。兩人認了去年曾經交往。因嘎嘎私人行為，經紀公司[相信音樂](../Page/相信音樂.md "wikilink")暫停他個人所有宣傳活動並予以禁足半年處分，僅讓他參與售票、簽約商演。
 
 2015年7月18日首次站上[高雄巨蛋舉辦](https://zh.wikipedia.org/wiki/高雄巨蛋 "wikilink")《我們的主場》演唱會。
 
 2015年11月4日在日本發行首張日文精選輯，首波主打為日文版的《我還是愛著你》、《射手》。
 
-2016年1月，主唱[嘎嘎因被媒體拍到在街頭與](../Page/潘俊佳.md "wikilink")[Popu Lady團員寶兒有親密舉動](../Page/Popu_Lady.md "wikilink")，並因半年內連犯兩錯，遭到經紀公司[相信音樂退團處分](https://zh.wikipedia.org/wiki/相信音樂 "wikilink")；24日，第11屆[KKBOX](../Page/KKBOX.md "wikilink")風雲榜是嘎嘎在MP魔幻力量的最後一場大型表演演出，31日正式退團。另，主唱[廷廷因為壓力大引起憂鬱症](../Page/蕭秉治.md "wikilink")，出席第11屆[KKBOX](../Page/KKBOX.md "wikilink")風雲榜演出後，團體活動全面暫停。
+2016年1月，主唱[嘎嘎因被媒體拍到在街頭與](../Page/潘俊佳.md "wikilink")[Popu Lady團員寶兒有親密舉動](../Page/Popu_Lady.md "wikilink")，並因半年內連犯兩錯，遭到經紀公司[相信音樂](../Page/相信音樂.md "wikilink")退團處分；24日，第11屆[KKBOX](../Page/KKBOX.md "wikilink")風雲榜是嘎嘎在MP魔幻力量的最後一場大型表演演出，31日正式退團。另，主唱[廷廷因為壓力大引起憂鬱症](../Page/蕭秉治.md "wikilink")，出席第11屆[KKBOX](../Page/KKBOX.md "wikilink")風雲榜演出後，團體活動全面暫停。
 
 2016年2月13日，鼓手[阿翔在團體官方臉書發文宣佈](../Page/黃柏翔.md "wikilink")，因為個人人生及生涯規畫等因素，正式退出MP魔幻力量。不久後被爆料，與妻子陳艾琳籌備婚禮前（2015年3月秘密登記結婚），和女粉絲發生性行為，被大批網友砲轟，而事發後在IG發文道歉。
 

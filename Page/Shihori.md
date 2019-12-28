@@ -494,12 +494,6 @@ Shihori自06年起參加同人音樂組織[SOUND HOLIC](../Page/SOUND_HOLIC.md "
 
 ## 註解
 
-<div class="references-small">
-
-<references/>
-
-</div>
-
 ## 外部連結
 
   - [Shihori OFFICIAL WEBSITE ／ しほり オフィシャルサイト](https://web.archive.org/web/20090814174055/http://shihori.com/index.html)（公式網頁）
@@ -510,17 +504,12 @@ Shihori自06年起參加同人音樂組織[SOUND HOLIC](../Page/SOUND_HOLIC.md "
 [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:同人創作者](https://zh.wikipedia.org/wiki/Category:同人創作者 "wikilink") [Category:東方Project二次創作者](https://zh.wikipedia.org/wiki/Category:東方Project二次創作者 "wikilink") [Category:愛知縣出身人物](https://zh.wikipedia.org/wiki/Category:愛知縣出身人物 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
 7.
 8.
-
 9.
-
 10.

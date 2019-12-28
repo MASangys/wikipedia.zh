@@ -47,10 +47,7 @@
 [Category:活塞式發動機結構](https://zh.wikipedia.org/wiki/Category:活塞式發動機結構 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.

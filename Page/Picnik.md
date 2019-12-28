@@ -2,7 +2,7 @@ Picnik是一家提供在线图片编辑服务的网站，其总部位于[美国]
 
 Picnik提供许多免费的照片编辑基本功能，其包含更多编辑功能的高级版可以按月收费、每半年收费和按年收费。
 
-Picnik与Flickr网站合作推出了一个轻量级版本，作为Flickr的默认照片编辑器。
+Picnik与[Flickr](../Page/Flickr.md "wikilink")网站合作推出了一个轻量级版本，作为[Flickr](../Page/Flickr.md "wikilink")的默认照片编辑器。
 
 于2010年3月1日被[Google](../Page/Google.md "wikilink")收购。\[2\]\<ref =pblog\> Picnik blog, accessed 3/1/2010</ref> 2012年1月21日谷歌宣布2013年4月19日将关闭Picnik在内的几项服务。
 

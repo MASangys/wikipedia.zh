@@ -34,9 +34,9 @@
 
 [Category:North_Rhine-Westphalia](https://zh.wikipedia.org/wiki/Category:North_Rhine-Westphalia "wikilink")
 
-1.  [北莱茵—威斯特法倫邦的經濟、能源、新、数字化](https://www.wirtschaft.nrw/investieren-nrw) \] 《在北萊茵-威斯特法倫州投資》
+1.  [北莱茵—威斯特法倫邦的經濟、能源、新、数字化](https://www.wirtschaft.nrw/investieren-nrw)   \] 《在北萊茵-威斯特法倫州投資》
 2.  [NRW.INVEST Service for Investors](https://www.nrwinvest.com/de/service-nrwinvest/investoren-service-nrw/)  《NRW.INVEST 投資服務》
-3.  [美國商會](http://www.amcham.de/services/overview/information/access-germany/) 《地區化經濟發展代辦處》
+3.  [美國商會](http://www.amcham.de/services/overview/information/access-germany/)  《地區化經濟發展代辦處》
 4.  [1960-2010 NRW.INVEST](http://www.nrwinvest.com/nrwinvest_englisch/About_us/50_Years_NRW_INVEST/index.php)  《五十年為北威州經濟投資地區的功力》
 5.  [Welt am Sonntag](http://www.welt.de/wams_print/article2030946/Das_Ausland_entdeckt_den_Standort_NRW.html) 《主文章關於北萊茵-威斯特法倫州對外國投資者當重要企業地點以及 NRW.INVEST 的貢獻》, Welt am Sonntag, 2008年 5月25日.
 6.  [Wirtschaftswoche](http://www.wiwo.de/politik/nrw-auf-dem-weg-zur-globalen-drehscheibe-294619/3/) 《北萊茵-威斯特法倫州成為全球焦點》 WirtschaftsWoche, 德國最大的經濟雜誌， 2008年6月6日.

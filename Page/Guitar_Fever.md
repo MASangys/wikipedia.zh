@@ -36,9 +36,6 @@
   - 2008年第39周903專業推介冠軍
   - 2008年第39周新城勁爆本地榜冠軍
   - 2008年第3首四台冠軍歌
-
-<!-- end list -->
-
   - 2008 雅虎香港Yahoo！搜尋人氣大獎 - Yahoo\! Music十大人氣歌曲2008：《下次再見》
   - 2008勁歌金曲優秀選第二回 - 得獎歌曲《下次再見》
   - 2008年度[叱咤樂壇流行榜頒獎典禮](../Page/叱咤樂壇流行榜頒獎典禮.md "wikilink") - 專業推介．叱吒十大(第三位)《下次再見》
@@ -47,9 +44,6 @@
 
   - 2008年第47周勁歌金榜冠軍
   - 2008年第48周中文歌曲龍虎榜冠軍
-
-<!-- end list -->
-
   - 2008勁歌金曲優秀選第三回 - 得獎歌曲《眼睛不能沒眼淚》
   - 2008年度[十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink") - 十大勁歌金曲《眼睛不能沒眼淚》
   - 第三十一屆[十大中文金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大中文金曲頒獎典禮 "wikilink") - 十大中文金曲獎 《眼睛不能沒眼淚》
@@ -58,6 +52,8 @@
 
 ## 其他成績
 
-  - [IFPI香港唱片銷量大獎](https://zh.wikipedia.org/wiki/IFPI "wikilink")2008 - 十大銷量廣東唱片《Guitar Fever》
+  - [IFPI香港唱片銷量大獎](https://zh.wikipedia.org/wiki/IFPI "wikilink")2008 - 十大銷量廣東唱片《Guitar Fever》\[1\]
 
 [Category:古巨基音樂專輯](https://zh.wikipedia.org/wiki/Category:古巨基音樂專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+
+1.

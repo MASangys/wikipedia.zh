@@ -85,7 +85,5 @@ Chrome Engine的第一个版本，用于FPS游戏。
 [Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink") [Category:電子遊戲研發](https://zh.wikipedia.org/wiki/Category:電子遊戲研發 "wikilink")
 
 1.
-
 2.
-
 3.

@@ -138,44 +138,26 @@ eMule是一个开源的项目，这使得它拥有很多在其源码基础上修
 [Category:EMule](https://zh.wikipedia.org/wiki/Category:EMule "wikilink") [Category:SourceForge专案](https://zh.wikipedia.org/wiki/Category:SourceForge专案 "wikilink") [Category:P2P](https://zh.wikipedia.org/wiki/Category:P2P "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12. <http://wiki.emule-web.de/index.php/AICH>
-
 13.
 14.
-
 15.
-
 16.
-
 17.
 18.
-
 19.
-
 20. 根据权威Mod站点[emule-mods.de的Mod页面](http://www.emule-mods.de/?mods=start)以及[eMule官方论坛Mod区](http://forum.emule-project.net/index.php?showforum=15)的讨论列举。另台湾程序员开发的[EastShare也包含在内](https://zh.wikipedia.org/wiki/eMule_EastShare_Mod "wikilink")。
-
 21. \[<http://emulefans.com/easymule-remove-ed2k-kad-search/comment-page-5/#comment-8983>, VeryCD easyMule徹底去除eD2k伺服器和Kad網路搜尋\] 。
-
 22. \[<http://blog.sdlpc.org/sdlpc-sdc-auto-update-url/>, SDC更新主頁\] 。
-
 23.
-
 24.

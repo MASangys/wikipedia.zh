@@ -27,7 +27,7 @@ eXcalibur自带的Kad节点文件可能需要更新\[1\]。
 
   - [作者的Blog主页](https://web.archive.org/web/20090304014250/http://fzh.soft2cn.cn/)
   - [作者的eXcalibur 1.85.3简体中文版发布页](https://web.archive.org/web/20090303222008/http://fzh.soft2cn.cn/article.asp?id=39)
-  - [emulefans.com（电骡爱好者）上的eXcalibur页面](http://emulefans.com/news/emule/excalibur/)
+  - [emulefans.com（电骡爱好者）上的eXcalibur页面](https://web.archive.org/web/20100705124756/http://emulefans.com/news/emule/excalibur/)
 
 [Category:eMule](https://zh.wikipedia.org/wiki/Category:eMule "wikilink")
 

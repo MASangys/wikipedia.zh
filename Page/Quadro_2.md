@@ -39,7 +39,7 @@ Quadro2系列共有四款產品，分別是Quadro2 Pro、Quadro2 EX、Quadro2 MX
   - [NVIDIA Quadro2 MXR/EX主頁](http://www.nvidia.com.tw/page/quadro2mxr.html)
   - [NVIDIA Quadro2 Go系列主頁](http://www.nvidia.com.tw/page/quadro2go.html)
 
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:Quadro系列](https://zh.wikipedia.org/wiki/Category:Quadro系列 "wikilink") [Category:2000年面世的產品](https://zh.wikipedia.org/wiki/Category:2000年面世的產品 "wikilink")
 
 1.  [NVIDIA'S New Quadro2 Workstation Graphics Solutions Break Barriers in Technology, Performance, and Price](http://www.nvidia.com/object/IO_20010618_6416.html)
 2.  [NVIDIA Establishes Industry's First Workstation-Class Mobile GPU](http://www.nvidia.com/object/IO_20010813_8812.html)

@@ -7,7 +7,7 @@
 通常的F检验例子包括：
 
   - 假设一系列服从[正态分布](../Page/正态分布.md "wikilink")的母体，都有相同的[标准差](https://zh.wikipedia.org/wiki/标准差 "wikilink")。这是最典型的F检验，该检验在[方差分析](../Page/方差分析.md "wikilink")（ANOVA）中也非常重要。
-  - 假设一个回归模型很好地符合其[数据集要求](https://zh.wikipedia.org/wiki/数据集 "wikilink")。
+  - 假设一个回归模型很好地拟合(解释)[数据集](https://zh.wikipedia.org/wiki/数据集 "wikilink")。
 
 ## 注意事项
 

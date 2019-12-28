@@ -1,4 +1,4 @@
-**DrugBank**是[阿爾伯塔大學](../Page/阿爾伯塔大學.md "wikilink")提供的一个[生物信息学](../Page/生物信息学.md "wikilink")和[化学信息学](../Page/化学信息学.md "wikilink")数据库，它提供了约4800种药物的详细资料。
+**DrugBank**是[阿爾伯塔大學](../Page/阿爾伯塔大學.md "wikilink")提供的一个[生物信息学](../Page/生物信息学.md "wikilink")和[化学信息学](../Page/化学信息学.md "wikilink")数据库，它提供了约8700种药物的详细资料。
 
 ## 參考資料
 

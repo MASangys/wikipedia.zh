@@ -130,6 +130,7 @@
   - 2013年—《[-{zh-hans:收获日; zh-hant:劫薪日;}-2](../Page/劫薪日2.md "wikilink")》（Payday 2）：命名為「Cobra」。
   - 2014年—《[-{zh-hans:孤岛惊魂; zh-hant:極地戰嚎;}-4](https://zh.wikipedia.org/wiki/極地戰嚎4 "wikilink")》（Far Cry 4）：命名為「Skorpion」，歸類為配槍。
   - 2015年—《[-{zh-hans:战地：硬仗; zh-hant:戰地風雲：強硬路線;}-](../Page/战地：硬仗.md "wikilink")》（Battlefield Hardline）：型號為vz.61，資料片「背叛」新增武器，命名為“Dual Vz.61”，奇怪的兩槍的載彈量合共為31+1發，無法實際的以[機械瞄具](../Page/機械瞄具.md "wikilink")瞄準及作任何改裝且只能[雙持](../Page/雙持.md "wikilink")使用，設定為警匪兩方所有職階可用配槍，價格為$100,000。
+  - 2015年—《》（Squad）：命名為“Vz. 61 Skorpion”，由叛軍及[民兵](../Page/民兵.md "wikilink")車輛人員所使用。
   - 2016年—《[-{zh-cn:使命召唤：现代战争; zh-tw:決勝時刻：現代戰爭; zh-hk:使命召喚：現代戰爭}-重製版](../Page/決勝時刻4：現代戰爭.md "wikilink")》（Call of Duty: Modern Warfare Remastered）：型號為vz.61，外觀比前作更為精細。
   - 2016年—《[少女前线](../Page/少女前线.md "wikilink")》：為一名三星战术人形。
   - 2018年—《[绝地求生](https://zh.wikipedia.org/wiki/绝地求生 "wikilink")》：命名為“Skorpion”，归类为手枪，可进行单发射击和全自动射击。
@@ -180,13 +181,9 @@
 [Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:衝鋒手槍](https://zh.wikipedia.org/wiki/Category:衝鋒手槍 "wikilink") [Category:包絡式槍機衝鋒槍](https://zh.wikipedia.org/wiki/Category:包絡式槍機衝鋒槍 "wikilink") [Category:.32_ACP口徑槍械](https://zh.wikipedia.org/wiki/Category:.32_ACP口徑槍械 "wikilink") [Category:.380_ACP口徑槍械](https://zh.wikipedia.org/wiki/Category:.380_ACP口徑槍械 "wikilink") [Category:9×18毫米馬卡羅夫槍械](https://zh.wikipedia.org/wiki/Category:9×18毫米馬卡羅夫槍械 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:捷克斯洛伐克军事](https://zh.wikipedia.org/wiki/Category:捷克斯洛伐克军事 "wikilink") [Category:捷克槍械](https://zh.wikipedia.org/wiki/Category:捷克槍械 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
 
 1.  <https://it.wikipedia.org/wiki/Vz_61_Skorpion>
-
 2.
-
 3.  <http://www.youtube.com/watch?v=F40nds34MEA&feature=results_video&playnext=1&list=PL509CC3C88790A17D>
-
 4.
-
 5.
 6.
 7.
@@ -195,6 +192,5 @@
 10.
 11.
 12.
-13. <http://www.gewehr.ru/mpistols/206-vz.-61-skorpion.html>
-
+13.
 14. <https://sites.google.com/site/worldinventory/wiw_eu_germany>

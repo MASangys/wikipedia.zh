@@ -2,7 +2,7 @@
 
 ## 歷史
 
-1984年，[西格輕武器公司推出SSG](https://zh.wikipedia.org/wiki/SIG_Arms "wikilink") 3000狙擊步槍，它是以SIG Sauer 200STR比賽步槍為藍本並且設計出來的狙擊武器。最初稱為「SIG SSG 3000狙擊步槍」，其中SSG意為「精確射手步槍」（）。2000年，西格集團將其輕武器分部賣給了一家名为“[紹爾轻武器公司](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")”的私營公司，此後，SSG 3000的名字前面的「SIG」的字樣就被「Sauer」所取代，全稱為「Sauer SSG 3000」。新型的SSG 3000狙擊步槍改用了新型的麥克米蘭（）[玻璃钢強化](https://zh.wikipedia.org/wiki/玻璃钢 "wikilink")[塑料](../Page/塑料.md "wikilink")槍托，名稱上亦應時代潮流地稱為「戰術步槍」。
+1984年，[西格輕武器公司推出SSG](https://zh.wikipedia.org/wiki/SIG_Arms "wikilink") 3000狙擊步槍，它是以SIG Sauer 200STR比賽步槍為藍本並且設計出來的狙擊武器。最初稱為「SIG SSG 3000狙擊步槍」，其中SSG意為「精確射手步槍」（）。2000年，西格集團將其輕武器分部賣給了一家名为“[紹爾轻武器公司](../Page/瑞士軍工.md "wikilink")”的私營公司，此後，SSG 3000的名字前面的「SIG」的字樣就被「Sauer」所取代，全稱為「Sauer SSG 3000」。新型的SSG 3000狙擊步槍改用了新型的麥克米蘭（）[玻璃钢強化](https://zh.wikipedia.org/wiki/玻璃钢 "wikilink")[塑料](../Page/塑料.md "wikilink")槍托，名稱上亦應時代潮流地稱為「戰術步槍」。
 
 ## 設計細節
 
@@ -257,7 +257,7 @@ SSG 3000沒有[機械瞄具](../Page/機械瞄具.md "wikilink")，其制式瞄�
 
 ## 參考文獻
 
-  - —《輕兵器》雜誌2011年01上號：[第六届GPEC展会上的轻武器](http://www.xzbu.com/8/view-1052340.htm)
+  - —《輕兵器》雜誌2011年01上號：[第六届GPEC展会上的轻武器](https://web.archive.org/web/20140203021103/http://www.xzbu.com/8/view-1052340.htm)
 
 ## 外部連結
 
@@ -292,17 +292,11 @@ SSG 3000沒有[機械瞄具](../Page/機械瞄具.md "wikilink")，其制式瞄�
 [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙击步枪](https://zh.wikipedia.org/wiki/Category:狙击步枪 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink")
 
 1.  <http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=817>
-
 2.  [SIG-Sauer SSG 3000 - Bolt-Action Sniper Rifle - History, Specs and Pictures - Military, Security and Civilian Guns and Equipment](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=817)
-
 3.  [1](http://www.spiegel.de/spiegel/vorab/neue-vorwuerfe-gegen-sig-sauer-wegen-waffenlieferungen-in-krisenregion-a-981945.html)
-
 4.
 5.
 6.  <http://www.snipercentral.com/worldrifles.htm>
-
 7.
-
 8.
-
-9.  <http://www.bratishka.ru/archiv/2009/6/2009_6_7.php>
+9.

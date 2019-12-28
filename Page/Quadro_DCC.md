@@ -30,6 +30,6 @@
 
   - [NVIDIA Quadro DCC主頁](http://www.nvidia.com.tw/page/quadrodcc.html)
 
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:Quadro系列](https://zh.wikipedia.org/wiki/Category:Quadro系列 "wikilink") [Category:2001年面世的產品](https://zh.wikipedia.org/wiki/Category:2001年面世的產品 "wikilink")
 
 1.  [NVIDIA Announces Quadro DCC Graphics Solution for 3D Content Creators](http://www.nvidia.com/object/IO_20010530_4945.html)

@@ -49,6 +49,6 @@
 
 ## 外部連結
 
-  - [SIDE 2nd繁體中文版發佈點](http://yuihorie.myweb.hinet.net/nana2_new_ver1.02.rar)
+  - [SIDE 2nd繁體中文版發佈點](https://web.archive.org/web/20160304102402/http://yuihorie.myweb.hinet.net/nana2_new_ver1.02.rar)
 
 [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink") [Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:同人遊戲](https://zh.wikipedia.org/wiki/Category:同人遊戲 "wikilink") [Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink") [Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink") [Category:MF文庫J](https://zh.wikipedia.org/wiki/Category:MF文庫J "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")

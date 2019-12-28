@@ -54,9 +54,6 @@
 
 1.
 2.
-
 3.  [特集：アニメ「とある科学の超電磁砲」　美少女４人の超バトル　オリジナルの展開も](http://mainichi.jp/enta/mantan/anime/news/20091225mog00m200036000c.html)
-
 4.  [第15回アニメーション神戸賞～受賞者・受賞作品～](http://www.anime-kobe.jp/anime-kobe/#song)
-
 5.

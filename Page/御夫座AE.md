@@ -27,5 +27,4 @@
 [Category:HD和HDE天體](https://zh.wikipedia.org/wiki/Category:HD和HDE天體 "wikilink") [Category:HIP天體](https://zh.wikipedia.org/wiki/Category:HIP天體 "wikilink") [Category:御夫座](https://zh.wikipedia.org/wiki/Category:御夫座 "wikilink") [Category:O-型主序星](https://zh.wikipedia.org/wiki/Category:O-型主序星 "wikilink") [Category:O型星](https://zh.wikipedia.org/wiki/Category:O型星 "wikilink") [Category:速逃星](https://zh.wikipedia.org/wiki/Category:速逃星 "wikilink") [Category:獵戶型變星](https://zh.wikipedia.org/wiki/Category:獵戶型變星 "wikilink")
 
 1.
-
 2.

@@ -19,7 +19,7 @@ Quadro FX系列定位於專業[繪圖](https://zh.wikipedia.org/wiki/繪圖 "wik
   - [NVIDIA Quadro FX 專業級繪圖解決方案](http://www.nvidia.com/page/quadrofx_family.html)
   - [NVIDIA Quadro行動工作站](http://www.nvidia.com.tw/page/quadrofx_go.html)
 
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:Quadro系列](https://zh.wikipedia.org/wiki/Category:Quadro系列 "wikilink") [Category:2003年面世的產品](https://zh.wikipedia.org/wiki/Category:2003年面世的產品 "wikilink")
 
 1.  [NVIDIA Quadro FX 2000 Workstation Graphics Set Application Performance Records](http://www.nvidia.com/object/IO_20030206_6740.html)
 2.  [主流NVIDIA Quadro FX工作站显卡横向评测](http://nvidia.e-works.net.cn/document/200811/article7024.htm)

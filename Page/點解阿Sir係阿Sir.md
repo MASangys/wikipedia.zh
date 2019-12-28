@@ -62,7 +62,8 @@
 羅耀祖之堂兄<br />
 與何妙雪互相相愛，後因為羅耀華當臥底接近古嘉嵐而分手，最後重遇復合<br />
 古嘉嵐之男友，為要搜集倪鋒之犯罪證據而接近古嘉嵐，其後分手<br />
-程文力之情敵，後和好</p></td>
+程文力之情敵，後和好<br />
+接近古嘉倩、倪鋒並得到其信任，於第27集反目</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/李忠希.md" title="wikilink">李忠希</a></p></td>
@@ -161,6 +162,7 @@
 古道洋、董秀蘭之女<br />
 古嘉嵐之姊<br />
 協助倪鋒管理進興<br />
+被羅耀華接近並視其為親人，於第27集反目<br />
 於第28集入獄20年<br />
 童年由<a href="https://zh.wikipedia.org/wiki/羅芷晴" title="wikilink">羅芷晴飾演</a></p></td>
 </tr>
@@ -627,7 +629,7 @@ Macy之男友<br />
 <td><p>警員</p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="../Page/徐玟晴.md" title="wikilink">徐玟晴</a></p></td>
 <td><p>琳</p></td>
 <td><p>警員</p></td>
 </tr>
@@ -678,7 +680,7 @@ Macy之男友<br />
 臻萬國際投資有限公司主席<br />
 進興社龍頭<br />
 程文力之天敵<br />
-被羅耀華接近，後反目<br />
+被羅耀華接近並視其為親人，於第27集反目<br />
 於第29集買兇殺害羅耀華不遂<br />
 於第30集被一群吸毒少年打至癱瘓及精神失常</p></td>
 </tr>
@@ -688,7 +690,7 @@ Macy之男友<br />
 <td><p><strong>Ceci</strong><br />
 倪鋒之妻<br />
 協助倪鋒管理進興<br />
-被羅耀華接近，後反目<br />
+被羅耀華接近並視其為親人，於第27集反目<br />
 於第27集被捕<br />
 於第28集入獄20年<br />
 參見<strong><a href="https://zh.wikipedia.org/wiki/#古家" title="wikilink">古家</a></strong></p></td>
@@ -710,7 +712,7 @@ Macy之男友<br />
 <td><p><strong>Terrence</strong><br />
 黑社會成員<br />
 臻萬國際投資有限公司總經理<br />
-倪鋒之手下，後反目<br />
+倪鋒之手下，於第30集反目<br />
 盛世龍之天敵</p></td>
 </tr>
 <tr class="even">
@@ -884,12 +886,12 @@ Richard之女友</p></td>
 <td><p><a href="../Page/魯振順.md" title="wikilink">魯振順</a></p></td>
 <td><p>韋智烈</p></td>
 <td><p><strong>韋律師</strong><br />
-古嘉倩與倪鋒之辯護律師</p></td>
+古嘉倩、倪鋒之辯護律師</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/羅浩楷.md" title="wikilink">羅浩楷</a></p></td>
 <td><p>周律師</p></td>
-<td><p>古嘉倩與倪鋒之控方律師</p></td>
+<td><p>古嘉倩、倪鋒之控方律師</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a></p></td>
@@ -1076,7 +1078,7 @@ Jack之女</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/何俊軒.md" title="wikilink">何俊軒</a></p></td>
-<td></td>
+<td><p>Michael</p></td>
 <td><p>何妙雪之前男友</p></td>
 </tr>
 <tr class="odd">
@@ -1603,54 +1605,29 @@ Jack之女</p></td>
 
 1.
 2.  [藝人月曆 - 5月18日 - tvb.com](http://artiste.tvb.com/calendar/list/2010/05/18)
-
 3.  [藝人月曆 - 6月21日 - tvb.com](http://artiste.tvb.com/calendar/list/2010/06/21)
-
 4.  [《點解阿Sir 係阿Sir》宣傳活動](http://orientaldaily.on.cc/cnt/entertainment/20110415/00282_022.html)
-
 5.  [陳豪否認不肯加簽長約遭雪藏 吳卓羲戥林峯墮愛情陷阱叫慘](http://www.hkheadline.com/ent/ent_content.asp?contid=99520&srctype=g)
-
 6.  <http://programme.tvb.com/drama/yessirsorrysir/>
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.

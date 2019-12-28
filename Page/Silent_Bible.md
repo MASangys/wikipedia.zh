@@ -35,7 +35,7 @@
 
 :\* [弦乐](https://zh.wikipedia.org/wiki/弦乐 "wikilink")：藤縄陽子ストリングス
 
-:\* [和声](https://zh.wikipedia.org/wiki/和声 "wikilink")：[広谷順子](https://zh.wikipedia.org/wiki/広谷順子 "wikilink")
+:\* [和声](../Page/和声.md "wikilink")：[広谷順子](https://zh.wikipedia.org/wiki/広谷順子 "wikilink")
 
 :\* 其他[音源](https://zh.wikipedia.org/wiki/音源 "wikilink")、[编曲](https://zh.wikipedia.org/wiki/编曲 "wikilink")：菊田大介（Elements Garden）
 
@@ -69,7 +69,7 @@
 
 :\* [小提琴](../Page/小提琴.md "wikilink")、[中提琴](../Page/中提琴.md "wikilink")：大先生室屋、[真部裕](https://zh.wikipedia.org/wiki/真部裕 "wikilink")
 
-:\* [和声](https://zh.wikipedia.org/wiki/和声 "wikilink")：[FLAT5th Rico](https://zh.wikipedia.org/wiki/FLAT5th "wikilink")
+:\* [和声](../Page/和声.md "wikilink")：[FLAT5th Rico](https://zh.wikipedia.org/wiki/FLAT5th "wikilink")
 
 ## 脚注
 

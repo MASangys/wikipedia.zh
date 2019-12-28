@@ -497,7 +497,7 @@
 <td><p>50</p></td>
 <td><p>1993.9.4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a></p></td>
+<td><p><a href="../Page/中華民國.md" title="wikilink">中華民國</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北市立体育场" title="wikilink">台北市立体育场</a></p></td>
 <td><p>40,000</p></td>
 </tr>
@@ -505,7 +505,7 @@
 <td><p>51</p></td>
 <td><p>1993.9.6</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a></p></td>
+<td><p><a href="../Page/中華民國.md" title="wikilink">中華民國</a></p></td>
 <td><p>台北市立体育场</p></td>
 <td><p>40,000</p></td>
 </tr>

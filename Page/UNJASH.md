@@ -1,4 +1,4 @@
-**UNJASH**（）是由[兒嶋一哉](../Page/兒嶋一哉.md "wikilink")和兩人組成的[搞笑藝人组合](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")。组合由兒嶋主動邀請渡部，在1993年結成。兩人皆為[高中時代同屆學生](https://zh.wikipedia.org/wiki/高中 "wikilink")，出身[東京都](../Page/東京都.md "wikilink")[八王子市](../Page/八王子市.md "wikilink")。\[1\]
+**UNJASH**（）是由[兒嶋一哉](../Page/兒嶋一哉.md "wikilink")和兩人組成的[搞笑藝人](../Page/搞笑藝人.md "wikilink")组合。组合由兒嶋主動邀請渡部，在1993年結成。兩人皆為[高中時代同屆學生](https://zh.wikipedia.org/wiki/高中 "wikilink")，出身[東京都](../Page/東京都.md "wikilink")[八王子市](../Page/八王子市.md "wikilink")。\[1\]
 
 ## 成員
 

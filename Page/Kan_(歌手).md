@@ -14,6 +14,6 @@ Kan是他的藝名，原名「木村和」是父親所起。但是「和」在�
   - [KANのロックボンソワ](https://web.archive.org/web/20100905043215/http://www.stv.ne.jp/radio/kan/index.html)
   - [Have a Nite Trip](https://archive.is/20130501001514/http://www.interfm.co.jp/kan/index.php?mode=thu)
 
-[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink") [Category:日本唱片大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎獲獎者 "wikilink") [Category:福岡市出身人物](https://zh.wikipedia.org/wiki/Category:福岡市出身人物 "wikilink")
+[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink") [Category:日本唱片大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎獲獎者 "wikilink") [Category:福岡市出身人物](https://zh.wikipedia.org/wiki/Category:福岡市出身人物 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
 
 1.  [](http://jacompa.or.jp/rekishi/s1959.htm)

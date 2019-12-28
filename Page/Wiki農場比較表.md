@@ -63,7 +63,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Miraheze" title="wikilink">Miraheze</a></strong></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/共享創意" title="wikilink">共享創意</a></p></td>

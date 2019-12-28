@@ -121,149 +121,86 @@ Intel Developer Forum 2010中宣佈，MeeGo以六個月作為發佈周期。2010
 [Category:诺基亚](https://zh.wikipedia.org/wiki/Category:诺基亚 "wikilink") [Category:英特尔软件](https://zh.wikipedia.org/wiki/Category:英特尔软件 "wikilink") [Category:嵌入式Linux發行版](https://zh.wikipedia.org/wiki/Category:嵌入式Linux發行版 "wikilink") [Category:行動作業系統](https://zh.wikipedia.org/wiki/Category:行動作業系統 "wikilink") [Category:自由作業系統](https://zh.wikipedia.org/wiki/Category:自由作業系統 "wikilink") [Category:嵌入式操作系统](https://zh.wikipedia.org/wiki/Category:嵌入式操作系统 "wikilink") [Category:Linux基金会项目](https://zh.wikipedia.org/wiki/Category:Linux基金会项目 "wikilink") [Category:Mobile_Linux](https://zh.wikipedia.org/wiki/Category:Mobile_Linux "wikilink") [Category:MeeGo](https://zh.wikipedia.org/wiki/Category:MeeGo "wikilink")
 
 1.
-
 2.
-
 3.
 4.  <http://meego.com/about/faq>, FAQ on MeeGo website, retrieved 29 May 2010
-
 5.
-
 6.  <http://meego.com/devices>
-
 7.  [诺基亚CEO：即使N9成功 也要放弃MeeGo系统](http://tech.ifeng.com/telecom/detail_2011_06/26/7257757_0.shtml)
-
 8.  <http://fund.pchome.com.tw/news_page.html?fd=20110628≠_id=13092183907324327003>
-
 9.  [英特爾棄守MeeGo轉而擁抱Tizen](http://www.eettaiwan.com/ART_8800652563_676964_NT_b836276d.HTM)
-
-10. [英特爾擺脫MeeGo 開發開源軟件平臺Tizen](http://tech.hexun.com.tw/2011-09-29/133845318.html)
-
+10.
 11. [诺基亚彻底放弃：MeeGo开发团队解散](http://tech.sina.com.cn/mobile/n/2012-07-06/08367356811.shtml)
-
 12.
-
 13.
-
 14.
-
 15.
-
 16. <http://www.cnbeta.com/articles/196342.htm>
-
 17.
-
 18. .
-
 19.
 20.
-
 21.
-
 22.
-
 23.
-
 24. <http://linux-foundation.org/weblogs/press/2010/04/12/public-support-for-the-meego-project/>
-
 25.
-
 26.
-
 27. .
-
 28. .
-
 29. .
-
 30.
 31.
 32.
 33.
 34. .
-
 35.
 36.
 37. .
-
 38.
 39.
 40. .
-
 41.
 42.
 43. .
-
 44.
 45.
 46. .
-
 47.
 48.
 49. .
-
 50.
 51.
 52. .
-
 53.
 54.
 55. .
-
 56. .
-
 57.
-
 58. [MeeGo v1.0 Core Software Platform & Netbook User Experience project release](http://meego.com/community/blogs/imad/2010/meego-v1.0-core-software-platform-netbook-user-experience-project-release/)
-
 59. .
-
 60.
-
 61.
-
 62. .
-
 63.
-
 64.
-
 65. .
-
 66.
-
 67.
-
 68. .
-
 69.
-
 70.
-
 71. .
-
 72.
-
 73.
-
 74. .
-
 75.
-
 76.
-
 77. .
-
 78.
-
 79.
-
 80. .
-
 81.
-
 82.
-
 83.
-
 84.

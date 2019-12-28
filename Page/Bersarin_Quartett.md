@@ -24,10 +24,7 @@
 [Category:德國樂團](https://zh.wikipedia.org/wiki/Category:德國樂團 "wikilink") [Category:電子音樂團體](https://zh.wikipedia.org/wiki/Category:電子音樂團體 "wikilink") [Category:後搖滾樂團](https://zh.wikipedia.org/wiki/Category:後搖滾樂團 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.

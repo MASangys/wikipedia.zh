@@ -19,7 +19,7 @@
   - **秋月杏子**：井上明美（香港配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）
   - **紀田克美**：田口あゆみ（香港配音：[吳小藝](../Page/吳小藝.md "wikilink")）
   - **東堂勝**：セント（香港配音：[陸頌愚](../Page/陸頌愚.md "wikilink")）
-  - **滝竜介**：[京本政樹](../Page/京本政樹.md "wikilink")
+  - **滝竜介**：[京本政樹](../Page/京本政樹.md "wikilink") （香港配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
   - **南正人**：[土師孝也](../Page/土師孝也.md "wikilink")
 
 <!-- end list -->

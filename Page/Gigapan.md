@@ -14,7 +14,7 @@ Gigapan系統已公開發售。也有許多網友在網誌上提供自製類似�
 
   - <http://www.gigapan.org>
   - <http://www.gigapansystems.com/>
-  - <http://www.gigapanner.com/>
+  - <https://web.archive.org/web/20110129074238/http://www.gigapanner.com/>
   - <http://www.cs.cmu.edu/~globalconn/gigapan.html>
   - <http://howtogigapan.blogspot.com/>
 

@@ -110,24 +110,14 @@ DC漫畫公司於1972年時，得到了驚奇家族角色的出版權後，並�
 [Category:1939年首次亮相的漫画角色](https://zh.wikipedia.org/wiki/Category:1939年首次亮相的漫画角色 "wikilink") [Category:惊奇队长](https://zh.wikipedia.org/wiki/Category:惊奇队长 "wikilink") [Category:驚奇家族](https://zh.wikipedia.org/wiki/Category:驚奇家族 "wikilink") [Category:儿童超级英雄](https://zh.wikipedia.org/wiki/Category:儿童超级英雄 "wikilink") [Category:具有超人力气的DC漫画角色](https://zh.wikipedia.org/wiki/Category:具有超人力气的DC漫画角色 "wikilink") [Category:能施展魔法的DC漫畫角色](https://zh.wikipedia.org/wiki/Category:能施展魔法的DC漫畫角色 "wikilink") [Category:DC漫画作品](https://zh.wikipedia.org/wiki/Category:DC漫画作品 "wikilink") [Category:DC漫画超级英雄](https://zh.wikipedia.org/wiki/Category:DC漫画超级英雄 "wikilink") [Category:虚构孤儿](https://zh.wikipedia.org/wiki/Category:虚构孤儿 "wikilink") [Category:虚构双胞胎](https://zh.wikipedia.org/wiki/Category:虚构双胞胎 "wikilink") [Category:电影角色](https://zh.wikipedia.org/wiki/Category:电影角色 "wikilink") [Category:电影系列角色](https://zh.wikipedia.org/wiki/Category:电影系列角色 "wikilink") [Category:黄金时代超级英雄](https://zh.wikipedia.org/wiki/Category:黄金时代超级英雄 "wikilink") [Category:由C·C·贝克创作的角色](https://zh.wikipedia.org/wiki/Category:由C·C·贝克创作的角色 "wikilink") [Category:電影原著漫畫](https://zh.wikipedia.org/wiki/Category:電影原著漫畫 "wikilink") [Category:具有加速愈合能力的DC漫画角色](https://zh.wikipedia.org/wiki/Category:具有加速愈合能力的DC漫画角色 "wikilink") [Category:可以超人类速度移动的DC漫画角色](https://zh.wikipedia.org/wiki/Category:可以超人类速度移动的DC漫画角色 "wikilink") [Category:1941年首次发行的漫画](https://zh.wikipedia.org/wiki/Category:1941年首次发行的漫画 "wikilink") [Category:1972年首次发行的漫画](https://zh.wikipedia.org/wiki/Category:1972年首次发行的漫画 "wikilink")
 
 1.   Note: External link consists of a forum site summing up the top 200 characters of *Wizard Magazine* since the real site that contains the list is broken.
-
 2.
-
 3.
-
 4.
-
 5.  Excerpt: "I've always felt that it was this origin story and concept that made Captain Marvel instantly popular, to the point that it was outselling every comic on the stands for several years throughout the '40s."
-
 6.
-
 7.  Whiz Comics \#2 (Feb 1940)
-
 8.
-
 9.  *Captain Marvel Adventures* \#144
-
 10.
 11. <https://www.youtube.com/watch?v=iLpotsnvjoQ>
-
 12. <https://www.rottentomatoes.com/tv/shazam_>

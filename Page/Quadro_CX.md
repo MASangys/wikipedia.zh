@@ -51,6 +51,6 @@
 
   - [NVIDIA Quadro CX專為Adobe Creative Suite設計的加速器](http://www.nvidia.com.tw/object/product_quadro_cx_tw.html)
 
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
+[Category:Quadro系列](https://zh.wikipedia.org/wiki/Category:Quadro系列 "wikilink") [Category:2008年面世的產品](https://zh.wikipedia.org/wiki/Category:2008年面世的產品 "wikilink")
 
 1.  [NVIDIA推出NVIDIA QUADRO CX繪圖方案](http://www.nvidia.com.tw/object/io_1224642447251.html)
